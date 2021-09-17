@@ -54,6 +54,7 @@
     //
     {
       budModules = { devos = import ./bud; };
+      overlay = ./pkgs;
     }
   ;
 }
