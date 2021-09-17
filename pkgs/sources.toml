@@ -61,7 +61,7 @@ src.manual = "b3d35a4995c98cfadeb0c3a356025dbd3984caef"
 fetch.github = "caddyserver/caddy"
 
 [cups-pdf]
-src.webpage = "https://www.cups-pdf.de/download.shtml"
+src.webpage = "https://www.cups-pdf.de/src"
 src.regex = "cups-pdf_(.*)\\.tar\\.gz\">cups-pdf_"
 fetch.url = "https://www.cups-pdf.de/src/cups-pdf_$ver.tar.gz"
 
