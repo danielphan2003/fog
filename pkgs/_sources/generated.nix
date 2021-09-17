@@ -583,17 +583,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "130288beb4f134e30f731fde608f9f07dc920822";
+    version = "8ac2afced31cfb0fb2e7ab695e0de86c5260c0d8";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "130288beb4f134e30f731fde608f9f07dc920822";
+      rev = "8ac2afced31cfb0fb2e7ab695e0de86c5260c0d8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17cpq50s90wjgqdqwb38py94kf91bic9a50rwfan14zlwf92v2hi";
+      sha256 = "0ikw1pvnwmz46zsypf0gv7vc2p4lkbx3r0jch4annw7bxjsmnpfv";
     };
     cargoLock = {
-      lockFile = ./ouch-130288beb4f134e30f731fde608f9f07dc920822/Cargo.lock;
+      lockFile = ./ouch-8ac2afced31cfb0fb2e7ab695e0de86c5260c0d8/Cargo.lock;
       outputHashes = {
         
       };
@@ -807,14 +807,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "3076c9c897ba8370bb17872823a21f1123e7b466";
+    version = "796c1b97c7f6530145c83254c50178f77dadd8a0";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "3076c9c897ba8370bb17872823a21f1123e7b466";
+      rev = "796c1b97c7f6530145c83254c50178f77dadd8a0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "14jxzf8z5zlch3iwxnp75id23gzn34vc60v6b9dwcq4dpq509lvp";
+      sha256 = "0q6bs5dfbwhwq2a601wlr9paj9k9v56asfaarzp8dzj9vypgjyrc";
     };
   };
   spicetify-themes = {
