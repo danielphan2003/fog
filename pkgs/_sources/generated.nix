@@ -651,14 +651,14 @@
   };
   pure = {
     pname = "pure";
-    version = "4ead1d6c81a31cd7edb4a8b4c255fa5cc0035f0b";
+    version = "a72254dad2fbdbdac6523a54f909a1325b728fed";
     src = fetchgit {
       url = "https://github.com/sindresorhus/pure";
-      rev = "4ead1d6c81a31cd7edb4a8b4c255fa5cc0035f0b";
+      rev = "a72254dad2fbdbdac6523a54f909a1325b728fed";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0i14kk54207vkbwc8b4hwngwkchwzcz7452i9slw2k203wc4jlrl";
+      sha256 = "1j076862nyhwdm1499xwgczsw4crvic8yvfjk8g7bdr5bw26gh7m";
     };
   };
   pythonPackages-cfscrape = {
