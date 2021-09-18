@@ -301,6 +301,16 @@ fetch.url = "https://github.com/z411/trackma/archive/master.tar.gz"
 src.git = "https://github.com/salty-horse/ibus-uniemoji"
 fetch.github = "salty-horse/ibus-uniemoji"
 
+[vaultwarden]
+src.git = "https://github.com/dani-garcia/vaultwarden"
+fetch.github = "dani-garcia/vaultwarden"
+cargo_lock = "Cargo.lock"
+
+[vaultwarden-vault]
+src.github_tag = "dani-garcia/bw_web_builds"
+src.prefix = "v"
+fetch.url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v$ver/bw_web_v$ver.tar.gz"
+
 [ventoy]
 src.manual = "1.0.46"
 fetch.url = "https://github.com/ventoy/Ventoy/releases/download/v$ver/ventoy-$ver-linux.tar.gz"
