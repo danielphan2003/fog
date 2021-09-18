@@ -45,6 +45,18 @@
       sha256 = "129zvhig51w48jdllaz4s6f27c5znh8mw9wajhb3i1kzbhq51iy4";
     };
   };
+  anbox = {
+    pname = "anbox";
+    version = "31d584e13d24b1889566ae77e7cabc88e6414ebf";
+    src = fetchgit {
+      url = "https://github.com/anbox/anbox";
+      rev = "31d584e13d24b1889566ae77e7cabc88e6414ebf";
+      fetchSubmodules = true;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "056ndzs7lpkzvcvccbg57c4652z9601z941d89jjb0yq0j2ydcd3";
+    };
+  };
   anime-downloader = {
     pname = "anime-downloader";
     version = "b28dffe87fad061f4d4ad0f16592c53eded2f3f9";
@@ -651,14 +663,14 @@
   };
   pure = {
     pname = "pure";
-    version = "a72254dad2fbdbdac6523a54f909a1325b728fed";
+    version = "a45fada0d4dbee7d38fb05d386c40b9c6cfbd132";
     src = fetchgit {
       url = "https://github.com/sindresorhus/pure";
-      rev = "a72254dad2fbdbdac6523a54f909a1325b728fed";
+      rev = "a45fada0d4dbee7d38fb05d386c40b9c6cfbd132";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1j076862nyhwdm1499xwgczsw4crvic8yvfjk8g7bdr5bw26gh7m";
+      sha256 = "1gbya1h7lhcbkbz0ldhkgrqx8wb4srd217il220mk7ymdg1v3n2q";
     };
   };
   pythonPackages-cfscrape = {
