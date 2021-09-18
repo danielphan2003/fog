@@ -575,14 +575,14 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "7b76c271d9886672c4d662c9217c553e8a18b4d2";
+    version = "a1bb05c816819b21328aa475b157a5e8079a4644";
     src = fetchgit {
       url = "https://github.com/nwg-piotr/nwg-drawer";
-      rev = "7b76c271d9886672c4d662c9217c553e8a18b4d2";
+      rev = "a1bb05c816819b21328aa475b157a5e8079a4644";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17v2zjl2hx9wjq8i798gqlxwnvk6xpgdkccz1mfbf01bjfkl30c8";
+      sha256 = "1xl3q391c55vx1xb0gccv6c8llv4a007k9rxhw5l0rglkklffwl9";
     };
   };
   ny-font = {
