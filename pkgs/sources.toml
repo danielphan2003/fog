@@ -24,6 +24,11 @@ fetch.url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v$ver/
 src.git = "https://github.com/RaitaroH/adl"
 fetch.github = "RaitaroH/adl"
 
+[anbox]
+src.git = "https://github.com/anbox/anbox"
+fetch.github = "anbox/anbox"
+git.fetchSubmodules = true
+
 [anime-downloader]
 src.git = "https://github.com/anime-dl/anime-downloader"
 fetch.github = "anime-dl/anime-downloader"
