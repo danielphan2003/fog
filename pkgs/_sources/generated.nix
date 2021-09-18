@@ -925,6 +925,35 @@
       sha256 = "1s8fgrs4v2xdlfg5n2k3w2h5ravcbwd5xd9gx88pjs3jl1fwn5mw";
     };
   };
+  vaultwarden = {
+    pname = "vaultwarden";
+    version = "8c10de3eddd8349264074c3aa3a7d955862275a6";
+    src = fetchgit {
+      url = "https://github.com/dani-garcia/vaultwarden";
+      rev = "8c10de3eddd8349264074c3aa3a7d955862275a6";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "08dgqa9sshr3j3cnczxs2dfs18xy9z9xzps700135nm0xhmflrbh";
+    };
+    cargoLock = {
+      lockFile = ./vaultwarden-8c10de3eddd8349264074c3aa3a7d955862275a6/Cargo.lock;
+      outputHashes = {
+        "data-url-0.1.0" = "06xv0psj2j5i4hbd2hdwi4p8mlzcq0zs022na0vijqwppxbx9apd";
+        "rocket-0.5.0-dev" = "19lyljqhi6xszg86zl6wzd14bnjdb56dkcgqg2s3qz7bs8dgm4mi";
+        "job_scheduler-1.2.1" = "1mb2i4xmj6nl1q86vfy7qs5sq0qq3ycznsnrcmfh7bfm04lchj3g";
+        "devise-0.3.0" = "0li9n5pviky3i4sb4h7p78vydgbx1nl3hrlynf42n5mvl8wc9fbj";
+      };
+    };
+  };
+  vaultwarden-vault = {
+    pname = "vaultwarden-vault";
+    version = "2.22.3";
+    src = fetchurl {
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.22.3/bw_web_v2.22.3.tar.gz";
+      sha256 = "06r7rr1dj9vgqbl8j2zjvb0l08w5nalgm3v3har0xaxggkla3z3h";
+    };
+  };
   ventoy = {
     pname = "ventoy";
     version = "1.0.46";
