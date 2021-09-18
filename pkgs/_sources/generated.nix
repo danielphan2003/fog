@@ -563,14 +563,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "c4b8b01d0e6ea381374cfb1e2d733ee86b0919b2";
+    version = "1a719cf8c8482893d09d13f0a75f6011fc13e239";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "c4b8b01d0e6ea381374cfb1e2d733ee86b0919b2";
+      rev = "1a719cf8c8482893d09d13f0a75f6011fc13e239";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0qabmdsngr3dd3yznpbd6i1wqqdrhq2h21fikfndxdrkynpjz7rj";
+      sha256 = "17i46l1hw7ilgrpg3ry2rf1jq4qvcgkibbij5qi97lar5wsmhbgj";
     };
   };
   nwg-drawer = {
