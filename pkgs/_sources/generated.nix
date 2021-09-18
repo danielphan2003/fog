@@ -539,14 +539,14 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "765c12edee7b6516015e93814494898376b838ef";
+    version = "bdf893a8c8227f4e28f674b57c57fd6ee84994fc";
     src = fetchgit {
       url = "https://github.com/netdata/go.d.plugin";
-      rev = "765c12edee7b6516015e93814494898376b838ef";
+      rev = "bdf893a8c8227f4e28f674b57c57fd6ee84994fc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0zja289r2zrfwfk8kqawhz54xn0gyh6xsw2rs90sjk3j0wh380cx";
+      sha256 = "0r5wbih16zn5h7bm8hna24zzkwd24mf8x66ym8zx8gbzik8zq1zh";
     };
   };
   nix-zsh-completions = {
