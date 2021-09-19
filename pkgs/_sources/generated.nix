@@ -563,14 +563,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "8467b6a6e51a3e032df95304fdff07d88cb91385";
+    version = "3bda6fb0b9ada877172c5367912a03e04faa42b2";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "8467b6a6e51a3e032df95304fdff07d88cb91385";
+      rev = "3bda6fb0b9ada877172c5367912a03e04faa42b2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1wz2ffcnhkddclwsv7znvn1xjiyqpmr9i2w4labl5pdnbmxyhqpz";
+      sha256 = "15kmmncmyrjfryrs5qmx2g1n7d5f3f8ncir62n2755zpmd7j8qz7";
     };
   };
   nwg-drawer = {
@@ -935,17 +935,17 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "8c10de3eddd8349264074c3aa3a7d955862275a6";
+    version = "2cdce04662532ef978e4d11e27c39a95abd5b054";
     src = fetchgit {
       url = "https://github.com/dani-garcia/vaultwarden";
-      rev = "8c10de3eddd8349264074c3aa3a7d955862275a6";
+      rev = "2cdce04662532ef978e4d11e27c39a95abd5b054";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "08dgqa9sshr3j3cnczxs2dfs18xy9z9xzps700135nm0xhmflrbh";
+      sha256 = "0px4sp7fkqdykffx4zijwgyqyrj55r6d56lgzzhpk20qc5nqiqwc";
     };
     cargoLock = {
-      lockFile = ./vaultwarden-8c10de3eddd8349264074c3aa3a7d955862275a6/Cargo.lock;
+      lockFile = ./vaultwarden-2cdce04662532ef978e4d11e27c39a95abd5b054/Cargo.lock;
       outputHashes = {
         "data-url-0.1.0" = "06xv0psj2j5i4hbd2hdwi4p8mlzcq0zs022na0vijqwppxbx9apd";
         "rocket-0.5.0-dev" = "19lyljqhi6xszg86zl6wzd14bnjdb56dkcgqg2s3qz7bs8dgm4mi";
