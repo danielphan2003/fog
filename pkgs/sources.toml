@@ -289,6 +289,11 @@ fetch.github = "fluix-dev/sway-borders"
 src.git = "https://github.com/mortie/swaylock-effects"
 fetch.github = "mortie/swaylock-effects"
 
+[teams]
+src.webpage = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams"
+src.regex = "teams_(.*)_amd64\\.deb\">teams_"
+fetch.url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_$ver_amd64.deb"
+
 [tailscale]
 src.git = "https://github.com/tailscale/tailscale"
 fetch.github = "tailscale/tailscale"
