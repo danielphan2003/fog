@@ -897,6 +897,14 @@
       sha256 = "1cvnjamy1c5f9bfg58vy8mh5ljpzjkb7hrviv4gndadfz6pqwkwv";
     };
   };
+  teams = {
+    pname = "teams";
+    version = "1.4.00.13653";
+    src = fetchurl {
+      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.4.00.13653_amd64.deb";
+      sha256 = "1kx4j837fd344zy90nl0j3r8cdvihy6i6gf56wd5n56zngx1fhjv";
+    };
+  };
   trackma = {
     pname = "trackma";
     version = "55728fde0cd3c58044e9f2b7d6d1e56fe189148b";
