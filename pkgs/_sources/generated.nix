@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "1edf53f5015e3f1c75b8e845cecef74c787048a5";
+    version = "ed9282e8f1a67d8415e29fc710799b2753096763";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "1edf53f5015e3f1c75b8e845cecef74c787048a5";
+      rev = "ed9282e8f1a67d8415e29fc710799b2753096763";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "185i3bc3nynihbi5kjwpcg2lkq8zgzbnzq2yx641g4lsjdalbldc";
+      sha256 = "0hsa8pd2j4anghjc6w6b8735whhjgx86awf4f4w95y8jhg8f6ayz";
     };
   };
   caddy = {
@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "238eb649a2a89bef346c3b28418fa5f8ca442588";
+    version = "9b5a60af538bc03f1082b8ec64b52c37ed336f28";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "238eb649a2a89bef346c3b28418fa5f8ca442588";
+      rev = "9b5a60af538bc03f1082b8ec64b52c37ed336f28";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0dhn6kd0d32lxb6f11iggfjvnpwn092mc7idmpkcy2klar1df6kb";
+      sha256 = "1lljhy69lfpvrcphggvf2cgyx43090fjy8i87370qy6ms3aa2hw6";
     };
   };
   rofi-wayland = {
@@ -1004,10 +1004,10 @@
   };
   vscode-extensions-Material-theme = {
     pname = "vscode-extensions-Material-theme";
-    version = "3.11.4";
+    version = "3.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.11.4/file/zhuangtongfa.material-theme-3.11.4.vsix";
-      sha256 = "18g7nijd73az9hdfcys25ckp833f9r65pjf2hdqgrj565fpzkhg3";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.12.0/file/zhuangtongfa.material-theme-3.12.0.vsix";
+      sha256 = "197k9x8ckshqig8lxxnyrmf9nirip5vqan1nfh7cnl6zsg5pyr6y";
     };
     homepage = "https://github.com/Binaryify/OneDark-Pro";
     license = "mit";
