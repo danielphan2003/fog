@@ -456,10 +456,10 @@ src.openvsx = "adpyke.codesnap"
 fetch.openvsx = "adpyke.codesnap"
 passthru = { license = "mit", homepage = "https://github.com/kufii/CodeSnap", description = "📷 Take beautiful screenshots of your code" }
 
-# [cpp]
-# src.openvsx = "vscode.cpp"
-# fetch.openvsx = "vscode.cpp"
-# passthru = { publisher = "vscode", name = "cpp" }
+[vscode-extensions-code-runner]
+src.openvsx = "formulahendry.code-runner"
+fetch.openvsx = "formulahendry.code-runner"
+passthru = { license = "mit", homepage = "https://github.com/formulahendry/vscode-code-runner", description = "Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran" }
 
 [vscode-extensions-dart-code]
 src.openvsx = "Dart-Code.dart-code"
@@ -622,3 +622,7 @@ passthru = { license = "mit" }
 src.vsmarketplace = "msjsdiag.vscode-react-native"
 fetch.vsmarketplace = "msjsdiag.vscode-react-native"
 passthru = { license = "mit" }
+
+[vscode-extensions-vscode-cpp]
+src.github_tag = "microsoft/vscode-cpptools"
+fetch.url = "https://github.com/microsoft/vscode-cpptools/releases/download/$ver/cpptools-linux.vsix"
