@@ -1044,6 +1044,17 @@
     license = "mit";
     description = "A customizable extension for colorizing matching brackets";
   };
+  vscode-extensions-code-runner = {
+    pname = "vscode-extensions-code-runner";
+    version = "0.11.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.5/file/formulahendry.code-runner-0.11.5.vsix";
+      sha256 = "0j4wd5qiwf9anynb47xwvrs7262is1naprjskndhflawnghrzx2r";
+    };
+    homepage = "https://github.com/formulahendry/vscode-code-runner";
+    license = "mit";
+    description = "Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran";
+  };
   vscode-extensions-codeql = {
     pname = "vscode-extensions-codeql";
     version = "1.5.5";
@@ -1363,6 +1374,14 @@
     homepage = "https://gitlab.com/versionlens/vscode-versionlens";
     license = "isc";
     description = "Shows the latest version for each package using code lens";
+  };
+  vscode-extensions-vscode-cpp = {
+    pname = "vscode-extensions-vscode-cpp";
+    version = "1.6.0";
+    src = fetchurl {
+      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.6.0/cpptools-linux.vsix";
+      sha256 = "0mcgfys4qx7ggp26kyzrbyiq4qjf33vms4izm90jvcj6zfy9jln2";
+    };
   };
   wgcf = {
     pname = "wgcf";
