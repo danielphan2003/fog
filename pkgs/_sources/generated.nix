@@ -563,14 +563,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "3bda6fb0b9ada877172c5367912a03e04faa42b2";
+    version = "4d0ebf2b7a23216877e45d1f1e4814867ad473e9";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "3bda6fb0b9ada877172c5367912a03e04faa42b2";
+      rev = "4d0ebf2b7a23216877e45d1f1e4814867ad473e9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15kmmncmyrjfryrs5qmx2g1n7d5f3f8ncir62n2755zpmd7j8qz7";
+      sha256 = "0f5pgjcw9csrn7l7kfw16vamblvpfciry3m0hc3a1axk9dblps8l";
     };
   };
   nwg-drawer = {
@@ -819,14 +819,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "17c1032a31177870a1fd354f1c3d0af96547839f";
+    version = "0d5e618fa3284b6b9eb24d160382e0375c6b9287";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "17c1032a31177870a1fd354f1c3d0af96547839f";
+      rev = "0d5e618fa3284b6b9eb24d160382e0375c6b9287";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "14w81zq8imm25ijqxngdznrr86bkknjwb23q2mwvgwn5sdhmq6az";
+      sha256 = "0cyk0srfv61c7gs7fnmwgzfm55wknwdh3gm6kv40rnpwvqd5qkg0";
     };
   };
   spicetify-themes = {
