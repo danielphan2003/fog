@@ -1229,6 +1229,14 @@
     license = "mit";
     description = "Material Design Icons for Visual Studio Code";
   };
+  vscode-extensions-ms-vscode-cpptools = {
+    pname = "vscode-extensions-ms-vscode-cpptools";
+    version = "1.6.0";
+    src = fetchurl {
+      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.6.0/cpptools-linux.vsix";
+      sha256 = "0mcgfys4qx7ggp26kyzrbyiq4qjf33vms4izm90jvcj6zfy9jln2";
+    };
+  };
   vscode-extensions-nix-env-selector = {
     pname = "vscode-extensions-nix-env-selector";
     version = "1.0.7";
@@ -1374,14 +1382,6 @@
     homepage = "https://gitlab.com/versionlens/vscode-versionlens";
     license = "isc";
     description = "Shows the latest version for each package using code lens";
-  };
-  vscode-extensions-vscode-cpp = {
-    pname = "vscode-extensions-vscode-cpp";
-    version = "1.6.0";
-    src = fetchurl {
-      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.6.0/cpptools-linux.vsix";
-      sha256 = "0mcgfys4qx7ggp26kyzrbyiq4qjf33vms4izm90jvcj6zfy9jln2";
-    };
   };
   wgcf = {
     pname = "wgcf";
