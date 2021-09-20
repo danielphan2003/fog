@@ -623,6 +623,6 @@ src.vsmarketplace = "msjsdiag.vscode-react-native"
 fetch.vsmarketplace = "msjsdiag.vscode-react-native"
 passthru = { license = "mit" }
 
-[vscode-extensions-vscode-cpp]
+[vscode-extensions-ms-vscode-cpptools]
 src.github_tag = "microsoft/vscode-cpptools"
 fetch.url = "https://github.com/microsoft/vscode-cpptools/releases/download/$ver/cpptools-linux.vsix"
