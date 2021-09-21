@@ -887,14 +887,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2db877caa332c8968ee1b1eb08ef40a219ff3eec";
+    version = "7d8227e7a66220ba4f83e2c495a7600b2cba8a92";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "2db877caa332c8968ee1b1eb08ef40a219ff3eec";
+      rev = "7d8227e7a66220ba4f83e2c495a7600b2cba8a92";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1v4sn9dqh89bjmbfv0gwim1dxc7vmdn4y8hm95980a1fnqag32dp";
+      sha256 = "0v77830ns6wr7m2d60ramg393rhazfilg92jb7s7x1wzhpqn3kl2";
     };
   };
   teams = {
@@ -1310,10 +1310,10 @@
   };
   vscode-extensions-python = {
     pname = "vscode-extensions-python";
-    version = "2021.9.1218897484";
+    version = "2021.9.1230869389";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2021.9.1218897484/file/ms-python.python-2021.9.1218897484.vsix";
-      sha256 = "01wib7qa42mangkr4gcpdxl5xb3z5564kys1iws13xmyg9v6q6l2";
+      url = "https://open-vsx.org/api/ms-python/python/2021.9.1230869389/file/ms-python.python-2021.9.1230869389.vsix";
+      sha256 = "0v4v5fcf2z1cys2if4k64qdwvr96hqvqw31fhdrrwwbgmx8cxjj3";
     };
     homepage = "https://github.com/Microsoft/vscode-python";
     license = "mit";
