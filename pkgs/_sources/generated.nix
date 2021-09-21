@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "beea0e2c8d948f7052279d865a4f430312d2bf27";
+    version = "30353ac8f2a8a0de0129fd3d42c69c6e0942a063";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "beea0e2c8d948f7052279d865a4f430312d2bf27";
+      rev = "30353ac8f2a8a0de0129fd3d42c69c6e0942a063";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "183frs88pj36s2gvc3pbhjq9b964aqk2rz5mf4vl5qlmpjmzpkwb";
+      sha256 = "008qpqbh38xsfz66rwvpv070yh5k0yy05z6fhk6jmwp97l9libzk";
     };
   };
   rofi-wayland = {
@@ -819,14 +819,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "0d5e618fa3284b6b9eb24d160382e0375c6b9287";
+    version = "970f03d8572fffe4f960b635f551b3c4567a7353";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "0d5e618fa3284b6b9eb24d160382e0375c6b9287";
+      rev = "970f03d8572fffe4f960b635f551b3c4567a7353";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0cyk0srfv61c7gs7fnmwgzfm55wknwdh3gm6kv40rnpwvqd5qkg0";
+      sha256 = "0nfyfv91fgysazc0h1v49mn7qvzhhm88x56vfvxmxcglgljvrkd3";
     };
   };
   spicetify-themes = {
