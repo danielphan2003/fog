@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "30353ac8f2a8a0de0129fd3d42c69c6e0942a063";
+    version = "44012ace47699cf0c7fe2f37b9c199e0ca979a08";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "30353ac8f2a8a0de0129fd3d42c69c6e0942a063";
+      rev = "44012ace47699cf0c7fe2f37b9c199e0ca979a08";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "008qpqbh38xsfz66rwvpv070yh5k0yy05z6fhk6jmwp97l9libzk";
+      sha256 = "0ykb83dfvywzd6fna6mzrnyhildlmll4kffv7vwlamsbcvv31bgb";
     };
   };
   rofi-wayland = {
@@ -1132,10 +1132,10 @@
   };
   vscode-extensions-eslint = {
     pname = "vscode-extensions-eslint";
-    version = "2.1.8";
+    version = "2.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.1.8/file/dbaeumer.vscode-eslint-2.1.8.vsix";
-      sha256 = "18yw1c2yylwbvg5cfqfw8h1r2nk9vlixh0im2px8lr7lw0airl28";
+      url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.1.20/file/dbaeumer.vscode-eslint-2.1.20.vsix";
+      sha256 = "04fyadd46rc8rah9lin92479z6rqf6wnk48a9czwym282bkrl96q";
     };
     homepage = "https://github.com/Microsoft/vscode-eslint";
     license = "mit";
