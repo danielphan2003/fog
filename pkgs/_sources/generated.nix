@@ -415,10 +415,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "95.0.1011.1";
+    version = "95.0.1020.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_95.0.1011.1-1_amd64.deb";
-      sha256 = "17lp90ixk3ib5k5fkg85cy3cv6k87i5bb2ww6paz8wdlh603379s";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_95.0.1020.0-1_amd64.deb";
+      sha256 = "0kbidxfqrjfc8vp6hb1qjgjgdpd45xx59wp25a9zm6ji8cgzsm0g";
     };
   };
   minecraft-better-beds = {
@@ -1015,10 +1015,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.7.13";
+    version = "0.7.14";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.13/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "08b18n13wbr0z83g62kkszxmddxfr9hzkxr7zg2rb6ipkgqgb3fy";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.14/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "1bk78gjmq18b5wbh7b1avir24rqlrl4axscrvk4sa9f9cpj95h7f";
     };
     license = "mit";
   };
