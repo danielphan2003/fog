@@ -107,14 +107,14 @@
   };
   awesome = {
     pname = "awesome";
-    version = "5ca16ae8a07ec7114aa64b9ed14b741b901acb3a";
+    version = "87e09f81ab47ee709eb803d824c1e8e500049d22";
     src = fetchgit {
       url = "https://github.com/awesomeWM/awesome";
-      rev = "5ca16ae8a07ec7114aa64b9ed14b741b901acb3a";
+      rev = "87e09f81ab47ee709eb803d824c1e8e500049d22";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1iv018l79ymhhk8nbbxpbbyqrv6lr2azivfw5v8f29mjn69cl6xg";
+      sha256 = "1ka3wnbjlimx8zw3q1jrqd5k7hqi57g9240csh70x3inxschxyz8";
     };
   };
   awestore = {
@@ -639,14 +639,14 @@
   };
   picom = {
     pname = "picom";
-    version = "ee7d96101d17f3160fcb80b7aa767b75f06662ec";
+    version = "de959f910b646f2f064cad54a40e931e2ccefd2d";
     src = fetchgit {
       url = "https://github.com/yshui/picom";
-      rev = "ee7d96101d17f3160fcb80b7aa767b75f06662ec";
+      rev = "de959f910b646f2f064cad54a40e931e2ccefd2d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "13fam0k20sd2xbkia70rb2jvxyl6g5r2bvdd9bcnr0n6isz60ais";
+      sha256 = "1whv89b6ya5np75h4s3746rqpprcx2hvm0y883cza0710y08v42x";
     };
   };
   plymouth-themes = {
@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6c5e17e5ae27435f658447d2b2661b67468da4b7";
+    version = "1b7dea7e8e767374a173eabeb03f67815cddae16";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "6c5e17e5ae27435f658447d2b2661b67468da4b7";
+      rev = "1b7dea7e8e767374a173eabeb03f67815cddae16";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "000qii3nwvmgc7vlij88b2fz0z003qpljc9k8wrmyh89w8i7mif9";
+      sha256 = "07xsa16977hfqiri45k99cdp2358kxzb7irfq2a2ildj0xz7m167";
     };
   };
   rofi-wayland = {
