@@ -285,17 +285,17 @@
   };
   frece = {
     pname = "frece";
-    version = "fcf31f55a1a8e8677402bf966167b12e5c35c7a8";
+    version = "62669dee1024ad5e2dfc49ca91fad25361a041fa";
     src = fetchgit {
       url = "https://github.com/YodaEmbedding/frece";
-      rev = "fcf31f55a1a8e8677402bf966167b12e5c35c7a8";
+      rev = "62669dee1024ad5e2dfc49ca91fad25361a041fa";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11dwqzdbs3ypf45kgcr7dbnnpzy8pfq8mb9wysxsxn3r236448dk";
+      sha256 = "13hl7bkp5893w8d9jqdd7casasj5wxzb17bxj8v7mh3pci0qgbpb";
     };
     cargoLock = {
-      lockFile = ./frece-fcf31f55a1a8e8677402bf966167b12e5c35c7a8/Cargo.lock;
+      lockFile = ./frece-62669dee1024ad5e2dfc49ca91fad25361a041fa/Cargo.lock;
       outputHashes = {
         
       };
@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "522dd72bd0da79bc9a8e8df9b7feb8eafa170ae8";
+    version = "1ff024be2616b87a83d6e16bb36b1fdce309966a";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "522dd72bd0da79bc9a8e8df9b7feb8eafa170ae8";
+      rev = "1ff024be2616b87a83d6e16bb36b1fdce309966a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0pm6hb4j42q5ry5zz5v3nmv9r6w7wi2kf25c8giy8h6haiz4fzdy";
+      sha256 = "0racxsrqkaggi7yqhnsm4jz68i59a3qq574lkxkh1p6vg15zzdr2";
     };
   };
   rofi-wayland = {
@@ -1015,10 +1015,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.7.14";
+    version = "0.7.15";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.14/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "1bk78gjmq18b5wbh7b1avir24rqlrl4axscrvk4sa9f9cpj95h7f";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.15/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "0v4bbzyl6mvhlf9yp48am8lhjgnhjlhbznikwbgzcahc2isxkhqc";
     };
     license = "mit";
   };
