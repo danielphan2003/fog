@@ -843,7 +843,7 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.68.628";
+    version = "1.1.68.632";
     src = fetchurl {
       url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_50.snap";
       sha256 = "0cibm3inkj7l4m1dqa2ax3kci65iqk0g76ch75xrv87l5vpxf5a8";
