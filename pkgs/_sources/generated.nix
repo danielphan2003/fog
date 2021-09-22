@@ -563,14 +563,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "431593d3789d565bc12639853e8142abc7ffdc09";
+    version = "1bd1763ba033ddcc4b874e95447e7591bf952f9e";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "431593d3789d565bc12639853e8142abc7ffdc09";
+      rev = "1bd1763ba033ddcc4b874e95447e7591bf952f9e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17djsz3dlndxbfjbs65hgxihv1h0yl4mwahcdxvpb3i92cj94p65";
+      sha256 = "0h21idw665h8zhfbynw7yv67qwi7iaxvjrfmkdv7iw93ww69vs2s";
     };
   };
   nwg-drawer = {
@@ -631,10 +631,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "274";
+    version = "275";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/274/downloads/paper-1.17.1-274.jar";
-      sha256 = "0savh27d6h5psd19jaji4hrr9lazm0dv2i9rd85rbfrqz7d6r0yw";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/275/downloads/paper-1.17.1-275.jar";
+      sha256 = "11qfz89q97xq2zmr1hga638fimva9bd3i15y5wal855ks4bj1gxj";
     };
   };
   picom = {
@@ -887,14 +887,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "18086c4cb7b63740ef1a9ae9d3369175d5ac2110";
+    version = "c350321eec5c377706655865b73d1ef61aab953e";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "18086c4cb7b63740ef1a9ae9d3369175d5ac2110";
+      rev = "c350321eec5c377706655865b73d1ef61aab953e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0n7v91gws81xjzrqhagq3zm2h32wx85733a4jwj3i4x58x2vdw4i";
+      sha256 = "0ia9yg6949zlapnmfz2ygz682dd4dmvcwcqzxxdr1jxp0pvi2yfk";
     };
   };
   teams = {
