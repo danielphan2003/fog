@@ -613,28 +613,28 @@
   };
   paper = {
     pname = "paper";
-    version = "fc91d5e0963f41d57df97076681a03804b57a5e1";
+    version = "35ecb75c6776615f1db5dfb861fbe407263d8057";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/paper";
-      rev = "fc91d5e0963f41d57df97076681a03804b57a5e1";
+      rev = "35ecb75c6776615f1db5dfb861fbe407263d8057";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1qcq5nfh7vlh2pshqqgcaq5pqnyvwbihbm1a326l7zm9j9m45095";
+      sha256 = "1sdd989vl72hnf9mhq2g3j6jzcmplls9fvihf59qqdyhkr8lqi8g";
     };
     cargoLock = {
-      lockFile = ./paper-fc91d5e0963f41d57df97076681a03804b57a5e1/Cargo.lock;
+      lockFile = ./paper-35ecb75c6776615f1db5dfb861fbe407263d8057/Cargo.lock;
       outputHashes = {
-        
+        "snui-0.1.0" = "1cxp310c6dha13bh4fv5msmc48jpab7l45dk2r73za7rm9c49bfb";
       };
     };
   };
   papermc = {
     pname = "papermc";
-    version = "273";
+    version = "274";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/273/downloads/paper-1.17.1-273.jar";
-      sha256 = "1fz5ad19wdyakxl9cfdlbdhayml28vzzqxqfb3s2sa7kc0iagr1y";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/274/downloads/paper-1.17.1-274.jar";
+      sha256 = "0savh27d6h5psd19jaji4hrr9lazm0dv2i9rd85rbfrqz7d6r0yw";
     };
   };
   picom = {
@@ -935,17 +935,17 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "2cdce04662532ef978e4d11e27c39a95abd5b054";
+    version = "b4c95fb4ac5176ffc17f408e15e12b6e19a17c71";
     src = fetchgit {
       url = "https://github.com/dani-garcia/vaultwarden";
-      rev = "2cdce04662532ef978e4d11e27c39a95abd5b054";
+      rev = "b4c95fb4ac5176ffc17f408e15e12b6e19a17c71";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0px4sp7fkqdykffx4zijwgyqyrj55r6d56lgzzhpk20qc5nqiqwc";
+      sha256 = "0v234cc07b3mz7czb3skiscf9g5qila0c4p0qkfkw667r8gkqq8w";
     };
     cargoLock = {
-      lockFile = ./vaultwarden-2cdce04662532ef978e4d11e27c39a95abd5b054/Cargo.lock;
+      lockFile = ./vaultwarden-b4c95fb4ac5176ffc17f408e15e12b6e19a17c71/Cargo.lock;
       outputHashes = {
         "data-url-0.1.0" = "06xv0psj2j5i4hbd2hdwi4p8mlzcq0zs022na0vijqwppxbx9apd";
         "rocket-0.5.0-dev" = "19lyljqhi6xszg86zl6wzd14bnjdb56dkcgqg2s3qz7bs8dgm4mi";
