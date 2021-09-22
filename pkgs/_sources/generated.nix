@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "486c84a45652765e6710470fc7ec3dde8eac9c7a";
+    version = "170142d18e946570f4b444bb11dfff2bc1326d3c";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "486c84a45652765e6710470fc7ec3dde8eac9c7a";
+      rev = "170142d18e946570f4b444bb11dfff2bc1326d3c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "04sanx1j6mlc5kgygbh5ypgq6a5iyh8xx7dlg44z7hymsyx299wm";
+      sha256 = "0h9shg343kipx2yihklnwv5x60kd2j5jcrjylm4svvhgxg2cknw4";
     };
   };
   caddy = {
@@ -539,14 +539,14 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "bdf893a8c8227f4e28f674b57c57fd6ee84994fc";
+    version = "eb0401370b7895d3fc7b2c328a9d94729081730b";
     src = fetchgit {
       url = "https://github.com/netdata/go.d.plugin";
-      rev = "bdf893a8c8227f4e28f674b57c57fd6ee84994fc";
+      rev = "eb0401370b7895d3fc7b2c328a9d94729081730b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0r5wbih16zn5h7bm8hna24zzkwd24mf8x66ym8zx8gbzik8zq1zh";
+      sha256 = "11ragjrhwj9zrqvxaybc4hjmswdc2pazc2v5nwhh1hkd0qsk6dx6";
     };
   };
   nix-zsh-completions = {
