@@ -575,14 +575,14 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "a1bb05c816819b21328aa475b157a5e8079a4644";
+    version = "80f8d2eb03c9c016bc16d32354cccafef329d9c4";
     src = fetchgit {
       url = "https://github.com/nwg-piotr/nwg-drawer";
-      rev = "a1bb05c816819b21328aa475b157a5e8079a4644";
+      rev = "80f8d2eb03c9c016bc16d32354cccafef329d9c4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1xl3q391c55vx1xb0gccv6c8llv4a007k9rxhw5l0rglkklffwl9";
+      sha256 = "089pfiwb9z235208c1rir3wrqzb6q3ly1j2dch2kbx3yagkj1dlg";
     };
   };
   ny-font = {
@@ -887,14 +887,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b1a2abf41b9d57197bf9e5dd5af7accf16810d4a";
+    version = "f0aa7f70a4aca5b818e4ab879c81703cf049cc59";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "b1a2abf41b9d57197bf9e5dd5af7accf16810d4a";
+      rev = "f0aa7f70a4aca5b818e4ab879c81703cf049cc59";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "14s52bz1xa6qnrk3mcqniviiz509hipa1ki5ffg633nr4aphw11p";
+      sha256 = "147cm9s8cbrm02fdcrqznphrklxcx9zf02mmh18876rl57fay38r";
     };
   };
   teams = {
