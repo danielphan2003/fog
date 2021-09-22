@@ -631,10 +631,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "269";
+    version = "272";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/269/downloads/paper-1.17.1-269.jar";
-      sha256 = "0qwyblcvdplvpr59fnmfxzk3hymqh392i5n32rbbgf16lg9p29qg";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/272/downloads/paper-1.17.1-272.jar";
+      sha256 = "0bb8c90cm6sxl3w0llbp6g4lfxqiym6x3npbxkfbzaa18p25b912";
     };
   };
   picom = {
@@ -819,14 +819,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "970f03d8572fffe4f960b635f551b3c4567a7353";
+    version = "dc6a38a2ed83f9d3b0750f5dd55f624aa703f27e";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "970f03d8572fffe4f960b635f551b3c4567a7353";
+      rev = "dc6a38a2ed83f9d3b0750f5dd55f624aa703f27e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0nfyfv91fgysazc0h1v49mn7qvzhhm88x56vfvxmxcglgljvrkd3";
+      sha256 = "0d6qp582syd9jpx8iw3s3kbqp3kdwkj18arca555jbq3zdizy86k";
     };
   };
   spicetify-themes = {
@@ -956,10 +956,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.22.3";
+    version = "2.23.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.22.3/bw_web_v2.22.3.tar.gz";
-      sha256 = "06r7rr1dj9vgqbl8j2zjvb0l08w5nalgm3v3har0xaxggkla3z3h";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.23.0/bw_web_v2.23.0.tar.gz";
+      sha256 = "11gqzsxf8xqqihj12dk0vz7j8af216bi0i4jpmqkb1h71h4amq8i";
     };
   };
   ventoy = {
