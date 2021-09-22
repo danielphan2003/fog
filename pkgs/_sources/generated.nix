@@ -639,14 +639,14 @@
   };
   picom = {
     pname = "picom";
-    version = "de959f910b646f2f064cad54a40e931e2ccefd2d";
+    version = "ad18d129cc549e4e00a0499df7de87f249a3a71f";
     src = fetchgit {
       url = "https://github.com/yshui/picom";
-      rev = "de959f910b646f2f064cad54a40e931e2ccefd2d";
+      rev = "ad18d129cc549e4e00a0499df7de87f249a3a71f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1whv89b6ya5np75h4s3746rqpprcx2hvm0y883cza0710y08v42x";
+      sha256 = "06s1s1zyg2aqggml0q02fn642rh1l38g8aj38qjg8gq7gwsa69vs";
     };
   };
   plymouth-themes = {
