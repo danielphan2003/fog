@@ -183,14 +183,14 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "8fc0ffc35f933d66aafa009b61448c94885ff8d2";
+    version = "5fedbe4c6e5795551c62c2a5891e62434c4b04ea";
     src = fetchgit {
       url = "https://github.com/DNSCrypt/dnscrypt-proxy";
-      rev = "8fc0ffc35f933d66aafa009b61448c94885ff8d2";
+      rev = "5fedbe4c6e5795551c62c2a5891e62434c4b04ea";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mllzmfs0fpqvad1qc5wk1q189716c18m5pfhx8rdxvip20abk01";
+      sha256 = "0d8qv141kyij6k8p524xrqmcw81q98yip227jgpk37m8x02kgay9";
     };
   };
   doggo = {
@@ -407,10 +407,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "94.0.992.23";
+    version = "94.0.992.30";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_94.0.992.23-1_amd64.deb";
-      sha256 = "04l9lh246si7wh14smrqj9j1pbs340ikcg7fjmnq6svbb7ngd7va";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_94.0.992.30-1_amd64.deb";
+      sha256 = "0b8g6xs96qvppyn8psl9n5i4fbdi6p7qbqmxp5x9d0zchmb6sfjb";
     };
   };
   microsoft-edge-dev = {
@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6cadd47679e040c61634f676722c4f75e3cf1fb0";
+    version = "7b020f4cc5e84a57b8e7ac074aafb78aca96f541";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "6cadd47679e040c61634f676722c4f75e3cf1fb0";
+      rev = "7b020f4cc5e84a57b8e7ac074aafb78aca96f541";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "043wfvmbq4317k879kr0d9dm8rdar9s4vjhykmdkiivrcy96kfzr";
+      sha256 = "0pspqbxq35ibazwf3n5gzps6i4c16c8y7fwzbzyxpxm70rhf43wn";
     };
   };
   rofi-wayland = {
@@ -887,14 +887,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "27bc4e744ceaf54832581d5bbd3afb800ce50b42";
+    version = "efb84ca60de3cd87df4b66acf7faf8fd08af3907";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "27bc4e744ceaf54832581d5bbd3afb800ce50b42";
+      rev = "efb84ca60de3cd87df4b66acf7faf8fd08af3907";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "178ncxrw7lz4skb3mgj4gmq07ys3gfn01r7lzf1n69j6124l8wq6";
+      sha256 = "0197m7nnbyjzcva6vqvdh7n119zd83zfqsdkx5i5g8p1l92vxmj0";
     };
   };
   teams = {
