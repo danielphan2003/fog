@@ -261,14 +261,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d1428889b9c12ff459c811fc98dadc27bee409ed";
+    version = "7199fd392cdb276f2d4d60bf8717aeb5e2687e67";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "d1428889b9c12ff459c811fc98dadc27bee409ed";
+      rev = "7199fd392cdb276f2d4d60bf8717aeb5e2687e67";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "114bf0pxfwp8k8gc60sx0n2kb57a09lp96vigzzv4cgpik9bklra";
+      sha256 = "1zmm4knlvba4ni17i9lrfjazw1k3a1b09ij8pdlf20c8axjwyxgc";
     };
   };
   flyingfox = {
@@ -563,14 +563,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "2083ef960e15e8ca08f6747ba7b251a4941a8148";
+    version = "cdc5c114c704a2567ff619627d5faf754c51b2f9";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "2083ef960e15e8ca08f6747ba7b251a4941a8148";
+      rev = "cdc5c114c704a2567ff619627d5faf754c51b2f9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1wb26wyl10ias96xhnv9zfd3qaw8702cl65lhbwlfqsgbm3idsp7";
+      sha256 = "0xd75fbfrgb5v7qcycjydlmazs2637jp67xfq83b42ziyiqgqv3b";
     };
   };
   nwg-drawer = {
