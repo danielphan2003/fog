@@ -183,14 +183,14 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "5fedbe4c6e5795551c62c2a5891e62434c4b04ea";
+    version = "8e913d8bf9a0d55e251f5c9e55d5e1a82ff512b2";
     src = fetchgit {
       url = "https://github.com/DNSCrypt/dnscrypt-proxy";
-      rev = "5fedbe4c6e5795551c62c2a5891e62434c4b04ea";
+      rev = "8e913d8bf9a0d55e251f5c9e55d5e1a82ff512b2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0d8qv141kyij6k8p524xrqmcw81q98yip227jgpk37m8x02kgay9";
+      sha256 = "0dzwammqzav67rgxvflh21vnzbfsmvdgdfd1sc93klmqrvx2abac";
     };
   };
   doggo = {
@@ -631,10 +631,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "277";
+    version = "278";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/277/downloads/paper-1.17.1-277.jar";
-      sha256 = "1pqg66h72w64yip8r66hxsc4y380gaa0nr0x7qc8vic3nvlv1wba";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/278/downloads/paper-1.17.1-278.jar";
+      sha256 = "1z883r6pnl0rs0jnmfr9f18fs2bp1z2z69n9zlz293fa2d1qxpmx";
     };
   };
   picom = {
