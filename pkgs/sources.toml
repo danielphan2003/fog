@@ -273,8 +273,8 @@ src.git = "https://github.com/morpheusthewhite/spicetify-themes"
 fetch.github = "morpheusthewhite/spicetify-themes"
 
 [spotify]
-src.manual = "1.1.68.632"
-fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_50.snap"
+src.manual = "1.1.68.632.g2b11de83"
+fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_53.snap"
 
 [steamcompmgr]
 src.git = "https://github.com/ChimeraOS/steamos-compositor-plus"

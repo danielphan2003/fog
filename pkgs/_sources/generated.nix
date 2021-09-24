@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "11df051f15e30ef30cdddaa962b3ddfb9f7a0d9f";
+    version = "fcc079ef3319f9088fd0b11cb7141f42bd30f1e5";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "11df051f15e30ef30cdddaa962b3ddfb9f7a0d9f";
+      rev = "fcc079ef3319f9088fd0b11cb7141f42bd30f1e5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0hgh5fv8gfcymvcrsqjcskx0wp1ndc134kn8yws4j7i0by8y90y2";
+      sha256 = "1hihg9akx89y89pfl3gaqspgjmqz64fx29xkb8drv84vgvv3fjwr";
     };
   };
   caddy = {
@@ -843,10 +843,10 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.68.632";
+    version = "1.1.68.632.g2b11de83";
     src = fetchurl {
-      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_50.snap";
-      sha256 = "0cibm3inkj7l4m1dqa2ax3kci65iqk0g76ch75xrv87l5vpxf5a8";
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_53.snap";
+      sha256 = "1f9rzgqak9fjxpcaqj27j0f91dw8k3y09y76lvw9sp8nksmzn38b";
     };
   };
   steamcompmgr = {
