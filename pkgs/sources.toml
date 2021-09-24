@@ -307,7 +307,7 @@ src.git = "https://github.com/salty-horse/ibus-uniemoji"
 fetch.github = "salty-horse/ibus-uniemoji"
 
 [vaultwarden]
-src.manual = "8c10de3eddd8349264074c3aa3a7d955862275a6"
+src.github_tag = "dani-garcia/vaultwarden"
 fetch.github = "dani-garcia/vaultwarden"
 cargo_lock = "Cargo.lock"
 
