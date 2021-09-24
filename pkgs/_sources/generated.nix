@@ -539,14 +539,14 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "eb0401370b7895d3fc7b2c328a9d94729081730b";
+    version = "fbfa3539ca6d3a7050f7a19f60f353239d4e6f9f";
     src = fetchgit {
       url = "https://github.com/netdata/go.d.plugin";
-      rev = "eb0401370b7895d3fc7b2c328a9d94729081730b";
+      rev = "fbfa3539ca6d3a7050f7a19f60f353239d4e6f9f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11ragjrhwj9zrqvxaybc4hjmswdc2pazc2v5nwhh1hkd0qsk6dx6";
+      sha256 = "1wsm9r4p9n9bxwxlk1l09swqw0bm2q8q236kbarnspxnhpdxjxyr";
     };
   };
   nix-zsh-completions = {
@@ -887,14 +887,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5bc6d17f8707dd4f6a30adce6d567eb759357756";
+    version = "82117f7a632424ff544f85850b47cfb9a6241fc5";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "5bc6d17f8707dd4f6a30adce6d567eb759357756";
+      rev = "82117f7a632424ff544f85850b47cfb9a6241fc5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "19bdv65pr02wig6fs2s59dnxkwnlwhr9pfz2piblmqxg64v3iy1w";
+      sha256 = "1450hr22lxz2pbhx4w3j5kidv8yihpn171x57mja0hvxxqm1200l";
     };
   };
   teams = {
