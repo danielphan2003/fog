@@ -415,10 +415,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "95.0.1020.0";
+    version = "95.0.1020.5";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_95.0.1020.0-1_amd64.deb";
-      sha256 = "0kbidxfqrjfc8vp6hb1qjgjgdpd45xx59wp25a9zm6ji8cgzsm0g";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_95.0.1020.5-1_amd64.deb";
+      sha256 = "0g8ps324jpqq5dxkm0xr2mjmja27dmdxzs3fk5756zk4zn3gnzxk";
     };
   };
   minecraft-better-beds = {
