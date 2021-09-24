@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "486c84a45652765e6710470fc7ec3dde8eac9c7a";
+    version = "11df051f15e30ef30cdddaa962b3ddfb9f7a0d9f";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "486c84a45652765e6710470fc7ec3dde8eac9c7a";
+      rev = "11df051f15e30ef30cdddaa962b3ddfb9f7a0d9f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "04sanx1j6mlc5kgygbh5ypgq6a5iyh8xx7dlg44z7hymsyx299wm";
+      sha256 = "0hgh5fv8gfcymvcrsqjcskx0wp1ndc134kn8yws4j7i0by8y90y2";
     };
   };
   caddy = {
@@ -183,14 +183,14 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "8fc0ffc35f933d66aafa009b61448c94885ff8d2";
+    version = "5fedbe4c6e5795551c62c2a5891e62434c4b04ea";
     src = fetchgit {
       url = "https://github.com/DNSCrypt/dnscrypt-proxy";
-      rev = "8fc0ffc35f933d66aafa009b61448c94885ff8d2";
+      rev = "5fedbe4c6e5795551c62c2a5891e62434c4b04ea";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mllzmfs0fpqvad1qc5wk1q189716c18m5pfhx8rdxvip20abk01";
+      sha256 = "0d8qv141kyij6k8p524xrqmcw81q98yip227jgpk37m8x02kgay9";
     };
   };
   doggo = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "127f604dd6e5ae7a215e0480177da55c1c05672c";
+    version = "3b78c636a30810c3b143ee3448597377250a0aee";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "127f604dd6e5ae7a215e0480177da55c1c05672c";
+      rev = "3b78c636a30810c3b143ee3448597377250a0aee";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0zhdal5cc5zhf9diz6idzn8r7df5aj60wh7pj2mwjw6mdmcimbgz";
+      sha256 = "1661fbw95m55rjc1hwpknrmy2syznxc0mf2xy06sbb1h9fhn6q80";
     };
   };
   droidcam = {
@@ -261,14 +261,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d1428889b9c12ff459c811fc98dadc27bee409ed";
+    version = "7199fd392cdb276f2d4d60bf8717aeb5e2687e67";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "d1428889b9c12ff459c811fc98dadc27bee409ed";
+      rev = "7199fd392cdb276f2d4d60bf8717aeb5e2687e67";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "114bf0pxfwp8k8gc60sx0n2kb57a09lp96vigzzv4cgpik9bklra";
+      sha256 = "1zmm4knlvba4ni17i9lrfjazw1k3a1b09ij8pdlf20c8axjwyxgc";
     };
   };
   flyingfox = {
@@ -407,10 +407,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "94.0.992.23";
+    version = "94.0.992.30";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_94.0.992.23-1_amd64.deb";
-      sha256 = "04l9lh246si7wh14smrqj9j1pbs340ikcg7fjmnq6svbb7ngd7va";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_94.0.992.30-1_amd64.deb";
+      sha256 = "0b8g6xs96qvppyn8psl9n5i4fbdi6p7qbqmxp5x9d0zchmb6sfjb";
     };
   };
   microsoft-edge-dev = {
@@ -539,14 +539,14 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "bdf893a8c8227f4e28f674b57c57fd6ee84994fc";
+    version = "eb0401370b7895d3fc7b2c328a9d94729081730b";
     src = fetchgit {
       url = "https://github.com/netdata/go.d.plugin";
-      rev = "bdf893a8c8227f4e28f674b57c57fd6ee84994fc";
+      rev = "eb0401370b7895d3fc7b2c328a9d94729081730b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0r5wbih16zn5h7bm8hna24zzkwd24mf8x66ym8zx8gbzik8zq1zh";
+      sha256 = "11ragjrhwj9zrqvxaybc4hjmswdc2pazc2v5nwhh1hkd0qsk6dx6";
     };
   };
   nix-zsh-completions = {
@@ -563,26 +563,26 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "431593d3789d565bc12639853e8142abc7ffdc09";
+    version = "2501307c9d89c55ff2f3f602d96d35cf7ac21223";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "431593d3789d565bc12639853e8142abc7ffdc09";
+      rev = "2501307c9d89c55ff2f3f602d96d35cf7ac21223";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17djsz3dlndxbfjbs65hgxihv1h0yl4mwahcdxvpb3i92cj94p65";
+      sha256 = "1crmnlkzqgs4hrjjdx275g8lnl9sk15m5d2szfbf785mkhvbm2pr";
     };
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "a1bb05c816819b21328aa475b157a5e8079a4644";
+    version = "c974593f7704dbbd6856dafedf6270541489e12e";
     src = fetchgit {
       url = "https://github.com/nwg-piotr/nwg-drawer";
-      rev = "a1bb05c816819b21328aa475b157a5e8079a4644";
+      rev = "c974593f7704dbbd6856dafedf6270541489e12e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1xl3q391c55vx1xb0gccv6c8llv4a007k9rxhw5l0rglkklffwl9";
+      sha256 = "1710p5jn1bakhjcrzfmd6cafb46z1j1ai3pds5ylq2ci8l4fzs13";
     };
   };
   ny-font = {
@@ -613,40 +613,40 @@
   };
   paper = {
     pname = "paper";
-    version = "fc91d5e0963f41d57df97076681a03804b57a5e1";
+    version = "35ecb75c6776615f1db5dfb861fbe407263d8057";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/paper";
-      rev = "fc91d5e0963f41d57df97076681a03804b57a5e1";
+      rev = "35ecb75c6776615f1db5dfb861fbe407263d8057";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1qcq5nfh7vlh2pshqqgcaq5pqnyvwbihbm1a326l7zm9j9m45095";
+      sha256 = "1sdd989vl72hnf9mhq2g3j6jzcmplls9fvihf59qqdyhkr8lqi8g";
     };
     cargoLock = {
-      lockFile = ./paper-fc91d5e0963f41d57df97076681a03804b57a5e1/Cargo.lock;
+      lockFile = ./paper-35ecb75c6776615f1db5dfb861fbe407263d8057/Cargo.lock;
       outputHashes = {
-        
+        "snui-0.1.0" = "1cxp310c6dha13bh4fv5msmc48jpab7l45dk2r73za7rm9c49bfb";
       };
     };
   };
   papermc = {
     pname = "papermc";
-    version = "266";
+    version = "277";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/266/downloads/paper-1.17.1-266.jar";
-      sha256 = "1nwzz5799hyycb09zzm9nnpd00nxgrglzw88vsxmzp0pvm76gya1";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/277/downloads/paper-1.17.1-277.jar";
+      sha256 = "1pqg66h72w64yip8r66hxsc4y380gaa0nr0x7qc8vic3nvlv1wba";
     };
   };
   picom = {
     pname = "picom";
-    version = "de959f910b646f2f064cad54a40e931e2ccefd2d";
+    version = "ad18d129cc549e4e00a0499df7de87f249a3a71f";
     src = fetchgit {
       url = "https://github.com/yshui/picom";
-      rev = "de959f910b646f2f064cad54a40e931e2ccefd2d";
+      rev = "ad18d129cc549e4e00a0499df7de87f249a3a71f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1whv89b6ya5np75h4s3746rqpprcx2hvm0y883cza0710y08v42x";
+      sha256 = "06s1s1zyg2aqggml0q02fn642rh1l38g8aj38qjg8gq7gwsa69vs";
     };
   };
   plymouth-themes = {
@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1ff024be2616b87a83d6e16bb36b1fdce309966a";
+    version = "7b020f4cc5e84a57b8e7ac074aafb78aca96f541";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "1ff024be2616b87a83d6e16bb36b1fdce309966a";
+      rev = "7b020f4cc5e84a57b8e7ac074aafb78aca96f541";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0racxsrqkaggi7yqhnsm4jz68i59a3qq574lkxkh1p6vg15zzdr2";
+      sha256 = "0pspqbxq35ibazwf3n5gzps6i4c16c8y7fwzbzyxpxm70rhf43wn";
     };
   };
   rofi-wayland = {
@@ -807,26 +807,26 @@
   };
   snui = {
     pname = "snui";
-    version = "5dc4ad586d3e39a41ffee50d06d5363cec565f17";
+    version = "d82ba44c354d79274b4cb6dceb655e3e4770074f";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "5dc4ad586d3e39a41ffee50d06d5363cec565f17";
+      rev = "d82ba44c354d79274b4cb6dceb655e3e4770074f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1qz2h4i2qbls9isigym3w18izcgmfqkcsxby9ixk2g86x54qn90l";
+      sha256 = "1cxp310c6dha13bh4fv5msmc48jpab7l45dk2r73za7rm9c49bfb";
     };
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "970f03d8572fffe4f960b635f551b3c4567a7353";
+    version = "f964b8a3a492c4676b7ad6d7585e988afc4a7bfc";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "970f03d8572fffe4f960b635f551b3c4567a7353";
+      rev = "f964b8a3a492c4676b7ad6d7585e988afc4a7bfc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0nfyfv91fgysazc0h1v49mn7qvzhhm88x56vfvxmxcglgljvrkd3";
+      sha256 = "0y91z8aba19jswvirwwin9h5myqqgd6nfsr1d8bjxsqlh5d75vqz";
     };
   };
   spicetify-themes = {
@@ -843,7 +843,7 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.68.628";
+    version = "1.1.68.632";
     src = fetchurl {
       url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_50.snap";
       sha256 = "0cibm3inkj7l4m1dqa2ax3kci65iqk0g76ch75xrv87l5vpxf5a8";
@@ -863,14 +863,14 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "51bdc036fec13c6c0bfaa00de00a969e82672359";
+    version = "08df7f7a1e6d8d3aafa74dd1c57d443153cf52ce";
     src = fetchgit {
       url = "https://github.com/fluix-dev/sway-borders";
-      rev = "51bdc036fec13c6c0bfaa00de00a969e82672359";
+      rev = "08df7f7a1e6d8d3aafa74dd1c57d443153cf52ce";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0brc5zvzlba1axvyx2s67mzyx32mdjg44kj12fr1sgxisfg4g64c";
+      sha256 = "0nvnqxw0pnlliyjii979j3znly5qw4aqa80l22if55iycx6lvmnm";
     };
   };
   swaylock-effects = {
@@ -887,14 +887,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "7d8227e7a66220ba4f83e2c495a7600b2cba8a92";
+    version = "ace2faf7ec477b918b3a12d5cef69a384fe79bf0";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "7d8227e7a66220ba4f83e2c495a7600b2cba8a92";
+      rev = "ace2faf7ec477b918b3a12d5cef69a384fe79bf0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0v77830ns6wr7m2d60ramg393rhazfilg92jb7s7x1wzhpqn3kl2";
+      sha256 = "1qpxjjdrvrfvz5xiwl0pbvr9vbpkm4bgdf1crx45g46v11fpcnqf";
     };
   };
   teams = {
@@ -935,17 +935,17 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "2cdce04662532ef978e4d11e27c39a95abd5b054";
+    version = "b4c95fb4ac5176ffc17f408e15e12b6e19a17c71";
     src = fetchgit {
       url = "https://github.com/dani-garcia/vaultwarden";
-      rev = "2cdce04662532ef978e4d11e27c39a95abd5b054";
+      rev = "b4c95fb4ac5176ffc17f408e15e12b6e19a17c71";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0px4sp7fkqdykffx4zijwgyqyrj55r6d56lgzzhpk20qc5nqiqwc";
+      sha256 = "0v234cc07b3mz7czb3skiscf9g5qila0c4p0qkfkw667r8gkqq8w";
     };
     cargoLock = {
-      lockFile = ./vaultwarden-2cdce04662532ef978e4d11e27c39a95abd5b054/Cargo.lock;
+      lockFile = ./vaultwarden-b4c95fb4ac5176ffc17f408e15e12b6e19a17c71/Cargo.lock;
       outputHashes = {
         "data-url-0.1.0" = "06xv0psj2j5i4hbd2hdwi4p8mlzcq0zs022na0vijqwppxbx9apd";
         "rocket-0.5.0-dev" = "19lyljqhi6xszg86zl6wzd14bnjdb56dkcgqg2s3qz7bs8dgm4mi";
@@ -956,10 +956,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.22.3";
+    version = "2.23.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.22.3/bw_web_v2.22.3.tar.gz";
-      sha256 = "06r7rr1dj9vgqbl8j2zjvb0l08w5nalgm3v3har0xaxggkla3z3h";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.23.0/bw_web_v2.23.0.tar.gz";
+      sha256 = "11gqzsxf8xqqihj12dk0vz7j8af216bi0i4jpmqkb1h71h4amq8i";
     };
   };
   ventoy = {
@@ -1397,14 +1397,14 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "30c33676366e379ee7207477dda12ae13e931d79";
+    version = "4f1b95acfbeec0e90194d076ad895a32801415e7";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-gtk-theme";
-      rev = "30c33676366e379ee7207477dda12ae13e931d79";
+      rev = "4f1b95acfbeec0e90194d076ad895a32801415e7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "03bzzv64wl9vk8971h4h6kgzgkjaf5wc93c33wdnlbyb23b68bip";
+      sha256 = "1y9nwrnz86ldlgkmzff66bncdwlxk5n3rb2r0yakf679dsc4szcc";
     };
   };
   whitesur-icon-theme = {
