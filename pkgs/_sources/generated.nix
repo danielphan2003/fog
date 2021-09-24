@@ -1099,10 +1099,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.60.0";
+    version = "0.60.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.60.0/file/dendron.dendron-0.60.0.vsix";
-      sha256 = "09afz93nv9hbg2g7b2ivbihlhm2pfqsbsx377a9xaxyj8amxgwx9";
+      url = "https://open-vsx.org/api/dendron/dendron/0.60.1/file/dendron.dendron-0.60.1.vsix";
+      sha256 = "1j87g9yn4jqmfbgg1jrsly0a7sn510ab46vnnyaadhf20wia97s1";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
