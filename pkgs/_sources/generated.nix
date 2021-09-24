@@ -155,14 +155,14 @@
   };
   caddy = {
     pname = "caddy";
-    version = "b3d35a4995c98cfadeb0c3a356025dbd3984caef";
+    version = "16f752125fb5d6fe46b9dea95eec8804bfdb24f8";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "b3d35a4995c98cfadeb0c3a356025dbd3984caef";
+      rev = "16f752125fb5d6fe46b9dea95eec8804bfdb24f8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0bs92d2y28q8jxvrxd87b7icq06794k5idm1qmh0xqn9f7la0zqv";
+      sha256 = "0hgcwm603wp2b6ig0xx0xgkgyk7v34j2ai7sl839wlzn87i6z0pb";
     };
   };
   cups-pdf = {
@@ -935,17 +935,17 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "b4c95fb4ac5176ffc17f408e15e12b6e19a17c71";
+    version = "8c10de3eddd8349264074c3aa3a7d955862275a6";
     src = fetchgit {
       url = "https://github.com/dani-garcia/vaultwarden";
-      rev = "b4c95fb4ac5176ffc17f408e15e12b6e19a17c71";
+      rev = "8c10de3eddd8349264074c3aa3a7d955862275a6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0v234cc07b3mz7czb3skiscf9g5qila0c4p0qkfkw667r8gkqq8w";
+      sha256 = "08dgqa9sshr3j3cnczxs2dfs18xy9z9xzps700135nm0xhmflrbh";
     };
     cargoLock = {
-      lockFile = ./vaultwarden-b4c95fb4ac5176ffc17f408e15e12b6e19a17c71/Cargo.lock;
+      lockFile = ./vaultwarden-8c10de3eddd8349264074c3aa3a7d955862275a6/Cargo.lock;
       outputHashes = {
         "data-url-0.1.0" = "06xv0psj2j5i4hbd2hdwi4p8mlzcq0zs022na0vijqwppxbx9apd";
         "rocket-0.5.0-dev" = "19lyljqhi6xszg86zl6wzd14bnjdb56dkcgqg2s3qz7bs8dgm4mi";
