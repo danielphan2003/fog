@@ -10,7 +10,7 @@ in
 {
   bud.cmds = with pkgs; {
     nvfetcher-github = {
-      writer = writeBashWithNixPaths [ nvfetcher-bin coreutils git nixUnstable ];
+      writer = writeBashWithNixPaths [ nvfetcher-bin coreutils git nixUnstable fd ];
       synopsis = "nvfetcher-github";
       help = "Auto update with nvfetcher on github action";
       script = ./nvfetcher-github.bash;

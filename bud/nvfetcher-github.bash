@@ -1,5 +1,14 @@
 cd $FLAKEROOT/pkgs
+
+# remove old Cargo.lock
+fd . _sources \
+  -t d \
+  -E generated.nix \
+  -E '.shake.*' \
+  -X rm -rf {}
+
 nvfetcher -c ./sources.toml -l changelog --no-output
+
 if [ ! -z "$(cat changelog)" ]; then
   echo "COMMIT_MSG<<EOF" >>$GITHUB_ENV
   echo "pkgs: auto update on $(date +"%Y/%m/%d @ %H:%M:%S")" >>$GITHUB_ENV
@@ -9,13 +18,3 @@ if [ ! -z "$(cat changelog)" ]; then
 else
   rm -rf changelog
 fi
-# Github Action Template
-# schedule:
-# - cron: '0 7 * * *'
-# - name: Run nvfetcher
-#   run: nix -Lv develop --command bud nvfetcher-github
-# - name: Commit changes
-#   if: ${{ env.COMMIT_MSG != null }}
-#   uses: stefanzweifel/git-auto-commit-action@v4
-#   with:
-#     commit_message: ${{ env.COMMIT_MSG }}
