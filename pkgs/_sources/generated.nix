@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "fcc079ef3319f9088fd0b11cb7141f42bd30f1e5";
+    version = "ccc3956d172d332b9b081de4e6e70ee0eeef2114";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "fcc079ef3319f9088fd0b11cb7141f42bd30f1e5";
+      rev = "ccc3956d172d332b9b081de4e6e70ee0eeef2114";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1hihg9akx89y89pfl3gaqspgjmqz64fx29xkb8drv84vgvv3fjwr";
+      sha256 = "1qyx8ylljk5m55g22pjvrxfrgl9yi2j3bz4hqrqfcvisf4kdymbz";
     };
   };
   caddy = {
@@ -735,14 +735,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f52fbd32a03d68640fc7344beafbb0a04d1b46cf";
+    version = "50bb7afa9dec31eedde021ff38f8affcbea4e1f7";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "f52fbd32a03d68640fc7344beafbb0a04d1b46cf";
+      rev = "50bb7afa9dec31eedde021ff38f8affcbea4e1f7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1c90d807rlknzxfrnzv1kdzlcrs5m3327cxdlyd1cx2hmsd6njjc";
+      sha256 = "15jnhimvyxcslblhrwr7rky8mmc45r90a42lna2b6d4ai36jbl1d";
     };
   };
   rofi-wayland = {
