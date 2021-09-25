@@ -83,14 +83,14 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "1c6d63314411d2a0496f5547f4a1b46705dbc06a";
+    version = "044e3e76e8690934c5c89ce7969257b44bf38a6b";
     src = fetchgit {
       url = "https://github.com/arkenfox/user.js";
-      rev = "1c6d63314411d2a0496f5547f4a1b46705dbc06a";
+      rev = "044e3e76e8690934c5c89ce7969257b44bf38a6b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1npd55r8nf2bbn12dy94v7g3v2zhd048j3b7ndw0bzldc5dazzys";
+      sha256 = "1g17s8w63c2ysyq0wsn5rqyiacik1alda77bzcccv3wc1b376dwd";
     };
   };
   avizo = {
@@ -183,14 +183,14 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "8e913d8bf9a0d55e251f5c9e55d5e1a82ff512b2";
+    version = "69019b7a8092c3d1e9ca3ba02a64367b0f8f8d47";
     src = fetchgit {
       url = "https://github.com/DNSCrypt/dnscrypt-proxy";
-      rev = "8e913d8bf9a0d55e251f5c9e55d5e1a82ff512b2";
+      rev = "69019b7a8092c3d1e9ca3ba02a64367b0f8f8d47";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0dzwammqzav67rgxvflh21vnzbfsmvdgdfd1sc93klmqrvx2abac";
+      sha256 = "0afambdjiyzjj6w48basx67ghq52canzq3x50mwfs4npadrs7p70";
     };
   };
   doggo = {
