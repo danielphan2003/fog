@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5495081b8c22f994d14875e6b282bd904c82b6e6";
+    version = "16ea8204ecae93c448923a55a4fe651cdf34149e";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "5495081b8c22f994d14875e6b282bd904c82b6e6";
+      rev = "16ea8204ecae93c448923a55a4fe651cdf34149e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mv8f3dc4wcywivlabzy2lhc4vn5mry61v7w376jbaappq8p8drd";
+      sha256 = "1qvkm9a52b1h40gzz1ax5x1dpifv25s1kjjhii635mvarcgvakzs";
     };
   };
   caddy = {
@@ -431,10 +431,10 @@
   };
   minecraft-cull-leaves = {
     pname = "minecraft-cull-leaves";
-    version = "2.2.0";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.2.0/cullleaves-2.2.0.jar";
-      sha256 = "01427a2dbb6cdw0bszmm7m0sbpzh6wj50cb07bkx71h8a97wk2d6";
+      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.3.0/cullleaves-2.3.0.jar";
+      sha256 = "10mc1vmi0ayv5qd2wprr2vix3052lsz0wryfy2yfrl7xx2db6j01";
     };
   };
   minecraft-fabric-api = {
