@@ -315,14 +315,14 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "aa23963fe0dae3503be75e688cac83602f83b1e7";
+    version = "346f01f67e29c72c09b0a678dea844439227d491";
     src = fetchgit {
       url = "https://github.com/BambooEngine/ibus-bamboo";
-      rev = "aa23963fe0dae3503be75e688cac83602f83b1e7";
+      rev = "346f01f67e29c72c09b0a678dea844439227d491";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0dhlrmr3215i2796l94iyfabi0q7lrphd6xjpcdxsh51rswmj0cd";
+      sha256 = "1n5jn1g1b2jrxmkvkdbmz7qkv6bssh4qkwfzhx85473bb4q33k4d";
     };
   };
   layout-machi = {
