@@ -155,14 +155,14 @@
   };
   caddy = {
     pname = "caddy";
-    version = "16f752125fb5d6fe46b9dea95eec8804bfdb24f8";
+    version = "501da21f209c9fad92c65c8ba02a969a03ec5379";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "16f752125fb5d6fe46b9dea95eec8804bfdb24f8";
+      rev = "501da21f209c9fad92c65c8ba02a969a03ec5379";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0hgcwm603wp2b6ig0xx0xgkgyk7v34j2ai7sl839wlzn87i6z0pb";
+      sha256 = "0dl43dv8zhhxfrr7csmkf433l05m86vxmzw89nvqmfhwjfiffwg9";
     };
   };
   cups-pdf = {
