@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "15941ea839701c82bedeae79abcfc1066c0d2373";
+    version = "c8d86eea157de1c30c9005dc5ba202e2fc146e50";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "15941ea839701c82bedeae79abcfc1066c0d2373";
+      rev = "c8d86eea157de1c30c9005dc5ba202e2fc146e50";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0ixkahlcsrsq501d29n6garrwsrvg4aykdb6gqzif3n33nvmqwi5";
+      sha256 = "1l8y8py4amgr658wrznwv71n8p6x9mmya72g8crbifcx64f6z3c3";
     };
   };
   caddy = {
@@ -591,17 +591,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "c0fd6b5bfbe08cbb5aad5f052dfcfb0fd14a7144";
+    version = "826bf2e3f531d472eba60c7aea0fbf58666f7b43";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "c0fd6b5bfbe08cbb5aad5f052dfcfb0fd14a7144";
+      rev = "826bf2e3f531d472eba60c7aea0fbf58666f7b43";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mkcv0yx1ai3dv0l092vp0af1x4lr2f0fwx2z4813s5fzlzgmkl7";
+      sha256 = "14h4imgbr8lfacrr4kvxrmcsd1jf897h1l915r775a6b7b0zf00j";
     };
     cargoLock = {
-      lockFile = ./ouch-c0fd6b5bfbe08cbb5aad5f052dfcfb0fd14a7144/Cargo.lock;
+      lockFile = ./ouch-826bf2e3f531d472eba60c7aea0fbf58666f7b43/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "4aafbf23403c031beb59d4cf6174ebcb3352c8c9";
+    version = "d4af68d2dd406085e86da717dda6a976f5984f2b";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "4aafbf23403c031beb59d4cf6174ebcb3352c8c9";
+      rev = "d4af68d2dd406085e86da717dda6a976f5984f2b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11mf5im64pfl4f5q442ndji5krkczn3qsr16mhr0n1xv5r0nkpzp";
+      sha256 = "0fpfyz45b8f27qkang3kjk960fbfdj0s2cldkp3indwnc3h9lxf6";
     };
   };
   rofi-wayland = {
