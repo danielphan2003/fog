@@ -19,16 +19,4 @@ sed -i \
   -e "s#$OLD_SPOTIFY_FETCH_URL#$SPOTIFY_FETCH_URL#g" \
   ./sources.toml
 
-nvfetcher -c ./sources.toml -l changelog --no-output
-
-if [ ! -z "$(cat changelog)" ]; then
-  {
-    echo "COMMIT_MSG<<EOF"
-    echo "pkgs: auto update on $(date +"%Y/%m/%d @ %H:%M:%S")"
-    cat changelog
-    echo "EOF"
-  } >> "$GITHUB_ENV"
-  rm -rf changelog
-else
-  rm -rf changelog
-fi
+nvfetcher -c ./sources.toml --commit-changes
