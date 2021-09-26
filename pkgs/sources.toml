@@ -236,6 +236,10 @@ src.git = "https://github.com/lbonn/rofi"
 fetch.github = "lbonn/rofi"
 git.fetchSubmodules = true
 
+[sddm]
+src.git = "https://github.com/sddm/sddm"
+fetch.github = "sddm/sddm"
+
 [sddm-chili]
 src.git = "https://github.com/MarianArlt/sddm-chili"
 fetch.github = "MarianArlt/sddm-chili"
