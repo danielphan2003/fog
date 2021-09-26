@@ -527,26 +527,26 @@
   };
   netdata = {
     pname = "netdata";
-    version = "036a661afbdbe24cfce655167a5b90fa1088c6ef";
+    version = "v1.31.0";
     src = fetchgit {
       url = "https://github.com/netdata/netdata";
-      rev = "036a661afbdbe24cfce655167a5b90fa1088c6ef";
+      rev = "v1.31.0";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0gy7678726rzij07khjqjq8wd30j34zlmi89dqjx461jscgprmv4";
+      sha256 = "0735cxmljrp8zlkcq7hcxizy4j4xiv7vf782zkz5chn06n38mcik";
     };
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "fbfa3539ca6d3a7050f7a19f60f353239d4e6f9f";
+    version = "v0.30.0";
     src = fetchgit {
       url = "https://github.com/netdata/go.d.plugin";
-      rev = "fbfa3539ca6d3a7050f7a19f60f353239d4e6f9f";
+      rev = "v0.30.0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1wsm9r4p9n9bxwxlk1l09swqw0bm2q8q236kbarnspxnhpdxjxyr";
+      sha256 = "0s8aqp7rz5g9ivfxk03wzrjgyriy64yvr7z5jkrcnqnwcgprma6k";
     };
   };
   nix-zsh-completions = {
