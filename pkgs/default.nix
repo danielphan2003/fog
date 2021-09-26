@@ -1,5 +1,12 @@
+{ inputs }:
+
 final: prev:
 let
-  sources = import ./_sources/generated.nix { inherit (final) fetchurl fetchgit; };
+  inherit (prev.lib) mapAttrs removePrefix;
+  sources' = import ./_sources/generated.nix { inherit (final) fetchurl fetchgit; };
+  sources =
+    mapAttrs
+      (pname: meta: meta // { version = removePrefix "v" meta.version; })
+      sources';
 in
 { inherit sources; }

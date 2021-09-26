@@ -42,7 +42,10 @@
         channels = {
           nixos = {
             imports = [ (digga.lib.importOverlays ./overlays) ];
-            overlays = [ nvfetcher.overlay ];
+            overlays = [
+              nvfetcher.overlay
+              (import ./pkgs { inherit inputs; })
+            ];
           };
           latest = { };
         };
@@ -54,7 +57,6 @@
     //
     {
       budModules = { devos = import ./bud; };
-      overlay = import ./pkgs;
     }
   ;
 }
