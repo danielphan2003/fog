@@ -113,7 +113,9 @@
         "flake-utils": "flake-utils_2",
         "flake-utils-plus": "flake-utils-plus",
         "home-manager": "home-manager",
-        "nix": "nix",
+        "nix": [
+          "nix"
+        ],
         "nixlib": [
           "nixos"
         ],
@@ -243,16 +245,16 @@
     "lowdown-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1617481909,
-        "narHash": "sha256-SqnfOFuLuVRRNeVJr1yeEPJue/qWoCp5N6o5Kr///p4=",
+        "lastModified": 1628247802,
+        "narHash": "sha256-4XSXGYvKqogR7bubyqYNwBHYCtrIn6XRGXj6+u+BXNs=",
         "owner": "kristapsdz",
         "repo": "lowdown",
-        "rev": "148f9b2f586c41b7e36e73009db43ea68c7a1a4d",
+        "rev": "b4483d0ef85990f54b864158ab786b4a5b3904fa",
         "type": "github"
       },
       "original": {
         "owner": "kristapsdz",
-        "ref": "VERSION_0_8_4",
+        "ref": "VERSION_0_8_6",
         "repo": "lowdown",
         "type": "github"
       }
@@ -283,21 +285,19 @@
     "nix": {
       "inputs": {
         "lowdown-src": "lowdown-src",
-        "nixpkgs": [
-          "digga",
-          "nixpkgs"
-        ]
+        "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1630335771,
-        "narHash": "sha256-eljjEPJdLK3aDskF7qX4YM/6KCq+w9nr+IKhrKW/AIQ=",
+        "lastModified": 1632228750,
+        "narHash": "sha256-UQlAHC9jEQjd1/EOwUY7qOD6MKottFpUtEbWWTHs0ws=",
         "owner": "nixos",
         "repo": "nix",
-        "rev": "50a35860ee9237d341948437c5f70a7f0987d393",
+        "rev": "c81f9761ccb40865edc497321752503abc0da858",
         "type": "github"
       },
       "original": {
         "owner": "nixos",
+        "ref": "c81f976",
         "repo": "nix",
         "type": "github"
       }
@@ -341,6 +341,21 @@
         "owner": "nix-community",
         "repo": "nixos-generators",
         "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1628689438,
+        "narHash": "sha256-YMINW6YmubHZVdliGsAJpnnMYXRrvppv59LgwtnyYhs=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "f6551e1efa261568c82b76c3a582b2c2ceb1f53f",
+        "type": "github"
+      },
+      "original": {
+        "id": "nixpkgs",
+        "ref": "nixos-21.05-small",
+        "type": "indirect"
       }
     },
     "nvfetcher": {
@@ -405,6 +420,7 @@
         "bud": "bud",
         "digga": "digga",
         "latest": "latest",
+        "nix": "nix",
         "nixos": "nixos",
         "nvfetcher": "nvfetcher"
       }

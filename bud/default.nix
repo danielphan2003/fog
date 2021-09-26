@@ -9,11 +9,11 @@ let
 in
 {
   bud.cmds = with pkgs; {
-    nvfetcher-github = {
-      writer = writeBashWithNixPaths [ bash nvfetcher-bin coreutils git nixUnstable fd dasel curl jq gnused ];
-      synopsis = "nvfetcher-github";
-      help = "Auto update with nvfetcher on github action";
-      script = ./nvfetcher-github.bash;
+    nvfetcher-cleanup = {
+      writer = writeBashWithNixPaths [ coreutils fd dasel curl jq gnused ];
+      synopsis = "nvfetcher-cleanup";
+      help = "Clean up nvfetcher on github action";
+      script = ./nvfetcher-cleanup.bash;
     };
   };
 }
