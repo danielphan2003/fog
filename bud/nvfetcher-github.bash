@@ -18,5 +18,3 @@ sed -i \
   -e "s#$OLD_SPOTIFY_SRC_MANUAL#$SPOTIFY_SRC_MANUAL#g" \
   -e "s#$OLD_SPOTIFY_FETCH_URL#$SPOTIFY_FETCH_URL#g" \
   ./sources.toml
-
-nvfetcher -c ./sources.toml --commit-changes

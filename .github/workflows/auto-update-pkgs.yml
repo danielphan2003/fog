@@ -37,4 +37,6 @@ jobs:
 
     - run: nix -Lv flake show
 
-    - run: nix -Lv develop --command bud nvfetcher-github
+    - run: nix -Lv develop --command bud nvfetcher-cleanup
+
+    - run: nix -Lv develop --command nvfetcher --commit-changes
