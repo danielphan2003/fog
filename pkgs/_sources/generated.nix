@@ -254,9 +254,7 @@
     };
     cargoLock = {
       lockFile = ./eww-07eeac340fbb6453b6aa73d2cad91902bab61cf8/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   flameshot = {
@@ -296,9 +294,7 @@
     };
     cargoLock = {
       lockFile = ./frece-62669dee1024ad5e2dfc49ca91fad25361a041fa/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   ibus = {
@@ -606,9 +602,7 @@
     };
     cargoLock = {
       lockFile = ./ouch-c0fd6b5bfbe08cbb5aad5f052dfcfb0fd14a7144/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   paper = {
@@ -735,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ee97c2066ae73473affbc5934f970ecd38043ec2";
+    version = "bbbc4452d7a96202796c49b204ae9fb719298f6d";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "ee97c2066ae73473affbc5934f970ecd38043ec2";
+      rev = "bbbc4452d7a96202796c49b204ae9fb719298f6d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0ywj0zd3dfxnichzj67qdirr0hjp1z8cb2xpag13dn2y87gggjd5";
+      sha256 = "1dxvpjf19xda9b33qw0fxspnp4754q83kpn3lvvgrhbsa90jlzav";
     };
   };
   rofi-wayland = {
@@ -1247,6 +1241,17 @@
     homepage = "https://github.com/arrterian/nix-env-selector";
     license = "mit";
     description = "Allows switch environment for Visual Studio Code and extensions based on Nix config file.";
+  };
+  vscode-extensions-nix-ide = {
+    pname = "vscode-extensions-nix-ide";
+    version = "0.1.16";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.16/file/jnoortheen.nix-ide-0.1.16.vsix";
+      sha256 = "0s7vxq3bnh1myzypc061lf1i0azxpiia6bf53rhwvrd3vsmygkvi";
+    };
+    homepage = "https://github.com/nix-community/vscode-nix-ide";
+    license = "mit";
+    description = "Nix language support with formatting and error report.";
   };
   vscode-extensions-nixpkgs-fmt = {
     pname = "vscode-extensions-nixpkgs-fmt";
