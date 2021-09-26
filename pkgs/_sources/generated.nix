@@ -1439,6 +1439,30 @@
       sha256 = "1jj0790z4cxsk99wrbqz94y61sgxp3qx0f82lrpl2wnh9q6jyvf2";
     };
   };
+  xorgproto = {
+    pname = "xorgproto";
+    version = "57acac1d4c7967f4661fb1c9f86f48f34a46c48d";
+    src = fetchgit {
+      url = "https://github.com/freedesktop/xorg-xorgproto";
+      rev = "57acac1d4c7967f4661fb1c9f86f48f34a46c48d";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "1xhdjmsak4zng7a74p5is9p7bdikpnk1fh4sfzrikh8m3irmrgh2";
+    };
+  };
+  xwayland = {
+    pname = "xwayland";
+    version = "6c1e6429bcc4447601d9327c84513421226c45b8";
+    src = fetchgit {
+      url = "git://anongit.freedesktop.org/xorg/xserver";
+      rev = "6c1e6429bcc4447601d9327c84513421226c45b8";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "0h9h7lb16c2pvnrg84bdfv8jly7sbpjnbsh1ikpgjcf9qvi5x76q";
+    };
+  };
   ydotool = {
     pname = "ydotool";
     version = "7e5f4986d570e08dff1ef9934d7c363962c90a42";
