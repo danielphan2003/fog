@@ -340,13 +340,13 @@ fetch.url = "https://dl.google.com/widevine-cdm/$ver-linux-x64.zip"
 src.git = "https://github.com/ToadKing/wii-u-gc-adapter"
 fetch.github = "ToadKing/wii-u-gc-adapter"
 
-# [xorgproto]
-# src.git = "https://github.com/freedesktop/xorg-xorgproto"
-# fetch.github = "freedesktop/xorg-xorgproto"
+[xorgproto]
+src.git = "https://github.com/freedesktop/xorg-xorgproto"
+fetch.github = "freedesktop/xorg-xorgproto"
 
-# [xwayland]
-# src.git = "git://anongit.freedesktop.org/xorg/xserver"
-# fetch.git = "git://anongit.freedesktop.org/xorg/xserver"
+[xwayland]
+src.git = "git://anongit.freedesktop.org/xorg/xserver"
+fetch.git = "git://anongit.freedesktop.org/xorg/xserver"
 
 [ydotool]
 src.git = "https://github.com/ReimuNotMoe/ydotool"
