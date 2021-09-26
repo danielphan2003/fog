@@ -131,14 +131,14 @@
   };
   bling = {
     pname = "bling";
-    version = "7277f57730ca61871347c667588105545b334142";
+    version = "639c5667343cc62b2ca07082fcd8d50892d5cbc0";
     src = fetchgit {
       url = "https://github.com/BlingCorp/bling";
-      rev = "7277f57730ca61871347c667588105545b334142";
+      rev = "639c5667343cc62b2ca07082fcd8d50892d5cbc0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0wycjdiy412kijb5q6a1hyd2q8qw7ld915n3xsbzlcg2fzp1scxi";
+      sha256 = "0pwy8igjgshg4ydhc012glkna3xkf7n7g13w927q0k9zzh45fbwv";
     };
   };
   bottles = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "bbbc4452d7a96202796c49b204ae9fb719298f6d";
+    version = "8fa1f998c5031083770190c1ffd4e0b271662083";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "bbbc4452d7a96202796c49b204ae9fb719298f6d";
+      rev = "8fa1f998c5031083770190c1ffd4e0b271662083";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1dxvpjf19xda9b33qw0fxspnp4754q83kpn3lvvgrhbsa90jlzav";
+      sha256 = "1v2psfnj45k0ryy12gk78byd2h1gy3797h36q0q1awdd7sxfyyca";
     };
   };
   rofi-wayland = {
@@ -749,6 +749,18 @@
       deepClone = false;
       leaveDotGit = false;
       sha256 = "1q48mjbqrqg1k8wcsyhn0ngd84sb8zsxr4xywwjskwfym698a8dn";
+    };
+  };
+  sddm = {
+    pname = "sddm";
+    version = "83e1ae579a923e859ea3c3ae18a2dd95c3a7774c";
+    src = fetchgit {
+      url = "https://github.com/sddm/sddm";
+      rev = "83e1ae579a923e859ea3c3ae18a2dd95c3a7774c";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "1d375g99c51yd9r133dr62ib3c5mq212g03vzz109gmr6zhivjlm";
     };
   };
   sddm-chili = {
