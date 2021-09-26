@@ -41,5 +41,5 @@ jobs:
     - run: nix -Lv develop --command bud nvfetcher-cleanup
 
     - run: |
-      nix -Lv develop --command nvfetcher --commit-changes
-      git push
+        nix -Lv develop --command nvfetcher --commit-changes
+        git push
