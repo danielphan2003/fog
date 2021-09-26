@@ -170,11 +170,13 @@ git.fetchSubmodules = true
 
 [netdata]
 src.github_tag = "netdata/netdata"
+src.prefix = "v"
 fetch.github = "netdata/netdata"
 git.fetchSubmodules = true
 
 [netdata-go-d-plugin]
 src.github_tag = "netdata/go.d.plugin"
+src.prefix = "v"
 fetch.github = "netdata/go.d.plugin"
 
 [nix-zsh-completions]
