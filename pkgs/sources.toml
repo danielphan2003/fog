@@ -535,6 +535,11 @@ src.openvsx = "arrterian.nix-env-selector"
 fetch.openvsx = "arrterian.nix-env-selector"
 passthru = { license = "mit", homepage = "https://github.com/arrterian/nix-env-selector", description = "Allows switch environment for Visual Studio Code and extensions based on Nix config file." }
 
+[vscode-extensions-nix-ide]
+src.openvsx = "jnoortheen.nix-ide"
+fetch.openvsx = "jnoortheen.nix-ide"
+passthru = { license = "mit", homepage = "https://github.com/nix-community/vscode-nix-ide", description = "Nix language support with formatting and error report." }
+
 [vscode-extensions-output-colorizer]
 src.openvsx = "IBM.output-colorizer"
 fetch.openvsx = "IBM.output-colorizer"
