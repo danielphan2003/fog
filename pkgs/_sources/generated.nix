@@ -693,14 +693,14 @@
   };
   quibble = {
     pname = "quibble";
-    version = "663f7762fbb1d78493627eb88b148085387f563d";
+    version = "f7ac6d55df73a35a730ea73045d9cd623180cb4b";
     src = fetchgit {
       url = "https://github.com/maharmstone/quibble";
-      rev = "663f7762fbb1d78493627eb88b148085387f563d";
+      rev = "f7ac6d55df73a35a730ea73045d9cd623180cb4b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1fb2m93aqmmaacv57l097bq6rr2ad1qdaq47wdkz1w5gbvsfkz07";
+      sha256 = "068j1gbpjgpdxqrys4xq7rp78nilj0lsy42g1qb435657wyxgmb1";
     };
   };
   rainfox = {
