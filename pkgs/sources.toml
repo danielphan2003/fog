@@ -305,6 +305,10 @@ fetch.github = "tailscale/tailscale"
 src.git = "https://github.com/z411/trackma"
 fetch.url = "https://github.com/z411/trackma/archive/master.tar.gz"
 
+[ulauncher]
+src.git = "https://github.com/Ulauncher/Ulauncher"
+fetch.github = "Ulauncher/Ulauncher"
+
 [uniemoji]
 src.git = "https://github.com/salty-horse/ibus-uniemoji"
 fetch.github = "salty-horse/ibus-uniemoji"
