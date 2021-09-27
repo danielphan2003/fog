@@ -83,14 +83,14 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "b37df0bcfe77ffb6521ec393a4087223fe9c4c3a";
+    version = "5cdea955e779ef17df66187c6b0b4eb7f4aeb5cf";
     src = fetchgit {
       url = "https://github.com/arkenfox/user.js";
-      rev = "b37df0bcfe77ffb6521ec393a4087223fe9c4c3a";
+      rev = "5cdea955e779ef17df66187c6b0b4eb7f4aeb5cf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1vqnn0iawwgqb9xnpxfdky9q2xjmi3gkd040z8vwnw54yn5bbpvq";
+      sha256 = "1vvrxacpiv8d7gzsj73kyr97bznda0lv7hp3lvjpb98d8kg4i6zq";
     };
   };
   avizo = {
@@ -183,14 +183,14 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "efcd3922791d5910aee5847f2062a9928d0c3eff";
+    version = "fc0ff3b26ae85e5f6265a26c25531f5877f31078";
     src = fetchgit {
       url = "https://github.com/DNSCrypt/dnscrypt-proxy";
-      rev = "efcd3922791d5910aee5847f2062a9928d0c3eff";
+      rev = "fc0ff3b26ae85e5f6265a26c25531f5877f31078";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0cwbwqqg43n44gdb4z4nx75icbc70mn87a9fb11yzyr0frsl2i4k";
+      sha256 = "1k8d1qw5r0czp6daf66xg10zz27hkajv39yfks2c0kwrk2hzfrfj";
     };
   };
   doggo = {
@@ -1339,10 +1339,10 @@
   };
   vscode-extensions-python = {
     pname = "vscode-extensions-python";
-    version = "2021.9.1230869389";
+    version = "2021.9.1246542782";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2021.9.1230869389/file/ms-python.python-2021.9.1230869389.vsix";
-      sha256 = "0v4v5fcf2z1cys2if4k64qdwvr96hqvqw31fhdrrwwbgmx8cxjj3";
+      url = "https://open-vsx.org/api/ms-python/python/2021.9.1246542782/file/ms-python.python-2021.9.1246542782.vsix";
+      sha256 = "105vj20749bck6ijdlf7hsg5nb82bi5pklf80l1s7fn4ajr2yk02";
     };
     homepage = "https://github.com/Microsoft/vscode-python";
     license = "mit";
