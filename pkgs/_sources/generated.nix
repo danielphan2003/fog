@@ -1010,10 +1010,10 @@
   };
   vscode-extensions-Material-theme = {
     pname = "vscode-extensions-Material-theme";
-    version = "3.12.0";
+    version = "3.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.12.0/file/zhuangtongfa.material-theme-3.12.0.vsix";
-      sha256 = "197k9x8ckshqig8lxxnyrmf9nirip5vqan1nfh7cnl6zsg5pyr6y";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.12.1/file/zhuangtongfa.material-theme-3.12.1.vsix";
+      sha256 = "018kbllrzl5lg61xfafsyvs51f83ar35m23kmjqchk0bz9bv2qvx";
     };
     homepage = "https://github.com/Binaryify/OneDark-Pro";
     license = "mit";
