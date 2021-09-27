@@ -927,6 +927,18 @@
       sha256 = "0w97asg61is41zlfn3q1sp13lvf9jwkk0da97c4r5l4da6g7p1qd";
     };
   };
+  ulauncher = {
+    pname = "ulauncher";
+    version = "f0905b9a9cabb342f9c29d0e9efd3ba4d0fa456e";
+    src = fetchgit {
+      url = "https://github.com/Ulauncher/Ulauncher";
+      rev = "f0905b9a9cabb342f9c29d0e9efd3ba4d0fa456e";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "0c8sbfsdh3xnx6kabhdj2ivxpjnwfq7dy0nzq4r1x6wlxdw7g624";
+    };
+  };
   uniemoji = {
     pname = "uniemoji";
     version = "4b0801037f599c363b29bb107a9df40df0f6c967";
