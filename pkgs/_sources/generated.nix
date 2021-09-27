@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "4574a586838fb00a227e1ba1e0f68a00a7d7edc7";
+    version = "3dee62ce62ec194863d9d213ff11908ae5e2a1b9";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "4574a586838fb00a227e1ba1e0f68a00a7d7edc7";
+      rev = "3dee62ce62ec194863d9d213ff11908ae5e2a1b9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1d0apfybx0cxi3ngwc61mzz1lq7cj88c6cl4hr4hrnpc804y9dsj";
+      sha256 = "1pgpp6bcfmm04cshwifpdn664mw37db1sq9p9cflcvzcilpyzba5";
     };
   };
   rofi-wayland = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "29fa8c17d25a41198080603bb667dcc204ac20ba";
+    version = "3b3994f0db979674c2850872bf7acfaeafb9b69e";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "29fa8c17d25a41198080603bb667dcc204ac20ba";
+      rev = "3b3994f0db979674c2850872bf7acfaeafb9b69e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1mmrwaspk20l0lhq3iijpbr2xnz6s7sn7w4pq2vqfj05a59c8lmn";
+      sha256 = "0xp1mn6jplya6l62j3rbqy9400b3d8vl2hmvagaqbv9gajzg31n8";
     };
   };
   teams = {
