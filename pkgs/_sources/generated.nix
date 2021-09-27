@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0899509ca4b44e2c82c9f9f6e40550ac9a102b56";
+    version = "711d7f4b1cca0e3ad0f4a30ef8b2235394ccc9e4";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "0899509ca4b44e2c82c9f9f6e40550ac9a102b56";
+      rev = "711d7f4b1cca0e3ad0f4a30ef8b2235394ccc9e4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17lb8y9d4klr44m4w8pp6ipgrivplykllfzc3h9iaf6m04l9i7ak";
+      sha256 = "0xxik5qjcxmyk200cz3aqfg8bw7v4paidgvyspdqzxs6gxl6bpyj";
     };
   };
   caddy = {
@@ -559,14 +559,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "209d28bc917c6ab477ab31fa8607eaaa545ae82e";
+    version = "1317c88204d9da6a96bfcc5bb01484258b93fcc8";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "209d28bc917c6ab477ab31fa8607eaaa545ae82e";
+      rev = "1317c88204d9da6a96bfcc5bb01484258b93fcc8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0nhlwk3ms7i6cbb0lp9xnmkjllijg7p3yb0l5ni67vxam9gpws7r";
+      sha256 = "159ic3hbky2f4swqrd75b8lm7rb9ns177qy2rsm9r2r3asjm56vq";
     };
   };
   nwg-drawer = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "0448afab96f2bcd14e0a1d1c91a17b301062c42e";
+    version = "4574a586838fb00a227e1ba1e0f68a00a7d7edc7";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "0448afab96f2bcd14e0a1d1c91a17b301062c42e";
+      rev = "4574a586838fb00a227e1ba1e0f68a00a7d7edc7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "053ajsrk5wwfy8acqjccx0a1xx6kxvprbd2x657myr2r4pr75n33";
+      sha256 = "1d0apfybx0cxi3ngwc61mzz1lq7cj88c6cl4hr4hrnpc804y9dsj";
     };
   };
   rofi-wayland = {
@@ -825,14 +825,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "119ccee0925805baebcd342974727b7dea541bf1";
+    version = "6c40c3ea54f3ecb7ebb3b43437680be9c2857083";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "119ccee0925805baebcd342974727b7dea541bf1";
+      rev = "6c40c3ea54f3ecb7ebb3b43437680be9c2857083";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "16xzhgrc398n9vlffa8z9wbswqg9a8vikzzh9mp6i0zjwykqmcjh";
+      sha256 = "1ylr5anp8bsypxj7xmqh0p81p2gsvdjmfk146m43sqxn614phdjy";
     };
   };
   spicetify-themes = {
