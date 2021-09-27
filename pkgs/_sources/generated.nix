@@ -825,14 +825,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "c5ded9617f5c6e4054beaab13ed67d9803d6128e";
+    version = "d7815643c50966b82bc4d58d3db4867b2c40359b";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "c5ded9617f5c6e4054beaab13ed67d9803d6128e";
+      rev = "d7815643c50966b82bc4d58d3db4867b2c40359b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "08a46djnjkz2s6zsiy24r4bby6jpfrsvh6x2c31xm5ha3p9j3wgr";
+      sha256 = "1bcmiv3qa8j8iwwjg1p2zv4ak9cwy0jm22v4snmd35hzmxm8vvpz";
     };
   };
   spicetify-themes = {
@@ -1482,14 +1482,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "6c1e6429bcc4447601d9327c84513421226c45b8";
+    version = "545fa90cbf37a4c18f013dabc9f3bfb8310a5a98";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "6c1e6429bcc4447601d9327c84513421226c45b8";
+      rev = "545fa90cbf37a4c18f013dabc9f3bfb8310a5a98";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0h9h7lb16c2pvnrg84bdfv8jly7sbpjnbsh1ikpgjcf9qvi5x76q";
+      sha256 = "0si66zy7722832cbnx4mxbr92mfiz8ray01xhxvhl0hkqnfbvnqc";
     };
   };
   ydotool = {
