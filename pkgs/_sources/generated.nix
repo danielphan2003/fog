@@ -411,10 +411,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "95.0.1020.5";
+    version = "96.0.1028.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_95.0.1020.5-1_amd64.deb";
-      sha256 = "0g8ps324jpqq5dxkm0xr2mjmja27dmdxzs3fk5756zk4zn3gnzxk";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1028.0-1_amd64.deb";
+      sha256 = "0xp65fz7xrjaavmgjx5xc8j4m2j0vafskd76jx55zzk5qy2llkvz";
     };
   };
   minecraft-better-beds = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "29a8fb45d32b562c7b0624a56170978076506a67";
+    version = "a7cb241db1edbb3f433eb56f0c6a7a6b5043f0c4";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "29a8fb45d32b562c7b0624a56170978076506a67";
+      rev = "a7cb241db1edbb3f433eb56f0c6a7a6b5043f0c4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0ka7gd3r80b7b7k13awq89hlpk8awx93iqs0f9ij6yixjdxzs4dj";
+      sha256 = "1h89awn80f3cl8wf65cfizrdrk9fnzb5r5akibyh4nj07vn8sy1y";
     };
   };
   teams = {
@@ -1117,10 +1117,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.60.1";
+    version = "0.61.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.60.1/file/dendron.dendron-0.60.1.vsix";
-      sha256 = "1j87g9yn4jqmfbgg1jrsly0a7sn510ab46vnnyaadhf20wia97s1";
+      url = "https://open-vsx.org/api/dendron/dendron/0.61.0/file/dendron.dendron-0.61.0.vsix";
+      sha256 = "1kibcsa7i3iannyaa75xry7r1chkk6czx2gzip48ckr3md3wcimy";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
