@@ -259,14 +259,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "2ff0f4af346d29feb3ed0b11f3ffd0a7a3b3b414";
+    version = "8beb605cd3a717e9488ffd7d6186e98300760a05";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "2ff0f4af346d29feb3ed0b11f3ffd0a7a3b3b414";
+      rev = "8beb605cd3a717e9488ffd7d6186e98300760a05";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "08ivyfzzb6zkw2xns11ha8bqyj4dnfm6jna9fn8rz14q7akrhrsv";
+      sha256 = "1m5ccr3df4ylj96zxkl8dz77937rhfq8d80rwh05xkg13k4bbd1c";
     };
   };
   flyingfox = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "774dccca7cd853d646a2bde1773451290d457916";
+    version = "9727be4de6808dbcd08ed84df2ad8393abe5aef7";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "774dccca7cd853d646a2bde1773451290d457916";
+      rev = "9727be4de6808dbcd08ed84df2ad8393abe5aef7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0sgk57308p271999lld9rki3s028zq8xc08k3a5f817p92ci08my";
+      sha256 = "1s7p3rmqdd7is7ga2704jj2hxim6aa9qgdx8g0914bh3sxckgfiy";
     };
   };
   rofi-wayland = {
