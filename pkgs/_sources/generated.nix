@@ -559,14 +559,14 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "a8f27e850f4a6b2d7735dad31c6ab6e6cb38b5b6";
+    version = "76643635b402d0fee9a6a40fc3b57db7414b108f";
     src = fetchgit {
       url = "https://github.com/maharmstone/ntfs2btrfs";
-      rev = "a8f27e850f4a6b2d7735dad31c6ab6e6cb38b5b6";
+      rev = "76643635b402d0fee9a6a40fc3b57db7414b108f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "142zqjq4bipa265ba9snyh3i2ihmfsf473ifs5zpx9qn5xr62gn7";
+      sha256 = "12ks2szbjnkpja3vcd0s5l0g927i6rsf793lf1a8fgafpzi2in63";
     };
   };
   nwg-drawer = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3dee62ce62ec194863d9d213ff11908ae5e2a1b9";
+    version = "774dccca7cd853d646a2bde1773451290d457916";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "3dee62ce62ec194863d9d213ff11908ae5e2a1b9";
+      rev = "774dccca7cd853d646a2bde1773451290d457916";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1pgpp6bcfmm04cshwifpdn664mw37db1sq9p9cflcvzcilpyzba5";
+      sha256 = "0sgk57308p271999lld9rki3s028zq8xc08k3a5f817p92ci08my";
     };
   };
   rofi-wayland = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3b3994f0db979674c2850872bf7acfaeafb9b69e";
+    version = "5263c8d0b5c76611b9b023297228d663fe362816";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "3b3994f0db979674c2850872bf7acfaeafb9b69e";
+      rev = "5263c8d0b5c76611b9b023297228d663fe362816";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0xp1mn6jplya6l62j3rbqy9400b3d8vl2hmvagaqbv9gajzg31n8";
+      sha256 = "1r3ggq9xn4hq8gva0mb22165qhl0277937ibwhhi2idsap0gz7wk";
     };
   };
   teams = {
