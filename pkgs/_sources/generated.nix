@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8949305820c9ca0b3d67e6633246a8b31acaadd7";
+    version = "56d8c2da3463801df70a6bf442d0c585dce0f03a";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "8949305820c9ca0b3d67e6633246a8b31acaadd7";
+      rev = "56d8c2da3463801df70a6bf442d0c585dce0f03a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "059vjikx8szki2hg1x7la5k354r8akbgiwdyn8rxqzp3d9grll0n";
+      sha256 = "1hqrhjl4ycls8ckxr79k1gy8ksvmgfn3bsdrqjalzqai89g37g8c";
     };
   };
   teams = {
@@ -1350,10 +1350,10 @@
   };
   vscode-extensions-react-native = {
     pname = "vscode-extensions-react-native";
-    version = "1.6.1";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.6.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "097lcm9lp97mqpc592v9ad1fc3k7cfdjybslhmq708xcpk0ic06y";
+      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.7.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "120ic9aw0p2j51xillq4bb3nwp8b14sd7vnp9av11w52q2kacy0j";
     };
     license = "mit";
   };
