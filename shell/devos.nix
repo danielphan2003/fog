@@ -5,6 +5,7 @@ let
 
   pkgWithCategory = category: package: { inherit package category; };
   linter = pkgWithCategory "linter";
+  utils = pkgsWithCategory "utils";
   docs = pkgWithCategory "docs";
   devos = pkgWithCategory "devos";
 
@@ -14,6 +15,10 @@ in
 
   imports = [ "${extraModulesPath}/git/hooks.nix" ];
   git = { inherit hooks; };
+
+  packages = with pkgs; [
+    fd
+  ];
 
   # tempfix: remove when merged https://github.com/numtide/devshell/pull/123
   devshell.startup.load_profiles = pkgs.lib.mkForce (pkgs.lib.noDepEntry ''
@@ -37,6 +42,12 @@ in
       name = pkgs.nvfetcher-bin.pname;
       help = pkgs.nvfetcher-bin.meta.description;
       command = "cd $DEVSHELL_ROOT/pkgs; ${pkgs.nvfetcher-bin}/bin/nvfetcher -c ./sources.toml $@";
+    }
+    {
+      category = "utils";
+      name = "evalnix";
+      help = "Check Nix parsing";
+      command = "fd --extension nix --exec nix-instantiate --parse --quiet {} >/dev/null";
     }
     (linter nixpkgs-fmt)
     (linter editorconfig-checker)
