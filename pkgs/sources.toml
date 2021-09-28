@@ -348,6 +348,10 @@ fetch.url = "https://dl.google.com/widevine-cdm/$ver-linux-x64.zip"
 src.git = "https://github.com/ToadKing/wii-u-gc-adapter"
 fetch.github = "ToadKing/wii-u-gc-adapter"
 
+[xorg-libxcvt]
+src.git = "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
+fetch.git = "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
+
 [xorgproto]
 src.git = "https://github.com/freedesktop/xorg-xorgproto"
 fetch.github = "freedesktop/xorg-xorgproto"
