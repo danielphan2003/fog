@@ -741,14 +741,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "31cf9feb694531d81cd24a47653ab7d1a6e720fb";
+    version = "42039e34dbf8e9dc39f80ba489300ac4f25b7bdd";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "31cf9feb694531d81cd24a47653ab7d1a6e720fb";
+      rev = "42039e34dbf8e9dc39f80ba489300ac4f25b7bdd";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "08pnqi8g1m0han8lw6xvkx7qs6xclvvgkzrsxa5rj3myq3w420q5";
+      sha256 = "05cvgdks6x3w4hgvsfqds9xlbnfgm27c314s2zb53534j9r4cma3";
     };
   };
   sddm = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "56d8c2da3463801df70a6bf442d0c585dce0f03a";
+    version = "29a8fb45d32b562c7b0624a56170978076506a67";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "56d8c2da3463801df70a6bf442d0c585dce0f03a";
+      rev = "29a8fb45d32b562c7b0624a56170978076506a67";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1hqrhjl4ycls8ckxr79k1gy8ksvmgfn3bsdrqjalzqai89g37g8c";
+      sha256 = "0ka7gd3r80b7b7k13awq89hlpk8awx93iqs0f9ij6yixjdxzs4dj";
     };
   };
   teams = {
