@@ -5,7 +5,7 @@ let
 
   pkgWithCategory = category: package: { inherit package category; };
   linter = pkgWithCategory "linter";
-  utils = pkgsWithCategory "utils";
+  utils = pkgWithCategory "utils";
   docs = pkgWithCategory "docs";
   devos = pkgWithCategory "devos";
 
