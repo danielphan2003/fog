@@ -741,14 +741,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "a97ba40bc7aca7e375c500d574cac930a0b3473d";
+    version = "05a5c6159036e454081326e9e4a2fea38347af79";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "a97ba40bc7aca7e375c500d574cac930a0b3473d";
+      rev = "05a5c6159036e454081326e9e4a2fea38347af79";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1q48mjbqrqg1k8wcsyhn0ngd84sb8zsxr4xywwjskwfym698a8dn";
+      sha256 = "1a1i8ym3z7pjrmnvwflnlggpgdb0bz3b48i6gmb84jwwxzxmkb2k";
     };
   };
   sddm = {
