@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "173bbaa1a11d49adb370c1c9e02b20e7cf6c598b";
+    version = "5809386525b7c7c3668256dd30e5d4b2172c7f38";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "173bbaa1a11d49adb370c1c9e02b20e7cf6c598b";
+      rev = "5809386525b7c7c3668256dd30e5d4b2172c7f38";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0wf3mckds8sndby3vi27d67krhnrzcmy9pbfrhvlnxfw3dkhd10h";
+      sha256 = "07x77znkbjcnly6wsybj4z2k3xmia9zjwff7sgfsnwi9lgvgj8m0";
     };
   };
   teams = {
@@ -1033,10 +1033,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.7.15";
+    version = "0.7.16";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.15/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "0v4bbzyl6mvhlf9yp48am8lhjgnhjlhbznikwbgzcahc2isxkhqc";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.16/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "0k54hhpgswdndlri8gw47zn07kgjqsxy4pax5a0l0hmf750l9bln";
     };
     license = "mit";
   };
