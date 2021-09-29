@@ -155,14 +155,14 @@
   };
   caddy = {
     pname = "caddy";
-    version = "059fc32f002d00e980b438b3edbdf7b8bcdf9a90";
+    version = "c48fadc4a7655008d13076c7f757c36368e2ca13";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "059fc32f002d00e980b438b3edbdf7b8bcdf9a90";
+      rev = "c48fadc4a7655008d13076c7f757c36368e2ca13";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "023dqpss03si24m03v1jxgh28anbfiz81yqa2p85rd6d92ch87sf";
+      sha256 = "0dg1h95h6s4icskxyqds9v96nbxjr06zgy6rq9xffyiyxnbwisxi";
     };
   };
   cups-pdf = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "281";
+    version = "282";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/281/downloads/paper-1.17.1-281.jar";
-      sha256 = "1as5j9qlf6wxl7m6zfyfg5jbmay28lv25z8ln6lv2jnnmza9qqwj";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/282/downloads/paper-1.17.1-282.jar";
+      sha256 = "1zrk3vs1rsg9wqgzfwd3gnkp1fjgibhgiim9z4c551sfix1zghra";
     };
   };
   picom = {
