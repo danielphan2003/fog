@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.107.0-b.11";
+    version = "0.107.0-b.12";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.11/AdGuardHome_darwin_amd64.zip";
-      sha256 = "0g5vl6wl2ssria80drs58dagwabds3cki6c95z96a8c5mz2bbqxq";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_darwin_amd64.zip";
+      sha256 = "0l2r4c7z2yiib9g20s0hp2i9pxjhxmhap52cda2yxnvj325sadpn";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.107.0-b.11";
+    version = "0.107.0-b.12";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.11/AdGuardHome_linux_386.tar.gz";
-      sha256 = "044q3sahbjavk82247b1yqvprlsp9cckk6javz9wv46grqmnpq7k";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_linux_386.tar.gz";
+      sha256 = "13jqmwl5cgpp4an264ps2i8451j69qbqr79df5xnayrrdyin5mnj";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.107.0-b.11";
+    version = "0.107.0-b.12";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.11/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "00il9ajbbii438q2vvjmmnifk1pzzkjd65rrxin6c8fvmn0lcjq3";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "19ndm0233hrwl9a22dsbxisdq028lf4hb9i214skyklaliiakv22";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.107.0-b.11";
+    version = "0.107.0-b.12";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.11/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "0s0a0570ykvz4xx8fisw398anc60iqw254z3kw4wmds8dbx4jcws";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "1c1nh8vvh7ihb2b229jllvyanam1qxgxdzhaw6k1yy4rdk7b3x0c";
     };
   };
   adl = {
@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "711d7f4b1cca0e3ad0f4a30ef8b2235394ccc9e4";
+    version = "f5e10b10ec93815ff8de8a2c77d500272a87c487";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "711d7f4b1cca0e3ad0f4a30ef8b2235394ccc9e4";
+      rev = "f5e10b10ec93815ff8de8a2c77d500272a87c487";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0xxik5qjcxmyk200cz3aqfg8bw7v4paidgvyspdqzxs6gxl6bpyj";
+      sha256 = "1n0qyy5jnyhvbv5z6jr84rxrr9y6xkw2grka0c2bxymxzbnpwrdz";
     };
   };
   caddy = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "8e095818d503d00bdc271a4064f5cccba6ecafd8";
+    version = "3cdee1d9b36998eb8ed47097ef639702bb270498";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "8e095818d503d00bdc271a4064f5cccba6ecafd8";
+      rev = "3cdee1d9b36998eb8ed47097ef639702bb270498";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mfb1mlfg2yzh2524fpkq96ib6nx936app6swvq4pmmpgvg4imj2";
+      sha256 = "1ki23gmgj0mh164v2d5whpi9mlvlpkpimf2cgc80g7fcmr0xkkms";
     };
   };
   droidcam = {
