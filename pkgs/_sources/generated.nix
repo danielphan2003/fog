@@ -1033,10 +1033,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.7.16";
+    version = "0.7.17";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.16/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "0k54hhpgswdndlri8gw47zn07kgjqsxy4pax5a0l0hmf750l9bln";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.17/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "1b2lbpc3va34z64g8kyapgmc7mkwr8mylc1d0yxnwyw3qlc4dm6r";
     };
     license = "mit";
   };
