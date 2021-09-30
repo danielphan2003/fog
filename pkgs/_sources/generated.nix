@@ -571,14 +571,14 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "1c7a48110826415115a745fe33f45e945b1051ab";
+    version = "0b28592f0f44f449a6a10bc363f097917e791581";
     src = fetchgit {
       url = "https://github.com/nwg-piotr/nwg-drawer";
-      rev = "1c7a48110826415115a745fe33f45e945b1051ab";
+      rev = "0b28592f0f44f449a6a10bc363f097917e791581";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "188q4hd1kdz3schfrwghym7sy52p2bdlwjh491hppc5kvw72nqrm";
+      sha256 = "0k1xzcifbhqr46fp0zmimr2wjr5f1mkmfkhgzz3as1w33a51a9mx";
     };
   };
   ny-font = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "287";
+    version = "288";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/287/downloads/paper-1.17.1-287.jar";
-      sha256 = "1p4lzh7k1wx1l4qf7lzkssgyp5izv3cs1m22ds0fcxwm2fmvch91";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/288/downloads/paper-1.17.1-288.jar";
+      sha256 = "1k9v7b7nl62pm5jdfkkwba2vjxbibgchv0fq2nk88196p8bxgydc";
     };
   };
   picom = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "076440987b4e597717867703ab5715813ed51156";
+    version = "2d279df6e40965bdae338e65156d0d340ba3c959";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "076440987b4e597717867703ab5715813ed51156";
+      rev = "2d279df6e40965bdae338e65156d0d340ba3c959";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0l58c6phpp33ia6ms055xxyhlj82309ra29cj2j0nxcmjc1z5gzc";
+      sha256 = "1k5zj4l1rj75fnijjrj79c7jssbbh1j3wpdbqapxqbz1h9vg9xay";
     };
   };
   rofi-wayland = {
@@ -825,14 +825,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "16f36e3795a753d86cbcfa3dca7feeb9387ab305";
+    version = "a56fc722bd4b023d8a631ac9ef5105145a91baf2";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "16f36e3795a753d86cbcfa3dca7feeb9387ab305";
+      rev = "a56fc722bd4b023d8a631ac9ef5105145a91baf2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1h8xnc7xf81qmbgsm4qgfc4aygcm2hip25ihwjnq3affrx8rsswq";
+      sha256 = "137gizpnl1h7mzvs7dyrvw73vivm6pjfnbfz984415l7d64v6nnq";
     };
   };
   spicetify-themes = {
