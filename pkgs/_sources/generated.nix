@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "9fbedc1756427038b753beeb73427d0b2c55b6e7";
+    version = "c578e84d73fd12d427d7db440a5fcf5293407738";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "9fbedc1756427038b753beeb73427d0b2c55b6e7";
+      rev = "c578e84d73fd12d427d7db440a5fcf5293407738";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "046h3qjfa15kg4da9ccwach2z6cz8qgz2swfr6i2h18kym2xw17q";
+      sha256 = "07rjmqqyzyidipfyi2g1iw8rmnqaryx102pr1ycaml3bs2csbdsy";
     };
   };
   droidcam = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "285";
+    version = "287";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/285/downloads/paper-1.17.1-285.jar";
-      sha256 = "0w9impj097q13b2apaxmkqxsnrg02yy0mznqswnvxibigbi912yw";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/287/downloads/paper-1.17.1-287.jar";
+      sha256 = "1p4lzh7k1wx1l4qf7lzkssgyp5izv3cs1m22ds0fcxwm2fmvch91";
     };
   };
   picom = {
