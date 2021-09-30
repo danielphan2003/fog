@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "303f5ba64c6771c6090f8b6d14690d2bcc55faa1";
+    version = "23be7f63226507c85cb9914b88287264398e6c65";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "303f5ba64c6771c6090f8b6d14690d2bcc55faa1";
+      rev = "23be7f63226507c85cb9914b88287264398e6c65";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "07fgi56r5v1922pm220g68584dg0vdzjsljd7hb65j2c4y4dz6l6";
+      sha256 = "14h97mnk1132vcwkarz5090pw398dql8349sjkgm3859pw32n2vr";
     };
   };
   caddy = {
@@ -825,14 +825,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "347ad8cdee5d98119051fa3b42041eba5baac592";
+    version = "16f36e3795a753d86cbcfa3dca7feeb9387ab305";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "347ad8cdee5d98119051fa3b42041eba5baac592";
+      rev = "16f36e3795a753d86cbcfa3dca7feeb9387ab305";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1rm6ngf3q0qvc7fvw3xwk3x1ry6wrbvxyxirg75c9dqsnpnkqr8j";
+      sha256 = "1h8xnc7xf81qmbgsm4qgfc4aygcm2hip25ihwjnq3affrx8rsswq";
     };
   };
   spicetify-themes = {
