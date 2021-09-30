@@ -131,14 +131,14 @@
   };
   bling = {
     pname = "bling";
-    version = "639c5667343cc62b2ca07082fcd8d50892d5cbc0";
+    version = "7f17e7bb8b133e8a83696669bc4ab9717fa6d047";
     src = fetchgit {
       url = "https://github.com/BlingCorp/bling";
-      rev = "639c5667343cc62b2ca07082fcd8d50892d5cbc0";
+      rev = "7f17e7bb8b133e8a83696669bc4ab9717fa6d047";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0pwy8igjgshg4ydhc012glkna3xkf7n7g13w927q0k9zzh45fbwv";
+      sha256 = "1ip4i4sy0pbz5cxb14vpkk5jkax9yrx5cd1k0am33fy58zfm55d9";
     };
   };
   bottles = {
@@ -741,14 +741,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "42039e34dbf8e9dc39f80ba489300ac4f25b7bdd";
+    version = "6d18d7812aa4d04f6d282522483f93e79678cd56";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "42039e34dbf8e9dc39f80ba489300ac4f25b7bdd";
+      rev = "6d18d7812aa4d04f6d282522483f93e79678cd56";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "05cvgdks6x3w4hgvsfqds9xlbnfgm27c314s2zb53534j9r4cma3";
+      sha256 = "06glyl37l1hjbhjy2l27gy36m58871l3s4syyq1g6glihwkawk9i";
     };
   };
   sddm = {
