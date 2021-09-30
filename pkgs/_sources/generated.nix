@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d819251ffd53773bdfa1335c075fde35aab1d9a8";
+    version = "db6af919fbce14db56fa938eb92b86c307000221";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "d819251ffd53773bdfa1335c075fde35aab1d9a8";
+      rev = "db6af919fbce14db56fa938eb92b86c307000221";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1jlqhqd0pvrvcm79c90nl4jmsl7ny90mzrl4bcb4ajww3v7kxsks";
+      sha256 = "0in1hs3gbw6hrlga1fv1zfwav8h5bxixgx0ncvkcrzywy15y22d5";
     };
   };
   rofi-wayland = {
@@ -1381,10 +1381,10 @@
   };
   vscode-extensions-svelte = {
     pname = "vscode-extensions-svelte";
-    version = "105.4.0";
+    version = "105.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.4.0/file/svelte.svelte-vscode-105.4.0.vsix";
-      sha256 = "0wwaprg16ajznzjvhcppcv0p5sg6l288nscmfxmylz3165z92cdf";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.4.1/file/svelte.svelte-vscode-105.4.1.vsix";
+      sha256 = "038qn0dv9x54ygwl4jkpc5mkfj5zsky56iisj195ys8qdvnir390";
     };
     homepage = "https://github.com/sveltejs/language-tools";
     license = "mit";
