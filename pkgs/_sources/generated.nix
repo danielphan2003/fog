@@ -571,14 +571,14 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "0b28592f0f44f449a6a10bc363f097917e791581";
+    version = "2e305e6e5222954ff43e6f48ec8bc29161aaefd0";
     src = fetchgit {
       url = "https://github.com/nwg-piotr/nwg-drawer";
-      rev = "0b28592f0f44f449a6a10bc363f097917e791581";
+      rev = "2e305e6e5222954ff43e6f48ec8bc29161aaefd0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0k1xzcifbhqr46fp0zmimr2wjr5f1mkmfkhgzz3as1w33a51a9mx";
+      sha256 = "03xlxjvi7z4n7kys0qxzyrwvllimy1bwarqa3lgxi4pb7qj86plb";
     };
   };
   ny-font = {
@@ -741,14 +741,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "6d18d7812aa4d04f6d282522483f93e79678cd56";
+    version = "2630ef8ef0c36fe81737cca40bb87be65d392130";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "6d18d7812aa4d04f6d282522483f93e79678cd56";
+      rev = "2630ef8ef0c36fe81737cca40bb87be65d392130";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "06glyl37l1hjbhjy2l27gy36m58871l3s4syyq1g6glihwkawk9i";
+      sha256 = "0smbd2srvfjwg3yfw17knsqyk604zrcd8gjd7jaywjnz6002d8kn";
     };
   };
   sddm = {
