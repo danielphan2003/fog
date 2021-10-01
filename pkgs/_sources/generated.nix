@@ -753,14 +753,14 @@
   };
   sddm = {
     pname = "sddm";
-    version = "83e1ae579a923e859ea3c3ae18a2dd95c3a7774c";
+    version = "690be076a46a5fe5ac7d005dd8da682d3de2523c";
     src = fetchgit {
       url = "https://github.com/sddm/sddm";
-      rev = "83e1ae579a923e859ea3c3ae18a2dd95c3a7774c";
+      rev = "690be076a46a5fe5ac7d005dd8da682d3de2523c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1d375g99c51yd9r133dr62ib3c5mq212g03vzz109gmr6zhivjlm";
+      sha256 = "1w9030djjpcym8k62k4v4vm7jhwa8rijmij35zbgfrpi1r4581cb";
     };
   };
   sddm-chili = {
