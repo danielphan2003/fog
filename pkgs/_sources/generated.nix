@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "288";
+    version = "292";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/288/downloads/paper-1.17.1-288.jar";
-      sha256 = "1k9v7b7nl62pm5jdfkkwba2vjxbibgchv0fq2nk88196p8bxgydc";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/292/downloads/paper-1.17.1-292.jar";
+      sha256 = "1dfwqrrqaflykzbgcq5p2xn8fjyaidwk7z8m52g4y5h03k4acsry";
     };
   };
   picom = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2d279df6e40965bdae338e65156d0d340ba3c959";
+    version = "bd76388fc533c2b40fe20a3477fe411dcad220ba";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "2d279df6e40965bdae338e65156d0d340ba3c959";
+      rev = "bd76388fc533c2b40fe20a3477fe411dcad220ba";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1k5zj4l1rj75fnijjrj79c7jssbbh1j3wpdbqapxqbz1h9vg9xay";
+      sha256 = "1nj6xj3rrsjkfjhh0ykxcp0qhwi0fm2dkfhz0m37rkp8iz8f6j17";
     };
   };
   rofi-wayland = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "891e7986cce17a3c5ff24047a2e5c6158dd66d67";
+    version = "d7ce2be5f4588e5451aebc457adf778081e0a114";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "891e7986cce17a3c5ff24047a2e5c6158dd66d67";
+      rev = "d7ce2be5f4588e5451aebc457adf778081e0a114";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mzicmnlfw1x5mgpqznwypk6i4b3dqimwjbcj4gg2w5mp04qc0ig";
+      sha256 = "044x58prg77j0wx50zkz1xc5fplppafd3zy4972c61an8ykmz0cn";
     };
   };
   teams = {
