@@ -451,7 +451,7 @@
   };
   minecraft-ferrite-core = {
     pname = "minecraft-ferrite-core";
-    version = "3.0.3";
+    version = "3.1.0";
     src = fetchurl {
       url = "https://nightly.link/malte0811/FerriteCore/workflows/build.yaml/1.17/build-artifacts.zip";
       sha256 = "0slm8lpz76xhgpfp58hi6bm51nj2g9kyfxlljn9ayylbjdmi2c80";
