@@ -857,14 +857,14 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "cdfc4431b9f47215c439504af3be223eadb4308a";
+    version = "0b0951e334aec5a9f23d14c22541481b5a7146f1";
     src = fetchgit {
       url = "https://github.com/ChimeraOS/steamos-compositor-plus";
-      rev = "cdfc4431b9f47215c439504af3be223eadb4308a";
+      rev = "0b0951e334aec5a9f23d14c22541481b5a7146f1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1zn6bqil52bryg53x00s09vvvrppdcx1nq80457kaz3jygv2d7pm";
+      sha256 = "1dwg698lbarrk6dc0570y4wf7v99qkc7qs0f80s9fz4c43k8yfnb";
     };
   };
   sway-borders = {
