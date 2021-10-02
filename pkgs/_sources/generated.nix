@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "7f423cc87671230e71476a55ac1d3c0dc6f214af";
+    version = "a49d330a68c9f2cfece4b5675715e61b181a60fb";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "7f423cc87671230e71476a55ac1d3c0dc6f214af";
+      rev = "a49d330a68c9f2cfece4b5675715e61b181a60fb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "175s06s58cs81ix31yrbsq63j2y2y4g7x0i9z4a6cr31zs0av060";
+      sha256 = "1jwjii4dj1pvh4zk564zkw7ir6jj3qrj0qkzqriqxdzzwlly876n";
     };
   };
   caddy = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "7af1d12835b9c20277810a3da632e9da03046585";
+    version = "7352710c6aca0642bf2b7a169d861b060dfd1e25";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "7af1d12835b9c20277810a3da632e9da03046585";
+      rev = "7352710c6aca0642bf2b7a169d861b060dfd1e25";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "150ba7irgkyydhll4yvvizlib7rm46b81vz9fi1bczxpsbi5h583";
+      sha256 = "03siccz5k22qhnriqv2zvmhxj43g20zc8dnvh6rgyc5iswqc2bg0";
     };
   };
   droidcam = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "297";
+    version = "298";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/297/downloads/paper-1.17.1-297.jar";
-      sha256 = "1lyr2jyycrmny0qapxl380200kw0l56vpdym6p3lkxh10dj94ad9";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/298/downloads/paper-1.17.1-298.jar";
+      sha256 = "0faxh7071j2jvmjwg8nn9x4l1382szqb7qzvf49xm9wxmyjh4bv3";
     };
   };
   picom = {
