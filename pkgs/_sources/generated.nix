@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "296";
+    version = "297";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/296/downloads/paper-1.17.1-296.jar";
-      sha256 = "1q1592kfg8q26wsgf3vgww738y5gymg8pygsmsb8gpp2z9rkgy06";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/297/downloads/paper-1.17.1-297.jar";
+      sha256 = "1lyr2jyycrmny0qapxl380200kw0l56vpdym6p3lkxh10dj94ad9";
     };
   };
   picom = {
@@ -813,14 +813,14 @@
   };
   snui = {
     pname = "snui";
-    version = "701ef3ae77799a126bbd02d487b3ec5a37b1a20f";
+    version = "ab0672c409da5f5e392768d2c41ff6f6e21bdafd";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "701ef3ae77799a126bbd02d487b3ec5a37b1a20f";
+      rev = "ab0672c409da5f5e392768d2c41ff6f6e21bdafd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1vard9a51440mgprs6z9a4nh9rzcjx3ni0hkz3vy81gw04y222zl";
+      sha256 = "1lhvg9r5wynjzmwwh3h2ykkzdpdz5w3126v8bc8yxxy07p7bk3ch";
     };
   };
   spicetify-cli = {
@@ -837,14 +837,14 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "fa635130dc04b9a2cf90565aaffaa63dbbd0ab82";
+    version = "0b9879b9275304424842f046efabdbafc5452939";
     src = fetchgit {
       url = "https://github.com/morpheusthewhite/spicetify-themes";
-      rev = "fa635130dc04b9a2cf90565aaffaa63dbbd0ab82";
+      rev = "0b9879b9275304424842f046efabdbafc5452939";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0bdjm1kaklqq70iwk732qyfgpgi7zf4dxwwjvirvqnl1nnv3d5g6";
+      sha256 = "0qarahsvrqwpqin4px1ablya6lwqra5sp4b6c6zmhzsq8hzlfcnl";
     };
   };
   spotify = {
