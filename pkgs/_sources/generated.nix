@@ -131,14 +131,14 @@
   };
   bling = {
     pname = "bling";
-    version = "7f17e7bb8b133e8a83696669bc4ab9717fa6d047";
+    version = "394c3ceeb72647ee4afee64d762c90bc0c884a49";
     src = fetchgit {
       url = "https://github.com/BlingCorp/bling";
-      rev = "7f17e7bb8b133e8a83696669bc4ab9717fa6d047";
+      rev = "394c3ceeb72647ee4afee64d762c90bc0c884a49";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1ip4i4sy0pbz5cxb14vpkk5jkax9yrx5cd1k0am33fy58zfm55d9";
+      sha256 = "16pbds477w7xzr0jxav0a7pwnhg763bm9izmfb3pqbc2rzgxxizd";
     };
   };
   bottles = {
