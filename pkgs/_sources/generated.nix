@@ -259,14 +259,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "8beb605cd3a717e9488ffd7d6186e98300760a05";
+    version = "48c9d472893c6d152bb7497c91bc28882a9fa838";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "8beb605cd3a717e9488ffd7d6186e98300760a05";
+      rev = "48c9d472893c6d152bb7497c91bc28882a9fa838";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1m5ccr3df4ylj96zxkl8dz77937rhfq8d80rwh05xkg13k4bbd1c";
+      sha256 = "1lxahp8kvab1y99q82vd1p71qfrk0xip745r07dpp7fa7s2ggji2";
     };
   };
   flyingfox = {
@@ -591,17 +591,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "3cd8b3aa51ce81dc3433dda38e44334461851d94";
+    version = "402f33b1cc262ede3d42abbe66feeb0d40921450";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "3cd8b3aa51ce81dc3433dda38e44334461851d94";
+      rev = "402f33b1cc262ede3d42abbe66feeb0d40921450";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1nbia8m54qdpfxk8i5050qv04pi5nskw4fpyr539m5nh52r3qxdc";
+      sha256 = "1m36jsskdlvnxsx8lc0rp54v108213ij9h221h8khfvs37z2kjma";
     };
     cargoLock = {
-      lockFile = ./ouch-3cd8b3aa51ce81dc3433dda38e44334461851d94/Cargo.lock;
+      lockFile = ./ouch-402f33b1cc262ede3d42abbe66feeb0d40921450/Cargo.lock;
       outputHashes = { };
     };
   };
