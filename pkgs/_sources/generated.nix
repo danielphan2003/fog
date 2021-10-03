@@ -59,14 +59,14 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "b28dffe87fad061f4d4ad0f16592c53eded2f3f9";
+    version = "d16aebd16e17938ba1f298a29c985f5e4e40dd4f";
     src = fetchgit {
       url = "https://github.com/anime-dl/anime-downloader";
-      rev = "b28dffe87fad061f4d4ad0f16592c53eded2f3f9";
+      rev = "d16aebd16e17938ba1f298a29c985f5e4e40dd4f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0wviavvry8z5xa47m21zh83ndkf8n2p7f8dfnjbmd8icv2ca3p0m";
+      sha256 = "17b0wpr9vw04xdzk1kjlygyv24q0bgjr3g69x34c1z5ydskhbzly";
     };
   };
   any-nix-shell = {
