@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "45f51d4fa6311d7621d2fd29424906a92777d544";
+    version = "a71fb6428d077f6c344b67eb5040cb28c2f09af4";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "45f51d4fa6311d7621d2fd29424906a92777d544";
+      rev = "a71fb6428d077f6c344b67eb5040cb28c2f09af4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "07ddk8bbam2m0yhgs7xz6485vqb4np4dqby6gwxmknlvhpivq0ll";
+      sha256 = "10xfx8j8cgr9iwiav5bl21cih5iylc4j8q5iqidyb2w9z33lrm2g";
     };
   };
   teams = {
@@ -1106,10 +1106,10 @@
   };
   vscode-extensions-dart-code = {
     pname = "vscode-extensions-dart-code";
-    version = "3.26.0";
+    version = "3.27.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.26.0/file/Dart-Code.dart-code-3.26.0.vsix";
-      sha256 = "1qx9sd76acn82a5hgkm1vyb50in6qpvyqzym4vxdwlca8vcwfzdz";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.27.0/file/Dart-Code.dart-code-3.27.0.vsix";
+      sha256 = "07yh99q77ydrqrpin8mkyr2ssrc0kx2x1yrmyn1iwwx0pqqq8xgn";
     };
     homepage = "https://github.com/Dart-Code/Dart-Code";
     license = "mit";
@@ -1172,10 +1172,10 @@
   };
   vscode-extensions-flutter = {
     pname = "vscode-extensions-flutter";
-    version = "3.26.0";
+    version = "3.27.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.26.0/file/Dart-Code.flutter-3.26.0.vsix";
-      sha256 = "1vln6i107nm01spbb6mjn6pcv3swaqa589zf5i0i4x5537azr9r3";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.27.0/file/Dart-Code.flutter-3.27.0.vsix";
+      sha256 = "11qyifbrvxzj9147kalhp9vbvrndsgp7avpvpkwzw5k6pmc61pb2";
     };
     homepage = "https://github.com/Dart-Code/Flutter";
     license = "mit";
