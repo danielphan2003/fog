@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "301";
+    version = "302";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/301/downloads/paper-1.17.1-301.jar";
-      sha256 = "1j7f48m06gn8higcd18bsmk7ckicf717jf4jhc22m85mjb77nbvk";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/302/downloads/paper-1.17.1-302.jar";
+      sha256 = "1xas3dwa9q23nh9nb455wkrifrp1sphc2xrc0hjib9z62vq95vlb";
     };
   };
   picom = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6d43cbc32517660cf9f4a08c1e8574c411452c63";
+    version = "45f51d4fa6311d7621d2fd29424906a92777d544";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "6d43cbc32517660cf9f4a08c1e8574c411452c63";
+      rev = "45f51d4fa6311d7621d2fd29424906a92777d544";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15imh0m76nzsgggc5v4v7wj9xa489zkccqmsaggdg1d7lrk4z1gd";
+      sha256 = "07ddk8bbam2m0yhgs7xz6485vqb4np4dqby6gwxmknlvhpivq0ll";
     };
   };
   teams = {
