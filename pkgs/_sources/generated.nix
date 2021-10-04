@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "a49d330a68c9f2cfece4b5675715e61b181a60fb";
+    version = "794d088d9aced8e9b77368eb8094b956ad2d3753";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "a49d330a68c9f2cfece4b5675715e61b181a60fb";
+      rev = "794d088d9aced8e9b77368eb8094b956ad2d3753";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1jwjii4dj1pvh4zk564zkw7ir6jj3qrj0qkzqriqxdzzwlly876n";
+      sha256 = "0cv67i0sn119jq4n0bj56rr1pvxvb2sav4i034qk38dp5crnky3v";
     };
   };
   caddy = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "302";
+    version = "303";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/302/downloads/paper-1.17.1-302.jar";
-      sha256 = "1xas3dwa9q23nh9nb455wkrifrp1sphc2xrc0hjib9z62vq95vlb";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/303/downloads/paper-1.17.1-303.jar";
+      sha256 = "02qascwqhn5kh4z00sa6x1j3v6d4lck5ag8aair802c0w6xy36cf";
     };
   };
   picom = {
@@ -741,14 +741,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "197611e7ada92fbf1951d24dc44ddaddf8d77a14";
+    version = "2025b73ec238011a036fa769e4f05c5755ee568a";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "197611e7ada92fbf1951d24dc44ddaddf8d77a14";
+      rev = "2025b73ec238011a036fa769e4f05c5755ee568a";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0ajaqxqx31vl7laf8r8s1803zm3y5z0f07lwz31gkcqcfvlk135y";
+      sha256 = "0g6cwsnshz0gs4bbw0nxfkfygpdhkyff8cgq09zv7y234gbxlcmy";
     };
   };
   sddm = {
