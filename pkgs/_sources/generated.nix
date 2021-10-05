@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "427ace1be4e6717354a2943b6a247ce42a010091";
+    version = "74cfb7bacaa7b6ea79ce3aef10d6c1f74d807532";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "427ace1be4e6717354a2943b6a247ce42a010091";
+      rev = "74cfb7bacaa7b6ea79ce3aef10d6c1f74d807532";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "04b8cgx1fdzx9195j2rv6b52ay5jbcxsgl2821hmh3sq3z3ms68d";
+      sha256 = "09q02llx8j763lhnzn4xay9mzyn23hij0wvic8271fh3in2s1rpv";
     };
   };
   caddy = {
@@ -1438,14 +1438,14 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "b91f019320248ec6aefc7d131bf58db4f5f843ff";
+    version = "378cc6b214be7c3dc1f8423f713123abe5f5fa60";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-icon-theme";
-      rev = "b91f019320248ec6aefc7d131bf58db4f5f843ff";
+      rev = "378cc6b214be7c3dc1f8423f713123abe5f5fa60";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0clsv9ss1d8nl4pc3z09zma16yhi3pjr6ihsyk6vwx7iymqnwca4";
+      sha256 = "0byybrz9j1d3v00zdafs9pjidhqincb2qapbcjff3fr7q57gcfx0";
     };
   };
   widevine-cdm = {
