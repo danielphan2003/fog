@@ -107,14 +107,14 @@
   };
   awesome = {
     pname = "awesome";
-    version = "54a5a7dce580da39152175f2668463c7751d904c";
+    version = "f81723733ca6cd8155de5f0e4735fef48da6e86f";
     src = fetchgit {
       url = "https://github.com/awesomeWM/awesome";
-      rev = "54a5a7dce580da39152175f2668463c7751d904c";
+      rev = "f81723733ca6cd8155de5f0e4735fef48da6e86f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0115rkml0gxk4jglih3anh4pmrd9sdich4sky8frqj3svg6d0vkp";
+      sha256 = "1kdpw2ss5fxxpm8s4aic3czd07745c4xn26ca500dkd4pkm9hvcf";
     };
   };
   awestore = {
@@ -411,10 +411,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "96.0.1028.0";
+    version = "96.0.1032.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1028.0-1_amd64.deb";
-      sha256 = "0xp65fz7xrjaavmgjx5xc8j4m2j0vafskd76jx55zzk5qy2llkvz";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1032.0-1_amd64.deb";
+      sha256 = "082w4mzws44pxvbkb12cbs4d55r1kxix2wzq466rsy4gd95y7na5";
     };
   };
   minecraft-better-beds = {
