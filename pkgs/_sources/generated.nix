@@ -403,10 +403,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "95.0.1020.9";
+    version = "95.0.1020.14";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_95.0.1020.9-1_amd64.deb";
-      sha256 = "0mg8a8vyn0cld8d7mb5w7yak18qwgq5cg7c0ngz2h3mp06f1d4mn";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_95.0.1020.14-1_amd64.deb";
+      sha256 = "1k95jaxmwsd24xr2m9ywrcn21mcdkpdf6845n5lbkn3jvcbzjkvv";
     };
   };
   microsoft-edge-dev = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "305";
+    version = "306";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/305/downloads/paper-1.17.1-305.jar";
-      sha256 = "1yh7pjs88d9cr74qbqj64lxkrj10hqd4z6clxszd94bg26z1jrh1";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/306/downloads/paper-1.17.1-306.jar";
+      sha256 = "07zld924lfh1r58nzvpjrvgdfwbmxmn3346kblw5sqva5cl09qfb";
     };
   };
   picom = {
