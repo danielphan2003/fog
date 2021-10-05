@@ -83,14 +83,14 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "8404e8a59c6c54142594f6a856bb50b46227b130";
+    version = "380a88ee57a3af1fd3accf023b31e7e46f9ea855";
     src = fetchgit {
       url = "https://github.com/arkenfox/user.js";
-      rev = "8404e8a59c6c54142594f6a856bb50b46227b130";
+      rev = "380a88ee57a3af1fd3accf023b31e7e46f9ea855";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0ycfh1mx88pmdhr7wrmzd46akxjgir587gvipf8krsm8xlgjaijz";
+      sha256 = "0f2w6ckny0a2rcllfaky4qvlxscczpnj0bdyl4r1425gcwp8mf86";
     };
   };
   avizo = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e839cf8434404935332963b41e920ea32ca34dab";
+    version = "a264cad19a940e52dbd30d4d642246dd6a815869";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "e839cf8434404935332963b41e920ea32ca34dab";
+      rev = "a264cad19a940e52dbd30d4d642246dd6a815869";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1b0dx42kk0w7rgkcwl3lmszf7m3f4a912nkfjsnczh8y3ksk95nh";
+      sha256 = "1bkh3j7pfp2dw95kf1cklkb940iqa8b7l6hy3ba5hnxj0hbjmqy4";
     };
   };
   rofi-wayland = {
