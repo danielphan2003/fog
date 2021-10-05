@@ -591,17 +591,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "2f5083278f0819995e0332cdd5f4b2107e57b6dc";
+    version = "f7139548f663c4c2decbbd2d1fa543f681a80b15";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "2f5083278f0819995e0332cdd5f4b2107e57b6dc";
+      rev = "f7139548f663c4c2decbbd2d1fa543f681a80b15";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17pzbykrpisf49drfa15zl0dhv1w78snq5ikkwxg7n12q2igc080";
+      sha256 = "03pd0hh5xr2f299s6jrl9np852c77h8a6zfzbpjygfazj1cmfwx9";
     };
     cargoLock = {
-      lockFile = ./ouch-2f5083278f0819995e0332cdd5f4b2107e57b6dc/Cargo.lock;
+      lockFile = ./ouch-f7139548f663c4c2decbbd2d1fa543f681a80b15/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "306";
+    version = "307";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/306/downloads/paper-1.17.1-306.jar";
-      sha256 = "07zld924lfh1r58nzvpjrvgdfwbmxmn3346kblw5sqva5cl09qfb";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/307/downloads/paper-1.17.1-307.jar";
+      sha256 = "1s7iysy9qb7m2ky2d9vw1s5ny8p2myrgfgbxyab0wkn1w8b4xl4z";
     };
   };
   picom = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "376b7a622c04bb69dc600663efd6fddbbd5e5264";
+    version = "f4734d223c1ff8d12e8bc58dc4b06a20396f7530";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "376b7a622c04bb69dc600663efd6fddbbd5e5264";
+      rev = "f4734d223c1ff8d12e8bc58dc4b06a20396f7530";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1zvxmbr1f3j3zlv3a3x748ryia9nzpcdadv73d4sjw5dm1sxrplv";
+      sha256 = "0g7b4703b7cf5pm6j267cic7kxna0ihvly3ms64idcj9zfaylmpg";
     };
   };
   rofi-wayland = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "98b3fa78aabfb5b8b8877c4c446034cb09ab4f81";
+    version = "81269fad28ca3ddbd8592806940584ce361cfc7d";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "98b3fa78aabfb5b8b8877c4c446034cb09ab4f81";
+      rev = "81269fad28ca3ddbd8592806940584ce361cfc7d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1sam4492b2zzmcdbs7hs9a51dyijch9w0snh4qr3ck24zmmffgwx";
+      sha256 = "0csz625ynvqa3ssn8zwlbng79xz0nqvxfy785bfx0siialnsnb9c";
     };
   };
   teams = {
