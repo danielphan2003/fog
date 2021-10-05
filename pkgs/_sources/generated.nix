@@ -83,14 +83,14 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "6381b1aeb9e7e4e485f4f6e7faa37d7f00b7970f";
+    version = "8404e8a59c6c54142594f6a856bb50b46227b130";
     src = fetchgit {
       url = "https://github.com/arkenfox/user.js";
-      rev = "6381b1aeb9e7e4e485f4f6e7faa37d7f00b7970f";
+      rev = "8404e8a59c6c54142594f6a856bb50b46227b130";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1f29v4lyxc4fhhc12zmyg9xgwqm0r7ymkqhk85z2c312xj4a7zfh";
+      sha256 = "0ycfh1mx88pmdhr7wrmzd46akxjgir587gvipf8krsm8xlgjaijz";
     };
   };
   avizo = {
@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "304";
+    version = "305";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/304/downloads/paper-1.17.1-304.jar";
-      sha256 = "0y4pkkgspl3kx0fyy8pcvjjnkcad6c9a4n4z4cm59hbsaakarzan";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/305/downloads/paper-1.17.1-305.jar";
+      sha256 = "1yh7pjs88d9cr74qbqj64lxkrj10hqd4z6clxszd94bg26z1jrh1";
     };
   };
   picom = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "69ab4eee7a11337c05905eded5d22fedfc53bf8f";
+    version = "7e6a56dafcdeccc264701cfdf5d092585e94d2e5";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "69ab4eee7a11337c05905eded5d22fedfc53bf8f";
+      rev = "7e6a56dafcdeccc264701cfdf5d092585e94d2e5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1k8gdag4h0sj7b0d59jv56r2b36ln733j3hpqzbmsvl925k73r03";
+      sha256 = "09xs2hzjgys0zzkqqi8lia5z9q0arja5bzxqch1xvmy85x5m6p3l";
     };
   };
   rofi-wayland = {
