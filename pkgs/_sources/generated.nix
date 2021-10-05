@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a264cad19a940e52dbd30d4d642246dd6a815869";
+    version = "376b7a622c04bb69dc600663efd6fddbbd5e5264";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "a264cad19a940e52dbd30d4d642246dd6a815869";
+      rev = "376b7a622c04bb69dc600663efd6fddbbd5e5264";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1bkh3j7pfp2dw95kf1cklkb940iqa8b7l6hy3ba5hnxj0hbjmqy4";
+      sha256 = "1zvxmbr1f3j3zlv3a3x748ryia9nzpcdadv73d4sjw5dm1sxrplv";
     };
   };
   rofi-wayland = {
@@ -1117,10 +1117,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.61.0";
+    version = "0.62.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.61.0/file/dendron.dendron-0.61.0.vsix";
-      sha256 = "1kibcsa7i3iannyaa75xry7r1chkk6czx2gzip48ckr3md3wcimy";
+      url = "https://open-vsx.org/api/dendron/dendron/0.62.0/file/dendron.dendron-0.62.0.vsix";
+      sha256 = "1nkla4pkipacrzgx9n7lmvvh2nfry4gj8plg61pyrimxqqglsa03";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
