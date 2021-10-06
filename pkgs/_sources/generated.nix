@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "db1ad17ffaa47c33acb2be3bc3577b57207b918e";
+    version = "318f9af92fc8657ee70fc4e666a99fde9a20ac7c";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "db1ad17ffaa47c33acb2be3bc3577b57207b918e";
+      rev = "318f9af92fc8657ee70fc4e666a99fde9a20ac7c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1pv8c2r588bb14hxg9q8qg5qkl2vpj9ykdlwcp724ajb83q6vsz5";
+      sha256 = "0gd1ms3lkpp5d2y9hxpqj7ki2ryvakfahi42znjbsyc8d4g2v0sk";
     };
   };
   droidcam = {
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "55bf2b0083fd6795c9774761356c8f1374b49928";
+    version = "6739cf66ca7138cc88110e6f9c82f1d10adc307d";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "55bf2b0083fd6795c9774761356c8f1374b49928";
+      rev = "6739cf66ca7138cc88110e6f9c82f1d10adc307d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0ix0s2mj36fs72pg81y6nxpx0m05va4r0zlbxzjqyk7c3g70hzml";
+      sha256 = "0rg0zwiivaqsjmfn8gxq33k4yi62pfc2d4a4g9layxyb30yh7hcq";
     };
   };
   rofi-wayland = {
