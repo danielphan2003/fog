@@ -837,14 +837,14 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "e876c88db9de0fb91eac982c71485e3c59d89c2c";
+    version = "009e7409ac19841860741d8a4c54f87a255da8a1";
     src = fetchgit {
       url = "https://github.com/morpheusthewhite/spicetify-themes";
-      rev = "e876c88db9de0fb91eac982c71485e3c59d89c2c";
+      rev = "009e7409ac19841860741d8a4c54f87a255da8a1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0bhxvgny5y1kzgim7k6jhhjcpdihn86psxfwpr3m3411x7pjffzd";
+      sha256 = "036ymkwlb3nnrg2ndpcf6pnjby2yqdljrlp6j8jbh8fjw0jhxi36";
     };
   };
   spotify = {
@@ -893,14 +893,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "cc9cf97cbed5eb24be623f0233a6f3d3a47b9473";
+    version = "df7899759d3a23cbde4a66cdbd158facbecccf7f";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "cc9cf97cbed5eb24be623f0233a6f3d3a47b9473";
+      rev = "df7899759d3a23cbde4a66cdbd158facbecccf7f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1avcb8acy3a7b1i4qymm75glvaa76ddbh78x26k03anbscfci3vp";
+      sha256 = "0ivhcsanicri91syy0wshvfqrns2hxpc3xkdn2i87hlf09nyiri7";
     };
   };
   teams = {
