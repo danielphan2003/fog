@@ -591,17 +591,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "22f57e634f34516363e8d9401ee922ba62243cde";
+    version = "a739b5a4825d38bec3ed1202dcc24dcb23348da3";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "22f57e634f34516363e8d9401ee922ba62243cde";
+      rev = "a739b5a4825d38bec3ed1202dcc24dcb23348da3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0iciy877c1qah1858fc79jq3adzgr42ylhhp8h9x9k0imyz69ip5";
+      sha256 = "08sfs7vyhfk1mjvy9kl0dsfnfnc8h3wckkzwa3849z5lxv0i4vl4";
     };
     cargoLock = {
-      lockFile = ./ouch-22f57e634f34516363e8d9401ee922ba62243cde/Cargo.lock;
+      lockFile = ./ouch-a739b5a4825d38bec3ed1202dcc24dcb23348da3/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2e4d1357041441850a1d1f2c09dc7fc2bab1fe2c";
+    version = "00a5b5411faaf1d523505fb0cdb6afa54b7e25ca";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "2e4d1357041441850a1d1f2c09dc7fc2bab1fe2c";
+      rev = "00a5b5411faaf1d523505fb0cdb6afa54b7e25ca";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0fs0kv2g6i7rrl6lb4xnfva1b5drwyh3p83649r85zhn6zkw0jwk";
+      sha256 = "001pzikvz0idv1kymyjx7hdmdmmg6acxfbmf1c4mlvf052n949vi";
     };
   };
   rofi-wayland = {
@@ -1494,14 +1494,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "5daf42b48924b1e93d4fe40e600c42ae9835712f";
+    version = "8b7f4d3259e8b7d1eb3d8a83e8852989e869596a";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "5daf42b48924b1e93d4fe40e600c42ae9835712f";
+      rev = "8b7f4d3259e8b7d1eb3d8a83e8852989e869596a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "12sb1gg5bqm080x9pw7zyr9wssnz493dismj0w4q48sncijk3n1w";
+      sha256 = "0z0y8cp34fy0rspivwc4lzq8h74lixavdjjhzbqpfpn9xdjxdca0";
     };
   };
   ydotool = {
