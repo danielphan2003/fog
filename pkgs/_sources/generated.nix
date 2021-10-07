@@ -591,17 +591,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "14961bed65dbe73d8fb5c42e595f5e2ddd45398c";
+    version = "a96eb5362541e8a27f9d07c29b4a1d77a1d6f7f8";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "14961bed65dbe73d8fb5c42e595f5e2ddd45398c";
+      rev = "a96eb5362541e8a27f9d07c29b4a1d77a1d6f7f8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "037gw97lz6gpvg2j9s2rbad5q4apjl1df5f7mvc3in954idy0q1g";
+      sha256 = "0khsp0h4g5bq4m8b1is4hckw2drlfszcz2y9mb5shbnsqbqdh553";
     };
     cargoLock = {
-      lockFile = ./ouch-14961bed65dbe73d8fb5c42e595f5e2ddd45398c/Cargo.lock;
+      lockFile = ./ouch-a96eb5362541e8a27f9d07c29b4a1d77a1d6f7f8/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -813,14 +813,14 @@
   };
   snui = {
     pname = "snui";
-    version = "b852c495dab86199b43d8ff5719b8ae4578e06c0";
+    version = "66ecf246d2238aa4b320d0349013c4f63fcce433";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "b852c495dab86199b43d8ff5719b8ae4578e06c0";
+      rev = "66ecf246d2238aa4b320d0349013c4f63fcce433";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0hddpqs46q6bw5n9kwq52yi2ckb2x46hmvfw1wh1v68mncwn7giv";
+      sha256 = "0m9rh7hl604y16ryimd730m049crj18jnaa8gcqa231j887k8ghk";
     };
   };
   spicetify-cli = {
