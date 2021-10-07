@@ -435,10 +435,10 @@
   };
   minecraft-fabric-api = {
     pname = "minecraft-fabric-api";
-    version = "0.40.1+1.17";
+    version = "0.40.6+1.17";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.40.1+1.17/fabric-api-0.40.1+1.17.jar";
-      sha256 = "1j3vybh9rp7imdn8vy3kfdlja7dqpvc29dwj7bch0m2vhw8xv9hi";
+      url = "https://github.com/FabricMC/fabric/releases/download/0.40.6+1.17/fabric-api-0.40.6+1.17.jar";
+      sha256 = "049dz7vnqz0m5rn7m4kcjz39c81fqa4sxmiqdpfhsd41za0a2k03";
     };
   };
   minecraft-fast-furnace = {
@@ -905,10 +905,10 @@
   };
   teams = {
     pname = "teams";
-    version = "1.4.00.13653";
+    version = "1.4.00.26453";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.4.00.13653_amd64.deb";
-      sha256 = "1kx4j837fd344zy90nl0j3r8cdvihy6i6gf56wd5n56zngx1fhjv";
+      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.4.00.26453_amd64.deb";
+      sha256 = "0ndqk893l17m42hf5fiiv6mka0v7v8r54kblvb67jsxajdvva5gf";
     };
   };
   trackma = {
