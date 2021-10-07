@@ -259,14 +259,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "c194d582bb7e5b609387896b15bfced8dc4eac1c";
+    version = "7e1d596e469a17e26ee83536c523644a852e7ac3";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "c194d582bb7e5b609387896b15bfced8dc4eac1c";
+      rev = "7e1d596e469a17e26ee83536c523644a852e7ac3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15k0mbcnalrwjdc8iiq54sxiafpqdb668n30g333h1hrfa8vysf3";
+      sha256 = "116q665apzqxnbvwdhim01m7pxz4pjpps6g4qs9fhs3w4lndpvk4";
     };
   };
   flyingfox = {
@@ -813,14 +813,14 @@
   };
   snui = {
     pname = "snui";
-    version = "66ecf246d2238aa4b320d0349013c4f63fcce433";
+    version = "9533173cb1517e3d73b44e10743392e8f8e85a7d";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "66ecf246d2238aa4b320d0349013c4f63fcce433";
+      rev = "9533173cb1517e3d73b44e10743392e8f8e85a7d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0m9rh7hl604y16ryimd730m049crj18jnaa8gcqa231j887k8ghk";
+      sha256 = "0rv36mmvi1s6qc5nj3s0s6zdpkxbfpiap4h35h0cwg20vgz4b7xa";
     };
   };
   spicetify-cli = {
