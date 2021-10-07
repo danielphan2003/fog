@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "315";
+    version = "318";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/315/downloads/paper-1.17.1-315.jar";
-      sha256 = "14y6cl49pv3h6v5lrg13ahhlypyhbpi12lbr7m90h9a4qf0k53s5";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/318/downloads/paper-1.17.1-318.jar";
+      sha256 = "0zivxr7my055pmhgywqjbkkqb4acfbsv3amzijw8chqgz30113nh";
     };
   };
   picom = {
@@ -1075,10 +1075,10 @@
   };
   vscode-extensions-codeql = {
     pname = "vscode-extensions-codeql";
-    version = "1.5.5";
+    version = "1.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.5/file/GitHub.vscode-codeql-1.5.5.vsix";
-      sha256 = "09504qzddy7vqkh9lcybnb1p91dkal2qxh0q3f4i022iynsn3zs6";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.6/file/GitHub.vscode-codeql-1.5.6.vsix";
+      sha256 = "0x7fs5ha4llmkmsm2x41pajxi0mgjvw9mx1xpdwb2nqi2z3k28j0";
     };
     homepage = "https://github.com/github/vscode-codeql";
     license = "mit";
