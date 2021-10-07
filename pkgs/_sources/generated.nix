@@ -591,17 +591,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "8bf087bbd7d5073ebebb921d5c963f0fd241123a";
+    version = "a6eaef12205f218163a68e1282b317e4e8b2bca5";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "8bf087bbd7d5073ebebb921d5c963f0fd241123a";
+      rev = "a6eaef12205f218163a68e1282b317e4e8b2bca5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0rzhpxsqq86a50fd5n8ydnrssbkg20v3i9iim6xngq7wi2r452xz";
+      sha256 = "1902208p2qzlbzgs4k4icnca13js8268qh6m9rbk6lnah6shh53j";
     };
     cargoLock = {
-      lockFile = ./ouch-8bf087bbd7d5073ebebb921d5c963f0fd241123a/Cargo.lock;
+      lockFile = ./ouch-a6eaef12205f218163a68e1282b317e4e8b2bca5/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -1117,10 +1117,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.62.0";
+    version = "0.62.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.62.0/file/dendron.dendron-0.62.0.vsix";
-      sha256 = "1nkla4pkipacrzgx9n7lmvvh2nfry4gj8plg61pyrimxqqglsa03";
+      url = "https://open-vsx.org/api/dendron/dendron/0.62.1/file/dendron.dendron-0.62.1.vsix";
+      sha256 = "1ziv75n2ppyx7vq66fq97hfkzn65kyqkzvl3sm6q3x4nsbglpar0";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
