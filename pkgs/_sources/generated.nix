@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "319";
+    version = "320";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/319/downloads/paper-1.17.1-319.jar";
-      sha256 = "01wqbqacpnfqgnwq67a90z75sn1rqcsayh99g2wq726674znbzva";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/320/downloads/paper-1.17.1-320.jar";
+      sha256 = "0m4sx75xasc8w611r51nyzr8rjhsh0dk07pdc3lzvacw0r932gdl";
     };
   };
   picom = {
@@ -1381,10 +1381,10 @@
   };
   vscode-extensions-svelte = {
     pname = "vscode-extensions-svelte";
-    version = "105.4.1";
+    version = "105.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.4.1/file/svelte.svelte-vscode-105.4.1.vsix";
-      sha256 = "038qn0dv9x54ygwl4jkpc5mkfj5zsky56iisj195ys8qdvnir390";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.4.2/file/svelte.svelte-vscode-105.4.2.vsix";
+      sha256 = "0q3ln431zjj0z1rgca0rj8fv1qnsa2psl1x39mw1gppw4dmfpnm4";
     };
     homepage = "https://github.com/sveltejs/language-tools";
     license = "mit";
@@ -1494,14 +1494,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "8b7f4d3259e8b7d1eb3d8a83e8852989e869596a";
+    version = "f9f705bf3cf0d169d54a70f235cc99e106dbda43";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "8b7f4d3259e8b7d1eb3d8a83e8852989e869596a";
+      rev = "f9f705bf3cf0d169d54a70f235cc99e106dbda43";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0z0y8cp34fy0rspivwc4lzq8h74lixavdjjhzbqpfpn9xdjxdca0";
+      sha256 = "1j29zsyhrn5xj2pqhwszjrd4ymcx3jp8w8h0k1hr3vqph4z3hxwm";
     };
   };
   ydotool = {
