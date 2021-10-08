@@ -625,10 +625,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "318";
+    version = "319";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/318/downloads/paper-1.17.1-318.jar";
-      sha256 = "0zivxr7my055pmhgywqjbkkqb4acfbsv3amzijw8chqgz30113nh";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/319/downloads/paper-1.17.1-319.jar";
+      sha256 = "01wqbqacpnfqgnwq67a90z75sn1rqcsayh99g2wq726674znbzva";
     };
   };
   picom = {
@@ -869,14 +869,14 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "08df7f7a1e6d8d3aafa74dd1c57d443153cf52ce";
+    version = "58a32d8130c3b8642566e591947e585ed3ebcc41";
     src = fetchgit {
       url = "https://github.com/fluix-dev/sway-borders";
-      rev = "08df7f7a1e6d8d3aafa74dd1c57d443153cf52ce";
+      rev = "58a32d8130c3b8642566e591947e585ed3ebcc41";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0nvnqxw0pnlliyjii979j3znly5qw4aqa80l22if55iycx6lvmnm";
+      sha256 = "0p92r6ra4lxha7v29638dn3dyldhm9ck0lbkp25fx3ha5kycdx1h";
     };
   };
   swaylock-effects = {
