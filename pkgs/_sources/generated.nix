@@ -283,17 +283,17 @@
   };
   frece = {
     pname = "frece";
-    version = "317e96f8e7bd41292c620a3a9bf22ab9feb70b9a";
+    version = "41d11ec6512c9d8831535096436859222b4da085";
     src = fetchgit {
       url = "https://github.com/YodaEmbedding/frece";
-      rev = "317e96f8e7bd41292c620a3a9bf22ab9feb70b9a";
+      rev = "41d11ec6512c9d8831535096436859222b4da085";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0nrkj69r39fv1j66dlvby42bkdsxyg34069fnrl7kk6yzri1ypnl";
+      sha256 = "1p1pxf730jcr59n3fa1n7cqbqiv5wynm8iazdpm3mfsa7slqh208";
     };
     cargoLock = {
-      lockFile = ./frece-317e96f8e7bd41292c620a3a9bf22ab9feb70b9a/Cargo.lock;
+      lockFile = ./frece-41d11ec6512c9d8831535096436859222b4da085/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -311,14 +311,14 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "346f01f67e29c72c09b0a678dea844439227d491";
+    version = "38f36e9ae2b3191046f496a7e27004ff60d34988";
     src = fetchgit {
       url = "https://github.com/BambooEngine/ibus-bamboo";
-      rev = "346f01f67e29c72c09b0a678dea844439227d491";
+      rev = "38f36e9ae2b3191046f496a7e27004ff60d34988";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1n5jn1g1b2jrxmkvkdbmz7qkv6bssh4qkwfzhx85473bb4q33k4d";
+      sha256 = "07l7ncizbpd034ajj2sg38kji68nfpv7ajrfi49yffgj8appsbds";
     };
   };
   layout-machi = {
