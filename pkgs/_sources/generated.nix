@@ -283,17 +283,17 @@
   };
   frece = {
     pname = "frece";
-    version = "6c54787ba87b7ce95a747bcb29c4104eebd76866";
+    version = "152aebc768cfb184b9c0584699992829a879ab92";
     src = fetchgit {
       url = "https://github.com/YodaEmbedding/frece";
-      rev = "6c54787ba87b7ce95a747bcb29c4104eebd76866";
+      rev = "152aebc768cfb184b9c0584699992829a879ab92";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1hp8i51p0hvdqqkpfzr51b1xf9wh6nvjs5p8zzv7fx593xlmh5px";
+      sha256 = "0j7fjv9ariam2nqnb3xqzhdr0f1x0wd0jjnbmwlqxk3xci22yqcv";
     };
     cargoLock = {
-      lockFile = ./frece-6c54787ba87b7ce95a747bcb29c4104eebd76866/Cargo.lock;
+      lockFile = ./frece-152aebc768cfb184b9c0584699992829a879ab92/Cargo.lock;
       outputHashes = { };
     };
   };
