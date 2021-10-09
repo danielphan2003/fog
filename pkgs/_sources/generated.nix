@@ -107,14 +107,14 @@
   };
   awesome = {
     pname = "awesome";
-    version = "1f84dbef184eab0538ad326969db24e94db3c1a7";
+    version = "d487d1010e65427c2b8567202ca0000b0484b4f3";
     src = fetchgit {
       url = "https://github.com/awesomeWM/awesome";
-      rev = "1f84dbef184eab0538ad326969db24e94db3c1a7";
+      rev = "d487d1010e65427c2b8567202ca0000b0484b4f3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1h5wb0cc9fcrygibkjds5g5lfz76imclj2r2a8b2phb8sfzjagjc";
+      sha256 = "1riihwk6jfwgnp1rpn783ljaqbhb2ap86dqy4qh21bp9iy45vvsm";
     };
   };
   awestore = {
@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "df73cef6201164e0b399b53cb9620414ce58d68e";
+    version = "4cdb07a38737085b4c58a669698907baf3d03976";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "df73cef6201164e0b399b53cb9620414ce58d68e";
+      rev = "4cdb07a38737085b4c58a669698907baf3d03976";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "07lhdg3mry5b53y9v7cy8sgksp6d5rm9czp3s04g03qbp9k9fq7h";
+      sha256 = "1lkcs035iycx08il9fj5g2j6b18xrivsgb2qp1db4mzyc9sh5bdw";
     };
   };
   caddy = {
@@ -435,10 +435,10 @@
   };
   minecraft-fabric-api = {
     pname = "minecraft-fabric-api";
-    version = "0.40.6+1.17";
+    version = "0.40.8+1.17";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.40.6+1.17/fabric-api-0.40.6+1.17.jar";
-      sha256 = "049dz7vnqz0m5rn7m4kcjz39c81fqa4sxmiqdpfhsd41za0a2k03";
+      url = "https://github.com/FabricMC/fabric/releases/download/0.40.8+1.17/fabric-api-0.40.8+1.17.jar";
+      sha256 = "0c6zxi5p6k4shwn0ly87rhsz9vsm98c5g7pg31rc04vfwyvispj0";
     };
   };
   minecraft-fast-furnace = {
