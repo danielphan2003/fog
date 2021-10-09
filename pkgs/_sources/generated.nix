@@ -283,17 +283,17 @@
   };
   frece = {
     pname = "frece";
-    version = "be76a498adc886e2ed1c51bafaea29fd9fb89844";
+    version = "d4071c6c852e68dda82b7ab0bfb0f141b39d4484";
     src = fetchgit {
       url = "https://github.com/YodaEmbedding/frece";
-      rev = "be76a498adc886e2ed1c51bafaea29fd9fb89844";
+      rev = "d4071c6c852e68dda82b7ab0bfb0f141b39d4484";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "00glj2pg7rqiw2kkynq8lzhviv0vmsb54j5pakgxwi8wfpkwhbc3";
+      sha256 = "0fw16ir1qqvv8jh5gpaixhim6g1pq18kji42221aa9nlr4nr3d4l";
     };
     cargoLock = {
-      lockFile = ./frece-be76a498adc886e2ed1c51bafaea29fd9fb89844/Cargo.lock;
+      lockFile = ./frece-d4071c6c852e68dda82b7ab0bfb0f141b39d4484/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -367,14 +367,14 @@
   };
   lightcord = {
     pname = "lightcord";
-    version = "8ab6645d2c4ae350db7ed1aac9d2071e45ccd186";
+    version = "39fc7f28937029dc7270c0ec2bac11c0b467113c";
     src = fetchgit {
       url = "https://github.com/Lightcord/Lightcord";
-      rev = "8ab6645d2c4ae350db7ed1aac9d2071e45ccd186";
+      rev = "39fc7f28937029dc7270c0ec2bac11c0b467113c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0wwmidr2n4sc9gpwr1rdra3m0xhqc9dpz5g1rhp9ka1nflxwfm84";
+      sha256 = "03bfdm0af5drazbxp2l390dkwdy8cgbyj5h0qz23jwf47hfgqxq5";
     };
   };
   lua-pam = {
