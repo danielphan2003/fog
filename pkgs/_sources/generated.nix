@@ -283,17 +283,17 @@
   };
   frece = {
     pname = "frece";
-    version = "62669dee1024ad5e2dfc49ca91fad25361a041fa";
+    version = "6c54787ba87b7ce95a747bcb29c4104eebd76866";
     src = fetchgit {
       url = "https://github.com/YodaEmbedding/frece";
-      rev = "62669dee1024ad5e2dfc49ca91fad25361a041fa";
+      rev = "6c54787ba87b7ce95a747bcb29c4104eebd76866";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "13hl7bkp5893w8d9jqdd7casasj5wxzb17bxj8v7mh3pci0qgbpb";
+      sha256 = "1hp8i51p0hvdqqkpfzr51b1xf9wh6nvjs5p8zzv7fx593xlmh5px";
     };
     cargoLock = {
-      lockFile = ./frece-62669dee1024ad5e2dfc49ca91fad25361a041fa/Cargo.lock;
+      lockFile = ./frece-6c54787ba87b7ce95a747bcb29c4104eebd76866/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -729,14 +729,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a5a9393b26618edd811d5240be2da7cfc074545b";
+    version = "39fd4677d9b9601b864fbd71dcd1e6eb3262cd0b";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "a5a9393b26618edd811d5240be2da7cfc074545b";
+      rev = "39fd4677d9b9601b864fbd71dcd1e6eb3262cd0b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0pgb1sr7mcx5cj5k04ykdbhrss2m1lvh110qf0yjxaj7p9dqdcm7";
+      sha256 = "0pazjgiarai9v4h4wx2rkb15dr94v7lc7qwa7rqwi695jhbxbdvz";
     };
   };
   rofi-wayland = {
