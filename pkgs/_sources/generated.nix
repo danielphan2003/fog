@@ -83,14 +83,14 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "380a88ee57a3af1fd3accf023b31e7e46f9ea855";
+    version = "412c8f9f94fcc058b9bf5f7dfbd824a1255a51a9";
     src = fetchgit {
       url = "https://github.com/arkenfox/user.js";
-      rev = "380a88ee57a3af1fd3accf023b31e7e46f9ea855";
+      rev = "412c8f9f94fcc058b9bf5f7dfbd824a1255a51a9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0f2w6ckny0a2rcllfaky4qvlxscczpnj0bdyl4r1425gcwp8mf86";
+      sha256 = "0p96hd7njvamwr17xkqmrn2k1lcc4dk0rpy2803ga323pnzbkyyh";
     };
   };
   avizo = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "a6026f8ece9d1b7d845f558f1e88d818725d01e2";
+    version = "6c88ee761fab4f4eb56577e6501c89528ebcbe43";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "a6026f8ece9d1b7d845f558f1e88d818725d01e2";
+      rev = "6c88ee761fab4f4eb56577e6501c89528ebcbe43";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "05wvwl6zlc30rghw5ws3jfw9lvhhy0qy3lahmv68hvlcxrb9h2py";
+      sha256 = "07wvq6vnqnkpv45fz5kb18s407prlis3r0cqms4b52s75kpb1d0c";
     };
   };
   droidcam = {
@@ -283,17 +283,17 @@
   };
   frece = {
     pname = "frece";
-    version = "152aebc768cfb184b9c0584699992829a879ab92";
+    version = "5fc6f42c7d94b54631fcbb8705f6f22073d7e23e";
     src = fetchgit {
       url = "https://github.com/YodaEmbedding/frece";
-      rev = "152aebc768cfb184b9c0584699992829a879ab92";
+      rev = "5fc6f42c7d94b54631fcbb8705f6f22073d7e23e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0j7fjv9ariam2nqnb3xqzhdr0f1x0wd0jjnbmwlqxk3xci22yqcv";
+      sha256 = "1nv2h6vam1dnzs8cla13nwvakfz63s8nvv273kfj3282jj95skhq";
     };
     cargoLock = {
-      lockFile = ./frece-152aebc768cfb184b9c0584699992829a879ab92/Cargo.lock;
+      lockFile = ./frece-5fc6f42c7d94b54631fcbb8705f6f22073d7e23e/Cargo.lock;
       outputHashes = { };
     };
   };
