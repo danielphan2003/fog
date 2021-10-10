@@ -183,14 +183,14 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "e2ada45598c23cf0a6e1c628b7a8b590e938a5f0";
+    version = "766e14969984174f88f44530c2cd12d27c52cabe";
     src = fetchgit {
       url = "https://github.com/DNSCrypt/dnscrypt-proxy";
-      rev = "e2ada45598c23cf0a6e1c628b7a8b590e938a5f0";
+      rev = "766e14969984174f88f44530c2cd12d27c52cabe";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1aqgx483w1g9rcryq912r3h2pq3f6hc3vncm34mdr6bz50gfyi95";
+      sha256 = "1zyh5yd8285x1596kns3n0cnd63sslfy83n8gpmd0migrfyyx9wh";
     };
   };
   doggo = {
@@ -881,14 +881,14 @@
   };
   swaylock-effects = {
     pname = "swaylock-effects";
-    version = "5cb9579faaf5662b111f5722311b701eff1c1d00";
+    version = "a8fc557b86e70f2f7a30ca9ff9b3124f89e7f204";
     src = fetchgit {
       url = "https://github.com/mortie/swaylock-effects";
-      rev = "5cb9579faaf5662b111f5722311b701eff1c1d00";
+      rev = "a8fc557b86e70f2f7a30ca9ff9b3124f89e7f204";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "036dkhfqgk7g9vbr5pxgrs66h5fz0rwdsc67i1w51aa9v01r35ca";
+      sha256 = "0f9571blnn7lg317js1j1spc5smz69i5aw6zkhskkm5m633rrpqq";
     };
   };
   tailscale = {
@@ -1426,14 +1426,14 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "14aee32a1c0308561dbed9daba6c368137a3673b";
+    version = "d59f6889b587a6fb208484464d16eeb48f9fc823";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-gtk-theme";
-      rev = "14aee32a1c0308561dbed9daba6c368137a3673b";
+      rev = "d59f6889b587a6fb208484464d16eeb48f9fc823";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0gfs5gs0jjqhsdbbv202rgyj3rq3mk04hlzfm4qhyjpkiqsw629k";
+      sha256 = "11pa2g53gqsdik7mfjv8m0dmcbmffap10hl31hrqphir6ym26c95";
     };
   };
   whitesur-icon-theme = {
