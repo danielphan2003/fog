@@ -259,14 +259,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "b650231fa521bc4de7a063ded5580c36410a7229";
+    version = "0e43d4b36f2b9d2df5731ebc0a3e1a97f8020563";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "b650231fa521bc4de7a063ded5580c36410a7229";
+      rev = "0e43d4b36f2b9d2df5731ebc0a3e1a97f8020563";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0h9ifppz9q4zl8p6liy9x20myqxb0zh1nwq5s1vk9ykh0jmgqgrr";
+      sha256 = "0d66vb5qzghg7hf13fg8dg5lz7332ykkin7wscwgyrvb8iw71xdg";
     };
   };
   flyingfox = {
@@ -1438,14 +1438,14 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "378cc6b214be7c3dc1f8423f713123abe5f5fa60";
+    version = "c9f60850a0def0948c81bc0757d630a448edfcdc";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-icon-theme";
-      rev = "378cc6b214be7c3dc1f8423f713123abe5f5fa60";
+      rev = "c9f60850a0def0948c81bc0757d630a448edfcdc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0byybrz9j1d3v00zdafs9pjidhqincb2qapbcjff3fr7q57gcfx0";
+      sha256 = "0j0cpsjg34392n8pvnkgzql0mi11n22wx3sjs9km4m6ifvxmllcs";
     };
   };
   widevine-cdm = {
