@@ -1064,10 +1064,10 @@
   };
   vscode-extensions-code-runner = {
     pname = "vscode-extensions-code-runner";
-    version = "0.11.5";
+    version = "0.11.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.5/file/formulahendry.code-runner-0.11.5.vsix";
-      sha256 = "0j4wd5qiwf9anynb47xwvrs7262is1naprjskndhflawnghrzx2r";
+      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.6/file/formulahendry.code-runner-0.11.6.vsix";
+      sha256 = "0wk456b6h3m5l4ingyq1q5532cyczfqzzr9wf3bp76k6rhx9lwqh";
     };
     homepage = "https://github.com/formulahendry/vscode-code-runner";
     license = "mit";
