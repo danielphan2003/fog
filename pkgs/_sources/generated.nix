@@ -1426,26 +1426,26 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "d59f6889b587a6fb208484464d16eeb48f9fc823";
+    version = "8d52bd6dccb7978aab52e72320718bb6833ea76e";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-gtk-theme";
-      rev = "d59f6889b587a6fb208484464d16eeb48f9fc823";
+      rev = "8d52bd6dccb7978aab52e72320718bb6833ea76e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11pa2g53gqsdik7mfjv8m0dmcbmffap10hl31hrqphir6ym26c95";
+      sha256 = "0phxn4ya1cjlfb5bblbas1px00n9ismkjrn7i73hf9f24rxmk560";
     };
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "c9f60850a0def0948c81bc0757d630a448edfcdc";
+    version = "1440238fe512a6ab865b25f2fba21a94b5ea3b5f";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-icon-theme";
-      rev = "c9f60850a0def0948c81bc0757d630a448edfcdc";
+      rev = "1440238fe512a6ab865b25f2fba21a94b5ea3b5f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0j0cpsjg34392n8pvnkgzql0mi11n22wx3sjs9km4m6ifvxmllcs";
+      sha256 = "0bvvw2hjfhp61pidbcm1qlqy7pdx2h36z0pp95a37xy65ld63zh4";
     };
   };
   widevine-cdm = {
