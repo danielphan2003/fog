@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5229a4fb31e9196c6bb4d3bf39f2ae6da2a7eb83";
+    version = "3ab0569186f2ef9350efc08e74471530b5d5224f";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "5229a4fb31e9196c6bb4d3bf39f2ae6da2a7eb83";
+      rev = "3ab0569186f2ef9350efc08e74471530b5d5224f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "05wakx33fw1nz1br8m3rxwqy29nl6pds9wagqqbp8mn0604yg66z";
+      sha256 = "12p7w8afvpwasra1kbbvdiz8qpwvlmm9k2ygi7c3yicryxbb0pxq";
     };
   };
   caddy = {
@@ -255,6 +255,18 @@
     cargoLock = {
       lockFile = ./eww-9c15e4c8879d1ea9e5155dd271b6a5a457f33d6b/Cargo.lock;
       outputHashes = { };
+    };
+  };
+  fake-background-webcam = {
+    pname = "fake-background-webcam";
+    version = "ec67c26b06142287ed22b495ca5d0fd6b7e9b5c6";
+    src = fetchgit {
+      url = "https://github.com/fangfufu/Linux-Fake-Background-Webcam";
+      rev = "ec67c26b06142287ed22b495ca5d0fd6b7e9b5c6";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "15zd5wfzgdzm5aylqa6nn4mbak8q3rr58fw95bxav7xf0snklp8b";
     };
   };
   flameshot = {
