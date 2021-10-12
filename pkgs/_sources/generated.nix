@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "e932b39df8ff7b31cbaf401b1433554a58921277";
+    version = "76245544314f951ed9f08ed871cc5a035ee0bd2f";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "e932b39df8ff7b31cbaf401b1433554a58921277";
+      rev = "76245544314f951ed9f08ed871cc5a035ee0bd2f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "047xvjdvw7yw4gmggqdl2smijm84g3n4kf7z7ymxh1yvcmgnl8y5";
+      sha256 = "0vkpsrcx82x76dbijx4icqbd48z7z7slimgx04qsb4n9cwgs80d9";
     };
   };
   droidcam = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9c3ae750da26b079fdcfa9d13605bb4461973723";
+    version = "1b20d1ce549e065399359ec4bf743b80281b37ee";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "9c3ae750da26b079fdcfa9d13605bb4461973723";
+      rev = "1b20d1ce549e065399359ec4bf743b80281b37ee";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0qiinasv4fmpxypm10ycrclhpyy71845qx4mjnxqib9cw1bppq83";
+      sha256 = "0rl18bk01h8ic6qjypj5cnnzy45155mbkn0z1vxklpi0qnddyks7";
     };
   };
   teams = {
