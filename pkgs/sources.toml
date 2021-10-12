@@ -441,6 +441,10 @@ fetch.url = "https://github.com/Anorov/cloudflare-scrape/archive/master.tar.gz"
 src.pypi = "cmapy"
 fetch.pypi = "cmapy"
 
+[pythonPackages-mediapipe]
+src.pypi = "mediapipe"
+fetch.pypi = "mediapipe"
+
 [pythonPackages-pySmartDL]
 src.git = "https://github.com/iTaybb/pySmartDL"
 fetch.url = "https://github.com/iTaybb/pySmartDL/archive/master.tar.gz"
