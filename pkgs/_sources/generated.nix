@@ -155,14 +155,14 @@
   };
   caddy = {
     pname = "caddy";
-    version = "837cdc566d609eae8f5f6b7207c4642768dfa4de";
+    version = "c4790d7f9d48f72254051e5743d00e930928e0c9";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "837cdc566d609eae8f5f6b7207c4642768dfa4de";
+      rev = "c4790d7f9d48f72254051e5743d00e930928e0c9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "01c5kpqfl6n22025d76qy9g5iq8l5pi11biram5r8wjvzxvkk95n";
+      sha256 = "0ifrbklflbzc2pfvlgb5g8vcb895bwjnibzlpmx7har37syyj8i2";
     };
   };
   cups-pdf = {
@@ -693,6 +693,18 @@
     src = fetchurl {
       url = "https://pypi.io/packages/source/c/cmapy/cmapy-0.6.6.tar.gz";
       sha256 = "0majh37aldmnk0ddxrkazqfxddrg5wqbhr09zd3a2jbw0nrsclnb";
+    };
+  };
+  pythonPackages-mediapipe = {
+    pname = "pythonPackages-mediapipe";
+    version = "v0.8.8";
+    src = fetchgit {
+      url = "https://github.com/google/mediapipe";
+      rev = "v0.8.8";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "1pm355k06w3x72ywqy83s7dpc4lz2qbf1g1al7lw2jymqdl05b8i";
     };
   };
   pythonPackages-pySmartDL = {
@@ -1288,10 +1300,10 @@
   };
   vscode-extensions-nix-ide = {
     pname = "vscode-extensions-nix-ide";
-    version = "0.1.16";
+    version = "0.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.16/file/jnoortheen.nix-ide-0.1.16.vsix";
-      sha256 = "0s7vxq3bnh1myzypc061lf1i0azxpiia6bf53rhwvrd3vsmygkvi";
+      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.17/file/jnoortheen.nix-ide-0.1.17.vsix";
+      sha256 = "1vd8np7fdfbgs4jipqwd33mxccg17zyz7v4zf7aw0k9dli1s4h8w";
     };
     homepage = "https://github.com/nix-community/vscode-nix-ide";
     license = "mit";
