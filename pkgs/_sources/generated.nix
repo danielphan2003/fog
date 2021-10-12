@@ -697,14 +697,10 @@
   };
   pythonPackages-mediapipe = {
     pname = "pythonPackages-mediapipe";
-    version = "v0.8.8";
-    src = fetchgit {
-      url = "https://github.com/google/mediapipe";
-      rev = "v0.8.8";
-      fetchSubmodules = false;
-      deepClone = false;
-      leaveDotGit = false;
-      sha256 = "1pm355k06w3x72ywqy83s7dpc4lz2qbf1g1al7lw2jymqdl05b8i";
+    version = "0.8.8";
+    src = fetchurl {
+      url = "https://files.pythonhosted.org/packages/ed/5f/188b509ab93e740f3fd8d9179de0ef9340852b48f1f5d671cd090a54996f/mediapipe-0.8.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl";
+      sha256 = "15qmphlc6rnqadqr4wa77prqmjgvqa9kna14cvkw27zbmk9l6vd9";
     };
   };
   pythonPackages-pySmartDL = {
