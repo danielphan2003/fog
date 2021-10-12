@@ -437,6 +437,10 @@ fetch.url = "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.
 src.git = "https://github.com/Anorov/cloudflare-scrape"
 fetch.url = "https://github.com/Anorov/cloudflare-scrape/archive/master.tar.gz"
 
+[pythonPackages-cmapy]
+src.pypi = "cmapy"
+fetch.pypi = "cmapy"
+
 [pythonPackages-pySmartDL]
 src.git = "https://github.com/iTaybb/pySmartDL"
 fetch.url = "https://github.com/iTaybb/pySmartDL/archive/master.tar.gz"
