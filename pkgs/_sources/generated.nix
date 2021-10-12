@@ -83,14 +83,14 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "a764149520fdd2082b3efa5b74f1d5250d4b9ac0";
+    version = "85438d00e457bff692303af519da618c6372476b";
     src = fetchgit {
       url = "https://github.com/arkenfox/user.js";
-      rev = "a764149520fdd2082b3efa5b74f1d5250d4b9ac0";
+      rev = "85438d00e457bff692303af519da618c6372476b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1bfm6k9g52vr09iq0lxznn6yy3fgd8ljgx6kz7dwl1gby4nmydmp";
+      sha256 = "1mmwxi327gnv98d0fdndq0srhs575qvpnpbyp3lalfrblk6kwrfi";
     };
   };
   avizo = {
@@ -155,14 +155,14 @@
   };
   caddy = {
     pname = "caddy";
-    version = "837cdc566d609eae8f5f6b7207c4642768dfa4de";
+    version = "c4790d7f9d48f72254051e5743d00e930928e0c9";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "837cdc566d609eae8f5f6b7207c4642768dfa4de";
+      rev = "c4790d7f9d48f72254051e5743d00e930928e0c9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "01c5kpqfl6n22025d76qy9g5iq8l5pi11biram5r8wjvzxvkk95n";
+      sha256 = "0ifrbklflbzc2pfvlgb5g8vcb895bwjnibzlpmx7har37syyj8i2";
     };
   };
   cups-pdf = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "d48827d0e2a521f2840bae96b5715292a9f8cf82";
+    version = "05180f8132422bb0a1fd2ac095070ba7281c3e5f";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "d48827d0e2a521f2840bae96b5715292a9f8cf82";
+      rev = "05180f8132422bb0a1fd2ac095070ba7281c3e5f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0bzf9j39cp84zangz2s1nv6h4wa79mj8bv7s3n95wkcd97a0yy44";
+      sha256 = "1vq883qfg6x198dnxza5w91g8dh6v09hrdig43lrx620qd08gpgg";
     };
   };
   droidcam = {
@@ -695,6 +695,18 @@
       sha256 = "0majh37aldmnk0ddxrkazqfxddrg5wqbhr09zd3a2jbw0nrsclnb";
     };
   };
+  pythonPackages-mediapipe = {
+    pname = "pythonPackages-mediapipe";
+    version = "v0.8.8";
+    src = fetchgit {
+      url = "https://github.com/google/mediapipe";
+      rev = "v0.8.8";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "1pm355k06w3x72ywqy83s7dpc4lz2qbf1g1al7lw2jymqdl05b8i";
+    };
+  };
   pythonPackages-pySmartDL = {
     pname = "pythonPackages-pySmartDL";
     version = "b93df794e1e60017c42d9520ac097b6fd38c2e8b";
@@ -1126,10 +1138,10 @@
   };
   vscode-extensions-dart-code = {
     pname = "vscode-extensions-dart-code";
-    version = "3.27.0";
+    version = "3.27.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.27.0/file/Dart-Code.dart-code-3.27.0.vsix";
-      sha256 = "07yh99q77ydrqrpin8mkyr2ssrc0kx2x1yrmyn1iwwx0pqqq8xgn";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.27.2/file/Dart-Code.dart-code-3.27.2.vsix";
+      sha256 = "1j9nx37m4r3y8nc2zks2bb7frqki3k9fjk7qilk55jvlm9avz200";
     };
     homepage = "https://github.com/Dart-Code/Dart-Code";
     license = "mit";
@@ -1288,10 +1300,10 @@
   };
   vscode-extensions-nix-ide = {
     pname = "vscode-extensions-nix-ide";
-    version = "0.1.16";
+    version = "0.1.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.16/file/jnoortheen.nix-ide-0.1.16.vsix";
-      sha256 = "0s7vxq3bnh1myzypc061lf1i0azxpiia6bf53rhwvrd3vsmygkvi";
+      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.18/file/jnoortheen.nix-ide-0.1.18.vsix";
+      sha256 = "1hz5gj3rbfawa4h0ypdp274nsy4x9mf8mdsigf79zsi9p5hb700s";
     };
     homepage = "https://github.com/nix-community/vscode-nix-ide";
     license = "mit";
@@ -1337,10 +1349,10 @@
   };
   vscode-extensions-prettier = {
     pname = "vscode-extensions-prettier";
-    version = "8.1.0";
+    version = "9.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/8.1.0/file/esbenp.prettier-vscode-8.1.0.vsix";
-      sha256 = "0inx5dcbsgxfys2hw5m2y6js4zcdsi5kw4s45a1l8vjhqqgqy30r";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.0.0/file/esbenp.prettier-vscode-9.0.0.vsix";
+      sha256 = "0hyhy8qb4b8m8v8x37grxj0mhdz575y28n4ljpzypmn8zssd3s9d";
     };
     homepage = "https://github.com/prettier/prettier-vscode";
     license = "mit";
@@ -1412,10 +1424,10 @@
   };
   vscode-extensions-tailwindcss = {
     pname = "vscode-extensions-tailwindcss";
-    version = "0.6.14";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.6.14/file/bradlc.vscode-tailwindcss-0.6.14.vsix";
-      sha256 = "06xgnvv0g7z3afm6ywds0xh1kvmxwcprlwrp4cihsfjky8sjakhf";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.1/file/bradlc.vscode-tailwindcss-0.7.1.vsix";
+      sha256 = "0y5jxl1k8j13j58nc7skplx3qcjbxm8kxzqxgs9mf3ai9ryzn5ms";
     };
     homepage = "https://github.com/tailwindlabs/tailwindcss-intellisense";
     license = "mit";
