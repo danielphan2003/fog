@@ -100,6 +100,10 @@ src.git = "https://github.com/elkowar/eww"
 fetch.github = "elkowar/eww"
 cargo_lock = "Cargo.lock"
 
+[fake-background-webcam]
+src.git = "https://github.com/fangfufu/Linux-Fake-Background-Webcam"
+fetch.github = "fangfufu/Linux-Fake-Background-Webcam"
+
 [flameshot]
 src.git = "https://github.com/flameshot-org/flameshot"
 fetch.github = "flameshot-org/flameshot"
