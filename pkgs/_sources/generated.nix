@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b382161fe59fc60b8360bad320f2bb3e0b4fff7d";
+    version = "9c3ae750da26b079fdcfa9d13605bb4461973723";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "b382161fe59fc60b8360bad320f2bb3e0b4fff7d";
+      rev = "9c3ae750da26b079fdcfa9d13605bb4461973723";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1mzfwzslzjjydb6cqx1lmg1a11a6i7zxma211c2kp7kasxxp4bag";
+      sha256 = "0qiinasv4fmpxypm10ycrclhpyy71845qx4mjnxqib9cw1bppq83";
     };
   };
   teams = {
