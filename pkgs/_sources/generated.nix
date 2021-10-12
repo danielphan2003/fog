@@ -271,14 +271,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "0e43d4b36f2b9d2df5731ebc0a3e1a97f8020563";
+    version = "dabc596566c60378f313d26f2fe143d2a37ede5b";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "0e43d4b36f2b9d2df5731ebc0a3e1a97f8020563";
+      rev = "dabc596566c60378f313d26f2fe143d2a37ede5b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0d66vb5qzghg7hf13fg8dg5lz7332ykkin7wscwgyrvb8iw71xdg";
+      sha256 = "1k40118v6bgvg8559j0570hlzc3pzwk6m3q8qnsjkdiyqa7lhqwg";
     };
   };
   flyingfox = {
@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "325";
+    version = "326";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/325/downloads/paper-1.17.1-325.jar";
-      sha256 = "1jfzvn8mlyk452zdk5lvdrjflfrf5v0dqjp2i37izwwq2a078bvd";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/326/downloads/paper-1.17.1-326.jar";
+      sha256 = "0k0gqq9031bdmz469066zvr32v0iwj4l8nmq1z9swhzkz7623q3f";
     };
   };
   picom = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "1b20d1ce549e065399359ec4bf743b80281b37ee";
+    version = "4528f448d61d7d6cd162e8ecfa452aaf79e50a7a";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "1b20d1ce549e065399359ec4bf743b80281b37ee";
+      rev = "4528f448d61d7d6cd162e8ecfa452aaf79e50a7a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0rl18bk01h8ic6qjypj5cnnzy45155mbkn0z1vxklpi0qnddyks7";
+      sha256 = "1sm3ph2c4bwyaq84j7207rmydri15djx4170k24dvrkakf75sz6m";
     };
   };
   teams = {
@@ -1145,10 +1145,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.62.1";
+    version = "0.63.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.62.1/file/dendron.dendron-0.62.1.vsix";
-      sha256 = "1ziv75n2ppyx7vq66fq97hfkzn65kyqkzvl3sm6q3x4nsbglpar0";
+      url = "https://open-vsx.org/api/dendron/dendron/0.63.0/file/dendron.dendron-0.63.0.vsix";
+      sha256 = "16dmgc7pkmcv5l1i6jkmd3g8c70abpq6chg0k210d0d73vxxbf4p";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
