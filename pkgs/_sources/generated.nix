@@ -687,6 +687,14 @@
       sha256 = "0k5lj7silwz965k29z1iz84hk8s1vli7nvl6x4k6ip1n7galv4gs";
     };
   };
+  pythonPackages-cmapy = {
+    pname = "pythonPackages-cmapy";
+    version = "0.6.6";
+    src = fetchurl {
+      url = "https://pypi.io/packages/source/c/cmapy/cmapy-0.6.6.tar.gz";
+      sha256 = "0majh37aldmnk0ddxrkazqfxddrg5wqbhr09zd3a2jbw0nrsclnb";
+    };
+  };
   pythonPackages-pySmartDL = {
     pname = "pythonPackages-pySmartDL";
     version = "b93df794e1e60017c42d9520ac097b6fd38c2e8b";
