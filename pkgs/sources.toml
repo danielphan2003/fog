@@ -442,8 +442,8 @@ src.pypi = "cmapy"
 fetch.pypi = "cmapy"
 
 [pythonPackages-mediapipe]
-src.pypi = "mediapipe"
-fetch.pypi = "mediapipe"
+src.github = "google/mediapipe"
+fetch.github = "google/mediapipe"
 
 [pythonPackages-pySmartDL]
 src.git = "https://github.com/iTaybb/pySmartDL"
