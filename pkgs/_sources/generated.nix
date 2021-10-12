@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.107.0-b.12";
+    version = "0.107.0-b.13";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_darwin_amd64.zip";
-      sha256 = "0l2r4c7z2yiib9g20s0hp2i9pxjhxmhap52cda2yxnvj325sadpn";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.13/AdGuardHome_darwin_amd64.zip";
+      sha256 = "04cld1pdirprw2v994sh7ydwwwb5sp7291r7kpbfg37a3s814q22";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.107.0-b.12";
+    version = "0.107.0-b.13";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_linux_386.tar.gz";
-      sha256 = "13jqmwl5cgpp4an264ps2i8451j69qbqr79df5xnayrrdyin5mnj";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.13/AdGuardHome_linux_386.tar.gz";
+      sha256 = "0sj86lf1iqs8sqf0sbahy3bryzzgmfjzki3h8fgz354la1zq861d";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.107.0-b.12";
+    version = "0.107.0-b.13";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "19ndm0233hrwl9a22dsbxisdq028lf4hb9i214skyklaliiakv22";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.13/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "1ysjbpni3bys08kksnsnqqcqfd64b2sclw6w7ymifphjkbhr328s";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.107.0-b.12";
+    version = "0.107.0-b.13";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.12/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "1c1nh8vvh7ihb2b229jllvyanam1qxgxdzhaw6k1yy4rdk7b3x0c";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.13/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "1vihill2c4gqnl4789ic2vhi4391wbhp8xbmpqxvbqbz95j6nzcp";
     };
   };
   adl = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "cbcd3eacc5b3745749675a1c42548f388f5d2f25";
+    version = "e932b39df8ff7b31cbaf401b1433554a58921277";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "cbcd3eacc5b3745749675a1c42548f388f5d2f25";
+      rev = "e932b39df8ff7b31cbaf401b1433554a58921277";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1h6pdajw2cdpimzvk0949pmk83nhb4iipgw4csm3lvr0ysbmbrja";
+      sha256 = "047xvjdvw7yw4gmggqdl2smijm84g3n4kf7z7ymxh1yvcmgnl8y5";
     };
   };
   droidcam = {
@@ -757,14 +757,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "849ed7fc3dd3aea053123fd79d7a344cf22836cd";
+    version = "ac1a2806659953d828016cda18c4a291c44c9368";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "849ed7fc3dd3aea053123fd79d7a344cf22836cd";
+      rev = "ac1a2806659953d828016cda18c4a291c44c9368";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0aznx0blmwa2rjd3a84dgy6p5bzl2d07pzxqkwy6d4ldvnvbac6d";
+      sha256 = "0jyvv9wqirnvmf7g5g654yc0wmrz0jcd6hawyi149rdd6i94mfxw";
     };
   };
   rofi-wayland = {
@@ -853,14 +853,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "f7fa73b5268eaf84c648a82d1a3a37679571852b";
+    version = "1d3f47f4c2f8993b1e4d0f6f199960dae011e5fe";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "f7fa73b5268eaf84c648a82d1a3a37679571852b";
+      rev = "1d3f47f4c2f8993b1e4d0f6f199960dae011e5fe";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0fl06rwskav451b9kz2wfkfasc5v4kalc0mp2lvh81cfr3r3v047";
+      sha256 = "1j8jq840fb5fydpx405i1h2wcgxf1cy75g704a6kjpfpc3fazgim";
     };
   };
   spicetify-themes = {
