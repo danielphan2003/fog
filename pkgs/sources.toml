@@ -442,8 +442,8 @@ src.pypi = "cmapy"
 fetch.pypi = "cmapy"
 
 [pythonPackages-mediapipe]
-src.github = "google/mediapipe"
-fetch.github = "google/mediapipe"
+src.manual = "0.8.8"
+fetch.url = "https://files.pythonhosted.org/packages/ed/5f/188b509ab93e740f3fd8d9179de0ef9340852b48f1f5d671cd090a54996f/mediapipe-$ver-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl"
 
 [pythonPackages-pySmartDL]
 src.git = "https://github.com/iTaybb/pySmartDL"
