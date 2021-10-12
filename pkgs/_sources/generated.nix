@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "05180f8132422bb0a1fd2ac095070ba7281c3e5f";
+    version = "cbcd3eacc5b3745749675a1c42548f388f5d2f25";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "05180f8132422bb0a1fd2ac095070ba7281c3e5f";
+      rev = "cbcd3eacc5b3745749675a1c42548f388f5d2f25";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1vq883qfg6x198dnxza5w91g8dh6v09hrdig43lrx620qd08gpgg";
+      sha256 = "1h6pdajw2cdpimzvk0949pmk83nhb4iipgw4csm3lvr0ysbmbrja";
     };
   };
   droidcam = {
@@ -1367,10 +1367,10 @@
   };
   vscode-extensions-python = {
     pname = "vscode-extensions-python";
-    version = "2021.9.1246542782";
+    version = "2021.10.1317843341";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2021.9.1246542782/file/ms-python.python-2021.9.1246542782.vsix";
-      sha256 = "105vj20749bck6ijdlf7hsg5nb82bi5pklf80l1s7fn4ajr2yk02";
+      url = "https://open-vsx.org/api/ms-python/python/2021.10.1317843341/file/ms-python.python-2021.10.1317843341.vsix";
+      sha256 = "1plw4b02imps2b1x0gda82p3xqmavahjpnw3ra838vzfi3ni00b3";
     };
     homepage = "https://github.com/Microsoft/vscode-python";
     license = "mit";
