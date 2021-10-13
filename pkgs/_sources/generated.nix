@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6b51c08b330f17102e5986b691a1475ea6b2deef";
+    version = "8a3b24883cfa1b4e616235835d25c74516a81eac";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "6b51c08b330f17102e5986b691a1475ea6b2deef";
+      rev = "8a3b24883cfa1b4e616235835d25c74516a81eac";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1hxfa6y40i4b95in32gs4mvxq7d69fzy2k9cv2czjpjligqq229p";
+      sha256 = "1h99hnhygffj2pcy2nivy33h73jmr9ix5j71ksh54adbfdn4flm7";
     };
   };
   caddy = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "d00d92aa66f85336f4ef453f615dc02203d8d176";
+    version = "4816bbb0b023fafaa55fa888b73f61b69b12501c";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "d00d92aa66f85336f4ef453f615dc02203d8d176";
+      rev = "4816bbb0b023fafaa55fa888b73f61b69b12501c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0jnlxdvp3rl4vi84q4cjx2q82zibc1863g2nwifjv2p5a6qwz95n";
+      sha256 = "06ilziw0ibmiham5d4d9rnbzrnpnzrqhnh76nf1bm33jbvwhnnbj";
     };
   };
   droidcam = {
@@ -757,14 +757,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "aa6d3542d2ef93cdc4c1e127e77967ce1553993c";
+    version = "a79bd56018e1e3cb6e42429f8f396643b243397c";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "aa6d3542d2ef93cdc4c1e127e77967ce1553993c";
+      rev = "a79bd56018e1e3cb6e42429f8f396643b243397c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11z8w1g276jpnyashl1qqw86gfxf06sb0597cp4vpwaqxlvxasgv";
+      sha256 = "04hcv3fc2ksffka16liwa9cvqim9x9w5iyq3xjrhz0z37k06l6ad";
     };
   };
   rofi-wayland = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f01ff18b6f817204ffb884b920d19344422f1686";
+    version = "2c403cbb313c89741068c7d9d700169c1bbf3ad5";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "f01ff18b6f817204ffb884b920d19344422f1686";
+      rev = "2c403cbb313c89741068c7d9d700169c1bbf3ad5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1jyvnha6iyd3vgzaqf1k4pjcf3r2nv1850k5jmjpw7k1kdi2zwvv";
+      sha256 = "06msynbbkw9cbfx1iki4bz019sk7zcxp7kj3f6mf5n8rdcvk9lha";
     };
   };
   teams = {
