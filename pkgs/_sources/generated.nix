@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8a3b24883cfa1b4e616235835d25c74516a81eac";
+    version = "304e637d4dcdb22680fcd813102e5267ba2af46b";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "8a3b24883cfa1b4e616235835d25c74516a81eac";
+      rev = "304e637d4dcdb22680fcd813102e5267ba2af46b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1h99hnhygffj2pcy2nivy33h73jmr9ix5j71ksh54adbfdn4flm7";
+      sha256 = "0dbzvf9vifypn6acm6fy9hs8jwm960ab3ab9226izy7cniwlmamr";
     };
   };
   caddy = {
@@ -757,14 +757,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c098a321b41eab95d2ed78c5fb9029ee2e96b29e";
+    version = "7f2cc93cf520031180b08470eba5161dc45972f8";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "c098a321b41eab95d2ed78c5fb9029ee2e96b29e";
+      rev = "7f2cc93cf520031180b08470eba5161dc45972f8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0pfgnbs1kig99bwxbh53d0bkag3i76b19m27r6ivv2jysmgqi3l9";
+      sha256 = "02gacpg97hkfc3868cmriwqv2rnvd4jbh03kvdzwa8hlz0wqhrms";
     };
   };
   rofi-wayland = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "061dab5d61983c96830c575ace22973560be6367";
+    version = "45d4adcb63edbbd177b80122c299682e766f9b94";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "061dab5d61983c96830c575ace22973560be6367";
+      rev = "45d4adcb63edbbd177b80122c299682e766f9b94";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1y4dmcayl9kmkf90xd3mid1bbf38myi7r0cj35h0wqgxd86214wz";
+      sha256 = "0kivg80ysy09ldlas6bxcdbghlycm9ccvb410w79h3z2gfghxajm";
     };
   };
   teams = {
@@ -1277,10 +1277,10 @@
   };
   vscode-extensions-ms-vscode-cpptools = {
     pname = "vscode-extensions-ms-vscode-cpptools";
-    version = "1.6.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.6.0/cpptools-linux.vsix";
-      sha256 = "0mcgfys4qx7ggp26kyzrbyiq4qjf33vms4izm90jvcj6zfy9jln2";
+      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.7.0/cpptools-linux.vsix";
+      sha256 = "0vpizfsbhyji198l2zz8dgmy6ialcgvvilhn295l7rxqpjvl3ai7";
     };
   };
   vscode-extensions-nix-env-selector = {
