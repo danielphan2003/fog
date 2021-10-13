@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "76245544314f951ed9f08ed871cc5a035ee0bd2f";
+    version = "b2264a33245a24352afbd9a5b1fb2d427af844f5";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "76245544314f951ed9f08ed871cc5a035ee0bd2f";
+      rev = "b2264a33245a24352afbd9a5b1fb2d427af844f5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0vkpsrcx82x76dbijx4icqbd48z7z7slimgx04qsb4n9cwgs80d9";
+      sha256 = "1z9xc0gbqm2b092zlbdiqwnl9rkbrnb2iw599jalki9jnzfywwzr";
     };
   };
   droidcam = {
@@ -1542,6 +1542,14 @@
       deepClone = false;
       leaveDotGit = false;
       sha256 = "1wz09qiia98lz9mln7ky45ivgab7i2bik2krjfapr5mv9z7qb8m1";
+    };
+  };
+  zoom-us = {
+    pname = "zoom-us";
+    version = "5.8.0.16";
+    src = fetchurl {
+      url = "https://cdn.zoom.us/prod/5.8.0.16/zoom_x86_64.pkg.tar.xz";
+      sha256 = "1axnh81bf3ab5gzxxqm172wpqlpfbj9a2h3cry3kyxzmrihzbwdm";
     };
   };
 }
