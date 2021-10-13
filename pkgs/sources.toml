@@ -368,6 +368,13 @@ fetch.git = "git://anongit.freedesktop.org/xorg/xserver"
 src.git = "https://github.com/ReimuNotMoe/ydotool"
 fetch.github = "ReimuNotMoe/ydotool"
 
+[zoom-us]
+src.webpage = "https://zoom.us/download?os=linux"
+src.regex = "Version (.*)<.*"
+src.from_pattern = "(.*) \\((.*)\\)"
+src.to_pattern = "\\1.\\2"
+fetch.url = "https://cdn.zoom.us/prod/$ver/zoom_x86_64.pkg.tar.xz"
+
 ### Minecraft mods
 
 [papermc]
