@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "326";
+    version = "327";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/326/downloads/paper-1.17.1-326.jar";
-      sha256 = "0k0gqq9031bdmz469066zvr32v0iwj4l8nmq1z9swhzkz7623q3f";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/327/downloads/paper-1.17.1-327.jar";
+      sha256 = "182yqz58yq493asizbwvf4j4ka6k0950j5hvrn07z15cfgfj6rhn";
     };
   };
   picom = {
@@ -769,14 +769,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "2025b73ec238011a036fa769e4f05c5755ee568a";
+    version = "97953eddd42eb137174f75dcde88da6d8c7481ea";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "2025b73ec238011a036fa769e4f05c5755ee568a";
+      rev = "97953eddd42eb137174f75dcde88da6d8c7481ea";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0g6cwsnshz0gs4bbw0nxfkfygpdhkyff8cgq09zv7y234gbxlcmy";
+      sha256 = "038qapb8lygs3hd6n49zdk1sbh9wczfviwg20wjwzya5cj6z8sa3";
     };
   };
   sddm = {
