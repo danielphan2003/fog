@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "304e637d4dcdb22680fcd813102e5267ba2af46b";
+    version = "1df6588bf510b6a066978838d55a3e62b16be8ba";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "304e637d4dcdb22680fcd813102e5267ba2af46b";
+      rev = "1df6588bf510b6a066978838d55a3e62b16be8ba";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0dbzvf9vifypn6acm6fy9hs8jwm960ab3ab9226izy7cniwlmamr";
+      sha256 = "1pbxaxf1zqmskr376w1fp8m2184zavb53lc4fizwbrykbimwyrab";
     };
   };
   caddy = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a6c3de72d6928d2a4e4ebded0ead474f0d1b457c";
+    version = "676fb458c3042f41d0449f9cb474f5587f5c6874";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "a6c3de72d6928d2a4e4ebded0ead474f0d1b457c";
+      rev = "676fb458c3042f41d0449f9cb474f5587f5c6874";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1y3ih664khb0mpdbvzlwm98baqsr8ar5bsdzl8nsndx7q8dy73qh";
+      sha256 = "0d6mph9kmdhm49fy6az48d4v0dm3y7234ak5309gi0a8cd67dxdj";
     };
   };
   teams = {
