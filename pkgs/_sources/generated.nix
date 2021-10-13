@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "b2264a33245a24352afbd9a5b1fb2d427af844f5";
+    version = "4b0d35db34d81ad63faae8c1180093589a69ed4b";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "b2264a33245a24352afbd9a5b1fb2d427af844f5";
+      rev = "4b0d35db34d81ad63faae8c1180093589a69ed4b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1z9xc0gbqm2b092zlbdiqwnl9rkbrnb2iw599jalki9jnzfywwzr";
+      sha256 = "0973v4vfk5gqxyd7cqz305rkjx7y3a8iaygbz71mfp1bl1dvqwws";
     };
   };
   droidcam = {
@@ -243,17 +243,17 @@
   };
   eww = {
     pname = "eww";
-    version = "9c15e4c8879d1ea9e5155dd271b6a5a457f33d6b";
+    version = "00bb0b4b0b353dcb469c589db4afbb2eac7f8f5a";
     src = fetchgit {
       url = "https://github.com/elkowar/eww";
-      rev = "9c15e4c8879d1ea9e5155dd271b6a5a457f33d6b";
+      rev = "00bb0b4b0b353dcb469c589db4afbb2eac7f8f5a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "154hh4p497r52smyhn0gl4pdgjafj75hznhs1ga2skngxhqijhny";
+      sha256 = "1n7hfkbpb6pzzzgav8ssvbhz1kzw8yfkj85marw3wq4xpa4bx1m0";
     };
     cargoLock = {
-      lockFile = ./eww-9c15e4c8879d1ea9e5155dd271b6a5a457f33d6b/Cargo.lock;
+      lockFile = ./eww-00bb0b4b0b353dcb469c589db4afbb2eac7f8f5a/Cargo.lock;
       outputHashes = { };
     };
   };
