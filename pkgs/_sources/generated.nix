@@ -107,14 +107,14 @@
   };
   awesome = {
     pname = "awesome";
-    version = "aedcd0c05ce04d25a91889caa17953b82b0acfb5";
+    version = "5a27eaa9733d3a3fe9ffdc69a435fea542b8abef";
     src = fetchgit {
       url = "https://github.com/awesomeWM/awesome";
-      rev = "aedcd0c05ce04d25a91889caa17953b82b0acfb5";
+      rev = "5a27eaa9733d3a3fe9ffdc69a435fea542b8abef";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0sxmyxwm41zigwnay644x7kisjgyy91i71zwzg5xss5wqgl0isn8";
+      sha256 = "0azfwbj6yh6jn7vhwr97i8jkl1hxf6jsvilwypxqsjcr7wix18wz";
     };
   };
   awestore = {
@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4828c89a0ca6ed8c82e94d0ed21a05bc12f97944";
+    version = "1433a08bdeb19f9316100305aaad976ff98010ae";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "4828c89a0ca6ed8c82e94d0ed21a05bc12f97944";
+      rev = "1433a08bdeb19f9316100305aaad976ff98010ae";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1bb1gxb7ylnc2f1sic553w9rf229f6d8jddg64fbpgqk6ibcy02b";
+      sha256 = "1c758wxz1qj315rlyd1l4ixq27h7jr355z26mmfibsl6pjcj0d38";
     };
   };
   caddy = {
