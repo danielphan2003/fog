@@ -757,14 +757,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c19b04e21ea4c346b4c5559bcbabb3ea28919012";
+    version = "a476910ca6bf157ef58e76d86cb63630ef03eb58";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "c19b04e21ea4c346b4c5559bcbabb3ea28919012";
+      rev = "a476910ca6bf157ef58e76d86cb63630ef03eb58";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "06ac80psb28n6hsxs3k1ph8yknb5d28if63h3w1nvs3rx41kpnaz";
+      sha256 = "0s82zy3n0jk6mg0yfm9fz34lpkv5l3r87d9kfz8q2fwqs859jmn4";
     };
   };
   rofi-wayland = {
@@ -1378,10 +1378,10 @@
   };
   vscode-extensions-react-native = {
     pname = "vscode-extensions-react-native";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.7.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "120ic9aw0p2j51xillq4bb3nwp8b14sd7vnp9av11w52q2kacy0j";
+      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.7.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "19dqydx08c5bi3sh7ssa0n6rj0f87mp6l7kjsklvrjs01v656w32";
     };
     license = "mit";
   };
