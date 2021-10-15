@@ -1442,14 +1442,14 @@
   };
   wgcf = {
     pname = "wgcf";
-    version = "e7aa8a850c31dc93ed7bb2e4a65eca2dfa30c387";
+    version = "64cf7a5c1b1e39b3180471b74434a81874addf91";
     src = fetchgit {
       url = "https://github.com/ViRb3/wgcf";
-      rev = "e7aa8a850c31dc93ed7bb2e4a65eca2dfa30c387";
+      rev = "64cf7a5c1b1e39b3180471b74434a81874addf91";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0fhvdk43vyn1nj5sr96hi5l468qi9dilq1kp01lhzhf4dvyzhx2n";
+      sha256 = "0982lj174q5y6h8k3dj939ki79r6ym34rma0f4sihqjgl3pwlqjj";
     };
   };
   whitesur-gtk-theme = {
