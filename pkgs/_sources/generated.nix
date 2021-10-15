@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "327";
+    version = "328";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/327/downloads/paper-1.17.1-327.jar";
-      sha256 = "182yqz58yq493asizbwvf4j4ka6k0950j5hvrn07z15cfgfj6rhn";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/328/downloads/paper-1.17.1-328.jar";
+      sha256 = "01r24xslm638bl3spaww8qyik62jq968zmv7kaz3rpp2w6zvh79j";
     };
   };
   picom = {
@@ -757,26 +757,26 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6ccac53d89e29e5efee7be5707b9f90a19c89ddf";
+    version = "9b4636ff623e3af161262e833c6c281855273ac5";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "6ccac53d89e29e5efee7be5707b9f90a19c89ddf";
+      rev = "9b4636ff623e3af161262e833c6c281855273ac5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0z2z72z104gjrrylr6xzsz3xf2yp0m3g12k8819w7f26qgqhnlfb";
+      sha256 = "0lwfn37ghqwv1slhfikacwxjxgbda07xa5xqrdv69hn5rh4nwvmg";
     };
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "97953eddd42eb137174f75dcde88da6d8c7481ea";
+    version = "083a88fa39106183f8eb3be301087279278c9561";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "97953eddd42eb137174f75dcde88da6d8c7481ea";
+      rev = "083a88fa39106183f8eb3be301087279278c9561";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "038qapb8lygs3hd6n49zdk1sbh9wczfviwg20wjwzya5cj6z8sa3";
+      sha256 = "13d51nhgjizsg8x142b83sj4xqsz12jsds905svyajgi93fb7wm0";
     };
   };
   sddm = {
@@ -853,14 +853,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "c9e7fef50fe2361fc43728a48e593e8fa1e79d5f";
+    version = "e238dcc628cd50653e7786ea24aed2e2daba1ed4";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "c9e7fef50fe2361fc43728a48e593e8fa1e79d5f";
+      rev = "e238dcc628cd50653e7786ea24aed2e2daba1ed4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0flsyhsbm33i503230mwrja8w60hf9b8khval1p3yz3njbipfs3x";
+      sha256 = "096ssibbkfpy50aqy2bxf9xar7y81w8x2ar8l59hapwjbw8vbx2m";
     };
   };
   spicetify-themes = {
