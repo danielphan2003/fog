@@ -107,14 +107,14 @@
   };
   awesome = {
     pname = "awesome";
-    version = "5a27eaa9733d3a3fe9ffdc69a435fea542b8abef";
+    version = "1d55ae09aa487a82f2808e82a8884123e2400722";
     src = fetchgit {
       url = "https://github.com/awesomeWM/awesome";
-      rev = "5a27eaa9733d3a3fe9ffdc69a435fea542b8abef";
+      rev = "1d55ae09aa487a82f2808e82a8884123e2400722";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0azfwbj6yh6jn7vhwr97i8jkl1hxf6jsvilwypxqsjcr7wix18wz";
+      sha256 = "0h17j6lnnasz9ysvhzr0q4y6jh7hansb6hykp5fl8gnc2q2bxwmj";
     };
   };
   awestore = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2662a1c98c1c4c67d9abeb0baddc352d74cd33ef";
+    version = "7817ab6b209d28817addeeb051cce7ac861f6275";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "2662a1c98c1c4c67d9abeb0baddc352d74cd33ef";
+      rev = "7817ab6b209d28817addeeb051cce7ac861f6275";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0r4s9rnp432pv49ncbk3cg4hnvhns44i93v4rl24fyrrnr5hm7rw";
+      sha256 = "08czgqr09hjwdhd9zbl0l0fjkfg996ds2kx4qnyxw6hggwzk52gp";
     };
   };
   teams = {
