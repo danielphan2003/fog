@@ -59,14 +59,14 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "41d91619768b93c715b84f317e6467ea0dd36f4a";
+    version = "0a6fa8dfe9252993b976806e2e857f6246760967";
     src = fetchgit {
       url = "https://github.com/anime-dl/anime-downloader";
-      rev = "41d91619768b93c715b84f317e6467ea0dd36f4a";
+      rev = "0a6fa8dfe9252993b976806e2e857f6246760967";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0037qzav5pcvwzv47pv6j9abbcyrnh4cn2sjnq05g1ym1j5vf3cl";
+      sha256 = "16pknqd9djc4kaj1dbcic0zr0wqp1v4aqh5nhsc4w2bm2n3q89kb";
     };
   };
   any-nix-shell = {
@@ -243,17 +243,17 @@
   };
   eww = {
     pname = "eww";
-    version = "00bb0b4b0b353dcb469c589db4afbb2eac7f8f5a";
+    version = "c50bfb718450e724fa2352ba91107e2f41985d95";
     src = fetchgit {
       url = "https://github.com/elkowar/eww";
-      rev = "00bb0b4b0b353dcb469c589db4afbb2eac7f8f5a";
+      rev = "c50bfb718450e724fa2352ba91107e2f41985d95";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1n7hfkbpb6pzzzgav8ssvbhz1kzw8yfkj85marw3wq4xpa4bx1m0";
+      sha256 = "05z7fjgfwb3wb4akd94gpyh064j75g7ni7m8h59rcqsnr2aj50ib";
     };
     cargoLock = {
-      lockFile = ./eww-00bb0b4b0b353dcb469c589db4afbb2eac7f8f5a/Cargo.lock;
+      lockFile = ./eww-c50bfb718450e724fa2352ba91107e2f41985d95/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -271,14 +271,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d446f13cc8110da2540e377c7acc11e12e92ad43";
+    version = "7977cbb52c2d785abd0d85d9df5991e8f7cae441";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "d446f13cc8110da2540e377c7acc11e12e92ad43";
+      rev = "7977cbb52c2d785abd0d85d9df5991e8f7cae441";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0r76dig3xkbqcgsa1bn5zl8jbpr08zlfssigm20li5irvkllppkl";
+      sha256 = "1dljxin5zvlzwzdvggn6kf9q08wawlqcfk29kxwcjflx3279fnmr";
     };
   };
   flyingfox = {
