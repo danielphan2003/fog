@@ -59,14 +59,14 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "d16aebd16e17938ba1f298a29c985f5e4e40dd4f";
+    version = "41d91619768b93c715b84f317e6467ea0dd36f4a";
     src = fetchgit {
       url = "https://github.com/anime-dl/anime-downloader";
-      rev = "d16aebd16e17938ba1f298a29c985f5e4e40dd4f";
+      rev = "41d91619768b93c715b84f317e6467ea0dd36f4a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "17b0wpr9vw04xdzk1kjlygyv24q0bgjr3g69x34c1z5ydskhbzly";
+      sha256 = "0037qzav5pcvwzv47pv6j9abbcyrnh4cn2sjnq05g1ym1j5vf3cl";
     };
   };
   any-nix-shell = {
@@ -769,14 +769,14 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "083a88fa39106183f8eb3be301087279278c9561";
+    version = "9f0f97a8d92d647aec97750d9f866dee0e71246e";
     src = fetchgit {
       url = "https://github.com/lbonn/rofi";
-      rev = "083a88fa39106183f8eb3be301087279278c9561";
+      rev = "9f0f97a8d92d647aec97750d9f866dee0e71246e";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "13d51nhgjizsg8x142b83sj4xqsz12jsds905svyajgi93fb7wm0";
+      sha256 = "1fi5i1bkxm96j0caq97m7p31mnzim261r7d4pln231c1f5cwhawy";
     };
   };
   sddm = {
