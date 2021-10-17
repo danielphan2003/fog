@@ -271,26 +271,26 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "7977cbb52c2d785abd0d85d9df5991e8f7cae441";
+    version = "62a21cbbb20644f66c55515611fd27c7b634814d";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "7977cbb52c2d785abd0d85d9df5991e8f7cae441";
+      rev = "62a21cbbb20644f66c55515611fd27c7b634814d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1dljxin5zvlzwzdvggn6kf9q08wawlqcfk29kxwcjflx3279fnmr";
+      sha256 = "057rnyzidy6b0y04a21gb0xv3jj6jd7jgljsi92m5kkywbsg0hwi";
     };
   };
   flyingfox = {
     pname = "flyingfox";
-    version = "8fc00aa654c10260deac2cbbc5bf062b7dcce811";
+    version = "4a6ba46cafc189ad628ee13bb8d3eef3e69fbced";
     src = fetchgit {
       url = "https://github.com/akshat46/FlyingFox";
-      rev = "8fc00aa654c10260deac2cbbc5bf062b7dcce811";
+      rev = "4a6ba46cafc189ad628ee13bb8d3eef3e69fbced";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0z6q2953cbxngnzbpd0map2r89dywg3xjagav1qzzbpkyqck32w9";
+      sha256 = "0vd8gh3xpcv0p3abp9sng0rr60bh283dh5vi5vdl6068bgcx0i35";
     };
   };
   frece = {
@@ -921,14 +921,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f55c2bccf502e0987ff89b0fb9101f3c26f90b32";
+    version = "9af27ba8295e91262fea12dd39c90d077c0a741c";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "f55c2bccf502e0987ff89b0fb9101f3c26f90b32";
+      rev = "9af27ba8295e91262fea12dd39c90d077c0a741c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11hk888ha4bja013x4wg7a69p3hpj5v39ag7x3vlkkw0zhi23z1m";
+      sha256 = "0qvnm0n31hsm6mck1ml4wl9gya6slsqq6pkbq22az9623pvd4i0b";
     };
   };
   teams = {
