@@ -59,14 +59,14 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "0a6fa8dfe9252993b976806e2e857f6246760967";
+    version = "669f32d41589a234e2e870d6ce505b004a40fedb";
     src = fetchgit {
       url = "https://github.com/anime-dl/anime-downloader";
-      rev = "0a6fa8dfe9252993b976806e2e857f6246760967";
+      rev = "669f32d41589a234e2e870d6ce505b004a40fedb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "16pknqd9djc4kaj1dbcic0zr0wqp1v4aqh5nhsc4w2bm2n3q89kb";
+      sha256 = "1ld0zs0n7a6lqdsv1q68dkwiw1dhqjj7wsh9464qixs3f13dlnxv";
     };
   };
   any-nix-shell = {
@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "17a8441c124947fe9f62f11b0bf457378a277bdd";
+    version = "f04726838d44a7bf7627c889d3adfd53a3438c0b";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "17a8441c124947fe9f62f11b0bf457378a277bdd";
+      rev = "f04726838d44a7bf7627c889d3adfd53a3438c0b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1pli3bqrqj1rl1hzpamrfy44ylgaf9vcjarnldl2jm6zjlwxg5xm";
+      sha256 = "14pkvn8rbx6kk2fzclm2h90wgaxp8vv25jicfg0k1gfh0ri0z7a0";
     };
   };
   caddy = {
