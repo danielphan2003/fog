@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "334";
+    version = "335";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/334/downloads/paper-1.17.1-334.jar";
-      sha256 = "164n2nyxs18fw3682q79zx54c1h631h28lmz7z53r1hj4n2nsw1v";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/335/downloads/paper-1.17.1-335.jar";
+      sha256 = "1b7v4i2wb8l8396s7f2sly1wfr50yp1hiskiq0jgl2cay924503d";
     };
   };
   picom = {
@@ -881,6 +881,22 @@
     src = fetchurl {
       url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_53.snap";
       sha256 = "1f9rzgqak9fjxpcaqj27j0f91dw8k3y09y76lvw9sp8nksmzn38b";
+    };
+  };
+  spotifyd = {
+    pname = "spotifyd";
+    version = "f4909621da43636185f2d2ffe4392178b8d654b6";
+    src = fetchgit {
+      url = "https://github.com/Spotifyd/spotifyd";
+      rev = "f4909621da43636185f2d2ffe4392178b8d654b6";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "0xz2hlq5cyizvmxmnc4w46q0kbbcx325kw4p338f2nfir2iky9z5";
+    };
+    cargoLock = {
+      lockFile = ./spotifyd-f4909621da43636185f2d2ffe4392178b8d654b6/Cargo.lock;
+      outputHashes = { };
     };
   };
   steamcompmgr = {
