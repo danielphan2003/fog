@@ -131,38 +131,38 @@
   };
   bling = {
     pname = "bling";
-    version = "29d4a87347d343eb8204816643cb63d2f3db1224";
+    version = "2a6afd05942b0192f7e10f0478a9f87183567a2f";
     src = fetchgit {
       url = "https://github.com/BlingCorp/bling";
-      rev = "29d4a87347d343eb8204816643cb63d2f3db1224";
+      rev = "2a6afd05942b0192f7e10f0478a9f87183567a2f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1gl1vypv4ppc49k2b8x6hs86arpa6hmdqsdk1sdph907mbdb2f8j";
+      sha256 = "0zjc9csrc9zv655wbzsarjx829f43l79mx0fvf3i4g4j12arfvqf";
     };
   };
   bottles = {
     pname = "bottles";
-    version = "3504b3b6bba34fa39f17b101c1f071043b195a7f";
+    version = "2107331083035115baa24afe3a3fa2d9b6a8f65d";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "3504b3b6bba34fa39f17b101c1f071043b195a7f";
+      rev = "2107331083035115baa24afe3a3fa2d9b6a8f65d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1p8zn23b4blpvqwcmjw9qdl5kf3d0rmrcs4rkvcrs6s6jm0ld80z";
+      sha256 = "1nn5nbzqv16xrqa7s9fhjyrc2plik4kfd4gpbgh391gaadjckc3y";
     };
   };
   caddy = {
     pname = "caddy";
-    version = "64f8b557b1b1d4ca869ee7e0cba91f09e86883ef";
+    version = "062657d0d80aa1c2e3af51414db634f49c9a03a0";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "64f8b557b1b1d4ca869ee7e0cba91f09e86883ef";
+      rev = "062657d0d80aa1c2e3af51414db634f49c9a03a0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0jz7fp3a75syz7na2p5f752z2na76gpkydi1a45h6pfzl9k6iw5x";
+      sha256 = "0jysbnmf4d3wqfw1l9alfqxff641r8gj62yqh5zzwkgw9nngximh";
     };
   };
   cups-pdf = {
@@ -207,14 +207,14 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "653ed6481484a3337447a630cf4ac458b0fd1dbe";
+    version = "1e42c227d83563611301b3424fc83d6fc878c2c7";
     src = fetchgit {
       url = "https://github.com/JulienMaille/dribbblish-dynamic-theme";
-      rev = "653ed6481484a3337447a630cf4ac458b0fd1dbe";
+      rev = "1e42c227d83563611301b3424fc83d6fc878c2c7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1150llidg43d26l1s5lkr6ii83vwx5fvp8dw8ay2zzd9s97zgmfc";
+      sha256 = "0mzbw105l62dispawz8v69xkxmmfw0r5bq0hqwk4198mlmwfc44w";
     };
   };
   droidcam = {
@@ -259,26 +259,26 @@
   };
   fake-background-webcam = {
     pname = "fake-background-webcam";
-    version = "ec67c26b06142287ed22b495ca5d0fd6b7e9b5c6";
+    version = "80f04cf8762e31fad55a90bc5559c07f6e94c6b2";
     src = fetchgit {
       url = "https://github.com/fangfufu/Linux-Fake-Background-Webcam";
-      rev = "ec67c26b06142287ed22b495ca5d0fd6b7e9b5c6";
+      rev = "80f04cf8762e31fad55a90bc5559c07f6e94c6b2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15zd5wfzgdzm5aylqa6nn4mbak8q3rr58fw95bxav7xf0snklp8b";
+      sha256 = "11a9xwkzgi6x93pzlw13i23qmjh62fm075m49xczvc348adns2sk";
     };
   };
   flameshot = {
     pname = "flameshot";
-    version = "b05b02886168ccf5dd2b4353a64e05c9e0268b92";
+    version = "1b40e62b5b878f8e54d07bc934c9feb76253cb0c";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "b05b02886168ccf5dd2b4353a64e05c9e0268b92";
+      rev = "1b40e62b5b878f8e54d07bc934c9feb76253cb0c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1qw1p62kdj4780ci5hnc3b91ivdcx98qfhq12spvjfwcdqi99kkf";
+      sha256 = "1fchwwdqfy2l94fwv0ss7yx9njbh636sixc1ghd6lals841pxr5k";
     };
   };
   flyingfox = {
@@ -447,10 +447,10 @@
   };
   minecraft-fabric-api = {
     pname = "minecraft-fabric-api";
-    version = "0.40.8+1.17";
+    version = "0.41.0+1.17";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.40.8+1.17/fabric-api-0.40.8+1.17.jar";
-      sha256 = "0c6zxi5p6k4shwn0ly87rhsz9vsm98c5g7pg31rc04vfwyvispj0";
+      url = "https://github.com/FabricMC/fabric/releases/download/0.41.0+1.17/fabric-api-0.41.0+1.17.jar";
+      sha256 = "1jyqlm3m3qglciahnpm2wfrdq7xc3sgbf067jncbrzqijfgr5jwq";
     };
   };
   minecraft-fast-furnace = {
@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "2c5a57c01ce8120ff55a148e0630fb4670bb7c49";
+    version = "9d7c8a9abb9a0698b430e3d8fd00248b4dc595aa";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "2c5a57c01ce8120ff55a148e0630fb4670bb7c49";
+      rev = "9d7c8a9abb9a0698b430e3d8fd00248b4dc595aa";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11v8759hwigqb3im0kkwrifk5fzjgb2kvi6jm0qn3x6sv24bm36k";
+      sha256 = "15k7sbwma9hdl45q0wy5i8ckjz1qhvnpxf907x6xvkzpd81n4mxh";
     };
     cargoLock = {
-      lockFile = ./ouch-2c5a57c01ce8120ff55a148e0630fb4670bb7c49/Cargo.lock;
+      lockFile = ./ouch-9d7c8a9abb9a0698b430e3d8fd00248b4dc595aa/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "334";
+    version = "336";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/334/downloads/paper-1.17.1-334.jar";
-      sha256 = "164n2nyxs18fw3682q79zx54c1h631h28lmz7z53r1hj4n2nsw1v";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/336/downloads/paper-1.17.1-336.jar";
+      sha256 = "1gzmbg1bbg4ypb1zwgj25vqf0rq11ns9bggpbz996fdx4m4i9m95";
     };
   };
   picom = {
@@ -757,14 +757,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "acd1ba04499ecf8b3caa6442f5f5512c11deab93";
+    version = "514534f99b9647a83ee6801bd51ead834a55dac3";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "acd1ba04499ecf8b3caa6442f5f5512c11deab93";
+      rev = "514534f99b9647a83ee6801bd51ead834a55dac3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1yc7p2pkcfq0hkl7yd296np1v6mw0qm2vick2vqi26zd4pq5sq7z";
+      sha256 = "09p9khfabgwjcrs4hif3wwxx84zqh34k3bkkvycqyk3lzzml9f45";
     };
   };
   rofi-wayland = {
@@ -853,14 +853,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "17cc0f9c0ebdbe05b1714e5842e36a07d69bc645";
+    version = "7cf15cbaef25d4adf838a51d19bf9d88805d2d4c";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "17cc0f9c0ebdbe05b1714e5842e36a07d69bc645";
+      rev = "7cf15cbaef25d4adf838a51d19bf9d88805d2d4c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1avc6vxqv2jb6d933h5py746w6skkizal2dwvpnyk1hc7g1gw9jg";
+      sha256 = "1rswjxl3ykza9v9lgcsd5jrszcjfvwzdlrha9vf9km7apqfbj3si";
     };
   };
   spicetify-themes = {
@@ -881,6 +881,22 @@
     src = fetchurl {
       url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_53.snap";
       sha256 = "1f9rzgqak9fjxpcaqj27j0f91dw8k3y09y76lvw9sp8nksmzn38b";
+    };
+  };
+  spotifyd = {
+    pname = "spotifyd";
+    version = "f4909621da43636185f2d2ffe4392178b8d654b6";
+    src = fetchgit {
+      url = "https://github.com/Spotifyd/spotifyd";
+      rev = "f4909621da43636185f2d2ffe4392178b8d654b6";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "0xz2hlq5cyizvmxmnc4w46q0kbbcx325kw4p338f2nfir2iky9z5";
+    };
+    cargoLock = {
+      lockFile = ./spotifyd-f4909621da43636185f2d2ffe4392178b8d654b6/Cargo.lock;
+      outputHashes = { };
     };
   };
   steamcompmgr = {
@@ -921,14 +937,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9af27ba8295e91262fea12dd39c90d077c0a741c";
+    version = "e7eb46bced277c76bfd3c64fe6b724cae0de25b7";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "9af27ba8295e91262fea12dd39c90d077c0a741c";
+      rev = "e7eb46bced277c76bfd3c64fe6b724cae0de25b7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0qvnm0n31hsm6mck1ml4wl9gya6slsqq6pkbq22az9623pvd4i0b";
+      sha256 = "1s84w7ds1ni1pipn70iw0hk8fdxrir1d4pw5pdvyc9bc5dlzhcd6";
     };
   };
   teams = {
