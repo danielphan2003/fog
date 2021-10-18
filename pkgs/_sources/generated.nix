@@ -259,14 +259,14 @@
   };
   fake-background-webcam = {
     pname = "fake-background-webcam";
-    version = "ec67c26b06142287ed22b495ca5d0fd6b7e9b5c6";
+    version = "80f04cf8762e31fad55a90bc5559c07f6e94c6b2";
     src = fetchgit {
       url = "https://github.com/fangfufu/Linux-Fake-Background-Webcam";
-      rev = "ec67c26b06142287ed22b495ca5d0fd6b7e9b5c6";
+      rev = "80f04cf8762e31fad55a90bc5559c07f6e94c6b2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15zd5wfzgdzm5aylqa6nn4mbak8q3rr58fw95bxav7xf0snklp8b";
+      sha256 = "11a9xwkzgi6x93pzlw13i23qmjh62fm075m49xczvc348adns2sk";
     };
   };
   flameshot = {
@@ -937,14 +937,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c759fcc7d3ead9ddd188e980ee3c13e865fcd185";
+    version = "a6d02dc122b635fe008587d1c40100134456f297";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "c759fcc7d3ead9ddd188e980ee3c13e865fcd185";
+      rev = "a6d02dc122b635fe008587d1c40100134456f297";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0c8ijsdvh6q135l3ha21s59xxl3sfm265cbc30pfv2s140zdcmaf";
+      sha256 = "1y6dk6xdh89w9varwp74xyaq60aqsm561xv4q0fndz31ys2bbjlh";
     };
   };
   teams = {
