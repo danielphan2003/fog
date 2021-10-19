@@ -439,10 +439,10 @@
   };
   minecraft-cull-leaves = {
     pname = "minecraft-cull-leaves";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.3.0/cullleaves-2.3.0.jar";
-      sha256 = "10mc1vmi0ayv5qd2wprr2vix3052lsz0wryfy2yfrl7xx2db6j01";
+      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.3.1/cullleaves-2.3.1.jar";
+      sha256 = "01s2f4xvaxnra9l6342g671dm339qy8npp9cavdihmda18pg2xzq";
     };
   };
   minecraft-fabric-api = {
@@ -757,14 +757,14 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1e1919b236ccc17ce2302ed85bada21c040b9223";
+    version = "1dc77507a81eed84493baf60090b08522a1256e3";
     src = fetchgit {
       url = "https://github.com/libretro/retroarch";
-      rev = "1e1919b236ccc17ce2302ed85bada21c040b9223";
+      rev = "1dc77507a81eed84493baf60090b08522a1256e3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0qsk2p94rd4b2hplysa0gzqrqj8i2mcckv8qplx1zidqbwp14d9y";
+      sha256 = "048mxjgddqapgfd99ywhnvn0npb2sdw3ggicrqk2q9gm4k8csk90";
     };
   };
   rofi-wayland = {
@@ -1161,10 +1161,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.63.0";
+    version = "0.64.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.63.0/file/dendron.dendron-0.63.0.vsix";
-      sha256 = "16dmgc7pkmcv5l1i6jkmd3g8c70abpq6chg0k210d0d73vxxbf4p";
+      url = "https://open-vsx.org/api/dendron/dendron/0.64.0/file/dendron.dendron-0.64.0.vsix";
+      sha256 = "0m1is9swxpf282ydrcdws7ml55gcqlknzlg737h1rbhfxwrll31g";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
