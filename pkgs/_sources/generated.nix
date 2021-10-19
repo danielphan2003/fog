@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "9d7c8a9abb9a0698b430e3d8fd00248b4dc595aa";
+    version = "765fb40ec79ca02d786583daefc3def23c6773bd";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "9d7c8a9abb9a0698b430e3d8fd00248b4dc595aa";
+      rev = "765fb40ec79ca02d786583daefc3def23c6773bd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15k7sbwma9hdl45q0wy5i8ckjz1qhvnpxf907x6xvkzpd81n4mxh";
+      sha256 = "0k1r9afp337iq1ilywxqbr49p323qn5pchp0ljn4lmlfb98sar08";
     };
     cargoLock = {
-      lockFile = ./ouch-9d7c8a9abb9a0698b430e3d8fd00248b4dc595aa/Cargo.lock;
+      lockFile = ./ouch-765fb40ec79ca02d786583daefc3def23c6773bd/Cargo.lock;
       outputHashes = { };
     };
   };
