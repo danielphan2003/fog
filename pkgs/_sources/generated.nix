@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "1337be4f49e963f0184162953301864de09ea5ca";
+    version = "2e6cd893dcde49fbb0cf7bb8719abf0069003edb";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "1337be4f49e963f0184162953301864de09ea5ca";
+      rev = "2e6cd893dcde49fbb0cf7bb8719abf0069003edb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1z3fm03hn0q7kcmr3dcmkgmrr3krlqpayk436f9z7ya3hlfmj1z5";
+      sha256 = "1n8sxd2kakndzy9vvgkc3jbg949gn1990ijvfz23qzhd5mxfmc28";
     };
     cargoLock = {
-      lockFile = ./ouch-1337be4f49e963f0184162953301864de09ea5ca/Cargo.lock;
+      lockFile = ./ouch-2e6cd893dcde49fbb0cf7bb8719abf0069003edb/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -669,14 +669,14 @@
   };
   pure = {
     pname = "pure";
-    version = "a45fada0d4dbee7d38fb05d386c40b9c6cfbd132";
+    version = "90dc9cf908481cc155e1ce5611f684916523fc30";
     src = fetchgit {
       url = "https://github.com/sindresorhus/pure";
-      rev = "a45fada0d4dbee7d38fb05d386c40b9c6cfbd132";
+      rev = "90dc9cf908481cc155e1ce5611f684916523fc30";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1gbya1h7lhcbkbz0ldhkgrqx8wb4srd217il220mk7ymdg1v3n2q";
+      sha256 = "1aa8aczfvclrnd0igiq48jyq4b8fdwvaaj84nzb6w6sjahzs5jcy";
     };
   };
   pythonPackages-cfscrape = {
@@ -937,14 +937,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "eaa0aef9344a86a1d06297dd2e1be6abe367d982";
+    version = "3552d8652553fbe7e73f998652f81aa05d30d0c9";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "eaa0aef9344a86a1d06297dd2e1be6abe367d982";
+      rev = "3552d8652553fbe7e73f998652f81aa05d30d0c9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1ny32rd5prjw6683iyxaxbcvdxic2x703p3gslgwkinlcwqncbi3";
+      sha256 = "11dib04rfd3z6pbc44fbm14dj9flf6jzfavfbg9z89yp871x4ssl";
     };
   };
   teams = {
