@@ -781,14 +781,14 @@
   };
   sddm = {
     pname = "sddm";
-    version = "690be076a46a5fe5ac7d005dd8da682d3de2523c";
+    version = "513546d48f344048f5cc7a2c04f4b5bda1762c02";
     src = fetchgit {
       url = "https://github.com/sddm/sddm";
-      rev = "690be076a46a5fe5ac7d005dd8da682d3de2523c";
+      rev = "513546d48f344048f5cc7a2c04f4b5bda1762c02";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1w9030djjpcym8k62k4v4vm7jhwa8rijmij35zbgfrpi1r4581cb";
+      sha256 = "189m68ri7565wkscj1jq9bzhp690lvvfny0vf74f2bqxi46s1wq7";
     };
   };
   sddm-chili = {
@@ -1538,14 +1538,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "ca1dfdc9aa4b548de624d3a9af5147a998ba3d79";
+    version = "f467f85ca1f780d5c7cf3c20888e399708d761ac";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "ca1dfdc9aa4b548de624d3a9af5147a998ba3d79";
+      rev = "f467f85ca1f780d5c7cf3c20888e399708d761ac";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0495g9nyq8fl2a6xsjwk93i1rdx5vk5zs8nm0fpxshgr0c5dammd";
+      sha256 = "19gxh0s1hf8h86sh9sy46la6y48qyy575jvlcj8f1gkx4nzlczlr";
     };
   };
   ydotool = {
