@@ -271,14 +271,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "1b40e62b5b878f8e54d07bc934c9feb76253cb0c";
+    version = "534f05b23809c039e73e8baea2377a0b5517713b";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "1b40e62b5b878f8e54d07bc934c9feb76253cb0c";
+      rev = "534f05b23809c039e73e8baea2377a0b5517713b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1fchwwdqfy2l94fwv0ss7yx9njbh636sixc1ghd6lals841pxr5k";
+      sha256 = "1iskbbql1vnkxzlc3sr4c1njgrx9wki23k151s0zpd3qjyyphzq8";
     };
   };
   flyingfox = {
@@ -853,14 +853,14 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "7cf15cbaef25d4adf838a51d19bf9d88805d2d4c";
+    version = "3f9c4d272f82b7622a4c3139addcaa03c1238f6a";
     src = fetchgit {
       url = "https://github.com/khanhas/spicetify-cli";
-      rev = "7cf15cbaef25d4adf838a51d19bf9d88805d2d4c";
+      rev = "3f9c4d272f82b7622a4c3139addcaa03c1238f6a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1rswjxl3ykza9v9lgcsd5jrszcjfvwzdlrha9vf9km7apqfbj3si";
+      sha256 = "1cjldacn9vmppmhngnjvd0ahi2sd5aqp763m2kvsw04rm2in5agy";
     };
   };
   spicetify-themes = {
