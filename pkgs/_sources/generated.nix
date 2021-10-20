@@ -271,14 +271,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "534f05b23809c039e73e8baea2377a0b5517713b";
+    version = "94ed574f357787706d7fb1061f06bdf460d431fb";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "534f05b23809c039e73e8baea2377a0b5517713b";
+      rev = "94ed574f357787706d7fb1061f06bdf460d431fb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1iskbbql1vnkxzlc3sr4c1njgrx9wki23k151s0zpd3qjyyphzq8";
+      sha256 = "0k3k33zs8g92smzsc4cwislfiwwsxnc44rvrmkk2p955p5mx8vsm";
     };
   };
   flyingfox = {
@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "4404b91a23f7b64c391b6745a5aa2bce7e804b9b";
+    version = "d533af27d4898a4eb641ba0702f6883bce32fe1d";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "4404b91a23f7b64c391b6745a5aa2bce7e804b9b";
+      rev = "d533af27d4898a4eb641ba0702f6883bce32fe1d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11kar1sf3yw0g9mln98mcc1vqpma0whxgk21pb31p96fc42l2pwp";
+      sha256 = "1618k7hqp4y3j4153v0y6yzinhmx84inzikix0pbvxqxkpa8l0wm";
     };
     cargoLock = {
-      lockFile = ./ouch-4404b91a23f7b64c391b6745a5aa2bce7e804b9b/Cargo.lock;
+      lockFile = ./ouch-d533af27d4898a4eb641ba0702f6883bce32fe1d/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -865,14 +865,14 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "5846f4b854fba052d647dfb53059ef093310e408";
+    version = "491622262116a6b5cd2200031fa2107712307c97";
     src = fetchgit {
       url = "https://github.com/morpheusthewhite/spicetify-themes";
-      rev = "5846f4b854fba052d647dfb53059ef093310e408";
+      rev = "491622262116a6b5cd2200031fa2107712307c97";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "15s7klszm6bnhw4ha3p53iw21hvnrghzpcbvk2yvvcf5ir9i99fx";
+      sha256 = "0lm4a331knmsrdxkw1wz8zj6k65v7x5avd98ydgs12jlcg2n63pv";
     };
   };
   spotify = {
@@ -1538,14 +1538,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "f467f85ca1f780d5c7cf3c20888e399708d761ac";
+    version = "35c5664fd40b0614cd7c43679809c42e1918cda2";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "f467f85ca1f780d5c7cf3c20888e399708d761ac";
+      rev = "35c5664fd40b0614cd7c43679809c42e1918cda2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "19gxh0s1hf8h86sh9sy46la6y48qyy575jvlcj8f1gkx4nzlczlr";
+      sha256 = "0387kzc1a847mz62lgnkrnli4gw6wjgmzhbfzg6pwc13ymgjnblj";
     };
   };
   ydotool = {
