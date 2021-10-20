@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "13aad5db87b5cfb24b577b4bcecd2cd048de5ba1";
+    version = "4404b91a23f7b64c391b6745a5aa2bce7e804b9b";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "13aad5db87b5cfb24b577b4bcecd2cd048de5ba1";
+      rev = "4404b91a23f7b64c391b6745a5aa2bce7e804b9b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1liyfhyhgcl5cdrjcbrb522fkj6kfv8a9p96ki1q3c9kjhlx28rf";
+      sha256 = "11kar1sf3yw0g9mln98mcc1vqpma0whxgk21pb31p96fc42l2pwp";
     };
     cargoLock = {
-      lockFile = ./ouch-13aad5db87b5cfb24b577b4bcecd2cd048de5ba1/Cargo.lock;
+      lockFile = ./ouch-4404b91a23f7b64c391b6745a5aa2bce7e804b9b/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "340";
+    version = "341";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/340/downloads/paper-1.17.1-340.jar";
-      sha256 = "1qy717vnl927vg02hwlnlkzmmh401glv4brfn8bbgly9avn6k2zw";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/341/downloads/paper-1.17.1-341.jar";
+      sha256 = "0iw0kww64qag6mq5k5b6z81z7lkq51vg7pm07j9cdpn7lj520xa7";
     };
   };
   picom = {
