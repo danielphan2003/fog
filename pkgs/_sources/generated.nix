@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "24852dc58a3300e0f240a2cd887dfe8b49ad4b1b";
+    version = "69af91bb33afcdb87f7d47223c4701d715a4ffff";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "24852dc58a3300e0f240a2cd887dfe8b49ad4b1b";
+      rev = "69af91bb33afcdb87f7d47223c4701d715a4ffff";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0mhs5qsnbbmv9dijv1b1hifdcv91azx5ixirlvpww785v666zhnl";
+      sha256 = "0f9y3xdfhamd38xik4prz9zsz8rcyick90lmg6ypspbawv4w9bg1";
     };
   };
   caddy = {
@@ -423,10 +423,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "96.0.1043.1";
+    version = "96.0.1047.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1043.1-1_amd64.deb";
-      sha256 = "1h8kcr28rp89agk4g1jmahcbi5pzmma3q6ddpkiy0wi80q9p3s1m";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1047.2-1_amd64.deb";
+      sha256 = "156cdhx9mxmcgiawylzsjmwazx19m5cgg2bbpldkgfa4ivalbv6r";
     };
   };
   minecraft-better-beds = {
@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "d533af27d4898a4eb641ba0702f6883bce32fe1d";
+    version = "a46fa1fb382cb47b3510e7cf5ad225c993facbb0";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "d533af27d4898a4eb641ba0702f6883bce32fe1d";
+      rev = "a46fa1fb382cb47b3510e7cf5ad225c993facbb0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1618k7hqp4y3j4153v0y6yzinhmx84inzikix0pbvxqxkpa8l0wm";
+      sha256 = "0czkir2q7cadr6p0iaz33w7lq1q20r9kahzqq240lvbl32c16c0m";
     };
     cargoLock = {
-      lockFile = ./ouch-d533af27d4898a4eb641ba0702f6883bce32fe1d/Cargo.lock;
+      lockFile = ./ouch-a46fa1fb382cb47b3510e7cf5ad225c993facbb0/Cargo.lock;
       outputHashes = { };
     };
   };
