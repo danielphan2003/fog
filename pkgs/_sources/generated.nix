@@ -155,14 +155,14 @@
   };
   caddy = {
     pname = "caddy";
-    version = "a2119c09e95eeb871c2b30046f596d61257b108c";
+    version = "0ffb2229b00c3e6b484fb7fac6d5ff8d652c2cc8";
     src = fetchgit {
       url = "https://github.com/caddyserver/caddy";
-      rev = "a2119c09e95eeb871c2b30046f596d61257b108c";
+      rev = "0ffb2229b00c3e6b484fb7fac6d5ff8d652c2cc8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1znfl4bdvpb69x5xyswghn9c5x6cbhc5imya55jy6krdrwnrc6d0";
+      sha256 = "17gyj97749qds7lin8675gn8yd8m5dqcd8alr6ysnaa92q5aq359";
     };
   };
   cups-pdf = {
@@ -415,10 +415,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "95.0.1020.20";
+    version = "95.0.1020.30";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_95.0.1020.20-1_amd64.deb";
-      sha256 = "1l9ywpx9cs9gwrx5kipmi4vkirnl7b0sz2pvavm5fyvd9lnhkyhn";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_95.0.1020.30-1_amd64.deb";
+      sha256 = "1srv1nr3aqlpc9gr5735zy0b4l2xd7m2rplg296fx3gnkkj7q6zj";
     };
   };
   microsoft-edge-dev = {
