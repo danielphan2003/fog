@@ -997,17 +997,17 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "1.22.2";
+    version = "1.23.0";
     src = fetchgit {
       url = "https://github.com/dani-garcia/vaultwarden";
-      rev = "1.22.2";
+      rev = "1.23.0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0qcbc7drd4y4g2k7a6rv62lyg0r6bswswf3jdwr8vjpipni8dgyz";
+      sha256 = "1dhj1rk8k4q6vw66dn1lmwksadbjcsfihv5q9m6x1icrr4karcwm";
     };
     cargoLock = {
-      lockFile = ./vaultwarden-1.22.2/Cargo.lock;
+      lockFile = ./vaultwarden-1.23.0/Cargo.lock;
       outputHashes = {
         "data-url-0.1.0" = "06xv0psj2j5i4hbd2hdwi4p8mlzcq0zs022na0vijqwppxbx9apd";
         "rocket-0.5.0-dev" = "19lyljqhi6xszg86zl6wzd14bnjdb56dkcgqg2s3qz7bs8dgm4mi";
