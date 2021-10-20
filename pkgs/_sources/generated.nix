@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "339";
+    version = "340";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/339/downloads/paper-1.17.1-339.jar";
-      sha256 = "0sjqidlzxfhzbbkwz6sd4f8wqqn1cp80pmdjxwm0lfh43llc0wbc";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/340/downloads/paper-1.17.1-340.jar";
+      sha256 = "1qy717vnl927vg02hwlnlkzmmh401glv4brfn8bbgly9avn6k2zw";
     };
   };
   picom = {
@@ -1293,10 +1293,10 @@
   };
   vscode-extensions-ms-vscode-cpptools = {
     pname = "vscode-extensions-ms-vscode-cpptools";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.7.0/cpptools-linux.vsix";
-      sha256 = "0vpizfsbhyji198l2zz8dgmy6ialcgvvilhn295l7rxqpjvl3ai7";
+      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.7.1/cpptools-linux.vsix";
+      sha256 = "1f8mslsqpz4ya0vfm78jl8rplc4h49lp9yj57haviw7gzcdxva9f";
     };
   };
   vscode-extensions-nix-env-selector = {
