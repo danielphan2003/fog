@@ -47,14 +47,14 @@
   };
   anbox = {
     pname = "anbox";
-    version = "1cf607262c49561d1f33808af081092a1110d655";
+    version = "84f0268012cbe322ad858d76613f4182074510ac";
     src = fetchgit {
       url = "https://github.com/anbox/anbox";
-      rev = "1cf607262c49561d1f33808af081092a1110d655";
+      rev = "84f0268012cbe322ad858d76613f4182074510ac";
       fetchSubmodules = true;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0m9fafwl5q7vcxccfkas6397gzx3h98b4lg4ajzjpihmmp2fzqny";
+      sha256 = "1dv9lrr6cn31njimc1v0399y61k2di3da1vpyz8412dhsxma2xa1";
     };
   };
   anime-downloader = {
