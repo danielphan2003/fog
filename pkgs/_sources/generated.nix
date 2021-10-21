@@ -107,14 +107,14 @@
   };
   awesome = {
     pname = "awesome";
-    version = "1d55ae09aa487a82f2808e82a8884123e2400722";
+    version = "8541637a85cb3cf93d5bbb3ecedbf84bef3a8067";
     src = fetchgit {
       url = "https://github.com/awesomeWM/awesome";
-      rev = "1d55ae09aa487a82f2808e82a8884123e2400722";
+      rev = "8541637a85cb3cf93d5bbb3ecedbf84bef3a8067";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0h17j6lnnasz9ysvhzr0q4y6jh7hansb6hykp5fl8gnc2q2bxwmj";
+      sha256 = "0pspkmympqavw9cpxcclhb7wskry62lmxs515phadagrq5qna79y";
     };
   };
   awestore = {
@@ -603,17 +603,17 @@
   };
   ouch = {
     pname = "ouch";
-    version = "a46fa1fb382cb47b3510e7cf5ad225c993facbb0";
+    version = "4cfc7b972b0644e048fd08cd6765d936410d89d4";
     src = fetchgit {
       url = "https://github.com/ouch-org/ouch";
-      rev = "a46fa1fb382cb47b3510e7cf5ad225c993facbb0";
+      rev = "4cfc7b972b0644e048fd08cd6765d936410d89d4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0czkir2q7cadr6p0iaz33w7lq1q20r9kahzqq240lvbl32c16c0m";
+      sha256 = "150zdl9xrz1m01ml31092wfdj8sfif17rz0d9h4flq75wzhr1zvv";
     };
     cargoLock = {
-      lockFile = ./ouch-a46fa1fb382cb47b3510e7cf5ad225c993facbb0/Cargo.lock;
+      lockFile = ./ouch-4cfc7b972b0644e048fd08cd6765d936410d89d4/Cargo.lock;
       outputHashes = { };
     };
   };
