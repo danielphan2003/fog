@@ -637,10 +637,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "346";
+    version = "347";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/346/downloads/paper-1.17.1-346.jar";
-      sha256 = "1jmjsn1924ds8h1sq5i22cy8f3jn95rz3qysr5kx42rynpwgr01n";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/347/downloads/paper-1.17.1-347.jar";
+      sha256 = "05znwdd9wq6raynwqajafh5mlid1z6nc9dn577d1yb9j81r4fanp";
     };
   };
   picom = {
