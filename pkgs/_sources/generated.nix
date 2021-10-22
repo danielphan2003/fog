@@ -1470,14 +1470,14 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "08874d9aec8ad281c85ec634a9b3c2ccd42f3304";
+    version = "fc51330a6d6310d730394cda99efad67ec7bae8b";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-gtk-theme";
-      rev = "08874d9aec8ad281c85ec634a9b3c2ccd42f3304";
+      rev = "fc51330a6d6310d730394cda99efad67ec7bae8b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1rbwf6z2bda647kw00q2fp349gjzvdc4gyk986fkjli0nr0jh8hp";
+      sha256 = "08y1msagnarvvi8zfjpb4lq93694fy98cwfywa077y3dbx3g65zv";
     };
   };
   whitesur-icon-theme = {
