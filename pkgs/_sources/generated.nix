@@ -271,14 +271,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "988dcab9de7c61f24ecab373d2fc3829904eb67b";
+    version = "08e532f78743a124b23d313a40700ae7f08f1e73";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "988dcab9de7c61f24ecab373d2fc3829904eb67b";
+      rev = "08e532f78743a124b23d313a40700ae7f08f1e73";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "016xj7jizlbhz0yl2x47f6mqzl6k17l92s9mglmwbf2vxv93wgfp";
+      sha256 = "1jbr4ybc4q9macscvgrcndrjz24ym2g3pfdrb2bxp7wy03wpcxhq";
     };
   };
   flyingfox = {
@@ -937,14 +937,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "09e692e3189d0f31d73b03575843ac584b4066bb";
+    version = "0b62f26349308d2a05150943c2f6ad56bd20b7af";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "09e692e3189d0f31d73b03575843ac584b4066bb";
+      rev = "0b62f26349308d2a05150943c2f6ad56bd20b7af";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1a1d6g7d2nplj2d2jdwwhwaj6f8ygbj62hirkrlykikk8wnvn3qq";
+      sha256 = "1dgc0vdb6clpj0cdcw8w9iifw8w3kiswk5d9hrhr378nkvr8l4zn";
     };
   };
   teams = {
@@ -1077,10 +1077,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.7.17";
+    version = "0.7.19";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.17/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "1b2lbpc3va34z64g8kyapgmc7mkwr8mylc1d0yxnwyw3qlc4dm6r";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.19/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "15bhq1nhbhlp29zk3i2ldfsjw2vkb9rw5icgbi4yd786mqs6mcss";
     };
     license = "mit";
   };
