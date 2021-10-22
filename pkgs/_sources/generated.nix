@@ -781,14 +781,14 @@
   };
   sddm = {
     pname = "sddm";
-    version = "c7e8a9f212b3c929a52c01bac4aecfb823d6b878";
+    version = "748fab111279a6de6e09f7439ffa84df97bc0d71";
     src = fetchgit {
       url = "https://github.com/sddm/sddm";
-      rev = "c7e8a9f212b3c929a52c01bac4aecfb823d6b878";
+      rev = "748fab111279a6de6e09f7439ffa84df97bc0d71";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1cvrpacq5wa979sxzfcdgf5b3ijajpyknr5iqrjzlflslg65h5fg";
+      sha256 = "1w6xy21rgpwa0ps5xndidq9zwa3ghvqx1cvlw8d4b3j7rkqzpg0h";
     };
   };
   sddm-chili = {
@@ -937,14 +937,14 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c209278a9b441f1ae3c4365001682d9d8d2624b1";
+    version = "09e692e3189d0f31d73b03575843ac584b4066bb";
     src = fetchgit {
       url = "https://github.com/tailscale/tailscale";
-      rev = "c209278a9b441f1ae3c4365001682d9d8d2624b1";
+      rev = "09e692e3189d0f31d73b03575843ac584b4066bb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "11s2rkc2n5sq780mvdlg8l1swpgkawqmkfaj7gfamp0xm9bprfwn";
+      sha256 = "1a1d6g7d2nplj2d2jdwwhwaj6f8ygbj62hirkrlykikk8wnvn3qq";
     };
   };
   teams = {
