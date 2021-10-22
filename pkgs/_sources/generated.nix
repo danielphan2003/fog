@@ -143,14 +143,14 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4c4846adfb30d4825e539354c16371badcea8769";
+    version = "5c669bef59fab540fb8359d1bc9bd11378e16037";
     src = fetchgit {
       url = "https://github.com/bottlesdevs/Bottles";
-      rev = "4c4846adfb30d4825e539354c16371badcea8769";
+      rev = "5c669bef59fab540fb8359d1bc9bd11378e16037";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1igrny5mzwk5q3k727ya0j1csk34llnf269zq62n5djl3fl59819";
+      sha256 = "09mqi3jn07c25yfc1xl2nkv8kinf46vc4clddk7nradk0zhcfj8h";
     };
   };
   caddy = {
@@ -781,14 +781,14 @@
   };
   sddm = {
     pname = "sddm";
-    version = "748fab111279a6de6e09f7439ffa84df97bc0d71";
+    version = "2362a9740a4445010a0ad224b10e23199bd8ad7c";
     src = fetchgit {
       url = "https://github.com/sddm/sddm";
-      rev = "748fab111279a6de6e09f7439ffa84df97bc0d71";
+      rev = "2362a9740a4445010a0ad224b10e23199bd8ad7c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1w6xy21rgpwa0ps5xndidq9zwa3ghvqx1cvlw8d4b3j7rkqzpg0h";
+      sha256 = "0y1s7fkzjrqlssrr17136kl9z929cqk469lbdagyjx929acagfv0";
     };
   };
   sddm-chili = {
