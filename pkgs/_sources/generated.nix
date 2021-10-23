@@ -243,17 +243,17 @@
   };
   eww = {
     pname = "eww";
-    version = "0aaaa2c2b802dc2015c3a61733f10d5ff0254313";
+    version = "b23be153eb1bb45ac35cf6019977d271d495a987";
     src = fetchgit {
       url = "https://github.com/elkowar/eww";
-      rev = "0aaaa2c2b802dc2015c3a61733f10d5ff0254313";
+      rev = "b23be153eb1bb45ac35cf6019977d271d495a987";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1cyg2n0mn166d7z7a08fk8qjkp9dllhj8gs2w3my902smykfq930";
+      sha256 = "08kl8j5la2hxqdajxvahhlii18v0rlssqrhjs0znhks941zw7wgd";
     };
     cargoLock = {
-      lockFile = ./eww-0aaaa2c2b802dc2015c3a61733f10d5ff0254313/Cargo.lock;
+      lockFile = ./eww-b23be153eb1bb45ac35cf6019977d271d495a987/Cargo.lock;
       outputHashes = { };
     };
   };
