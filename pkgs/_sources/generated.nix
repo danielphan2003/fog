@@ -865,14 +865,14 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "491622262116a6b5cd2200031fa2107712307c97";
+    version = "7acdeaa0a56945f31c8daeb59c0e0cfc8ee47ac4";
     src = fetchgit {
       url = "https://github.com/morpheusthewhite/spicetify-themes";
-      rev = "491622262116a6b5cd2200031fa2107712307c97";
+      rev = "7acdeaa0a56945f31c8daeb59c0e0cfc8ee47ac4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0lm4a331knmsrdxkw1wz8zj6k65v7x5avd98ydgs12jlcg2n63pv";
+      sha256 = "1yzchs7ai5i4cg0vhkw7rvh35snkzay073yh9j4a33ip3lb7qbrv";
     };
   };
   spotify = {
