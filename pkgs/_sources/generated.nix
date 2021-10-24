@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "75ba4e0da7d4f248416989309e262498da9d67a1";
+    version = "55736a7026940698fcad03d65a7f10608319c1e2";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "75ba4e0da7d4f248416989309e262498da9d67a1";
+      rev = "55736a7026940698fcad03d65a7f10608319c1e2";
       fetchSubmodules = false;
-      sha256 = "sha256-OnKSWqWzYdmB7BKJsI0wNnzhPMfENg2oBlc3S4ovbUY=";
+      sha256 = "sha256-+GbcW/rpm2nDJAs4Mk83KY5WzJVVDMnQ9y1yvqWFGvM=";
     });
   };
   droidcam = {
@@ -237,9 +237,7 @@
     });
     cargoLock = {
       lockFile = ./eww-f9153bf37da251b45726815bd1bcf24f7af1d82a/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   fake-background-webcam = {
@@ -287,9 +285,7 @@
     });
     cargoLock = {
       lockFile = ./frece-d4071c6c852e68dda82b7ab0bfb0f141b39d4484/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   ibus = {
@@ -581,9 +577,7 @@
     });
     cargoLock = {
       lockFile = ./ouch-4cfc7b972b0644e048fd08cd6765d936410d89d4/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   paper = {
@@ -851,9 +845,7 @@
     });
     cargoLock = {
       lockFile = ./spotifyd-f4909621da43636185f2d2ffe4392178b8d654b6/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   steamcompmgr = {
