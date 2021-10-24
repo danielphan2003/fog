@@ -18,6 +18,7 @@
       inputs = {
         nix.follows = "nix";
         nixpkgs.follows = "nixos";
+        latest.follows = "latest";
         nixlib.follows = "nixos";
       };
     };
