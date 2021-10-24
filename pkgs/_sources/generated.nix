@@ -1482,14 +1482,14 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "7d644c01edfd8ca0a1026faa8c745538d149a65a";
+    version = "3d203fa6e4d0563795a1734e6e3f4369341878e0";
     src = fetchgit {
       url = "https://github.com/vinceliuice/whitesur-icon-theme";
-      rev = "7d644c01edfd8ca0a1026faa8c745538d149a65a";
+      rev = "3d203fa6e4d0563795a1734e6e3f4369341878e0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "0j1wr39mc3wlhvnk7yl85gfr8gfpxcvcaadrnk3y5li9zynp48cs";
+      sha256 = "0y763sh3bywm63anjs7s5mg1x5scaw5gzdg7z2x96h67jrbly9mq";
     };
   };
   widevine-cdm = {
