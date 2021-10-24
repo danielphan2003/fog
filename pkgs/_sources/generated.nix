@@ -1271,10 +1271,10 @@
   };
   vscode-extensions-markdown-preview-enhanced = {
     pname = "vscode-extensions-markdown-preview-enhanced";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.0/file/shd101wyy.markdown-preview-enhanced-0.6.0.vsix";
-      sha256 = "1cc5siach8b4lc801rcsas0f5phnk8g5w8r9b066ngi4w0wxs7dn";
+      url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.1/file/shd101wyy.markdown-preview-enhanced-0.6.1.vsix";
+      sha256 = "07cgck081sn05m6jiz9b53ardn6g8w5ql8mrwlxd1jprcarcay06";
     };
     homepage = "https://github.com/shd101wyy/vscode-markdown-preview-enhanced";
     license = "ncsa";
