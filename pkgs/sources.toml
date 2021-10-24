@@ -425,7 +425,7 @@ fetch.url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v$
 [minecraft-sodium]
 src.github_tag = "CaffeineMC/sodium-fabric"
 src.prefix = "mc1.17.1-"
-fetch.url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/build-artifacts.zip"
+fetch.url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/sodium-artifacts-1.17.x-dev.zip"
 
 ### Server
 
