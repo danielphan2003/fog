@@ -271,14 +271,14 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "08e532f78743a124b23d313a40700ae7f08f1e73";
+    version = "a487fb02573bf36d922d0c2edb269b9692a16b0f";
     src = fetchgit {
       url = "https://github.com/flameshot-org/flameshot";
-      rev = "08e532f78743a124b23d313a40700ae7f08f1e73";
+      rev = "a487fb02573bf36d922d0c2edb269b9692a16b0f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "1jbr4ybc4q9macscvgrcndrjz24ym2g3pfdrb2bxp7wy03wpcxhq";
+      sha256 = "06vyqy0045jr5l3g7z2f66vrn8h85n3ivvvaa9b6a01as490zy69";
     };
   };
   flyingfox = {
