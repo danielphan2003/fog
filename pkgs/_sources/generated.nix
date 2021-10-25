@@ -725,13 +725,13 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "9f0f97a8d92d647aec97750d9f866dee0e71246e";
+    version = "70efa84f9bdf46593ee9d1a11acfe0a6e1c899a7";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "9f0f97a8d92d647aec97750d9f866dee0e71246e";
+      rev = "70efa84f9bdf46593ee9d1a11acfe0a6e1c899a7";
       fetchSubmodules = true;
-      sha256 = "sha256-nivIWXGBhSEsvaSdHIyo8dsaxj31JKwYkCbVPleIJbo=";
+      sha256 = "sha256-1k/s/9jvCrJVQZ6itnmmxG00h2/Q++PpfOkD43p36hg=";
     });
   };
   sddm = {
