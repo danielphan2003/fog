@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "e29cc1eacc85fa21146120eaa8e89b1119801007";
+    version = "045df46d3c6064c16748fa42112b7cc1bef54ace";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "e29cc1eacc85fa21146120eaa8e89b1119801007";
+      rev = "045df46d3c6064c16748fa42112b7cc1bef54ace";
       fetchSubmodules = false;
-      sha256 = "sha256-2gBT0ZtUd/JIm23Qrwlhdf+MIlKkJj0GtLr0eDZuizs=";
+      sha256 = "sha256-OI0KN3HIr4UvDS68MysNG5IswFf/S8+rsVBkaxSGJls=";
     });
   };
   droidcam = {
@@ -1474,14 +1474,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "f37d11cd96ba15b40a497d4d7bdd14a77ea9b476";
+    version = "ccffe90c3646a677c11e7305d9aefc7e51ef8c81";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "f37d11cd96ba15b40a497d4d7bdd14a77ea9b476";
+      rev = "ccffe90c3646a677c11e7305d9aefc7e51ef8c81";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9VCcSyq0tsDirRA2gWH2nLQUXCZUbOpxUeuXpJv0UG0=";
+      sha256 = "sha256-gEAhKAQJwUYRLknc2p3JYAR0xdfVudo5oyj9o8DS+2U=";
     };
   };
   ydotool = {
