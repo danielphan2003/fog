@@ -194,11 +194,11 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "045df46d3c6064c16748fa42112b7cc1bef54ace";
+    version = "299503c42601640fd9d2d3c188be51718e3c08a5";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "045df46d3c6064c16748fa42112b7cc1bef54ace";
+      rev = "299503c42601640fd9d2d3c188be51718e3c08a5";
       fetchSubmodules = false;
       sha256 = "sha256-OI0KN3HIr4UvDS68MysNG5IswFf/S8+rsVBkaxSGJls=";
     });
@@ -216,13 +216,13 @@
   };
   duf = {
     pname = "duf";
-    version = "8d9557dc109e157f6d72ad19f37c22cf33158edc";
+    version = "673a3d13841abf5bab5fc2d42ff4a07ef4b8bef8";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "8d9557dc109e157f6d72ad19f37c22cf33158edc";
+      rev = "673a3d13841abf5bab5fc2d42ff4a07ef4b8bef8";
       fetchSubmodules = false;
-      sha256 = "sha256-YTigmupEk86504fRF7ajlRotKxYwjg6shHFBCGy0SBk=";
+      sha256 = "sha256-sbZUyCO5zTi3AvDhuUb13LP4YA7LkyBBU8ulvO1LsqI=";
     });
   };
   eww = {
@@ -1474,14 +1474,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "ccffe90c3646a677c11e7305d9aefc7e51ef8c81";
+    version = "c93c2e7718bcd4c7c728a76f5a34be3a825f0629";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "ccffe90c3646a677c11e7305d9aefc7e51ef8c81";
+      rev = "c93c2e7718bcd4c7c728a76f5a34be3a825f0629";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gEAhKAQJwUYRLknc2p3JYAR0xdfVudo5oyj9o8DS+2U=";
+      sha256 = "sha256-75Uf83kllX/hkvLGH+x1J5CJLD31awePmq+6g/k+mdU=";
     };
   };
   ydotool = {
@@ -1497,10 +1497,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.8.0.16";
+    version = "5.8.3.145";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.8.0.16/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-tfH1Ycz1dz+Hz2xAoZJc7lJ8uTih4t7/K0sNtwKCtqs=";
+      url = "https://cdn.zoom.us/prod/5.8.3.145/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-eRp+fWh6w+X8LWbVhPtGodLqTsitnFMJyCXNy9Z9itw=";
     };
   };
 }
