@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "85438d00e457bff692303af519da618c6372476b";
+    version = "7d68a3297147d7878a14defe0d10a560252d7fd3";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "85438d00e457bff692303af519da618c6372476b";
+      rev = "7d68a3297147d7878a14defe0d10a560252d7fd3";
       fetchSubmodules = false;
-      sha256 = "sha256-/ITf8nv/IWR1sKBchPtdkPjZO5OFH9p6FgVbDfBrJc8=";
+      sha256 = "sha256-PW9RFXQhK1qekX2M5uHglY1m9bOqBVC2Bwz1F3xMDoc=";
     });
   };
   avizo = {
@@ -608,13 +608,13 @@
   };
   picom = {
     pname = "picom";
-    version = "ad18d129cc549e4e00a0499df7de87f249a3a71f";
+    version = "d5f3079a433777965021f659d861870ab506bcc5";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "ad18d129cc549e4e00a0499df7de87f249a3a71f";
+      rev = "d5f3079a433777965021f659d861870ab506bcc5";
       fetchSubmodules = false;
-      sha256 = "sha256-eiejNH8HP/QkRkMq9NCgAWZBjHUCYEDre1iJ53/QQRs=";
+      sha256 = "sha256-fdg0q6DWnweduWsmCGvru3CTae44tL+1Y8yJYoIHthA=";
     });
   };
   plymouth-themes = {
@@ -816,13 +816,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "ae3b254dbb5dd7ab9b8c3aa77381eb29c051534e";
+    version = "67cfad34cb5779b6a83820b17dd999c57b7d7cb4";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "ae3b254dbb5dd7ab9b8c3aa77381eb29c051534e";
+      rev = "67cfad34cb5779b6a83820b17dd999c57b7d7cb4";
       fetchSubmodules = false;
-      sha256 = "sha256-s6gqcwNfkjqi63VhPEztHDg6FPi2UunozkT74oTQJ3Q=";
+      sha256 = "sha256-hLrU4hBXxBTTsaeg3S2iDcHiNkXtwxJ8t3BppKNrJuY=";
     });
   };
   spotify = {
