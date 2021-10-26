@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "012d235314fcc2a27302d00ee6f53459e54c0eb8";
+    version = "f73f55dba745a8a527202b87fdd3ff88fa9f40b1";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "012d235314fcc2a27302d00ee6f53459e54c0eb8";
+      rev = "f73f55dba745a8a527202b87fdd3ff88fa9f40b1";
       fetchSubmodules = false;
-      sha256 = "sha256-3TorYt4dHVPqWZm5PaeM3AdNUm9UXiv4qlPp3S1bAMY=";
+      sha256 = "sha256-aZzllhHDOYg2GOcqcjndA8TMlpGNZq7XYbWn+qsg3Sw=";
     });
   };
   cups-pdf = {
@@ -1102,10 +1102,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.64.0";
+    version = "0.65.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.64.0/file/dendron.dendron-0.64.0.vsix";
-      sha256 = "sha256-LwxKM+8OrhzgGefRbyfF7JVC69G8sdy8QMLdznXSMVQ=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.65.0/file/dendron.dendron-0.65.0.vsix";
+      sha256 = "sha256-aJXwBH5+BqwXjOZgbC4nFPvxQcFJCdhiNaeDBRpHNdM=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
