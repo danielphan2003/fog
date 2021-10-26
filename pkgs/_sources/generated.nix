@@ -736,13 +736,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "e83ced075be03e39f7a45916e0960de13864a6e0";
+    version = "d9adf877cccfca74c57706378802ee14cc89b671";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "e83ced075be03e39f7a45916e0960de13864a6e0";
+      rev = "d9adf877cccfca74c57706378802ee14cc89b671";
       fetchSubmodules = false;
-      sha256 = "sha256-w9wb3PZU9wjJPWLjeJM+SfSZflSNtqaEnRbBW/WnaDk=";
+      sha256 = "sha256-Xt8w9JakfS+qHBHDxbZNiFBNMCSdXoibatO5qLtkJrQ=";
     });
   };
   sddm-chili = {
