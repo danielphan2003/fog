@@ -1451,14 +1451,14 @@
   };
   xorg-libxcvt = {
     pname = "xorg-libxcvt";
-    version = "69fb7bf48a836182c4404c765ca8abbd0355775e";
+    version = "36a7cd11591a265d2f3becda2e04b65189d8a0b4";
     src = fetchgit {
       url = "https://gitlab.freedesktop.org/xorg/lib/libxcvt";
-      rev = "69fb7bf48a836182c4404c765ca8abbd0355775e";
+      rev = "36a7cd11591a265d2f3becda2e04b65189d8a0b4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-SQjV9wMGiz/cAPCZIEGa/SWn1PyHvKBjXpYWY3LMkR4=";
+      sha256 = "sha256-q7WilzdPqJFDcpX6/WnPQ4NR3/jwmf9W5WTr+wHelOU=";
     };
   };
   xorgproto = {
