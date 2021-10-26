@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "997e41deae139dbf2cb3e95ed250070b40d6f3cb";
+    version = "012d235314fcc2a27302d00ee6f53459e54c0eb8";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "997e41deae139dbf2cb3e95ed250070b40d6f3cb";
+      rev = "012d235314fcc2a27302d00ee6f53459e54c0eb8";
       fetchSubmodules = false;
-      sha256 = "sha256-JhQmWYr6bKtZmd6ANsoVMTjUzc6PwhMOGmAbWC3MsXw=";
+      sha256 = "sha256-3TorYt4dHVPqWZm5PaeM3AdNUm9UXiv4qlPp3S1bAMY=";
     });
   };
   cups-pdf = {
@@ -394,10 +394,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "96.0.1047.2";
+    version = "96.0.1054.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1047.2-1_amd64.deb";
-      sha256 = "sha256-2exF1Y5EuTcbvWuJ91ipKfSveJX6U89VfKz2mjpszJQ=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1054.2-1_amd64.deb";
+      sha256 = "sha256-EGw5lzIGJadhzpNOHx9n/gNndNUE15OsL86kyLU6Hhw=";
     };
   };
   minecraft-better-beds = {
@@ -714,13 +714,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d75127e9c24bd8b3c5e586afb4f79db9cd0452a9";
+    version = "8f88610d322e326620fe0a22bd4350ff62ea907e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d75127e9c24bd8b3c5e586afb4f79db9cd0452a9";
+      rev = "8f88610d322e326620fe0a22bd4350ff62ea907e";
       fetchSubmodules = false;
-      sha256 = "sha256-78KCqrV+QFMKjBRpkW4M37dkrKfOTlMssmbucyzitkY=";
+      sha256 = "sha256-Cao1LreSBygoyBX15rxqjpKrPT3jb3O4SEXZoQNv6gY=";
     });
   };
   rofi-wayland = {
