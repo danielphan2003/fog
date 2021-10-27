@@ -734,6 +734,41 @@
       sha256 = "sha256-1k/s/9jvCrJVQZ6itnmmxG00h2/Q++PpfOkD43p36hg=";
     });
   };
+  rustdesk = {
+    pname = "rustdesk";
+    version = "516904551c2983fe94036d172e4ecef4a27c6ae9";
+    src = fetchFromGitHub ({
+      owner = "rustdesk";
+      repo = "rustdesk";
+      rev = "516904551c2983fe94036d172e4ecef4a27c6ae9";
+      fetchSubmodules = false;
+      sha256 = "sha256-TkBlfNg0zmHUN26M4843LSIqd+aRJOsCv8FJ2nctQYg=";
+    });
+    cargoLock = {
+      lockFile = ./rustdesk-516904551c2983fe94036d172e4ecef4a27c6ae9/Cargo.lock;
+      outputHashes = {
+        "magnum-opus-0.3.4-2" = "sha256-3Bl4jyDg5E9zzADdz7jM5SY2HYksokE1jS/ocE/iXcc=";
+        "rust-pulsectl-0.2.10" = "sha256-fJcd4aNixFW4dqp+RoHEYQKq78iYZsNa4SpopMIh8Fg=";
+        "cpal-0.13.4" = "sha256-e9VG28xT+u/vDYuM1/cOAHFR+VXlYwcSC+XUWgEgv84=";
+        "protobuf-3.0.0-pre" = "sha256-yEjMOD0G45MKGnJ8i8Bcm5oRBaj87jlcoeMK/VxRbn0=";
+        "parity-tokio-ipc-0.7.2" = "sha256-3gBg303FKbLcbld5q+zb/KIlVKuRGcPpWJJ2zUXRLHM=";
+        "sciter-rs-0.5.57" = "sha256-pF5Rwav78//oqDAv0Nhb7tawhSMnlSuy4sPUOfPd8NU=";
+        "confy-0.4.1" = "sha256-5QwA4YfEEE6QqEEUJ3+C37UbUf88NYds38kIthVSo5Y=";
+        "windows-service-0.4.0" = "sha256-SD+3tprBPEx4QnXmWEjruAwiTeoXofMVET3j+aXstBY=";
+      };
+    };
+  };
+  rustdesk-server-oss = {
+    pname = "rustdesk-server-oss";
+    version = "a9884914e8225d069b4facb1e044625d18df75d7";
+    src = fetchFromGitHub ({
+      owner = "rustdesk";
+      repo = "rustdesk-server-demo";
+      rev = "a9884914e8225d069b4facb1e044625d18df75d7";
+      fetchSubmodules = false;
+      sha256 = "sha256-SafmulnOWj+tgZ4URn0x26AEO83H2KZVgiu6Cbax0s4=";
+    });
+  };
   sddm = {
     pname = "sddm";
     version = "d9adf877cccfca74c57706378802ee14cc89b671";
