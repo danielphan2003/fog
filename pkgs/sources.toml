@@ -240,6 +240,15 @@ src.git = "https://github.com/lbonn/rofi"
 fetch.github = "lbonn/rofi"
 git.fetchSubmodules = true
 
+[rustdesk]
+src.git = "https://github.com/rustdesk/rustdesk"
+fetch.github = "rustdesk/rustdesk"
+cargo_lock = "Cargo.lock"
+
+[rustdesk-server-oss]
+src.git = "https://github.com/rustdesk/rustdesk-server-demo"
+fetch.github = "rustdesk/rustdesk-server-demo"
+
 [sddm]
 src.git = "https://github.com/sddm/sddm"
 fetch.github = "sddm/sddm"
