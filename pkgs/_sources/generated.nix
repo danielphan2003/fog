@@ -1359,10 +1359,10 @@
   };
   vscode-extensions-python = {
     pname = "vscode-extensions-python";
-    version = "2021.10.1317843341";
+    version = "2021.10.1365161279";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2021.10.1317843341/file/ms-python.python-2021.10.1317843341.vsix";
-      sha256 = "sha256-YwEQ7YjubzSQyoPbK6HaquI+rkCqPdDDEvrWKMAinN4=";
+      url = "https://open-vsx.org/api/ms-python/python/2021.10.1365161279/file/ms-python.python-2021.10.1365161279.vsix";
+      sha256 = "sha256-mHt+cmYlONWwRdWgmtfetwfk1jRgegmxbEUHLlcllCk=";
     };
     homepage = "https://github.com/Microsoft/vscode-python";
     license = "mit";
