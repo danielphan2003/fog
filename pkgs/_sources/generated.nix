@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "2107ef38d0fabc7628c82582c90c5d336dbd5161";
+    version = "de7eeb4d648477a0d79d01559d9866453184c536";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "2107ef38d0fabc7628c82582c90c5d336dbd5161";
+      rev = "de7eeb4d648477a0d79d01559d9866453184c536";
       fetchSubmodules = false;
-      sha256 = "sha256-vr/7nLzPxh2zNoSqGARtFkMXgAszgbsBIJjez8NJoK0=";
+      sha256 = "sha256-mPv872I7Bal8KUDjYm5BXTH42uNfKX/v2lvnC4pEZmA=";
     });
   };
   flyingfox = {
@@ -1486,14 +1486,14 @@
   };
   xorg-libxcvt = {
     pname = "xorg-libxcvt";
-    version = "36a7cd11591a265d2f3becda2e04b65189d8a0b4";
+    version = "6fe840b9295cfdc41bd734586c5b8756f6af6f9b";
     src = fetchgit {
       url = "https://gitlab.freedesktop.org/xorg/lib/libxcvt";
-      rev = "36a7cd11591a265d2f3becda2e04b65189d8a0b4";
+      rev = "6fe840b9295cfdc41bd734586c5b8756f6af6f9b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-q7WilzdPqJFDcpX6/WnPQ4NR3/jwmf9W5WTr+wHelOU=";
+      sha256 = "sha256-qKKb/i67QY/NxZFkJaVRc3hGPjjnRfgpMqGqZ0YNQE8=";
     };
   };
   xorgproto = {
