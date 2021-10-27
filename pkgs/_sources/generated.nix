@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "65f8ac041492c767cd7a90b808c2ce4ad3522447";
+    version = "8fb10835025cc92060a9fd10fc35b7ab5e86b7f1";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "65f8ac041492c767cd7a90b808c2ce4ad3522447";
+      rev = "8fb10835025cc92060a9fd10fc35b7ab5e86b7f1";
       fetchSubmodules = false;
-      sha256 = "sha256-zaEZh4DKBWQ9S6yVgpIfuUUHBrEiMh3/x70c1UIadWA=";
+      sha256 = "sha256-zB2Y+EnoXtNlqiKy+e3lzvInmQoBrXgrCtoIj6yZsXE=";
     });
   };
   flyingfox = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b0b0a8031864d7baa01b2553e5c85c35a73cf3c5";
+    version = "3b5ada1fd835ef128f0b1e0fe315a83f1cf63418";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b0b0a8031864d7baa01b2553e5c85c35a73cf3c5";
+      rev = "3b5ada1fd835ef128f0b1e0fe315a83f1cf63418";
       fetchSubmodules = false;
-      sha256 = "sha256-sHkn+Yx8SDHmpTuYznt5NoPeQueY6o3m9AQEpJ7YS18=";
+      sha256 = "sha256-JwAgpkXIF93JTVNSmgWZydtCQ+2NAljVxBMsfKZthRw=";
     });
   };
   teams = {
@@ -995,10 +995,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.23.0";
+    version = "2.24.1";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.23.0/bw_web_v2.23.0.tar.gz";
-      sha256 = "sha256-EeGqCAwHhjVxvZJEEJcJwikkz99gNhEkjBh35Lr++IU=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.24.1/bw_web_v2.24.1.tar.gz";
+      sha256 = "sha256-NYXjmBFvVdpbz2/55MirPBlGVO3hWkH+2rTtxixprXc=";
     };
   };
   ventoy = {
