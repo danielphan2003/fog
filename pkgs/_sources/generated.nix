@@ -760,13 +760,13 @@
   };
   rustdesk-server-oss = {
     pname = "rustdesk-server-oss";
-    version = "a9884914e8225d069b4facb1e044625d18df75d7";
+    version = "d65c42630c24e460ba88bfe95e5d8214ac9dd797";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server-demo";
-      rev = "a9884914e8225d069b4facb1e044625d18df75d7";
+      rev = "d65c42630c24e460ba88bfe95e5d8214ac9dd797";
       fetchSubmodules = false;
-      sha256 = "sha256-SafmulnOWj+tgZ4URn0x26AEO83H2KZVgiu6Cbax0s4=";
+      sha256 = "sha256-oI8xy9sT42QfeT7LTjwQWC/9eiKI+A+e7GKLRs81NLg=";
     });
   };
   sddm = {
