@@ -101,13 +101,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "1e0d1e7ba9a09dd4aae49072cf992840725882bf";
+    version = "50b9b1043716c9ff0e27ab862112b0ee6821fc16";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "1e0d1e7ba9a09dd4aae49072cf992840725882bf";
+      rev = "50b9b1043716c9ff0e27ab862112b0ee6821fc16";
       fetchSubmodules = false;
-      sha256 = "sha256-8UTiXpSygi9WvsXuuRMcQ2H7Sm+TmZVr0D8V8CS629o=";
+      sha256 = "sha256-QOg41bfj8TVsO1OT+3gf9kW1bPfjfGpvK2pSr9TiTCg=";
     });
   };
   awestore = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "94f6257fde6bab821eb03725053ff3892811650f";
+    version = "ef14663934afdaeff1b6aaccc9590212a0fbcee5";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "94f6257fde6bab821eb03725053ff3892811650f";
+      rev = "ef14663934afdaeff1b6aaccc9590212a0fbcee5";
       fetchSubmodules = false;
-      sha256 = "sha256-bNowCmATELu8zYtGhM8Tydn3X9WBs1+Mhlrx7oy103s=";
+      sha256 = "sha256-y9X7aRxuFhxebl8HkjZtHlkmoT4auVC2EWH8h7D4VsE=";
     });
   };
   teams = {
@@ -1445,13 +1445,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "697c64fee55a19334894460b8e8d88ffc7551b2c";
+    version = "00b04162bc3e3ef6369a78a8b5859cfc0878c55a";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "697c64fee55a19334894460b8e8d88ffc7551b2c";
+      rev = "00b04162bc3e3ef6369a78a8b5859cfc0878c55a";
       fetchSubmodules = false;
-      sha256 = "sha256-x7ebLRWeVJMIZ4TXVOMREV20JfliNE7GBzuz1fTGGv4=";
+      sha256 = "sha256-h/NIGQkAE53O70L7EIG71zAREfMf4jII0Kl24nUcA0I=";
     });
   };
   whitesur-icon-theme = {
