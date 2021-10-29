@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "f24015e3c549633748b10ed8502a516ecb935cc7";
+    version = "3014fa68a9b7f63ce26d2fd0333852f1bbc66dc8";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "f24015e3c549633748b10ed8502a516ecb935cc7";
+      rev = "3014fa68a9b7f63ce26d2fd0333852f1bbc66dc8";
       fetchSubmodules = false;
-      sha256 = "sha256-6IMG6py9+uv2s+Wj4aPs0TGSfYjE+Kl4el+/INuu5CE=";
+      sha256 = "sha256-UqVP3/mbFauO8KJoKWhT2L35cbyPE9zdbn0sY41EVu8=";
     });
   };
   droidcam = {
@@ -394,10 +394,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "96.0.1054.2";
+    version = "96.0.1054.5";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1054.2-1_amd64.deb";
-      sha256 = "sha256-EGw5lzIGJadhzpNOHx9n/gNndNUE15OsL86kyLU6Hhw=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1054.5-1_amd64.deb";
+      sha256 = "sha256-+6IpBC+VxhKwPMp99xzn3PMrs/fYS/JkiijNIypd/k8=";
     };
   };
   minecraft-better-beds = {
@@ -828,14 +828,14 @@
   };
   snui = {
     pname = "snui";
-    version = "49eaf28d5a1f2a0eea19219c3e43305674f05bc0";
+    version = "09df835a4a7493c4aac52a7e1ab5924119d23aa0";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "49eaf28d5a1f2a0eea19219c3e43305674f05bc0";
+      rev = "09df835a4a7493c4aac52a7e1ab5924119d23aa0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-RqMrMKT7WJSFq0SXnrptQRkL/Q+pVL1Os0lZiu3LIfg=";
+      sha256 = "sha256-VhRDcdt/FBe0c/7baBLXlN2YEABKFqaoXZVorIjdMq4=";
     };
   };
   spicetify-cli = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "55b6753c113551c89e19561ec91eb5c262e53e58";
+    version = "cb87b7aa5bb9794d7654d6d7427405ce59d1528a";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "55b6753c113551c89e19561ec91eb5c262e53e58";
+      rev = "cb87b7aa5bb9794d7654d6d7427405ce59d1528a";
       fetchSubmodules = false;
-      sha256 = "sha256-X53PPGz7xaxp7bKc21pd9Kw9NmmCXhmU4IjABEAgNho=";
+      sha256 = "sha256-tH2KUZx3uDOs/BdBD0C+tlLqRMNalvRzdSKERuR2YFg=";
     });
   };
   teams = {
