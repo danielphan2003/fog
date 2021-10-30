@@ -1401,10 +1401,10 @@
   };
   vscode-extensions-svelte = {
     pname = "vscode-extensions-svelte";
-    version = "105.4.2";
+    version = "105.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.4.2/file/svelte.svelte-vscode-105.4.2.vsix";
-      sha256 = "sha256-pNrraiP83hd4TaMHqq9Q2uKwHZIZKPZy+EDKHwaxdGA=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.5.0/file/svelte.svelte-vscode-105.5.0.vsix";
+      sha256 = "sha256-JTbscWRHN4OZ5iBpVYbfZF94cW0F502MuAYegRi7jr8=";
     };
     homepage = "https://github.com/sveltejs/language-tools";
     license = "mit";
