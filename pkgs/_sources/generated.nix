@@ -410,10 +410,10 @@
   };
   minecraft-cull-leaves = {
     pname = "minecraft-cull-leaves";
-    version = "2.3.1";
+    version = "2.3.2";
     src = fetchurl {
-      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.3.1/cullleaves-2.3.1.jar";
-      sha256 = "sha256-+HfxLgqqVRjbVizda5HHaYzawjFPkGFoUtl2tTtxQgc=";
+      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.3.2/cullleaves-2.3.2.jar";
+      sha256 = "sha256-tNi43VJa/tLpKcsSEhIjYim6pYopTlBRCy3zdtNC6xQ=";
     };
   };
   minecraft-fabric-api = {
