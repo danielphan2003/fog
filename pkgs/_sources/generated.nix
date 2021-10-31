@@ -123,13 +123,13 @@
   };
   bling = {
     pname = "bling";
-    version = "2816b2124b6073b19b3b4937df66ef5f27423b8d";
+    version = "0688673dc4744f687b9afa4d7884ba190fdc203e";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "2816b2124b6073b19b3b4937df66ef5f27423b8d";
+      rev = "0688673dc4744f687b9afa4d7884ba190fdc203e";
       fetchSubmodules = false;
-      sha256 = "sha256-jywiMUjIkNEXAIJScaO0E8Q+ahHtn5+LsjIbK1xjE9g=";
+      sha256 = "sha256-Gxe5T9r+aqlxJTUWqrAfyLpIjM9uJqZebu2DxGM+0lY=";
     });
   };
   bottles = {
@@ -600,10 +600,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "353";
+    version = "354";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/353/downloads/paper-1.17.1-353.jar";
-      sha256 = "sha256-aaOoE9sCZC4UuIpxxazgIF8ZYUuY1DK9aBRB62lWJl4=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/354/downloads/paper-1.17.1-354.jar";
+      sha256 = "sha256-SyspHcnuSqlXcbALrIVFtujiKGauYyMNUNVOoMqqkGE=";
     };
   };
   picom = {
