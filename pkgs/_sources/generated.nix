@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "a7d99725c27b5e9d931990ac8adca2343b4047f3";
+    version = "b8841be47d15c4c5f117cd5f47f130277df0b558";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "a7d99725c27b5e9d931990ac8adca2343b4047f3";
+      rev = "b8841be47d15c4c5f117cd5f47f130277df0b558";
       fetchSubmodules = false;
-      sha256 = "sha256-gGo1tgi/eS4LYvZdISrJ/VxnwOaQK1SmqQ0x/7xq1Og=";
+      sha256 = "sha256-cajmtv6p7zGIXk54MKCSDoP+UD8yreZ4MWq5gb1X7pU=";
     });
   };
   droidcam = {
@@ -885,13 +885,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "eaa500fa083f24582c206ad2a9773541e62c1bd5";
+    version = "34295e843b3d4ee5d2d433079ecda7becf940cbe";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "eaa500fa083f24582c206ad2a9773541e62c1bd5";
+      rev = "34295e843b3d4ee5d2d433079ecda7becf940cbe";
       fetchSubmodules = false;
-      sha256 = "sha256-3Xc+5dVKdHO+vdc04yHGUS8kGg0kbREJIx3LnYtXm4o=";
+      sha256 = "sha256-MHlDHDjMhx73RxcQ9i5FvgbJZNwABgSMjeyIhfabeWk=";
     });
   };
   sway-borders = {
