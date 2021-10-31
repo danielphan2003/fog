@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "542acc3da4ef207fba3a6f2a280b8ecb2e7060f7";
+    version = "1e5c9a355b6abc360f463343f70da51605a8cb3f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "542acc3da4ef207fba3a6f2a280b8ecb2e7060f7";
+      rev = "1e5c9a355b6abc360f463343f70da51605a8cb3f";
       fetchSubmodules = false;
-      sha256 = "sha256-MLE5p75ZYLTTZnfHsEC0Qryx+s/5sygKA7qc3nNmCSU=";
+      sha256 = "sha256-M2KJP9+fq74S4150dtrQj/c8SRBki6+JcfyLbtfF9bI=";
     });
   };
   caddy = {
@@ -885,13 +885,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "0b0951e334aec5a9f23d14c22541481b5a7146f1";
+    version = "eaa500fa083f24582c206ad2a9773541e62c1bd5";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "0b0951e334aec5a9f23d14c22541481b5a7146f1";
+      rev = "eaa500fa083f24582c206ad2a9773541e62c1bd5";
       fetchSubmodules = false;
-      sha256 = "sha256-yzqP5iCMfJc0QA5ofNjEKe3jOPHgFMCamTmrRVEyj7c=";
+      sha256 = "sha256-3Xc+5dVKdHO+vdc04yHGUS8kGg0kbREJIx3LnYtXm4o=";
     });
   };
   sway-borders = {
