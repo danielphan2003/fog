@@ -418,10 +418,10 @@
   };
   minecraft-fabric-api = {
     pname = "minecraft-fabric-api";
-    version = "0.41.0+1.17";
+    version = "0.41.3+1.17";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.41.0+1.17/fabric-api-0.41.0+1.17.jar";
-      sha256 = "sha256-mMuSn5MR/7yYlccAt54erB/csuOiXgtVZPThUUel2Ms=";
+      url = "https://github.com/FabricMC/fabric/releases/download/0.41.3+1.17/fabric-api-0.41.3+1.17.jar";
+      sha256 = "sha256-nIEKIPnAfGb69GqOBG1FTwtVvDG092pRjOFBt1KkdKA=";
     };
   };
   minecraft-fast-furnace = {
