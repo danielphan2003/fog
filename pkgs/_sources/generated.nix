@@ -482,13 +482,13 @@
   };
   minecraft-wayland = {
     pname = "minecraft-wayland";
-    version = "4bae6847a3cdc7a5c9723e9c65c618ad7e5d09e6";
+    version = "5a49fbd9411782b21537b4ecef7e8136749bbdd4";
     src = fetchFromGitHub ({
       owner = "Admicos";
       repo = "minecraft-wayland";
-      rev = "4bae6847a3cdc7a5c9723e9c65c618ad7e5d09e6";
+      rev = "5a49fbd9411782b21537b4ecef7e8136749bbdd4";
       fetchSubmodules = false;
-      sha256 = "sha256-YBhm4tcLlgrx+aFH85f+tYESZ/c+cfp8jcsWAoqkHQc=";
+      sha256 = "sha256-vc/WLSrx4PEZJGtwIjaMveaQ06CU47hDjiWEBIRrs9I=";
     });
   };
   multimc-cracked = {
@@ -714,13 +714,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c88577850d2dab799aaa2b76500929cb34b0e118";
+    version = "4b16b4fe9a08ddaa63d03b0054cff74a7ecddaf1";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c88577850d2dab799aaa2b76500929cb34b0e118";
+      rev = "4b16b4fe9a08ddaa63d03b0054cff74a7ecddaf1";
       fetchSubmodules = false;
-      sha256 = "sha256-WDSEfl+eKgIONyGMT71dhScKHSA/67d7py9mSkWt57M=";
+      sha256 = "sha256-yT+KoImKEsH+WIb6T71ipTxgsd/xVsN7KMiX4aOdUOM=";
     });
   };
   rofi-wayland = {
