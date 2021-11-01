@@ -35,13 +35,13 @@
   };
   adl = {
     pname = "adl";
-    version = "e0d48efa16e4c8c4bb8f4e8b3b74f0fc5774616e";
+    version = "bad3cb6d17ed70f814747c1b6ae8ac307c46992b";
     src = fetchFromGitHub ({
       owner = "RaitaroH";
       repo = "adl";
-      rev = "e0d48efa16e4c8c4bb8f4e8b3b74f0fc5774616e";
+      rev = "bad3cb6d17ed70f814747c1b6ae8ac307c46992b";
       fetchSubmodules = false;
-      sha256 = "sha256-xMdQMFx/hjgWlIonXhG0v7AjnNHkK0qbRISH8iLcP4k=";
+      sha256 = "sha256-0WusE9WGxlfXjT1A41nQIM9Q7T3rk2JIieCksR7CsRg=";
     });
   };
   anbox = {
@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "1e419b44f504be941c8f460c44356bf716552963";
+    version = "88ee724caa2556eae81715af1b3adad921f8c24d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "1e419b44f504be941c8f460c44356bf716552963";
+      rev = "88ee724caa2556eae81715af1b3adad921f8c24d";
       fetchSubmodules = false;
-      sha256 = "sha256-1Zoy4+m8xZSyiasoc/liqJI6ykSiKz8beSrrA19+Qxo=";
+      sha256 = "sha256-m4r8wtdaxRp3315x6bV355S+bcivtcwDJLLULMwgRlM=";
     });
   };
   caddy = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3a2b0fc36c6611ae11ca650195e65a808895cc42";
+    version = "b02eb1d5c5e8cfa96e5da1891afe7436c631c513";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3a2b0fc36c6611ae11ca650195e65a808895cc42";
+      rev = "b02eb1d5c5e8cfa96e5da1891afe7436c631c513";
       fetchSubmodules = false;
-      sha256 = "sha256-ABVDyUw/ieGzeF6A5CDqeDr5pttvDZbl3WQR/07QID4=";
+      sha256 = "sha256-vhFsAdD3J6Ag1DRa894mlcK3wwTOzI9Qr4EiElzm1HY=";
     });
   };
   teams = {
@@ -1126,10 +1126,10 @@
   };
   vscode-extensions-dart-code = {
     pname = "vscode-extensions-dart-code";
-    version = "3.27.2";
+    version = "3.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.27.2/file/Dart-Code.dart-code-3.27.2.vsix";
-      sha256 = "sha256-AIi/Vap0y1ImjfhM6dIcceLszlpCzy+YRX5kUs/oNsk=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.28.0/file/Dart-Code.dart-code-3.28.0.vsix";
+      sha256 = "sha256-N2PwyJZS3FnXesS3OGB1traSjVWmXhluZ91lxCTwl0Y=";
     };
     homepage = "https://github.com/Dart-Code/Dart-Code";
     license = "mit";
@@ -1192,10 +1192,10 @@
   };
   vscode-extensions-flutter = {
     pname = "vscode-extensions-flutter";
-    version = "3.27.0";
+    version = "3.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.27.0/file/Dart-Code.flutter-3.27.0.vsix";
-      sha256 = "sha256-Yt1gWL1mFv75vPtude7Tzea9drqQqnlISPL3nZeLHoc=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.28.0/file/Dart-Code.flutter-3.28.0.vsix";
+      sha256 = "sha256-uASi6cWr8UgHZy0R8079DqswlzXh0EmWShvliOxVcpE=";
     };
     homepage = "https://github.com/Dart-Code/Flutter";
     license = "mit";
