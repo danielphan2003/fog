@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8d14bc32d182f8951ff080357a4838aff5b2bdef";
+    version = "3a2b0fc36c6611ae11ca650195e65a808895cc42";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8d14bc32d182f8951ff080357a4838aff5b2bdef";
+      rev = "3a2b0fc36c6611ae11ca650195e65a808895cc42";
       fetchSubmodules = false;
-      sha256 = "sha256-xtIJdHQcATl6AyivCoozPKBJZeFb5ZlkZln+oPYFPe0=";
+      sha256 = "sha256-ABVDyUw/ieGzeF6A5CDqeDr5pttvDZbl3WQR/07QID4=";
     });
   };
   teams = {
@@ -1431,6 +1431,17 @@
     homepage = "https://gitlab.com/versionlens/vscode-versionlens";
     license = "isc";
     description = "Shows the latest version for each package using code lens";
+  };
+  waydroid = {
+    pname = "waydroid";
+    version = "d03e10c132de8e03dff781868b3e37b7f7c7128a";
+    src = fetchFromGitHub ({
+      owner = "waydroid";
+      repo = "waydroid";
+      rev = "d03e10c132de8e03dff781868b3e37b7f7c7128a";
+      fetchSubmodules = false;
+      sha256 = "sha256-y2+rRwxZ4jrnWDEYruzjOQlLF2ERB4v+sGchPK5mrTU=";
+    });
   };
   wgcf = {
     pname = "wgcf";
