@@ -851,13 +851,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "06e85ca22c69a776c0a10495b49de7c72281cb31";
+    version = "5046217e28084f7eaf69543f1f7c1b7c276496cc";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "06e85ca22c69a776c0a10495b49de7c72281cb31";
+      rev = "5046217e28084f7eaf69543f1f7c1b7c276496cc";
       fetchSubmodules = false;
-      sha256 = "sha256-wthTDKWFEzLXoQOKz/eCy32Z5KVCTF4ow0oJyRQ9NrE=";
+      sha256 = "sha256-diKIBEbgru1iJ9JoU8HhRxj7ciuvc9IkSSXXqZP/iI0=";
     });
   };
   spotify = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "408b0923a61972ed8d0330721d0f46ecb32a3a6b";
+    version = "c3d7115e63e7e82a10bdeca569ff3438813ef441";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "408b0923a61972ed8d0330721d0f46ecb32a3a6b";
+      rev = "c3d7115e63e7e82a10bdeca569ff3438813ef441";
       fetchSubmodules = false;
-      sha256 = "sha256-p5xgny/DyBEDIrjUK2mEvXmjW+S7XUMg+3o7Es+lES8=";
+      sha256 = "sha256-x43jBRilTBAr8TriAewJ5VJMnKHYVx0VLEo7vZRI/5I=";
     });
   };
   teams = {
