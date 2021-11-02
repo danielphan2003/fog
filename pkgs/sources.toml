@@ -319,6 +319,10 @@ fetch.url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/tea
 src.git = "https://github.com/tailscale/tailscale"
 fetch.github = "tailscale/tailscale"
 
+[tailscale-systray]
+src.git = "https://github.com/mattn/tailscale-systray"
+fetch.github = "mattn/tailscale-systray"
+
 [trackma]
 src.git = "https://github.com/z411/trackma"
 fetch.url = "https://github.com/z411/trackma/archive/master.tar.gz"
