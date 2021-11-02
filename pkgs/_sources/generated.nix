@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "065aa98ce433410261f44de559474be3e7e9cfe4";
+    version = "5021457d568d208c2edc417b2cbd915b927ed857";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "065aa98ce433410261f44de559474be3e7e9cfe4";
+      rev = "5021457d568d208c2edc417b2cbd915b927ed857";
       fetchSubmodules = false;
-      sha256 = "sha256-vN5Yybu8NwOtGWj91giBeigfjV+IH3Jff16kjHf/grk=";
+      sha256 = "sha256-VjT6Vb0vKCY1UvS0jQOAAZfTrdQoxT3xAXgX/X/k6RA=";
     });
   };
   flyingfox = {
@@ -394,10 +394,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "96.0.1054.5";
+    version = "97.0.1060.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_96.0.1054.5-1_amd64.deb";
-      sha256 = "sha256-+6IpBC+VxhKwPMp99xzn3PMrs/fYS/JkiijNIypd/k8=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_97.0.1060.2-1_amd64.deb";
+      sha256 = "sha256-my/AO53G/qbrkc1rH2JmBGUVZkWYcJSKQN6c65ljBnk=";
     };
   };
   minecraft-better-beds = {
@@ -600,10 +600,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "358";
+    version = "359";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/358/downloads/paper-1.17.1-358.jar";
-      sha256 = "sha256-XrW1nfTSkzw+OwAQUzPY237Ry2ti2X5gM2oUO8Y0NMI=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/359/downloads/paper-1.17.1-359.jar";
+      sha256 = "sha256-a0Ewlxq1KjcN2fOEUUwdB9S7H4TqOQEkSO0x7tvoXHQ=";
     };
   };
   picom = {
