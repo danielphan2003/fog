@@ -101,13 +101,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "50b9b1043716c9ff0e27ab862112b0ee6821fc16";
+    version = "2eb035e1257c05aaaea33540e3db8dea504c2d13";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "50b9b1043716c9ff0e27ab862112b0ee6821fc16";
+      rev = "2eb035e1257c05aaaea33540e3db8dea504c2d13";
       fetchSubmodules = false;
-      sha256 = "sha256-QOg41bfj8TVsO1OT+3gf9kW1bPfjfGpvK2pSr9TiTCg=";
+      sha256 = "sha256-42N4RrVRNV2hBnlMpr7uDwf3RogbwL34gxjX4+JcYYI=";
     });
   };
   awestore = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6d82a1891680b95decb5051849a1cdb0fd7f7adc";
+    version = "f771327f0cd4bf04642b7b7171be17b242be798b";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6d82a1891680b95decb5051849a1cdb0fd7f7adc";
+      rev = "f771327f0cd4bf04642b7b7171be17b242be798b";
       fetchSubmodules = false;
-      sha256 = "sha256-Mcw/+gMiXgTH9PZwQL9vEeVmqyhm5+RshegIS3f18Zo=";
+      sha256 = "sha256-O+pNTyC3siXLk2qWU7vZtiW5AEyqNkcC0NTKrs4025E=";
     });
   };
   tailscale-systray = {
@@ -1531,14 +1531,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "c97397dc47f7a25858052f52dd9396ec564065b4";
+    version = "0099412ea4347b02e61ea21946f309f2535cc07b";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "c97397dc47f7a25858052f52dd9396ec564065b4";
+      rev = "0099412ea4347b02e61ea21946f309f2535cc07b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-VnvIVMXhwyo6dPj+GVy44ecPyqfqn5+v0ARz+GViaRc=";
+      sha256 = "sha256-d+UmTS85+OlgKReYrfwx5ESc3fBGu3o0NO5/GBZz1sk=";
     };
   };
   ydotool = {
