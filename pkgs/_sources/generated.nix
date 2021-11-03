@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "36f108812f2263ad0a650de00f2713b65f2b4ec5";
+    version = "fa0c5ea03af034f500ad0290bd27fb54f074ff7e";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "36f108812f2263ad0a650de00f2713b65f2b4ec5";
+      rev = "fa0c5ea03af034f500ad0290bd27fb54f074ff7e";
       fetchSubmodules = false;
-      sha256 = "sha256-KaYReFzZxzEJtd71dhsGhynVrhXD1PaKDH4cs8pL/eU=";
+      sha256 = "sha256-+/blRQZ9lV0nXUaE0fnWDLlMaEFrrw+o9t5C3hwdtTk=";
     });
   };
   caddy = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "61abb92af6f11510711b95475e0869e16386a0db";
+    version = "9a47d3bbfc2fb4bdb4cd409dced1dc0a5fa73346";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "61abb92af6f11510711b95475e0869e16386a0db";
+      rev = "9a47d3bbfc2fb4bdb4cd409dced1dc0a5fa73346";
       fetchSubmodules = false;
-      sha256 = "sha256-2yoNM32ARRPe1syKP5Ugbo/+r/THfF66HFBSA1Ud1Gc=";
+      sha256 = "sha256-j1h2+rvwqVEQpMT9cztgJiWc/O8djeJnjH2gPecfpAc=";
     });
   };
   droidcam = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "5021457d568d208c2edc417b2cbd915b927ed857";
+    version = "e4e7c901092e8efdce8be5402298e272ffa37a85";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "5021457d568d208c2edc417b2cbd915b927ed857";
+      rev = "e4e7c901092e8efdce8be5402298e272ffa37a85";
       fetchSubmodules = false;
-      sha256 = "sha256-VjT6Vb0vKCY1UvS0jQOAAZfTrdQoxT3xAXgX/X/k6RA=";
+      sha256 = "sha256-66qA25Mhxc0ZltpQrBwlarYhIQeQV+RNnqoIjpvBBcg=";
     });
   };
   flyingfox = {
