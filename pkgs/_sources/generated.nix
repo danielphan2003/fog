@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "399e64f78b5cd79787b02c322f89ab8a37349c1d";
+    version = "1f0d6d63161185f6b301a9d6cb68856cb9b3cb59";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "399e64f78b5cd79787b02c322f89ab8a37349c1d";
+      rev = "1f0d6d63161185f6b301a9d6cb68856cb9b3cb59";
       fetchSubmodules = false;
-      sha256 = "sha256-u6KUxEEa5OlhYbkPMA/EK/CQgXI9162XbfnsIi10FpQ=";
+      sha256 = "sha256-h6iQX410VjPVi2WIwJVGIyyaEaUYvAOEVqE+YFpp+kM=";
     });
   };
   caddy = {
@@ -714,13 +714,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "cbfbd14268029baf238cf2325678650c514f401d";
+    version = "6ad91b2b3741e778953dd3061d471f2f82253e67";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "cbfbd14268029baf238cf2325678650c514f401d";
+      rev = "6ad91b2b3741e778953dd3061d471f2f82253e67";
       fetchSubmodules = false;
-      sha256 = "sha256-MTEvwuF9rmzyff3h3YaUJoHOgY6atdMpR2OP2I/5ycU=";
+      sha256 = "sha256-3zZuFtk7nkyr0abAjh41sqv4bVnXaBZNPYl4D5WQ4FU=";
     });
   };
   rofi-wayland = {
@@ -1064,10 +1064,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.7.20";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.7.20/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-QQc3fGpKT9U7LDmRJ4oE9/ALPFDxno5zkE8yZgHka58=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-7ww4TyduUU2C0co2AvPpzas874dYt0KUljYPW+IAPN0=";
     };
     license = "mit";
   };
