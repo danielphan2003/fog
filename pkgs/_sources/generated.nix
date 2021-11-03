@@ -714,13 +714,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6ad91b2b3741e778953dd3061d471f2f82253e67";
+    version = "c5b20dff4136ad1255ce4ba2934fc4fa399ca6c7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6ad91b2b3741e778953dd3061d471f2f82253e67";
+      rev = "c5b20dff4136ad1255ce4ba2934fc4fa399ca6c7";
       fetchSubmodules = false;
-      sha256 = "sha256-3zZuFtk7nkyr0abAjh41sqv4bVnXaBZNPYl4D5WQ4FU=";
+      sha256 = "sha256-GnhxkIBuzlm5hrhuvDdBWD94vYP8giJCZCdnn7Tl+bI=";
     });
   };
   rofi-wayland = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f771327f0cd4bf04642b7b7171be17b242be798b";
+    version = "0532eb30dbba7bc5a467c29c929ca22eff3a5439";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f771327f0cd4bf04642b7b7171be17b242be798b";
+      rev = "0532eb30dbba7bc5a467c29c929ca22eff3a5439";
       fetchSubmodules = false;
-      sha256 = "sha256-O+pNTyC3siXLk2qWU7vZtiW5AEyqNkcC0NTKrs4025E=";
+      sha256 = "sha256-/og4rzo3ApPwG6SZOXU08fQXbVohJe+rECYUCk+fC8Q=";
     });
   };
   tailscale-systray = {
@@ -1489,10 +1489,10 @@
   };
   widevine-cdm = {
     pname = "widevine-cdm";
-    version = "4.10.2209.1";
+    version = "4.10.2391.0";
     src = fetchurl {
-      url = "https://dl.google.com/widevine-cdm/4.10.2209.1-linux-x64.zip";
-      sha256 = "sha256-jH3BjLZFSjR5KD73li+RCDgfI043KXv364N6+dXsy9Y=";
+      url = "https://dl.google.com/widevine-cdm/4.10.2391.0-linux-x64.zip";
+      sha256 = "sha256-7gH808C67m/s09e4rQUQHb/t+iGVdzW+YzrB1ZxGIdo=";
     };
   };
   wii-u-gc-adapter = {
