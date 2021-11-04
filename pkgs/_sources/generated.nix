@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "1f0d6d63161185f6b301a9d6cb68856cb9b3cb59";
+    version = "2b3613ec87cb787bde19c6f07b3fd6d8e09bad8f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "1f0d6d63161185f6b301a9d6cb68856cb9b3cb59";
+      rev = "2b3613ec87cb787bde19c6f07b3fd6d8e09bad8f";
       fetchSubmodules = false;
-      sha256 = "sha256-h6iQX410VjPVi2WIwJVGIyyaEaUYvAOEVqE+YFpp+kM=";
+      sha256 = "sha256-I7cJhQUnlTQGHrBD2Frfk6SSodIVc7BeYMBr/2qFO2A=";
     });
   };
   caddy = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "14294113d0f152e63d5c4ed8055ca8043e0ad6ce";
+    version = "8b7e96bf39d6a6a76ac17a5f60d724109b4f2c3c";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "14294113d0f152e63d5c4ed8055ca8043e0ad6ce";
+      rev = "8b7e96bf39d6a6a76ac17a5f60d724109b4f2c3c";
       fetchSubmodules = false;
-      sha256 = "sha256-+EXsBu/0Hh+ewZh+aCs8U+dhxbG/wNlDetSIKIcq5pg=";
+      sha256 = "sha256-T56LCzin5hGdVVPnbUWFyUwPwCRL3WIky/6V736fK+8=";
     });
   };
   droidcam = {
@@ -1536,14 +1536,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "b656b0aa5d41270fe60be245582f1ff6f1dbbb9c";
+    version = "80eeff3ebac772e25c9107199989e677457dbe06";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "b656b0aa5d41270fe60be245582f1ff6f1dbbb9c";
+      rev = "80eeff3ebac772e25c9107199989e677457dbe06";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ErABht/G9h22tsETajCzhpOApO2ExPPOKayyPdVRk+M=";
+      sha256 = "sha256-KEqQNtHVSaTLhnvVI+IAT9GQDCXW4iqzt0+0EGoA5fA=";
     };
   };
   ydotool = {
