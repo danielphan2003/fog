@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "0f8217ad60c7284b8b0539246260088e982edf98";
+    version = "17beb468f1ce5acf1438e17f7ed9490a5377f45c";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "0f8217ad60c7284b8b0539246260088e982edf98";
+      rev = "17beb468f1ce5acf1438e17f7ed9490a5377f45c";
       fetchSubmodules = false;
-      sha256 = "sha256-UxtbaAhBiPFiRkS2gyb0z4dkH8MS5sXh1vvM39gvqv8=";
+      sha256 = "sha256-ofgJ8hkUTR/tSjeT+bnekznbAtxusq/oy76LXMmylGc=";
     });
   };
   avizo = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "50b4a73654ae4bd92e75c6e435a3bc0ed37c7fe3";
+    version = "7ef21577f085db40353c4abfab732c80b9ad7495";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "50b4a73654ae4bd92e75c6e435a3bc0ed37c7fe3";
+      rev = "7ef21577f085db40353c4abfab732c80b9ad7495";
       fetchSubmodules = false;
-      sha256 = "sha256-s9Qv2t7mUQ74An42AWzfeTB9pmDVK9HR3oaSLGbTMl8=";
+      sha256 = "sha256-aZ72dHPjPn40aGoEJKWUMoRIdOJDulBTM/AJvJCuu9Q=";
     });
   };
   droidcam = {
@@ -301,13 +301,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "fbea5441fc53ae1d5533bed1ee53009141cf905a";
+    version = "28acfd433b3df1673b7c7177915c027ce48c061e";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "fbea5441fc53ae1d5533bed1ee53009141cf905a";
+      rev = "28acfd433b3df1673b7c7177915c027ce48c061e";
       fetchSubmodules = false;
-      sha256 = "sha256-UJwSskNip51WQBT9J3IZroj929gQFrDjUVxPNGQXZ4A=";
+      sha256 = "sha256-S5j+ymWxTTqv1v2W2wBavM5aausX+T20/XjF89JuVFo=";
     });
   };
   ibus-bamboo = {
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "574b850dd79658ec4d0f8a57f0f9784ec84c80cc";
+    version = "d3fd72ba63ca1e9611e4991ae38324215e9a70c2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "574b850dd79658ec4d0f8a57f0f9784ec84c80cc";
+      rev = "d3fd72ba63ca1e9611e4991ae38324215e9a70c2";
       fetchSubmodules = false;
-      sha256 = "sha256-RuyxUyYBOy5+NYaH+nL2lNWVIR7dS4DpN00eYQnkBb4=";
+      sha256 = "sha256-jT1+PB9DK4OpKr84lc/iMnAZ1NSpG5rE8eQTYrFFiLs=";
     });
   };
   rofi-wayland = {
