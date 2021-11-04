@@ -59,13 +59,12 @@
             imports = [ (digga.lib.importOverlays ./overlays) ];
             overlays = [
               digga.overlays.patchedNix
-
               nvfetcher.overlay
-
-              ./pkgs/default.nix
             ];
           };
-          latest = { };
+          latest = {
+            overlays = [ ./pkgs/default.nix ];
+          };
         };
 
         nixos.hostDefaults.channelName = "nixos";
