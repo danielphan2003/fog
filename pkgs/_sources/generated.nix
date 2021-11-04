@@ -605,10 +605,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "360";
+    version = "361";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/360/downloads/paper-1.17.1-360.jar";
-      sha256 = "sha256-5Zuo4KExIuEBuMB9+vycy1EguiFbgv4kr8/UO5vUmtY=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/361/downloads/paper-1.17.1-361.jar";
+      sha256 = "sha256-DvZhSf8uFBA6sWZDEw/jOTfpBkPepsSZ5IzIaQ+K+DM=";
     };
   };
   picom = {
@@ -1472,13 +1472,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "e854df45e8996eef746c4efc9665a0e963154d89";
+    version = "973da2b566db077fb8e8cd28c01aa93d114e4642";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "e854df45e8996eef746c4efc9665a0e963154d89";
+      rev = "973da2b566db077fb8e8cd28c01aa93d114e4642";
       fetchSubmodules = false;
-      sha256 = "sha256-S1G6VNakYRZ5yYLitDA/UjaPiewnSSvBwIYsVn9p1Zg=";
+      sha256 = "sha256-GCoYTynw7Mg44cUwB68wucsW7DOzd2wyASv0eSJeQjI=";
     });
   };
   whitesur-icon-theme = {
