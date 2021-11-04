@@ -62,7 +62,7 @@
 
               nvfetcher.overlay
 
-              (import ./pkgs { inherit inputs; })
+              ./pkgs/default.nix
             ];
           };
           latest = { };

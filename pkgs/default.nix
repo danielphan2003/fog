@@ -1,12 +1,11 @@
-{ inputs }:
+final: prev: {
+  # a hacky way so that we can run ` nix eval --raw '.#sources.${pname}.src' `
+  sources = final.emptyFile.overrideAttrs (_: {
+    passthru = final.callPackage ./_sources/generated.nix { };
+  });
 
-final: prev:
-let
-  inherit (prev.lib) mapAttrs removePrefix;
-  sources' = import ./_sources/generated.nix { inherit (final) fetchgit fetchurl fetchFromGitHub; };
-  sources =
-    mapAttrs
-      (pname: meta: meta // { version = removePrefix "v" meta.version; })
-      sources';
-in
-{ inherit sources; }
+  # this doesn't work
+  # sources = (final.callPackage ./_sources/generated.nix { }) // {
+  #   __dontExport = false;
+  # };
+}
