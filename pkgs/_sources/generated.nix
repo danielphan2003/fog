@@ -288,6 +288,17 @@
       outputHashes = { };
     };
   };
+  guiscrcpy = {
+    pname = "guiscrcpy";
+    version = "d7a36da78ec468e30a9a2eca5a013b259c298371";
+    src = fetchFromGitHub ({
+      owner = "srevinsaju";
+      repo = "guiscrcpy";
+      rev = "d7a36da78ec468e30a9a2eca5a013b259c298371";
+      fetchSubmodules = false;
+      sha256 = "sha256-Q0sMa5ULXj2RbR3fkEypt3iRWS9XmMjY0rSokz66Wls=";
+    });
+  };
   ibus = {
     pname = "ibus";
     version = "fbea5441fc53ae1d5533bed1ee53009141cf905a";
@@ -504,25 +515,19 @@
   };
   netdata = {
     pname = "netdata";
-    version = "v1.31.0";
-    src = fetchFromGitHub ({
-      owner = "netdata";
-      repo = "netdata";
-      rev = "v1.31.0";
-      fetchSubmodules = true;
-      sha256 = "sha256-M7KKhjXAQlb+/AIdt8+OnUjif+wMHswm/ehmSWtnZRw=";
-    });
+    version = "1.31.0";
+    src = fetchurl {
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.31.0.tar.gz";
+      sha256 = "sha256-4IjEtm4b4qttyKWbI3Yie++hlaESpIOJGRbsDwWA7UA=";
+    };
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "v0.30.0";
-    src = fetchFromGitHub ({
-      owner = "netdata";
-      repo = "go.d.plugin";
-      rev = "v0.30.0";
-      fetchSubmodules = false;
-      sha256 = "sha256-06ia72PcYsvylOWfvD0xPmb/ZP58gNndjumVn8/FCmk=";
-    });
+    version = "0.30.0";
+    src = fetchurl {
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.30.0.tar.gz";
+      sha256 = "sha256-Q4nzM7B+YaHC7nv9YFpaORKZ1+gE+bdHxBvByPqURCs=";
+    };
   };
   nix-zsh-completions = {
     pname = "nix-zsh-completions";
