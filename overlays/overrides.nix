@@ -4,6 +4,7 @@ channels: final: prev: {
 
   inherit (channels.latest)
     cachix
+    emptyFile
     nixpkgs-fmt
     nvchecker
     ;
