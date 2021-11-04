@@ -117,6 +117,10 @@ src.git = "https://github.com/YodaEmbedding/frece"
 fetch.github = "YodaEmbedding/frece"
 cargo_lock = "Cargo.lock"
 
+[guiscrcpy]
+src.git = "https://github.com/srevinsaju/guiscrcpy"
+fetch.github = "srevinsaju/guiscrcpy"
+
 [ibus]
 src.git = "https://github.com/ibus/ibus/"
 fetch.github = "ibus/ibus"
