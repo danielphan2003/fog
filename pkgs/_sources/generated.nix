@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "c3f1f235c14a0a21fca01150b03dddc03e213b04";
+    version = "14294113d0f152e63d5c4ed8055ca8043e0ad6ce";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "c3f1f235c14a0a21fca01150b03dddc03e213b04";
+      rev = "14294113d0f152e63d5c4ed8055ca8043e0ad6ce";
       fetchSubmodules = false;
-      sha256 = "sha256-HnZb6mvcruOLjpOSkJo+jBBF1DjOhN30Im8+ZWi5UuQ=";
+      sha256 = "sha256-+EXsBu/0Hh+ewZh+aCs8U+dhxbG/wNlDetSIKIcq5pg=";
     });
   };
   droidcam = {
@@ -600,10 +600,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "359";
+    version = "360";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/359/downloads/paper-1.17.1-359.jar";
-      sha256 = "sha256-a0Ewlxq1KjcN2fOEUUwdB9S7H4TqOQEkSO0x7tvoXHQ=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/360/downloads/paper-1.17.1-360.jar";
+      sha256 = "sha256-5Zuo4KExIuEBuMB9+vycy1EguiFbgv4kr8/UO5vUmtY=";
     };
   };
   picom = {
@@ -714,13 +714,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c5b20dff4136ad1255ce4ba2934fc4fa399ca6c7";
+    version = "4b95c5dc84236976c42eb1030227e3819540b0df";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c5b20dff4136ad1255ce4ba2934fc4fa399ca6c7";
+      rev = "4b95c5dc84236976c42eb1030227e3819540b0df";
       fetchSubmodules = false;
-      sha256 = "sha256-GnhxkIBuzlm5hrhuvDdBWD94vYP8giJCZCdnn7Tl+bI=";
+      sha256 = "sha256-6xl0KsaJjYbGBI5RpU6mJJ8HO6+8aWqHR7OeTD/nk9o=";
     });
   };
   rofi-wayland = {
@@ -918,13 +918,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "0532eb30dbba7bc5a467c29c929ca22eff3a5439";
+    version = "337757a819048f8f66d93ec926568fbcee5d93c6";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "0532eb30dbba7bc5a467c29c929ca22eff3a5439";
+      rev = "337757a819048f8f66d93ec926568fbcee5d93c6";
       fetchSubmodules = false;
-      sha256 = "sha256-/og4rzo3ApPwG6SZOXU08fQXbVohJe+rECYUCk+fC8Q=";
+      sha256 = "sha256-CpV/2ORd40erVlW1A06uN8nruM7v0B+0qdOWs28q4UA=";
     });
   };
   tailscale-systray = {
