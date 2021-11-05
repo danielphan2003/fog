@@ -172,13 +172,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "f6f63743ced0f30f5adb191375fe5f25c0ca1eb5";
+    version = "9e7221c31cab868b4908d5ff035bf51f906ba424";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "f6f63743ced0f30f5adb191375fe5f25c0ca1eb5";
+      rev = "9e7221c31cab868b4908d5ff035bf51f906ba424";
       fetchSubmodules = false;
-      sha256 = "sha256-ZJo6tOfJX4tIM5Z09izWqJDZBdA47cjVgVhlVHgq79Y=";
+      sha256 = "sha256-eFXzwiScers1Qc9/MYHzc5om1RPtwQZMAksFUjhdZZs=";
     });
   };
   doggo = {
@@ -227,16 +227,16 @@
   };
   eww = {
     pname = "eww";
-    version = "955271bbd57a997032a3a72d0f6a09e5bc11c945";
+    version = "45badb7f38bc5996f7c9284a82348bee69e1c581";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "955271bbd57a997032a3a72d0f6a09e5bc11c945";
+      rev = "45badb7f38bc5996f7c9284a82348bee69e1c581";
       fetchSubmodules = false;
-      sha256 = "sha256-ql9wi3Dq/1m8c0OORKnACbL1HbDd3gnDIBPvbFtlHCM=";
+      sha256 = "sha256-8g1gYkRBjH8nfreoi3myd3CF0AWzh+iIRZVjHYxkB0g=";
     });
     cargoLock = {
-      lockFile = ./eww-955271bbd57a997032a3a72d0f6a09e5bc11c945/Cargo.lock;
+      lockFile = ./eww-45badb7f38bc5996f7c9284a82348bee69e1c581/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8af0c2755deba9f68d42239df4fb4575bb89853c";
+    version = "15321b25883bbbb92b51cdc8675ecff75c840f4c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8af0c2755deba9f68d42239df4fb4575bb89853c";
+      rev = "15321b25883bbbb92b51cdc8675ecff75c840f4c";
       fetchSubmodules = false;
-      sha256 = "sha256-cv9QHCfly9Cl7DD7HhFfQXv8GxKiATRIZqzJVtm9O0A=";
+      sha256 = "sha256-2H6YNZk+yCI7Iet12hDTKzD6FPu9ItmcrL2dUhsgBI4=";
     });
   };
   rofi-wayland = {
@@ -1153,10 +1153,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.67.0";
+    version = "0.67.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.67.0/file/dendron.dendron-0.67.0.vsix";
-      sha256 = "sha256-+0p+rW0QF0IsK0lztc5SaOP+s3rAT98Bix8P6GDs2c0=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.67.1/file/dendron.dendron-0.67.1.vsix";
+      sha256 = "sha256-Nz2opwK5emjJOVRU//5llIAhkmRX1oRg0pzMQes0aPg=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
