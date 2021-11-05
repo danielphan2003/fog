@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "aab62669a07008ce5516138c6d3d6e9ce90badfe";
+    version = "76335a931afec0e8b1c6c25847509a058093b9d2";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "aab62669a07008ce5516138c6d3d6e9ce90badfe";
+      rev = "76335a931afec0e8b1c6c25847509a058093b9d2";
       fetchSubmodules = false;
-      sha256 = "sha256-ehbDxwMRs/V9Dw7UeX6/ttvNaSmCA8Q5VVyDSFsUHt4=";
+      sha256 = "sha256-CTDDMcHvnlGwWnDtHAnDxvPnAiogyXLQLp1x87c2YCc=";
     });
   };
   caddy = {
@@ -429,10 +429,10 @@
   };
   minecraft-fabric-api = {
     pname = "minecraft-fabric-api";
-    version = "0.41.3+1.17";
+    version = "0.42.0+1.17";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.41.3+1.17/fabric-api-0.41.3+1.17.jar";
-      sha256 = "sha256-nIEKIPnAfGb69GqOBG1FTwtVvDG092pRjOFBt1KkdKA=";
+      url = "https://github.com/FabricMC/fabric/releases/download/0.42.0+1.17/fabric-api-0.42.0+1.17.jar";
+      sha256 = "sha256-RSZBhrO4ZF7KKBpBsmoaGE8kh3q82eaZ4SnQbAGUAH8=";
     };
   };
   minecraft-fast-furnace = {
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "96053e14a758c16156eb0fc9d42fba92a7004a0c";
+    version = "0a209c45647e64934c6b4ee49b3a634afbdb4154";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "96053e14a758c16156eb0fc9d42fba92a7004a0c";
+      rev = "0a209c45647e64934c6b4ee49b3a634afbdb4154";
       fetchSubmodules = false;
-      sha256 = "sha256-6fbPujuTXKaMsi9s5I7orW2qr9dsuV9wKJGISFj4ZtE=";
+      sha256 = "sha256-4roEjdvkcJ85eesdOLxhPgum4cKxOTRDxhDyBs518L0=";
     });
   };
   rofi-wayland = {
