@@ -123,13 +123,13 @@
   };
   bling = {
     pname = "bling";
-    version = "0d8df18e02c2afa801f37d1b1a4a575f534944a9";
+    version = "e4fd438e3ed75c4dc57241d546c3c27779eb4e1d";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "0d8df18e02c2afa801f37d1b1a4a575f534944a9";
+      rev = "e4fd438e3ed75c4dc57241d546c3c27779eb4e1d";
       fetchSubmodules = false;
-      sha256 = "sha256-yaAP2bLBpi32lZCAkzO9QRbVEk39NfGlOzMx13RO4+4=";
+      sha256 = "sha256-/Fice3UmoYhFpuxjzKYQl7qeq0iN0MosVz54MtdbG4c=";
     });
   };
   bottles = {
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "21beb6064abd489949e5d48b8c5d7ca121501835";
+    version = "8af0c2755deba9f68d42239df4fb4575bb89853c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "21beb6064abd489949e5d48b8c5d7ca121501835";
+      rev = "8af0c2755deba9f68d42239df4fb4575bb89853c";
       fetchSubmodules = false;
-      sha256 = "sha256-55gWtZD5a28onok5NgbCpjtkbuuEhO1zOyne0jEj1Bc=";
+      sha256 = "sha256-cv9QHCfly9Cl7DD7HhFfQXv8GxKiATRIZqzJVtm9O0A=";
     });
   };
   rofi-wayland = {
@@ -1364,10 +1364,10 @@
   };
   vscode-extensions-pubspec-assist = {
     pname = "vscode-extensions-pubspec-assist";
-    version = "2.3.0";
+    version = "2.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeroen-meijer/pubspec-assist/2.3.0/file/jeroen-meijer.pubspec-assist-2.3.0.vsix";
-      sha256 = "sha256-4AJkQPSbewtSgPgq8g5Q/HM43XwSmhwfw0Mrg+VIotI=";
+      url = "https://open-vsx.org/api/jeroen-meijer/pubspec-assist/2.3.2/file/jeroen-meijer.pubspec-assist-2.3.2.vsix";
+      sha256 = "sha256-FwP1Eu7aASOSlb9NuVUOFyeFNPh+avLjLpwdsZYsNEs=";
     };
     homepage = "https://github.com/jeroen-meijer/pubspec-assist";
     license = "mit";
