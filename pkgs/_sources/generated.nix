@@ -469,10 +469,10 @@
   };
   minecraft-lithium = {
     pname = "minecraft-lithium";
-    version = "0.7.4";
+    version = "0.7.5";
     src = fetchurl {
-      url = "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.17.1-0.7.4/lithium-fabric-mc1.17.1-0.7.4.jar";
-      sha256 = "sha256-zhWU05I9aqC1sZPqs67b+eU0jpjDhex4i+ZvADL1jnM=";
+      url = "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar";
+      sha256 = "sha256-HADtQ51u6ZBqHS3q9wZeOYAz96E2vFPSmL4sxjYoMhA=";
     };
   };
   minecraft-sodium = {
@@ -605,10 +605,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "369";
+    version = "370";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/369/downloads/paper-1.17.1-369.jar";
-      sha256 = "sha256-yfNGYPkVSIv3K2tdBNUomZIpvagwUAev0wajQ8pOHsE=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/370/downloads/paper-1.17.1-370.jar";
+      sha256 = "sha256-vqEwldKpp5xjPTqXhEB++cxUmYHV2fWUhNVtc6lzODQ=";
     };
   };
   picom = {
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "367ac6ce46e77065022f98df154bffbecd9cd42d";
+    version = "96053e14a758c16156eb0fc9d42fba92a7004a0c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "367ac6ce46e77065022f98df154bffbecd9cd42d";
+      rev = "96053e14a758c16156eb0fc9d42fba92a7004a0c";
       fetchSubmodules = false;
-      sha256 = "sha256-Eu4hphc7C/NmqVtxWMBd7GmIT8GfobL9RCmN5f70EBk=";
+      sha256 = "sha256-6fbPujuTXKaMsi9s5I7orW2qr9dsuV9wKJGISFj4ZtE=";
     });
   };
   rofi-wayland = {
@@ -901,13 +901,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "58a32d8130c3b8642566e591947e585ed3ebcc41";
+    version = "d8012358055f55a6bff883c47c1b2f7391c43d3b";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "58a32d8130c3b8642566e591947e585ed3ebcc41";
+      rev = "d8012358055f55a6bff883c47c1b2f7391c43d3b";
       fetchSubmodules = false;
-      sha256 = "sha256-MPTG/CwKju6KuHNRMFmqsFHfhm1omCT2UbBTorLJIl0=";
+      sha256 = "sha256-SkfKiFa6KkRxYL/7lR0NXb+EXoGWgev0EEoCsgV54as=";
     });
   };
   swaylock-effects = {
