@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "23936050bf7a3c96b8343aab10268c7ef98261f7";
+    version = "aab62669a07008ce5516138c6d3d6e9ce90badfe";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "23936050bf7a3c96b8343aab10268c7ef98261f7";
+      rev = "aab62669a07008ce5516138c6d3d6e9ce90badfe";
       fetchSubmodules = false;
-      sha256 = "sha256-3D/ecSKVe2zIZWrU59To1MnNwozxzD89kUxVCosVVVw=";
+      sha256 = "sha256-ehbDxwMRs/V9Dw7UeX6/ttvNaSmCA8Q5VVyDSFsUHt4=";
     });
   };
   caddy = {
@@ -605,10 +605,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "365";
+    version = "366";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/365/downloads/paper-1.17.1-365.jar";
-      sha256 = "sha256-g8Vqa8Lx4eG4Y1z+d99I2WRcvwNkfhXXT0OZG3tzSm8=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/366/downloads/paper-1.17.1-366.jar";
+      sha256 = "sha256-M5f4M/baMAZ1/wefsNfsHdOrErl1WL7CTNSeF2ZyQeI=";
     };
   };
   picom = {
