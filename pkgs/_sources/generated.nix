@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "7ef21577f085db40353c4abfab732c80b9ad7495";
+    version = "d91902b301f202c38f189ef2ac7d1a60746aacee";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "7ef21577f085db40353c4abfab732c80b9ad7495";
+      rev = "d91902b301f202c38f189ef2ac7d1a60746aacee";
       fetchSubmodules = false;
-      sha256 = "sha256-aZ72dHPjPn40aGoEJKWUMoRIdOJDulBTM/AJvJCuu9Q=";
+      sha256 = "sha256-7EMuUXr9T/0HdyQrc80+GEao2bAFFAgLYs1+nzKjG8o=";
     });
   };
   droidcam = {
@@ -605,10 +605,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "364";
+    version = "365";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/364/downloads/paper-1.17.1-364.jar";
-      sha256 = "sha256-PU1EplqpyVjlLrK2iF5+Eb9+TXzznGvy4w0YoU7z0fM=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/365/downloads/paper-1.17.1-365.jar";
+      sha256 = "sha256-g8Vqa8Lx4eG4Y1z+d99I2WRcvwNkfhXXT0OZG3tzSm8=";
     };
   };
   picom = {
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d3fd72ba63ca1e9611e4991ae38324215e9a70c2";
+    version = "97753bad7cda4157561d41b0c17fcbcfdead08fe";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d3fd72ba63ca1e9611e4991ae38324215e9a70c2";
+      rev = "97753bad7cda4157561d41b0c17fcbcfdead08fe";
       fetchSubmodules = false;
-      sha256 = "sha256-jT1+PB9DK4OpKr84lc/iMnAZ1NSpG5rE8eQTYrFFiLs=";
+      sha256 = "sha256-PUQJKkYRsrjMxeEcKV46SW1hlgeBV+8HBFOSSlJnspE=";
     });
   };
   rofi-wayland = {
