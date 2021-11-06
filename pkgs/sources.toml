@@ -216,6 +216,14 @@ fetch.github = "yshui/picom"
 src.git = "https://github.com/adi1090x/plymouth-themes"
 fetch.github = "adi1090x/plymouth-themes"
 
+[pmbootstrap]
+src.pypi = "pmbootstrap"
+fetch.pypi = "pmbootstrap"
+
+[pmbootstrap-test]
+src.git = "https://gitlab.com/postmarketOS/pmbootstrap"
+fetch.git = "https://gitlab.com/postmarketOS/pmbootstrap"
+
 [pure]
 src.git = "https://github.com/sindresorhus/pure"
 fetch.github = "sindresorhus/pure"
