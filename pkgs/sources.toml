@@ -172,7 +172,7 @@ src.git = "https://github.com/Admicos/minecraft-wayland"
 fetch.github = "Admicos/minecraft-wayland"
 
 [multimc-cracked]
-src.manual = "9069e9c9d0b7951c310fdcc8bdc70ebc422a7634"
+src.git = "https://github.com/AfoninZ/MultiMC5-Cracked"
 fetch.github = "AfoninZ/MultiMC5-Cracked"
 git.fetchSubmodules = true
 
