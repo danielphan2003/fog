@@ -605,10 +605,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "372";
+    version = "373";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/372/downloads/paper-1.17.1-372.jar";
-      sha256 = "sha256-6vJDdxdpcfOmsOQFrBGfybGAisWJY0p7y53vybW6oNo=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/373/downloads/paper-1.17.1-373.jar";
+      sha256 = "sha256-QVeWTbwpvFYdUYNbrvGvomGNEutxUACwzWEjlUKr7Uc=";
     };
   };
   picom = {
@@ -635,22 +635,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.38.0";
+    version = "1.39.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.38.0.tar.gz";
-      sha256 = "sha256-y+paqwIwaX0c1rwzkxPaTCtLaSWb40hmzznQc4z2nx4=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.39.0.tar.gz";
+      sha256 = "sha256-/zO35/PktFkeucAii2SyRJto5Oih/oisa/Tx2sFqeY4=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "6557e6892a7309c1d44261237651afab908e53d9";
+    version = "498738abcc8a9f51792540b0943648a3fdc70e2f";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "6557e6892a7309c1d44261237651afab908e53d9";
+      rev = "498738abcc8a9f51792540b0943648a3fdc70e2f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5bOF59euhoL7nbg7Gt1ggoAEluPgpCeDAYGxuX6P0Qs=";
+      sha256 = "sha256-A5mhLtTNKj9EeV1KrJe56AEVk49W1MqESI3L4Ut8MFc=";
     };
   };
   pure = {
