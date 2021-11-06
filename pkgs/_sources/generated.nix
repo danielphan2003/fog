@@ -290,13 +290,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "d7a36da78ec468e30a9a2eca5a013b259c298371";
+    version = "6dedbf9b6e5079e49c167bf2ca11f58bdf1e67cb";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "d7a36da78ec468e30a9a2eca5a013b259c298371";
+      rev = "6dedbf9b6e5079e49c167bf2ca11f58bdf1e67cb";
       fetchSubmodules = false;
-      sha256 = "sha256-Q0sMa5ULXj2RbR3fkEypt3iRWS9XmMjY0rSokz66Wls=";
+      sha256 = "sha256-eEz7pgLGZNrRUBcEQf8vs067WR54oFSMrZwG6PtA6bk=";
     });
   };
   ibus = {
@@ -572,16 +572,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "43fb2749566ad554adfc560f50e65acff8f1d90d";
+    version = "abf1d4e3e40e9064c7a184883fb3478c440c6c08";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "43fb2749566ad554adfc560f50e65acff8f1d90d";
+      rev = "abf1d4e3e40e9064c7a184883fb3478c440c6c08";
       fetchSubmodules = false;
-      sha256 = "sha256-EVx4oN8YjDKcPgwR09IaF5E4WpmVse9Q8vhqw8ztF/s=";
+      sha256 = "sha256-OTqOZTL4DxphhNNAdTj+QNHonMBylSn3YDzpX2QsLhQ=";
     });
     cargoLock = {
-      lockFile = ./ouch-43fb2749566ad554adfc560f50e65acff8f1d90d/Cargo.lock;
+      lockFile = ./ouch-abf1d4e3e40e9064c7a184883fb3478c440c6c08/Cargo.lock;
       outputHashes = { };
     };
   };
