@@ -643,14 +643,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "0664a38190374a86a0252a765c693ff891f4eee4";
+    version = "05f257295d0697f5eea1d3c60fd1de0074c80306";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "0664a38190374a86a0252a765c693ff891f4eee4";
+      rev = "05f257295d0697f5eea1d3c60fd1de0074c80306";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2ncCoiEp3wYP4itcVT95tDzzkrjmQYoTO9p3Yk9DnKI=";
+      sha256 = "sha256-9fl7mo8KbNSYyozYbDTfycjL7JWSGdahELArn5JMBd8=";
     };
   };
   pure = {
@@ -739,13 +739,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "139eaad6274c4b9595b70623eb03e361d68a66cc";
+    version = "c0585fed60ce42159085176ebd64f6a3a6c00e27";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "139eaad6274c4b9595b70623eb03e361d68a66cc";
+      rev = "c0585fed60ce42159085176ebd64f6a3a6c00e27";
       fetchSubmodules = false;
-      sha256 = "sha256-6xW2Pea0/feNdDAWCB4d1lH/Le8b+8P/uVv8afBRL/E=";
+      sha256 = "sha256-VUyHqrVVS9/OjL+VVwG45EuvC8n9Mv7OlJLNNh1t3FY=";
     });
   };
   rofi-wayland = {
