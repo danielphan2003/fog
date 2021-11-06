@@ -633,6 +633,26 @@
       sha256 = "sha256-VNGvA8ujwjpC2rTVZKrXni2GjfiZk7AgAn4ZB4Baj2k=";
     });
   };
+  pmbootstrap = {
+    pname = "pmbootstrap";
+    version = "1.38.0";
+    src = fetchurl {
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.38.0.tar.gz";
+      sha256 = "sha256-y+paqwIwaX0c1rwzkxPaTCtLaSWb40hmzznQc4z2nx4=";
+    };
+  };
+  pmbootstrap-test = {
+    pname = "pmbootstrap-test";
+    version = "7541a0ca363958a32daa9d033c65cbe0e5aea069";
+    src = fetchgit {
+      url = "https://gitlab.com/postmarketOS/pmbootstrap";
+      rev = "7541a0ca363958a32daa9d033c65cbe0e5aea069";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-n4pJGsENvrys6mmS+Kx09B5kPb4n8b78SGCuwgeMkF0=";
+    };
+  };
   pure = {
     pname = "pure";
     version = "90dc9cf908481cc155e1ce5611f684916523fc30";
@@ -719,13 +739,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "61d30cdc31636b8829b3d1358e778e52f42e2202";
+    version = "830960027e5f20dcf65245c3d73939d786a71465";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "61d30cdc31636b8829b3d1358e778e52f42e2202";
+      rev = "830960027e5f20dcf65245c3d73939d786a71465";
       fetchSubmodules = false;
-      sha256 = "sha256-GpAPmj1S4wWS1hlnLSHnlzukPtSCyd7o8ZZhqh6Xdhg=";
+      sha256 = "sha256-6TfBrwXPYFI0cMDWz7Ip6Jf2wtJjmhiHfUVOtQU8mcY=";
     });
   };
   rofi-wayland = {
