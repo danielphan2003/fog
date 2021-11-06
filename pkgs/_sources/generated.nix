@@ -504,13 +504,13 @@
   };
   multimc-cracked = {
     pname = "multimc-cracked";
-    version = "9069e9c9d0b7951c310fdcc8bdc70ebc422a7634";
+    version = "e5245bac484553f4bf14319fe91fcd97e9352144";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "9069e9c9d0b7951c310fdcc8bdc70ebc422a7634";
+      rev = "e5245bac484553f4bf14319fe91fcd97e9352144";
       fetchSubmodules = true;
-      sha256 = "sha256-dLX1hxM+pfCZdNTeQT6cFhAkqXhBtEXiamOODOobzls=";
+      sha256 = "sha256-nK5Fb1mKvGc2JB6AeLFNmq1NZxolI07X/4guwrhkrrs=";
     });
   };
   netdata = {
@@ -572,16 +572,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "5a53e5725e42bfbeb08806d7f59681cce400782f";
+    version = "739a52f00e3ecfc241ac0c7049cd95aaa0521cd7";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "5a53e5725e42bfbeb08806d7f59681cce400782f";
+      rev = "739a52f00e3ecfc241ac0c7049cd95aaa0521cd7";
       fetchSubmodules = false;
-      sha256 = "sha256-D2ZpOwAE3FlYgjbEjhAxurC+mTZXB9qR0obFGxeJXSE=";
+      sha256 = "sha256-KYr/w5mVFenxrrp47JjqB2ruM4DbflRRU7cnfpd1YUs=";
     });
     cargoLock = {
-      lockFile = ./ouch-5a53e5725e42bfbeb08806d7f59681cce400782f/Cargo.lock;
+      lockFile = ./ouch-739a52f00e3ecfc241ac0c7049cd95aaa0521cd7/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a594ccd81ced83945cc529e1bfd159b4b6c02ab4";
+    version = "89fd900429941f457286f8d5b6858032abcc186a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a594ccd81ced83945cc529e1bfd159b4b6c02ab4";
+      rev = "89fd900429941f457286f8d5b6858032abcc186a";
       fetchSubmodules = false;
-      sha256 = "sha256-TuDgz5gFdkz/mC5m7T+Y+TcU1NWpGG1URr/AC2YhLBU=";
+      sha256 = "sha256-Jfo9rep5zasKriAMTbalNl0ORuYvwJF6Pfuml5A5MVg=";
     });
   };
   rofi-wayland = {
