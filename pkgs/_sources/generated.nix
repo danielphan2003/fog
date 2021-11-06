@@ -572,16 +572,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "739a52f00e3ecfc241ac0c7049cd95aaa0521cd7";
+    version = "43fb2749566ad554adfc560f50e65acff8f1d90d";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "739a52f00e3ecfc241ac0c7049cd95aaa0521cd7";
+      rev = "43fb2749566ad554adfc560f50e65acff8f1d90d";
       fetchSubmodules = false;
-      sha256 = "sha256-KYr/w5mVFenxrrp47JjqB2ruM4DbflRRU7cnfpd1YUs=";
+      sha256 = "sha256-EVx4oN8YjDKcPgwR09IaF5E4WpmVse9Q8vhqw8ztF/s=";
     });
     cargoLock = {
-      lockFile = ./ouch-739a52f00e3ecfc241ac0c7049cd95aaa0521cd7/Cargo.lock;
+      lockFile = ./ouch-43fb2749566ad554adfc560f50e65acff8f1d90d/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -719,13 +719,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "0c0b86c4cf6d2ece7f56829781442ecfbcca80c7";
+    version = "61d30cdc31636b8829b3d1358e778e52f42e2202";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "0c0b86c4cf6d2ece7f56829781442ecfbcca80c7";
+      rev = "61d30cdc31636b8829b3d1358e778e52f42e2202";
       fetchSubmodules = false;
-      sha256 = "sha256-ihCNN5v4q0ndb5QzShnBKKwIzLLtqnjH8QHPSZ5FmCg=";
+      sha256 = "sha256-GpAPmj1S4wWS1hlnLSHnlzukPtSCyd7o8ZZhqh6Xdhg=";
     });
   };
   rofi-wayland = {
