@@ -504,13 +504,13 @@
   };
   multimc-cracked = {
     pname = "multimc-cracked";
-    version = "ac69560153a0d0c4b036466a452b7b0c07f34ac0";
+    version = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "ac69560153a0d0c4b036466a452b7b0c07f34ac0";
+      rev = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
       fetchSubmodules = true;
-      sha256 = "sha256-C0z7aY4Db1dlT/Vm4zduLHVsb2mbaUFiPjdMXlGTkXw=";
+      sha256 = "sha256-bLOGhRkxux8qAX5Nvj29gk3LW2HEHurXgso+y7G+N50=";
     });
   };
   netdata = {
@@ -943,13 +943,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b3abdc381d99bd9a7bdc8c084aaa174d7b45e881";
+    version = "87137405e5e25ddf067952b73986675e307bba58";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b3abdc381d99bd9a7bdc8c084aaa174d7b45e881";
+      rev = "87137405e5e25ddf067952b73986675e307bba58";
       fetchSubmodules = false;
-      sha256 = "sha256-fTUSHSJJqewfq3OSGJysH9qko2Th+E7UcQMJNzXRVdk=";
+      sha256 = "sha256-Y1RD8wvXglQgPmEa61ap3mFOBQWjxCTFh+yFS4WFZdQ=";
     });
   };
   tailscale-systray = {
