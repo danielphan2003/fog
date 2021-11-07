@@ -739,13 +739,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "88c771fc6687f8266bac9a4eea8c89c329178b65";
+    version = "673d77284dfeb51bb1e48542ad6d062a08aec7e3";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "88c771fc6687f8266bac9a4eea8c89c329178b65";
+      rev = "673d77284dfeb51bb1e48542ad6d062a08aec7e3";
       fetchSubmodules = false;
-      sha256 = "sha256-4ZqCZoZHinkFCoOM6lVscFnVCTu4Q0kuL8iAc15pu+w=";
+      sha256 = "sha256-nnwbEkqIOqFOuaYBFlu/a3b8VAm7pLPUjQQUQhjQBxw=";
     });
   };
   rofi-wayland = {
@@ -761,16 +761,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "231231e51f5310c719a8c41e6abdf3d697a5d5a1";
+    version = "e6bd5b06989964fb8f6dda425d727575a54f7f36";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "231231e51f5310c719a8c41e6abdf3d697a5d5a1";
+      rev = "e6bd5b06989964fb8f6dda425d727575a54f7f36";
       fetchSubmodules = false;
-      sha256 = "sha256-llQiDyIeN2WW7GojiKOsxJmUntugJLw1gxkZXZ8N9nU=";
+      sha256 = "sha256-XnlpZjDFvCOg0wTyHNIPy/jJKqZ+vMCxNthka/HYoDU=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-231231e51f5310c719a8c41e6abdf3d697a5d5a1/Cargo.lock;
+      lockFile = ./rustdesk-e6bd5b06989964fb8f6dda425d727575a54f7f36/Cargo.lock;
       outputHashes = {
         "magnum-opus-0.3.4-2" = "sha256-3Bl4jyDg5E9zzADdz7jM5SY2HYksokE1jS/ocE/iXcc=";
         "rust-pulsectl-0.2.10" = "sha256-fJcd4aNixFW4dqp+RoHEYQKq78iYZsNa4SpopMIh8Fg=";
@@ -865,13 +865,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "d55196ddb70bde2556a07abf69c781edd51b4cdb";
+    version = "a73abb6fbf13d337fa9f7c327bc078e0cad5941a";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "d55196ddb70bde2556a07abf69c781edd51b4cdb";
+      rev = "a73abb6fbf13d337fa9f7c327bc078e0cad5941a";
       fetchSubmodules = false;
-      sha256 = "sha256-2bYwbKM5naeRc3rZ2Ma0kFsO3tL1efGur0wyPy13YYg=";
+      sha256 = "sha256-dkg08dq3Xg3+1hHsuuqGLI3CxSq+T4f/md9Qq2DC1xo=";
     });
   };
   spicetify-themes = {
