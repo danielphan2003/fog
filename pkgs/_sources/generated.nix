@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "17beb468f1ce5acf1438e17f7ed9490a5377f45c";
+    version = "f8932dced142ec5ea633bfb163bfc7579ac38a07";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "17beb468f1ce5acf1438e17f7ed9490a5377f45c";
+      rev = "f8932dced142ec5ea633bfb163bfc7579ac38a07";
       fetchSubmodules = false;
-      sha256 = "sha256-ofgJ8hkUTR/tSjeT+bnekznbAtxusq/oy76LXMmylGc=";
+      sha256 = "sha256-CtfcxuQCUtkUVyR7EgXXsZxlIQTOl0pScMvLBu4VhK4=";
     });
   };
   avizo = {
@@ -504,13 +504,13 @@
   };
   multimc-cracked = {
     pname = "multimc-cracked";
-    version = "e5245bac484553f4bf14319fe91fcd97e9352144";
+    version = "ac69560153a0d0c4b036466a452b7b0c07f34ac0";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "e5245bac484553f4bf14319fe91fcd97e9352144";
+      rev = "ac69560153a0d0c4b036466a452b7b0c07f34ac0";
       fetchSubmodules = true;
-      sha256 = "sha256-nK5Fb1mKvGc2JB6AeLFNmq1NZxolI07X/4guwrhkrrs=";
+      sha256 = "sha256-C0z7aY4Db1dlT/Vm4zduLHVsb2mbaUFiPjdMXlGTkXw=";
     });
   };
   netdata = {
