@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "24fda7514ddeebf19a1e872343b45ec523eefcba";
+    version = "749e55c738bf702b5f1265f85018c450a7b4e3b4";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "24fda7514ddeebf19a1e872343b45ec523eefcba";
+      rev = "749e55c738bf702b5f1265f85018c450a7b4e3b4";
       fetchSubmodules = false;
-      sha256 = "sha256-kXKcdNbdKhpyS+k8C/qKrW53myN9ONq8yeakcAVc0Y0=";
+      sha256 = "sha256-pAKfw5fQAno10F2FAu9s4EaY9GOyXoGnBRNHmDYk7j8=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "2f706ed347787572730e8aa90450885d269bf267";
+    version = "6118e1d9e7dc57971fcf2602f4b3a6011ceebcc3";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "2f706ed347787572730e8aa90450885d269bf267";
+      rev = "6118e1d9e7dc57971fcf2602f4b3a6011ceebcc3";
       fetchSubmodules = false;
-      sha256 = "sha256-RY9aGaJhfY8rGvYzi2sP5VgkSIs7FKjAQ/WWqVNOXqw=";
+      sha256 = "sha256-l2SfjvTOWD9HhsXCYWLylk+IF1ejV2O8gO+Ew2MqMo8=";
     });
   };
   droidcam = {
@@ -728,13 +728,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "56e150d68f061819094794cf7179d07f4e5ce4d0";
+    version = "d63c6b970629bb10a2f69b69add362733e643654";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "56e150d68f061819094794cf7179d07f4e5ce4d0";
+      rev = "d63c6b970629bb10a2f69b69add362733e643654";
       fetchSubmodules = false;
-      sha256 = "sha256-QUibCe5T8Vm1AGiABvYcHRhNOpzyxP8R5DYb91I/Cso=";
+      sha256 = "sha256-/okN7lvvnksl9X7rTWgqOyhGlEfnRgDwDUD5E1mYR24=";
     });
   };
   rofi-wayland = {
@@ -1556,14 +1556,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "2df3a62c66272c29299f7076c0f90a4f02b4d33e";
+    version = "9e82a674b529263062640a1480b67b5319df77c7";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "2df3a62c66272c29299f7076c0f90a4f02b4d33e";
+      rev = "9e82a674b529263062640a1480b67b5319df77c7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ZX5tO9xT3SXHbXCspqz48JqiaJg3KlJtkWYmYj7sYz8=";
+      sha256 = "sha256-4QVyVXsogZ9BWUnfSO1qcc/g9iIAgr3lO5ZfH1vrnms=";
     };
   };
   ydotool = {
