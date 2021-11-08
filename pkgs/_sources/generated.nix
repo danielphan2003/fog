@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "b35a78f8274e81b642ad81110a25dd15475b0db1";
+    version = "9e048cebb521eb3b262809addaad90d2f2514231";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "b35a78f8274e81b642ad81110a25dd15475b0db1";
+      rev = "9e048cebb521eb3b262809addaad90d2f2514231";
       fetchSubmodules = false;
-      sha256 = "sha256-gd693yRdUsaUp+Rh6p2DckyBzcv1QJuuMVtPsMdDAi4=";
+      sha256 = "sha256-+ZPoMqtGAx4mG/YBymZMtPwjnVlvRcq5BOvOyP6CMNQ=";
     });
   };
   caddy = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "df5d99321a2bc0f6a0d2ed35d93d4f6af8184598";
+    version = "6432490c316baa89fe3f5a6910539a1157614577";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "df5d99321a2bc0f6a0d2ed35d93d4f6af8184598";
+      rev = "6432490c316baa89fe3f5a6910539a1157614577";
       fetchSubmodules = false;
-      sha256 = "sha256-jx/pqRQO0OOQGpPjGAuFVlDZNsysFKjt3OhAN1/EOwA=";
+      sha256 = "sha256-s5rtuR06C9KD/EyU5L7jsZNLxDC81wPLuzkxyDqfdJw=";
     });
   };
   flyingfox = {
@@ -594,10 +594,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "374";
+    version = "375";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/374/downloads/paper-1.17.1-374.jar";
-      sha256 = "sha256-MwfrvNTlMb8a89aUj3L6XeExABHASUSF1mI00sVTqDk=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/375/downloads/paper-1.17.1-375.jar";
+      sha256 = "sha256-cGXYKQmSXweiKII9T9bwceqe5HCRmOgL29t9E41LgNw=";
     };
   };
   picom = {
