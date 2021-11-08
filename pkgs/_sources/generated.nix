@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "749e55c738bf702b5f1265f85018c450a7b4e3b4";
+    version = "f376a38b254a4fa469df10914180c2ebab3e707e";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "749e55c738bf702b5f1265f85018c450a7b4e3b4";
+      rev = "f376a38b254a4fa469df10914180c2ebab3e707e";
       fetchSubmodules = false;
-      sha256 = "sha256-pAKfw5fQAno10F2FAu9s4EaY9GOyXoGnBRNHmDYk7j8=";
+      sha256 = "sha256-w5JeQod91CbM0V7p74bFKZFK5Bs4cmQTVOGumGVajdI=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "6118e1d9e7dc57971fcf2602f4b3a6011ceebcc3";
+    version = "0b0fce692f1ea4691fdf0c9e4092a96a8c7d1af6";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "6118e1d9e7dc57971fcf2602f4b3a6011ceebcc3";
+      rev = "0b0fce692f1ea4691fdf0c9e4092a96a8c7d1af6";
       fetchSubmodules = false;
-      sha256 = "sha256-l2SfjvTOWD9HhsXCYWLylk+IF1ejV2O8gO+Ew2MqMo8=";
+      sha256 = "sha256-rDYA2YvvdYeloOHGaJc7RkJviy30xRJDPQpwYPVOxn0=";
     });
   };
   droidcam = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "445a4c68e81e876dbec78e53deaef4b5c3bac291";
+    version = "df5d99321a2bc0f6a0d2ed35d93d4f6af8184598";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "445a4c68e81e876dbec78e53deaef4b5c3bac291";
+      rev = "df5d99321a2bc0f6a0d2ed35d93d4f6af8184598";
       fetchSubmodules = false;
-      sha256 = "sha256-SycWS5KOyjZ8kNuE/Gobio2rgeqNiXiE6/Hm3jdCyn8=";
+      sha256 = "sha256-jx/pqRQO0OOQGpPjGAuFVlDZNsysFKjt3OhAN1/EOwA=";
     });
   };
   flyingfox = {
@@ -594,10 +594,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "373";
+    version = "374";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/373/downloads/paper-1.17.1-373.jar";
-      sha256 = "sha256-QVeWTbwpvFYdUYNbrvGvomGNEutxUACwzWEjlUKr7Uc=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/374/downloads/paper-1.17.1-374.jar";
+      sha256 = "sha256-MwfrvNTlMb8a89aUj3L6XeExABHASUSF1mI00sVTqDk=";
     };
   };
   picom = {
