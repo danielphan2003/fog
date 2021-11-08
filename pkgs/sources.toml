@@ -171,11 +171,6 @@ fetch.url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edg
 src.git = "https://github.com/Admicos/minecraft-wayland"
 fetch.github = "Admicos/minecraft-wayland"
 
-[multimc-cracked]
-src.git = "https://github.com/AfoninZ/MultiMC5-Cracked"
-fetch.github = "AfoninZ/MultiMC5-Cracked"
-git.fetchSubmodules = true
-
 [netdata]
 src.github_tag = "netdata/netdata"
 src.prefix = "v"
@@ -343,6 +338,11 @@ fetch.url = "https://github.com/z411/trackma/archive/master.tar.gz"
 [ulauncher]
 src.git = "https://github.com/Ulauncher/Ulauncher"
 fetch.github = "Ulauncher/Ulauncher"
+
+[ultimmc]
+src.git = "https://github.com/AfoninZ/MultiMC5-Cracked"
+fetch.github = "AfoninZ/MultiMC5-Cracked"
+git.fetchSubmodules = true
 
 [uniemoji]
 src.git = "https://github.com/salty-horse/ibus-uniemoji"
