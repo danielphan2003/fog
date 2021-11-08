@@ -90,13 +90,13 @@
   };
   avizo = {
     pname = "avizo";
-    version = "7b3874e5ee25c80800b3c61c8ea30612aaa6e8d1";
+    version = "4e1f2200d497c8b0e0c372195aee627bcdc89a08";
     src = fetchFromGitHub ({
       owner = "misterdanb";
       repo = "avizo";
-      rev = "7b3874e5ee25c80800b3c61c8ea30612aaa6e8d1";
+      rev = "4e1f2200d497c8b0e0c372195aee627bcdc89a08";
       fetchSubmodules = false;
-      sha256 = "sha256-ixAdiAH22Nh19uK5GoAXtAZJeAfCGSWTcGbrvCczWYc=";
+      sha256 = "sha256-xQLgemNlIcqb47uf3tYiMK1vXyyUHCKUywFJTfEuayo=";
     });
   };
   awesome = {
