@@ -123,13 +123,13 @@
   };
   bling = {
     pname = "bling";
-    version = "92dabc890e15397d823983b688f5beb7aae8d4c2";
+    version = "3c8b3b8cc01e398171f73601824810ee01d49f87";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "92dabc890e15397d823983b688f5beb7aae8d4c2";
+      rev = "3c8b3b8cc01e398171f73601824810ee01d49f87";
       fetchSubmodules = false;
-      sha256 = "sha256-5OKGiA0D5D019xmO6CQzNk66WOZ11sDbf5pW0XrpwHs=";
+      sha256 = "sha256-6Xb74hnF4MpzFWftltm77/SwXEK+GrIeploac4JOdLM=";
     });
   };
   bottles = {
@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "f376a38b254a4fa469df10914180c2ebab3e707e";
+    version = "e7457b43e4703080ae8713ada798ce3e20b83690";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "f376a38b254a4fa469df10914180c2ebab3e707e";
+      rev = "e7457b43e4703080ae8713ada798ce3e20b83690";
       fetchSubmodules = false;
-      sha256 = "sha256-w5JeQod91CbM0V7p74bFKZFK5Bs4cmQTVOGumGVajdI=";
+      sha256 = "sha256-xNCxzoNpXkj8WF9+kYJfO18ux8/OhxygkGjA49+Q4vY=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "0b0fce692f1ea4691fdf0c9e4092a96a8c7d1af6";
+    version = "1447fd9f3d8b14c8170e000ad05a29250b758712";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "0b0fce692f1ea4691fdf0c9e4092a96a8c7d1af6";
+      rev = "1447fd9f3d8b14c8170e000ad05a29250b758712";
       fetchSubmodules = false;
-      sha256 = "sha256-rDYA2YvvdYeloOHGaJc7RkJviy30xRJDPQpwYPVOxn0=";
+      sha256 = "sha256-3NCCe6AsY6N39yn9ITMjMAM7kyoZSMNahr4a8d4LULU=";
     });
   };
   droidcam = {
