@@ -502,17 +502,6 @@
       sha256 = "sha256-vc/WLSrx4PEZJGtwIjaMveaQ06CU47hDjiWEBIRrs9I=";
     });
   };
-  multimc-cracked = {
-    pname = "multimc-cracked";
-    version = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
-    src = fetchFromGitHub ({
-      owner = "AfoninZ";
-      repo = "MultiMC5-Cracked";
-      rev = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
-      fetchSubmodules = true;
-      sha256 = "sha256-bLOGhRkxux8qAX5Nvj29gk3LW2HEHurXgso+y7G+N50=";
-    });
-  };
   netdata = {
     pname = "netdata";
     version = "1.31.0";
@@ -996,6 +985,17 @@
       rev = "25c9a338f77b948e29d653c95f68d93956aa8c25";
       fetchSubmodules = false;
       sha256 = "sha256-c3ERmqjhyxR72N6ya7AAzjuVrTzleXGHX1ObhupjHBg=";
+    });
+  };
+  ultimmc = {
+    pname = "ultimmc";
+    version = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
+    src = fetchFromGitHub ({
+      owner = "AfoninZ";
+      repo = "MultiMC5-Cracked";
+      rev = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
+      fetchSubmodules = true;
+      sha256 = "sha256-bLOGhRkxux8qAX5Nvj29gk3LW2HEHurXgso+y7G+N50=";
     });
   };
   uniemoji = {
