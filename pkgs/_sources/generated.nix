@@ -854,13 +854,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "c35fe097a94e9e7338117ecb73d030f350acc799";
+    version = "4fa2aca70e8a0cdeafbfb87e83acae7c4223cfb6";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "c35fe097a94e9e7338117ecb73d030f350acc799";
+      rev = "4fa2aca70e8a0cdeafbfb87e83acae7c4223cfb6";
       fetchSubmodules = false;
-      sha256 = "sha256-OFzoay2GG/xCpn+MawEA7xgsK7fqzgcDvEHZg3YbZ3w=";
+      sha256 = "sha256-q93BZmpThWpDXeiNGPHYhXA77AjyT63OgEW33noRS4Q=";
     });
   };
   spicetify-themes = {
@@ -1206,10 +1206,10 @@
   };
   vscode-extensions-eslint = {
     pname = "vscode-extensions-eslint";
-    version = "2.1.20";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.1.20/file/dbaeumer.vscode-eslint-2.1.20.vsix";
-      sha256 = "sha256-2CSa5xJIVM8/SwqRablxOJufDhHJRpqgyohlQ1pT3hE=";
+      url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.2/file/dbaeumer.vscode-eslint-2.2.2.vsix";
+      sha256 = "sha256-Q6/sRwV3hXQSt0Tj2a1nbi4+EEKM9LMItE+rMmp5GeI=";
     };
     homepage = "https://github.com/Microsoft/vscode-eslint";
     license = "mit";
