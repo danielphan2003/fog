@@ -978,24 +978,24 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "25c9a338f77b948e29d653c95f68d93956aa8c25";
+    version = "c1f570793401b57b412cbec7d1fd035c2b21f0e7";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "25c9a338f77b948e29d653c95f68d93956aa8c25";
+      rev = "c1f570793401b57b412cbec7d1fd035c2b21f0e7";
       fetchSubmodules = false;
-      sha256 = "sha256-c3ERmqjhyxR72N6ya7AAzjuVrTzleXGHX1ObhupjHBg=";
+      sha256 = "sha256-Dz1gPL+B9RF+77MipQq7jScEAmStnDe80p2fiQhw8ZQ=";
     });
   };
   ultimmc = {
     pname = "ultimmc";
-    version = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
+    version = "353669dc8ad8d2e034ffd5c5314e4405a74defdf";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "6d222626020c4ccf11668cd3a39e1a5598b88c4c";
+      rev = "353669dc8ad8d2e034ffd5c5314e4405a74defdf";
       fetchSubmodules = true;
-      sha256 = "sha256-bLOGhRkxux8qAX5Nvj29gk3LW2HEHurXgso+y7G+N50=";
+      sha256 = "sha256-45bVerPuqq2BseCrEzmTY86O2TE+Yh48fv9/1dJEM0E=";
     });
   };
   uniemoji = {
