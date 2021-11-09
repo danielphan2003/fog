@@ -854,24 +854,24 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "b21e9da32a325f91663ae13e4a9ee6553c9dc168";
+    version = "c35fe097a94e9e7338117ecb73d030f350acc799";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "b21e9da32a325f91663ae13e4a9ee6553c9dc168";
+      rev = "c35fe097a94e9e7338117ecb73d030f350acc799";
       fetchSubmodules = false;
-      sha256 = "sha256-11XaPjKQwXwThAqp+fk9dFxAvtAXTOm23rAZeQGAHSw=";
+      sha256 = "sha256-OFzoay2GG/xCpn+MawEA7xgsK7fqzgcDvEHZg3YbZ3w=";
     });
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "c7279bacee889a8ac2bdd3f8f5eef5bd9da7b5a9";
+    version = "708fd36a1e62f9a4aa233c97db3847ce7528a506";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "c7279bacee889a8ac2bdd3f8f5eef5bd9da7b5a9";
+      rev = "708fd36a1e62f9a4aa233c97db3847ce7528a506";
       fetchSubmodules = false;
-      sha256 = "sha256-XpbJ5ChcNdV+f/Bs20hoPpoKdH0X0acQVywRfQHf5xs=";
+      sha256 = "sha256-dW+c1FFNAvCH6E3OUhEK+Mb7Vz2oQBVSrayJqt8fnAo=";
     });
   };
   spotify = {
@@ -1406,10 +1406,10 @@
   };
   vscode-extensions-react-native = {
     pname = "vscode-extensions-react-native";
-    version = "1.7.1";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.7.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-YnBTzA5Ay7zp1HIeam49yAGZjQVK6wP1iKswBHrzuKU=";
+      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.8.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-7o8CVqyZqK4evv7Tdqwi5Obwj/uZlUdW8Lkvp9S7M+c=";
     };
     license = "mit";
   };
