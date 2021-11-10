@@ -785,13 +785,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "4cb6b8e6e97252dc9b0a089b1f793b6e27b0f1ed";
+    version = "6a7d25fa6396f09ab2d39f4682d3e5d5d8833b02";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "4cb6b8e6e97252dc9b0a089b1f793b6e27b0f1ed";
+      rev = "6a7d25fa6396f09ab2d39f4682d3e5d5d8833b02";
       fetchSubmodules = false;
-      sha256 = "sha256-/26LchjNRD896Mn/THR986AF1ikDug74/opBjtuRe1g=";
+      sha256 = "sha256-7NNPIhrSgNw0sGqgbXFsm1DVHkRhSoW6IcG02KzAdBw=";
     });
   };
   sddm-chili = {
@@ -1545,13 +1545,13 @@
   };
   xorgproto = {
     pname = "xorgproto";
-    version = "57acac1d4c7967f4661fb1c9f86f48f34a46c48d";
+    version = "914d8f5e0f469cd0416364dd008e9eea752bf703";
     src = fetchFromGitHub ({
       owner = "freedesktop";
       repo = "xorg-xorgproto";
-      rev = "57acac1d4c7967f4661fb1c9f86f48f34a46c48d";
+      rev = "914d8f5e0f469cd0416364dd008e9eea752bf703";
       fetchSubmodules = false;
-      sha256 = "sha256-Ar5ccxwVwRnzd5pAF6a9M7Z1btKxXHLUefaTqXSVDfY=";
+      sha256 = "sha256-XJtYZYbmwCrkbB7a533kkI/CcawkmHHSEu4zSznVvEY=";
     });
   };
   xwayland = {
