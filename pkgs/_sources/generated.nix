@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "e300141ff8a1f9e325effc81d2c0cbac0789dbaa";
+    version = "167de09b207105d5f8f1b278e46cb00781b5759e";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "e300141ff8a1f9e325effc81d2c0cbac0789dbaa";
+      rev = "167de09b207105d5f8f1b278e46cb00781b5759e";
       fetchSubmodules = false;
-      sha256 = "sha256-Uq2sR79o5IFHtvMAAUnMHMQmhuGk75GyyHhga6/IsPM=";
+      sha256 = "sha256-BKiKqreE+CNi9rN3dI3DS76djybzturpaM7l68YCHP8=";
     });
   };
   flyingfox = {
@@ -728,11 +728,11 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "86f899c844c101ebec21f167a4d4d66e28318af7";
+    version = "b6cd140528f1480359cd7fb663b95c22c80d5ef2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "86f899c844c101ebec21f167a4d4d66e28318af7";
+      rev = "b6cd140528f1480359cd7fb663b95c22c80d5ef2";
       fetchSubmodules = false;
       sha256 = "sha256-x4ZFO0gWxS1yUmtK9d96JCPQ8aKg9zy96VacIrJlMpc=";
     });
@@ -1173,10 +1173,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.68.0";
+    version = "0.68.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.68.0/file/dendron.dendron-0.68.0.vsix";
-      sha256 = "sha256-xzpmoOMRCJyNLX4rH36ndiAZqRmQ8Vk8jTypfmFGUlA=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.68.1/file/dendron.dendron-0.68.1.vsix";
+      sha256 = "sha256-C7B6jUgvJ6Ji9UBsK32nxP0f8haU91F7ENNG++STE3s=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
