@@ -237,9 +237,7 @@
     });
     cargoLock = {
       lockFile = ./eww-89d4dfda2739c7c3eb69e8c8a143a096dd65979d/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   fake-background-webcam = {
@@ -287,9 +285,7 @@
     });
     cargoLock = {
       lockFile = ./frece-d4071c6c852e68dda82b7ab0bfb0f141b39d4484/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   guiscrcpy = {
@@ -575,9 +571,7 @@
     });
     cargoLock = {
       lockFile = ./ouch-3a5f43a76e14791fefde80483110bb2632c743c1/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   paper = {
@@ -734,13 +728,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "174ab373e4ce0fe4c45153dfec54e395850282aa";
+    version = "1fc73f11b55c8245ba0ef5912bddfff5b58c1291";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "174ab373e4ce0fe4c45153dfec54e395850282aa";
+      rev = "1fc73f11b55c8245ba0ef5912bddfff5b58c1291";
       fetchSubmodules = false;
-      sha256 = "sha256-cg0Dle3gH8ipgGcyED4WbTkJ8V91AFqKAY+VtXmBXBo=";
+      sha256 = "sha256-EzSO6eYWSYyavZ/3yw4kB7TSi3/ajkVsTifsoRAhoRU=";
     });
   };
   rofi-wayland = {
@@ -900,9 +894,7 @@
     });
     cargoLock = {
       lockFile = ./spotifyd-f4909621da43636185f2d2ffe4392178b8d654b6/Cargo.lock;
-      outputHashes = {
-        
-      };
+      outputHashes = { };
     };
   };
   steamcompmgr = {
