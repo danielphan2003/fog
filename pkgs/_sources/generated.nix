@@ -321,6 +321,46 @@
       sha256 = "sha256-w68I1a1mMEGgF4oCzs5TvYmXTdpQPJog/S42Dz519i4=";
     });
   };
+  jibri = {
+    pname = "jibri";
+    version = "8.0-114-g20e233e";
+    src = fetchurl {
+      url = "https://download.jitsi.org/unstable/jibri_8.0-114-g20e233e-1_all.deb";
+      sha256 = "sha256-DD1l7HQLqpPXgSzfKkZ9dYnGhinEoiGhVj4bbWWBnQM=";
+    };
+  };
+  jicofo = {
+    pname = "jicofo";
+    version = "1.0-820";
+    src = fetchurl {
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-820-1_all.deb";
+      sha256 = "sha256-EGb8bHPmZefMSfimjwtqjZQT6RgPEoSB6dSlTv+M1Nk=";
+    };
+  };
+  jitsi-meet = {
+    pname = "jitsi-meet";
+    version = "1.0.5552";
+    src = fetchurl {
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5552.tar.bz2";
+      sha256 = "sha256-h748d6A1X34VZh1nJsjU4e/qaen4YC2cfdLTnxR3D8o=";
+    };
+  };
+  jitsi-meet-prosody = {
+    pname = "jitsi-meet-prosody";
+    version = "1.0.5552";
+    src = fetchurl {
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5552-1_all.deb";
+      sha256 = "sha256-PHDOcks2sqY3xQSJ2zKce72dFqwfjmKMuBSx/Uwrex4=";
+    };
+  };
+  jitsi-videobridge2 = {
+    pname = "jitsi-videobridge2";
+    version = "2.1-584-ge33938a1";
+    src = fetchurl {
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-584-ge33938a1-1_all.deb";
+      sha256 = "sha256-sKhKKxLRchytCsjrYoImM4DZH6bWv5tOgiKQlCuEW5M=";
+    };
+  };
   layout-machi = {
     pname = "layout-machi";
     version = "df15a7b78e929203f4de46348b25f3630ac079c1";
@@ -561,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "180f63209adbbf7a92e340435287ce4c986cf3fb";
+    version = "f4979a521d38f8c95319f26089715541f336c455";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "180f63209adbbf7a92e340435287ce4c986cf3fb";
+      rev = "f4979a521d38f8c95319f26089715541f336c455";
       fetchSubmodules = false;
-      sha256 = "sha256-jaXl/YJhxv46IKBXAaOTUPvhaqWE//vT17DY4TLLpWM=";
+      sha256 = "sha256-e2CRUrS2eKgFdoeEMc+M+soIcIodWc9ESbgCLRswPgw=";
     });
     cargoLock = {
-      lockFile = ./ouch-180f63209adbbf7a92e340435287ce4c986cf3fb/Cargo.lock;
+      lockFile = ./ouch-f4979a521d38f8c95319f26089715541f336c455/Cargo.lock;
       outputHashes = { };
     };
   };
