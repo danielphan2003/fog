@@ -129,6 +129,31 @@ fetch.github = "ibus/ibus"
 src.git = "https://github.com/BambooEngine/ibus-bamboo"
 fetch.github = "BambooEngine/ibus-bamboo"
 
+[jibri]
+src.webpage = "https://download.jitsi.org/unstable"
+src.regex = ".*jibri_(.*)-1_all.*"
+fetch.url = "https://download.jitsi.org/unstable/jibri_$ver-1_all.deb"
+
+[jicofo]
+src.webpage = "https://download.jitsi.org/unstable"
+src.regex = ".*jicofo_(.*)-1_all.*"
+fetch.url = "https://download.jitsi.org/unstable/jicofo_$ver-1_all.deb"
+
+[jitsi-meet]
+src.webpage = "https://download.jitsi.org/unstable"
+src.regex = ".*jitsi-meet-web_(.*)-1_all.*"
+fetch.url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-$ver.tar.bz2"
+
+[jitsi-meet-prosody]
+src.webpage = "https://download.jitsi.org/unstable"
+src.regex = ".*jitsi-meet-prosody_(.*)-1_all.*"
+fetch.url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_$ver-1_all.deb"
+
+[jitsi-videobridge2]
+src.webpage = "https://download.jitsi.org/unstable"
+src.regex = ".*jitsi-videobridge2_(.*)-1_all.*"
+fetch.url = "https://download.jitsi.org/unstable/jitsi-videobridge2_$ver-1_all.deb"
+
 [layout-machi]
 src.git = "https://github.com/xinhaoyuan/layout-machi"
 fetch.github = "xinhaoyuan/layout-machi"
