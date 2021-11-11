@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "8b2a366c9599f735e0aedae35fd3e4423528f7f5";
+    version = "d078c29ab68f9c18c6a1ae001f3074c920fd878f";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "8b2a366c9599f735e0aedae35fd3e4423528f7f5";
+      rev = "d078c29ab68f9c18c6a1ae001f3074c920fd878f";
       fetchSubmodules = false;
-      sha256 = "sha256-8V+1bVTiXSG8C5x1VFV52wHhc9TfEYfG1vh3JtjNP9I=";
+      sha256 = "sha256-6FNJOY5Tc5wJ25AKnzvEDsjBvVfohrrJv2jtWCvDKt8=";
     });
   };
   droidcam = {
@@ -1029,13 +1029,13 @@
   };
   ultimmc = {
     pname = "ultimmc";
-    version = "353669dc8ad8d2e034ffd5c5314e4405a74defdf";
+    version = "7106b5ca56d547b97ff083688b1bafb1c5e0895a";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "353669dc8ad8d2e034ffd5c5314e4405a74defdf";
+      rev = "7106b5ca56d547b97ff083688b1bafb1c5e0895a";
       fetchSubmodules = true;
-      sha256 = "sha256-45bVerPuqq2BseCrEzmTY86O2TE+Yh48fv9/1dJEM0E=";
+      sha256 = "sha256-0I9cca7qnBx2yTSEo6WI0beDFHWtNTYOf6sB+vC4+mM=";
     });
   };
   uniemoji = {
