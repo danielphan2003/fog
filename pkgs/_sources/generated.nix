@@ -57,13 +57,13 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "669f32d41589a234e2e870d6ce505b004a40fedb";
+    version = "1777116b0a70373b14d4e543e1d897e96d019f65";
     src = fetchFromGitHub ({
       owner = "anime-dl";
       repo = "anime-downloader";
-      rev = "669f32d41589a234e2e870d6ce505b004a40fedb";
+      rev = "1777116b0a70373b14d4e543e1d897e96d019f65";
       fetchSubmodules = false;
-      sha256 = "sha256-u1vaRnBD94iJIQlqfqTEsAUe+WzI4LB1w9SoY4H+oNE=";
+      sha256 = "sha256-02qwCjY/WgzuKFKU0ctS3hl+MJoJs9V4KeN/i7xC6TA=";
     });
   };
   any-nix-shell = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "d3b95772377352219b296925b5ba449d0ce1c29f";
+    version = "759c0e058f13ef3bb7a199fb16f30ff31a5e377b";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "d3b95772377352219b296925b5ba449d0ce1c29f";
+      rev = "759c0e058f13ef3bb7a199fb16f30ff31a5e377b";
       fetchSubmodules = false;
-      sha256 = "sha256-olDwUFI4I/abW8BZT50bKIe4xuhalQawnCjw+jgO45k=";
+      sha256 = "sha256-z2DcbZCFdMtPeWvUuOSL6Ar39Se+aqENaIvSVdrPBlc=";
     });
   };
   droidcam = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "196cc8b33df99a8761dfcbdcfd6bb102b5e11d71";
+    version = "680b631ad6ec601978fa8c3c73a4df7be0f2c946";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "196cc8b33df99a8761dfcbdcfd6bb102b5e11d71";
+      rev = "680b631ad6ec601978fa8c3c73a4df7be0f2c946";
       fetchSubmodules = false;
-      sha256 = "sha256-74kWpVsa1NSjDv+Lvy0W2+kv60gzy7QC4xpxk59E4H8=";
+      sha256 = "sha256-q0TojIZLZqTP9j8JEaStwjj4v6fMuw+6SleXuZ/wjlA=";
     });
   };
   rofi-wayland = {
@@ -1532,13 +1532,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "49a1d3dd47ecb7b652affc3ea13bbb15abff4e01";
+    version = "8fde865cbb1baa4d2215902f235763fde3caf400";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "49a1d3dd47ecb7b652affc3ea13bbb15abff4e01";
+      rev = "8fde865cbb1baa4d2215902f235763fde3caf400";
       fetchSubmodules = false;
-      sha256 = "sha256-Md8u94o+l7MgDTqXN7cg8QZOluuQSveOpPlvb4Jtvak=";
+      sha256 = "sha256-pMYssf+LXYTBQYdq2Rd7BvEXhq+UAXk/4aQ01mvvVpk=";
     });
   };
   whitesur-icon-theme = {
