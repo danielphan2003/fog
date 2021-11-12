@@ -355,10 +355,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-584-ge33938a1";
+    version = "2.1-585-g21b6c20d";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-584-ge33938a1-1_all.deb";
-      sha256 = "sha256-sKhKKxLRchytCsjrYoImM4DZH6bWv5tOgiKQlCuEW5M=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-585-g21b6c20d-1_all.deb";
+      sha256 = "sha256-DsIkuDo60cG+9sjNTpYR8In9w1heKNbtEz7yg/O5vPI=";
     };
   };
   layout-machi = {
@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "378";
+    version = "379";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/378/downloads/paper-1.17.1-378.jar";
-      sha256 = "sha256-iabUM+Ssbjt0El3eSdNodqXVF4n9R6EM7Y1nAegY8wI=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/379/downloads/paper-1.17.1-379.jar";
+      sha256 = "sha256-mQqMq/dOjpkL/0EQL5LTIerWQ0Ef7AbeWhDOQ34sIwY=";
     };
   };
   picom = {
