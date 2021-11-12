@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "34c374737c1c09497bf28af090a045656ac07bde";
+    version = "196cc8b33df99a8761dfcbdcfd6bb102b5e11d71";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "34c374737c1c09497bf28af090a045656ac07bde";
+      rev = "196cc8b33df99a8761dfcbdcfd6bb102b5e11d71";
       fetchSubmodules = false;
-      sha256 = "sha256-9dHzdRAZ6FpuDpijKkQxy1Iy4kpoFF5K+BlOx4M71Z4=";
+      sha256 = "sha256-74kWpVsa1NSjDv+Lvy0W2+kv60gzy7QC4xpxk59E4H8=";
     });
   };
   rofi-wayland = {
@@ -916,10 +916,10 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.68.632.g2b11de83";
+    version = "1.1.72.439.gc253025e";
     src = fetchurl {
-      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_53.snap";
-      sha256 = "sha256-Cw37q54WXZ34pub4BPyYiLeQHJBHSKzY7dKlqfD7Obk=";
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_56.snap";
+      sha256 = "sha256-GKQBMPMLlbBZp4YXKPxY03lOJvmsuitiIldg0aLh6RE=";
     };
   };
   spotifyd = {
