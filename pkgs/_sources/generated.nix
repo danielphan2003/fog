@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "9e55654e722a2b6c4d2f62b603764e4d41a488ac";
+    version = "038a24ae34bb7806922ec79a7be6d26421daa480";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "9e55654e722a2b6c4d2f62b603764e4d41a488ac";
+      rev = "038a24ae34bb7806922ec79a7be6d26421daa480";
       fetchSubmodules = false;
-      sha256 = "sha256-+dmh8dGi4f0kfivh8s57XJsiBrhQG1oyd0sDrEjTzZw=";
+      sha256 = "sha256-JdsAXsvR4AndTVJ8PKAuQGv9fc8nQWI+rNjotz7s3T4=";
     });
   };
   rofi-wayland = {
@@ -1129,10 +1129,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-7ww4TyduUU2C0co2AvPpzas874dYt0KUljYPW+IAPN0=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-zmGQMPEK1AQdQkkQBzCYEIhj5KtxlZX3ZWiIxBCXRi8=";
     };
     license = "mit";
   };
