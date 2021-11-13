@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f74c2c3dd77a1768c3ac0cf7211ed540df7f27d4";
+    version = "d816c71541ac4f002140a9b7aef25313482b5c74";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f74c2c3dd77a1768c3ac0cf7211ed540df7f27d4";
+      rev = "d816c71541ac4f002140a9b7aef25313482b5c74";
       fetchSubmodules = false;
-      sha256 = "sha256-8hdbehTyncDae1c/qX4shvh3WD83IrJdT3lrHek9vgs=";
+      sha256 = "sha256-KmSUd5Bp3qzTbpLAUze3g/vYERwqNpBbs+RhJt8s9D4=";
     });
   };
   caddy = {
@@ -1029,13 +1029,13 @@
   };
   ultimmc = {
     pname = "ultimmc";
-    version = "2b197f02ef7ad35e4fbf25712b25821c5f3c4ea4";
+    version = "985b7a6b037d8f109916d7d63cdc03d71381bf73";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "2b197f02ef7ad35e4fbf25712b25821c5f3c4ea4";
+      rev = "985b7a6b037d8f109916d7d63cdc03d71381bf73";
       fetchSubmodules = true;
-      sha256 = "sha256-s4YYA8WU07wKfbxCwSZNm0FODUyjXUbQsX4XX4QYn68=";
+      sha256 = "sha256-fPuKH3/CScrZXFa4uRFhW4nRDISak6+4tacjE9cpfJE=";
     });
   };
   uniemoji = {
