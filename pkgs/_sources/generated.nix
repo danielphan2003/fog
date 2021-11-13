@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "9238b8ed11bf71b93ffc36297c7b100f679761da";
+    version = "9af1106144d9a81e7386cc5ec9aa9e87c453b691";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "9238b8ed11bf71b93ffc36297c7b100f679761da";
+      rev = "9af1106144d9a81e7386cc5ec9aa9e87c453b691";
       fetchSubmodules = false;
-      sha256 = "sha256-UjRsKrhqA9mCEmkWgKEH4E/RPsUV3vQ5tuqK4SXCgTU=";
+      sha256 = "sha256-WYLvXhgx47KpI9DGGOMetcxMmRXYCn7GQ6Vw29UMr3M=";
     });
     cargoLock = {
-      lockFile = ./ouch-9238b8ed11bf71b93ffc36297c7b100f679761da/Cargo.lock;
+      lockFile = ./ouch-9af1106144d9a81e7386cc5ec9aa9e87c453b691/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "379";
+    version = "380";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/379/downloads/paper-1.17.1-379.jar";
-      sha256 = "sha256-mQqMq/dOjpkL/0EQL5LTIerWQ0Ef7AbeWhDOQ34sIwY=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/380/downloads/paper-1.17.1-380.jar";
+      sha256 = "sha256-1hzcTTpTv2g/oaZpEDsN+YEwVfwRq6+YplrrYv05zEU=";
     };
   };
   picom = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b9c77a48c982865597b2282123da42c29c127648";
+    version = "02898a4a79c70530e2bedf22f0435fb25b3d8a6f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b9c77a48c982865597b2282123da42c29c127648";
+      rev = "02898a4a79c70530e2bedf22f0435fb25b3d8a6f";
       fetchSubmodules = false;
-      sha256 = "sha256-zz8GWHBc2r6oTWt2pN90+y1E5ddmdTGhnor84Qz2WiQ=";
+      sha256 = "sha256-Vg/YJlSOuvdB0VfLekWhG+7pepxVUEVYr/K2QSFIDKk=";
     });
   };
   rofi-wayland = {
@@ -894,13 +894,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "b3dd53491f9199abf6469b6523e5bf535ede7d17";
+    version = "994a14d7ad0aba21a8ccb3097e64a11a66db5428";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "b3dd53491f9199abf6469b6523e5bf535ede7d17";
+      rev = "994a14d7ad0aba21a8ccb3097e64a11a66db5428";
       fetchSubmodules = false;
-      sha256 = "sha256-N9mPBafCUd8PFGQ+W655vWJc/Z18jxZRQRIgKElmRKw=";
+      sha256 = "sha256-8luWWitqw/iUXFvc9+pEHuhbYgUs4AHHv2EYMKhvLjU=";
     });
   };
   spicetify-themes = {
