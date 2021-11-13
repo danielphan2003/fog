@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "380";
+    version = "381";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/380/downloads/paper-1.17.1-380.jar";
-      sha256 = "sha256-1hzcTTpTv2g/oaZpEDsN+YEwVfwRq6+YplrrYv05zEU=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/381/downloads/paper-1.17.1-381.jar";
+      sha256 = "sha256-EmHfKBk/3w45+SSBi2Oujg/d/BjYipGcIwasfD5Ohtw=";
     };
   };
   picom = {
@@ -894,13 +894,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "9928c09c0620b76e3a6d97d84b94bae64cc27483";
+    version = "f701d883ad6636d357e13a2cb8c16b30261f0a98";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "9928c09c0620b76e3a6d97d84b94bae64cc27483";
+      rev = "f701d883ad6636d357e13a2cb8c16b30261f0a98";
       fetchSubmodules = false;
-      sha256 = "sha256-VF2T2GvZf9IW6CKCxNEX3FAz+WiraodXz0SjfeVaStE=";
+      sha256 = "sha256-+iaBrZ3l4wbd+zh1fB8/ddKf7gFlZsb2mrMSJPKHAEI=";
     });
   };
   spicetify-themes = {
