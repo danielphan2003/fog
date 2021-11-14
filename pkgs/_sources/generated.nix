@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "7b9e2f7db0f2766d0bce4e3d8086d10e33b1802b";
+    version = "2ed4894a59b75d7d450813e9a515eb2d5a249328";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "7b9e2f7db0f2766d0bce4e3d8086d10e33b1802b";
+      rev = "2ed4894a59b75d7d450813e9a515eb2d5a249328";
       fetchSubmodules = false;
-      sha256 = "sha256-pDwnOGRyodmv+V8ePqM9GiWGw3NIV5QBsqgViFB/yIs=";
+      sha256 = "sha256-ER5vgNiOxoqfLqDJ3NEXGIKKUZ2G0Anp6ss0/SQHio8=";
     });
     cargoLock = {
-      lockFile = ./ouch-7b9e2f7db0f2766d0bce4e3d8086d10e33b1802b/Cargo.lock;
+      lockFile = ./ouch-2ed4894a59b75d7d450813e9a515eb2d5a249328/Cargo.lock;
       outputHashes = { };
     };
   };
