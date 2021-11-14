@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "482390b3e0e427a6655a1dfdead91c06a120f105";
+    version = "8952df3e03e9ac98074a5ece12b252a3cb6c143e";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "482390b3e0e427a6655a1dfdead91c06a120f105";
+      rev = "8952df3e03e9ac98074a5ece12b252a3cb6c143e";
       fetchSubmodules = false;
-      sha256 = "sha256-7uWnZ/PF7PDcKsMq+MtJe4lCPl5Hd+lVW7J/8+cM8g0=";
+      sha256 = "sha256-MrX7DRoTF2ERCsB1JAfhACK+xEyn3fF8DZtqF/LHn84=";
     });
   };
   caddy = {
@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "3b8333a063224dff2f888f749dc60e4d92a1365e";
+    version = "ed68e17eb850cb6658f757c88be6cac97f6bd60e";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "3b8333a063224dff2f888f749dc60e4d92a1365e";
+      rev = "ed68e17eb850cb6658f757c88be6cac97f6bd60e";
       fetchSubmodules = false;
-      sha256 = "sha256-NcTb5/6eeVMaKdyjCm0xSEBWSNYw+AryjZRfbIoMarA=";
+      sha256 = "sha256-caDSwOOqr/XGx/vQFFnZeqGXxEYZuUUoaCadpCumz68=";
     });
     cargoLock = {
-      lockFile = ./ouch-3b8333a063224dff2f888f749dc60e4d92a1365e/Cargo.lock;
+      lockFile = ./ouch-ed68e17eb850cb6658f757c88be6cac97f6bd60e/Cargo.lock;
       outputHashes = { };
     };
   };
