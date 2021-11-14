@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-820";
+    version = "1.0-821";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-820-1_all.deb";
-      sha256 = "sha256-EGb8bHPmZefMSfimjwtqjZQT6RgPEoSB6dSlTv+M1Nk=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-821-1_all.deb";
+      sha256 = "sha256-du6JFKSrLTB3I/P7FM0Uoh1zCH3hDfLd09OQFFYNvhs=";
     };
   };
   jitsi-meet = {
@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "2ed4894a59b75d7d450813e9a515eb2d5a249328";
+    version = "1dc06e798aef60f901559f2f46e440dfe6477c73";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "2ed4894a59b75d7d450813e9a515eb2d5a249328";
+      rev = "1dc06e798aef60f901559f2f46e440dfe6477c73";
       fetchSubmodules = false;
-      sha256 = "sha256-ER5vgNiOxoqfLqDJ3NEXGIKKUZ2G0Anp6ss0/SQHio8=";
+      sha256 = "sha256-n/k635OicFerEZcu8VY8LbxiINVdugUyHQSPa5FhyFw=";
     });
     cargoLock = {
-      lockFile = ./ouch-2ed4894a59b75d7d450813e9a515eb2d5a249328/Cargo.lock;
+      lockFile = ./ouch-1dc06e798aef60f901559f2f46e440dfe6477c73/Cargo.lock;
       outputHashes = { };
     };
   };
