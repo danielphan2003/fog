@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "68cbf121b167ec770ab6ccd68275ba0797859065";
+    version = "71ea96daae58d30b36099f97c5a2e65cad07fbd6";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "68cbf121b167ec770ab6ccd68275ba0797859065";
+      rev = "71ea96daae58d30b36099f97c5a2e65cad07fbd6";
       fetchSubmodules = false;
-      sha256 = "sha256-2L6tPbDmwSXS7tsoxz7HaRjFcxndwFb1fWDROB5MLHI=";
+      sha256 = "sha256-hS/HVdbYMtMTSxXus7Ka1RwmOaj0DYMDPHrS5JksBYs=";
     });
   };
   caddy = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5553";
+    version = "1.0.5554";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5553.tar.bz2";
-      sha256 = "sha256-Gtm3lKzXXve/czOlJRhQQurbH+DYyNxEOUc3BxVObGU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5554.tar.bz2";
+      sha256 = "sha256-Sp966jEU9+OGIZY7oSvdH5QcMSVl0kOlbawkXiQcZAs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5553";
+    version = "1.0.5554";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5553-1_all.deb";
-      sha256 = "sha256-SQwBgnLPJ/bpL7VflPYPiZGiqSPJTfj7YGvQbMJrYtw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5554-1_all.deb";
+      sha256 = "sha256-V7l6lYl51PwAn23D3FyMXo8WHG5enptqp1pbZqHOhNk=";
     };
   };
   jitsi-videobridge2 = {
@@ -552,10 +552,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.30.0";
+    version = "0.31.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.30.0.tar.gz";
-      sha256 = "sha256-Q4nzM7B+YaHC7nv9YFpaORKZ1+gE+bdHxBvByPqURCs=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.31.0.tar.gz";
+      sha256 = "sha256-XTn2Vb04/NDvCUq5sM/XWNAaw+oud/lMWuQM4a+ijsA=";
     };
   };
   nix-zsh-completions = {
