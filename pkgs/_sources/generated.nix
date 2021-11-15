@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8952df3e03e9ac98074a5ece12b252a3cb6c143e";
+    version = "8ab4f141f1220ea015d1fbe76f302186702e7c0c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8952df3e03e9ac98074a5ece12b252a3cb6c143e";
+      rev = "8ab4f141f1220ea015d1fbe76f302186702e7c0c";
       fetchSubmodules = false;
-      sha256 = "sha256-MrX7DRoTF2ERCsB1JAfhACK+xEyn3fF8DZtqF/LHn84=";
+      sha256 = "sha256-O7KuS2QtTP96yKCsX2o/Qkp06/F+HRPIywWPSlipWew=";
     });
   };
   caddy = {
@@ -905,13 +905,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "a15aaea00f9c22214a7fb0a921a40eab4bb7e975";
+    version = "fc78c50ab5db8b1da593c3f005b6b5629e93c7fd";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "a15aaea00f9c22214a7fb0a921a40eab4bb7e975";
+      rev = "fc78c50ab5db8b1da593c3f005b6b5629e93c7fd";
       fetchSubmodules = false;
-      sha256 = "sha256-Pa0NU2QihvZ55hTAxoALMSg90/d80E00Bjp/Ibs3pZA=";
+      sha256 = "sha256-UqWIcmL84SzzWfrZb8VZYcuHzOgHvGok+6qs31r2Q98=";
     });
   };
   spotify = {
