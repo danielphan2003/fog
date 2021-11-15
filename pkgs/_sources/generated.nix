@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "e7457b43e4703080ae8713ada798ce3e20b83690";
+    version = "e81369e2208e47d9650f9699ad8bc7692640b275";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e7457b43e4703080ae8713ada798ce3e20b83690";
+      rev = "e81369e2208e47d9650f9699ad8bc7692640b275";
       fetchSubmodules = false;
-      sha256 = "sha256-xNCxzoNpXkj8WF9+kYJfO18ux8/OhxygkGjA49+Q4vY=";
+      sha256 = "sha256-bCFG2GWjoo2AbqaJLJNtMp2sNWLxuJz5showF+klZ+0=";
     });
   };
   cups-pdf = {
@@ -227,16 +227,16 @@
   };
   eww = {
     pname = "eww";
-    version = "0fa5c92e04faefb0a4929238feb3cdbb3db7e5ed";
+    version = "6fec5681764073069e7d5083af3570edd1abfafd";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "0fa5c92e04faefb0a4929238feb3cdbb3db7e5ed";
+      rev = "6fec5681764073069e7d5083af3570edd1abfafd";
       fetchSubmodules = false;
-      sha256 = "sha256-1+QAh6KwN67Dn+s8fIWdFSRp454gZCGwLaTFm9RlErA=";
+      sha256 = "sha256-22korDTCYQMjkvCt+wHN41rbrweEbiISZK9GzWgAaZM=";
     });
     cargoLock = {
-      lockFile = ./eww-0fa5c92e04faefb0a4929238feb3cdbb3db7e5ed/Cargo.lock;
+      lockFile = ./eww-6fec5681764073069e7d5083af3570edd1abfafd/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "381";
+    version = "383";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/381/downloads/paper-1.17.1-381.jar";
-      sha256 = "sha256-EmHfKBk/3w45+SSBi2Oujg/d/BjYipGcIwasfD5Ohtw=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/383/downloads/paper-1.17.1-383.jar";
+      sha256 = "sha256-KiC0fR/8GbwF3MeI/XY5C+cI1c33qU2tgAUq39b1Y4w=";
     };
   };
   picom = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "7324c0d33b9a29947276a307723d837f4e0c1c4e";
+    version = "0c45d96a999e984a35bd34e261f707f6342ed781";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "7324c0d33b9a29947276a307723d837f4e0c1c4e";
+      rev = "0c45d96a999e984a35bd34e261f707f6342ed781";
       fetchSubmodules = false;
-      sha256 = "sha256-OToZL0phLJug4pLivhXOoNXtb/SD2zdc4iTjMMaye/I=";
+      sha256 = "sha256-lViD+GJ0h6VBmKxBa+p5PU+sD1BbQbsNFIrGEse9xy4=";
     });
   };
   rofi-wayland = {
