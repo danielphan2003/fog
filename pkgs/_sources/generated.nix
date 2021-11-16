@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "c48984b9ecb30c8bb078bc503483fe4b5f4d9599";
+    version = "3e41a079073fae14ec44731a90fc9b129e727a97";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "c48984b9ecb30c8bb078bc503483fe4b5f4d9599";
+      rev = "3e41a079073fae14ec44731a90fc9b129e727a97";
       fetchSubmodules = false;
-      sha256 = "sha256-XbjgWP93GD/oDQcXqQ+hzBLufLf6s8b5ShuSMTg2ZFg=";
+      sha256 = "sha256-GMGQnXaxOvkfyu/JJiGb4ZVLBKc3jlAwh2UG2d9jXPY=";
     });
   };
   droidcam = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "36b1df12417f2024e36c3933234574129c14ddfd";
+    version = "773af7292b9528086f9bcf31846f5c27fe9745db";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "36b1df12417f2024e36c3933234574129c14ddfd";
+      rev = "773af7292b9528086f9bcf31846f5c27fe9745db";
       fetchSubmodules = false;
-      sha256 = "sha256-AEa/7PbklUAdEQGfgUd7GoiHk5sQR9fQD4eWf1S9Ei8=";
+      sha256 = "sha256-Nk4dY6BpRjacgokwHHS9ZqSxk/ZhJVd4+bV5iDLHCMo=";
     });
   };
   tailscale-systray = {
@@ -1596,14 +1596,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "9e82a674b529263062640a1480b67b5319df77c7";
+    version = "35af1299e73483eaf93d913a960e1d1738bc7de6";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "9e82a674b529263062640a1480b67b5319df77c7";
+      rev = "35af1299e73483eaf93d913a960e1d1738bc7de6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4QVyVXsogZ9BWUnfSO1qcc/g9iIAgr3lO5ZfH1vrnms=";
+      sha256 = "sha256-+kbhRgzRCtmmFfI5Hr2+yVQoscdD8sc0MtN7tNO/rrE=";
     };
   };
   ydotool = {
