@@ -134,24 +134,24 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6cf5c6d39fe72d22c1c14f660d17e8f2bd6c81f6";
+    version = "056af5389212b79f80425999b7f4ecdbfebd1873";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6cf5c6d39fe72d22c1c14f660d17e8f2bd6c81f6";
+      rev = "056af5389212b79f80425999b7f4ecdbfebd1873";
       fetchSubmodules = false;
-      sha256 = "sha256-omzxRze/qtb8x48RT0QIwsjjoGj9G9R6zxHGemey8Vg=";
+      sha256 = "sha256-5YwGueOLa7LyIRA3yZtnfhwHGauaL92BI+MpLbeXjgg=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "b47af6ef04f818f41932e4152836d43a9be8fe07";
+    version = "7f364c777acfc1a0c8c3c62d9c3ad001fb1ea6df";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "b47af6ef04f818f41932e4152836d43a9be8fe07";
+      rev = "7f364c777acfc1a0c8c3c62d9c3ad001fb1ea6df";
       fetchSubmodules = false;
-      sha256 = "sha256-NWQ+mCMwIJ9LD8iRVGfJtWAoECFE0hnKeR3R3PtxswM=";
+      sha256 = "sha256-3HY6FmnxxjzxGqFZ2muvP6JG5sTq49BMmRyZVX2pqWg=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "1eddb9655e696c0e225c7efeedf6293b9d898aee";
+    version = "43452294db398ac364f4782a28c018f17bed0873";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "1eddb9655e696c0e225c7efeedf6293b9d898aee";
+      rev = "43452294db398ac364f4782a28c018f17bed0873";
       fetchSubmodules = false;
-      sha256 = "sha256-5rh4exxafNqGYx93M2tMpUPBDOIUC0U72oo2lI2u9Zo=";
+      sha256 = "sha256-TmPqtEiFKLA8Zwy2E80Ce8jJD16WvERL/GDzoPdLvpU=";
     });
   };
   droidcam = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5558";
+    version = "1.0.5559";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5558.tar.bz2";
-      sha256 = "sha256-Z8QlGQvx/pDcbQRgMRZI9EqKaA3JJcQEk3AXaK4mdPc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5559.tar.bz2";
+      sha256 = "sha256-BqCTug3c/x/AmSNpA0O8DQ+PoPAANoMDlB5heOiY/q8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5558";
+    version = "1.0.5559";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5558-1_all.deb";
-      sha256 = "sha256-Gl/ySB1mmJttDohyzUeqzRCEPVPlOBrWrhebizRZVDs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5559-1_all.deb";
+      sha256 = "sha256-bKhK54ZIUS25bW5nFC8d+5WO463spr+7HwraU8kp4L0=";
     };
   };
   jitsi-videobridge2 = {
@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "ed68e17eb850cb6658f757c88be6cac97f6bd60e";
+    version = "5c22bc00604c983ca6c98154cc660882229feffc";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "ed68e17eb850cb6658f757c88be6cac97f6bd60e";
+      rev = "5c22bc00604c983ca6c98154cc660882229feffc";
       fetchSubmodules = false;
-      sha256 = "sha256-caDSwOOqr/XGx/vQFFnZeqGXxEYZuUUoaCadpCumz68=";
+      sha256 = "sha256-4q0+PF2hx1HsEmP1AfBurBbQmW4EGRgozgpKt98Yguo=";
     });
     cargoLock = {
-      lockFile = ./ouch-ed68e17eb850cb6658f757c88be6cac97f6bd60e/Cargo.lock;
+      lockFile = ./ouch-5c22bc00604c983ca6c98154cc660882229feffc/Cargo.lock;
       outputHashes = { };
     };
   };
