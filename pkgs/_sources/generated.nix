@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-821";
+    version = "1.0-822";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-821-1_all.deb";
-      sha256 = "sha256-du6JFKSrLTB3I/P7FM0Uoh1zCH3hDfLd09OQFFYNvhs=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-822-1_all.deb";
+      sha256 = "sha256-4Hg7TKucbQQJzZaJK0RAioyE281o5rD7mK9MEnCXm8s=";
     };
   };
   jitsi-meet = {
@@ -437,10 +437,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "96.0.1054.13";
+    version = "96.0.1054.24";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_96.0.1054.13-1_amd64.deb";
-      sha256 = "sha256-GoMVncusfFfpJkeAEl/PkDYtxYBOL/GP603lSwQDCM0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_96.0.1054.24-1_amd64.deb";
+      sha256 = "sha256-2h8sMU8cHJens7EQYqasl6zYkSF72Cu4vx0lECrgBuU=";
     };
   };
   microsoft-edge-dev = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3b541c833edb7c45eea1b7b2e5b716d33baf13c3";
+    version = "9fa6cdf7bfa5c4e3565bb4d05bf1aa98624a4c0d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3b541c833edb7c45eea1b7b2e5b716d33baf13c3";
+      rev = "9fa6cdf7bfa5c4e3565bb4d05bf1aa98624a4c0d";
       fetchSubmodules = false;
-      sha256 = "sha256-5Ngfvgn9XRPa14NAh3DPG80TGyp8ayp15OXVa1uwYMc=";
+      sha256 = "sha256-b9eD3mPS6mUsv+UAHoHmyAqCbHex4d6Cv/1DiEtDApI=";
     });
   };
   tailscale-systray = {
@@ -1213,10 +1213,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.68.1";
+    version = "0.69.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.68.1/file/dendron.dendron-0.68.1.vsix";
-      sha256 = "sha256-C7B6jUgvJ6Ji9UBsK32nxP0f8haU91F7ENNG++STE3s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.69.0/file/dendron.dendron-0.69.0.vsix";
+      sha256 = "sha256-tDElCKIlT6HfInuS++O8IogXqMVJlap/QYL3JmeXfGk=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
