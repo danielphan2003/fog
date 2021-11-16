@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "43452294db398ac364f4782a28c018f17bed0873";
+    version = "c48984b9ecb30c8bb078bc503483fe4b5f4d9599";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "43452294db398ac364f4782a28c018f17bed0873";
+      rev = "c48984b9ecb30c8bb078bc503483fe4b5f4d9599";
       fetchSubmodules = false;
-      sha256 = "sha256-TmPqtEiFKLA8Zwy2E80Ce8jJD16WvERL/GDzoPdLvpU=";
+      sha256 = "sha256-XbjgWP93GD/oDQcXqQ+hzBLufLf6s8b5ShuSMTg2ZFg=";
     });
   };
   droidcam = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5559";
+    version = "1.0.5560";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5559.tar.bz2";
-      sha256 = "sha256-BqCTug3c/x/AmSNpA0O8DQ+PoPAANoMDlB5heOiY/q8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5560.tar.bz2";
+      sha256 = "sha256-JvqmXHzwHe4K4cuAyN/JSD+DkUCnh9DRosHj+Zhp7VE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5559";
+    version = "1.0.5560";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5559-1_all.deb";
-      sha256 = "sha256-bKhK54ZIUS25bW5nFC8d+5WO463spr+7HwraU8kp4L0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5560-1_all.deb";
+      sha256 = "sha256-3xeMap1DPtf9g3eB5iN2aiOxoNIiYZq3TbziKGi6oj8=";
     };
   };
   jitsi-videobridge2 = {
@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "4d9f5e412f69e60d0b71819f5f0d8181e42e897e";
+    version = "cb6d65c79aa917e367c994482c760682e97d8fbb";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "4d9f5e412f69e60d0b71819f5f0d8181e42e897e";
+      rev = "cb6d65c79aa917e367c994482c760682e97d8fbb";
       fetchSubmodules = false;
-      sha256 = "sha256-ukxynnMdYvSXR8ajSnn3E+Ed3bIu+5ioiVRQRjFvwfA=";
+      sha256 = "sha256-4q0+PF2hx1HsEmP1AfBurBbQmW4EGRgozgpKt98Yguo=";
     });
     cargoLock = {
-      lockFile = ./ouch-4d9f5e412f69e60d0b71819f5f0d8181e42e897e/Cargo.lock;
+      lockFile = ./ouch-cb6d65c79aa917e367c994482c760682e97d8fbb/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "41da7620af8508e415ac0b1e676f00d47ad5bbf4";
+    version = "36b1df12417f2024e36c3933234574129c14ddfd";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "41da7620af8508e415ac0b1e676f00d47ad5bbf4";
+      rev = "36b1df12417f2024e36c3933234574129c14ddfd";
       fetchSubmodules = false;
-      sha256 = "sha256-Yu0nu5tXxBdc4Qk52J7aoQLxmnx0cEL0Z4h009uF/kI=";
+      sha256 = "sha256-AEa/7PbklUAdEQGfgUd7GoiHk5sQR9fQD4eWf1S9Ei8=";
     });
   };
   tailscale-systray = {
@@ -1213,10 +1213,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.69.0";
+    version = "0.69.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.69.0/file/dendron.dendron-0.69.0.vsix";
-      sha256 = "sha256-tDElCKIlT6HfInuS++O8IogXqMVJlap/QYL3JmeXfGk=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.69.1/file/dendron.dendron-0.69.1.vsix";
+      sha256 = "sha256-xf+oP1gQapYT/LpNZbzFV/r3giaxhyrjrGPFjdSfFpE=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
