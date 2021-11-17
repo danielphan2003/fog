@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5561";
+    version = "1.0.5562";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5561.tar.bz2";
-      sha256 = "sha256-Hge+AzuHe1QCrY8cJYi6eioRQXhkZ1qPwW8F57t1ewY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5562.tar.bz2";
+      sha256 = "sha256-3iN8EaCdzv2dZJDq2dTfalg3kED3t6914vKP6TejufE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5561";
+    version = "1.0.5562";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5561-1_all.deb";
-      sha256 = "sha256-U7t2GzyEyikcGhiNhaJfuDCosjaHO+MUyl7O23Ir0s0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5562-1_all.deb";
+      sha256 = "sha256-IT+yOoeGsCVRFdIQw0bd1ytY+kOrWDxdhIDO5Gp6xts=";
     };
   };
   jitsi-videobridge2 = {
@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "385";
+    version = "386";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/385/downloads/paper-1.17.1-385.jar";
-      sha256 = "sha256-HXVmoqHo/Z0YDTb6LlI3oEdupt/J9fiyAQuHHZlNYJ8=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/386/downloads/paper-1.17.1-386.jar";
+      sha256 = "sha256-6P4iWSR84MiRjr63qpmlaE5zfyJASrCUdLUpmH3/noc=";
     };
   };
   picom = {
@@ -905,13 +905,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "5c0a523e54b35333ed8d10ac94dd5a97a5a26908";
+    version = "e731969cf6e969d61295dbdb322a0726f5bdc378";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "5c0a523e54b35333ed8d10ac94dd5a97a5a26908";
+      rev = "e731969cf6e969d61295dbdb322a0726f5bdc378";
       fetchSubmodules = false;
-      sha256 = "sha256-tk6cNZbdi6Ji6FklMrphD1VYDv5bUquEGvP3X7B9Bn0=";
+      sha256 = "sha256-dOK4YAv7kSNXVNK6zK2dnzGRktUnE6nd2YiUT1j5MmE=";
     });
   };
   spotify = {
