@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "2b6853bc7044d723c39649545be48d67f56e32bc";
+    version = "a6c1a89e5c131a989362ffd02880ae7094b0e112";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "2b6853bc7044d723c39649545be48d67f56e32bc";
+      rev = "a6c1a89e5c131a989362ffd02880ae7094b0e112";
       fetchSubmodules = false;
-      sha256 = "sha256-qt6TENyBhYWF3J1+jVqCvyZud+eTXtyqQqLy1miBNcs=";
+      sha256 = "sha256-ge2mysebqE+5tH+qPEftWGYtJGe94JqhznQJQmuU97I=";
     });
   };
   droidcam = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d7d1115abddaaf97895f8106f0aeaea8d6c5659d";
+    version = "f675123e0ac91777a2d61eac7d535ec725927a94";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "d7d1115abddaaf97895f8106f0aeaea8d6c5659d";
+      rev = "f675123e0ac91777a2d61eac7d535ec725927a94";
       fetchSubmodules = false;
-      sha256 = "sha256-DoStiVpNJvxqm4peteSQeqfDQKeYbPm0yIRvhyMXRVE=";
+      sha256 = "sha256-Oq8oeopFUFADycWU+S16kFbeS8uHNQD4YrqiYQUq+68=";
     });
   };
   flyingfox = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "773af7292b9528086f9bcf31846f5c27fe9745db";
+    version = "5b5f032c9a99ecedd34eacbe7365d5cb1a783656";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "773af7292b9528086f9bcf31846f5c27fe9745db";
+      rev = "5b5f032c9a99ecedd34eacbe7365d5cb1a783656";
       fetchSubmodules = false;
-      sha256 = "sha256-Nk4dY6BpRjacgokwHHS9ZqSxk/ZhJVd4+bV5iDLHCMo=";
+      sha256 = "sha256-+xQCVpsM4yEDl/jjmnC+LturMRo2Yo7v10f3sswjMoE=";
     });
   };
   tailscale-systray = {
@@ -1029,13 +1029,13 @@
   };
   ultimmc = {
     pname = "ultimmc";
-    version = "4a2580d0b77c5f97061ad80dabd81265160a5a47";
+    version = "21d4b896cb29e16ffca80be257766b81f2338855";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "4a2580d0b77c5f97061ad80dabd81265160a5a47";
+      rev = "21d4b896cb29e16ffca80be257766b81f2338855";
       fetchSubmodules = true;
-      sha256 = "sha256-FvzyiccELRIF4QTQ2WlDUb0YxGprl0YXxkonxAqU/nk=";
+      sha256 = "sha256-2Do4+p5bsuxKpdxB5IsczRBaF9nhCT3gM7yhf215D9w=";
     });
   };
   uniemoji = {
