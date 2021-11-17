@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "3088e8a71d71602c50a0842f3467b06f87176a60";
+    version = "2b6853bc7044d723c39649545be48d67f56e32bc";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "3088e8a71d71602c50a0842f3467b06f87176a60";
+      rev = "2b6853bc7044d723c39649545be48d67f56e32bc";
       fetchSubmodules = false;
-      sha256 = "sha256-/tkg5ysT+j6hK2SydMP53I0T9tXMWmXJWiuRbzS+upY=";
+      sha256 = "sha256-qt6TENyBhYWF3J1+jVqCvyZud+eTXtyqQqLy1miBNcs=";
     });
   };
   droidcam = {
@@ -445,10 +445,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "97.0.1069.0";
+    version = "97.0.1072.8";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_97.0.1069.0-1_amd64.deb";
-      sha256 = "sha256-iTW9hXm9cVssSaMznCPiqzRzaq/gbquVxI17Y3kUfQY=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_97.0.1072.8-1_amd64.deb";
+      sha256 = "sha256-+skM0wsYWSsrqxChlG3MNuvhOeJQETXdYX6ZdVULoqU=";
     };
   };
   minecraft-better-beds = {
