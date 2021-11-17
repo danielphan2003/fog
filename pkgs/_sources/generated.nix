@@ -301,13 +301,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "28acfd433b3df1673b7c7177915c027ce48c061e";
+    version = "d53d31d2dbab00e13e23862cf2bf88da532b9465";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "28acfd433b3df1673b7c7177915c027ce48c061e";
+      rev = "d53d31d2dbab00e13e23862cf2bf88da532b9465";
       fetchSubmodules = false;
-      sha256 = "sha256-S5j+ymWxTTqv1v2W2wBavM5aausX+T20/XjF89JuVFo=";
+      sha256 = "sha256-befu7ow66jqhXMnTOwFcFLjei0SMPvZpxTgbOt5qA6E=";
     });
   };
   ibus-bamboo = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5564";
+    version = "1.0.5565";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5564.tar.bz2";
-      sha256 = "sha256-yZ5g+RUWJNdL4lI66krnVizuom8Xx0Xi945qjK187Do=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5565.tar.bz2";
+      sha256 = "sha256-AKZETcPeoMQ1UN0n97q5xAwBeoqR0F0kjf2BAyOT1Ps=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5564";
+    version = "1.0.5565";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5564-1_all.deb";
-      sha256 = "sha256-flncJHl8RERMbET7zOvOJ1YNrMpS4IkFgFE8h0Jryk4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5565-1_all.deb";
+      sha256 = "sha256-Gjfqqa/ghCJHWgonKsiLBGEyGJwXtrnK0EMwpDYOigg=";
     };
   };
   jitsi-videobridge2 = {
@@ -1477,10 +1477,10 @@
   };
   vscode-extensions-svelte = {
     pname = "vscode-extensions-svelte";
-    version = "105.5.2";
+    version = "105.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.5.2/file/svelte.svelte-vscode-105.5.2.vsix";
-      sha256 = "sha256-059AtF+F0Ijg29aqvgszo0WpKt6fzgE94sIYcYMh0R0=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.5.3/file/svelte.svelte-vscode-105.5.3.vsix";
+      sha256 = "sha256-rClYWMVnh+0EXtpqgm5HjLxwFbwJKrZnU9Byyq/KYlo=";
     };
     homepage = "https://github.com/sveltejs/language-tools";
     license = "mit";
