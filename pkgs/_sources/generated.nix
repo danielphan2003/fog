@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "3b248c465bc147fd6a97b6896a113e0983bc964b";
+    version = "1b66ab044fa3ee13b02ae501b35a0fa21ef74cbd";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "3b248c465bc147fd6a97b6896a113e0983bc964b";
+      rev = "1b66ab044fa3ee13b02ae501b35a0fa21ef74cbd";
       fetchSubmodules = false;
-      sha256 = "sha256-UTRllZbB2G8p/TG5eIGFM7mPB+5VqcpmHbsZTDKnW/s=";
+      sha256 = "sha256-g8rnMLukXnjK7ZQIddYDxil8gkPKaFAYdS35hwH4ZTs=";
     });
   };
   droidcam = {
@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-822";
+    version = "1.0-823";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-822-1_all.deb";
-      sha256 = "sha256-4Hg7TKucbQQJzZaJK0RAioyE281o5rD7mK9MEnCXm8s=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-823-1_all.deb";
+      sha256 = "sha256-EZR60Xz8gVNk8iGrhHdtQhTL372bmjsYVjahmyaoGJQ=";
     };
   };
   jitsi-meet = {
