@@ -1279,10 +1279,10 @@
   };
   vscode-extensions-gitlens = {
     pname = "vscode-extensions-gitlens";
-    version = "11.6.0";
+    version = "11.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/11.6.0/file/eamodio.gitlens-11.6.0.vsix";
-      sha256 = "sha256-JxCNE/IL/v94xWmhebsRZo1Gw+nSSpDgZ41ZGongGVI=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/11.6.1/file/eamodio.gitlens-11.6.1.vsix";
+      sha256 = "sha256-S7/nRLoQO02BF2Rsw06z//jQtm46RKcBKNHsye2wuS4=";
     };
     homepage = "https://github.com/eamodio/vscode-gitlens";
     license = "mit";
@@ -1488,10 +1488,10 @@
   };
   vscode-extensions-tailwindcss = {
     pname = "vscode-extensions-tailwindcss";
-    version = "0.7.1";
+    version = "0.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.1/file/bradlc.vscode-tailwindcss-0.7.1.vsix";
-      sha256 = "sha256-uhb7fU5RDVeTfh3/PlHtSzI8Or1TH2ZRkSNINAPtsng=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.2/file/bradlc.vscode-tailwindcss-0.7.2.vsix";
+      sha256 = "sha256-4kdnJdBFSwc1rD21+VJAyga5q/sCeQ1MHwU4vfn1Gg0=";
     };
     homepage = "https://github.com/tailwindlabs/tailwindcss-intellisense";
     license = "mit";
