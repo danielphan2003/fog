@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5568";
+    version = "1.0.5569";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5568.tar.bz2";
-      sha256 = "sha256-r7jPcunNlcofAXiUZxZVYNrMnpKgM6+3FSSsiQ6wbeE=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5569.tar.bz2";
+      sha256 = "sha256-FM+HnhTr2IFSsHNGKtpcJJ9PQ84JM4hVLUXO1HOJiuQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5568";
+    version = "1.0.5569";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5568-1_all.deb";
-      sha256 = "sha256-QgGfRw4JaptS413gWbIaXCwkxlMgvpTuS90y0nVMOBE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5569-1_all.deb";
+      sha256 = "sha256-nsiIIz+xnge13Vu4QwuyWwfI4G6bYaAGchWeIODndK0=";
     };
   };
   jitsi-videobridge2 = {
@@ -1029,13 +1029,13 @@
   };
   ultimmc = {
     pname = "ultimmc";
-    version = "21d4b896cb29e16ffca80be257766b81f2338855";
+    version = "66bb7105db93e0977bb64a59a12b001f780e0566";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "21d4b896cb29e16ffca80be257766b81f2338855";
+      rev = "66bb7105db93e0977bb64a59a12b001f780e0566";
       fetchSubmodules = true;
-      sha256 = "sha256-2Do4+p5bsuxKpdxB5IsczRBaF9nhCT3gM7yhf215D9w=";
+      sha256 = "sha256-t/R3BBRy2orzUuh537xMPwORHmhQy4aGe96e77CVzZs=";
     });
   };
   uniemoji = {
