@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5571";
+    version = "1.0.5572";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5571.tar.bz2";
-      sha256 = "sha256-l7DAYrDN94UKIt9ZBSe57MDrscPv9SNL7Iwhxu4a7j8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5572.tar.bz2";
+      sha256 = "sha256-4+ULJBpBDvuTdlbeg6iEjd3X5x6QNF9K6OP9ziKXtBk=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5571";
+    version = "1.0.5572";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5571-1_all.deb";
-      sha256 = "sha256-qdRPXfYwAIBYWmvdV1H6m+lRTxIpMfhrq7KVsQeORD0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5572-1_all.deb";
+      sha256 = "sha256-9rG9Y4k+bcTqKGf/tPem0/BXbVGW7iuYfpoisgCVxV0=";
     };
   };
   jitsi-videobridge2 = {
@@ -1435,10 +1435,10 @@
   };
   vscode-extensions-python = {
     pname = "vscode-extensions-python";
-    version = "2021.10.1365161279";
+    version = "2021.11.1422169775";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2021.10.1365161279/file/ms-python.python-2021.10.1365161279.vsix";
-      sha256 = "sha256-mHt+cmYlONWwRdWgmtfetwfk1jRgegmxbEUHLlcllCk=";
+      url = "https://open-vsx.org/api/ms-python/python/2021.11.1422169775/file/ms-python.python-2021.11.1422169775.vsix";
+      sha256 = "sha256-Y8Wbpuieca/edIWqgq+lGSUMABOGvO/GuujGlEGmoKs=";
     };
     homepage = "https://github.com/Microsoft/vscode-python";
     license = "mit";
