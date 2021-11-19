@@ -57,13 +57,13 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "1777116b0a70373b14d4e543e1d897e96d019f65";
+    version = "17fb8fe8bcf0525cc2052b37492c7f6fc2f56454";
     src = fetchFromGitHub ({
       owner = "anime-dl";
       repo = "anime-downloader";
-      rev = "1777116b0a70373b14d4e543e1d897e96d019f65";
+      rev = "17fb8fe8bcf0525cc2052b37492c7f6fc2f56454";
       fetchSubmodules = false;
-      sha256 = "sha256-02qwCjY/WgzuKFKU0ctS3hl+MJoJs9V4KeN/i7xC6TA=";
+      sha256 = "sha256-DPA9FB0nk3lruRpFp2oql6GvaESkcao0iWenphD1qes=";
     });
   };
   any-nix-shell = {
@@ -894,13 +894,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "ed15c6d63013eb2f6ae8446d547bcb2a631fd3fc";
+    version = "93e179022b5c52237eb227545f472e601f2f4020";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "ed15c6d63013eb2f6ae8446d547bcb2a631fd3fc";
+      rev = "93e179022b5c52237eb227545f472e601f2f4020";
       fetchSubmodules = false;
-      sha256 = "sha256-Zet7y9iuXFYOqDic5SMJj5p44SyEqrt1RfzTkST+cmM=";
+      sha256 = "sha256-YMVB9nKsHYy65McYs1w/ETy+1b8GkjuWFk6PZs4HFko=";
     });
   };
   spicetify-themes = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "758c37b83d8fa2abd0ac461b4d6d1be41447b25b";
+    version = "5294125e7a5105d2673053d03715632cf8613674";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "758c37b83d8fa2abd0ac461b4d6d1be41447b25b";
+      rev = "5294125e7a5105d2673053d03715632cf8613674";
       fetchSubmodules = false;
-      sha256 = "sha256-3BHle47oN54/ut6PPEWwvsEX6E+dXESNICAX8vnvZiM=";
+      sha256 = "sha256-82Q7RilB4MWlmmsZsy4G2OGzKJqdg8lN0+mxwTIXNwY=";
     });
   };
   tailscale-systray = {
