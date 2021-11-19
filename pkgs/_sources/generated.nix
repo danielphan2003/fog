@@ -355,10 +355,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-588-gbc8a8ce8";
+    version = "2.1-589-g7da49666";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-588-gbc8a8ce8-1_all.deb";
-      sha256 = "sha256-9vQkCcD1xv2YRS/3RjFs6Oy/qkQSweK25E0FY1aCy48=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-589-g7da49666-1_all.deb";
+      sha256 = "sha256-LxFxKraP6BD6RyOBlUzTGVaTRflCuFhg1ghrW1ERn9o=";
     };
   };
   layout-machi = {
@@ -672,14 +672,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "3987d2f7647c61ff2e0fc707d3d7104df2dc420e";
+    version = "b3d91f274d9875ecf65f743b37d7a6a2d1b255bb";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "3987d2f7647c61ff2e0fc707d3d7104df2dc420e";
+      rev = "b3d91f274d9875ecf65f743b37d7a6a2d1b255bb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-pNTKxYkJm8DXQdf3YAxSdIcfbOTQB8Kt21BDxWFJhAM=";
+      sha256 = "sha256-pnyFaoUmdv/m+030CRj/HO4bvRScc0FzZ8H3UHt5d3Q=";
     };
   };
   pure = {
