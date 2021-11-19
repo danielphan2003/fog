@@ -1279,10 +1279,10 @@
   };
   vscode-extensions-gitlens = {
     pname = "vscode-extensions-gitlens";
-    version = "11.6.1";
+    version = "11.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/11.6.1/file/eamodio.gitlens-11.6.1.vsix";
-      sha256 = "sha256-S7/nRLoQO02BF2Rsw06z//jQtm46RKcBKNHsye2wuS4=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/11.7.0/file/eamodio.gitlens-11.7.0.vsix";
+      sha256 = "sha256-po8JzwrADPSZY2SBlaX3N6VSURP/PZIGjFhS3hyV8io=";
     };
     homepage = "https://github.com/eamodio/vscode-gitlens";
     license = "mit";
