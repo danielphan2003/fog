@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "386";
+    version = "388";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/386/downloads/paper-1.17.1-386.jar";
-      sha256 = "sha256-6P4iWSR84MiRjr63qpmlaE5zfyJASrCUdLUpmH3/noc=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/388/downloads/paper-1.17.1-388.jar";
+      sha256 = "sha256-xgYWuoQHSBud9tPGq3ISejoNvat7QoBLzt4BldO/O5E=";
     };
   };
   picom = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d04dee7ee05677eac3b3b6293ad656a7d9754bb3";
+    version = "7a8b629746a8df90b6569daf9915cfb7e5191c71";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d04dee7ee05677eac3b3b6293ad656a7d9754bb3";
+      rev = "7a8b629746a8df90b6569daf9915cfb7e5191c71";
       fetchSubmodules = false;
-      sha256 = "sha256-o46M7Xst2fXJLDULKND4jxwPJNpEn6Bq+H6qyzr2u1s=";
+      sha256 = "sha256-NjEJhsjwWYkZQbavq7E08RmxdkHHIMqPBz5Q5j0Ep2E=";
     });
   };
   rofi-wayland = {
@@ -1029,13 +1029,13 @@
   };
   ultimmc = {
     pname = "ultimmc";
-    version = "66bb7105db93e0977bb64a59a12b001f780e0566";
+    version = "b3412ca15c6f7f907652708662b08140d673fdfb";
     src = fetchFromGitHub ({
       owner = "AfoninZ";
       repo = "MultiMC5-Cracked";
-      rev = "66bb7105db93e0977bb64a59a12b001f780e0566";
+      rev = "b3412ca15c6f7f907652708662b08140d673fdfb";
       fetchSubmodules = true;
-      sha256 = "sha256-t/R3BBRy2orzUuh537xMPwORHmhQy4aGe96e77CVzZs=";
+      sha256 = "sha256-rxmSNWOj95N00DBhw95VKhyGylr3RUz/ScFOAvi8FkU=";
     });
   };
   uniemoji = {
