@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6f7685749f76fc7fc8b5d6c7b0672e91917f2558";
+    version = "ad1df1108e8e4f693db6a644ca150f659900215f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6f7685749f76fc7fc8b5d6c7b0672e91917f2558";
+      rev = "ad1df1108e8e4f693db6a644ca150f659900215f";
       fetchSubmodules = false;
-      sha256 = "sha256-PLGwjKS5T5NS+2eJ3c3dKjaYwFVhlZ/L8w2wGdEmb6U=";
+      sha256 = "sha256-eJZA8sW91ex8yEMSz4uAPTR7oDlv38d6jK3fvVPD0Xo=";
     });
   };
   caddy = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "53cc11ac58d87b75b2fd94d68a08ecd690a18ed2";
+    version = "d253143b8f76f272a4c21f2f949a6f189beb453a";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "53cc11ac58d87b75b2fd94d68a08ecd690a18ed2";
+      rev = "d253143b8f76f272a4c21f2f949a6f189beb453a";
       fetchSubmodules = false;
-      sha256 = "sha256-ogduLWr8yuUSJnftw5PWlyKqrCodhxilBRGyGcWmOj8=";
+      sha256 = "sha256-nalkI33BYWsQcooyAIL6RgnVH8lFfp87qZ+DTKZodxU=";
     });
   };
   flyingfox = {
