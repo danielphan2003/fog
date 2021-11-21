@@ -790,16 +790,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5e0bf8f5a94b0592e29d2f9a3a04a7f52645e820";
+    version = "b79f086df5180cec2ce53c5d2cbae5611874561c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5e0bf8f5a94b0592e29d2f9a3a04a7f52645e820";
+      rev = "b79f086df5180cec2ce53c5d2cbae5611874561c";
       fetchSubmodules = false;
-      sha256 = "sha256-NJrvLhZl03qKrbx+hbZMWEhce8tm3KMAnI6vduON2UE=";
+      sha256 = "sha256-3NA2Rg3j1PahV0D/qZ3JLfJDor7Z6lKp/9BNAXcyCi8=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-5e0bf8f5a94b0592e29d2f9a3a04a7f52645e820/Cargo.lock;
+      lockFile = ./rustdesk-b79f086df5180cec2ce53c5d2cbae5611874561c/Cargo.lock;
       outputHashes = {
         "magnum-opus-0.3.4-2" = "sha256-3Bl4jyDg5E9zzADdz7jM5SY2HYksokE1jS/ocE/iXcc=";
         "rust-pulsectl-0.2.10" = "sha256-fJcd4aNixFW4dqp+RoHEYQKq78iYZsNa4SpopMIh8Fg=";
