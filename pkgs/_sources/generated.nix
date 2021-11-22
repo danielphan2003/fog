@@ -1596,14 +1596,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "35af1299e73483eaf93d913a960e1d1738bc7de6";
+    version = "da9d012a9c760896941769d4127e3cfb1a7a9f03";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "35af1299e73483eaf93d913a960e1d1738bc7de6";
+      rev = "da9d012a9c760896941769d4127e3cfb1a7a9f03";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-+kbhRgzRCtmmFfI5Hr2+yVQoscdD8sc0MtN7tNO/rrE=";
+      sha256 = "sha256-mJ2KZKH7FLTEu8I1p8YCI2a4YAMcNsOFa9GQ8LgWey4=";
     };
   };
   ydotool = {
