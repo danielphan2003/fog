@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "7f364c777acfc1a0c8c3c62d9c3ad001fb1ea6df";
+    version = "eead337324593ef5cd30ebce2be26da84de00787";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "7f364c777acfc1a0c8c3c62d9c3ad001fb1ea6df";
+      rev = "eead337324593ef5cd30ebce2be26da84de00787";
       fetchSubmodules = false;
-      sha256 = "sha256-3HY6FmnxxjzxGqFZ2muvP6JG5sTq49BMmRyZVX2pqWg=";
+      sha256 = "sha256-yQLiPUxJThP3hXj338yOZrUCWwgcZtbyWyLfpxqtAs8=";
     });
   };
   cups-pdf = {
@@ -290,13 +290,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "28f0b38bb2ba2343291edd14ac8310f4c1b3a55e";
+    version = "c2171446f8c72c31e6711d9ca918adb185c7b103";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "28f0b38bb2ba2343291edd14ac8310f4c1b3a55e";
+      rev = "c2171446f8c72c31e6711d9ca918adb185c7b103";
       fetchSubmodules = false;
-      sha256 = "sha256-VsAXqI5Qk10APu1SqB9qSwTzWZfRFvuvhsHmH9AeBjA=";
+      sha256 = "sha256-56TjGJ2/HkCga94nMtXWQWss20Nf63Jd0FYLo7ATqgE=";
     });
   };
   ibus = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "937e96f43d669bac5ae57d1e83fe242803e69f0a";
+    version = "1a629a4715d740959556d472dc8a9db843fe3257";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "937e96f43d669bac5ae57d1e83fe242803e69f0a";
+      rev = "1a629a4715d740959556d472dc8a9db843fe3257";
       fetchSubmodules = false;
-      sha256 = "sha256-ZWuYVpIwbo47dq/EvNzEhSaXCUOeYmut2SFG22ulPM0=";
+      sha256 = "sha256-7ArYaYnfdH2Dos+Re2WDD8TgWh9WcC8H1l9CziN+Vd8=";
     });
   };
   tailscale-systray = {
@@ -1569,6 +1569,28 @@
       rev = "fa098efa7f6b34f8cd82e2c249c81c629901976c";
       fetchSubmodules = false;
       sha256 = "sha256-wm0vDU7QckFvpgI50PG4/elgPEkfr8xTmroz8kE6QMo=";
+    });
+  };
+  xdg-desktop-portal = {
+    pname = "xdg-desktop-portal";
+    version = "610b3ad876140bc4494bda1267138cf4c2d6665e";
+    src = fetchFromGitHub ({
+      owner = "flatpak";
+      repo = "xdg-desktop-portal";
+      rev = "610b3ad876140bc4494bda1267138cf4c2d6665e";
+      fetchSubmodules = false;
+      sha256 = "sha256-RjB3hMLoX7G5+CVBxYqCWiLxa9hazRHqT3H/BiqH9Qw=";
+    });
+  };
+  xdg-desktop-portal-gtk = {
+    pname = "xdg-desktop-portal-gtk";
+    version = "b28b5e69a145dc48fd5db992824d594ddab0f31c";
+    src = fetchFromGitHub ({
+      owner = "flatpak";
+      repo = "xdg-desktop-portal-gtk";
+      rev = "b28b5e69a145dc48fd5db992824d594ddab0f31c";
+      fetchSubmodules = false;
+      sha256 = "sha256-3XItPlM2oUbmIwsg8ck8AMabiMx4i3DsFTb2HVwgv64=";
     });
   };
   xorg-libxcvt = {
