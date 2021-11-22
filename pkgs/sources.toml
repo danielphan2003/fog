@@ -365,7 +365,7 @@ src.git = "https://github.com/Ulauncher/Ulauncher"
 fetch.github = "Ulauncher/Ulauncher"
 
 [ultimmc]
-src.git = "https://github.com/AfoninZ/MultiMC5-Cracked"
+src.manual = "66bb7105db93e0977bb64a59a12b001f780e0566"
 fetch.github = "AfoninZ/MultiMC5-Cracked"
 git.fetchSubmodules = true
 
