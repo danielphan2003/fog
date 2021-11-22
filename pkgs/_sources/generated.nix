@@ -290,13 +290,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "c01d3c8d6428ab5b233afce0343216406eba3236";
+    version = "28f0b38bb2ba2343291edd14ac8310f4c1b3a55e";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "c01d3c8d6428ab5b233afce0343216406eba3236";
+      rev = "28f0b38bb2ba2343291edd14ac8310f4c1b3a55e";
       fetchSubmodules = false;
-      sha256 = "sha256-G2E92o+4WIM7EYuSGvy5MRcNKux6dcjBtIkl2J34F4M=";
+      sha256 = "sha256-VsAXqI5Qk10APu1SqB9qSwTzWZfRFvuvhsHmH9AeBjA=";
     });
   };
   ibus = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5bb4df3a425fdc7088e88c956a3f3ed7dbc0b8f7";
+    version = "c2c36177b82f95a1ac6ce4027a85729d83b8e8ea";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5bb4df3a425fdc7088e88c956a3f3ed7dbc0b8f7";
+      rev = "c2c36177b82f95a1ac6ce4027a85729d83b8e8ea";
       fetchSubmodules = false;
-      sha256 = "sha256-zddaQgfiYE5m9/1hbF8rUKJVyXrZfPUpEd4qk0EnJRw=";
+      sha256 = "sha256-GBRsJ5GGaINdONtYqReGFcnCg8tglATw/RRFhYGtCP4=";
     });
   };
   rofi-wayland = {
