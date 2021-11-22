@@ -412,6 +412,14 @@ fetch.url = "https://dl.google.com/widevine-cdm/$ver-linux-x64.zip"
 src.git = "https://github.com/ToadKing/wii-u-gc-adapter"
 fetch.github = "ToadKing/wii-u-gc-adapter"
 
+[xdg-desktop-portal]
+src.git = "https://github.com/flatpak/xdg-desktop-portal"
+fetch.github = "flatpak/xdg-desktop-portal"
+
+[xdg-desktop-portal-gtk]
+src.git = "https://github.com/flatpak/xdg-desktop-portal-gtk"
+fetch.github = "flatpak/xdg-desktop-portal-gtk"
+
 [xorg-libxcvt]
 src.git = "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
 fetch.git = "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
