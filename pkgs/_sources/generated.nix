@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "af636a77ae3e005e40847d493dde1104ee9cda23";
+    version = "14817dc1085fe6069125b27cdcfd5af14d6889ab";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "af636a77ae3e005e40847d493dde1104ee9cda23";
+      rev = "14817dc1085fe6069125b27cdcfd5af14d6889ab";
       fetchSubmodules = false;
-      sha256 = "sha256-YXyXlxlbiMrnxrqvEvJ/jyYhKBLL84zn0VRa87QWdk4=";
+      sha256 = "sha256-BYK2B/YiDbiSxcYIdYHbda8y6YMBvVqKSD4jmL/pOTA=";
     });
   };
   caddy = {
@@ -290,13 +290,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "10989b9cf2200a1450b1f67190be54fb38f4b9f0";
+    version = "c01d3c8d6428ab5b233afce0343216406eba3236";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "10989b9cf2200a1450b1f67190be54fb38f4b9f0";
+      rev = "c01d3c8d6428ab5b233afce0343216406eba3236";
       fetchSubmodules = false;
-      sha256 = "sha256-QhLOJTaltzuEaFG5jUBr5dgFPQZNvum1p0U/bNMXaqw=";
+      sha256 = "sha256-G2E92o+4WIM7EYuSGvy5MRcNKux6dcjBtIkl2J34F4M=";
     });
   };
   ibus = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "9982452c1821e785f0bbac3af2ff821bc252e913";
+    version = "5bb4df3a425fdc7088e88c956a3f3ed7dbc0b8f7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "9982452c1821e785f0bbac3af2ff821bc252e913";
+      rev = "5bb4df3a425fdc7088e88c956a3f3ed7dbc0b8f7";
       fetchSubmodules = false;
-      sha256 = "sha256-l3O+S0kC20+p8lAHSApKfKeJCmx1k6sKHWsxAbDLHfI=";
+      sha256 = "sha256-zddaQgfiYE5m9/1hbF8rUKJVyXrZfPUpEd4qk0EnJRw=";
     });
   };
   rofi-wayland = {
@@ -894,13 +894,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "93e179022b5c52237eb227545f472e601f2f4020";
+    version = "889ea1a738689ad267b7b5a38b431f25f2a199bf";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "93e179022b5c52237eb227545f472e601f2f4020";
+      rev = "889ea1a738689ad267b7b5a38b431f25f2a199bf";
       fetchSubmodules = false;
-      sha256 = "sha256-YMVB9nKsHYy65McYs1w/ETy+1b8GkjuWFk6PZs4HFko=";
+      sha256 = "sha256-CqTmo+eadXzDGX9wZG58Gk/nvrpuY0x6BbulE22YWrU=";
     });
   };
   spicetify-themes = {
@@ -950,13 +950,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "968bc5289b5c765542160b1db9c6b8da69cc4724";
+    version = "9350114432dbabfe9e1b6127599b6ee348697007";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "968bc5289b5c765542160b1db9c6b8da69cc4724";
+      rev = "9350114432dbabfe9e1b6127599b6ee348697007";
       fetchSubmodules = false;
-      sha256 = "sha256-TH/BdIq7FYoLhL16ruB9g3ZaJumJXNOa0JgINhHyPqI=";
+      sha256 = "sha256-KiSAlvSP3asoCThK+zIhTSvKtgZk0g4DFW1pHk6FS5g=";
     });
   };
   swaylock-effects = {
