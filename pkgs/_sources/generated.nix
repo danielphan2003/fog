@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "6b351a9458a307bfa37d0e61c7434a616f4de006";
+    version = "cbfb8abf1544c3e87f412f64a9747bd1dea4a705";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "6b351a9458a307bfa37d0e61c7434a616f4de006";
+      rev = "cbfb8abf1544c3e87f412f64a9747bd1dea4a705";
       fetchSubmodules = false;
-      sha256 = "sha256-CePPDYKr0gbO/xYZWBCwIcBnNTwe0uf2P2hI26mvIRk=";
+      sha256 = "sha256-RvG+GRh8Md1yrTzFniu1G2UpTnOb7KCGDfQmFvdtl58=";
     });
   };
   avizo = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "4b251dfa8dbeb91d51ac7a20fec7feb3a69380ca";
+    version = "328cf2a59a2cc3424a246274fcd67b8b8f90b746";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "4b251dfa8dbeb91d51ac7a20fec7feb3a69380ca";
+      rev = "328cf2a59a2cc3424a246274fcd67b8b8f90b746";
       fetchSubmodules = false;
-      sha256 = "sha256-bY32WDHhFhBpwHmJjvxBb7NtZopZ1k7HUORM1rNZsxQ=";
+      sha256 = "sha256-KfG/w4boxamTFH8ae+jF4Q6iOHAlnA1omiIbt64LyQo=";
     });
   };
   droidcam = {
