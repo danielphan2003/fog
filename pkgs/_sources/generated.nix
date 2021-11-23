@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "38d70581ac1618cb3e468499a65655e9230e477f";
+    version = "c471531e7188c3b44dc5cb84627316679195eb40";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "38d70581ac1618cb3e468499a65655e9230e477f";
+      rev = "c471531e7188c3b44dc5cb84627316679195eb40";
       fetchSubmodules = false;
-      sha256 = "sha256-Fbko+nikePMwrgX4vpdwRYZdj3i6AKcG0psj0ocexQo=";
+      sha256 = "sha256-IDGO0p/BTGKlfgqR5q0X3zzwF3zTfN6K+1UdwMoONrw=";
     });
   };
   droidcam = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5586";
+    version = "1.0.5587";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5586.tar.bz2";
-      sha256 = "sha256-+pJO6789HGysVwJVPojaKjN0u0tOCCH1DyHDmumaz8w=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5587.tar.bz2";
+      sha256 = "sha256-mPVsxm2zLMhrNQL/caxtjsnjkHOO9P2FQQWMr1RI35s=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5586";
+    version = "1.0.5587";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5586-1_all.deb";
-      sha256 = "sha256-jsvnrErrXKTnCDteLpwM4hCNPKzvUiCYs2xzQI+cxok=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5587-1_all.deb";
+      sha256 = "sha256-rDDIPyW2IgrGsXyBxn53yT44g4n86/Bi39AcooCpqkg=";
     };
   };
   jitsi-videobridge2 = {
@@ -469,10 +469,10 @@
   };
   minecraft-fabric-api = {
     pname = "minecraft-fabric-api";
-    version = "0.42.1+1.17";
+    version = "0.43.0+1.17";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.42.1+1.17/fabric-api-0.42.1+1.17.jar";
-      sha256 = "sha256-nmSO3RtLhCJGzYi/dF+JukMm1tHRv9bGWjFJ+2NbYJE=";
+      url = "https://github.com/FabricMC/fabric/releases/download/0.43.0+1.17/fabric-api-0.43.0+1.17.jar";
+      sha256 = "sha256-x+Phnxm3YooldZd2JzzKj64OAFD2+a132J2kk5KFbTM=";
     };
   };
   minecraft-fast-furnace = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b0d543f7a176169bc48b93ca622813a4b6f661c8";
+    version = "73beaaf36018df56e4f16144311e1a0749d35450";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b0d543f7a176169bc48b93ca622813a4b6f661c8";
+      rev = "73beaaf36018df56e4f16144311e1a0749d35450";
       fetchSubmodules = false;
-      sha256 = "sha256-c4v5KRp4ZB7HwDCfv7iSBa51H9ZXlVxKWIvnHnm1kdc=";
+      sha256 = "sha256-NRBIaaS1QLF+IqM0KLCreUeurAEpYneM/l/Pkwj3qGk=";
     });
   };
   tailscale-systray = {
@@ -1171,10 +1171,10 @@
   };
   vscode-extensions-codeql = {
     pname = "vscode-extensions-codeql";
-    version = "1.5.6";
+    version = "1.5.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.6/file/GitHub.vscode-codeql-1.5.6.vsix";
-      sha256 = "sha256-QCIxxxcRW7F4uz30mviWr4LYpbqBdFF1nZVSomDR7nQ=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.7/file/GitHub.vscode-codeql-1.5.7.vsix";
+      sha256 = "sha256-tzXLEBdIr0OaNJ8m3/46MufbAzajmMLZ1e97N6VTUqA=";
     };
     homepage = "https://github.com/github/vscode-codeql";
     license = "mit";
@@ -1213,10 +1213,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.69.1";
+    version = "0.70.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.69.1/file/dendron.dendron-0.69.1.vsix";
-      sha256 = "sha256-xf+oP1gQapYT/LpNZbzFV/r3giaxhyrjrGPFjdSfFpE=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.70.0/file/dendron.dendron-0.70.0.vsix";
+      sha256 = "sha256-XxHmLalihV9pEYtHjSZi7P908rjDepOLZiU5Bga8PCU=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
