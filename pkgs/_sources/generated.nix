@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "55026540574e2aaf2210b6d2cbd82c834dfb2c83";
+    version = "4eb213be95f9743a08b87b662ded7d54584a5689";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "55026540574e2aaf2210b6d2cbd82c834dfb2c83";
+      rev = "4eb213be95f9743a08b87b662ded7d54584a5689";
       fetchSubmodules = false;
-      sha256 = "sha256-kqTgU21CuzALQOSXdzRkcuj0y5kuz+ar/Ad1ZIMEeA8=";
+      sha256 = "sha256-xOt6Ksgdn0sn/dP45oG4rgKP6F4kX7welabT3zK2vO4=";
     });
   };
   caddy = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "328cf2a59a2cc3424a246274fcd67b8b8f90b746";
+    version = "38d70581ac1618cb3e468499a65655e9230e477f";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "328cf2a59a2cc3424a246274fcd67b8b8f90b746";
+      rev = "38d70581ac1618cb3e468499a65655e9230e477f";
       fetchSubmodules = false;
-      sha256 = "sha256-KfG/w4boxamTFH8ae+jF4Q6iOHAlnA1omiIbt64LyQo=";
+      sha256 = "sha256-Fbko+nikePMwrgX4vpdwRYZdj3i6AKcG0psj0ocexQo=";
     });
   };
   droidcam = {
@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-828";
+    version = "1.0-829";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-828-1_all.deb";
-      sha256 = "sha256-6nucyBV8hht/b1PC8KItZbRcJ36XiLaIEcrrlZu+Kv8=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-829-1_all.deb";
+      sha256 = "sha256-2pdktPKVU1M67jVhuw6R+MqAntM5pIwn3Cs0onmupLg=";
     };
   };
   jitsi-meet = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "a3b709f0c4ffb368c5498c865db2f91606a208ef";
+    version = "b0d543f7a176169bc48b93ca622813a4b6f661c8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "a3b709f0c4ffb368c5498c865db2f91606a208ef";
+      rev = "b0d543f7a176169bc48b93ca622813a4b6f661c8";
       fetchSubmodules = false;
-      sha256 = "sha256-FanEyHirhCLtcthpSidZvmYN7QG8CkNR7vMhwrLEyS4=";
+      sha256 = "sha256-c4v5KRp4ZB7HwDCfv7iSBa51H9ZXlVxKWIvnHnm1kdc=";
     });
   };
   tailscale-systray = {
@@ -1521,13 +1521,13 @@
   };
   wgcf = {
     pname = "wgcf";
-    version = "64cf7a5c1b1e39b3180471b74434a81874addf91";
+    version = "eaa77f8e381c23b0df69edbe0a480b31a18287a0";
     src = fetchFromGitHub ({
       owner = "ViRb3";
       repo = "wgcf";
-      rev = "64cf7a5c1b1e39b3180471b74434a81874addf91";
+      rev = "eaa77f8e381c23b0df69edbe0a480b31a18287a0";
       fetchSubmodules = false;
-      sha256 = "sha256-UmLK76BPYhg1cUDVTEb1JqcTZxpJtjERNL5gcoKkAiU=";
+      sha256 = "sha256-ksgWuXZ6sosaAoVjqUxvOayfHfgw5qbUraCthq38l6Y=";
     });
   };
   whitesur-gtk-theme = {
