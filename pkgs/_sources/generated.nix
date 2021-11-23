@@ -517,7 +517,7 @@
   };
   minecraft-sodium = {
     pname = "minecraft-sodium";
-    version = "0.3.2";
+    version = "0.3.3";
     src = fetchurl {
       url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/sodium-artifacts-1.17.x-dev.zip";
       sha256 = "sha256-7nuKV4E8LFghAdp5sc04+XZlrDp+PL3c7o9BlAqaBhc=";
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "0a40e1f771866f351104a79243975606c8998a4c";
+    version = "adc325e9085fc3497f79c0c71adb400dcf45e089";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "0a40e1f771866f351104a79243975606c8998a4c";
+      rev = "adc325e9085fc3497f79c0c71adb400dcf45e089";
       fetchSubmodules = false;
-      sha256 = "sha256-k1h6A78qTxgXcvPnhJEuWi+kArhW/AYdxBB/8gjk5b4=";
+      sha256 = "sha256-4aUXQh5pR7vxWJUNwOqk6DPFfpJnh7giDQDBvbsIiR0=";
     });
   };
   rofi-wayland = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6fd6fe11f2d7a9fa3ec0d641e385b30fa6db1dbe";
+    version = "283ae702c16c8da2033b0d23bab35260378abaf8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6fd6fe11f2d7a9fa3ec0d641e385b30fa6db1dbe";
+      rev = "283ae702c16c8da2033b0d23bab35260378abaf8";
       fetchSubmodules = false;
-      sha256 = "sha256-Yak0cD9nBwfftBvap3w5pzxC6WJvZe+N9ijil51puNk=";
+      sha256 = "sha256-qw4zifWs0ET7p3/f97tzBC4GLENeb4nDzb3Req3+Kg8=";
     });
   };
   tailscale-systray = {
