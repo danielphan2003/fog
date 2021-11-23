@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "de81fa1158285e4bcca5cbce9cd73bd5c45cf860";
+    version = "55026540574e2aaf2210b6d2cbd82c834dfb2c83";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "de81fa1158285e4bcca5cbce9cd73bd5c45cf860";
+      rev = "55026540574e2aaf2210b6d2cbd82c834dfb2c83";
       fetchSubmodules = false;
-      sha256 = "sha256-BEKbjDLnuRL6Y9ahjDA+aJw+HVRcPb4Kn/f1XuD34yY=";
+      sha256 = "sha256-kqTgU21CuzALQOSXdzRkcuj0y5kuz+ar/Ad1ZIMEeA8=";
     });
   };
   caddy = {
@@ -355,10 +355,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-591-g7fb44c12";
+    version = "2.1-592-g1e2879e0";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-591-g7fb44c12-1_all.deb";
-      sha256 = "sha256-P7Vod/p/WzQd8zuWWA684Uy0eNlG8pfDvraaXXFxihM=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-592-g1e2879e0-1_all.deb";
+      sha256 = "sha256-kO/RykUEXNqEoIR/cwwZGz4913teKjb7icjXPEBPgmM=";
     };
   };
   layout-machi = {
@@ -437,10 +437,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "96.0.1054.26";
+    version = "96.0.1054.34";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_96.0.1054.26-1_amd64.deb";
-      sha256 = "sha256-j33g33C+8O4BG1aQo4IC9zarT+RDsunkAkYhcZ7Fkfk=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_96.0.1054.34-1_amd64.deb";
+      sha256 = "sha256-A6r4+WwM9qwYv1ct954BYDVPagQnEjrARyefPGPmsr0=";
     };
   };
   microsoft-edge-dev = {
@@ -882,14 +882,14 @@
   };
   snui = {
     pname = "snui";
-    version = "7b6981103692ceafe5b06089d4ef55b1b4f95883";
+    version = "6306a418db83f6e5920af5d50f16ab2a2b719350";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "7b6981103692ceafe5b06089d4ef55b1b4f95883";
+      rev = "6306a418db83f6e5920af5d50f16ab2a2b719350";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-jZzvQAxofiwqHdA01GqDnDQYoTrLwggvqncE5Ebe1KE=";
+      sha256 = "sha256-zU6p/YP00yTUetBPbtF7af8uNy07qIQt7nbzsxd5fIM=";
     };
   };
   spicetify-cli = {
