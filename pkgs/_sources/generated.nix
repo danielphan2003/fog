@@ -134,24 +134,24 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4eb213be95f9743a08b87b662ded7d54584a5689";
+    version = "36c6405f94491697079304031f1bef5bc2ee6afc";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4eb213be95f9743a08b87b662ded7d54584a5689";
+      rev = "36c6405f94491697079304031f1bef5bc2ee6afc";
       fetchSubmodules = false;
-      sha256 = "sha256-xOt6Ksgdn0sn/dP45oG4rgKP6F4kX7welabT3zK2vO4=";
+      sha256 = "sha256-zh4l7II9ftWEjARBQ+EmPjxp2lNRpA0u+XYwdBufnCk=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "789efa5deef53071b57479d37e4022bf372c4eef";
+    version = "9ee68c1bd57d72e8a969f1da492bd51bfa5ed9a0";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "789efa5deef53071b57479d37e4022bf372c4eef";
+      rev = "9ee68c1bd57d72e8a969f1da492bd51bfa5ed9a0";
       fetchSubmodules = false;
-      sha256 = "sha256-m2YSlSRLD7wkPARXNnogQcjv+yXBWA+6P0WuGHEaSAM=";
+      sha256 = "sha256-wuHRvcKq7cqgYnuJ6dR/bJJkVPqRoN4n8iHlrIYl0Pg=";
     });
   };
   cups-pdf = {
