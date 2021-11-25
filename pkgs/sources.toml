@@ -323,8 +323,8 @@ src.git = "https://github.com/morpheusthewhite/spicetify-themes"
 fetch.github = "morpheusthewhite/spicetify-themes"
 
 [spotify]
-src.manual = "1.1.68.632.g2b11de83"
-fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_53.snap"
+src.manual = "1.1.72.439.gc253025e"
+fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_56.snap"
 
 [spotifyd]
 src.git = "https://github.com/Spotifyd/spotifyd"
