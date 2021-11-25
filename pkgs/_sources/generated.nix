@@ -1334,10 +1334,10 @@
   };
   vscode-extensions-material-icon-theme = {
     pname = "vscode-extensions-material-icon-theme";
-    version = "4.10.0";
+    version = "4.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.10.0/file/PKief.material-icon-theme-4.10.0.vsix";
-      sha256 = "sha256-x7ZITFa2G1oCA7+PX/py+r75fukxvU09BazcfOPc8Ak=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.11.0/file/PKief.material-icon-theme-4.11.0.vsix";
+      sha256 = "sha256-nN+MiHffPppE7M9mVl4rXlwt/g1gegwMFt3IOGyW6nk=";
     };
     homepage = "https://github.com/PKief/vscode-material-icon-theme";
     license = "mit";
