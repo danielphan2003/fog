@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5069acd288ee64247c31390cee766777dc92024b";
+    version = "99a1ffdb899de798de464f620870bc8237a18972";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5069acd288ee64247c31390cee766777dc92024b";
+      rev = "99a1ffdb899de798de464f620870bc8237a18972";
       fetchSubmodules = false;
-      sha256 = "sha256-kH81WNb2FMEYLYYuZL/FOCVKlgcydtRRUwoWOwtq2IU=";
+      sha256 = "sha256-XYHkGdKBSeAf1yqekMHXb2LJxuo1dancW3iOY5+z2HI=";
     });
   };
   rofi-wayland = {
@@ -894,13 +894,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "889ea1a738689ad267b7b5a38b431f25f2a199bf";
+    version = "15601678df202845582dd0a59bd4a8a1fef9383e";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "889ea1a738689ad267b7b5a38b431f25f2a199bf";
+      rev = "15601678df202845582dd0a59bd4a8a1fef9383e";
       fetchSubmodules = false;
-      sha256 = "sha256-CqTmo+eadXzDGX9wZG58Gk/nvrpuY0x6BbulE22YWrU=";
+      sha256 = "sha256-Ht+EDCoPn1dA8VHTEiq5xPm34lcsiug8jQHvQdCG2yg=";
     });
   };
   spicetify-themes = {
