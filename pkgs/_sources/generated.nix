@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5612";
+    version = "1.0.5613";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5612.tar.bz2";
-      sha256 = "sha256-pDxMICDbzxNLeR48F6knlEytFHPkFdicVa1mMuqQos0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5613.tar.bz2";
+      sha256 = "sha256-ueBsiXyGITtORnmh15wiJEisk4XOeevarGFNuNmLgfI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5612";
+    version = "1.0.5613";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5612-1_all.deb";
-      sha256 = "sha256-4+X/1j/b8XrRfqW2Aq6xhD/aLf/IxWnvr6O9+gAgRk8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5613-1_all.deb";
+      sha256 = "sha256-ZGCDODLwImU9wleBveosA60C2k+S2Q/4P2R3Pfo0MWk=";
     };
   };
   jitsi-videobridge2 = {
@@ -825,13 +825,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "f07f7e0b7dfa159f4914ec28b5dd9f7369537da4";
+    version = "e8e2a0f66efc2d67736cec92d3aab69332e93549";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "f07f7e0b7dfa159f4914ec28b5dd9f7369537da4";
+      rev = "e8e2a0f66efc2d67736cec92d3aab69332e93549";
       fetchSubmodules = false;
-      sha256 = "sha256-hYpyyuK1Sp4Rt7E1vyyPpOE2c1aOiRqmvvqG/u7F/S0=";
+      sha256 = "sha256-g5v2BQ5MrbFmBd85ETpYcUN9HjElNu+em3qolAe1UR4=";
     });
   };
   sddm-chili = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "25525b7754937dd87c04a6390aa35831761f60c3";
+    version = "e121c2f724e0138ab772a1a576144e253f26a960";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "25525b7754937dd87c04a6390aa35831761f60c3";
+      rev = "e121c2f724e0138ab772a1a576144e253f26a960";
       fetchSubmodules = false;
-      sha256 = "sha256-GmPt6m6jpUkyh2COePu89d5IDT/LM48gmx1kQaDdvBk=";
+      sha256 = "sha256-QaOu7dZ0oTPjCEUhx4mpavwRJL1Fg6K7oxXnmamw/9A=";
     });
   };
   tailscale-systray = {
