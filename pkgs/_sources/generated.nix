@@ -35,13 +35,13 @@
   };
   adl = {
     pname = "adl";
-    version = "bad3cb6d17ed70f814747c1b6ae8ac307c46992b";
+    version = "45b1dd4cb9350cde6b1fb8bc03d098c6864efcd5";
     src = fetchFromGitHub ({
       owner = "RaitaroH";
       repo = "adl";
-      rev = "bad3cb6d17ed70f814747c1b6ae8ac307c46992b";
+      rev = "45b1dd4cb9350cde6b1fb8bc03d098c6864efcd5";
       fetchSubmodules = false;
-      sha256 = "sha256-0WusE9WGxlfXjT1A41nQIM9Q7T3rk2JIieCksR7CsRg=";
+      sha256 = "sha256-AgIUMKo2mylkU/5Lhqz0PCmHEqQKQdPHnIZaqo8dr+o=";
     });
   };
   anbox = {
@@ -672,14 +672,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "f30b1cc3f28a2bf538f8d045c8163060d120c2c1";
+    version = "8563efb9da6f91307296ada00952c87fd489f484";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "f30b1cc3f28a2bf538f8d045c8163060d120c2c1";
+      rev = "8563efb9da6f91307296ada00952c87fd489f484";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-T5xHZjn6SPRjhJJq0u8Xm3lI+/A88yNh4gtBVvo0kuw=";
+      sha256 = "sha256-+ydPDKwPyz9OBsOCGPubeAQ0K8xkOkRUcJnSWVZkoAY=";
     };
   };
   pure = {
