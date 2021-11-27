@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "bcafa8b5a4cb0aa45e9f490128324e0c2e15a60b";
+    version = "5d537336a96f5b6d1940b890a9693b1a0e512810";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "bcafa8b5a4cb0aa45e9f490128324e0c2e15a60b";
+      rev = "5d537336a96f5b6d1940b890a9693b1a0e512810";
       fetchSubmodules = false;
-      sha256 = "sha256-v0PQV/mE0wDVENYx2ckZnbfeUfUSSDtuNj5h1P0EBBA=";
+      sha256 = "sha256-OvPlN5ZksWkKvQNRq8k/Dr78eeoY7jQJzVkHw2GTwUY=";
     });
   };
   droidcam = {
@@ -905,13 +905,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "08e52deb499a0bb1530f40098ae5d03c38314121";
+    version = "25498bc0783b8d024421a9265b8bd462106d0fc7";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "08e52deb499a0bb1530f40098ae5d03c38314121";
+      rev = "25498bc0783b8d024421a9265b8bd462106d0fc7";
       fetchSubmodules = false;
-      sha256 = "sha256-GUYB9jVGmZ8isLsFNZTNmUANapEJy2KT6ZYRaJX1hy0=";
+      sha256 = "sha256-tSMq+LZLo5tw8RNI7YmhP1I6FijleMNepg2YqqKQs+c=";
     });
   };
   spotify = {
