@@ -101,13 +101,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "e7a21947e6785f53042338c684b9b96cc9b0f500";
+    version = "1932bd017f1fd433a74f621d9fe836e355ec054a";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "e7a21947e6785f53042338c684b9b96cc9b0f500";
+      rev = "1932bd017f1fd433a74f621d9fe836e355ec054a";
       fetchSubmodules = false;
-      sha256 = "sha256-aFpDMbCnjqdCO1Y4YSOHKKdLBV2sjNch/DYUVQVIJJE=";
+      sha256 = "sha256-szo2aVHN+91z+91WWWHKDHU29fI4hGInyy3h+emBhB8=";
     });
   };
   awestore = {
@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "9ee68c1bd57d72e8a969f1da492bd51bfa5ed9a0";
+    version = "5e5af50e64a33ecd9c91aaa773d4f8428945ac74";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "9ee68c1bd57d72e8a969f1da492bd51bfa5ed9a0";
+      rev = "5e5af50e64a33ecd9c91aaa773d4f8428945ac74";
       fetchSubmodules = false;
-      sha256 = "sha256-wuHRvcKq7cqgYnuJ6dR/bJJkVPqRoN4n8iHlrIYl0Pg=";
+      sha256 = "sha256-XkiiYD481r+zCSV5MLv4JVxXT/G0u8t2WaFLR7M7bc4=";
     });
   };
   cups-pdf = {
@@ -882,14 +882,14 @@
   };
   snui = {
     pname = "snui";
-    version = "561dfec51bb3cd281f5f8e808f0ac9abe59eaeb9";
+    version = "9740766eadcd6a9074d5f23661918ac8671c9212";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "561dfec51bb3cd281f5f8e808f0ac9abe59eaeb9";
+      rev = "9740766eadcd6a9074d5f23661918ac8671c9212";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ZOFVC8vIu13xzCpV42ZjGopfeSFHb7Zk4VBACBrdWIs=";
+      sha256 = "sha256-rogw8VMN+OgPcap+RS4ifpRDRKX2IXTgRLsIXhGlGv4=";
     };
   };
   spicetify-cli = {
@@ -905,13 +905,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "25498bc0783b8d024421a9265b8bd462106d0fc7";
+    version = "61d7c6787b8f4e2b056b1d8db74512237c331d52";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "25498bc0783b8d024421a9265b8bd462106d0fc7";
+      rev = "61d7c6787b8f4e2b056b1d8db74512237c331d52";
       fetchSubmodules = false;
-      sha256 = "sha256-tSMq+LZLo5tw8RNI7YmhP1I6FijleMNepg2YqqKQs+c=";
+      sha256 = "sha256-UrKOUQN9Kopa5aXdOBlTs0+TWep0K6OnGJHkKLwr73E=";
     });
   };
   spotify = {
