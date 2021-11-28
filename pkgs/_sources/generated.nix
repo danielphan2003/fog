@@ -242,13 +242,13 @@
   };
   fake-background-webcam = {
     pname = "fake-background-webcam";
-    version = "80f04cf8762e31fad55a90bc5559c07f6e94c6b2";
+    version = "ba100796e2ea383de02a59a23c8cd05b917529f7";
     src = fetchFromGitHub ({
       owner = "fangfufu";
       repo = "Linux-Fake-Background-Webcam";
-      rev = "80f04cf8762e31fad55a90bc5559c07f6e94c6b2";
+      rev = "ba100796e2ea383de02a59a23c8cd05b917529f7";
       fetchSubmodules = false;
-      sha256 = "sha256-Uwttm0JksP1ZT6SWA6oTBsqKh4gjcPrvSN3E9yfvSYU=";
+      sha256 = "sha256-JkdY2G6y9zimEdfHxjnJd5M+0OAgL85nABAqBTMZAk8=";
     });
   };
   flameshot = {
