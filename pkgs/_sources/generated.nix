@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "e18320acb30966527d7ed81a2fabbbca89ad3f59";
+    version = "b2cfe0757879646c8e0362c2491c1af9547fc117";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "e18320acb30966527d7ed81a2fabbbca89ad3f59";
+      rev = "b2cfe0757879646c8e0362c2491c1af9547fc117";
       fetchSubmodules = false;
-      sha256 = "sha256-5JOOh84O1tYbA6SFRNMEOeu1Ioky05ZiEYV0agB3f0k=";
+      sha256 = "sha256-DAZ9vBf5jcseM6h86Vrd+ZLwR32+yGpTRpQNAEpSa8w=";
     });
   };
   droidcam = {
@@ -1118,10 +1118,10 @@
   };
   vscode-extensions-Material-theme = {
     pname = "vscode-extensions-Material-theme";
-    version = "3.13.4";
+    version = "3.13.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.4/file/zhuangtongfa.material-theme-3.13.4.vsix";
-      sha256 = "sha256-7AUuRJZs1TMJSxTr8TOXU8sXUZXIH6464TtC1S6yRII=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.5/file/zhuangtongfa.material-theme-3.13.5.vsix";
+      sha256 = "sha256-xNcegMU8kBWIiZpDFgcWPirzoMk/B8gT4fHkzL4dZR4=";
     };
     homepage = "https://github.com/Binaryify/OneDark-Pro";
     license = "mit";
@@ -1532,13 +1532,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "aa3ded34806962656ca242026c8544c6dc4d0895";
+    version = "1a1020052d78505c7331f3861f238ea79ef624cb";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "aa3ded34806962656ca242026c8544c6dc4d0895";
+      rev = "1a1020052d78505c7331f3861f238ea79ef624cb";
       fetchSubmodules = false;
-      sha256 = "sha256-V4+BCQOWaKgq04PKFK+6PYuGIiH6WsRfvP/Q5o+lAWA=";
+      sha256 = "sha256-9PlwRJ8YFpJ++j0vq9trRwQOVBNl/Ck92fn9vHo8XjY=";
     });
   };
   whitesur-icon-theme = {
