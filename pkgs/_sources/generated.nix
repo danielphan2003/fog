@@ -779,13 +779,13 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "70efa84f9bdf46593ee9d1a11acfe0a6e1c899a7";
+    version = "a2a1c89df846eabeb8e2e7ad7c7beb6d23e11d86";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "70efa84f9bdf46593ee9d1a11acfe0a6e1c899a7";
+      rev = "a2a1c89df846eabeb8e2e7ad7c7beb6d23e11d86";
       fetchSubmodules = true;
-      sha256 = "sha256-1k/s/9jvCrJVQZ6itnmmxG00h2/Q++PpfOkD43p36hg=";
+      sha256 = "sha256-adTHy37sg2NcxPbuXKihMLYGN2H9JUS+sOHW1qZphO4=";
     });
   };
   rustdesk = {
