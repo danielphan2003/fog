@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "5e5af50e64a33ecd9c91aaa773d4f8428945ac74";
+    version = "f55b123d63132e290789bcd07077375c76b6e1dd";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "5e5af50e64a33ecd9c91aaa773d4f8428945ac74";
+      rev = "f55b123d63132e290789bcd07077375c76b6e1dd";
       fetchSubmodules = false;
-      sha256 = "sha256-XkiiYD481r+zCSV5MLv4JVxXT/G0u8t2WaFLR7M7bc4=";
+      sha256 = "sha256-7f0L8/dlX5ujDpualJJpRgr7XxeXr6sSD+1ayFLwQmo=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "7f559d2a2cb0cce89194d90f0ecd234587f01011";
+    version = "3629e883a59c3ddb1c59c87d9def2699fe19da05";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "7f559d2a2cb0cce89194d90f0ecd234587f01011";
+      rev = "3629e883a59c3ddb1c59c87d9def2699fe19da05";
       fetchSubmodules = false;
-      sha256 = "sha256-k3fAbekLX+cJ9YUC18peazv4+SFDoO4P6PyqEcn78zc=";
+      sha256 = "sha256-EAgcDhn4JbNsRhMYpX1ub/rW0czDemEYZ6SrY12cS44=";
     });
   };
   droidcam = {
