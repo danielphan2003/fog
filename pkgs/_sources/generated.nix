@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "9ed25390c09270e254322154ff07ab3d182af48f";
+    version = "193953dc9123cadca50e7c6e5b86f73ae18a34f7";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "9ed25390c09270e254322154ff07ab3d182af48f";
+      rev = "193953dc9123cadca50e7c6e5b86f73ae18a34f7";
       fetchSubmodules = false;
-      sha256 = "sha256-/CI6LB5Q6ECLqvdxAh46vVX96OCLJ5Um0Kiir6bfCeQ=";
+      sha256 = "sha256-Erzik8UXReLQcQoigCi7l0JRTN9DpSsMF7EKdXPj/jg=";
     });
   };
   droidcam = {
@@ -1532,24 +1532,24 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "010c7469ba73806dd79a6abfdeb4411d9170cedc";
+    version = "9c384df8307db558e4d3a6fc73aaf4120f8b5f55";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "010c7469ba73806dd79a6abfdeb4411d9170cedc";
+      rev = "9c384df8307db558e4d3a6fc73aaf4120f8b5f55";
       fetchSubmodules = false;
-      sha256 = "sha256-a0WT7ZZ3X0+LWMDVbJ0W0qOprQ6ca6zKBzjnQp7OK4s=";
+      sha256 = "sha256-NMzBgbuVbTGkACigV2VdBhoVwUyuZBKslgtnvGTXc4E=";
     });
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "4ef199e6afac6116d359a31c3357129b526103d2";
+    version = "393902efef7e855301ed130e9f6c9a7a198dac95";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "4ef199e6afac6116d359a31c3357129b526103d2";
+      rev = "393902efef7e855301ed130e9f6c9a7a198dac95";
       fetchSubmodules = false;
-      sha256 = "sha256-ivZ5AGB57a+JMNKIoHjpcJiylQYQM3DRLUPFzdcmQHQ=";
+      sha256 = "sha256-mnG7W01ff02v2ns6CJB9JZjnQIhBTXhVxTHSVf+04fw=";
     });
   };
   widevine-cdm = {
