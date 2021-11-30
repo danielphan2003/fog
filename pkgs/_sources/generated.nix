@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "80cd559bbffd537429e9138006b249d1ddab73b2";
+    version = "ce336a6a70725ba47db54092026caab8c1f84c52";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "80cd559bbffd537429e9138006b249d1ddab73b2";
+      rev = "ce336a6a70725ba47db54092026caab8c1f84c52";
       fetchSubmodules = false;
-      sha256 = "sha256-V/jn1KkawBdy7d8h+H1BDzj5r+z7FHoRyfgObSVucJ0=";
+      sha256 = "sha256-GuzcWVHU1VnXFTXvtrf+z/Ewd+i9nZSOKYPJhGT9DXU=";
     });
   };
   flyingfox = {
@@ -290,13 +290,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "32035f9aee4c2a37aa8a17c24ac9a254d9fa09db";
+    version = "8d5c1051ce2ad1dce05dda8aaba1c5a8ec044836";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "32035f9aee4c2a37aa8a17c24ac9a254d9fa09db";
+      rev = "8d5c1051ce2ad1dce05dda8aaba1c5a8ec044836";
       fetchSubmodules = false;
-      sha256 = "sha256-FmFucNgDzOIC0HB118wNAcSBm7foTRzeIdWgvT+L/OU=";
+      sha256 = "sha256-+DE3AdprOOLO05fQey9aJBVjh7kQBs3dPJNkeUN+ZiA=";
     });
   };
   ibus = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "341e1af8734d97dbec3b3dc7494e5d464c9b1615";
+    version = "d89c61b8128221d53e5e077634553a3d8cb6f2fa";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "341e1af8734d97dbec3b3dc7494e5d464c9b1615";
+      rev = "d89c61b8128221d53e5e077634553a3d8cb6f2fa";
       fetchSubmodules = false;
-      sha256 = "sha256-ixW7T8ngyaj9z9RdlwOA5HIjdlaHN9yNqKYc+zKbuRw=";
+      sha256 = "sha256-CA5aA7vgUG+bRf5mAwR4/ClP14ScJoVE7wW15lrA2Bc=";
     });
   };
   tailscale-systray = {
@@ -1446,10 +1446,10 @@
   };
   vscode-extensions-react-native = {
     pname = "vscode-extensions-react-native";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.8.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-7o8CVqyZqK4evv7Tdqwi5Obwj/uZlUdW8Lkvp9S7M+c=";
+      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.8.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-pJ9brxXIsC6cTZ+08RWweQrakEVTkpklCV4pcF3q2hk=";
     };
     license = "mit";
   };
