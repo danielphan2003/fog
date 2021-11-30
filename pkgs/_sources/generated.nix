@@ -544,10 +544,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.31.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.31.0.tar.gz";
-      sha256 = "sha256-4IjEtm4b4qttyKWbI3Yie++hlaESpIOJGRbsDwWA7UA=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.32.0.tar.gz";
+      sha256 = "sha256-m3f0aHUneNFOxXyzt2rR8sm9YGt/m/R9Ms5t84zUViY=";
     };
   };
   netdata-go-d-plugin = {
