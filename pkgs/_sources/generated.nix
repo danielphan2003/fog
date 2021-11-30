@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5618";
+    version = "1.0.5619";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5618.tar.bz2";
-      sha256 = "sha256-iVNpphN1Wp72TcelfZe0mCTdaBmE6xlh+VMOP5rytqY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5619.tar.bz2";
+      sha256 = "sha256-caEKJ/JnrjVB/UUJM+Vl+GYYKv3eUNjS4pgb5t/Wxdo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5618";
+    version = "1.0.5619";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5618-1_all.deb";
-      sha256 = "sha256-3eVq5uMXmWk6a0YRBQoD8/nM/19NZMFBr5SOKSjM7mk=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5619-1_all.deb";
+      sha256 = "sha256-nk3wQHpQ6UWbmSqMLYHgk7VGXihD/0srSohGoZj5oy4=";
     };
   };
   jitsi-videobridge2 = {
@@ -517,7 +517,7 @@
   };
   minecraft-sodium = {
     pname = "minecraft-sodium";
-    version = "0.3.3";
+    version = "mc1.18-0.4.0-alpha5";
     src = fetchurl {
       url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/sodium-artifacts-1.17.x-dev.zip";
       sha256 = "sha256-7nuKV4E8LFghAdp5sc04+XZlrDp+PL3c7o9BlAqaBhc=";
