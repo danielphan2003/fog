@@ -1455,10 +1455,10 @@
   };
   vscode-extensions-rest-client = {
     pname = "vscode-extensions-rest-client";
-    version = "0.24.5";
+    version = "0.24.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/humao/rest-client/0.24.5/file/humao.rest-client-0.24.5.vsix";
-      sha256 = "sha256-PDgTSzK62LPWokkGK/v/+plNBdAM6ZkZx+AKCKUcCpA=";
+      url = "https://open-vsx.org/api/humao/rest-client/0.24.6/file/humao.rest-client-0.24.6.vsix";
+      sha256 = "sha256-rtKfCn5QW74f5YM3zOg/sxU6gX2PLFYmItdwjSMizRU=";
     };
     homepage = "https://github.com/Huachao/vscode-restclient";
     license = "mit";
