@@ -634,10 +634,10 @@
   };
   papermc = {
     pname = "papermc";
-    version = "388";
+    version = "391";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/388/downloads/paper-1.17.1-388.jar";
-      sha256 = "sha256-xgYWuoQHSBud9tPGq3ISejoNvat7QoBLzt4BldO/O5E=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/391/downloads/paper-1.17.1-391.jar";
+      sha256 = "sha256-RIjCofwXtldZ1rAYCOAg31NMK6drTE2q2SqQ3XJCJng=";
     };
   };
   picom = {
@@ -1213,10 +1213,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.70.0";
+    version = "0.71.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.70.0/file/dendron.dendron-0.70.0.vsix";
-      sha256 = "sha256-XxHmLalihV9pEYtHjSZi7P908rjDepOLZiU5Bga8PCU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.71.0/file/dendron.dendron-0.71.0.vsix";
+      sha256 = "sha256-CqN8wZ2/vA7Qz12/rnScOZ8RkrNor4XR3c91K039CyI=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
