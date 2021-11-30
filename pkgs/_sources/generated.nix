@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "ec14ccdd4075e46dd0235cc99ecfd92ed131c10a";
+    version = "c13315344762a067b61b0d9585db46bf2ed242a6";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "ec14ccdd4075e46dd0235cc99ecfd92ed131c10a";
+      rev = "c13315344762a067b61b0d9585db46bf2ed242a6";
       fetchSubmodules = false;
-      sha256 = "sha256-kFAPGYQusZ4hjW5RfNFUeAheOfmEs8Qt86OTZATLdBg=";
+      sha256 = "sha256-LlRDtW6mQSWkWB9p3pSqj3/6B/lWS+xsMYNdqihYetU=";
     });
   };
   cups-pdf = {
@@ -205,13 +205,13 @@
   };
   droidcam = {
     pname = "droidcam";
-    version = "b527a730a47c45bc9cbad0fd34896299f8730cc9";
+    version = "1a8ac86b5941d7784c73300d63654db7296d4319";
     src = fetchFromGitHub ({
       owner = "aramg";
       repo = "droidcam";
-      rev = "b527a730a47c45bc9cbad0fd34896299f8730cc9";
+      rev = "1a8ac86b5941d7784c73300d63654db7296d4319";
       fetchSubmodules = false;
-      sha256 = "sha256-h88hIhdCyjC5vlJU4ohDmBVY2VEZQZGO5/x/bklidy4=";
+      sha256 = "sha256-3iA7GDTiCx5vHawj8ZBFAK0BIfmxEFuQrVfL7Gi6FhM=";
     });
   };
   duf = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5615";
+    version = "1.0.5616";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5615.tar.bz2";
-      sha256 = "sha256-0V2u+xfkH9ZqKDvOdT/fm13rngJ3yRULR/m5TEIe898=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5616.tar.bz2";
+      sha256 = "sha256-+A3Ny2vJnu/l3FPXN7q4RWDhveeikbb1caBoQVo6Mwc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5615";
+    version = "1.0.5616";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5615-1_all.deb";
-      sha256 = "sha256-JpJQmgh017z7GvYwcZVua/GywbgRbgckIjhQVA73GdI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5616-1_all.deb";
+      sha256 = "sha256-+A53/4UjtuvHyQOM9f7RbfjRqrA58wFZseIeQH25EzI=";
     };
   };
   jitsi-videobridge2 = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "97f3fca139d43529b7437d04e08ff2d5a75c790d";
+    version = "a585e05a8a69e8c8c2c82217699595754f67e01f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "97f3fca139d43529b7437d04e08ff2d5a75c790d";
+      rev = "a585e05a8a69e8c8c2c82217699595754f67e01f";
       fetchSubmodules = false;
-      sha256 = "sha256-x1OqycPhlACCFaKjMCl3EO+BXZOyQagoSYsRnlz1MjE=";
+      sha256 = "sha256-2In0jfEWGWt3i08+Q7e9PyFaUrAWVl64rJBFxdp7tsY=";
     });
   };
   rofi-wayland = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d9c21936c3e21825e3cd2422868a8d6293241300";
+    version = "6e584ffa33a8c2b4c11aeddf75cbbe79f4cbb523";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d9c21936c3e21825e3cd2422868a8d6293241300";
+      rev = "6e584ffa33a8c2b4c11aeddf75cbbe79f4cbb523";
       fetchSubmodules = false;
-      sha256 = "sha256-ez8D58jo42/4OsUQBC/m5VZA6c8rU+S6iGgvZJOp5VY=";
+      sha256 = "sha256-QB7K4Y5zaaYbqFbYk13oHsyC++5MD+8p2N5YC18q0NU=";
     });
   };
   tailscale-systray = {
