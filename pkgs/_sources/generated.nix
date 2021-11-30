@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5619";
+    version = "1.0.5620";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5619.tar.bz2";
-      sha256 = "sha256-caEKJ/JnrjVB/UUJM+Vl+GYYKv3eUNjS4pgb5t/Wxdo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5620.tar.bz2";
+      sha256 = "sha256-yGCiRbZbg+U6DPFuq57zSL3944sF9Ddw5Ibh6nnYf8Y=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5619";
+    version = "1.0.5620";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5619-1_all.deb";
-      sha256 = "sha256-nk3wQHpQ6UWbmSqMLYHgk7VGXihD/0srSohGoZj5oy4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5620-1_all.deb";
+      sha256 = "sha256-eHw0qMmPZEj/qGDI3HwiBSHv7/omUJ6tiS8KARXNwEY=";
     };
   };
   jitsi-videobridge2 = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "46a9782322e969af26f6fe9d191599354077dd02";
+    version = "e16cb523aa9744e48495cec8960e5c55de45c54f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "46a9782322e969af26f6fe9d191599354077dd02";
+      rev = "e16cb523aa9744e48495cec8960e5c55de45c54f";
       fetchSubmodules = false;
-      sha256 = "sha256-UaALwcn2tM6jK+2P06E+Vi0xt5mkxINSySMagVYLVcM=";
+      sha256 = "sha256-qGTnqd21oWRBgGwi6EK7UbumXKel2vjp/8pHSedkW6g=";
     });
   };
   tailscale-systray = {
@@ -1213,10 +1213,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.71.0";
+    version = "0.71.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.71.0/file/dendron.dendron-0.71.0.vsix";
-      sha256 = "sha256-CqN8wZ2/vA7Qz12/rnScOZ8RkrNor4XR3c91K039CyI=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.71.3/file/dendron.dendron-0.71.3.vsix";
+      sha256 = "sha256-LGSUDyjXx5uOwGPnuCJ/8EpTOaLTmalI5iKkrL46naA=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
