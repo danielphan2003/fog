@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "621c3a7b7e97f55b37a09620e73526ceabf51a6d";
+    version = "b4ef32cfce2513121e20e0804ad0d71e6723e8ec";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "621c3a7b7e97f55b37a09620e73526ceabf51a6d";
+      rev = "b4ef32cfce2513121e20e0804ad0d71e6723e8ec";
       fetchSubmodules = false;
-      sha256 = "sha256-j/ehb5RnKNqb2Wqb0CR3tGD34p/Ar7/N5/6rXj7ZLSo=";
+      sha256 = "sha256-0P2JznWASEqPrh5nNnQ2ZnFWlNxktBBT8ex1YPHXAdI=";
     });
   };
   rofi-wayland = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "56c72d9cde8b2851f0753be4c81cf4d5af23c8a8";
+    version = "49a9e62d581288af38948c65f6780cc92253988e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "56c72d9cde8b2851f0753be4c81cf4d5af23c8a8";
+      rev = "49a9e62d581288af38948c65f6780cc92253988e";
       fetchSubmodules = false;
-      sha256 = "sha256-uMD9aCy+0CM+FCiPu9X/yZjpIJR3nNXSJJD3kNS98Qc=";
+      sha256 = "sha256-mFN0eFzUO3lT5O/E5IcQLNPem6LxIziSsYRE18iJTxs=";
     });
   };
   tailscale-systray = {
@@ -1129,10 +1129,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.8.1";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-zmGQMPEK1AQdQkkQBzCYEIhj5KtxlZX3ZWiIxBCXRi8=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-L4QnQEZ64SOpVbVb4DBLCyES1BjcIro8XVLSAnRu88E=";
     };
     license = "mit";
   };
