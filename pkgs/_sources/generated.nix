@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "0794a51b5622d6dff804e3177f7503ec4b4e351b";
+    version = "8968202a3e5d426cef1c38d0bda53264b09ea2b2";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "0794a51b5622d6dff804e3177f7503ec4b4e351b";
+      rev = "8968202a3e5d426cef1c38d0bda53264b09ea2b2";
       fetchSubmodules = false;
-      sha256 = "sha256-Xi6AfYtznSKmcHG8tImim9apC7BECQKkeC1PsnGcFH4=";
+      sha256 = "sha256-skZtB/4qJmXOZalM8yxnRYUsgUmLl7oPs16VXHqhRQE=";
     });
   };
   droidcam = {
