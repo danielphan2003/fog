@@ -1202,10 +1202,10 @@
   };
   vscode-extensions-dart-code = {
     pname = "vscode-extensions-dart-code";
-    version = "3.28.0";
+    version = "3.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.28.0/file/Dart-Code.dart-code-3.28.0.vsix";
-      sha256 = "sha256-N2PwyJZS3FnXesS3OGB1traSjVWmXhluZ91lxCTwl0Y=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.29.0/file/Dart-Code.dart-code-3.29.0.vsix";
+      sha256 = "sha256-8Mnaz2bt3MV59/hRdsRSsDlW/lJ9B8KlC/uPbJiu7nY=";
     };
     homepage = "https://github.com/Dart-Code/Dart-Code";
     license = "mit";
@@ -1268,10 +1268,10 @@
   };
   vscode-extensions-flutter = {
     pname = "vscode-extensions-flutter";
-    version = "3.28.0";
+    version = "3.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.28.0/file/Dart-Code.flutter-3.28.0.vsix";
-      sha256 = "sha256-uASi6cWr8UgHZy0R8079DqswlzXh0EmWShvliOxVcpE=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.29.0/file/Dart-Code.flutter-3.29.0.vsix";
+      sha256 = "sha256-NK3hnh6ujKDwiXoBTkd/2W425nCrbqkDFBz8XGzMAAs=";
     };
     homepage = "https://github.com/Dart-Code/Flutter";
     license = "mit";
