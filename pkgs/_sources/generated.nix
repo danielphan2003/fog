@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5626";
+    version = "1.0.5627";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5626.tar.bz2";
-      sha256 = "sha256-4vyaGVVDw1cdMpSOoXLfcOddU2TqVGkKnSmqI8UIviM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5627.tar.bz2";
+      sha256 = "sha256-CYgx0ZoNKdDL3dcyOJYK0UzEBAfA/GOT5BypfS0HCWU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5626";
+    version = "1.0.5627";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5626-1_all.deb";
-      sha256 = "sha256-Qik9VeaNyMyIE+7dKT1cW5C+CB3FdP4ZvtOUGf1Du+g=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5627-1_all.deb";
+      sha256 = "sha256-bL/6pR5KNU9lHO/+dgb3ANSOsfRgLQidhHQ74eQBXw4=";
     };
   };
   jitsi-videobridge2 = {
@@ -437,10 +437,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "96.0.1054.34";
+    version = "97.0.1072.21";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_96.0.1054.34-1_amd64.deb";
-      sha256 = "sha256-A6r4+WwM9qwYv1ct954BYDVPagQnEjrARyefPGPmsr0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_97.0.1072.21-1_amd64.deb";
+      sha256 = "sha256-Wm26V+yhjkeD+2gCCD+/k8yxJ6eHy11A2DsiK8PPEMo=";
     };
   };
   microsoft-edge-dev = {
