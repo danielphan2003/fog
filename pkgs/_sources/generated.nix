@@ -493,10 +493,10 @@
   };
   minecraft-krypton = {
     pname = "minecraft-krypton";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://github.com/astei/krypton/releases/download/v0.1.4/krypton-0.1.4.jar";
-      sha256 = "sha256-7FLzkVjDteRAAc+sNHaVLE5AH+jUdJYcrm9EFBwWcLY=";
+      url = "https://github.com/astei/krypton/releases/download/v0.1.5/krypton-0.1.5.jar";
+      sha256 = "sha256-p06cTZzhOFOmkG0jGSdU5EqEFfGfPYYc3JWBL1ZFBc0=";
     };
   };
   minecraft-lazydfu = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "af4bdecef9a4b0f6c0f2da438c220d87a38c3b9e";
+    version = "621c3a7b7e97f55b37a09620e73526ceabf51a6d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "af4bdecef9a4b0f6c0f2da438c220d87a38c3b9e";
+      rev = "621c3a7b7e97f55b37a09620e73526ceabf51a6d";
       fetchSubmodules = false;
-      sha256 = "sha256-EtAo0fgwE7hTgnA5rUG6olK0Ck/PdRRwW5Su4laclZM=";
+      sha256 = "sha256-j/ehb5RnKNqb2Wqb0CR3tGD34p/Ar7/N5/6rXj7ZLSo=";
     });
   };
   rofi-wayland = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "deb2f5e7938274deaf100230a2566063cc851e11";
+    version = "3ae6f898cfdb58fd0e30937147dd6ce28c6808dd";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "deb2f5e7938274deaf100230a2566063cc851e11";
+      rev = "3ae6f898cfdb58fd0e30937147dd6ce28c6808dd";
       fetchSubmodules = false;
-      sha256 = "sha256-eYk5pvv8ZyXbdLjXf9t3xbG0SJ73dq6GtU+Haxf/xHw=";
+      sha256 = "sha256-tgz1mKEtFGWUOVEVvy4KAzw9DjDvw8tA8IRLtivo7es=";
     });
   };
   tailscale-systray = {
