@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "c13315344762a067b61b0d9585db46bf2ed242a6";
+    version = "8e5aafa5cdb0bd6ad062014172ed21fdc1012cc1";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c13315344762a067b61b0d9585db46bf2ed242a6";
+      rev = "8e5aafa5cdb0bd6ad062014172ed21fdc1012cc1";
       fetchSubmodules = false;
-      sha256 = "sha256-LlRDtW6mQSWkWB9p3pSqj3/6B/lWS+xsMYNdqihYetU=";
+      sha256 = "sha256-31iPFClvy50KDHoo75UTzHNVJxv4uzbL8mfeobi+bsA=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "651896418ca2a1179858a7402458ec0d334bfa02";
+    version = "34bd5fe4f80ce326e9a10e3e919355b1708991cd";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "651896418ca2a1179858a7402458ec0d334bfa02";
+      rev = "34bd5fe4f80ce326e9a10e3e919355b1708991cd";
       fetchSubmodules = false;
-      sha256 = "sha256-PVWOaoYQYGJJtZl7V8ihMB9zg2AOvy/MCeJ9HROw0C8=";
+      sha256 = "sha256-gxzBGTpPy5qQPL4f3RFxtUMIKo7cAIP84CstZ5tAnEU=";
     });
   };
   droidcam = {
@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "768baafcb5dd8230f9bd9ed030bb06274350dff4";
+    version = "adc5997592429e29a8301f812e9e02e107ccee88";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "768baafcb5dd8230f9bd9ed030bb06274350dff4";
+      rev = "adc5997592429e29a8301f812e9e02e107ccee88";
       fetchSubmodules = false;
-      sha256 = "sha256-1U6fsIbfDVG3FnJXMOxaVhjuq99j2rFEEZE+Q0o+JD0=";
+      sha256 = "sha256-gg5K3YDx7rbNY1E9El++opI0mTKTGkv0xx0DvSs17No=";
     });
   };
   tailscale-systray = {
