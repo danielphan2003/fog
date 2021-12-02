@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5629";
+    version = "1.0.5630";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5629.tar.bz2";
-      sha256 = "sha256-NSVkStCrVujf3zQccprm5B1GD7hyQ/sdgIgPLYR8E9Y=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5630.tar.bz2";
+      sha256 = "sha256-uHuQ8mdIc0sYjLY41NT6HcEpP1BQCIbAnQejiUpnmm8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5629";
+    version = "1.0.5630";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5629-1_all.deb";
-      sha256 = "sha256-9naTlLoy9tk3Qq/aXARc2nSgl1wpHCeDShSxPKKMzZY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5630-1_all.deb";
+      sha256 = "sha256-0wSXLBpPmN9LC8D5G/CeeRTe7x1lEVfOKx/99+USZFc=";
     };
   };
   jitsi-videobridge2 = {
@@ -894,13 +894,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "c138ada197a3accf86e579ec877ff5860461787e";
+    version = "20b540c6a71063d55a938d663487e6d5eba772aa";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "c138ada197a3accf86e579ec877ff5860461787e";
+      rev = "20b540c6a71063d55a938d663487e6d5eba772aa";
       fetchSubmodules = false;
-      sha256 = "sha256-O1t58m78QbzCt9Ge2I7390os4UXtD4PvAP0RC1eFZcM=";
+      sha256 = "sha256-WMATzkL1SShvL0Vmnx+SvixS1gDf3c8Bk7rNda4zfx0=";
     });
   };
   spicetify-themes = {
@@ -1171,10 +1171,10 @@
   };
   vscode-extensions-codeql = {
     pname = "vscode-extensions-codeql";
-    version = "1.5.7";
+    version = "1.5.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.7/file/GitHub.vscode-codeql-1.5.7.vsix";
-      sha256 = "sha256-tzXLEBdIr0OaNJ8m3/46MufbAzajmMLZ1e97N6VTUqA=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.8/file/GitHub.vscode-codeql-1.5.8.vsix";
+      sha256 = "sha256-+ZGxdwXI1zoIZuOChTqz1rirkqMDbqvr6FR0gTW+ds4=";
     };
     homepage = "https://github.com/github/vscode-codeql";
     license = "mit";
