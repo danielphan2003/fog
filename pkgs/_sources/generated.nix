@@ -134,24 +134,24 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0d1134f58e8a026c671de0849e00406c81259ef4";
+    version = "1bc5653edb67f23e7a9a858d0c5fb7cc0627af5d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0d1134f58e8a026c671de0849e00406c81259ef4";
+      rev = "1bc5653edb67f23e7a9a858d0c5fb7cc0627af5d";
       fetchSubmodules = false;
-      sha256 = "sha256-sVvf5++Px/1OGXtKSM9CDaVumlAgU7xmlaWAfW6lDWM=";
+      sha256 = "sha256-fXGctcq9TOK5Ao0CXabLvQQ4q1cPtfYzYOAEwgBrysU=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "8e5aafa5cdb0bd6ad062014172ed21fdc1012cc1";
+    version = "a1b417c832b4ab3dab9eaa9690e1d07672a949b8";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "8e5aafa5cdb0bd6ad062014172ed21fdc1012cc1";
+      rev = "a1b417c832b4ab3dab9eaa9690e1d07672a949b8";
       fetchSubmodules = false;
-      sha256 = "sha256-31iPFClvy50KDHoo75UTzHNVJxv4uzbL8mfeobi+bsA=";
+      sha256 = "sha256-58WdY1E8juGuD2Wd6D+EMGHdjyY9IuSAeS2aCMJzRVM=";
     });
   };
   cups-pdf = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5632";
+    version = "1.0.5633";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5632.tar.bz2";
-      sha256 = "sha256-tuJuD/jop9AuxuK8l+7d2YW9ezvW4/hNnAb97ls8bzk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5633.tar.bz2";
+      sha256 = "sha256-g0jIyldyFoUlE7AFllyxBbmCZOZoZMpJdOyILkvLOU0=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5632";
+    version = "1.0.5633";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5632-1_all.deb";
-      sha256 = "sha256-LtJ5CEzR/wwNYYq4fEaYLoKB+o2HnRuQ8YP5ettDlps=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5633-1_all.deb";
+      sha256 = "sha256-hltgiyRmlCbhYk2ZqNJPS1gdHQcQuaxm2FUl3mJcaaA=";
     };
   };
   jitsi-videobridge2 = {
@@ -445,10 +445,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "97.0.1072.13";
+    version = "98.0.1089.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_97.0.1072.13-1_amd64.deb";
-      sha256 = "sha256-wgIiL/e3vtVgWqQQfJu5RibRUlzQZbCQQnNRZTYMMcc=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_98.0.1089.1-1_amd64.deb";
+      sha256 = "sha256-SvlJ/gLM6pLQXIgSJgoGPqjpLZ+5hmu+4oblqyP9k5I=";
     };
   };
   minecraft-better-beds = {
