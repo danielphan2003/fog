@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5635";
+    version = "1.0.5636";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5635.tar.bz2";
-      sha256 = "sha256-Y3BfAo9I03C+zh16spLx1rSnTDaTSqCxaTjYCPPmnJM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5636.tar.bz2";
+      sha256 = "sha256-B8JsgDQwxFy5Bbc3D1JrmvxYNP1LgiSkZu5B6bzq5ng=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5635";
+    version = "1.0.5636";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5635-1_all.deb";
-      sha256 = "sha256-aP6agdXeKPyMaNLvEtNMmOH1TdXspm5702P7h8qucRk=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5636-1_all.deb";
+      sha256 = "sha256-vqSj7YszAVli7Pt3Xq80dIq/we8zdw9Hu7yFoAYA18k=";
     };
   };
   jitsi-videobridge2 = {
@@ -1040,13 +1040,13 @@
   };
   uniemoji = {
     pname = "uniemoji";
-    version = "4b0801037f599c363b29bb107a9df40df0f6c967";
+    version = "40e69ae550f74bd91fa0b87db4f2e303344fd7aa";
     src = fetchFromGitHub ({
       owner = "salty-horse";
       repo = "ibus-uniemoji";
-      rev = "4b0801037f599c363b29bb107a9df40df0f6c967";
+      rev = "40e69ae550f74bd91fa0b87db4f2e303344fd7aa";
       fetchSubmodules = false;
-      sha256 = "sha256-vBbLXaByaHkR6i+1XhpfbKtcoOBjClueo62LTXR+Duk=";
+      sha256 = "sha256-aIoAQu4KpaUnSGV8UwPUXzM91Hu9k9eaLj7oP1GRRAw=";
     });
   };
   vaultwarden = {
@@ -1618,14 +1618,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "be16bd8543f80ad2933ec9c37f082617c7084165";
+    version = "5ac6319776b13f96a2b336da4b35237618a5b001";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "be16bd8543f80ad2933ec9c37f082617c7084165";
+      rev = "5ac6319776b13f96a2b336da4b35237618a5b001";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-CiO7WpdujU0nLkugekKcdEWu3pl7XHl5YnkliBXyOYs=";
+      sha256 = "sha256-k8vK1oN0DOnQq+uMj+MRNwLGV3MkZGC/frmu+Y01lk8=";
     };
   };
   ydotool = {
