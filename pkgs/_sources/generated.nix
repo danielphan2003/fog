@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "ce336a6a70725ba47db54092026caab8c1f84c52";
+    version = "f5bbf73cfd1c2b6aad6a7a33d76f6d42024f5082";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "ce336a6a70725ba47db54092026caab8c1f84c52";
+      rev = "f5bbf73cfd1c2b6aad6a7a33d76f6d42024f5082";
       fetchSubmodules = false;
-      sha256 = "sha256-GuzcWVHU1VnXFTXvtrf+z/Ewd+i9nZSOKYPJhGT9DXU=";
+      sha256 = "sha256-xw2s+TXA1fBj0qVslsHArOq+1hZrZ0FepixlxDTYWz8=";
     });
   };
   flyingfox = {
@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-829";
+    version = "1.0-830";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-829-1_all.deb";
-      sha256 = "sha256-2pdktPKVU1M67jVhuw6R+MqAntM5pIwn3Cs0onmupLg=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-830-1_all.deb";
+      sha256 = "sha256-brTX2HzhH5HD7jk7guDUXoTda8gcXqU684ffrjrodOA=";
     };
   };
   jitsi-meet = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1dd15ac5162e9103c01c3459131f6bdd0aa8d636";
+    version = "4a39630c0f801e81e5564bb56567d8d118abbd26";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1dd15ac5162e9103c01c3459131f6bdd0aa8d636";
+      rev = "4a39630c0f801e81e5564bb56567d8d118abbd26";
       fetchSubmodules = false;
-      sha256 = "sha256-2wNQteI++J6SM0BoaVF2nd3M4I6x1UqCNNwYlG9Mr9Q=";
+      sha256 = "sha256-257RvAJPh31QkfBj3/NaynayrUuKR2CtPFoOJL1KLBQ=";
     });
   };
   rofi-wayland = {
@@ -1618,14 +1618,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "6dd9709bd85cf5de4067887818c864220b951355";
+    version = "be16bd8543f80ad2933ec9c37f082617c7084165";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "6dd9709bd85cf5de4067887818c864220b951355";
+      rev = "be16bd8543f80ad2933ec9c37f082617c7084165";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-iwcffdJkYiwAo1Q++1TaIxvhF8jvDrR5qFzYdB9A2K0=";
+      sha256 = "sha256-CiO7WpdujU0nLkugekKcdEWu3pl7XHl5YnkliBXyOYs=";
     };
   };
   ydotool = {
