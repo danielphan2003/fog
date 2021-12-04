@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5639";
+    version = "1.0.5640";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5639.tar.bz2";
-      sha256 = "sha256-pCYiZcy2q2LVt4YcbcupWTDjpofwE2sJF+koAGui5g8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5640.tar.bz2";
+      sha256 = "sha256-EXld/sW183jtM6xA3hpUh22XIwtJJ+MH78xv/h72luk=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5639";
+    version = "1.0.5640";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5639-1_all.deb";
-      sha256 = "sha256-VYIgVhPMZ1s7fGZ+na8r2YlNWltCoGkjX0gXicSUVNc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5640-1_all.deb";
+      sha256 = "sha256-15IgiJnxiqeT9KVeI5IuV3egs1VZO7aL7p2yfv+V05A=";
     };
   };
   jitsi-videobridge2 = {
@@ -768,13 +768,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b6695d89213dad4f00293841a3ac02a468ec13ec";
+    version = "bf9706395db9e5b4208f3846acd827b0b3435dcd";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b6695d89213dad4f00293841a3ac02a468ec13ec";
+      rev = "bf9706395db9e5b4208f3846acd827b0b3435dcd";
       fetchSubmodules = false;
-      sha256 = "sha256-AONYi4sG7mbewYSeAgHEyuDD1SQNTAmzzwuvmJ8JyzQ=";
+      sha256 = "sha256-scj8lNuiuX5V1/kAjxu+cStD/q13FoCGWw8Y+E0D2bk=";
     });
   };
   rofi-wayland = {
@@ -905,13 +905,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "8d45864cd9e4c8eb2181bbfb96587a83d4b2c2f4";
+    version = "0bbdb305f9a6fb1d983c45223c8296b75aa250ad";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "8d45864cd9e4c8eb2181bbfb96587a83d4b2c2f4";
+      rev = "0bbdb305f9a6fb1d983c45223c8296b75aa250ad";
       fetchSubmodules = false;
-      sha256 = "sha256-NtvMMP/orNt7YZzqtIvLXgxz+gXFTT9JkheKeBqqLWE=";
+      sha256 = "sha256-f8ZuQW3P13BTtybPu1k4etpyfHx00T9mujD+In+JlCY=";
     });
   };
   spotify = {
