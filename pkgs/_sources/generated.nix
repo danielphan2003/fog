@@ -1018,13 +1018,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "bcc4c6fd8b9dbe4f44590110c7cffefbd464b098";
+    version = "23d4ec7f015d2f17ae9af487f63e9297564b3d9f";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "bcc4c6fd8b9dbe4f44590110c7cffefbd464b098";
+      rev = "23d4ec7f015d2f17ae9af487f63e9297564b3d9f";
       fetchSubmodules = false;
-      sha256 = "sha256-AKNIGtN5IBcijI7IhQkAcypETJI4qdzsZJC1Edbh47w=";
+      sha256 = "sha256-lhIi3VlKwR97+izYmStLN9VNFl6QDM+FV/53+Hxj9uQ=";
     });
   };
   ultimmc = {
