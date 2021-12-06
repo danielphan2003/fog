@@ -972,13 +972,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "69de3bf7bfddb37b4c0e076c93115f82a51ec407";
+    version = "eeccbccd08626fd968f849a86eac9d39ebd94f12";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "69de3bf7bfddb37b4c0e076c93115f82a51ec407";
+      rev = "eeccbccd08626fd968f849a86eac9d39ebd94f12";
       fetchSubmodules = false;
-      sha256 = "sha256-2JDZnWr4rljfYf7GLW1YNcJyh2hNzVfnaR9R/kck4XE=";
+      sha256 = "sha256-Erby93X0sBuZ7eJ1NZepjeLDNVTFocOi4jaeg0MyrjY=";
     });
   };
   tailscale-systray = {
@@ -1532,13 +1532,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "2849962bb6320cfa87f73a835c57934eb755ebbb";
+    version = "4fdd70f89f0ac7570bf234527fcdbe9a5c75d249";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "2849962bb6320cfa87f73a835c57934eb755ebbb";
+      rev = "4fdd70f89f0ac7570bf234527fcdbe9a5c75d249";
       fetchSubmodules = false;
-      sha256 = "sha256-leUHneMpdVidj/XnOeuxjDK9ojsmaFvW/1QMHLE+Tb0=";
+      sha256 = "sha256-xLGRf4WAHYaKJLtzq34E9j58vvFqpL2rptrUvJHQ80w=";
     });
   };
   whitesur-icon-theme = {
@@ -1630,13 +1630,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "7e5f4986d570e08dff1ef9934d7c363962c90a42";
+    version = "601a1a090a7a4e8b87fedf721ca8638257a79a4f";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "7e5f4986d570e08dff1ef9934d7c363962c90a42";
+      rev = "601a1a090a7a4e8b87fedf721ca8638257a79a4f";
       fetchSubmodules = false;
-      sha256 = "sha256-oaKFz0+7lnyVk3mKGZeIZ6m3YyF+Hktr+hQlFSNO4PM=";
+      sha256 = "sha256-Dk3v6y45CEqXStCQDTBOtCiUqom2QwcDxuFnquBtXn0=";
     });
   };
   zoom-us = {
