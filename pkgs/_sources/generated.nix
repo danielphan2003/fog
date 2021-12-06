@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "ec595c3b95909998695a714e96dfcf2a29823ba1";
+    version = "b60a888da3c9df3862b9dbaff1b1ac2621e67db2";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "ec595c3b95909998695a714e96dfcf2a29823ba1";
+      rev = "b60a888da3c9df3862b9dbaff1b1ac2621e67db2";
       fetchSubmodules = false;
-      sha256 = "sha256-VnMWrtMCtc8hQ8Q3b47QixMKACeM0uOWpFIA5SedmXI=";
+      sha256 = "sha256-RTfj/ePGLVLXBSaJvkZU/L0lLKnWwNfQ7FQBAyCQ8JU=";
     });
   };
   avizo = {
@@ -1129,10 +1129,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.8.2";
+    version = "0.8.3";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-L4QnQEZ64SOpVbVb4DBLCyES1BjcIro8XVLSAnRu88E=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-FgT91Qz9mntOHi1b6k3yehWkC0luR7xSBL22QDltkGk=";
     };
     license = "mit";
   };
