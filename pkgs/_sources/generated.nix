@@ -355,10 +355,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-593-g304670b0";
+    version = "2.1-594-g56e0dae0";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-593-g304670b0-1_all.deb";
-      sha256 = "sha256-+ZteLFM6wySSAYVvccndJ6xrmMXXFVqlD3oL6YDczww=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-594-g56e0dae0-1_all.deb";
+      sha256 = "sha256-G1y1ekJujXXxG2McR9IIwMNeDqdhrgVA9ULXfqmmoRg=";
     };
   };
   layout-machi = {
@@ -1213,10 +1213,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.71.3";
+    version = "0.72.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.71.3/file/dendron.dendron-0.71.3.vsix";
-      sha256 = "sha256-LGSUDyjXx5uOwGPnuCJ/8EpTOaLTmalI5iKkrL46naA=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.72.0/file/dendron.dendron-0.72.0.vsix";
+      sha256 = "sha256-C8vzUU44PIJjaAcf1rCtLZBd0/sPU3Khc4DKwM0qAEI=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
