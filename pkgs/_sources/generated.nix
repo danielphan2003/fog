@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5640";
+    version = "1.0.5642";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5640.tar.bz2";
-      sha256 = "sha256-EXld/sW183jtM6xA3hpUh22XIwtJJ+MH78xv/h72luk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5642.tar.bz2";
+      sha256 = "sha256-cJBtHrNWRmc1NfVOz8By3KtMrWIlu/lZvMB7MGrrTIs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5640";
+    version = "1.0.5642";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5640-1_all.deb";
-      sha256 = "sha256-15IgiJnxiqeT9KVeI5IuV3egs1VZO7aL7p2yfv+V05A=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5642-1_all.deb";
+      sha256 = "sha256-wDac/y/dMRdz27JH9YTyr6rjhhHkwBk5uwTyVGGFmDA=";
     };
   };
   jitsi-videobridge2 = {
@@ -1618,14 +1618,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "75d70612888f18339703315549db781a22c0cb23";
+    version = "089e7f98f86836fdd09fd231bff8004c0fc45381";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "75d70612888f18339703315549db781a22c0cb23";
+      rev = "089e7f98f86836fdd09fd231bff8004c0fc45381";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-h8IDE+7zcVfRHHqgiFynR7Cv9umXwjUyxr4v4N2IzWo=";
+      sha256 = "sha256-bZxoQzdLP6Yc0eH86JN0Vwl1FJdjCd6aCBAMysCLzOU=";
     };
   };
   ydotool = {
