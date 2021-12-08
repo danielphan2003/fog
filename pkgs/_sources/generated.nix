@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "ce844d0bd425917fa9d29f1bbad1198ecd212a7a";
+    version = "fddc79628a2be4de7c23d7366c25ad3ded25687c";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "ce844d0bd425917fa9d29f1bbad1198ecd212a7a";
+      rev = "fddc79628a2be4de7c23d7366c25ad3ded25687c";
       fetchSubmodules = false;
-      sha256 = "sha256-BHGV/yse4YukbDmqJZ7TVo+IetjLU3k8Hhnys7Xc8Kc=";
+      sha256 = "sha256-iCh9PmTSbLDS5H+BqwdwswKEhYhtixFh4X6gqz1qrDI=";
     });
     cargoLock = {
-      lockFile = ./ouch-ce844d0bd425917fa9d29f1bbad1198ecd212a7a/Cargo.lock;
+      lockFile = ./ouch-fddc79628a2be4de7c23d7366c25ad3ded25687c/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -1488,10 +1488,10 @@
   };
   vscode-extensions-tailwindcss = {
     pname = "vscode-extensions-tailwindcss";
-    version = "0.7.2";
+    version = "0.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.2/file/bradlc.vscode-tailwindcss-0.7.2.vsix";
-      sha256 = "sha256-4kdnJdBFSwc1rD21+VJAyga5q/sCeQ1MHwU4vfn1Gg0=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.3/file/bradlc.vscode-tailwindcss-0.7.3.vsix";
+      sha256 = "sha256-Z0asK5ekzOyCnQB2tI/XNFj+d/FXNg8g8IqDAuDob4s=";
     };
     homepage = "https://github.com/tailwindlabs/tailwindcss-intellisense";
     license = "mit";
