@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "b60a888da3c9df3862b9dbaff1b1ac2621e67db2";
+    version = "fec5168203edf80768d67fef3eda664b0c899cc6";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "b60a888da3c9df3862b9dbaff1b1ac2621e67db2";
+      rev = "fec5168203edf80768d67fef3eda664b0c899cc6";
       fetchSubmodules = false;
-      sha256 = "sha256-RTfj/ePGLVLXBSaJvkZU/L0lLKnWwNfQ7FQBAyCQ8JU=";
+      sha256 = "sha256-Rcc9LWOeFbjG5TCrQBH5qU5VfP1RtnU6O1GQR6ACfiQ=";
     });
   };
   avizo = {
@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "fddc79628a2be4de7c23d7366c25ad3ded25687c";
+    version = "b50987840ea7fd66f55206a6116fd7169eac8aed";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "fddc79628a2be4de7c23d7366c25ad3ded25687c";
+      rev = "b50987840ea7fd66f55206a6116fd7169eac8aed";
       fetchSubmodules = false;
-      sha256 = "sha256-iCh9PmTSbLDS5H+BqwdwswKEhYhtixFh4X6gqz1qrDI=";
+      sha256 = "sha256-0H9uFqrDygB+Ac+khxq06Kz7/HpMoVl1OMhAqby1oCA=";
     });
     cargoLock = {
-      lockFile = ./ouch-fddc79628a2be4de7c23d7366c25ad3ded25687c/Cargo.lock;
+      lockFile = ./ouch-b50987840ea7fd66f55206a6116fd7169eac8aed/Cargo.lock;
       outputHashes = { };
     };
   };
