@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "e90d7517322b8092f3bdad832565a4213cab5a1a";
+    version = "4906b9357a89fe7f41d037bfc6a896479236740f";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e90d7517322b8092f3bdad832565a4213cab5a1a";
+      rev = "4906b9357a89fe7f41d037bfc6a896479236740f";
       fetchSubmodules = false;
-      sha256 = "sha256-wOE9E6rgXTP9zEHCPP29dCO6RjudM7smZu6K3NyQja8=";
+      sha256 = "sha256-PbENCziRqbnq0KGb/aMB11gh/bvF/to0qBpV+ioWFe8=";
     });
   };
   cups-pdf = {
@@ -227,16 +227,16 @@
   };
   eww = {
     pname = "eww";
-    version = "fc06db07043f4fb82d029fcb420e1e68d1bbe74e";
+    version = "5e5692742e046a97e3da3a5e19c50c331403c115";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "fc06db07043f4fb82d029fcb420e1e68d1bbe74e";
+      rev = "5e5692742e046a97e3da3a5e19c50c331403c115";
       fetchSubmodules = false;
-      sha256 = "sha256-unxR6KYdOxc27rvGRKIl6a9AHvgAES89uJDM1FYQzfc=";
+      sha256 = "sha256-SI564NfvFK9idNHa6/x4HktojDXslE/syO0QhK8r4rs=";
     });
     cargoLock = {
-      lockFile = ./eww-fc06db07043f4fb82d029fcb420e1e68d1bbe74e/Cargo.lock;
+      lockFile = ./eww-5e5692742e046a97e3da3a5e19c50c331403c115/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -601,16 +601,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "9c3446924caa87c443353c22871d8d63818ef291";
+    version = "f40f40cda075f7558890293c83d18319cb35d19c";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "9c3446924caa87c443353c22871d8d63818ef291";
+      rev = "f40f40cda075f7558890293c83d18319cb35d19c";
       fetchSubmodules = false;
-      sha256 = "sha256-wkPABg/yyoe6PyyXCr9aXQ4ZlRN/2mJDtvGSLvpiz3o=";
+      sha256 = "sha256-u0LMN4AcBfZikfLIPWF60NkmkdlS5asloMZ2/+SSpsQ=";
     });
     cargoLock = {
-      lockFile = ./ouch-9c3446924caa87c443353c22871d8d63818ef291/Cargo.lock;
+      lockFile = ./ouch-f40f40cda075f7558890293c83d18319cb35d19c/Cargo.lock;
       outputHashes = { };
     };
   };
