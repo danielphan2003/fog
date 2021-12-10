@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5669";
+    version = "1.0.5670";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5669.tar.bz2";
-      sha256 = "sha256-3glbMdTQsmB0pTaNEdutgHdJA1SW+sJra3QQjHyK/V8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5670.tar.bz2";
+      sha256 = "sha256-AoYWHytgudQwiT8g+WhJ8HgkylJckTsJzv/gRJ/pNdY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5669";
+    version = "1.0.5670";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5669-1_all.deb";
-      sha256 = "sha256-SGIAlaampvAaAaxBiPIU3olKnx6eC/5eQIYptLaqgho=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5670-1_all.deb";
+      sha256 = "sha256-MaU/ozsMsal2zWcMRrH3CkejSwmma7nAsiLtNUVj5qw=";
     };
   };
   jitsi-videobridge2 = {
@@ -1573,13 +1573,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "0530388e732103311ff64ae0449fa977b0815fc6";
+    version = "9090df5c3f74a108f17a3da7e1d2e7bc7f4b183f";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "0530388e732103311ff64ae0449fa977b0815fc6";
+      rev = "9090df5c3f74a108f17a3da7e1d2e7bc7f4b183f";
       fetchSubmodules = false;
-      sha256 = "sha256-9+SBrD59byK6GDNR2u2IDCmmoGsI/sLDV14dBE8tA7s=";
+      sha256 = "sha256-V0XwaLwI+1p+9KfQS43n0FZrmfHnhshzsmk+AhVeuRY=";
     });
   };
   xdg-desktop-portal-gtk = {
