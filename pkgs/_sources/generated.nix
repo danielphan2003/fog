@@ -1395,19 +1395,19 @@
   };
   vscode-extensions-pascal = {
     pname = "vscode-extensions-pascal";
-    version = "9.3.0";
+    version = "9.4.0";
     src = fetchurl {
-      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-zCSsx/9ui1t6rmMNtUmsiZNL3TwPWsulO3yhvtuRrEk=";
+      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-8JlDWLPfx7biBVOsnYkw0c8F70tTT0Lr3n637gVtMnI=";
     };
     license = "mit";
   };
   vscode-extensions-pascal-formatter = {
     pname = "vscode-extensions-pascal-formatter";
-    version = "2.5.0";
+    version = "2.6.0";
     src = fetchurl {
-      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal-formatter/2.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-3mvnfeJy/d/qaRF66VGYMLRHsYjqg3mIjkLJeZx5P9s=";
+      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal-formatter/2.6.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-Hmde76DAiHJSHDN60q6hGs9U6nKTrGdeR+xm4W2kj6g=";
     };
     license = "mit";
   };
