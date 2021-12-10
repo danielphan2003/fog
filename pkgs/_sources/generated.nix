@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "4906b9357a89fe7f41d037bfc6a896479236740f";
+    version = "6f9b6ad78e6b9a40afbf12e53017e39abee90a6d";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "4906b9357a89fe7f41d037bfc6a896479236740f";
+      rev = "6f9b6ad78e6b9a40afbf12e53017e39abee90a6d";
       fetchSubmodules = false;
-      sha256 = "sha256-PbENCziRqbnq0KGb/aMB11gh/bvF/to0qBpV+ioWFe8=";
+      sha256 = "sha256-wDzn51VUpcfQbswgOfp6cpdpXkFxNF4FdjrAlFUeYDs=";
     });
   };
   cups-pdf = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "0e50a92431e7ea48761cfcc842d00b80d43097aa";
+    version = "e2e6214159afd9095e1c6fddae0cd6a005d98f95";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "0e50a92431e7ea48761cfcc842d00b80d43097aa";
+      rev = "e2e6214159afd9095e1c6fddae0cd6a005d98f95";
       fetchSubmodules = false;
-      sha256 = "sha256-sxllLR/6dQIqFrAYDV0gCkaoDGCRtOLGBMgAqgesTSw=";
+      sha256 = "sha256-Yr51NorkWnuRrCklnk+CmJhk8f56uB2GhG5IGyolES0=";
     });
   };
   droidcam = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5673";
+    version = "1.0.5674";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5673.tar.bz2";
-      sha256 = "sha256-634KML0YExnQUrIcTCZWo/zK/dI6+C0orbhFxjTzhpw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5674.tar.bz2";
+      sha256 = "sha256-U2qgGtMzszLeNaG1FFym2Tz/tLoP9l14/R9/XtDAbHo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5673";
+    version = "1.0.5674";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5673-1_all.deb";
-      sha256 = "sha256-5HYtRfuM6+upZH5ehEYFnme1+VQ376kcOCa/18WWV9k=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5674-1_all.deb";
+      sha256 = "sha256-a8/A0nbudgQYJoLp7liliyXV7OAwdE7dX3IPRyir+BQ=";
     };
   };
   jitsi-videobridge2 = {
@@ -445,10 +445,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "98.0.1089.1";
+    version = "98.0.1093.6";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_98.0.1089.1-1_amd64.deb";
-      sha256 = "sha256-SvlJ/gLM6pLQXIgSJgoGPqjpLZ+5hmu+4oblqyP9k5I=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_98.0.1093.6-1_amd64.deb";
+      sha256 = "sha256-E413E6L5EsY5ERQ0QsZTx7//gkHwSXsw731c2K9vV0U=";
     };
   };
   minecraft-better-beds = {
