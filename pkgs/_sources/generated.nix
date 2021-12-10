@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "61cbee1c1dbeeb3f61b8ae575d45f0d7ac6f329a";
+    version = "b3e108f2bf34a837335efc2465346f75e4b03aed";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "61cbee1c1dbeeb3f61b8ae575d45f0d7ac6f329a";
+      rev = "b3e108f2bf34a837335efc2465346f75e4b03aed";
       fetchSubmodules = false;
-      sha256 = "sha256-lUn6O3eW8npSsr/juVrGIT0reSWFEi8DyopWhBVLV/g=";
+      sha256 = "sha256-9id9TRXV9q+CFfK8pXKZSUzMW739jkbMmyUpPwrpav8=";
     });
   };
   droidcam = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5670";
+    version = "1.0.5671";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5670.tar.bz2";
-      sha256 = "sha256-AoYWHytgudQwiT8g+WhJ8HgkylJckTsJzv/gRJ/pNdY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5671.tar.bz2";
+      sha256 = "sha256-8Rw7jKBblX7eAdCZtOsmvS6hd7ffr8dLieZAVbPU5Ts=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5670";
+    version = "1.0.5671";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5670-1_all.deb";
-      sha256 = "sha256-MaU/ozsMsal2zWcMRrH3CkejSwmma7nAsiLtNUVj5qw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5671-1_all.deb";
+      sha256 = "sha256-mU705QaoPBs2oB+RCn3o4gGrO53eljDOv0SgQ0NxX/o=";
     };
   };
   jitsi-videobridge2 = {
@@ -882,14 +882,14 @@
   };
   snui = {
     pname = "snui";
-    version = "20c147330b4928e53e54b95aa5571951017e680b";
+    version = "97b70b88d8f30deb2251a86998a3c417d176c6a1";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "20c147330b4928e53e54b95aa5571951017e680b";
+      rev = "97b70b88d8f30deb2251a86998a3c417d176c6a1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sFvaGX7top2o++Ylx949PebmevBP1mbHmLkRldgzTkY=";
+      sha256 = "sha256-1DEbcPgzkghDMMJWZ8D4Vsd3uurhrLdL7LFE14VYV9Q=";
     };
   };
   spicetify-cli = {
