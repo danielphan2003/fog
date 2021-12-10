@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "cd325a3f05650b55f0ef9c47f97c9c99106461cf";
+    version = "0e50a92431e7ea48761cfcc842d00b80d43097aa";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "cd325a3f05650b55f0ef9c47f97c9c99106461cf";
+      rev = "0e50a92431e7ea48761cfcc842d00b80d43097aa";
       fetchSubmodules = false;
-      sha256 = "sha256-CrYkWvILTa4VWizgj16+oWgd8dY0C2EMppd8twss6iY=";
+      sha256 = "sha256-sxllLR/6dQIqFrAYDV0gCkaoDGCRtOLGBMgAqgesTSw=";
     });
   };
   droidcam = {
@@ -355,10 +355,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-594-g56e0dae0";
+    version = "2.1-595-g3637fda4";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-594-g56e0dae0-1_all.deb";
-      sha256 = "sha256-G1y1ekJujXXxG2McR9IIwMNeDqdhrgVA9ULXfqmmoRg=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-595-g3637fda4-1_all.deb";
+      sha256 = "sha256-vwn9C8M3wwiIqwxAu1MDe2ra2SCQ2Hssco5J/xUFoKM=";
     };
   };
   layout-machi = {
