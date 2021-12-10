@@ -1488,10 +1488,10 @@
   };
   vscode-extensions-tailwindcss = {
     pname = "vscode-extensions-tailwindcss";
-    version = "0.7.3";
+    version = "0.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.3/file/bradlc.vscode-tailwindcss-0.7.3.vsix";
-      sha256 = "sha256-Z0asK5ekzOyCnQB2tI/XNFj+d/FXNg8g8IqDAuDob4s=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.4/file/bradlc.vscode-tailwindcss-0.7.4.vsix";
+      sha256 = "sha256-AtveBpiAlsVSEjEUvpPA07ku4N29ZSi5d7fAy8gs2y8=";
     };
     homepage = "https://github.com/tailwindlabs/tailwindcss-intellisense";
     license = "mit";
