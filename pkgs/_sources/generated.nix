@@ -493,10 +493,10 @@
   };
   minecraft-krypton = {
     pname = "minecraft-krypton";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://github.com/astei/krypton/releases/download/v0.1.5/krypton-0.1.5.jar";
-      sha256 = "sha256-p06cTZzhOFOmkG0jGSdU5EqEFfGfPYYc3JWBL1ZFBc0=";
+      url = "https://github.com/astei/krypton/releases/download/v0.1.6/krypton-0.1.6.jar";
+      sha256 = "sha256-0cKxJIMRUnmrsdRg0iy37vx/J5o3dvptc1lXwvnaK+Y=";
     };
   };
   minecraft-lazydfu = {
