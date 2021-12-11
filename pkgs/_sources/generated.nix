@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "7ec13c0323f53a959eaa7f21b425b30290112e12";
+    version = "54810e333f4b9ef442ab66eeb412efcdcfe81eda";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "7ec13c0323f53a959eaa7f21b425b30290112e12";
+      rev = "54810e333f4b9ef442ab66eeb412efcdcfe81eda";
       fetchSubmodules = false;
-      sha256 = "sha256-HGAQLVcWTFIoJt3Z/RZm5JANzU1banjZWhFYEmLN+bE=";
+      sha256 = "sha256-6Fjzb0UFxwkNy04IYJ3/UdC/FzF8sSr2D+ZD07ifmvI=";
     });
   };
   avizo = {
@@ -1018,13 +1018,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "38e3ec900cc27f083bc76473603e5d409e9bd108";
+    version = "f5c6296b7b65b3f350ae68fa447e8fc4c5b1e13a";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "38e3ec900cc27f083bc76473603e5d409e9bd108";
+      rev = "f5c6296b7b65b3f350ae68fa447e8fc4c5b1e13a";
       fetchSubmodules = false;
-      sha256 = "sha256-Jt1JwuvmfwMOmtJ6JxvVcfupXXquX0ymDjr1v+Y9EAk=";
+      sha256 = "sha256-I4bLHXaGV0WoVJhnNPs0qN31iqMv535t1GJB9UNQySs=";
     });
   };
   ultimmc = {
