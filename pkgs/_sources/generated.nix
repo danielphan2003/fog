@@ -533,13 +533,13 @@
   };
   minecraft-wayland = {
     pname = "minecraft-wayland";
-    version = "5a49fbd9411782b21537b4ecef7e8136749bbdd4";
+    version = "79b8cdb675b70624cad1f0c7cf4f8e45cda6ebd4";
     src = fetchFromGitHub ({
       owner = "Admicos";
       repo = "minecraft-wayland";
-      rev = "5a49fbd9411782b21537b4ecef7e8136749bbdd4";
+      rev = "79b8cdb675b70624cad1f0c7cf4f8e45cda6ebd4";
       fetchSubmodules = false;
-      sha256 = "sha256-vc/WLSrx4PEZJGtwIjaMveaQ06CU47hDjiWEBIRrs9I=";
+      sha256 = "sha256-fwdK+DPZoFi/Qsjp+JHSj3U0Vd7ZpUCC36QFjzkNNQg=";
     });
   };
   netdata = {
