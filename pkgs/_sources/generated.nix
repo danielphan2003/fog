@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "df1569e00414666efa5e9baa8ef91ce35b37de13";
+    version = "be4ab001b4ec4e973d094b2b1b48ed2450c0daf5";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "df1569e00414666efa5e9baa8ef91ce35b37de13";
+      rev = "be4ab001b4ec4e973d094b2b1b48ed2450c0daf5";
       fetchSubmodules = false;
-      sha256 = "sha256-Q0nGiAdxyr0t1CJU7H9KOGSSHiOKmc3C6zcEuciefIs=";
+      sha256 = "sha256-DMw2oPBdX49WbVxYu/6+cXLra0wSgbhn/d0ROIF/NQE=";
     });
   };
   caddy = {
@@ -1573,13 +1573,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "46be2c268d9b656ff0b763188adb9ab665cc7633";
+    version = "076125e514ec96a0b223481fc087f3da74b1e4cd";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "46be2c268d9b656ff0b763188adb9ab665cc7633";
+      rev = "076125e514ec96a0b223481fc087f3da74b1e4cd";
       fetchSubmodules = false;
-      sha256 = "sha256-aHAsPmfZcnriP6d9Ht/hl3jICrDcspSJf4/YkLB+o1g=";
+      sha256 = "sha256-lW5HJfsugDxl4452z1YhZO5AAMcNivkiHOlHQnO5Eb4=";
     });
   };
   xdg-desktop-portal-gtk = {
