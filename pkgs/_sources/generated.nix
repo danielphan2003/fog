@@ -1002,7 +1002,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "55728fde0cd3c58044e9f2b7d6d1e56fe189148b";
+    version = "2422c23228efc9b72872b69f22f7d25c1d337264";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-f+hSmQfznOSpWDQ2Zi6uns/B05Dx9Rh2suYKBomfUoM=";
@@ -1071,10 +1071,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.24.1";
+    version = "2.25.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.24.1/bw_web_v2.24.1.tar.gz";
-      sha256 = "sha256-NYXjmBFvVdpbz2/55MirPBlGVO3hWkH+2rTtxixprXc=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.25.0/bw_web_v2.25.0.tar.gz";
+      sha256 = "sha256-0uxkHz/oHWl4MdzV7zRVKgkEqOkrl7Fd405TOf472gw=";
     };
   };
   ventoy = {
