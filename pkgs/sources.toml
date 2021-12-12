@@ -322,9 +322,13 @@ fetch.github = "khanhas/spicetify-cli"
 src.git = "https://github.com/morpheusthewhite/spicetify-themes"
 fetch.github = "morpheusthewhite/spicetify-themes"
 
+## spotify
+
 [spotify]
-src.manual = "1.1.72.439.gc253025e"
+src.cmd = " echo 1.1.72.439.gc253025e "
 fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_56.snap"
+
+## spotify
 
 [spotifyd]
 src.git = "https://github.com/Spotifyd/spotifyd"
@@ -445,14 +449,149 @@ fetch.url = "https://cdn.zoom.us/prod/$ver/zoom_x86_64.pkg.tar.xz"
 
 ### Minecraft mods
 
-[papermc]
-src.webpage = "https://papermc.io/api/v2/projects/paper/version_group/1.17/builds"
-src.regex = "\"build\":(\\d+),"
-fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/$ver/downloads/paper-1.17.1-$ver.jar"
+## papermc
 
-[tuinitymc]
-src.git = "https://github.com/Tuinity/Tuinity"
-fetch.url = "https://ci.codemc.io/job/Spottedleaf/job/Tuinity-1.17/lastSuccessfulBuild/artifact/tuinity-paperclip.jar"
+[papermc-1_8_8]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.8.8 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/$ver/downloads/paper-1.8.8-$ver.jar"
+passthru = { mcVer = "1.8.8" }
+
+[papermc-1_9_4]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.9.4 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/$ver/downloads/paper-1.9.4-$ver.jar"
+passthru = { mcVer = "1.9.4" }
+
+[papermc-1_10_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.10.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/$ver/downloads/paper-1.10.2-$ver.jar"
+passthru = { mcVer = "1.10.2" }
+
+[papermc-1_11_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.11.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/$ver/downloads/paper-1.11.2-$ver.jar"
+passthru = { mcVer = "1.11.2" }
+
+[papermc-1_12]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12/builds/$ver/downloads/paper-1.12-$ver.jar"
+passthru = { mcVer = "1.12" }
+
+[papermc-1_12_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.1/builds/$ver/downloads/paper-1.12.1-$ver.jar"
+passthru = { mcVer = "1.12.1" }
+
+[papermc-1_12_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/$ver/downloads/paper-1.12.2-$ver.jar"
+passthru = { mcVer = "1.12.2" }
+
+[papermc-1_13-pre7]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13-pre7 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13-pre7/builds/$ver/downloads/paper-1.13-pre7-$ver.jar"
+passthru = { mcVer = "1.13-pre7" }
+
+[papermc-1_13]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13/builds/$ver/downloads/paper-1.13-$ver.jar"
+passthru = { mcVer = "1.13" }
+
+[papermc-1_13_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.1/builds/$ver/downloads/paper-1.13.1-$ver.jar"
+passthru = { mcVer = "1.13.1" }
+
+[papermc-1_13_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/$ver/downloads/paper-1.13.2-$ver.jar"
+passthru = { mcVer = "1.13.2" }
+
+[papermc-1_14]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14/builds/$ver/downloads/paper-1.14-$ver.jar"
+passthru = { mcVer = "1.14" }
+
+[papermc-1_14_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.1/builds/$ver/downloads/paper-1.14.1-$ver.jar"
+passthru = { mcVer = "1.14.1" }
+
+[papermc-1_14_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.2/builds/$ver/downloads/paper-1.14.2-$ver.jar"
+passthru = { mcVer = "1.14.2" }
+
+[papermc-1_14_3]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.3 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.3/builds/$ver/downloads/paper-1.14.3-$ver.jar"
+passthru = { mcVer = "1.14.3" }
+
+[papermc-1_14_4]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.4 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/$ver/downloads/paper-1.14.4-$ver.jar"
+passthru = { mcVer = "1.14.4" }
+
+[papermc-1_15]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15/builds/$ver/downloads/paper-1.15-$ver.jar"
+passthru = { mcVer = "1.15" }
+
+[papermc-1_15_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15.1/builds/$ver/downloads/paper-1.15.1-$ver.jar"
+passthru = { mcVer = "1.15.1" }
+
+[papermc-1_15_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/$ver/downloads/paper-1.15.2-$ver.jar"
+passthru = { mcVer = "1.15.2" }
+
+[papermc-1_16_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.1/builds/$ver/downloads/paper-1.16.1-$ver.jar"
+passthru = { mcVer = "1.16.1" }
+
+[papermc-1_16_2]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.2 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.2/builds/$ver/downloads/paper-1.16.2-$ver.jar"
+passthru = { mcVer = "1.16.2" }
+
+[papermc-1_16_3]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.3 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.3/builds/$ver/downloads/paper-1.16.3-$ver.jar"
+passthru = { mcVer = "1.16.3" }
+
+[papermc-1_16_4]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.4 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.4/builds/$ver/downloads/paper-1.16.4-$ver.jar"
+passthru = { mcVer = "1.16.4" }
+
+[papermc-1_16_5]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.5 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/$ver/downloads/paper-1.16.5-$ver.jar"
+passthru = { mcVer = "1.16.5" }
+
+[papermc-1_17]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17/builds/$ver/downloads/paper-1.17-$ver.jar"
+passthru = { mcVer = "1.17" }
+
+[papermc-1_17_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/$ver/downloads/paper-1.17.1-$ver.jar"
+passthru = { mcVer = "1.17.1" }
+
+[papermc-1_18]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18/builds/$ver/downloads/paper-1.18-$ver.jar"
+passthru = { mcVer = "1.18" }
+
+[papermc-1_18_1]
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18.1 | jq '.builds | last' "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/$ver/downloads/paper-1.18.1-$ver.jar"
+passthru = { mcVer = "1.18.1" }
+
+## papermc
 
 #### Both
 

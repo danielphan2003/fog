@@ -45,6 +45,12 @@ jobs:
     # Clean up old Cargo.lock and extracts
     - run: nix develop --command bud nvfetcher-cleanup
 
+    # Update papermc
+    - run: nix develop --command bud papermc-updater
+
+    # Update spotify
+    - run: nix develop --command bud spotify-updater
+
     # Update packages
     - run: nix develop --command nvfetcher --commit-changes
 

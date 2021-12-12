@@ -53,7 +53,6 @@
 
         channels = {
           nixos = {
-            imports = [ (digga.lib.importOverlays ./overlays) ];
             overlays = [
               nvfetcher.overlay
               ./pkgs/default.nix
