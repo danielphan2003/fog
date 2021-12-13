@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5682";
+    version = "1.0.5683";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5682.tar.bz2";
-      sha256 = "sha256-G8crFeLYNnFw/EFLzdTpk4RAXcaDO2FNBT+8HutQonw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5683.tar.bz2";
+      sha256 = "sha256-7h0kpaPHllC/gLlXCl6+jJSOJFBgtvx/PP3+CNlhO9E=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5682";
+    version = "1.0.5683";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5682-1_all.deb";
-      sha256 = "sha256-M2Ho1Lzi3NDzWEafUcyz44GSKVhmbhrSM26NrLdRZC0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5683-1_all.deb";
+      sha256 = "sha256-Ed9xOTZG2YYOvgXocCBABn3Ic6ndurmaRFDF2x3kG94=";
     };
   };
   jitsi-videobridge2 = {
@@ -1365,10 +1365,10 @@
   };
   vscode-extensions-astro = {
     pname = "vscode-extensions-astro";
-    version = "0.8.3";
+    version = "0.8.4";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-FgT91Qz9mntOHi1b6k3yehWkC0luR7xSBL22QDltkGk=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-0GxNZ1fS34zgq7dkleUQ9O08jM8mlbErocBAHtsHAhU=";
     };
     license = "mit";
   };
