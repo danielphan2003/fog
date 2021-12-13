@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "78297132b421115da2820da133c24f53de3bb658";
+    version = "c269ac9f7d8226fdc53da74754a0441809ac3c7b";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "78297132b421115da2820da133c24f53de3bb658";
+      rev = "c269ac9f7d8226fdc53da74754a0441809ac3c7b";
       fetchSubmodules = false;
-      sha256 = "sha256-zG40BIouCRn/0qIfhyIbYf4o/hVIFfnX0qcYSwXfJYY=";
+      sha256 = "sha256-6cThJ6CP2Bh3B4jlgdGaz8LdMkVViJSRZ+1gFSVzwF0=";
     });
   };
   avizo = {
@@ -859,10 +859,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "71";
+    version = "72";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/71/downloads/paper-1.18.1-71.jar";
-      sha256 = "sha256-GbYKQ71D5CbJWBFXebi15hwP76uFtMC1vBAZzzKtzdc=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/72/downloads/paper-1.18.1-72.jar";
+      sha256 = "sha256-K43/ynv8TOvvzK2SX6pmPgunUc/8BwHbLhMlmtL/KcI=";
     };
     mcVer = "1.18.1";
   };
