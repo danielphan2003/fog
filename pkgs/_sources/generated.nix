@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "78b5356f2b1945a90de1ef7f2c7669d82098edbd";
+    version = "81ee34e9623c3ac630f46c81a26e7823d0b2bf7b";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "78b5356f2b1945a90de1ef7f2c7669d82098edbd";
+      rev = "81ee34e9623c3ac630f46c81a26e7823d0b2bf7b";
       fetchSubmodules = false;
-      sha256 = "sha256-p+HFnTmJi6eVQNj4H4TKdp4vCpqSXv347OPAU0/2JMM=";
+      sha256 = "sha256-pzafjGKfylRwEe8IJ3RDAWRC1c3s0debdcEP5XhPGYQ=";
     });
   };
   cups-pdf = {
@@ -488,7 +488,7 @@
     version = "4.0.0";
     src = fetchurl {
       url = "https://nightly.link/malte0811/FerriteCore/workflows/build.yaml/1.17/build-artifacts.zip";
-      sha256 = "sha256-k60O+BdOIo8+9HhijckGxmG9mRR/eWJlu1lHIHbClA8=";
+      sha256 = "sha256-ExCYuiw36g4hEy9UyM237/uEDGI16EQ4r9ADld9JYEw=";
     };
   };
   minecraft-krypton = {
@@ -520,7 +520,7 @@
     version = "mc1.18-0.4.0-alpha5";
     src = fetchurl {
       url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/sodium-artifacts-1.17.x-dev.zip";
-      sha256 = "sha256-7nuKV4E8LFghAdp5sc04+XZlrDp+PL3c7o9BlAqaBhc=";
+      sha256 = "sha256-7zQ5Cq2CXr66zF4rvgqSTYtcHJOvj4Xahv1811MxprU=";
     };
   };
   minecraft-starlight = {
@@ -596,7 +596,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
-      sha256 = "sha256-qW/yCo4UPxz/MT7AXtK40pCjuf9gEKsGIZMldMn3lAI=";
+      sha256 = "sha256-MAxQkdR40YUDl7z0OYbuwiueOoB2JuYikIu11CqiAto=";
     };
   };
   ouch = {
@@ -1105,7 +1105,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg";
-      sha256 = "sha256-1wEChhE6B3Cj6HvmvOfFP26/BHvKbwdVAVT9b8he0sI=";
+      sha256 = "sha256-SHZHMCpqlrLH/3cEbIcnZg4lDQYl765bVO3v1o1D6hg=";
     };
   };
   sf-font-pro = {
@@ -1113,7 +1113,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg";
-      sha256 = "sha256-Q2QgwnxNFf+zzLbZ/gF2uvE3TZpapmQTUY4enMmMCOM=";
+      sha256 = "sha256-+JF3SyNi+6rEVIEg/Llqu0w/z8gqBbbLtP3cCl9Kqjo=";
     };
   };
   sf-mono = {
@@ -1121,7 +1121,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg";
-      sha256 = "sha256-dsQV6a7gUkCHzGoEIRPbazjxoZ8uKG+AeqKXVkYTcKk=";
+      sha256 = "sha256-8niJPk3hGfK1USIs9eoxZ6GlM4aZ7ZObmQj2Zomj+Go=";
     };
   };
   snui = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d24a8f7b5a0bac043e81d0807e3448180ba71f1a";
+    version = "adc97e9c4d1ba73c07124038f391bc3553ed6e31";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d24a8f7b5a0bac043e81d0807e3448180ba71f1a";
+      rev = "adc97e9c4d1ba73c07124038f391bc3553ed6e31";
       fetchSubmodules = false;
-      sha256 = "sha256-Ts2imCBS1xo3K0TRxKGtv2ZaRbA4PcZHQEFAGYEOKpQ=";
+      sha256 = "sha256-68Cm3Tpe4Jyo5YH6AtKpNWmsYtDuxcILHY1E90nj0Ec=";
     });
   };
   tailscale-systray = {
@@ -1249,7 +1249,7 @@
     version = "2422c23228efc9b72872b69f22f7d25c1d337264";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
-      sha256 = "sha256-f+hSmQfznOSpWDQ2Zi6uns/B05Dx9Rh2suYKBomfUoM=";
+      sha256 = "sha256-ML1pCEnK+DDHsUmFneqsHrSl05ZLHz1GPydPcurOFbY=";
     };
   };
   ulauncher = {
