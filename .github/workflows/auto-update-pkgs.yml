@@ -42,11 +42,14 @@ jobs:
     # Quick eval
     - run: nix develop --command evalnix
 
+    # Create bud cache
+    - run: nix develop --command bud makeBudCache
+
     # Clean up old Cargo.lock and extracts
     - run: nix develop --command bud nvfetcher-cleanup
 
     # Update papermc
-    - run: nix develop --command bud papermc-updater
+    - run: nix develop --command bud papermc-versions-updater
 
     # Update spotify
     - run: nix develop --command bud spotify-updater

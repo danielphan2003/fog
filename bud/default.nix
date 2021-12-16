@@ -3,6 +3,8 @@ let
   writeBashWithBudPaths = paths: name: script:
     pkgs.writers.writeBash name ''
       export PATH="${lib.makeBinPath (paths ++ [ "$DEVSHELL_DIR" ])}"
+      export BUD_CACHE=''${BUD_CACHE:-/tmp/bud}
+      mkdir -p $BUD_CACHE
       source ${script}
     '';
   makeUpdaterCmd = args: args // { writer = writeBashWithBudPaths [ pkgs.coreutils pkgs.curl pkgs.jq ]; };
@@ -17,6 +19,12 @@ let
 in
 {
   bud.cmds = with pkgs; {
+    makeBudCache = {
+      writer = budUtils.writeBashWithPaths [ coreutils ];
+      synopsis = "makeBudCache";
+      help = "Create bud cache directory to avoid excessive API requests";
+      script = ./utils/make-bud-cache.bash;
+    };
     nvfetcher-cleanup = {
       writer = budUtils.writeBashWithPaths [ coreutils fd ];
       synopsis = "nvfetcher-cleanup";

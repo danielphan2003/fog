@@ -452,142 +452,142 @@ fetch.url = "https://cdn.zoom.us/prod/$ver/zoom_x86_64.pkg.tar.xz"
 ## papermc
 
 [papermc-1_8_8]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.8.8 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.8.8 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/$ver/downloads/paper-1.8.8-$ver.jar"
 passthru = { mcVer = "1.8.8" }
 
 [papermc-1_9_4]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.9.4 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.9.4 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/$ver/downloads/paper-1.9.4-$ver.jar"
 passthru = { mcVer = "1.9.4" }
 
 [papermc-1_10_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.10.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.10.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/$ver/downloads/paper-1.10.2-$ver.jar"
 passthru = { mcVer = "1.10.2" }
 
 [papermc-1_11_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.11.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.11.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/$ver/downloads/paper-1.11.2-$ver.jar"
 passthru = { mcVer = "1.11.2" }
 
 [papermc-1_12]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12/builds/$ver/downloads/paper-1.12-$ver.jar"
 passthru = { mcVer = "1.12" }
 
 [papermc-1_12_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.1/builds/$ver/downloads/paper-1.12.1-$ver.jar"
 passthru = { mcVer = "1.12.1" }
 
 [papermc-1_12_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/$ver/downloads/paper-1.12.2-$ver.jar"
 passthru = { mcVer = "1.12.2" }
 
 [papermc-1_13-pre7]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13-pre7 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13-pre7 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13-pre7/builds/$ver/downloads/paper-1.13-pre7-$ver.jar"
 passthru = { mcVer = "1.13-pre7" }
 
 [papermc-1_13]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13/builds/$ver/downloads/paper-1.13-$ver.jar"
 passthru = { mcVer = "1.13" }
 
 [papermc-1_13_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.1/builds/$ver/downloads/paper-1.13.1-$ver.jar"
 passthru = { mcVer = "1.13.1" }
 
 [papermc-1_13_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/$ver/downloads/paper-1.13.2-$ver.jar"
 passthru = { mcVer = "1.13.2" }
 
 [papermc-1_14]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14/builds/$ver/downloads/paper-1.14-$ver.jar"
 passthru = { mcVer = "1.14" }
 
 [papermc-1_14_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.1/builds/$ver/downloads/paper-1.14.1-$ver.jar"
 passthru = { mcVer = "1.14.1" }
 
 [papermc-1_14_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.2/builds/$ver/downloads/paper-1.14.2-$ver.jar"
 passthru = { mcVer = "1.14.2" }
 
 [papermc-1_14_3]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.3 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.3 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.3/builds/$ver/downloads/paper-1.14.3-$ver.jar"
 passthru = { mcVer = "1.14.3" }
 
 [papermc-1_14_4]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.4 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.4 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/$ver/downloads/paper-1.14.4-$ver.jar"
 passthru = { mcVer = "1.14.4" }
 
 [papermc-1_15]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15/builds/$ver/downloads/paper-1.15-$ver.jar"
 passthru = { mcVer = "1.15" }
 
 [papermc-1_15_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15.1/builds/$ver/downloads/paper-1.15.1-$ver.jar"
 passthru = { mcVer = "1.15.1" }
 
 [papermc-1_15_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/$ver/downloads/paper-1.15.2-$ver.jar"
 passthru = { mcVer = "1.15.2" }
 
 [papermc-1_16_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.1/builds/$ver/downloads/paper-1.16.1-$ver.jar"
 passthru = { mcVer = "1.16.1" }
 
 [papermc-1_16_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.2 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.2 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.2/builds/$ver/downloads/paper-1.16.2-$ver.jar"
 passthru = { mcVer = "1.16.2" }
 
 [papermc-1_16_3]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.3 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.3 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.3/builds/$ver/downloads/paper-1.16.3-$ver.jar"
 passthru = { mcVer = "1.16.3" }
 
 [papermc-1_16_4]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.4 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.4 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.4/builds/$ver/downloads/paper-1.16.4-$ver.jar"
 passthru = { mcVer = "1.16.4" }
 
 [papermc-1_16_5]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.5 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.5 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/$ver/downloads/paper-1.16.5-$ver.jar"
 passthru = { mcVer = "1.16.5" }
 
 [papermc-1_17]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17/builds/$ver/downloads/paper-1.17-$ver.jar"
 passthru = { mcVer = "1.17" }
 
 [papermc-1_17_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/$ver/downloads/paper-1.17.1-$ver.jar"
 passthru = { mcVer = "1.17.1" }
 
 [papermc-1_18]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18/builds/$ver/downloads/paper-1.18-$ver.jar"
 passthru = { mcVer = "1.18" }
 
 [papermc-1_18_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18.1 | jq '.builds | last' "
+src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18.1 | jq -r '.builds | last' "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/$ver/downloads/paper-1.18.1-$ver.jar"
 passthru = { mcVer = "1.18.1" }
 
@@ -595,55 +595,245 @@ passthru = { mcVer = "1.18.1" }
 
 #### Both
 
-[minecraft-fabric-api]
-src.github = "FabricMC/fabric"
-fetch.url = "https://github.com/FabricMC/fabric/releases/download/$ver/fabric-api-$ver.jar"
+[minecraft-fabric-api-1_14]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-$ver.jar"
+passthru = { mcVer = "1.14", modId = "P7dR8mSH" }
 
-[minecraft-ferrite-core]
-src.github_tag = "malte0811/FerriteCore"
-src.prefix = "build-"
-fetch.url = "https://nightly.link/malte0811/FerriteCore/workflows/build.yaml/1.17/build-artifacts.zip"
+[minecraft-fabric-api-1_14_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.1", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_14_2]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.2 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.2", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_14_3]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.3 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.3", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_14_4]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.4 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.4", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_15]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.15 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.15", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_15_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.15.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.1", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_15_2]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.15.2 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.15.2", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_16]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_16_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.1", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_16_2]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.2 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.2", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_16_3]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.3 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.3", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_16_4]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.4 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.4", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_16_5]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.5 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.5", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_17]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.17", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_17_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.17.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "P7dR8mSH" }
+
+[minecraft-fabric-api-1_18]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.18 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.18", modId = "P7dR8mSH" }
+
+[minecraft-ferritecore-1_16_5]
+src.cmd = " bud modrinth-updater uXXizFIs 1.16.5 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.16.5", modId = "uXXizFIs" }
+
+[minecraft-ferritecore-1_17]
+src.cmd = " bud modrinth-updater uXXizFIs 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.17", modId = "uXXizFIs" }
+
+[minecraft-ferritecore-1_17_1]
+src.cmd = " bud modrinth-updater uXXizFIs 1.17.1 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.17.1", modId = "uXXizFIs" }
+
+[minecraft-ferritecore-1_18]
+src.cmd = " bud modrinth-updater uXXizFIs 1.18 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.18", modId = "uXXizFIs" }
 
 [minecraft-lazydfu]
 src.github = "astei/lazydfu"
 fetch.url = "https://github.com/astei/lazydfu/releases/download/$ver/lazydfu-$ver.jar"
 
-[minecraft-starlight]
-src.github_tag = "PaperMC/Starlight"
-fetch.url = "https://github.com/PaperMC/Starlight/releases/download/$ver/starlight-$ver+fabric.1.17.x.jar"
+[minecraft-starlight-fabric-1_17]
+src.cmd = " bud modrinth-updater H8CaAYZC 1.17 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-$ver.jar"
+passthru = { mcVer = "1.17", modId = "H8CaAYZC" }
+
+[minecraft-starlight-fabric-1_18]
+src.cmd = " bud modrinth-updater H8CaAYZC 1.18 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-$ver.jar"
+passthru = { mcVer = "1.18", modId = "H8CaAYZC" }
+
+[minecraft-starlight-forge-1_17_1]
+src.cmd = " bud modrinth-updater iRfIGC1s 1.17.1 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.17.x/starlight-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "iRfIGC1s" }
+
+[minecraft-starlight-forge-1_18_1]
+src.cmd = " bud modrinth-updater iRfIGC1s 1.18.1 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1+/starlight-$ver.jar"
+passthru = { mcVer = "1.18.1", modId = "iRfIGC1s" }
 
 #### Client
 
-[minecraft-better-beds]
-src.github = "TeamMidnightDust/BetterBeds"
-src.prefix = "v"
-fetch.url = "https://github.com/TeamMidnightDust/BetterBeds/releases/download/v$ver/betterbeds-$ver.jar"
+[minecraft-better-beds-1_16]
+src.cmd = " bud modrinth-updater kKwy3HU9 1.16 "
+fetch.url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/$ver/betterbeds-$ver.jar"
+passthru = { mcVer = "1.16", modId = "kKwy3HU9" }
 
-[minecraft-cull-leaves]
-src.github = "TeamMidnightDust/CullLeaves"
-src.prefix = "v"
-fetch.url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v$ver/cullleaves-$ver.jar"
+[minecraft-better-beds-1_17]
+src.cmd = " bud modrinth-updater kKwy3HU9 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/$ver/betterbeds-$ver.jar"
+passthru = { mcVer = "1.16", modId = "kKwy3HU9" }
 
-[minecraft-sodium]
-src.github_tag = "CaffeineMC/sodium-fabric"
-src.prefix = "mc1.17.1-"
-fetch.url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/sodium-artifacts-1.17.x-dev.zip"
+[minecraft-cull-leaves-1_16]
+src.cmd = " bud modrinth-updater GNxdLCoP 1.16 "
+fetch.url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/$ver/cullleaves-$ver.jar"
+passthru = { mcVer = "1.16", modId = "GNxdLCoP" }
+
+[minecraft-cull-leaves-1_16_1]
+src.cmd = " bud modrinth-updater GNxdLCoP 1.16.1 "
+fetch.url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/$ver/cullleaves-$ver.jar"
+passthru = { mcVer = "1.16.1", modId = "GNxdLCoP" }
+
+[minecraft-cull-leaves-1_17]
+src.cmd = " bud modrinth-updater GNxdLCoP 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/$ver/cullleaves-$ver.jar"
+passthru = { mcVer = "1.17", modId = "GNxdLCoP" }
+
+# TODO: broken, see: https://github.com/CaffeineMC/sodium-fabric/issues/1059
+# [minecraft-sodium-1_16_3]
+# src.cmd = " bud modrinth-updater AANobbMI 1.16.3 "
+# src.prefix = "mc1.16.3-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-$ver/sodium-fabric-mc1.16.3-$ver.jar"
+# passthru = { mcVer = "1.16.3", modId = "AANobbMI" }
+
+# [minecraft-sodium-1_16_5]
+# src.cmd = " bud modrinth-updater AANobbMI 1.16.5 "
+# src.prefix = "mc1.16.5-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-$ver/sodium-fabric-mc1.16.5-$ver.jar"
+# passthru = { mcVer = "1.16.5", modId = "AANobbMI" }
+
+# [minecraft-sodium-1_17_1]
+# src.cmd = " bud modrinth-updater AANobbMI 1.17.1 "
+# src.prefix = "mc1.17.1-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-$ver/sodium-fabric-mc1.17.1-$ver.jar"
+# passthru = { mcVer = "1.17.1", modId = "AANobbMI" }
+
+# [minecraft-sodium-1_18]
+# src.cmd = " bud modrinth-updater AANobbMI 1.18 "
+# src.prefix = "mc1.18-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-$ver/sodium-fabric-mc1.18-$ver.jar"
+# passthru = { mcVer = "1.18", modId = "AANobbMI" }
 
 ### Server
 
-[minecraft-fast-furnace]
-src.github = "danielphan2003/FabricFastFurnace"
-fetch.url = "https://nightly.link/danielphan2003/FabricFastFurnace/workflows/gradle/patch-2/build-artifacts.zip"
+# TODO: out of date, not found elsewhere except original repo: https://github.com/Tfarcenim/FabricFastFurnace
+# [minecraft-fast-furnace]
+# src.github = "danielphan2003/FabricFastFurnace"
+# fetch.url = "https://nightly.link/danielphan2003/FabricFastFurnace/workflows/gradle/patch-2/build-artifacts.zip"
 
-[minecraft-krypton]
-src.github = "astei/krypton"
-src.prefix = "v"
-fetch.url = "https://github.com/astei/krypton/releases/download/v$ver/krypton-$ver.jar"
+[minecraft-krypton-1_16_5]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.16.5 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.16.5", modId = "fQEb0iXm" }
 
-[minecraft-lithium]
-src.github = "CaffeineMC/lithium-fabric"
+[minecraft-krypton-1_17]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.17", modId = "fQEb0iXm" }
+
+[minecraft-krypton-1_17_1]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.17.1 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "fQEb0iXm" }
+
+[minecraft-krypton-1_18_1]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.18.1 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.18.1", modId = "fQEb0iXm" }
+
+[minecraft-lithium-1_16_5]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.16.5 "
+src.prefix = "mc1.16.5-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-$ver/lithium-fabric-mc1.16.5-$ver.jar"
+passthru = { mcVer = "1.16.5", modId = "gvQqBUqZ" }
+
+[minecraft-lithium-1_17_1]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.17.1 "
 src.prefix = "mc1.17.1-"
-fetch.url = "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.17.1-$ver/lithium-fabric-mc1.17.1-$ver.jar"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-$ver/lithium-fabric-mc1.17.1-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "gvQqBUqZ" }
+
+[minecraft-lithium-1_18]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.18 "
+src.prefix = "mc1.18-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-$ver/lithium-fabric-mc1.18-$ver.jar"
+passthru = { mcVer = "1.18", modId = "gvQqBUqZ" }
+
+[minecraft-lithium-1_18_1]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.18.1 "
+src.prefix = "mc1.18.1-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-$ver/lithium-fabric-mc1.18.1-$ver.jar"
+passthru = { mcVer = "1.18.1", modId = "gvQqBUqZ" }
 
 ### Python extensions
 
