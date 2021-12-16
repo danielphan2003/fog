@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.107.0-b.15";
+    version = "0.107.0-b.16";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.15/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-wMJ0dVA/cPxHRwWReNXLTC0AfZ9nDd39LaWGqPA3yUE=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.16/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-6LTo13kLQ+sHaBYbjLoWCucSIkFg8yQQC8aJEpNCYAI=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.107.0-b.15";
+    version = "0.107.0-b.16";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.15/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-pHTd8gwnaBF/M1swC5AU8XLKtdZkM4QR9YLS7SsES9I=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.16/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-E7pQ8mWz+QUV5f7c1g7cvYuFDkjDJQsGw5GmIBdzJ/8=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.107.0-b.15";
+    version = "0.107.0-b.16";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.15/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-V2RB+ilHhYOOIRgkOwLwTprlS0BqQhRD7wrk2fbeMK4=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.16/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-s2uX/hOS5BzWKnpDdeVbtelKUN7l157al28ycKjsS2c=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.107.0-b.15";
+    version = "0.107.0-b.16";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.15/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-9M+GyspgeCr4409QRgBuQblnh7cK01+Owk7At5FpE30=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.16/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-hFq2kiUDb1vfMJFZMIXBhedCVkLNOQgIBv+ECfC6h60=";
     };
   };
   adl = {
@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "238f1545f4de5b873e9e717c458c200a049c73e5";
+    version = "bb56056a68906ddd178f64ab0b016c8bbe9786fb";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "238f1545f4de5b873e9e717c458c200a049c73e5";
+      rev = "bb56056a68906ddd178f64ab0b016c8bbe9786fb";
       fetchSubmodules = false;
-      sha256 = "sha256-5wE+qtKFGETFm4S/dy/OqEWBjboO5bM3N727w1xuMvM=";
+      sha256 = "sha256-DcsCR6NsvK2YOC0LFMOUftuKDbvQpJeXFl1kv/o2lF0=";
     });
   };
   avizo = {
@@ -123,35 +123,35 @@
   };
   bling = {
     pname = "bling";
-    version = "bc26b9ff89ff09368dd456284c35ee374e223281";
+    version = "e0423796b075b21cf3252a9d59b6c23dbf2bb46c";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "bc26b9ff89ff09368dd456284c35ee374e223281";
+      rev = "e0423796b075b21cf3252a9d59b6c23dbf2bb46c";
       fetchSubmodules = false;
-      sha256 = "sha256-ILnRiaeg53YA2f/JfdWfg7uYwM3pTvOq7wnS5/0rvK0=";
+      sha256 = "sha256-l5FifujhIu1z2aLViwK7c74MZXl3ZauGklQixtFybN0=";
     });
   };
   bottles = {
     pname = "bottles";
-    version = "bf76d861d36e9427f1050c89996dbdc1c589b8fe";
+    version = "eb41f8027fd49325a3c1f4bb00fa7c1a5b64e692";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "bf76d861d36e9427f1050c89996dbdc1c589b8fe";
+      rev = "eb41f8027fd49325a3c1f4bb00fa7c1a5b64e692";
       fetchSubmodules = false;
-      sha256 = "sha256-4iw9OFmOlzwvqvxvgOqvM8uCADeb3hsq+WJNmvibA/8=";
+      sha256 = "sha256-0WLJlezgu/SMKsJJHJ+/M3JuOD63PE9d/R78qvASZAs=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "c04d24cafa60e522842d5188587ab07af2082e9b";
+    version = "180ae0cc4843ecc3c7ddcb6e978ebfd474ed07f9";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c04d24cafa60e522842d5188587ab07af2082e9b";
+      rev = "180ae0cc4843ecc3c7ddcb6e978ebfd474ed07f9";
       fetchSubmodules = false;
-      sha256 = "sha256-nUM9eyCvU2mh7paesXv2ntmjHq8YhQ5JdO/BW4vc0kk=";
+      sha256 = "sha256-zcXfVTMbPN1avOqS88/gVukNb6NHIou68RXQFp8f4Kk=";
     });
   };
   cups-pdf = {
@@ -172,13 +172,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "b9d6b22ce1ad07ef643ae4a6be5dada35fcc965c";
+    version = "fbfc2d57a7ff3571b009fbb8b40dc4eff1191685";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "b9d6b22ce1ad07ef643ae4a6be5dada35fcc965c";
+      rev = "fbfc2d57a7ff3571b009fbb8b40dc4eff1191685";
       fetchSubmodules = false;
-      sha256 = "sha256-aHbBVUbZiWmwt8lNI6Pn2SPy76vTGat80/iLOCzJNdY=";
+      sha256 = "sha256-SITVJFjfaGqWb8V+9/fYXkQZ2X2ZOfLPUw+JNWofCXY=";
     });
   };
   doggo = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "2bfa6e55dbb8054c0a6baadcf4bf353a2ca81d69";
+    version = "11eae40857481edbe330a7583d10304d889236ba";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "2bfa6e55dbb8054c0a6baadcf4bf353a2ca81d69";
+      rev = "11eae40857481edbe330a7583d10304d889236ba";
       fetchSubmodules = false;
-      sha256 = "sha256-l2SMhTg9oSMTLOXaSa50FqcFipo4OyW7aqczEl/M1Hs=";
+      sha256 = "sha256-g1BbmRqvB80zFjuf/+4dq4WcyosJ2iGE0r+TG6EuNOI=";
     });
   };
   droidcam = {
@@ -331,34 +331,34 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-832";
+    version = "1.0-833";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-832-1_all.deb";
-      sha256 = "sha256-ZSzxD4RCsIkNtB4agBRZkzbJOi6ttzlc4Qw5n0t5syc=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-833-1_all.deb";
+      sha256 = "sha256-X0GE+gUybWo+lBJd1uOibAm7sUsBLeOUSQZexYA16e0=";
     };
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5683";
+    version = "1.0.5698";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5683.tar.bz2";
-      sha256 = "sha256-7h0kpaPHllC/gLlXCl6+jJSOJFBgtvx/PP3+CNlhO9E=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5698.tar.bz2";
+      sha256 = "sha256-N80zzjSIkDca4XnJl4Vv3lKobUFBArLI7JnC2opAUvE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5683";
+    version = "1.0.5698";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5683-1_all.deb";
-      sha256 = "sha256-Ed9xOTZG2YYOvgXocCBABn3Ic6ndurmaRFDF2x3kG94=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5698-1_all.deb";
+      sha256 = "sha256-JcygXDEo2x76IknkoIQKzwl5od1cernRu0v9nh9wPqY=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-595-g3637fda4";
+    version = "2.1-599-gbd22ff3f";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-595-g3637fda4-1_all.deb";
-      sha256 = "sha256-vwn9C8M3wwiIqwxAu1MDe2ra2SCQ2Hssco5J/xUFoKM=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-599-gbd22ff3f-1_all.deb";
+      sha256 = "sha256-fo+dGX1h0O+pxsSIycoXDm9BIgecJWjx1iGcl40Jy/4=";
     };
   };
   layout-machi = {
@@ -445,59 +445,311 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "98.0.1093.6";
+    version = "98.0.1100.3";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_98.0.1093.6-1_amd64.deb";
-      sha256 = "sha256-E413E6L5EsY5ERQ0QsZTx7//gkHwSXsw731c2K9vV0U=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_98.0.1100.3-1_amd64.deb";
+      sha256 = "sha256-CHFFLqQ0wO/gI77myPDkDX2wGcD4nXhWvy7BOPUOMw8=";
     };
   };
-  minecraft-better-beds = {
-    pname = "minecraft-better-beds";
+  minecraft-better-beds-1_16 = {
+    pname = "minecraft-better-beds-1_16";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.1.0/betterbeds-1.1.0.jar";
+      sha256 = "sha256-cHZpq8SS3ffruSQ7Jn07mVBLGRb8zNz6qTj+WGitVds=";
+    };
+    modId = "kKwy3HU9";
+    mcVer = "1.16";
+  };
+  minecraft-better-beds-1_17 = {
+    pname = "minecraft-better-beds-1_17";
     version = "1.2.0";
     src = fetchurl {
-      url = "https://github.com/TeamMidnightDust/BetterBeds/releases/download/v1.2.0/betterbeds-1.2.0.jar";
+      url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar";
       sha256 = "sha256-ePkc4oTD0SGFD7qnzKSgHrW9fPoDMpni8euR8aowPA8=";
     };
+    modId = "kKwy3HU9";
+    mcVer = "1.16";
   };
-  minecraft-cull-leaves = {
-    pname = "minecraft-cull-leaves";
+  minecraft-cull-leaves-1_16 = {
+    pname = "minecraft-cull-leaves-1_16";
+    version = "2.0.0";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.0.0/cullleaves-2.0.0.jar";
+      sha256 = "sha256-1vqwrorAl8YSNBxDnQOWK4tZb5LEaeCymyUGUtDLs4U=";
+    };
+    modId = "GNxdLCoP";
+    mcVer = "1.16";
+  };
+  minecraft-cull-leaves-1_16_1 = {
+    pname = "minecraft-cull-leaves-1_16_1";
+    version = "2.1.0";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.1.0/cullleaves-2.1.0.jar";
+      sha256 = "sha256-x6GwaiYH9GetsM4tdw8lIuoI0/ls2MACXrNA27HT2BM=";
+    };
+    modId = "GNxdLCoP";
+    mcVer = "1.16.1";
+  };
+  minecraft-cull-leaves-1_17 = {
+    pname = "minecraft-cull-leaves-1_17";
     version = "2.3.2";
     src = fetchurl {
-      url = "https://github.com/TeamMidnightDust/CullLeaves/releases/download/v2.3.2/cullleaves-2.3.2.jar";
+      url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar";
       sha256 = "sha256-tNi43VJa/tLpKcsSEhIjYim6pYopTlBRCy3zdtNC6xQ=";
     };
+    modId = "GNxdLCoP";
+    mcVer = "1.17";
   };
-  minecraft-fabric-api = {
-    pname = "minecraft-fabric-api";
+  minecraft-fabric-api-1_14 = {
+    pname = "minecraft-fabric-api-1_14";
+    version = "0.2.7+build.127";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.2.7+build.127/fabric-0.2.7+build.127.jar";
+      sha256 = "sha256-Uv//C6GCzlwB9nVHSd+QcT3w272pHoPKBdevrdLvnpg=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.14";
+  };
+  minecraft-fabric-api-1_14_1 = {
+    pname = "minecraft-fabric-api-1_14_1";
+    version = "0.3.0-pre+build.157a";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.3.0-pre+build.157a/fabric-api-0.3.0-pre+build.157a.jar";
+      sha256 = "sha256-L7y7Lj7izi3nEwjG1tJVziOirIgay8kwqDamgYkN/50=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.14.1";
+  };
+  minecraft-fabric-api-1_14_2 = {
+    pname = "minecraft-fabric-api-1_14_2";
+    version = "0.3.0+build.185";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.3.0+build.185/fabric-api-0.3.0+build.185.jar";
+      sha256 = "sha256-V5YjA7QYTOUAwuyQuFyFtJXV0L35wvD4Bv/IKBVXkyg=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.14.2";
+  };
+  minecraft-fabric-api-1_14_3 = {
+    pname = "minecraft-fabric-api-1_14_3";
+    version = "0.3.0+build.198";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.3.0+build.198/fabric-api-0.3.0+build.198.jar";
+      sha256 = "sha256-p7AQHjJxLhIohG/jJMawwDfuBREJFk0K2iup2Z+Mowc=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.14.3";
+  };
+  minecraft-fabric-api-1_14_4 = {
+    pname = "minecraft-fabric-api-1_14_4";
+    version = "0.28.5+1.14";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5+1.14/fabric-api-0.28.5+1.14.jar";
+      sha256 = "sha256-9emDhUvdp3Q2KCMc9I7APZBD7il+TCAVh4ALkWP4sK0=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.14.4";
+  };
+  minecraft-fabric-api-1_15 = {
+    pname = "minecraft-fabric-api-1_15";
+    version = "0.4.24+build.279-1.15";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.4.24+build.279-1.15/fabric-api-0.4.24+build.279-1.15.jar";
+      sha256 = "sha256-x6Xe5JD8VdWoieJoHz1J0N/sNtyqPC34MR/0jkyJDBY=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.15";
+  };
+  minecraft-fabric-api-1_15_1 = {
+    pname = "minecraft-fabric-api-1_15_1";
+    version = "0.4.27+build.286-1.15";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.4.27+build.286-1.15/fabric-api-0.4.27+build.286-1.15.jar";
+      sha256 = "sha256-BDrxap1aEsbQRTxRSYEBvmYTYxwiPXwvR6lmqLIiSf4=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16.1";
+  };
+  minecraft-fabric-api-1_15_2 = {
+    pname = "minecraft-fabric-api-1_15_2";
+    version = "0.28.5+1.15";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.28.5+1.15/fabric-api-0.28.5+1.15.jar";
+      sha256 = "sha256-lnC0VgfSlEoeSOSSw7QPI9WshxlB8I19AfHK2g53wKo=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.15.2";
+  };
+  minecraft-fabric-api-1_16 = {
+    pname = "minecraft-fabric-api-1_16";
+    version = "0.13.1+build.370-1.16";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.13.1+build.370-1.16/fabric-api-0.13.1+build.370-1.16.jar";
+      sha256 = "sha256-sVrBUgP+F7/aHeL1vL6zNJ5LedMluhtv/LF94A82+ZI=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16";
+  };
+  minecraft-fabric-api-1_16_1 = {
+    pname = "minecraft-fabric-api-1_16_1";
+    version = "0.18.0+build.387-1.16.1";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.18.0+build.387-1.16.1/fabric-api-0.18.0+build.387-1.16.1.jar";
+      sha256 = "sha256-7SdIJd07EGoN4EtfxGhpJ7QBig3khIT1b2TId5HtTbs=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16.1";
+  };
+  minecraft-fabric-api-1_16_2 = {
+    pname = "minecraft-fabric-api-1_16_2";
+    version = "0.20.1+build.401-1.16";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.20.1+build.401-1.16/fabric-api-0.20.1+build.401-1.16.jar";
+      sha256 = "sha256-+z9AlmYmqG7EAQzuxHFAqd7FLEaMTDJEQQkbAk4cu8o=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16.2";
+  };
+  minecraft-fabric-api-1_16_3 = {
+    pname = "minecraft-fabric-api-1_16_3";
+    version = "0.25.0+build.415-1.16";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.25.0+build.415-1.16/fabric-api-0.25.0+build.415-1.16.jar";
+      sha256 = "sha256-5+oIAqKmB/S7OwiddYHyV0fjgurwfLearibtXE37x1I=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16.3";
+  };
+  minecraft-fabric-api-1_16_4 = {
+    pname = "minecraft-fabric-api-1_16_4";
+    version = "0.29.3+1.16";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.29.3+1.16/fabric-api-0.29.3+1.16.jar";
+      sha256 = "sha256-PbzOgbUZF9GewfyVyFcWMEJ58XkIqa4t76+g8/+t8Q0=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16.4";
+  };
+  minecraft-fabric-api-1_16_5 = {
+    pname = "minecraft-fabric-api-1_16_5";
+    version = "0.42.0+1.16";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar";
+      sha256 = "sha256-PfjdUD81qgrJ+ritn5o2n9/QsatUSvGaPWJtlI+0WGw=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.16.5";
+  };
+  minecraft-fabric-api-1_17 = {
+    pname = "minecraft-fabric-api-1_17";
+    version = "0.36.0+1.17";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.36.0+1.17/fabric-api-0.36.0+1.17.jar";
+      sha256 = "sha256-hub8Ijb522iIFeASD2Hppa3mrqjDy8qwQv6rvt3EsTM=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.17";
+  };
+  minecraft-fabric-api-1_17_1 = {
+    pname = "minecraft-fabric-api-1_17_1";
+    version = "0.44.0+1.17";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.17/fabric-api-0.44.0+1.17.jar";
+      sha256 = "sha256-wAWOwe5GI/aAR8PWN3L60umEIKGXfXmAyTgOjhl9j+Q=";
+    };
+    modId = "P7dR8mSH";
+    mcVer = "1.17.1";
+  };
+  minecraft-fabric-api-1_18 = {
+    pname = "minecraft-fabric-api-1_18";
     version = "0.44.0+1.18";
     src = fetchurl {
-      url = "https://github.com/FabricMC/fabric/releases/download/0.44.0+1.18/fabric-api-0.44.0+1.18.jar";
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.18/fabric-api-0.44.0+1.18.jar";
       sha256 = "sha256-ZCByRV30DF6J3XG7wAL48E4uQZ2BvY80ImocIOuRlVY=";
     };
+    modId = "P7dR8mSH";
+    mcVer = "1.18";
   };
-  minecraft-fast-furnace = {
-    pname = "minecraft-fast-furnace";
-    version = "3.0";
+  minecraft-ferritecore-1_16_5 = {
+    pname = "minecraft-ferritecore-1_16_5";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://nightly.link/danielphan2003/FabricFastFurnace/workflows/gradle/patch-2/build-artifacts.zip";
-      sha256 = "sha256-MEUxqfDBrTb+gLQp0c9Sgt5ECtN1jHAvar48NZ+Hmpo=";
+      url = "https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar";
+      sha256 = "sha256-FyTpDH5lFOKYwQy6Ynn/4ddhCxU8clGHBrDndUs3KXE=";
     };
+    modId = "uXXizFIs";
+    mcVer = "1.16.5";
   };
-  minecraft-ferrite-core = {
-    pname = "minecraft-ferrite-core";
+  minecraft-ferritecore-1_17 = {
+    pname = "minecraft-ferritecore-1_17";
+    version = "3.0.1";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3.0.1-fabric.jar";
+      sha256 = "sha256-wqk2B+dcAupiZ73IfBPHxBXxCZw7x3gfhB0pqsq6uYo=";
+    };
+    modId = "uXXizFIs";
+    mcVer = "1.17";
+  };
+  minecraft-ferritecore-1_17_1 = {
+    pname = "minecraft-ferritecore-1_17_1";
+    version = "3.1.0";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar";
+      sha256 = "sha256-DZdL1vkQBYaaVQokws5UOMe/oZmnJnK/SnCcCKMDRzs=";
+    };
+    modId = "uXXizFIs";
+    mcVer = "1.17.1";
+  };
+  minecraft-ferritecore-1_18 = {
+    pname = "minecraft-ferritecore-1_18";
     version = "4.0.0";
     src = fetchurl {
-      url = "https://nightly.link/malte0811/FerriteCore/workflows/build.yaml/1.17/build-artifacts.zip";
-      sha256 = "sha256-ExCYuiw36g4hEy9UyM237/uEDGI16EQ4r9ADld9JYEw=";
+      url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar";
+      sha256 = "sha256-YK0d0+tZWybchXH7hhCG+DV1268K+rpPATQBTK6DBMo=";
     };
+    modId = "uXXizFIs";
+    mcVer = "1.18";
   };
-  minecraft-krypton = {
-    pname = "minecraft-krypton";
+  minecraft-krypton-1_16_5 = {
+    pname = "minecraft-krypton-1_16_5";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar";
+      sha256 = "sha256-U/i8qX6qtznjjtDaC8fTBT8RQ9sozwfVjHLMlUVrB5g=";
+    };
+    modId = "fQEb0iXm";
+    mcVer = "1.16.5";
+  };
+  minecraft-krypton-1_17 = {
+    pname = "minecraft-krypton-1_17";
+    version = "0.1.3";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.3/krypton-0.1.3.jar";
+      sha256 = "sha256-BLi6bGzWVaeMzoFNZXSj8zPUGsxIgb2wo05oIkzI4kU=";
+    };
+    modId = "fQEb0iXm";
+    mcVer = "1.17";
+  };
+  minecraft-krypton-1_17_1 = {
+    pname = "minecraft-krypton-1_17_1";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar";
+      sha256 = "sha256-7FLzkVjDteRAAc+sNHaVLE5AH+jUdJYcrm9EFBwWcLY=";
+    };
+    modId = "fQEb0iXm";
+    mcVer = "1.17.1";
+  };
+  minecraft-krypton-1_18_1 = {
+    pname = "minecraft-krypton-1_18_1";
     version = "0.1.6";
     src = fetchurl {
-      url = "https://github.com/astei/krypton/releases/download/v0.1.6/krypton-0.1.6.jar";
+      url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar";
       sha256 = "sha256-0cKxJIMRUnmrsdRg0iy37vx/J5o3dvptc1lXwvnaK+Y=";
     };
+    modId = "fQEb0iXm";
+    mcVer = "1.18.1";
   };
   minecraft-lazydfu = {
     pname = "minecraft-lazydfu";
@@ -507,47 +759,103 @@
       sha256 = "sha256-546xSS4gvNjJmNQULdQ3wlFzk8XQL1giBK2KODQedeg=";
     };
   };
-  minecraft-lithium = {
-    pname = "minecraft-lithium";
+  minecraft-lithium-1_16_5 = {
+    pname = "minecraft-lithium-1_16_5";
+    version = "0.6.6";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar";
+      sha256 = "sha256-kGe0VQn8MCPXa/+FrQMO8B0w5an7/ngV/2Zq0xu6TSg=";
+    };
+    modId = "gvQqBUqZ";
+    mcVer = "1.16.5";
+  };
+  minecraft-lithium-1_17_1 = {
+    pname = "minecraft-lithium-1_17_1";
     version = "0.7.5";
     src = fetchurl {
-      url = "https://github.com/CaffeineMC/lithium-fabric/releases/download/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar";
+      url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar";
       sha256 = "sha256-HADtQ51u6ZBqHS3q9wZeOYAz96E2vFPSmL4sxjYoMhA=";
     };
+    modId = "gvQqBUqZ";
+    mcVer = "1.17.1";
   };
-  minecraft-sodium = {
-    pname = "minecraft-sodium";
-    version = "mc1.18-0.4.0-alpha5";
+  minecraft-lithium-1_18 = {
+    pname = "minecraft-lithium-1_18";
+    version = "0.7.6-rc1";
     src = fetchurl {
-      url = "https://nightly.link/CaffeineMC/sodium-fabric/workflows/gradle/1.17.x%2Fdev/sodium-artifacts-1.17.x-dev.zip";
-      sha256 = "sha256-7zQ5Cq2CXr66zF4rvgqSTYtcHJOvj4Xahv1811MxprU=";
+      url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar";
+      sha256 = "sha256-dggI0EBWNh8r20zqmEwtAcKrgQwhhhPqtbWBdOcdt2c=";
     };
+    modId = "gvQqBUqZ";
+    mcVer = "1.18";
   };
-  minecraft-starlight = {
-    pname = "minecraft-starlight";
-    version = "1.0.0-RC3";
+  minecraft-lithium-1_18_1 = {
+    pname = "minecraft-lithium-1_18_1";
+    version = "0.7.6";
     src = fetchurl {
-      url = "https://github.com/PaperMC/Starlight/releases/download/1.0.0-RC3/starlight-1.0.0-RC3+fabric.1.17.x.jar";
-      sha256 = "sha256-15vxBPDcq1PT1VRjELJRNB1oO722ycRfj8NKF3cs5AY=";
+      url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar";
+      sha256 = "sha256-x1H0QnqGnHZ+42qofrVHcBQ8FAjo+FyXiWSjU96Mgbs=";
     };
+    modId = "gvQqBUqZ";
+    mcVer = "1.18.1";
+  };
+  minecraft-starlight-fabric-1_17 = {
+    pname = "minecraft-starlight-fabric-1_17";
+    version = "1.0.0+fabric.73f6d37";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar";
+      sha256 = "sha256-oLJ282+JieNpThs2ULghn9KTSTYDXlY8cZ4Y4niC2Ow=";
+    };
+    modId = "H8CaAYZC";
+    mcVer = "1.17";
+  };
+  minecraft-starlight-fabric-1_18 = {
+    pname = "minecraft-starlight-fabric-1_18";
+    version = "1.0.0+fabric.d0a3220";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-1.0.0+fabric.d0a3220.jar";
+      sha256 = "sha256-QdFnvpR5VWNRvxh1h8/C5QFds4BT0VO6sYhBWEiNaS8=";
+    };
+    modId = "H8CaAYZC";
+    mcVer = "1.18";
+  };
+  minecraft-starlight-forge-1_17_1 = {
+    pname = "minecraft-starlight-forge-1_17_1";
+    version = "1.0.0+forge.5d16647";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+forge.5d16647.jar";
+      sha256 = "sha256-7pPXm47HUCpfBMRpg5D4HmRl2lM7PpQtsWmLL9i91Yw=";
+    };
+    modId = "iRfIGC1s";
+    mcVer = "1.17.1";
+  };
+  minecraft-starlight-forge-1_18_1 = {
+    pname = "minecraft-starlight-forge-1_18_1";
+    version = "1.0.0+forge.4fd2e63";
+    src = fetchurl {
+      url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1+/starlight-1.0.0+forge.4fd2e63.jar";
+      sha256 = "sha256-RmqCPBMTDbJaDYYfL10pFWUBlitr0VZoSX5hbdkQ8UQ=";
+    };
+    modId = "iRfIGC1s";
+    mcVer = "1.18.1";
   };
   minecraft-wayland = {
     pname = "minecraft-wayland";
-    version = "79b8cdb675b70624cad1f0c7cf4f8e45cda6ebd4";
+    version = "88eba707930eb98715fd9fb5d10d3ff02a535abf";
     src = fetchFromGitHub ({
       owner = "Admicos";
       repo = "minecraft-wayland";
-      rev = "79b8cdb675b70624cad1f0c7cf4f8e45cda6ebd4";
+      rev = "88eba707930eb98715fd9fb5d10d3ff02a535abf";
       fetchSubmodules = false;
-      sha256 = "sha256-fwdK+DPZoFi/Qsjp+JHSj3U0Vd7ZpUCC36QFjzkNNQg=";
+      sha256 = "sha256-NzXAFtQLvPWdQAq+xTBbDMOyGvs7MKyiJTP+VL8HpRg=";
     });
   };
   netdata = {
     pname = "netdata";
-    version = "1.32.0";
+    version = "1.32.1";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.32.0.tar.gz";
-      sha256 = "sha256-m3f0aHUneNFOxXyzt2rR8sm9YGt/m/R9Ms5t84zUViY=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.32.1.tar.gz";
+      sha256 = "sha256-K1RwyhOzp8l5T2sg0UVGzXAYGA/miKt2iC2VuKWTufY=";
     };
   };
   netdata-go-d-plugin = {
@@ -601,16 +909,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "add6a595bd2c8ce24a67609dfb8ae8bccddb627f";
+    version = "35a158ec63aa88004e4daed078aa978aa1ff95ab";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "add6a595bd2c8ce24a67609dfb8ae8bccddb627f";
+      rev = "35a158ec63aa88004e4daed078aa978aa1ff95ab";
       fetchSubmodules = false;
-      sha256 = "sha256-EGnLw6yQfuiR4MiDogEZ4AeM+MzxO/3C4xiO/Pr/gyM=";
+      sha256 = "sha256-6zyN3wy8Sq2e4+Jb6PU8Rno/gY8B//F/HF0QMxom0/A=";
     });
     cargoLock = {
-      lockFile = ./ouch-add6a595bd2c8ce24a67609dfb8ae8bccddb627f/Cargo.lock;
+      lockFile = ./ouch-35a158ec63aa88004e4daed078aa978aa1ff95ab/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -841,10 +1149,10 @@
   };
   papermc-1_17_1 = {
     pname = "papermc-1_17_1";
-    version = "399";
+    version = "400";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/399/downloads/paper-1.17.1-399.jar";
-      sha256 = "sha256-7dY1dfziGEPlKmh/eRfqXP55ouQHeXiR6PnPFoAgZwQ=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/400/downloads/paper-1.17.1-400.jar";
+      sha256 = "sha256-O46njij19SJO9pJ2LjYVDhbDUukVn2ywDbRmoN54fzg=";
     };
     mcVer = "1.17.1";
   };
@@ -859,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "73";
+    version = "77";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/73/downloads/paper-1.18.1-73.jar";
-      sha256 = "sha256-cFPr3PbfuSvrBCyEqOURbJ97LFuhMpZm3M7XczxxH0w=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/77/downloads/paper-1.18.1-77.jar";
+      sha256 = "sha256-yNXJ7hp7sQ8by7H+TvfP3dxMeNggQpddRaj/G5TWxJ8=";
     };
     mcVer = "1.18.1";
   };
@@ -1012,13 +1320,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "dd278dc06831a78d65f6d4c6a76ceeb569be1a44";
+    version = "71836c1055f9cdfe11aa27da0c74e5a351cf0596";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "dd278dc06831a78d65f6d4c6a76ceeb569be1a44";
+      rev = "71836c1055f9cdfe11aa27da0c74e5a351cf0596";
       fetchSubmodules = false;
-      sha256 = "sha256-Ey7ksv8VaE1w+E/WyAi3tHSb7ljVgX4RlJJ88M22XIM=";
+      sha256 = "sha256-n3ucE6CNNsEX3OXF5YFOuX1OusVXCwICbijILX9II1w=";
     });
   };
   rofi-wayland = {
@@ -1126,25 +1434,25 @@
   };
   snui = {
     pname = "snui";
-    version = "cc3c07e92e24410b7661c5729f7278eda08862cd";
+    version = "1690b43682bece16a70729a32c6cdaac186b0463";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "cc3c07e92e24410b7661c5729f7278eda08862cd";
+      rev = "1690b43682bece16a70729a32c6cdaac186b0463";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-BMiG6o8a0fQRmcGpwNO7FX5I71b0o607ym9gt4T00jQ=";
+      sha256 = "sha256-PkpXFpvdYrPaxy+NuhHmqOIE1+5IOYtQXDe+P8igfyY=";
     };
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "e36828eb5f6e2fd52dbacc91cdba000d5bb12cbe";
+    version = "db6b6823dc109dd7e265386386f2d2c92f30a1c6";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "e36828eb5f6e2fd52dbacc91cdba000d5bb12cbe";
+      rev = "db6b6823dc109dd7e265386386f2d2c92f30a1c6";
       fetchSubmodules = false;
-      sha256 = "sha256-HaFAXeII85T7BIYE9NAoK4u5aN5kJSQxxO5k1gvbjfQ=";
+      sha256 = "sha256-25PRNHmuAQHIN1iFXQ4h0b7aVUHyF8xelqBKUPSR7QY=";
     });
   };
   spicetify-themes = {
@@ -1216,13 +1524,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "e133bb570b2966474974a1fbfe525e8b4847986f";
+    version = "8f43ddf1a2dc52d3e1eda9611353c299c3396e78";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "e133bb570b2966474974a1fbfe525e8b4847986f";
+      rev = "8f43ddf1a2dc52d3e1eda9611353c299c3396e78";
       fetchSubmodules = false;
-      sha256 = "sha256-kbXx75WaXVPswTwkZ2TcnNKimuUykD5eszl2kS8iSWY=";
+      sha256 = "sha256-C1T4HslRuy0DeisKvnW8NKXVJZ4u1spZXnUh4YOIdwQ=";
     });
   };
   tailscale-systray = {
@@ -1287,18 +1595,17 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "1.23.0";
+    version = "1.23.1";
     src = fetchFromGitHub ({
       owner = "dani-garcia";
       repo = "vaultwarden";
-      rev = "1.23.0";
+      rev = "1.23.1";
       fetchSubmodules = false;
-      sha256 = "sha256-lbOsJsmZxdBNTbhsGJ1mcjWlJ6802GYM3waTiWYOErY=";
+      sha256 = "sha256-UMeltpuGUPdB5j4NBxA6SuLUqzinrF8USCaJk9SjDJA=";
     });
     cargoLock = {
-      lockFile = ./vaultwarden-1.23.0/Cargo.lock;
+      lockFile = ./vaultwarden-1.23.1/Cargo.lock;
       outputHashes = {
-        "data-url-0.1.0" = "sha256-7arUV7+XYxk3UFYIoD/A7NOKLom8QdEWJLFIIfUFuxs=";
         "rocket-0.5.0-dev" = "sha256-sZL6GtLrfDy0ePix2UxZTdpFQvvc0G/Q+7qbCLGknqY=";
         "job_scheduler-1.2.1" = "sha256-b0jIKAHVrQNdZdlq+5kfGAOsi8bHu20QDtQaWTuJYtU=";
         "devise-0.3.0" = "sha256-crnEOKK7FiuIs55mOKgNfb3mNzr3QLI0icPPuG+xKVI=";
@@ -1449,10 +1756,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.72.0";
+    version = "0.73.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.72.0/file/dendron.dendron-0.72.0.vsix";
-      sha256 = "sha256-C8vzUU44PIJjaAcf1rCtLZBd0/sPU3Khc4DKwM0qAEI=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.73.1/file/dendron.dendron-0.73.1.vsix";
+      sha256 = "sha256-28EAVHXtRblwfMWXfexulbpXT1MMUk+xJS5a+Pkv7mE=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
@@ -1768,24 +2075,24 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "9a8a3068d156242883da03e6f93d3a3ea58cc778";
+    version = "e6dbf7c19799018dc121b45d05255a045ba1585f";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "9a8a3068d156242883da03e6f93d3a3ea58cc778";
+      rev = "e6dbf7c19799018dc121b45d05255a045ba1585f";
       fetchSubmodules = false;
-      sha256 = "sha256-Xf9bZ0snRFVAZjgb+ZJ/JLK1GIYOxBp7zCKR/xkNsqI=";
+      sha256 = "sha256-MAsTf/nGk+a85ytGUB71YY2T3gMyQkBOxYforPhxmaI=";
     });
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "f14faba2adb1b72eab3869134b72a4a916328204";
+    version = "214992b385ab83db33bd22174b7bd2ef750e662c";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "f14faba2adb1b72eab3869134b72a4a916328204";
+      rev = "214992b385ab83db33bd22174b7bd2ef750e662c";
       fetchSubmodules = false;
-      sha256 = "sha256-Xq3yomBuCB4Cj6Jo7OwSZwbEsx8el6YLfXe1UcjP3+c=";
+      sha256 = "sha256-2NLMRX03cbbo/Klmu4lKCEDIP5PP2h3GypUrOb82sbM=";
     });
   };
   widevine-cdm = {
@@ -1854,25 +2161,25 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "4de9666b6d3c86660d728ddfc13d88700e5ff20d";
+    version = "6c1a1fcc4bff90546ebc954f428c6df97005ea50";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "4de9666b6d3c86660d728ddfc13d88700e5ff20d";
+      rev = "6c1a1fcc4bff90546ebc954f428c6df97005ea50";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ztPdqMnYIlWKze4T2PoDLC0li/RDaKyak8nMncy/z8U=";
+      sha256 = "sha256-fH8y3+L/VP/7defI9yGFCqgwH5RRFYH9roNQOFHIl3A=";
     };
   };
   ydotool = {
     pname = "ydotool";
-    version = "a47699e772ffdf5e29cd2818fe17539bba15492a";
+    version = "9d84dc74cda8a68e2e829cdf40d8f40c696af7f4";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "a47699e772ffdf5e29cd2818fe17539bba15492a";
+      rev = "9d84dc74cda8a68e2e829cdf40d8f40c696af7f4";
       fetchSubmodules = false;
-      sha256 = "sha256-TUgGKTMnoOFdig6Zc0xy/rV9VttqxUUQ8IBbdtlp2x8=";
+      sha256 = "sha256-gOTj76CLSbfjnO8oAoHLs/9+ELWektngy1KT9eVUEq0=";
     });
   };
   zoom-us = {
