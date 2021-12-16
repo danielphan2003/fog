@@ -1524,13 +1524,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "40e2b312b62a4663de991447b539c2a42c24ffea";
+    version = "5a9914a92fa72d61510b5f2aacd6665e3f8fa659";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "40e2b312b62a4663de991447b539c2a42c24ffea";
+      rev = "5a9914a92fa72d61510b5f2aacd6665e3f8fa659";
       fetchSubmodules = false;
-      sha256 = "sha256-GwAxKIlD00SJHuLUc8JfnucOjMJZBFodHNhFWs7YKFw=";
+      sha256 = "sha256-g/mrLG0ogE9p46reKOUP2/4fR9z1q/pERgCkxzyldoU=";
     });
   };
   tailscale-systray = {
@@ -2161,14 +2161,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "6c1a1fcc4bff90546ebc954f428c6df97005ea50";
+    version = "32e89ebaa96a7190734e8786e186c06b942ea631";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "6c1a1fcc4bff90546ebc954f428c6df97005ea50";
+      rev = "32e89ebaa96a7190734e8786e186c06b942ea631";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-fH8y3+L/VP/7defI9yGFCqgwH5RRFYH9roNQOFHIl3A=";
+      sha256 = "sha256-uNOTdhfX7gD375eWAcCFB0NfGdqDsdFnfLMVE7vqNnM=";
     };
   };
   ydotool = {
