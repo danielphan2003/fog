@@ -452,142 +452,142 @@ fetch.url = "https://cdn.zoom.us/prod/$ver/zoom_x86_64.pkg.tar.xz"
 ## papermc
 
 [papermc-1_8_8]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.8.8 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.8.8 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/$ver/downloads/paper-1.8.8-$ver.jar"
 passthru = { mcVer = "1.8.8" }
 
 [papermc-1_9_4]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.9.4 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.9.4 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/$ver/downloads/paper-1.9.4-$ver.jar"
 passthru = { mcVer = "1.9.4" }
 
 [papermc-1_10_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.10.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.10.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/$ver/downloads/paper-1.10.2-$ver.jar"
 passthru = { mcVer = "1.10.2" }
 
 [papermc-1_11_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.11.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.11.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/$ver/downloads/paper-1.11.2-$ver.jar"
 passthru = { mcVer = "1.11.2" }
 
 [papermc-1_12]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.12 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12/builds/$ver/downloads/paper-1.12-$ver.jar"
 passthru = { mcVer = "1.12" }
 
 [papermc-1_12_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.12.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.1/builds/$ver/downloads/paper-1.12.1-$ver.jar"
 passthru = { mcVer = "1.12.1" }
 
 [papermc-1_12_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.12.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.12.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/$ver/downloads/paper-1.12.2-$ver.jar"
 passthru = { mcVer = "1.12.2" }
 
 [papermc-1_13-pre7]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13-pre7 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.13-pre7 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13-pre7/builds/$ver/downloads/paper-1.13-pre7-$ver.jar"
 passthru = { mcVer = "1.13-pre7" }
 
 [papermc-1_13]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.13 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13/builds/$ver/downloads/paper-1.13-$ver.jar"
 passthru = { mcVer = "1.13" }
 
 [papermc-1_13_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.13.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.1/builds/$ver/downloads/paper-1.13.1-$ver.jar"
 passthru = { mcVer = "1.13.1" }
 
 [papermc-1_13_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.13.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.13.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/$ver/downloads/paper-1.13.2-$ver.jar"
 passthru = { mcVer = "1.13.2" }
 
 [papermc-1_14]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.14 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14/builds/$ver/downloads/paper-1.14-$ver.jar"
 passthru = { mcVer = "1.14" }
 
 [papermc-1_14_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.14.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.1/builds/$ver/downloads/paper-1.14.1-$ver.jar"
 passthru = { mcVer = "1.14.1" }
 
 [papermc-1_14_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.14.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.2/builds/$ver/downloads/paper-1.14.2-$ver.jar"
 passthru = { mcVer = "1.14.2" }
 
 [papermc-1_14_3]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.3 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.14.3 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.3/builds/$ver/downloads/paper-1.14.3-$ver.jar"
 passthru = { mcVer = "1.14.3" }
 
 [papermc-1_14_4]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.14.4 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.14.4 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/$ver/downloads/paper-1.14.4-$ver.jar"
 passthru = { mcVer = "1.14.4" }
 
 [papermc-1_15]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.15 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15/builds/$ver/downloads/paper-1.15-$ver.jar"
 passthru = { mcVer = "1.15" }
 
 [papermc-1_15_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.15.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15.1/builds/$ver/downloads/paper-1.15.1-$ver.jar"
 passthru = { mcVer = "1.15.1" }
 
 [papermc-1_15_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.15.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.15.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/$ver/downloads/paper-1.15.2-$ver.jar"
 passthru = { mcVer = "1.15.2" }
 
 [papermc-1_16_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.16.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.1/builds/$ver/downloads/paper-1.16.1-$ver.jar"
 passthru = { mcVer = "1.16.1" }
 
 [papermc-1_16_2]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.2 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.16.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.2/builds/$ver/downloads/paper-1.16.2-$ver.jar"
 passthru = { mcVer = "1.16.2" }
 
 [papermc-1_16_3]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.3 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.16.3 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.3/builds/$ver/downloads/paper-1.16.3-$ver.jar"
 passthru = { mcVer = "1.16.3" }
 
 [papermc-1_16_4]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.4 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.16.4 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.4/builds/$ver/downloads/paper-1.16.4-$ver.jar"
 passthru = { mcVer = "1.16.4" }
 
 [papermc-1_16_5]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.16.5 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.16.5 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/$ver/downloads/paper-1.16.5-$ver.jar"
 passthru = { mcVer = "1.16.5" }
 
 [papermc-1_17]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.17 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17/builds/$ver/downloads/paper-1.17-$ver.jar"
 passthru = { mcVer = "1.17" }
 
 [papermc-1_17_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.17.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.17.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/$ver/downloads/paper-1.17.1-$ver.jar"
 passthru = { mcVer = "1.17.1" }
 
 [papermc-1_18]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.18 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18/builds/$ver/downloads/paper-1.18-$ver.jar"
 passthru = { mcVer = "1.18" }
 
 [papermc-1_18_1]
-src.cmd = " curl https://papermc.io/api/v2/projects/paper/versions/1.18.1 | jq -r '.builds | last' "
+src.cmd = " bud papermc-updater 1.18.1 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/$ver/downloads/paper-1.18.1-$ver.jar"
 passthru = { mcVer = "1.18.1" }
 
