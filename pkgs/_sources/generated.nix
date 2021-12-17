@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5702";
+    version = "1.0.5703";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5702.tar.bz2";
-      sha256 = "sha256-xziJQicnKf3GHZkX2pPhAyVg18IMqRV0541KOu3NWjU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5703.tar.bz2";
+      sha256 = "sha256-t9ODEB2UcpnErd1Wxy/PVeRmvTQfXFfdbw4AjrxBPoI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5702";
+    version = "1.0.5703";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5702-1_all.deb";
-      sha256 = "sha256-GO1rsKi397LCJwrpyuN4JkBAFSxySOej3Wha26xoPmg=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5703-1_all.deb";
+      sha256 = "sha256-tEdALvo9GCaJvwmOylj9DFNoPjcpye8Tp9Kr8KbjhXU=";
     };
   };
   jitsi-videobridge2 = {
@@ -2020,10 +2020,10 @@
   };
   vscode-extensions-svelte = {
     pname = "vscode-extensions-svelte";
-    version = "105.7.0";
+    version = "105.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.7.0/file/svelte.svelte-vscode-105.7.0.vsix";
-      sha256 = "sha256-NCxon91OSYgeJDA6nuMcJFhB1XHTIzkp+WX4EwUTqVE=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.8.0/file/svelte.svelte-vscode-105.8.0.vsix";
+      sha256 = "sha256-EEsEBnE71JRJmgTJLxateZiktCNCCMJAHj12sEDgrr0=";
     };
     homepage = "https://github.com/sveltejs/language-tools";
     license = "mit";
