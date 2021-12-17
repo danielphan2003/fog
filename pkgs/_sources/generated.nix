@@ -145,13 +145,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "180ae0cc4843ecc3c7ddcb6e978ebfd474ed07f9";
+    version = "5333c3528bd2badf1676efcced322d151e3706c8";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "180ae0cc4843ecc3c7ddcb6e978ebfd474ed07f9";
+      rev = "5333c3528bd2badf1676efcced322d151e3706c8";
       fetchSubmodules = false;
-      sha256 = "sha256-zcXfVTMbPN1avOqS88/gVukNb6NHIou68RXQFp8f4Kk=";
+      sha256 = "sha256-cF9/xZDAK03LmDQu4fbQkntDmGl6st26ni2rpNreQMo=";
     });
   };
   cups-pdf = {
@@ -1714,10 +1714,10 @@
   };
   vscode-extensions-codeql = {
     pname = "vscode-extensions-codeql";
-    version = "1.5.8";
+    version = "1.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.8/file/GitHub.vscode-codeql-1.5.8.vsix";
-      sha256 = "sha256-+ZGxdwXI1zoIZuOChTqz1rirkqMDbqvr6FR0gTW+ds4=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.9/file/GitHub.vscode-codeql-1.5.9.vsix";
+      sha256 = "sha256-EvR0qPp125fiog2aOmCU42Niru5gLp58AS0ZkuNKals=";
     };
     homepage = "https://github.com/github/vscode-codeql";
     license = "mit";
@@ -2161,14 +2161,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "32e89ebaa96a7190734e8786e186c06b942ea631";
+    version = "cbe15842f5db0670c30630be18f9d41e3614b3d7";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "32e89ebaa96a7190734e8786e186c06b942ea631";
+      rev = "cbe15842f5db0670c30630be18f9d41e3614b3d7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-uNOTdhfX7gD375eWAcCFB0NfGdqDsdFnfLMVE7vqNnM=";
+      sha256 = "sha256-uL9FmSNvUQcOhxRTcDQCxuBeKV5bJ4+1yFsnXDrRuTk=";
     };
   };
   ydotool = {
