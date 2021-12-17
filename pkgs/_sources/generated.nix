@@ -1224,14 +1224,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "fd7050835f88797d15ebdfbfa1424ebcf002de3d";
+    version = "81dc4c17f65aa044d6b94fc46a1f16b8e9e351e4";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "fd7050835f88797d15ebdfbfa1424ebcf002de3d";
+      rev = "81dc4c17f65aa044d6b94fc46a1f16b8e9e351e4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2yyHAHoIlwHX2+LbwwK7AGrBDZlfkhtCcKAKHdJMBdQ=";
+      sha256 = "sha256-5CljcFlvMHRmC/o6SJfvOsVpbxwiiAupUzSaX1zMB6A=";
     };
   };
   pure = {
@@ -1524,13 +1524,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5a9914a92fa72d61510b5f2aacd6665e3f8fa659";
+    version = "3dedcd16408cd93ca4fc3456163d40fa67367278";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5a9914a92fa72d61510b5f2aacd6665e3f8fa659";
+      rev = "3dedcd16408cd93ca4fc3456163d40fa67367278";
       fetchSubmodules = false;
-      sha256 = "sha256-g/mrLG0ogE9p46reKOUP2/4fR9z1q/pERgCkxzyldoU=";
+      sha256 = "sha256-8iexk+0d4T86eHB8uZZDLX8A3wBgtaSlw4FAcaYBXEQ=";
     });
   };
   tailscale-systray = {
