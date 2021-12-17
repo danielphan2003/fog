@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "d09c36895d389ac3c27c2c0c517095f5463fc9de";
+    version = "7ce2bd7264eab8c7647acefda9d405b39d2b81a7";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "d09c36895d389ac3c27c2c0c517095f5463fc9de";
+      rev = "7ce2bd7264eab8c7647acefda9d405b39d2b81a7";
       fetchSubmodules = false;
-      sha256 = "sha256-IQQNlPmzK1boTJFUfcoyBCVZCfi1xP9R2UGkZtZae2E=";
+      sha256 = "sha256-2WDxf1sxLllmsaURFBy3Rj+GZc8mHJrjBv1ZxQZgSzM=";
     });
   };
   caddy = {
@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-834";
+    version = "1.0-835";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-834-1_all.deb";
-      sha256 = "sha256-xc877Dz4/MCz/MmdKqiCiHnTnpVyTvVfGBviRyNk9yY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-835-1_all.deb";
+      sha256 = "sha256-IAXADIZ1JNLrc+3xS114M991lq3uXMBvx1m/JdyG28U=";
     };
   };
   jitsi-meet = {
@@ -1131,10 +1131,10 @@
   };
   papermc-1_16_5 = {
     pname = "papermc-1_16_5";
-    version = "792";
+    version = "793";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/792/downloads/paper-1.16.5-792.jar";
-      sha256 = "sha256-nW+z2ffQZ/qSmAmBg7jvfKfCwjqqui9dTM4EYP43c/4=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/793/downloads/paper-1.16.5-793.jar";
+      sha256 = "sha256-qkIvvvIELs58jvGGNhyA9cHbfxdytCVS1vwuIQq2OwY=";
     };
     mcVer = "1.16.5";
   };
