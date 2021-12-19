@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "49f4b719bf099a8d353561077410f9ddfe46cfca";
+    version = "9e23e856116416185827b88fc2e5449d691b3090";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "49f4b719bf099a8d353561077410f9ddfe46cfca";
+      rev = "9e23e856116416185827b88fc2e5449d691b3090";
       fetchSubmodules = false;
-      sha256 = "sha256-ZNQ7CmBoPuQZnJPJAno9emnixWLwjmhS1Jbct1hSYbg=";
+      sha256 = "sha256-5iPgh1S5VSzK5ZGRlw9gn/Y1IOK+yrmxZdHyR7ONXBQ=";
     });
   };
   caddy = {
@@ -1320,13 +1320,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "690c802921c563eb0954ebd02f5bc88d3a8a6bac";
+    version = "cda66d09c3d0c7022e9e46ca36328c2ca18c5617";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "690c802921c563eb0954ebd02f5bc88d3a8a6bac";
+      rev = "cda66d09c3d0c7022e9e46ca36328c2ca18c5617";
       fetchSubmodules = false;
-      sha256 = "sha256-JK4opScwGIXkP1fm/ogVl0PC5k95xAYtwDSplLj8YLw=";
+      sha256 = "sha256-3Z3X57S0yqsHiJGXV+UpOWP7n5YYX8xgn/0MgvKeEJI=";
     });
   };
   rofi-wayland = {
@@ -1434,14 +1434,14 @@
   };
   snui = {
     pname = "snui";
-    version = "c3a54ebf2fa0505dc0fbfd7d402a82d1246838dd";
+    version = "6326288daa513efb2f3536d25f60ea7c9ccd1eec";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "c3a54ebf2fa0505dc0fbfd7d402a82d1246838dd";
+      rev = "6326288daa513efb2f3536d25f60ea7c9ccd1eec";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-G9qyb6ErTrrU7xfYQt4x3LniLorzqP5ZOUtFwE1xsjA=";
+      sha256 = "sha256-MEsLQA7HCWJrvNtltTdYgsH7nNIeAQz/6tAQPe6tT3M=";
     };
   };
   spicetify-cli = {
@@ -2161,14 +2161,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "f6c070a1ac05801c52ae60efb7dc4b3142653b7d";
+    version = "5b8817a019845e1066c373022133985a0e2d718f";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "f6c070a1ac05801c52ae60efb7dc4b3142653b7d";
+      rev = "5b8817a019845e1066c373022133985a0e2d718f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-tAxQ3ZzyLX27rRxHlVcbTDgFKgpcIIDDzjRX7WE7IDs=";
+      sha256 = "sha256-kADUPD6cbBXdMCpavx0kuy6jOum9NltfmMQgZQbG8/c=";
     };
   };
   ydotool = {
