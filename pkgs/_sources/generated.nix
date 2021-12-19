@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "58c198046b6a5c3833f4a5856137dd69d8a48a77";
+    version = "49f4b719bf099a8d353561077410f9ddfe46cfca";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "58c198046b6a5c3833f4a5856137dd69d8a48a77";
+      rev = "49f4b719bf099a8d353561077410f9ddfe46cfca";
       fetchSubmodules = false;
-      sha256 = "sha256-iRKCfcnvbjvd4tav60QETiJpXV3lg9LBcKIRWCWjfqo=";
+      sha256 = "sha256-ZNQ7CmBoPuQZnJPJAno9emnixWLwjmhS1Jbct1hSYbg=";
     });
   };
   caddy = {
@@ -227,16 +227,16 @@
   };
   eww = {
     pname = "eww";
-    version = "5e5692742e046a97e3da3a5e19c50c331403c115";
+    version = "106106ade31e7cc669f2ae53f24191cd0a683c39";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "5e5692742e046a97e3da3a5e19c50c331403c115";
+      rev = "106106ade31e7cc669f2ae53f24191cd0a683c39";
       fetchSubmodules = false;
-      sha256 = "sha256-SI564NfvFK9idNHa6/x4HktojDXslE/syO0QhK8r4rs=";
+      sha256 = "sha256-VntDl7JaIfvn3pd+2uDocnXFRkPnQQbRkYDn4XWeC5o=";
     });
     cargoLock = {
-      lockFile = ./eww-5e5692742e046a97e3da3a5e19c50c331403c115/Cargo.lock;
+      lockFile = ./eww-106106ade31e7cc669f2ae53f24191cd0a683c39/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -1320,13 +1320,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b7c14f61bc7725b29d9790616cfba69b9c3dd889";
+    version = "690c802921c563eb0954ebd02f5bc88d3a8a6bac";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b7c14f61bc7725b29d9790616cfba69b9c3dd889";
+      rev = "690c802921c563eb0954ebd02f5bc88d3a8a6bac";
       fetchSubmodules = false;
-      sha256 = "sha256-f5Ssn/PLx1ydAhx361Z+VdpxQsC73LaGjLdLhjnhpMI=";
+      sha256 = "sha256-JK4opScwGIXkP1fm/ogVl0PC5k95xAYtwDSplLj8YLw=";
     });
   };
   rofi-wayland = {
@@ -1736,10 +1736,10 @@
   };
   vscode-extensions-css-initial-value = {
     pname = "vscode-extensions-css-initial-value";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://dzhavat.gallery.vsassets.io/_apis/public/gallery/publisher/dzhavat/extension/css-initial-value/0.2.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      sha256 = "sha256-DWSqHWbQ2BJe+aGcWEKHDY1W2finT+X54up2MtQUJT8=";
+      url = "https://dzhavat.gallery.vsassets.io/_apis/public/gallery/publisher/dzhavat/extension/css-initial-value/0.2.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      sha256 = "sha256-QLzjkPWPFCVJ0GrT8rtx8/V2JsdJ1zMdTmARtaqEcJQ=";
     };
     license = "mit";
   };
@@ -2086,13 +2086,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "214992b385ab83db33bd22174b7bd2ef750e662c";
+    version = "a17ae67bff94769e9a1ec7a379ef516024efcf60";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "214992b385ab83db33bd22174b7bd2ef750e662c";
+      rev = "a17ae67bff94769e9a1ec7a379ef516024efcf60";
       fetchSubmodules = false;
-      sha256 = "sha256-2NLMRX03cbbo/Klmu4lKCEDIP5PP2h3GypUrOb82sbM=";
+      sha256 = "sha256-B+HGiFm9ozBtS9tV2m08Gcz5XxP02RIVDugi9cUp+bo=";
     });
   };
   widevine-cdm = {
