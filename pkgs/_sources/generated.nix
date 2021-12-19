@@ -1149,10 +1149,10 @@
   };
   papermc-1_17_1 = {
     pname = "papermc-1_17_1";
-    version = "401";
+    version = "402";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/401/downloads/paper-1.17.1-401.jar";
-      sha256 = "sha256-Qpk/IAg5ExNJ5JbnTZRIZ3+7lRfG/oyafKz755ilf9o=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/402/downloads/paper-1.17.1-402.jar";
+      sha256 = "sha256-c1NUgz8nJhzoadVtq5sUiCddAGJf7+KWGiEuA0iayDg=";
     };
     mcVer = "1.17.1";
   };
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "81";
+    version = "82";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/81/downloads/paper-1.18.1-81.jar";
-      sha256 = "sha256-wivgQCTznV1DngHT2GfboLiLRkr45Me12A26GJuafXk=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/82/downloads/paper-1.18.1-82.jar";
+      sha256 = "sha256-z4sOQavQu6j0nmivSJqFl7AxPFzWn3lL68DDP9AEq04=";
     };
     mcVer = "1.18.1";
   };
@@ -1224,14 +1224,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "81dc4c17f65aa044d6b94fc46a1f16b8e9e351e4";
+    version = "8a14d366ef6fcd2e5b0a9eb86763960c578260a2";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "81dc4c17f65aa044d6b94fc46a1f16b8e9e351e4";
+      rev = "8a14d366ef6fcd2e5b0a9eb86763960c578260a2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5CljcFlvMHRmC/o6SJfvOsVpbxwiiAupUzSaX1zMB6A=";
+      sha256 = "sha256-8Mb46phfxLKQ5D18wyHuIL04dZv1aJI1OVx5FUvMH2I=";
     };
   };
   pure = {
@@ -1446,13 +1446,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "db6b6823dc109dd7e265386386f2d2c92f30a1c6";
+    version = "2bae8352208def62ed27cb78e7b0db097966e8e6";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "db6b6823dc109dd7e265386386f2d2c92f30a1c6";
+      rev = "2bae8352208def62ed27cb78e7b0db097966e8e6";
       fetchSubmodules = false;
-      sha256 = "sha256-25PRNHmuAQHIN1iFXQ4h0b7aVUHyF8xelqBKUPSR7QY=";
+      sha256 = "sha256-jvjjuzWezDw/TePvmLB7+AspcKkiZOaPrjQjIkaJ0Xs=";
     });
   };
   spicetify-themes = {
@@ -1524,13 +1524,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "39f22a357d5b418e248a8f53c4933bbecf636525";
+    version = "0848b36dd254e4905dddbcb24731703a2f7ca317";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "39f22a357d5b418e248a8f53c4933bbecf636525";
+      rev = "0848b36dd254e4905dddbcb24731703a2f7ca317";
       fetchSubmodules = false;
-      sha256 = "sha256-XYg6duGspRsNT4YWJf7xs+XlFzZ1e3wDLBNq1kKvuvY=";
+      sha256 = "sha256-jnECRfwjjExZfhF7k4tt2tK4RPQPW3xO1XJfWnERvhA=";
     });
   };
   tailscale-systray = {
