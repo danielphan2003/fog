@@ -216,13 +216,13 @@
   };
   duf = {
     pname = "duf";
-    version = "4e52b818e4b0a80ae7f5ced35df676a86228bb13";
+    version = "ca80cac8339e32deba9c79b07c689300025107a4";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "4e52b818e4b0a80ae7f5ced35df676a86228bb13";
+      rev = "ca80cac8339e32deba9c79b07c689300025107a4";
       fetchSubmodules = false;
-      sha256 = "sha256-rW/ZJK0nRGN+UC6LX50L8GiRU9C10CcRDm5OPYq/UUA=";
+      sha256 = "sha256-rAXU4IufIfNhpgiJ1NGJRByuVfaycejcu6AYTIGBW1E=";
     });
   };
   eww = {
@@ -909,16 +909,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "793a2294690e53b39cedfac1303bd2d5c37853ca";
+    version = "7a358ef821f98042b5959a93993798fde5c18f7a";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "793a2294690e53b39cedfac1303bd2d5c37853ca";
+      rev = "7a358ef821f98042b5959a93993798fde5c18f7a";
       fetchSubmodules = false;
-      sha256 = "sha256-8rDzFQO2z8eoYQnRqav5ahAhkMpdLhf1L1XZC8UYoj4=";
+      sha256 = "sha256-lp6Xnn0ZJ5glzfTHiqBUg1KzoZzvNyBNQPuaLP5sSQs=";
     });
     cargoLock = {
-      lockFile = ./ouch-793a2294690e53b39cedfac1303bd2d5c37853ca/Cargo.lock;
+      lockFile = ./ouch-7a358ef821f98042b5959a93993798fde5c18f7a/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -942,19 +942,19 @@
   };
   papermc-1_10_2 = {
     pname = "papermc-1_10_2";
-    version = "917";
+    version = "918";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/917/downloads/paper-1.10.2-917.jar";
-      sha256 = "sha256-ThPQEmn9awEFGui5KuP2N3w2nwosVDD+LGenoTwtel4=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/918/downloads/paper-1.10.2-918.jar";
+      sha256 = "sha256-gzVNJKIrYmXnbAibPRelaKu0RsDM0SwkUvXhSEErFsI=";
     };
     mcVer = "1.10.2";
   };
   papermc-1_11_2 = {
     pname = "papermc-1_11_2";
-    version = "1105";
+    version = "1106";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1105/downloads/paper-1.11.2-1105.jar";
-      sha256 = "sha256-+rPICm7qDKqCiRmQiaV7bdPG4mHrBeCyvtCL7ADwcXQ=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1106/downloads/paper-1.11.2-1106.jar";
+      sha256 = "sha256-PQ9A7B+WMN/br6YmzCDCZtf7kPwiWD3BuZXn+/t2gw0=";
     };
     mcVer = "1.11.2";
   };
@@ -978,10 +978,10 @@
   };
   papermc-1_12_2 = {
     pname = "papermc-1_12_2";
-    version = "1619";
+    version = "1620";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1619/downloads/paper-1.12.2-1619.jar";
-      sha256 = "sha256-fmwN1PaBpeuH/5XYdlbqK3Ykca8cIZN0oMgrTebyFAg=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1620/downloads/paper-1.12.2-1620.jar";
+      sha256 = "sha256-OiBBgH9JLc3DTrsySih0FJRuPgXsPfb9A/W199mvwhA=";
     };
     mcVer = "1.12.2";
   };
@@ -1014,10 +1014,10 @@
   };
   papermc-1_13_2 = {
     pname = "papermc-1_13_2";
-    version = "656";
+    version = "657";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/656/downloads/paper-1.13.2-656.jar";
-      sha256 = "sha256-NOnLcZsBZAGr5akCeSrjeka0aBgyc0harY2fs7aQ/Rg=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/657/downloads/paper-1.13.2-657.jar";
+      sha256 = "sha256-Eego0FZat2oKDhgMBWNkqV3kSVjP1qavP5sdxwsD6c0=";
     };
     mcVer = "1.13.2";
   };
@@ -1059,10 +1059,10 @@
   };
   papermc-1_14_4 = {
     pname = "papermc-1_14_4";
-    version = "244";
+    version = "245";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/244/downloads/paper-1.14.4-244.jar";
-      sha256 = "sha256-YbnIeS8PN5WSyOP99jYHu6iRq2INSsx/vwzADC1f3+k=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/245/downloads/paper-1.14.4-245.jar";
+      sha256 = "sha256-vY7FzbIjcNN4FqbeJnmN89Kw1vnHyWyIykWhMD/qUOg=";
     };
     mcVer = "1.14.4";
   };
@@ -1086,10 +1086,10 @@
   };
   papermc-1_15_2 = {
     pname = "papermc-1_15_2";
-    version = "392";
+    version = "393";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/392/downloads/paper-1.15.2-392.jar";
-      sha256 = "sha256-fv1SFgyoE9QbLS6jQ3R6H0aJjm76NnK1VaGnMvRkL4c=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/393/downloads/paper-1.15.2-393.jar";
+      sha256 = "sha256-vS3W8sxInPniu4AMtPttY+nSk5RdOsELCd2cYJj6nzQ=";
     };
     mcVer = "1.15.2";
   };
@@ -1176,19 +1176,19 @@
   };
   papermc-1_8_8 = {
     pname = "papermc-1_8_8";
-    version = "444";
+    version = "445";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/444/downloads/paper-1.8.8-444.jar";
-      sha256 = "sha256-sS++tDc/uGeldmzNn3e6fwRCl2D/Xw/x7jkDGAfu+Iw=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar";
+      sha256 = "sha256-f/bSzsZx7w2Vs3I7XJKJARj7iC1zt/j6CizTHZfFX4Y=";
     };
     mcVer = "1.8.8";
   };
   papermc-1_9_4 = {
     pname = "papermc-1_9_4";
-    version = "774";
+    version = "775";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/774/downloads/paper-1.9.4-774.jar";
-      sha256 = "sha256-h1kQgvNje6Y9CgQpzdq1BbiuWriGSf54cBIcK/q/aSY=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/775/downloads/paper-1.9.4-775.jar";
+      sha256 = "sha256-FaWCHd6sxZZDLD+/JCYqLSZPVWBg7Nbxg4+wGrVimoE=";
     };
     mcVer = "1.9.4";
   };
@@ -1320,13 +1320,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "cda66d09c3d0c7022e9e46ca36328c2ca18c5617";
+    version = "58b306d651edb615b26858e7bd802ec24a7235c7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "cda66d09c3d0c7022e9e46ca36328c2ca18c5617";
+      rev = "58b306d651edb615b26858e7bd802ec24a7235c7";
       fetchSubmodules = false;
-      sha256 = "sha256-3Z3X57S0yqsHiJGXV+UpOWP7n5YYX8xgn/0MgvKeEJI=";
+      sha256 = "sha256-e4zsiediye4pGGPK6IkkoSyiMhFDNPkCFUA1Ey1QgLM=";
     });
   };
   rofi-wayland = {
