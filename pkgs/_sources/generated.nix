@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "81ade3cd76265ab60645918a48b759ca4317c244";
+    version = "a3b7f7f58e2b5099dde38769cf56bfa2a4c16512";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "81ade3cd76265ab60645918a48b759ca4317c244";
+      rev = "a3b7f7f58e2b5099dde38769cf56bfa2a4c16512";
       fetchSubmodules = false;
-      sha256 = "sha256-y+9gizuZ6uV4IF0uf/xJpuShgg8kFIqKZ15XVbZnT3Y=";
+      sha256 = "sha256-/tP0EaPHCtJBw3JGNRnnm9lu75kF+AwWKpw3DUVT4Ow=";
     });
   };
   caddy = {
@@ -183,13 +183,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "3d7b4a9821af17137e01ca7969d6531c6a67ebf2";
+    version = "bfb638255ea36839830561f44dc2db43418acfd5";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "3d7b4a9821af17137e01ca7969d6531c6a67ebf2";
+      rev = "bfb638255ea36839830561f44dc2db43418acfd5";
       fetchSubmodules = false;
-      sha256 = "sha256-TG1pWLf/aB/5clzBYdbZcGZb+64oV9olT5xezUWay/M=";
+      sha256 = "sha256-bFvLixD+bxIf66N3BFRZxCIA9e6JtO6ogNhYxBLSeeg=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -909,16 +909,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "7a358ef821f98042b5959a93993798fde5c18f7a";
+    version = "308b8f7e906c57d8da334ae6395aa15ecbdfb2d8";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "7a358ef821f98042b5959a93993798fde5c18f7a";
+      rev = "308b8f7e906c57d8da334ae6395aa15ecbdfb2d8";
       fetchSubmodules = false;
-      sha256 = "sha256-lp6Xnn0ZJ5glzfTHiqBUg1KzoZzvNyBNQPuaLP5sSQs=";
+      sha256 = "sha256-65yz5o/sITdk3x9gqHPvcMEDsImrEObJkg/cc3kCD9s=";
     });
     cargoLock = {
-      lockFile = ./ouch-7a358ef821f98042b5959a93993798fde5c18f7a/Cargo.lock;
+      lockFile = ./ouch-308b8f7e906c57d8da334ae6395aa15ecbdfb2d8/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -1342,16 +1342,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "b9d8de1ec10f56597c7d5598f538d560484f8524";
+    version = "362b5594a23310e8801e892e201395c99b885ed4";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "b9d8de1ec10f56597c7d5598f538d560484f8524";
+      rev = "362b5594a23310e8801e892e201395c99b885ed4";
       fetchSubmodules = false;
-      sha256 = "sha256-iin+sPwwq01XSHxDKQ2UPxIwcGmu4kycUA2aXRi5KEE=";
+      sha256 = "sha256-6s+tKhrXt7rPd58i6M16pJmn7gOZ8qoFdFxZmSMIZRo=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-b9d8de1ec10f56597c7d5598f538d560484f8524/Cargo.lock;
+      lockFile = ./rustdesk-362b5594a23310e8801e892e201395c99b885ed4/Cargo.lock;
       outputHashes = {
         "magnum-opus-0.3.4-2" = "sha256-3Bl4jyDg5E9zzADdz7jM5SY2HYksokE1jS/ocE/iXcc=";
         "rust-pulsectl-0.2.10" = "sha256-fJcd4aNixFW4dqp+RoHEYQKq78iYZsNa4SpopMIh8Fg=";
@@ -2161,14 +2161,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "5b8817a019845e1066c373022133985a0e2d718f";
+    version = "38291fa86c00e1d3ee37612c9215b0c15da89051";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "5b8817a019845e1066c373022133985a0e2d718f";
+      rev = "38291fa86c00e1d3ee37612c9215b0c15da89051";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-kADUPD6cbBXdMCpavx0kuy6jOum9NltfmMQgZQbG8/c=";
+      sha256 = "sha256-a1xz8MpKKL9yQqwBpafOu4+jgllsafia20S2W77xrbg=";
     };
   };
   ydotool = {
@@ -2184,10 +2184,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.8.6.739";
+    version = "5.9.0.1273";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.8.6.739/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-uA5nsPJfYQHpt58KenhUNodHpNxfOV01KsV347pr/4k=";
+      url = "https://cdn.zoom.us/prod/5.9.0.1273/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-7wyb6sPSQezhY0QYNFc9o6ksFyNLi3mcz19/AViBMdc=";
     };
   };
 }
