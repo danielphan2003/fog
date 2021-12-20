@@ -183,13 +183,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "bfb638255ea36839830561f44dc2db43418acfd5";
+    version = "9ae8b0a3f24489da62291cfee0561ae9cf214c15";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "bfb638255ea36839830561f44dc2db43418acfd5";
+      rev = "9ae8b0a3f24489da62291cfee0561ae9cf214c15";
       fetchSubmodules = false;
-      sha256 = "sha256-bFvLixD+bxIf66N3BFRZxCIA9e6JtO6ogNhYxBLSeeg=";
+      sha256 = "sha256-JiBpocumhdPXDx4sYJaelfm/7UheHB08sEkgi6hwTfs=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "82";
+    version = "83";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/82/downloads/paper-1.18.1-82.jar";
-      sha256 = "sha256-z4sOQavQu6j0nmivSJqFl7AxPFzWn3lL68DDP9AEq04=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/83/downloads/paper-1.18.1-83.jar";
+      sha256 = "sha256-EPMYtdGettQfQQbje3xbrAmV6P361hti5o9zm71DkcA=";
     };
     mcVer = "1.18.1";
   };
