@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-836";
+    version = "1.0-837";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-836-1_all.deb";
-      sha256 = "sha256-Bi3OqgdlYLrCZ7fk+iZuozqxVqyienK6uiDe93wXlis=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-837-1_all.deb";
+      sha256 = "sha256-+8wmiVsrcyCuI3Aa7mVCM6KYz7kyIpL5IAU++V9RrQM=";
     };
   };
   jitsi-meet = {
@@ -1434,14 +1434,14 @@
   };
   snui = {
     pname = "snui";
-    version = "7139f7bc5e223bbb5bf16384dcf1629e57adf037";
+    version = "e3cd8fe8e1ff98abcdaf7fab630eda4ebe05eb4e";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "7139f7bc5e223bbb5bf16384dcf1629e57adf037";
+      rev = "e3cd8fe8e1ff98abcdaf7fab630eda4ebe05eb4e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-md64hUi5VVnp1B0DahMMFRJGMqttt3pqIGgYYUKoBlc=";
+      sha256 = "sha256-G182BpjukjxJw6DC5Cp+ofkAjEsItl9pwsudmg4hA6M=";
     };
   };
   spicetify-cli = {
