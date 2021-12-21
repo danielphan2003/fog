@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.107.0-b.17";
+    version = "0.107.0";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.17/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-1iEL32Ir0P14cbFug4ivFeQWealq7gmX0MpYC8u52BE=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-HoFv8gsrMbMnXJZXYJhQyVUXFzDh8c1/tnkFw0j1IDg=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.107.0-b.17";
+    version = "0.107.0";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.17/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-cqBtmFbZIy6iFee3Sa9UvT3ByEr3J9Nn0k9+geI7hes=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-gWylZgCk+bGf1h2lTX2gRnW39P7C2ks0LH7anJW6JKw=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.107.0-b.17";
+    version = "0.107.0";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.17/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-5RlFVLSwBrcsG/F8G6v1mDUOIGPKASVxS866Bjpzfrs=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-g2DIeXwaqTTfshYyyDNHbOU57YUbuxXDKJHFqKFrqzw=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.107.0-b.17";
+    version = "0.107.0";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0-b.17/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-MHSku0tfvVOaGCRylXt3ejNkf4IqbGZM3YI9c9RWGOk=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-PovduGRcfSUbhqX1cxRgMknN8mWJekjjpB0b1TE1//g=";
     };
   };
   adl = {
@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "1ef62bf32a184ecd34d173d2ebe9ca461df9d6f8";
+    version = "4ac94d8bc69c26762ef9c0f096451513f113316d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "1ef62bf32a184ecd34d173d2ebe9ca461df9d6f8";
+      rev = "4ac94d8bc69c26762ef9c0f096451513f113316d";
       fetchSubmodules = false;
-      sha256 = "sha256-RMc/x0feCpP1YD9VSJMYZrcNv2vRpWQaylDbln1qtW0=";
+      sha256 = "sha256-gDtpcCSjBMaGoaQwFpBWggmlTUx/Y6axivczQ4MEQwo=";
     });
   };
   caddy = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "f0b21b7c4f78b533c10e977b7bd7e4ad500c5156";
+    version = "3079466d384f29fad74f3c2eb462cbd8cf4d9ad8";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "f0b21b7c4f78b533c10e977b7bd7e4ad500c5156";
+      rev = "3079466d384f29fad74f3c2eb462cbd8cf4d9ad8";
       fetchSubmodules = false;
-      sha256 = "sha256-xKbDBinPH6jlnLBJYHVZQ34WFMDWnVXYgWs2Dex8fH8=";
+      sha256 = "sha256-OZwby9WGOqgg577Wa+T3XUM2QcrpG1TsOs5Kan3GIDc=";
     });
   };
   flyingfox = {
@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5713";
+    version = "1.0.5714";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5713.tar.bz2";
-      sha256 = "sha256-MGCRFBdYTg2d9oy+yM8ZMIk6eNtK0R6kSj1Dq8sAE78=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5714.tar.bz2";
+      sha256 = "sha256-EVV7MrzIJXGPo2PJlD6DGAC5Zu0F6nakWO4cPlzYoak=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5713";
+    version = "1.0.5714";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5713-1_all.deb";
-      sha256 = "sha256-GEFi/rLKAGMD844as5ZUj+A/OjTOXFm9kCZIWy0TVgA=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5714-1_all.deb";
+      sha256 = "sha256-ENiwNqkxujbk/AkGoR7syjInf/8XzH30dt2E8PXnU6s=";
     };
   };
   jitsi-videobridge2 = {
@@ -1320,13 +1320,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3f7d279acfca7fd1897ef6cb975875936d9ff0fc";
+    version = "3d84a9960e52ae7febba2bd52b04cc1d10c50afd";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3f7d279acfca7fd1897ef6cb975875936d9ff0fc";
+      rev = "3d84a9960e52ae7febba2bd52b04cc1d10c50afd";
       fetchSubmodules = false;
-      sha256 = "sha256-4XKWW1OiZD46rBpj9nMq3Rl6ucdfvWnKr1qf7cftLXM=";
+      sha256 = "sha256-LaJwlHBmXBWFb8OzsT9aiViOrDDDKBSoefF9eKjglUU=";
     });
   };
   rofi-wayland = {
@@ -2075,24 +2075,24 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "e6dbf7c19799018dc121b45d05255a045ba1585f";
+    version = "ef29ababb315057f19a26fad574f40a10792f514";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "e6dbf7c19799018dc121b45d05255a045ba1585f";
+      rev = "ef29ababb315057f19a26fad574f40a10792f514";
       fetchSubmodules = false;
-      sha256 = "sha256-MAsTf/nGk+a85ytGUB71YY2T3gMyQkBOxYforPhxmaI=";
+      sha256 = "sha256-M5RVAfgqxER4ZVpSFFf9LaNOjYF1JpyLun2dNn5Cbw0=";
     });
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "a17ae67bff94769e9a1ec7a379ef516024efcf60";
+    version = "e99fedc45bae0e830a4a31eddb8080a37054fde3";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "a17ae67bff94769e9a1ec7a379ef516024efcf60";
+      rev = "e99fedc45bae0e830a4a31eddb8080a37054fde3";
       fetchSubmodules = false;
-      sha256 = "sha256-B+HGiFm9ozBtS9tV2m08Gcz5XxP02RIVDugi9cUp+bo=";
+      sha256 = "sha256-4CEay1n///ZRKGnzOFF6B8mZ3J1swNSp2pa+PdBIG5g=";
     });
   };
   widevine-cdm = {
@@ -2116,13 +2116,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "bfd6c98fef2ddf390478b5368396036ddc0a0dda";
+    version = "79db3c5ed5fb5b24602beb7a458703dcfd4a1aa6";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "bfd6c98fef2ddf390478b5368396036ddc0a0dda";
+      rev = "79db3c5ed5fb5b24602beb7a458703dcfd4a1aa6";
       fetchSubmodules = false;
-      sha256 = "sha256-GNx7GmxC2zthSXqeLxqu+F8cecpJNksvEXZM4XVWyW0=";
+      sha256 = "sha256-kXRlFenj7mWxbdrS2edx43PlFpUKYiNuCUZpv3N9Q6k=";
     });
   };
   xdg-desktop-portal-gtk = {
