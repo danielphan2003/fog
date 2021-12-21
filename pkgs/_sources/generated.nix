@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "3079466d384f29fad74f3c2eb462cbd8cf4d9ad8";
+    version = "8aa1dbf701530301cc6aacc70e7074507a3950e8";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "3079466d384f29fad74f3c2eb462cbd8cf4d9ad8";
+      rev = "8aa1dbf701530301cc6aacc70e7074507a3950e8";
       fetchSubmodules = false;
-      sha256 = "sha256-OZwby9WGOqgg577Wa+T3XUM2QcrpG1TsOs5Kan3GIDc=";
+      sha256 = "sha256-raT2MN0xWFYQBss7FE/VYIo3KrBiHhZAfUE/bIkVEnA=";
     });
   };
   flyingfox = {
@@ -2127,13 +2127,13 @@
   };
   xdg-desktop-portal-gtk = {
     pname = "xdg-desktop-portal-gtk";
-    version = "8d715e799ab9bebe7e441851668cd9c568c703d0";
+    version = "2ea8803d97ec4e0bb9d51b35c6ae522d27d6a79a";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal-gtk";
-      rev = "8d715e799ab9bebe7e441851668cd9c568c703d0";
+      rev = "2ea8803d97ec4e0bb9d51b35c6ae522d27d6a79a";
       fetchSubmodules = false;
-      sha256 = "sha256-j41X0yAOGQEeGmq2ypSAn+Ex0R9v6GqN1G3xX5xBN78=";
+      sha256 = "sha256-I1ZoDqZQPfPwPr4Ybk+syz+YEkrK2ReflZaJJWD4Nsk=";
     });
   };
   xorg-libxcvt = {
