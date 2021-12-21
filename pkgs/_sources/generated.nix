@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "86f60e50c5fb7ffc44cf4f8ef54937da86375537";
+    version = "f28f2071650a78dcb4901618b17bd6929d277667";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "86f60e50c5fb7ffc44cf4f8ef54937da86375537";
+      rev = "f28f2071650a78dcb4901618b17bd6929d277667";
       fetchSubmodules = false;
-      sha256 = "sha256-VZfIEejL7lCein02/Hdm3INt5kggJuew6hWQlZ/lnVs=";
+      sha256 = "sha256-QelEpHoDyToAk6C4Km4HEH5nI+7uDZ3f/Ck+laJJD90=";
     });
   };
   caddy = {
@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-837";
+    version = "1.0-838";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-837-1_all.deb";
-      sha256 = "sha256-+8wmiVsrcyCuI3Aa7mVCM6KYz7kyIpL5IAU++V9RrQM=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-838-1_all.deb";
+      sha256 = "sha256-V47zH8Cj04hqsi7pWW91ArCY/NSf5Sur8X6UvKf4744=";
     };
   };
   jitsi-meet = {
@@ -1756,10 +1756,10 @@
   };
   vscode-extensions-dendron = {
     pname = "vscode-extensions-dendron";
-    version = "0.73.1";
+    version = "0.74.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.73.1/file/dendron.dendron-0.73.1.vsix";
-      sha256 = "sha256-28EAVHXtRblwfMWXfexulbpXT1MMUk+xJS5a+Pkv7mE=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.74.0/file/dendron.dendron-0.74.0.vsix";
+      sha256 = "sha256-0Rmlgc2afYNUtCmLpSMODmdxoYHwEYxyS6dgLy35VNA=";
     };
     homepage = "https://github.com/dendronhq/dendron";
     license = "agpl3Only";
