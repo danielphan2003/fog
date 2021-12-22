@@ -2116,13 +2116,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "79db3c5ed5fb5b24602beb7a458703dcfd4a1aa6";
+    version = "2051b85c5aaae6fb4308b825fe183d7588719325";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "79db3c5ed5fb5b24602beb7a458703dcfd4a1aa6";
+      rev = "2051b85c5aaae6fb4308b825fe183d7588719325";
       fetchSubmodules = false;
-      sha256 = "sha256-kXRlFenj7mWxbdrS2edx43PlFpUKYiNuCUZpv3N9Q6k=";
+      sha256 = "sha256-5alSFt6CdEINT+7hn6Yh61wnGc9ubAtjrRajXHPKPmM=";
     });
   };
   xdg-desktop-portal-gtk = {
