@@ -355,10 +355,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-600-gc5a59056";
+    version = "2.1-601-g28cdd301";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-600-gc5a59056-1_all.deb";
-      sha256 = "sha256-7Zr5qbpLpOZDdhISBv9wKtg/dYRVVQJMpVG0Jvm3c+o=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-601-g28cdd301-1_all.deb";
+      sha256 = "sha256-3CeuaJd7TS+4Wq4n3thzKDdjubGA7n/lx8EL6qf+Bqs=";
     };
   };
   layout-machi = {
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "97";
+    version = "98";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/97/downloads/paper-1.18.1-97.jar";
-      sha256 = "sha256-X7eXUN7o3LLFVqT3VqpQErmRjJi1ss/I5mBamQmqLyg=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/98/downloads/paper-1.18.1-98.jar";
+      sha256 = "sha256-SxIamjmCaC1r3e2BnGN8Y6w6cnp8otKt6dWjKTufsvs=";
     };
     mcVer = "1.18.1";
   };
@@ -1434,14 +1434,14 @@
   };
   snui = {
     pname = "snui";
-    version = "d783032a0787ba602bc8ba85efb4964bf9780e34";
+    version = "cf352e84e03c63eba77cc06a377266b2d98c397b";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "d783032a0787ba602bc8ba85efb4964bf9780e34";
+      rev = "cf352e84e03c63eba77cc06a377266b2d98c397b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-0DWkAbOq9eQ2e827UPw0N2GGh3fKsZMnd2/fw4krqcg=";
+      sha256 = "sha256-nay0+ZlomAuxbA6kJ7UnMxa8+LrtOkkR/mw0XiRE4/E=";
     };
   };
   spicetify-cli = {
