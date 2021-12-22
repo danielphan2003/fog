@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "93";
+    version = "94";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/93/downloads/paper-1.18.1-93.jar";
-      sha256 = "sha256-W/Ju3U8aGNrr3+qm307Z7fFnNKJGPwNOacZ6oQW/25k=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/94/downloads/paper-1.18.1-94.jar";
+      sha256 = "sha256-daoMAIghyHUjZpmMlgbrCw6jNEeIeqPBSx8lj15p36Y=";
     };
     mcVer = "1.18.1";
   };
@@ -1342,16 +1342,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "b6feaa695f47b4a350efc48164b3bdacfc94b213";
+    version = "dc724a30e7637060ac902310a3a215ec7c093db8";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "b6feaa695f47b4a350efc48164b3bdacfc94b213";
+      rev = "dc724a30e7637060ac902310a3a215ec7c093db8";
       fetchSubmodules = false;
-      sha256 = "sha256-HlTpYTkdwjtJUQLYttaieYrrhvyIq2qMqFUpZUcZ2zg=";
+      sha256 = "sha256-Azk/aIRVolXOSjIhJzwrlpzIe/nnh/x/5zinekTjFHQ=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-b6feaa695f47b4a350efc48164b3bdacfc94b213/Cargo.lock;
+      lockFile = ./rustdesk-dc724a30e7637060ac902310a3a215ec7c093db8/Cargo.lock;
       outputHashes = {
         "magnum-opus-0.3.4-2" = "sha256-3Bl4jyDg5E9zzADdz7jM5SY2HYksokE1jS/ocE/iXcc=";
         "rust-pulsectl-0.2.10" = "sha256-fJcd4aNixFW4dqp+RoHEYQKq78iYZsNa4SpopMIh8Fg=";
