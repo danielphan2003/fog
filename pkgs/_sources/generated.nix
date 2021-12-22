@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "2927643f6a15e4cfff7716418dcb2f6faf5ea2f4";
+    version = "28c8521e9fb4042a66800e573d8fb922ef54aacd";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "2927643f6a15e4cfff7716418dcb2f6faf5ea2f4";
+      rev = "28c8521e9fb4042a66800e573d8fb922ef54aacd";
       fetchSubmodules = false;
-      sha256 = "sha256-8f+aKYJmoyKeb8X0Y/EPKvCA5RSRsNyHXh3+CqX2kpk=";
+      sha256 = "sha256-aUfC+l0rm+y2ZdnWtz6yefxX7HJkPbiKR0xZa9blFNo=";
     });
   };
   caddy = {
@@ -172,13 +172,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "fbfc2d57a7ff3571b009fbb8b40dc4eff1191685";
+    version = "e73459f5588c169f4ad92d070f4090f2f806b69b";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "fbfc2d57a7ff3571b009fbb8b40dc4eff1191685";
+      rev = "e73459f5588c169f4ad92d070f4090f2f806b69b";
       fetchSubmodules = false;
-      sha256 = "sha256-SITVJFjfaGqWb8V+9/fYXkQZ2X2ZOfLPUw+JNWofCXY=";
+      sha256 = "sha256-ZDYzYfd4S8DxPdZKBCPhJilkZ9bjoAqDkQBPc1UXLaI=";
     });
   };
   doggo = {
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "96";
+    version = "97";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/96/downloads/paper-1.18.1-96.jar";
-      sha256 = "sha256-wEz5Nqy/EGaEmoXwsfJeIc/TlFYLjELYSihOBgZxpQo=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/97/downloads/paper-1.18.1-97.jar";
+      sha256 = "sha256-X7eXUN7o3LLFVqT3VqpQErmRjJi1ss/I5mBamQmqLyg=";
     };
     mcVer = "1.18.1";
   };
