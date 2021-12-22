@@ -101,13 +101,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "1ab0f892d2c5f838e302f70e014ed57fb5e96277";
+    version = "790e535017733a3115ad761297e1534afe7810c5";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "1ab0f892d2c5f838e302f70e014ed57fb5e96277";
+      rev = "790e535017733a3115ad761297e1534afe7810c5";
       fetchSubmodules = false;
-      sha256 = "sha256-QWCVGlCigbKWrvRoeR2/udtoCsaBqGtFRXnNq5vAqek=";
+      sha256 = "sha256-w+ZDLyUePwD4mzcLmLycSlSw+wauR7itZxF9UP+L+3k=";
     });
   };
   awestore = {
@@ -653,10 +653,10 @@
   };
   minecraft-fabric-api-1_17_1 = {
     pname = "minecraft-fabric-api-1_17_1";
-    version = "0.44.0+1.17";
+    version = "0.45.0+1.17";
     src = fetchurl {
-      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.17/fabric-api-0.44.0+1.17.jar";
-      sha256 = "sha256-wAWOwe5GI/aAR8PWN3L60umEIKGXfXmAyTgOjhl9j+Q=";
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.45.0+1.17/fabric-api-0.45.0+1.17.jar";
+      sha256 = "sha256-Tyyi3hmvZV3+t/cQWcn4UZNvq78cyPVxakGKHTebZGs=";
     };
     modId = "P7dR8mSH";
     mcVer = "1.17.1";
