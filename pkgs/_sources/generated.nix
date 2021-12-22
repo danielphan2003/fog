@@ -339,18 +339,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5716";
+    version = "1.0.5717";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5716.tar.bz2";
-      sha256 = "sha256-q1hALtE/2rVdzweCsFxOGbSB91KzhiIvdFMyR0leoC8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5717.tar.bz2";
+      sha256 = "sha256-hgjkntVTe9b3Q0uPF08BenfjoqC+DPZNfEK87Zckj3M=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5716";
+    version = "1.0.5717";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5716-1_all.deb";
-      sha256 = "sha256-OF4bIdnU/fvNs3aIsByQXHd+4D9h8LuThK4/C6fP0iQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5717-1_all.deb";
+      sha256 = "sha256-VosYSVFTYRiUXGnYEHSSQYbXibUf7e/+ZG/HPtzF9H0=";
     };
   };
   jitsi-videobridge2 = {
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "99";
+    version = "100";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/99/downloads/paper-1.18.1-99.jar";
-      sha256 = "sha256-EijijWHnd3HVTejOWkrnxNfEAnMdjq14C9DWFJj27Gk=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/100/downloads/paper-1.18.1-100.jar";
+      sha256 = "sha256-T5bHgqtt3zB2keYtU785/wfJkQYuilKwCYUVfO5JXzc=";
     };
     mcVer = "1.18.1";
   };
@@ -1434,14 +1434,14 @@
   };
   snui = {
     pname = "snui";
-    version = "cf352e84e03c63eba77cc06a377266b2d98c397b";
+    version = "e517cd2e9af297d1b0a2b82e085db1451623a80f";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "cf352e84e03c63eba77cc06a377266b2d98c397b";
+      rev = "e517cd2e9af297d1b0a2b82e085db1451623a80f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-nay0+ZlomAuxbA6kJ7UnMxa8+LrtOkkR/mw0XiRE4/E=";
+      sha256 = "sha256-a30J+6NTk3y6Y42jckovjY2TwAbVDbJMOAh5x0M22XY=";
     };
   };
   spicetify-cli = {
