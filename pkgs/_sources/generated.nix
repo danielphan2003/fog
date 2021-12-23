@@ -79,13 +79,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "6675225ec4a40bdb7d38b299893cd5b472b60c3a";
+    version = "87bd8683fa384c0e9932230c8957ac0717a0b430";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "6675225ec4a40bdb7d38b299893cd5b472b60c3a";
+      rev = "87bd8683fa384c0e9932230c8957ac0717a0b430";
       fetchSubmodules = false;
-      sha256 = "sha256-eejIzCoyeuK5H3Fj3xbV8CoOn1gT4fd+YwRBrJB4La8=";
+      sha256 = "sha256-+PvQkoVVrgtHyS23BS2FmaG0tdpa4WyUL8TogFMV8A8=";
     });
   };
   avizo = {
@@ -101,13 +101,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "1413f0c4b9da13b17b7fc11e2edd78daf695f3b4";
+    version = "7451c6952e0a24bd54edc0f7ecff6ad46ef65dcb";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "1413f0c4b9da13b17b7fc11e2edd78daf695f3b4";
+      rev = "7451c6952e0a24bd54edc0f7ecff6ad46ef65dcb";
       fetchSubmodules = false;
-      sha256 = "sha256-h1GdHoIvd/zPNd3Ydatir6MGuK/xMStH8GCi+LUgHa8=";
+      sha256 = "sha256-5mxa7rid/meFrBUY9GBuJlHGOU9OJJP0hwIRMvSwh58=";
     });
   };
   awestore = {
@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4658c64654189da92a69e51e0b90c1311175614c";
+    version = "ccd6a566ada44852cb95320737bde4c9f7916da8";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4658c64654189da92a69e51e0b90c1311175614c";
+      rev = "ccd6a566ada44852cb95320737bde4c9f7916da8";
       fetchSubmodules = false;
-      sha256 = "sha256-pBIiNdb9HrE1koxuCuho6YkyPinLBuAA8CYB54TLs8k=";
+      sha256 = "sha256-6XT9CsdNXFhRvuHTZeSYRA6/h0njFpDV404kuokzDlA=";
     });
   };
   caddy = {
