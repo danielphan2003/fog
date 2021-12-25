@@ -2064,13 +2064,13 @@
   };
   wgcf = {
     pname = "wgcf";
-    version = "eaa77f8e381c23b0df69edbe0a480b31a18287a0";
+    version = "ecf3b62ea61eabe483625fd1cbd476a8fd994952";
     src = fetchFromGitHub ({
       owner = "ViRb3";
       repo = "wgcf";
-      rev = "eaa77f8e381c23b0df69edbe0a480b31a18287a0";
+      rev = "ecf3b62ea61eabe483625fd1cbd476a8fd994952";
       fetchSubmodules = false;
-      sha256 = "sha256-ksgWuXZ6sosaAoVjqUxvOayfHfgw5qbUraCthq38l6Y=";
+      sha256 = "sha256-Dz19SlBTTCn73rnnU4PpZUbwcIpA6j2ODFYVAwTn7wI=";
     });
   };
   whitesur-gtk-theme = {
