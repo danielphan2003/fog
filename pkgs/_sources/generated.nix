@@ -2173,13 +2173,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "9d84dc74cda8a68e2e829cdf40d8f40c696af7f4";
+    version = "e1334aee314c25a795ed3a60463a1b4b129409b5";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "9d84dc74cda8a68e2e829cdf40d8f40c696af7f4";
+      rev = "e1334aee314c25a795ed3a60463a1b4b129409b5";
       fetchSubmodules = false;
-      sha256 = "sha256-gOTj76CLSbfjnO8oAoHLs/9+ELWektngy1KT9eVUEq0=";
+      sha256 = "sha256-/3V2rVMwXi6+qEtPgPK/8mozveEhFtvop9mZAxBf71M=";
     });
   };
   zoom-us = {
