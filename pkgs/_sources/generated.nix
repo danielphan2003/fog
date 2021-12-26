@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "da5d71c23c31e89db59006183a3572d35e3c85d1";
+    version = "4680dcd29e8851e00e1e36259e87b5946580b8d6";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "da5d71c23c31e89db59006183a3572d35e3c85d1";
+      rev = "4680dcd29e8851e00e1e36259e87b5946580b8d6";
       fetchSubmodules = false;
-      sha256 = "sha256-D1DwyUK7tpCDYfEwsVCfnFmqFRqB8HglnupNfCVC2s0=";
+      sha256 = "sha256-Aa9t1p2sMd2Z7rD+dhuD59n79Kc4Vm8xR4Eu6Fi9Lfw=";
     });
   };
   flyingfox = {
