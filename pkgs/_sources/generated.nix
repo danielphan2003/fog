@@ -1342,25 +1342,24 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "d4d90da196c60e9028526a2211ea8f30c3bd664c";
+    version = "51f4f736bc9b910bf451a904c7515ed0da26eb44";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "d4d90da196c60e9028526a2211ea8f30c3bd664c";
+      rev = "51f4f736bc9b910bf451a904c7515ed0da26eb44";
       fetchSubmodules = false;
-      sha256 = "sha256-Zmi7sYdaJ9w1xlzt4iiVjvwfzHXRsPr2X3XFj/ig4e4=";
+      sha256 = "sha256-iJdknPk0767affU1ju1mmVuQmYLQYcBqN7eixt5jovg=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-d4d90da196c60e9028526a2211ea8f30c3bd664c/Cargo.lock;
+      lockFile = ./rustdesk-51f4f736bc9b910bf451a904c7515ed0da26eb44/Cargo.lock;
       outputHashes = {
-        "magnum-opus-0.3.4-2" = "sha256-3Bl4jyDg5E9zzADdz7jM5SY2HYksokE1jS/ocE/iXcc=";
-        "rust-pulsectl-0.2.10" = "sha256-fJcd4aNixFW4dqp+RoHEYQKq78iYZsNa4SpopMIh8Fg=";
-        "cpal-0.13.4" = "sha256-e9VG28xT+u/vDYuM1/cOAHFR+VXlYwcSC+XUWgEgv84=";
-        "protobuf-3.0.0-pre" = "sha256-yEjMOD0G45MKGnJ8i8Bcm5oRBaj87jlcoeMK/VxRbn0=";
-        "parity-tokio-ipc-0.7.2" = "sha256-3gBg303FKbLcbld5q+zb/KIlVKuRGcPpWJJ2zUXRLHM=";
+        "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
+        "cpal-0.13.4" = "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=";
         "sciter-rs-0.5.57" = "sha256-pF5Rwav78//oqDAv0Nhb7tawhSMnlSuy4sPUOfPd8NU=";
+        "psutil-3.2.1" = "sha256-n3LTTDBCW+l0xKFGHdFHePlw998nO6G9K7PCWdukN/0=";
         "confy-0.4.1" = "sha256-5QwA4YfEEE6QqEEUJ3+C37UbUf88NYds38kIthVSo5Y=";
-        "windows-service-0.4.0" = "sha256-SD+3tprBPEx4QnXmWEjruAwiTeoXofMVET3j+aXstBY=";
+        "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
+        "rust-pulsectl-0.2.11" = "sha256-CZkvii6pQM5jaR9RK9HDrczxIxZwuahpdVM+UsRLw9s=";
       };
     };
   };
@@ -1457,13 +1456,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "eb50a5843973ffbc3c04e89eb5c3c421232f703e";
+    version = "0187e60799c74770b3ef0919f7cfa733156406a3";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "eb50a5843973ffbc3c04e89eb5c3c421232f703e";
+      rev = "0187e60799c74770b3ef0919f7cfa733156406a3";
       fetchSubmodules = false;
-      sha256 = "sha256-zgbRMp+mh+3L6wz+gXci25H4oF2NPqQanmWaCxJBoqI=";
+      sha256 = "sha256-sPnH7oPXHMf1LflyFgG1awTc5kTNTueCnb2VQ3GC9UQ=";
     });
   };
   spotify = {
