@@ -1320,11 +1320,11 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "957981057910ba9f1dbaabdffff67c598968c33b";
+    version = "68713b46b0b8fb59874b46fce45a6c0a48fa6e3e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "957981057910ba9f1dbaabdffff67c598968c33b";
+      rev = "68713b46b0b8fb59874b46fce45a6c0a48fa6e3e";
       fetchSubmodules = false;
       sha256 = "sha256-CDFeASB9vc/k3SqjcnoSYqwf4DN1OgF7LBu4uQRd/As=";
     });
@@ -1342,16 +1342,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "51f4f736bc9b910bf451a904c7515ed0da26eb44";
+    version = "dbdff120bc097c8d9e2fdcc7fb1dff969e0c9586";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "51f4f736bc9b910bf451a904c7515ed0da26eb44";
+      rev = "dbdff120bc097c8d9e2fdcc7fb1dff969e0c9586";
       fetchSubmodules = false;
-      sha256 = "sha256-iJdknPk0767affU1ju1mmVuQmYLQYcBqN7eixt5jovg=";
+      sha256 = "sha256-6eayLFYhWs91R7gZbXn7TZY6GBJ6xi2546a6bHkLC8k=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-51f4f736bc9b910bf451a904c7515ed0da26eb44/Cargo.lock;
+      lockFile = ./rustdesk-dbdff120bc097c8d9e2fdcc7fb1dff969e0c9586/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "cpal-0.13.4" = "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=";
@@ -2126,13 +2126,13 @@
   };
   xdg-desktop-portal-gtk = {
     pname = "xdg-desktop-portal-gtk";
-    version = "2ea8803d97ec4e0bb9d51b35c6ae522d27d6a79a";
+    version = "b09453a7b580946ad98b10c21a0458c865389e09";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal-gtk";
-      rev = "2ea8803d97ec4e0bb9d51b35c6ae522d27d6a79a";
+      rev = "b09453a7b580946ad98b10c21a0458c865389e09";
       fetchSubmodules = false;
-      sha256 = "sha256-I1ZoDqZQPfPwPr4Ybk+syz+YEkrK2ReflZaJJWD4Nsk=";
+      sha256 = "sha256-QbH/qcYGH/7gQnQY7UuSGImZjVcFIyxtpYayjQYdDm0=";
     });
   };
   xorg-libxcvt = {
