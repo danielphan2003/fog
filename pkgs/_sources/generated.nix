@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "6507ea8e9576d06eefbe77705757304ce55b6830";
+    version = "06eb7acdd3df75cbd490a0aa5c3090769a414577";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "6507ea8e9576d06eefbe77705757304ce55b6830";
+      rev = "06eb7acdd3df75cbd490a0aa5c3090769a414577";
       fetchSubmodules = false;
-      sha256 = "sha256-XVgha2seme2AX9LlX02QpR2nMn0yGJG6baS4oFQv0sg=";
+      sha256 = "sha256-Q7POkZcqygKCL+i8LlBx34lDnRJXkTg9ehsGgFQRDCs=";
     });
   };
   flyingfox = {
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "103";
+    version = "104";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/103/downloads/paper-1.18.1-103.jar";
-      sha256 = "sha256-8w4oAmKoGJTA7kL/7jkgXwQBbb0HJ/KzbSAFOxW1QFU=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/104/downloads/paper-1.18.1-104.jar";
+      sha256 = "sha256-BqcOj4E7bDTiZuIMDAPtSPPEYjEJHosEHcWIrbi/igE=";
     };
     mcVer = "1.18.1";
   };
