@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "4680dcd29e8851e00e1e36259e87b5946580b8d6";
+    version = "6507ea8e9576d06eefbe77705757304ce55b6830";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "4680dcd29e8851e00e1e36259e87b5946580b8d6";
+      rev = "6507ea8e9576d06eefbe77705757304ce55b6830";
       fetchSubmodules = false;
-      sha256 = "sha256-Aa9t1p2sMd2Z7rD+dhuD59n79Kc4Vm8xR4Eu6Fi9Lfw=";
+      sha256 = "sha256-XVgha2seme2AX9LlX02QpR2nMn0yGJG6baS4oFQv0sg=";
     });
   };
   flyingfox = {
@@ -1456,13 +1456,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "2aece504f23b95b9c25c6f9784e6cced9aab3d0e";
+    version = "1d9ef3902aa79659ce0a6884d0f1249f07174918";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "2aece504f23b95b9c25c6f9784e6cced9aab3d0e";
+      rev = "1d9ef3902aa79659ce0a6884d0f1249f07174918";
       fetchSubmodules = false;
-      sha256 = "sha256-VuDEwqZCOuponDv5qjPLtLK+uFWnTceu6Wl5D+XgjPA=";
+      sha256 = "sha256-LzDn214UuN49u6iSry+EA9m5Fe03IGMFd+87ZKnvES4=";
     });
   };
   spotify = {
@@ -1561,13 +1561,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "6d5adc38934281a8d81df58623a7a9ee03f4f7db";
+    version = "44735d8d4c2b4b8a8d28f95ab6a6c6d577c859e5";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "6d5adc38934281a8d81df58623a7a9ee03f4f7db";
+      rev = "44735d8d4c2b4b8a8d28f95ab6a6c6d577c859e5";
       fetchSubmodules = false;
-      sha256 = "sha256-0gzzC4E3BdwbgZjAfrY54gQ8Q27WKEoeH6woWBDEOaA=";
+      sha256 = "sha256-urChMTImmt1oETvIvgpp07TsYxUQ16WUNIxyWILOKqg=";
     });
   };
   ultimmc = {
@@ -2183,10 +2183,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.9.0.1273";
+    version = "5.9.1.1380";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.9.0.1273/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-7wyb6sPSQezhY0QYNFc9o6ksFyNLi3mcz19/AViBMdc=";
+      url = "https://cdn.zoom.us/prod/5.9.1.1380/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-3HuVCDaOnepGMiRaQ78QcCdgNzI60egbPGfoOfwIPGQ=";
     };
   };
 }
