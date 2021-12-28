@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "107";
+    version = "108";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/107/downloads/paper-1.18.1-107.jar";
-      sha256 = "sha256-R/XonVOqe5X61MaPF/zwE+MFEID2TddIcVqteZZ5jO4=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/108/downloads/paper-1.18.1-108.jar";
+      sha256 = "sha256-aFvHYpPG9bw1Lj9auL+tkbN0SwoBMcxpoV+cePlpRTI=";
     };
     mcVer = "1.18.1";
   };
