@@ -331,10 +331,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-838";
+    version = "1.0-839";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-838-1_all.deb";
-      sha256 = "sha256-V47zH8Cj04hqsi7pWW91ArCY/NSf5Sur8X6UvKf4744=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-839-1_all.deb";
+      sha256 = "sha256-1l+jeZ3liT7c9Ol5WJtkAzLXVgPPw0i0kWRELE7JpbY=";
     };
   };
   jitsi-meet = {
@@ -841,13 +841,13 @@
   };
   minecraft-wayland = {
     pname = "minecraft-wayland";
-    version = "88eba707930eb98715fd9fb5d10d3ff02a535abf";
+    version = "f1848246d177e17293198b58d1bca67acdfb9fb1";
     src = fetchFromGitHub ({
       owner = "Admicos";
       repo = "minecraft-wayland";
-      rev = "88eba707930eb98715fd9fb5d10d3ff02a535abf";
+      rev = "f1848246d177e17293198b58d1bca67acdfb9fb1";
       fetchSubmodules = false;
-      sha256 = "sha256-NzXAFtQLvPWdQAq+xTBbDMOyGvs7MKyiJTP+VL8HpRg=";
+      sha256 = "sha256-v3+G5k2xgt4aGuJ35T52mQCyynVoRmEl4pcx7qsulmg=";
     });
   };
   netdata = {
@@ -1525,13 +1525,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "44937b59e70a6feb1801ca7bf7eb8494b51418ef";
+    version = "eb26c081b1e0232c3e9d058fd0e45f9b9a28609e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "44937b59e70a6feb1801ca7bf7eb8494b51418ef";
+      rev = "eb26c081b1e0232c3e9d058fd0e45f9b9a28609e";
       fetchSubmodules = false;
-      sha256 = "sha256-Z7AIzVzx/FAI0WLw5xLvl94Kw89coCLMGg4ahxTjclM=";
+      sha256 = "sha256-SjEEFwBT1YomMehwNDkiNHU8i+fK4cBoWvw6Kcvp4Qs=";
     });
   };
   tailscale-systray = {
