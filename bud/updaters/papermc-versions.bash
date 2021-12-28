@@ -1,8 +1,7 @@
-export pname="papermc"
+pname="papermc"
+export pname
 
-bud patchSources "$pname" "$({
-  escaped_dollar_sign='$$' # to be changed later in regex, also see: https://github.com/chmln/sd/issues/129
-
+function parseMeta() {
   echo "## $pname"
 
   meta_file="$BUD_CACHE/papermc-versions.json"
@@ -15,10 +14,12 @@ bud patchSources "$pname" "$({
     echo
     echo "[$pname-${version//\./_}]" # replace . with _
     echo "src.cmd = \" bud $pname-updater $version \""
-    echo "fetch.url = \"https://papermc.io/api/v2/projects/paper/versions/$version/builds/${escaped_dollar_sign}ver/downloads/paper-$version-${escaped_dollar_sign}ver.jar\""
+    echo "fetch.url = \"https://papermc.io/api/v2/projects/paper/versions/$version/builds/\$ver/downloads/paper-$version-\$ver.jar\""
     echo "passthru = { mcVer = \"$version\" }"
   done
 
   echo
   echo "## $pname"
-})"
+}
+
+parseMeta > "$PRJ_ROOT/pkgs/${1:-"games/$pname"}.toml"

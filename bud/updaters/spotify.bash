@@ -5,9 +5,10 @@ if [ ! -s "$meta_file" ]; then
 fi
 
 readarray -t meta <<< "$( jq -r '.package_name,.revision,.snap_id,.version' $meta_file )"
-export pname="${meta[0]}"
+pname="${meta[0]}"
+export pname
 
-bud patchSources "$pname" "$({
+bud patchSources sources "$pname" "$({
   rev="${meta[1]}"
   snapId="${meta[2]}"
   version="${meta[3]}"
@@ -16,7 +17,7 @@ bud patchSources "$pname" "$({
 
   echo
   echo "[$pname]" # replace . with _
-  echo "src.cmd = \" echo $version \""
+  echo "src.manual = \"$version\""
   echo "fetch.url = \"https://api.snapcraft.io/api/v1/snaps/download/$snapId"_"$rev.snap\""
 
   echo

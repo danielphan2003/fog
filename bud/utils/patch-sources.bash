@@ -1,8 +1,10 @@
+sourceFile="$PRJ_ROOT/pkgs/${1:-"sources"}.toml"
+
 # package name
-pname="$1"
+pname="$2"
 
 # content to replace with
-patchContent="$2"
+patchContent="$3"
 
 # set boundary for patching
 bound='## '$pname
@@ -12,11 +14,9 @@ bound='## '$pname
 multilineRegex='(?:\n|.)+?'
 
 # regex to be replaced
-multilineBound=$bound$multilineRegex$bound
-
-cd "$PRJ_ROOT"/pkgs || exit
+multilineBound="$bound$multilineRegex$bound"
 
 # enable multi line regex
 sd --flags m \
   "$multilineBound" "$patchContent" \
-  ./sources.toml
+  "$sourceFile"

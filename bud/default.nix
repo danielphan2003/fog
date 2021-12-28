@@ -32,10 +32,16 @@ in
       script = ./utils/nvfetcher-cleanup.bash;
     };
     patchSources = {
-      writer = budUtils.writeBashWithPaths [ sd ];
+      writer = budUtils.writeBashWithPaths [ coreutils sd ];
       synopsis = "patchSources";
       help = "Replace source template with up-to-date one.";
       script = ./utils/patch-sources.bash;
+    };
+    updateSources = {
+      writer = writeBashWithBudPaths [ coreutils nvfetcher-bin git ];
+      synopsis = "updateSources";
+      help = "Update source";
+      script = ./utils/update-sources.bash;
     };
   } // (lib.mapAttrs
     (name: path: makeUpdaterCmd {

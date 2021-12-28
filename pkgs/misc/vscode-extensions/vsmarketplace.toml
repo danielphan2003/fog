@@ -1,0 +1,48 @@
+#### VsMarketplace extensions
+
+[vscode-extensions-ActiveFileInStatusBar]
+src.vsmarketplace = "RoscoP.ActiveFileInStatusBar"
+fetch.vsmarketplace = "RoscoP.ActiveFileInStatusBar"
+passthru = { publisher = "RoscoP", name = "ActiveFileInStatusBar", license = "MIT" }
+
+[vscode-extensions-astro]
+src.vsmarketplace = "astro-build.astro-vscode"
+fetch.vsmarketplace = "astro-build.astro-vscode"
+passthru = { publisher = "astro-build", name = "astro-vscode", license = "MIT" }
+
+[vscode-extensions-css-initial-value]
+src.vsmarketplace = "dzhavat.css-initial-value"
+fetch.vsmarketplace = "dzhavat.css-initial-value"
+passthru = { publisher = "dzhavat", name = "css-initial-value", license = "MIT" }
+
+[vscode-extensions-headwind]
+src.vsmarketplace = "heybourn.headwind"
+fetch.vsmarketplace = "heybourn.headwind"
+passthru = { publisher = "heybourn", name = "headwind", license = "MIT", homepage = "https://github.com/heybourn/headwind", description = "An opinionated Tailwind CSS class sorter built for Visual Studio Code" }
+
+[vscode-extensions-nixpkgs-fmt]
+src.vsmarketplace = "B4dM4n.nixpkgs-fmt"
+fetch.vsmarketplace = "B4dM4n.nixpkgs-fmt"
+passthru = { publisher = "B4dM4n", name = "nixpkgs-fmt", license = "MIT" }
+
+[vscode-extensions-pascal]
+src.vsmarketplace = "alefragnani.pascal"
+fetch.vsmarketplace = "alefragnani.pascal"
+passthru = { publisher = "alefragnani", name = "pascal", license = "MIT" }
+
+[vscode-extensions-pascal-formatter]
+src.vsmarketplace = "alefragnani.pascal-formatter"
+fetch.vsmarketplace = "alefragnani.pascal-formatter"
+passthru = { publisher = "alefragnani", name = "pascal-formatter", license = "MIT" }
+
+[vscode-extensions-react-native]
+src.vsmarketplace = "msjsdiag.vscode-react-native"
+fetch.vsmarketplace = "msjsdiag.vscode-react-native"
+passthru = { publisher = "msjsdiag",  name = "vscode-react-native", license = "MIT" }
+
+[vscode-extensions-ms-vscode-cpptools]
+src.github_tag = "microsoft/vscode-cpptools"
+fetch.url = "https://github.com/microsoft/vscode-cpptools/releases/download/$ver/cpptools-linux.vsix"
+passthru = { publisher = "ms-vscode", name = "cpptools", license = "MIT" }
+
+#### VsMarketplace extensions

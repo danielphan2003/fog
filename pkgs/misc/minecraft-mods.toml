@@ -1,0 +1,245 @@
+### Minecraft mods
+
+#### Both
+
+[fabric-api-1_14]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-$ver.jar"
+passthru = { mcVer = "1.14", modId = "P7dR8mSH" }
+
+[fabric-api-1_14_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.1", modId = "P7dR8mSH" }
+
+[fabric-api-1_14_2]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.2 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.2", modId = "P7dR8mSH" }
+
+[fabric-api-1_14_3]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.3 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.3", modId = "P7dR8mSH" }
+
+[fabric-api-1_14_4]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.14.4 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.14.4", modId = "P7dR8mSH" }
+
+[fabric-api-1_15]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.15 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.15", modId = "P7dR8mSH" }
+
+[fabric-api-1_15_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.15.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.1", modId = "P7dR8mSH" }
+
+[fabric-api-1_15_2]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.15.2 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.15.2", modId = "P7dR8mSH" }
+
+[fabric-api-1_16]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16", modId = "P7dR8mSH" }
+
+[fabric-api-1_16_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.1", modId = "P7dR8mSH" }
+
+[fabric-api-1_16_2]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.2 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.2", modId = "P7dR8mSH" }
+
+[fabric-api-1_16_3]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.3 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.3", modId = "P7dR8mSH" }
+
+[fabric-api-1_16_4]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.4 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.4", modId = "P7dR8mSH" }
+
+[fabric-api-1_16_5]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.16.5 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.16.5", modId = "P7dR8mSH" }
+
+[fabric-api-1_17]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.17", modId = "P7dR8mSH" }
+
+[fabric-api-1_17_1]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.17.1 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "P7dR8mSH" }
+
+[fabric-api-1_18]
+src.cmd = " bud modrinth-updater P7dR8mSH 1.18 "
+fetch.url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/$ver/fabric-api-$ver.jar"
+passthru = { mcVer = "1.18", modId = "P7dR8mSH" }
+
+[ferritecore-1_16_5]
+src.cmd = " bud modrinth-updater uXXizFIs 1.16.5 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.16.5", modId = "uXXizFIs" }
+
+[ferritecore-1_17]
+src.cmd = " bud modrinth-updater uXXizFIs 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.17", modId = "uXXizFIs" }
+
+[ferritecore-1_17_1]
+src.cmd = " bud modrinth-updater uXXizFIs 1.17.1 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.17.1", modId = "uXXizFIs" }
+
+[ferritecore-1_18]
+src.cmd = " bud modrinth-updater uXXizFIs 1.18 "
+fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
+passthru = { mcVer = "1.18", modId = "uXXizFIs" }
+
+[lazydfu]
+src.github = "astei/lazydfu"
+fetch.url = "https://github.com/astei/lazydfu/releases/download/$ver/lazydfu-$ver.jar"
+
+[starlight-fabric-1_17]
+src.cmd = " bud modrinth-updater H8CaAYZC 1.17 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-$ver.jar"
+passthru = { mcVer = "1.17", modId = "H8CaAYZC" }
+
+[starlight-fabric-1_18]
+src.cmd = " bud modrinth-updater H8CaAYZC 1.18 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.18.x/starlight-$ver.jar"
+passthru = { mcVer = "1.18", modId = "H8CaAYZC" }
+
+[starlight-forge-1_17_1]
+src.cmd = " bud modrinth-updater iRfIGC1s 1.17.1 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.17.x/starlight-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "iRfIGC1s" }
+
+[starlight-forge-1_18_1]
+src.cmd = " bud modrinth-updater iRfIGC1s 1.18.1 --files "
+src.from_pattern = "starlight-(.*)\\.jar"
+src.to_pattern = "\\1"
+fetch.url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1+/starlight-$ver.jar"
+passthru = { mcVer = "1.18.1", modId = "iRfIGC1s" }
+
+#### Client
+
+[better-beds-1_16]
+src.cmd = " bud modrinth-updater kKwy3HU9 1.16 "
+fetch.url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/$ver/betterbeds-$ver.jar"
+passthru = { mcVer = "1.16", modId = "kKwy3HU9" }
+
+[better-beds-1_17]
+src.cmd = " bud modrinth-updater kKwy3HU9 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/kKwy3HU9/versions/$ver/betterbeds-$ver.jar"
+passthru = { mcVer = "1.16", modId = "kKwy3HU9" }
+
+[cull-leaves-1_16]
+src.cmd = " bud modrinth-updater GNxdLCoP 1.16 "
+fetch.url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/$ver/cullleaves-$ver.jar"
+passthru = { mcVer = "1.16", modId = "GNxdLCoP" }
+
+[cull-leaves-1_16_1]
+src.cmd = " bud modrinth-updater GNxdLCoP 1.16.1 "
+fetch.url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/$ver/cullleaves-$ver.jar"
+passthru = { mcVer = "1.16.1", modId = "GNxdLCoP" }
+
+[cull-leaves-1_17]
+src.cmd = " bud modrinth-updater GNxdLCoP 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/$ver/cullleaves-$ver.jar"
+passthru = { mcVer = "1.17", modId = "GNxdLCoP" }
+
+# TODO: broken, see: https://github.com/CaffeineMC/sodium-fabric/issues/1059
+# [sodium-1_16_3]
+# src.cmd = " bud modrinth-updater AANobbMI 1.16.3 "
+# src.prefix = "mc1.16.3-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-$ver/sodium-fabric-mc1.16.3-$ver.jar"
+# passthru = { mcVer = "1.16.3", modId = "AANobbMI" }
+
+# [sodium-1_16_5]
+# src.cmd = " bud modrinth-updater AANobbMI 1.16.5 "
+# src.prefix = "mc1.16.5-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-$ver/sodium-fabric-mc1.16.5-$ver.jar"
+# passthru = { mcVer = "1.16.5", modId = "AANobbMI" }
+
+# [sodium-1_17_1]
+# src.cmd = " bud modrinth-updater AANobbMI 1.17.1 "
+# src.prefix = "mc1.17.1-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-$ver/sodium-fabric-mc1.17.1-$ver.jar"
+# passthru = { mcVer = "1.17.1", modId = "AANobbMI" }
+
+# [sodium-1_18]
+# src.cmd = " bud modrinth-updater AANobbMI 1.18 "
+# src.prefix = "mc1.18-"
+# fetch.url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-$ver/sodium-fabric-mc1.18-$ver.jar"
+# passthru = { mcVer = "1.18", modId = "AANobbMI" }
+
+### Server
+
+# TODO: out of date, not found elsewhere except original repo: https://github.com/Tfarcenim/FabricFastFurnace
+# [fast-furnace]
+# src.github = "danielphan2003/FabricFastFurnace"
+# fetch.url = "https://nightly.link/danielphan2003/FabricFastFurnace/workflows/gradle/patch-2/build-artifacts.zip"
+
+[krypton-1_16_5]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.16.5 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.16.5", modId = "fQEb0iXm" }
+
+[krypton-1_17]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.17 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.17", modId = "fQEb0iXm" }
+
+[krypton-1_17_1]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.17.1 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "fQEb0iXm" }
+
+[krypton-1_18_1]
+src.cmd = " bud modrinth-updater fQEb0iXm 1.18.1 "
+fetch.url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/$ver/krypton-$ver.jar"
+passthru = { mcVer = "1.18.1", modId = "fQEb0iXm" }
+
+[lithium-1_16_5]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.16.5 "
+src.prefix = "mc1.16.5-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-$ver/lithium-fabric-mc1.16.5-$ver.jar"
+passthru = { mcVer = "1.16.5", modId = "gvQqBUqZ" }
+
+[lithium-1_17_1]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.17.1 "
+src.prefix = "mc1.17.1-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-$ver/lithium-fabric-mc1.17.1-$ver.jar"
+passthru = { mcVer = "1.17.1", modId = "gvQqBUqZ" }
+
+[lithium-1_18]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.18 "
+src.prefix = "mc1.18-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-$ver/lithium-fabric-mc1.18-$ver.jar"
+passthru = { mcVer = "1.18", modId = "gvQqBUqZ" }
+
+[lithium-1_18_1]
+src.cmd = " bud modrinth-updater gvQqBUqZ 1.18.1 "
+src.prefix = "mc1.18.1-"
+fetch.url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-$ver/lithium-fabric-mc1.18.1-$ver.jar"
+passthru = { mcVer = "1.18.1", modId = "gvQqBUqZ" }
+
+### Minecraft mods

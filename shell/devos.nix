@@ -41,7 +41,7 @@ in
       category = "devos";
       name = pkgs.nvfetcher-bin.pname;
       help = pkgs.nvfetcher-bin.meta.description;
-      command = "cd $PRJ_ROOT/pkgs; ${pkgs.nvfetcher-bin}/bin/nvfetcher -c ./sources.toml $@";
+      command = ''cd $PRJ_ROOT/pkgs; ${pkgs.nvfetcher-bin}/bin/nvfetcher "$@"'';
     }
     {
       category = "utils";
@@ -51,7 +51,5 @@ in
     }
     (linter nixpkgs-fmt)
     (linter editorconfig-checker)
-  ]
-
-  ;
+  ];
 }

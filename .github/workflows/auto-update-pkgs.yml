@@ -42,20 +42,8 @@ jobs:
     # Quick eval
     - run: nix develop --command evalnix
 
-    # Create bud cache
-    - run: nix develop --command bud makeBudCache
-
-    # Clean up old Cargo.lock and extracts
-    - run: nix develop --command bud nvfetcher-cleanup
-
-    # Update papermc
-    - run: nix develop --command bud papermc-versions-updater
-
-    # Update spotify
-    - run: nix develop --command bud spotify-updater
-
-    # Update packages
-    - run: nix develop --command nvfetcher --commit-changes
+    # Clean up and update all packages
+    - run: bud dan-nixpkgs-updater
 
     # Push changes to main
     - run: git push
