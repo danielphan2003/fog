@@ -16,7 +16,7 @@ in
   sources-vscode-extensions = lib.mapAttrs
     (ename: eset:
       let
-        inherit (eset) license;
+        license = lib.toLower eset.license;
         eset' = builtins.removeAttrs eset [ "description" "license" ];
       in
       eset' // {
