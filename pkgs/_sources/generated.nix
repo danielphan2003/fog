@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.107.0";
+    version = "0.107.1";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-HoFv8gsrMbMnXJZXYJhQyVUXFzDh8c1/tnkFw0j1IDg=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-O8/sWvVw0gP+prUUuLYtOoWc/pR3UV1ndKa6HTrcDwQ=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.107.0";
+    version = "0.107.1";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-gWylZgCk+bGf1h2lTX2gRnW39P7C2ks0LH7anJW6JKw=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-ADt3UaS6xsDWZmDsKW1tpok1ltxizzMpO/eJZQjCXAs=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.107.0";
+    version = "0.107.1";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-g2DIeXwaqTTfshYyyDNHbOU57YUbuxXDKJHFqKFrqzw=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-ieHvIPN+cH7V0COru8cfkM9u59r6fO1HfZ7ZcQT97+M=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.107.0";
+    version = "0.107.1";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.0/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-PovduGRcfSUbhqX1cxRgMknN8mWJekjjpB0b1TE1//g=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-3P8HNoBH9fvm/TNlIdHkSM77IbFrbfclw0hp8u3WfDQ=";
     };
   };
   adl = {
@@ -1167,10 +1167,10 @@
   };
   papermc-1_18_1 = {
     pname = "papermc-1_18_1";
-    version = "109";
+    version = "110";
     src = fetchurl {
-      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/109/downloads/paper-1.18.1-109.jar";
-      sha256 = "sha256-aClPaODrfCF8Vwspy8Z3kmSQr11lRqAToikbN1hVVNU=";
+      url = "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/110/downloads/paper-1.18.1-110.jar";
+      sha256 = "sha256-AsiGqvNExvVnNUaWI92xT9FoRGoggMFo4lqCha6vPAE=";
     };
     mcVer = "1.18.1";
   };
@@ -1342,16 +1342,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e26a8388821efadc53dbf780dd1e9b0efa142e92";
+    version = "66af938858d43f64db1aca33a90de2b85c17e6bf";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e26a8388821efadc53dbf780dd1e9b0efa142e92";
+      rev = "66af938858d43f64db1aca33a90de2b85c17e6bf";
       fetchSubmodules = false;
-      sha256 = "sha256-/iM+MXuEnm3daYfxrpL0M7lwacnWzK1rJIuI2IEAkpE=";
+      sha256 = "sha256-wWLc25mbgQNchlPHRcoXn1gsOtcpRmvO7cnBg0byWrE=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-e26a8388821efadc53dbf780dd1e9b0efa142e92/Cargo.lock;
+      lockFile = ./rustdesk-66af938858d43f64db1aca33a90de2b85c17e6bf/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
