@@ -43,7 +43,7 @@ jobs:
     - run: nix develop --command evalnix
 
     # Clean up and update all packages
-    - run: bud dan-nixpkgs-updater
+    - run: nix develop --command bud dan-nixpkgs-updater
 
     # Push changes to main
     - run: git push
