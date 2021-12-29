@@ -8,11 +8,11 @@
   };
 
   inputs = {
-    nixos.url = "nixpkgs/release-21.11";
-    latest.url = "nixpkgs/nixos-unstable";
+    nixos.url = "github:nixos/nixpkgs/release-21.11";
+    latest.url = "github:nixos/nixpkgs/nixos-unstable";
 
     digga = {
-      url = github:divnix/digga/cleanup-dar;
+      url = "github:divnix/digga/cleanup-dar";
       inputs = {
         nixpkgs.follows = "nixos";
         latest.follows = "nixos";
@@ -21,7 +21,7 @@
     };
 
     bud = {
-      url = github:divnix/bud;
+      url = "github:divnix/bud";
       inputs = {
         nixpkgs.follows = "nixos";
         devshell.follows = "digga/devshell";
@@ -29,7 +29,7 @@
     };
 
     nvfetcher = {
-      url = github:berberman/nvfetcher;
+      url = "github:berberman/nvfetcher";
       inputs = {
         nixpkgs.follows = "nixos";
         flake-compat.follows = "digga/deploy/flake-compat";
