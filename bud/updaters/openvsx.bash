@@ -17,7 +17,7 @@ function parseMeta() {
   echo "## $pname"
 
   jq -M -r '
-    .extensions[] | .namespace, .name, (.version | tojson), (.files.download | tojson), (.description // "" | tojson | sub("\\$"; "\\\\$"))
+    .extensions[] | .namespace, .name, (.version | tojson), (.files.download | tojson), (.description // "" | tojson)
   ' "$meta_file" | \
   while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
     meta_file="$BUD_CACHE/openvsx-$namespace.$name.json"
@@ -32,6 +32,8 @@ function parseMeta() {
     if [[ $namespace =~ ^[[:digit:]] ]]; then
       namespace_cleaned="_$namespace"
     fi
+
+    description="${description//'$'/"'$'"}"
 
     echo
     echo "[$namespace_cleaned-$name]"

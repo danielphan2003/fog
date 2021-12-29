@@ -1,7 +1,5 @@
 function _bud() {
-  placeholder="$(printf "%0.s-" {1..$(( ${#1} + 3 ))})"
-  echo "[$1]: running"
-  echo "$placeholder with args: ${@: 1}"
+  echo "[$1]:${@: 2}"
   bud "$@"
 }
 

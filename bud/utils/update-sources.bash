@@ -7,6 +7,8 @@ if [ $CI ]; then
   args+=( --commit-changes )
 fi
 
+cd "$PRJ_ROOT"/pkgs || exit
+
 nvfetcher \
   -o "$sourceDir" \
   "${args[@]}" \

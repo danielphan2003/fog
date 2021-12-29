@@ -2808,7 +2808,7 @@ passthru = { publisher = "Qeenon", name = "hot-emo-theme", description = "Hot Em
 [meganrogge-template-string-converter]
 src.manual = "0.5.4"
 fetch.url = "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.4/file/meganrogge.template-string-converter-0.5.4.vsix"
-passthru = { publisher = "meganrogge", name = "template-string-converter", description = "Converts a string to a template string when \\${ is typed", license = "MIT" }
+passthru = { publisher = "meganrogge", name = "template-string-converter", description = "Converts a string to a template string when '$'{ is typed", license = "MIT" }
 
 [vscode-php]
 src.manual = "1.62.3"
