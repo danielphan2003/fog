@@ -38,7 +38,7 @@ in
       script = ./utils/patch-sources.bash;
     };
     updateSources = {
-      writer = writeBashWithBudPaths [ coreutils nvfetcher-bin git ];
+      writer = writeBashWithBudPaths [ coreutils nvfetcher-bin git nix-prefetch ];
       synopsis = "updateSources";
       help = "Update source";
       script = ./utils/update-sources.bash;
