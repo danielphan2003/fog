@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.107.1";
+    version = "0.107.2";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-O8/sWvVw0gP+prUUuLYtOoWc/pR3UV1ndKa6HTrcDwQ=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.2/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-hfsdiZz6JGFDwkslVmRD6xCxdPygNsZOpX0/frbzgI8=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.107.1";
+    version = "0.107.2";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-ADt3UaS6xsDWZmDsKW1tpok1ltxizzMpO/eJZQjCXAs=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.2/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-WnY6JBEbsWUXXaxYPaMPKKJuqnVWR4E+rSLGvTTqRH8=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.107.1";
+    version = "0.107.2";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-ieHvIPN+cH7V0COru8cfkM9u59r6fO1HfZ7ZcQT97+M=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.2/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-OW9hAjEUPoiSnC41AFguSRP/HV5F+ZVk2+G85dtZh1I=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.107.1";
+    version = "0.107.2";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.1/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-3P8HNoBH9fvm/TNlIdHkSM77IbFrbfclw0hp8u3WfDQ=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.107.2/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-YzWRFJ5Pk+iFDSvqrowSqEj0BZ8lgc4nV6+kxPCsb6M=";
     };
   };
   adl = {
@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "76cbce0c7db94b418f401fbf686a51c568448818";
+    version = "c9cc9258678b3c50916fe9b5376b9f91b73015c7";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "76cbce0c7db94b418f401fbf686a51c568448818";
+      rev = "c9cc9258678b3c50916fe9b5376b9f91b73015c7";
       fetchSubmodules = false;
-      sha256 = "sha256-Wx468rH7YP5O/mWdWBMl/L+MVfXP6k8Xgu4Wygti6as=";
+      sha256 = "sha256-e+q8ufD8eIPtWn8vjotkksdTXHERbW0AabJlixszBuA=";
     });
   };
   caddy = {
@@ -807,13 +807,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "cf6ce0e87703f78e5a98e10edd8761a3fef8b3ab";
+    version = "079a0dc5210bf373d577e6bc72da27496affb04a";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "cf6ce0e87703f78e5a98e10edd8761a3fef8b3ab";
+      rev = "079a0dc5210bf373d577e6bc72da27496affb04a";
       fetchSubmodules = false;
-      sha256 = "sha256-+itMF1ynIM5JSBWw2LnIzT9zIdNQ/A+4hTiGIFmBJVI=";
+      sha256 = "sha256-YbAzThgmaxl6vrP2jZnP18e/aY4+lDqg6i9BjJ0SzfY=";
     });
   };
   spicetify-themes = {
@@ -885,13 +885,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "96cab21383b321d29d6523ea56711e8381faeaac";
+    version = "2c94e3c4adef5730c6c3fb8a65240c61554cea19";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "96cab21383b321d29d6523ea56711e8381faeaac";
+      rev = "2c94e3c4adef5730c6c3fb8a65240c61554cea19";
       fetchSubmodules = false;
-      sha256 = "sha256-knnK/I8LYlzfw7UYO5yT+eibbXD2kzpA+D3DwGvfIsY=";
+      sha256 = "sha256-omlUih+Kzf+goCZPJZUWB1qEgxZMR071Dd4XfGsSXqM=";
     });
   };
   tailscale-systray = {
