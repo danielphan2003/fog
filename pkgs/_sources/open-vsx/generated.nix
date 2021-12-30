@@ -4023,10 +4023,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.20.0";
+    version = "0.20.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.20.0/file/antfu.unocss-0.20.0.vsix";
-      sha256 = "sha256-bXnyBPGyoRrhLqj3sTFZ4nikry81HFnAd+06wwsVfp4=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.20.1/file/antfu.unocss-0.20.1.vsix";
+      sha256 = "sha256-S38FrBzv9okrkZVvtmG4M2qRQ87QUzBdPMmOrmDU/X0=";
     };
     name = "unocss";
     license = "MIT";
@@ -6243,10 +6243,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.75.1";
+    version = "0.75.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.75.1/file/dendron.nightly-0.75.1.vsix";
-      sha256 = "sha256-RYdtKEeSV+YjJnAx+bH/cyCEq9B1l5itH4EAzm+CaqM=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.75.2/file/dendron.nightly-0.75.2.vsix";
+      sha256 = "sha256-kIHRfwDauq8vzRt2tRkO7I4RBSQgz4u5FfjgzQ3X46g=";
     };
     name = "nightly";
     license = "AGPL-3.0";
