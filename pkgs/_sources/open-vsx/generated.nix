@@ -5007,10 +5007,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.16";
+    version = "5.6.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.16/file/bringout.f18-klijent-5.6.16.vsix";
-      sha256 = "sha256-xEeODFedw9kx1RNilHjH/n13ZXcZK6PB2wrn31EXQAk=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.17/file/bringout.f18-klijent-5.6.17.vsix";
+      sha256 = "sha256-o+oHMLRHbjtgiz8eyK39mFli9EKNIi0/Ch8JOk/k2NU=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -15543,10 +15543,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.36.6";
+    version = "0.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.36.6/file/tuttieee.emacs-mcx-0.36.6.vsix";
-      sha256 = "sha256-q7UmUjJqH6fb4l+9xpvSy8WnanVFTr+g/2PBkbzOOqQ=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.37.0/file/tuttieee.emacs-mcx-0.37.0.vsix";
+      sha256 = "sha256-Cp21GFsb2KrrJRexHaojydOghaT5rrgyKtE5Ec6mYig=";
     };
     name = "emacs-mcx";
     license = "MIT";
