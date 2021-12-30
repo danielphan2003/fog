@@ -11367,10 +11367,10 @@
   };
   mtsmfm-vscode-jscad-preview = {
     pname = "mtsmfm-vscode-jscad-preview";
-    version = "0.1.0";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.0/file/mtsmfm.vscode-jscad-preview-0.1.0.vsix";
-      sha256 = "sha256-SGx6JOtgLoR6tXvxK4oYK1d4R7cRkolAeW3UEzJwaBE=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.3/file/mtsmfm.vscode-jscad-preview-0.1.3.vsix";
+      sha256 = "sha256-nDGGvpWhK8DjAzFAYHStlVeRlAW6bjgm6WAOfhJOfpE=";
     };
     name = "vscode-jscad-preview";
     license = "MIT";
