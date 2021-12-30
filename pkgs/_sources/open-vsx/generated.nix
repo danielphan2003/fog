@@ -2487,10 +2487,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.459";
+    version = "31.0.460";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.459/file/Prisma.prisma-insider-31.0.459.vsix";
-      sha256 = "sha256-n5GO7xdNM3aeN//gPmMpxE/MG5HW0su2KABKyhmAra0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.460/file/Prisma.prisma-insider-31.0.460.vsix";
+      sha256 = "sha256-DQjy8g0WDmfvFqKthDtl4dJAjyg3Z6oqm79PNFYylBQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9051,10 +9051,10 @@
   };
   johnbillion-vscode-wordpress-hooks = {
     pname = "johnbillion-vscode-wordpress-hooks";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/0.6.0/file/johnbillion.vscode-wordpress-hooks-0.6.0.vsix";
-      sha256 = "sha256-NZK6vR4wL+kWFS15A7fWp5nXsIzrJn99v+kkd1oXoBk=";
+      url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/0.6.1/file/johnbillion.vscode-wordpress-hooks-0.6.1.vsix";
+      sha256 = "sha256-40u7wwgMBeyCslpa/o6oShgZAT1wliH+jzSGgZGuzrQ=";
     };
     name = "vscode-wordpress-hooks";
     license = "GPL-3.0-or-later";
@@ -11367,10 +11367,10 @@
   };
   mtsmfm-vscode-jscad-preview = {
     pname = "mtsmfm-vscode-jscad-preview";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.3/file/mtsmfm.vscode-jscad-preview-0.1.3.vsix";
-      sha256 = "sha256-nDGGvpWhK8DjAzFAYHStlVeRlAW6bjgm6WAOfhJOfpE=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.4/file/mtsmfm.vscode-jscad-preview-0.1.4.vsix";
+      sha256 = "sha256-/QrEeeyhm6T9Pcd5cKq7e0QBA5dSEpUrg7NpaIl4bHU=";
     };
     name = "vscode-jscad-preview";
     license = "MIT";
