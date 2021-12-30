@@ -795,14 +795,14 @@
   };
   snui = {
     pname = "snui";
-    version = "a5897d6406dcf501bbe4f29123c963c6f53dfbd8";
+    version = "68ab4084cc790025c99907610518315d82dbaffd";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "a5897d6406dcf501bbe4f29123c963c6f53dfbd8";
+      rev = "68ab4084cc790025c99907610518315d82dbaffd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gR1/FmqcQYxY6mdUUauKL4DxeuS23jJpm0EGOCglfrM=";
+      sha256 = "sha256-mEnMOoDodXsfWO3G67J/O3L111/uhTy2ZAZDRQCwMKU=";
     };
   };
   spicetify-cli = {
