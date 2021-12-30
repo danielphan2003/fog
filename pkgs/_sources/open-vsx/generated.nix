@@ -11365,6 +11365,18 @@
     publisher = "mtayllan";
     description = "Dark Monokai Theme for VSCode";
   };
+  mtsmfm-vscode-jscad-preview = {
+    pname = "mtsmfm-vscode-jscad-preview";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.0/file/mtsmfm.vscode-jscad-preview-0.1.0.vsix";
+      sha256 = "sha256-SGx6JOtgLoR6tXvxK4oYK1d4R7cRkolAeW3UEzJwaBE=";
+    };
+    name = "vscode-jscad-preview";
+    license = "MIT";
+    publisher = "mtsmfm";
+    description = "";
+  };
   mtsmfm-vscode-k8s-quick-attach = {
     pname = "mtsmfm-vscode-k8s-quick-attach";
     version = "0.5.0";
