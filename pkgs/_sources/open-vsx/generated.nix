@@ -17823,10 +17823,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.5/file/zardoy.better-snippets-0.1.5.vsix";
-      sha256 = "sha256-S7TTqXaYKFoBKg823iLs/Py3C9jaYBkjOl5MsClTaBs=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.6/file/zardoy.better-snippets-0.1.6.vsix";
+      sha256 = "sha256-S8kOpoOJbSEE2w4hphDLZkq+G8dLombmRdDiUfCSunQ=";
     };
     name = "better-snippets";
     license = "MIT";
@@ -17871,10 +17871,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.23";
+    version = "0.0.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.23/file/zardoy.zardoy-experiments-0.0.23.vsix";
-      sha256 = "sha256-8a8oFtnVznThdq3bfL6H4kZy4sdYbia8qcmCVpq1nSs=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.24/file/zardoy.zardoy-experiments-0.0.24.vsix";
+      sha256 = "sha256-K97M4AI0HVfnPnuVw2+xjE/mXLPyqQO34+apAGvCpLs=";
     };
     name = "zardoy-experiments";
     license = "MIT";
