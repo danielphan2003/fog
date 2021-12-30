@@ -4165,6 +4165,18 @@
     publisher = "anweber";
     description = "Monaco Editor with Find enabled";
   };
+  anweber-reveal-button = {
+    pname = "anweber-reveal-button";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/anweber/reveal-button/1.0.0/file/anweber.reveal-button-1.0.0.vsix";
+      sha256 = "sha256-8ggrF0mBujSElmOrOHl86+AVadTHlG4TT3eVo3khBSE=";
+    };
+    name = "reveal-button";
+    license = "MIT";
+    publisher = "anweber";
+    description = "Reveal Button in Sidebar";
+  };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
     version = "2.2.0";
