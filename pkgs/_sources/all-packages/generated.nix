@@ -852,13 +852,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "c0b61756ee30f93d296efc32f018eaf5ace37fbe";
+    version = "94ba069737331c1e3bbe1d936e32d3e3b36e58cf";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "c0b61756ee30f93d296efc32f018eaf5ace37fbe";
+      rev = "94ba069737331c1e3bbe1d936e32d3e3b36e58cf";
       fetchSubmodules = false;
-      sha256 = "sha256-CybAPCUDHulW54x94F0ZRAnhrT4dK175X55ZPmgYxPc=";
+      sha256 = "sha256-6VXvj7Pm+eGKvqAsimbMQ4UdpEfu5PREs5mPctsUojs=";
     });
   };
   sway-borders = {
