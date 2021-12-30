@@ -13647,10 +13647,10 @@
   };
   rvest-vs-code-prettier-eslint = {
     pname = "rvest-vs-code-prettier-eslint";
-    version = "3.0.4";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/3.0.4/file/rvest.vs-code-prettier-eslint-3.0.4.vsix";
-      sha256 = "sha256-ZwLGgt0svsnxJ9zUX40nriLGzFZSy6FXXNbDGdB1D54=";
+      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/3.1.0/file/rvest.vs-code-prettier-eslint-3.1.0.vsix";
+      sha256 = "sha256-Bpfr3CH9lh8zAX6XiNg0yXQ6bV8WOudru9XoccAbFhg=";
     };
     name = "vs-code-prettier-eslint";
     license = "MIT";
