@@ -10743,10 +10743,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.0.5/file/mintlify.document-1.0.5.vsix";
-      sha256 = "sha256-KInOafmEhWK2WwH492W82oBMFu3U+okshMnprGeFkvA=";
+      url = "https://open-vsx.org/api/mintlify/document/1.0.6/file/mintlify.document-1.0.6.vsix";
+      sha256 = "sha256-ZHxCbP7AawrszX9NEtQcRjIoAsZFq+gSOdaypvMuwkA=";
     };
     name = "document";
     license = "";
