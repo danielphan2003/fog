@@ -4167,10 +4167,10 @@
   };
   anweber-reveal-button = {
     pname = "anweber-reveal-button";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/reveal-button/1.0.0/file/anweber.reveal-button-1.0.0.vsix";
-      sha256 = "sha256-8ggrF0mBujSElmOrOHl86+AVadTHlG4TT3eVo3khBSE=";
+      url = "https://open-vsx.org/api/anweber/reveal-button/1.0.1/file/anweber.reveal-button-1.0.1.vsix";
+      sha256 = "sha256-GlhVDwIq1lr3bjPrIFTHeFP22MmnLT6K4nbaQWWRVoU=";
     };
     name = "reveal-button";
     license = "MIT";
