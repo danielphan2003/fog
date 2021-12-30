@@ -10575,10 +10575,10 @@
   };
   meganrogge-template-string-converter = {
     pname = "meganrogge-template-string-converter";
-    version = "0.5.8";
+    version = "0.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.8/file/meganrogge.template-string-converter-0.5.8.vsix";
-      sha256 = "sha256-lvBQxQjtsjot4ooEmPAPiwC1FFQ2RW/TNsZ5SAJBZZc=";
+      url = "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.9/file/meganrogge.template-string-converter-0.5.9.vsix";
+      sha256 = "sha256-tbbPAE2jUsU3AlkUJs8F1+jgqgfRZUC5V9d4LrJAt0U=";
     };
     name = "template-string-converter";
     license = "MIT";
