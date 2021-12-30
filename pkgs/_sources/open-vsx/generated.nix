@@ -15687,10 +15687,10 @@
   };
   unthrottled-doki-theme = {
     pname = "unthrottled-doki-theme";
-    version = "19.0.0";
+    version = "19.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unthrottled/doki-theme/19.0.0/file/unthrottled.doki-theme-19.0.0.vsix";
-      sha256 = "sha256-HZYfsIMlBgbTTCOlb0LwHnr8Y09Fb2zLtnyNCXW1VGc=";
+      url = "https://open-vsx.org/api/unthrottled/doki-theme/19.0.1/file/unthrottled.doki-theme-19.0.1.vsix";
+      sha256 = "sha256-hXzAEBRDKWIz9wChqVkKYUc8jKyysLrwNR94JlyVywg=";
     };
     name = "doki-theme";
     license = "MIT";
@@ -17211,10 +17211,10 @@
   };
   vscord-extension-vscord = {
     pname = "vscord-extension-vscord";
-    version = "4.1.6";
+    version = "4.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscord-extension/vscord/4.1.6/file/vscord-extension.vscord-4.1.6.vsix";
-      sha256 = "sha256-ld0Yfh/n7jhvrMkR2csBJa0ue4KiXsJe87s+hgr/N9I=";
+      url = "https://open-vsx.org/api/vscord-extension/vscord/4.2.0/file/vscord-extension.vscord-4.2.0.vsix";
+      sha256 = "sha256-0BBPJ5zaqN8Hd2QvjWtuxuWwKCOutcaM6jx07oVa15Y=";
     };
     name = "vscord";
     license = "MIT";
