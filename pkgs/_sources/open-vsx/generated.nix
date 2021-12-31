@@ -7695,10 +7695,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.2";
+    version = "2.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.2/file/giscafer.leek-fund-2.0.2.vsix";
-      sha256 = "sha256-8DMpMos5F57kZH4RwmiY/p9HWqB7jDdOwfNqpHbvCOM=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.3/file/giscafer.leek-fund-2.0.3.vsix";
+      sha256 = "sha256-L3c3JuRy9G+fBX24ctEaQdy5bmMNkxcTmhllEvDsVEk=";
     };
     name = "leek-fund";
     license = "MIT";
@@ -10755,10 +10755,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.0.7";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.0.7/file/mintlify.document-1.0.7.vsix";
-      sha256 = "sha256-fyXUB9fxz4VEH5itLB1oJWXeTxvLi1dOtGmESH/AGWA=";
+      url = "https://open-vsx.org/api/mintlify/document/1.1.0/file/mintlify.document-1.1.0.vsix";
+      sha256 = "sha256-TJ5FTk+XeVDbrGP/4Auv0HVZqn2Q27qDtnRkcdhZbcc=";
     };
     name = "document";
     license = "";
