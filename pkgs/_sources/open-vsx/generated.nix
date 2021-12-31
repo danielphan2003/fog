@@ -5847,10 +5847,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.14.6";
+    version = "0.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.14.6/file/cyrusfirheir.twee3-language-tools-0.14.6.vsix";
-      sha256 = "sha256-aGDujYcfyPXoiGBSwWM0v1JL1w9AfJPTKmCm6CwY888=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.0/file/cyrusfirheir.twee3-language-tools-0.15.0.vsix";
+      sha256 = "sha256-z/l+Jn7eadCpC88uElKfb1dgjQoIduoyV25df340PYg=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -14115,10 +14115,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.38";
+    version = "0.0.39";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.38/file/shivaprasanth.dothttp-code-0.0.38.vsix";
-      sha256 = "sha256-rOn1oyEONOCCrnyskJYlObH5wrUAdY/uqOBcc3QRbyc=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.39/file/shivaprasanth.dothttp-code-0.0.39.vsix";
+      sha256 = "sha256-R6jv+myV9DdmAjiLroj0DhgB13H+B0nL+CUAVtgwMzc=";
     };
     name = "dothttp-code";
     license = "Apache-2.0";
