@@ -4863,10 +4863,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.15";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.15/file/bilelmoussaoui.flatpak-vscode-0.0.15.vsix";
-      sha256 = "sha256-UsMYTr5pqzIm3GVakgYYes6AKH9Y9uEM1wNOIT+ZMHY=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.16/file/bilelmoussaoui.flatpak-vscode-0.0.16.vsix";
+      sha256 = "sha256-h+nROHZ3iNZhn66vY/+wPRF3L5C6IIcy/N4kW2yWppw=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -7359,10 +7359,10 @@
   };
   franneck94-c-cpp-runner = {
     pname = "franneck94-c-cpp-runner";
-    version = "2.0.4";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/franneck94/c-cpp-runner/2.0.4/file/franneck94.c-cpp-runner-2.0.4.vsix";
-      sha256 = "sha256-pb4UCVWF52HLogcI9QDSSX+r+SDuSOP+GA4QsQyjqNM=";
+      url = "https://open-vsx.org/api/franneck94/c-cpp-runner/3.0.0/file/franneck94.c-cpp-runner-3.0.0.vsix";
+      sha256 = "sha256-YKEW6nvLLvkxjqZenztcf5zpbMPTqV1NYGVo19Fqv8I=";
     };
     name = "c-cpp-runner";
     license = "MIT";
@@ -7392,6 +7392,18 @@
     license = "MIT";
     publisher = "franneck94";
     description = "Creates all needed config files for simple Python projects.";
+  };
+  franneck94-workspace-formatter = {
+    pname = "franneck94-workspace-formatter";
+    version = "0.1.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/franneck94/workspace-formatter/0.1.5/file/franneck94.workspace-formatter-0.1.5.vsix";
+      sha256 = "sha256-MVotgOfR46njCJj8Vf+l0e2OLnsjPwKd4kbf2BA1EZQ=";
+    };
+    name = "workspace-formatter";
+    license = "MIT";
+    publisher = "franneck94";
+    description = "\128295 Format all your files in a workspace with one click. \128295";
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
