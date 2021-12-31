@@ -11019,10 +11019,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.188";
+    version = "1.1.202";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.188/file/ms-pyright.pyright-1.1.188.vsix";
-      sha256 = "sha256-L2ArDfEKTO0ebZWVvD8E56v7E/lpnthECai7BA/fFzQ=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.202/file/ms-pyright.pyright-1.1.202.vsix";
+      sha256 = "sha256-n/cH2/07udoGGGblWpMhOSss9mMQKfJ4JhKz2n+G05c=";
     };
     name = "pyright";
     license = "MIT";
@@ -17847,10 +17847,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.6/file/zardoy.better-snippets-0.1.6.vsix";
-      sha256 = "sha256-S8kOpoOJbSEE2w4hphDLZkq+G8dLombmRdDiUfCSunQ=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.7/file/zardoy.better-snippets-0.1.7.vsix";
+      sha256 = "sha256-owcJLc5SViVZTTmf+MIOrajN1JmYqaEUC9bqN/8+67U=";
     };
     name = "better-snippets";
     license = "MIT";
