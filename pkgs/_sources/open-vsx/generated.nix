@@ -12673,6 +12673,54 @@
     publisher = "pointless-vscode-publisher";
     description = "Syntax highlighting for the functional language Pointless";
   };
+  pokey-command-server = {
+    pname = "pokey-command-server";
+    version = "0.8.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pokey/command-server/0.8.2/file/pokey.command-server-0.8.2.vsix";
+      sha256 = "sha256-9UZJkSHPuePCpPt1QQcJJ0fx3GRbUguPBvODNExc1SQ=";
+    };
+    name = "command-server";
+    license = "MIT";
+    publisher = "pokey";
+    description = "Exposes a file-based RPC API for running VSCode commands";
+  };
+  pokey-cursorless = {
+    pname = "pokey-cursorless";
+    version = "0.24.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pokey/cursorless/0.24.1/file/pokey.cursorless-0.24.1.vsix";
+      sha256 = "sha256-sUILj9VjnXjuEBBimk9D5dmfFmwA4Ofv1EbrFhoxhDQ=";
+    };
+    name = "cursorless";
+    license = "MIT";
+    publisher = "pokey";
+    description = "Don't let the cursor slow you down";
+  };
+  pokey-parse-tree = {
+    pname = "pokey-parse-tree";
+    version = "0.13.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.13.0/file/pokey.parse-tree-0.13.0.vsix";
+      sha256 = "sha256-AWG2pBYsAYvlLcutrqi1Li212K/zM9AsiqJzxM6vU/g=";
+    };
+    name = "parse-tree";
+    license = "MIT";
+    publisher = "pokey";
+    description = "Access document syntax using tree-sitter";
+  };
+  pokey-talon = {
+    pname = "pokey-talon";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pokey/talon/0.2.0/file/pokey.talon-0.2.0.vsix";
+      sha256 = "sha256-5g4WdYqGI/mF7VXq7zhQbP78ElqkCnn262OHEJoXWXY=";
+    };
+    name = "talon";
+    license = "MIT";
+    publisher = "pokey";
+    description = "Extensions useful for talon";
+  };
   pouya-comment = {
     pname = "pouya-comment";
     version = "7.0.5";
@@ -17907,10 +17955,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.24";
+    version = "0.0.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.24/file/zardoy.zardoy-experiments-0.0.24.vsix";
-      sha256 = "sha256-K97M4AI0HVfnPnuVw2+xjE/mXLPyqQO34+apAGvCpLs=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.25/file/zardoy.zardoy-experiments-0.0.25.vsix";
+      sha256 = "sha256-yUHtpr7vriO5SoiA1cQpiIgo80NH5sKz3SvVAgnSnlg=";
     };
     name = "zardoy-experiments";
     license = "MIT";
