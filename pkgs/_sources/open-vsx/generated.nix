@@ -5427,10 +5427,10 @@
   };
   coderoad-coderoad = {
     pname = "coderoad-coderoad";
-    version = "0.17.3";
+    version = "0.17.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/coderoad/coderoad/0.17.3/file/coderoad.coderoad-0.17.3.vsix";
-      sha256 = "sha256-QPOqq1Aow5qTt2DiT83TUepKh5QIBz7r9sLCEd0G40M=";
+      url = "https://open-vsx.org/api/coderoad/coderoad/0.17.4/file/coderoad.coderoad-0.17.4.vsix";
+      sha256 = "sha256-vk/2XNdrE11q0If9v8gaK3nxVck5Ss8IfcEA7+351Vo=";
     };
     name = "coderoad";
     license = "AGPL-3.0";
