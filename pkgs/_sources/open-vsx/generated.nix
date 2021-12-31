@@ -4863,10 +4863,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.14/file/bilelmoussaoui.flatpak-vscode-0.0.14.vsix";
-      sha256 = "sha256-I2nay1zZCZayp1gPh1uAS/VUImCklU6q+VhwyrlRHMQ=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.15/file/bilelmoussaoui.flatpak-vscode-0.0.15.vsix";
+      sha256 = "sha256-UsMYTr5pqzIm3GVakgYYes6AKH9Y9uEM1wNOIT+ZMHY=";
     };
     name = "flatpak-vscode";
     license = "MIT";
