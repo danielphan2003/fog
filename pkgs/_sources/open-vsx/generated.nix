@@ -11379,10 +11379,10 @@
   };
   mtsmfm-vscode-jscad-preview = {
     pname = "mtsmfm-vscode-jscad-preview";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.4/file/mtsmfm.vscode-jscad-preview-0.1.4.vsix";
-      sha256 = "sha256-/QrEeeyhm6T9Pcd5cKq7e0QBA5dSEpUrg7NpaIl4bHU=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.1.5/file/mtsmfm.vscode-jscad-preview-0.1.5.vsix";
+      sha256 = "sha256-EiyPUtx0gfAIeZTTfuLvtOuEAySRkF9qAiGHIzUyzVc=";
     };
     name = "vscode-jscad-preview";
     license = "MIT";
@@ -11391,10 +11391,10 @@
   };
   mtsmfm-vscode-k8s-quick-attach = {
     pname = "mtsmfm-vscode-k8s-quick-attach";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.5.0/file/mtsmfm.vscode-k8s-quick-attach-0.5.0.vsix";
-      sha256 = "sha256-hL3PnYKxQP+LJy9I6APnTKytioQuBN4B+1ib3S6WskU=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.6.0/file/mtsmfm.vscode-k8s-quick-attach-0.6.0.vsix";
+      sha256 = "sha256-0PIoc89/rw0rc8szE8xeAhe2PJYWB0G+Pgo7GPWqO+k=";
     };
     name = "vscode-k8s-quick-attach";
     license = "MIT";
@@ -12135,10 +12135,10 @@
   };
   oraichain-cosmwasm = {
     pname = "oraichain-cosmwasm";
-    version = "0.13.39";
+    version = "0.13.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm/0.13.39/file/oraichain.cosmwasm-0.13.39.vsix";
-      sha256 = "sha256-zr1IeQtY5r7hxSYFjTZlEUBcaX9i6qF6Ju0p2zzjDuM=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm/0.13.40/file/oraichain.cosmwasm-0.13.40.vsix";
+      sha256 = "sha256-USJMco7JAD7KiuLM2FIINmfGOWelJLAevcyajLSPWk8=";
     };
     name = "cosmwasm";
     license = "MIT OR Apache-2.0";
