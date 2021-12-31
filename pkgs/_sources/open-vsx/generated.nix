@@ -10431,10 +10431,10 @@
   };
   mauricioszabo-clover = {
     pname = "mauricioszabo-clover";
-    version = "0.2.6";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mauricioszabo/clover/0.2.6/file/mauricioszabo.clover-0.2.6.vsix";
-      sha256 = "sha256-rhnbfElmcsOXVXvw24tuWBpMDSgxCIdqXapi8YO73qM=";
+      url = "https://open-vsx.org/api/mauricioszabo/clover/0.2.8/file/mauricioszabo.clover-0.2.8.vsix";
+      sha256 = "sha256-qUzJjZVIQWv42Xh6A2ECRAOxjYrj86/Yuke2KBrhobY=";
     };
     name = "clover";
     license = "MIT";
