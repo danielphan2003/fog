@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "493e0d8801784753248566944dc9cc99405c0fb3";
+    version = "d412d25509daa33a5d459dba1550969983fbc404";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "493e0d8801784753248566944dc9cc99405c0fb3";
+      rev = "d412d25509daa33a5d459dba1550969983fbc404";
       fetchSubmodules = false;
-      sha256 = "sha256-m57BFdTk1Lrn6he8uvImq+9BKuM0fKbBEJ4nhxpuakQ=";
+      sha256 = "sha256-QeLjs8r1N8Gh1ho+DX847XuYcdnMp6twqZgGCIqeiMg=";
     });
   };
   flyingfox = {
@@ -1024,13 +1024,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "b56ce631bde5f0698c7be4287d2a6f94732295c2";
+    version = "023bc95812187f01d472473d15cdb126f70af6a2";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "b56ce631bde5f0698c7be4287d2a6f94732295c2";
+      rev = "023bc95812187f01d472473d15cdb126f70af6a2";
       fetchSubmodules = false;
-      sha256 = "sha256-teBV2413Bk0YFBakaT42HypjhCKsfV4ySGK5do22pYY=";
+      sha256 = "sha256-2tVfIRNIp8gykxgM5OaAFxeRjyFKceY9+fyml6OuyDw=";
     });
   };
   whitesur-icon-theme = {
