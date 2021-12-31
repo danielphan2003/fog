@@ -4863,10 +4863,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.13/file/bilelmoussaoui.flatpak-vscode-0.0.13.vsix";
-      sha256 = "sha256-fxtW9hJfT9s4b3XDArWFckyeHLStDCmPT+CvCp+iIqk=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.14/file/bilelmoussaoui.flatpak-vscode-0.0.14.vsix";
+      sha256 = "sha256-I2nay1zZCZayp1gPh1uAS/VUImCklU6q+VhwyrlRHMQ=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -6255,10 +6255,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.75.2";
+    version = "0.75.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.75.2/file/dendron.nightly-0.75.2.vsix";
-      sha256 = "sha256-kIHRfwDauq8vzRt2tRkO7I4RBSQgz4u5FfjgzQ3X46g=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.75.3/file/dendron.nightly-0.75.3.vsix";
+      sha256 = "sha256-xpr6CmwuvCAbCenPLH/Od+K2K/49xQTQqvJV1bVinNQ=";
     };
     name = "nightly";
     license = "AGPL-3.0";
