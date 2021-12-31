@@ -12123,10 +12123,10 @@
   };
   opensumi-opensumi-default-themes = {
     pname = "opensumi-opensumi-default-themes";
-    version = "2.5.4";
+    version = "2.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/opensumi/opensumi-default-themes/2.5.4/file/opensumi.opensumi-default-themes-2.5.4.vsix";
-      sha256 = "sha256-tp3hTmyYs2yQm1ztr/GT06N/X1vLme1kpLEtCRnF5zg=";
+      url = "https://open-vsx.org/api/opensumi/opensumi-default-themes/2.5.5/file/opensumi.opensumi-default-themes-2.5.5.vsix";
+      sha256 = "sha256-IFcVfpOvN4Ss2e2e5suMGGh+iKj6wwAIiPmDvsESKEA=";
     };
     name = "opensumi-default-themes";
     license = "MIT";
