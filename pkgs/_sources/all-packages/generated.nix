@@ -172,13 +172,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "53f3a0e63d45ce90bcb7c36a441f3ceeaffb214a";
+    version = "916e84e798989893cb3a2c35402f32b01264dd78";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "53f3a0e63d45ce90bcb7c36a441f3ceeaffb214a";
+      rev = "916e84e798989893cb3a2c35402f32b01264dd78";
       fetchSubmodules = false;
-      sha256 = "sha256-XefitjRwvXOIL9DsaN4xgkyObBcBWcZSwTuPJmeG734=";
+      sha256 = "sha256-bN3sj97KlYpjWLp9/msZYWkXfNR/xwGmkqggVcIfxZI=";
     });
   };
   doggo = {
@@ -194,13 +194,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "13186767e8790a6bfb8502da1846fc800029150e";
+    version = "bc200bfef6ba52ff21078ae3b1acd1eb58c4d104";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "13186767e8790a6bfb8502da1846fc800029150e";
+      rev = "bc200bfef6ba52ff21078ae3b1acd1eb58c4d104";
       fetchSubmodules = false;
-      sha256 = "sha256-FgzHcQG7zMuYamrgdMJYCnCB0smHmpSMEDkvErAo7zc=";
+      sha256 = "sha256-AKcfS3ul5vrRU18spW9dxb7S2Lud3fru7PCq4homNiI=";
     });
   };
   droidcam = {
