@@ -12687,15 +12687,15 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.24.1";
+    version = "0.24.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.24.1/file/pokey.cursorless-0.24.1.vsix";
-      sha256 = "sha256-sUILj9VjnXjuEBBimk9D5dmfFmwA4Ofv1EbrFhoxhDQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.24.2/file/pokey.cursorless-0.24.2.vsix";
+      sha256 = "sha256-rqEy1JcNiA396p9dEZCGLQTzeoBvK60ey6hYcHBIdnA=";
     };
     name = "cursorless";
     license = "MIT";
     publisher = "pokey";
-    description = "Don't let the cursor slow you down";
+    description = "Structural voice coding at the speed of thought";
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
@@ -17964,6 +17964,18 @@
     license = "MIT";
     publisher = "zardoy";
     description = "THE FASTEST way to switch between cloned GitHub repos";
+  };
+  zardoy-vscode-terminal-code-runner = {
+    pname = "zardoy-vscode-terminal-code-runner";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/vscode-terminal-code-runner/0.0.1/file/zardoy.vscode-terminal-code-runner-0.0.1.vsix";
+      sha256 = "sha256-GfYinPDSaXOFuZ/EOGxI7SnjGxW7JhAJ98Bz+ibwN+M=";
+    };
+    name = "vscode-terminal-code-runner";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "";
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
