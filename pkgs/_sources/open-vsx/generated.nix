@@ -15531,10 +15531,10 @@
   };
   torn4dom4n-latex-support = {
     pname = "torn4dom4n-latex-support";
-    version = "3.10.0";
+    version = "4.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/torn4dom4n/latex-support/3.10.0/file/torn4dom4n.latex-support-3.10.0.vsix";
-      sha256 = "sha256-kPhe102Lwcz4yelfxSj+n+Dob9fwoyZPYsUIupOrw8w=";
+      url = "https://open-vsx.org/api/torn4dom4n/latex-support/4.0.0/file/torn4dom4n.latex-support-4.0.0.vsix";
+      sha256 = "sha256-R0lEBy5UQn00ZiAt+Us6WXdPV94os1p14EiOoFBHNuw=";
     };
     name = "latex-support";
     license = "MIT";
@@ -15627,10 +15627,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.37.0";
+    version = "0.37.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.37.0/file/tuttieee.emacs-mcx-0.37.0.vsix";
-      sha256 = "sha256-Cp21GFsb2KrrJRexHaojydOghaT5rrgyKtE5Ec6mYig=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.37.1/file/tuttieee.emacs-mcx-0.37.1.vsix";
+      sha256 = "sha256-gVT0umq+iumSDXmppgK74JVnT85Kyx08pzIlUJOoAOg=";
     };
     name = "emacs-mcx";
     license = "MIT";
