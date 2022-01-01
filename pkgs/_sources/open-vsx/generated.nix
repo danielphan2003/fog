@@ -5019,10 +5019,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.17";
+    version = "5.6.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.17/file/bringout.f18-klijent-5.6.17.vsix";
-      sha256 = "sha256-o+oHMLRHbjtgiz8eyK39mFli9EKNIi0/Ch8JOk/k2NU=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.18/file/bringout.f18-klijent-5.6.18.vsix";
+      sha256 = "sha256-DU8BOtv0NVzOAGsTEOnzHDBot5rZZxCjsFeTPxKeMz0=";
     };
     name = "f18-klijent";
     license = "MIT";
