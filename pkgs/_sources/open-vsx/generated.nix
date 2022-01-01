@@ -4167,10 +4167,10 @@
   };
   anweber-reveal-button = {
     pname = "anweber-reveal-button";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/reveal-button/1.0.1/file/anweber.reveal-button-1.0.1.vsix";
-      sha256 = "sha256-GlhVDwIq1lr3bjPrIFTHeFP22MmnLT6K4nbaQWWRVoU=";
+      url = "https://open-vsx.org/api/anweber/reveal-button/1.0.2/file/anweber.reveal-button-1.0.2.vsix";
+      sha256 = "sha256-mIYnbDWZkBLttFXQPDlD8N9Fvp1hVT955rVvDhpv2BU=";
     };
     name = "reveal-button";
     license = "MIT";
@@ -6675,22 +6675,22 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "5.8.0";
+    version = "5.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/5.8.0/file/eliostruyf.vscode-front-matter-5.8.0.vsix";
-      sha256 = "sha256-QvhrbOUelMYnApspFCgcMB3f3zJc7REWLqyU5zCaIZQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/5.9.0/file/eliostruyf.vscode-front-matter-5.9.0.vsix";
+      sha256 = "sha256-9E8UQBoc9FQcaTU1RCQpKvnFw/hXWmnfU0pNliv2gI4=";
     };
     name = "vscode-front-matter";
     license = "MIT";
     publisher = "eliostruyf";
-    description = "An essential Visual Studio Code extension when you want to manage the markdown pages of your static site like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...";
+    description = "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...";
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "5.9.1634957";
+    version = "5.9.1644250";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.9.1634957/file/eliostruyf.vscode-front-matter-beta-5.9.1634957.vsix";
-      sha256 = "sha256-4tSlErgG6N5gILmjmY+074OOGkhhilYo0DPckmbqHcY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.9.1644250/file/eliostruyf.vscode-front-matter-beta-5.9.1644250.vsix";
+      sha256 = "sha256-VdK9MzlbQmarQa2sKp444WFpWxvBjcYiFef2pqZVeoo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
