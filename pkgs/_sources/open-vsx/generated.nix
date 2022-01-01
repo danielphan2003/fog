@@ -6255,10 +6255,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.75.3";
+    version = "0.75.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.75.3/file/dendron.nightly-0.75.3.vsix";
-      sha256 = "sha256-xpr6CmwuvCAbCenPLH/Od+K2K/49xQTQqvJV1bVinNQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.75.4/file/dendron.nightly-0.75.4.vsix";
+      sha256 = "sha256-gVT5xCMtlVNNR1B0ygD6syzyhoFWoM919F9xJ6U9Diw=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -12996,6 +12996,18 @@
     license = "MIT";
     publisher = "raidou";
     description = "Calculate extension for vscode";
+  };
+  razetime-bqn-language = {
+    pname = "razetime-bqn-language";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/razetime/bqn-language/0.0.2/file/razetime.bqn-language-0.0.2.vsix";
+      sha256 = "sha256-FXL4T4F/3hP1djjhZCGhTqbLwt5XJQsSSOrek91BWk8=";
+    };
+    name = "bqn-language";
+    license = "MIT";
+    publisher = "razetime";
+    description = "BQN array programming language support, backslash completion, snippets and code execution";
   };
   rbozan-vscode-lsp-translations = {
     pname = "rbozan-vscode-lsp-translations";
