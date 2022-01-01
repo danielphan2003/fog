@@ -17919,10 +17919,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.8";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.8/file/zardoy.better-snippets-0.1.8.vsix";
-      sha256 = "sha256-C0L2DITUv4aTPREITzkXYVjgmNJH1KMPsK3Tsv9uSqs=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.9/file/zardoy.better-snippets-0.1.9.vsix";
+      sha256 = "sha256-NEJp+v+QBcVbLOy/+RXg9MKADDWEYioXQh8YqgRthu4=";
     };
     name = "better-snippets";
     license = "MIT";
