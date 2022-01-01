@@ -10575,10 +10575,10 @@
   };
   mechatroner-rainbow-csv = {
     pname = "mechatroner-rainbow-csv";
-    version = "1.7.1";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mechatroner/rainbow-csv/1.7.1/file/mechatroner.rainbow-csv-1.7.1.vsix";
-      sha256 = "sha256-0I0r9leY4BXcJJGRgULcm6jbwLt8qboKyrix50WVawg=";
+      url = "https://open-vsx.org/api/mechatroner/rainbow-csv/2.0.0/file/mechatroner.rainbow-csv-2.0.0.vsix";
+      sha256 = "sha256-7gp6x3DE3RT4D21avhs4X1s5MannZiKCtLSSe4+uGOo=";
     };
     name = "rainbow-csv";
     license = "MIT";
