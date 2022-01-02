@@ -341,10 +341,10 @@
   };
   lithium-1_18_1 = {
     pname = "lithium-1_18_1";
-    version = "0.7.6";
+    version = "0.7.7";
     src = fetchurl {
-      url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar";
-      sha256 = "sha256-x1H0QnqGnHZ+42qofrVHcBQ8FAjo+FyXiWSjU96Mgbs=";
+      url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar";
+      sha256 = "sha256-wrMZrVdS8VFuIwdwxS0wg9wUgH6PWsPdSRNW0KK8gYw=";
     };
     modId = "gvQqBUqZ";
     mcVer = "1.18.1";
