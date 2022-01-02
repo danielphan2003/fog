@@ -10189,6 +10189,18 @@
     publisher = "lukinco";
     description = "A minimal, ultra-dark and vibrant theme for VS Code.";
   };
+  madeindjs-markdown-move = {
+    pname = "madeindjs-markdown-move";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/madeindjs/markdown-move/0.0.2/file/madeindjs.markdown-move-0.0.2.vsix";
+      sha256 = "sha256-QYdMT1ProsuEDg1hXbWsiURA+EV3Q9//b4gZEJQ7osI=";
+    };
+    name = "markdown-move";
+    license = "MIT";
+    publisher = "madeindjs";
+    description = "Move section of you Markdown file";
+  };
   madeindjs-notable = {
     pname = "madeindjs-notable";
     version = "0.2.0";
