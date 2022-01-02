@@ -11737,6 +11737,18 @@
     publisher = "nerosiar";
     description = "Dark Theme With Syntax Highlighter!";
   };
+  netanelgilad-opah = {
+    pname = "netanelgilad-opah";
+    version = "0.0.238";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/netanelgilad/opah/0.0.238/file/netanelgilad.opah-0.0.238.vsix";
+      sha256 = "sha256-brCV14dF2q4RE+eNxC8OuIt/m46Dk57FWkS/T54q0F8=";
+    };
+    name = "opah";
+    license = "MIT";
+    publisher = "netanelgilad";
+    description = "Opah support for VS code";
+  };
   networkteam-neos-fusion = {
     pname = "networkteam-neos-fusion";
     version = "1.0.6";
@@ -17880,6 +17892,18 @@
     license = "MIT";
     publisher = "yurihs";
     description = "Light in the sidebar; dark everywhere else. Just like Sublime Text!";
+  };
+  yuyichao-digitaljs = {
+    pname = "yuyichao-digitaljs";
+    version = "0.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.0.5/file/yuyichao.digitaljs-0.0.5.vsix";
+      sha256 = "sha256-WtvkpntMqgcpEUTA6938fAYvITzHC+FscF3EcbZ3sFE=";
+    };
+    name = "digitaljs";
+    license = "BSD-2-Clause";
+    publisher = "yuyichao";
+    description = "DigitalJS integration for VS Code";
   };
   yzane-markdown-pdf = {
     pname = "yzane-markdown-pdf";
