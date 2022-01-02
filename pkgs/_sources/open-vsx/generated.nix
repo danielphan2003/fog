@@ -639,10 +639,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.29.0";
+    version = "3.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.29.0/file/Dart-Code.dart-code-3.29.0.vsix";
-      sha256 = "sha256-8Mnaz2bt3MV59/hRdsRSsDlW/lJ9B8KlC/uPbJiu7nY=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.32.0/file/Dart-Code.dart-code-3.32.0.vsix";
+      sha256 = "sha256-Qg4fesDfPF8Zq2UPiqGQTN9qAtnB6BAOrCG/CPtiTMY=";
     };
     name = "dart-code";
     license = "MIT";
@@ -651,10 +651,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.29.0";
+    version = "3.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.29.0/file/Dart-Code.flutter-3.29.0.vsix";
-      sha256 = "sha256-NK3hnh6ujKDwiXoBTkd/2W425nCrbqkDFBz8XGzMAAs=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.32.0/file/Dart-Code.flutter-3.32.0.vsix";
+      sha256 = "sha256-YqJiD5Bj499Cwq9PrzminK/M4sK8Vo/+awSns6P0e3o=";
     };
     name = "flutter";
     license = "MIT";
