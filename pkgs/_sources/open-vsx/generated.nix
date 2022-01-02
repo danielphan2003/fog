@@ -819,10 +819,10 @@
   };
   Elmtooling-elm-ls-vscode = {
     pname = "Elmtooling-elm-ls-vscode";
-    version = "2.3.0";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.3.0/file/Elmtooling.elm-ls-vscode-2.3.0.vsix";
-      sha256 = "sha256-SaoK0/CKPHeTIU4Uws/qdHSJrM7mJpH9wDeMr6yYs+s=";
+      url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.4.0/file/Elmtooling.elm-ls-vscode-2.4.0.vsix";
+      sha256 = "sha256-llXnA5+PS4kVglCguxw7b/8TIdjLgnGVJdCYVaD2Pnw=";
     };
     name = "elm-ls-vscode";
     license = "MIT";
@@ -5847,10 +5847,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.15.0";
+    version = "0.15.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.0/file/cyrusfirheir.twee3-language-tools-0.15.0.vsix";
-      sha256 = "sha256-z/l+Jn7eadCpC88uElKfb1dgjQoIduoyV25df340PYg=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.1/file/cyrusfirheir.twee3-language-tools-0.15.1.vsix";
+      sha256 = "sha256-lnAnLS+8RyXNrk8ye6SQZRYpQ4Fa2eAf51DhKWDQvws=";
     };
     name = "twee3-language-tools";
     license = "MIT";
