@@ -14247,10 +14247,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.8.6";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.8.6/file/shufo.vscode-blade-formatter-0.8.6.vsix";
-      sha256 = "sha256-7aN6CsmiXQVHJN1WuMHHoxv26WjWCpsklsRnHn1Tka4=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.9.0/file/shufo.vscode-blade-formatter-0.9.0.vsix";
+      sha256 = "sha256-tzYSA3wgOY2DAahHZiRZj7r96g0rw4nywTRIkDK1sBk=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -17979,10 +17979,10 @@
   };
   zardoy-fix-all-json = {
     pname = "zardoy-fix-all-json";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.3/file/zardoy.fix-all-json-0.0.3.vsix";
-      sha256 = "sha256-zXX/QGiBgC+mRfwqcfMU8+9PQZx5UTEk1kKSdpCQjmw=";
+      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.4/file/zardoy.fix-all-json-0.0.4.vsix";
+      sha256 = "sha256-RHKzi0mEWLufeTlHpSSLWQLhPnXIqcmMF5nCqCamFMs=";
     };
     name = "fix-all-json";
     license = "MIT";
@@ -18000,6 +18000,18 @@
     license = "MIT";
     publisher = "zardoy";
     description = "THE FASTEST way to switch between cloned GitHub repos";
+  };
+  zardoy-terminal-code-runner = {
+    pname = "zardoy-terminal-code-runner";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/terminal-code-runner/0.1.1/file/zardoy.terminal-code-runner-0.1.1.vsix";
+      sha256 = "sha256-ykyt2J2vmH5CJ9XopBSUBQ5yotXRPlFn7rC25+pSCco=";
+    };
+    name = "terminal-code-runner";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "";
   };
   zardoy-vscode-terminal-code-runner = {
     pname = "zardoy-vscode-terminal-code-runner";
