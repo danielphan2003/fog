@@ -702,16 +702,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "cedc384ba1678ea44d43a6768667e63a4bbfe62f";
+    version = "40730cbbae816f4c58736a6707a8eb5894a55e04";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "cedc384ba1678ea44d43a6768667e63a4bbfe62f";
+      rev = "40730cbbae816f4c58736a6707a8eb5894a55e04";
       fetchSubmodules = false;
-      sha256 = "sha256-1BhVfXjtoN+yGwI1UFNXkqfmv+V62mohQQJZm9RJnig=";
+      sha256 = "sha256-Zr0jy6283ucnI7qq/KX/eX4g0n2b7C5SNc0axwqC/DY=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-cedc384ba1678ea44d43a6768667e63a4bbfe62f/Cargo.lock;
+      lockFile = ./rustdesk-40730cbbae816f4c58736a6707a8eb5894a55e04/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -852,13 +852,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "94ba069737331c1e3bbe1d936e32d3e3b36e58cf";
+    version = "013bda068c475d491d84ac514b511459f49dbc25";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "94ba069737331c1e3bbe1d936e32d3e3b36e58cf";
+      rev = "013bda068c475d491d84ac514b511459f49dbc25";
       fetchSubmodules = false;
-      sha256 = "sha256-6VXvj7Pm+eGKvqAsimbMQ4UdpEfu5PREs5mPctsUojs=";
+      sha256 = "sha256-RsX9vWKliGq6IVtR2E1UznAyi8uILeUNR+pJ0nzFAmA=";
     });
   };
   sway-borders = {
