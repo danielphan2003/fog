@@ -17955,10 +17955,10 @@
   };
   zardoy-github-manager = {
     pname = "zardoy-github-manager";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/github-manager/0.0.3/file/zardoy.github-manager-0.0.3.vsix";
-      sha256 = "sha256-+0fiAcnDthHSTpZ0Sucd0SagZ46oaFIjGCll+dOtVQE=";
+      url = "https://open-vsx.org/api/zardoy/github-manager/0.0.4/file/zardoy.github-manager-0.0.4.vsix";
+      sha256 = "sha256-+NHld6XxiQ6Eq2jQT5bNS0cHwBA6JwByTIlJGC+dyjU=";
     };
     name = "github-manager";
     license = "MIT";
