@@ -11031,10 +11031,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.202";
+    version = "1.1.203";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.202/file/ms-pyright.pyright-1.1.202.vsix";
-      sha256 = "sha256-n/cH2/07udoGGGblWpMhOSss9mMQKfJ4JhKz2n+G05c=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.203/file/ms-pyright.pyright-1.1.203.vsix";
+      sha256 = "sha256-YenOzd+CcPs4iaKhKqaLGMSQ1tCVGN5zZOYkeyA+Cyo=";
     };
     name = "pyright";
     license = "MIT";
@@ -12039,10 +12039,10 @@
   };
   onecentlin-laravel-blade = {
     pname = "onecentlin-laravel-blade";
-    version = "1.28.0";
+    version = "1.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.28.0/file/onecentlin.laravel-blade-1.28.0.vsix";
-      sha256 = "sha256-imCfzynuhgyCZWbqTnirL2XWp+WefehpkWrnXEujRG0=";
+      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.29.0/file/onecentlin.laravel-blade-1.29.0.vsix";
+      sha256 = "sha256-eM5L0O3vCpXer9+KHaa6X29SKk+IVEhCSpwQLp3pRDE=";
     };
     name = "laravel-blade";
     license = "MIT";
