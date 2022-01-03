@@ -2487,10 +2487,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.462";
+    version = "31.0.464";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.462/file/Prisma.prisma-insider-31.0.462.vsix";
-      sha256 = "sha256-3gpikrv0lKLUjT7u3XKq7pBVmwjbf15r5FyPx5+io3M=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.464/file/Prisma.prisma-insider-31.0.464.vsix";
+      sha256 = "sha256-oVxbp9gfsae/0ZhHVKJUYs94ygIhLTKfGDYyeoBMpUo=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -10467,10 +10467,10 @@
   };
   maximedenes-vscoq = {
     pname = "maximedenes-vscoq";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/maximedenes/vscoq/0.3.5/file/maximedenes.vscoq-0.3.5.vsix";
-      sha256 = "sha256-KQ4a9x1aj4lp395QfEiiE0ClQZTt9H+JZ1AqHqNEOAA=";
+      url = "https://open-vsx.org/api/maximedenes/vscoq/0.3.6/file/maximedenes.vscoq-0.3.6.vsix";
+      sha256 = "sha256-hPahpm5IFDpotEZacrhGiyZRFofXxVR0X/AXPBRjiog=";
     };
     name = "vscoq";
     license = "MIT";
