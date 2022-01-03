@@ -2775,10 +2775,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2021.12.2818";
+    version = "2022.1.220";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2021.12.2818/file/SixtyFPS.sixtyfps-vscode-nightly-2021.12.2818.vsix";
-      sha256 = "sha256-amqiXk1u1i50xZxg0lPekTPiEEwUjsF/toWkiG4OjRY=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.220/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.220.vsix";
+      sha256 = "sha256-euDU9O9Zgr29zNE6VDS0wv5x/1/Xkjdnvb/yiTtKp3o=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -18099,10 +18099,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.8";
+    version = "3.13.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.8/file/zhuangtongfa.material-theme-3.13.8.vsix";
-      sha256 = "sha256-+JoRByOdkBTbL5ZWJOdngeep/xvobNSHXg6XhlMjz9k=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.9/file/zhuangtongfa.material-theme-3.13.9.vsix";
+      sha256 = "sha256-oGR/SIoDBZVPD/1mEiHdSbMHH36nY860X5VbFKb54I8=";
     };
     name = "material-theme";
     license = "MIT";
