@@ -231,10 +231,10 @@
   };
   BroadcomMFD-code4z-extension-pack = {
     pname = "BroadcomMFD-code4z-extension-pack";
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/code4z-extension-pack/1.2.2/file/BroadcomMFD.code4z-extension-pack-1.2.2.vsix";
-      sha256 = "sha256-YD9E0lSRc4vYz+AcyWHpSyywzcSP+wghv+UjXXI16XE=";
+      url = "https://open-vsx.org/api/BroadcomMFD/code4z-extension-pack/1.2.3/file/BroadcomMFD.code4z-extension-pack-1.2.3.vsix";
+      sha256 = "sha256-WHOjZ+u4St+b4b4Ts9Ha8BC1yXygPAKkf/GM/ZwaBpU=";
     };
     name = "code4z-extension-pack";
     license = "";
@@ -2487,10 +2487,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.468";
+    version = "31.0.469";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.468/file/Prisma.prisma-insider-31.0.468.vsix";
-      sha256 = "sha256-yRCLI1iGzxqzvZ6uKOaONpiSAp2rf/PIdwTmr50OQDc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.469/file/Prisma.prisma-insider-31.0.469.vsix";
+      sha256 = "sha256-QHkI3STiwZmguY/eRA3HNftc0vQRqnENoxECpIj+CqM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9243,10 +9243,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.41";
+    version = "0.16.42";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.41/file/jroesch.lean-0.16.41.vsix";
-      sha256 = "sha256-PGD8McwQAF3QzKdf3K+qwGPmMDrPDmMU2ZBeKOdv2Fo=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.42/file/jroesch.lean-0.16.42.vsix";
+      sha256 = "sha256-wQ1gNaBCZFUmBE6hAkeLIKa7cN9LYFPBQwD7oij08Y8=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -12483,10 +12483,10 @@
   };
   piersdeseilligny-betterfountain = {
     pname = "piersdeseilligny-betterfountain";
-    version = "1.8.11";
+    version = "1.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piersdeseilligny/betterfountain/1.8.11/file/piersdeseilligny.betterfountain-1.8.11.vsix";
-      sha256 = "sha256-j0fBhAnUfqHmJQ5JfJuuNwWHqfbNZUbn8VrG0+g0g2w=";
+      url = "https://open-vsx.org/api/piersdeseilligny/betterfountain/1.9.0/file/piersdeseilligny.betterfountain-1.9.0.vsix";
+      sha256 = "sha256-+x5MEApJhKC1SB1e5VxLDneG+gbI6JMzpagwUjlMDGA=";
     };
     name = "betterfountain";
     license = "MIT";
