@@ -8835,10 +8835,10 @@
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.4/file/jamestiotio.compstruct-vscode-0.2.4.vsix";
-      sha256 = "sha256-fes01PgtyjnSRDq9++dawzZQ3oXwlrAtdIYPoD5McUU=";
+      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.5/file/jamestiotio.compstruct-vscode-0.2.5.vsix";
+      sha256 = "sha256-lcsLI52yTPreIkkwIrdkrIuBbxsUY4VI/ZPDbDh+2w4=";
     };
     name = "compstruct-vscode";
     license = "MIT";
