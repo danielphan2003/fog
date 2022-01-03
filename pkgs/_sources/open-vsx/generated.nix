@@ -7647,10 +7647,10 @@
   };
   getpsalm-psalm-vscode-plugin = {
     pname = "getpsalm-psalm-vscode-plugin";
-    version = "2.4.0";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.4.0/file/getpsalm.psalm-vscode-plugin-2.4.0.vsix";
-      sha256 = "sha256-+uni5uD1figUeijg13jjuraaBaWyDlDiQDs72m9OewI=";
+      url = "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.5.0/file/getpsalm.psalm-vscode-plugin-2.5.0.vsix";
+      sha256 = "sha256-htWVMC7fXtt+W4fPTzNAeAFRKB1KTEFGAkfPgdNnfZ8=";
     };
     name = "psalm-vscode-plugin";
     license = "MIT";
