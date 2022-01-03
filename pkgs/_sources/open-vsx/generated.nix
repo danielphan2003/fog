@@ -2487,10 +2487,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.460";
+    version = "31.0.462";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.460/file/Prisma.prisma-insider-31.0.460.vsix";
-      sha256 = "sha256-DQjy8g0WDmfvFqKthDtl4dJAjyg3Z6oqm79PNFYylBQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.462/file/Prisma.prisma-insider-31.0.462.vsix";
+      sha256 = "sha256-3gpikrv0lKLUjT7u3XKq7pBVmwjbf15r5FyPx5+io3M=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4023,10 +4023,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.20.2";
+    version = "0.20.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.20.2/file/antfu.unocss-0.20.2.vsix";
-      sha256 = "sha256-6+288rVnnZpEM1ZBBbhctvq2aENAn7iYHPUUYIBTZNY=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.20.4/file/antfu.unocss-0.20.4.vsix";
+      sha256 = "sha256-9v1Fah1Y6mxKsNtfp7BbBBwh7LWtNwbtCcLWEVqvilw=";
     };
     name = "unocss";
     license = "MIT";
@@ -15519,10 +15519,10 @@
   };
   tomi-xasnippets = {
     pname = "tomi-xasnippets";
-    version = "2.10.1";
+    version = "2.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tomi/xasnippets/2.10.1/file/tomi.xasnippets-2.10.1.vsix";
-      sha256 = "sha256-iVD1ZcufZRALbCisGosn3vRPBoKmuVkaW1nyL47isaA=";
+      url = "https://open-vsx.org/api/tomi/xasnippets/2.11.0/file/tomi.xasnippets-2.11.0.vsix";
+      sha256 = "sha256-X7nzq6sWdcWD77wNtV15wuGdPC07nJdDLKHjxC4tC/k=";
     };
     name = "xasnippets";
     license = "ISC";
