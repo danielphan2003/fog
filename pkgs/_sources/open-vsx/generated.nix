@@ -2487,10 +2487,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.464";
+    version = "31.0.467";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.464/file/Prisma.prisma-insider-31.0.464.vsix";
-      sha256 = "sha256-oVxbp9gfsae/0ZhHVKJUYs94ygIhLTKfGDYyeoBMpUo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.467/file/Prisma.prisma-insider-31.0.467.vsix";
+      sha256 = "sha256-awf9vVYCfk9/8//eP9oRzbIj4g4nE8AsBpXV3UKVmIE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4179,10 +4179,10 @@
   };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.2.0/file/anweber.statusbar-commands-2.2.0.vsix";
-      sha256 = "sha256-cKgWL8f+VF4Tu2tgMvyTiY9BkeDYJf96IXjkP9GpZUs=";
+      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.2.1/file/anweber.statusbar-commands-2.2.1.vsix";
+      sha256 = "sha256-W/+z1IfQ+goOOWMdz+YsoL6MZsGeLyIMnn7VN/M+3Ks=";
     };
     name = "statusbar-commands";
     license = "ISC";
