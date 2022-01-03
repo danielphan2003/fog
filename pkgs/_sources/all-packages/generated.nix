@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "f9745bbc150a81145445de32a56a2fb2dda8a0f7";
+    version = "179f658cd8ee1e3472eb7ff3adbbb552969496ed";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "f9745bbc150a81145445de32a56a2fb2dda8a0f7";
+      rev = "179f658cd8ee1e3472eb7ff3adbbb552969496ed";
       fetchSubmodules = false;
-      sha256 = "sha256-NKSIpMhwLKnFnHHt+GqE97oqK/5wozboiK0EMsVSBlM=";
+      sha256 = "sha256-gYKPOHiWjE7bWvHKmGL+GlSy10P8pCU86ihlprzD6qU=";
     });
   };
   flyingfox = {
@@ -437,10 +437,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "97.0.1072.41";
+    version = "97.0.1072.52";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_97.0.1072.41-1_amd64.deb";
-      sha256 = "sha256-5vFTdjwFteB/umTlhhElkY43LwCSzuZEV1cBoyXEbhc=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_97.0.1072.52-1_amd64.deb";
+      sha256 = "sha256-Z/8HjK8H8ptig+cfIkn3XwZR/Nod/9mdR17OR3dnwLs=";
     };
   };
   microsoft-edge-dev = {
@@ -796,14 +796,14 @@
   };
   snui = {
     pname = "snui";
-    version = "56475ab598fb0c927f40ecb96ff244d01d799c2a";
+    version = "ce9642264b0ab8be180f564292c0a7c86357f7c6";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "56475ab598fb0c927f40ecb96ff244d01d799c2a";
+      rev = "ce9642264b0ab8be180f564292c0a7c86357f7c6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-T3x/uQWXU6MJg4kzS69QE8nncCOz27DmH8yg6PBaTMs=";
+      sha256 = "sha256-ywWCZyAEBKJhDCU46LbZLN4DWk1AnDW7kpa7iVu8odE=";
     };
   };
   spicetify-cli = {
