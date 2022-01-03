@@ -5427,10 +5427,10 @@
   };
   coderoad-coderoad = {
     pname = "coderoad-coderoad";
-    version = "0.17.4";
+    version = "0.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/coderoad/coderoad/0.17.4/file/coderoad.coderoad-0.17.4.vsix";
-      sha256 = "sha256-vk/2XNdrE11q0If9v8gaK3nxVck5Ss8IfcEA7+351Vo=";
+      url = "https://open-vsx.org/api/coderoad/coderoad/0.18.0/file/coderoad.coderoad-0.18.0.vsix";
+      sha256 = "sha256-eXaubIPqmw6tf6jZSd6c5DbRTsoYh4VhGvTb+LnHG+g=";
     };
     name = "coderoad";
     license = "AGPL-3.0";
@@ -9999,10 +9999,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.4.2";
+    version = "1.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.4.2/file/leodevbro.blockman-1.4.2.vsix";
-      sha256 = "sha256-sD4BdosZyuATKxErFx3bahbxKptPanrz/Pw3r/glmVo=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.4.5/file/leodevbro.blockman-1.4.5.vsix";
+      sha256 = "sha256-0glvMxVBIOsdSrG+KCqNm+FvF5DsDKUwuTIAWeLEr9c=";
     };
     name = "blockman";
     license = "MIT";
@@ -18027,10 +18027,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.26";
+    version = "0.0.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.26/file/zardoy.zardoy-experiments-0.0.26.vsix";
-      sha256 = "sha256-OZkarI0+/b8wYBVOLwZH6KUFEtK6/m1ITYOV0uFp6Ng=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.27/file/zardoy.zardoy-experiments-0.0.27.vsix";
+      sha256 = "sha256-1MRjoTrYSbviNe8VSoAC3W5GuJQ0JU44Yb2mKNZxmCw=";
     };
     name = "zardoy-experiments";
     license = "MIT";
