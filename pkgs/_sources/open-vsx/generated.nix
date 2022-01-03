@@ -6817,18 +6817,6 @@
     publisher = "entan-gl";
     description = "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators.";
   };
-  entepe85-gitlens = {
-    pname = "entepe85-gitlens";
-    version = "11.0.2";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/entepe85/gitlens/11.0.2/file/entepe85.gitlens-11.0.2.vsix";
-      sha256 = "sha256-LxPd58/Hg3/dgECNTm+BJNjMYbXd4hNz3d4nJS5XibQ=";
-    };
-    name = "gitlens";
-    license = "MIT";
-    publisher = "entepe85";
-    description = "Supercharge the Git capabilities built into Visual Studio Code \8212 Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more";
-  };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
     version = "0.0.32";
@@ -8835,10 +8823,10 @@
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
-    version = "0.2.5";
+    version = "0.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.5/file/jamestiotio.compstruct-vscode-0.2.5.vsix";
-      sha256 = "sha256-lcsLI52yTPreIkkwIrdkrIuBbxsUY4VI/ZPDbDh+2w4=";
+      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.7/file/jamestiotio.compstruct-vscode-0.2.7.vsix";
+      sha256 = "sha256-OfZgrwyyXjQUhnmlzW0YneMTX888AIVgw2eYp/QN8/U=";
     };
     name = "compstruct-vscode";
     license = "MIT";
@@ -17967,10 +17955,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.9";
+    version = "0.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.9/file/zardoy.better-snippets-0.1.9.vsix";
-      sha256 = "sha256-NEJp+v+QBcVbLOy/+RXg9MKADDWEYioXQh8YqgRthu4=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.10/file/zardoy.better-snippets-0.1.10.vsix";
+      sha256 = "sha256-DAcCcTMyaUdMtiDDTRSQIrPGLWeP89Udc1XXt7koFiY=";
     };
     name = "better-snippets";
     license = "MIT";
@@ -18039,10 +18027,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.27";
+    version = "0.0.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.27/file/zardoy.zardoy-experiments-0.0.27.vsix";
-      sha256 = "sha256-1MRjoTrYSbviNe8VSoAC3W5GuJQ0JU44Yb2mKNZxmCw=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.29/file/zardoy.zardoy-experiments-0.0.29.vsix";
+      sha256 = "sha256-3FGyKysiwIHM3WrUc3vByUqWCBCNfioAdZrY3aY4HUY=";
     };
     name = "zardoy-experiments";
     license = "MIT";
