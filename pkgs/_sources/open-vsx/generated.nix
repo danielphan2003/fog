@@ -1693,6 +1693,18 @@
     publisher = "Lencerf";
     description = "VSCode extension for Beancount";
   };
+  LeonardSSH-vscord = {
+    pname = "LeonardSSH-vscord";
+    version = "4.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.2.2/file/LeonardSSH.vscord-4.2.2.vsix";
+      sha256 = "sha256-ng6Q7N6/IOM0TsEIkVyB4IVxDQJrDTOnplnSYHQSEeE=";
+    };
+    name = "vscord";
+    license = "MIT";
+    publisher = "LeonardSSH";
+    description = "Fully customizable VS Code extension to get Discord Rich Presence integration";
+  };
   LoyieKing-smalise = {
     pname = "LoyieKing-smalise";
     version = "0.0.8";
@@ -9963,10 +9975,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.51";
+    version = "0.0.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.51/file/leanprover.lean4-0.0.51.vsix";
-      sha256 = "sha256-SiQTPnEC4n5sudsX7OX1kdbThdCKKeoWs+BXTUtKZNU=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.53/file/leanprover.lean4-0.0.53.vsix";
+      sha256 = "sha256-0b6NVkZCcLPn72FbDo2eLSxuZBHS7gTZSz8LGrPQoBs=";
     };
     name = "lean4";
     license = "Apache-2.0";
