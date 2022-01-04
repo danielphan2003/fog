@@ -2787,10 +2787,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.220";
+    version = "2022.1.321";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.220/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.220.vsix";
-      sha256 = "sha256-euDU9O9Zgr29zNE6VDS0wv5x/1/Xkjdnvb/yiTtKp3o=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.321/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.321.vsix";
+      sha256 = "sha256-ntvaSoTTSh3IHoWwtik6uDR6L9iawY/jhD0Q8OaLIeI=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -5439,10 +5439,10 @@
   };
   coderoad-coderoad = {
     pname = "coderoad-coderoad";
-    version = "0.18.1";
+    version = "0.18.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/coderoad/coderoad/0.18.1/file/coderoad.coderoad-0.18.1.vsix";
-      sha256 = "sha256-am19dPm+3GCCC3MNZKr0NwP8ruK8MhU2J5v4zSAikWI=";
+      url = "https://open-vsx.org/api/coderoad/coderoad/0.18.4/file/coderoad.coderoad-0.18.4.vsix";
+      sha256 = "sha256-Xxf+VcQuBlJz0rYQstaknixDtRhcmYZk3WtZhXBQ8y8=";
     };
     name = "coderoad";
     license = "AGPL-3.0";
@@ -6720,6 +6720,42 @@
     license = "MIT";
     publisher = "elixir-lsp";
     description = "Elixir support with debugger, autocomplete, and more. Powered by ElixirLS.";
+  };
+  emattiza-ide-purescript = {
+    pname = "emattiza-ide-purescript";
+    version = "0.25.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/emattiza/ide-purescript/0.25.5/file/emattiza.ide-purescript-0.25.5.vsix";
+      sha256 = "sha256-quSZdOJmt8/1ADBGKUt9EXot6gvf8Bbx008zfO2sCiI=";
+    };
+    name = "ide-purescript";
+    license = "MIT";
+    publisher = "emattiza";
+    description = "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server";
+  };
+  emattiza-language-purescript = {
+    pname = "emattiza-language-purescript";
+    version = "0.2.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/emattiza/language-purescript/0.2.7/file/emattiza.language-purescript-0.2.7.vsix";
+      sha256 = "sha256-A/Ebo/xPBNRQrTWJbLLQSv4A4+KGvjKOArmfDK5kCUE=";
+    };
+    name = "language-purescript";
+    license = "MIT";
+    publisher = "emattiza";
+    description = "Syntax Highlighting for the PureScript programming language";
+  };
+  emattiza-vscode-purty = {
+    pname = "emattiza-vscode-purty";
+    version = "0.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/emattiza/vscode-purty/0.6.0/file/emattiza.vscode-purty-0.6.0.vsix";
+      sha256 = "sha256-qsmQyfRJ2Nis1IfxsC4OUBpewwVQd2n4ZuHWhytFdTw=";
+    };
+    name = "vscode-purty";
+    license = "MIT";
+    publisher = "emattiza";
+    description = "PureScript formatter";
   };
   embertooling-prettier-for-handlebars-vscode = {
     pname = "embertooling-prettier-for-handlebars-vscode";
@@ -10407,10 +10443,10 @@
   };
   matklad-rust-analyzer = {
     pname = "matklad-rust-analyzer";
-    version = "0.2.880";
+    version = "0.2.890";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matklad/rust-analyzer/0.2.880/file/matklad.rust-analyzer-0.2.880.vsix";
-      sha256 = "sha256-Si6vDi6g6JkTMrti5uSZuouEVC2OyPprI8syFLV8foI=";
+      url = "https://open-vsx.org/api/matklad/rust-analyzer/0.2.890/file/matklad.rust-analyzer-0.2.890.vsix";
+      sha256 = "sha256-9gRCyQZf8rWNWAtt6gB3c/xxHvi2RzJvKLZn+OD602A=";
     };
     name = "rust-analyzer";
     license = "MIT OR Apache-2.0";
