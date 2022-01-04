@@ -4851,10 +4851,10 @@
   };
   bierner-markdown-mermaid = {
     pname = "bierner-markdown-mermaid";
-    version = "1.13.0";
+    version = "1.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.13.0/file/bierner.markdown-mermaid-1.13.0.vsix";
-      sha256 = "sha256-87N2Rl9SimGYheXHAUOR7ta+FLKOWaDYFHD5YsdtUhQ=";
+      url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.13.1/file/bierner.markdown-mermaid-1.13.1.vsix";
+      sha256 = "sha256-CupppTlLjfSJHls8iRj0Ues7Nt4dby0qfJrIVI5QmwM=";
     };
     name = "markdown-mermaid";
     license = "MIT";
@@ -5439,10 +5439,10 @@
   };
   coderoad-coderoad = {
     pname = "coderoad-coderoad";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/coderoad/coderoad/0.18.0/file/coderoad.coderoad-0.18.0.vsix";
-      sha256 = "sha256-eXaubIPqmw6tf6jZSd6c5DbRTsoYh4VhGvTb+LnHG+g=";
+      url = "https://open-vsx.org/api/coderoad/coderoad/0.18.1/file/coderoad.coderoad-0.18.1.vsix";
+      sha256 = "sha256-am19dPm+3GCCC3MNZKr0NwP8ruK8MhU2J5v4zSAikWI=";
     };
     name = "coderoad";
     license = "AGPL-3.0";
@@ -6843,10 +6843,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.0.0";
+    version = "9.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.0.0/file/esbenp.prettier-vscode-9.0.0.vsix";
-      sha256 = "sha256-LenRtP7I1uv/lZRYJHw55TdYgez5ndHRRhUtsjDy0EM=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.1.0/file/esbenp.prettier-vscode-9.1.0.vsix";
+      sha256 = "sha256-zPg6X2ru94ophaOYacXlKgUUEWtrauyWyAa1PtXO7QI=";
     };
     name = "prettier-vscode";
     license = "MIT";
