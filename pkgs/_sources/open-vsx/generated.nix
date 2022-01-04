@@ -2499,10 +2499,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.476";
+    version = "31.0.477";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.476/file/Prisma.prisma-insider-31.0.476.vsix";
-      sha256 = "sha256-a18lGIp73DRnr3GxgikBWT9m/UM1u2zYd8z41l6RGbA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.477/file/Prisma.prisma-insider-31.0.477.vsix";
+      sha256 = "sha256-qIBOeanHnoBtP71mJwBNICxwI1+yEYDJ3P8NyuJdXno=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3387,10 +3387,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.7.1";
+    version = "4.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.7.1/file/42Crunch.vscode-openapi-4.7.1.vsix";
-      sha256 = "sha256-RmxunZzc0l9RMaV+g1TZaVVIh3LQN6z/cLpRAHE9Ibs=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.8.0/file/42Crunch.vscode-openapi-4.8.0.vsix";
+      sha256 = "sha256-EEkdMwEJkDEGAhIjtf0TPVSDUeSfOEs8Zrxy7ki9Z+Y=";
     };
     name = "vscode-openapi";
     license = "AGPL-3.0-only";
