@@ -4035,10 +4035,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.20.4";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.20.4/file/antfu.unocss-0.20.4.vsix";
-      sha256 = "sha256-9v1Fah1Y6mxKsNtfp7BbBBwh7LWtNwbtCcLWEVqvilw=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.21.0/file/antfu.unocss-0.21.0.vsix";
+      sha256 = "sha256-BdUWWcFq2qa6N4W06Mm5+uA6h7HsjBvFfdsOEQICzEo=";
     };
     name = "unocss";
     license = "MIT";
@@ -10815,10 +10815,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.1.7";
+    version = "1.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.1.7/file/mintlify.document-1.1.7.vsix";
-      sha256 = "sha256-0dTsqhbgr/kK3e/g/o4dsPCBLkMBPdsIOss0tUo5guM=";
+      url = "https://open-vsx.org/api/mintlify/document/1.1.8/file/mintlify.document-1.1.8.vsix";
+      sha256 = "sha256-DCmmJQosknqZyr+cCByT3w7PjyG2kp+fn7U7HLzP06g=";
     };
     name = "document";
     license = "";
