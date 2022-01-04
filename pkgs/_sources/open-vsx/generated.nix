@@ -6267,10 +6267,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.75.5";
+    version = "0.75.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.75.5/file/dendron.nightly-0.75.5.vsix";
-      sha256 = "sha256-n3RX6eAVe6h23pGcwYXf4XINIwbOtBiuVoaMQaY7xZ8=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.75.6/file/dendron.nightly-0.75.6.vsix";
+      sha256 = "sha256-umfVVUuv8voOAuqTKksZy8ROPkCylEIdG3B7P4bJqIU=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -14283,10 +14283,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.9.0";
+    version = "0.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.9.0/file/shufo.vscode-blade-formatter-0.9.0.vsix";
-      sha256 = "sha256-tzYSA3wgOY2DAahHZiRZj7r96g0rw4nywTRIkDK1sBk=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.9.1/file/shufo.vscode-blade-formatter-0.9.1.vsix";
+      sha256 = "sha256-Y9v4pH+vleBo7AbnciUfzXeGqyTpJk9vIuBS8OtGOBY=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
