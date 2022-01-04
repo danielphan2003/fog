@@ -10791,10 +10791,10 @@
   };
   millerdev-pyxt = {
     pname = "millerdev-pyxt";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/millerdev/pyxt/0.3.5/file/millerdev.pyxt-0.3.5.vsix";
-      sha256 = "sha256-gTe7IJtV/nn5Pt4tNbnx56IJjA+/EGENqZM8P6B1sfA=";
+      url = "https://open-vsx.org/api/millerdev/pyxt/0.3.6/file/millerdev.pyxt-0.3.6.vsix";
+      sha256 = "sha256-3afgWbrZ4U5on39n6hpnef4klOZrMZrpodwyo0jzlL8=";
     };
     name = "pyxt";
     license = "See LICENSE file";
