@@ -12229,30 +12229,6 @@
     publisher = "orellabacCR";
     description = "";
   };
-  orellabacCR-snowconvert-extension-pack = {
-    pname = "orellabacCR-snowconvert-extension-pack";
-    version = "0.0.3";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/orellabacCR/snowconvert-extension-pack/0.0.3/file/orellabacCR.snowconvert-extension-pack-0.0.3.vsix";
-      sha256 = "sha256-uy5ng33n4xFvBbF5p01rx+Bi3V6/Y44kVSMAZ4wB+5U=";
-    };
-    name = "snowconvert-extension-pack";
-    license = "";
-    publisher = "orellabacCR";
-    description = "Mobilize.NET Extends your IDE experience to become super productive in Snowflake right away";
-  };
-  orellabacCR-snowqm-extension = {
-    pname = "orellabacCR-snowqm-extension";
-    version = "0.0.20";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/orellabacCR/snowqm-extension/0.0.20/file/orellabacCR.snowqm-extension-0.0.20.vsix";
-      sha256 = "sha256-JBbMm9Aau+zVhBw5ynmPBzDD2HVyaQF3we0RVPh2Vz0=";
-    };
-    name = "snowqm-extension";
-    license = "";
-    publisher = "orellabacCR";
-    description = "SnowStudio Extensions";
-  };
   orellabacCR-snowscript-js = {
     pname = "orellabacCR-snowscript-js";
     version = "1.0.8";
