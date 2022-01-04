@@ -2499,10 +2499,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.475";
+    version = "31.0.476";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.475/file/Prisma.prisma-insider-31.0.475.vsix";
-      sha256 = "sha256-pbiAqM5FmpBrbPN3lwCvEBwdpHrEoMr7XQnBuiDrJew=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.476/file/Prisma.prisma-insider-31.0.476.vsix";
+      sha256 = "sha256-a18lGIp73DRnr3GxgikBWT9m/UM1u2zYd8z41l6RGbA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -18087,10 +18087,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.31";
+    version = "0.0.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.31/file/zardoy.zardoy-experiments-0.0.31.vsix";
-      sha256 = "sha256-m03ug5ijabJT2k8NFh6Vw2IFcGvBN/ilbwoxtAKl8v0=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.32/file/zardoy.zardoy-experiments-0.0.32.vsix";
+      sha256 = "sha256-wotNz+HfgypPdRL7BRQNmyBEM84JkgOP6SbPF+88RqU=";
     };
     name = "zardoy-experiments";
     license = "MIT";
