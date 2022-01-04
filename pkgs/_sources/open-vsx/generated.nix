@@ -3435,10 +3435,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "3.4.0";
+    version = "3.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.0/file/a5hk.night-coder-3.4.0.vsix";
-      sha256 = "sha256-CydHQcM4Xbw36D10FdclVRexkDUt9P4pv4uRCWC9Rcw=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.1/file/a5hk.night-coder-3.4.1.vsix";
+      sha256 = "sha256-mi+568TSVRYQoqB5d9JOnvG0VU6YT8uen/B2y9RYsf4=";
     };
     name = "night-coder";
     license = "MIT";
@@ -4203,10 +4203,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "4.9.0";
+    version = "4.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.9.0/file/anweber.vscode-httpyac-4.9.0.vsix";
-      sha256 = "sha256-wm1yc4a0fiXVU6Zxz+33KoXasvgEWTJw4hRHmPGURCE=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.9.1/file/anweber.vscode-httpyac-4.9.1.vsix";
+      sha256 = "sha256-Ff3XSFLIlpk5OswJTPzMy6Gh0nXeVLPbQdW0dvT4kO4=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -4923,10 +4923,10 @@
   };
   bml-lang-bml-vscode = {
     pname = "bml-lang-bml-vscode";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bml-lang/bml-vscode/0.0.9/file/bml-lang.bml-vscode-0.0.9.vsix";
-      sha256 = "sha256-wZPWavmGJ1CQHC8ZGKyIBeRlzrvnqZz6ZVXuy69/8wc=";
+      url = "https://open-vsx.org/api/bml-lang/bml-vscode/0.0.10/file/bml-lang.bml-vscode-0.0.10.vsix";
+      sha256 = "sha256-sw/KdMkwKjUJfhiIrEe0qADAHexWPYS18ms32FO79IU=";
     };
     name = "bml-vscode";
     license = "BSD-3-Clause";
@@ -6183,10 +6183,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.75.1";
+    version = "0.76.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.75.1/file/dendron.dendron-0.75.1.vsix";
-      sha256 = "sha256-RCFwAUiISMAiQcR9iZisrIPb9trJf/Q6jCRSoTTH1lE=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.76.0/file/dendron.dendron-0.76.0.vsix";
+      sha256 = "sha256-IAhWoBJnq13hwqEqsT4CfANVfgHR0u4Qxz1u4YdwDEE=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -10815,10 +10815,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.1.0";
+    version = "1.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.1.0/file/mintlify.document-1.1.0.vsix";
-      sha256 = "sha256-TJ5FTk+XeVDbrGP/4Auv0HVZqn2Q27qDtnRkcdhZbcc=";
+      url = "https://open-vsx.org/api/mintlify/document/1.1.7/file/mintlify.document-1.1.7.vsix";
+      sha256 = "sha256-0dTsqhbgr/kK3e/g/o4dsPCBLkMBPdsIOss0tUo5guM=";
     };
     name = "document";
     license = "";
