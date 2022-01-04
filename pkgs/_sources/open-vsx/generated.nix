@@ -171,10 +171,10 @@
   };
   Betajob-modulestf = {
     pname = "Betajob-modulestf";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Betajob/modulestf/0.0.6/file/Betajob.modulestf-0.0.6.vsix";
-      sha256 = "sha256-RDKlgArPhgPhdCEfT9O9Sa14U8Zn0k127+Xktn8JhoI=";
+      url = "https://open-vsx.org/api/Betajob/modulestf/0.0.7/file/Betajob.modulestf-0.0.7.vsix";
+      sha256 = "sha256-4FWM+x+pQDScNVwiYF7LYzAP6VV6RginA5WWAoAR7r4=";
     };
     name = "modulestf";
     license = "PROPRIETARY";
@@ -12459,10 +12459,10 @@
   };
   perrinjerome-vscode-zc-buildout = {
     pname = "perrinjerome-vscode-zc-buildout";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.5.0/file/perrinjerome.vscode-zc-buildout-0.5.0.vsix";
-      sha256 = "sha256-VP673RGalyAkSz9t9grFSYmi3HcglZm8fWBJOlp2Ia4=";
+      url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.6.0/file/perrinjerome.vscode-zc-buildout-0.6.0.vsix";
+      sha256 = "sha256-dV6yNCF4nHGC4iMIwGnnjCjbo8yFkpBux4j5Lg7XSDA=";
     };
     name = "vscode-zc-buildout";
     license = "MIT";
