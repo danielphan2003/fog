@@ -14665,6 +14665,30 @@
     publisher = "standard";
     description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.";
   };
+  steedos-steedosdx-vscode = {
+    pname = "steedos-steedosdx-vscode";
+    version = "2.1.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.1.3/file/steedos.steedosdx-vscode-2.1.3.vsix";
+      sha256 = "sha256-ZKd2EHgpaEz9wxeUCNSd41/M+9wgVCIkSUO2COVPgkY=";
+    };
+    name = "steedosdx-vscode";
+    license = "MIT";
+    publisher = "steedos";
+    description = "Extensions for developing on the Steedos Platform";
+  };
+  steedos-steedosdx-vscode-core = {
+    pname = "steedos-steedosdx-vscode-core";
+    version = "2.1.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.1.3/file/steedos.steedosdx-vscode-core-2.1.3.vsix";
+      sha256 = "sha256-HZ8BUeFggN7bDMbZpM4TOgrquO0p16etWb2NzaWnn2Q=";
+    };
+    name = "steedosdx-vscode-core";
+    license = "Apache-2.0";
+    publisher = "steedos";
+    description = "Provides integration with the Steedos CLI";
+  };
   stef-k-laravel-goto-controller = {
     pname = "stef-k-laravel-goto-controller";
     version = "0.0.15";
