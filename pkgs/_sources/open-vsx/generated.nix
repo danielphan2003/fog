@@ -375,10 +375,10 @@
   };
   Chrismettal-behave-full-theme = {
     pname = "Chrismettal-behave-full-theme";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Chrismettal/behave-full-theme/1.1.0/file/Chrismettal.behave-full-theme-1.1.0.vsix";
-      sha256 = "sha256-SNNbMbHpR+tdZO+Lo/LsxWebEmSllnScEhAgW2Ccfh8=";
+      url = "https://open-vsx.org/api/Chrismettal/behave-full-theme/1.1.1/file/Chrismettal.behave-full-theme-1.1.1.vsix";
+      sha256 = "sha256-ErKDCnCQHf3prlckJ8UN1QLP/yTVbdLQd7z7USwIZo4=";
     };
     name = "behave-full-theme";
     license = "MIT";
@@ -12237,7 +12237,7 @@
       sha256 = "sha256-uy5ng33n4xFvBbF5p01rx+Bi3V6/Y44kVSMAZ4wB+5U=";
     };
     name = "snowconvert-extension-pack";
-    license = "Mobilize Copyright";
+    license = "";
     publisher = "orellabacCR";
     description = "Mobilize.NET Extends your IDE experience to become super productive in Snowflake right away";
   };
@@ -12249,7 +12249,7 @@
       sha256 = "sha256-JBbMm9Aau+zVhBw5ynmPBzDD2HVyaQF3we0RVPh2Vz0=";
     };
     name = "snowqm-extension";
-    license = "Mobilize copyright";
+    license = "";
     publisher = "orellabacCR";
     description = "SnowStudio Extensions";
   };
