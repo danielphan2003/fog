@@ -2499,10 +2499,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.484";
+    version = "31.0.485";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.484/file/Prisma.prisma-insider-31.0.484.vsix";
-      sha256 = "sha256-UEfWK8v7kkgpUthn1NZh1n/K39owySE3Vk/1Lhjn9QE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.485/file/Prisma.prisma-insider-31.0.485.vsix";
+      sha256 = "sha256-gf+eaKpv5Qs6PDHehtIwEqfh7NVkE8kyE1d1QMcg/ls=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4035,10 +4035,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.21.0";
+    version = "0.21.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.21.0/file/antfu.unocss-0.21.0.vsix";
-      sha256 = "sha256-BdUWWcFq2qa6N4W06Mm5+uA6h7HsjBvFfdsOEQICzEo=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.21.2/file/antfu.unocss-0.21.2.vsix";
+      sha256 = "sha256-nGAnUp9qzFIXrf/LKrembnTHq+YHS4SG31ay1GinbI0=";
     };
     name = "unocss";
     license = "MIT";
