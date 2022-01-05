@@ -3207,10 +3207,10 @@
   };
   WakaTime-vscode-wakatime = {
     pname = "WakaTime-vscode-wakatime";
-    version = "18.0.3";
+    version = "18.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.3/file/WakaTime.vscode-wakatime-18.0.3.vsix";
-      sha256 = "sha256-rQNXYOOPDdF5tMKZk6Lr26ZKK4YSwQByO/I+m4nH6ZM=";
+      url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.4/file/WakaTime.vscode-wakatime-18.0.4.vsix";
+      sha256 = "sha256-9k+sIK8uGfnS8oWV8luBZnkZZQOGnWWgLzvKTWtN6rY=";
     };
     name = "vscode-wakatime";
     license = "BSD-3-Clause";
@@ -6699,10 +6699,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "5.10.1657632";
+    version = "5.10.1659626";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.10.1657632/file/eliostruyf.vscode-front-matter-beta-5.10.1657632.vsix";
-      sha256 = "sha256-DWQh9rYtOuqsCV3bT5LCYBsUfBYDZuPsErY7v+PNGhU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.10.1659626/file/eliostruyf.vscode-front-matter-beta-5.10.1659626.vsix";
+      sha256 = "sha256-ul//dommDhTFUZo1KVqaQso+KO5Xs4bRopdyAMOb2Dw=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
