@@ -1695,10 +1695,10 @@
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
-    version = "4.3.0";
+    version = "4.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.3.0/file/LeonardSSH.vscord-4.3.0.vsix";
-      sha256 = "sha256-NxrAZwfBReH/RTSUlWWJpTE9hEhS+s3rgQjThVO0PL4=";
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.0/file/LeonardSSH.vscord-4.4.0.vsix";
+      sha256 = "sha256-NBURMIDf8Eh87kcBFwzSoPuD65JoTOZGv/3yMbF0tKc=";
     };
     name = "vscord";
     license = "MIT";
@@ -18063,10 +18063,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.32";
+    version = "0.0.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.32/file/zardoy.zardoy-experiments-0.0.32.vsix";
-      sha256 = "sha256-wotNz+HfgypPdRL7BRQNmyBEM84JkgOP6SbPF+88RqU=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.33/file/zardoy.zardoy-experiments-0.0.33.vsix";
+      sha256 = "sha256-N4OdU7svf0HpzOJWf39r4/7Cc5CpSoJJ2e2EgBhws58=";
     };
     name = "zardoy-experiments";
     license = "MIT";
