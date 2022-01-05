@@ -2499,10 +2499,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.479";
+    version = "31.0.480";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.479/file/Prisma.prisma-insider-31.0.479.vsix";
-      sha256 = "sha256-mpw6H4OAr1YxvzXhctwaXJ2H8VgPn3ICHxSkFzARrGE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.480/file/Prisma.prisma-insider-31.0.480.vsix";
+      sha256 = "sha256-tcjbShfYaX4NeMk0U0dlcQA75oubXTwIQPU+wgd3Itc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12003,10 +12003,10 @@
   };
   obostjancic-kolorkross = {
     pname = "obostjancic-kolorkross";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/obostjancic/kolorkross/0.2.2/file/obostjancic.kolorkross-0.2.2.vsix";
-      sha256 = "sha256-aJ4Y7NZ+o8YYqam1h9WpWRm6MhM5Y+tEIpZ/bLeaPhg=";
+      url = "https://open-vsx.org/api/obostjancic/kolorkross/0.2.3/file/obostjancic.kolorkross-0.2.3.vsix";
+      sha256 = "sha256-BNjUWhTSXtz016tef0EOzBK3ASPdHTCePzFhJNiKmkA=";
     };
     name = "kolorkross";
     license = "";
@@ -17349,7 +17349,7 @@
       sha256 = "sha256-0BBPJ5zaqN8Hd2QvjWtuxuWwKCOutcaM6jx07oVa15Y=";
     };
     name = "vscord";
-    license = "MIT";
+    license = "";
     publisher = "vscord-extension";
     description = "Fully customizable VS Code extension to get Discord Rich Presence integration";
   };
