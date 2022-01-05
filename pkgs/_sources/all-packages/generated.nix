@@ -702,16 +702,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "1d8cdb5e932fe52a21417514fa3ccda4602f5594";
+    version = "5631ffac4c234579889b09bbee9c6a094c7ac982";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "1d8cdb5e932fe52a21417514fa3ccda4602f5594";
+      rev = "5631ffac4c234579889b09bbee9c6a094c7ac982";
       fetchSubmodules = false;
-      sha256 = "sha256-et1XpxBaoBK6Yx9Vg91vOtqzAZZvh6T9AlRwKE2UE8I=";
+      sha256 = "sha256-l0RnyjzyURLJ3RAP3SOujyd2fHH8ir1nszapm9DoeRM=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-1d8cdb5e932fe52a21417514fa3ccda4602f5594/Cargo.lock;
+      lockFile = ./rustdesk-5631ffac4c234579889b09bbee9c6a094c7ac982/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -719,7 +719,7 @@
         "cpal-0.13.4" = "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=";
         "sciter-rs-0.5.57" = "sha256-pF5Rwav78//oqDAv0Nhb7tawhSMnlSuy4sPUOfPd8NU=";
         "psutil-3.2.1" = "sha256-n3LTTDBCW+l0xKFGHdFHePlw998nO6G9K7PCWdukN/0=";
-        "tokio-socks-0.5.1" = "sha256-iURrvVYJr0W+9DHJQnrblE4v0crff3GjZbBokdW65d8=";
+        "tokio-socks-0.5.1" = "sha256-t1ApX9Saxa01agFp37iAj3xu39mdtTGsd9zUx+XwHko=";
         "confy-0.4.1" = "sha256-5QwA4YfEEE6QqEEUJ3+C37UbUf88NYds38kIthVSo5Y=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
         "rust-pulsectl-0.2.11" = "sha256-CZkvii6pQM5jaR9RK9HDrczxIxZwuahpdVM+UsRLw9s=";
