@@ -4923,10 +4923,10 @@
   };
   bml-lang-bml-vscode = {
     pname = "bml-lang-bml-vscode";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bml-lang/bml-vscode/0.0.10/file/bml-lang.bml-vscode-0.0.10.vsix";
-      sha256 = "sha256-sw/KdMkwKjUJfhiIrEe0qADAHexWPYS18ms32FO79IU=";
+      url = "https://open-vsx.org/api/bml-lang/bml-vscode/0.0.11/file/bml-lang.bml-vscode-0.0.11.vsix";
+      sha256 = "sha256-/KOT93ZycZuJubpyUs4dJMx2Oa/h+R5Zkq6E1ilndJY=";
     };
     name = "bml-vscode";
     license = "BSD-3-Clause";
