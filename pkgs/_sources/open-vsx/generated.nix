@@ -6279,10 +6279,10 @@
   };
   denoland-vscode-deno = {
     pname = "denoland-vscode-deno";
-    version = "3.9.2";
+    version = "3.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/denoland/vscode-deno/3.9.2/file/denoland.vscode-deno-3.9.2.vsix";
-      sha256 = "sha256-gL6kzWcfXcy+OgBU+3hW3ZqIOLrhjhJaoBf5z/dgsGg=";
+      url = "https://open-vsx.org/api/denoland/vscode-deno/3.10.0/file/denoland.vscode-deno-3.10.0.vsix";
+      sha256 = "sha256-fVJmEZdX/1uDzfFebxms6nIMXz4PcVc0eBo5KEu+UMU=";
     };
     name = "vscode-deno";
     license = "MIT";
@@ -7971,10 +7971,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.18";
+    version = "0.8.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.18/file/halcyontechltd.code-for-ibmi-0.8.18.vsix";
-      sha256 = "sha256-/JT/zERi9GRkx4fUWF2CiaLsfqGx5wnbCy5IntuXMZU=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.19/file/halcyontechltd.code-for-ibmi-0.8.19.vsix";
+      sha256 = "sha256-FN5lt0LaP4qqOjmRrXfPuF3x774phWug6rnTU5sxnEw=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -9171,10 +9171,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.30.1";
+    version = "0.30.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.1/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.1.vsix";
-      sha256 = "sha256-ERCWs8xLe6NQE75CJy6pLjOxbSVM9kLWELHb562kvjk=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.2/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.2.vsix";
+      sha256 = "sha256-Ea6dXxjtSFXg0XXvOXBUKJS79YlXuPU5gEBCkXebPxs=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -10815,10 +10815,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.1.8";
+    version = "1.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.1.8/file/mintlify.document-1.1.8.vsix";
-      sha256 = "sha256-DCmmJQosknqZyr+cCByT3w7PjyG2kp+fn7U7HLzP06g=";
+      url = "https://open-vsx.org/api/mintlify/document/1.1.9/file/mintlify.document-1.1.9.vsix";
+      sha256 = "sha256-daE40tJQsY2gGf6EPMGDTHP+dmI6Omac4tMdkQixaBY=";
     };
     name = "document";
     license = "";
