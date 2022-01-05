@@ -13407,10 +13407,10 @@
   };
   redlin-remove-tabs-on-save = {
     pname = "redlin-remove-tabs-on-save";
-    version = "1.2.3";
+    version = "1.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redlin/remove-tabs-on-save/1.2.3/file/redlin.remove-tabs-on-save-1.2.3.vsix";
-      sha256 = "sha256-A0PdooJ2+vzs8A10Em9RZdOYTYkgDmsNvq++18mzMWI=";
+      url = "https://open-vsx.org/api/redlin/remove-tabs-on-save/1.2.4/file/redlin.remove-tabs-on-save-1.2.4.vsix";
+      sha256 = "sha256-sIJPwSug9l19ADS4iVk6xZst6NlbRzxFRk/7AzDx0wA=";
     };
     name = "remove-tabs-on-save";
     license = "GPL-3.0-or-later";
