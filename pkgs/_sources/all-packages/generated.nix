@@ -658,13 +658,13 @@
   };
   rainfox = {
     pname = "rainfox";
-    version = "0db7f2304a5c911ba6585557777f43defec2518f";
+    version = "e65cb4af4646548568abb5e3ca4ce7bc8fdf3a31";
     src = fetchFromGitHub ({
       owner = "1280px";
       repo = "rainfox";
-      rev = "0db7f2304a5c911ba6585557777f43defec2518f";
+      rev = "e65cb4af4646548568abb5e3ca4ce7bc8fdf3a31";
       fetchSubmodules = false;
-      sha256 = "sha256-YAieg1MklxzO1IWGEVZz6iGOeyrfuTEh6xZGavek9rI=";
+      sha256 = "sha256-schVVhuF7E73L/KrMWl3u1iTzz2WQEYj0zXfrx3uUKk=";
     });
   };
   redshift = {
@@ -702,16 +702,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "32c5437c5db4dd629b2ecafbc259aea267350b88";
+    version = "1931cb8c7c57c8093ec742978e134c0cd898a6d2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "32c5437c5db4dd629b2ecafbc259aea267350b88";
+      rev = "1931cb8c7c57c8093ec742978e134c0cd898a6d2";
       fetchSubmodules = false;
-      sha256 = "sha256-jOZYIXgS7JiMr10EyAUHPbQBNKn6gvPVXiSg1Qn+Zbw=";
+      sha256 = "sha256-QXFT+sjGQQ3o8MR7jQdDOq4UT39yMpUOkutyi6w7tnw=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-32c5437c5db4dd629b2ecafbc259aea267350b88/Cargo.lock;
+      lockFile = ./rustdesk-1931cb8c7c57c8093ec742978e134c0cd898a6d2/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
