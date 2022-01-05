@@ -203,10 +203,10 @@
   };
   fabric-api-1_17_1 = {
     pname = "fabric-api-1_17_1";
-    version = "0.45.1+1.17";
+    version = "0.45.2+1.17";
     src = fetchurl {
-      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.45.1+1.17/fabric-api-0.45.1+1.17.jar";
-      sha256 = "sha256-XK3qCbC2imxFFPpu/lEenkrLpTYnfDF3e43VEU8NHos=";
+      url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.45.2+1.17/fabric-api-0.45.2+1.17.jar";
+      sha256 = "sha256-U+FggQuL4X4JUFz4aqhsLma8UPMoBJFR/3sdJH+8I5I=";
     };
     modId = "P7dR8mSH";
     mcVer = "1.17.1";
