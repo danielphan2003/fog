@@ -437,10 +437,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "97.0.1072.52";
+    version = "97.0.1072.54";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_97.0.1072.52-1_amd64.deb";
-      sha256 = "sha256-Z/8HjK8H8ptig+cfIkn3XwZR/Nod/9mdR17OR3dnwLs=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_97.0.1072.54-1_amd64.deb";
+      sha256 = "sha256-UnWTzfbhKKr/YIYY9whFVTvHEh5ANHkSv9C3E17VinU=";
     };
   };
   microsoft-edge-dev = {
@@ -680,13 +680,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d13f325216628031f2937b54e854c0922f4b5a54";
+    version = "f43b19db4fdb0374a7f341b1ec63a2e4608d3daa";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d13f325216628031f2937b54e854c0922f4b5a54";
+      rev = "f43b19db4fdb0374a7f341b1ec63a2e4608d3daa";
       fetchSubmodules = false;
-      sha256 = "sha256-ulJHvDqYEXFDBHu53YEB1xLCH/E7DJ3k1gSBPYs0H8A=";
+      sha256 = "sha256-sneThk/RFZhAO7ADgwLSEfMJz+1+pwH2VK9HvqOLaT8=";
     });
   };
   rofi-wayland = {
