@@ -2499,10 +2499,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.480";
+    version = "31.0.483";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.480/file/Prisma.prisma-insider-31.0.480.vsix";
-      sha256 = "sha256-tcjbShfYaX4NeMk0U0dlcQA75oubXTwIQPU+wgd3Itc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.483/file/Prisma.prisma-insider-31.0.483.vsix";
+      sha256 = "sha256-+TA0GpxjZF4uMl0VLP2fI+/cKvUpw51A6HmO61VOa7k=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -17931,10 +17931,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.0.7";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.0.7/file/yuyichao.digitaljs-0.0.7.vsix";
-      sha256 = "sha256-8w76potFlwtKIJtY86vp1Kte2M7860UHQQuPFZxLkCM=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.0/file/yuyichao.digitaljs-0.1.0.vsix";
+      sha256 = "sha256-RhDXPYtbE2QDySk3eW5HIBeFcnuHepF5WSyVjJA1L+Q=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
