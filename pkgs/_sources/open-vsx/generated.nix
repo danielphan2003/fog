@@ -543,10 +543,10 @@
   };
   ComplYue-edh-vscode-syntax = {
     pname = "ComplYue-edh-vscode-syntax";
-    version = "3.9.0";
+    version = "3.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ComplYue/edh-vscode-syntax/3.9.0/file/ComplYue.edh-vscode-syntax-3.9.0.vsix";
-      sha256 = "sha256-SpCmynQh2ZUvVw1+fOgEbOQbO7cCfcSdkMF1HTLPSK0=";
+      url = "https://open-vsx.org/api/ComplYue/edh-vscode-syntax/3.10.0/file/ComplYue.edh-vscode-syntax-3.10.0.vsix";
+      sha256 = "sha256-0XKqqrOPXIAT+/p3YmXa4Ss01/YxCT1xSxp1q7ReR6U=";
     };
     name = "edh-vscode-syntax";
     license = "MIT";
@@ -2499,10 +2499,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.483";
+    version = "31.0.484";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.483/file/Prisma.prisma-insider-31.0.483.vsix";
-      sha256 = "sha256-+TA0GpxjZF4uMl0VLP2fI+/cKvUpw51A6HmO61VOa7k=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.484/file/Prisma.prisma-insider-31.0.484.vsix";
+      sha256 = "sha256-UEfWK8v7kkgpUthn1NZh1n/K39owySE3Vk/1Lhjn9QE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -17931,10 +17931,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.0/file/yuyichao.digitaljs-0.1.0.vsix";
-      sha256 = "sha256-RhDXPYtbE2QDySk3eW5HIBeFcnuHepF5WSyVjJA1L+Q=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.1/file/yuyichao.digitaljs-0.1.1.vsix";
+      sha256 = "sha256-qMeSCI4tMO++otsZ9/cGFx4CydWMpmrQxaeWl2+YycA=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
