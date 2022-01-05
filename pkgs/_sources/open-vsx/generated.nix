@@ -17341,18 +17341,6 @@
     publisher = "vscodevim";
     description = "Vim emulation for Visual Studio Code";
   };
-  vscord-extension-vscord = {
-    pname = "vscord-extension-vscord";
-    version = "4.2.0";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/vscord-extension/vscord/4.2.0/file/vscord-extension.vscord-4.2.0.vsix";
-      sha256 = "sha256-0BBPJ5zaqN8Hd2QvjWtuxuWwKCOutcaM6jx07oVa15Y=";
-    };
-    name = "vscord";
-    license = "";
-    publisher = "vscord-extension";
-    description = "Fully customizable VS Code extension to get Discord Rich Presence integration";
-  };
   vshaxe-haxe-checkstyle = {
     pname = "vshaxe-haxe-checkstyle";
     version = "1.7.0";
