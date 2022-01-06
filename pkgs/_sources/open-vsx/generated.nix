@@ -17967,10 +17967,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.2/file/yuyichao.digitaljs-0.1.2.vsix";
-      sha256 = "sha256-ih+UAeZ1bv/TCl7wPpr7PF2ubsIP1MrDLk1BVtZ+U24=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.3/file/yuyichao.digitaljs-0.1.3.vsix";
+      sha256 = "sha256-O0LYLUHpBtouTwLbaxVFD7UvpgSb3PWJXHbXcVYxUbM=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
