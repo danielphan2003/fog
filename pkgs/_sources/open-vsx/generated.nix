@@ -10311,10 +10311,10 @@
   };
   manuth-markdown-converter = {
     pname = "manuth-markdown-converter";
-    version = "5.0.1";
+    version = "5.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/manuth/markdown-converter/5.0.1/file/manuth.markdown-converter-5.0.1.vsix";
-      sha256 = "sha256-lEOmM6J7Dong1JijN/oqgu2fCyyKh9jg32nEZHIHEKE=";
+      url = "https://open-vsx.org/api/manuth/markdown-converter/5.1.0/file/manuth.markdown-converter-5.1.0.vsix";
+      sha256 = "sha256-FVjBA8bhCgQ8DBkeb3HgRs9gY24jxpyto/pLPzebYu0=";
     };
     name = "markdown-converter";
     license = "MIT";
