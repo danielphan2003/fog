@@ -1047,10 +1047,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.40.0";
+    version = "3.40.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.40.0/file/GitLab.gitlab-workflow-3.40.0.vsix";
-      sha256 = "sha256-7l6Eq9WGapZ+FWuAwiFtRfdEJVAV65mbDdjBAQqR0H4=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.40.1/file/GitLab.gitlab-workflow-3.40.1.vsix";
+      sha256 = "sha256-5GTTBdTSH4vxvYsWUl81NlSyPJbvOltdAkTyep3n7wI=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -2511,10 +2511,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.488";
+    version = "31.0.489";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.488/file/Prisma.prisma-insider-31.0.488.vsix";
-      sha256 = "sha256-cW4qbGfaeHo+9APov04RDgLWBWsADZPmtcZXqN5tGyM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.489/file/Prisma.prisma-insider-31.0.489.vsix";
+      sha256 = "sha256-OSXnlb5tXNgg46mttTvI4JmoSTM+86qGyxiyVpArbiY=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
