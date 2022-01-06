@@ -2787,10 +2787,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.418";
+    version = "2022.1.516";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.418/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.418.vsix";
-      sha256 = "sha256-0uYh1hh/QGeECpfw2coQtufktKGdSBU2/881T9xH87g=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.516/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.516.vsix";
+      sha256 = "sha256-2soE6F1moGUeR5+1QTduko+GdG0CpzwPWv+sR0TEfOw=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -11079,10 +11079,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.203";
+    version = "1.1.204";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.203/file/ms-pyright.pyright-1.1.203.vsix";
-      sha256 = "sha256-YenOzd+CcPs4iaKhKqaLGMSQ1tCVGN5zZOYkeyA+Cyo=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.204/file/ms-pyright.pyright-1.1.204.vsix";
+      sha256 = "sha256-io5/bb5TVU5xbf9RcmM0iflPCnjnaN9CSvrap/xVMyk=";
     };
     name = "pyright";
     license = "MIT";
