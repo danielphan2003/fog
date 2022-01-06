@@ -1609,6 +1609,18 @@
     publisher = "KaanGenc";
     description = "Catch writing mistakes and insensitive language, improve your writing quality. Works on comments of programming languages, and markdown files.";
   };
+  KamasamaK-vscode-cfml = {
+    pname = "KamasamaK-vscode-cfml";
+    version = "0.5.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/KamasamaK/vscode-cfml/0.5.4/file/KamasamaK.vscode-cfml-0.5.4.vsix";
+      sha256 = "sha256-dckdhK989OACpGv7N1lobsiMRIRF97UXI4WIWtUJV54=";
+    };
+    name = "vscode-cfml";
+    license = "MIT";
+    publisher = "KamasamaK";
+    description = "CFML language";
+  };
   Kelvin-vscode-sshfs = {
     pname = "Kelvin-vscode-sshfs";
     version = "1.24.1";
@@ -2787,10 +2799,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.516";
+    version = "2022.1.609";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.516/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.516.vsix";
-      sha256 = "sha256-2soE6F1moGUeR5+1QTduko+GdG0CpzwPWv+sR0TEfOw=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.609/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.609.vsix";
+      sha256 = "sha256-MoqqO8nhdGgBnD/s2Jlv/UBo1Fz9Bdpun/zohlxbumg=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
