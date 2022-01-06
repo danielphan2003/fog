@@ -10885,6 +10885,18 @@
     publisher = "mkhl";
     description = "unclutter your .profile";
   };
+  mkhl-shfmt = {
+    pname = "mkhl-shfmt";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mkhl/shfmt/0.0.1/file/mkhl.shfmt-0.0.1.vsix";
+      sha256 = "sha256-RhKT3z9SeLODmDCBlFOO9RQuG/BygvwXPyxXAf9OjV8=";
+    };
+    name = "shfmt";
+    license = "0BSD";
+    publisher = "mkhl";
+    description = "format shell programs";
+  };
   mongodb-mongodb-vscode = {
     pname = "mongodb-mongodb-vscode";
     version = "0.7.0";
@@ -17955,10 +17967,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.1/file/yuyichao.digitaljs-0.1.1.vsix";
-      sha256 = "sha256-qMeSCI4tMO++otsZ9/cGFx4CydWMpmrQxaeWl2+YycA=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.1.2/file/yuyichao.digitaljs-0.1.2.vsix";
+      sha256 = "sha256-ih+UAeZ1bv/TCl7wPpr7PF2ubsIP1MrDLk1BVtZ+U24=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
