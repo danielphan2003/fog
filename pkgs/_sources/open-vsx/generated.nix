@@ -3447,10 +3447,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "3.4.1";
+    version = "3.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.1/file/a5hk.night-coder-3.4.1.vsix";
-      sha256 = "sha256-mi+568TSVRYQoqB5d9JOnvG0VU6YT8uen/B2y9RYsf4=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.2/file/a5hk.night-coder-3.4.2.vsix";
+      sha256 = "sha256-vOJYEk1YTXA38jltaX9ofpNDKsTG3V1NnNXkkgtgRa0=";
     };
     name = "night-coder";
     license = "MIT";
@@ -3471,10 +3471,10 @@
   };
   a5hk-tabulate = {
     pname = "a5hk-tabulate";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/tabulate/0.4.0/file/a5hk.tabulate-0.4.0.vsix";
-      sha256 = "sha256-etG9HnkDj6XbkevM7j0nD622jgF2nurlgscedchlgQE=";
+      url = "https://open-vsx.org/api/a5hk/tabulate/0.5.0/file/a5hk.tabulate-0.5.0.vsix";
+      sha256 = "sha256-qoRgZW+cZCDRc/u+AJeU/v48dzeyWFWVtrsj+LpFIKs=";
     };
     name = "tabulate";
     license = "MIT";
