@@ -7971,10 +7971,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.19";
+    version = "0.8.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.19/file/halcyontechltd.code-for-ibmi-0.8.19.vsix";
-      sha256 = "sha256-FN5lt0LaP4qqOjmRrXfPuF3x774phWug6rnTU5sxnEw=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.20/file/halcyontechltd.code-for-ibmi-0.8.20.vsix";
+      sha256 = "sha256-2O1WlB8lTKDYO1/g3qq/2FOMEvd8Ek6dHXD+ODC6PMY=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -8187,10 +8187,10 @@
   };
   hirosystems-clarity-lsp = {
     pname = "hirosystems-clarity-lsp";
-    version = "0.5.1";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.5.1/file/hirosystems.clarity-lsp-0.5.1.vsix";
-      sha256 = "sha256-jgrjNzL5UfMH0nzS7fe2o1qoVFyqR07qk4BM7ibU+e4=";
+      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.6.0/file/hirosystems.clarity-lsp-0.6.0.vsix";
+      sha256 = "sha256-8okte/3i3d9jcp4b3SVQUBxG/XaQJvO8FGxGUJJq8A4=";
     };
     name = "clarity-lsp";
     license = "GPL-3.0-only";
