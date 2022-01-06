@@ -134,13 +134,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "2f8e4a64facbc34dc3cfb3ed2864dd5774b88489";
+    version = "a71b64eb97b4c33efb164d33932ff691a79902ce";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "2f8e4a64facbc34dc3cfb3ed2864dd5774b88489";
+      rev = "a71b64eb97b4c33efb164d33932ff691a79902ce";
       fetchSubmodules = false;
-      sha256 = "sha256-uMRAsAKG9PO3PcncY1rqVhtaGXtzihw3l3am+ORxqaI=";
+      sha256 = "sha256-MFytv6BnTUYCCCWtYt/rcNESedcKJQwO3dTW+Her1IE=";
     });
   };
   caddy = {
@@ -253,13 +253,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "1bccad6a0abc0a1a10fd9c87896d0d7045974fef";
+    version = "744bcd666bcc6fa0b15163b07f54ca372a59a840";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "1bccad6a0abc0a1a10fd9c87896d0d7045974fef";
+      rev = "744bcd666bcc6fa0b15163b07f54ca372a59a840";
       fetchSubmodules = false;
-      sha256 = "sha256-6IDvZbTMJmeFxl6+BN4MOBUAsQMdF+6JVVc/EfVal6M=";
+      sha256 = "sha256-v0mJbjboiXhxK5vRq5kG3P4v5c+Ag/CTBhzpoQggkjk=";
     });
   };
   flyingfox = {
