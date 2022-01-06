@@ -14629,6 +14629,18 @@
     publisher = "srimukh";
     description = "Slowbug is a VS Code extension for debugging your code in slow-mo.";
   };
+  ss13-oss-tools-dm-langclient = {
+    pname = "ss13-oss-tools-dm-langclient";
+    version = "0.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ss13-oss-tools/dm-langclient/0.2.2/file/ss13-oss-tools.dm-langclient-0.2.2.vsix";
+      sha256 = "sha256-luMHKvUf/W4O1xrjqA45rN9VYkCB9fB4iVX544yj8bU=";
+    };
+    name = "dm-langclient";
+    license = "GPL-3.0";
+    publisher = "ss13-oss-tools";
+    description = "Client for DreamMaker language server";
+  };
   sshimono-testlatte = {
     pname = "sshimono-testlatte";
     version = "2.1.1";
