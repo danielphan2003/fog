@@ -134,24 +134,24 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5fdfb78482c482e3e12b1f1181bc204e09707c81";
+    version = "0c4a81629f23f15e9f3f776508eff06ee5e3f4d6";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "5fdfb78482c482e3e12b1f1181bc204e09707c81";
+      rev = "0c4a81629f23f15e9f3f776508eff06ee5e3f4d6";
       fetchSubmodules = false;
-      sha256 = "sha256-ISANdL+b33UIKulcpwJfVmGUECKsdZT6qWiKbb3pe5U=";
+      sha256 = "sha256-UvSI4j7sU6PJWzdS7Yffx8I57lbH1A+lP7Zbb8DTIcQ=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "4b9849c7922c3a0a7b1bd487f5d890fcff32aaba";
+    version = "c634bbe9cc7ef6ce6f9f776010ce96384fd43340";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "4b9849c7922c3a0a7b1bd487f5d890fcff32aaba";
+      rev = "c634bbe9cc7ef6ce6f9f776010ce96384fd43340";
       fetchSubmodules = false;
-      sha256 = "sha256-9LqcH8XMZ95l4qnf+dXciLOnrTIvXL7sVHZm+I8Eek8=";
+      sha256 = "sha256-gv9DDY3eVVQk5hO4Oaza9P3budRh436xXxZzVySA3B8=";
     });
   };
   conduit = {
@@ -721,16 +721,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "089acaa6e7f15cc849f6b40357739d38942f1ddb";
+    version = "03fb47b3128e09871c75934a8a46f3ee445b21c7";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "089acaa6e7f15cc849f6b40357739d38942f1ddb";
+      rev = "03fb47b3128e09871c75934a8a46f3ee445b21c7";
       fetchSubmodules = false;
-      sha256 = "sha256-o8Yc7tK8bYwY2n+Qbv5AxQuGKUqk/i4eEyzcSFQfrQs=";
+      sha256 = "sha256-GY3LLDplH1rsP9AVpjoD5dl1lEmpSMCdirSaDsUnMtQ=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-089acaa6e7f15cc849f6b40357739d38942f1ddb/Cargo.lock;
+      lockFile = ./rustdesk-03fb47b3128e09871c75934a8a46f3ee445b21c7/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -906,13 +906,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "138662e248cbe1170812c0d23ecf7cd3a7080c92";
+    version = "1a4e8da0849fb5581f4ede1fdd07fe7009d91e1e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "138662e248cbe1170812c0d23ecf7cd3a7080c92";
+      rev = "1a4e8da0849fb5581f4ede1fdd07fe7009d91e1e";
       fetchSubmodules = false;
-      sha256 = "sha256-UEG1wiu6E8rS+WYkWIwAD2vmvd1et8Hya9hOa+N4Tb8=";
+      sha256 = "sha256-BU/XtQpLsc+qhvfXwxMKSS4vI/u1cHKWlcb25r0DMJk=";
     });
   };
   tailscale-systray = {
