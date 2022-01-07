@@ -4047,10 +4047,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.21.2";
+    version = "0.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.21.2/file/antfu.unocss-0.21.2.vsix";
-      sha256 = "sha256-nGAnUp9qzFIXrf/LKrembnTHq+YHS4SG31ay1GinbI0=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.22.0/file/antfu.unocss-0.22.0.vsix";
+      sha256 = "sha256-kVehhHNRl2NZYM2+W0FZnPrJHvRnL9Uqhmbx10yJXkI=";
     };
     name = "unocss";
     license = "MIT";
