@@ -2511,10 +2511,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.491";
+    version = "31.0.493";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.491/file/Prisma.prisma-insider-31.0.491.vsix";
-      sha256 = "sha256-GjDUk/vUngNZppzF7iPXBKa6IhKDjFqfp07uSF1otK8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.493/file/Prisma.prisma-insider-31.0.493.vsix";
+      sha256 = "sha256-VZmKkAE5R9CsELF2nBwWmmHxGqu9S8xZz0cpLN64qgA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -10455,10 +10455,10 @@
   };
   matklad-rust-analyzer = {
     pname = "matklad-rust-analyzer";
-    version = "0.2.890";
+    version = "0.2.880";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matklad/rust-analyzer/0.2.890/file/matklad.rust-analyzer-0.2.890.vsix";
-      sha256 = "sha256-9gRCyQZf8rWNWAtt6gB3c/xxHvi2RzJvKLZn+OD602A=";
+      url = "https://open-vsx.org/api/matklad/rust-analyzer/0.2.880/file/matklad.rust-analyzer-0.2.880.vsix";
+      sha256 = "sha256-Si6vDi6g6JkTMrti5uSZuouEVC2OyPprI8syFLV8foI=";
     };
     name = "rust-analyzer";
     license = "MIT OR Apache-2.0";
