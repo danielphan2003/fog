@@ -6711,10 +6711,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "5.10.1659626";
+    version = "5.10.1667430";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.10.1659626/file/eliostruyf.vscode-front-matter-beta-5.10.1659626.vsix";
-      sha256 = "sha256-ul//dommDhTFUZo1KVqaQso+KO5Xs4bRopdyAMOb2Dw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.10.1667430/file/eliostruyf.vscode-front-matter-beta-5.10.1667430.vsix";
+      sha256 = "sha256-QZ7Wv9ejCKdpmAcNPZhy/Em18YqKAJhmoIdTgv1GdKI=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -15315,10 +15315,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.2.1";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.2.1/file/tfsec.tfsec-1.2.1.vsix";
-      sha256 = "sha256-/q9TADKkYcWY2EIohsEI+nx9EcLf5a34ueWmIumwrBE=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.3.0/file/tfsec.tfsec-1.3.0.vsix";
+      sha256 = "sha256-VD/uLJwpZvZ7S6468wArnrKZw5TaxJej86g/VCMtYV0=";
     };
     name = "tfsec";
     license = "MIT";
