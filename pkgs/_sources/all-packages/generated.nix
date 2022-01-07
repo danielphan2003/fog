@@ -680,13 +680,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "483d1f2ac7469f5e6d93e3a2eb87745e3717fcab";
+    version = "b7d77e94847d00ca055a0e2211e7e6c10499318c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "483d1f2ac7469f5e6d93e3a2eb87745e3717fcab";
+      rev = "b7d77e94847d00ca055a0e2211e7e6c10499318c";
       fetchSubmodules = false;
-      sha256 = "sha256-oye3NaO2ba6rVxC554KeQq953gNvymycNBJcPCdXknk=";
+      sha256 = "sha256-vNSZk6dGFmAWbKuhpJzr2qrRjLNkTq+6FjI1gZuQD/Y=";
     });
   };
   rofi-wayland = {
@@ -702,22 +702,22 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e82f040d6d89597f2ba4897ccb82fd1b794ac1e0";
+    version = "9df1fcb783dbb2616a873260ad18291410c137fb";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e82f040d6d89597f2ba4897ccb82fd1b794ac1e0";
+      rev = "9df1fcb783dbb2616a873260ad18291410c137fb";
       fetchSubmodules = false;
-      sha256 = "sha256-FMvjIgUS7hZT3GcUrZHFV8wj244yYhcHrXhti8ymmvI=";
+      sha256 = "sha256-fQ65W8HEW5hw6QFtxveW0WVkk5I8f1Xe8OY/SZc/ZpM=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-e82f040d6d89597f2ba4897ccb82fd1b794ac1e0/Cargo.lock;
+      lockFile = ./rustdesk-9df1fcb783dbb2616a873260ad18291410c137fb/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
-        "tigervnc-1.0.0" = "sha256-jVUZe+TDvgNNQRltdvV/9B3sA2vseZVb+xgvIhkhLzs=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "libappindicator-0.6.1" = "sha256-JGnnZrcwbh8WJ6+/4bYhfD3HvgF2C7XaaGb6TaMRWdw=";
         "cpal-0.13.4" = "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=";
+        "tigervnc-1.0.1" = "sha256-xCQx714KzjuRM2S7g9/D5bCT0gvWDNqOrbtde6niMt4=";
         "sciter-rs-0.5.57" = "sha256-pF5Rwav78//oqDAv0Nhb7tawhSMnlSuy4sPUOfPd8NU=";
         "psutil-3.2.1" = "sha256-n3LTTDBCW+l0xKFGHdFHePlw998nO6G9K7PCWdukN/0=";
         "tokio-socks-0.5.1" = "sha256-t1ApX9Saxa01agFp37iAj3xu39mdtTGsd9zUx+XwHko=";
