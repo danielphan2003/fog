@@ -10047,10 +10047,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.4.5";
+    version = "1.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.4.5/file/leodevbro.blockman-1.4.5.vsix";
-      sha256 = "sha256-0glvMxVBIOsdSrG+KCqNm+FvF5DsDKUwuTIAWeLEr9c=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.4.6/file/leodevbro.blockman-1.4.6.vsix";
+      sha256 = "sha256-XhPWd3wpwyU1cIGzOZi35ElZdi9QA6fNVTqB/iVQxOk=";
     };
     name = "blockman";
     license = "MIT";
@@ -10311,10 +10311,10 @@
   };
   manuth-markdown-converter = {
     pname = "manuth-markdown-converter";
-    version = "5.1.1";
+    version = "5.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/manuth/markdown-converter/5.1.1/file/manuth.markdown-converter-5.1.1.vsix";
-      sha256 = "sha256-FSPdczSrwHmkUg2+6ifoFHM0/dk0EaAm+W2oV1pO7Zc=";
+      url = "https://open-vsx.org/api/manuth/markdown-converter/5.1.2/file/manuth.markdown-converter-5.1.2.vsix";
+      sha256 = "sha256-WsSI6NVcFtgk7Kww0+laUP/HfmDolnU0+K2L0UsbHEc=";
     };
     name = "markdown-converter";
     license = "MIT";
