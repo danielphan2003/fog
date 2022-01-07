@@ -11883,10 +11883,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.8.0";
+    version = "6.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.8.0/file/nicoespeon.abracadabra-6.8.0.vsix";
-      sha256 = "sha256-6mTlWRTfkHNMyIJDpu/IXQUy0aBIxIwwyAJh8JEf82A=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.9.0/file/nicoespeon.abracadabra-6.9.0.vsix";
+      sha256 = "sha256-pPCwcLG+TJ2idlnS+C8J4SseQFSBqXm46E8Ic++hhZM=";
     };
     name = "abracadabra";
     license = "MIT";
