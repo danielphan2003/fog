@@ -9889,6 +9889,18 @@
     publisher = "kumar-harsh";
     description = "GraphQL syntax highlighting, linting, auto-complete, and more!";
   };
+  kuroidoruido-gobelin-vscode = {
+    pname = "kuroidoruido-gobelin-vscode";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kuroidoruido/gobelin-vscode/1.1.0/file/kuroidoruido.gobelin-vscode-1.1.0.vsix";
+      sha256 = "sha256-xk6B41KGi5eDTo6HQLHqAHZwASpbVu+m/Z7KzuqU7K8=";
+    };
+    name = "gobelin-vscode";
+    license = "GPL-3.0";
+    publisher = "kuroidoruido";
+    description = "Gobelin integration for VSCode.";
+  };
   laggardkernel-vscode-theme-onelight = {
     pname = "laggardkernel-vscode-theme-onelight";
     version = "0.2.0";
