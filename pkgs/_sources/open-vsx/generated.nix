@@ -8115,10 +8115,10 @@
   };
   hediet-vscode-drawio = {
     pname = "hediet-vscode-drawio";
-    version = "1.6.3";
+    version = "1.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hediet/vscode-drawio/1.6.3/file/hediet.vscode-drawio-1.6.3.vsix";
-      sha256 = "sha256-vORl64zTqfQCm3NkYGiAgfnRqvpzcyL7cxppRAPPmGQ=";
+      url = "https://open-vsx.org/api/hediet/vscode-drawio/1.6.4/file/hediet.vscode-drawio-1.6.4.vsix";
+      sha256 = "sha256-+VYdFk9VCp3KnvOASJ+jJSb1NBwykBlnd8EuSKw8sKI=";
     };
     name = "vscode-drawio";
     license = "GPL-3.0";
@@ -15312,6 +15312,18 @@
     license = "GPL-3.0";
     publisher = "teros-technology";
     description = "Powerful IDE for ASIC/FPGA: state machine viewer, linter, documentation, snippets... and more! ";
+  };
+  tfsec-tfsec = {
+    pname = "tfsec-tfsec";
+    version = "1.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.2.1/file/tfsec.tfsec-1.2.1.vsix";
+      sha256 = "sha256-/q9TADKkYcWY2EIohsEI+nx9EcLf5a34ueWmIumwrBE=";
+    };
+    name = "tfsec";
+    license = "MIT";
+    publisher = "tfsec";
+    description = "Tfsec integration for Visual Studio Code";
   };
   tgrospic-rholang = {
     pname = "tgrospic-rholang";
