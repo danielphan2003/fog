@@ -2799,10 +2799,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.609";
+    version = "2022.1.612";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.609/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.609.vsix";
-      sha256 = "sha256-MoqqO8nhdGgBnD/s2Jlv/UBo1Fz9Bdpun/zohlxbumg=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.612/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.612.vsix";
+      sha256 = "sha256-d25cUsdFcnTLHjgPz9ddbawhPWQrzp4OFekTKlRaEqM=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -11079,10 +11079,10 @@
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
-    version = "1.3.4";
+    version = "1.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.4/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.4.vsix";
-      sha256 = "sha256-LXcIwE+sL7ZJU6dsJkrko4CzQb6T+FcgL6OC+iQtVEU=";
+      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.5/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.5.vsix";
+      sha256 = "sha256-ZI85GNjjWYDeRDQ6dEixdOmpq0dhLCjXNeQ+9jxrhQU=";
     };
     name = "vscode-kubernetes-tools";
     license = "MIT";
@@ -18195,10 +18195,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.9";
+    version = "3.13.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.9/file/zhuangtongfa.material-theme-3.13.9.vsix";
-      sha256 = "sha256-oGR/SIoDBZVPD/1mEiHdSbMHH36nY860X5VbFKb54I8=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.10/file/zhuangtongfa.material-theme-3.13.10.vsix";
+      sha256 = "sha256-4E0BGJymz5sBgHuwF7SnuPjZD0SJK2IdvtqfkfgdigM=";
     };
     name = "material-theme";
     license = "MIT";
