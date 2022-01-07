@@ -1035,10 +1035,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.34.2";
+    version = "0.34.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.34.2/file/GitHub.vscode-pull-request-github-0.34.2.vsix";
-      sha256 = "sha256-6PRnCn80eCOTPRxakkTr0vYQAp7oacO/rt/m2580bZg=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.34.3/file/GitHub.vscode-pull-request-github-0.34.3.vsix";
+      sha256 = "sha256-sBgpgKg43nhn1JaMv7BumkNcrlJIGycbF20nwSK0jh4=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -7143,10 +7143,10 @@
   };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
-    version = "0.4.4";
+    version = "0.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.4/file/fernandoescolar.vscode-solution-explorer-0.4.4.vsix";
-      sha256 = "sha256-iQzOBz101y3pWFQWSoihYRKPiZWN2AV1aai5HgB4uHA=";
+      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.5/file/fernandoescolar.vscode-solution-explorer-0.4.5.vsix";
+      sha256 = "sha256-cduQKzWy/E8MwP9PQZICkOkwV7fra/Yk4lz9AKfE2Yg=";
     };
     name = "vscode-solution-explorer";
     license = "MIT";
@@ -7983,10 +7983,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.20";
+    version = "0.8.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.20/file/halcyontechltd.code-for-ibmi-0.8.20.vsix";
-      sha256 = "sha256-2O1WlB8lTKDYO1/g3qq/2FOMEvd8Ek6dHXD+ODC6PMY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.21/file/halcyontechltd.code-for-ibmi-0.8.21.vsix";
+      sha256 = "sha256-oX4ZJf0O0Jp+5pi8CxlZQJYfSEAsm+QHYU5PjZgQHEI=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -18168,6 +18168,18 @@
     license = "MIT";
     publisher = "zewish";
     description = "Greyburst Theme is a lighter alternative to the Sunburst Theme";
+  };
+  zha999-vscode-plugin-demo = {
+    pname = "zha999-vscode-plugin-demo";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zha999/vscode-plugin-demo/1.0.3/file/zha999.vscode-plugin-demo-1.0.3.vsix";
+      sha256 = "sha256-cC7X45kR+zRiAx1JlWhJyb32Pi3PpZGDSRt5eJW09ts=";
+    };
+    name = "vscode-plugin-demo";
+    license = "MIT";
+    publisher = "zha999";
+    description = "VSCode\25554\20214demo";
   };
   zhanghua-vscodium-language-pack-zh-cn = {
     pname = "zhanghua-vscodium-language-pack-zh-cn";
