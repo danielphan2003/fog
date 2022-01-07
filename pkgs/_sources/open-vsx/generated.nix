@@ -4815,10 +4815,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.232";
+    version = "2.0.233";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.232/file/betterthantomorrow.calva-2.0.232.vsix";
-      sha256 = "sha256-i3xyuvJ0J6SjA0YFpfAgmMMPBKc4byMwfv1hGuqMtRU=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.233/file/betterthantomorrow.calva-2.0.233.vsix";
+      sha256 = "sha256-Wnhnt2Jj9nWZHmVNvJRpNgvqXHvtOPHvWaTt5YRAHf4=";
     };
     name = "calva";
     license = "MIT";
@@ -18060,6 +18060,30 @@
     license = "MIT";
     publisher = "zardoy";
     description = "THE FASTEST way to switch between cloned GitHub repos";
+  };
+  zardoy-npm-rapid-ready = {
+    pname = "zardoy-npm-rapid-ready";
+    version = "0.0.16";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.16/file/zardoy.npm-rapid-ready-0.0.16.vsix";
+      sha256 = "sha256-47OiQwGosNUGsxHuP0kQ20Jez04Csc9z1o7WoReH790=";
+    };
+    name = "npm-rapid-ready";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "Full-featured extension for npm ecosystem";
+  };
+  zardoy-npm-the-fastest = {
+    pname = "zardoy-npm-the-fastest";
+    version = "0.0.15";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/npm-the-fastest/0.0.15/file/zardoy.npm-the-fastest-0.0.15.vsix";
+      sha256 = "sha256-c15Opnh33PMtHqzKlym0aTQ5bI5JS5qLB4JOw8Us2Ns=";
+    };
+    name = "npm-the-fastest";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "Full-featured extension for npm ecosystem";
   };
   zardoy-terminal-code-runner = {
     pname = "zardoy-terminal-code-runner";
