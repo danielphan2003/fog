@@ -9291,10 +9291,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.42";
+    version = "0.16.43";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.42/file/jroesch.lean-0.16.42.vsix";
-      sha256 = "sha256-wQ1gNaBCZFUmBE6hAkeLIKa7cN9LYFPBQwD7oij08Y8=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.43/file/jroesch.lean-0.16.43.vsix";
+      sha256 = "sha256-zWizJF3Y7Wuc3f1Sulk/MtSa1VLQMob1Qo9+N1Aw6xM=";
     };
     name = "lean";
     license = "Apache-2.0";
