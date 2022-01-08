@@ -2043,10 +2043,10 @@
   };
   MarkMcCulloh-vscode-projen = {
     pname = "MarkMcCulloh-vscode-projen";
-    version = "0.0.26";
+    version = "0.0.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.26/file/MarkMcCulloh.vscode-projen-0.0.26.vsix";
-      sha256 = "sha256-HzmuQixlxKTydO1RQ8pT8ibZcYJBtbdBmQRLPTXMIOA=";
+      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.27/file/MarkMcCulloh.vscode-projen-0.0.27.vsix";
+      sha256 = "sha256-redCYMVdtOd8W6HnS0qTJ1iVfP/bmbDrHuGyesoUk28=";
     };
     name = "vscode-projen";
     license = "Apache-2.0";
@@ -2799,10 +2799,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.612";
+    version = "2022.1.803";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.612/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.612.vsix";
-      sha256 = "sha256-d25cUsdFcnTLHjgPz9ddbawhPWQrzp4OFekTKlRaEqM=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.803/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.803.vsix";
+      sha256 = "sha256-Hg0Wa/CgC3LoWAQFk7WaoYMLQROEAkUCcevW7a3S/VY=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -11115,10 +11115,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.204";
+    version = "1.1.205";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.204/file/ms-pyright.pyright-1.1.204.vsix";
-      sha256 = "sha256-io5/bb5TVU5xbf9RcmM0iflPCnjnaN9CSvrap/xVMyk=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.205/file/ms-pyright.pyright-1.1.205.vsix";
+      sha256 = "sha256-+3mJi6xIeNhFo0/lZ4zhd1LyZS+MgR9Z1YNBl04ZFtc=";
     };
     name = "pyright";
     license = "MIT";
@@ -11952,6 +11952,18 @@
     license = "UNLICENSED";
     publisher = "nju33ki";
     description = "";
+  };
+  njzy-stats-bar = {
+    pname = "njzy-stats-bar";
+    version = "0.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/njzy/stats-bar/0.5.0/file/njzy.stats-bar-0.5.0.vsix";
+      sha256 = "sha256-rsXi9BupoYMzI+U+W6yxvApF6a9DrPmLyVh4Rbo2up0=";
+    };
+    name = "stats-bar";
+    license = "MIT";
+    publisher = "njzy";
+    description = "A status bar to show system stats";
   };
   nocalhost-nocalhost = {
     pname = "nocalhost-nocalhost";
