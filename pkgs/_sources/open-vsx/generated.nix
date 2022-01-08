@@ -2043,10 +2043,10 @@
   };
   MarkMcCulloh-vscode-projen = {
     pname = "MarkMcCulloh-vscode-projen";
-    version = "0.0.25";
+    version = "0.0.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.25/file/MarkMcCulloh.vscode-projen-0.0.25.vsix";
-      sha256 = "sha256-7ya96RiY6jO10JeA6DDYFWtcGr6zWaaXsPg1pYDGTUw=";
+      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.26/file/MarkMcCulloh.vscode-projen-0.0.26.vsix";
+      sha256 = "sha256-HzmuQixlxKTydO1RQ8pT8ibZcYJBtbdBmQRLPTXMIOA=";
     };
     name = "vscode-projen";
     license = "Apache-2.0";
@@ -4983,10 +4983,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.7.4";
+    version = "0.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.4/file/bradlc.vscode-tailwindcss-0.7.4.vsix";
-      sha256 = "sha256-AtveBpiAlsVSEjEUvpPA07ku4N29ZSi5d7fAy8gs2y8=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.5/file/bradlc.vscode-tailwindcss-0.7.5.vsix";
+      sha256 = "sha256-VJPQdD/nit6dulFEHKtq7X/mLqMpYTEX0QeRyJ2bPtI=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -5511,10 +5511,10 @@
   };
   codingyu-laravel-goto-view = {
     pname = "codingyu-laravel-goto-view";
-    version = "1.3.6";
+    version = "1.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codingyu/laravel-goto-view/1.3.6/file/codingyu.laravel-goto-view-1.3.6.vsix";
-      sha256 = "sha256-ygEfkbNOLQpoacTwZJ9H6K0svLNhorB2pqrDNmhjPyY=";
+      url = "https://open-vsx.org/api/codingyu/laravel-goto-view/1.3.7/file/codingyu.laravel-goto-view-1.3.7.vsix";
+      sha256 = "sha256-ROgUQ4PXjw4hCQGG29gJkXvfz8cwsPqx2qwEO8+rIRc=";
     };
     name = "laravel-goto-view";
     license = "MIT";
@@ -8019,10 +8019,10 @@
   };
   hashicorp-terraform = {
     pname = "hashicorp-terraform";
-    version = "2.17.0";
+    version = "2.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hashicorp/terraform/2.17.0/file/hashicorp.terraform-2.17.0.vsix";
-      sha256 = "sha256-YFvgvGRu7oHiR5AmEVb7hqZvK6zWy8Oe7B5c1sDzu10=";
+      url = "https://open-vsx.org/api/hashicorp/terraform/2.18.0/file/hashicorp.terraform-2.18.0.vsix";
+      sha256 = "sha256-jeUd7Yd12G6kwzvZNskNuilXjS21eABXnN8pTphghPc=";
     };
     name = "terraform";
     license = "MPL-2.0";
