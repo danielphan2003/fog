@@ -2043,10 +2043,10 @@
   };
   MarkMcCulloh-vscode-projen = {
     pname = "MarkMcCulloh-vscode-projen";
-    version = "0.0.24";
+    version = "0.0.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.24/file/MarkMcCulloh.vscode-projen-0.0.24.vsix";
-      sha256 = "sha256-qWhiFwTAcGeAH13119e85VeSYmGjZtY+aZVcxaHibjs=";
+      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.25/file/MarkMcCulloh.vscode-projen-0.0.25.vsix";
+      sha256 = "sha256-7ya96RiY6jO10JeA6DDYFWtcGr6zWaaXsPg1pYDGTUw=";
     };
     name = "vscode-projen";
     license = "Apache-2.0";
