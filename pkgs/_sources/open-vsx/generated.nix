@@ -15207,10 +15207,10 @@
   };
   svsool-markdown-memo = {
     pname = "svsool-markdown-memo";
-    version = "0.3.16";
+    version = "0.3.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.16/file/svsool.markdown-memo-0.3.16.vsix";
-      sha256 = "sha256-BCvueBboFQsu9pvwLDiGMkZKSG8fkd24qgLIpjbJdCk=";
+      url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.17/file/svsool.markdown-memo-0.3.17.vsix";
+      sha256 = "sha256-JyT/Cjmlslo/OosEuWnu67CHnklITR9oTUtLq/8vC/s=";
     };
     name = "markdown-memo";
     license = "MIT";
