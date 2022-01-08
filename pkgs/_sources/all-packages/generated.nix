@@ -173,6 +173,44 @@
       };
     };
   };
+  conduit-rocksdb = {
+    pname = "conduit-rocksdb";
+    version = "5f64e24a6e90bc75184aa6f194b136c7d0cc90c0";
+    src = fetchgit {
+      url = "https://gitlab.com/famedly/conduit";
+      rev = "5f64e24a6e90bc75184aa6f194b136c7d0cc90c0";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-+sne96xnoGWDUJlOBbP8QEo/c6yVBs+AQ6woYYDkLfQ=";
+    };
+    cargoLock = {
+      lockFile = ./conduit-rocksdb-5f64e24a6e90bc75184aa6f194b136c7d0cc90c0/Cargo.lock;
+      outputHashes = {
+        "ruma-0.4.0" = "sha256-29/J4CzlOPpBssn9FvsjbQoKe/VXstDWsACO2qFtnUU=";
+        "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
+      };
+    };
+  };
+  conduit-rocksdb-lazy-loading = {
+    pname = "conduit-rocksdb-lazy-loading";
+    version = "3f70b260a9332a2ab76899de18b1372e79323856";
+    src = fetchgit {
+      url = "https://gitlab.com/famedly/conduit";
+      rev = "3f70b260a9332a2ab76899de18b1372e79323856";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-VaQCz6MZDmMPGzBFehdQgTdn6ZDEFw6V0IEWAgFi2tI=";
+    };
+    cargoLock = {
+      lockFile = ./conduit-rocksdb-lazy-loading-3f70b260a9332a2ab76899de18b1372e79323856/Cargo.lock;
+      outputHashes = {
+        "ruma-0.4.0" = "sha256-29/J4CzlOPpBssn9FvsjbQoKe/VXstDWsACO2qFtnUU=";
+        "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
+      };
+    };
+  };
   cups-pdf = {
     pname = "cups-pdf";
     version = "3.0.1";
