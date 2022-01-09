@@ -76,12 +76,6 @@ src.branch = "rocksdb"
 fetch.git = "https://gitlab.com/famedly/conduit"
 cargo_lock = "Cargo.lock"
 
-[conduit-rocksdb-lazy-loading]
-src.git = "https://gitlab.com/famedly/conduit"
-src.branch = "lazy-loading"
-fetch.git = "https://gitlab.com/famedly/conduit"
-cargo_lock = "Cargo.lock"
-
 [cups-pdf]
 src.webpage = "https://www.cups-pdf.de/src"
 src.regex = "cups-pdf_(.*)\\.tar\\.gz\">cups-pdf_"
@@ -198,6 +192,10 @@ fetch.github = "RMTT/lua-pam"
 [manix]
 src.git = "https://github.com/mlvzk/manix"
 fetch.github = "mlvzk/manix"
+
+[matrix-appservice-discord]
+src.github = "Half-Shot/matrix-appservice-discord"
+fetch.github = "Half-Shot/matrix-appservice-discord"
 
 [microsoft-edge-beta]
 src.webpage = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/"
