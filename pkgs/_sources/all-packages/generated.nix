@@ -302,13 +302,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "744bcd666bcc6fa0b15163b07f54ca372a59a840";
+    version = "c13270b7e5354b057ba33e2768c3711d5adcb7b6";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "744bcd666bcc6fa0b15163b07f54ca372a59a840";
+      rev = "c13270b7e5354b057ba33e2768c3711d5adcb7b6";
       fetchSubmodules = false;
-      sha256 = "sha256-v0mJbjboiXhxK5vRq5kG3P4v5c+Ag/CTBhzpoQggkjk=";
+      sha256 = "sha256-nLI4o9mADwlnyMB0H0q7IBBgxEybs4/EuKT1VEBXCa0=";
     });
   };
   flyingfox = {
@@ -562,13 +562,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "8fdb1746433d0c9eea37f5022d80aa35b204e55f";
+    version = "378aa33cf3710bd3a3d1963a8840a1bb81abaae3";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "8fdb1746433d0c9eea37f5022d80aa35b204e55f";
+      rev = "378aa33cf3710bd3a3d1963a8840a1bb81abaae3";
       fetchSubmodules = false;
-      sha256 = "sha256-aZQTYzt2f2s5jQVr8hxdePjxqrQf+69VLXKiE6hGMX4=";
+      sha256 = "sha256-BIJq1VJM+9PrG1tsDCtO8lCnyCOimvvI0N9JCoNEY04=";
     });
   };
   ny-font = {
@@ -947,13 +947,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "1ffc21ad71ca0086d53c75de10d223229afda78f";
+    version = "408522ddad8949c31a60b047f2a55cc96a4db67f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "1ffc21ad71ca0086d53c75de10d223229afda78f";
+      rev = "408522ddad8949c31a60b047f2a55cc96a4db67f";
       fetchSubmodules = false;
-      sha256 = "sha256-UCPAq+NVUD81zh6uYJRTIlvvrJVW6pzR+PPXuUXVpKQ=";
+      sha256 = "sha256-GRHER/o9DD3YTImcATZCT0hbIQN3VDDUIK5vIjf/ylY=";
     });
   };
   tailscale-systray = {
