@@ -718,13 +718,13 @@
   };
   rainfox = {
     pname = "rainfox";
-    version = "6d8f078c0efb7b11777628d224894fff1fb22e15";
+    version = "7fc694f3ddd7d4ba56294b42f14c9148a4c0aa8d";
     src = fetchFromGitHub ({
       owner = "1280px";
       repo = "rainfox";
-      rev = "6d8f078c0efb7b11777628d224894fff1fb22e15";
+      rev = "7fc694f3ddd7d4ba56294b42f14c9148a4c0aa8d";
       fetchSubmodules = false;
-      sha256 = "sha256-OaeIKCE5EK9YkSlJPho3zPtvCnLtQ+WIEjhEJhCSMVk=";
+      sha256 = "sha256-Ftf8dkE6vdVGaeAFIQRJBYf7wv+DqoAy/LID0bPj6RY=";
     });
   };
   redshift = {
