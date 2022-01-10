@@ -729,13 +729,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ad4f6176ffba0eb2e830a969bb2a2f1f5944733a";
+    version = "3e3cf904caf8ef770d8043d08155910850827b07";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ad4f6176ffba0eb2e830a969bb2a2f1f5944733a";
+      rev = "3e3cf904caf8ef770d8043d08155910850827b07";
       fetchSubmodules = false;
-      sha256 = "sha256-Wco0We0KkN1WbpqZycP1Oo+DXkhyDDMMw5ThO5Kat7Y=";
+      sha256 = "sha256-PgRggosH6VNhXAi14xuUR4MkMRNFlzgGiN6MSH7OszA=";
     });
   };
   rofi-wayland = {
@@ -751,16 +751,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e2a879692d943cd3783d5bbfbe2f0d0f7630037f";
+    version = "b400e4305fde0fa144ac0d8b2a35152c33392d30";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e2a879692d943cd3783d5bbfbe2f0d0f7630037f";
+      rev = "b400e4305fde0fa144ac0d8b2a35152c33392d30";
       fetchSubmodules = false;
-      sha256 = "sha256-gGgJmlk1TCyFRh++rNyP8KZMK0v52nv88sxFyOgCS/I=";
+      sha256 = "sha256-hdQe7ZLPQLEu5/QAAimbU3/LFRXeVZpMfwdsfmDc8tg=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-e2a879692d943cd3783d5bbfbe2f0d0f7630037f/Cargo.lock;
+      lockFile = ./rustdesk-b400e4305fde0fa144ac0d8b2a35152c33392d30/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1161,14 +1161,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "38291fa86c00e1d3ee37612c9215b0c15da89051";
+    version = "288ec0e046c4cb975367f5ad043b76666c30fe9b";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "38291fa86c00e1d3ee37612c9215b0c15da89051";
+      rev = "288ec0e046c4cb975367f5ad043b76666c30fe9b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-a1xz8MpKKL9yQqwBpafOu4+jgllsafia20S2W77xrbg=";
+      sha256 = "sha256-5dyj+SVMqgPigGhGo3fQBrs5+CXhm3YE7RmxoBtHqXQ=";
     };
   };
   ydotool = {
