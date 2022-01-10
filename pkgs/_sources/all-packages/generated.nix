@@ -175,17 +175,17 @@
   };
   conduit-rocksdb = {
     pname = "conduit-rocksdb";
-    version = "2cb51af2743b060080f86a1806a8d547569d0cdd";
+    version = "e667b5da5f256aff32ffb27e1df6e2c5b5d2fefd";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "2cb51af2743b060080f86a1806a8d547569d0cdd";
+      rev = "e667b5da5f256aff32ffb27e1df6e2c5b5d2fefd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lCTTM6LeoHQffnA91sQGKCuxE96HAYsEOxaqNOA+dPo=";
+      sha256 = "sha256-MKJyZ0nard+/UQPuAMp4W2kC/JoDzDchzQThZRVosZM=";
     };
     cargoLock = {
-      lockFile = ./conduit-rocksdb-2cb51af2743b060080f86a1806a8d547569d0cdd/Cargo.lock;
+      lockFile = ./conduit-rocksdb-e667b5da5f256aff32ffb27e1df6e2c5b5d2fefd/Cargo.lock;
       outputHashes = {
         "ruma-0.4.0" = "sha256-29/J4CzlOPpBssn9FvsjbQoKe/VXstDWsACO2qFtnUU=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
@@ -350,13 +350,13 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "f5ca331f0673adf765d09404dbae3fb04f138fce";
+    version = "a1703cb627a07b165bf6734012269442cea54b32";
     src = fetchFromGitHub ({
       owner = "BambooEngine";
       repo = "ibus-bamboo";
-      rev = "f5ca331f0673adf765d09404dbae3fb04f138fce";
+      rev = "a1703cb627a07b165bf6734012269442cea54b32";
       fetchSubmodules = false;
-      sha256 = "sha256-9lgnaFN12DkxWSjjB08wbSDTorc9pd8ZApdxC35Qaqo=";
+      sha256 = "sha256-ryrKqgD38MfMyQkfPpfuIn6HzL2Md3+fVYU8VhgTa48=";
     });
   };
   jibri = {
@@ -401,13 +401,13 @@
   };
   layout-machi = {
     pname = "layout-machi";
-    version = "df15a7b78e929203f4de46348b25f3630ac079c1";
+    version = "e413822ae1364e9ff182aeec1d149b0ecef22e8c";
     src = fetchFromGitHub ({
       owner = "xinhaoyuan";
       repo = "layout-machi";
-      rev = "df15a7b78e929203f4de46348b25f3630ac079c1";
+      rev = "e413822ae1364e9ff182aeec1d149b0ecef22e8c";
       fetchSubmodules = false;
-      sha256 = "sha256-DHQdWkQTztO/YBh6F2LzfbfK2bHpklhXnAkuw3fAZWM=";
+      sha256 = "sha256-FEQQUJcjCuH+FSl2F2sh9xAsDR1o1p+OAjMfkeLh7p0=";
     });
   };
   leonflix = {
@@ -551,13 +551,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "0810250b3ad27a850033fd57d1519008f0828cd7";
+    version = "8fdb1746433d0c9eea37f5022d80aa35b204e55f";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "0810250b3ad27a850033fd57d1519008f0828cd7";
+      rev = "8fdb1746433d0c9eea37f5022d80aa35b204e55f";
       fetchSubmodules = false;
-      sha256 = "sha256-+s8WQ3ey41d/OhhxKfuOhPrvl9Kt/GAQUvMjK+a7DmQ=";
+      sha256 = "sha256-aZQTYzt2f2s5jQVr8hxdePjxqrQf+69VLXKiE6hGMX4=";
     });
   };
   ny-font = {
@@ -729,13 +729,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "aa642e5786c8483dc36ee8900cdfc64fae0769d2";
+    version = "b3f3bf1e83138c544278f5d91709b5dd57885c42";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "aa642e5786c8483dc36ee8900cdfc64fae0769d2";
+      rev = "b3f3bf1e83138c544278f5d91709b5dd57885c42";
       fetchSubmodules = false;
-      sha256 = "sha256-yX226xu7oSzReYrqvQDB72KX81gbRlujAalKWhjZrBo=";
+      sha256 = "sha256-12LMQ3igN5R1ZvngWFtzuVX53Gwu/KwVnaclq3t4Fgc=";
     });
   };
   rofi-wayland = {
@@ -751,21 +751,21 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3f56c82c7bda81f76d52bbec2c3b620625736024";
+    version = "e2a879692d943cd3783d5bbfbe2f0d0f7630037f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3f56c82c7bda81f76d52bbec2c3b620625736024";
+      rev = "e2a879692d943cd3783d5bbfbe2f0d0f7630037f";
       fetchSubmodules = false;
-      sha256 = "sha256-oCS0yLeQBWVbbCV/eSlVp+vnw+d8o7wdT2RYzY+0CNs=";
+      sha256 = "sha256-gGgJmlk1TCyFRh++rNyP8KZMK0v52nv88sxFyOgCS/I=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-3f56c82c7bda81f76d52bbec2c3b620625736024/Cargo.lock;
+      lockFile = ./rustdesk-e2a879692d943cd3783d5bbfbe2f0d0f7630037f/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "libappindicator-0.6.1" = "sha256-JGnnZrcwbh8WJ6+/4bYhfD3HvgF2C7XaaGb6TaMRWdw=";
-        "rdev-0.5.0" = "sha256-FK05SG/ueF2X7NtQzEjsOY4iX6CPjvdqHpuxOb6Wwlk=";
+        "rdev-0.5.0" = "sha256-9Ig5pUwNyO1LOGlAL3Fw4BeCzynPdCj9G7eK4iBHd+4=";
         "cpal-0.13.4" = "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=";
         "sciter-rs-0.5.57" = "sha256-pF5Rwav78//oqDAv0Nhb7tawhSMnlSuy4sPUOfPd8NU=";
         "psutil-3.2.1" = "sha256-n3LTTDBCW+l0xKFGHdFHePlw998nO6G9K7PCWdukN/0=";
@@ -869,13 +869,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "de39c9fad631f830aa912325e3c1afb1d5cb9f73";
+    version = "c01f9260389aeacfba1c598716eeac2b64cf21ca";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "de39c9fad631f830aa912325e3c1afb1d5cb9f73";
+      rev = "c01f9260389aeacfba1c598716eeac2b64cf21ca";
       fetchSubmodules = false;
-      sha256 = "sha256-TpbmVQZAjG10xi62JiJdtC26uJdMN4jwKt0X1/n4G00=";
+      sha256 = "sha256-WWSviP4uzZ9mx6VACRuygcvGWau1ATVxEHNRgYSoNzc=";
     });
   };
   spotify = {
@@ -1173,13 +1173,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "e1334aee314c25a795ed3a60463a1b4b129409b5";
+    version = "6e18a3256932c39e405559ec3116e96704b3bec7";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "e1334aee314c25a795ed3a60463a1b4b129409b5";
+      rev = "6e18a3256932c39e405559ec3116e96704b3bec7";
       fetchSubmodules = false;
-      sha256 = "sha256-/3V2rVMwXi6+qEtPgPK/8mozveEhFtvop9mZAxBf71M=";
+      sha256 = "sha256-yq17kymaIy9bG52Kq0H9Bj4xYJfdG3Hf3e0/ZMkfkKQ=";
     });
   };
   zoom-us = {
