@@ -65,6 +65,10 @@ fetch.github = "bottlesdevs/Bottles"
 src.git = "https://github.com/caddyserver/caddy"
 fetch.github = "caddyserver/caddy"
 
+[cinny]
+src.git = "https://github.com/ajbura/cinny"
+fetch.github = "ajbura/cinny"
+
 [conduit]
 src.git = "https://gitlab.com/famedly/conduit"
 fetch.git = "https://gitlab.com/famedly/conduit"
