@@ -154,6 +154,17 @@
       sha256 = "sha256-gv9DDY3eVVQk5hO4Oaza9P3budRh436xXxZzVySA3B8=";
     });
   };
+  cinny = {
+    pname = "cinny";
+    version = "34bb5f9928e88bec88ed0e3125f959b27dde7f56";
+    src = fetchFromGitHub ({
+      owner = "ajbura";
+      repo = "cinny";
+      rev = "34bb5f9928e88bec88ed0e3125f959b27dde7f56";
+      fetchSubmodules = false;
+      sha256 = "sha256-GnKqD/sxGT9YnHBQ8OS0wBXK3HOaqWhhYL9/n5MG0g8=";
+    });
+  };
   conduit = {
     pname = "conduit";
     version = "9b57c89df6861eef97b8615ff22433f26c43a377";
