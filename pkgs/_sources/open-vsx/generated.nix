@@ -2799,10 +2799,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.820";
+    version = "2022.1.918";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.820/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.820.vsix";
-      sha256 = "sha256-c3G/348ycs2QnvXXib0nR8jNX9g6pKTo3J+NGburRUc=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.918/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.918.vsix";
+      sha256 = "sha256-5HxbPnOpK4BcRFdmVBFMJ7hH7SC1kHs1ypgpzcGjIOQ=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -10443,10 +10443,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.0.20";
+    version = "4.0.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.20/file/matepek.vscode-catch2-test-adapter-4.0.20.vsix";
-      sha256 = "sha256-TpvUBBIJX10VT2iVw71ENzLkcKz/YBYqE9vSnrYDTVQ=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.22/file/matepek.vscode-catch2-test-adapter-4.0.22.vsix";
+      sha256 = "sha256-xyOYgzZ/Av9X8+FxEI7BQAb4pWDS5LDiZjR5UOKNk+U=";
     };
     name = "vscode-catch2-test-adapter";
     license = "MIT";
@@ -11127,10 +11127,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.205";
+    version = "1.1.206";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.205/file/ms-pyright.pyright-1.1.205.vsix";
-      sha256 = "sha256-+3mJi6xIeNhFo0/lZ4zhd1LyZS+MgR9Z1YNBl04ZFtc=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.206/file/ms-pyright.pyright-1.1.206.vsix";
+      sha256 = "sha256-1RRDQhn86dfKOUzjDah3KGMHiWonOyOVRgcK7QW7DmY=";
     };
     name = "pyright";
     license = "MIT";
