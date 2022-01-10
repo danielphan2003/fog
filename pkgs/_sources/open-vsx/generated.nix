@@ -7995,10 +7995,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.21";
+    version = "0.8.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.21/file/halcyontechltd.code-for-ibmi-0.8.21.vsix";
-      sha256 = "sha256-oX4ZJf0O0Jp+5pi8CxlZQJYfSEAsm+QHYU5PjZgQHEI=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.22/file/halcyontechltd.code-for-ibmi-0.8.22.vsix";
+      sha256 = "sha256-ccd+9objgqg39JkMr25swW0y6mo/N6dYyELdxmdVAZs=";
     };
     name = "code-for-ibmi";
     license = "MIT";
