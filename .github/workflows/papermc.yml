@@ -1,10 +1,10 @@
-name: "Auto update packages"
+name: Auto update papermc packages
 
 on:
   pull_request:
   push:
-    branches:
-      - main
+    paths:
+      - pkgs/games/papermc.toml
   schedule:
     # Update every 1 hour
     - cron: "0 * * * *"
@@ -39,11 +39,20 @@ jobs:
         name: dan-cfg
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
 
-    # Quick eval
-    - run: nix develop --command evalnix
+    - name: Quick eval
+      run: nix develop --command evalnix
 
-    # Clean up and update all packages
-    - run: nix develop --command bud dan-nixpkgs-updater
+    - name: Create bud cache
+      run: nix develop --command bud makeBudCache
 
-    # Push changes to main
-    - run: git push
+    - name: Clean up old Cargo.lock and extracts
+      run: nix develop --command bud nvfetcher-cleanup _sources/papermc
+
+    - name: Update papermc sources
+      run: nix develop --command bud papermc-versions-updater
+
+    - name: Update all papermc packages
+      run: nix develop --command bud updateSources games/papermc
+
+    - name: Push changes to main
+      run: git push

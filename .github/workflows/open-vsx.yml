@@ -1,0 +1,58 @@
+name: Auto update open-vsx extensions
+
+on:
+  pull_request:
+  push:
+    paths:
+      - pkgs/misc/vscode-extensions/open-vsx.toml
+  schedule:
+    # Update every 1 hour
+    - cron: "0 * * * *"
+
+jobs:
+  update_pkgs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.3.4
+
+    - uses: cachix/install-nix-action@v14.1
+      with:
+        install_url: https://github.com/numtide/nix-unstable-installer/releases/download/nix-2.5pre20211015_130284b/install
+        extra_nix_config: |
+          experimental-features = nix-command flakes
+          system-features = nixos-test benchmark big-parallel kvm recursive-nix
+          substituters = https://cache.nixos.org https://nrdxp.cachix.org https://nix-community.cachix.org https://dan-cfg.cachix.org
+          trusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= nrdxp.cachix.org-1:Fc5PSqY2Jm1TrWfm88l6cvGWwz3s93c6IOifQWnhNW4= nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= dan-cfg.cachix.org-1:elcVKJWjnDs1zzZ/Fs93FLOFS13OQx1z0TxP0Q7PH9o=
+        nix_path: nixpkgs=channel:nixos-unstable
+
+    - uses: crazy-max/ghaction-import-gpg@v3
+      with:
+        gpg-private-key: ${{ secrets.GIT_SIGNING_KEY }}
+        passphrase: ${{ secrets.PASSPHRASE }}
+        git-user-signingkey: true
+        git-commit-gpgsign: true
+        git-committer-name: GitHub automation
+        git-committer-email: danielphan.2003@gmail.com
+
+    - uses: cachix/cachix-action@v10
+      with:
+        name: dan-cfg
+        authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
+
+    - name: Quick eval
+      run: nix develop --command evalnix
+
+    - name: Create bud cache
+      run: nix develop --command bud makeBudCache
+
+    - name: Clean up old Cargo.lock and extracts
+      run: nix develop --command bud nvfetcher-cleanup _sources/open-vsx
+
+    - name: Update open-vsx extension sources
+      run: nix develop --command bud openvsx-updater
+
+    - name: Update all open-vsx extensions
+      run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx
+
+    - name: Push changes to main
+      run: git push
