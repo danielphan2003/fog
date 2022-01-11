@@ -403,18 +403,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5746";
+    version = "1.0.5749";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5746.tar.bz2";
-      sha256 = "sha256-oMF/CRTb48rCXjj3XTSTOTTq10sFr50QfYOspHHYpCM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5749.tar.bz2";
+      sha256 = "sha256-o/epvMJx+oiN4XaWEJGWt2OuBASNL6iv5JFu9oZqK1o=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5746";
+    version = "1.0.5749";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5746-1_all.deb";
-      sha256 = "sha256-QFCuzHGfik22tXatf2DKi76RvvyeTvFv/JU76zLxr0Y=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5749-1_all.deb";
+      sha256 = "sha256-j9RlL02EiVtaX+Lx7w1Gy1XMBGw8kH6LqANQ9v7G4pA=";
     };
   };
   jitsi-videobridge2 = {
@@ -577,13 +577,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "378aa33cf3710bd3a3d1963a8840a1bb81abaae3";
+    version = "f67f1a995058cf4f2a7a3028ac248225d2b3a9ea";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "378aa33cf3710bd3a3d1963a8840a1bb81abaae3";
+      rev = "f67f1a995058cf4f2a7a3028ac248225d2b3a9ea";
       fetchSubmodules = false;
-      sha256 = "sha256-BIJq1VJM+9PrG1tsDCtO8lCnyCOimvvI0N9JCoNEY04=";
+      sha256 = "sha256-1akpjWzPtWH5A2RLdaaIFkCeVFJvAvIef6ozRJPBoR4=";
     });
   };
   ny-font = {
@@ -1199,13 +1199,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "6e18a3256932c39e405559ec3116e96704b3bec7";
+    version = "0a46387b6afef1c0d59efce4cbb1e10a2998d35e";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "6e18a3256932c39e405559ec3116e96704b3bec7";
+      rev = "0a46387b6afef1c0d59efce4cbb1e10a2998d35e";
       fetchSubmodules = false;
-      sha256 = "sha256-yq17kymaIy9bG52Kq0H9Bj4xYJfdG3Hf3e0/ZMkfkKQ=";
+      sha256 = "sha256-gj6EfiBb/t4R9Pi57mIVSJbDNjLMYNLdmbqC0d7kH6k=";
     });
   };
   zoom-us = {
