@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - pkgs/games/papermc.toml
+  workflow_dispatch:
   schedule:
     # Update every 1 hour
     - cron: "0 * * * *"
