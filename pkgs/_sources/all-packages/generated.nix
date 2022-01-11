@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "a47fd40b66c1cdeb76db2c26443b8e83fd5df386";
+    version = "649abf040e2df8f8274419e367a8bf6597952ed9";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "a47fd40b66c1cdeb76db2c26443b8e83fd5df386";
+      rev = "649abf040e2df8f8274419e367a8bf6597952ed9";
       fetchSubmodules = false;
-      sha256 = "sha256-LEhcQ9WG/VlDBAfpDgjLz2r0VrHsPUN8OLlfy3qmCn8=";
+      sha256 = "sha256-dBqtcFeZq2IVs0/s+uPUhU1NBBYS+GLgzU57JT2iPY8=";
     });
   };
   caddy = {
@@ -895,13 +895,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "771173dd7841ab5860f3cfa1654f86e1f1c5c823";
+    version = "acaad8c633a7c20f6722e685ae2e948e331a8cb1";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "771173dd7841ab5860f3cfa1654f86e1f1c5c823";
+      rev = "acaad8c633a7c20f6722e685ae2e948e331a8cb1";
       fetchSubmodules = false;
-      sha256 = "sha256-kz8nWAU6pzhcs+w/2CQvlaFOvyH83rdJeHbzDzndZp4=";
+      sha256 = "sha256-9t+MPQJP1oR7SXUECiUStN+FEUoaZ1Kip7oRfIYnuDU=";
     });
   };
   spotify = {
@@ -962,13 +962,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b1b0fd119b8c7298e54e2194e8f5e9d71ee6fec3";
+    version = "189f35960991cab8b9260ec16a05a7033ade86bc";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b1b0fd119b8c7298e54e2194e8f5e9d71ee6fec3";
+      rev = "189f35960991cab8b9260ec16a05a7033ade86bc";
       fetchSubmodules = false;
-      sha256 = "sha256-9Et7mSQETzGyy3BDRInFU0Hadv/kVmhD8CsZVctyFkI=";
+      sha256 = "sha256-02S7bu3T34/hsLvrjkXW4M9Tpa32goOIupzsMpelxTs=";
     });
   };
   tailscale-systray = {
@@ -1206,6 +1206,17 @@
       rev = "0a46387b6afef1c0d59efce4cbb1e10a2998d35e";
       fetchSubmodules = false;
       sha256 = "sha256-gj6EfiBb/t4R9Pi57mIVSJbDNjLMYNLdmbqC0d7kH6k=";
+    });
+  };
+  yubikey-guide = {
+    pname = "yubikey-guide";
+    version = "fe6434577bce964aefd33d5e085d6ac0008e17ce";
+    src = fetchFromGitHub ({
+      owner = "drduh";
+      repo = "YubiKey-Guide";
+      rev = "fe6434577bce964aefd33d5e085d6ac0008e17ce";
+      fetchSubmodules = false;
+      sha256 = "sha256-HQrS2+yvSXi/XCOzWRIV4S/riKpCvnHTSGZfbYXEmrg=";
     });
   };
   zoom-us = {
