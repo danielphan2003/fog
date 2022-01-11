@@ -52,5 +52,8 @@ jobs:
     - name: Update all minecraft-mods extensions
       run: nix develop --command bud updateSources misc/minecraft-mods
 
+    - name: Pull from main
+      run: git pull
+
     - name: Push changes to main
       run: git push
