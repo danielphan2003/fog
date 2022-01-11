@@ -149,24 +149,24 @@
   };
   bottles = {
     pname = "bottles";
-    version = "515ee516ef6340bf6f2ed442721b8bc0197e32c0";
+    version = "a47fd40b66c1cdeb76db2c26443b8e83fd5df386";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "515ee516ef6340bf6f2ed442721b8bc0197e32c0";
+      rev = "a47fd40b66c1cdeb76db2c26443b8e83fd5df386";
       fetchSubmodules = false;
-      sha256 = "sha256-sH8XGlJOTjUviyfgq97j5HlUTzorq3EGg0vY2CI3y/w=";
+      sha256 = "sha256-LEhcQ9WG/VlDBAfpDgjLz2r0VrHsPUN8OLlfy3qmCn8=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "c634bbe9cc7ef6ce6f9f776010ce96384fd43340";
+    version = "af1ac9cd2ecf95deabb194095cf5c5e66ee2fe86";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c634bbe9cc7ef6ce6f9f776010ce96384fd43340";
+      rev = "af1ac9cd2ecf95deabb194095cf5c5e66ee2fe86";
       fetchSubmodules = false;
-      sha256 = "sha256-gv9DDY3eVVQk5hO4Oaza9P3budRh436xXxZzVySA3B8=";
+      sha256 = "sha256-wmTZNeBou/WxSlKyjOqUpKFu71kWED/odqU3l8UUMcY=";
     });
   };
   cinny = {
@@ -755,13 +755,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "310c43d7adbd2b89743a9557ef775a8696266e5c";
+    version = "4cf1bcf70f21fcf20b532e913d9c627ab28c812f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "310c43d7adbd2b89743a9557ef775a8696266e5c";
+      rev = "4cf1bcf70f21fcf20b532e913d9c627ab28c812f";
       fetchSubmodules = false;
-      sha256 = "sha256-eOpphhJO7zwfxHtkG6/Bb6ZPCxrBaO7S1gcSxY5yfBs=";
+      sha256 = "sha256-Qnt948sIVfGpZt6Nh3d28XRrquB/Hnh6BuUpj8TxvVE=";
     });
   };
   rofi-wayland = {
@@ -895,13 +895,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "f6522b4eb26cf3fd012e35f886a9508ff6b2c19c";
+    version = "771173dd7841ab5860f3cfa1654f86e1f1c5c823";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "f6522b4eb26cf3fd012e35f886a9508ff6b2c19c";
+      rev = "771173dd7841ab5860f3cfa1654f86e1f1c5c823";
       fetchSubmodules = false;
-      sha256 = "sha256-uPa0CEgnkJP6J3bRly+5Guro35pXOJrvhmU5556XcXU=";
+      sha256 = "sha256-kz8nWAU6pzhcs+w/2CQvlaFOvyH83rdJeHbzDzndZp4=";
     });
   };
   spotify = {
