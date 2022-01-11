@@ -236,13 +236,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "916e84e798989893cb3a2c35402f32b01264dd78";
+    version = "351bced7c5868058d6dddcf26fd808b6158f34c0";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "916e84e798989893cb3a2c35402f32b01264dd78";
+      rev = "351bced7c5868058d6dddcf26fd808b6158f34c0";
       fetchSubmodules = false;
-      sha256 = "sha256-bN3sj97KlYpjWLp9/msZYWkXfNR/xwGmkqggVcIfxZI=";
+      sha256 = "sha256-KUDSCdQ1vZ/XPAGJwf736NbIAqtL//gyAsVuLly+sp0=";
     });
   };
   doggo = {
@@ -403,18 +403,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5749";
+    version = "1.0.5750";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5749.tar.bz2";
-      sha256 = "sha256-o/epvMJx+oiN4XaWEJGWt2OuBASNL6iv5JFu9oZqK1o=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5750.tar.bz2";
+      sha256 = "sha256-bcTX3yDYSD2Go6AbhoQbJPulxeBPkH+OP1f4SAVQ1BA=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5749";
+    version = "1.0.5750";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5749-1_all.deb";
-      sha256 = "sha256-j9RlL02EiVtaX+Lx7w1Gy1XMBGw8kH6LqANQ9v7G4pA=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5750-1_all.deb";
+      sha256 = "sha256-GOXQ9xIDfIbRrR7F1ou+ctrYPwbsS1tUh1L/LXGEAw4=";
     };
   };
   jitsi-videobridge2 = {
