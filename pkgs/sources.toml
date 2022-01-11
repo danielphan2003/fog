@@ -24,6 +24,11 @@ fetch.url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v$ver/
 src.git = "https://github.com/RaitaroH/adl"
 fetch.github = "RaitaroH/adl"
 
+[age-plugin-yubikey]
+src.git = "https://github.com/str4d/age-plugin-yubikey"
+fetch.github = "str4d/age-plugin-yubikey"
+cargo_lock = "Cargo.lock"
+
 [anbox]
 src.git = "https://github.com/anbox/anbox"
 fetch.github = "anbox/anbox"

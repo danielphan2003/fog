@@ -22,6 +22,10 @@ function parseMeta() {
   while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
     meta_file="$BUD_CACHE/openvsx-$namespace.$name.json"
 
+    if [ "$namespace.$name" -eq "matklad.rust-analyzer"]; then
+      continue
+    fi
+
     if [ ! -s "$meta_file" ]; then
       curl -s "https://open-vsx.org/api/$namespace/$name" --output "$meta_file"
     fi
