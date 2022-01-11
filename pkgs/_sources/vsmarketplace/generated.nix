@@ -104,7 +104,7 @@
     src = fetchurl {
       url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.8.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
       name = "vscode-react-native-1.8.1.zip";
-      sha256 = "sha256-pJ9brxXIsC6cTZ+08RWweQrakEVTkpklCV4pcF3q2hk=";
+      sha256 = "sha256-zedWfrfzNAi/Lgjd26inoWnbixFLjaQgsPHBwQQnBC0=";
     };
     name = "vscode-react-native";
     license = "MIT";

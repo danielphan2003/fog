@@ -44,6 +44,21 @@
       sha256 = "sha256-pYi6mLbn8kUaKNTJ3VLr7rU2ADokrjTEgESd06rnlEg=";
     });
   };
+  age-plugin-yubikey = {
+    pname = "age-plugin-yubikey";
+    version = "b3590f4ce1f570be34aa5d132840d4a7122c67b2";
+    src = fetchFromGitHub ({
+      owner = "str4d";
+      repo = "age-plugin-yubikey";
+      rev = "b3590f4ce1f570be34aa5d132840d4a7122c67b2";
+      fetchSubmodules = false;
+      sha256 = "sha256-KdxghSvkIsxqADzIZL8aSw8azYvcPF0mpw78uEWG2rs=";
+    });
+    cargoLock = {
+      lockFile = ./age-plugin-yubikey-b3590f4ce1f570be34aa5d132840d4a7122c67b2/Cargo.lock;
+      outputHashes = { };
+    };
+  };
   anbox = {
     pname = "anbox";
     version = "84f0268012cbe322ad858d76613f4182074510ac";
@@ -404,10 +419,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-603-g48f8a598";
+    version = "2.1-604-g01c85777";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-603-g48f8a598-1_all.deb";
-      sha256 = "sha256-/gmkdhiC4sgoK91aLCF4bme87GpfmonprtHba9yRxB4=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-604-g01c85777-1_all.deb";
+      sha256 = "sha256-G+bYju1S5k9ufgZVwVnkSTaVz1ecGvzDRyXet2HW390=";
     };
   };
   layout-machi = {

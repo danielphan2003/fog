@@ -99,10 +99,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "0.8.1";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/0.8.1/file/AvengaGermanyGmbH.couper-0.8.1.vsix";
-      sha256 = "sha256-Apf5Md+gTMAJdLVHlnhL7daQv7iZV92lL4xfOR79mqc=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/0.9.0/file/AvengaGermanyGmbH.couper-0.9.0.vsix";
+      sha256 = "sha256-3bgRTZeMyp1jaHaPuhh+giGpca5LbzeGYmqU2R8Ho5w=";
     };
     name = "couper";
     license = "MIT";
@@ -927,10 +927,10 @@
   };
   FelixAngelov-bloc = {
     pname = "FelixAngelov-bloc";
-    version = "6.3.0";
+    version = "6.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/bloc/6.3.0/file/FelixAngelov.bloc-6.3.0.vsix";
-      sha256 = "sha256-WD7S0GS5IQKAG4JFSrKpxHsB0bAKQaqFLwUOTfcqDQ0=";
+      url = "https://open-vsx.org/api/FelixAngelov/bloc/6.4.0/file/FelixAngelov.bloc-6.4.0.vsix";
+      sha256 = "sha256-VaF2cyzQCsPMktkKrDT/AONeH1Axb4YEvvc0SY9wLEs=";
     };
     name = "bloc";
     license = "MIT";
@@ -2511,10 +2511,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.493";
+    version = "31.0.501";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.493/file/Prisma.prisma-insider-31.0.493.vsix";
-      sha256 = "sha256-VZmKkAE5R9CsELF2nBwWmmHxGqu9S8xZz0cpLN64qgA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.501/file/Prisma.prisma-insider-31.0.501.vsix";
+      sha256 = "sha256-C1dlb5sq2M0fEHBOKd3NzeKEFCHfGCPJYnx0ZU1m450=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3399,10 +3399,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.8.0";
+    version = "4.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.8.0/file/42Crunch.vscode-openapi-4.8.0.vsix";
-      sha256 = "sha256-EEkdMwEJkDEGAhIjtf0TPVSDUeSfOEs8Zrxy7ki9Z+Y=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.8.1/file/42Crunch.vscode-openapi-4.8.1.vsix";
+      sha256 = "sha256-JGpqZCCms79ksuvHtkXrnp34VifC1bjdPIzQPWMkQnQ=";
     };
     name = "vscode-openapi";
     license = "AGPL-3.0-only";
@@ -4947,10 +4947,10 @@
   };
   bmo-test-bmo-hello-world = {
     pname = "bmo-test-bmo-hello-world";
-    version = "0.0.2";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmo-test/bmo-hello-world/0.0.2/file/bmo-test.bmo-hello-world-0.0.2.vsix";
-      sha256 = "sha256-lBEkqsua4nvn2nHMISee6JR/qpDLCY5JpzBiSbnFJcs=";
+      url = "https://open-vsx.org/api/bmo-test/bmo-hello-world/0.0.5/file/bmo-test.bmo-hello-world-0.0.5.vsix";
+      sha256 = "sha256-PE8kxCjQDeBnGFmj4PytnyiN0hVMeQECbyvLyfvHk/o=";
     };
     name = "bmo-hello-world";
     license = "MIT";
@@ -5617,6 +5617,18 @@
     publisher = "cqframework";
     description = "Syntax highlighting, linting, and execution for the HL7 Clinical Quality Language (CQL) for VS Code";
   };
+  croccifixio-blackboard-pro = {
+    pname = "croccifixio-blackboard-pro";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/0.1.4/file/croccifixio.blackboard-pro-0.1.4.vsix";
+      sha256 = "sha256-GCp4NMZGz8FCMkfdGAlfPl1eEahpmKtiGoOmqeKNbhs=";
+    };
+    name = "blackboard-pro";
+    license = "Unlicense";
+    publisher = "croccifixio";
+    description = "An extension of the default Blackboard theme including a themed workbench and more colorisation of snippets";
+  };
   crossjs-vscode-restman = {
     pname = "crossjs-vscode-restman";
     version = "0.0.14";
@@ -6279,10 +6291,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.76.3";
+    version = "0.76.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.76.3/file/dendron.nightly-0.76.3.vsix";
-      sha256 = "sha256-lnqMrhwjbsxiCRA0RJY86Q2MbCBIdQlz4boJOs4Jt9A=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.76.4/file/dendron.nightly-0.76.4.vsix";
+      sha256 = "sha256-kRmb7Om04rj9zTwstWcyIR6+3TB4fG6H+FqBXqxhZBM=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -6699,10 +6711,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "5.9.0";
+    version = "5.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/5.9.0/file/eliostruyf.vscode-front-matter-5.9.0.vsix";
-      sha256 = "sha256-9E8UQBoc9FQcaTU1RCQpKvnFw/hXWmnfU0pNliv2gI4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/5.10.0/file/eliostruyf.vscode-front-matter-5.10.0.vsix";
+      sha256 = "sha256-nhhusv++JqACdqglLbttUrkTMTx4g+dJmkEvbsKzvIg=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -6711,10 +6723,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "5.10.1667430";
+    version = "5.10.1677242";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.10.1667430/file/eliostruyf.vscode-front-matter-beta-5.10.1667430.vsix";
-      sha256 = "sha256-QZ7Wv9ejCKdpmAcNPZhy/Em18YqKAJhmoIdTgv1GdKI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/5.10.1677242/file/eliostruyf.vscode-front-matter-beta-5.10.1677242.vsix";
+      sha256 = "sha256-O9b1ZExUw7C1cK7X0sP6XuUhvAIf0Nc4Mk6u0vTA0go=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -7779,10 +7791,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.3.17";
+    version = "0.3.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.3.17/file/gitduck.code-streaming-0.3.17.vsix";
-      sha256 = "sha256-YwfE77dUszjSTOBLi4aq18nxSDzPPbATQRcu9RoReM8=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.3.18/file/gitduck.code-streaming-0.3.18.vsix";
+      sha256 = "sha256-dXWxErF2aJ/oc8dhN9rd+17e8LL4PNhj2uU8KKWf7qg=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -9339,10 +9351,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.5.8";
+    version = "1.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.5.8/file/julialang.language-julia-1.5.8.vsix";
-      sha256 = "sha256-2H+wn8XLkb4tHRQJsKviFjcZ98RRgjeKNQn44YvnEj8=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.5.9/file/julialang.language-julia-1.5.9.vsix";
+      sha256 = "sha256-NXXfEA0DEJ8xSFkIFlGGoJsKnw+xqa2EINn9aBjlH6Q=";
     };
     name = "language-julia";
     license = "MIT";
@@ -10057,6 +10069,18 @@
     publisher = "learnpack";
     description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.";
   };
+  lefd-sweetdracula-monokai = {
+    pname = "lefd-sweetdracula-monokai";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.0.2/file/lefd.sweetdracula-monokai-1.0.2.vsix";
+      sha256 = "sha256-tzObdeQ/hZ1exbfkU+q8Bw7HQBNXZtc/TjzjIA+Uy+o=";
+    };
+    name = "sweetdracula-monokai";
+    license = "MIT";
+    publisher = "lefd";
+    description = "Sweet Dracula + Monokai syntax highlighting";
+  };
   lefebsy-vskubi-lite = {
     pname = "lefebsy-vskubi-lite";
     version = "1.4.5";
@@ -10476,18 +10500,6 @@
     license = "MIT";
     publisher = "mathpix";
     description = "Enable rendering Mathpix Markdown with latex and chemistry support.";
-  };
-  matklad-rust-analyzer = {
-    pname = "matklad-rust-analyzer";
-    version = "0.2.880";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/matklad/rust-analyzer/0.2.880/file/matklad.rust-analyzer-0.2.880.vsix";
-      sha256 = "sha256-Si6vDi6g6JkTMrti5uSZuouEVC2OyPprI8syFLV8foI=";
-    };
-    name = "rust-analyzer";
-    license = "MIT OR Apache-2.0";
-    publisher = "matklad";
-    description = "An alternative rust language server to the RLS";
   };
   matt-rudge-auto-open-preview-panel = {
     pname = "matt-rudge-auto-open-preview-panel";
@@ -11499,10 +11511,10 @@
   };
   mtsmfm-vscode-k8s-quick-attach = {
     pname = "mtsmfm-vscode-k8s-quick-attach";
-    version = "0.6.0";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.6.0/file/mtsmfm.vscode-k8s-quick-attach-0.6.0.vsix";
-      sha256 = "sha256-0PIoc89/rw0rc8szE8xeAhe2PJYWB0G+Pgo7GPWqO+k=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.7.0/file/mtsmfm.vscode-k8s-quick-attach-0.7.0.vsix";
+      sha256 = "sha256-so4RUQdGuuO0PyFS9cfnPqLCYo1/0w5Fbz0M1lnS4KQ=";
     };
     name = "vscode-k8s-quick-attach";
     license = "MIT";
@@ -14319,10 +14331,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.9.2";
+    version = "0.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.9.2/file/shufo.vscode-blade-formatter-0.9.2.vsix";
-      sha256 = "sha256-Bi1/d96agETiV+XFE0Z4UWUhtKccwWqAARv5ywcR9eY=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.10.1/file/shufo.vscode-blade-formatter-0.10.1.vsix";
+      sha256 = "sha256-hOTZLQ0KlTjLMx0Z5vahkE4+FdY8uRVTBc9hCe3e8j8=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -15183,10 +15195,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.8.0";
+    version = "105.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.8.0/file/svelte.svelte-vscode-105.8.0.vsix";
-      sha256 = "sha256-EEsEBnE71JRJmgTJLxateZiktCNCCMJAHj12sEDgrr0=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.9.0/file/svelte.svelte-vscode-105.9.0.vsix";
+      sha256 = "sha256-LXE4f9WoW9TDRJ4RgJQQbixUeYYgeh11ka8Hyy+EyHI=";
     };
     name = "svelte-vscode";
     license = "MIT";
