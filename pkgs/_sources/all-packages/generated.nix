@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "a35d2b6a3a8aee3abeda357b72b14ed56758aa2f";
+    version = "a5c0da43f47362f9e0d85f1e606cc6f862c5c851";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "a35d2b6a3a8aee3abeda357b72b14ed56758aa2f";
+      rev = "a5c0da43f47362f9e0d85f1e606cc6f862c5c851";
       fetchSubmodules = false;
-      sha256 = "sha256-6YWl2OMkAvu3UG3utMVlFeFelOC0mL0Em+XxJmGYsPo=";
+      sha256 = "sha256-P1t1R23LnhVDXDjKl7o4PvtPar4xoIzG70dpxVdOa2k=";
     });
   };
   caddy = {
@@ -403,18 +403,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5753";
+    version = "1.0.5754";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5753.tar.bz2";
-      sha256 = "sha256-EV9RNT1VpCJqEM24NJjFjN+81uAkAQeB38aTavdsCpM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5754.tar.bz2";
+      sha256 = "sha256-hF15LrjpNqAjpui/PGUUO+qD12qdIcV2uC0DK/96W04=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5753";
+    version = "1.0.5754";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5753-1_all.deb";
-      sha256 = "sha256-rD9QFcKCWg8l9xvbzgInSkbyDJGkk7PJfHAmxlCu5Q4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5754-1_all.deb";
+      sha256 = "sha256-/tNUHfq3I2/NCWtGUcdVEJ7yRylYbNorvY/oF/PO3Q8=";
     };
   };
   jitsi-videobridge2 = {
@@ -1199,13 +1199,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "333862dd0b5c3eea69676efda6a68f4340c91b9c";
+    version = "226b8af730c739966f31066e2ee6253c7263059d";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "333862dd0b5c3eea69676efda6a68f4340c91b9c";
+      rev = "226b8af730c739966f31066e2ee6253c7263059d";
       fetchSubmodules = false;
-      sha256 = "sha256-jrm3ygiZ4dfNPV5ordRggbE2ixdIXrfdgnYjrCqo2HY=";
+      sha256 = "sha256-JlfUQnP+mxnCFDYgBkK5wt/nn4rL55NJaV+WvkVSEmw=";
     });
   };
   yubikey-guide = {
