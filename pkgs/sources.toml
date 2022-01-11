@@ -464,6 +464,10 @@ fetch.git = "git://anongit.freedesktop.org/xorg/xserver"
 src.git = "https://github.com/ReimuNotMoe/ydotool"
 fetch.github = "ReimuNotMoe/ydotool"
 
+[yubikey-guide]
+src.git = "https://github.com/drduh/YubiKey-Guide"
+fetch.github = "drduh/YubiKey-Guide"
+
 [zoom-us]
 src.webpage = "https://zoom.us/download?os=linux"
 src.regex = "Version (.*)<.*"
