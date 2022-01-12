@@ -228,10 +228,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.131";
+    version = "0.0.132";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.131/discord-canary-0.0.131.tar.gz";
-      sha256 = "sha256-ZYPdE02Jq79LmvXu7KIJFugJX++Nnj0Og/mBuaP/+SA=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.132/discord-canary-0.0.132.tar.gz";
+      sha256 = "sha256-20NZyd5AQY6GsSfAPML7GxRA+e1UldedvY09SnFqS8o=";
     };
   };
   dnscrypt-proxy2 = {
@@ -419,10 +419,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-604-g01c85777";
+    version = "2.1-605-gaf9e3649";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-604-g01c85777-1_all.deb";
-      sha256 = "sha256-G+bYju1S5k9ufgZVwVnkSTaVz1ecGvzDRyXet2HW390=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-605-gaf9e3649-1_all.deb";
+      sha256 = "sha256-pUi0Z/bY9jMfmwi3zaMFioSiQXsYGJDf0HvtkTAulT8=";
     };
   };
   layout-machi = {
@@ -755,13 +755,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2f130a23e4420cfa54ab8688c63cfd80eed1fbd9";
+    version = "f4831809f79f3eea61e8da4a0ed92b224ade52af";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "2f130a23e4420cfa54ab8688c63cfd80eed1fbd9";
+      rev = "f4831809f79f3eea61e8da4a0ed92b224ade52af";
       fetchSubmodules = false;
-      sha256 = "sha256-1WczPx5ZNDbtoiNDq1E8uIN5qzSg+sjchlC9EgZZVdY=";
+      sha256 = "sha256-k2Fs68FwVf/3AJyYgdg1u3Ypzb+yYWh7hnGuJAV3FRU=";
     });
   };
   rofi-wayland = {
