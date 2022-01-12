@@ -53,7 +53,7 @@ jobs:
       run: nix develop --command bud openvsx-updater
 
     - name: Update all open-vsx extensions
-      run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx
+      run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx --filter '^(?!matklad-rust-analyzer$).*'
 
     - name: Pull from main
       run: git pull
