@@ -22,7 +22,7 @@ function parseMeta() {
   while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
     meta_file="$BUD_CACHE/openvsx-$namespace.$name.json"
 
-    if [ "$namespace.$name" -eq "matklad.rust-analyzer"]; then
+    if [ "$namespace.$name" = "matklad.rust-analyzer"]; then
       continue
     fi
 
