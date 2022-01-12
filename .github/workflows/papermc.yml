@@ -56,7 +56,7 @@ jobs:
       run: nix develop --command bud updateSources games/papermc
 
     - name: Pull from main
-      run: git pull
+      run: git pull --rebase
 
     - name: Push changes to main
       run: git push
