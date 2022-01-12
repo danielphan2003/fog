@@ -53,7 +53,9 @@ jobs:
       run: nix develop --command bud openvsx-updater
 
     - name: Update all open-vsx extensions (except matklad.rust-analyzer)
-      run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx \ |
+      run: >
+        nix develop --command
+        bud updateSources misc/vscode-extensions/open-vsx
         --filter '^([^m]|m(m|a(m|t(m|k(m|l(m|a(m|d(m|_(m|_(m|r(m|u(m|s(m|t(m|_(m|_(m|a(m|n(m|a(m|l(m|y(m|z(m|em)))))))))))))))))))))*([^am]|a([^mt]|t([^km]|k([^lm]|l([^am]|a([^dm]|d([^_m]|_([^_m]|_([^mr]|r([^mu]|u([^ms]|s([^mt]|t([^_m]|_([^_m]|_([^am]|a([^mn]|n([^am]|a([^lm]|l([^my]|y([^mz]|z([^em]|e[^mr]))))))))))))))))))))))*(m(m|a(m|t(m|k(m|l(m|a(m|d(m|_(m|_(m|r(m|u(m|s(m|t(m|_(m|_(m|a(m|n(m|a(m|l(m|y(m|z(m|em)))))))))))))))))))))*(a((t(k(l(a(d(_(_(r(u(s(t(_(_(a(n(a(ly?)?)?)?)?)?)?)?)?)?)?)?)?)?)?)?)?)?|tklad-rust-analyze?))?)?$'
 
     - name: Pull from main
