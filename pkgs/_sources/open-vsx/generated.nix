@@ -97,12 +97,24 @@
     publisher = "ArtisanByteCrafter";
     description = "A VSCode theme based on the design language of @System76's Pop! Theme.";
   };
+  Autodesk-autolispext = {
+    pname = "Autodesk-autolispext";
+    version = "1.5.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Autodesk/autolispext/1.5.1/file/Autodesk.autolispext-1.5.1.vsix";
+      sha256 = "sha256-3e/sMqJTRCmolod4I2s15iJWlvN7Pl7sdpX6MLns7iI=";
+    };
+    name = "autolispext";
+    license = "Apache-2.0";
+    publisher = "Autodesk";
+    description = "This is a vscode extension for AutoCAD AutoLISP";
+  };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.0.0/file/AvengaGermanyGmbH.couper-1.0.0.vsix";
-      sha256 = "sha256-pKiLa3zwYEVKxh9bzV8PfuYHTwvvnP0KCO1HZRi1etA=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.0.1/file/AvengaGermanyGmbH.couper-1.0.1.vsix";
+      sha256 = "sha256-21TvkzZL12PfBxxNmfdp55YCgD0ciFn6bQ+f+5Zn9eE=";
     };
     name = "couper";
     license = "MIT";
@@ -1513,6 +1525,18 @@
     publisher = "IronGeek";
     description = "Adds formatting and syntax highlighting support for env files (.env) to Visual Studio Code";
   };
+  JFrog-jfrog-vscode-extension = {
+    pname = "JFrog-jfrog-vscode-extension";
+    version = "1.10.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.10.2/file/JFrog.jfrog-vscode-extension-1.10.2.vsix";
+      sha256 = "sha256-u5yz9BAJCqspDwOBtFrxU/vx5JsV4oTkitqIP7+M+yM=";
+    };
+    name = "jfrog-vscode-extension";
+    license = "Apache-2.0";
+    publisher = "JFrog";
+    description = "JFrog Xray scanning of Go, npm, Pypi, Maven and NuGet project dependencies.";
+  };
   JacquesLucke-gcov-viewer = {
     pname = "JacquesLucke-gcov-viewer";
     version = "0.4.0";
@@ -2079,10 +2103,10 @@
   };
   MattiasBaake-vscode-snippets-for-ansible = {
     pname = "MattiasBaake-vscode-snippets-for-ansible";
-    version = "1.0.1";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MattiasBaake/vscode-snippets-for-ansible/1.0.1/file/MattiasBaake.vscode-snippets-for-ansible-1.0.1.vsix";
-      sha256 = "sha256-+ZOd9pLp7iNBTyAvfTGPwplOoZrIUZOXEvEVoqh/cIg=";
+      url = "https://open-vsx.org/api/MattiasBaake/vscode-snippets-for-ansible/1.1.0/file/MattiasBaake.vscode-snippets-for-ansible-1.1.0.vsix";
+      sha256 = "sha256-TRuofCGeTVgPXAYZnCvXXojko+0srwpoOxh7OiYtv0M=";
     };
     name = "vscode-snippets-for-ansible";
     license = "GPL-3.0";
@@ -2391,10 +2415,10 @@
   };
   PereLabat-vpl = {
     pname = "PereLabat-vpl";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PereLabat/vpl/0.3.5/file/PereLabat.vpl-0.3.5.vsix";
-      sha256 = "sha256-u3EH8bmEaA8M77Ntw+usgI/SqJDuuqF4aGUBZMOYDxU=";
+      url = "https://open-vsx.org/api/PereLabat/vpl/0.3.6/file/PereLabat.vpl-0.3.6.vsix";
+      sha256 = "sha256-uTjdLNNdIOqSYVP0fLXon50MY9gY+Kk+oFa4AFsq/rE=";
     };
     name = "vpl";
     license = "GPL-3.0";
@@ -2499,10 +2523,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.8.0";
+    version = "3.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.8.0/file/Prisma.prisma-3.8.0.vsix";
-      sha256 = "sha256-P6WNWrPnK7fenjeob6ClnU1st9CEEcI400wg92DNNCM=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.8.1/file/Prisma.prisma-3.8.1.vsix";
+      sha256 = "sha256-DskUYaUkSMfapKP7G3Wrf8+RcmJ4T3wJwOUvGcxxm9o=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -2511,10 +2535,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.506";
+    version = "31.0.519";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.506/file/Prisma.prisma-insider-31.0.506.vsix";
-      sha256 = "sha256-UNEzdiQ8OeiReXTUt3ZvWdVXIy7wcq9nyKWia7XL46w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.519/file/Prisma.prisma-insider-31.0.519.vsix";
+      sha256 = "sha256-DQPfedHrP3lro69lHnnKnrglIKZSlo2X+CmCcoRd5W4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2679,15 +2703,27 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.25.1";
+    version = "2.25.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.25.1/file/RokuCommunity.brightscript-2.25.1.vsix";
-      sha256 = "sha256-lf7E932WmgZaOoj4ptayHmiNDp5neIp2KjSD1jNutCk=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.25.3/file/RokuCommunity.brightscript-2.25.3.vsix";
+      sha256 = "sha256-k+Xo8cJrAAHpqirrf7TbWZ2aZbO/7JHqPfhX686dbOg=";
     };
     name = "brightscript";
     license = "MIT";
     publisher = "RokuCommunity";
     description = "Language support for Roku's BrightScript language.";
+  };
+  RoweWilsonFrederiskHolme-wikitext = {
+    pname = "RoweWilsonFrederiskHolme-wikitext";
+    version = "3.6.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.2/file/RoweWilsonFrederiskHolme.wikitext-3.6.2.vsix";
+      sha256 = "sha256-JCTwF8YfvyYMfnwXyV+eai/WjCPG/9lDFwuQ8VK0hS4=";
+    };
+    name = "wikitext";
+    license = "MIT";
+    publisher = "RoweWilsonFrederiskHolme";
+    description = "Wikitext is a document written in a wiki markup language. This extension provides functional support for the Wikitext language with MediaWiki such as Wikipedia.";
   };
   SDTTTTT-bangumiopen = {
     pname = "SDTTTTT-bangumiopen";
@@ -2799,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.1120";
+    version = "2022.1.1415";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1120/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1120.vsix";
-      sha256 = "sha256-Y3y/zCCMBCeMv4s0qscOeDYcks3oI80iEEGP8qYZK/c=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1415/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1415.vsix";
+      sha256 = "sha256-UzOfH3t/VOCH7RRm5YSPopuJxYiRG9xiFIx321r2igM=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -2835,10 +2871,10 @@
   };
   SonatypeCommunity-vscode-iq-plugin = {
     pname = "SonatypeCommunity-vscode-iq-plugin";
-    version = "1.2.0";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.0/file/SonatypeCommunity.vscode-iq-plugin-1.2.0.vsix";
-      sha256 = "sha256-DGNUKRHOpcX2LjSBDTjxbcYaTU0DU8iDv7wAPkSkUMc=";
+      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.2/file/SonatypeCommunity.vscode-iq-plugin-1.2.2.vsix";
+      sha256 = "sha256-laq/oR/lkxDApNPzYQeznYnOl0Hipwqox6ADzfxTdxg=";
     };
     name = "vscode-iq-plugin";
     license = "MIT";
@@ -2943,10 +2979,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.15";
+    version = "3.5.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.15/file/TabNine.tabnine-vscode-3.5.15.vsix";
-      sha256 = "sha256-Xy0Acbz7Is4gh2MTGxacNi/GwwCt8/xZjMGAVU83Vy8=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.16/file/TabNine.tabnine-vscode-3.5.16.vsix";
+      sha256 = "sha256-aR6aRq0MyOozwkVZ5NUFlIeGok/vL5Ex3r51yYoekBA=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -3279,10 +3315,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.5.1";
+    version = "9.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.5.1/file/YXL.cloudmusic-9.5.1.vsix";
-      sha256 = "sha256-DN3lqJDSbmbx6bqQaF9Otw+2SHGSumopoKSTZ1+dcP8=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.7.2/file/YXL.cloudmusic-9.7.2.vsix";
+      sha256 = "sha256-Qf0bCLCpizP5ux5x3nQ8Xi/BKIdKa8ua7u48HOTSLqk=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -3447,10 +3483,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "3.4.2";
+    version = "3.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.2/file/a5hk.night-coder-3.4.2.vsix";
-      sha256 = "sha256-vOJYEk1YTXA38jltaX9ofpNDKsTG3V1NnNXkkgtgRa0=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.3/file/a5hk.night-coder-3.4.3.vsix";
+      sha256 = "sha256-g8ln1Zer7gCsnlCZ3YfItxKij+tLXQJ7p/Z0R4eKZ+U=";
     };
     name = "night-coder";
     license = "MIT";
@@ -3891,10 +3927,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.34.0";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.34.0/file/amazonwebservices.aws-toolkit-vscode-1.34.0.vsix";
-      sha256 = "sha256-b8dSAaIZdTkjU+cJjBA4NL2+CdnjFW80u6eCdnKaBHo=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.35.0/file/amazonwebservices.aws-toolkit-vscode-1.35.0.vsix";
+      sha256 = "sha256-8BNNfeWZqgWLusRctlKNISq3n3AcBFfCD7bRF8Vd/Jw=";
     };
     name = "aws-toolkit-vscode";
     license = "Apache-2.0";
@@ -4047,10 +4083,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.22.0";
+    version = "0.22.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.22.0/file/antfu.unocss-0.22.0.vsix";
-      sha256 = "sha256-kVehhHNRl2NZYM2+W0FZnPrJHvRnL9Uqhmbx10yJXkI=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.22.2/file/antfu.unocss-0.22.2.vsix";
+      sha256 = "sha256-kMFOQBm3fwYeaZe8RjXB+EzEP90rFjfRDIM/NA4gcsk=";
     };
     name = "unocss";
     license = "MIT";
@@ -4539,10 +4575,10 @@
   };
   atlassian-atlascode = {
     pname = "atlassian-atlascode";
-    version = "2.10.1";
+    version = "2.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.1/file/atlassian.atlascode-2.10.1.vsix";
-      sha256 = "sha256-RTROphs6x/9IMKWEeUfh7PPq6lUgd0TyoyUf8WbAb48=";
+      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.3/file/atlassian.atlascode-2.10.3.vsix";
+      sha256 = "sha256-8J2sUKaAdwDn0RVK16FywQ5Vt0WNScInSkTjZxifD6M=";
     };
     name = "atlascode";
     license = "MIT";
@@ -4959,10 +4995,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2021.12.19";
+    version = "2022.1.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2021.12.19/file/borkdude.clj-kondo-2021.12.19.vsix";
-      sha256 = "sha256-A4x0A5dB0wGtEtNXnTQgqm6zq0cUc71pQlDRVTWaSe4=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.1.15/file/borkdude.clj-kondo-2022.1.15.vsix";
+      sha256 = "sha256-W+UbkVe6tVubhfzzdLEUNTW3DbBhGshUu0ziLjTqqlk=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -5043,10 +5079,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.18";
+    version = "5.6.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.18/file/bringout.f18-klijent-5.6.18.vsix";
-      sha256 = "sha256-DU8BOtv0NVzOAGsTEOnzHDBot5rZZxCjsFeTPxKeMz0=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.19/file/bringout.f18-klijent-5.6.19.vsix";
+      sha256 = "sha256-UgvttiNEgMuPMKU09DUY4pIcuB68RcngthNmJe82iPE=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -5319,10 +5355,10 @@
   };
   christian-kohler-path-intellisense = {
     pname = "christian-kohler-path-intellisense";
-    version = "2.5.0";
+    version = "2.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.5.0/file/christian-kohler.path-intellisense-2.5.0.vsix";
-      sha256 = "sha256-GfFH1CFObkZEJHwkzSxeJ0GVfjBE/ee3GL5rboVEqVg=";
+      url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.6.1/file/christian-kohler.path-intellisense-2.6.1.vsix";
+      sha256 = "sha256-OX22jlgDJZNQfMycUzStkxXutlOe9Bog82afTNupe1Q=";
     };
     name = "path-intellisense";
     license = "MIT";
@@ -5331,10 +5367,10 @@
   };
   christianvoigt-argdown-vscode = {
     pname = "christianvoigt-argdown-vscode";
-    version = "1.7.12";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/christianvoigt/argdown-vscode/1.7.12/file/christianvoigt.argdown-vscode-1.7.12.vsix";
-      sha256 = "sha256-qFuJWKNRPDEd/xEi2hgRbbnOnBmsrcgBQdeRZXOWgFs=";
+      url = "https://open-vsx.org/api/christianvoigt/argdown-vscode/1.8.1/file/christianvoigt.argdown-vscode-1.8.1.vsix";
+      sha256 = "sha256-iek5muFslo3bRu7eS0xKXDq2NN4/FwMpTnbPYIP4xe8=";
     };
     name = "argdown-vscode";
     license = "MIT";
@@ -5883,10 +5919,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.15.1";
+    version = "0.15.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.1/file/cyrusfirheir.twee3-language-tools-0.15.1.vsix";
-      sha256 = "sha256-lnAnLS+8RyXNrk8ye6SQZRYpQ4Fa2eAf51DhKWDQvws=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.2/file/cyrusfirheir.twee3-language-tools-0.15.2.vsix";
+      sha256 = "sha256-gfGmjLVBSWfkiW+eXMINAQB3i1hqx9c4WMTtwsVG6es=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -5895,10 +5931,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.4.1";
+    version = "0.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.1/file/d-biehl.robotcode-0.4.1.vsix";
-      sha256 = "sha256-MYsPQsApAPuJJh4SsJRiKAKe9IPb0E7nL8YRdiBCQIg=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.3/file/d-biehl.robotcode-0.4.3.vsix";
+      sha256 = "sha256-EgTgrfTLhENNNWnbRvbb1cI6nWi0lOF+jS9SZteCa2s=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -6036,6 +6072,18 @@
     license = "Apache-2.0";
     publisher = "datasert";
     description = "Sweet set of text utilities (filter, sort, remove, split, join, insert, open, encode/decode, encrypt)";
+  };
+  datastax-astra-for-vs-code = {
+    pname = "datastax-astra-for-vs-code";
+    version = "0.3.93";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/datastax/astra-for-vs-code/0.3.93/file/datastax.astra-for-vs-code-0.3.93.vsix";
+      sha256 = "sha256-0UKX4hr9iEyiZMfYJIEMfwU7sbx1BAbYTEECeGQDekU=";
+    };
+    name = "astra-for-vs-code";
+    license = "MIT";
+    publisher = "datastax";
+    description = "DataStax Astra Cassandra-as-a-Service: Open, multi-cloud stack for modern data apps";
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
@@ -6291,10 +6339,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.76.6";
+    version = "0.77.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.76.6/file/dendron.nightly-0.76.6.vsix";
-      sha256 = "sha256-AQx+OvPTS2tI3zsU909LOIh6HvwAk3pYGrsqlA+pZ40=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.77.4/file/dendron.nightly-0.77.4.vsix";
+      sha256 = "sha256-qG9NPab/OXF9WS8/R7mkj1PzhKJ1SOaTclYl9z1MT7U=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -6723,10 +6771,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1682204";
+    version = "6.0.1702386";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1682204/file/eliostruyf.vscode-front-matter-beta-6.0.1682204.vsix";
-      sha256 = "sha256-+Rwlvj+tzBsJAYMnkBNSH2yt+yQ0AVZhi2cZikzE/qk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1702386/file/eliostruyf.vscode-front-matter-beta-6.0.1702386.vsix";
+      sha256 = "sha256-XnNmCjxg1f4Q0HzKdqyiEI2sCJUNTQIkVnnUhlcMEAY=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -7035,10 +7083,10 @@
   };
   evzen-wybitul-magic-racket = {
     pname = "evzen-wybitul-magic-racket";
-    version = "0.6.0";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evzen-wybitul/magic-racket/0.6.0/file/evzen-wybitul.magic-racket-0.6.0.vsix";
-      sha256 = "sha256-/n7h7aNmf1kZ9ENQvZiDEI2VTkeUr7gvpQKVoPjXrrQ=";
+      url = "https://open-vsx.org/api/evzen-wybitul/magic-racket/0.6.2/file/evzen-wybitul.magic-racket-0.6.2.vsix";
+      sha256 = "sha256-jxDJRUew/CHT19nynR4rBsbIyi+3gT5cGGJSs/3vdO8=";
     };
     name = "magic-racket";
     license = "GPL-3.0";
@@ -7311,10 +7359,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.17.2";
+    version = "0.17.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.2/file/foam.foam-vscode-0.17.2.vsix";
-      sha256 = "sha256-FQ/Y9Xxd2myt84MXoFgJpBVfPOo65pilF8gwpe7O0jM=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.3/file/foam.foam-vscode-0.17.3.vsix";
+      sha256 = "sha256-i8dbEBhw3WXETwK4Z0KkPKVdXygZ7R5xTe++IsTGTUA=";
     };
     name = "foam-vscode";
     license = "MIT";
@@ -7657,18 +7705,6 @@
     publisher = "gengjiawen";
     description = "Postfix templates for TypeScript/Javascript";
   };
-  gengjiawen-vscode-wakatime-gitpods = {
-    pname = "gengjiawen-vscode-wakatime-gitpods";
-    version = "14.0.3";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/gengjiawen/vscode-wakatime-gitpods/14.0.3/file/gengjiawen.vscode-wakatime-gitpods-14.0.3.vsix";
-      sha256 = "sha256-FWoYU7lHMktK1uSelurW0pBq4F9PD25fD7jdBAqOAcE=";
-    };
-    name = "vscode-wakatime-gitpods";
-    license = "BSD-3-Clause";
-    publisher = "gengjiawen";
-    description = "Metrics, insights, and time tracking automatically generated from your programming activity.";
-  };
   gengjiawen-vscode-wasm = {
     pname = "gengjiawen-vscode-wasm";
     version = "1.3.1";
@@ -7791,10 +7827,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.3.18";
+    version = "0.3.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.3.18/file/gitduck.code-streaming-0.3.18.vsix";
-      sha256 = "sha256-dXWxErF2aJ/oc8dhN9rd+17e8LL4PNhj2uU8KKWf7qg=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.3.19/file/gitduck.code-streaming-0.3.19.vsix";
+      sha256 = "sha256-RcmyFyyreeWGbhwXyDI5emcavBIaq+QSUKS5sTHp9Ks=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -8679,10 +8715,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.15";
+    version = "0.14.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.15/file/iljapostnovs.ui5plugin-0.14.15.vsix";
-      sha256 = "sha256-8Tz6PkqpCFFoamVdqYMBFdS4wmTAI57+Wo3q9PzgKM4=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.17/file/iljapostnovs.ui5plugin-0.14.17.vsix";
+      sha256 = "sha256-w44FLqdqBpBk0baNwcTjHIpW1InzbOccY1PESbrtgxo=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
@@ -8763,10 +8799,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.2.2";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.2.2/file/intersystems-community.vscode-objectscript-1.2.2.vsix";
-      sha256 = "sha256-roWL5Ww5jj498FHzCvY5Hi+ZUaU/C4Ww24aRlG91pcw=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.1/file/intersystems-community.vscode-objectscript-1.4.1.vsix";
+      sha256 = "sha256-TlkuNUcnKfu7JXIcCjqmF5SKtNGiz+yo+rBZRm3cJPg=";
     };
     name = "vscode-objectscript";
     license = "MIT";
@@ -9315,10 +9351,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.43";
+    version = "0.16.44";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.43/file/jroesch.lean-0.16.43.vsix";
-      sha256 = "sha256-zWizJF3Y7Wuc3f1Sulk/MtSa1VLQMob1Qo9+N1Aw6xM=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.44/file/jroesch.lean-0.16.44.vsix";
+      sha256 = "sha256-fLk6FxHXWEMNqHY/hfOqYmEvAQt71oOChN7aFVPUgtc=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -9901,6 +9937,18 @@
     publisher = "kube";
     description = "42 header for VSCode : www.42.fr";
   };
+  kubescape-kubescape = {
+    pname = "kubescape-kubescape";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.4/file/kubescape.kubescape-0.0.4.vsix";
+      sha256 = "sha256-op8YuhbNa8ERGQHv9/ZO9iD3wcWSm4AYhffjDDwr4bk=";
+    };
+    name = "kubescape";
+    license = "Apache";
+    publisher = "kubescape";
+    description = "Kubescape extension for vscode";
+  };
   kumar-harsh-graphql-for-vscode = {
     pname = "kumar-harsh-graphql-for-vscode";
     version = "1.15.3";
@@ -10047,10 +10095,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.54";
+    version = "0.0.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.54/file/leanprover.lean4-0.0.54.vsix";
-      sha256 = "sha256-AVO2wbgnOdo5zma5Gv1WEMmGwbQcwwDBMNtoVLOCGR0=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.56/file/leanprover.lean4-0.0.56.vsix";
+      sha256 = "sha256-VdOSv4dqY1o521B4LrNG0P1VmkjLh/ojpl6w+6eNnrU=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -10155,10 +10203,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.10";
+    version = "3.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.10/file/lifeart.vscode-ember-unstable-3.0.10.vsix";
-      sha256 = "sha256-v+DCQsrbPpCkpIZJeviK2C8k/7JCRXLNSTwznZtAIeA=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.11/file/lifeart.vscode-ember-unstable-3.0.11.vsix";
+      sha256 = "sha256-Vl7vWfKDf+DxR4SyPk5ayrUl3j7oytCBXfDL0Ru9g18=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -10803,10 +10851,10 @@
   };
   miguelsolorio-fluent-icons = {
     pname = "miguelsolorio-fluent-icons";
-    version = "0.0.15";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/miguelsolorio/fluent-icons/0.0.15/file/miguelsolorio.fluent-icons-0.0.15.vsix";
-      sha256 = "sha256-jXkc2WCunxZRhPEWfzS3bQ+M3jo8Cz/jr0oA/I6/7c4=";
+      url = "https://open-vsx.org/api/miguelsolorio/fluent-icons/0.0.16/file/miguelsolorio.fluent-icons-0.0.16.vsix";
+      sha256 = "sha256-7vPgZsUg4DXk+W4zPuum6ziSB83wwvU9Z/1KzWP25E0=";
     };
     name = "fluent-icons";
     license = "MIT";
@@ -11115,10 +11163,10 @@
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
-    version = "1.3.5";
+    version = "1.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.5/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.5.vsix";
-      sha256 = "sha256-ZI85GNjjWYDeRDQ6dEixdOmpq0dhLCjXNeQ+9jxrhQU=";
+      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.6/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.6.vsix";
+      sha256 = "sha256-Mb73lJWJtqgXmStwpkgCgayi6s0dNjyx3ZE36WGCsmU=";
     };
     name = "vscode-kubernetes-tools";
     license = "MIT";
@@ -11139,10 +11187,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.206";
+    version = "1.1.209";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.206/file/ms-pyright.pyright-1.1.206.vsix";
-      sha256 = "sha256-1RRDQhn86dfKOUzjDah3KGMHiWonOyOVRgcK7QW7DmY=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.209/file/ms-pyright.pyright-1.1.209.vsix";
+      sha256 = "sha256-8nhAF3jftk0ABdfmahE0a4AWHCY8PbHfQMvHedsPass=";
     };
     name = "pyright";
     license = "MIT";
@@ -11271,10 +11319,10 @@
   };
   ms-vscode-hexeditor = {
     pname = "ms-vscode-hexeditor";
-    version = "1.8.2";
+    version = "1.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.8.2/file/ms-vscode.hexeditor-1.8.2.vsix";
-      sha256 = "sha256-MFrRVMNrMxtxv5J2+56sVuzqDlarEm8+w8BVcZ+e/Wg=";
+      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.3/file/ms-vscode.hexeditor-1.9.3.vsix";
+      sha256 = "sha256-NoIT7Qf5j95llaAUbDa1oqE476an+jHUjE5buCTcrnQ=";
     };
     name = "hexeditor";
     license = "MIT";
@@ -11847,10 +11895,10 @@
   };
   netanelgilad-opah = {
     pname = "netanelgilad-opah";
-    version = "0.0.238";
+    version = "0.0.239";
     src = fetchurl {
-      url = "https://open-vsx.org/api/netanelgilad/opah/0.0.238/file/netanelgilad.opah-0.0.238.vsix";
-      sha256 = "sha256-brCV14dF2q4RE+eNxC8OuIt/m46Dk57FWkS/T54q0F8=";
+      url = "https://open-vsx.org/api/netanelgilad/opah/0.0.239/file/netanelgilad.opah-0.0.239.vsix";
+      sha256 = "sha256-zYQhjA+b4J95qICFBlLTb8FdwrGu+hkrRdqeNmoZTsQ=";
     };
     name = "opah";
     license = "MIT";
@@ -11991,10 +12039,10 @@
   };
   nocalhost-nocalhost = {
     pname = "nocalhost-nocalhost";
-    version = "0.6.11";
+    version = "0.6.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.11/file/nocalhost.nocalhost-0.6.11.vsix";
-      sha256 = "sha256-RM8+LCh3zZqnqZ7q3uyeP92x+bQSVqXlud/mHJC4KeY=";
+      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.13/file/nocalhost.nocalhost-0.6.13.vsix";
+      sha256 = "sha256-G2CZgmlZn/8LjRJfp5lYZNAoB8DVH6aUDBF3OeTthXg=";
     };
     name = "nocalhost";
     license = "Apache-2.0";
@@ -12039,10 +12087,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.13.6";
+    version = "17.13.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.13.6/file/nrwl.angular-console-17.13.6.vsix";
-      sha256 = "sha256-JQa16q5qpNGhZ07CZwKijGaLmgLfsvM6S7ifFFO8Q5Q=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.13.7/file/nrwl.angular-console-17.13.7.vsix";
+      sha256 = "sha256-Pz/7W1pRCSJncnj8Y16QURDXxmKxYHHEAVxhJQs+kDA=";
     };
     name = "angular-console";
     license = "MIT";
@@ -12075,10 +12123,10 @@
   };
   obostjancic-kolorkross = {
     pname = "obostjancic-kolorkross";
-    version = "0.2.3";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/obostjancic/kolorkross/0.2.3/file/obostjancic.kolorkross-0.2.3.vsix";
-      sha256 = "sha256-BNjUWhTSXtz016tef0EOzBK3ASPdHTCePzFhJNiKmkA=";
+      url = "https://open-vsx.org/api/obostjancic/kolorkross/0.3.0/file/obostjancic.kolorkross-0.3.0.vsix";
+      sha256 = "sha256-Zn0Amenc0YL71WmkXc2d9o7cP3K0FfNSgH/5H8+kuGo=";
     };
     name = "kolorkross";
     license = "";
@@ -12288,6 +12336,18 @@
     license = "MIT OR Apache-2.0";
     publisher = "oraichain";
     description = "CosmWasm build & optimize";
+  };
+  oraichain-cosmwasm-ide = {
+    pname = "oraichain-cosmwasm-ide";
+    version = "0.13.44";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.44/file/oraichain.cosmwasm-ide-0.13.44.vsix";
+      sha256 = "sha256-mYGiVULYE01ntI3WMKeCK8XxXQYqyNP4DZAp21+gETo=";
+    };
+    name = "cosmwasm-ide";
+    license = "MIT OR Apache-2.0";
+    publisher = "oraichain";
+    description = "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts";
   };
   orellabacCR-mobilize-codeundestand = {
     pname = "orellabacCR-mobilize-codeundestand";
@@ -13467,10 +13527,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.2.2";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.2.2/file/redhat.vscode-yaml-1.2.2.vsix";
-      sha256 = "sha256-pjNe+0mppY+ionTHDP9lVVllWx6zyaStjxXTkXF3xBo=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.3.0/file/redhat.vscode-yaml-1.3.0.vsix";
+      sha256 = "sha256-Tz6bLcBUATn8cYIzGoLJwgaJZGbBVr1CISmJHz+iM60=";
     };
     name = "vscode-yaml";
     license = "MIT";
@@ -13851,10 +13911,10 @@
   };
   ryanluker-vscode-coverage-gutters = {
     pname = "ryanluker-vscode-coverage-gutters";
-    version = "2.8.2";
+    version = "2.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.8.2/file/ryanluker.vscode-coverage-gutters-2.8.2.vsix";
-      sha256 = "sha256-t7P8JDZxj3LJ0qa7ZOp8LkGj/CkenmhMV+g5mhvHANU=";
+      url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.9.1/file/ryanluker.vscode-coverage-gutters-2.9.1.vsix";
+      sha256 = "sha256-QnDigqi9oZ6voW/R+M2vj5CqL1kFxzHz4baKe/TqCWE=";
     };
     name = "vscode-coverage-gutters";
     license = "MIT";
@@ -13872,6 +13932,18 @@
     license = "MIT";
     publisher = "ryanolsonx";
     description = "Optimized Zenburn theme for VS Code";
+  };
+  ryu1kn-edit-with-shell = {
+    pname = "ryu1kn-edit-with-shell";
+    version = "1.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ryu1kn/edit-with-shell/1.3.0/file/ryu1kn.edit-with-shell-1.3.0.vsix";
+      sha256 = "sha256-X54AetueaLX+Sf+ICI7K7D/AiqtH9qe4IjWk6BeS4K8=";
+    };
+    name = "edit-with-shell";
+    license = "MIT";
+    publisher = "ryu1kn";
+    description = "Leverage your favourite shell commands to edit text";
   };
   s-nlf-fh-glassit = {
     pname = "s-nlf-fh-glassit";
@@ -14103,10 +14175,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.10.15";
+    version = "1.11.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.10.15/file/scalameta.metals-1.10.15.vsix";
-      sha256 = "sha256-CnQt8JfZ/+iIC2KzwVyky6Tfy5ifvq6dGw0pJ4zYMts=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.11.1/file/scalameta.metals-1.11.1.vsix";
+      sha256 = "sha256-zdy36MJWm80CiG9NmYbZsWIomDjS5ixAEMg2q82c07w=";
     };
     name = "metals";
     license = "Apache-2.0";
@@ -14331,10 +14403,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.10.1";
+    version = "0.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.10.1/file/shufo.vscode-blade-formatter-0.10.1.vsix";
-      sha256 = "sha256-hOTZLQ0KlTjLMx0Z5vahkE4+FdY8uRVTBc9hCe3e8j8=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.10.3/file/shufo.vscode-blade-formatter-0.10.3.vsix";
+      sha256 = "sha256-WitKgygNuALqbxcwu/+Y0j3UH/KN0tD6tIiLCb8n4sk=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -14439,10 +14511,10 @@
   };
   simplicitesoftware-simplicite-vscode-tools = {
     pname = "simplicitesoftware-simplicite-vscode-tools";
-    version = "1.0.16";
+    version = "1.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.16/file/simplicitesoftware.simplicite-vscode-tools-1.0.16.vsix";
-      sha256 = "sha256-rxGjeG5eBDTO1NGBT6RHzLsg8UjhVVVyRwuu7UiwTKw=";
+      url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.17/file/simplicitesoftware.simplicite-vscode-tools-1.0.17.vsix";
+      sha256 = "sha256-IG7CfqMszA1NvjLlNxA3SPfF6tOwpcYU4LpxnHaOauE=";
     };
     name = "simplicite-vscode-tools";
     license = "Apache-2.0";
@@ -14655,10 +14727,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.9.8";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.9.8/file/sourcery.sourcery-0.9.8.vsix";
-      sha256 = "sha256-JLVIlNMnUl/trbegoEYqB5+9lqgtApb5oRjNSJK2fbE=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.0/file/sourcery.sourcery-0.10.0.vsix";
+      sha256 = "sha256-JnOgeyAPXVd9pebbR5jk7VYoQlWjhVh4Ndg4Iu46Xx8=";
     };
     name = "sourcery";
     license = "MIT";
@@ -14787,10 +14859,10 @@
   };
   stkb-rewrap = {
     pname = "stkb-rewrap";
-    version = "1.15.4";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stkb/rewrap/1.15.4/file/stkb.rewrap-1.15.4.vsix";
-      sha256 = "sha256-yuXyClvhGsonvddYHDMkLSvwEsD21vOeE54Gs9BRpeg=";
+      url = "https://open-vsx.org/api/stkb/rewrap/1.16.0/file/stkb.rewrap-1.16.0.vsix";
+      sha256 = "sha256-351zYmMupAv/8fQ+lOc0pYzy/wsE3JqTuxfKD+AdBAc=";
     };
     name = "rewrap";
     license = "";
@@ -14799,10 +14871,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.3";
+    version = "2.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.3/file/streetsidesoftware.code-spell-checker-2.1.3.vsix";
-      sha256 = "sha256-RNitdqjndkmC/6NW+BJtHHWgrgwycTWghdmFQ+b7DYA=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.4/file/streetsidesoftware.code-spell-checker-2.1.4.vsix";
+      sha256 = "sha256-V8ug/EtDczjiofuL7HhpN1B+qbedpnvIlXnwiXJzD/g=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";
@@ -15195,10 +15267,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.9.0";
+    version = "105.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.9.0/file/svelte.svelte-vscode-105.9.0.vsix";
-      sha256 = "sha256-LXE4f9WoW9TDRJ4RgJQQbixUeYYgeh11ka8Hyy+EyHI=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.10.0/file/svelte.svelte-vscode-105.10.0.vsix";
+      sha256 = "sha256-vmvJAecudnWhx9Gcom2hILcE9WY8lluDfxTh2eqZJKo=";
     };
     name = "svelte-vscode";
     license = "MIT";
@@ -15363,10 +15435,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.4.1";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.4.1/file/tfsec.tfsec-1.4.1.vsix";
-      sha256 = "sha256-VS3yxUNlJhKHHK3U4tMa+o3r3F6AMxXznRPRjDLqWaA=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.6.1/file/tfsec.tfsec-1.6.1.vsix";
+      sha256 = "sha256-CS+uSIHpFXtCzSmiSJe7yzdKdKghk1pQH2daqLq3UMU=";
     };
     name = "tfsec";
     license = "MIT";
@@ -15507,10 +15579,10 @@
   };
   tintoy-msbuild-project-tools = {
     pname = "tintoy-msbuild-project-tools";
-    version = "0.3.15";
+    version = "0.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tintoy/msbuild-project-tools/0.3.15/file/tintoy.msbuild-project-tools-0.3.15.vsix";
-      sha256 = "sha256-ONLL2SpSK4CCVG5ku5DeN6iVJHEbpEPvCwAQcgtdD0Y=";
+      url = "https://open-vsx.org/api/tintoy/msbuild-project-tools/0.4.3/file/tintoy.msbuild-project-tools-0.4.3.vsix";
+      sha256 = "sha256-8CPSblIikBppGtK2SQ9KzyBRogxjAkQTdQVAwBmI7wE=";
     };
     name = "msbuild-project-tools";
     license = "MIT";
@@ -15939,10 +16011,10 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.1.4";
+    version = "1.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.1.4/file/usernamehw.commands-1.1.4.vsix";
-      sha256 = "sha256-Z80Go/l4Ipa7Pk6Gx9qBpYQqJStFvFxVvnDjeHGiZ3Q=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.1.5/file/usernamehw.commands-1.1.5.vsix";
+      sha256 = "sha256-cNoOWE6OLK0yLoGGnAqTTAB+HbYwNvakHU0+uxzp30g=";
     };
     name = "commands";
     license = "MIT";
@@ -18171,10 +18243,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.36";
+    version = "0.0.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.36/file/zardoy.zardoy-experiments-0.0.36.vsix";
-      sha256 = "sha256-RzqBso2zwS5apcB/2YkGjq/3mi3BnMhwJ/uiHqBDLAw=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.37/file/zardoy.zardoy-experiments-0.0.37.vsix";
+      sha256 = "sha256-tGD8GP9o67L7nhW1BnnVhmAC42e1gfT8gIXljp5U/Vc=";
     };
     name = "zardoy-experiments";
     license = "MIT";
@@ -18255,10 +18327,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.10";
+    version = "3.13.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.10/file/zhuangtongfa.material-theme-3.13.10.vsix";
-      sha256 = "sha256-4E0BGJymz5sBgHuwF7SnuPjZD0SJK2IdvtqfkfgdigM=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.11/file/zhuangtongfa.material-theme-3.13.11.vsix";
+      sha256 = "sha256-aOt1joKiLp01guY98wACuMRziRI72zwF8YekR5pyZ1o=";
     };
     name = "material-theme";
     license = "MIT";
