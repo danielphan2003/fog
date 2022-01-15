@@ -55,8 +55,5 @@ jobs:
     - name: Update all packages
       run: nix develop --command bud updateSources sources all-packages
 
-    - name: Pull from main
-      run: git pull --rebase
-
     - name: Push changes to main
       run: git push
