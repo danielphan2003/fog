@@ -55,8 +55,5 @@ jobs:
     - name: Update all open-vsx extensions (except matklad.rust-analyzer)
       run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx
 
-    - name: Pull from main
-      run: git pull --rebase
-
     - name: Push changes to main
       run: git push
