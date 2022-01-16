@@ -11067,10 +11067,10 @@
   };
   moshfeu-diff-merge = {
     pname = "moshfeu-diff-merge";
-    version = "0.5.0";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.5.0/file/moshfeu.diff-merge-0.5.0.vsix";
-      sha256 = "sha256-wrQxy9rkv0bA/bpzUjR8b/jrvukULCJ40wblKhWLSwo=";
+      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.5.2/file/moshfeu.diff-merge-0.5.2.vsix";
+      sha256 = "sha256-p13aJS8CG4IbsFcWIZ7qxS76FcsDY3XbRmWa4AiFj4o=";
     };
     name = "diff-merge";
     license = "MIT";
