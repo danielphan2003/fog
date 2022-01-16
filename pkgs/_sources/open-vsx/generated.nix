@@ -3673,6 +3673,18 @@
     publisher = "adrianhumphreys";
     description = "Syntax highlighter for SilverStripe template files (.ss)";
   };
+  adrieankhisbe-vscode-ndjson = {
+    pname = "adrieankhisbe-vscode-ndjson";
+    version = "0.100.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/adrieankhisbe/vscode-ndjson/0.100.0/file/adrieankhisbe.vscode-ndjson-0.100.0.vsix";
+      sha256 = "sha256-7ccm75dfY80wGIpd7jb3UQSlZpW/un4SqObMHNcGyrA=";
+    };
+    name = "vscode-ndjson";
+    license = "MIT";
+    publisher = "adrieankhisbe";
+    description = "Language Support for NDJson (Newline Delimited JSON) files";
+  };
   ahmadawais-emoji-log-vscode = {
     pname = "ahmadawais-emoji-log-vscode";
     version = "1.0.0";
