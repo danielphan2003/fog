@@ -4875,10 +4875,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.233";
+    version = "2.0.234";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.233/file/betterthantomorrow.calva-2.0.233.vsix";
-      sha256 = "sha256-Wnhnt2Jj9nWZHmVNvJRpNgvqXHvtOPHvWaTt5YRAHf4=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.234/file/betterthantomorrow.calva-2.0.234.vsix";
+      sha256 = "sha256-Qlz4UHaZ2y3Z/eY2uC4oPKc85w5tHQT6na9lUPyZEqU=";
     };
     name = "calva";
     license = "MIT";
@@ -11931,10 +11931,10 @@
   };
   netanelgilad-opah = {
     pname = "netanelgilad-opah";
-    version = "0.0.239";
+    version = "0.0.240";
     src = fetchurl {
-      url = "https://open-vsx.org/api/netanelgilad/opah/0.0.239/file/netanelgilad.opah-0.0.239.vsix";
-      sha256 = "sha256-zYQhjA+b4J95qICFBlLTb8FdwrGu+hkrRdqeNmoZTsQ=";
+      url = "https://open-vsx.org/api/netanelgilad/opah/0.0.240/file/netanelgilad.opah-0.0.240.vsix";
+      sha256 = "sha256-rDeIts2CIVtAHo1wto4PC9apzN30suzKIHXJuT8Y6qI=";
     };
     name = "opah";
     license = "MIT";
@@ -18183,10 +18183,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.12";
+    version = "0.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.12/file/zardoy.better-snippets-0.1.12.vsix";
-      sha256 = "sha256-WNYvDcVWxZWjL1QOHzRfDsbQvoMe4I+L5MXMjdBMi64=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.13/file/zardoy.better-snippets-0.1.13.vsix";
+      sha256 = "sha256-AmLxupJLFIBPqH690P2flGCzMZ2iiR17ZjVk9izIr6w=";
     };
     name = "better-snippets";
     license = "MIT";
