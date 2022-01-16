@@ -2835,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.1415";
+    version = "2022.1.1510";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1415/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1415.vsix";
-      sha256 = "sha256-UzOfH3t/VOCH7RRm5YSPopuJxYiRG9xiFIx321r2igM=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1510/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1510.vsix";
+      sha256 = "sha256-jbGmw+eBF0bijc6U3SsfT3rYfnHrL+uieXKw1JPhhB8=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -6939,10 +6939,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "5.1.2";
+    version = "5.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/5.1.2/file/entan-gl.cc65-vice-5.1.2.vsix";
-      sha256 = "sha256-3RFOFcwRKSSLbBonxnAysWD5i6b5+uCm6uZPLUKN4Uw=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/5.1.3/file/entan-gl.cc65-vice-5.1.3.vsix";
+      sha256 = "sha256-xk4LeqO42dkbr3scw4NhIo+YxrgNvdXt1nWiamqUBMg=";
     };
     name = "cc65-vice";
     license = "MIT";
