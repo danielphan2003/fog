@@ -5655,10 +5655,10 @@
   };
   croccifixio-blackboard-pro = {
     pname = "croccifixio-blackboard-pro";
-    version = "0.1.4";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/0.1.4/file/croccifixio.blackboard-pro-0.1.4.vsix";
-      sha256 = "sha256-GCp4NMZGz8FCMkfdGAlfPl1eEahpmKtiGoOmqeKNbhs=";
+      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.0.0/file/croccifixio.blackboard-pro-1.0.0.vsix";
+      sha256 = "sha256-nKAGYF+zHxCroRhaZsA/JKzn1AS02M6c4F+sCTUZsbo=";
     };
     name = "blackboard-pro";
     license = "Unlicense";
@@ -14511,10 +14511,10 @@
   };
   simplicitesoftware-simplicite-vscode-tools = {
     pname = "simplicitesoftware-simplicite-vscode-tools";
-    version = "1.0.17";
+    version = "1.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.17/file/simplicitesoftware.simplicite-vscode-tools-1.0.17.vsix";
-      sha256 = "sha256-IG7CfqMszA1NvjLlNxA3SPfF6tOwpcYU4LpxnHaOauE=";
+      url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.18/file/simplicitesoftware.simplicite-vscode-tools-1.0.18.vsix";
+      sha256 = "sha256-a6gTyxhT4FAOVEnbCNoWlMBs4aK3QdLnF7ecGgfjp8Q=";
     };
     name = "simplicite-vscode-tools";
     license = "Apache-2.0";
