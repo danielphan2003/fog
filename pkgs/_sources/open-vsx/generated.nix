@@ -6925,6 +6925,18 @@
     publisher = "emulicious";
     description = "This extension enables debugging with Emulicious in VS Code.";
   };
+  engn2219-anu-engn2219-2022-s1-vscode = {
+    pname = "engn2219-anu-engn2219-2022-s1-vscode";
+    version = "0.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.0.0/file/engn2219-anu.engn2219-2022-s1-vscode-0.0.0.vsix";
+      sha256 = "sha256-d9tW3RLTR0iPfGYhm9KtFUhYJ9svox7yeutMmevofaI=";
+    };
+    name = "engn2219-2022-s1-vscode";
+    license = "MIT";
+    publisher = "engn2219-anu";
+    description = "ENGN2219 package";
+  };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
     version = "0.8.4";
