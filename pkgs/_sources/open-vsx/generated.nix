@@ -4107,10 +4107,10 @@
   };
   antfu-unocss = {
     pname = "antfu-unocss";
-    version = "0.22.2";
+    version = "0.22.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/unocss/0.22.2/file/antfu.unocss-0.22.2.vsix";
-      sha256 = "sha256-kMFOQBm3fwYeaZe8RjXB+EzEP90rFjfRDIM/NA4gcsk=";
+      url = "https://open-vsx.org/api/antfu/unocss/0.22.3/file/antfu.unocss-0.22.3.vsix";
+      sha256 = "sha256-SOYPpmT9a2P5T7NyhKsuK7i7QYrTD3AS8FGn9hyHnpQ=";
     };
     name = "unocss";
     license = "MIT";
@@ -18279,10 +18279,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.37";
+    version = "0.0.38";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.37/file/zardoy.zardoy-experiments-0.0.37.vsix";
-      sha256 = "sha256-tGD8GP9o67L7nhW1BnnVhmAC42e1gfT8gIXljp5U/Vc=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.38/file/zardoy.zardoy-experiments-0.0.38.vsix";
+      sha256 = "sha256-jogVwYAgMvnB2xTeNFAc3cThrdjvW+jv/6DGwUE552c=";
     };
     name = "zardoy-experiments";
     license = "MIT";
