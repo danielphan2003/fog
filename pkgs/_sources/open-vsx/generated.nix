@@ -3109,6 +3109,18 @@
     publisher = "Tobiah";
     description = "Various tools to help with Unity development";
   };
+  Trelent-trelent = {
+    pname = "Trelent-trelent";
+    version = "1.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Trelent/trelent/1.0.6/file/Trelent.trelent-1.0.6.vsix";
+      sha256 = "sha256-r8PatvTDnRGfHPmnA93eTAUrFUbRmwA+qkYmDwRBMgI=";
+    };
+    name = "trelent";
+    license = "We use the \8220Commons Clause\8221 License Condition v1.0 with the MIT License.";
+    publisher = "Trelent";
+    description = "We write docstrings for your python code!";
+  };
   TshakaEricLekholoane-hy = {
     pname = "TshakaEricLekholoane-hy";
     version = "0.0.17";
