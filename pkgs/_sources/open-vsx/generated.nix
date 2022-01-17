@@ -2871,10 +2871,10 @@
   };
   SonatypeCommunity-vscode-iq-plugin = {
     pname = "SonatypeCommunity-vscode-iq-plugin";
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.2/file/SonatypeCommunity.vscode-iq-plugin-1.2.2.vsix";
-      sha256 = "sha256-laq/oR/lkxDApNPzYQeznYnOl0Hipwqox6ADzfxTdxg=";
+      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.3/file/SonatypeCommunity.vscode-iq-plugin-1.2.3.vsix";
+      sha256 = "sha256-Ac7TAL60E/BiuTobX/DgVWZnK0JPIX/1Nhx3jHa6pCE=";
     };
     name = "vscode-iq-plugin";
     license = "MIT";
