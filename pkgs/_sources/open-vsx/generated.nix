@@ -6795,10 +6795,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1708104";
+    version = "6.0.1708268";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1708104/file/eliostruyf.vscode-front-matter-beta-6.0.1708104.vsix";
-      sha256 = "sha256-ph1yzWe7mZYPWdjyjrcnuavonLE+lDj4+9DHb91PcZ0=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1708268/file/eliostruyf.vscode-front-matter-beta-6.0.1708268.vsix";
+      sha256 = "sha256-XWIJG+yjLfgdyW04ofXFoRYk9EfBivRiOD+sMWL5ExA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -12003,10 +12003,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.9.1";
+    version = "6.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.9.1/file/nicoespeon.abracadabra-6.9.1.vsix";
-      sha256 = "sha256-cxXMFg6sdLZjkIUn0Ubrq4irwXAsDaCy7vFxjXK02b8=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.10.0/file/nicoespeon.abracadabra-6.10.0.vsix";
+      sha256 = "sha256-HK+TIboC01eueLgvxZNTDq2TIwLFRQesyzuc1HT1BBE=";
     };
     name = "abracadabra";
     license = "MIT";
