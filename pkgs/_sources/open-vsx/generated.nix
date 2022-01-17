@@ -8487,10 +8487,10 @@
   };
   idleberg-applescript = {
     pname = "idleberg-applescript";
-    version = "0.21.0";
+    version = "0.21.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/applescript/0.21.0/file/idleberg.applescript-0.21.0.vsix";
-      sha256 = "sha256-PjI6b7aZAQ6I0aWRGuqiKbZyAiw2cEzuVjvijUbBt5A=";
+      url = "https://open-vsx.org/api/idleberg/applescript/0.21.1/file/idleberg.applescript-0.21.1.vsix";
+      sha256 = "sha256-jCVJPfM+a3Z0NaS9jJOefncpAmJsepJqsQ4Az92jN54=";
     };
     name = "applescript";
     license = "MIT";
