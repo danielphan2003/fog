@@ -10947,10 +10947,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.2.1";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.2.1/file/mintlify.document-1.2.1.vsix";
-      sha256 = "sha256-EQhtrz7kYQkEtmrLg3Ed3dH2n2+ZKsYctDedGocgV2Q=";
+      url = "https://open-vsx.org/api/mintlify/document/1.2.3/file/mintlify.document-1.2.3.vsix";
+      sha256 = "sha256-hqVPYMFG2W7vaww0gF5Xup14yl3YlNJOosWr7adwUxI=";
     };
     name = "document";
     license = "";
@@ -18183,10 +18183,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.13";
+    version = "0.1.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.13/file/zardoy.better-snippets-0.1.13.vsix";
-      sha256 = "sha256-AmLxupJLFIBPqH690P2flGCzMZ2iiR17ZjVk9izIr6w=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.16/file/zardoy.better-snippets-0.1.16.vsix";
+      sha256 = "sha256-CAGffek9mcW6RmTQhcPZIGR40L0l1EJdW97Th9QPwyU=";
     };
     name = "better-snippets";
     license = "MIT";
