@@ -13695,10 +13695,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.23.0/file/robocorp.robocorp-code-0.23.0.vsix";
-      sha256 = "sha256-MwSqwfa4mmXmv+ufz2Qr5jLfqYVyCUHvfrcyUxsHc7k=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.24.0/file/robocorp.robocorp-code-0.24.0.vsix";
+      sha256 = "sha256-03MGlOjlZjuJOIXlUZFrD0v61+54lMFatb2b2I6tiQ8=";
     };
     name = "robocorp-code";
     license = "";
@@ -13707,10 +13707,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.35.0";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.35.0/file/robocorp.robotframework-lsp-0.35.0.vsix";
-      sha256 = "sha256-pbG/lvbEY269yGpkHKOj9WOvCCn+u1q4n5HwegeIQ70=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.36.0/file/robocorp.robotframework-lsp-0.36.0.vsix";
+      sha256 = "sha256-N6YfzhM1mJ+jeBeFazUlbtX74z3fxZmTNCk7qd9+opg=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
