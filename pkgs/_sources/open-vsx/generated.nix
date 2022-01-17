@@ -9279,10 +9279,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.30.2";
+    version = "0.30.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.2/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.2.vsix";
-      sha256 = "sha256-Ea6dXxjtSFXg0XXvOXBUKJS79YlXuPU5gEBCkXebPxs=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.4/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.4.vsix";
+      sha256 = "sha256-21zSu/LXV5C4R+8mfEnz1Ra9h4Zfekt+kKx7bxgAEe0=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -11223,10 +11223,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.209";
+    version = "1.1.210";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.209/file/ms-pyright.pyright-1.1.209.vsix";
-      sha256 = "sha256-8nhAF3jftk0ABdfmahE0a4AWHCY8PbHfQMvHedsPass=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.210/file/ms-pyright.pyright-1.1.210.vsix";
+      sha256 = "sha256-EgOra/0MkHewFlPQVfyshgXwTBytPGDc7PzxbaTPaL8=";
     };
     name = "pyright";
     license = "MIT";
