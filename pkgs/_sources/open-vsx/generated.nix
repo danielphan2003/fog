@@ -1479,10 +1479,10 @@
   };
   Ikuyadeu-r = {
     pname = "Ikuyadeu-r";
-    version = "2.3.5";
+    version = "2.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ikuyadeu/r/2.3.5/file/Ikuyadeu.r-2.3.5.vsix";
-      sha256 = "sha256-0k/uUMf5Hcx/brIv00zYCcg08ykiNqVWl5lXDAKjQvU=";
+      url = "https://open-vsx.org/api/Ikuyadeu/r/2.3.6/file/Ikuyadeu.r-2.3.6.vsix";
+      sha256 = "sha256-o8iEpUp+zPHX+oMakukO38xv7mqg08juweU7tMSKfT8=";
     };
     name = "r";
     license = "MIT";
@@ -5439,10 +5439,10 @@
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.3.0/file/cmoog.sqlnotebook-0.3.0.vsix";
-      sha256 = "sha256-q0omgJyWZflsx1bojItL3UAwZijZ1sCpKBtYdLZ9vfM=";
+      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.3.1/file/cmoog.sqlnotebook-0.3.1.vsix";
+      sha256 = "sha256-2+ikdHI2XEiKaX3Dy1+dGRc+9QN+C2LmVIKC6BKoDTw=";
     };
     name = "sqlnotebook";
     license = "MIT";
@@ -6375,10 +6375,10 @@
   };
   denoland-vscode-deno = {
     pname = "denoland-vscode-deno";
-    version = "3.10.0";
+    version = "3.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/denoland/vscode-deno/3.10.0/file/denoland.vscode-deno-3.10.0.vsix";
-      sha256 = "sha256-fVJmEZdX/1uDzfFebxms6nIMXz4PcVc0eBo5KEu+UMU=";
+      url = "https://open-vsx.org/api/denoland/vscode-deno/3.10.1/file/denoland.vscode-deno-3.10.1.vsix";
+      sha256 = "sha256-8HfkvDWfC9ZKtnO0jk15xyrLUWAkaRX0d00I8f1dLQM=";
     };
     name = "vscode-deno";
     license = "MIT";
@@ -7851,10 +7851,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.3/file/giscafer.leek-fund-2.0.3.vsix";
-      sha256 = "sha256-L3c3JuRy9G+fBX24ctEaQdy5bmMNkxcTmhllEvDsVEk=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.4/file/giscafer.leek-fund-2.0.4.vsix";
+      sha256 = "sha256-O065RX0fNxe6nhAaWcvCzzUoPgQhf3+qVHSF9sO0hWE=";
     };
     name = "leek-fund";
     license = "MIT";
