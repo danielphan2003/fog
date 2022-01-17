@@ -14233,6 +14233,18 @@
     publisher = "sdras";
     description = "A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. \10024";
   };
+  sebastianbille-iam-legend = {
+    pname = "sebastianbille-iam-legend";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.1/file/sebastianbille.iam-legend-1.0.1.vsix";
+      sha256 = "sha256-+sqS/FjDZv0jxsxXmm6CDBRgk2IGoxHtCGJE50CN6G4=";
+    };
+    name = "iam-legend";
+    license = "MIT";
+    publisher = "sebastianbille";
+    description = "IAM policy actions autocomplete, documentation & wildcard resolution";
+  };
   seneka-test = {
     pname = "seneka-test";
     version = "0.0.1";
@@ -18133,6 +18145,18 @@
     publisher = "yurihs";
     description = "Light in the sidebar; dark everywhere else. Just like Sublime Text!";
   };
+  yuvrajmishra-vscode-pipe = {
+    pname = "yuvrajmishra-vscode-pipe";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.0/file/yuvrajmishra.vscode-pipe-1.1.0.vsix";
+      sha256 = "sha256-T5PgnZroSbkLc/K1So6IG3oQ6fM5SgKg2AyzVrwbZfM=";
+    };
+    name = "vscode-pipe";
+    license = "";
+    publisher = "yuvrajmishra";
+    description = "Pipe inside VS Code";
+  };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
     version = "0.2.0";
@@ -18183,10 +18207,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.16";
+    version = "0.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.16/file/zardoy.better-snippets-0.1.16.vsix";
-      sha256 = "sha256-CAGffek9mcW6RmTQhcPZIGR40L0l1EJdW97Th9QPwyU=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.17/file/zardoy.better-snippets-0.1.17.vsix";
+      sha256 = "sha256-AA7Ge9Q5mOfWrMxxySLAOashfVCno1pt2jyYO3iweT8=";
     };
     name = "better-snippets";
     license = "MIT";
