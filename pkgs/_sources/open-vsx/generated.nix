@@ -5955,10 +5955,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.4.3";
+    version = "0.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.3/file/d-biehl.robotcode-0.4.3.vsix";
-      sha256 = "sha256-EgTgrfTLhENNNWnbRvbb1cI6nWi0lOF+jS9SZteCa2s=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.4/file/d-biehl.robotcode-0.4.4.vsix";
+      sha256 = "sha256-N/djGWHhUZc2ltnWcChgE/4C8daaNfZBdCUuApwxxd4=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -18207,10 +18207,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.17";
+    version = "0.1.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.17/file/zardoy.better-snippets-0.1.17.vsix";
-      sha256 = "sha256-AA7Ge9Q5mOfWrMxxySLAOashfVCno1pt2jyYO3iweT8=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.18/file/zardoy.better-snippets-0.1.18.vsix";
+      sha256 = "sha256-8VoEDKk6lwM+mM4M5W5zKbnLnYsgN41FJGuGe2Z2YGU=";
     };
     name = "better-snippets";
     license = "MIT";
