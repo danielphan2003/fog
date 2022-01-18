@@ -5043,10 +5043,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.7.5";
+    version = "0.7.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.5/file/bradlc.vscode-tailwindcss-0.7.5.vsix";
-      sha256 = "sha256-VJPQdD/nit6dulFEHKtq7X/mLqMpYTEX0QeRyJ2bPtI=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.6/file/bradlc.vscode-tailwindcss-0.7.6.vsix";
+      sha256 = "sha256-byUb9shwZExmMzjVnG/GXbg+fRuGqMN95CfPWjwq1Qk=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -9279,10 +9279,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.30.4";
+    version = "0.30.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.4/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.4.vsix";
-      sha256 = "sha256-21zSu/LXV5C4R+8mfEnz1Ra9h4Zfekt+kKx7bxgAEe0=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.5/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.5.vsix";
+      sha256 = "sha256-DnaXmTuw4ToRLiDkEq/5QSOknLUtDkHkWmP6z5lOn1E=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
