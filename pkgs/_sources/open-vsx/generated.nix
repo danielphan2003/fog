@@ -6363,10 +6363,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.77.6";
+    version = "0.77.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.77.6/file/dendron.nightly-0.77.6.vsix";
-      sha256 = "sha256-Gl1UdKRR6AududQBsz9dNcpS7a+P3OA6Hknd3FthfkA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.77.7/file/dendron.nightly-0.77.7.vsix";
+      sha256 = "sha256-Wbw98m9ztyX2d1wALZsQnMedEYbToOuxxT/WplnVGNM=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -15483,10 +15483,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.6.1";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.6.1/file/tfsec.tfsec-1.6.1.vsix";
-      sha256 = "sha256-CS+uSIHpFXtCzSmiSJe7yzdKdKghk1pQH2daqLq3UMU=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.1/file/tfsec.tfsec-1.7.1.vsix";
+      sha256 = "sha256-ztrO1RMFVy31u9eM0RB6TovonHze8sjtSq1fOXKnzM0=";
     };
     name = "tfsec";
     license = "MIT";
