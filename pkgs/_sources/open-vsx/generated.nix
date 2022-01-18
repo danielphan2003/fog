@@ -1059,10 +1059,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.40.1";
+    version = "3.40.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.40.1/file/GitLab.gitlab-workflow-3.40.1.vsix";
-      sha256 = "sha256-5GTTBdTSH4vxvYsWUl81NlSyPJbvOltdAkTyep3n7wI=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.40.2/file/GitLab.gitlab-workflow-3.40.2.vsix";
+      sha256 = "sha256-aGXNdxKtluAy7GI0X9A50xEbHvPYF5vhS0lnG6jzBKY=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -7200,6 +7200,18 @@
     license = "MIT";
     publisher = "felipecaputo";
     description = "Allows you to change easily between git projects.";
+  };
+  felipecrs-test = {
+    pname = "felipecrs-test";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/felipecrs/test/0.0.2/file/felipecrs.test-0.0.2.vsix";
+      sha256 = "sha256-SoHJgyeBHUP5kSx1erNtL5G6xT8Rko1tqF9BYxzTZEc=";
+    };
+    name = "test";
+    license = "MIT";
+    publisher = "felipecrs";
+    description = "An extension for testing vsce and ovsx.";
   };
   felixfbecker-php-debug = {
     pname = "felixfbecker-php-debug";
@@ -14235,10 +14247,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.2/file/sebastianbille.iam-legend-1.0.2.vsix";
-      sha256 = "sha256-TSxm0nMazLaGo71398K9Fnaq5A+eZWTlh9oixpmzh3Q=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.3/file/sebastianbille.iam-legend-1.0.3.vsix";
+      sha256 = "sha256-3xdEHHmc8L5U046RsEx+YwZWnzjoZiTf6KFKoR3koyg=";
     };
     name = "iam-legend";
     license = "MIT";
