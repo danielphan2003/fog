@@ -99,10 +99,10 @@
   };
   Autodesk-autolispext = {
     pname = "Autodesk-autolispext";
-    version = "1.5.1";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Autodesk/autolispext/1.5.1/file/Autodesk.autolispext-1.5.1.vsix";
-      sha256 = "sha256-3e/sMqJTRCmolod4I2s15iJWlvN7Pl7sdpX6MLns7iI=";
+      url = "https://open-vsx.org/api/Autodesk/autolispext/1.5.0/file/Autodesk.autolispext-1.5.0.vsix";
+      sha256 = "sha256-IkmSGv9vUuB8CvK2sNJdcxWyIBZqlnsx8w9RCApW644=";
     };
     name = "autolispext";
     license = "Apache-2.0";
