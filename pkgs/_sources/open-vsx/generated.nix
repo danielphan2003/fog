@@ -2835,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.1510";
+    version = "2022.1.1719";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1510/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1510.vsix";
-      sha256 = "sha256-jbGmw+eBF0bijc6U3SsfT3rYfnHrL+uieXKw1JPhhB8=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1719/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1719.vsix";
+      sha256 = "sha256-yiPiuLXt6JHEv8KGft2jhVczXvjCcW8kFT3UaOFJHmQ=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -10767,10 +10767,10 @@
   };
   medo64-render-crlf = {
     pname = "medo64-render-crlf";
-    version = "1.5.21";
+    version = "1.5.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.21/file/medo64.render-crlf-1.5.21.vsix";
-      sha256 = "sha256-tGvzPu/JRnV+Xny3TOHqGe3VSgb56X7SMwi73OkZJfQ=";
+      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.22/file/medo64.render-crlf-1.5.22.vsix";
+      sha256 = "sha256-02AU+2HaJ9fCTOxahl45SVcYU+U4o5FBUOU3NQ5to+M=";
     };
     name = "render-crlf";
     license = "MIT";
@@ -18387,10 +18387,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.11";
+    version = "3.13.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.11/file/zhuangtongfa.material-theme-3.13.11.vsix";
-      sha256 = "sha256-aOt1joKiLp01guY98wACuMRziRI72zwF8YekR5pyZ1o=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.16/file/zhuangtongfa.material-theme-3.13.16.vsix";
+      sha256 = "sha256-DI90h44ey70sw6UNl7lw4kqpfEKM2WMNNuHxvHe++OM=";
     };
     name = "material-theme";
     license = "MIT";
