@@ -10191,10 +10191,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.4.7";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.4.7/file/leodevbro.blockman-1.4.7.vsix";
-      sha256 = "sha256-o64AFImguoX7XRpSf7lLZgb9i+pFJ8iEMiVpNb5m/Hw=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.0/file/leodevbro.blockman-1.5.0.vsix";
+      sha256 = "sha256-Fx9+6igFEGh+NSo4FfPHJmeLWjxXtX5AQBrCpAexlNI=";
     };
     name = "blockman";
     license = "MIT";
