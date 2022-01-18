@@ -14235,10 +14235,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.1/file/sebastianbille.iam-legend-1.0.1.vsix";
-      sha256 = "sha256-+sqS/FjDZv0jxsxXmm6CDBRgk2IGoxHtCGJE50CN6G4=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.2/file/sebastianbille.iam-legend-1.0.2.vsix";
+      sha256 = "sha256-TSxm0nMazLaGo71398K9Fnaq5A+eZWTlh9oixpmzh3Q=";
     };
     name = "iam-legend";
     license = "MIT";
@@ -15483,10 +15483,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.7.1";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.1/file/tfsec.tfsec-1.7.1.vsix";
-      sha256 = "sha256-ztrO1RMFVy31u9eM0RB6TovonHze8sjtSq1fOXKnzM0=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.2/file/tfsec.tfsec-1.7.2.vsix";
+      sha256 = "sha256-++ZPQSrQFmsrQVP1iGE4ENDvhUv3/eAvR9aXaPc//dQ=";
     };
     name = "tfsec";
     license = "MIT";
