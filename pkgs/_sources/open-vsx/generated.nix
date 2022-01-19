@@ -6795,10 +6795,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1717840";
+    version = "6.0.1718130";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1717840/file/eliostruyf.vscode-front-matter-beta-6.0.1717840.vsix";
-      sha256 = "sha256-jhHigN+I18G8i4aaIzMCjXL+sALP4j/PJvs+kDbL2mA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1718130/file/eliostruyf.vscode-front-matter-beta-6.0.1718130.vsix";
+      sha256 = "sha256-bqe3AD0H6N4Ma0FpMcQXEnbb8LE359hnMRxatUfEBCo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9987,10 +9987,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.4/file/kubescape.kubescape-0.0.4.vsix";
-      sha256 = "sha256-op8YuhbNa8ERGQHv9/ZO9iD3wcWSm4AYhffjDDwr4bk=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.5/file/kubescape.kubescape-0.0.5.vsix";
+      sha256 = "sha256-0egKCbwWZjDCiSg8qh60+1jKmb3sTvO6/b2EIldFYZw=";
     };
     name = "kubescape";
     license = "Apache";
