@@ -12865,6 +12865,18 @@
     publisher = "plushugh";
     description = "A VSCode Theme for dark and simple users";
   };
+  ply-ct-vscode-ply = {
+    pname = "ply-ct-vscode-ply";
+    version = "2.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ply-ct/vscode-ply/2.1.0/file/ply-ct.vscode-ply-2.1.0.vsix";
+      sha256 = "sha256-CWLKAyBlDIpJWCH+IWVH+M1hl0RdWiVd1yGtNQyROuo=";
+    };
+    name = "vscode-ply";
+    license = "MIT";
+    publisher = "ply-ct";
+    description = "Automated Testing for REST and GraphQL APIs";
+  };
   pmbenjamin-vscode-snyk = {
     pname = "pmbenjamin-vscode-snyk";
     version = "0.0.2";
