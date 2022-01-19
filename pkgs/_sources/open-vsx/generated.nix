@@ -6795,10 +6795,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1717166";
+    version = "6.0.1717840";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1717166/file/eliostruyf.vscode-front-matter-beta-6.0.1717166.vsix";
-      sha256 = "sha256-D7gwzsN2sZGsLlIhuVdgmcutCRWdWI+FYexspuALewc=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1717840/file/eliostruyf.vscode-front-matter-beta-6.0.1717840.vsix";
+      sha256 = "sha256-jhHigN+I18G8i4aaIzMCjXL+sALP4j/PJvs+kDbL2mA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10191,10 +10191,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.0/file/leodevbro.blockman-1.5.0.vsix";
-      sha256 = "sha256-Fx9+6igFEGh+NSo4FfPHJmeLWjxXtX5AQBrCpAexlNI=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.1/file/leodevbro.blockman-1.5.1.vsix";
+      sha256 = "sha256-assUkCxtn8wyIwZtBIZpCIWkBX0tpPQlEzAKU2XreUg=";
     };
     name = "blockman";
     license = "MIT";
