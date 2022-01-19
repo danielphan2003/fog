@@ -2835,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.1719";
+    version = "2022.1.1818";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1719/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1719.vsix";
-      sha256 = "sha256-yiPiuLXt6JHEv8KGft2jhVczXvjCcW8kFT3UaOFJHmQ=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1818/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1818.vsix";
+      sha256 = "sha256-AuJXdrv5Y/lJh4rnKQjHRnVyv4OnuULeYvu1FHvAMXQ=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -6543,15 +6543,15 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "3.1.1";
+    version = "4.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/3.1.1/file/dsznajder.es7-react-js-snippets-3.1.1.vsix";
-      sha256 = "sha256-hmS5E6dDYX+HZsvPpYqXWafXqur6b8cx5FpnD/1wbP4=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.0.2/file/dsznajder.es7-react-js-snippets-4.0.2.vsix";
+      sha256 = "sha256-14YjHue2mgQe77zNcaZh5BdzauGyaxOEEgI7QnPR7io=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
     publisher = "dsznajder";
-    description = "Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax";
+    description = "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.";
   };
   ducky-ducky = {
     pname = "ducky-ducky";
@@ -8091,10 +8091,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.22";
+    version = "0.8.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.22/file/halcyontechltd.code-for-ibmi-0.8.22.vsix";
-      sha256 = "sha256-ccd+9objgqg39JkMr25swW0y6mo/N6dYyELdxmdVAZs=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.23/file/halcyontechltd.code-for-ibmi-0.8.23.vsix";
+      sha256 = "sha256-9FR8yrLfJT0mvG/mPvId6hCAkFwaOBRneOD+u/SVOBo=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -9087,10 +9087,10 @@
   };
   jebbs-plantuml = {
     pname = "jebbs-plantuml";
-    version = "2.17.0";
+    version = "2.17.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jebbs/plantuml/2.17.0/file/jebbs.plantuml-2.17.0.vsix";
-      sha256 = "sha256-JblYfHhqf5EidxTY76zQbFwTmfGhlVy+MFupZL++kZQ=";
+      url = "https://open-vsx.org/api/jebbs/plantuml/2.17.2/file/jebbs.plantuml-2.17.2.vsix";
+      sha256 = "sha256-0jEd1qcOIIM7eDYUVLM6+tnZtgjpZVr9iFznJO1dfEA=";
     };
     name = "plantuml";
     license = "MIT";
@@ -11199,10 +11199,10 @@
   };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
-    version = "1.18.0";
+    version = "1.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.18.0/file/ms-azuretools.vscode-docker-1.18.0.vsix";
-      sha256 = "sha256-UPUfTOc5xJhI5ACm2oyWqtZ4zNxZjy16D6Mf30eHFEI=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.19.0/file/ms-azuretools.vscode-docker-1.19.0.vsix";
+      sha256 = "sha256-buIAbsyKUvX3blO1AbCq/tJ1KAcqaFpciqQovmOZ5GE=";
     };
     name = "vscode-docker";
     license = "MIT";
@@ -11235,10 +11235,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.210";
+    version = "1.1.211";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.210/file/ms-pyright.pyright-1.1.210.vsix";
-      sha256 = "sha256-EgOra/0MkHewFlPQVfyshgXwTBytPGDc7PzxbaTPaL8=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.211/file/ms-pyright.pyright-1.1.211.vsix";
+      sha256 = "sha256-1lnFRBXplG68/ypcOYU5FdSVCLzRroq7FLDYw/rqXKk=";
     };
     name = "pyright";
     license = "MIT";
@@ -13695,10 +13695,10 @@
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
-    version = "5.6.1";
+    version = "5.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.6.1/file/ritwickdey.LiveServer-5.6.1.vsix";
-      sha256 = "sha256-uPp5h6rvphkjckiFHBTfQfyMsOGuj+1liW/XUc8r88M=";
+      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.1/file/ritwickdey.LiveServer-5.7.1.vsix";
+      sha256 = "sha256-VwPwdPvmaOZECChuT6QhejiR9gFk+WQksPhqDtKrv8o=";
     };
     name = "LiveServer";
     license = "MIT";
