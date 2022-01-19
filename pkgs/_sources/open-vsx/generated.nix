@@ -2919,10 +2919,10 @@
   };
   Sudhan-neondark-theme = {
     pname = "Sudhan-neondark-theme";
-    version = "1.1.3";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sudhan/neondark-theme/1.1.3/file/Sudhan.neondark-theme-1.1.3.vsix";
-      sha256 = "sha256-8dF7FdAYYS39Pic/V9U66GObdPsN11wkPaiZr5mdEN8=";
+      url = "https://open-vsx.org/api/Sudhan/neondark-theme/1.2.0/file/Sudhan.neondark-theme-1.2.0.vsix";
+      sha256 = "sha256-ouM3TyuIGh4894eWTouJi4uRZpsc2Cnb/p4pMl64qN0=";
     };
     name = "neondark-theme";
     license = "GPL-3.0";
@@ -8940,6 +8940,30 @@
     license = "MIT";
     publisher = "itsjonq";
     description = "A series of simple VSCode Theme";
+  };
+  itspngu-jsonnet-format = {
+    pname = "itspngu-jsonnet-format";
+    version = "0.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/itspngu/jsonnet-format/0.4.0/file/itspngu.jsonnet-format-0.4.0.vsix";
+      sha256 = "sha256-FAmEvcA3hwTH9ciJfiQ4mXBYmLco5jAzV6nt4HVTk7o=";
+    };
+    name = "jsonnet-format";
+    license = "MIT";
+    publisher = "itspngu";
+    description = "Provides jsonnet formatting support for VScode/VScodium.";
+  };
+  itspngu-jsonnet-formatter = {
+    pname = "itspngu-jsonnet-formatter";
+    version = "0.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/itspngu/jsonnet-formatter/0.4.0/file/itspngu.jsonnet-formatter-0.4.0.vsix";
+      sha256 = "sha256-6Nua3wumBZ0wsZLt0wlIHjXZIZLGK8Yzo7xxCIZP9YQ=";
+    };
+    name = "jsonnet-formatter";
+    license = "MIT";
+    publisher = "itspngu";
+    description = "Provide jsonnet vscode format support.";
   };
   ivangabriele-vscode-git-add-and-commit = {
     pname = "ivangabriele-vscode-git-add-and-commit";
