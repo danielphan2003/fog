@@ -2739,10 +2739,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.20";
+    version = "3.3.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.20/file/SPGoding.datapack-language-server-3.3.20.vsix";
-      sha256 = "sha256-15rsSCwv0MjlHAJLL31/csc5nuwiZqY/PbkdCl7vMsU=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.21/file/SPGoding.datapack-language-server-3.3.21.vsix";
+      sha256 = "sha256-By3Xt046ZiqvwQnCdHwfc1WMsLGtlBLoSRH/VRiQ6HE=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -6795,10 +6795,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1718130";
+    version = "6.0.1719631";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1718130/file/eliostruyf.vscode-front-matter-beta-6.0.1718130.vsix";
-      sha256 = "sha256-bqe3AD0H6N4Ma0FpMcQXEnbb8LE359hnMRxatUfEBCo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1719631/file/eliostruyf.vscode-front-matter-beta-6.0.1719631.vsix";
+      sha256 = "sha256-kYAma4EvHDfeoX0ftS58Q0ehcipaHuabuxi9E03o2EI=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -13755,10 +13755,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.24.0";
+    version = "0.25.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.24.0/file/robocorp.robocorp-code-0.24.0.vsix";
-      sha256 = "sha256-03MGlOjlZjuJOIXlUZFrD0v61+54lMFatb2b2I6tiQ8=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.25.0/file/robocorp.robocorp-code-0.25.0.vsix";
+      sha256 = "sha256-1h+gDEgTv7HHvZpWwPHnJZC+/xeB6zoxMuHL4TjqHUg=";
     };
     name = "robocorp-code";
     license = "";
@@ -13767,10 +13767,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.36.0";
+    version = "0.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.36.0/file/robocorp.robotframework-lsp-0.36.0.vsix";
-      sha256 = "sha256-N6YfzhM1mJ+jeBeFazUlbtX74z3fxZmTNCk7qd9+opg=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.37.0/file/robocorp.robotframework-lsp-0.37.0.vsix";
+      sha256 = "sha256-l49G6uOkoVSBEgVg8ewy1HAmIVt6+G8nwsWCxFSUhUM=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
