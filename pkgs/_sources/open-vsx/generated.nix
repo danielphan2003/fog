@@ -2535,10 +2535,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.521";
+    version = "31.0.524";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.521/file/Prisma.prisma-insider-31.0.521.vsix";
-      sha256 = "sha256-wStBePc09tR4JI+rio8iAXEOYTWGUrXXqWDOtpxfPm4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.524/file/Prisma.prisma-insider-31.0.524.vsix";
+      sha256 = "sha256-uJki6g+WHM5LjS3/1oGDLDy7O4eKjMmAcrB2IGzlkqk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15699,10 +15699,10 @@
   };
   toit-toit = {
     pname = "toit-toit";
-    version = "1.4.0";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toit/toit/1.4.0/file/toit.toit-1.4.0.vsix";
-      sha256 = "sha256-ZYb+vJT2x9fMwFFfZVK6RVnm2ahG1dl87Da/ytvIFbY=";
+      url = "https://open-vsx.org/api/toit/toit/1.4.1/file/toit.toit-1.4.1.vsix";
+      sha256 = "sha256-eR3fyqn5LYIG5EzE08MUQpzO8u9KtP55sUjz7mYq1Tw=";
     };
     name = "toit";
     license = "MIT";
