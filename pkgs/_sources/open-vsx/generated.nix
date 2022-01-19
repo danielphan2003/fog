@@ -12087,10 +12087,10 @@
   };
   nocalhost-nocalhost = {
     pname = "nocalhost-nocalhost";
-    version = "0.6.13";
+    version = "0.6.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.13/file/nocalhost.nocalhost-0.6.13.vsix";
-      sha256 = "sha256-G2CZgmlZn/8LjRJfp5lYZNAoB8DVH6aUDBF3OeTthXg=";
+      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.15/file/nocalhost.nocalhost-0.6.15.vsix";
+      sha256 = "sha256-c5t/ZNFi1pFbt4FU9EYLjuSWG1xh1HKN64FjOb32JFo=";
     };
     name = "nocalhost";
     license = "Apache-2.0";
