@@ -2055,10 +2055,10 @@
   };
   MariusvanWijk-JoppeKoers-codam-norminette-3 = {
     pname = "MariusvanWijk-JoppeKoers-codam-norminette-3";
-    version = "4.4.5";
+    version = "4.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.4.5/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.4.5.vsix";
-      sha256 = "sha256-GDAJDFBMM0RcUTa2PwlAb1IR3ArcW0CyzirxG+CsJ8I=";
+      url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.5.0/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.5.0.vsix";
+      sha256 = "sha256-M0PcGVf47e7rbEnqWEoZFfjjhTqbfLCiVDnqdFqhrZw=";
     };
     name = "codam-norminette-3";
     license = "MIT";
@@ -11811,15 +11811,15 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "1.4.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/1.4.0/file/mvllow.rose-pine-1.4.0.vsix";
-      sha256 = "sha256-KGIgCy3KH34IS7IrRlNr/HL3KiQTCD7cA3RQZvyqOqQ=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.0.0/file/mvllow.rose-pine-2.0.0.vsix";
+      sha256 = "sha256-BhuNDBqbbN7RM7WQTuqqfMLOyki/9sAhtjctDGB0cQc=";
     };
     name = "rose-pine";
     license = "MIT";
     publisher = "mvllow";
-    description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist.";
+    description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist";
   };
   mysticcoders-kandavu-vscode-extension = {
     pname = "mysticcoders-kandavu-vscode-extension";
