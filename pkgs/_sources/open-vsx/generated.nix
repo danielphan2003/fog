@@ -6099,10 +6099,10 @@
   };
   datastax-astra-for-vs-code = {
     pname = "datastax-astra-for-vs-code";
-    version = "0.3.95";
+    version = "0.3.98";
     src = fetchurl {
-      url = "https://open-vsx.org/api/datastax/astra-for-vs-code/0.3.95/file/datastax.astra-for-vs-code-0.3.95.vsix";
-      sha256 = "sha256-JWkldNo0FQvQwhhNfUxQqHp3O9hFDxjCOg0dlAYGwMo=";
+      url = "https://open-vsx.org/api/datastax/astra-for-vs-code/0.3.98/file/datastax.astra-for-vs-code-0.3.98.vsix";
+      sha256 = "sha256-dLYYhmtsXerX7/veRs3v8aYESUjs7ZKDU282fxN/cSs=";
     };
     name = "astra-for-vs-code";
     license = "MIT";
