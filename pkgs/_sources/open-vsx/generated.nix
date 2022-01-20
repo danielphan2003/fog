@@ -6099,10 +6099,10 @@
   };
   datastax-astra-for-vs-code = {
     pname = "datastax-astra-for-vs-code";
-    version = "0.3.93";
+    version = "0.3.95";
     src = fetchurl {
-      url = "https://open-vsx.org/api/datastax/astra-for-vs-code/0.3.93/file/datastax.astra-for-vs-code-0.3.93.vsix";
-      sha256 = "sha256-0UKX4hr9iEyiZMfYJIEMfwU7sbx1BAbYTEECeGQDekU=";
+      url = "https://open-vsx.org/api/datastax/astra-for-vs-code/0.3.95/file/datastax.astra-for-vs-code-0.3.95.vsix";
+      sha256 = "sha256-JWkldNo0FQvQwhhNfUxQqHp3O9hFDxjCOg0dlAYGwMo=";
     };
     name = "astra-for-vs-code";
     license = "MIT";
@@ -10215,10 +10215,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.1/file/leodevbro.blockman-1.5.1.vsix";
-      sha256 = "sha256-assUkCxtn8wyIwZtBIZpCIWkBX0tpPQlEzAKU2XreUg=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.2/file/leodevbro.blockman-1.5.2.vsix";
+      sha256 = "sha256-EEj9D2fP5bjrL/XkNxb0/sAJxJfhCom7JhBsCyI4n20=";
     };
     name = "blockman";
     license = "MIT";
