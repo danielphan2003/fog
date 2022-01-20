@@ -1527,10 +1527,10 @@
   };
   JFrog-jfrog-vscode-extension = {
     pname = "JFrog-jfrog-vscode-extension";
-    version = "1.10.2";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.10.2/file/JFrog.jfrog-vscode-extension-1.10.2.vsix";
-      sha256 = "sha256-u5yz9BAJCqspDwOBtFrxU/vx5JsV4oTkitqIP7+M+yM=";
+      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.11.0/file/JFrog.jfrog-vscode-extension-1.11.0.vsix";
+      sha256 = "sha256-if4eSWIgatDEXQkUKnzJJCKoJCZaBcdhuQCnb+gESuw=";
     };
     name = "jfrog-vscode-extension";
     license = "Apache-2.0";
@@ -6795,10 +6795,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1719631";
+    version = "6.0.1724328";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1719631/file/eliostruyf.vscode-front-matter-beta-6.0.1719631.vsix";
-      sha256 = "sha256-kYAma4EvHDfeoX0ftS58Q0ehcipaHuabuxi9E03o2EI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1724328/file/eliostruyf.vscode-front-matter-beta-6.0.1724328.vsix";
+      sha256 = "sha256-0wqu73HkjfsZ2bdP80EaPKuWy3VNKxzBBPXNZTcA6Bs=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
