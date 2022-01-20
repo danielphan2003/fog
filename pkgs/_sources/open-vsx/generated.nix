@@ -10131,10 +10131,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1642628938";
+    version = "2022.1.1642690213";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642628938/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642628938.vsix";
-      sha256 = "sha256-kpQfSMwHFuIVa3OCtm6PxHuuwVxgNsiG5XmZiqBvrmg=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642690213/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642690213.vsix";
+      sha256 = "sha256-TVZvld0Q7CMfJ+9WCMVTAloihdri7FHj4x2eQ3o2vSk=";
     };
     name = "launchdarkly-beta";
     license = "";
