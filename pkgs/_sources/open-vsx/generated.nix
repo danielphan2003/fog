@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.1.0";
+    version = "13.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.1.0/file/Angular.ng-template-13.1.0.vsix";
-      sha256 = "sha256-39XIo9j5KdaSA6e+gG5LmI1RuJqURU0ZezGGLxxSszE=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.1.1/file/Angular.ng-template-13.1.1.vsix";
+      sha256 = "sha256-ZPFDQhqAxXrU2X3oyZLoLxDwjeWUXw1TQAlNjnMpm+M=";
     };
     name = "ng-template";
     license = "MIT";
@@ -2835,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.1818";
+    version = "2022.1.1916";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1818/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1818.vsix";
-      sha256 = "sha256-AuJXdrv5Y/lJh4rnKQjHRnVyv4OnuULeYvu1FHvAMXQ=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1916/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1916.vsix";
+      sha256 = "sha256-Q+UWREFB3LkLybcbiic/hDbnL7nliI8E/pk4QC2KtQ8=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -2859,10 +2859,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.1.0";
+    version = "3.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.1.0/file/SonarSource.sonarlint-vscode-3.1.0.vsix";
-      sha256 = "sha256-6m7SWbEApAFSvcguxqBOKSph5PnTJtb7sspgUGKIPc4=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.2.0/file/SonarSource.sonarlint-vscode-3.2.0.vsix";
+      sha256 = "sha256-VPvPaqTMc8g+hOcrZl82buwfAUVcZfQIA2E+QPJx+3o=";
     };
     name = "sonarlint-vscode";
     license = "LGPL-3.0";
@@ -6543,10 +6543,10 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "4.0.2";
+    version = "4.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.0.2/file/dsznajder.es7-react-js-snippets-4.0.2.vsix";
-      sha256 = "sha256-14YjHue2mgQe77zNcaZh5BdzauGyaxOEEgI7QnPR7io=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.0.4/file/dsznajder.es7-react-js-snippets-4.0.4.vsix";
+      sha256 = "sha256-HlCFZngNgPWMaARB03N3eAlDJItNAm4TuKgvJ1c5D6c=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
@@ -9315,10 +9315,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.30.5";
+    version = "0.30.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.5/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.5.vsix";
-      sha256 = "sha256-DnaXmTuw4ToRLiDkEq/5QSOknLUtDkHkWmP6z5lOn1E=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.6/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.6.vsix";
+      sha256 = "sha256-mqEmc58NanfI+gQk8t1Tk/jmQp7tQrmG5f8SxgGtf2o=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -11055,10 +11055,10 @@
   };
   mongodb-mongodb-vscode = {
     pname = "mongodb-mongodb-vscode";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mongodb/mongodb-vscode/0.7.0/file/mongodb.mongodb-vscode-0.7.0.vsix";
-      sha256 = "sha256-xYwAE4pfrtEM8s4llLKNYojPlezb3ATZysA+WA3HcVI=";
+      url = "https://open-vsx.org/api/mongodb/mongodb-vscode/0.8.0/file/mongodb.mongodb-vscode-0.8.0.vsix";
+      sha256 = "sha256-Y2tu1z2XoyYGsE3EOyH7iyiqIMZst0GjWmKYCa9k+nw=";
     };
     name = "mongodb-vscode";
     license = "Apache-2.0";
@@ -11259,10 +11259,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.211";
+    version = "1.1.212";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.211/file/ms-pyright.pyright-1.1.211.vsix";
-      sha256 = "sha256-1lnFRBXplG68/ypcOYU5FdSVCLzRroq7FLDYw/rqXKk=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.212/file/ms-pyright.pyright-1.1.212.vsix";
+      sha256 = "sha256-h/dyScKlM/c27aEq61duwMXQLh1cS+fcaK7rNBKh2P0=";
     };
     name = "pyright";
     license = "MIT";
@@ -13731,10 +13731,10 @@
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
-    version = "5.7.1";
+    version = "5.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.1/file/ritwickdey.LiveServer-5.7.1.vsix";
-      sha256 = "sha256-VwPwdPvmaOZECChuT6QhejiR9gFk+WQksPhqDtKrv8o=";
+      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.2/file/ritwickdey.LiveServer-5.7.2.vsix";
+      sha256 = "sha256-1idACNDaLzomoQ9unylf887zG2HIzbh/NKGm72jaoyo=";
     };
     name = "LiveServer";
     license = "MIT";
