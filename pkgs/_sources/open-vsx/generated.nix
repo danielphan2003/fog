@@ -10131,10 +10131,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1642690213";
+    version = "2022.1.1642710688";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642690213/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642690213.vsix";
-      sha256 = "sha256-TVZvld0Q7CMfJ+9WCMVTAloihdri7FHj4x2eQ3o2vSk=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642710688/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642710688.vsix";
+      sha256 = "sha256-HHJhALj3nmUUOZ/5snSIV7HEno4rqlwU1a4pYDh+9vA=";
     };
     name = "launchdarkly-beta";
     license = "";
@@ -10215,10 +10215,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.2";
+    version = "1.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.2/file/leodevbro.blockman-1.5.2.vsix";
-      sha256 = "sha256-EEj9D2fP5bjrL/XkNxb0/sAJxJfhCom7JhBsCyI4n20=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.3/file/leodevbro.blockman-1.5.3.vsix";
+      sha256 = "sha256-JSRaLO7iJ317JfOBlbGdm77G3rlf6i9HjF+4JRf7oAI=";
     };
     name = "blockman";
     license = "MIT";
