@@ -2835,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.1916";
+    version = "2022.1.2012";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.1916/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.1916.vsix";
-      sha256 = "sha256-Q+UWREFB3LkLybcbiic/hDbnL7nliI8E/pk4QC2KtQ8=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2012/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2012.vsix";
+      sha256 = "sha256-PNMs+iirij9D4fGxtL1Y6uOkqeUKzV+VdRgu0MoQqAM=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -3591,10 +3591,10 @@
   };
   activecove-marquee = {
     pname = "activecove-marquee";
-    version = "1.3.3";
+    version = "2.0.0-edge.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/activecove/marquee/1.3.3/file/activecove.marquee-1.3.3.vsix";
-      sha256 = "sha256-3Wr3IiLjQ5AZSpmM3qEORDFsGRQqbxzolR/ymSQ/C8c=";
+      url = "https://open-vsx.org/api/activecove/marquee/2.0.0-edge.0/file/activecove.marquee-2.0.0-edge.0.vsix";
+      sha256 = "sha256-kXOQ5WG2MjMYQpILcgL/C4/WTPD64AQaaEf1+28vexA=";
     };
     name = "marquee";
     license = "";
