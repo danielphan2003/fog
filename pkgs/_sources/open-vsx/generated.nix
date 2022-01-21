@@ -961,6 +961,18 @@
     publisher = "FelixIcaza";
     description = "Dark theme with a taste of the universe";
   };
+  FlyIoStaging-fly-extension = {
+    pname = "FlyIoStaging-fly-extension";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/FlyIoStaging/fly-extension/0.0.2/file/FlyIoStaging.fly-extension-0.0.2.vsix";
+      sha256 = "sha256-1c0Z47/eBWoWJ+1CXZSqd22+5qL8ngmBFV7eoo5f2XQ=";
+    };
+    name = "fly-extension";
+    license = "MIT";
+    publisher = "FlyIoStaging";
+    description = "";
+  };
   Fr43nk-seito-openfile = {
     pname = "Fr43nk-seito-openfile";
     version = "1.8.8";
@@ -5955,10 +5967,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.4.5";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.5/file/d-biehl.robotcode-0.4.5.vsix";
-      sha256 = "sha256-C5oPR8dThnttxNQbUj/HiyYJi68+Y5mHYBRaJ1WhnDc=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.6/file/d-biehl.robotcode-0.4.6.vsix";
+      sha256 = "sha256-Ysa5yWn5jRIGOiMiONvcbnacrv3mg76WCJ0YULZGsic=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -12015,10 +12027,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.1.10";
+    version = "0.1.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.10/file/nickmillerdev.pytest-fixtures-0.1.10.vsix";
-      sha256 = "sha256-2Bkp5iOVrp9hoeivT2lytaiyjzFO2ULY6pQEU4LVo+c=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.11/file/nickmillerdev.pytest-fixtures-0.1.11.vsix";
+      sha256 = "sha256-jyYJFpIoLrA/GP0t/HVV0kd7BueH7gQHi8rTyKT1LgA=";
     };
     name = "pytest-fixtures";
     license = "MIT";
