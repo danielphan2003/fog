@@ -5391,10 +5391,10 @@
   };
   christian-kohler-path-intellisense = {
     pname = "christian-kohler-path-intellisense";
-    version = "2.6.1";
+    version = "2.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.6.1/file/christian-kohler.path-intellisense-2.6.1.vsix";
-      sha256 = "sha256-OX22jlgDJZNQfMycUzStkxXutlOe9Bog82afTNupe1Q=";
+      url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.7.0/file/christian-kohler.path-intellisense-2.7.0.vsix";
+      sha256 = "sha256-Zt6YDbmNrbrtYjIiJPQZ7xYjafKbW0qgD9uQZUx8Qv8=";
     };
     name = "path-intellisense";
     license = "MIT";
@@ -6375,10 +6375,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.78.5";
+    version = "0.78.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.78.5/file/dendron.nightly-0.78.5.vsix";
-      sha256 = "sha256-fCx9lpzsRNWAiS1Ot2khk3jqZzCjLadde5/EOTLtUbc=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.78.6/file/dendron.nightly-0.78.6.vsix";
+      sha256 = "sha256-Y9b+3mcqxeYWICaFezS2TYemBB7qNYAstRVSS+VaTIE=";
     };
     name = "nightly";
     license = "AGPL-3.0";
