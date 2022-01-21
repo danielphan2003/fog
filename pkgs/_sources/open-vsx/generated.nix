@@ -2847,10 +2847,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.2012";
+    version = "2022.1.2020";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2012/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2012.vsix";
-      sha256 = "sha256-PNMs+iirij9D4fGxtL1Y6uOkqeUKzV+VdRgu0MoQqAM=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2020/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2020.vsix";
+      sha256 = "sha256-Ys+Y3VjOr7d8HcyVykEZj9rVuInSfvKfHfckTp8ptB8=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -5523,10 +5523,10 @@
   };
   coderoad-coderoad = {
     pname = "coderoad-coderoad";
-    version = "0.19.3";
+    version = "0.19.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/coderoad/coderoad/0.19.3/file/coderoad.coderoad-0.19.3.vsix";
-      sha256 = "sha256-i2X7muGnTsZs9A3uzswKJM141l/CPCc3VcjaJS5v+oc=";
+      url = "https://open-vsx.org/api/coderoad/coderoad/0.19.4/file/coderoad.coderoad-0.19.4.vsix";
+      sha256 = "sha256-eHEjQ/FqhBwyP5YWpQqxn9PyWcyhFpLPNY1z6EACtuY=";
     };
     name = "coderoad";
     license = "AGPL-3.0";
@@ -10563,10 +10563,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "0.4.10";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/0.4.10/file/marus25.cortex-debug-0.4.10.vsix";
-      sha256 = "sha256-Ql4SW7FUF1Q/Sy0Z4Q/FkYYBtC6ym6Ucju5CCTPD3wM=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.2.0/file/marus25.cortex-debug-1.2.0.vsix";
+      sha256 = "sha256-3jmhVPTl4sv67k2L9tuTzU7DAowrF4cllMNGaZGHdnI=";
     };
     name = "cortex-debug";
     license = "MIT";
