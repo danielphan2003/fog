@@ -2979,10 +2979,10 @@
   };
   TONLabs-everdev = {
     pname = "TONLabs-everdev";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TONLabs/everdev/1.0.0/file/TONLabs.everdev-1.0.0.vsix";
-      sha256 = "sha256-ArvtfnkBu7+uEPoTp8EpL2Iay8dq7nX+CKeIuYWS/DE=";
+      url = "https://open-vsx.org/api/TONLabs/everdev/1.0.1/file/TONLabs.everdev-1.0.1.vsix";
+      sha256 = "sha256-w8u2S+5RsQz+YTKatosRJyXkW1QO8Docr5c6HPl+e+s=";
     };
     name = "everdev";
     license = "Apache-2.0";
