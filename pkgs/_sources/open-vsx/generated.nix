@@ -1455,10 +1455,10 @@
   };
   IBMBlockchain-ibm-blockchain-platform = {
     pname = "IBMBlockchain-ibm-blockchain-platform";
-    version = "2.0.5";
+    version = "2.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.5/file/IBMBlockchain.ibm-blockchain-platform-2.0.5.vsix";
-      sha256 = "sha256-enQ0Ai8zz+Ytq4FSMZqI/zFkFa1ekBlvxytQOSfMcrE=";
+      url = "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.7/file/IBMBlockchain.ibm-blockchain-platform-2.0.7.vsix";
+      sha256 = "sha256-EzcobHNazyrvjHolgcj6jsD/Xe6BtdyxaBN5rk0MwCc=";
     };
     name = "ibm-blockchain-platform";
     license = "Apache-2.0";
@@ -5343,10 +5343,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.1.3";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.1.3/file/chenglou92.rescript-vscode-1.1.3.vsix";
-      sha256 = "sha256-uXA+iWRlMOPdu/3OHe6Mca4vU8F/BXTPNPho3LvfUH0=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.2.0/file/chenglou92.rescript-vscode-1.2.0.vsix";
+      sha256 = "sha256-DX0LIFkz9vsMlUM2mEqc4Ln2caP6JzXPl9pxfB6RUPI=";
     };
     name = "rescript-vscode";
     license = "MIT";
@@ -6555,10 +6555,10 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "4.0.4";
+    version = "4.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.0.4/file/dsznajder.es7-react-js-snippets-4.0.4.vsix";
-      sha256 = "sha256-HlCFZngNgPWMaARB03N3eAlDJItNAm4TuKgvJ1c5D6c=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.1.0/file/dsznajder.es7-react-js-snippets-4.1.0.vsix";
+      sha256 = "sha256-zFgXvukaP/q2nzObdY0fwN+/t8yMa8upWw8Wb/XhUGg=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
@@ -7587,10 +7587,10 @@
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
-    version = "0.15.1";
+    version = "0.15.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.1/file/fredericbonnet.cmake-test-adapter-0.15.1.vsix";
-      sha256 = "sha256-BblG7MzKtH+mp6+gSJfqD0iwpHn/ITo+oecvqNNffQw=";
+      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.2/file/fredericbonnet.cmake-test-adapter-0.15.2.vsix";
+      sha256 = "sha256-a58ddLCKL6do2GGLbtu38wvcJpvdn8Oc66yWg6cdw+Q=";
     };
     name = "cmake-test-adapter";
     license = "BSD-3-Clause";
