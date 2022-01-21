@@ -2295,15 +2295,15 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.8.18";
+    version = "4.8.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.18/file/OBKoro1.korofileheader-4.8.18.vsix";
-      sha256 = "sha256-gb0ByZEVzDLUOOjXWCeoI/I602ql+HH60fDYnbwabGs=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.19/file/OBKoro1.korofileheader-4.8.19.vsix";
+      sha256 = "sha256-bQSjD5ZCwmCxpKKeErvrWxlmDDC8WJfZztQ6GbdOzes=";
     };
     name = "korofileheader";
     license = "MIT";
     publisher = "OBKoro1";
-    description = "\22312vscode\20013\29992\20110\29983\25104\25991\20214\22836\37096\27880\37322\21644\20989\25968\27880\37322\30340\25554\20214\65292\32463\36807\22810\29256\36845\20195\21518\65292\25554\20214\65306\25903\25345\25152\26377\20027\27969\35821\35328,\21151\33021\24378\22823\65292\28789\27963\26041\20415\65292\25991\26723\40784\20840\65292\39135\29992\31616\21333\65281";
+    description = "\29992\20110\29983\25104\25991\20214\22836\37096\27880\37322\21644\20989\25968\27880\37322\30340\25554\20214\65292\25903\25345\25152\26377\20027\27969\35821\35328,\21151\33021\24378\22823\65292\28789\27963\26041\20415\65292\25991\26723\40784\20840\65292\39135\29992\31616\21333\65281";
   };
   OlegKunitsyn-gnucobol-debug = {
     pname = "OlegKunitsyn-gnucobol-debug";
@@ -2835,10 +2835,10 @@
   };
   SixtyFPS-sixtyfps-vscode = {
     pname = "SixtyFPS-sixtyfps-vscode";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode/0.1.5/file/SixtyFPS.sixtyfps-vscode-0.1.5.vsix";
-      sha256 = "sha256-f424WzTbbp7nV+CkQLWGFBOTuGheI6hcEjZAch4N8h0=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode/0.1.6/file/SixtyFPS.sixtyfps-vscode-0.1.6.vsix";
+      sha256 = "sha256-isv5SDneyOwUpT7J70GhpADM4GW8USGLEz/KtjR110U=";
     };
     name = "sixtyfps-vscode";
     license = "GPL-3.0";
