@@ -2977,6 +2977,18 @@
     publisher = "TOBESOFT";
     description = "Pilot Project for IoT";
   };
+  TONLabs-everdev = {
+    pname = "TONLabs-everdev";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/TONLabs/everdev/1.0.0/file/TONLabs.everdev-1.0.0.vsix";
+      sha256 = "sha256-ArvtfnkBu7+uEPoTp8EpL2Iay8dq7nX+CKeIuYWS/DE=";
+    };
+    name = "everdev";
+    license = "Apache-2.0";
+    publisher = "TONLabs";
+    description = "Everscale Dev Environemnt";
+  };
   TONLabs-tondev = {
     pname = "TONLabs-tondev";
     version = "0.5.0";
