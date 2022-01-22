@@ -1827,10 +1827,10 @@
   };
   MS-CEINTL-vscode-language-pack-cs = {
     pname = "MS-CEINTL-vscode-language-pack-cs";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.64.3/file/MS-CEINTL.vscode-language-pack-cs-1.64.3.vsix";
-      sha256 = "sha256-eMk+syy2h+Xb3k6QB8PqYaF4I1ydaY6eRsvOXmelh9Q=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.64.4/file/MS-CEINTL.vscode-language-pack-cs-1.64.4.vsix";
+      sha256 = "sha256-aWtHfD8NkHJ9FVxJEzxHuixIHG/ELLSv4a9WPQ8EpxU=";
     };
     name = "vscode-language-pack-cs";
     license = "MIT";
@@ -1839,10 +1839,10 @@
   };
   MS-CEINTL-vscode-language-pack-de = {
     pname = "MS-CEINTL-vscode-language-pack-de";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.64.3/file/MS-CEINTL.vscode-language-pack-de-1.64.3.vsix";
-      sha256 = "sha256-oEaWtsgktHKw52lnZTESkpzC/TTY8LO4yX11IgtMG5U=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.64.4/file/MS-CEINTL.vscode-language-pack-de-1.64.4.vsix";
+      sha256 = "sha256-dWQw8G2oSSoZsHQ1LBf5+KPpTC7YQz/Jx2aoqetd0FM=";
     };
     name = "vscode-language-pack-de";
     license = "MIT";
@@ -1863,10 +1863,10 @@
   };
   MS-CEINTL-vscode-language-pack-es = {
     pname = "MS-CEINTL-vscode-language-pack-es";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.64.3/file/MS-CEINTL.vscode-language-pack-es-1.64.3.vsix";
-      sha256 = "sha256-utLWbved3WCCk3XzqedbYzmyaKfbMrAmR0btT09GlxA=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.64.4/file/MS-CEINTL.vscode-language-pack-es-1.64.4.vsix";
+      sha256 = "sha256-+izq+0kSKNjuUrcoAdz0gQiOkz12pm1zsXfJb+WtwmA=";
     };
     name = "vscode-language-pack-es";
     license = "MIT";
@@ -1875,10 +1875,10 @@
   };
   MS-CEINTL-vscode-language-pack-fr = {
     pname = "MS-CEINTL-vscode-language-pack-fr";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.64.3/file/MS-CEINTL.vscode-language-pack-fr-1.64.3.vsix";
-      sha256 = "sha256-6ynT1sbMgKO8iZReQ6KxFpR1VL3Nuo58MvXCtp+67vA=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.64.4/file/MS-CEINTL.vscode-language-pack-fr-1.64.4.vsix";
+      sha256 = "sha256-81VHtWoG2YYKlJihLbmgmVAjcNXbON6lmyIBtOrcNFE=";
     };
     name = "vscode-language-pack-fr";
     license = "MIT";
@@ -1911,10 +1911,10 @@
   };
   MS-CEINTL-vscode-language-pack-it = {
     pname = "MS-CEINTL-vscode-language-pack-it";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.64.3/file/MS-CEINTL.vscode-language-pack-it-1.64.3.vsix";
-      sha256 = "sha256-5aNFpzNMZAZJH3n0rJevke9P6AW0au5i8+r4PXsb9Rg=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.64.4/file/MS-CEINTL.vscode-language-pack-it-1.64.4.vsix";
+      sha256 = "sha256-5RLC4+Auf0SDRtefJKOfyAY1C9A9vNR5Mh4oRnc9r2E=";
     };
     name = "vscode-language-pack-it";
     license = "MIT";
@@ -1923,10 +1923,10 @@
   };
   MS-CEINTL-vscode-language-pack-ja = {
     pname = "MS-CEINTL-vscode-language-pack-ja";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.64.3/file/MS-CEINTL.vscode-language-pack-ja-1.64.3.vsix";
-      sha256 = "sha256-rxod70ddrppEYYzukksVY1dTXR8osLFAsIPr1fSFZDg=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.64.4/file/MS-CEINTL.vscode-language-pack-ja-1.64.4.vsix";
+      sha256 = "sha256-sAzv9howSfvm1VD1+iBfn/njS+XdQ72CDjFzC9GX2zs=";
     };
     name = "vscode-language-pack-ja";
     license = "MIT";
@@ -1935,10 +1935,10 @@
   };
   MS-CEINTL-vscode-language-pack-ko = {
     pname = "MS-CEINTL-vscode-language-pack-ko";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.64.3/file/MS-CEINTL.vscode-language-pack-ko-1.64.3.vsix";
-      sha256 = "sha256-QYFaxJz1PqKKIiLosLQ8Tu3JNXzpxLFqgIHjjRLwjA4=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.64.4/file/MS-CEINTL.vscode-language-pack-ko-1.64.4.vsix";
+      sha256 = "sha256-wV6io9Z6FuVdtclfdqn4kAxRpxbzIk6i/2pg5QtYBss=";
     };
     name = "vscode-language-pack-ko";
     license = "MIT";
@@ -1959,10 +1959,10 @@
   };
   MS-CEINTL-vscode-language-pack-pl = {
     pname = "MS-CEINTL-vscode-language-pack-pl";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.64.3/file/MS-CEINTL.vscode-language-pack-pl-1.64.3.vsix";
-      sha256 = "sha256-ms4tJ4t5uIKCaaVcLhwFE7smpL2AaysKbY6HTk1OSE4=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.64.4/file/MS-CEINTL.vscode-language-pack-pl-1.64.4.vsix";
+      sha256 = "sha256-r8xA4CseFTYbIML1cu9VmCk3bpKxxUeEa5H/Es/4mE0=";
     };
     name = "vscode-language-pack-pl";
     license = "MIT";
@@ -1971,10 +1971,10 @@
   };
   MS-CEINTL-vscode-language-pack-pt-BR = {
     pname = "MS-CEINTL-vscode-language-pack-pt-BR";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.64.3/file/MS-CEINTL.vscode-language-pack-pt-BR-1.64.3.vsix";
-      sha256 = "sha256-7Trz38KBl4sD7608MvTs02pUsdD05oHEj3Sp1LvtI7I=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.64.4/file/MS-CEINTL.vscode-language-pack-pt-BR-1.64.4.vsix";
+      sha256 = "sha256-gvNEaGLBAcxZt3MUmmzHNwn284jXkB74/w6PMG59SXc=";
     };
     name = "vscode-language-pack-pt-BR";
     license = "MIT";
@@ -1983,10 +1983,10 @@
   };
   MS-CEINTL-vscode-language-pack-ru = {
     pname = "MS-CEINTL-vscode-language-pack-ru";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.64.3/file/MS-CEINTL.vscode-language-pack-ru-1.64.3.vsix";
-      sha256 = "sha256-0Wr2ICOiaaj4jZ555bxUJcmXO/yWDyn0UmdvxUF3WSQ=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.64.4/file/MS-CEINTL.vscode-language-pack-ru-1.64.4.vsix";
+      sha256 = "sha256-8jiihHRoHw1ijAQ54F4Wlmpm9qNReK9o2e/lvp6Zd7s=";
     };
     name = "vscode-language-pack-ru";
     license = "MIT";
@@ -1995,10 +1995,10 @@
   };
   MS-CEINTL-vscode-language-pack-tr = {
     pname = "MS-CEINTL-vscode-language-pack-tr";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.64.3/file/MS-CEINTL.vscode-language-pack-tr-1.64.3.vsix";
-      sha256 = "sha256-T4CTpbve3vrNdW4VDfHDg8U8cQEtuxPV5LvNdtKrqzA=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.64.4/file/MS-CEINTL.vscode-language-pack-tr-1.64.4.vsix";
+      sha256 = "sha256-V2Q2eSTaWpuboGPI4I71Dqet/Xu5xLeQayoUtDXumjA=";
     };
     name = "vscode-language-pack-tr";
     license = "MIT";
@@ -2019,10 +2019,10 @@
   };
   MS-CEINTL-vscode-language-pack-zh-hans = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hans";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.64.3/file/MS-CEINTL.vscode-language-pack-zh-hans-1.64.3.vsix";
-      sha256 = "sha256-irTSQcVXf/V3MuZwfx4tFcvBk+xhbFZTnb7IG28s/p4=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.64.4/file/MS-CEINTL.vscode-language-pack-zh-hans-1.64.4.vsix";
+      sha256 = "sha256-HmRfeHvMrN1C+rjUfU1FskmZI8TbYu5DQ/KHboUPSec=";
     };
     name = "vscode-language-pack-zh-hans";
     license = "MIT";
@@ -2031,10 +2031,10 @@
   };
   MS-CEINTL-vscode-language-pack-zh-hant = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hant";
-    version = "1.64.3";
+    version = "1.64.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.64.3/file/MS-CEINTL.vscode-language-pack-zh-hant-1.64.3.vsix";
-      sha256 = "sha256-3IA/VTTTEqS6jrDYv50GnLXOTSC1XAMvqOVfOuvIdIs=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.64.4/file/MS-CEINTL.vscode-language-pack-zh-hant-1.64.4.vsix";
+      sha256 = "sha256-NeY1bHzDqseHNf7vLo/gPcfMKzLZwUGqDJxrrJsJJ70=";
     };
     name = "vscode-language-pack-zh-hant";
     license = "MIT";
@@ -2859,10 +2859,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.2020";
+    version = "2022.1.2116";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2020/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2020.vsix";
-      sha256 = "sha256-Ys+Y3VjOr7d8HcyVykEZj9rVuInSfvKfHfckTp8ptB8=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2116/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2116.vsix";
+      sha256 = "sha256-kzbq7qec46Hqgm8Vt/Nk515HfwB+nBdGtvpdxbg/hu4=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -9351,10 +9351,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.30.6";
+    version = "0.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.30.6/file/johnsoncodehk.vscode-typescript-vue-plugin-0.30.6.vsix";
-      sha256 = "sha256-mqEmc58NanfI+gQk8t1Tk/jmQp7tQrmG5f8SxgGtf2o=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.0/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.0.vsix";
+      sha256 = "sha256-4m2DiF5OoG0S62nqJiXccWrtVMH5MUMFeAftdWugIo0=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -13767,10 +13767,10 @@
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
-    version = "5.7.2";
+    version = "5.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.2/file/ritwickdey.LiveServer-5.7.2.vsix";
-      sha256 = "sha256-1idACNDaLzomoQ9unylf887zG2HIzbh/NKGm72jaoyo=";
+      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.3/file/ritwickdey.LiveServer-5.7.3.vsix";
+      sha256 = "sha256-+A2e+MfsBI7MCwVMHB5ai6/0HsM7fP19F8vBy8tnyD8=";
     };
     name = "LiveServer";
     license = "MIT";
