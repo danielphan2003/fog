@@ -5439,10 +5439,10 @@
   };
   ckolkman-vscode-postgres = {
     pname = "ckolkman-vscode-postgres";
-    version = "1.1.19";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ckolkman/vscode-postgres/1.1.19/file/ckolkman.vscode-postgres-1.1.19.vsix";
-      sha256 = "sha256-7u8qcx255hGbQTCDZ3nzzYV77eELuDv7lo29q4LFYVM=";
+      url = "https://open-vsx.org/api/ckolkman/vscode-postgres/1.4.0/file/ckolkman.vscode-postgres-1.4.0.vsix";
+      sha256 = "sha256-7LLEaf/SXuLTAMpaaPtMdWPEjNzqYbMXwU7NlZPoP9s=";
     };
     name = "vscode-postgres";
     license = "MIT";
@@ -6915,10 +6915,10 @@
   };
   emmanuelbeziat-vscode-great-icons = {
     pname = "emmanuelbeziat-vscode-great-icons";
-    version = "2.1.79";
+    version = "2.1.82";
     src = fetchurl {
-      url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.79/file/emmanuelbeziat.vscode-great-icons-2.1.79.vsix";
-      sha256 = "sha256-a4x9MPaNB2JLSgifHGBfGlgrGZkAW8dYrOzOVgdo34k=";
+      url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.82/file/emmanuelbeziat.vscode-great-icons-2.1.82.vsix";
+      sha256 = "sha256-vrXuFv0BK6A1q96rdejPknKTuPF+c+mKpLSJvXg+U+E=";
     };
     name = "vscode-great-icons";
     license = "MIT";
@@ -7899,10 +7899,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.4";
+    version = "2.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.4/file/giscafer.leek-fund-2.0.4.vsix";
-      sha256 = "sha256-O065RX0fNxe6nhAaWcvCzzUoPgQhf3+qVHSF9sO0hWE=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.5/file/giscafer.leek-fund-2.0.5.vsix";
+      sha256 = "sha256-YAfVkaEFDJ1ziS7TZiOqSZWhvD8a94JfvO/Ldhz+Hsc=";
     };
     name = "leek-fund";
     license = "MIT";
@@ -8127,10 +8127,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.23";
+    version = "0.8.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.23/file/halcyontechltd.code-for-ibmi-0.8.23.vsix";
-      sha256 = "sha256-9FR8yrLfJT0mvG/mPvId6hCAkFwaOBRneOD+u/SVOBo=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.24/file/halcyontechltd.code-for-ibmi-0.8.24.vsix";
+      sha256 = "sha256-furyUg+naX+zUp5l9DJrqU7aKZKJrX7VlvLxsgtp3tE=";
     };
     name = "code-for-ibmi";
     license = "MIT";
