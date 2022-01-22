@@ -3147,15 +3147,15 @@
   };
   Trelent-trelent = {
     pname = "Trelent-trelent";
-    version = "1.1.1";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Trelent/trelent/1.1.1/file/Trelent.trelent-1.1.1.vsix";
-      sha256 = "sha256-LgCPLszmfO7Pb8mqfEwiZZyavt+1nRQz75NpYK2/mck=";
+      url = "https://open-vsx.org/api/Trelent/trelent/1.2.0/file/Trelent.trelent-1.2.0.vsix";
+      sha256 = "sha256-el0sFe44pEK3/q69Dhd2sOJzeRjkISA5nc3FqFbi0og=";
     };
     name = "trelent";
     license = "We use the \8220Commons Clause\8221 License Condition v1.0 with the MIT License.";
     publisher = "Trelent";
-    description = "We write docstrings for your python code!";
+    description = "We write docstrings for your code!";
   };
   TshakaEricLekholoane-hy = {
     pname = "TshakaEricLekholoane-hy";
