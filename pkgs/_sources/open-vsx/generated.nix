@@ -16155,10 +16155,10 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.1.5";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.1.5/file/usernamehw.commands-1.1.5.vsix";
-      sha256 = "sha256-cNoOWE6OLK0yLoGGnAqTTAB+HbYwNvakHU0+uxzp30g=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.2.0/file/usernamehw.commands-1.2.0.vsix";
+      sha256 = "sha256-PA1nwi8xhG1yH0XwiHneYN37JDFbLZ+Lrlx3VKuaOgM=";
     };
     name = "commands";
     license = "MIT";
