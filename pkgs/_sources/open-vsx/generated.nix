@@ -915,10 +915,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.3.0";
+    version = "3.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.3.0/file/F5DevCentral.vscode-f5-3.3.0.vsix";
-      sha256 = "sha256-FnuJEijodApZ6wGYGsI9Z8f6x2cOcstkfw14K/xZgiI=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.4.0/file/F5DevCentral.vscode-f5-3.4.0.vsix";
+      sha256 = "sha256-twCSi9XT9BpjXLB0r7HN+hKK3pi9OWc/vzyU8T7BbS0=";
     };
     name = "vscode-f5";
     license = "Apache-2.0";
