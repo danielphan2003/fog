@@ -2773,6 +2773,18 @@
     publisher = "STNE";
     description = "Provides formatting, syntax highlighting and suggestions for .stne-Files";
   };
+  Sarrus-sourcepawn-vscode = {
+    pname = "Sarrus-sourcepawn-vscode";
+    version = "3.0.12";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.12/file/Sarrus.sourcepawn-vscode-3.0.12.vsix";
+      sha256 = "sha256-0pa8xv1O51p2rYOsreKTPQH2YwpSUnN5IZTAWEsOulI=";
+    };
+    name = "sourcepawn-vscode";
+    license = "MIT";
+    publisher = "Sarrus";
+    description = "SourcePawn highlighting, autocompletion and much more";
+  };
   Serpen-vbsvscode = {
     pname = "Serpen-vbsvscode";
     version = "1.2.1";
@@ -3135,10 +3147,10 @@
   };
   Trelent-trelent = {
     pname = "Trelent-trelent";
-    version = "1.0.6";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Trelent/trelent/1.0.6/file/Trelent.trelent-1.0.6.vsix";
-      sha256 = "sha256-r8PatvTDnRGfHPmnA93eTAUrFUbRmwA+qkYmDwRBMgI=";
+      url = "https://open-vsx.org/api/Trelent/trelent/1.1.1/file/Trelent.trelent-1.1.1.vsix";
+      sha256 = "sha256-LgCPLszmfO7Pb8mqfEwiZZyavt+1nRQz75NpYK2/mck=";
     };
     name = "trelent";
     license = "We use the \8220Commons Clause\8221 License Condition v1.0 with the MIT License.";
