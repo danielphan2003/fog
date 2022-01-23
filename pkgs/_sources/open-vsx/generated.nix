@@ -16491,10 +16491,10 @@
   };
   voorjaar-windicss-intellisense = {
     pname = "voorjaar-windicss-intellisense";
-    version = "0.21.5";
+    version = "0.21.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/voorjaar/windicss-intellisense/0.21.5/file/voorjaar.windicss-intellisense-0.21.5.vsix";
-      sha256 = "sha256-wdJ44/Q9BjeMmPFmlZsDpXpNInYGDvkWl46eOzO4ZCo=";
+      url = "https://open-vsx.org/api/voorjaar/windicss-intellisense/0.21.6/file/voorjaar.windicss-intellisense-0.21.6.vsix";
+      sha256 = "sha256-OesZWKFw1LkU0iqTuyj+vt/EoXOgGJMqL/atUQuFFDw=";
     };
     name = "windicss-intellisense";
     license = "MIT";
@@ -18375,10 +18375,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.16/file/zardoy.npm-rapid-ready-0.0.16.vsix";
-      sha256 = "sha256-47OiQwGosNUGsxHuP0kQ20Jez04Csc9z1o7WoReH790=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.17/file/zardoy.npm-rapid-ready-0.0.17.vsix";
+      sha256 = "sha256-LE3XWhoBa/L3Wp8mr2Ek+Av9bWCP2KApggik7e+BuIg=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
