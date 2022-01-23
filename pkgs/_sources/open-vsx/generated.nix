@@ -10167,10 +10167,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1642710688";
+    version = "2022.1.1642951229";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642710688/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642710688.vsix";
-      sha256 = "sha256-HHJhALj3nmUUOZ/5snSIV7HEno4rqlwU1a4pYDh+9vA=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642951229/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642951229.vsix";
+      sha256 = "sha256-PXnS96SoevdsJvW6SCS3lGFqrrfmLtwCjmhQ+8B1OdQ=";
     };
     name = "launchdarkly-beta";
     license = "";
@@ -11763,10 +11763,10 @@
   };
   muhammad-sammy-csharp = {
     pname = "muhammad-sammy-csharp";
-    version = "1.23.17";
+    version = "1.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.23.17/file/muhammad-sammy.csharp-1.23.17.vsix";
-      sha256 = "sha256-1WjqHKrmIE0cq7wQ+mBEch9V2NGn9ghAP0H/zqOZnZs=";
+      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.0/file/muhammad-sammy.csharp-1.24.0.vsix";
+      sha256 = "sha256-4wAOACMIpAR9NftIS9hC5QhmcXK1JCzaMKGVehxc7OY=";
     };
     name = "csharp";
     license = "MIT";
@@ -14628,6 +14628,18 @@
     license = "MIT";
     publisher = "signageos";
     description = "";
+  };
+  silofy-hackthebox = {
+    pname = "silofy-hackthebox";
+    version = "0.2.9";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/silofy/hackthebox/0.2.9/file/silofy.hackthebox-0.2.9.vsix";
+      sha256 = "sha256-IiaNN6SJEmu/Jf2jbETqW8mM7Yz9fPdp/sWWgygM1lk=";
+    };
+    name = "hackthebox";
+    license = "MIT";
+    publisher = "silofy";
+    description = "A Visual Studio Code theme built for hackers BY hackers";
   };
   silvenon-mdx = {
     pname = "silvenon-mdx";
