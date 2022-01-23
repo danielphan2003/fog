@@ -2775,10 +2775,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "3.0.12";
+    version = "3.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.12/file/Sarrus.sourcepawn-vscode-3.0.12.vsix";
-      sha256 = "sha256-0pa8xv1O51p2rYOsreKTPQH2YwpSUnN5IZTAWEsOulI=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.13/file/Sarrus.sourcepawn-vscode-3.0.13.vsix";
+      sha256 = "sha256-xKx6Oh8RJowEq2oQ93dNHxuErC+TLUqRm4/Yoxu+AuU=";
     };
     name = "sourcepawn-vscode";
     license = "MIT";
