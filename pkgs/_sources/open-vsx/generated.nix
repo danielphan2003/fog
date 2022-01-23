@@ -5979,10 +5979,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.15.2";
+    version = "0.15.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.2/file/cyrusfirheir.twee3-language-tools-0.15.2.vsix";
-      sha256 = "sha256-gfGmjLVBSWfkiW+eXMINAQB3i1hqx9c4WMTtwsVG6es=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.3/file/cyrusfirheir.twee3-language-tools-0.15.3.vsix";
+      sha256 = "sha256-OsZrI0DxekI9Dc6aub08t7aQV0gX9MxxG6R3ZqkqDOY=";
     };
     name = "twee3-language-tools";
     license = "MIT";
