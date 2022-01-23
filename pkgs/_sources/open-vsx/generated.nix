@@ -10575,10 +10575,10 @@
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
-    version = "1.4.6";
+    version = "1.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.4.6/file/marp-team.marp-vscode-1.4.6.vsix";
-      sha256 = "sha256-W993BSN1qlQU8vosezywCzAVCfUpbE8x1LIs4oKvgvA=";
+      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.4.7/file/marp-team.marp-vscode-1.4.7.vsix";
+      sha256 = "sha256-yLVpzTtsxb0IOFfT9cnFLuBLCZQMxwe9bz555O/z0IQ=";
     };
     name = "marp-vscode";
     license = "MIT";
