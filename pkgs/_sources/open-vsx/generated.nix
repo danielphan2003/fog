@@ -9351,10 +9351,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.31.0";
+    version = "0.31.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.0/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.0.vsix";
-      sha256 = "sha256-4m2DiF5OoG0S62nqJiXccWrtVMH5MUMFeAftdWugIo0=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.1/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.1.vsix";
+      sha256 = "sha256-e0ct3pocQ42Hz+iidkXMVbkDEI2FL4tUfZDtN6m35Ro=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
