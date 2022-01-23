@@ -2355,10 +2355,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.12.0";
+    version = "4.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.12.0/file/PKief.material-icon-theme-4.12.0.vsix";
-      sha256 = "sha256-tFEW57QjK2lBnX0kreVEUX9V2wXpD61t0vYi2a2aJcU=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.12.1/file/PKief.material-icon-theme-4.12.1.vsix";
+      sha256 = "sha256-pmWnnZrdk6zb8YFG5ESgK4k875hgeseWyzkA9YUjg7A=";
     };
     name = "material-icon-theme";
     license = "MIT";
@@ -3531,10 +3531,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "3.4.3";
+    version = "3.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/3.4.3/file/a5hk.night-coder-3.4.3.vsix";
-      sha256 = "sha256-g8ln1Zer7gCsnlCZ3YfItxKij+tLXQJ7p/Z0R4eKZ+U=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/3.5.0/file/a5hk.night-coder-3.5.0.vsix";
+      sha256 = "sha256-dRCSGxkEmBhmTvD4eMUxh25c61M7d1cK11qg0n7DiGY=";
     };
     name = "night-coder";
     license = "MIT";
@@ -8149,6 +8149,18 @@
     publisher = "halcyontechltd";
     description = "Adds walkthroughs for IBM i development in VS Code";
   };
+  halcyontechltd-vscode-rpgle = {
+    pname = "halcyontechltd-vscode-rpgle";
+    version = "0.4.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.4.1/file/halcyontechltd.vscode-rpgle-0.4.1.vsix";
+      sha256 = "sha256-yA/l6ydtfA4AwotbMBbf6C9IIXhqhNnKwBw/Rn1L+QA=";
+    };
+    name = "vscode-rpgle";
+    license = "MIT";
+    publisher = "halcyontechltd";
+    description = "RPGLE content assist and linter for VS Code";
+  };
   harehare-textusm = {
     pname = "harehare-textusm";
     version = "0.3.1";
@@ -10167,10 +10179,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1642951229";
+    version = "2022.1.1642964737";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642951229/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642951229.vsix";
-      sha256 = "sha256-PXnS96SoevdsJvW6SCS3lGFqrrfmLtwCjmhQ+8B1OdQ=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642964737/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642964737.vsix";
+      sha256 = "sha256-YjkLpOUkvOY7YG31751OXi8nZ/zBHNriMwL7vepbeDE=";
     };
     name = "launchdarkly-beta";
     license = "";
