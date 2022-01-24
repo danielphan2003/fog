@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.551";
+    version = "31.0.552";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.551/file/Prisma.prisma-insider-31.0.551.vsix";
-      sha256 = "sha256-0N8fyv2Av5TnaGzX8peQs5IrVscRu4eKs3K3ObHD5FQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.552/file/Prisma.prisma-insider-31.0.552.vsix";
+      sha256 = "sha256-3XxonFdX4kSMyJBdRRaltwz/u9wkKrK2Lee+spaYOsM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8535,10 +8535,10 @@
   };
   iciclesoft-workspacesort = {
     pname = "iciclesoft-workspacesort";
-    version = "1.6.1";
+    version = "1.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iciclesoft/workspacesort/1.6.1/file/iciclesoft.workspacesort-1.6.1.vsix";
-      sha256 = "sha256-qb9f6VJleDvUaA8L0JtmxIpe4V7cP6u9o+PGov6Bm/k=";
+      url = "https://open-vsx.org/api/iciclesoft/workspacesort/1.6.2/file/iciclesoft.workspacesort-1.6.2.vsix";
+      sha256 = "sha256-PsocS2PMi5HwHlIb9ZrCkBsAKtG2Y96WVR0VLcvK788=";
     };
     name = "workspacesort";
     license = "MIT";
