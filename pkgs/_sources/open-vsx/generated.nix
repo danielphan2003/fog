@@ -5533,6 +5533,18 @@
     publisher = "codeandstuff";
     description = "Navigate your edit history with ease. Jump one step back with a keypress or view a list of all recent edits.";
   };
+  codechecker-codechecker = {
+    pname = "codechecker-codechecker";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/codechecker/codechecker/1.0.0/file/codechecker.codechecker-1.0.0.vsix";
+      sha256 = "sha256-UWsdlhZN4otVqsX4MXIgCn8pV932xRG8lVCzPSpn/yI=";
+    };
+    name = "codechecker";
+    license = "Apache-2.0";
+    publisher = "codechecker";
+    description = "CodeChecker integration for Visual Studio Code";
+  };
   codelingo-codelingo = {
     pname = "codelingo-codelingo";
     version = "1.7.2";
@@ -10215,15 +10227,15 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.56";
+    version = "0.0.57";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.56/file/leanprover.lean4-0.0.56.vsix";
-      sha256 = "sha256-VdOSv4dqY1o521B4LrNG0P1VmkjLh/ojpl6w+6eNnrU=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.57/file/leanprover.lean4-0.0.57.vsix";
+      sha256 = "sha256-rfKI8qv4BeixqjX0LeErW62WW/PcAMP2BFLYQfnjOcw=";
     };
     name = "lean4";
     license = "Apache-2.0";
     publisher = "leanprover";
-    description = "An extension for VS Code which provides support for the Lean 4 language.";
+    description = "Lean 4 language support for VS Code";
   };
   learnpack-learnpack-vscode = {
     pname = "learnpack-learnpack-vscode";
