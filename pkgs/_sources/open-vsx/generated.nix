@@ -3015,10 +3015,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.16";
+    version = "3.5.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.16/file/TabNine.tabnine-vscode-3.5.16.vsix";
-      sha256 = "sha256-aR6aRq0MyOozwkVZ5NUFlIeGok/vL5Ex3r51yYoekBA=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.17/file/TabNine.tabnine-vscode-3.5.17.vsix";
+      sha256 = "sha256-znVzKC3xHaUaYWuziQe1JMAv29fGdsE0Sf/IOeJpc4k=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6399,10 +6399,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.78.7";
+    version = "0.78.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.78.7/file/dendron.nightly-0.78.7.vsix";
-      sha256 = "sha256-XgfUV90xwyEEZ8UqkLOx6/8C5wHqW/pgGPsDuoUe7ig=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.78.8/file/dendron.nightly-0.78.8.vsix";
+      sha256 = "sha256-JSnxoYSPRwyOiq6UZaqGURHBbd5qd0CAA6ThuL1jLBw=";
     };
     name = "nightly";
     license = "AGPL-3.0";
