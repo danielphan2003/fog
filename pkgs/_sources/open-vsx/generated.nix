@@ -11113,6 +11113,18 @@
     publisher = "mkhl";
     description = "format shell programs";
   };
+  mohamedbenhida-laravel-intellisense = {
+    pname = "mohamedbenhida-laravel-intellisense";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mohamedbenhida/laravel-intellisense/0.2.0/file/mohamedbenhida.laravel-intellisense-0.2.0.vsix";
+      sha256 = "sha256-5TzDSqsbGTfNkAMkLYenWZ8KtsfMEt86K3y6Sw1QFEw=";
+    };
+    name = "laravel-intellisense";
+    license = "MIT";
+    publisher = "mohamedbenhida";
+    description = "Laravel intellisense for Visual Studio Code";
+  };
   mongodb-mongodb-vscode = {
     pname = "mongodb-mongodb-vscode";
     version = "0.8.0";
