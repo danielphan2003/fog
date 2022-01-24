@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.549";
+    version = "31.0.551";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.549/file/Prisma.prisma-insider-31.0.549.vsix";
-      sha256 = "sha256-Xc7pKBvegPDSbCdEWJme2GaGBcpQnkKrbuzxyzMSiEw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.551/file/Prisma.prisma-insider-31.0.551.vsix";
+      sha256 = "sha256-0N8fyv2Av5TnaGzX8peQs5IrVscRu4eKs3K3ObHD5FQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9495,10 +9495,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.5.3";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.5.3/file/jsw.csharpextensions-1.5.3.vsix";
-      sha256 = "sha256-S7JlVdSiGOmbtkwLpFQoUDHWm6usfnR/hvLjG4xoXmU=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.0/file/jsw.csharpextensions-1.6.0.vsix";
+      sha256 = "sha256-0TxWR8fwUm6i2E106el3bL0hZUtBzQV0O+b8aAIpREg=";
     };
     name = "csharpextensions";
     license = "MIT";
