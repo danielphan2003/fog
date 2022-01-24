@@ -11031,15 +11031,15 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.3.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.3.0/file/mintlify.document-1.3.0.vsix";
-      sha256 = "sha256-NGx7rJzMfMod/RGnqiC/Xyc9Gi88Ad+n4ZkTtI4y6IU=";
+      url = "https://open-vsx.org/api/mintlify/document/1.5.0/file/mintlify.document-1.5.0.vsix";
+      sha256 = "sha256-B3zgr3KGMbu8/UtiQzsxekNz/Frm/dl6b2LSxfk6obU=";
     };
     name = "document";
-    license = "";
+    license = "Apache-2.0";
     publisher = "mintlify";
-    description = "The AI generated documentation writer";
+    description = "The AI powered documentation writer";
   };
   mitaki28-vscode-clang = {
     pname = "mitaki28-vscode-clang";
