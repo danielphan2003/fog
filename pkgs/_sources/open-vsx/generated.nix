@@ -18375,10 +18375,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.0.17";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.17/file/zardoy.npm-rapid-ready-0.0.17.vsix";
-      sha256 = "sha256-LE3XWhoBa/L3Wp8mr2Ek+Av9bWCP2KApggik7e+BuIg=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.19/file/zardoy.npm-rapid-ready-0.0.19.vsix";
+      sha256 = "sha256-Iiyx4gi6pniKi2o1dHSe9zo28B0A5LLJ1vkuWCdmUb0=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
