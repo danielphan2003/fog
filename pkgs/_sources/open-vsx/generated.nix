@@ -14941,6 +14941,18 @@
     publisher = "southclaws";
     description = "Pawn tools for vscode. Includes syntax highlighting and snippets/completions for common libraries.";
   };
+  spnda-nml-language = {
+    pname = "spnda-nml-language";
+    version = "1.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/spnda/nml-language/1.2.2/file/spnda.nml-language-1.2.2.vsix";
+      sha256 = "sha256-5Ec1VfAj2IRQiKDb9Sl19ToieIr6LoD1Wz6A7bHWe/k=";
+    };
+    name = "nml-language";
+    license = "GPLv2";
+    publisher = "spnda";
+    description = "Adds the NewGRF Meta Language";
+  };
   srimukh-slowbug = {
     pname = "srimukh-slowbug";
     version = "1.0.7";
@@ -18399,10 +18411,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.0.20";
+    version = "0.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.20/file/zardoy.npm-rapid-ready-0.0.20.vsix";
-      sha256 = "sha256-TOqJEppssn/MfpDCQEGBNkZ+uE2kTOQqDAVHUE9r6Ag=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.21/file/zardoy.npm-rapid-ready-0.0.21.vsix";
+      sha256 = "sha256-mKgkKqDOBVjTrN9bYpkgca5R4rlMbm4aJ/YOEIwzsto=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
