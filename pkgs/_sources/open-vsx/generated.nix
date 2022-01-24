@@ -8163,10 +8163,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.4.2";
+    version = "0.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.4.2/file/halcyontechltd.vscode-rpgle-0.4.2.vsix";
-      sha256 = "sha256-KyDMsa5BqinQAyBvC89HWPVl0bK+wbDKErV7R8AdrzI=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.4.3/file/halcyontechltd.vscode-rpgle-0.4.3.vsix";
+      sha256 = "sha256-zVJUG/zp/gml3PaUdZRbbNI7BofxrWyUYzqCOX3XBBo=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -13455,10 +13455,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.1.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.1.0/file/redhat.java-1.1.0.vsix";
-      sha256 = "sha256-YmR3FWhPZSU2gE6NIVoA1HZBzaYaTNYFXC/uNwbDEdQ=";
+      url = "https://open-vsx.org/api/redhat/java/1.3.0/file/redhat.java-1.3.0.vsix";
+      sha256 = "sha256-5XdUEvtuE4BmuOYu/46wDoV3rm7QW4NdZzr49OjNhng=";
     };
     name = "java";
     license = "EPL-2.0";
