@@ -5523,10 +5523,10 @@
   };
   codeandstuff-vscode-navigate-edit-history = {
     pname = "codeandstuff-vscode-navigate-edit-history";
-    version = "1.5.2";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codeandstuff/vscode-navigate-edit-history/1.5.2/file/codeandstuff.vscode-navigate-edit-history-1.5.2.vsix";
-      sha256 = "sha256-T+4PtbECj03P0ZSvPOMfxTbHRtU11K6YC7YEuP0beGk=";
+      url = "https://open-vsx.org/api/codeandstuff/vscode-navigate-edit-history/1.6.0/file/codeandstuff.vscode-navigate-edit-history-1.6.0.vsix";
+      sha256 = "sha256-T/0KYo8OpY1bbdMX1fTw/7BmNZ1EWCJnW9BhR3zO4sg=";
     };
     name = "vscode-navigate-edit-history";
     license = "MIT";
