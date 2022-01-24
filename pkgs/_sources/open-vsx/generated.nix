@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.552";
+    version = "31.0.554";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.552/file/Prisma.prisma-insider-31.0.552.vsix";
-      sha256 = "sha256-3XxonFdX4kSMyJBdRRaltwz/u9wkKrK2Lee+spaYOsM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.554/file/Prisma.prisma-insider-31.0.554.vsix";
+      sha256 = "sha256-wlLo8gOaHeg0I7Y0iW24HUSAGpLzs0d+OTg+ut4QC30=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6843,10 +6843,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1733673";
+    version = "6.0.1741275";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1733673/file/eliostruyf.vscode-front-matter-beta-6.0.1733673.vsix";
-      sha256 = "sha256-IOnrYpFYbxlTyKuTd7HVG+VUDXgo+//JRUQsTUJ1PT8=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1741275/file/eliostruyf.vscode-front-matter-beta-6.0.1741275.vsix";
+      sha256 = "sha256-nCw94I4UPr7PThCd8LoEhvwtwzr1cBxTMcUGVqGHf54=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9483,10 +9483,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.44";
+    version = "0.16.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.44/file/jroesch.lean-0.16.44.vsix";
-      sha256 = "sha256-fLk6FxHXWEMNqHY/hfOqYmEvAQt71oOChN7aFVPUgtc=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.45/file/jroesch.lean-0.16.45.vsix";
+      sha256 = "sha256-nb4I6Xjk+lu2x2keiOX19bVFqCyAejBvYgXq84rH5gU=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -18399,10 +18399,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.0.19";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.19/file/zardoy.npm-rapid-ready-0.0.19.vsix";
-      sha256 = "sha256-Iiyx4gi6pniKi2o1dHSe9zo28B0A5LLJ1vkuWCdmUb0=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.20/file/zardoy.npm-rapid-ready-0.0.20.vsix";
+      sha256 = "sha256-TOqJEppssn/MfpDCQEGBNkZ+uE2kTOQqDAVHUE9r6Ag=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
