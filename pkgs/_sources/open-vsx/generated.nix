@@ -6843,10 +6843,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.0.1741275";
+    version = "6.0.1742260";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1741275/file/eliostruyf.vscode-front-matter-beta-6.0.1741275.vsix";
-      sha256 = "sha256-nCw94I4UPr7PThCd8LoEhvwtwzr1cBxTMcUGVqGHf54=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.0.1742260/file/eliostruyf.vscode-front-matter-beta-6.0.1742260.vsix";
+      sha256 = "sha256-YbUzFXNUvR8mqmwBc0eqDWSQgfptw+OB/A5zmckU6lo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11043,10 +11043,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.5.0/file/mintlify.document-1.5.0.vsix";
-      sha256 = "sha256-B3zgr3KGMbu8/UtiQzsxekNz/Frm/dl6b2LSxfk6obU=";
+      url = "https://open-vsx.org/api/mintlify/document/1.5.1/file/mintlify.document-1.5.1.vsix";
+      sha256 = "sha256-8Fs6JX7kr6M6GkTWOAcRHkB+QA6rYzp20dzJtVaXfSs=";
     };
     name = "document";
     license = "Apache-2.0";
