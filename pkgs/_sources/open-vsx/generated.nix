@@ -4791,15 +4791,15 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "5.2.0";
+    version = "6.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/5.2.0/file/barjo.anirak-5.2.0.vsix";
-      sha256 = "sha256-2iXJ97YUCBxyRL+cDxE9F62JjxP/iJrU7YeGQAiTLW8=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.0.4/file/barjo.anirak-6.0.4.vsix";
+      sha256 = "sha256-Ul2EyeaQ/7W1UcERqhJgK9AqxKFlgKrhVd8lsrtcu2k=";
     };
     name = "anirak";
     license = "Apache-2.0";
     publisher = "barjo";
-    description = "Anirak is a modern dark theme, designed to be soothing to the eyes and refreshing to the mind.";
+    description = "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind.";
   };
   barrettotte-ibmi-languages = {
     pname = "barrettotte-ibmi-languages";
@@ -9339,10 +9339,10 @@
   };
   johnbillion-vscode-wordpress-hooks = {
     pname = "johnbillion-vscode-wordpress-hooks";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/0.6.1/file/johnbillion.vscode-wordpress-hooks-0.6.1.vsix";
-      sha256 = "sha256-40u7wwgMBeyCslpa/o6oShgZAT1wliH+jzSGgZGuzrQ=";
+      url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/0.7.0/file/johnbillion.vscode-wordpress-hooks-0.7.0.vsix";
+      sha256 = "sha256-XeGil+e4/EHovq8b/fIn07NFAtbcWOKl1nl5b2Y4aEs=";
     };
     name = "vscode-wordpress-hooks";
     license = "GPL-3.0-or-later";
