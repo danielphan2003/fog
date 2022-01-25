@@ -3505,6 +3505,18 @@
     publisher = "4ops";
     description = "Terraform configuration language support (includes Terragrunt)";
   };
+  _4paradigm-operator-tools = {
+    pname = "_4paradigm-operator-tools";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/4paradigm/operator-tools/0.0.1/file/4paradigm.operator-tools-0.0.1.vsix";
+      sha256 = "sha256-UntUJ5FPHb3jV90s2BPbOGHjh6gETZZAVO6KBMGTVEk=";
+    };
+    name = "operator-tools";
+    license = "MIT";
+    publisher = "4paradigm";
+    description = "develop,debug,deploy,publish operator in vscode(client or web!)";
+  };
   _9j-amvim = {
     pname = "_9j-amvim";
     version = "1.34.1-pre";
