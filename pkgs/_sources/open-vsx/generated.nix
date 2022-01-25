@@ -10611,10 +10611,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/1.2.0/file/marus25.cortex-debug-1.2.0.vsix";
-      sha256 = "sha256-3jmhVPTl4sv67k2L9tuTzU7DAowrF4cllMNGaZGHdnI=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.2.1/file/marus25.cortex-debug-1.2.1.vsix";
+      sha256 = "sha256-8G7DUthZCy6bEzryk6sDL0ORq6/3/kpiiPdkCfEW3Vg=";
     };
     name = "cortex-debug";
     license = "MIT";
@@ -11475,10 +11475,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.61.0";
+    version = "1.64.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.61.0/file/ms-vscode.js-debug-1.61.0.vsix";
-      sha256 = "sha256-E7NoSHC6KdkWF5+a9hpPzUU2g0GgnH0tnmNvJWL84qw=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.64.0/file/ms-vscode.js-debug-1.64.0.vsix";
+      sha256 = "sha256-BxZTlrVRDtlXex3unrRc7HcHtkBRhtxsVGen6Oke4Hw=";
     };
     name = "js-debug";
     license = "MIT";
@@ -13803,10 +13803,10 @@
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
-    version = "5.7.3";
+    version = "5.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.3/file/ritwickdey.LiveServer-5.7.3.vsix";
-      sha256 = "sha256-+A2e+MfsBI7MCwVMHB5ai6/0HsM7fP19F8vBy8tnyD8=";
+      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.4/file/ritwickdey.LiveServer-5.7.4.vsix";
+      sha256 = "sha256-fkn61huZJdeYH3tde5pDuBI5jgLsCFSa895gJ0J7r6M=";
     };
     name = "LiveServer";
     license = "MIT";
@@ -16611,10 +16611,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.34.2";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.34.2/file/vscjava.vscode-maven-0.34.2.vsix";
-      sha256 = "sha256-37d8YodQlsOYHfuhhGaw7/qkCtURokLZqB1sSSQKL08=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.0/file/vscjava.vscode-maven-0.35.0.vsix";
+      sha256 = "sha256-NX5sBR4PIHUqagNBko9RuN7TrHu7xknssAFvjQtox24=";
     };
     name = "vscode-maven";
     license = "MIT";
