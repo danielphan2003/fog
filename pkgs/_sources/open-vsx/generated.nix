@@ -10431,15 +10431,15 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.13";
+    version = "0.1.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.13/file/llvm-vs-code-extensions.vscode-clangd-0.1.13.vsix";
-      sha256 = "sha256-bijGn+oA+3kxMsCYI2WN92k7nEBCqWUDXoBSSdbBJjk=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.14/file/llvm-vs-code-extensions.vscode-clangd-0.1.14.vsix";
+      sha256 = "sha256-vFbqu5ZDiPZOKFUpMRvag2BVcRNSfGR0RQzB4iP8Lxo=";
     };
     name = "vscode-clangd";
     license = "MIT";
     publisher = "llvm-vs-code-extensions";
-    description = "C and C++ completion, navigation, and insights";
+    description = "C/C++ completion, navigation, and insights";
   };
   lokalise-i18n-ally = {
     pname = "lokalise-i18n-ally";
