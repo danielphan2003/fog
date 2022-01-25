@@ -7827,10 +7827,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "5.0.3";
+    version = "2022.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/5.0.3/file/genuitecllc.codetogether-5.0.3.vsix";
-      sha256 = "sha256-nqmMIwGiiBLOWIllua+EQ5siQK1up8rquxqTXBy5zqU=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.0/file/genuitecllc.codetogether-2022.1.0.vsix";
+      sha256 = "sha256-+JXvtQ+UdVl+vfvPQJuMC1CnYFPgIYNc329M4CutmJQ=";
     };
     name = "codetogether";
     license = "";
@@ -13263,10 +13263,10 @@
   };
   qux-bbb-text-utils = {
     pname = "qux-bbb-text-utils";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.2/file/qux-bbb.text-utils-0.1.2.vsix";
-      sha256 = "sha256-5y5Tc/VZwCCAa60wplFVRPnKm+tNoEF7XrdYygb8uio=";
+      url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.3/file/qux-bbb.text-utils-0.1.3.vsix";
+      sha256 = "sha256-YnZVHHR+dSbTIjX6mGectk7OheH3f37Otn02e1yZLJM=";
     };
     name = "text-utils";
     license = "GPL-3.0";
