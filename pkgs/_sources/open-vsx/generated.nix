@@ -8125,6 +8125,18 @@
     publisher = "grammarcraft";
     description = "Xtext Grammar Specification Language";
   };
+  graphman-tengo = {
+    pname = "graphman-tengo";
+    version = "0.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/graphman/tengo/0.5.0/file/graphman.tengo-0.5.0.vsix";
+      sha256 = "sha256-t5PLuF15Pg4M+zRLCYopaAGhwdjbHrhO8dsfGwVwTy0=";
+    };
+    name = "tengo";
+    license = "MIT";
+    publisher = "graphman";
+    description = "Tengo syntax highlighting";
+  };
   gregoire-dance = {
     pname = "gregoire-dance";
     version = "0.5.8";
