@@ -9603,10 +9603,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.24";
+    version = "0.6.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.24/file/kahole.magit-0.6.24.vsix";
-      sha256 = "sha256-TXX5VYZeK25gcrA+9RopRkJdnaA5dMHkEezR8rZq0Js=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.26/file/kahole.magit-0.6.26.vsix";
+      sha256 = "sha256-oZKyx1pZqLPtXejJKMViAxsayMOfFW46h9DLtK76VsU=";
     };
     name = "magit";
     license = "MIT";
