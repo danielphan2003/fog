@@ -13837,6 +13837,18 @@
     publisher = "riussi";
     description = "Code::Stats package for Visual Studio Code";
   };
+  robert-brunhage-flutter-riverpod-snippets = {
+    pname = "robert-brunhage-flutter-riverpod-snippets";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/robert-brunhage/flutter-riverpod-snippets/1.0.2/file/robert-brunhage.flutter-riverpod-snippets-1.0.2.vsix";
+      sha256 = "sha256-fMxHB7R2MhugIGdKl5VapzHhOpt23vmKpcAa8a4WdAc=";
+    };
+    name = "flutter-riverpod-snippets";
+    license = "MIT";
+    publisher = "robert-brunhage";
+    description = "Quick and easy Flutter Riverpod snippets";
+  };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
     version = "0.25.0";
