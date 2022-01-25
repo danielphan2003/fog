@@ -6339,10 +6339,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.78.0";
+    version = "0.79.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.78.0/file/dendron.dendron-0.78.0.vsix";
-      sha256 = "sha256-MMHNyxxhpOnjCbqoXEiqCUInQu9A1lRMrpeYXok23wQ=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.79.0/file/dendron.dendron-0.79.0.vsix";
+      sha256 = "sha256-YgH1tchITwCzZIJu7IM4XCfTXg6NBGw7De3UgioWdyo=";
     };
     name = "dendron";
     license = "AGPL-3.0";
