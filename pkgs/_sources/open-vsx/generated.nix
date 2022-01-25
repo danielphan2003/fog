@@ -11055,10 +11055,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.5.1/file/mintlify.document-1.5.1.vsix";
-      sha256 = "sha256-8Fs6JX7kr6M6GkTWOAcRHkB+QA6rYzp20dzJtVaXfSs=";
+      url = "https://open-vsx.org/api/mintlify/document/1.5.2/file/mintlify.document-1.5.2.vsix";
+      sha256 = "sha256-pi37S2Llp0QVQU3LgHohaDshPjGdEEkvshKNjABRVZA=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -15663,10 +15663,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.7.2";
+    version = "1.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.2/file/tfsec.tfsec-1.7.2.vsix";
-      sha256 = "sha256-++ZPQSrQFmsrQVP1iGE4ENDvhUv3/eAvR9aXaPc//dQ=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.3/file/tfsec.tfsec-1.7.3.vsix";
+      sha256 = "sha256-Fky1sXN1U3Al4Il39+KaWplq9lnlQ5OXqLPOFt3WVIc=";
     };
     name = "tfsec";
     license = "MIT";
