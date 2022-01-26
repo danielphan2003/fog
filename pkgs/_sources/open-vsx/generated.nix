@@ -13875,10 +13875,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.25.0";
+    version = "0.26.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.25.0/file/robocorp.robocorp-code-0.25.0.vsix";
-      sha256 = "sha256-1h+gDEgTv7HHvZpWwPHnJZC+/xeB6zoxMuHL4TjqHUg=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.26.0/file/robocorp.robocorp-code-0.26.0.vsix";
+      sha256 = "sha256-lIra4HhDRv+j3LNiSfq6oXJ5gNTsv5mQz0QgK1lMxDc=";
     };
     name = "robocorp-code";
     license = "";
@@ -13887,10 +13887,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.37.0";
+    version = "0.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.37.0/file/robocorp.robotframework-lsp-0.37.0.vsix";
-      sha256 = "sha256-l49G6uOkoVSBEgVg8ewy1HAmIVt6+G8nwsWCxFSUhUM=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.38.0/file/robocorp.robotframework-lsp-0.38.0.vsix";
+      sha256 = "sha256-3DIzynXYwyTeuEn4sk6gA4p+166Nzj8YKoNi9QfqFIs=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
@@ -14907,10 +14907,10 @@
   };
   sndst00m-starfall-visual-studio-code = {
     pname = "sndst00m-starfall-visual-studio-code";
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.0/file/sndst00m.starfall-visual-studio-code-0.5.0.vsix";
-      sha256 = "sha256-uL0DWz3Va3MA0vxjMYo0DzvL3FRWzSfH8PqXWoh2YyM=";
+      url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.1/file/sndst00m.starfall-visual-studio-code-0.5.1.vsix";
+      sha256 = "sha256-+aNG/Xi4eKipVNupe4uxT/ZPg/t1dmXZSUIphvBVVLM=";
     };
     name = "starfall-visual-studio-code";
     license = "MIT";
