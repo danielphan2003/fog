@@ -9253,6 +9253,18 @@
     publisher = "jerrygoyal";
     description = "Add handy buttons like beautify, show opened files, save, toggle terminal, activity bar etc to editor menu bar. User-defined buttons are also possible.";
   };
+  jetmartin-apicurio = {
+    pname = "jetmartin-apicurio";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.1/file/jetmartin.apicurio-0.0.1.vsix";
+      sha256 = "sha256-T8Dj6K6eOEgeICjkb3OyEWK2CITljejlj9v3dSEasKg=";
+    };
+    name = "apicurio";
+    license = "MIT";
+    publisher = "jetmartin";
+    description = "Explore Apicurio registry content.";
+  };
   jetmartin-bats = {
     pname = "jetmartin-bats";
     version = "0.1.8";
@@ -13047,10 +13059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.1";
+    version = "0.25.257";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.1/file/pokey.cursorless-0.25.1.vsix";
-      sha256 = "sha256-pdaiXE5oeElosDLJWwfXD9TYP1JaLb7BIPpi0qoEbfY=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.257/file/pokey.cursorless-0.25.257.vsix";
+      sha256 = "sha256-WtjbyMHJADRoR/VJOP6sA9xtO0FC0ohhCB7/riTUhiA=";
     };
     name = "cursorless";
     license = "MIT";
