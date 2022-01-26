@@ -4647,10 +4647,10 @@
   };
   atlassian-atlascode = {
     pname = "atlassian-atlascode";
-    version = "2.10.5";
+    version = "2.10.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.5/file/atlassian.atlascode-2.10.5.vsix";
-      sha256 = "sha256-H5JMgRL75KvxB/fkP2XoGPnrD1bO3U7RkRlZAhfBTHc=";
+      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.6/file/atlassian.atlascode-2.10.6.vsix";
+      sha256 = "sha256-THhrliW3nOWCFGC+0hiysPPZFXZqO2coifeN7BYc95E=";
     };
     name = "atlascode";
     license = "MIT";
