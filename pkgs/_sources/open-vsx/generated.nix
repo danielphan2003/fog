@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.558";
+    version = "31.0.561";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.558/file/Prisma.prisma-insider-31.0.558.vsix";
-      sha256 = "sha256-c4xA4iNXP3ymPtR5kwL/XLW+apt7JX6uu/hy7o4mVgw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.561/file/Prisma.prisma-insider-31.0.561.vsix";
+      sha256 = "sha256-LUbNheIJ6hYlLKqlc1RIa+qcRqlW7G+dRSxH99GnFMo=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9795,10 +9795,10 @@
   };
   kie-group-vscode-extension-kogito-bundle = {
     pname = "kie-group-vscode-extension-kogito-bundle";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.15.0/file/kie-group.vscode-extension-kogito-bundle-0.15.0.vsix";
-      sha256 = "sha256-z1bocmvvQwnvSs5xdLyuRYUjlicBUMOK1rTWmX9pufA=";
+      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.16.0/file/kie-group.vscode-extension-kogito-bundle-0.16.0.vsix";
+      sha256 = "sha256-b57hlxfz19P7UVjbvZ/BwhbyP1DiJuQEjXC9adnh+Cg=";
     };
     name = "vscode-extension-kogito-bundle";
     license = "Apache-2.0";
@@ -13587,10 +13587,10 @@
   };
   redhat-vscode-extension-bpmn-editor = {
     pname = "redhat-vscode-extension-bpmn-editor";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.15.0/file/redhat.vscode-extension-bpmn-editor-0.15.0.vsix";
-      sha256 = "sha256-W6GzlB8VPAx0rNgKXRS68oGyqBZ/qLJsVKbs5snD678=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.16.0/file/redhat.vscode-extension-bpmn-editor-0.16.0.vsix";
+      sha256 = "sha256-asB+QxF/UDqQp6DjAAhDuoFuwyZLVgW6brf4B4D4Bb0=";
     };
     name = "vscode-extension-bpmn-editor";
     license = "Apache-2.0";
@@ -13599,10 +13599,10 @@
   };
   redhat-vscode-extension-dmn-editor = {
     pname = "redhat-vscode-extension-dmn-editor";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.15.0/file/redhat.vscode-extension-dmn-editor-0.15.0.vsix";
-      sha256 = "sha256-xMibgfDTkusXD4r1PjQ3g2r/o/FxXGdR/30ma2HbRPo=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.16.0/file/redhat.vscode-extension-dmn-editor-0.16.0.vsix";
+      sha256 = "sha256-hhAWSj1bhZ/2Zhh/6dsoNXIgCsy8n6Mn4IHoZ21dW+8=";
     };
     name = "vscode-extension-dmn-editor";
     license = "Apache-2.0";
@@ -13611,10 +13611,10 @@
   };
   redhat-vscode-extension-pmml-editor = {
     pname = "redhat-vscode-extension-pmml-editor";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.15.0/file/redhat.vscode-extension-pmml-editor-0.15.0.vsix";
-      sha256 = "sha256-ogn+1EhdPNhG2xjccsMeM0LgzxdWhNXoO2xtAFhPuds=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.16.0/file/redhat.vscode-extension-pmml-editor-0.16.0.vsix";
+      sha256 = "sha256-8B6vWNk26WAuNGr4MafB5E6QuuHFfABXKk5dP3ZvMEI=";
     };
     name = "vscode-extension-pmml-editor";
     license = "Apache-2.0";
@@ -13623,10 +13623,10 @@
   };
   redhat-vscode-extension-red-hat-business-automation-bundle = {
     pname = "redhat-vscode-extension-red-hat-business-automation-bundle";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.15.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.15.0.vsix";
-      sha256 = "sha256-XLZy7V79toqPFdo5auOI5wMbiUtVlopOEWthlb02NCw=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.16.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.16.0.vsix";
+      sha256 = "sha256-KCNl+GzCZg1UGNrWX3k1uxXqWTwtHXZCV4TrV3KEGoc=";
     };
     name = "vscode-extension-red-hat-business-automation-bundle";
     license = "Apache-2.0";
@@ -15744,6 +15744,18 @@
     license = "MIT";
     publisher = "theangryepicbanana";
     description = "High-quality Pascal highlighting";
+  };
+  theo-coder-the-best-theme = {
+    pname = "theo-coder-the-best-theme";
+    version = "2.1.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/theo-coder/the-best-theme/2.1.3/file/theo-coder.the-best-theme-2.1.3.vsix";
+      sha256 = "sha256-F4zCNSL4BVMCXVFPUAPrvaVc0CX6VvuKl1G7g1MWXnY=";
+    };
+    name = "the-best-theme";
+    license = "MIT";
+    publisher = "theo-coder";
+    description = "The one and only theme for VS Code";
   };
   thingalon-pony-ssh = {
     pname = "thingalon-pony-ssh";
