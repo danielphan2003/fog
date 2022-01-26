@@ -2187,10 +2187,10 @@
   };
   ModestExtensionTeam-modestextension = {
     pname = "ModestExtensionTeam-modestextension";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModestExtensionTeam/modestextension/0.0.8/file/ModestExtensionTeam.modestextension-0.0.8.vsix";
-      sha256 = "sha256-O6ha2TjIZRCNdD6449HW3I1+XtqQPwB7k+x7JZrLZjM=";
+      url = "https://open-vsx.org/api/ModestExtensionTeam/modestextension/0.0.9/file/ModestExtensionTeam.modestextension-0.0.9.vsix";
+      sha256 = "sha256-4YWgMIGeyGwyDAB3KdDx79zxDYEjNFiGdMMdvklJEPM=";
     };
     name = "modestextension";
     license = "MIT";
