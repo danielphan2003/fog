@@ -10095,10 +10095,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.0.5";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.5/file/kubescape.kubescape-0.0.5.vsix";
-      sha256 = "sha256-0egKCbwWZjDCiSg8qh60+1jKmb3sTvO6/b2EIldFYZw=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.7/file/kubescape.kubescape-0.0.7.vsix";
+      sha256 = "sha256-CpoXrO8R+MFjaC24afXHz+oEpeB9lSvnDWru1ifb31M=";
     };
     name = "kubescape";
     license = "Apache";
