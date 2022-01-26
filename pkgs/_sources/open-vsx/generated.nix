@@ -2343,10 +2343,10 @@
   };
   PKief-markdown-checkbox = {
     pname = "PKief-markdown-checkbox";
-    version = "1.7.1";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/markdown-checkbox/1.7.1/file/PKief.markdown-checkbox-1.7.1.vsix";
-      sha256 = "sha256-6+KTXVAX4RAeIQT7WEFmNpGNO4ylAUUFgudWXNbEclo=";
+      url = "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.0/file/PKief.markdown-checkbox-1.8.0.vsix";
+      sha256 = "sha256-e0lku9cGgfSMCk2mgowsPPtCVmkE92fgC3AZWYW87qc=";
     };
     name = "markdown-checkbox";
     license = "MIT";
@@ -4791,10 +4791,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.0.4";
+    version = "6.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.0.4/file/barjo.anirak-6.0.4.vsix";
-      sha256 = "sha256-Ul2EyeaQ/7W1UcERqhJgK9AqxKFlgKrhVd8lsrtcu2k=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.1.0/file/barjo.anirak-6.1.0.vsix";
+      sha256 = "sha256-4LD/SfHKiG6jZZBrmZDRishW63U7GnGbBay6mph/k/E=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -10227,10 +10227,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1642964737";
+    version = "2022.1.1643236936";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1642964737/file/launchdarklyofficial.launchdarkly-beta-2022.1.1642964737.vsix";
-      sha256 = "sha256-YjkLpOUkvOY7YG31751OXi8nZ/zBHNriMwL7vepbeDE=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1643236936/file/launchdarklyofficial.launchdarkly-beta-2022.1.1643236936.vsix";
+      sha256 = "sha256-xIAFdIbYv1mZXdjcbUy66qS4VEVhvRlzdUlWqtm1wlk=";
     };
     name = "launchdarkly-beta";
     license = "";
