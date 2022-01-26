@@ -8187,10 +8187,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.4.3";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.4.3/file/halcyontechltd.vscode-rpgle-0.4.3.vsix";
-      sha256 = "sha256-zVJUG/zp/gml3PaUdZRbbNI7BofxrWyUYzqCOX3XBBo=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.0/file/halcyontechltd.vscode-rpgle-0.5.0.vsix";
+      sha256 = "sha256-nYMTgH+JP1dicYqZT4tAJD+Ot6bBh0uuMvxXkm/q9z0=";
     };
     name = "vscode-rpgle";
     license = "MIT";
