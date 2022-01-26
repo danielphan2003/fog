@@ -3363,10 +3363,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.8.1";
+    version = "9.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.8.1/file/YXL.cloudmusic-9.8.1.vsix";
-      sha256 = "sha256-VBJeAz1XU0XIFe+NHhZNwotNDOljLZaAEo/J7pnSVgM=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.8.2/file/YXL.cloudmusic-9.8.2.vsix";
+      sha256 = "sha256-SnGBmgqCXRetYH2+xigjV8dYjDwY19/5Nt52e9QtNwk=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -13851,10 +13851,10 @@
   };
   robert-brunhage-flutter-riverpod-snippets = {
     pname = "robert-brunhage-flutter-riverpod-snippets";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robert-brunhage/flutter-riverpod-snippets/1.0.2/file/robert-brunhage.flutter-riverpod-snippets-1.0.2.vsix";
-      sha256 = "sha256-fMxHB7R2MhugIGdKl5VapzHhOpt23vmKpcAa8a4WdAc=";
+      url = "https://open-vsx.org/api/robert-brunhage/flutter-riverpod-snippets/1.1.0/file/robert-brunhage.flutter-riverpod-snippets-1.1.0.vsix";
+      sha256 = "sha256-bpvSIr6jk8irj0JlEWuuOu88fIv2wzLjAPASw6H+Mss=";
     };
     name = "flutter-riverpod-snippets";
     license = "MIT";
