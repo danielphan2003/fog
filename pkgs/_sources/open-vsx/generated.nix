@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.561";
+    version = "31.0.562";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.561/file/Prisma.prisma-insider-31.0.561.vsix";
-      sha256 = "sha256-LUbNheIJ6hYlLKqlc1RIa+qcRqlW7G+dRSxH99GnFMo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.562/file/Prisma.prisma-insider-31.0.562.vsix";
+      sha256 = "sha256-2B9bKZPNwcEvVwSfOfGkhE3bOobXvFqd2tJrLYz8zm4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12387,10 +12387,10 @@
   };
   omBratteng-nftables = {
     pname = "omBratteng-nftables";
-    version = "0.4.4";
+    version = "0.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/omBratteng/nftables/0.4.4/file/omBratteng.nftables-0.4.4.vsix";
-      sha256 = "sha256-smmVSIHZdEpcTTp01vpxDu7rdSvbtZylH3TWKXWhmOc=";
+      url = "https://open-vsx.org/api/omBratteng/nftables/0.4.5/file/omBratteng.nftables-0.4.5.vsix";
+      sha256 = "sha256-fmR4UJ08W6thGgicy4UrgzPtZHoLXmbNX5NirP6eZwI=";
     };
     name = "nftables";
     license = "";
