@@ -4287,10 +4287,10 @@
   };
   anweber-httpbook-monacorenderer = {
     pname = "anweber-httpbook-monacorenderer";
-    version = "2.0.0";
+    version = "2.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook-monacorenderer/2.0.0/file/anweber.httpbook-monacorenderer-2.0.0.vsix";
-      sha256 = "sha256-UrqTg+4EhnwhIphGD6Kbck78nBkgBSOaWu/L6l0lBIc=";
+      url = "https://open-vsx.org/api/anweber/httpbook-monacorenderer/2.0.1/file/anweber.httpbook-monacorenderer-2.0.1.vsix";
+      sha256 = "sha256-ie6dh6+m6HkewGuXkUPCsqHbRnw1stJNBDYCTYow8SA=";
     };
     name = "httpbook-monacorenderer";
     license = "MIT";
@@ -11067,10 +11067,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.5.2";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.5.2/file/mintlify.document-1.5.2.vsix";
-      sha256 = "sha256-pi37S2Llp0QVQU3LgHohaDshPjGdEEkvshKNjABRVZA=";
+      url = "https://open-vsx.org/api/mintlify/document/1.6.0/file/mintlify.document-1.6.0.vsix";
+      sha256 = "sha256-CPXnL+gT5VXngpOguwGG/i/XEJej7prkJs80ZhDEL6M=";
     };
     name = "document";
     license = "Apache-2.0";
