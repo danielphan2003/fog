@@ -4803,10 +4803,10 @@
   };
   barrettotte-ibmi-languages = {
     pname = "barrettotte-ibmi-languages";
-    version = "0.6.2";
+    version = "0.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.2/file/barrettotte.ibmi-languages-0.6.2.vsix";
-      sha256 = "sha256-y2X2c24vMg29FXJR+iCrNoXaJ/aEoijhM0wPnsnBk6g=";
+      url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.3/file/barrettotte.ibmi-languages-0.6.3.vsix";
+      sha256 = "sha256-gwb9I4gZhHDGoLYzEX2SuMmV6RGHEIZCmzOVBYszD/g=";
     };
     name = "ibmi-languages";
     license = "MIT";
@@ -8847,10 +8847,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.17";
+    version = "0.14.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.17/file/iljapostnovs.ui5plugin-0.14.17.vsix";
-      sha256 = "sha256-w44FLqdqBpBk0baNwcTjHIpW1InzbOccY1PESbrtgxo=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.18/file/iljapostnovs.ui5plugin-0.14.18.vsix";
+      sha256 = "sha256-MgH8DyDziv/4VF/K/qPbPjqvlBnAGOl0+i4EQwUCz2c=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
