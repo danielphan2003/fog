@@ -6015,10 +6015,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.4.6";
+    version = "0.4.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.6/file/d-biehl.robotcode-0.4.6.vsix";
-      sha256 = "sha256-Ysa5yWn5jRIGOiMiONvcbnacrv3mg76WCJ0YULZGsic=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.9/file/d-biehl.robotcode-0.4.9.vsix";
+      sha256 = "sha256-+Y19cTG1HwBUsHyZQVtQXk3cgdeHoS/Z8bJzvLO2RaY=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -9255,10 +9255,10 @@
   };
   jetmartin-apicurio = {
     pname = "jetmartin-apicurio";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.1/file/jetmartin.apicurio-0.0.1.vsix";
-      sha256 = "sha256-T8Dj6K6eOEgeICjkb3OyEWK2CITljejlj9v3dSEasKg=";
+      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.2/file/jetmartin.apicurio-0.0.2.vsix";
+      sha256 = "sha256-aHEUcXaj20ivvc/n+GknuUvwW9+QMss78L6RbB8miPU=";
     };
     name = "apicurio";
     license = "MIT";
@@ -13059,10 +13059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.257";
+    version = "0.25.259";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.257/file/pokey.cursorless-0.25.257.vsix";
-      sha256 = "sha256-WtjbyMHJADRoR/VJOP6sA9xtO0FC0ohhCB7/riTUhiA=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.259/file/pokey.cursorless-0.25.259.vsix";
+      sha256 = "sha256-TBLXtZwrS3WnpPV8wL7OvhYd541X14RVFwtv76P8ZeA=";
     };
     name = "cursorless";
     license = "MIT";
