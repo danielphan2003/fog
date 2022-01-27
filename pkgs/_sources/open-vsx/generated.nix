@@ -4263,10 +4263,10 @@
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
-    version = "2.2.1";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/2.2.1/file/anweber.httpbook-2.2.1.vsix";
-      sha256 = "sha256-WX9erNf94YsBBAEO8VFYmqAP0rMoHDIKeZqni+OPA9M=";
+      url = "https://open-vsx.org/api/anweber/httpbook/2.2.2/file/anweber.httpbook-2.2.2.vsix";
+      sha256 = "sha256-UGuWcPDtv3I7y5szNmTH/5X2uwY+rWhAyXudDxWseAY=";
     };
     name = "httpbook";
     license = "MIT";
@@ -4323,10 +4323,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "4.9.1";
+    version = "4.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.9.1/file/anweber.vscode-httpyac-4.9.1.vsix";
-      sha256 = "sha256-Ff3XSFLIlpk5OswJTPzMy6Gh0nXeVLPbQdW0dvT4kO4=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.0/file/anweber.vscode-httpyac-4.10.0.vsix";
+      sha256 = "sha256-RNzvZK4BmI6wMuXg32oaGdY+DgiT9mrwyoQEZvG7cqY=";
     };
     name = "vscode-httpyac";
     license = "MIT";
