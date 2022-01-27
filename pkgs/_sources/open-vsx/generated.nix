@@ -13887,10 +13887,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.38.0";
+    version = "0.38.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.38.0/file/robocorp.robotframework-lsp-0.38.0.vsix";
-      sha256 = "sha256-3DIzynXYwyTeuEn4sk6gA4p+166Nzj8YKoNi9QfqFIs=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.38.1/file/robocorp.robotframework-lsp-0.38.1.vsix";
+      sha256 = "sha256-WxF2WrtsF9ge7Ufx13s2B6T2asp0g4LOD2715KJZc0M=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
