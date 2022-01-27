@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.563";
+    version = "31.0.564";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.563/file/Prisma.prisma-insider-31.0.563.vsix";
-      sha256 = "sha256-jKszWI41j7y9fjrkKqvp7Oqz8ffcJ4jh4J06X7ZuVl8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.564/file/Prisma.prisma-insider-31.0.564.vsix";
+      sha256 = "sha256-PZX9SFLzqAhb0gZON6+NGVPdnuNfNa9C+NuBfOxUKoQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5775,10 +5775,10 @@
   };
   crystal-lang-tools-crystal-lang = {
     pname = "crystal-lang-tools-crystal-lang";
-    version = "0.8.3";
+    version = "0.8.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/crystal-lang-tools/crystal-lang/0.8.3/file/crystal-lang-tools.crystal-lang-0.8.3.vsix";
-      sha256 = "sha256-EUbU3tgOeyRx4RHCvB5yBZ4I5LPxcQlFPb8YROlKXeA=";
+      url = "https://open-vsx.org/api/crystal-lang-tools/crystal-lang/0.8.4/file/crystal-lang-tools.crystal-lang-0.8.4.vsix";
+      sha256 = "sha256-sB74Vhw3Cm9lCxdjcF5C+E3xtrNKE635ogwffBDtESI=";
     };
     name = "crystal-lang";
     license = "MIT";
@@ -10227,10 +10227,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1643236936";
+    version = "2022.1.1643293867";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1643236936/file/launchdarklyofficial.launchdarkly-beta-2022.1.1643236936.vsix";
-      sha256 = "sha256-xIAFdIbYv1mZXdjcbUy66qS4VEVhvRlzdUlWqtm1wlk=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1643293867/file/launchdarklyofficial.launchdarkly-beta-2022.1.1643293867.vsix";
+      sha256 = "sha256-G2iyUtpFh8uTn7vUaG+i7d3WulyeDuowBAXWpXIBrWY=";
     };
     name = "launchdarkly-beta";
     license = "";
@@ -13059,10 +13059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.259";
+    version = "0.25.261";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.259/file/pokey.cursorless-0.25.259.vsix";
-      sha256 = "sha256-TBLXtZwrS3WnpPV8wL7OvhYd541X14RVFwtv76P8ZeA=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.261/file/pokey.cursorless-0.25.261.vsix";
+      sha256 = "sha256-GQurX7LoP74weI4HJ0SjHmeOw4SykSlCJ4mLqw2of1A=";
     };
     name = "cursorless";
     license = "MIT";
