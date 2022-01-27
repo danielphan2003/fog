@@ -5775,10 +5775,10 @@
   };
   crystal-lang-tools-crystal-lang = {
     pname = "crystal-lang-tools-crystal-lang";
-    version = "0.8.2";
+    version = "0.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/crystal-lang-tools/crystal-lang/0.8.2/file/crystal-lang-tools.crystal-lang-0.8.2.vsix";
-      sha256 = "sha256-xvDU2/YwZqgtq1sPO5JMlAo866PALnpHDmX4BC7eMEg=";
+      url = "https://open-vsx.org/api/crystal-lang-tools/crystal-lang/0.8.3/file/crystal-lang-tools.crystal-lang-0.8.3.vsix";
+      sha256 = "sha256-EUbU3tgOeyRx4RHCvB5yBZ4I5LPxcQlFPb8YROlKXeA=";
     };
     name = "crystal-lang";
     license = "MIT";
