@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.1.1";
+    version = "13.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.1.1/file/Angular.ng-template-13.1.1.vsix";
-      sha256 = "sha256-ZPFDQhqAxXrU2X3oyZLoLxDwjeWUXw1TQAlNjnMpm+M=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.2.0/file/Angular.ng-template-13.2.0.vsix";
+      sha256 = "sha256-qZovPLlTirHxWj6s84GheKsumhDjoLQRD6fXYwmXP1c=";
     };
     name = "ng-template";
     license = "MIT";
@@ -5379,10 +5379,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.2.0/file/chenglou92.rescript-vscode-1.2.0.vsix";
-      sha256 = "sha256-DX0LIFkz9vsMlUM2mEqc4Ln2caP6JzXPl9pxfB6RUPI=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.2.1/file/chenglou92.rescript-vscode-1.2.1.vsix";
+      sha256 = "sha256-G8aHEoHqjNqf6WUplePp1QWAN1CZSVBJpaSDkEL5Jf4=";
     };
     name = "rescript-vscode";
     license = "MIT";
@@ -7983,10 +7983,10 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.30.0";
+    version = "0.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.30.0/file/golang.Go-0.30.0.vsix";
-      sha256 = "sha256-7KdKxUgcRG9U/Q+E7ddFrM8vKOF0LYjXeiK6tVWE9Ho=";
+      url = "https://open-vsx.org/api/golang/Go/0.31.0/file/golang.Go-0.31.0.vsix";
+      sha256 = "sha256-49xrZGIhYs/9gg28mNjX78ndtzsCEH/7HiFn++XtgvQ=";
     };
     name = "Go";
     license = "MIT";
@@ -8391,10 +8391,10 @@
   };
   hirosystems-clarity-lsp = {
     pname = "hirosystems-clarity-lsp";
-    version = "0.6.0";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.6.0/file/hirosystems.clarity-lsp-0.6.0.vsix";
-      sha256 = "sha256-8okte/3i3d9jcp4b3SVQUBxG/XaQJvO8FGxGUJJq8A4=";
+      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.6.2/file/hirosystems.clarity-lsp-0.6.2.vsix";
+      sha256 = "sha256-ZAoWpsXO2Y61mAWh7GBE6jAZIt9lnAmisqkj45P+sXU=";
     };
     name = "clarity-lsp";
     license = "GPL-3.0-only";
