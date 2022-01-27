@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.562";
+    version = "31.0.563";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.562/file/Prisma.prisma-insider-31.0.562.vsix";
-      sha256 = "sha256-2B9bKZPNwcEvVwSfOfGkhE3bOobXvFqd2tJrLYz8zm4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.563/file/Prisma.prisma-insider-31.0.563.vsix";
+      sha256 = "sha256-jKszWI41j7y9fjrkKqvp7Oqz8ffcJ4jh4J06X7ZuVl8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6015,10 +6015,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.4.9";
+    version = "0.4.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.9/file/d-biehl.robotcode-0.4.9.vsix";
-      sha256 = "sha256-+Y19cTG1HwBUsHyZQVtQXk3cgdeHoS/Z8bJzvLO2RaY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.10/file/d-biehl.robotcode-0.4.10.vsix";
+      sha256 = "sha256-UFqM77HBa6gFtHPq0irdrl9ratZutDMK8C1MS3Ceo6Q=";
     };
     name = "robotcode";
     license = "Apache-2.0";
