@@ -9037,18 +9037,6 @@
     publisher = "itspngu";
     description = "Provides jsonnet formatting support for VScode/VScodium.";
   };
-  itspngu-jsonnet-formatter = {
-    pname = "itspngu-jsonnet-formatter";
-    version = "0.4.0";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/itspngu/jsonnet-formatter/0.4.0/file/itspngu.jsonnet-formatter-0.4.0.vsix";
-      sha256 = "sha256-6Nua3wumBZ0wsZLt0wlIHjXZIZLGK8Yzo7xxCIZP9YQ=";
-    };
-    name = "jsonnet-formatter";
-    license = "MIT";
-    publisher = "itspngu";
-    description = "Provide jsonnet vscode format support.";
-  };
   ivangabriele-vscode-git-add-and-commit = {
     pname = "ivangabriele-vscode-git-add-and-commit";
     version = "2.1.1";
@@ -13059,10 +13047,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.261";
+    version = "0.25.262";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.261/file/pokey.cursorless-0.25.261.vsix";
-      sha256 = "sha256-GQurX7LoP74weI4HJ0SjHmeOw4SykSlCJ4mLqw2of1A=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.262/file/pokey.cursorless-0.25.262.vsix";
+      sha256 = "sha256-grF5JlLv1FTTPMgdZYpRy61j/S9by2ul6/zke+d/qDU=";
     };
     name = "cursorless";
     license = "MIT";
