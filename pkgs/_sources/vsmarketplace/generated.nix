@@ -89,10 +89,10 @@
   };
   ms-vscode-cpptools = {
     pname = "ms-vscode-cpptools";
-    version = "1.7.1";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.7.1/cpptools-linux.vsix";
-      sha256 = "sha256-LqndG/vv8LgVPEX6dGkikDB6M6ISneo2UJ78izXVFbk=";
+      url = "https://github.com/microsoft/vscode-cpptools/releases/download/1.8.1/cpptools-linux.vsix";
+      sha256 = "sha256-iBk7C5Ksg5G79qQ6LdESjoBWTWdVoPts/JgcYEWyB4w=";
     };
     name = "cpptools";
     license = "MIT";
