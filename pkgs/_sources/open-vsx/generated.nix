@@ -2547,10 +2547,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.565";
+    version = "31.0.566";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.565/file/Prisma.prisma-insider-31.0.565.vsix";
-      sha256 = "sha256-DP0JSyfOqKDAIO3qD+SCkvhWqCtTF8yYSpkdeBV76KU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.566/file/Prisma.prisma-insider-31.0.566.vsix";
+      sha256 = "sha256-z1a4fod+jaCV0e5SoH9hUNIK8Hj89uCom/Jjvr9c06U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6795,10 +6795,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.46.0";
+    version = "0.48.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.46.0/file/edukera.archetype-0.46.0.vsix";
-      sha256 = "sha256-0vQqOtV4Vil7rhaNyDS1OXkjFsgdnGk0TPJANkzbAzY=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.48.0/file/edukera.archetype-0.48.0.vsix";
+      sha256 = "sha256-0uHj4KujuM2XQEQxQWwCOXQIHgLUUr0uLK6WUjCka7g=";
     };
     name = "archetype";
     license = "MIT";
@@ -18048,6 +18048,18 @@
     license = "MIT";
     publisher = "wholroyd";
     description = "Jinja template language support for Visual Studio Code";
+  };
+  wicked-labs-wvsc-serendipity = {
+    pname = "wicked-labs-wvsc-serendipity";
+    version = "0.90.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wicked-labs/wvsc-serendipity/0.90.0/file/wicked-labs.wvsc-serendipity-0.90.0.vsix";
+      sha256 = "sha256-+WEwgh9dilGthJqr0xnbMScPlBn4AU6/ARQWzajqXEw=";
+    };
+    name = "wvsc-serendipity";
+    license = "MIT";
+    publisher = "wicked-labs";
+    description = "Elegant, minimal, and clean color palette to give your eyes rest on different interfaces.";
   };
   wingrunr21-vscode-ruby = {
     pname = "wingrunr21-vscode-ruby";
