@@ -12507,10 +12507,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.44";
+    version = "0.13.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.44/file/oraichain.cosmwasm-ide-0.13.44.vsix";
-      sha256 = "sha256-mYGiVULYE01ntI3WMKeCK8XxXQYqyNP4DZAp21+gETo=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.45/file/oraichain.cosmwasm-ide-0.13.45.vsix";
+      sha256 = "sha256-GR5qUCsoJG1E2o8AkWBjZLnH0DmEawVrRgXk6brO+j8=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
@@ -18423,10 +18423,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.18";
+    version = "0.1.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.18/file/zardoy.better-snippets-0.1.18.vsix";
-      sha256 = "sha256-8VoEDKk6lwM+mM4M5W5zKbnLnYsgN41FJGuGe2Z2YGU=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.19/file/zardoy.better-snippets-0.1.19.vsix";
+      sha256 = "sha256-AAvu9jBHiUyq30U1gjM8/2PJwmGcwZP55KJ4r01PtaE=";
     };
     name = "better-snippets";
     license = "MIT";
