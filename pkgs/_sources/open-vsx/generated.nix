@@ -2859,10 +2859,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.2618";
+    version = "2022.1.2722";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2618/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2618.vsix";
-      sha256 = "sha256-TIsjuXWwahbELk9WuPlY1sV+g+ipuHWOFgRy2t+2j3c=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2722/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2722.vsix";
+      sha256 = "sha256-eA9Ud6xNYNp+NnSMMI/2CKdEZRYaliSNiK/YigGvX9I=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -10635,10 +10635,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "1.2.1";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/1.2.1/file/marus25.cortex-debug-1.2.1.vsix";
-      sha256 = "sha256-8G7DUthZCy6bEzryk6sDL0ORq6/3/kpiiPdkCfEW3Vg=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.3.0/file/marus25.cortex-debug-1.3.0.vsix";
+      sha256 = "sha256-tGvZwu2cSJlhVpKb9z0pGcSW0svixgEkIda/3S5HlyE=";
     };
     name = "cortex-debug";
     license = "MIT";
@@ -11499,10 +11499,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.64.1";
+    version = "1.64.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.64.1/file/ms-vscode.js-debug-1.64.1.vsix";
-      sha256 = "sha256-iGOHmQ8ob6dIQXMnSSYI6s/0fAn6kiGulgovs3jY24w=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.64.2/file/ms-vscode.js-debug-1.64.2.vsix";
+      sha256 = "sha256-qsoCBq59JNmtQWmsINVKUfhV857oInENiQA+abbINrQ=";
     };
     name = "js-debug";
     license = "MIT";
@@ -16455,10 +16455,10 @@
   };
   vhdlwhiz-vhdl-by-vhdlwhiz = {
     pname = "vhdlwhiz-vhdl-by-vhdlwhiz";
-    version = "1.2.14";
+    version = "1.2.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vhdlwhiz/vhdl-by-vhdlwhiz/1.2.14/file/vhdlwhiz.vhdl-by-vhdlwhiz-1.2.14.vsix";
-      sha256 = "sha256-W3WcieY7jvWG2JEJ/OweHZWi+txsKHbsXUrjuMBmaRo=";
+      url = "https://open-vsx.org/api/vhdlwhiz/vhdl-by-vhdlwhiz/1.2.15/file/vhdlwhiz.vhdl-by-vhdlwhiz-1.2.15.vsix";
+      sha256 = "sha256-1Z015FoNysMDTNE9jC8iB5f90M0Vhvr93ejIdNlvtH8=";
     };
     name = "vhdl-by-vhdlwhiz";
     license = "MIT License";
@@ -17799,10 +17799,10 @@
   };
   vshaxe-haxe-test-adapter = {
     pname = "vshaxe-haxe-test-adapter";
-    version = "1.2.10";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/1.2.10/file/vshaxe.haxe-test-adapter-1.2.10.vsix";
-      sha256 = "sha256-uujYuLIRDaTZbnmjNXffAWHhp7MPNQdJ0Fr/g/06+xo=";
+      url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.0/file/vshaxe.haxe-test-adapter-2.0.0.vsix";
+      sha256 = "sha256-4cRclnyF/bpAAPp8fhg8wdp9v/QNBb73jrsn00w+0UY=";
     };
     name = "haxe-test-adapter";
     license = "MIT";
