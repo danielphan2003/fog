@@ -15675,10 +15675,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.7.3";
+    version = "1.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.3/file/tfsec.tfsec-1.7.3.vsix";
-      sha256 = "sha256-Fky1sXN1U3Al4Il39+KaWplq9lnlQ5OXqLPOFt3WVIc=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.4/file/tfsec.tfsec-1.7.4.vsix";
+      sha256 = "sha256-SC1vUuWVN9bbO6Ce13mdDvEP2wKXmM+2/hwUqpJ/fO0=";
     };
     name = "tfsec";
     license = "MIT";
