@@ -1035,10 +1035,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "5.1.0";
+    version = "5.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/5.1.0/file/GitHub.github-vscode-theme-5.1.0.vsix";
-      sha256 = "sha256-ZejZ5lzc8uaQhqcfFa66ImasG508/G27Y04n9tw7zvE=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.0/file/GitHub.github-vscode-theme-5.2.0.vsix";
+      sha256 = "sha256-+zVlkm2647fLFHjsumwa0CcLNO+V5rGfpRwg6JsV2r0=";
     };
     name = "github-vscode-theme";
     license = "MIT";
@@ -8163,10 +8163,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.24";
+    version = "0.8.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.24/file/halcyontechltd.code-for-ibmi-0.8.24.vsix";
-      sha256 = "sha256-furyUg+naX+zUp5l9DJrqU7aKZKJrX7VlvLxsgtp3tE=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.25/file/halcyontechltd.code-for-ibmi-0.8.25.vsix";
+      sha256 = "sha256-/WARUMHeudnGcbdkFxMwzHBpJ/0bZhaYGBqAVNAOaOE=";
     };
     name = "code-for-ibmi";
     license = "MIT";
