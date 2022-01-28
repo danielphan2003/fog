@@ -8847,10 +8847,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.18";
+    version = "0.14.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.18/file/iljapostnovs.ui5plugin-0.14.18.vsix";
-      sha256 = "sha256-MgH8DyDziv/4VF/K/qPbPjqvlBnAGOl0+i4EQwUCz2c=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.19/file/iljapostnovs.ui5plugin-0.14.19.vsix";
+      sha256 = "sha256-TUNOEUn+bsqCLFD0kA6LFhnf/qTIxyk/uYnOcv/kL9U=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
