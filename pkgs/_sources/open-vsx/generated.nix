@@ -8187,10 +8187,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.2/file/halcyontechltd.vscode-rpgle-0.5.2.vsix";
-      sha256 = "sha256-/GoNfSA+Xu2Swh0fqXngYAV07XdMcmBU9LcNYNSIxt0=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.3/file/halcyontechltd.vscode-rpgle-0.5.3.vsix";
+      sha256 = "sha256-pIPbbYFLk4Iexi06963P25QMPrtc1oEqt8Dg8rPXLcI=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -18375,10 +18375,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.3.1/file/yuyichao.digitaljs-0.3.1.vsix";
-      sha256 = "sha256-HAeO6T/DIz422YL7rdCZOVJ84IIKy/wKsBm4rtIHL1Y=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.3.2/file/yuyichao.digitaljs-0.3.2.vsix";
+      sha256 = "sha256-vcEXIUiIeuOn/Uctj4/9iIRjhINambPflxo/zsByagQ=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
