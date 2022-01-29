@@ -15543,10 +15543,10 @@
   };
   svsool-markdown-memo = {
     pname = "svsool-markdown-memo";
-    version = "0.3.17";
+    version = "0.3.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.17/file/svsool.markdown-memo-0.3.17.vsix";
-      sha256 = "sha256-JyT/Cjmlslo/OosEuWnu67CHnklITR9oTUtLq/8vC/s=";
+      url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.18/file/svsool.markdown-memo-0.3.18.vsix";
+      sha256 = "sha256-HlHPG49glkB7Vkv+P7A5+1s047Q+VbRM7updy3bccbU=";
     };
     name = "markdown-memo";
     license = "MIT";
@@ -16119,10 +16119,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.37.1";
+    version = "0.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.37.1/file/tuttieee.emacs-mcx-0.37.1.vsix";
-      sha256 = "sha256-gVT0umq+iumSDXmppgK74JVnT85Kyx08pzIlUJOoAOg=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.38.0/file/tuttieee.emacs-mcx-0.38.0.vsix";
+      sha256 = "sha256-M90LkoLbUUTtzPK/TgmtTnwvumGX3mEv/d6j2CoIRn8=";
     };
     name = "emacs-mcx";
     license = "MIT";
