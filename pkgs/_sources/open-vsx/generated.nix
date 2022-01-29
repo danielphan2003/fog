@@ -2787,10 +2787,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "3.0.13";
+    version = "3.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.13/file/Sarrus.sourcepawn-vscode-3.0.13.vsix";
-      sha256 = "sha256-xKx6Oh8RJowEq2oQ93dNHxuErC+TLUqRm4/Yoxu+AuU=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.14/file/Sarrus.sourcepawn-vscode-3.0.14.vsix";
+      sha256 = "sha256-EXACvOL6i2dsmuToJ6R4Y0NJuwkEkYIl6hRK/i2DEC4=";
     };
     name = "sourcepawn-vscode";
     license = "MIT";
@@ -18387,10 +18387,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.3.3";
+    version = "0.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.3.3/file/yuyichao.digitaljs-0.3.3.vsix";
-      sha256 = "sha256-K97xZiRljH/Iebp1PoauTInuTlMsVxnarNkbWqWCy7w=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.3.4/file/yuyichao.digitaljs-0.3.4.vsix";
+      sha256 = "sha256-CcL0AE63QETUkwNASror9si1EEIUTvhY6FLKOSJ+qz8=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
