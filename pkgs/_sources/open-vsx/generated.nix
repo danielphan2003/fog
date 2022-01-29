@@ -2859,10 +2859,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.1.2722";
+    version = "2022.1.2820";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2722/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2722.vsix";
-      sha256 = "sha256-eA9Ud6xNYNp+NnSMMI/2CKdEZRYaliSNiK/YigGvX9I=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.1.2820/file/SixtyFPS.sixtyfps-vscode-nightly-2022.1.2820.vsix";
+      sha256 = "sha256-49PccZkB8TEBlzF9murW0MiWR8ifhQTxrZC1cTA1bvA=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -11355,10 +11355,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.215";
+    version = "1.1.216";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.215/file/ms-pyright.pyright-1.1.215.vsix";
-      sha256 = "sha256-B8PCZT408vtSSoFHiyBnKYAfBTfhT2DLHHvpqyRVqmo=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.216/file/ms-pyright.pyright-1.1.216.vsix";
+      sha256 = "sha256-yMpIoxMlYXoVRIqOxR92i4FsbTC4r3t823whjmhR7Xc=";
     };
     name = "pyright";
     license = "MIT";
@@ -18603,10 +18603,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.16";
+    version = "3.13.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.16/file/zhuangtongfa.material-theme-3.13.16.vsix";
-      sha256 = "sha256-DI90h44ey70sw6UNl7lw4kqpfEKM2WMNNuHxvHe++OM=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.17/file/zhuangtongfa.material-theme-3.13.17.vsix";
+      sha256 = "sha256-znErBFs8XClVBHlYgLBnRu7AX1SF1XJSiDayiTgZkMc=";
     };
     name = "material-theme";
     license = "MIT";
