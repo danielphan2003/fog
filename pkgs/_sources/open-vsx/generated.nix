@@ -915,10 +915,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.4.0";
+    version = "3.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.4.0/file/F5DevCentral.vscode-f5-3.4.0.vsix";
-      sha256 = "sha256-twCSi9XT9BpjXLB0r7HN+hKK3pi9OWc/vzyU8T7BbS0=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.5.0/file/F5DevCentral.vscode-f5-3.5.0.vsix";
+      sha256 = "sha256-RDiN/zSyTsaUiXWLRw6LR3cNlM9C9d3rlUZy2GqmPWQ=";
     };
     name = "vscode-f5";
     license = "Apache-2.0";
@@ -3039,10 +3039,10 @@
   };
   Tchoupinax-tilt = {
     pname = "Tchoupinax-tilt";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Tchoupinax/tilt/1.0.8/file/Tchoupinax.tilt-1.0.8.vsix";
-      sha256 = "sha256-GAr0a3LbEInxo5OysEloCwkTk8pUllu8es9H2MAd5po=";
+      url = "https://open-vsx.org/api/Tchoupinax/tilt/1.0.9/file/Tchoupinax.tilt-1.0.9.vsix";
+      sha256 = "sha256-xK5rL5yRBO4+ZAPftmWtI7MxIhjQ/JBBRBky8ogg7BE=";
     };
     name = "tilt";
     license = "";
