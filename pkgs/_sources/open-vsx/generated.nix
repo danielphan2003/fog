@@ -13047,10 +13047,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.262";
+    version = "0.25.263";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.262/file/pokey.cursorless-0.25.262.vsix";
-      sha256 = "sha256-grF5JlLv1FTTPMgdZYpRy61j/S9by2ul6/zke+d/qDU=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.263/file/pokey.cursorless-0.25.263.vsix";
+      sha256 = "sha256-7neBZCd4rioIsLMibt9RwGe0D0kUXzvVzMNJpolBfTc=";
     };
     name = "cursorless";
     license = "MIT";
