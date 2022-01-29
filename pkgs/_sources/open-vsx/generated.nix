@@ -1117,6 +1117,18 @@
     publisher = "GreenXenith";
     description = "Useful tools for Minetest developers.";
   };
+  Greenbyte-handlebars-preview = {
+    pname = "Greenbyte-handlebars-preview";
+    version = "1.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Greenbyte/handlebars-preview/1.1.2/file/Greenbyte.handlebars-preview-1.1.2.vsix";
+      sha256 = "sha256-0vcdR1ukF8ZFS6AwNHZq9BcMmBYWkJeyx0ENjWyEv4A=";
+    };
+    name = "handlebars-preview";
+    license = "MIT";
+    publisher = "Greenbyte";
+    description = "Preview Handlebars files in VS Code with custom data";
+  };
   Gruntfuggly-activitusbar = {
     pname = "Gruntfuggly-activitusbar";
     version = "0.0.46";
@@ -6171,10 +6183,10 @@
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.6.1/file/davelopez.galaxy-tools-0.6.1.vsix";
-      sha256 = "sha256-GyqeMP5IK46QMBF9IJXWf7igqg3aBmYZL9rbb+Nry08=";
+      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.0/file/davelopez.galaxy-tools-0.7.0.vsix";
+      sha256 = "sha256-hrUbUqGYFCrGB3qLAhg/hNEYCCqw3SalZ9XXlrdRzhY=";
     };
     name = "galaxy-tools";
     license = "Apache-2.0";
