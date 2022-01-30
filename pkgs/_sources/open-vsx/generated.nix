@@ -7059,10 +7059,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.1.0";
+    version = "9.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.1.0/file/esbenp.prettier-vscode-9.1.0.vsix";
-      sha256 = "sha256-zPg6X2ru94ophaOYacXlKgUUEWtrauyWyAa1PtXO7QI=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.2.0/file/esbenp.prettier-vscode-9.2.0.vsix";
+      sha256 = "sha256-0dEzt2uIjmMbrGUHYw7/6v4P+ed7C8cP6kt/eGLI3PQ=";
     };
     name = "prettier-vscode";
     license = "MIT";
@@ -8175,10 +8175,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.26";
+    version = "0.8.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.26/file/halcyontechltd.code-for-ibmi-0.8.26.vsix";
-      sha256 = "sha256-Wf15Ftds98uHg9NjE+oA9cOU3tjTKwDN32o3GbDoJjU=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.27/file/halcyontechltd.code-for-ibmi-0.8.27.vsix";
+      sha256 = "sha256-VPOeqJMnbfCiysnstW0W2JMon/Afh0N5HhUf5/HGzcA=";
     };
     name = "code-for-ibmi";
     license = "MIT";
