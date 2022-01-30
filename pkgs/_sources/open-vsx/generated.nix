@@ -14907,10 +14907,10 @@
   };
   sndst00m-starfall-visual-studio-code = {
     pname = "sndst00m-starfall-visual-studio-code";
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.1/file/sndst00m.starfall-visual-studio-code-0.5.1.vsix";
-      sha256 = "sha256-+aNG/Xi4eKipVNupe4uxT/ZPg/t1dmXZSUIphvBVVLM=";
+      url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.2/file/sndst00m.starfall-visual-studio-code-0.5.2.vsix";
+      sha256 = "sha256-aNpWsZZAmVmhaWJUa2qLZUYZ+VfoWRKuEehkIKHu+8c=";
     };
     name = "starfall-visual-studio-code";
     license = "MIT";
@@ -18387,10 +18387,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.4.0/file/yuyichao.digitaljs-0.4.0.vsix";
-      sha256 = "sha256-1LfvWZxy8lM4r+Dl3AGPJCa8uBIXDdQidXeTexs9+mE=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.0/file/yuyichao.digitaljs-0.5.0.vsix";
+      sha256 = "sha256-4OcePLxr4Kx4rNRrRwmqIju+aJmHmGER7kjKjl0W2+c=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
