@@ -15111,10 +15111,10 @@
   };
   stkb-rewrap = {
     pname = "stkb-rewrap";
-    version = "1.16.0";
+    version = "1.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stkb/rewrap/1.16.0/file/stkb.rewrap-1.16.0.vsix";
-      sha256 = "sha256-351zYmMupAv/8fQ+lOc0pYzy/wsE3JqTuxfKD+AdBAc=";
+      url = "https://open-vsx.org/api/stkb/rewrap/1.16.1/file/stkb.rewrap-1.16.1.vsix";
+      sha256 = "sha256-OTPNbwoQmKd73g8IwLKMIbe6c7E2jKNkzwuBU/f8dmY=";
     };
     name = "rewrap";
     license = "";
