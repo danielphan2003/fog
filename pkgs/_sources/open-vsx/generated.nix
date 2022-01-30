@@ -2523,10 +2523,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "1.3.4";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.3.4/file/PrateekMahendrakar.prettyxml-1.3.4.vsix";
-      sha256 = "sha256-foRKcMSsiYS94vn6P6dE0UI4xuC5wwt72Kx5bBav2aM=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.4.0/file/PrateekMahendrakar.prettyxml-1.4.0.vsix";
+      sha256 = "sha256-kBBdz3+0ryg9QqIl9t5dx9wgy4kTn/x+zO69otsfXv8=";
     };
     name = "prettyxml";
     license = "MIT";
@@ -8583,10 +8583,10 @@
   };
   icrawl-discord-vscode = {
     pname = "icrawl-discord-vscode";
-    version = "5.7.0";
+    version = "5.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/icrawl/discord-vscode/5.7.0/file/icrawl.discord-vscode-5.7.0.vsix";
-      sha256 = "sha256-F18E0UOIaCLKh50TgSDv/EqsWt15FbnY+h8/QejAi1w=";
+      url = "https://open-vsx.org/api/icrawl/discord-vscode/5.8.0/file/icrawl.discord-vscode-5.8.0.vsix";
+      sha256 = "sha256-JbpFGxmsnZs+s7E7Zc2mix5Ekn/fRVLHkAO8WxkVIBw=";
     };
     name = "discord-vscode";
     license = "MIT";
