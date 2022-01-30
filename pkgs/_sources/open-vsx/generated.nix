@@ -4335,10 +4335,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "4.10.0";
+    version = "4.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.0/file/anweber.vscode-httpyac-4.10.0.vsix";
-      sha256 = "sha256-RNzvZK4BmI6wMuXg32oaGdY+DgiT9mrwyoQEZvG7cqY=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.1/file/anweber.vscode-httpyac-4.10.1.vsix";
+      sha256 = "sha256-ZM1FkFx2UIxcA+tLjEXizYy3ze6TIhpgLtPhqsxNYng=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -8475,10 +8475,10 @@
   };
   huacat-office-theme = {
     pname = "huacat-office-theme";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/huacat/office-theme/1.1.1/file/huacat.office-theme-1.1.1.vsix";
-      sha256 = "sha256-ds8/ukck70IJHlq6EEDYBzTK3aUkI9BLkixKTp7+QEQ=";
+      url = "https://open-vsx.org/api/huacat/office-theme/1.1.2/file/huacat.office-theme-1.1.2.vsix";
+      sha256 = "sha256-G77zf3KAoPRYbtmgGNMOSjvdwYbeU9pMlu8t4x2ghYo=";
     };
     name = "office-theme";
     license = "MIT";
