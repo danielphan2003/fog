@@ -5751,10 +5751,10 @@
   };
   croccifixio-blackboard-pro = {
     pname = "croccifixio-blackboard-pro";
-    version = "1.0.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.0.0/file/croccifixio.blackboard-pro-1.0.0.vsix";
-      sha256 = "sha256-nKAGYF+zHxCroRhaZsA/JKzn1AS02M6c4F+sCTUZsbo=";
+      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.1/file/croccifixio.blackboard-pro-1.1.1.vsix";
+      sha256 = "sha256-LH5M8x9DNCG2V3KVepbPX05zyhl6SGQ6Ts7hc1JGnoI=";
     };
     name = "blackboard-pro";
     license = "Unlicense";
@@ -16131,10 +16131,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.38.0";
+    version = "0.39.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.38.0/file/tuttieee.emacs-mcx-0.38.0.vsix";
-      sha256 = "sha256-M90LkoLbUUTtzPK/TgmtTnwvumGX3mEv/d6j2CoIRn8=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.39.0/file/tuttieee.emacs-mcx-0.39.0.vsix";
+      sha256 = "sha256-L/KVh4VbUao5ZixwKKthwUtzJNBwV7WPoUNBiNH9kCc=";
     };
     name = "emacs-mcx";
     license = "MIT";
