@@ -18063,10 +18063,10 @@
   };
   wicked-labs-wvsc-serendipity = {
     pname = "wicked-labs-wvsc-serendipity";
-    version = "0.90.0";
+    version = "0.93.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wicked-labs/wvsc-serendipity/0.90.0/file/wicked-labs.wvsc-serendipity-0.90.0.vsix";
-      sha256 = "sha256-+WEwgh9dilGthJqr0xnbMScPlBn4AU6/ARQWzajqXEw=";
+      url = "https://open-vsx.org/api/wicked-labs/wvsc-serendipity/0.93.0/file/wicked-labs.wvsc-serendipity-0.93.0.vsix";
+      sha256 = "sha256-Tyi6aD8AGWyFfE5bS6M/XzjrIDUuIIx5wReZVbEsEZs=";
     };
     name = "wvsc-serendipity";
     license = "MIT";
