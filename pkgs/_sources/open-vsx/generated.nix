@@ -2535,10 +2535,10 @@
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
-    version = "4.3.0";
+    version = "4.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.3.0/file/PrateekMahendrakar.resxpress-4.3.0.vsix";
-      sha256 = "sha256-5IQnzu5RF8BdWLC4mVyc/cX8D76BzFBvZUu18fWaXaQ=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.4.0/file/PrateekMahendrakar.resxpress-4.4.0.vsix";
+      sha256 = "sha256-wBb2LxwNhC3MPhHqCWd11/SGYYMIbsYWWVID/ePJmTs=";
     };
     name = "resxpress";
     license = "MIT";
