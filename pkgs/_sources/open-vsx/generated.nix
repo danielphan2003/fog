@@ -2727,10 +2727,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.26.1";
+    version = "2.27.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.26.1/file/RokuCommunity.brightscript-2.26.1.vsix";
-      sha256 = "sha256-2LzYy/yu8x2ZmQe8Sfh/QofzexmybRqg8A9G+2dfy3M=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.0/file/RokuCommunity.brightscript-2.27.0.vsix";
+      sha256 = "sha256-01gZ/BHZOaApDYKIWNLa95nyjVCxsuHH6NCd6Y/QVL8=";
     };
     name = "brightscript";
     license = "MIT";
@@ -3651,13 +3651,13 @@
   };
   activecove-marquee = {
     pname = "activecove-marquee";
-    version = "2.0.0-edge.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/activecove/marquee/2.0.0-edge.0/file/activecove.marquee-2.0.0-edge.0.vsix";
-      sha256 = "sha256-kXOQ5WG2MjMYQpILcgL/C4/WTPD64AQaaEf1+28vexA=";
+      url = "https://open-vsx.org/api/activecove/marquee/2.0.0/file/activecove.marquee-2.0.0.vsix";
+      sha256 = "sha256-icP7HcHlHYkhuY+TR3QBg27xWho48CEQsjH1DXci/30=";
     };
     name = "marquee";
-    license = "";
+    license = "MIT";
     publisher = "activecove";
     description = "Stay organized with minimal context switching, all inside your VS Code.";
   };
@@ -6867,10 +6867,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1769482";
+    version = "6.1.1774945";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1769482/file/eliostruyf.vscode-front-matter-beta-6.1.1769482.vsix";
-      sha256 = "sha256-63z+qOfDw3+DzhsqwLXs+K92fnEnGIuxPeoak/guTGA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1774945/file/eliostruyf.vscode-front-matter-beta-6.1.1774945.vsix";
+      sha256 = "sha256-IkOcgeqwbHA9khjCKhAvQeFn9kNdnv3L7nnxvWUhtyU=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -14751,10 +14751,10 @@
   };
   simplicitesoftware-simplicite-vscode-tools = {
     pname = "simplicitesoftware-simplicite-vscode-tools";
-    version = "1.0.18";
+    version = "1.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.18/file/simplicitesoftware.simplicite-vscode-tools-1.0.18.vsix";
-      sha256 = "sha256-a6gTyxhT4FAOVEnbCNoWlMBs4aK3QdLnF7ecGgfjp8Q=";
+      url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.19/file/simplicitesoftware.simplicite-vscode-tools-1.0.19.vsix";
+      sha256 = "sha256-lujiIq7qE7S/RTasRPV2nsbN1fse3VMWdRArIDONCxM=";
     };
     name = "simplicite-vscode-tools";
     license = "Apache-2.0";
