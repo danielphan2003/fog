@@ -10263,10 +10263,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.60";
+    version = "0.0.61";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.60/file/leanprover.lean4-0.0.60.vsix";
-      sha256 = "sha256-kleeo5zKSPR0f//tcc+OnpVKw8r3/O4TL+KM87C4XMc=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.61/file/leanprover.lean4-0.0.61.vsix";
+      sha256 = "sha256-iLhVXqNuKDzHR41FTAUfPowcZvGiybUf7Jc5wdvFQZA=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -13059,10 +13059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.263";
+    version = "0.25.265";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.263/file/pokey.cursorless-0.25.263.vsix";
-      sha256 = "sha256-7neBZCd4rioIsLMibt9RwGe0D0kUXzvVzMNJpolBfTc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.265/file/pokey.cursorless-0.25.265.vsix";
+      sha256 = "sha256-nmtyoZL5hnvmy/Ph1Ll6ud7suyTykF/y/2PFWYO2SY8=";
     };
     name = "cursorless";
     license = "MIT";
@@ -14415,10 +14415,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.5/file/sebastianbille.iam-legend-1.0.5.vsix";
-      sha256 = "sha256-LRudb876DnbCgCXrWViMEcvbclOBJ++Tp8gOYn74HgE=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.6/file/sebastianbille.iam-legend-1.0.6.vsix";
+      sha256 = "sha256-RlbulhUOJ06Xfe9Ml/NzVbZlSfAOlFEU/A1K9pgLASA=";
     };
     name = "iam-legend";
     license = "MIT";
