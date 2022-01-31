@@ -6987,10 +6987,10 @@
   };
   emulicious-emulicious-debugger = {
     pname = "emulicious-emulicious-debugger";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/emulicious/emulicious-debugger/1.1.1/file/emulicious.emulicious-debugger-1.1.1.vsix";
-      sha256 = "sha256-+czKbAvUu3eePPUy2KRhMnpNRkhpT7aEg2OqdZV6NE4=";
+      url = "https://open-vsx.org/api/emulicious/emulicious-debugger/1.1.2/file/emulicious.emulicious-debugger-1.1.2.vsix";
+      sha256 = "sha256-EI7OR2dXqEc48iOLT7U+1bzgO0VlqSmFwIeq56jx9II=";
     };
     name = "emulicious-debugger";
     license = "MIT";
