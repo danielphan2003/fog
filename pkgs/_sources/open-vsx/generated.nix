@@ -2559,10 +2559,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.569";
+    version = "31.0.572";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.569/file/Prisma.prisma-insider-31.0.569.vsix";
-      sha256 = "sha256-Qu4gjWaYfo5J92H9jIiX2NDZv/iZfAEMqa5U6M9WGRo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.572/file/Prisma.prisma-insider-31.0.572.vsix";
+      sha256 = "sha256-+wJ9NelSo72FGoPRQYEhFLQTZLd8qfBuFzAfhaOb7Ic=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5559,10 +5559,10 @@
   };
   codechecker-codechecker = {
     pname = "codechecker-codechecker";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codechecker/codechecker/1.0.0/file/codechecker.codechecker-1.0.0.vsix";
-      sha256 = "sha256-UWsdlhZN4otVqsX4MXIgCn8pV932xRG8lVCzPSpn/yI=";
+      url = "https://open-vsx.org/api/codechecker/codechecker/1.1.0/file/codechecker.codechecker-1.1.0.vsix";
+      sha256 = "sha256-96reUg9uSNdZP3DdrTo2nHA/XyiZQ8h7G4sVc98iqOc=";
     };
     name = "codechecker";
     license = "Apache-2.0";
@@ -14967,10 +14967,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.10.0";
+    version = "0.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.0/file/sourcery.sourcery-0.10.0.vsix";
-      sha256 = "sha256-JnOgeyAPXVd9pebbR5jk7VYoQlWjhVh4Ndg4Iu46Xx8=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.1/file/sourcery.sourcery-0.10.1.vsix";
+      sha256 = "sha256-9KpE4Z+P3HrvGZCIV9BzZPFeBKAnjjwNc1s9QQN1mDQ=";
     };
     name = "sourcery";
     license = "MIT";
