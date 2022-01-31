@@ -2559,10 +2559,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.572";
+    version = "31.0.573";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.572/file/Prisma.prisma-insider-31.0.572.vsix";
-      sha256 = "sha256-+wJ9NelSo72FGoPRQYEhFLQTZLd8qfBuFzAfhaOb7Ic=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.573/file/Prisma.prisma-insider-31.0.573.vsix";
+      sha256 = "sha256-B1zbbshwnH95tnweey2xehbRXy3RkSh1MkKhLvlzNUY=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6183,10 +6183,10 @@
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.0/file/davelopez.galaxy-tools-0.7.0.vsix";
-      sha256 = "sha256-hrUbUqGYFCrGB3qLAhg/hNEYCCqw3SalZ9XXlrdRzhY=";
+      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.1/file/davelopez.galaxy-tools-0.7.1.vsix";
+      sha256 = "sha256-VjAVy3DEEGtsJKbh9TWNYRvyiyveLBC5GkLHPnIY4M0=";
     };
     name = "galaxy-tools";
     license = "Apache-2.0";
