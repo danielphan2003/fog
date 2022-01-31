@@ -2559,10 +2559,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.573";
+    version = "31.0.576";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.573/file/Prisma.prisma-insider-31.0.573.vsix";
-      sha256 = "sha256-B1zbbshwnH95tnweey2xehbRXy3RkSh1MkKhLvlzNUY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.576/file/Prisma.prisma-insider-31.0.576.vsix";
+      sha256 = "sha256-Q1cT4vfc6yYj05O8CzM9rVwev8tZzv5llc9LkUWeYL8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15519,10 +15519,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.11.1";
+    version = "105.11.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.11.1/file/svelte.svelte-vscode-105.11.1.vsix";
-      sha256 = "sha256-16bXPmL6InbN93xTcHHW79Oi8/0vEISFragjFKQvmRI=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.11.2/file/svelte.svelte-vscode-105.11.2.vsix";
+      sha256 = "sha256-V8zlt7QnxQHKt57kVG+ySLxrj8Mhf8vFDomtdHwzlgk=";
     };
     name = "svelte-vscode";
     license = "MIT";
@@ -18387,10 +18387,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.2/file/yuyichao.digitaljs-0.5.2.vsix";
-      sha256 = "sha256-JB5swRcM8mkOnrJkrWRHyROWhClTNExNHEBjhJVq894=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.3/file/yuyichao.digitaljs-0.5.3.vsix";
+      sha256 = "sha256-Mv+3dbWjivGc7EIsXAe01Jf5PFdIpNzlkO1Y1qKx/Gk=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
