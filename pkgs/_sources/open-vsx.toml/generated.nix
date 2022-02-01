@@ -2559,10 +2559,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.8.1";
+    version = "3.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.8.1/file/Prisma.prisma-3.8.1.vsix";
-      sha256 = "sha256-DskUYaUkSMfapKP7G3Wrf8+RcmJ4T3wJwOUvGcxxm9o=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.9.0/file/Prisma.prisma-3.9.0.vsix";
+      sha256 = "sha256-EXxZUvTs4g1K2un5aGTOHUmSZCAZZdDKe2XuWaPgItU=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -2571,10 +2571,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.582";
+    version = "31.0.583";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.582/file/Prisma.prisma-insider-31.0.582.vsix";
-      sha256 = "sha256-EMvEF4cLBHQpgWj20aFBwNsHAy6STH5e6NVSWPj0zZQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.583/file/Prisma.prisma-insider-31.0.583.vsix";
+      sha256 = "sha256-xLIPhFKKB5VXwNqysFjOMTRMQAhLfWN1yZJYmMzUy1c=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3039,10 +3039,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.17";
+    version = "3.5.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.17/file/TabNine.tabnine-vscode-3.5.17.vsix";
-      sha256 = "sha256-znVzKC3xHaUaYWuziQe1JMAv29fGdsE0Sf/IOeJpc4k=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.18/file/TabNine.tabnine-vscode-3.5.18.vsix";
+      sha256 = "sha256-8oVsTlO8YWjf/ZVEgbkbLj6/4bEYcLdcvq9jwxXgTJw=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6879,10 +6879,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1774945";
+    version = "6.1.1778531";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1774945/file/eliostruyf.vscode-front-matter-beta-6.1.1774945.vsix";
-      sha256 = "sha256-IkOcgeqwbHA9khjCKhAvQeFn9kNdnv3L7nnxvWUhtyU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1778531/file/eliostruyf.vscode-front-matter-beta-6.1.1778531.vsix";
+      sha256 = "sha256-V3nPUm6hUmoZ3em/5o9WfFqF01K/uOJwMtQI8WwO0Hs=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -7164,6 +7164,18 @@
     license = "GPL-3.0";
     publisher = "eventyret";
     description = "This will get you up and running to get a boilerplate of bootstrap ready in a sec";
+  };
+  everscale-solidity-support = {
+    pname = "everscale-solidity-support";
+    version = "1.2.11";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.11/file/everscale.solidity-support-1.2.11.vsix";
+      sha256 = "sha256-IryNK4rLmuiUaWRgOPSlPrB34jVgbh55zOX0nFZWHTg=";
+    };
+    name = "solidity-support";
+    license = "Apache-2.0";
+    publisher = "everscale";
+    description = "Everscale Solidity Language for Visual Studio Code";
   };
   evgeniypeshkov-syntax-highlighter = {
     pname = "evgeniypeshkov-syntax-highlighter";
