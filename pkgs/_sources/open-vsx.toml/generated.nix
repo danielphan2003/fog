@@ -291,10 +291,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "0.14.1";
+    version = "0.14.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/0.14.1/file/BroadcomMFD.explorer-for-endevor-0.14.1.vsix";
-      sha256 = "sha256-TIiVhTjOYb8R12CELNND8BS7s8CXo8opUuQL5TLCfIY=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/0.14.2/file/BroadcomMFD.explorer-for-endevor-0.14.2.vsix";
+      sha256 = "sha256-aGjGR/zHS/XhkRt8utB2RwdFthhMEEoKpMvSlWiCCA8=";
     };
     name = "explorer-for-endevor";
     license = "EPL-2.0";
@@ -6363,10 +6363,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.79.0";
+    version = "0.80.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.79.0/file/dendron.dendron-0.79.0.vsix";
-      sha256 = "sha256-YgH1tchITwCzZIJu7IM4XCfTXg6NBGw7De3UgioWdyo=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.80.0/file/dendron.dendron-0.80.0.vsix";
+      sha256 = "sha256-Yew9YRjkWg6I7xiYgLk302IWb/0c/tyj7kcFsNDX0sc=";
     };
     name = "dendron";
     license = "AGPL-3.0";
