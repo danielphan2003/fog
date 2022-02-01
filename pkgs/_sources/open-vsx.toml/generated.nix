@@ -6447,10 +6447,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.79.5";
+    version = "0.79.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.79.5/file/dendron.nightly-0.79.5.vsix";
-      sha256 = "sha256-M+Q7oP4vUEyurYdW8q5WDywfN5eu6n7u8dygajmnLi4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.79.6/file/dendron.nightly-0.79.6.vsix";
+      sha256 = "sha256-x85gBQVqokz09tXl19hdwch2FwD8CT5l9Cze4rPmIJU=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7167,10 +7167,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.11";
+    version = "1.2.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.11/file/everscale.solidity-support-1.2.11.vsix";
-      sha256 = "sha256-IryNK4rLmuiUaWRgOPSlPrB34jVgbh55zOX0nFZWHTg=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.12/file/everscale.solidity-support-1.2.12.vsix";
+      sha256 = "sha256-j+s5GOUqATLGf9KZjeVY9ZDNFBvhyLscw4F/7pB7X7c=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -15915,10 +15915,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.2.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.2.0/file/tokiwa-software.fuzion-lang-0.2.0.vsix";
-      sha256 = "sha256-LJY/8TPwubD1cyhcxmA63ZV+Mm5ZnKN7KcrCrsfFfho=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.4.0/file/tokiwa-software.fuzion-lang-0.4.0.vsix";
+      sha256 = "sha256-HMu1Vx7e24Kh1oVc96GD8Zh8XOHrEv7ay6ZBjkcUSfs=";
     };
     name = "fuzion-lang";
     license = "MIT";
