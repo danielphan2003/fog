@@ -501,10 +501,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "99.0.1141.0";
+    version = "99.0.1150.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_99.0.1141.0-1_amd64.deb";
-      sha256 = "sha256-i2ZdFIj2Iv1PBiC9p0IZmI2yiMwmqAZnGLAjFFh8MU8=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_99.0.1150.2-1_amd64.deb";
+      sha256 = "sha256-qJuwSM/hMEPQpWLZfNZxLTV56qhGhiWsIbTERFueieY=";
     };
   };
   minecraft-wayland = {
@@ -1122,13 +1122,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "f29d6b106cfb21ac0b1ce3c207cd32d5164136b9";
+    version = "bceb762cffaf740b64c82a96b274d9d59948982e";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "f29d6b106cfb21ac0b1ce3c207cd32d5164136b9";
+      rev = "bceb762cffaf740b64c82a96b274d9d59948982e";
       fetchSubmodules = false;
-      sha256 = "sha256-SdoYFpW+7Lf2x9GF/1TmI64lwCchudj4jnJ5jzaK9o8=";
+      sha256 = "sha256-NlFlsMGrfOwfg1N1JN3rsrcsn0KTa/SRzqCUIgu6IS0=";
     });
   };
   xdg-desktop-portal-gtk = {
