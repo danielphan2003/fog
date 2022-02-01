@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "52110d245168e6a4ec966d921b6268dabeac8cc7";
+    version = "e4f17b9a9fe8726d56b36f7cef4b53b83bd1f1bb";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "52110d245168e6a4ec966d921b6268dabeac8cc7";
+      rev = "e4f17b9a9fe8726d56b36f7cef4b53b83bd1f1bb";
       fetchSubmodules = false;
-      sha256 = "sha256-PN3tEljWeGX3hIl1x4u0dtgHRDWHa5Qss/BZqOJ9nfE=";
+      sha256 = "sha256-4B1ZTJLPL7xhstx987t6CcSygsL3m6Xf3xnqAvlygLE=";
     });
   };
   caddy = {
@@ -217,13 +217,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "c10e6e0635ff422bd781580c81074ffac550642c";
+    version = "4c67e790f68025ca6822ff1f29002d9166fb5008";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "c10e6e0635ff422bd781580c81074ffac550642c";
+      rev = "4c67e790f68025ca6822ff1f29002d9166fb5008";
       fetchSubmodules = false;
-      sha256 = "sha256-/+C6V+EzKB5Ypc6paJgXLZHYbFVDT/UM+OvPPS1mTTM=";
+      sha256 = "sha256-jOs8OSFGc/HU/pIDd29h8nyX1WDS4UB8cKTqkP5AuWg=";
     });
   };
   doggo = {
