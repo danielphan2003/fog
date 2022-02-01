@@ -9279,10 +9279,10 @@
   };
   jetmartin-apicurio = {
     pname = "jetmartin-apicurio";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.2/file/jetmartin.apicurio-0.0.2.vsix";
-      sha256 = "sha256-aHEUcXaj20ivvc/n+GknuUvwW9+QMss78L6RbB8miPU=";
+      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.3/file/jetmartin.apicurio-0.0.3.vsix";
+      sha256 = "sha256-hVxJwYEpyiPpA19YxTaweXpVHlcAdsQy+nm0dxVfSx0=";
     };
     name = "apicurio";
     license = "MIT";
