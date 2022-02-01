@@ -373,6 +373,18 @@
     publisher = "Carmen";
     description = "Test Playground";
   };
+  Catppuccin-catppuccin-vsc = {
+    pname = "Catppuccin-catppuccin-vsc";
+    version = "0.1.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/0.1.3/file/Catppuccin.catppuccin-vsc-0.1.3.vsix";
+      sha256 = "sha256-yE/FcjNX6KyLOSOMBW4omAlL162+tyb+nICbBhb/VmU=";
+    };
+    name = "catppuccin-vsc";
+    license = "MIT";
+    publisher = "Catppuccin";
+    description = "Warm mid-tone dark theme to show off your vibrant self!";
+  };
   ChrisRu-vscode-nightsky = {
     pname = "ChrisRu-vscode-nightsky";
     version = "2.0.0";
@@ -651,10 +663,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.32.0";
+    version = "3.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.32.0/file/Dart-Code.dart-code-3.32.0.vsix";
-      sha256 = "sha256-Qg4fesDfPF8Zq2UPiqGQTN9qAtnB6BAOrCG/CPtiTMY=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.34.0/file/Dart-Code.dart-code-3.34.0.vsix";
+      sha256 = "sha256-MPXtLboCo/fnR3LqVMccuqtli9wdZRU31k2K1mXPclc=";
     };
     name = "dart-code";
     license = "MIT";
@@ -663,10 +675,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.32.0";
+    version = "3.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.32.0/file/Dart-Code.flutter-3.32.0.vsix";
-      sha256 = "sha256-YqJiD5Bj499Cwq9PrzminK/M4sK8Vo/+awSns6P0e3o=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.34.0/file/Dart-Code.flutter-3.34.0.vsix";
+      sha256 = "sha256-Wi+7Q9CZPORfUhHeCBCzDGtKvwXVnx1V/nzkRtJwQkg=";
     };
     name = "flutter";
     license = "MIT";
@@ -2427,10 +2439,10 @@
   };
   PereLabat-make-lldb-config = {
     pname = "PereLabat-make-lldb-config";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PereLabat/make-lldb-config/0.3.0/file/PereLabat.make-lldb-config-0.3.0.vsix";
-      sha256 = "sha256-3WUbnq8Ll6T4PcmjXQK3+nZZQTqbKZy+hvMST9X6Sg8=";
+      url = "https://open-vsx.org/api/PereLabat/make-lldb-config/0.4.0/file/PereLabat.make-lldb-config-0.4.0.vsix";
+      sha256 = "sha256-Qro6mgwZ6MUxmLHu5ZJsiek4cB+3ciE4Vsfc99FsQog=";
     };
     name = "make-lldb-config";
     license = "GPL-3.0";
@@ -2439,10 +2451,10 @@
   };
   PereLabat-vpl = {
     pname = "PereLabat-vpl";
-    version = "0.3.6";
+    version = "0.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PereLabat/vpl/0.3.6/file/PereLabat.vpl-0.3.6.vsix";
-      sha256 = "sha256-uTjdLNNdIOqSYVP0fLXon50MY9gY+Kk+oFa4AFsq/rE=";
+      url = "https://open-vsx.org/api/PereLabat/vpl/0.3.7/file/PereLabat.vpl-0.3.7.vsix";
+      sha256 = "sha256-MzgV8QJABVepw3gZX0noPxYxYG/Y+kgV+bdpBA4PN7I=";
     };
     name = "vpl";
     license = "GPL-3.0";
@@ -2559,10 +2571,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.579";
+    version = "31.0.582";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.579/file/Prisma.prisma-insider-31.0.579.vsix";
-      sha256 = "sha256-ge9suWnO6BYLVSnFhDFbp3TNHiiMNCUDhFiGHm8mpvU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.582/file/Prisma.prisma-insider-31.0.582.vsix";
+      sha256 = "sha256-EMvEF4cLBHQpgWj20aFBwNsHAy6STH5e6NVSWPj0zZQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
