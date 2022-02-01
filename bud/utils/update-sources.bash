@@ -1,8 +1,7 @@
-file="$1"
+file="$1.toml"
 sourceDir="_sources/${2:-"$(basename $file)"}"
-file="$file.toml"
 
-args=( "${@: 2}" )
+args=( "${@: 3}" )
 if [ $CI ]; then
   args+=( --commit-changes )
 fi
