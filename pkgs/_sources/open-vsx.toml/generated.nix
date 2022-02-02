@@ -10131,10 +10131,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.7/file/kubescape.kubescape-0.0.7.vsix";
-      sha256 = "sha256-CpoXrO8R+MFjaC24afXHz+oEpeB9lSvnDWru1ifb31M=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.8/file/kubescape.kubescape-0.0.8.vsix";
+      sha256 = "sha256-BvWY/xkw22F3gsR6G2duC0wLwvNM6o1zFD52PKoCKYk=";
     };
     name = "kubescape";
     license = "Apache";
@@ -10395,10 +10395,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.11";
+    version = "3.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.11/file/lifeart.vscode-ember-unstable-3.0.11.vsix";
-      sha256 = "sha256-Vl7vWfKDf+DxR4SyPk5ayrUl3j7oytCBXfDL0Ru9g18=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.13/file/lifeart.vscode-ember-unstable-3.0.13.vsix";
+      sha256 = "sha256-SEEo6aePEhzpRYWCGbajBGzKsybr1Qt0HL0aL8OqTQo=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
