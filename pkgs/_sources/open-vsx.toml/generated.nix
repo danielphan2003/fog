@@ -8223,10 +8223,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.5.4";
+    version = "0.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.4/file/halcyontechltd.vscode-rpgle-0.5.4.vsix";
-      sha256 = "sha256-OWcCRkfzbKaheql6dXnWa3Danvv5MtnK5D89vueytPQ=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.5/file/halcyontechltd.vscode-rpgle-0.5.5.vsix";
+      sha256 = "sha256-RUsBWWB6w8EtbrxKj0SnvyCuVWdZHVTRpsejnyB2cKY=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -10287,10 +10287,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.61";
+    version = "0.0.62";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.61/file/leanprover.lean4-0.0.61.vsix";
-      sha256 = "sha256-iLhVXqNuKDzHR41FTAUfPowcZvGiybUf7Jc5wdvFQZA=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.62/file/leanprover.lean4-0.0.62.vsix";
+      sha256 = "sha256-CrY8/Cuh07/NLgAzYU38sVJwK+aD4iXVDv26j55TH7E=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -13083,10 +13083,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.269";
+    version = "0.25.270";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.269/file/pokey.cursorless-0.25.269.vsix";
-      sha256 = "sha256-d7QmZ3bFH74Qru5LvFgwg1cE8AcSEJu6IpmVS5gAQSM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.270/file/pokey.cursorless-0.25.270.vsix";
+      sha256 = "sha256-ealqVaxNsmk6nLlPFH4BhbLPDRZUYr0nnM1j2oMukJc=";
     };
     name = "cursorless";
     license = "MIT";
@@ -15891,10 +15891,10 @@
   };
   toem-de-impulse = {
     pname = "toem-de-impulse";
-    version = "0.3.3";
+    version = "0.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toem-de/impulse/0.3.3/file/toem-de.impulse-0.3.3.vsix";
-      sha256 = "sha256-YuW7Xs95NKcdfW+yZXd3X7K6QisINoLWE8+071Tbz80=";
+      url = "https://open-vsx.org/api/toem-de/impulse/0.3.5/file/toem-de.impulse-0.3.5.vsix";
+      sha256 = "sha256-UCx/583ScUzPyC4BrfzY7ZlDkUNEp5U5lfRmGi4BxRM=";
     };
     name = "impulse";
     license = "";
@@ -16539,10 +16539,10 @@
   };
   viper-admin-prusti-assistant = {
     pname = "viper-admin-prusti-assistant";
-    version = "0.9.0";
+    version = "0.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.9.0/file/viper-admin.prusti-assistant-0.9.0.vsix";
-      sha256 = "sha256-6Vcz4EPirN+d4VjzMky7BSHvqMdkf6GqwPiHuPNyaIU=";
+      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.9.1/file/viper-admin.prusti-assistant-0.9.1.vsix";
+      sha256 = "sha256-SS9T5Zw1wfG4lb83dLV/P79ZJovbPyA0PFCBLyVXQRU=";
     };
     name = "prusti-assistant";
     license = "MIT";
