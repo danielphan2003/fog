@@ -2571,10 +2571,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.583";
+    version = "31.0.586";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.583/file/Prisma.prisma-insider-31.0.583.vsix";
-      sha256 = "sha256-xLIPhFKKB5VXwNqysFjOMTRMQAhLfWN1yZJYmMzUy1c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.586/file/Prisma.prisma-insider-31.0.586.vsix";
+      sha256 = "sha256-p2/BvS0MzRtvu8ZPx1pdFdngqdwM2s6kmmJacte4sAs=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -10287,10 +10287,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.62";
+    version = "0.0.63";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.62/file/leanprover.lean4-0.0.62.vsix";
-      sha256 = "sha256-CrY8/Cuh07/NLgAzYU38sVJwK+aD4iXVDv26j55TH7E=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.63/file/leanprover.lean4-0.0.63.vsix";
+      sha256 = "sha256-yLqU8juJX8NezrqzfrQ1OPG8Xar4/4K6kBAXEF56PyI=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -13392,6 +13392,18 @@
     license = "MIT";
     publisher = "raidou";
     description = "Calculate extension for vscode";
+  };
+  rangav-vscode-thunder-client = {
+    pname = "rangav-vscode-thunder-client";
+    version = "1.11.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.11.1/file/rangav.vscode-thunder-client-1.11.1.vsix";
+      sha256 = "sha256-O6PYRyj7Hc6H5y9/jQVYKKiCbFXggdmn9Ql55FIqe/U=";
+    };
+    name = "vscode-thunder-client";
+    license = "";
+    publisher = "rangav";
+    description = "Lightweight Rest API Client for VS Code";
   };
   razetime-bqn-language = {
     pname = "razetime-bqn-language";
