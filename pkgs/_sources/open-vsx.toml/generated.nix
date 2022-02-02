@@ -2571,10 +2571,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.586";
+    version = "31.0.587";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.586/file/Prisma.prisma-insider-31.0.586.vsix";
-      sha256 = "sha256-p2/BvS0MzRtvu8ZPx1pdFdngqdwM2s6kmmJacte4sAs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.587/file/Prisma.prisma-insider-31.0.587.vsix";
+      sha256 = "sha256-Mrd5pKzjH6l1T9mz15hh/4fIEKXmz/OSeJ/E7ZZtUMI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6039,10 +6039,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.4.10";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.4.10/file/d-biehl.robotcode-0.4.10.vsix";
-      sha256 = "sha256-UFqM77HBa6gFtHPq0irdrl9ratZutDMK8C1MS3Ceo6Q=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.0/file/d-biehl.robotcode-0.5.0.vsix";
+      sha256 = "sha256-Xqx27D63M8c1KVYmt4dE2KE2ffpsYZdUk3BKi8tkGg0=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -9087,10 +9087,10 @@
   };
   jacobjohnston-encounterplus-markdown = {
     pname = "jacobjohnston-encounterplus-markdown";
-    version = "1.0.58";
+    version = "1.0.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.58/file/jacobjohnston.encounterplus-markdown-1.0.58.vsix";
-      sha256 = "sha256-+QLKyslcBMYoA6wzVgM+uW6O9mFAgkuUiq9xgNq0Szw=";
+      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.59/file/jacobjohnston.encounterplus-markdown-1.0.59.vsix";
+      sha256 = "sha256-W+UzB+CQagP5BGV3M04wie9THKuset45zXxhjv+vHlo=";
     };
     name = "encounterplus-markdown";
     license = "CC0-1.0";
