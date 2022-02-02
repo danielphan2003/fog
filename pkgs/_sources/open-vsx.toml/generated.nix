@@ -6447,10 +6447,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.79.6";
+    version = "0.80.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.79.6/file/dendron.nightly-0.79.6.vsix";
-      sha256 = "sha256-x85gBQVqokz09tXl19hdwch2FwD8CT5l9Cze4rPmIJU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.80.1/file/dendron.nightly-0.80.1.vsix";
+      sha256 = "sha256-nrJfotPC13x/l4vBN/Ado6elWUKzikU3ENezzi5cLXQ=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -11103,10 +11103,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.7.1";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.7.1/file/mintlify.document-1.7.1.vsix";
-      sha256 = "sha256-KPSRt1mPlHTwulv1OrvmnhoyYivi6q0W3QFeCPq829s=";
+      url = "https://open-vsx.org/api/mintlify/document/1.7.2/file/mintlify.document-1.7.2.vsix";
+      sha256 = "sha256-fRAOdBw5kJu8Q9qJ0s6uKjQvrgeZJD5GgeJjV3bPh3k=";
     };
     name = "document";
     license = "Apache-2.0";
