@@ -18411,10 +18411,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.5.4";
+    version = "0.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.4/file/yuyichao.digitaljs-0.5.4.vsix";
-      sha256 = "sha256-cb1LfbddMeEiyXhjMBkR1iQYChjrEjRYrDYd+/JqEa0=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.6/file/yuyichao.digitaljs-0.5.6.vsix";
+      sha256 = "sha256-Y/K4iFu/xUeqzXc8MoOIi4f1jTE0PCme3o0wPVi+pRE=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
@@ -18588,6 +18588,18 @@
     license = "commercial";
     publisher = "zazuko-gmbh";
     description = "DSL to generate R2RML, RML, CARML mappings";
+  };
+  zenclabs-previewjs = {
+    pname = "zenclabs-previewjs";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.0.3/file/zenclabs.previewjs-1.0.3.vsix";
+      sha256 = "sha256-A16wKdOnUt0Rz+h74Vn59uEXYIi9L+hJKPQLwrfWJwI=";
+    };
+    name = "previewjs";
+    license = "AGPL-3.0";
+    publisher = "zenclabs";
+    description = "Get instant previews of your UI components, directly in your IDE";
   };
   zerodind-familiar-java-themes = {
     pname = "zerodind-familiar-java-themes";
