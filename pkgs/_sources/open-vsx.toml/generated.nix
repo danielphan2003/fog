@@ -411,10 +411,10 @@
   };
   CismonX-texinfo = {
     pname = "CismonX-texinfo";
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CismonX/texinfo/0.2.3/file/CismonX.texinfo-0.2.3.vsix";
-      sha256 = "sha256-HKhWcHpJgiGvuz6N6bif+HINWn9wEgf6SBub9kQawMI=";
+      url = "https://open-vsx.org/api/CismonX/texinfo/0.2.4/file/CismonX.texinfo-0.2.4.vsix";
+      sha256 = "sha256-D2gr5zIDexGPsOEPmwEvKlN4CeMWdF6Y4PK6y3XI0nY=";
     };
     name = "texinfo";
     license = "GPL-3.0-or-later";
