@@ -4611,10 +4611,10 @@
   };
   asciidoctor-asciidoctor-vscode = {
     pname = "asciidoctor-asciidoctor-vscode";
-    version = "2.8.10";
+    version = "2.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.8.10/file/asciidoctor.asciidoctor-vscode-2.8.10.vsix";
-      sha256 = "sha256-KODg2414B957SqPXpqELxzBChqbMCP6X8Kq9n9jSChI=";
+      url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.2/file/asciidoctor.asciidoctor-vscode-2.9.2.vsix";
+      sha256 = "sha256-w4ijHv2MdTYaezxg7OShoMKUZBMSNxoDFQJEmuIr3+I=";
     };
     name = "asciidoctor-vscode";
     license = "MIT";
