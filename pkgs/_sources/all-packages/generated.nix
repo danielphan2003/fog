@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "004dfdeaac5a96a96c482caf2ef353c9627d6d9c";
+    version = "510a44699db87239f3aa34ca3adf5fa09265eead";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "004dfdeaac5a96a96c482caf2ef353c9627d6d9c";
+      rev = "510a44699db87239f3aa34ca3adf5fa09265eead";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-rYRU+lED+pmJmv6URVtyo3pKPWKSjICb3GRfmiqz0Tg=";
+      sha256 = "sha256-75Kx3YppGff9j6IsL76kONMOPZCyDbAXljA/Jemf88s=";
     };
     cargoLock = {
-      lockFile = ./conduit-004dfdeaac5a96a96c482caf2ef353c9627d6d9c/Cargo.lock;
+      lockFile = ./conduit-510a44699db87239f3aa34ca3adf5fa09265eead/Cargo.lock;
       outputHashes = {
         "ruma-0.4.0" = "sha256-Zdoac8DAFLhza2smxQyIvoW7w1QKG2ZQVgOMTDe/1d0=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
@@ -558,13 +558,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "98efb3661467bd9b1c3c8fccb28143bf86cd206a";
+    version = "68137935a90530b9abab6d8e93154b5ca6ed125d";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "98efb3661467bd9b1c3c8fccb28143bf86cd206a";
+      rev = "68137935a90530b9abab6d8e93154b5ca6ed125d";
       fetchSubmodules = false;
-      sha256 = "sha256-o1KrPosnGhbm5gDK8BtoDDKRafyCqO0mdlVPYzMCenY=";
+      sha256 = "sha256-m9J2B5AbAvUWmn3LRt8vPie1YzvGs+DRczUQWsNYp4s=";
     });
   };
   ny-font = {
