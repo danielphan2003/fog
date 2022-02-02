@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "09512f51701c5461a42b7506f741c4127924cf56";
+    version = "ced821b66952757b7adbed459c0bf3479b9b4d0c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "09512f51701c5461a42b7506f741c4127924cf56";
+      rev = "ced821b66952757b7adbed459c0bf3479b9b4d0c";
       fetchSubmodules = false;
-      sha256 = "sha256-dzmbm+GUbEcO5c/mY6Iz9nqKr3GHhPGYqZQ6R2QTOTo=";
+      sha256 = "sha256-EU6DlEflEWwmvbkNWXHnNhY0M7zJcOGYFShmTiuBJ+k=";
     });
   };
   caddy = {
@@ -272,16 +272,16 @@
   };
   eww = {
     pname = "eww";
-    version = "8336bd04d2c7fe301645bb883b140c6415e87556";
+    version = "bf7f49848d63f4fdf8994668ec346d9d3ced77ed";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "8336bd04d2c7fe301645bb883b140c6415e87556";
+      rev = "bf7f49848d63f4fdf8994668ec346d9d3ced77ed";
       fetchSubmodules = false;
-      sha256 = "sha256-4wPtMAn8cexWoLJYQjcBu2yn72/KBdphZX4KmCjQ/J0=";
+      sha256 = "sha256-j5PLiQi9yNQ/qGb3ATAtdXFbdmiP/4EB2DY04I3h3Mo=";
     });
     cargoLock = {
-      lockFile = ./eww-8336bd04d2c7fe301645bb883b140c6415e87556/Cargo.lock;
+      lockFile = ./eww-bf7f49848d63f4fdf8994668ec346d9d3ced77ed/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -864,13 +864,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "820dc19537835aaa45cc5e937c03b8dd362aa09d";
+    version = "1543c417a3f60d13051463291db584c7e8e50086";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "820dc19537835aaa45cc5e937c03b8dd362aa09d";
+      rev = "1543c417a3f60d13051463291db584c7e8e50086";
       fetchSubmodules = false;
-      sha256 = "sha256-trQe+xopRMBTdi61jkJDxpqROqPqsJpU5oFb4AGT6sc=";
+      sha256 = "sha256-NfMUNYXjzoJa1qud548eNJKEQ+UmVEmzXPdVEeOyxgE=";
     });
   };
   spicetify-themes = {
