@@ -303,10 +303,10 @@
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
-    version = "0.15.1";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/0.15.1/file/BroadcomMFD.hlasm-language-support-0.15.1.vsix";
-      sha256 = "sha256-lWoNa5S2bmrYDmPwJZOgtcmnFJy1sCzP8oB2H/Po3Us=";
+      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.0.0/file/BroadcomMFD.hlasm-language-support-1.0.0.vsix";
+      sha256 = "sha256-oRphOZGzIWZwJHYpjEArJ3R+4OoBciCdHz8rEpPdahg=";
     };
     name = "hlasm-language-support";
     license = "EPL-2.0";
@@ -6879,10 +6879,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1778531";
+    version = "6.1.1783497";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1778531/file/eliostruyf.vscode-front-matter-beta-6.1.1778531.vsix";
-      sha256 = "sha256-V3nPUm6hUmoZ3em/5o9WfFqF01K/uOJwMtQI8WwO0Hs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1783497/file/eliostruyf.vscode-front-matter-beta-6.1.1783497.vsix";
+      sha256 = "sha256-MSiULe5WzKvwgKdY5xDuaKzIGSrLTuVpQiDZsLye9xk=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
