@@ -116,13 +116,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "cd4008c249ed51869efc3b4677f076605f17d502";
+    version = "a1f58ab97c90c85759a3b33a96af2bfd0b6fe78b";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "cd4008c249ed51869efc3b4677f076605f17d502";
+      rev = "a1f58ab97c90c85759a3b33a96af2bfd0b6fe78b";
       fetchSubmodules = false;
-      sha256 = "sha256-osYqXOA5PUK4sAaNgemXgQWQZ0INDHT1/14jCI02oP8=";
+      sha256 = "sha256-58gWCZcDumyN+bSZ4Jh6mfGtmBCFWDE7aqCpyWEK9x8=";
     });
   };
   awestore = {
@@ -640,14 +640,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "80c988236fb476985826e85c5fbf6b101a60c39e";
+    version = "47410eafb9e7ad5583a3ffd9528bf54b9cebfad5";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "80c988236fb476985826e85c5fbf6b101a60c39e";
+      rev = "47410eafb9e7ad5583a3ffd9528bf54b9cebfad5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-oE0WliIKbmH69atQePYQkPRNFx8WG9SjkHHMND008Kc=";
+      sha256 = "sha256-OzkRLhUzsLdpGsCo/WSBprt+PI7pr8IWolb0EjseV/w=";
     };
   };
   pure = {
@@ -942,13 +942,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "fa612c28cf02afdf0031c432f4f0b782e741acb0";
+    version = "d7962e3bcf80c4d0837ac565f1cd17f87be3d07e";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "fa612c28cf02afdf0031c432f4f0b782e741acb0";
+      rev = "d7962e3bcf80c4d0837ac565f1cd17f87be3d07e";
       fetchSubmodules = false;
-      sha256 = "sha256-Jwp2ItT1HesqdYXUJXvX9TbWk9hC81gPfOCJLFz78uE=";
+      sha256 = "sha256-dzQStTiWTJB9ly6VkoY1sVyAhZjEridQjzYHeTCdqF4=";
     });
   };
   tailscale-systray = {
