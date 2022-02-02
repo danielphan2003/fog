@@ -2475,10 +2475,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.29.0";
+    version = "1.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.29.0/file/Pivotal.vscode-bosh-1.29.0.vsix";
-      sha256 = "sha256-6M8B08yRNzOWF6UrkSKw4YU01cFRofYfUGlCse3URWY=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.30.0/file/Pivotal.vscode-bosh-1.30.0.vsix";
+      sha256 = "sha256-Xpju34S4z0lhRyC5Ukk0Ppuf49q8PpYGtN1ClVNIspQ=";
     };
     name = "vscode-bosh";
     license = "EPL-1.0";
@@ -2487,10 +2487,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.29.0";
+    version = "1.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.29.0/file/Pivotal.vscode-concourse-1.29.0.vsix";
-      sha256 = "sha256-MSeKx9SsQmrSUSXlO2K+mimm1hfP8N9j1NlFbJjB8Dw=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.30.0/file/Pivotal.vscode-concourse-1.30.0.vsix";
+      sha256 = "sha256-LQp7BOXw6lAAf3DjLasUPyEcO92HeQ4deop01remRLY=";
     };
     name = "vscode-concourse";
     license = "EPL-1.0";
@@ -2499,10 +2499,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.29.0";
+    version = "1.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.29.0/file/Pivotal.vscode-manifest-yaml-1.29.0.vsix";
-      sha256 = "sha256-ig17arX20NGwGgKrgDd3jVRaVhUup49cFSYBkN1gk3A=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.30.0/file/Pivotal.vscode-manifest-yaml-1.30.0.vsix";
+      sha256 = "sha256-NkOKPO1j/jcUymHGwvB3IEbT6TkjBKLNNFEQyo9Zt+g=";
     };
     name = "vscode-manifest-yaml";
     license = "EPL-1.0";
@@ -2511,10 +2511,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.29.0";
+    version = "1.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.29.0/file/Pivotal.vscode-spring-boot-1.29.0.vsix";
-      sha256 = "sha256-R/mrrUQEvpy3YeC1cWIhXhkp/Ak7bHPTlfC5lqEXK7o=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.30.0/file/Pivotal.vscode-spring-boot-1.30.0.vsix";
+      sha256 = "sha256-3LHmCXiZbd+En4ENuv8Z01yajon6zTkLcPSBkVPSDeQ=";
     };
     name = "vscode-spring-boot";
     license = "EPL-1.0";
@@ -13083,10 +13083,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.266";
+    version = "0.25.268";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.266/file/pokey.cursorless-0.25.266.vsix";
-      sha256 = "sha256-5BsS2J+4WAG3VUa3iJGjvQZmrbyahKEashPa9ZwuxV4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.268/file/pokey.cursorless-0.25.268.vsix";
+      sha256 = "sha256-gX72n6PJSIb48FUOJGLmHWxK5hhA2/gzBt3jvYcOtFw=";
     };
     name = "cursorless";
     license = "MIT";
