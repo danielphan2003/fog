@@ -2559,10 +2559,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.9.0";
+    version = "3.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.9.0/file/Prisma.prisma-3.9.0.vsix";
-      sha256 = "sha256-EXxZUvTs4g1K2un5aGTOHUmSZCAZZdDKe2XuWaPgItU=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.9.1/file/Prisma.prisma-3.9.1.vsix";
+      sha256 = "sha256-4WrwMDyIDXpq1TvV2byGKeEcVwGSAVEXidwUgZoY9pk=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -13083,10 +13083,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.270";
+    version = "0.25.271";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.270/file/pokey.cursorless-0.25.270.vsix";
-      sha256 = "sha256-ealqVaxNsmk6nLlPFH4BhbLPDRZUYr0nnM1j2oMukJc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.271/file/pokey.cursorless-0.25.271.vsix";
+      sha256 = "sha256-phU3t02iASDAY2wcpi6XpIVugDm2TmVhKDpqMujSE3U=";
     };
     name = "cursorless";
     license = "MIT";
