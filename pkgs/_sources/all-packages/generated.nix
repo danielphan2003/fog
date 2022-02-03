@@ -116,13 +116,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "a1f58ab97c90c85759a3b33a96af2bfd0b6fe78b";
+    version = "2d6244f9445ffa22c8d53b3e4b4641e0e5bb6170";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "a1f58ab97c90c85759a3b33a96af2bfd0b6fe78b";
+      rev = "2d6244f9445ffa22c8d53b3e4b4641e0e5bb6170";
       fetchSubmodules = false;
-      sha256 = "sha256-58gWCZcDumyN+bSZ4Jh6mfGtmBCFWDE7aqCpyWEK9x8=";
+      sha256 = "sha256-Z+H3vBJVrHS9+qJHwfhZ2HGOWZlwpMQlfbHEr9isvmk=";
     });
   };
   awestore = {
@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "b4755ba15bac5bd01f51faef48927b9f77ff2efd";
+    version = "79345dc2a601c85849a8933fd07fc5e740d38f76";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "b4755ba15bac5bd01f51faef48927b9f77ff2efd";
+      rev = "79345dc2a601c85849a8933fd07fc5e740d38f76";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-rYiUq27Ne4O5g1WC5VBpA6rZugi0FbuMloOpBgNjnuU=";
+      sha256 = "sha256-4hUNzcVDHyNdAv9q97iuk0o9e3E8be5F/mQG92+kjTY=";
     };
     cargoLock = {
-      lockFile = ./conduit-b4755ba15bac5bd01f51faef48927b9f77ff2efd/Cargo.lock;
+      lockFile = ./conduit-79345dc2a601c85849a8933fd07fc5e740d38f76/Cargo.lock;
       outputHashes = {
         "ruma-0.4.0" = "sha256-Zdoac8DAFLhza2smxQyIvoW7w1QKG2ZQVgOMTDe/1d0=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
