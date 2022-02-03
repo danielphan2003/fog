@@ -375,10 +375,10 @@
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
-    version = "0.1.4";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/0.1.4/file/Catppuccin.catppuccin-vsc-0.1.4.vsix";
-      sha256 = "sha256-RxfnljFp7wRKVhz8vbpGwRzzHKpHk5b7/RQjnsw5eV4=";
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.0/file/Catppuccin.catppuccin-vsc-1.0.0.vsix";
+      sha256 = "sha256-5quS1mlDgchRdK5f62IUvOt91czhLn48wp0TQm/jZ0s=";
     };
     name = "catppuccin-vsc";
     license = "MIT";
