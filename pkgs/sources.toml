@@ -79,6 +79,11 @@ src.git = "https://gitlab.com/famedly/conduit"
 fetch.git = "https://gitlab.com/famedly/conduit"
 cargo_lock = "Cargo.lock"
 
+[conduit-toolbox]
+src.git = "https://github.com/ShadowJonathan/conduit_toolbox"
+fetch.github = "ShadowJonathan/conduit_toolbox"
+cargo_lock = "Cargo.lock"
+
 [cups-pdf]
 src.webpage = "https://www.cups-pdf.de/src"
 src.regex = "cups-pdf_(.*)\\.tar\\.gz\">cups-pdf_"
