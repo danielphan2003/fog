@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5a623d704aeb5fb3841c48717ae6f02d16069c32";
+    version = "f162ba809aac009b626b34119eb34f04c85f5f0e";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "5a623d704aeb5fb3841c48717ae6f02d16069c32";
+      rev = "f162ba809aac009b626b34119eb34f04c85f5f0e";
       fetchSubmodules = false;
-      sha256 = "sha256-1Gx5mWoswOWVp9PPpeHwfJNbr9w61Dz9ck0btqUULd8=";
+      sha256 = "sha256-o9M2S31/RNB7TFbrUkNzc5oup0c3w6BTMtgr6l/LfmU=";
     });
   };
   caddy = {
@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "79345dc2a601c85849a8933fd07fc5e740d38f76";
+    version = "7a388f4d72f1e1d6f403d5aa938e8cb0a3f829ac";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "79345dc2a601c85849a8933fd07fc5e740d38f76";
+      rev = "7a388f4d72f1e1d6f403d5aa938e8cb0a3f829ac";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4hUNzcVDHyNdAv9q97iuk0o9e3E8be5F/mQG92+kjTY=";
+      sha256 = "sha256-heJE0vNdrZzoLUYBuHOhDw1hCL/KCQeC9slM+2w8vaM=";
     };
     cargoLock = {
-      lockFile = ./conduit-79345dc2a601c85849a8933fd07fc5e740d38f76/Cargo.lock;
+      lockFile = ./conduit-7a388f4d72f1e1d6f403d5aa938e8cb0a3f829ac/Cargo.lock;
       outputHashes = {
         "ruma-0.4.0" = "sha256-Zdoac8DAFLhza2smxQyIvoW7w1QKG2ZQVgOMTDe/1d0=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
@@ -256,13 +256,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "14902a060ffc00ecbf1d961c8193ce6fa4328c88";
+    version = "4c134a94a0d28e780ab09dc697aea770b141f41f";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "14902a060ffc00ecbf1d961c8193ce6fa4328c88";
+      rev = "4c134a94a0d28e780ab09dc697aea770b141f41f";
       fetchSubmodules = false;
-      sha256 = "sha256-12bDo1u479Xb8Xt6lYIIIbzeOLMgbNQOzQjDQCoKeZE=";
+      sha256 = "sha256-eiTIb0IjlWq5ZXkxm92a/xs6rl6Z025pZ4U4mVDIkTI=";
     });
   };
   droidcam = {
