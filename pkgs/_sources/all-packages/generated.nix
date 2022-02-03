@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f162ba809aac009b626b34119eb34f04c85f5f0e";
+    version = "decb328f209849a52612beaae57d74a373fc3d4f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f162ba809aac009b626b34119eb34f04c85f5f0e";
+      rev = "decb328f209849a52612beaae57d74a373fc3d4f";
       fetchSubmodules = false;
-      sha256 = "sha256-o9M2S31/RNB7TFbrUkNzc5oup0c3w6BTMtgr6l/LfmU=";
+      sha256 = "sha256-5PvRpfbWL566yAgaoy0v+DA0PGDhag0UWtvwk220AZo=";
     });
   };
   caddy = {
@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "86a9ec9f449740803685b776cd535c7da89496a2";
+    version = "51cca1a60ff6ea002ef5ca591cd9aeb25d071325";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "86a9ec9f449740803685b776cd535c7da89496a2";
+      rev = "51cca1a60ff6ea002ef5ca591cd9aeb25d071325";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-z5Ir+a2xV8pGEmc1nePColNBFNQhY75tATWigOvtFXA=";
+      sha256 = "sha256-BItLc/xe4LoYBFa1yF04M+evW3v2RKVZVVM8/HQw/mY=";
     };
     cargoLock = {
-      lockFile = ./conduit-86a9ec9f449740803685b776cd535c7da89496a2/Cargo.lock;
+      lockFile = ./conduit-51cca1a60ff6ea002ef5ca591cd9aeb25d071325/Cargo.lock;
       outputHashes = {
         "ruma-0.4.0" = "sha256-DbiQXWva9T1XdUxVrYqN1swe64Jc9q7uL8U6uWzqcJ4=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
@@ -937,13 +937,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "5f4162f449b19f6d198b365fc6d3dd0febc065e2";
+    version = "a137ee487f246568f6e67d5799b27abdaa5dca4e";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "5f4162f449b19f6d198b365fc6d3dd0febc065e2";
+      rev = "a137ee487f246568f6e67d5799b27abdaa5dca4e";
       fetchSubmodules = false;
-      sha256 = "sha256-gCdnim7excF11GEoni5YbIGTWSIx+wjHc8NO8lVNFts=";
+      sha256 = "sha256-ZS8QXoQ1NDpQd6MyXWgJzPZruhJUvKB+xD4otuWoD6M=";
     });
   };
   swaylock-effects = {
