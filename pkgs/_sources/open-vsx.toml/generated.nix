@@ -1767,10 +1767,10 @@
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
-    version = "4.4.1";
+    version = "4.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.1/file/LeonardSSH.vscord-4.4.1.vsix";
-      sha256 = "sha256-Zre5YaeEcpV+DAFmV59QNvEb3aqGJcg4QuATyDVwULQ=";
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.2/file/LeonardSSH.vscord-4.4.2.vsix";
+      sha256 = "sha256-fRmKG8oaGZw8TyegPG0Y+E9ds/bosRyiCHosb5VhDKM=";
     };
     name = "vscord";
     license = "MIT";
@@ -13755,10 +13755,10 @@
   };
   redhat-vscode-xml = {
     pname = "redhat-vscode-xml";
-    version = "0.18.2";
+    version = "0.18.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-xml/0.18.2/file/redhat.vscode-xml-0.18.2.vsix";
-      sha256 = "sha256-ZXamhNqYn372JhHU/4+WztV/LuuCdt5nWvKl/3b7hww=";
+      url = "https://open-vsx.org/api/redhat/vscode-xml/0.18.3/file/redhat.vscode-xml-0.18.3.vsix";
+      sha256 = "sha256-bJXd/KysaCU8Q/AxIuHNKxxL8WjXyN2BTSpqBs79Wpw=";
     };
     name = "vscode-xml";
     license = "EPL-2.0";
