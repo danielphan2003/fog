@@ -458,6 +458,10 @@ fetch.git = "git://anongit.freedesktop.org/xorg/xserver"
 src.git = "https://github.com/ReimuNotMoe/ydotool"
 fetch.github = "ReimuNotMoe/ydotool"
 
+[yubikey-agent]
+src.git = "https://github.com/FiloSottile/yubikey-agent"
+fetch.github = "FiloSottile/yubikey-agent"
+
 [yubikey-guide]
 src.git = "https://github.com/drduh/YubiKey-Guide"
 fetch.github = "drduh/YubiKey-Guide"
