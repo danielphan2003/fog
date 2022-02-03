@@ -199,6 +199,23 @@
       };
     };
   };
+  conduit-toolbox = {
+    pname = "conduit-toolbox";
+    version = "daccce60315e560ad375bfa9386498e593473d0b";
+    src = fetchFromGitHub ({
+      owner = "ShadowJonathan";
+      repo = "conduit_toolbox";
+      rev = "daccce60315e560ad375bfa9386498e593473d0b";
+      fetchSubmodules = false;
+      sha256 = "sha256-Npfq03H/FRystAL5t3wufes6ulOHOiqHI8ivNn0P5Qw=";
+    });
+    cargoLock = {
+      lockFile = ./conduit-toolbox-daccce60315e560ad375bfa9386498e593473d0b/Cargo.lock;
+      outputHashes = {
+        "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
+      };
+    };
+  };
   cups-pdf = {
     pname = "cups-pdf";
     version = "3.0.1";
