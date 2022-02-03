@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "510a44699db87239f3aa34ca3adf5fa09265eead";
+    version = "b4755ba15bac5bd01f51faef48927b9f77ff2efd";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "510a44699db87239f3aa34ca3adf5fa09265eead";
+      rev = "b4755ba15bac5bd01f51faef48927b9f77ff2efd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-75Kx3YppGff9j6IsL76kONMOPZCyDbAXljA/Jemf88s=";
+      sha256 = "sha256-rYiUq27Ne4O5g1WC5VBpA6rZugi0FbuMloOpBgNjnuU=";
     };
     cargoLock = {
-      lockFile = ./conduit-510a44699db87239f3aa34ca3adf5fa09265eead/Cargo.lock;
+      lockFile = ./conduit-b4755ba15bac5bd01f51faef48927b9f77ff2efd/Cargo.lock;
       outputHashes = {
         "ruma-0.4.0" = "sha256-Zdoac8DAFLhza2smxQyIvoW7w1QKG2ZQVgOMTDe/1d0=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
