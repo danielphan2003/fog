@@ -375,10 +375,10 @@
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.0/file/Catppuccin.catppuccin-vsc-1.0.0.vsix";
-      sha256 = "sha256-5quS1mlDgchRdK5f62IUvOt91czhLn48wp0TQm/jZ0s=";
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.1/file/Catppuccin.catppuccin-vsc-1.0.1.vsix";
+      sha256 = "sha256-CkcUR0hxOhB6Pqf6dCApFOcqh8Z/OnptAj1nl6XkbZQ=";
     };
     name = "catppuccin-vsc";
     license = "MIT";
@@ -2571,10 +2571,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.588";
+    version = "31.0.592";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.588/file/Prisma.prisma-insider-31.0.588.vsix";
-      sha256 = "sha256-v0qTshN/bk2VNncw/C5CMX2an1i32SACChaZz3A4rQc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.592/file/Prisma.prisma-insider-31.0.592.vsix";
+      sha256 = "sha256-WcOQtSijmPpxb2cjWxZluXW8YA68HdB4Ouv5Yb33AKo=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
