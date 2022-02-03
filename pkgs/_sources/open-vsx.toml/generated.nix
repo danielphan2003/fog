@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.2.0";
+    version = "13.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.2.0/file/Angular.ng-template-13.2.0.vsix";
-      sha256 = "sha256-qZovPLlTirHxWj6s84GheKsumhDjoLQRD6fXYwmXP1c=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.2.2/file/Angular.ng-template-13.2.2.vsix";
+      sha256 = "sha256-pU1Usd5gxXgoweP7ePGR6TPvNVE4GvJLUrcXzc/kEnk=";
     };
     name = "ng-template";
     license = "MIT";
@@ -2883,10 +2883,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.2.122";
+    version = "2022.2.214";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.122/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.122.vsix";
-      sha256 = "sha256-b3OaAWe1IUrxDZ846JiPooPpHRj3oO/0Y7FhPvdr0sc=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.214/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.214.vsix";
+      sha256 = "sha256-87c7YFiHYHRE6uCoV4vKWUseaapeivXj9ABBpzStTkA=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -4611,10 +4611,10 @@
   };
   asciidoctor-asciidoctor-vscode = {
     pname = "asciidoctor-asciidoctor-vscode";
-    version = "2.9.2";
+    version = "2.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.2/file/asciidoctor.asciidoctor-vscode-2.9.2.vsix";
-      sha256 = "sha256-w4ijHv2MdTYaezxg7OShoMKUZBMSNxoDFQJEmuIr3+I=";
+      url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.3/file/asciidoctor.asciidoctor-vscode-2.9.3.vsix";
+      sha256 = "sha256-GDg5GMQ0zQIQlyiTaFA1DyXtsSf57rS8HJwXZhOPk2U=";
     };
     name = "asciidoctor-vscode";
     license = "MIT";
@@ -8223,10 +8223,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.5.5";
+    version = "0.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.5/file/halcyontechltd.vscode-rpgle-0.5.5.vsix";
-      sha256 = "sha256-RUsBWWB6w8EtbrxKj0SnvyCuVWdZHVTRpsejnyB2cKY=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.6/file/halcyontechltd.vscode-rpgle-0.5.6.vsix";
+      sha256 = "sha256-iyY3U96QS+Jnc+aRsEtWOExEW09kQUHgMdbD8Q5BrpA=";
     };
     name = "vscode-rpgle";
     license = "MIT";
