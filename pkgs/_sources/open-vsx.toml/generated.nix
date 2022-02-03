@@ -375,10 +375,10 @@
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/0.1.3/file/Catppuccin.catppuccin-vsc-0.1.3.vsix";
-      sha256 = "sha256-yE/FcjNX6KyLOSOMBW4omAlL162+tyb+nICbBhb/VmU=";
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/0.1.4/file/Catppuccin.catppuccin-vsc-0.1.4.vsix";
+      sha256 = "sha256-RxfnljFp7wRKVhz8vbpGwRzzHKpHk5b7/RQjnsw5eV4=";
     };
     name = "catppuccin-vsc";
     license = "MIT";
@@ -10431,10 +10431,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.2";
+    version = "0.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.2/file/ligolang-publish.ligo-vscode-0.4.2.vsix";
-      sha256 = "sha256-CLB16932MXBoodFerKymWBldxNTfVTWNvwqxAFHMEZQ=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.7/file/ligolang-publish.ligo-vscode-0.4.7.vsix";
+      sha256 = "sha256-zy2LmekRtT7bBZ2t+Rp2vfSAyTVwzDAAXB+DwOqLLfs=";
     };
     name = "ligo-vscode";
     license = "MIT";
