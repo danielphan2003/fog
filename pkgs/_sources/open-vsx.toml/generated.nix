@@ -1767,10 +1767,10 @@
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
-    version = "4.4.2";
+    version = "4.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.2/file/LeonardSSH.vscord-4.4.2.vsix";
-      sha256 = "sha256-fRmKG8oaGZw8TyegPG0Y+E9ds/bosRyiCHosb5VhDKM=";
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.3/file/LeonardSSH.vscord-4.4.3.vsix";
+      sha256 = "sha256-MIGt+ledp6mJyKMhwANEELHopTyW3OehaVYYnK1HqnA=";
     };
     name = "vscord";
     license = "MIT";
