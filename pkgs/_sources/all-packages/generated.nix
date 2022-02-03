@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "ced821b66952757b7adbed459c0bf3479b9b4d0c";
+    version = "510ea5be8932316adf323621a90c7b5c8bdb1f68";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "ced821b66952757b7adbed459c0bf3479b9b4d0c";
+      rev = "510ea5be8932316adf323621a90c7b5c8bdb1f68";
       fetchSubmodules = false;
-      sha256 = "sha256-EU6DlEflEWwmvbkNWXHnNhY0M7zJcOGYFShmTiuBJ+k=";
+      sha256 = "sha256-dp6MwetlFTxtfblzQjueQeaBk2y7DtVdGi/Yie05cRE=";
     });
   };
   caddy = {
@@ -217,13 +217,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "4c67e790f68025ca6822ff1f29002d9166fb5008";
+    version = "ef1c70e87da17576cf5ddef66957173884f5b48d";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "4c67e790f68025ca6822ff1f29002d9166fb5008";
+      rev = "ef1c70e87da17576cf5ddef66957173884f5b48d";
       fetchSubmodules = false;
-      sha256 = "sha256-jOs8OSFGc/HU/pIDd29h8nyX1WDS4UB8cKTqkP5AuWg=";
+      sha256 = "sha256-lKW8Xk0Pvs7vxb/uSlwQbh6F+UW0IDyZW3/C/xuZh6E=";
     });
   };
   doggo = {
@@ -384,18 +384,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5828";
+    version = "1.0.5829";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5828.tar.bz2";
-      sha256 = "sha256-2oZKAURwtOIvJq/C+NQeeBWkBxPygeqvfmIdzOrUhZc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5829.tar.bz2";
+      sha256 = "sha256-v5REIXKBbQqLvS7ephZE/t6yCAbv/p+RKewuPizPQDE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5828";
+    version = "1.0.5829";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5828-1_all.deb";
-      sha256 = "sha256-fA93Rt/zh5WMdbyJ+ea681UcPxMUahf0Irvbrjh4kks=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5829-1_all.deb";
+      sha256 = "sha256-QTfL2Am5WrMvt0aQnqFx8e3z9a8589TDZz7gzw937fM=";
     };
   };
   jitsi-videobridge2 = {
@@ -736,13 +736,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "37a91e1be5b8cdf337879ebbffdc9443218ac3fb";
+    version = "d43b99cbacb902e7b4953e8e6d57f3e972770704";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "37a91e1be5b8cdf337879ebbffdc9443218ac3fb";
+      rev = "d43b99cbacb902e7b4953e8e6d57f3e972770704";
       fetchSubmodules = false;
-      sha256 = "sha256-9D6fG0vbpgXNXugv0e64s5LfsJ+5CQ9hapbYAV80YNY=";
+      sha256 = "sha256-XDeJFKRV8JrT4cADnz0HT8t2IeOt8jLn7nL2aUj7VmQ=";
     });
   };
   rofi-wayland = {
@@ -1186,6 +1186,17 @@
       rev = "226b8af730c739966f31066e2ee6253c7263059d";
       fetchSubmodules = false;
       sha256 = "sha256-JlfUQnP+mxnCFDYgBkK5wt/nn4rL55NJaV+WvkVSEmw=";
+    });
+  };
+  yubikey-agent = {
+    pname = "yubikey-agent";
+    version = "205a7ef2554625c7494038600d963123d6311873";
+    src = fetchFromGitHub ({
+      owner = "FiloSottile";
+      repo = "yubikey-agent";
+      rev = "205a7ef2554625c7494038600d963123d6311873";
+      fetchSubmodules = false;
+      sha256 = "sha256-wJpN63KY5scmez6yYFsIr3JLEUB+YSl/XvoatIIeRI0=";
     });
   };
   yubikey-guide = {
