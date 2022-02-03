@@ -160,13 +160,13 @@
   };
   caddy = {
     pname = "caddy";
-    version = "7557d1d92240d7dc36a6f8137ab542f3908f316c";
+    version = "741b0502ee7cb0ecbd6dd0517c4f186729f52718";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "7557d1d92240d7dc36a6f8137ab542f3908f316c";
+      rev = "741b0502ee7cb0ecbd6dd0517c4f186729f52718";
       fetchSubmodules = false;
-      sha256 = "sha256-Kux+hQlQBYI4lNHTcCgbzT8fXMnT8DC81jlMSwUpCiM=";
+      sha256 = "sha256-4hNQ2z31nLY4RNPX1GX9QOFSYPGU358RfcWrTVujSXM=";
     });
   };
   cinny = {
