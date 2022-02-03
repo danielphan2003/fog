@@ -16287,10 +16287,10 @@
   };
   unthrottled-doki-theme = {
     pname = "unthrottled-doki-theme";
-    version = "19.0.1";
+    version = "74.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unthrottled/doki-theme/19.0.1/file/unthrottled.doki-theme-19.0.1.vsix";
-      sha256 = "sha256-hXzAEBRDKWIz9wChqVkKYUc8jKyysLrwNR94JlyVywg=";
+      url = "https://open-vsx.org/api/unthrottled/doki-theme/74.1.0/file/unthrottled.doki-theme-74.1.0.vsix";
+      sha256 = "sha256-jYfj0/m8JAdz68jebKb8l8sqre3+ySf8Rv0F6yUFCcs=";
     };
     name = "doki-theme";
     license = "MIT";
