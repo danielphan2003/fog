@@ -1767,10 +1767,10 @@
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
-    version = "4.4.0";
+    version = "4.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.0/file/LeonardSSH.vscord-4.4.0.vsix";
-      sha256 = "sha256-NBURMIDf8Eh87kcBFwzSoPuD65JoTOZGv/3yMbF0tKc=";
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.1/file/LeonardSSH.vscord-4.4.1.vsix";
+      sha256 = "sha256-Zre5YaeEcpV+DAFmV59QNvEb3aqGJcg4QuATyDVwULQ=";
     };
     name = "vscord";
     license = "MIT";
@@ -2571,10 +2571,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.594";
+    version = "31.0.595";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.594/file/Prisma.prisma-insider-31.0.594.vsix";
-      sha256 = "sha256-LRTZ8hy2muFZYzLXIFN8l1nSWzKqGfhkf6p3abrSzVs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.595/file/Prisma.prisma-insider-31.0.595.vsix";
+      sha256 = "sha256-aSDATLefe06wsJRItdzN4nn821AU0LucUiOSeYXUZhU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4671,10 +4671,10 @@
   };
   atlassian-atlascode = {
     pname = "atlassian-atlascode";
-    version = "2.10.6";
+    version = "2.10.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.6/file/atlassian.atlascode-2.10.6.vsix";
-      sha256 = "sha256-THhrliW3nOWCFGC+0hiysPPZFXZqO2coifeN7BYc95E=";
+      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.7/file/atlassian.atlascode-2.10.7.vsix";
+      sha256 = "sha256-bw5rL6qSpJDIIKrMsLGGZzpyvsWvKnGB5wos8F0BBCw=";
     };
     name = "atlascode";
     license = "MIT";
@@ -6363,10 +6363,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.80.2";
+    version = "0.80.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.80.2/file/dendron.dendron-0.80.2.vsix";
-      sha256 = "sha256-oTgxRpxpvRLRu4m/g2TAeekNOXaJ/sV7p6qMKVli64w=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.80.3/file/dendron.dendron-0.80.3.vsix";
+      sha256 = "sha256-v700/6f0wapbJMRMj35DFmctVMPkkgoqxDBDO30f36s=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -11103,10 +11103,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.7.2";
+    version = "1.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.7.2/file/mintlify.document-1.7.2.vsix";
-      sha256 = "sha256-fRAOdBw5kJu8Q9qJ0s6uKjQvrgeZJD5GgeJjV3bPh3k=";
+      url = "https://open-vsx.org/api/mintlify/document/1.7.3/file/mintlify.document-1.7.3.vsix";
+      sha256 = "sha256-6qlktCxQYRUGehYfCplSM5T74GhdcsuIRnABSCV0q6g=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -13083,10 +13083,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.271";
+    version = "0.25.274";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.271/file/pokey.cursorless-0.25.271.vsix";
-      sha256 = "sha256-phU3t02iASDAY2wcpi6XpIVugDm2TmVhKDpqMujSE3U=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.274/file/pokey.cursorless-0.25.274.vsix";
+      sha256 = "sha256-wrfpMX6kYAHTJqShr8kzE7bBGOkxN58oh67Xb0zpDCU=";
     };
     name = "cursorless";
     license = "MIT";
