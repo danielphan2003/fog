@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "8db7d2c025c4a5dbc46dec306ef019303da813f6";
+    version = "f35ad276279b15458af1bb27aead220d19968b96";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "8db7d2c025c4a5dbc46dec306ef019303da813f6";
+      rev = "f35ad276279b15458af1bb27aead220d19968b96";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-n0vo5wYnEkZ9W/PmKg+GGY3e5+c6gP6K73JOKdkrgIo=";
+      sha256 = "sha256-dpB98waZ+Y6X5MjU34n2NhFd1jRDQry78GLtGp1JGHI=";
     };
     cargoLock = {
-      lockFile = ./conduit-8db7d2c025c4a5dbc46dec306ef019303da813f6/Cargo.lock;
+      lockFile = ./conduit-f35ad276279b15458af1bb27aead220d19968b96/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-DbiQXWva9T1XdUxVrYqN1swe64Jc9q7uL8U6uWzqcJ4=";
@@ -316,13 +316,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "42917930ca11646ad5ac71f53f600e752ed713c6";
+    version = "77ccac564074b101ae3e1621449de53636168c2f";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "42917930ca11646ad5ac71f53f600e752ed713c6";
+      rev = "77ccac564074b101ae3e1621449de53636168c2f";
       fetchSubmodules = false;
-      sha256 = "sha256-KJeHTtM+ZqqyUNGE8CmSNNvcwPd+5UPRd3P3DyKCnR0=";
+      sha256 = "sha256-6hh8Q/jDCyYn8OVo0V49r2psFbl81a3qrOwUtM3dPeM=";
     });
   };
   flyingfox = {
