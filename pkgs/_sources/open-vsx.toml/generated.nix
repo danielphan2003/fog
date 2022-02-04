@@ -13779,10 +13779,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.3.0/file/redhat.vscode-yaml-1.3.0.vsix";
-      sha256 = "sha256-Tz6bLcBUATn8cYIzGoLJwgaJZGbBVr1CISmJHz+iM60=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.4.0/file/redhat.vscode-yaml-1.4.0.vsix";
+      sha256 = "sha256-Sp81X+qfsToIt2eew0NWRKF/8YHodBnGWJjx/EmMR6U=";
     };
     name = "vscode-yaml";
     license = "MIT";
