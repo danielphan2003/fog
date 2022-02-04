@@ -2425,6 +2425,18 @@
     publisher = "PascalReitermann93";
     description = "This VS Code extension exposes the possibility to sort, format and validate yaml files.";
   };
+  PauloAboimPinto-avalonia-vscode-extension = {
+    pname = "PauloAboimPinto-avalonia-vscode-extension";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/PauloAboimPinto/avalonia-vscode-extension/0.0.1/file/PauloAboimPinto.avalonia-vscode-extension-0.0.1.vsix";
+      sha256 = "sha256-15Dcxc8L1GCTk7TPlU6NX7MjPv/8bxcsbhm4nMwRMs0=";
+    };
+    name = "avalonia-vscode-extension";
+    license = "MIT";
+    publisher = "PauloAboimPinto";
+    description = "Create projects using Avalonia templates; Avalonia AXAML code-completion.";
+  };
   PeggyJS-peggy-language = {
     pname = "PeggyJS-peggy-language";
     version = "2.2.0";
@@ -11103,10 +11115,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.7.3";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.7.3/file/mintlify.document-1.7.3.vsix";
-      sha256 = "sha256-6qlktCxQYRUGehYfCplSM5T74GhdcsuIRnABSCV0q6g=";
+      url = "https://open-vsx.org/api/mintlify/document/1.8.0/file/mintlify.document-1.8.0.vsix";
+      sha256 = "sha256-t0OQEemggKmNozZwH+9mbpe1i0Sp5eFyK6kb356qFDI=";
     };
     name = "document";
     license = "Apache-2.0";
