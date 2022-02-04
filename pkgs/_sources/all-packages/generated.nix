@@ -401,18 +401,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5835";
+    version = "1.0.5836";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5835.tar.bz2";
-      sha256 = "sha256-GVPr4BsyAWJ+hEM0C6ePRAGZpN5XL7KWSVjfMpifrbY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5836.tar.bz2";
+      sha256 = "sha256-KB2dvpGCMy8Ur8cUTZmLxFolt0J/FAKMTle3W/RGb1M=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5835";
+    version = "1.0.5836";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5835-1_all.deb";
-      sha256 = "sha256-IbUplpeVlOnMAoF2+TOk6ZgPY1G5Cug8Gwv1v24CmHM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5836-1_all.deb";
+      sha256 = "sha256-QwfY3oe1TG+BjdEM98bCr3Ln3RtMPyUqLQEy5f04BZs=";
     };
   };
   jitsi-videobridge2 = {
@@ -575,13 +575,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "68137935a90530b9abab6d8e93154b5ca6ed125d";
+    version = "b781f580976164e448be268c09432f3f343201ec";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "68137935a90530b9abab6d8e93154b5ca6ed125d";
+      rev = "b781f580976164e448be268c09432f3f343201ec";
       fetchSubmodules = false;
-      sha256 = "sha256-m9J2B5AbAvUWmn3LRt8vPie1YzvGs+DRczUQWsNYp4s=";
+      sha256 = "sha256-aGXXb7t5ia2vm8iLSMftB/BSVUQa1Pl1r9twk6ba4pY=";
     });
   };
   ny-font = {
