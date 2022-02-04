@@ -1071,10 +1071,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.34.3";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.34.3/file/GitHub.vscode-pull-request-github-0.34.3.vsix";
-      sha256 = "sha256-sBgpgKg43nhn1JaMv7BumkNcrlJIGycbF20nwSK0jh4=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.0/file/GitHub.vscode-pull-request-github-0.36.0.vsix";
+      sha256 = "sha256-w+JcWiOSN5Vz14hQbFUO7QYEdm13E3NzAhMNwY87q1A=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -2895,10 +2895,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.2.214";
+    version = "2022.2.318";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.214/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.214.vsix";
-      sha256 = "sha256-87c7YFiHYHRE6uCoV4vKWUseaapeivXj9ABBpzStTkA=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.318/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.318.vsix";
+      sha256 = "sha256-a14thXz2HDaXXR8ftwyZjE9Gn8pf6k0V1YxhK1ToLas=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -11439,10 +11439,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2021.12.1559732655";
+    version = "2022.0.1786462952";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2021.12.1559732655/file/ms-python.python-2021.12.1559732655.vsix";
-      sha256 = "sha256-hXTVZ7gbu234zyAg0ZrZPUo6oULB98apxe79U2yQHD4=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.0.1786462952/file/ms-python.python-2022.0.1786462952.vsix";
+      sha256 = "sha256-rV4WEJwCj3ldeNrs61NGwAMWZMeqHlpb+z9Ccz/4ufs=";
     };
     name = "python";
     license = "MIT";
