@@ -401,10 +401,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5834";
+    version = "1.0.5835";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5834.tar.bz2";
-      sha256 = "sha256-oOseOVASyH8dVOB2hvL7krgscBb91XHpu0IqwJrmhws=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5835.tar.bz2";
+      sha256 = "sha256-GVPr4BsyAWJ+hEM0C6ePRAGZpN5XL7KWSVjfMpifrbY=";
     };
   };
   jitsi-meet-prosody = {
