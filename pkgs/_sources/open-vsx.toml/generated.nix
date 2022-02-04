@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.598";
+    version = "31.0.599";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.598/file/Prisma.prisma-insider-31.0.598.vsix";
-      sha256 = "sha256-OGq62w1C/CzJ9D9Xc8Ub6XET5jbYjFa2GNFBLJpcr5I=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.599/file/Prisma.prisma-insider-31.0.599.vsix";
+      sha256 = "sha256-+TpeL4DyW7L/1Bof5tW43qAW8ABNRFoj1c2e4ThUImU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2763,10 +2763,10 @@
   };
   RoweWilsonFrederiskHolme-wikitext = {
     pname = "RoweWilsonFrederiskHolme-wikitext";
-    version = "3.6.2";
+    version = "3.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.2/file/RoweWilsonFrederiskHolme.wikitext-3.6.2.vsix";
-      sha256 = "sha256-JCTwF8YfvyYMfnwXyV+eai/WjCPG/9lDFwuQ8VK0hS4=";
+      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.3/file/RoweWilsonFrederiskHolme.wikitext-3.6.3.vsix";
+      sha256 = "sha256-s88R+RjtKnongzDlMqOCa7x1GPbfuLmwwF6mE94Cx88=";
     };
     name = "wikitext";
     license = "MIT";
@@ -12303,10 +12303,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.13.7";
+    version = "17.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.13.7/file/nrwl.angular-console-17.13.7.vsix";
-      sha256 = "sha256-Pz/7W1pRCSJncnj8Y16QURDXxmKxYHHEAVxhJQs+kDA=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.14.0/file/nrwl.angular-console-17.14.0.vsix";
+      sha256 = "sha256-Tp/brE9xSQpmURsAlR3T07v7lM19JOgjZS08YIfCPvM=";
     };
     name = "angular-console";
     license = "MIT";
