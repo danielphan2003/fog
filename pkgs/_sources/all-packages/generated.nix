@@ -171,13 +171,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "a59aa2c30fddd64f1c03584141bb57b6465af2db";
+    version = "b008c5f07f70f6f81d059f9617dd4c8bf40aeb8e";
     src = fetchFromGitHub ({
       owner = "ajbura";
       repo = "cinny";
-      rev = "a59aa2c30fddd64f1c03584141bb57b6465af2db";
+      rev = "b008c5f07f70f6f81d059f9617dd4c8bf40aeb8e";
       fetchSubmodules = false;
-      sha256 = "sha256-0K9DjCBIoc4HtNpoyGC21BZOpgk8f+FXVRCaxHhqBTs=";
+      sha256 = "sha256-s2D9VScQh3KPihUKtqcbJwUxWCiOuUoIiNbnEqlOvmk=";
     });
   };
   conduit = {
@@ -363,13 +363,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "dfd3fbf26fa4b5ff20512b166a8dd321afc10344";
+    version = "c69b61aa66239e1b13c9764b2d3bf6f02d086785";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "dfd3fbf26fa4b5ff20512b166a8dd321afc10344";
+      rev = "c69b61aa66239e1b13c9764b2d3bf6f02d086785";
       fetchSubmodules = false;
-      sha256 = "sha256-XmjxixTw/gzBimJTsGG+H2fLlcJaPUvL9OhYBLxerVw=";
+      sha256 = "sha256-3KRU8r3cRbzCEFSV4GW/NlIM4BfbrktIfcN5lyEBz9M=";
     });
   };
   ibus-bamboo = {
@@ -1109,13 +1109,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "aff25879da41842f75e27e383990540f6342d3a6";
+    version = "38436daabe84bd3f58b6feb23f1f48561b9a21ba";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "aff25879da41842f75e27e383990540f6342d3a6";
+      rev = "38436daabe84bd3f58b6feb23f1f48561b9a21ba";
       fetchSubmodules = false;
-      sha256 = "sha256-N4nQoHbID7UM4HPCbm5I/1UWjsAn7PRMlo6osMVxsS4=";
+      sha256 = "sha256-lMt8+U1vgJhx7RWv03OQ1WWUX81nn+De0xSUxwmveds=";
     });
   };
   widevine-cdm = {
