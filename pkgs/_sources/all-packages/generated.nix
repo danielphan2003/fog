@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "4dcc080ad94fa3801e1e2ddf3e725060ce2a4763";
+    version = "0cec4219302876e2308afa1bfa9d73b0da6c7bcc";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "4dcc080ad94fa3801e1e2ddf3e725060ce2a4763";
+      rev = "0cec4219302876e2308afa1bfa9d73b0da6c7bcc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-pi7INy4kkb6Aco2O6K8mrpJFDrxGB46H/PsvaE9bzLA=";
+      sha256 = "sha256-jCBvenwXPgYms5Tbu16q/F8UNpvaw0Shao9kLEZLbHM=";
     };
     cargoLock = {
-      lockFile = ./conduit-4dcc080ad94fa3801e1e2ddf3e725060ce2a4763/Cargo.lock;
+      lockFile = ./conduit-0cec4219302876e2308afa1bfa9d73b0da6c7bcc/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-DbiQXWva9T1XdUxVrYqN1swe64Jc9q7uL8U6uWzqcJ4=";
@@ -776,16 +776,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5a0f8d008ed29a84dffc16af4dd6fdfff2430085";
+    version = "3ec69b6d97b2486fe4fa53a348c0110aec589000";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5a0f8d008ed29a84dffc16af4dd6fdfff2430085";
+      rev = "3ec69b6d97b2486fe4fa53a348c0110aec589000";
       fetchSubmodules = false;
-      sha256 = "sha256-4ClX+j7MmomIOx3HFe4FJjvP5hj2ZRNyv+yexm2mM+w=";
+      sha256 = "sha256-SVir1aOrEkJDTAJxa9PI6Z6fi+5ftVLYlmhLMWmlNiY=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-5a0f8d008ed29a84dffc16af4dd6fdfff2430085/Cargo.lock;
+      lockFile = ./rustdesk-3ec69b6d97b2486fe4fa53a348c0110aec589000/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
