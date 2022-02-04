@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.596";
+    version = "31.0.597";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.596/file/Prisma.prisma-insider-31.0.596.vsix";
-      sha256 = "sha256-irqjFvVtwcTWXaZLg82B84X4Ij0OFW8wYwV2hZa9TEA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.597/file/Prisma.prisma-insider-31.0.597.vsix";
+      sha256 = "sha256-QCE38/XtoWT7rakQKVg9Rg8pj/xn5779mMB+9DOTLbI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3423,10 +3423,10 @@
   };
   Yseop-vscode-yseopml = {
     pname = "Yseop-vscode-yseopml";
-    version = "1.15.0";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Yseop/vscode-yseopml/1.15.0/file/Yseop.vscode-yseopml-1.15.0.vsix";
-      sha256 = "sha256-Ef8eezAl0EGBFTCPCiwE7ykIuKihOeyFEtashnrmWWs=";
+      url = "https://open-vsx.org/api/Yseop/vscode-yseopml/1.16.0/file/Yseop.vscode-yseopml-1.16.0.vsix";
+      sha256 = "sha256-IpaARO6A/Z2CxGJkiKn+DFUBW2uiMM2nDWhanZl5Yjg=";
     };
     name = "vscode-yseopml";
     license = "MIT";
@@ -6051,10 +6051,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.0/file/d-biehl.robotcode-0.5.0.vsix";
-      sha256 = "sha256-Xqx27D63M8c1KVYmt4dE2KE2ffpsYZdUk3BKi8tkGg0=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.1/file/d-biehl.robotcode-0.5.1.vsix";
+      sha256 = "sha256-QYj6t0AXTZNS7wko022K8XAP4g3GcfNBIE+Ik+dabJI=";
     };
     name = "robotcode";
     license = "Apache-2.0";
