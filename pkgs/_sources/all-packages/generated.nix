@@ -409,10 +409,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5834";
+    version = "1.0.5835";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5834-1_all.deb";
-      sha256 = "sha256-w8tHTCQx1hwhGrLISxh5uxZjsbiqjOABqXNktTNQNSM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5835-1_all.deb";
+      sha256 = "sha256-IbUplpeVlOnMAoF2+TOk6ZgPY1G5Cug8Gwv1v24CmHM=";
     };
   };
   jitsi-videobridge2 = {
