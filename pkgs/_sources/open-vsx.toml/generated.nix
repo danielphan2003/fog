@@ -6039,10 +6039,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.15.3";
+    version = "0.15.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.3/file/cyrusfirheir.twee3-language-tools-0.15.3.vsix";
-      sha256 = "sha256-OsZrI0DxekI9Dc6aub08t7aQV0gX9MxxG6R3ZqkqDOY=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.4/file/cyrusfirheir.twee3-language-tools-0.15.4.vsix";
+      sha256 = "sha256-dAIscttUex+pYp8yzoWqXcv82/4RKJmGGidBmQM1ZMY=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -13923,10 +13923,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.27.0";
+    version = "0.27.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.27.0/file/robocorp.robocorp-code-0.27.0.vsix";
-      sha256 = "sha256-PTlz1O4tm75e0A2NI+bY6FOccWZthYGPQniuJywIXrc=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.27.1/file/robocorp.robocorp-code-0.27.1.vsix";
+      sha256 = "sha256-1zrDJI3Pm4LHCw47Yeq3jyK/rAFIky1GgCKPhvPo9LA=";
     };
     name = "robocorp-code";
     license = "";
