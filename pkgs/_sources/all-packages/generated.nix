@@ -182,17 +182,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "f35ad276279b15458af1bb27aead220d19968b96";
+    version = "4dcc080ad94fa3801e1e2ddf3e725060ce2a4763";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "f35ad276279b15458af1bb27aead220d19968b96";
+      rev = "4dcc080ad94fa3801e1e2ddf3e725060ce2a4763";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-dpB98waZ+Y6X5MjU34n2NhFd1jRDQry78GLtGp1JGHI=";
+      sha256 = "sha256-pi7INy4kkb6Aco2O6K8mrpJFDrxGB46H/PsvaE9bzLA=";
     };
     cargoLock = {
-      lockFile = ./conduit-f35ad276279b15458af1bb27aead220d19968b96/Cargo.lock;
+      lockFile = ./conduit-4dcc080ad94fa3801e1e2ddf3e725060ce2a4763/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-DbiQXWva9T1XdUxVrYqN1swe64Jc9q7uL8U6uWzqcJ4=";
@@ -754,13 +754,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d43b99cbacb902e7b4953e8e6d57f3e972770704";
+    version = "763fcd8267d14af6ef39423b1412eab6f273c6c8";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d43b99cbacb902e7b4953e8e6d57f3e972770704";
+      rev = "763fcd8267d14af6ef39423b1412eab6f273c6c8";
       fetchSubmodules = false;
-      sha256 = "sha256-XDeJFKRV8JrT4cADnz0HT8t2IeOt8jLn7nL2aUj7VmQ=";
+      sha256 = "sha256-CCLZ3j5Ok4ARnCmpj/I0e50GxzpfzN4unAZ3kZzOSNY=";
     });
   };
   rofi-wayland = {
@@ -1077,13 +1077,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "8c20d0c10907d330a56c335d086831759822f63f";
+    version = "4488205505ae4895f60306b59831c843b18bf8c6";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "8c20d0c10907d330a56c335d086831759822f63f";
+      rev = "4488205505ae4895f60306b59831c843b18bf8c6";
       fetchSubmodules = false;
-      sha256 = "sha256-cSCGrqK3MPIhvRlP/o7dRGX1yZZqjECXf2a2VZxYy0A=";
+      sha256 = "sha256-I9u77C8mp+MzflrreKJVaHU4GM9/8vAnbHJVX+NOMDw=";
     });
   };
   wgcf = {
@@ -1185,14 +1185,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "0217cc6e0cf5013366105a90f5f91ccc4bab5425";
+    version = "4c03b67d334b05b814239420776f2fdd4c4a98ac";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "0217cc6e0cf5013366105a90f5f91ccc4bab5425";
+      rev = "4c03b67d334b05b814239420776f2fdd4c4a98ac";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ehFMCcu62hh4d/J613tHwnobTQCiTE/3xncA+xvcNrI=";
+      sha256 = "sha256-mGqpdfTjgc+RltZup1FU4HuJB8UB3+CpkNNi2/bPBgo=";
     };
   };
   ydotool = {

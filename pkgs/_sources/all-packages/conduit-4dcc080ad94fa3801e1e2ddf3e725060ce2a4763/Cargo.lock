@@ -304,7 +304,7 @@ checksum = "3d7b894f5411737b7867f4827955924d7c254fc9f4d91a6aad6b097804b1018b"
 
 [[package]]
 name = "conduit"
-version = "0.2.0"
+version = "0.3.0"
 dependencies = [
  "base64 0.13.0",
  "bytes",
@@ -2018,7 +2018,7 @@ dependencies = [
 [[package]]
 name = "reqwest"
 version = "0.11.9"
-source = "git+https://github.com/niuhuan/reqwest?branch=dns-resolver-fn#57b7cf4feb921573dfafad7d34b9ac6e44ead0bd"
+source = "git+https://github.com/timokoesters/reqwest?rev=57b7cf4feb921573dfafad7d34b9ac6e44ead0bd#57b7cf4feb921573dfafad7d34b9ac6e44ead0bd"
 dependencies = [
  "base64 0.13.0",
  "bytes",
