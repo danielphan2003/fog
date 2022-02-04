@@ -3543,10 +3543,10 @@
   };
   _4paradigm-operator-tools = {
     pname = "_4paradigm-operator-tools";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/4paradigm/operator-tools/0.0.1/file/4paradigm.operator-tools-0.0.1.vsix";
-      sha256 = "sha256-UntUJ5FPHb3jV90s2BPbOGHjh6gETZZAVO6KBMGTVEk=";
+      url = "https://open-vsx.org/api/4paradigm/operator-tools/0.0.2/file/4paradigm.operator-tools-0.0.2.vsix";
+      sha256 = "sha256-apjWqPMTgzrkX4q5CrgUMo9NFuHdW8OJIfXoECpIgZs=";
     };
     name = "operator-tools";
     license = "MIT";
