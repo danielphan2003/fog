@@ -42,6 +42,10 @@ fetch.github = "anime-dl/anime-downloader"
 src.git = "https://github.com/haslersn/any-nix-shell"
 fetch.github = "haslersn/any-nix-shell"
 
+[argonone-fancontrold]
+src.git = "https://github.com/mgdm/argonone-utils"
+fetch.github = "mgdm/argonone-utils"
+
 [arkenfox-userjs]
 src.git = "https://github.com/arkenfox/user.js"
 fetch.github = "arkenfox/user.js"
