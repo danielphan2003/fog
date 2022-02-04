@@ -171,13 +171,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "b008c5f07f70f6f81d059f9617dd4c8bf40aeb8e";
+    version = "2bd598f7f8fb0a0c86437367da98aa318bf2c7ad";
     src = fetchFromGitHub ({
       owner = "ajbura";
       repo = "cinny";
-      rev = "b008c5f07f70f6f81d059f9617dd4c8bf40aeb8e";
+      rev = "2bd598f7f8fb0a0c86437367da98aa318bf2c7ad";
       fetchSubmodules = false;
-      sha256 = "sha256-s2D9VScQh3KPihUKtqcbJwUxWCiOuUoIiNbnEqlOvmk=";
+      sha256 = "sha256-77NIeZZj+U0z6ABSCCvXRve9G/GIlre+D3m3OPqCBWg=";
     });
   };
   conduit = {
@@ -892,13 +892,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "acaad8c633a7c20f6722e685ae2e948e331a8cb1";
+    version = "d909924391d9572ca15658c1d78ee97a43d4c914";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "acaad8c633a7c20f6722e685ae2e948e331a8cb1";
+      rev = "d909924391d9572ca15658c1d78ee97a43d4c914";
       fetchSubmodules = false;
-      sha256 = "sha256-9t+MPQJP1oR7SXUECiUStN+FEUoaZ1Kip7oRfIYnuDU=";
+      sha256 = "sha256-jx+ymoxfuOWj25ks6tALLavzEPvy6sWxAoZBVPc3yQs=";
     });
   };
   spotify = {
