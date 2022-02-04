@@ -3651,10 +3651,10 @@
   };
   abelfubu-abelfubu-dark = {
     pname = "abelfubu-abelfubu-dark";
-    version = "1.1.3";
+    version = "1.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/abelfubu/abelfubu-dark/1.1.3/file/abelfubu.abelfubu-dark-1.1.3.vsix";
-      sha256 = "sha256-Z9JD/9uwwX+OqSVL6cU7QbOwbBUDmx3Z09P273hiFLQ=";
+      url = "https://open-vsx.org/api/abelfubu/abelfubu-dark/1.3.4/file/abelfubu.abelfubu-dark-1.3.4.vsix";
+      sha256 = "sha256-uNZgJxvYifYUsSlXeRHaL0RrVpVi+ceh8Nb1pBtgmG4=";
     };
     name = "abelfubu-dark";
     license = "ISC";
