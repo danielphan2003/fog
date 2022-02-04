@@ -92,6 +92,17 @@
       sha256 = "sha256-y9oOn1pDVPcY1ttWlTBZVptavgTwGQbADWpwe4yZG04=";
     });
   };
+  argonone-fancontrold = {
+    pname = "argonone-fancontrold";
+    version = "b6b960eb492224012680f56e3c6fba13502e542c";
+    src = fetchFromGitHub ({
+      owner = "mgdm";
+      repo = "argonone-utils";
+      rev = "b6b960eb492224012680f56e3c6fba13502e542c";
+      fetchSubmodules = false;
+      sha256 = "sha256-v098KH8TgzGgCc7+59SVWy19xW456eXX/BDdt9zzVhk=";
+    });
+  };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
     version = "89bee0e3612be471d427cd81540bd54db1955c9d";
@@ -960,13 +971,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "e64cecac8e7ecbba5df50d0e2229bb11d00c5686";
+    version = "aaba49ca1053fda6e98069ea3451c4051e1efedf";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "e64cecac8e7ecbba5df50d0e2229bb11d00c5686";
+      rev = "aaba49ca1053fda6e98069ea3451c4051e1efedf";
       fetchSubmodules = false;
-      sha256 = "sha256-DUuHsv5mU2iHAlzrrmmZnKTlOJIxxWXx/spLBz2iA28=";
+      sha256 = "sha256-zPhBstnRj1Hr51WBd9UhvxdUuodK405F3qXilVihXWE=";
     });
   };
   tailscale-systray = {
