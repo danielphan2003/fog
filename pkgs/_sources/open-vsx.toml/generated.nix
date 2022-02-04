@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.597";
+    version = "31.0.598";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.597/file/Prisma.prisma-insider-31.0.597.vsix";
-      sha256 = "sha256-QCE38/XtoWT7rakQKVg9Rg8pj/xn5779mMB+9DOTLbI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.598/file/Prisma.prisma-insider-31.0.598.vsix";
+      sha256 = "sha256-OGq62w1C/CzJ9D9Xc8Ub6XET5jbYjFa2GNFBLJpcr5I=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15171,10 +15171,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.4";
+    version = "2.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.4/file/streetsidesoftware.code-spell-checker-2.1.4.vsix";
-      sha256 = "sha256-V8ug/EtDczjiofuL7HhpN1B+qbedpnvIlXnwiXJzD/g=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.5/file/streetsidesoftware.code-spell-checker-2.1.5.vsix";
+      sha256 = "sha256-nIR3PtbtnSbAU0rS+qVtPsj++Dbfp/k86dWkx4xYcno=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";
