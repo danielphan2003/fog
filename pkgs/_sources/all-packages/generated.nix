@@ -149,13 +149,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0b307a9885141b1e030bb13a92b686a59a2ab6fc";
+    version = "e5d2ff77461b9667dd69e893eb39fe80a8ede682";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0b307a9885141b1e030bb13a92b686a59a2ab6fc";
+      rev = "e5d2ff77461b9667dd69e893eb39fe80a8ede682";
       fetchSubmodules = false;
-      sha256 = "sha256-R2znSaB+YuKtJ95uMdmRDYF0gDq/inXiM44uq9ZcoaQ=";
+      sha256 = "sha256-9DqjlZ/65V5qwd2SHxDtriH9L5T37A0vy7GrfCaf0pE=";
     });
   };
   caddy = {
@@ -402,18 +402,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5838";
+    version = "1.0.5839";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5838.tar.bz2";
-      sha256 = "sha256-rskEwd5vEm/RpBVV3hw08eH69RAwks9DHtRPEkLmsd0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5839.tar.bz2";
+      sha256 = "sha256-+VgrBKa8xv37hCP4KBACzGbgx+k2+tbtTwDsaLUAePs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5838";
+    version = "1.0.5839";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5838-1_all.deb";
-      sha256 = "sha256-ekamfM/i5wRfBbDe6YSOp26kFuxL5C5IORGqWHWmnAI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5839-1_all.deb";
+      sha256 = "sha256-KBN9gkER0SOxrmreICNvrrGO/AhH980iTvWIut5GTnM=";
     };
   };
   jitsi-videobridge2 = {
@@ -732,13 +732,13 @@
   };
   rainfox = {
     pname = "rainfox";
-    version = "835f9f44e7153a73b96f8c7e8ad91b7ecd2795e8";
+    version = "231a8434a3c1aedd64dd8ca4cf2e67318440c9ff";
     src = fetchFromGitHub ({
       owner = "1280px";
       repo = "rainfox";
-      rev = "835f9f44e7153a73b96f8c7e8ad91b7ecd2795e8";
+      rev = "231a8434a3c1aedd64dd8ca4cf2e67318440c9ff";
       fetchSubmodules = false;
-      sha256 = "sha256-4FV0HSgqyWqQhoLEp9uby8/eTPYci3UCfvIqZ45aHTw=";
+      sha256 = "sha256-muDz1rFTvWOZGrEzql+VZbs42bS09BREjKS5OpBu2g8=";
     });
   };
   redshift = {
