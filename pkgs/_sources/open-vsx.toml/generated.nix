@@ -2895,10 +2895,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.2.318";
+    version = "2022.2.416";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.318/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.318.vsix";
-      sha256 = "sha256-a14thXz2HDaXXR8ftwyZjE9Gn8pf6k0V1YxhK1ToLas=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.416/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.416.vsix";
+      sha256 = "sha256-u/vcmdMmuAtBfwkEDi7XR8MbEdv8S8D2/JBrRV8TKtI=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
