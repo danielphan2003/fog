@@ -639,13 +639,13 @@
   };
   picom = {
     pname = "picom";
-    version = "3b9af145f0275edf6c54286e5f26e8b269835a6b";
+    version = "928963721c8789fc5f27949e8b0730771aab940d";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "3b9af145f0275edf6c54286e5f26e8b269835a6b";
+      rev = "928963721c8789fc5f27949e8b0730771aab940d";
       fetchSubmodules = false;
-      sha256 = "sha256-EwWkFLjvsixRB/WtG7R1PB2pQiS/gU4VuAxpyekE9rA=";
+      sha256 = "sha256-qu9HnUG5VQbiSgduW1oR/tVvzEckaD2TWzds4R5zI+Y=";
     });
   };
   plymouth-themes = {
