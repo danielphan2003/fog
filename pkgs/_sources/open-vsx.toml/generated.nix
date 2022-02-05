@@ -8077,6 +8077,18 @@
     publisher = "golf1052";
     description = "Extension used for testing CodeSync";
   };
+  good-snippets-good-snippets = {
+    pname = "good-snippets-good-snippets";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/good-snippets/good-snippets/1.0.1/file/good-snippets.good-snippets-1.0.1.vsix";
+      sha256 = "sha256-nT2dsd0+SWz0zhV6JWtAaD+8ECZMxL6CBcZVyebYC+Y=";
+    };
+    name = "good-snippets";
+    license = "MIT";
+    publisher = "good-snippets";
+    description = "Add Jest test structure, arrow functions and functions for typescrit and javascript";
+  };
   goodbaikin-org-preview = {
     pname = "goodbaikin-org-preview";
     version = "1.1.0";
