@@ -75,8 +75,9 @@ src.manual = "741b0502ee7cb0ecbd6dd0517c4f186729f52718"
 fetch.github = "caddyserver/caddy"
 
 [cinny]
-src.git = "https://github.com/ajbura/cinny"
-fetch.github = "ajbura/cinny"
+src.github_tag = "ajbura/cinny"
+src.prefix = "v"
+fetch.url = "https://github.com/ajbura/cinny/releases/download/v$ver/cinny-v$ver.tar.gz"
 
 [conduit]
 src.git = "https://gitlab.com/famedly/conduit"
