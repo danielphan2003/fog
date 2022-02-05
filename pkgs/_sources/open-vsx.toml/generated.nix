@@ -6315,10 +6315,10 @@
   };
   dcasella-monokai-plusplus = {
     pname = "dcasella-monokai-plusplus";
-    version = "1.9.1";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/1.9.1/file/dcasella.monokai-plusplus-1.9.1.vsix";
-      sha256 = "sha256-TO8w+xT8WSWg4TicFYtXvyhCUC2T8KDxpx7d0NMKgfo=";
+      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/1.10.0/file/dcasella.monokai-plusplus-1.10.0.vsix";
+      sha256 = "sha256-ZIv3fhJPi2yM00alS9TdevzZT2tBJfV4adGGptOioCU=";
     };
     name = "monokai-plusplus";
     license = "MIT";
