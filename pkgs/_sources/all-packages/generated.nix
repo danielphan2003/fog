@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8f893ffc292bfa9a4a4b81eebed2b520470754f8";
+    version = "099cc4f8a1ae8c5fba42c9cdd8cc82e7a5c55c9d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8f893ffc292bfa9a4a4b81eebed2b520470754f8";
+      rev = "099cc4f8a1ae8c5fba42c9cdd8cc82e7a5c55c9d";
       fetchSubmodules = false;
-      sha256 = "sha256-zzZgRotdmLZbORzlmHPX2m/8tmD2xHAbZYg1qb3JROo=";
+      sha256 = "sha256-TWSkLltELzMY6SE/WaRvo7lfNfMy912zPPrRttHHmRc=";
     });
   };
   caddy = {
@@ -182,14 +182,11 @@
   };
   cinny = {
     pname = "cinny";
-    version = "c8ae428df8800dceecf0f9d4bd7ad90d75378d24";
-    src = fetchFromGitHub ({
-      owner = "ajbura";
-      repo = "cinny";
-      rev = "c8ae428df8800dceecf0f9d4bd7ad90d75378d24";
-      fetchSubmodules = false;
-      sha256 = "sha256-gzTtrk+j0bDdVLioAm41sik/c7BfMHxXuVSu2xB/I3I=";
-    });
+    version = "1.7.0";
+    src = fetchurl {
+      url = "https://github.com/ajbura/cinny/releases/download/v1.7.0/cinny-v1.7.0.tar.gz";
+      sha256 = "sha256-MyVchLYLgqF5J7sm/Wdydqk7x+h0XGGXicAC3/9qYwQ=";
+    };
   };
   conduit = {
     pname = "conduit";
@@ -290,13 +287,13 @@
   };
   duf = {
     pname = "duf";
-    version = "07ee555620179526a943bbf329d1429102c74ccc";
+    version = "e88f167ff768a31b460e42ddff62fd1a3b341f99";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "07ee555620179526a943bbf329d1429102c74ccc";
+      rev = "e88f167ff768a31b460e42ddff62fd1a3b341f99";
       fetchSubmodules = false;
-      sha256 = "sha256-c345dZlboipd8fjfTnfgBaddr5jvYmfCI/64L82gZKc=";
+      sha256 = "sha256-OoTrDLjcWQAvbV8dI0Gh7Xn24xqnWQwcRKTmxrdTlFs=";
     });
   };
   eww = {
