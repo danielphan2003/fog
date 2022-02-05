@@ -1,4 +1,4 @@
-name: Auto update all packages
+name: Auto update flake.lock
 
 on:
   pull_request:
