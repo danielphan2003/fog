@@ -843,10 +843,10 @@
   };
   Elmtooling-elm-ls-vscode = {
     pname = "Elmtooling-elm-ls-vscode";
-    version = "2.4.0";
+    version = "2.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.4.0/file/Elmtooling.elm-ls-vscode-2.4.0.vsix";
-      sha256 = "sha256-llXnA5+PS4kVglCguxw7b/8TIdjLgnGVJdCYVaD2Pnw=";
+      url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.4.1/file/Elmtooling.elm-ls-vscode-2.4.1.vsix";
+      sha256 = "sha256-x6OTH+r8wX2WmCG0o8NL93c2hZ/LucftBCnCtqqP/RA=";
     };
     name = "elm-ls-vscode";
     license = "MIT";
@@ -9903,10 +9903,10 @@
   };
   kleinesfilmroellchen-serenity-dsl-syntaxhighlight = {
     pname = "kleinesfilmroellchen-serenity-dsl-syntaxhighlight";
-    version = "0.0.3";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.0.3/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.0.3.vsix";
-      sha256 = "sha256-t+SQSuEo/dKx9Ouo9mG++5NnSIJI7FkAQF6X27OXhjU=";
+      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.0/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.0.vsix";
+      sha256 = "sha256-xmnDqckI41bODXxEenQLvN6vlzZyp9eWhzFqaZgI7z4=";
     };
     name = "serenity-dsl-syntaxhighlight";
     license = "MIT";
