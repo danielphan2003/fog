@@ -11787,10 +11787,10 @@
   };
   mtsmfm-vscode-stl-viewer = {
     pname = "mtsmfm-vscode-stl-viewer";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-stl-viewer/0.2.0/file/mtsmfm.vscode-stl-viewer-0.2.0.vsix";
-      sha256 = "sha256-pRYlrE9WuN4zuWfNqOJHFvAw/uoOg8tfDZMoKbz4IEE=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-stl-viewer/0.3.0/file/mtsmfm.vscode-stl-viewer-0.3.0.vsix";
+      sha256 = "sha256-Kw1xMCRCerr9QjMn2Du/7cLEiCQhChZzAerfXl9JQ3M=";
     };
     name = "vscode-stl-viewer";
     license = "MIT";
