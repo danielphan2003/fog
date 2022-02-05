@@ -9099,10 +9099,10 @@
   };
   jacobjohnston-encounterplus-markdown = {
     pname = "jacobjohnston-encounterplus-markdown";
-    version = "1.0.59";
+    version = "1.0.60";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.59/file/jacobjohnston.encounterplus-markdown-1.0.59.vsix";
-      sha256 = "sha256-W+UzB+CQagP5BGV3M04wie9THKuset45zXxhjv+vHlo=";
+      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.60/file/jacobjohnston.encounterplus-markdown-1.0.60.vsix";
+      sha256 = "sha256-gI3ejVwECmC8gOOa+rH3YbBdmYqf0g6z3rGQxMWhb+U=";
     };
     name = "encounterplus-markdown";
     license = "CC0-1.0";
@@ -15867,10 +15867,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.18.4";
+    version = "0.18.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.4/file/timonwong.shellcheck-0.18.4.vsix";
-      sha256 = "sha256-nVo+OOvFRR65rI6CWEMhhOTxtmxruw4gEmCbVlGJkQE=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.5/file/timonwong.shellcheck-0.18.5.vsix";
+      sha256 = "sha256-CNdSKCy54o3PSRlWj7/Vy6K2M5hlFA/7XxcMQ5aVi+8=";
     };
     name = "shellcheck";
     license = "MIT";
