@@ -2991,10 +2991,10 @@
   };
   Surendrajat-apklab = {
     pname = "Surendrajat-apklab";
-    version = "1.5.0";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Surendrajat/apklab/1.5.0/file/Surendrajat.apklab-1.5.0.vsix";
-      sha256 = "sha256-bY2X8hU1zf6uNgsFy+8PSMVYPrx6C9Cd1g9L/yb4od8=";
+      url = "https://open-vsx.org/api/Surendrajat/apklab/1.6.0/file/Surendrajat.apklab-1.6.0.vsix";
+      sha256 = "sha256-mF5kIpE4H7K2Kfyj6HTw3yFl81rnes888pa5P288AsE=";
     };
     name = "apklab";
     license = "AGPL-3.0";
