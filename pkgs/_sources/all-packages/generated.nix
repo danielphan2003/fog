@@ -182,13 +182,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "d05a426d00fa70823cbef665cd4ec8c44eff1185";
+    version = "c8ae428df8800dceecf0f9d4bd7ad90d75378d24";
     src = fetchFromGitHub ({
       owner = "ajbura";
       repo = "cinny";
-      rev = "d05a426d00fa70823cbef665cd4ec8c44eff1185";
+      rev = "c8ae428df8800dceecf0f9d4bd7ad90d75378d24";
       fetchSubmodules = false;
-      sha256 = "sha256-Kqym+43V/JsuMHLW8k/q8fMOdJxO1y39lk5DbhiTMcE=";
+      sha256 = "sha256-gzTtrk+j0bDdVLioAm41sik/c7BfMHxXuVSu2xB/I3I=";
     });
   };
   conduit = {
@@ -1208,13 +1208,13 @@
   };
   ydotool = {
     pname = "ydotool";
-    version = "226b8af730c739966f31066e2ee6253c7263059d";
+    version = "925b2ccc24a6644c2e4be37d9fb64274ee044f76";
     src = fetchFromGitHub ({
       owner = "ReimuNotMoe";
       repo = "ydotool";
-      rev = "226b8af730c739966f31066e2ee6253c7263059d";
+      rev = "925b2ccc24a6644c2e4be37d9fb64274ee044f76";
       fetchSubmodules = false;
-      sha256 = "sha256-JlfUQnP+mxnCFDYgBkK5wt/nn4rL55NJaV+WvkVSEmw=";
+      sha256 = "sha256-BvRNrA4kCLWoQrDpIeyFcxObFnuBIxUHpxx17yTKoBs=";
     });
   };
   yubikey-agent = {
