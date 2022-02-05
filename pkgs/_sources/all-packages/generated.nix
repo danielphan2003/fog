@@ -904,13 +904,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "d909924391d9572ca15658c1d78ee97a43d4c914";
+    version = "cab870eba282a509a34f2f107185c52188891c7f";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "d909924391d9572ca15658c1d78ee97a43d4c914";
+      rev = "cab870eba282a509a34f2f107185c52188891c7f";
       fetchSubmodules = false;
-      sha256 = "sha256-jx+ymoxfuOWj25ks6tALLavzEPvy6sWxAoZBVPc3yQs=";
+      sha256 = "sha256-XyFmtlraAeBaeaH6VJdaPBxYNArhI9P6SRHJv/BTdX0=";
     });
   };
   spotify = {
