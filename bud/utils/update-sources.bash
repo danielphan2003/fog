@@ -1,5 +1,6 @@
-file="$1.toml"
+file="$1"
 sourceDir="_sources/${2:-"$(basename $file)"}"
+file="$file.toml"
 
 args=( "${@: 3}" )
 if [ $CI ]; then

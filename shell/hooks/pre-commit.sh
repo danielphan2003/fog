@@ -11,12 +11,22 @@ fi
 diff="git diff-index --name-only --cached $against --diff-filter d"
 
 nix_files=($($diff -- '*.nix'))
+json_files=($($diff -- '*.json'))
 all_files=($($diff))
 
 # Format staged nix files.
 if [[ -n "${nix_files[@]}" ]]; then
   nixpkgs-fmt "${nix_files[@]}" \
   && git add "${nix_files[@]}"
+fi
+
+if [[ -n "${json_files[@]}" ]]; then
+  for json_file in ${json_files[@]}; do
+    jq . "${json_file}" > "${json_file}.tmp"
+    rm "${json_file}"
+    mv "${json_file}.tmp" "${json_file}"
+    git add "${json_file}"
+  done
 fi
 
 # check editorconfig

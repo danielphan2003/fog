@@ -1,10 +1,7 @@
-name: Auto update open-vsx extensions
+name: Auto update all packages
 
 on:
   pull_request:
-  push:
-    paths:
-      - pkgs/misc/vscode-extensions/open-vsx.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour
@@ -43,17 +40,8 @@ jobs:
     - name: Quick eval
       run: nix develop --command evalnix
 
-    - name: Create bud cache
-      run: nix develop --command bud makeBudCache
-
-    - name: Clean up old Cargo.lock and extracts
-      run: nix develop --command bud nvfetcher-cleanup _sources/open-vsx
-
-    - name: Update open-vsx extension sources
-      run: nix develop --command bud openvsx-updater
-
-    - name: Update all open-vsx extensions (except matklad.rust-analyzer)
-      run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx
+    - name: Update flake.lock
+      run: nix develop --command bud update
 
     - name: Push changes to main
       run: git push

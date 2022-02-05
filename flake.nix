@@ -29,7 +29,7 @@
     };
 
     nvfetcher = {
-      url = "github:berberman/nvfetcher/core";
+      url = "github:berberman/nvfetcher";
       inputs = {
         nixpkgs.follows = "nixos";
         flake-compat.follows = "digga/deploy/flake-compat";

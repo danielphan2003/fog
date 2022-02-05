@@ -352,8 +352,8 @@ fetch.github = "morpheusthewhite/spicetify-themes"
 ## spotify
 
 [spotify]
-src.manual = "1.1.72.439.gc253025e"
-fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_56.snap"
+src.manual = "1.1.77.643.g3c4c6fc6"
+fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_57.snap"
 
 ## spotify
 

@@ -41,8 +41,8 @@ fetch.vsmarketplace = "msjsdiag.vscode-react-native"
 passthru = { publisher = "msjsdiag",  name = "vscode-react-native", license = "MIT" }
 
 [ms-vscode-cpptools]
-src.github_tag = "microsoft/vscode-cpptools"
-fetch.url = "https://github.com/microsoft/vscode-cpptools/releases/download/$ver/cpptools-linux.vsix"
+src.vsmarketplace = "ms-vscode.cpptools"
+fetch.vsmarketplace = "ms-vscode.cpptools"
 passthru = { publisher = "ms-vscode", name = "cpptools", license = "MIT" }
 
 #### VsMarketplace extensions
