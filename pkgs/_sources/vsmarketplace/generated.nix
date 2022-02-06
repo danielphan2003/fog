@@ -93,7 +93,7 @@
     src = fetchurl {
       url = "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.8.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
       name = "cpptools-1.8.3.zip";
-      sha256 = "sha256-d+VINE5IWbxkzSp8Y+J/A7pIyUgznHFnC6mENYRqJso=";
+      sha256 = "sha256-r5MwIZKoTmyKjDnNOfVhUEfdKVSbwaxJM07hYqHEO50=";
     };
     name = "cpptools";
     license = "MIT";
