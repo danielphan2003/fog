@@ -44,4 +44,4 @@ jobs:
       run: nix develop --command bud update
 
     - name: Push changes to main
-      run: git pull --ff-only && git push
+      run: git pull --rebase && git push
