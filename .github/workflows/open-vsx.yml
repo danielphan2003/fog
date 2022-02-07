@@ -56,4 +56,4 @@ jobs:
       run: nix develop --command bud updateSources misc/vscode-extensions/open-vsx
 
     - name: Push changes to main
-      run: git pull --rebase && git push
+      run: git add . && git pull --rebase && git push
