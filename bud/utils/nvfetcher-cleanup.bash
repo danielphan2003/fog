@@ -6,5 +6,5 @@ cd "$PRJ_ROOT"/pkgs || exit
 fd . "$dir" \
   --type directory \
   --exclude generated.nix \
-  --exclude '.shake.*' \
+  --exclude generated.json \
   --exec-batch rm -rf {}
