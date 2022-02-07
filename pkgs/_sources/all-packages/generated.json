@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "e8885dc980f276d7d23dd8c76001ff2a83cbc773",
+    "version": "f406f5e992b31240e1550d4744fb3e8c9d046a76",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-wSLxQ1UFyfhaf+k+FTz4PWNyQduXWx9EfvCN0IaU0nQ=",
-      "rev": "e8885dc980f276d7d23dd8c76001ff2a83cbc773"
+      "sha256": "sha256-NU76cFUmjZA7A1C6I5SA7aJ77OoJfo3zrrPjeky9BzM=",
+      "rev": "f406f5e992b31240e1550d4744fb3e8c9d046a76"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.5839",
+    "version": "1.0.5845",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5839-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5845-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KBN9gkER0SOxrmreICNvrrGO/AhH980iTvWIut5GTnM="
+      "sha256": "sha256-CaOWqwoaAVYXqwjNyLou4SFbPMy3zakI9pJHMT4UJAE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -537,13 +537,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-dev",
-    "version": "99.0.1150.2",
+    "version": "99.0.1150.7",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_99.0.1150.2-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_99.0.1150.7-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qJuwSM/hMEPQpWLZfNZxLTV56qhGhiWsIbTERFueieY="
+      "sha256": "sha256-ZumIHJtExXVZWXKd5l+k1c8z5AYl7/z9A1i0sDrXC6s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "4197109bed939d84eba7b482fbf73af1a2afcf64",
+    "version": "bcb4041e0e433e6ac0d65e87bd50c194459f5684",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-c9QH6+RaZTdGvdkAhn9iAj+gBrvgcErxLi4c8xgndK0=",
-      "rev": "4197109bed939d84eba7b482fbf73af1a2afcf64"
+      "sha256": "sha256-3Wk2oOIuj2kHfpiczkSipGa5oNgqsRg+q4UL8miU/b8=",
+      "rev": "bcb4041e0e433e6ac0d65e87bd50c194459f5684"
     },
     "extract": null,
     "rustGitDeps": null
@@ -617,7 +617,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "avizo",
-    "version": "81b6dcad9b52faf2b87700736ccf5c5dca6c13ec",
+    "version": "d5c416aa7ac46660cd943f01ecfab6e29cb5e8c3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -627,8 +627,8 @@
       "name": null,
       "repo": "avizo",
       "type": "github",
-      "sha256": "sha256-pS5atxRwl3QfR9GNHawLJTh5lDInXjFvgfCI1s+hPJE=",
-      "rev": "81b6dcad9b52faf2b87700736ccf5c5dca6c13ec"
+      "sha256": "sha256-BRtdCOBFsKkJif/AlnF7N9ZDcmA+878M9lDQld+SAgo=",
+      "rev": "d5c416aa7ac46660cd943f01ecfab6e29cb5e8c3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5839",
+    "version": "1.0.5845",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5839.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5845.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+VgrBKa8xv37hCP4KBACzGbgx+k2+tbtTwDsaLUAePs="
+      "sha256": "sha256-OFVWlvNXwMB7bdCoFj4X2V9wNSgSmg8yzXxcGJa842I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1026,9 +1026,9 @@
   },
   "ouch": {
     "pinned": false,
-    "cargoLock": "./ouch-8b1cd18fb5204bf9979fff0d9d674cd2db306fcf/Cargo.lock",
+    "cargoLock": "./ouch-20e2044bd09d992257773fcc6f91b1d63a119e98/Cargo.lock",
     "name": "ouch",
-    "version": "8b1cd18fb5204bf9979fff0d9d674cd2db306fcf",
+    "version": "20e2044bd09d992257773fcc6f91b1d63a119e98",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1038,8 +1038,8 @@
       "name": null,
       "repo": "ouch",
       "type": "github",
-      "sha256": "sha256-iK0DhK5oWhHcx+X8BU4X+daAbAmhigzTUprFwGfYEz0=",
-      "rev": "8b1cd18fb5204bf9979fff0d9d674cd2db306fcf"
+      "sha256": "sha256-NWxx7WoZExXzI5Mu5BnfNjJi/c7vDhvUvr01EXferjs=",
+      "rev": "20e2044bd09d992257773fcc6f91b1d63a119e98"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -1248,7 +1248,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "awesome",
-    "version": "2d6244f9445ffa22c8d53b3e4b4641e0e5bb6170",
+    "version": "86b6c49a0ff758d1792db64aa852159386f2fcdc",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1258,8 +1258,8 @@
       "name": null,
       "repo": "awesome",
       "type": "github",
-      "sha256": "sha256-Z+H3vBJVrHS9+qJHwfhZ2HGOWZlwpMQlfbHEr9isvmk=",
-      "rev": "2d6244f9445ffa22c8d53b3e4b4641e0e5bb6170"
+      "sha256": "sha256-dMXwInZ9M7XCSVaFLnHE9e/noPE54h9biO9LrmD34y8=",
+      "rev": "86b6c49a0ff758d1792db64aa852159386f2fcdc"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1288,7 +1288,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "duf",
-    "version": "e88f167ff768a31b460e42ddff62fd1a3b341f99",
+    "version": "e98632a81fa5b653faea7b940bf6c1ac5974f556",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1298,8 +1298,8 @@
       "name": null,
       "repo": "duf",
       "type": "github",
-      "sha256": "sha256-OoTrDLjcWQAvbV8dI0Gh7Xn24xqnWQwcRKTmxrdTlFs=",
-      "rev": "e88f167ff768a31b460e42ddff62fd1a3b341f99"
+      "sha256": "sha256-MedOejrqXMZCuSIg1d9oqOfK3rG63bZheOKfUNbjCLI=",
+      "rev": "e98632a81fa5b653faea7b940bf6c1ac5974f556"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1388,13 +1388,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jibri",
-    "version": "8.0-119-gdcb562a",
+    "version": "8.0-120-g15c7494",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jibri_8.0-119-gdcb562a-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jibri_8.0-120-g15c7494-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-d3c2NUPYW4byUZvIOgK+mqmqNKpDvDRgjReflTmdICo="
+      "sha256": "sha256-iQwySjq6Yh4rhSKd44NWQx+OAVs+B68FN2MN7VcI7s8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1568,7 +1568,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "721ceb715868368f1f3e3e321e18fa330e3cc754",
+    "version": "65295b6bb2ed51bde63d372855e6570d48e5818e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1578,8 +1578,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-+cD5BONZwFMhuZR6AfVSdFn/qe/UPiLIsq0BaQmPw/4=",
-      "rev": "721ceb715868368f1f3e3e321e18fa330e3cc754"
+      "sha256": "sha256-n4GLU+lf5sz+EPcfSLrrAVh28JK3LnIxcUeRmQImCGg=",
+      "rev": "65295b6bb2ed51bde63d372855e6570d48e5818e"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "aaba49ca1053fda6e98069ea3451c4051e1efedf",
+    "version": "b3d268c5a199da28d6cc1e2057e1486375e754ab",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-zPhBstnRj1Hr51WBd9UhvxdUuodK405F3qXilVihXWE=",
-      "rev": "aaba49ca1053fda6e98069ea3451c4051e1efedf"
+      "sha256": "sha256-GPlFjQnN8Y5S8LKwfy7wfd9LtG9fnKbwtRP3uo0kA20=",
+      "rev": "b3d268c5a199da28d6cc1e2057e1486375e754ab"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2057,9 +2057,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-809c220eaf286c2e986992071f0d9f511e5b2367/Cargo.lock",
+    "cargoLock": "./rustdesk-6c05f72d901b2953b0aa545d0ad081c160032a6a/Cargo.lock",
     "name": "rustdesk",
-    "version": "809c220eaf286c2e986992071f0d9f511e5b2367",
+    "version": "6c05f72d901b2953b0aa545d0ad081c160032a6a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,8 +2069,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-sVnxjHxdVxHY7t6papGMaBuizEZ5Tb6EiJXCjr4Uy/8=",
-      "rev": "809c220eaf286c2e986992071f0d9f511e5b2367"
+      "sha256": "sha256-6yGLpR45lLD0Fm40SEb/YiWxjdv4Ja0u1dFpCW7+BUY=",
+      "rev": "6c05f72d901b2953b0aa545d0ad081c160032a6a"
     },
     "extract": null,
     "rustGitDeps": {
