@@ -1,0 +1,478 @@
+{
+  "papermc-1_13-pre7": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_13-pre7",
+    "version": "12",
+    "passthru": {
+      "mcVer": "1.13-pre7"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.13-pre7/builds/12/downloads/paper-1.13-pre7-12.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-jCxNvDooQr6EVLTEswYma8Yi4ttoEjNVj+34IwgAlAw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_18_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_18_1",
+    "version": "187",
+    "passthru": {
+      "mcVer": "1.18.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/187/downloads/paper-1.18.1-187.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-pA88oIDIdiwBJnW679N38RaQj88jmugTtzjvHZWrhIk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_15": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_15",
+    "version": "21",
+    "passthru": {
+      "mcVer": "1.15"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.15/builds/21/downloads/paper-1.15-21.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-i3JsDetsOiZdZ5o9OiwPjlJD+8bdz8r0LiQgnLH4KbQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_16_4": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_16_4",
+    "version": "416",
+    "passthru": {
+      "mcVer": "1.16.4"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.16.4/builds/416/downloads/paper-1.16.4-416.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ljJo7VZKx9LsB2Rj6SH/oJVwI19Ye70aTZGiPKQmS2Y="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_10_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_10_2",
+    "version": "918",
+    "passthru": {
+      "mcVer": "1.10.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.10.2/builds/918/downloads/paper-1.10.2-918.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-gzVNJKIrYmXnbAibPRelaKu0RsDM0SwkUvXhSEErFsI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_13_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_13_1",
+    "version": "386",
+    "passthru": {
+      "mcVer": "1.13.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.13.1/builds/386/downloads/paper-1.13.1-386.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ZjdAHYfQ9dtarukNcQP1LF4bqva21GQ6V5PnsCtXdcs="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_18": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_18",
+    "version": "66",
+    "passthru": {
+      "mcVer": "1.18"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.18/builds/66/downloads/paper-1.18-66.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-PJlfINrk5OIdVVT6yVegqKXIW9W/NJFfrEtPFuDvEBs="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_16_3": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_16_3",
+    "version": "253",
+    "passthru": {
+      "mcVer": "1.16.3"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.16.3/builds/253/downloads/paper-1.16.3-253.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-lAMD7l9bzAg3fjiOocHaoQnBrIxNGJ3GfeEQaFPy/CM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_14_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_14_1",
+    "version": "50",
+    "passthru": {
+      "mcVer": "1.14.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.14.1/builds/50/downloads/paper-1.14.1-50.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-K8+AF0hcxBs+ctqnKFpG8mqF0FW51ji8mgf3djIWitc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_12": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_12",
+    "version": "1169",
+    "passthru": {
+      "mcVer": "1.12"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.12/builds/1169/downloads/paper-1.12-1169.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Hn6Iou1vK3D6P27GYRNzRYxdcrKocH5gkh32AceR5g4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_13": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_13",
+    "version": "173",
+    "passthru": {
+      "mcVer": "1.13"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.13/builds/173/downloads/paper-1.13-173.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ANuC0hQkLJNFJm1E/40RqOhXoaAu33y1/MLR2XMoMSk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_16_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_16_2",
+    "version": "189",
+    "passthru": {
+      "mcVer": "1.16.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.16.2/builds/189/downloads/paper-1.16.2-189.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5eEFF9qqm9bVSooNIthm4x2nwbR8ueQl/6rCNv3nXsk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_15_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_15_1",
+    "version": "62",
+    "passthru": {
+      "mcVer": "1.15.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.15.1/builds/62/downloads/paper-1.15.1-62.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-IqehnzeNuO35LNulfZHO6n5PpkcLZ35rvlfo9+HZpN0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_13_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_13_2",
+    "version": "657",
+    "passthru": {
+      "mcVer": "1.13.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.13.2/builds/657/downloads/paper-1.13.2-657.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Eego0FZat2oKDhgMBWNkqV3kSVjP1qavP5sdxwsD6c0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_8_8": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_8_8",
+    "version": "445",
+    "passthru": {
+      "mcVer": "1.8.8"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.8.8/builds/445/downloads/paper-1.8.8-445.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-f/bSzsZx7w2Vs3I7XJKJARj7iC1zt/j6CizTHZfFX4Y="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_16_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_16_1",
+    "version": "138",
+    "passthru": {
+      "mcVer": "1.16.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.16.1/builds/138/downloads/paper-1.16.1-138.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-kpVZuh38beKQThcon7PRrJXwq0jHVAz1uMLwVf6p1Zw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_15_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_15_2",
+    "version": "393",
+    "passthru": {
+      "mcVer": "1.15.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.15.2/builds/393/downloads/paper-1.15.2-393.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-vS3W8sxInPniu4AMtPttY+nSk5RdOsELCd2cYJj6nzQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_14_3": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_14_3",
+    "version": "134",
+    "passthru": {
+      "mcVer": "1.14.3"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.14.3/builds/134/downloads/paper-1.14.3-134.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ttLYrGfWhRQWl6jOzZnEe69gSQAAfrDicP1uqGy7xUA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_12_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_12_2",
+    "version": "1620",
+    "passthru": {
+      "mcVer": "1.12.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.12.2/builds/1620/downloads/paper-1.12.2-1620.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-OiBBgH9JLc3DTrsySih0FJRuPgXsPfb9A/W199mvwhA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_14_4": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_14_4",
+    "version": "245",
+    "passthru": {
+      "mcVer": "1.14.4"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.14.4/builds/245/downloads/paper-1.14.4-245.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-vY7FzbIjcNN4FqbeJnmN89Kw1vnHyWyIykWhMD/qUOg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_17": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_17",
+    "version": "79",
+    "passthru": {
+      "mcVer": "1.17"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.17/builds/79/downloads/paper-1.17-79.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-dgqTuUpY1hm9ZH1xr4RohhfQRE0itxZQC8azQ4WNyHE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_14_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_14_2",
+    "version": "107",
+    "passthru": {
+      "mcVer": "1.14.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.14.2/builds/107/downloads/paper-1.14.2-107.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-EgNOV44BTrNp4pKfNyW9QJhYv5QSjkbR8obVvjbDyw4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_17_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_17_1",
+    "version": "408",
+    "passthru": {
+      "mcVer": "1.17.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.17.1/builds/408/downloads/paper-1.17.1-408.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-6U1x7+zNJzKkyRTJ98qK3YUP314EXFSFgsHidYA20ng="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_14": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_14",
+    "version": "17",
+    "passthru": {
+      "mcVer": "1.14"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.14/builds/17/downloads/paper-1.14-17.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-M4vnf1I5xEz/P4D1wQe15hrEj7OTSLznJJMDIJIBByo="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_12_1": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_12_1",
+    "version": "1204",
+    "passthru": {
+      "mcVer": "1.12.1"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.12.1/builds/1204/downloads/paper-1.12.1-1204.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-26IhnWdK2F5O8sQZMdNLb6S+daiHlz7KryhnJ6A4Eto="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_16_5": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_16_5",
+    "version": "794",
+    "passthru": {
+      "mcVer": "1.16.5"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.16.5/builds/794/downloads/paper-1.16.5-794.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5n2khR0IzeN4qyuJvliEkjjDAzUe0kghgamcLCtIknY="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_11_2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_11_2",
+    "version": "1106",
+    "passthru": {
+      "mcVer": "1.11.2"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.11.2/builds/1106/downloads/paper-1.11.2-1106.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-PQ9A7B+WMN/br6YmzCDCZtf7kPwiWD3BuZXn+/t2gw0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "papermc-1_9_4": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "papermc-1_9_4",
+    "version": "775",
+    "passthru": {
+      "mcVer": "1.9.4"
+    },
+    "src": {
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.9.4/builds/775/downloads/paper-1.9.4-775.jar",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-FaWCHd6sxZZDLD+/JCYqLSZPVWBg7Nbxg4+wGrVimoE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  }
+}

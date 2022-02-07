@@ -8413,6 +8413,18 @@
     publisher = "heptio";
     description = "Language support for Jsonnet";
   };
+  hexnaught-vscode-bitburner-connector = {
+    pname = "hexnaught-vscode-bitburner-connector";
+    version = "1.3.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hexnaught/vscode-bitburner-connector/1.3.2/file/hexnaught.vscode-bitburner-connector-1.3.2.vsix";
+      sha256 = "sha256-C6ljAVTEo2P9q3InLhFJWHvJcJnBkxUbp18EMOVJNPQ=";
+    };
+    name = "vscode-bitburner-connector";
+    license = "MIT";
+    publisher = "hexnaught";
+    description = "Deploy your scripts (.ns, .js or .script extensions) directly in to the running Bitburner game from VSCode!";
+  };
   heybourn-headwind = {
     pname = "heybourn-headwind";
     version = "2.0.0";

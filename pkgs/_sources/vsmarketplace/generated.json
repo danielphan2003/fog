@@ -1,0 +1,175 @@
+{
+  "RoscoP-ActiveFileInStatusBar": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "RoscoP-ActiveFileInStatusBar",
+    "version": "1.0.3",
+    "passthru": {
+      "name": "ActiveFileInStatusBar",
+      "license": "MIT",
+      "publisher": "RoscoP"
+    },
+    "src": {
+      "url": "https://RoscoP.gallery.vsassets.io/_apis/public/gallery/publisher/RoscoP/extension/ActiveFileInStatusBar/1.0.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "ActiveFileInStatusBar-1.0.3.zip",
+      "type": "url",
+      "sha256": "sha256-5GJODdKL8949a8KR2O7hGsRgAknfPyNEJ+9aiEYYemk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "dzhavat-css-initial-value": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "dzhavat-css-initial-value",
+    "version": "0.2.6",
+    "passthru": {
+      "name": "css-initial-value",
+      "license": "MIT",
+      "publisher": "dzhavat"
+    },
+    "src": {
+      "url": "https://dzhavat.gallery.vsassets.io/_apis/public/gallery/publisher/dzhavat/extension/css-initial-value/0.2.6/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "css-initial-value-0.2.6.zip",
+      "type": "url",
+      "sha256": "sha256-QLzjkPWPFCVJ0GrT8rtx8/V2JsdJ1zMdTmARtaqEcJQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "alefragnani-pascal": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "alefragnani-pascal",
+    "version": "9.4.0",
+    "passthru": {
+      "name": "pascal",
+      "license": "MIT",
+      "publisher": "alefragnani"
+    },
+    "src": {
+      "url": "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "pascal-9.4.0.zip",
+      "type": "url",
+      "sha256": "sha256-8JlDWLPfx7biBVOsnYkw0c8F70tTT0Lr3n637gVtMnI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "heybourn-headwind": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "heybourn-headwind",
+    "version": "1.7.0",
+    "passthru": {
+      "homepage": "https://github.com/heybourn/headwind",
+      "name": "headwind",
+      "license": "MIT",
+      "publisher": "heybourn",
+      "description": "An opinionated Tailwind CSS class sorter built for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://heybourn.gallery.vsassets.io/_apis/public/gallery/publisher/heybourn/extension/headwind/1.7.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "headwind-1.7.0.zip",
+      "type": "url",
+      "sha256": "sha256-yXsZoSuJQTdbHLjEERXX2zVheqNYmcPXs97/uQYa7og="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "msjsdiag-react-native": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "msjsdiag-react-native",
+    "version": "1.9.0",
+    "passthru": {
+      "name": "vscode-react-native",
+      "license": "MIT",
+      "publisher": "msjsdiag"
+    },
+    "src": {
+      "url": "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.9.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "vscode-react-native-1.9.0.zip",
+      "type": "url",
+      "sha256": "sha256-ltcpp3PQu5esGvHgMLNQEU9Z04XIYwU4ESRritQIrQM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "B4dM4n-nixpkgs-fmt": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "B4dM4n-nixpkgs-fmt",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "nixpkgs-fmt",
+      "license": "MIT",
+      "publisher": "B4dM4n"
+    },
+    "src": {
+      "url": "https://B4dM4n.gallery.vsassets.io/_apis/public/gallery/publisher/B4dM4n/extension/nixpkgs-fmt/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "nixpkgs-fmt-0.0.1.zip",
+      "type": "url",
+      "sha256": "sha256-vz2kU36B1xkLci2QwLpl/SBEhfSWltIDJ1r7SorHcr8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "astro-build-astro-vscode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "astro-build-astro-vscode",
+    "version": "0.8.8",
+    "passthru": {
+      "name": "astro-vscode",
+      "license": "MIT",
+      "publisher": "astro-build"
+    },
+    "src": {
+      "url": "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.8.8/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "astro-vscode-0.8.8.zip",
+      "type": "url",
+      "sha256": "sha256-fC9bktHrVHpv9wQyz7AxMXblYmvU7kGv7rr2KxUpABw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "alefragnani-pascal-formatter": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "alefragnani-pascal-formatter",
+    "version": "2.6.0",
+    "passthru": {
+      "name": "pascal-formatter",
+      "license": "MIT",
+      "publisher": "alefragnani"
+    },
+    "src": {
+      "url": "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal-formatter/2.6.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "pascal-formatter-2.6.0.zip",
+      "type": "url",
+      "sha256": "sha256-Hmde76DAiHJSHDN60q6hGs9U6nKTrGdeR+xm4W2kj6g="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ms-vscode-cpptools": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-vscode-cpptools",
+    "version": "1.8.3",
+    "passthru": {
+      "name": "cpptools",
+      "license": "MIT",
+      "publisher": "ms-vscode"
+    },
+    "src": {
+      "url": "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.8.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "cpptools-1.8.3.zip",
+      "type": "url",
+      "sha256": "sha256-d+VINE5IWbxkzSp8Y+J/A7pIyUgznHFnC6mENYRqJso="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  }
+}
