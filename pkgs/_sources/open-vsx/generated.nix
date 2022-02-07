@@ -2895,10 +2895,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.2.416";
+    version = "2022.2.611";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.416/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.416.vsix";
-      sha256 = "sha256-u/vcmdMmuAtBfwkEDi7XR8MbEdv8S8D2/JBrRV8TKtI=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.611/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.611.vsix";
+      sha256 = "sha256-yiyhVJ7REN2pu4rwEBW5XUpFizB/1XG3J96JRbwSGdY=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -9483,10 +9483,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.31.1";
+    version = "0.31.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.1/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.1.vsix";
-      sha256 = "sha256-e0ct3pocQ42Hz+iidkXMVbkDEI2FL4tUfZDtN6m35Ro=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.2/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.2.vsix";
+      sha256 = "sha256-dbrxN1fRAiW4KCpDz7jvCdaRs4duudZ7bV2ReTIUKIU=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
