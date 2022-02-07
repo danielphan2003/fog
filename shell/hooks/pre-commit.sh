@@ -20,6 +20,11 @@ if [[ -n "${nix_files[@]}" ]]; then
   && git add "${nix_files[@]}"
 fi
 
+if [[ -n "${json_files[@]}" ]]; then
+  prettier --write "${json_files[@]}" \
+  && git add "${json_files[@]}"
+fi
+
 # check editorconfig
 editorconfig-checker -- "${all_files[@]}"
 if [[ $? != '0' ]]; then

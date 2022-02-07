@@ -51,5 +51,6 @@ in
     }
     (linter nixpkgs-fmt)
     (linter editorconfig-checker)
+    (linter nodePackages.prettier)
   ];
 }
