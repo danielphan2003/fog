@@ -20,15 +20,6 @@ if [[ -n "${nix_files[@]}" ]]; then
   && git add "${nix_files[@]}"
 fi
 
-if [[ -n "${json_files[@]}" ]]; then
-  for json_file in ${json_files[@]}; do
-    jq . "${json_file}" > "${json_file}.tmp"
-    rm "${json_file}"
-    mv "${json_file}.tmp" "${json_file}"
-    git add "${json_file}"
-  done
-fi
-
 # check editorconfig
 editorconfig-checker -- "${all_files[@]}"
 if [[ $? != '0' ]]; then
