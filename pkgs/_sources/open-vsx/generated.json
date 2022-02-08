@@ -7819,6 +7819,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "redhat-vscode-debug-adapter-apache-camel": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "redhat-vscode-debug-adapter-apache-camel",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "vscode-debug-adapter-apache-camel",
+      "license": "Apache-2.0",
+      "publisher": "redhat",
+      "description": "Client for the Debug Adapter implementation for Apache Camel"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.0.1/file/redhat.vscode-debug-adapter-apache-camel-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-aPDuVs8PJWkyZWWxQbbWNfJugMKmYNbKJ9CuMKSouhI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Serpen-vbsvscode": {
     "pinned": false,
     "cargoLock": null,
@@ -28183,7 +28203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.606",
+    "version": "31.0.608",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28191,10 +28211,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.606/file/Prisma.prisma-insider-31.0.606.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.608/file/Prisma.prisma-insider-31.0.608.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-y4ij1wuCfr9LYccnKbh5wjnB1OPf+VPTHQn3F6qbVkU="
+      "sha256": "sha256-k0jQLqVW/SVXaCbeziLeXEqh95Yj4zoAN5nv3cE08s0="
     },
     "extract": null,
     "rustGitDeps": null

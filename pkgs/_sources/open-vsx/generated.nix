@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.606";
+    version = "31.0.608";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.606/file/Prisma.prisma-insider-31.0.606.vsix";
-      sha256 = "sha256-y4ij1wuCfr9LYccnKbh5wjnB1OPf+VPTHQn3F6qbVkU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.608/file/Prisma.prisma-insider-31.0.608.vsix";
+      sha256 = "sha256-k0jQLqVW/SVXaCbeziLeXEqh95Yj4zoAN5nv3cE08s0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -13668,6 +13668,18 @@
     license = "Apache-2.0";
     publisher = "redhat";
     description = "Base utilities for Red Hat extensions. Notably controls telemetry settings.";
+  };
+  redhat-vscode-debug-adapter-apache-camel = {
+    pname = "redhat-vscode-debug-adapter-apache-camel";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.0.1/file/redhat.vscode-debug-adapter-apache-camel-0.0.1.vsix";
+      sha256 = "sha256-aPDuVs8PJWkyZWWxQbbWNfJugMKmYNbKJ9CuMKSouhI=";
+    };
+    name = "vscode-debug-adapter-apache-camel";
+    license = "Apache-2.0";
+    publisher = "redhat";
+    description = "Client for the Debug Adapter implementation for Apache Camel";
   };
   redhat-vscode-didact = {
     pname = "redhat-vscode-didact";
