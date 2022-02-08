@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4b4133cb2d3749820b675d7e7646740e254907f1";
+    version = "cc80cd7b3eafdc5f346af96b62e07daaba35de7a";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4b4133cb2d3749820b675d7e7646740e254907f1";
+      rev = "cc80cd7b3eafdc5f346af96b62e07daaba35de7a";
       fetchSubmodules = false;
-      sha256 = "sha256-eG4eKOjG0xmFYp656iY5GUKjrtTDjit3LJ/Li7+Qxsc=";
+      sha256 = "sha256-+hO+XbaytJSFeknLbxQI5IbSZAf395Pte02ywHsHeGw=";
     });
   };
   caddy = {
@@ -1107,13 +1107,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "a1ccc136f3c18be9cc76088665667cef345f2edb";
+    version = "3ff3f2197759c22e8421994e156c5285f57ec76b";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "a1ccc136f3c18be9cc76088665667cef345f2edb";
+      rev = "3ff3f2197759c22e8421994e156c5285f57ec76b";
       fetchSubmodules = false;
-      sha256 = "sha256-VcI8hUZGCC4u2wsrE00+6C3hngolrw1IrW+l7bzW4iI=";
+      sha256 = "sha256-TPHjiJKW3iDBJpgXTYb2/MxgIyN2Au6t5O21gSEPm7o=";
     });
   };
   whitesur-icon-theme = {
