@@ -1963,7 +1963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "idleberg-hopscotch",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "passthru": {
       "name": "hopscotch",
       "license": "CC0-1.0",
@@ -1971,10 +1971,10 @@
       "description": "Color scheme inspired by the Hopscotch learning platform for kids"
     },
     "src": {
-      "url": "https://open-vsx.org/api/idleberg/hopscotch/0.8.1/file/idleberg.hopscotch-0.8.1.vsix",
+      "url": "https://open-vsx.org/api/idleberg/hopscotch/0.8.2/file/idleberg.hopscotch-0.8.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LfsxpfoWV2PYh1rmGpOGQjQV+ggYYwxGvrCuFnFkCVY="
+      "sha256": "sha256-enPjMhQbx+Pq+S2//69tUTJ9k412Zy1w+zD6j6fmEcA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8763,7 +8763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.27.0",
+    "version": "2.27.2",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -8771,10 +8771,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.0/file/RokuCommunity.brightscript-2.27.0.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.2/file/RokuCommunity.brightscript-2.27.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-01gZ/BHZOaApDYKIWNLa95nyjVCxsuHH6NCd6Y/QVL8="
+      "sha256": "sha256-xw9RjvcQrL274kL6cLfgAQykhlOYhOZf2zRuskUn/DA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10683,7 +10683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "genuitecllc-codetogether",
-    "version": "2022.1.0",
+    "version": "2022.1.1",
     "passthru": {
       "name": "codetogether",
       "license": "",
@@ -10691,10 +10691,10 @@
       "description": "Add CodeTogether to VS Code to live share your IDE and coding sessions. Cross-IDE support for VS Code, IntelliJ and Eclipse. Free plan always available!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.0/file/genuitecllc.codetogether-2022.1.0.vsix",
+      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.1/file/genuitecllc.codetogether-2022.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+JXvtQ+UdVl+vfvPQJuMC1CnYFPgIYNc329M4CutmJQ="
+      "sha256": "sha256-10YWhMpCn2/CR3lF6A7BfVZ8W/pLHn0+nIXR346Hflw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11586,7 +11586,7 @@
     "version": "6.0.0",
     "passthru": {
       "name": "editor",
-      "license": "AGPL-3.0",
+      "license": "LICENSE",
       "publisher": "openstax",
       "description": "An editor for OpenStax-organized books."
     },

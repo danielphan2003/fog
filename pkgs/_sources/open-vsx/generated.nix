@@ -2751,10 +2751,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.27.0";
+    version = "2.27.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.0/file/RokuCommunity.brightscript-2.27.0.vsix";
-      sha256 = "sha256-01gZ/BHZOaApDYKIWNLa95nyjVCxsuHH6NCd6Y/QVL8=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.2/file/RokuCommunity.brightscript-2.27.2.vsix";
+      sha256 = "sha256-xw9RjvcQrL274kL6cLfgAQykhlOYhOZf2zRuskUn/DA=";
     };
     name = "brightscript";
     license = "MIT";
@@ -7887,10 +7887,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.0";
+    version = "2022.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.0/file/genuitecllc.codetogether-2022.1.0.vsix";
-      sha256 = "sha256-+JXvtQ+UdVl+vfvPQJuMC1CnYFPgIYNc329M4CutmJQ=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.1/file/genuitecllc.codetogether-2022.1.1.vsix";
+      sha256 = "sha256-10YWhMpCn2/CR3lF6A7BfVZ8W/pLHn0+nIXR346Hflw=";
     };
     name = "codetogether";
     license = "";
@@ -8751,10 +8751,10 @@
   };
   idleberg-hopscotch = {
     pname = "idleberg-hopscotch";
-    version = "0.8.1";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/hopscotch/0.8.1/file/idleberg.hopscotch-0.8.1.vsix";
-      sha256 = "sha256-LfsxpfoWV2PYh1rmGpOGQjQV+ggYYwxGvrCuFnFkCVY=";
+      url = "https://open-vsx.org/api/idleberg/hopscotch/0.8.2/file/idleberg.hopscotch-0.8.2.vsix";
+      sha256 = "sha256-enPjMhQbx+Pq+S2//69tUTJ9k412Zy1w+zD6j6fmEcA=";
     };
     name = "hopscotch";
     license = "CC0-1.0";
@@ -12573,7 +12573,7 @@
       sha256 = "sha256-wy+5POb00lzyPVa8zv/Pmx5Vewq2Ujay4BOgaAmkip0=";
     };
     name = "editor";
-    license = "AGPL-3.0";
+    license = "LICENSE";
     publisher = "openstax";
     description = "An editor for OpenStax-organized books.";
   };
