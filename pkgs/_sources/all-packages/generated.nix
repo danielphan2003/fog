@@ -287,13 +287,13 @@
   };
   duf = {
     pname = "duf";
-    version = "e98632a81fa5b653faea7b940bf6c1ac5974f556";
+    version = "eda58962936ab40818ebe961f1d2a1826b3ba7aa";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "e98632a81fa5b653faea7b940bf6c1ac5974f556";
+      rev = "eda58962936ab40818ebe961f1d2a1826b3ba7aa";
       fetchSubmodules = false;
-      sha256 = "sha256-MedOejrqXMZCuSIg1d9oqOfK3rG63bZheOKfUNbjCLI=";
+      sha256 = "sha256-DYJEPSALe5hX5gm/Za8C2bOF331MJqTd3K1KSUeT9m4=";
     });
   };
   eww = {
@@ -784,16 +784,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6c05f72d901b2953b0aa545d0ad081c160032a6a";
+    version = "6143a3c649d24bd257258ab6122ac22f01c28fa9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6c05f72d901b2953b0aa545d0ad081c160032a6a";
+      rev = "6143a3c649d24bd257258ab6122ac22f01c28fa9";
       fetchSubmodules = false;
-      sha256 = "sha256-6yGLpR45lLD0Fm40SEb/YiWxjdv4Ja0u1dFpCW7+BUY=";
+      sha256 = "sha256-qaBVLymdsMXHmGDUzwLPjDImxxK4AGlCdykjZGT/IUo=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-6c05f72d901b2953b0aa545d0ad081c160032a6a/Cargo.lock;
+      lockFile = ./rustdesk-6143a3c649d24bd257258ab6122ac22f01c28fa9/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
