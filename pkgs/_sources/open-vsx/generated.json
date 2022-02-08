@@ -11523,7 +11523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alygin-vscode-tlaplus-nightly",
-    "version": "2021.12.2111",
+    "version": "2022.2.801",
     "passthru": {
       "name": "vscode-tlaplus-nightly",
       "license": "MIT",
@@ -11531,10 +11531,10 @@
       "description": "TLA+ language support (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2021.12.2111/file/alygin.vscode-tlaplus-nightly-2021.12.2111.vsix",
+      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.2.801/file/alygin.vscode-tlaplus-nightly-2022.2.801.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZYXIjzIBvckc8QeNWa8EebjMUbEhSmtBeSA2OwhueNE="
+      "sha256": "sha256-umizTe2u6vU5hGfM3Kn1iUpjVgkqmW6YpHBn5iMkMDU="
     },
     "extract": null,
     "rustGitDeps": null

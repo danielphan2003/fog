@@ -4023,10 +4023,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2021.12.2111";
+    version = "2022.2.801";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2021.12.2111/file/alygin.vscode-tlaplus-nightly-2021.12.2111.vsix";
-      sha256 = "sha256-ZYXIjzIBvckc8QeNWa8EebjMUbEhSmtBeSA2OwhueNE=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.2.801/file/alygin.vscode-tlaplus-nightly-2022.2.801.vsix";
+      sha256 = "sha256-umizTe2u6vU5hGfM3Kn1iUpjVgkqmW6YpHBn5iMkMDU=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
