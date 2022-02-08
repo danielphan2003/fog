@@ -8723,7 +8723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1783497",
+    "version": "6.1.1812185",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8731,10 +8731,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1783497/file/eliostruyf.vscode-front-matter-beta-6.1.1783497.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1812185/file/eliostruyf.vscode-front-matter-beta-6.1.1812185.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MSiULe5WzKvwgKdY5xDuaKzIGSrLTuVpQiDZsLye9xk="
+      "sha256": "sha256-Z5+awfnIJ26fXpIkGg5ONrKcv/KeePlas/F1IKI3tV4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28183,7 +28183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.605",
+    "version": "31.0.606",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28191,10 +28191,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.605/file/Prisma.prisma-insider-31.0.605.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.606/file/Prisma.prisma-insider-31.0.606.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-L07EfCoIYUvKqAB2SXbZyiFOa/w6OE/iK0X/F3JqokI="
+      "sha256": "sha256-y4ij1wuCfr9LYccnKbh5wjnB1OPf+VPTHQn3F6qbVkU="
     },
     "extract": null,
     "rustGitDeps": null

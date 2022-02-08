@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.605";
+    version = "31.0.606";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.605/file/Prisma.prisma-insider-31.0.605.vsix";
-      sha256 = "sha256-L07EfCoIYUvKqAB2SXbZyiFOa/w6OE/iK0X/F3JqokI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.606/file/Prisma.prisma-insider-31.0.606.vsix";
+      sha256 = "sha256-y4ij1wuCfr9LYccnKbh5wjnB1OPf+VPTHQn3F6qbVkU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6903,10 +6903,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1783497";
+    version = "6.1.1812185";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1783497/file/eliostruyf.vscode-front-matter-beta-6.1.1783497.vsix";
-      sha256 = "sha256-MSiULe5WzKvwgKdY5xDuaKzIGSrLTuVpQiDZsLye9xk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1812185/file/eliostruyf.vscode-front-matter-beta-6.1.1812185.vsix";
+      sha256 = "sha256-Z5+awfnIJ26fXpIkGg5ONrKcv/KeePlas/F1IKI3tV4=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
