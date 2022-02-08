@@ -88,7 +88,7 @@
       "name": "feather-works",
       "license": "LICENSE.md",
       "publisher": "winterZhao",
-      "description": "å®æ´çãæ ååçãæµç¨å React åºç¨å¼åæ¨¡å¼åæä½³å®è·µãç®ååºç¨çå¼åï¼æ¶æææ¯æ ãå±è½åºå±å·®å¼åç»ä¸å¼åä½éªï¼å¸®å©å¼åäººåéä½å¼ååç»´æ¤ææ¬ã"
+      "description": "å®æ´çãæ ååçãæµç¨å React åºç¨å¼åæ¨¡å¼åæä½³å®è·µãç®ååºç¨çå¼åï¼æ¶æææ¯æ ãå±è½åºå±å·®å¼åç»ä¸å¼åä½éªï¼å¸®å©å¼åäººåéä½å¼ååç»´æ¤ææ¬ã"
     },
     "src": {
       "url": "https://open-vsx.org/api/winterZhao/feather-works/1.0.1/file/winterZhao.feather-works-1.0.1.vsix",
@@ -543,7 +543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.5.6",
+    "version": "0.5.9",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -551,10 +551,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.6/file/halcyontechltd.vscode-rpgle-0.5.6.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.9/file/halcyontechltd.vscode-rpgle-0.5.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iyY3U96QS+Jnc+aRsEtWOExEW09kQUHgMdbD8Q5BrpA="
+      "sha256": "sha256-bQwsDZomVP+tzE0s9zyTfLYOvkLP05jSe4VALzPGgfA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -623,7 +623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SixtyFPS-sixtyfps-vscode-nightly",
-    "version": "2022.2.416",
+    "version": "2022.2.611",
     "passthru": {
       "name": "sixtyfps-vscode-nightly",
       "license": "GPL-3.0",
@@ -631,10 +631,10 @@
       "description": "SixtyFPS Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.416/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.416.vsix",
+      "url": "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.611/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.611.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-u/vcmdMmuAtBfwkEDi7XR8MbEdv8S8D2/JBrRV8TKtI="
+      "sha256": "sha256-yiyhVJ7REN2pu4rwEBW5XUpFizB/1XG3J96JRbwSGdY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1163,7 +1163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.80.3",
+    "version": "0.80.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1171,10 +1171,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.80.3/file/dendron.nightly-0.80.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.80.5/file/dendron.nightly-0.80.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-I+vt2nCln5GsjTlPW/Oe0hkNodP39RmPajSjjkQGAQQ="
+      "sha256": "sha256-Wt0yxp8wHOBBPhb0LH9pEwnP5BMKDUg9WFPeL6TtxX4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1543,7 +1543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "entan-gl-cc65-vice",
-    "version": "5.1.3",
+    "version": "5.1.4",
     "passthru": {
       "name": "cc65-vice",
       "license": "MIT",
@@ -1551,10 +1551,10 @@
       "description": "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators."
     },
     "src": {
-      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/5.1.3/file/entan-gl.cc65-vice-5.1.3.vsix",
+      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/5.1.4/file/entan-gl.cc65-vice-5.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xk4LeqO42dkbr3scw4NhIo+YxrgNvdXt1nWiamqUBMg="
+      "sha256": "sha256-ccRQEXWnz29nI1LX3tDmnU9O42e1QLXhQdWbldv+3kQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1863,7 +1863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PKief-material-product-icons",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "passthru": {
       "name": "material-product-icons",
       "license": "MIT",
@@ -1871,10 +1871,10 @@
       "description": "Product Icon Theme with Material Icons for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PKief/material-product-icons/1.1.1/file/PKief.material-product-icons-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/PKief/material-product-icons/1.1.2/file/PKief.material-product-icons-1.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Y12ecGWb4LpLBmWBXYC5UeHrgAtXQtBIPgwUTSg8b8E="
+      "sha256": "sha256-cO71FolpIZr4JfFGShfyL6IkLlCv6/53ylQlchgyCRc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2423,7 +2423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "johnsoncodehk-vscode-typescript-vue-plugin",
-    "version": "0.31.1",
+    "version": "0.31.2",
     "passthru": {
       "name": "vscode-typescript-vue-plugin",
       "license": "MIT",
@@ -2431,10 +2431,10 @@
       "description": "Vue Plugin for TypeScript server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.1/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.1.vsix",
+      "url": "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.2/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-e0ct3pocQ42Hz+iidkXMVbkDEI2FL4tUfZDtN6m35Ro="
+      "sha256": "sha256-dbrxN1fRAiW4KCpDz7jvCdaRs4duudZ7bV2ReTIUKIU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3723,7 +3723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.5.9",
+    "version": "0.5.11",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3731,10 +3731,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.5.9/file/yuyichao.digitaljs-0.5.9.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.5.11/file/yuyichao.digitaljs-0.5.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3DAORtF0IvHOnRD6Wuck1uQZzGCzjlYut9ysIu1AaTY="
+      "sha256": "sha256-UEpYkhT2RLUBykCy/sqSNTCmL4aNetlckfku5LtJgXk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4583,7 +4583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nrwl-angular-console",
-    "version": "17.14.0",
+    "version": "17.14.1",
     "passthru": {
       "name": "angular-console",
       "license": "MIT",
@@ -4591,10 +4591,10 @@
       "description": "Nx Console for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nrwl/angular-console/17.14.0/file/nrwl.angular-console-17.14.0.vsix",
+      "url": "https://open-vsx.org/api/nrwl/angular-console/17.14.1/file/nrwl.angular-console-17.14.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Tp/brE9xSQpmURsAlR3T07v7lM19JOgjZS08YIfCPvM="
+      "sha256": "sha256-Fe/U3pXzYpSve+DkX/pA+kVIbcH4dFkwljKS4QkB72w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4863,7 +4863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-mta-vscode-extension",
-    "version": "0.0.88",
+    "version": "0.0.91",
     "passthru": {
       "name": "mta-vscode-extension",
       "license": "MIT",
@@ -4871,10 +4871,10 @@
       "description": "Migration Toolkit for Applications (MTA)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.88/file/redhat.mta-vscode-extension-0.0.88.vsix",
+      "url": "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.91/file/redhat.mta-vscode-extension-0.0.91.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5ams0kc31yulAEvrdYR4RAO2qVb3tFL7gyraNXIrXOQ="
+      "sha256": "sha256-lQqhWDvBoxN5HwbqUdkSUlwpiepI4RlPJYkOCnL3B8A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5903,7 +5903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "toit-toit",
-    "version": "1.4.1",
+    "version": "1.5.0",
     "passthru": {
       "name": "toit",
       "license": "MIT",
@@ -5911,10 +5911,10 @@
       "description": "Toit Programming Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/toit/toit/1.4.1/file/toit.toit-1.4.1.vsix",
+      "url": "https://open-vsx.org/api/toit/toit/1.5.0/file/toit.toit-1.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eR3fyqn5LYIG5EzE08MUQpzO8u9KtP55sUjz7mYq1Tw="
+      "sha256": "sha256-0is0qgkG07Ib57OKOvaNW6xxw9BQqgzF4jeYFytRq5g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6588,7 +6588,7 @@
       "name": "theme-dracula-at-night",
       "license": "MIT",
       "publisher": "bceskavich",
-      "description": "Dracula At Night âÂ A Dracula fork, with a darker flavor"
+      "description": "Dracula At Night âÂ A Dracula fork, with a darker flavor"
     },
     "src": {
       "url": "https://open-vsx.org/api/bceskavich/theme-dracula-at-night/2.6.0/file/bceskavich.theme-dracula-at-night-2.6.0.vsix",
@@ -6883,7 +6883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "madeindjs-notable",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "passthru": {
       "name": "notable",
       "license": "MIT",
@@ -6891,10 +6891,10 @@
       "description": "Create, edit and search Markdown notes from Notable."
     },
     "src": {
-      "url": "https://open-vsx.org/api/madeindjs/notable/0.2.0/file/madeindjs.notable-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/madeindjs/notable/0.3.0/file/madeindjs.notable-0.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-H9adG9fivui46W5rkW61Y0V0NtyUqGN83o0DnJWYDjY="
+      "sha256": "sha256-odr62h64C/huDTk/Oh5L7sSvWfF7eK4wFOKwei7ohss="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7483,7 +7483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "matepek-vscode-catch2-test-adapter",
-    "version": "4.0.24",
+    "version": "4.0.25",
     "passthru": {
       "name": "vscode-catch2-test-adapter",
       "license": "MIT",
@@ -7491,10 +7491,10 @@
       "description": "Run GoogleTest, Catch2 and DOCtest tests from VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.24/file/matepek.vscode-catch2-test-adapter-4.0.24.vsix",
+      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.25/file/matepek.vscode-catch2-test-adapter-4.0.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-N6qZqsZciLySBedtjENXqMO6+wIM0QnINQLYU/aThMs="
+      "sha256": "sha256-MWJblEr2i/CDEIPvrXzbhCWCXBox2s78khGpLmw5cW0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8583,7 +8583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "medo64-render-crlf",
-    "version": "1.5.22",
+    "version": "1.5.23",
     "passthru": {
       "name": "render-crlf",
       "license": "MIT",
@@ -8591,10 +8591,10 @@
       "description": "Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on."
     },
     "src": {
-      "url": "https://open-vsx.org/api/medo64/render-crlf/1.5.22/file/medo64.render-crlf-1.5.22.vsix",
+      "url": "https://open-vsx.org/api/medo64/render-crlf/1.5.23/file/medo64.render-crlf-1.5.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-02AU+2HaJ9fCTOxahl45SVcYU+U4o5FBUOU3NQ5to+M="
+      "sha256": "sha256-YvX9sld53AygiAkbrjKObZTJIH4+zjlEnuXyujoed2o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8683,7 +8683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "asciidoctor-asciidoctor-vscode",
-    "version": "2.9.3",
+    "version": "2.9.4",
     "passthru": {
       "name": "asciidoctor-vscode",
       "license": "MIT",
@@ -8691,10 +8691,10 @@
       "description": "Provides rich language support for AsciiDoc."
     },
     "src": {
-      "url": "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.3/file/asciidoctor.asciidoctor-vscode-2.9.3.vsix",
+      "url": "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.4/file/asciidoctor.asciidoctor-vscode-2.9.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GDg5GMQ0zQIQlyiTaFA1DyXtsSf57rS8HJwXZhOPk2U="
+      "sha256": "sha256-4KoIbyTfIM9ZwQIUTc75dEBTY/QcGPjxDKYWxZu+cGY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8803,7 +8803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.18",
+    "version": "3.5.22",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -8811,10 +8811,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.18/file/TabNine.tabnine-vscode-3.5.18.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.22/file/TabNine.tabnine-vscode-3.5.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8oVsTlO8YWjf/ZVEgbkbLj6/4bEYcLdcvq9jwxXgTJw="
+      "sha256": "sha256-UNLfeOYmmzwBj8cYX8h8M17/YmoRvQbvtXotXJvx2iw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9163,7 +9163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-glimmer-syntax",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "passthru": {
       "name": "vscode-glimmer-syntax",
       "license": "MIT",
@@ -9171,10 +9171,10 @@
       "description": "Glimmer templates syntax"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-glimmer-syntax/1.0.6/file/lifeart.vscode-glimmer-syntax-1.0.6.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-glimmer-syntax/1.0.7/file/lifeart.vscode-glimmer-syntax-1.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kK7kY4LjEcvQNlXDOhnr8eeHgukyjGAx+vvM/6voFuo="
+      "sha256": "sha256-L85Jx2LzW45r86tVS3UjDTTbRjYMpiv78WgvrmyzaZE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9783,7 +9783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "kisstkondoros-vscode-gutter-preview",
-    "version": "0.29.0",
+    "version": "0.30.0",
     "passthru": {
       "name": "vscode-gutter-preview",
       "license": "MIT",
@@ -9791,10 +9791,10 @@
       "description": "Shows image preview in the gutter and on hover"
     },
     "src": {
-      "url": "https://open-vsx.org/api/kisstkondoros/vscode-gutter-preview/0.29.0/file/kisstkondoros.vscode-gutter-preview-0.29.0.vsix",
+      "url": "https://open-vsx.org/api/kisstkondoros/vscode-gutter-preview/0.30.0/file/kisstkondoros.vscode-gutter-preview-0.30.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eh4oS623XaJ0S5P8iFu+WIla4w4+k9t0tPbAcFuxUGY="
+      "sha256": "sha256-kSXNbiCOBTM3lM8G24H8pVZNj1mfqgT58mOKnNk8TM4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11923,7 +11923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.274",
+    "version": "0.25.276",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -11931,10 +11931,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.274/file/pokey.cursorless-0.25.274.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.276/file/pokey.cursorless-0.25.276.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wrfpMX6kYAHTJqShr8kzE7bBGOkxN58oh67Xb0zpDCU="
+      "sha256": "sha256-ErUGQ1/HBr6LQk/IPurFRcyI7MKBOdETJLvnAayeZ20="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14023,7 +14023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ecmel-vscode-html-css",
-    "version": "1.10.2",
+    "version": "1.11.0",
     "passthru": {
       "name": "vscode-html-css",
       "license": "MIT",
@@ -14031,10 +14031,10 @@
       "description": "CSS Intellisense for HTML"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ecmel/vscode-html-css/1.10.2/file/ecmel.vscode-html-css-1.10.2.vsix",
+      "url": "https://open-vsx.org/api/ecmel/vscode-html-css/1.11.0/file/ecmel.vscode-html-css-1.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-S6KrWiOk/twLeDkWBSHTkHZvRv+5xlnb/yyEq+6rGD8="
+      "sha256": "sha256-kWSMBMTGa42XAKKEnWeWuXpOVcCNZ6cmMmkD7kn+hKI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16203,7 +16203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.0",
+    "version": "0.12.1",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16211,10 +16211,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.0/file/shufo.vscode-blade-formatter-0.12.0.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.1/file/shufo.vscode-blade-formatter-0.12.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WBZShLTpeGJ1IK6IvvzA+6ATokseXg+FiiqpcEAjuzg="
+      "sha256": "sha256-zJBRC2IlsiszViGl7gTh6gSaecgJh5CG8d4k1K+VleE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18883,7 +18883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.13",
+    "version": "3.0.17",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -18891,10 +18891,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.13/file/lifeart.vscode-ember-unstable-3.0.13.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.17/file/lifeart.vscode-ember-unstable-3.0.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SEEo6aePEhzpRYWCGbajBGzKsybr1Qt0HL0aL8OqTQo="
+      "sha256": "sha256-O3yHOmOtnjPewsFluXiV9gYJ+uu4bd3849Lcaij+9jA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19843,7 +19843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "AdaCore-ada-debug",
-    "version": "23.0.2",
+    "version": "23.0.3",
     "passthru": {
       "name": "ada-debug",
       "license": "GPL-3.0",
@@ -19851,10 +19851,10 @@
       "description": "A Language Server providing Ada and SPARK support in Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.2/file/AdaCore.ada-debug-23.0.2.vsix",
+      "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.3/file/AdaCore.ada-debug-23.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-T0423JWPllow7mSoKp2NvsMHWOaFpwPpm39DbbSvPw8="
+      "sha256": "sha256-0fUtF1M8Ks9TTrS4zuGvtASYQB3B1pQosEtNFmFa9mo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20879,6 +20879,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "jsDelivr-jsdelivr": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "jsDelivr-jsdelivr",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "jsdelivr",
+      "license": "OSL-3.0",
+      "publisher": "jsDelivr",
+      "description": "Quickly insert any npm package from jsDelivr CDN."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.0/file/jsDelivr.jsdelivr-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-qc96pTC1j0qww8xUjMuWArNrUJ9aBUO6TCn5lgsrq9Y="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "panaeon-vscode-dhall-lsp-server": {
     "pinned": false,
     "cargoLock": null,
@@ -21408,7 +21428,7 @@
       "name": "saas-tool",
       "license": "",
       "publisher": "saas-tool",
-      "description": "SaaS-Tool æ¯ä¸ä¸ªæ¯æé¤é¥®SaaSåç«¯é¡¹ç®ç åæççå·¥å·ï¼ä»¥éæé¤çåç±»ååç«¯é¡¹ç®åææ¯æ å®ç°å¼åå¯å¨ä¸ºæ ¸å¿ãè§£å³åç»å·¥ç¨æ¹æ¡(ææ¯éåãæå»ºæ¹æ¡)å±åºä¸ç©·ãç åæµç¨åå¼ï¼æ´åé¡¹ç®å¯å¨ãå·¥ç¨ç®¡çãç©æç®¡çãè´¨é/æ§è½ç­æ¿åè½åå½¢æç»ä¸æ åçåç«¯å·¥å·"
+      "description": "SaaS-Tool æ¯ä¸ä¸ªæ¯æé¤é¥®SaaSåç«¯é¡¹ç®ç åæççå·¥å·ï¼ä»¥éæé¤çåç±»ååç«¯é¡¹ç®åææ¯æ å®ç°å¼åå¯å¨ä¸ºæ ¸å¿ãè§£å³åç»å·¥ç¨æ¹æ¡(ææ¯éåãæå»ºæ¹æ¡)å±åºä¸ç©·ãç åæµç¨åå¼ï¼æ´åé¡¹ç®å¯å¨ãå·¥ç¨ç®¡çãç©æç®¡çãè´¨é/æ§è½ç­æ¿åè½åå½¢æç»ä¸æ åçåç«¯å·¥å·"
     },
     "src": {
       "url": "https://open-vsx.org/api/saas-tool/saas-tool/1.0.18/file/saas-tool.saas-tool-1.0.18.vsix",
@@ -21515,6 +21535,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-BleDSJiV0pSUN6cMUSjMuD1rFU1YXdoHsPng0kx3ZDA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "angular-rxjs-ngrx-angular-rxjs-ngrx": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "angular-rxjs-ngrx-angular-rxjs-ngrx",
+    "version": "1.1.2",
+    "passthru": {
+      "name": "angular-rxjs-ngrx",
+      "license": "ISC",
+      "publisher": "angular-rxjs-ngrx",
+      "description": "A collection of usefull snippets for angular developers, including some snippets for NgRx, NgRx component store, cypress, angular material, todo tree and much more"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/angular-rxjs-ngrx/angular-rxjs-ngrx/1.1.2/file/angular-rxjs-ngrx.angular-rxjs-ngrx-1.1.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-vgA9RNZ50FheNlbqBes4jdnmMx7YVo18oCQeF+xkfW0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23023,7 +23063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "timonwong-shellcheck",
-    "version": "0.18.5",
+    "version": "0.18.6",
     "passthru": {
       "name": "shellcheck",
       "license": "MIT",
@@ -23031,10 +23071,10 @@
       "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts."
     },
     "src": {
-      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.5/file/timonwong.shellcheck-0.18.5.vsix",
+      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.6/file/timonwong.shellcheck-0.18.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CNdSKCy54o3PSRlWj7/Vy6K2M5hlFA/7XxcMQ5aVi+8="
+      "sha256": "sha256-fq9OLBNivgONTWAigejcJC4SMAkuZYkLtRR5kIjoYMc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24083,7 +24123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leodevbro-blockman",
-    "version": "1.5.3",
+    "version": "1.5.4",
     "passthru": {
       "name": "blockman",
       "license": "MIT",
@@ -24091,10 +24131,10 @@
       "description": "Mark/Highlight code blocks"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leodevbro/blockman/1.5.3/file/leodevbro.blockman-1.5.3.vsix",
+      "url": "https://open-vsx.org/api/leodevbro/blockman/1.5.4/file/leodevbro.blockman-1.5.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JSRaLO7iJ317JfOBlbGdm77G3rlf6i9HjF+4JRf7oAI="
+      "sha256": "sha256-yLtwO4680C43PbtdupfFWNDRX98jE8UnY6b24W8e4fo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24103,7 +24143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-npm-rapid-ready",
-    "version": "0.0.24",
+    "version": "0.0.25",
     "passthru": {
       "name": "npm-rapid-ready",
       "license": "MIT",
@@ -24111,10 +24151,10 @@
       "description": "Full-featured extension for npm ecosystem"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.24/file/zardoy.npm-rapid-ready-0.0.24.vsix",
+      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.25/file/zardoy.npm-rapid-ready-0.0.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p6pG15taGEE0r92dgnR0nV8FhqDCjTl6kj5+Ok/igFI="
+      "sha256": "sha256-3Snv9N4D33HlZ1lgjFbFbo4zBmbA1cB/oPl644bzxes="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24223,7 +24263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-todo-md",
-    "version": "2.9.0",
+    "version": "2.9.1",
     "passthru": {
       "name": "todo-md",
       "license": "MIT",
@@ -24231,10 +24271,10 @@
       "description": "Todo tracking based on `todo.txt` format."
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/todo-md/2.9.0/file/usernamehw.todo-md-2.9.0.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/todo-md/2.9.1/file/usernamehw.todo-md-2.9.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WCv4prW0jyNgXAg5W9Y7sQ1gJfGdAkWeaSWRINrQ+LQ="
+      "sha256": "sha256-Iy/vqr//Ois7UznNnMEqo9WpQaa4bD8rTrjCSfXplus="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24883,7 +24923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zhuangtongfa-material-theme",
-    "version": "3.13.17",
+    "version": "3.13.18",
     "passthru": {
       "name": "material-theme",
       "license": "MIT",
@@ -24891,10 +24931,10 @@
       "description": "Atomâs iconic One Dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.17/file/zhuangtongfa.material-theme-3.13.17.vsix",
+      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.18/file/zhuangtongfa.material-theme-3.13.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-znErBFs8XClVBHlYgLBnRu7AX1SF1XJSiDayiTgZkMc="
+      "sha256": "sha256-QKxz9yuabv8ePVZ3aLHnthw07cXkNvZJDwYNK3gmAbs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25063,7 +25103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "standard-vscode-standard",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "passthru": {
       "name": "vscode-standard",
       "license": "MIT",
@@ -25071,10 +25111,10 @@
       "description": "Visual Studio Code extension for JavaScript Standard Style with automatic fixing."
     },
     "src": {
-      "url": "https://open-vsx.org/api/standard/vscode-standard/2.0.1/file/standard.vscode-standard-2.0.1.vsix",
+      "url": "https://open-vsx.org/api/standard/vscode-standard/2.1.0/file/standard.vscode-standard-2.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-N46UiLrtJ2n18+fh0Jpodjm1Z0nn5HKYwiLiKsBgzsI="
+      "sha256": "sha256-ZrHjSTPV/kLkawxxFsc7JweIKVt6K0qnmHr8Q/a6Z1E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26628,7 +26668,7 @@
       "name": "sweetdracula",
       "license": "MIT",
       "publisher": "PROxZIMA",
-      "description": "Sweet Dracula âÂ A beautiful, darker - Dracula fork"
+      "description": "Sweet Dracula âÂ A beautiful, darker - Dracula fork"
     },
     "src": {
       "url": "https://open-vsx.org/api/PROxZIMA/sweetdracula/1.0.7/file/PROxZIMA.sweetdracula-1.0.7.vsix",
@@ -27963,7 +28003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.217",
+    "version": "1.1.218",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -27971,10 +28011,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.217/file/ms-pyright.pyright-1.1.217.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.218/file/ms-pyright.pyright-1.1.218.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kydoj1MNTXMKBocr2db6SfVvNAfgqA3nQzTtShV9IMI="
+      "sha256": "sha256-A+c0Q9oowPuO9ADHinDbXPVA5rIwmO6t4wlAxFHfyeg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28083,7 +28123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "AdaCore-ada",
-    "version": "23.0.2",
+    "version": "23.0.3",
     "passthru": {
       "name": "ada",
       "license": "GPL-3.0",
@@ -28091,10 +28131,10 @@
       "description": "A Language Server providing Ada and SPARK support in Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/AdaCore/ada/23.0.2/file/AdaCore.ada-23.0.2.vsix",
+      "url": "https://open-vsx.org/api/AdaCore/ada/23.0.3/file/AdaCore.ada-23.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uq49T0wIPlAD3sva+/LQd3QidaJGEcVRVXNgdKOvykE="
+      "sha256": "sha256-xizPdroLDRqgeC16fQXu4QfAO90eLzQd69+W+0P3sPI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28143,7 +28183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.601",
+    "version": "31.0.604",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28151,10 +28191,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.601/file/Prisma.prisma-insider-31.0.601.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.604/file/Prisma.prisma-insider-31.0.604.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4hC3N5ks7+yCkBhKa+CHsW0W1y9OVCmMfWUB/0/LrcI="
+      "sha256": "sha256-/MjXmfswvgRxC1r327o/sSmd3l/uhQSbW+42b1j4PXc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28823,7 +28863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.237",
+    "version": "2.0.240",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -28831,10 +28871,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.237/file/betterthantomorrow.calva-2.0.237.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.240/file/betterthantomorrow.calva-2.0.240.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TrAtBOseSDTHdBthfJOlx69BxJMjfZGUGKURc908GJs="
+      "sha256": "sha256-saSUDKRIO/8c+R4yZHbU3dCHFVV0sxGu9WBEtriCWWw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29488,7 +29528,7 @@
       "name": "open-sourcetree-in-vscode-plugin",
       "license": "MIT",
       "publisher": "liangcheng-plugins",
-      "description": "å¨vscodeä¸­çèµæºç®¡çå¨ä¸­ï¼ç´æ¥å³é®å¯ä»¥æå¼sourcetree, å¹¶å è½½å½ågitæºç æ å°sourcetree"
+      "description": "å¨vscodeä¸­çèµæºç®¡çå¨ä¸­ï¼ç´æ¥å³é®å¯ä»¥æå¼sourcetree, å¹¶å è½½å½ågitæºç æ å°sourcetree"
     },
     "src": {
       "url": "https://open-vsx.org/api/liangcheng-plugins/open-sourcetree-in-vscode-plugin/2.0.0/file/liangcheng-plugins.open-sourcetree-in-vscode-plugin-2.0.0.vsix",

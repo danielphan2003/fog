@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.601";
+    version = "31.0.604";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.601/file/Prisma.prisma-insider-31.0.601.vsix";
-      sha256 = "sha256-4hC3N5ks7+yCkBhKa+CHsW0W1y9OVCmMfWUB/0/LrcI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.604/file/Prisma.prisma-insider-31.0.604.vsix";
+      sha256 = "sha256-/MjXmfswvgRxC1r327o/sSmd3l/uhQSbW+42b1j4PXc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3051,10 +3051,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.21";
+    version = "3.5.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.21/file/TabNine.tabnine-vscode-3.5.21.vsix";
-      sha256 = "sha256-0FlcS19ucqQ8q5/0pkBk6hrhOuSJJAJTP1Y3sRZVjc4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.22/file/TabNine.tabnine-vscode-3.5.22.vsix";
+      sha256 = "sha256-UNLfeOYmmzwBj8cYX8h8M17/YmoRvQbvtXotXJvx2iw=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6471,10 +6471,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.80.3";
+    version = "0.80.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.80.3/file/dendron.nightly-0.80.3.vsix";
-      sha256 = "sha256-I+vt2nCln5GsjTlPW/Oe0hkNodP39RmPajSjjkQGAQQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.80.5/file/dendron.nightly-0.80.5.vsix";
+      sha256 = "sha256-Wt0yxp8wHOBBPhb0LH9pEwnP5BMKDUg9WFPeL6TtxX4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -8259,10 +8259,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.5.6";
+    version = "0.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.6/file/halcyontechltd.vscode-rpgle-0.5.6.vsix";
-      sha256 = "sha256-iyY3U96QS+Jnc+aRsEtWOExEW09kQUHgMdbD8Q5BrpA=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.9/file/halcyontechltd.vscode-rpgle-0.5.9.vsix";
+      sha256 = "sha256-bQwsDZomVP+tzE0s9zyTfLYOvkLP05jSe4VALzPGgfA=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -9601,6 +9601,18 @@
     publisher = "jroesch";
     description = "An extension for VS Code which provides support for the Lean language.";
   };
+  jsDelivr-jsdelivr = {
+    pname = "jsDelivr-jsdelivr";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.0/file/jsDelivr.jsdelivr-1.0.0.vsix";
+      sha256 = "sha256-qc96pTC1j0qww8xUjMuWArNrUJ9aBUO6TCn5lgsrq9Y=";
+    };
+    name = "jsdelivr";
+    license = "OSL-3.0";
+    publisher = "jsDelivr";
+    description = "Quickly insert any npm package from jsDelivr CDN.";
+  };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
     version = "1.6.0";
@@ -10587,10 +10599,10 @@
   };
   madeindjs-notable = {
     pname = "madeindjs-notable";
-    version = "0.2.2";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/madeindjs/notable/0.2.2/file/madeindjs.notable-0.2.2.vsix";
-      sha256 = "sha256-qcXk2p0hMS54XIgJF1jH7tF8J791zI8Ldl+3TNFh3Zw=";
+      url = "https://open-vsx.org/api/madeindjs/notable/0.3.0/file/madeindjs.notable-0.3.0.vsix";
+      sha256 = "sha256-odr62h64C/huDTk/Oh5L7sSvWfF7eK4wFOKwei7ohss=";
     };
     name = "notable";
     license = "MIT";
@@ -12339,10 +12351,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.14.0";
+    version = "17.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.14.0/file/nrwl.angular-console-17.14.0.vsix";
-      sha256 = "sha256-Tp/brE9xSQpmURsAlR3T07v7lM19JOgjZS08YIfCPvM=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.14.1/file/nrwl.angular-console-17.14.1.vsix";
+      sha256 = "sha256-Fe/U3pXzYpSve+DkX/pA+kVIbcH4dFkwljKS4QkB72w=";
     };
     name = "angular-console";
     license = "MIT";
@@ -13131,10 +13143,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.274";
+    version = "0.25.276";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.274/file/pokey.cursorless-0.25.274.vsix";
-      sha256 = "sha256-wrfpMX6kYAHTJqShr8kzE7bBGOkxN58oh67Xb0zpDCU=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.276/file/pokey.cursorless-0.25.276.vsix";
+      sha256 = "sha256-ErUGQ1/HBr6LQk/IPurFRcyI7MKBOdETJLvnAayeZ20=";
     };
     name = "cursorless";
     license = "MIT";
@@ -13587,10 +13599,10 @@
   };
   redhat-mta-vscode-extension = {
     pname = "redhat-mta-vscode-extension";
-    version = "0.0.88";
+    version = "0.0.91";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.88/file/redhat.mta-vscode-extension-0.0.88.vsix";
-      sha256 = "sha256-5ams0kc31yulAEvrdYR4RAO2qVb3tFL7gyraNXIrXOQ=";
+      url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.91/file/redhat.mta-vscode-extension-0.0.91.vsix";
+      sha256 = "sha256-lQqhWDvBoxN5HwbqUdkSUlwpiepI4RlPJYkOCnL3B8A=";
     };
     name = "mta-vscode-extension";
     license = "MIT";
@@ -15903,10 +15915,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.18.5";
+    version = "0.18.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.5/file/timonwong.shellcheck-0.18.5.vsix";
-      sha256 = "sha256-CNdSKCy54o3PSRlWj7/Vy6K2M5hlFA/7XxcMQ5aVi+8=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.6/file/timonwong.shellcheck-0.18.6.vsix";
+      sha256 = "sha256-fq9OLBNivgONTWAigejcJC4SMAkuZYkLtRR5kIjoYMc=";
     };
     name = "shellcheck";
     license = "MIT";
@@ -15963,10 +15975,10 @@
   };
   toit-toit = {
     pname = "toit-toit";
-    version = "1.4.1";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toit/toit/1.4.1/file/toit.toit-1.4.1.vsix";
-      sha256 = "sha256-eR3fyqn5LYIG5EzE08MUQpzO8u9KtP55sUjz7mYq1Tw=";
+      url = "https://open-vsx.org/api/toit/toit/1.5.0/file/toit.toit-1.5.0.vsix";
+      sha256 = "sha256-0is0qgkG07Ib57OKOvaNW6xxw9BQqgzF4jeYFytRq5g=";
     };
     name = "toit";
     license = "MIT";
@@ -18471,10 +18483,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.5.10";
+    version = "0.5.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.10/file/yuyichao.digitaljs-0.5.10.vsix";
-      sha256 = "sha256-1qKEM1eUTn/gcqv+eEIZs0joP4QlBMrC0LQyb2lMxdw=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.11/file/yuyichao.digitaljs-0.5.11.vsix";
+      sha256 = "sha256-UEpYkhT2RLUBykCy/sqSNTCmL4aNetlckfku5LtJgXk=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
@@ -18567,10 +18579,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.0.24";
+    version = "0.0.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.24/file/zardoy.npm-rapid-ready-0.0.24.vsix";
-      sha256 = "sha256-p6pG15taGEE0r92dgnR0nV8FhqDCjTl6kj5+Ok/igFI=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.25/file/zardoy.npm-rapid-ready-0.0.25.vsix";
+      sha256 = "sha256-3Snv9N4D33HlZ1lgjFbFbo4zBmbA1cB/oPl644bzxes=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
