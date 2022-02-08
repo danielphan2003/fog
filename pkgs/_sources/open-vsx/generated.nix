@@ -1203,10 +1203,10 @@
   };
   Gruntfuggly-todo-tree = {
     pname = "Gruntfuggly-todo-tree";
-    version = "0.0.212";
+    version = "0.0.215";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Gruntfuggly/todo-tree/0.0.212/file/Gruntfuggly.todo-tree-0.0.212.vsix";
-      sha256 = "sha256-XNKg0BuUWt3gJNgSIVT4Jx4RejbOOoo/yL7gE3p8/Yk=";
+      url = "https://open-vsx.org/api/Gruntfuggly/todo-tree/0.0.215/file/Gruntfuggly.todo-tree-0.0.215.vsix";
+      sha256 = "sha256-Mm2EvWNy/OuLQAh7TYC+EEbkek0RbyEp4/PQGLkD3wA=";
     };
     name = "todo-tree";
     license = "MIT";
@@ -4371,10 +4371,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "4.10.1";
+    version = "4.10.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.1/file/anweber.vscode-httpyac-4.10.1.vsix";
-      sha256 = "sha256-ZM1FkFx2UIxcA+tLjEXizYy3ze6TIhpgLtPhqsxNYng=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.2/file/anweber.vscode-httpyac-4.10.2.vsix";
+      sha256 = "sha256-bBVa6KXKnMNaMp/Mhj7ixnv8C9Bo7yUgUAcpEcResZs=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -4839,10 +4839,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.1.0";
+    version = "6.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.1.0/file/barjo.anirak-6.1.0.vsix";
-      sha256 = "sha256-4LD/SfHKiG6jZZBrmZDRishW63U7GnGbBay6mph/k/E=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.2.0/file/barjo.anirak-6.2.0.vsix";
+      sha256 = "sha256-OjRiB0j09Pu0ZGuZyffBA12kUUFE7TMat44q3aIEXBM=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -12579,10 +12579,10 @@
   };
   openstax-editor = {
     pname = "openstax-editor";
-    version = "6.1.0";
+    version = "6.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openstax/editor/6.1.0/file/openstax.editor-6.1.0.vsix";
-      sha256 = "sha256-JLqutukkMKoVjJ5glf8F8bstZ6C5jW3PThTIo9dZiG4=";
+      url = "https://open-vsx.org/api/openstax/editor/6.1.1/file/openstax.editor-6.1.1.vsix";
+      sha256 = "sha256-6LVCLmzGHgbJfD8EgPQwPWA8oB9FqIIL2n0HNAvU77w=";
     };
     name = "editor";
     license = "LICENSE";
@@ -14751,10 +14751,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.12.1";
+    version = "0.12.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.1/file/shufo.vscode-blade-formatter-0.12.1.vsix";
-      sha256 = "sha256-zJBRC2IlsiszViGl7gTh6gSaecgJh5CG8d4k1K+VleE=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.2/file/shufo.vscode-blade-formatter-0.12.2.vsix";
+      sha256 = "sha256-8M1YhlcJba5cn6pFVBpJWex+f4I/remITBvKXi5gKYA=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
