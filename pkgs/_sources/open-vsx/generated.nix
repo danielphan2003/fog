@@ -6387,10 +6387,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.81.0";
+    version = "0.80.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.81.0/file/dendron.dendron-0.81.0.vsix";
-      sha256 = "sha256-mZReq55OV8kAN1vQ0837QLunr2HivZVGIqJ6hU0sUA4=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.80.3/file/dendron.dendron-0.80.3.vsix";
+      sha256 = "sha256-v700/6f0wapbJMRMj35DFmctVMPkkgoqxDBDO30f36s=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -15243,10 +15243,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.5";
+    version = "2.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.5/file/streetsidesoftware.code-spell-checker-2.1.5.vsix";
-      sha256 = "sha256-nIR3PtbtnSbAU0rS+qVtPsj++Dbfp/k86dWkx4xYcno=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.6/file/streetsidesoftware.code-spell-checker-2.1.6.vsix";
+      sha256 = "sha256-k1v9ewVEj9rOYJ9qv9SH5zugEtbi3/WsyArfAdXrzJc=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";

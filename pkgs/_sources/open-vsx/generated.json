@@ -5343,7 +5343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "streetsidesoftware-code-spell-checker",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "passthru": {
       "name": "code-spell-checker",
       "license": "GPL-3.0-or-later",
@@ -5351,10 +5351,10 @@
       "description": "Spelling checker for source code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.5/file/streetsidesoftware.code-spell-checker-2.1.5.vsix",
+      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.6/file/streetsidesoftware.code-spell-checker-2.1.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nIR3PtbtnSbAU0rS+qVtPsj++Dbfp/k86dWkx4xYcno="
+      "sha256": "sha256-k1v9ewVEj9rOYJ9qv9SH5zugEtbi3/WsyArfAdXrzJc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21903,7 +21903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.81.0",
+    "version": "0.80.3",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -21911,10 +21911,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.81.0/file/dendron.dendron-0.81.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.80.3/file/dendron.dendron-0.80.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mZReq55OV8kAN1vQ0837QLunr2HivZVGIqJ6hU0sUA4="
+      "sha256": "sha256-v700/6f0wapbJMRMj35DFmctVMPkkgoqxDBDO30f36s="
     },
     "extract": null,
     "rustGitDeps": null
