@@ -3051,10 +3051,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.22";
+    version = "3.5.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.22/file/TabNine.tabnine-vscode-3.5.22.vsix";
-      sha256 = "sha256-UNLfeOYmmzwBj8cYX8h8M17/YmoRvQbvtXotXJvx2iw=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.24/file/TabNine.tabnine-vscode-3.5.24.vsix";
+      sha256 = "sha256-AxDytroQlK7lwHnoXNyjTCaVq+W2s8VdWDzT2ValUuM=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6387,10 +6387,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.80.3";
+    version = "0.81.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.80.3/file/dendron.dendron-0.80.3.vsix";
-      sha256 = "sha256-v700/6f0wapbJMRMj35DFmctVMPkkgoqxDBDO30f36s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.81.0/file/dendron.dendron-0.81.0.vsix";
+      sha256 = "sha256-mZReq55OV8kAN1vQ0837QLunr2HivZVGIqJ6hU0sUA4=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -11005,6 +11005,18 @@
     publisher = "meganrogge";
     description = "Converts a string to a template string when '$'{ is typed";
   };
+  melmass-vex = {
+    pname = "melmass-vex";
+    version = "0.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/melmass/vex/0.6.0/file/melmass.vex-0.6.0.vsix";
+      sha256 = "sha256-V2dOSf0l61xSxDRj+D1Xv6XMEM/+2uy75K/sv0Wcuzc=";
+    };
+    name = "vex";
+    license = "MIT";
+    publisher = "melmass";
+    description = "Houdini VEX Support for VSCode";
+  };
   meraymond-idris-vscode = {
     pname = "meraymond-idris-vscode";
     version = "0.0.12";
@@ -12567,10 +12579,10 @@
   };
   openstax-editor = {
     pname = "openstax-editor";
-    version = "6.0.0";
+    version = "6.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openstax/editor/6.0.0/file/openstax.editor-6.0.0.vsix";
-      sha256 = "sha256-wy+5POb00lzyPVa8zv/Pmx5Vewq2Ujay4BOgaAmkip0=";
+      url = "https://open-vsx.org/api/openstax/editor/6.1.0/file/openstax.editor-6.1.0.vsix";
+      sha256 = "sha256-JLqutukkMKoVjJ5glf8F8bstZ6C5jW3PThTIo9dZiG4=";
     };
     name = "editor";
     license = "LICENSE";
