@@ -53,4 +53,4 @@ jobs:
       run: nix develop --command bud updateSources misc/vscode-extensions/vsmarketplace
 
     - name: Push changes to main
-      run: git add . && git pull --rebase && git push
+      run: git pull --no-rebase && git push
