@@ -1515,10 +1515,10 @@
   };
   Ikuyadeu-r = {
     pname = "Ikuyadeu-r";
-    version = "2.3.6";
+    version = "2.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ikuyadeu/r/2.3.6/file/Ikuyadeu.r-2.3.6.vsix";
-      sha256 = "sha256-o8iEpUp+zPHX+oMakukO38xv7mqg08juweU7tMSKfT8=";
+      url = "https://open-vsx.org/api/Ikuyadeu/r/2.3.8/file/Ikuyadeu.r-2.3.8.vsix";
+      sha256 = "sha256-Qz/WeH49f7Vh74xIa3PQDXPAozOhnot8ga2COZzAqOw=";
     };
     name = "r";
     license = "MIT";
@@ -2715,10 +2715,10 @@
   };
   RobbOwen-synthwave-vscode = {
     pname = "RobbOwen-synthwave-vscode";
-    version = "0.1.10";
+    version = "0.1.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.10/file/RobbOwen.synthwave-vscode-0.1.10.vsix";
-      sha256 = "sha256-qwaytXvSD/B5jue1AZBPSZyLYVRPbPWDIQxlhlgy7hU=";
+      url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.11/file/RobbOwen.synthwave-vscode-0.1.11.vsix";
+      sha256 = "sha256-hcPkTww7mwM+KL+rBjqfu7hD/DwX1/mTXp5srkY0pfk=";
     };
     name = "synthwave-vscode";
     license = "MIT";
@@ -2895,10 +2895,10 @@
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
-    version = "2022.2.611";
+    version = "2022.2.718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.611/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.611.vsix";
-      sha256 = "sha256-yiyhVJ7REN2pu4rwEBW5XUpFizB/1XG3J96JRbwSGdY=";
+      url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.718/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.718.vsix";
+      sha256 = "sha256-rpXgkolVUtimsnDEoIC+PPQkZXsW8+c+r+I/ndk5pbw=";
     };
     name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
@@ -5019,10 +5019,10 @@
   };
   bierner-markdown-mermaid = {
     pname = "bierner-markdown-mermaid";
-    version = "1.13.1";
+    version = "1.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.13.1/file/bierner.markdown-mermaid-1.13.1.vsix";
-      sha256 = "sha256-CupppTlLjfSJHls8iRj0Ues7Nt4dby0qfJrIVI5QmwM=";
+      url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.13.2/file/bierner.markdown-mermaid-1.13.2.vsix";
+      sha256 = "sha256-1GVO4JHDBLi0RgKuNhiAfo5EIfQdGrKDLVYyA+IrTQk=";
     };
     name = "markdown-mermaid";
     license = "MIT";
@@ -8235,10 +8235,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.30";
+    version = "0.8.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.30/file/halcyontechltd.code-for-ibmi-0.8.30.vsix";
-      sha256 = "sha256-tXmxGPlM+hxs4mFbEQtP9G+8QvGxmWQxgn0+kWeqlKg=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.31/file/halcyontechltd.code-for-ibmi-0.8.31.vsix";
+      sha256 = "sha256-NFlPvsdH6wEK0sh7G8gZWT7CPNTjce5snM/RywNmCmY=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -11451,10 +11451,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.218";
+    version = "1.1.219";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.218/file/ms-pyright.pyright-1.1.218.vsix";
-      sha256 = "sha256-A+c0Q9oowPuO9ADHinDbXPVA5rIwmO6t4wlAxFHfyeg=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.219/file/ms-pyright.pyright-1.1.219.vsix";
+      sha256 = "sha256-nUox+XQ7IWZ8bnyYEgp0yfLjMO3j8cCXwZ97E3P9kGk=";
     };
     name = "pyright";
     license = "MIT";
@@ -17859,10 +17859,10 @@
   };
   vscodevim-vim = {
     pname = "vscodevim-vim";
-    version = "1.21.10";
+    version = "1.22.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscodevim/vim/1.21.10/file/vscodevim.vim-1.21.10.vsix";
-      sha256 = "sha256-cHhey0k++Jj+GymTgzSAd60xPJNBpyLlpUqMmsigQsI=";
+      url = "https://open-vsx.org/api/vscodevim/vim/1.22.1/file/vscodevim.vim-1.22.1.vsix";
+      sha256 = "sha256-XEJz49rhsy2oCWALBv/ox4Mn+VEAwC86Az2Md3gRMAw=";
     };
     name = "vim";
     license = "MIT";

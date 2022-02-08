@@ -623,7 +623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SixtyFPS-sixtyfps-vscode-nightly",
-    "version": "2022.2.611",
+    "version": "2022.2.718",
     "passthru": {
       "name": "sixtyfps-vscode-nightly",
       "license": "GPL-3.0",
@@ -631,10 +631,10 @@
       "description": "SixtyFPS Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.611/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.611.vsix",
+      "url": "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.718/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.718.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yiyhVJ7REN2pu4rwEBW5XUpFizB/1XG3J96JRbwSGdY="
+      "sha256": "sha256-rpXgkolVUtimsnDEoIC+PPQkZXsW8+c+r+I/ndk5pbw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -903,7 +903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ikuyadeu-r",
-    "version": "2.3.6",
+    "version": "2.3.8",
     "passthru": {
       "name": "r",
       "license": "MIT",
@@ -911,10 +911,10 @@
       "description": "R Extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ikuyadeu/r/2.3.6/file/Ikuyadeu.r-2.3.6.vsix",
+      "url": "https://open-vsx.org/api/Ikuyadeu/r/2.3.8/file/Ikuyadeu.r-2.3.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o8iEpUp+zPHX+oMakukO38xv7mqg08juweU7tMSKfT8="
+      "sha256": "sha256-Qz/WeH49f7Vh74xIa3PQDXPAozOhnot8ga2COZzAqOw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11283,7 +11283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RobbOwen-synthwave-vscode",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "passthru": {
       "name": "synthwave-vscode",
       "license": "MIT",
@@ -11291,10 +11291,10 @@
       "description": "A Synthwave-inspired colour theme to satisfy your neon dreams"
     },
     "src": {
-      "url": "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.10/file/RobbOwen.synthwave-vscode-0.1.10.vsix",
+      "url": "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.11/file/RobbOwen.synthwave-vscode-0.1.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qwaytXvSD/B5jue1AZBPSZyLYVRPbPWDIQxlhlgy7hU="
+      "sha256": "sha256-hcPkTww7mwM+KL+rBjqfu7hD/DwX1/mTXp5srkY0pfk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14123,7 +14123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bierner-markdown-mermaid",
-    "version": "1.13.1",
+    "version": "1.13.2",
     "passthru": {
       "name": "markdown-mermaid",
       "license": "MIT",
@@ -14131,10 +14131,10 @@
       "description": "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bierner/markdown-mermaid/1.13.1/file/bierner.markdown-mermaid-1.13.1.vsix",
+      "url": "https://open-vsx.org/api/bierner/markdown-mermaid/1.13.2/file/bierner.markdown-mermaid-1.13.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CupppTlLjfSJHls8iRj0Ues7Nt4dby0qfJrIVI5QmwM="
+      "sha256": "sha256-1GVO4JHDBLi0RgKuNhiAfo5EIfQdGrKDLVYyA+IrTQk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15403,7 +15403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "0.8.30",
+    "version": "0.8.31",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15411,10 +15411,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.30/file/halcyontechltd.code-for-ibmi-0.8.30.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.31/file/halcyontechltd.code-for-ibmi-0.8.31.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tXmxGPlM+hxs4mFbEQtP9G+8QvGxmWQxgn0+kWeqlKg="
+      "sha256": "sha256-NFlPvsdH6wEK0sh7G8gZWT7CPNTjce5snM/RywNmCmY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21443,7 +21443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscodevim-vim",
-    "version": "1.21.10",
+    "version": "1.22.1",
     "passthru": {
       "name": "vim",
       "license": "MIT",
@@ -21451,10 +21451,10 @@
       "description": "Vim emulation for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscodevim/vim/1.21.10/file/vscodevim.vim-1.21.10.vsix",
+      "url": "https://open-vsx.org/api/vscodevim/vim/1.22.1/file/vscodevim.vim-1.22.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cHhey0k++Jj+GymTgzSAd60xPJNBpyLlpUqMmsigQsI="
+      "sha256": "sha256-XEJz49rhsy2oCWALBv/ox4Mn+VEAwC86Az2Md3gRMAw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28003,7 +28003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.218",
+    "version": "1.1.219",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -28011,10 +28011,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.218/file/ms-pyright.pyright-1.1.218.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.219/file/ms-pyright.pyright-1.1.219.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-A+c0Q9oowPuO9ADHinDbXPVA5rIwmO6t4wlAxFHfyeg="
+      "sha256": "sha256-nUox+XQ7IWZ8bnyYEgp0yfLjMO3j8cCXwZ97E3P9kGk="
     },
     "extract": null,
     "rustGitDeps": null
