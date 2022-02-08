@@ -9183,7 +9183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adhamu-history-in-sublime-merge",
-    "version": "1.2.14",
+    "version": "1.2.15",
     "passthru": {
       "name": "history-in-sublime-merge",
       "license": "MIT",
@@ -9191,10 +9191,10 @@
       "description": "Open files in Sublime Merge"
     },
     "src": {
-      "url": "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.14/file/adhamu.history-in-sublime-merge-1.2.14.vsix",
+      "url": "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.15/file/adhamu.history-in-sublime-merge-1.2.15.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-v81XG/MNb1My/IvAxha923T7kyZklAaQJwpd4wYF618="
+      "sha256": "sha256-Jgq5fPdPyeUU4qJw8zlpWjsL1DmEJfKtcfplyEFyksY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28183,7 +28183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.604",
+    "version": "31.0.605",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28191,10 +28191,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.604/file/Prisma.prisma-insider-31.0.604.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.605/file/Prisma.prisma-insider-31.0.605.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/MjXmfswvgRxC1r327o/sSmd3l/uhQSbW+42b1j4PXc="
+      "sha256": "sha256-L07EfCoIYUvKqAB2SXbZyiFOa/w6OE/iK0X/F3JqokI="
     },
     "extract": null,
     "rustGitDeps": null

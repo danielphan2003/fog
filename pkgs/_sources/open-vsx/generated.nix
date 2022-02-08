@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.604";
+    version = "31.0.605";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.604/file/Prisma.prisma-insider-31.0.604.vsix";
-      sha256 = "sha256-/MjXmfswvgRxC1r327o/sSmd3l/uhQSbW+42b1j4PXc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.605/file/Prisma.prisma-insider-31.0.605.vsix";
+      sha256 = "sha256-L07EfCoIYUvKqAB2SXbZyiFOa/w6OE/iK0X/F3JqokI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3711,10 +3711,10 @@
   };
   adhamu-history-in-sublime-merge = {
     pname = "adhamu-history-in-sublime-merge";
-    version = "1.2.14";
+    version = "1.2.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.14/file/adhamu.history-in-sublime-merge-1.2.14.vsix";
-      sha256 = "sha256-v81XG/MNb1My/IvAxha923T7kyZklAaQJwpd4wYF618=";
+      url = "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.15/file/adhamu.history-in-sublime-merge-1.2.15.vsix";
+      sha256 = "sha256-Jgq5fPdPyeUU4qJw8zlpWjsL1DmEJfKtcfplyEFyksY=";
     };
     name = "history-in-sublime-merge";
     license = "MIT";
