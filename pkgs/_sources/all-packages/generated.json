@@ -1767,7 +1767,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "waydroid",
-    "version": "4488205505ae4895f60306b59831c843b18bf8c6",
+    "version": "9bee074239199570d70630281ff0053253675044",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1777,8 +1777,8 @@
       "name": null,
       "repo": "waydroid",
       "type": "github",
-      "sha256": "sha256-I9u77C8mp+MzflrreKJVaHU4GM9/8vAnbHJVX+NOMDw=",
-      "rev": "4488205505ae4895f60306b59831c843b18bf8c6"
+      "sha256": "sha256-r2kCMLHemosG0taMCqk7S+2wisWg06PA6Yz9Vgmzl8o=",
+      "rev": "9bee074239199570d70630281ff0053253675044"
     },
     "extract": null,
     "rustGitDeps": null
