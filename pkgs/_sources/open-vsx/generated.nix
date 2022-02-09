@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.613";
+    version = "31.0.617";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.613/file/Prisma.prisma-insider-31.0.613.vsix";
-      sha256 = "sha256-WvszQBDlOVGaTOWtZyJ2E9e5uSe5NJTggzrcMKXudqQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.617/file/Prisma.prisma-insider-31.0.617.vsix";
+      sha256 = "sha256-PVwd8tcvWtI2yvFMvIVt9dOXPUus9Jl/yO8BY79TFzc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -18795,10 +18795,10 @@
   };
   zokugun-explicit-folding = {
     pname = "zokugun-explicit-folding";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/explicit-folding/0.20.0/file/zokugun.explicit-folding-0.20.0.vsix";
-      sha256 = "sha256-04RB0sTtqv1cPVStAuqTOLs7IrqN5ccr0T20W6ZMaBc=";
+      url = "https://open-vsx.org/api/zokugun/explicit-folding/0.21.0/file/zokugun.explicit-folding-0.21.0.vsix";
+      sha256 = "sha256-7sdVTYqf/aQw1NQF4Ih/GQLo5B78Ci1hzSG5ZdxbPDE=";
     };
     name = "explicit-folding";
     license = "MIT";

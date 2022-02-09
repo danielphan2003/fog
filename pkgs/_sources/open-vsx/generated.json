@@ -23143,7 +23143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zokugun-explicit-folding",
-    "version": "0.20.0",
+    "version": "0.21.0",
     "passthru": {
       "name": "explicit-folding",
       "license": "MIT",
@@ -23151,10 +23151,10 @@
       "description": "Manually controls how and where to fold your code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zokugun/explicit-folding/0.20.0/file/zokugun.explicit-folding-0.20.0.vsix",
+      "url": "https://open-vsx.org/api/zokugun/explicit-folding/0.21.0/file/zokugun.explicit-folding-0.21.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-04RB0sTtqv1cPVStAuqTOLs7IrqN5ccr0T20W6ZMaBc="
+      "sha256": "sha256-7sdVTYqf/aQw1NQF4Ih/GQLo5B78Ci1hzSG5ZdxbPDE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28243,7 +28243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.613",
+    "version": "31.0.617",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28251,10 +28251,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.613/file/Prisma.prisma-insider-31.0.613.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.617/file/Prisma.prisma-insider-31.0.617.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WvszQBDlOVGaTOWtZyJ2E9e5uSe5NJTggzrcMKXudqQ="
+      "sha256": "sha256-PVwd8tcvWtI2yvFMvIVt9dOXPUus9Jl/yO8BY79TFzc="
     },
     "extract": null,
     "rustGitDeps": null
