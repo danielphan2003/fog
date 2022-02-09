@@ -2483,7 +2483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "huacat-pink-theme",
-    "version": "0.3.4",
+    "version": "0.4.0",
     "passthru": {
       "name": "pink-theme",
       "license": "MIT",
@@ -2491,10 +2491,10 @@
       "description": "A cool pink theme for VScode."
     },
     "src": {
-      "url": "https://open-vsx.org/api/huacat/pink-theme/0.3.4/file/huacat.pink-theme-0.3.4.vsix",
+      "url": "https://open-vsx.org/api/huacat/pink-theme/0.4.0/file/huacat.pink-theme-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VgbyaQShEbCBVaBDu4/w8mS0Tk0tYIcykmuN3+mvNpY="
+      "sha256": "sha256-j03A575NSgE4has6QhRftftwUZVR0/riFHPTAAwXjG4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22083,7 +22083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Natizyskunk-sftp",
-    "version": "1.15.10",
+    "version": "1.15.11",
     "passthru": {
       "name": "sftp",
       "license": "MIT",
@@ -22091,10 +22091,10 @@
       "description": "SFTP/FTP sync"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.10/file/Natizyskunk.sftp-1.15.10.vsix",
+      "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.11/file/Natizyskunk.sftp-1.15.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VhThpFp+N4WEF2h9eHUyCYB6uBcMksctAYwGmaDGtNc="
+      "sha256": "sha256-a+FZcOJtM3uv1Ige7n6DV4vCD8OC+qZUutUo0heAKpg="
     },
     "extract": null,
     "rustGitDeps": null

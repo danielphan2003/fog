@@ -2283,10 +2283,10 @@
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
-    version = "1.15.10";
+    version = "1.15.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.10/file/Natizyskunk.sftp-1.15.10.vsix";
-      sha256 = "sha256-VhThpFp+N4WEF2h9eHUyCYB6uBcMksctAYwGmaDGtNc=";
+      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.11/file/Natizyskunk.sftp-1.15.11.vsix";
+      sha256 = "sha256-a+FZcOJtM3uv1Ige7n6DV4vCD8OC+qZUutUo0heAKpg=";
     };
     name = "sftp";
     license = "MIT";
@@ -8559,10 +8559,10 @@
   };
   huacat-pink-theme = {
     pname = "huacat-pink-theme";
-    version = "0.3.4";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/huacat/pink-theme/0.3.4/file/huacat.pink-theme-0.3.4.vsix";
-      sha256 = "sha256-VgbyaQShEbCBVaBDu4/w8mS0Tk0tYIcykmuN3+mvNpY=";
+      url = "https://open-vsx.org/api/huacat/pink-theme/0.4.0/file/huacat.pink-theme-0.4.0.vsix";
+      sha256 = "sha256-j03A575NSgE4has6QhRftftwUZVR0/riFHPTAAwXjG4=";
     };
     name = "pink-theme";
     license = "MIT";
