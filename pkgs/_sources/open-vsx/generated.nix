@@ -13371,10 +13371,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "1.0.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/1.0.0/file/quick-lint.quick-lint-js-1.0.0.vsix";
-      sha256 = "sha256-VJr7skZ4NjEMxAe7v1Srl8lqp8f7HSPITGSnCDuXWJk=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.0.0/file/quick-lint.quick-lint-js-2.0.0.vsix";
+      sha256 = "sha256-0G6HIHILs1fYbCaxtNf/jrrm6FAUuU5tcprSiGhRpnw=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";

@@ -30803,7 +30803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quick-lint-quick-lint-js",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "passthru": {
       "name": "quick-lint-js",
       "license": "GPL-3.0",
@@ -30811,10 +30811,10 @@
       "description": "Find JavaScript bugs with quick-lint-js"
     },
     "src": {
-      "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/1.0.0/file/quick-lint.quick-lint-js-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.0.0/file/quick-lint.quick-lint-js-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VJr7skZ4NjEMxAe7v1Srl8lqp8f7HSPITGSnCDuXWJk="
+      "sha256": "sha256-0G6HIHILs1fYbCaxtNf/jrrm6FAUuU5tcprSiGhRpnw="
     },
     "extract": null,
     "rustGitDeps": null
