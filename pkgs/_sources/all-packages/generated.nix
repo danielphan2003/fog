@@ -105,13 +105,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "d61da93aad93904ba3deaf20ead1f5fcde1369cd";
+    version = "58e2618b9ddb436867f1701733a07ab286eb1b3f";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "d61da93aad93904ba3deaf20ead1f5fcde1369cd";
+      rev = "58e2618b9ddb436867f1701733a07ab286eb1b3f";
       fetchSubmodules = false;
-      sha256 = "sha256-ZsnmVoYpIuUoJdx0UnHUUiAXp/5InufrfkBpAaZIsZk=";
+      sha256 = "sha256-8HtKGySGmTniujUDsHg3EyKi/CpI30RuSZ4SKWYwb1Y=";
     });
   };
   avizo = {
@@ -519,29 +519,29 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "98.0.1108.42";
+    version = "99.0.1150.11";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_98.0.1108.42-1_amd64.deb";
-      sha256 = "sha256-dyMxPSIqcXy/StbDN3yREmpjLrbvqV6qiDM6zC5FI1A=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_99.0.1150.11-1_amd64.deb";
+      sha256 = "sha256-dDsOcsuIuqoNvsf8Vzp3RismjYdNflN0BA1rhlccvHE=";
     };
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "99.0.1150.7";
+    version = "100.0.1156.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_99.0.1150.7-1_amd64.deb";
-      sha256 = "sha256-ZumIHJtExXVZWXKd5l+k1c8z5AYl7/z9A1i0sDrXC6s=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_100.0.1156.1-1_amd64.deb";
+      sha256 = "sha256-+KLwASwBKFhmm7zIsXkFpdHt6EKLl5mFXShXS8FW6Sg=";
     };
   };
   minecraft-wayland = {
     pname = "minecraft-wayland";
-    version = "f1848246d177e17293198b58d1bca67acdfb9fb1";
+    version = "647d760db351370bc795521c0a3b07a14cf74eea";
     src = fetchFromGitHub ({
       owner = "Admicos";
       repo = "minecraft-wayland";
-      rev = "f1848246d177e17293198b58d1bca67acdfb9fb1";
+      rev = "647d760db351370bc795521c0a3b07a14cf74eea";
       fetchSubmodules = false;
-      sha256 = "sha256-v3+G5k2xgt4aGuJ35T52mQCyynVoRmEl4pcx7qsulmg=";
+      sha256 = "sha256-mCIavioX+R6DkER3Hsjrgz+WL7qhsKcLsk9oh8DUvZk=";
     });
   };
   netdata = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3c481d6b1892d0de7c19b500eb443cdfc995033e";
+    version = "24c9dbd1299fcfcd2ed4cf54a0c59ac3d1cc5cd2";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3c481d6b1892d0de7c19b500eb443cdfc995033e";
+      rev = "24c9dbd1299fcfcd2ed4cf54a0c59ac3d1cc5cd2";
       fetchSubmodules = false;
-      sha256 = "sha256-7c8NLmhNhlSiTZmNmNOIBKyFi3q9y6TsTakUa4ZMAn8=";
+      sha256 = "sha256-DcbdJ1hafPLA8z2+gP3CKCehWGBwH3zz3tBe6DqPE1E=";
     });
   };
   tailscale-systray = {
