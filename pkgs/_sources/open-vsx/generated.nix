@@ -6051,10 +6051,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.15.4";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.4/file/cyrusfirheir.twee3-language-tools-0.15.4.vsix";
-      sha256 = "sha256-dAIscttUex+pYp8yzoWqXcv82/4RKJmGGidBmQM1ZMY=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.0/file/cyrusfirheir.twee3-language-tools-0.16.0.vsix";
+      sha256 = "sha256-6NUUxfz6opD9BzNGM4Q1v3uVhmm4sgPElfbpxyz9PTM=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -6471,10 +6471,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.80.6";
+    version = "0.81.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.80.6/file/dendron.nightly-0.80.6.vsix";
-      sha256 = "sha256-NOs1zmsSVEubjBv79boOzyQcmWjAXcwXsBOUdv3bWwI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.81.1/file/dendron.nightly-0.81.1.vsix";
+      sha256 = "sha256-a0CBVhozE7YPMix5Ej/FD9LWz81UBCnXl9o7rWPZOt0=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7848,6 +7848,18 @@
     license = "MIT";
     publisher = "gengjiawen";
     description = "Go to npm site of your dependencies";
+  };
+  gengjiawen-vim = {
+    pname = "gengjiawen-vim";
+    version = "1.21.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/gengjiawen/vim/1.21.10/file/gengjiawen.vim-1.21.10.vsix";
+      sha256 = "sha256-4nnyJc7mpy/omx50DHf/9nqC/LOACf3oMC9HRS2bWO4=";
+    };
+    name = "vim";
+    license = "MIT";
+    publisher = "gengjiawen";
+    description = "Vim emulation for Visual Studio Code";
   };
   gengjiawen-vscode-npm-dependency = {
     pname = "gengjiawen-vscode-npm-dependency";

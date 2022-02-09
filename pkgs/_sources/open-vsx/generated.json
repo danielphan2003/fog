@@ -1163,7 +1163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.80.6",
+    "version": "0.81.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1171,10 +1171,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.80.6/file/dendron.nightly-0.80.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.81.1/file/dendron.nightly-0.81.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NOs1zmsSVEubjBv79boOzyQcmWjAXcwXsBOUdv3bWwI="
+      "sha256": "sha256-a0CBVhozE7YPMix5Ej/FD9LWz81UBCnXl9o7rWPZOt0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19259,6 +19259,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "gengjiawen-vim": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "gengjiawen-vim",
+    "version": "1.21.10",
+    "passthru": {
+      "name": "vim",
+      "license": "MIT",
+      "publisher": "gengjiawen",
+      "description": "Vim emulation for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/gengjiawen/vim/1.21.10/file/gengjiawen.vim-1.21.10.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-4nnyJc7mpy/omx50DHf/9nqC/LOACf3oMC9HRS2bWO4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "idleberg-innosetup": {
     "pinned": false,
     "cargoLock": null,
@@ -30423,7 +30443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.15.4",
+    "version": "0.16.0",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -30431,10 +30451,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.15.4/file/cyrusfirheir.twee3-language-tools-0.15.4.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.0/file/cyrusfirheir.twee3-language-tools-0.16.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dAIscttUex+pYp8yzoWqXcv82/4RKJmGGidBmQM1ZMY="
+      "sha256": "sha256-6NUUxfz6opD9BzNGM4Q1v3uVhmm4sgPElfbpxyz9PTM="
     },
     "extract": null,
     "rustGitDeps": null
