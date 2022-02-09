@@ -7503,7 +7503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sourcery-sourcery",
-    "version": "0.10.1",
+    "version": "0.10.2",
     "passthru": {
       "name": "sourcery",
       "license": "MIT",
@@ -7511,10 +7511,10 @@
       "description": "Refactor Python instantly with Sourcery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sourcery/sourcery/0.10.1/file/sourcery.sourcery-0.10.1.vsix",
+      "url": "https://open-vsx.org/api/sourcery/sourcery/0.10.2/file/sourcery.sourcery-0.10.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9KpE4Z+P3HrvGZCIV9BzZPFeBKAnjjwNc1s9QQN1mDQ="
+      "sha256": "sha256-UoBqkXaR1D+mqBuvsUXxJyNqQHmYH/vj246GYCYeTOU="
     },
     "extract": null,
     "rustGitDeps": null

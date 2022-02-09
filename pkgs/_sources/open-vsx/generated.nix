@@ -15099,10 +15099,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.10.1";
+    version = "0.10.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.1/file/sourcery.sourcery-0.10.1.vsix";
-      sha256 = "sha256-9KpE4Z+P3HrvGZCIV9BzZPFeBKAnjjwNc1s9QQN1mDQ=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.2/file/sourcery.sourcery-0.10.2.vsix";
+      sha256 = "sha256-UoBqkXaR1D+mqBuvsUXxJyNqQHmYH/vj246GYCYeTOU=";
     };
     name = "sourcery";
     license = "MIT";
