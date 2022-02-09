@@ -22583,7 +22583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "kubescape-kubescape",
-    "version": "0.0.10",
+    "version": "0.1.0",
     "passthru": {
       "name": "kubescape",
       "license": "Apache",
@@ -22591,10 +22591,10 @@
       "description": "Kubescape extension for vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/kubescape/kubescape/0.0.10/file/kubescape.kubescape-0.0.10.vsix",
+      "url": "https://open-vsx.org/api/kubescape/kubescape/0.1.0/file/kubescape.kubescape-0.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sQGE42eMmunCngl/L8ZalXEFXpyzqJK4r7pdSXsdmOI="
+      "sha256": "sha256-kluLb4z+H1XMml+yK/+PdangrG1G/CaXiq26SRZ3jSk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27435,6 +27435,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-pxwB4BtiMGjWizycNC5KTu4QbRYR7rdgbY28hOqZyO4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "nwolverson-language-purescript": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "nwolverson-language-purescript",
+    "version": "0.2.7",
+    "passthru": {
+      "name": "language-purescript",
+      "license": "MIT",
+      "publisher": "nwolverson",
+      "description": "Syntax Highlighting for the PureScript programming language"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/nwolverson/language-purescript/0.2.7/file/nwolverson.language-purescript-0.2.7.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-OtHv5BczbwQ2U0Rua9NrYIieb8ZtH6enT2Qkrdemeb4="
     },
     "extract": null,
     "rustGitDeps": null

@@ -10215,10 +10215,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.0.10";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.0.10/file/kubescape.kubescape-0.0.10.vsix";
-      sha256 = "sha256-sQGE42eMmunCngl/L8ZalXEFXpyzqJK4r7pdSXsdmOI=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.1.0/file/kubescape.kubescape-0.1.0.vsix";
+      sha256 = "sha256-kluLb4z+H1XMml+yK/+PdangrG1G/CaXiq26SRZ3jSk=";
     };
     name = "kubescape";
     license = "Apache";
@@ -12408,6 +12408,18 @@
     license = "MIT";
     publisher = "nullxception";
     description = "Fervent Tempo battlesuit inspired Theme for VSCode";
+  };
+  nwolverson-language-purescript = {
+    pname = "nwolverson-language-purescript";
+    version = "0.2.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/nwolverson/language-purescript/0.2.7/file/nwolverson.language-purescript-0.2.7.vsix";
+      sha256 = "sha256-OtHv5BczbwQ2U0Rua9NrYIieb8ZtH6enT2Qkrdemeb4=";
+    };
+    name = "language-purescript";
+    license = "MIT";
+    publisher = "nwolverson";
+    description = "Syntax Highlighting for the PureScript programming language";
   };
   o-dka-vsclassic-icon-theme = {
     pname = "o-dka-vsclassic-icon-theme";
