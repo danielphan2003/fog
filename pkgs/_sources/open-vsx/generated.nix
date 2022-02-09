@@ -5127,10 +5127,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.1.15";
+    version = "2022.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.1.15/file/borkdude.clj-kondo-2022.1.15.vsix";
-      sha256 = "sha256-W+UbkVe6tVubhfzzdLEUNTW3DbBhGshUu0ziLjTqqlk=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.2.9/file/borkdude.clj-kondo-2022.2.9.vsix";
+      sha256 = "sha256-qr+3Y5az1Nle3MVKQ5OkZoKCxRpUWMszGnY8V89DsgA=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -8283,10 +8283,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.5.9";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.9/file/halcyontechltd.vscode-rpgle-0.5.9.vsix";
-      sha256 = "sha256-bQwsDZomVP+tzE0s9zyTfLYOvkLP05jSe4VALzPGgfA=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.0/file/halcyontechltd.vscode-rpgle-0.6.0.vsix";
+      sha256 = "sha256-bQFchsbJRyFB60gcOHwuhi8JsEUmZ0Jj4buNEHzPlTc=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -9663,10 +9663,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.5.10";
+    version = "1.5.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.5.10/file/julialang.language-julia-1.5.10.vsix";
-      sha256 = "sha256-nfESbsDOUAEWvY60OJrcBYEXCwU8CrUZS2W5rzTpLR8=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.5.11/file/julialang.language-julia-1.5.11.vsix";
+      sha256 = "sha256-a8IUnq9dpfh/m14dnPEv3sm2YfTpEALSOI8J31icvdA=";
     };
     name = "language-julia";
     license = "MIT";
@@ -9975,10 +9975,10 @@
   };
   kleinesfilmroellchen-serenity-dsl-syntaxhighlight = {
     pname = "kleinesfilmroellchen-serenity-dsl-syntaxhighlight";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.0/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.0.vsix";
-      sha256 = "sha256-xmnDqckI41bODXxEenQLvN6vlzZyp9eWhzFqaZgI7z4=";
+      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.1.vsix";
+      sha256 = "sha256-mERPCCEKRlpKSLL7+33unlT1JAqvCYY5Xo9YtC1x25w=";
     };
     name = "serenity-dsl-syntaxhighlight";
     license = "MIT";
@@ -10623,10 +10623,10 @@
   };
   madeindjs-notable = {
     pname = "madeindjs-notable";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/madeindjs/notable/0.3.0/file/madeindjs.notable-0.3.0.vsix";
-      sha256 = "sha256-odr62h64C/huDTk/Oh5L7sSvWfF7eK4wFOKwei7ohss=";
+      url = "https://open-vsx.org/api/madeindjs/notable/0.3.1/file/madeindjs.notable-0.3.1.vsix";
+      sha256 = "sha256-n1iQP9NAjWDTbn9icyfjdk+EKtXabBvx9KebCoYvnco=";
     };
     name = "notable";
     license = "MIT";
@@ -12408,6 +12408,18 @@
     license = "MIT";
     publisher = "nullxception";
     description = "Fervent Tempo battlesuit inspired Theme for VSCode";
+  };
+  nwolverson-ide-purescript = {
+    pname = "nwolverson-ide-purescript";
+    version = "0.25.9";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.9/file/nwolverson.ide-purescript-0.25.9.vsix";
+      sha256 = "sha256-QcyWp5FzA2h/WGZAaG1fnZ1PQUNKJEilI8LFJ3Zd234=";
+    };
+    name = "ide-purescript";
+    license = "MIT";
+    publisher = "nwolverson";
+    description = "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server";
   };
   nwolverson-language-purescript = {
     pname = "nwolverson-language-purescript";
@@ -14787,10 +14799,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.12.2";
+    version = "0.12.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.2/file/shufo.vscode-blade-formatter-0.12.2.vsix";
-      sha256 = "sha256-8M1YhlcJba5cn6pFVBpJWex+f4I/remITBvKXi5gKYA=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.3/file/shufo.vscode-blade-formatter-0.12.3.vsix";
+      sha256 = "sha256-KIpVmBg05fvErNhfCwbCjWa6QvKNmhuOwrpYljiGW2I=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -18639,10 +18651,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.1.0";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.0/file/zardoy.npm-rapid-ready-0.1.0.vsix";
-      sha256 = "sha256-7JyXIRQDczBlXJTsGUHXkIBRddP7A9Dgq4ahgWca4Iw=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.2/file/zardoy.npm-rapid-ready-0.1.2.vsix";
+      sha256 = "sha256-2ocTwsGh4v8/fBy6pZgHXDWCRbFh6wgeHSMr0ATB9J4=";
     };
     name = "npm-rapid-ready";
     license = "MIT";

@@ -219,6 +219,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "nwolverson-ide-purescript": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "nwolverson-ide-purescript",
+    "version": "0.25.9",
+    "passthru": {
+      "name": "ide-purescript",
+      "license": "MIT",
+      "publisher": "nwolverson",
+      "description": "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.9/file/nwolverson.ide-purescript-0.25.9.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-QcyWp5FzA2h/WGZAaG1fnZ1PQUNKJEilI8LFJ3Zd234="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "scala-lang-scala": {
     "pinned": false,
     "cargoLock": null,
@@ -543,7 +563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.5.9",
+    "version": "0.6.0",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -551,10 +571,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.5.9/file/halcyontechltd.vscode-rpgle-0.5.9.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.0/file/halcyontechltd.vscode-rpgle-0.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bQwsDZomVP+tzE0s9zyTfLYOvkLP05jSe4VALzPGgfA="
+      "sha256": "sha256-bQFchsbJRyFB60gcOHwuhi8JsEUmZ0Jj4buNEHzPlTc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6883,7 +6903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "madeindjs-notable",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "passthru": {
       "name": "notable",
       "license": "MIT",
@@ -6891,10 +6911,10 @@
       "description": "Create, edit and search Markdown notes from Notable."
     },
     "src": {
-      "url": "https://open-vsx.org/api/madeindjs/notable/0.3.0/file/madeindjs.notable-0.3.0.vsix",
+      "url": "https://open-vsx.org/api/madeindjs/notable/0.3.1/file/madeindjs.notable-0.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-odr62h64C/huDTk/Oh5L7sSvWfF7eK4wFOKwei7ohss="
+      "sha256": "sha256-n1iQP9NAjWDTbn9icyfjdk+EKtXabBvx9KebCoYvnco="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13743,7 +13763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "kleinesfilmroellchen-serenity-dsl-syntaxhighlight",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "passthru": {
       "name": "serenity-dsl-syntaxhighlight",
       "license": "MIT",
@@ -13751,10 +13771,10 @@
       "description": "Syntax Highlighting for the DSLs in SerenityOS"
     },
     "src": {
-      "url": "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.0/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xmnDqckI41bODXxEenQLvN6vlzZyp9eWhzFqaZgI7z4="
+      "sha256": "sha256-mERPCCEKRlpKSLL7+33unlT1JAqvCYY5Xo9YtC1x25w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16243,7 +16263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.2",
+    "version": "0.12.3",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16251,10 +16271,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.2/file/shufo.vscode-blade-formatter-0.12.2.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.3/file/shufo.vscode-blade-formatter-0.12.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8M1YhlcJba5cn6pFVBpJWex+f4I/remITBvKXi5gKYA="
+      "sha256": "sha256-KIpVmBg05fvErNhfCwbCjWa6QvKNmhuOwrpYljiGW2I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24203,7 +24223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-npm-rapid-ready",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "passthru": {
       "name": "npm-rapid-ready",
       "license": "MIT",
@@ -24211,10 +24231,10 @@
       "description": "Full-featured extension for npm ecosystem"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.0/file/zardoy.npm-rapid-ready-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.2/file/zardoy.npm-rapid-ready-0.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7JyXIRQDczBlXJTsGUHXkIBRddP7A9Dgq4ahgWca4Iw="
+      "sha256": "sha256-2ocTwsGh4v8/fBy6pZgHXDWCRbFh6wgeHSMr0ATB9J4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24463,7 +24483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "borkdude-clj-kondo",
-    "version": "2022.1.15",
+    "version": "2022.2.9",
     "passthru": {
       "name": "clj-kondo",
       "license": "EPL-1",
@@ -24471,10 +24491,10 @@
       "description": "Clj-kondo, a linter for Clojure that sparks joy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.1.15/file/borkdude.clj-kondo-2022.1.15.vsix",
+      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.2.9/file/borkdude.clj-kondo-2022.2.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-W+UbkVe6tVubhfzzdLEUNTW3DbBhGshUu0ziLjTqqlk="
+      "sha256": "sha256-qr+3Y5az1Nle3MVKQ5OkZoKCxRpUWMszGnY8V89DsgA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28903,7 +28923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.5.10",
+    "version": "1.5.11",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -28911,10 +28931,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.5.10/file/julialang.language-julia-1.5.10.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.5.11/file/julialang.language-julia-1.5.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nfESbsDOUAEWvY60OJrcBYEXCwU8CrUZS2W5rzTpLR8="
+      "sha256": "sha256-a8IUnq9dpfh/m14dnPEv3sm2YfTpEALSOI8J31icvdA="
     },
     "extract": null,
     "rustGitDeps": null
