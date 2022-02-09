@@ -783,7 +783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitHub-github-vscode-theme",
-    "version": "5.2.1",
+    "version": "5.2.2",
     "passthru": {
       "name": "github-vscode-theme",
       "license": "MIT",
@@ -791,10 +791,10 @@
       "description": "GitHub theme for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.1/file/GitHub.github-vscode-theme-5.2.1.vsix",
+      "url": "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.2/file/GitHub.github-vscode-theme-5.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5DzhWFEwFDHRwIbJF3OxgtEZblj+YUBQ93mqTFC7CsU="
+      "sha256": "sha256-oTiOV4dHm+Ujozoq86lKeKTYRSNW4ncn7JofcPEr700="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1103,7 +1103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "formulahendry-auto-close-tag",
-    "version": "0.5.13",
+    "version": "0.5.14",
     "passthru": {
       "name": "auto-close-tag",
       "license": "MIT",
@@ -1111,10 +1111,10 @@
       "description": "Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text"
     },
     "src": {
-      "url": "https://open-vsx.org/api/formulahendry/auto-close-tag/0.5.13/file/formulahendry.auto-close-tag-0.5.13.vsix",
+      "url": "https://open-vsx.org/api/formulahendry/auto-close-tag/0.5.14/file/formulahendry.auto-close-tag-0.5.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jAQyPw8vCJRkNzf3CAwsMHLBZOt3vaOm8dH6onwglI4="
+      "sha256": "sha256-dCanNS1AGId7dJPaE1KMvb0waIE7L+EB4T9EQcC+MHE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1623,7 +1623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dsznajder-es7-react-js-snippets",
-    "version": "4.1.0",
+    "version": "4.3.1",
     "passthru": {
       "name": "es7-react-js-snippets",
       "license": "MIT",
@@ -1631,10 +1631,10 @@
       "description": "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.1.0/file/dsznajder.es7-react-js-snippets-4.1.0.vsix",
+      "url": "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.1/file/dsznajder.es7-react-js-snippets-4.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zFgXvukaP/q2nzObdY0fwN+/t8yMa8upWw8Wb/XhUGg="
+      "sha256": "sha256-b0yR+88R942KaQkCzTO+iJrM2R4czvWgkcy1733xlgk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11603,7 +11603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-python-python",
-    "version": "2022.0.1786462952",
+    "version": "2022.0.1814523869",
     "passthru": {
       "name": "python",
       "license": "MIT",
@@ -11611,10 +11611,10 @@
       "description": "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-python/python/2022.0.1786462952/file/ms-python.python-2022.0.1786462952.vsix",
+      "url": "https://open-vsx.org/api/ms-python/python/2022.0.1814523869/file/ms-python.python-2022.0.1814523869.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rV4WEJwCj3ldeNrs61NGwAMWZMeqHlpb+z9Ccz/4ufs="
+      "sha256": "sha256-JDaimcOUDo9GuFA3mhbbGLwqZE9ejk8pWYc+9PrRhVk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15423,7 +15423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "0.8.31",
+    "version": "0.8.32",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15431,10 +15431,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.31/file/halcyontechltd.code-for-ibmi-0.8.31.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.32/file/halcyontechltd.code-for-ibmi-0.8.32.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NFlPvsdH6wEK0sh7G8gZWT7CPNTjce5snM/RywNmCmY="
+      "sha256": "sha256-GnVBnQOZa350Zujh9jZhczu3J/vmRfRNjgVmqQaAhSU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17883,7 +17883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "formulahendry-code-runner",
-    "version": "0.11.6",
+    "version": "0.11.7",
     "passthru": {
       "name": "code-runner",
       "license": "MIT",
@@ -17891,10 +17891,10 @@
       "description": "Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring"
     },
     "src": {
-      "url": "https://open-vsx.org/api/formulahendry/code-runner/0.11.6/file/formulahendry.code-runner-0.11.6.vsix",
+      "url": "https://open-vsx.org/api/formulahendry/code-runner/0.11.7/file/formulahendry.code-runner-0.11.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EHOaOsxmmnPXcDzl/7H7zDMxSsEB+2cjoaUOaJYpZHI="
+      "sha256": "sha256-S8tBf4UycpcOG8Dv96iDaLcxHe5R+shQB2QJU+ZM2L8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24943,7 +24943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zhuangtongfa-material-theme",
-    "version": "3.13.18",
+    "version": "3.13.19",
     "passthru": {
       "name": "material-theme",
       "license": "MIT",
@@ -24951,10 +24951,10 @@
       "description": "Atomâs iconic One Dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.18/file/zhuangtongfa.material-theme-3.13.18.vsix",
+      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.19/file/zhuangtongfa.material-theme-3.13.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QKxz9yuabv8ePVZ3aLHnthw07cXkNvZJDwYNK3gmAbs="
+      "sha256": "sha256-HqX94bBknn7aC13Qp44XGvuC3moMkx8xBa5vRt56+xw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25703,7 +25703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug",
-    "version": "1.64.2",
+    "version": "1.64.3",
     "passthru": {
       "name": "js-debug",
       "license": "MIT",
@@ -25711,10 +25711,10 @@
       "description": "An extension for debugging Node.js programs and Chrome."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.64.2/file/ms-vscode.js-debug-1.64.2.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.64.3/file/ms-vscode.js-debug-1.64.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qsoCBq59JNmtQWmsINVKUfhV857oInENiQA+abbINrQ="
+      "sha256": "sha256-7hRiPDdqxIa08pR3SAREsVqzKY5eEtqxnkMphbEnyUA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28223,7 +28223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.608",
+    "version": "31.0.612",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28231,10 +28231,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.608/file/Prisma.prisma-insider-31.0.608.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.612/file/Prisma.prisma-insider-31.0.612.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k0jQLqVW/SVXaCbeziLeXEqh95Yj4zoAN5nv3cE08s0="
+      "sha256": "sha256-lu01A4c2GW363K3pdhK9TnQhSGilIAZt2EpIUS6j98k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30283,7 +30283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "onecentlin-laravel5-snippets",
-    "version": "1.13.0",
+    "version": "1.14.0",
     "passthru": {
       "name": "laravel5-snippets",
       "license": "MIT",
@@ -30291,10 +30291,10 @@
       "description": "Laravel snippets for Visual Studio Code  (Support Laravel 5 and above)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.13.0/file/onecentlin.laravel5-snippets-1.13.0.vsix",
+      "url": "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.14.0/file/onecentlin.laravel5-snippets-1.14.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ov2m26Ae4xz8ZYS3R6xcZa0L36g8KoBOCXWZuy7ocyU="
+      "sha256": "sha256-JmHnYB9716wcHcxbMP53CwCey8Jc71pWH6kRkBR5RFc="
     },
     "extract": null,
     "rustGitDeps": null

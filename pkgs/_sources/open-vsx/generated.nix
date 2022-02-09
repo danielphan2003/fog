@@ -1047,10 +1047,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "5.2.1";
+    version = "5.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.1/file/GitHub.github-vscode-theme-5.2.1.vsix";
-      sha256 = "sha256-5DzhWFEwFDHRwIbJF3OxgtEZblj+YUBQ93mqTFC7CsU=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.2/file/GitHub.github-vscode-theme-5.2.2.vsix";
+      sha256 = "sha256-oTiOV4dHm+Ujozoq86lKeKTYRSNW4ncn7JofcPEr700=";
     };
     name = "github-vscode-theme";
     license = "MIT";
@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.608";
+    version = "31.0.612";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.608/file/Prisma.prisma-insider-31.0.608.vsix";
-      sha256 = "sha256-k0jQLqVW/SVXaCbeziLeXEqh95Yj4zoAN5nv3cE08s0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.612/file/Prisma.prisma-insider-31.0.612.vsix";
+      sha256 = "sha256-lu01A4c2GW363K3pdhK9TnQhSGilIAZt2EpIUS6j98k=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6651,10 +6651,10 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "4.1.0";
+    version = "4.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.1.0/file/dsznajder.es7-react-js-snippets-4.1.0.vsix";
-      sha256 = "sha256-zFgXvukaP/q2nzObdY0fwN+/t8yMa8upWw8Wb/XhUGg=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.1/file/dsznajder.es7-react-js-snippets-4.3.1.vsix";
+      sha256 = "sha256-b0yR+88R942KaQkCzTO+iJrM2R4czvWgkcy1733xlgk=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
@@ -7539,10 +7539,10 @@
   };
   formulahendry-auto-close-tag = {
     pname = "formulahendry-auto-close-tag";
-    version = "0.5.13";
+    version = "0.5.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/formulahendry/auto-close-tag/0.5.13/file/formulahendry.auto-close-tag-0.5.13.vsix";
-      sha256 = "sha256-jAQyPw8vCJRkNzf3CAwsMHLBZOt3vaOm8dH6onwglI4=";
+      url = "https://open-vsx.org/api/formulahendry/auto-close-tag/0.5.14/file/formulahendry.auto-close-tag-0.5.14.vsix";
+      sha256 = "sha256-dCanNS1AGId7dJPaE1KMvb0waIE7L+EB4T9EQcC+MHE=";
     };
     name = "auto-close-tag";
     license = "MIT";
@@ -7563,10 +7563,10 @@
   };
   formulahendry-code-runner = {
     pname = "formulahendry-code-runner";
-    version = "0.11.6";
+    version = "0.11.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.6/file/formulahendry.code-runner-0.11.6.vsix";
-      sha256 = "sha256-EHOaOsxmmnPXcDzl/7H7zDMxSsEB+2cjoaUOaJYpZHI=";
+      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.7/file/formulahendry.code-runner-0.11.7.vsix";
+      sha256 = "sha256-S8tBf4UycpcOG8Dv96iDaLcxHe5R+shQB2QJU+ZM2L8=";
     };
     name = "code-runner";
     license = "MIT";
@@ -8235,10 +8235,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.31";
+    version = "0.8.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.31/file/halcyontechltd.code-for-ibmi-0.8.31.vsix";
-      sha256 = "sha256-NFlPvsdH6wEK0sh7G8gZWT7CPNTjce5snM/RywNmCmY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.32/file/halcyontechltd.code-for-ibmi-0.8.32.vsix";
+      sha256 = "sha256-GnVBnQOZa350Zujh9jZhczu3J/vmRfRNjgVmqQaAhSU=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -11499,10 +11499,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.0.1786462952";
+    version = "2022.0.1814523869";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.0.1786462952/file/ms-python.python-2022.0.1786462952.vsix";
-      sha256 = "sha256-rV4WEJwCj3ldeNrs61NGwAMWZMeqHlpb+z9Ccz/4ufs=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.0.1814523869/file/ms-python.python-2022.0.1814523869.vsix";
+      sha256 = "sha256-JDaimcOUDo9GuFA3mhbbGLwqZE9ejk8pWYc+9PrRhVk=";
     };
     name = "python";
     license = "MIT";
@@ -11607,10 +11607,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.64.2";
+    version = "1.64.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.64.2/file/ms-vscode.js-debug-1.64.2.vsix";
-      sha256 = "sha256-qsoCBq59JNmtQWmsINVKUfhV857oInENiQA+abbINrQ=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.64.3/file/ms-vscode.js-debug-1.64.3.vsix";
+      sha256 = "sha256-7hRiPDdqxIa08pR3SAREsVqzKY5eEtqxnkMphbEnyUA=";
     };
     name = "js-debug";
     license = "MIT";
@@ -12507,10 +12507,10 @@
   };
   onecentlin-laravel5-snippets = {
     pname = "onecentlin-laravel5-snippets";
-    version = "1.13.0";
+    version = "1.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.13.0/file/onecentlin.laravel5-snippets-1.13.0.vsix";
-      sha256 = "sha256-ov2m26Ae4xz8ZYS3R6xcZa0L36g8KoBOCXWZuy7ocyU=";
+      url = "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.14.0/file/onecentlin.laravel5-snippets-1.14.0.vsix";
+      sha256 = "sha256-JmHnYB9716wcHcxbMP53CwCey8Jc71pWH6kRkBR5RFc=";
     };
     name = "laravel5-snippets";
     license = "MIT";
@@ -18747,10 +18747,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.18";
+    version = "3.13.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.18/file/zhuangtongfa.material-theme-3.13.18.vsix";
-      sha256 = "sha256-QKxz9yuabv8ePVZ3aLHnthw07cXkNvZJDwYNK3gmAbs=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.19/file/zhuangtongfa.material-theme-3.13.19.vsix";
+      sha256 = "sha256-HqX94bBknn7aC13Qp44XGvuC3moMkx8xBa5vRt56+xw=";
     };
     name = "material-theme";
     license = "MIT";
