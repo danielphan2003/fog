@@ -13999,6 +13999,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "Slint-slint-nightly": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "Slint-slint-nightly",
+    "version": "2022.2.918",
+    "passthru": {
+      "name": "slint-nightly",
+      "license": "GPL-3.0",
+      "publisher": "Slint",
+      "description": "Slint Language extension (Nightly)"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.918/file/Slint.slint-nightly-2022.2.918.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-i/2VLrcs9kX6kk5dGXbuLVnW4ZNPqed96DfQlZzI1uI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "dcasella-monokai-plusplus": {
     "pinned": false,
     "cargoLock": null,

@@ -2905,6 +2905,18 @@
     publisher = "SixtyFPS";
     description = "SixtyFPS Language extension (Nightly)";
   };
+  Slint-slint-nightly = {
+    pname = "Slint-slint-nightly";
+    version = "2022.2.918";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.918/file/Slint.slint-nightly-2022.2.918.vsix";
+      sha256 = "sha256-i/2VLrcs9kX6kk5dGXbuLVnW4ZNPqed96DfQlZzI1uI=";
+    };
+    name = "slint-nightly";
+    license = "GPL-3.0";
+    publisher = "Slint";
+    description = "Slint Language extension (Nightly)";
+  };
   SlySherZ-comment-box = {
     pname = "SlySherZ-comment-box";
     version = "2.2.0";
