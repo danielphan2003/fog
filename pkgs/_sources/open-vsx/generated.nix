@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.617";
+    version = "31.0.620";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.617/file/Prisma.prisma-insider-31.0.617.vsix";
-      sha256 = "sha256-PVwd8tcvWtI2yvFMvIVt9dOXPUus9Jl/yO8BY79TFzc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.620/file/Prisma.prisma-insider-31.0.620.vsix";
+      sha256 = "sha256-ArNM2kyCYw/0kXeft6UzTYRVWLp8788WbfYCZ3Azudg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -18615,10 +18615,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.0.25";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.0.25/file/zardoy.npm-rapid-ready-0.0.25.vsix";
-      sha256 = "sha256-3Snv9N4D33HlZ1lgjFbFbo4zBmbA1cB/oPl644bzxes=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.0/file/zardoy.npm-rapid-ready-0.1.0.vsix";
+      sha256 = "sha256-7JyXIRQDczBlXJTsGUHXkIBRddP7A9Dgq4ahgWca4Iw=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
