@@ -243,13 +243,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "f38a5463b0cd407eeec16aa5eb7a6568bee4ff00";
+    version = "62092726ecbbd7c1698f8f615dc07d6c593f2545";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "f38a5463b0cd407eeec16aa5eb7a6568bee4ff00";
+      rev = "62092726ecbbd7c1698f8f615dc07d6c593f2545";
       fetchSubmodules = false;
-      sha256 = "sha256-KIwA0BHW/MBEB/C8lO8Efld+6rkvSr/y7nk62EHfez0=";
+      sha256 = "sha256-mLcip9UMnQUMvj4U4IzSXwiYXBEgqVPdHAanOG+jF80=";
     });
   };
   doggo = {
@@ -636,13 +636,13 @@
   };
   picom = {
     pname = "picom";
-    version = "01649b68b98b990383cbcb52e79d21b7774290f4";
+    version = "ea2ba58efdf44739562f7f32a275b530019ebef1";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "01649b68b98b990383cbcb52e79d21b7774290f4";
+      rev = "ea2ba58efdf44739562f7f32a275b530019ebef1";
       fetchSubmodules = false;
-      sha256 = "sha256-8p9EOrr9E6XPZGpInH+o8NOH+Cnj0hLVL42cKBtkh8s=";
+      sha256 = "sha256-cQCDem81l028x1d5Zq70EYoixDv4eoPY+SfH2MJv2co=";
     });
   };
   plymouth-themes = {
@@ -784,16 +784,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "08fdeb7d4bf91be17882204868c2652c27696a6c";
+    version = "3c29b8a58a8a3987ad37d973dec9137d59c9bc4e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "08fdeb7d4bf91be17882204868c2652c27696a6c";
+      rev = "3c29b8a58a8a3987ad37d973dec9137d59c9bc4e";
       fetchSubmodules = false;
-      sha256 = "sha256-SULql2Nx7HA1IgaF7a4DgCdB6AGvaI74CHQ2eIf29Rs=";
+      sha256 = "sha256-BFEslMGBqXwrCTCYu0C0yhixTDksbFng9ERsAITiwEw=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-08fdeb7d4bf91be17882204868c2652c27696a6c/Cargo.lock;
+      lockFile = ./rustdesk-3c29b8a58a8a3987ad37d973dec9137d59c9bc4e/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
