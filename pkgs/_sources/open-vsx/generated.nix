@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.620";
+    version = "31.0.621";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.620/file/Prisma.prisma-insider-31.0.620.vsix";
-      sha256 = "sha256-ArNM2kyCYw/0kXeft6UzTYRVWLp8788WbfYCZ3Azudg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.621/file/Prisma.prisma-insider-31.0.621.vsix";
+      sha256 = "sha256-+MT7iopWDf3nknW5yzWyZbBmI9SObhL+nBmJPQ4eKak=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2904,6 +2904,18 @@
     license = "GPL-3.0";
     publisher = "SixtyFPS";
     description = "SixtyFPS Language extension (Nightly)";
+  };
+  Slint-slint = {
+    pname = "Slint-slint";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Slint/slint/0.2.0/file/Slint.slint-0.2.0.vsix";
+      sha256 = "sha256-7e6+z8sgJ91ph0EjNQvrv9Z9x4mY5z/w+dwORnYDHFc=";
+    };
+    name = "slint";
+    license = "GPL-3.0";
+    publisher = "Slint";
+    description = "Slint Language extension";
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
@@ -6075,10 +6087,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.5.1";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.1/file/d-biehl.robotcode-0.5.1.vsix";
-      sha256 = "sha256-QYj6t0AXTZNS7wko022K8XAP4g3GcfNBIE+Ik+dabJI=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.3/file/d-biehl.robotcode-0.5.3.vsix";
+      sha256 = "sha256-WlF24fucte/Sk0X8Q9dUELKj6dKXcROqA/vHpJUBWBQ=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -6483,10 +6495,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.81.1";
+    version = "0.81.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.81.1/file/dendron.nightly-0.81.1.vsix";
-      sha256 = "sha256-a0CBVhozE7YPMix5Ej/FD9LWz81UBCnXl9o7rWPZOt0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.81.2/file/dendron.nightly-0.81.2.vsix";
+      sha256 = "sha256-gZ+KGsie2KZht5dnU8MgH11UtMvtv9mFbqK8s7m8UlU=";
     };
     name = "nightly";
     license = "AGPL-3.0";
