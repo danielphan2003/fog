@@ -375,10 +375,10 @@
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.1/file/Catppuccin.catppuccin-vsc-1.0.1.vsix";
-      sha256 = "sha256-CkcUR0hxOhB6Pqf6dCApFOcqh8Z/OnptAj1nl6XkbZQ=";
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.2/file/Catppuccin.catppuccin-vsc-1.0.2.vsix";
+      sha256 = "sha256-81rKFEWYoaFHI6N75GOogpVleuIstJtYhiwGDbuVB4I=";
     };
     name = "catppuccin-vsc";
     license = "MIT";
@@ -2571,10 +2571,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.9.1";
+    version = "3.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.9.1/file/Prisma.prisma-3.9.1.vsix";
-      sha256 = "sha256-4WrwMDyIDXpq1TvV2byGKeEcVwGSAVEXidwUgZoY9pk=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.9.2/file/Prisma.prisma-3.9.2.vsix";
+      sha256 = "sha256-XtUeQzvsfTer4fjbU6Is2UCuNxs/1YckMqjfvLY/+S8=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -13623,10 +13623,10 @@
   };
   redhat-apache-camel-extension-pack = {
     pname = "redhat-apache-camel-extension-pack";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.11/file/redhat.apache-camel-extension-pack-0.0.11.vsix";
-      sha256 = "sha256-RrnoytVmEMSLeRciroRDb+IDfIdVJ/nYRCpo+a1KFxg=";
+      url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.12/file/redhat.apache-camel-extension-pack-0.0.12.vsix";
+      sha256 = "sha256-JHoGxTD87rFGLV4mYKwYKTmoYTvcHV0WELlHqMit7Ek=";
     };
     name = "apache-camel-extension-pack";
     license = "Apache-2.0";

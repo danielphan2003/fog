@@ -7363,7 +7363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma",
-    "version": "3.9.1",
+    "version": "3.9.2",
     "passthru": {
       "name": "prisma",
       "license": "Apache-2.0",
@@ -7371,10 +7371,10 @@
       "description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma/3.9.1/file/Prisma.prisma-3.9.1.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma/3.9.2/file/Prisma.prisma-3.9.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4WrwMDyIDXpq1TvV2byGKeEcVwGSAVEXidwUgZoY9pk="
+      "sha256": "sha256-XtUeQzvsfTer4fjbU6Is2UCuNxs/1YckMqjfvLY/+S8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13143,7 +13143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-apache-camel-extension-pack",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "passthru": {
       "name": "apache-camel-extension-pack",
       "license": "Apache-2.0",
@@ -13151,10 +13151,10 @@
       "description": "VS Code extensions for Apache Camel and Red Hat Fuse developers."
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.11/file/redhat.apache-camel-extension-pack-0.0.11.vsix",
+      "url": "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.12/file/redhat.apache-camel-extension-pack-0.0.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RrnoytVmEMSLeRciroRDb+IDfIdVJ/nYRCpo+a1KFxg="
+      "sha256": "sha256-JHoGxTD87rFGLV4mYKwYKTmoYTvcHV0WELlHqMit7Ek="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28003,7 +28003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Catppuccin-catppuccin-vsc",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "passthru": {
       "name": "catppuccin-vsc",
       "license": "MIT",
@@ -28011,10 +28011,10 @@
       "description": "Warm mid-tone dark theme to show off your vibrant self!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.1/file/Catppuccin.catppuccin-vsc-1.0.1.vsix",
+      "url": "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.2/file/Catppuccin.catppuccin-vsc-1.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CkcUR0hxOhB6Pqf6dCApFOcqh8Z/OnptAj1nl6XkbZQ="
+      "sha256": "sha256-81rKFEWYoaFHI6N75GOogpVleuIstJtYhiwGDbuVB4I="
     },
     "extract": null,
     "rustGitDeps": null
