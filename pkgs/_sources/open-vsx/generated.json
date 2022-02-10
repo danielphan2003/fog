@@ -6243,7 +6243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.64",
+    "version": "0.0.65",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -6251,10 +6251,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.64/file/leanprover.lean4-0.0.64.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.65/file/leanprover.lean4-0.0.65.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-j3ljUXcLmjpKrm/aBSHJHD8Hx6IuhuJ8rcuje9Kogys="
+      "sha256": "sha256-GdK57PlCEwVUlXmS0hg26mhDlv+vpDLiGDW58rVojAM="
     },
     "extract": null,
     "rustGitDeps": null
