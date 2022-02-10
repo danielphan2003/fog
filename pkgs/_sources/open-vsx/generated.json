@@ -3943,7 +3943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barjo-anirak",
-    "version": "6.2.0",
+    "version": "6.2.1",
     "passthru": {
       "name": "anirak",
       "license": "Apache-2.0",
@@ -3951,10 +3951,10 @@
       "description": "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barjo/anirak/6.2.0/file/barjo.anirak-6.2.0.vsix",
+      "url": "https://open-vsx.org/api/barjo/anirak/6.2.1/file/barjo.anirak-6.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OjRiB0j09Pu0ZGuZyffBA12kUUFE7TMat44q3aIEXBM="
+      "sha256": "sha256-CRds2G1JyYYV7mjA0koUx5bQ1w+ck5Cz29Dpelxx5j0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12203,7 +12203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12211,10 +12211,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.8.1/file/mintlify.document-1.8.1.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.8.2/file/mintlify.document-1.8.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k8U1ZM/AjSQvcMjH/94ViPEewsRhyPCzBwIQuV9pf6Y="
+      "sha256": "sha256-pryjacWIAeTY7IC19zrQEE13TrI/ubhxaWyrpc+QKds="
     },
     "extract": null,
     "rustGitDeps": null

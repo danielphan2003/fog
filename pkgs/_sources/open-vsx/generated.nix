@@ -4863,10 +4863,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.2.0";
+    version = "6.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.2.0/file/barjo.anirak-6.2.0.vsix";
-      sha256 = "sha256-OjRiB0j09Pu0ZGuZyffBA12kUUFE7TMat44q3aIEXBM=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.2.1/file/barjo.anirak-6.2.1.vsix";
+      sha256 = "sha256-CRds2G1JyYYV7mjA0koUx5bQ1w+ck5Cz29Dpelxx5j0=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -11211,10 +11211,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.8.1";
+    version = "1.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.8.1/file/mintlify.document-1.8.1.vsix";
-      sha256 = "sha256-k8U1ZM/AjSQvcMjH/94ViPEewsRhyPCzBwIQuV9pf6Y=";
+      url = "https://open-vsx.org/api/mintlify/document/1.8.2/file/mintlify.document-1.8.2.vsix";
+      sha256 = "sha256-pryjacWIAeTY7IC19zrQEE13TrI/ubhxaWyrpc+QKds=";
     };
     name = "document";
     license = "Apache-2.0";
