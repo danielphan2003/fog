@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "963f37d78c385be9561976d30fdafbdbc6e44a21";
+    version = "5736680083d11e7ddb25c5e6bc9f4e12a995f448";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "963f37d78c385be9561976d30fdafbdbc6e44a21";
+      rev = "5736680083d11e7ddb25c5e6bc9f4e12a995f448";
       fetchSubmodules = false;
-      sha256 = "sha256-LxTHTYSCe7tzZE2z5j80OTcWr+ekINM5eTHCh6byEE4=";
+      sha256 = "sha256-lKbVeKuz85cNCBBcFvftVrOLxaWiwvIDqI/zoupzdK8=";
     });
   };
   caddy = {
@@ -235,10 +235,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.132";
+    version = "0.0.133";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.132/discord-canary-0.0.132.tar.gz";
-      sha256 = "sha256-20NZyd5AQY6GsSfAPML7GxRA+e1UldedvY09SnFqS8o=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.133/discord-canary-0.0.133.tar.gz";
+      sha256 = "sha256-CqwWLedPh4KCXEQAGM0lFlAyULRtKLVIAonvP9/kqHM=";
     };
   };
   dnscrypt-proxy2 = {
@@ -402,10 +402,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-854";
+    version = "1.0-855";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-854-1_all.deb";
-      sha256 = "sha256-2xxyUpJ4TDSP/C7p4aBHMiQiyAXwPVHNNlCow6fuLdw=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-855-1_all.deb";
+      sha256 = "sha256-tuAZroi6LuVYolM31XLcHCqDytCvz00WSV8pZLBfv0s=";
     };
   };
   jitsi-meet = {
