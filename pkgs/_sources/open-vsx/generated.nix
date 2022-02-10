@@ -8583,10 +8583,10 @@
   };
   huacat-office-theme = {
     pname = "huacat-office-theme";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/huacat/office-theme/1.1.2/file/huacat.office-theme-1.1.2.vsix";
-      sha256 = "sha256-G77zf3KAoPRYbtmgGNMOSjvdwYbeU9pMlu8t4x2ghYo=";
+      url = "https://open-vsx.org/api/huacat/office-theme/1.1.3/file/huacat.office-theme-1.1.3.vsix";
+      sha256 = "sha256-cAfeNHsWtGS5kFUMsdZp+79fW40duo+Po5lCsUOS2d8=";
     };
     name = "office-theme";
     license = "MIT";
@@ -10227,10 +10227,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.1.0/file/kubescape.kubescape-0.1.0.vsix";
-      sha256 = "sha256-kluLb4z+H1XMml+yK/+PdangrG1G/CaXiq26SRZ3jSk=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.1.1/file/kubescape.kubescape-0.1.1.vsix";
+      sha256 = "sha256-otYpiNFDbvzi8Vg2xb/6uIQUiGYzzik+jqfGm+txfPU=";
     };
     name = "kubescape";
     license = "Apache";
@@ -10383,10 +10383,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.63";
+    version = "0.0.64";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.63/file/leanprover.lean4-0.0.63.vsix";
-      sha256 = "sha256-yLqU8juJX8NezrqzfrQ1OPG8Xar4/4K6kBAXEF56PyI=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.64/file/leanprover.lean4-0.0.64.vsix";
+      sha256 = "sha256-j3ljUXcLmjpKrm/aBSHJHD8Hx6IuhuJ8rcuje9Kogys=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -13215,10 +13215,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.276";
+    version = "0.25.277";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.276/file/pokey.cursorless-0.25.276.vsix";
-      sha256 = "sha256-ErUGQ1/HBr6LQk/IPurFRcyI7MKBOdETJLvnAayeZ20=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.277/file/pokey.cursorless-0.25.277.vsix";
+      sha256 = "sha256-XN8zGr2Kc3MEIKoj94NtF/Am8TDf7w2vOvztdntdLnU=";
     };
     name = "cursorless";
     license = "MIT";
