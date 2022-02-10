@@ -12411,10 +12411,10 @@
   };
   nwolverson-ide-purescript = {
     pname = "nwolverson-ide-purescript";
-    version = "0.25.9";
+    version = "0.25.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.9/file/nwolverson.ide-purescript-0.25.9.vsix";
-      sha256 = "sha256-QcyWp5FzA2h/WGZAaG1fnZ1PQUNKJEilI8LFJ3Zd234=";
+      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.10/file/nwolverson.ide-purescript-0.25.10.vsix";
+      sha256 = "sha256-jGCnWEkBr2uQmDhF0jRdHQZJHjE/7b2mekqikw5pf5s=";
     };
     name = "ide-purescript";
     license = "MIT";
@@ -12423,10 +12423,10 @@
   };
   nwolverson-language-purescript = {
     pname = "nwolverson-language-purescript";
-    version = "0.2.7";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nwolverson/language-purescript/0.2.7/file/nwolverson.language-purescript-0.2.7.vsix";
-      sha256 = "sha256-OtHv5BczbwQ2U0Rua9NrYIieb8ZtH6enT2Qkrdemeb4=";
+      url = "https://open-vsx.org/api/nwolverson/language-purescript/0.2.8/file/nwolverson.language-purescript-0.2.8.vsix";
+      sha256 = "sha256-2uOwCHvnlQQM8s8n7dtvIaMgpW8ROeoUraM02rncH9o=";
     };
     name = "language-purescript";
     license = "MIT";
@@ -13419,10 +13419,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.0.0/file/quick-lint.quick-lint-js-2.0.0.vsix";
-      sha256 = "sha256-0G6HIHILs1fYbCaxtNf/jrrm6FAUuU5tcprSiGhRpnw=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.1.0/file/quick-lint.quick-lint-js-2.1.0.vsix";
+      sha256 = "sha256-53OM/GVVE1bLNtCAPzgFD5+D/gyyuPc/xunaC26K1tA=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";
