@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.621";
+    version = "31.0.622";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.621/file/Prisma.prisma-insider-31.0.621.vsix";
-      sha256 = "sha256-+MT7iopWDf3nknW5yzWyZbBmI9SObhL+nBmJPQ4eKak=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.622/file/Prisma.prisma-insider-31.0.622.vsix";
+      sha256 = "sha256-hNy++kt/kUsihoej+eNQE50TK7qtV4yFyjVJdHjNVuc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16692,6 +16692,18 @@
     license = "MIT";
     publisher = "vinliao";
     description = "Write arrow function in less than 1 second";
+  };
+  viper-admin-gobra-ide = {
+    pname = "viper-admin-gobra-ide";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/viper-admin/gobra-ide/1.0.0/file/viper-admin.gobra-ide-1.0.0.vsix";
+      sha256 = "sha256-GaFqDlu9v/yvQ4VB0TD/UQW3qRsESM8F7ZsSiFigNeI=";
+    };
+    name = "gobra-ide";
+    license = "MPL-2.0";
+    publisher = "viper-admin";
+    description = "This extension provides interactive IDE features for verifying programs in Gobra.";
   };
   viper-admin-prusti-assistant = {
     pname = "viper-admin-prusti-assistant";

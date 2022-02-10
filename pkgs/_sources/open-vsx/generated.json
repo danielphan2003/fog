@@ -26579,6 +26579,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "viper-admin-gobra-ide": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "viper-admin-gobra-ide",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "gobra-ide",
+      "license": "MPL-2.0",
+      "publisher": "viper-admin",
+      "description": "This extension provides interactive IDE features for verifying programs in Gobra."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/viper-admin/gobra-ide/1.0.0/file/viper-admin.gobra-ide-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-GaFqDlu9v/yvQ4VB0TD/UQW3qRsESM8F7ZsSiFigNeI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "vortizhe-simple-ruby-erb": {
     "pinned": false,
     "cargoLock": null,
@@ -28323,7 +28343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.621",
+    "version": "31.0.622",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28331,10 +28351,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.621/file/Prisma.prisma-insider-31.0.621.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.622/file/Prisma.prisma-insider-31.0.622.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+MT7iopWDf3nknW5yzWyZbBmI9SObhL+nBmJPQ4eKak="
+      "sha256": "sha256-hNy++kt/kUsihoej+eNQE50TK7qtV4yFyjVJdHjNVuc="
     },
     "extract": null,
     "rustGitDeps": null
