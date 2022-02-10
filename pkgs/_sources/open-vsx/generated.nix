@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.2.2";
+    version = "13.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.2.2/file/Angular.ng-template-13.2.2.vsix";
-      sha256 = "sha256-pU1Usd5gxXgoweP7ePGR6TPvNVE4GvJLUrcXzc/kEnk=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.2.3/file/Angular.ng-template-13.2.3.vsix";
+      sha256 = "sha256-9fG7dbnVlior+k9aNTpNaZZ3oupeUPQe9kuf9E1VQN4=";
     };
     name = "ng-template";
     license = "MIT";
@@ -2907,10 +2907,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.918";
+    version = "2022.2.920";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.918/file/Slint.slint-nightly-2022.2.918.vsix";
-      sha256 = "sha256-i/2VLrcs9kX6kk5dGXbuLVnW4ZNPqed96DfQlZzI1uI=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.920/file/Slint.slint-nightly-2022.2.920.vsix";
+      sha256 = "sha256-L0hs2Gw4Xan/2W8UIULPDR9CkVjVyMuQS16m0qlKNwg=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -6663,10 +6663,10 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "4.3.1";
+    version = "4.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.1/file/dsznajder.es7-react-js-snippets-4.3.1.vsix";
-      sha256 = "sha256-b0yR+88R942KaQkCzTO+iJrM2R4czvWgkcy1733xlgk=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.2/file/dsznajder.es7-react-js-snippets-4.3.2.vsix";
+      sha256 = "sha256-7hWS9iP3DiIsyZLx/1Jjr6xf/idYpXrZLWCUsQNSGr4=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
@@ -8067,10 +8067,10 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.31.0";
+    version = "0.31.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.31.0/file/golang.Go-0.31.0.vsix";
-      sha256 = "sha256-49xrZGIhYs/9gg28mNjX78ndtzsCEH/7HiFn++XtgvQ=";
+      url = "https://open-vsx.org/api/golang/Go/0.31.1/file/golang.Go-0.31.1.vsix";
+      sha256 = "sha256-4c8xcVeimWkVzBruOAkQ/ZhCZv44m0FBh4HOsQCjTPg=";
     };
     name = "Go";
     license = "MIT";
@@ -8259,10 +8259,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.32";
+    version = "0.8.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.32/file/halcyontechltd.code-for-ibmi-0.8.32.vsix";
-      sha256 = "sha256-GnVBnQOZa350Zujh9jZhczu3J/vmRfRNjgVmqQaAhSU=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.33/file/halcyontechltd.code-for-ibmi-0.8.33.vsix";
+      sha256 = "sha256-kzAyBR104iBmzncYXEk6tYwd5EMr7e2VhSj5ZkUTt88=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -11487,10 +11487,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.219";
+    version = "1.1.220";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.219/file/ms-pyright.pyright-1.1.219.vsix";
-      sha256 = "sha256-nUox+XQ7IWZ8bnyYEgp0yfLjMO3j8cCXwZ97E3P9kGk=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.220/file/ms-pyright.pyright-1.1.220.vsix";
+      sha256 = "sha256-+BMzmnZhKN4/iEVo0PG4SG1mnUq+BpxH4W/D8y9Gtn8=";
     };
     name = "pyright";
     license = "MIT";
@@ -11535,10 +11535,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.1.1001781940";
+    version = "2022.1.1001821691";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1001781940/file/ms-toolsai.jupyter-2022.1.1001781940.vsix";
-      sha256 = "sha256-JunBk12kqNXDKjoKXs2a/sCZFXm7Cyax083+FybGHWM=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1001821691/file/ms-toolsai.jupyter-2022.1.1001821691.vsix";
+      sha256 = "sha256-cClULIKMFflAA8Bad/YE4K9qyfKfSkLMOoxmjGFe6nI=";
     };
     name = "jupyter";
     license = "MIT";
@@ -11727,10 +11727,10 @@
   };
   ms-vscode-references-view = {
     pname = "ms-vscode-references-view";
-    version = "0.0.82";
+    version = "0.0.84";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.82/file/ms-vscode.references-view-0.0.82.vsix";
-      sha256 = "sha256-66e91rRcPqZTsPmhROyEm9mqHAFZCB/5DbvdNnCU/dA=";
+      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.84/file/ms-vscode.references-view-0.0.84.vsix";
+      sha256 = "sha256-kB+G47Lk76ERqASiBmWiIvtBQ2L4ncAlUeAV16JMTmI=";
     };
     name = "references-view";
     license = "MIT";
@@ -12543,10 +12543,10 @@
   };
   onecentlin-laravel-blade = {
     pname = "onecentlin-laravel-blade";
-    version = "1.29.0";
+    version = "1.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.29.0/file/onecentlin.laravel-blade-1.29.0.vsix";
-      sha256 = "sha256-eM5L0O3vCpXer9+KHaa6X29SKk+IVEhCSpwQLp3pRDE=";
+      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.30.0/file/onecentlin.laravel-blade-1.30.0.vsix";
+      sha256 = "sha256-/7313qaxWk+7CykbLHaZjN7Z2JfCQj2EaIsqWtkdBZc=";
     };
     name = "laravel-blade";
     license = "MIT";
@@ -13335,10 +13335,10 @@
   };
   pucelle-vscode-css-navigation = {
     pname = "pucelle-vscode-css-navigation";
-    version = "1.12.1";
+    version = "1.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.12.1/file/pucelle.vscode-css-navigation-1.12.1.vsix";
-      sha256 = "sha256-80DnEonGI3gki6WZBDpYrE/nQ6HKfNdv26ydEJmdfCc=";
+      url = "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.1/file/pucelle.vscode-css-navigation-1.13.1.vsix";
+      sha256 = "sha256-gDjTtENl8FK/AF7TMqTbcLmbIJ+p+y1lQUV2VrMlzzU=";
     };
     name = "vscode-css-navigation";
     license = "MIT";
@@ -15639,10 +15639,10 @@
   };
   stylelint-vscode-stylelint = {
     pname = "stylelint-vscode-stylelint";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stylelint/vscode-stylelint/1.2.1/file/stylelint.vscode-stylelint-1.2.1.vsix";
-      sha256 = "sha256-3LQnxz/xNIyhwR+HDibc0Uck2K1Ecsg6k4USbZM9Pvk=";
+      url = "https://open-vsx.org/api/stylelint/vscode-stylelint/1.2.2/file/stylelint.vscode-stylelint-1.2.2.vsix";
+      sha256 = "sha256-DADUxZ3tU01gDVCKDIt+xsPf6BGoZuFttq6B/uVKZyw=";
     };
     name = "vscode-stylelint";
     license = "MIT";

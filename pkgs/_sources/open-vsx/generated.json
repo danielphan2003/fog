@@ -1643,7 +1643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dsznajder-es7-react-js-snippets",
-    "version": "4.3.1",
+    "version": "4.3.2",
     "passthru": {
       "name": "es7-react-js-snippets",
       "license": "MIT",
@@ -1651,10 +1651,10 @@
       "description": "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.1/file/dsznajder.es7-react-js-snippets-4.3.1.vsix",
+      "url": "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.2/file/dsznajder.es7-react-js-snippets-4.3.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-b0yR+88R942KaQkCzTO+iJrM2R4czvWgkcy1733xlgk="
+      "sha256": "sha256-7hWS9iP3DiIsyZLx/1Jjr6xf/idYpXrZLWCUsQNSGr4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4463,7 +4463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pucelle-vscode-css-navigation",
-    "version": "1.12.1",
+    "version": "1.13.1",
     "passthru": {
       "name": "vscode-css-navigation",
       "license": "MIT",
@@ -4471,10 +4471,10 @@
       "description": "Allows Go to Definition from HTML to CSS / Sass / Less; provides Completion and Workspace Symbols for class & id name."
     },
     "src": {
-      "url": "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.12.1/file/pucelle.vscode-css-navigation-1.12.1.vsix",
+      "url": "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.1/file/pucelle.vscode-css-navigation-1.13.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-80DnEonGI3gki6WZBDpYrE/nQ6HKfNdv26ydEJmdfCc="
+      "sha256": "sha256-gDjTtENl8FK/AF7TMqTbcLmbIJ+p+y1lQUV2VrMlzzU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14023,7 +14023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.918",
+    "version": "2022.2.920",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14031,10 +14031,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.918/file/Slint.slint-nightly-2022.2.918.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.920/file/Slint.slint-nightly-2022.2.920.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-i/2VLrcs9kX6kk5dGXbuLVnW4ZNPqed96DfQlZzI1uI="
+      "sha256": "sha256-L0hs2Gw4Xan/2W8UIULPDR9CkVjVyMuQS16m0qlKNwg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15463,7 +15463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "0.8.32",
+    "version": "0.8.33",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15471,10 +15471,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.32/file/halcyontechltd.code-for-ibmi-0.8.32.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.33/file/halcyontechltd.code-for-ibmi-0.8.33.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GnVBnQOZa350Zujh9jZhczu3J/vmRfRNjgVmqQaAhSU="
+      "sha256": "sha256-kzAyBR104iBmzncYXEk6tYwd5EMr7e2VhSj5ZkUTt88="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16123,7 +16123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "onecentlin-laravel-blade",
-    "version": "1.29.0",
+    "version": "1.30.0",
     "passthru": {
       "name": "laravel-blade",
       "license": "MIT",
@@ -16131,10 +16131,10 @@
       "description": "Laravel blade snippets and syntax highlight support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/onecentlin/laravel-blade/1.29.0/file/onecentlin.laravel-blade-1.29.0.vsix",
+      "url": "https://open-vsx.org/api/onecentlin/laravel-blade/1.30.0/file/onecentlin.laravel-blade-1.30.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eM5L0O3vCpXer9+KHaa6X29SKk+IVEhCSpwQLp3pRDE="
+      "sha256": "sha256-/7313qaxWk+7CykbLHaZjN7Z2JfCQj2EaIsqWtkdBZc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24303,7 +24303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "stylelint-vscode-stylelint",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "passthru": {
       "name": "vscode-stylelint",
       "license": "MIT",
@@ -24311,10 +24311,10 @@
       "description": "Official Stylelint extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/stylelint/vscode-stylelint/1.2.1/file/stylelint.vscode-stylelint-1.2.1.vsix",
+      "url": "https://open-vsx.org/api/stylelint/vscode-stylelint/1.2.2/file/stylelint.vscode-stylelint-1.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3LQnxz/xNIyhwR+HDibc0Uck2K1Ecsg6k4USbZM9Pvk="
+      "sha256": "sha256-DADUxZ3tU01gDVCKDIt+xsPf6BGoZuFttq6B/uVKZyw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24903,7 +24903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-toolsai-jupyter",
-    "version": "2022.1.1001781940",
+    "version": "2022.1.1001821691",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -24911,10 +24911,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1001781940/file/ms-toolsai.jupyter-2022.1.1001781940.vsix",
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1001821691/file/ms-toolsai.jupyter-2022.1.1001821691.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JunBk12kqNXDKjoKXs2a/sCZFXm7Cyax083+FybGHWM="
+      "sha256": "sha256-cClULIKMFflAA8Bad/YE4K9qyfKfSkLMOoxmjGFe6nI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26883,7 +26883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Angular-ng-template",
-    "version": "13.2.2",
+    "version": "13.2.3",
     "passthru": {
       "name": "ng-template",
       "license": "MIT",
@@ -26891,10 +26891,10 @@
       "description": "Editor services for Angular templates"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Angular/ng-template/13.2.2/file/Angular.ng-template-13.2.2.vsix",
+      "url": "https://open-vsx.org/api/Angular/ng-template/13.2.3/file/Angular.ng-template-13.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pU1Usd5gxXgoweP7ePGR6TPvNVE4GvJLUrcXzc/kEnk="
+      "sha256": "sha256-9fG7dbnVlior+k9aNTpNaZZ3oupeUPQe9kuf9E1VQN4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28123,7 +28123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.219",
+    "version": "1.1.220",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -28131,10 +28131,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.219/file/ms-pyright.pyright-1.1.219.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.220/file/ms-pyright.pyright-1.1.220.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nUox+XQ7IWZ8bnyYEgp0yfLjMO3j8cCXwZ97E3P9kGk="
+      "sha256": "sha256-+BMzmnZhKN4/iEVo0PG4SG1mnUq+BpxH4W/D8y9Gtn8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28643,7 +28643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-references-view",
-    "version": "0.0.82",
+    "version": "0.0.84",
     "passthru": {
       "name": "references-view",
       "license": "MIT",
@@ -28651,10 +28651,10 @@
       "description": "Reference Search results as separate, stable view in the sidebar"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/references-view/0.0.82/file/ms-vscode.references-view-0.0.82.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/references-view/0.0.84/file/ms-vscode.references-view-0.0.84.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-66e91rRcPqZTsPmhROyEm9mqHAFZCB/5DbvdNnCU/dA="
+      "sha256": "sha256-kB+G47Lk76ERqASiBmWiIvtBQ2L4ncAlUeAV16JMTmI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29503,7 +29503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "golang-Go",
-    "version": "0.31.0",
+    "version": "0.31.1",
     "passthru": {
       "name": "Go",
       "license": "MIT",
@@ -29511,10 +29511,10 @@
       "description": "Rich Go language support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/golang/Go/0.31.0/file/golang.Go-0.31.0.vsix",
+      "url": "https://open-vsx.org/api/golang/Go/0.31.1/file/golang.Go-0.31.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-49xrZGIhYs/9gg28mNjX78ndtzsCEH/7HiFn++XtgvQ="
+      "sha256": "sha256-4c8xcVeimWkVzBruOAkQ/ZhCZv44m0FBh4HOsQCjTPg="
     },
     "extract": null,
     "rustGitDeps": null
