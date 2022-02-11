@@ -28963,7 +28963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sebastianbille-iam-legend",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "passthru": {
       "name": "iam-legend",
       "license": "MIT",
@@ -28971,10 +28971,10 @@
       "description": "IAM policy actions autocomplete, documentation & wildcard resolution"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.6/file/sebastianbille.iam-legend-1.0.6.vsix",
+      "url": "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.7/file/sebastianbille.iam-legend-1.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RlbulhUOJ06Xfe9Ml/NzVbZlSfAOlFEU/A1K9pgLASA="
+      "sha256": "sha256-j4vmHJXc5H8QCF1JVX3KekGNIoQE+/CsVD2QcpboYT0="
     },
     "extract": null,
     "rustGitDeps": null
