@@ -12495,10 +12495,10 @@
   };
   nwolverson-ide-purescript = {
     pname = "nwolverson-ide-purescript";
-    version = "0.25.10";
+    version = "0.25.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.10/file/nwolverson.ide-purescript-0.25.10.vsix";
-      sha256 = "sha256-jGCnWEkBr2uQmDhF0jRdHQZJHjE/7b2mekqikw5pf5s=";
+      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.11/file/nwolverson.ide-purescript-0.25.11.vsix";
+      sha256 = "sha256-9MgPAVfIdA7frR4EUDqVJB0N/LZY4NQSXtsKhEueNeg=";
     };
     name = "ide-purescript";
     license = "MIT";
@@ -13239,10 +13239,10 @@
   };
   ply-ct-vscode-ply = {
     pname = "ply-ct-vscode-ply";
-    version = "2.1.0";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ply-ct/vscode-ply/2.1.0/file/ply-ct.vscode-ply-2.1.0.vsix";
-      sha256 = "sha256-CWLKAyBlDIpJWCH+IWVH+M1hl0RdWiVd1yGtNQyROuo=";
+      url = "https://open-vsx.org/api/ply-ct/vscode-ply/2.1.2/file/ply-ct.vscode-ply-2.1.2.vsix";
+      sha256 = "sha256-e6ZAoGFfaB1feOPsiWuFT9Ju9cusRI7h9sAGpjVEqzU=";
     };
     name = "vscode-ply";
     license = "MIT";

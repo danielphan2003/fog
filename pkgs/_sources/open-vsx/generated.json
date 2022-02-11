@@ -223,7 +223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nwolverson-ide-purescript",
-    "version": "0.25.10",
+    "version": "0.25.11",
     "passthru": {
       "name": "ide-purescript",
       "license": "MIT",
@@ -231,10 +231,10 @@
       "description": "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.10/file/nwolverson.ide-purescript-0.25.10.vsix",
+      "url": "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.11/file/nwolverson.ide-purescript-0.25.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jGCnWEkBr2uQmDhF0jRdHQZJHjE/7b2mekqikw5pf5s="
+      "sha256": "sha256-9MgPAVfIdA7frR4EUDqVJB0N/LZY4NQSXtsKhEueNeg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5063,7 +5063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ply-ct-vscode-ply",
-    "version": "2.1.0",
+    "version": "2.1.2",
     "passthru": {
       "name": "vscode-ply",
       "license": "MIT",
@@ -5071,10 +5071,10 @@
       "description": "Automated Testing for REST and GraphQL APIs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ply-ct/vscode-ply/2.1.0/file/ply-ct.vscode-ply-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/ply-ct/vscode-ply/2.1.2/file/ply-ct.vscode-ply-2.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CWLKAyBlDIpJWCH+IWVH+M1hl0RdWiVd1yGtNQyROuo="
+      "sha256": "sha256-e6ZAoGFfaB1feOPsiWuFT9Ju9cusRI7h9sAGpjVEqzU="
     },
     "extract": null,
     "rustGitDeps": null
