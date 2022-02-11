@@ -2751,10 +2751,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.27.2";
+    version = "2.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.2/file/RokuCommunity.brightscript-2.27.2.vsix";
-      sha256 = "sha256-xw9RjvcQrL274kL6cLfgAQykhlOYhOZf2zRuskUn/DA=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.0/file/RokuCommunity.brightscript-2.28.0.vsix";
+      sha256 = "sha256-xUt479vAvGqmmksfXXwYkLmjnZXJBlTJ/IPeEvdWGjk=";
     };
     name = "brightscript";
     license = "MIT";
@@ -6135,10 +6135,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.5.3";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.3/file/d-biehl.robotcode-0.5.3.vsix";
-      sha256 = "sha256-WlF24fucte/Sk0X8Q9dUELKj6dKXcROqA/vHpJUBWBQ=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.4/file/d-biehl.robotcode-0.5.4.vsix";
+      sha256 = "sha256-lLpFut7KS7e9YVyPVitST2BDK5axhwYMaIX0PG2d/E8=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -10539,10 +10539,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.17";
+    version = "3.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.17/file/lifeart.vscode-ember-unstable-3.0.17.vsix";
-      sha256 = "sha256-O3yHOmOtnjPewsFluXiV9gYJ+uu4bd3849Lcaij+9jA=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.18/file/lifeart.vscode-ember-unstable-3.0.18.vsix";
+      sha256 = "sha256-j4JLRo+Iq7Wg46ImClC+Lezs+7cRtjZLeIF3tdm8Zyk=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";

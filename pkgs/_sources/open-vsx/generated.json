@@ -3063,7 +3063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.5.3",
+    "version": "0.5.4",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3071,10 +3071,10 @@
       "description": "Robot Framework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.5.3/file/d-biehl.robotcode-0.5.3.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.5.4/file/d-biehl.robotcode-0.5.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WlF24fucte/Sk0X8Q9dUELKj6dKXcROqA/vHpJUBWBQ="
+      "sha256": "sha256-lLpFut7KS7e9YVyPVitST2BDK5axhwYMaIX0PG2d/E8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8803,7 +8803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.27.2",
+    "version": "2.28.0",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -8811,10 +8811,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.27.2/file/RokuCommunity.brightscript-2.27.2.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.0/file/RokuCommunity.brightscript-2.28.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xw9RjvcQrL274kL6cLfgAQykhlOYhOZf2zRuskUn/DA="
+      "sha256": "sha256-xUt479vAvGqmmksfXXwYkLmjnZXJBlTJ/IPeEvdWGjk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19023,7 +19023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.17",
+    "version": "3.0.18",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -19031,10 +19031,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.17/file/lifeart.vscode-ember-unstable-3.0.17.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.18/file/lifeart.vscode-ember-unstable-3.0.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-O3yHOmOtnjPewsFluXiV9gYJ+uu4bd3849Lcaij+9jA="
+      "sha256": "sha256-j4JLRo+Iq7Wg46ImClC+Lezs+7cRtjZLeIF3tdm8Zyk="
     },
     "extract": null,
     "rustGitDeps": null
