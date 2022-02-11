@@ -5503,7 +5503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.3.19",
+    "version": "0.4.0",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5511,10 +5511,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.3.19/file/gitduck.code-streaming-0.3.19.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.0/file/gitduck.code-streaming-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RcmyFyyreeWGbhwXyDI5emcavBIaq+QSUKS5sTHp9Ks="
+      "sha256": "sha256-ULUy/qJRuwA1mfU+O3oRTVdGhsGfPXcVdTTNbdFpsXg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11403,18 +11403,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ocamllabs-ocaml-platform",
-    "version": "1.8.4",
+    "version": "1.9.0",
     "passthru": {
       "name": "ocaml-platform",
       "license": "MIT",
       "publisher": "ocamllabs",
-      "description": "Official OCaml Support from OCamlLabs"
+      "description": "Official OCaml language extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.8.4/file/ocamllabs.ocaml-platform-1.8.4.vsix",
+      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.0/file/ocamllabs.ocaml-platform-1.9.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5LTBv9U2rW0D4vi70atUbekv6Lkw6eHedA/Makp+HOo="
+      "sha256": "sha256-7Bmk59gQzzbbQc+LefVcvDdo9v85a/x2Y1yvWOH5aUY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13743,7 +13743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "christian-kohler-npm-intellisense",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "passthru": {
       "name": "npm-intellisense",
       "license": "MIT",
@@ -13751,10 +13751,10 @@
       "description": "Visual Studio Code plugin that autocompletes npm modules in import statements"
     },
     "src": {
-      "url": "https://open-vsx.org/api/christian-kohler/npm-intellisense/1.4.0/file/christian-kohler.npm-intellisense-1.4.0.vsix",
+      "url": "https://open-vsx.org/api/christian-kohler/npm-intellisense/1.4.1/file/christian-kohler.npm-intellisense-1.4.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PUd8m+yWNQQqB47ZhUD6zWDqKzcL8xsCPFRKhFfD8/U="
+      "sha256": "sha256-qjDDeuN8zglyTGyquT8W9jgVNd6H/aaD3Jkvh94p8EI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18423,7 +18423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "christian-kohler-path-intellisense",
-    "version": "2.7.0",
+    "version": "2.8.0",
     "passthru": {
       "name": "path-intellisense",
       "license": "MIT",
@@ -18431,10 +18431,10 @@
       "description": "Visual Studio Code plugin that autocompletes filenames"
     },
     "src": {
-      "url": "https://open-vsx.org/api/christian-kohler/path-intellisense/2.7.0/file/christian-kohler.path-intellisense-2.7.0.vsix",
+      "url": "https://open-vsx.org/api/christian-kohler/path-intellisense/2.8.0/file/christian-kohler.path-intellisense-2.8.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Zt6YDbmNrbrtYjIiJPQZ7xYjafKbW0qgD9uQZUx8Qv8="
+      "sha256": "sha256-qFbkQ29Nm0sD1YHsEPgm/nnutss09eudWwE/2BeuuUA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29143,7 +29143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.240",
+    "version": "2.0.241",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -29151,10 +29151,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.240/file/betterthantomorrow.calva-2.0.240.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.241/file/betterthantomorrow.calva-2.0.241.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-saSUDKRIO/8c+R4yZHbU3dCHFVV0sxGu9WBEtriCWWw="
+      "sha256": "sha256-0Sgwpk7/Clk5YuMYRe171brrNiCSHPFABum0qWCeQ3M="
     },
     "extract": null,
     "rustGitDeps": null

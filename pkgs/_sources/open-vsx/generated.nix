@@ -4995,10 +4995,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.240";
+    version = "2.0.241";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.240/file/betterthantomorrow.calva-2.0.240.vsix";
-      sha256 = "sha256-saSUDKRIO/8c+R4yZHbU3dCHFVV0sxGu9WBEtriCWWw=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.241/file/betterthantomorrow.calva-2.0.241.vsix";
+      sha256 = "sha256-0Sgwpk7/Clk5YuMYRe171brrNiCSHPFABum0qWCeQ3M=";
     };
     name = "calva";
     license = "MIT";
@@ -5535,10 +5535,10 @@
   };
   christian-kohler-npm-intellisense = {
     pname = "christian-kohler-npm-intellisense";
-    version = "1.4.0";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/christian-kohler/npm-intellisense/1.4.0/file/christian-kohler.npm-intellisense-1.4.0.vsix";
-      sha256 = "sha256-PUd8m+yWNQQqB47ZhUD6zWDqKzcL8xsCPFRKhFfD8/U=";
+      url = "https://open-vsx.org/api/christian-kohler/npm-intellisense/1.4.1/file/christian-kohler.npm-intellisense-1.4.1.vsix";
+      sha256 = "sha256-qjDDeuN8zglyTGyquT8W9jgVNd6H/aaD3Jkvh94p8EI=";
     };
     name = "npm-intellisense";
     license = "MIT";
@@ -5547,10 +5547,10 @@
   };
   christian-kohler-path-intellisense = {
     pname = "christian-kohler-path-intellisense";
-    version = "2.7.0";
+    version = "2.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.7.0/file/christian-kohler.path-intellisense-2.7.0.vsix";
-      sha256 = "sha256-Zt6YDbmNrbrtYjIiJPQZ7xYjafKbW0qgD9uQZUx8Qv8=";
+      url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.8.0/file/christian-kohler.path-intellisense-2.8.0.vsix";
+      sha256 = "sha256-qFbkQ29Nm0sD1YHsEPgm/nnutss09eudWwE/2BeuuUA=";
     };
     name = "path-intellisense";
     license = "MIT";
@@ -8079,10 +8079,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.3.19";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.3.19/file/gitduck.code-streaming-0.3.19.vsix";
-      sha256 = "sha256-RcmyFyyreeWGbhwXyDI5emcavBIaq+QSUKS5sTHp9Ks=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.0/file/gitduck.code-streaming-0.4.0.vsix";
+      sha256 = "sha256-ULUy/qJRuwA1mfU+O3oRTVdGhsGfPXcVdTTNbdFpsXg=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -12543,15 +12543,15 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.8.4";
+    version = "1.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.8.4/file/ocamllabs.ocaml-platform-1.8.4.vsix";
-      sha256 = "sha256-5LTBv9U2rW0D4vi70atUbekv6Lkw6eHedA/Makp+HOo=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.0/file/ocamllabs.ocaml-platform-1.9.0.vsix";
+      sha256 = "sha256-7Bmk59gQzzbbQc+LefVcvDdo9v85a/x2Y1yvWOH5aUY=";
     };
     name = "ocaml-platform";
     license = "MIT";
     publisher = "ocamllabs";
-    description = "Official OCaml Support from OCamlLabs";
+    description = "Official OCaml language extension for VSCode";
   };
   octref-vetur = {
     pname = "octref-vetur";
