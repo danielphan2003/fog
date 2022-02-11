@@ -1071,10 +1071,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.36.0";
+    version = "0.36.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.0/file/GitHub.vscode-pull-request-github-0.36.0.vsix";
-      sha256 = "sha256-w+JcWiOSN5Vz14hQbFUO7QYEdm13E3NzAhMNwY87q1A=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.1/file/GitHub.vscode-pull-request-github-0.36.1.vsix";
+      sha256 = "sha256-Z/Gsqyjdq286sOtvcOtW+wH3/qeQ78JLcpauX3SuUBQ=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -2919,10 +2919,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.920";
+    version = "2022.2.1021";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.920/file/Slint.slint-nightly-2022.2.920.vsix";
-      sha256 = "sha256-L0hs2Gw4Xan/2W8UIULPDR9CkVjVyMuQS16m0qlKNwg=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1021/file/Slint.slint-nightly-2022.2.1021.vsix";
+      sha256 = "sha256-snTqAPYmwDhsv7J8Icim49aEGfDW+H3Ir2fNZ610Km8=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -2943,10 +2943,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.2.0";
+    version = "3.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.2.0/file/SonarSource.sonarlint-vscode-3.2.0.vsix";
-      sha256 = "sha256-VPvPaqTMc8g+hOcrZl82buwfAUVcZfQIA2E+QPJx+3o=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.3.0/file/SonarSource.sonarlint-vscode-3.3.0.vsix";
+      sha256 = "sha256-cAnPOcccODTIg/wTB2rzHi8z2I3uP6bTET5i1z0Ifb0=";
     };
     name = "sonarlint-vscode";
     license = "LGPL-3.0";
@@ -5388,6 +5388,54 @@
     license = "MIT";
     publisher = "captain-stack";
     description = "Find snippets codes from Stackoverflow";
+  };
+  carlocardella-hogwarts-colors-dark = {
+    pname = "carlocardella-hogwarts-colors-dark";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/carlocardella/hogwarts-colors-dark/1.0.0/file/carlocardella.hogwarts-colors-dark-1.0.0.vsix";
+      sha256 = "sha256-dyXRFc9WcDDGEcrskBmSKDqFTqSaFAHxdo7GPLBFNfc=";
+    };
+    name = "hogwarts-colors-dark";
+    license = "MIT";
+    publisher = "carlocardella";
+    description = "VSCode color themes based on the four Hogwarts houses";
+  };
+  carlocardella-vscode-changelogmanager = {
+    pname = "carlocardella-vscode-changelogmanager";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.0/file/carlocardella.vscode-changelogmanager-0.3.0.vsix";
+      sha256 = "sha256-sOm8h/ghqtKGiCLQ4baSRt36IXPqZv37K29tPWonZYY=";
+    };
+    name = "vscode-changelogmanager";
+    license = "MIT";
+    publisher = "carlocardella";
+    description = "Manage the changelog for your application";
+  };
+  carlocardella-vscode-filesystemtoolbox = {
+    pname = "carlocardella-vscode-filesystemtoolbox";
+    version = "1.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.1/file/carlocardella.vscode-filesystemtoolbox-1.2.1.vsix";
+      sha256 = "sha256-IzAvJBnKTiAH0PKXeaTKWm5lT+IDnfzbWtIKPmsoOXc=";
+    };
+    name = "vscode-filesystemtoolbox";
+    license = "MIT";
+    publisher = "carlocardella";
+    description = "Collection of tools to work with the File System";
+  };
+  carlocardella-vscode-texttoolbox = {
+    pname = "carlocardella-vscode-texttoolbox";
+    version = "2.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.1.0/file/carlocardella.vscode-texttoolbox-2.1.0.vsix";
+      sha256 = "sha256-2PyDoajFwCbvFzuZqL/YzyrDwllM+H+RseTjG6UlqTA=";
+    };
+    name = "vscode-texttoolbox";
+    license = "MIT";
+    publisher = "carlocardella";
+    description = "Collection of tools for text manipulation, filtering, sorting etc...";
   };
   castwide-solargraph = {
     pname = "castwide-solargraph";
@@ -8271,10 +8319,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.33";
+    version = "0.8.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.33/file/halcyontechltd.code-for-ibmi-0.8.33.vsix";
-      sha256 = "sha256-kzAyBR104iBmzncYXEk6tYwd5EMr7e2VhSj5ZkUTt88=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.37/file/halcyontechltd.code-for-ibmi-0.8.37.vsix";
+      sha256 = "sha256-g8RZeRymqB4dy9T4wue8SBGi1ShTL7vCnv+kEaLzy5o=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -12567,10 +12615,10 @@
   };
   onecentlin-laravel-blade = {
     pname = "onecentlin-laravel-blade";
-    version = "1.30.0";
+    version = "1.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.30.0/file/onecentlin.laravel-blade-1.30.0.vsix";
-      sha256 = "sha256-/7313qaxWk+7CykbLHaZjN7Z2JfCQj2EaIsqWtkdBZc=";
+      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.31.0/file/onecentlin.laravel-blade-1.31.0.vsix";
+      sha256 = "sha256-NAbDXpoBWN49orm6l9jXXkUrihZ/A5S2NSK6b4lQISI=";
     };
     name = "laravel-blade";
     license = "MIT";
@@ -13359,10 +13407,10 @@
   };
   pucelle-vscode-css-navigation = {
     pname = "pucelle-vscode-css-navigation";
-    version = "1.13.1";
+    version = "1.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.1/file/pucelle.vscode-css-navigation-1.13.1.vsix";
-      sha256 = "sha256-gDjTtENl8FK/AF7TMqTbcLmbIJ+p+y1lQUV2VrMlzzU=";
+      url = "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.2/file/pucelle.vscode-css-navigation-1.13.2.vsix";
+      sha256 = "sha256-sogzs/m2Z4eLFGjpeOXGW3qrU3r9gCPXutNmPnXP1i8=";
     };
     name = "vscode-css-navigation";
     license = "MIT";
@@ -17271,10 +17319,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.8.0";
+    version = "11.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.8.0/file/vscode-icons-team.vscode-icons-11.8.0.vsix";
-      sha256 = "sha256-DZYT6Sfu1W16GUckzUqgj3l/YzD3phx/utrxfHCepMQ=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.9.0/file/vscode-icons-team.vscode-icons-11.9.0.vsix";
+      sha256 = "sha256-PiQtyTZ3pOd2hufplLp33I1NUFfcmBFRx4pgs8LCfnI=";
     };
     name = "vscode-icons";
     license = "MIT";

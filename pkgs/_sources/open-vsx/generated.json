@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitHub-vscode-pull-request-github",
-    "version": "0.36.0",
+    "version": "0.36.1",
     "passthru": {
       "name": "vscode-pull-request-github",
       "license": "MIT",
@@ -1611,10 +1611,10 @@
       "description": "Pull Request and Issue Provider for GitHub"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.0/file/GitHub.vscode-pull-request-github-0.36.0.vsix",
+      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.1/file/GitHub.vscode-pull-request-github-0.36.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w+JcWiOSN5Vz14hQbFUO7QYEdm13E3NzAhMNwY87q1A="
+      "sha256": "sha256-Z/Gsqyjdq286sOtvcOtW+wH3/qeQ78JLcpauX3SuUBQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4083,7 +4083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SonarSource-sonarlint-vscode",
-    "version": "3.2.0",
+    "version": "3.3.0",
     "passthru": {
       "name": "sonarlint-vscode",
       "license": "LGPL-3.0",
@@ -4091,10 +4091,10 @@
       "description": "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in JavaScript, TypeScript, Python, Java, HTML and PHP."
     },
     "src": {
-      "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.2.0/file/SonarSource.sonarlint-vscode-3.2.0.vsix",
+      "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.3.0/file/SonarSource.sonarlint-vscode-3.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VPvPaqTMc8g+hOcrZl82buwfAUVcZfQIA2E+QPJx+3o="
+      "sha256": "sha256-cAnPOcccODTIg/wTB2rzHi8z2I3uP6bTET5i1z0Ifb0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4115,6 +4115,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-n8d8cJba0c87vhTx4yIyQkB3BRyo8VK61qnX4EoM2eg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "carlocardella-vscode-changelogmanager": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "carlocardella-vscode-changelogmanager",
+    "version": "0.3.0",
+    "passthru": {
+      "name": "vscode-changelogmanager",
+      "license": "MIT",
+      "publisher": "carlocardella",
+      "description": "Manage the changelog for your application"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.0/file/carlocardella.vscode-changelogmanager-0.3.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-sOm8h/ghqtKGiCLQ4baSRt36IXPqZv37K29tPWonZYY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4463,7 +4483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pucelle-vscode-css-navigation",
-    "version": "1.13.1",
+    "version": "1.13.2",
     "passthru": {
       "name": "vscode-css-navigation",
       "license": "MIT",
@@ -4471,10 +4491,10 @@
       "description": "Allows Go to Definition from HTML to CSS / Sass / Less; provides Completion and Workspace Symbols for class & id name."
     },
     "src": {
-      "url": "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.1/file/pucelle.vscode-css-navigation-1.13.1.vsix",
+      "url": "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.2/file/pucelle.vscode-css-navigation-1.13.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gDjTtENl8FK/AF7TMqTbcLmbIJ+p+y1lQUV2VrMlzzU="
+      "sha256": "sha256-sogzs/m2Z4eLFGjpeOXGW3qrU3r9gCPXutNmPnXP1i8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14023,7 +14043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.920",
+    "version": "2022.2.1021",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14031,10 +14051,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.920/file/Slint.slint-nightly-2022.2.920.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1021/file/Slint.slint-nightly-2022.2.1021.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-L0hs2Gw4Xan/2W8UIULPDR9CkVjVyMuQS16m0qlKNwg="
+      "sha256": "sha256-snTqAPYmwDhsv7J8Icim49aEGfDW+H3Ir2fNZ610Km8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15463,7 +15483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "0.8.33",
+    "version": "0.8.37",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15471,10 +15491,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.33/file/halcyontechltd.code-for-ibmi-0.8.33.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.37/file/halcyontechltd.code-for-ibmi-0.8.37.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kzAyBR104iBmzncYXEk6tYwd5EMr7e2VhSj5ZkUTt88="
+      "sha256": "sha256-g8RZeRymqB4dy9T4wue8SBGi1ShTL7vCnv+kEaLzy5o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16123,7 +16143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "onecentlin-laravel-blade",
-    "version": "1.30.0",
+    "version": "1.31.0",
     "passthru": {
       "name": "laravel-blade",
       "license": "MIT",
@@ -16131,10 +16151,10 @@
       "description": "Laravel blade snippets and syntax highlight support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/onecentlin/laravel-blade/1.30.0/file/onecentlin.laravel-blade-1.30.0.vsix",
+      "url": "https://open-vsx.org/api/onecentlin/laravel-blade/1.31.0/file/onecentlin.laravel-blade-1.31.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/7313qaxWk+7CykbLHaZjN7Z2JfCQj2EaIsqWtkdBZc="
+      "sha256": "sha256-NAbDXpoBWN49orm6l9jXXkUrihZ/A5S2NSK6b4lQISI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18415,6 +18435,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-JKf5ubK9Jiwz8y7BcQqwbwxX0bCvZiF6i39j6Wv1yxg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "carlocardella-hogwarts-colors-dark": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "carlocardella-hogwarts-colors-dark",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "hogwarts-colors-dark",
+      "license": "MIT",
+      "publisher": "carlocardella",
+      "description": "VSCode color themes based on the four Hogwarts houses"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/carlocardella/hogwarts-colors-dark/1.0.0/file/carlocardella.hogwarts-colors-dark-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-dyXRFc9WcDDGEcrskBmSKDqFTqSaFAHxdo7GPLBFNfc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21383,7 +21423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscode-icons-team-vscode-icons",
-    "version": "11.8.0",
+    "version": "11.9.0",
     "passthru": {
       "name": "vscode-icons",
       "license": "MIT",
@@ -21391,10 +21431,10 @@
       "description": "Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.8.0/file/vscode-icons-team.vscode-icons-11.8.0.vsix",
+      "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.9.0/file/vscode-icons-team.vscode-icons-11.9.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DZYT6Sfu1W16GUckzUqgj3l/YzD3phx/utrxfHCepMQ="
+      "sha256": "sha256-PiQtyTZ3pOd2hufplLp33I1NUFfcmBFRx4pgs8LCfnI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22295,6 +22335,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-7Jns2z/vX1Eq3dZbkik3jsiNQl2z6Gd1pL5NA6jwCZA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "carlocardella-vscode-filesystemtoolbox": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "carlocardella-vscode-filesystemtoolbox",
+    "version": "1.2.1",
+    "passthru": {
+      "name": "vscode-filesystemtoolbox",
+      "license": "MIT",
+      "publisher": "carlocardella",
+      "description": "Collection of tools to work with the File System"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.1/file/carlocardella.vscode-filesystemtoolbox-1.2.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-IzAvJBnKTiAH0PKXeaTKWm5lT+IDnfzbWtIKPmsoOXc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25575,6 +25635,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-zFwDQcIpfxtKy9C1Vtt/qd2FRD+FxI4b+B562jk+WIY="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "carlocardella-vscode-texttoolbox": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "carlocardella-vscode-texttoolbox",
+    "version": "2.1.0",
+    "passthru": {
+      "name": "vscode-texttoolbox",
+      "license": "MIT",
+      "publisher": "carlocardella",
+      "description": "Collection of tools for text manipulation, filtering, sorting etc..."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.1.0/file/carlocardella.vscode-texttoolbox-2.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-2PyDoajFwCbvFzuZqL/YzyrDwllM+H+RseTjG6UlqTA="
     },
     "extract": null,
     "rustGitDeps": null
