@@ -5183,7 +5183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Zowe-vscode-extension-for-zowe",
-    "version": "1.21.0",
+    "version": "1.22.0",
     "passthru": {
       "name": "vscode-extension-for-zowe",
       "license": "EPL-2.0",
@@ -5191,10 +5191,10 @@
       "description": "VS Code extension, powered by Zowe CLI, that streamlines interaction with mainframe data sets, USS files, and jobs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/1.21.0/file/Zowe.vscode-extension-for-zowe-1.21.0.vsix",
+      "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/1.22.0/file/Zowe.vscode-extension-for-zowe-1.22.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RNMKq+MwtlLgFb2yalRqtXbjJ1uEhJHX92E56NjB/Ic="
+      "sha256": "sha256-BgFnOIamJmWkfIUTBeNKrPAYQKeJ8FPZyB8BAfhqQY8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6123,7 +6123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "LeonardSSH-vscord",
-    "version": "4.4.4",
+    "version": "4.4.6",
     "passthru": {
       "name": "vscord",
       "license": "MIT",
@@ -6131,10 +6131,10 @@
       "description": "Fully customizable VS Code extension to get Discord Rich Presence integration"
     },
     "src": {
-      "url": "https://open-vsx.org/api/LeonardSSH/vscord/4.4.4/file/LeonardSSH.vscord-4.4.4.vsix",
+      "url": "https://open-vsx.org/api/LeonardSSH/vscord/4.4.6/file/LeonardSSH.vscord-4.4.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w1OsEVI11qz+1fq8bwi+h7clZnt63Zch83YYM2bIVt4="
+      "sha256": "sha256-AVyPo2/hSBkpeAG8UKHqL3hjn0nTRxm6LHiAAYRlO5E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9003,7 +9003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Zowe-zowe-explorer-ftp-extension",
-    "version": "1.21.0",
+    "version": "1.22.0",
     "passthru": {
       "name": "zowe-explorer-ftp-extension",
       "license": "EPL-2.0",
@@ -9011,10 +9011,10 @@
       "description": "Adds zFTP support to Zowe Explorer demonstrating how to extend the Zowe Explorer using its extensibility API."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/1.21.0/file/Zowe.zowe-explorer-ftp-extension-1.21.0.vsix",
+      "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/1.22.0/file/Zowe.zowe-explorer-ftp-extension-1.22.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cBgKYlAc+oUEtKIAkcqOpEB2h3pWz4EvYbq7B2Q2Rmk="
+      "sha256": "sha256-1K0JX2BFh7fRDQ3A30C995mgQSKG0iv49GvwYw1VDl8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19623,7 +19623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jacobjohnston-encounterplus-markdown",
-    "version": "1.0.60",
+    "version": "1.0.61",
     "passthru": {
       "name": "encounterplus-markdown",
       "license": "CC0-1.0",
@@ -19631,10 +19631,10 @@
       "description": "Renders markdown as it would appear in EncounterPlus"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.60/file/jacobjohnston.encounterplus-markdown-1.0.60.vsix",
+      "url": "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.61/file/jacobjohnston.encounterplus-markdown-1.0.61.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gI3ejVwECmC8gOOa+rH3YbBdmYqf0g6z3rGQxMWhb+U="
+      "sha256": "sha256-glb3KVeBpb6JR2LAT1cwoR0hdAU+5CYlCNLwEMnH/m0="
     },
     "extract": null,
     "rustGitDeps": null

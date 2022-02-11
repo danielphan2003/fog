@@ -1767,10 +1767,10 @@
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
-    version = "4.4.4";
+    version = "4.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.4/file/LeonardSSH.vscord-4.4.4.vsix";
-      sha256 = "sha256-w1OsEVI11qz+1fq8bwi+h7clZnt63Zch83YYM2bIVt4=";
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.6/file/LeonardSSH.vscord-4.4.6.vsix";
+      sha256 = "sha256-AVyPo2/hSBkpeAG8UKHqL3hjn0nTRxm6LHiAAYRlO5E=";
     };
     name = "vscord";
     license = "MIT";
@@ -3483,10 +3483,10 @@
   };
   Zowe-vscode-extension-for-zowe = {
     pname = "Zowe-vscode-extension-for-zowe";
-    version = "1.21.0";
+    version = "1.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/1.21.0/file/Zowe.vscode-extension-for-zowe-1.21.0.vsix";
-      sha256 = "sha256-RNMKq+MwtlLgFb2yalRqtXbjJ1uEhJHX92E56NjB/Ic=";
+      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/1.22.0/file/Zowe.vscode-extension-for-zowe-1.22.0.vsix";
+      sha256 = "sha256-BgFnOIamJmWkfIUTBeNKrPAYQKeJ8FPZyB8BAfhqQY8=";
     };
     name = "vscode-extension-for-zowe";
     license = "EPL-2.0";
@@ -3495,10 +3495,10 @@
   };
   Zowe-zowe-explorer-ftp-extension = {
     pname = "Zowe-zowe-explorer-ftp-extension";
-    version = "1.21.0";
+    version = "1.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/1.21.0/file/Zowe.zowe-explorer-ftp-extension-1.21.0.vsix";
-      sha256 = "sha256-cBgKYlAc+oUEtKIAkcqOpEB2h3pWz4EvYbq7B2Q2Rmk=";
+      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/1.22.0/file/Zowe.zowe-explorer-ftp-extension-1.22.0.vsix";
+      sha256 = "sha256-1K0JX2BFh7fRDQ3A30C995mgQSKG0iv49GvwYw1VDl8=";
     };
     name = "zowe-explorer-ftp-extension";
     license = "EPL-2.0";
@@ -9219,10 +9219,10 @@
   };
   jacobjohnston-encounterplus-markdown = {
     pname = "jacobjohnston-encounterplus-markdown";
-    version = "1.0.60";
+    version = "1.0.61";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.60/file/jacobjohnston.encounterplus-markdown-1.0.60.vsix";
-      sha256 = "sha256-gI3ejVwECmC8gOOa+rH3YbBdmYqf0g6z3rGQxMWhb+U=";
+      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.61/file/jacobjohnston.encounterplus-markdown-1.0.61.vsix";
+      sha256 = "sha256-glb3KVeBpb6JR2LAT1cwoR0hdAU+5CYlCNLwEMnH/m0=";
     };
     name = "encounterplus-markdown";
     license = "CC0-1.0";
