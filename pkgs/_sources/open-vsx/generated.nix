@@ -2283,10 +2283,10 @@
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
-    version = "1.15.11";
+    version = "1.15.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.11/file/Natizyskunk.sftp-1.15.11.vsix";
-      sha256 = "sha256-a+FZcOJtM3uv1Ige7n6DV4vCD8OC+qZUutUo0heAKpg=";
+      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.13/file/Natizyskunk.sftp-1.15.13.vsix";
+      sha256 = "sha256-Q0zfj3m1LDuW5/0KMxReuEcMXVydduONs9/QGK/8RZs=";
     };
     name = "sftp";
     license = "MIT";
@@ -2379,10 +2379,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.12.1";
+    version = "4.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.12.1/file/PKief.material-icon-theme-4.12.1.vsix";
-      sha256 = "sha256-pmWnnZrdk6zb8YFG5ESgK4k875hgeseWyzkA9YUjg7A=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.13.0/file/PKief.material-icon-theme-4.13.0.vsix";
+      sha256 = "sha256-VYLYdYbcTxU1buOb1CB1y2De/rC6rCUX7SBgMjYCvyw=";
     };
     name = "material-icon-theme";
     license = "MIT";
@@ -6075,10 +6075,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.16.0";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.0/file/cyrusfirheir.twee3-language-tools-0.16.0.vsix";
-      sha256 = "sha256-6NUUxfz6opD9BzNGM4Q1v3uVhmm4sgPElfbpxyz9PTM=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.1/file/cyrusfirheir.twee3-language-tools-0.16.1.vsix";
+      sha256 = "sha256-NznJtGSnjwWbDkou6KEYHrrbubP+10cLbY7fuD0YGMA=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -11220,6 +11220,18 @@
     license = "Apache-2.0";
     publisher = "mintlify";
     description = "The AI powered documentation writer";
+  };
+  misodee-vscode-nbt = {
+    pname = "misodee-vscode-nbt";
+    version = "0.6.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/misodee/vscode-nbt/0.6.6/file/misodee.vscode-nbt-0.6.6.vsix";
+      sha256 = "sha256-SfFI2QhlfMAV4W7kIF8sK76sD7sW/6IGyLmq19/ubXU=";
+    };
+    name = "vscode-nbt";
+    license = "MIT";
+    publisher = "misodee";
+    description = "View Minecraft NBT and 3D structures";
   };
   mitaki28-vscode-clang = {
     pname = "mitaki28-vscode-clang";

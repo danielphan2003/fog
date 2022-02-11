@@ -6763,7 +6763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PKief-material-icon-theme",
-    "version": "4.12.1",
+    "version": "4.13.0",
     "passthru": {
       "name": "material-icon-theme",
       "license": "MIT",
@@ -6771,10 +6771,10 @@
       "description": "Material Design Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.12.1/file/PKief.material-icon-theme-4.12.1.vsix",
+      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.13.0/file/PKief.material-icon-theme-4.13.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pmWnnZrdk6zb8YFG5ESgK4k875hgeseWyzkA9YUjg7A="
+      "sha256": "sha256-VYLYdYbcTxU1buOb1CB1y2De/rC6rCUX7SBgMjYCvyw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16419,6 +16419,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "misodee-vscode-nbt": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "misodee-vscode-nbt",
+    "version": "0.6.6",
+    "passthru": {
+      "name": "vscode-nbt",
+      "license": "MIT",
+      "publisher": "misodee",
+      "description": "View Minecraft NBT and 3D structures"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/misodee/vscode-nbt/0.6.6/file/misodee.vscode-nbt-0.6.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-SfFI2QhlfMAV4W7kIF8sK76sD7sW/6IGyLmq19/ubXU="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "itsjonq-owlet": {
     "pinned": false,
     "cargoLock": null,
@@ -22163,7 +22183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Natizyskunk-sftp",
-    "version": "1.15.11",
+    "version": "1.15.13",
     "passthru": {
       "name": "sftp",
       "license": "MIT",
@@ -22171,10 +22191,10 @@
       "description": "SFTP/FTP sync"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.11/file/Natizyskunk.sftp-1.15.11.vsix",
+      "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.13/file/Natizyskunk.sftp-1.15.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a+FZcOJtM3uv1Ige7n6DV4vCD8OC+qZUutUo0heAKpg="
+      "sha256": "sha256-Q0zfj3m1LDuW5/0KMxReuEcMXVydduONs9/QGK/8RZs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30543,7 +30563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.16.0",
+    "version": "0.16.1",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -30551,10 +30571,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.0/file/cyrusfirheir.twee3-language-tools-0.16.0.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.1/file/cyrusfirheir.twee3-language-tools-0.16.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6NUUxfz6opD9BzNGM4Q1v3uVhmm4sgPElfbpxyz9PTM="
+      "sha256": "sha256-NznJtGSnjwWbDkou6KEYHrrbubP+10cLbY7fuD0YGMA="
     },
     "extract": null,
     "rustGitDeps": null
