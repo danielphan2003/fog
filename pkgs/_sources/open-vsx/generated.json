@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.81.2",
+    "version": "0.81.3",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.81.2/file/dendron.nightly-0.81.2.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.81.3/file/dendron.nightly-0.81.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gZ+KGsie2KZht5dnU8MgH11UtMvtv9mFbqK8s7m8UlU="
+      "sha256": "sha256-Y50PCzCiodTy+MUSbSCa7HU7Z/DitqyV6Jm3dijW5as="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3743,7 +3743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.5.11",
+    "version": "0.5.12",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3751,10 +3751,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.5.11/file/yuyichao.digitaljs-0.5.11.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.5.12/file/yuyichao.digitaljs-0.5.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UEpYkhT2RLUBykCy/sqSNTCmL4aNetlckfku5LtJgXk="
+      "sha256": "sha256-Mq7iAXDz+2s1zH/NRUCXcVY47Qxb0/D2iSpr3JQ79rc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12003,7 +12003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.277",
+    "version": "0.25.278",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12011,10 +12011,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.277/file/pokey.cursorless-0.25.277.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.278/file/pokey.cursorless-0.25.278.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XN8zGr2Kc3MEIKoj94NtF/Am8TDf7w2vOvztdntdLnU="
+      "sha256": "sha256-/pd9WilXjnCOjcQa2BebNIfnRXbJ2qzuIYcw0ecPUpQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27003,7 +27003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-apache-camel",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "vscode-apache-camel",
       "license": "Apache-2.0",
@@ -27011,10 +27011,10 @@
       "description": "Provides completion and documentation features for Apache Camel URI elements in XML DSL."
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-apache-camel/0.1.4/file/redhat.vscode-apache-camel-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-apache-camel/0.1.5/file/redhat.vscode-apache-camel-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-B3Hl9c6JGgGWuL+8ZfpffgwpC+7ChasCkNU15lLcNR0="
+      "sha256": "sha256-jmi8f4c+y7WVO3WuPs1V0rEUHJS5NYdnBDx/3tjg1ds="
     },
     "extract": null,
     "rustGitDeps": null

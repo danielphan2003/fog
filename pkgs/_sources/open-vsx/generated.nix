@@ -6543,10 +6543,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.81.2";
+    version = "0.81.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.81.2/file/dendron.nightly-0.81.2.vsix";
-      sha256 = "sha256-gZ+KGsie2KZht5dnU8MgH11UtMvtv9mFbqK8s7m8UlU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.81.3/file/dendron.nightly-0.81.3.vsix";
+      sha256 = "sha256-Y50PCzCiodTy+MUSbSCa7HU7Z/DitqyV6Jm3dijW5as=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -13287,10 +13287,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.277";
+    version = "0.25.278";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.277/file/pokey.cursorless-0.25.277.vsix";
-      sha256 = "sha256-XN8zGr2Kc3MEIKoj94NtF/Am8TDf7w2vOvztdntdLnU=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.278/file/pokey.cursorless-0.25.278.vsix";
+      sha256 = "sha256-/pd9WilXjnCOjcQa2BebNIfnRXbJ2qzuIYcw0ecPUpQ=";
     };
     name = "cursorless";
     license = "MIT";
@@ -13779,10 +13779,10 @@
   };
   redhat-vscode-apache-camel = {
     pname = "redhat-vscode-apache-camel";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.1.4/file/redhat.vscode-apache-camel-0.1.4.vsix";
-      sha256 = "sha256-B3Hl9c6JGgGWuL+8ZfpffgwpC+7ChasCkNU15lLcNR0=";
+      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.1.5/file/redhat.vscode-apache-camel-0.1.5.vsix";
+      sha256 = "sha256-jmi8f4c+y7WVO3WuPs1V0rEUHJS5NYdnBDx/3tjg1ds=";
     };
     name = "vscode-apache-camel";
     license = "Apache-2.0";
@@ -18651,10 +18651,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.5.11";
+    version = "0.5.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.11/file/yuyichao.digitaljs-0.5.11.vsix";
-      sha256 = "sha256-UEpYkhT2RLUBykCy/sqSNTCmL4aNetlckfku5LtJgXk=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.12/file/yuyichao.digitaljs-0.5.12.vsix";
+      sha256 = "sha256-Mq7iAXDz+2s1zH/NRUCXcVY47Qxb0/D2iSpr3JQ79rc=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
