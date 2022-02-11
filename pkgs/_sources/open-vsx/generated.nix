@@ -2583,10 +2583,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.623";
+    version = "31.0.624";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.623/file/Prisma.prisma-insider-31.0.623.vsix";
-      sha256 = "sha256-3IbeaRGUGHLa5k22U+Jt1UEZ1C2JodGzzWen7IhLzec=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.624/file/Prisma.prisma-insider-31.0.624.vsix";
+      sha256 = "sha256-2BV435NV8cFst6fJFeN2TxTgMszbSsnVUEyi8GryqpM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6975,10 +6975,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1812185";
+    version = "6.1.1828796";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1812185/file/eliostruyf.vscode-front-matter-beta-6.1.1812185.vsix";
-      sha256 = "sha256-Z5+awfnIJ26fXpIkGg5ONrKcv/KeePlas/F1IKI3tV4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1828796/file/eliostruyf.vscode-front-matter-beta-6.1.1828796.vsix";
+      sha256 = "sha256-gUVeYECknouV4S8Y1KoehUfG2HFd0BEOpze4Zomgics=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11271,10 +11271,10 @@
   };
   misodee-vscode-nbt = {
     pname = "misodee-vscode-nbt";
-    version = "0.6.6";
+    version = "0.6.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/misodee/vscode-nbt/0.6.6/file/misodee.vscode-nbt-0.6.6.vsix";
-      sha256 = "sha256-SfFI2QhlfMAV4W7kIF8sK76sD7sW/6IGyLmq19/ubXU=";
+      url = "https://open-vsx.org/api/misodee/vscode-nbt/0.6.7/file/misodee.vscode-nbt-0.6.7.vsix";
+      sha256 = "sha256-CYB3UMfjjzE8pJg1qyAGG7v2jze0zJQGfn2KAgcyY5o=";
     };
     name = "vscode-nbt";
     license = "MIT";
@@ -15759,10 +15759,10 @@
   };
   superfaceai-superface-language-client-vscode = {
     pname = "superfaceai-superface-language-client-vscode";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/superfaceai/superface-language-client-vscode/1.0.0/file/superfaceai.superface-language-client-vscode-1.0.0.vsix";
-      sha256 = "sha256-CNVoO1ybYMYGDXjFp16fcyVE/bdpiJhTAp1HWx6c6Po=";
+      url = "https://open-vsx.org/api/superfaceai/superface-language-client-vscode/1.1.0/file/superfaceai.superface-language-client-vscode-1.1.0.vsix";
+      sha256 = "sha256-em1fITeW+FxGwGY9aumvYHXRZlAfcS8LnPpGaUTAU8A=";
     };
     name = "superface-language-client-vscode";
     license = "MIT";
@@ -18831,10 +18831,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.0.3";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.0.3/file/zenclabs.previewjs-1.0.3.vsix";
-      sha256 = "sha256-A16wKdOnUt0Rz+h74Vn59uEXYIi9L+hJKPQLwrfWJwI=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.1.0/file/zenclabs.previewjs-1.1.0.vsix";
+      sha256 = "sha256-wbu5InRmyMAaTOuAWR8cFn5Gwax3lcbCUMAWhSWdAgA=";
     };
     name = "previewjs";
     license = "AGPL-3.0";
