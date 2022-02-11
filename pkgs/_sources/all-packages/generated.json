@@ -1882,7 +1882,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sddm",
-    "version": "85cbf3f2cda66f8deadea5f1e2e627a466aba885",
+    "version": "4c97a3d81e8efa3bf1d9648514096b0908c824b8",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1892,8 +1892,8 @@
       "name": null,
       "repo": "sddm",
       "type": "github",
-      "sha256": "sha256-QNMm8bB4fxpDbqo0rp33s6xQW8ard51OzZSoloxlLr8=",
-      "rev": "85cbf3f2cda66f8deadea5f1e2e627a466aba885"
+      "sha256": "sha256-FreaVB/MooxGxA0tSPTvdAyYKK86bWZ7pfuCkZgd7hw=",
+      "rev": "4c97a3d81e8efa3bf1d9648514096b0908c824b8"
     },
     "extract": null,
     "rustGitDeps": null
