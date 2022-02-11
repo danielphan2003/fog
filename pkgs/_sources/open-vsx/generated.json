@@ -3743,7 +3743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.5.12",
+    "version": "0.6.0",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3751,10 +3751,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.5.12/file/yuyichao.digitaljs-0.5.12.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.0/file/yuyichao.digitaljs-0.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Mq7iAXDz+2s1zH/NRUCXcVY47Qxb0/D2iSpr3JQ79rc="
+      "sha256": "sha256-yfQXEtg69kR1ihk3HIH1TvyEShOKt10i6J38vw9BiSE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3943,7 +3943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barjo-anirak",
-    "version": "6.2.1",
+    "version": "6.2.2",
     "passthru": {
       "name": "anirak",
       "license": "Apache-2.0",
@@ -3951,10 +3951,10 @@
       "description": "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barjo/anirak/6.2.1/file/barjo.anirak-6.2.1.vsix",
+      "url": "https://open-vsx.org/api/barjo/anirak/6.2.2/file/barjo.anirak-6.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CRds2G1JyYYV7mjA0koUx5bQ1w+ck5Cz29Dpelxx5j0="
+      "sha256": "sha256-S5V4r91uib1GM80bghlR4e72xUm/mv8yOVdneglzBYY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6263,7 +6263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.65",
+    "version": "0.0.66",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -6271,10 +6271,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.65/file/leanprover.lean4-0.0.65.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.66/file/leanprover.lean4-0.0.66.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GdK57PlCEwVUlXmS0hg26mhDlv+vpDLiGDW58rVojAM="
+      "sha256": "sha256-hVYVF1YExsJuYe3Hoxk8L5eMR2zooJMVP3h3XqupGn4="
     },
     "extract": null,
     "rustGitDeps": null

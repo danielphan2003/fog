@@ -4863,10 +4863,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.2.1";
+    version = "6.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.2.1/file/barjo.anirak-6.2.1.vsix";
-      sha256 = "sha256-CRds2G1JyYYV7mjA0koUx5bQ1w+ck5Cz29Dpelxx5j0=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.2.2/file/barjo.anirak-6.2.2.vsix";
+      sha256 = "sha256-S5V4r91uib1GM80bghlR4e72xUm/mv8yOVdneglzBYY=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -10431,10 +10431,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.65";
+    version = "0.0.66";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.65/file/leanprover.lean4-0.0.65.vsix";
-      sha256 = "sha256-GdK57PlCEwVUlXmS0hg26mhDlv+vpDLiGDW58rVojAM=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.66/file/leanprover.lean4-0.0.66.vsix";
+      sha256 = "sha256-hVYVF1YExsJuYe3Hoxk8L5eMR2zooJMVP3h3XqupGn4=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -18651,10 +18651,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.5.12";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.5.12/file/yuyichao.digitaljs-0.5.12.vsix";
-      sha256 = "sha256-Mq7iAXDz+2s1zH/NRUCXcVY47Qxb0/D2iSpr3JQ79rc=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.0/file/yuyichao.digitaljs-0.6.0.vsix";
+      sha256 = "sha256-yfQXEtg69kR1ihk3HIH1TvyEShOKt10i6J38vw9BiSE=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
