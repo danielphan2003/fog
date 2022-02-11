@@ -12025,6 +12025,18 @@
     publisher = "mubaidr";
     description = "Popular VS Code extensions for Vue.js development providing Syntax highlighting, Code format, Code snippets, IntelliSense, Linting support, npm & node tools.";
   };
+  muchiros-attention-theme = {
+    pname = "muchiros-attention-theme";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/muchiros/attention-theme/0.0.4/file/muchiros.attention-theme-0.0.4.vsix";
+      sha256 = "sha256-tg3FMZC/M/YfRKmme8egoPvsVrURJIG0BH8pVt0Gjpc=";
+    };
+    name = "attention-theme";
+    license = "MIT";
+    publisher = "muchiros";
+    description = "Attention theme!";
+  };
   muhammad-sammy-csharp = {
     pname = "muhammad-sammy-csharp";
     version = "1.24.0";

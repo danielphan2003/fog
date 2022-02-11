@@ -10459,6 +10459,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "muchiros-attention-theme": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "muchiros-attention-theme",
+    "version": "0.0.4",
+    "passthru": {
+      "name": "attention-theme",
+      "license": "MIT",
+      "publisher": "muchiros",
+      "description": "Attention theme!"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/muchiros/attention-theme/0.0.4/file/muchiros.attention-theme-0.0.4.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-tg3FMZC/M/YfRKmme8egoPvsVrURJIG0BH8pVt0Gjpc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "arzg-noel": {
     "pinned": false,
     "cargoLock": null,
