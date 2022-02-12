@@ -383,13 +383,13 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "a09b2468ea345ae0be6ad191d016bc9b26f57a7c";
+    version = "9088d413cc4d5e77d68da540da9e9be8e7f1419a";
     src = fetchFromGitHub ({
       owner = "BambooEngine";
       repo = "ibus-bamboo";
-      rev = "a09b2468ea345ae0be6ad191d016bc9b26f57a7c";
+      rev = "9088d413cc4d5e77d68da540da9e9be8e7f1419a";
       fetchSubmodules = false;
-      sha256 = "sha256-ia2CgJSDfeAvy6EMnyJXbs7PB6tG+0SpOmXMrRUwfi8=";
+      sha256 = "sha256-RMLmq2rkOM2nXKBj6dDz8tvlHxa+MO4hNacDmGpkqkM=";
     });
   };
   jibri = {
