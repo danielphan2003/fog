@@ -5427,10 +5427,10 @@
   };
   carlocardella-vscode-texttoolbox = {
     pname = "carlocardella-vscode-texttoolbox";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.1.0/file/carlocardella.vscode-texttoolbox-2.1.0.vsix";
-      sha256 = "sha256-2PyDoajFwCbvFzuZqL/YzyrDwllM+H+RseTjG6UlqTA=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.2.0/file/carlocardella.vscode-texttoolbox-2.2.0.vsix";
+      sha256 = "sha256-Aa7j0lTeFzmGhdNIeYbmVLeeUsEL3RaPkqJA4Ca4ag8=";
     };
     name = "vscode-texttoolbox";
     license = "MIT";
@@ -7263,10 +7263,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.13";
+    version = "1.2.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.13/file/everscale.solidity-support-1.2.13.vsix";
-      sha256 = "sha256-iPcxhODZWyiSzx3C+fzPzP8BcdLQcFX16CN+EJM8ffE=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.16/file/everscale.solidity-support-1.2.16.vsix";
+      sha256 = "sha256-GqIDXyoqvJm3aJIvUo7gN5CzOh1wPpBFpdkb7OTgZq0=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -15819,10 +15819,10 @@
   };
   syler-sass-indented = {
     pname = "syler-sass-indented";
-    version = "1.8.18";
+    version = "1.8.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/syler/sass-indented/1.8.18/file/syler.sass-indented-1.8.18.vsix";
-      sha256 = "sha256-1lODC6gzlStPaMfA7EMDKQxKTZ28yg4LtY6VXwShqwA=";
+      url = "https://open-vsx.org/api/syler/sass-indented/1.8.19/file/syler.sass-indented-1.8.19.vsix";
+      sha256 = "sha256-Ki8dtFMTr8Y0tcAaootjoPUqZms1ausxrQAgIW0RiMI=";
     };
     name = "sass-indented";
     license = "MIT";
