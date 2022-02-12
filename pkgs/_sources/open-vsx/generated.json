@@ -23719,6 +23719,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "DamienHubleur-cppclassgenerator": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "DamienHubleur-cppclassgenerator",
+    "version": "1.1.0",
+    "passthru": {
+      "name": "cppclassgenerator",
+      "license": "MIT",
+      "publisher": "DamienHubleur",
+      "description": "Automatic generation of C++ classes in orthodox canonical form for 42's projects"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.0/file/DamienHubleur.cppclassgenerator-1.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-00Q+uYgARWaFnJ/IrrvPLFcOr7aY3YPz/RuSg8FSIAk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "puppet-puppet-vscode": {
     "pinned": false,
     "cargoLock": null,
@@ -30663,7 +30683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.16.2",
+    "version": "0.16.3",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -30671,10 +30691,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.2/file/cyrusfirheir.twee3-language-tools-0.16.2.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.3/file/cyrusfirheir.twee3-language-tools-0.16.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-d2kbBcz2S6FOMr9Ym6HoWM+DCSmR66Lke+4LCwkkZpo="
+      "sha256": "sha256-/DsDI9NgToDPI5TYpS/8QwO2ZrfP+z6sjIbPBKEZgCQ="
     },
     "extract": null,
     "rustGitDeps": null

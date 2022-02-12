@@ -649,6 +649,18 @@
     publisher = "DalySoftware";
     description = "Find and insert unicode characters in VS Code. Useful for symbols, emoji and other characters that you might not have on your keyboard.";
   };
+  DamienHubleur-cppclassgenerator = {
+    pname = "DamienHubleur-cppclassgenerator";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.0/file/DamienHubleur.cppclassgenerator-1.1.0.vsix";
+      sha256 = "sha256-00Q+uYgARWaFnJ/IrrvPLFcOr7aY3YPz/RuSg8FSIAk=";
+    };
+    name = "cppclassgenerator";
+    license = "MIT";
+    publisher = "DamienHubleur";
+    description = "Automatic generation of C++ classes in orthodox canonical form for 42's projects";
+  };
   Darkempire78-discord-tools = {
     pname = "Darkempire78-discord-tools";
     version = "1.4.2";
@@ -6123,10 +6135,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.16.2";
+    version = "0.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.2/file/cyrusfirheir.twee3-language-tools-0.16.2.vsix";
-      sha256 = "sha256-d2kbBcz2S6FOMr9Ym6HoWM+DCSmR66Lke+4LCwkkZpo=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.3/file/cyrusfirheir.twee3-language-tools-0.16.3.vsix";
+      sha256 = "sha256-/DsDI9NgToDPI5TYpS/8QwO2ZrfP+z6sjIbPBKEZgCQ=";
     };
     name = "twee3-language-tools";
     license = "MIT";
