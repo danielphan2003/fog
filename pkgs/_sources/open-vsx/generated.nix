@@ -6543,10 +6543,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.81.3";
+    version = "0.81.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.81.3/file/dendron.nightly-0.81.3.vsix";
-      sha256 = "sha256-Y50PCzCiodTy+MUSbSCa7HU7Z/DitqyV6Jm3dijW5as=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.81.4/file/dendron.nightly-0.81.4.vsix";
+      sha256 = "sha256-sWUExLijZzxnbODLyT/R9a+0QlwlSEXvfWz+v6qF224=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7263,10 +7263,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.16";
+    version = "1.2.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.16/file/everscale.solidity-support-1.2.16.vsix";
-      sha256 = "sha256-GqIDXyoqvJm3aJIvUo7gN5CzOh1wPpBFpdkb7OTgZq0=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.17/file/everscale.solidity-support-1.2.17.vsix";
+      sha256 = "sha256-ejyszIR00IN31rtoR6kOFtMakvXgNQx0Ua8e860KTCs=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
