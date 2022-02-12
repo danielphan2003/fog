@@ -1153,7 +1153,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus-bamboo",
-    "version": "a09b2468ea345ae0be6ad191d016bc9b26f57a7c",
+    "version": "9088d413cc4d5e77d68da540da9e9be8e7f1419a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1163,8 +1163,8 @@
       "name": null,
       "repo": "ibus-bamboo",
       "type": "github",
-      "sha256": "sha256-ia2CgJSDfeAvy6EMnyJXbs7PB6tG+0SpOmXMrRUwfi8=",
-      "rev": "a09b2468ea345ae0be6ad191d016bc9b26f57a7c"
+      "sha256": "sha256-RMLmq2rkOM2nXKBj6dDz8tvlHxa+MO4hNacDmGpkqkM=",
+      "rev": "9088d413cc4d5e77d68da540da9e9be8e7f1419a"
     },
     "extract": null,
     "rustGitDeps": null
