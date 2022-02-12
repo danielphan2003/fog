@@ -5443,7 +5443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "everscale-solidity-support",
-    "version": "1.2.17",
+    "version": "1.2.18",
     "passthru": {
       "name": "solidity-support",
       "license": "Apache-2.0",
@@ -5451,10 +5451,10 @@
       "description": "Everscale Solidity Language for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.17/file/everscale.solidity-support-1.2.17.vsix",
+      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.18/file/everscale.solidity-support-1.2.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ejyszIR00IN31rtoR6kOFtMakvXgNQx0Ua8e860KTCs="
+      "sha256": "sha256-CvIz3r02bfsaOFd9GVj5loxBscQm1ZjCypZC2emJYxw="
     },
     "extract": null,
     "rustGitDeps": null
