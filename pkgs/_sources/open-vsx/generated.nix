@@ -6135,10 +6135,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.5.4";
+    version = "0.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.4/file/d-biehl.robotcode-0.5.4.vsix";
-      sha256 = "sha256-lLpFut7KS7e9YVyPVitST2BDK5axhwYMaIX0PG2d/E8=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.5/file/d-biehl.robotcode-0.5.5.vsix";
+      sha256 = "sha256-zHqt4aoOZuMwEUA9q1zsSlMdMYCuVZV0jCviT2+3vD4=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -14139,10 +14139,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.39.0";
+    version = "0.40.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.39.0/file/robocorp.robotframework-lsp-0.39.0.vsix";
-      sha256 = "sha256-CuS1RwiJNn0Uwp2qqNDAjTgv8WYjBFn8kkEJPEq60M8=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.40.1/file/robocorp.robotframework-lsp-0.40.1.vsix";
+      sha256 = "sha256-lXVY1jdnZaj8AhGpujYlIxtjq3xEiEixefnbrjMM7+0=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";

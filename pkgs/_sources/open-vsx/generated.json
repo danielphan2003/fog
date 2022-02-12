@@ -3063,7 +3063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3071,10 +3071,10 @@
       "description": "Robot Framework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.5.4/file/d-biehl.robotcode-0.5.4.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.5.5/file/d-biehl.robotcode-0.5.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lLpFut7KS7e9YVyPVitST2BDK5axhwYMaIX0PG2d/E8="
+      "sha256": "sha256-zHqt4aoOZuMwEUA9q1zsSlMdMYCuVZV0jCviT2+3vD4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14423,7 +14423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robocorp-robotframework-lsp",
-    "version": "0.39.0",
+    "version": "0.40.1",
     "passthru": {
       "name": "robotframework-lsp",
       "license": "Apache 2.0",
@@ -14431,10 +14431,10 @@
       "description": "VSCode extension support for Robot Framework"
     },
     "src": {
-      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.39.0/file/robocorp.robotframework-lsp-0.39.0.vsix",
+      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.40.1/file/robocorp.robotframework-lsp-0.40.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CuS1RwiJNn0Uwp2qqNDAjTgv8WYjBFn8kkEJPEq60M8="
+      "sha256": "sha256-lXVY1jdnZaj8AhGpujYlIxtjq3xEiEixefnbrjMM7+0="
     },
     "extract": null,
     "rustGitDeps": null
