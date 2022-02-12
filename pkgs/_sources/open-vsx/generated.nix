@@ -11439,10 +11439,10 @@
   };
   mpotthoff-vscode-android-webview-debug = {
     pname = "mpotthoff-vscode-android-webview-debug";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mpotthoff/vscode-android-webview-debug/1.2.0/file/mpotthoff.vscode-android-webview-debug-1.2.0.vsix";
-      sha256 = "sha256-vlUWWIe1tOvtv7xE5bcP4Y2l2BxvR+9hAzd74r4m6fQ=";
+      url = "https://open-vsx.org/api/mpotthoff/vscode-android-webview-debug/1.2.1/file/mpotthoff.vscode-android-webview-debug-1.2.1.vsix";
+      sha256 = "sha256-smMbFLBcBInF8m3JmmKOhNTQ2glgZ4FjmE/v8s1vfGo=";
     };
     name = "vscode-android-webview-debug";
     license = "LGPL-3.0";
