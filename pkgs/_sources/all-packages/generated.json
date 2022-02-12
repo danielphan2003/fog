@@ -730,9 +730,9 @@
   },
   "conduit": {
     "pinned": false,
-    "cargoLock": "./conduit-41d3da245e36b16f316a6e12008fefd690a12355/Cargo.lock",
+    "cargoLock": "./conduit-914152fcbdbac7f29c28b96f342b0b990c82c204/Cargo.lock",
     "name": "conduit",
-    "version": "41d3da245e36b16f316a6e12008fefd690a12355",
+    "version": "914152fcbdbac7f29c28b96f342b0b990c82c204",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -741,8 +741,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-vRttSSBSCLEoDHZFY4LxNfjVLqDH4IFUKd9dks2mpMA=",
-      "rev": "41d3da245e36b16f316a6e12008fefd690a12355"
+      "sha256": "sha256-ew1fAo1trry32cyOlJsg+JXMb5Xryv8ivykJvKE/xGU=",
+      "rev": "914152fcbdbac7f29c28b96f342b0b990c82c204"
     },
     "extract": null,
     "rustGitDeps": {
@@ -1153,7 +1153,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus-bamboo",
-    "version": "9088d413cc4d5e77d68da540da9e9be8e7f1419a",
+    "version": "96ba9f9ae00d4e3df028f8312f55ef50d8bcf738",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1163,8 +1163,8 @@
       "name": null,
       "repo": "ibus-bamboo",
       "type": "github",
-      "sha256": "sha256-RMLmq2rkOM2nXKBj6dDz8tvlHxa+MO4hNacDmGpkqkM=",
-      "rev": "9088d413cc4d5e77d68da540da9e9be8e7f1419a"
+      "sha256": "sha256-0hIHnc3fVYlKxuQMYiEFV6FQwCJfbLeliZ4GmVc4/2I=",
+      "rev": "96ba9f9ae00d4e3df028f8312f55ef50d8bcf738"
     },
     "extract": null,
     "rustGitDeps": null

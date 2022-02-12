@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "41d3da245e36b16f316a6e12008fefd690a12355";
+    version = "914152fcbdbac7f29c28b96f342b0b990c82c204";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "41d3da245e36b16f316a6e12008fefd690a12355";
+      rev = "914152fcbdbac7f29c28b96f342b0b990c82c204";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-vRttSSBSCLEoDHZFY4LxNfjVLqDH4IFUKd9dks2mpMA=";
+      sha256 = "sha256-ew1fAo1trry32cyOlJsg+JXMb5Xryv8ivykJvKE/xGU=";
     };
     cargoLock = {
-      lockFile = ./conduit-41d3da245e36b16f316a6e12008fefd690a12355/Cargo.lock;
+      lockFile = ./conduit-914152fcbdbac7f29c28b96f342b0b990c82c204/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-CnNUrA5NXhWtQCOYmldq6wdx4Z613O1UnpBDnmcTO3k=";
@@ -383,13 +383,13 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "9088d413cc4d5e77d68da540da9e9be8e7f1419a";
+    version = "96ba9f9ae00d4e3df028f8312f55ef50d8bcf738";
     src = fetchFromGitHub ({
       owner = "BambooEngine";
       repo = "ibus-bamboo";
-      rev = "9088d413cc4d5e77d68da540da9e9be8e7f1419a";
+      rev = "96ba9f9ae00d4e3df028f8312f55ef50d8bcf738";
       fetchSubmodules = false;
-      sha256 = "sha256-RMLmq2rkOM2nXKBj6dDz8tvlHxa+MO4hNacDmGpkqkM=";
+      sha256 = "sha256-0hIHnc3fVYlKxuQMYiEFV6FQwCJfbLeliZ4GmVc4/2I=";
     });
   };
   jibri = {
