@@ -803,7 +803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitHub-github-vscode-theme",
-    "version": "5.2.2",
+    "version": "6.0.0",
     "passthru": {
       "name": "github-vscode-theme",
       "license": "MIT",
@@ -811,10 +811,10 @@
       "description": "GitHub theme for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.2/file/GitHub.github-vscode-theme-5.2.2.vsix",
+      "url": "https://open-vsx.org/api/GitHub/github-vscode-theme/6.0.0/file/GitHub.github-vscode-theme-6.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oTiOV4dHm+Ujozoq86lKeKTYRSNW4ncn7JofcPEr700="
+      "sha256": "sha256-GZ29Y3mY6OZl+RSKxjUF69nmYpxn3umykyfwIv2d/gM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5023,7 +5023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "neilbrayfield-php-docblocker",
-    "version": "2.6.1",
+    "version": "2.7.0",
     "passthru": {
       "name": "php-docblocker",
       "license": "MIT",
@@ -5031,10 +5031,10 @@
       "description": "A simple, dependency free PHP specific DocBlocking package"
     },
     "src": {
-      "url": "https://open-vsx.org/api/neilbrayfield/php-docblocker/2.6.1/file/neilbrayfield.php-docblocker-2.6.1.vsix",
+      "url": "https://open-vsx.org/api/neilbrayfield/php-docblocker/2.7.0/file/neilbrayfield.php-docblocker-2.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t4DyPUU1flUzGlhW0QCLD60+rbt4xagjT71TEzIfKzI="
+      "sha256": "sha256-swuDZJVWvgAvBuoI1xTwzBtKstet8ahkDQKpZlfz830="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8643,7 +8643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "medo64-render-crlf",
-    "version": "1.5.23",
+    "version": "1.5.24",
     "passthru": {
       "name": "render-crlf",
       "license": "MIT",
@@ -8651,10 +8651,10 @@
       "description": "Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on."
     },
     "src": {
-      "url": "https://open-vsx.org/api/medo64/render-crlf/1.5.23/file/medo64.render-crlf-1.5.23.vsix",
+      "url": "https://open-vsx.org/api/medo64/render-crlf/1.5.24/file/medo64.render-crlf-1.5.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YvX9sld53AygiAkbrjKObZTJIH4+zjlEnuXyujoed2o="
+      "sha256": "sha256-EkHv5ipaRDx8/ChUdHxcbmgurPacam6qF0eUE2KbmLc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9403,7 +9403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "janisdd-vscode-edit-csv",
-    "version": "0.6.4",
+    "version": "0.6.5",
     "passthru": {
       "name": "vscode-edit-csv",
       "license": "MIT",
@@ -9411,10 +9411,10 @@
       "description": "extension to edit csv files with a table ui"
     },
     "src": {
-      "url": "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.4/file/janisdd.vscode-edit-csv-0.6.4.vsix",
+      "url": "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.5/file/janisdd.vscode-edit-csv-0.6.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gqqvR5p3dnUoIk0X31//5ckkkHdJPiI7abuMA5zQ8jY="
+      "sha256": "sha256-4qBkBU0HJbCxy/xhhv8IrAhb1djGymU777x4nIYk5Xs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12243,7 +12243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.8.2",
+    "version": "1.8.3",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12251,10 +12251,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.8.2/file/mintlify.document-1.8.2.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.8.3/file/mintlify.document-1.8.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pryjacWIAeTY7IC19zrQEE13TrI/ubhxaWyrpc+QKds="
+      "sha256": "sha256-Jv4zuTpSuzgcQ75j14dtTtyS6vZnmVvEizG6bT60hgM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14063,7 +14063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.1021",
+    "version": "2022.2.1119",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14071,10 +14071,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1021/file/Slint.slint-nightly-2022.2.1021.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1119/file/Slint.slint-nightly-2022.2.1119.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-snTqAPYmwDhsv7J8Icim49aEGfDW+H3Ir2fNZ610Km8="
+      "sha256": "sha256-IYkwccoOvpmrC37DRZ0Ve9s+WTYvF6lDdfirdxpMUug="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25023,7 +25023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-toolsai-jupyter",
-    "version": "2022.1.1001821691",
+    "version": "2022.1.1201832589",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -25031,10 +25031,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1001821691/file/ms-toolsai.jupyter-2022.1.1001821691.vsix",
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1201832589/file/ms-toolsai.jupyter-2022.1.1201832589.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cClULIKMFflAA8Bad/YE4K9qyfKfSkLMOoxmjGFe6nI="
+      "sha256": "sha256-VvAvlLd8iZSLCf+VF3hzPTI1sOsaBA6escT/VmLqugQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28803,7 +28803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-references-view",
-    "version": "0.0.84",
+    "version": "0.0.85",
     "passthru": {
       "name": "references-view",
       "license": "MIT",
@@ -28811,10 +28811,10 @@
       "description": "Reference Search results as separate, stable view in the sidebar"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/references-view/0.0.84/file/ms-vscode.references-view-0.0.84.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/references-view/0.0.85/file/ms-vscode.references-view-0.0.85.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kB+G47Lk76ERqASiBmWiIvtBQ2L4ncAlUeAV16JMTmI="
+      "sha256": "sha256-Cb8PNJs+YCB3MtIj3E6i4r7nvv5vuEzpp2b8meR16yo="
     },
     "extract": null,
     "rustGitDeps": null

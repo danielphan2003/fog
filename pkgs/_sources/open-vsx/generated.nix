@@ -1047,10 +1047,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "5.2.2";
+    version = "6.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/5.2.2/file/GitHub.github-vscode-theme-5.2.2.vsix";
-      sha256 = "sha256-oTiOV4dHm+Ujozoq86lKeKTYRSNW4ncn7JofcPEr700=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.0.0/file/GitHub.github-vscode-theme-6.0.0.vsix";
+      sha256 = "sha256-GZ29Y3mY6OZl+RSKxjUF69nmYpxn3umykyfwIv2d/gM=";
     };
     name = "github-vscode-theme";
     license = "MIT";
@@ -2919,10 +2919,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.1021";
+    version = "2022.2.1119";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1021/file/Slint.slint-nightly-2022.2.1021.vsix";
-      sha256 = "sha256-snTqAPYmwDhsv7J8Icim49aEGfDW+H3Ir2fNZ610Km8=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1119/file/Slint.slint-nightly-2022.2.1119.vsix";
+      sha256 = "sha256-IYkwccoOvpmrC37DRZ0Ve9s+WTYvF6lDdfirdxpMUug=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -9255,10 +9255,10 @@
   };
   janisdd-vscode-edit-csv = {
     pname = "janisdd-vscode-edit-csv";
-    version = "0.6.4";
+    version = "0.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.4/file/janisdd.vscode-edit-csv-0.6.4.vsix";
-      sha256 = "sha256-gqqvR5p3dnUoIk0X31//5ckkkHdJPiI7abuMA5zQ8jY=";
+      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.5/file/janisdd.vscode-edit-csv-0.6.5.vsix";
+      sha256 = "sha256-4qBkBU0HJbCxy/xhhv8IrAhb1djGymU777x4nIYk5Xs=";
     };
     name = "vscode-edit-csv";
     license = "MIT";
@@ -11067,10 +11067,10 @@
   };
   medo64-render-crlf = {
     pname = "medo64-render-crlf";
-    version = "1.5.23";
+    version = "1.5.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.23/file/medo64.render-crlf-1.5.23.vsix";
-      sha256 = "sha256-YvX9sld53AygiAkbrjKObZTJIH4+zjlEnuXyujoed2o=";
+      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.24/file/medo64.render-crlf-1.5.24.vsix";
+      sha256 = "sha256-EkHv5ipaRDx8/ChUdHxcbmgurPacam6qF0eUE2KbmLc=";
     };
     name = "render-crlf";
     license = "MIT";
@@ -11259,10 +11259,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.8.2";
+    version = "1.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.8.2/file/mintlify.document-1.8.2.vsix";
-      sha256 = "sha256-pryjacWIAeTY7IC19zrQEE13TrI/ubhxaWyrpc+QKds=";
+      url = "https://open-vsx.org/api/mintlify/document/1.8.3/file/mintlify.document-1.8.3.vsix";
+      sha256 = "sha256-Jv4zuTpSuzgcQ75j14dtTtyS6vZnmVvEizG6bT60hgM=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -11607,10 +11607,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.1.1001821691";
+    version = "2022.1.1201832589";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1001821691/file/ms-toolsai.jupyter-2022.1.1001821691.vsix";
-      sha256 = "sha256-cClULIKMFflAA8Bad/YE4K9qyfKfSkLMOoxmjGFe6nI=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1201832589/file/ms-toolsai.jupyter-2022.1.1201832589.vsix";
+      sha256 = "sha256-VvAvlLd8iZSLCf+VF3hzPTI1sOsaBA6escT/VmLqugQ=";
     };
     name = "jupyter";
     license = "MIT";
@@ -11799,10 +11799,10 @@
   };
   ms-vscode-references-view = {
     pname = "ms-vscode-references-view";
-    version = "0.0.84";
+    version = "0.0.85";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.84/file/ms-vscode.references-view-0.0.84.vsix";
-      sha256 = "sha256-kB+G47Lk76ERqASiBmWiIvtBQ2L4ncAlUeAV16JMTmI=";
+      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.85/file/ms-vscode.references-view-0.0.85.vsix";
+      sha256 = "sha256-Cb8PNJs+YCB3MtIj3E6i4r7nvv5vuEzpp2b8meR16yo=";
     };
     name = "references-view";
     license = "MIT";
@@ -12231,10 +12231,10 @@
   };
   neilbrayfield-php-docblocker = {
     pname = "neilbrayfield-php-docblocker";
-    version = "2.6.1";
+    version = "2.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/neilbrayfield/php-docblocker/2.6.1/file/neilbrayfield.php-docblocker-2.6.1.vsix";
-      sha256 = "sha256-t4DyPUU1flUzGlhW0QCLD60+rbt4xagjT71TEzIfKzI=";
+      url = "https://open-vsx.org/api/neilbrayfield/php-docblocker/2.7.0/file/neilbrayfield.php-docblocker-2.7.0.vsix";
+      sha256 = "sha256-swuDZJVWvgAvBuoI1xTwzBtKstet8ahkDQKpZlfz830=";
     };
     name = "php-docblocker";
     license = "MIT";
