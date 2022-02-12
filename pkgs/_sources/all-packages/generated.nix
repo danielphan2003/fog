@@ -72,13 +72,13 @@
   };
   anime-downloader = {
     pname = "anime-downloader";
-    version = "5ffac4c9a2f4aaaf87d446f937ee2c7c8499984a";
+    version = "9583a4979dd7cff8a26b108ca92703619f83e201";
     src = fetchFromGitHub ({
       owner = "anime-dl";
       repo = "anime-downloader";
-      rev = "5ffac4c9a2f4aaaf87d446f937ee2c7c8499984a";
+      rev = "9583a4979dd7cff8a26b108ca92703619f83e201";
       fetchSubmodules = false;
-      sha256 = "sha256-qfjd2JUCgPM0xF8oeeVYMkWopopEXw3ysl+sSLGm2hw=";
+      sha256 = "sha256-xwkKd0sOVz4dt7Oi+5DqJ6l4VieVnYrWsjXUghIytfI=";
     });
   };
   any-nix-shell = {
@@ -361,13 +361,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "6fc01736ac93d167b4baed41ae4b2ac482ecc20c";
+    version = "6bfa22b82c9c9ce2303b4a07372091028457046d";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "6fc01736ac93d167b4baed41ae4b2ac482ecc20c";
+      rev = "6bfa22b82c9c9ce2303b4a07372091028457046d";
       fetchSubmodules = false;
-      sha256 = "sha256-0LsZf4WmbRzRVwRLZVBTZYNBEiRp0VoMZpm7mnowvD4=";
+      sha256 = "sha256-J0DHP89xMBzwk1K41WYfoGRgEcKdWLCq/6//CcdwSS0=";
     });
   };
   ibus = {
