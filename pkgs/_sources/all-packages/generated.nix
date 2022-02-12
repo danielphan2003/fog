@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "914152fcbdbac7f29c28b96f342b0b990c82c204";
+    version = "2b644ef7b7c556a34800d449293e1cd864561c68";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "914152fcbdbac7f29c28b96f342b0b990c82c204";
+      rev = "2b644ef7b7c556a34800d449293e1cd864561c68";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ew1fAo1trry32cyOlJsg+JXMb5Xryv8ivykJvKE/xGU=";
+      sha256 = "sha256-NPa4Q7waOgoP2X4p2377brG4DeA4D70KzXgmU5m8RnE=";
     };
     cargoLock = {
-      lockFile = ./conduit-914152fcbdbac7f29c28b96f342b0b990c82c204/Cargo.lock;
+      lockFile = ./conduit-2b644ef7b7c556a34800d449293e1cd864561c68/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-CnNUrA5NXhWtQCOYmldq6wdx4Z613O1UnpBDnmcTO3k=";
@@ -361,13 +361,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "6bfa22b82c9c9ce2303b4a07372091028457046d";
+    version = "76f6867ee844378894c8ddf63d65e7553e342389";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "6bfa22b82c9c9ce2303b4a07372091028457046d";
+      rev = "76f6867ee844378894c8ddf63d65e7553e342389";
       fetchSubmodules = false;
-      sha256 = "sha256-J0DHP89xMBzwk1K41WYfoGRgEcKdWLCq/6//CcdwSS0=";
+      sha256 = "sha256-6tOiGRM5GtC3dIZziUioq7ibKVjKAGO65E6qKreGp8E=";
     });
   };
   ibus = {
