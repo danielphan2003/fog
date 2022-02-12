@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "adda2d2a51de70545958b8a0a005be95855ffd5b",
+    "version": "86a902b201ce9f454776d377eb6bb2b2fe3cceab",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-jfHZY8BmrnbqheGQuOj8cuwv4p4ll1XqmShk95wpu6s=",
-      "rev": "adda2d2a51de70545958b8a0a005be95855ffd5b"
+      "sha256": "sha256-bUwK3pjtzPqVak3F6aG/S990RP0+86MqBbhSTf38w8E=",
+      "rev": "86a902b201ce9f454776d377eb6bb2b2fe3cceab"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1747,7 +1747,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "guiscrcpy",
-    "version": "76f6867ee844378894c8ddf63d65e7553e342389",
+    "version": "06c5cf7dae06664741fe2f1d2c5d3700cff2e8e1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1757,8 +1757,8 @@
       "name": null,
       "repo": "guiscrcpy",
       "type": "github",
-      "sha256": "sha256-6tOiGRM5GtC3dIZziUioq7ibKVjKAGO65E6qKreGp8E=",
-      "rev": "76f6867ee844378894c8ddf63d65e7553e342389"
+      "sha256": "sha256-MmS28kRR9bdjhHc2CjO4CsyqBXmYWJl9wIGrDgpVipQ=",
+      "rev": "06c5cf7dae06664741fe2f1d2c5d3700cff2e8e1"
     },
     "extract": null,
     "rustGitDeps": null
