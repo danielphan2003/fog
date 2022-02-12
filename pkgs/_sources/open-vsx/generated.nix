@@ -5403,10 +5403,10 @@
   };
   carlocardella-hogwarts-colors-dark = {
     pname = "carlocardella-hogwarts-colors-dark";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/hogwarts-colors-dark/1.0.0/file/carlocardella.hogwarts-colors-dark-1.0.0.vsix";
-      sha256 = "sha256-dyXRFc9WcDDGEcrskBmSKDqFTqSaFAHxdo7GPLBFNfc=";
+      url = "https://open-vsx.org/api/carlocardella/hogwarts-colors-dark/1.0.1/file/carlocardella.hogwarts-colors-dark-1.0.1.vsix";
+      sha256 = "sha256-A+15RpjJHhEGrV4TQ6UhCtdeeZaPfFQ7Woqh0U6JEtI=";
     };
     name = "hogwarts-colors-dark";
     license = "MIT";
