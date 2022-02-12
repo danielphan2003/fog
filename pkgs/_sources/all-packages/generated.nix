@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6285fda92c30ecde45473a094ed364361317f26f";
+    version = "003c6dc02dee4dfbef5307c6f1f38ee22cb9f457";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6285fda92c30ecde45473a094ed364361317f26f";
+      rev = "003c6dc02dee4dfbef5307c6f1f38ee22cb9f457";
       fetchSubmodules = false;
-      sha256 = "sha256-D4PfQ04xiyRvB7qP2iDTdwXpH2J3WfZKb+lxq29dVro=";
+      sha256 = "sha256-EvMCShpa4Zn5xPz8AsmcL9VbHNViXIdbUziI4iqUj+8=";
     });
   };
   caddy = {
@@ -190,20 +190,20 @@
   };
   conduit = {
     pname = "conduit";
-    version = "2b644ef7b7c556a34800d449293e1cd864561c68";
+    version = "91d5fbd56cd60ced70ebd4f3978f8c5f43e7bf7f";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "2b644ef7b7c556a34800d449293e1cd864561c68";
+      rev = "91d5fbd56cd60ced70ebd4f3978f8c5f43e7bf7f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-NPa4Q7waOgoP2X4p2377brG4DeA4D70KzXgmU5m8RnE=";
+      sha256 = "sha256-bnQ94ab+F+Cq1pBSi2wHPN5mG0fTYUYAIgTRoiSPcgs=";
     };
     cargoLock = {
-      lockFile = ./conduit-2b644ef7b7c556a34800d449293e1cd864561c68/Cargo.lock;
+      lockFile = ./conduit-91d5fbd56cd60ced70ebd4f3978f8c5f43e7bf7f/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
-        "ruma-0.4.0" = "sha256-CnNUrA5NXhWtQCOYmldq6wdx4Z613O1UnpBDnmcTO3k=";
+        "ruma-0.4.0" = "sha256-BsA7Dl92TndeZlvl0uHiP+o7RdiVoshIsXHKKCOV6GI=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
     };
@@ -361,13 +361,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "06c5cf7dae06664741fe2f1d2c5d3700cff2e8e1";
+    version = "0315802fdb7e670926b2a5f8a16bcc6bcd6921de";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "06c5cf7dae06664741fe2f1d2c5d3700cff2e8e1";
+      rev = "0315802fdb7e670926b2a5f8a16bcc6bcd6921de";
       fetchSubmodules = false;
-      sha256 = "sha256-MmS28kRR9bdjhHc2CjO4CsyqBXmYWJl9wIGrDgpVipQ=";
+      sha256 = "sha256-cl5Evsnx7yXj9wvg2WtNg47yGFy29uog9WdNJplWzHY=";
     });
   };
   ibus = {
