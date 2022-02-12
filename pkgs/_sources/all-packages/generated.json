@@ -755,13 +755,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-855",
+    "version": "1.0-856",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-855-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-856-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tuAZroi6LuVYolM31XLcHCqDytCvz00WSV8pZLBfv0s="
+      "sha256": "sha256-R1uesLVaNv2CYSbA66+LD3S7g+HQGUEVIGnL235jTlo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "8093f4595c00ed42b2420d6c1c5e145858944349",
+    "version": "9ec7cecb9390ede8c760c137f5066600c95365e1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-R++ki85tVXELzgSD/7isBOXAzKKSkH1pr62ydvWcYwY=",
-      "rev": "8093f4595c00ed42b2420d6c1c5e145858944349"
+      "sha256": "sha256-CAG+6iAf8U0s+1RUYunRcb1WkyhC1hdbTtM0gOJA5jI=",
+      "rev": "9ec7cecb9390ede8c760c137f5066600c95365e1"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "84046d6f7c4105c8a920f4c36f6e01cc585eb666",
+    "version": "a80cef0c13e9d12ba8c1fa2bb580e213ce157e22",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-ZGcvwp4wsRLVO+xga2f8Zfpavv6R6Qz4iG6DUX27EkM=",
-      "rev": "84046d6f7c4105c8a920f4c36f6e01cc585eb666"
+      "sha256": "sha256-4scuAYFz8y3juygsJVBt4bBSFmRYwkenI7H7pmptnsg=",
+      "rev": "a80cef0c13e9d12ba8c1fa2bb580e213ce157e22"
     },
     "extract": null,
     "rustGitDeps": null
