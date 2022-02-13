@@ -38,7 +38,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pmbootstrap-test",
-    "version": "dfe8129640b69d3a618cfb91736209238dad0457",
+    "version": "18a16c7899963ecbc85cc7497c6120cfa36b5fc0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -47,8 +47,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-Y1kqAUdVutPkMfGrw+aaqGWAzqvxSXl+HD88oWpObtY=",
-      "rev": "dfe8129640b69d3a618cfb91736209238dad0457"
+      "sha256": "sha256-ioW0Bab2G0ZFNRHYOqMPXHfM4CnvXmaPL7uCa4O1zs0=",
+      "rev": "18a16c7899963ecbc85cc7497c6120cfa36b5fc0"
     },
     "extract": null,
     "rustGitDeps": null
