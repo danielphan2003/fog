@@ -16303,7 +16303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.4",
+    "version": "0.12.5",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16311,10 +16311,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.4/file/shufo.vscode-blade-formatter-0.12.4.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.5/file/shufo.vscode-blade-formatter-0.12.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-teDfASyPiezIPiHwngz1e4la/4rQQVG0f6xsD3dDxE8="
+      "sha256": "sha256-yZPfPfZEKFbB6T/NONaUb8K0i3q2DEMwmV6GzqlsnFw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23723,7 +23723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DamienHubleur-cppclassgenerator",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "cppclassgenerator",
       "license": "MIT",
@@ -23731,10 +23731,10 @@
       "description": "Automatic generation of C++ classes in orthodox canonical form for 42's projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.0/file/DamienHubleur.cppclassgenerator-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.1/file/DamienHubleur.cppclassgenerator-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-00Q+uYgARWaFnJ/IrrvPLFcOr7aY3YPz/RuSg8FSIAk="
+      "sha256": "sha256-uVMVouDhoOBoRtycuS34jKxM7ivwsNa1+AnPONEebYk="
     },
     "extract": null,
     "rustGitDeps": null
