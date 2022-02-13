@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "fbb6d2d7a19775935eafeec073f8e482d9c20e56",
+    "version": "db9461650cb20e8b4ef91fd41ad2323c1720b159",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-2DeqbHhXUXx0ACGzXLp2WvXvE9oaQUvpnfAozWkH20g=",
-      "rev": "fbb6d2d7a19775935eafeec073f8e482d9c20e56"
+      "sha256": "sha256-uXlkWf1GfUrfu6lqxpJcFqcpBl21xHMYzZTFwpkORKU=",
+      "rev": "db9461650cb20e8b4ef91fd41ad2323c1720b159"
     },
     "extract": null,
     "rustGitDeps": null
@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "9ec7cecb9390ede8c760c137f5066600c95365e1",
+    "version": "19a1dbbc85dbcee352f8a6d3bce254cd8f501640",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-CAG+6iAf8U0s+1RUYunRcb1WkyhC1hdbTtM0gOJA5jI=",
-      "rev": "9ec7cecb9390ede8c760c137f5066600c95365e1"
+      "sha256": "sha256-az5aE4bXafC4y4cpvKHoulPOQaI488Yo9xgZDtggQdM=",
+      "rev": "19a1dbbc85dbcee352f8a6d3bce254cd8f501640"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "86a902b201ce9f454776d377eb6bb2b2fe3cceab",
+    "version": "2db6cd102515230a75d5567c6021a0fe8386769e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-bUwK3pjtzPqVak3F6aG/S990RP0+86MqBbhSTf38w8E=",
-      "rev": "86a902b201ce9f454776d377eb6bb2b2fe3cceab"
+      "sha256": "sha256-vdKWjMAAcIO4gyOJrK57kKptStN5E0W0CcTH4VfAj9c=",
+      "rev": "2db6cd102515230a75d5567c6021a0fe8386769e"
     },
     "extract": null,
     "rustGitDeps": null
