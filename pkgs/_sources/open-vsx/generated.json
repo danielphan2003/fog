@@ -16303,7 +16303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.3",
+    "version": "0.12.4",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16311,10 +16311,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.3/file/shufo.vscode-blade-formatter-0.12.3.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.4/file/shufo.vscode-blade-formatter-0.12.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KIpVmBg05fvErNhfCwbCjWa6QvKNmhuOwrpYljiGW2I="
+      "sha256": "sha256-teDfASyPiezIPiHwngz1e4la/4rQQVG0f6xsD3dDxE8="
     },
     "extract": null,
     "rustGitDeps": null
