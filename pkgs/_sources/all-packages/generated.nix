@@ -1085,13 +1085,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "f44ba88220d9d323d76b8ddead6012c94d66697b";
+    version = "c2c1ccb39c313e3689735f7c725f28b9f22d0154";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "f44ba88220d9d323d76b8ddead6012c94d66697b";
+      rev = "c2c1ccb39c313e3689735f7c725f28b9f22d0154";
       fetchSubmodules = false;
-      sha256 = "sha256-HaObXXAFUwKyHbJ1z/rWycXOcUfEjfNTziClQ3tkSps=";
+      sha256 = "sha256-bRDv7WvVf0rLSVZpTKTiP5wuuQSiHorii1Mvxlqrv+g=";
     });
   };
   wgcf = {
