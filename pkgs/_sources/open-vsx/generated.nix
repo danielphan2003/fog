@@ -13299,10 +13299,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.278";
+    version = "0.25.280";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.278/file/pokey.cursorless-0.25.278.vsix";
-      sha256 = "sha256-/pd9WilXjnCOjcQa2BebNIfnRXbJ2qzuIYcw0ecPUpQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.280/file/pokey.cursorless-0.25.280.vsix";
+      sha256 = "sha256-5DVHao0QtqnTL2N7lHPcD6DtqIA1HCIH0rxrwAgK+lI=";
     };
     name = "cursorless";
     license = "MIT";
@@ -18663,10 +18663,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.0/file/yuyichao.digitaljs-0.6.0.vsix";
-      sha256 = "sha256-yfQXEtg69kR1ihk3HIH1TvyEShOKt10i6J38vw9BiSE=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.1/file/yuyichao.digitaljs-0.6.1.vsix";
+      sha256 = "sha256-35kl5tR4XdhZ07d6OC/ASq/woJN/PI+gkEpMK4HhCA8=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";

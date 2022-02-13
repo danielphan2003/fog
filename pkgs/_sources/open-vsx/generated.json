@@ -3743,7 +3743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3751,10 +3751,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.0/file/yuyichao.digitaljs-0.6.0.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.1/file/yuyichao.digitaljs-0.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yfQXEtg69kR1ihk3HIH1TvyEShOKt10i6J38vw9BiSE="
+      "sha256": "sha256-35kl5tR4XdhZ07d6OC/ASq/woJN/PI+gkEpMK4HhCA8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12003,7 +12003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.278",
+    "version": "0.25.280",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12011,10 +12011,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.278/file/pokey.cursorless-0.25.278.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.280/file/pokey.cursorless-0.25.280.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/pd9WilXjnCOjcQa2BebNIfnRXbJ2qzuIYcw0ecPUpQ="
+      "sha256": "sha256-5DVHao0QtqnTL2N7lHPcD6DtqIA1HCIH0rxrwAgK+lI="
     },
     "extract": null,
     "rustGitDeps": null
