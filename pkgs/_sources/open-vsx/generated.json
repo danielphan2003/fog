@@ -8783,7 +8783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1828796",
+    "version": "6.1.1837333",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8791,10 +8791,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1828796/file/eliostruyf.vscode-front-matter-beta-6.1.1828796.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1837333/file/eliostruyf.vscode-front-matter-beta-6.1.1837333.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gUVeYECknouV4S8Y1KoehUfG2HFd0BEOpze4Zomgics="
+      "sha256": "sha256-6FH2c4vsE47SD/d29DSIIXcNcBUxc1OiAPGOoE80ipc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9323,7 +9323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "foam-foam-vscode",
-    "version": "0.17.3",
+    "version": "0.17.4",
     "passthru": {
       "name": "foam-vscode",
       "license": "MIT",
@@ -9331,10 +9331,10 @@
       "description": "VS Code + Markdown + Wikilinks for your note taking and knowledge base"
     },
     "src": {
-      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.3/file/foam.foam-vscode-0.17.3.vsix",
+      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.4/file/foam.foam-vscode-0.17.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-i8dbEBhw3WXETwK4Z0KkPKVdXygZ7R5xTe++IsTGTUA="
+      "sha256": "sha256-czwXYiLMWQGQLq2htT+MJQMfJBFb2HNVbiOCUCHpUIY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12003,7 +12003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.280",
+    "version": "0.25.282",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12011,10 +12011,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.280/file/pokey.cursorless-0.25.280.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.282/file/pokey.cursorless-0.25.282.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5DVHao0QtqnTL2N7lHPcD6DtqIA1HCIH0rxrwAgK+lI="
+      "sha256": "sha256-kxvXmS3m6UONBk83EsfmL9JMC8TqcAFcDWC6F8DyciY="
     },
     "extract": null,
     "rustGitDeps": null
