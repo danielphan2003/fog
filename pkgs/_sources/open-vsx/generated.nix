@@ -651,10 +651,10 @@
   };
   DamienHubleur-cppclassgenerator = {
     pname = "DamienHubleur-cppclassgenerator";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.0/file/DamienHubleur.cppclassgenerator-1.1.0.vsix";
-      sha256 = "sha256-00Q+uYgARWaFnJ/IrrvPLFcOr7aY3YPz/RuSg8FSIAk=";
+      url = "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.1/file/DamienHubleur.cppclassgenerator-1.1.1.vsix";
+      sha256 = "sha256-uVMVouDhoOBoRtycuS34jKxM7ivwsNa1+AnPONEebYk=";
     };
     name = "cppclassgenerator";
     license = "MIT";
@@ -14895,10 +14895,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.12.4";
+    version = "0.12.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.4/file/shufo.vscode-blade-formatter-0.12.4.vsix";
-      sha256 = "sha256-teDfASyPiezIPiHwngz1e4la/4rQQVG0f6xsD3dDxE8=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.5/file/shufo.vscode-blade-formatter-0.12.5.vsix";
+      sha256 = "sha256-yZPfPfZEKFbB6T/NONaUb8K0i3q2DEMwmV6GzqlsnFw=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
