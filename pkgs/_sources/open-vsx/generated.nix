@@ -2931,10 +2931,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.1119";
+    version = "2022.2.1219";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1119/file/Slint.slint-nightly-2022.2.1119.vsix";
-      sha256 = "sha256-IYkwccoOvpmrC37DRZ0Ve9s+WTYvF6lDdfirdxpMUug=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1219/file/Slint.slint-nightly-2022.2.1219.vsix";
+      sha256 = "sha256-t3YaVDWDKTRG/v1M+olvZH764OFNE+AC+CSDECtIPfY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8331,10 +8331,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.8.37";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.8.37/file/halcyontechltd.code-for-ibmi-0.8.37.vsix";
-      sha256 = "sha256-g8RZeRymqB4dy9T4wue8SBGi1ShTL7vCnv+kEaLzy5o=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.9.0/file/halcyontechltd.code-for-ibmi-0.9.0.vsix";
+      sha256 = "sha256-IKKOX+J6Zoixu+yg2JxFzcN4b4cM+vKTJ86Ozt1mZxI=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -9579,10 +9579,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.31.2";
+    version = "0.31.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.2/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.2.vsix";
-      sha256 = "sha256-dbrxN1fRAiW4KCpDz7jvCdaRs4duudZ7bV2ReTIUKIU=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.3/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.3.vsix";
+      sha256 = "sha256-mWm5wVdNL/9QeTvl1Jpx2i/pefQSIuWME8ITBseojU4=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -11571,10 +11571,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.220";
+    version = "1.1.221";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.220/file/ms-pyright.pyright-1.1.220.vsix";
-      sha256 = "sha256-+BMzmnZhKN4/iEVo0PG4SG1mnUq+BpxH4W/D8y9Gtn8=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.221/file/ms-pyright.pyright-1.1.221.vsix";
+      sha256 = "sha256-eLP28whfFawLrvheAdTSu9qz+ieb+U7NXG2BgpytJEs=";
     };
     name = "pyright";
     license = "MIT";
