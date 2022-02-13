@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "picom",
-    "version": "ea2ba58efdf44739562f7f32a275b530019ebef1",
+    "version": "aa316aa3601a4f3ce9c1ca79932218ab574e61a7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1613,8 +1613,8 @@
       "name": null,
       "repo": "picom",
       "type": "github",
-      "sha256": "sha256-cQCDem81l028x1d5Zq70EYoixDv4eoPY+SfH2MJv2co=",
-      "rev": "ea2ba58efdf44739562f7f32a275b530019ebef1"
+      "sha256": "sha256-Yb69LTu45HxBWoD/T9Uj6b1lNn7hHzIEjcn73PMMEz0=",
+      "rev": "aa316aa3601a4f3ce9c1ca79932218ab574e61a7"
     },
     "extract": null,
     "rustGitDeps": null
