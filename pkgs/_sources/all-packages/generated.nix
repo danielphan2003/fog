@@ -105,13 +105,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "58e2618b9ddb436867f1701733a07ab286eb1b3f";
+    version = "a98b73c64e2e0b505efb6b23d34e6c5d90abe2c8";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "58e2618b9ddb436867f1701733a07ab286eb1b3f";
+      rev = "a98b73c64e2e0b505efb6b23d34e6c5d90abe2c8";
       fetchSubmodules = false;
-      sha256 = "sha256-8HtKGySGmTniujUDsHg3EyKi/CpI30RuSZ4SKWYwb1Y=";
+      sha256 = "sha256-Df2D2eBifkZpFklPBbE94AvgAUM/NUAAiuqUzp67Hdo=";
     });
   };
   avizo = {
@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "003c6dc02dee4dfbef5307c6f1f38ee22cb9f457";
+    version = "288d7bf91510cddc3308e96574bd6d139ead2df1";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "003c6dc02dee4dfbef5307c6f1f38ee22cb9f457";
+      rev = "288d7bf91510cddc3308e96574bd6d139ead2df1";
       fetchSubmodules = false;
-      sha256 = "sha256-EvMCShpa4Zn5xPz8AsmcL9VbHNViXIdbUziI4iqUj+8=";
+      sha256 = "sha256-GtVC3JfVoooJ+MuF9r1W3J8RfXNKalaIgecv1ner7GA=";
     });
   };
   caddy = {
