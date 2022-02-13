@@ -105,11 +105,11 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "4bd17611df133b8ab3077df495ab7197c1844eea";
+    version = "ba052105de3c4be2e34cf103f08b2f28c6d5b496";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "4bd17611df133b8ab3077df495ab7197c1844eea";
+      rev = "ba052105de3c4be2e34cf103f08b2f28c6d5b496";
       fetchSubmodules = false;
       sha256 = "sha256-Df2D2eBifkZpFklPBbE94AvgAUM/NUAAiuqUzp67Hdo=";
     });
