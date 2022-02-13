@@ -8783,7 +8783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1837333",
+    "version": "6.1.1837498",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8791,10 +8791,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1837333/file/eliostruyf.vscode-front-matter-beta-6.1.1837333.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1837498/file/eliostruyf.vscode-front-matter-beta-6.1.1837498.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6FH2c4vsE47SD/d29DSIIXcNcBUxc1OiAPGOoE80ipc="
+      "sha256": "sha256-ran05CWI1JfLO/wb87qa33UBEyfmP1eY25RB8raoER4="
     },
     "extract": null,
     "rustGitDeps": null
