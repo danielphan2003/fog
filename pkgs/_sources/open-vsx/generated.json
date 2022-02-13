@@ -13263,7 +13263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "uloco-theme-bluloco-dark",
-    "version": "3.3.0",
+    "version": "3.6.0",
     "passthru": {
       "name": "theme-bluloco-dark",
       "license": "LGPL-3.0",
@@ -13271,10 +13271,10 @@
       "description": "A fancy but yet sophisticated dark designer color scheme / theme."
     },
     "src": {
-      "url": "https://open-vsx.org/api/uloco/theme-bluloco-dark/3.3.0/file/uloco.theme-bluloco-dark-3.3.0.vsix",
+      "url": "https://open-vsx.org/api/uloco/theme-bluloco-dark/3.6.0/file/uloco.theme-bluloco-dark-3.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-71WP9+EcJGOeJUDjT08kVoffikkhjLBKGs1ICyO+UPc="
+      "sha256": "sha256-MaT2AyYgmwNqvw5oCLUvIIphCUIHKt3KqUYxpnQRWAA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16003,7 +16003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "uloco-theme-bluloco-light",
-    "version": "3.3.1",
+    "version": "3.6.0",
     "passthru": {
       "name": "theme-bluloco-light",
       "license": "LGPL-3.0",
@@ -16011,10 +16011,10 @@
       "description": "A fancy but yet sophisticated light designer color scheme / theme."
     },
     "src": {
-      "url": "https://open-vsx.org/api/uloco/theme-bluloco-light/3.3.1/file/uloco.theme-bluloco-light-3.3.1.vsix",
+      "url": "https://open-vsx.org/api/uloco/theme-bluloco-light/3.6.0/file/uloco.theme-bluloco-light-3.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IgI0BTy78wJCAZe4rQg1EjwGuokxp0qErIgGT/Z/mW0="
+      "sha256": "sha256-b4t1TciA/XfrllHo3Ch0iMATI5lKCxO3Bksq/wQrvks="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21043,7 +21043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jsDelivr-jsdelivr",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "passthru": {
       "name": "jsdelivr",
       "license": "OSL-3.0",
@@ -21051,10 +21051,10 @@
       "description": "Quickly insert any npm package from jsDelivr CDN."
     },
     "src": {
-      "url": "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.0/file/jsDelivr.jsdelivr-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.2/file/jsDelivr.jsdelivr-1.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qc96pTC1j0qww8xUjMuWArNrUJ9aBUO6TCn5lgsrq9Y="
+      "sha256": "sha256-IJWIDhdOFf+BEurSClp9+bgNKtCw0awJxGLN2rx261A="
     },
     "extract": null,
     "rustGitDeps": null

@@ -9699,10 +9699,10 @@
   };
   jsDelivr-jsdelivr = {
     pname = "jsDelivr-jsdelivr";
-    version = "1.0.0";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.0/file/jsDelivr.jsdelivr-1.0.0.vsix";
-      sha256 = "sha256-qc96pTC1j0qww8xUjMuWArNrUJ9aBUO6TCn5lgsrq9Y=";
+      url = "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.2/file/jsDelivr.jsdelivr-1.0.2.vsix";
+      sha256 = "sha256-IJWIDhdOFf+BEurSClp9+bgNKtCw0awJxGLN2rx261A=";
     };
     name = "jsdelivr";
     license = "OSL-3.0";
@@ -16467,10 +16467,10 @@
   };
   uloco-theme-bluloco-dark = {
     pname = "uloco-theme-bluloco-dark";
-    version = "3.3.0";
+    version = "3.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/uloco/theme-bluloco-dark/3.3.0/file/uloco.theme-bluloco-dark-3.3.0.vsix";
-      sha256 = "sha256-71WP9+EcJGOeJUDjT08kVoffikkhjLBKGs1ICyO+UPc=";
+      url = "https://open-vsx.org/api/uloco/theme-bluloco-dark/3.6.0/file/uloco.theme-bluloco-dark-3.6.0.vsix";
+      sha256 = "sha256-MaT2AyYgmwNqvw5oCLUvIIphCUIHKt3KqUYxpnQRWAA=";
     };
     name = "theme-bluloco-dark";
     license = "LGPL-3.0";
@@ -16479,10 +16479,10 @@
   };
   uloco-theme-bluloco-light = {
     pname = "uloco-theme-bluloco-light";
-    version = "3.3.1";
+    version = "3.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/uloco/theme-bluloco-light/3.3.1/file/uloco.theme-bluloco-light-3.3.1.vsix";
-      sha256 = "sha256-IgI0BTy78wJCAZe4rQg1EjwGuokxp0qErIgGT/Z/mW0=";
+      url = "https://open-vsx.org/api/uloco/theme-bluloco-light/3.6.0/file/uloco.theme-bluloco-light-3.6.0.vsix";
+      sha256 = "sha256-b4t1TciA/XfrllHo3Ch0iMATI5lKCxO3Bksq/wQrvks=";
     };
     name = "theme-bluloco-light";
     license = "LGPL-3.0";
