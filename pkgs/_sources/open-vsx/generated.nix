@@ -4455,10 +4455,10 @@
   };
   arcticicestudio-nord-visual-studio-code = {
     pname = "arcticicestudio-nord-visual-studio-code";
-    version = "0.15.0";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arcticicestudio/nord-visual-studio-code/0.15.0/file/arcticicestudio.nord-visual-studio-code-0.15.0.vsix";
-      sha256 = "sha256-jbo0GYvyGIcStnTfSdlh18z4lyw1H+aKrBtv0expKHc=";
+      url = "https://open-vsx.org/api/arcticicestudio/nord-visual-studio-code/0.19.0/file/arcticicestudio.nord-visual-studio-code-0.19.0.vsix";
+      sha256 = "sha256-fwsDkiRxIysHsU4LRtz6b4xn39QpOxZ+TM7GCMxvvh0=";
     };
     name = "nord-visual-studio-code";
     license = "MIT";
@@ -8439,10 +8439,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.13.0";
+    version = "2.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.0/file/hbenl.vscode-mocha-test-adapter-2.13.0.vsix";
-      sha256 = "sha256-ZuFKeQmUqF7V+RiiVPBZGs9PnukVxm7eSp4C1N/kEkk=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.1/file/hbenl.vscode-mocha-test-adapter-2.13.1.vsix";
+      sha256 = "sha256-4jhf6pwTPCYB4D5KbSltiHkppWuhg3BJm9ZGfBqKpZI=";
     };
     name = "vscode-mocha-test-adapter";
     license = "MIT";
@@ -10443,10 +10443,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.66";
+    version = "0.0.67";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.66/file/leanprover.lean4-0.0.66.vsix";
-      sha256 = "sha256-hVYVF1YExsJuYe3Hoxk8L5eMR2zooJMVP3h3XqupGn4=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.67/file/leanprover.lean4-0.0.67.vsix";
+      sha256 = "sha256-QvCz/eJzPBGjOfEuHrGcyv9JaN+rb5FjsYUmZjtqr/c=";
     };
     name = "lean4";
     license = "Apache-2.0";
