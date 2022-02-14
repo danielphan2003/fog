@@ -6987,10 +6987,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1838757";
+    version = "6.1.1842468";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1838757/file/eliostruyf.vscode-front-matter-beta-6.1.1838757.vsix";
-      sha256 = "sha256-ddDY+CZ37qlG+cUULn1Zcelxyi78l6HI1IoFztpt4DE=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1842468/file/eliostruyf.vscode-front-matter-beta-6.1.1842468.vsix";
+      sha256 = "sha256-aSMaB3LHnMoj8bS1uSodMpaj4OWJ/OHoo7F7/N/WpSU=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -13983,10 +13983,10 @@
   };
   redhat-vscode-xml = {
     pname = "redhat-vscode-xml";
-    version = "0.18.3";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-xml/0.18.3/file/redhat.vscode-xml-0.18.3.vsix";
-      sha256 = "sha256-bJXd/KysaCU8Q/AxIuHNKxxL8WjXyN2BTSpqBs79Wpw=";
+      url = "https://open-vsx.org/api/redhat/vscode-xml/0.19.0/file/redhat.vscode-xml-0.19.0.vsix";
+      sha256 = "sha256-bjITy4ZLHsMO4DO2Gyk+amL9agEaonCxdKar+sZdeqg=";
     };
     name = "vscode-xml";
     license = "EPL-2.0";

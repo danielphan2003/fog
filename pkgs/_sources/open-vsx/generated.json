@@ -8783,7 +8783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1838757",
+    "version": "6.1.1842468",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8791,10 +8791,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1838757/file/eliostruyf.vscode-front-matter-beta-6.1.1838757.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1842468/file/eliostruyf.vscode-front-matter-beta-6.1.1842468.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ddDY+CZ37qlG+cUULn1Zcelxyi78l6HI1IoFztpt4DE="
+      "sha256": "sha256-aSMaB3LHnMoj8bS1uSodMpaj4OWJ/OHoo7F7/N/WpSU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18483,7 +18483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-xml",
-    "version": "0.18.3",
+    "version": "0.19.0",
     "passthru": {
       "name": "vscode-xml",
       "license": "EPL-2.0",
@@ -18491,10 +18491,10 @@
       "description": "XML Language Support by Red Hat"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-xml/0.18.3/file/redhat.vscode-xml-0.18.3.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-xml/0.19.0/file/redhat.vscode-xml-0.19.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bJXd/KysaCU8Q/AxIuHNKxxL8WjXyN2BTSpqBs79Wpw="
+      "sha256": "sha256-bjITy4ZLHsMO4DO2Gyk+amL9agEaonCxdKar+sZdeqg="
     },
     "extract": null,
     "rustGitDeps": null
