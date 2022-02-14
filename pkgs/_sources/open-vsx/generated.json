@@ -6123,7 +6123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "LeonardSSH-vscord",
-    "version": "4.4.6",
+    "version": "4.5.0",
     "passthru": {
       "name": "vscord",
       "license": "MIT",
@@ -6131,10 +6131,10 @@
       "description": "Fully customizable VS Code extension to get Discord Rich Presence integration"
     },
     "src": {
-      "url": "https://open-vsx.org/api/LeonardSSH/vscord/4.4.6/file/LeonardSSH.vscord-4.4.6.vsix",
+      "url": "https://open-vsx.org/api/LeonardSSH/vscord/4.5.0/file/LeonardSSH.vscord-4.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AVyPo2/hSBkpeAG8UKHqL3hjn0nTRxm6LHiAAYRlO5E="
+      "sha256": "sha256-0YfTB2gr9gjlvBwYYo0ixaX9N0ljcdeUGqdghT7avD4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8783,7 +8783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1842468",
+    "version": "6.1.1843101",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8791,10 +8791,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1842468/file/eliostruyf.vscode-front-matter-beta-6.1.1842468.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1843101/file/eliostruyf.vscode-front-matter-beta-6.1.1843101.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aSMaB3LHnMoj8bS1uSodMpaj4OWJ/OHoo7F7/N/WpSU="
+      "sha256": "sha256-WusRS6sWlK0PmRo4ZUwPEsM7vTbOVvGxH1szD15ajP8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11403,7 +11403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ocamllabs-ocaml-platform",
-    "version": "1.9.0",
+    "version": "1.9.1",
     "passthru": {
       "name": "ocaml-platform",
       "license": "MIT",
@@ -11411,10 +11411,10 @@
       "description": "Official OCaml language extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.0/file/ocamllabs.ocaml-platform-1.9.0.vsix",
+      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.1/file/ocamllabs.ocaml-platform-1.9.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7Bmk59gQzzbbQc+LefVcvDdo9v85a/x2Y1yvWOH5aUY="
+      "sha256": "sha256-OQLxqcSqMmGKi7Oq6elPjjEu4unKGDk961OG3bEPpkU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17643,7 +17643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TONLabs-everdev",
-    "version": "1.0.1",
+    "version": "1.1.1",
     "passthru": {
       "name": "everdev",
       "license": "Apache-2.0",
@@ -17651,10 +17651,10 @@
       "description": "Everscale Dev Environemnt"
     },
     "src": {
-      "url": "https://open-vsx.org/api/TONLabs/everdev/1.0.1/file/TONLabs.everdev-1.0.1.vsix",
+      "url": "https://open-vsx.org/api/TONLabs/everdev/1.1.1/file/TONLabs.everdev-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w8u2S+5RsQz+YTKatosRJyXkW1QO8Docr5c6HPl+e+s="
+      "sha256": "sha256-NljzUvskgXOjkWWwpyV4eHKuODAMpSbjL/sSv2K2wPc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23263,7 +23263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "timonwong-shellcheck",
-    "version": "0.18.6",
+    "version": "0.18.7",
     "passthru": {
       "name": "shellcheck",
       "license": "MIT",
@@ -23271,10 +23271,10 @@
       "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts."
     },
     "src": {
-      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.6/file/timonwong.shellcheck-0.18.6.vsix",
+      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.7/file/timonwong.shellcheck-0.18.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fq9OLBNivgONTWAigejcJC4SMAkuZYkLtRR5kIjoYMc="
+      "sha256": "sha256-c51nuqoDmhM9xO8Io10Y/GwpUcvtFz5Hxysb3fi3mPI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26823,7 +26823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mkhl-shfmt",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "passthru": {
       "name": "shfmt",
       "license": "0BSD",
@@ -26831,10 +26831,10 @@
       "description": "format shell programs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mkhl/shfmt/0.0.1/file/mkhl.shfmt-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/mkhl/shfmt/1.0.0/file/mkhl.shfmt-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RhKT3z9SeLODmDCBlFOO9RQuG/BygvwXPyxXAf9OjV8="
+      "sha256": "sha256-PgAFa4vJrYY+VSvrEGdpQ4WjrY2cyHVOkXiA8UBp1Zk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28483,7 +28483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.628",
+    "version": "31.0.629",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28491,10 +28491,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.628/file/Prisma.prisma-insider-31.0.628.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.629/file/Prisma.prisma-insider-31.0.629.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lJQfnCDfUQ4WG3wFqlHo+Rj+KQ5Y+FK8TnyUeqZd9Bs="
+      "sha256": "sha256-ETi58ot6FKrQR8inm/Y4+MPNnrdbXFKrk1IPfMoWpeo="
     },
     "extract": null,
     "rustGitDeps": null

@@ -1779,10 +1779,10 @@
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
-    version = "4.4.6";
+    version = "4.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.4.6/file/LeonardSSH.vscord-4.4.6.vsix";
-      sha256 = "sha256-AVyPo2/hSBkpeAG8UKHqL3hjn0nTRxm6LHiAAYRlO5E=";
+      url = "https://open-vsx.org/api/LeonardSSH/vscord/4.5.0/file/LeonardSSH.vscord-4.5.0.vsix";
+      sha256 = "sha256-0YfTB2gr9gjlvBwYYo0ixaX9N0ljcdeUGqdghT7avD4=";
     };
     name = "vscord";
     license = "MIT";
@@ -2595,10 +2595,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.628";
+    version = "31.0.629";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.628/file/Prisma.prisma-insider-31.0.628.vsix";
-      sha256 = "sha256-lJQfnCDfUQ4WG3wFqlHo+Rj+KQ5Y+FK8TnyUeqZd9Bs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.629/file/Prisma.prisma-insider-31.0.629.vsix";
+      sha256 = "sha256-ETi58ot6FKrQR8inm/Y4+MPNnrdbXFKrk1IPfMoWpeo=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3063,10 +3063,10 @@
   };
   TONLabs-everdev = {
     pname = "TONLabs-everdev";
-    version = "1.0.1";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TONLabs/everdev/1.0.1/file/TONLabs.everdev-1.0.1.vsix";
-      sha256 = "sha256-w8u2S+5RsQz+YTKatosRJyXkW1QO8Docr5c6HPl+e+s=";
+      url = "https://open-vsx.org/api/TONLabs/everdev/1.1.1/file/TONLabs.everdev-1.1.1.vsix";
+      sha256 = "sha256-NljzUvskgXOjkWWwpyV4eHKuODAMpSbjL/sSv2K2wPc=";
     };
     name = "everdev";
     license = "Apache-2.0";
@@ -6987,10 +6987,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1842468";
+    version = "6.1.1843101";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1842468/file/eliostruyf.vscode-front-matter-beta-6.1.1842468.vsix";
-      sha256 = "sha256-aSMaB3LHnMoj8bS1uSodMpaj4OWJ/OHoo7F7/N/WpSU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1843101/file/eliostruyf.vscode-front-matter-beta-6.1.1843101.vsix";
+      sha256 = "sha256-WusRS6sWlK0PmRo4ZUwPEsM7vTbOVvGxH1szD15ajP8=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11343,10 +11343,10 @@
   };
   mkhl-shfmt = {
     pname = "mkhl-shfmt";
-    version = "0.0.1";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mkhl/shfmt/0.0.1/file/mkhl.shfmt-0.0.1.vsix";
-      sha256 = "sha256-RhKT3z9SeLODmDCBlFOO9RQuG/BygvwXPyxXAf9OjV8=";
+      url = "https://open-vsx.org/api/mkhl/shfmt/1.0.0/file/mkhl.shfmt-1.0.0.vsix";
+      sha256 = "sha256-PgAFa4vJrYY+VSvrEGdpQ4WjrY2cyHVOkXiA8UBp1Zk=";
     };
     name = "shfmt";
     license = "0BSD";
@@ -12555,10 +12555,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.9.0";
+    version = "1.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.0/file/ocamllabs.ocaml-platform-1.9.0.vsix";
-      sha256 = "sha256-7Bmk59gQzzbbQc+LefVcvDdo9v85a/x2Y1yvWOH5aUY=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.1/file/ocamllabs.ocaml-platform-1.9.1.vsix";
+      sha256 = "sha256-OQLxqcSqMmGKi7Oq6elPjjEu4unKGDk961OG3bEPpkU=";
     };
     name = "ocaml-platform";
     license = "MIT";
@@ -16083,10 +16083,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.18.6";
+    version = "0.18.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.6/file/timonwong.shellcheck-0.18.6.vsix";
-      sha256 = "sha256-fq9OLBNivgONTWAigejcJC4SMAkuZYkLtRR5kIjoYMc=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.7/file/timonwong.shellcheck-0.18.7.vsix";
+      sha256 = "sha256-c51nuqoDmhM9xO8Io10Y/GwpUcvtFz5Hxysb3fi3mPI=";
     };
     name = "shellcheck";
     license = "MIT";
