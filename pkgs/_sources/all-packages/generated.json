@@ -1493,13 +1493,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-beta",
-    "version": "99.0.1150.11",
+    "version": "99.0.1150.16",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_99.0.1150.11-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_99.0.1150.16-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dDsOcsuIuqoNvsf8Vzp3RismjYdNflN0BA1rhlccvHE="
+      "sha256": "sha256-8IyQmb2FXotGLjjrA+7DuUKHZdVXEIfT7xyblhDST2M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "903988b39204837066898b5b8d06a428c3c1a9f7",
+    "version": "2448c000b3b7b3fc36f8f830b2bcde9855771100",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-s+M4JkPwHsbec3JgiFDRQiLXiH0raVHlDzTjhE4k5Fo=",
-      "rev": "903988b39204837066898b5b8d06a428c3c1a9f7"
+      "sha256": "sha256-M1t0kasL2URy46XlN8ZZNnFSIuli1yv2E1PsN2AXGrA=",
+      "rev": "2448c000b3b7b3fc36f8f830b2bcde9855771100"
     },
     "extract": null,
     "rustGitDeps": null
