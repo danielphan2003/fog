@@ -6987,10 +6987,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1837498";
+    version = "6.1.1838757";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1837498/file/eliostruyf.vscode-front-matter-beta-6.1.1837498.vsix";
-      sha256 = "sha256-ran05CWI1JfLO/wb87qa33UBEyfmP1eY25RB8raoER4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1838757/file/eliostruyf.vscode-front-matter-beta-6.1.1838757.vsix";
+      sha256 = "sha256-ddDY+CZ37qlG+cUULn1Zcelxyi78l6HI1IoFztpt4DE=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -7119,10 +7119,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "0.0.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.0.0/file/engn2219-anu.engn2219-2022-s1-vscode-0.0.0.vsix";
-      sha256 = "sha256-d9tW3RLTR0iPfGYhm9KtFUhYJ9svox7yeutMmevofaI=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.2.1/file/engn2219-anu.engn2219-2022-s1-vscode-0.2.1.vsix";
+      sha256 = "sha256-ed+HXVOLke0HHBXAbfqTmL6U8ae3M7sKGZZZbt1M284=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";
