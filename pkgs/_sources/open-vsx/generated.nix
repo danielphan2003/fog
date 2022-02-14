@@ -375,10 +375,10 @@
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.2/file/Catppuccin.catppuccin-vsc-1.0.2.vsix";
-      sha256 = "sha256-81rKFEWYoaFHI6N75GOogpVleuIstJtYhiwGDbuVB4I=";
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.3/file/Catppuccin.catppuccin-vsc-1.0.3.vsix";
+      sha256 = "sha256-qjp7O0wYryclWr3jqxJr//bIAuFsCTt/+lQNw6sJFzY=";
     };
     name = "catppuccin-vsc";
     license = "MIT";
@@ -2595,10 +2595,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.626";
+    version = "31.0.628";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.626/file/Prisma.prisma-insider-31.0.626.vsix";
-      sha256 = "sha256-XO7Eg3EkGfTnfdSPd4my+W7XF6lBJ6yhOtAtQoRGemc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.628/file/Prisma.prisma-insider-31.0.628.vsix";
+      sha256 = "sha256-lJQfnCDfUQ4WG3wFqlHo+Rj+KQ5Y+FK8TnyUeqZd9Bs=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5079,10 +5079,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.17/file/bilelmoussaoui.flatpak-vscode-0.0.17.vsix";
-      sha256 = "sha256-r3UTx4BFvfFBN6WAhtQWAs/O6DbPY1AVwfSklINBEP8=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.18/file/bilelmoussaoui.flatpak-vscode-0.0.18.vsix";
+      sha256 = "sha256-VfItuqP87xQ4KLdY3x84r+PCID19ohdKiGB1fV779tg=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -5679,10 +5679,10 @@
   };
   codechecker-codechecker = {
     pname = "codechecker-codechecker";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codechecker/codechecker/1.1.0/file/codechecker.codechecker-1.1.0.vsix";
-      sha256 = "sha256-96reUg9uSNdZP3DdrTo2nHA/XyiZQ8h7G4sVc98iqOc=";
+      url = "https://open-vsx.org/api/codechecker/codechecker/1.2.0/file/codechecker.codechecker-1.2.0.vsix";
+      sha256 = "sha256-/TOWvWu/w9N/c15E/QSj0mSn5k6MiTf+scT7hJjOXyA=";
     };
     name = "codechecker";
     license = "Apache-2.0";
@@ -13299,10 +13299,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.283";
+    version = "0.25.285";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.283/file/pokey.cursorless-0.25.283.vsix";
-      sha256 = "sha256-YGe2zyTRPrk5qUlDpyV0SSZ8bOwN9h6E+BTVFlC0Lh4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.285/file/pokey.cursorless-0.25.285.vsix";
+      sha256 = "sha256-Q4G+eq7isvkNj0MV+mkBKfKJ2GZRjJobkia+mnFGnUE=";
     };
     name = "cursorless";
     license = "MIT";
