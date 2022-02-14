@@ -5943,7 +5943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "toit-toit",
-    "version": "1.5.0",
+    "version": "1.6.0",
     "passthru": {
       "name": "toit",
       "license": "MIT",
@@ -5951,10 +5951,10 @@
       "description": "Toit Programming Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/toit/toit/1.5.0/file/toit.toit-1.5.0.vsix",
+      "url": "https://open-vsx.org/api/toit/toit/1.6.0/file/toit.toit-1.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0is0qgkG07Ib57OKOvaNW6xxw9BQqgzF4jeYFytRq5g="
+      "sha256": "sha256-pSk5LkmflkRvyX5A+XzFtWLSHwq7E/vfFBhgV0VdA+c="
     },
     "extract": null,
     "rustGitDeps": null

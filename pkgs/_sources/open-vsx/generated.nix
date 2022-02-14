@@ -16143,10 +16143,10 @@
   };
   toit-toit = {
     pname = "toit-toit";
-    version = "1.5.0";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toit/toit/1.5.0/file/toit.toit-1.5.0.vsix";
-      sha256 = "sha256-0is0qgkG07Ib57OKOvaNW6xxw9BQqgzF4jeYFytRq5g=";
+      url = "https://open-vsx.org/api/toit/toit/1.6.0/file/toit.toit-1.6.0.vsix";
+      sha256 = "sha256-pSk5LkmflkRvyX5A+XzFtWLSHwq7E/vfFBhgV0VdA+c=";
     };
     name = "toit";
     license = "MIT";
