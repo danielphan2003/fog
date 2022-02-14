@@ -1118,13 +1118,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "bc20300c4b659de2c02f130d3465bd996f964ac8";
+    version = "eeb46bef3346bf17211e41a1ad165ce7cd746227";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "bc20300c4b659de2c02f130d3465bd996f964ac8";
+      rev = "eeb46bef3346bf17211e41a1ad165ce7cd746227";
       fetchSubmodules = false;
-      sha256 = "sha256-ZSxxzr/5pXkQztTxGBs9yWtVdvJC6C6FXncvcde0954=";
+      sha256 = "sha256-wKCTapvtM0NRehtaFluU3EBHrkFAxFuBgt/z3rh+ItQ=";
     });
   };
   widevine-cdm = {
