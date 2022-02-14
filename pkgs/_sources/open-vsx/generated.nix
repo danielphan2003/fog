@@ -5115,10 +5115,10 @@
   };
   bmewburn-vscode-intelephense-client = {
     pname = "bmewburn-vscode-intelephense-client";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.0/file/bmewburn.vscode-intelephense-client-1.8.0.vsix";
-      sha256 = "sha256-M/+cf3/w/NxDQ/Vlap5Y5HoYRWeqrX6mWtDVW7LMgGc=";
+      url = "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.1/file/bmewburn.vscode-intelephense-client-1.8.1.vsix";
+      sha256 = "sha256-tp335iyz3kETybqkQO4dr+cgsD4HpEHvlpn/B3WREZk=";
     };
     name = "vscode-intelephense-client";
     license = "MIT";
@@ -7779,10 +7779,10 @@
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
-    version = "0.15.2";
+    version = "0.15.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.2/file/fredericbonnet.cmake-test-adapter-0.15.2.vsix";
-      sha256 = "sha256-a58ddLCKL6do2GGLbtu38wvcJpvdn8Oc66yWg6cdw+Q=";
+      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.3/file/fredericbonnet.cmake-test-adapter-0.15.3.vsix";
+      sha256 = "sha256-BIJc7AfQ/X99jYRMeMghBDSTnWje0uExoscMhX6VOGY=";
     };
     name = "cmake-test-adapter";
     license = "BSD-3-Clause";
@@ -9579,10 +9579,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.31.3";
+    version = "0.31.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.3/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.3.vsix";
-      sha256 = "sha256-mWm5wVdNL/9QeTvl1Jpx2i/pefQSIuWME8ITBseojU4=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.4/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.4.vsix";
+      sha256 = "sha256-wiwLPEYrPTeAydS/d7lc2rmgExsux1pALgkkHrhAU50=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -11079,10 +11079,10 @@
   };
   medo64-render-crlf = {
     pname = "medo64-render-crlf";
-    version = "1.5.24";
+    version = "1.5.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.24/file/medo64.render-crlf-1.5.24.vsix";
-      sha256 = "sha256-EkHv5ipaRDx8/ChUdHxcbmgurPacam6qF0eUE2KbmLc=";
+      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.25/file/medo64.render-crlf-1.5.25.vsix";
+      sha256 = "sha256-JRlApee4MKm3SbPv3ctl4v475fLhSqSyLiWF5YejxTg=";
     };
     name = "render-crlf";
     license = "MIT";
@@ -12399,15 +12399,15 @@
   };
   njpwerner-autodocstring = {
     pname = "njpwerner-autodocstring";
-    version = "0.5.4";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/njpwerner/autodocstring/0.5.4/file/njpwerner.autodocstring-0.5.4.vsix";
-      sha256 = "sha256-K6qW4lQWwxR+rVLdW53zTML2kMZLqpuJrWzcbQsU/hU=";
+      url = "https://open-vsx.org/api/njpwerner/autodocstring/0.6.0/file/njpwerner.autodocstring-0.6.0.vsix";
+      sha256 = "sha256-Yq1akjWOsNcW5FnqIPIccL5bSpTS+bgvM0hIWnjOOBk=";
     };
     name = "autodocstring";
     license = "MIT";
     publisher = "njpwerner";
-    description = "Automatically generates detailed docstrings for python functions";
+    description = "Generates python docstrings";
   };
   nju33ki-nju33-vscode-snippets = {
     pname = "nju33ki-nju33-vscode-snippets";
@@ -17343,10 +17343,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.9.0";
+    version = "11.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.9.0/file/vscode-icons-team.vscode-icons-11.9.0.vsix";
-      sha256 = "sha256-PiQtyTZ3pOd2hufplLp33I1NUFfcmBFRx4pgs8LCfnI=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.10.0/file/vscode-icons-team.vscode-icons-11.10.0.vsix";
+      sha256 = "sha256-bfpm3tE6EWqFs2PXHsrFL6Hv3MO/kYRsLPLKjxQUmGo=";
     };
     name = "vscode-icons";
     license = "MIT";

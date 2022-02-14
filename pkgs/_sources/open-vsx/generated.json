@@ -2443,7 +2443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "johnsoncodehk-vscode-typescript-vue-plugin",
-    "version": "0.31.3",
+    "version": "0.31.4",
     "passthru": {
       "name": "vscode-typescript-vue-plugin",
       "license": "MIT",
@@ -2451,10 +2451,10 @@
       "description": "Vue Plugin for TypeScript server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.3/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.3.vsix",
+      "url": "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.4/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mWm5wVdNL/9QeTvl1Jpx2i/pefQSIuWME8ITBseojU4="
+      "sha256": "sha256-wiwLPEYrPTeAydS/d7lc2rmgExsux1pALgkkHrhAU50="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4363,18 +4363,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "njpwerner-autodocstring",
-    "version": "0.5.4",
+    "version": "0.6.0",
     "passthru": {
       "name": "autodocstring",
       "license": "MIT",
       "publisher": "njpwerner",
-      "description": "Automatically generates detailed docstrings for python functions"
+      "description": "Generates python docstrings"
     },
     "src": {
-      "url": "https://open-vsx.org/api/njpwerner/autodocstring/0.5.4/file/njpwerner.autodocstring-0.5.4.vsix",
+      "url": "https://open-vsx.org/api/njpwerner/autodocstring/0.6.0/file/njpwerner.autodocstring-0.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-K6qW4lQWwxR+rVLdW53zTML2kMZLqpuJrWzcbQsU/hU="
+      "sha256": "sha256-Yq1akjWOsNcW5FnqIPIccL5bSpTS+bgvM0hIWnjOOBk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8643,7 +8643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "medo64-render-crlf",
-    "version": "1.5.24",
+    "version": "1.5.25",
     "passthru": {
       "name": "render-crlf",
       "license": "MIT",
@@ -8651,10 +8651,10 @@
       "description": "Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on."
     },
     "src": {
-      "url": "https://open-vsx.org/api/medo64/render-crlf/1.5.24/file/medo64.render-crlf-1.5.24.vsix",
+      "url": "https://open-vsx.org/api/medo64/render-crlf/1.5.25/file/medo64.render-crlf-1.5.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EkHv5ipaRDx8/ChUdHxcbmgurPacam6qF0eUE2KbmLc="
+      "sha256": "sha256-JRlApee4MKm3SbPv3ctl4v475fLhSqSyLiWF5YejxTg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9103,7 +9103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmewburn-vscode-intelephense-client",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "passthru": {
       "name": "vscode-intelephense-client",
       "license": "MIT",
@@ -9111,10 +9111,10 @@
       "description": "PHP code intelligence for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.0/file/bmewburn.vscode-intelephense-client-1.8.0.vsix",
+      "url": "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.1/file/bmewburn.vscode-intelephense-client-1.8.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-M/+cf3/w/NxDQ/Vlap5Y5HoYRWeqrX6mWtDVW7LMgGc="
+      "sha256": "sha256-tp335iyz3kETybqkQO4dr+cgsD4HpEHvlpn/B3WREZk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21443,7 +21443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscode-icons-team-vscode-icons",
-    "version": "11.9.0",
+    "version": "11.10.0",
     "passthru": {
       "name": "vscode-icons",
       "license": "MIT",
@@ -21451,10 +21451,10 @@
       "description": "Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.9.0/file/vscode-icons-team.vscode-icons-11.9.0.vsix",
+      "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.10.0/file/vscode-icons-team.vscode-icons-11.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PiQtyTZ3pOd2hufplLp33I1NUFfcmBFRx4pgs8LCfnI="
+      "sha256": "sha256-bfpm3tE6EWqFs2PXHsrFL6Hv3MO/kYRsLPLKjxQUmGo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30523,7 +30523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "fredericbonnet-cmake-test-adapter",
-    "version": "0.15.2",
+    "version": "0.15.3",
     "passthru": {
       "name": "cmake-test-adapter",
       "license": "BSD-3-Clause",
@@ -30531,10 +30531,10 @@
       "description": "Run your CMake tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.2/file/fredericbonnet.cmake-test-adapter-0.15.2.vsix",
+      "url": "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.3/file/fredericbonnet.cmake-test-adapter-0.15.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a58ddLCKL6do2GGLbtu38wvcJpvdn8Oc66yWg6cdw+Q="
+      "sha256": "sha256-BIJc7AfQ/X99jYRMeMghBDSTnWje0uExoscMhX6VOGY="
     },
     "extract": null,
     "rustGitDeps": null
