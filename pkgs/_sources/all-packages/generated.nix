@@ -678,13 +678,13 @@
   };
   pure = {
     pname = "pure";
-    version = "67a80dc72fb2ae9bebb3cffb3d6f789482c2f933";
+    version = "cf00db4eb5de99495398e26c1c1d2a19eab139f1";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "67a80dc72fb2ae9bebb3cffb3d6f789482c2f933";
+      rev = "cf00db4eb5de99495398e26c1c1d2a19eab139f1";
       fetchSubmodules = false;
-      sha256 = "sha256-CI2ontloLNIzUJghZzPZ2UPbIS+cJAfKvKeetwvW6vg=";
+      sha256 = "sha256-sHA4gEWJaaZj7KOrF0iznIuW3ruX6MEdfY/KmNkMwlQ=";
     });
   };
   pythonPackages-cfscrape = {

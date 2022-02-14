@@ -1473,7 +1473,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pure",
-    "version": "67a80dc72fb2ae9bebb3cffb3d6f789482c2f933",
+    "version": "cf00db4eb5de99495398e26c1c1d2a19eab139f1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1483,8 +1483,8 @@
       "name": null,
       "repo": "pure",
       "type": "github",
-      "sha256": "sha256-CI2ontloLNIzUJghZzPZ2UPbIS+cJAfKvKeetwvW6vg=",
-      "rev": "67a80dc72fb2ae9bebb3cffb3d6f789482c2f933"
+      "sha256": "sha256-sHA4gEWJaaZj7KOrF0iznIuW3ruX6MEdfY/KmNkMwlQ=",
+      "rev": "cf00db4eb5de99495398e26c1c1d2a19eab139f1"
     },
     "extract": null,
     "rustGitDeps": null
