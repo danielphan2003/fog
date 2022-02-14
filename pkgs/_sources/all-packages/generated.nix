@@ -276,13 +276,13 @@
   };
   droidcam = {
     pname = "droidcam";
-    version = "1a8ac86b5941d7784c73300d63654db7296d4319";
+    version = "00846d3b1547aa80877c42108b7950d94c2aa8b4";
     src = fetchFromGitHub ({
       owner = "aramg";
       repo = "droidcam";
-      rev = "1a8ac86b5941d7784c73300d63654db7296d4319";
+      rev = "00846d3b1547aa80877c42108b7950d94c2aa8b4";
       fetchSubmodules = false;
-      sha256 = "sha256-3iA7GDTiCx5vHawj8ZBFAK0BIfmxEFuQrVfL7Gi6FhM=";
+      sha256 = "sha256-AxJBpoiBnb+5Pq/h4giOYAeLlvOtAJT5sCwzPEKo7w4=";
     });
   };
   duf = {
