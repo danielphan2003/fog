@@ -9663,7 +9663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "stkb-rewrap",
-    "version": "1.16.1",
+    "version": "1.16.2",
     "passthru": {
       "name": "rewrap",
       "license": "",
@@ -9671,10 +9671,10 @@
       "description": "Hard word wrapping for comments and other text at a given column."
     },
     "src": {
-      "url": "https://open-vsx.org/api/stkb/rewrap/1.16.1/file/stkb.rewrap-1.16.1.vsix",
+      "url": "https://open-vsx.org/api/stkb/rewrap/1.16.2/file/stkb.rewrap-1.16.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OTPNbwoQmKd73g8IwLKMIbe6c7E2jKNkzwuBU/f8dmY="
+      "sha256": "sha256-DtYukdA1YyrMKq8ESMA5MNVPcWWM1lm+R+R4vmmlcWI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12003,7 +12003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.282",
+    "version": "0.25.283",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12011,10 +12011,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.282/file/pokey.cursorless-0.25.282.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.283/file/pokey.cursorless-0.25.283.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kxvXmS3m6UONBk83EsfmL9JMC8TqcAFcDWC6F8DyciY="
+      "sha256": "sha256-YGe2zyTRPrk5qUlDpyV0SSZ8bOwN9h6E+BTVFlC0Lh4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27763,7 +27763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.16",
+    "version": "0.0.17",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -27771,10 +27771,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.16/file/bilelmoussaoui.flatpak-vscode-0.0.16.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.17/file/bilelmoussaoui.flatpak-vscode-0.0.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-h+nROHZ3iNZhn66vY/+wPRF3L5C6IIcy/N4kW2yWppw="
+      "sha256": "sha256-r3UTx4BFvfFBN6WAhtQWAs/O6DbPY1AVwfSklINBEP8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28483,7 +28483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.624",
+    "version": "31.0.626",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28491,10 +28491,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.624/file/Prisma.prisma-insider-31.0.624.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.626/file/Prisma.prisma-insider-31.0.626.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2BV435NV8cFst6fJFeN2TxTgMszbSsnVUEyi8GryqpM="
+      "sha256": "sha256-XO7Eg3EkGfTnfdSPd4my+W7XF6lBJ6yhOtAtQoRGemc="
     },
     "extract": null,
     "rustGitDeps": null

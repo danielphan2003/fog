@@ -2595,10 +2595,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.624";
+    version = "31.0.626";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.624/file/Prisma.prisma-insider-31.0.624.vsix";
-      sha256 = "sha256-2BV435NV8cFst6fJFeN2TxTgMszbSsnVUEyi8GryqpM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.626/file/Prisma.prisma-insider-31.0.626.vsix";
+      sha256 = "sha256-XO7Eg3EkGfTnfdSPd4my+W7XF6lBJ6yhOtAtQoRGemc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5079,10 +5079,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.16/file/bilelmoussaoui.flatpak-vscode-0.0.16.vsix";
-      sha256 = "sha256-h+nROHZ3iNZhn66vY/+wPRF3L5C6IIcy/N4kW2yWppw=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.17/file/bilelmoussaoui.flatpak-vscode-0.0.17.vsix";
+      sha256 = "sha256-r3UTx4BFvfFBN6WAhtQWAs/O6DbPY1AVwfSklINBEP8=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -13299,10 +13299,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.282";
+    version = "0.25.283";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.282/file/pokey.cursorless-0.25.282.vsix";
-      sha256 = "sha256-kxvXmS3m6UONBk83EsfmL9JMC8TqcAFcDWC6F8DyciY=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.283/file/pokey.cursorless-0.25.283.vsix";
+      sha256 = "sha256-YGe2zyTRPrk5qUlDpyV0SSZ8bOwN9h6E+BTVFlC0Lh4=";
     };
     name = "cursorless";
     license = "MIT";
@@ -15375,10 +15375,10 @@
   };
   stkb-rewrap = {
     pname = "stkb-rewrap";
-    version = "1.16.1";
+    version = "1.16.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stkb/rewrap/1.16.1/file/stkb.rewrap-1.16.1.vsix";
-      sha256 = "sha256-OTPNbwoQmKd73g8IwLKMIbe6c7E2jKNkzwuBU/f8dmY=";
+      url = "https://open-vsx.org/api/stkb/rewrap/1.16.2/file/stkb.rewrap-1.16.2.vsix";
+      sha256 = "sha256-DtYukdA1YyrMKq8ESMA5MNVPcWWM1lm+R+R4vmmlcWI=";
     };
     name = "rewrap";
     license = "";
