@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5861";
+    version = "1.0.5862";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5861.tar.bz2";
-      sha256 = "sha256-i81IFrzX6gLjRx+NnTGPH4YmC3r20OJ0p7q5sCBSuOg=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5862.tar.bz2";
+      sha256 = "sha256-TEKKRxtMGfXD4egri9Z1Kl8m5JznPDDAhCLyuxj33Hg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5861";
+    version = "1.0.5862";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5861-1_all.deb";
-      sha256 = "sha256-+qQuARDYq+sHcvB4mZK/YYBvkh6jMNK84+M8fsX/eOQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5862-1_all.deb";
+      sha256 = "sha256-5ovGuyt5+gLacULnfcnFuFylci0jqIkUwuE/PY13uhU=";
     };
   };
   jitsi-videobridge2 = {
@@ -546,10 +546,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.33.0";
+    version = "1.33.1";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.33.0.tar.gz";
-      sha256 = "sha256-7uVz7gumQ7fG6Ilc2JuZPRZLchhBnf5edWez/Odd8Nc=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.33.1.tar.gz";
+      sha256 = "sha256-+ui6PYjFVf1/s935HDToJxY4I/Jp2EaeAmJ99Q9Lp20=";
     };
   };
   netdata-go-d-plugin = {
@@ -678,13 +678,13 @@
   };
   pure = {
     pname = "pure";
-    version = "cf00db4eb5de99495398e26c1c1d2a19eab139f1";
+    version = "c25ab93eca8275144ad1ee9c2167668e550a82f5";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "cf00db4eb5de99495398e26c1c1d2a19eab139f1";
+      rev = "c25ab93eca8275144ad1ee9c2167668e550a82f5";
       fetchSubmodules = false;
-      sha256 = "sha256-sHA4gEWJaaZj7KOrF0iznIuW3ruX6MEdfY/KmNkMwlQ=";
+      sha256 = "sha256-d5qjJHNbZVOb7e9sv2YV6ht/0IHctWIJs/dJP6aGCa4=";
     });
   };
   pythonPackages-cfscrape = {
