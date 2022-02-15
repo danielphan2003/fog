@@ -23263,7 +23263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "timonwong-shellcheck",
-    "version": "0.18.7",
+    "version": "0.18.8",
     "passthru": {
       "name": "shellcheck",
       "license": "MIT",
@@ -23271,10 +23271,10 @@
       "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts."
     },
     "src": {
-      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.7/file/timonwong.shellcheck-0.18.7.vsix",
+      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.8/file/timonwong.shellcheck-0.18.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-c51nuqoDmhM9xO8Io10Y/GwpUcvtFz5Hxysb3fi3mPI="
+      "sha256": "sha256-bdOhQrnZXtZKLrfPYOJ8d9YmC7qXH1fEH8TlzlDLx+Q="
     },
     "extract": null,
     "rustGitDeps": null
