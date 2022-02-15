@@ -11683,7 +11683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Vladeeg-vscode-theme-vdark",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "vscode-theme-vdark",
       "license": "MIT",
@@ -11691,10 +11691,10 @@
       "description": "Dark, contrast, yet easy on eyes color theme"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Vladeeg/vscode-theme-vdark/1.1.0/file/Vladeeg.vscode-theme-vdark-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/Vladeeg/vscode-theme-vdark/1.1.1/file/Vladeeg.vscode-theme-vdark-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gytV+4jIGk6xYjT5vD0iZlEv9E6qWe1EsH4g1IE3npc="
+      "sha256": "sha256-rGiMimsMJhEny8j3pHyolkHPFfI0dsYT+Z48t5stCMI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28483,7 +28483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.631",
+    "version": "31.0.633",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28491,10 +28491,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.631/file/Prisma.prisma-insider-31.0.631.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.633/file/Prisma.prisma-insider-31.0.633.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PJCvS9CC/BUSr9bMAJRkn7V7+U17o6AmimT/q9sjhGc="
+      "sha256": "sha256-nNLihqOnlRJR9azUZOtYl3h62hHoxmhaB16gynv7Gv4="
     },
     "extract": null,
     "rustGitDeps": null
