@@ -127,13 +127,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "e26069682635b734d61c251e261d8fcadcd7522c";
+    version = "bd776c98015767e156556e6651da4241b657d5bb";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "e26069682635b734d61c251e261d8fcadcd7522c";
+      rev = "bd776c98015767e156556e6651da4241b657d5bb";
       fetchSubmodules = false;
-      sha256 = "sha256-hrnDRSUbrfDa+84vSrahlFY7Tag+rcSyNUUmZRzwyZw=";
+      sha256 = "sha256-us/LNIFemFw5x2GjcFMwgG/hKAfNQGSusYGAfxOgWIA=";
     });
   };
   awestore = {
