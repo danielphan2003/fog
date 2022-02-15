@@ -2931,10 +2931,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.1219";
+    version = "2022.2.1416";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1219/file/Slint.slint-nightly-2022.2.1219.vsix";
-      sha256 = "sha256-t3YaVDWDKTRG/v1M+olvZH764OFNE+AC+CSDECtIPfY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1416/file/Slint.slint-nightly-2022.2.1416.vsix";
+      sha256 = "sha256-XryuHmSsj2e4Ju7IxH0IAKSCgm0Qk+TGceOgAq0Qfmc=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4083,10 +4083,10 @@
   };
   amiralizadeh9480-laravel-extra-intellisense = {
     pname = "amiralizadeh9480-laravel-extra-intellisense";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amiralizadeh9480/laravel-extra-intellisense/0.6.1/file/amiralizadeh9480.laravel-extra-intellisense-0.6.1.vsix";
-      sha256 = "sha256-X0fFrDepIZtYjOrJFi+42mUWXw0FXeCJZYtHE4BfCis=";
+      url = "https://open-vsx.org/api/amiralizadeh9480/laravel-extra-intellisense/0.6.2/file/amiralizadeh9480.laravel-extra-intellisense-0.6.2.vsix";
+      sha256 = "sha256-OaYFNBM4HjtUTBi0fCuW6LgCdo3Ma6TQFmK4MZmo7/E=";
     };
     name = "laravel-extra-intellisense";
     license = "MIT";
@@ -5175,10 +5175,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.7.6";
+    version = "0.7.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.6/file/bradlc.vscode-tailwindcss-0.7.6.vsix";
-      sha256 = "sha256-byUb9shwZExmMzjVnG/GXbg+fRuGqMN95CfPWjwq1Qk=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.7/file/bradlc.vscode-tailwindcss-0.7.7.vsix";
+      sha256 = "sha256-wfqYqNvwxJgqLbHkW/40y1StI/Uiw0/ViyjKGJU0Jv8=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -6135,10 +6135,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.16.3";
+    version = "0.16.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.3/file/cyrusfirheir.twee3-language-tools-0.16.3.vsix";
-      sha256 = "sha256-/DsDI9NgToDPI5TYpS/8QwO2ZrfP+z6sjIbPBKEZgCQ=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.4/file/cyrusfirheir.twee3-language-tools-0.16.4.vsix";
+      sha256 = "sha256-hd59T+7WlBthKjUKFRpqOnzrmT2hXPyR6+eLsOmU5ms=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -8331,10 +8331,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.9.0";
+    version = "0.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.9.0/file/halcyontechltd.code-for-ibmi-0.9.0.vsix";
-      sha256 = "sha256-IKKOX+J6Zoixu+yg2JxFzcN4b4cM+vKTJ86Ozt1mZxI=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.9.1/file/halcyontechltd.code-for-ibmi-0.9.1.vsix";
+      sha256 = "sha256-l3D5lSZGVWagl86+R8o2+Mh0CLrD4K5kq+gJK3VkuSc=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -12555,10 +12555,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.9.1";
+    version = "1.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.1/file/ocamllabs.ocaml-platform-1.9.1.vsix";
-      sha256 = "sha256-OQLxqcSqMmGKi7Oq6elPjjEu4unKGDk961OG3bEPpkU=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.2/file/ocamllabs.ocaml-platform-1.9.2.vsix";
+      sha256 = "sha256-dPwkyTpvzqngRPPlIZNgWzRYX57MyhweCo94Nx6M1Rc=";
     };
     name = "ocaml-platform";
     license = "MIT";
