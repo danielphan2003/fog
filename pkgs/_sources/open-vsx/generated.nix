@@ -3219,15 +3219,15 @@
   };
   Trelent-trelent = {
     pname = "Trelent-trelent";
-    version = "1.2.0";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Trelent/trelent/1.2.0/file/Trelent.trelent-1.2.0.vsix";
-      sha256 = "sha256-el0sFe44pEK3/q69Dhd2sOJzeRjkISA5nc3FqFbi0og=";
+      url = "https://open-vsx.org/api/Trelent/trelent/1.3.1/file/Trelent.trelent-1.3.1.vsix";
+      sha256 = "sha256-j6e2LIO9yaEcs58SYr+ND5i6BGAD3+fTcJgEh/hdGgs=";
     };
     name = "trelent";
     license = "We use the \8220Commons Clause\8221 License Condition v1.0 with the MIT License.";
     publisher = "Trelent";
-    description = "We write docstrings for your code!";
+    description = "We write docstrings for your code automatically!";
   };
   TshakaEricLekholoane-hy = {
     pname = "TshakaEricLekholoane-hy";
@@ -6987,10 +6987,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1843383";
+    version = "6.1.1844353";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1843383/file/eliostruyf.vscode-front-matter-beta-6.1.1843383.vsix";
-      sha256 = "sha256-pDakmsKPehh6yJhg2uSLQAumoYnXsf/bKmVt+1Cc9Fk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1844353/file/eliostruyf.vscode-front-matter-beta-6.1.1844353.vsix";
+      sha256 = "sha256-a8GcBXPO4RLq7RChjjGZTBEgvkvRHGRNAddmXNzaLFI=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
