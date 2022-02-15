@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "e04d4ff15066c16ec5d812fb19db8ef2bb847fa3";
+    version = "c66866d89092cde7c9aa834e442de1a13a1a680c";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "e04d4ff15066c16ec5d812fb19db8ef2bb847fa3";
+      rev = "c66866d89092cde7c9aa834e442de1a13a1a680c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-dJvDo0z2XPFJbc+7oA4zuJ71U0bZHv24uubYZxKx11I=";
+      sha256 = "sha256-9WktFyI1WsrYrJ4Wms5QjGKPsSGrNAr/okL9CH+j0Kk=";
     };
     cargoLock = {
-      lockFile = ./conduit-e04d4ff15066c16ec5d812fb19db8ef2bb847fa3/Cargo.lock;
+      lockFile = ./conduit-c66866d89092cde7c9aa834e442de1a13a1a680c/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-TmsNu0B6pYJfBza773lxS09xNLkr5fGMVx1/ZhHrTe4=";
@@ -527,10 +527,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "100.0.1156.1";
+    version = "100.0.1163.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_100.0.1156.1-1_amd64.deb";
-      sha256 = "sha256-+KLwASwBKFhmm7zIsXkFpdHt6EKLl5mFXShXS8FW6Sg=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_100.0.1163.1-1_amd64.deb";
+      sha256 = "sha256-WAqEzAJe8a4eW7yhyP60P5B0aAunbYuZWcUV7jtWbpQ=";
     };
   };
   minecraft-wayland = {
