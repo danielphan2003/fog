@@ -127,13 +127,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "e26069682635b734d61c251e261d8fcadcd7522c";
+    version = "bd776c98015767e156556e6651da4241b657d5bb";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "e26069682635b734d61c251e261d8fcadcd7522c";
+      rev = "bd776c98015767e156556e6651da4241b657d5bb";
       fetchSubmodules = false;
-      sha256 = "sha256-hrnDRSUbrfDa+84vSrahlFY7Tag+rcSyNUUmZRzwyZw=";
+      sha256 = "sha256-us/LNIFemFw5x2GjcFMwgG/hKAfNQGSusYGAfxOgWIA=";
     });
   };
   awestore = {
@@ -410,10 +410,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5864";
+    version = "1.0.5865";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5864.tar.bz2";
-      sha256 = "sha256-BsuQaEgDU7lUvkU1DwU1mjV3v4ovFCmKThy81ocTyPM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5865.tar.bz2";
+      sha256 = "sha256-fLTA45toxihL9lUna0sqmyZR4hWCWzioJUPdSCOU4OE=";
     };
   };
   jitsi-meet-prosody = {
@@ -426,10 +426,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-623-ge349ae32";
+    version = "2.1-624-g3a1fe3a1";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-623-ge349ae32-1_all.deb";
-      sha256 = "sha256-nFZihyhg1pCUrGYBWDNO5o1LuIBMNKl1DliHTx2BGNw=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-624-g3a1fe3a1-1_all.deb";
+      sha256 = "sha256-cgvjvqtchQ3pqwHB7RNz4ndL+Tw1UlS67hWphq8zMNQ=";
     };
   };
   layout-machi = {
