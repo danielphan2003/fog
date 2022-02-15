@@ -2595,10 +2595,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.633";
+    version = "31.0.634";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.633/file/Prisma.prisma-insider-31.0.633.vsix";
-      sha256 = "sha256-nNLihqOnlRJR9azUZOtYl3h62hHoxmhaB16gynv7Gv4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.634/file/Prisma.prisma-insider-31.0.634.vsix";
+      sha256 = "sha256-A+2ezIeeXzfnYQ6jCbudgHR/yCCTZ+naXrQPO1RD/wo=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6471,10 +6471,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.80.3";
+    version = "0.82.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.80.3/file/dendron.dendron-0.80.3.vsix";
-      sha256 = "sha256-v700/6f0wapbJMRMj35DFmctVMPkkgoqxDBDO30f36s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.82.0/file/dendron.dendron-0.82.0.vsix";
+      sha256 = "sha256-nUJ6o9DIJI17mt0v2DxjAJf2LQWUZEsZPphSQDxPufE=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -6987,10 +6987,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1844353";
+    version = "6.1.1847910";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1844353/file/eliostruyf.vscode-front-matter-beta-6.1.1844353.vsix";
-      sha256 = "sha256-a8GcBXPO4RLq7RChjjGZTBEgvkvRHGRNAddmXNzaLFI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1847910/file/eliostruyf.vscode-front-matter-beta-6.1.1847910.vsix";
+      sha256 = "sha256-N7e85DZucQY6UBGRQGbYVsVdxqLVGw810Z2enQKf6Lo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11931,15 +11931,15 @@
   };
   mtsmfm-vscode-jscad-preview = {
     pname = "mtsmfm-vscode-jscad-preview";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.2.1/file/mtsmfm.vscode-jscad-preview-0.2.1.vsix";
-      sha256 = "sha256-sS66hvx6goM7h0BSTUj5pHQ10QCtfkY8dMMSRdhd/XM=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.2.2/file/mtsmfm.vscode-jscad-preview-0.2.2.vsix";
+      sha256 = "sha256-PHGsFk9/3tq4wULVirLLnVBqogen1pXmL/om4Di23sU=";
     };
     name = "vscode-jscad-preview";
     license = "MIT";
     publisher = "mtsmfm";
-    description = "";
+    description = "A previewer for JSCAD rendering result JSON";
   };
   mtsmfm-vscode-k8s-quick-attach = {
     pname = "mtsmfm-vscode-k8s-quick-attach";
@@ -15387,10 +15387,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.6";
+    version = "2.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.6/file/streetsidesoftware.code-spell-checker-2.1.6.vsix";
-      sha256 = "sha256-k1v9ewVEj9rOYJ9qv9SH5zugEtbi3/WsyArfAdXrzJc=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.7/file/streetsidesoftware.code-spell-checker-2.1.7.vsix";
+      sha256 = "sha256-C0jYDIDBK1JH8eFaFmCUilBXCbU5y2TRF3OZAw9ijoY=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";
