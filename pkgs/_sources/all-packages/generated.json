@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5864",
+    "version": "1.0.5865",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5864.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5865.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BsuQaEgDU7lUvkU1DwU1mjV3v4ovFCmKThy81ocTyPM="
+      "sha256": "sha256-fLTA45toxihL9lUna0sqmyZR4hWCWzioJUPdSCOU4OE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-623-ge349ae32",
+    "version": "2.1-624-g3a1fe3a1",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-623-ge349ae32-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-624-g3a1fe3a1-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nFZihyhg1pCUrGYBWDNO5o1LuIBMNKl1DliHTx2BGNw="
+      "sha256": "sha256-cgvjvqtchQ3pqwHB7RNz4ndL+Tw1UlS67hWphq8zMNQ="
     },
     "extract": null,
     "rustGitDeps": null
