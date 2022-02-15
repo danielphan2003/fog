@@ -6987,10 +6987,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1847910";
+    version = "6.1.1848923";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1847910/file/eliostruyf.vscode-front-matter-beta-6.1.1847910.vsix";
-      sha256 = "sha256-N7e85DZucQY6UBGRQGbYVsVdxqLVGw810Z2enQKf6Lo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1848923/file/eliostruyf.vscode-front-matter-beta-6.1.1848923.vsix";
+      sha256 = "sha256-vA9dhDOzTBIqdgKoRrBmT7DKBEXnhft+8Jzcfh2gqr8=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10443,10 +10443,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.67";
+    version = "0.0.68";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.67/file/leanprover.lean4-0.0.67.vsix";
-      sha256 = "sha256-QvCz/eJzPBGjOfEuHrGcyv9JaN+rb5FjsYUmZjtqr/c=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.68/file/leanprover.lean4-0.0.68.vsix";
+      sha256 = "sha256-LkWka/Y+KVlJHubby0rptpPZ9Q3oQqqbhtrt3KIqKco=";
     };
     name = "lean4";
     license = "Apache-2.0";

@@ -6263,7 +6263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.67",
+    "version": "0.0.68",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -6271,10 +6271,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.67/file/leanprover.lean4-0.0.67.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.68/file/leanprover.lean4-0.0.68.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QvCz/eJzPBGjOfEuHrGcyv9JaN+rb5FjsYUmZjtqr/c="
+      "sha256": "sha256-LkWka/Y+KVlJHubby0rptpPZ9Q3oQqqbhtrt3KIqKco="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8783,7 +8783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1847910",
+    "version": "6.1.1848923",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8791,10 +8791,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1847910/file/eliostruyf.vscode-front-matter-beta-6.1.1847910.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1848923/file/eliostruyf.vscode-front-matter-beta-6.1.1848923.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-N7e85DZucQY6UBGRQGbYVsVdxqLVGw810Z2enQKf6Lo="
+      "sha256": "sha256-vA9dhDOzTBIqdgKoRrBmT7DKBEXnhft+8Jzcfh2gqr8="
     },
     "extract": null,
     "rustGitDeps": null
