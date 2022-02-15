@@ -2595,10 +2595,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.634";
+    version = "31.0.635";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.634/file/Prisma.prisma-insider-31.0.634.vsix";
-      sha256 = "sha256-A+2ezIeeXzfnYQ6jCbudgHR/yCCTZ+naXrQPO1RD/wo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.635/file/Prisma.prisma-insider-31.0.635.vsix";
+      sha256 = "sha256-MLjJZwgCt4A++phVS67pOZS8vB3dVoe64gDSTGcQJCA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2955,10 +2955,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.3.0";
+    version = "3.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.3.0/file/SonarSource.sonarlint-vscode-3.3.0.vsix";
-      sha256 = "sha256-cAnPOcccODTIg/wTB2rzHi8z2I3uP6bTET5i1z0Ifb0=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.3.3/file/SonarSource.sonarlint-vscode-3.3.3.vsix";
+      sha256 = "sha256-+SrPagZPiMcNZtreLpCttR1tDyXcO6jTY9x2aXqHkpc=";
     };
     name = "sonarlint-vscode";
     license = "LGPL-3.0";
@@ -9951,10 +9951,10 @@
   };
   kevgo-vscode-markdown-ide = {
     pname = "kevgo-vscode-markdown-ide";
-    version = "0.0.6";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kevgo/vscode-markdown-ide/0.0.6/file/kevgo.vscode-markdown-ide-0.0.6.vsix";
-      sha256 = "sha256-q/gboSD6l+DtIeC9zP9GZEBPxaVsd86JZvA9GPDBy2I=";
+      url = "https://open-vsx.org/api/kevgo/vscode-markdown-ide/0.2.1/file/kevgo.vscode-markdown-ide-0.2.1.vsix";
+      sha256 = "sha256-BjCqT104epwGRK+qVlIMBWd/oq984QbepBnBf/s3xus=";
     };
     name = "vscode-markdown-ide";
     license = "ISC";
@@ -13299,10 +13299,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.286";
+    version = "0.25.287";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.286/file/pokey.cursorless-0.25.286.vsix";
-      sha256 = "sha256-MOYoOFo+gEwNjmZkiFXhSbn8bWfB2PbPW2VaacE27bc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.287/file/pokey.cursorless-0.25.287.vsix";
+      sha256 = "sha256-9nu8s97aUx5wkvPfhbvlc+UGeyUGHFc5kNoSFP18fJ4=";
     };
     name = "cursorless";
     license = "MIT";
@@ -13983,10 +13983,10 @@
   };
   redhat-vscode-xml = {
     pname = "redhat-vscode-xml";
-    version = "0.19.0";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-xml/0.19.0/file/redhat.vscode-xml-0.19.0.vsix";
-      sha256 = "sha256-bjITy4ZLHsMO4DO2Gyk+amL9agEaonCxdKar+sZdeqg=";
+      url = "https://open-vsx.org/api/redhat/vscode-xml/0.19.1/file/redhat.vscode-xml-0.19.1.vsix";
+      sha256 = "sha256-PyUOZFXtrBTXlrZsWS/zo1fVHldlNXNwEd8vnkD1lEw=";
     };
     name = "vscode-xml";
     license = "EPL-2.0";
