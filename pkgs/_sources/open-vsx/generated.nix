@@ -2595,10 +2595,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.631";
+    version = "31.0.633";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.631/file/Prisma.prisma-insider-31.0.631.vsix";
-      sha256 = "sha256-PJCvS9CC/BUSr9bMAJRkn7V7+U17o6AmimT/q9sjhGc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.633/file/Prisma.prisma-insider-31.0.633.vsix";
+      sha256 = "sha256-nNLihqOnlRJR9azUZOtYl3h62hHoxmhaB16gynv7Gv4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3327,10 +3327,10 @@
   };
   Vladeeg-vscode-theme-vdark = {
     pname = "Vladeeg-vscode-theme-vdark";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Vladeeg/vscode-theme-vdark/1.1.0/file/Vladeeg.vscode-theme-vdark-1.1.0.vsix";
-      sha256 = "sha256-gytV+4jIGk6xYjT5vD0iZlEv9E6qWe1EsH4g1IE3npc=";
+      url = "https://open-vsx.org/api/Vladeeg/vscode-theme-vdark/1.1.1/file/Vladeeg.vscode-theme-vdark-1.1.1.vsix";
+      sha256 = "sha256-rGiMimsMJhEny8j3pHyolkHPFfI0dsYT+Z48t5stCMI=";
     };
     name = "vscode-theme-vdark";
     license = "MIT";
