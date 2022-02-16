@@ -1453,7 +1453,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ydotool",
-    "version": "925b2ccc24a6644c2e4be37d9fb64274ee044f76",
+    "version": "81195bfde8f9b5218e6e87bbd6f6e362a7653aad",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1463,8 +1463,8 @@
       "name": null,
       "repo": "ydotool",
       "type": "github",
-      "sha256": "sha256-BvRNrA4kCLWoQrDpIeyFcxObFnuBIxUHpxx17yTKoBs=",
-      "rev": "925b2ccc24a6644c2e4be37d9fb64274ee044f76"
+      "sha256": "sha256-maXXGCqB8dkGO8956hsKSwM4HQdYn6z1jBFENQ9sKcA=",
+      "rev": "81195bfde8f9b5218e6e87bbd6f6e362a7653aad"
     },
     "extract": null,
     "rustGitDeps": null
