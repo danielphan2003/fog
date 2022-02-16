@@ -1585,6 +1585,18 @@
     publisher = "JFrog";
     description = "JFrog Xray scanning of Go, npm, Pypi, Maven and NuGet project dependencies.";
   };
+  Jaakko-black = {
+    pname = "Jaakko-black";
+    version = "0.12.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Jaakko/black/0.12.0/file/Jaakko.black-0.12.0.vsix";
+      sha256 = "sha256-UC6ej8g3HJBXM60dDXLDQN76Y/IqWBaaFJWZbM9Y9NE=";
+    };
+    name = "black";
+    license = "MIT";
+    publisher = "Jaakko";
+    description = "Color theme with black background.";
+  };
   JacquesLucke-gcov-viewer = {
     pname = "JacquesLucke-gcov-viewer";
     version = "0.4.0";
@@ -2607,10 +2619,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.635";
+    version = "31.0.636";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.635/file/Prisma.prisma-insider-31.0.635.vsix";
-      sha256 = "sha256-MLjJZwgCt4A++phVS67pOZS8vB3dVoe64gDSTGcQJCA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.636/file/Prisma.prisma-insider-31.0.636.vsix";
+      sha256 = "sha256-pRb4WyQOB0BDVHFXbyBqpKVnyDWpZkFkwJdBC4+u1bU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
