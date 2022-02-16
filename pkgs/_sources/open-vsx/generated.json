@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.81.6",
+    "version": "0.82.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.81.6/file/dendron.nightly-0.81.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.82.1/file/dendron.nightly-0.82.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ifV3k8UNBP2fWKWw27sZDDAxMYoHGV2EUdzNh8LnmmY="
+      "sha256": "sha256-ed4m5MpJ7EsTWJ99cszL9DsZF10vYuwpm2cWCGPlpn4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28523,7 +28523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.636",
+    "version": "31.0.637",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28531,10 +28531,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.636/file/Prisma.prisma-insider-31.0.636.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.637/file/Prisma.prisma-insider-31.0.637.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pRb4WyQOB0BDVHFXbyBqpKVnyDWpZkFkwJdBC4+u1bU="
+      "sha256": "sha256-2qPDBHPHGosqhcuMEGaIVJbZFITnS/ZmMuUA6ZymuBU="
     },
     "extract": null,
     "rustGitDeps": null
