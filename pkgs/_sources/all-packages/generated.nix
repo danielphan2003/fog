@@ -678,13 +678,13 @@
   };
   pure = {
     pname = "pure";
-    version = "c25ab93eca8275144ad1ee9c2167668e550a82f5";
+    version = "5b458ba5b75f49a8071d53c343f1a23631f7bced";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "c25ab93eca8275144ad1ee9c2167668e550a82f5";
+      rev = "5b458ba5b75f49a8071d53c343f1a23631f7bced";
       fetchSubmodules = false;
-      sha256 = "sha256-d5qjJHNbZVOb7e9sv2YV6ht/0IHctWIJs/dJP6aGCa4=";
+      sha256 = "sha256-iuLi0o++e0PqK81AKWfIbCV0CTIxq2Oki6U2oEYsr68=";
     });
   };
   pythonPackages-cfscrape = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2ff481ff10ad23c30741e9be2c9c5b05d8cefef0";
+    version = "72d8672ef75d1618caf1395fa3d1e61d7f72bb87";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2ff481ff10ad23c30741e9be2c9c5b05d8cefef0";
+      rev = "72d8672ef75d1618caf1395fa3d1e61d7f72bb87";
       fetchSubmodules = false;
-      sha256 = "sha256-QB6gJwSxPrmw+NJd7wYxm2huwGeKI3u8shb6/hO43nw=";
+      sha256 = "sha256-pHp9glCEaYuOZnYZ2TYkph0MftmdBp0Lh+vMfLIThlY=";
     });
   };
   tailscale-systray = {
