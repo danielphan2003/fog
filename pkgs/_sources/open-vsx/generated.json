@@ -3943,7 +3943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barjo-anirak",
-    "version": "6.3.0",
+    "version": "6.3.1",
     "passthru": {
       "name": "anirak",
       "license": "Apache-2.0",
@@ -3951,10 +3951,10 @@
       "description": "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barjo/anirak/6.3.0/file/barjo.anirak-6.3.0.vsix",
+      "url": "https://open-vsx.org/api/barjo/anirak/6.3.1/file/barjo.anirak-6.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2/XPa7xAFliwow6NhZTx4oQOSjXJZI1Tt2+LJrIPJCA="
+      "sha256": "sha256-lCtPT+fbCZQfv2+eLMykDn/qbwOrsdMSRLXlk0r8yEU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5355,6 +5355,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-oHPOe6lwXPeaKHNoChQz6jCUCYI30nYvZtwLq2DpDhU="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "epsilon-language-epsilon": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "epsilon-language-epsilon",
+    "version": "1.2.1",
+    "passthru": {
+      "name": "language-epsilon",
+      "license": "MIT",
+      "publisher": "epsilon",
+      "description": "Epsilon Languages"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/epsilon/language-epsilon/1.2.1/file/epsilon.language-epsilon-1.2.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-BCDXhOUqm7m+Sdk6rwHmF3Bo7qTwNE/lgyeNBUH5Z/0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28523,7 +28543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.639",
+    "version": "31.0.640",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28531,10 +28551,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.639/file/Prisma.prisma-insider-31.0.639.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.640/file/Prisma.prisma-insider-31.0.640.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-U3wrNqb4J/eH70UaYYpkRwSljxBYrzKfFj5na7mi7ZU="
+      "sha256": "sha256-F/Lh0Gq9dZ/lMNiCUrV9QsLLyCQFndM+n7vJF9rWJLg="
     },
     "extract": null,
     "rustGitDeps": null

@@ -2619,10 +2619,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.639";
+    version = "31.0.640";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.639/file/Prisma.prisma-insider-31.0.639.vsix";
-      sha256 = "sha256-U3wrNqb4J/eH70UaYYpkRwSljxBYrzKfFj5na7mi7ZU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.640/file/Prisma.prisma-insider-31.0.640.vsix";
+      sha256 = "sha256-F/Lh0Gq9dZ/lMNiCUrV9QsLLyCQFndM+n7vJF9rWJLg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4899,10 +4899,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.3.0";
+    version = "6.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.3.0/file/barjo.anirak-6.3.0.vsix";
-      sha256 = "sha256-2/XPa7xAFliwow6NhZTx4oQOSjXJZI1Tt2+LJrIPJCA=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.3.1/file/barjo.anirak-6.3.1.vsix";
+      sha256 = "sha256-lCtPT+fbCZQfv2+eLMykDn/qbwOrsdMSRLXlk0r8yEU=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -7176,6 +7176,18 @@
     license = "MIT";
     publisher = "entan-gl";
     description = "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators.";
+  };
+  epsilon-language-epsilon = {
+    pname = "epsilon-language-epsilon";
+    version = "1.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/epsilon/language-epsilon/1.2.1/file/epsilon.language-epsilon-1.2.1.vsix";
+      sha256 = "sha256-BCDXhOUqm7m+Sdk6rwHmF3Bo7qTwNE/lgyeNBUH5Z/0=";
+    };
+    name = "language-epsilon";
+    license = "MIT";
+    publisher = "epsilon";
+    description = "Epsilon Languages";
   };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
