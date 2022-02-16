@@ -1663,7 +1663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xwayland",
-    "version": "6ad6517a796cb4536d368091b647423981ad1217",
+    "version": "43e934a19f644cddedae73602e86429c9dc5074a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1672,8 +1672,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-HaMv1lcM4js42jvayNSmfkBbUgrvE8zQN74TmHGxjO4=",
-      "rev": "6ad6517a796cb4536d368091b647423981ad1217"
+      "sha256": "sha256-5hbSPIRFY4ntZphjgzmdKjTcqrbLOBsVUbCnG3agfJA=",
+      "rev": "43e934a19f644cddedae73602e86429c9dc5074a"
     },
     "extract": null,
     "rustGitDeps": null
