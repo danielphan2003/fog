@@ -2149,6 +2149,18 @@
     publisher = "Matronator";
     description = "XML Snippets for HaxeUI components";
   };
+  MatthewNespor-vscode-color-identifiers-mode = {
+    pname = "MatthewNespor-vscode-color-identifiers-mode";
+    version = "1.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/MatthewNespor/vscode-color-identifiers-mode/1.2.0/file/MatthewNespor.vscode-color-identifiers-mode-1.2.0.vsix";
+      sha256 = "sha256-K+lZrT1Yc7Ggrmr9JAQs3GVP5pDjaKLS+pwG9oUGN/g=";
+    };
+    name = "vscode-color-identifiers-mode";
+    license = "GPL-3.0-or-later";
+    publisher = "MatthewNespor";
+    description = "Gives each identifier a distinct color.";
+  };
   MattiasBaake-vscode-snippets-for-ansible = {
     pname = "MattiasBaake-vscode-snippets-for-ansible";
     version = "1.1.0";
@@ -2931,10 +2943,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.1416";
+    version = "2022.2.1516";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1416/file/Slint.slint-nightly-2022.2.1416.vsix";
-      sha256 = "sha256-XryuHmSsj2e4Ju7IxH0IAKSCgm0Qk+TGceOgAq0Qfmc=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1516/file/Slint.slint-nightly-2022.2.1516.vsix";
+      sha256 = "sha256-xK2j+GvfOk5We4VHm5SkLUG4zPCwEYXauk3H5Btuf+8=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -12399,15 +12411,15 @@
   };
   njpwerner-autodocstring = {
     pname = "njpwerner-autodocstring";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/njpwerner/autodocstring/0.6.0/file/njpwerner.autodocstring-0.6.0.vsix";
-      sha256 = "sha256-Yq1akjWOsNcW5FnqIPIccL5bSpTS+bgvM0hIWnjOOBk=";
+      url = "https://open-vsx.org/api/njpwerner/autodocstring/0.6.1/file/njpwerner.autodocstring-0.6.1.vsix";
+      sha256 = "sha256-ocuAN/GTY41eggT1aYEJr0vgOf1jYhtniYQknlkDYRQ=";
     };
     name = "autodocstring";
     license = "MIT";
     publisher = "njpwerner";
-    description = "Generates python docstrings";
+    description = "Generates python docstrings automatically";
   };
   nju33ki-nju33-vscode-snippets = {
     pname = "nju33ki-nju33-vscode-snippets";
