@@ -2619,10 +2619,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.637";
+    version = "31.0.638";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.637/file/Prisma.prisma-insider-31.0.637.vsix";
-      sha256 = "sha256-2qPDBHPHGosqhcuMEGaIVJbZFITnS/ZmMuUA6ZymuBU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.638/file/Prisma.prisma-insider-31.0.638.vsix";
+      sha256 = "sha256-L1C6BVcxONoGmI7zmPfZc7/z7qAzDfqs7G7XtoaLsRs=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15807,10 +15807,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.11.3";
+    version = "105.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.11.3/file/svelte.svelte-vscode-105.11.3.vsix";
-      sha256 = "sha256-31/vmNGFRXEH9F0sQvXixHx9toYWwtyH/ZIQOd0KVss=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.12.0/file/svelte.svelte-vscode-105.12.0.vsix";
+      sha256 = "sha256-NFkaM/EBUqfmp5PjCWAXSXIuASx7X4/raZ/1BbJ0+Ew=";
     };
     name = "svelte-vscode";
     license = "MIT";
