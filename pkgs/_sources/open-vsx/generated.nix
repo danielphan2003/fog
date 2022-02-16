@@ -10611,10 +10611,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.7";
+    version = "0.4.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.7/file/ligolang-publish.ligo-vscode-0.4.7.vsix";
-      sha256 = "sha256-zy2LmekRtT7bBZ2t+Rp2vfSAyTVwzDAAXB+DwOqLLfs=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.8/file/ligolang-publish.ligo-vscode-0.4.8.vsix";
+      sha256 = "sha256-8oLeIwlQ0KDZsy/UOm0J/B9dXrI5G6Ex4Oii/Z2HfmE=";
     };
     name = "ligo-vscode";
     license = "MIT";
@@ -15807,10 +15807,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.12.0";
+    version = "105.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.12.0/file/svelte.svelte-vscode-105.12.0.vsix";
-      sha256 = "sha256-NFkaM/EBUqfmp5PjCWAXSXIuASx7X4/raZ/1BbJ0+Ew=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.12.1/file/svelte.svelte-vscode-105.12.1.vsix";
+      sha256 = "sha256-7HWa3pHBQqBeDVPlhAmXlsr+fDu87CCI8RG9VY5xHeY=";
     };
     name = "svelte-vscode";
     license = "MIT";

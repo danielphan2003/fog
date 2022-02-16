@@ -8443,7 +8443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "svelte-svelte-vscode",
-    "version": "105.12.0",
+    "version": "105.12.1",
     "passthru": {
       "name": "svelte-vscode",
       "license": "MIT",
@@ -8451,10 +8451,10 @@
       "description": "Svelte language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.12.0/file/svelte.svelte-vscode-105.12.0.vsix",
+      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.12.1/file/svelte.svelte-vscode-105.12.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NFkaM/EBUqfmp5PjCWAXSXIuASx7X4/raZ/1BbJ0+Ew="
+      "sha256": "sha256-7HWa3pHBQqBeDVPlhAmXlsr+fDu87CCI8RG9VY5xHeY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25283,7 +25283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ligolang-publish-ligo-vscode",
-    "version": "0.4.7",
+    "version": "0.4.8",
     "passthru": {
       "name": "ligo-vscode",
       "license": "MIT",
@@ -25291,10 +25291,10 @@
       "description": "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.7/file/ligolang-publish.ligo-vscode-0.4.7.vsix",
+      "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.8/file/ligolang-publish.ligo-vscode-0.4.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zy2LmekRtT7bBZ2t+Rp2vfSAyTVwzDAAXB+DwOqLLfs="
+      "sha256": "sha256-8oLeIwlQ0KDZsy/UOm0J/B9dXrI5G6Ex4Oii/Z2HfmE="
     },
     "extract": null,
     "rustGitDeps": null
