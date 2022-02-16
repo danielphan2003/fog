@@ -563,7 +563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -571,10 +571,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.1/file/halcyontechltd.vscode-rpgle-0.6.1.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.2/file/halcyontechltd.vscode-rpgle-0.6.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RTf35pn/WUgU3U8zXN1LSyZFcEkQdtO8c+JABeDLEjc="
+      "sha256": "sha256-uMr5Kmr57JztNh/Bi+c2yZ1gRRSyq2HdQkFBujIls5M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12103,7 +12103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nickmillerdev-pytest-fixtures",
-    "version": "0.1.11",
+    "version": "0.1.12",
     "passthru": {
       "name": "pytest-fixtures",
       "license": "MIT",
@@ -12111,10 +12111,10 @@
       "description": "Pytest fixtures support for vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.11/file/nickmillerdev.pytest-fixtures-0.1.11.vsix",
+      "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.12/file/nickmillerdev.pytest-fixtures-0.1.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jyYJFpIoLrA/GP0t/HVV0kd7BueH7gQHi8rTyKT1LgA="
+      "sha256": "sha256-HkF/AbqHuyx4UCon+ohUb8h0q4bmU3l9eE9+BAcLVXY="
     },
     "extract": null,
     "rustGitDeps": null

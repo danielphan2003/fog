@@ -8355,10 +8355,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.1/file/halcyontechltd.vscode-rpgle-0.6.1.vsix";
-      sha256 = "sha256-RTf35pn/WUgU3U8zXN1LSyZFcEkQdtO8c+JABeDLEjc=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.2/file/halcyontechltd.vscode-rpgle-0.6.2.vsix";
+      sha256 = "sha256-uMr5Kmr57JztNh/Bi+c2yZ1gRRSyq2HdQkFBujIls5M=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -12339,10 +12339,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.1.11";
+    version = "0.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.11/file/nickmillerdev.pytest-fixtures-0.1.11.vsix";
-      sha256 = "sha256-jyYJFpIoLrA/GP0t/HVV0kd7BueH7gQHi8rTyKT1LgA=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.12/file/nickmillerdev.pytest-fixtures-0.1.12.vsix";
+      sha256 = "sha256-HkF/AbqHuyx4UCon+ohUb8h0q4bmU3l9eE9+BAcLVXY=";
     };
     name = "pytest-fixtures";
     license = "MIT";
