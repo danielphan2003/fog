@@ -2619,10 +2619,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.638";
+    version = "31.0.639";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.638/file/Prisma.prisma-insider-31.0.638.vsix";
-      sha256 = "sha256-L1C6BVcxONoGmI7zmPfZc7/z7qAzDfqs7G7XtoaLsRs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.639/file/Prisma.prisma-insider-31.0.639.vsix";
+      sha256 = "sha256-U3wrNqb4J/eH70UaYYpkRwSljxBYrzKfFj5na7mi7ZU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4755,10 +4755,10 @@
   };
   atlassian-atlascode = {
     pname = "atlassian-atlascode";
-    version = "2.10.7";
+    version = "2.10.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.7/file/atlassian.atlascode-2.10.7.vsix";
-      sha256 = "sha256-bw5rL6qSpJDIIKrMsLGGZzpyvsWvKnGB5wos8F0BBCw=";
+      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.9/file/atlassian.atlascode-2.10.9.vsix";
+      sha256 = "sha256-8j7gnMIThObU2WcAVJ6LBdjPUKrPQ470dw9gk4bFk6k=";
     };
     name = "atlascode";
     license = "MIT";
@@ -7011,10 +7011,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1848923";
+    version = "6.1.1854323";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1848923/file/eliostruyf.vscode-front-matter-beta-6.1.1848923.vsix";
-      sha256 = "sha256-vA9dhDOzTBIqdgKoRrBmT7DKBEXnhft+8Jzcfh2gqr8=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1854323/file/eliostruyf.vscode-front-matter-beta-6.1.1854323.vsix";
+      sha256 = "sha256-RqDpEGpIYDrfTyp9pMLSm/2csnZSNrwzAYTlazetgGo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
