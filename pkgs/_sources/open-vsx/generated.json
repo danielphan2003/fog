@@ -5503,7 +5503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5511,10 +5511,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.0/file/gitduck.code-streaming-0.4.0.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.1/file/gitduck.code-streaming-0.4.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ULUy/qJRuwA1mfU+O3oRTVdGhsGfPXcVdTTNbdFpsXg="
+      "sha256": "sha256-cREiMr1QUt7199g14nwA3lllBfjoSLd/iMhp/vb+FFk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8863,7 +8863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.24",
+    "version": "3.5.25",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -8871,10 +8871,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.24/file/TabNine.tabnine-vscode-3.5.24.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.25/file/TabNine.tabnine-vscode-3.5.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AxDytroQlK7lwHnoXNyjTCaVq+W2s8VdWDzT2ValUuM="
+      "sha256": "sha256-DlbCj8RkpQgo8rQ4t8957idUAtzqqEu2I25F8aDnuSA="
     },
     "extract": null,
     "rustGitDeps": null

@@ -3111,10 +3111,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.24";
+    version = "3.5.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.24/file/TabNine.tabnine-vscode-3.5.24.vsix";
-      sha256 = "sha256-AxDytroQlK7lwHnoXNyjTCaVq+W2s8VdWDzT2ValUuM=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.25/file/TabNine.tabnine-vscode-3.5.25.vsix";
+      sha256 = "sha256-DlbCj8RkpQgo8rQ4t8957idUAtzqqEu2I25F8aDnuSA=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -8115,10 +8115,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.0/file/gitduck.code-streaming-0.4.0.vsix";
-      sha256 = "sha256-ULUy/qJRuwA1mfU+O3oRTVdGhsGfPXcVdTTNbdFpsXg=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.1/file/gitduck.code-streaming-0.4.1.vsix";
+      sha256 = "sha256-cREiMr1QUt7199g14nwA3lllBfjoSLd/iMhp/vb+FFk=";
     };
     name = "code-streaming";
     license = "Custom";
