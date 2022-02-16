@@ -1539,10 +1539,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "5.10.2";
+    version = "5.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.10.2/file/Ionide.Ionide-fsharp-5.10.2.vsix";
-      sha256 = "sha256-PQlDzcQPr/vfKhUWCrunTMDL8VhaQ+60PnLX74zSS/g=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.0/file/Ionide.Ionide-fsharp-5.11.0.vsix";
+      sha256 = "sha256-8a9gvBVQA11GcVO/MLGYDDxn2O8xAi9xdCayec362Ns=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -13635,10 +13635,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.11.1";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.11.1/file/rangav.vscode-thunder-client-1.11.1.vsix";
-      sha256 = "sha256-O6PYRyj7Hc6H5y9/jQVYKKiCbFXggdmn9Ql55FIqe/U=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.0/file/rangav.vscode-thunder-client-1.12.0.vsix";
+      sha256 = "sha256-n+YMSE2DzIOMRwNQ6GdvN3apejcIOwqdUGoN1rUfndI=";
     };
     name = "vscode-thunder-client";
     license = "";
