@@ -426,10 +426,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-624-g3a1fe3a1";
+    version = "2.1-626-g76149088";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-624-g3a1fe3a1-1_all.deb";
-      sha256 = "sha256-cgvjvqtchQ3pqwHB7RNz4ndL+Tw1UlS67hWphq8zMNQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-626-g76149088-1_all.deb";
+      sha256 = "sha256-xnOLalbATYSHQeY35fDf+UcXLJ/jSTXk2zEirvnF62o=";
     };
   };
   layout-machi = {
@@ -1193,14 +1193,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "43e934a19f644cddedae73602e86429c9dc5074a";
+    version = "7d2014e7d523e10623203582b9f573303750f087";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "43e934a19f644cddedae73602e86429c9dc5074a";
+      rev = "7d2014e7d523e10623203582b9f573303750f087";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5hbSPIRFY4ntZphjgzmdKjTcqrbLOBsVUbCnG3agfJA=";
+      sha256 = "sha256-uErVF/FgbXU4iDyn7boYoly3mF4dMqnZhj7FL4VN4yY=";
     };
   };
   ydotool = {

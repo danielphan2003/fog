@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-624-g3a1fe3a1",
+    "version": "2.1-626-g76149088",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-624-g3a1fe3a1-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-626-g76149088-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cgvjvqtchQ3pqwHB7RNz4ndL+Tw1UlS67hWphq8zMNQ="
+      "sha256": "sha256-xnOLalbATYSHQeY35fDf+UcXLJ/jSTXk2zEirvnF62o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1663,7 +1663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xwayland",
-    "version": "43e934a19f644cddedae73602e86429c9dc5074a",
+    "version": "7d2014e7d523e10623203582b9f573303750f087",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1672,8 +1672,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-5hbSPIRFY4ntZphjgzmdKjTcqrbLOBsVUbCnG3agfJA=",
-      "rev": "43e934a19f644cddedae73602e86429c9dc5074a"
+      "sha256": "sha256-uErVF/FgbXU4iDyn7boYoly3mF4dMqnZhj7FL4VN4yY=",
+      "rev": "7d2014e7d523e10623203582b9f573303750f087"
     },
     "extract": null,
     "rustGitDeps": null
