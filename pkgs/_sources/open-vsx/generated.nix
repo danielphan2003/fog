@@ -2631,10 +2631,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.642";
+    version = "31.0.643";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.642/file/Prisma.prisma-insider-31.0.642.vsix";
-      sha256 = "sha256-hJXRHs0hrtGF2iPiiBkq4OmiwZ6vr2+rbxXpFLM8SQo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.643/file/Prisma.prisma-insider-31.0.643.vsix";
+      sha256 = "sha256-B2BhaaHMe/jdYUEAj9eDF+bfYB4LAvSgMqH/ZUVAA0s=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8043,10 +8043,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.1";
+    version = "2022.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.1/file/genuitecllc.codetogether-2022.1.1.vsix";
-      sha256 = "sha256-10YWhMpCn2/CR3lF6A7BfVZ8W/pLHn0+nIXR346Hflw=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.2/file/genuitecllc.codetogether-2022.1.2.vsix";
+      sha256 = "sha256-EM1BoXUVhXFLECi7YHauwSXJLq9lD0NPoFGmQCQXXiY=";
     };
     name = "codetogether";
     license = "";
@@ -9252,6 +9252,18 @@
     license = "MIT";
     publisher = "isg-cnc";
     description = "Support for ISG-CNC NC-Code";
+  };
+  itemis-xtext-vscode-example = {
+    pname = "itemis-xtext-vscode-example";
+    version = "0.0.29";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/itemis/xtext-vscode-example/0.0.29/file/itemis.xtext-vscode-example-0.0.29.vsix";
+      sha256 = "sha256-RM2A3gD/vTH/bEpf7AKJIHzOWgD6f8Fg9wiVU+Hwea8=";
+    };
+    name = "xtext-vscode-example";
+    license = "EPL-1.0";
+    publisher = "itemis";
+    description = "A simple DSL example for VS Code";
   };
   itsjonq-owlet = {
     pname = "itsjonq-owlet";
@@ -16851,10 +16863,10 @@
   };
   viper-admin-prusti-assistant = {
     pname = "viper-admin-prusti-assistant";
-    version = "0.9.1";
+    version = "0.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.9.1/file/viper-admin.prusti-assistant-0.9.1.vsix";
-      sha256 = "sha256-SS9T5Zw1wfG4lb83dLV/P79ZJovbPyA0PFCBLyVXQRU=";
+      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.9.2/file/viper-admin.prusti-assistant-0.9.2.vsix";
+      sha256 = "sha256-UN7FRc8htdQs0rbAFF4pYm/I8ONfsYZsTFuzIPJ8Yks=";
     };
     name = "prusti-assistant";
     license = "MIT";
