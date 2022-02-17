@@ -12123,7 +12123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nickmillerdev-pytest-fixtures",
-    "version": "0.1.14",
+    "version": "0.1.15",
     "passthru": {
       "name": "pytest-fixtures",
       "license": "MIT",
@@ -12131,10 +12131,10 @@
       "description": "Pytest fixtures support for vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.14/file/nickmillerdev.pytest-fixtures-0.1.14.vsix",
+      "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.15/file/nickmillerdev.pytest-fixtures-0.1.15.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AbPjYjKe1HmibZn1i1r3WtFkNwkiOEZLPeiP7uRpA8I="
+      "sha256": "sha256-wClGTHPolA7iOP/kcll1+tqdT0rcu5v32LCDYJhsZA4="
     },
     "extract": null,
     "rustGitDeps": null
