@@ -12283,7 +12283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.8.3",
+    "version": "1.8.4",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12291,10 +12291,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.8.3/file/mintlify.document-1.8.3.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.8.4/file/mintlify.document-1.8.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jv4zuTpSuzgcQ75j14dtTtyS6vZnmVvEizG6bT60hgM="
+      "sha256": "sha256-Vb3HNui17J6w/uqdsIyyTQ1A40iis2MQCvG92L7NSS4="
     },
     "extract": null,
     "rustGitDeps": null
