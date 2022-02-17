@@ -85,6 +85,18 @@
     publisher = "Antyos";
     description = "Mindustry Logic (mlog) highlighting for VSCode!";
   };
+  AquaSecurityOfficial-trivy-vulnerability-scanner = {
+    pname = "AquaSecurityOfficial-trivy-vulnerability-scanner";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.3.0/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.3.0.vsix";
+      sha256 = "sha256-rtxk8IuKwnWzVnOAa4XA7QbRsXrEqeRSyREhLOIwp0Y=";
+    };
+    name = "trivy-vulnerability-scanner";
+    license = "Apache-2.0";
+    publisher = "AquaSecurityOfficial";
+    description = "A VS Code extension for Trivy.";
+  };
   ArtisanByteCrafter-poptheme = {
     pname = "ArtisanByteCrafter-poptheme";
     version = "1.0.3";
@@ -5667,10 +5679,10 @@
   };
   codeandstuff-package-json-upgrade = {
     pname = "codeandstuff-package-json-upgrade";
-    version = "1.5.3";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codeandstuff/package-json-upgrade/1.5.3/file/codeandstuff.package-json-upgrade-1.5.3.vsix";
-      sha256 = "sha256-4Yeh6Af+Im/OcM1olr4UCZezGD9nfkMbDGvH9GzPOrM=";
+      url = "https://open-vsx.org/api/codeandstuff/package-json-upgrade/1.6.0/file/codeandstuff.package-json-upgrade-1.6.0.vsix";
+      sha256 = "sha256-+/4NnbZcY/pQPtkP7uEF5AGipb+N2BBtg/iOmRgdkt0=";
     };
     name = "package-json-upgrade";
     license = "MIT";
@@ -9075,10 +9087,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.19";
+    version = "0.14.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.19/file/iljapostnovs.ui5plugin-0.14.19.vsix";
-      sha256 = "sha256-TUNOEUn+bsqCLFD0kA6LFhnf/qTIxyk/uYnOcv/kL9U=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.20/file/iljapostnovs.ui5plugin-0.14.20.vsix";
+      sha256 = "sha256-AWUOm8fIGNGneOM5IqAnnu1iBY6ajBug4rX2NKpKZoY=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
