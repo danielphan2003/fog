@@ -12023,7 +12023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.287",
+    "version": "0.25.288",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12031,10 +12031,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.287/file/pokey.cursorless-0.25.287.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.288/file/pokey.cursorless-0.25.288.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9nu8s97aUx5wkvPfhbvlc+UGeyUGHFc5kNoSFP18fJ4="
+      "sha256": "sha256-dgI1bGj5UtuzznKuE/Z8Z4KcI9Vyd+DXD4qg0CihcbI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28583,7 +28583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.640",
+    "version": "31.0.642",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28591,10 +28591,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.640/file/Prisma.prisma-insider-31.0.640.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.642/file/Prisma.prisma-insider-31.0.642.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-F/Lh0Gq9dZ/lMNiCUrV9QsLLyCQFndM+n7vJF9rWJLg="
+      "sha256": "sha256-hJXRHs0hrtGF2iPiiBkq4OmiwZ6vr2+rbxXpFLM8SQo="
     },
     "extract": null,
     "rustGitDeps": null
