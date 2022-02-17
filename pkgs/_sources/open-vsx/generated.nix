@@ -2631,10 +2631,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.643";
+    version = "31.0.644";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.643/file/Prisma.prisma-insider-31.0.643.vsix";
-      sha256 = "sha256-B2BhaaHMe/jdYUEAj9eDF+bfYB4LAvSgMqH/ZUVAA0s=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.644/file/Prisma.prisma-insider-31.0.644.vsix";
+      sha256 = "sha256-1IFQbxuxEp8X1snP1spLq0wIrBP4R/tzpCK9Rdd/g3Y=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9495,10 +9495,10 @@
   };
   jetmartin-apicurio = {
     pname = "jetmartin-apicurio";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.3/file/jetmartin.apicurio-0.0.3.vsix";
-      sha256 = "sha256-hVxJwYEpyiPpA19YxTaweXpVHlcAdsQy+nm0dxVfSx0=";
+      url = "https://open-vsx.org/api/jetmartin/apicurio/0.0.4/file/jetmartin.apicurio-0.0.4.vsix";
+      sha256 = "sha256-oMxsrlqLjF15io7s5rfdEsifpZFmL4m/aNbn1sp72eY=";
     };
     name = "apicurio";
     license = "MIT";
