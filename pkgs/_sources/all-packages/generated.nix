@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "c66866d89092cde7c9aa834e442de1a13a1a680c";
+    version = "5a99460a4cf62d34f3a721bd7c77cf2ad3af59cb";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "c66866d89092cde7c9aa834e442de1a13a1a680c";
+      rev = "5a99460a4cf62d34f3a721bd7c77cf2ad3af59cb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9WktFyI1WsrYrJ4Wms5QjGKPsSGrNAr/okL9CH+j0Kk=";
+      sha256 = "sha256-Otd3MLS7FAt2OrgN/VrIPZSbqfenbS7ReE47d1gw0CA=";
     };
     cargoLock = {
-      lockFile = ./conduit-c66866d89092cde7c9aa834e442de1a13a1a680c/Cargo.lock;
+      lockFile = ./conduit-5a99460a4cf62d34f3a721bd7c77cf2ad3af59cb/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-TmsNu0B6pYJfBza773lxS09xNLkr5fGMVx1/ZhHrTe4=";
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5867";
+    version = "1.0.5868";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5867.tar.bz2";
-      sha256 = "sha256-MckI8BQJ06id4o8FaBOyVxzX7TQcPTm4G0EpEjxzjZk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5868.tar.bz2";
+      sha256 = "sha256-XvAtld6wFmngsn0PXa09KmCWLEQ8gBlClz4MrViNsLM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5867";
+    version = "1.0.5868";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5867-1_all.deb";
-      sha256 = "sha256-jLn1UbrQo0UsfnMJGRmxN72yDzK+dmIv29FUE3In/ao=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5868-1_all.deb";
+      sha256 = "sha256-5KYQ8WGvR7omOJHHR5cxHEJlZID30r4iMfUwUQq3Fp4=";
     };
   };
   jitsi-videobridge2 = {
