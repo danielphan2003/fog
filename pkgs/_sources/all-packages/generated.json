@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "db9461650cb20e8b4ef91fd41ad2323c1720b159",
+    "version": "53698bca6f38d4403115fdb6c27ed8004bc1ad64",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-uXlkWf1GfUrfu6lqxpJcFqcpBl21xHMYzZTFwpkORKU=",
-      "rev": "db9461650cb20e8b4ef91fd41ad2323c1720b159"
+      "sha256": "sha256-edSiUsST879IZD+9pzxYb33Lfm/CHEvH48UgqYYKln8=",
+      "rev": "53698bca6f38d4403115fdb6c27ed8004bc1ad64"
     },
     "extract": null,
     "rustGitDeps": null
@@ -755,13 +755,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-858",
+    "version": "1.0-859",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-858-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-859-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8hw33FCCkWXiZ6efRyFa1s6/1g0EpRD96BFNyGJ4qo4="
+      "sha256": "sha256-+LhdJEaOXum+6yzlOhhz16NPNo89Q/txNTrc36W1O18="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2057,9 +2057,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-c7191023cbbe647e43914a58a8ad09aa20af999a/Cargo.lock",
+    "cargoLock": "./rustdesk-2786fc97e9361274e1c6be8f97db99bf41237ead/Cargo.lock",
     "name": "rustdesk",
-    "version": "c7191023cbbe647e43914a58a8ad09aa20af999a",
+    "version": "2786fc97e9361274e1c6be8f97db99bf41237ead",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,8 +2069,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-9KZUaSKEAxn/ZaV+bi+Ws/MVqeI7NYt4IJayVjYdP70=",
-      "rev": "c7191023cbbe647e43914a58a8ad09aa20af999a"
+      "sha256": "sha256-tcm5xFw+40xkoy+Fr9XkA6cCg7MrjzqC+TwxxIHdbGM=",
+      "rev": "2786fc97e9361274e1c6be8f97db99bf41237ead"
     },
     "extract": null,
     "rustGitDeps": {
