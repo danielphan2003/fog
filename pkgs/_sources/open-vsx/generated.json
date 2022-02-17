@@ -8823,7 +8823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1856221",
+    "version": "6.1.1860667",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8831,10 +8831,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1856221/file/eliostruyf.vscode-front-matter-beta-6.1.1856221.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1860667/file/eliostruyf.vscode-front-matter-beta-6.1.1860667.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-d9qEMiPoBItZwEvEQI9ex1xLAVYhjaDYbuNmFV3ndrI="
+      "sha256": "sha256-yEVH8kJsgBge5aLX8WOsgmB79niYxIIC0bP7kcDkwZY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19103,7 +19103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.18",
+    "version": "3.0.19",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -19111,10 +19111,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.18/file/lifeart.vscode-ember-unstable-3.0.18.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.19/file/lifeart.vscode-ember-unstable-3.0.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-j4JLRo+Iq7Wg46ImClC+Lezs+7cRtjZLeIF3tdm8Zyk="
+      "sha256": "sha256-8F4de23o/R+rsGNt9FEpyHry/EbAXnGOVEooRIkUeyQ="
     },
     "extract": null,
     "rustGitDeps": null
