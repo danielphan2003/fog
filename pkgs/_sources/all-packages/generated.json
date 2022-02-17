@@ -432,7 +432,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus",
-    "version": "a076b388d856aeb4c8f8317dd6cd9dd6d61fe9ac",
+    "version": "b5423f0cff78e627fec12378bfcc70efa79e9379",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -442,8 +442,8 @@
       "name": null,
       "repo": "ibus",
       "type": "github",
-      "sha256": "sha256-9kWI5erty1hskfr2B902LfnX35YjkD768ZuW7Ke6vps=",
-      "rev": "a076b388d856aeb4c8f8317dd6cd9dd6d61fe9ac"
+      "sha256": "sha256-kH2W8u/+Q91sCornwefHMQFFU2dJANna9XIKWfPJ9/8=",
+      "rev": "b5423f0cff78e627fec12378bfcc70efa79e9379"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1368,7 +1368,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "12ef7d17dbaf201afc86f2d5ee0c1b9b7929185d",
+    "version": "c4a89ed6085471fd29bb16a372518c09139ce062",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1378,8 +1378,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-hmmvg9HYtS1lhsrJdLeGJYI63XHIQPc97ZHvQe0H/+8=",
-      "rev": "12ef7d17dbaf201afc86f2d5ee0c1b9b7929185d"
+      "sha256": "sha256-SkmINI3TWHhBRw1nZru3j/0kl1FbkLWLATZRTTmSwf0=",
+      "rev": "c4a89ed6085471fd29bb16a372518c09139ce062"
     },
     "extract": null,
     "rustGitDeps": null
