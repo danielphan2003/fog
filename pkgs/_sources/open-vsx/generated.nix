@@ -5115,10 +5115,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.18";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.18/file/bilelmoussaoui.flatpak-vscode-0.0.18.vsix";
-      sha256 = "sha256-VfItuqP87xQ4KLdY3x84r+PCID19ohdKiGB1fV779tg=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.20/file/bilelmoussaoui.flatpak-vscode-0.0.20.vsix";
+      sha256 = "sha256-HxWSncE6EJQL0mlAaKoWeyxtaYoAjI/gCD71PrirPT8=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -12819,10 +12819,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.45";
+    version = "0.13.46";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.45/file/oraichain.cosmwasm-ide-0.13.45.vsix";
-      sha256 = "sha256-GR5qUCsoJG1E2o8AkWBjZLnH0DmEawVrRgXk6brO+j8=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.46/file/oraichain.cosmwasm-ide-0.13.46.vsix";
+      sha256 = "sha256-S4kfTIsABjgkc4KxOMU0eOcsIA5G99+uRXOhcuTCPSQ=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
