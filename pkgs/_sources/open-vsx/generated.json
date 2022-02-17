@@ -16299,6 +16299,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "AquaSecurityOfficial-trivy-vulnerability-scanner": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "AquaSecurityOfficial-trivy-vulnerability-scanner",
+    "version": "0.3.0",
+    "passthru": {
+      "name": "trivy-vulnerability-scanner",
+      "license": "Apache-2.0",
+      "publisher": "AquaSecurityOfficial",
+      "description": "A VS Code extension for Trivy."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.3.0/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.3.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-rtxk8IuKwnWzVnOAa4XA7QbRsXrEqeRSyREhLOIwp0Y="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Marko-JS-marko-vscode": {
     "pinned": false,
     "cargoLock": null,
@@ -17703,7 +17723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iljapostnovs-ui5plugin",
-    "version": "0.14.19",
+    "version": "0.14.20",
     "passthru": {
       "name": "ui5plugin",
       "license": "Apache-2.0",
@@ -17711,10 +17731,10 @@
       "description": "Extension for working with UI5 projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.19/file/iljapostnovs.ui5plugin-0.14.19.vsix",
+      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.20/file/iljapostnovs.ui5plugin-0.14.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TUNOEUn+bsqCLFD0kA6LFhnf/qTIxyk/uYnOcv/kL9U="
+      "sha256": "sha256-AWUOm8fIGNGneOM5IqAnnu1iBY6ajBug4rX2NKpKZoY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25903,7 +25923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "codeandstuff-package-json-upgrade",
-    "version": "1.5.3",
+    "version": "1.6.0",
     "passthru": {
       "name": "package-json-upgrade",
       "license": "MIT",
@@ -25911,10 +25931,10 @@
       "description": "Shows available updates in package.json files. Offers quick fix command to update them and to show the changelog."
     },
     "src": {
-      "url": "https://open-vsx.org/api/codeandstuff/package-json-upgrade/1.5.3/file/codeandstuff.package-json-upgrade-1.5.3.vsix",
+      "url": "https://open-vsx.org/api/codeandstuff/package-json-upgrade/1.6.0/file/codeandstuff.package-json-upgrade-1.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4Yeh6Af+Im/OcM1olr4UCZezGD9nfkMbDGvH9GzPOrM="
+      "sha256": "sha256-+/4NnbZcY/pQPtkP7uEF5AGipb+N2BBtg/iOmRgdkt0="
     },
     "extract": null,
     "rustGitDeps": null
