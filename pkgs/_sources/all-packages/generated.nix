@@ -324,13 +324,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "db9461650cb20e8b4ef91fd41ad2323c1720b159";
+    version = "53698bca6f38d4403115fdb6c27ed8004bc1ad64";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "db9461650cb20e8b4ef91fd41ad2323c1720b159";
+      rev = "53698bca6f38d4403115fdb6c27ed8004bc1ad64";
       fetchSubmodules = false;
-      sha256 = "sha256-uXlkWf1GfUrfu6lqxpJcFqcpBl21xHMYzZTFwpkORKU=";
+      sha256 = "sha256-edSiUsST879IZD+9pzxYb33Lfm/CHEvH48UgqYYKln8=";
     });
   };
   flyingfox = {
@@ -402,10 +402,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-858";
+    version = "1.0-859";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-858-1_all.deb";
-      sha256 = "sha256-8hw33FCCkWXiZ6efRyFa1s6/1g0EpRD96BFNyGJ4qo4=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-859-1_all.deb";
+      sha256 = "sha256-+LhdJEaOXum+6yzlOhhz16NPNo89Q/txNTrc36W1O18=";
     };
   };
   jitsi-meet = {
@@ -784,16 +784,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c7191023cbbe647e43914a58a8ad09aa20af999a";
+    version = "2786fc97e9361274e1c6be8f97db99bf41237ead";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c7191023cbbe647e43914a58a8ad09aa20af999a";
+      rev = "2786fc97e9361274e1c6be8f97db99bf41237ead";
       fetchSubmodules = false;
-      sha256 = "sha256-9KZUaSKEAxn/ZaV+bi+Ws/MVqeI7NYt4IJayVjYdP70=";
+      sha256 = "sha256-tcm5xFw+40xkoy+Fr9XkA6cCg7MrjzqC+TwxxIHdbGM=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-c7191023cbbe647e43914a58a8ad09aa20af999a/Cargo.lock;
+      lockFile = ./rustdesk-2786fc97e9361274e1c6be8f97db99bf41237ead/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
