@@ -2631,10 +2631,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.646";
+    version = "31.0.647";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.646/file/Prisma.prisma-insider-31.0.646.vsix";
-      sha256 = "sha256-AxOV0o/JTS91NPLH+kIxKHOht1f+tLhRBnULBi+XdyU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.647/file/Prisma.prisma-insider-31.0.647.vsix";
+      sha256 = "sha256-Ano9++npz0MbYrEjvgfscqExmx1TdF547Ok7MgrdgIk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16863,10 +16863,10 @@
   };
   viper-admin-prusti-assistant = {
     pname = "viper-admin-prusti-assistant";
-    version = "0.10.0";
+    version = "0.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.0/file/viper-admin.prusti-assistant-0.10.0.vsix";
-      sha256 = "sha256-MDkdkiuBQkrCdZ2jUN9KkcnG+t2muCXXRnkyzwqh9nM=";
+      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.1/file/viper-admin.prusti-assistant-0.10.1.vsix";
+      sha256 = "sha256-GDzgjV5SUPHLOKCQCkHe077DYt1kkeaHsTOTvvNa8ws=";
     };
     name = "prusti-assistant";
     license = "MIT";
@@ -16947,10 +16947,10 @@
   };
   vorce-goto-test = {
     pname = "vorce-goto-test";
-    version = "0.0.2";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vorce/goto-test/0.0.2/file/vorce.goto-test-0.0.2.vsix";
-      sha256 = "sha256-ggEcXJwBDlW9Vv2qW7pbaGX8MXJ1N3Y7ZV/HB96JCuc=";
+      url = "https://open-vsx.org/api/vorce/goto-test/0.0.4/file/vorce.goto-test-0.0.4.vsix";
+      sha256 = "sha256-oLPv9g+lsy+/sq4MKl82UqFVaWY7OraGGL+GaITPydY=";
     };
     name = "goto-test";
     license = "MIT";
