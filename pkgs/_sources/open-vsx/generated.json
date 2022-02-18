@@ -3503,7 +3503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "viper-admin-prusti-assistant",
-    "version": "0.9.2",
+    "version": "0.10.0",
     "passthru": {
       "name": "prusti-assistant",
       "license": "MIT",
@@ -3511,10 +3511,10 @@
       "description": "Verify Rust programs with the Prusti verifier."
     },
     "src": {
-      "url": "https://open-vsx.org/api/viper-admin/prusti-assistant/0.9.2/file/viper-admin.prusti-assistant-0.9.2.vsix",
+      "url": "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.0/file/viper-admin.prusti-assistant-0.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UN7FRc8htdQs0rbAFF4pYm/I8ONfsYZsTFuzIPJ8Yks="
+      "sha256": "sha256-MDkdkiuBQkrCdZ2jUN9KkcnG+t2muCXXRnkyzwqh9nM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28603,7 +28603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.644",
+    "version": "31.0.646",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28611,10 +28611,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.644/file/Prisma.prisma-insider-31.0.644.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.646/file/Prisma.prisma-insider-31.0.646.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1IFQbxuxEp8X1snP1spLq0wIrBP4R/tzpCK9Rdd/g3Y="
+      "sha256": "sha256-AxOV0o/JTS91NPLH+kIxKHOht1f+tLhRBnULBi+XdyU="
     },
     "extract": null,
     "rustGitDeps": null
