@@ -7023,10 +7023,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1862409";
+    version = "6.1.1866212";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1862409/file/eliostruyf.vscode-front-matter-beta-6.1.1862409.vsix";
-      sha256 = "sha256-oTpPa/RxVIN5IqLBTbkh+ucbShE3AyNGYF1jcaG+USQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1866212/file/eliostruyf.vscode-front-matter-beta-6.1.1866212.vsix";
+      sha256 = "sha256-kmO6PwnlBARiv8NmfOtIAB2la/Aa1jGX58befREj6qo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9759,10 +9759,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.45";
+    version = "0.16.46";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.45/file/jroesch.lean-0.16.45.vsix";
-      sha256 = "sha256-nb4I6Xjk+lu2x2keiOX19bVFqCyAejBvYgXq84rH5gU=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.46/file/jroesch.lean-0.16.46.vsix";
+      sha256 = "sha256-95HMB30wJfaUnbQSmGj1hbxaOJYG0LIfe0qMFP8rxlw=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -13395,10 +13395,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.14.0";
+    version = "0.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.14.0/file/pokey.parse-tree-0.14.0.vsix";
-      sha256 = "sha256-p40cdQg3ocbQbMFpJMDo7jCrMoVinvCtwHVJaHFFr3k=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.15.0/file/pokey.parse-tree-0.15.0.vsix";
+      sha256 = "sha256-Sx3kne6mUTJT5OGKTee58Fh7OhPWWs9n9/Q/f/Qf7LM=";
     };
     name = "parse-tree";
     license = "MIT";
@@ -18123,10 +18123,10 @@
   };
   vscodevim-vim = {
     pname = "vscodevim-vim";
-    version = "1.22.1";
+    version = "1.22.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscodevim/vim/1.22.1/file/vscodevim.vim-1.22.1.vsix";
-      sha256 = "sha256-XEJz49rhsy2oCWALBv/ox4Mn+VEAwC86Az2Md3gRMAw=";
+      url = "https://open-vsx.org/api/vscodevim/vim/1.22.2/file/vscodevim.vim-1.22.2.vsix";
+      sha256 = "sha256-wl3vc5FK2vSQ7hmXgEo9qiclu5FiaySCNGB0z7OWlYY=";
     };
     name = "vim";
     license = "MIT";
