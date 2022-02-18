@@ -1095,10 +1095,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.36.1";
+    version = "0.36.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.1/file/GitHub.vscode-pull-request-github-0.36.1.vsix";
-      sha256 = "sha256-Z/Gsqyjdq286sOtvcOtW+wH3/qeQ78JLcpauX3SuUBQ=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.2/file/GitHub.vscode-pull-request-github-0.36.2.vsix";
+      sha256 = "sha256-AO9C1J/MWx+aY3ka3IQ38mO7q9XiGbiKEJ1ekB/a+jc=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -2967,10 +2967,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.1618";
+    version = "2022.2.1716";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1618/file/Slint.slint-nightly-2022.2.1618.vsix";
-      sha256 = "sha256-CfTHFpis6KXDF/J4gjMRWnBOoPL36tH+ymnVRaZk7NM=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1716/file/Slint.slint-nightly-2022.2.1716.vsix";
+      sha256 = "sha256-bu/qJEfpKyn+9C86sMVTr1CTBqYprrlDVO6zfk49HyY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4707,10 +4707,10 @@
   };
   asciidoctor-asciidoctor-vscode = {
     pname = "asciidoctor-asciidoctor-vscode";
-    version = "2.9.4";
+    version = "2.9.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.4/file/asciidoctor.asciidoctor-vscode-2.9.4.vsix";
-      sha256 = "sha256-4KoIbyTfIM9ZwQIUTc75dEBTY/QcGPjxDKYWxZu+cGY=";
+      url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.5/file/asciidoctor.asciidoctor-vscode-2.9.5.vsix";
+      sha256 = "sha256-YA0wHxf1Zrruu4CplqV3CgKwzWe75rabvO+9voO4Rtg=";
     };
     name = "asciidoctor-vscode";
     license = "MIT";
@@ -6771,10 +6771,10 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "4.3.2";
+    version = "4.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.2/file/dsznajder.es7-react-js-snippets-4.3.2.vsix";
-      sha256 = "sha256-7hWS9iP3DiIsyZLx/1Jjr6xf/idYpXrZLWCUsQNSGr4=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.4.0/file/dsznajder.es7-react-js-snippets-4.4.0.vsix";
+      sha256 = "sha256-5a3qWlJTKmswgvq4Tgyy66nV606PJi6BosdfcKpRFiU=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
@@ -7023,10 +7023,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1860667";
+    version = "6.1.1862409";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1860667/file/eliostruyf.vscode-front-matter-beta-6.1.1860667.vsix";
-      sha256 = "sha256-yEVH8kJsgBge5aLX8WOsgmB79niYxIIC0bP7kcDkwZY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1862409/file/eliostruyf.vscode-front-matter-beta-6.1.1862409.vsix";
+      sha256 = "sha256-oTpPa/RxVIN5IqLBTbkh+ucbShE3AyNGYF1jcaG+USQ=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -18159,10 +18159,10 @@
   };
   vshaxe-haxe-test-adapter = {
     pname = "vshaxe-haxe-test-adapter";
-    version = "2.0.0";
+    version = "2.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.0/file/vshaxe.haxe-test-adapter-2.0.0.vsix";
-      sha256 = "sha256-4cRclnyF/bpAAPp8fhg8wdp9v/QNBb73jrsn00w+0UY=";
+      url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.1/file/vshaxe.haxe-test-adapter-2.0.1.vsix";
+      sha256 = "sha256-dADSCpbaQ3kzlVO9D889INrTXV/wFYlYSUYWDKp5aJE=";
     };
     name = "haxe-test-adapter";
     license = "MIT";

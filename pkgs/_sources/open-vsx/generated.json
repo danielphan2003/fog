@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitHub-vscode-pull-request-github",
-    "version": "0.36.1",
+    "version": "0.36.2",
     "passthru": {
       "name": "vscode-pull-request-github",
       "license": "MIT",
@@ -1611,10 +1611,10 @@
       "description": "Pull Request and Issue Provider for GitHub"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.1/file/GitHub.vscode-pull-request-github-0.36.1.vsix",
+      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.2/file/GitHub.vscode-pull-request-github-0.36.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Z/Gsqyjdq286sOtvcOtW+wH3/qeQ78JLcpauX3SuUBQ="
+      "sha256": "sha256-AO9C1J/MWx+aY3ka3IQ38mO7q9XiGbiKEJ1ekB/a+jc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1643,7 +1643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dsznajder-es7-react-js-snippets",
-    "version": "4.3.2",
+    "version": "4.4.0",
     "passthru": {
       "name": "es7-react-js-snippets",
       "license": "MIT",
@@ -1651,10 +1651,10 @@
       "description": "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.3.2/file/dsznajder.es7-react-js-snippets-4.3.2.vsix",
+      "url": "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.4.0/file/dsznajder.es7-react-js-snippets-4.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7hWS9iP3DiIsyZLx/1Jjr6xf/idYpXrZLWCUsQNSGr4="
+      "sha256": "sha256-5a3qWlJTKmswgvq4Tgyy66nV606PJi6BosdfcKpRFiU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8783,7 +8783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "asciidoctor-asciidoctor-vscode",
-    "version": "2.9.4",
+    "version": "2.9.5",
     "passthru": {
       "name": "asciidoctor-vscode",
       "license": "MIT",
@@ -8791,10 +8791,10 @@
       "description": "Provides rich language support for AsciiDoc."
     },
     "src": {
-      "url": "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.4/file/asciidoctor.asciidoctor-vscode-2.9.4.vsix",
+      "url": "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.5/file/asciidoctor.asciidoctor-vscode-2.9.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4KoIbyTfIM9ZwQIUTc75dEBTY/QcGPjxDKYWxZu+cGY="
+      "sha256": "sha256-YA0wHxf1Zrruu4CplqV3CgKwzWe75rabvO+9voO4Rtg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8823,7 +8823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1860667",
+    "version": "6.1.1862409",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8831,10 +8831,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1860667/file/eliostruyf.vscode-front-matter-beta-6.1.1860667.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1862409/file/eliostruyf.vscode-front-matter-beta-6.1.1862409.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yEVH8kJsgBge5aLX8WOsgmB79niYxIIC0bP7kcDkwZY="
+      "sha256": "sha256-oTpPa/RxVIN5IqLBTbkh+ucbShE3AyNGYF1jcaG+USQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14103,7 +14103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.1618",
+    "version": "2022.2.1716",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14111,10 +14111,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1618/file/Slint.slint-nightly-2022.2.1618.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.1716/file/Slint.slint-nightly-2022.2.1716.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CfTHFpis6KXDF/J4gjMRWnBOoPL36tH+ymnVRaZk7NM="
+      "sha256": "sha256-bu/qJEfpKyn+9C86sMVTr1CTBqYprrlDVO6zfk49HyY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30103,7 +30103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vshaxe-haxe-test-adapter",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "passthru": {
       "name": "haxe-test-adapter",
       "license": "MIT",
@@ -30111,10 +30111,10 @@
       "description": "Run your Haxe tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.0/file/vshaxe.haxe-test-adapter-2.0.0.vsix",
+      "url": "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.1/file/vshaxe.haxe-test-adapter-2.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4cRclnyF/bpAAPp8fhg8wdp9v/QNBb73jrsn00w+0UY="
+      "sha256": "sha256-dADSCpbaQ3kzlVO9D889INrTXV/wFYlYSUYWDKp5aJE="
     },
     "extract": null,
     "rustGitDeps": null
