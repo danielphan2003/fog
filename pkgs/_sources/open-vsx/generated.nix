@@ -5271,10 +5271,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.21";
+    version = "5.6.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.21/file/bringout.f18-klijent-5.6.21.vsix";
-      sha256 = "sha256-jGS35dlky4AMSUiy6X+OViZwP1q0CmR3E1rIDWQXSgM=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.22/file/bringout.f18-klijent-5.6.22.vsix";
+      sha256 = "sha256-a5mhcyy1OwXYABApczxYRs+wmoKiRdHPzBwnwNUuRdk=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -6771,10 +6771,10 @@
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
-    version = "4.4.0";
+    version = "4.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.4.0/file/dsznajder.es7-react-js-snippets-4.4.0.vsix";
-      sha256 = "sha256-5a3qWlJTKmswgvq4Tgyy66nV606PJi6BosdfcKpRFiU=";
+      url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.4.3/file/dsznajder.es7-react-js-snippets-4.4.3.vsix";
+      sha256 = "sha256-S3J7JXPyjdQ1bdpyb6xY5gKPZhnNtgFaKU9GJPxP/j8=";
     };
     name = "es7-react-js-snippets";
     license = "MIT";
@@ -7959,10 +7959,10 @@
   };
   geequlim-godot-tools = {
     pname = "geequlim-godot-tools";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/geequlim/godot-tools/1.1.2/file/geequlim.godot-tools-1.1.2.vsix";
-      sha256 = "sha256-+vJsWNqahkLabBsayNGnSDe2bN7Ue0L8o0q6R7c7Qow=";
+      url = "https://open-vsx.org/api/geequlim/godot-tools/1.1.3/file/geequlim.godot-tools-1.1.3.vsix";
+      sha256 = "sha256-NX7tu1lD/DoLMtUU7XOVy2BMW+Ess3odFlE4u+BKHMo=";
     };
     name = "godot-tools";
     license = "MIT";
@@ -12685,6 +12685,18 @@
     publisher = "oguhpereira";
     description = "Theme for vscode inspired by the colors of Spotify";
   };
+  oleg-shilo-favorites = {
+    pname = "oleg-shilo-favorites";
+    version = "1.5.11";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.11/file/oleg-shilo.favorites-1.5.11.vsix";
+      sha256 = "sha256-6g7K5XQypbOAewWHcAXV/b1lVkQ+pRm2hl4lYyyJqlg=";
+    };
+    name = "favorites";
+    license = "MIT";
+    publisher = "oleg-shilo";
+    description = "Manage and quickly access frequently used documents and documents' sets";
+  };
   olifink-fedora-gnome-light-dark = {
     pname = "olifink-fedora-gnome-light-dark";
     version = "0.0.4";
@@ -13683,10 +13695,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.12.0";
+    version = "1.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.0/file/rangav.vscode-thunder-client-1.12.0.vsix";
-      sha256 = "sha256-n+YMSE2DzIOMRwNQ6GdvN3apejcIOwqdUGoN1rUfndI=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.1/file/rangav.vscode-thunder-client-1.12.1.vsix";
+      sha256 = "sha256-K0WmNtBtwAJKUOZu8u4PC8S/NXpEYbS7laRjlWAUqfM=";
     };
     name = "vscode-thunder-client";
     license = "";
@@ -17007,10 +17019,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.33.0";
+    version = "0.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.33.0/file/vscjava.vscode-java-test-0.33.0.vsix";
-      sha256 = "sha256-P0NiBNhTUZnOwvCKIvhgJJTHDari1lx7Yzp6CuHIOk8=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.34.0/file/vscjava.vscode-java-test-0.34.0.vsix";
+      sha256 = "sha256-7uscmiZNvwXZeDutsWmhkWe4IQ3VZx3Cna9xWM2wLhE=";
     };
     name = "vscode-java-test";
     license = "";
