@@ -5271,10 +5271,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.20";
+    version = "5.6.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.20/file/bringout.f18-klijent-5.6.20.vsix";
-      sha256 = "sha256-UGawRZ9g9LfGrPD1nZJl3u0ZCFZ834AYwjMcr/soS/E=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.21/file/bringout.f18-klijent-5.6.21.vsix";
+      sha256 = "sha256-jGS35dlky4AMSUiy6X+OViZwP1q0CmR3E1rIDWQXSgM=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -16863,10 +16863,10 @@
   };
   viper-admin-prusti-assistant = {
     pname = "viper-admin-prusti-assistant";
-    version = "0.10.1";
+    version = "0.10.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.1/file/viper-admin.prusti-assistant-0.10.1.vsix";
-      sha256 = "sha256-GDzgjV5SUPHLOKCQCkHe077DYt1kkeaHsTOTvvNa8ws=";
+      url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.2/file/viper-admin.prusti-assistant-0.10.2.vsix";
+      sha256 = "sha256-dlNkHWGSCwZNs5dRcFNa9NHkrAC+fLuMZ3bNq1ZtZ5k=";
     };
     name = "prusti-assistant";
     license = "MIT";

@@ -3503,7 +3503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "viper-admin-prusti-assistant",
-    "version": "0.10.1",
+    "version": "0.10.2",
     "passthru": {
       "name": "prusti-assistant",
       "license": "MIT",
@@ -3511,10 +3511,10 @@
       "description": "Verify Rust programs with the Prusti verifier."
     },
     "src": {
-      "url": "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.1/file/viper-admin.prusti-assistant-0.10.1.vsix",
+      "url": "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.2/file/viper-admin.prusti-assistant-0.10.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GDzgjV5SUPHLOKCQCkHe077DYt1kkeaHsTOTvvNa8ws="
+      "sha256": "sha256-dlNkHWGSCwZNs5dRcFNa9NHkrAC+fLuMZ3bNq1ZtZ5k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5023,7 +5023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bringout-f18-klijent",
-    "version": "5.6.20",
+    "version": "5.6.21",
     "passthru": {
       "name": "f18-klijent",
       "license": "MIT",
@@ -5031,10 +5031,10 @@
       "description": "F18 klijent host eShell"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.20/file/bringout.f18-klijent-5.6.20.vsix",
+      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.21/file/bringout.f18-klijent-5.6.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UGawRZ9g9LfGrPD1nZJl3u0ZCFZ834AYwjMcr/soS/E="
+      "sha256": "sha256-jGS35dlky4AMSUiy6X+OViZwP1q0CmR3E1rIDWQXSgM="
     },
     "extract": null,
     "rustGitDeps": null
