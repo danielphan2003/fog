@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "c496e599ef0537936176be4084766be1e611a15b";
+    version = "f3795846b5dcd4e17433eb6f6995820a5f82acdf";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "c496e599ef0537936176be4084766be1e611a15b";
+      rev = "f3795846b5dcd4e17433eb6f6995820a5f82acdf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-1Huq1f2FJRYV6mvYv/galKSURgRPSShPu1mccZH5kVU=";
+      sha256 = "sha256-PpM8jYQbGjXDha76e0XvEj5GxpxM9qJddsuTpxuAJjs=";
     };
     cargoLock = {
-      lockFile = ./conduit-c496e599ef0537936176be4084766be1e611a15b/Cargo.lock;
+      lockFile = ./conduit-f3795846b5dcd4e17433eb6f6995820a5f82acdf/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-TmsNu0B6pYJfBza773lxS09xNLkr5fGMVx1/ZhHrTe4=";
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "bceb762cffaf740b64c82a96b274d9d59948982e";
+    version = "1cad7379e4d7e502f2cbf742b3d48738ad59a2e6";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "bceb762cffaf740b64c82a96b274d9d59948982e";
+      rev = "1cad7379e4d7e502f2cbf742b3d48738ad59a2e6";
       fetchSubmodules = false;
-      sha256 = "sha256-NlFlsMGrfOwfg1N1JN3rsrcsn0KTa/SRzqCUIgu6IS0=";
+      sha256 = "sha256-LNuXvAGwPq5Daf3M8rCymDbHiMBGvm9C9y0G8Ovh42k=";
     });
   };
   xdg-desktop-portal-gtk = {
