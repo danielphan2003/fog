@@ -2631,10 +2631,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.651";
+    version = "31.0.653";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.651/file/Prisma.prisma-insider-31.0.651.vsix";
-      sha256 = "sha256-yugf75L26ubQize1JIqvk3xiWpPglW0qBl63y4JtKXA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.653/file/Prisma.prisma-insider-31.0.653.vsix";
+      sha256 = "sha256-D2h+A/hZrCnsSGTNu3ElvaUtVVZvVNeHfJJMi0s5jgI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8151,10 +8151,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.1";
+    version = "0.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.1/file/gitduck.code-streaming-0.4.1.vsix";
-      sha256 = "sha256-cREiMr1QUt7199g14nwA3lllBfjoSLd/iMhp/vb+FFk=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.2/file/gitduck.code-streaming-0.4.2.vsix";
+      sha256 = "sha256-eT9yyj8WOtYq/7Von0Ctb2tcvNJlTDboYS8sef38MvY=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -9183,10 +9183,10 @@
   };
   iocave-customize-ui = {
     pname = "iocave-customize-ui";
-    version = "0.1.51";
+    version = "0.1.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.51/file/iocave.customize-ui-0.1.51.vsix";
-      sha256 = "sha256-7DUUQnB6WjUFD8nth5RhDaGCFblx8AOZjRs6YgJRmZQ=";
+      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.59/file/iocave.customize-ui-0.1.59.vsix";
+      sha256 = "sha256-VRo06axso5nj7GOdFh8AMrPROxFgfXIQhfmlQjOQ/jE=";
     };
     name = "customize-ui";
     license = "MIT";

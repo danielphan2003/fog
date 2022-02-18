@@ -5563,7 +5563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5571,10 +5571,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.1/file/gitduck.code-streaming-0.4.1.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.2/file/gitduck.code-streaming-0.4.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cREiMr1QUt7199g14nwA3lllBfjoSLd/iMhp/vb+FFk="
+      "sha256": "sha256-eT9yyj8WOtYq/7Von0Ctb2tcvNJlTDboYS8sef38MvY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28623,7 +28623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.651",
+    "version": "31.0.653",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28631,10 +28631,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.651/file/Prisma.prisma-insider-31.0.651.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.653/file/Prisma.prisma-insider-31.0.653.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yugf75L26ubQize1JIqvk3xiWpPglW0qBl63y4JtKXA="
+      "sha256": "sha256-D2h+A/hZrCnsSGTNu3ElvaUtVVZvVNeHfJJMi0s5jgI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29063,7 +29063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iocave-customize-ui",
-    "version": "0.1.51",
+    "version": "0.1.59",
     "passthru": {
       "name": "customize-ui",
       "license": "MIT",
@@ -29071,10 +29071,10 @@
       "description": "Advanced VSCode user interface customizations. Very experimental."
     },
     "src": {
-      "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.51/file/iocave.customize-ui-0.1.51.vsix",
+      "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.59/file/iocave.customize-ui-0.1.59.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7DUUQnB6WjUFD8nth5RhDaGCFblx8AOZjRs6YgJRmZQ="
+      "sha256": "sha256-VRo06axso5nj7GOdFh8AMrPROxFgfXIQhfmlQjOQ/jE="
     },
     "extract": null,
     "rustGitDeps": null
