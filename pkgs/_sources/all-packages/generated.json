@@ -730,9 +730,9 @@
   },
   "conduit": {
     "pinned": false,
-    "cargoLock": "./conduit-5a99460a4cf62d34f3a721bd7c77cf2ad3af59cb/Cargo.lock",
+    "cargoLock": "./conduit-c496e599ef0537936176be4084766be1e611a15b/Cargo.lock",
     "name": "conduit",
-    "version": "5a99460a4cf62d34f3a721bd7c77cf2ad3af59cb",
+    "version": "c496e599ef0537936176be4084766be1e611a15b",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -741,8 +741,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-Otd3MLS7FAt2OrgN/VrIPZSbqfenbS7ReE47d1gw0CA=",
-      "rev": "5a99460a4cf62d34f3a721bd7c77cf2ad3af59cb"
+      "sha256": "sha256-1Huq1f2FJRYV6mvYv/galKSURgRPSShPu1mccZH5kVU=",
+      "rev": "c496e599ef0537936176be4084766be1e611a15b"
     },
     "extract": null,
     "rustGitDeps": {
