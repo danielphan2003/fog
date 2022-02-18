@@ -372,13 +372,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "b5423f0cff78e627fec12378bfcc70efa79e9379";
+    version = "5cfe838715097d61b50da55f80bcff2c698ca885";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "b5423f0cff78e627fec12378bfcc70efa79e9379";
+      rev = "5cfe838715097d61b50da55f80bcff2c698ca885";
       fetchSubmodules = false;
-      sha256 = "sha256-kH2W8u/+Q91sCornwefHMQFFU2dJANna9XIKWfPJ9/8=";
+      sha256 = "sha256-bTwSgXT+YxxKpkwR2m7ItIuc7lJiNgl/Fx2GTJG8EY8=";
     });
   };
   ibus-bamboo = {
@@ -426,10 +426,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-627-g6cc27afa";
+    version = "2.1-628-gbb2e082f";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-627-g6cc27afa-1_all.deb";
-      sha256 = "sha256-V0O5mQimhNzuIOmws9KNyT1T7s61Fp+o2MWhDLfYjQw=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-628-gbb2e082f-1_all.deb";
+      sha256 = "sha256-xEYfn4drUd5HjlC1AGe6BNwRRo68Vp4Zeucnzh+AGa8=";
     };
   };
   layout-machi = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e76da47b31c172e0cda71155a59e6a389443d8c0";
+    version = "80e7e1983a939fb00a87c69c35d00e729e280b8a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e76da47b31c172e0cda71155a59e6a389443d8c0";
+      rev = "80e7e1983a939fb00a87c69c35d00e729e280b8a";
       fetchSubmodules = false;
-      sha256 = "sha256-UM8BG4wiRb6rxsQneqApn4WRVwE4q6U3mj7wP70+rx4=";
+      sha256 = "sha256-IXzanfdp94jEC8gdmh/eDYxRXS5Es9TPxfu+489AgYw=";
     });
   };
   rofi-wayland = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "dd6472d4e87f823cb14a611a582afc25827cc46b";
+    version = "bb93e29d5c76f61c607e511f374596a3aba0c3ce";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "dd6472d4e87f823cb14a611a582afc25827cc46b";
+      rev = "bb93e29d5c76f61c607e511f374596a3aba0c3ce";
       fetchSubmodules = false;
-      sha256 = "sha256-z/vRP7JIRi5E09G/jbnZ6yKULLN2JkVaKdFLjaIdLA4=";
+      sha256 = "sha256-GZNk1ZIbqV04t2Kyhd0jIfmHerAmQAKWu2FFPy6GUiU=";
     });
   };
   tailscale-systray = {

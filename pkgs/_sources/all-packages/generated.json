@@ -432,7 +432,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus",
-    "version": "b5423f0cff78e627fec12378bfcc70efa79e9379",
+    "version": "5cfe838715097d61b50da55f80bcff2c698ca885",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -442,8 +442,8 @@
       "name": null,
       "repo": "ibus",
       "type": "github",
-      "sha256": "sha256-kH2W8u/+Q91sCornwefHMQFFU2dJANna9XIKWfPJ9/8=",
-      "rev": "b5423f0cff78e627fec12378bfcc70efa79e9379"
+      "sha256": "sha256-bTwSgXT+YxxKpkwR2m7ItIuc7lJiNgl/Fx2GTJG8EY8=",
+      "rev": "5cfe838715097d61b50da55f80bcff2c698ca885"
     },
     "extract": null,
     "rustGitDeps": null
@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "e76da47b31c172e0cda71155a59e6a389443d8c0",
+    "version": "80e7e1983a939fb00a87c69c35d00e729e280b8a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-UM8BG4wiRb6rxsQneqApn4WRVwE4q6U3mj7wP70+rx4=",
-      "rev": "e76da47b31c172e0cda71155a59e6a389443d8c0"
+      "sha256": "sha256-IXzanfdp94jEC8gdmh/eDYxRXS5Es9TPxfu+489AgYw=",
+      "rev": "80e7e1983a939fb00a87c69c35d00e729e280b8a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-627-g6cc27afa",
+    "version": "2.1-628-gbb2e082f",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-627-g6cc27afa-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-628-gbb2e082f-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-V0O5mQimhNzuIOmws9KNyT1T7s61Fp+o2MWhDLfYjQw="
+      "sha256": "sha256-xEYfn4drUd5HjlC1AGe6BNwRRo68Vp4Zeucnzh+AGa8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "dd6472d4e87f823cb14a611a582afc25827cc46b",
+    "version": "bb93e29d5c76f61c607e511f374596a3aba0c3ce",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-z/vRP7JIRi5E09G/jbnZ6yKULLN2JkVaKdFLjaIdLA4=",
-      "rev": "dd6472d4e87f823cb14a611a582afc25827cc46b"
+      "sha256": "sha256-GZNk1ZIbqV04t2Kyhd0jIfmHerAmQAKWu2FFPy6GUiU=",
+      "rev": "bb93e29d5c76f61c607e511f374596a3aba0c3ce"
     },
     "extract": null,
     "rustGitDeps": null
