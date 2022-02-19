@@ -10563,10 +10563,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.4";
+    version = "1.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.4/file/leodevbro.blockman-1.5.4.vsix";
-      sha256 = "sha256-yLtwO4680C43PbtdupfFWNDRX98jE8UnY6b24W8e4fo=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.5/file/leodevbro.blockman-1.5.5.vsix";
+      sha256 = "sha256-HhEsQMCTetzbC5U30/ynYl6murdCTYquSb1UuBvgjJg=";
     };
     name = "blockman";
     license = "MIT";
@@ -18807,10 +18807,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.19";
+    version = "0.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.19/file/zardoy.better-snippets-0.1.19.vsix";
-      sha256 = "sha256-AAvu9jBHiUyq30U1gjM8/2PJwmGcwZP55KJ4r01PtaE=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.20/file/zardoy.better-snippets-0.1.20.vsix";
+      sha256 = "sha256-3pGDifdQ1eS84seoozAQs/q/pqQ3FOAbR6+tlKvI9Xg=";
     };
     name = "better-snippets";
     license = "MIT";
