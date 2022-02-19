@@ -16443,7 +16443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shivaprasanth-dothttp-code",
-    "version": "0.0.39",
+    "version": "0.0.41",
     "passthru": {
       "name": "dothttp-code",
       "license": "Apache-2.0",
@@ -16451,10 +16451,10 @@
       "description": "A Http Client for sending to and receiving from http endpoints (dothttp)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.39/file/shivaprasanth.dothttp-code-0.0.39.vsix",
+      "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.41/file/shivaprasanth.dothttp-code-0.0.41.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-R6jv+myV9DdmAjiLroj0DhgB13H+B0nL+CUAVtgwMzc="
+      "sha256": "sha256-QuCqt8Mwi3Wk/cN1bo3PMELhSUjO9hcnHlLZOFAQlZU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23003,7 +23003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DaltonMenezes-aura-theme",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "passthru": {
       "name": "aura-theme",
       "license": "MIT",
@@ -23011,10 +23011,10 @@
       "description": "A beautiful dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.0/file/DaltonMenezes.aura-theme-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.1/file/DaltonMenezes.aura-theme-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-F6630vvvz4G81LjCWEDCx9VrndduTfZxjhEcooT6Qzw="
+      "sha256": "sha256-UlHaGkJm4/xULZOF2FREZYqNgl1hphrbt0wjecsR2Uc="
     },
     "extract": null,
     "rustGitDeps": null

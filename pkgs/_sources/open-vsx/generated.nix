@@ -639,10 +639,10 @@
   };
   DaltonMenezes-aura-theme = {
     pname = "DaltonMenezes-aura-theme";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.0/file/DaltonMenezes.aura-theme-2.1.0.vsix";
-      sha256 = "sha256-F6630vvvz4G81LjCWEDCx9VrndduTfZxjhEcooT6Qzw=";
+      url = "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.1/file/DaltonMenezes.aura-theme-2.1.1.vsix";
+      sha256 = "sha256-UlHaGkJm4/xULZOF2FREZYqNgl1hphrbt0wjecsR2Uc=";
     };
     name = "aura-theme";
     license = "MIT";
@@ -14943,10 +14943,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.39";
+    version = "0.0.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.39/file/shivaprasanth.dothttp-code-0.0.39.vsix";
-      sha256 = "sha256-R6jv+myV9DdmAjiLroj0DhgB13H+B0nL+CUAVtgwMzc=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.41/file/shivaprasanth.dothttp-code-0.0.41.vsix";
+      sha256 = "sha256-QuCqt8Mwi3Wk/cN1bo3PMELhSUjO9hcnHlLZOFAQlZU=";
     };
     name = "dothttp-code";
     license = "Apache-2.0";
