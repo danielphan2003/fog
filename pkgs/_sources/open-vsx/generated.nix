@@ -11029,6 +11029,18 @@
     publisher = "maximedenes";
     description = "An IDE for the Coq Proof Assistant";
   };
+  maximsmol-open-by-path = {
+    pname = "maximsmol-open-by-path";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/maximsmol/open-by-path/0.1.0/file/maximsmol.open-by-path-0.1.0.vsix";
+      sha256 = "sha256-SLnULB4vttzADWz02tO/D1VAJL5D2Spo2CSlCBLJ76Q=";
+    };
+    name = "open-by-path";
+    license = "MIT OR 0BSD OR CC0-1.0 OR Unlicense";
+    publisher = "maximsmol";
+    description = "";
+  };
   maziac-asm-code-lens = {
     pname = "maziac-asm-code-lens";
     version = "1.9.0";
