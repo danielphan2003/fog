@@ -12447,10 +12447,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.10.0";
+    version = "6.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.10.0/file/nicoespeon.abracadabra-6.10.0.vsix";
-      sha256 = "sha256-HK+TIboC01eueLgvxZNTDq2TIwLFRQesyzuc1HT1BBE=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.11.0/file/nicoespeon.abracadabra-6.11.0.vsix";
+      sha256 = "sha256-4ayCLFtFwX5hz6lTiTQEsscLl2Awiy0Ek5aQYgLtglY=";
     };
     name = "abracadabra";
     license = "MIT";
@@ -18855,10 +18855,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.3/file/zardoy.npm-rapid-ready-0.1.3.vsix";
-      sha256 = "sha256-dvRaiOQ4+L8+KRdr3Ur23Wij/k/jTxAlSqfJCw8TAz4=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.4/file/zardoy.npm-rapid-ready-0.1.4.vsix";
+      sha256 = "sha256-ZxjK4DLma6Pse1XbjpDPFvbR6pTA/8zq1YFGg50QRKI=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
