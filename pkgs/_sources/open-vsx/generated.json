@@ -7763,7 +7763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Divlo-vscode-styled-jsx-languageserver",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "passthru": {
       "name": "vscode-styled-jsx-languageserver",
       "license": "MIT",
@@ -7771,10 +7771,10 @@
       "description": "Language server for styled-jsx"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Divlo/vscode-styled-jsx-languageserver/1.3.0/file/Divlo.vscode-styled-jsx-languageserver-1.3.0.vsix",
+      "url": "https://open-vsx.org/api/Divlo/vscode-styled-jsx-languageserver/1.3.1/file/Divlo.vscode-styled-jsx-languageserver-1.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mPj4Ubt9/LL6VVM4fCKxhfWmpNNy4c30Ivy2qhvyUe8="
+      "sha256": "sha256-lCkgsJ5xJtDZLo3qvXKb3UjtXRjNkQnsp50ozGuAz44="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8863,7 +8863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1866212",
+    "version": "6.1.1869350",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8871,10 +8871,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1866212/file/eliostruyf.vscode-front-matter-beta-6.1.1866212.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1869350/file/eliostruyf.vscode-front-matter-beta-6.1.1869350.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kmO6PwnlBARiv8NmfOtIAB2la/Aa1jGX58befREj6qo="
+      "sha256": "sha256-+//kXjzA7prMKm6qblDT+/D3Zt3wd3cnlPgMNyv1aL0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17783,7 +17783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iljapostnovs-ui5plugin",
-    "version": "0.14.20",
+    "version": "0.14.22",
     "passthru": {
       "name": "ui5plugin",
       "license": "Apache-2.0",
@@ -17791,10 +17791,10 @@
       "description": "Extension for working with UI5 projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.20/file/iljapostnovs.ui5plugin-0.14.20.vsix",
+      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.22/file/iljapostnovs.ui5plugin-0.14.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AWUOm8fIGNGneOM5IqAnnu1iBY6ajBug4rX2NKpKZoY="
+      "sha256": "sha256-5rodqQCz2d+qjC7L4upzEar0du02e31JtLySL/Te5hs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22703,7 +22703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-better-snippets",
-    "version": "0.1.20",
+    "version": "0.1.21",
     "passthru": {
       "name": "better-snippets",
       "license": "MIT",
@@ -22711,10 +22711,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.20/file/zardoy.better-snippets-0.1.20.vsix",
+      "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.21/file/zardoy.better-snippets-0.1.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3pGDifdQ1eS84seoozAQs/q/pqQ3FOAbR6+tlKvI9Xg="
+      "sha256": "sha256-t2V44n6FynW3j+TLl2v9JJRL+uc/8gce3zJligClEa4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23003,7 +23003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DaltonMenezes-aura-theme",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "passthru": {
       "name": "aura-theme",
       "license": "MIT",
@@ -23011,10 +23011,10 @@
       "description": "A beautiful dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.1/file/DaltonMenezes.aura-theme-2.1.1.vsix",
+      "url": "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.2/file/DaltonMenezes.aura-theme-2.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UlHaGkJm4/xULZOF2FREZYqNgl1hphrbt0wjecsR2Uc="
+      "sha256": "sha256-sgOx4DN69JsiL8+14KDyicj7u9tfpGHofeX4nraq6ZE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26723,7 +26723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Divlo-vscode-styled-jsx-syntax",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "passthru": {
       "name": "vscode-styled-jsx-syntax",
       "license": "MIT",
@@ -26731,10 +26731,10 @@
       "description": "Syntax highlighting for styled-jsx"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.0/file/Divlo.vscode-styled-jsx-syntax-1.3.0.vsix",
+      "url": "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.1/file/Divlo.vscode-styled-jsx-syntax-1.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IykhDP5Yr6WTIxDKO6ukl6aSRZvXJ5wYzuUVY/TaJSE="
+      "sha256": "sha256-+tS2MNLUkz3cDzT7COA1Ia9MB/NOJv6dH1Llw8mrIX8="
     },
     "extract": null,
     "rustGitDeps": null

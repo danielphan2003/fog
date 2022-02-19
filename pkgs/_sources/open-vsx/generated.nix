@@ -639,10 +639,10 @@
   };
   DaltonMenezes-aura-theme = {
     pname = "DaltonMenezes-aura-theme";
-    version = "2.1.1";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.1/file/DaltonMenezes.aura-theme-2.1.1.vsix";
-      sha256 = "sha256-UlHaGkJm4/xULZOF2FREZYqNgl1hphrbt0wjecsR2Uc=";
+      url = "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.2/file/DaltonMenezes.aura-theme-2.1.2.vsix";
+      sha256 = "sha256-sgOx4DN69JsiL8+14KDyicj7u9tfpGHofeX4nraq6ZE=";
     };
     name = "aura-theme";
     license = "MIT";
@@ -735,10 +735,10 @@
   };
   Divlo-vscode-styled-jsx-languageserver = {
     pname = "Divlo-vscode-styled-jsx-languageserver";
-    version = "1.3.0";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-languageserver/1.3.0/file/Divlo.vscode-styled-jsx-languageserver-1.3.0.vsix";
-      sha256 = "sha256-mPj4Ubt9/LL6VVM4fCKxhfWmpNNy4c30Ivy2qhvyUe8=";
+      url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-languageserver/1.3.1/file/Divlo.vscode-styled-jsx-languageserver-1.3.1.vsix";
+      sha256 = "sha256-lCkgsJ5xJtDZLo3qvXKb3UjtXRjNkQnsp50ozGuAz44=";
     };
     name = "vscode-styled-jsx-languageserver";
     license = "MIT";
@@ -747,10 +747,10 @@
   };
   Divlo-vscode-styled-jsx-syntax = {
     pname = "Divlo-vscode-styled-jsx-syntax";
-    version = "1.3.0";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.0/file/Divlo.vscode-styled-jsx-syntax-1.3.0.vsix";
-      sha256 = "sha256-IykhDP5Yr6WTIxDKO6ukl6aSRZvXJ5wYzuUVY/TaJSE=";
+      url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.1/file/Divlo.vscode-styled-jsx-syntax-1.3.1.vsix";
+      sha256 = "sha256-+tS2MNLUkz3cDzT7COA1Ia9MB/NOJv6dH1Llw8mrIX8=";
     };
     name = "vscode-styled-jsx-syntax";
     license = "MIT";
@@ -7023,10 +7023,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1866212";
+    version = "6.1.1869350";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1866212/file/eliostruyf.vscode-front-matter-beta-6.1.1866212.vsix";
-      sha256 = "sha256-kmO6PwnlBARiv8NmfOtIAB2la/Aa1jGX58befREj6qo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1869350/file/eliostruyf.vscode-front-matter-beta-6.1.1869350.vsix";
+      sha256 = "sha256-+//kXjzA7prMKm6qblDT+/D3Zt3wd3cnlPgMNyv1aL0=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9087,10 +9087,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.20";
+    version = "0.14.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.20/file/iljapostnovs.ui5plugin-0.14.20.vsix";
-      sha256 = "sha256-AWUOm8fIGNGneOM5IqAnnu1iBY6ajBug4rX2NKpKZoY=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.22/file/iljapostnovs.ui5plugin-0.14.22.vsix";
+      sha256 = "sha256-5rodqQCz2d+qjC7L4upzEar0du02e31JtLySL/Te5hs=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
@@ -18807,10 +18807,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.20";
+    version = "0.1.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.20/file/zardoy.better-snippets-0.1.20.vsix";
-      sha256 = "sha256-3pGDifdQ1eS84seoozAQs/q/pqQ3FOAbR6+tlKvI9Xg=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.21/file/zardoy.better-snippets-0.1.21.vsix";
+      sha256 = "sha256-t2V44n6FynW3j+TLl2v9JJRL+uc/8gce3zJligClEa4=";
     };
     name = "better-snippets";
     license = "MIT";
