@@ -1563,7 +1563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "entan-gl-cc65-vice",
-    "version": "5.1.4",
+    "version": "6.0.0",
     "passthru": {
       "name": "cc65-vice",
       "license": "MIT",
@@ -1571,10 +1571,10 @@
       "description": "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators."
     },
     "src": {
-      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/5.1.4/file/entan-gl.cc65-vice-5.1.4.vsix",
+      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.0.0/file/entan-gl.cc65-vice-6.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ccRQEXWnz29nI1LX3tDmnU9O42e1QLXhQdWbldv+3kQ="
+      "sha256": "sha256-hsLtvjjWOR9DjibSh5+hgmIbypqJfvARRR6JVOO8X28="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5523,7 +5523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "everscale-solidity-support",
-    "version": "1.2.18",
+    "version": "1.2.28",
     "passthru": {
       "name": "solidity-support",
       "license": "Apache-2.0",
@@ -5531,10 +5531,10 @@
       "description": "Everscale Solidity Language for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.18/file/everscale.solidity-support-1.2.18.vsix",
+      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.28/file/everscale.solidity-support-1.2.28.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CvIz3r02bfsaOFd9GVj5loxBscQm1ZjCypZC2emJYxw="
+      "sha256": "sha256-FhAKq7x3KLfI15YqXrb1J3uxqXhoM/gyOVhoIxUWx3o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22523,7 +22523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "carlocardella-vscode-filesystemtoolbox",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "passthru": {
       "name": "vscode-filesystemtoolbox",
       "license": "MIT",
@@ -22531,10 +22531,10 @@
       "description": "Collection of tools to work with the File System"
     },
     "src": {
-      "url": "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.1/file/carlocardella.vscode-filesystemtoolbox-1.2.1.vsix",
+      "url": "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.2/file/carlocardella.vscode-filesystemtoolbox-1.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IzAvJBnKTiAH0PKXeaTKWm5lT+IDnfzbWtIKPmsoOXc="
+      "sha256": "sha256-v8yYsoYnMC2ngtMy+peAMQyUpGYFZctCPKod0Q8rW54="
     },
     "extract": null,
     "rustGitDeps": null
