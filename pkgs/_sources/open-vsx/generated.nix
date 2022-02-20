@@ -5823,15 +5823,15 @@
   };
   comp2300-anu-comp2300-2021-extension = {
     pname = "comp2300-anu-comp2300-2021-extension";
-    version = "0.0.20";
+    version = "2022.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/0.0.20/file/comp2300-anu.comp2300-2021-extension-0.0.20.vsix";
-      sha256 = "sha256-PhEjXPmWps7e0rAf40mmh+pwWL7j0iM3Z/RM0bgxtJI=";
+      url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/2022.0.1/file/comp2300-anu.comp2300-2021-extension-2022.0.1.vsix";
+      sha256 = "sha256-dTNXg8xJL7TMzjrBEtM9meSqdXAgDz+/sphXu1ieC1M=";
     };
     name = "comp2300-2021-extension";
     license = "MIT";
     publisher = "comp2300-anu";
-    description = "Extension pack for COMP2300 for 2021";
+    description = "Extension pack for COMP2300 for bare-metal microbit development";
   };
   comp2300-anu-cortex-debug = {
     pname = "comp2300-anu-cortex-debug";
@@ -7191,10 +7191,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.1.0";
+    version = "6.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.0/file/entan-gl.cc65-vice-6.1.0.vsix";
-      sha256 = "sha256-I8vMD9C5BJ2V+CWf6ciZaxPSvOrsmv3mKzx55QYOTU4=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.1/file/entan-gl.cc65-vice-6.1.1.vsix";
+      sha256 = "sha256-c34JeBdTnMp393Vuza29HNEsMkDE6C/PQjGkcDn65QQ=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -8511,10 +8511,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.13.1";
+    version = "2.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.1/file/hbenl.vscode-mocha-test-adapter-2.13.1.vsix";
-      sha256 = "sha256-4jhf6pwTPCYB4D5KbSltiHkppWuhg3BJm9ZGfBqKpZI=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.2/file/hbenl.vscode-mocha-test-adapter-2.13.2.vsix";
+      sha256 = "sha256-FBJfBPYh8bBB8cv1J+QilhCHRZ3oG4GfC828fY/zE8I=";
     };
     name = "vscode-mocha-test-adapter";
     license = "MIT";

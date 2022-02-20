@@ -1563,7 +1563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "entan-gl-cc65-vice",
-    "version": "6.1.0",
+    "version": "6.1.1",
     "passthru": {
       "name": "cc65-vice",
       "license": "MIT",
@@ -1571,10 +1571,10 @@
       "description": "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators."
     },
     "src": {
-      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.0/file/entan-gl.cc65-vice-6.1.0.vsix",
+      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.1/file/entan-gl.cc65-vice-6.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-I8vMD9C5BJ2V+CWf6ciZaxPSvOrsmv3mKzx55QYOTU4="
+      "sha256": "sha256-c34JeBdTnMp393Vuza29HNEsMkDE6C/PQjGkcDn65QQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1763,7 +1763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hbenl-vscode-mocha-test-adapter",
-    "version": "2.13.1",
+    "version": "2.13.2",
     "passthru": {
       "name": "vscode-mocha-test-adapter",
       "license": "MIT",
@@ -1771,10 +1771,10 @@
       "description": "Run your Mocha tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.1/file/hbenl.vscode-mocha-test-adapter-2.13.1.vsix",
+      "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.2/file/hbenl.vscode-mocha-test-adapter-2.13.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4jhf6pwTPCYB4D5KbSltiHkppWuhg3BJm9ZGfBqKpZI="
+      "sha256": "sha256-FBJfBPYh8bBB8cv1J+QilhCHRZ3oG4GfC828fY/zE8I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21023,18 +21023,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "comp2300-anu-comp2300-2021-extension",
-    "version": "0.0.20",
+    "version": "2022.0.1",
     "passthru": {
       "name": "comp2300-2021-extension",
       "license": "MIT",
       "publisher": "comp2300-anu",
-      "description": "Extension pack for COMP2300 for 2021"
+      "description": "Extension pack for COMP2300 for bare-metal microbit development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/0.0.20/file/comp2300-anu.comp2300-2021-extension-0.0.20.vsix",
+      "url": "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/2022.0.1/file/comp2300-anu.comp2300-2021-extension-2022.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PhEjXPmWps7e0rAf40mmh+pwWL7j0iM3Z/RM0bgxtJI="
+      "sha256": "sha256-dTNXg8xJL7TMzjrBEtM9meSqdXAgDz+/sphXu1ieC1M="
     },
     "extract": null,
     "rustGitDeps": null
