@@ -658,22 +658,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.41.0";
+    version = "1.42.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.41.0.tar.gz";
-      sha256 = "sha256-go3EXmC9Vp0xXi1mH65p85FKsTe0CbyNXw3VVRrnpeQ=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.42.0.tar.gz";
+      sha256 = "sha256-qpq8nsNQTGUvAh6TQtqj4SJZjye99+ZTyjEFgU4LANY=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "a367e0d95b61ecee7b9ad5407637464df252bbd5";
+    version = "e45e8f932c76b6c6c089a872c5c0653459951c08";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "a367e0d95b61ecee7b9ad5407637464df252bbd5";
+      rev = "e45e8f932c76b6c6c089a872c5c0653459951c08";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/WaUghqN6f+vZ0npbyB3DiHZ57I49fRdw0B1P4lkb6c=";
+      sha256 = "sha256-UpxwghcWzQNWvrlTYwBLNg8Y7aE0VE72jIvDJPXRm4k=";
     };
   };
   pure = {
