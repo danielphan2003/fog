@@ -5043,10 +5043,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.243";
+    version = "2.0.244";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.243/file/betterthantomorrow.calva-2.0.243.vsix";
-      sha256 = "sha256-gPnEP65JIzVfKS426NcUmmsQOeNdJ6rUvTLN50pymc0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.244/file/betterthantomorrow.calva-2.0.244.vsix";
+      sha256 = "sha256-S//e1X0292nvWvw/BoE6+Pml1ItbXO7F9AGSg/jWHCQ=";
     };
     name = "calva";
     license = "MIT";
@@ -5811,10 +5811,10 @@
   };
   comp2300-anu-comp2300-2021-extension = {
     pname = "comp2300-anu-comp2300-2021-extension";
-    version = "0.0.19";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/0.0.19/file/comp2300-anu.comp2300-2021-extension-0.0.19.vsix";
-      sha256 = "sha256-zjXXDXMP2sBpKOvJE38hJ3uF9zbAjLFO6qjOfaIJt0k=";
+      url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/0.0.20/file/comp2300-anu.comp2300-2021-extension-0.0.20.vsix";
+      sha256 = "sha256-PhEjXPmWps7e0rAf40mmh+pwWL7j0iM3Z/RM0bgxtJI=";
     };
     name = "comp2300-2021-extension";
     license = "MIT";
@@ -18807,10 +18807,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.21";
+    version = "0.1.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.21/file/zardoy.better-snippets-0.1.21.vsix";
-      sha256 = "sha256-t2V44n6FynW3j+TLl2v9JJRL+uc/8gce3zJligClEa4=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.22/file/zardoy.better-snippets-0.1.22.vsix";
+      sha256 = "sha256-9GlHNQqCRJpDPabCe0uG9SFwlNTmxzsU1c0ZGmiaqaQ=";
     };
     name = "better-snippets";
     license = "MIT";

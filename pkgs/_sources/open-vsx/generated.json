@@ -21003,7 +21003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "comp2300-anu-comp2300-2021-extension",
-    "version": "0.0.19",
+    "version": "0.0.20",
     "passthru": {
       "name": "comp2300-2021-extension",
       "license": "MIT",
@@ -21011,10 +21011,10 @@
       "description": "Extension pack for COMP2300 for 2021"
     },
     "src": {
-      "url": "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/0.0.19/file/comp2300-anu.comp2300-2021-extension-0.0.19.vsix",
+      "url": "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/0.0.20/file/comp2300-anu.comp2300-2021-extension-0.0.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zjXXDXMP2sBpKOvJE38hJ3uF9zbAjLFO6qjOfaIJt0k="
+      "sha256": "sha256-PhEjXPmWps7e0rAf40mmh+pwWL7j0iM3Z/RM0bgxtJI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22703,7 +22703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-better-snippets",
-    "version": "0.1.21",
+    "version": "0.1.22",
     "passthru": {
       "name": "better-snippets",
       "license": "MIT",
@@ -22711,10 +22711,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.21/file/zardoy.better-snippets-0.1.21.vsix",
+      "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.22/file/zardoy.better-snippets-0.1.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t2V44n6FynW3j+TLl2v9JJRL+uc/8gce3zJligClEa4="
+      "sha256": "sha256-9GlHNQqCRJpDPabCe0uG9SFwlNTmxzsU1c0ZGmiaqaQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29323,7 +29323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.243",
+    "version": "2.0.244",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -29331,10 +29331,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.243/file/betterthantomorrow.calva-2.0.243.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.244/file/betterthantomorrow.calva-2.0.244.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gPnEP65JIzVfKS426NcUmmsQOeNdJ6rUvTLN50pymc0="
+      "sha256": "sha256-S//e1X0292nvWvw/BoE6+Pml1ItbXO7F9AGSg/jWHCQ="
     },
     "extract": null,
     "rustGitDeps": null
