@@ -12699,10 +12699,10 @@
   };
   oleg-shilo-favorites = {
     pname = "oleg-shilo-favorites";
-    version = "1.5.11";
+    version = "1.5.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.11/file/oleg-shilo.favorites-1.5.11.vsix";
-      sha256 = "sha256-6g7K5XQypbOAewWHcAXV/b1lVkQ+pRm2hl4lYyyJqlg=";
+      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.12/file/oleg-shilo.favorites-1.5.12.vsix";
+      sha256 = "sha256-dDf13/oKGJe/sYq+7cLcdHqBI8zF+EexH8iqH4M4YK4=";
     };
     name = "favorites";
     license = "MIT";
@@ -18999,10 +18999,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.19";
+    version = "3.13.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.19/file/zhuangtongfa.material-theme-3.13.19.vsix";
-      sha256 = "sha256-HqX94bBknn7aC13Qp44XGvuC3moMkx8xBa5vRt56+xw=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.20/file/zhuangtongfa.material-theme-3.13.20.vsix";
+      sha256 = "sha256-Vtlp6K5gWRkOVSg0yz0dP7ljl65lSszKeXNMNXzMvog=";
     };
     name = "material-theme";
     license = "MIT";
