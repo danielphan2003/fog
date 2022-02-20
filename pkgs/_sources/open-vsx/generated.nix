@@ -1695,10 +1695,10 @@
   };
   JustBrenny-hero-heroku = {
     pname = "JustBrenny-hero-heroku";
-    version = "1.6.0";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.6.0/file/JustBrenny.hero-heroku-1.6.0.vsix";
-      sha256 = "sha256-RqImZ9bybWMUGYw5iDE9z94Z6FdIMX1hkj4iqqChI1s=";
+      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.6.1/file/JustBrenny.hero-heroku-1.6.1.vsix";
+      sha256 = "sha256-FdRhJDIzmHHmb1xqpJ0HWrdy/CyqTOODMcBzSw7r/Mw=";
     };
     name = "hero-heroku";
     license = "GPL-3.0-or-later";
@@ -7167,10 +7167,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "0.2.1";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.2.1/file/engn2219-anu.engn2219-2022-s1-vscode-0.2.1.vsix";
-      sha256 = "sha256-ed+HXVOLke0HHBXAbfqTmL6U8ae3M7sKGZZZbt1M284=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.2.3/file/engn2219-anu.engn2219-2022-s1-vscode-0.2.3.vsix";
+      sha256 = "sha256-zTCv83H5SlSei5dsmInytoxVAHbxqkfvqKE4IoKAuzg=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";
@@ -8499,10 +8499,10 @@
   };
   hbenl-vscode-jasmine-test-adapter = {
     pname = "hbenl-vscode-jasmine-test-adapter";
-    version = "1.7.0";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.0/file/hbenl.vscode-jasmine-test-adapter-1.7.0.vsix";
-      sha256 = "sha256-kKrR+M2MjbzOdp4zw3xv+euZTWYWBMb8K6Pi7zBQvZc=";
+      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.2/file/hbenl.vscode-jasmine-test-adapter-1.7.2.vsix";
+      sha256 = "sha256-VopA1o4dh/WAu42Bkvs/F4vT5adrpiOvbQcr6xQQSds=";
     };
     name = "vscode-jasmine-test-adapter";
     license = "MIT";
@@ -12867,10 +12867,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.46";
+    version = "0.13.47";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.46/file/oraichain.cosmwasm-ide-0.13.46.vsix";
-      sha256 = "sha256-S4kfTIsABjgkc4KxOMU0eOcsIA5G99+uRXOhcuTCPSQ=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.47/file/oraichain.cosmwasm-ide-0.13.47.vsix";
+      sha256 = "sha256-eZLlyl7408vW44SGc9hfzDVt958K2alvI6B1RqzguB8=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
