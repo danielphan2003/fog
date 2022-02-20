@@ -1693,6 +1693,18 @@
     publisher = "Josee9988";
     description = "Minifier for JSON, CSS, HTML, XML, TWIG, LESS, SASS, SCSS, JavaScript, JSONC, and JavaScriptReact(testing). Compressor of files and folders. You will love its simplicity!";
   };
+  JustBrenny-hero-heroku = {
+    pname = "JustBrenny-hero-heroku";
+    version = "1.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.6.0/file/JustBrenny.hero-heroku-1.6.0.vsix";
+      sha256 = "sha256-RqImZ9bybWMUGYw5iDE9z94Z6FdIMX1hkj4iqqChI1s=";
+    };
+    name = "hero-heroku";
+    license = "GPL-3.0-or-later";
+    publisher = "JustBrenny";
+    description = "A powerful Heroku dashboard from within VSCode!";
+  };
   KaanGenc-writing-assistant = {
     pname = "KaanGenc-writing-assistant";
     version = "0.1.1";
@@ -7179,10 +7191,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.0.0";
+    version = "6.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.0.0/file/entan-gl.cc65-vice-6.0.0.vsix";
-      sha256 = "sha256-hsLtvjjWOR9DjibSh5+hgmIbypqJfvARRR6JVOO8X28=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.0/file/entan-gl.cc65-vice-6.1.0.vsix";
+      sha256 = "sha256-I8vMD9C5BJ2V+CWf6ciZaxPSvOrsmv3mKzx55QYOTU4=";
     };
     name = "cc65-vice";
     license = "MIT";
