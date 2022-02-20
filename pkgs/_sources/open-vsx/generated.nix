@@ -4047,10 +4047,10 @@
   };
   allanoricil-nuxt-vscode-extension = {
     pname = "allanoricil-nuxt-vscode-extension";
-    version = "0.0.16";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.16/file/allanoricil.nuxt-vscode-extension-0.0.16.vsix";
-      sha256 = "sha256-XS5Tri2NVLbS35t50Em9NSBXvYGWNQYAWkkjaY+A1QY=";
+      url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.18/file/allanoricil.nuxt-vscode-extension-0.0.18.vsix";
+      sha256 = "sha256-MUMKnYpG2vRqK3TJD6gHIhqqo+2OKk5QLu8R81XjKHU=";
     };
     name = "nuxt-vscode-extension";
     license = "MIT";
