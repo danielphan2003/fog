@@ -5463,10 +5463,10 @@
   };
   carlocardella-vscode-filesystemtoolbox = {
     pname = "carlocardella-vscode-filesystemtoolbox";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.1/file/carlocardella.vscode-filesystemtoolbox-1.2.1.vsix";
-      sha256 = "sha256-IzAvJBnKTiAH0PKXeaTKWm5lT+IDnfzbWtIKPmsoOXc=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.2/file/carlocardella.vscode-filesystemtoolbox-1.2.2.vsix";
+      sha256 = "sha256-v8yYsoYnMC2ngtMy+peAMQyUpGYFZctCPKod0Q8rW54=";
     };
     name = "vscode-filesystemtoolbox";
     license = "MIT";
@@ -7179,10 +7179,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "5.1.4";
+    version = "6.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/5.1.4/file/entan-gl.cc65-vice-5.1.4.vsix";
-      sha256 = "sha256-ccRQEXWnz29nI1LX3tDmnU9O42e1QLXhQdWbldv+3kQ=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.0.0/file/entan-gl.cc65-vice-6.0.0.vsix";
+      sha256 = "sha256-hsLtvjjWOR9DjibSh5+hgmIbypqJfvARRR6JVOO8X28=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -7323,10 +7323,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.18";
+    version = "1.2.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.18/file/everscale.solidity-support-1.2.18.vsix";
-      sha256 = "sha256-CvIz3r02bfsaOFd9GVj5loxBscQm1ZjCypZC2emJYxw=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.28/file/everscale.solidity-support-1.2.28.vsix";
+      sha256 = "sha256-FhAKq7x3KLfI15YqXrb1J3uxqXhoM/gyOVhoIxUWx3o=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
