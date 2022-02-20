@@ -10033,6 +10033,18 @@
     publisher = "kdarkhan";
     description = "Provides syntax highlighting and snippets for MIPS assembly language";
   };
+  keesschollaart-vscode-home-assistant = {
+    pname = "keesschollaart-vscode-home-assistant";
+    version = "1.26.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.26.0/file/keesschollaart.vscode-home-assistant-1.26.0.vsix";
+      sha256 = "sha256-3dkQU227slTPIUvnj7z5RBVjx2ynYRaEGAMmZDxA4u0=";
+    };
+    name = "vscode-home-assistant";
+    license = "MIT";
+    publisher = "keesschollaart";
+    description = " Completion for entity-id's in Home Assistant Configurations";
+  };
   kevgo-vscode-markdown-ide = {
     pname = "kevgo-vscode-markdown-ide";
     version = "0.2.1";
@@ -15003,10 +15015,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.12.5";
+    version = "0.12.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.5/file/shufo.vscode-blade-formatter-0.12.5.vsix";
-      sha256 = "sha256-yZPfPfZEKFbB6T/NONaUb8K0i3q2DEMwmV6GzqlsnFw=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.6/file/shufo.vscode-blade-formatter-0.12.6.vsix";
+      sha256 = "sha256-4ZrJ+LC3Y9tJhlCQZ58gMIBh4C8r8TEnuzVpxxxNaDY=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";

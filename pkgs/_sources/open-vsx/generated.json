@@ -2499,6 +2499,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "keesschollaart-vscode-home-assistant": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "keesschollaart-vscode-home-assistant",
+    "version": "1.26.0",
+    "passthru": {
+      "name": "vscode-home-assistant",
+      "license": "MIT",
+      "publisher": "keesschollaart",
+      "description": " Completion for entity-id's in Home Assistant Configurations"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.26.0/file/keesschollaart.vscode-home-assistant-1.26.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-3dkQU227slTPIUvnj7z5RBVjx2ynYRaEGAMmZDxA4u0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "xolan-slime": {
     "pinned": false,
     "cargoLock": null,
@@ -16443,7 +16463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.5",
+    "version": "0.12.6",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16451,10 +16471,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.5/file/shufo.vscode-blade-formatter-0.12.5.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.6/file/shufo.vscode-blade-formatter-0.12.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yZPfPfZEKFbB6T/NONaUb8K0i3q2DEMwmV6GzqlsnFw="
+      "sha256": "sha256-4ZrJ+LC3Y9tJhlCQZ58gMIBh4C8r8TEnuzVpxxxNaDY="
     },
     "extract": null,
     "rustGitDeps": null
