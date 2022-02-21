@@ -1368,7 +1368,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "3dca2b10d0a24bd111119c3eb94df512d7e067f5",
+    "version": "4c7cec47691b67eb1334c4d67fdb28bc49347bf3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1378,8 +1378,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-zN1pF37pmRLbbTeg3LcaPaJ6zE1mdYbXTvJCfPpcD68=",
-      "rev": "3dca2b10d0a24bd111119c3eb94df512d7e067f5"
+      "sha256": "sha256-FhXsg4RxURHPIQ8ox4XxHmOX2u8MqJ9eZnKq//FtGq0=",
+      "rev": "4c7cec47691b67eb1334c4d67fdb28bc49347bf3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1923,7 +1923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dnscrypt-proxy2",
-    "version": "034d3bd42483fdd634fb22fe8c2479038e49e6ac",
+    "version": "a8aa4cb8e652b56e91cac44bf3a47aea0df97033",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1933,8 +1933,8 @@
       "name": null,
       "repo": "dnscrypt-proxy",
       "type": "github",
-      "sha256": "sha256-K4C3rM5RuqKNKakUJ+bDfHHv7o2SMaoXKS/bp21JDgY=",
-      "rev": "034d3bd42483fdd634fb22fe8c2479038e49e6ac"
+      "sha256": "sha256-3MvSKLkisUKG1QsTajtCUSyvR8KHlVY6NmVvIH+yd7w=",
+      "rev": "a8aa4cb8e652b56e91cac44bf3a47aea0df97033"
     },
     "extract": null,
     "rustGitDeps": null
