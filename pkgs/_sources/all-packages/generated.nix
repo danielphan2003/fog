@@ -243,13 +243,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "034d3bd42483fdd634fb22fe8c2479038e49e6ac";
+    version = "a8aa4cb8e652b56e91cac44bf3a47aea0df97033";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "034d3bd42483fdd634fb22fe8c2479038e49e6ac";
+      rev = "a8aa4cb8e652b56e91cac44bf3a47aea0df97033";
       fetchSubmodules = false;
-      sha256 = "sha256-K4C3rM5RuqKNKakUJ+bDfHHv7o2SMaoXKS/bp21JDgY=";
+      sha256 = "sha256-3MvSKLkisUKG1QsTajtCUSyvR8KHlVY6NmVvIH+yd7w=";
     });
   };
   doggo = {
@@ -1107,13 +1107,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "3dca2b10d0a24bd111119c3eb94df512d7e067f5";
+    version = "4c7cec47691b67eb1334c4d67fdb28bc49347bf3";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "3dca2b10d0a24bd111119c3eb94df512d7e067f5";
+      rev = "4c7cec47691b67eb1334c4d67fdb28bc49347bf3";
       fetchSubmodules = false;
-      sha256 = "sha256-zN1pF37pmRLbbTeg3LcaPaJ6zE1mdYbXTvJCfPpcD68=";
+      sha256 = "sha256-FhXsg4RxURHPIQ8ox4XxHmOX2u8MqJ9eZnKq//FtGq0=";
     });
   };
   whitesur-icon-theme = {
