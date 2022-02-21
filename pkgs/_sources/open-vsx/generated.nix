@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.655";
+    version = "31.0.657";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.655/file/Prisma.prisma-insider-31.0.655.vsix";
-      sha256 = "sha256-Xk2PxXFsrYtMnybX3N9mES5p8kk577ZN3foSHWPT3wM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.657/file/Prisma.prisma-insider-31.0.657.vsix";
+      sha256 = "sha256-UTfGgYckwrhZqWGCVB225cUJCBWOyTOU6sxCJki4dyU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7248,6 +7248,18 @@
     license = "MIT";
     publisher = "esbenp";
     description = "Code formatter using prettier";
+  };
+  espressif-esp-idf-extension = {
+    pname = "espressif-esp-idf-extension";
+    version = "1.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.3.0/file/espressif.esp-idf-extension-1.3.0.vsix";
+      sha256 = "sha256-grHhtSScjQsfHJqeR7cav0pLZWD4LP85dnMc4BIrY/g=";
+    };
+    name = "esp-idf-extension";
+    license = "Apache-2.0";
+    publisher = "espressif";
+    description = "Develop and debug applications for Espressif ESP32, ESP32-S2 chips with ESP-IDF";
   };
   ethan-reesor-go-notebook-kernel = {
     pname = "ethan-reesor-go-notebook-kernel";
@@ -15015,10 +15027,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.12.6";
+    version = "0.12.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.6/file/shufo.vscode-blade-formatter-0.12.6.vsix";
-      sha256 = "sha256-4ZrJ+LC3Y9tJhlCQZ58gMIBh4C8r8TEnuzVpxxxNaDY=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.7/file/shufo.vscode-blade-formatter-0.12.7.vsix";
+      sha256 = "sha256-oKCGPhmfGZRAdKndIm/1nqt95EUg4lJ3MGyepT3k7hY=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
