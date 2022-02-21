@@ -24583,7 +24583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leodevbro-blockman",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "passthru": {
       "name": "blockman",
       "license": "MIT",
@@ -24591,10 +24591,10 @@
       "description": "Mark/Highlight code blocks"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leodevbro/blockman/1.5.5/file/leodevbro.blockman-1.5.5.vsix",
+      "url": "https://open-vsx.org/api/leodevbro/blockman/1.5.6/file/leodevbro.blockman-1.5.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HhEsQMCTetzbC5U30/ynYl6murdCTYquSb1UuBvgjJg="
+      "sha256": "sha256-wiHeW2KLHckgndcvCuwwpMDf77ZnWeMcbLazMmXaW2o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28723,7 +28723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.657",
+    "version": "31.0.658",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28731,10 +28731,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.657/file/Prisma.prisma-insider-31.0.657.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.658/file/Prisma.prisma-insider-31.0.658.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UTfGgYckwrhZqWGCVB225cUJCBWOyTOU6sxCJki4dyU="
+      "sha256": "sha256-QtOoZJ/g3vV34VX8DziQvXyyaPCoE6wshLOL6bg7pJI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30923,7 +30923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.16.4",
+    "version": "0.17.0",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -30931,10 +30931,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.4/file/cyrusfirheir.twee3-language-tools-0.16.4.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.0/file/cyrusfirheir.twee3-language-tools-0.17.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hd59T+7WlBthKjUKFRpqOnzrmT2hXPyR6+eLsOmU5ms="
+      "sha256": "sha256-4Hs7dXjwnNrrc5DG0x1ReNBWMwFvmwZoGbSWgLoKiNo="
     },
     "extract": null,
     "rustGitDeps": null

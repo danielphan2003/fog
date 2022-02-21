@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.657";
+    version = "31.0.658";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.657/file/Prisma.prisma-insider-31.0.657.vsix";
-      sha256 = "sha256-UTfGgYckwrhZqWGCVB225cUJCBWOyTOU6sxCJki4dyU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.658/file/Prisma.prisma-insider-31.0.658.vsix";
+      sha256 = "sha256-QtOoZJ/g3vV34VX8DziQvXyyaPCoE6wshLOL6bg7pJI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6195,10 +6195,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.16.4";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.16.4/file/cyrusfirheir.twee3-language-tools-0.16.4.vsix";
-      sha256 = "sha256-hd59T+7WlBthKjUKFRpqOnzrmT2hXPyR6+eLsOmU5ms=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.0/file/cyrusfirheir.twee3-language-tools-0.17.0.vsix";
+      sha256 = "sha256-4Hs7dXjwnNrrc5DG0x1ReNBWMwFvmwZoGbSWgLoKiNo=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -10611,10 +10611,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.5";
+    version = "1.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.5/file/leodevbro.blockman-1.5.5.vsix";
-      sha256 = "sha256-HhEsQMCTetzbC5U30/ynYl6murdCTYquSb1UuBvgjJg=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.6/file/leodevbro.blockman-1.5.6.vsix";
+      sha256 = "sha256-wiHeW2KLHckgndcvCuwwpMDf77ZnWeMcbLazMmXaW2o=";
     };
     name = "blockman";
     license = "MIT";
