@@ -12143,7 +12143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.288",
+    "version": "0.25.289",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12151,10 +12151,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.288/file/pokey.cursorless-0.25.288.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.289/file/pokey.cursorless-0.25.289.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dgI1bGj5UtuzznKuE/Z8Z4KcI9Vyd+DXD4qg0CihcbI="
+      "sha256": "sha256-weaK9Dl5LMQO9SYLrgQ8NIB45X3OBZpk82/WLEaxq78="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17843,7 +17843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iljapostnovs-ui5plugin",
-    "version": "0.14.22",
+    "version": "0.14.23",
     "passthru": {
       "name": "ui5plugin",
       "license": "Apache-2.0",
@@ -17851,10 +17851,10 @@
       "description": "Extension for working with UI5 projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.22/file/iljapostnovs.ui5plugin-0.14.22.vsix",
+      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.23/file/iljapostnovs.ui5plugin-0.14.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5rodqQCz2d+qjC7L4upzEar0du02e31JtLySL/Te5hs="
+      "sha256": "sha256-9PF3TtC/rBSFeI0t8EsKAD3cDUpMwc869lk+rJINv2Y="
     },
     "extract": null,
     "rustGitDeps": null
