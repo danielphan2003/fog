@@ -8923,7 +8923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1869350",
+    "version": "6.1.1877447",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8931,10 +8931,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1869350/file/eliostruyf.vscode-front-matter-beta-6.1.1869350.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1877447/file/eliostruyf.vscode-front-matter-beta-6.1.1877447.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+//kXjzA7prMKm6qblDT+/D3Zt3wd3cnlPgMNyv1aL0="
+      "sha256": "sha256-iEhRjT4lSa/kV7NLkMrL23kH7vbrycm2M6DHQw2XmjY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9003,7 +9003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.25",
+    "version": "3.5.26",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9011,10 +9011,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.25/file/TabNine.tabnine-vscode-3.5.25.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.26/file/TabNine.tabnine-vscode-3.5.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DlbCj8RkpQgo8rQ4t8957idUAtzqqEu2I25F8aDnuSA="
+      "sha256": "sha256-XgSPy7xGKNG8l3KFk1fhw+YTqFv5DoOfyPVOu3KaExk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19155,6 +19155,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-t1w3NOwK/CPBPks4gX6ustleFzR9zPfJMDoCT3E17xM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "anweber-dot-icons": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "anweber-dot-icons",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "dot-icons",
+      "license": "MIT",
+      "publisher": "anweber",
+      "description": "Icons with low key colors"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/anweber/dot-icons/0.1.0/file/anweber.dot-icons-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-LoHMEfsGBqafUv5xSjbS2Kr02jT/Ds+7RpR9viRHfHk="
     },
     "extract": null,
     "rustGitDeps": null

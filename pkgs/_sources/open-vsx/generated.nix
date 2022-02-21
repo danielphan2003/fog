@@ -3135,10 +3135,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.25";
+    version = "3.5.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.25/file/TabNine.tabnine-vscode-3.5.25.vsix";
-      sha256 = "sha256-DlbCj8RkpQgo8rQ4t8957idUAtzqqEu2I25F8aDnuSA=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.26/file/TabNine.tabnine-vscode-3.5.26.vsix";
+      sha256 = "sha256-XgSPy7xGKNG8l3KFk1fhw+YTqFv5DoOfyPVOu3KaExk=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -4380,6 +4380,18 @@
     license = "MIT";
     publisher = "anweber";
     description = "A blue VS Code theme";
+  };
+  anweber-dot-icons = {
+    pname = "anweber-dot-icons";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/anweber/dot-icons/0.1.0/file/anweber.dot-icons-0.1.0.vsix";
+      sha256 = "sha256-LoHMEfsGBqafUv5xSjbS2Kr02jT/Ds+7RpR9viRHfHk=";
+    };
+    name = "dot-icons";
+    license = "MIT";
+    publisher = "anweber";
+    description = "Icons with low key colors";
   };
   anweber-git-buttons = {
     pname = "anweber-git-buttons";
@@ -7035,10 +7047,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1869350";
+    version = "6.1.1877447";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1869350/file/eliostruyf.vscode-front-matter-beta-6.1.1869350.vsix";
-      sha256 = "sha256-+//kXjzA7prMKm6qblDT+/D3Zt3wd3cnlPgMNyv1aL0=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1877447/file/eliostruyf.vscode-front-matter-beta-6.1.1877447.vsix";
+      sha256 = "sha256-iEhRjT4lSa/kV7NLkMrL23kH7vbrycm2M6DHQw2XmjY=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
