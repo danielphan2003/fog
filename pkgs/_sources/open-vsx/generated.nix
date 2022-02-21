@@ -19071,10 +19071,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.7.0/file/zokugun.sync-settings-0.7.0.vsix";
-      sha256 = "sha256-/NLgJZL+gDXW5pZS4mvUA0uMkeecQhCCbfsL8kmpQK4=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.8.0/file/zokugun.sync-settings-0.8.0.vsix";
+      sha256 = "sha256-XiprtwPkz4Bn0A/xntRJd80AfBBa0qNIIikIV1KLx+c=";
     };
     name = "sync-settings";
     license = "MIT";
