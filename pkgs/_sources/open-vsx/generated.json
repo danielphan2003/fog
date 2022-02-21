@@ -2879,6 +2879,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "espressif-esp-idf-extension": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "espressif-esp-idf-extension",
+    "version": "1.3.0",
+    "passthru": {
+      "name": "esp-idf-extension",
+      "license": "Apache-2.0",
+      "publisher": "espressif",
+      "description": "Develop and debug applications for Espressif ESP32, ESP32-S2 chips with ESP-IDF"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/espressif/esp-idf-extension/1.3.0/file/espressif.esp-idf-extension-1.3.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-grHhtSScjQsfHJqeR7cav0pLZWD4LP85dnMc4BIrY/g="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "pinage404-extension-packs": {
     "pinned": false,
     "cargoLock": null,
@@ -16463,7 +16483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.6",
+    "version": "0.12.7",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16471,10 +16491,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.6/file/shufo.vscode-blade-formatter-0.12.6.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.7/file/shufo.vscode-blade-formatter-0.12.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4ZrJ+LC3Y9tJhlCQZ58gMIBh4C8r8TEnuzVpxxxNaDY="
+      "sha256": "sha256-oKCGPhmfGZRAdKndIm/1nqt95EUg4lJ3MGyepT3k7hY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28683,7 +28703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.655",
+    "version": "31.0.657",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28691,10 +28711,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.655/file/Prisma.prisma-insider-31.0.655.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.657/file/Prisma.prisma-insider-31.0.657.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Xk2PxXFsrYtMnybX3N9mES5p8kk577ZN3foSHWPT3wM="
+      "sha256": "sha256-UTfGgYckwrhZqWGCVB225cUJCBWOyTOU6sxCJki4dyU="
     },
     "extract": null,
     "rustGitDeps": null
