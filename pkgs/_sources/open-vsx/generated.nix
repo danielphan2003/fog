@@ -5151,10 +5151,10 @@
   };
   bmd-stm32-for-vscode = {
     pname = "bmd-stm32-for-vscode";
-    version = "3.1.4";
+    version = "3.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.1.4/file/bmd.stm32-for-vscode-3.1.4.vsix";
-      sha256 = "sha256-Ss+H3sWgqqPqbmAvinas90qwts1VNmM22WWSlIM6g6o=";
+      url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.0/file/bmd.stm32-for-vscode-3.2.0.vsix";
+      sha256 = "sha256-x9iSnbgHY9VwFjs9oYLL5TsmIlRrJ7UmsOS2NlQRDvI=";
     };
     name = "stm32-for-vscode";
     license = "MIT";
@@ -18456,6 +18456,18 @@
     license = "ISC";
     publisher = "while";
     description = "sco \33050\26412\22522\30784\35821\27861\25552\31034\21644\39640\20142";
+  };
+  whizkydee-material-palenight-theme = {
+    pname = "whizkydee-material-palenight-theme";
+    version = "2.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/whizkydee/material-palenight-theme/2.0.2/file/whizkydee.material-palenight-theme-2.0.2.vsix";
+      sha256 = "sha256-HI/zAaBxYM6flQxgryMrTet27BgOl3jXGh6YPkT6+nY=";
+    };
+    name = "material-palenight-theme";
+    license = "MIT";
+    publisher = "whizkydee";
+    description = "An elegant and juicy material-inspired theme for Visual Studio Code.";
   };
   wholroyd-jinja = {
     pname = "wholroyd-jinja";

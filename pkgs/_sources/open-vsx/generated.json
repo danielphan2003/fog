@@ -29643,7 +29643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmd-stm32-for-vscode",
-    "version": "3.1.4",
+    "version": "3.2.0",
     "passthru": {
       "name": "stm32-for-vscode",
       "license": "MIT",
@@ -29651,10 +29651,10 @@
       "description": "An extension for: setting up, compiling, uploading and debugging STM32 applications"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmd/stm32-for-vscode/3.1.4/file/bmd.stm32-for-vscode-3.1.4.vsix",
+      "url": "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.0/file/bmd.stm32-for-vscode-3.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ss+H3sWgqqPqbmAvinas90qwts1VNmM22WWSlIM6g6o="
+      "sha256": "sha256-x9iSnbgHY9VwFjs9oYLL5TsmIlRrJ7UmsOS2NlQRDvI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30995,6 +30995,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-POIrekEkrYVj7MU9ZXToLIV0pl2X8PUBOQuuB4Mykt4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "whizkydee-material-palenight-theme": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "whizkydee-material-palenight-theme",
+    "version": "2.0.2",
+    "passthru": {
+      "name": "material-palenight-theme",
+      "license": "MIT",
+      "publisher": "whizkydee",
+      "description": "An elegant and juicy material-inspired theme for Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/whizkydee/material-palenight-theme/2.0.2/file/whizkydee.material-palenight-theme-2.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-HI/zAaBxYM6flQxgryMrTet27BgOl3jXGh6YPkT6+nY="
     },
     "extract": null,
     "rustGitDeps": null
