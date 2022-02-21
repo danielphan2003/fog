@@ -9363,7 +9363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adhamu-history-in-sublime-merge",
-    "version": "1.2.15",
+    "version": "1.2.17",
     "passthru": {
       "name": "history-in-sublime-merge",
       "license": "MIT",
@@ -9371,10 +9371,10 @@
       "description": "Open files in Sublime Merge"
     },
     "src": {
-      "url": "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.15/file/adhamu.history-in-sublime-merge-1.2.15.vsix",
+      "url": "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.17/file/adhamu.history-in-sublime-merge-1.2.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jgq5fPdPyeUU4qJw8zlpWjsL1DmEJfKtcfplyEFyksY="
+      "sha256": "sha256-JZOORWFVM69CB4s41CpW6hlUq8FDQSuA2xEq1sgL6ew="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9783,7 +9783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "stkb-rewrap",
-    "version": "1.16.2",
+    "version": "1.16.3",
     "passthru": {
       "name": "rewrap",
       "license": "",
@@ -9791,10 +9791,10 @@
       "description": "Hard word wrapping for comments and other text at a given column."
     },
     "src": {
-      "url": "https://open-vsx.org/api/stkb/rewrap/1.16.2/file/stkb.rewrap-1.16.2.vsix",
+      "url": "https://open-vsx.org/api/stkb/rewrap/1.16.3/file/stkb.rewrap-1.16.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DtYukdA1YyrMKq8ESMA5MNVPcWWM1lm+R+R4vmmlcWI="
+      "sha256": "sha256-WHeLTN992ltEZw2W7B3sJrHfAFsOGMq3llV4C0hXLNA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18263,7 +18263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "kahole-magit",
-    "version": "0.6.26",
+    "version": "0.6.27",
     "passthru": {
       "name": "magit",
       "license": "MIT",
@@ -18271,10 +18271,10 @@
       "description": "Magit for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/kahole/magit/0.6.26/file/kahole.magit-0.6.26.vsix",
+      "url": "https://open-vsx.org/api/kahole/magit/0.6.27/file/kahole.magit-0.6.27.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oZKyx1pZqLPtXejJKMViAxsayMOfFW46h9DLtK76VsU="
+      "sha256": "sha256-Ta2rbS02MnDxT6194NpOFbAlHOGzWXOg6iloBngxs/w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28683,7 +28683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.654",
+    "version": "31.0.655",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28691,10 +28691,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.654/file/Prisma.prisma-insider-31.0.654.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.655/file/Prisma.prisma-insider-31.0.655.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3VWC2ap5JkD/TmDw87JlaJJoAvRpZsolFLMV7Kn0Jyg="
+      "sha256": "sha256-Xk2PxXFsrYtMnybX3N9mES5p8kk577ZN3foSHWPT3wM="
     },
     "extract": null,
     "rustGitDeps": null

@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.654";
+    version = "31.0.655";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.654/file/Prisma.prisma-insider-31.0.654.vsix";
-      sha256 = "sha256-3VWC2ap5JkD/TmDw87JlaJJoAvRpZsolFLMV7Kn0Jyg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.655/file/Prisma.prisma-insider-31.0.655.vsix";
+      sha256 = "sha256-Xk2PxXFsrYtMnybX3N9mES5p8kk577ZN3foSHWPT3wM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3795,10 +3795,10 @@
   };
   adhamu-history-in-sublime-merge = {
     pname = "adhamu-history-in-sublime-merge";
-    version = "1.2.15";
+    version = "1.2.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.15/file/adhamu.history-in-sublime-merge-1.2.15.vsix";
-      sha256 = "sha256-Jgq5fPdPyeUU4qJw8zlpWjsL1DmEJfKtcfplyEFyksY=";
+      url = "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.17/file/adhamu.history-in-sublime-merge-1.2.17.vsix";
+      sha256 = "sha256-JZOORWFVM69CB4s41CpW6hlUq8FDQSuA2xEq1sgL6ew=";
     };
     name = "history-in-sublime-merge";
     license = "MIT";
@@ -9891,10 +9891,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.26";
+    version = "0.6.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.26/file/kahole.magit-0.6.26.vsix";
-      sha256 = "sha256-oZKyx1pZqLPtXejJKMViAxsayMOfFW46h9DLtK76VsU=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.27/file/kahole.magit-0.6.27.vsix";
+      sha256 = "sha256-Ta2rbS02MnDxT6194NpOFbAlHOGzWXOg6iloBngxs/w=";
     };
     name = "magit";
     license = "MIT";
@@ -15495,10 +15495,10 @@
   };
   stkb-rewrap = {
     pname = "stkb-rewrap";
-    version = "1.16.2";
+    version = "1.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stkb/rewrap/1.16.2/file/stkb.rewrap-1.16.2.vsix";
-      sha256 = "sha256-DtYukdA1YyrMKq8ESMA5MNVPcWWM1lm+R+R4vmmlcWI=";
+      url = "https://open-vsx.org/api/stkb/rewrap/1.16.3/file/stkb.rewrap-1.16.3.vsix";
+      sha256 = "sha256-WHeLTN992ltEZw2W7B3sJrHfAFsOGMq3llV4C0hXLNA=";
     };
     name = "rewrap";
     license = "";
