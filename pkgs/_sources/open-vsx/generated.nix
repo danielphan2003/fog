@@ -6531,10 +6531,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.82.0";
+    version = "0.83.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.82.0/file/dendron.dendron-0.82.0.vsix";
-      sha256 = "sha256-nUJ6o9DIJI17mt0v2DxjAJf2LQWUZEsZPphSQDxPufE=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.83.0/file/dendron.dendron-0.83.0.vsix";
+      sha256 = "sha256-LvsHwgrFrLzKTMkNuAt7w9oiF0czNPnIOkNjCRrl2uA=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -6804,6 +6804,30 @@
     license = "MIT";
     publisher = "dsznajder";
     description = "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.";
+  };
+  dubadub-Cooklang = {
+    pname = "dubadub-Cooklang";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dubadub/Cooklang/0.0.4/file/dubadub.Cooklang-0.0.4.vsix";
+      sha256 = "sha256-Y/tuPy9ts/DcoLMUWYhboguFu3e2ShWbJT2m11PSm1U=";
+    };
+    name = "Cooklang";
+    license = "MIT";
+    publisher = "dubadub";
+    description = "Cooklang syntax";
+  };
+  dubadub-cook = {
+    pname = "dubadub-cook";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dubadub/cook/0.0.3/file/dubadub.cook-0.0.3.vsix";
+      sha256 = "sha256-aEM8jNXXRZy4GsVmoBVueUOS6Ki+vFW3iPA4WqFGApA=";
+    };
+    name = "cook";
+    license = "MIT";
+    publisher = "dubadub";
+    description = "cook";
   };
   ducky-ducky = {
     pname = "ducky-ducky";
@@ -10815,10 +10839,10 @@
   };
   madeindjs-notable = {
     pname = "madeindjs-notable";
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/madeindjs/notable/0.3.1/file/madeindjs.notable-0.3.1.vsix";
-      sha256 = "sha256-n1iQP9NAjWDTbn9icyfjdk+EKtXabBvx9KebCoYvnco=";
+      url = "https://open-vsx.org/api/madeindjs/notable/0.3.2/file/madeindjs.notable-0.3.2.vsix";
+      sha256 = "sha256-+30HbOP4pL2BsBku+qoAHjZTBWR/3ZYDTuWdMAIagx4=";
     };
     name = "notable";
     license = "MIT";

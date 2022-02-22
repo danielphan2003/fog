@@ -7063,7 +7063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "madeindjs-notable",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "passthru": {
       "name": "notable",
       "license": "MIT",
@@ -7071,10 +7071,10 @@
       "description": "Create, edit and search Markdown notes from Notable."
     },
     "src": {
-      "url": "https://open-vsx.org/api/madeindjs/notable/0.3.1/file/madeindjs.notable-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/madeindjs/notable/0.3.2/file/madeindjs.notable-0.3.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-n1iQP9NAjWDTbn9icyfjdk+EKtXabBvx9KebCoYvnco="
+      "sha256": "sha256-+30HbOP4pL2BsBku+qoAHjZTBWR/3ZYDTuWdMAIagx4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8315,6 +8315,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-M4c0X0D3JRU2PtGdVgbx8fIkGGeIKNgQGTOQA9fyU2c="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "dubadub-Cooklang": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "dubadub-Cooklang",
+    "version": "0.0.4",
+    "passthru": {
+      "name": "Cooklang",
+      "license": "MIT",
+      "publisher": "dubadub",
+      "description": "Cooklang syntax"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/dubadub/Cooklang/0.0.4/file/dubadub.Cooklang-0.0.4.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Y/tuPy9ts/DcoLMUWYhboguFu3e2ShWbJT2m11PSm1U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15819,6 +15839,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "dubadub-cook": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "dubadub-cook",
+    "version": "0.0.3",
+    "passthru": {
+      "name": "cook",
+      "license": "MIT",
+      "publisher": "dubadub",
+      "description": "cook"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/dubadub/cook/0.0.3/file/dubadub.cook-0.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-aEM8jNXXRZy4GsVmoBVueUOS6Ki+vFW3iPA4WqFGApA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "streetsidesoftware-code-spell-checker-medical-terms": {
     "pinned": false,
     "cargoLock": null,
@@ -22283,7 +22323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.82.0",
+    "version": "0.83.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -22291,10 +22331,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.82.0/file/dendron.dendron-0.82.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.83.0/file/dendron.dendron-0.83.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nUJ6o9DIJI17mt0v2DxjAJf2LQWUZEsZPphSQDxPufE="
+      "sha256": "sha256-LvsHwgrFrLzKTMkNuAt7w9oiF0czNPnIOkNjCRrl2uA="
     },
     "extract": null,
     "rustGitDeps": null
