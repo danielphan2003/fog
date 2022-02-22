@@ -7523,7 +7523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma",
-    "version": "3.9.2",
+    "version": "3.10.0",
     "passthru": {
       "name": "prisma",
       "license": "Apache-2.0",
@@ -7531,10 +7531,10 @@
       "description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma/3.9.2/file/Prisma.prisma-3.9.2.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma/3.10.0/file/Prisma.prisma-3.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XtUeQzvsfTer4fjbU6Is2UCuNxs/1YckMqjfvLY/+S8="
+      "sha256": "sha256-h9i3vnjxU/fF2pCbvMOxgUTlmcq4uPsUQAtTBF4h/AI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12143,7 +12143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.290",
+    "version": "0.25.291",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12151,10 +12151,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.290/file/pokey.cursorless-0.25.290.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.291/file/pokey.cursorless-0.25.291.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hzzD+Kb9GDHCOpJK3KTB31pElRZ4GzN39ugkM5PrMLw="
+      "sha256": "sha256-5+phzNhEr9yh7DuEkASorqR+0ym4xD6rkZCJLmxtHYU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21743,7 +21743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tfsec-tfsec",
-    "version": "1.7.4",
+    "version": "1.7.5",
     "passthru": {
       "name": "tfsec",
       "license": "MIT",
@@ -21751,10 +21751,10 @@
       "description": "tfsec integration for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tfsec/tfsec/1.7.4/file/tfsec.tfsec-1.7.4.vsix",
+      "url": "https://open-vsx.org/api/tfsec/tfsec/1.7.5/file/tfsec.tfsec-1.7.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SC1vUuWVN9bbO6Ce13mdDvEP2wKXmM+2/hwUqpJ/fO0="
+      "sha256": "sha256-6LPd2JxoflWjsCu/JQ5ddRlnBNgCt9/Sqd3o0NPnyDw="
     },
     "extract": null,
     "rustGitDeps": null
