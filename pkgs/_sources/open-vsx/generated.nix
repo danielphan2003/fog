@@ -6195,10 +6195,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.17.1";
+    version = "0.17.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.1/file/cyrusfirheir.twee3-language-tools-0.17.1.vsix";
-      sha256 = "sha256-ejonHtBIQ9I6IiB1H0N12mUQasCNawqoURiHg5eEaoU=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.2/file/cyrusfirheir.twee3-language-tools-0.17.2.vsix";
+      sha256 = "sha256-W3hKs1+aeeYCQv7tUzjxHVNBEzWo8/LoupRuh1BkkXY=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -11403,10 +11403,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.8.4";
+    version = "1.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.8.4/file/mintlify.document-1.8.4.vsix";
-      sha256 = "sha256-Vb3HNui17J6w/uqdsIyyTQ1A40iis2MQCvG92L7NSS4=";
+      url = "https://open-vsx.org/api/mintlify/document/1.9.0/file/mintlify.document-1.9.0.vsix";
+      sha256 = "sha256-ivPHf9UD2QDB0G3zgyqel62ypAlD56oPb5ZxJ87cgj4=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -18999,10 +18999,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.1.0/file/zenclabs.previewjs-1.1.0.vsix";
-      sha256 = "sha256-wbu5InRmyMAaTOuAWR8cFn5Gwax3lcbCUMAWhSWdAgA=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.2.0/file/zenclabs.previewjs-1.2.0.vsix";
+      sha256 = "sha256-QCFjlLzcnkt6bbZ8ymO+Po6WvYdeKERihrQrvld+22s=";
     };
     name = "previewjs";
     license = "AGPL-3.0";
