@@ -4395,10 +4395,10 @@
   };
   anweber-git-buttons = {
     pname = "anweber-git-buttons";
-    version = "2.1.1";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/git-buttons/2.1.1/file/anweber.git-buttons-2.1.1.vsix";
-      sha256 = "sha256-+629h8mcbQ9ZQh2KAE62E0bZudoANaW1VuJU1axfyNk=";
+      url = "https://open-vsx.org/api/anweber/git-buttons/3.0.0/file/anweber.git-buttons-3.0.0.vsix";
+      sha256 = "sha256-gT51uiQbmZDAqsHd1pzLoDWrFv1N2wIDsxEMbcdyH8M=";
     };
     name = "git-buttons";
     license = "MIT";
@@ -14295,10 +14295,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.40.1";
+    version = "0.41.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.40.1/file/robocorp.robotframework-lsp-0.40.1.vsix";
-      sha256 = "sha256-lXVY1jdnZaj8AhGpujYlIxtjq3xEiEixefnbrjMM7+0=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.41.0/file/robocorp.robotframework-lsp-0.41.0.vsix";
+      sha256 = "sha256-PLUukHNGrz6whKoiBqZ9fLIn9jywqBdh1BCtjtiMl0Q=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
