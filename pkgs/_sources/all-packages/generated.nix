@@ -890,13 +890,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "e2d5e4f7f8e77c84908e78f76e6a410b0174de80";
+    version = "045379c46ff4027d1db210da17a1e93f43941120";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "e2d5e4f7f8e77c84908e78f76e6a410b0174de80";
+      rev = "045379c46ff4027d1db210da17a1e93f43941120";
       fetchSubmodules = false;
-      sha256 = "sha256-NxiqcQ2LUVl6ZloRSS3YKCtCTkeiU/3IKo/Ovt7kz6o=";
+      sha256 = "sha256-5jI8pu6nPY9j5KOL8uIacrLxgkWpdxEUfwwkotwVzwU=";
     });
   };
   spicetify-themes = {
@@ -1107,13 +1107,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "4c7cec47691b67eb1334c4d67fdb28bc49347bf3";
+    version = "241d914b74292b0d5a49665d9cab5238bd762994";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "4c7cec47691b67eb1334c4d67fdb28bc49347bf3";
+      rev = "241d914b74292b0d5a49665d9cab5238bd762994";
       fetchSubmodules = false;
-      sha256 = "sha256-FhXsg4RxURHPIQ8ox4XxHmOX2u8MqJ9eZnKq//FtGq0=";
+      sha256 = "sha256-UNz3B50qDE2s48Ch97UDGEA36lpvZHtlRxXj7TJG3lc=";
     });
   };
   whitesur-icon-theme = {
