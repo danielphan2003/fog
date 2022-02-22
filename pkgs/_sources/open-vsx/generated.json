@@ -12143,7 +12143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.289",
+    "version": "0.25.290",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12151,10 +12151,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.289/file/pokey.cursorless-0.25.289.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.290/file/pokey.cursorless-0.25.290.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-weaK9Dl5LMQO9SYLrgQ8NIB45X3OBZpk82/WLEaxq78="
+      "sha256": "sha256-hzzD+Kb9GDHCOpJK3KTB31pElRZ4GzN39ugkM5PrMLw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19163,7 +19163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-dot-icons",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "passthru": {
       "name": "dot-icons",
       "license": "MIT",
@@ -19171,10 +19171,10 @@
       "description": "Icons with a dot"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/dot-icons/0.2.0/file/anweber.dot-icons-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/anweber/dot-icons/0.3.0/file/anweber.dot-icons-0.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tsl/ICuUeNtMCpE2pJ2Mg0ELmTp75Kn2u1MO9tjM0vM="
+      "sha256": "sha256-02Zx+NI+T2hNqEuUyUKhI+lnp1DEt9QHMYYNsRvC7Nw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28723,7 +28723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.658",
+    "version": "31.0.660",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28731,10 +28731,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.658/file/Prisma.prisma-insider-31.0.658.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.660/file/Prisma.prisma-insider-31.0.660.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QtOoZJ/g3vV34VX8DziQvXyyaPCoE6wshLOL6bg7pJI="
+      "sha256": "sha256-cM9IgWrcGz5z1cXh9OPoZjrFdAU4ZiZwPOe+G+fOwNY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30923,7 +30923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.17.2",
+    "version": "0.18.1",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -30931,10 +30931,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.2/file/cyrusfirheir.twee3-language-tools-0.17.2.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.1/file/cyrusfirheir.twee3-language-tools-0.18.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-W3hKs1+aeeYCQv7tUzjxHVNBEzWo8/LoupRuh1BkkXY="
+      "sha256": "sha256-WuEgvtS/rjn9lve2l6ll2DzkjLzFm9pAmbdNtyhgqMQ="
     },
     "extract": null,
     "rustGitDeps": null

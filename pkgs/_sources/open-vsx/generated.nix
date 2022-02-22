@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.658";
+    version = "31.0.660";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.658/file/Prisma.prisma-insider-31.0.658.vsix";
-      sha256 = "sha256-QtOoZJ/g3vV34VX8DziQvXyyaPCoE6wshLOL6bg7pJI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.660/file/Prisma.prisma-insider-31.0.660.vsix";
+      sha256 = "sha256-cM9IgWrcGz5z1cXh9OPoZjrFdAU4ZiZwPOe+G+fOwNY=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4383,10 +4383,10 @@
   };
   anweber-dot-icons = {
     pname = "anweber-dot-icons";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/dot-icons/0.2.0/file/anweber.dot-icons-0.2.0.vsix";
-      sha256 = "sha256-tsl/ICuUeNtMCpE2pJ2Mg0ELmTp75Kn2u1MO9tjM0vM=";
+      url = "https://open-vsx.org/api/anweber/dot-icons/0.3.0/file/anweber.dot-icons-0.3.0.vsix";
+      sha256 = "sha256-02Zx+NI+T2hNqEuUyUKhI+lnp1DEt9QHMYYNsRvC7Nw=";
     };
     name = "dot-icons";
     license = "MIT";
@@ -6195,10 +6195,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.17.2";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.2/file/cyrusfirheir.twee3-language-tools-0.17.2.vsix";
-      sha256 = "sha256-W3hKs1+aeeYCQv7tUzjxHVNBEzWo8/LoupRuh1BkkXY=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.1/file/cyrusfirheir.twee3-language-tools-0.18.1.vsix";
+      sha256 = "sha256-WuEgvtS/rjn9lve2l6ll2DzkjLzFm9pAmbdNtyhgqMQ=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -13443,10 +13443,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.289";
+    version = "0.25.290";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.289/file/pokey.cursorless-0.25.289.vsix";
-      sha256 = "sha256-weaK9Dl5LMQO9SYLrgQ8NIB45X3OBZpk82/WLEaxq78=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.290/file/pokey.cursorless-0.25.290.vsix";
+      sha256 = "sha256-hzzD+Kb9GDHCOpJK3KTB31pElRZ4GzN39ugkM5PrMLw=";
     };
     name = "cursorless";
     license = "MIT";
