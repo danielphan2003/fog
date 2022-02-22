@@ -4383,15 +4383,15 @@
   };
   anweber-dot-icons = {
     pname = "anweber-dot-icons";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/dot-icons/0.1.0/file/anweber.dot-icons-0.1.0.vsix";
-      sha256 = "sha256-LoHMEfsGBqafUv5xSjbS2Kr02jT/Ds+7RpR9viRHfHk=";
+      url = "https://open-vsx.org/api/anweber/dot-icons/0.2.0/file/anweber.dot-icons-0.2.0.vsix";
+      sha256 = "sha256-tsl/ICuUeNtMCpE2pJ2Mg0ELmTp75Kn2u1MO9tjM0vM=";
     };
     name = "dot-icons";
     license = "MIT";
     publisher = "anweber";
-    description = "Icons with low key colors";
+    description = "Icons with a dot";
   };
   anweber-git-buttons = {
     pname = "anweber-git-buttons";
@@ -6195,10 +6195,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.17.0";
+    version = "0.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.0/file/cyrusfirheir.twee3-language-tools-0.17.0.vsix";
-      sha256 = "sha256-4Hs7dXjwnNrrc5DG0x1ReNBWMwFvmwZoGbSWgLoKiNo=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.17.1/file/cyrusfirheir.twee3-language-tools-0.17.1.vsix";
+      sha256 = "sha256-ejonHtBIQ9I6IiB1H0N12mUQasCNawqoURiHg5eEaoU=";
     };
     name = "twee3-language-tools";
     license = "MIT";
