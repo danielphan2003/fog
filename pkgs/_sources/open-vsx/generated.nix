@@ -1851,10 +1851,10 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.5";
+    version = "2.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.5/file/LuqueDaniel.languague-renpy-2.0.5.vsix";
-      sha256 = "sha256-H7k6FYW5Py70Jpr1UwYmVUKjIS+DDaOpjwh6IUjCoFU=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.6/file/LuqueDaniel.languague-renpy-2.0.6.vsix";
+      sha256 = "sha256-cLcyCccmpIuHgNbCLYYf7tPZO0oC+qrM8RDp5LCaRSk=";
     };
     name = "languague-renpy";
     license = "MIT";
@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.660";
+    version = "31.0.661";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.660/file/Prisma.prisma-insider-31.0.660.vsix";
-      sha256 = "sha256-cM9IgWrcGz5z1cXh9OPoZjrFdAU4ZiZwPOe+G+fOwNY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.661/file/Prisma.prisma-insider-31.0.661.vsix";
+      sha256 = "sha256-b+ugQfetGPsIA/h9tM+5y1B9B0bhGH0pSWTxuToPX3E=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
