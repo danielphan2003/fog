@@ -27203,7 +27203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "glenn2223-live-sass",
-    "version": "5.2.0-rc.1",
+    "version": "5.2.0",
     "passthru": {
       "name": "live-sass",
       "license": "MIT",
@@ -27211,10 +27211,10 @@
       "description": "Compile Sass or Scss to CSS at realtime."
     },
     "src": {
-      "url": "https://open-vsx.org/api/glenn2223/live-sass/5.2.0-rc.1/file/glenn2223.live-sass-5.2.0-rc.1.vsix",
+      "url": "https://open-vsx.org/api/glenn2223/live-sass/5.2.0/file/glenn2223.live-sass-5.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zY07j/bLeppELq8xmqHRBBU2L5cDTm9gNbZbbd7j4JI="
+      "sha256": "sha256-3YxnviYJVzFAmdR+esPdb/04MHKdmzFmjQgV0vr2sik="
     },
     "extract": null,
     "rustGitDeps": null

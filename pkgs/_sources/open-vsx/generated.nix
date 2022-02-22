@@ -8211,10 +8211,10 @@
   };
   glenn2223-live-sass = {
     pname = "glenn2223-live-sass";
-    version = "5.2.0-rc.1";
+    version = "5.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/glenn2223/live-sass/5.2.0-rc.1/file/glenn2223.live-sass-5.2.0-rc.1.vsix";
-      sha256 = "sha256-zY07j/bLeppELq8xmqHRBBU2L5cDTm9gNbZbbd7j4JI=";
+      url = "https://open-vsx.org/api/glenn2223/live-sass/5.2.0/file/glenn2223.live-sass-5.2.0.vsix";
+      sha256 = "sha256-3YxnviYJVzFAmdR+esPdb/04MHKdmzFmjQgV0vr2sik=";
     };
     name = "live-sass";
     license = "MIT";
