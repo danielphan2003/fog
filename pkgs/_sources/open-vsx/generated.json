@@ -563,7 +563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.6.3",
+    "version": "0.6.4",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -571,10 +571,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.3/file/halcyontechltd.vscode-rpgle-0.6.3.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.4/file/halcyontechltd.vscode-rpgle-0.6.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8nfSYzmvKdc1mJrT5hBlTXWAWflhFenTEMa/UitC64Y="
+      "sha256": "sha256-4FtvWeqFS4HvfYrIB0b001PkmUOBYB+tcye02dc95YE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9483,7 +9483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "foam-foam-vscode",
-    "version": "0.17.4",
+    "version": "0.17.5",
     "passthru": {
       "name": "foam-vscode",
       "license": "MIT",
@@ -9491,10 +9491,10 @@
       "description": "VS Code + Markdown + Wikilinks for your note taking and knowledge base"
     },
     "src": {
-      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.4/file/foam.foam-vscode-0.17.4.vsix",
+      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.5/file/foam.foam-vscode-0.17.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-czwXYiLMWQGQLq2htT+MJQMfJBFb2HNVbiOCUCHpUIY="
+      "sha256": "sha256-N27Sh7Xx/b+OyGXhlHkMabfkeq7/o7ee1uuvwYcKURM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10483,18 +10483,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.4.1",
+    "version": "0.5.1",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
       "publisher": "wcrichton",
-      "description": "Powerful IDE tools for Rust"
+      "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.4.1/file/wcrichton.flowistry-0.4.1.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.1/file/wcrichton.flowistry-0.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-59tL01Lqbm7PwtiayaOqKhwbUn65DKUujRLfZOvxfzQ="
+      "sha256": "sha256-CFUTvdPaNUc6j1nyv0JCiMbDQ3XuNjwpBj1enjRvGrM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11563,7 +11563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ocamllabs-ocaml-platform",
-    "version": "1.9.3",
+    "version": "1.9.5",
     "passthru": {
       "name": "ocaml-platform",
       "license": "MIT",
@@ -11571,10 +11571,10 @@
       "description": "Official OCaml language extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.3/file/ocamllabs.ocaml-platform-1.9.3.vsix",
+      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.5/file/ocamllabs.ocaml-platform-1.9.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jBZjYbLkPXOWGM68tgvODE67Fg3ddEPwT1lTH13S6Es="
+      "sha256": "sha256-u4WV07wmwjqMwE05M5NZ8/6vPj2M3Lygw1oSMj8A+CY="
     },
     "extract": null,
     "rustGitDeps": null

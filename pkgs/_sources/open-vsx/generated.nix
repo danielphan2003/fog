@@ -7731,10 +7731,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.17.4";
+    version = "0.17.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.4/file/foam.foam-vscode-0.17.4.vsix";
-      sha256 = "sha256-czwXYiLMWQGQLq2htT+MJQMfJBFb2HNVbiOCUCHpUIY=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.5/file/foam.foam-vscode-0.17.5.vsix";
+      sha256 = "sha256-N27Sh7Xx/b+OyGXhlHkMabfkeq7/o7ee1uuvwYcKURM=";
     };
     name = "foam-vscode";
     license = "MIT";
@@ -8475,10 +8475,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.3";
+    version = "0.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.3/file/halcyontechltd.vscode-rpgle-0.6.3.vsix";
-      sha256 = "sha256-8nfSYzmvKdc1mJrT5hBlTXWAWflhFenTEMa/UitC64Y=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.4/file/halcyontechltd.vscode-rpgle-0.6.4.vsix";
+      sha256 = "sha256-4FtvWeqFS4HvfYrIB0b001PkmUOBYB+tcye02dc95YE=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -12711,10 +12711,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.9.3";
+    version = "1.9.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.3/file/ocamllabs.ocaml-platform-1.9.3.vsix";
-      sha256 = "sha256-jBZjYbLkPXOWGM68tgvODE67Fg3ddEPwT1lTH13S6Es=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.5/file/ocamllabs.ocaml-platform-1.9.5.vsix";
+      sha256 = "sha256-u4WV07wmwjqMwE05M5NZ8/6vPj2M3Lygw1oSMj8A+CY=";
     };
     name = "ocaml-platform";
     license = "MIT";
@@ -18399,15 +18399,15 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.4.1";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.4.1/file/wcrichton.flowistry-0.4.1.vsix";
-      sha256 = "sha256-59tL01Lqbm7PwtiayaOqKhwbUn65DKUujRLfZOvxfzQ=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.1/file/wcrichton.flowistry-0.5.1.vsix";
+      sha256 = "sha256-CFUTvdPaNUc6j1nyv0JCiMbDQ3XuNjwpBj1enjRvGrM=";
     };
     name = "flowistry";
     license = "MIT";
     publisher = "wcrichton";
-    description = "Powerful IDE tools for Rust";
+    description = "Information Flow in the IDE for Rust";
   };
   webfreak-code-d = {
     pname = "webfreak-code-d";
