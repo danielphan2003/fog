@@ -795,10 +795,10 @@
   };
   DrMerfy-overtype = {
     pname = "DrMerfy-overtype";
-    version = "0.4.0";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DrMerfy/overtype/0.4.0/file/DrMerfy.overtype-0.4.0.vsix";
-      sha256 = "sha256-LYjFvVQ6UibI+NedYVkcc7dfU4GYCAegfmVE9uenGrI=";
+      url = "https://open-vsx.org/api/DrMerfy/overtype/0.4.6/file/DrMerfy.overtype-0.4.6.vsix";
+      sha256 = "sha256-nS5IHJNyqWCF6mSBbbl7YXoBPRrqMu0ZK1E7YDCmt1A=";
     };
     name = "overtype";
     license = "BSD-2-Clause";
@@ -6615,10 +6615,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.82.3";
+    version = "0.82.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.82.3/file/dendron.nightly-0.82.3.vsix";
-      sha256 = "sha256-I4sxBfU5Ek/eaCGc4Gj4qXxSd2rwrAObUJL/dgTg6W0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.82.4/file/dendron.nightly-0.82.4.vsix";
+      sha256 = "sha256-3Qz1ZI6qoKBblhMU+FIDffGjMeHCK6voJbJPVXAzzZ4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
