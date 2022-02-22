@@ -2979,10 +2979,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.2023";
+    version = "2022.2.2120";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2023/file/Slint.slint-nightly-2022.2.2023.vsix";
-      sha256 = "sha256-V2CYtCj+ixRrCzGSE0DxK15anx5+dbbpEqDc/rEkpso=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2120/file/Slint.slint-nightly-2022.2.2120.vsix";
+      sha256 = "sha256-iA3+t4vmmlGHaxBDNNNLlxODYlfbEW8y8vILZLS6RMY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5631,10 +5631,10 @@
   };
   christianvoigt-argdown-vscode = {
     pname = "christianvoigt-argdown-vscode";
-    version = "1.8.1";
+    version = "1.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/christianvoigt/argdown-vscode/1.8.1/file/christianvoigt.argdown-vscode-1.8.1.vsix";
-      sha256 = "sha256-iek5muFslo3bRu7eS0xKXDq2NN4/FwMpTnbPYIP4xe8=";
+      url = "https://open-vsx.org/api/christianvoigt/argdown-vscode/1.8.2/file/christianvoigt.argdown-vscode-1.8.2.vsix";
+      sha256 = "sha256-H8WQ7uFhRVaxhukjzoJsT+M9b7PPBRJYh687cLXHqoM=";
     };
     name = "argdown-vscode";
     license = "MIT";
@@ -7251,10 +7251,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.2.0";
+    version = "9.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.2.0/file/esbenp.prettier-vscode-9.2.0.vsix";
-      sha256 = "sha256-0dEzt2uIjmMbrGUHYw7/6v4P+ed7C8cP6kt/eGLI3PQ=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.3.0/file/esbenp.prettier-vscode-9.3.0.vsix";
+      sha256 = "sha256-+5ymYIL2kxgVu4pmgmZ9GPsenngoMxMTtTbBb35zPjQ=";
     };
     name = "prettier-vscode";
     license = "MIT";
@@ -8427,10 +8427,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "0.9.1";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/0.9.1/file/halcyontechltd.code-for-ibmi-0.9.1.vsix";
-      sha256 = "sha256-l3D5lSZGVWagl86+R8o2+Mh0CLrD4K5kq+gJK3VkuSc=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.0/file/halcyontechltd.code-for-ibmi-1.0.0.vsix";
+      sha256 = "sha256-I5qH9J2+QdaWdMpUcdVWCAEuIVTjEa2b7/vR6dXKcBo=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -10203,10 +10203,10 @@
   };
   kodetech-kha = {
     pname = "kodetech-kha";
-    version = "21.11.0";
+    version = "22.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/kha/21.11.0/file/kodetech.kha-21.11.0.vsix";
-      sha256 = "sha256-vjAHjvY2O8YWNIhRHxxxgmhZZL9LRz/vtoCts8r6ndU=";
+      url = "https://open-vsx.org/api/kodetech/kha/22.2.0/file/kodetech.kha-22.2.0.vsix";
+      sha256 = "sha256-O3vL0IIqWwI/cJpNaVXvshitCUrk193icY1XIJNjU9k=";
     };
     name = "kha";
     license = "";
