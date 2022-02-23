@@ -7663,7 +7663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "matepek-vscode-catch2-test-adapter",
-    "version": "4.0.25",
+    "version": "4.0.26",
     "passthru": {
       "name": "vscode-catch2-test-adapter",
       "license": "MIT",
@@ -7671,10 +7671,10 @@
       "description": "Run GoogleTest, Catch2 and DOCtest tests from VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.25/file/matepek.vscode-catch2-test-adapter-4.0.25.vsix",
+      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.26/file/matepek.vscode-catch2-test-adapter-4.0.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MWJblEr2i/CDEIPvrXzbhCWCXBox2s78khGpLmw5cW0="
+      "sha256": "sha256-ci6RaXYjuh7sHf+JEWxkP/Oa0w5JCCgcpur8Dz7p0PI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9263,7 +9263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmewburn-vscode-intelephense-client",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "passthru": {
       "name": "vscode-intelephense-client",
       "license": "MIT",
@@ -9271,10 +9271,10 @@
       "description": "PHP code intelligence for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.1/file/bmewburn.vscode-intelephense-client-1.8.1.vsix",
+      "url": "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.2/file/bmewburn.vscode-intelephense-client-1.8.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tp335iyz3kETybqkQO4dr+cgsD4HpEHvlpn/B3WREZk="
+      "sha256": "sha256-smfAOKJdn1eyG5VLPA76EW0VAAMKSeM97c+R97UnVLw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22383,7 +22383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-azuretools-vscode-docker",
-    "version": "1.19.0",
+    "version": "1.20.0",
     "passthru": {
       "name": "vscode-docker",
       "license": "MIT",
@@ -22391,10 +22391,10 @@
       "description": "Makes it easy to create, manage, and debug containerized applications."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.19.0/file/ms-azuretools.vscode-docker-1.19.0.vsix",
+      "url": "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.20.0/file/ms-azuretools.vscode-docker-1.20.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-buIAbsyKUvX3blO1AbCq/tJ1KAcqaFpciqQovmOZ5GE="
+      "sha256": "sha256-i3gYTP76YEDItG2oXR9pEXuGv0qmyf1Xv6HQvDBEOyg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22883,7 +22883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-vscode-github-issue-notebooks",
-    "version": "0.0.113",
+    "version": "0.0.115",
     "passthru": {
       "name": "vscode-github-issue-notebooks",
       "license": "MIT",
@@ -22891,10 +22891,10 @@
       "description": "GitHub Issue Notebooks for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.113/file/ms-vscode.vscode-github-issue-notebooks-0.0.113.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.115/file/ms-vscode.vscode-github-issue-notebooks-0.0.115.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HpnSWpDYMbRDveBkMBEPlrhjHI7U1iUKO7glo8+T9Rg="
+      "sha256": "sha256-V2JuiG9I4YLsvpq16jXdVW13DTHC9HmGyqQGybUuKVM="
     },
     "extract": null,
     "rustGitDeps": null

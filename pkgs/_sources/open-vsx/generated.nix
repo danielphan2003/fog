@@ -5175,10 +5175,10 @@
   };
   bmewburn-vscode-intelephense-client = {
     pname = "bmewburn-vscode-intelephense-client";
-    version = "1.8.1";
+    version = "1.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.1/file/bmewburn.vscode-intelephense-client-1.8.1.vsix";
-      sha256 = "sha256-tp335iyz3kETybqkQO4dr+cgsD4HpEHvlpn/B3WREZk=";
+      url = "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.2/file/bmewburn.vscode-intelephense-client-1.8.2.vsix";
+      sha256 = "sha256-smfAOKJdn1eyG5VLPA76EW0VAAMKSeM97c+R97UnVLw=";
     };
     name = "vscode-intelephense-client";
     license = "MIT";
@@ -11007,10 +11007,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.0.25";
+    version = "4.0.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.25/file/matepek.vscode-catch2-test-adapter-4.0.25.vsix";
-      sha256 = "sha256-MWJblEr2i/CDEIPvrXzbhCWCXBox2s78khGpLmw5cW0=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.26/file/matepek.vscode-catch2-test-adapter-4.0.26.vsix";
+      sha256 = "sha256-ci6RaXYjuh7sHf+JEWxkP/Oa0w5JCCgcpur8Dz7p0PI=";
     };
     name = "vscode-catch2-test-adapter";
     license = "MIT";
@@ -11691,10 +11691,10 @@
   };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
-    version = "1.19.0";
+    version = "1.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.19.0/file/ms-azuretools.vscode-docker-1.19.0.vsix";
-      sha256 = "sha256-buIAbsyKUvX3blO1AbCq/tJ1KAcqaFpciqQovmOZ5GE=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.20.0/file/ms-azuretools.vscode-docker-1.20.0.vsix";
+      sha256 = "sha256-i3gYTP76YEDItG2oXR9pEXuGv0qmyf1Xv6HQvDBEOyg=";
     };
     name = "vscode-docker";
     license = "MIT";
@@ -11991,10 +11991,10 @@
   };
   ms-vscode-vscode-github-issue-notebooks = {
     pname = "ms-vscode-vscode-github-issue-notebooks";
-    version = "0.0.113";
+    version = "0.0.115";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.113/file/ms-vscode.vscode-github-issue-notebooks-0.0.113.vsix";
-      sha256 = "sha256-HpnSWpDYMbRDveBkMBEPlrhjHI7U1iUKO7glo8+T9Rg=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.115/file/ms-vscode.vscode-github-issue-notebooks-0.0.115.vsix";
+      sha256 = "sha256-V2JuiG9I4YLsvpq16jXdVW13DTHC9HmGyqQGybUuKVM=";
     };
     name = "vscode-github-issue-notebooks";
     license = "MIT";
