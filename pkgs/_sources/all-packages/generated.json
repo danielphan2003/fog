@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "743c82c4ebac57bfc11b06526b97c9a0de333cca",
+    "version": "0082a4c51a9892bc399c360f4953f7467a70affb",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-rVnQLo3YSm/Uivoqw645UXnSF6KQS9iEiMFOr9kvZD8=",
-      "rev": "743c82c4ebac57bfc11b06526b97c9a0de333cca"
+      "sha256": "sha256-TPJjCVk/u7omFPtF+rGHHLeIbau/0vnOT/kjm3f8Xxw=",
+      "rev": "0082a4c51a9892bc399c360f4953f7467a70affb"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-630-ge91de82e",
+    "version": "2.1-631-g6545b1bb",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-630-ge91de82e-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-631-g6545b1bb-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-K0KxknGP0cuKDNfv6jwnnWp4eGNcdFphTfAt5Id2ESE="
+      "sha256": "sha256-fUUlkpYV6CzlXRRnXTh942kv4Zm9RahXm0gcRjpGpQQ="
     },
     "extract": null,
     "rustGitDeps": null
