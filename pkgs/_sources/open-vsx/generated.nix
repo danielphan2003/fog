@@ -12495,10 +12495,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.1.15";
+    version = "0.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.15/file/nickmillerdev.pytest-fixtures-0.1.15.vsix";
-      sha256 = "sha256-wClGTHPolA7iOP/kcll1+tqdT0rcu5v32LCDYJhsZA4=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.17/file/nickmillerdev.pytest-fixtures-0.1.17.vsix";
+      sha256 = "sha256-IhxI7dMe0NeXhCNS/o3ze+nOcnp2qLgJwc3eBTcGIUs=";
     };
     name = "pytest-fixtures";
     license = "MIT";
