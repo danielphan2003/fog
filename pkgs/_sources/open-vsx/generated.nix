@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.666";
+    version = "31.0.667";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.666/file/Prisma.prisma-insider-31.0.666.vsix";
-      sha256 = "sha256-cpD3rTguZwW5684eR1a93LMQwt+R+TuRGaEM3pIpFeg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.667/file/Prisma.prisma-insider-31.0.667.vsix";
+      sha256 = "sha256-hg7v9l7Fv8Wwcf73jWod2JzSaxIvtch2zUMK4nv96Ws=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3603,10 +3603,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.8.2";
+    version = "4.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.8.2/file/42Crunch.vscode-openapi-4.8.2.vsix";
-      sha256 = "sha256-pOuvaVXNdRb1RifPlPDNsV96OBGSOzz4QsuhIdfMtXE=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.1/file/42Crunch.vscode-openapi-4.9.1.vsix";
+      sha256 = "sha256-Bf/zw/dzmxUmTNkqU+5OZIAZMy5WTK6f0M2d3Qjoxuc=";
     };
     name = "vscode-openapi";
     license = "AGPL-3.0-only";
@@ -5067,10 +5067,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.244";
+    version = "2.0.245";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.244/file/betterthantomorrow.calva-2.0.244.vsix";
-      sha256 = "sha256-S//e1X0292nvWvw/BoE6+Pml1ItbXO7F9AGSg/jWHCQ=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.245/file/betterthantomorrow.calva-2.0.245.vsix";
+      sha256 = "sha256-BS6Ak7OANzO2ecHkvF1A4QF0whz6yUCIMqt0JfUpaRE=";
     };
     name = "calva";
     license = "MIT";
@@ -9231,10 +9231,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.4.1";
+    version = "1.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.1/file/intersystems-community.vscode-objectscript-1.4.1.vsix";
-      sha256 = "sha256-TlkuNUcnKfu7JXIcCjqmF5SKtNGiz+yo+rBZRm3cJPg=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.2/file/intersystems-community.vscode-objectscript-1.4.2.vsix";
+      sha256 = "sha256-/HYxt5frIkPxDIl8HAmuUvqZpbip3RJ4LdH6GKgoEbU=";
     };
     name = "vscode-objectscript";
     license = "MIT";
@@ -9615,10 +9615,10 @@
   };
   jnoortheen-nix-ide = {
     pname = "jnoortheen-nix-ide";
-    version = "0.1.18";
+    version = "0.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.18/file/jnoortheen.nix-ide-0.1.18.vsix";
-      sha256 = "sha256-GoCzYLkp6p+Oe1G3ilxNnXhtyRG3XQ8gUVy5lYd85cM=";
+      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.20/file/jnoortheen.nix-ide-0.1.20.vsix";
+      sha256 = "sha256-GIoklDi0XVZ6rUdIhi7MTX1lCQdx0wpZx7gcCGoIizE=";
     };
     name = "nix-ide";
     license = "MIT";
