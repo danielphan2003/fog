@@ -12403,7 +12403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.9.0",
+    "version": "1.9.1",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12411,10 +12411,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.9.0/file/mintlify.document-1.9.0.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.9.1/file/mintlify.document-1.9.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ivPHf9UD2QDB0G3zgyqel62ypAlD56oPb5ZxJ87cgj4="
+      "sha256": "sha256-1AI6f5KI8AavJuCNn+oakZWVMRLC+uBCB2LIeuf5CEc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28423,7 +28423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Catppuccin-catppuccin-vsc",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "passthru": {
       "name": "catppuccin-vsc",
       "license": "MIT",
@@ -28431,10 +28431,10 @@
       "description": "Warm mid-tone dark theme to show off your vibrant self!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.3/file/Catppuccin.catppuccin-vsc-1.0.3.vsix",
+      "url": "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.4/file/Catppuccin.catppuccin-vsc-1.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qjp7O0wYryclWr3jqxJr//bIAuFsCTt/+lQNw6sJFzY="
+      "sha256": "sha256-43kO6DJvQrz3zheLkpH0xmvh3B0G+RH9vRHnAMTCL5w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28763,7 +28763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.661",
+    "version": "31.0.665",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28771,10 +28771,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.661/file/Prisma.prisma-insider-31.0.661.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.665/file/Prisma.prisma-insider-31.0.665.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-b+ugQfetGPsIA/h9tM+5y1B9B0bhGH0pSWTxuToPX3E="
+      "sha256": "sha256-22/TYZIDVVbCzevq7kYQAruB7bs6U0Bn2/4JsJ8UZQY="
     },
     "extract": null,
     "rustGitDeps": null
