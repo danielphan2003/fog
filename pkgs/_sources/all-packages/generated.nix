@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5881";
+    version = "1.0.5882";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5881.tar.bz2";
-      sha256 = "sha256-tBb4otre0HS8xv91DD8ys37KOzgSkbkJhnlkZ5jMxUs=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5882.tar.bz2";
+      sha256 = "sha256-t0imsQxRlB8OzjvjCDuZ8eduJVp5T0oC3GCZv/ubmxs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5881";
+    version = "1.0.5882";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5881-1_all.deb";
-      sha256 = "sha256-dpoE4Qk1FVSTcBrDARbLOs/DdvNjWC1wdw3WY/FB8hA=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5882-1_all.deb";
+      sha256 = "sha256-dOc6J1pvWvY99rNnKvff5t26IK+hbe5QIYFYM87gA4U=";
     };
   };
   jitsi-videobridge2 = {
@@ -1107,24 +1107,24 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "25efe8f8d73331c4285c7191566ed5b27d594496";
+    version = "16a845fb5724aafda7f078344de55126075a22a0";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "25efe8f8d73331c4285c7191566ed5b27d594496";
+      rev = "16a845fb5724aafda7f078344de55126075a22a0";
       fetchSubmodules = false;
-      sha256 = "sha256-2kPeK4CSySGA/C96K2t3Va4XpiD3jwTjqOhmQP3oRJI=";
+      sha256 = "sha256-iQTjwlworef5G9G3jLyGpHpc/zsb3BXN4HJ6NiaSE1Y=";
     });
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "eeb46bef3346bf17211e41a1ad165ce7cd746227";
+    version = "3125d12b418f0006d7d1b12843fd9f2e118adf27";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "eeb46bef3346bf17211e41a1ad165ce7cd746227";
+      rev = "3125d12b418f0006d7d1b12843fd9f2e118adf27";
       fetchSubmodules = false;
-      sha256 = "sha256-wKCTapvtM0NRehtaFluU3EBHrkFAxFuBgt/z3rh+ItQ=";
+      sha256 = "sha256-Z846hHeoe0A2dCam2pKvxxtd/OiHmzkmKtw++FzhjYc=";
     });
   };
   widevine-cdm = {
