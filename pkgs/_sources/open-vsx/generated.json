@@ -16523,7 +16523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.12.7",
+    "version": "0.12.8",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16531,10 +16531,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.7/file/shufo.vscode-blade-formatter-0.12.7.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.8/file/shufo.vscode-blade-formatter-0.12.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oKCGPhmfGZRAdKndIm/1nqt95EUg4lJ3MGyepT3k7hY="
+      "sha256": "sha256-9Zp/G1svUEaRHjXHHHnHEQyuSB5IGpOm5JZ6ZAY7iaA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28763,7 +28763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.665",
+    "version": "31.0.666",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28771,10 +28771,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.665/file/Prisma.prisma-insider-31.0.665.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.666/file/Prisma.prisma-insider-31.0.666.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-22/TYZIDVVbCzevq7kYQAruB7bs6U0Bn2/4JsJ8UZQY="
+      "sha256": "sha256-cpD3rTguZwW5684eR1a93LMQwt+R+TuRGaEM3pIpFeg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31143,7 +31143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-bridge-for-git-explorer",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "passthru": {
       "name": "bridge-for-git-explorer",
       "license": "",
@@ -31151,10 +31151,10 @@
       "description": "Add elements from up the CA Endevor map to your synchronized Git-Endevor repository."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.2/file/BroadcomMFD.bridge-for-git-explorer-0.2.2.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.3/file/BroadcomMFD.bridge-for-git-explorer-0.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-krnmJnQdEe/Ng1lpIL+uedoRbeZCMxGmqfNsBBgNnYc="
+      "sha256": "sha256-9phCML0fmLlWT0TNllAVPETK9Kdmr1X4OoViNimGAhg="
     },
     "extract": null,
     "rustGitDeps": null
