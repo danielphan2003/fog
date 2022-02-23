@@ -219,10 +219,10 @@
   };
   BroadcomMFD-bridge-for-git-explorer = {
     pname = "BroadcomMFD-bridge-for-git-explorer";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.2/file/BroadcomMFD.bridge-for-git-explorer-0.2.2.vsix";
-      sha256 = "sha256-krnmJnQdEe/Ng1lpIL+uedoRbeZCMxGmqfNsBBgNnYc=";
+      url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.3/file/BroadcomMFD.bridge-for-git-explorer-0.2.3.vsix";
+      sha256 = "sha256-9phCML0fmLlWT0TNllAVPETK9Kdmr1X4OoViNimGAhg=";
     };
     name = "bridge-for-git-explorer";
     license = "";
@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.665";
+    version = "31.0.666";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.665/file/Prisma.prisma-insider-31.0.665.vsix";
-      sha256 = "sha256-22/TYZIDVVbCzevq7kYQAruB7bs6U0Bn2/4JsJ8UZQY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.666/file/Prisma.prisma-insider-31.0.666.vsix";
+      sha256 = "sha256-cpD3rTguZwW5684eR1a93LMQwt+R+TuRGaEM3pIpFeg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15063,10 +15063,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.12.7";
+    version = "0.12.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.7/file/shufo.vscode-blade-formatter-0.12.7.vsix";
-      sha256 = "sha256-oKCGPhmfGZRAdKndIm/1nqt95EUg4lJ3MGyepT3k7hY=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.12.8/file/shufo.vscode-blade-formatter-0.12.8.vsix";
+      sha256 = "sha256-9Zp/G1svUEaRHjXHHHnHEQyuSB5IGpOm5JZ6ZAY7iaA=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
