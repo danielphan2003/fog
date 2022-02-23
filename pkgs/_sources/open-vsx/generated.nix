@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.667";
+    version = "31.0.669";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.667/file/Prisma.prisma-insider-31.0.667.vsix";
-      sha256 = "sha256-hg7v9l7Fv8Wwcf73jWod2JzSaxIvtch2zUMK4nv96Ws=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.669/file/Prisma.prisma-insider-31.0.669.vsix";
+      sha256 = "sha256-h9AoEB5/dmyfrgemd/4RI3i8QY8RD5b1bxLEtArewv4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -18399,10 +18399,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.1/file/wcrichton.flowistry-0.5.1.vsix";
-      sha256 = "sha256-CFUTvdPaNUc6j1nyv0JCiMbDQ3XuNjwpBj1enjRvGrM=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.2/file/wcrichton.flowistry-0.5.2.vsix";
+      sha256 = "sha256-b/rm4UXFj/Kj0pIpyqkocAJsoossmTj5crNgIzNopdc=";
     };
     name = "flowistry";
     license = "MIT";
