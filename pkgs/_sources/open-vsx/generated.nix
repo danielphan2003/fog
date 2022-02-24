@@ -7071,10 +7071,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1894068";
+    version = "6.1.1894311";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1894068/file/eliostruyf.vscode-front-matter-beta-6.1.1894068.vsix";
-      sha256 = "sha256-4nTnVhaQ2QCxqIO1KErQZVuVEY9x4Bftx1C9dsYUoeM=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1894311/file/eliostruyf.vscode-front-matter-beta-6.1.1894311.vsix";
+      sha256 = "sha256-xalqOXFiuM201AbRP525Z5Qddcbs79AL4cuGMKL5sjg=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11305,6 +11305,18 @@
     publisher = "meronz";
     description = "Quickly open man pages and navigate through them.";
   };
+  mesonbuild-mesonbuild = {
+    pname = "mesonbuild-mesonbuild";
+    version = "1.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.0/file/mesonbuild.mesonbuild-1.5.0.vsix";
+      sha256 = "sha256-9ZX94Ld8h/fqozEC/CpY4Th3xz55t0K79eMEsOnjKrI=";
+    };
+    name = "mesonbuild";
+    license = "Apache-2.0";
+    publisher = "mesonbuild";
+    description = "Meson language support for Visual Studio Code";
+  };
   metafacture-fix = {
     pname = "metafacture-fix";
     version = "0.1.1";
@@ -15399,10 +15411,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.10.2";
+    version = "0.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.2/file/sourcery.sourcery-0.10.2.vsix";
-      sha256 = "sha256-UoBqkXaR1D+mqBuvsUXxJyNqQHmYH/vj246GYCYeTOU=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.3/file/sourcery.sourcery-0.10.3.vsix";
+      sha256 = "sha256-57dG9zcSAKwFaYKpwYKfwJqSfKs+aued4EX8zxFfdec=";
     };
     name = "sourcery";
     license = "MIT";
@@ -16251,10 +16263,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.18.8";
+    version = "0.18.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.8/file/timonwong.shellcheck-0.18.8.vsix";
-      sha256 = "sha256-bdOhQrnZXtZKLrfPYOJ8d9YmC7qXH1fEH8TlzlDLx+Q=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.9/file/timonwong.shellcheck-0.18.9.vsix";
+      sha256 = "sha256-D7lRMmmDgAHKPVyZMC06zNef8UtrgNEE+m0mTbIuc1A=";
     };
     name = "shellcheck";
     license = "MIT";
