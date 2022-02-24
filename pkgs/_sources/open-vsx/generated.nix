@@ -11103,15 +11103,15 @@
   };
   maximsmol-open-by-path = {
     pname = "maximsmol-open-by-path";
-    version = "0.1.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/maximsmol/open-by-path/0.1.0/file/maximsmol.open-by-path-0.1.0.vsix";
-      sha256 = "sha256-SLnULB4vttzADWz02tO/D1VAJL5D2Spo2CSlCBLJ76Q=";
+      url = "https://open-vsx.org/api/maximsmol/open-by-path/0.3.0/file/maximsmol.open-by-path-0.3.0.vsix";
+      sha256 = "sha256-GAl3S4O+6u7hKApXUSC/ei78TbfWCSGHYYKHXtwkWj4=";
     };
     name = "open-by-path";
     license = "MIT OR 0BSD OR CC0-1.0 OR Unlicense";
     publisher = "maximsmol";
-    description = "";
+    description = "Open a file by typing its path. Supports fuzzy autocomplete.";
   };
   maziac-asm-code-lens = {
     pname = "maziac-asm-code-lens";
