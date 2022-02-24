@@ -1563,7 +1563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "entan-gl-cc65-vice",
-    "version": "6.1.1",
+    "version": "6.1.2",
     "passthru": {
       "name": "cc65-vice",
       "license": "MIT",
@@ -1571,10 +1571,10 @@
       "description": "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators."
     },
     "src": {
-      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.1/file/entan-gl.cc65-vice-6.1.1.vsix",
+      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.2/file/entan-gl.cc65-vice-6.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-c34JeBdTnMp393Vuza29HNEsMkDE6C/PQjGkcDn65QQ="
+      "sha256": "sha256-vsR6CGOJ0gW1UoT3pC1PtLRQ9xmCJkH92g0Q2oytma4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10503,7 +10503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.4",
+    "version": "0.5.5",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10511,10 +10511,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.4/file/wcrichton.flowistry-0.5.4.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.5/file/wcrichton.flowistry-0.5.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2LeyGmugiIl+MoSkTXfBvr0pO4obY66XIusizewqBfo="
+      "sha256": "sha256-Jh37ZujRQikSbJ1v88YzRVsG2g1b/HE7weUQ3hZTVwk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28783,7 +28783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.670",
+    "version": "31.0.671",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28791,10 +28791,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.670/file/Prisma.prisma-insider-31.0.670.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.671/file/Prisma.prisma-insider-31.0.671.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vFdUS9F365iN+Wp3e28MO4WPBIKx0NOS1NPWhkIDDUc="
+      "sha256": "sha256-kMmuFam4vBhVedcAC1nTyyFpvS5OL0JhTottVi/rTsU="
     },
     "extract": null,
     "rustGitDeps": null
