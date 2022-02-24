@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "b86da5bd24852eef379cdd04414bbb5f96e36871",
+    "version": "2b2990397c77fd935d572a67c6e76fe65849da83",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-rUPrfiTwzONrm4Gf4lb8UaRexOhq1OQvbaxsfmofzQc=",
-      "rev": "b86da5bd24852eef379cdd04414bbb5f96e36871"
+      "sha256": "sha256-IuBKJIoe5a49UaC617z7my+fxgRV7fbha8EZjbDsJs8=",
+      "rev": "2b2990397c77fd935d572a67c6e76fe65849da83"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.5885",
+    "version": "1.0.5886",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5885-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5886-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-O6+nBJBFFApu+sqaPujOxEUciAamAg4KJx2y/3Y11PU="
+      "sha256": "sha256-raEAXblwHY06IghZxDcmnl95n2mmzr0zVtoIxMVgPvQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5885",
+    "version": "1.0.5886",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5885.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5886.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YwK74Fp7ui4NTjMRY4YzdkMqjIoVBgm/M2YNpOgokPY="
+      "sha256": "sha256-VRDLAtzE2Ju+iT0hI6WGLWLZzviMYCn/XpsyD9muDjI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "8175504584c21e837809534fd8a113d6023f5b6f",
+    "version": "1b5bb2e81d23131848528694d2417d49afb9e403",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-KuHeAYpCuxb/c0v070YMGrBCZKon2yCrt1mVzs7lz4E=",
-      "rev": "8175504584c21e837809534fd8a113d6023f5b6f"
+      "sha256": "sha256-+4+n/TO3AcEG212C+OjwmiOUa3MEkq2KziwvykfGHAo=",
+      "rev": "1b5bb2e81d23131848528694d2417d49afb9e403"
     },
     "extract": null,
     "rustGitDeps": null
