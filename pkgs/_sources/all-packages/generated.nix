@@ -105,11 +105,11 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "382b9181dfb9d4d6ae010af526e7410383137fd5";
+    version = "6b6ed86b6ceb5b4eb99d0132509abeebff74b5ca";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "382b9181dfb9d4d6ae010af526e7410383137fd5";
+      rev = "6b6ed86b6ceb5b4eb99d0132509abeebff74b5ca";
       fetchSubmodules = false;
       sha256 = "sha256-Df2D2eBifkZpFklPBbE94AvgAUM/NUAAiuqUzp67Hdo=";
     });
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ee4486068dddf268808d492cd2bfce11535d4d07";
+    version = "569704fb3786f1448acc63bfef0ad7a4d2018124";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ee4486068dddf268808d492cd2bfce11535d4d07";
+      rev = "569704fb3786f1448acc63bfef0ad7a4d2018124";
       fetchSubmodules = false;
-      sha256 = "sha256-RCKtDB8n3iWS3SdKzFTY3u+lco8DqKVYLIl+nd/Wn4g=";
+      sha256 = "sha256-2qS6QU2cdKlMRoCqgYB6g8J0I9rRxUqXwQGwTiOTpoo=";
     });
   };
   rofi-wayland = {
@@ -784,16 +784,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "69769cc123fd6e115947247fa2ffeb72dc9d81e5";
+    version = "4fb8de9b683811ba59780dcfaa15b20bf5b576a8";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "69769cc123fd6e115947247fa2ffeb72dc9d81e5";
+      rev = "4fb8de9b683811ba59780dcfaa15b20bf5b576a8";
       fetchSubmodules = false;
-      sha256 = "sha256-8gEpJHDjgrHzYk7Fvepjz2yqlfiSXGKqx118W8aG0W8=";
+      sha256 = "sha256-JGNb5YGgpQK0lME0BfJb5y5ID1ulAW+TRPdWcBhJ56E=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-69769cc123fd6e115947247fa2ffeb72dc9d81e5/Cargo.lock;
+      lockFile = ./rustdesk-4fb8de9b683811ba59780dcfaa15b20bf5b576a8/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3c2cd854beef3952eb883fe269cab4fe80f020a8";
+    version = "8175504584c21e837809534fd8a113d6023f5b6f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3c2cd854beef3952eb883fe269cab4fe80f020a8";
+      rev = "8175504584c21e837809534fd8a113d6023f5b6f";
       fetchSubmodules = false;
-      sha256 = "sha256-WwhZPq3HgwGq1K+FXdprcL97FeA/1MVH0xhThMwsyG0=";
+      sha256 = "sha256-KuHeAYpCuxb/c0v070YMGrBCZKon2yCrt1mVzs7lz4E=";
     });
   };
   tailscale-systray = {
