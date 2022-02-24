@@ -5563,7 +5563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "everscale-solidity-support",
-    "version": "1.2.28",
+    "version": "1.2.36",
     "passthru": {
       "name": "solidity-support",
       "license": "Apache-2.0",
@@ -5571,10 +5571,10 @@
       "description": "Everscale Solidity Language for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.28/file/everscale.solidity-support-1.2.28.vsix",
+      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.36/file/everscale.solidity-support-1.2.36.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FhAKq7x3KLfI15YqXrb1J3uxqXhoM/gyOVhoIxUWx3o="
+      "sha256": "sha256-toSBjP2wXg4CniTZIix129pNCTsVurbvHZQhszhuOFI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8983,7 +8983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.28.0",
+    "version": "2.28.1",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -8991,10 +8991,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.0/file/RokuCommunity.brightscript-2.28.0.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.1/file/RokuCommunity.brightscript-2.28.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xUt479vAvGqmmksfXXwYkLmjnZXJBlTJ/IPeEvdWGjk="
+      "sha256": "sha256-jmotlbGrbL3emFQLkxg1hNAv0FeB52zps6+CLKi9qko="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17903,7 +17903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iljapostnovs-ui5plugin",
-    "version": "0.14.23",
+    "version": "0.14.24",
     "passthru": {
       "name": "ui5plugin",
       "license": "Apache-2.0",
@@ -17911,10 +17911,10 @@
       "description": "Extension for working with UI5 projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.23/file/iljapostnovs.ui5plugin-0.14.23.vsix",
+      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.24/file/iljapostnovs.ui5plugin-0.14.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9PF3TtC/rBSFeI0t8EsKAD3cDUpMwc869lk+rJINv2Y="
+      "sha256": "sha256-iLUEYeA1N5HboIKTq/ba2I/gtA7xNscrQFsC576BQqs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28783,7 +28783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.671",
+    "version": "31.0.672",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28791,10 +28791,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.671/file/Prisma.prisma-insider-31.0.671.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.672/file/Prisma.prisma-insider-31.0.672.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kMmuFam4vBhVedcAC1nTyyFpvS5OL0JhTottVi/rTsU="
+      "sha256": "sha256-5NxMiosaU7bmD2LMi/JDHSqOrbOrU8Ld9p4n+M6MPGw="
     },
     "extract": null,
     "rustGitDeps": null

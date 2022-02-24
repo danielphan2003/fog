@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.671";
+    version = "31.0.672";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.671/file/Prisma.prisma-insider-31.0.671.vsix";
-      sha256 = "sha256-kMmuFam4vBhVedcAC1nTyyFpvS5OL0JhTottVi/rTsU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.672/file/Prisma.prisma-insider-31.0.672.vsix";
+      sha256 = "sha256-5NxMiosaU7bmD2LMi/JDHSqOrbOrU8Ld9p4n+M6MPGw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2811,10 +2811,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.28.0";
+    version = "2.28.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.0/file/RokuCommunity.brightscript-2.28.0.vsix";
-      sha256 = "sha256-xUt479vAvGqmmksfXXwYkLmjnZXJBlTJ/IPeEvdWGjk=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.1/file/RokuCommunity.brightscript-2.28.1.vsix";
+      sha256 = "sha256-jmotlbGrbL3emFQLkxg1hNAv0FeB52zps6+CLKi9qko=";
     };
     name = "brightscript";
     license = "MIT";
@@ -7383,10 +7383,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.28";
+    version = "1.2.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.28/file/everscale.solidity-support-1.2.28.vsix";
-      sha256 = "sha256-FhAKq7x3KLfI15YqXrb1J3uxqXhoM/gyOVhoIxUWx3o=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.36/file/everscale.solidity-support-1.2.36.vsix";
+      sha256 = "sha256-toSBjP2wXg4CniTZIix129pNCTsVurbvHZQhszhuOFI=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -9147,10 +9147,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.23";
+    version = "0.14.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.23/file/iljapostnovs.ui5plugin-0.14.23.vsix";
-      sha256 = "sha256-9PF3TtC/rBSFeI0t8EsKAD3cDUpMwc869lk+rJINv2Y=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.24/file/iljapostnovs.ui5plugin-0.14.24.vsix";
+      sha256 = "sha256-iLUEYeA1N5HboIKTq/ba2I/gtA7xNscrQFsC576BQqs=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
