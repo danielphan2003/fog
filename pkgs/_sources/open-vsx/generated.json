@@ -6799,6 +6799,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "mesonbuild-mesonbuild": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "mesonbuild-mesonbuild",
+    "version": "1.5.0",
+    "passthru": {
+      "name": "mesonbuild",
+      "license": "Apache-2.0",
+      "publisher": "mesonbuild",
+      "description": "Meson language support for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.0/file/mesonbuild.mesonbuild-1.5.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-9ZX94Ld8h/fqozEC/CpY4Th3xz55t0K79eMEsOnjKrI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "pdesaulniers-vscode-teal": {
     "pinned": false,
     "cargoLock": null,
@@ -7683,7 +7703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sourcery-sourcery",
-    "version": "0.10.2",
+    "version": "0.10.3",
     "passthru": {
       "name": "sourcery",
       "license": "MIT",
@@ -7691,10 +7711,10 @@
       "description": "Refactor Python instantly with Sourcery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sourcery/sourcery/0.10.2/file/sourcery.sourcery-0.10.2.vsix",
+      "url": "https://open-vsx.org/api/sourcery/sourcery/0.10.3/file/sourcery.sourcery-0.10.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UoBqkXaR1D+mqBuvsUXxJyNqQHmYH/vj246GYCYeTOU="
+      "sha256": "sha256-57dG9zcSAKwFaYKpwYKfwJqSfKs+aued4EX8zxFfdec="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8943,7 +8963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1894068",
+    "version": "6.1.1894311",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8951,10 +8971,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1894068/file/eliostruyf.vscode-front-matter-beta-6.1.1894068.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1894311/file/eliostruyf.vscode-front-matter-beta-6.1.1894311.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4nTnVhaQ2QCxqIO1KErQZVuVEY9x4Bftx1C9dsYUoeM="
+      "sha256": "sha256-xalqOXFiuM201AbRP525Z5Qddcbs79AL4cuGMKL5sjg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23543,7 +23563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "timonwong-shellcheck",
-    "version": "0.18.8",
+    "version": "0.18.9",
     "passthru": {
       "name": "shellcheck",
       "license": "MIT",
@@ -23551,10 +23571,10 @@
       "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts."
     },
     "src": {
-      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.8/file/timonwong.shellcheck-0.18.8.vsix",
+      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.9/file/timonwong.shellcheck-0.18.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bdOhQrnZXtZKLrfPYOJ8d9YmC7qXH1fEH8TlzlDLx+Q="
+      "sha256": "sha256-D7lRMmmDgAHKPVyZMC06zNef8UtrgNEE+m0mTbIuc1A="
     },
     "extract": null,
     "rustGitDeps": null
