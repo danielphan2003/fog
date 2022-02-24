@@ -2979,10 +2979,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.2120";
+    version = "2022.2.2322";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2120/file/Slint.slint-nightly-2022.2.2120.vsix";
-      sha256 = "sha256-iA3+t4vmmlGHaxBDNNNLlxODYlfbEW8y8vILZLS6RMY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2322/file/Slint.slint-nightly-2022.2.2322.vsix";
+      sha256 = "sha256-mA01/vrwr8n6x+StdgBvJ3tSeeNF9CxoM6PxKtiRCh4=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8451,10 +8451,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.0.0";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.0/file/halcyontechltd.code-for-ibmi-1.0.0.vsix";
-      sha256 = "sha256-I5qH9J2+QdaWdMpUcdVWCAEuIVTjEa2b7/vR6dXKcBo=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.2/file/halcyontechltd.code-for-ibmi-1.0.2.vsix";
+      sha256 = "sha256-CT7SIVXKtagp3y3XOBv9Zh7mlhL4Er1wwj1W3FAL4Ak=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -11727,10 +11727,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.223";
+    version = "1.1.224";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.223/file/ms-pyright.pyright-1.1.223.vsix";
-      sha256 = "sha256-9MrnYaojHmuZOFQjxqG13SwEJT9zTe9eCutmHiQCBYs=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.224/file/ms-pyright.pyright-1.1.224.vsix";
+      sha256 = "sha256-UPM3fxKoKij0dARFBy1+BIADJYD+EU8dsPpFGFnSQnk=";
     };
     name = "pyright";
     license = "MIT";
@@ -11871,10 +11871,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.64.3";
+    version = "1.65.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.64.3/file/ms-vscode.js-debug-1.64.3.vsix";
-      sha256 = "sha256-7hRiPDdqxIa08pR3SAREsVqzKY5eEtqxnkMphbEnyUA=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.65.0/file/ms-vscode.js-debug-1.65.0.vsix";
+      sha256 = "sha256-Ac8hhNZXchx1F4pWBUeMdEJxaV0coym8g9ZGbR8aej4=";
     };
     name = "js-debug";
     license = "MIT";
@@ -18399,10 +18399,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.3";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.3/file/wcrichton.flowistry-0.5.3.vsix";
-      sha256 = "sha256-9QFeI1xOhuN4ZzRFjtYOoi6CCkcVXf0/O8FjRjCbg9E=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.4/file/wcrichton.flowistry-0.5.4.vsix";
+      sha256 = "sha256-2LeyGmugiIl+MoSkTXfBvr0pO4obY66XIusizewqBfo=";
     };
     name = "flowistry";
     license = "MIT";

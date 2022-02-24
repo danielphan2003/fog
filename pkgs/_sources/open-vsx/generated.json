@@ -10483,7 +10483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.3",
+    "version": "0.5.4",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10491,10 +10491,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.3/file/wcrichton.flowistry-0.5.3.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.4/file/wcrichton.flowistry-0.5.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9QFeI1xOhuN4ZzRFjtYOoi6CCkcVXf0/O8FjRjCbg9E="
+      "sha256": "sha256-2LeyGmugiIl+MoSkTXfBvr0pO4obY66XIusizewqBfo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14223,7 +14223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.2120",
+    "version": "2022.2.2322",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14231,10 +14231,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2120/file/Slint.slint-nightly-2022.2.2120.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2322/file/Slint.slint-nightly-2022.2.2322.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iA3+t4vmmlGHaxBDNNNLlxODYlfbEW8y8vILZLS6RMY="
+      "sha256": "sha256-mA01/vrwr8n6x+StdgBvJ3tSeeNF9CxoM6PxKtiRCh4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15683,7 +15683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15691,10 +15691,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.0/file/halcyontechltd.code-for-ibmi-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.2/file/halcyontechltd.code-for-ibmi-1.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-I5qH9J2+QdaWdMpUcdVWCAEuIVTjEa2b7/vR6dXKcBo="
+      "sha256": "sha256-CT7SIVXKtagp3y3XOBv9Zh7mlhL4Er1wwj1W3FAL4Ak="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26203,7 +26203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug",
-    "version": "1.64.3",
+    "version": "1.65.0",
     "passthru": {
       "name": "js-debug",
       "license": "MIT",
@@ -26211,10 +26211,10 @@
       "description": "An extension for debugging Node.js programs and Chrome."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.64.3/file/ms-vscode.js-debug-1.64.3.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.65.0/file/ms-vscode.js-debug-1.65.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7hRiPDdqxIa08pR3SAREsVqzKY5eEtqxnkMphbEnyUA="
+      "sha256": "sha256-Ac8hhNZXchx1F4pWBUeMdEJxaV0coym8g9ZGbR8aej4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28583,7 +28583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.223",
+    "version": "1.1.224",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -28591,10 +28591,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.223/file/ms-pyright.pyright-1.1.223.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.224/file/ms-pyright.pyright-1.1.224.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9MrnYaojHmuZOFQjxqG13SwEJT9zTe9eCutmHiQCBYs="
+      "sha256": "sha256-UPM3fxKoKij0dARFBy1+BIADJYD+EU8dsPpFGFnSQnk="
     },
     "extract": null,
     "rustGitDeps": null
