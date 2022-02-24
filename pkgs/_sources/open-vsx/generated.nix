@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.670";
+    version = "31.0.671";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.670/file/Prisma.prisma-insider-31.0.670.vsix";
-      sha256 = "sha256-vFdUS9F365iN+Wp3e28MO4WPBIKx0NOS1NPWhkIDDUc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.671/file/Prisma.prisma-insider-31.0.671.vsix";
+      sha256 = "sha256-kMmuFam4vBhVedcAC1nTyyFpvS5OL0JhTottVi/rTsU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7227,10 +7227,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.1.1";
+    version = "6.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.1/file/entan-gl.cc65-vice-6.1.1.vsix";
-      sha256 = "sha256-c34JeBdTnMp393Vuza29HNEsMkDE6C/PQjGkcDn65QQ=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.2/file/entan-gl.cc65-vice-6.1.2.vsix";
+      sha256 = "sha256-vsR6CGOJ0gW1UoT3pC1PtLRQ9xmCJkH92g0Q2oytma4=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -18411,10 +18411,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.4";
+    version = "0.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.4/file/wcrichton.flowistry-0.5.4.vsix";
-      sha256 = "sha256-2LeyGmugiIl+MoSkTXfBvr0pO4obY66XIusizewqBfo=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.5/file/wcrichton.flowistry-0.5.5.vsix";
+      sha256 = "sha256-Jh37ZujRQikSbJ1v88YzRVsG2g1b/HE7weUQ3hZTVwk=";
     };
     name = "flowistry";
     license = "MIT";
