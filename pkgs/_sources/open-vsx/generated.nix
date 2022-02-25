@@ -7071,10 +7071,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1897453";
+    version = "6.1.1897922";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1897453/file/eliostruyf.vscode-front-matter-beta-6.1.1897453.vsix";
-      sha256 = "sha256-2fEEKQQWfBJ7/uInxj/bm2TGhsoE3WsICE5RvaUNQtc=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1897922/file/eliostruyf.vscode-front-matter-beta-6.1.1897922.vsix";
+      sha256 = "sha256-YOY9xCuUMO2Zj27WnHWYnbvI7BqCVjpLovxK7vfwBFw=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -14775,10 +14775,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.11.0";
+    version = "1.11.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.0/file/sasjs.sasjs-for-vscode-1.11.0.vsix";
-      sha256 = "sha256-JmNP80RofhPnuF8vfRPniKmaTO+urvvX0yXHcFCq8UM=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.1/file/sasjs.sasjs-for-vscode-1.11.1.vsix";
+      sha256 = "sha256-wBMt+UdnGJXohujKl2P3H8yATnCsw84sqazADWfLsgE=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
@@ -19143,10 +19143,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.8.0/file/zokugun.sync-settings-0.8.0.vsix";
-      sha256 = "sha256-XiprtwPkz4Bn0A/xntRJd80AfBBa0qNIIikIV1KLx+c=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.8.1/file/zokugun.sync-settings-0.8.1.vsix";
+      sha256 = "sha256-uGfRofQw2a15+jbHm8gv+m/2H2Blgl7yB8MCY9SMT7o=";
     };
     name = "sync-settings";
     license = "MIT";

@@ -6883,7 +6883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zokugun-sync-settings",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "passthru": {
       "name": "sync-settings",
       "license": "MIT",
@@ -6891,10 +6891,10 @@
       "description": "Easily synchronize your settings"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.8.0/file/zokugun.sync-settings-0.8.0.vsix",
+      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.8.1/file/zokugun.sync-settings-0.8.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XiprtwPkz4Bn0A/xntRJd80AfBBa0qNIIikIV1KLx+c="
+      "sha256": "sha256-uGfRofQw2a15+jbHm8gv+m/2H2Blgl7yB8MCY9SMT7o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8963,7 +8963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1897453",
+    "version": "6.1.1897922",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -8971,10 +8971,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1897453/file/eliostruyf.vscode-front-matter-beta-6.1.1897453.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1897922/file/eliostruyf.vscode-front-matter-beta-6.1.1897922.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2fEEKQQWfBJ7/uInxj/bm2TGhsoE3WsICE5RvaUNQtc="
+      "sha256": "sha256-YOY9xCuUMO2Zj27WnHWYnbvI7BqCVjpLovxK7vfwBFw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28283,7 +28283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.11.0",
+    "version": "1.11.1",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
@@ -28291,10 +28291,10 @@
       "description": "Execute SAS code on your server from VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.0/file/sasjs.sasjs-for-vscode-1.11.0.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.1/file/sasjs.sasjs-for-vscode-1.11.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JmNP80RofhPnuF8vfRPniKmaTO+urvvX0yXHcFCq8UM="
+      "sha256": "sha256-wBMt+UdnGJXohujKl2P3H8yATnCsw84sqazADWfLsgE="
     },
     "extract": null,
     "rustGitDeps": null
