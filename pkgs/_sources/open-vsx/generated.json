@@ -12423,7 +12423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.9.1",
+    "version": "1.10.0",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12431,10 +12431,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.9.1/file/mintlify.document-1.9.1.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.10.0/file/mintlify.document-1.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1AI6f5KI8AavJuCNn+oakZWVMRLC+uBCB2LIeuf5CEc="
+      "sha256": "sha256-sHDw/Ny2snTQXH3ZNCtIUqIOMCj7bH+8DKm8h9QJI2k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22963,7 +22963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cschlosser-doxdocgen",
-    "version": "1.3.2",
+    "version": "1.4.0",
     "passthru": {
       "name": "doxdocgen",
       "license": "MIT",
@@ -22971,10 +22971,10 @@
       "description": "Let me generate Doxygen documentation from your source code for you."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cschlosser/doxdocgen/1.3.2/file/cschlosser.doxdocgen-1.3.2.vsix",
+      "url": "https://open-vsx.org/api/cschlosser/doxdocgen/1.4.0/file/cschlosser.doxdocgen-1.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kzFPO7+u1R+fM8Rxu3EGQ8gWghqgzcnA1/XYiE35CrE="
+      "sha256": "sha256-MroSOsHKSb020WxxAKYUSyrJ2t6l0VCLjXjNGHz9u7w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28783,7 +28783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.672",
+    "version": "31.0.677",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28791,10 +28791,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.672/file/Prisma.prisma-insider-31.0.672.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.677/file/Prisma.prisma-insider-31.0.677.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5NxMiosaU7bmD2LMi/JDHSqOrbOrU8Ld9p4n+M6MPGw="
+      "sha256": "sha256-UvwRR1e7vWOBUjk/KYkpB62J6y73FgCTHPvuwTi9B9g="
     },
     "extract": null,
     "rustGitDeps": null

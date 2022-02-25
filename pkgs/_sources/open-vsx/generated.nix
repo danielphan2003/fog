@@ -2643,10 +2643,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.672";
+    version = "31.0.677";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.672/file/Prisma.prisma-insider-31.0.672.vsix";
-      sha256 = "sha256-5NxMiosaU7bmD2LMi/JDHSqOrbOrU8Ld9p4n+M6MPGw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.677/file/Prisma.prisma-insider-31.0.677.vsix";
+      sha256 = "sha256-UvwRR1e7vWOBUjk/KYkpB62J6y73FgCTHPvuwTi9B9g=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5991,10 +5991,10 @@
   };
   cschlosser-doxdocgen = {
     pname = "cschlosser-doxdocgen";
-    version = "1.3.2";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cschlosser/doxdocgen/1.3.2/file/cschlosser.doxdocgen-1.3.2.vsix";
-      sha256 = "sha256-kzFPO7+u1R+fM8Rxu3EGQ8gWghqgzcnA1/XYiE35CrE=";
+      url = "https://open-vsx.org/api/cschlosser/doxdocgen/1.4.0/file/cschlosser.doxdocgen-1.4.0.vsix";
+      sha256 = "sha256-MroSOsHKSb020WxxAKYUSyrJ2t6l0VCLjXjNGHz9u7w=";
     };
     name = "doxdocgen";
     license = "MIT";
@@ -11439,10 +11439,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.9.1";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.9.1/file/mintlify.document-1.9.1.vsix";
-      sha256 = "sha256-1AI6f5KI8AavJuCNn+oakZWVMRLC+uBCB2LIeuf5CEc=";
+      url = "https://open-vsx.org/api/mintlify/document/1.10.0/file/mintlify.document-1.10.0.vsix";
+      sha256 = "sha256-sHDw/Ny2snTQXH3ZNCtIUqIOMCj7bH+8DKm8h9QJI2k=";
     };
     name = "document";
     license = "Apache-2.0";
