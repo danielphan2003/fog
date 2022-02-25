@@ -127,13 +127,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "bd776c98015767e156556e6651da4241b657d5bb";
+    version = "9895aeb0d58f1f9bdf460fe88c43828851f48c6e";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "bd776c98015767e156556e6651da4241b657d5bb";
+      rev = "9895aeb0d58f1f9bdf460fe88c43828851f48c6e";
       fetchSubmodules = false;
-      sha256 = "sha256-us/LNIFemFw5x2GjcFMwgG/hKAfNQGSusYGAfxOgWIA=";
+      sha256 = "sha256-vi9sdDXTMsjUZNtNyaayw8YUFUjT7+2+BIAEewEJy7Q=";
     });
   };
   awestore = {
@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "afb58a16945cfce703473f09a4de350e132ac587";
+    version = "254b492780372dde8038cfd3772c15604716f8ee";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "afb58a16945cfce703473f09a4de350e132ac587";
+      rev = "254b492780372dde8038cfd3772c15604716f8ee";
       fetchSubmodules = false;
-      sha256 = "sha256-v8fcDRhNSeT6v5ZrEVYus/ySvntSUBZPWKPaya2HOA8=";
+      sha256 = "sha256-NWiN3wODfSI/8ugKsrTcU+d4Lx2h5uWBxBMKIvOjrKQ=";
     });
   };
   caddy = {
