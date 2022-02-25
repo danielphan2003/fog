@@ -4371,10 +4371,10 @@
   };
   anweber-bluepaint = {
     pname = "anweber-bluepaint";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/bluepaint/0.3.0/file/anweber.bluepaint-0.3.0.vsix";
-      sha256 = "sha256-R8L9FkmR7seSxlpDVQhwb5McscTdFeOM2IQUpZufCGs=";
+      url = "https://open-vsx.org/api/anweber/bluepaint/0.4.0/file/anweber.bluepaint-0.4.0.vsix";
+      sha256 = "sha256-lg0hLWrE93QVMHnu/QrB/W7EZ7/G0Eatyi8LT7nS9vc=";
     };
     name = "bluepaint";
     license = "MIT";
@@ -11607,10 +11607,10 @@
   };
   mpotthoff-vscode-android-webview-debug = {
     pname = "mpotthoff-vscode-android-webview-debug";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mpotthoff/vscode-android-webview-debug/1.2.1/file/mpotthoff.vscode-android-webview-debug-1.2.1.vsix";
-      sha256 = "sha256-smMbFLBcBInF8m3JmmKOhNTQ2glgZ4FjmE/v8s1vfGo=";
+      url = "https://open-vsx.org/api/mpotthoff/vscode-android-webview-debug/1.2.2/file/mpotthoff.vscode-android-webview-debug-1.2.2.vsix";
+      sha256 = "sha256-lkZq3uGhuWks/9mM5oakeoQMCzbIHOrcGxfvI9yoaz8=";
     };
     name = "vscode-android-webview-debug";
     license = "LGPL-3.0";
