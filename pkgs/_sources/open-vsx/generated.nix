@@ -5835,10 +5835,10 @@
   };
   comp2300-anu-comp2300-2021-extension = {
     pname = "comp2300-anu-comp2300-2021-extension";
-    version = "2022.0.1";
+    version = "2022.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/2022.0.1/file/comp2300-anu.comp2300-2021-extension-2022.0.1.vsix";
-      sha256 = "sha256-dTNXg8xJL7TMzjrBEtM9meSqdXAgDz+/sphXu1ieC1M=";
+      url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/2022.1.0/file/comp2300-anu.comp2300-2021-extension-2022.1.0.vsix";
+      sha256 = "sha256-Tb512OiGcHt5kA4NUoyKUhATxOCF/L5Qkh+ukbTYzxw=";
     };
     name = "comp2300-2021-extension";
     license = "MIT";
@@ -13695,10 +13695,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.2.0";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.2.0/file/quick-lint.quick-lint-js-2.2.0.vsix";
-      sha256 = "sha256-TFPEit18mYWMeP6GvnWBu7ZOrJ+KZHoj0Zu5jZlD61Y=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.3.0/file/quick-lint.quick-lint-js-2.3.0.vsix";
+      sha256 = "sha256-txJ7SWzNxUCwirZSWwgqNy7To6QegAHFtSdZ6wSajz0=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";
