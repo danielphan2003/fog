@@ -2979,10 +2979,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.2322";
+    version = "2022.2.2410";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2322/file/Slint.slint-nightly-2022.2.2322.vsix";
-      sha256 = "sha256-mA01/vrwr8n6x+StdgBvJ3tSeeNF9CxoM6PxKtiRCh4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2410/file/Slint.slint-nightly-2022.2.2410.vsix";
+      sha256 = "sha256-m8CCjoVHqItWOHH7kxsfdWqgYwe1trZSu6kDDO+HPD4=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8691,10 +8691,10 @@
   };
   hirosystems-clarity-lsp = {
     pname = "hirosystems-clarity-lsp";
-    version = "0.6.2";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.6.2/file/hirosystems.clarity-lsp-0.6.2.vsix";
-      sha256 = "sha256-ZAoWpsXO2Y61mAWh7GBE6jAZIt9lnAmisqkj45P+sXU=";
+      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.0/file/hirosystems.clarity-lsp-0.7.0.vsix";
+      sha256 = "sha256-LNfe3a7Z5Q81MHAWMkEIByzdJaICzX3lOJ3vx6CAa7w=";
     };
     name = "clarity-lsp";
     license = "GPL-3.0-only";
@@ -10659,10 +10659,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "169.0.0";
+    version = "170.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/169.0.0/file/lextudio.restructuredtext-169.0.0.vsix";
-      sha256 = "sha256-dHs6GId2th++YjQTMhOyvDaEIwGgMbIr/1etaTZrkpU=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/170.0.0/file/lextudio.restructuredtext-170.0.0.vsix";
+      sha256 = "sha256-amNDx3mx+seSFp3ObcvEQMhddOvqO/N7FpzXy5j2mhk=";
     };
     name = "restructuredtext";
     license = "MIT";

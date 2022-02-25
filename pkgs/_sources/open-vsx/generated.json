@@ -14243,7 +14243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.2322",
+    "version": "2022.2.2410",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14251,10 +14251,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2322/file/Slint.slint-nightly-2022.2.2322.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2410/file/Slint.slint-nightly-2022.2.2410.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mA01/vrwr8n6x+StdgBvJ3tSeeNF9CxoM6PxKtiRCh4="
+      "sha256": "sha256-m8CCjoVHqItWOHH7kxsfdWqgYwe1trZSu6kDDO+HPD4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16263,7 +16263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "169.0.0",
+    "version": "170.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -16271,10 +16271,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/169.0.0/file/lextudio.restructuredtext-169.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/170.0.0/file/lextudio.restructuredtext-170.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dHs6GId2th++YjQTMhOyvDaEIwGgMbIr/1etaTZrkpU="
+      "sha256": "sha256-amNDx3mx+seSFp3ObcvEQMhddOvqO/N7FpzXy5j2mhk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21763,7 +21763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hirosystems-clarity-lsp",
-    "version": "0.6.2",
+    "version": "0.7.0",
     "passthru": {
       "name": "clarity-lsp",
       "license": "GPL-3.0-only",
@@ -21771,10 +21771,10 @@
       "description": "Coding assistant for Smart Contracts (Stacks, Bitcoin)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.6.2/file/hirosystems.clarity-lsp-0.6.2.vsix",
+      "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.0/file/hirosystems.clarity-lsp-0.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZAoWpsXO2Y61mAWh7GBE6jAZIt9lnAmisqkj45P+sXU="
+      "sha256": "sha256-LNfe3a7Z5Q81MHAWMkEIByzdJaICzX3lOJ3vx6CAa7w="
     },
     "extract": null,
     "rustGitDeps": null
