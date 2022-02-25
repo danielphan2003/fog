@@ -7071,10 +7071,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1897922";
+    version = "6.1.1899912";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1897922/file/eliostruyf.vscode-front-matter-beta-6.1.1897922.vsix";
-      sha256 = "sha256-YOY9xCuUMO2Zj27WnHWYnbvI7BqCVjpLovxK7vfwBFw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1899912/file/eliostruyf.vscode-front-matter-beta-6.1.1899912.vsix";
+      sha256 = "sha256-yDMb693tNg7ls4HxLqjG//GN4FpnC5rzADARZH/XSYM=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -8211,10 +8211,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.2";
+    version = "0.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.2/file/gitduck.code-streaming-0.4.2.vsix";
-      sha256 = "sha256-eT9yyj8WOtYq/7Von0Ctb2tcvNJlTDboYS8sef38MvY=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.3/file/gitduck.code-streaming-0.4.3.vsix";
+      sha256 = "sha256-nxdjpmtYaY7rtoOfvdYSBKeBBL6/fUh9Eia6YCRA3vc=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -13791,10 +13791,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.12.1";
+    version = "1.12.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.1/file/rangav.vscode-thunder-client-1.12.1.vsix";
-      sha256 = "sha256-K0WmNtBtwAJKUOZu8u4PC8S/NXpEYbS7laRjlWAUqfM=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.2/file/rangav.vscode-thunder-client-1.12.2.vsix";
+      sha256 = "sha256-5jPDS12JR9d8mclf4TTXb+TamnxDkjY8gFlbztBaq1s=";
     };
     name = "vscode-thunder-client";
     license = "";
