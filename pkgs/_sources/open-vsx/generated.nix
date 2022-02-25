@@ -6615,10 +6615,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.83.2";
+    version = "0.83.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.83.2/file/dendron.nightly-0.83.2.vsix";
-      sha256 = "sha256-rJdogmLYP10LvH164rCS2LeI0dv8B5SEPnWvRPlStjk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.83.3/file/dendron.nightly-0.83.3.vsix";
+      sha256 = "sha256-YKToAbebRL2v56AD1S24hij/Uoy8JiAVHQf/MlE2ggc=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7071,10 +7071,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1894311";
+    version = "6.1.1897453";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1894311/file/eliostruyf.vscode-front-matter-beta-6.1.1894311.vsix";
-      sha256 = "sha256-xalqOXFiuM201AbRP525Z5Qddcbs79AL4cuGMKL5sjg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1897453/file/eliostruyf.vscode-front-matter-beta-6.1.1897453.vsix";
+      sha256 = "sha256-2fEEKQQWfBJ7/uInxj/bm2TGhsoE3WsICE5RvaUNQtc=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -12939,10 +12939,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.47";
+    version = "0.13.48";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.47/file/oraichain.cosmwasm-ide-0.13.47.vsix";
-      sha256 = "sha256-eZLlyl7408vW44SGc9hfzDVt958K2alvI6B1RqzguB8=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.48/file/oraichain.cosmwasm-ide-0.13.48.vsix";
+      sha256 = "sha256-lrcTdr/r+1D5nfu7xkttSv/vPs6VWPZ6Cyg7uVCaIFs=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
