@@ -18411,10 +18411,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.5";
+    version = "0.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.5/file/wcrichton.flowistry-0.5.5.vsix";
-      sha256 = "sha256-Jh37ZujRQikSbJ1v88YzRVsG2g1b/HE7weUQ3hZTVwk=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.6/file/wcrichton.flowistry-0.5.6.vsix";
+      sha256 = "sha256-tpJIGwLpXmwYpSsOsYPx2MotIRkRwabB5OoUnqMWrH0=";
     };
     name = "flowistry";
     license = "MIT";
