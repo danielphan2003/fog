@@ -1368,7 +1368,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "d05a717497b2b385de3a315bb80d8f19c943b35a",
+    "version": "73e6e81b81cebbe70bfa8fce071eea8a335d05f8",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1378,8 +1378,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-1IcDBcD5OAlU+ByQKJyxy01k6oBIMtEdHAcyISosVnE=",
-      "rev": "d05a717497b2b385de3a315bb80d8f19c943b35a"
+      "sha256": "sha256-rz8KNwQ8NyVxy3PMtQBKrn1cTHRiYwj7KdTokNAu+Yk=",
+      "rev": "73e6e81b81cebbe70bfa8fce071eea8a335d05f8"
     },
     "extract": null,
     "rustGitDeps": null
