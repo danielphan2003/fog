@@ -5719,6 +5719,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "luma-ocaml-platform-syntax": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "luma-ocaml-platform-syntax",
+    "version": "1.9.5",
+    "passthru": {
+      "name": "ocaml-platform-syntax",
+      "license": "MIT",
+      "publisher": "luma",
+      "description": "Official OCaml language syntax extension for VSCode"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/luma/ocaml-platform-syntax/1.9.5/file/luma.ocaml-platform-syntax-1.9.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-MQr5W3MTzMaH2Pc1X9uAcbDZeh6ygf4sRPIXfBn/D0s="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "donjayamanne-githistory": {
     "pinned": false,
     "cargoLock": null,
