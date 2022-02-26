@@ -1763,7 +1763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hbenl-vscode-mocha-test-adapter",
-    "version": "2.13.2",
+    "version": "2.13.3",
     "passthru": {
       "name": "vscode-mocha-test-adapter",
       "license": "MIT",
@@ -1771,10 +1771,10 @@
       "description": "Run your Mocha tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.2/file/hbenl.vscode-mocha-test-adapter-2.13.2.vsix",
+      "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.3/file/hbenl.vscode-mocha-test-adapter-2.13.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FBJfBPYh8bBB8cv1J+QilhCHRZ3oG4GfC828fY/zE8I="
+      "sha256": "sha256-dY/J7/ZeNi6/re4dJO3/8+xQ6SXnXZvwbLJHcw3ZJxI="
     },
     "extract": null,
     "rustGitDeps": null

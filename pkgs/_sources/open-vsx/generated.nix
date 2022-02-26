@@ -8559,10 +8559,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.13.2";
+    version = "2.13.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.2/file/hbenl.vscode-mocha-test-adapter-2.13.2.vsix";
-      sha256 = "sha256-FBJfBPYh8bBB8cv1J+QilhCHRZ3oG4GfC828fY/zE8I=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.3/file/hbenl.vscode-mocha-test-adapter-2.13.3.vsix";
+      sha256 = "sha256-dY/J7/ZeNi6/re4dJO3/8+xQ6SXnXZvwbLJHcw3ZJxI=";
     };
     name = "vscode-mocha-test-adapter";
     license = "MIT";
