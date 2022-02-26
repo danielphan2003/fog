@@ -10825,6 +10825,18 @@
     publisher = "lukinco";
     description = "A minimal, ultra-dark and vibrant theme for VS Code.";
   };
+  luma-ocaml-platform-syntax = {
+    pname = "luma-ocaml-platform-syntax";
+    version = "1.9.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/luma/ocaml-platform-syntax/1.9.5/file/luma.ocaml-platform-syntax-1.9.5.vsix";
+      sha256 = "sha256-MQr5W3MTzMaH2Pc1X9uAcbDZeh6ygf4sRPIXfBn/D0s=";
+    };
+    name = "ocaml-platform-syntax";
+    license = "MIT";
+    publisher = "luma";
+    description = "Official OCaml language syntax extension for VSCode";
+  };
   madeindjs-markdown-move = {
     pname = "madeindjs-markdown-move";
     version = "0.0.2";
