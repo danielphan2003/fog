@@ -2979,10 +2979,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.2410";
+    version = "2022.2.2517";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2410/file/Slint.slint-nightly-2022.2.2410.vsix";
-      sha256 = "sha256-m8CCjoVHqItWOHH7kxsfdWqgYwe1trZSu6kDDO+HPD4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2517/file/Slint.slint-nightly-2022.2.2517.vsix";
+      sha256 = "sha256-hQ2CyW6sFJJjlnddBff1zAkQZijnnS67FijYoMqGSlw=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -11379,10 +11379,10 @@
   };
   miguelsolorio-fluent-icons = {
     pname = "miguelsolorio-fluent-icons";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/miguelsolorio/fluent-icons/0.0.16/file/miguelsolorio.fluent-icons-0.0.16.vsix";
-      sha256 = "sha256-7vPgZsUg4DXk+W4zPuum6ziSB83wwvU9Z/1KzWP25E0=";
+      url = "https://open-vsx.org/api/miguelsolorio/fluent-icons/0.0.17/file/miguelsolorio.fluent-icons-0.0.17.vsix";
+      sha256 = "sha256-EtRVViXzmIrdcwxVc1Ano/hbJtY7cMnz1+5y7FkQKHw=";
     };
     name = "fluent-icons";
     license = "MIT";
