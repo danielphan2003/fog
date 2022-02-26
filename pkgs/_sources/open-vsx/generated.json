@@ -4023,7 +4023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barjo-anirak",
-    "version": "6.3.1",
+    "version": "6.4.0",
     "passthru": {
       "name": "anirak",
       "license": "Apache-2.0",
@@ -4031,10 +4031,10 @@
       "description": "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barjo/anirak/6.3.1/file/barjo.anirak-6.3.1.vsix",
+      "url": "https://open-vsx.org/api/barjo/anirak/6.4.0/file/barjo.anirak-6.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lCtPT+fbCZQfv2+eLMykDn/qbwOrsdMSRLXlk0r8yEU="
+      "sha256": "sha256-G20tSMQ+2E6zmuqs6ybd1/iQgRfFNeKWVVorqPoprFo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17695,6 +17695,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-qmY630Fw7g4B/xL/skexa1PNZcBCyU6GJvcRrxHDWcE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "luma-wolfram": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "luma-wolfram",
+    "version": "1.5.3",
+    "passthru": {
+      "name": "wolfram",
+      "license": "MIT",
+      "publisher": "luma",
+      "description": "Un-Official Visual Studio Code extension for Wolfram Language"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/luma/wolfram/1.5.3/file/luma.wolfram-1.5.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-6STPeFy9P04hT9NM8kDIXsegbe/N4aGTYneTmnVwCQ4="
     },
     "extract": null,
     "rustGitDeps": null
