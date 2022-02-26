@@ -5279,6 +5279,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "znck-vue-language-features": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "znck-vue-language-features",
+    "version": "0.8.0",
+    "passthru": {
+      "name": "vue-language-features",
+      "license": "MIT",
+      "publisher": "znck",
+      "description": "Advanced TypeScript/JavaScript support for Vue"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.8.0/file/znck.vue-language-features-0.8.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5n4TMH+DIGd+ohonrOe4HF35Oom0LVxe23ZZgm5RiSk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Zowe-vscode-extension-for-zowe": {
     "pinned": false,
     "cargoLock": null,
@@ -19379,6 +19399,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "znck-vue": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "znck-vue",
+    "version": "0.8.0",
+    "passthru": {
+      "name": "vue",
+      "license": "MIT",
+      "publisher": "znck",
+      "description": "Syntax Highlight"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/znck/vue/0.8.0/file/znck.vue-0.8.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-8/q9fbI+BVHedNC87e8C9Wuef6cTEQ84ZzRwWlmypww="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "ritwickdey-LiveServer": {
     "pinned": false,
     "cargoLock": null,
@@ -25935,6 +25975,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-kZ/io5+Xx5lwtDmtOoPysS8CctD/Zo8YnYRSXu7Jje8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "znck-preview": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "znck-preview",
+    "version": "0.4.1",
+    "passthru": {
+      "name": "preview",
+      "license": "MIT",
+      "publisher": "znck",
+      "description": "A storyboarding and prototyping tool for Vue."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/znck/preview/0.4.1/file/znck.preview-0.4.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-OIaNcMtKRCmX26sdl8wPEsDRph6dln7muQTEsKjmRrE="
     },
     "extract": null,
     "rustGitDeps": null

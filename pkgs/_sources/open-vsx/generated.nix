@@ -19117,6 +19117,42 @@
     publisher = "ziyasal";
     description = "Jump to a source code line in GitHub, GitLab, Gitea, Bitbucket, VisualStudio.com !";
   };
+  znck-preview = {
+    pname = "znck-preview";
+    version = "0.4.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/znck/preview/0.4.1/file/znck.preview-0.4.1.vsix";
+      sha256 = "sha256-OIaNcMtKRCmX26sdl8wPEsDRph6dln7muQTEsKjmRrE=";
+    };
+    name = "preview";
+    license = "MIT";
+    publisher = "znck";
+    description = "A storyboarding and prototyping tool for Vue.";
+  };
+  znck-vue = {
+    pname = "znck-vue";
+    version = "0.8.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/znck/vue/0.8.0/file/znck.vue-0.8.0.vsix";
+      sha256 = "sha256-8/q9fbI+BVHedNC87e8C9Wuef6cTEQ84ZzRwWlmypww=";
+    };
+    name = "vue";
+    license = "MIT";
+    publisher = "znck";
+    description = "Syntax Highlight";
+  };
+  znck-vue-language-features = {
+    pname = "znck-vue-language-features";
+    version = "0.8.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.8.0/file/znck.vue-language-features-0.8.0.vsix";
+      sha256 = "sha256-5n4TMH+DIGd+ohonrOe4HF35Oom0LVxe23ZZgm5RiSk=";
+    };
+    name = "vue-language-features";
+    license = "MIT";
+    publisher = "znck";
+    description = "Advanced TypeScript/JavaScript support for Vue";
+  };
   zokugun-cobol-folding = {
     pname = "zokugun-cobol-folding";
     version = "0.2.0";
