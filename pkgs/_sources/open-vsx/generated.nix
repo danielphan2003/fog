@@ -4935,10 +4935,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.3.1";
+    version = "6.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.3.1/file/barjo.anirak-6.3.1.vsix";
-      sha256 = "sha256-lCtPT+fbCZQfv2+eLMykDn/qbwOrsdMSRLXlk0r8yEU=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.4.0/file/barjo.anirak-6.4.0.vsix";
+      sha256 = "sha256-G20tSMQ+2E6zmuqs6ybd1/iQgRfFNeKWVVorqPoprFo=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -10836,6 +10836,18 @@
     license = "MIT";
     publisher = "luma";
     description = "Official OCaml language syntax extension for VSCode";
+  };
+  luma-wolfram = {
+    pname = "luma-wolfram";
+    version = "1.5.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/luma/wolfram/1.5.3/file/luma.wolfram-1.5.3.vsix";
+      sha256 = "sha256-6STPeFy9P04hT9NM8kDIXsegbe/N4aGTYneTmnVwCQ4=";
+    };
+    name = "wolfram";
+    license = "MIT";
+    publisher = "luma";
+    description = "Un-Official Visual Studio Code extension for Wolfram Language";
   };
   madeindjs-markdown-move = {
     pname = "madeindjs-markdown-move";
