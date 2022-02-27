@@ -172,7 +172,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dribbblish-dynamic-theme",
-    "version": "827c9f3ba0e39f10c44a9c8033432652818cf681",
+    "version": "13e1f640540ef4eb45578904575a035e721398b5",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -182,8 +182,8 @@
       "name": null,
       "repo": "dribbblish-dynamic-theme",
       "type": "github",
-      "sha256": "sha256-8GU1KJHNrGIJdf5Na+mabJCKSpHqSn2uju4Y5hdA6tE=",
-      "rev": "827c9f3ba0e39f10c44a9c8033432652818cf681"
+      "sha256": "sha256-G4NYfj7T9JD3UaFw4P12i8tt4+bFwHKK1LuTzqglVnQ=",
+      "rev": "13e1f640540ef4eb45578904575a035e721398b5"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1288,7 +1288,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "duf",
-    "version": "3c5541177824be03e632447bd997fe263ee6bc6c",
+    "version": "9504b9862ce85ddfb3c2edf014420396eeab3006",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1298,8 +1298,8 @@
       "name": null,
       "repo": "duf",
       "type": "github",
-      "sha256": "sha256-bVuqX88KY+ky+fd1FU9GWP78jQc4fRDk9yRSeIesHyI=",
-      "rev": "3c5541177824be03e632447bd997fe263ee6bc6c"
+      "sha256": "sha256-UtjkdFiqnGk+wlSkVn+79xqdMazUq2BAVMVHVJXvgMo=",
+      "rev": "9504b9862ce85ddfb3c2edf014420396eeab3006"
     },
     "extract": null,
     "rustGitDeps": null
