@@ -8547,10 +8547,10 @@
   };
   hbenl-vscode-jasmine-test-adapter = {
     pname = "hbenl-vscode-jasmine-test-adapter";
-    version = "1.7.2";
+    version = "1.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.2/file/hbenl.vscode-jasmine-test-adapter-1.7.2.vsix";
-      sha256 = "sha256-VopA1o4dh/WAu42Bkvs/F4vT5adrpiOvbQcr6xQQSds=";
+      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.3/file/hbenl.vscode-jasmine-test-adapter-1.7.3.vsix";
+      sha256 = "sha256-0PWYIV6IUKF+xW+zRGkbuCBPlifAmPsOeUSeOWA9PYw=";
     };
     name = "vscode-jasmine-test-adapter";
     license = "MIT";

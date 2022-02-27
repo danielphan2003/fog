@@ -26703,7 +26703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hbenl-vscode-jasmine-test-adapter",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "passthru": {
       "name": "vscode-jasmine-test-adapter",
       "license": "MIT",
@@ -26711,10 +26711,10 @@
       "description": "Run your Jasmine tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.2/file/hbenl.vscode-jasmine-test-adapter-1.7.2.vsix",
+      "url": "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.3/file/hbenl.vscode-jasmine-test-adapter-1.7.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VopA1o4dh/WAu42Bkvs/F4vT5adrpiOvbQcr6xQQSds="
+      "sha256": "sha256-0PWYIV6IUKF+xW+zRGkbuCBPlifAmPsOeUSeOWA9PYw="
     },
     "extract": null,
     "rustGitDeps": null
