@@ -265,13 +265,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "13e1f640540ef4eb45578904575a035e721398b5";
+    version = "ba5846bc41fa23b376c95750587232943d979200";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "13e1f640540ef4eb45578904575a035e721398b5";
+      rev = "ba5846bc41fa23b376c95750587232943d979200";
       fetchSubmodules = false;
-      sha256 = "sha256-G4NYfj7T9JD3UaFw4P12i8tt4+bFwHKK1LuTzqglVnQ=";
+      sha256 = "sha256-wcpem2udK0dVDiixVHnmBFquorrFsCJ7eWk7YnXO8mI=";
     });
   };
   droidcam = {
@@ -1058,10 +1058,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.25.1";
+    version = "2.26.1";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.25.1/bw_web_v2.25.1.tar.gz";
-      sha256 = "sha256-Kg9LzwL8DKZxy4NvaYbXkJcVUqKLHKwfmYyiotDS2Hw=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.26.1/bw_web_v2.26.1.tar.gz";
+      sha256 = "sha256-kPeEUZeyoxZ8AGBanUHpT3FS0naIrVCKd9DOEXW7KOI=";
     };
   };
   ventoy = {
