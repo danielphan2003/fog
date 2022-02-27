@@ -3439,6 +3439,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "Ayushh-vscode-anchor": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "Ayushh-vscode-anchor",
+    "version": "0.2.5",
+    "passthru": {
+      "name": "vscode-anchor",
+      "license": "Apache-2.0",
+      "publisher": "Ayushh",
+      "description": "vscode extension for Anchor (Solana's Sealevel runtime Framework)"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/Ayushh/vscode-anchor/0.2.5/file/Ayushh.vscode-anchor-0.2.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-fe9mWbdl7zSBTsLzEJYQa8jtrz4gqx6ZzIXxrgavKJs="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "anweber-reveal-button": {
     "pinned": false,
     "cargoLock": null,
