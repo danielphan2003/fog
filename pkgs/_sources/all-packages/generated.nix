@@ -265,13 +265,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "4c134a94a0d28e780ab09dc697aea770b141f41f";
+    version = "827c9f3ba0e39f10c44a9c8033432652818cf681";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "4c134a94a0d28e780ab09dc697aea770b141f41f";
+      rev = "827c9f3ba0e39f10c44a9c8033432652818cf681";
       fetchSubmodules = false;
-      sha256 = "sha256-eiTIb0IjlWq5ZXkxm92a/xs6rl6Z025pZ4U4mVDIkTI=";
+      sha256 = "sha256-8GU1KJHNrGIJdf5Na+mabJCKSpHqSn2uju4Y5hdA6tE=";
     });
   };
   droidcam = {
@@ -998,7 +998,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "7e39dc2e0644450682bc274633bcca170e6d60a9";
+    version = "ead8010a062db7b2f9bbde1bf81db1d462d991a0";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-igjamulpcD7akYdNniz3ObCnjpPBPeU4rePHcBRLXLw=";
