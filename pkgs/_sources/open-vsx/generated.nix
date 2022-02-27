@@ -6123,15 +6123,15 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "4.3.0";
+    version = "4.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.3.0/file/cweijan.vscode-mysql-client2-4.3.0.vsix";
-      sha256 = "sha256-9LRbL+ELOF08+znAkZLGSnyd3aZKqF7dcQLBDwKxS6Q=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.0/file/cweijan.vscode-mysql-client2-4.7.0.vsix";
+      sha256 = "sha256-Nq6MqMKfQFsxABLkBOhosP97E61n3RiuWdi1Wk6GE5Y=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
     publisher = "cweijan";
-    description = "Database Client for vscode";
+    description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.";
   };
   cweijan-vscode-office = {
     pname = "cweijan-vscode-office";
@@ -19059,10 +19059,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.2.0/file/zenclabs.previewjs-1.2.0.vsix";
-      sha256 = "sha256-QCFjlLzcnkt6bbZ8ymO+Po6WvYdeKERihrQrvld+22s=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.3.0/file/zenclabs.previewjs-1.3.0.vsix";
+      sha256 = "sha256-r+a+MPC7gmAnpGCk4HZmJ0z749OFhb7XHuwfiSnwLIs=";
     };
     name = "previewjs";
     license = "AGPL-3.0";
