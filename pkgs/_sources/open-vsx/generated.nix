@@ -4059,10 +4059,10 @@
   };
   allanoricil-nuxt-vscode-extension = {
     pname = "allanoricil-nuxt-vscode-extension";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.18/file/allanoricil.nuxt-vscode-extension-0.0.18.vsix";
-      sha256 = "sha256-MUMKnYpG2vRqK3TJD6gHIhqqo+2OKk5QLu8R81XjKHU=";
+      url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.19/file/allanoricil.nuxt-vscode-extension-0.0.19.vsix";
+      sha256 = "sha256-B8ff59Ozp1a4o5LWeOtYqS6uo/QZPOSQjy9Z6gqHKuk=";
     };
     name = "nuxt-vscode-extension";
     license = "MIT";
@@ -4419,10 +4419,10 @@
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
-    version = "2.2.2";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/2.2.2/file/anweber.httpbook-2.2.2.vsix";
-      sha256 = "sha256-UGuWcPDtv3I7y5szNmTH/5X2uwY+rWhAyXudDxWseAY=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.0.0/file/anweber.httpbook-3.0.0.vsix";
+      sha256 = "sha256-X09mJpRTT3NhuywB5enkWaqOZDEWftdmfB3BBiq/U74=";
     };
     name = "httpbook";
     license = "MIT";
@@ -4479,15 +4479,15 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "4.10.2";
+    version = "5.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.2/file/anweber.vscode-httpyac-4.10.2.vsix";
-      sha256 = "sha256-bBVa6KXKnMNaMp/Mhj7ixnv8C9Bo7yUgUAcpEcResZs=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.0.0/file/anweber.vscode-httpyac-5.0.0.vsix";
+      sha256 = "sha256-kqORZ5aUKSXQ9OLW878plWd8WTyiVU9Gx5bM0Jn0p4Q=";
     };
     name = "vscode-httpyac";
     license = "MIT";
     publisher = "anweber";
-    description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code";
+    description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code";
   };
   apollographql-apollo-midnight-color-theme = {
     pname = "apollographql-apollo-midnight-color-theme";

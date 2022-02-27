@@ -1543,7 +1543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-httpbook",
-    "version": "2.2.2",
+    "version": "3.0.0",
     "passthru": {
       "name": "httpbook",
       "license": "MIT",
@@ -1551,10 +1551,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/httpbook/2.2.2/file/anweber.httpbook-2.2.2.vsix",
+      "url": "https://open-vsx.org/api/anweber/httpbook/3.0.0/file/anweber.httpbook-3.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UGuWcPDtv3I7y5szNmTH/5X2uwY+rWhAyXudDxWseAY="
+      "sha256": "sha256-X09mJpRTT3NhuywB5enkWaqOZDEWftdmfB3BBiq/U74="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10963,18 +10963,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-vscode-httpyac",
-    "version": "4.10.2",
+    "version": "5.0.0",
     "passthru": {
       "name": "vscode-httpyac",
       "license": "MIT",
       "publisher": "anweber",
-      "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code"
+      "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/4.10.2/file/anweber.vscode-httpyac-4.10.2.vsix",
+      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.0.0/file/anweber.vscode-httpyac-5.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bBVa6KXKnMNaMp/Mhj7ixnv8C9Bo7yUgUAcpEcResZs="
+      "sha256": "sha256-kqORZ5aUKSXQ9OLW878plWd8WTyiVU9Gx5bM0Jn0p4Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18243,7 +18243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "allanoricil-nuxt-vscode-extension",
-    "version": "0.0.18",
+    "version": "0.0.19",
     "passthru": {
       "name": "nuxt-vscode-extension",
       "license": "MIT",
@@ -18251,10 +18251,10 @@
       "description": "This extension aims to simplify the workflow when coding with Nuxt in VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.18/file/allanoricil.nuxt-vscode-extension-0.0.18.vsix",
+      "url": "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.19/file/allanoricil.nuxt-vscode-extension-0.0.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MUMKnYpG2vRqK3TJD6gHIhqqo+2OKk5QLu8R81XjKHU="
+      "sha256": "sha256-B8ff59Ozp1a4o5LWeOtYqS6uo/QZPOSQjy9Z6gqHKuk="
     },
     "extract": null,
     "rustGitDeps": null
