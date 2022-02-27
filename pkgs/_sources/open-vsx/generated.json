@@ -9863,7 +9863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RobinBoers-frontend-delight",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "passthru": {
       "name": "frontend-delight",
       "license": "MIT",
@@ -9871,10 +9871,10 @@
       "description": "Frontend Delight color scheme for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/RobinBoers/frontend-delight/1.0.8/file/RobinBoers.frontend-delight-1.0.8.vsix",
+      "url": "https://open-vsx.org/api/RobinBoers/frontend-delight/1.0.9/file/RobinBoers.frontend-delight-1.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ytUeYwMp/ev/7y9QZj3b6TcANfFaenH/XRGuY+a2jqc="
+      "sha256": "sha256-gpGsK64YPBYR19inYPs3s9555tj9mNStLBQ93eUz8KM="
     },
     "extract": null,
     "rustGitDeps": null

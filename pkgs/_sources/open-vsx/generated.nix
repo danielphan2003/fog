@@ -2787,10 +2787,10 @@
   };
   RobinBoers-frontend-delight = {
     pname = "RobinBoers-frontend-delight";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RobinBoers/frontend-delight/1.0.8/file/RobinBoers.frontend-delight-1.0.8.vsix";
-      sha256 = "sha256-ytUeYwMp/ev/7y9QZj3b6TcANfFaenH/XRGuY+a2jqc=";
+      url = "https://open-vsx.org/api/RobinBoers/frontend-delight/1.0.9/file/RobinBoers.frontend-delight-1.0.9.vsix";
+      sha256 = "sha256-gpGsK64YPBYR19inYPs3s9555tj9mNStLBQ93eUz8KM=";
     };
     name = "frontend-delight";
     license = "MIT";
