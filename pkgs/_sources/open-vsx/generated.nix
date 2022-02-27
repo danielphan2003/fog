@@ -169,6 +169,18 @@
     publisher = "Axway";
     description = "Intellisense, snippets, and integrated build tools for Titanium";
   };
+  Ayushh-vscode-anchor = {
+    pname = "Ayushh-vscode-anchor";
+    version = "0.2.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Ayushh/vscode-anchor/0.2.5/file/Ayushh.vscode-anchor-0.2.5.vsix";
+      sha256 = "sha256-fe9mWbdl7zSBTsLzEJYQa8jtrz4gqx6ZzIXxrgavKJs=";
+    };
+    name = "vscode-anchor";
+    license = "Apache-2.0";
+    publisher = "Ayushh";
+    description = "vscode extension for Anchor (Solana's Sealevel runtime Framework)";
+  };
   BazelBuild-vscode-bazel = {
     pname = "BazelBuild-vscode-bazel";
     version = "0.5.0";
