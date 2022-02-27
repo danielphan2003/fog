@@ -943,7 +943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "exiasr-hadolint",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "hadolint",
       "license": "MIT",
@@ -951,10 +951,10 @@
       "description": "Integrates hadolint, a Dockerfile linter, into VS Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/exiasr/hadolint/1.1.0/file/exiasr.hadolint-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/exiasr/hadolint/1.1.1/file/exiasr.hadolint-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PwEmajrMfxwOsA//SKtsrVLLaTm18ozMKZMwWO4isLE="
+      "sha256": "sha256-vWGv2AuULSAtZwFPdQYcgOndOTIFH0dS6s7oCmwEvG8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10543,7 +10543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.7",
+    "version": "0.5.8",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10551,10 +10551,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.7/file/wcrichton.flowistry-0.5.7.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.8/file/wcrichton.flowistry-0.5.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-T+twpL8LJU+9XFRHP2GrZ9Lm/xy45yQo+YDRV3+0U18="
+      "sha256": "sha256-QCTyPFRw2jB/fmsSyq7LgFL13eJQAgkXOcSDWL9vpOY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14283,7 +14283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.2.2517",
+    "version": "2022.2.2614",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14291,10 +14291,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2517/file/Slint.slint-nightly-2022.2.2517.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2614/file/Slint.slint-nightly-2022.2.2614.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hQ2CyW6sFJJjlnddBff1zAkQZijnnS67FijYoMqGSlw="
+      "sha256": "sha256-c3muZVxicsh7COiqgsBMXiLLll+as3Q0NSYz9Ag3KQc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16303,7 +16303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "170.0.0",
+    "version": "171.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -16311,10 +16311,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/170.0.0/file/lextudio.restructuredtext-170.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/171.0.0/file/lextudio.restructuredtext-171.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-amNDx3mx+seSFp3ObcvEQMhddOvqO/N7FpzXy5j2mhk="
+      "sha256": "sha256-gCbAEUmSnd+AEnur1hASpjJQvsgKmVAw0jYsTBbE49E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20703,7 +20703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "trond-snekvik-simple-rst",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "passthru": {
       "name": "simple-rst",
       "license": "MIT",
@@ -20711,10 +20711,10 @@
       "description": "Syntax highlighting and document symbols for reStructuredText"
     },
     "src": {
-      "url": "https://open-vsx.org/api/trond-snekvik/simple-rst/1.5.1/file/trond-snekvik.simple-rst-1.5.1.vsix",
+      "url": "https://open-vsx.org/api/trond-snekvik/simple-rst/1.5.2/file/trond-snekvik.simple-rst-1.5.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+iIRswutBa+UM+37niemJbk8eo1IBHodhKBAmfGLe50="
+      "sha256": "sha256-pV7/S8kkDIbhD2K5P2TA8E0pM4F8gsFIlc+4FIheBbc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23783,7 +23783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "html-validate-vscode-html-validate",
-    "version": "2.2.1",
+    "version": "2.3.0",
     "passthru": {
       "name": "vscode-html-validate",
       "license": "MIT",
@@ -23791,10 +23791,10 @@
       "description": "vscode extension for html-validate"
     },
     "src": {
-      "url": "https://open-vsx.org/api/html-validate/vscode-html-validate/2.2.1/file/html-validate.vscode-html-validate-2.2.1.vsix",
+      "url": "https://open-vsx.org/api/html-validate/vscode-html-validate/2.3.0/file/html-validate.vscode-html-validate-2.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DixFVhKq24yj+m4Xs32uiaBcSTphgog+110FNXOsQtg="
+      "sha256": "sha256-ElyP2wu9X0kBRNebFInn6dQQ0ZQIUfO5vIGUtxato5o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25743,7 +25743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "efoerster-texlab",
-    "version": "3.3.1",
+    "version": "3.3.2",
     "passthru": {
       "name": "texlab",
       "license": "MIT",
@@ -25751,10 +25751,10 @@
       "description": "LaTeX for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/efoerster/texlab/3.3.1/file/efoerster.texlab-3.3.1.vsix",
+      "url": "https://open-vsx.org/api/efoerster/texlab/3.3.2/file/efoerster.texlab-3.3.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-G94ev21wFbb/RzUYuowxnViDNztRjg7O0vQ/sFK7pes="
+      "sha256": "sha256-Cw9SFdffYuKoeD9hWGLEEj1C+J4cqAtDPRaq8kmOBjQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28703,7 +28703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.224",
+    "version": "1.1.225",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -28711,10 +28711,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.224/file/ms-pyright.pyright-1.1.224.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.225/file/ms-pyright.pyright-1.1.225.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UPM3fxKoKij0dARFBy1+BIADJYD+EU8dsPpFGFnSQnk="
+      "sha256": "sha256-tb0KK32tHcq5kHn4lWghMsKY1z+JuBNO9BSBPidNCOw="
     },
     "extract": null,
     "rustGitDeps": null

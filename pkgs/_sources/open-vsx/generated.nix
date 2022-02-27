@@ -2979,10 +2979,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.2517";
+    version = "2022.2.2614";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2517/file/Slint.slint-nightly-2022.2.2517.vsix";
-      sha256 = "sha256-hQ2CyW6sFJJjlnddBff1zAkQZijnnS67FijYoMqGSlw=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2614/file/Slint.slint-nightly-2022.2.2614.vsix";
+      sha256 = "sha256-c3muZVxicsh7COiqgsBMXiLLll+as3Q0NSYz9Ag3KQc=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -7023,10 +7023,10 @@
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
-    version = "3.3.1";
+    version = "3.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/efoerster/texlab/3.3.1/file/efoerster.texlab-3.3.1.vsix";
-      sha256 = "sha256-G94ev21wFbb/RzUYuowxnViDNztRjg7O0vQ/sFK7pes=";
+      url = "https://open-vsx.org/api/efoerster/texlab/3.3.2/file/efoerster.texlab-3.3.2.vsix";
+      sha256 = "sha256-Cw9SFdffYuKoeD9hWGLEEj1C+J4cqAtDPRaq8kmOBjQ=";
     };
     name = "texlab";
     license = "MIT";
@@ -7443,10 +7443,10 @@
   };
   exiasr-hadolint = {
     pname = "exiasr-hadolint";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/exiasr/hadolint/1.1.0/file/exiasr.hadolint-1.1.0.vsix";
-      sha256 = "sha256-PwEmajrMfxwOsA//SKtsrVLLaTm18ozMKZMwWO4isLE=";
+      url = "https://open-vsx.org/api/exiasr/hadolint/1.1.1/file/exiasr.hadolint-1.1.1.vsix";
+      sha256 = "sha256-vWGv2AuULSAtZwFPdQYcgOndOTIFH0dS6s7oCmwEvG8=";
     };
     name = "hadolint";
     license = "MIT";
@@ -8751,10 +8751,10 @@
   };
   html-validate-vscode-html-validate = {
     pname = "html-validate-vscode-html-validate";
-    version = "2.2.1";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/html-validate/vscode-html-validate/2.2.1/file/html-validate.vscode-html-validate-2.2.1.vsix";
-      sha256 = "sha256-DixFVhKq24yj+m4Xs32uiaBcSTphgog+110FNXOsQtg=";
+      url = "https://open-vsx.org/api/html-validate/vscode-html-validate/2.3.0/file/html-validate.vscode-html-validate-2.3.0.vsix";
+      sha256 = "sha256-ElyP2wu9X0kBRNebFInn6dQQ0ZQIUfO5vIGUtxato5o=";
     };
     name = "vscode-html-validate";
     license = "MIT";
@@ -10659,10 +10659,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "170.0.0";
+    version = "171.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/170.0.0/file/lextudio.restructuredtext-170.0.0.vsix";
-      sha256 = "sha256-amNDx3mx+seSFp3ObcvEQMhddOvqO/N7FpzXy5j2mhk=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/171.0.0/file/lextudio.restructuredtext-171.0.0.vsix";
+      sha256 = "sha256-gCbAEUmSnd+AEnur1hASpjJQvsgKmVAw0jYsTBbE49E=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -11763,10 +11763,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.224";
+    version = "1.1.225";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.224/file/ms-pyright.pyright-1.1.224.vsix";
-      sha256 = "sha256-UPM3fxKoKij0dARFBy1+BIADJYD+EU8dsPpFGFnSQnk=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.225/file/ms-pyright.pyright-1.1.225.vsix";
+      sha256 = "sha256-tb0KK32tHcq5kHn4lWghMsKY1z+JuBNO9BSBPidNCOw=";
     };
     name = "pyright";
     license = "MIT";
@@ -16551,10 +16551,10 @@
   };
   trond-snekvik-simple-rst = {
     pname = "trond-snekvik-simple-rst";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/trond-snekvik/simple-rst/1.5.1/file/trond-snekvik.simple-rst-1.5.1.vsix";
-      sha256 = "sha256-+iIRswutBa+UM+37niemJbk8eo1IBHodhKBAmfGLe50=";
+      url = "https://open-vsx.org/api/trond-snekvik/simple-rst/1.5.2/file/trond-snekvik.simple-rst-1.5.2.vsix";
+      sha256 = "sha256-pV7/S8kkDIbhD2K5P2TA8E0pM4F8gsFIlc+4FIheBbc=";
     };
     name = "simple-rst";
     license = "MIT";
@@ -18435,10 +18435,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.7";
+    version = "0.5.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.7/file/wcrichton.flowistry-0.5.7.vsix";
-      sha256 = "sha256-T+twpL8LJU+9XFRHP2GrZ9Lm/xy45yQo+YDRV3+0U18=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.8/file/wcrichton.flowistry-0.5.8.vsix";
+      sha256 = "sha256-QCTyPFRw2jB/fmsSyq7LgFL13eJQAgkXOcSDWL9vpOY=";
     };
     name = "flowistry";
     license = "MIT";
