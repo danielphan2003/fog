@@ -2123,7 +2123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "millerdev-pyxt",
-    "version": "0.3.6",
+    "version": "0.3.7",
     "passthru": {
       "name": "pyxt",
       "license": "See LICENSE file",
@@ -2131,10 +2131,10 @@
       "description": "Python eXTensions for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/millerdev/pyxt/0.3.6/file/millerdev.pyxt-0.3.6.vsix",
+      "url": "https://open-vsx.org/api/millerdev/pyxt/0.3.7/file/millerdev.pyxt-0.3.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3afgWbrZ4U5on39n6hpnef4klOZrMZrpodwyo0jzlL8="
+      "sha256": "sha256-pqbOj4ZH2FTXotXBrKd1ilKoLhmVPyQD0l32jVREiuU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7043,7 +7043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-github-manager",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "passthru": {
       "name": "github-manager",
       "license": "MIT",
@@ -7051,10 +7051,10 @@
       "description": "THE FASTEST way to switch between cloned GitHub repos"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/github-manager/0.0.4/file/zardoy.github-manager-0.0.4.vsix",
+      "url": "https://open-vsx.org/api/zardoy/github-manager/0.0.5/file/zardoy.github-manager-0.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+NHld6XxiQ6Eq2jQT5bNS0cHwBA6JwByTIlJGC+dyjU="
+      "sha256": "sha256-pFSrCPIZ3KwEflEGJEW/ViQ+Uk0OxftTTXEPrU/9TPU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24423,7 +24423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "OBKoro1-korofileheader",
-    "version": "4.8.19",
+    "version": "4.8.20",
     "passthru": {
       "name": "korofileheader",
       "license": "MIT",
@@ -24431,10 +24431,10 @@
       "description": "ç¨äºçææä»¶å¤´é¨æ³¨éåå½æ°æ³¨éçæä»¶ï¼æ¯æææä¸»æµè¯­è¨,åè½å¼ºå¤§ï¼çµæ´»æ¹ä¾¿ï¼ææ¡£é½å¨ï¼é£ç¨ç®åï¼"
     },
     "src": {
-      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.19/file/OBKoro1.korofileheader-4.8.19.vsix",
+      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.20/file/OBKoro1.korofileheader-4.8.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bQSjD5ZCwmCxpKKeErvrWxlmDDC8WJfZztQ6GbdOzes="
+      "sha256": "sha256-7l/t504r59gnPEzin8glGnrBOIrH19JubEUefgOrZig="
     },
     "extract": null,
     "rustGitDeps": null

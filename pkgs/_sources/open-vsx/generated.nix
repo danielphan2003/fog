@@ -2379,10 +2379,10 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.8.19";
+    version = "4.8.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.19/file/OBKoro1.korofileheader-4.8.19.vsix";
-      sha256 = "sha256-bQSjD5ZCwmCxpKKeErvrWxlmDDC8WJfZztQ6GbdOzes=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.20/file/OBKoro1.korofileheader-4.8.20.vsix";
+      sha256 = "sha256-7l/t504r59gnPEzin8glGnrBOIrH19JubEUefgOrZig=";
     };
     name = "korofileheader";
     license = "MIT";
@@ -11439,10 +11439,10 @@
   };
   millerdev-pyxt = {
     pname = "millerdev-pyxt";
-    version = "0.3.6";
+    version = "0.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/millerdev/pyxt/0.3.6/file/millerdev.pyxt-0.3.6.vsix";
-      sha256 = "sha256-3afgWbrZ4U5on39n6hpnef4klOZrMZrpodwyo0jzlL8=";
+      url = "https://open-vsx.org/api/millerdev/pyxt/0.3.7/file/millerdev.pyxt-0.3.7.vsix";
+      sha256 = "sha256-pqbOj4ZH2FTXotXBrKd1ilKoLhmVPyQD0l32jVREiuU=";
     };
     name = "pyxt";
     license = "See LICENSE file";
@@ -18963,10 +18963,10 @@
   };
   zardoy-github-manager = {
     pname = "zardoy-github-manager";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/github-manager/0.0.4/file/zardoy.github-manager-0.0.4.vsix";
-      sha256 = "sha256-+NHld6XxiQ6Eq2jQT5bNS0cHwBA6JwByTIlJGC+dyjU=";
+      url = "https://open-vsx.org/api/zardoy/github-manager/0.0.5/file/zardoy.github-manager-0.0.5.vsix";
+      sha256 = "sha256-pFSrCPIZ3KwEflEGJEW/ViQ+Uk0OxftTTXEPrU/9TPU=";
     };
     name = "github-manager";
     license = "MIT";
