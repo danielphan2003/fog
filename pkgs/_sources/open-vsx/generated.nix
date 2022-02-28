@@ -7071,10 +7071,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "6.0.0";
+    version = "6.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/6.0.0/file/eliostruyf.vscode-front-matter-6.0.0.vsix";
-      sha256 = "sha256-vi6sc2yUi1geshmZk3z/LoOA2HYLkWjQ5RM26VOX2pU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/6.1.0/file/eliostruyf.vscode-front-matter-6.1.0.vsix";
+      sha256 = "sha256-NQbfifwEkslo7nsKqVe1Hvf69JjHiB3pGMGEbanaVPs=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7083,10 +7083,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1911375";
+    version = "6.1.1911408";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1911375/file/eliostruyf.vscode-front-matter-beta-6.1.1911375.vsix";
-      sha256 = "sha256-d8m9oxcJk+VbXlq5dPGyis+A4u41m28ZErDXiV+wP+k=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1911408/file/eliostruyf.vscode-front-matter-beta-6.1.1911408.vsix";
+      sha256 = "sha256-51JD2/E2ROTMxqWlctA9XUEnrmqYIl+56DHWSiH/0HU=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -16539,10 +16539,10 @@
   };
   toroxx-tx-neon = {
     pname = "toroxx-tx-neon";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toroxx/tx-neon/0.1.2/file/toroxx.tx-neon-0.1.2.vsix";
-      sha256 = "sha256-AMdGBy5QTnC4hm70S/s8JFLHWB5sqjT4wv+dZTIvckY=";
+      url = "https://open-vsx.org/api/toroxx/tx-neon/0.1.3/file/toroxx.tx-neon-0.1.3.vsix";
+      sha256 = "sha256-uSQZ+3DWsDxeTU5bR7FNH+hzgX2GpS9ZJv9dXtFjAsA=";
     };
     name = "tx-neon";
     license = "MIT";
