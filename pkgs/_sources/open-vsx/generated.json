@@ -9043,7 +9043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1899912",
+    "version": "6.1.1910298",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9051,10 +9051,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1899912/file/eliostruyf.vscode-front-matter-beta-6.1.1899912.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1910298/file/eliostruyf.vscode-front-matter-beta-6.1.1910298.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yDMb693tNg7ls4HxLqjG//GN4FpnC5rzADARZH/XSYM="
+      "sha256": "sha256-PT1sWU07ArV7/HsnC7C09K011HtCcDb9qu+iqi9lnwY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29023,7 +29023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "intersystems-community-vscode-objectscript",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "passthru": {
       "name": "vscode-objectscript",
       "license": "MIT",
@@ -29031,10 +29031,10 @@
       "description": "InterSystems ObjectScript language support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.2/file/intersystems-community.vscode-objectscript-1.4.2.vsix",
+      "url": "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.3/file/intersystems-community.vscode-objectscript-1.4.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/HYxt5frIkPxDIl8HAmuUvqZpbip3RJ4LdH6GKgoEbU="
+      "sha256": "sha256-H/+4hzZpOvklHGn307c/bKm3SG/2RiKn+/x+f8nsD5s="
     },
     "extract": null,
     "rustGitDeps": null

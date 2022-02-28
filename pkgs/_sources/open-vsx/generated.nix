@@ -7083,10 +7083,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1899912";
+    version = "6.1.1910298";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1899912/file/eliostruyf.vscode-front-matter-beta-6.1.1899912.vsix";
-      sha256 = "sha256-yDMb693tNg7ls4HxLqjG//GN4FpnC5rzADARZH/XSYM=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1910298/file/eliostruyf.vscode-front-matter-beta-6.1.1910298.vsix";
+      sha256 = "sha256-PT1sWU07ArV7/HsnC7C09K011HtCcDb9qu+iqi9lnwY=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9243,10 +9243,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.4.2";
+    version = "1.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.2/file/intersystems-community.vscode-objectscript-1.4.2.vsix";
-      sha256 = "sha256-/HYxt5frIkPxDIl8HAmuUvqZpbip3RJ4LdH6GKgoEbU=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.3/file/intersystems-community.vscode-objectscript-1.4.3.vsix";
+      sha256 = "sha256-H/+4hzZpOvklHGn307c/bKm3SG/2RiKn+/x+f8nsD5s=";
     };
     name = "vscode-objectscript";
     license = "MIT";
