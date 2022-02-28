@@ -18951,10 +18951,10 @@
   };
   zardoy-extra-commands = {
     pname = "zardoy-extra-commands";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.10/file/zardoy.extra-commands-0.0.10.vsix";
-      sha256 = "sha256-Wix8m8/zCnxTXosbwNT24wfxC1LfmjdxZyrOeUueOI0=";
+      url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.11/file/zardoy.extra-commands-0.0.11.vsix";
+      sha256 = "sha256-u6Z6iYkkZhH+NIzC+VtpXlXiKVO0eOaiGLFRO+kZ3Ls=";
     };
     name = "extra-commands";
     license = "MIT";
