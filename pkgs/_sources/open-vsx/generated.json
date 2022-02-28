@@ -10823,7 +10823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mbari-tethysl",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "passthru": {
       "name": "tethysl",
       "license": "MIT",
@@ -10831,10 +10831,10 @@
       "description": "Plugin for TethysL"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mbari/tethysl/2.1.0/file/mbari.tethysl-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/mbari/tethysl/2.2.0/file/mbari.tethysl-2.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7xXy0s5nAOWrDDcbMXBrQhoAhN/pc8sQZzMMJxFKCS4="
+      "sha256": "sha256-e+IIo5Fs9pQu7KCfbE5vPP3kXemrnCN3iTDsBmVKO5A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17363,7 +17363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "a5hk-night-coder",
-    "version": "3.6.0",
+    "version": "3.7.1",
     "passthru": {
       "name": "night-coder",
       "license": "MIT",
@@ -17371,10 +17371,10 @@
       "description": "A dark theme for Night Coders"
     },
     "src": {
-      "url": "https://open-vsx.org/api/a5hk/night-coder/3.6.0/file/a5hk.night-coder-3.6.0.vsix",
+      "url": "https://open-vsx.org/api/a5hk/night-coder/3.7.1/file/a5hk.night-coder-3.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sAbQW/PqDbeQqKI30qOTcKTM/lVMUU9pmSWzt1DYE+I="
+      "sha256": "sha256-HicpPFlHIem/QcEj+gZ/jN3KJt1DeHppQk/x7vVTqKA="
     },
     "extract": null,
     "rustGitDeps": null

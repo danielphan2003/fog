@@ -3675,10 +3675,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "3.6.0";
+    version = "3.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/3.6.0/file/a5hk.night-coder-3.6.0.vsix";
-      sha256 = "sha256-sAbQW/PqDbeQqKI30qOTcKTM/lVMUU9pmSWzt1DYE+I=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/3.7.1/file/a5hk.night-coder-3.7.1.vsix";
+      sha256 = "sha256-HicpPFlHIem/QcEj+gZ/jN3KJt1DeHppQk/x7vVTqKA=";
     };
     name = "night-coder";
     license = "MIT";
@@ -11163,10 +11163,10 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.1.0/file/mbari.tethysl-2.1.0.vsix";
-      sha256 = "sha256-7xXy0s5nAOWrDDcbMXBrQhoAhN/pc8sQZzMMJxFKCS4=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.2.0/file/mbari.tethysl-2.2.0.vsix";
+      sha256 = "sha256-e+IIo5Fs9pQu7KCfbE5vPP3kXemrnCN3iTDsBmVKO5A=";
     };
     name = "tethysl";
     license = "MIT";
