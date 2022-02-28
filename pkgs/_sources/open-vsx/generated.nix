@@ -2655,10 +2655,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.677";
+    version = "31.0.678";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.677/file/Prisma.prisma-insider-31.0.677.vsix";
-      sha256 = "sha256-UvwRR1e7vWOBUjk/KYkpB62J6y73FgCTHPvuwTi9B9g=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.678/file/Prisma.prisma-insider-31.0.678.vsix";
+      sha256 = "sha256-ZfIu7b/f/GUpSyYK+ajs1SAudw2X9hyv+HaJwGS+3/w=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4479,10 +4479,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.0.0";
+    version = "5.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.0.0/file/anweber.vscode-httpyac-5.0.0.vsix";
-      sha256 = "sha256-kqORZ5aUKSXQ9OLW878plWd8WTyiVU9Gx5bM0Jn0p4Q=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.0.3/file/anweber.vscode-httpyac-5.0.3.vsix";
+      sha256 = "sha256-630DQ3fau/ay7XjHYvVHhiP1HcBWn08hozVtSdnoUwo=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -10599,10 +10599,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.68";
+    version = "0.0.69";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.68/file/leanprover.lean4-0.0.68.vsix";
-      sha256 = "sha256-LkWka/Y+KVlJHubby0rptpPZ9Q3oQqqbhtrt3KIqKco=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.69/file/leanprover.lean4-0.0.69.vsix";
+      sha256 = "sha256-Znj78imRMxwUgPU8vqhanDzXmLlabVUh3lz6nD2/tEg=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -12048,6 +12048,18 @@
     license = "MIT";
     publisher = "ms-vscode";
     description = "GitHub Issue Notebooks for VS Code";
+  };
+  ms-vscode-vscode-js-profile-table = {
+    pname = "ms-vscode-vscode-js-profile-table";
+    version = "0.0.24";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/0.0.24/file/ms-vscode.vscode-js-profile-table-0.0.24.vsix";
+      sha256 = "sha256-cbQ+06qkYNWgvLx/20FZDfhleXX1E6UwVKYLZKHNsXM=";
+    };
+    name = "vscode-js-profile-table";
+    license = "MIT";
+    publisher = "ms-vscode";
+    description = "Text visualizer for profiles taken from the JavaScript debugger";
   };
   ms-vscode-vscode-smoketest-check = {
     pname = "ms-vscode-vscode-smoketest-check";
@@ -16525,6 +16537,18 @@
     publisher = "torn4dom4n";
     description = "LaTeX language support for Visual Studio Code";
   };
+  toroxx-tx-neon = {
+    pname = "toroxx-tx-neon";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/toroxx/tx-neon/0.1.2/file/toroxx.tx-neon-0.1.2.vsix";
+      sha256 = "sha256-AMdGBy5QTnC4hm70S/s8JFLHWB5sqjT4wv+dZTIvckY=";
+    };
+    name = "tx-neon";
+    license = "MIT";
+    publisher = "toroxx";
+    description = "Neon color themes by Lawrence Lau";
+  };
   trallard-pitaya-smoothie = {
     pname = "trallard-pitaya-smoothie";
     version = "2.0.1";
@@ -17019,10 +17043,10 @@
   };
   viper-admin-viper = {
     pname = "viper-admin-viper";
-    version = "2.3.1";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/viper/2.3.1/file/viper-admin.viper-2.3.1.vsix";
-      sha256 = "sha256-kxmjkSXoG2Xka4rCCPxQK0QzDLOx01j7eU+1COPOTBY=";
+      url = "https://open-vsx.org/api/viper-admin/viper/2.4.0/file/viper-admin.viper-2.4.0.vsix";
+      sha256 = "sha256-iGEXS8ZVrD/kRu37N8JhdmwhM3lG3uyosReqn0yCNuA=";
     };
     name = "viper";
     license = "";
