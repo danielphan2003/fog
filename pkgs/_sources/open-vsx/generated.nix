@@ -4059,10 +4059,10 @@
   };
   allanoricil-nuxt-vscode-extension = {
     pname = "allanoricil-nuxt-vscode-extension";
-    version = "0.0.19";
+    version = "0.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.19/file/allanoricil.nuxt-vscode-extension-0.0.19.vsix";
-      sha256 = "sha256-B8ff59Ozp1a4o5LWeOtYqS6uo/QZPOSQjy9Z6gqHKuk=";
+      url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.21/file/allanoricil.nuxt-vscode-extension-0.0.21.vsix";
+      sha256 = "sha256-0OyR+beO3j3KXVjveCtwNGv7HQFEzxtn/BltCVgfHR0=";
     };
     name = "nuxt-vscode-extension";
     license = "MIT";
@@ -6219,10 +6219,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.5.5";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.5.5/file/d-biehl.robotcode-0.5.5.vsix";
-      sha256 = "sha256-zHqt4aoOZuMwEUA9q1zsSlMdMYCuVZV0jCviT2+3vD4=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.6.0/file/d-biehl.robotcode-0.6.0.vsix";
+      sha256 = "sha256-J+udiCzLASeyriLBU3vZhsdbc+i8ND4TQLYlRgER7wY=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -8487,10 +8487,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.4";
+    version = "0.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.4/file/halcyontechltd.vscode-rpgle-0.6.4.vsix";
-      sha256 = "sha256-4FtvWeqFS4HvfYrIB0b001PkmUOBYB+tcye02dc95YE=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.5/file/halcyontechltd.vscode-rpgle-0.6.5.vsix";
+      sha256 = "sha256-bjCWh5/HiK0zplNO8WVHI7nAMWKeBkwCLaaieRe0sHM=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -18447,10 +18447,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.8";
+    version = "0.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.8/file/wcrichton.flowistry-0.5.8.vsix";
-      sha256 = "sha256-QCTyPFRw2jB/fmsSyq7LgFL13eJQAgkXOcSDWL9vpOY=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.9/file/wcrichton.flowistry-0.5.9.vsix";
+      sha256 = "sha256-brPzMSZtLMg6l1mQtfvkgkVvc/8AAbdiMUnHOR9de8g=";
     };
     name = "flowistry";
     license = "MIT";
