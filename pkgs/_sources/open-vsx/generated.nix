@@ -2655,10 +2655,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.678";
+    version = "31.0.679";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.678/file/Prisma.prisma-insider-31.0.678.vsix";
-      sha256 = "sha256-ZfIu7b/f/GUpSyYK+ajs1SAudw2X9hyv+HaJwGS+3/w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.679/file/Prisma.prisma-insider-31.0.679.vsix";
+      sha256 = "sha256-HwaJ1Pjun940aAf9BE6YdEYs4F32qd0OZnJMtWnFo9E=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7083,10 +7083,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.1.1910298";
+    version = "6.1.1911375";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1910298/file/eliostruyf.vscode-front-matter-beta-6.1.1910298.vsix";
-      sha256 = "sha256-PT1sWU07ArV7/HsnC7C09K011HtCcDb9qu+iqi9lnwY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1911375/file/eliostruyf.vscode-front-matter-beta-6.1.1911375.vsix";
+      sha256 = "sha256-d8m9oxcJk+VbXlq5dPGyis+A4u41m28ZErDXiV+wP+k=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -8223,10 +8223,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.3";
+    version = "0.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.3/file/gitduck.code-streaming-0.4.3.vsix";
-      sha256 = "sha256-nxdjpmtYaY7rtoOfvdYSBKeBBL6/fUh9Eia6YCRA3vc=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.4/file/gitduck.code-streaming-0.4.4.vsix";
+      sha256 = "sha256-udPL5lLlx15urYZF8ImxA8COMv8/uIZnNAprvmbc4ZE=";
     };
     name = "code-streaming";
     license = "Custom";

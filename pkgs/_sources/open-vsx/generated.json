@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.3",
+    "version": "0.4.4",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5691,10 +5691,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.3/file/gitduck.code-streaming-0.4.3.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.4/file/gitduck.code-streaming-0.4.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nxdjpmtYaY7rtoOfvdYSBKeBBL6/fUh9Eia6YCRA3vc="
+      "sha256": "sha256-udPL5lLlx15urYZF8ImxA8COMv8/uIZnNAprvmbc4ZE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9043,7 +9043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1910298",
+    "version": "6.1.1911375",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9051,10 +9051,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1910298/file/eliostruyf.vscode-front-matter-beta-6.1.1910298.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1911375/file/eliostruyf.vscode-front-matter-beta-6.1.1911375.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PT1sWU07ArV7/HsnC7C09K011HtCcDb9qu+iqi9lnwY="
+      "sha256": "sha256-d8m9oxcJk+VbXlq5dPGyis+A4u41m28ZErDXiV+wP+k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28943,7 +28943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.678",
+    "version": "31.0.679",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28951,10 +28951,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.678/file/Prisma.prisma-insider-31.0.678.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.679/file/Prisma.prisma-insider-31.0.679.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZfIu7b/f/GUpSyYK+ajs1SAudw2X9hyv+HaJwGS+3/w="
+      "sha256": "sha256-HwaJ1Pjun940aAf9BE6YdEYs4F32qd0OZnJMtWnFo9E="
     },
     "extract": null,
     "rustGitDeps": null
