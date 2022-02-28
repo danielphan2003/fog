@@ -563,7 +563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.6.5",
+    "version": "0.6.7",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -571,10 +571,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.5/file/halcyontechltd.vscode-rpgle-0.6.5.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.7/file/halcyontechltd.vscode-rpgle-0.6.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bjCWh5/HiK0zplNO8WVHI7nAMWKeBkwCLaaieRe0sHM="
+      "sha256": "sha256-puu9xKSnWHJWpyWbgUJ0aRLn+A1y5/pU1gIfJlsef8M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14563,7 +14563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hoovercj-vscode-power-mode",
-    "version": "2.2.0",
+    "version": "3.0.0",
     "passthru": {
       "name": "vscode-power-mode",
       "license": "MIT",
@@ -14571,10 +14571,10 @@
       "description": "Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/hoovercj/vscode-power-mode/2.2.0/file/hoovercj.vscode-power-mode-2.2.0.vsix",
+      "url": "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.0/file/hoovercj.vscode-power-mode-3.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-F90415vHScnEvYOoU6mb96zo1z+Bs894UOVv3bxO9HA="
+      "sha256": "sha256-9etayum9IPBGpSpshPISWWD0xQQwKdkLzhc/QJxPwfs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15763,7 +15763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15771,10 +15771,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.2/file/halcyontechltd.code-for-ibmi-1.0.2.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.3/file/halcyontechltd.code-for-ibmi-1.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CT7SIVXKtagp3y3XOBv9Zh7mlhL4Er1wwj1W3FAL4Ak="
+      "sha256": "sha256-f6KdXiDIYX0aBxpWJm82DWjkvd55OVQgI/xEjPzzke8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16323,7 +16323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "171.0.0",
+    "version": "172.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -16331,10 +16331,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/171.0.0/file/lextudio.restructuredtext-171.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/172.0.0/file/lextudio.restructuredtext-172.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gCbAEUmSnd+AEnur1hASpjJQvsgKmVAw0jYsTBbE49E="
+      "sha256": "sha256-oNFxLtfusqzUUEqrksll5PxBUP0wynBkmraOIs0cNWQ="
     },
     "extract": null,
     "rustGitDeps": null

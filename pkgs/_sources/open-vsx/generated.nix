@@ -8463,10 +8463,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.2/file/halcyontechltd.code-for-ibmi-1.0.2.vsix";
-      sha256 = "sha256-CT7SIVXKtagp3y3XOBv9Zh7mlhL4Er1wwj1W3FAL4Ak=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.3/file/halcyontechltd.code-for-ibmi-1.0.3.vsix";
+      sha256 = "sha256-f6KdXiDIYX0aBxpWJm82DWjkvd55OVQgI/xEjPzzke8=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -8487,10 +8487,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.5";
+    version = "0.6.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.5/file/halcyontechltd.vscode-rpgle-0.6.5.vsix";
-      sha256 = "sha256-bjCWh5/HiK0zplNO8WVHI7nAMWKeBkwCLaaieRe0sHM=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.7/file/halcyontechltd.vscode-rpgle-0.6.7.vsix";
+      sha256 = "sha256-puu9xKSnWHJWpyWbgUJ0aRLn+A1y5/pU1gIfJlsef8M=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -8739,10 +8739,10 @@
   };
   hoovercj-vscode-power-mode = {
     pname = "hoovercj-vscode-power-mode";
-    version = "2.2.0";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hoovercj/vscode-power-mode/2.2.0/file/hoovercj.vscode-power-mode-2.2.0.vsix";
-      sha256 = "sha256-F90415vHScnEvYOoU6mb96zo1z+Bs894UOVv3bxO9HA=";
+      url = "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.0/file/hoovercj.vscode-power-mode-3.0.0.vsix";
+      sha256 = "sha256-9etayum9IPBGpSpshPISWWD0xQQwKdkLzhc/QJxPwfs=";
     };
     name = "vscode-power-mode";
     license = "MIT";
@@ -10671,10 +10671,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "171.0.0";
+    version = "172.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/171.0.0/file/lextudio.restructuredtext-171.0.0.vsix";
-      sha256 = "sha256-gCbAEUmSnd+AEnur1hASpjJQvsgKmVAw0jYsTBbE49E=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/172.0.0/file/lextudio.restructuredtext-172.0.0.vsix";
+      sha256 = "sha256-oNFxLtfusqzUUEqrksll5PxBUP0wynBkmraOIs0cNWQ=";
     };
     name = "restructuredtext";
     license = "MIT";
