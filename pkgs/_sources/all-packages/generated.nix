@@ -265,13 +265,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "167e253a8614515cfc60e7c8a005acd5a2e2d3c7";
+    version = "9f5a988eca3f5cc9863c05405b90b45603eb08e7";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "167e253a8614515cfc60e7c8a005acd5a2e2d3c7";
+      rev = "9f5a988eca3f5cc9863c05405b90b45603eb08e7";
       fetchSubmodules = false;
-      sha256 = "sha256-ia1DMRbWff3I+1pYUfc5Vd6lqFu94JobG+/auzRzGsQ=";
+      sha256 = "sha256-yzKIx9LNMRsjSUSvjt0Xn+HNuMqNRr12/bf+6ACnNTU=";
     });
   };
   droidcam = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5899";
+    version = "1.0.5900";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5899.tar.bz2";
-      sha256 = "sha256-eRP48l8qUVn/lfCH/VNj7rVrRUvlPlK4k9gN4DVA520=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5900.tar.bz2";
+      sha256 = "sha256-ECJZkjQ0DAfOqyZwIU/QErTfcXaH2tpvpouMmPoMCE4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5899";
+    version = "1.0.5900";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5899-1_all.deb";
-      sha256 = "sha256-QUomm6OmtbD9tbnWYZvZTtXrN7Qnl7NTB1X9tMWRxaQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5900-1_all.deb";
+      sha256 = "sha256-/WhUXx/6AxNbGKT/IEExPEkex0mnLnK+qRDBLg88x88=";
     };
   };
   jitsi-videobridge2 = {
