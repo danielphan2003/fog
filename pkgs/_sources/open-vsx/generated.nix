@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.2.3";
+    version = "13.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.2.3/file/Angular.ng-template-13.2.3.vsix";
-      sha256 = "sha256-9fG7dbnVlior+k9aNTpNaZZ3oupeUPQe9kuf9E1VQN4=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.2.4/file/Angular.ng-template-13.2.4.vsix";
+      sha256 = "sha256-sg1/zenG7C15FPJ7+3J0efJA10HRSKg60JFC+M+UsDQ=";
     };
     name = "ng-template";
     license = "MIT";
@@ -699,10 +699,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.34.0";
+    version = "3.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.34.0/file/Dart-Code.dart-code-3.34.0.vsix";
-      sha256 = "sha256-MPXtLboCo/fnR3LqVMccuqtli9wdZRU31k2K1mXPclc=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.36.0/file/Dart-Code.dart-code-3.36.0.vsix";
+      sha256 = "sha256-AjMf+bpzyqC4Ngqxb1PqBRqkxy8rzec6OBRydfGn/Z8=";
     };
     name = "dart-code";
     license = "MIT";
@@ -711,10 +711,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.34.0";
+    version = "3.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.34.0/file/Dart-Code.flutter-3.34.0.vsix";
-      sha256 = "sha256-Wi+7Q9CZPORfUhHeCBCzDGtKvwXVnx1V/nzkRtJwQkg=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.36.0/file/Dart-Code.flutter-3.36.0.vsix";
+      sha256 = "sha256-DNPZrYh4Dzt7vUkXOEmMBMS/eQ0N+u4qZmYDmJxRPw0=";
     };
     name = "flutter";
     license = "MIT";
@@ -2859,10 +2859,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.22";
+    version = "3.3.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.22/file/SPGoding.datapack-language-server-3.3.22.vsix";
-      sha256 = "sha256-ycfxtlEalQ5srXcN9iZg9MdYUxG/5PyvUy5CCwlY2YM=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.23/file/SPGoding.datapack-language-server-3.3.23.vsix";
+      sha256 = "sha256-BcBLjMc6TRBK11o1oy/uhXB5aipEGIHcRlvYWIVcMQA=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -8211,10 +8211,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.5";
+    version = "2.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.5/file/giscafer.leek-fund-2.0.5.vsix";
-      sha256 = "sha256-YAfVkaEFDJ1ziS7TZiOqSZWhvD8a94JfvO/Ldhz+Hsc=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.6/file/giscafer.leek-fund-2.0.6.vsix";
+      sha256 = "sha256-p1SlLaxv9q4xFkEPiv35jpVYHu57NF6evVYn241mPWQ=";
     };
     name = "leek-fund";
     license = "MIT";
@@ -8223,10 +8223,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.4";
+    version = "0.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.4/file/gitduck.code-streaming-0.4.4.vsix";
-      sha256 = "sha256-udPL5lLlx15urYZF8ImxA8COMv8/uIZnNAprvmbc4ZE=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.5/file/gitduck.code-streaming-0.4.5.vsix";
+      sha256 = "sha256-TgAxemwxz5qPGfYFuZV3mBX4G63wm6iBNBqrLhG+jRo=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -9411,10 +9411,10 @@
   };
   janisdd-vscode-edit-csv = {
     pname = "janisdd-vscode-edit-csv";
-    version = "0.6.5";
+    version = "0.6.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.5/file/janisdd.vscode-edit-csv-0.6.5.vsix";
-      sha256 = "sha256-4qBkBU0HJbCxy/xhhv8IrAhb1djGymU777x4nIYk5Xs=";
+      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.6/file/janisdd.vscode-edit-csv-0.6.6.vsix";
+      sha256 = "sha256-/iuoYNm10cj0mRoEZdRUyT0j7Tu2Dt0A+3Fu7/X3uck=";
     };
     name = "vscode-edit-csv";
     license = "MIT";
@@ -10671,10 +10671,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "172.0.0";
+    version = "173.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/172.0.0/file/lextudio.restructuredtext-172.0.0.vsix";
-      sha256 = "sha256-oNFxLtfusqzUUEqrksll5PxBUP0wynBkmraOIs0cNWQ=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/173.0.0/file/lextudio.restructuredtext-173.0.0.vsix";
+      sha256 = "sha256-Ksd49xs5rSsodyQ016OESpFD84H3vnGKFjEM7J8EICY=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -17187,10 +17187,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.35.0";
+    version = "0.35.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.0/file/vscjava.vscode-maven-0.35.0.vsix";
-      sha256 = "sha256-NX5sBR4PIHUqagNBko9RuN7TrHu7xknssAFvjQtox24=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.1/file/vscjava.vscode-maven-0.35.1.vsix";
+      sha256 = "sha256-RwaXiNNOYfIGXsk8QwfZicBVUB9M0jiCCQ3pA8zDJv0=";
     };
     name = "vscode-maven";
     license = "MIT";
