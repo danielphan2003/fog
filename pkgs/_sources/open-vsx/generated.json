@@ -15803,7 +15803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15811,10 +15811,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.3/file/halcyontechltd.code-for-ibmi-1.0.3.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.0/file/halcyontechltd.code-for-ibmi-1.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f6KdXiDIYX0aBxpWJm82DWjkvd55OVQgI/xEjPzzke8="
+      "sha256": "sha256-9aADPJGNtUUC1nPyyzEnjBAOO0kK7kXmlRnHu+YwNRs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15843,7 +15843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SPGoding-datapack-language-server",
-    "version": "3.3.21",
+    "version": "3.3.22",
     "passthru": {
       "name": "datapack-language-server",
       "license": "MIT",
@@ -15851,10 +15851,10 @@
       "description": "Heavy language features for Minecraft: Java Edition data pack files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.21/file/SPGoding.datapack-language-server-3.3.21.vsix",
+      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.22/file/SPGoding.datapack-language-server-3.3.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-By3Xt046ZiqvwQnCdHwfc1WMsLGtlBLoSRH/VRiQ6HE="
+      "sha256": "sha256-ycfxtlEalQ5srXcN9iZg9MdYUxG/5PyvUy5CCwlY2YM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29763,7 +29763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shd101wyy-markdown-preview-enhanced",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "passthru": {
       "name": "markdown-preview-enhanced",
       "license": "NCSA",
@@ -29771,10 +29771,10 @@
       "description": "Markdown Preview Enhanced ported to vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.1/file/shd101wyy.markdown-preview-enhanced-0.6.1.vsix",
+      "url": "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.2/file/shd101wyy.markdown-preview-enhanced-0.6.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BnjFsmL5ytA65bkiigtHz9iW1Sgr/ShNLcDqgMBkjx0="
+      "sha256": "sha256-McYF3ARaOtaPSiwZo/vx1Y+HPamA1eCJCQjKpmhpKQ4="
     },
     "extract": null,
     "rustGitDeps": null

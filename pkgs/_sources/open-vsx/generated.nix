@@ -2859,10 +2859,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.21";
+    version = "3.3.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.21/file/SPGoding.datapack-language-server-3.3.21.vsix";
-      sha256 = "sha256-By3Xt046ZiqvwQnCdHwfc1WMsLGtlBLoSRH/VRiQ6HE=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.22/file/SPGoding.datapack-language-server-3.3.22.vsix";
+      sha256 = "sha256-ycfxtlEalQ5srXcN9iZg9MdYUxG/5PyvUy5CCwlY2YM=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -8463,10 +8463,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.0.3";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.0.3/file/halcyontechltd.code-for-ibmi-1.0.3.vsix";
-      sha256 = "sha256-f6KdXiDIYX0aBxpWJm82DWjkvd55OVQgI/xEjPzzke8=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.0/file/halcyontechltd.code-for-ibmi-1.1.0.vsix";
+      sha256 = "sha256-9aADPJGNtUUC1nPyyzEnjBAOO0kK7kXmlRnHu+YwNRs=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -15027,10 +15027,10 @@
   };
   shd101wyy-markdown-preview-enhanced = {
     pname = "shd101wyy-markdown-preview-enhanced";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.1/file/shd101wyy.markdown-preview-enhanced-0.6.1.vsix";
-      sha256 = "sha256-BnjFsmL5ytA65bkiigtHz9iW1Sgr/ShNLcDqgMBkjx0=";
+      url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.2/file/shd101wyy.markdown-preview-enhanced-0.6.2.vsix";
+      sha256 = "sha256-McYF3ARaOtaPSiwZo/vx1Y+HPamA1eCJCQjKpmhpKQ4=";
     };
     name = "markdown-preview-enhanced";
     license = "NCSA";
