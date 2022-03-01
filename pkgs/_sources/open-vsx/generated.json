@@ -10603,7 +10603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.9",
+    "version": "0.5.10",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10611,10 +10611,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.9/file/wcrichton.flowistry-0.5.9.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.10/file/wcrichton.flowistry-0.5.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-brPzMSZtLMg6l1mQtfvkgkVvc/8AAbdiMUnHOR9de8g="
+      "sha256": "sha256-GYoxOUjjZJzNNHccxHZAHOkvJsDtaaVfRU9dzAZzxjs="
     },
     "extract": null,
     "rustGitDeps": null
