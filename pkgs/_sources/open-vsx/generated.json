@@ -21843,7 +21843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robole-markdown-shortcuts",
-    "version": "0.5.1",
+    "version": "0.6.0",
     "passthru": {
       "name": "markdown-shortcuts",
       "license": "MIT",
@@ -21851,10 +21851,10 @@
       "description": "Keyboard shortcuts for markdown snippets."
     },
     "src": {
-      "url": "https://open-vsx.org/api/robole/markdown-shortcuts/0.5.1/file/robole.markdown-shortcuts-0.5.1.vsix",
+      "url": "https://open-vsx.org/api/robole/markdown-shortcuts/0.6.0/file/robole.markdown-shortcuts-0.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/shAztG1o86Dj1YQaEPvxbOzLBPOFnqkvqvUITsdLdg="
+      "sha256": "sha256-v3KZJ4ASsquR9y0OB8edN7QPFQzm3/6saJHb7xvCKgg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22483,7 +22483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.83.0",
+    "version": "0.84.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -22491,10 +22491,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.83.0/file/dendron.dendron-0.83.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.84.0/file/dendron.dendron-0.84.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LvsHwgrFrLzKTMkNuAt7w9oiF0czNPnIOkNjCRrl2uA="
+      "sha256": "sha256-UXQDnywo0sR+1oX20/ettVXnl6oLvxU73/FX13Jb9nA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24363,7 +24363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robole-markdown-snippets",
-    "version": "0.7.4",
+    "version": "0.7.5",
     "passthru": {
       "name": "markdown-snippets",
       "license": "MIT",
@@ -24371,10 +24371,10 @@
       "description": "Extended Markdown snippets."
     },
     "src": {
-      "url": "https://open-vsx.org/api/robole/markdown-snippets/0.7.4/file/robole.markdown-snippets-0.7.4.vsix",
+      "url": "https://open-vsx.org/api/robole/markdown-snippets/0.7.5/file/robole.markdown-snippets-0.7.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UAPrNgSqi0Uu6rkR1bqREgGndYFAf+kfYngWfQVD2KY="
+      "sha256": "sha256-158/eWJX1GTunC1kb+nyzc5vdyDfZtJtJO9GD53GbjI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28943,7 +28943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.681",
+    "version": "31.0.682",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28951,10 +28951,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.681/file/Prisma.prisma-insider-31.0.681.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.682/file/Prisma.prisma-insider-31.0.682.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fQ6dGuJ8Bi+t+ynuf3rjulDMi84vbzH9szIIJbsL9YA="
+      "sha256": "sha256-YP9tuxjQFz/3E+CpNiQTfIAe9L7daYz1LFuBPUT1ptM="
     },
     "extract": null,
     "rustGitDeps": null

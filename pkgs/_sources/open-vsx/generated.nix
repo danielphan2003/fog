@@ -2655,10 +2655,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.681";
+    version = "31.0.682";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.681/file/Prisma.prisma-insider-31.0.681.vsix";
-      sha256 = "sha256-fQ6dGuJ8Bi+t+ynuf3rjulDMi84vbzH9szIIJbsL9YA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.682/file/Prisma.prisma-insider-31.0.682.vsix";
+      sha256 = "sha256-YP9tuxjQFz/3E+CpNiQTfIAe9L7daYz1LFuBPUT1ptM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6543,10 +6543,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.83.0";
+    version = "0.84.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.83.0/file/dendron.dendron-0.83.0.vsix";
-      sha256 = "sha256-LvsHwgrFrLzKTMkNuAt7w9oiF0czNPnIOkNjCRrl2uA=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.84.0/file/dendron.dendron-0.84.0.vsix";
+      sha256 = "sha256-UXQDnywo0sR+1oX20/ettVXnl6oLvxU73/FX13Jb9nA=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -14415,10 +14415,10 @@
   };
   robole-markdown-shortcuts = {
     pname = "robole-markdown-shortcuts";
-    version = "0.5.1";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/markdown-shortcuts/0.5.1/file/robole.markdown-shortcuts-0.5.1.vsix";
-      sha256 = "sha256-/shAztG1o86Dj1YQaEPvxbOzLBPOFnqkvqvUITsdLdg=";
+      url = "https://open-vsx.org/api/robole/markdown-shortcuts/0.6.0/file/robole.markdown-shortcuts-0.6.0.vsix";
+      sha256 = "sha256-v3KZJ4ASsquR9y0OB8edN7QPFQzm3/6saJHb7xvCKgg=";
     };
     name = "markdown-shortcuts";
     license = "MIT";
@@ -14427,10 +14427,10 @@
   };
   robole-markdown-snippets = {
     pname = "robole-markdown-snippets";
-    version = "0.7.4";
+    version = "0.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/markdown-snippets/0.7.4/file/robole.markdown-snippets-0.7.4.vsix";
-      sha256 = "sha256-UAPrNgSqi0Uu6rkR1bqREgGndYFAf+kfYngWfQVD2KY=";
+      url = "https://open-vsx.org/api/robole/markdown-snippets/0.7.5/file/robole.markdown-snippets-0.7.5.vsix";
+      sha256 = "sha256-158/eWJX1GTunC1kb+nyzc5vdyDfZtJtJO9GD53GbjI=";
     };
     name = "markdown-snippets";
     license = "MIT";
