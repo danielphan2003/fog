@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f931c78d108d72327590990225dcafc566160968";
+    version = "3a9f927ae57c9a3b563c482992cb0d929ee3d132";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f931c78d108d72327590990225dcafc566160968";
+      rev = "3a9f927ae57c9a3b563c482992cb0d929ee3d132";
       fetchSubmodules = false;
-      sha256 = "sha256-tE6YuuZZcs3RKxs1S6OoGt0CXz3oHUi/sopFN0iywds=";
+      sha256 = "sha256-YC0sRJ72kOfakBLShmwK63BPvpr7K1/MHT9S1OljjoI=";
     });
   };
   caddy = {
@@ -372,13 +372,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "3f43407cc5dbee41428040b50b675a14efa40e5a";
+    version = "df664b1f18a9c630ccd884f8ff698abf6cbb1578";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "3f43407cc5dbee41428040b50b675a14efa40e5a";
+      rev = "df664b1f18a9c630ccd884f8ff698abf6cbb1578";
       fetchSubmodules = false;
-      sha256 = "sha256-Laakbe4n4vDJRvndBRHA9XjfSrPJpyEpQ1/22j0OveI=";
+      sha256 = "sha256-7OB6JnKjeZm8oVtLoNOFByazIOc8dYeWlWlBoazRDLg=";
     });
   };
   ibus-bamboo = {
@@ -901,13 +901,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "ba29a172b458ee65f817681a886b67248823de49";
+    version = "07596ca4b2b0798add2d76e4fee7a696f9faf86b";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "ba29a172b458ee65f817681a886b67248823de49";
+      rev = "07596ca4b2b0798add2d76e4fee7a696f9faf86b";
       fetchSubmodules = false;
-      sha256 = "sha256-MHJyZX9LyGz4+jmg2E83h3iHAdaBFKkbD46tfqhxH+E=";
+      sha256 = "sha256-/PqvH/m7H+s+1qBRvdAvQVRnleuDzLbwUHqtc2qDnB8=";
     });
   };
   spotify = {
