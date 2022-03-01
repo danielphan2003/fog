@@ -28223,7 +28223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.20",
+    "version": "0.0.21",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -28231,10 +28231,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.20/file/bilelmoussaoui.flatpak-vscode-0.0.20.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.21/file/bilelmoussaoui.flatpak-vscode-0.0.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HxWSncE6EJQL0mlAaKoWeyxtaYoAjI/gCD71PrirPT8="
+      "sha256": "sha256-Zkc72Wh7WNcm3hmuvM5vnp85dZfbZGuTVX9WkAzsVUY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28943,7 +28943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.679",
+    "version": "31.0.681",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28951,10 +28951,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.679/file/Prisma.prisma-insider-31.0.679.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.681/file/Prisma.prisma-insider-31.0.681.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HwaJ1Pjun940aAf9BE6YdEYs4F32qd0OZnJMtWnFo9E="
+      "sha256": "sha256-fQ6dGuJ8Bi+t+ynuf3rjulDMi84vbzH9szIIJbsL9YA="
     },
     "extract": null,
     "rustGitDeps": null
