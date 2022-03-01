@@ -2991,10 +2991,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.2.2614";
+    version = "2022.2.2810";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2614/file/Slint.slint-nightly-2022.2.2614.vsix";
-      sha256 = "sha256-c3muZVxicsh7COiqgsBMXiLLll+as3Q0NSYz9Ag3KQc=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.2.2810/file/Slint.slint-nightly-2022.2.2810.vsix";
+      sha256 = "sha256-PEjp2i78Uey57wEsGjYu62Pe8Be4oW8VmHQ3TPSKOFI=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -17175,10 +17175,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.34.0";
+    version = "0.34.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.34.0/file/vscjava.vscode-java-test-0.34.0.vsix";
-      sha256 = "sha256-7uscmiZNvwXZeDutsWmhkWe4IQ3VZx3Cna9xWM2wLhE=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.34.1/file/vscjava.vscode-java-test-0.34.1.vsix";
+      sha256 = "sha256-pOuxffTkMTLfU9MgLFnJ1l9P9dWRCo24DhLeodID1HA=";
     };
     name = "vscode-java-test";
     license = "";
