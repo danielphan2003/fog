@@ -28223,7 +28223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.21",
+    "version": "0.0.22",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -28231,10 +28231,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.21/file/bilelmoussaoui.flatpak-vscode-0.0.21.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.22/file/bilelmoussaoui.flatpak-vscode-0.0.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Zkc72Wh7WNcm3hmuvM5vnp85dZfbZGuTVX9WkAzsVUY="
+      "sha256": "sha256-nRm8NEje0PFwME/ZFYfhQ8L6LPPe08S4wFxbiqZz1e4="
     },
     "extract": null,
     "rustGitDeps": null
