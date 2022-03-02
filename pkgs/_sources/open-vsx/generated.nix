@@ -1707,10 +1707,10 @@
   };
   JustBrenny-hero-heroku = {
     pname = "JustBrenny-hero-heroku";
-    version = "1.6.1";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.6.1/file/JustBrenny.hero-heroku-1.6.1.vsix";
-      sha256 = "sha256-FdRhJDIzmHHmb1xqpJ0HWrdy/CyqTOODMcBzSw7r/Mw=";
+      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.0/file/JustBrenny.hero-heroku-1.7.0.vsix";
+      sha256 = "sha256-uhf/lyQ9GmLIkYeCuTGTfUXRCICuJRheMYpbFpd9tzI=";
     };
     name = "hero-heroku";
     license = "GPL-3.0-or-later";
@@ -5691,10 +5691,10 @@
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
-    version = "0.3.1";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.3.1/file/cmoog.sqlnotebook-0.3.1.vsix";
-      sha256 = "sha256-2+ikdHI2XEiKaX3Dy1+dGRc+9QN+C2LmVIKC6BKoDTw=";
+      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.4.1/file/cmoog.sqlnotebook-0.4.1.vsix";
+      sha256 = "sha256-cxlFsR8siAnl0VPKTo0Mclh2ISCtWewKS4a+0BAbCVw=";
     };
     name = "sqlnotebook";
     license = "MIT";
