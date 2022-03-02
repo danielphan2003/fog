@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.83.6",
+    "version": "0.84.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.83.6/file/dendron.nightly-0.83.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.84.1/file/dendron.nightly-0.84.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dqydvmTK6V5KZBxo+Rq96k0HHfSuuiOI4GdDjMDvkeo="
+      "sha256": "sha256-9WGA08rgmsFA/F68y1gnj3SZl7s5PWmDw8+UPXNaFzM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9043,7 +9043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.1.1911408",
+    "version": "6.2.1920896",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9051,10 +9051,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.1.1911408/file/eliostruyf.vscode-front-matter-beta-6.1.1911408.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1920896/file/eliostruyf.vscode-front-matter-beta-6.2.1920896.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-51JD2/E2ROTMxqWlctA9XUEnrmqYIl+56DHWSiH/0HU="
+      "sha256": "sha256-HFKFSbRHjVEDtcAeh8k+SVPq3dig0N1J62eS3M3NRn0="
     },
     "extract": null,
     "rustGitDeps": null
