@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "6788225cacd55b7f69f27a975c0ebe777288089f";
+    version = "36a6d724fe00a8da3219ea42d0776be7a9694e8a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "6788225cacd55b7f69f27a975c0ebe777288089f";
+      rev = "36a6d724fe00a8da3219ea42d0776be7a9694e8a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7HfH+kEokz9K0vepF7MwHCzKHiqk7yCObP7J4IgwZbQ=";
+      sha256 = "sha256-Porzo24bUA0XxfOKV2GxCFU3Rm5dzzPgPn8pg9tQ664=";
     };
     cargoLock = {
-      lockFile = ./conduit-6788225cacd55b7f69f27a975c0ebe777288089f/Cargo.lock;
+      lockFile = ./conduit-36a6d724fe00a8da3219ea42d0776be7a9694e8a/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-gRhhGWpMiLeA8TNgBMsFEBky1TISr/GXNxLpTXLgUQE=";
@@ -426,10 +426,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-633-g3ce3c1ab";
+    version = "2.1-634-gff8609ad";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-633-g3ce3c1ab-1_all.deb";
-      sha256 = "sha256-VVlBOHwZtfH9yV9yn0lD/5J+YUuJ2Ph9Ab2HbAJA0iA=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-634-gff8609ad-1_all.deb";
+      sha256 = "sha256-zPtaAjuiWLP4u1uBb2LiaUhO8Jr+n13nUrMVawUpxIE=";
     };
   };
   layout-machi = {
