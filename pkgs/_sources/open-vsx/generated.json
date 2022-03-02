@@ -2963,7 +2963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter",
-    "version": "6.1.0",
+    "version": "6.1.1",
     "passthru": {
       "name": "vscode-front-matter",
       "license": "MIT",
@@ -2971,10 +2971,10 @@
       "description": "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/6.1.0/file/eliostruyf.vscode-front-matter-6.1.0.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/6.1.1/file/eliostruyf.vscode-front-matter-6.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NQbfifwEkslo7nsKqVe1Hvf69JjHiB3pGMGEbanaVPs="
+      "sha256": "sha256-PwbXiSKvzgs0qZ1Ha/ZPW4AGji083bp9rhV6tDIXqw8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9043,7 +9043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.2.1920896",
+    "version": "6.2.1923643",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9051,10 +9051,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1920896/file/eliostruyf.vscode-front-matter-beta-6.2.1920896.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1923643/file/eliostruyf.vscode-front-matter-beta-6.2.1923643.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HFKFSbRHjVEDtcAeh8k+SVPq3dig0N1J62eS3M3NRn0="
+      "sha256": "sha256-/6UPVW9LBLqUprw0zk0NjBeS03J9ljMqOqkw3gJ24+c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14283,7 +14283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "edukera-archetype",
-    "version": "0.48.0",
+    "version": "0.49.0",
     "passthru": {
       "name": "archetype",
       "license": "MIT",
@@ -14291,10 +14291,10 @@
       "description": "DSL to develop smart contracts on the Tezos blockchain."
     },
     "src": {
-      "url": "https://open-vsx.org/api/edukera/archetype/0.48.0/file/edukera.archetype-0.48.0.vsix",
+      "url": "https://open-vsx.org/api/edukera/archetype/0.49.0/file/edukera.archetype-0.49.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0uHj4KujuM2XQEQxQWwCOXQIHgLUUr0uLK6WUjCka7g="
+      "sha256": "sha256-aj+mlK9bUqQaFymPfjfOIub9eVBw+lSP/owa1T72YTw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28983,7 +28983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.689",
+    "version": "31.0.690",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28991,10 +28991,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.689/file/Prisma.prisma-insider-31.0.689.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.690/file/Prisma.prisma-insider-31.0.690.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nHvIjmqSLEwh75Mkalhgu30hIU2+uD9aPAxek9+g0uw="
+      "sha256": "sha256-GUvHiZeBwgWt+4QSKtCVDA9/ZQaIKvBFPZQTJHjbnEU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29683,7 +29683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.246",
+    "version": "2.0.247",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -29691,10 +29691,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.246/file/betterthantomorrow.calva-2.0.246.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.247/file/betterthantomorrow.calva-2.0.247.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Nz6aZ+8p+QZ8kiuyR5FSft66f0zAa90C8Lnf36c0gqc="
+      "sha256": "sha256-tKPKBdu4e0fgwwaPBM1wdLLReC96HfE2k8vbSwRnLXg="
     },
     "extract": null,
     "rustGitDeps": null

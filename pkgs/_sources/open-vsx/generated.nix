@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.689";
+    version = "31.0.690";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.689/file/Prisma.prisma-insider-31.0.689.vsix";
-      sha256 = "sha256-nHvIjmqSLEwh75Mkalhgu30hIU2+uD9aPAxek9+g0uw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.690/file/Prisma.prisma-insider-31.0.690.vsix";
+      sha256 = "sha256-GUvHiZeBwgWt+4QSKtCVDA9/ZQaIKvBFPZQTJHjbnEU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5103,10 +5103,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.246";
+    version = "2.0.247";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.246/file/betterthantomorrow.calva-2.0.246.vsix";
-      sha256 = "sha256-Nz6aZ+8p+QZ8kiuyR5FSft66f0zAa90C8Lnf36c0gqc=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.247/file/betterthantomorrow.calva-2.0.247.vsix";
+      sha256 = "sha256-tKPKBdu4e0fgwwaPBM1wdLLReC96HfE2k8vbSwRnLXg=";
     };
     name = "calva";
     license = "MIT";
@@ -7047,10 +7047,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.48.0";
+    version = "0.49.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.48.0/file/edukera.archetype-0.48.0.vsix";
-      sha256 = "sha256-0uHj4KujuM2XQEQxQWwCOXQIHgLUUr0uLK6WUjCka7g=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.49.0/file/edukera.archetype-0.49.0.vsix";
+      sha256 = "sha256-aj+mlK9bUqQaFymPfjfOIub9eVBw+lSP/owa1T72YTw=";
     };
     name = "archetype";
     license = "MIT";
@@ -7095,10 +7095,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "6.1.0";
+    version = "6.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/6.1.0/file/eliostruyf.vscode-front-matter-6.1.0.vsix";
-      sha256 = "sha256-NQbfifwEkslo7nsKqVe1Hvf69JjHiB3pGMGEbanaVPs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/6.1.1/file/eliostruyf.vscode-front-matter-6.1.1.vsix";
+      sha256 = "sha256-PwbXiSKvzgs0qZ1Ha/ZPW4AGji083bp9rhV6tDIXqw8=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7107,10 +7107,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.2.1920896";
+    version = "6.2.1923643";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1920896/file/eliostruyf.vscode-front-matter-beta-6.2.1920896.vsix";
-      sha256 = "sha256-HFKFSbRHjVEDtcAeh8k+SVPq3dig0N1J62eS3M3NRn0=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1923643/file/eliostruyf.vscode-front-matter-beta-6.2.1923643.vsix";
+      sha256 = "sha256-/6UPVW9LBLqUprw0zk0NjBeS03J9ljMqOqkw3gJ24+c=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
