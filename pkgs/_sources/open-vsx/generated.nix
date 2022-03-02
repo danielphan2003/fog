@@ -4971,10 +4971,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.4.0";
+    version = "6.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.4.0/file/barjo.anirak-6.4.0.vsix";
-      sha256 = "sha256-G20tSMQ+2E6zmuqs6ybd1/iQgRfFNeKWVVorqPoprFo=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.4.1/file/barjo.anirak-6.4.1.vsix";
+      sha256 = "sha256-GAYBOZikrhFZe7GXdNEMMEKJkNvWUpjmIpOFfv372D4=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -8511,10 +8511,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.7";
+    version = "0.6.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.7/file/halcyontechltd.vscode-rpgle-0.6.7.vsix";
-      sha256 = "sha256-puu9xKSnWHJWpyWbgUJ0aRLn+A1y5/pU1gIfJlsef8M=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.8/file/halcyontechltd.vscode-rpgle-0.6.8.vsix";
+      sha256 = "sha256-ZRwiZePX+fk3alvkCbpVNeOMj2Pkg+HfR6IvuGaTtNA=";
     };
     name = "vscode-rpgle";
     license = "MIT";
