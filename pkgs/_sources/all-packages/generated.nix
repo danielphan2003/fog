@@ -235,10 +235,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.133";
+    version = "0.0.134";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.133/discord-canary-0.0.133.tar.gz";
-      sha256 = "sha256-CqwWLedPh4KCXEQAGM0lFlAyULRtKLVIAonvP9/kqHM=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.134/discord-canary-0.0.134.tar.gz";
+      sha256 = "sha256-HyJa6lGcKMPKWffO/pnNcn8fDTJj6O4J8Y5RA23a1kM=";
     };
   };
   dnscrypt-proxy2 = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5909";
+    version = "1.0.5911";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5909.tar.bz2";
-      sha256 = "sha256-fSGxxsq7oQ4TG4O91FOduK5/zbeDhSvdvZ4dR08tvMg=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5911.tar.bz2";
+      sha256 = "sha256-Er82v1iV0UD1MPhnmC0o2KBUDaWwqZXZvUJEjrDzriY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5909";
+    version = "1.0.5911";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5909-1_all.deb";
-      sha256 = "sha256-avUulRo4URiEGoWdjLzItf7lcMSiViR58ICj14pEGTI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5911-1_all.deb";
+      sha256 = "sha256-Kyw2DPWk2F9a05MxmvnL681eOSnLy1/aaCA6rOYHUw8=";
     };
   };
   jitsi-videobridge2 = {
