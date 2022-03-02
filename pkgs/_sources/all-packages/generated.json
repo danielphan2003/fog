@@ -1923,7 +1923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dnscrypt-proxy2",
-    "version": "a8aa4cb8e652b56e91cac44bf3a47aea0df97033",
+    "version": "911108149bb9e5454089380b7bcae649de7fe7ae",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1933,8 +1933,8 @@
       "name": null,
       "repo": "dnscrypt-proxy",
       "type": "github",
-      "sha256": "sha256-3MvSKLkisUKG1QsTajtCUSyvR8KHlVY6NmVvIH+yd7w=",
-      "rev": "a8aa4cb8e652b56e91cac44bf3a47aea0df97033"
+      "sha256": "sha256-MbktB3lnzdnKdGJlJh/oHhxzPdenHsU1r34OMDJwV9E=",
+      "rev": "911108149bb9e5454089380b7bcae649de7fe7ae"
     },
     "extract": null,
     "rustGitDeps": null
