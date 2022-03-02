@@ -28963,7 +28963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.684",
+    "version": "31.0.686",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -28971,10 +28971,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.684/file/Prisma.prisma-insider-31.0.684.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.686/file/Prisma.prisma-insider-31.0.686.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ke9/5Ge9621RwzCT1UguESHfMhOeeWWFADUlbT0KRyc="
+      "sha256": "sha256-8gji72+2r2GFnROid8d2MadpvhdM4Ou5SLvuQDO15ac="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31923,7 +31923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Axway-vscode-titanium",
-    "version": "0.13.0",
+    "version": "0.14.0",
     "passthru": {
       "name": "vscode-titanium",
       "license": "Apache 2.0",
@@ -31931,10 +31931,10 @@
       "description": "Intellisense, snippets, and integrated build tools for Titanium"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Axway/vscode-titanium/0.13.0/file/Axway.vscode-titanium-0.13.0.vsix",
+      "url": "https://open-vsx.org/api/Axway/vscode-titanium/0.14.0/file/Axway.vscode-titanium-0.14.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jzuxRa+TyYUo3vbRUmTieYgXrB4AndYNhhIHMLC8Zvo="
+      "sha256": "sha256-3BI9G8eDZWiR2UAbg+IooG+nnGLNBmFCxAayjTlZDMI="
     },
     "extract": null,
     "rustGitDeps": null

@@ -159,10 +159,10 @@
   };
   Axway-vscode-titanium = {
     pname = "Axway-vscode-titanium";
-    version = "0.13.0";
+    version = "0.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Axway/vscode-titanium/0.13.0/file/Axway.vscode-titanium-0.13.0.vsix";
-      sha256 = "sha256-jzuxRa+TyYUo3vbRUmTieYgXrB4AndYNhhIHMLC8Zvo=";
+      url = "https://open-vsx.org/api/Axway/vscode-titanium/0.14.0/file/Axway.vscode-titanium-0.14.0.vsix";
+      sha256 = "sha256-3BI9G8eDZWiR2UAbg+IooG+nnGLNBmFCxAayjTlZDMI=";
     };
     name = "vscode-titanium";
     license = "Apache 2.0";
@@ -2655,10 +2655,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.684";
+    version = "31.0.686";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.684/file/Prisma.prisma-insider-31.0.684.vsix";
-      sha256 = "sha256-Ke9/5Ge9621RwzCT1UguESHfMhOeeWWFADUlbT0KRyc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.686/file/Prisma.prisma-insider-31.0.686.vsix";
+      sha256 = "sha256-8gji72+2r2GFnROid8d2MadpvhdM4Ou5SLvuQDO15ac=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
