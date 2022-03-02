@@ -235,10 +235,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.133";
+    version = "0.0.134";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.133/discord-canary-0.0.133.tar.gz";
-      sha256 = "sha256-CqwWLedPh4KCXEQAGM0lFlAyULRtKLVIAonvP9/kqHM=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.134/discord-canary-0.0.134.tar.gz";
+      sha256 = "sha256-HyJa6lGcKMPKWffO/pnNcn8fDTJj6O4J8Y5RA23a1kM=";
     };
   };
   dnscrypt-proxy2 = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5908";
+    version = "1.0.5911";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5908.tar.bz2";
-      sha256 = "sha256-whcZrWu69a+ShXBfxfRZvSRcamdRWAwAiS80phrdo8k=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5911.tar.bz2";
+      sha256 = "sha256-Er82v1iV0UD1MPhnmC0o2KBUDaWwqZXZvUJEjrDzriY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5908";
+    version = "1.0.5911";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5908-1_all.deb";
-      sha256 = "sha256-BKEu9kMkDT3SpcgvOUu2tLct5Ek95Na8pk2T/81d3aw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5911-1_all.deb";
+      sha256 = "sha256-Kyw2DPWk2F9a05MxmvnL681eOSnLy1/aaCA6rOYHUw8=";
     };
   };
   jitsi-videobridge2 = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "4c87c307cc6d22dd43b4aff6a3643b87c9d3696e";
+    version = "3e4201ed3038eb56da01d2c5b3851d428dc6b333";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "4c87c307cc6d22dd43b4aff6a3643b87c9d3696e";
+      rev = "3e4201ed3038eb56da01d2c5b3851d428dc6b333";
       fetchSubmodules = false;
-      sha256 = "sha256-4zPNlbKSprGz1wOgBV2LbrLe1sIgeDye7voG4f2xAVw=";
+      sha256 = "sha256-+jBGgZCnvdDLpc0bwIBn1c5HYp4Za5NSQ693z6fEcbE=";
     });
   };
   rofi-wayland = {
