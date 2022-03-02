@@ -1885,6 +1885,30 @@
     publisher = "Luxcium";
     description = "\128050 Perfectly balanced TypeScript theme with vivid colours.";
   };
+  LyonSyonII-rust-syntax = {
+    pname = "LyonSyonII-rust-syntax";
+    version = "0.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/LyonSyonII/rust-syntax/0.6.0/file/LyonSyonII.rust-syntax-0.6.0.vsix";
+      sha256 = "sha256-7cp0sCtS7lz3Aef+Tu/crQBowqIdkpqZK9UUgV9tYTA=";
+    };
+    name = "rust-syntax";
+    license = "Please see LICENSE.txt";
+    publisher = "LyonSyonII";
+    description = "Improved Rust syntax highlighting";
+  };
+  LyonSyonII-vscode-rusty-onedark = {
+    pname = "LyonSyonII-vscode-rusty-onedark";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/LyonSyonII/vscode-rusty-onedark/1.0.3/file/LyonSyonII.vscode-rusty-onedark-1.0.3.vsix";
+      sha256 = "sha256-Fzvwk6KZp8QjCLFMuHfE+cOymUhrelbuf3wn6sOhIRk=";
+    };
+    name = "vscode-rusty-onedark";
+    license = "MIT";
+    publisher = "LyonSyonII";
+    description = "One Dark Theme based on Atom, but with Rust semantic highlighting!";
+  };
   MAKinteract-micro-bit-python = {
     pname = "MAKinteract-micro-bit-python";
     version = "0.1.17";
@@ -2655,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.687";
+    version = "31.0.689";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.687/file/Prisma.prisma-insider-31.0.687.vsix";
-      sha256 = "sha256-7Mta4T8PetHAc6pvANO7KOG4zTDXRrOhuthsjCWE+yA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.689/file/Prisma.prisma-insider-31.0.689.vsix";
+      sha256 = "sha256-nHvIjmqSLEwh75Mkalhgu30hIU2+uD9aPAxek9+g0uw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
