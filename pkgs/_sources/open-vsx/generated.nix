@@ -10611,10 +10611,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.3.1646325445";
+    version = "2022.3.1646341391";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646325445/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646325445.vsix";
-      sha256 = "sha256-JDXfPp0L3UfIf8ZfXtX7y6s1lezppoDRFl8Dt87uU0U=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646341391/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646341391.vsix";
+      sha256 = "sha256-8dMYUvHerCj7V+EYWUSw6qXNG18Yc+SQWmw9+ZihBsE=";
     };
     name = "launchdarkly-beta";
     license = "";
@@ -13587,10 +13587,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.292";
+    version = "0.25.293";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.292/file/pokey.cursorless-0.25.292.vsix";
-      sha256 = "sha256-eyNH/ZKiKB993WaIQNyY6wwYgNVrD/KUEA2d1sT1M1Q=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.293/file/pokey.cursorless-0.25.293.vsix";
+      sha256 = "sha256-6kFnFYHZakUfl2O/JlNmhy9G4rRvKvFQ4qogujisbr8=";
     };
     name = "cursorless";
     license = "MIT";
@@ -15195,10 +15195,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.2";
+    version = "0.13.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.2/file/shufo.vscode-blade-formatter-0.13.2.vsix";
-      sha256 = "sha256-iyA9O9qfndwOu7C0T1UZa02hYh9z1lz4YtBUrl+9nSs=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.3/file/shufo.vscode-blade-formatter-0.13.3.vsix";
+      sha256 = "sha256-BIQZTI8Vc7Pp1M3Ib8/ibZGYMQqKIVvVz5MEggL3pcs=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
