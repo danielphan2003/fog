@@ -6159,10 +6159,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "4.7.0";
+    version = "4.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.0/file/cweijan.vscode-mysql-client2-4.7.0.vsix";
-      sha256 = "sha256-Nq6MqMKfQFsxABLkBOhosP97E61n3RiuWdi1Wk6GE5Y=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.4/file/cweijan.vscode-mysql-client2-4.7.4.vsix";
+      sha256 = "sha256-vd8qyY8jjQckTqWAUCHEenhs6aR60PQbcwEo+yVftpU=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
