@@ -243,15 +243,15 @@
   };
   BroadcomMFD-ccf = {
     pname = "BroadcomMFD-ccf";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/ccf/0.4.0/file/BroadcomMFD.ccf-0.4.0.vsix";
-      sha256 = "sha256-1b0D4VQu+b2qdVqJB4ho2D4mHNPKMFyOourMQJ435xg=";
+      url = "https://open-vsx.org/api/BroadcomMFD/ccf/0.4.1/file/BroadcomMFD.ccf-0.4.1.vsix";
+      sha256 = "sha256-/rjHdN8fOeRhMtsKb90OZO90dF5dYHwUv2Zx1Gd5eA8=";
     };
     name = "ccf";
-    license = "";
+    license = "MIT";
     publisher = "BroadcomMFD";
-    description = "Extension for cobol control flow";
+    description = "Graphical visualization of program flow for COBOL programs";
   };
   BroadcomMFD-cobol-language-support = {
     pname = "BroadcomMFD-cobol-language-support";
@@ -2919,10 +2919,10 @@
   };
   SenseTime-kestrel = {
     pname = "SenseTime-kestrel";
-    version = "0.4.5";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.5/file/SenseTime.kestrel-0.4.5.vsix";
-      sha256 = "sha256-WMEQqYtZuE/fR73qstD+6i6xtbrhJVlUa51Yg674yDg=";
+      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.6/file/SenseTime.kestrel-0.4.6.vsix";
+      sha256 = "sha256-MxnNPNDhMpmh6mOryIU2+OYolexGg80RBiWgaIcNBh8=";
     };
     name = "kestrel";
     license = "MIT";
