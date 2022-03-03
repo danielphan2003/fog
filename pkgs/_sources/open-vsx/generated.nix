@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.691";
+    version = "31.0.692";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.691/file/Prisma.prisma-insider-31.0.691.vsix";
-      sha256 = "sha256-9vQ0AXEfo2zi0T+n4hgqv0pfz7qks6ZZ1qhvZv0n6EI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.692/file/Prisma.prisma-insider-31.0.692.vsix";
+      sha256 = "sha256-etza5R2fJWLUgdl0GKNm42hvewRZykOhBgWKl58f1ZE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7335,10 +7335,10 @@
   };
   espressif-esp-idf-extension = {
     pname = "espressif-esp-idf-extension";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.3.0/file/espressif.esp-idf-extension-1.3.0.vsix";
-      sha256 = "sha256-grHhtSScjQsfHJqeR7cav0pLZWD4LP85dnMc4BIrY/g=";
+      url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.4.0/file/espressif.esp-idf-extension-1.4.0.vsix";
+      sha256 = "sha256-p010yC9Pr3zHOhcVTANVgk6GzsSsXfp7Id5obnsbYz0=";
     };
     name = "esp-idf-extension";
     license = "Apache-2.0";
@@ -13587,10 +13587,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.291";
+    version = "0.25.292";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.291/file/pokey.cursorless-0.25.291.vsix";
-      sha256 = "sha256-5+phzNhEr9yh7DuEkASorqR+0ym4xD6rkZCJLmxtHYU=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.292/file/pokey.cursorless-0.25.292.vsix";
+      sha256 = "sha256-eyNH/ZKiKB993WaIQNyY6wwYgNVrD/KUEA2d1sT1M1Q=";
     };
     name = "cursorless";
     license = "MIT";
@@ -16632,6 +16632,18 @@
     license = "MIT";
     publisher = "travis";
     description = "Dark theme for VS Code";
+  };
+  tremorproject-tremor-language-features = {
+    pname = "tremorproject-tremor-language-features";
+    version = "0.10.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tremorproject/tremor-language-features/0.10.0/file/tremorproject.tremor-language-features-0.10.0.vsix";
+      sha256 = "sha256-POxTyZ1Rav6ROFwsf9/UC02M7VHJvxH2pmmEnlBZmso=";
+    };
+    name = "tremor-language-features";
+    license = "Apache-2.0";
+    publisher = "tremorproject";
+    description = "Provides rich language support for Tremor's languages";
   };
   trixnz-go-to-method = {
     pname = "trixnz-go-to-method";
