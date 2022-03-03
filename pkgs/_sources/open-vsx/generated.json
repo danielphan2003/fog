@@ -10623,7 +10623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.10",
+    "version": "0.5.11",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10631,10 +10631,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.10/file/wcrichton.flowistry-0.5.10.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.11/file/wcrichton.flowistry-0.5.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GYoxOUjjZJzNNHccxHZAHOkvJsDtaaVfRU9dzAZzxjs="
+      "sha256": "sha256-1MZQQ1cp9L22WMZaWFAxVs5fAP5aD4g+CyaUjIMOiPI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16663,7 +16663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.1",
+    "version": "0.13.2",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16671,10 +16671,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.1/file/shufo.vscode-blade-formatter-0.13.1.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.2/file/shufo.vscode-blade-formatter-0.13.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KHcNR0G4/VbeHRm5P03gWeCVe/GH5xEGwssCHDaKUWg="
+      "sha256": "sha256-iyA9O9qfndwOu7C0T1UZa02hYh9z1lz4YtBUrl+9nSs="
     },
     "extract": null,
     "rustGitDeps": null

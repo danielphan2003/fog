@@ -15195,10 +15195,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.1";
+    version = "0.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.1/file/shufo.vscode-blade-formatter-0.13.1.vsix";
-      sha256 = "sha256-KHcNR0G4/VbeHRm5P03gWeCVe/GH5xEGwssCHDaKUWg=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.2/file/shufo.vscode-blade-formatter-0.13.2.vsix";
+      sha256 = "sha256-iyA9O9qfndwOu7C0T1UZa02hYh9z1lz4YtBUrl+9nSs=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -18555,10 +18555,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.10";
+    version = "0.5.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.10/file/wcrichton.flowistry-0.5.10.vsix";
-      sha256 = "sha256-GYoxOUjjZJzNNHccxHZAHOkvJsDtaaVfRU9dzAZzxjs=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.11/file/wcrichton.flowistry-0.5.11.vsix";
+      sha256 = "sha256-1MZQQ1cp9L22WMZaWFAxVs5fAP5aD4g+CyaUjIMOiPI=";
     };
     name = "flowistry";
     license = "MIT";
