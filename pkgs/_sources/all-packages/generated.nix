@@ -394,10 +394,10 @@
   };
   jibri = {
     pname = "jibri";
-    version = "8.0-120-g15c7494";
+    version = "8.0-121-g27323fe";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jibri_8.0-120-g15c7494-1_all.deb";
-      sha256 = "sha256-iQwySjq6Yh4rhSKd44NWQx+OAVs+B68FN2MN7VcI7s8=";
+      url = "https://download.jitsi.org/unstable/jibri_8.0-121-g27323fe-1_all.deb";
+      sha256 = "sha256-/1BEXPJkBSNvXpHJZS1G+nzhofxQ1XcWYPcj9xJ5wD0=";
     };
   };
   jicofo = {
