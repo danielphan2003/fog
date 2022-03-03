@@ -402,26 +402,26 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-862";
+    version = "1.0-863";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-862-1_all.deb";
-      sha256 = "sha256-QQd3ynMcOxJXjczL3uPcB4n+wtgo3pVQKVLWzfA0OIc=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-863-1_all.deb";
+      sha256 = "sha256-JbYkMnT0AYnXymUmZYz5ceTWf2NKZCWM3lZ7XtdMW/I=";
     };
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5916";
+    version = "1.0.5917";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5916.tar.bz2";
-      sha256 = "sha256-72XaIb+rE0RZQwvXHpVlCG/KMlidufOFtVd94Bk85xc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5917.tar.bz2";
+      sha256 = "sha256-yC776hWQrt1k9S4gGzYT/EplDRlV8Qzd1pYzIkhSZnU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5916";
+    version = "1.0.5917";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5916-1_all.deb";
-      sha256 = "sha256-bMj6DqWJI3xAhZPWrS56drxHjDdCPUxuQkTDqwTHlfc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5917-1_all.deb";
+      sha256 = "sha256-+hFXWx23yNOjg0ouK6Om46ZJ8gpKR7+/g9umQP5+HRY=";
     };
   };
   jitsi-videobridge2 = {
@@ -527,10 +527,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "100.0.1169.1";
+    version = "100.0.1181.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_100.0.1169.1-1_amd64.deb";
-      sha256 = "sha256-hDW6E/oRJFLIeAE2FWxD/2MTgEYL+jHDRTHRrv+gVJA=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_100.0.1181.0-1_amd64.deb";
+      sha256 = "sha256-5gdynFtvGJrsBgQVu+JTDjotic6IgpYdizoAW6xh3Js=";
     };
   };
   minecraft-wayland = {
