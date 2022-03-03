@@ -1599,10 +1599,10 @@
   };
   JFrog-jfrog-vscode-extension = {
     pname = "JFrog-jfrog-vscode-extension";
-    version = "1.11.0";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.11.0/file/JFrog.jfrog-vscode-extension-1.11.0.vsix";
-      sha256 = "sha256-if4eSWIgatDEXQkUKnzJJCKoJCZaBcdhuQCnb+gESuw=";
+      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.12.0/file/JFrog.jfrog-vscode-extension-1.12.0.vsix";
+      sha256 = "sha256-OudPf18E4wrRLZTQgFw62vXq5nU+UqGk/zRUG9JaV6o=";
     };
     name = "jfrog-vscode-extension";
     license = "Apache-2.0";
@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.692";
+    version = "31.0.694";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.692/file/Prisma.prisma-insider-31.0.692.vsix";
-      sha256 = "sha256-etza5R2fJWLUgdl0GKNm42hvewRZykOhBgWKl58f1ZE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.694/file/Prisma.prisma-insider-31.0.694.vsix";
+      sha256 = "sha256-zwd+bers17rzemBID0jj3WD4236weJo2+siRAXIt9dM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4287,10 +4287,10 @@
   };
   antfu-iconify = {
     pname = "antfu-iconify";
-    version = "0.2.2";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/iconify/0.2.2/file/antfu.iconify-0.2.2.vsix";
-      sha256 = "sha256-XFs/X9zdYvi2452MbRAMzXkeO/Gtie5e/Dst2aULZnQ=";
+      url = "https://open-vsx.org/api/antfu/iconify/0.3.0/file/antfu.iconify-0.3.0.vsix";
+      sha256 = "sha256-zpJ5oQw8eW3OzlGJaIL016UTsKQwG0+2jXa2QqpCYH8=";
     };
     name = "iconify";
     license = "MIT";
@@ -5115,10 +5115,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.247";
+    version = "2.0.248";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.247/file/betterthantomorrow.calva-2.0.247.vsix";
-      sha256 = "sha256-tKPKBdu4e0fgwwaPBM1wdLLReC96HfE2k8vbSwRnLXg=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.248/file/betterthantomorrow.calva-2.0.248.vsix";
+      sha256 = "sha256-TB+AVBOXHkZKx2Sd2f4pd6CdSWuW5dTmyylJZpj+ZYo=";
     };
     name = "calva";
     license = "MIT";
@@ -7779,10 +7779,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.17.5";
+    version = "0.17.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.5/file/foam.foam-vscode-0.17.5.vsix";
-      sha256 = "sha256-N27Sh7Xx/b+OyGXhlHkMabfkeq7/o7ee1uuvwYcKURM=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.6/file/foam.foam-vscode-0.17.6.vsix";
+      sha256 = "sha256-CwrCkK3J3DqLWeDAVHOgBoONWtZpCEQzJwZKPMEmOrU=";
     };
     name = "foam-vscode";
     license = "MIT";
@@ -8271,10 +8271,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.5";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.5/file/gitduck.code-streaming-0.4.5.vsix";
-      sha256 = "sha256-TgAxemwxz5qPGfYFuZV3mBX4G63wm6iBNBqrLhG+jRo=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.6/file/gitduck.code-streaming-0.4.6.vsix";
+      sha256 = "sha256-L1mpm8dvwSFE0bkgf4oVrENQ5Ao/ZXX2yZx9aEn/+2U=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -9255,10 +9255,10 @@
   };
   infosec-intern-yara = {
     pname = "infosec-intern-yara";
-    version = "1.6.9";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/infosec-intern/yara/1.6.9/file/infosec-intern.yara-1.6.9.vsix";
-      sha256 = "sha256-4M7HYAs/aKo+d7kyp694AeEsjQpiots4flo7pubPbAM=";
+      url = "https://open-vsx.org/api/infosec-intern/yara/2.0.0/file/infosec-intern.yara-2.0.0.vsix";
+      sha256 = "sha256-uTQlnYwED4bU2i9ObngYQeOmdYbqXqVOCFSARxONpcM=";
     };
     name = "yara";
     license = "MIT License - full document in LICENSE.md";
@@ -10611,10 +10611,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.1.1643293867";
+    version = "2022.3.1646325445";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.1.1643293867/file/launchdarklyofficial.launchdarkly-beta-2022.1.1643293867.vsix";
-      sha256 = "sha256-G2iyUtpFh8uTn7vUaG+i7d3WulyeDuowBAXWpXIBrWY=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646325445/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646325445.vsix";
+      sha256 = "sha256-JDXfPp0L3UfIf8ZfXtX7y6s1lezppoDRFl8Dt87uU0U=";
     };
     name = "launchdarkly-beta";
     license = "";
@@ -13983,10 +13983,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.7.1";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.7.1/file/redhat.ansible-0.7.1.vsix";
-      sha256 = "sha256-D9pYCxyMfaZnVS1ewALMhxqNKRJu7O1fSCMy4QGC6aM=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.8.0/file/redhat.ansible-0.8.0.vsix";
+      sha256 = "sha256-BfRtKWoWMjuLDvnOo4dTEXwZ2VgwsE8G100jG//W7hk=";
     };
     name = "ansible";
     license = "MIT";
@@ -14031,10 +14031,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.3.0/file/redhat.java-1.3.0.vsix";
-      sha256 = "sha256-5XdUEvtuE4BmuOYu/46wDoV3rm7QW4NdZzr49OjNhng=";
+      url = "https://open-vsx.org/api/redhat/java/1.4.0/file/redhat.java-1.4.0.vsix";
+      sha256 = "sha256-kKiZbBqG4b67d0HPDACDfEZht+vfM1JZxAweARemkTw=";
     };
     name = "java";
     license = "EPL-2.0";
@@ -14139,10 +14139,10 @@
   };
   redhat-vscode-extension-bpmn-editor = {
     pname = "redhat-vscode-extension-bpmn-editor";
-    version = "0.16.0";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.16.0/file/redhat.vscode-extension-bpmn-editor-0.16.0.vsix";
-      sha256 = "sha256-asB+QxF/UDqQp6DjAAhDuoFuwyZLVgW6brf4B4D4Bb0=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.17.0/file/redhat.vscode-extension-bpmn-editor-0.17.0.vsix";
+      sha256 = "sha256-mXaaXx8TlY3eaf+ihEyfVfYK4no9+VcldGWAKjuNdh4=";
     };
     name = "vscode-extension-bpmn-editor";
     license = "Apache-2.0";
