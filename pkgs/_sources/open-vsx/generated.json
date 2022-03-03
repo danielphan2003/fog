@@ -563,7 +563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.6.8",
+    "version": "0.6.9",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -571,10 +571,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.8/file/halcyontechltd.vscode-rpgle-0.6.8.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.9/file/halcyontechltd.vscode-rpgle-0.6.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZRwiZePX+fk3alvkCbpVNeOMj2Pkg+HfR6IvuGaTtNA="
+      "sha256": "sha256-x9V13WyF06micccrtW9JLlxnMgJNj1GlRak/PRVWavI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11223,7 +11223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Equinusocio-vsc-material-theme",
-    "version": "33.2.2",
+    "version": "33.3.0",
     "passthru": {
       "name": "vsc-material-theme",
       "license": "Apache-2.0",
@@ -11231,10 +11231,10 @@
       "description": "The most epic theme now for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.2.2/file/Equinusocio.vsc-material-theme-33.2.2.vsix",
+      "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.3.0/file/Equinusocio.vsc-material-theme-33.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bWC/59I5FsERkmZlLmeat3KJ3x5wsflG7H5VBk9vAYY="
+      "sha256": "sha256-qkuS6z69EhUK5X3JPABvJxNzrj8wbw2BlRZGakmnWYY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16859,6 +16859,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "SenseTime-kestrel": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "SenseTime-kestrel",
+    "version": "0.4.5",
+    "passthru": {
+      "name": "kestrel",
+      "license": "MIT",
+      "publisher": "SenseTime",
+      "description": "Tools for develepers of Kestrel"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/SenseTime/kestrel/0.4.5/file/SenseTime.kestrel-0.4.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-WMEQqYtZuE/fR73qstD+6i6xtbrhJVlUa51Yg674yDg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "MS-CEINTL-vscode-language-pack-hu": {
     "pinned": false,
     "cargoLock": null,
@@ -17783,7 +17803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "samuelcolvin-jinjahtml",
-    "version": "0.16.0",
+    "version": "0.17.0",
     "passthru": {
       "name": "jinjahtml",
       "license": "MIT",
@@ -17791,10 +17811,10 @@
       "description": "Syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates"
     },
     "src": {
-      "url": "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.16.0/file/samuelcolvin.jinjahtml-0.16.0.vsix",
+      "url": "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.17.0/file/samuelcolvin.jinjahtml-0.17.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BEwz2TuTcQYEU7ptO0l4OmuPtDT6blGZ9r2nj4PTGuY="
+      "sha256": "sha256-vvNuK9apNl0OgpAsYiL3ITSyYiwylVQVhbo1jw88+6k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28803,7 +28823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.225",
+    "version": "1.1.226",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -28811,10 +28831,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.225/file/ms-pyright.pyright-1.1.225.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.226/file/ms-pyright.pyright-1.1.226.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tb0KK32tHcq5kHn4lWghMsKY1z+JuBNO9BSBPidNCOw="
+      "sha256": "sha256-Wqvjs8qmZ+6/TRACCvPBCEbIBmNDfjeLbsv0lPW/KJI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31043,7 +31063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "fredericbonnet-cmake-test-adapter",
-    "version": "0.15.3",
+    "version": "0.15.4",
     "passthru": {
       "name": "cmake-test-adapter",
       "license": "BSD-3-Clause",
@@ -31051,10 +31071,10 @@
       "description": "Run your CMake tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.3/file/fredericbonnet.cmake-test-adapter-0.15.3.vsix",
+      "url": "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.4/file/fredericbonnet.cmake-test-adapter-0.15.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BIJc7AfQ/X99jYRMeMghBDSTnWje0uExoscMhX6VOGY="
+      "sha256": "sha256-8tPs3+gOJ6gxEIhcJVKFJH5fBboDvjCfsyZWU7dVBf8="
     },
     "extract": null,
     "rustGitDeps": null

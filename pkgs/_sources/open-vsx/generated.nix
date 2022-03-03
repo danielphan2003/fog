@@ -915,10 +915,10 @@
   };
   Equinusocio-vsc-material-theme = {
     pname = "Equinusocio-vsc-material-theme";
-    version = "33.2.2";
+    version = "33.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.2.2/file/Equinusocio.vsc-material-theme-33.2.2.vsix";
-      sha256 = "sha256-bWC/59I5FsERkmZlLmeat3KJ3x5wsflG7H5VBk9vAYY=";
+      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.3.0/file/Equinusocio.vsc-material-theme-33.3.0.vsix";
+      sha256 = "sha256-qkuS6z69EhUK5X3JPABvJxNzrj8wbw2BlRZGakmnWYY=";
     };
     name = "vsc-material-theme";
     license = "Apache-2.0";
@@ -2916,6 +2916,18 @@
     license = "MIT";
     publisher = "Sarrus";
     description = "SourcePawn highlighting, autocompletion and much more";
+  };
+  SenseTime-kestrel = {
+    pname = "SenseTime-kestrel";
+    version = "0.4.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.5/file/SenseTime.kestrel-0.4.5.vsix";
+      sha256 = "sha256-WMEQqYtZuE/fR73qstD+6i6xtbrhJVlUa51Yg674yDg=";
+    };
+    name = "kestrel";
+    license = "MIT";
+    publisher = "SenseTime";
+    description = "Tools for develepers of Kestrel";
   };
   Serpen-vbsvscode = {
     pname = "Serpen-vbsvscode";
@@ -7935,10 +7947,10 @@
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
-    version = "0.15.3";
+    version = "0.15.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.3/file/fredericbonnet.cmake-test-adapter-0.15.3.vsix";
-      sha256 = "sha256-BIJc7AfQ/X99jYRMeMghBDSTnWje0uExoscMhX6VOGY=";
+      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.4/file/fredericbonnet.cmake-test-adapter-0.15.4.vsix";
+      sha256 = "sha256-8tPs3+gOJ6gxEIhcJVKFJH5fBboDvjCfsyZWU7dVBf8=";
     };
     name = "cmake-test-adapter";
     license = "BSD-3-Clause";
@@ -8511,10 +8523,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.8";
+    version = "0.6.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.8/file/halcyontechltd.vscode-rpgle-0.6.8.vsix";
-      sha256 = "sha256-ZRwiZePX+fk3alvkCbpVNeOMj2Pkg+HfR6IvuGaTtNA=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.9/file/halcyontechltd.vscode-rpgle-0.6.9.vsix";
+      sha256 = "sha256-x9V13WyF06micccrtW9JLlxnMgJNj1GlRak/PRVWavI=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -11811,10 +11823,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.225";
+    version = "1.1.226";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.225/file/ms-pyright.pyright-1.1.225.vsix";
-      sha256 = "sha256-tb0KK32tHcq5kHn4lWghMsKY1z+JuBNO9BSBPidNCOw=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.226/file/ms-pyright.pyright-1.1.226.vsix";
+      sha256 = "sha256-Wqvjs8qmZ+6/TRACCvPBCEbIBmNDfjeLbsv0lPW/KJI=";
     };
     name = "pyright";
     license = "MIT";
@@ -14799,10 +14811,10 @@
   };
   samuelcolvin-jinjahtml = {
     pname = "samuelcolvin-jinjahtml";
-    version = "0.16.0";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.16.0/file/samuelcolvin.jinjahtml-0.16.0.vsix";
-      sha256 = "sha256-BEwz2TuTcQYEU7ptO0l4OmuPtDT6blGZ9r2nj4PTGuY=";
+      url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.17.0/file/samuelcolvin.jinjahtml-0.17.0.vsix";
+      sha256 = "sha256-vvNuK9apNl0OgpAsYiL3ITSyYiwylVQVhbo1jw88+6k=";
     };
     name = "jinjahtml";
     license = "MIT";
