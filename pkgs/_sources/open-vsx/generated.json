@@ -2843,7 +2843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-vscode-js-profile-table",
-    "version": "0.0.24",
+    "version": "1.0.0",
     "passthru": {
       "name": "vscode-js-profile-table",
       "license": "MIT",
@@ -2851,10 +2851,10 @@
       "description": "Text visualizer for profiles taken from the JavaScript debugger"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/0.0.24/file/ms-vscode.vscode-js-profile-table-0.0.24.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.0/file/ms-vscode.vscode-js-profile-table-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cbQ+06qkYNWgvLx/20FZDfhleXX1E6UwVKYLZKHNsXM="
+      "sha256": "sha256-EhSnq4M/vVC/VG4FTtO7Aw4rJr0olPFkLDxQ8EXzYdo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6083,7 +6083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "JustBrenny-hero-heroku",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "passthru": {
       "name": "hero-heroku",
       "license": "GPL-3.0-or-later",
@@ -6091,10 +6091,10 @@
       "description": "A powerful Heroku dashboard from within VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.0/file/JustBrenny.hero-heroku-1.7.0.vsix",
+      "url": "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.1/file/JustBrenny.hero-heroku-1.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uhf/lyQ9GmLIkYeCuTGTfUXRCICuJRheMYpbFpd9tzI="
+      "sha256": "sha256-OVNDmrcya+FMebF0+OVl+8JHNNvAuZqAolWStYkBG5w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6963,7 +6963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zokugun-sync-settings",
-    "version": "0.8.1",
+    "version": "0.9.0",
     "passthru": {
       "name": "sync-settings",
       "license": "MIT",
@@ -6971,10 +6971,10 @@
       "description": "Easily synchronize your settings"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.8.1/file/zokugun.sync-settings-0.8.1.vsix",
+      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.9.0/file/zokugun.sync-settings-0.9.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uGfRofQw2a15+jbHm8gv+m/2H2Blgl7yB8MCY9SMT7o="
+      "sha256": "sha256-jgRAiwR+AF7EJRJyL9pYtTOwiF0xVsdbwYcdBxV9E2E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11223,7 +11223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Equinusocio-vsc-material-theme",
-    "version": "33.3.0",
+    "version": "33.4.0",
     "passthru": {
       "name": "vsc-material-theme",
       "license": "Apache-2.0",
@@ -11231,10 +11231,10 @@
       "description": "The most epic theme now for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.3.0/file/Equinusocio.vsc-material-theme-33.3.0.vsix",
+      "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.4.0/file/Equinusocio.vsc-material-theme-33.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qkuS6z69EhUK5X3JPABvJxNzrj8wbw2BlRZGakmnWYY="
+      "sha256": "sha256-byF1iY4+PNxx/BIKK/fWcV6ODYe/lmRIMKUXRmnbKDI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14343,7 +14343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.118",
+    "version": "2022.3.308",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14351,10 +14351,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.118/file/Slint.slint-nightly-2022.3.118.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.308/file/Slint.slint-nightly-2022.3.308.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5itwXy8khWX2q8DOtiAN1mj8sEH07nqZmemMzaX+xZc="
+      "sha256": "sha256-OfStSPww+Rjp92OTLLQSuD2uo3nyXWRh2M6CuIFmN+Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15803,7 +15803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15811,10 +15811,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.0/file/halcyontechltd.code-for-ibmi-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.1/file/halcyontechltd.code-for-ibmi-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9aADPJGNtUUC1nPyyzEnjBAOO0kK7kXmlRnHu+YwNRs="
+      "sha256": "sha256-n09vI++7npe2sAVaV5MFDlGrcWxkotaCHtXZAm+FHoY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19163,18 +19163,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eamodio-gitlens",
-    "version": "11.7.0",
+    "version": "12.0.1",
     "passthru": {
       "name": "gitlens",
       "license": "MIT",
       "publisher": "eamodio",
-      "description": "Supercharge the Git capabilities built into Visual Studio Code â Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more"
+      "description": "Supercharge Git within VS Code â Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more"
     },
     "src": {
-      "url": "https://open-vsx.org/api/eamodio/gitlens/11.7.0/file/eamodio.gitlens-11.7.0.vsix",
+      "url": "https://open-vsx.org/api/eamodio/gitlens/12.0.1/file/eamodio.gitlens-12.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-po8JzwrADPSZY2SBlaX3N6VSURP/PZIGjFhS3hyV8io="
+      "sha256": "sha256-HcWSExCQnkPZbBHUDUbgaPzqMxf72iuhRAoPYvrfYfc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21275,6 +21275,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-QE7pd5VMHDzmjX4XT8gFMeSqpxq4VtddN0D9fb9LrTA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "formulahendry-auto-rename-tag": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "formulahendry-auto-rename-tag",
+    "version": "0.1.10",
+    "passthru": {
+      "name": "auto-rename-tag",
+      "license": "MIT",
+      "publisher": "formulahendry",
+      "description": "Auto rename paired HTML/XML tag"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/formulahendry/auto-rename-tag/0.1.10/file/formulahendry.auto-rename-tag-0.1.10.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-fJT5p5caH7tPdJaVl2EuiiDocSg8kwv6VPMzOGyG1NM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25523,7 +25543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-toolsai-jupyter",
-    "version": "2022.1.1301856528",
+    "version": "2022.2.1010641114",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -25531,10 +25551,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1301856528/file/ms-toolsai.jupyter-2022.1.1301856528.vsix",
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.2.1010641114/file/ms-toolsai.jupyter-2022.2.1010641114.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wZesiKwJkG3Wj5ay80dUHM4kDLi1cBcUV1mIvHLNnpE="
+      "sha256": "sha256-ZdMWWjmqCeOIP/L/uvOdnNTEDfNqxwCe8GSrubzVh7g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27543,7 +27563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-apache-camel",
-    "version": "0.1.5",
+    "version": "0.2.0",
     "passthru": {
       "name": "vscode-apache-camel",
       "license": "Apache-2.0",
@@ -27551,10 +27571,10 @@
       "description": "Provides completion and documentation features for Apache Camel URI elements in XML DSL."
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-apache-camel/0.1.5/file/redhat.vscode-apache-camel-0.1.5.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-apache-camel/0.2.0/file/redhat.vscode-apache-camel-0.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jmi8f4c+y7WVO3WuPs1V0rEUHJS5NYdnBDx/3tjg1ds="
+      "sha256": "sha256-oY+JUPG9rbmh0Ei/5gJxpkorD8TL/7op0OFT28Jvywk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29003,7 +29023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.690",
+    "version": "31.0.691",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29011,10 +29031,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.690/file/Prisma.prisma-insider-31.0.690.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.691/file/Prisma.prisma-insider-31.0.691.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GUvHiZeBwgWt+4QSKtCVDA9/ZQaIKvBFPZQTJHjbnEU="
+      "sha256": "sha256-9vQ0AXEfo2zi0T+n4hgqv0pfz7qks6ZZ1qhvZv0n6EI="
     },
     "extract": null,
     "rustGitDeps": null

@@ -915,10 +915,10 @@
   };
   Equinusocio-vsc-material-theme = {
     pname = "Equinusocio-vsc-material-theme";
-    version = "33.3.0";
+    version = "33.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.3.0/file/Equinusocio.vsc-material-theme-33.3.0.vsix";
-      sha256 = "sha256-qkuS6z69EhUK5X3JPABvJxNzrj8wbw2BlRZGakmnWYY=";
+      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.4.0/file/Equinusocio.vsc-material-theme-33.4.0.vsix";
+      sha256 = "sha256-byF1iY4+PNxx/BIKK/fWcV6ODYe/lmRIMKUXRmnbKDI=";
     };
     name = "vsc-material-theme";
     license = "Apache-2.0";
@@ -1707,10 +1707,10 @@
   };
   JustBrenny-hero-heroku = {
     pname = "JustBrenny-hero-heroku";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.0/file/JustBrenny.hero-heroku-1.7.0.vsix";
-      sha256 = "sha256-uhf/lyQ9GmLIkYeCuTGTfUXRCICuJRheMYpbFpd9tzI=";
+      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.1/file/JustBrenny.hero-heroku-1.7.1.vsix";
+      sha256 = "sha256-OVNDmrcya+FMebF0+OVl+8JHNNvAuZqAolWStYkBG5w=";
     };
     name = "hero-heroku";
     license = "GPL-3.0-or-later";
@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.690";
+    version = "31.0.691";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.690/file/Prisma.prisma-insider-31.0.690.vsix";
-      sha256 = "sha256-GUvHiZeBwgWt+4QSKtCVDA9/ZQaIKvBFPZQTJHjbnEU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.691/file/Prisma.prisma-insider-31.0.691.vsix";
+      sha256 = "sha256-9vQ0AXEfo2zi0T+n4hgqv0pfz7qks6ZZ1qhvZv0n6EI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3027,10 +3027,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.118";
+    version = "2022.3.308";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.118/file/Slint.slint-nightly-2022.3.118.vsix";
-      sha256 = "sha256-5itwXy8khWX2q8DOtiAN1mj8sEH07nqZmemMzaX+xZc=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.308/file/Slint.slint-nightly-2022.3.308.vsix";
+      sha256 = "sha256-OfStSPww+Rjp92OTLLQSuD2uo3nyXWRh2M6CuIFmN+Q=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -6939,15 +6939,15 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "11.7.0";
+    version = "12.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/11.7.0/file/eamodio.gitlens-11.7.0.vsix";
-      sha256 = "sha256-po8JzwrADPSZY2SBlaX3N6VSURP/PZIGjFhS3hyV8io=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.1/file/eamodio.gitlens-12.0.1.vsix";
+      sha256 = "sha256-HcWSExCQnkPZbBHUDUbgaPzqMxf72iuhRAoPYvrfYfc=";
     };
     name = "gitlens";
     license = "MIT";
     publisher = "eamodio";
-    description = "Supercharge the Git capabilities built into Visual Studio Code \8212 Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more";
+    description = "Supercharge Git within VS Code \8212 Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more";
   };
   eamodio-tsl-problem-matcher = {
     pname = "eamodio-tsl-problem-matcher";
@@ -7813,6 +7813,18 @@
     publisher = "formulahendry";
     description = "Extension Packs to add close tag and rename paired tag automatically for HTML/XML";
   };
+  formulahendry-auto-rename-tag = {
+    pname = "formulahendry-auto-rename-tag";
+    version = "0.1.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/formulahendry/auto-rename-tag/0.1.10/file/formulahendry.auto-rename-tag-0.1.10.vsix";
+      sha256 = "sha256-fJT5p5caH7tPdJaVl2EuiiDocSg8kwv6VPMzOGyG1NM=";
+    };
+    name = "auto-rename-tag";
+    license = "MIT";
+    publisher = "formulahendry";
+    description = "Auto rename paired HTML/XML tag";
+  };
   formulahendry-code-runner = {
     pname = "formulahendry-code-runner";
     version = "0.11.7";
@@ -8499,10 +8511,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.0/file/halcyontechltd.code-for-ibmi-1.1.0.vsix";
-      sha256 = "sha256-9aADPJGNtUUC1nPyyzEnjBAOO0kK7kXmlRnHu+YwNRs=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.1/file/halcyontechltd.code-for-ibmi-1.1.1.vsix";
+      sha256 = "sha256-n09vI++7npe2sAVaV5MFDlGrcWxkotaCHtXZAm+FHoY=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -11871,10 +11883,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.1.1301856528";
+    version = "2022.2.1010641114";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.1.1301856528/file/ms-toolsai.jupyter-2022.1.1301856528.vsix";
-      sha256 = "sha256-wZesiKwJkG3Wj5ay80dUHM4kDLi1cBcUV1mIvHLNnpE=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.2.1010641114/file/ms-toolsai.jupyter-2022.2.1010641114.vsix";
+      sha256 = "sha256-ZdMWWjmqCeOIP/L/uvOdnNTEDfNqxwCe8GSrubzVh7g=";
     };
     name = "jupyter";
     license = "MIT";
@@ -12099,10 +12111,10 @@
   };
   ms-vscode-vscode-js-profile-table = {
     pname = "ms-vscode-vscode-js-profile-table";
-    version = "0.0.24";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/0.0.24/file/ms-vscode.vscode-js-profile-table-0.0.24.vsix";
-      sha256 = "sha256-cbQ+06qkYNWgvLx/20FZDfhleXX1E6UwVKYLZKHNsXM=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.0/file/ms-vscode.vscode-js-profile-table-1.0.0.vsix";
+      sha256 = "sha256-EhSnq4M/vVC/VG4FTtO7Aw4rJr0olPFkLDxQ8EXzYdo=";
     };
     name = "vscode-js-profile-table";
     license = "MIT";
@@ -14067,10 +14079,10 @@
   };
   redhat-vscode-apache-camel = {
     pname = "redhat-vscode-apache-camel";
-    version = "0.1.5";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.1.5/file/redhat.vscode-apache-camel-0.1.5.vsix";
-      sha256 = "sha256-jmi8f4c+y7WVO3WuPs1V0rEUHJS5NYdnBDx/3tjg1ds=";
+      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.2.0/file/redhat.vscode-apache-camel-0.2.0.vsix";
+      sha256 = "sha256-oY+JUPG9rbmh0Ei/5gJxpkorD8TL/7op0OFT28Jvywk=";
     };
     name = "vscode-apache-camel";
     license = "Apache-2.0";
@@ -19287,10 +19299,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.8.1";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.8.1/file/zokugun.sync-settings-0.8.1.vsix";
-      sha256 = "sha256-uGfRofQw2a15+jbHm8gv+m/2H2Blgl7yB8MCY9SMT7o=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.9.0/file/zokugun.sync-settings-0.9.0.vsix";
+      sha256 = "sha256-jgRAiwR+AF7EJRJyL9pYtTOwiF0xVsdbwYcdBxV9E2E=";
     };
     name = "sync-settings";
     license = "MIT";
