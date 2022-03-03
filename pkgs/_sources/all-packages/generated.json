@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "a036058f6b483ea30e4794af03700a8cf197fcff",
+    "version": "084ba42661f14016b4ae9ccdbd2efd10c5b0c4c2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-1hbwabaYbYCnA7Rn4OdygnY1VG66KZRKPMdtEJj7rdw=",
-      "rev": "a036058f6b483ea30e4794af03700a8cf197fcff"
+      "sha256": "sha256-Km1U6142T+LuITwk14IhKvfnPsXZyyY6fZVMj+ljr9Y=",
+      "rev": "084ba42661f14016b4ae9ccdbd2efd10c5b0c4c2"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1048,7 +1048,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-icon-theme",
-    "version": "0436df603df20ef9d9389ffea80f1bfccff40c67",
+    "version": "081a4b7ffa10b0ad6756ba6c391533357a2725cf",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1058,8 +1058,8 @@
       "name": null,
       "repo": "whitesur-icon-theme",
       "type": "github",
-      "sha256": "sha256-Z3kznYEWtGzZORX8QQrwZAQHwa021uCPZWFY0ABeWn4=",
-      "rev": "0436df603df20ef9d9389ffea80f1bfccff40c67"
+      "sha256": "sha256-Kw3Dr7pcwHLhmHEqvtX6bz0rX5f1tWVlcWTZ9ELr0os=",
+      "rev": "081a4b7ffa10b0ad6756ba6c391533357a2725cf"
     },
     "extract": null,
     "rustGitDeps": null
