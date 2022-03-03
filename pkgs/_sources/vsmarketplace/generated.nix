@@ -101,11 +101,11 @@
   };
   msjsdiag-react-native = {
     pname = "msjsdiag-react-native";
-    version = "1.9.1";
+    version = "1.9.2";
     src = fetchurl {
-      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.9.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "vscode-react-native-1.9.1.zip";
-      sha256 = "sha256-Ix9AKomGSU2SiYdC5DHmsa0MQ2oGKO9KOM5n+epVA9U=";
+      url = "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.9.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "vscode-react-native-1.9.2.zip";
+      sha256 = "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY=";
     };
     name = "vscode-react-native";
     license = "MIT";

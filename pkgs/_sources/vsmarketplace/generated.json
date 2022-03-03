@@ -81,17 +81,17 @@
     "pinned": false,
     "cargoLock": null,
     "name": "msjsdiag-react-native",
-    "version": "1.9.1",
+    "version": "1.9.2",
     "passthru": {
       "name": "vscode-react-native",
       "license": "MIT",
       "publisher": "msjsdiag"
     },
     "src": {
-      "url": "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.9.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
-      "name": "vscode-react-native-1.9.1.zip",
+      "url": "https://msjsdiag.gallery.vsassets.io/_apis/public/gallery/publisher/msjsdiag/extension/vscode-react-native/1.9.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "vscode-react-native-1.9.2.zip",
       "type": "url",
-      "sha256": "sha256-Ix9AKomGSU2SiYdC5DHmsa0MQ2oGKO9KOM5n+epVA9U="
+      "sha256": "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY="
     },
     "extract": null,
     "rustGitDeps": null
