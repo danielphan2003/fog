@@ -912,10 +912,10 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.77.643.g3c4c6fc6";
+    version = "1.1.80.699.gc3dac750";
     src = fetchurl {
-      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_57.snap";
-      sha256 = "sha256-ObuNyewJ55GihMURCPk3jT5llqH+UxsVDlzQ/H/vxak=";
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_58.snap";
+      sha256 = "sha256-/gTU2KW2x1o35GN/IKyrRwNrQbkyncBP+omOK1MJCrY=";
     };
   };
   spotifyd = {
