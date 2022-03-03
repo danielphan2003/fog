@@ -12303,7 +12303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.292",
+    "version": "0.25.293",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12311,10 +12311,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.292/file/pokey.cursorless-0.25.292.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.293/file/pokey.cursorless-0.25.293.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eyNH/ZKiKB993WaIQNyY6wwYgNVrD/KUEA2d1sT1M1Q="
+      "sha256": "sha256-6kFnFYHZakUfl2O/JlNmhy9G4rRvKvFQ4qogujisbr8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16663,7 +16663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.2",
+    "version": "0.13.3",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16671,10 +16671,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.2/file/shufo.vscode-blade-formatter-0.13.2.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.3/file/shufo.vscode-blade-formatter-0.13.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iyA9O9qfndwOu7C0T1UZa02hYh9z1lz4YtBUrl+9nSs="
+      "sha256": "sha256-BIQZTI8Vc7Pp1M3Ib8/ibZGYMQqKIVvVz5MEggL3pcs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27823,7 +27823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "launchdarklyofficial-launchdarkly-beta",
-    "version": "2022.3.1646325445",
+    "version": "2022.3.1646341391",
     "passthru": {
       "name": "launchdarkly-beta",
       "license": "",
@@ -27831,10 +27831,10 @@
       "description": "Manage LaunchDarkly feature flags directly from within your code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646325445/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646325445.vsix",
+      "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646341391/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646341391.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JDXfPp0L3UfIf8ZfXtX7y6s1lezppoDRFl8Dt87uU0U="
+      "sha256": "sha256-8dMYUvHerCj7V+EYWUSw6qXNG18Yc+SQWmw9+ZihBsE="
     },
     "extract": null,
     "rustGitDeps": null
