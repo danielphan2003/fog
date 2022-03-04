@@ -258,15 +258,15 @@
     "pinned": false,
     "cargoLock": null,
     "name": "papermc-1_18_2",
-    "version": "220",
+    "version": "221",
     "passthru": {
       "mcVer": "1.18.2"
     },
     "src": {
-      "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/220/downloads/paper-1.18.2-220.jar",
+      "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/221/downloads/paper-1.18.2-221.jar",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FyyH35Y78p1uEl8yM4q5bkX/Wv5WYK6mXz3QiKco8B4="
+      "sha256": "sha256-pIC9nJZXfq2oMhHDiuh+/1ny4MG1OWxFCxOMTRHw7TY="
     },
     "extract": null,
     "rustGitDeps": null
