@@ -9063,7 +9063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "6.2.1923643",
+    "version": "7.0.1934264",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9071,10 +9071,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1923643/file/eliostruyf.vscode-front-matter-beta-6.2.1923643.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1934264/file/eliostruyf.vscode-front-matter-beta-7.0.1934264.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/6UPVW9LBLqUprw0zk0NjBeS03J9ljMqOqkw3gJ24+c="
+      "sha256": "sha256-1sMxO8c71hkmV7UbI7Jt9feO8kcg+2gBuVooAmnkK6g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10323,7 +10323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-parse-tree",
-    "version": "0.16.0",
+    "version": "0.16.1",
     "passthru": {
       "name": "parse-tree",
       "license": "MIT",
@@ -10331,10 +10331,10 @@
       "description": "Access document syntax using tree-sitter"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/parse-tree/0.16.0/file/pokey.parse-tree-0.16.0.vsix",
+      "url": "https://open-vsx.org/api/pokey/parse-tree/0.16.1/file/pokey.parse-tree-0.16.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ODphZn5IMnBfPasjJS/SEWxYBCriOTqDGyu/Q4An0kk="
+      "sha256": "sha256-PFiXhrv9Ztj7YNUeUfwHrsVUJy0XyxWVZidkUl2TcLA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22363,7 +22363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CodeStream-codestream",
-    "version": "12.5.0",
+    "version": "12.12.0",
     "passthru": {
       "name": "codestream",
       "license": "UNLICENSED",
@@ -22371,10 +22371,10 @@
       "description": "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic One observability, Bitbucket, Slack, MS Teams, Jira, Trello and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CodeStream/codestream/12.5.0/file/CodeStream.codestream-12.5.0.vsix",
+      "url": "https://open-vsx.org/api/CodeStream/codestream/12.12.0/file/CodeStream.codestream-12.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-giDoVAnrIAf3FWY+IzMaXeV2TFpnzFOVRAGoyy+G0V4="
+      "sha256": "sha256-cZBJfVLHeaGJl8JfJiG5d5L7tlKH5ISUKDG8fFY9oC0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22663,7 +22663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-ansible",
-    "version": "0.8.0",
+    "version": "0.8.1",
     "passthru": {
       "name": "ansible",
       "license": "MIT",
@@ -22671,10 +22671,10 @@
       "description": "Ansible language support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/ansible/0.8.0/file/redhat.ansible-0.8.0.vsix",
+      "url": "https://open-vsx.org/api/redhat/ansible/0.8.1/file/redhat.ansible-0.8.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BfRtKWoWMjuLDvnOo4dTEXwZ2VgwsE8G100jG//W7hk="
+      "sha256": "sha256-Vum9R2af7ERAFZ5D8AWbeOGvPbGZ/lI4ZS562T/uiM0="
     },
     "extract": null,
     "rustGitDeps": null
