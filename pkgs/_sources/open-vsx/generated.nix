@@ -6663,10 +6663,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.84.1";
+    version = "0.84.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.84.1/file/dendron.nightly-0.84.1.vsix";
-      sha256 = "sha256-9WGA08rgmsFA/F68y1gnj3SZl7s5PWmDw8+UPXNaFzM=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.84.2/file/dendron.nightly-0.84.2.vsix";
+      sha256 = "sha256-yWpg8L+Ebamf2F4JTggXEYkk+tl5l4G+RSYhcUUbRKQ=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -19143,10 +19143,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.40";
+    version = "0.0.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.40/file/zardoy.zardoy-experiments-0.0.40.vsix";
-      sha256 = "sha256-XKRtj/8Sp+RXy4YrhcRbrqIBlGz6JQTqc/+yrb4j0P4=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.41/file/zardoy.zardoy-experiments-0.0.41.vsix";
+      sha256 = "sha256-lgIbh9klVEe9uicThEdDIDhfLKRe+qOgB0fJIwvBo2c=";
     };
     name = "zardoy-experiments";
     license = "MIT";
