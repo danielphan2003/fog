@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.695";
+    version = "31.0.696";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.695/file/Prisma.prisma-insider-31.0.695.vsix";
-      sha256 = "sha256-olcTQLz7CTVYM7rD+cr2z25ATG9W1yEOpZF3ZAjG41c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.696/file/Prisma.prisma-insider-31.0.696.vsix";
+      sha256 = "sha256-BQM0a8gsEkkgD+R5kY8olyTw7CUw+Wr7sdO5Hy5aJ14=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5115,10 +5115,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.248";
+    version = "2.0.249";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.248/file/betterthantomorrow.calva-2.0.248.vsix";
-      sha256 = "sha256-TB+AVBOXHkZKx2Sd2f4pd6CdSWuW5dTmyylJZpj+ZYo=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.249/file/betterthantomorrow.calva-2.0.249.vsix";
+      sha256 = "sha256-UKAS8g1CcSU/SCgig92bil/8RcnNS6y3wlc3mAnc/3U=";
     };
     name = "calva";
     license = "MIT";
