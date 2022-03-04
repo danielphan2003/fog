@@ -2057,9 +2057,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-bf0270323c3565297d8306397c2b03bc092c1bc6/Cargo.lock",
+    "cargoLock": "./rustdesk-3a7647f48bc30ff109f29a185d2bcc37692812e9/Cargo.lock",
     "name": "rustdesk",
-    "version": "bf0270323c3565297d8306397c2b03bc092c1bc6",
+    "version": "3a7647f48bc30ff109f29a185d2bcc37692812e9",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,15 +2069,15 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-OZNVyhQQQ4sRdUkaerHPCeyBSRIy/kMQwQkkC1j2mtg=",
-      "rev": "bf0270323c3565297d8306397c2b03bc092c1bc6"
+      "sha256": "sha256-s/KHTWpfaD5S8n+shYXLUvxr1h3FFJDYekCQo82COQA=",
+      "rev": "3a7647f48bc30ff109f29a185d2bcc37692812e9"
     },
     "extract": null,
     "rustGitDeps": {
       "systray-0.4.1": "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=",
       "parity-tokio-ipc-0.7.3": "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=",
       "libappindicator-0.6.1": "sha256-JGnnZrcwbh8WJ6+/4bYhfD3HvgF2C7XaaGb6TaMRWdw=",
-      "rdev-0.5.0": "sha256-bkSke7HW2btBCc8+DayeWSTHLRlGNl1+QKTMRUYA4hg=",
+      "rdev-0.5.0": "sha256-01o33kUYtkp/7izQcL/hppzdKv6OF1giQRrxHozKZCk=",
       "cpal-0.13.4": "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=",
       "sciter-rs-0.5.57": "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=",
       "tokio-socks-0.5.1": "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=",
