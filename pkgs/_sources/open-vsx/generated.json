@@ -12303,7 +12303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.293",
+    "version": "0.25.294",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12311,10 +12311,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.293/file/pokey.cursorless-0.25.293.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.294/file/pokey.cursorless-0.25.294.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6kFnFYHZakUfl2O/JlNmhy9G4rRvKvFQ4qogujisbr8="
+      "sha256": "sha256-rxPdl1jf7/he2JO+oX2ttSOalNGSTc5UqoPtWQiQis4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27823,7 +27823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "launchdarklyofficial-launchdarkly-beta",
-    "version": "2022.3.1646341391",
+    "version": "2022.3.1646415563",
     "passthru": {
       "name": "launchdarkly-beta",
       "license": "",
@@ -27831,10 +27831,10 @@
       "description": "Manage LaunchDarkly feature flags directly from within your code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646341391/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646341391.vsix",
+      "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646415563/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646415563.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8dMYUvHerCj7V+EYWUSw6qXNG18Yc+SQWmw9+ZihBsE="
+      "sha256": "sha256-Ce3wzNF7Lbf73ajJlk4d4uVqG0dq4MC4bvPgCDaS33c="
     },
     "extract": null,
     "rustGitDeps": null

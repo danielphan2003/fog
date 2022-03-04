@@ -10623,10 +10623,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.3.1646341391";
+    version = "2022.3.1646415563";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646341391/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646341391.vsix";
-      sha256 = "sha256-8dMYUvHerCj7V+EYWUSw6qXNG18Yc+SQWmw9+ZihBsE=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646415563/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646415563.vsix";
+      sha256 = "sha256-Ce3wzNF7Lbf73ajJlk4d4uVqG0dq4MC4bvPgCDaS33c=";
     };
     name = "launchdarkly-beta";
     license = "";
@@ -13599,10 +13599,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.293";
+    version = "0.25.294";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.293/file/pokey.cursorless-0.25.293.vsix";
-      sha256 = "sha256-6kFnFYHZakUfl2O/JlNmhy9G4rRvKvFQ4qogujisbr8=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.294/file/pokey.cursorless-0.25.294.vsix";
+      sha256 = "sha256-rxPdl1jf7/he2JO+oX2ttSOalNGSTc5UqoPtWQiQis4=";
     };
     name = "cursorless";
     license = "MIT";
