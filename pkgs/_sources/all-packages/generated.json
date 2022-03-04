@@ -1732,13 +1732,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "trackma",
-    "version": "ead8010a062db7b2f9bbde1bf81db1d462d991a0",
+    "version": "d7e352374cdc5e84c3aeb363d4e08184ae90af43",
     "passthru": null,
     "src": {
       "url": "https://github.com/z411/trackma/archive/master.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-igjamulpcD7akYdNniz3ObCnjpPBPeU4rePHcBRLXLw="
+      "sha256": "sha256-KIjC87SiP0q2kmRKY0SiuBVkJ+v6yN3tsZrpGSEvfjA="
     },
     "extract": null,
     "rustGitDeps": null
