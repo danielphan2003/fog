@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "987df52acab6f46f05c30c6b4e33450b1ad9fd11";
+    version = "4b0d45f66dd67e8a479a6150ee7b300ee2510963";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "987df52acab6f46f05c30c6b4e33450b1ad9fd11";
+      rev = "4b0d45f66dd67e8a479a6150ee7b300ee2510963";
       fetchSubmodules = false;
-      sha256 = "sha256-QnHBw5GKTa7pCwMHwvvem+DXxuBeir0QOd5fir7ib7I=";
+      sha256 = "sha256-D7YwaQHg5zrB6BsU632M5fscLeCUvw0VVp84pH3CwQ0=";
     });
   };
   caddy = {
