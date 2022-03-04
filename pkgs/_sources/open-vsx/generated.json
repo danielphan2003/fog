@@ -25163,7 +25163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "borkdude-clj-kondo",
-    "version": "2022.2.9",
+    "version": "2022.3.4",
     "passthru": {
       "name": "clj-kondo",
       "license": "EPL-1",
@@ -25171,10 +25171,10 @@
       "description": "Clj-kondo, a linter for Clojure that sparks joy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.2.9/file/borkdude.clj-kondo-2022.2.9.vsix",
+      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.4/file/borkdude.clj-kondo-2022.3.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qr+3Y5az1Nle3MVKQ5OkZoKCxRpUWMszGnY8V89DsgA="
+      "sha256": "sha256-3NUYkDSvjn1YV1BHEbkSpLXkpDTRplzUPo5AzdqpRY0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25783,7 +25783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ligolang-publish-ligo-vscode",
-    "version": "0.4.8",
+    "version": "0.4.9",
     "passthru": {
       "name": "ligo-vscode",
       "license": "MIT",
@@ -25791,10 +25791,10 @@
       "description": "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.8/file/ligolang-publish.ligo-vscode-0.4.8.vsix",
+      "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.9/file/ligolang-publish.ligo-vscode-0.4.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8oLeIwlQ0KDZsy/UOm0J/B9dXrI5G6Ex4Oii/Z2HfmE="
+      "sha256": "sha256-Ap3VqOC+G73Ha4+RPklSpURh5zcblmjKDruuC3bdJ3w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29955,6 +29955,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-9ZEwtn7enzUDvVP8EjGDM0V7cS+d6fHFMwi7VA6zuN4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ker0olos-ohmyker0olos": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ker0olos-ohmyker0olos",
+    "version": "0.2.0",
+    "passthru": {
+      "name": "ohmyker0olos",
+      "license": "MIT",
+      "publisher": "ker0olos",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ker0olos/ohmyker0olos/0.2.0/file/ker0olos.ohmyker0olos-0.2.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-RHF9rTgxkKLxOkGfCCUKcxHocmmTvBEe3S0qOOUngiY="
     },
     "extract": null,
     "rustGitDeps": null

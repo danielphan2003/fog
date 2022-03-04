@@ -5259,10 +5259,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.2.9";
+    version = "2022.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.2.9/file/borkdude.clj-kondo-2022.2.9.vsix";
-      sha256 = "sha256-qr+3Y5az1Nle3MVKQ5OkZoKCxRpUWMszGnY8V89DsgA=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.4/file/borkdude.clj-kondo-2022.3.4.vsix";
+      sha256 = "sha256-3NUYkDSvjn1YV1BHEbkSpLXkpDTRplzUPo5AzdqpRY0=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -10153,6 +10153,18 @@
     publisher = "keesschollaart";
     description = " Completion for entity-id's in Home Assistant Configurations";
   };
+  ker0olos-ohmyker0olos = {
+    pname = "ker0olos-ohmyker0olos";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ker0olos/ohmyker0olos/0.2.0/file/ker0olos.ohmyker0olos-0.2.0.vsix";
+      sha256 = "sha256-RHF9rTgxkKLxOkGfCCUKcxHocmmTvBEe3S0qOOUngiY=";
+    };
+    name = "ohmyker0olos";
+    license = "MIT";
+    publisher = "ker0olos";
+    description = "";
+  };
   kevgo-vscode-markdown-ide = {
     pname = "kevgo-vscode-markdown-ide";
     version = "0.2.1";
@@ -10791,10 +10803,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.8";
+    version = "0.4.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.8/file/ligolang-publish.ligo-vscode-0.4.8.vsix";
-      sha256 = "sha256-8oLeIwlQ0KDZsy/UOm0J/B9dXrI5G6Ex4Oii/Z2HfmE=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.9/file/ligolang-publish.ligo-vscode-0.4.9.vsix";
+      sha256 = "sha256-Ap3VqOC+G73Ha4+RPklSpURh5zcblmjKDruuC3bdJ3w=";
     };
     name = "ligo-vscode";
     license = "MIT";
