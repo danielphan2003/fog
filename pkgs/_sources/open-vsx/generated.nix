@@ -11679,10 +11679,10 @@
   };
   moshfeu-diff-merge = {
     pname = "moshfeu-diff-merge";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.5.2/file/moshfeu.diff-merge-0.5.2.vsix";
-      sha256 = "sha256-p13aJS8CG4IbsFcWIZ7qxS76FcsDY3XbRmWa4AiFj4o=";
+      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.5.3/file/moshfeu.diff-merge-0.5.3.vsix";
+      sha256 = "sha256-2wzi1aWkzBdCDYZKbrIKTP+Rt7QwiaaAuKN4utKeIv8=";
     };
     name = "diff-merge";
     license = "MIT";
@@ -19095,10 +19095,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.4/file/zardoy.npm-rapid-ready-0.1.4.vsix";
-      sha256 = "sha256-ZxjK4DLma6Pse1XbjpDPFvbR6pTA/8zq1YFGg50QRKI=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.5/file/zardoy.npm-rapid-ready-0.1.5.vsix";
+      sha256 = "sha256-SwaaxP3dLOGwBFUAAVuODReHnFSP9b5kmQ15TOsNIp0=";
     };
     name = "npm-rapid-ready";
     license = "MIT";

@@ -4083,7 +4083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "moshfeu-diff-merge",
-    "version": "0.5.2",
+    "version": "0.5.3",
     "passthru": {
       "name": "diff-merge",
       "license": "MIT",
@@ -4091,10 +4091,10 @@
       "description": "Show diffs and merge"
     },
     "src": {
-      "url": "https://open-vsx.org/api/moshfeu/diff-merge/0.5.2/file/moshfeu.diff-merge-0.5.2.vsix",
+      "url": "https://open-vsx.org/api/moshfeu/diff-merge/0.5.3/file/moshfeu.diff-merge-0.5.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p13aJS8CG4IbsFcWIZ7qxS76FcsDY3XbRmWa4AiFj4o="
+      "sha256": "sha256-2wzi1aWkzBdCDYZKbrIKTP+Rt7QwiaaAuKN4utKeIv8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24903,7 +24903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-npm-rapid-ready",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "npm-rapid-ready",
       "license": "MIT",
@@ -24911,10 +24911,10 @@
       "description": "Full-featured extension for npm ecosystem"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.4/file/zardoy.npm-rapid-ready-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.5/file/zardoy.npm-rapid-ready-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZxjK4DLma6Pse1XbjpDPFvbR6pTA/8zq1YFGg50QRKI="
+      "sha256": "sha256-SwaaxP3dLOGwBFUAAVuODReHnFSP9b5kmQ15TOsNIp0="
     },
     "extract": null,
     "rustGitDeps": null
