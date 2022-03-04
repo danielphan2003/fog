@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.6",
+    "version": "0.4.7",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5691,10 +5691,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.6/file/gitduck.code-streaming-0.4.6.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.7/file/gitduck.code-streaming-0.4.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-L1mpm8dvwSFE0bkgf4oVrENQ5Ao/ZXX2yZx9aEn/+2U="
+      "sha256": "sha256-jStre2sgS/IfqGbzBX8MaW7johM4thIQzmckyQtiU1Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9783,7 +9783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-explorer-for-endevor",
-    "version": "0.14.2",
+    "version": "1.0.0",
     "passthru": {
       "name": "explorer-for-endevor",
       "license": "EPL-2.0",
@@ -9791,10 +9791,10 @@
       "description": "Explorer for Endevor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/0.14.2/file/BroadcomMFD.explorer-for-endevor-0.14.2.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.0/file/BroadcomMFD.explorer-for-endevor-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aGjGR/zHS/XhkRt8utB2RwdFthhMEEoKpMvSlWiCCA8="
+      "sha256": "sha256-sIfZBQ50grPALATC/ONavKjGVReZoZ3zQ9tJthSvyyY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16903,7 +16903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SenseTime-kestrel",
-    "version": "0.4.7",
+    "version": "0.4.8",
     "passthru": {
       "name": "kestrel",
       "license": "MIT",
@@ -16911,10 +16911,10 @@
       "description": "Tools for develepers of Kestrel"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SenseTime/kestrel/0.4.7/file/SenseTime.kestrel-0.4.7.vsix",
+      "url": "https://open-vsx.org/api/SenseTime/kestrel/0.4.8/file/SenseTime.kestrel-0.4.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WjNYisTIRpRYTfaYp31Q52mwOy+PLQmRge3oWj/3p6U="
+      "sha256": "sha256-vLkq6rpab2Cl9GYmX3s0a90x8gbRziF6Uk7OikELOPE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23223,7 +23223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "rangav-vscode-thunder-client",
-    "version": "1.12.2",
+    "version": "1.13.1",
     "passthru": {
       "name": "vscode-thunder-client",
       "license": "",
@@ -23231,10 +23231,10 @@
       "description": "Lightweight Rest API Client for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.2/file/rangav.vscode-thunder-client-1.12.2.vsix",
+      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.1/file/rangav.vscode-thunder-client-1.13.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5jPDS12JR9d8mclf4TTXb+TamnxDkjY8gFlbztBaq1s="
+      "sha256": "sha256-exi6NlvBdn8p/UaSzJ8xJsTopbBfAHccNJmXE2+/BP8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28343,7 +28343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.23",
+    "version": "0.0.24",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -28351,10 +28351,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.23/file/bilelmoussaoui.flatpak-vscode-0.0.23.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.24/file/bilelmoussaoui.flatpak-vscode-0.0.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2Djcjpi0zngq1Z0k548C6Z81En5LARKD3Bx1KC0GPG8="
+      "sha256": "sha256-mgp7pU5rdGqZZOKkYYj8papdOyA3WqgJ7WYYDSBZbfg="
     },
     "extract": null,
     "rustGitDeps": null

@@ -315,10 +315,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "0.14.2";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/0.14.2/file/BroadcomMFD.explorer-for-endevor-0.14.2.vsix";
-      sha256 = "sha256-aGjGR/zHS/XhkRt8utB2RwdFthhMEEoKpMvSlWiCCA8=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.0/file/BroadcomMFD.explorer-for-endevor-1.0.0.vsix";
+      sha256 = "sha256-sIfZBQ50grPALATC/ONavKjGVReZoZ3zQ9tJthSvyyY=";
     };
     name = "explorer-for-endevor";
     license = "EPL-2.0";
@@ -2919,10 +2919,10 @@
   };
   SenseTime-kestrel = {
     pname = "SenseTime-kestrel";
-    version = "0.4.7";
+    version = "0.4.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.7/file/SenseTime.kestrel-0.4.7.vsix";
-      sha256 = "sha256-WjNYisTIRpRYTfaYp31Q52mwOy+PLQmRge3oWj/3p6U=";
+      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.8/file/SenseTime.kestrel-0.4.8.vsix";
+      sha256 = "sha256-vLkq6rpab2Cl9GYmX3s0a90x8gbRziF6Uk7OikELOPE=";
     };
     name = "kestrel";
     license = "MIT";
@@ -5187,10 +5187,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.23";
+    version = "0.0.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.23/file/bilelmoussaoui.flatpak-vscode-0.0.23.vsix";
-      sha256 = "sha256-2Djcjpi0zngq1Z0k548C6Z81En5LARKD3Bx1KC0GPG8=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.24/file/bilelmoussaoui.flatpak-vscode-0.0.24.vsix";
+      sha256 = "sha256-mgp7pU5rdGqZZOKkYYj8papdOyA3WqgJ7WYYDSBZbfg=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -8271,10 +8271,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.6";
+    version = "0.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.6/file/gitduck.code-streaming-0.4.6.vsix";
-      sha256 = "sha256-L1mpm8dvwSFE0bkgf4oVrENQ5Ao/ZXX2yZx9aEn/+2U=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.7/file/gitduck.code-streaming-0.4.7.vsix";
+      sha256 = "sha256-jStre2sgS/IfqGbzBX8MaW7johM4thIQzmckyQtiU1Q=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -13899,10 +13899,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.12.2";
+    version = "1.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.12.2/file/rangav.vscode-thunder-client-1.12.2.vsix";
-      sha256 = "sha256-5jPDS12JR9d8mclf4TTXb+TamnxDkjY8gFlbztBaq1s=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.1/file/rangav.vscode-thunder-client-1.13.1.vsix";
+      sha256 = "sha256-exi6NlvBdn8p/UaSzJ8xJsTopbBfAHccNJmXE2+/BP8=";
     };
     name = "vscode-thunder-client";
     license = "";
