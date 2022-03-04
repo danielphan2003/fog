@@ -507,10 +507,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.5.0";
+    version = "12.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.5.0/file/CodeStream.codestream-12.5.0.vsix";
-      sha256 = "sha256-giDoVAnrIAf3FWY+IzMaXeV2TFpnzFOVRAGoyy+G0V4=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/12.12.0/file/CodeStream.codestream-12.12.0.vsix";
+      sha256 = "sha256-cZBJfVLHeaGJl8JfJiG5d5L7tlKH5ISUKDG8fFY9oC0=";
     };
     name = "codestream";
     license = "UNLICENSED";
@@ -7119,10 +7119,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "6.2.1923643";
+    version = "7.0.1934264";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/6.2.1923643/file/eliostruyf.vscode-front-matter-beta-6.2.1923643.vsix";
-      sha256 = "sha256-/6UPVW9LBLqUprw0zk0NjBeS03J9ljMqOqkw3gJ24+c=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1934264/file/eliostruyf.vscode-front-matter-beta-7.0.1934264.vsix";
+      sha256 = "sha256-1sMxO8c71hkmV7UbI7Jt9feO8kcg+2gBuVooAmnkK6g=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -13611,10 +13611,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.16.0";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.16.0/file/pokey.parse-tree-0.16.0.vsix";
-      sha256 = "sha256-ODphZn5IMnBfPasjJS/SEWxYBCriOTqDGyu/Q4An0kk=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.16.1/file/pokey.parse-tree-0.16.1.vsix";
+      sha256 = "sha256-PFiXhrv9Ztj7YNUeUfwHrsVUJy0XyxWVZidkUl2TcLA=";
     };
     name = "parse-tree";
     license = "MIT";
@@ -13995,10 +13995,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.8.0/file/redhat.ansible-0.8.0.vsix";
-      sha256 = "sha256-BfRtKWoWMjuLDvnOo4dTEXwZ2VgwsE8G100jG//W7hk=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.8.1/file/redhat.ansible-0.8.1.vsix";
+      sha256 = "sha256-Vum9R2af7ERAFZ5D8AWbeOGvPbGZ/lI4ZS562T/uiM0=";
     };
     name = "ansible";
     license = "MIT";
