@@ -426,10 +426,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-637-g69f26ca7";
+    version = "2.1-638-gd6299516";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-637-g69f26ca7-1_all.deb";
-      sha256 = "sha256-eoTaY1hlzpy4kvFz34SX+wWGIHi7RuiS0XwhOgKuEUM=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-638-gd6299516-1_all.deb";
+      sha256 = "sha256-JtD5tcM0ZwldZKhkfxvQnzgMp/HdC1+0eMQXigXjhMA=";
     };
   };
   layout-machi = {
@@ -920,16 +920,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "85a36961958061fc1571219a0bb916390c239670";
+    version = "20829f4d2f346029f4a5b4b093a8ecde4084e1e9";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "85a36961958061fc1571219a0bb916390c239670";
+      rev = "20829f4d2f346029f4a5b4b093a8ecde4084e1e9";
       fetchSubmodules = false;
-      sha256 = "sha256-dMk5R4vyJdZvOduYkqBqK/xxlBqFbZ6ln6JZ4zF39oQ=";
+      sha256 = "sha256-xTilrrJayg5y/Y4PD2T65wveNizsS4DXUZwAedZU9gk=";
     });
     cargoLock = {
-      lockFile = ./spotifyd-85a36961958061fc1571219a0bb916390c239670/Cargo.lock;
+      lockFile = ./spotifyd-20829f4d2f346029f4a5b4b093a8ecde4084e1e9/Cargo.lock;
       outputHashes = { };
     };
   };
