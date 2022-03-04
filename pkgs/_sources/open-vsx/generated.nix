@@ -2391,10 +2391,10 @@
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
-    version = "1.5.5";
+    version = "1.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.5/file/Nightrains.robloxlsp-1.5.5.vsix";
-      sha256 = "sha256-Jsf5G80VKZjApvqzbB5ncMdAJem7FDnAzqfG401L9bU=";
+      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.6/file/Nightrains.robloxlsp-1.5.6.vsix";
+      sha256 = "sha256-3Mtd7z/hIZOLzrVJhH/zg3qY0wD5JZ09ze9quWcW3hQ=";
     };
     name = "robloxlsp";
     license = "MIT";
@@ -2919,10 +2919,10 @@
   };
   SenseTime-kestrel = {
     pname = "SenseTime-kestrel";
-    version = "0.4.6";
+    version = "0.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.6/file/SenseTime.kestrel-0.4.6.vsix";
-      sha256 = "sha256-MxnNPNDhMpmh6mOryIU2+OYolexGg80RBiWgaIcNBh8=";
+      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.7/file/SenseTime.kestrel-0.4.7.vsix";
+      sha256 = "sha256-WjNYisTIRpRYTfaYp31Q52mwOy+PLQmRge3oWj/3p6U=";
     };
     name = "kestrel";
     license = "MIT";
@@ -3027,10 +3027,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.308";
+    version = "2022.3.317";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.308/file/Slint.slint-nightly-2022.3.308.vsix";
-      sha256 = "sha256-OfStSPww+Rjp92OTLLQSuD2uo3nyXWRh2M6CuIFmN+Q=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.317/file/Slint.slint-nightly-2022.3.317.vsix";
+      sha256 = "sha256-5s1+SwPaiY4/IHZ47ntNQX6rwisiwjKM1iHgTYVTpRA=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4167,10 +4167,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.35.0";
+    version = "1.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.35.0/file/amazonwebservices.aws-toolkit-vscode-1.35.0.vsix";
-      sha256 = "sha256-8BNNfeWZqgWLusRctlKNISq3n3AcBFfCD7bRF8Vd/Jw=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.36.0/file/amazonwebservices.aws-toolkit-vscode-1.36.0.vsix";
+      sha256 = "sha256-6Ylti3x+XZAzE+sb7s7p+nepvqwer+9qbuHlp+1H+UQ=";
     };
     name = "aws-toolkit-vscode";
     license = "Apache-2.0";
@@ -8259,10 +8259,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.6";
+    version = "2.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.6/file/giscafer.leek-fund-2.0.6.vsix";
-      sha256 = "sha256-p1SlLaxv9q4xFkEPiv35jpVYHu57NF6evVYn241mPWQ=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.7/file/giscafer.leek-fund-2.0.7.vsix";
+      sha256 = "sha256-6WpktPe5u+w7SAdZ2BIfd75jj8rfsQuDLLfMgyHBw3A=";
     };
     name = "leek-fund";
     license = "MIT";
@@ -11871,10 +11871,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.0.1814523869";
+    version = "2022.2.1924087327";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.0.1814523869/file/ms-python.python-2022.0.1814523869.vsix";
-      sha256 = "sha256-JDaimcOUDo9GuFA3mhbbGLwqZE9ejk8pWYc+9PrRhVk=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.2.1924087327/file/ms-python.python-2022.2.1924087327.vsix";
+      sha256 = "sha256-JksPDcFpi8+JD9BDBhb6cbU0hRbNVbO/ABflOKZctWM=";
     };
     name = "python";
     license = "MIT";
@@ -11979,10 +11979,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.65.0";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.65.0/file/ms-vscode.js-debug-1.65.0.vsix";
-      sha256 = "sha256-Ac8hhNZXchx1F4pWBUeMdEJxaV0coym8g9ZGbR8aej4=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.66.0/file/ms-vscode.js-debug-1.66.0.vsix";
+      sha256 = "sha256-uTG7bcYuq6YULoXoQLR/czQgu6g7Rs1gFwJSKK21AAY=";
     };
     name = "js-debug";
     license = "MIT";
@@ -17283,10 +17283,10 @@
   };
   vscjava-vscode-spring-boot-dashboard = {
     pname = "vscjava-vscode-spring-boot-dashboard";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.2.0/file/vscjava.vscode-spring-boot-dashboard-0.2.0.vsix";
-      sha256 = "sha256-3bf2/3e7r1WFvzU6njqfbAmYTG1DANzh+t86HBRoVkc=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.3.0/file/vscjava.vscode-spring-boot-dashboard-0.3.0.vsix";
+      sha256 = "sha256-C2SJcCLv7Z/2QPJWj2CFRPfdpxoqnyBTgrbKlGmrWAc=";
     };
     name = "vscode-spring-boot-dashboard";
     license = "MIT";

@@ -11963,7 +11963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-python-python",
-    "version": "2022.0.1814523869",
+    "version": "2022.2.1924087327",
     "passthru": {
       "name": "python",
       "license": "MIT",
@@ -11971,10 +11971,10 @@
       "description": "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-python/python/2022.0.1814523869/file/ms-python.python-2022.0.1814523869.vsix",
+      "url": "https://open-vsx.org/api/ms-python/python/2022.2.1924087327/file/ms-python.python-2022.2.1924087327.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JDaimcOUDo9GuFA3mhbbGLwqZE9ejk8pWYc+9PrRhVk="
+      "sha256": "sha256-JksPDcFpi8+JD9BDBhb6cbU0hRbNVbO/ABflOKZctWM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14363,7 +14363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.308",
+    "version": "2022.3.317",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14371,10 +14371,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.308/file/Slint.slint-nightly-2022.3.308.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.317/file/Slint.slint-nightly-2022.3.317.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OfStSPww+Rjp92OTLLQSuD2uo3nyXWRh2M6CuIFmN+Q="
+      "sha256": "sha256-5s1+SwPaiY4/IHZ47ntNQX6rwisiwjKM1iHgTYVTpRA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16903,7 +16903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SenseTime-kestrel",
-    "version": "0.4.6",
+    "version": "0.4.7",
     "passthru": {
       "name": "kestrel",
       "license": "MIT",
@@ -16911,10 +16911,10 @@
       "description": "Tools for develepers of Kestrel"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SenseTime/kestrel/0.4.6/file/SenseTime.kestrel-0.4.6.vsix",
+      "url": "https://open-vsx.org/api/SenseTime/kestrel/0.4.7/file/SenseTime.kestrel-0.4.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MxnNPNDhMpmh6mOryIU2+OYolexGg80RBiWgaIcNBh8="
+      "sha256": "sha256-WjNYisTIRpRYTfaYp31Q52mwOy+PLQmRge3oWj/3p6U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23483,7 +23483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Nightrains-robloxlsp",
-    "version": "1.5.5",
+    "version": "1.5.6",
     "passthru": {
       "name": "robloxlsp",
       "license": "MIT",
@@ -23491,10 +23491,10 @@
       "description": "Roblox Luau Language Server."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.5/file/Nightrains.robloxlsp-1.5.5.vsix",
+      "url": "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.6/file/Nightrains.robloxlsp-1.5.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jsf5G80VKZjApvqzbB5ncMdAJem7FDnAzqfG401L9bU="
+      "sha256": "sha256-3Mtd7z/hIZOLzrVJhH/zg3qY0wD5JZ09ze9quWcW3hQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25703,7 +25703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "giscafer-leek-fund",
-    "version": "2.0.6",
+    "version": "2.0.7",
     "passthru": {
       "name": "leek-fund",
       "license": "MIT",
@@ -25711,10 +25711,10 @@
       "description": "é­èçå­ï¼VSCode éä¹å¯ä»¥çè¡ç¥¨ & åºéå®æ¶æ°æ®ï¼åæå¥½ç¨çæèµæä»¶"
     },
     "src": {
-      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.0.6/file/giscafer.leek-fund-2.0.6.vsix",
+      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.0.7/file/giscafer.leek-fund-2.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p1SlLaxv9q4xFkEPiv35jpVYHu57NF6evVYn241mPWQ="
+      "sha256": "sha256-6WpktPe5u+w7SAdZ2BIfd75jj8rfsQuDLLfMgyHBw3A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26483,7 +26483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug",
-    "version": "1.65.0",
+    "version": "1.66.0",
     "passthru": {
       "name": "js-debug",
       "license": "MIT",
@@ -26491,10 +26491,10 @@
       "description": "An extension for debugging Node.js programs and Chrome."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.65.0/file/ms-vscode.js-debug-1.65.0.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.66.0/file/ms-vscode.js-debug-1.66.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ac8hhNZXchx1F4pWBUeMdEJxaV0coym8g9ZGbR8aej4="
+      "sha256": "sha256-uTG7bcYuq6YULoXoQLR/czQgu6g7Rs1gFwJSKK21AAY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29343,7 +29343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "amazonwebservices-aws-toolkit-vscode",
-    "version": "1.35.0",
+    "version": "1.36.0",
     "passthru": {
       "name": "aws-toolkit-vscode",
       "license": "Apache-2.0",
@@ -29351,10 +29351,10 @@
       "description": "Amazon Web Services toolkit for browsing and updating cloud resources"
     },
     "src": {
-      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.35.0/file/amazonwebservices.aws-toolkit-vscode-1.35.0.vsix",
+      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.36.0/file/amazonwebservices.aws-toolkit-vscode-1.36.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8BNNfeWZqgWLusRctlKNISq3n3AcBFfCD7bRF8Vd/Jw="
+      "sha256": "sha256-6Ylti3x+XZAzE+sb7s7p+nepvqwer+9qbuHlp+1H+UQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30343,7 +30343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-spring-boot-dashboard",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "passthru": {
       "name": "vscode-spring-boot-dashboard",
       "license": "MIT",
@@ -30351,10 +30351,10 @@
       "description": "Spring Boot Dashboard for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.2.0/file/vscjava.vscode-spring-boot-dashboard-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.3.0/file/vscjava.vscode-spring-boot-dashboard-0.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3bf2/3e7r1WFvzU6njqfbAmYTG1DANzh+t86HBRoVkc="
+      "sha256": "sha256-C2SJcCLv7Z/2QPJWj2CFRPfdpxoqnyBTgrbKlGmrWAc="
     },
     "extract": null,
     "rustGitDeps": null
