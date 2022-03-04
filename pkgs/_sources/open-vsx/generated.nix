@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.696";
+    version = "31.0.697";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.696/file/Prisma.prisma-insider-31.0.696.vsix";
-      sha256 = "sha256-BQM0a8gsEkkgD+R5kY8olyTw7CUw+Wr7sdO5Hy5aJ14=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.697/file/Prisma.prisma-insider-31.0.697.vsix";
+      sha256 = "sha256-kBYWUSguFwgDGVzVFdR3rglr0CtXui38Iugu5V4qVb4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4155,10 +4155,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.2.801";
+    version = "2022.3.413";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.2.801/file/alygin.vscode-tlaplus-nightly-2022.2.801.vsix";
-      sha256 = "sha256-umizTe2u6vU5hGfM3Kn1iUpjVgkqmW6YpHBn5iMkMDU=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.3.413/file/alygin.vscode-tlaplus-nightly-2022.3.413.vsix";
+      sha256 = "sha256-mhi0igNl5nfWqBU5S4XENGLHAbhLxWoa8WR70ubQCHw=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -8511,10 +8511,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.1.1";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.1.1/file/halcyontechltd.code-for-ibmi-1.1.1.vsix";
-      sha256 = "sha256-n09vI++7npe2sAVaV5MFDlGrcWxkotaCHtXZAm+FHoY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.0/file/halcyontechltd.code-for-ibmi-1.2.0.vsix";
+      sha256 = "sha256-5aU7UXikZ4eX11Zzfe9xfmA2ESal7FXp9tmQLsj2RgM=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -8523,10 +8523,10 @@
   };
   halcyontechltd-vscode-ibmi-walkthroughs = {
     pname = "halcyontechltd-vscode-ibmi-walkthroughs";
-    version = "0.0.8";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.0.8/file/halcyontechltd.vscode-ibmi-walkthroughs-0.0.8.vsix";
-      sha256 = "sha256-8ttgS6YB75HKgrTzDX4DtX5+rcK10Y5bCihI5P9lmpc=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.0/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.0.vsix";
+      sha256 = "sha256-bIENqA11169seC0IHTO0AxaWonBH0wOJkJEnrThaEcM=";
     };
     name = "vscode-ibmi-walkthroughs";
     license = "Apache-2.0";
@@ -8535,10 +8535,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.9";
+    version = "0.6.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.9/file/halcyontechltd.vscode-rpgle-0.6.9.vsix";
-      sha256 = "sha256-x9V13WyF06micccrtW9JLlxnMgJNj1GlRak/PRVWavI=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.10/file/halcyontechltd.vscode-rpgle-0.6.10.vsix";
+      sha256 = "sha256-yfzV5YA+d0maJ+a6q9hErDaPc6biNV9I5+zag3FBz9w=";
     };
     name = "vscode-rpgle";
     license = "MIT";
