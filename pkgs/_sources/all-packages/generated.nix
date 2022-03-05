@@ -127,13 +127,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "9895aeb0d58f1f9bdf460fe88c43828851f48c6e";
+    version = "22dedf77dcb71d5d1ef2ec02ba27c075e7773d99";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "9895aeb0d58f1f9bdf460fe88c43828851f48c6e";
+      rev = "22dedf77dcb71d5d1ef2ec02ba27c075e7773d99";
       fetchSubmodules = false;
-      sha256 = "sha256-vi9sdDXTMsjUZNtNyaayw8YUFUjT7+2+BIAEewEJy7Q=";
+      sha256 = "sha256-GD0MxMU4tz5SbahL0+ADUQXNoq1fIxOSXiEwoObC0ng=";
     });
   };
   awestore = {
@@ -276,13 +276,13 @@
   };
   droidcam = {
     pname = "droidcam";
-    version = "00846d3b1547aa80877c42108b7950d94c2aa8b4";
+    version = "71a74d22ed700650a83b7cb653bd92b0ed3cd01a";
     src = fetchFromGitHub ({
       owner = "aramg";
       repo = "droidcam";
-      rev = "00846d3b1547aa80877c42108b7950d94c2aa8b4";
+      rev = "71a74d22ed700650a83b7cb653bd92b0ed3cd01a";
       fetchSubmodules = false;
-      sha256 = "sha256-AxJBpoiBnb+5Pq/h4giOYAeLlvOtAJT5sCwzPEKo7w4=";
+      sha256 = "sha256-5m+btrwhlk/nIZSasu+fTK1NhK0KdugVeD0KYOt0vE4=";
     });
   };
   duf = {

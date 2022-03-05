@@ -657,7 +657,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "droidcam",
-    "version": "00846d3b1547aa80877c42108b7950d94c2aa8b4",
+    "version": "71a74d22ed700650a83b7cb653bd92b0ed3cd01a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -667,8 +667,8 @@
       "name": null,
       "repo": "droidcam",
       "type": "github",
-      "sha256": "sha256-AxJBpoiBnb+5Pq/h4giOYAeLlvOtAJT5sCwzPEKo7w4=",
-      "rev": "00846d3b1547aa80877c42108b7950d94c2aa8b4"
+      "sha256": "sha256-5m+btrwhlk/nIZSasu+fTK1NhK0KdugVeD0KYOt0vE4=",
+      "rev": "71a74d22ed700650a83b7cb653bd92b0ed3cd01a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1248,7 +1248,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "awesome",
-    "version": "9895aeb0d58f1f9bdf460fe88c43828851f48c6e",
+    "version": "22dedf77dcb71d5d1ef2ec02ba27c075e7773d99",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1258,8 +1258,8 @@
       "name": null,
       "repo": "awesome",
       "type": "github",
-      "sha256": "sha256-vi9sdDXTMsjUZNtNyaayw8YUFUjT7+2+BIAEewEJy7Q=",
-      "rev": "9895aeb0d58f1f9bdf460fe88c43828851f48c6e"
+      "sha256": "sha256-GD0MxMU4tz5SbahL0+ADUQXNoq1fIxOSXiEwoObC0ng=",
+      "rev": "22dedf77dcb71d5d1ef2ec02ba27c075e7773d99"
     },
     "extract": null,
     "rustGitDeps": null
