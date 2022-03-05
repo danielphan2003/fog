@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.84.2",
+    "version": "0.84.3",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.84.2/file/dendron.nightly-0.84.2.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.84.3/file/dendron.nightly-0.84.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yWpg8L+Ebamf2F4JTggXEYkk+tl5l4G+RSYhcUUbRKQ="
+      "sha256": "sha256-ZrP6KQ8l0XEAWsz2cME35aBTgyuD9qV5rb5g7PI3wCI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12543,7 +12543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.10.2",
+    "version": "1.11.0",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12551,10 +12551,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.10.2/file/mintlify.document-1.10.2.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.11.0/file/mintlify.document-1.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ztrAuQNTTe7eYBAGTTFVrw+jz9WW+SthfqZ2Ynh2qNg="
+      "sha256": "sha256-gnnELat0m7h/Rc2Hz5XZtdygCZXcB9UfJhfHfae1HjE="
     },
     "extract": null,
     "rustGitDeps": null
