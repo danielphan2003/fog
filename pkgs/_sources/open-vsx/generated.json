@@ -14363,7 +14363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.317",
+    "version": "2022.3.411",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14371,10 +14371,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.317/file/Slint.slint-nightly-2022.3.317.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.411/file/Slint.slint-nightly-2022.3.411.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5s1+SwPaiY4/IHZ47ntNQX6rwisiwjKM1iHgTYVTpRA="
+      "sha256": "sha256-J5WzZ3ob9kkNyQATKZ6y3Gybhxk8HQnQCWp1i71VXyg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27443,7 +27443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bpruitt-goddard-mermaid-markdown-syntax-highlighting",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "passthru": {
       "name": "mermaid-markdown-syntax-highlighting",
       "license": "MIT",
@@ -27451,10 +27451,10 @@
       "description": "Markdown syntax support for the Mermaid charting language"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.2/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.2.vsix",
+      "url": "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.3/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4i4rbyJiX3muCdC5QpMg+QdJIBRzXYD2V0drWPiGkdQ="
+      "sha256": "sha256-B3EG/eScggPxgjslHj+rGtYahE5VjvcUVJRRH8BbseU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28883,7 +28883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.226",
+    "version": "1.1.227",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -28891,10 +28891,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.226/file/ms-pyright.pyright-1.1.226.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.227/file/ms-pyright.pyright-1.1.227.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Wqvjs8qmZ+6/TRACCvPBCEbIBmNDfjeLbsv0lPW/KJI="
+      "sha256": "sha256-x+wa+Bb49R1kGrOHRpEUdGvb3+6jfoCdtkzA+AG3YHk="
     },
     "extract": null,
     "rustGitDeps": null

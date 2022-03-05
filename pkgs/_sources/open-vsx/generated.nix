@@ -3027,10 +3027,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.317";
+    version = "2022.3.411";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.317/file/Slint.slint-nightly-2022.3.317.vsix";
-      sha256 = "sha256-5s1+SwPaiY4/IHZ47ntNQX6rwisiwjKM1iHgTYVTpRA=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.411/file/Slint.slint-nightly-2022.3.411.vsix";
+      sha256 = "sha256-J5WzZ3ob9kkNyQATKZ6y3Gybhxk8HQnQCWp1i71VXyg=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5271,10 +5271,10 @@
   };
   bpruitt-goddard-mermaid-markdown-syntax-highlighting = {
     pname = "bpruitt-goddard-mermaid-markdown-syntax-highlighting";
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.2/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.2.vsix";
-      sha256 = "sha256-4i4rbyJiX3muCdC5QpMg+QdJIBRzXYD2V0drWPiGkdQ=";
+      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.3/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.3.vsix";
+      sha256 = "sha256-B3EG/eScggPxgjslHj+rGtYahE5VjvcUVJRRH8BbseU=";
     };
     name = "mermaid-markdown-syntax-highlighting";
     license = "MIT";
@@ -11847,10 +11847,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.226";
+    version = "1.1.227";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.226/file/ms-pyright.pyright-1.1.226.vsix";
-      sha256 = "sha256-Wqvjs8qmZ+6/TRACCvPBCEbIBmNDfjeLbsv0lPW/KJI=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.227/file/ms-pyright.pyright-1.1.227.vsix";
+      sha256 = "sha256-x+wa+Bb49R1kGrOHRpEUdGvb3+6jfoCdtkzA+AG3YHk=";
     };
     name = "pyright";
     license = "MIT";
