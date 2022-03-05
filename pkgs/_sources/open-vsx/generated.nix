@@ -10683,10 +10683,10 @@
   };
   lefd-sweetdracula-monokai = {
     pname = "lefd-sweetdracula-monokai";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.0/file/lefd.sweetdracula-monokai-1.1.0.vsix";
-      sha256 = "sha256-jnNS1HdClWy16aCUBHk4gXR6cK6f5tEu0dmKqY+DnqM=";
+      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.1/file/lefd.sweetdracula-monokai-1.1.1.vsix";
+      sha256 = "sha256-L98KMb/zV4nbxdLvKR+I9pGC0typHSccdKJgKgMWCEw=";
     };
     name = "sweetdracula-monokai";
     license = "MIT";

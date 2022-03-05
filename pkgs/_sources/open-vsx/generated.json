@@ -3123,7 +3123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lefd-sweetdracula-monokai",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "sweetdracula-monokai",
       "license": "MIT",
@@ -3131,10 +3131,10 @@
       "description": "Sweet Dracula + Monokai syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.0/file/lefd.sweetdracula-monokai-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.1/file/lefd.sweetdracula-monokai-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jnNS1HdClWy16aCUBHk4gXR6cK6f5tEu0dmKqY+DnqM="
+      "sha256": "sha256-L98KMb/zV4nbxdLvKR+I9pGC0typHSccdKJgKgMWCEw="
     },
     "extract": null,
     "rustGitDeps": null
