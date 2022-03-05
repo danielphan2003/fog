@@ -5725,6 +5725,18 @@
     publisher = "clinyong";
     description = "Visual Studio Code extension for CSS Modules";
   };
+  cloudstudio-coding-repositories = {
+    pname = "cloudstudio-coding-repositories";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.1/file/cloudstudio.coding-repositories-0.0.1.vsix";
+      sha256 = "sha256-HzwbH6bHI43uHmbXCerHjS0B78ZkQSYMNAWarG8UnEA=";
+    };
+    name = "coding-repositories";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "Remotely browse and edit any CODING repository";
+  };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
     version = "0.4.1";
@@ -9327,10 +9339,10 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.17.1";
+    version = "1.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.17.1/file/ionutvmi.path-autocomplete-1.17.1.vsix";
-      sha256 = "sha256-RYt/qcQM/TmMY4mVlZHJkwFgjT0wvDMkxORYDQG/XAg=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.0/file/ionutvmi.path-autocomplete-1.19.0.vsix";
+      sha256 = "sha256-Ji9vO/iuml6Ot0HPdbjYRmDBxILh1mDBW682KKbwAqQ=";
     };
     name = "path-autocomplete";
     license = "MIT";
@@ -13059,10 +13071,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.48";
+    version = "0.13.49";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.48/file/oraichain.cosmwasm-ide-0.13.48.vsix";
-      sha256 = "sha256-lrcTdr/r+1D5nfu7xkttSv/vPs6VWPZ6Cyg7uVCaIFs=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.49/file/oraichain.cosmwasm-ide-0.13.49.vsix";
+      sha256 = "sha256-4eA4PbUT8eyDolzysnL4rs0Guw0fZJiimkWI//IvQ6w=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";

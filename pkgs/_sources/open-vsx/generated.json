@@ -6259,6 +6259,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "cloudstudio-coding-repositories": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-coding-repositories",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "coding-repositories",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "Remotely browse and edit any CODING repository"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.1/file/cloudstudio.coding-repositories-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-HzwbH6bHI43uHmbXCerHjS0B78ZkQSYMNAWarG8UnEA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Equinusocio-vsc-community-material-theme": {
     "pinned": false,
     "cargoLock": null,
@@ -20643,7 +20663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oraichain-cosmwasm-ide",
-    "version": "0.13.48",
+    "version": "0.13.49",
     "passthru": {
       "name": "cosmwasm-ide",
       "license": "MIT OR Apache-2.0",
@@ -20651,10 +20671,10 @@
       "description": "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.48/file/oraichain.cosmwasm-ide-0.13.48.vsix",
+      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.49/file/oraichain.cosmwasm-ide-0.13.49.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lrcTdr/r+1D5nfu7xkttSv/vPs6VWPZ6Cyg7uVCaIFs="
+      "sha256": "sha256-4eA4PbUT8eyDolzysnL4rs0Guw0fZJiimkWI//IvQ6w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25483,7 +25503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ionutvmi-path-autocomplete",
-    "version": "1.17.1",
+    "version": "1.19.0",
     "passthru": {
       "name": "path-autocomplete",
       "license": "MIT",
@@ -25491,10 +25511,10 @@
       "description": "Provides path completion for visual studio code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.17.1/file/ionutvmi.path-autocomplete-1.17.1.vsix",
+      "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.0/file/ionutvmi.path-autocomplete-1.19.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RYt/qcQM/TmMY4mVlZHJkwFgjT0wvDMkxORYDQG/XAg="
+      "sha256": "sha256-Ji9vO/iuml6Ot0HPdbjYRmDBxILh1mDBW682KKbwAqQ="
     },
     "extract": null,
     "rustGitDeps": null
