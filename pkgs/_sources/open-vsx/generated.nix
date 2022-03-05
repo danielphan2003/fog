@@ -939,10 +939,10 @@
   };
   Evidence-evidence-vscode = {
     pname = "Evidence-evidence-vscode";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Evidence/evidence-vscode/0.0.5/file/Evidence.evidence-vscode-0.0.5.vsix";
-      sha256 = "sha256-cG8qDg1/1FfPg6S59yuZD5373hHLISGklp3x+06YNP4=";
+      url = "https://open-vsx.org/api/Evidence/evidence-vscode/0.0.6/file/Evidence.evidence-vscode-0.0.6.vsix";
+      sha256 = "sha256-tJ+KLxzhWFfleIL63oaVj2MEQz/BuNLE6aqhbPQIPOw=";
     };
     name = "evidence-vscode";
     license = "MIT";
@@ -10683,10 +10683,10 @@
   };
   lefd-sweetdracula-monokai = {
     pname = "lefd-sweetdracula-monokai";
-    version = "1.0.4";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.0.4/file/lefd.sweetdracula-monokai-1.0.4.vsix";
-      sha256 = "sha256-GnVcYdYv5QTA9t44aEwLpbeyxD8u/uUK/R85pyJAZ60=";
+      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.0/file/lefd.sweetdracula-monokai-1.1.0.vsix";
+      sha256 = "sha256-jnNS1HdClWy16aCUBHk4gXR6cK6f5tEu0dmKqY+DnqM=";
     };
     name = "sweetdracula-monokai";
     license = "MIT";
@@ -10947,10 +10947,10 @@
   };
   mads-hartmann-bash-ide-vscode = {
     pname = "mads-hartmann-bash-ide-vscode";
-    version = "1.11.0";
+    version = "1.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.11.0/file/mads-hartmann.bash-ide-vscode-1.11.0.vsix";
-      sha256 = "sha256-n6rc9Cn9mPvDFQnWGZ8rUtLsfM1PkXA2V+EIYpioPnk=";
+      url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.12.1/file/mads-hartmann.bash-ide-vscode-1.12.1.vsix";
+      sha256 = "sha256-zYFhS3Yh9SMw+l+mCR24DaesdD8YwRXjCEScKf76B3k=";
     };
     name = "bash-ide-vscode";
     license = "MIT";
