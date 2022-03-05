@@ -3483,7 +3483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-reveal-button",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "passthru": {
       "name": "reveal-button",
       "license": "MIT",
@@ -3491,10 +3491,10 @@
       "description": "Reveal Button in Sidebar"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/reveal-button/1.0.2/file/anweber.reveal-button-1.0.2.vsix",
+      "url": "https://open-vsx.org/api/anweber/reveal-button/1.1.0/file/anweber.reveal-button-1.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mIYnbDWZkBLttFXQPDlD8N9Fvp1hVT955rVvDhpv2BU="
+      "sha256": "sha256-95+62gH5rYfYbcy1JkAzynHqXhES8FCsT+CtWWMBg+A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9583,7 +9583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PolyMeilex-wgsl",
-    "version": "0.1.11",
+    "version": "0.1.12",
     "passthru": {
       "name": "wgsl",
       "license": "MIT",
@@ -9591,10 +9591,10 @@
       "description": "Syntax highlight for WGSL files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PolyMeilex/wgsl/0.1.11/file/PolyMeilex.wgsl-0.1.11.vsix",
+      "url": "https://open-vsx.org/api/PolyMeilex/wgsl/0.1.12/file/PolyMeilex.wgsl-0.1.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zPdX7rACBCj7V/rzYOw57SLqHko0oQKpac/mDRsMefA="
+      "sha256": "sha256-IR7C6smDtG92aNXfdm1z12eB+f11avfXXTsupR1H5lo="
     },
     "extract": null,
     "rustGitDeps": null

@@ -2631,10 +2631,10 @@
   };
   PolyMeilex-wgsl = {
     pname = "PolyMeilex-wgsl";
-    version = "0.1.11";
+    version = "0.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PolyMeilex/wgsl/0.1.11/file/PolyMeilex.wgsl-0.1.11.vsix";
-      sha256 = "sha256-zPdX7rACBCj7V/rzYOw57SLqHko0oQKpac/mDRsMefA=";
+      url = "https://open-vsx.org/api/PolyMeilex/wgsl/0.1.12/file/PolyMeilex.wgsl-0.1.12.vsix";
+      sha256 = "sha256-IR7C6smDtG92aNXfdm1z12eB+f11avfXXTsupR1H5lo=";
     };
     name = "wgsl";
     license = "MIT";
@@ -4491,10 +4491,10 @@
   };
   anweber-reveal-button = {
     pname = "anweber-reveal-button";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/reveal-button/1.0.2/file/anweber.reveal-button-1.0.2.vsix";
-      sha256 = "sha256-mIYnbDWZkBLttFXQPDlD8N9Fvp1hVT955rVvDhpv2BU=";
+      url = "https://open-vsx.org/api/anweber/reveal-button/1.1.0/file/anweber.reveal-button-1.1.0.vsix";
+      sha256 = "sha256-95+62gH5rYfYbcy1JkAzynHqXhES8FCsT+CtWWMBg+A=";
     };
     name = "reveal-button";
     license = "MIT";
