@@ -4455,10 +4455,10 @@
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
-    version = "3.0.0";
+    version = "3.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/3.0.0/file/anweber.httpbook-3.0.0.vsix";
-      sha256 = "sha256-X09mJpRTT3NhuywB5enkWaqOZDEWftdmfB3BBiq/U74=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.0.1/file/anweber.httpbook-3.0.1.vsix";
+      sha256 = "sha256-4d+8q0vR/DnvIBLL9UFH9psQkdFfaXtOeG90rLM6uss=";
     };
     name = "httpbook";
     license = "MIT";
@@ -4515,10 +4515,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.0.4";
+    version = "5.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.0.4/file/anweber.vscode-httpyac-5.0.4.vsix";
-      sha256 = "sha256-SVGmlPtm27knSu7myiLCBc6rFTZ/feJAnxuWh5S+oZg=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.1.0/file/anweber.vscode-httpyac-5.1.0.vsix";
+      sha256 = "sha256-5Y46A/r5Lk7EGce3cWBEDf7Mwxo3SOJ3V41LMW6NmeI=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -13923,10 +13923,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.13.2";
+    version = "1.13.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.2/file/rangav.vscode-thunder-client-1.13.2.vsix";
-      sha256 = "sha256-+mjD9bgQPOPO2+KuGSIyfxpGUgDx/EUrfckZDEjI5fU=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.3/file/rangav.vscode-thunder-client-1.13.3.vsix";
+      sha256 = "sha256-2ZoIw5Xxyb6seR5nb41T7s1hZC299oK3yNj10JX+xQA=";
     };
     name = "vscode-thunder-client";
     license = "";

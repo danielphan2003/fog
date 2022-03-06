@@ -1543,7 +1543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-httpbook",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "passthru": {
       "name": "httpbook",
       "license": "MIT",
@@ -1551,10 +1551,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/httpbook/3.0.0/file/anweber.httpbook-3.0.0.vsix",
+      "url": "https://open-vsx.org/api/anweber/httpbook/3.0.1/file/anweber.httpbook-3.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-X09mJpRTT3NhuywB5enkWaqOZDEWftdmfB3BBiq/U74="
+      "sha256": "sha256-4d+8q0vR/DnvIBLL9UFH9psQkdFfaXtOeG90rLM6uss="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11043,7 +11043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-vscode-httpyac",
-    "version": "5.0.4",
+    "version": "5.1.0",
     "passthru": {
       "name": "vscode-httpyac",
       "license": "MIT",
@@ -11051,10 +11051,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.0.4/file/anweber.vscode-httpyac-5.0.4.vsix",
+      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.1.0/file/anweber.vscode-httpyac-5.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SVGmlPtm27knSu7myiLCBc6rFTZ/feJAnxuWh5S+oZg="
+      "sha256": "sha256-5Y46A/r5Lk7EGce3cWBEDf7Mwxo3SOJ3V41LMW6NmeI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23243,7 +23243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "rangav-vscode-thunder-client",
-    "version": "1.13.2",
+    "version": "1.13.3",
     "passthru": {
       "name": "vscode-thunder-client",
       "license": "",
@@ -23251,10 +23251,10 @@
       "description": "Lightweight Rest API Client for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.2/file/rangav.vscode-thunder-client-1.13.2.vsix",
+      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.3/file/rangav.vscode-thunder-client-1.13.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+mjD9bgQPOPO2+KuGSIyfxpGUgDx/EUrfckZDEjI5fU="
+      "sha256": "sha256-2ZoIw5Xxyb6seR5nb41T7s1hZC299oK3yNj10JX+xQA="
     },
     "extract": null,
     "rustGitDeps": null
