@@ -13227,13 +13227,13 @@
   };
   paulbarre-klavaro = {
     pname = "paulbarre-klavaro";
-    version = "1.0.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/paulbarre/klavaro/1.0.0/file/paulbarre.klavaro-1.0.0.vsix";
-      sha256 = "sha256-2AAjMRd3nKNnLvSgRuVbttO8cXGd//75l0FImLzYgOE=";
+      url = "https://open-vsx.org/api/paulbarre/klavaro/2.0.0/file/paulbarre.klavaro-2.0.0.vsix";
+      sha256 = "sha256-FmaKpR7aO7EMy9ZrCNmRI0CtwioJMNWB6qJA3AZe7ic=";
     };
     name = "klavaro";
-    license = "GPL-3.0";
+    license = "MIT";
     publisher = "paulbarre";
     description = "Converts x-system character to Esperanto alphabet as typing.";
   };
