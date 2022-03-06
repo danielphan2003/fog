@@ -1248,7 +1248,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "awesome",
-    "version": "22dedf77dcb71d5d1ef2ec02ba27c075e7773d99",
+    "version": "392dbc21ab6bae98c5bab8db17b7fa7495b1e6a5",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1258,8 +1258,8 @@
       "name": null,
       "repo": "awesome",
       "type": "github",
-      "sha256": "sha256-GD0MxMU4tz5SbahL0+ADUQXNoq1fIxOSXiEwoObC0ng=",
-      "rev": "22dedf77dcb71d5d1ef2ec02ba27c075e7773d99"
+      "sha256": "sha256-JpG7tOtIfElDB4xjcjBFC4fE6Z0loZtP1mP8UOVVfyQ=",
+      "rev": "392dbc21ab6bae98c5bab8db17b7fa7495b1e6a5"
     },
     "extract": null,
     "rustGitDeps": null
