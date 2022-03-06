@@ -11067,10 +11067,10 @@
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
-    version = "1.4.7";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.4.7/file/marp-team.marp-vscode-1.4.7.vsix";
-      sha256 = "sha256-yLVpzTtsxb0IOFfT9cnFLuBLCZQMxwe9bz555O/z0IQ=";
+      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.5.0/file/marp-team.marp-vscode-1.5.0.vsix";
+      sha256 = "sha256-OzQb0mcVdBbcxuhhFFS1Pt5N1C8VJomUw3CBRT2wHfI=";
     };
     name = "marp-vscode";
     license = "MIT";
@@ -13923,10 +13923,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.13.1";
+    version = "1.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.1/file/rangav.vscode-thunder-client-1.13.1.vsix";
-      sha256 = "sha256-exi6NlvBdn8p/UaSzJ8xJsTopbBfAHccNJmXE2+/BP8=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.2/file/rangav.vscode-thunder-client-1.13.2.vsix";
+      sha256 = "sha256-+mjD9bgQPOPO2+KuGSIyfxpGUgDx/EUrfckZDEjI5fU=";
     };
     name = "vscode-thunder-client";
     license = "";

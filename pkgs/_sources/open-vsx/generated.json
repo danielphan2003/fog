@@ -8723,7 +8723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "marp-team-marp-vscode",
-    "version": "1.4.7",
+    "version": "1.5.0",
     "passthru": {
       "name": "marp-vscode",
       "license": "MIT",
@@ -8731,10 +8731,10 @@
       "description": "Create slide deck written in Marp Markdown on VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.4.7/file/marp-team.marp-vscode-1.4.7.vsix",
+      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.5.0/file/marp-team.marp-vscode-1.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yLVpzTtsxb0IOFfT9cnFLuBLCZQMxwe9bz555O/z0IQ="
+      "sha256": "sha256-OzQb0mcVdBbcxuhhFFS1Pt5N1C8VJomUw3CBRT2wHfI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23243,7 +23243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "rangav-vscode-thunder-client",
-    "version": "1.13.1",
+    "version": "1.13.2",
     "passthru": {
       "name": "vscode-thunder-client",
       "license": "",
@@ -23251,10 +23251,10 @@
       "description": "Lightweight Rest API Client for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.1/file/rangav.vscode-thunder-client-1.13.1.vsix",
+      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.2/file/rangav.vscode-thunder-client-1.13.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-exi6NlvBdn8p/UaSzJ8xJsTopbBfAHccNJmXE2+/BP8="
+      "sha256": "sha256-+mjD9bgQPOPO2+KuGSIyfxpGUgDx/EUrfckZDEjI5fU="
     },
     "extract": null,
     "rustGitDeps": null
