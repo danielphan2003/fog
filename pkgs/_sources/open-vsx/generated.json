@@ -15043,7 +15043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Sarrus-sourcepawn-vscode",
-    "version": "3.0.15",
+    "version": "3.1.0",
     "passthru": {
       "name": "sourcepawn-vscode",
       "license": "MIT",
@@ -15051,10 +15051,10 @@
       "description": "SourcePawn highlighting, autocompletion and much more"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.15/file/Sarrus.sourcepawn-vscode-3.0.15.vsix",
+      "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.1.0/file/Sarrus.sourcepawn-vscode-3.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-G0ZKNFpTYVGmjIAPIaI1uusUQ4UJLJGl35ujTEQXqh4="
+      "sha256": "sha256-3BzdbIkLRgi1fxaL0BVu8az+oDufEkhQfOSMff98X5k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16683,7 +16683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.3",
+    "version": "0.13.4",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16691,10 +16691,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.3/file/shufo.vscode-blade-formatter-0.13.3.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.4/file/shufo.vscode-blade-formatter-0.13.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BIQZTI8Vc7Pp1M3Ib8/ibZGYMQqKIVvVz5MEggL3pcs="
+      "sha256": "sha256-NXSW3ReF1gw0U9Gb3SQuzDLL02UJlTk6dXqMvNiuYv0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29783,7 +29783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.251",
+    "version": "2.0.252",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -29791,10 +29791,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.251/file/betterthantomorrow.calva-2.0.251.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.252/file/betterthantomorrow.calva-2.0.252.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Tr4I0ea47iE39vkBCMe+HUHCFGEhYMmqw1OkEXGhIKs="
+      "sha256": "sha256-cKdYBq6P/lIh99V0n1piioBPrWDxxLYU/Jeng6zAJI4="
     },
     "extract": null,
     "rustGitDeps": null

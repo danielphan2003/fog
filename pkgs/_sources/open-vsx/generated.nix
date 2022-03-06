@@ -2907,10 +2907,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "3.0.15";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.0.15/file/Sarrus.sourcepawn-vscode-3.0.15.vsix";
-      sha256 = "sha256-G0ZKNFpTYVGmjIAPIaI1uusUQ4UJLJGl35ujTEQXqh4=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.1.0/file/Sarrus.sourcepawn-vscode-3.1.0.vsix";
+      sha256 = "sha256-3BzdbIkLRgi1fxaL0BVu8az+oDufEkhQfOSMff98X5k=";
     };
     name = "sourcepawn-vscode";
     license = "MIT";
@@ -5115,10 +5115,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.251";
+    version = "2.0.252";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.251/file/betterthantomorrow.calva-2.0.251.vsix";
-      sha256 = "sha256-Tr4I0ea47iE39vkBCMe+HUHCFGEhYMmqw1OkEXGhIKs=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.252/file/betterthantomorrow.calva-2.0.252.vsix";
+      sha256 = "sha256-cKdYBq6P/lIh99V0n1piioBPrWDxxLYU/Jeng6zAJI4=";
     };
     name = "calva";
     license = "MIT";
@@ -15219,10 +15219,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.3";
+    version = "0.13.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.3/file/shufo.vscode-blade-formatter-0.13.3.vsix";
-      sha256 = "sha256-BIQZTI8Vc7Pp1M3Ib8/ibZGYMQqKIVvVz5MEggL3pcs=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.4/file/shufo.vscode-blade-formatter-0.13.4.vsix";
+      sha256 = "sha256-NXSW3ReF1gw0U9Gb3SQuzDLL02UJlTk6dXqMvNiuYv0=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
