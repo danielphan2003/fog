@@ -784,16 +784,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "1758aa0f1e38cae7e331bc4aa5f848df83a515d3";
+    version = "ab1805281f8813a6aa9a17b71c9a2a315fba5cbe";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "1758aa0f1e38cae7e331bc4aa5f848df83a515d3";
+      rev = "ab1805281f8813a6aa9a17b71c9a2a315fba5cbe";
       fetchSubmodules = false;
-      sha256 = "sha256-7X31gtNcjNaICFhDmUcNuo1lr8BTZ5FfKKrZyyphk48=";
+      sha256 = "sha256-zurU+toVVLQ4UsgOUDj3XNOnD8VQPk/0NRLpoIWpViU=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-1758aa0f1e38cae7e331bc4aa5f848df83a515d3/Cargo.lock;
+      lockFile = ./rustdesk-ab1805281f8813a6aa9a17b71c9a2a315fba5cbe/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1096,13 +1096,13 @@
   };
   wgcf = {
     pname = "wgcf";
-    version = "ecf3b62ea61eabe483625fd1cbd476a8fd994952";
+    version = "dc97b7df7b640739e1b233043f225f0a275dd129";
     src = fetchFromGitHub ({
       owner = "ViRb3";
       repo = "wgcf";
-      rev = "ecf3b62ea61eabe483625fd1cbd476a8fd994952";
+      rev = "dc97b7df7b640739e1b233043f225f0a275dd129";
       fetchSubmodules = false;
-      sha256 = "sha256-Dz19SlBTTCn73rnnU4PpZUbwcIpA6j2ODFYVAwTn7wI=";
+      sha256 = "sha256-VICCXUkiRMxHGSCO2qbRFP7umuyvakcPS4nBV2246HI=";
     });
   };
   whitesur-gtk-theme = {
