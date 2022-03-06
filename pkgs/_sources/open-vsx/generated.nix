@@ -11559,10 +11559,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.11.0";
+    version = "1.11.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.11.0/file/mintlify.document-1.11.0.vsix";
-      sha256 = "sha256-gnnELat0m7h/Rc2Hz5XZtdygCZXcB9UfJhfHfae1HjE=";
+      url = "https://open-vsx.org/api/mintlify/document/1.11.1/file/mintlify.document-1.11.1.vsix";
+      sha256 = "sha256-AH1rDi2K2AlrYjSOSN5Z6cKQOSDQzJ9fJoenkuoovKM=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -12099,10 +12099,10 @@
   };
   ms-vscode-references-view = {
     pname = "ms-vscode-references-view";
-    version = "0.0.85";
+    version = "0.0.86";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.85/file/ms-vscode.references-view-0.0.85.vsix";
-      sha256 = "sha256-Cb8PNJs+YCB3MtIj3E6i4r7nvv5vuEzpp2b8meR16yo=";
+      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.86/file/ms-vscode.references-view-0.0.86.vsix";
+      sha256 = "sha256-H2OEBO0rFJFyrMswcah8EVrhlEQCXePbecm5BOk1W0I=";
     };
     name = "references-view";
     license = "MIT";
@@ -12915,10 +12915,10 @@
   };
   oleg-shilo-favorites = {
     pname = "oleg-shilo-favorites";
-    version = "1.5.12";
+    version = "1.5.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.12/file/oleg-shilo.favorites-1.5.12.vsix";
-      sha256 = "sha256-dDf13/oKGJe/sYq+7cLcdHqBI8zF+EexH8iqH4M4YK4=";
+      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.13/file/oleg-shilo.favorites-1.5.13.vsix";
+      sha256 = "sha256-TL5WSLLSHrceun/Tm+mGteVrfiwmj9rM9x9DmA62H48=";
     };
     name = "favorites";
     license = "MIT";

@@ -2303,7 +2303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oleg-shilo-favorites",
-    "version": "1.5.12",
+    "version": "1.5.13",
     "passthru": {
       "name": "favorites",
       "license": "MIT",
@@ -2311,10 +2311,10 @@
       "description": "Manage and quickly access frequently used documents and documents' sets"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oleg-shilo/favorites/1.5.12/file/oleg-shilo.favorites-1.5.12.vsix",
+      "url": "https://open-vsx.org/api/oleg-shilo/favorites/1.5.13/file/oleg-shilo.favorites-1.5.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dDf13/oKGJe/sYq+7cLcdHqBI8zF+EexH8iqH4M4YK4="
+      "sha256": "sha256-TL5WSLLSHrceun/Tm+mGteVrfiwmj9rM9x9DmA62H48="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12563,7 +12563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.11.0",
+    "version": "1.11.1",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12571,10 +12571,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.11.0/file/mintlify.document-1.11.0.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/1.11.1/file/mintlify.document-1.11.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gnnELat0m7h/Rc2Hz5XZtdygCZXcB9UfJhfHfae1HjE="
+      "sha256": "sha256-AH1rDi2K2AlrYjSOSN5Z6cKQOSDQzJ9fJoenkuoovKM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29443,7 +29443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-references-view",
-    "version": "0.0.85",
+    "version": "0.0.86",
     "passthru": {
       "name": "references-view",
       "license": "MIT",
@@ -29451,10 +29451,10 @@
       "description": "Reference Search results as separate, stable view in the sidebar"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/references-view/0.0.85/file/ms-vscode.references-view-0.0.85.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/references-view/0.0.86/file/ms-vscode.references-view-0.0.86.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Cb8PNJs+YCB3MtIj3E6i4r7nvv5vuEzpp2b8meR16yo="
+      "sha256": "sha256-H2OEBO0rFJFyrMswcah8EVrhlEQCXePbecm5BOk1W0I="
     },
     "extract": null,
     "rustGitDeps": null
