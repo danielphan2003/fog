@@ -31323,7 +31323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.18.1",
+    "version": "0.18.2",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -31331,10 +31331,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.1/file/cyrusfirheir.twee3-language-tools-0.18.1.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.2/file/cyrusfirheir.twee3-language-tools-0.18.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WuEgvtS/rjn9lve2l6ll2DzkjLzFm9pAmbdNtyhgqMQ="
+      "sha256": "sha256-DuadzjllcpyePDGBIuyahXORaDtMfJ1Y6Xppwsv315I="
     },
     "extract": null,
     "rustGitDeps": null
