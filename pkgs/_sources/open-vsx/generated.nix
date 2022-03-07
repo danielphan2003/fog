@@ -2919,10 +2919,10 @@
   };
   SenseTime-kestrel = {
     pname = "SenseTime-kestrel";
-    version = "0.4.8";
+    version = "0.4.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.8/file/SenseTime.kestrel-0.4.8.vsix";
-      sha256 = "sha256-vLkq6rpab2Cl9GYmX3s0a90x8gbRziF6Uk7OikELOPE=";
+      url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.9/file/SenseTime.kestrel-0.4.9.vsix";
+      sha256 = "sha256-1BdL5IGA0GAPCgQ0rJIvZ5pG5Eu9i3wKeHxBjde8USs=";
     };
     name = "kestrel";
     license = "MIT";
@@ -8523,10 +8523,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.2.0";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.0/file/halcyontechltd.code-for-ibmi-1.2.0.vsix";
-      sha256 = "sha256-5aU7UXikZ4eX11Zzfe9xfmA2ESal7FXp9tmQLsj2RgM=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.2/file/halcyontechltd.code-for-ibmi-1.2.2.vsix";
+      sha256 = "sha256-cDGdRPpwnWn1FBvhvJq+wa2nmVJG36EKi0lT42fI8mE=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -10743,10 +10743,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "173.0.0";
+    version = "174.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/173.0.0/file/lextudio.restructuredtext-173.0.0.vsix";
-      sha256 = "sha256-Ksd49xs5rSsodyQ016OESpFD84H3vnGKFjEM7J8EICY=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/174.0.0/file/lextudio.restructuredtext-174.0.0.vsix";
+      sha256 = "sha256-lFOTiHeTBcbocJSgXqWmBlgxlwqiJNMt9B4MNJ/KZyQ=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12951,10 +12951,10 @@
   };
   onecentlin-laravel-blade = {
     pname = "onecentlin-laravel-blade";
-    version = "1.31.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.31.0/file/onecentlin.laravel-blade-1.31.0.vsix";
-      sha256 = "sha256-NAbDXpoBWN49orm6l9jXXkUrihZ/A5S2NSK6b4lQISI=";
+      url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.32.0/file/onecentlin.laravel-blade-1.32.0.vsix";
+      sha256 = "sha256-RAX+HROsoeVSJPFUF4a1xoix0HiQTSm+7k4D3rXMp9U=";
     };
     name = "laravel-blade";
     license = "MIT";
@@ -17271,10 +17271,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.21.0";
+    version = "0.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.21.0/file/vscjava.vscode-java-pack-0.21.0.vsix";
-      sha256 = "sha256-8zKy6+b4fzOg2gMgxZYxnWGT9SWCRdpgSaNEKiFPOOA=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.0/file/vscjava.vscode-java-pack-0.22.0.vsix";
+      sha256 = "sha256-F0McQEqNesSlLz++DnLI8fkOqq4MIw9J3QODx7v7J/E=";
     };
     name = "vscode-java-pack";
     license = "MIT";
