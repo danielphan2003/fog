@@ -5799,10 +5799,10 @@
   };
   codechecker-codechecker = {
     pname = "codechecker-codechecker";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codechecker/codechecker/1.2.0/file/codechecker.codechecker-1.2.0.vsix";
-      sha256 = "sha256-/TOWvWu/w9N/c15E/QSj0mSn5k6MiTf+scT7hJjOXyA=";
+      url = "https://open-vsx.org/api/codechecker/codechecker/1.3.0/file/codechecker.codechecker-1.3.0.vsix";
+      sha256 = "sha256-e6JCEy5M9P4WYfM4Wj+NibIk/ZiAtDhh4KH32AH7WqE=";
     };
     name = "codechecker";
     license = "Apache-2.0";
@@ -7131,10 +7131,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1934264";
+    version = "7.0.1944928";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1934264/file/eliostruyf.vscode-front-matter-beta-7.0.1934264.vsix";
-      sha256 = "sha256-1sMxO8c71hkmV7UbI7Jt9feO8kcg+2gBuVooAmnkK6g=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1944928/file/eliostruyf.vscode-front-matter-beta-7.0.1944928.vsix";
+      sha256 = "sha256-wQSks2qKkxFTt2P4M2ePbLxnIfuLtsx/xIv+dkorn9U=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -14115,10 +14115,10 @@
   };
   redhat-vscode-camelk = {
     pname = "redhat-vscode-camelk";
-    version = "0.0.28";
+    version = "0.0.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.28/file/redhat.vscode-camelk-0.0.28.vsix";
-      sha256 = "sha256-Ehe3B70rCxtS6JdJgsOJw3b44NDn78A/uMbs0D/8D3M=";
+      url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.29/file/redhat.vscode-camelk-0.0.29.vsix";
+      sha256 = "sha256-svA6F537sJTlhlY5W0uohkN/JEQpyMCbgqqCdkvguwM=";
     };
     name = "vscode-camelk";
     license = "Apache-2.0";

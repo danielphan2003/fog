@@ -9083,7 +9083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1934264",
+    "version": "7.0.1944928",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9091,10 +9091,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1934264/file/eliostruyf.vscode-front-matter-beta-7.0.1934264.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1944928/file/eliostruyf.vscode-front-matter-beta-7.0.1944928.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1sMxO8c71hkmV7UbI7Jt9feO8kcg+2gBuVooAmnkK6g="
+      "sha256": "sha256-wQSks2qKkxFTt2P4M2ePbLxnIfuLtsx/xIv+dkorn9U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21863,7 +21863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "codechecker-codechecker",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "passthru": {
       "name": "codechecker",
       "license": "Apache-2.0",
@@ -21871,10 +21871,10 @@
       "description": "CodeChecker integration for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/codechecker/codechecker/1.2.0/file/codechecker.codechecker-1.2.0.vsix",
+      "url": "https://open-vsx.org/api/codechecker/codechecker/1.3.0/file/codechecker.codechecker-1.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/TOWvWu/w9N/c15E/QSj0mSn5k6MiTf+scT7hJjOXyA="
+      "sha256": "sha256-e6JCEy5M9P4WYfM4Wj+NibIk/ZiAtDhh4KH32AH7WqE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26663,7 +26663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-camelk",
-    "version": "0.0.28",
+    "version": "0.0.29",
     "passthru": {
       "name": "vscode-camelk",
       "license": "Apache-2.0",
@@ -26671,10 +26671,10 @@
       "description": "VS Code support for Apache Camel K functionality"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-camelk/0.0.28/file/redhat.vscode-camelk-0.0.28.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-camelk/0.0.29/file/redhat.vscode-camelk-0.0.29.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ehe3B70rCxtS6JdJgsOJw3b44NDn78A/uMbs0D/8D3M="
+      "sha256": "sha256-svA6F537sJTlhlY5W0uohkN/JEQpyMCbgqqCdkvguwM="
     },
     "extract": null,
     "rustGitDeps": null
