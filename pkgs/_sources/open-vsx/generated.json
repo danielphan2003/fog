@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.84.3",
+    "version": "0.84.4",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.84.3/file/dendron.nightly-0.84.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.84.4/file/dendron.nightly-0.84.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZrP6KQ8l0XEAWsz2cME35aBTgyuD9qV5rb5g7PI3wCI="
+      "sha256": "sha256-W9EIaRxddXymfHpagS6i3DMk7jW0kxgX21Kb11MDMrg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8623,7 +8623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "muuvmuuv-vscode-sundial",
-    "version": "2.6.2",
+    "version": "3.0.0",
     "passthru": {
       "name": "vscode-sundial",
       "license": "GPLv3",
@@ -8631,10 +8631,10 @@
       "description": "Automatically change your theme and settings based on your sunset, sunrise, system appearance or other preferences!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/muuvmuuv/vscode-sundial/2.6.2/file/muuvmuuv.vscode-sundial-2.6.2.vsix",
+      "url": "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.0.0/file/muuvmuuv.vscode-sundial-3.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GjdjqTQs6TlueZ4/IGXFxOKICuS0diu1OM9LlKOZ3wQ="
+      "sha256": "sha256-5MWxtpZbpdPjnCu0Yttphu1Y08qHGTgz87FtR1HLpsQ="
     },
     "extract": null,
     "rustGitDeps": null

@@ -6675,10 +6675,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.84.3";
+    version = "0.84.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.84.3/file/dendron.nightly-0.84.3.vsix";
-      sha256 = "sha256-ZrP6KQ8l0XEAWsz2cME35aBTgyuD9qV5rb5g7PI3wCI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.84.4/file/dendron.nightly-0.84.4.vsix";
+      sha256 = "sha256-W9EIaRxddXymfHpagS6i3DMk7jW0kxgX21Kb11MDMrg=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -12423,10 +12423,10 @@
   };
   muuvmuuv-vscode-sundial = {
     pname = "muuvmuuv-vscode-sundial";
-    version = "2.6.2";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/2.6.2/file/muuvmuuv.vscode-sundial-2.6.2.vsix";
-      sha256 = "sha256-GjdjqTQs6TlueZ4/IGXFxOKICuS0diu1OM9LlKOZ3wQ=";
+      url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.0.0/file/muuvmuuv.vscode-sundial-3.0.0.vsix";
+      sha256 = "sha256-5MWxtpZbpdPjnCu0Yttphu1Y08qHGTgz87FtR1HLpsQ=";
     };
     name = "vscode-sundial";
     license = "GPLv3";
