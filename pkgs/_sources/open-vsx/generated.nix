@@ -1563,10 +1563,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "5.11.0";
+    version = "5.11.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.0/file/Ionide.Ionide-fsharp-5.11.0.vsix";
-      sha256 = "sha256-8a9gvBVQA11GcVO/MLGYDDxn2O8xAi9xdCayec362Ns=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.1/file/Ionide.Ionide-fsharp-5.11.1.vsix";
+      sha256 = "sha256-D8JC+Y2Ep6K6//8BO87nUo4tSdcJocaLAaT5RkI8Z7A=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -4455,10 +4455,10 @@
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
-    version = "3.0.1";
+    version = "3.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/3.0.1/file/anweber.httpbook-3.0.1.vsix";
-      sha256 = "sha256-4d+8q0vR/DnvIBLL9UFH9psQkdFfaXtOeG90rLM6uss=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.0.2/file/anweber.httpbook-3.0.2.vsix";
+      sha256 = "sha256-/C6e5+dH9qt9NnAejbm039Wdbhm7Gohpgfl3Dh75u64=";
     };
     name = "httpbook";
     license = "MIT";
@@ -5833,18 +5833,6 @@
     publisher = "coderoad";
     description = "Play interactive coding tutorials in your editor";
   };
-  codesee-maps = {
-    pname = "codesee-maps";
-    version = "1.1.1";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/codesee/maps/1.1.1/file/codesee.maps-1.1.1.vsix";
-      sha256 = "sha256-f4Sj3uG7TeKe9gwQfYcmluh/VvJtP/wSV86SDIVFPVM=";
-    };
-    name = "maps";
-    license = "UNLICENSED";
-    publisher = "codesee";
-    description = "Interactive code reviews with Review Maps";
-  };
   codespaces-contrib-codeswing = {
     pname = "codespaces-contrib-codeswing";
     version = "0.0.21";
@@ -7131,10 +7119,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1944928";
+    version = "7.0.1947617";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1944928/file/eliostruyf.vscode-front-matter-beta-7.0.1944928.vsix";
-      sha256 = "sha256-wQSks2qKkxFTt2P4M2ePbLxnIfuLtsx/xIv+dkorn9U=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1947617/file/eliostruyf.vscode-front-matter-beta-7.0.1947617.vsix";
+      sha256 = "sha256-mGITmMKQ1HkUtTHlprIIo3L5leGAeCL27trQUoJadBY=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";

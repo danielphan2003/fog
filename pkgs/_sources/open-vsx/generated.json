@@ -1543,7 +1543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-httpbook",
-    "version": "3.0.1",
+    "version": "3.0.2",
     "passthru": {
       "name": "httpbook",
       "license": "MIT",
@@ -1551,10 +1551,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/httpbook/3.0.1/file/anweber.httpbook-3.0.1.vsix",
+      "url": "https://open-vsx.org/api/anweber/httpbook/3.0.2/file/anweber.httpbook-3.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4d+8q0vR/DnvIBLL9UFH9psQkdFfaXtOeG90rLM6uss="
+      "sha256": "sha256-/C6e5+dH9qt9NnAejbm039Wdbhm7Gohpgfl3Dh75u64="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1675,26 +1675,6 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-HSr7T0vscArBiOQhFvVW/ueBmlyOMMEUMUNphwEmHxc="
-    },
-    "extract": null,
-    "rustGitDeps": null
-  },
-  "codesee-maps": {
-    "pinned": false,
-    "cargoLock": null,
-    "name": "codesee-maps",
-    "version": "1.1.1",
-    "passthru": {
-      "name": "maps",
-      "license": "UNLICENSED",
-      "publisher": "codesee",
-      "description": "Interactive code reviews with Review Maps"
-    },
-    "src": {
-      "url": "https://open-vsx.org/api/codesee/maps/1.1.1/file/codesee.maps-1.1.1.vsix",
-      "name": null,
-      "type": "url",
-      "sha256": "sha256-f4Sj3uG7TeKe9gwQfYcmluh/VvJtP/wSV86SDIVFPVM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9083,7 +9063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1944928",
+    "version": "7.0.1947617",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9091,10 +9071,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1944928/file/eliostruyf.vscode-front-matter-beta-7.0.1944928.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1947617/file/eliostruyf.vscode-front-matter-beta-7.0.1947617.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wQSks2qKkxFTt2P4M2ePbLxnIfuLtsx/xIv+dkorn9U="
+      "sha256": "sha256-mGITmMKQ1HkUtTHlprIIo3L5leGAeCL27trQUoJadBY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28783,7 +28763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "5.11.0",
+    "version": "5.11.1",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -28791,10 +28771,10 @@
       "description": "F# Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.0/file/Ionide.Ionide-fsharp-5.11.0.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.1/file/Ionide.Ionide-fsharp-5.11.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8a9gvBVQA11GcVO/MLGYDDxn2O8xAi9xdCayec362Ns="
+      "sha256": "sha256-D8JC+Y2Ep6K6//8BO87nUo4tSdcJocaLAaT5RkI8Z7A="
     },
     "extract": null,
     "rustGitDeps": null
