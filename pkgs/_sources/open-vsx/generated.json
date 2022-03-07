@@ -11703,7 +11703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ocamllabs-ocaml-platform",
-    "version": "1.9.5",
+    "version": "1.10.0",
     "passthru": {
       "name": "ocaml-platform",
       "license": "MIT",
@@ -11711,10 +11711,10 @@
       "description": "Official OCaml language extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.5/file/ocamllabs.ocaml-platform-1.9.5.vsix",
+      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.0/file/ocamllabs.ocaml-platform-1.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-u4WV07wmwjqMwE05M5NZ8/6vPj2M3Lygw1oSMj8A+CY="
+      "sha256": "sha256-c7TzlgQDenCzryfGx80pfCF5WHSWedjvd8mzIXQjIGg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27315,6 +27315,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-GaFqDlu9v/yvQ4VB0TD/UQW3qRsESM8F7ZsSiFigNeI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "astro-build-astro-vscode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "astro-build-astro-vscode",
+    "version": "0.9.3",
+    "passthru": {
+      "name": "astro-vscode",
+      "license": "MIT",
+      "publisher": "astro-build",
+      "description": "Language support for Astro"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.9.3/file/astro-build.astro-vscode-0.9.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-/dT1YMIl04kEAzkoiOJ16t3lkHsknSw7DotcaOholls="
     },
     "extract": null,
     "rustGitDeps": null
