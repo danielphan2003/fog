@@ -13719,10 +13719,10 @@
   };
   projektanker-code-butler = {
     pname = "projektanker-code-butler";
-    version = "1.4.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/projektanker/code-butler/1.4.0/file/projektanker.code-butler-1.4.0.vsix";
-      sha256 = "sha256-DWugFeO95WBPccJaZEFL+cDhZRDdHtq/G4T0wQNREbY=";
+      url = "https://open-vsx.org/api/projektanker/code-butler/2.0.0/file/projektanker.code-butler-2.0.0.vsix";
+      sha256 = "sha256-U+2q9apdCOIGHlTY5FmEk8otryrltNQxAPofcZDhuzs=";
     };
     name = "code-butler";
     license = "MIT";
@@ -14919,10 +14919,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.11.1";
+    version = "1.11.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.1/file/sasjs.sasjs-for-vscode-1.11.1.vsix";
-      sha256 = "sha256-wBMt+UdnGJXohujKl2P3H8yATnCsw84sqazADWfLsgE=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.2/file/sasjs.sasjs-for-vscode-1.11.2.vsix";
+      sha256 = "sha256-DtCsVqhmN3A4wGTD0WnTLk4iq62NG884WGzAn2GpuX8=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";

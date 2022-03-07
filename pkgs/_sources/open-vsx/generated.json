@@ -26623,7 +26623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "projektanker-code-butler",
-    "version": "1.4.0",
+    "version": "2.0.0",
     "passthru": {
       "name": "code-butler",
       "license": "MIT",
@@ -26631,10 +26631,10 @@
       "description": "Code Butler for C# files to clean up your code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/projektanker/code-butler/1.4.0/file/projektanker.code-butler-1.4.0.vsix",
+      "url": "https://open-vsx.org/api/projektanker/code-butler/2.0.0/file/projektanker.code-butler-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DWugFeO95WBPccJaZEFL+cDhZRDdHtq/G4T0wQNREbY="
+      "sha256": "sha256-U+2q9apdCOIGHlTY5FmEk8otryrltNQxAPofcZDhuzs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28583,7 +28583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.11.1",
+    "version": "1.11.2",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
@@ -28591,10 +28591,10 @@
       "description": "Execute SAS code on your server from VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.1/file/sasjs.sasjs-for-vscode-1.11.1.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.2/file/sasjs.sasjs-for-vscode-1.11.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wBMt+UdnGJXohujKl2P3H8yATnCsw84sqazADWfLsgE="
+      "sha256": "sha256-DtCsVqhmN3A4wGTD0WnTLk4iq62NG884WGzAn2GpuX8="
     },
     "extract": null,
     "rustGitDeps": null
