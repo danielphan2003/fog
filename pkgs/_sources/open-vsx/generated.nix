@@ -4813,6 +4813,18 @@
     publisher = "assisrMatheus";
     description = "Take notes in your sidebar using markdown";
   };
+  astro-build-astro-vscode = {
+    pname = "astro-build-astro-vscode";
+    version = "0.9.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.9.3/file/astro-build.astro-vscode-0.9.3.vsix";
+      sha256 = "sha256-/dT1YMIl04kEAzkoiOJ16t3lkHsknSw7DotcaOholls=";
+    };
+    name = "astro-vscode";
+    license = "MIT";
+    publisher = "astro-build";
+    description = "Language support for Astro";
+  };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
     version = "0.0.83";
@@ -12843,10 +12855,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.9.5";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.9.5/file/ocamllabs.ocaml-platform-1.9.5.vsix";
-      sha256 = "sha256-u4WV07wmwjqMwE05M5NZ8/6vPj2M3Lygw1oSMj8A+CY=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.0/file/ocamllabs.ocaml-platform-1.10.0.vsix";
+      sha256 = "sha256-c7TzlgQDenCzryfGx80pfCF5WHSWedjvd8mzIXQjIGg=";
     };
     name = "ocaml-platform";
     license = "MIT";
