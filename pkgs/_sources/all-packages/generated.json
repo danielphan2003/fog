@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-638-gd6299516",
+    "version": "2.1-639-g7f711667",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-638-gd6299516-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-639-g7f711667-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JtD5tcM0ZwldZKhkfxvQnzgMp/HdC1+0eMQXigXjhMA="
+      "sha256": "sha256-WukA2NpywM0j0fmw62A3JYXMd4DAxt5PY5s3OuzopOY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2057,9 +2057,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-dfd128c817c20081673fd0b82bd2b51f6f90919a/Cargo.lock",
+    "cargoLock": "./rustdesk-617f87a797a2f0a0029303e6e8555885c1d57625/Cargo.lock",
     "name": "rustdesk",
-    "version": "dfd128c817c20081673fd0b82bd2b51f6f90919a",
+    "version": "617f87a797a2f0a0029303e6e8555885c1d57625",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,8 +2069,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-ft5G9dZa1KNAfV2mY1r7unK1no5MDRZhNQqM/weyn4A=",
-      "rev": "dfd128c817c20081673fd0b82bd2b51f6f90919a"
+      "sha256": "sha256-qvOV0KNBBworH81HD328ZxjPeZ5lyeRgdT/Z5gTzhLM=",
+      "rev": "617f87a797a2f0a0029303e6e8555885c1d57625"
     },
     "extract": null,
     "rustGitDeps": {
