@@ -13371,10 +13371,10 @@
   };
   piersdeseilligny-betterfountain = {
     pname = "piersdeseilligny-betterfountain";
-    version = "1.9.1";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piersdeseilligny/betterfountain/1.9.1/file/piersdeseilligny.betterfountain-1.9.1.vsix";
-      sha256 = "sha256-5c5b+qvIIaDeMT3W0xnxsyG1U9Db+yLBXnGEKyQzYrI=";
+      url = "https://open-vsx.org/api/piersdeseilligny/betterfountain/1.10.0/file/piersdeseilligny.betterfountain-1.10.0.vsix";
+      sha256 = "sha256-flC19Kts/8M35+gWiQLTBxlVtox7eOyaEoe04iMmiIU=";
     };
     name = "betterfountain";
     license = "MIT";
