@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "22d75b1f6b40211e4bed71ec1396280a213a60cb",
+    "version": "7420955fa00fcb30a66e67a8a9fad748d3365be6",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-p9QbS1Tcusk4ss9uj+R5cVTOOoUrDsLpYedtcRHogLA=",
-      "rev": "22d75b1f6b40211e4bed71ec1396280a213a60cb"
+      "sha256": "sha256-mkkueAPwuMEy5aCicuZ8E0yobkAM7K3mxP9uzBEE3Wc=",
+      "rev": "7420955fa00fcb30a66e67a8a9fad748d3365be6"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1548,7 +1548,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "1cad7379e4d7e502f2cbf742b3d48738ad59a2e6",
+    "version": "60aabc423b3f4105dc154a00470abaf9dccd204f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1558,8 +1558,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-LNuXvAGwPq5Daf3M8rCymDbHiMBGvm9C9y0G8Ovh42k=",
-      "rev": "1cad7379e4d7e502f2cbf742b3d48738ad59a2e6"
+      "sha256": "sha256-yZ30B4Ec7pX9DWry4AbP/FzBu6IbWCswaeViV4ilNcg=",
+      "rev": "60aabc423b3f4105dc154a00470abaf9dccd204f"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1923,7 +1923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dnscrypt-proxy2",
-    "version": "d30c44a6a8d1eb49ffff773f12e08855cf585f41",
+    "version": "08420917a5ac86e295b040a869c0bd970856c392",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1933,8 +1933,8 @@
       "name": null,
       "repo": "dnscrypt-proxy",
       "type": "github",
-      "sha256": "sha256-vwZDvwLYvbGkYezxQRKEX1+JuFrVMAaLl/j2c7VSjsE=",
-      "rev": "d30c44a6a8d1eb49ffff773f12e08855cf585f41"
+      "sha256": "sha256-Th36g1hM161AvnNaX9oDu8DTmTvKAGdHNakpo7DE5fg=",
+      "rev": "08420917a5ac86e295b040a869c0bd970856c392"
     },
     "extract": null,
     "rustGitDeps": null
