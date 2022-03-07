@@ -6267,15 +6267,15 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.6.0";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.6.0/file/d-biehl.robotcode-0.6.0.vsix";
-      sha256 = "sha256-J+udiCzLASeyriLBU3vZhsdbc+i8ND4TQLYlRgER7wY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.0/file/d-biehl.robotcode-0.7.0.vsix";
+      sha256 = "sha256-qbvbOu1NzT8zz+Mp/O9zkIBeFm7LEtWvW5wHAgaKbqo=";
     };
     name = "robotcode";
     license = "Apache-2.0";
     publisher = "d-biehl";
-    description = "Robot Framework support for Visual Studio Code";
+    description = "RobotFramework support for Visual Studio Code";
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
