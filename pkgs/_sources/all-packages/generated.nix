@@ -998,10 +998,10 @@
   };
   trackma = {
     pname = "trackma";
-    version = "d7e352374cdc5e84c3aeb363d4e08184ae90af43";
+    version = "78d0499be7ac66276a2c4fe527a68edc7f82bbf8";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
-      sha256 = "sha256-KIjC87SiP0q2kmRKY0SiuBVkJ+v6yN3tsZrpGSEvfjA=";
+      sha256 = "sha256-nnHN5+XG875YW4jbuK+/HqR7/XYswM6mrwgTvaZpxlg=";
     };
   };
   ulauncher = {
