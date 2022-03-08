@@ -9083,7 +9083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.28.1",
+    "version": "2.29.0",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -9091,10 +9091,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.1/file/RokuCommunity.brightscript-2.28.1.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.0/file/RokuCommunity.brightscript-2.29.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jmotlbGrbL3emFQLkxg1hNAv0FeB52zps6+CLKi9qko="
+      "sha256": "sha256-AF5s9jCntZC4F7SifYSCO+G96sJmJ+RwqYgR+eZr+IU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23503,7 +23503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "evilz-vscode-reveal",
-    "version": "4.1.1",
+    "version": "4.1.2",
     "passthru": {
       "name": "vscode-reveal",
       "license": "MIT",
@@ -23511,10 +23511,10 @@
       "description": "Show markdown as revealJs presentation"
     },
     "src": {
-      "url": "https://open-vsx.org/api/evilz/vscode-reveal/4.1.1/file/evilz.vscode-reveal-4.1.1.vsix",
+      "url": "https://open-vsx.org/api/evilz/vscode-reveal/4.1.2/file/evilz.vscode-reveal-4.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bqavSCTgl4W6z0kQWLu9nvBvzOZ1DxBb7XAs3W3JlPs="
+      "sha256": "sha256-PiRjteALbmNWSBCxXgUCE3tUer6WwXWVB5ZcN/tZ24Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28743,7 +28743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "unoplatform-vscode",
-    "version": "0.2.5",
+    "version": "0.3.0",
     "passthru": {
       "name": "vscode",
       "license": "",
@@ -28751,10 +28751,10 @@
       "description": "Uno Platform Projects XAML Completion and Hot Reload support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/unoplatform/vscode/0.2.5/file/unoplatform.vscode-0.2.5.vsix",
+      "url": "https://open-vsx.org/api/unoplatform/vscode/0.3.0/file/unoplatform.vscode-0.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3qOwSqPw8lwa+iItDWDCLUjtvyiaY1+knwUgzmRUubQ="
+      "sha256": "sha256-mJcO5/P+61MB90CA79wByqDQtfhwJCfZp9Hdt8fVBSg="
     },
     "extract": null,
     "rustGitDeps": null

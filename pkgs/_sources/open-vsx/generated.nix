@@ -2847,10 +2847,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.28.1";
+    version = "2.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.28.1/file/RokuCommunity.brightscript-2.28.1.vsix";
-      sha256 = "sha256-jmotlbGrbL3emFQLkxg1hNAv0FeB52zps6+CLKi9qko=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.0/file/RokuCommunity.brightscript-2.29.0.vsix";
+      sha256 = "sha256-AF5s9jCntZC4F7SifYSCO+G96sJmJ+RwqYgR+eZr+IU=";
     };
     name = "brightscript";
     license = "MIT";
@@ -7491,10 +7491,10 @@
   };
   evilz-vscode-reveal = {
     pname = "evilz-vscode-reveal";
-    version = "4.1.1";
+    version = "4.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.1.1/file/evilz.vscode-reveal-4.1.1.vsix";
-      sha256 = "sha256-bqavSCTgl4W6z0kQWLu9nvBvzOZ1DxBb7XAs3W3JlPs=";
+      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.1.2/file/evilz.vscode-reveal-4.1.2.vsix";
+      sha256 = "sha256-PiRjteALbmNWSBCxXgUCE3tUer6WwXWVB5ZcN/tZ24Y=";
     };
     name = "vscode-reveal";
     license = "MIT";
@@ -16875,10 +16875,10 @@
   };
   unoplatform-vscode = {
     pname = "unoplatform-vscode";
-    version = "0.2.5";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unoplatform/vscode/0.2.5/file/unoplatform.vscode-0.2.5.vsix";
-      sha256 = "sha256-3qOwSqPw8lwa+iItDWDCLUjtvyiaY1+knwUgzmRUubQ=";
+      url = "https://open-vsx.org/api/unoplatform/vscode/0.3.0/file/unoplatform.vscode-0.3.0.vsix";
+      sha256 = "sha256-mJcO5/P+61MB90CA79wByqDQtfhwJCfZp9Hdt8fVBSg=";
     };
     name = "vscode";
     license = "";
