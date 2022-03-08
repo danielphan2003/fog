@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.84.4",
+    "version": "0.84.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.84.4/file/dendron.nightly-0.84.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.84.5/file/dendron.nightly-0.84.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-W9EIaRxddXymfHpagS6i3DMk7jW0kxgX21Kb11MDMrg="
+      "sha256": "sha256-Jvae6DA6u6ttRg+gSAXD0kfhCt7ToW1bIX44ag15RlU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7043,7 +7043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PKief-material-icon-theme",
-    "version": "4.14.0",
+    "version": "4.14.1",
     "passthru": {
       "name": "material-icon-theme",
       "license": "MIT",
@@ -7051,10 +7051,10 @@
       "description": "Material Design Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.14.0/file/PKief.material-icon-theme-4.14.0.vsix",
+      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.14.1/file/PKief.material-icon-theme-4.14.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lh0zRxLUTWnxPr9zGjtEjzxyWtJuM1VbTQT2lvUkJoU="
+      "sha256": "sha256-OHXi0EfeyKMeFiMU5yg0aDoWds4ED0lb+l6T12XZ3LQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9063,7 +9063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1947617",
+    "version": "7.0.1950198",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9071,10 +9071,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1947617/file/eliostruyf.vscode-front-matter-beta-7.0.1947617.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1950198/file/eliostruyf.vscode-front-matter-beta-7.0.1950198.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mGITmMKQ1HkUtTHlprIIo3L5leGAeCL27trQUoJadBY="
+      "sha256": "sha256-0g77jzTAQzp7uQ19PGskk7e5yQL9iKX42QiksQqIZxo="
     },
     "extract": null,
     "rustGitDeps": null
