@@ -5271,10 +5271,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.3.8";
+    version = "2022.3.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.8/file/borkdude.clj-kondo-2022.3.8.vsix";
-      sha256 = "sha256-32kaACMwv8TAzxJiuAkEjLj+wrLRgNJKDiiYTNpZY+E=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.9/file/borkdude.clj-kondo-2022.3.9.vsix";
+      sha256 = "sha256-+F6+R9ALFZhN/Jtb+DBzUImSY3wrTpaPperOWEAOmOc=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -7131,10 +7131,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1950198";
+    version = "7.0.1951295";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1950198/file/eliostruyf.vscode-front-matter-beta-7.0.1950198.vsix";
-      sha256 = "sha256-0g77jzTAQzp7uQ19PGskk7e5yQL9iKX42QiksQqIZxo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1951295/file/eliostruyf.vscode-front-matter-beta-7.0.1951295.vsix";
+      sha256 = "sha256-VLtKM7XctPQaMcu5TfTUPTwM6WZn9bYhGch4HAmcP2I=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -14319,10 +14319,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.5.0/file/redhat.vscode-yaml-1.5.0.vsix";
-      sha256 = "sha256-ZnVqhkF0HlV1gX/W99jjgL9uIlL5KnuUqFQVgh2uSTY=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.5.1/file/redhat.vscode-yaml-1.5.1.vsix";
+      sha256 = "sha256-JXhmgBFZdKNjgX6K7U+M/T7HEmIOBQOzQEJ5957TUuM=";
     };
     name = "vscode-yaml";
     license = "MIT";
@@ -15636,6 +15636,18 @@
     license = "MIT";
     publisher = "standard";
     description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.";
+  };
+  statelyai-stately-vscode = {
+    pname = "statelyai-stately-vscode";
+    version = "1.7.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.2/file/statelyai.stately-vscode-1.7.2.vsix";
+      sha256 = "sha256-xD2ZYsAYwxmCoo+wJ8I7iDaRnbFTvq1+avNci2OQV7M=";
+    };
+    name = "stately-vscode";
+    license = "MIT";
+    publisher = "statelyai";
+    description = "Visual editing, autocomplete and typegen for XState";
   };
   steedos-steedosdx-vscode = {
     pname = "steedos-steedosdx-vscode";
