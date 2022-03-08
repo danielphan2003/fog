@@ -9063,7 +9063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1951494",
+    "version": "7.0.1952492",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9071,10 +9071,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1951494/file/eliostruyf.vscode-front-matter-beta-7.0.1951494.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1952492/file/eliostruyf.vscode-front-matter-beta-7.0.1952492.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Y5qLWr5xsEqs5mUCtFzP4HHJ+kalcXm2aZIbCtAPwpY="
+      "sha256": "sha256-BTfbIEBHWGxZfhI6/D5zwyHoVxPERlfmIJINKalCc7E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12479,6 +12479,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "c-jaenicke-meitnerium-theme": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "c-jaenicke-meitnerium-theme",
+    "version": "0.2.1",
+    "passthru": {
+      "name": "meitnerium-theme",
+      "license": "MIT",
+      "publisher": "c-jaenicke",
+      "description": "Custom color theme for VS Code - Flat dark with blue"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/c-jaenicke/meitnerium-theme/0.2.1/file/c-jaenicke.meitnerium-theme-0.2.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-9SZG1F4vvYNsOiM30un+qHeJ70yNY9kF8Zt/8boYUGA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "idleberg-textile": {
     "pinned": false,
     "cargoLock": null,
@@ -15843,7 +15863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15851,10 +15871,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.2/file/halcyontechltd.code-for-ibmi-1.2.2.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.3/file/halcyontechltd.code-for-ibmi-1.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cDGdRPpwnWn1FBvhvJq+wa2nmVJG36EKi0lT42fI8mE="
+      "sha256": "sha256-/I4YzL0WT/Y+pvFxV+e6dwRy7m5e8Fmuj5VXE+1vTiU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19603,7 +19623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ritwickdey-LiveServer",
-    "version": "5.7.4",
+    "version": "5.7.5",
     "passthru": {
       "name": "LiveServer",
       "license": "MIT",
@@ -19611,10 +19631,10 @@
       "description": "Launch a development local Server with live reload feature for static & dynamic pages"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.4/file/ritwickdey.LiveServer-5.7.4.vsix",
+      "url": "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.5/file/ritwickdey.LiveServer-5.7.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fkn61huZJdeYH3tde5pDuBI5jgLsCFSa895gJ0J7r6M="
+      "sha256": "sha256-masfEbq+dAVO3JOJyMZ9TwHzULaK3KYJQrnmFbCPZ6U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22603,7 +22623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.84.0",
+    "version": "0.85.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -22611,10 +22631,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.84.0/file/dendron.dendron-0.84.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.85.0/file/dendron.dendron-0.85.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UXQDnywo0sR+1oX20/ettVXnl6oLvxU73/FX13Jb9nA="
+      "sha256": "sha256-SErDZCkS8F3LB1k8T4GmMVgqEF1bAyhDB8/5Kuc0OLs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30083,7 +30103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmd-stm32-for-vscode",
-    "version": "3.2.0",
+    "version": "3.2.1",
     "passthru": {
       "name": "stm32-for-vscode",
       "license": "MIT",
@@ -30091,10 +30111,10 @@
       "description": "An extension for: setting up, compiling, uploading and debugging STM32 applications"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.0/file/bmd.stm32-for-vscode-3.2.0.vsix",
+      "url": "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.1/file/bmd.stm32-for-vscode-3.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-x9iSnbgHY9VwFjs9oYLL5TsmIlRrJ7UmsOS2NlQRDvI="
+      "sha256": "sha256-/gDG+Q6kaZZ05oSdPfjvvqV6UaUfmqp6KhclkbwRLCk="
     },
     "extract": null,
     "rustGitDeps": null
