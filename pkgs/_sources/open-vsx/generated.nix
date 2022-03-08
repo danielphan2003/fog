@@ -5223,10 +5223,10 @@
   };
   bmd-stm32-for-vscode = {
     pname = "bmd-stm32-for-vscode";
-    version = "3.2.0";
+    version = "3.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.0/file/bmd.stm32-for-vscode-3.2.0.vsix";
-      sha256 = "sha256-x9iSnbgHY9VwFjs9oYLL5TsmIlRrJ7UmsOS2NlQRDvI=";
+      url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.1/file/bmd.stm32-for-vscode-3.2.1.vsix";
+      sha256 = "sha256-/gDG+Q6kaZZ05oSdPfjvvqV6UaUfmqp6KhclkbwRLCk=";
     };
     name = "stm32-for-vscode";
     license = "MIT";
@@ -5460,6 +5460,18 @@
     license = "UNLICENSED";
     publisher = "byi8220";
     description = "Highlights everything covered by the currently selected line's indentation level.";
+  };
+  c-jaenicke-meitnerium-theme = {
+    pname = "c-jaenicke-meitnerium-theme";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/c-jaenicke/meitnerium-theme/0.2.1/file/c-jaenicke.meitnerium-theme-0.2.1.vsix";
+      sha256 = "sha256-9SZG1F4vvYNsOiM30un+qHeJ70yNY9kF8Zt/8boYUGA=";
+    };
+    name = "meitnerium-theme";
+    license = "MIT";
+    publisher = "c-jaenicke";
+    description = "Custom color theme for VS Code - Flat dark with blue";
   };
   c4deszes-ldf-syntax = {
     pname = "c4deszes-ldf-syntax";
@@ -6591,10 +6603,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.84.0";
+    version = "0.85.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.84.0/file/dendron.dendron-0.84.0.vsix";
-      sha256 = "sha256-UXQDnywo0sR+1oX20/ettVXnl6oLvxU73/FX13Jb9nA=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.85.0/file/dendron.dendron-0.85.0.vsix";
+      sha256 = "sha256-SErDZCkS8F3LB1k8T4GmMVgqEF1bAyhDB8/5Kuc0OLs=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -7131,10 +7143,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1951494";
+    version = "7.0.1952492";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1951494/file/eliostruyf.vscode-front-matter-beta-7.0.1951494.vsix";
-      sha256 = "sha256-Y5qLWr5xsEqs5mUCtFzP4HHJ+kalcXm2aZIbCtAPwpY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1952492/file/eliostruyf.vscode-front-matter-beta-7.0.1952492.vsix";
+      sha256 = "sha256-BTfbIEBHWGxZfhI6/D5zwyHoVxPERlfmIJINKalCc7E=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -8523,10 +8535,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.2/file/halcyontechltd.code-for-ibmi-1.2.2.vsix";
-      sha256 = "sha256-cDGdRPpwnWn1FBvhvJq+wa2nmVJG36EKi0lT42fI8mE=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.3/file/halcyontechltd.code-for-ibmi-1.2.3.vsix";
+      sha256 = "sha256-/I4YzL0WT/Y+pvFxV+e6dwRy7m5e8Fmuj5VXE+1vTiU=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -14427,10 +14439,10 @@
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
-    version = "5.7.4";
+    version = "5.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.4/file/ritwickdey.LiveServer-5.7.4.vsix";
-      sha256 = "sha256-fkn61huZJdeYH3tde5pDuBI5jgLsCFSa895gJ0J7r6M=";
+      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.5/file/ritwickdey.LiveServer-5.7.5.vsix";
+      sha256 = "sha256-masfEbq+dAVO3JOJyMZ9TwHzULaK3KYJQrnmFbCPZ6U=";
     };
     name = "LiveServer";
     license = "MIT";
