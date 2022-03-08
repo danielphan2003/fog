@@ -5271,10 +5271,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.3.4";
+    version = "2022.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.4/file/borkdude.clj-kondo-2022.3.4.vsix";
-      sha256 = "sha256-3NUYkDSvjn1YV1BHEbkSpLXkpDTRplzUPo5AzdqpRY0=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.8/file/borkdude.clj-kondo-2022.3.8.vsix";
+      sha256 = "sha256-32kaACMwv8TAzxJiuAkEjLj+wrLRgNJKDiiYTNpZY+E=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -13611,10 +13611,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.296";
+    version = "0.25.297";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.296/file/pokey.cursorless-0.25.296.vsix";
-      sha256 = "sha256-pLXvFs77wlF2gVYWrLVQuejmD84WHSVqhReOzu8t27k=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.297/file/pokey.cursorless-0.25.297.vsix";
+      sha256 = "sha256-dTrPrkdCBh7h3bjZWgNvmv9+pfCh/BjnYup01+UT2aE=";
     };
     name = "cursorless";
     license = "MIT";
@@ -14115,10 +14115,10 @@
   };
   redhat-vscode-camelk = {
     pname = "redhat-vscode-camelk";
-    version = "0.0.29";
+    version = "0.0.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.29/file/redhat.vscode-camelk-0.0.29.vsix";
-      sha256 = "sha256-svA6F537sJTlhlY5W0uohkN/JEQpyMCbgqqCdkvguwM=";
+      url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.30/file/redhat.vscode-camelk-0.0.30.vsix";
+      sha256 = "sha256-wDamudFyzmUOkIL/0O8pYysj7ckftnmyLuiq/X6MubM=";
     };
     name = "vscode-camelk";
     license = "Apache-2.0";

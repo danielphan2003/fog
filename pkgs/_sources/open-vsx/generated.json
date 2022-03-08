@@ -12303,7 +12303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.296",
+    "version": "0.25.297",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12311,10 +12311,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.296/file/pokey.cursorless-0.25.296.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.297/file/pokey.cursorless-0.25.297.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pLXvFs77wlF2gVYWrLVQuejmD84WHSVqhReOzu8t27k="
+      "sha256": "sha256-dTrPrkdCBh7h3bjZWgNvmv9+pfCh/BjnYup01+UT2aE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25163,7 +25163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "borkdude-clj-kondo",
-    "version": "2022.3.4",
+    "version": "2022.3.8",
     "passthru": {
       "name": "clj-kondo",
       "license": "EPL-1",
@@ -25171,10 +25171,10 @@
       "description": "Clj-kondo, a linter for Clojure that sparks joy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.4/file/borkdude.clj-kondo-2022.3.4.vsix",
+      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.8/file/borkdude.clj-kondo-2022.3.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3NUYkDSvjn1YV1BHEbkSpLXkpDTRplzUPo5AzdqpRY0="
+      "sha256": "sha256-32kaACMwv8TAzxJiuAkEjLj+wrLRgNJKDiiYTNpZY+E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26643,7 +26643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-camelk",
-    "version": "0.0.29",
+    "version": "0.0.30",
     "passthru": {
       "name": "vscode-camelk",
       "license": "Apache-2.0",
@@ -26651,10 +26651,10 @@
       "description": "VS Code support for Apache Camel K functionality"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-camelk/0.0.29/file/redhat.vscode-camelk-0.0.29.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-camelk/0.0.30/file/redhat.vscode-camelk-0.0.30.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-svA6F537sJTlhlY5W0uohkN/JEQpyMCbgqqCdkvguwM="
+      "sha256": "sha256-wDamudFyzmUOkIL/0O8pYysj7ckftnmyLuiq/X6MubM="
     },
     "extract": null,
     "rustGitDeps": null
