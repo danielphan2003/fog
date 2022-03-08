@@ -923,7 +923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ikuyadeu-r",
-    "version": "2.3.8",
+    "version": "2.4.0",
     "passthru": {
       "name": "r",
       "license": "MIT",
@@ -931,10 +931,10 @@
       "description": "R Extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ikuyadeu/r/2.3.8/file/Ikuyadeu.r-2.3.8.vsix",
+      "url": "https://open-vsx.org/api/Ikuyadeu/r/2.4.0/file/Ikuyadeu.r-2.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Qz/WeH49f7Vh74xIa3PQDXPAozOhnot8ga2COZzAqOw="
+      "sha256": "sha256-ZjCH3p30dQgi6Hd6mUfLGsW58bGacu3LlfZCH7DBZv8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9023,7 +9023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "asciidoctor-asciidoctor-vscode",
-    "version": "2.9.5",
+    "version": "2.9.8",
     "passthru": {
       "name": "asciidoctor-vscode",
       "license": "MIT",
@@ -9031,10 +9031,10 @@
       "description": "Provides rich language support for AsciiDoc."
     },
     "src": {
-      "url": "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.5/file/asciidoctor.asciidoctor-vscode-2.9.5.vsix",
+      "url": "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.8/file/asciidoctor.asciidoctor-vscode-2.9.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YA0wHxf1Zrruu4CplqV3CgKwzWe75rabvO+9voO4Rtg="
+      "sha256": "sha256-OdsyiwMnZMfPeOe/qMuipb9Eh3uaRmPBtor7NgaZKog="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14363,7 +14363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.411",
+    "version": "2022.3.722",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14371,10 +14371,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.411/file/Slint.slint-nightly-2022.3.411.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.722/file/Slint.slint-nightly-2022.3.722.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-J5WzZ3ob9kkNyQATKZ6y3Gybhxk8HQnQCWp1i71VXyg="
+      "sha256": "sha256-GV5oOjmF9v1uAZk/47v7e39tnrdC+X8XaqBt/XZif28="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16383,7 +16383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "174.0.0",
+    "version": "175.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -16391,10 +16391,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/174.0.0/file/lextudio.restructuredtext-174.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/175.0.0/file/lextudio.restructuredtext-175.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lFOTiHeTBcbocJSgXqWmBlgxlwqiJNMt9B4MNJ/KZyQ="
+      "sha256": "sha256-7RmgwU+CNJmqtUQgRfitT4ba1CCD2HxEXky5t2nhT5E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23523,7 +23523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-test",
-    "version": "0.34.1",
+    "version": "0.34.2",
     "passthru": {
       "name": "vscode-java-test",
       "license": "",
@@ -23531,10 +23531,10 @@
       "description": "Run and debug JUnit or TestNG test cases"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.34.1/file/vscjava.vscode-java-test-0.34.1.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.34.2/file/vscjava.vscode-java-test-0.34.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pOuxffTkMTLfU9MgLFnJ1l9P9dWRCo24DhLeodID1HA="
+      "sha256": "sha256-qL97CMpDll2Tm2C+2DEo1ob5wTPmcTTAjXO1VO2GgDA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27663,7 +27663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Angular-ng-template",
-    "version": "13.2.4",
+    "version": "13.2.5",
     "passthru": {
       "name": "ng-template",
       "license": "MIT",
@@ -27671,10 +27671,10 @@
       "description": "Editor services for Angular templates"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Angular/ng-template/13.2.4/file/Angular.ng-template-13.2.4.vsix",
+      "url": "https://open-vsx.org/api/Angular/ng-template/13.2.5/file/Angular.ng-template-13.2.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sg1/zenG7C15FPJ7+3J0efJA10HRSKg60JFC+M+UsDQ="
+      "sha256": "sha256-6pD2AtZZ1bOLKx1ea+0OcMLWteA4skWLyDJKGd1mLok="
     },
     "extract": null,
     "rustGitDeps": null
