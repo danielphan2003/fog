@@ -402,10 +402,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-864";
+    version = "1.0-865";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-864-1_all.deb";
-      sha256 = "sha256-RYUFQPm7KqFZcDCGU+sSm8SuikLbofIbh9usyva7l2I=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-865-1_all.deb";
+      sha256 = "sha256-oLUhcqfqGs18YZe+qskDxeswsye7Yjz+A/ZiwBkRT78=";
     };
   };
   jitsi-meet = {
