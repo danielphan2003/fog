@@ -2475,10 +2475,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.13.0";
+    version = "4.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.13.0/file/PKief.material-icon-theme-4.13.0.vsix";
-      sha256 = "sha256-VYLYdYbcTxU1buOb1CB1y2De/rC6rCUX7SBgMjYCvyw=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.14.0/file/PKief.material-icon-theme-4.14.0.vsix";
+      sha256 = "sha256-lh0zRxLUTWnxPr9zGjtEjzxyWtJuM1VbTQT2lvUkJoU=";
     };
     name = "material-icon-theme";
     license = "MIT";
@@ -2487,10 +2487,10 @@
   };
   PKief-material-product-icons = {
     pname = "PKief-material-product-icons";
-    version = "1.1.2";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-product-icons/1.1.2/file/PKief.material-product-icons-1.1.2.vsix";
-      sha256 = "sha256-cO71FolpIZr4JfFGShfyL6IkLlCv6/53ylQlchgyCRc=";
+      url = "https://open-vsx.org/api/PKief/material-product-icons/1.2.0/file/PKief.material-product-icons-1.2.0.vsix";
+      sha256 = "sha256-Loxe1W9IYZHfyemqpAdowbiqemSrsqjPFoT2DCmsrT8=";
     };
     name = "material-product-icons";
     license = "MIT";
@@ -6267,10 +6267,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.0/file/d-biehl.robotcode-0.7.0.vsix";
-      sha256 = "sha256-qbvbOu1NzT8zz+Mp/O9zkIBeFm7LEtWvW5wHAgaKbqo=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.1/file/d-biehl.robotcode-0.7.1.vsix";
+      sha256 = "sha256-918O0EqV+rhdG3Hg5OVmQwmUZ71w0tfuzU/M52GN/i4=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -13611,10 +13611,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.294";
+    version = "0.25.296";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.294/file/pokey.cursorless-0.25.294.vsix";
-      sha256 = "sha256-rxPdl1jf7/he2JO+oX2ttSOalNGSTc5UqoPtWQiQis4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.296/file/pokey.cursorless-0.25.296.vsix";
+      sha256 = "sha256-pLXvFs77wlF2gVYWrLVQuejmD84WHSVqhReOzu8t27k=";
     };
     name = "cursorless";
     license = "MIT";
@@ -19023,10 +19023,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.1/file/yuyichao.digitaljs-0.6.1.vsix";
-      sha256 = "sha256-35kl5tR4XdhZ07d6OC/ASq/woJN/PI+gkEpMK4HhCA8=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.2/file/yuyichao.digitaljs-0.6.2.vsix";
+      sha256 = "sha256-JKi+opWCDQjmtbmf1oumTRJicvTreObDZ4gBEvIQjUg=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
