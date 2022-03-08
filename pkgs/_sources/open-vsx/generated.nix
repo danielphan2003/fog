@@ -10071,10 +10071,10 @@
   };
   kaptainmicila-gzdoom-zscript = {
     pname = "kaptainmicila-gzdoom-zscript";
-    version = "1.8.4";
+    version = "1.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kaptainmicila/gzdoom-zscript/1.8.4/file/kaptainmicila.gzdoom-zscript-1.8.4.vsix";
-      sha256 = "sha256-/pTuqI8uoPi7k3Ww3D72a9IC0wEKleVKkN7muSAyaR0=";
+      url = "https://open-vsx.org/api/kaptainmicila/gzdoom-zscript/1.9.1/file/kaptainmicila.gzdoom-zscript-1.9.1.vsix";
+      sha256 = "sha256-VLovyN7XLLWw1b+C6g0ZqqJE37JIwBVkXvpWuN4+yQc=";
     };
     name = "gzdoom-zscript";
     license = "MIT";
@@ -14991,10 +14991,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.12.0";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.12.0/file/scalameta.metals-1.12.0.vsix";
-      sha256 = "sha256-rbVL875Tyx4hw80oqm/5kyZnAPFbPrWZlcQRlvVzbHg=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.13.0/file/scalameta.metals-1.13.0.vsix";
+      sha256 = "sha256-rnb2QXgfOUPQMRPAK2GvgTq589AgTeWGXvslivLz60A=";
     };
     name = "metals";
     license = "Apache-2.0";
