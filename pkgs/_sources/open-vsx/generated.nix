@@ -7155,10 +7155,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1952492";
+    version = "7.0.1959370";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1952492/file/eliostruyf.vscode-front-matter-beta-7.0.1952492.vsix";
-      sha256 = "sha256-BTfbIEBHWGxZfhI6/D5zwyHoVxPERlfmIJINKalCc7E=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1959370/file/eliostruyf.vscode-front-matter-beta-7.0.1959370.vsix";
+      sha256 = "sha256-YLeMqFLVeYE/Ygpagy+QmiizsyzOAZaczSWQo5lo324=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -16392,6 +16392,18 @@
     license = "MIT";
     publisher = "theo-coder";
     description = "The one and only theme for VS Code";
+  };
+  thiht-vscode-venom = {
+    pname = "thiht-vscode-venom";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/thiht/vscode-venom/0.0.3/file/thiht.vscode-venom-0.0.3.vsix";
+      sha256 = "sha256-GCFdW+x2x1VMFKMjtwPi0J6M1YOlO2yr66WOrOGDHa8=";
+    };
+    name = "vscode-venom";
+    license = "MIT";
+    publisher = "thiht";
+    description = "Venom integration with Visual Studio Code";
   };
   thingalon-pony-ssh = {
     pname = "thingalon-pony-ssh";
