@@ -1131,10 +1131,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.40.2";
+    version = "3.41.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.40.2/file/GitLab.gitlab-workflow-3.40.2.vsix";
-      sha256 = "sha256-aGXNdxKtluAy7GI0X9A50xEbHvPYF5vhS0lnG6jzBKY=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.0/file/GitLab.gitlab-workflow-3.41.0.vsix";
+      sha256 = "sha256-Z6XHQFfJ6m7PYtB7ackAK2Z9Y1KVNxuVrnsH4NICHcw=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.697";
+    version = "31.0.699";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.697/file/Prisma.prisma-insider-31.0.697.vsix";
-      sha256 = "sha256-kBYWUSguFwgDGVzVFdR3rglr0CtXui38Iugu5V4qVb4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.699/file/Prisma.prisma-insider-31.0.699.vsix";
+      sha256 = "sha256-lhMmkcCRQggtAvzC9ppRvBC3pjYEz0luOoieDQ3KyD0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5139,10 +5139,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.252";
+    version = "2.0.253";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.252/file/betterthantomorrow.calva-2.0.252.vsix";
-      sha256 = "sha256-cKdYBq6P/lIh99V0n1piioBPrWDxxLYU/Jeng6zAJI4=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.253/file/betterthantomorrow.calva-2.0.253.vsix";
+      sha256 = "sha256-tsWPT8tD6u2HbYzvcDd/cfEatRfAWL7G7+dC3WTVC/U=";
     };
     name = "calva";
     license = "MIT";
@@ -6207,10 +6207,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "4.7.4";
+    version = "4.7.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.4/file/cweijan.vscode-mysql-client2-4.7.4.vsix";
-      sha256 = "sha256-vd8qyY8jjQckTqWAUCHEenhs6aR60PQbcwEo+yVftpU=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.7/file/cweijan.vscode-mysql-client2-4.7.7.vsix";
+      sha256 = "sha256-GLr241HaFH1DPhTgl7j2qM6/THd8QDRbKU0O1mDNig4=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
@@ -19167,10 +19167,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.5/file/zardoy.npm-rapid-ready-0.1.5.vsix";
-      sha256 = "sha256-SwaaxP3dLOGwBFUAAVuODReHnFSP9b5kmQ15TOsNIp0=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.6/file/zardoy.npm-rapid-ready-0.1.6.vsix";
+      sha256 = "sha256-PGDEhHMXFcn6I5z0vTvbXX3TXPa7DThUKApqEN4W7gU=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
