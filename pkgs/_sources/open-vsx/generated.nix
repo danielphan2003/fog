@@ -2523,10 +2523,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.1.3";
+    version = "5.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.3/file/PascalReitermann93.vscode-yaml-sort-5.1.3.vsix";
-      sha256 = "sha256-Xxzmc/fQY/GN2cKkVILVN3TWzChhiI+1JiPC62dmC5s=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.4/file/PascalReitermann93.vscode-yaml-sort-5.1.4.vsix";
+      sha256 = "sha256-6kRzZGp8ylSzFZRrUlFXaaEgq4Vv3zIokN4mt1Ze8ro=";
     };
     name = "vscode-yaml-sort";
     license = "MIT";
@@ -6291,15 +6291,15 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.7.4";
+    version = "0.7.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.4/file/d-biehl.robotcode-0.7.4.vsix";
-      sha256 = "sha256-1vyHeXXX5sEhHlxh3AJC9Oi2ThppJviv+IRHAPV9w2c=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.6/file/d-biehl.robotcode-0.7.6.vsix";
+      sha256 = "sha256-qHBCK4gmrlvei9lVgv8fp9SebS/Ez0Nsx6NDESFbFsE=";
     };
     name = "robotcode";
     license = "Apache-2.0";
     publisher = "d-biehl";
-    description = "RobotFramework support for Visual Studio Code";
+    description = "Robot Framework support for Visual Studio Code";
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
@@ -6699,10 +6699,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.85.2";
+    version = "0.85.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.85.2/file/dendron.nightly-0.85.2.vsix";
-      sha256 = "sha256-qg28PNTYXtyThF2+Fna0wRNCPkzo6zje45kpNYh2Jfw=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.85.3/file/dendron.nightly-0.85.3.vsix";
+      sha256 = "sha256-FoPlkWClzmxDR3IwUAeMiLvE7a1Yy3IUQb3sDOFQ73k=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -18687,10 +18687,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "1.6.4";
+    version = "1.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.4/file/webhint.vscode-webhint-1.6.4.vsix";
-      sha256 = "sha256-NZFrQBRE9S2F6XZ1Nk1ALKvADWLMtwDQ7mgysAjsVvk=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.5/file/webhint.vscode-webhint-1.6.5.vsix";
+      sha256 = "sha256-lt7fFHq2zjrRMWxrXCzjckrTmvUlDeyWr6WqlCpC2pQ=";
     };
     name = "vscode-webhint";
     license = "Apache-2.0";
