@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "32594e66439ab10470ba9efd382824f25835c545",
+    "version": "b1f52a25eaf818b66fc525b3d23aa171d2deb38c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-ageA/nefjbqqXJXyao33G0aaE7E2s04MK0sficY5AUA=",
-      "rev": "32594e66439ab10470ba9efd382824f25835c545"
+      "sha256": "sha256-B5iYDT9UWyNGr4gkPWnt159BQ4Kqd0QGd6X9GTvd1fg=",
+      "rev": "b1f52a25eaf818b66fc525b3d23aa171d2deb38c"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1548,7 +1548,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "0eaacbada1b7da1ae4a82ff440aaf7d58e532dd3",
+    "version": "9b0c9d46085418cbfc0689dcbf352e360ca1c5ab",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1558,8 +1558,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-DXTCHN4iHXujZFixUo2dKiVQTiivErBtViHz6/pzJB4=",
-      "rev": "0eaacbada1b7da1ae4a82ff440aaf7d58e532dd3"
+      "sha256": "sha256-mXMrQqiicXgY1Q5rLzaTBw26BuRA7FZotpEpamP+enk=",
+      "rev": "9b0c9d46085418cbfc0689dcbf352e360ca1c5ab"
     },
     "extract": null,
     "rustGitDeps": null

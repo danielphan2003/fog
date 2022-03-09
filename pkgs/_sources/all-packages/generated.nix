@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "32594e66439ab10470ba9efd382824f25835c545";
+    version = "b1f52a25eaf818b66fc525b3d23aa171d2deb38c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "32594e66439ab10470ba9efd382824f25835c545";
+      rev = "b1f52a25eaf818b66fc525b3d23aa171d2deb38c";
       fetchSubmodules = false;
-      sha256 = "sha256-ageA/nefjbqqXJXyao33G0aaE7E2s04MK0sficY5AUA=";
+      sha256 = "sha256-B5iYDT9UWyNGr4gkPWnt159BQ4Kqd0QGd6X9GTvd1fg=";
     });
   };
   rofi-wayland = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "0eaacbada1b7da1ae4a82ff440aaf7d58e532dd3";
+    version = "9b0c9d46085418cbfc0689dcbf352e360ca1c5ab";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "0eaacbada1b7da1ae4a82ff440aaf7d58e532dd3";
+      rev = "9b0c9d46085418cbfc0689dcbf352e360ca1c5ab";
       fetchSubmodules = false;
-      sha256 = "sha256-DXTCHN4iHXujZFixUo2dKiVQTiivErBtViHz6/pzJB4=";
+      sha256 = "sha256-mXMrQqiicXgY1Q5rLzaTBw26BuRA7FZotpEpamP+enk=";
     });
   };
   xdg-desktop-portal-gtk = {
