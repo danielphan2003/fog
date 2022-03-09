@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "249241d7cda68114836487a7a27a3532dfc1fba6";
+    version = "8a8c2da042a6c1bcfbdf3e76db9c1ede8a11047b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "249241d7cda68114836487a7a27a3532dfc1fba6";
+      rev = "8a8c2da042a6c1bcfbdf3e76db9c1ede8a11047b";
       fetchSubmodules = false;
-      sha256 = "sha256-EfY+HozAviAp4Dr5Yp5cwIInRKdHoxprQgYP4ftH9hk=";
+      sha256 = "sha256-XH8yUZRMbPFs0hDN3EKy9npBptYOQDXVSZzkFE9nqLs=";
     });
   };
   rofi-wayland = {
