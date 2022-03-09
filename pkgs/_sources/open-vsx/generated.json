@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.84.5",
+    "version": "0.85.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.84.5/file/dendron.nightly-0.84.5.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.85.1/file/dendron.nightly-0.85.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jvae6DA6u6ttRg+gSAXD0kfhCt7ToW1bIX44ag15RlU="
+      "sha256": "sha256-bZ6cybDqjLvNdWCDV/dBwgE8+85KCYcYxU6o9ulvhwI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23059,6 +23059,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "gmpl-fork-gmpl-fork": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "gmpl-fork-gmpl-fork",
+    "version": "1.0.1",
+    "passthru": {
+      "name": "gmpl-fork",
+      "license": "GPL-3.0",
+      "publisher": "gmpl-fork",
+      "description": "A fork of steffenk1337's gmpl syntax highlight extension"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/gmpl-fork/gmpl-fork/1.0.1/file/gmpl-fork.gmpl-fork-1.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-S+GTHSWMSFPVLjMJqgDo9hFYcXdPJdz8f0YxYuVX3ZA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "vscode-image-preview": {
     "pinned": false,
     "cargoLock": null,
@@ -25175,6 +25195,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-2FuoCjkiyKxW9Fmo9IV6xilCC6pDUKZLU0MV6Fy8+go="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "CloudStudio-Team-metawork": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "CloudStudio-Team-metawork",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "metawork",
+      "license": "MIT",
+      "publisher": "CloudStudio-Team",
+      "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.1/file/CloudStudio-Team.metawork-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ryHinHr9wnLPoKwG5Q0MeWWglWyu002wYz7DUcWD1yE="
     },
     "extract": null,
     "rustGitDeps": null
