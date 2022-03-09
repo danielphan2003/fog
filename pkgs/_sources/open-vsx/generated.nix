@@ -445,6 +445,18 @@
     publisher = "CismonX";
     description = "Texinfo language support for Visual Studio Code";
   };
+  CloudStudio-Team-metawork = {
+    pname = "CloudStudio-Team-metawork";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.1/file/CloudStudio-Team.metawork-0.0.1.vsix";
+      sha256 = "sha256-ryHinHr9wnLPoKwG5Q0MeWWglWyu002wYz7DUcWD1yE=";
+    };
+    name = "metawork";
+    license = "MIT";
+    publisher = "CloudStudio-Team";
+    description = "Cloud Studio \22810\20154\21327\20316\22871\20214\65292\35753\24320\21457\26356\39640\25928\65281Cloud Studio MetaWork makes development more effective.";
+  };
   CocaineJohnsson-nihil = {
     pname = "CocaineJohnsson-nihil";
     version = "1.0.2";
@@ -6687,10 +6699,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.84.5";
+    version = "0.85.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.84.5/file/dendron.nightly-0.84.5.vsix";
-      sha256 = "sha256-Jvae6DA6u6ttRg+gSAXD0kfhCt7ToW1bIX44ag15RlU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.85.1/file/dendron.nightly-0.85.1.vsix";
+      sha256 = "sha256-bZ6cybDqjLvNdWCDV/dBwgE8+85KCYcYxU6o9ulvhwI=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -8328,6 +8340,18 @@
     license = "MIT";
     publisher = "glenn2223";
     description = "Compile Sass or Scss to CSS at realtime.";
+  };
+  gmpl-fork-gmpl-fork = {
+    pname = "gmpl-fork-gmpl-fork";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/gmpl-fork/gmpl-fork/1.0.1/file/gmpl-fork.gmpl-fork-1.0.1.vsix";
+      sha256 = "sha256-S+GTHSWMSFPVLjMJqgDo9hFYcXdPJdz8f0YxYuVX3ZA=";
+    };
+    name = "gmpl-fork";
+    license = "GPL-3.0";
+    publisher = "gmpl-fork";
+    description = "A fork of steffenk1337's gmpl syntax highlight extension";
   };
   gnramsay-create-python-module = {
     pname = "gnramsay-create-python-module";
