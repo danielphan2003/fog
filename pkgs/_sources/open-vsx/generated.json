@@ -9063,7 +9063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1952492",
+    "version": "7.0.1959370",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9071,10 +9071,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1952492/file/eliostruyf.vscode-front-matter-beta-7.0.1952492.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1959370/file/eliostruyf.vscode-front-matter-beta-7.0.1959370.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BTfbIEBHWGxZfhI6/D5zwyHoVxPERlfmIJINKalCc7E="
+      "sha256": "sha256-YLeMqFLVeYE/Ygpagy+QmiizsyzOAZaczSWQo5lo324="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28395,6 +28395,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-x1EpD4Q0tOhkCB9fl2mc7etaB2sI1d6KjbdUqqWIk+k="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "thiht-vscode-venom": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "thiht-vscode-venom",
+    "version": "0.0.3",
+    "passthru": {
+      "name": "vscode-venom",
+      "license": "MIT",
+      "publisher": "thiht",
+      "description": "Venom integration with Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/thiht/vscode-venom/0.0.3/file/thiht.vscode-venom-0.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-GCFdW+x2x1VMFKMjtwPi0J6M1YOlO2yr66WOrOGDHa8="
     },
     "extract": null,
     "rustGitDeps": null
