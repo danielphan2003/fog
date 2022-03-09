@@ -15,10 +15,10 @@
   };
   AdaCore-ada = {
     pname = "AdaCore-ada";
-    version = "23.0.3";
+    version = "23.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.3/file/AdaCore.ada-23.0.3.vsix";
-      sha256 = "sha256-xizPdroLDRqgeC16fQXu4QfAO90eLzQd69+W+0P3sPI=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.4/file/AdaCore.ada-23.0.4.vsix";
+      sha256 = "sha256-9vIgPZAdgnaNMIW+yFyzghmEDc8+M11OJjp+6t/pKUA=";
     };
     name = "ada";
     license = "GPL-3.0";
@@ -27,10 +27,10 @@
   };
   AdaCore-ada-debug = {
     pname = "AdaCore-ada-debug";
-    version = "23.0.3";
+    version = "23.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.3/file/AdaCore.ada-debug-23.0.3.vsix";
-      sha256 = "sha256-0fUtF1M8Ks9TTrS4zuGvtASYQB3B1pQosEtNFmFa9mo=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.4/file/AdaCore.ada-debug-23.0.4.vsix";
+      sha256 = "sha256-n1042IIcyOzuAh3CGgBdeEfTxQe1T/xY/P8QAtXe5nI=";
     };
     name = "ada-debug";
     license = "GPL-3.0";
@@ -123,10 +123,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.0.1";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.0.1/file/AvengaGermanyGmbH.couper-1.0.1.vsix";
-      sha256 = "sha256-21TvkzZL12PfBxxNmfdp55YCgD0ciFn6bQ+f+5Zn9eE=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.1.0/file/AvengaGermanyGmbH.couper-1.1.0.vsix";
+      sha256 = "sha256-TJTOLDwvJE7yyEGHfvohR/OVyCKUhJnL60bo+YfMxUQ=";
     };
     name = "couper";
     license = "MIT";
@@ -3039,10 +3039,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.821";
+    version = "2022.3.911";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.821/file/Slint.slint-nightly-2022.3.821.vsix";
-      sha256 = "sha256-QxRE5pYUBHBuWtzD0RtvHTfvnZmJ3gE4Qk0iAJOnMUg=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.911/file/Slint.slint-nightly-2022.3.911.vsix";
+      sha256 = "sha256-w0B5d6+OUBCFBFHmQ2WR5KMu2jYNiksX2kbniMkYuvk=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
