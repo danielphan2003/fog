@@ -9863,7 +9863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-errorlens",
-    "version": "3.4.1",
+    "version": "3.4.2",
     "passthru": {
       "name": "errorlens",
       "license": "MIT",
@@ -9871,10 +9871,10 @@
       "description": "Improve highlighting of errors, warnings and other language diagnostics."
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/errorlens/3.4.1/file/usernamehw.errorlens-3.4.1.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/errorlens/3.4.2/file/usernamehw.errorlens-3.4.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ePIej2oSIb6ARG3U/VEO4LsbJvbzpsiv1000Djhf9UA="
+      "sha256": "sha256-gb/SaUzHDdVUlmoASSkARLAYE/p8k2Peax8N15Yjg3g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29163,7 +29163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.699",
+    "version": "31.0.700",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29171,10 +29171,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.699/file/Prisma.prisma-insider-31.0.699.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.700/file/Prisma.prisma-insider-31.0.700.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lhMmkcCRQggtAvzC9ppRvBC3pjYEz0luOoieDQ3KyD0="
+      "sha256": "sha256-nPTY92M4fiKNu4MZZb2Iri3nBoydhtyzkcIiEzoX+7U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32103,7 +32103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Janne252-fontawesome-autocomplete",
-    "version": "1.1.2",
+    "version": "1.3.1",
     "passthru": {
       "name": "fontawesome-autocomplete",
       "license": "GPL-3.0",
@@ -32111,10 +32111,10 @@
       "description": "Autocomplete & preview Font Awesome icons in any language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Janne252/fontawesome-autocomplete/1.1.2/file/Janne252.fontawesome-autocomplete-1.1.2.vsix",
+      "url": "https://open-vsx.org/api/Janne252/fontawesome-autocomplete/1.3.1/file/Janne252.fontawesome-autocomplete-1.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-36sPnInGmjEXpzV2RwFcCy7aWhw9TDhp6ZdzpmydMnQ="
+      "sha256": "sha256-MdVeswKO2EAezmvtfb/6qOOY6lUTWUk6JiI3cnu4CxU="
     },
     "extract": null,
     "rustGitDeps": null

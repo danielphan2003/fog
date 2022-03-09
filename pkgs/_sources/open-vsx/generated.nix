@@ -1659,10 +1659,10 @@
   };
   Janne252-fontawesome-autocomplete = {
     pname = "Janne252-fontawesome-autocomplete";
-    version = "1.1.2";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Janne252/fontawesome-autocomplete/1.1.2/file/Janne252.fontawesome-autocomplete-1.1.2.vsix";
-      sha256 = "sha256-36sPnInGmjEXpzV2RwFcCy7aWhw9TDhp6ZdzpmydMnQ=";
+      url = "https://open-vsx.org/api/Janne252/fontawesome-autocomplete/1.3.1/file/Janne252.fontawesome-autocomplete-1.3.1.vsix";
+      sha256 = "sha256-MdVeswKO2EAezmvtfb/6qOOY6lUTWUk6JiI3cnu4CxU=";
     };
     name = "fontawesome-autocomplete";
     license = "GPL-3.0";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.699";
+    version = "31.0.700";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.699/file/Prisma.prisma-insider-31.0.699.vsix";
-      sha256 = "sha256-lhMmkcCRQggtAvzC9ppRvBC3pjYEz0luOoieDQ3KyD0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.700/file/Prisma.prisma-insider-31.0.700.vsix";
+      sha256 = "sha256-nPTY92M4fiKNu4MZZb2Iri3nBoydhtyzkcIiEzoX+7U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16947,10 +16947,10 @@
   };
   usernamehw-errorlens = {
     pname = "usernamehw-errorlens";
-    version = "3.4.1";
+    version = "3.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/errorlens/3.4.1/file/usernamehw.errorlens-3.4.1.vsix";
-      sha256 = "sha256-ePIej2oSIb6ARG3U/VEO4LsbJvbzpsiv1000Djhf9UA=";
+      url = "https://open-vsx.org/api/usernamehw/errorlens/3.4.2/file/usernamehw.errorlens-3.4.2.vsix";
+      sha256 = "sha256-gb/SaUzHDdVUlmoASSkARLAYE/p8k2Peax8N15Yjg3g=";
     };
     name = "errorlens";
     license = "MIT";
