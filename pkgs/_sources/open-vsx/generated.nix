@@ -7263,10 +7263,10 @@
   };
   emroussel-atomize-atom-one-dark-theme = {
     pname = "emroussel-atomize-atom-one-dark-theme";
-    version = "2.0.0";
+    version = "2.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/emroussel/atomize-atom-one-dark-theme/2.0.0/file/emroussel.atomize-atom-one-dark-theme-2.0.0.vsix";
-      sha256 = "sha256-NYVa+tbFdtcSvjeX/pv+4JQO7KKOrx+ptgVs1vwr6UI=";
+      url = "https://open-vsx.org/api/emroussel/atomize-atom-one-dark-theme/2.0.1/file/emroussel.atomize-atom-one-dark-theme-2.0.1.vsix";
+      sha256 = "sha256-n8hnoDGN9756Aqhx/pKr7Vx0zv2zLEEFYUAgjxIxTaI=";
     };
     name = "atomize-atom-one-dark-theme";
     license = "MIT";
@@ -9411,10 +9411,10 @@
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
-    version = "0.2.6";
+    version = "0.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.6/file/isg-cnc.vscode-isg-cnc-0.2.6.vsix";
-      sha256 = "sha256-hnzN/DINTiltybko/CT/x1jaXhfqCRA92GG2jUhAeiM=";
+      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.7/file/isg-cnc.vscode-isg-cnc-0.2.7.vsix";
+      sha256 = "sha256-kXL0IpfOGEHyY2+W8bueeVZ+RRkDpc0idxFRbPNuk+s=";
     };
     name = "vscode-isg-cnc";
     license = "MIT";
