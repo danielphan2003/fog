@@ -119,17 +119,17 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.9.3",
+    "version": "0.10.5",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
       "publisher": "astro-build"
     },
     "src": {
-      "url": "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.9.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
-      "name": "astro-vscode-0.9.3.zip",
+      "url": "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.10.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "astro-vscode-0.10.5.zip",
       "type": "url",
-      "sha256": "sha256-1R8w9KwXLyzksFlBPPh7BbUyS3+zAA+i75okiCBSKTo="
+      "sha256": "sha256-nDsEpezDkyuE19QjLHaHn3ylqGJaEv3J1GdR9ADsASY="
     },
     "extract": null,
     "rustGitDeps": null
