@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "de22e068622ac3fbd30efa36241785c7035af449",
+    "version": "249241d7cda68114836487a7a27a3532dfc1fba6",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-0FSnNvtg1V0vm0Xzx7CtGGxtiOkOhSrzFcR1jp5pWd0=",
-      "rev": "de22e068622ac3fbd30efa36241785c7035af449"
+      "sha256": "sha256-EfY+HozAviAp4Dr5Yp5cwIInRKdHoxprQgYP4ftH9hk=",
+      "rev": "249241d7cda68114836487a7a27a3532dfc1fba6"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2057,9 +2057,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-4f0a58a6915d5c0a6bcceac3d98f5d64f5ee5a39/Cargo.lock",
+    "cargoLock": "./rustdesk-362aa9a8ffed5727ca33cbc3e8a111e864b8977f/Cargo.lock",
     "name": "rustdesk",
-    "version": "4f0a58a6915d5c0a6bcceac3d98f5d64f5ee5a39",
+    "version": "362aa9a8ffed5727ca33cbc3e8a111e864b8977f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,8 +2069,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-GpjvTZGXfoK6DVX7QwCr48ec6VKFNrAcLzUmMxjm7OA=",
-      "rev": "4f0a58a6915d5c0a6bcceac3d98f5d64f5ee5a39"
+      "sha256": "sha256-DM/OrVlADHL1IG9F1pQummUtlw7CB7UiiDQqVQHQo4M=",
+      "rev": "362aa9a8ffed5727ca33cbc3e8a111e864b8977f"
     },
     "extract": null,
     "rustGitDeps": {
