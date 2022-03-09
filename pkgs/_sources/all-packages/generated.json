@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "0d9fd33dbeecbe81f39e89d8d9fb0f520216c840",
+    "version": "4bc8a38fcd4edab3ddf508d012a9786539618ad3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-z0510kzuTieWXLVvETQnNhOfwmtrCUMKLul8hStpq8M=",
-      "rev": "0d9fd33dbeecbe81f39e89d8d9fb0f520216c840"
+      "sha256": "sha256-TUQyBHDZZcmcxD76S0LCL0WBca5TF2ktChhii71RewQ=",
+      "rev": "4bc8a38fcd4edab3ddf508d012a9786539618ad3"
     },
     "extract": null,
     "rustGitDeps": null
