@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.700";
+    version = "31.0.701";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.700/file/Prisma.prisma-insider-31.0.700.vsix";
-      sha256 = "sha256-nPTY92M4fiKNu4MZZb2Iri3nBoydhtyzkcIiEzoX+7U=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.701/file/Prisma.prisma-insider-31.0.701.vsix";
+      sha256 = "sha256-Z+J1AF1S8of6V3I0fQl6/DTRHbWpJsElH+mmZFzup/A=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3231,10 +3231,10 @@
   };
   TeamHub-teamhub = {
     pname = "TeamHub-teamhub";
-    version = "14.0.8";
+    version = "15.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TeamHub/teamhub/14.0.8/file/TeamHub.teamhub-14.0.8.vsix";
-      sha256 = "sha256-mbzuHPWGHLmNzB+OyZhGxcEzJLnVOCXdObBZHRSr9+Y=";
+      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.3/file/TeamHub.teamhub-15.0.3.vsix";
+      sha256 = "sha256-0qj+LpO69w6sKlY2HrJxWNzi5JP5ZeTLI/GM6A8fPDI=";
     };
     name = "teamhub";
     license = "";
@@ -4827,10 +4827,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.9.3";
+    version = "0.10.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.9.3/file/astro-build.astro-vscode-0.9.3.vsix";
-      sha256 = "sha256-/dT1YMIl04kEAzkoiOJ16t3lkHsknSw7DotcaOholls=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.10.5/file/astro-build.astro-vscode-0.10.5.vsix";
+      sha256 = "sha256-nDsEpezDkyuE19QjLHaHn3ylqGJaEv3J1GdR9ADsASY=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -6699,10 +6699,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.85.1";
+    version = "0.85.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.85.1/file/dendron.nightly-0.85.1.vsix";
-      sha256 = "sha256-bZ6cybDqjLvNdWCDV/dBwgE8+85KCYcYxU6o9ulvhwI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.85.2/file/dendron.nightly-0.85.2.vsix";
+      sha256 = "sha256-qg28PNTYXtyThF2+Fna0wRNCPkzo6zje45kpNYh2Jfw=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -8307,10 +8307,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.7";
+    version = "0.4.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.7/file/gitduck.code-streaming-0.4.7.vsix";
-      sha256 = "sha256-jStre2sgS/IfqGbzBX8MaW7johM4thIQzmckyQtiU1Q=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.8/file/gitduck.code-streaming-0.4.8.vsix";
+      sha256 = "sha256-7zR1WNCDNpBRPQdC6kvOAzznEPdddAft4+WD/asLbkQ=";
     };
     name = "code-streaming";
     license = "Custom";

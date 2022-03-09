@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.85.1",
+    "version": "0.85.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.85.1/file/dendron.nightly-0.85.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.85.2/file/dendron.nightly-0.85.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bZ6cybDqjLvNdWCDV/dBwgE8+85KCYcYxU6o9ulvhwI="
+      "sha256": "sha256-qg28PNTYXtyThF2+Fna0wRNCPkzo6zje45kpNYh2Jfw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5663,7 +5663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.7",
+    "version": "0.4.8",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5671,10 +5671,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.7/file/gitduck.code-streaming-0.4.7.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.8/file/gitduck.code-streaming-0.4.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jStre2sgS/IfqGbzBX8MaW7johM4thIQzmckyQtiU1Q="
+      "sha256": "sha256-7zR1WNCDNpBRPQdC6kvOAzznEPdddAft4+WD/asLbkQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22103,7 +22103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TeamHub-teamhub",
-    "version": "14.0.8",
+    "version": "15.0.3",
     "passthru": {
       "name": "teamhub",
       "license": "",
@@ -22111,10 +22111,10 @@
       "description": "Extend VS Code with real-time collaborative superpowers"
     },
     "src": {
-      "url": "https://open-vsx.org/api/TeamHub/teamhub/14.0.8/file/TeamHub.teamhub-14.0.8.vsix",
+      "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.3/file/TeamHub.teamhub-15.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mbzuHPWGHLmNzB+OyZhGxcEzJLnVOCXdObBZHRSr9+Y="
+      "sha256": "sha256-0qj+LpO69w6sKlY2HrJxWNzi5JP5ZeTLI/GM6A8fPDI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27403,7 +27403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.9.3",
+    "version": "0.10.5",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
@@ -27411,10 +27411,10 @@
       "description": "Language support for Astro"
     },
     "src": {
-      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.9.3/file/astro-build.astro-vscode-0.9.3.vsix",
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.10.5/file/astro-build.astro-vscode-0.10.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/dT1YMIl04kEAzkoiOJ16t3lkHsknSw7DotcaOholls="
+      "sha256": "sha256-nDsEpezDkyuE19QjLHaHn3ylqGJaEv3J1GdR9ADsASY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29163,7 +29163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.700",
+    "version": "31.0.701",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29171,10 +29171,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.700/file/Prisma.prisma-insider-31.0.700.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.701/file/Prisma.prisma-insider-31.0.701.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nPTY92M4fiKNu4MZZb2Iri3nBoydhtyzkcIiEzoX+7U="
+      "sha256": "sha256-Z+J1AF1S8of6V3I0fQl6/DTRHbWpJsElH+mmZFzup/A="
     },
     "extract": null,
     "rustGitDeps": null
