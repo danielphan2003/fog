@@ -25223,7 +25223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CloudStudio-Team-metawork",
-    "version": "0.0.2",
+    "version": "0.0.5",
     "passthru": {
       "name": "metawork",
       "license": "MIT",
@@ -25231,10 +25231,10 @@
       "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.2/file/CloudStudio-Team.metawork-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.5/file/CloudStudio-Team.metawork-0.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tC10X7FbgJ8izn/7iIgNAMmUE+fZue8EypNp5eFZhZE="
+      "sha256": "sha256-DVEoKJq6rXc2Q2oStuTsDquA/JOviaan+GBWRblEIt8="
     },
     "extract": null,
     "rustGitDeps": null

@@ -447,10 +447,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.2";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.2/file/CloudStudio-Team.metawork-0.0.2.vsix";
-      sha256 = "sha256-tC10X7FbgJ8izn/7iIgNAMmUE+fZue8EypNp5eFZhZE=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.5/file/CloudStudio-Team.metawork-0.0.5.vsix";
+      sha256 = "sha256-DVEoKJq6rXc2Q2oStuTsDquA/JOviaan+GBWRblEIt8=";
     };
     name = "metawork";
     license = "MIT";
