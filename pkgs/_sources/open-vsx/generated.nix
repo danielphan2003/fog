@@ -4539,10 +4539,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.1.0";
+    version = "5.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.1.0/file/anweber.vscode-httpyac-5.1.0.vsix";
-      sha256 = "sha256-5Y46A/r5Lk7EGce3cWBEDf7Mwxo3SOJ3V41LMW6NmeI=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.0/file/anweber.vscode-httpyac-5.2.0.vsix";
+      sha256 = "sha256-OoZJRGpqjMSz1QxGeyyG0bVSKMHittKAHDGif/jXIeU=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -8595,10 +8595,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.10";
+    version = "0.6.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.10/file/halcyontechltd.vscode-rpgle-0.6.10.vsix";
-      sha256 = "sha256-yfzV5YA+d0maJ+a6q9hErDaPc6biNV9I5+zag3FBz9w=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.11/file/halcyontechltd.vscode-rpgle-0.6.11.vsix";
+      sha256 = "sha256-yOwtjCptfehx51sVKaVD2WAdh4irAcwLOhLBbhETe9I=";
     };
     name = "vscode-rpgle";
     license = "MIT";
