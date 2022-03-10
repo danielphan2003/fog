@@ -2511,10 +2511,10 @@
   };
   PROxZIMA-sweetdracula = {
     pname = "PROxZIMA-sweetdracula";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PROxZIMA/sweetdracula/1.0.7/file/PROxZIMA.sweetdracula-1.0.7.vsix";
-      sha256 = "sha256-5nowP/mZi3NatSSzAzIjDfKGUu0M09JfduAET+6VrxE=";
+      url = "https://open-vsx.org/api/PROxZIMA/sweetdracula/1.0.8/file/PROxZIMA.sweetdracula-1.0.8.vsix";
+      sha256 = "sha256-BH/9/HnnF7ovxdUhpOEIQ375uVX5CKuR0XWz5f1tfTw=";
     };
     name = "sweetdracula";
     license = "MIT";
@@ -3195,10 +3195,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.29";
+    version = "3.5.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.29/file/TabNine.tabnine-vscode-3.5.29.vsix";
-      sha256 = "sha256-8QDRDC2hqK0VyKNN3/FpnV+dmctAfi8Bq1Pii0MCXrM=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.30/file/TabNine.tabnine-vscode-3.5.30.vsix";
+      sha256 = "sha256-r/Vs13oCIlxtPG1DihfgkU9DOaW1iIz/X6SZH1mUqRc=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6303,10 +6303,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.7.7";
+    version = "0.7.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.7/file/d-biehl.robotcode-0.7.7.vsix";
-      sha256 = "sha256-a6nvcau/Hvb2CSv+DgpCivnG8QKlYcq5jaeQOjWvJHs=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.8/file/d-biehl.robotcode-0.7.8.vsix";
+      sha256 = "sha256-HI5jvonFMr4KUd8IQXRNJSf/xBqg85xosfjQzh7eejk=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7479,10 +7479,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.37";
+    version = "1.2.39";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.37/file/everscale.solidity-support-1.2.37.vsix";
-      sha256 = "sha256-V63pyDgPTDijmmpUvAIQ07t3UhX5Rdl1iGFu1+2O9Ak=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.39/file/everscale.solidity-support-1.2.39.vsix";
+      sha256 = "sha256-xj91tom6T4nGCPt+Yism6IfCjBn9A3U1GU3FGW3t7rg=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -15699,10 +15699,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.7.2";
+    version = "1.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.2/file/statelyai.stately-vscode-1.7.2.vsix";
-      sha256 = "sha256-xD2ZYsAYwxmCoo+wJ8I7iDaRnbFTvq1+avNci2OQV7M=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.3/file/statelyai.stately-vscode-1.7.3.vsix";
+      sha256 = "sha256-jtxC5oMpqN+fZCqFFg0RxDKcKtwVfjSU6IX/XtM86ME=";
     };
     name = "stately-vscode";
     license = "MIT";
