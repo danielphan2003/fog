@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitHub-vscode-pull-request-github",
-    "version": "0.36.2",
+    "version": "0.38.1",
     "passthru": {
       "name": "vscode-pull-request-github",
       "license": "MIT",
@@ -1611,10 +1611,10 @@
       "description": "Pull Request and Issue Provider for GitHub"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.2/file/GitHub.vscode-pull-request-github-0.36.2.vsix",
+      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.38.1/file/GitHub.vscode-pull-request-github-0.38.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AO9C1J/MWx+aY3ka3IQ38mO7q9XiGbiKEJ1ekB/a+jc="
+      "sha256": "sha256-opR+y818jrdyGGh61swbo0FWKJJCJzn6594km4B76d0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9183,7 +9183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.30",
+    "version": "3.5.34",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9191,10 +9191,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.30/file/TabNine.tabnine-vscode-3.5.30.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.34/file/TabNine.tabnine-vscode-3.5.34.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r/Vs13oCIlxtPG1DihfgkU9DOaW1iIz/X6SZH1mUqRc="
+      "sha256": "sha256-lz09qvX+0lTlIhmswqvswM6BZBt1ALFfpvVVFUNpmA4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14735,6 +14735,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-fW73EJfQNF9eAWCjwKAOpCLtQuZgeK9uy8bn0TOUx4k="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "iliazeus-vscode-ansi": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "iliazeus-vscode-ansi",
+    "version": "1.1.2",
+    "passthru": {
+      "name": "vscode-ansi",
+      "license": "MIT",
+      "publisher": "iliazeus",
+      "description": "ANSI color styling for text documents"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/iliazeus/vscode-ansi/1.1.2/file/iliazeus.vscode-ansi-1.1.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-sQfaykUy3bqL2QFicxR6fyZQtOXtL/BqV0dbAPMh+lA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29243,7 +29263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.703",
+    "version": "31.0.704",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29251,10 +29271,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.703/file/Prisma.prisma-insider-31.0.703.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.704/file/Prisma.prisma-insider-31.0.704.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EnirL/qS4EFRQitPoM+c7mQHCMu7MB/E//pOa+n5HS8="
+      "sha256": "sha256-6DnRH3XzFtCS/Izb6fjzBv3prTxvDUZ+lsmuotf0iTw="
     },
     "extract": null,
     "rustGitDeps": null

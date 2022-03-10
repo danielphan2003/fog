@@ -1119,10 +1119,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.36.2";
+    version = "0.38.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.36.2/file/GitHub.vscode-pull-request-github-0.36.2.vsix";
-      sha256 = "sha256-AO9C1J/MWx+aY3ka3IQ38mO7q9XiGbiKEJ1ekB/a+jc=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.38.1/file/GitHub.vscode-pull-request-github-0.38.1.vsix";
+      sha256 = "sha256-opR+y818jrdyGGh61swbo0FWKJJCJzn6594km4B76d0=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.703";
+    version = "31.0.704";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.703/file/Prisma.prisma-insider-31.0.703.vsix";
-      sha256 = "sha256-EnirL/qS4EFRQitPoM+c7mQHCMu7MB/E//pOa+n5HS8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.704/file/Prisma.prisma-insider-31.0.704.vsix";
+      sha256 = "sha256-6DnRH3XzFtCS/Izb6fjzBv3prTxvDUZ+lsmuotf0iTw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3195,10 +3195,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.30";
+    version = "3.5.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.30/file/TabNine.tabnine-vscode-3.5.30.vsix";
-      sha256 = "sha256-r/Vs13oCIlxtPG1DihfgkU9DOaW1iIz/X6SZH1mUqRc=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.34/file/TabNine.tabnine-vscode-3.5.34.vsix";
+      sha256 = "sha256-lz09qvX+0lTlIhmswqvswM6BZBt1ALFfpvVVFUNpmA4=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -9264,6 +9264,18 @@
     license = "MIT";
     publisher = "idleberg";
     description = "Context-aware WordPress salts generation for PHP, YAML, DotEnv and JSON files without the need of an internet-connection";
+  };
+  iliazeus-vscode-ansi = {
+    pname = "iliazeus-vscode-ansi";
+    version = "1.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/iliazeus/vscode-ansi/1.1.2/file/iliazeus.vscode-ansi-1.1.2.vsix";
+      sha256 = "sha256-sQfaykUy3bqL2QFicxR6fyZQtOXtL/BqV0dbAPMh+lA=";
+    };
+    name = "vscode-ansi";
+    license = "MIT";
+    publisher = "iliazeus";
+    description = "ANSI color styling for text documents";
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
