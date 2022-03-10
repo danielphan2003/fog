@@ -447,10 +447,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.5";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.5/file/CloudStudio-Team.metawork-0.0.5.vsix";
-      sha256 = "sha256-DVEoKJq6rXc2Q2oStuTsDquA/JOviaan+GBWRblEIt8=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.7/file/CloudStudio-Team.metawork-0.0.7.vsix";
+      sha256 = "sha256-D/WntCBlhkvrrFbmFstZd/+xGTpKf+Ak3I4NRtNi8S8=";
     };
     name = "metawork";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.701";
+    version = "31.0.703";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.701/file/Prisma.prisma-insider-31.0.701.vsix";
-      sha256 = "sha256-Z+J1AF1S8of6V3I0fQl6/DTRHbWpJsElH+mmZFzup/A=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.703/file/Prisma.prisma-insider-31.0.703.vsix";
+      sha256 = "sha256-EnirL/qS4EFRQitPoM+c7mQHCMu7MB/E//pOa+n5HS8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3195,10 +3195,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.28";
+    version = "3.5.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.28/file/TabNine.tabnine-vscode-3.5.28.vsix";
-      sha256 = "sha256-h394jt0AeHAjA4iR4H1EEPOpfqzSza/BvexOlknOBS4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.29/file/TabNine.tabnine-vscode-3.5.29.vsix";
+      sha256 = "sha256-8QDRDC2hqK0VyKNN3/FpnV+dmctAfi8Bq1Pii0MCXrM=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -7167,10 +7167,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1959370";
+    version = "7.0.1962004";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1959370/file/eliostruyf.vscode-front-matter-beta-7.0.1959370.vsix";
-      sha256 = "sha256-YLeMqFLVeYE/Ygpagy+QmiizsyzOAZaczSWQo5lo324=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1962004/file/eliostruyf.vscode-front-matter-beta-7.0.1962004.vsix";
+      sha256 = "sha256-FKpzxjkKbfZ6GOazqNEfJnQQzdeGHdB4lERwSFcY+Pg=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -19233,6 +19233,18 @@
       sha256 = "sha256-ykyt2J2vmH5CJ9XopBSUBQ5yotXRPlFn7rC25+pSCco=";
     };
     name = "terminal-code-runner";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "";
+  };
+  zardoy-vetur-extended = {
+    pname = "zardoy-vetur-extended";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.1/file/zardoy.vetur-extended-0.0.1.vsix";
+      sha256 = "sha256-H2S640Pq/wAAOILtc78aDg4EuE8Y0KccAclbQpXX+D4=";
+    };
+    name = "vetur-extended";
     license = "MIT";
     publisher = "zardoy";
     description = "";

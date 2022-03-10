@@ -1979,6 +1979,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "zardoy-vetur-extended": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "zardoy-vetur-extended",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "vetur-extended",
+      "license": "MIT",
+      "publisher": "zardoy",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.1/file/zardoy.vetur-extended-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-H2S640Pq/wAAOILtc78aDg4EuE8Y0KccAclbQpXX+D4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "qcz-text-power-tools": {
     "pinned": false,
     "cargoLock": null,
@@ -9083,7 +9103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1959370",
+    "version": "7.0.1962004",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9091,10 +9111,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1959370/file/eliostruyf.vscode-front-matter-beta-7.0.1959370.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1962004/file/eliostruyf.vscode-front-matter-beta-7.0.1962004.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YLeMqFLVeYE/Ygpagy+QmiizsyzOAZaczSWQo5lo324="
+      "sha256": "sha256-FKpzxjkKbfZ6GOazqNEfJnQQzdeGHdB4lERwSFcY+Pg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9163,7 +9183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.28",
+    "version": "3.5.29",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9171,10 +9191,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.28/file/TabNine.tabnine-vscode-3.5.28.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.29/file/TabNine.tabnine-vscode-3.5.29.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-h394jt0AeHAjA4iR4H1EEPOpfqzSza/BvexOlknOBS4="
+      "sha256": "sha256-8QDRDC2hqK0VyKNN3/FpnV+dmctAfi8Bq1Pii0MCXrM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25223,7 +25243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CloudStudio-Team-metawork",
-    "version": "0.0.5",
+    "version": "0.0.7",
     "passthru": {
       "name": "metawork",
       "license": "MIT",
@@ -25231,10 +25251,10 @@
       "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.5/file/CloudStudio-Team.metawork-0.0.5.vsix",
+      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.7/file/CloudStudio-Team.metawork-0.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DVEoKJq6rXc2Q2oStuTsDquA/JOviaan+GBWRblEIt8="
+      "sha256": "sha256-D/WntCBlhkvrrFbmFstZd/+xGTpKf+Ak3I4NRtNi8S8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29223,7 +29243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.701",
+    "version": "31.0.703",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29231,10 +29251,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.701/file/Prisma.prisma-insider-31.0.701.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.703/file/Prisma.prisma-insider-31.0.703.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Z+J1AF1S8of6V3I0fQl6/DTRHbWpJsElH+mmZFzup/A="
+      "sha256": "sha256-EnirL/qS4EFRQitPoM+c7mQHCMu7MB/E//pOa+n5HS8="
     },
     "extract": null,
     "rustGitDeps": null
