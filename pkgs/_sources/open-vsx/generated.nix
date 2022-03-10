@@ -447,10 +447,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.1/file/CloudStudio-Team.metawork-0.0.1.vsix";
-      sha256 = "sha256-ryHinHr9wnLPoKwG5Q0MeWWglWyu002wYz7DUcWD1yE=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.2/file/CloudStudio-Team.metawork-0.0.2.vsix";
+      sha256 = "sha256-tC10X7FbgJ8izn/7iIgNAMmUE+fZue8EypNp5eFZhZE=";
     };
     name = "metawork";
     license = "MIT";
@@ -13860,6 +13860,18 @@
     license = "MIT";
     publisher = "qoretechnologies";
     description = "Qore language support for VS Code";
+  };
+  quarto-quarto = {
+    pname = "quarto-quarto";
+    version = "1.7.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/quarto/quarto/1.7.0/file/quarto.quarto-1.7.0.vsix";
+      sha256 = "sha256-9VuPVHn8/m8UAJQxPHoEQA4uVQbLlEaIv1j03F4I1Cg=";
+    };
+    name = "quarto";
+    license = "MIT";
+    publisher = "quarto";
+    description = "Official extension for the Quarto scientific and technical publishing system.";
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";

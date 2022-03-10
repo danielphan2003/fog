@@ -7019,6 +7019,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "quarto-quarto": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "quarto-quarto",
+    "version": "1.7.0",
+    "passthru": {
+      "name": "quarto",
+      "license": "MIT",
+      "publisher": "quarto",
+      "description": "Official extension for the Quarto scientific and technical publishing system."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/quarto/quarto/1.7.0/file/quarto.quarto-1.7.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-9VuPVHn8/m8UAJQxPHoEQA4uVQbLlEaIv1j03F4I1Cg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "wix-vscode-import-cost": {
     "pinned": false,
     "cargoLock": null,
@@ -25203,7 +25223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CloudStudio-Team-metawork",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "passthru": {
       "name": "metawork",
       "license": "MIT",
@@ -25211,10 +25231,10 @@
       "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.1/file/CloudStudio-Team.metawork-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.2/file/CloudStudio-Team.metawork-0.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ryHinHr9wnLPoKwG5Q0MeWWglWyu002wYz7DUcWD1yE="
+      "sha256": "sha256-tC10X7FbgJ8izn/7iIgNAMmUE+fZue8EypNp5eFZhZE="
     },
     "extract": null,
     "rustGitDeps": null
