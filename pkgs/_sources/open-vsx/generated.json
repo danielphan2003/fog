@@ -3123,18 +3123,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.7.6",
+    "version": "0.7.7",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
       "publisher": "d-biehl",
-      "description": "Robot Framework support for Visual Studio Code"
+      "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.7.6/file/d-biehl.robotcode-0.7.6.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.7.7/file/d-biehl.robotcode-0.7.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qHBCK4gmrlvei9lVgv8fp9SebS/Ez0Nsx6NDESFbFsE="
+      "sha256": "sha256-a6nvcau/Hvb2CSv+DgpCivnG8QKlYcq5jaeQOjWvJHs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12323,7 +12323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.297",
+    "version": "0.25.298",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12331,10 +12331,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.297/file/pokey.cursorless-0.25.297.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.298/file/pokey.cursorless-0.25.298.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dTrPrkdCBh7h3bjZWgNvmv9+pfCh/BjnYup01+UT2aE="
+      "sha256": "sha256-a72YG4+OE43deEOdRkwyvg2xReGC6/LwFbNSIYDZd1k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14363,7 +14363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "emulicious-emulicious-debugger",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "passthru": {
       "name": "emulicious-debugger",
       "license": "MIT",
@@ -14371,10 +14371,10 @@
       "description": "This extension enables debugging with Emulicious in VS Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/emulicious/emulicious-debugger/1.1.2/file/emulicious.emulicious-debugger-1.1.2.vsix",
+      "url": "https://open-vsx.org/api/emulicious/emulicious-debugger/1.2.0/file/emulicious.emulicious-debugger-1.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EI7OR2dXqEc48iOLT7U+1bzgO0VlqSmFwIeq56jx9II="
+      "sha256": "sha256-vLdcHcYig44d5dkG1iILNkGTILhSuFNNHB/B3bKsPZA="
     },
     "extract": null,
     "rustGitDeps": null

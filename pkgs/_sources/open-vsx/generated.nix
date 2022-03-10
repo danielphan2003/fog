@@ -6291,15 +6291,15 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.7.6";
+    version = "0.7.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.6/file/d-biehl.robotcode-0.7.6.vsix";
-      sha256 = "sha256-qHBCK4gmrlvei9lVgv8fp9SebS/Ez0Nsx6NDESFbFsE=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.7/file/d-biehl.robotcode-0.7.7.vsix";
+      sha256 = "sha256-a6nvcau/Hvb2CSv+DgpCivnG8QKlYcq5jaeQOjWvJHs=";
     };
     name = "robotcode";
     license = "Apache-2.0";
     publisher = "d-biehl";
-    description = "Robot Framework support for Visual Studio Code";
+    description = "RobotFramework support for Visual Studio Code";
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
@@ -7275,10 +7275,10 @@
   };
   emulicious-emulicious-debugger = {
     pname = "emulicious-emulicious-debugger";
-    version = "1.1.2";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/emulicious/emulicious-debugger/1.1.2/file/emulicious.emulicious-debugger-1.1.2.vsix";
-      sha256 = "sha256-EI7OR2dXqEc48iOLT7U+1bzgO0VlqSmFwIeq56jx9II=";
+      url = "https://open-vsx.org/api/emulicious/emulicious-debugger/1.2.0/file/emulicious.emulicious-debugger-1.2.0.vsix";
+      sha256 = "sha256-vLdcHcYig44d5dkG1iILNkGTILhSuFNNHB/B3bKsPZA=";
     };
     name = "emulicious-debugger";
     license = "MIT";
@@ -13647,10 +13647,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.297";
+    version = "0.25.298";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.297/file/pokey.cursorless-0.25.297.vsix";
-      sha256 = "sha256-dTrPrkdCBh7h3bjZWgNvmv9+pfCh/BjnYup01+UT2aE=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.298/file/pokey.cursorless-0.25.298.vsix";
+      sha256 = "sha256-a72YG4+OE43deEOdRkwyvg2xReGC6/LwFbNSIYDZd1k=";
     };
     name = "cursorless";
     license = "MIT";
