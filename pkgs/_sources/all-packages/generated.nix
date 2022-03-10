@@ -105,13 +105,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "0d83307b14760c9231f67e6f1e99bfbd7b586650";
+    version = "d9af90d05f477e5e25f8d9f545eeb7fe0a235d2a";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "0d83307b14760c9231f67e6f1e99bfbd7b586650";
+      rev = "d9af90d05f477e5e25f8d9f545eeb7fe0a235d2a";
       fetchSubmodules = false;
-      sha256 = "sha256-Df2D2eBifkZpFklPBbE94AvgAUM/NUAAiuqUzp67Hdo=";
+      sha256 = "sha256-HJu+azYJRMW0C5hhU96pkwZxql7Ijpiz2sw9e/JoqR8=";
     });
   };
   avizo = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "715c054de57c8925982275855c7877bb44e4bad6";
+    version = "0ecaa609f9e35218271b1be55691a186f4363e8a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "715c054de57c8925982275855c7877bb44e4bad6";
+      rev = "0ecaa609f9e35218271b1be55691a186f4363e8a";
       fetchSubmodules = false;
-      sha256 = "sha256-Lj2GXvqLwKY8gdsnAN58ybc6nAwJCXqMUUSv82FYOgM=";
+      sha256 = "sha256-InHJxFBBzycokaup/jPWm3hN8UErRW4WaupPP6cGKzU=";
     });
   };
   rofi-wayland = {
