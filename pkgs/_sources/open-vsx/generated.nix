@@ -1143,15 +1143,15 @@
   };
   GrapeCity-gc-excelviewer = {
     pname = "GrapeCity-gc-excelviewer";
-    version = "4.0.45";
+    version = "4.2.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.0.45/file/GrapeCity.gc-excelviewer-4.0.45.vsix";
-      sha256 = "sha256-9x2NCH3waeOwaY0A2/ZlLlOCUcd87r0uYsEgrl/n+hs=";
+      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.53/file/GrapeCity.gc-excelviewer-4.2.53.vsix";
+      sha256 = "sha256-OKxqq4YNQGRhCgL4V7fQT1xtTzHcR5tZ2EBLP4lp5qE=";
     };
     name = "gc-excelviewer";
     license = "MIT";
     publisher = "GrapeCity";
-    description = "View Excel spreadsheets and CSV files within Visual Studio Code and VS Code for the Web.";
+    description = "Edit Excel spreadsheets and CSV files in Visual Studio Code and VS Code for the Web.";
   };
   GraphQL-vscode-graphql = {
     pname = "GraphQL-vscode-graphql";
@@ -3039,10 +3039,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.911";
+    version = "2022.3.920";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.911/file/Slint.slint-nightly-2022.3.911.vsix";
-      sha256 = "sha256-w0B5d6+OUBCFBFHmQ2WR5KMu2jYNiksX2kbniMkYuvk=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.920/file/Slint.slint-nightly-2022.3.920.vsix";
+      sha256 = "sha256-ZxOm1xg8gmzyVlHQPNpn3XV4eVTQhMbIAIWeD0KMZ5g=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3528,6 +3528,18 @@
     license = "MIT";
     publisher = "Wscats";
     description = "Simple extensions for React/Redux/Typescript/Javascript/Omi snippets";
+  };
+  XadillaX-viml = {
+    pname = "XadillaX-viml";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/XadillaX/viml/1.1.1/file/XadillaX.viml-1.1.1.vsix";
+      sha256 = "sha256-QUYsa8knROwXSaigGKJkagq1eROMxylCZmqKtrHUhbM=";
+    };
+    name = "viml";
+    license = "MIT";
+    publisher = "XadillaX";
+    description = "Vim Script language support for VSCode.";
   };
   Xangelix-srslang-snippets = {
     pname = "Xangelix-srslang-snippets";
@@ -10779,10 +10791,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "175.0.0";
+    version = "176.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/175.0.0/file/lextudio.restructuredtext-175.0.0.vsix";
-      sha256 = "sha256-7RmgwU+CNJmqtUQgRfitT4ba1CCD2HxEXky5t2nhT5E=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/176.0.0/file/lextudio.restructuredtext-176.0.0.vsix";
+      sha256 = "sha256-BrrFfnP7KYnQh3xVa0hHETB7F4aSoDZS14KLY+pbRao=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -11895,10 +11907,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.227";
+    version = "1.1.228";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.227/file/ms-pyright.pyright-1.1.227.vsix";
-      sha256 = "sha256-x+wa+Bb49R1kGrOHRpEUdGvb3+6jfoCdtkzA+AG3YHk=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.228/file/ms-pyright.pyright-1.1.228.vsix";
+      sha256 = "sha256-Y3sQyJnFGaFxA+LE5Zkj1EK7RogJmACQihMAttNsK2w=";
     };
     name = "pyright";
     license = "MIT";
