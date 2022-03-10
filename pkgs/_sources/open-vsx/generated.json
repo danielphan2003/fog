@@ -1883,7 +1883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "JimKnopf-jkons-extension-pack",
-    "version": "0.1.10",
+    "version": "0.2.0",
     "passthru": {
       "name": "jkons-extension-pack",
       "license": "MIT",
@@ -1891,10 +1891,10 @@
       "description": "An Extension Pack for a simple setup at school"
     },
     "src": {
-      "url": "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.1.10/file/JimKnopf.jkons-extension-pack-0.1.10.vsix",
+      "url": "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.2.0/file/JimKnopf.jkons-extension-pack-0.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-meRcxxDrJsLpVO2CATHfywohBZw+QjvMi+aifwaHykU="
+      "sha256": "sha256-ZApq/b38udN6X732txVozJ+0Ir/vgTdkvnMVctlN4gw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3143,7 +3143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.7.8",
+    "version": "0.7.9",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3151,10 +3151,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.7.8/file/d-biehl.robotcode-0.7.8.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.7.9/file/d-biehl.robotcode-0.7.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HI5jvonFMr4KUd8IQXRNJSf/xBqg85xosfjQzh7eejk="
+      "sha256": "sha256-UcsO3L9X3x4nCs63IOSz7YO4c5Kh9OyRNof46k9ds+U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14383,7 +14383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "edukera-archetype",
-    "version": "0.49.0",
+    "version": "0.50.0",
     "passthru": {
       "name": "archetype",
       "license": "MIT",
@@ -14391,10 +14391,10 @@
       "description": "DSL to develop smart contracts on the Tezos blockchain."
     },
     "src": {
-      "url": "https://open-vsx.org/api/edukera/archetype/0.49.0/file/edukera.archetype-0.49.0.vsix",
+      "url": "https://open-vsx.org/api/edukera/archetype/0.50.0/file/edukera.archetype-0.50.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aj+mlK9bUqQaFymPfjfOIub9eVBw+lSP/owa1T72YTw="
+      "sha256": "sha256-xkYA0kZDJq7NVjz+5CM4tmPupnFRvO+hawmfCPcj2l0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25703,7 +25703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "antfu-iconify",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "passthru": {
       "name": "iconify",
       "license": "MIT",
@@ -25711,10 +25711,10 @@
       "description": "Intelligent Iconify previewing and searching for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/antfu/iconify/0.3.0/file/antfu.iconify-0.3.0.vsix",
+      "url": "https://open-vsx.org/api/antfu/iconify/0.3.1/file/antfu.iconify-0.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zpJ5oQw8eW3OzlGJaIL016UTsKQwG0+2jXa2QqpCYH8="
+      "sha256": "sha256-kPoDaQzHhCAdLRJOS6DG3mJAz3cnx5+BmxO+8LDAyWI="
     },
     "extract": null,
     "rustGitDeps": null

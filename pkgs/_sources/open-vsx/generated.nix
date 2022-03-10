@@ -1683,10 +1683,10 @@
   };
   JimKnopf-jkons-extension-pack = {
     pname = "JimKnopf-jkons-extension-pack";
-    version = "0.1.10";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.1.10/file/JimKnopf.jkons-extension-pack-0.1.10.vsix";
-      sha256 = "sha256-meRcxxDrJsLpVO2CATHfywohBZw+QjvMi+aifwaHykU=";
+      url = "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.2.0/file/JimKnopf.jkons-extension-pack-0.2.0.vsix";
+      sha256 = "sha256-ZApq/b38udN6X732txVozJ+0Ir/vgTdkvnMVctlN4gw=";
     };
     name = "jkons-extension-pack";
     license = "MIT";
@@ -4311,10 +4311,10 @@
   };
   antfu-iconify = {
     pname = "antfu-iconify";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/iconify/0.3.0/file/antfu.iconify-0.3.0.vsix";
-      sha256 = "sha256-zpJ5oQw8eW3OzlGJaIL016UTsKQwG0+2jXa2QqpCYH8=";
+      url = "https://open-vsx.org/api/antfu/iconify/0.3.1/file/antfu.iconify-0.3.1.vsix";
+      sha256 = "sha256-kPoDaQzHhCAdLRJOS6DG3mJAz3cnx5+BmxO+8LDAyWI=";
     };
     name = "iconify";
     license = "MIT";
@@ -6303,10 +6303,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.7.8";
+    version = "0.7.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.8/file/d-biehl.robotcode-0.7.8.vsix";
-      sha256 = "sha256-HI5jvonFMr4KUd8IQXRNJSf/xBqg85xosfjQzh7eejk=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.9/file/d-biehl.robotcode-0.7.9.vsix";
+      sha256 = "sha256-UcsO3L9X3x4nCs63IOSz7YO4c5Kh9OyRNof46k9ds+U=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7107,10 +7107,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.49.0";
+    version = "0.50.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.49.0/file/edukera.archetype-0.49.0.vsix";
-      sha256 = "sha256-aj+mlK9bUqQaFymPfjfOIub9eVBw+lSP/owa1T72YTw=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.50.0/file/edukera.archetype-0.50.0.vsix";
+      sha256 = "sha256-xkYA0kZDJq7NVjz+5CM4tmPupnFRvO+hawmfCPcj2l0=";
     };
     name = "archetype";
     license = "MIT";
