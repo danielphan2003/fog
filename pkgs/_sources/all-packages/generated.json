@@ -350,9 +350,9 @@
   },
   "spotifyd": {
     "pinned": false,
-    "cargoLock": "./spotifyd-20829f4d2f346029f4a5b4b093a8ecde4084e1e9/Cargo.lock",
+    "cargoLock": "./spotifyd-f8fce08b4f81397d5628f40d9379e93ff7bbe073/Cargo.lock",
     "name": "spotifyd",
-    "version": "20829f4d2f346029f4a5b4b093a8ecde4084e1e9",
+    "version": "f8fce08b4f81397d5628f40d9379e93ff7bbe073",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -362,8 +362,8 @@
       "name": null,
       "repo": "spotifyd",
       "type": "github",
-      "sha256": "sha256-xTilrrJayg5y/Y4PD2T65wveNizsS4DXUZwAedZU9gk=",
-      "rev": "20829f4d2f346029f4a5b4b093a8ecde4084e1e9"
+      "sha256": "sha256-7AkQIcDL4tERJNerVxe8HY6qJzrd+uUrja2eWHaGLUs=",
+      "rev": "f8fce08b4f81397d5628f40d9379e93ff7bbe073"
     },
     "extract": null,
     "rustGitDeps": {}
