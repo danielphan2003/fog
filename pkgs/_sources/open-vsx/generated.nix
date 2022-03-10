@@ -3531,10 +3531,10 @@
   };
   XadillaX-viml = {
     pname = "XadillaX-viml";
-    version = "1.1.1";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XadillaX/viml/1.1.1/file/XadillaX.viml-1.1.1.vsix";
-      sha256 = "sha256-QUYsa8knROwXSaigGKJkagq1eROMxylCZmqKtrHUhbM=";
+      url = "https://open-vsx.org/api/XadillaX/viml/2.0.0/file/XadillaX.viml-2.0.0.vsix";
+      sha256 = "sha256-E6QMBVQOBIJKHzCwgsv25bU718jpLuY1ruRkqK5YH6c=";
     };
     name = "viml";
     license = "MIT";
@@ -17055,10 +17055,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.9.1";
+    version = "2.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.9.1/file/usernamehw.todo-md-2.9.1.vsix";
-      sha256 = "sha256-Iy/vqr//Ois7UznNnMEqo9WpQaa4bD8rTrjCSfXplus=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.9.2/file/usernamehw.todo-md-2.9.2.vsix";
+      sha256 = "sha256-ivr1hEC+91/z9bNqDG4sY0sbJbr+wzbXIjD0Dg2NQV4=";
     };
     name = "todo-md";
     license = "MIT";
@@ -19239,10 +19239,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.1/file/zardoy.vetur-extended-0.0.1.vsix";
-      sha256 = "sha256-H2S640Pq/wAAOILtc78aDg4EuE8Y0KccAclbQpXX+D4=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.2/file/zardoy.vetur-extended-0.0.2.vsix";
+      sha256 = "sha256-WwhySIlBtCpzLh1smVEvNrci7Iy6r70ONKADqlMKaVs=";
     };
     name = "vetur-extended";
     license = "MIT";

@@ -1983,7 +1983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -1991,10 +1991,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.1/file/zardoy.vetur-extended-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.2/file/zardoy.vetur-extended-0.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-H2S640Pq/wAAOILtc78aDg4EuE8Y0KccAclbQpXX+D4="
+      "sha256": "sha256-WwhySIlBtCpzLh1smVEvNrci7Iy6r70ONKADqlMKaVs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25123,7 +25123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-todo-md",
-    "version": "2.9.1",
+    "version": "2.9.2",
     "passthru": {
       "name": "todo-md",
       "license": "MIT",
@@ -25131,10 +25131,10 @@
       "description": "Todo tracking based on `todo.txt` format."
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/todo-md/2.9.1/file/usernamehw.todo-md-2.9.1.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/todo-md/2.9.2/file/usernamehw.todo-md-2.9.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Iy/vqr//Ois7UznNnMEqo9WpQaa4bD8rTrjCSfXplus="
+      "sha256": "sha256-ivr1hEC+91/z9bNqDG4sY0sbJbr+wzbXIjD0Dg2NQV4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28903,7 +28903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XadillaX-viml",
-    "version": "1.1.1",
+    "version": "2.0.0",
     "passthru": {
       "name": "viml",
       "license": "MIT",
@@ -28911,10 +28911,10 @@
       "description": "Vim Script language support for VSCode."
     },
     "src": {
-      "url": "https://open-vsx.org/api/XadillaX/viml/1.1.1/file/XadillaX.viml-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/XadillaX/viml/2.0.0/file/XadillaX.viml-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QUYsa8knROwXSaigGKJkagq1eROMxylCZmqKtrHUhbM="
+      "sha256": "sha256-E6QMBVQOBIJKHzCwgsv25bU718jpLuY1ruRkqK5YH6c="
     },
     "extract": null,
     "rustGitDeps": null
