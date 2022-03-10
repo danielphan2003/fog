@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.85.3",
+    "version": "0.85.4",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.85.3/file/dendron.nightly-0.85.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.85.4/file/dendron.nightly-0.85.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FoPlkWClzmxDR3IwUAeMiLvE7a1Yy3IUQb3sDOFQ73k="
+      "sha256": "sha256-oYyn6vw50ljlJnq9dJu/FnaYxGdsXz2wtX+uBTIpC5A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6963,7 +6963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zokugun-sync-settings",
-    "version": "0.9.0",
+    "version": "0.10.0",
     "passthru": {
       "name": "sync-settings",
       "license": "MIT",
@@ -6971,10 +6971,10 @@
       "description": "Easily synchronize your settings"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.9.0/file/zokugun.sync-settings-0.9.0.vsix",
+      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.10.0/file/zokugun.sync-settings-0.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jgRAiwR+AF7EJRJyL9pYtTOwiF0xVsdbwYcdBxV9E2E="
+      "sha256": "sha256-NL/nT0mG3VjNFDZaSirtMlYhhCowqYgP0jIfIR4DkcY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9163,7 +9163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.26",
+    "version": "3.5.28",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9171,10 +9171,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.26/file/TabNine.tabnine-vscode-3.5.26.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.28/file/TabNine.tabnine-vscode-3.5.28.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XgSPy7xGKNG8l3KFk1fhw+YTqFv5DoOfyPVOu3KaExk="
+      "sha256": "sha256-h394jt0AeHAjA4iR4H1EEPOpfqzSza/BvexOlknOBS4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22183,7 +22183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "passthru": {
       "name": "slint",
       "license": "GPL-3.0",
@@ -22191,10 +22191,10 @@
       "description": "Slint Language extension"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint/0.2.0/file/Slint.slint-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint/0.2.1/file/Slint.slint-0.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7e6+z8sgJ91ph0EjNQvrv9Z9x4mY5z/w+dwORnYDHFc="
+      "sha256": "sha256-KNB0Z/sKDI0uSYH+F138PVzWY2me3hfj5zWrW7jmAIs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24983,7 +24983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-npm-rapid-ready",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "passthru": {
       "name": "npm-rapid-ready",
       "license": "MIT",
@@ -24991,10 +24991,10 @@
       "description": "Full-featured extension for npm ecosystem"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.6/file/zardoy.npm-rapid-ready-0.1.6.vsix",
+      "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.7/file/zardoy.npm-rapid-ready-0.1.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PGDEhHMXFcn6I5z0vTvbXX3TXPa7DThUKApqEN4W7gU="
+      "sha256": "sha256-FlY/It9ZZUdyswRtENSbydQVpbB+yC8TIOs96FH5Oqo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26463,7 +26463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitLab-gitlab-workflow",
-    "version": "3.41.0",
+    "version": "3.41.1",
     "passthru": {
       "name": "gitlab-workflow",
       "license": "MIT",
@@ -26471,10 +26471,10 @@
       "description": "GitLab extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.0/file/GitLab.gitlab-workflow-3.41.0.vsix",
+      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.1/file/GitLab.gitlab-workflow-3.41.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Z6XHQFfJ6m7PYtB7ackAK2Z9Y1KVNxuVrnsH4NICHcw="
+      "sha256": "sha256-wPPsm5ziBMx2E0vk/Qv3rii3vex5uC4lDmL3p9vIXYo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30903,7 +30903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cweijan-vscode-mysql-client2",
-    "version": "4.7.7",
+    "version": "4.7.8",
     "passthru": {
       "name": "vscode-mysql-client2",
       "license": "MIT",
@@ -30911,10 +30911,10 @@
       "description": "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.7/file/cweijan.vscode-mysql-client2-4.7.7.vsix",
+      "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.8/file/cweijan.vscode-mysql-client2-4.7.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GLr241HaFH1DPhTgl7j2qM6/THd8QDRbKU0O1mDNig4="
+      "sha256": "sha256-HRKzcEdGm91jADZ4AMfWlhbBLBkQBKw14mO9mosetmQ="
     },
     "extract": null,
     "rustGitDeps": null

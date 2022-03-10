@@ -1131,10 +1131,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.41.0";
+    version = "3.41.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.0/file/GitLab.gitlab-workflow-3.41.0.vsix";
-      sha256 = "sha256-Z6XHQFfJ6m7PYtB7ackAK2Z9Y1KVNxuVrnsH4NICHcw=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.1/file/GitLab.gitlab-workflow-3.41.1.vsix";
+      sha256 = "sha256-wPPsm5ziBMx2E0vk/Qv3rii3vex5uC4lDmL3p9vIXYo=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -3027,10 +3027,10 @@
   };
   Slint-slint = {
     pname = "Slint-slint";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.2.0/file/Slint.slint-0.2.0.vsix";
-      sha256 = "sha256-7e6+z8sgJ91ph0EjNQvrv9Z9x4mY5z/w+dwORnYDHFc=";
+      url = "https://open-vsx.org/api/Slint/slint/0.2.1/file/Slint.slint-0.2.1.vsix";
+      sha256 = "sha256-KNB0Z/sKDI0uSYH+F138PVzWY2me3hfj5zWrW7jmAIs=";
     };
     name = "slint";
     license = "GPL-3.0";
@@ -3195,10 +3195,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.26";
+    version = "3.5.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.26/file/TabNine.tabnine-vscode-3.5.26.vsix";
-      sha256 = "sha256-XgSPy7xGKNG8l3KFk1fhw+YTqFv5DoOfyPVOu3KaExk=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.28/file/TabNine.tabnine-vscode-3.5.28.vsix";
+      sha256 = "sha256-h394jt0AeHAjA4iR4H1EEPOpfqzSza/BvexOlknOBS4=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6219,10 +6219,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "4.7.7";
+    version = "4.7.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.7/file/cweijan.vscode-mysql-client2-4.7.7.vsix";
-      sha256 = "sha256-GLr241HaFH1DPhTgl7j2qM6/THd8QDRbKU0O1mDNig4=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.8/file/cweijan.vscode-mysql-client2-4.7.8.vsix";
+      sha256 = "sha256-HRKzcEdGm91jADZ4AMfWlhbBLBkQBKw14mO9mosetmQ=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
@@ -6711,10 +6711,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.85.3";
+    version = "0.85.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.85.3/file/dendron.nightly-0.85.3.vsix";
-      sha256 = "sha256-FoPlkWClzmxDR3IwUAeMiLvE7a1Yy3IUQb3sDOFQ73k=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.85.4/file/dendron.nightly-0.85.4.vsix";
+      sha256 = "sha256-oYyn6vw50ljlJnq9dJu/FnaYxGdsXz2wtX+uBTIpC5A=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -19203,10 +19203,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.6/file/zardoy.npm-rapid-ready-0.1.6.vsix";
-      sha256 = "sha256-PGDEhHMXFcn6I5z0vTvbXX3TXPa7DThUKApqEN4W7gU=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.7/file/zardoy.npm-rapid-ready-0.1.7.vsix";
+      sha256 = "sha256-FlY/It9ZZUdyswRtENSbydQVpbB+yC8TIOs96FH5Oqo=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
@@ -19431,10 +19431,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.9.0";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.9.0/file/zokugun.sync-settings-0.9.0.vsix";
-      sha256 = "sha256-jgRAiwR+AF7EJRJyL9pYtTOwiF0xVsdbwYcdBxV9E2E=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.10.0/file/zokugun.sync-settings-0.10.0.vsix";
+      sha256 = "sha256-NL/nT0mG3VjNFDZaSirtMlYhhCowqYgP0jIfIR4DkcY=";
     };
     name = "sync-settings";
     license = "MIT";
