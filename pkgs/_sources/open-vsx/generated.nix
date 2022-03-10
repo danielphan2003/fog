@@ -1683,10 +1683,10 @@
   };
   JimKnopf-jkons-extension-pack = {
     pname = "JimKnopf-jkons-extension-pack";
-    version = "0.1.0";
+    version = "0.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.1.0/file/JimKnopf.jkons-extension-pack-0.1.0.vsix";
-      sha256 = "sha256-4EF13+LIpEU1M4Wsg06f0V/noMeTvfxB7phN3qBqD8Y=";
+      url = "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.1.10/file/JimKnopf.jkons-extension-pack-0.1.10.vsix";
+      sha256 = "sha256-meRcxxDrJsLpVO2CATHfywohBZw+QjvMi+aifwaHykU=";
     };
     name = "jkons-extension-pack";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.704";
+    version = "31.0.705";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.704/file/Prisma.prisma-insider-31.0.704.vsix";
-      sha256 = "sha256-6DnRH3XzFtCS/Izb6fjzBv3prTxvDUZ+lsmuotf0iTw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.705/file/Prisma.prisma-insider-31.0.705.vsix";
+      sha256 = "sha256-ykn2tSqFRtdBxGlI23FckdnQdCTHSyG8FhyoJ6qA8+c=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
