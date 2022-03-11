@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.85.4",
+    "version": "0.85.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.85.4/file/dendron.nightly-0.85.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.85.5/file/dendron.nightly-0.85.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oYyn6vw50ljlJnq9dJu/FnaYxGdsXz2wtX+uBTIpC5A="
+      "sha256": "sha256-SAs5DqjFtDVtm0auSAlLQ/E6OC5GbCkSmzBZcXq93e8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12363,7 +12363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.298",
+    "version": "0.25.299",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12371,10 +12371,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.298/file/pokey.cursorless-0.25.298.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.299/file/pokey.cursorless-0.25.299.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a72YG4+OE43deEOdRkwyvg2xReGC6/LwFbNSIYDZd1k="
+      "sha256": "sha256-dEdS7MMmdRRI4VHCneAWzt3tQ8H+EfFBI8bw+4BBD70="
     },
     "extract": null,
     "rustGitDeps": null
