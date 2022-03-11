@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.706";
+    version = "31.0.707";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.706/file/Prisma.prisma-insider-31.0.706.vsix";
-      sha256 = "sha256-CgGswn1h6VkThlwkdS88fKvDP8GeDfwZG8toyCmIsOs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.707/file/Prisma.prisma-insider-31.0.707.vsix";
+      sha256 = "sha256-Jj9enSjSTpMsdRO9GScbBGdNGQAJCjARIXzyzkUzTzw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7167,10 +7167,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1962004";
+    version = "7.0.1968499";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1962004/file/eliostruyf.vscode-front-matter-beta-7.0.1962004.vsix";
-      sha256 = "sha256-FKpzxjkKbfZ6GOazqNEfJnQQzdeGHdB4lERwSFcY+Pg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1968499/file/eliostruyf.vscode-front-matter-beta-7.0.1968499.vsix";
+      sha256 = "sha256-MA03f3dI35eWDmCvmH0ZYRgOptGmAvSNWbLVkXI61E4=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -8331,10 +8331,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.8";
+    version = "0.4.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.8/file/gitduck.code-streaming-0.4.8.vsix";
-      sha256 = "sha256-7zR1WNCDNpBRPQdC6kvOAzznEPdddAft4+WD/asLbkQ=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.9/file/gitduck.code-streaming-0.4.9.vsix";
+      sha256 = "sha256-l5o79oWMMPfxbfFP/VsinOOAQd0FKxflVVKvsxNBoZc=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -11703,10 +11703,10 @@
   };
   mkhl-shfmt = {
     pname = "mkhl-shfmt";
-    version = "1.0.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mkhl/shfmt/1.0.0/file/mkhl.shfmt-1.0.0.vsix";
-      sha256 = "sha256-PgAFa4vJrYY+VSvrEGdpQ4WjrY2cyHVOkXiA8UBp1Zk=";
+      url = "https://open-vsx.org/api/mkhl/shfmt/1.1.1/file/mkhl.shfmt-1.1.1.vsix";
+      sha256 = "sha256-oH0kPLPJ1M1MolWY36gSHfnzFB94Uvt7SY1sgKEBpE4=";
     };
     name = "shfmt";
     license = "0BSD";
@@ -11832,6 +11832,18 @@
     license = "";
     publisher = "mrakgr";
     description = "VS Code editor support plugin + the Spiral language compiler.";
+  };
+  mrcrowl-hg = {
+    pname = "mrcrowl-hg";
+    version = "1.8.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mrcrowl/hg/1.8.1/file/mrcrowl.hg-1.8.1.vsix";
+      sha256 = "sha256-ydr8AJ3V0d8/SBU84D8pMCqbUhf605Mhtq5hgEt9h0M=";
+    };
+    name = "hg";
+    license = "MIT";
+    publisher = "mrcrowl";
+    description = "Integrated Mercurial source control";
   };
   mrmlnc-vscode-apache = {
     pname = "mrmlnc-vscode-apache";

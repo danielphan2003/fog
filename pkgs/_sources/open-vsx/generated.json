@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.8",
+    "version": "0.4.9",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -5691,10 +5691,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.8/file/gitduck.code-streaming-0.4.8.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.9/file/gitduck.code-streaming-0.4.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7zR1WNCDNpBRPQdC6kvOAzznEPdddAft4+WD/asLbkQ="
+      "sha256": "sha256-l5o79oWMMPfxbfFP/VsinOOAQd0FKxflVVKvsxNBoZc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9103,7 +9103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1962004",
+    "version": "7.0.1968499",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9111,10 +9111,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1962004/file/eliostruyf.vscode-front-matter-beta-7.0.1962004.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1968499/file/eliostruyf.vscode-front-matter-beta-7.0.1968499.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FKpzxjkKbfZ6GOazqNEfJnQQzdeGHdB4lERwSFcY+Pg="
+      "sha256": "sha256-MA03f3dI35eWDmCvmH0ZYRgOptGmAvSNWbLVkXI61E4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9875,6 +9875,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-lt7fFHq2zjrRMWxrXCzjckrTmvUlDeyWr6WqlCpC2pQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "mrcrowl-hg": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "mrcrowl-hg",
+    "version": "1.8.1",
+    "passthru": {
+      "name": "hg",
+      "license": "MIT",
+      "publisher": "mrcrowl",
+      "description": "Integrated Mercurial source control"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/mrcrowl/hg/1.8.1/file/mrcrowl.hg-1.8.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ydr8AJ3V0d8/SBU84D8pMCqbUhf605Mhtq5hgEt9h0M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27583,7 +27603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mkhl-shfmt",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "shfmt",
       "license": "0BSD",
@@ -27591,10 +27611,10 @@
       "description": "format shell programs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mkhl/shfmt/1.0.0/file/mkhl.shfmt-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/mkhl/shfmt/1.1.1/file/mkhl.shfmt-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PgAFa4vJrYY+VSvrEGdpQ4WjrY2cyHVOkXiA8UBp1Zk="
+      "sha256": "sha256-oH0kPLPJ1M1MolWY36gSHfnzFB94Uvt7SY1sgKEBpE4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29283,7 +29303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.706",
+    "version": "31.0.707",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29291,10 +29311,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.706/file/Prisma.prisma-insider-31.0.706.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.707/file/Prisma.prisma-insider-31.0.707.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CgGswn1h6VkThlwkdS88fKvDP8GeDfwZG8toyCmIsOs="
+      "sha256": "sha256-Jj9enSjSTpMsdRO9GScbBGdNGQAJCjARIXzyzkUzTzw="
     },
     "extract": null,
     "rustGitDeps": null
