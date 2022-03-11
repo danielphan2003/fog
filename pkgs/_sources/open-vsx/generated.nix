@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.710";
+    version = "31.0.712";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.710/file/Prisma.prisma-insider-31.0.710.vsix";
-      sha256 = "sha256-oGnni2PYNCRmnw6FR4Frxwpqn2WcTYBBPvIRUXhGrXg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.712/file/Prisma.prisma-insider-31.0.712.vsix";
+      sha256 = "sha256-znDPKhFdsUSK3p6N4owo/4Jrco6Pd1gNhZYrYgNPj9U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3099,10 +3099,10 @@
   };
   SqrTT-prophet = {
     pname = "SqrTT-prophet";
-    version = "1.4.25";
+    version = "1.4.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SqrTT/prophet/1.4.25/file/SqrTT.prophet-1.4.25.vsix";
-      sha256 = "sha256-Vj6sUXh/5UeVodJaIy3U3hUR0JDsvf3qJ9M7F4wTW4U=";
+      url = "https://open-vsx.org/api/SqrTT/prophet/1.4.27/file/SqrTT.prophet-1.4.27.vsix";
+      sha256 = "sha256-2ABcdfJbKOgUJCR35ucM80sDNCC0FL+UCsRr+9/Ep9s=";
     };
     name = "prophet";
     license = "MIT";
@@ -8235,10 +8235,10 @@
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.10/file/gera2ld.markmap-vscode-0.0.10.vsix";
-      sha256 = "sha256-8jd6BtQjbsZBPb3NnUuzGMTAPmo907mMH4HQUvFgLSE=";
+      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.11/file/gera2ld.markmap-vscode-0.0.11.vsix";
+      sha256 = "sha256-SIbElZU+6NnjGt1I/MWc5xqHL8D4u9YkfiRcBAqRGE0=";
     };
     name = "markmap-vscode";
     license = "MIT";
@@ -10083,10 +10083,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.27";
+    version = "0.6.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.27/file/kahole.magit-0.6.27.vsix";
-      sha256 = "sha256-Ta2rbS02MnDxT6194NpOFbAlHOGzWXOg6iloBngxs/w=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.28/file/kahole.magit-0.6.28.vsix";
+      sha256 = "sha256-5OWLHoBaLH04BL1a695biTMAFHVJbJ/EKfvp9tCygWg=";
     };
     name = "magit";
     license = "MIT";
@@ -11775,10 +11775,10 @@
   };
   moshfeu-diff-merge = {
     pname = "moshfeu-diff-merge";
-    version = "0.5.3";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.5.3/file/moshfeu.diff-merge-0.5.3.vsix";
-      sha256 = "sha256-2wzi1aWkzBdCDYZKbrIKTP+Rt7QwiaaAuKN4utKeIv8=";
+      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.6.0/file/moshfeu.diff-merge-0.6.0.vsix";
+      sha256 = "sha256-qSnDfES+/zJu5+lWGRf8cRLAkTL8IIVpk7mi70blN4M=";
     };
     name = "diff-merge";
     license = "MIT";
@@ -13911,10 +13911,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.7.0";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.7.0/file/quarto.quarto-1.7.0.vsix";
-      sha256 = "sha256-9VuPVHn8/m8UAJQxPHoEQA4uVQbLlEaIv1j03F4I1Cg=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.8.0/file/quarto.quarto-1.8.0.vsix";
+      sha256 = "sha256-qHQHDE5hH3Z5Vv6jxn7oXSpb2Hk08whAj78tcWKOkZ0=";
     };
     name = "quarto";
     license = "MIT";
