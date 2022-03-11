@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.707";
+    version = "31.0.708";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.707/file/Prisma.prisma-insider-31.0.707.vsix";
-      sha256 = "sha256-Jj9enSjSTpMsdRO9GScbBGdNGQAJCjARIXzyzkUzTzw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.708/file/Prisma.prisma-insider-31.0.708.vsix";
+      sha256 = "sha256-qYCVLLra/rFgG1DLZHtvKmKCuCnxSJzhFUvpPF2ShdM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -19275,10 +19275,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.3/file/zardoy.vetur-extended-0.0.3.vsix";
-      sha256 = "sha256-ELARAY/yxIwZf7o5mSl6OL9Ub0jJK0Wuf5gSWt97ZaU=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.4/file/zardoy.vetur-extended-0.0.4.vsix";
+      sha256 = "sha256-Jma9bjb8vp9PD6PIWtGjUzzqAgG6iKQE4hh6a84tocU=";
     };
     name = "vetur-extended";
     license = "MIT";

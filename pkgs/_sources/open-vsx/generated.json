@@ -1983,7 +1983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -1991,10 +1991,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.3/file/zardoy.vetur-extended-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.4/file/zardoy.vetur-extended-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ELARAY/yxIwZf7o5mSl6OL9Ub0jJK0Wuf5gSWt97ZaU="
+      "sha256": "sha256-Jma9bjb8vp9PD6PIWtGjUzzqAgG6iKQE4hh6a84tocU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29303,7 +29303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.707",
+    "version": "31.0.708",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29311,10 +29311,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.707/file/Prisma.prisma-insider-31.0.707.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.708/file/Prisma.prisma-insider-31.0.708.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jj9enSjSTpMsdRO9GScbBGdNGQAJCjARIXzyzkUzTzw="
+      "sha256": "sha256-qYCVLLra/rFgG1DLZHtvKmKCuCnxSJzhFUvpPF2ShdM="
     },
     "extract": null,
     "rustGitDeps": null
