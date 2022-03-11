@@ -3039,10 +3039,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.920";
+    version = "2022.3.1013";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.920/file/Slint.slint-nightly-2022.3.920.vsix";
-      sha256 = "sha256-ZxOm1xg8gmzyVlHQPNpn3XV4eVTQhMbIAIWeD0KMZ5g=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1013/file/Slint.slint-nightly-2022.3.1013.vsix";
+      sha256 = "sha256-DleVzrt/ZflS4f1uB+hPqJEZj+OfjELkUgtV5vb3Seo=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -6987,10 +6987,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.0.1";
+    version = "12.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.1/file/eamodio.gitlens-12.0.1.vsix";
-      sha256 = "sha256-HcWSExCQnkPZbBHUDUbgaPzqMxf72iuhRAoPYvrfYfc=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.3/file/eamodio.gitlens-12.0.3.vsix";
+      sha256 = "sha256-PHQXfk0JggkEBRflHp+OAUOCVuymCubaszfDCYbpfG0=";
     };
     name = "gitlens";
     license = "MIT";
@@ -7836,6 +7836,18 @@
     license = "MIT";
     publisher = "foam";
     description = "VS Code + Markdown + Wikilinks for your note taking and knowledge base";
+  };
+  folke-vscode-monorepo-workspace = {
+    pname = "folke-vscode-monorepo-workspace";
+    version = "1.3.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/folke/vscode-monorepo-workspace/1.3.1/file/folke.vscode-monorepo-workspace-1.3.1.vsix";
+      sha256 = "sha256-+z6Y3gENL3TSQosfokEW5CghLG240d6rdpJXqcdOumw=";
+    };
+    name = "vscode-monorepo-workspace";
+    license = "Apache-2.0";
+    publisher = "folke";
+    description = "Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories";
   };
   formulahendry-auto-close-tag = {
     pname = "formulahendry-auto-close-tag";
@@ -9795,15 +9807,15 @@
   };
   johnpapa-Angular2 = {
     pname = "johnpapa-Angular2";
-    version = "12.0.0";
+    version = "13.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnpapa/Angular2/12.0.0/file/johnpapa.Angular2-12.0.0.vsix";
-      sha256 = "sha256-fKxBGzgVgAZux9/iy3vGM3mBVmJ+bbP1TjemZkXqWGw=";
+      url = "https://open-vsx.org/api/johnpapa/Angular2/13.0.0/file/johnpapa.Angular2-13.0.0.vsix";
+      sha256 = "sha256-w32sVUNdB+JUiyT4qP23UFaa8lReiBmGgPCoHhZhbFM=";
     };
     name = "Angular2";
     license = "MIT";
     publisher = "johnpapa";
-    description = "Angular version 12 snippets by John Papa";
+    description = "Angular version 13 snippets by John Papa";
   };
   johnpapa-vscode-peacock = {
     pname = "johnpapa-vscode-peacock";
@@ -11619,10 +11631,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.0.1";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.0.1/file/mintlify.document-2.0.1.vsix";
-      sha256 = "sha256-Z56ftbnLZebPD33yimf7QT1tcloZRw/nMTOAsnFGJL0=";
+      url = "https://open-vsx.org/api/mintlify/document/2.0.2/file/mintlify.document-2.0.2.vsix";
+      sha256 = "sha256-QyrxLnjPeSSam7Jzjleg/gRTSran9YPX5GtXuc+XzvA=";
     };
     name = "document";
     license = "Apache-2.0";
