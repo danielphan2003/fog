@@ -4755,10 +4755,10 @@
   };
   arzg-sema = {
     pname = "arzg-sema";
-    version = "1.12.0";
+    version = "1.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/sema/1.12.0/file/arzg.sema-1.12.0.vsix";
-      sha256 = "sha256-GhdJSCJsfFJRmE9UCrAaG9rq4Ge9KARaHN7854Y3PlU=";
+      url = "https://open-vsx.org/api/arzg/sema/1.12.1/file/arzg.sema-1.12.1.vsix";
+      sha256 = "sha256-vCNU6YB1TD4DzU7KRBDU4Na+dN6TV6myWYaB+qctwZE=";
     };
     name = "sema";
     license = "MIT";
@@ -11619,10 +11619,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "1.11.1";
+    version = "2.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/1.11.1/file/mintlify.document-1.11.1.vsix";
-      sha256 = "sha256-AH1rDi2K2AlrYjSOSN5Z6cKQOSDQzJ9fJoenkuoovKM=";
+      url = "https://open-vsx.org/api/mintlify/document/2.0.1/file/mintlify.document-2.0.1.vsix";
+      sha256 = "sha256-Z56ftbnLZebPD33yimf7QT1tcloZRw/nMTOAsnFGJL0=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -19251,10 +19251,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.2/file/zardoy.vetur-extended-0.0.2.vsix";
-      sha256 = "sha256-WwhySIlBtCpzLh1smVEvNrci7Iy6r70ONKADqlMKaVs=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.3/file/zardoy.vetur-extended-0.0.3.vsix";
+      sha256 = "sha256-ELARAY/yxIwZf7o5mSl6OL9Ub0jJK0Wuf5gSWt97ZaU=";
     };
     name = "vetur-extended";
     license = "MIT";

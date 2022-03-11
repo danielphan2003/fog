@@ -1983,7 +1983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -1991,10 +1991,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.2/file/zardoy.vetur-extended-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.3/file/zardoy.vetur-extended-0.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WwhySIlBtCpzLh1smVEvNrci7Iy6r70ONKADqlMKaVs="
+      "sha256": "sha256-ELARAY/yxIwZf7o5mSl6OL9Ub0jJK0Wuf5gSWt97ZaU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12623,7 +12623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "1.11.1",
+    "version": "2.0.1",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12631,10 +12631,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/1.11.1/file/mintlify.document-1.11.1.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.0.1/file/mintlify.document-2.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AH1rDi2K2AlrYjSOSN5Z6cKQOSDQzJ9fJoenkuoovKM="
+      "sha256": "sha256-Z56ftbnLZebPD33yimf7QT1tcloZRw/nMTOAsnFGJL0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14043,7 +14043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-sema",
-    "version": "1.12.0",
+    "version": "1.12.1",
     "passthru": {
       "name": "sema",
       "license": "MIT",
@@ -14051,10 +14051,10 @@
       "description": "A theme that focuses on whatâs important"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/sema/1.12.0/file/arzg.sema-1.12.0.vsix",
+      "url": "https://open-vsx.org/api/arzg/sema/1.12.1/file/arzg.sema-1.12.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GhdJSCJsfFJRmE9UCrAaG9rq4Ge9KARaHN7854Y3PlU="
+      "sha256": "sha256-vCNU6YB1TD4DzU7KRBDU4Na+dN6TV6myWYaB+qctwZE="
     },
     "extract": null,
     "rustGitDeps": null
