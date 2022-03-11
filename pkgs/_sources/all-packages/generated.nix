@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "fed51f0b2d482029a33531b2d92724514a949201";
+    version = "6da2b55c394919473fedbab02501f5caf29d0092";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "fed51f0b2d482029a33531b2d92724514a949201";
+      rev = "6da2b55c394919473fedbab02501f5caf29d0092";
       fetchSubmodules = false;
-      sha256 = "sha256-VXBOF9DydCODc3j58AKFoI7GpOKkEOgbzya9iFvHzXQ=";
+      sha256 = "sha256-DCb7PWdbQXg/cGpIBfZD8HAL6Bb7bTxSzhu0tFA3Oww=";
     });
   };
   caddy = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5931";
+    version = "1.0.5933";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5931.tar.bz2";
-      sha256 = "sha256-j0rfYu8I4Mwuc1kJco9V0ueE/Ybsd1dhaJuuu+vH2Ok=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5933.tar.bz2";
+      sha256 = "sha256-5PWgempf1arWqQTHfhWMjCF5UXuvPnbi7bb/jaP9h1g=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5931";
+    version = "1.0.5933";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5931-1_all.deb";
-      sha256 = "sha256-yqw81IzNE4MseXqE3MDoNv5QnmRmMqaOHOoqvgCTeFc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5933-1_all.deb";
+      sha256 = "sha256-gMWJtlODbS6cXlIG1qXCTfUn+zzrnEHw2/ms4iuJeFs=";
     };
   };
   jitsi-videobridge2 = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "9b0c9d46085418cbfc0689dcbf352e360ca1c5ab";
+    version = "18c0de30f7a113ae0180c0157de1037ffc316941";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "9b0c9d46085418cbfc0689dcbf352e360ca1c5ab";
+      rev = "18c0de30f7a113ae0180c0157de1037ffc316941";
       fetchSubmodules = false;
-      sha256 = "sha256-mXMrQqiicXgY1Q5rLzaTBw26BuRA7FZotpEpamP+enk=";
+      sha256 = "sha256-b3qwMd5siyTYDNjJtilb+FvlQI+b3gZb/8Rv+tXkJN4=";
     });
   };
   xdg-desktop-portal-gtk = {
