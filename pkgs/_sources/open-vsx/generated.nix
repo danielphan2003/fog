@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.708";
+    version = "31.0.710";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.708/file/Prisma.prisma-insider-31.0.708.vsix";
-      sha256 = "sha256-qYCVLLra/rFgG1DLZHtvKmKCuCnxSJzhFUvpPF2ShdM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.710/file/Prisma.prisma-insider-31.0.710.vsix";
+      sha256 = "sha256-oGnni2PYNCRmnw6FR4Frxwpqn2WcTYBBPvIRUXhGrXg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4839,10 +4839,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.10.5";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.10.5/file/astro-build.astro-vscode-0.10.5.vsix";
-      sha256 = "sha256-nDsEpezDkyuE19QjLHaHn3ylqGJaEv3J1GdR9ADsASY=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.11.0/file/astro-build.astro-vscode-0.11.0.vsix";
+      sha256 = "sha256-Kxw8fse2p40gPc++ieXgqpKz6Hoq77g5e6PcuVVBuAU=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -12747,10 +12747,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.11.0";
+    version = "6.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.11.0/file/nicoespeon.abracadabra-6.11.0.vsix";
-      sha256 = "sha256-4ayCLFtFwX5hz6lTiTQEsscLl2Awiy0Ek5aQYgLtglY=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.12.0/file/nicoespeon.abracadabra-6.12.0.vsix";
+      sha256 = "sha256-aOj90uGfJpphJhs3Y1VK75goqiBsLYfmxCjTGjyQttg=";
     };
     name = "abracadabra";
     license = "MIT";
