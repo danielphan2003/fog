@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.705";
+    version = "31.0.706";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.705/file/Prisma.prisma-insider-31.0.705.vsix";
-      sha256 = "sha256-ykn2tSqFRtdBxGlI23FckdnQdCTHSyG8FhyoJ6qA8+c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.706/file/Prisma.prisma-insider-31.0.706.vsix";
+      sha256 = "sha256-CgGswn1h6VkThlwkdS88fKvDP8GeDfwZG8toyCmIsOs=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3531,15 +3531,15 @@
   };
   XadillaX-viml = {
     pname = "XadillaX-viml";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XadillaX/viml/2.0.0/file/XadillaX.viml-2.0.0.vsix";
-      sha256 = "sha256-E6QMBVQOBIJKHzCwgsv25bU718jpLuY1ruRkqK5YH6c=";
+      url = "https://open-vsx.org/api/XadillaX/viml/2.1.0/file/XadillaX.viml-2.1.0.vsix";
+      sha256 = "sha256-CclviuEfgaVGtEVJdCiznZK0Z7rF6DCGF8VCOQ405zQ=";
     };
     name = "viml";
     license = "MIT";
     publisher = "XadillaX";
-    description = "Vim Script language support for VSCode.";
+    description = "Vim Script language server protocol and highlighting support for VSCode.";
   };
   Xangelix-srslang-snippets = {
     pname = "Xangelix-srslang-snippets";
@@ -11631,10 +11631,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.0.2";
+    version = "2.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.0.2/file/mintlify.document-2.0.2.vsix";
-      sha256 = "sha256-QyrxLnjPeSSam7Jzjleg/gRTSran9YPX5GtXuc+XzvA=";
+      url = "https://open-vsx.org/api/mintlify/document/2.0.3/file/mintlify.document-2.0.3.vsix";
+      sha256 = "sha256-GKi2SSooedgwYd05+jcvYAHAfgVElXBSEKEjRUl2xI0=";
     };
     name = "document";
     license = "Apache-2.0";
