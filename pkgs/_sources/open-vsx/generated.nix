@@ -5019,10 +5019,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.4.1";
+    version = "6.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.4.1/file/barjo.anirak-6.4.1.vsix";
-      sha256 = "sha256-GAYBOZikrhFZe7GXdNEMMEKJkNvWUpjmIpOFfv372D4=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.4.2/file/barjo.anirak-6.4.2.vsix";
+      sha256 = "sha256-wvLZGquvwBLNWuXqETDwqXab5W51V9FAYqqXjV+jefs=";
     };
     name = "anirak";
     license = "Apache-2.0";

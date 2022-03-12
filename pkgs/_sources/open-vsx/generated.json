@@ -4063,7 +4063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barjo-anirak",
-    "version": "6.4.1",
+    "version": "6.4.2",
     "passthru": {
       "name": "anirak",
       "license": "Apache-2.0",
@@ -4071,10 +4071,10 @@
       "description": "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barjo/anirak/6.4.1/file/barjo.anirak-6.4.1.vsix",
+      "url": "https://open-vsx.org/api/barjo/anirak/6.4.2/file/barjo.anirak-6.4.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GAYBOZikrhFZe7GXdNEMMEKJkNvWUpjmIpOFfv372D4="
+      "sha256": "sha256-wvLZGquvwBLNWuXqETDwqXab5W51V9FAYqqXjV+jefs="
     },
     "extract": null,
     "rustGitDeps": null
