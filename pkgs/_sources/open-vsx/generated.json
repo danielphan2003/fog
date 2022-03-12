@@ -12643,7 +12643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "2.0.4",
+    "version": "2.0.5",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12651,10 +12651,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/2.0.4/file/mintlify.document-2.0.4.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.0.5/file/mintlify.document-2.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tMooBGTKuEiCRIaz3hmA1If2ZcIditOHfhzDT+UmvKs="
+      "sha256": "sha256-s8yOpZNdduzkg/HfgeM4rGIFLPeryfubHmSBsHmfQYQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14463,7 +14463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.1013",
+    "version": "2022.3.1120",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14471,10 +14471,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1013/file/Slint.slint-nightly-2022.3.1013.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1120/file/Slint.slint-nightly-2022.3.1120.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DleVzrt/ZflS4f1uB+hPqJEZj+OfjELkUgtV5vb3Seo="
+      "sha256": "sha256-paLiJYMW6qpfx76KuH+HIdgknk0y6WcjLZQQ9pyRVck="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15963,7 +15963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -15971,10 +15971,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.3/file/halcyontechltd.code-for-ibmi-1.2.3.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.4/file/halcyontechltd.code-for-ibmi-1.2.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/I4YzL0WT/Y+pvFxV+e6dwRy7m5e8Fmuj5VXE+1vTiU="
+      "sha256": "sha256-dFBLhoFWxdYEuOtoY5v/WD8cilFUX1M2l204CR1G9x0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26823,7 +26823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-ibmi-walkthroughs",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "passthru": {
       "name": "vscode-ibmi-walkthroughs",
       "license": "Apache-2.0",
@@ -26831,10 +26831,10 @@
       "description": "Adds walkthroughs for IBM i development in VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.0/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bIENqA11169seC0IHTO0AxaWonBH0wOJkJEnrThaEcM="
+      "sha256": "sha256-zCVZgtkAwutBE7sOp5RRjS5MY7t6ypk9fVUri63cq5A="
     },
     "extract": null,
     "rustGitDeps": null

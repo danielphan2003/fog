@@ -3039,10 +3039,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.1013";
+    version = "2022.3.1120";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1013/file/Slint.slint-nightly-2022.3.1013.vsix";
-      sha256 = "sha256-DleVzrt/ZflS4f1uB+hPqJEZj+OfjELkUgtV5vb3Seo=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1120/file/Slint.slint-nightly-2022.3.1120.vsix";
+      sha256 = "sha256-paLiJYMW6qpfx76KuH+HIdgknk0y6WcjLZQQ9pyRVck=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8583,10 +8583,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.2.3";
+    version = "1.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.3/file/halcyontechltd.code-for-ibmi-1.2.3.vsix";
-      sha256 = "sha256-/I4YzL0WT/Y+pvFxV+e6dwRy7m5e8Fmuj5VXE+1vTiU=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.4/file/halcyontechltd.code-for-ibmi-1.2.4.vsix";
+      sha256 = "sha256-dFBLhoFWxdYEuOtoY5v/WD8cilFUX1M2l204CR1G9x0=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -8595,10 +8595,10 @@
   };
   halcyontechltd-vscode-ibmi-walkthroughs = {
     pname = "halcyontechltd-vscode-ibmi-walkthroughs";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.0/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.0.vsix";
-      sha256 = "sha256-bIENqA11169seC0IHTO0AxaWonBH0wOJkJEnrThaEcM=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.1.vsix";
+      sha256 = "sha256-zCVZgtkAwutBE7sOp5RRjS5MY7t6ypk9fVUri63cq5A=";
     };
     name = "vscode-ibmi-walkthroughs";
     license = "Apache-2.0";
@@ -11631,10 +11631,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.0.4";
+    version = "2.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.0.4/file/mintlify.document-2.0.4.vsix";
-      sha256 = "sha256-tMooBGTKuEiCRIaz3hmA1If2ZcIditOHfhzDT+UmvKs=";
+      url = "https://open-vsx.org/api/mintlify/document/2.0.5/file/mintlify.document-2.0.5.vsix";
+      sha256 = "sha256-s8yOpZNdduzkg/HfgeM4rGIFLPeryfubHmSBsHmfQYQ=";
     };
     name = "document";
     license = "Apache-2.0";
