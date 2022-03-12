@@ -22423,7 +22423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mkhl-direnv",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "passthru": {
       "name": "direnv",
       "license": "0BSD",
@@ -22431,10 +22431,10 @@
       "description": "unclutter your .profile"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mkhl/direnv/0.5.0/file/mkhl.direnv-0.5.0.vsix",
+      "url": "https://open-vsx.org/api/mkhl/direnv/0.6.0/file/mkhl.direnv-0.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xI3rJ6KjUhs+uibImkX1SjQaWR5wBWZRRbq0ifyZfPE="
+      "sha256": "sha256-Z+QQSmG5fiDSQVcv8J80WihCwP2Re/yM8f8XzPhpjd4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25335,6 +25335,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-HHFowyTK/YsJeB0LE6X2PuLKG90xnPC8XfO7n4oA12A="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "telesoho-vscode-markdown-paste-image": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "telesoho-vscode-markdown-paste-image",
+    "version": "0.18.6",
+    "passthru": {
+      "name": "vscode-markdown-paste-image",
+      "license": "(MIT)",
+      "publisher": "telesoho",
+      "description": "A smartly paste for markdown."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.18.6/file/telesoho.vscode-markdown-paste-image-0.18.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5FmTpbiYWaZRaYjK8ihlje/Y1GBqXdSwdiuDj4BBGI8="
     },
     "extract": null,
     "rustGitDeps": null

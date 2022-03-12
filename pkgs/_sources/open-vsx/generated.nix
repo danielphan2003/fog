@@ -11691,10 +11691,10 @@
   };
   mkhl-direnv = {
     pname = "mkhl-direnv";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mkhl/direnv/0.5.0/file/mkhl.direnv-0.5.0.vsix";
-      sha256 = "sha256-xI3rJ6KjUhs+uibImkX1SjQaWR5wBWZRRbq0ifyZfPE=";
+      url = "https://open-vsx.org/api/mkhl/direnv/0.6.0/file/mkhl.direnv-0.6.0.vsix";
+      sha256 = "sha256-Z+QQSmG5fiDSQVcv8J80WihCwP2Re/yM8f8XzPhpjd4=";
     };
     name = "direnv";
     license = "0BSD";
@@ -16380,6 +16380,18 @@
     license = "MIT";
     publisher = "technicolor-creamsicle";
     description = "A clean dark material theme and icon package for Visual Studio Code Editor";
+  };
+  telesoho-vscode-markdown-paste-image = {
+    pname = "telesoho-vscode-markdown-paste-image";
+    version = "0.18.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.18.6/file/telesoho.vscode-markdown-paste-image-0.18.6.vsix";
+      sha256 = "sha256-5FmTpbiYWaZRaYjK8ihlje/Y1GBqXdSwdiuDj4BBGI8=";
+    };
+    name = "vscode-markdown-paste-image";
+    license = "(MIT)";
+    publisher = "telesoho";
+    description = "A smartly paste for markdown.";
   };
   tenninebt-vscode-koverage = {
     pname = "tenninebt-vscode-koverage";
