@@ -29043,7 +29043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "5.11.1",
+    "version": "5.11.2",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -29051,10 +29051,10 @@
       "description": "F# Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.1/file/Ionide.Ionide-fsharp-5.11.1.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.2/file/Ionide.Ionide-fsharp-5.11.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-D8JC+Y2Ep6K6//8BO87nUo4tSdcJocaLAaT5RkI8Z7A="
+      "sha256": "sha256-lyDSNEZMwlqfEayratiyBQZieXe8wjfogpZfYXIewyQ="
     },
     "extract": null,
     "rustGitDeps": null
