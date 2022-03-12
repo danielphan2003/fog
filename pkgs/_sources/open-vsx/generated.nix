@@ -1575,10 +1575,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "5.11.1";
+    version = "5.11.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.1/file/Ionide.Ionide-fsharp-5.11.1.vsix";
-      sha256 = "sha256-D8JC+Y2Ep6K6//8BO87nUo4tSdcJocaLAaT5RkI8Z7A=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.2/file/Ionide.Ionide-fsharp-5.11.2.vsix";
+      sha256 = "sha256-lyDSNEZMwlqfEayratiyBQZieXe8wjfogpZfYXIewyQ=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
