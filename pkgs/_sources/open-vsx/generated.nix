@@ -675,10 +675,10 @@
   };
   DalySoftware-unicodepalette = {
     pname = "DalySoftware-unicodepalette";
-    version = "1.0.2";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DalySoftware/unicodepalette/1.0.2/file/DalySoftware.unicodepalette-1.0.2.vsix";
-      sha256 = "sha256-PV1Y2H1bJ7knjBnvkYGvzjBfEvEUfNu/JslnqIWbu3I=";
+      url = "https://open-vsx.org/api/DalySoftware/unicodepalette/1.0.4/file/DalySoftware.unicodepalette-1.0.4.vsix";
+      sha256 = "sha256-+y4/pWXdbDd1YMMMV9ENpl+p/b29yfIHIeU1vT9S0nw=";
     };
     name = "unicodepalette";
     license = "MIT";
@@ -6303,10 +6303,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.7.9";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.7.9/file/d-biehl.robotcode-0.7.9.vsix";
-      sha256 = "sha256-UcsO3L9X3x4nCs63IOSz7YO4c5Kh9OyRNof46k9ds+U=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.8.0/file/d-biehl.robotcode-0.8.0.vsix";
+      sha256 = "sha256-SKhWktNib/SiXRHXVP2gI3rzZJTBs1shJjH2ff1c/ys=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -6987,10 +6987,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.0.3";
+    version = "12.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.3/file/eamodio.gitlens-12.0.3.vsix";
-      sha256 = "sha256-PHQXfk0JggkEBRflHp+OAUOCVuymCubaszfDCYbpfG0=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.4/file/eamodio.gitlens-12.0.4.vsix";
+      sha256 = "sha256-T39laV6yWu0yKtTT2dmVOriawkrsmE4YqpidWG7OPOg=";
     };
     name = "gitlens";
     license = "MIT";
@@ -8271,10 +8271,10 @@
   };
   gharveymn-nightswitch-lite = {
     pname = "gharveymn-nightswitch-lite";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gharveymn/nightswitch-lite/2.3.0/file/gharveymn.nightswitch-lite-2.3.0.vsix";
-      sha256 = "sha256-UxWgMQ9f8B7e5AlUkA1p7hBxqDaPiJp1/UKAgFcoVtY=";
+      url = "https://open-vsx.org/api/gharveymn/nightswitch-lite/2.3.1/file/gharveymn.nightswitch-lite-2.3.1.vsix";
+      sha256 = "sha256-pKyPAj5dEjHarUEB33it7ayEULlTgwIILNU9mgOkERc=";
     };
     name = "nightswitch-lite";
     license = "MIT";
@@ -10815,10 +10815,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "176.0.0";
+    version = "177.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/176.0.0/file/lextudio.restructuredtext-176.0.0.vsix";
-      sha256 = "sha256-BrrFfnP7KYnQh3xVa0hHETB7F4aSoDZS14KLY+pbRao=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/177.0.0/file/lextudio.restructuredtext-177.0.0.vsix";
+      sha256 = "sha256-ROsmhpB7DnCJ3SrvOB5SKkxLqHBTVB3QjhXzRtj6WWs=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -11631,10 +11631,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.0.3/file/mintlify.document-2.0.3.vsix";
-      sha256 = "sha256-GKi2SSooedgwYd05+jcvYAHAfgVElXBSEKEjRUl2xI0=";
+      url = "https://open-vsx.org/api/mintlify/document/2.0.4/file/mintlify.document-2.0.4.vsix";
+      sha256 = "sha256-tMooBGTKuEiCRIaz3hmA1If2ZcIditOHfhzDT+UmvKs=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -12073,6 +12073,18 @@
     publisher = "ms-vscode";
     description = "Extended CMake support in Visual Studio Code";
   };
+  ms-vscode-cpptools-themes = {
+    pname = "ms-vscode-cpptools-themes";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/cpptools-themes/1.0.0/file/ms-vscode.cpptools-themes-1.0.0.vsix";
+      sha256 = "sha256-qcwqJtT1sJ5vNCgeK+va2Kzq6ighXP4KsjEeGARc/jM=";
+    };
+    name = "cpptools-themes";
+    license = "";
+    publisher = "ms-vscode";
+    description = "UI Themes for C/C++ extension.";
+  };
   ms-vscode-hexeditor = {
     pname = "ms-vscode-hexeditor";
     version = "1.9.3";
@@ -12300,6 +12312,18 @@
     license = "MIT";
     publisher = "msjsdiag";
     description = "Debug your JavaScript code in the Microsoft Edge browser";
+  };
+  msjsdiag-vscode-react-native = {
+    pname = "msjsdiag-vscode-react-native";
+    version = "1.9.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix";
+      sha256 = "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY=";
+    };
+    name = "vscode-react-native";
+    license = "%reactNative.license%";
+    publisher = "msjsdiag";
+    description = "Debugging and integrated commands for React Native";
   };
   mtayllan-moonokai = {
     pname = "mtayllan-moonokai";
