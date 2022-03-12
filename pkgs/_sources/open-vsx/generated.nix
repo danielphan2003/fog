@@ -16491,10 +16491,10 @@
   };
   thiht-vscode-venom = {
     pname = "thiht-vscode-venom";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/thiht/vscode-venom/0.0.3/file/thiht.vscode-venom-0.0.3.vsix";
-      sha256 = "sha256-GCFdW+x2x1VMFKMjtwPi0J6M1YOlO2yr66WOrOGDHa8=";
+      url = "https://open-vsx.org/api/thiht/vscode-venom/0.0.4/file/thiht.vscode-venom-0.0.4.vsix";
+      sha256 = "sha256-t2qhJhrR7VJdYv2ZM+9YxmJ6sboj6hP5AbYGshftC30=";
     };
     name = "vscode-venom";
     license = "MIT";
