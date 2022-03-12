@@ -15339,10 +15339,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.5";
+    version = "0.13.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.5/file/shufo.vscode-blade-formatter-0.13.5.vsix";
-      sha256 = "sha256-W+kge/eznN058Asu+gzUfzvg+xaz4NHJGZunttNPEbE=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.6/file/shufo.vscode-blade-formatter-0.13.6.vsix";
+      sha256 = "sha256-EgyH5ucKZletZVNvWpSh7HPf6Aow5E7W52gR3g/QZJs=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
