@@ -16455,10 +16455,10 @@
   };
   tgrospic-rholang = {
     pname = "tgrospic-rholang";
-    version = "0.6.5";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tgrospic/rholang/0.6.5/file/tgrospic.rholang-0.6.5.vsix";
-      sha256 = "sha256-u1TFceDFAfUBC5gudK35JhRfeepaKV2R3tb/S/cD/HY=";
+      url = "https://open-vsx.org/api/tgrospic/rholang/0.7.0/file/tgrospic.rholang-0.7.0.vsix";
+      sha256 = "sha256-AoTfS8htHGv9JEbVXZjbo4YID/GQMsh1eFoTCAsd11g=";
     };
     name = "rholang";
     license = "MIT";

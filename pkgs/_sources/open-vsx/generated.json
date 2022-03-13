@@ -27463,7 +27463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tgrospic-rholang",
-    "version": "0.6.5",
+    "version": "0.7.0",
     "passthru": {
       "name": "rholang",
       "license": "MIT",
@@ -27471,10 +27471,10 @@
       "description": "Language support for Rholang. Official language for RChain distributed virtual machine."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tgrospic/rholang/0.6.5/file/tgrospic.rholang-0.6.5.vsix",
+      "url": "https://open-vsx.org/api/tgrospic/rholang/0.7.0/file/tgrospic.rholang-0.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-u1TFceDFAfUBC5gudK35JhRfeepaKV2R3tb/S/cD/HY="
+      "sha256": "sha256-AoTfS8htHGv9JEbVXZjbo4YID/GQMsh1eFoTCAsd11g="
     },
     "extract": null,
     "rustGitDeps": null
