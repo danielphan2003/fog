@@ -2103,7 +2103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vadimcn-vscode-lldb",
-    "version": "1.6.10",
+    "version": "1.7.0",
     "passthru": {
       "name": "vscode-lldb",
       "license": "MIT",
@@ -2111,10 +2111,10 @@
       "description": "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages."
     },
     "src": {
-      "url": "https://open-vsx.org/api/vadimcn/vscode-lldb/1.6.10/file/vadimcn.vscode-lldb-1.6.10.vsix",
+      "url": "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.0/file/vadimcn.vscode-lldb-1.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CGVVs//jIZM8uX7Wc9gM4aQGwECi88eIpfPqU2hKbeA="
+      "sha256": "sha256-DuYweIri8NpBHcIG37WyUUc+p4/TaBBHcI6x6YIRvmk="
     },
     "extract": null,
     "rustGitDeps": null
