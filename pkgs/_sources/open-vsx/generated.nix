@@ -9781,6 +9781,18 @@
     publisher = "jnoortheen";
     description = "Xonsh language support.";
   };
+  joaopalmeiro-icons-octicons = {
+    pname = "joaopalmeiro-icons-octicons";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/joaopalmeiro/icons-octicons/0.1.0/file/joaopalmeiro.icons-octicons-0.1.0.vsix";
+      sha256 = "sha256-79V7hh+SBVFGIyZJxfzZF4YDyctA8dVejEGdSXXyIYw=";
+    };
+    name = "icons-octicons";
+    license = "MIT";
+    publisher = "joaopalmeiro";
+    description = "Octicons Product Icons for VS Code";
+  };
   jock-svg = {
     pname = "jock-svg";
     version = "1.4.1";

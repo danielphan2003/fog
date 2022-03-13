@@ -4139,6 +4139,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "joaopalmeiro-icons-octicons": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "joaopalmeiro-icons-octicons",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "icons-octicons",
+      "license": "MIT",
+      "publisher": "joaopalmeiro",
+      "description": "Octicons Product Icons for VS Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/joaopalmeiro/icons-octicons/0.1.0/file/joaopalmeiro.icons-octicons-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-79V7hh+SBVFGIyZJxfzZF4YDyctA8dVejEGdSXXyIYw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "hroussea-42-norminette-v2": {
     "pinned": false,
     "cargoLock": null,
