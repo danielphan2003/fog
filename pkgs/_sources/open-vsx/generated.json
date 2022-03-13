@@ -4063,7 +4063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barjo-anirak",
-    "version": "6.4.2",
+    "version": "6.4.3",
     "passthru": {
       "name": "anirak",
       "license": "Apache-2.0",
@@ -4071,10 +4071,10 @@
       "description": "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barjo/anirak/6.4.2/file/barjo.anirak-6.4.2.vsix",
+      "url": "https://open-vsx.org/api/barjo/anirak/6.4.3/file/barjo.anirak-6.4.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wvLZGquvwBLNWuXqETDwqXab5W51V9FAYqqXjV+jefs="
+      "sha256": "sha256-1+gSApo71UvpNkLddmFe+w923hpdAon9clG4s4r+UAg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28603,7 +28603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.24",
+    "version": "0.0.25",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -28611,10 +28611,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.24/file/bilelmoussaoui.flatpak-vscode-0.0.24.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.25/file/bilelmoussaoui.flatpak-vscode-0.0.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mgp7pU5rdGqZZOKkYYj8papdOyA3WqgJ7WYYDSBZbfg="
+      "sha256": "sha256-XG+daQOjRecvOq9i/iZcNGdUbz5+mGPpTiARbNyvp8k="
     },
     "extract": null,
     "rustGitDeps": null

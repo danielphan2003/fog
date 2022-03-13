@@ -5019,10 +5019,10 @@
   };
   barjo-anirak = {
     pname = "barjo-anirak";
-    version = "6.4.2";
+    version = "6.4.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barjo/anirak/6.4.2/file/barjo.anirak-6.4.2.vsix";
-      sha256 = "sha256-wvLZGquvwBLNWuXqETDwqXab5W51V9FAYqqXjV+jefs=";
+      url = "https://open-vsx.org/api/barjo/anirak/6.4.3/file/barjo.anirak-6.4.3.vsix";
+      sha256 = "sha256-1+gSApo71UvpNkLddmFe+w923hpdAon9clG4s4r+UAg=";
     };
     name = "anirak";
     license = "Apache-2.0";
@@ -5223,10 +5223,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.24";
+    version = "0.0.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.24/file/bilelmoussaoui.flatpak-vscode-0.0.24.vsix";
-      sha256 = "sha256-mgp7pU5rdGqZZOKkYYj8papdOyA3WqgJ7WYYDSBZbfg=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.25/file/bilelmoussaoui.flatpak-vscode-0.0.25.vsix";
+      sha256 = "sha256-XG+daQOjRecvOq9i/iZcNGdUbz5+mGPpTiARbNyvp8k=";
     };
     name = "flatpak-vscode";
     license = "MIT";
