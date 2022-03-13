@@ -8319,13 +8319,13 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.7";
+    version = "2.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.7/file/giscafer.leek-fund-2.0.7.vsix";
-      sha256 = "sha256-6WpktPe5u+w7SAdZ2BIfd75jj8rfsQuDLLfMgyHBw3A=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.8/file/giscafer.leek-fund-2.0.8.vsix";
+      sha256 = "sha256-JTyz+y+xA+qvaeQBK1ih64vyPgxKIT7wUbDi9fPXyV8=";
     };
     name = "leek-fund";
-    license = "MIT";
+    license = "BSD-3-Clause";
     publisher = "giscafer";
     description = "\38893\33756\30418\23376\65292VSCode \37324\20063\21487\20197\30475\32929\31080 & \22522\37329\23454\26102\25968\25454\65292\20570\26368\22909\29992\30340\25237\36164\25554\20214";
   };
@@ -11943,10 +11943,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.228";
+    version = "1.1.229";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.228/file/ms-pyright.pyright-1.1.228.vsix";
-      sha256 = "sha256-Y3sQyJnFGaFxA+LE5Zkj1EK7RogJmACQihMAttNsK2w=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.229/file/ms-pyright.pyright-1.1.229.vsix";
+      sha256 = "sha256-orCTyLafGfLvfHJFe68KWOZVkFrEMDSiiDujmlfbfSA=";
     };
     name = "pyright";
     license = "MIT";
@@ -19179,10 +19179,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.6.2";
+    version = "0.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.2/file/yuyichao.digitaljs-0.6.2.vsix";
-      sha256 = "sha256-JKi+opWCDQjmtbmf1oumTRJicvTreObDZ4gBEvIQjUg=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.3/file/yuyichao.digitaljs-0.6.3.vsix";
+      sha256 = "sha256-OADf72YtqYivRlI7E1+xZ6fbeIEdWAISgxcpwY5nb9g=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";

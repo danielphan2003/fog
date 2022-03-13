@@ -3863,7 +3863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3871,10 +3871,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.2/file/yuyichao.digitaljs-0.6.2.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.3/file/yuyichao.digitaljs-0.6.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JKi+opWCDQjmtbmf1oumTRJicvTreObDZ4gBEvIQjUg="
+      "sha256": "sha256-OADf72YtqYivRlI7E1+xZ6fbeIEdWAISgxcpwY5nb9g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25903,18 +25903,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "giscafer-leek-fund",
-    "version": "2.0.7",
+    "version": "2.0.8",
     "passthru": {
       "name": "leek-fund",
-      "license": "MIT",
+      "license": "BSD-3-Clause",
       "publisher": "giscafer",
       "description": "é­èçå­ï¼VSCode éä¹å¯ä»¥çè¡ç¥¨ & åºéå®æ¶æ°æ®ï¼åæå¥½ç¨çæèµæä»¶"
     },
     "src": {
-      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.0.7/file/giscafer.leek-fund-2.0.7.vsix",
+      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.0.8/file/giscafer.leek-fund-2.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6WpktPe5u+w7SAdZ2BIfd75jj8rfsQuDLLfMgyHBw3A="
+      "sha256": "sha256-JTyz+y+xA+qvaeQBK1ih64vyPgxKIT7wUbDi9fPXyV8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29163,7 +29163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.228",
+    "version": "1.1.229",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -29171,10 +29171,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.228/file/ms-pyright.pyright-1.1.228.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.229/file/ms-pyright.pyright-1.1.229.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Y3sQyJnFGaFxA+LE5Zkj1EK7RogJmACQihMAttNsK2w="
+      "sha256": "sha256-orCTyLafGfLvfHJFe68KWOZVkFrEMDSiiDujmlfbfSA="
     },
     "extract": null,
     "rustGitDeps": null
