@@ -5423,7 +5423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.42",
+    "version": "0.0.43",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5431,10 +5431,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.42/file/zardoy.zardoy-experiments-0.0.42.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.43/file/zardoy.zardoy-experiments-0.0.43.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-upRQ38Gf+cT9zgTBrySJUVkifImexPAGYlUs9B5432A="
+      "sha256": "sha256-oUIu5Q0cqMOxEWMQ8bGjs4g4LBulcr+U8wlcN/kLChI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12643,7 +12643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12651,10 +12651,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/2.0.5/file/mintlify.document-2.0.5.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.0.6/file/mintlify.document-2.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-s8yOpZNdduzkg/HfgeM4rGIFLPeryfubHmSBsHmfQYQ="
+      "sha256": "sha256-CEPUI5/1rNqmz+VOBJSU2OEPUER5/JyC4lHq2ZH7oGE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16803,7 +16803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.6",
+    "version": "0.13.7",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16811,10 +16811,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.6/file/shufo.vscode-blade-formatter-0.13.6.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.7/file/shufo.vscode-blade-formatter-0.13.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EgyH5ucKZletZVNvWpSh7HPf6Aow5E7W52gR3g/QZJs="
+      "sha256": "sha256-+8HtZNfyZSWQzR7pU2kyF6icfl/lXSxuFOHEjCD/Y+Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27783,7 +27783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "glenn2223-live-sass",
-    "version": "5.2.0",
+    "version": "5.3.0",
     "passthru": {
       "name": "live-sass",
       "license": "MIT",
@@ -27791,10 +27791,10 @@
       "description": "Compile Sass or Scss to CSS at realtime."
     },
     "src": {
-      "url": "https://open-vsx.org/api/glenn2223/live-sass/5.2.0/file/glenn2223.live-sass-5.2.0.vsix",
+      "url": "https://open-vsx.org/api/glenn2223/live-sass/5.3.0/file/glenn2223.live-sass-5.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3YxnviYJVzFAmdR+esPdb/04MHKdmzFmjQgV0vr2sik="
+      "sha256": "sha256-4MlZQ0HAVcLUM4kU4ZDQmhg1+7G5zCjN8mi4OJvovvs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29343,7 +29343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.713",
+    "version": "31.0.714",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29351,10 +29351,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.713/file/Prisma.prisma-insider-31.0.713.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.714/file/Prisma.prisma-insider-31.0.714.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-v4tekHlZn7Zu0Mm4U2EQZ6tgIoI4XBoDtVlQfD9V7Kw="
+      "sha256": "sha256-waIxXpFRPPw0JgyM5ZT4qNpFgKADhX9yScSLyXwNdj4="
     },
     "extract": null,
     "rustGitDeps": null
