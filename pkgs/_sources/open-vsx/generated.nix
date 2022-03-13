@@ -2427,10 +2427,10 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.8.20";
+    version = "4.8.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.20/file/OBKoro1.korofileheader-4.8.20.vsix";
-      sha256 = "sha256-7l/t504r59gnPEzin8glGnrBOIrH19JubEUefgOrZig=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.21/file/OBKoro1.korofileheader-4.8.21.vsix";
+      sha256 = "sha256-0VvdQui/v5RfacSJTTRc0bAUVeRiVuFnCOuehdV5Res=";
     };
     name = "korofileheader";
     license = "MIT";
@@ -9411,10 +9411,10 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.19.0";
+    version = "1.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.0/file/ionutvmi.path-autocomplete-1.19.0.vsix";
-      sha256 = "sha256-Ji9vO/iuml6Ot0HPdbjYRmDBxILh1mDBW682KKbwAqQ=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.1/file/ionutvmi.path-autocomplete-1.19.1.vsix";
+      sha256 = "sha256-sHuuqfD33j/FZlfWrS/9ENtbCFzCj1jtFe4W8XLMqPs=";
     };
     name = "path-autocomplete";
     license = "MIT";
@@ -13935,15 +13935,15 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.8.0";
+    version = "1.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.8.0/file/quarto.quarto-1.8.0.vsix";
-      sha256 = "sha256-qHQHDE5hH3Z5Vv6jxn7oXSpb2Hk08whAj78tcWKOkZ0=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.9.0/file/quarto.quarto-1.9.0.vsix";
+      sha256 = "sha256-uelNKlvEuJa5KXoymfR+QkQQj0ni1zgGTLGl2Yj+kzs=";
     };
     name = "quarto";
     license = "MIT";
     publisher = "quarto";
-    description = "Official extension for the Quarto scientific and technical publishing system.";
+    description = "Extension for the Quarto scientific and technical publishing system.";
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
@@ -19179,10 +19179,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.6.4";
+    version = "0.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.4/file/yuyichao.digitaljs-0.6.4.vsix";
-      sha256 = "sha256-3ltaaoJRBNZYgW4KzmSndd40qs6WjenCai7wxNM7SxY=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.5/file/yuyichao.digitaljs-0.6.5.vsix";
+      sha256 = "sha256-BnJCdtEPxZ54th4K3DDe/+nAc6iBN17CrsSzrIJ2qM0=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
