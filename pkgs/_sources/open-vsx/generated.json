@@ -3863,7 +3863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.6.5",
+    "version": "0.7.0",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3871,10 +3871,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.5/file/yuyichao.digitaljs-0.6.5.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.7.0/file/yuyichao.digitaljs-0.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BnJCdtEPxZ54th4K3DDe/+nAc6iBN17CrsSzrIJ2qM0="
+      "sha256": "sha256-bPEUpBCDMG5+kmOR46Fsy2WnKuqFGqyY8UzqBBgH8u8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26035,6 +26035,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-EZDDhC7mKeoowE1T8gnwmJymXbPOKjUwZwIX05gE2FQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "WyattL-greyscript": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "WyattL-greyscript",
+    "version": "1.8.1",
+    "passthru": {
+      "name": "greyscript",
+      "license": "Apache-2.0",
+      "publisher": "WyattL",
+      "description": "Syntax highlighting for GreyScript."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/WyattL/greyscript/1.8.1/file/WyattL.greyscript-1.8.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-muCl66D+cld74aNQKRpdLk1cfO3ILVmJFmbE1RU7nhc="
     },
     "extract": null,
     "rustGitDeps": null

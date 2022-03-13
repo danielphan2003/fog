@@ -3529,6 +3529,18 @@
     publisher = "Wscats";
     description = "Simple extensions for React/Redux/Typescript/Javascript/Omi snippets";
   };
+  WyattL-greyscript = {
+    pname = "WyattL-greyscript";
+    version = "1.8.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/WyattL/greyscript/1.8.1/file/WyattL.greyscript-1.8.1.vsix";
+      sha256 = "sha256-muCl66D+cld74aNQKRpdLk1cfO3ILVmJFmbE1RU7nhc=";
+    };
+    name = "greyscript";
+    license = "Apache-2.0";
+    publisher = "WyattL";
+    description = "Syntax highlighting for GreyScript.";
+  };
   XadillaX-viml = {
     pname = "XadillaX-viml";
     version = "2.1.0";
@@ -19191,10 +19203,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.6.5";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.6.5/file/yuyichao.digitaljs-0.6.5.vsix";
-      sha256 = "sha256-BnJCdtEPxZ54th4K3DDe/+nAc6iBN17CrsSzrIJ2qM0=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.7.0/file/yuyichao.digitaljs-0.7.0.vsix";
+      sha256 = "sha256-bPEUpBCDMG5+kmOR46Fsy2WnKuqFGqyY8UzqBBgH8u8=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
