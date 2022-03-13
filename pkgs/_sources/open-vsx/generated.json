@@ -3863,7 +3863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.6.3",
+    "version": "0.6.4",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3871,10 +3871,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.3/file/yuyichao.digitaljs-0.6.3.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.6.4/file/yuyichao.digitaljs-0.6.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OADf72YtqYivRlI7E1+xZ6fbeIEdWAISgxcpwY5nb9g="
+      "sha256": "sha256-3ltaaoJRBNZYgW4KzmSndd40qs6WjenCai7wxNM7SxY="
     },
     "extract": null,
     "rustGitDeps": null
