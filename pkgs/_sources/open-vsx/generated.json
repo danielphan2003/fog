@@ -3143,7 +3143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3151,10 +3151,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.8.0/file/d-biehl.robotcode-0.8.0.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.0/file/d-biehl.robotcode-0.9.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SKhWktNib/SiXRHXVP2gI3rzZJTBs1shJjH2ff1c/ys="
+      "sha256": "sha256-VDqXA8VMYSv94U6lexGZ/dI2rDTQfRMzWkd5FN3VMM0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29083,7 +29083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "5.11.2",
+    "version": "5.12.0",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -29091,10 +29091,10 @@
       "description": "F# Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.2/file/Ionide.Ionide-fsharp-5.11.2.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.12.0/file/Ionide.Ionide-fsharp-5.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lyDSNEZMwlqfEayratiyBQZieXe8wjfogpZfYXIewyQ="
+      "sha256": "sha256-lljFsPnaXJpkeaII+Q3kPfuiAboTeujMsC5au2tX4Rw="
     },
     "extract": null,
     "rustGitDeps": null
