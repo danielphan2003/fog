@@ -10839,10 +10839,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "177.0.0";
+    version = "178.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/177.0.0/file/lextudio.restructuredtext-177.0.0.vsix";
-      sha256 = "sha256-ROsmhpB7DnCJ3SrvOB5SKkxLqHBTVB3QjhXzRtj6WWs=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/178.0.0/file/lextudio.restructuredtext-178.0.0.vsix";
+      sha256 = "sha256-Td4kX7u1l9/DXgKdfPg9U0tyQgTYQvJ0NEiXj1WsUG4=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -11331,10 +11331,10 @@
   };
   maziac-asm-code-lens = {
     pname = "maziac-asm-code-lens";
-    version = "1.9.0";
+    version = "1.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/maziac/asm-code-lens/1.9.0/file/maziac.asm-code-lens-1.9.0.vsix";
-      sha256 = "sha256-YTcDXjLa/qKzV4S5qyYCT8DXbq5CvKkJe+LsF/KdEvU=";
+      url = "https://open-vsx.org/api/maziac/asm-code-lens/1.9.1/file/maziac.asm-code-lens-1.9.1.vsix";
+      sha256 = "sha256-j3SC1ge+aMUzDIKox6+w9UyYl9B4+pwL/PBwrtoZ81U=";
     };
     name = "asm-code-lens";
     license = "MIT";
@@ -15363,10 +15363,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.7";
+    version = "0.13.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.7/file/shufo.vscode-blade-formatter-0.13.7.vsix";
-      sha256 = "sha256-+8HtZNfyZSWQzR7pU2kyF6icfl/lXSxuFOHEjCD/Y+Q=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.8/file/shufo.vscode-blade-formatter-0.13.8.vsix";
+      sha256 = "sha256-+LSZzdV/rPq+wa68QM1RfpOmAXKpGnns9VIoA4TlXeU=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
