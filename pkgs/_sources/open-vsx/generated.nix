@@ -1575,10 +1575,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "5.11.2";
+    version = "5.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.11.2/file/Ionide.Ionide-fsharp-5.11.2.vsix";
-      sha256 = "sha256-lyDSNEZMwlqfEayratiyBQZieXe8wjfogpZfYXIewyQ=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.12.0/file/Ionide.Ionide-fsharp-5.12.0.vsix";
+      sha256 = "sha256-lljFsPnaXJpkeaII+Q3kPfuiAboTeujMsC5au2tX4Rw=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -6315,10 +6315,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.8.0/file/d-biehl.robotcode-0.8.0.vsix";
-      sha256 = "sha256-SKhWktNib/SiXRHXVP2gI3rzZJTBs1shJjH2ff1c/ys=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.0/file/d-biehl.robotcode-0.9.0.vsix";
+      sha256 = "sha256-VDqXA8VMYSv94U6lexGZ/dI2rDTQfRMzWkd5FN3VMM0=";
     };
     name = "robotcode";
     license = "Apache-2.0";
