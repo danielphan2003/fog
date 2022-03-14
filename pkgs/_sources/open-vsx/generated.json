@@ -1983,7 +1983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -1991,10 +1991,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.4/file/zardoy.vetur-extended-0.0.4.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.5/file/zardoy.vetur-extended-0.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jma9bjb8vp9PD6PIWtGjUzzqAgG6iKQE4hh6a84tocU="
+      "sha256": "sha256-obpjqb7jq09C2r2wF5U6cSdvDdNLP2cVZzrFJBlz9kU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5123,7 +5123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-hexeditor",
-    "version": "1.9.3",
+    "version": "1.9.5",
     "passthru": {
       "name": "hexeditor",
       "license": "MIT",
@@ -5131,10 +5131,10 @@
       "description": "Allows viewing and editing files in a hex editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.3/file/ms-vscode.hexeditor-1.9.3.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.5/file/ms-vscode.hexeditor-1.9.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NoIT7Qf5j95llaAUbDa1oqE476an+jHUjE5buCTcrnQ="
+      "sha256": "sha256-fY5OX8VnwW2ejw/IVcCSvR5iidSVK16i45ytGu5zbpE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5443,7 +5443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.46",
+    "version": "0.0.47",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5451,10 +5451,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.46/file/zardoy.zardoy-experiments-0.0.46.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.47/file/zardoy.zardoy-experiments-0.0.47.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zf33WmiWDtxAw+b7ObdSn3tX0iOPcjE8670KcXw/Hyw="
+      "sha256": "sha256-0bJQEZXyihQ/qmxSVGsjyBK9uTxLri1T0MDF1Ic8OSk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17283,18 +17283,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "IBM-zopeneditor",
-    "version": "1.4.1",
+    "version": "2.0.0",
     "passthru": {
       "name": "zopeneditor",
       "license": "",
       "publisher": "IBM",
-      "description": "Provides COBOL, PL/I, HLASM, and REXX language servers as well as tools for IBM Z development."
+      "description": "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development."
     },
     "src": {
-      "url": "https://open-vsx.org/api/IBM/zopeneditor/1.4.1/file/IBM.zopeneditor-1.4.1.vsix",
+      "url": "https://open-vsx.org/api/IBM/zopeneditor/2.0.0/file/IBM.zopeneditor-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3xhagb33DoCtnih9cjFh7K76wGSrjyfAXST5zenp1QU="
+      "sha256": "sha256-hKpw40rZFH3Q+djvP9+0lkxpN/0Y3+9UYcX+5+LOLiM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21515,6 +21515,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-fJT5p5caH7tPdJaVl2EuiiDocSg8kwv6VPMzOGyG1NM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "arzg-xcode-theme": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "arzg-xcode-theme",
+    "version": "0.6.3",
+    "passthru": {
+      "name": "xcode-theme",
+      "license": "MIT",
+      "publisher": "arzg",
+      "description": "Xcodeâs themes, ported to VS Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.6.3/file/arzg.xcode-theme-0.6.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-AjBut/5LJZ3/0J27jzMMEheZDC+TkSitHiZTWGXWq7E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31323,7 +31343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PascalReitermann93-vscode-yaml-sort",
-    "version": "5.1.4",
+    "version": "5.1.5",
     "passthru": {
       "name": "vscode-yaml-sort",
       "license": "MIT",
@@ -31331,10 +31351,10 @@
       "description": "This VS Code extension exposes the possibility to sort, format and validate yaml files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.4/file/PascalReitermann93.vscode-yaml-sort-5.1.4.vsix",
+      "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.5/file/PascalReitermann93.vscode-yaml-sort-5.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6kRzZGp8ylSzFZRrUlFXaaEgq4Vv3zIokN4mt1Ze8ro="
+      "sha256": "sha256-3bEAmTMtSThGjylnM9EjKfSZA5OwviwRV7mbVKanKoQ="
     },
     "extract": null,
     "rustGitDeps": null
