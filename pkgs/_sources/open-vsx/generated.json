@@ -29403,7 +29403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.718",
+    "version": "31.0.720",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29411,10 +29411,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.718/file/Prisma.prisma-insider-31.0.718.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.720/file/Prisma.prisma-insider-31.0.720.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hl4NI+oiHiWbvqbjjRmf7o3UoGQ1W3G0fwkKvGXXgLw="
+      "sha256": "sha256-c8bS7F4iIRz74wAkiAJMdsmYAWiQ9kq6E7jvI83XLi0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29823,7 +29823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-abend-analyzer",
-    "version": "0.2.0",
+    "version": "1.0.0",
     "passthru": {
       "name": "abend-analyzer",
       "license": "",
@@ -29831,10 +29831,10 @@
       "description": "Fault management tool that provides critical and comprehensive ABEND information."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/0.2.0/file/BroadcomMFD.abend-analyzer-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/1.0.0/file/BroadcomMFD.abend-analyzer-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t/vPMMH6IZ5feoTNQ2x6yuv+S0A0Dw3COIF/4FUsJCU="
+      "sha256": "sha256-aloWW2j9fWQgK0PkRR2AkUvAwNATIyBLPrTvWum70Iw="
     },
     "extract": null,
     "rustGitDeps": null

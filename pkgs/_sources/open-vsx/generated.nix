@@ -219,10 +219,10 @@
   };
   BroadcomMFD-abend-analyzer = {
     pname = "BroadcomMFD-abend-analyzer";
-    version = "0.2.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/0.2.0/file/BroadcomMFD.abend-analyzer-0.2.0.vsix";
-      sha256 = "sha256-t/vPMMH6IZ5feoTNQ2x6yuv+S0A0Dw3COIF/4FUsJCU=";
+      url = "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/1.0.0/file/BroadcomMFD.abend-analyzer-1.0.0.vsix";
+      sha256 = "sha256-aloWW2j9fWQgK0PkRR2AkUvAwNATIyBLPrTvWum70Iw=";
     };
     name = "abend-analyzer";
     license = "";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.718";
+    version = "31.0.720";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.718/file/Prisma.prisma-insider-31.0.718.vsix";
-      sha256 = "sha256-hl4NI+oiHiWbvqbjjRmf7o3UoGQ1W3G0fwkKvGXXgLw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.720/file/Prisma.prisma-insider-31.0.720.vsix";
+      sha256 = "sha256-c8bS7F4iIRz74wAkiAJMdsmYAWiQ9kq6E7jvI83XLi0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
