@@ -1515,15 +1515,15 @@
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
-    version = "1.4.1";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBM/zopeneditor/1.4.1/file/IBM.zopeneditor-1.4.1.vsix";
-      sha256 = "sha256-3xhagb33DoCtnih9cjFh7K76wGSrjyfAXST5zenp1QU=";
+      url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.0/file/IBM.zopeneditor-2.0.0.vsix";
+      sha256 = "sha256-hKpw40rZFH3Q+djvP9+0lkxpN/0Y3+9UYcX+5+LOLiM=";
     };
     name = "zopeneditor";
     license = "";
     publisher = "IBM";
-    description = "Provides COBOL, PL/I, HLASM, and REXX language servers as well as tools for IBM Z development.";
+    description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.";
   };
   IBMBlockchain-ibm-blockchain-platform = {
     pname = "IBMBlockchain-ibm-blockchain-platform";
@@ -2523,10 +2523,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.1.4";
+    version = "5.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.4/file/PascalReitermann93.vscode-yaml-sort-5.1.4.vsix";
-      sha256 = "sha256-6kRzZGp8ylSzFZRrUlFXaaEgq4Vv3zIokN4mt1Ze8ro=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.5/file/PascalReitermann93.vscode-yaml-sort-5.1.5.vsix";
+      sha256 = "sha256-3bEAmTMtSThGjylnM9EjKfSZA5OwviwRV7mbVKanKoQ=";
     };
     name = "vscode-yaml-sort";
     license = "MIT";
@@ -4812,6 +4812,18 @@
     license = "MIT";
     publisher = "arzg";
     description = "Based heavily on Spacegray for Sublime Text";
+  };
+  arzg-xcode-theme = {
+    pname = "arzg-xcode-theme";
+    version = "0.6.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.6.3/file/arzg.xcode-theme-0.6.3.vsix";
+      sha256 = "sha256-AjBut/5LJZ3/0J27jzMMEheZDC+TkSitHiZTWGXWq7E=";
+    };
+    name = "xcode-theme";
+    license = "MIT";
+    publisher = "arzg";
+    description = "Xcode\8217s themes, ported to VS Code";
   };
   asabil-meson = {
     pname = "asabil-meson";
@@ -12123,10 +12135,10 @@
   };
   ms-vscode-hexeditor = {
     pname = "ms-vscode-hexeditor";
-    version = "1.9.3";
+    version = "1.9.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.3/file/ms-vscode.hexeditor-1.9.3.vsix";
-      sha256 = "sha256-NoIT7Qf5j95llaAUbDa1oqE476an+jHUjE5buCTcrnQ=";
+      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.5/file/ms-vscode.hexeditor-1.9.5.vsix";
+      sha256 = "sha256-fY5OX8VnwW2ejw/IVcCSvR5iidSVK16i45ytGu5zbpE=";
     };
     name = "hexeditor";
     license = "MIT";
@@ -19359,10 +19371,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.4/file/zardoy.vetur-extended-0.0.4.vsix";
-      sha256 = "sha256-Jma9bjb8vp9PD6PIWtGjUzzqAgG6iKQE4hh6a84tocU=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.5/file/zardoy.vetur-extended-0.0.5.vsix";
+      sha256 = "sha256-obpjqb7jq09C2r2wF5U6cSdvDdNLP2cVZzrFJBlz9kU=";
     };
     name = "vetur-extended";
     license = "MIT";
@@ -19383,10 +19395,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.46";
+    version = "0.0.47";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.46/file/zardoy.zardoy-experiments-0.0.46.vsix";
-      sha256 = "sha256-zf33WmiWDtxAw+b7ObdSn3tX0iOPcjE8670KcXw/Hyw=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.47/file/zardoy.zardoy-experiments-0.0.47.vsix";
+      sha256 = "sha256-0bJQEZXyihQ/qmxSVGsjyBK9uTxLri1T0MDF1Ic8OSk=";
     };
     name = "zardoy-experiments";
     license = "MIT";
