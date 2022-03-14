@@ -1131,10 +1131,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.41.1";
+    version = "3.41.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.1/file/GitLab.gitlab-workflow-3.41.1.vsix";
-      sha256 = "sha256-wPPsm5ziBMx2E0vk/Qv3rii3vex5uC4lDmL3p9vIXYo=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.2/file/GitLab.gitlab-workflow-3.41.2.vsix";
+      sha256 = "sha256-pKyFp3eJ+gHzf2188aTmbe0U7Gt1DxX+5DNrAlWjnS4=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.720";
+    version = "31.0.721";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.720/file/Prisma.prisma-insider-31.0.720.vsix";
-      sha256 = "sha256-c8bS7F4iIRz74wAkiAJMdsmYAWiQ9kq6E7jvI83XLi0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.721/file/Prisma.prisma-insider-31.0.721.vsix";
+      sha256 = "sha256-PF7KTAUCKIXTiKY+ysfNNxDBKQmPTB+IOy0sIvhkhF8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6327,10 +6327,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.9.0";
+    version = "0.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.0/file/d-biehl.robotcode-0.9.0.vsix";
-      sha256 = "sha256-VDqXA8VMYSv94U6lexGZ/dI2rDTQfRMzWkd5FN3VMM0=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.2/file/d-biehl.robotcode-0.9.2.vsix";
+      sha256 = "sha256-pkXd29oH3aqxAJivejq752iGc8EE2I3ECaoT8n4Wu48=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7191,10 +7191,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1980067";
+    version = "7.0.1981604";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1980067/file/eliostruyf.vscode-front-matter-beta-7.0.1980067.vsix";
-      sha256 = "sha256-tt9gDpYM07tfAPFr9BCpgxJrI2uS9w75Yi5/decZGDU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1981604/file/eliostruyf.vscode-front-matter-beta-7.0.1981604.vsix";
+      sha256 = "sha256-gwmEPhfdJ0erJSTHW2RZKLn9bETDK/JBLnJYXADOKBU=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
