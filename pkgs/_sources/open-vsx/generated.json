@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.85.6",
+    "version": "0.85.7",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.85.6/file/dendron.nightly-0.85.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.85.7/file/dendron.nightly-0.85.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-txxW0g3DBrWY3OR/r5GbZkfYuiTcP+M2PQmoEkzXa6A="
+      "sha256": "sha256-y8ElLoUxghjRWDruaCzKjch2Sh0h9omb1sKLR6xgcfk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9123,7 +9123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1968499",
+    "version": "7.0.1979337",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9131,10 +9131,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1968499/file/eliostruyf.vscode-front-matter-beta-7.0.1968499.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1979337/file/eliostruyf.vscode-front-matter-beta-7.0.1979337.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MA03f3dI35eWDmCvmH0ZYRgOptGmAvSNWbLVkXI61E4="
+      "sha256": "sha256-H6t/eK0yGgRtqTNHMNXZ6TGGP7aODtVJ0s25eWjLH78="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16823,7 +16823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.8",
+    "version": "0.13.9",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16831,10 +16831,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.8/file/shufo.vscode-blade-formatter-0.13.8.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.9/file/shufo.vscode-blade-formatter-0.13.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+LSZzdV/rPq+wa68QM1RfpOmAXKpGnns9VIoA4TlXeU="
+      "sha256": "sha256-ObfQ2BEqiFQeVqJ52wQCmxf387mOYHp16UfaqHzVKfg="
     },
     "extract": null,
     "rustGitDeps": null
