@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.716";
+    version = "31.0.718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.716/file/Prisma.prisma-insider-31.0.716.vsix";
-      sha256 = "sha256-VSxgF+lijkicP4Uop+o/gaBJy4E9AMrLqcNAymgVjmA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.718/file/Prisma.prisma-insider-31.0.718.vsix";
+      sha256 = "sha256-hl4NI+oiHiWbvqbjjRmf7o3UoGQ1W3G0fwkKvGXXgLw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6303,10 +6303,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.1.1";
+    version = "5.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.1/file/cyrilletuzi.angular-schematics-5.1.1.vsix";
-      sha256 = "sha256-222FjlKNC3VKDOi6ptmEWyKPPTKmDjfP9dzozQXaOYQ=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.2/file/cyrilletuzi.angular-schematics-5.1.2.vsix";
+      sha256 = "sha256-S/jzVMMpfdC8gFQ/BF25+DcWIU9wtTzBLlV8XPjGJ44=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -7191,10 +7191,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1979657";
+    version = "7.0.1980067";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1979657/file/eliostruyf.vscode-front-matter-beta-7.0.1979657.vsix";
-      sha256 = "sha256-qA9ofw20bFDCXSgBw1Jtdgpuv13xRAIm7Ciu9GskmUg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1980067/file/eliostruyf.vscode-front-matter-beta-7.0.1980067.vsix";
+      sha256 = "sha256-tt9gDpYM07tfAPFr9BCpgxJrI2uS9w75Yi5/decZGDU=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -19383,10 +19383,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.45";
+    version = "0.0.46";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.45/file/zardoy.zardoy-experiments-0.0.45.vsix";
-      sha256 = "sha256-/zRJO+xDLUQG/yCfeow5EdVhgKLdzktLWdeNYdckMb8=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.46/file/zardoy.zardoy-experiments-0.0.46.vsix";
+      sha256 = "sha256-zf33WmiWDtxAw+b7ObdSn3tX0iOPcjE8670KcXw/Hyw=";
     };
     name = "zardoy-experiments";
     license = "MIT";
