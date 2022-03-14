@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5936",
+    "version": "1.0.5937",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5936.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5937.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ksjdipLw4PaMGZioGj7ho0c8WbJ2A8gNmMfAWroZy3k="
+      "sha256": "sha256-UV5P5LdlK6MMGNMzE/MHqxJvFE5XzGC/zxmJ+qQDO5Y="
     },
     "extract": null,
     "rustGitDeps": null
