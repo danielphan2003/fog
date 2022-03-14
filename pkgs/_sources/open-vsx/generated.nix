@@ -1155,15 +1155,15 @@
   };
   GraphQL-vscode-graphql = {
     pname = "GraphQL-vscode-graphql";
-    version = "0.3.41";
+    version = "0.3.52";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.41/file/GraphQL.vscode-graphql-0.3.41.vsix";
-      sha256 = "sha256-LrvXWXWnKq/0DqfStD6DbPMYDxwhyhI+BqpQ6XCYoBU=";
+      url = "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.52/file/GraphQL.vscode-graphql-0.3.52.vsix";
+      sha256 = "sha256-mKms/iFvR2CdAZBuMYkW4bpckHXS7XkXr0gNEggS7oI=";
     };
     name = "vscode-graphql";
     license = "MIT";
     publisher = "GraphQL";
-    description = "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.";
+    description = "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tags or comments.";
   };
   GreenXenith-minetest-tools = {
     pname = "GreenXenith-minetest-tools";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.714";
+    version = "31.0.716";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.714/file/Prisma.prisma-insider-31.0.714.vsix";
-      sha256 = "sha256-waIxXpFRPPw0JgyM5ZT4qNpFgKADhX9yScSLyXwNdj4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.716/file/Prisma.prisma-insider-31.0.716.vsix";
+      sha256 = "sha256-VSxgF+lijkicP4Uop+o/gaBJy4E9AMrLqcNAymgVjmA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2808,6 +2808,18 @@
     license = "Apache-2.0";
     publisher = "RandomFractalsInc";
     description = "Data Preview \127544 extension for importing \128228 viewing \128270 slicing \128298 dicing \127922 charting \128202 & exporting \128229 large JSON array/config, YAML, Apache Arrow, Avro & Excel data files";
+  };
+  RedVanWorkshop-sfcc-cartridge-overrides = {
+    pname = "RedVanWorkshop-sfcc-cartridge-overrides";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/RedVanWorkshop/sfcc-cartridge-overrides/1.0.0/file/RedVanWorkshop.sfcc-cartridge-overrides-1.0.0.vsix";
+      sha256 = "sha256-EfrLlAXWHAXFPo+U8AXw1p2dgsu1lHxZj4NjLd7QcAE=";
+    };
+    name = "sfcc-cartridge-overrides";
+    license = "MIT";
+    publisher = "RedVanWorkshop";
+    description = "VS Code Extension to Display SFCC Cartridge Overrides";
   };
   Remisa-shellman = {
     pname = "Remisa-shellman";
@@ -3231,10 +3243,10 @@
   };
   TeamHub-teamhub = {
     pname = "TeamHub-teamhub";
-    version = "15.0.3";
+    version = "15.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.3/file/TeamHub.teamhub-15.0.3.vsix";
-      sha256 = "sha256-0qj+LpO69w6sKlY2HrJxWNzi5JP5ZeTLI/GM6A8fPDI=";
+      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.5/file/TeamHub.teamhub-15.0.5.vsix";
+      sha256 = "sha256-9wrtk0ttBHeNiaKI9by/kCJHtdaQR4Jhn3bV7wOvhOg=";
     };
     name = "teamhub";
     license = "";
@@ -7179,10 +7191,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1979337";
+    version = "7.0.1979657";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1979337/file/eliostruyf.vscode-front-matter-beta-7.0.1979337.vsix";
-      sha256 = "sha256-H6t/eK0yGgRtqTNHMNXZ6TGGP7aODtVJ0s25eWjLH78=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1979657/file/eliostruyf.vscode-front-matter-beta-7.0.1979657.vsix";
+      sha256 = "sha256-qA9ofw20bFDCXSgBw1Jtdgpuv13xRAIm7Ciu9GskmUg=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -16824,6 +16836,18 @@
     license = "MIT";
     publisher = "toroxx";
     description = "Neon color themes by Lawrence Lau";
+  };
+  toroxx-vscode-avdmanager = {
+    pname = "toroxx-vscode-avdmanager";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.0.1/file/toroxx.vscode-avdmanager-1.0.1.vsix";
+      sha256 = "sha256-FxnmiFVY3BiIBrvkIDfSBcrTK15Ylpnh8HZUp2FvumY=";
+    };
+    name = "vscode-avdmanager";
+    license = "MIT";
+    publisher = "toroxx";
+    description = "Android Virtual Device Manager for VSCode";
   };
   trallard-pitaya-smoothie = {
     pname = "trallard-pitaya-smoothie";

@@ -9123,7 +9123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1979337",
+    "version": "7.0.1979657",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9131,10 +9131,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1979337/file/eliostruyf.vscode-front-matter-beta-7.0.1979337.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1979657/file/eliostruyf.vscode-front-matter-beta-7.0.1979657.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-H6t/eK0yGgRtqTNHMNXZ6TGGP7aODtVJ0s25eWjLH78="
+      "sha256": "sha256-qA9ofw20bFDCXSgBw1Jtdgpuv13xRAIm7Ciu9GskmUg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9283,18 +9283,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GraphQL-vscode-graphql",
-    "version": "0.3.41",
+    "version": "0.3.52",
     "passthru": {
       "name": "vscode-graphql",
       "license": "MIT",
       "publisher": "GraphQL",
-      "description": "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag."
+      "description": "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tags or comments."
     },
     "src": {
-      "url": "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.41/file/GraphQL.vscode-graphql-0.3.41.vsix",
+      "url": "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.52/file/GraphQL.vscode-graphql-0.3.52.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LrvXWXWnKq/0DqfStD6DbPMYDxwhyhI+BqpQ6XCYoBU="
+      "sha256": "sha256-mKms/iFvR2CdAZBuMYkW4bpckHXS7XkXr0gNEggS7oI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12495,6 +12495,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-4LjTfvs7ObnTYtaT1WYY/eaYJVulKp7SlqjGt3hDwJI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "toroxx-vscode-avdmanager": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "toroxx-vscode-avdmanager",
+    "version": "1.0.1",
+    "passthru": {
+      "name": "vscode-avdmanager",
+      "license": "MIT",
+      "publisher": "toroxx",
+      "description": "Android Virtual Device Manager for VSCode"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.0.1/file/toroxx.vscode-avdmanager-1.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-FxnmiFVY3BiIBrvkIDfSBcrTK15Ylpnh8HZUp2FvumY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22223,7 +22243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TeamHub-teamhub",
-    "version": "15.0.3",
+    "version": "15.0.5",
     "passthru": {
       "name": "teamhub",
       "license": "",
@@ -22231,10 +22251,10 @@
       "description": "Extend VS Code with real-time collaborative superpowers"
     },
     "src": {
-      "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.3/file/TeamHub.teamhub-15.0.3.vsix",
+      "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.5/file/TeamHub.teamhub-15.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0qj+LpO69w6sKlY2HrJxWNzi5JP5ZeTLI/GM6A8fPDI="
+      "sha256": "sha256-9wrtk0ttBHeNiaKI9by/kCJHtdaQR4Jhn3bV7wOvhOg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29383,7 +29403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.714",
+    "version": "31.0.716",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29391,10 +29411,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.714/file/Prisma.prisma-insider-31.0.714.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.716/file/Prisma.prisma-insider-31.0.716.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-waIxXpFRPPw0JgyM5ZT4qNpFgKADhX9yScSLyXwNdj4="
+      "sha256": "sha256-VSxgF+lijkicP4Uop+o/gaBJy4E9AMrLqcNAymgVjmA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30535,6 +30555,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-yRtQxKiucKTf9axyFBHZyj7o0Y/OF2v/VYDrzd5lqO4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "RedVanWorkshop-sfcc-cartridge-overrides": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "RedVanWorkshop-sfcc-cartridge-overrides",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "sfcc-cartridge-overrides",
+      "license": "MIT",
+      "publisher": "RedVanWorkshop",
+      "description": "VS Code Extension to Display SFCC Cartridge Overrides"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/RedVanWorkshop/sfcc-cartridge-overrides/1.0.0/file/RedVanWorkshop.sfcc-cartridge-overrides-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-EfrLlAXWHAXFPo+U8AXw1p2dgsu1lHxZj4NjLd7QcAE="
     },
     "extract": null,
     "rustGitDeps": null
