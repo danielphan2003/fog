@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "284fb6baa4933a3cebfb15d000e88ce10a0c2df7",
+    "version": "86ca2006ea9b8c7d0a63fde68ff7e2f8838b2fab",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-tZ6rGfBJT1rE2WlQjftdAm1qEy0sLGLEoSq2ZoQOySo=",
-      "rev": "284fb6baa4933a3cebfb15d000e88ce10a0c2df7"
+      "sha256": "sha256-y4bo4rbS9kVFBAiEUY0VGYey57mWf7sKgEWMeVmgQLM=",
+      "rev": "86ca2006ea9b8c7d0a63fde68ff7e2f8838b2fab"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "462e75666b6f95995f365bec45948ab5bc67168e",
+    "version": "6e86bbcb06c427df71cd52d0ec5eccd24a9605e7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-FlizDXzzMQcbM1j/hiKliaJvtavZg9A3TkD5MHZXCqI=",
-      "rev": "462e75666b6f95995f365bec45948ab5bc67168e"
+      "sha256": "sha256-zou7ACw0hAuORaKveaXAIgAcf5ZiDH0tI5fgoQXg1vA=",
+      "rev": "6e86bbcb06c427df71cd52d0ec5eccd24a9605e7"
     },
     "extract": null,
     "rustGitDeps": null
