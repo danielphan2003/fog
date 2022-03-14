@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.721";
+    version = "31.0.722";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.721/file/Prisma.prisma-insider-31.0.721.vsix";
-      sha256 = "sha256-PF7KTAUCKIXTiKY+ysfNNxDBKQmPTB+IOy0sIvhkhF8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.722/file/Prisma.prisma-insider-31.0.722.vsix";
+      sha256 = "sha256-Flcrtk81LgtEFITitmZI4lzD2n4nQtguRLUH/TZAcRU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14619,10 +14619,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.27.1";
+    version = "0.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.27.1/file/robocorp.robocorp-code-0.27.1.vsix";
-      sha256 = "sha256-1zrDJI3Pm4LHCw47Yeq3jyK/rAFIky1GgCKPhvPo9LA=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.28.0/file/robocorp.robocorp-code-0.28.0.vsix";
+      sha256 = "sha256-K1igq3LxvyRKiX2Z0dFtdZcL6+IOI2hLNaeBxeNMX9w=";
     };
     name = "robocorp-code";
     license = "";
@@ -14631,10 +14631,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.41.0";
+    version = "0.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.41.0/file/robocorp.robotframework-lsp-0.41.0.vsix";
-      sha256 = "sha256-PLUukHNGrz6whKoiBqZ9fLIn9jywqBdh1BCtjtiMl0Q=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.42.0/file/robocorp.robotframework-lsp-0.42.0.vsix";
+      sha256 = "sha256-kZlOvQBPcLImLGuV4nyBnLs43Z01Kd4g7rOB7dH2v8k=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
@@ -16275,10 +16275,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.12.1";
+    version = "105.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.12.1/file/svelte.svelte-vscode-105.12.1.vsix";
-      sha256 = "sha256-7HWa3pHBQqBeDVPlhAmXlsr+fDu87CCI8RG9VY5xHeY=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.13.0/file/svelte.svelte-vscode-105.13.0.vsix";
+      sha256 = "sha256-9/P0xGtn+pWjnEOoGajDdlqoSYAvifqpXN32FiYhXyU=";
     };
     name = "svelte-vscode";
     license = "MIT";
