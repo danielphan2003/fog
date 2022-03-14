@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.2.5";
+    version = "13.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.2.5/file/Angular.ng-template-13.2.5.vsix";
-      sha256 = "sha256-6pD2AtZZ1bOLKx1ea+0OcMLWteA4skWLyDJKGd1mLok=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.2.6/file/Angular.ng-template-13.2.6.vsix";
+      sha256 = "sha256-D2BWfxnkbCNjs0HEDSui0OAfVorNdWERMy9Xk0o3Q7Y=";
     };
     name = "ng-template";
     license = "MIT";
@@ -7503,10 +7503,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.39";
+    version = "1.2.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.39/file/everscale.solidity-support-1.2.39.vsix";
-      sha256 = "sha256-xj91tom6T4nGCPt+Yism6IfCjBn9A3U1GU3FGW3t7rg=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.40/file/everscale.solidity-support-1.2.40.vsix";
+      sha256 = "sha256-dnRVF30XYVmJcEQP27VOO8j3Q1sai4xaXGZ5Rg/eBGA=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -8883,10 +8883,10 @@
   };
   hoovercj-vscode-power-mode = {
     pname = "hoovercj-vscode-power-mode";
-    version = "3.0.0";
+    version = "3.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.0/file/hoovercj.vscode-power-mode-3.0.0.vsix";
-      sha256 = "sha256-9etayum9IPBGpSpshPISWWD0xQQwKdkLzhc/QJxPwfs=";
+      url = "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.2/file/hoovercj.vscode-power-mode-3.0.2.vsix";
+      sha256 = "sha256-e+mqHqVB1zoR28nyb4WkD8qzPdTzyGgjhKBV1j2g0Zk=";
     };
     name = "vscode-power-mode";
     license = "MIT";
@@ -12027,10 +12027,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.2.1010641114";
+    version = "2022.3.1000752054";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.2.1010641114/file/ms-toolsai.jupyter-2022.2.1010641114.vsix";
-      sha256 = "sha256-ZdMWWjmqCeOIP/L/uvOdnNTEDfNqxwCe8GSrubzVh7g=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.3.1000752054/file/ms-toolsai.jupyter-2022.3.1000752054.vsix";
+      sha256 = "sha256-015B8yz4sqo4/+HdG0sRkYNaV85zU8t1R67Iqy1zaF8=";
     };
     name = "jupyter";
     license = "MIT";
@@ -13767,10 +13767,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.16.1";
+    version = "0.16.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.16.1/file/pokey.parse-tree-0.16.1.vsix";
-      sha256 = "sha256-PFiXhrv9Ztj7YNUeUfwHrsVUJy0XyxWVZidkUl2TcLA=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.16.2/file/pokey.parse-tree-0.16.2.vsix";
+      sha256 = "sha256-jfrBMUvx2T/il/sjlCw9YWiU6S8I7806nfjevyzxx5o=";
     };
     name = "parse-tree";
     license = "MIT";

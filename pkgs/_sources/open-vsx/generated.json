@@ -5643,7 +5643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "everscale-solidity-support",
-    "version": "1.2.39",
+    "version": "1.2.40",
     "passthru": {
       "name": "solidity-support",
       "license": "Apache-2.0",
@@ -5651,10 +5651,10 @@
       "description": "Everscale Solidity Language for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.39/file/everscale.solidity-support-1.2.39.vsix",
+      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.40/file/everscale.solidity-support-1.2.40.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xj91tom6T4nGCPt+Yism6IfCjBn9A3U1GU3FGW3t7rg="
+      "sha256": "sha256-dnRVF30XYVmJcEQP27VOO8j3Q1sai4xaXGZ5Rg/eBGA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10423,7 +10423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-parse-tree",
-    "version": "0.16.1",
+    "version": "0.16.2",
     "passthru": {
       "name": "parse-tree",
       "license": "MIT",
@@ -10431,10 +10431,10 @@
       "description": "Access document syntax using tree-sitter"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/parse-tree/0.16.1/file/pokey.parse-tree-0.16.1.vsix",
+      "url": "https://open-vsx.org/api/pokey/parse-tree/0.16.2/file/pokey.parse-tree-0.16.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PFiXhrv9Ztj7YNUeUfwHrsVUJy0XyxWVZidkUl2TcLA="
+      "sha256": "sha256-jfrBMUvx2T/il/sjlCw9YWiU6S8I7806nfjevyzxx5o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14763,7 +14763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hoovercj-vscode-power-mode",
-    "version": "3.0.0",
+    "version": "3.0.2",
     "passthru": {
       "name": "vscode-power-mode",
       "license": "MIT",
@@ -14771,10 +14771,10 @@
       "description": "Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.0/file/hoovercj.vscode-power-mode-3.0.0.vsix",
+      "url": "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.2/file/hoovercj.vscode-power-mode-3.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9etayum9IPBGpSpshPISWWD0xQQwKdkLzhc/QJxPwfs="
+      "sha256": "sha256-e+mqHqVB1zoR28nyb4WkD8qzPdTzyGgjhKBV1j2g0Zk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25823,7 +25823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-toolsai-jupyter",
-    "version": "2022.2.1010641114",
+    "version": "2022.3.1000752054",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -25831,10 +25831,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.2.1010641114/file/ms-toolsai.jupyter-2022.2.1010641114.vsix",
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.3.1000752054/file/ms-toolsai.jupyter-2022.3.1000752054.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZdMWWjmqCeOIP/L/uvOdnNTEDfNqxwCe8GSrubzVh7g="
+      "sha256": "sha256-015B8yz4sqo4/+HdG0sRkYNaV85zU8t1R67Iqy1zaF8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27943,7 +27943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Angular-ng-template",
-    "version": "13.2.5",
+    "version": "13.2.6",
     "passthru": {
       "name": "ng-template",
       "license": "MIT",
@@ -27951,10 +27951,10 @@
       "description": "Editor services for Angular templates"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Angular/ng-template/13.2.5/file/Angular.ng-template-13.2.5.vsix",
+      "url": "https://open-vsx.org/api/Angular/ng-template/13.2.6/file/Angular.ng-template-13.2.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6pD2AtZZ1bOLKx1ea+0OcMLWteA4skWLyDJKGd1mLok="
+      "sha256": "sha256-D2BWfxnkbCNjs0HEDSui0OAfVorNdWERMy9Xk0o3Q7Y="
     },
     "extract": null,
     "rustGitDeps": null
