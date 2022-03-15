@@ -3207,10 +3207,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.34";
+    version = "3.5.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.34/file/TabNine.tabnine-vscode-3.5.34.vsix";
-      sha256 = "sha256-lz09qvX+0lTlIhmswqvswM6BZBt1ALFfpvVVFUNpmA4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.36/file/TabNine.tabnine-vscode-3.5.36.vsix";
+      sha256 = "sha256-r3xURqypOQHDnXCAhmz613BXfZtboJHVlHlj9Zd6M1M=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -5415,10 +5415,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.22";
+    version = "5.6.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.22/file/bringout.f18-klijent-5.6.22.vsix";
-      sha256 = "sha256-a5mhcyy1OwXYABApczxYRs+wmoKiRdHPzBwnwNUuRdk=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.23/file/bringout.f18-klijent-5.6.23.vsix";
+      sha256 = "sha256-CBIPWVK2mtfhzPKnEjitvQXTX0P9xOehm9ehxuz7YZM=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -7551,10 +7551,10 @@
   };
   evilz-vscode-reveal = {
     pname = "evilz-vscode-reveal";
-    version = "4.1.2";
+    version = "4.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.1.2/file/evilz.vscode-reveal-4.1.2.vsix";
-      sha256 = "sha256-PiRjteALbmNWSBCxXgUCE3tUer6WwXWVB5ZcN/tZ24Y=";
+      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.1.3/file/evilz.vscode-reveal-4.1.3.vsix";
+      sha256 = "sha256-IbRq/IiSGYFqd1UDuhKCWZv94OUyOw4IWPvt8lKW68c=";
     };
     name = "vscode-reveal";
     license = "MIT";
@@ -15723,10 +15723,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.10.3";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.10.3/file/sourcery.sourcery-0.10.3.vsix";
-      sha256 = "sha256-57dG9zcSAKwFaYKpwYKfwJqSfKs+aued4EX8zxFfdec=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.0/file/sourcery.sourcery-0.11.0.vsix";
+      sha256 = "sha256-HhIdq0YWzhSGxer8BqyPf4gqH42LLSw+Zq5p4jOo8bc=";
     };
     name = "sourcery";
     license = "MIT";

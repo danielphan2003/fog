@@ -5163,7 +5163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bringout-f18-klijent",
-    "version": "5.6.22",
+    "version": "5.6.23",
     "passthru": {
       "name": "f18-klijent",
       "license": "MIT",
@@ -5171,10 +5171,10 @@
       "description": "F18 klijent host eShell"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.22/file/bringout.f18-klijent-5.6.22.vsix",
+      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.23/file/bringout.f18-klijent-5.6.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a5mhcyy1OwXYABApczxYRs+wmoKiRdHPzBwnwNUuRdk="
+      "sha256": "sha256-CBIPWVK2mtfhzPKnEjitvQXTX0P9xOehm9ehxuz7YZM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7863,7 +7863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sourcery-sourcery",
-    "version": "0.10.3",
+    "version": "0.11.0",
     "passthru": {
       "name": "sourcery",
       "license": "MIT",
@@ -7871,10 +7871,10 @@
       "description": "Refactor Python instantly with Sourcery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sourcery/sourcery/0.10.3/file/sourcery.sourcery-0.10.3.vsix",
+      "url": "https://open-vsx.org/api/sourcery/sourcery/0.11.0/file/sourcery.sourcery-0.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-57dG9zcSAKwFaYKpwYKfwJqSfKs+aued4EX8zxFfdec="
+      "sha256": "sha256-HhIdq0YWzhSGxer8BqyPf4gqH42LLSw+Zq5p4jOo8bc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9203,7 +9203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.34",
+    "version": "3.5.36",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9211,10 +9211,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.34/file/TabNine.tabnine-vscode-3.5.34.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.36/file/TabNine.tabnine-vscode-3.5.36.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lz09qvX+0lTlIhmswqvswM6BZBt1ALFfpvVVFUNpmA4="
+      "sha256": "sha256-r3xURqypOQHDnXCAhmz613BXfZtboJHVlHlj9Zd6M1M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23683,7 +23683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "evilz-vscode-reveal",
-    "version": "4.1.2",
+    "version": "4.1.3",
     "passthru": {
       "name": "vscode-reveal",
       "license": "MIT",
@@ -23691,10 +23691,10 @@
       "description": "Show markdown as revealJs presentation"
     },
     "src": {
-      "url": "https://open-vsx.org/api/evilz/vscode-reveal/4.1.2/file/evilz.vscode-reveal-4.1.2.vsix",
+      "url": "https://open-vsx.org/api/evilz/vscode-reveal/4.1.3/file/evilz.vscode-reveal-4.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PiRjteALbmNWSBCxXgUCE3tUer6WwXWVB5ZcN/tZ24Y="
+      "sha256": "sha256-IbRq/IiSGYFqd1UDuhKCWZv94OUyOw4IWPvt8lKW68c="
     },
     "extract": null,
     "rustGitDeps": null
