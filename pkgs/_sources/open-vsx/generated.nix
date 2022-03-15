@@ -16851,10 +16851,10 @@
   };
   toroxx-vscode-avdmanager = {
     pname = "toroxx-vscode-avdmanager";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.0.1/file/toroxx.vscode-avdmanager-1.0.1.vsix";
-      sha256 = "sha256-FxnmiFVY3BiIBrvkIDfSBcrTK15Ylpnh8HZUp2FvumY=";
+      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.0.2/file/toroxx.vscode-avdmanager-1.0.2.vsix";
+      sha256 = "sha256-t4gFvzUdHjdOeEP2A1R/hvJ5SzFHgxwyf+LQ51cLMOo=";
     };
     name = "vscode-avdmanager";
     license = "MIT";
