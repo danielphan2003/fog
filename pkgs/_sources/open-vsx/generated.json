@@ -1983,7 +1983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -1991,10 +1991,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.5/file/zardoy.vetur-extended-0.0.5.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.6/file/zardoy.vetur-extended-0.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-obpjqb7jq09C2r2wF5U6cSdvDdNLP2cVZzrFJBlz9kU="
+      "sha256": "sha256-woz3Pzd6UWWkE/bnmfOHOiJeyIEuzVQkJdlOcKCTboc="
     },
     "extract": null,
     "rustGitDeps": null

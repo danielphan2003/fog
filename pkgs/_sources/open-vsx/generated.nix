@@ -19371,10 +19371,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.5/file/zardoy.vetur-extended-0.0.5.vsix";
-      sha256 = "sha256-obpjqb7jq09C2r2wF5U6cSdvDdNLP2cVZzrFJBlz9kU=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.6/file/zardoy.vetur-extended-0.0.6.vsix";
+      sha256 = "sha256-woz3Pzd6UWWkE/bnmfOHOiJeyIEuzVQkJdlOcKCTboc=";
     };
     name = "vetur-extended";
     license = "MIT";
