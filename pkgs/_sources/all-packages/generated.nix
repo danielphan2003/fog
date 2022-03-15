@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8dc500e20a87a082574f6d4ab47726ceb335c957";
+    version = "514ad144f64ad7379d9f6a6efc50fd6e3a230cd8";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8dc500e20a87a082574f6d4ab47726ceb335c957";
+      rev = "514ad144f64ad7379d9f6a6efc50fd6e3a230cd8";
       fetchSubmodules = false;
-      sha256 = "sha256-FQclFymvihFX21EXzhfM0zUfV8NKjsOKWNogq7qU7PE=";
+      sha256 = "sha256-m985YSbUpwdAcyJl4uCy66bSao8zGksuMbkMflXVZkA=";
     });
   };
   caddy = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5253e4be23bec378f83aaac50ab0e80f5bca2ac2";
+    version = "646b0f72099a85a2dbc4eaeef1294fbfc2a17d3b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5253e4be23bec378f83aaac50ab0e80f5bca2ac2";
+      rev = "646b0f72099a85a2dbc4eaeef1294fbfc2a17d3b";
       fetchSubmodules = false;
-      sha256 = "sha256-xb36VRxybbF+ZhOLGS53gYjzYN1O83KtB2USb3x/Psk=";
+      sha256 = "sha256-yEgrAZUhOuYUizt/0ygqo9g4w3GszxksInJ//YrwQvQ=";
     });
   };
   rofi-wayland = {
