@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.1120";
+    version = "2022.3.1417";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1120/file/Slint.slint-nightly-2022.3.1120.vsix";
-      sha256 = "sha256-paLiJYMW6qpfx76KuH+HIdgknk0y6WcjLZQQ9pyRVck=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1417/file/Slint.slint-nightly-2022.3.1417.vsix";
+      sha256 = "sha256-YDSHsshBbEex8jLZUIr6JNcI9uNRoxGTNr8Lix0xl+8=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -11967,10 +11967,10 @@
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
-    version = "1.3.6";
+    version = "1.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.6/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.6.vsix";
-      sha256 = "sha256-Mb73lJWJtqgXmStwpkgCgayi6s0dNjyx3ZE36WGCsmU=";
+      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.7/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.7.vsix";
+      sha256 = "sha256-B9koR8TQk7NA/u29LxS4KPjXWAT/kmVVP9BbzGxFNdQ=";
     };
     name = "vscode-kubernetes-tools";
     license = "MIT";
