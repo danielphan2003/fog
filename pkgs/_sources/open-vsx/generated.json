@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.85.7",
+    "version": "0.85.8",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.85.7/file/dendron.nightly-0.85.7.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.85.8/file/dendron.nightly-0.85.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-y8ElLoUxghjRWDruaCzKjch2Sh0h9omb1sKLR6xgcfk="
+      "sha256": "sha256-vn+7XsnKzp9xZ7UNudSOtuZi/3vBtgIDYl6pAeRrwHM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4083,7 +4083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "moshfeu-diff-merge",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "passthru": {
       "name": "diff-merge",
       "license": "MIT",
@@ -4091,10 +4091,10 @@
       "description": "Show diffs and merge"
     },
     "src": {
-      "url": "https://open-vsx.org/api/moshfeu/diff-merge/0.6.0/file/moshfeu.diff-merge-0.6.0.vsix",
+      "url": "https://open-vsx.org/api/moshfeu/diff-merge/0.6.1/file/moshfeu.diff-merge-0.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qSnDfES+/zJu5+lWGRf8cRLAkTL8IIVpk7mi70blN4M="
+      "sha256": "sha256-/Y6PhiU6kYaEK0j8JpIO4Mg9hM60I7nrPldpvyGx69g="
     },
     "extract": null,
     "rustGitDeps": null

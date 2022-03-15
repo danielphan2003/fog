@@ -6747,10 +6747,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.85.7";
+    version = "0.85.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.85.7/file/dendron.nightly-0.85.7.vsix";
-      sha256 = "sha256-y8ElLoUxghjRWDruaCzKjch2Sh0h9omb1sKLR6xgcfk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.85.8/file/dendron.nightly-0.85.8.vsix";
+      sha256 = "sha256-vn+7XsnKzp9xZ7UNudSOtuZi/3vBtgIDYl6pAeRrwHM=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -11823,10 +11823,10 @@
   };
   moshfeu-diff-merge = {
     pname = "moshfeu-diff-merge";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.6.0/file/moshfeu.diff-merge-0.6.0.vsix";
-      sha256 = "sha256-qSnDfES+/zJu5+lWGRf8cRLAkTL8IIVpk7mi70blN4M=";
+      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.6.1/file/moshfeu.diff-merge-0.6.1.vsix";
+      sha256 = "sha256-/Y6PhiU6kYaEK0j8JpIO4Mg9hM60I7nrPldpvyGx69g=";
     };
     name = "diff-merge";
     license = "MIT";
