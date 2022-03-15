@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6968b1eb1d86538beab17cc0a94194f252303fe6";
+    version = "edba24dbf8abbfef00787c1219d7b67cdf0de279";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6968b1eb1d86538beab17cc0a94194f252303fe6";
+      rev = "edba24dbf8abbfef00787c1219d7b67cdf0de279";
       fetchSubmodules = false;
-      sha256 = "sha256-UvgltPjlaCSifkws3rMDWV3xaQTyeh2jE/P0jaTk1YM=";
+      sha256 = "sha256-Is3h3onFCoicFTaD4AcCJYoTH49vSVQ9UG1fSDI/no0=";
     });
   };
   caddy = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5951";
+    version = "1.0.5952";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5951.tar.bz2";
-      sha256 = "sha256-o79ztcPItpuElUg1S8/siFe1WX1jrhGzmHT8dA6rlw8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5952.tar.bz2";
+      sha256 = "sha256-VuB1QDe/od98K/zfjrO2oqeHUtMlQpyordDTDH+bEWU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5951";
+    version = "1.0.5952";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5951-1_all.deb";
-      sha256 = "sha256-xPVL9M7eEeS2YqNDTCLoDE/PUo01tUXfON9mh4dGsRA=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5952-1_all.deb";
+      sha256 = "sha256-48ZFpqiPdB7Luy61rdANaecAMe4tZ+kL1PXodqIFFpU=";
     };
   };
   jitsi-videobridge2 = {
@@ -527,10 +527,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "100.0.1185.7";
+    version = "101.0.1193.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_100.0.1185.7-1_amd64.deb";
-      sha256 = "sha256-BBZGv+He/vFLzoxxvmPkTv8T4hHjOwNqXNrgQ8HEk7Y=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_101.0.1193.0-1_amd64.deb";
+      sha256 = "sha256-AriY/3zvQGwLfaY4EiihyHG0DD/TQDsL4EvxB3I8E/o=";
     };
   };
   minecraft-wayland = {
