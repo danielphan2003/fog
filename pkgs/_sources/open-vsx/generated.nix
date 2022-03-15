@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.10.0";
+    version = "3.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.10.0/file/Prisma.prisma-3.10.0.vsix";
-      sha256 = "sha256-h9i3vnjxU/fF2pCbvMOxgUTlmcq4uPsUQAtTBF4h/AI=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.11.0/file/Prisma.prisma-3.11.0.vsix";
+      sha256 = "sha256-UGwD5HehJSNf3fqI31WZRWj/L76B6gw5hB3W7gjKuUM=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -13959,10 +13959,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.30.0";
+    version = "1.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.30.0/file/qcz.text-power-tools-1.30.0.vsix";
-      sha256 = "sha256-CSWmMHz/NVpjaFcpK7MCTH9q5RSGNP2vSoxCqos8ANk=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.31.0/file/qcz.text-power-tools-1.31.0.vsix";
+      sha256 = "sha256-ZBb8JMErSlipeMr1MYhlgeGo2XSTMs9OT5BhyShSxvk=";
     };
     name = "text-power-tools";
     license = "MIT";
