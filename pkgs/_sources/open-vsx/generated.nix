@@ -6663,10 +6663,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.86.0";
+    version = "0.86.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.86.0/file/dendron.dendron-0.86.0.vsix";
-      sha256 = "sha256-RqG71T3i4jb1M4nHBvUOrLz0hxLbiVxIxNI0w272eDw=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.86.1/file/dendron.dendron-0.86.1.vsix";
+      sha256 = "sha256-uJkKAOF2mklxkKcxi4oenYZi+FA1DaVy0YYyLz0cPYs=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -13767,10 +13767,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.299";
+    version = "0.25.300";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.299/file/pokey.cursorless-0.25.299.vsix";
-      sha256 = "sha256-dEdS7MMmdRRI4VHCneAWzt3tQ8H+EfFBI8bw+4BBD70=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.300/file/pokey.cursorless-0.25.300.vsix";
+      sha256 = "sha256-Yf/2Ho33KdpELxMhjeJIo/7no6Vs6TlwYi9PT/d/t9s=";
     };
     name = "cursorless";
     license = "MIT";
@@ -18795,10 +18795,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.11";
+    version = "0.5.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.11/file/wcrichton.flowistry-0.5.11.vsix";
-      sha256 = "sha256-1MZQQ1cp9L22WMZaWFAxVs5fAP5aD4g+CyaUjIMOiPI=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.12/file/wcrichton.flowistry-0.5.12.vsix";
+      sha256 = "sha256-MZWMHx6NlpHLJaXrkq8d7IFwfycOc19cLj8OuDPuIM8=";
     };
     name = "flowistry";
     license = "MIT";
@@ -19311,10 +19311,10 @@
   };
   zardoy-fix-all-json = {
     pname = "zardoy-fix-all-json";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.4/file/zardoy.fix-all-json-0.0.4.vsix";
-      sha256 = "sha256-RHKzi0mEWLufeTlHpSSLWQLhPnXIqcmMF5nCqCamFMs=";
+      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.5/file/zardoy.fix-all-json-0.0.5.vsix";
+      sha256 = "sha256-+L/88oBnguDf5gAj8LqgvzpfY2BvvrfbijQUdCmJy+U=";
     };
     name = "fix-all-json";
     license = "MIT";

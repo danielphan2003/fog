@@ -10723,7 +10723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.11",
+    "version": "0.5.12",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10731,10 +10731,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.11/file/wcrichton.flowistry-0.5.11.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.12/file/wcrichton.flowistry-0.5.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1MZQQ1cp9L22WMZaWFAxVs5fAP5aD4g+CyaUjIMOiPI="
+      "sha256": "sha256-MZWMHx6NlpHLJaXrkq8d7IFwfycOc19cLj8OuDPuIM8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12403,7 +12403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.299",
+    "version": "0.25.300",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12411,10 +12411,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.299/file/pokey.cursorless-0.25.299.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.300/file/pokey.cursorless-0.25.300.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dEdS7MMmdRRI4VHCneAWzt3tQ8H+EfFBI8bw+4BBD70="
+      "sha256": "sha256-Yf/2Ho33KdpELxMhjeJIo/7no6Vs6TlwYi9PT/d/t9s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22783,7 +22783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.86.0",
+    "version": "0.86.1",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -22791,10 +22791,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.86.0/file/dendron.dendron-0.86.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.86.1/file/dendron.dendron-0.86.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RqG71T3i4jb1M4nHBvUOrLz0hxLbiVxIxNI0w272eDw="
+      "sha256": "sha256-uJkKAOF2mklxkKcxi4oenYZi+FA1DaVy0YYyLz0cPYs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25803,7 +25803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-fix-all-json",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "passthru": {
       "name": "fix-all-json",
       "license": "MIT",
@@ -25811,10 +25811,10 @@
       "description": "Fix missing and trailing commas on save"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/fix-all-json/0.0.4/file/zardoy.fix-all-json-0.0.4.vsix",
+      "url": "https://open-vsx.org/api/zardoy/fix-all-json/0.0.5/file/zardoy.fix-all-json-0.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RHKzi0mEWLufeTlHpSSLWQLhPnXIqcmMF5nCqCamFMs="
+      "sha256": "sha256-+L/88oBnguDf5gAj8LqgvzpfY2BvvrfbijQUdCmJy+U="
     },
     "extract": null,
     "rustGitDeps": null
