@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.5947",
+    "version": "1.0.5949",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5947-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5949-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-g7anJCgAN91yIIxC1XlHHYe6rV/9Jc6h835Zss2dp5Y="
+      "sha256": "sha256-pXt8n4t74D6zuHn/eBVskh6jtAOSFCi3EtMOJHAoHp8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -602,13 +602,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cinny",
-    "version": "1.8.0",
+    "version": "1.8.1",
     "passthru": null,
     "src": {
-      "url": "https://github.com/ajbura/cinny/releases/download/v1.8.0/cinny-v1.8.0.tar.gz",
+      "url": "https://github.com/ajbura/cinny/releases/download/v1.8.1/cinny-v1.8.1.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6WhWTVDa/AjayCDhBSNgZFA4J0Lg3E20Pai7O+i/al0="
+      "sha256": "sha256-33CwKz6kPiV4/QWKouU3O5gesfmnhAoko3bwCSM8TY4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5947",
+    "version": "1.0.5949",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5947.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5949.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8UTRe2oIgGSFf29740Dbeo6jQVj6wjjxx3hjj0m9/kU="
+      "sha256": "sha256-zI230wdDgNhfJFwefXDN/bRl/132u/p8mzm8A0R/bDk="
     },
     "extract": null,
     "rustGitDeps": null
