@@ -2595,10 +2595,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.30.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.30.0/file/Pivotal.vscode-bosh-1.30.0.vsix";
-      sha256 = "sha256-Xpju34S4z0lhRyC5Ukk0Ppuf49q8PpYGtN1ClVNIspQ=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.32.0/file/Pivotal.vscode-bosh-1.32.0.vsix";
+      sha256 = "sha256-GHdcq+8EkUQctFQyTmkx/L+8yyORNmGqQ8YIQgHmv4M=";
     };
     name = "vscode-bosh";
     license = "EPL-1.0";
@@ -2607,10 +2607,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.30.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.30.0/file/Pivotal.vscode-concourse-1.30.0.vsix";
-      sha256 = "sha256-LQp7BOXw6lAAf3DjLasUPyEcO92HeQ4deop01remRLY=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.32.0/file/Pivotal.vscode-concourse-1.32.0.vsix";
+      sha256 = "sha256-+GKBvWF6tBoBhVh4sBuN8xZ9UbXm92Uk2MEFK0Dn0FI=";
     };
     name = "vscode-concourse";
     license = "EPL-1.0";
@@ -2619,10 +2619,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.30.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.30.0/file/Pivotal.vscode-manifest-yaml-1.30.0.vsix";
-      sha256 = "sha256-NkOKPO1j/jcUymHGwvB3IEbT6TkjBKLNNFEQyo9Zt+g=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.32.0/file/Pivotal.vscode-manifest-yaml-1.32.0.vsix";
+      sha256 = "sha256-PFVAIaiIHhGbvSmpZzAb0bAKO/Ab4XgYjNqErerltAw=";
     };
     name = "vscode-manifest-yaml";
     license = "EPL-1.0";
@@ -2631,10 +2631,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.30.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.30.0/file/Pivotal.vscode-spring-boot-1.30.0.vsix";
-      sha256 = "sha256-3LHmCXiZbd+En4ENuv8Z01yajon6zTkLcPSBkVPSDeQ=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.32.0/file/Pivotal.vscode-spring-boot-1.32.0.vsix";
+      sha256 = "sha256-93uNmSEVXSG9/9QAoEk31qpLjhzxwgrtGPEVKOrCxO8=";
     };
     name = "vscode-spring-boot";
     license = "EPL-1.0";
