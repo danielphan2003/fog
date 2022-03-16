@@ -11143,7 +11143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-vscode-httpyac",
-    "version": "5.2.0",
+    "version": "5.2.1",
     "passthru": {
       "name": "vscode-httpyac",
       "license": "MIT",
@@ -11151,10 +11151,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.0/file/anweber.vscode-httpyac-5.2.0.vsix",
+      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.1/file/anweber.vscode-httpyac-5.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OoZJRGpqjMSz1QxGeyyG0bVSKMHittKAHDGif/jXIeU="
+      "sha256": "sha256-tzgDK5Ue3m3MF5QuHbaaB1UtEWPPZpL1h0V7tO50jJs="
     },
     "extract": null,
     "rustGitDeps": null
