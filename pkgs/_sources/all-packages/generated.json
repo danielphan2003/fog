@@ -1348,7 +1348,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yubikey-guide",
-    "version": "fe6434577bce964aefd33d5e085d6ac0008e17ce",
+    "version": "4615b5e9192f2e3f2e24f0d998b4029efdd3f2c2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1358,8 +1358,8 @@
       "name": null,
       "repo": "YubiKey-Guide",
       "type": "github",
-      "sha256": "sha256-HQrS2+yvSXi/XCOzWRIV4S/riKpCvnHTSGZfbYXEmrg=",
-      "rev": "fe6434577bce964aefd33d5e085d6ac0008e17ce"
+      "sha256": "sha256-+6Vp3ZSVdbfUZ3vKvSUrJtcK08PM12O382nTzTjv+Q4=",
+      "rev": "4615b5e9192f2e3f2e24f0d998b4029efdd3f2c2"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "61ee72940ce5309c003ea1f9360a066fddaa0e81",
+    "version": "84a2dc3a7ee85fa61e66e822cb1535614c2c859c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-E6IYq4DNv4tkMgAYPM69Bbfxq2NbWUFGQJlIxAEbrGw=",
-      "rev": "61ee72940ce5309c003ea1f9360a066fddaa0e81"
+      "sha256": "sha256-Ozjerj9nFJXS78CvTK/MEd8cMJV4qc1gNzWjpAwk7fk=",
+      "rev": "84a2dc3a7ee85fa61e66e822cb1535614c2c859c"
     },
     "extract": null,
     "rustGitDeps": null
