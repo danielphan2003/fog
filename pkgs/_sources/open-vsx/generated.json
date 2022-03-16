@@ -1639,6 +1639,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "XadillaX-mir2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "XadillaX-mir2",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "mir2",
+      "license": "MIT",
+      "publisher": "XadillaX",
+      "description": "The Legend of Mir2 Theme"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/XadillaX/mir2/1.0.0/file/XadillaX.mir2-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-bB0JkUDG3tCSxMWsNRD1jzgRKDexmT3ZbxceIYQBkqw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "dsznajder-es7-react-js-snippets": {
     "pinned": false,
     "cargoLock": null,

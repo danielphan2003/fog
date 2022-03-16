@@ -3553,6 +3553,18 @@
     publisher = "WyattL";
     description = "Syntax highlighting for GreyScript.";
   };
+  XadillaX-mir2 = {
+    pname = "XadillaX-mir2";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/XadillaX/mir2/1.0.0/file/XadillaX.mir2-1.0.0.vsix";
+      sha256 = "sha256-bB0JkUDG3tCSxMWsNRD1jzgRKDexmT3ZbxceIYQBkqw=";
+    };
+    name = "mir2";
+    license = "MIT";
+    publisher = "XadillaX";
+    description = "The Legend of Mir2 Theme";
+  };
   XadillaX-viml = {
     pname = "XadillaX-viml";
     version = "2.1.0";
