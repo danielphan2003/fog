@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.729";
+    version = "31.0.730";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.729/file/Prisma.prisma-insider-31.0.729.vsix";
-      sha256 = "sha256-2LeJ1oJ0Gumu1aqCm+gHHJMw6tOaYPxKnfqMowZWzGc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.730/file/Prisma.prisma-insider-31.0.730.vsix";
+      sha256 = "sha256-0NJisZ7WOaM2P0qLegHXEOCh4ScDtl41SWqeL+sZY1M=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3711,10 +3711,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.9.1";
+    version = "4.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.1/file/42Crunch.vscode-openapi-4.9.1.vsix";
-      sha256 = "sha256-Bf/zw/dzmxUmTNkqU+5OZIAZMy5WTK6f0M2d3Qjoxuc=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.3/file/42Crunch.vscode-openapi-4.9.3.vsix";
+      sha256 = "sha256-VvPnwY5AUbY9GOgGRz8oae2cSUm5aaZ6smPR3sKMpBQ=";
     };
     name = "vscode-openapi";
     license = "AGPL-3.0-only";
@@ -6351,10 +6351,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.9.2";
+    version = "0.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.2/file/d-biehl.robotcode-0.9.2.vsix";
-      sha256 = "sha256-pkXd29oH3aqxAJivejq752iGc8EE2I3ECaoT8n4Wu48=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.3/file/d-biehl.robotcode-0.9.3.vsix";
+      sha256 = "sha256-bOTT3kf8qo0t9BO3pf7Dr1brcO9lf47gIhh7ogRdzmY=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7527,10 +7527,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.40";
+    version = "1.2.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.40/file/everscale.solidity-support-1.2.40.vsix";
-      sha256 = "sha256-dnRVF30XYVmJcEQP27VOO8j3Q1sai4xaXGZ5Rg/eBGA=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.41/file/everscale.solidity-support-1.2.41.vsix";
+      sha256 = "sha256-/nE6MaPuxV62kVOErqZFE1uwl69dXcw4JK278hFBC5k=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -8787,10 +8787,10 @@
   };
   hediet-vscode-drawio-insiders-build = {
     pname = "hediet-vscode-drawio-insiders-build";
-    version = "1.6.501";
+    version = "1.6.502";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.501/file/hediet.vscode-drawio-insiders-build-1.6.501.vsix";
-      sha256 = "sha256-yqbSySoVL4hnN9zj091xVW2qh3fTnpKacOQVsB8civM=";
+      url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.502/file/hediet.vscode-drawio-insiders-build-1.6.502.vsix";
+      sha256 = "sha256-ym5VbyXRXpB2IzCV9+vZO4FqGEtz5eVILCN5FVJKs8g=";
     };
     name = "vscode-drawio-insiders-build";
     license = "GPL-3.0";
@@ -13779,10 +13779,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.300";
+    version = "0.25.301";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.300/file/pokey.cursorless-0.25.300.vsix";
-      sha256 = "sha256-Yf/2Ho33KdpELxMhjeJIo/7no6Vs6TlwYi9PT/d/t9s=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.301/file/pokey.cursorless-0.25.301.vsix";
+      sha256 = "sha256-wTKg273k/c+RUwLKvI/ai6D0vOJBNmKXPaUqk37mumU=";
     };
     name = "cursorless";
     license = "MIT";
@@ -14595,10 +14595,10 @@
   };
   rid9-datetime = {
     pname = "rid9-datetime";
-    version = "2.1.2";
+    version = "2.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rid9/datetime/2.1.2/file/rid9.datetime-2.1.2.vsix";
-      sha256 = "sha256-7aYX08wlpMWZQvJS78Hfcbi6ikF3nQy7yoCzaRBYpPc=";
+      url = "https://open-vsx.org/api/rid9/datetime/2.1.3/file/rid9.datetime-2.1.3.vsix";
+      sha256 = "sha256-HaN54tUidITwCqVZ/9ly5etwQuJyrbbiiOhjixSk164=";
     };
     name = "datetime";
     license = "MIT";
