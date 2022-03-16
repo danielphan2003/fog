@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "514ad144f64ad7379d9f6a6efc50fd6e3a230cd8";
+    version = "fe41412736db22c7d4c7e140c76717ccbe1fe703";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "514ad144f64ad7379d9f6a6efc50fd6e3a230cd8";
+      rev = "fe41412736db22c7d4c7e140c76717ccbe1fe703";
       fetchSubmodules = false;
-      sha256 = "sha256-m985YSbUpwdAcyJl4uCy66bSao8zGksuMbkMflXVZkA=";
+      sha256 = "sha256-XWCIteUFqVDEpeO7a8+x/jFsJD67aHt4YVjf6mSijnY=";
     });
   };
   caddy = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "07f48a7bfeb7ceb249ce3ee90fc04ea616ef0b4c";
+    version = "5be42c0af1c9c8899e8383b19d7284a058005bd0";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "07f48a7bfeb7ceb249ce3ee90fc04ea616ef0b4c";
+      rev = "5be42c0af1c9c8899e8383b19d7284a058005bd0";
       fetchSubmodules = false;
-      sha256 = "sha256-Muz8bKg65FDSOz2KiA6S292Sb64UrORPhe85JUll4F8=";
+      sha256 = "sha256-6vU24/G52HxgcWcG+/5ZN+B4fIgJDF91tIXz0yO6UOo=";
     });
   };
   tailscale-systray = {
