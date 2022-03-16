@@ -1548,7 +1548,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "942b13194cdd9e49b8a6772c20b405e8b538b0c1",
+    "version": "e7ef63a5a42697ff462a3f1cddfc7146a5ef0c0f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1558,8 +1558,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-17BRtLi8bSBjvln6DeUF/hFGF7UWdKcdWbM+Oc2plps=",
-      "rev": "942b13194cdd9e49b8a6772c20b405e8b538b0c1"
+      "sha256": "sha256-Qja8OsqA+2DZPVIHUK81GWMgbO/K1UWulrcanmoLP/I=",
+      "rev": "e7ef63a5a42697ff462a3f1cddfc7146a5ef0c0f"
     },
     "extract": null,
     "rustGitDeps": null
