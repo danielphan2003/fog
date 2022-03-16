@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.726";
+    version = "31.0.728";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.726/file/Prisma.prisma-insider-31.0.726.vsix";
-      sha256 = "sha256-BAX0e9mjI4CC/GYFG4+mzjJySMm+FzR4ftzb3Uo1rqY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.728/file/Prisma.prisma-insider-31.0.728.vsix";
+      sha256 = "sha256-W9pq9CvpTYj2Hhq2+bolgrthHFZZwjc3GxnbZU9obE0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5199,10 +5199,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.253";
+    version = "2.0.254";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.253/file/betterthantomorrow.calva-2.0.253.vsix";
-      sha256 = "sha256-tsWPT8tD6u2HbYzvcDd/cfEatRfAWL7G7+dC3WTVC/U=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.254/file/betterthantomorrow.calva-2.0.254.vsix";
+      sha256 = "sha256-1X42ym0Q73GeY3+iiGYfeXCFikZkh/Vly8MRGKF6eZA=";
     };
     name = "calva";
     license = "MIT";
@@ -8787,10 +8787,10 @@
   };
   hediet-vscode-drawio-insiders-build = {
     pname = "hediet-vscode-drawio-insiders-build";
-    version = "1.6.401";
+    version = "1.6.501";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.401/file/hediet.vscode-drawio-insiders-build-1.6.401.vsix";
-      sha256 = "sha256-hQbyxcwts4kFWAqFfiaYPMefXALLrxJ/1TkAd2Z07no=";
+      url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.501/file/hediet.vscode-drawio-insiders-build-1.6.501.vsix";
+      sha256 = "sha256-yqbSySoVL4hnN9zj091xVW2qh3fTnpKacOQVsB8civM=";
     };
     name = "vscode-drawio-insiders-build";
     license = "GPL-3.0";

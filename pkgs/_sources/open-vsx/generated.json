@@ -17603,7 +17603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hediet-vscode-drawio-insiders-build",
-    "version": "1.6.401",
+    "version": "1.6.501",
     "passthru": {
       "name": "vscode-drawio-insiders-build",
       "license": "GPL-3.0",
@@ -17611,10 +17611,10 @@
       "description": "This is the unstable Insiders Build"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.401/file/hediet.vscode-drawio-insiders-build-1.6.401.vsix",
+      "url": "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.501/file/hediet.vscode-drawio-insiders-build-1.6.501.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hQbyxcwts4kFWAqFfiaYPMefXALLrxJ/1TkAd2Z07no="
+      "sha256": "sha256-yqbSySoVL4hnN9zj091xVW2qh3fTnpKacOQVsB8civM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29443,7 +29443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.726",
+    "version": "31.0.728",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29451,10 +29451,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.726/file/Prisma.prisma-insider-31.0.726.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.728/file/Prisma.prisma-insider-31.0.728.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BAX0e9mjI4CC/GYFG4+mzjJySMm+FzR4ftzb3Uo1rqY="
+      "sha256": "sha256-W9pq9CvpTYj2Hhq2+bolgrthHFZZwjc3GxnbZU9obE0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30143,7 +30143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.253",
+    "version": "2.0.254",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -30151,10 +30151,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.253/file/betterthantomorrow.calva-2.0.253.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.254/file/betterthantomorrow.calva-2.0.254.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tsWPT8tD6u2HbYzvcDd/cfEatRfAWL7G7+dC3WTVC/U="
+      "sha256": "sha256-1X42ym0Q73GeY3+iiGYfeXCFikZkh/Vly8MRGKF6eZA="
     },
     "extract": null,
     "rustGitDeps": null
