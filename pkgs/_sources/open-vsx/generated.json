@@ -9143,7 +9143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1991375",
+    "version": "7.0.1991698",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9151,10 +9151,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1991375/file/eliostruyf.vscode-front-matter-beta-7.0.1991375.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1991698/file/eliostruyf.vscode-front-matter-beta-7.0.1991698.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bUwoqVjngWDvixpUQDpc1fFTUyh+rwHgwqvCNNWCkEU="
+      "sha256": "sha256-DE65hbK/bql0VEjLPCiXEhuGIiJY5f9X25OTfIzkk2I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21543,7 +21543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.6.3",
+    "version": "0.7.0",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -21551,10 +21551,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.6.3/file/arzg.xcode-theme-0.6.3.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.0/file/arzg.xcode-theme-0.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AjBut/5LJZ3/0J27jzMMEheZDC+TkSitHiZTWGXWq7E="
+      "sha256": "sha256-LAsPyIUw1lmgmQ2CIpuW1EQzZUrfXUU0URjjASagA/0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25723,7 +25723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "isg-cnc-vscode-isg-cnc",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "passthru": {
       "name": "vscode-isg-cnc",
       "license": "MIT",
@@ -25731,10 +25731,10 @@
       "description": "Support for ISG-CNC NC-Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.7/file/isg-cnc.vscode-isg-cnc-0.2.7.vsix",
+      "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.8/file/isg-cnc.vscode-isg-cnc-0.2.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kXL0IpfOGEHyY2+W8bueeVZ+RRkDpc0idxFRbPNuk+s="
+      "sha256": "sha256-+J57MSn6RZFGsqLnjs3kRXyenzK9WmRJ8MdjA7hLb+4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29443,7 +29443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.725",
+    "version": "31.0.726",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29451,10 +29451,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.725/file/Prisma.prisma-insider-31.0.725.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.726/file/Prisma.prisma-insider-31.0.726.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7jfI65pHULVufsFOt/3af20ZlxH3Ze+7hFIYUR9gra0="
+      "sha256": "sha256-BAX0e9mjI4CC/GYFG4+mzjJySMm+FzR4ftzb3Uo1rqY="
     },
     "extract": null,
     "rustGitDeps": null

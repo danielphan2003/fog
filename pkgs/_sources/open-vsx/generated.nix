@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.725";
+    version = "31.0.726";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.725/file/Prisma.prisma-insider-31.0.725.vsix";
-      sha256 = "sha256-7jfI65pHULVufsFOt/3af20ZlxH3Ze+7hFIYUR9gra0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.726/file/Prisma.prisma-insider-31.0.726.vsix";
+      sha256 = "sha256-BAX0e9mjI4CC/GYFG4+mzjJySMm+FzR4ftzb3Uo1rqY=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4827,10 +4827,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.6.3";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.6.3/file/arzg.xcode-theme-0.6.3.vsix";
-      sha256 = "sha256-AjBut/5LJZ3/0J27jzMMEheZDC+TkSitHiZTWGXWq7E=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.0/file/arzg.xcode-theme-0.7.0.vsix";
+      sha256 = "sha256-LAsPyIUw1lmgmQ2CIpuW1EQzZUrfXUU0URjjASagA/0=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -7215,10 +7215,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1991375";
+    version = "7.0.1991698";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1991375/file/eliostruyf.vscode-front-matter-beta-7.0.1991375.vsix";
-      sha256 = "sha256-bUwoqVjngWDvixpUQDpc1fFTUyh+rwHgwqvCNNWCkEU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1991698/file/eliostruyf.vscode-front-matter-beta-7.0.1991698.vsix";
+      sha256 = "sha256-DE65hbK/bql0VEjLPCiXEhuGIiJY5f9X25OTfIzkk2I=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9495,10 +9495,10 @@
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
-    version = "0.2.7";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.7/file/isg-cnc.vscode-isg-cnc-0.2.7.vsix";
-      sha256 = "sha256-kXL0IpfOGEHyY2+W8bueeVZ+RRkDpc0idxFRbPNuk+s=";
+      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.8/file/isg-cnc.vscode-isg-cnc-0.2.8.vsix";
+      sha256 = "sha256-+J57MSn6RZFGsqLnjs3kRXyenzK9WmRJ8MdjA7hLb+4=";
     };
     name = "vscode-isg-cnc";
     license = "MIT";
