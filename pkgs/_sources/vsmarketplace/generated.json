@@ -157,17 +157,17 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-cpptools",
-    "version": "1.9.3",
+    "version": "1.9.4",
     "passthru": {
       "name": "cpptools",
       "license": "MIT",
       "publisher": "ms-vscode"
     },
     "src": {
-      "url": "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.9.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
-      "name": "cpptools-1.9.3.zip",
+      "url": "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.9.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage",
+      "name": "cpptools-1.9.4.zip",
       "type": "url",
-      "sha256": "sha256-YqqymXyUOuM5L+C3+UmWGjhhZ6ZrVUQBz3hCYKvBmBk="
+      "sha256": "sha256-Ix7borukBqK60FEbnbLW1KxemsdVTEP0YwKtcUlklPw="
     },
     "extract": null,
     "rustGitDeps": null
