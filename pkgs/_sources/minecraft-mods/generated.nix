@@ -293,10 +293,10 @@
   };
   krypton-1_18_1 = {
     pname = "krypton-1_18_1";
-    version = "0.1.6";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar";
-      sha256 = "sha256-0cKxJIMRUnmrsdRg0iy37vx/J5o3dvptc1lXwvnaK+Y=";
+      url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar";
+      sha256 = "sha256-sjZr1claHEPhtFWAihoDfMuel9RJW/ZtorTp2nY/sX4=";
     };
     modId = "fQEb0iXm";
     mcVer = "1.18.1";
@@ -381,10 +381,10 @@
   };
   starlight-forge-1_18_1 = {
     pname = "starlight-forge-1_18_1";
-    version = "1.0.0+forge.4fd2e63";
+    version = "1.0.1+forge.fef9eb9";
     src = fetchurl {
-      url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1+/starlight-1.0.0+forge.4fd2e63.jar";
-      sha256 = "sha256-RmqCPBMTDbJaDYYfL10pFWUBlitr0VZoSX5hbdkQ8UQ=";
+      url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.1+1.18.1/starlight-1.0.1+forge.fef9eb9.jar";
+      sha256 = "sha256-Xn/Na53E7EK14Z26Q6ifCPViljAHlHm72hwS9U3dimk=";
     };
     modId = "iRfIGC1s";
     mcVer = "1.18.1";
