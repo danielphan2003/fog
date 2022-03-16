@@ -136,7 +136,7 @@ passthru = { mcVer = "1.17.1", modId = "iRfIGC1s" }
 src.cmd = " bud modrinth-updater iRfIGC1s 1.18.1 --files "
 src.from_pattern = "starlight-(.*)\\.jar"
 src.to_pattern = "\\1"
-fetch.url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1/starlight-$ver.jar"
+fetch.url = "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.0%201.18.1/starlight-$ver.jar"
 passthru = { mcVer = "1.18.1", modId = "iRfIGC1s" }
 
 #### Client
