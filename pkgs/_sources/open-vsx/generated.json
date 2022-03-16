@@ -9143,7 +9143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.1991698",
+    "version": "7.0.1994549",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9151,10 +9151,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1991698/file/eliostruyf.vscode-front-matter-beta-7.0.1991698.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1994549/file/eliostruyf.vscode-front-matter-beta-7.0.1994549.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DE65hbK/bql0VEjLPCiXEhuGIiJY5f9X25OTfIzkk2I="
+      "sha256": "sha256-YkMIRlV+MzPfw0jfVk/gMFpZhbQ54esCx5sKfITHaBg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27643,7 +27643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.11.0",
+    "version": "0.12.0",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
@@ -27651,10 +27651,10 @@
       "description": "Language support for Astro"
     },
     "src": {
-      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.11.0/file/astro-build.astro-vscode-0.11.0.vsix",
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.12.0/file/astro-build.astro-vscode-0.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Kxw8fse2p40gPc++ieXgqpKz6Hoq77g5e6PcuVVBuAU="
+      "sha256": "sha256-S+spR5RPabYtMlehGY6BaH6uHlgn788qzg9C4/tk0SU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32563,7 +32563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sndst00m-starfall-visual-studio-code",
-    "version": "0.5.2",
+    "version": "0.5.4",
     "passthru": {
       "name": "starfall-visual-studio-code",
       "license": "MIT",
@@ -32571,10 +32571,10 @@
       "description": "A cosmic matte-blue, elegant and colorful Visual Studio Code theme."
     },
     "src": {
-      "url": "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.2/file/sndst00m.starfall-visual-studio-code-0.5.2.vsix",
+      "url": "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.4/file/sndst00m.starfall-visual-studio-code-0.5.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aNpWsZZAmVmhaWJUa2qLZUYZ+VfoWRKuEehkIKHu+8c="
+      "sha256": "sha256-Y5X4ye/xMk4Xz0MJ1wnSFhWQAciWOhDT237delOg/u4="
     },
     "extract": null,
     "rustGitDeps": null
