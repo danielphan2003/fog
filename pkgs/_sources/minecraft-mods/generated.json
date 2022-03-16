@@ -435,16 +435,16 @@
     "pinned": false,
     "cargoLock": null,
     "name": "starlight-forge-1_18_1",
-    "version": "1.0.0+forge.4fd2e63",
+    "version": "1.0.1+forge.fef9eb9",
     "passthru": {
       "modId": "iRfIGC1s",
       "mcVer": "1.18.1"
     },
     "src": {
-      "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/Starlight%201.0.0%201.18.1+/starlight-1.0.0+forge.4fd2e63.jar",
+      "url": "https://cdn.modrinth.com/data/iRfIGC1s/versions/1.0.1+1.18.1/starlight-1.0.1+forge.fef9eb9.jar",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RmqCPBMTDbJaDYYfL10pFWUBlitr0VZoSX5hbdkQ8UQ="
+      "sha256": "sha256-Xn/Na53E7EK14Z26Q6ifCPViljAHlHm72hwS9U3dimk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -666,16 +666,16 @@
     "pinned": false,
     "cargoLock": null,
     "name": "krypton-1_18_1",
-    "version": "0.1.6",
+    "version": "0.1.9",
     "passthru": {
       "modId": "fQEb0iXm",
       "mcVer": "1.18.1"
     },
     "src": {
-      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar",
+      "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0cKxJIMRUnmrsdRg0iy37vx/J5o3dvptc1lXwvnaK+Y="
+      "sha256": "sha256-sjZr1claHEPhtFWAihoDfMuel9RJW/ZtorTp2nY/sX4="
     },
     "extract": null,
     "rustGitDeps": null

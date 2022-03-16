@@ -12,7 +12,7 @@
     latest.url = "github:nixos/nixpkgs/nixos-unstable";
 
     digga = {
-      url = "github:divnix/digga/cleanup-dar";
+      url = "github:divnix/digga";
       inputs = {
         nixpkgs.follows = "nixos";
         latest.follows = "nixos";
