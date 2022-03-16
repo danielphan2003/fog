@@ -11367,13 +11367,13 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.2.0";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.2.0/file/mbari.tethysl-2.2.0.vsix";
-      sha256 = "sha256-e+IIo5Fs9pQu7KCfbE5vPP3kXemrnCN3iTDsBmVKO5A=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.2.2/file/mbari.tethysl-2.2.2.vsix";
+      sha256 = "sha256-fYp91+hUWAu9nxP1GDH0pRUt2dSjfno1/1GWS3JV8ZE=";
     };
     name = "tethysl";
-    license = "MIT";
+    license = "Apache-2.0";
     publisher = "mbari";
     description = "Plugin for TethysL";
   };
@@ -13983,10 +13983,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.9.0";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.9.0/file/quarto.quarto-1.9.0.vsix";
-      sha256 = "sha256-uelNKlvEuJa5KXoymfR+QkQQj0ni1zgGTLGl2Yj+kzs=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.10.0/file/quarto.quarto-1.10.0.vsix";
+      sha256 = "sha256-eMnCR6l7xdbsyujPa4SbXn/rl1NsaYw85JqT/+JXX0k=";
     };
     name = "quarto";
     license = "MIT";
@@ -17376,6 +17376,18 @@
     license = "";
     publisher = "viper-admin";
     description = "This extension provides interactive IDE features for verifying programs in Viper (Verification Infrastructure for Permission-based Reasoning).";
+  };
+  virtual-whirlwind-vscode-povray2 = {
+    pname = "virtual-whirlwind-vscode-povray2";
+    version = "2.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/virtual-whirlwind/vscode-povray2/2.1.1/file/virtual-whirlwind.vscode-povray2-2.1.1.vsix";
+      sha256 = "sha256-O1ObcG8PrZ8gQqZBNbfeTlYem1Eeubt0Hb5Mmfo1XnI=";
+    };
+    name = "vscode-povray2";
+    license = "MIT";
+    publisher = "virtual-whirlwind";
+    description = "Persistence of Vision Ray Tracer (POV-Ray) Extension v2 for Visual Studio Code, forked from jmaxwilson/vscode-povray";
   };
   visualsolana-visualsolana = {
     pname = "visualsolana-visualsolana";

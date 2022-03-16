@@ -7063,7 +7063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.9.0",
+    "version": "1.10.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7071,10 +7071,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.9.0/file/quarto.quarto-1.9.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.10.0/file/quarto.quarto-1.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uelNKlvEuJa5KXoymfR+QkQQj0ni1zgGTLGl2Yj+kzs="
+      "sha256": "sha256-eMnCR6l7xdbsyujPa4SbXn/rl1NsaYw85JqT/+JXX0k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10943,18 +10943,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mbari-tethysl",
-    "version": "2.2.0",
+    "version": "2.2.2",
     "passthru": {
       "name": "tethysl",
-      "license": "MIT",
+      "license": "Apache-2.0",
       "publisher": "mbari",
       "description": "Plugin for TethysL"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mbari/tethysl/2.2.0/file/mbari.tethysl-2.2.0.vsix",
+      "url": "https://open-vsx.org/api/mbari/tethysl/2.2.2/file/mbari.tethysl-2.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-e+IIo5Fs9pQu7KCfbE5vPP3kXemrnCN3iTDsBmVKO5A="
+      "sha256": "sha256-fYp91+hUWAu9nxP1GDH0pRUt2dSjfno1/1GWS3JV8ZE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30895,6 +30895,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-ijCvmzWVm8AboJ0vk6hPhWfvXWCgEbCl2NyUF3cAnm8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "virtual-whirlwind-vscode-povray2": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "virtual-whirlwind-vscode-povray2",
+    "version": "2.1.1",
+    "passthru": {
+      "name": "vscode-povray2",
+      "license": "MIT",
+      "publisher": "virtual-whirlwind",
+      "description": "Persistence of Vision Ray Tracer (POV-Ray) Extension v2 for Visual Studio Code, forked from jmaxwilson/vscode-povray"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/virtual-whirlwind/vscode-povray2/2.1.1/file/virtual-whirlwind.vscode-povray2-2.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-O1ObcG8PrZ8gQqZBNbfeTlYem1Eeubt0Hb5Mmfo1XnI="
     },
     "extract": null,
     "rustGitDeps": null
