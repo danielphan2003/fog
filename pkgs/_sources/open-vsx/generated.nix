@@ -4887,10 +4887,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.11.0";
+    version = "0.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.11.0/file/astro-build.astro-vscode-0.11.0.vsix";
-      sha256 = "sha256-Kxw8fse2p40gPc++ieXgqpKz6Hoq77g5e6PcuVVBuAU=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.12.0/file/astro-build.astro-vscode-0.12.0.vsix";
+      sha256 = "sha256-S+spR5RPabYtMlehGY6BaH6uHlgn788qzg9C4/tk0SU=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -7215,10 +7215,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1991698";
+    version = "7.0.1994549";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1991698/file/eliostruyf.vscode-front-matter-beta-7.0.1991698.vsix";
-      sha256 = "sha256-DE65hbK/bql0VEjLPCiXEhuGIiJY5f9X25OTfIzkk2I=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1994549/file/eliostruyf.vscode-front-matter-beta-7.0.1994549.vsix";
+      sha256 = "sha256-YkMIRlV+MzPfw0jfVk/gMFpZhbQ54esCx5sKfITHaBg=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -15675,10 +15675,10 @@
   };
   sndst00m-starfall-visual-studio-code = {
     pname = "sndst00m-starfall-visual-studio-code";
-    version = "0.5.2";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.2/file/sndst00m.starfall-visual-studio-code-0.5.2.vsix";
-      sha256 = "sha256-aNpWsZZAmVmhaWJUa2qLZUYZ+VfoWRKuEehkIKHu+8c=";
+      url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.4/file/sndst00m.starfall-visual-studio-code-0.5.4.vsix";
+      sha256 = "sha256-Y5X4ye/xMk4Xz0MJ1wnSFhWQAciWOhDT237delOg/u4=";
     };
     name = "starfall-visual-studio-code";
     license = "MIT";
