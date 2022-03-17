@@ -28783,7 +28783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gregoire-dance",
-    "version": "0.5.8",
+    "version": "0.5.9",
     "passthru": {
       "name": "dance",
       "license": "ISC",
@@ -28791,10 +28791,10 @@
       "description": "Kakoune-inspired key bindings, modes, menus and scripting."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gregoire/dance/0.5.8/file/gregoire.dance-0.5.8.vsix",
+      "url": "https://open-vsx.org/api/gregoire/dance/0.5.9/file/gregoire.dance-0.5.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZpFB0sXkf/V5Ao/9orZWEdJ+RDld8qyPjZJCqkQizCE="
+      "sha256": "sha256-92cERez4zJ9J+FbWV2FHRJPA5woRIVJMcNPAnrgkdVA="
     },
     "extract": null,
     "rustGitDeps": null

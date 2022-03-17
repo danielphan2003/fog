@@ -8607,10 +8607,10 @@
   };
   gregoire-dance = {
     pname = "gregoire-dance";
-    version = "0.5.8";
+    version = "0.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gregoire/dance/0.5.8/file/gregoire.dance-0.5.8.vsix";
-      sha256 = "sha256-ZpFB0sXkf/V5Ao/9orZWEdJ+RDld8qyPjZJCqkQizCE=";
+      url = "https://open-vsx.org/api/gregoire/dance/0.5.9/file/gregoire.dance-0.5.9.vsix";
+      sha256 = "sha256-92cERez4zJ9J+FbWV2FHRJPA5woRIVJMcNPAnrgkdVA=";
     };
     name = "dance";
     license = "ISC";
