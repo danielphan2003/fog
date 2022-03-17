@@ -519,10 +519,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "99.0.1150.38";
+    version = "100.0.1185.10";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_99.0.1150.38-1_amd64.deb";
-      sha256 = "sha256-aEGLWqW6hTL8EAA/HecGYE5bUvymL5qIxu/ENDwCSjA=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.10-1_amd64.deb";
+      sha256 = "sha256-S7xnR/pN/dKwu36m46v0WNwjERe6CIfcgio8MzK6np0=";
     };
   };
   microsoft-edge-dev = {
@@ -821,13 +821,13 @@
   };
   sddm = {
     pname = "sddm";
-    version = "c257a40ba95f56b5f3830b923b1c56aa055cf8ea";
+    version = "d19813cb03c7d71b896aead28e5285bc131500a9";
     src = fetchFromGitHub ({
       owner = "sddm";
       repo = "sddm";
-      rev = "c257a40ba95f56b5f3830b923b1c56aa055cf8ea";
+      rev = "d19813cb03c7d71b896aead28e5285bc131500a9";
       fetchSubmodules = false;
-      sha256 = "sha256-OcHVg5iLEcnQlaOrgVOTuK2WRredRG3H9XIArR6aABs=";
+      sha256 = "sha256-8/AKVn52mciGSpueKJ7rwtfGqCMnlX03gkoTlJssmso=";
     });
   };
   sddm-chili = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6b9d938c1aad13b25ebc9fa5e7e9b748e7df96fa";
+    version = "5f176f24db81f77b5eafcb44d9d5a7cc6c0bf224";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6b9d938c1aad13b25ebc9fa5e7e9b748e7df96fa";
+      rev = "5f176f24db81f77b5eafcb44d9d5a7cc6c0bf224";
       fetchSubmodules = false;
-      sha256 = "sha256-6D9mWXxxU2+eDnxG4W57HZsl46Uej3wAo3Ub7pAslck=";
+      sha256 = "sha256-BT/PEDpOeL49CLsNEKyK+2jstzYHXHqQvgUGiZkcqLM=";
     });
   };
   tailscale-systray = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "e7ef63a5a42697ff462a3f1cddfc7146a5ef0c0f";
+    version = "41f8d8aa2cc82ca3b57a221fcb759e2ec826f605";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "e7ef63a5a42697ff462a3f1cddfc7146a5ef0c0f";
+      rev = "41f8d8aa2cc82ca3b57a221fcb759e2ec826f605";
       fetchSubmodules = false;
-      sha256 = "sha256-Qja8OsqA+2DZPVIHUK81GWMgbO/K1UWulrcanmoLP/I=";
+      sha256 = "sha256-QDeCzUj0ZBdo50B6dtVm4fRHf9YDk0CHZNuiB1tu88o=";
     });
   };
   xdg-desktop-portal-gtk = {
