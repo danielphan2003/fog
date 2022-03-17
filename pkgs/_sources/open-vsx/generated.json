@@ -5483,7 +5483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.47",
+    "version": "0.0.48",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5491,10 +5491,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.47/file/zardoy.zardoy-experiments-0.0.47.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.48/file/zardoy.zardoy-experiments-0.0.48.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0bJQEZXyihQ/qmxSVGsjyBK9uTxLri1T0MDF1Ic8OSk="
+      "sha256": "sha256-5Tjr0LfcOnrL3DY6jPWZrGEVk5deFQqnw2uLJ500G0c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9903,7 +9903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-explorer-for-endevor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "passthru": {
       "name": "explorer-for-endevor",
       "license": "EPL-2.0",
@@ -9911,10 +9911,10 @@
       "description": "Explorer for Endevor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.0/file/BroadcomMFD.explorer-for-endevor-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.1/file/BroadcomMFD.explorer-for-endevor-1.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sIfZBQ50grPALATC/ONavKjGVReZoZ3zQ9tJthSvyyY="
+      "sha256": "sha256-eNGqrrcGz0hED4gnX3Z8iz8yRjlKjeJ1PqgUdONw5DA="
     },
     "extract": null,
     "rustGitDeps": null

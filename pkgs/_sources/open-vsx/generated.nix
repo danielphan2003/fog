@@ -315,10 +315,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.0/file/BroadcomMFD.explorer-for-endevor-1.0.0.vsix";
-      sha256 = "sha256-sIfZBQ50grPALATC/ONavKjGVReZoZ3zQ9tJthSvyyY=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.1/file/BroadcomMFD.explorer-for-endevor-1.0.1.vsix";
+      sha256 = "sha256-eNGqrrcGz0hED4gnX3Z8iz8yRjlKjeJ1PqgUdONw5DA=";
     };
     name = "explorer-for-endevor";
     license = "EPL-2.0";
@@ -19443,10 +19443,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.47";
+    version = "0.0.48";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.47/file/zardoy.zardoy-experiments-0.0.47.vsix";
-      sha256 = "sha256-0bJQEZXyihQ/qmxSVGsjyBK9uTxLri1T0MDF1Ic8OSk=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.48/file/zardoy.zardoy-experiments-0.0.48.vsix";
+      sha256 = "sha256-5Tjr0LfcOnrL3DY6jPWZrGEVk5deFQqnw2uLJ500G0c=";
     };
     name = "zardoy-experiments";
     license = "MIT";
