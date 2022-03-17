@@ -9759,10 +9759,10 @@
   };
   jetmartin-bats = {
     pname = "jetmartin-bats";
-    version = "0.1.8";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jetmartin/bats/0.1.8/file/jetmartin.bats-0.1.8.vsix";
-      sha256 = "sha256-Z7vpTql3lFcScjAKvY+Zw9wPUq3IX87FJRVxFWBLaWs=";
+      url = "https://open-vsx.org/api/jetmartin/bats/0.1.9/file/jetmartin.bats-0.1.9.vsix";
+      sha256 = "sha256-utlEPLuBWabJkWcG1l9ICyUIXxx5ws6PKaU5hhUWfRU=";
     };
     name = "bats";
     license = "MIT";
@@ -14331,10 +14331,10 @@
   };
   redhat-vscode-debug-adapter-apache-camel = {
     pname = "redhat-vscode-debug-adapter-apache-camel";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.0.1/file/redhat.vscode-debug-adapter-apache-camel-0.0.1.vsix";
-      sha256 = "sha256-aPDuVs8PJWkyZWWxQbbWNfJugMKmYNbKJ9CuMKSouhI=";
+      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.0.2/file/redhat.vscode-debug-adapter-apache-camel-0.0.2.vsix";
+      sha256 = "sha256-A/9+Oc3S7PT/ZPUheE0+FIWBb12Nvwh6d1M1Cu0y1Mg=";
     };
     name = "vscode-debug-adapter-apache-camel";
     license = "Apache-2.0";
