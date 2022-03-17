@@ -11125,6 +11125,18 @@
     publisher = "magicstack";
     description = "Syntax highlighter for cutting edge Python.";
   };
+  malipetek-liquivelte = {
+    pname = "malipetek-liquivelte";
+    version = "0.0.11";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/malipetek/liquivelte/0.0.11/file/malipetek.liquivelte-0.0.11.vsix";
+      sha256 = "sha256-dlSL2Ob1eTHek+qjkba6KCxY3AN6/Cr8D4mfqnq/Pm0=";
+    };
+    name = "liquivelte";
+    license = "MIT";
+    publisher = "malipetek";
+    description = "Write Shopify Themes With Svelte like syntax!";
+  };
   manuth-eslint-language-service = {
     pname = "manuth-eslint-language-service";
     version = "1.1.3";
@@ -19455,10 +19467,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.3.0/file/zenclabs.previewjs-1.3.0.vsix";
-      sha256 = "sha256-r+a+MPC7gmAnpGCk4HZmJ0z749OFhb7XHuwfiSnwLIs=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.4.0/file/zenclabs.previewjs-1.4.0.vsix";
+      sha256 = "sha256-eYB26fqMUKCCXKb06IyMxbOUN+JIj7sYylo+s6Alhrg=";
     };
     name = "previewjs";
     license = "AGPL-3.0";

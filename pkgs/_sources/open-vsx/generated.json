@@ -9043,7 +9043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "passthru": {
       "name": "previewjs",
       "license": "AGPL-3.0",
@@ -9051,10 +9051,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.3.0/file/zenclabs.previewjs-1.3.0.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.4.0/file/zenclabs.previewjs-1.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r+a+MPC7gmAnpGCk4HZmJ0z749OFhb7XHuwfiSnwLIs="
+      "sha256": "sha256-eYB26fqMUKCCXKb06IyMxbOUN+JIj7sYylo+s6Alhrg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23915,6 +23915,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-gkn3D8nnzZBj2IyTaJ6NWm8ZbztE2KYDvkSuT0+xCRQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "malipetek-liquivelte": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "malipetek-liquivelte",
+    "version": "0.0.11",
+    "passthru": {
+      "name": "liquivelte",
+      "license": "MIT",
+      "publisher": "malipetek",
+      "description": "Write Shopify Themes With Svelte like syntax!"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/malipetek/liquivelte/0.0.11/file/malipetek.liquivelte-0.0.11.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-dlSL2Ob1eTHek+qjkba6KCxY3AN6/Cr8D4mfqnq/Pm0="
     },
     "extract": null,
     "rustGitDeps": null
