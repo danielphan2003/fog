@@ -10875,10 +10875,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "178.0.0";
+    version = "179.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/178.0.0/file/lextudio.restructuredtext-178.0.0.vsix";
-      sha256 = "sha256-Td4kX7u1l9/DXgKdfPg9U0tyQgTYQvJ0NEiXj1WsUG4=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/179.0.0/file/lextudio.restructuredtext-179.0.0.vsix";
+      sha256 = "sha256-xt5bwgXXvtvaCwWQYszRojBPxbrehEr+Q4plBBNC5Zg=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -13803,10 +13803,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.16.2";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.16.2/file/pokey.parse-tree-0.16.2.vsix";
-      sha256 = "sha256-jfrBMUvx2T/il/sjlCw9YWiU6S8I7806nfjevyzxx5o=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.17.0/file/pokey.parse-tree-0.17.0.vsix";
+      sha256 = "sha256-0wHi75K8GB3fJA7r4NH4gvAWkrd2/29XhiGjhcvBTsQ=";
     };
     name = "parse-tree";
     license = "MIT";
