@@ -4887,10 +4887,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.12.0";
+    version = "0.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.12.0/file/astro-build.astro-vscode-0.12.0.vsix";
-      sha256 = "sha256-S+spR5RPabYtMlehGY6BaH6uHlgn788qzg9C4/tk0SU=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.12.1/file/astro-build.astro-vscode-0.12.1.vsix";
+      sha256 = "sha256-aNY9W3sGjsLNm+FeM6DAJ38S58+AvgLTVMqmFUUQc/g=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -7215,10 +7215,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1994549";
+    version = "7.0.1999405";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1994549/file/eliostruyf.vscode-front-matter-beta-7.0.1994549.vsix";
-      sha256 = "sha256-YkMIRlV+MzPfw0jfVk/gMFpZhbQ54esCx5sKfITHaBg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1999405/file/eliostruyf.vscode-front-matter-beta-7.0.1999405.vsix";
+      sha256 = "sha256-sMbIgXhSYb1sPo8/XUOiI5fxCxqMgq3OINf/YVeR9qA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10071,10 +10071,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.5.11";
+    version = "1.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.5.11/file/julialang.language-julia-1.5.11.vsix";
-      sha256 = "sha256-a8IUnq9dpfh/m14dnPEv3sm2YfTpEALSOI8J31icvdA=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.3/file/julialang.language-julia-1.6.3.vsix";
+      sha256 = "sha256-qMohj3O5ywT3zcGpn7EXmn2tPavCP7vMERqaleTh9kg=";
     };
     name = "language-julia";
     license = "MIT";
@@ -12531,10 +12531,10 @@
   };
   muhammad-sammy-csharp = {
     pname = "muhammad-sammy-csharp";
-    version = "1.24.0";
+    version = "1.24.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.0/file/muhammad-sammy.csharp-1.24.0.vsix";
-      sha256 = "sha256-4wAOACMIpAR9NftIS9hC5QhmcXK1JCzaMKGVehxc7OY=";
+      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.1/file/muhammad-sammy.csharp-1.24.1.vsix";
+      sha256 = "sha256-uWJHVstEZAheN/coerAw1/FoTCf5MFsTTNhseluZ87Y=";
     };
     name = "csharp";
     license = "MIT";
@@ -16875,10 +16875,10 @@
   };
   toroxx-vscode-avdmanager = {
     pname = "toroxx-vscode-avdmanager";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.0.2/file/toroxx.vscode-avdmanager-1.0.2.vsix";
-      sha256 = "sha256-t4gFvzUdHjdOeEP2A1R/hvJ5SzFHgxwyf+LQ51cLMOo=";
+      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.0/file/toroxx.vscode-avdmanager-1.1.0.vsix";
+      sha256 = "sha256-Cobhg8UCmln9uMBS/mOcQt+aBlKM/FYoCZ1pYKuVj8Q=";
     };
     name = "vscode-avdmanager";
     license = "MIT";
