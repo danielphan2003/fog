@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.86.2",
+    "version": "0.86.3",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.86.2/file/dendron.nightly-0.86.2.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.86.3/file/dendron.nightly-0.86.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HHNuFWw/pdxv4hZpKpNE0dy7mk+4rvYuDpZoJkey7I0="
+      "sha256": "sha256-i0ZhGFh+jzXV8pLty4fuuEMqO9x4zzOy2C6Ug2kmmow="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1275,6 +1275,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-L1S8l2N1p6dkfQNr+lwrbf6C0PJOdnY6fTiapGvBOms="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "yangshun-ys-vscode-extensions": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "yangshun-ys-vscode-extensions",
+    "version": "0.0.2",
+    "passthru": {
+      "name": "ys-vscode-extensions",
+      "license": "MIT",
+      "publisher": "yangshun",
+      "description": "å¥½ç¨çvscodeæä»¶éå"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/yangshun/ys-vscode-extensions/0.0.2/file/yangshun.ys-vscode-extensions-0.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-SV5DJEfpQGb7xNX3xS56+jkmFnnKLv+SSX+5d8MraQs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2023,7 +2043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "qcz-text-power-tools",
-    "version": "1.31.0",
+    "version": "1.31.1",
     "passthru": {
       "name": "text-power-tools",
       "license": "MIT",
@@ -2031,10 +2051,10 @@
       "description": "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/qcz/text-power-tools/1.31.0/file/qcz.text-power-tools-1.31.0.vsix",
+      "url": "https://open-vsx.org/api/qcz/text-power-tools/1.31.1/file/qcz.text-power-tools-1.31.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZBb8JMErSlipeMr1MYhlgeGo2XSTMs9OT5BhyShSxvk="
+      "sha256": "sha256-PkSCcdRbWSHsuaqv+djgQRqvmP4htDpNFEJgH4G1SU0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9323,7 +9343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "langium-langium-vscode",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "passthru": {
       "name": "langium-vscode",
       "license": "MIT",
@@ -9331,10 +9351,10 @@
       "description": "Support for the Langium Grammar Language"
     },
     "src": {
-      "url": "https://open-vsx.org/api/langium/langium-vscode/0.2.0/file/langium.langium-vscode-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/langium/langium-vscode/0.3.0/file/langium.langium-vscode-0.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eLMfQIWw9VQDnGMmKQjU0NPPXN4613oAZ50P5IhmNmM="
+      "sha256": "sha256-1XPCrnIzknhGTxjogr6sdSYcgLW427pFdX9S966lyro="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21543,7 +21563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -21551,10 +21571,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.0/file/arzg.xcode-theme-0.7.0.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.1/file/arzg.xcode-theme-0.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LAsPyIUw1lmgmQ2CIpuW1EQzZUrfXUU0URjjASagA/0="
+      "sha256": "sha256-K9r4ouT+zlqhs5uH6yFbfGULdbwMawAQ19yKWv3fyfQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31403,7 +31423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PascalReitermann93-vscode-yaml-sort",
-    "version": "5.1.5",
+    "version": "5.2.0",
     "passthru": {
       "name": "vscode-yaml-sort",
       "license": "MIT",
@@ -31411,10 +31431,10 @@
       "description": "This VS Code extension exposes the possibility to sort, format and validate yaml files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.5/file/PascalReitermann93.vscode-yaml-sort-5.1.5.vsix",
+      "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.2.0/file/PascalReitermann93.vscode-yaml-sort-5.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3bEAmTMtSThGjylnM9EjKfSZA5OwviwRV7mbVKanKoQ="
+      "sha256": "sha256-zM6CGR1YmiKJ7dlstXzZh6UMiMgzI2pzgksX/LqV/bU="
     },
     "extract": null,
     "rustGitDeps": null

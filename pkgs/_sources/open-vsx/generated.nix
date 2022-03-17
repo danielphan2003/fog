@@ -2523,10 +2523,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.1.5";
+    version = "5.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.1.5/file/PascalReitermann93.vscode-yaml-sort-5.1.5.vsix";
-      sha256 = "sha256-3bEAmTMtSThGjylnM9EjKfSZA5OwviwRV7mbVKanKoQ=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.2.0/file/PascalReitermann93.vscode-yaml-sort-5.2.0.vsix";
+      sha256 = "sha256-zM6CGR1YmiKJ7dlstXzZh6UMiMgzI2pzgksX/LqV/bU=";
     };
     name = "vscode-yaml-sort";
     license = "MIT";
@@ -4827,10 +4827,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.0/file/arzg.xcode-theme-0.7.0.vsix";
-      sha256 = "sha256-LAsPyIUw1lmgmQ2CIpuW1EQzZUrfXUU0URjjASagA/0=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.1/file/arzg.xcode-theme-0.7.1.vsix";
+      sha256 = "sha256-K9r4ouT+zlqhs5uH6yFbfGULdbwMawAQ19yKWv3fyfQ=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -6759,10 +6759,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.86.2";
+    version = "0.86.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.86.2/file/dendron.nightly-0.86.2.vsix";
-      sha256 = "sha256-HHNuFWw/pdxv4hZpKpNE0dy7mk+4rvYuDpZoJkey7I0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.86.3/file/dendron.nightly-0.86.3.vsix";
+      sha256 = "sha256-i0ZhGFh+jzXV8pLty4fuuEMqO9x4zzOy2C6Ug2kmmow=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -10707,10 +10707,10 @@
   };
   langium-langium-vscode = {
     pname = "langium-langium-vscode";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/langium/langium-vscode/0.2.0/file/langium.langium-vscode-0.2.0.vsix";
-      sha256 = "sha256-eLMfQIWw9VQDnGMmKQjU0NPPXN4613oAZ50P5IhmNmM=";
+      url = "https://open-vsx.org/api/langium/langium-vscode/0.3.0/file/langium.langium-vscode-0.3.0.vsix";
+      sha256 = "sha256-1XPCrnIzknhGTxjogr6sdSYcgLW427pFdX9S966lyro=";
     };
     name = "langium-vscode";
     license = "MIT";
@@ -13983,10 +13983,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.31.0";
+    version = "1.31.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.31.0/file/qcz.text-power-tools-1.31.0.vsix";
-      sha256 = "sha256-ZBb8JMErSlipeMr1MYhlgeGo2XSTMs9OT5BhyShSxvk=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.31.1/file/qcz.text-power-tools-1.31.1.vsix";
+      sha256 = "sha256-PkSCcdRbWSHsuaqv+djgQRqvmP4htDpNFEJgH4G1SU0=";
     };
     name = "text-power-tools";
     license = "MIT";
@@ -19212,6 +19212,18 @@
     license = "";
     publisher = "yandeu";
     description = "Dev Server with Live Reload. (Maintained Fork of Live Server)";
+  };
+  yangshun-ys-vscode-extensions = {
+    pname = "yangshun-ys-vscode-extensions";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/yangshun/ys-vscode-extensions/0.0.2/file/yangshun.ys-vscode-extensions-0.0.2.vsix";
+      sha256 = "sha256-SV5DJEfpQGb7xNX3xS56+jkmFnnKLv+SSX+5d8MraQs=";
+    };
+    name = "ys-vscode-extensions";
+    license = "MIT";
+    publisher = "yangshun";
+    description = "\22909\29992\30340vscode\25554\20214\38598\21512";
   };
   yasuyuky-transient-emacs = {
     pname = "yasuyuky-transient-emacs";
