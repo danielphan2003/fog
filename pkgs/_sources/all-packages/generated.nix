@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5969";
+    version = "1.0.5970";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5969.tar.bz2";
-      sha256 = "sha256-dzIpLTiH7xtvqGfV0u23rWMmFJS/uw6dNl27rZpjLrw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5970.tar.bz2";
+      sha256 = "sha256-KSeQamk6c3XtDCwt/HQz3oAkQCUTqhefEHnKNjBd1ss=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5969";
+    version = "1.0.5970";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5969-1_all.deb";
-      sha256 = "sha256-ueZ4NrArLKaIZty8ntusi7EvWxocEHLsXgUSgDuZfGE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5970-1_all.deb";
+      sha256 = "sha256-Xj7U6CO/Hr8UbPujaifA9yO84CKtQa1od5ohPhYKYQo=";
     };
   };
   jitsi-videobridge2 = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "27a6210f96ccbbf8c41ccb3abb67a6cfb9a77d95";
+    version = "065fb5acee12d0149a567258f835900dd1047a4e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "27a6210f96ccbbf8c41ccb3abb67a6cfb9a77d95";
+      rev = "065fb5acee12d0149a567258f835900dd1047a4e";
       fetchSubmodules = false;
-      sha256 = "sha256-U+S/08ualxQwdx0lPI2TOfCLQySheqrhjaHOlPaRLqQ=";
+      sha256 = "sha256-vc4/pPUjhX6rInzMYPkQ3coTAJiAwg7Vv45wlkKMJDg=";
     });
   };
   rofi-wayland = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "2a412ac9eeca4d7fca7660543df2dbe80868bf99";
+    version = "1db46919ab02676faa65535c18da9c45988e3a30";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "2a412ac9eeca4d7fca7660543df2dbe80868bf99";
+      rev = "1db46919ab02676faa65535c18da9c45988e3a30";
       fetchSubmodules = false;
-      sha256 = "sha256-pKyz6PahaRPP2yhuneKEGw0+ejYuGTzTum0QCD2jAsA=";
+      sha256 = "sha256-KBOEb5D0rxInWO9D/o9FA98k7Hdx+smVdOCN2E0hVnI=";
     });
   };
   tailscale-systray = {
