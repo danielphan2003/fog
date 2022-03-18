@@ -2871,10 +2871,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.29.0";
+    version = "2.29.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.0/file/RokuCommunity.brightscript-2.29.0.vsix";
-      sha256 = "sha256-AF5s9jCntZC4F7SifYSCO+G96sJmJ+RwqYgR+eZr+IU=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.1/file/RokuCommunity.brightscript-2.29.1.vsix";
+      sha256 = "sha256-b1axLeFP1YP5uKy2nm+Ing8Oq2sKEXpuE+dsChArf7k=";
     };
     name = "brightscript";
     license = "MIT";
@@ -13803,10 +13803,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.302";
+    version = "0.25.303";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.302/file/pokey.cursorless-0.25.302.vsix";
-      sha256 = "sha256-C3C+bqfErNKllX3Ddqh3MKQlNaSdGysxLHcJasSPUTg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.303/file/pokey.cursorless-0.25.303.vsix";
+      sha256 = "sha256-eSJgqYceqxm6PQ+qNFAryvNAk59+whEo09TtkqtyKXk=";
     };
     name = "cursorless";
     license = "MIT";
@@ -19455,10 +19455,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.48";
+    version = "0.0.49";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.48/file/zardoy.zardoy-experiments-0.0.48.vsix";
-      sha256 = "sha256-5Tjr0LfcOnrL3DY6jPWZrGEVk5deFQqnw2uLJ500G0c=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.49/file/zardoy.zardoy-experiments-0.0.49.vsix";
+      sha256 = "sha256-IzyoBA6f2Gun46iGw4+CnAa5+zscXJRF6dk6f5w97Jg=";
     };
     name = "zardoy-experiments";
     license = "MIT";
