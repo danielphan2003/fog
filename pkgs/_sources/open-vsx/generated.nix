@@ -7035,10 +7035,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.0.4";
+    version = "12.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.4/file/eamodio.gitlens-12.0.4.vsix";
-      sha256 = "sha256-T39laV6yWu0yKtTT2dmVOriawkrsmE4YqpidWG7OPOg=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.5/file/eamodio.gitlens-12.0.5.vsix";
+      sha256 = "sha256-HOr+78UQHIVQDkUNQaWyyNzDQFc+HwhGRR0ha9Pmyn0=";
     };
     name = "gitlens";
     license = "MIT";
@@ -11391,10 +11391,10 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.2.2";
+    version = "2.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.2.2/file/mbari.tethysl-2.2.2.vsix";
-      sha256 = "sha256-fYp91+hUWAu9nxP1GDH0pRUt2dSjfno1/1GWS3JV8ZE=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.2.3/file/mbari.tethysl-2.2.3.vsix";
+      sha256 = "sha256-AHqawK8THTl1OyvigEdGe9PPQXvjFSb4HOWN6W8ll20=";
     };
     name = "tethysl";
     license = "Apache-2.0";
@@ -12135,10 +12135,10 @@
   };
   ms-vscode-cmake-tools = {
     pname = "ms-vscode-cmake-tools";
-    version = "1.9.2";
+    version = "1.10.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.9.2/file/ms-vscode.cmake-tools-1.9.2.vsix";
-      sha256 = "sha256-egikoFQCLEc8sy01KduqXrEbIZQKPK03CxijkR0wI4s=";
+      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.4/file/ms-vscode.cmake-tools-1.10.4.vsix";
+      sha256 = "sha256-fc9or4i4954oZ3ovsb4HBXI9Q7x0+ghNpjNwBBWE6L8=";
     };
     name = "cmake-tools";
     license = "MIT";

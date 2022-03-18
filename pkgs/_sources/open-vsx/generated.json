@@ -10983,7 +10983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mbari-tethysl",
-    "version": "2.2.2",
+    "version": "2.2.3",
     "passthru": {
       "name": "tethysl",
       "license": "Apache-2.0",
@@ -10991,10 +10991,10 @@
       "description": "Plugin for TethysL"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mbari/tethysl/2.2.2/file/mbari.tethysl-2.2.2.vsix",
+      "url": "https://open-vsx.org/api/mbari/tethysl/2.2.3/file/mbari.tethysl-2.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fYp91+hUWAu9nxP1GDH0pRUt2dSjfno1/1GWS3JV8ZE="
+      "sha256": "sha256-AHqawK8THTl1OyvigEdGe9PPQXvjFSb4HOWN6W8ll20="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19423,7 +19423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eamodio-gitlens",
-    "version": "12.0.4",
+    "version": "12.0.5",
     "passthru": {
       "name": "gitlens",
       "license": "MIT",
@@ -19431,10 +19431,10 @@
       "description": "Supercharge Git within VS Code â Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more"
     },
     "src": {
-      "url": "https://open-vsx.org/api/eamodio/gitlens/12.0.4/file/eamodio.gitlens-12.0.4.vsix",
+      "url": "https://open-vsx.org/api/eamodio/gitlens/12.0.5/file/eamodio.gitlens-12.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-T39laV6yWu0yKtTT2dmVOriawkrsmE4YqpidWG7OPOg="
+      "sha256": "sha256-HOr+78UQHIVQDkUNQaWyyNzDQFc+HwhGRR0ha9Pmyn0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32703,7 +32703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-cmake-tools",
-    "version": "1.9.2",
+    "version": "1.10.4",
     "passthru": {
       "name": "cmake-tools",
       "license": "MIT",
@@ -32711,10 +32711,10 @@
       "description": "Extended CMake support in Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/cmake-tools/1.9.2/file/ms-vscode.cmake-tools-1.9.2.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.4/file/ms-vscode.cmake-tools-1.10.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-egikoFQCLEc8sy01KduqXrEbIZQKPK03CxijkR0wI4s="
+      "sha256": "sha256-fc9or4i4954oZ3ovsb4HBXI9Q7x0+ghNpjNwBBWE6L8="
     },
     "extract": null,
     "rustGitDeps": null
