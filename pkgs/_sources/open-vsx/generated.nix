@@ -9591,10 +9591,10 @@
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
-    version = "0.2.7";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.7/file/jamestiotio.compstruct-vscode-0.2.7.vsix";
-      sha256 = "sha256-OfZgrwyyXjQUhnmlzW0YneMTX888AIVgw2eYp/QN8/U=";
+      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.8/file/jamestiotio.compstruct-vscode-0.2.8.vsix";
+      sha256 = "sha256-EAMnDiYY92Qy6j/Lw+dn7XZLdV98qxHoCF65laKelm0=";
     };
     name = "compstruct-vscode";
     license = "MIT";
@@ -15423,10 +15423,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.9";
+    version = "0.13.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.9/file/shufo.vscode-blade-formatter-0.13.9.vsix";
-      sha256 = "sha256-ObfQ2BEqiFQeVqJ52wQCmxf387mOYHp16UfaqHzVKfg=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.10/file/shufo.vscode-blade-formatter-0.13.10.vsix";
+      sha256 = "sha256-osSsTPzVERPEu88VFIaS1NDVw5aXV/fisUShpxoEK5k=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
