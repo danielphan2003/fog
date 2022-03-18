@@ -1548,7 +1548,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "380bd87f6be0702f1acc4c2f2a3541e08ef7d1a4",
+    "version": "7deeb2f7f748afd62b7ed23f0ca623136a5c5b78",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1558,8 +1558,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-joiJG9O2MuExMTP9SEAY/ewPjzMTA/a8aUrY0mIEVEI=",
-      "rev": "380bd87f6be0702f1acc4c2f2a3541e08ef7d1a4"
+      "sha256": "sha256-PLvdtXL/sWfAFLf/d/wMVVt7cGbJ1Q/NPhJ2CiZyyQU=",
+      "rev": "7deeb2f7f748afd62b7ed23f0ca623136a5c5b78"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "1db46919ab02676faa65535c18da9c45988e3a30",
+    "version": "309c0a13a5995bc4ee3848aac88cb6db3fd79c71",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-KBOEb5D0rxInWO9D/o9FA98k7Hdx+smVdOCN2E0hVnI=",
-      "rev": "1db46919ab02676faa65535c18da9c45988e3a30"
+      "sha256": "sha256-dt8QqsaUA0wOtrhfGJD04GJdxPDJ6YviLaTXzFU6WXI=",
+      "rev": "309c0a13a5995bc4ee3848aac88cb6db3fd79c71"
     },
     "extract": null,
     "rustGitDeps": null
