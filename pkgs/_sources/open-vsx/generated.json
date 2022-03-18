@@ -16083,7 +16083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SPGoding-datapack-language-server",
-    "version": "3.3.23",
+    "version": "3.3.24",
     "passthru": {
       "name": "datapack-language-server",
       "license": "MIT",
@@ -16091,10 +16091,10 @@
       "description": "Heavy language features for Minecraft: Java Edition data pack files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.23/file/SPGoding.datapack-language-server-3.3.23.vsix",
+      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.24/file/SPGoding.datapack-language-server-3.3.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BcBLjMc6TRBK11o1oy/uhXB5aipEGIHcRlvYWIVcMQA="
+      "sha256": "sha256-u/1feipuJMvNnTnCHDkeiJf6NrvMHDv5btJnEmZWILI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18935,6 +18935,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-UUidD5Pm5RfCp5ppj3qRNZ9VnD058LELJIwEEjfD4AA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "XadillaX-van-gogh-paintings": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "XadillaX-van-gogh-paintings",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "van-gogh-paintings",
+      "license": "MIT",
+      "publisher": "XadillaX",
+      "description": "Vincent Willem van Gogh Painting Themes."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/XadillaX/van-gogh-paintings/1.0.0/file/XadillaX.van-gogh-paintings-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-frucmXa6cFkQk50MtM5YCGzQoXEksYDkT3u/uWOU9mw="
     },
     "extract": null,
     "rustGitDeps": null

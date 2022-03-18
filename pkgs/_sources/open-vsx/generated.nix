@@ -2907,10 +2907,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.23";
+    version = "3.3.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.23/file/SPGoding.datapack-language-server-3.3.23.vsix";
-      sha256 = "sha256-BcBLjMc6TRBK11o1oy/uhXB5aipEGIHcRlvYWIVcMQA=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.24/file/SPGoding.datapack-language-server-3.3.24.vsix";
+      sha256 = "sha256-u/1feipuJMvNnTnCHDkeiJf6NrvMHDv5btJnEmZWILI=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -3564,6 +3564,18 @@
     license = "MIT";
     publisher = "XadillaX";
     description = "The Legend of Mir2 Theme";
+  };
+  XadillaX-van-gogh-paintings = {
+    pname = "XadillaX-van-gogh-paintings";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/XadillaX/van-gogh-paintings/1.0.0/file/XadillaX.van-gogh-paintings-1.0.0.vsix";
+      sha256 = "sha256-frucmXa6cFkQk50MtM5YCGzQoXEksYDkT3u/uWOU9mw=";
+    };
+    name = "van-gogh-paintings";
+    license = "MIT";
+    publisher = "XadillaX";
+    description = "Vincent Willem van Gogh Painting Themes.";
   };
   XadillaX-viml = {
     pname = "XadillaX-viml";
