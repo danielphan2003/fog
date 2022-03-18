@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "6be5e83e61fac5a2037d5fef5e38020c5c7f864c";
+    version = "a2a7c6187228bbcbbefadaa703e5afe469b7cbfe";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "6be5e83e61fac5a2037d5fef5e38020c5c7f864c";
+      rev = "a2a7c6187228bbcbbefadaa703e5afe469b7cbfe";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Q/dAeoneHL/bR4r/ErKt+4FWgnZySH3p91Op5gBmo+g=";
+      sha256 = "sha256-neT0eVL+F+QuTt3kJIcHQ3bO8hSYcWRbRprX7UIX/OI=";
     };
     cargoLock = {
-      lockFile = ./conduit-6be5e83e61fac5a2037d5fef5e38020c5c7f864c/Cargo.lock;
+      lockFile = ./conduit-a2a7c6187228bbcbbefadaa703e5afe469b7cbfe/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-gRhhGWpMiLeA8TNgBMsFEBky1TISr/GXNxLpTXLgUQE=";
@@ -519,10 +519,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "100.0.1185.10";
+    version = "100.0.1185.12";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.10-1_amd64.deb";
-      sha256 = "sha256-S7xnR/pN/dKwu36m46v0WNwjERe6CIfcgio8MzK6np0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.12-1_amd64.deb";
+      sha256 = "sha256-qr1uhexxvaE6aadUbwJ6UYfDeGnSacw6xpkKLFQjAWA=";
     };
   };
   microsoft-edge-dev = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "309c0a13a5995bc4ee3848aac88cb6db3fd79c71";
+    version = "b775df0b57a8e50f9edc7d464ed5afcf0aecd7ea";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "309c0a13a5995bc4ee3848aac88cb6db3fd79c71";
+      rev = "b775df0b57a8e50f9edc7d464ed5afcf0aecd7ea";
       fetchSubmodules = false;
-      sha256 = "sha256-dt8QqsaUA0wOtrhfGJD04GJdxPDJ6YviLaTXzFU6WXI=";
+      sha256 = "sha256-w1C19TFCXUVVm5GQ5wkJJg86prvHYKdkGcVuIZIj6Vc=";
     });
   };
   tailscale-systray = {
