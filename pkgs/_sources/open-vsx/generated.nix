@@ -975,10 +975,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.6.1";
+    version = "3.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.6.1/file/F5DevCentral.vscode-f5-3.6.1.vsix";
-      sha256 = "sha256-qkRDKMdLVdlHr3GFaVCF0psLHkzO0D9vKPJl/wYQKU0=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.0/file/F5DevCentral.vscode-f5-3.7.0.vsix";
+      sha256 = "sha256-MrIZRbqJYikaE6xFJ3ylNck+9UwcS4H/HWdWJmLMpL0=";
     };
     name = "vscode-f5";
     license = "Apache-2.0";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.730";
+    version = "31.0.736";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.730/file/Prisma.prisma-insider-31.0.730.vsix";
-      sha256 = "sha256-0NJisZ7WOaM2P0qLegHXEOCh4ScDtl41SWqeL+sZY1M=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.736/file/Prisma.prisma-insider-31.0.736.vsix";
+      sha256 = "sha256-Jo+Pjp0uP0WXvPzcgRqQDpJhBezyjkqQ9LgWnA6X5dA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -13815,10 +13815,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.304";
+    version = "0.25.305";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.304/file/pokey.cursorless-0.25.304.vsix";
-      sha256 = "sha256-HcDXG1hDIamSwxiVDaunVw223JmOxkqOU2nqRo5Tk/Y=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.305/file/pokey.cursorless-0.25.305.vsix";
+      sha256 = "sha256-D8H/zlrfUAoOLWK2CvMO94Orvnau1mCLWKrbAOphIK8=";
     };
     name = "cursorless";
     license = "MIT";
@@ -17031,10 +17031,10 @@
   };
   twilsoft-old-friend-vs-keybindings = {
     pname = "twilsoft-old-friend-vs-keybindings";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/twilsoft/old-friend-vs-keybindings/0.0.1/file/twilsoft.old-friend-vs-keybindings-0.0.1.vsix";
-      sha256 = "sha256-MZsOOjJ/G6xjCPbCWsMs81ZUynrgv3YGxMkuBM2YomA=";
+      url = "https://open-vsx.org/api/twilsoft/old-friend-vs-keybindings/0.0.3/file/twilsoft.old-friend-vs-keybindings-0.0.3.vsix";
+      sha256 = "sha256-ag8NvCY9i/F2vLIgP6RC3qVfdU9cvK5K9mnmzJYCAvI=";
     };
     name = "old-friend-vs-keybindings";
     license = "";
