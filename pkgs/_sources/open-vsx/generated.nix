@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.736";
+    version = "31.0.737";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.736/file/Prisma.prisma-insider-31.0.736.vsix";
-      sha256 = "sha256-Jo+Pjp0uP0WXvPzcgRqQDpJhBezyjkqQ9LgWnA6X5dA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.737/file/Prisma.prisma-insider-31.0.737.vsix";
+      sha256 = "sha256-Yez8vfuvsX+1nfM7Mn6htdI9JFCmUZaxH1MH2KsL2CQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16899,10 +16899,10 @@
   };
   toroxx-vscode-avdmanager = {
     pname = "toroxx-vscode-avdmanager";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.0/file/toroxx.vscode-avdmanager-1.1.0.vsix";
-      sha256 = "sha256-Cobhg8UCmln9uMBS/mOcQt+aBlKM/FYoCZ1pYKuVj8Q=";
+      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.1/file/toroxx.vscode-avdmanager-1.1.1.vsix";
+      sha256 = "sha256-Zh8/GeEfHmbdyRwB1nfE8vU9earguP/cmlC90lCAONE=";
     };
     name = "vscode-avdmanager";
     license = "MIT";

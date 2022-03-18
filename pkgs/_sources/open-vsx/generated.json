@@ -12563,7 +12563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "toroxx-vscode-avdmanager",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "vscode-avdmanager",
       "license": "MIT",
@@ -12571,10 +12571,10 @@
       "description": "Android Virtual Device Manager for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.0/file/toroxx.vscode-avdmanager-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.1/file/toroxx.vscode-avdmanager-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Cobhg8UCmln9uMBS/mOcQt+aBlKM/FYoCZ1pYKuVj8Q="
+      "sha256": "sha256-Zh8/GeEfHmbdyRwB1nfE8vU9earguP/cmlC90lCAONE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29543,7 +29543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.736",
+    "version": "31.0.737",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29551,10 +29551,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.736/file/Prisma.prisma-insider-31.0.736.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.737/file/Prisma.prisma-insider-31.0.737.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Jo+Pjp0uP0WXvPzcgRqQDpJhBezyjkqQ9LgWnA6X5dA="
+      "sha256": "sha256-Yez8vfuvsX+1nfM7Mn6htdI9JFCmUZaxH1MH2KsL2CQ="
     },
     "extract": null,
     "rustGitDeps": null
