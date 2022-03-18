@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "26e8c3200a3eb805278ad3c98551ccc45f67004c";
+    version = "bb9470f4426d105926ddf2b51724a09aa7559646";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "26e8c3200a3eb805278ad3c98551ccc45f67004c";
+      rev = "bb9470f4426d105926ddf2b51724a09aa7559646";
       fetchSubmodules = false;
-      sha256 = "sha256-X8hfwLOE5jgE+ANB6sZXxspuqpXrMC9whs3Gagjdo2c=";
+      sha256 = "sha256-4kWJG/Vy86QSNZDv+S+sFLLrqITOo0AYEs8gpToT0Jk=";
     });
   };
   caddy = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.5967";
+    version = "1.0.5968";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5967.tar.bz2";
-      sha256 = "sha256-2bVhaP/dHqlYug5r8N4BtCiPGCotewt6/POUXD+uYus=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5968.tar.bz2";
+      sha256 = "sha256-cNDSmR/B1dgaUwvB13bqlelxPjit/WOONob1o9VeFiI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.5967";
+    version = "1.0.5968";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5967-1_all.deb";
-      sha256 = "sha256-WApteB8yC86EaEnY3w3YfSTO/odbs93fu9x8dcoRidI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5968-1_all.deb";
+      sha256 = "sha256-itWqV6KC46Z4yD1olWr2jdR8b1k+ZWE90wJChpVY7l0=";
     };
   };
   jitsi-videobridge2 = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "72513e29b292b647780356e23041117b5ed50ab7";
+    version = "27a6210f96ccbbf8c41ccb3abb67a6cfb9a77d95";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "72513e29b292b647780356e23041117b5ed50ab7";
+      rev = "27a6210f96ccbbf8c41ccb3abb67a6cfb9a77d95";
       fetchSubmodules = false;
-      sha256 = "sha256-VEhff7zU4JFNmVePkWNwcKq8B3Wt/C9SUmudlfMs2/A=";
+      sha256 = "sha256-U+S/08ualxQwdx0lPI2TOfCLQySheqrhjaHOlPaRLqQ=";
     });
   };
   rofi-wayland = {
@@ -1118,13 +1118,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "081a4b7ffa10b0ad6756ba6c391533357a2725cf";
+    version = "0c0918659f549bd0c6fefe0f5feed5f80475eaaa";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "081a4b7ffa10b0ad6756ba6c391533357a2725cf";
+      rev = "0c0918659f549bd0c6fefe0f5feed5f80475eaaa";
       fetchSubmodules = false;
-      sha256 = "sha256-Kw3Dr7pcwHLhmHEqvtX6bz0rX5f1tWVlcWTZ9ELr0os=";
+      sha256 = "sha256-iHLxZqcDLUo62J67MwZ72CSvsHHiI9/Jk31KwkgIPr4=";
     });
   };
   widevine-cdm = {
