@@ -975,10 +975,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.5.0";
+    version = "3.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.5.0/file/F5DevCentral.vscode-f5-3.5.0.vsix";
-      sha256 = "sha256-RDiN/zSyTsaUiXWLRw6LR3cNlM9C9d3rlUZy2GqmPWQ=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.6.1/file/F5DevCentral.vscode-f5-3.6.1.vsix";
+      sha256 = "sha256-qkRDKMdLVdlHr3GFaVCF0psLHkzO0D9vKPJl/wYQKU0=";
     };
     name = "vscode-f5";
     license = "Apache-2.0";
@@ -8979,10 +8979,10 @@
   };
   hugogranstrom-nimiboost = {
     pname = "hugogranstrom-nimiboost";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.3.1/file/hugogranstrom.nimiboost-0.3.1.vsix";
-      sha256 = "sha256-1ZfHHrvDNBFe4K7QYkFKgGx/9SbAXxh6WJvgLo5q9ew=";
+      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.0/file/hugogranstrom.nimiboost-0.4.0.vsix";
+      sha256 = "sha256-4G/YxUFghdlAY5sJBIlEht3kfGfERpFfLvN1X56EAVA=";
     };
     name = "nimiboost";
     license = "MIT";
@@ -11557,6 +11557,18 @@
     publisher = "meraymond";
     description = "Language support for Idris and Idris 2.";
   };
+  mercedes-benz-sechub = {
+    pname = "mercedes-benz-sechub";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mercedes-benz/sechub/0.1.2/file/mercedes-benz.sechub-0.1.2.vsix";
+      sha256 = "sha256-DC9N0IDtD70Mac6J/6sbA/Le2eu3KnbuI71pdtnsycs=";
+    };
+    name = "sechub";
+    license = "MIT";
+    publisher = "mercedes-benz";
+    description = "SecHub plugin for VSCode/VSCodium";
+  };
   meronz-hybrid-dim = {
     pname = "meronz-hybrid-dim";
     version = "0.0.3";
@@ -13803,10 +13815,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.303";
+    version = "0.25.304";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.303/file/pokey.cursorless-0.25.303.vsix";
-      sha256 = "sha256-eSJgqYceqxm6PQ+qNFAryvNAk59+whEo09TtkqtyKXk=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.304/file/pokey.cursorless-0.25.304.vsix";
+      sha256 = "sha256-HcDXG1hDIamSwxiVDaunVw223JmOxkqOU2nqRo5Tk/Y=";
     };
     name = "cursorless";
     license = "MIT";
@@ -17016,6 +17028,18 @@
     license = "MIT";
     publisher = "tuxtina";
     description = "Convert JSON to YAML, and YAML to JSON.";
+  };
+  twilsoft-old-friend-vs-keybindings = {
+    pname = "twilsoft-old-friend-vs-keybindings";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/twilsoft/old-friend-vs-keybindings/0.0.1/file/twilsoft.old-friend-vs-keybindings-0.0.1.vsix";
+      sha256 = "sha256-MZsOOjJ/G6xjCPbCWsMs81ZUynrgv3YGxMkuBM2YomA=";
+    };
+    name = "old-friend-vs-keybindings";
+    license = "";
+    publisher = "twilsoft";
+    description = "Popular Visual Studio keybindings for VS Code.";
   };
   twxs-cmake = {
     pname = "twxs-cmake";
