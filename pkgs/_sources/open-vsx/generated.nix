@@ -4731,10 +4731,10 @@
   };
   artlaman-chalice-icon-theme = {
     pname = "artlaman-chalice-icon-theme";
-    version = "1.2.17";
+    version = "1.2.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.17/file/artlaman.chalice-icon-theme-1.2.17.vsix";
-      sha256 = "sha256-PgjTcOMYZOHZb4mJ18Y/r+t+BV2M9fSgb679FTpX3Mc=";
+      url = "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.18/file/artlaman.chalice-icon-theme-1.2.18.vsix";
+      sha256 = "sha256-eZMTJInzKR7nBqixGFkCUl7d2uwiCwlUasetU7V+hG4=";
     };
     name = "chalice-icon-theme";
     license = "MIT";

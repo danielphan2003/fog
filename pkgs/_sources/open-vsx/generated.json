@@ -13303,7 +13303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "artlaman-chalice-icon-theme",
-    "version": "1.2.17",
+    "version": "1.2.18",
     "passthru": {
       "name": "chalice-icon-theme",
       "license": "MIT",
@@ -13311,10 +13311,10 @@
       "description": "A minimalistic icon theme"
     },
     "src": {
-      "url": "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.17/file/artlaman.chalice-icon-theme-1.2.17.vsix",
+      "url": "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.18/file/artlaman.chalice-icon-theme-1.2.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PgjTcOMYZOHZb4mJ18Y/r+t+BV2M9fSgb679FTpX3Mc="
+      "sha256": "sha256-eZMTJInzKR7nBqixGFkCUl7d2uwiCwlUasetU7V+hG4="
     },
     "extract": null,
     "rustGitDeps": null
