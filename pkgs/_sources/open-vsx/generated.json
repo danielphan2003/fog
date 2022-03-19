@@ -1839,6 +1839,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "koog1000-fossil": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "koog1000-fossil",
+    "version": "0.1.1",
+    "passthru": {
+      "name": "fossil",
+      "license": "MIT",
+      "publisher": "koog1000",
+      "description": "Integrated Fossil source control"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/koog1000/fossil/0.1.1/file/koog1000.fossil-0.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-KX64iqEZ4fBLamzbc8WbLXoEMK1BbcOMjgYCX+iCz34="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "huntertran-auto-markdown-toc": {
     "pinned": false,
     "cargoLock": null,
@@ -3183,7 +3203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.9.4",
+    "version": "0.9.5",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3191,10 +3211,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.4/file/d-biehl.robotcode-0.9.4.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.5/file/d-biehl.robotcode-0.9.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-U693ICEYKMnw8BlnFZhwU+DIr17FfG0HLfBAhOKd/mY="
+      "sha256": "sha256-0waUuSZ1YyrUcFghiiD6gwXovfGo2tFRXxrrz4ZXzGc="
     },
     "extract": null,
     "rustGitDeps": null

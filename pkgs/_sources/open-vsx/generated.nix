@@ -6363,10 +6363,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.9.4";
+    version = "0.9.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.4/file/d-biehl.robotcode-0.9.4.vsix";
-      sha256 = "sha256-U693ICEYKMnw8BlnFZhwU+DIr17FfG0HLfBAhOKd/mY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.5/file/d-biehl.robotcode-0.9.5.vsix";
+      sha256 = "sha256-0waUuSZ1YyrUcFghiiD6gwXovfGo2tFRXxrrz4ZXzGc=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -10512,6 +10512,18 @@
     license = "MIT";
     publisher = "kongeor";
     description = "VS Code Fennel support";
+  };
+  koog1000-fossil = {
+    pname = "koog1000-fossil";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/koog1000/fossil/0.1.1/file/koog1000.fossil-0.1.1.vsix";
+      sha256 = "sha256-KX64iqEZ4fBLamzbc8WbLXoEMK1BbcOMjgYCX+iCz34=";
+    };
+    name = "fossil";
+    license = "MIT";
+    publisher = "koog1000";
+    description = "Integrated Fossil source control";
   };
   korekontrol-saltstack = {
     pname = "korekontrol-saltstack";
