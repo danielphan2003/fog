@@ -3183,7 +3183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3191,10 +3191,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.3/file/d-biehl.robotcode-0.9.3.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.4/file/d-biehl.robotcode-0.9.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bOTT3kf8qo0t9BO3pf7Dr1brcO9lf47gIhh7ogRdzmY="
+      "sha256": "sha256-U693ICEYKMnw8BlnFZhwU+DIr17FfG0HLfBAhOKd/mY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9083,7 +9083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.4.0",
+    "version": "1.4.1",
     "passthru": {
       "name": "previewjs",
       "license": "AGPL-3.0",
@@ -9091,10 +9091,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.4.0/file/zenclabs.previewjs-1.4.0.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.4.1/file/zenclabs.previewjs-1.4.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eYB26fqMUKCCXKb06IyMxbOUN+JIj7sYylo+s6Alhrg="
+      "sha256": "sha256-r0fyZcVD4rmDTTgIBFz2dWrTCGExcxhHxCIzIsjaoh0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9315,6 +9315,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-zdXPf3ptJqlk6+Xne3Rhafw1G0Xam5znX5FcjFW7x50="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "tomoki1207-pdf": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "tomoki1207-pdf",
+    "version": "1.1.0",
+    "passthru": {
+      "name": "pdf",
+      "license": "",
+      "publisher": "tomoki1207",
+      "description": "Display pdf file in VSCode."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/tomoki1207/pdf/1.1.0/file/tomoki1207.pdf-1.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ARthA9WdV1a7TUOZFgPcjPKNPqNpIQiNJBEzEWbBRPA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25423,7 +25443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "fwcd-kotlin",
-    "version": "0.2.23",
+    "version": "0.2.24",
     "passthru": {
       "name": "kotlin",
       "license": "MIT",
@@ -25431,10 +25451,10 @@
       "description": "Smart code completion, debugging, linting, syntax highlighting and more for Kotlin"
     },
     "src": {
-      "url": "https://open-vsx.org/api/fwcd/kotlin/0.2.23/file/fwcd.kotlin-0.2.23.vsix",
+      "url": "https://open-vsx.org/api/fwcd/kotlin/0.2.24/file/fwcd.kotlin-0.2.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Izs1ORATy9rJvTDstVkJSUtqfJgkauVRCG0sFIZXXaI="
+      "sha256": "sha256-pwa+rXVnxy9MbK1X0xUyVoGmUNXM1bovIhsiTHBqm0g="
     },
     "extract": null,
     "rustGitDeps": null
