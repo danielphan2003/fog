@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.86.4",
+    "version": "0.86.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.86.4/file/dendron.nightly-0.86.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.86.5/file/dendron.nightly-0.86.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fHj6wxM5WfopvfQ4aVJAmFSvAHFTcyylSE5tYwXMCH0="
+      "sha256": "sha256-xE6jlKxLdOj6WUnBITMtvppEIU1l5oHm2mrF5y1wDoQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30263,7 +30263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.255",
+    "version": "2.0.256",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -30271,10 +30271,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.255/file/betterthantomorrow.calva-2.0.255.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.256/file/betterthantomorrow.calva-2.0.256.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DvKXz3BVkQHg6yPDskhx93Dz0rDaCiFBjhfvZ7LF+mI="
+      "sha256": "sha256-hpXH55UT6LjYk6GvQowBNz/B2i8UBfsc2g6v3AxSs/0="
     },
     "extract": null,
     "rustGitDeps": null
