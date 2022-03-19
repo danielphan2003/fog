@@ -6363,10 +6363,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.9.3";
+    version = "0.9.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.3/file/d-biehl.robotcode-0.9.3.vsix";
-      sha256 = "sha256-bOTT3kf8qo0t9BO3pf7Dr1brcO9lf47gIhh7ogRdzmY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.4/file/d-biehl.robotcode-0.9.4.vsix";
+      sha256 = "sha256-U693ICEYKMnw8BlnFZhwU+DIr17FfG0HLfBAhOKd/mY=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -8139,10 +8139,10 @@
   };
   fwcd-kotlin = {
     pname = "fwcd-kotlin";
-    version = "0.2.23";
+    version = "0.2.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fwcd/kotlin/0.2.23/file/fwcd.kotlin-0.2.23.vsix";
-      sha256 = "sha256-Izs1ORATy9rJvTDstVkJSUtqfJgkauVRCG0sFIZXXaI=";
+      url = "https://open-vsx.org/api/fwcd/kotlin/0.2.24/file/fwcd.kotlin-0.2.24.vsix";
+      sha256 = "sha256-pwa+rXVnxy9MbK1X0xUyVoGmUNXM1bovIhsiTHBqm0g=";
     };
     name = "kotlin";
     license = "MIT";
@@ -16837,6 +16837,18 @@
     publisher = "tomi";
     description = "React-typescript code snippets for XAcademy.";
   };
+  tomoki1207-pdf = {
+    pname = "tomoki1207-pdf";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tomoki1207/pdf/1.1.0/file/tomoki1207.pdf-1.1.0.vsix";
+      sha256 = "sha256-ARthA9WdV1a7TUOZFgPcjPKNPqNpIQiNJBEzEWbBRPA=";
+    };
+    name = "pdf";
+    license = "";
+    publisher = "tomoki1207";
+    description = "Display pdf file in VSCode.";
+  };
   tonka3000-qtvsctools = {
     pname = "tonka3000-qtvsctools";
     version = "0.10.1";
@@ -19515,10 +19527,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.4.0";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.4.0/file/zenclabs.previewjs-1.4.0.vsix";
-      sha256 = "sha256-eYB26fqMUKCCXKb06IyMxbOUN+JIj7sYylo+s6Alhrg=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.4.1/file/zenclabs.previewjs-1.4.1.vsix";
+      sha256 = "sha256-r0fyZcVD4rmDTTgIBFz2dWrTCGExcxhHxCIzIsjaoh0=";
     };
     name = "previewjs";
     license = "AGPL-3.0";
