@@ -1643,7 +1643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal-gtk",
-    "version": "808b6a597b9401a42454eecae3bd4cb1cfee8124",
+    "version": "7c7bbf922b63b9d536a2293c0587cb20df01eb2d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1653,8 +1653,8 @@
       "name": null,
       "repo": "xdg-desktop-portal-gtk",
       "type": "github",
-      "sha256": "sha256-MxL4Q7Q/o6jsmtUTChNOVjOpFWLzxxa7zO+bnsrEC8s=",
-      "rev": "808b6a597b9401a42454eecae3bd4cb1cfee8124"
+      "sha256": "sha256-I9xQgiE3lNb2vRodO5R1y40lqoOKzALskrVePidant4=",
+      "rev": "7c7bbf922b63b9d536a2293c0587cb20df01eb2d"
     },
     "extract": null,
     "rustGitDeps": null

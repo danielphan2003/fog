@@ -1159,13 +1159,13 @@
   };
   xdg-desktop-portal-gtk = {
     pname = "xdg-desktop-portal-gtk";
-    version = "808b6a597b9401a42454eecae3bd4cb1cfee8124";
+    version = "7c7bbf922b63b9d536a2293c0587cb20df01eb2d";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal-gtk";
-      rev = "808b6a597b9401a42454eecae3bd4cb1cfee8124";
+      rev = "7c7bbf922b63b9d536a2293c0587cb20df01eb2d";
       fetchSubmodules = false;
-      sha256 = "sha256-MxL4Q7Q/o6jsmtUTChNOVjOpFWLzxxa7zO+bnsrEC8s=";
+      sha256 = "sha256-I9xQgiE3lNb2vRodO5R1y40lqoOKzALskrVePidant4=";
     });
   };
   xorg-libxcvt = {
