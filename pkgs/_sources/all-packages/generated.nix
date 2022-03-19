@@ -210,16 +210,16 @@
   };
   conduit-toolbox = {
     pname = "conduit-toolbox";
-    version = "0e0a025c37f2c07f284eaf85d20acf2dc91c46d7";
+    version = "805baa070528e6db7161ef35b75180e70d896541";
     src = fetchFromGitHub ({
       owner = "ShadowJonathan";
       repo = "conduit_toolbox";
-      rev = "0e0a025c37f2c07f284eaf85d20acf2dc91c46d7";
+      rev = "805baa070528e6db7161ef35b75180e70d896541";
       fetchSubmodules = false;
-      sha256 = "sha256-uXV+djqXe6u+ah+VbOIHQoZ2DSXlIVuQxItHZkK5GqU=";
+      sha256 = "sha256-vQ4r2Cvf2okeJ5qGIQ8mHoUmmrbUbY+bIEpee7XH6zA=";
     });
     cargoLock = {
-      lockFile = ./conduit-toolbox-0e0a025c37f2c07f284eaf85d20acf2dc91c46d7/Cargo.lock;
+      lockFile = ./conduit-toolbox-805baa070528e6db7161ef35b75180e70d896541/Cargo.lock;
       outputHashes = {
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
