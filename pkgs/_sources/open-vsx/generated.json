@@ -12623,7 +12623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nickmillerdev-pytest-fixtures",
-    "version": "0.1.17",
+    "version": "0.1.18",
     "passthru": {
       "name": "pytest-fixtures",
       "license": "MIT",
@@ -12631,10 +12631,10 @@
       "description": "Pytest fixtures support for vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.17/file/nickmillerdev.pytest-fixtures-0.1.17.vsix",
+      "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.18/file/nickmillerdev.pytest-fixtures-0.1.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IhxI7dMe0NeXhCNS/o3ze+nOcnp2qLgJwc3eBTcGIUs="
+      "sha256": "sha256-zWXnBSq4UvSIOe0KN5btK95fDT+vj0E5ZYGO7DSLPzs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16943,7 +16943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.10",
+    "version": "0.13.11",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -16951,10 +16951,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.10/file/shufo.vscode-blade-formatter-0.13.10.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.11/file/shufo.vscode-blade-formatter-0.13.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-osSsTPzVERPEu88VFIaS1NDVw5aXV/fisUShpxoEK5k="
+      "sha256": "sha256-8+0wz5RLjG0E8nkdngDZaMDfU0Q3BVn53OIG78K2Hcc="
     },
     "extract": null,
     "rustGitDeps": null

@@ -12855,10 +12855,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.1.17";
+    version = "0.1.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.17/file/nickmillerdev.pytest-fixtures-0.1.17.vsix";
-      sha256 = "sha256-IhxI7dMe0NeXhCNS/o3ze+nOcnp2qLgJwc3eBTcGIUs=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.18/file/nickmillerdev.pytest-fixtures-0.1.18.vsix";
+      sha256 = "sha256-zWXnBSq4UvSIOe0KN5btK95fDT+vj0E5ZYGO7DSLPzs=";
     };
     name = "pytest-fixtures";
     license = "MIT";
@@ -15447,10 +15447,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.10";
+    version = "0.13.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.10/file/shufo.vscode-blade-formatter-0.13.10.vsix";
-      sha256 = "sha256-osSsTPzVERPEu88VFIaS1NDVw5aXV/fisUShpxoEK5k=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.11/file/shufo.vscode-blade-formatter-0.13.11.vsix";
+      sha256 = "sha256-8+0wz5RLjG0E8nkdngDZaMDfU0Q3BVn53OIG78K2Hcc=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
