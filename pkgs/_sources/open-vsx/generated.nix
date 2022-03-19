@@ -8859,10 +8859,10 @@
   };
   hideoo-toggler = {
     pname = "hideoo-toggler";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hideoo/toggler/0.3.0/file/hideoo.toggler-0.3.0.vsix";
-      sha256 = "sha256-e3rt1cOxL/rpgoRxlN/H48b8SvoXfaARnLAodNtQVic=";
+      url = "https://open-vsx.org/api/hideoo/toggler/0.4.0/file/hideoo.toggler-0.4.0.vsix";
+      sha256 = "sha256-emCpscfVgA/ImjuT3bWk2A363gwPrjm9HCZqaC76TH4=";
     };
     name = "toggler";
     license = "MIT";
@@ -10083,10 +10083,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.3";
+    version = "1.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.3/file/julialang.language-julia-1.6.3.vsix";
-      sha256 = "sha256-qMohj3O5ywT3zcGpn7EXmn2tPavCP7vMERqaleTh9kg=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.5/file/julialang.language-julia-1.6.5.vsix";
+      sha256 = "sha256-Og3rnPt8eH4zZfLo/b+lfrB0zt/6+J/UFlJQOsfAkmg=";
     };
     name = "language-julia";
     license = "MIT";
@@ -13827,10 +13827,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.305";
+    version = "0.25.306";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.305/file/pokey.cursorless-0.25.305.vsix";
-      sha256 = "sha256-D8H/zlrfUAoOLWK2CvMO94Orvnau1mCLWKrbAOphIK8=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.306/file/pokey.cursorless-0.25.306.vsix";
+      sha256 = "sha256-IsrBSlvod5VvAEJDJlj/MnbPQAfrwxP9nVFypI0efOM=";
     };
     name = "cursorless";
     license = "MIT";
