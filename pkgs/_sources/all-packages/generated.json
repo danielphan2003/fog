@@ -330,9 +330,9 @@
   },
   "age-plugin-yubikey": {
     "pinned": false,
-    "cargoLock": "./age-plugin-yubikey-37c813e0a77822ca10844e0d9a0222146d2e356d/Cargo.lock",
+    "cargoLock": "./age-plugin-yubikey-fe5bab1277f19f1fe40276ee1f666cd5b8e2d355/Cargo.lock",
     "name": "age-plugin-yubikey",
-    "version": "37c813e0a77822ca10844e0d9a0222146d2e356d",
+    "version": "fe5bab1277f19f1fe40276ee1f666cd5b8e2d355",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -342,8 +342,8 @@
       "name": null,
       "repo": "age-plugin-yubikey",
       "type": "github",
-      "sha256": "sha256-v2Fq0hDsjuBlsWAjX3KqmU3gjbey+Kxr6UwR1lMus4w=",
-      "rev": "37c813e0a77822ca10844e0d9a0222146d2e356d"
+      "sha256": "sha256-j+X74YB0/JY4IiZLVYsI5UPy8ruCKF/vZJhBctcA4aQ=",
+      "rev": "fe5bab1277f19f1fe40276ee1f666cd5b8e2d355"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -2057,9 +2057,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-3cba56c809b56ca395832e17fea2f0e936cae100/Cargo.lock",
+    "cargoLock": "./rustdesk-c03c49d48244191c5cd23c2565505a263d3ee19b/Cargo.lock",
     "name": "rustdesk",
-    "version": "3cba56c809b56ca395832e17fea2f0e936cae100",
+    "version": "c03c49d48244191c5cd23c2565505a263d3ee19b",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,8 +2069,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-69RCJLnjARGWQWMXOeA7XL25q7gA4AezbGWkxEx4SlU=",
-      "rev": "3cba56c809b56ca395832e17fea2f0e936cae100"
+      "sha256": "sha256-PgvNwXBgOuttN+bOUJIMAnx036d1JmvgVmryAYKralQ=",
+      "rev": "c03c49d48244191c5cd23c2565505a263d3ee19b"
     },
     "extract": null,
     "rustGitDeps": {
