@@ -18,7 +18,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yubikey-agent",
-    "version": "205a7ef2554625c7494038600d963123d6311873",
+    "version": "6d9db9c29100daacbe83e74653c79c94acc5958d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -28,8 +28,8 @@
       "name": null,
       "repo": "yubikey-agent",
       "type": "github",
-      "sha256": "sha256-wJpN63KY5scmez6yYFsIr3JLEUB+YSl/XvoatIIeRI0=",
-      "rev": "205a7ef2554625c7494038600d963123d6311873"
+      "sha256": "sha256-mrdZcKD61S94ZkVH93SJhozmsXW/22ho08WMCrDEwhs=",
+      "rev": "6d9db9c29100daacbe83e74653c79c94acc5958d"
     },
     "extract": null,
     "rustGitDeps": null
@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "4e1683852fa61e58f766944e832d7795efd7854c",
+    "version": "d79d0a2f50af93d94acc730c241174082767c468",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-fnskke6EKKT+MwJwbH8guMtYhrjOLOZS50tF8ocHL8I=",
-      "rev": "4e1683852fa61e58f766944e832d7795efd7854c"
+      "sha256": "sha256-Sr2ulUpGyRxNcph388JTGxOlBYkh0OJzdOdC9xSSpdI=",
+      "rev": "d79d0a2f50af93d94acc730c241174082767c468"
     },
     "extract": null,
     "rustGitDeps": null
@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "82c69995f0b482e2c86807f66a43358aef91edf5",
+    "version": "c6892d03c3b5a61b335fe06d2ff570a1eb70d4d7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-zb7+f5JLKAjMvfvOPq17B+lp7z9aeum7yf1rIdCtkXo=",
-      "rev": "82c69995f0b482e2c86807f66a43358aef91edf5"
+      "sha256": "sha256-5jPyXmhaqgbsxTYzmiukOVf4y3jjys9KyUohCYRC8FY=",
+      "rev": "c6892d03c3b5a61b335fe06d2ff570a1eb70d4d7"
     },
     "extract": null,
     "rustGitDeps": null
