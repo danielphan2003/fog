@@ -999,10 +999,10 @@
   };
   FelixAngelov-bloc = {
     pname = "FelixAngelov-bloc";
-    version = "6.5.0";
+    version = "6.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/bloc/6.5.0/file/FelixAngelov.bloc-6.5.0.vsix";
-      sha256 = "sha256-Rqde1QkpF8hczLZaaEA9mpCW7EwC2gYtJs5bNPnZ6P8=";
+      url = "https://open-vsx.org/api/FelixAngelov/bloc/6.5.1/file/FelixAngelov.bloc-6.5.1.vsix";
+      sha256 = "sha256-ah+Fs9K41gb6cAOWsXGGQL4UIZubf8rbzk2GKgnNMfs=";
     };
     name = "bloc";
     license = "MIT";
