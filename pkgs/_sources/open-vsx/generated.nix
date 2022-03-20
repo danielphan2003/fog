@@ -17199,10 +17199,10 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.2.0/file/usernamehw.commands-1.2.0.vsix";
-      sha256 = "sha256-PA1nwi8xhG1yH0XwiHneYN37JDFbLZ+Lrlx3VKuaOgM=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.2.1/file/usernamehw.commands-1.2.1.vsix";
+      sha256 = "sha256-I4dEJKxkN4bgdANSiU9rb2spqEX0/7AoqsbdDzAudo8=";
     };
     name = "commands";
     license = "MIT";
@@ -19419,10 +19419,10 @@
   };
   zardoy-extra-commands = {
     pname = "zardoy-extra-commands";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.11/file/zardoy.extra-commands-0.0.11.vsix";
-      sha256 = "sha256-u6Z6iYkkZhH+NIzC+VtpXlXiKVO0eOaiGLFRO+kZ3Ls=";
+      url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.12/file/zardoy.extra-commands-0.0.12.vsix";
+      sha256 = "sha256-JQnlxHCDzh4R7WEXf0UcjR0R6MmgAuZbsS2HMBRz4UI=";
     };
     name = "extra-commands";
     license = "MIT";
