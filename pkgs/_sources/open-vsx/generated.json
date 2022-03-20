@@ -1523,7 +1523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "idleberg-nsis",
-    "version": "3.48.0",
+    "version": "3.49.0",
     "passthru": {
       "name": "nsis",
       "license": "MIT OR GPL-2.0",
@@ -1531,10 +1531,10 @@
       "description": "Language syntax, IntelliSense and build system for Nullsoft Scriptable Install System (NSIS)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/idleberg/nsis/3.48.0/file/idleberg.nsis-3.48.0.vsix",
+      "url": "https://open-vsx.org/api/idleberg/nsis/3.49.0/file/idleberg.nsis-3.49.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ao3u4ahUruoC/eTvLBPrx432jVSX46emn1a+jf+N4Q0="
+      "sha256": "sha256-vVN11cKr2+UrE3s5RtqDhMGjWnb5FHlrrWc43EXz3l8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16143,7 +16143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SPGoding-datapack-language-server",
-    "version": "3.3.24",
+    "version": "3.3.25",
     "passthru": {
       "name": "datapack-language-server",
       "license": "MIT",
@@ -16151,10 +16151,10 @@
       "description": "Heavy language features for Minecraft: Java Edition data pack files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.24/file/SPGoding.datapack-language-server-3.3.24.vsix",
+      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.25/file/SPGoding.datapack-language-server-3.3.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-u/1feipuJMvNnTnCHDkeiJf6NrvMHDv5btJnEmZWILI="
+      "sha256": "sha256-tfIcqdzM/FxbFkSZPHwmPcvox62lCBHIL34G6SbzeZ0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23335,6 +23335,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-1N0Am7q84a3yp0H6IBU3KdotJtR9Ni5rDKHIE5kjnFk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "idleberg-haskell-nsis": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "idleberg-haskell-nsis",
+    "version": "1.0.2",
+    "passthru": {
+      "name": "haskell-nsis",
+      "license": "MIT OR GPL-2.0",
+      "publisher": "idleberg",
+      "description": "Haskell snippets for NSIS"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/idleberg/haskell-nsis/1.0.2/file/idleberg.haskell-nsis-1.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-LJiUIRTgI5vs1ghcfTvKRh2wMdkn6mv+4kV9AOXxjdA="
     },
     "extract": null,
     "rustGitDeps": null

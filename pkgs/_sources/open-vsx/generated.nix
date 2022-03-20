@@ -2907,10 +2907,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.24";
+    version = "3.3.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.24/file/SPGoding.datapack-language-server-3.3.24.vsix";
-      sha256 = "sha256-u/1feipuJMvNnTnCHDkeiJf6NrvMHDv5btJnEmZWILI=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.25/file/SPGoding.datapack-language-server-3.3.25.vsix";
+      sha256 = "sha256-tfIcqdzM/FxbFkSZPHwmPcvox62lCBHIL34G6SbzeZ0=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -9157,6 +9157,18 @@
     publisher = "idleberg";
     description = "Logs Extension API results to the output channel";
   };
+  idleberg-haskell-nsis = {
+    pname = "idleberg-haskell-nsis";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/idleberg/haskell-nsis/1.0.2/file/idleberg.haskell-nsis-1.0.2.vsix";
+      sha256 = "sha256-LJiUIRTgI5vs1ghcfTvKRh2wMdkn6mv+4kV9AOXxjdA=";
+    };
+    name = "haskell-nsis";
+    license = "MIT OR GPL-2.0";
+    publisher = "idleberg";
+    description = "Haskell snippets for NSIS";
+  };
   idleberg-hopscotch = {
     pname = "idleberg-hopscotch";
     version = "0.8.2";
@@ -9207,10 +9219,10 @@
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
-    version = "3.48.0";
+    version = "3.49.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.48.0/file/idleberg.nsis-3.48.0.vsix";
-      sha256 = "sha256-ao3u4ahUruoC/eTvLBPrx432jVSX46emn1a+jf+N4Q0=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.49.0/file/idleberg.nsis-3.49.0.vsix";
+      sha256 = "sha256-vVN11cKr2+UrE3s5RtqDhMGjWnb5FHlrrWc43EXz3l8=";
     };
     name = "nsis";
     license = "MIT OR GPL-2.0";
