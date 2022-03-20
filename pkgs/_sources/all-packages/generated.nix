@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4e1683852fa61e58f766944e832d7795efd7854c";
+    version = "d79d0a2f50af93d94acc730c241174082767c468";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4e1683852fa61e58f766944e832d7795efd7854c";
+      rev = "d79d0a2f50af93d94acc730c241174082767c468";
       fetchSubmodules = false;
-      sha256 = "sha256-fnskke6EKKT+MwJwbH8guMtYhrjOLOZS50tF8ocHL8I=";
+      sha256 = "sha256-Sr2ulUpGyRxNcph388JTGxOlBYkh0OJzdOdC9xSSpdI=";
     });
   };
   caddy = {
@@ -361,13 +361,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "59ec81f81ab0c34b60a395640f9a6d5b4512c105";
+    version = "eb8398f45633e0816d290bdf8366d9b94d348488";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "59ec81f81ab0c34b60a395640f9a6d5b4512c105";
+      rev = "eb8398f45633e0816d290bdf8366d9b94d348488";
       fetchSubmodules = false;
-      sha256 = "sha256-1Jqan3EX1Hw6HCdDDndfB1/x0mXBRfFeq4cRoL3+364=";
+      sha256 = "sha256-orf+VRFy0gVKnKbcWmP19HWJaYJGFTu3gXVgH+tJ0f8=";
     });
   };
   ibus = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "82c69995f0b482e2c86807f66a43358aef91edf5";
+    version = "c6892d03c3b5a61b335fe06d2ff570a1eb70d4d7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "82c69995f0b482e2c86807f66a43358aef91edf5";
+      rev = "c6892d03c3b5a61b335fe06d2ff570a1eb70d4d7";
       fetchSubmodules = false;
-      sha256 = "sha256-zb7+f5JLKAjMvfvOPq17B+lp7z9aeum7yf1rIdCtkXo=";
+      sha256 = "sha256-5jPyXmhaqgbsxTYzmiukOVf4y3jjys9KyUohCYRC8FY=";
     });
   };
   rofi-wayland = {
@@ -1216,13 +1216,13 @@
   };
   yubikey-agent = {
     pname = "yubikey-agent";
-    version = "205a7ef2554625c7494038600d963123d6311873";
+    version = "6d9db9c29100daacbe83e74653c79c94acc5958d";
     src = fetchFromGitHub ({
       owner = "FiloSottile";
       repo = "yubikey-agent";
-      rev = "205a7ef2554625c7494038600d963123d6311873";
+      rev = "6d9db9c29100daacbe83e74653c79c94acc5958d";
       fetchSubmodules = false;
-      sha256 = "sha256-wJpN63KY5scmez6yYFsIr3JLEUB+YSl/XvoatIIeRI0=";
+      sha256 = "sha256-mrdZcKD61S94ZkVH93SJhozmsXW/22ho08WMCrDEwhs=";
     });
   };
   yubikey-guide = {
