@@ -3183,7 +3183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lefd-sweetdracula-monokai",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "passthru": {
       "name": "sweetdracula-monokai",
       "license": "MIT",
@@ -3191,10 +3191,10 @@
       "description": "Sweet Dracula + Monokai syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.1/file/lefd.sweetdracula-monokai-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.2/file/lefd.sweetdracula-monokai-1.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-L98KMb/zV4nbxdLvKR+I9pGC0typHSccdKJgKgMWCEw="
+      "sha256": "sha256-jWKOZocGStseA+PAv8z9qbMx903W1F+3JJQ4iOhjjJY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11223,7 +11223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-vscode-httpyac",
-    "version": "5.2.1",
+    "version": "5.2.2",
     "passthru": {
       "name": "vscode-httpyac",
       "license": "MIT",
@@ -11231,10 +11231,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.1/file/anweber.vscode-httpyac-5.2.1.vsix",
+      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.2/file/anweber.vscode-httpyac-5.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tzgDK5Ue3m3MF5QuHbaaB1UtEWPPZpL1h0V7tO50jJs="
+      "sha256": "sha256-CGM4C1iZvoob1O4+pAT28MRQXRWEiLFUx6nfOExTuS4="
     },
     "extract": null,
     "rustGitDeps": null

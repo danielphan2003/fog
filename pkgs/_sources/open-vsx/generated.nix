@@ -4587,10 +4587,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.2.1";
+    version = "5.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.1/file/anweber.vscode-httpyac-5.2.1.vsix";
-      sha256 = "sha256-tzgDK5Ue3m3MF5QuHbaaB1UtEWPPZpL1h0V7tO50jJs=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.2/file/anweber.vscode-httpyac-5.2.2.vsix";
+      sha256 = "sha256-CGM4C1iZvoob1O4+pAT28MRQXRWEiLFUx6nfOExTuS4=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -10863,10 +10863,10 @@
   };
   lefd-sweetdracula-monokai = {
     pname = "lefd-sweetdracula-monokai";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.1/file/lefd.sweetdracula-monokai-1.1.1.vsix";
-      sha256 = "sha256-L98KMb/zV4nbxdLvKR+I9pGC0typHSccdKJgKgMWCEw=";
+      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.2/file/lefd.sweetdracula-monokai-1.1.2.vsix";
+      sha256 = "sha256-jWKOZocGStseA+PAv8z9qbMx903W1F+3JJQ4iOhjjJY=";
     };
     name = "sweetdracula-monokai";
     license = "MIT";
