@@ -361,13 +361,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "59ec81f81ab0c34b60a395640f9a6d5b4512c105";
+    version = "eb8398f45633e0816d290bdf8366d9b94d348488";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "59ec81f81ab0c34b60a395640f9a6d5b4512c105";
+      rev = "eb8398f45633e0816d290bdf8366d9b94d348488";
       fetchSubmodules = false;
-      sha256 = "sha256-1Jqan3EX1Hw6HCdDDndfB1/x0mXBRfFeq4cRoL3+364=";
+      sha256 = "sha256-orf+VRFy0gVKnKbcWmP19HWJaYJGFTu3gXVgH+tJ0f8=";
     });
   };
   ibus = {

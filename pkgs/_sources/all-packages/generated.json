@@ -1747,7 +1747,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "guiscrcpy",
-    "version": "59ec81f81ab0c34b60a395640f9a6d5b4512c105",
+    "version": "eb8398f45633e0816d290bdf8366d9b94d348488",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1757,8 +1757,8 @@
       "name": null,
       "repo": "guiscrcpy",
       "type": "github",
-      "sha256": "sha256-1Jqan3EX1Hw6HCdDDndfB1/x0mXBRfFeq4cRoL3+364=",
-      "rev": "59ec81f81ab0c34b60a395640f9a6d5b4512c105"
+      "sha256": "sha256-orf+VRFy0gVKnKbcWmP19HWJaYJGFTu3gXVgH+tJ0f8=",
+      "rev": "eb8398f45633e0816d290bdf8366d9b94d348488"
     },
     "extract": null,
     "rustGitDeps": null
