@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "f1bb46d27436e0c42fe2deaa5da774d60c12fb00";
+    version = "37c813e0a77822ca10844e0d9a0222146d2e356d";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "f1bb46d27436e0c42fe2deaa5da774d60c12fb00";
+      rev = "37c813e0a77822ca10844e0d9a0222146d2e356d";
       fetchSubmodules = false;
-      sha256 = "sha256-0V4vFEPIhLuKm0q+xSr67eKSzcVa9YKOu050lfQXWJ8=";
+      sha256 = "sha256-v2Fq0hDsjuBlsWAjX3KqmU3gjbey+Kxr6UwR1lMus4w=";
     });
     cargoLock = {
-      lockFile = ./age-plugin-yubikey-f1bb46d27436e0c42fe2deaa5da774d60c12fb00/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-37c813e0a77822ca10844e0d9a0222146d2e356d/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "eba4d2e3e8ccd35777c01090b1f224ecc93d1ed5";
+    version = "4e1683852fa61e58f766944e832d7795efd7854c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "eba4d2e3e8ccd35777c01090b1f224ecc93d1ed5";
+      rev = "4e1683852fa61e58f766944e832d7795efd7854c";
       fetchSubmodules = false;
-      sha256 = "sha256-S5XJWDIsLIvf43Lt8ymHSJ+4cId285iJF0kfd80gdTI=";
+      sha256 = "sha256-fnskke6EKKT+MwJwbH8guMtYhrjOLOZS50tF8ocHL8I=";
     });
   };
   caddy = {
@@ -603,16 +603,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "4649bbc5d38848e78908be7503494946b434fb13";
+    version = "d68346eba822bf5317341c67288f987b1ea4a8c1";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "4649bbc5d38848e78908be7503494946b434fb13";
+      rev = "d68346eba822bf5317341c67288f987b1ea4a8c1";
       fetchSubmodules = false;
-      sha256 = "sha256-iUq2zwWR+F6Dgf5ZDXSpUV7KtXMezMPpmfz9E6ABzn4=";
+      sha256 = "sha256-N4kPwSOnlWy+vvXgfc3NpCZL0Nh74jYUq2rnv5A3ojo=";
     });
     cargoLock = {
-      lockFile = ./ouch-4649bbc5d38848e78908be7503494946b434fb13/Cargo.lock;
+      lockFile = ./ouch-d68346eba822bf5317341c67288f987b1ea4a8c1/Cargo.lock;
       outputHashes = { };
     };
   };
