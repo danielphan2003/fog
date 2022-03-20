@@ -4983,7 +4983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tuttieee-emacs-mcx",
-    "version": "0.39.0",
+    "version": "0.40.0",
     "passthru": {
       "name": "emacs-mcx",
       "license": "MIT",
@@ -4991,10 +4991,10 @@
       "description": "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.39.0/file/tuttieee.emacs-mcx-0.39.0.vsix",
+      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.40.0/file/tuttieee.emacs-mcx-0.40.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-L/KVh4VbUao5ZixwKKthwUtzJNBwV7WPoUNBiNH9kCc="
+      "sha256": "sha256-H1vI/IKbztgHj+REgY+AVXSvKVsnv/TIdtkd/6NupIY="
     },
     "extract": null,
     "rustGitDeps": null
