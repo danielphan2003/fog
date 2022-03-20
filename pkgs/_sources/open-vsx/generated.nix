@@ -1287,10 +1287,10 @@
   };
   GustavoASC-google-drive-vscode = {
     pname = "GustavoASC-google-drive-vscode";
-    version = "1.3.2";
+    version = "1.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GustavoASC/google-drive-vscode/1.3.2/file/GustavoASC.google-drive-vscode-1.3.2.vsix";
-      sha256 = "sha256-KC1b7C0VpQQ488dNNoXCP3/iFfzEr2BXaDsb1f4WbTc=";
+      url = "https://open-vsx.org/api/GustavoASC/google-drive-vscode/1.3.3/file/GustavoASC.google-drive-vscode-1.3.3.vsix";
+      sha256 = "sha256-E7dVycswRKQ91VK3rnGfSxkAWMltNvhIZvp6m7/I6jA=";
     };
     name = "google-drive-vscode";
     license = "MIT";
@@ -8379,10 +8379,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.0.8";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.0.8/file/giscafer.leek-fund-2.0.8.vsix";
-      sha256 = "sha256-JTyz+y+xA+qvaeQBK1ih64vyPgxKIT7wUbDi9fPXyV8=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.1.0/file/giscafer.leek-fund-2.1.0.vsix";
+      sha256 = "sha256-FQBwcDXrzMB+dWxcvzqBhLBNTujIv8PFmHiI01yunS8=";
     };
     name = "leek-fund";
     license = "BSD-3-Clause";
@@ -10155,10 +10155,10 @@
   };
   k--kato-intellij-idea-keybindings = {
     pname = "k--kato-intellij-idea-keybindings";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.0/file/k--kato.intellij-idea-keybindings-1.5.0.vsix";
-      sha256 = "sha256-RIxjSxxjamu0m41DPwRWtotxMVmPfkwAk5y1yOOhlsg=";
+      url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.1/file/k--kato.intellij-idea-keybindings-1.5.1.vsix";
+      sha256 = "sha256-mCWutWi01CiPdm1kq/nc5Y5gMUAcOnBxqc6+IbGu4w4=";
     };
     name = "intellij-idea-keybindings";
     license = "MIT";
@@ -10911,10 +10911,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "179.0.0";
+    version = "180.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/179.0.0/file/lextudio.restructuredtext-179.0.0.vsix";
-      sha256 = "sha256-xt5bwgXXvtvaCwWQYszRojBPxbrehEr+Q4plBBNC5Zg=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/180.0.0/file/lextudio.restructuredtext-180.0.0.vsix";
+      sha256 = "sha256-CsFWuaas7aA47Pvsq47z0ClKYJirZy6NoBA56rmwKco=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12063,10 +12063,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.230";
+    version = "1.1.231";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.230/file/ms-pyright.pyright-1.1.230.vsix";
-      sha256 = "sha256-i3PmjJ1CQ56HaiicNmvQ6ZYT+iMgpMPx0ofHz3+8oX0=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.231/file/ms-pyright.pyright-1.1.231.vsix";
+      sha256 = "sha256-Q/nVEvNin9ZJyFn6VjsAGDthaLrSCjx/GkNJ0ftpYnw=";
     };
     name = "pyright";
     license = "MIT";
