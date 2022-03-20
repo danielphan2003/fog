@@ -5655,10 +5655,10 @@
   };
   carlocardella-vscode-texttoolbox = {
     pname = "carlocardella-vscode-texttoolbox";
-    version = "2.2.1";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.2.1/file/carlocardella.vscode-texttoolbox-2.2.1.vsix";
-      sha256 = "sha256-WzEcdDR9fTT537B96lX6dm4RizHK9zbl4yk8nSxReBU=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.3.0/file/carlocardella.vscode-texttoolbox-2.3.0.vsix";
+      sha256 = "sha256-a5GWMjMtZS9TnysX/6Mlaj2i7n5FYcvJAUEzQqHDKeQ=";
     };
     name = "vscode-texttoolbox";
     license = "MIT";
