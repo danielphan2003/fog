@@ -383,13 +383,13 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "96ba9f9ae00d4e3df028f8312f55ef50d8bcf738";
+    version = "c0001c571d861298beb99463ef63816b17203791";
     src = fetchFromGitHub ({
       owner = "BambooEngine";
       repo = "ibus-bamboo";
-      rev = "96ba9f9ae00d4e3df028f8312f55ef50d8bcf738";
+      rev = "c0001c571d861298beb99463ef63816b17203791";
       fetchSubmodules = false;
-      sha256 = "sha256-0hIHnc3fVYlKxuQMYiEFV6FQwCJfbLeliZ4GmVc4/2I=";
+      sha256 = "sha256-7qU3ieoRPfv50qM703hEw+LTSrhrzwyzCvP9TOLTiDs=";
     });
   };
   jibri = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "19f61607b65087e41ec6bcd389792162c98f2334";
+    version = "bfb4a4d9e9b48acc3e9de8a3b2b67f1f31143b57";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "19f61607b65087e41ec6bcd389792162c98f2334";
+      rev = "bfb4a4d9e9b48acc3e9de8a3b2b67f1f31143b57";
       fetchSubmodules = false;
-      sha256 = "sha256-BugfjQo71YyDcHpDCER13BJtaXw8hKPrnJvBnWIRhD0=";
+      sha256 = "sha256-vxk4HpNOlXPJwcDARP4lpk5QXiYVP6eC6JEPdEg5tFU=";
     });
   };
   tailscale-systray = {
