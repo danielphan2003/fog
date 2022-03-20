@@ -17043,10 +17043,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.40.0";
+    version = "0.40.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.40.0/file/tuttieee.emacs-mcx-0.40.0.vsix";
-      sha256 = "sha256-H1vI/IKbztgHj+REgY+AVXSvKVsnv/TIdtkd/6NupIY=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.40.1/file/tuttieee.emacs-mcx-0.40.1.vsix";
+      sha256 = "sha256-7ZFEMAvoQ5bfkbCHSiY3N2+qL2iEtNtijCeZ/mtotXg=";
     };
     name = "emacs-mcx";
     license = "MIT";
@@ -19647,10 +19647,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.8.0";
+    version = "0.9.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.8.0/file/znck.vue-0.8.0.vsix";
-      sha256 = "sha256-8/q9fbI+BVHedNC87e8C9Wuef6cTEQ84ZzRwWlmypww=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.14/file/znck.vue-0.9.14.vsix";
+      sha256 = "sha256-Gx2VDXZ9pM0I6ebHZx498tTLQ3UqBCl0BMIMOJSIEFU=";
     };
     name = "vue";
     license = "MIT";
@@ -19659,10 +19659,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.8.0";
+    version = "0.9.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.8.0/file/znck.vue-language-features-0.8.0.vsix";
-      sha256 = "sha256-5n4TMH+DIGd+ohonrOe4HF35Oom0LVxe23ZZgm5RiSk=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.13/file/znck.vue-language-features-0.9.13.vsix";
+      sha256 = "sha256-uUvbBnbkgqkIoLmyZKVvItyo3O6ybQ9IAPUyHAZoGxI=";
     };
     name = "vue-language-features";
     license = "MIT";
