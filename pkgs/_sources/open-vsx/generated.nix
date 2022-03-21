@@ -6771,10 +6771,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.86.5";
+    version = "0.86.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.86.5/file/dendron.nightly-0.86.5.vsix";
-      sha256 = "sha256-xE6jlKxLdOj6WUnBITMtvppEIU1l5oHm2mrF5y1wDoQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.86.6/file/dendron.nightly-0.86.6.vsix";
+      sha256 = "sha256-4537a5hfTbidB2BUpmpsaNzkjDjONPWuAsNnlyXt8i4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -9603,10 +9603,10 @@
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
-    version = "0.2.8";
+    version = "0.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.8/file/jamestiotio.compstruct-vscode-0.2.8.vsix";
-      sha256 = "sha256-EAMnDiYY92Qy6j/Lw+dn7XZLdV98qxHoCF65laKelm0=";
+      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.9/file/jamestiotio.compstruct-vscode-0.2.9.vsix";
+      sha256 = "sha256-LaowDWEOKk99hluyCarE6kLzJryU9Xko/t91qtsWjR4=";
     };
     name = "compstruct-vscode";
     license = "MIT";
@@ -16935,10 +16935,10 @@
   };
   toroxx-vscode-avdmanager = {
     pname = "toroxx-vscode-avdmanager";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.2/file/toroxx.vscode-avdmanager-1.1.2.vsix";
-      sha256 = "sha256-fOau0kf4HluEJ/fMYuNKP/bskfCWvPoAd1knJ9moo2c=";
+      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.3/file/toroxx.vscode-avdmanager-1.1.3.vsix";
+      sha256 = "sha256-dcb22X7XIrME+CLHn7W1SJ+90es0wgPs5e3egNRklOE=";
     };
     name = "vscode-avdmanager";
     license = "MIT";
