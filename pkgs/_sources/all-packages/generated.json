@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "d17ef1d3231b1f7e8308f30118bb68ed149ec0fa",
+    "version": "686f32a35f9d8e696bfa4084358d1e4b3c96b3dc",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-1b+Qq+dxHPj6ms1H0Z6bjUwpb5mdV0MtI++XcZElkqA=",
-      "rev": "d17ef1d3231b1f7e8308f30118bb68ed149ec0fa"
+      "sha256": "sha256-zcBo2t/nqKinIONGkdH2r1A0WVQcIxEsKIySSJtqdQs=",
+      "rev": "686f32a35f9d8e696bfa4084358d1e4b3c96b3dc"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.5972",
+    "version": "1.0.5973",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5972-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5973-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ycl5W4LCID5aPXvaL0VLXbRSXNlwtJH2Cl2FypjEX+Y="
+      "sha256": "sha256-EKAD+mb2QpEEzgzINzqDH5oX4lU/pywXAx+f3+LOkKc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5972",
+    "version": "1.0.5973",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5972.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5973.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nLoEqg0xSRbTJF+mIlzsqmfea8ZCE1NYtoI2k2EtJSA="
+      "sha256": "sha256-F5x0wcFv43T2xLJrmNb65Z3K9fK6pGcdP7XWJXqCGyI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1248,7 +1248,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "awesome",
-    "version": "86f67f4e089ee93ace999f3b523dd1c9cfaf6860",
+    "version": "c539e0e4350a42f813952fc28dd8490f42d934b3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1258,8 +1258,8 @@
       "name": null,
       "repo": "awesome",
       "type": "github",
-      "sha256": "sha256-lE3qAh1VzoLkmjnFm172BaJTxwwyOhRezkVqvQqdqZc=",
-      "rev": "86f67f4e089ee93ace999f3b523dd1c9cfaf6860"
+      "sha256": "sha256-EDAL7NnLF2BiVI8DAlEciiZtDmwXOzCPypGTrlN/OoQ=",
+      "rev": "c539e0e4350a42f813952fc28dd8490f42d934b3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "21445b56a5a411ac4f58d76466fc84140b2ff96c",
+    "version": "f6642e0ece20e59e29a076d500d0edf03122d2d1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-wDg/7NqE1O9vDgQHfzvdg106+9rxLn1b8BV4HObN7GQ=",
-      "rev": "21445b56a5a411ac4f58d76466fc84140b2ff96c"
+      "sha256": "sha256-3X36oSj0VRHyWPKc6OR3m1p5O81z1RUKso+EEGoBL+c=",
+      "rev": "f6642e0ece20e59e29a076d500d0edf03122d2d1"
     },
     "extract": null,
     "rustGitDeps": null
