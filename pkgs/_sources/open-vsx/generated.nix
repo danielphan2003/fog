@@ -399,10 +399,10 @@
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
-    version = "1.0.4";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.4/file/Catppuccin.catppuccin-vsc-1.0.4.vsix";
-      sha256 = "sha256-43kO6DJvQrz3zheLkpH0xmvh3B0G+RH9vRHnAMTCL5w=";
+      url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.6/file/Catppuccin.catppuccin-vsc-1.0.6.vsix";
+      sha256 = "sha256-coLU/MCJL3hBAgAwrgBxuGkTfhZ2cnNwvZhKPo4bdC8=";
     };
     name = "catppuccin-vsc";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.738";
+    version = "31.0.740";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.738/file/Prisma.prisma-insider-31.0.738.vsix";
-      sha256 = "sha256-6Dne/+qkQv0wKIyDvlFvBDNYy/3sIjCZHeSjAcuw4fk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.740/file/Prisma.prisma-insider-31.0.740.vsix";
+      sha256 = "sha256-HfecWjqXBl5wzj8uBkzGoD+T9lyJYiKdY07j/xaq23U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7227,10 +7227,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.1999405";
+    version = "7.0.2015895";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.1999405/file/eliostruyf.vscode-front-matter-beta-7.0.1999405.vsix";
-      sha256 = "sha256-sMbIgXhSYb1sPo8/XUOiI5fxCxqMgq3OINf/YVeR9qA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2015895/file/eliostruyf.vscode-front-matter-beta-7.0.2015895.vsix";
+      sha256 = "sha256-B5G4Buc4j0bR9s3LVIVLN/V1W1M5ekWgmib18pkoDxA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9447,10 +9447,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.4.3";
+    version = "1.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.3/file/intersystems-community.vscode-objectscript-1.4.3.vsix";
-      sha256 = "sha256-H/+4hzZpOvklHGn307c/bKm3SG/2RiKn+/x+f8nsD5s=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.4/file/intersystems-community.vscode-objectscript-1.4.4.vsix";
+      sha256 = "sha256-fg1Yi8cG2OSNL/HNsjOm35LWD10YKxcx3HgmDKX8D3k=";
     };
     name = "vscode-objectscript";
     license = "MIT";
