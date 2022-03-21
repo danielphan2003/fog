@@ -6927,10 +6927,10 @@
   };
   dracula-theme-theme-dracula = {
     pname = "dracula-theme-theme-dracula";
-    version = "2.24.1";
+    version = "2.24.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dracula-theme/theme-dracula/2.24.1/file/dracula-theme.theme-dracula-2.24.1.vsix";
-      sha256 = "sha256-Daz7dRU7+ZdgZgtFCxoTH89l8VkpgGX7zasjIpLEonM=";
+      url = "https://open-vsx.org/api/dracula-theme/theme-dracula/2.24.2/file/dracula-theme.theme-dracula-2.24.2.vsix";
+      sha256 = "sha256-3MhT8901cQvn+k9x6iv6+j3kI8cskrRZaM7G6v6523s=";
     };
     name = "theme-dracula";
     license = "MIT";
@@ -8379,10 +8379,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.1.0";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.1.0/file/giscafer.leek-fund-2.1.0.vsix";
-      sha256 = "sha256-FQBwcDXrzMB+dWxcvzqBhLBNTujIv8PFmHiI01yunS8=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.1.2/file/giscafer.leek-fund-2.1.2.vsix";
+      sha256 = "sha256-Apl6AEEuyV9kWqR7+FlhdNgFIqG7S0v5TaEEJ3r2pxg=";
     };
     name = "leek-fund";
     license = "BSD-3-Clause";
@@ -17043,10 +17043,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.40.1";
+    version = "0.41.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.40.1/file/tuttieee.emacs-mcx-0.40.1.vsix";
-      sha256 = "sha256-7ZFEMAvoQ5bfkbCHSiY3N2+qL2iEtNtijCeZ/mtotXg=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.0/file/tuttieee.emacs-mcx-0.41.0.vsix";
+      sha256 = "sha256-NlqXFbD5/IVdLkNC4k0j2S5OKS5mnQSMu/Bv+OJq2/o=";
     };
     name = "emacs-mcx";
     license = "MIT";

@@ -4983,7 +4983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tuttieee-emacs-mcx",
-    "version": "0.40.1",
+    "version": "0.41.0",
     "passthru": {
       "name": "emacs-mcx",
       "license": "MIT",
@@ -4991,10 +4991,10 @@
       "description": "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.40.1/file/tuttieee.emacs-mcx-0.40.1.vsix",
+      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.0/file/tuttieee.emacs-mcx-0.41.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7ZFEMAvoQ5bfkbCHSiY3N2+qL2iEtNtijCeZ/mtotXg="
+      "sha256": "sha256-NlqXFbD5/IVdLkNC4k0j2S5OKS5mnQSMu/Bv+OJq2/o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24143,7 +24143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dracula-theme-theme-dracula",
-    "version": "2.24.1",
+    "version": "2.24.2",
     "passthru": {
       "name": "theme-dracula",
       "license": "MIT",
@@ -24151,10 +24151,10 @@
       "description": "Official Dracula Theme. A dark theme for many editors, shells, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dracula-theme/theme-dracula/2.24.1/file/dracula-theme.theme-dracula-2.24.1.vsix",
+      "url": "https://open-vsx.org/api/dracula-theme/theme-dracula/2.24.2/file/dracula-theme.theme-dracula-2.24.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Daz7dRU7+ZdgZgtFCxoTH89l8VkpgGX7zasjIpLEonM="
+      "sha256": "sha256-3MhT8901cQvn+k9x6iv6+j3kI8cskrRZaM7G6v6523s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26143,7 +26143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "giscafer-leek-fund",
-    "version": "2.1.0",
+    "version": "2.1.2",
     "passthru": {
       "name": "leek-fund",
       "license": "BSD-3-Clause",
@@ -26151,10 +26151,10 @@
       "description": "é­èçå­ï¼VSCode éä¹å¯ä»¥çè¡ç¥¨ & åºéå®æ¶æ°æ®ï¼åæå¥½ç¨çæèµæä»¶"
     },
     "src": {
-      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.1.0/file/giscafer.leek-fund-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.1.2/file/giscafer.leek-fund-2.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FQBwcDXrzMB+dWxcvzqBhLBNTujIv8PFmHiI01yunS8="
+      "sha256": "sha256-Apl6AEEuyV9kWqR7+FlhdNgFIqG7S0v5TaEEJ3r2pxg="
     },
     "extract": null,
     "rustGitDeps": null
