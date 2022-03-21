@@ -3495,10 +3495,10 @@
   };
   WakaTime-vscode-wakatime = {
     pname = "WakaTime-vscode-wakatime";
-    version = "18.0.4";
+    version = "18.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.4/file/WakaTime.vscode-wakatime-18.0.4.vsix";
-      sha256 = "sha256-9k+sIK8uGfnS8oWV8luBZnkZZQOGnWWgLzvKTWtN6rY=";
+      url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.8/file/WakaTime.vscode-wakatime-18.0.8.vsix";
+      sha256 = "sha256-XwzoSWaNJ8u+5wfFkXw6KWUHCHTMJVfiixrf+WGhPoo=";
     };
     name = "vscode-wakatime";
     license = "BSD-3-Clause";

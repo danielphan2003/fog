@@ -25623,7 +25623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "WakaTime-vscode-wakatime",
-    "version": "18.0.4",
+    "version": "18.0.8",
     "passthru": {
       "name": "vscode-wakatime",
       "license": "BSD-3-Clause",
@@ -25631,10 +25631,10 @@
       "description": "Metrics, insights, and time tracking automatically generated from your programming activity."
     },
     "src": {
-      "url": "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.4/file/WakaTime.vscode-wakatime-18.0.4.vsix",
+      "url": "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.8/file/WakaTime.vscode-wakatime-18.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9k+sIK8uGfnS8oWV8luBZnkZZQOGnWWgLzvKTWtN6rY="
+      "sha256": "sha256-XwzoSWaNJ8u+5wfFkXw6KWUHCHTMJVfiixrf+WGhPoo="
     },
     "extract": null,
     "rustGitDeps": null
