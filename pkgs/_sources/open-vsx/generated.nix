@@ -17043,10 +17043,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.41.0";
+    version = "0.41.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.0/file/tuttieee.emacs-mcx-0.41.0.vsix";
-      sha256 = "sha256-NlqXFbD5/IVdLkNC4k0j2S5OKS5mnQSMu/Bv+OJq2/o=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.1/file/tuttieee.emacs-mcx-0.41.1.vsix";
+      sha256 = "sha256-1HbhNwqd6gs32pVIlBqFXzIi7EjgqFPvH0OKqxU2U9w=";
     };
     name = "emacs-mcx";
     license = "MIT";
