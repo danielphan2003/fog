@@ -223,7 +223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nwolverson-ide-purescript",
-    "version": "0.25.11",
+    "version": "0.25.12",
     "passthru": {
       "name": "ide-purescript",
       "license": "MIT",
@@ -231,10 +231,10 @@
       "description": "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.11/file/nwolverson.ide-purescript-0.25.11.vsix",
+      "url": "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.12/file/nwolverson.ide-purescript-0.25.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9MgPAVfIdA7frR4EUDqVJB0N/LZY4NQSXtsKhEueNeg="
+      "sha256": "sha256-tgZ0PnWrSDBNKBB5bKH/Fmq6UVNSRYZ8HJdzFDgxILk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9783,7 +9783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "statelyai-stately-vscode",
-    "version": "1.7.3",
+    "version": "1.7.4",
     "passthru": {
       "name": "stately-vscode",
       "license": "MIT",
@@ -9791,10 +9791,10 @@
       "description": "Visual editing, autocomplete and typegen for XState"
     },
     "src": {
-      "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.7.3/file/statelyai.stately-vscode-1.7.3.vsix",
+      "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.7.4/file/statelyai.stately-vscode-1.7.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jtxC5oMpqN+fZCqFFg0RxDKcKtwVfjSU6IX/XtM86ME="
+      "sha256": "sha256-z/+PvqNth2kOWrI4zKr4d2TAojqrPwerBnxeFJIhVwI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29603,7 +29603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.737",
+    "version": "31.0.738",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29611,10 +29611,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.737/file/Prisma.prisma-insider-31.0.737.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.738/file/Prisma.prisma-insider-31.0.738.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Yez8vfuvsX+1nfM7Mn6htdI9JFCmUZaxH1MH2KsL2CQ="
+      "sha256": "sha256-6Dne/+qkQv0wKIyDvlFvBDNYy/3sIjCZHeSjAcuw4fk="
     },
     "extract": null,
     "rustGitDeps": null

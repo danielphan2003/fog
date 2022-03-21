@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.737";
+    version = "31.0.738";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.737/file/Prisma.prisma-insider-31.0.737.vsix";
-      sha256 = "sha256-Yez8vfuvsX+1nfM7Mn6htdI9JFCmUZaxH1MH2KsL2CQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.738/file/Prisma.prisma-insider-31.0.738.vsix";
+      sha256 = "sha256-6Dne/+qkQv0wKIyDvlFvBDNYy/3sIjCZHeSjAcuw4fk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -13035,10 +13035,10 @@
   };
   nwolverson-ide-purescript = {
     pname = "nwolverson-ide-purescript";
-    version = "0.25.11";
+    version = "0.25.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.11/file/nwolverson.ide-purescript-0.25.11.vsix";
-      sha256 = "sha256-9MgPAVfIdA7frR4EUDqVJB0N/LZY4NQSXtsKhEueNeg=";
+      url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.12/file/nwolverson.ide-purescript-0.25.12.vsix";
+      sha256 = "sha256-tgZ0PnWrSDBNKBB5bKH/Fmq6UVNSRYZ8HJdzFDgxILk=";
     };
     name = "ide-purescript";
     license = "MIT";
@@ -15879,10 +15879,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.7.3";
+    version = "1.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.3/file/statelyai.stately-vscode-1.7.3.vsix";
-      sha256 = "sha256-jtxC5oMpqN+fZCqFFg0RxDKcKtwVfjSU6IX/XtM86ME=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.4/file/statelyai.stately-vscode-1.7.4.vsix";
+      sha256 = "sha256-z/+PvqNth2kOWrI4zKr4d2TAojqrPwerBnxeFJIhVwI=";
     };
     name = "stately-vscode";
     license = "MIT";
