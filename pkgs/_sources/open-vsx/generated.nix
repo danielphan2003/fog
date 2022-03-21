@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.741";
+    version = "31.0.742";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.741/file/Prisma.prisma-insider-31.0.741.vsix";
-      sha256 = "sha256-gQWIZ3ABEBEf0QWGQEhKwbVabqSUiB2z7IhzXzkpYoc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.742/file/Prisma.prisma-insider-31.0.742.vsix";
+      sha256 = "sha256-X9Hr64jibBSQciJ8A3RqSHmTU0hTIyi9P/7fstSXK4I=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.1818";
+    version = "2022.3.2116";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1818/file/Slint.slint-nightly-2022.3.1818.vsix";
-      sha256 = "sha256-KO8zXGR/tZWma/HAwB1qQ9Q1qMul4LrIDoYJJMZmGC0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2116/file/Slint.slint-nightly-2022.3.2116.vsix";
+      sha256 = "sha256-dmGGt3PF0ZlkhyMsJ7nI9KhW0f/zAYmcEv8bg66WBT0=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3207,10 +3207,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.36";
+    version = "3.5.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.36/file/TabNine.tabnine-vscode-3.5.36.vsix";
-      sha256 = "sha256-r3xURqypOQHDnXCAhmz613BXfZtboJHVlHlj9Zd6M1M=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.37/file/TabNine.tabnine-vscode-3.5.37.vsix";
+      sha256 = "sha256-fZiT9xbmKJagarSyLQhmqDOqWCwnewqpK5KOK+B1RBQ=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";

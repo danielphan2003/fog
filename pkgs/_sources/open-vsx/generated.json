@@ -9283,7 +9283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.36",
+    "version": "3.5.37",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9291,10 +9291,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.36/file/TabNine.tabnine-vscode-3.5.36.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.37/file/TabNine.tabnine-vscode-3.5.37.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r3xURqypOQHDnXCAhmz613BXfZtboJHVlHlj9Zd6M1M="
+      "sha256": "sha256-fZiT9xbmKJagarSyLQhmqDOqWCwnewqpK5KOK+B1RBQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14603,7 +14603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.1818",
+    "version": "2022.3.2116",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14611,10 +14611,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.1818/file/Slint.slint-nightly-2022.3.1818.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2116/file/Slint.slint-nightly-2022.3.2116.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KO8zXGR/tZWma/HAwB1qQ9Q1qMul4LrIDoYJJMZmGC0="
+      "sha256": "sha256-dmGGt3PF0ZlkhyMsJ7nI9KhW0f/zAYmcEv8bg66WBT0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29603,7 +29603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.741",
+    "version": "31.0.742",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29611,10 +29611,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.741/file/Prisma.prisma-insider-31.0.741.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.742/file/Prisma.prisma-insider-31.0.742.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gQWIZ3ABEBEf0QWGQEhKwbVabqSUiB2z7IhzXzkpYoc="
+      "sha256": "sha256-X9Hr64jibBSQciJ8A3RqSHmTU0hTIyi9P/7fstSXK4I="
     },
     "extract": null,
     "rustGitDeps": null
