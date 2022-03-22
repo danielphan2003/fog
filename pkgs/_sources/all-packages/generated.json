@@ -1068,13 +1068,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zoom-us",
-    "version": "5.9.6.2225",
+    "version": "5.10.0.2450",
     "passthru": null,
     "src": {
-      "url": "https://cdn.zoom.us/prod/5.9.6.2225/zoom_x86_64.pkg.tar.xz",
+      "url": "https://cdn.zoom.us/prod/5.10.0.2450/zoom_x86_64.pkg.tar.xz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o8xC9rMRw9NZHypAXv/7/vNk8ctgZjJcOTJZ6QS/1mc="
+      "sha256": "sha256-CoK7kqUXnFmlFb81K7722wIAb2OOTg6NQneo1bD6cYw="
     },
     "extract": null,
     "rustGitDeps": null
