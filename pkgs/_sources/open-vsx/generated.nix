@@ -2403,10 +2403,10 @@
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
-    version = "1.5.6";
+    version = "1.5.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.6/file/Nightrains.robloxlsp-1.5.6.vsix";
-      sha256 = "sha256-3Mtd7z/hIZOLzrVJhH/zg3qY0wD5JZ09ze9quWcW3hQ=";
+      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.7/file/Nightrains.robloxlsp-1.5.7.vsix";
+      sha256 = "sha256-z4svDU5IorFCNakfPKM09wRiu51B93vt+gfglBIdvi8=";
     };
     name = "robloxlsp";
     license = "MIT";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2116";
+    version = "2022.3.2120";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2116/file/Slint.slint-nightly-2022.3.2116.vsix";
-      sha256 = "sha256-dmGGt3PF0ZlkhyMsJ7nI9KhW0f/zAYmcEv8bg66WBT0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2120/file/Slint.slint-nightly-2022.3.2120.vsix";
+      sha256 = "sha256-uYwJ5Nnm+MtjDbt4meDOgmgdOymM+3bmHNLufklfZys=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3552,6 +3552,18 @@
     license = "Apache-2.0";
     publisher = "WyattL";
     description = "Syntax highlighting for GreyScript.";
+  };
+  XadillaX-gyp = {
+    pname = "XadillaX-gyp";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/XadillaX/gyp/1.0.0/file/XadillaX.gyp-1.0.0.vsix";
+      sha256 = "sha256-i5cFHgd5y09OiANDMW+YAmp1kL8l99bF8NFTqpU2eE0=";
+    };
+    name = "gyp";
+    license = "MIT";
+    publisher = "XadillaX";
+    description = "GYP support for VSCode.";
   };
   XadillaX-mir2 = {
     pname = "XadillaX-mir2";
@@ -6783,10 +6795,10 @@
   };
   denoland-vscode-deno = {
     pname = "denoland-vscode-deno";
-    version = "3.10.1";
+    version = "3.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/denoland/vscode-deno/3.10.1/file/denoland.vscode-deno-3.10.1.vsix";
-      sha256 = "sha256-8HfkvDWfC9ZKtnO0jk15xyrLUWAkaRX0d00I8f1dLQM=";
+      url = "https://open-vsx.org/api/denoland/vscode-deno/3.11.0/file/denoland.vscode-deno-3.11.0.vsix";
+      sha256 = "sha256-r6PFMgBkz7Bsr6lEXRHKRf20jZvdTd9GHKj9/l1ILus=";
     };
     name = "vscode-deno";
     license = "MIT";
@@ -10911,10 +10923,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "180.0.0";
+    version = "181.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/180.0.0/file/lextudio.restructuredtext-180.0.0.vsix";
-      sha256 = "sha256-CsFWuaas7aA47Pvsq47z0ClKYJirZy6NoBA56rmwKco=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/181.0.0/file/lextudio.restructuredtext-181.0.0.vsix";
+      sha256 = "sha256-S8ldie29w/m523caWOxxGiVVgOZDrTZlC5IlM6seDrE=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12027,10 +12039,10 @@
   };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
-    version = "1.20.0";
+    version = "1.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.20.0/file/ms-azuretools.vscode-docker-1.20.0.vsix";
-      sha256 = "sha256-i3gYTP76YEDItG2oXR9pEXuGv0qmyf1Xv6HQvDBEOyg=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.21.0/file/ms-azuretools.vscode-docker-1.21.0.vsix";
+      sha256 = "sha256-VtGqoSDagmYjq9vXtgluiOMB40WphDTWd0F3Y3mgNIs=";
     };
     name = "vscode-docker";
     license = "MIT";
@@ -12183,10 +12195,10 @@
   };
   ms-vscode-cmake-tools = {
     pname = "ms-vscode-cmake-tools";
-    version = "1.10.4";
+    version = "1.10.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.4/file/ms-vscode.cmake-tools-1.10.4.vsix";
-      sha256 = "sha256-fc9or4i4954oZ3ovsb4HBXI9Q7x0+ghNpjNwBBWE6L8=";
+      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.5/file/ms-vscode.cmake-tools-1.10.5.vsix";
+      sha256 = "sha256-T57uCK1rGe3dBnYbK7QhN2NG3NwTEZm0/EY8S1Pyf7I=";
     };
     name = "cmake-tools";
     license = "MIT";
@@ -17595,10 +17607,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.22.0";
+    version = "0.22.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.0/file/vscjava.vscode-java-pack-0.22.0.vsix";
-      sha256 = "sha256-F0McQEqNesSlLz++DnLI8fkOqq4MIw9J3QODx7v7J/E=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.1/file/vscjava.vscode-java-pack-0.22.1.vsix";
+      sha256 = "sha256-zMv2mgZory1ImGC7M569NgFBrGKO+L6WpP60eld8iDo=";
     };
     name = "vscode-java-pack";
     license = "MIT";
