@@ -2871,10 +2871,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.29.1";
+    version = "2.29.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.1/file/RokuCommunity.brightscript-2.29.1.vsix";
-      sha256 = "sha256-b1axLeFP1YP5uKy2nm+Ing8Oq2sKEXpuE+dsChArf7k=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.2/file/RokuCommunity.brightscript-2.29.2.vsix";
+      sha256 = "sha256-THnqgl1+bYgeBCVZHdZLj48tv10nsvmqwmuLsfYIWhA=";
     };
     name = "brightscript";
     license = "MIT";
@@ -6711,10 +6711,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.86.1";
+    version = "0.87.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.86.1/file/dendron.dendron-0.86.1.vsix";
-      sha256 = "sha256-uJkKAOF2mklxkKcxi4oenYZi+FA1DaVy0YYyLz0cPYs=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.87.0/file/dendron.dendron-0.87.0.vsix";
+      sha256 = "sha256-Mr8IgZV3MvxtpYrvw92ZpHLLsIQ7sSeXUl8z3nVdtPk=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -16971,10 +16971,10 @@
   };
   toroxx-vscode-avdmanager = {
     pname = "toroxx-vscode-avdmanager";
-    version = "1.1.3";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.1.3/file/toroxx.vscode-avdmanager-1.1.3.vsix";
-      sha256 = "sha256-dcb22X7XIrME+CLHn7W1SJ+90es0wgPs5e3egNRklOE=";
+      url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.2.0/file/toroxx.vscode-avdmanager-1.2.0.vsix";
+      sha256 = "sha256-It5tasNQCfDU4Z7VJFo+oyp0S77hNwJuraGun79c3p8=";
     };
     name = "vscode-avdmanager";
     license = "MIT";
