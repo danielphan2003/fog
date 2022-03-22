@@ -11595,15 +11595,15 @@
   };
   mercedes-benz-sechub = {
     pname = "mercedes-benz-sechub";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mercedes-benz/sechub/0.1.2/file/mercedes-benz.sechub-0.1.2.vsix";
-      sha256 = "sha256-DC9N0IDtD70Mac6J/6sbA/Le2eu3KnbuI71pdtnsycs=";
+      url = "https://open-vsx.org/api/mercedes-benz/sechub/0.1.3/file/mercedes-benz.sechub-0.1.3.vsix";
+      sha256 = "sha256-b0uKdDDHwnzFn4j/95d+HqU0wdXonMuRG/MEtyqSavc=";
     };
     name = "sechub";
     license = "MIT";
     publisher = "mercedes-benz";
-    description = "SecHub plugin for VSCode/VSCodium";
+    description = "SecHub plugin for VSCode/VSCodium/Eclipse Theia";
   };
   meronz-hybrid-dim = {
     pname = "meronz-hybrid-dim";
