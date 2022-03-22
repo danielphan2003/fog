@@ -2523,10 +2523,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.2.0";
+    version = "5.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.2.0/file/PascalReitermann93.vscode-yaml-sort-5.2.0.vsix";
-      sha256 = "sha256-zM6CGR1YmiKJ7dlstXzZh6UMiMgzI2pzgksX/LqV/bU=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.2.1/file/PascalReitermann93.vscode-yaml-sort-5.2.1.vsix";
+      sha256 = "sha256-ekRx5tY5slVxq2TjvRd9hEEuCaDJjeZnaz+WsjSNBnY=";
     };
     name = "vscode-yaml-sort";
     license = "MIT";
@@ -12867,10 +12867,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.1.18";
+    version = "0.1.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.18/file/nickmillerdev.pytest-fixtures-0.1.18.vsix";
-      sha256 = "sha256-zWXnBSq4UvSIOe0KN5btK95fDT+vj0E5ZYGO7DSLPzs=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.1.19/file/nickmillerdev.pytest-fixtures-0.1.19.vsix";
+      sha256 = "sha256-QdVZdhqGofJQFqdZGBGfzA9BmYhT72SUf32MO+7tghY=";
     };
     name = "pytest-fixtures";
     license = "MIT";
