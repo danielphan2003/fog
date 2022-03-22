@@ -11427,10 +11427,10 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.2.3";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.2.3/file/mbari.tethysl-2.2.3.vsix";
-      sha256 = "sha256-AHqawK8THTl1OyvigEdGe9PPQXvjFSb4HOWN6W8ll20=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.3.0/file/mbari.tethysl-2.3.0.vsix";
+      sha256 = "sha256-YQai0f4cba8QVA+5MQXdx+eaNVDRyjxG/02Bbg07GQo=";
     };
     name = "tethysl";
     license = "Apache-2.0";
