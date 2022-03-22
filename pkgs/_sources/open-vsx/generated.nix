@@ -6783,10 +6783,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.86.6";
+    version = "0.86.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.86.6/file/dendron.nightly-0.86.6.vsix";
-      sha256 = "sha256-4537a5hfTbidB2BUpmpsaNzkjDjONPWuAsNnlyXt8i4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.86.7/file/dendron.nightly-0.86.7.vsix";
+      sha256 = "sha256-qQwBuhBXB/LwAnVJUwhazrKx954z7/PaF35lN1Xn1SU=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -19659,10 +19659,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.14";
+    version = "0.9.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.14/file/znck.vue-0.9.14.vsix";
-      sha256 = "sha256-Gx2VDXZ9pM0I6ebHZx498tTLQ3UqBCl0BMIMOJSIEFU=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.15/file/znck.vue-0.9.15.vsix";
+      sha256 = "sha256-cG0qsBmV2GdQC519wPvy8v9DRpTc7kY9Mj+l6ZsS13I=";
     };
     name = "vue";
     license = "MIT";
@@ -19671,10 +19671,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.13";
+    version = "0.9.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.13/file/znck.vue-language-features-0.9.13.vsix";
-      sha256 = "sha256-uUvbBnbkgqkIoLmyZKVvItyo3O6ybQ9IAPUyHAZoGxI=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.14/file/znck.vue-language-features-0.9.14.vsix";
+      sha256 = "sha256-W23lHUelYqXtvBMxkjbBvPqgqOHtbZfqK4zgooFJpyU=";
     };
     name = "vue-language-features";
     license = "MIT";
