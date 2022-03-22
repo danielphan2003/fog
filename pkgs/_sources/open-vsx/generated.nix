@@ -207,10 +207,10 @@
   };
   Betajob-modulestf = {
     pname = "Betajob-modulestf";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Betajob/modulestf/0.0.7/file/Betajob.modulestf-0.0.7.vsix";
-      sha256 = "sha256-4FWM+x+pQDScNVwiYF7LYzAP6VV6RginA5WWAoAR7r4=";
+      url = "https://open-vsx.org/api/Betajob/modulestf/0.0.8/file/Betajob.modulestf-0.0.8.vsix";
+      sha256 = "sha256-Op3ycU7PPoYoSlbezsxxxHinF3UKOu1UYhSsnobMkLc=";
     };
     name = "modulestf";
     license = "PROPRIETARY";

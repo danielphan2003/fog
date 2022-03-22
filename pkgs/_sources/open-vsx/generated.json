@@ -10743,7 +10743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Betajob-modulestf",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "passthru": {
       "name": "modulestf",
       "license": "PROPRIETARY",
@@ -10751,10 +10751,10 @@
       "description": "Semantic highlighting support for Terraform, and more to come..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Betajob/modulestf/0.0.7/file/Betajob.modulestf-0.0.7.vsix",
+      "url": "https://open-vsx.org/api/Betajob/modulestf/0.0.8/file/Betajob.modulestf-0.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4FWM+x+pQDScNVwiYF7LYzAP6VV6RginA5WWAoAR7r4="
+      "sha256": "sha256-Op3ycU7PPoYoSlbezsxxxHinF3UKOu1UYhSsnobMkLc="
     },
     "extract": null,
     "rustGitDeps": null
