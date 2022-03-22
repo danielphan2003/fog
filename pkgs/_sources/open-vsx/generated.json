@@ -22043,7 +22043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "atlassian-atlascode",
-    "version": "2.10.9",
+    "version": "2.10.11",
     "passthru": {
       "name": "atlascode",
       "license": "MIT",
@@ -22051,10 +22051,10 @@
       "description": "Bringing the power of Jira and Bitbucket to VS Code - With Atlassian for VS Code you can create and view issues, start work on issues, create pull requests, do code reviews, start builds, get build statuses and more!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/atlassian/atlascode/2.10.9/file/atlassian.atlascode-2.10.9.vsix",
+      "url": "https://open-vsx.org/api/atlassian/atlascode/2.10.11/file/atlassian.atlascode-2.10.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8j7gnMIThObU2WcAVJ6LBdjPUKrPQ470dw9gk4bFk6k="
+      "sha256": "sha256-jmGgi9SGHdl6fqId4Qs2PzBDZD29h9RooQ/KtAM9qN0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22703,7 +22703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CodeStream-codestream",
-    "version": "12.12.0",
+    "version": "12.13.0",
     "passthru": {
       "name": "codestream",
       "license": "UNLICENSED",
@@ -22711,10 +22711,10 @@
       "description": "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic One observability, Bitbucket, Slack, MS Teams, Jira, Trello and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CodeStream/codestream/12.12.0/file/CodeStream.codestream-12.12.0.vsix",
+      "url": "https://open-vsx.org/api/CodeStream/codestream/12.13.0/file/CodeStream.codestream-12.13.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cZBJfVLHeaGJl8JfJiG5d5L7tlKH5ISUKDG8fFY9oC0="
+      "sha256": "sha256-0rgSkNC1Sxe6uSNvXR5U6HmohhEHRwKLSlPxiPH8iFM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24823,7 +24823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BeardedBear-beardedtheme",
-    "version": "4.0.0",
+    "version": "6.0.1",
     "passthru": {
       "name": "beardedtheme",
       "license": "MIT",
@@ -24831,10 +24831,10 @@
       "description": "The theme with a long beard."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/4.0.0/file/BeardedBear.beardedtheme-4.0.0.vsix",
+      "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/6.0.1/file/BeardedBear.beardedtheme-6.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YWBpVbIJqpsE23n298jxbvxU7piPRvkXO8gbk1siUJI="
+      "sha256": "sha256-wOKijOAMwrkGvHxSBnWy/xg+PDOJrzGF0ExOCkvlauA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25323,7 +25323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leodevbro-blockman",
-    "version": "1.5.6",
+    "version": "1.5.7",
     "passthru": {
       "name": "blockman",
       "license": "MIT",
@@ -25331,10 +25331,10 @@
       "description": "Mark/Highlight code blocks"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leodevbro/blockman/1.5.6/file/leodevbro.blockman-1.5.6.vsix",
+      "url": "https://open-vsx.org/api/leodevbro/blockman/1.5.7/file/leodevbro.blockman-1.5.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wiHeW2KLHckgndcvCuwwpMDf77ZnWeMcbLazMmXaW2o="
+      "sha256": "sha256-x/fIcAJfY3kUFjstfIBBkIsDemymfhOGE+/YslC+kXo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28995,6 +28995,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-MzcpIH8O3+myDHZkNnfba/nErYYuu6urGRiA5cPckTM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "bmcsoftware-job-as-code": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "bmcsoftware-job-as-code",
+    "version": "0.1.6",
+    "passthru": {
+      "name": "job-as-code",
+      "license": "",
+      "publisher": "bmcsoftware",
+      "description": "All snippets you need for Control-M Workflow development"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.6/file/bmcsoftware.job-as-code-0.1.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-sVKB1WqftB+eX9/uTkwEyPFZjCFGhcwucioACdRaay4="
     },
     "extract": null,
     "rustGitDeps": null
