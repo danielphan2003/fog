@@ -1238,10 +1238,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.9.6.2225";
+    version = "5.10.0.2450";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.9.6.2225/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-o8xC9rMRw9NZHypAXv/7/vNk8ctgZjJcOTJZ6QS/1mc=";
+      url = "https://cdn.zoom.us/prod/5.10.0.2450/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-CoK7kqUXnFmlFb81K7722wIAb2OOTg6NQneo1bD6cYw=";
     };
   };
 }
