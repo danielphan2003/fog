@@ -23059,6 +23059,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "luma-jupyter": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "luma-jupyter",
+    "version": "2022.3.100",
+    "passthru": {
+      "name": "jupyter",
+      "license": "MIT",
+      "publisher": "luma",
+      "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.100/file/luma.jupyter-2022.3.100.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-KqBncdTyWyr6B0sEUPqnW18IKn97mQUO34YgDTf3mU4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "MatthewNespor-vscode-color-identifiers-mode": {
     "pinned": false,
     "cargoLock": null,

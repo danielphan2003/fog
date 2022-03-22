@@ -11101,6 +11101,18 @@
     publisher = "lukinco";
     description = "A minimal, ultra-dark and vibrant theme for VS Code.";
   };
+  luma-jupyter = {
+    pname = "luma-jupyter";
+    version = "2022.3.100";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/luma/jupyter/2022.3.100/file/luma.jupyter-2022.3.100.vsix";
+      sha256 = "sha256-KqBncdTyWyr6B0sEUPqnW18IKn97mQUO34YgDTf3mU4=";
+    };
+    name = "jupyter";
+    license = "MIT";
+    publisher = "luma";
+    description = "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.";
+  };
   luma-ocaml-platform-syntax = {
     pname = "luma-ocaml-platform-syntax";
     version = "1.9.5";
