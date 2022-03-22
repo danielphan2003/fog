@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.743";
+    version = "31.0.746";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.743/file/Prisma.prisma-insider-31.0.743.vsix";
-      sha256 = "sha256-tE5SxlKQnMubY+Qt6gd/4ITegO7cQSDUvCF8h1cDO24=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.746/file/Prisma.prisma-insider-31.0.746.vsix";
+      sha256 = "sha256-WTMr4CZb8u1ClIwq2nbx41nkBJXavXjkuQxG78V/hEM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8295,10 +8295,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.2";
+    version = "2022.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.2/file/genuitecllc.codetogether-2022.1.2.vsix";
-      sha256 = "sha256-EM1BoXUVhXFLECi7YHauwSXJLq9lD0NPoFGmQCQXXiY=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.3/file/genuitecllc.codetogether-2022.1.3.vsix";
+      sha256 = "sha256-CSWJ/n9LjSVAXsVUpYu5mSPAYWtNbYJbYjZndvGqwm8=";
     };
     name = "codetogether";
     license = "";

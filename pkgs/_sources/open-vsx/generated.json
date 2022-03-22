@@ -11243,7 +11243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "genuitecllc-codetogether",
-    "version": "2022.1.2",
+    "version": "2022.1.3",
     "passthru": {
       "name": "codetogether",
       "license": "",
@@ -11251,10 +11251,10 @@
       "description": "Add CodeTogether to VS Code to live share your IDE and coding sessions. Cross-IDE support for VS Code, IntelliJ and Eclipse. Free plan always available!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.2/file/genuitecllc.codetogether-2022.1.2.vsix",
+      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.3/file/genuitecllc.codetogether-2022.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EM1BoXUVhXFLECi7YHauwSXJLq9lD0NPoFGmQCQXXiY="
+      "sha256": "sha256-CSWJ/n9LjSVAXsVUpYu5mSPAYWtNbYJbYjZndvGqwm8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29623,7 +29623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.743",
+    "version": "31.0.746",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29631,10 +29631,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.743/file/Prisma.prisma-insider-31.0.743.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.746/file/Prisma.prisma-insider-31.0.746.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tE5SxlKQnMubY+Qt6gd/4ITegO7cQSDUvCF8h1cDO24="
+      "sha256": "sha256-WTMr4CZb8u1ClIwq2nbx41nkBJXavXjkuQxG78V/hEM="
     },
     "extract": null,
     "rustGitDeps": null
