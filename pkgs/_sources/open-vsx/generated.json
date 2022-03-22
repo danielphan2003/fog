@@ -5843,7 +5843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "IBMBlockchain-ibm-blockchain-platform",
-    "version": "2.0.7",
+    "version": "2.0.8",
     "passthru": {
       "name": "ibm-blockchain-platform",
       "license": "Apache-2.0",
@@ -5851,10 +5851,10 @@
       "description": "End to end extension for Hyperledger Fabric developers. Develop and test your blockchain smart contracts and client applications on your local machine, and package your projects for deployment into IBM Blockchain Platform runtimes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.7/file/IBMBlockchain.ibm-blockchain-platform-2.0.7.vsix",
+      "url": "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.8/file/IBMBlockchain.ibm-blockchain-platform-2.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EzcobHNazyrvjHolgcj6jsD/Xe6BtdyxaBN5rk0MwCc="
+      "sha256": "sha256-LNvZZojjbqggiXedXEjLzf5sOOrsLjHNyOY5S0fk7lE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9283,7 +9283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.37",
+    "version": "3.5.38",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9291,10 +9291,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.37/file/TabNine.tabnine-vscode-3.5.37.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.38/file/TabNine.tabnine-vscode-3.5.38.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fZiT9xbmKJagarSyLQhmqDOqWCwnewqpK5KOK+B1RBQ="
+      "sha256": "sha256-n8lx+UGNAG3Av3Lh0ElJ4/w6B5onZoGGfvqAmb79L98="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11735,6 +11735,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-2D//eRc+6Ok3LpLil2iyz8y18OebeL04KMzqSAomYNI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "zjffun-snippetsmanager": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "zjffun-snippetsmanager",
+    "version": "0.1.3",
+    "passthru": {
+      "name": "snippetsmanager",
+      "license": "MIT",
+      "publisher": "zjffun",
+      "description": "Create and edit snippets easily."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.3/file/zjffun.snippetsmanager-0.1.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-kF9g6iuodgEzCZZBpQN7I5fISGBDK3gQ3wb1uG0qqDw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14603,7 +14623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.2120",
+    "version": "2022.3.2214",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14611,10 +14631,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2120/file/Slint.slint-nightly-2022.3.2120.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2214/file/Slint.slint-nightly-2022.3.2214.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uYwJ5Nnm+MtjDbt4meDOgmgdOymM+3bmHNLufklfZys="
+      "sha256": "sha256-8qL2LvFW9MYxzY2qNdW8PJhZiaOz7NKxf3zC5KJ0Osw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29623,7 +29643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.746",
+    "version": "31.0.747",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29631,10 +29651,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.746/file/Prisma.prisma-insider-31.0.746.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.747/file/Prisma.prisma-insider-31.0.747.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WTMr4CZb8u1ClIwq2nbx41nkBJXavXjkuQxG78V/hEM="
+      "sha256": "sha256-sUmEt2+RZDcvvNlDicFRRpHIokhD3BLEaX9TIgIWOnA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30195,6 +30215,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-1go9jrdqSwa59nuArBZ1a16wyj+b925Ec1ePSqwJ2yI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "alexkrechik-cucumberautocomplete": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "alexkrechik-cucumberautocomplete",
+    "version": "2.15.2",
+    "passthru": {
+      "name": "cucumberautocomplete",
+      "license": "MIT",
+      "publisher": "alexkrechik",
+      "description": "VSCode Cucumber (Gherkin) Full Language Support + Formatting + Autocomplete"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/alexkrechik/cucumberautocomplete/2.15.2/file/alexkrechik.cucumberautocomplete-2.15.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-PxFIupyXcGGh3VJwJBzlWlxWqDNZc5UBtoBI2lR1g6Y="
     },
     "extract": null,
     "rustGitDeps": null

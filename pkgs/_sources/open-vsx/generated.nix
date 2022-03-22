@@ -1527,10 +1527,10 @@
   };
   IBMBlockchain-ibm-blockchain-platform = {
     pname = "IBMBlockchain-ibm-blockchain-platform";
-    version = "2.0.7";
+    version = "2.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.7/file/IBMBlockchain.ibm-blockchain-platform-2.0.7.vsix";
-      sha256 = "sha256-EzcobHNazyrvjHolgcj6jsD/Xe6BtdyxaBN5rk0MwCc=";
+      url = "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.8/file/IBMBlockchain.ibm-blockchain-platform-2.0.8.vsix";
+      sha256 = "sha256-LNvZZojjbqggiXedXEjLzf5sOOrsLjHNyOY5S0fk7lE=";
     };
     name = "ibm-blockchain-platform";
     license = "Apache-2.0";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.746";
+    version = "31.0.747";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.746/file/Prisma.prisma-insider-31.0.746.vsix";
-      sha256 = "sha256-WTMr4CZb8u1ClIwq2nbx41nkBJXavXjkuQxG78V/hEM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.747/file/Prisma.prisma-insider-31.0.747.vsix";
+      sha256 = "sha256-sUmEt2+RZDcvvNlDicFRRpHIokhD3BLEaX9TIgIWOnA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2120";
+    version = "2022.3.2214";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2120/file/Slint.slint-nightly-2022.3.2120.vsix";
-      sha256 = "sha256-uYwJ5Nnm+MtjDbt4meDOgmgdOymM+3bmHNLufklfZys=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2214/file/Slint.slint-nightly-2022.3.2214.vsix";
+      sha256 = "sha256-8qL2LvFW9MYxzY2qNdW8PJhZiaOz7NKxf3zC5KJ0Osw=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3207,10 +3207,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.37";
+    version = "3.5.38";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.37/file/TabNine.tabnine-vscode-3.5.37.vsix";
-      sha256 = "sha256-fZiT9xbmKJagarSyLQhmqDOqWCwnewqpK5KOK+B1RBQ=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.38/file/TabNine.tabnine-vscode-3.5.38.vsix";
+      sha256 = "sha256-n8lx+UGNAG3Av3Lh0ElJ4/w6B5onZoGGfvqAmb79L98=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -4164,6 +4164,18 @@
     license = "Apache-2.0";
     publisher = "alexcvzz";
     description = "Explore and query SQLite databases.";
+  };
+  alexkrechik-cucumberautocomplete = {
+    pname = "alexkrechik-cucumberautocomplete";
+    version = "2.15.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/alexkrechik/cucumberautocomplete/2.15.2/file/alexkrechik.cucumberautocomplete-2.15.2.vsix";
+      sha256 = "sha256-PxFIupyXcGGh3VJwJBzlWlxWqDNZc5UBtoBI2lR1g6Y=";
+    };
+    name = "cucumberautocomplete";
+    license = "MIT";
+    publisher = "alexkrechik";
+    description = "VSCode Cucumber (Gherkin) Full Language Support + Formatting + Autocomplete";
   };
   aliariff-vscode-erb-beautify = {
     pname = "aliariff-vscode-erb-beautify";
@@ -19644,6 +19656,18 @@
     license = "MIT";
     publisher = "ziyasal";
     description = "Jump to a source code line in GitHub, GitLab, Gitea, Bitbucket, VisualStudio.com !";
+  };
+  zjffun-snippetsmanager = {
+    pname = "zjffun-snippetsmanager";
+    version = "0.1.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.3/file/zjffun.snippetsmanager-0.1.3.vsix";
+      sha256 = "sha256-kF9g6iuodgEzCZZBpQN7I5fISGBDK3gQ3wb1uG0qqDw=";
+    };
+    name = "snippetsmanager";
+    license = "MIT";
+    publisher = "zjffun";
+    description = "Create and edit snippets easily.";
   };
   znck-preview = {
     pname = "znck-preview";
