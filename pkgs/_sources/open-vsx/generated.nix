@@ -195,10 +195,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "4.0.0";
+    version = "6.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/4.0.0/file/BeardedBear.beardedtheme-4.0.0.vsix";
-      sha256 = "sha256-YWBpVbIJqpsE23n298jxbvxU7piPRvkXO8gbk1siUJI=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.0.1/file/BeardedBear.beardedtheme-6.0.1.vsix";
+      sha256 = "sha256-wOKijOAMwrkGvHxSBnWy/xg+PDOJrzGF0ExOCkvlauA=";
     };
     name = "beardedtheme";
     license = "MIT";
@@ -519,10 +519,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.12.0";
+    version = "12.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.12.0/file/CodeStream.codestream-12.12.0.vsix";
-      sha256 = "sha256-cZBJfVLHeaGJl8JfJiG5d5L7tlKH5ISUKDG8fFY9oC0=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/12.13.0/file/CodeStream.codestream-12.13.0.vsix";
+      sha256 = "sha256-0rgSkNC1Sxe6uSNvXR5U6HmohhEHRwKLSlPxiPH8iFM=";
     };
     name = "codestream";
     license = "UNLICENSED";
@@ -4959,10 +4959,10 @@
   };
   atlassian-atlascode = {
     pname = "atlassian-atlascode";
-    version = "2.10.9";
+    version = "2.10.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.9/file/atlassian.atlascode-2.10.9.vsix";
-      sha256 = "sha256-8j7gnMIThObU2WcAVJ6LBdjPUKrPQ470dw9gk4bFk6k=";
+      url = "https://open-vsx.org/api/atlassian/atlascode/2.10.11/file/atlassian.atlascode-2.10.11.vsix";
+      sha256 = "sha256-jmGgi9SGHdl6fqId4Qs2PzBDZD29h9RooQ/KtAM9qN0=";
     };
     name = "atlascode";
     license = "MIT";
@@ -5328,6 +5328,18 @@
     license = "MIT";
     publisher = "bmalehorn";
     description = "Fish syntax highlighting and formatting";
+  };
+  bmcsoftware-job-as-code = {
+    pname = "bmcsoftware-job-as-code";
+    version = "0.1.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.6/file/bmcsoftware.job-as-code-0.1.6.vsix";
+      sha256 = "sha256-sVKB1WqftB+eX9/uTkwEyPFZjCFGhcwucioACdRaay4=";
+    };
+    name = "job-as-code";
+    license = "";
+    publisher = "bmcsoftware";
+    description = "All snippets you need for Control-M Workflow development";
   };
   bmd-stm32-for-vscode = {
     pname = "bmd-stm32-for-vscode";
@@ -10911,10 +10923,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.6";
+    version = "1.5.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.6/file/leodevbro.blockman-1.5.6.vsix";
-      sha256 = "sha256-wiHeW2KLHckgndcvCuwwpMDf77ZnWeMcbLazMmXaW2o=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.7/file/leodevbro.blockman-1.5.7.vsix";
+      sha256 = "sha256-x/fIcAJfY3kUFjstfIBBkIsDemymfhOGE+/YslC+kXo=";
     };
     name = "blockman";
     license = "MIT";
