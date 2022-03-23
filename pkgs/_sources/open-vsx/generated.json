@@ -10823,7 +10823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.14",
+    "version": "0.5.15",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -10831,10 +10831,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.14/file/wcrichton.flowistry-0.5.14.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.15/file/wcrichton.flowistry-0.5.15.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RtXIaRaqSTzAMKo28Qy+lRwXadnwZW2VC6W7UJZdblA="
+      "sha256": "sha256-219DRJ9sMVOzY2oHRw1tLJMCWGlVSHQT5ctIUZdRpzI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12803,7 +12803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "2.1.0",
+    "version": "2.1.4",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -12811,10 +12811,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/2.1.0/file/mintlify.document-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.1.4/file/mintlify.document-2.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VQKqx5/i47V8jWa+dfrwih23ZqKBm+cfMTME7WHphLo="
+      "sha256": "sha256-uNxp4Y08+lTWUoB8FQM9lKKRny5FvWWLtaC5bBhEm7M="
     },
     "extract": null,
     "rustGitDeps": null

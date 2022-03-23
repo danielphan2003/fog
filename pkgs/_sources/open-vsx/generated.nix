@@ -11799,10 +11799,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.0";
+    version = "2.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.0/file/mintlify.document-2.1.0.vsix";
-      sha256 = "sha256-VQKqx5/i47V8jWa+dfrwih23ZqKBm+cfMTME7WHphLo=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.4/file/mintlify.document-2.1.4.vsix";
+      sha256 = "sha256-uNxp4Y08+lTWUoB8FQM9lKKRny5FvWWLtaC5bBhEm7M=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -18951,10 +18951,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.14";
+    version = "0.5.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.14/file/wcrichton.flowistry-0.5.14.vsix";
-      sha256 = "sha256-RtXIaRaqSTzAMKo28Qy+lRwXadnwZW2VC6W7UJZdblA=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.15/file/wcrichton.flowistry-0.5.15.vsix";
+      sha256 = "sha256-219DRJ9sMVOzY2oHRw1tLJMCWGlVSHQT5ctIUZdRpzI=";
     };
     name = "flowistry";
     license = "MIT";
