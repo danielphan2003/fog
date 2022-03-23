@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.86.7",
+    "version": "0.87.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.86.7/file/dendron.nightly-0.86.7.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.87.1/file/dendron.nightly-0.87.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qQwBuhBXB/LwAnVJUwhazrKx954z7/PaF35lN1Xn1SU="
+      "sha256": "sha256-9+tKMqViAS15PNv44DsOAQ3BWonmnPVb/5AdeM7YsvQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3203,7 +3203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.9.5",
+    "version": "0.9.6",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3211,10 +3211,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.5/file/d-biehl.robotcode-0.9.5.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.6/file/d-biehl.robotcode-0.9.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0waUuSZ1YyrUcFghiiD6gwXovfGo2tFRXxrrz4ZXzGc="
+      "sha256": "sha256-TkiL254trqloitN7roSZVYgZt9dlWLzgR8If91xRuIc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9243,7 +9243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.2016139",
+    "version": "7.0.2026962",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9251,10 +9251,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2016139/file/eliostruyf.vscode-front-matter-beta-7.0.2016139.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2026962/file/eliostruyf.vscode-front-matter-beta-7.0.2026962.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PcoWYM0bAg1zkLY2Jt0vB20xR+6GkCTLYFi5jg16iao="
+      "sha256": "sha256-8K97rGdwBTShP3AzCIaf48FFqJsrr0jMNJi3toATYpI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30463,7 +30463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.256",
+    "version": "2.0.257",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -30471,10 +30471,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.256/file/betterthantomorrow.calva-2.0.256.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.257/file/betterthantomorrow.calva-2.0.257.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hpXH55UT6LjYk6GvQowBNz/B2i8UBfsc2g6v3AxSs/0="
+      "sha256": "sha256-ip3HMVMRE3Cpb4cqfG+qnW8CFGGf70DQ2GV2wbAYQwE="
     },
     "extract": null,
     "rustGitDeps": null

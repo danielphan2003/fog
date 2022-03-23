@@ -5271,10 +5271,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.256";
+    version = "2.0.257";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.256/file/betterthantomorrow.calva-2.0.256.vsix";
-      sha256 = "sha256-hpXH55UT6LjYk6GvQowBNz/B2i8UBfsc2g6v3AxSs/0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.257/file/betterthantomorrow.calva-2.0.257.vsix";
+      sha256 = "sha256-ip3HMVMRE3Cpb4cqfG+qnW8CFGGf70DQ2GV2wbAYQwE=";
     };
     name = "calva";
     license = "MIT";
@@ -6435,10 +6435,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.9.5";
+    version = "0.9.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.5/file/d-biehl.robotcode-0.9.5.vsix";
-      sha256 = "sha256-0waUuSZ1YyrUcFghiiD6gwXovfGo2tFRXxrrz4ZXzGc=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.6/file/d-biehl.robotcode-0.9.6.vsix";
+      sha256 = "sha256-TkiL254trqloitN7roSZVYgZt9dlWLzgR8If91xRuIc=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -6843,10 +6843,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.86.7";
+    version = "0.87.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.86.7/file/dendron.nightly-0.86.7.vsix";
-      sha256 = "sha256-qQwBuhBXB/LwAnVJUwhazrKx954z7/PaF35lN1Xn1SU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.87.1/file/dendron.nightly-0.87.1.vsix";
+      sha256 = "sha256-9+tKMqViAS15PNv44DsOAQ3BWonmnPVb/5AdeM7YsvQ=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7299,10 +7299,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.2016139";
+    version = "7.0.2026962";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2016139/file/eliostruyf.vscode-front-matter-beta-7.0.2016139.vsix";
-      sha256 = "sha256-PcoWYM0bAg1zkLY2Jt0vB20xR+6GkCTLYFi5jg16iao=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2026962/file/eliostruyf.vscode-front-matter-beta-7.0.2026962.vsix";
+      sha256 = "sha256-8K97rGdwBTShP3AzCIaf48FFqJsrr0jMNJi3toATYpI=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
