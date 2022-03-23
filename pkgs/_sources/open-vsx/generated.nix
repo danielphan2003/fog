@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.761";
+    version = "31.0.765";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.761/file/Prisma.prisma-insider-31.0.761.vsix";
-      sha256 = "sha256-s0XEmbsys4f33L8G9cqRctnCaX5H/A9k6FG7krR0hf0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.765/file/Prisma.prisma-insider-31.0.765.vsix";
+      sha256 = "sha256-Mj4dM9U+oo2UDM8t3JVrP+RNHDfdJw21s5wwC193mz4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2871,10 +2871,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.29.2";
+    version = "2.29.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.2/file/RokuCommunity.brightscript-2.29.2.vsix";
-      sha256 = "sha256-THnqgl1+bYgeBCVZHdZLj48tv10nsvmqwmuLsfYIWhA=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.3/file/RokuCommunity.brightscript-2.29.3.vsix";
+      sha256 = "sha256-fvY5nOOTl34kl/nhRB17jz9Y6JV2qq/mqGd3HjnBzd8=";
     };
     name = "brightscript";
     license = "MIT";
@@ -4959,10 +4959,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.12.1";
+    version = "0.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.12.1/file/astro-build.astro-vscode-0.12.1.vsix";
-      sha256 = "sha256-aNY9W3sGjsLNm+FeM6DAJ38S58+AvgLTVMqmFUUQc/g=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.13.2/file/astro-build.astro-vscode-0.13.2.vsix";
+      sha256 = "sha256-zA5b7E+BNAFFUCjDAuxbjDmm2FezdwpAR/s/gUckMpo=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -11511,10 +11511,10 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.3.0/file/mbari.tethysl-2.3.0.vsix";
-      sha256 = "sha256-YQai0f4cba8QVA+5MQXdx+eaNVDRyjxG/02Bbg07GQo=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.3.1/file/mbari.tethysl-2.3.1.vsix";
+      sha256 = "sha256-95ZSw4lKI3v4rvzGcHByFQ8hh8+itHabsJojLMo9nMk=";
     };
     name = "tethysl";
     license = "Apache-2.0";
