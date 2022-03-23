@@ -2583,7 +2583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "keesschollaart-vscode-home-assistant",
-    "version": "1.26.0",
+    "version": "1.27.0",
     "passthru": {
       "name": "vscode-home-assistant",
       "license": "MIT",
@@ -2591,10 +2591,10 @@
       "description": " Completion for entity-id's in Home Assistant Configurations"
     },
     "src": {
-      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.26.0/file/keesschollaart.vscode-home-assistant-1.26.0.vsix",
+      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.27.0/file/keesschollaart.vscode-home-assistant-1.27.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3dkQU227slTPIUvnj7z5RBVjx2ynYRaEGAMmZDxA4u0="
+      "sha256": "sha256-mhvs1ZfdM71+dxmSndRdTSMOqaRo8snZthEkCxtg5vM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3223,7 +3223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.9.6",
+    "version": "0.10.0",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3231,10 +3231,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.9.6/file/d-biehl.robotcode-0.9.6.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.10.0/file/d-biehl.robotcode-0.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TkiL254trqloitN7roSZVYgZt9dlWLzgR8If91xRuIc="
+      "sha256": "sha256-gxE5rjTaoICJwQBry66bnsGzlCxB3uItdDKTpx1GKQY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29083,18 +29083,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmcsoftware-job-as-code",
-    "version": "0.1.6",
+    "version": "0.1.8",
     "passthru": {
       "name": "job-as-code",
-      "license": "",
+      "license": "BSD-3-Clause",
       "publisher": "bmcsoftware",
       "description": "All snippets you need for Control-M Workflow development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.6/file/bmcsoftware.job-as-code-0.1.6.vsix",
+      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.8/file/bmcsoftware.job-as-code-0.1.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sVKB1WqftB+eX9/uTkwEyPFZjCFGhcwucioACdRaay4="
+      "sha256": "sha256-q4JS8BHy4WrCoHBYXrd/1Ki3UDa617JzAKmtIn82nfU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30423,7 +30423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.6.5",
+    "version": "1.6.6",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -30431,10 +30431,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.5/file/julialang.language-julia-1.6.5.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.6/file/julialang.language-julia-1.6.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Og3rnPt8eH4zZfLo/b+lfrB0zt/6+J/UFlJQOsfAkmg="
+      "sha256": "sha256-2MoEMYYnxJf1I/4TmDxHGAjf89guu95HI+5M/SMqX8A="
     },
     "extract": null,
     "rustGitDeps": null

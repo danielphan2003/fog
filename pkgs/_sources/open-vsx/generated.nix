@@ -5367,13 +5367,13 @@
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
-    version = "0.1.6";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.6/file/bmcsoftware.job-as-code-0.1.6.vsix";
-      sha256 = "sha256-sVKB1WqftB+eX9/uTkwEyPFZjCFGhcwucioACdRaay4=";
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.8/file/bmcsoftware.job-as-code-0.1.8.vsix";
+      sha256 = "sha256-q4JS8BHy4WrCoHBYXrd/1Ki3UDa617JzAKmtIn82nfU=";
     };
     name = "job-as-code";
-    license = "";
+    license = "BSD-3-Clause";
     publisher = "bmcsoftware";
     description = "All snippets you need for Control-M Workflow development";
   };
@@ -6435,10 +6435,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.9.6";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.9.6/file/d-biehl.robotcode-0.9.6.vsix";
-      sha256 = "sha256-TkiL254trqloitN7roSZVYgZt9dlWLzgR8If91xRuIc=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.10.0/file/d-biehl.robotcode-0.10.0.vsix";
+      sha256 = "sha256-gxE5rjTaoICJwQBry66bnsGzlCxB3uItdDKTpx1GKQY=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -10167,10 +10167,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.5";
+    version = "1.6.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.5/file/julialang.language-julia-1.6.5.vsix";
-      sha256 = "sha256-Og3rnPt8eH4zZfLo/b+lfrB0zt/6+J/UFlJQOsfAkmg=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.6/file/julialang.language-julia-1.6.6.vsix";
+      sha256 = "sha256-2MoEMYYnxJf1I/4TmDxHGAjf89guu95HI+5M/SMqX8A=";
     };
     name = "language-julia";
     license = "MIT";
@@ -10383,10 +10383,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.26.0";
+    version = "1.27.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.26.0/file/keesschollaart.vscode-home-assistant-1.26.0.vsix";
-      sha256 = "sha256-3dkQU227slTPIUvnj7z5RBVjx2ynYRaEGAMmZDxA4u0=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.27.0/file/keesschollaart.vscode-home-assistant-1.27.0.vsix";
+      sha256 = "sha256-mhvs1ZfdM71+dxmSndRdTSMOqaRo8snZthEkCxtg5vM=";
     };
     name = "vscode-home-assistant";
     license = "MIT";
