@@ -243,13 +243,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "c0435772d499dd1f60d75b59372d356754dff68d";
+    version = "df3fb0c9f805519b598f885d343f08fc5c522c4d";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "c0435772d499dd1f60d75b59372d356754dff68d";
+      rev = "df3fb0c9f805519b598f885d343f08fc5c522c4d";
       fetchSubmodules = false;
-      sha256 = "sha256-p8Bpr/iJOAYMX8XpPEia0HHTEu65P8zCwp3B5t9NjTg=";
+      sha256 = "sha256-IoyV+/iVkTz8a+FJfS9EmwS46IX7k5d49LyCJCwErhs=";
     });
   };
   doggo = {
@@ -519,10 +519,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "100.0.1185.12";
+    version = "100.0.1185.17";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.12-1_amd64.deb";
-      sha256 = "sha256-qr1uhexxvaE6aadUbwJ6UYfDeGnSacw6xpkKLFQjAWA=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.17-1_amd64.deb";
+      sha256 = "sha256-Uki3zc6UG45WmfVIe/JieG3GBlrPC+aHFlM32Q1TVXg=";
     };
   };
   microsoft-edge-dev = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8144c6d87df39e59b954c3ac1a2a0936d98403e4";
+    version = "4fc38888d2ee767a00d3bf1f4071c9dd3c6ed4df";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8144c6d87df39e59b954c3ac1a2a0936d98403e4";
+      rev = "4fc38888d2ee767a00d3bf1f4071c9dd3c6ed4df";
       fetchSubmodules = false;
-      sha256 = "sha256-jwhP2xfk0UnxrHV4tR9IistEd0De0c3hBJkXXqBUlkc=";
+      sha256 = "sha256-tdkeJq4ijEctFvf8CmrfyuWhlTmAPdqjAWeRWFTDdDc=";
     });
   };
   tailscale-systray = {
