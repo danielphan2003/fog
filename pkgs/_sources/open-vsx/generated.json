@@ -12663,7 +12663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "toroxx-vscode-avdmanager",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "passthru": {
       "name": "vscode-avdmanager",
       "license": "MIT",
@@ -12671,10 +12671,10 @@
       "description": "Android Virtual Device Manager for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.2.0/file/toroxx.vscode-avdmanager-1.2.0.vsix",
+      "url": "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.2.1/file/toroxx.vscode-avdmanager-1.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-It5tasNQCfDU4Z7VJFo+oyp0S77hNwJuraGun79c3p8="
+      "sha256": "sha256-t8YSJTrdH/CVOMG6hsoY/LQ+IXPbyyk+sbJoMT+qz7o="
     },
     "extract": null,
     "rustGitDeps": null
