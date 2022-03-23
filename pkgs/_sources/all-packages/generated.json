@@ -1388,13 +1388,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jibri",
-    "version": "8.0-123-g29d7837",
+    "version": "8.0-124-g6cb18e9",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jibri_8.0-123-g29d7837-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jibri_8.0-124-g6cb18e9-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3LIhPfQrhfY4AfGwQuX/X/xdfFbZULSjasxh3JhLVS0="
+      "sha256": "sha256-907wCEFQy4JjHx50+p0BldObmsw8PZGhsPcpsNiPvH0="
     },
     "extract": null,
     "rustGitDeps": null
