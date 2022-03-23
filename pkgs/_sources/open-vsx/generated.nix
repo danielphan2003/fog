@@ -1947,10 +1947,10 @@
   };
   MS-CEINTL-vscode-language-pack-cs = {
     pname = "MS-CEINTL-vscode-language-pack-cs";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.65.3/file/MS-CEINTL.vscode-language-pack-cs-1.65.3.vsix";
-      sha256 = "sha256-BMGzHURU2kkXoaejHu6Ca2Nzul+ij6lxZRNbJPeGepU=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.66.0/file/MS-CEINTL.vscode-language-pack-cs-1.66.0.vsix";
+      sha256 = "sha256-Cm9TrRbd5QscQhEr8B+vgM7x3QD1ccmpglucBsGU6gI=";
     };
     name = "vscode-language-pack-cs";
     license = "MIT";
@@ -1959,10 +1959,10 @@
   };
   MS-CEINTL-vscode-language-pack-de = {
     pname = "MS-CEINTL-vscode-language-pack-de";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.65.3/file/MS-CEINTL.vscode-language-pack-de-1.65.3.vsix";
-      sha256 = "sha256-FZA0mp0yyIvF9lxWp+7F4flnG5VLabYPIbD+3E7a7pk=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.66.0/file/MS-CEINTL.vscode-language-pack-de-1.66.0.vsix";
+      sha256 = "sha256-FC0ddlhoEjjJGZrWvSBl0Cxr8ndlwwsej7QrUsSYT2Y=";
     };
     name = "vscode-language-pack-de";
     license = "MIT";
@@ -1983,10 +1983,10 @@
   };
   MS-CEINTL-vscode-language-pack-es = {
     pname = "MS-CEINTL-vscode-language-pack-es";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.65.3/file/MS-CEINTL.vscode-language-pack-es-1.65.3.vsix";
-      sha256 = "sha256-d0iTai7DgURg1BAaSwhVv0DlKh0DJmUbeSoJpC3MbOo=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.66.0/file/MS-CEINTL.vscode-language-pack-es-1.66.0.vsix";
+      sha256 = "sha256-6uviniGYTn3ck/Y8hQEVRHtzZ631iyfKeIWdywyNECg=";
     };
     name = "vscode-language-pack-es";
     license = "MIT";
@@ -1995,10 +1995,10 @@
   };
   MS-CEINTL-vscode-language-pack-fr = {
     pname = "MS-CEINTL-vscode-language-pack-fr";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.65.3/file/MS-CEINTL.vscode-language-pack-fr-1.65.3.vsix";
-      sha256 = "sha256-9hLnpxrY3HS7izX2ipKffPv5sGL5Q0rRVdHCylMzXHo=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.66.0/file/MS-CEINTL.vscode-language-pack-fr-1.66.0.vsix";
+      sha256 = "sha256-8OFJt49I3a4iNtlUoj6lQqLfuAg00kByXqwrmvmdKLU=";
     };
     name = "vscode-language-pack-fr";
     license = "MIT";
@@ -2031,10 +2031,10 @@
   };
   MS-CEINTL-vscode-language-pack-it = {
     pname = "MS-CEINTL-vscode-language-pack-it";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.65.3/file/MS-CEINTL.vscode-language-pack-it-1.65.3.vsix";
-      sha256 = "sha256-a/G7n0vBsABZlKZoroRWAqj7XofVT+IGuA9t5EZ0ExQ=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.66.0/file/MS-CEINTL.vscode-language-pack-it-1.66.0.vsix";
+      sha256 = "sha256-YxhHKhQKGwNt1UGtku5DDyzMTH7xpoLW+sjs9fN6964=";
     };
     name = "vscode-language-pack-it";
     license = "MIT";
@@ -2043,10 +2043,10 @@
   };
   MS-CEINTL-vscode-language-pack-ja = {
     pname = "MS-CEINTL-vscode-language-pack-ja";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.65.3/file/MS-CEINTL.vscode-language-pack-ja-1.65.3.vsix";
-      sha256 = "sha256-9/6JNT0vIktcO6yFvexhJwO6AadGbvUomLVYaQUADQI=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.66.0/file/MS-CEINTL.vscode-language-pack-ja-1.66.0.vsix";
+      sha256 = "sha256-7jDCiHTbgoBwx+6Ua/JmxlZ6PK7o8NcPMo2Sm8TY/a0=";
     };
     name = "vscode-language-pack-ja";
     license = "MIT";
@@ -2055,10 +2055,10 @@
   };
   MS-CEINTL-vscode-language-pack-ko = {
     pname = "MS-CEINTL-vscode-language-pack-ko";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.65.3/file/MS-CEINTL.vscode-language-pack-ko-1.65.3.vsix";
-      sha256 = "sha256-VEpDScwvKHcDsMqYU9vmceKTuKOIk8TwsovCQsQG4Wc=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.66.0/file/MS-CEINTL.vscode-language-pack-ko-1.66.0.vsix";
+      sha256 = "sha256-Sg+lSsolD+947twFyLJF8mAGDPUDmRoecKZPq6z7xzM=";
     };
     name = "vscode-language-pack-ko";
     license = "MIT";
@@ -2079,10 +2079,10 @@
   };
   MS-CEINTL-vscode-language-pack-pl = {
     pname = "MS-CEINTL-vscode-language-pack-pl";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.65.3/file/MS-CEINTL.vscode-language-pack-pl-1.65.3.vsix";
-      sha256 = "sha256-Z06SkGao41v7vBO/WpGqwuPRV3bae02XdF8CyLQhB9o=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.66.0/file/MS-CEINTL.vscode-language-pack-pl-1.66.0.vsix";
+      sha256 = "sha256-DPyaIurz3KW6KWdOBT0jwkHqTG067Z7C9O7DStDFX/g=";
     };
     name = "vscode-language-pack-pl";
     license = "MIT";
@@ -2091,10 +2091,10 @@
   };
   MS-CEINTL-vscode-language-pack-pt-BR = {
     pname = "MS-CEINTL-vscode-language-pack-pt-BR";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.65.3/file/MS-CEINTL.vscode-language-pack-pt-BR-1.65.3.vsix";
-      sha256 = "sha256-UnKi6Q8Vrci7Up9Iw0dY1AO7EjUZWdk7LM5+TcXFwv8=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.66.0/file/MS-CEINTL.vscode-language-pack-pt-BR-1.66.0.vsix";
+      sha256 = "sha256-6mrP0aAnfNui/2LDp0A78oag9PoVKLaFAkgqKf8Zg+4=";
     };
     name = "vscode-language-pack-pt-BR";
     license = "MIT";
@@ -2103,10 +2103,10 @@
   };
   MS-CEINTL-vscode-language-pack-ru = {
     pname = "MS-CEINTL-vscode-language-pack-ru";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.65.3/file/MS-CEINTL.vscode-language-pack-ru-1.65.3.vsix";
-      sha256 = "sha256-tWg04WBsR3kPwwOxr6r3tXLFXyiMKyRQkcx/B/8bQcI=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.66.0/file/MS-CEINTL.vscode-language-pack-ru-1.66.0.vsix";
+      sha256 = "sha256-V5oN44t6f5PhiEflNA05WkMRa/DF7K1RQrUFNmlOafo=";
     };
     name = "vscode-language-pack-ru";
     license = "MIT";
@@ -2115,10 +2115,10 @@
   };
   MS-CEINTL-vscode-language-pack-tr = {
     pname = "MS-CEINTL-vscode-language-pack-tr";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.65.3/file/MS-CEINTL.vscode-language-pack-tr-1.65.3.vsix";
-      sha256 = "sha256-uwSpwLkZGTNCaUN/4wC0543GyJfwg0KiNBpSesOSiAg=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.66.0/file/MS-CEINTL.vscode-language-pack-tr-1.66.0.vsix";
+      sha256 = "sha256-U5NybqorumPCsG434BPaYT1fnn9JrZpcSBggn8FATM4=";
     };
     name = "vscode-language-pack-tr";
     license = "MIT";
@@ -2139,10 +2139,10 @@
   };
   MS-CEINTL-vscode-language-pack-zh-hans = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hans";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.65.3/file/MS-CEINTL.vscode-language-pack-zh-hans-1.65.3.vsix";
-      sha256 = "sha256-TTOEqedPgb6cxE7l7qQU/2Fe7iFNLyqVzXJuAmhYVAw=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.66.0/file/MS-CEINTL.vscode-language-pack-zh-hans-1.66.0.vsix";
+      sha256 = "sha256-tve8DuqutW3vE+Ii0y3AleS3t7uQmvQA18zBY4bDnys=";
     };
     name = "vscode-language-pack-zh-hans";
     license = "MIT";
@@ -2151,10 +2151,10 @@
   };
   MS-CEINTL-vscode-language-pack-zh-hant = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hant";
-    version = "1.65.3";
+    version = "1.66.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.65.3/file/MS-CEINTL.vscode-language-pack-zh-hant-1.65.3.vsix";
-      sha256 = "sha256-42DfdBbUMJxqiuZ7MOULGLXxXrc0dphJ2rkFb7HkmLk=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.66.0/file/MS-CEINTL.vscode-language-pack-zh-hant-1.66.0.vsix";
+      sha256 = "sha256-B2W6v1w6jjKG8YuHec73htwGCfImK6wSYypjSblWLuU=";
     };
     name = "vscode-language-pack-zh-hant";
     license = "MIT";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2214";
+    version = "2022.3.2218";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2214/file/Slint.slint-nightly-2022.3.2214.vsix";
-      sha256 = "sha256-8qL2LvFW9MYxzY2qNdW8PJhZiaOz7NKxf3zC5KJ0Osw=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2218/file/Slint.slint-nightly-2022.3.2218.vsix";
+      sha256 = "sha256-5HhVetzRHOFSqKky0O7yRLrLwWmAiQnWo0k9jhE5sDY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4620,6 +4620,42 @@
     license = "MIT";
     publisher = "anweber";
     description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code";
+  };
+  aperricone-harbour = {
+    pname = "aperricone-harbour";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/aperricone/harbour/1.0.3/file/aperricone.harbour-1.0.3.vsix";
+      sha256 = "sha256-L8k0Ib9Wr9+fBbVcBeg1EWp9LINhbJINZAfoENjEBnk=";
+    };
+    name = "harbour";
+    license = "MIT";
+    publisher = "aperricone";
+    description = "Harbour and xHarbour languages support for visual studio code";
+  };
+  aperricone-regexper-unofficial = {
+    pname = "aperricone-regexper-unofficial";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/aperricone/regexper-unofficial/0.0.3/file/aperricone.regexper-unofficial-0.0.3.vsix";
+      sha256 = "sha256-PO0jaOlYDZMi5XIKIuM+PeCAv6336XqO3s7/NmC4+Jo=";
+    };
+    name = "regexper-unofficial";
+    license = "MIT";
+    publisher = "aperricone";
+    description = "Regexper for vscode";
+  };
+  aperricone-vscode-dbf = {
+    pname = "aperricone-vscode-dbf";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/aperricone/vscode-dbf/0.1.2/file/aperricone.vscode-dbf-0.1.2.vsix";
+      sha256 = "sha256-jOU5NCKubsGUfG5EGvb2BXsz5SPEFjQxu6e/Y/Hh6q8=";
+    };
+    name = "vscode-dbf";
+    license = "MIT";
+    publisher = "aperricone";
+    description = "DBF table viewer for VSCode";
   };
   apollographql-apollo-midnight-color-theme = {
     pname = "apollographql-apollo-midnight-color-theme";
