@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.754";
+    version = "31.0.757";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.754/file/Prisma.prisma-insider-31.0.754.vsix";
-      sha256 = "sha256-f65z+/MGeok3T57qBw91xeAi558yiaPt1OH2p+ehgDk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.757/file/Prisma.prisma-insider-31.0.757.vsix";
+      sha256 = "sha256-o4i2wf5I2++nC3izYbzhWijYUomg5nyieD+wT5Ccs7I=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15543,10 +15543,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.11";
+    version = "0.13.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.11/file/shufo.vscode-blade-formatter-0.13.11.vsix";
-      sha256 = "sha256-8+0wz5RLjG0E8nkdngDZaMDfU0Q3BVn53OIG78K2Hcc=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.12/file/shufo.vscode-blade-formatter-0.13.12.vsix";
+      sha256 = "sha256-tJllgX2ZrvY9c/0bpp1LvnRBkgoZOwWZwcad8P4aKVU=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";

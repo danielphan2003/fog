@@ -17023,7 +17023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.11",
+    "version": "0.13.12",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -17031,10 +17031,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.11/file/shufo.vscode-blade-formatter-0.13.11.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.12/file/shufo.vscode-blade-formatter-0.13.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8+0wz5RLjG0E8nkdngDZaMDfU0Q3BVn53OIG78K2Hcc="
+      "sha256": "sha256-tJllgX2ZrvY9c/0bpp1LvnRBkgoZOwWZwcad8P4aKVU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29763,7 +29763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.754",
+    "version": "31.0.757",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29771,10 +29771,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.754/file/Prisma.prisma-insider-31.0.754.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.757/file/Prisma.prisma-insider-31.0.757.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f65z+/MGeok3T57qBw91xeAi558yiaPt1OH2p+ehgDk="
+      "sha256": "sha256-o4i2wf5I2++nC3izYbzhWijYUomg5nyieD+wT5Ccs7I="
     },
     "extract": null,
     "rustGitDeps": null
