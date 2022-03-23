@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.759";
+    version = "31.0.761";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.759/file/Prisma.prisma-insider-31.0.759.vsix";
-      sha256 = "sha256-WNmCmrYJ3ezFpns9IRrGtGB9E0KMlsMNLg1WHgtj5Qc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.761/file/Prisma.prisma-insider-31.0.761.vsix";
+      sha256 = "sha256-s0XEmbsys4f33L8G9cqRctnCaX5H/A9k6FG7krR0hf0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14247,10 +14247,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.13.3";
+    version = "1.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.13.3/file/rangav.vscode-thunder-client-1.13.3.vsix";
-      sha256 = "sha256-2ZoIw5Xxyb6seR5nb41T7s1hZC299oK3yNj10JX+xQA=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.0/file/rangav.vscode-thunder-client-1.14.0.vsix";
+      sha256 = "sha256-jOMHwF38R3OuG2GdIrVMG/3PEeCb3QnxCVmIQyXgHHw=";
     };
     name = "vscode-thunder-client";
     license = "";
