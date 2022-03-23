@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.747";
+    version = "31.0.754";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.747/file/Prisma.prisma-insider-31.0.747.vsix";
-      sha256 = "sha256-sUmEt2+RZDcvvNlDicFRRpHIokhD3BLEaX9TIgIWOnA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.754/file/Prisma.prisma-insider-31.0.754.vsix";
+      sha256 = "sha256-f65z+/MGeok3T57qBw91xeAi558yiaPt1OH2p+ehgDk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7299,10 +7299,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.0.2026962";
+    version = "7.1.2027443";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2026962/file/eliostruyf.vscode-front-matter-beta-7.0.2026962.vsix";
-      sha256 = "sha256-8K97rGdwBTShP3AzCIaf48FFqJsrr0jMNJi3toATYpI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2027443/file/eliostruyf.vscode-front-matter-beta-7.1.2027443.vsix";
+      sha256 = "sha256-YueSEeCFPZpK67+eYtOBrGVHCYBhinOAlFoDUplXar0=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11151,10 +11151,10 @@
   };
   luma-jupyter = {
     pname = "luma-jupyter";
-    version = "2022.3.100";
+    version = "2022.3.101";
     src = fetchurl {
-      url = "https://open-vsx.org/api/luma/jupyter/2022.3.100/file/luma.jupyter-2022.3.100.vsix";
-      sha256 = "sha256-KqBncdTyWyr6B0sEUPqnW18IKn97mQUO34YgDTf3mU4=";
+      url = "https://open-vsx.org/api/luma/jupyter/2022.3.101/file/luma.jupyter-2022.3.101.vsix";
+      sha256 = "sha256-3uDWNFw9b6+y/kXu0NqUrV/wEuzJ3WXa42zDNTm9cX4=";
     };
     name = "jupyter";
     license = "MIT";
@@ -16512,6 +16512,18 @@
     license = "MIT";
     publisher = "synedra";
     description = "Run a vscode command on project init. Made to run wallaby.js automatically when a project is opened";
+  };
+  tachish-webview-test = {
+    pname = "tachish-webview-test";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tachish/webview-test/0.0.3/file/tachish.webview-test-0.0.3.vsix";
+      sha256 = "sha256-zzFQH7qPbjrbNMx7Q1X5Fd+hhq9llQiNed1W/G1HR6w=";
+    };
+    name = "webview-test";
+    license = "MIT";
+    publisher = "tachish";
+    description = "";
   };
   taintbench-TB-Viewer = {
     pname = "taintbench-TB-Viewer";

@@ -2399,6 +2399,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "tachish-webview-test": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "tachish-webview-test",
+    "version": "0.0.3",
+    "passthru": {
+      "name": "webview-test",
+      "license": "MIT",
+      "publisher": "tachish",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/tachish/webview-test/0.0.3/file/tachish.webview-test-0.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-zzFQH7qPbjrbNMx7Q1X5Fd+hhq9llQiNed1W/G1HR6w="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "earshinov-sort-lines-by-selection": {
     "pinned": false,
     "cargoLock": null,
@@ -9243,7 +9263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.0.2026962",
+    "version": "7.1.2027443",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9251,10 +9271,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.0.2026962/file/eliostruyf.vscode-front-matter-beta-7.0.2026962.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2027443/file/eliostruyf.vscode-front-matter-beta-7.1.2027443.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8K97rGdwBTShP3AzCIaf48FFqJsrr0jMNJi3toATYpI="
+      "sha256": "sha256-YueSEeCFPZpK67+eYtOBrGVHCYBhinOAlFoDUplXar0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23103,7 +23123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "luma-jupyter",
-    "version": "2022.3.100",
+    "version": "2022.3.101",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -23111,10 +23131,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.100/file/luma.jupyter-2022.3.100.vsix",
+      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.101/file/luma.jupyter-2022.3.101.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KqBncdTyWyr6B0sEUPqnW18IKn97mQUO34YgDTf3mU4="
+      "sha256": "sha256-3uDWNFw9b6+y/kXu0NqUrV/wEuzJ3WXa42zDNTm9cX4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29743,7 +29763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.747",
+    "version": "31.0.754",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -29751,10 +29771,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.747/file/Prisma.prisma-insider-31.0.747.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.754/file/Prisma.prisma-insider-31.0.754.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sUmEt2+RZDcvvNlDicFRRpHIokhD3BLEaX9TIgIWOnA="
+      "sha256": "sha256-f65z+/MGeok3T57qBw91xeAi558yiaPt1OH2p+ehgDk="
     },
     "extract": null,
     "rustGitDeps": null
