@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2218";
+    version = "2022.3.2320";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2218/file/Slint.slint-nightly-2022.3.2218.vsix";
-      sha256 = "sha256-5HhVetzRHOFSqKky0O7yRLrLwWmAiQnWo0k9jhE5sDY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2320/file/Slint.slint-nightly-2022.3.2320.vsix";
+      sha256 = "sha256-k16UbtRKGd5zz4Vu4UjUloI7+K9SuRoFxQeGxLzXJS4=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8451,10 +8451,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.1.2";
+    version = "2.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.1.2/file/giscafer.leek-fund-2.1.2.vsix";
-      sha256 = "sha256-Apl6AEEuyV9kWqR7+FlhdNgFIqG7S0v5TaEEJ3r2pxg=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.1.3/file/giscafer.leek-fund-2.1.3.vsix";
+      sha256 = "sha256-GLfHINtwySU3JHlzvrGRVLCZL3kEoIJbNEiJs2DHJOk=";
     };
     name = "leek-fund";
     license = "BSD-3-Clause";
@@ -10983,10 +10983,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "181.0.0";
+    version = "182.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/181.0.0/file/lextudio.restructuredtext-181.0.0.vsix";
-      sha256 = "sha256-S8ldie29w/m523caWOxxGiVVgOZDrTZlC5IlM6seDrE=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/182.0.0/file/lextudio.restructuredtext-182.0.0.vsix";
+      sha256 = "sha256-Q52Snmz2/jnzj87F7TmBKgmiyMgrqQJqWvlaP7wdWrA=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12147,10 +12147,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.231";
+    version = "1.1.232";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.231/file/ms-pyright.pyright-1.1.231.vsix";
-      sha256 = "sha256-Q/nVEvNin9ZJyFn6VjsAGDthaLrSCjx/GkNJ0ftpYnw=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.232/file/ms-pyright.pyright-1.1.232.vsix";
+      sha256 = "sha256-LICL4WD59d2iBWqhGaUMLbU9o6X7u6Tb7tW1Nq4x2PY=";
     };
     name = "pyright";
     license = "MIT";

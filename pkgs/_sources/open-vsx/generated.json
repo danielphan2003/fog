@@ -14683,7 +14683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.2218",
+    "version": "2022.3.2320",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14691,10 +14691,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2218/file/Slint.slint-nightly-2022.3.2218.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2320/file/Slint.slint-nightly-2022.3.2320.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5HhVetzRHOFSqKky0O7yRLrLwWmAiQnWo0k9jhE5sDY="
+      "sha256": "sha256-k16UbtRKGd5zz4Vu4UjUloI7+K9SuRoFxQeGxLzXJS4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16743,7 +16743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "181.0.0",
+    "version": "182.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -16751,10 +16751,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/181.0.0/file/lextudio.restructuredtext-181.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/182.0.0/file/lextudio.restructuredtext-182.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-S8ldie29w/m523caWOxxGiVVgOZDrTZlC5IlM6seDrE="
+      "sha256": "sha256-Q52Snmz2/jnzj87F7TmBKgmiyMgrqQJqWvlaP7wdWrA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26243,7 +26243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "giscafer-leek-fund",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "passthru": {
       "name": "leek-fund",
       "license": "BSD-3-Clause",
@@ -26251,10 +26251,10 @@
       "description": "é­èçå­ï¼VSCode éä¹å¯ä»¥çè¡ç¥¨ & åºéå®æ¶æ°æ®ï¼åæå¥½ç¨çæèµæä»¶"
     },
     "src": {
-      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.1.2/file/giscafer.leek-fund-2.1.2.vsix",
+      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.1.3/file/giscafer.leek-fund-2.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Apl6AEEuyV9kWqR7+FlhdNgFIqG7S0v5TaEEJ3r2pxg="
+      "sha256": "sha256-GLfHINtwySU3JHlzvrGRVLCZL3kEoIJbNEiJs2DHJOk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29583,7 +29583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.231",
+    "version": "1.1.232",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -29591,10 +29591,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.231/file/ms-pyright.pyright-1.1.231.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.232/file/ms-pyright.pyright-1.1.232.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Q/nVEvNin9ZJyFn6VjsAGDthaLrSCjx/GkNJ0ftpYnw="
+      "sha256": "sha256-LICL4WD59d2iBWqhGaUMLbU9o6X7u6Tb7tW1Nq4x2PY="
     },
     "extract": null,
     "rustGitDeps": null
