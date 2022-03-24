@@ -6435,10 +6435,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.10.0";
+    version = "0.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.10.0/file/d-biehl.robotcode-0.10.0.vsix";
-      sha256 = "sha256-gxE5rjTaoICJwQBry66bnsGzlCxB3uItdDKTpx1GKQY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.10.1/file/d-biehl.robotcode-0.10.1.vsix";
+      sha256 = "sha256-msCvcvuJ2U8HxGnmgbAjdm9n5R8fgFQ1U3OyH0HRpkU=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -10911,10 +10911,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.69";
+    version = "0.0.70";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.69/file/leanprover.lean4-0.0.69.vsix";
-      sha256 = "sha256-Znj78imRMxwUgPU8vqhanDzXmLlabVUh3lz6nD2/tEg=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.70/file/leanprover.lean4-0.0.70.vsix";
+      sha256 = "sha256-CSq9EjtxjZsOL1f8FxtOnrmVu4Mg8wKqbTf1x9dHklU=";
     };
     name = "lean4";
     license = "Apache-2.0";
