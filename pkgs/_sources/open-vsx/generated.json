@@ -2403,7 +2403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tachish-webview-test",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "passthru": {
       "name": "webview-test",
       "license": "MIT",
@@ -2411,10 +2411,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/tachish/webview-test/0.0.3/file/tachish.webview-test-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/tachish/webview-test/0.0.4/file/tachish.webview-test-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zzFQH7qPbjrbNMx7Q1X5Fd+hhq9llQiNed1W/G1HR6w="
+      "sha256": "sha256-JiD+NN53TtYM2U62XulNGpmOOeo7px/8TzX5Ii9ecEU="
     },
     "extract": null,
     "rustGitDeps": null
