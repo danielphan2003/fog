@@ -1026,9 +1026,9 @@
   },
   "ouch": {
     "pinned": false,
-    "cargoLock": "./ouch-d68346eba822bf5317341c67288f987b1ea4a8c1/Cargo.lock",
+    "cargoLock": "./ouch-35481bdb4d8120991cbf95dfea68f8b4373d9bd5/Cargo.lock",
     "name": "ouch",
-    "version": "d68346eba822bf5317341c67288f987b1ea4a8c1",
+    "version": "35481bdb4d8120991cbf95dfea68f8b4373d9bd5",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1038,8 +1038,8 @@
       "name": null,
       "repo": "ouch",
       "type": "github",
-      "sha256": "sha256-N4kPwSOnlWy+vvXgfc3NpCZL0Nh74jYUq2rnv5A3ojo=",
-      "rev": "d68346eba822bf5317341c67288f987b1ea4a8c1"
+      "sha256": "sha256-vlpOEeE/mTOSAFEzOj/z/JzdJhdz0GYZ3/GdkjdukOw=",
+      "rev": "35481bdb4d8120991cbf95dfea68f8b4373d9bd5"
     },
     "extract": null,
     "rustGitDeps": {}
