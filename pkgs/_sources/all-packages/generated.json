@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "01eb2aa9a847ecdc6c5b804632ebad5d56d5d2d1",
+    "version": "dfe584aee4fcbaebdc011c05aca1adf5cf4e1c2a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-7o2lRK0W7/qzpWj7P6SvnWJLMmNx6Ag3Z4gp4JH9nsk=",
-      "rev": "01eb2aa9a847ecdc6c5b804632ebad5d56d5d2d1"
+      "sha256": "sha256-0Nc8vK/uGo+gl5LoH1ebh9Dq+XQXu7uIH77610i/0UY=",
+      "rev": "dfe584aee4fcbaebdc011c05aca1adf5cf4e1c2a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.5987",
+    "version": "1.0.5988",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5987-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.5988-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-katz0GHMiYz/wGC1Tw3mwdKD42+CduetI3PvL/FgKmE="
+      "sha256": "sha256-voBt4UZMSrfxWUM0HnScdissOTFeHk0EOEszWY2gxsk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.5987",
+    "version": "1.0.5988",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5987.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.5988.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HAqCXyRCr5mxXURp+9waM9/dDNTAViE7BAx6th3EXgM="
+      "sha256": "sha256-UxDZzRQwGiqqDmu5ANc5tlAvbZ/vdfDRtHyh/S++wIE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1568,7 +1568,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "c63790a9b7ffc5f529bdc368fb7056dcff233ae6",
+    "version": "761ab44ca4d5b4b06b4937f11897b29a6f3c30bc",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1578,8 +1578,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-oHoLjnQj3h1YsFIoq3c6vTDthr+B1cKaodrejR/Js9I=",
-      "rev": "c63790a9b7ffc5f529bdc368fb7056dcff233ae6"
+      "sha256": "sha256-0xQ+Uz1dKLobJgw4RS/lK59krf67QYVd1SkdHnXAkoU=",
+      "rev": "761ab44ca4d5b4b06b4937f11897b29a6f3c30bc"
     },
     "extract": null,
     "rustGitDeps": null
