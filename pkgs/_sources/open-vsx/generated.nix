@@ -123,10 +123,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.1.0/file/AvengaGermanyGmbH.couper-1.1.0.vsix";
-      sha256 = "sha256-TJTOLDwvJE7yyEGHfvohR/OVyCKUhJnL60bo+YfMxUQ=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.2.0/file/AvengaGermanyGmbH.couper-1.2.0.vsix";
+      sha256 = "sha256-+ox42HUz8grq7JGyRbM262w8tNVNrRrIum9fHtmK4yI=";
     };
     name = "couper";
     license = "MIT";
@@ -14115,10 +14115,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.31.1";
+    version = "1.31.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.31.1/file/qcz.text-power-tools-1.31.1.vsix";
-      sha256 = "sha256-PkSCcdRbWSHsuaqv+djgQRqvmP4htDpNFEJgH4G1SU0=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.31.2/file/qcz.text-power-tools-1.31.2.vsix";
+      sha256 = "sha256-ad9fvEmBszDfbmM094mU7Dk9epoSXxazIWlOn/pZBv0=";
     };
     name = "text-power-tools";
     license = "MIT";
