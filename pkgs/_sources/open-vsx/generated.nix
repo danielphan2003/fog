@@ -11835,10 +11835,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.4";
+    version = "2.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.4/file/mintlify.document-2.1.4.vsix";
-      sha256 = "sha256-uNxp4Y08+lTWUoB8FQM9lKKRny5FvWWLtaC5bBhEm7M=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.5/file/mintlify.document-2.1.5.vsix";
+      sha256 = "sha256-COq38cbzXDAtul/+teS31s2rNqYQOpRDsX2QNl/riQ4=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -14547,10 +14547,10 @@
   };
   redhat-vscode-microprofile = {
     pname = "redhat-vscode-microprofile";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-microprofile/0.3.0/file/redhat.vscode-microprofile-0.3.0.vsix";
-      sha256 = "sha256-qEuVCkzAS+k2G2TrNr1oEpN1alvjto8UdsKlCmR6E30=";
+      url = "https://open-vsx.org/api/redhat/vscode-microprofile/0.4.0/file/redhat.vscode-microprofile-0.4.0.vsix";
+      sha256 = "sha256-eoBXzJHA0fyYrAjanDdZM3K1UGCxbBvrccmWMVNUBSE=";
     };
     name = "vscode-microprofile";
     license = "Apache-2.0";
@@ -14571,10 +14571,10 @@
   };
   redhat-vscode-quarkus = {
     pname = "redhat-vscode-quarkus";
-    version = "1.9.0";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-quarkus/1.9.0/file/redhat.vscode-quarkus-1.9.0.vsix";
-      sha256 = "sha256-44N9jS3woThZRuT7b6ZZ8mpmOItpHe2JCIQHDpwjneg=";
+      url = "https://open-vsx.org/api/redhat/vscode-quarkus/1.10.0/file/redhat.vscode-quarkus-1.10.0.vsix";
+      sha256 = "sha256-W37vCMDhfOtF0TnFTpphHQLnconYOymZDV8qC5m5NDk=";
     };
     name = "vscode-quarkus";
     license = "Apache-2.0";
