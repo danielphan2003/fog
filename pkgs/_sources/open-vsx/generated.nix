@@ -16515,10 +16515,10 @@
   };
   tachish-webview-test = {
     pname = "tachish-webview-test";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tachish/webview-test/0.0.3/file/tachish.webview-test-0.0.3.vsix";
-      sha256 = "sha256-zzFQH7qPbjrbNMx7Q1X5Fd+hhq9llQiNed1W/G1HR6w=";
+      url = "https://open-vsx.org/api/tachish/webview-test/0.0.4/file/tachish.webview-test-0.0.4.vsix";
+      sha256 = "sha256-JiD+NN53TtYM2U62XulNGpmOOeo7px/8TzX5Ii9ecEU=";
     };
     name = "webview-test";
     license = "MIT";
