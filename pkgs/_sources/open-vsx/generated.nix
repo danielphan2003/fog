@@ -17259,10 +17259,10 @@
   };
   unoplatform-vscode = {
     pname = "unoplatform-vscode";
-    version = "0.3.0";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unoplatform/vscode/0.3.0/file/unoplatform.vscode-0.3.0.vsix";
-      sha256 = "sha256-mJcO5/P+61MB90CA79wByqDQtfhwJCfZp9Hdt8fVBSg=";
+      url = "https://open-vsx.org/api/unoplatform/vscode/0.3.2/file/unoplatform.vscode-0.3.2.vsix";
+      sha256 = "sha256-BX4mGU0B1yLjOY72dUTZtcUAqAsKxRTYbGyyaTBlz50=";
     };
     name = "vscode";
     license = "";

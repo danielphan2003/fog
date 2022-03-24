@@ -29343,7 +29343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "unoplatform-vscode",
-    "version": "0.3.0",
+    "version": "0.3.2",
     "passthru": {
       "name": "vscode",
       "license": "",
@@ -29351,10 +29351,10 @@
       "description": "Uno Platform Projects XAML Completion and Hot Reload support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/unoplatform/vscode/0.3.0/file/unoplatform.vscode-0.3.0.vsix",
+      "url": "https://open-vsx.org/api/unoplatform/vscode/0.3.2/file/unoplatform.vscode-0.3.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mJcO5/P+61MB90CA79wByqDQtfhwJCfZp9Hdt8fVBSg="
+      "sha256": "sha256-BX4mGU0B1yLjOY72dUTZtcUAqAsKxRTYbGyyaTBlz50="
     },
     "extract": null,
     "rustGitDeps": null
