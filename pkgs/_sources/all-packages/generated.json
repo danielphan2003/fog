@@ -1133,7 +1133,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xorgproto",
-    "version": "914d8f5e0f469cd0416364dd008e9eea752bf703",
+    "version": "a839f0c7fc5596d10e786394d3b0953eb8a1731b",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1143,8 +1143,8 @@
       "name": null,
       "repo": "xorg-xorgproto",
       "type": "github",
-      "sha256": "sha256-XJtYZYbmwCrkbB7a533kkI/CcawkmHHSEu4zSznVvEY=",
-      "rev": "914d8f5e0f469cd0416364dd008e9eea752bf703"
+      "sha256": "sha256-A124qAEAkJdifqgFBnNcuhF5DHzYaxSLIOhiFOwFL+I=",
+      "rev": "a839f0c7fc5596d10e786394d3b0953eb8a1731b"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1682,7 +1682,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "06fcf3b22565b1f6eeefd7e2fe407ebf44837f03",
+    "version": "8294915780797bcff07cdf531554e0c973fb4aab",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1692,8 +1692,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-8maEhcS+QC4pk+TLWC0yj7T6XNHEieDNQ/GXKRkEVDA=",
-      "rev": "06fcf3b22565b1f6eeefd7e2fe407ebf44837f03"
+      "sha256": "sha256-rSkcAASswZC+NhXrHD154IQ3Is1gJBPJWtFIVyQG+jE=",
+      "rev": "8294915780797bcff07cdf531554e0c973fb4aab"
     },
     "extract": null,
     "rustGitDeps": null
