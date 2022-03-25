@@ -987,10 +987,10 @@
   };
   F5DevCentral-vscode-f5-chariot = {
     pname = "F5DevCentral-vscode-f5-chariot";
-    version = "1.18.0";
+    version = "1.19.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.18.0/file/F5DevCentral.vscode-f5-chariot-1.18.0.vsix";
-      sha256 = "sha256-EI1qW/AEfWjq4abt02ahWs9hl+4ZzMdQKB9wN+jZGcI=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.2/file/F5DevCentral.vscode-f5-chariot-1.19.2.vsix";
+      sha256 = "sha256-gqr7Riwv4d0gL18hHwn9x0EV2VacLMFfDDKb2ps7Yrw=";
     };
     name = "vscode-f5-chariot";
     license = "Apache-2.0";
@@ -15000,6 +15000,18 @@
     license = "MIT";
     publisher = "runthoser";
     description = "VS Code extension to run remote Prolin Emulator";
+  };
+  runthoser-vscode-web-extension-emulator = {
+    pname = "runthoser-vscode-web-extension-emulator";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/runthoser/vscode-web-extension-emulator/0.0.2/file/runthoser.vscode-web-extension-emulator-0.0.2.vsix";
+      sha256 = "sha256-OuzsrxwlO1y0ZkgCV1upxo76vi9NgLF/e2bJ5tdQlRw=";
+    };
+    name = "vscode-web-extension-emulator";
+    license = "MIT";
+    publisher = "runthoser";
+    description = "web extension demo";
   };
   ruscur-power-asm = {
     pname = "ruscur-power-asm";

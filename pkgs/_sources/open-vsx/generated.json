@@ -10623,7 +10623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "F5DevCentral-vscode-f5-chariot",
-    "version": "1.18.0",
+    "version": "1.19.2",
     "passthru": {
       "name": "vscode-f5-chariot",
       "license": "Apache-2.0",
@@ -10631,10 +10631,10 @@
       "description": "(ACC) AS3 Configuration Converter integration"
     },
     "src": {
-      "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.18.0/file/F5DevCentral.vscode-f5-chariot-1.18.0.vsix",
+      "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.2/file/F5DevCentral.vscode-f5-chariot-1.19.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EI1qW/AEfWjq4abt02ahWs9hl+4ZzMdQKB9wN+jZGcI="
+      "sha256": "sha256-gqr7Riwv4d0gL18hHwn9x0EV2VacLMFfDDKb2ps7Yrw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29075,6 +29075,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-puNiom1SaZW3sEYkL7IFtNdNNxUps8AkEmzuDbTXLV0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "runthoser-vscode-web-extension-emulator": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "runthoser-vscode-web-extension-emulator",
+    "version": "0.0.2",
+    "passthru": {
+      "name": "vscode-web-extension-emulator",
+      "license": "MIT",
+      "publisher": "runthoser",
+      "description": "web extension demo"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/runthoser/vscode-web-extension-emulator/0.0.2/file/runthoser.vscode-web-extension-emulator-0.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-OuzsrxwlO1y0ZkgCV1upxo76vi9NgLF/e2bJ5tdQlRw="
     },
     "extract": null,
     "rustGitDeps": null
