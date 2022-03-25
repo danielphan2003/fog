@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "06fcf3b22565b1f6eeefd7e2fe407ebf44837f03";
+    version = "8294915780797bcff07cdf531554e0c973fb4aab";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "06fcf3b22565b1f6eeefd7e2fe407ebf44837f03";
+      rev = "8294915780797bcff07cdf531554e0c973fb4aab";
       fetchSubmodules = false;
-      sha256 = "sha256-8maEhcS+QC4pk+TLWC0yj7T6XNHEieDNQ/GXKRkEVDA=";
+      sha256 = "sha256-rSkcAASswZC+NhXrHD154IQ3Is1gJBPJWtFIVyQG+jE=";
     });
   };
   tailscale-systray = {
@@ -1182,13 +1182,13 @@
   };
   xorgproto = {
     pname = "xorgproto";
-    version = "914d8f5e0f469cd0416364dd008e9eea752bf703";
+    version = "a839f0c7fc5596d10e786394d3b0953eb8a1731b";
     src = fetchFromGitHub ({
       owner = "freedesktop";
       repo = "xorg-xorgproto";
-      rev = "914d8f5e0f469cd0416364dd008e9eea752bf703";
+      rev = "a839f0c7fc5596d10e786394d3b0953eb8a1731b";
       fetchSubmodules = false;
-      sha256 = "sha256-XJtYZYbmwCrkbB7a533kkI/CcawkmHHSEu4zSznVvEY=";
+      sha256 = "sha256-A124qAEAkJdifqgFBnNcuhF5DHzYaxSLIOhiFOwFL+I=";
     });
   };
   xwayland = {
