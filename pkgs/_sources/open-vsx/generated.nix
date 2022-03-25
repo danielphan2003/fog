@@ -2211,10 +2211,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.16.0";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.16.0/file/Marko-JS.marko-vscode-0.16.0.vsix";
-      sha256 = "sha256-4PdvvvUJmT2X0/L2M7ehwI7BruoYjgusv9Lx0JpaTqk=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.0/file/Marko-JS.marko-vscode-0.17.0.vsix";
+      sha256 = "sha256-sJQIgtY0rNocRoS5r0XBT1FJ34hP6eKs36Y/9jBVzkg=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -5367,10 +5367,10 @@
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
-    version = "0.1.10";
+    version = "0.1.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.10/file/bmcsoftware.job-as-code-0.1.10.vsix";
-      sha256 = "sha256-wmmc6v04vjQc5FZuvapxfU68j0OvtvgyMx0fT5T5Hl0=";
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.11/file/bmcsoftware.job-as-code-0.1.11.vsix";
+      sha256 = "sha256-WyYrN9ktCOk1r2N0OMX+G3CXTjjqI0170XHTyy7PXXQ=";
     };
     name = "job-as-code";
     license = "BSD-3-Clause";
@@ -14151,10 +14151,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.3.0/file/quick-lint.quick-lint-js-2.3.0.vsix";
-      sha256 = "sha256-txJ7SWzNxUCwirZSWwgqNy7To6QegAHFtSdZ6wSajz0=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.3.1/file/quick-lint.quick-lint-js-2.3.1.vsix";
+      sha256 = "sha256-aNERhpta4qtqXQJXIvFv3bA03+37S2kYmEBWyJqLm0Q=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";
