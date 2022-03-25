@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2320";
+    version = "2022.3.2421";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2320/file/Slint.slint-nightly-2022.3.2320.vsix";
-      sha256 = "sha256-k16UbtRKGd5zz4Vu4UjUloI7+K9SuRoFxQeGxLzXJS4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2421/file/Slint.slint-nightly-2022.3.2421.vsix";
+      sha256 = "sha256-GGaWMVHdTy6gkHUtmS7YncE6VxzB7ihH8t1fEkPEEc0=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8715,10 +8715,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.2.5";
+    version = "1.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.5/file/halcyontechltd.code-for-ibmi-1.2.5.vsix";
-      sha256 = "sha256-tVmSJeVST2nuSb27SUaPffBkMs7lYy35smAEuRzFcHY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.6/file/halcyontechltd.code-for-ibmi-1.2.6.vsix";
+      sha256 = "sha256-GgPLjnXenffEG245uEOGPqGWfL5jVSg0BgGVC5rjznY=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -13215,10 +13215,10 @@
   };
   oguhpereira-spotify-color-theme = {
     pname = "oguhpereira-spotify-color-theme";
-    version = "1.2.9";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oguhpereira/spotify-color-theme/1.2.9/file/oguhpereira.spotify-color-theme-1.2.9.vsix";
-      sha256 = "sha256-55/o0Uu3f3TmaiRPmr99kAlug0n7YFWVglI/79lmQaI=";
+      url = "https://open-vsx.org/api/oguhpereira/spotify-color-theme/1.3.0/file/oguhpereira.spotify-color-theme-1.3.0.vsix";
+      sha256 = "sha256-h9benC3LgRmwFBk1N7ClkJYKMsX+KRw4ZAGvDn4P5oE=";
     };
     name = "spotify-color-theme";
     license = "MIT";
@@ -16779,10 +16779,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.18.9";
+    version = "0.18.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.9/file/timonwong.shellcheck-0.18.9.vsix";
-      sha256 = "sha256-D7lRMmmDgAHKPVyZMC06zNef8UtrgNEE+m0mTbIuc1A=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.10/file/timonwong.shellcheck-0.18.10.vsix";
+      sha256 = "sha256-PswnokASy4SWtOV0OII6oYY4eaUHALxZLj/XHDvNFj0=";
     };
     name = "shellcheck";
     license = "MIT";

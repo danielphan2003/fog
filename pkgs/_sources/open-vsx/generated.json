@@ -6023,7 +6023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oguhpereira-spotify-color-theme",
-    "version": "1.2.9",
+    "version": "1.3.0",
     "passthru": {
       "name": "spotify-color-theme",
       "license": "MIT",
@@ -6031,10 +6031,10 @@
       "description": "Theme for vscode inspired by the colors of Spotify"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oguhpereira/spotify-color-theme/1.2.9/file/oguhpereira.spotify-color-theme-1.2.9.vsix",
+      "url": "https://open-vsx.org/api/oguhpereira/spotify-color-theme/1.3.0/file/oguhpereira.spotify-color-theme-1.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-55/o0Uu3f3TmaiRPmr99kAlug0n7YFWVglI/79lmQaI="
+      "sha256": "sha256-h9benC3LgRmwFBk1N7ClkJYKMsX+KRw4ZAGvDn4P5oE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14683,7 +14683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.2320",
+    "version": "2022.3.2421",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14691,10 +14691,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2320/file/Slint.slint-nightly-2022.3.2320.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2421/file/Slint.slint-nightly-2022.3.2421.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k16UbtRKGd5zz4Vu4UjUloI7+K9SuRoFxQeGxLzXJS4="
+      "sha256": "sha256-GGaWMVHdTy6gkHUtmS7YncE6VxzB7ihH8t1fEkPEEc0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16183,7 +16183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.2.5",
+    "version": "1.2.6",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -16191,10 +16191,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.5/file/halcyontechltd.code-for-ibmi-1.2.5.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.6/file/halcyontechltd.code-for-ibmi-1.2.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tVmSJeVST2nuSb27SUaPffBkMs7lYy35smAEuRzFcHY="
+      "sha256": "sha256-GgPLjnXenffEG245uEOGPqGWfL5jVSg0BgGVC5rjznY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24303,7 +24303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "timonwong-shellcheck",
-    "version": "0.18.9",
+    "version": "0.18.10",
     "passthru": {
       "name": "shellcheck",
       "license": "MIT",
@@ -24311,10 +24311,10 @@
       "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts."
     },
     "src": {
-      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.9/file/timonwong.shellcheck-0.18.9.vsix",
+      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.18.10/file/timonwong.shellcheck-0.18.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-D7lRMmmDgAHKPVyZMC06zNef8UtrgNEE+m0mTbIuc1A="
+      "sha256": "sha256-PswnokASy4SWtOV0OII6oYY4eaUHALxZLj/XHDvNFj0="
     },
     "extract": null,
     "rustGitDeps": null
