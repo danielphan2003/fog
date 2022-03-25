@@ -29083,18 +29083,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmcsoftware-job-as-code",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "passthru": {
       "name": "job-as-code",
       "license": "BSD-3-Clause",
       "publisher": "bmcsoftware",
-      "description": "All snippets you need for Control-M Workflow development"
+      "description": "All snippets and tools you need for Control-M Workflow development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.8/file/bmcsoftware.job-as-code-0.1.8.vsix",
+      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.9/file/bmcsoftware.job-as-code-0.1.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-q4JS8BHy4WrCoHBYXrd/1Ki3UDa617JzAKmtIn82nfU="
+      "sha256": "sha256-AfG9SvtOxt3mHAoCpbClWTYfJs7Zcv1hyZnkqPGjmbU="
     },
     "extract": null,
     "rustGitDeps": null

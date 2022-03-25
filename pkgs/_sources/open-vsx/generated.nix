@@ -5367,15 +5367,15 @@
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
-    version = "0.1.8";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.8/file/bmcsoftware.job-as-code-0.1.8.vsix";
-      sha256 = "sha256-q4JS8BHy4WrCoHBYXrd/1Ki3UDa617JzAKmtIn82nfU=";
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.9/file/bmcsoftware.job-as-code-0.1.9.vsix";
+      sha256 = "sha256-AfG9SvtOxt3mHAoCpbClWTYfJs7Zcv1hyZnkqPGjmbU=";
     };
     name = "job-as-code";
     license = "BSD-3-Clause";
     publisher = "bmcsoftware";
-    description = "All snippets you need for Control-M Workflow development";
+    description = "All snippets and tools you need for Control-M Workflow development";
   };
   bmd-stm32-for-vscode = {
     pname = "bmd-stm32-for-vscode";
