@@ -23143,7 +23143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "luma-jupyter",
-    "version": "2022.3.101",
+    "version": "2022.3.102",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -23151,10 +23151,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.101/file/luma.jupyter-2022.3.101.vsix",
+      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.102/file/luma.jupyter-2022.3.102.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3uDWNFw9b6+y/kXu0NqUrV/wEuzJ3WXa42zDNTm9cX4="
+      "sha256": "sha256-9gUAxCuWp+XWwA7cdNND7PNh9V0AUMbsgKeTlKXIAyE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30523,7 +30523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.257",
+    "version": "2.0.258",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -30531,10 +30531,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.257/file/betterthantomorrow.calva-2.0.257.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.258/file/betterthantomorrow.calva-2.0.258.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ip3HMVMRE3Cpb4cqfG+qnW8CFGGf70DQ2GV2wbAYQwE="
+      "sha256": "sha256-HeMoaqjLVF61ETvnK2yGkRcZ/0tmzgF8fE5kcY+yo/Y="
     },
     "extract": null,
     "rustGitDeps": null

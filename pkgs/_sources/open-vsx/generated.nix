@@ -5271,10 +5271,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.257";
+    version = "2.0.258";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.257/file/betterthantomorrow.calva-2.0.257.vsix";
-      sha256 = "sha256-ip3HMVMRE3Cpb4cqfG+qnW8CFGGf70DQ2GV2wbAYQwE=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.258/file/betterthantomorrow.calva-2.0.258.vsix";
+      sha256 = "sha256-HeMoaqjLVF61ETvnK2yGkRcZ/0tmzgF8fE5kcY+yo/Y=";
     };
     name = "calva";
     license = "MIT";
@@ -11151,10 +11151,10 @@
   };
   luma-jupyter = {
     pname = "luma-jupyter";
-    version = "2022.3.101";
+    version = "2022.3.102";
     src = fetchurl {
-      url = "https://open-vsx.org/api/luma/jupyter/2022.3.101/file/luma.jupyter-2022.3.101.vsix";
-      sha256 = "sha256-3uDWNFw9b6+y/kXu0NqUrV/wEuzJ3WXa42zDNTm9cX4=";
+      url = "https://open-vsx.org/api/luma/jupyter/2022.3.102/file/luma.jupyter-2022.3.102.vsix";
+      sha256 = "sha256-9gUAxCuWp+XWwA7cdNND7PNh9V0AUMbsgKeTlKXIAyE=";
     };
     name = "jupyter";
     license = "MIT";
