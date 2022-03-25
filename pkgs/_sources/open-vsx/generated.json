@@ -13623,7 +13623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jamestiotio-compstruct-vscode",
-    "version": "0.2.9",
+    "version": "0.2.10",
     "passthru": {
       "name": "compstruct-vscode",
       "license": "MIT",
@@ -13631,10 +13631,10 @@
       "description": "VSCode Extension for Computation Structures Courseware (jsim, tmsim, bsim)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.9/file/jamestiotio.compstruct-vscode-0.2.9.vsix",
+      "url": "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.10/file/jamestiotio.compstruct-vscode-0.2.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LaowDWEOKk99hluyCarE6kLzJryU9Xko/t91qtsWjR4="
+      "sha256": "sha256-XN2a5kbELF4oSdF7JflhcIGSISGxI+IZTKclD4qpvEc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23643,7 +23643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nocalhost-nocalhost",
-    "version": "0.6.15",
+    "version": "0.6.16",
     "passthru": {
       "name": "nocalhost",
       "license": "Apache-2.0",
@@ -23651,10 +23651,10 @@
       "description": "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.15/file/nocalhost.nocalhost-0.6.15.vsix",
+      "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.16/file/nocalhost.nocalhost-0.6.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-c5t/ZNFi1pFbt4FU9EYLjuSWG1xh1HKN64FjOb32JFo="
+      "sha256": "sha256-OT8q/vv1WGN1q4MgLj5vTOEpP+n9A56WEhAVB3zD51Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29083,7 +29083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmcsoftware-job-as-code",
-    "version": "0.1.9",
+    "version": "0.1.10",
     "passthru": {
       "name": "job-as-code",
       "license": "BSD-3-Clause",
@@ -29091,10 +29091,10 @@
       "description": "All snippets and tools you need for Control-M Workflow development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.9/file/bmcsoftware.job-as-code-0.1.9.vsix",
+      "url": "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.10/file/bmcsoftware.job-as-code-0.1.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AfG9SvtOxt3mHAoCpbClWTYfJs7Zcv1hyZnkqPGjmbU="
+      "sha256": "sha256-wmmc6v04vjQc5FZuvapxfU68j0OvtvgyMx0fT5T5Hl0="
     },
     "extract": null,
     "rustGitDeps": null

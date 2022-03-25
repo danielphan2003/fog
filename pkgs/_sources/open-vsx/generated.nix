@@ -5367,10 +5367,10 @@
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
-    version = "0.1.9";
+    version = "0.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.9/file/bmcsoftware.job-as-code-0.1.9.vsix";
-      sha256 = "sha256-AfG9SvtOxt3mHAoCpbClWTYfJs7Zcv1hyZnkqPGjmbU=";
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.10/file/bmcsoftware.job-as-code-0.1.10.vsix";
+      sha256 = "sha256-wmmc6v04vjQc5FZuvapxfU68j0OvtvgyMx0fT5T5Hl0=";
     };
     name = "job-as-code";
     license = "BSD-3-Clause";
@@ -9675,10 +9675,10 @@
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
-    version = "0.2.9";
+    version = "0.2.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.9/file/jamestiotio.compstruct-vscode-0.2.9.vsix";
-      sha256 = "sha256-LaowDWEOKk99hluyCarE6kLzJryU9Xko/t91qtsWjR4=";
+      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.10/file/jamestiotio.compstruct-vscode-0.2.10.vsix";
+      sha256 = "sha256-XN2a5kbELF4oSdF7JflhcIGSISGxI+IZTKclD4qpvEc=";
     };
     name = "compstruct-vscode";
     license = "MIT";
@@ -13047,10 +13047,10 @@
   };
   nocalhost-nocalhost = {
     pname = "nocalhost-nocalhost";
-    version = "0.6.15";
+    version = "0.6.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.15/file/nocalhost.nocalhost-0.6.15.vsix";
-      sha256 = "sha256-c5t/ZNFi1pFbt4FU9EYLjuSWG1xh1HKN64FjOb32JFo=";
+      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.16/file/nocalhost.nocalhost-0.6.16.vsix";
+      sha256 = "sha256-OT8q/vv1WGN1q4MgLj5vTOEpP+n9A56WEhAVB3zD51Y=";
     };
     name = "nocalhost";
     license = "Apache-2.0";
