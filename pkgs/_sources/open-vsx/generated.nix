@@ -14041,6 +14041,18 @@
     publisher = "projektanker";
     description = "Code Butler for C# files to clean up your code.";
   };
+  pshershov-blueberry-banana = {
+    pname = "pshershov-blueberry-banana";
+    version = "0.1.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pshershov/blueberry-banana/0.1.6/file/pshershov.blueberry-banana-0.1.6.vsix";
+      sha256 = "sha256-9gsvB0rTCaxMcaRkxSwd/m7fIVLhL6Yj3d+KIRvpm1w=";
+    };
+    name = "blueberry-banana";
+    license = "MIT";
+    publisher = "pshershov";
+    description = "Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling";
+  };
   psudo-dev-nebula-oni-theme = {
     pname = "psudo-dev-nebula-oni-theme";
     version = "1.4.0";

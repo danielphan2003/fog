@@ -7779,6 +7779,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "pshershov-blueberry-banana": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "pshershov-blueberry-banana",
+    "version": "0.1.6",
+    "passthru": {
+      "name": "blueberry-banana",
+      "license": "MIT",
+      "publisher": "pshershov",
+      "description": "Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/pshershov/blueberry-banana/0.1.6/file/pshershov.blueberry-banana-0.1.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-9gsvB0rTCaxMcaRkxSwd/m7fIVLhL6Yj3d+KIRvpm1w="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Daimler-sechub": {
     "pinned": false,
     "cargoLock": null,
