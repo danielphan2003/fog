@@ -11895,10 +11895,10 @@
   };
   mkhl-direnv = {
     pname = "mkhl-direnv";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mkhl/direnv/0.6.0/file/mkhl.direnv-0.6.0.vsix";
-      sha256 = "sha256-Z+QQSmG5fiDSQVcv8J80WihCwP2Re/yM8f8XzPhpjd4=";
+      url = "https://open-vsx.org/api/mkhl/direnv/0.6.1/file/mkhl.direnv-0.6.1.vsix";
+      sha256 = "sha256-5/Tqpn/7byl+z2ATflgKV1+rhdqj+XMEZNbGwDmGwLQ=";
     };
     name = "direnv";
     license = "0BSD";
@@ -14988,6 +14988,18 @@
     license = "MIT";
     publisher = "runem";
     description = "Syntax highlighting, type checking and code completion for lit-html";
+  };
+  runthoser-prolinemulator = {
+    pname = "runthoser-prolinemulator";
+    version = "0.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/runthoser/prolinemulator/0.0.6/file/runthoser.prolinemulator-0.0.6.vsix";
+      sha256 = "sha256-ojWnFMt+7erU5nfmKZU1aHB9lYx6EpQU2mJgdsqCow8=";
+    };
+    name = "prolinemulator";
+    license = "MIT";
+    publisher = "runthoser";
+    description = "VS Code extension to run remote Prolin Emulator";
   };
   ruscur-power-asm = {
     pname = "ruscur-power-asm";
