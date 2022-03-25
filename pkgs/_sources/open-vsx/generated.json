@@ -16299,6 +16299,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "runthoser-prolinemulator": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "runthoser-prolinemulator",
+    "version": "0.0.6",
+    "passthru": {
+      "name": "prolinemulator",
+      "license": "MIT",
+      "publisher": "runthoser",
+      "description": "VS Code extension to run remote Prolin Emulator"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/runthoser/prolinemulator/0.0.6/file/runthoser.prolinemulator-0.0.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ojWnFMt+7erU5nfmKZU1aHB9lYx6EpQU2mJgdsqCow8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "MehediDracula-php-namespace-resolver": {
     "pinned": false,
     "cargoLock": null,
@@ -22683,7 +22703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mkhl-direnv",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "passthru": {
       "name": "direnv",
       "license": "0BSD",
@@ -22691,10 +22711,10 @@
       "description": "unclutter your .profile"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mkhl/direnv/0.6.0/file/mkhl.direnv-0.6.0.vsix",
+      "url": "https://open-vsx.org/api/mkhl/direnv/0.6.1/file/mkhl.direnv-0.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Z+QQSmG5fiDSQVcv8J80WihCwP2Re/yM8f8XzPhpjd4="
+      "sha256": "sha256-5/Tqpn/7byl+z2ATflgKV1+rhdqj+XMEZNbGwDmGwLQ="
     },
     "extract": null,
     "rustGitDeps": null
