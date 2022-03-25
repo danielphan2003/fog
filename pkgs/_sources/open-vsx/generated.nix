@@ -2211,10 +2211,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.1";
+    version = "0.17.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.1/file/Marko-JS.marko-vscode-0.17.1.vsix";
-      sha256 = "sha256-WyXae87yAagN+5AQTNPGDqseNf3y5Nc0lWkUE0d/kco=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.3/file/Marko-JS.marko-vscode-0.17.3.vsix";
+      sha256 = "sha256-fRFBK2JRJ8WxtOn0PlTFAmH12pMzLVWOlwV5Vi6ikvI=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -5367,10 +5367,10 @@
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
-    version = "0.1.11";
+    version = "0.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.11/file/bmcsoftware.job-as-code-0.1.11.vsix";
-      sha256 = "sha256-WyYrN9ktCOk1r2N0OMX+G3CXTjjqI0170XHTyy7PXXQ=";
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.12/file/bmcsoftware.job-as-code-0.1.12.vsix";
+      sha256 = "sha256-YjjhTkLhKDD65H9Z8G04hiNNOB3ouZ5fyJge6DcR9PM=";
     };
     name = "job-as-code";
     license = "BSD-3-Clause";
@@ -11703,10 +11703,10 @@
   };
   mesonbuild-mesonbuild = {
     pname = "mesonbuild-mesonbuild";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.0/file/mesonbuild.mesonbuild-1.5.0.vsix";
-      sha256 = "sha256-9ZX94Ld8h/fqozEC/CpY4Th3xz55t0K79eMEsOnjKrI=";
+      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.1/file/mesonbuild.mesonbuild-1.5.1.vsix";
+      sha256 = "sha256-ro33qELLQQGDCfr+xFioeEcJlaNsI8LFQJyIccI8GZA=";
     };
     name = "mesonbuild";
     license = "Apache-2.0";
@@ -15567,10 +15567,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.12";
+    version = "0.13.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.12/file/shufo.vscode-blade-formatter-0.13.12.vsix";
-      sha256 = "sha256-tJllgX2ZrvY9c/0bpp1LvnRBkgoZOwWZwcad8P4aKVU=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.13/file/shufo.vscode-blade-formatter-0.13.13.vsix";
+      sha256 = "sha256-AE3qwbWkkkEN/DIsWSMfWw21juL3hTQ7tcXlnmkQiv8=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -19023,10 +19023,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.17";
+    version = "0.5.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.17/file/wcrichton.flowistry-0.5.17.vsix";
-      sha256 = "sha256-u1jRE0nSrJQTE8932mYwTsi+cGeLe3yll7ynV7yl1lQ=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.18/file/wcrichton.flowistry-0.5.18.vsix";
+      sha256 = "sha256-VG85qoPHemNIVu1SQPyFAu13uq8nxjWSRAtgFzsLHRk=";
     };
     name = "flowistry";
     license = "MIT";
