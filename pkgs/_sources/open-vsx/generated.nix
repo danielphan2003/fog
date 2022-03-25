@@ -5367,10 +5367,10 @@
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
-    version = "0.1.12";
+    version = "0.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.12/file/bmcsoftware.job-as-code-0.1.12.vsix";
-      sha256 = "sha256-YjjhTkLhKDD65H9Z8G04hiNNOB3ouZ5fyJge6DcR9PM=";
+      url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.13/file/bmcsoftware.job-as-code-0.1.13.vsix";
+      sha256 = "sha256-cW10eMhROPXZdd0GZ8wB0y/IgX41DPKtrdsF9ha1YcQ=";
     };
     name = "job-as-code";
     license = "BSD-3-Clause";
@@ -15267,10 +15267,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.11.2";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.11.2/file/sasjs.sasjs-for-vscode-1.11.2.vsix";
-      sha256 = "sha256-DtCsVqhmN3A4wGTD0WnTLk4iq62NG884WGzAn2GpuX8=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.12.0/file/sasjs.sasjs-for-vscode-1.12.0.vsix";
+      sha256 = "sha256-7MhUrYoxRFMncQ0h0LZTRQl0Um1A5UtzW9mM7Xl3oXM=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
