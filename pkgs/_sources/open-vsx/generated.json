@@ -5023,7 +5023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tuttieee-emacs-mcx",
-    "version": "0.41.1",
+    "version": "0.41.2",
     "passthru": {
       "name": "emacs-mcx",
       "license": "MIT",
@@ -5031,10 +5031,10 @@
       "description": "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.1/file/tuttieee.emacs-mcx-0.41.1.vsix",
+      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.2/file/tuttieee.emacs-mcx-0.41.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1HbhNwqd6gs32pVIlBqFXzIi7EjgqFPvH0OKqxU2U9w="
+      "sha256": "sha256-WGKDQzCJlbxJsKk+RZ0/3ENZrUggPjSMjUOuRukGJCM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9283,7 +9283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.29.3",
+    "version": "2.29.4",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -9291,10 +9291,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.3/file/RokuCommunity.brightscript-2.29.3.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.4/file/RokuCommunity.brightscript-2.29.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fvY5nOOTl34kl/nhRB17jz9Y6JV2qq/mqGd3HjnBzd8="
+      "sha256": "sha256-RRLG21Po558k591BJJpcJ6Uez7pugTER43+YVTuweYI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10023,7 +10023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-explorer-for-endevor",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "passthru": {
       "name": "explorer-for-endevor",
       "license": "EPL-2.0",
@@ -10031,10 +10031,10 @@
       "description": "Explorer for Endevor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.1/file/BroadcomMFD.explorer-for-endevor-1.0.1.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.2/file/BroadcomMFD.explorer-for-endevor-1.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eNGqrrcGz0hED4gnX3Z8iz8yRjlKjeJ1PqgUdONw5DA="
+      "sha256": "sha256-70D3NjTeERtAn/HslCit6ImKeCIjpQYI7+fqMNMqwAA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17003,7 +17003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.0",
+    "version": "0.17.1",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -17011,10 +17011,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.0/file/Marko-JS.marko-vscode-0.17.0.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.1/file/Marko-JS.marko-vscode-0.17.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sJQIgtY0rNocRoS5r0XBT1FJ34hP6eKs36Y/9jBVzkg="
+      "sha256": "sha256-WyXae87yAagN+5AQTNPGDqseNf3y5Nc0lWkUE0d/kco="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30463,7 +30463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.6.6",
+    "version": "1.6.8",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -30471,10 +30471,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.6/file/julialang.language-julia-1.6.6.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.8/file/julialang.language-julia-1.6.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2MoEMYYnxJf1I/4TmDxHGAjf89guu95HI+5M/SMqX8A="
+      "sha256": "sha256-60AodQAZ+qcvj1PCoYeFjduNubi+7xvp6EFnzmGAXLw="
     },
     "extract": null,
     "rustGitDeps": null

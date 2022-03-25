@@ -315,10 +315,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.1/file/BroadcomMFD.explorer-for-endevor-1.0.1.vsix";
-      sha256 = "sha256-eNGqrrcGz0hED4gnX3Z8iz8yRjlKjeJ1PqgUdONw5DA=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.2/file/BroadcomMFD.explorer-for-endevor-1.0.2.vsix";
+      sha256 = "sha256-70D3NjTeERtAn/HslCit6ImKeCIjpQYI7+fqMNMqwAA=";
     };
     name = "explorer-for-endevor";
     license = "EPL-2.0";
@@ -2211,10 +2211,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.0";
+    version = "0.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.0/file/Marko-JS.marko-vscode-0.17.0.vsix";
-      sha256 = "sha256-sJQIgtY0rNocRoS5r0XBT1FJ34hP6eKs36Y/9jBVzkg=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.1/file/Marko-JS.marko-vscode-0.17.1.vsix";
+      sha256 = "sha256-WyXae87yAagN+5AQTNPGDqseNf3y5Nc0lWkUE0d/kco=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -2871,10 +2871,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.29.3";
+    version = "2.29.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.3/file/RokuCommunity.brightscript-2.29.3.vsix";
-      sha256 = "sha256-fvY5nOOTl34kl/nhRB17jz9Y6JV2qq/mqGd3HjnBzd8=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.4/file/RokuCommunity.brightscript-2.29.4.vsix";
+      sha256 = "sha256-RRLG21Po558k591BJJpcJ6Uez7pugTER43+YVTuweYI=";
     };
     name = "brightscript";
     license = "MIT";
@@ -10167,10 +10167,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.6";
+    version = "1.6.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.6/file/julialang.language-julia-1.6.6.vsix";
-      sha256 = "sha256-2MoEMYYnxJf1I/4TmDxHGAjf89guu95HI+5M/SMqX8A=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.8/file/julialang.language-julia-1.6.8.vsix";
+      sha256 = "sha256-60AodQAZ+qcvj1PCoYeFjduNubi+7xvp6EFnzmGAXLw=";
     };
     name = "language-julia";
     license = "MIT";
@@ -17163,10 +17163,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.41.1";
+    version = "0.41.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.1/file/tuttieee.emacs-mcx-0.41.1.vsix";
-      sha256 = "sha256-1HbhNwqd6gs32pVIlBqFXzIi7EjgqFPvH0OKqxU2U9w=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.2/file/tuttieee.emacs-mcx-0.41.2.vsix";
+      sha256 = "sha256-WGKDQzCJlbxJsKk+RZ0/3ENZrUggPjSMjUOuRukGJCM=";
     };
     name = "emacs-mcx";
     license = "MIT";
