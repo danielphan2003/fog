@@ -9831,10 +9831,10 @@
   };
   jerrygoyal-shortcut-menu-bar = {
     pname = "jerrygoyal-shortcut-menu-bar";
-    version = "3.0.3";
+    version = "3.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jerrygoyal/shortcut-menu-bar/3.0.3/file/jerrygoyal.shortcut-menu-bar-3.0.3.vsix";
-      sha256 = "sha256-7UEPF/nGzwBc+crG1ZUno2sNgFmYBcSr44zBvy9SGno=";
+      url = "https://open-vsx.org/api/jerrygoyal/shortcut-menu-bar/3.0.4/file/jerrygoyal.shortcut-menu-bar-3.0.4.vsix";
+      sha256 = "sha256-P5lTGopDGDvZ+QNpWGuJGGZfz110kzgWUtWybnHKfPQ=";
     };
     name = "shortcut-menu-bar";
     license = "GPL-3.0-or-later";
@@ -12759,10 +12759,10 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/2.1.0/file/mvllow.rose-pine-2.1.0.vsix";
-      sha256 = "sha256-9MKzdjCWe/CPg7KvCv1vdUtkjtKQX3kruYkTp4xTdeg=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.2.0/file/mvllow.rose-pine-2.2.0.vsix";
+      sha256 = "sha256-L/uCe7aqVKWXcmtLqdtGI2B0K3E/GrklgIQxa8LOb1o=";
     };
     name = "rose-pine";
     license = "MIT";
