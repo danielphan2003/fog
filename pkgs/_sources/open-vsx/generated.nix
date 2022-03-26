@@ -4611,10 +4611,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.2.2";
+    version = "5.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.2/file/anweber.vscode-httpyac-5.2.2.vsix";
-      sha256 = "sha256-CGM4C1iZvoob1O4+pAT28MRQXRWEiLFUx6nfOExTuS4=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.3/file/anweber.vscode-httpyac-5.2.3.vsix";
+      sha256 = "sha256-1MbFneNlEkacOLrJ6F/STu2qzIoq/0rEzR8+Z5i35Hw=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -12759,10 +12759,10 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/2.0.0/file/mvllow.rose-pine-2.0.0.vsix";
-      sha256 = "sha256-BhuNDBqbbN7RM7WQTuqqfMLOyki/9sAhtjctDGB0cQc=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.1.0/file/mvllow.rose-pine-2.1.0.vsix";
+      sha256 = "sha256-9MKzdjCWe/CPg7KvCv1vdUtkjtKQX3kruYkTp4xTdeg=";
     };
     name = "rose-pine";
     license = "MIT";
