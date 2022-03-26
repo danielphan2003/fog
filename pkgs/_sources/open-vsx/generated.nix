@@ -11163,10 +11163,10 @@
   };
   luma-jupyter = {
     pname = "luma-jupyter";
-    version = "2022.3.105";
+    version = "2022.3.108";
     src = fetchurl {
-      url = "https://open-vsx.org/api/luma/jupyter/2022.3.105/file/luma.jupyter-2022.3.105.vsix";
-      sha256 = "sha256-3hHhQReSkuWuoUrKSL0dlAUKXh/Xc3O49NbLOBgxtRI=";
+      url = "https://open-vsx.org/api/luma/jupyter/2022.3.108/file/luma.jupyter-2022.3.108.vsix";
+      sha256 = "sha256-rro+T6oWawtXVfR6FVUQ04Q/4KWUTFnfoHJ+3i0HG8s=";
     };
     name = "jupyter";
     license = "MIT";

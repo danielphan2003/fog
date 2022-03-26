@@ -23183,7 +23183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "luma-jupyter",
-    "version": "2022.3.105",
+    "version": "2022.3.108",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -23191,10 +23191,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.105/file/luma.jupyter-2022.3.105.vsix",
+      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.108/file/luma.jupyter-2022.3.108.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3hHhQReSkuWuoUrKSL0dlAUKXh/Xc3O49NbLOBgxtRI="
+      "sha256": "sha256-rro+T6oWawtXVfR6FVUQ04Q/4KWUTFnfoHJ+3i0HG8s="
     },
     "extract": null,
     "rustGitDeps": null
