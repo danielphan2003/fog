@@ -6435,10 +6435,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.10.1";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.10.1/file/d-biehl.robotcode-0.10.1.vsix";
-      sha256 = "sha256-msCvcvuJ2U8HxGnmgbAjdm9n5R8fgFQ1U3OyH0HRpkU=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.0/file/d-biehl.robotcode-0.11.0.vsix";
+      sha256 = "sha256-wBrLpz3mPq7Ve0me3GIINXYgbhjh3gueg+2gTwcIVwA=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -11005,6 +11005,18 @@
     publisher = "lgalabru";
     description = "LSP implementation for Blockstack's Clarity smart contracting language";
   };
+  lgarcin-vscode-pweave = {
+    pname = "lgarcin-vscode-pweave";
+    version = "0.3.8";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lgarcin/vscode-pweave/0.3.8/file/lgarcin.vscode-pweave-0.3.8.vsix";
+      sha256 = "sha256-xVYANu9MTuhLvyr7VJjWnxak7LYsO1Q/a7FKRqRfrFM=";
+    };
+    name = "vscode-pweave";
+    license = "GPL-2.0";
+    publisher = "lgarcin";
+    description = "Format pweave documents";
+  };
   liangcheng-plugins-open-sourcetree-in-vscode-plugin = {
     pname = "liangcheng-plugins-open-sourcetree-in-vscode-plugin";
     version = "2.0.0";
@@ -11151,10 +11163,10 @@
   };
   luma-jupyter = {
     pname = "luma-jupyter";
-    version = "2022.3.103";
+    version = "2022.3.105";
     src = fetchurl {
-      url = "https://open-vsx.org/api/luma/jupyter/2022.3.103/file/luma.jupyter-2022.3.103.vsix";
-      sha256 = "sha256-96eNWLzyxmFky06068dh74/z3kvYheQDbTuQXQLM0jw=";
+      url = "https://open-vsx.org/api/luma/jupyter/2022.3.105/file/luma.jupyter-2022.3.105.vsix";
+      sha256 = "sha256-3hHhQReSkuWuoUrKSL0dlAUKXh/Xc3O49NbLOBgxtRI=";
     };
     name = "jupyter";
     license = "MIT";
@@ -19776,6 +19788,18 @@
     license = "MIT";
     publisher = "zjffun";
     description = "Create and edit snippets easily.";
+  };
+  zjffun-toolboxes = {
+    pname = "zjffun-toolboxes";
+    version = "0.0.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zjffun/toolboxes/0.0.7/file/zjffun.toolboxes-0.0.7.vsix";
+      sha256 = "sha256-7nJhnTHBUUFiEsiXocV8Xbcma3PU9n+GVXoVbmhbXw0=";
+    };
+    name = "toolboxes";
+    license = "MIT";
+    publisher = "zjffun";
+    description = "Easy to use and create various tools.";
   };
   znck-preview = {
     pname = "znck-preview";

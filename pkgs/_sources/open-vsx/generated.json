@@ -1219,6 +1219,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "lgarcin-vscode-pweave": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "lgarcin-vscode-pweave",
+    "version": "0.3.8",
+    "passthru": {
+      "name": "vscode-pweave",
+      "license": "GPL-2.0",
+      "publisher": "lgarcin",
+      "description": "Format pweave documents"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/lgarcin/vscode-pweave/0.3.8/file/lgarcin.vscode-pweave-0.3.8.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-xVYANu9MTuhLvyr7VJjWnxak7LYsO1Q/a7FKRqRfrFM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "tomi-xalesssnippets": {
     "pinned": false,
     "cargoLock": null,
@@ -3223,7 +3243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.10.1",
+    "version": "0.11.0",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3231,10 +3251,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.10.1/file/d-biehl.robotcode-0.10.1.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.0/file/d-biehl.robotcode-0.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-msCvcvuJ2U8HxGnmgbAjdm9n5R8fgFQ1U3OyH0HRpkU="
+      "sha256": "sha256-wBrLpz3mPq7Ve0me3GIINXYgbhjh3gueg+2gTwcIVwA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23163,7 +23183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "luma-jupyter",
-    "version": "2022.3.103",
+    "version": "2022.3.105",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -23171,10 +23191,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.103/file/luma.jupyter-2022.3.103.vsix",
+      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.105/file/luma.jupyter-2022.3.105.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-96eNWLzyxmFky06068dh74/z3kvYheQDbTuQXQLM0jw="
+      "sha256": "sha256-3hHhQReSkuWuoUrKSL0dlAUKXh/Xc3O49NbLOBgxtRI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23495,6 +23515,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-LJiUIRTgI5vs1ghcfTvKRh2wMdkn6mv+4kV9AOXxjdA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "zjffun-toolboxes": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "zjffun-toolboxes",
+    "version": "0.0.7",
+    "passthru": {
+      "name": "toolboxes",
+      "license": "MIT",
+      "publisher": "zjffun",
+      "description": "Easy to use and create various tools."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/zjffun/toolboxes/0.0.7/file/zjffun.toolboxes-0.0.7.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-7nJhnTHBUUFiEsiXocV8Xbcma3PU9n+GVXoVbmhbXw0="
     },
     "extract": null,
     "rustGitDeps": null
