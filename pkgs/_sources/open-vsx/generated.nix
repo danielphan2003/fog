@@ -5271,10 +5271,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.258";
+    version = "2.0.259";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.258/file/betterthantomorrow.calva-2.0.258.vsix";
-      sha256 = "sha256-HeMoaqjLVF61ETvnK2yGkRcZ/0tmzgF8fE5kcY+yo/Y=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.259/file/betterthantomorrow.calva-2.0.259.vsix";
+      sha256 = "sha256-o1/FAiImeyNlkVSCPKHqW+1XkrYTktj1Upp1yTloeic=";
     };
     name = "calva";
     license = "MIT";
@@ -5907,10 +5907,10 @@
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
-    version = "0.0.1";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.1/file/cloudstudio.coding-repositories-0.0.1.vsix";
-      sha256 = "sha256-HzwbH6bHI43uHmbXCerHjS0B78ZkQSYMNAWarG8UnEA=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.5/file/cloudstudio.coding-repositories-0.0.5.vsix";
+      sha256 = "sha256-ue76YZUb+m1eMrNFFy60oE8G7dXWMCjMQt3IR3BRYYA=";
     };
     name = "coding-repositories";
     license = "MIT";
@@ -6843,10 +6843,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.87.3";
+    version = "0.87.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.87.3/file/dendron.nightly-0.87.3.vsix";
-      sha256 = "sha256-DhE1pZMxCD0jqJakaFMOWys/UA3KZkk3LyMuRenY1zQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.87.4/file/dendron.nightly-0.87.4.vsix";
+      sha256 = "sha256-HWAPJqaPoTcY6w/+YVS3/rJrJ810bZbzi1qUaMmXUMM=";
     };
     name = "nightly";
     license = "AGPL-3.0";

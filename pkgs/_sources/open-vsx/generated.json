@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.87.3",
+    "version": "0.87.4",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.87.3/file/dendron.nightly-0.87.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.87.4/file/dendron.nightly-0.87.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DhE1pZMxCD0jqJakaFMOWys/UA3KZkk3LyMuRenY1zQ="
+      "sha256": "sha256-HWAPJqaPoTcY6w/+YVS3/rJrJ810bZbzi1qUaMmXUMM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6423,7 +6423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cloudstudio-coding-repositories",
-    "version": "0.0.1",
+    "version": "0.0.5",
     "passthru": {
       "name": "coding-repositories",
       "license": "MIT",
@@ -6431,10 +6431,10 @@
       "description": "Remotely browse and edit any CODING repository"
     },
     "src": {
-      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.1/file/cloudstudio.coding-repositories-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.5/file/cloudstudio.coding-repositories-0.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HzwbH6bHI43uHmbXCerHjS0B78ZkQSYMNAWarG8UnEA="
+      "sha256": "sha256-ue76YZUb+m1eMrNFFy60oE8G7dXWMCjMQt3IR3BRYYA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30543,7 +30543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.258",
+    "version": "2.0.259",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -30551,10 +30551,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.258/file/betterthantomorrow.calva-2.0.258.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.259/file/betterthantomorrow.calva-2.0.259.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HeMoaqjLVF61ETvnK2yGkRcZ/0tmzgF8fE5kcY+yo/Y="
+      "sha256": "sha256-o1/FAiImeyNlkVSCPKHqW+1XkrYTktj1Upp1yTloeic="
     },
     "extract": null,
     "rustGitDeps": null
