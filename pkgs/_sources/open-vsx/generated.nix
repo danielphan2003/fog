@@ -15651,10 +15651,10 @@
   };
   signageos-signageos-vscode-sops = {
     pname = "signageos-signageos-vscode-sops";
-    version = "0.4.1";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.4.1/file/signageos.signageos-vscode-sops-0.4.1.vsix";
-      sha256 = "sha256-udM1X1YIKd8fqh+XXLf1dguj5isLlr9m7nYVzZDowk4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.5.0/file/signageos.signageos-vscode-sops-0.5.0.vsix";
+      sha256 = "sha256-8nMWuJcBGB+A64V+ePKerZNJBIOKrrwCAbxG97FEEYU=";
     };
     name = "signageos-vscode-sops";
     license = "MIT";
@@ -19503,10 +19503,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.7.0/file/yuyichao.digitaljs-0.7.0.vsix";
-      sha256 = "sha256-bPEUpBCDMG5+kmOR46Fsy2WnKuqFGqyY8UzqBBgH8u8=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.7.1/file/yuyichao.digitaljs-0.7.1.vsix";
+      sha256 = "sha256-+9hwQXr0oTSLowL9pwibbQKWtvNAFnAClnoxmzlFQzc=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";
