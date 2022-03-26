@@ -14083,7 +14083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "esbenp-prettier-vscode",
-    "version": "9.3.0",
+    "version": "9.4.0",
     "passthru": {
       "name": "prettier-vscode",
       "license": "MIT",
@@ -14091,10 +14091,10 @@
       "description": "Code formatter using prettier"
     },
     "src": {
-      "url": "https://open-vsx.org/api/esbenp/prettier-vscode/9.3.0/file/esbenp.prettier-vscode-9.3.0.vsix",
+      "url": "https://open-vsx.org/api/esbenp/prettier-vscode/9.4.0/file/esbenp.prettier-vscode-9.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+5ymYIL2kxgVu4pmgmZ9GPsenngoMxMTtTbBb35zPjQ="
+      "sha256": "sha256-frdcdAcW0eB6veZ/sWfu1E/m5ZsjCP0ZRP6JU5mBAWs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14703,7 +14703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.2421",
+    "version": "2022.3.2511",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14711,10 +14711,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2421/file/Slint.slint-nightly-2022.3.2421.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2511/file/Slint.slint-nightly-2022.3.2511.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GGaWMVHdTy6gkHUtmS7YncE6VxzB7ihH8t1fEkPEEc0="
+      "sha256": "sha256-ZTblDxJq/rvqWyyXkQ7UQsEQ4TGWJQg/hm3wyb6Zo5I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16783,7 +16783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "182.0.0",
+    "version": "183.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -16791,10 +16791,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/182.0.0/file/lextudio.restructuredtext-182.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/183.0.0/file/lextudio.restructuredtext-183.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Q52Snmz2/jnzj87F7TmBKgmiyMgrqQJqWvlaP7wdWrA="
+      "sha256": "sha256-vwGc+avZnI/N8mGwE4X3lxP13tZZNGKYtnUupnz/C5Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23163,7 +23163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "luma-jupyter",
-    "version": "2022.3.102",
+    "version": "2022.3.103",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -23171,10 +23171,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.102/file/luma.jupyter-2022.3.102.vsix",
+      "url": "https://open-vsx.org/api/luma/jupyter/2022.3.103/file/luma.jupyter-2022.3.103.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9gUAxCuWp+XWwA7cdNND7PNh9V0AUMbsgKeTlKXIAyE="
+      "sha256": "sha256-96eNWLzyxmFky06068dh74/z3kvYheQDbTuQXQLM0jw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27103,7 +27103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug",
-    "version": "1.66.0",
+    "version": "1.66.1",
     "passthru": {
       "name": "js-debug",
       "license": "MIT",
@@ -27111,10 +27111,10 @@
       "description": "An extension for debugging Node.js programs and Chrome."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.66.0/file/ms-vscode.js-debug-1.66.0.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.66.1/file/ms-vscode.js-debug-1.66.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uTG7bcYuq6YULoXoQLR/czQgu6g7Rs1gFwJSKK21AAY="
+      "sha256": "sha256-75brszYbToouCgHS9u7OR1pkqqijkP6Q8lX9HR8K2ko="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30103,7 +30103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "amazonwebservices-aws-toolkit-vscode",
-    "version": "1.36.0",
+    "version": "1.37.0",
     "passthru": {
       "name": "aws-toolkit-vscode",
       "license": "Apache-2.0",
@@ -30111,10 +30111,10 @@
       "description": "Amazon Web Services toolkit for browsing and updating cloud resources"
     },
     "src": {
-      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.36.0/file/amazonwebservices.aws-toolkit-vscode-1.36.0.vsix",
+      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.37.0/file/amazonwebservices.aws-toolkit-vscode-1.37.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6Ylti3x+XZAzE+sb7s7p+nepvqwer+9qbuHlp+1H+UQ="
+      "sha256": "sha256-iGBRdk23zmJa3rygqOescE5bhBM5T8jiMuhbilPXPHk="
     },
     "extract": null,
     "rustGitDeps": null

@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2421";
+    version = "2022.3.2511";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2421/file/Slint.slint-nightly-2022.3.2421.vsix";
-      sha256 = "sha256-GGaWMVHdTy6gkHUtmS7YncE6VxzB7ihH8t1fEkPEEc0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2511/file/Slint.slint-nightly-2022.3.2511.vsix";
+      sha256 = "sha256-ZTblDxJq/rvqWyyXkQ7UQsEQ4TGWJQg/hm3wyb6Zo5I=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4263,10 +4263,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.36.0";
+    version = "1.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.36.0/file/amazonwebservices.aws-toolkit-vscode-1.36.0.vsix";
-      sha256 = "sha256-6Ylti3x+XZAzE+sb7s7p+nepvqwer+9qbuHlp+1H+UQ=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.37.0/file/amazonwebservices.aws-toolkit-vscode-1.37.0.vsix";
+      sha256 = "sha256-iGBRdk23zmJa3rygqOescE5bhBM5T8jiMuhbilPXPHk=";
     };
     name = "aws-toolkit-vscode";
     license = "Apache-2.0";
@@ -7503,10 +7503,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.3.0";
+    version = "9.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.3.0/file/esbenp.prettier-vscode-9.3.0.vsix";
-      sha256 = "sha256-+5ymYIL2kxgVu4pmgmZ9GPsenngoMxMTtTbBb35zPjQ=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.4.0/file/esbenp.prettier-vscode-9.4.0.vsix";
+      sha256 = "sha256-frdcdAcW0eB6veZ/sWfu1E/m5ZsjCP0ZRP6JU5mBAWs=";
     };
     name = "prettier-vscode";
     license = "MIT";
@@ -10983,10 +10983,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "182.0.0";
+    version = "183.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/182.0.0/file/lextudio.restructuredtext-182.0.0.vsix";
-      sha256 = "sha256-Q52Snmz2/jnzj87F7TmBKgmiyMgrqQJqWvlaP7wdWrA=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/183.0.0/file/lextudio.restructuredtext-183.0.0.vsix";
+      sha256 = "sha256-vwGc+avZnI/N8mGwE4X3lxP13tZZNGKYtnUupnz/C5Q=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -11151,10 +11151,10 @@
   };
   luma-jupyter = {
     pname = "luma-jupyter";
-    version = "2022.3.102";
+    version = "2022.3.103";
     src = fetchurl {
-      url = "https://open-vsx.org/api/luma/jupyter/2022.3.102/file/luma.jupyter-2022.3.102.vsix";
-      sha256 = "sha256-9gUAxCuWp+XWwA7cdNND7PNh9V0AUMbsgKeTlKXIAyE=";
+      url = "https://open-vsx.org/api/luma/jupyter/2022.3.103/file/luma.jupyter-2022.3.103.vsix";
+      sha256 = "sha256-96eNWLzyxmFky06068dh74/z3kvYheQDbTuQXQLM0jw=";
     };
     name = "jupyter";
     license = "MIT";
@@ -12303,10 +12303,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.66.0";
+    version = "1.66.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.66.0/file/ms-vscode.js-debug-1.66.0.vsix";
-      sha256 = "sha256-uTG7bcYuq6YULoXoQLR/czQgu6g7Rs1gFwJSKK21AAY=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.66.1/file/ms-vscode.js-debug-1.66.1.vsix";
+      sha256 = "sha256-75brszYbToouCgHS9u7OR1pkqqijkP6Q8lX9HR8K2ko=";
     };
     name = "js-debug";
     license = "MIT";
