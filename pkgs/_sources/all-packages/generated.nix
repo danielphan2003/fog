@@ -1058,10 +1058,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.26.1";
+    version = "2.27.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.26.1/bw_web_v2.26.1.tar.gz";
-      sha256 = "sha256-kPeEUZeyoxZ8AGBanUHpT3FS0naIrVCKd9DOEXW7KOI=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.27.0/bw_web_v2.27.0.tar.gz";
+      sha256 = "sha256-r4z45gjVB+RMZM0IE/ec0yf+rt4YDz5IpZEz5FlQSds=";
     };
   };
   ventoy = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "9af50dfde71549e89084148d381166509bb958ac";
+    version = "5b6a16a007ec02f00742c8a98463206964e07659";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "9af50dfde71549e89084148d381166509bb958ac";
+      rev = "5b6a16a007ec02f00742c8a98463206964e07659";
       fetchSubmodules = false;
-      sha256 = "sha256-K6a2DSbSxrDnUCyBdB43ivV2C026KVkbG8Gkb9H/IsQ=";
+      sha256 = "sha256-o8XLzJAdj3qtuQ4t69LIBZDS3rHHat/tJhfo6VMoITo=";
     });
   };
   xdg-desktop-portal-gtk = {
