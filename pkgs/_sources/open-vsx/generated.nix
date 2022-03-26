@@ -5919,10 +5919,10 @@
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.0/file/cmoog.sqlnotebook-0.5.0.vsix";
-      sha256 = "sha256-gTqNQOQxnTu8JTQqaPEbsha+AVhwCsQGKapMCNE51ag=";
+      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.1/file/cmoog.sqlnotebook-0.5.1.vsix";
+      sha256 = "sha256-5nJtjOG13gr4HBw1kBdernBgc3dCbWC9Q5yqN2YE0rw=";
     };
     name = "sqlnotebook";
     license = "MIT";

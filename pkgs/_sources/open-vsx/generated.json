@@ -11643,7 +11643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cmoog-sqlnotebook",
-    "version": "0.5.0",
+    "version": "0.5.1",
     "passthru": {
       "name": "sqlnotebook",
       "license": "MIT",
@@ -11651,10 +11651,10 @@
       "description": "View SQL files as notebooks. Execute cells and view query output."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.0/file/cmoog.sqlnotebook-0.5.0.vsix",
+      "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.1/file/cmoog.sqlnotebook-0.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gTqNQOQxnTu8JTQqaPEbsha+AVhwCsQGKapMCNE51ag="
+      "sha256": "sha256-5nJtjOG13gr4HBw1kBdernBgc3dCbWC9Q5yqN2YE0rw="
     },
     "extract": null,
     "rustGitDeps": null
