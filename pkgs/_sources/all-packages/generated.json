@@ -172,7 +172,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dribbblish-dynamic-theme",
-    "version": "2e55b23b446c5fa8b80032d5e1f507b389b11c36",
+    "version": "145cfe9b53c28436683ec8c2f7b9d730615cdab6",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -182,8 +182,8 @@
       "name": null,
       "repo": "dribbblish-dynamic-theme",
       "type": "github",
-      "sha256": "sha256-mGEmQutFW3rj3PurhfpR/PFzQY+pUvNX9J9csKrIzHA=",
-      "rev": "2e55b23b446c5fa8b80032d5e1f507b389b11c36"
+      "sha256": "sha256-6yCzM5V4anCIM+FjifLUenZakcahi5BBRMqUScL9LZw=",
+      "rev": "145cfe9b53c28436683ec8c2f7b9d730615cdab6"
     },
     "extract": null,
     "rustGitDeps": null
