@@ -3243,7 +3243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.0",
+    "version": "0.11.1",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3251,10 +3251,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.0/file/d-biehl.robotcode-0.11.0.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.1/file/d-biehl.robotcode-0.11.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wBrLpz3mPq7Ve0me3GIINXYgbhjh3gueg+2gTwcIVwA="
+      "sha256": "sha256-xlZrZc2XgfwWLeFZ1WWuKSG9gqihY9rnewTn8EtSljs="
     },
     "extract": null,
     "rustGitDeps": null
