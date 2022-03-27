@@ -6435,10 +6435,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.1";
+    version = "0.11.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.1/file/d-biehl.robotcode-0.11.1.vsix";
-      sha256 = "sha256-xlZrZc2XgfwWLeFZ1WWuKSG9gqihY9rnewTn8EtSljs=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.3/file/d-biehl.robotcode-0.11.3.vsix";
+      sha256 = "sha256-WEyJb/pN2Zv4BeI2o3QIZl4CZJ+Woj1rm9Rf8qLAZc0=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -13935,10 +13935,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.307";
+    version = "0.25.308";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.307/file/pokey.cursorless-0.25.307.vsix";
-      sha256 = "sha256-KXBjXcEfO3/8EmuCl5KFan+ddGhkiq8UzaWDYbDRghA=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.308/file/pokey.cursorless-0.25.308.vsix";
+      sha256 = "sha256-yMaS/puZNp8P7hqtxUCHlIY5WEBdkGV5QfPAMm24WL8=";
     };
     name = "cursorless";
     license = "MIT";
@@ -19839,10 +19839,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.16";
+    version = "0.9.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.16/file/znck.vue-0.9.16.vsix";
-      sha256 = "sha256-kazX2U4jcC5JSp8P46g/ZzqyikQDUZslw/9Qa96ZKGQ=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.18/file/znck.vue-0.9.18.vsix";
+      sha256 = "sha256-ADqTjE3wow8ulKOLAZQ4g37PwtCz/BSo0IejScuLyU0=";
     };
     name = "vue";
     license = "MIT";
@@ -19851,10 +19851,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.15";
+    version = "0.9.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.15/file/znck.vue-language-features-0.9.15.vsix";
-      sha256 = "sha256-4BmLsPUK1Dqp/zvEC0K0PNdq3paaT7TAAaBaQ4yJLqw=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.17/file/znck.vue-language-features-0.9.17.vsix";
+      sha256 = "sha256-nAVUqgEITluGPWFusdYD5hlSHPq9Mcl96oO3VK/Z2qs=";
     };
     name = "vue-language-features";
     license = "MIT";
