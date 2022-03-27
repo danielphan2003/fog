@@ -172,7 +172,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dribbblish-dynamic-theme",
-    "version": "239033ad5ea77f12a0fbeca7bcc4fe18ca845fb5",
+    "version": "1064087b48973f32c3bd944946a1dc26a6cb995f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -182,8 +182,8 @@
       "name": null,
       "repo": "dribbblish-dynamic-theme",
       "type": "github",
-      "sha256": "sha256-Zuw6V428RnHLrp0ZMIaFZaKLLJJyAme2gNFKBaxFyF0=",
-      "rev": "239033ad5ea77f12a0fbeca7bcc4fe18ca845fb5"
+      "sha256": "sha256-YdUuVOLK+iMjsUHbr+dDNWXBn6tJpomIYcC8hzDRvz8=",
+      "rev": "1064087b48973f32c3bd944946a1dc26a6cb995f"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1368,7 +1368,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "72b9d6387aa58d0fff05a1f6405dd6fe84209a47",
+    "version": "880e742b70c220965b1a2cf34b8c4436a6d3f5ca",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1378,8 +1378,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-BEayMk4TMwr+T2Er3jDrBFMY9q9e/Tnah+U8S5VrOFo=",
-      "rev": "72b9d6387aa58d0fff05a1f6405dd6fe84209a47"
+      "sha256": "sha256-Ls77a44C2CHgyZPFMvUaonvyJKOsDvWyIYkHAHxiPPA=",
+      "rev": "880e742b70c220965b1a2cf34b8c4436a6d3f5ca"
     },
     "extract": null,
     "rustGitDeps": null
