@@ -11843,7 +11843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zjffun-snippetsmanager",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "passthru": {
       "name": "snippetsmanager",
       "license": "MIT",
@@ -11851,10 +11851,10 @@
       "description": "Create and edit snippets easily."
     },
     "src": {
-      "url": "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.3/file/zjffun.snippetsmanager-0.1.3.vsix",
+      "url": "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.4/file/zjffun.snippetsmanager-0.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kF9g6iuodgEzCZZBpQN7I5fISGBDK3gQ3wb1uG0qqDw="
+      "sha256": "sha256-SWHcGfjIF1fS4E1bDd3eN/p/vbqg3IYHBG5Z+MwRyv8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30603,7 +30603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.259",
+    "version": "2.0.260",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -30611,10 +30611,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.259/file/betterthantomorrow.calva-2.0.259.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.260/file/betterthantomorrow.calva-2.0.260.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o1/FAiImeyNlkVSCPKHqW+1XkrYTktj1Upp1yTloeic="
+      "sha256": "sha256-NJ4A8/2NC4NqT0/OvW3MYCOJ11PvDCDtgJTtkoEeJd4="
     },
     "extract": null,
     "rustGitDeps": null

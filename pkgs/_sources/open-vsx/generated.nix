@@ -5271,10 +5271,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.259";
+    version = "2.0.260";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.259/file/betterthantomorrow.calva-2.0.259.vsix";
-      sha256 = "sha256-o1/FAiImeyNlkVSCPKHqW+1XkrYTktj1Upp1yTloeic=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.260/file/betterthantomorrow.calva-2.0.260.vsix";
+      sha256 = "sha256-NJ4A8/2NC4NqT0/OvW3MYCOJ11PvDCDtgJTtkoEeJd4=";
     };
     name = "calva";
     license = "MIT";
@@ -19791,10 +19791,10 @@
   };
   zjffun-snippetsmanager = {
     pname = "zjffun-snippetsmanager";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.3/file/zjffun.snippetsmanager-0.1.3.vsix";
-      sha256 = "sha256-kF9g6iuodgEzCZZBpQN7I5fISGBDK3gQ3wb1uG0qqDw=";
+      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.4/file/zjffun.snippetsmanager-0.1.4.vsix";
+      sha256 = "sha256-SWHcGfjIF1fS4E1bDd3eN/p/vbqg3IYHBG5Z+MwRyv8=";
     };
     name = "snippetsmanager";
     license = "MIT";
