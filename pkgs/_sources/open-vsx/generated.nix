@@ -9697,6 +9697,18 @@
     publisher = "janisdd";
     description = "extension to edit csv files with a table ui";
   };
+  jansim-solarized-sunset = {
+    pname = "jansim-solarized-sunset";
+    version = "1.4.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jansim/solarized-sunset/1.4.1/file/jansim.solarized-sunset-1.4.1.vsix";
+      sha256 = "sha256-Uh309biio+VEC7Nui9hQnr3IIO4kv/OgN0g7VXQ2sEM=";
+    };
+    name = "solarized-sunset";
+    license = "MIT";
+    publisher = "jansim";
+    description = "A flat theme based on Solarized Dark";
+  };
   jaspernorth-vscode-pigments = {
     pname = "jaspernorth-vscode-pigments";
     version = "2.0.0";
