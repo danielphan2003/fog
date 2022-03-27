@@ -7455,10 +7455,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.1.2";
+    version = "6.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.2/file/entan-gl.cc65-vice-6.1.2.vsix";
-      sha256 = "sha256-vsR6CGOJ0gW1UoT3pC1PtLRQ9xmCJkH92g0Q2oytma4=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.3/file/entan-gl.cc65-vice-6.1.3.vsix";
+      sha256 = "sha256-R7hBdYVL2muhvN9WlHAJizuBVZmBmh6GTu6rffcR6Oo=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -9675,10 +9675,10 @@
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
-    version = "0.2.10";
+    version = "0.2.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.10/file/jamestiotio.compstruct-vscode-0.2.10.vsix";
-      sha256 = "sha256-XN2a5kbELF4oSdF7JflhcIGSISGxI+IZTKclD4qpvEc=";
+      url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.11/file/jamestiotio.compstruct-vscode-0.2.11.vsix";
+      sha256 = "sha256-eV6eC7Xdk/RQMq1KnUOEXsAQMyweQEMMmwFMUa6bM/Q=";
     };
     name = "compstruct-vscode";
     license = "MIT";
@@ -10167,10 +10167,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.8";
+    version = "1.6.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.8/file/julialang.language-julia-1.6.8.vsix";
-      sha256 = "sha256-60AodQAZ+qcvj1PCoYeFjduNubi+7xvp6EFnzmGAXLw=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.10/file/julialang.language-julia-1.6.10.vsix";
+      sha256 = "sha256-cQ7BC9VR+czYGrN6dA2yrncP6OL+Zlt7s70TW9YGh4k=";
     };
     name = "language-julia";
     license = "MIT";
@@ -19839,10 +19839,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.15";
+    version = "0.9.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.15/file/znck.vue-0.9.15.vsix";
-      sha256 = "sha256-cG0qsBmV2GdQC519wPvy8v9DRpTc7kY9Mj+l6ZsS13I=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.16/file/znck.vue-0.9.16.vsix";
+      sha256 = "sha256-kazX2U4jcC5JSp8P46g/ZzqyikQDUZslw/9Qa96ZKGQ=";
     };
     name = "vue";
     license = "MIT";
@@ -19851,10 +19851,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.14";
+    version = "0.9.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.14/file/znck.vue-language-features-0.9.14.vsix";
-      sha256 = "sha256-W23lHUelYqXtvBMxkjbBvPqgqOHtbZfqK4zgooFJpyU=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.15/file/znck.vue-language-features-0.9.15.vsix";
+      sha256 = "sha256-4BmLsPUK1Dqp/zvEC0K0PNdq3paaT7TAAaBaQ4yJLqw=";
     };
     name = "vue-language-features";
     license = "MIT";

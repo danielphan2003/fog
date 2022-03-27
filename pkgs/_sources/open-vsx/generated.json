@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "entan-gl-cc65-vice",
-    "version": "6.1.2",
+    "version": "6.1.3",
     "passthru": {
       "name": "cc65-vice",
       "license": "MIT",
@@ -1611,10 +1611,10 @@
       "description": "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators."
     },
     "src": {
-      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.2/file/entan-gl.cc65-vice-6.1.2.vsix",
+      "url": "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.3/file/entan-gl.cc65-vice-6.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vsR6CGOJ0gW1UoT3pC1PtLRQ9xmCJkH92g0Q2oytma4="
+      "sha256": "sha256-R7hBdYVL2muhvN9WlHAJizuBVZmBmh6GTu6rffcR6Oo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5523,7 +5523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.14",
+    "version": "0.9.15",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5531,10 +5531,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.14/file/znck.vue-language-features-0.9.14.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.15/file/znck.vue-language-features-0.9.15.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-W23lHUelYqXtvBMxkjbBvPqgqOHtbZfqK4zgooFJpyU="
+      "sha256": "sha256-4BmLsPUK1Dqp/zvEC0K0PNdq3paaT7TAAaBaQ4yJLqw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13703,7 +13703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jamestiotio-compstruct-vscode",
-    "version": "0.2.10",
+    "version": "0.2.11",
     "passthru": {
       "name": "compstruct-vscode",
       "license": "MIT",
@@ -13711,10 +13711,10 @@
       "description": "VSCode Extension for Computation Structures Courseware (jsim, tmsim, bsim)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.10/file/jamestiotio.compstruct-vscode-0.2.10.vsix",
+      "url": "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.11/file/jamestiotio.compstruct-vscode-0.2.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XN2a5kbELF4oSdF7JflhcIGSISGxI+IZTKclD4qpvEc="
+      "sha256": "sha256-eV6eC7Xdk/RQMq1KnUOEXsAQMyweQEMMmwFMUa6bM/Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20043,7 +20043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.15",
+    "version": "0.9.16",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20051,10 +20051,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.15/file/znck.vue-0.9.15.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.16/file/znck.vue-0.9.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cG0qsBmV2GdQC519wPvy8v9DRpTc7kY9Mj+l6ZsS13I="
+      "sha256": "sha256-kazX2U4jcC5JSp8P46g/ZzqyikQDUZslw/9Qa96ZKGQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30563,7 +30563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.6.8",
+    "version": "1.6.10",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -30571,10 +30571,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.8/file/julialang.language-julia-1.6.8.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.10/file/julialang.language-julia-1.6.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-60AodQAZ+qcvj1PCoYeFjduNubi+7xvp6EFnzmGAXLw="
+      "sha256": "sha256-cQ7BC9VR+czYGrN6dA2yrncP6OL+Zlt7s70TW9YGh4k="
     },
     "extract": null,
     "rustGitDeps": null
