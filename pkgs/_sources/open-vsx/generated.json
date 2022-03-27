@@ -5603,7 +5603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.49",
+    "version": "0.0.50",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5611,10 +5611,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.49/file/zardoy.zardoy-experiments-0.0.49.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.50/file/zardoy.zardoy-experiments-0.0.50.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IzyoBA6f2Gun46iGw4+CnAa5+zscXJRF6dk6f5w97Jg="
+      "sha256": "sha256-r3Y/UjC45KW3F81H0A14RPOsVkdOka8OsNXz06PYv/E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5803,7 +5803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "everscale-solidity-support",
-    "version": "1.2.41",
+    "version": "1.3.0",
     "passthru": {
       "name": "solidity-support",
       "license": "Apache-2.0",
@@ -5811,10 +5811,10 @@
       "description": "Everscale Solidity Language for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/everscale/solidity-support/1.2.41/file/everscale.solidity-support-1.2.41.vsix",
+      "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.0/file/everscale.solidity-support-1.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/nE6MaPuxV62kVOErqZFE1uwl69dXcw4JK278hFBC5k="
+      "sha256": "sha256-czVgmIp07SVj9YiKa3TNqCOPQf2apAiz6TKO//ZWwtU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12075,6 +12075,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-bpvSIr6jk8irj0JlEWuuOu88fIv2wzLjAPASw6H+Mss="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "reageyao-biosyntax": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "reageyao-biosyntax",
+    "version": "0.0.11",
+    "passthru": {
+      "name": "biosyntax",
+      "license": "GPL-3.0",
+      "publisher": "reageyao",
+      "description": "bioSyntax for computational biology"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/reageyao/biosyntax/0.0.11/file/reageyao.biosyntax-0.0.11.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-nY7VhBifeSiWZ7D4IerRpqMzLA+JU5cHpmU9Ezn9Y/k="
     },
     "extract": null,
     "rustGitDeps": null

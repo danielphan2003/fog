@@ -7611,10 +7611,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.2.41";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.2.41/file/everscale.solidity-support-1.2.41.vsix";
-      sha256 = "sha256-/nE6MaPuxV62kVOErqZFE1uwl69dXcw4JK278hFBC5k=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.0/file/everscale.solidity-support-1.3.0.vsix";
+      sha256 = "sha256-czVgmIp07SVj9YiKa3TNqCOPQf2apAiz6TKO//ZWwtU=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -14317,6 +14317,18 @@
     publisher = "readthedocs";
     description = "An extension to easily create bins.";
   };
+  reageyao-biosyntax = {
+    pname = "reageyao-biosyntax";
+    version = "0.0.11";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/reageyao/biosyntax/0.0.11/file/reageyao.biosyntax-0.0.11.vsix";
+      sha256 = "sha256-nY7VhBifeSiWZ7D4IerRpqMzLA+JU5cHpmU9Ezn9Y/k=";
+    };
+    name = "biosyntax";
+    license = "GPL-3.0";
+    publisher = "reageyao";
+    description = "bioSyntax for computational biology";
+  };
   rebornix-ruby = {
     pname = "rebornix-ruby";
     version = "0.28.0";
@@ -19659,10 +19671,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.49";
+    version = "0.0.50";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.49/file/zardoy.zardoy-experiments-0.0.49.vsix";
-      sha256 = "sha256-IzyoBA6f2Gun46iGw4+CnAa5+zscXJRF6dk6f5w97Jg=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.50/file/zardoy.zardoy-experiments-0.0.50.vsix";
+      sha256 = "sha256-r3Y/UjC45KW3F81H0A14RPOsVkdOka8OsNXz06PYv/E=";
     };
     name = "zardoy-experiments";
     license = "MIT";
