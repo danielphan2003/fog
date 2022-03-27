@@ -9687,10 +9687,10 @@
   };
   janisdd-vscode-edit-csv = {
     pname = "janisdd-vscode-edit-csv";
-    version = "0.6.6";
+    version = "0.6.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.6/file/janisdd.vscode-edit-csv-0.6.6.vsix";
-      sha256 = "sha256-/iuoYNm10cj0mRoEZdRUyT0j7Tu2Dt0A+3Fu7/X3uck=";
+      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.8/file/janisdd.vscode-edit-csv-0.6.8.vsix";
+      sha256 = "sha256-pknaPcjTt0wRXadUcTUHCjszr5Xl2UZd5n8ZNF5zaHc=";
     };
     name = "vscode-edit-csv";
     license = "MIT";
@@ -19599,10 +19599,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.1.7";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.1.7/file/zardoy.npm-rapid-ready-0.1.7.vsix";
-      sha256 = "sha256-FlY/It9ZZUdyswRtENSbydQVpbB+yC8TIOs96FH5Oqo=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.0/file/zardoy.npm-rapid-ready-0.2.0.vsix";
+      sha256 = "sha256-t/p92195ZZlttVp3SnOE4uoNNtJqFw2m35paaBq03Hs=";
     };
     name = "npm-rapid-ready";
     license = "MIT";
