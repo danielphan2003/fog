@@ -3239,6 +3239,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "qguv-ninja-vscode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "qguv-ninja-vscode",
+    "version": "2.0.0",
+    "passthru": {
+      "name": "ninja-vscode",
+      "license": "GPL-2.0",
+      "publisher": "qguv",
+      "description": "A syntax highlighter for Ninja build files"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/qguv/ninja-vscode/2.0.0/file/qguv.ninja-vscode-2.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-MagvsMQvWsZkuwKVu9ZqDaW35GEEGeTA/yqXTPdvMcY="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "d-biehl-robotcode": {
     "pinned": false,
     "cargoLock": null,
@@ -27563,7 +27583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hbenl-vscode-jasmine-test-adapter",
-    "version": "1.7.3",
+    "version": "1.8.1",
     "passthru": {
       "name": "vscode-jasmine-test-adapter",
       "license": "MIT",
@@ -27571,10 +27591,10 @@
       "description": "Run your Jasmine tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.3/file/hbenl.vscode-jasmine-test-adapter-1.7.3.vsix",
+      "url": "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.1/file/hbenl.vscode-jasmine-test-adapter-1.8.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0PWYIV6IUKF+xW+zRGkbuCBPlifAmPsOeUSeOWA9PYw="
+      "sha256": "sha256-3u1azOyPfk8MNyuewX90f9kb80cScYvnH9P8y+1rrCs="
     },
     "extract": null,
     "rustGitDeps": null

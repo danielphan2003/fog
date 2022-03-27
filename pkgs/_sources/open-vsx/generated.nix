@@ -8811,10 +8811,10 @@
   };
   hbenl-vscode-jasmine-test-adapter = {
     pname = "hbenl-vscode-jasmine-test-adapter";
-    version = "1.7.3";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.7.3/file/hbenl.vscode-jasmine-test-adapter-1.7.3.vsix";
-      sha256 = "sha256-0PWYIV6IUKF+xW+zRGkbuCBPlifAmPsOeUSeOWA9PYw=";
+      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.1/file/hbenl.vscode-jasmine-test-adapter-1.8.1.vsix";
+      sha256 = "sha256-3u1azOyPfk8MNyuewX90f9kb80cScYvnH9P8y+1rrCs=";
     };
     name = "vscode-jasmine-test-adapter";
     license = "MIT";
@@ -14148,6 +14148,18 @@
     license = "MIT";
     publisher = "qcz";
     description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.";
+  };
+  qguv-ninja-vscode = {
+    pname = "qguv-ninja-vscode";
+    version = "2.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/qguv/ninja-vscode/2.0.0/file/qguv.ninja-vscode-2.0.0.vsix";
+      sha256 = "sha256-MagvsMQvWsZkuwKVu9ZqDaW35GEEGeTA/yqXTPdvMcY=";
+    };
+    name = "ninja-vscode";
+    license = "GPL-2.0";
+    publisher = "qguv";
+    description = "A syntax highlighter for Ninja build files";
   };
   qoretechnologies-qore-vscode = {
     pname = "qoretechnologies-qore-vscode";
