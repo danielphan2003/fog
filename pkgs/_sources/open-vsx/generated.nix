@@ -1767,10 +1767,10 @@
   };
   KevinRose-vsc-python-indent = {
     pname = "KevinRose-vsc-python-indent";
-    version = "1.14.2";
+    version = "1.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.14.2/file/KevinRose.vsc-python-indent-1.14.2.vsix";
-      sha256 = "sha256-rbRPYye1yL7iqEY515BmsSKsnVpiTqRwNFaY26XduC0=";
+      url = "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.15.0/file/KevinRose.vsc-python-indent-1.15.0.vsix";
+      sha256 = "sha256-pyh69hlhLF/Y5hOcJOAkDsLjZhMv2f4mYG1L+Cr9bQA=";
     };
     name = "vsc-python-indent";
     license = "MIT";
@@ -8451,10 +8451,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.1.3";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.1.3/file/giscafer.leek-fund-2.1.3.vsix";
-      sha256 = "sha256-GLfHINtwySU3JHlzvrGRVLCZL3kEoIJbNEiJs2DHJOk=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.2.0/file/giscafer.leek-fund-2.2.0.vsix";
+      sha256 = "sha256-Lbm3A7kWHFeuzX3vn9vu35DgdcWQo2bBUrrL4Nifxxw=";
     };
     name = "leek-fund";
     license = "BSD-3-Clause";
@@ -12171,10 +12171,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.232";
+    version = "1.1.233";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.232/file/ms-pyright.pyright-1.1.232.vsix";
-      sha256 = "sha256-LICL4WD59d2iBWqhGaUMLbU9o6X7u6Tb7tW1Nq4x2PY=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.233/file/ms-pyright.pyright-1.1.233.vsix";
+      sha256 = "sha256-1tEdHmFNoueHdwOsh6eM6/uP7aJaCn247ieHTR/tJBE=";
     };
     name = "pyright";
     license = "MIT";
@@ -19851,10 +19851,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.18";
+    version = "0.9.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.18/file/znck.vue-0.9.18.vsix";
-      sha256 = "sha256-ADqTjE3wow8ulKOLAZQ4g37PwtCz/BSo0IejScuLyU0=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.19/file/znck.vue-0.9.19.vsix";
+      sha256 = "sha256-Gq7T+V+epwysBGV4Qozd/jLNcszDRT6zl9DelQvua8Q=";
     };
     name = "vue";
     license = "MIT";
@@ -19863,10 +19863,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.17";
+    version = "0.9.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.17/file/znck.vue-language-features-0.9.17.vsix";
-      sha256 = "sha256-nAVUqgEITluGPWFusdYD5hlSHPq9Mcl96oO3VK/Z2qs=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.18/file/znck.vue-language-features-0.9.18.vsix";
+      sha256 = "sha256-Ws13bKvtluVg9myf8wyLdL3Lha3rBSd/gtcpFZeEgII=";
     };
     name = "vue-language-features";
     license = "MIT";
