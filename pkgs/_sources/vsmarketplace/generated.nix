@@ -27,11 +27,11 @@
   };
   alefragnani-pascal = {
     pname = "alefragnani-pascal";
-    version = "9.4.0";
+    version = "9.5.0";
     src = fetchurl {
-      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "pascal-9.4.0.zip";
-      sha256 = "sha256-8JlDWLPfx7biBVOsnYkw0c8F70tTT0Lr3n637gVtMnI=";
+      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "pascal-9.5.0.zip";
+      sha256 = "sha256-YS+NvEM83fHlGrVtb8d4JiQ1qUOCIQmwQDK7yJjWGW4=";
     };
     name = "pascal";
     license = "MIT";
