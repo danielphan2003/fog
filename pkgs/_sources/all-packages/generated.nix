@@ -426,10 +426,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-645-g0e93dcc1";
+    version = "2.1-648-g0d62166c";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-645-g0e93dcc1-1_all.deb";
-      sha256 = "sha256-Tv1mWQsNvzvhtvPjrZqw6jxNOswKbE9Jtk1txzTSmN0=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-648-g0d62166c-1_all.deb";
+      sha256 = "sha256-5KhmNs4n5c6lXMjSMbh8jOhYA0gIQNvZdCChrSj1QJI=";
     };
   };
   layout-machi = {
@@ -519,10 +519,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "100.0.1185.17";
+    version = "100.0.1185.23";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.17-1_amd64.deb";
-      sha256 = "sha256-Uki3zc6UG45WmfVIe/JieG3GBlrPC+aHFlM32Q1TVXg=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.23-1_amd64.deb";
+      sha256 = "sha256-VH5om9Ms64e3BaXDJA3N9wGBr0VKxq11BL8eA3/vEdo=";
     };
   };
   microsoft-edge-dev = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "9f0365701135daf1c3860329fe45ea71b5ee980e";
+    version = "563d903e4486ca1644a064ac8de5e36127a2cbdb";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "9f0365701135daf1c3860329fe45ea71b5ee980e";
+      rev = "563d903e4486ca1644a064ac8de5e36127a2cbdb";
       fetchSubmodules = false;
-      sha256 = "sha256-YGhQe5bvqpGDjWIOGab7GiG1kIgMgkRyrqJeddSOxac=";
+      sha256 = "sha256-M/iqqpwzlxIrCOyQPGlwGzklsFjGAYDRsDkoUMXZwis=";
     });
   };
   xdg-desktop-portal-gtk = {
