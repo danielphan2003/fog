@@ -243,13 +243,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "df3fb0c9f805519b598f885d343f08fc5c522c4d";
+    version = "c467e20311ed21134d878a8f5ec230790e0b4355";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "df3fb0c9f805519b598f885d343f08fc5c522c4d";
+      rev = "c467e20311ed21134d878a8f5ec230790e0b4355";
       fetchSubmodules = false;
-      sha256 = "sha256-IoyV+/iVkTz8a+FJfS9EmwS46IX7k5d49LyCJCwErhs=";
+      sha256 = "sha256-UrvN9Gnh+DHiTFcbvzhj4dRe9M5D6ZDRb6flWGNKm7A=";
     });
   };
   doggo = {
@@ -784,16 +784,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3ea33f72032be95e8d71b5311ef0b84f1da9ee31";
+    version = "a56aa08a662f00abd28be00940d9e4fa05fa85aa";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3ea33f72032be95e8d71b5311ef0b84f1da9ee31";
+      rev = "a56aa08a662f00abd28be00940d9e4fa05fa85aa";
       fetchSubmodules = false;
-      sha256 = "sha256-xonvX14zR3N8O/YM9tuX2buX140DVNuzor0rdnCurSs=";
+      sha256 = "sha256-HrLISf+3Zt+j74uCGfCHf1mAHqE17S3elOYEVLKMl9o=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-3ea33f72032be95e8d71b5311ef0b84f1da9ee31/Cargo.lock;
+      lockFile = ./rustdesk-a56aa08a662f00abd28be00940d9e4fa05fa85aa/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "796e5497f17f0a70754b868274f15656bbaecfa8";
+    version = "5c2bf3b137898060ac021f680fd6ed9e25134288";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "796e5497f17f0a70754b868274f15656bbaecfa8";
+      rev = "5c2bf3b137898060ac021f680fd6ed9e25134288";
       fetchSubmodules = false;
-      sha256 = "sha256-cnWBeu9Ym77UlR7vTWobkaVvkxaPlFBdO2/ELkjwOTQ=";
+      sha256 = "sha256-dLtC41i0ER0S20mYfv/9nb0FIoCp4hJt9hoQCRiyAwQ=";
     });
   };
   xdg-desktop-portal-gtk = {
