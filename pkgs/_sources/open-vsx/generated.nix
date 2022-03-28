@@ -2655,10 +2655,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "1.4.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.4.0/file/PrateekMahendrakar.prettyxml-1.4.0.vsix";
-      sha256 = "sha256-kBBdz3+0ryg9QqIl9t5dx9wgy4kTn/x+zO69otsfXv8=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.1/file/PrateekMahendrakar.prettyxml-1.5.1.vsix";
+      sha256 = "sha256-ACP9/7FwPjZRpGXNugBDyVemhXTmmv8LB+D0mtRC0do=";
     };
     name = "prettyxml";
     license = "MIT";
@@ -2667,10 +2667,10 @@
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
-    version = "4.4.0";
+    version = "4.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.4.0/file/PrateekMahendrakar.resxpress-4.4.0.vsix";
-      sha256 = "sha256-wBb2LxwNhC3MPhHqCWd11/SGYYMIbsYWWVID/ePJmTs=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.5.0/file/PrateekMahendrakar.resxpress-4.5.0.vsix";
+      sha256 = "sha256-5yRT3H08tPyE1jz69vrCOE4S0gxuMyDEHJ25ewTD5ns=";
     };
     name = "resxpress";
     license = "MIT";
@@ -4899,10 +4899,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.1";
+    version = "0.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.1/file/arzg.xcode-theme-0.7.1.vsix";
-      sha256 = "sha256-K9r4ouT+zlqhs5uH6yFbfGULdbwMawAQ19yKWv3fyfQ=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.2/file/arzg.xcode-theme-0.7.2.vsix";
+      sha256 = "sha256-Ri109UozmRTSDTpRGCMD9ldkm0CsczR9Bd6Ve2vKrMM=";
     };
     name = "xcode-theme";
     license = "MIT";

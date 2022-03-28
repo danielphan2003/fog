@@ -5663,7 +5663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PrateekMahendrakar-resxpress",
-    "version": "4.4.0",
+    "version": "4.5.0",
     "passthru": {
       "name": "resxpress",
       "license": "MIT",
@@ -5671,10 +5671,10 @@
       "description": "Resx editor, previewer and sorting extension"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.4.0/file/PrateekMahendrakar.resxpress-4.4.0.vsix",
+      "url": "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.5.0/file/PrateekMahendrakar.resxpress-4.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wBb2LxwNhC3MPhHqCWd11/SGYYMIbsYWWVID/ePJmTs="
+      "sha256": "sha256-5yRT3H08tPyE1jz69vrCOE4S0gxuMyDEHJ25ewTD5ns="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21823,7 +21823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.7.1",
+    "version": "0.7.2",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -21831,10 +21831,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.1/file/arzg.xcode-theme-0.7.1.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.2/file/arzg.xcode-theme-0.7.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-K9r4ouT+zlqhs5uH6yFbfGULdbwMawAQ19yKWv3fyfQ="
+      "sha256": "sha256-Ri109UozmRTSDTpRGCMD9ldkm0CsczR9Bd6Ve2vKrMM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28983,7 +28983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PrateekMahendrakar-prettyxml",
-    "version": "1.4.0",
+    "version": "1.5.1",
     "passthru": {
       "name": "prettyxml",
       "license": "MIT",
@@ -28991,10 +28991,10 @@
       "description": "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio."
     },
     "src": {
-      "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.4.0/file/PrateekMahendrakar.prettyxml-1.4.0.vsix",
+      "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.1/file/PrateekMahendrakar.prettyxml-1.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kBBdz3+0ryg9QqIl9t5dx9wgy4kTn/x+zO69otsfXv8="
+      "sha256": "sha256-ACP9/7FwPjZRpGXNugBDyVemhXTmmv8LB+D0mtRC0do="
     },
     "extract": null,
     "rustGitDeps": null
