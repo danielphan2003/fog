@@ -3615,10 +3615,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.8.2";
+    version = "9.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.8.2/file/YXL.cloudmusic-9.8.2.vsix";
-      sha256 = "sha256-SnGBmgqCXRetYH2+xigjV8dYjDwY19/5Nt52e9QtNwk=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.8.3/file/YXL.cloudmusic-9.8.3.vsix";
+      sha256 = "sha256-4HWwuXoMoBR4rDnHk9V2tEFCy39OM60RQg46xAzhOIg=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -11043,10 +11043,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.19";
+    version = "3.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.19/file/lifeart.vscode-ember-unstable-3.0.19.vsix";
-      sha256 = "sha256-8F4de23o/R+rsGNt9FEpyHry/EbAXnGOVEooRIkUeyQ=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.20/file/lifeart.vscode-ember-unstable-3.0.20.vsix";
+      sha256 = "sha256-BWP2Yjg97l4kkldVgSCAJ5lAT4zB2gHlqrMYzY7u7uQ=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -19539,10 +19539,10 @@
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
-    version = "0.7.2";
+    version = "0.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.7.2/file/yuyichao.digitaljs-0.7.2.vsix";
-      sha256 = "sha256-p5M77hg3E7TPZ3kTh4AO5O0lyF9dDxWuIBKk95w/prI=";
+      url = "https://open-vsx.org/api/yuyichao/digitaljs/0.7.3/file/yuyichao.digitaljs-0.7.3.vsix";
+      sha256 = "sha256-CcBrygtdsnjNjUle/MBnTLnE4TOm0bE1EO6hosAvR8s=";
     };
     name = "digitaljs";
     license = "BSD-2-Clause";

@@ -3983,7 +3983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yuyichao-digitaljs",
-    "version": "0.7.2",
+    "version": "0.7.3",
     "passthru": {
       "name": "digitaljs",
       "license": "BSD-2-Clause",
@@ -3991,10 +3991,10 @@
       "description": "DigitalJS integration for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.7.2/file/yuyichao.digitaljs-0.7.2.vsix",
+      "url": "https://open-vsx.org/api/yuyichao/digitaljs/0.7.3/file/yuyichao.digitaljs-0.7.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p5M77hg3E7TPZ3kTh4AO5O0lyF9dDxWuIBKk95w/prI="
+      "sha256": "sha256-CcBrygtdsnjNjUle/MBnTLnE4TOm0bE1EO6hosAvR8s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19943,7 +19943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.19",
+    "version": "3.0.20",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -19951,10 +19951,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.19/file/lifeart.vscode-ember-unstable-3.0.19.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.20/file/lifeart.vscode-ember-unstable-3.0.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8F4de23o/R+rsGNt9FEpyHry/EbAXnGOVEooRIkUeyQ="
+      "sha256": "sha256-BWP2Yjg97l4kkldVgSCAJ5lAT4zB2gHlqrMYzY7u7uQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24783,7 +24783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "YXL-cloudmusic",
-    "version": "9.8.2",
+    "version": "9.8.3",
     "passthru": {
       "name": "cloudmusic",
       "license": "MIT",
@@ -24791,10 +24791,10 @@
       "description": "Netease Music for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.8.2/file/YXL.cloudmusic-9.8.2.vsix",
+      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.8.3/file/YXL.cloudmusic-9.8.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SnGBmgqCXRetYH2+xigjV8dYjDwY19/5Nt52e9QtNwk="
+      "sha256": "sha256-4HWwuXoMoBR4rDnHk9V2tEFCy39OM60RQg46xAzhOIg="
     },
     "extract": null,
     "rustGitDeps": null
