@@ -567,10 +567,10 @@
   };
   ComplYue-edh-vscode-formatter = {
     pname = "ComplYue-edh-vscode-formatter";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.0/file/ComplYue.edh-vscode-formatter-1.8.0.vsix";
-      sha256 = "sha256-+Vp1Eli6N7EhI/K8sH+kVY4RYdrArM3ytGldu4bpPjY=";
+      url = "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.1/file/ComplYue.edh-vscode-formatter-1.8.1.vsix";
+      sha256 = "sha256-C73+5OdASr38ZtcvpPftPLCDALy759iuWgWSiAgS1gU=";
     };
     name = "edh-vscode-formatter";
     license = "MIT";
@@ -5907,10 +5907,10 @@
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
-    version = "0.0.5";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.5/file/cloudstudio.coding-repositories-0.0.5.vsix";
-      sha256 = "sha256-ue76YZUb+m1eMrNFFy60oE8G7dXWMCjMQt3IR3BRYYA=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.7/file/cloudstudio.coding-repositories-0.0.7.vsix";
+      sha256 = "sha256-7kcGnXGN1gwPpHue2FtbZBDvMWeOqNbkH3EOJvEmUh4=";
     };
     name = "coding-repositories";
     license = "MIT";
@@ -6843,10 +6843,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.87.4";
+    version = "0.87.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.87.4/file/dendron.nightly-0.87.4.vsix";
-      sha256 = "sha256-HWAPJqaPoTcY6w/+YVS3/rJrJ810bZbzi1qUaMmXUMM=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.87.5/file/dendron.nightly-0.87.5.vsix";
+      sha256 = "sha256-vcXrd5NGagSAnIviMVAm9Xb10gc390CSRbY/Us4CcT8=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -16131,10 +16131,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.7";
+    version = "2.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.7/file/streetsidesoftware.code-spell-checker-2.1.7.vsix";
-      sha256 = "sha256-C0jYDIDBK1JH8eFaFmCUilBXCbU5y2TRF3OZAw9ijoY=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.9/file/streetsidesoftware.code-spell-checker-2.1.9.vsix";
+      sha256 = "sha256-g8UXL1vL7HvM7EKb2xszDBGTJuwDpWQ6VZnI8gnwzfQ=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";
