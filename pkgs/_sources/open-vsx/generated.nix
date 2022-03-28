@@ -1275,10 +1275,10 @@
   };
   GulajavaMinistudio-mayukaithemevsc = {
     pname = "GulajavaMinistudio-mayukaithemevsc";
-    version = "3.1.0";
+    version = "3.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.1.0/file/GulajavaMinistudio.mayukaithemevsc-3.1.0.vsix";
-      sha256 = "sha256-t8EV0UDXGnY7JKqGnLATTotwGBB9Y3Wkg4+C3WRxLLE=";
+      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.1.1/file/GulajavaMinistudio.mayukaithemevsc-3.1.1.vsix";
+      sha256 = "sha256-wgupKnCgseuf+FnSqEh/EL7rUCY0R6gANt+s+S8TWOs=";
     };
     name = "mayukaithemevsc";
     license = "MIT";
@@ -7299,10 +7299,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2027443";
+    version = "7.1.2053374";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2027443/file/eliostruyf.vscode-front-matter-beta-7.1.2027443.vsix";
-      sha256 = "sha256-YueSEeCFPZpK67+eYtOBrGVHCYBhinOAlFoDUplXar0=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2053374/file/eliostruyf.vscode-front-matter-beta-7.1.2053374.vsix";
+      sha256 = "sha256-Yc3N6mj1HblERHmdBJ2XmzPqbPQ/AOUZBfcI+ZKE0uM=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
