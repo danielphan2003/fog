@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "c11e0407e9892baab6d6a6744ad51c976385d71a";
+    version = "5750cf41c3b1a865eb7e3d2ca9b37563ce5b87de";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "c11e0407e9892baab6d6a6744ad51c976385d71a";
+      rev = "5750cf41c3b1a865eb7e3d2ca9b37563ce5b87de";
       fetchSubmodules = false;
-      sha256 = "sha256-DTlNDA4604UPEPiFff4SR7nwn88FGPbweQRGfqQu8ns=";
+      sha256 = "sha256-ZIsVSgDazS1t2h/dQ/5YphYchsxKDBl7B+sitE71+9Y=";
     });
   };
   caddy = {
@@ -554,10 +554,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.31.2";
+    version = "0.32.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.31.2.tar.gz";
-      sha256 = "sha256-LRQpvyOxYKZPUkXHOb85f4BDUU8peyD9/HJJpjIJESo=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.0.tar.gz";
+      sha256 = "sha256-pkOs3g6Zkm+hqCfHat6yNatwa2LavIako5Zpg5hTL2E=";
     };
   };
   nix-zsh-completions = {
