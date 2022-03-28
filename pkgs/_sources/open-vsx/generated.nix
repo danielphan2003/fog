@@ -14295,10 +14295,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.14.0";
+    version = "1.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.0/file/rangav.vscode-thunder-client-1.14.0.vsix";
-      sha256 = "sha256-jOMHwF38R3OuG2GdIrVMG/3PEeCb3QnxCVmIQyXgHHw=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.1/file/rangav.vscode-thunder-client-1.14.1.vsix";
+      sha256 = "sha256-H3TT+1EprcjpwtohB7fgVV6eLk7x2vafS49rUpywx0Q=";
     };
     name = "vscode-thunder-client";
     license = "";
@@ -16719,10 +16719,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.7.5";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.7.5/file/tfsec.tfsec-1.7.5.vsix";
-      sha256 = "sha256-6LPd2JxoflWjsCu/JQ5ddRlnBNgCt9/Sqd3o0NPnyDw=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.8.0/file/tfsec.tfsec-1.8.0.vsix";
+      sha256 = "sha256-O3Jvf3rG3aKjiOM9eQxnZTgL8JYQ40JEwM54sGlkBWw=";
     };
     name = "tfsec";
     license = "MIT";
