@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-645-g0e93dcc1",
+    "version": "2.1-648-g0d62166c",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-645-g0e93dcc1-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-648-g0d62166c-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Tv1mWQsNvzvhtvPjrZqw6jxNOswKbE9Jtk1txzTSmN0="
+      "sha256": "sha256-5KhmNs4n5c6lXMjSMbh8jOhYA0gIQNvZdCChrSj1QJI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1493,13 +1493,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-beta",
-    "version": "100.0.1185.17",
+    "version": "100.0.1185.23",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.17-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.23-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Uki3zc6UG45WmfVIe/JieG3GBlrPC+aHFlM32Q1TVXg="
+      "sha256": "sha256-VH5om9Ms64e3BaXDJA3N9wGBr0VKxq11BL8eA3/vEdo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1548,7 +1548,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "9f0365701135daf1c3860329fe45ea71b5ee980e",
+    "version": "563d903e4486ca1644a064ac8de5e36127a2cbdb",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1558,8 +1558,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-YGhQe5bvqpGDjWIOGab7GiG1kIgMgkRyrqJeddSOxac=",
-      "rev": "9f0365701135daf1c3860329fe45ea71b5ee980e"
+      "sha256": "sha256-M/iqqpwzlxIrCOyQPGlwGzklsFjGAYDRsDkoUMXZwis=",
+      "rev": "563d903e4486ca1644a064ac8de5e36127a2cbdb"
     },
     "extract": null,
     "rustGitDeps": null
