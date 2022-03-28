@@ -7431,10 +7431,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "0.2.3";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.2.3/file/engn2219-anu.engn2219-2022-s1-vscode-0.2.3.vsix";
-      sha256 = "sha256-zTCv83H5SlSei5dsmInytoxVAHbxqkfvqKE4IoKAuzg=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.0.0/file/engn2219-anu.engn2219-2022-s1-vscode-1.0.0.vsix";
+      sha256 = "sha256-1dTZKkpKIwg7PatnQDcEEBD2eZb2Xprf9YSOcrpMkS8=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";

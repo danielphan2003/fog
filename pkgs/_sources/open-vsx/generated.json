@@ -2483,7 +2483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "engn2219-anu-engn2219-2022-s1-vscode",
-    "version": "0.2.3",
+    "version": "1.0.0",
     "passthru": {
       "name": "engn2219-2022-s1-vscode",
       "license": "MIT",
@@ -2491,10 +2491,10 @@
       "description": "ENGN2219 package"
     },
     "src": {
-      "url": "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/0.2.3/file/engn2219-anu.engn2219-2022-s1-vscode-0.2.3.vsix",
+      "url": "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.0.0/file/engn2219-anu.engn2219-2022-s1-vscode-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zTCv83H5SlSei5dsmInytoxVAHbxqkfvqKE4IoKAuzg="
+      "sha256": "sha256-1dTZKkpKIwg7PatnQDcEEBD2eZb2Xprf9YSOcrpMkS8="
     },
     "extract": null,
     "rustGitDeps": null
