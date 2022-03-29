@@ -5907,10 +5907,10 @@
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.9/file/cloudstudio.coding-repositories-0.0.9.vsix";
-      sha256 = "sha256-DFe+MjvLrUpXjg8eWvqBSWwxKnJ0fY/QcyQqe5g/QAg=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.10/file/cloudstudio.coding-repositories-0.0.10.vsix";
+      sha256 = "sha256-VirO/O6xUwDtmcGbmJnPEcxpvadTEaNujlAbZCKq9z4=";
     };
     name = "coding-repositories";
     license = "MIT";
@@ -6759,10 +6759,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.87.0";
+    version = "0.88.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.87.0/file/dendron.dendron-0.87.0.vsix";
-      sha256 = "sha256-Mr8IgZV3MvxtpYrvw92ZpHLLsIQ7sSeXUl8z3nVdtPk=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.88.0/file/dendron.dendron-0.88.0.vsix";
+      sha256 = "sha256-pDXenuWCP2WLm9FB6zAGokQXFh/gyLIyzArv4CvZ1Ps=";
     };
     name = "dendron";
     license = "AGPL-3.0";
