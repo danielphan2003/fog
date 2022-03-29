@@ -8743,7 +8743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug-companion",
-    "version": "1.0.15",
+    "version": "1.0.16",
     "passthru": {
       "name": "js-debug-companion",
       "license": "MIT",
@@ -8751,10 +8751,10 @@
       "description": "Companion extension to js-debug that provides capability for remote debugging"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.15/file/ms-vscode.js-debug-companion-1.0.15.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.16/file/ms-vscode.js-debug-companion-1.0.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EYENLO7sKe02UA7EZkjcIcT44DlTEoLiV1ad03KTjCU="
+      "sha256": "sha256-NH0XkFeF/0zxA1qvPg7I8Cr2siBUCV2dTJji1wT9uDM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14143,7 +14143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "esbenp-prettier-vscode",
-    "version": "9.4.0",
+    "version": "9.5.0",
     "passthru": {
       "name": "prettier-vscode",
       "license": "MIT",
@@ -14151,10 +14151,10 @@
       "description": "Code formatter using prettier"
     },
     "src": {
-      "url": "https://open-vsx.org/api/esbenp/prettier-vscode/9.4.0/file/esbenp.prettier-vscode-9.4.0.vsix",
+      "url": "https://open-vsx.org/api/esbenp/prettier-vscode/9.5.0/file/esbenp.prettier-vscode-9.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-frdcdAcW0eB6veZ/sWfu1E/m5ZsjCP0ZRP6JU5mBAWs="
+      "sha256": "sha256-E6p38Z0X4teI7BCdtezljjQesYkq9rKcfR+gq8ydM7k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14763,7 +14763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.2511",
+    "version": "2022.3.2814",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14771,10 +14771,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2511/file/Slint.slint-nightly-2022.3.2511.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2814/file/Slint.slint-nightly-2022.3.2814.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZTblDxJq/rvqWyyXkQ7UQsEQ4TGWJQg/hm3wyb6Zo5I="
+      "sha256": "sha256-WppGgX4Os5oUNsFEW10Trq9y0ksmwUJoMCOkvX9QB5w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16763,7 +16763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "aki77-rails-db-schema",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "passthru": {
       "name": "rails-db-schema",
       "license": "MIT",
@@ -16771,10 +16771,10 @@
       "description": "Definition and Completion provider for Rails DB Schema."
     },
     "src": {
-      "url": "https://open-vsx.org/api/aki77/rails-db-schema/0.2.4/file/aki77.rails-db-schema-0.2.4.vsix",
+      "url": "https://open-vsx.org/api/aki77/rails-db-schema/0.2.5/file/aki77.rails-db-schema-0.2.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-S22NAaHFOynCqT98k7rq+JQtMxOnC4eCsjwK2f+Bfp4="
+      "sha256": "sha256-7XAf7CC3vKPM0J1m9pryhi5tqbS4/2LGZuVYVUPv5mM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21463,7 +21463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-debug",
-    "version": "0.38.0",
+    "version": "0.40.0",
     "passthru": {
       "name": "vscode-java-debug",
       "license": "",
@@ -21471,10 +21471,10 @@
       "description": "A lightweight Java debugger for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.38.0/file/vscjava.vscode-java-debug-0.38.0.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.0/file/vscjava.vscode-java-debug-0.40.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5QxKHa7fZH5MPkWrz5hCpP66VzICayxqE92jnPE7suQ="
+      "sha256": "sha256-NbVUB313a7f8HJMeCmwKXQlKwQsIrMGFKKMICFHIT4U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26363,7 +26363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "giscafer-leek-fund",
-    "version": "2.2.0",
+    "version": "2.3.1",
     "passthru": {
       "name": "leek-fund",
       "license": "BSD-3-Clause",
@@ -26371,10 +26371,10 @@
       "description": "é­èçå­ï¼VSCode éä¹å¯ä»¥çè¡ç¥¨ & åºéå®æ¶æ°æ®ï¼åæå¥½ç¨çæèµæä»¶"
     },
     "src": {
-      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.2.0/file/giscafer.leek-fund-2.2.0.vsix",
+      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.3.1/file/giscafer.leek-fund-2.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Lbm3A7kWHFeuzX3vn9vu35DgdcWQo2bBUrrL4Nifxxw="
+      "sha256": "sha256-0KrwKk+gEiGhrBwzTBYYfPaEyZpWrYQvRa98bTUxGl4="
     },
     "extract": null,
     "rustGitDeps": null

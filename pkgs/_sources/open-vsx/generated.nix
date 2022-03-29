@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2511";
+    version = "2022.3.2814";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2511/file/Slint.slint-nightly-2022.3.2511.vsix";
-      sha256 = "sha256-ZTblDxJq/rvqWyyXkQ7UQsEQ4TGWJQg/hm3wyb6Zo5I=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2814/file/Slint.slint-nightly-2022.3.2814.vsix";
+      sha256 = "sha256-WppGgX4Os5oUNsFEW10Trq9y0ksmwUJoMCOkvX9QB5w=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4035,10 +4035,10 @@
   };
   aki77-rails-db-schema = {
     pname = "aki77-rails-db-schema";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/aki77/rails-db-schema/0.2.4/file/aki77.rails-db-schema-0.2.4.vsix";
-      sha256 = "sha256-S22NAaHFOynCqT98k7rq+JQtMxOnC4eCsjwK2f+Bfp4=";
+      url = "https://open-vsx.org/api/aki77/rails-db-schema/0.2.5/file/aki77.rails-db-schema-0.2.5.vsix";
+      sha256 = "sha256-7XAf7CC3vKPM0J1m9pryhi5tqbS4/2LGZuVYVUPv5mM=";
     };
     name = "rails-db-schema";
     license = "MIT";
@@ -7503,10 +7503,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.4.0";
+    version = "9.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.4.0/file/esbenp.prettier-vscode-9.4.0.vsix";
-      sha256 = "sha256-frdcdAcW0eB6veZ/sWfu1E/m5ZsjCP0ZRP6JU5mBAWs=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.5.0/file/esbenp.prettier-vscode-9.5.0.vsix";
+      sha256 = "sha256-E6p38Z0X4teI7BCdtezljjQesYkq9rKcfR+gq8ydM7k=";
     };
     name = "prettier-vscode";
     license = "MIT";
@@ -8451,10 +8451,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.2.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.2.0/file/giscafer.leek-fund-2.2.0.vsix";
-      sha256 = "sha256-Lbm3A7kWHFeuzX3vn9vu35DgdcWQo2bBUrrL4Nifxxw=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.3.1/file/giscafer.leek-fund-2.3.1.vsix";
+      sha256 = "sha256-0KrwKk+gEiGhrBwzTBYYfPaEyZpWrYQvRa98bTUxGl4=";
     };
     name = "leek-fund";
     license = "BSD-3-Clause";
@@ -12339,10 +12339,10 @@
   };
   ms-vscode-js-debug-companion = {
     pname = "ms-vscode-js-debug-companion";
-    version = "1.0.15";
+    version = "1.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.15/file/ms-vscode.js-debug-companion-1.0.15.vsix";
-      sha256 = "sha256-EYENLO7sKe02UA7EZkjcIcT44DlTEoLiV1ad03KTjCU=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.16/file/ms-vscode.js-debug-companion-1.0.16.vsix";
+      sha256 = "sha256-NH0XkFeF/0zxA1qvPg7I8Cr2siBUCV2dTJji1wT9uDM=";
     };
     name = "js-debug-companion";
     license = "MIT";
@@ -17751,10 +17751,10 @@
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
-    version = "0.38.0";
+    version = "0.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.38.0/file/vscjava.vscode-java-debug-0.38.0.vsix";
-      sha256 = "sha256-5QxKHa7fZH5MPkWrz5hCpP66VzICayxqE92jnPE7suQ=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.0/file/vscjava.vscode-java-debug-0.40.0.vsix";
+      sha256 = "sha256-NbVUB313a7f8HJMeCmwKXQlKwQsIrMGFKKMICFHIT4U=";
     };
     name = "vscode-java-debug";
     license = "";
