@@ -9883,7 +9883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "foam-foam-vscode",
-    "version": "0.17.6",
+    "version": "0.17.7",
     "passthru": {
       "name": "foam-vscode",
       "license": "MIT",
@@ -9891,10 +9891,10 @@
       "description": "VS Code + Markdown + Wikilinks for your note taking and knowledge base"
     },
     "src": {
-      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.6/file/foam.foam-vscode-0.17.6.vsix",
+      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.7/file/foam.foam-vscode-0.17.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CwrCkK3J3DqLWeDAVHOgBoONWtZpCEQzJwZKPMEmOrU="
+      "sha256": "sha256-+fy6sT0ckMkyWvX/ZE/cjc7u0rIrn+0CT8gS8twWIDA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12235,6 +12235,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-em1fITeW+FxGwGY9aumvYHXRZlAfcS8LnPpGaUTAU8A="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "joelday-docthis": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "joelday-docthis",
+    "version": "0.8.2",
+    "passthru": {
+      "name": "docthis",
+      "license": "MIT",
+      "publisher": "joelday",
+      "description": "Automatically generates detailed JSDoc comments in TypeScript and JavaScript files."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/joelday/docthis/0.8.2/file/joelday.docthis-0.8.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5Wgq8Crl+7UADKoA9F2bpPJn/+B5rmkXauaBCev+fXE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15143,7 +15163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robocorp-robotframework-lsp",
-    "version": "0.43.0",
+    "version": "0.43.2",
     "passthru": {
       "name": "robotframework-lsp",
       "license": "Apache 2.0",
@@ -15151,10 +15171,10 @@
       "description": "VSCode extension support for Robot Framework"
     },
     "src": {
-      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.43.0/file/robocorp.robotframework-lsp-0.43.0.vsix",
+      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.43.2/file/robocorp.robotframework-lsp-0.43.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5oIIpU85fRvsC9zHb2Ujh0s26J7lodjmjrEPQiqOCdA="
+      "sha256": "sha256-7aKLTUFEOHBYQXEwGyOJlHELybjideRZIz9A4O2624k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18215,6 +18235,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-r9pRq5vhjBL6yvvWmYQGOBqoj6jKRtT3nd0eZV5nBEA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ikappas-phpcs": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ikappas-phpcs",
+    "version": "1.0.5",
+    "passthru": {
+      "name": "phpcs",
+      "license": "MIT",
+      "publisher": "ikappas",
+      "description": "PHP CodeSniffer for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ikappas/phpcs/1.0.5/file/ikappas.phpcs-1.0.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-2GM9o3qr3rx/reCXAenKbRHRX8tqi//X8n2EYmbWyvw="
     },
     "extract": null,
     "rustGitDeps": null

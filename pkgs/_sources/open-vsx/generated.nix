@@ -7959,10 +7959,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.17.6";
+    version = "0.17.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.6/file/foam.foam-vscode-0.17.6.vsix";
-      sha256 = "sha256-CwrCkK3J3DqLWeDAVHOgBoONWtZpCEQzJwZKPMEmOrU=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.7/file/foam.foam-vscode-0.17.7.vsix";
+      sha256 = "sha256-+fy6sT0ckMkyWvX/ZE/cjc7u0rIrn+0CT8gS8twWIDA=";
     };
     name = "foam-vscode";
     license = "MIT";
@@ -9421,6 +9421,18 @@
     publisher = "idleberg";
     description = "Context-aware WordPress salts generation for PHP, YAML, DotEnv and JSON files without the need of an internet-connection";
   };
+  ikappas-phpcs = {
+    pname = "ikappas-phpcs";
+    version = "1.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ikappas/phpcs/1.0.5/file/ikappas.phpcs-1.0.5.vsix";
+      sha256 = "sha256-2GM9o3qr3rx/reCXAenKbRHRX8tqi//X8n2EYmbWyvw=";
+    };
+    name = "phpcs";
+    license = "MIT";
+    publisher = "ikappas";
+    description = "PHP CodeSniffer for Visual Studio Code";
+  };
   iliazeus-vscode-ansi = {
     pname = "iliazeus-vscode-ansi";
     version = "1.1.2";
@@ -9960,6 +9972,18 @@
     license = "MIT";
     publisher = "jock";
     description = "SVG Coding, Minify, Pretty, Preview All-In-One";
+  };
+  joelday-docthis = {
+    pname = "joelday-docthis";
+    version = "0.8.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/joelday/docthis/0.8.2/file/joelday.docthis-0.8.2.vsix";
+      sha256 = "sha256-5Wgq8Crl+7UADKoA9F2bpPJn/+B5rmkXauaBCev+fXE=";
+    };
+    name = "docthis";
+    license = "MIT";
+    publisher = "joelday";
+    description = "Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.";
   };
   johnbillion-vscode-wordpress-hooks = {
     pname = "johnbillion-vscode-wordpress-hooks";
@@ -14859,10 +14883,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.43.0";
+    version = "0.43.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.43.0/file/robocorp.robotframework-lsp-0.43.0.vsix";
-      sha256 = "sha256-5oIIpU85fRvsC9zHb2Ujh0s26J7lodjmjrEPQiqOCdA=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.43.2/file/robocorp.robotframework-lsp-0.43.2.vsix";
+      sha256 = "sha256-7aKLTUFEOHBYQXEwGyOJlHELybjideRZIz9A4O2624k=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
