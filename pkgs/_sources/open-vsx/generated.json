@@ -3263,7 +3263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.4",
+    "version": "0.11.6",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3271,10 +3271,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.4/file/d-biehl.robotcode-0.11.4.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.6/file/d-biehl.robotcode-0.11.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-neeSfoD78ou/OPx2yIw/RL9Txj/zBodKgbC9QHLEnkI="
+      "sha256": "sha256-Ln1jrQuUFaaJnAW/lt3HlHZn5LwcFuvzq2Zu/DnED7k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6463,7 +6463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cloudstudio-coding-repositories",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "passthru": {
       "name": "coding-repositories",
       "license": "MIT",
@@ -6471,10 +6471,10 @@
       "description": "Remotely browse and edit any CODING repository"
     },
     "src": {
-      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.7/file/cloudstudio.coding-repositories-0.0.7.vsix",
+      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.8/file/cloudstudio.coding-repositories-0.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7kcGnXGN1gwPpHue2FtbZBDvMWeOqNbkH3EOJvEmUh4="
+      "sha256": "sha256-wMJxbb8jwT183GtWg5IvRnC24WKciwcnUo1L7OgmmS0="
     },
     "extract": null,
     "rustGitDeps": null

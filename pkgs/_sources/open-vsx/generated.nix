@@ -5907,10 +5907,10 @@
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.7/file/cloudstudio.coding-repositories-0.0.7.vsix";
-      sha256 = "sha256-7kcGnXGN1gwPpHue2FtbZBDvMWeOqNbkH3EOJvEmUh4=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.8/file/cloudstudio.coding-repositories-0.0.8.vsix";
+      sha256 = "sha256-wMJxbb8jwT183GtWg5IvRnC24WKciwcnUo1L7OgmmS0=";
     };
     name = "coding-repositories";
     license = "MIT";
@@ -6435,10 +6435,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.4";
+    version = "0.11.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.4/file/d-biehl.robotcode-0.11.4.vsix";
-      sha256 = "sha256-neeSfoD78ou/OPx2yIw/RL9Txj/zBodKgbC9QHLEnkI=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.6/file/d-biehl.robotcode-0.11.6.vsix";
+      sha256 = "sha256-Ln1jrQuUFaaJnAW/lt3HlHZn5LwcFuvzq2Zu/DnED7k=";
     };
     name = "robotcode";
     license = "Apache-2.0";
