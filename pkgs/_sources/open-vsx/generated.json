@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.87.5",
+    "version": "0.87.6",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.87.5/file/dendron.nightly-0.87.5.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.87.6/file/dendron.nightly-0.87.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vcXrd5NGagSAnIviMVAm9Xb10gc390CSRbY/Us4CcT8="
+      "sha256": "sha256-yruE7F4+fDbldSTsoyhiHT75DibQhZRG36lS6YMYlqA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5583,7 +5583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anteprimorac-html-end-tag-labels",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "passthru": {
       "name": "html-end-tag-labels",
       "license": "MIT",
@@ -5591,10 +5591,10 @@
       "description": "Labels HTML end tags in VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anteprimorac/html-end-tag-labels/0.8.0/file/anteprimorac.html-end-tag-labels-0.8.0.vsix",
+      "url": "https://open-vsx.org/api/anteprimorac/html-end-tag-labels/0.9.0/file/anteprimorac.html-end-tag-labels-0.9.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-shknVQmgr+zed9pESzYe8eI3/CbUgKJt2YFEjpxNt1U="
+      "sha256": "sha256-cuSHr2NTWlM4bZV0gNPP+zMQABLuJPr5B7lQeii+9H4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9503,7 +9503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GraphQL-vscode-graphql",
-    "version": "0.3.52",
+    "version": "0.3.53",
     "passthru": {
       "name": "vscode-graphql",
       "license": "MIT",
@@ -9511,10 +9511,10 @@
       "description": "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tags or comments."
     },
     "src": {
-      "url": "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.52/file/GraphQL.vscode-graphql-0.3.52.vsix",
+      "url": "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.53/file/GraphQL.vscode-graphql-0.3.53.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mKms/iFvR2CdAZBuMYkW4bpckHXS7XkXr0gNEggS7oI="
+      "sha256": "sha256-4w23mEdYyvUPpEjAaa0yNvXhmnH2kPfggFSBKJMS0iE="
     },
     "extract": null,
     "rustGitDeps": null
