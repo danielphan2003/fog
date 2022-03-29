@@ -1923,18 +1923,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "paiqo-databricks-vscode",
-    "version": "0.8.0",
+    "version": "0.9.3",
     "passthru": {
       "name": "databricks-vscode",
-      "license": "GPLv3",
+      "license": "GPL-3.0-or-later",
       "publisher": "paiqo",
       "description": "Databricks Extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/paiqo/databricks-vscode/0.8.0/file/paiqo.databricks-vscode-0.8.0.vsix",
+      "url": "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.3/file/paiqo.databricks-vscode-0.9.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ogZRmHwpvc8N5bPZE5RNrZ66OlCAOpGa6fgLf04cXq0="
+      "sha256": "sha256-HWKMeWXXEYJaAWZh9iwIEz0HBniLTd1inB6TJMg6868="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12055,6 +12055,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-c7TzlgQDenCzryfGx80pfCF5WHSWedjvd8mzIXQjIGg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "reachsh-reach-ide": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "reachsh-reach-ide",
+    "version": "1001.7.3",
+    "passthru": {
+      "name": "reach-ide",
+      "license": "EPL-2.0",
+      "publisher": "reachsh",
+      "description": "IDE for the Reach DApp programming language"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/reachsh/reach-ide/1001.7.3/file/reachsh.reach-ide-1001.7.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-NTiv8ClZjeY1hP62soTAM2E2hGBStK1+55/RgRyq8wQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26283,7 +26303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-toolsai-jupyter",
-    "version": "2022.3.1000752054",
+    "version": "2022.3.1000901801",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -26291,10 +26311,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.3.1000752054/file/ms-toolsai.jupyter-2022.3.1000752054.vsix",
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.3.1000901801/file/ms-toolsai.jupyter-2022.3.1000901801.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-015B8yz4sqo4/+HdG0sRkYNaV85zU8t1R67Iqy1zaF8="
+      "sha256": "sha256-dEdBwPC1XdE8aa/4HJZen6OwVLGZziVolphiQJkjBDQ="
     },
     "extract": null,
     "rustGitDeps": null

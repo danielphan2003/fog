@@ -12243,10 +12243,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.3.1000752054";
+    version = "2022.3.1000901801";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.3.1000752054/file/ms-toolsai.jupyter-2022.3.1000752054.vsix";
-      sha256 = "sha256-015B8yz4sqo4/+HdG0sRkYNaV85zU8t1R67Iqy1zaF8=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.3.1000901801/file/ms-toolsai.jupyter-2022.3.1000901801.vsix";
+      sha256 = "sha256-dEdBwPC1XdE8aa/4HJZen6OwVLGZziVolphiQJkjBDQ=";
     };
     name = "jupyter";
     license = "MIT";
@@ -13503,13 +13503,13 @@
   };
   paiqo-databricks-vscode = {
     pname = "paiqo-databricks-vscode";
-    version = "0.8.0";
+    version = "0.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/paiqo/databricks-vscode/0.8.0/file/paiqo.databricks-vscode-0.8.0.vsix";
-      sha256 = "sha256-ogZRmHwpvc8N5bPZE5RNrZ66OlCAOpGa6fgLf04cXq0=";
+      url = "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.3/file/paiqo.databricks-vscode-0.9.3.vsix";
+      sha256 = "sha256-HWKMeWXXEYJaAWZh9iwIEz0HBniLTd1inB6TJMg6868=";
     };
     name = "databricks-vscode";
-    license = "GPLv3";
+    license = "GPL-3.0-or-later";
     publisher = "paiqo";
     description = "Databricks Extension for VSCode";
   };
@@ -14352,6 +14352,18 @@
     license = "MIT";
     publisher = "rbozan";
     description = "Provides autocompletion for the translations in your project (using lsp-translations, written in Rust).";
+  };
+  reachsh-reach-ide = {
+    pname = "reachsh-reach-ide";
+    version = "1001.7.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/reachsh/reach-ide/1001.7.3/file/reachsh.reach-ide-1001.7.3.vsix";
+      sha256 = "sha256-NTiv8ClZjeY1hP62soTAM2E2hGBStK1+55/RgRyq8wQ=";
+    };
+    name = "reach-ide";
+    license = "EPL-2.0";
+    publisher = "reachsh";
+    description = "IDE for the Reach DApp programming language";
   };
   readthedocs-rtdbin = {
     pname = "readthedocs-rtdbin";
