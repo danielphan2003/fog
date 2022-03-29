@@ -327,10 +327,10 @@
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.0.0/file/BroadcomMFD.hlasm-language-support-1.0.0.vsix";
-      sha256 = "sha256-oRphOZGzIWZwJHYpjEArJ3R+4OoBciCdHz8rEpPdahg=";
+      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.1.0/file/BroadcomMFD.hlasm-language-support-1.1.0.vsix";
+      sha256 = "sha256-4Rf/YZlU29chAxSlZix/3hlMLpgWmeFnLyTja+FmrU4=";
     };
     name = "hlasm-language-support";
     license = "EPL-2.0";
@@ -975,10 +975,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.7.0";
+    version = "3.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.0/file/F5DevCentral.vscode-f5-3.7.0.vsix";
-      sha256 = "sha256-MrIZRbqJYikaE6xFJ3ylNck+9UwcS4H/HWdWJmLMpL0=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.1/file/F5DevCentral.vscode-f5-3.7.1.vsix";
+      sha256 = "sha256-1odR9V3VN1a3dxwzysp/co5TI+4mIBHXQK5j/GTT75Q=";
     };
     name = "vscode-f5";
     license = "Apache-2.0";
@@ -5907,10 +5907,10 @@
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.8/file/cloudstudio.coding-repositories-0.0.8.vsix";
-      sha256 = "sha256-wMJxbb8jwT183GtWg5IvRnC24WKciwcnUo1L7OgmmS0=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.9/file/cloudstudio.coding-repositories-0.0.9.vsix";
+      sha256 = "sha256-DFe+MjvLrUpXjg8eWvqBSWwxKnJ0fY/QcyQqe5g/QAg=";
     };
     name = "coding-repositories";
     license = "MIT";
@@ -7299,10 +7299,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2053374";
+    version = "7.1.2059769";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2053374/file/eliostruyf.vscode-front-matter-beta-7.1.2053374.vsix";
-      sha256 = "sha256-Yc3N6mj1HblERHmdBJ2XmzPqbPQ/AOUZBfcI+ZKE0uM=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2059769/file/eliostruyf.vscode-front-matter-beta-7.1.2059769.vsix";
+      sha256 = "sha256-+cSkIMQi3fntkqob67SOBYpcsp4mzddf2F9+2P67qag=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -14187,10 +14187,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.10.0";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.10.0/file/quarto.quarto-1.10.0.vsix";
-      sha256 = "sha256-eMnCR6l7xdbsyujPa4SbXn/rl1NsaYw85JqT/+JXX0k=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.11.0/file/quarto.quarto-1.11.0.vsix";
+      sha256 = "sha256-lUrRaxuqMrqBitiIngFEmvO4sa6XESJ9ItnoWGQPb3k=";
     };
     name = "quarto";
     license = "MIT";
@@ -14691,10 +14691,10 @@
   };
   redhat-vscode-xml = {
     pname = "redhat-vscode-xml";
-    version = "0.19.1";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-xml/0.19.1/file/redhat.vscode-xml-0.19.1.vsix";
-      sha256 = "sha256-PyUOZFXtrBTXlrZsWS/zo1fVHldlNXNwEd8vnkD1lEw=";
+      url = "https://open-vsx.org/api/redhat/vscode-xml/0.20.0/file/redhat.vscode-xml-0.20.0.vsix";
+      sha256 = "sha256-GKBrf9s8n7Wv14RSfwyDma1dM0fGMvRkU/7v2DAcB9A=";
     };
     name = "vscode-xml";
     license = "EPL-2.0";
@@ -15627,10 +15627,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.13";
+    version = "0.13.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.13/file/shufo.vscode-blade-formatter-0.13.13.vsix";
-      sha256 = "sha256-AE3qwbWkkkEN/DIsWSMfWw21juL3hTQ7tcXlnmkQiv8=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.14/file/shufo.vscode-blade-formatter-0.13.14.vsix";
+      sha256 = "sha256-RqOQ/nkYYVTG1nn/+XOnS8aZwDrAXcZsm6O3f52EN5E=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
