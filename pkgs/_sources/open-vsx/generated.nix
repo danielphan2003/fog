@@ -14703,10 +14703,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.5.1";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.5.1/file/redhat.vscode-yaml-1.5.1.vsix";
-      sha256 = "sha256-JXhmgBFZdKNjgX6K7U+M/T7HEmIOBQOzQEJ5957TUuM=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.6.0/file/redhat.vscode-yaml-1.6.0.vsix";
+      sha256 = "sha256-OHzZl3G4laob7E3cgvZJ2EcuPGBf3CfEZ8/4SYNnfog=";
     };
     name = "vscode-yaml";
     license = "MIT";
@@ -17031,10 +17031,10 @@
   };
   tomi-xasnippets = {
     pname = "tomi-xasnippets";
-    version = "2.11.0";
+    version = "2.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tomi/xasnippets/2.11.0/file/tomi.xasnippets-2.11.0.vsix";
-      sha256 = "sha256-X7nzq6sWdcWD77wNtV15wuGdPC07nJdDLKHjxC4tC/k=";
+      url = "https://open-vsx.org/api/tomi/xasnippets/2.12.0/file/tomi.xasnippets-2.12.0.vsix";
+      sha256 = "sha256-gwQEqgtYN5JPo1ZrVDMLx8Sdeo3WpEZPB3tozUVK/AM=";
     };
     name = "xasnippets";
     license = "ISC";
