@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "65654f1e9cfc6cb691b228840d27c18b18ee3cc5",
+    "version": "fe9f613a8764cd0ef2a8d1fe6ab205895e460b2a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-2pHhIsZevcgFC5nSgymVKEPlOi6riekSmMA9Atx9UH4=",
-      "rev": "65654f1e9cfc6cb691b228840d27c18b18ee3cc5"
+      "sha256": "sha256-Dj9CyYALSLoWf7j63D2d80LcBUHh5YDsgwHhVRZMemY=",
+      "rev": "fe9f613a8764cd0ef2a8d1fe6ab205895e460b2a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6011",
+    "version": "1.0.6012",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6011-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6012-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7m3ljv42DES36SxvVoMbmhRNAOOgS2tSSPIiNoTRWAU="
+      "sha256": "sha256-CKkusmSM7hvS4WpTGbV6YBzyhWK1nrrJ+GSuw81Z5nE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6011",
+    "version": "1.0.6012",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6011.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6012.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FDCGyA5hL4+8PkMy3dJRwTpOBS5+FugwSSdZWtqtg0o="
+      "sha256": "sha256-3OyHHPqX3VE//vHgg4Yh+p4Hx0eWTLgaOaQ/3zvIvxY="
     },
     "extract": null,
     "rustGitDeps": null
