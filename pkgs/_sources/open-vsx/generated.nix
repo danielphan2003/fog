@@ -1155,10 +1155,10 @@
   };
   GraphQL-vscode-graphql = {
     pname = "GraphQL-vscode-graphql";
-    version = "0.3.52";
+    version = "0.3.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.52/file/GraphQL.vscode-graphql-0.3.52.vsix";
-      sha256 = "sha256-mKms/iFvR2CdAZBuMYkW4bpckHXS7XkXr0gNEggS7oI=";
+      url = "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.53/file/GraphQL.vscode-graphql-0.3.53.vsix";
+      sha256 = "sha256-4w23mEdYyvUPpEjAaa0yNvXhmnH2kPfggFSBKJMS0iE=";
     };
     name = "vscode-graphql";
     license = "MIT";
@@ -4347,10 +4347,10 @@
   };
   anteprimorac-html-end-tag-labels = {
     pname = "anteprimorac-html-end-tag-labels";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anteprimorac/html-end-tag-labels/0.8.0/file/anteprimorac.html-end-tag-labels-0.8.0.vsix";
-      sha256 = "sha256-shknVQmgr+zed9pESzYe8eI3/CbUgKJt2YFEjpxNt1U=";
+      url = "https://open-vsx.org/api/anteprimorac/html-end-tag-labels/0.9.0/file/anteprimorac.html-end-tag-labels-0.9.0.vsix";
+      sha256 = "sha256-cuSHr2NTWlM4bZV0gNPP+zMQABLuJPr5B7lQeii+9H4=";
     };
     name = "html-end-tag-labels";
     license = "MIT";
@@ -6843,10 +6843,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.87.5";
+    version = "0.87.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.87.5/file/dendron.nightly-0.87.5.vsix";
-      sha256 = "sha256-vcXrd5NGagSAnIviMVAm9Xb10gc390CSRbY/Us4CcT8=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.87.6/file/dendron.nightly-0.87.6.vsix";
+      sha256 = "sha256-yruE7F4+fDbldSTsoyhiHT75DibQhZRG36lS6YMYlqA=";
     };
     name = "nightly";
     license = "AGPL-3.0";
