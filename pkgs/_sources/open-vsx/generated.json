@@ -143,7 +143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "F5DevCentral-vscode-f5",
-    "version": "3.7.0",
+    "version": "3.7.1",
     "passthru": {
       "name": "vscode-f5",
       "license": "Apache-2.0",
@@ -151,10 +151,10 @@
       "description": "Supercharge your F5 automation development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.0/file/F5DevCentral.vscode-f5-3.7.0.vsix",
+      "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.1/file/F5DevCentral.vscode-f5-3.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MrIZRbqJYikaE6xFJ3ylNck+9UwcS4H/HWdWJmLMpL0="
+      "sha256": "sha256-1odR9V3VN1a3dxwzysp/co5TI+4mIBHXQK5j/GTT75Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3843,7 +3843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-hlasm-language-support",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "passthru": {
       "name": "hlasm-language-support",
       "license": "EPL-2.0",
@@ -3851,10 +3851,10 @@
       "description": "Code completion, highlighting, browsing and validation for High Level Assembler."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.0.0/file/BroadcomMFD.hlasm-language-support-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.1.0/file/BroadcomMFD.hlasm-language-support-1.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oRphOZGzIWZwJHYpjEArJ3R+4OoBciCdHz8rEpPdahg="
+      "sha256": "sha256-4Rf/YZlU29chAxSlZix/3hlMLpgWmeFnLyTja+FmrU4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6463,7 +6463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cloudstudio-coding-repositories",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "passthru": {
       "name": "coding-repositories",
       "license": "MIT",
@@ -6471,10 +6471,10 @@
       "description": "Remotely browse and edit any CODING repository"
     },
     "src": {
-      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.8/file/cloudstudio.coding-repositories-0.0.8.vsix",
+      "url": "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.9/file/cloudstudio.coding-repositories-0.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wMJxbb8jwT183GtWg5IvRnC24WKciwcnUo1L7OgmmS0="
+      "sha256": "sha256-DFe+MjvLrUpXjg8eWvqBSWwxKnJ0fY/QcyQqe5g/QAg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7243,7 +7243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.10.0",
+    "version": "1.11.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7251,10 +7251,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.10.0/file/quarto.quarto-1.10.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.11.0/file/quarto.quarto-1.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eMnCR6l7xdbsyujPa4SbXn/rl1NsaYw85JqT/+JXX0k="
+      "sha256": "sha256-lUrRaxuqMrqBitiIngFEmvO4sa6XESJ9ItnoWGQPb3k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9323,7 +9323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2053374",
+    "version": "7.1.2059769",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9331,10 +9331,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2053374/file/eliostruyf.vscode-front-matter-beta-7.1.2053374.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2059769/file/eliostruyf.vscode-front-matter-beta-7.1.2059769.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Yc3N6mj1HblERHmdBJ2XmzPqbPQ/AOUZBfcI+ZKE0uM="
+      "sha256": "sha256-+cSkIMQi3fntkqob67SOBYpcsp4mzddf2F9+2P67qag="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17123,7 +17123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.13",
+    "version": "0.13.14",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -17131,10 +17131,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.13/file/shufo.vscode-blade-formatter-0.13.13.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.14/file/shufo.vscode-blade-formatter-0.13.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AE3qwbWkkkEN/DIsWSMfWw21juL3hTQ7tcXlnmkQiv8="
+      "sha256": "sha256-RqOQ/nkYYVTG1nn/+XOnS8aZwDrAXcZsm6O3f52EN5E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19383,7 +19383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-xml",
-    "version": "0.19.1",
+    "version": "0.20.0",
     "passthru": {
       "name": "vscode-xml",
       "license": "EPL-2.0",
@@ -19391,10 +19391,10 @@
       "description": "XML Language Support by Red Hat"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-xml/0.19.1/file/redhat.vscode-xml-0.19.1.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-xml/0.20.0/file/redhat.vscode-xml-0.20.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PyUOZFXtrBTXlrZsWS/zo1fVHldlNXNwEd8vnkD1lEw="
+      "sha256": "sha256-GKBrf9s8n7Wv14RSfwyDma1dM0fGMvRkU/7v2DAcB9A="
     },
     "extract": null,
     "rustGitDeps": null
