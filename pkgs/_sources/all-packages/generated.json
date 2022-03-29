@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "dc2f6da8139cec37c5d8b20882b2c4665a50e5cc",
+    "version": "de4e56ecf28a09057734f8624af6d62f3088734f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-MFWK+L/Dn2WTYeFcQ4/qLeDGEGpX7IhBMzx1k69plMw=",
-      "rev": "dc2f6da8139cec37c5d8b20882b2c4665a50e5cc"
+      "sha256": "sha256-fMsHMQiEoXeFKITxeEyRH829z5SCf8p0Hxq6ww1p3z4=",
+      "rev": "de4e56ecf28a09057734f8624af6d62f3088734f"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1228,7 +1228,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "steamcompmgr",
-    "version": "343714fbc31210a0c73b7c877081b903952f3402",
+    "version": "344f84882c4dea56ca4ffa15fe1b6271317e3832",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1238,8 +1238,8 @@
       "name": null,
       "repo": "steamos-compositor-plus",
       "type": "github",
-      "sha256": "sha256-AWK67jN99MeShB1bdwcASsU2Uo0QNL3S8DG3gHQheis=",
-      "rev": "343714fbc31210a0c73b7c877081b903952f3402"
+      "sha256": "sha256-LfR7uNaUzw3BR3vYdMiacZP1hrOAC0j0Hc9yB+gDYm4=",
+      "rev": "344f84882c4dea56ca4ffa15fe1b6271317e3832"
     },
     "extract": null,
     "rustGitDeps": null

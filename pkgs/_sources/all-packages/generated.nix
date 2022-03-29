@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "dc2f6da8139cec37c5d8b20882b2c4665a50e5cc";
+    version = "de4e56ecf28a09057734f8624af6d62f3088734f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "dc2f6da8139cec37c5d8b20882b2c4665a50e5cc";
+      rev = "de4e56ecf28a09057734f8624af6d62f3088734f";
       fetchSubmodules = false;
-      sha256 = "sha256-MFWK+L/Dn2WTYeFcQ4/qLeDGEGpX7IhBMzx1k69plMw=";
+      sha256 = "sha256-fMsHMQiEoXeFKITxeEyRH829z5SCf8p0Hxq6ww1p3z4=";
     });
   };
   rofi-wayland = {
@@ -935,13 +935,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "343714fbc31210a0c73b7c877081b903952f3402";
+    version = "344f84882c4dea56ca4ffa15fe1b6271317e3832";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "343714fbc31210a0c73b7c877081b903952f3402";
+      rev = "344f84882c4dea56ca4ffa15fe1b6271317e3832";
       fetchSubmodules = false;
-      sha256 = "sha256-AWK67jN99MeShB1bdwcASsU2Uo0QNL3S8DG3gHQheis=";
+      sha256 = "sha256-LfR7uNaUzw3BR3vYdMiacZP1hrOAC0j0Hc9yB+gDYm4=";
     });
   };
   sway-borders = {
