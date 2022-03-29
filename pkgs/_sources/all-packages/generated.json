@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6006",
+    "version": "1.0.6008",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6006-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6008-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7Tuvn7eP4M1nNif0yJkKbxIYeLgCNIeCK8h+TKDobjo="
+      "sha256": "sha256-tyantU7XmoK0WwumgHX2l+YmCYOzjpWr47FQkyDyXh4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6006",
+    "version": "1.0.6008",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6006.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6008.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8qNLfI9LrC/uRzfinUD8PM+g9mzKi6BntFg9Ti4/Of0="
+      "sha256": "sha256-azhdRaaFNn02eyh7JgZENGbTNJaTJ/TOtAxcwDQxL8Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1548,7 +1548,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "563d903e4486ca1644a064ac8de5e36127a2cbdb",
+    "version": "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1558,8 +1558,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-M/iqqpwzlxIrCOyQPGlwGzklsFjGAYDRsDkoUMXZwis=",
-      "rev": "563d903e4486ca1644a064ac8de5e36127a2cbdb"
+      "sha256": "sha256-XTVg2e5KRLpImgXsGZsGEIjbAhRDJc/NO/NmbGKMR9Y=",
+      "rev": "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1923,7 +1923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dnscrypt-proxy2",
-    "version": "c467e20311ed21134d878a8f5ec230790e0b4355",
+    "version": "ed2c8806487f9eb6e5d8ec564002ae630a40b2e3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1933,8 +1933,8 @@
       "name": null,
       "repo": "dnscrypt-proxy",
       "type": "github",
-      "sha256": "sha256-UrvN9Gnh+DHiTFcbvzhj4dRe9M5D6ZDRb6flWGNKm7A=",
-      "rev": "c467e20311ed21134d878a8f5ec230790e0b4355"
+      "sha256": "sha256-XrieSPt1SS/GBOhrBD6tGAlQcqTKB2WavISnCnHcjfg=",
+      "rev": "ed2c8806487f9eb6e5d8ec564002ae630a40b2e3"
     },
     "extract": null,
     "rustGitDeps": null

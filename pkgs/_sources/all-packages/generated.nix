@@ -243,13 +243,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "c467e20311ed21134d878a8f5ec230790e0b4355";
+    version = "ed2c8806487f9eb6e5d8ec564002ae630a40b2e3";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "c467e20311ed21134d878a8f5ec230790e0b4355";
+      rev = "ed2c8806487f9eb6e5d8ec564002ae630a40b2e3";
       fetchSubmodules = false;
-      sha256 = "sha256-UrvN9Gnh+DHiTFcbvzhj4dRe9M5D6ZDRb6flWGNKm7A=";
+      sha256 = "sha256-XrieSPt1SS/GBOhrBD6tGAlQcqTKB2WavISnCnHcjfg=";
     });
   };
   doggo = {
@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6006";
+    version = "1.0.6008";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6006.tar.bz2";
-      sha256 = "sha256-8qNLfI9LrC/uRzfinUD8PM+g9mzKi6BntFg9Ti4/Of0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6008.tar.bz2";
+      sha256 = "sha256-azhdRaaFNn02eyh7JgZENGbTNJaTJ/TOtAxcwDQxL8Q=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6006";
+    version = "1.0.6008";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6006-1_all.deb";
-      sha256 = "sha256-7Tuvn7eP4M1nNif0yJkKbxIYeLgCNIeCK8h+TKDobjo=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6008-1_all.deb";
+      sha256 = "sha256-tyantU7XmoK0WwumgHX2l+YmCYOzjpWr47FQkyDyXh4=";
     };
   };
   jitsi-videobridge2 = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "563d903e4486ca1644a064ac8de5e36127a2cbdb";
+    version = "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "563d903e4486ca1644a064ac8de5e36127a2cbdb";
+      rev = "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065";
       fetchSubmodules = false;
-      sha256 = "sha256-M/iqqpwzlxIrCOyQPGlwGzklsFjGAYDRsDkoUMXZwis=";
+      sha256 = "sha256-XTVg2e5KRLpImgXsGZsGEIjbAhRDJc/NO/NmbGKMR9Y=";
     });
   };
   xdg-desktop-portal-gtk = {
