@@ -7283,7 +7283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PKief-material-icon-theme",
-    "version": "4.14.1",
+    "version": "4.15.0",
     "passthru": {
       "name": "material-icon-theme",
       "license": "MIT",
@@ -7291,10 +7291,10 @@
       "description": "Material Design Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.14.1/file/PKief.material-icon-theme-4.14.1.vsix",
+      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.15.0/file/PKief.material-icon-theme-4.15.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OHXi0EfeyKMeFiMU5yg0aDoWds4ED0lb+l6T12XZ3LQ="
+      "sha256": "sha256-fVxs+XKop/0ElMbfP9yRtCem+pCMMug/SgJff8RER68="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26575,6 +26575,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-XVW+rav2oj9HEjSTumqGMtOSq/LWt+Sw+dUxgSTGQ5o="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "revng-llvm-ir": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "revng-llvm-ir",
+    "version": "1.0.3",
+    "passthru": {
+      "name": "llvm-ir",
+      "license": "MIT",
+      "publisher": "revng",
+      "description": "LLVM IR language support for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/revng/llvm-ir/1.0.3/file/revng.llvm-ir-1.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-3ZIHB0DeBY11Y006MLuNM1fnjGhpem6lbJcZOCMKykU="
     },
     "extract": null,
     "rustGitDeps": null

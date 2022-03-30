@@ -2487,10 +2487,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.14.1";
+    version = "4.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.14.1/file/PKief.material-icon-theme-4.14.1.vsix";
-      sha256 = "sha256-OHXi0EfeyKMeFiMU5yg0aDoWds4ED0lb+l6T12XZ3LQ=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.15.0/file/PKief.material-icon-theme-4.15.0.vsix";
+      sha256 = "sha256-fVxs+XKop/0ElMbfP9yRtCem+pCMMug/SgJff8RER68=";
     };
     name = "material-icon-theme";
     license = "MIT";
@@ -14808,6 +14808,18 @@
     license = "MIT";
     publisher = "redwan-hossain";
     description = "Pure black theme with vibrant hand picked colors that ensures peace of your eyes.";
+  };
+  revng-llvm-ir = {
+    pname = "revng-llvm-ir";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/revng/llvm-ir/1.0.3/file/revng.llvm-ir-1.0.3.vsix";
+      sha256 = "sha256-3ZIHB0DeBY11Y006MLuNM1fnjGhpem6lbJcZOCMKykU=";
+    };
+    name = "llvm-ir";
+    license = "MIT";
+    publisher = "revng";
+    description = "LLVM IR language support for Visual Studio Code";
   };
   ria-elastic = {
     pname = "ria-elastic";
