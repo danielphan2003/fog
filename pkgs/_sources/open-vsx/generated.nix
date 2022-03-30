@@ -5653,6 +5653,18 @@
     publisher = "cab404";
     description = "Automatically detect and load .envrc when opening VS Code";
   };
+  caiqichang-vscode-translation = {
+    pname = "caiqichang-vscode-translation";
+    version = "2.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/caiqichang/vscode-translation/2.0.3/file/caiqichang.vscode-translation-2.0.3.vsix";
+      sha256 = "sha256-teA0jQbcwgdobqNkf9qEtrIZg8O65AsOJir0ebdhuNU=";
+    };
+    name = "vscode-translation";
+    license = "GPL-3.0";
+    publisher = "caiqichang";
+    description = "A translation tool for Visual Studio Code.";
+  };
   camel-tooling-yo = {
     pname = "camel-tooling-yo";
     version = "0.9.11";
@@ -5919,10 +5931,10 @@
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.1/file/cmoog.sqlnotebook-0.5.1.vsix";
-      sha256 = "sha256-5nJtjOG13gr4HBw1kBdernBgc3dCbWC9Q5yqN2YE0rw=";
+      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.2/file/cmoog.sqlnotebook-0.5.2.vsix";
+      sha256 = "sha256-K8R3FTGEdyH1HpbgqQNFKzPEnMhclEzHQah0ylH6toM=";
     };
     name = "sqlnotebook";
     license = "MIT";
@@ -14211,10 +14223,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.11.0";
+    version = "1.11.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.11.0/file/quarto.quarto-1.11.0.vsix";
-      sha256 = "sha256-lUrRaxuqMrqBitiIngFEmvO4sa6XESJ9ItnoWGQPb3k=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.11.1/file/quarto.quarto-1.11.1.vsix";
+      sha256 = "sha256-spfQlEX0yP2QdP1zCteVLMuUB0RF68yQRnYKwxciTD0=";
     };
     name = "quarto";
     license = "MIT";

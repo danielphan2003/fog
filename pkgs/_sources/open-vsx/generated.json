@@ -7243,7 +7243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.11.0",
+    "version": "1.11.1",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7251,10 +7251,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.11.0/file/quarto.quarto-1.11.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.11.1/file/quarto.quarto-1.11.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lUrRaxuqMrqBitiIngFEmvO4sa6XESJ9ItnoWGQPb3k="
+      "sha256": "sha256-spfQlEX0yP2QdP1zCteVLMuUB0RF68yQRnYKwxciTD0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11663,7 +11663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cmoog-sqlnotebook",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "passthru": {
       "name": "sqlnotebook",
       "license": "MIT",
@@ -11671,10 +11671,10 @@
       "description": "View SQL files as notebooks. Execute cells and view query output."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.1/file/cmoog.sqlnotebook-0.5.1.vsix",
+      "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.2/file/cmoog.sqlnotebook-0.5.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5nJtjOG13gr4HBw1kBdernBgc3dCbWC9Q5yqN2YE0rw="
+      "sha256": "sha256-K8R3FTGEdyH1HpbgqQNFKzPEnMhclEzHQah0ylH6toM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28515,6 +28515,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-Otk+FlwPYFpML2TIYiYej2TU/ne15X/A08rIrOEsuW0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "caiqichang-vscode-translation": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "caiqichang-vscode-translation",
+    "version": "2.0.3",
+    "passthru": {
+      "name": "vscode-translation",
+      "license": "GPL-3.0",
+      "publisher": "caiqichang",
+      "description": "A translation tool for Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/caiqichang/vscode-translation/2.0.3/file/caiqichang.vscode-translation-2.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-teA0jQbcwgdobqNkf9qEtrIZg8O65AsOJir0ebdhuNU="
     },
     "extract": null,
     "rustGitDeps": null
