@@ -16203,10 +16203,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.9";
+    version = "2.1.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.9/file/streetsidesoftware.code-spell-checker-2.1.9.vsix";
-      sha256 = "sha256-g8UXL1vL7HvM7EKb2xszDBGTJuwDpWQ6VZnI8gnwzfQ=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.11/file/streetsidesoftware.code-spell-checker-2.1.11.vsix";
+      sha256 = "sha256-Oj3X/rurHLRRzSHXqagOoX33urnY+pkDmomnr6vZW34=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";
