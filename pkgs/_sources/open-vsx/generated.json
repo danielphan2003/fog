@@ -9343,7 +9343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2063953",
+    "version": "7.1.2066762",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9351,10 +9351,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2063953/file/eliostruyf.vscode-front-matter-beta-7.1.2063953.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2066762/file/eliostruyf.vscode-front-matter-beta-7.1.2066762.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VNgGr7fYESxBB+1E+nMXIYd2zclqZSTCV5T7NNN03dw="
+      "sha256": "sha256-K7d3Tp1BBt88vipYUT3ho7sclWuTPlTocC4QbJIyiJg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9363,7 +9363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.29.4",
+    "version": "2.30.0",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -9371,10 +9371,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.4/file/RokuCommunity.brightscript-2.29.4.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.0/file/RokuCommunity.brightscript-2.30.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RRLG21Po558k591BJJpcJ6Uez7pugTER43+YVTuweYI="
+      "sha256": "sha256-OCOMyIGdYrDafJ8141Dw9frFnjvJm/4cLfmysL8+EE4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10123,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "webhint-vscode-webhint",
-    "version": "1.6.5",
+    "version": "1.6.6",
     "passthru": {
       "name": "vscode-webhint",
       "license": "Apache-2.0",
@@ -10131,10 +10131,10 @@
       "description": "Run webhint in Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/webhint/vscode-webhint/1.6.5/file/webhint.vscode-webhint-1.6.5.vsix",
+      "url": "https://open-vsx.org/api/webhint/vscode-webhint/1.6.6/file/webhint.vscode-webhint-1.6.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lt7fFHq2zjrRMWxrXCzjckrTmvUlDeyWr6WqlCpC2pQ="
+      "sha256": "sha256-JTXfFugBUzZPi2MPv8yx3UdQ19cNQJvtSKzMpptN5hI="
     },
     "extract": null,
     "rustGitDeps": null

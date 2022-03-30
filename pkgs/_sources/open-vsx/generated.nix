@@ -2871,10 +2871,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.29.4";
+    version = "2.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.29.4/file/RokuCommunity.brightscript-2.29.4.vsix";
-      sha256 = "sha256-RRLG21Po558k591BJJpcJ6Uez7pugTER43+YVTuweYI=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.0/file/RokuCommunity.brightscript-2.30.0.vsix";
+      sha256 = "sha256-OCOMyIGdYrDafJ8141Dw9frFnjvJm/4cLfmysL8+EE4=";
     };
     name = "brightscript";
     license = "MIT";
@@ -7323,10 +7323,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2063953";
+    version = "7.1.2066762";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2063953/file/eliostruyf.vscode-front-matter-beta-7.1.2063953.vsix";
-      sha256 = "sha256-VNgGr7fYESxBB+1E+nMXIYd2zclqZSTCV5T7NNN03dw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2066762/file/eliostruyf.vscode-front-matter-beta-7.1.2066762.vsix";
+      sha256 = "sha256-K7d3Tp1BBt88vipYUT3ho7sclWuTPlTocC4QbJIyiJg=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -19203,10 +19203,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "1.6.5";
+    version = "1.6.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.5/file/webhint.vscode-webhint-1.6.5.vsix";
-      sha256 = "sha256-lt7fFHq2zjrRMWxrXCzjckrTmvUlDeyWr6WqlCpC2pQ=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.6/file/webhint.vscode-webhint-1.6.6.vsix";
+      sha256 = "sha256-JTXfFugBUzZPi2MPv8yx3UdQ19cNQJvtSKzMpptN5hI=";
     };
     name = "vscode-webhint";
     license = "Apache-2.0";
