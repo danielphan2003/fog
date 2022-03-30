@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6020";
+    version = "1.0.6021";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6020.tar.bz2";
-      sha256 = "sha256-IDvXPwb0j5lNgTvNitM1U3HcJoBgBuHOtqmNZXwxyxo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6021.tar.bz2";
+      sha256 = "sha256-7toJziLIwjyMGSWN0dHmkoAoPqI5veIMLduxrQx+9ls=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6020";
+    version = "1.0.6021";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6020-1_all.deb";
-      sha256 = "sha256-vZ377PAXf7pqhW8B3ODAPgIb8hj60HjjR3woWfXX9gE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6021-1_all.deb";
+      sha256 = "sha256-QYOOIriIePxJQOfxXkiqTX+QaBDM9L+30KiCMJ2Z9kE=";
     };
   };
   jitsi-videobridge2 = {
@@ -968,13 +968,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3d180c03764d4aebdc9804fe08e858a5233b7e26";
+    version = "9f604f2bd3b48fc4464727b7ac6f5ee56d02413c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3d180c03764d4aebdc9804fe08e858a5233b7e26";
+      rev = "9f604f2bd3b48fc4464727b7ac6f5ee56d02413c";
       fetchSubmodules = false;
-      sha256 = "sha256-6h/XBsA/bLY+Kri0PSavKaxuzYWps5WBn56l/Kh+kPA=";
+      sha256 = "sha256-1id4d7x00dbG6n+gYKFiWBKqDXM+h+Hn1lpUj2zY0Mg=";
     });
   };
   tailscale-systray = {
@@ -1006,13 +1006,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "4855e4e9f8dc901dd1b6626bf2c8fb9257135421";
+    version = "d81979f981f9212a7b4e2b25ab99d2a3068e40e5";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "4855e4e9f8dc901dd1b6626bf2c8fb9257135421";
+      rev = "d81979f981f9212a7b4e2b25ab99d2a3068e40e5";
       fetchSubmodules = false;
-      sha256 = "sha256-UGbBgeEoSygQVS3Fkivad+2p3LtFZkK6rq3h1vW7TWM=";
+      sha256 = "sha256-cfn5c3ik3H1fb6EGRAl7szlwmHSBa6I3Om1SCYObv6M=";
     });
   };
   ultimmc = {
