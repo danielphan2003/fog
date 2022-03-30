@@ -890,13 +890,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "19628ea2c00e5ca034d544cf5b837ca286d80e7d";
+    version = "a82586b1aa371ab345f7e31648c5cb5997980e67";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "19628ea2c00e5ca034d544cf5b837ca286d80e7d";
+      rev = "a82586b1aa371ab345f7e31648c5cb5997980e67";
       fetchSubmodules = false;
-      sha256 = "sha256-o1dwrJufQYIpcjeSYJnlJs/aKuq0AyI2d0Te9099AaY=";
+      sha256 = "sha256-eag2qYzEXQmAIAu29Pdk9KOUCm/GL8hOxkZ8vl4N9II=";
     });
   };
   spicetify-themes = {
