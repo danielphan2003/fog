@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6014";
+    version = "1.0.6015";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6014.tar.bz2";
-      sha256 = "sha256-hLVQuP6+2ucw0vnZCY0ecbxnLz9hwidnRvo6DBsVDCU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6015.tar.bz2";
+      sha256 = "sha256-02GpTdMuKCko7r8lhcsYlSm9Ow8n62qZfALs4/lan4U=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6014";
+    version = "1.0.6015";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6014-1_all.deb";
-      sha256 = "sha256-/dAo6mR21MRJBZdO5q9EBDeSSnML8xcw3mM3zhNsfm8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6015-1_all.deb";
+      sha256 = "sha256-CShUQBD43hc8mygWqAgeiQvruHDby6igjBiZ3SKvK+I=";
     };
   };
   jitsi-videobridge2 = {
@@ -890,13 +890,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "eb3adee9fe37d13d53bfc20c14ac58c5f0205763";
+    version = "19628ea2c00e5ca034d544cf5b837ca286d80e7d";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "eb3adee9fe37d13d53bfc20c14ac58c5f0205763";
+      rev = "19628ea2c00e5ca034d544cf5b837ca286d80e7d";
       fetchSubmodules = false;
-      sha256 = "sha256-dHkbjmb9qlMO+pYUmdnoztkrMqPW6GfceAUxgnRmlDA=";
+      sha256 = "sha256-o1dwrJufQYIpcjeSYJnlJs/aKuq0AyI2d0Te9099AaY=";
     });
   };
   spicetify-themes = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065";
+    version = "75b30e9ae4f2599f6d39e8c21346ed56abe131ac";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065";
+      rev = "75b30e9ae4f2599f6d39e8c21346ed56abe131ac";
       fetchSubmodules = false;
-      sha256 = "sha256-XTVg2e5KRLpImgXsGZsGEIjbAhRDJc/NO/NmbGKMR9Y=";
+      sha256 = "sha256-DR8WqKl5lb2B7UlRpn/zsLcPIvRw7DzS20BeNZVH/1s=";
     });
   };
   xdg-desktop-portal-gtk = {
