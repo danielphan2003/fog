@@ -7045,6 +7045,18 @@
     publisher = "dsznajder";
     description = "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.";
   };
+  dtsf-octal-back-provider = {
+    pname = "dtsf-octal-back-provider";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dtsf/octal-back-provider/0.1.1/file/dtsf.octal-back-provider-0.1.1.vsix";
+      sha256 = "sha256-eEGIiKunDIwxdTkZu3r142BHltUarNq9fsHt1pCALeg=";
+    };
+    name = "octal-back-provider";
+    license = "MIT";
+    publisher = "dtsf";
+    description = "Highlight javascript language in ES6 template literals";
+  };
   dubadub-Cooklang = {
     pname = "dubadub-Cooklang";
     version = "0.0.4";
@@ -10215,10 +10227,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.10";
+    version = "1.6.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.10/file/julialang.language-julia-1.6.10.vsix";
-      sha256 = "sha256-cQ7BC9VR+czYGrN6dA2yrncP6OL+Zlt7s70TW9YGh4k=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.11/file/julialang.language-julia-1.6.11.vsix";
+      sha256 = "sha256-jfoePUn9k2jbejpafNn+F3Ulo5z39GCwO8gGEGZpZoQ=";
     };
     name = "language-julia";
     license = "MIT";
@@ -13983,10 +13995,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.308";
+    version = "0.25.309";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.308/file/pokey.cursorless-0.25.308.vsix";
-      sha256 = "sha256-yMaS/puZNp8P7hqtxUCHlIY5WEBdkGV5QfPAMm24WL8=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.309/file/pokey.cursorless-0.25.309.vsix";
+      sha256 = "sha256-jPH9xRxbmM0cs3RdPPAPfAFm2YpkbvZEy2bS8uIHS38=";
     };
     name = "cursorless";
     license = "MIT";
@@ -14223,10 +14235,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.11.1";
+    version = "1.11.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.11.1/file/quarto.quarto-1.11.1.vsix";
-      sha256 = "sha256-spfQlEX0yP2QdP1zCteVLMuUB0RF68yQRnYKwxciTD0=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.11.2/file/quarto.quarto-1.11.2.vsix";
+      sha256 = "sha256-3b/2Vu7TPw7RPlPuu85W/Av4lqnnn0TJXbJSBMp0lXk=";
     };
     name = "quarto";
     license = "MIT";
@@ -15939,10 +15951,10 @@
   };
   snakemake-snakemake-lang = {
     pname = "snakemake-snakemake-lang";
-    version = "0.1.5";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/snakemake/snakemake-lang/0.1.5/file/snakemake.snakemake-lang-0.1.5.vsix";
-      sha256 = "sha256-r9pRq5vhjBL6yvvWmYQGOBqoj6jKRtT3nd0eZV5nBEA=";
+      url = "https://open-vsx.org/api/snakemake/snakemake-lang/0.1.8/file/snakemake.snakemake-lang-0.1.8.vsix";
+      sha256 = "sha256-HiNCEj7iONcuhvQpvb3cCsDOZGviWS5lhUl/TARmc74=";
     };
     name = "snakemake-lang";
     license = "MIT";

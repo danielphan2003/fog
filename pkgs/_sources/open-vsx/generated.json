@@ -2519,6 +2519,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "dtsf-octal-back-provider": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "dtsf-octal-back-provider",
+    "version": "0.1.1",
+    "passthru": {
+      "name": "octal-back-provider",
+      "license": "MIT",
+      "publisher": "dtsf",
+      "description": "Highlight javascript language in ES6 template literals"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/dtsf/octal-back-provider/0.1.1/file/dtsf.octal-back-provider-0.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-eEGIiKunDIwxdTkZu3r142BHltUarNq9fsHt1pCALeg="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "codezombiech-gitignore": {
     "pinned": false,
     "cargoLock": null,
@@ -7243,7 +7263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.11.1",
+    "version": "1.11.2",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7251,10 +7271,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.11.1/file/quarto.quarto-1.11.1.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.11.2/file/quarto.quarto-1.11.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-spfQlEX0yP2QdP1zCteVLMuUB0RF68yQRnYKwxciTD0="
+      "sha256": "sha256-3b/2Vu7TPw7RPlPuu85W/Av4lqnnn0TJXbJSBMp0lXk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12703,7 +12723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.308",
+    "version": "0.25.309",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -12711,10 +12731,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.308/file/pokey.cursorless-0.25.308.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.309/file/pokey.cursorless-0.25.309.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yMaS/puZNp8P7hqtxUCHlIY5WEBdkGV5QfPAMm24WL8="
+      "sha256": "sha256-jPH9xRxbmM0cs3RdPPAPfAFm2YpkbvZEy2bS8uIHS38="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18243,7 +18263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snakemake-snakemake-lang",
-    "version": "0.1.5",
+    "version": "0.1.8",
     "passthru": {
       "name": "snakemake-lang",
       "license": "MIT",
@@ -18251,10 +18271,10 @@
       "description": "Basic syntax, language, and snippet support for Snakefiles (Snakemake workflow definition files)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/snakemake/snakemake-lang/0.1.5/file/snakemake.snakemake-lang-0.1.5.vsix",
+      "url": "https://open-vsx.org/api/snakemake/snakemake-lang/0.1.8/file/snakemake.snakemake-lang-0.1.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r9pRq5vhjBL6yvvWmYQGOBqoj6jKRtT3nd0eZV5nBEA="
+      "sha256": "sha256-HiNCEj7iONcuhvQpvb3cCsDOZGviWS5lhUl/TARmc74="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30663,7 +30683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.6.10",
+    "version": "1.6.11",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -30671,10 +30691,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.10/file/julialang.language-julia-1.6.10.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.11/file/julialang.language-julia-1.6.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cQ7BC9VR+czYGrN6dA2yrncP6OL+Zlt7s70TW9YGh4k="
+      "sha256": "sha256-jfoePUn9k2jbejpafNn+F3Ulo5z39GCwO8gGEGZpZoQ="
     },
     "extract": null,
     "rustGitDeps": null
