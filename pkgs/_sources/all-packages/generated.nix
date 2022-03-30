@@ -149,13 +149,13 @@
   };
   bling = {
     pname = "bling";
-    version = "5b3bc36b70a35d590dedde5bfe13de4e516b64ea";
+    version = "3164486da072d22b1bd62e670805566f4418f8a1";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "5b3bc36b70a35d590dedde5bfe13de4e516b64ea";
+      rev = "3164486da072d22b1bd62e670805566f4418f8a1";
       fetchSubmodules = false;
-      sha256 = "sha256-k5tinVirXQnveVu4SLJ70DDrSbqBw0xil26iB2DxUFA=";
+      sha256 = "sha256-wj1Lp2TxDqH6z9V9pkbY08u8ssa/IPPVH9sCDAmSv1w=";
     });
   };
   bottles = {
@@ -324,13 +324,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "54690d5be8d8b23ff4736bda553e99de1a8bc9a7";
+    version = "c01ffeccf0d2a523b0c85ba6f64f28a2a4659769";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "54690d5be8d8b23ff4736bda553e99de1a8bc9a7";
+      rev = "c01ffeccf0d2a523b0c85ba6f64f28a2a4659769";
       fetchSubmodules = false;
-      sha256 = "sha256-A1o1xphylrW1XHyB9WuvA0lFCbxKZnusCmV0+Hgnwis=";
+      sha256 = "sha256-6YeqBpaPe75ti8lyOy3r6QQqUvksmZhRN+qkKMqNgWs=";
     });
   };
   flyingfox = {
@@ -410,26 +410,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6021";
+    version = "1.0.6022";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6021.tar.bz2";
-      sha256 = "sha256-7toJziLIwjyMGSWN0dHmkoAoPqI5veIMLduxrQx+9ls=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6022.tar.bz2";
+      sha256 = "sha256-o3b8lSgpep5OCmZI9RLLGsjH0Qr6Rle7kDqV8/ugDIg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6021";
+    version = "1.0.6022";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6021-1_all.deb";
-      sha256 = "sha256-QYOOIriIePxJQOfxXkiqTX+QaBDM9L+30KiCMJ2Z9kE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6022-1_all.deb";
+      sha256 = "sha256-qM1hAcLawtcG75ihYig0GK74dV40cgt9W5l4HFSxpX4=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-650-gf5f475ae";
+    version = "2.1-651-gf10ad5e7";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-650-gf5f475ae-1_all.deb";
-      sha256 = "sha256-mPzwDPvLWLr1HFcy1jxKRkr/q1H+k8bcNexKS6DnnSk=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-651-gf10ad5e7-1_all.deb";
+      sha256 = "sha256-6ZROSgjwVrbL0YiK8iP5IA0bH6BChZnFA9PRZz1v4oE=";
     };
   };
   layout-machi = {

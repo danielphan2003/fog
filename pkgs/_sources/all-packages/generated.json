@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6021",
+    "version": "1.0.6022",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6021-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6022-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QYOOIriIePxJQOfxXkiqTX+QaBDM9L+30KiCMJ2Z9kE="
+      "sha256": "sha256-qM1hAcLawtcG75ihYig0GK74dV40cgt9W5l4HFSxpX4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "54690d5be8d8b23ff4736bda553e99de1a8bc9a7",
+    "version": "c01ffeccf0d2a523b0c85ba6f64f28a2a4659769",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-A1o1xphylrW1XHyB9WuvA0lFCbxKZnusCmV0+Hgnwis=",
-      "rev": "54690d5be8d8b23ff4736bda553e99de1a8bc9a7"
+      "sha256": "sha256-6YeqBpaPe75ti8lyOy3r6QQqUvksmZhRN+qkKMqNgWs=",
+      "rev": "c01ffeccf0d2a523b0c85ba6f64f28a2a4659769"
     },
     "extract": null,
     "rustGitDeps": null
@@ -770,7 +770,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bling",
-    "version": "5b3bc36b70a35d590dedde5bfe13de4e516b64ea",
+    "version": "3164486da072d22b1bd62e670805566f4418f8a1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -780,8 +780,8 @@
       "name": null,
       "repo": "bling",
       "type": "github",
-      "sha256": "sha256-k5tinVirXQnveVu4SLJ70DDrSbqBw0xil26iB2DxUFA=",
-      "rev": "5b3bc36b70a35d590dedde5bfe13de4e516b64ea"
+      "sha256": "sha256-wj1Lp2TxDqH6z9V9pkbY08u8ssa/IPPVH9sCDAmSv1w=",
+      "rev": "3164486da072d22b1bd62e670805566f4418f8a1"
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6021",
+    "version": "1.0.6022",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6021.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6022.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7toJziLIwjyMGSWN0dHmkoAoPqI5veIMLduxrQx+9ls="
+      "sha256": "sha256-o3b8lSgpep5OCmZI9RLLGsjH0Qr6Rle7kDqV8/ugDIg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-650-gf5f475ae",
+    "version": "2.1-651-gf10ad5e7",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-650-gf5f475ae-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-651-gf10ad5e7-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mPzwDPvLWLr1HFcy1jxKRkr/q1H+k8bcNexKS6DnnSk="
+      "sha256": "sha256-6ZROSgjwVrbL0YiK8iP5IA0bH6BChZnFA9PRZz1v4oE="
     },
     "extract": null,
     "rustGitDeps": null
