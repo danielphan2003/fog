@@ -410,18 +410,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6014";
+    version = "1.0.6016";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6014.tar.bz2";
-      sha256 = "sha256-hLVQuP6+2ucw0vnZCY0ecbxnLz9hwidnRvo6DBsVDCU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6016.tar.bz2";
+      sha256 = "sha256-7KpJObUgFEizR2itvVTtb78v4uMxdRkUCbgOcD5dzpU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6014";
+    version = "1.0.6016";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6014-1_all.deb";
-      sha256 = "sha256-/dAo6mR21MRJBZdO5q9EBDeSSnML8xcw3mM3zhNsfm8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6016-1_all.deb";
+      sha256 = "sha256-9Byds/RjN2z6+Nx4gieQLjBKv3YiuNoRUFhbbp4xgjM=";
     };
   };
   jitsi-videobridge2 = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1df0285091dd913c96b52a1d39eef535a36d67b3";
+    version = "c8d57fe667a3980e1fbfd6437996255e2734b17d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1df0285091dd913c96b52a1d39eef535a36d67b3";
+      rev = "c8d57fe667a3980e1fbfd6437996255e2734b17d";
       fetchSubmodules = false;
-      sha256 = "sha256-nq9G8WLihXGRkWBpvDgZMJLD3LvdNoh1EHh6H7eVC4I=";
+      sha256 = "sha256-RcMlITTmNw6hDqCIyL3ubTnKcVr1fSA4HAJmGrxwLNk=";
     });
   };
   rofi-wayland = {
@@ -890,13 +890,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "eb3adee9fe37d13d53bfc20c14ac58c5f0205763";
+    version = "19628ea2c00e5ca034d544cf5b837ca286d80e7d";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "eb3adee9fe37d13d53bfc20c14ac58c5f0205763";
+      rev = "19628ea2c00e5ca034d544cf5b837ca286d80e7d";
       fetchSubmodules = false;
-      sha256 = "sha256-dHkbjmb9qlMO+pYUmdnoztkrMqPW6GfceAUxgnRmlDA=";
+      sha256 = "sha256-o1dwrJufQYIpcjeSYJnlJs/aKuq0AyI2d0Te9099AaY=";
     });
   };
   spicetify-themes = {
@@ -1148,13 +1148,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065";
+    version = "75b30e9ae4f2599f6d39e8c21346ed56abe131ac";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "b288a7b746fe0e5cbde0a1ab78c9c49b81bcf065";
+      rev = "75b30e9ae4f2599f6d39e8c21346ed56abe131ac";
       fetchSubmodules = false;
-      sha256 = "sha256-XTVg2e5KRLpImgXsGZsGEIjbAhRDJc/NO/NmbGKMR9Y=";
+      sha256 = "sha256-DR8WqKl5lb2B7UlRpn/zsLcPIvRw7DzS20BeNZVH/1s=";
     });
   };
   xdg-desktop-portal-gtk = {
