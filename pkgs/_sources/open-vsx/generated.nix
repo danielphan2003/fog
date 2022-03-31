@@ -2523,10 +2523,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.2.1";
+    version = "5.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.2.1/file/PascalReitermann93.vscode-yaml-sort-5.2.1.vsix";
-      sha256 = "sha256-ekRx5tY5slVxq2TjvRd9hEEuCaDJjeZnaz+WsjSNBnY=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.2.2/file/PascalReitermann93.vscode-yaml-sort-5.2.2.vsix";
+      sha256 = "sha256-aW9V0NP97eqnPTGl9/TJypVLsNiv1zciJd767EOPNjk=";
     };
     name = "vscode-yaml-sort";
     license = "MIT";
@@ -11064,6 +11064,18 @@
     license = "MIT";
     publisher = "lextudio";
     description = "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)";
+  };
+  lf-lang-vscode-lingua-franca = {
+    pname = "lf-lang-vscode-lingua-franca";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.1.0/file/lf-lang.vscode-lingua-franca-0.1.0.vsix";
+      sha256 = "sha256-tEOUlAhGShztHZCWE6CkU+t+FDu+ybqnoEsg9rt53AE=";
+    };
+    name = "vscode-lingua-franca";
+    license = "BSD-2-Clause";
+    publisher = "lf-lang";
+    description = "Lingua Franca for Visual Studio Code. Provides lints, code completion and navigation, interactive diagrams, and more.";
   };
   lgalabru-clarity-lsp = {
     pname = "lgalabru-clarity-lsp";
