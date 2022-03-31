@@ -1143,10 +1143,10 @@
   };
   GrapeCity-gc-excelviewer = {
     pname = "GrapeCity-gc-excelviewer";
-    version = "4.2.53";
+    version = "4.2.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.53/file/GrapeCity.gc-excelviewer-4.2.53.vsix";
-      sha256 = "sha256-OKxqq4YNQGRhCgL4V7fQT1xtTzHcR5tZ2EBLP4lp5qE=";
+      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.54/file/GrapeCity.gc-excelviewer-4.2.54.vsix";
+      sha256 = "sha256-uMfCPk3ZwNCiHLVle7Slxw6n/FiIrlMR2T/jCggtK+s=";
     };
     name = "gc-excelviewer";
     license = "MIT";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.2814";
+    version = "2022.3.3016";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2814/file/Slint.slint-nightly-2022.3.2814.vsix";
-      sha256 = "sha256-WppGgX4Os5oUNsFEW10Trq9y0ksmwUJoMCOkvX9QB5w=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3016/file/Slint.slint-nightly-2022.3.3016.vsix";
+      sha256 = "sha256-QiDb+a/miqYnNbzMPeZTuuccGFCsVEVDTZ7niU3HGts=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3591,10 +3591,10 @@
   };
   XadillaX-viml = {
     pname = "XadillaX-viml";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XadillaX/viml/2.1.0/file/XadillaX.viml-2.1.0.vsix";
-      sha256 = "sha256-CclviuEfgaVGtEVJdCiznZK0Z7rF6DCGF8VCOQ405zQ=";
+      url = "https://open-vsx.org/api/XadillaX/viml/2.1.1/file/XadillaX.viml-2.1.1.vsix";
+      sha256 = "sha256-OEQUsSeMre+CI2UXsZm4/N+qzMBScClZIpRke+0oZz0=";
     };
     name = "viml";
     license = "MIT";
@@ -8979,10 +8979,10 @@
   };
   hirosystems-clarity-lsp = {
     pname = "hirosystems-clarity-lsp";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.0/file/hirosystems.clarity-lsp-0.7.0.vsix";
-      sha256 = "sha256-LNfe3a7Z5Q81MHAWMkEIByzdJaICzX3lOJ3vx6CAa7w=";
+      url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.1/file/hirosystems.clarity-lsp-0.7.1.vsix";
+      sha256 = "sha256-dswkSLPUbRJ5i6amU1A7jirzYmP6i4gkMuaSMwGKzUM=";
     };
     name = "clarity-lsp";
     license = "GPL-3.0-only";
@@ -12219,10 +12219,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.233";
+    version = "1.1.234";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.233/file/ms-pyright.pyright-1.1.233.vsix";
-      sha256 = "sha256-1tEdHmFNoueHdwOsh6eM6/uP7aJaCn247ieHTR/tJBE=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.234/file/ms-pyright.pyright-1.1.234.vsix";
+      sha256 = "sha256-DMa6IvNLi4EnFPiKU6El55ZK86wnnbCG/y64JRuhmRY=";
     };
     name = "pyright";
     license = "MIT";
@@ -12411,10 +12411,10 @@
   };
   ms-vscode-makefile-tools = {
     pname = "ms-vscode-makefile-tools";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/makefile-tools/0.3.1/file/ms-vscode.makefile-tools-0.3.1.vsix";
-      sha256 = "sha256-mKAk6GdBUhXd7UItbmnU/r2x5PMHlc7MfzCLuzHnSnc=";
+      url = "https://open-vsx.org/api/ms-vscode/makefile-tools/0.4.0/file/ms-vscode.makefile-tools-0.4.0.vsix";
+      sha256 = "sha256-Se+SK9evYJYWu+2zftE2cShimhAC60ejlr5mqNc6z88=";
     };
     name = "makefile-tools";
     license = "";
@@ -13455,10 +13455,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.49";
+    version = "0.13.50";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.49/file/oraichain.cosmwasm-ide-0.13.49.vsix";
-      sha256 = "sha256-4eA4PbUT8eyDolzysnL4rs0Guw0fZJiimkWI//IvQ6w=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.50/file/oraichain.cosmwasm-ide-0.13.50.vsix";
+      sha256 = "sha256-Vnfuwkdk3rnHxZ3Mk4STgBy0+PPaEx7g9hSXWd55AzU=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";

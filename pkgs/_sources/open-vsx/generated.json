@@ -1843,7 +1843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-makefile-tools",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "passthru": {
       "name": "makefile-tools",
       "license": "",
@@ -1851,10 +1851,10 @@
       "description": "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/makefile-tools/0.3.1/file/ms-vscode.makefile-tools-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/makefile-tools/0.4.0/file/ms-vscode.makefile-tools-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mKAk6GdBUhXd7UItbmnU/r2x5PMHlc7MfzCLuzHnSnc="
+      "sha256": "sha256-Se+SK9evYJYWu+2zftE2cShimhAC60ejlr5mqNc6z88="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14843,7 +14843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.2814",
+    "version": "2022.3.3016",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14851,10 +14851,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.2814/file/Slint.slint-nightly-2022.3.2814.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3016/file/Slint.slint-nightly-2022.3.3016.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WppGgX4Os5oUNsFEW10Trq9y0ksmwUJoMCOkvX9QB5w="
+      "sha256": "sha256-QiDb+a/miqYnNbzMPeZTuuccGFCsVEVDTZ7niU3HGts="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20123,7 +20123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GrapeCity-gc-excelviewer",
-    "version": "4.2.53",
+    "version": "4.2.54",
     "passthru": {
       "name": "gc-excelviewer",
       "license": "MIT",
@@ -20131,10 +20131,10 @@
       "description": "Edit Excel spreadsheets and CSV files in Visual Studio Code and VS Code for the Web."
     },
     "src": {
-      "url": "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.53/file/GrapeCity.gc-excelviewer-4.2.53.vsix",
+      "url": "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.54/file/GrapeCity.gc-excelviewer-4.2.54.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OKxqq4YNQGRhCgL4V7fQT1xtTzHcR5tZ2EBLP4lp5qE="
+      "sha256": "sha256-uMfCPk3ZwNCiHLVle7Slxw6n/FiIrlMR2T/jCggtK+s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21223,7 +21223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oraichain-cosmwasm-ide",
-    "version": "0.13.49",
+    "version": "0.13.50",
     "passthru": {
       "name": "cosmwasm-ide",
       "license": "MIT OR Apache-2.0",
@@ -21231,10 +21231,10 @@
       "description": "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.49/file/oraichain.cosmwasm-ide-0.13.49.vsix",
+      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.50/file/oraichain.cosmwasm-ide-0.13.50.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4eA4PbUT8eyDolzysnL4rs0Guw0fZJiimkWI//IvQ6w="
+      "sha256": "sha256-Vnfuwkdk3rnHxZ3Mk4STgBy0+PPaEx7g9hSXWd55AzU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22603,7 +22603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hirosystems-clarity-lsp",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "passthru": {
       "name": "clarity-lsp",
       "license": "GPL-3.0-only",
@@ -22611,10 +22611,10 @@
       "description": "Coding assistant for Smart Contracts (Stacks, Bitcoin)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.0/file/hirosystems.clarity-lsp-0.7.0.vsix",
+      "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.1/file/hirosystems.clarity-lsp-0.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LNfe3a7Z5Q81MHAWMkEIByzdJaICzX3lOJ3vx6CAa7w="
+      "sha256": "sha256-dswkSLPUbRJ5i6amU1A7jirzYmP6i4gkMuaSMwGKzUM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29683,7 +29683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XadillaX-viml",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "passthru": {
       "name": "viml",
       "license": "MIT",
@@ -29691,10 +29691,10 @@
       "description": "Vim Script language server protocol and highlighting support for VSCode."
     },
     "src": {
-      "url": "https://open-vsx.org/api/XadillaX/viml/2.1.0/file/XadillaX.viml-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/XadillaX/viml/2.1.1/file/XadillaX.viml-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CclviuEfgaVGtEVJdCiznZK0Z7rF6DCGF8VCOQ405zQ="
+      "sha256": "sha256-OEQUsSeMre+CI2UXsZm4/N+qzMBScClZIpRke+0oZz0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29863,7 +29863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.233",
+    "version": "1.1.234",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -29871,10 +29871,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.233/file/ms-pyright.pyright-1.1.233.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.234/file/ms-pyright.pyright-1.1.234.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1tEdHmFNoueHdwOsh6eM6/uP7aJaCn247ieHTR/tJBE="
+      "sha256": "sha256-DMa6IvNLi4EnFPiKU6El55ZK86wnnbCG/y64JRuhmRY="
     },
     "extract": null,
     "rustGitDeps": null
