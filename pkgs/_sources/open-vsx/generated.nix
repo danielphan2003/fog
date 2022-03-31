@@ -9529,6 +9529,18 @@
     publisher = "infosec-intern";
     description = "Rich language support for the YARA pattern matching language";
   };
+  innoverio-vscode-dbt-power-user = {
+    pname = "innoverio-vscode-dbt-power-user";
+    version = "0.5.16";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.16/file/innoverio.vscode-dbt-power-user-0.5.16.vsix";
+      sha256 = "sha256-C8gjsGHlbzFWuTGQ7/zc+HDFN0I6Cxt1BTOcSzBDjeA=";
+    };
+    name = "vscode-dbt-power-user";
+    license = "MIT";
+    publisher = "innoverio";
+    description = "This extension makes vscode seamlessly work with dbt";
+  };
   intersystems-community-servermanager = {
     pname = "intersystems-community-servermanager";
     version = "0.0.4";

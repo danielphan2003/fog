@@ -24079,6 +24079,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "innoverio-vscode-dbt-power-user": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "innoverio-vscode-dbt-power-user",
+    "version": "0.5.16",
+    "passthru": {
+      "name": "vscode-dbt-power-user",
+      "license": "MIT",
+      "publisher": "innoverio",
+      "description": "This extension makes vscode seamlessly work with dbt"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.16/file/innoverio.vscode-dbt-power-user-0.5.16.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-C8gjsGHlbzFWuTGQ7/zc+HDFN0I6Cxt1BTOcSzBDjeA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "gleam-gleam": {
     "pinned": false,
     "cargoLock": null,
