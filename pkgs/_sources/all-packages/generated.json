@@ -730,9 +730,9 @@
   },
   "conduit": {
     "pinned": false,
-    "cargoLock": "./conduit-08072d2c8de091d825f5d72dba09bc16b23e40f8/Cargo.lock",
+    "cargoLock": "./conduit-1219535e56b53ebbfd3bc5d904cf15ad59f783c5/Cargo.lock",
     "name": "conduit",
-    "version": "08072d2c8de091d825f5d72dba09bc16b23e40f8",
+    "version": "1219535e56b53ebbfd3bc5d904cf15ad59f783c5",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -741,8 +741,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-ScE8jQdn5Epv2WnD01LPUflITZcZQKjwViN15Wq7nb0=",
-      "rev": "08072d2c8de091d825f5d72dba09bc16b23e40f8"
+      "sha256": "sha256-ul4uOTBjtFsRWKfpObzKohtAQdFj0BlxjY/2Y5e5XXo=",
+      "rev": "1219535e56b53ebbfd3bc5d904cf15ad59f783c5"
     },
     "extract": null,
     "rustGitDeps": {
@@ -1663,7 +1663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xwayland",
-    "version": "9e5a3796108e2b89212fa440f80e918d24b971c8",
+    "version": "a79bd188fec51fe9bcafd3e0767bed1fbe715795",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1672,8 +1672,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-DtqTMnOIKEKV7Oq7e98ojT3yZHh5Er0Va14jFhhDEBI=",
-      "rev": "9e5a3796108e2b89212fa440f80e918d24b971c8"
+      "sha256": "sha256-/zBCqW7sueKhxSF7vqRT6ehp3kgYU938EPTsIHhr/p0=",
+      "rev": "a79bd188fec51fe9bcafd3e0767bed1fbe715795"
     },
     "extract": null,
     "rustGitDeps": null

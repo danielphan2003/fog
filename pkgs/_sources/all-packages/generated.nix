@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "08072d2c8de091d825f5d72dba09bc16b23e40f8";
+    version = "1219535e56b53ebbfd3bc5d904cf15ad59f783c5";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "08072d2c8de091d825f5d72dba09bc16b23e40f8";
+      rev = "1219535e56b53ebbfd3bc5d904cf15ad59f783c5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ScE8jQdn5Epv2WnD01LPUflITZcZQKjwViN15Wq7nb0=";
+      sha256 = "sha256-ul4uOTBjtFsRWKfpObzKohtAQdFj0BlxjY/2Y5e5XXo=";
     };
     cargoLock = {
-      lockFile = ./conduit-08072d2c8de091d825f5d72dba09bc16b23e40f8/Cargo.lock;
+      lockFile = ./conduit-1219535e56b53ebbfd3bc5d904cf15ad59f783c5/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-gRhhGWpMiLeA8TNgBMsFEBky1TISr/GXNxLpTXLgUQE=";
@@ -1193,14 +1193,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "9e5a3796108e2b89212fa440f80e918d24b971c8";
+    version = "a79bd188fec51fe9bcafd3e0767bed1fbe715795";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "9e5a3796108e2b89212fa440f80e918d24b971c8";
+      rev = "a79bd188fec51fe9bcafd3e0767bed1fbe715795";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-DtqTMnOIKEKV7Oq7e98ojT3yZHh5Er0Va14jFhhDEBI=";
+      sha256 = "sha256-/zBCqW7sueKhxSF7vqRT6ehp3kgYU938EPTsIHhr/p0=";
     };
   };
   ydotool = {
