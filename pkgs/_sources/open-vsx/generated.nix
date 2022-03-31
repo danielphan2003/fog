@@ -7323,10 +7323,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2066762";
+    version = "7.1.2071880";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2066762/file/eliostruyf.vscode-front-matter-beta-7.1.2066762.vsix";
-      sha256 = "sha256-K7d3Tp1BBt88vipYUT3ho7sclWuTPlTocC4QbJIyiJg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2071880/file/eliostruyf.vscode-front-matter-beta-7.1.2071880.vsix";
+      sha256 = "sha256-0GVFTneDtAoQg9oYSq648EQUA9uv0aCrc8LjxaKovmo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -16947,10 +16947,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.18.10";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.18.10/file/timonwong.shellcheck-0.18.10.vsix";
-      sha256 = "sha256-PswnokASy4SWtOV0OII6oYY4eaUHALxZLj/XHDvNFj0=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.0/file/timonwong.shellcheck-0.19.0.vsix";
+      sha256 = "sha256-wMr/Ul80DekVL6Ehp0Ae3g+F3ckL98jgPSOpKy/ziWs=";
     };
     name = "shellcheck";
     license = "MIT";
