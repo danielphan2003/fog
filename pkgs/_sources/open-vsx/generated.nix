@@ -19815,13 +19815,13 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.4.1";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.4.1/file/zenclabs.previewjs-1.4.1.vsix";
-      sha256 = "sha256-r0fyZcVD4rmDTTgIBFz2dWrTCGExcxhHxCIzIsjaoh0=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.5.1/file/zenclabs.previewjs-1.5.1.vsix";
+      sha256 = "sha256-D0STsZsFbT6qwA75e8wPoINPB48IC4shdz/iB3k1T0U=";
     };
     name = "previewjs";
-    license = "AGPL-3.0";
+    license = "https://previewjs.com/eula";
     publisher = "zenclabs";
     description = "Get instant previews of your UI components, directly in your IDE";
   };

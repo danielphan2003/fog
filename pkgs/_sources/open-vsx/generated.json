@@ -9263,18 +9263,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.4.1",
+    "version": "1.5.1",
     "passthru": {
       "name": "previewjs",
-      "license": "AGPL-3.0",
+      "license": "https://previewjs.com/eula",
       "publisher": "zenclabs",
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.4.1/file/zenclabs.previewjs-1.4.1.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.5.1/file/zenclabs.previewjs-1.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r0fyZcVD4rmDTTgIBFz2dWrTCGExcxhHxCIzIsjaoh0="
+      "sha256": "sha256-D0STsZsFbT6qwA75e8wPoINPB48IC4shdz/iB3k1T0U="
     },
     "extract": null,
     "rustGitDeps": null
