@@ -255,10 +255,10 @@
   };
   BroadcomMFD-cobol-language-support = {
     pname = "BroadcomMFD-cobol-language-support";
-    version = "0.21.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/0.21.0/file/BroadcomMFD.cobol-language-support-0.21.0.vsix";
-      sha256 = "sha256-+q0XRCslVPA3KXBLC3Htko83S6Hio1FmEvJWG9nvfV8=";
+      url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.0/file/BroadcomMFD.cobol-language-support-1.0.0.vsix";
+      sha256 = "sha256-YOihfxfyV9heGDv7sXSV1z5E0+ac6ZXWhyqD8ZoSoJg=";
     };
     name = "cobol-language-support";
     license = "EPL-2.0";
@@ -3207,10 +3207,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.38";
+    version = "3.5.39";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.38/file/TabNine.tabnine-vscode-3.5.38.vsix";
-      sha256 = "sha256-n8lx+UGNAG3Av3Lh0ElJ4/w6B5onZoGGfvqAmb79L98=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.39/file/TabNine.tabnine-vscode-3.5.39.vsix";
+      sha256 = "sha256-hKVNBRK3hxkz/T3n3ZmYFU2wzdo49GYVKxRpwplIaz4=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -14343,10 +14343,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.14.1";
+    version = "1.14.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.1/file/rangav.vscode-thunder-client-1.14.1.vsix";
-      sha256 = "sha256-H3TT+1EprcjpwtohB7fgVV6eLk7x2vafS49rUpywx0Q=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.3/file/rangav.vscode-thunder-client-1.14.3.vsix";
+      sha256 = "sha256-XBWpPpnGXdIJZMNC1yT7I0H/UDW+Te4Yj/ZzqeCaCzQ=";
     };
     name = "vscode-thunder-client";
     license = "";
@@ -15075,10 +15075,10 @@
   };
   roipoussiere-cadquery = {
     pname = "roipoussiere-cadquery";
-    version = "0.0.1";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.0.1/file/roipoussiere.cadquery-0.0.1.vsix";
-      sha256 = "sha256-Awqy+kZBDOlNSIbp0Qj0VJOhjS451s5QadpYrz5YdYQ=";
+      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.0/file/roipoussiere.cadquery-0.1.0.vsix";
+      sha256 = "sha256-wlHbOdUDOh6zVwWKbWsaetfvYuZ9XC18tOYvbD/U39I=";
     };
     name = "cadquery";
     license = "MIT";
