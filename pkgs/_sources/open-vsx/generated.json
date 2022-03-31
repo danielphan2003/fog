@@ -1419,6 +1419,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "roipoussiere-cadquery": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "roipoussiere-cadquery",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "cadquery",
+      "license": "MIT",
+      "publisher": "roipoussiere",
+      "description": "Create CadQuery 3D models within your IDE."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.0.1/file/roipoussiere.cadquery-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Awqy+kZBDOlNSIbp0Qj0VJOhjS451s5QadpYrz5YdYQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "GustavoASC-google-drive-vscode": {
     "pinned": false,
     "cargoLock": null,
@@ -16363,7 +16383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SPGoding-datapack-language-server",
-    "version": "3.3.25",
+    "version": "3.3.26",
     "passthru": {
       "name": "datapack-language-server",
       "license": "MIT",
@@ -16371,10 +16391,10 @@
       "description": "Heavy language features for Minecraft: Java Edition data pack files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.25/file/SPGoding.datapack-language-server-3.3.25.vsix",
+      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.26/file/SPGoding.datapack-language-server-3.3.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tfIcqdzM/FxbFkSZPHwmPcvox62lCBHIL34G6SbzeZ0="
+      "sha256": "sha256-JUqVocAG68lPTZ04dHsihAhJx4mU6ogkBKWEi0XP0L0="
     },
     "extract": null,
     "rustGitDeps": null

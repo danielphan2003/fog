@@ -2907,10 +2907,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.25";
+    version = "3.3.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.25/file/SPGoding.datapack-language-server-3.3.25.vsix";
-      sha256 = "sha256-tfIcqdzM/FxbFkSZPHwmPcvox62lCBHIL34G6SbzeZ0=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.26/file/SPGoding.datapack-language-server-3.3.26.vsix";
+      sha256 = "sha256-JUqVocAG68lPTZ04dHsihAhJx4mU6ogkBKWEi0XP0L0=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -15072,6 +15072,18 @@
     license = "MIT";
     publisher = "rogalmic";
     description = "XML editing helper (using XSD schemaLocation)";
+  };
+  roipoussiere-cadquery = {
+    pname = "roipoussiere-cadquery";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.0.1/file/roipoussiere.cadquery-0.0.1.vsix";
+      sha256 = "sha256-Awqy+kZBDOlNSIbp0Qj0VJOhjS451s5QadpYrz5YdYQ=";
+    };
+    name = "cadquery";
+    license = "MIT";
+    publisher = "roipoussiere";
+    description = "Create CadQuery 3D models within your IDE.";
   };
   rokoroku-vscode-theme-darcula = {
     pname = "rokoroku-vscode-theme-darcula";
