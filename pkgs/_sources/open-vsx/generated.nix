@@ -1131,10 +1131,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.41.2";
+    version = "3.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.2/file/GitLab.gitlab-workflow-3.41.2.vsix";
-      sha256 = "sha256-pKyFp3eJ+gHzf2188aTmbe0U7Gt1DxX+5DNrAlWjnS4=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.0/file/GitLab.gitlab-workflow-3.42.0.vsix";
+      sha256 = "sha256-ezKVfqgnMnKgf3ZuJMTmVs9NuW2Qgxy346YV/U/jr+U=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -4741,6 +4741,18 @@
     publisher = "ardisaurus";
     description = "Gitflow integration sidebar in Visual Studio Code";
   };
+  arjun-swagger-viewer = {
+    pname = "arjun-swagger-viewer";
+    version = "3.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arjun/swagger-viewer/3.1.2/file/arjun.swagger-viewer-3.1.2.vsix";
+      sha256 = "sha256-GuBfR+A+kb6VVt9qoiM1XEguOf+C2UBVMCuHJkzXrlE=";
+    };
+    name = "swagger-viewer";
+    license = "MIT";
+    publisher = "arjun";
+    description = "Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code.";
+  };
   armandphilippot-coldark = {
     pname = "armandphilippot-coldark";
     version = "1.2.10";
@@ -7287,10 +7299,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.50.0";
+    version = "0.52.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.50.0/file/edukera.archetype-0.50.0.vsix";
-      sha256 = "sha256-xkYA0kZDJq7NVjz+5CM4tmPupnFRvO+hawmfCPcj2l0=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.52.0/file/edukera.archetype-0.52.0.vsix";
+      sha256 = "sha256-evWtjhN5ruMfKmHNkBLwdwlwVS84VAozfYgz+5s8eKY=";
     };
     name = "archetype";
     license = "MIT";
@@ -7347,10 +7359,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2071880";
+    version = "7.1.2077706";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2071880/file/eliostruyf.vscode-front-matter-beta-7.1.2071880.vsix";
-      sha256 = "sha256-0GVFTneDtAoQg9oYSq648EQUA9uv0aCrc8LjxaKovmo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2077706/file/eliostruyf.vscode-front-matter-beta-7.1.2077706.vsix";
+      sha256 = "sha256-QCe0k5qY06BzVKpH8hT/Mj9rESQe4jwbdiz2UDIxMvI=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9481,6 +9493,18 @@
     publisher = "idleberg";
     description = "Context-aware WordPress salts generation for PHP, YAML, DotEnv and JSON files without the need of an internet-connection";
   };
+  ikappas-composer = {
+    pname = "ikappas-composer";
+    version = "0.7.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ikappas/composer/0.7.1/file/ikappas.composer-0.7.1.vsix";
+      sha256 = "sha256-0G5QtV/p1JdH0ogXeKM1178QxKkOoiJmeVnH5haNWrk=";
+    };
+    name = "composer";
+    license = "MIT";
+    publisher = "ikappas";
+    description = "PHP Composer for Visual Studio Code";
+  };
   ikappas-phpcs = {
     pname = "ikappas-phpcs";
     version = "1.0.5";
@@ -10347,10 +10371,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.28";
+    version = "0.6.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.28/file/kahole.magit-0.6.28.vsix";
-      sha256 = "sha256-5OWLHoBaLH04BL1a695biTMAFHVJbJ/EKfvp9tCygWg=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.29/file/kahole.magit-0.6.29.vsix";
+      sha256 = "sha256-CAjevLtDqVs1QzCZDt651X/ONjW7Nz+7/gSNHxhKzhI=";
     };
     name = "magit";
     license = "MIT";
@@ -20007,10 +20031,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.19";
+    version = "0.9.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.19/file/znck.vue-0.9.19.vsix";
-      sha256 = "sha256-Gq7T+V+epwysBGV4Qozd/jLNcszDRT6zl9DelQvua8Q=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.20/file/znck.vue-0.9.20.vsix";
+      sha256 = "sha256-XCWx1i2ijh+dVxs1y+4J1EzNYxpFkgb7i7d0tSkN3bY=";
     };
     name = "vue";
     license = "MIT";
@@ -20019,10 +20043,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.18";
+    version = "0.9.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.18/file/znck.vue-language-features-0.9.18.vsix";
-      sha256 = "sha256-Ws13bKvtluVg9myf8wyLdL3Lha3rBSd/gtcpFZeEgII=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.19/file/znck.vue-language-features-0.9.19.vsix";
+      sha256 = "sha256-4j+xxrUzbksoeZjuWB5j4jHBMHj5VGQl0f0n/XCiIow=";
     };
     name = "vue-language-features";
     license = "MIT";

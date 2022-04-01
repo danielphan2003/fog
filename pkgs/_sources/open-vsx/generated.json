@@ -4719,6 +4719,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "arjun-swagger-viewer": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "arjun-swagger-viewer",
+    "version": "3.1.2",
+    "passthru": {
+      "name": "swagger-viewer",
+      "license": "MIT",
+      "publisher": "arjun",
+      "description": "Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/arjun/swagger-viewer/3.1.2/file/arjun.swagger-viewer-3.1.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-GuBfR+A+kb6VVt9qoiM1XEguOf+C2UBVMCuHJkzXrlE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "njpwerner-autodocstring": {
     "pinned": false,
     "cargoLock": null,
@@ -5583,7 +5603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.18",
+    "version": "0.9.19",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5591,10 +5611,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.18/file/znck.vue-language-features-0.9.18.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.19/file/znck.vue-language-features-0.9.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ws13bKvtluVg9myf8wyLdL3Lha3rBSd/gtcpFZeEgII="
+      "sha256": "sha256-4j+xxrUzbksoeZjuWB5j4jHBMHj5VGQl0f0n/XCiIow="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9383,7 +9403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2071880",
+    "version": "7.1.2077706",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9391,10 +9411,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2071880/file/eliostruyf.vscode-front-matter-beta-7.1.2071880.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2077706/file/eliostruyf.vscode-front-matter-beta-7.1.2077706.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0GVFTneDtAoQg9oYSq648EQUA9uv0aCrc8LjxaKovmo="
+      "sha256": "sha256-QCe0k5qY06BzVKpH8hT/Mj9rESQe4jwbdiz2UDIxMvI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13099,6 +13119,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ikappas-composer": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ikappas-composer",
+    "version": "0.7.1",
+    "passthru": {
+      "name": "composer",
+      "license": "MIT",
+      "publisher": "ikappas",
+      "description": "PHP Composer for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ikappas/composer/0.7.1/file/ikappas.composer-0.7.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-0G5QtV/p1JdH0ogXeKM1178QxKkOoiJmeVnH5haNWrk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "KaanGenc-writing-assistant": {
     "pinned": false,
     "cargoLock": null,
@@ -14823,7 +14863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "edukera-archetype",
-    "version": "0.50.0",
+    "version": "0.52.0",
     "passthru": {
       "name": "archetype",
       "license": "MIT",
@@ -14831,10 +14871,10 @@
       "description": "DSL to develop smart contracts on the Tezos blockchain."
     },
     "src": {
-      "url": "https://open-vsx.org/api/edukera/archetype/0.50.0/file/edukera.archetype-0.50.0.vsix",
+      "url": "https://open-vsx.org/api/edukera/archetype/0.52.0/file/edukera.archetype-0.52.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xkYA0kZDJq7NVjz+5CM4tmPupnFRvO+hawmfCPcj2l0="
+      "sha256": "sha256-evWtjhN5ruMfKmHNkBLwdwlwVS84VAozfYgz+5s8eKY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19143,7 +19183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "kahole-magit",
-    "version": "0.6.28",
+    "version": "0.6.29",
     "passthru": {
       "name": "magit",
       "license": "MIT",
@@ -19151,10 +19191,10 @@
       "description": "Magit for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/kahole/magit/0.6.28/file/kahole.magit-0.6.28.vsix",
+      "url": "https://open-vsx.org/api/kahole/magit/0.6.29/file/kahole.magit-0.6.29.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5OWLHoBaLH04BL1a695biTMAFHVJbJ/EKfvp9tCygWg="
+      "sha256": "sha256-CAjevLtDqVs1QzCZDt651X/ONjW7Nz+7/gSNHxhKzhI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20203,7 +20243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.19",
+    "version": "0.9.20",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20211,10 +20251,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.19/file/znck.vue-0.9.19.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.20/file/znck.vue-0.9.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Gq7T+V+epwysBGV4Qozd/jLNcszDRT6zl9DelQvua8Q="
+      "sha256": "sha256-XCWx1i2ijh+dVxs1y+4J1EzNYxpFkgb7i7d0tSkN3bY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27303,7 +27343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitLab-gitlab-workflow",
-    "version": "3.41.2",
+    "version": "3.42.0",
     "passthru": {
       "name": "gitlab-workflow",
       "license": "MIT",
@@ -27311,10 +27351,10 @@
       "description": "GitLab extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.41.2/file/GitLab.gitlab-workflow-3.41.2.vsix",
+      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.0/file/GitLab.gitlab-workflow-3.42.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pKyFp3eJ+gHzf2188aTmbe0U7Gt1DxX+5DNrAlWjnS4="
+      "sha256": "sha256-ezKVfqgnMnKgf3ZuJMTmVs9NuW2Qgxy346YV/U/jr+U="
     },
     "extract": null,
     "rustGitDeps": null
