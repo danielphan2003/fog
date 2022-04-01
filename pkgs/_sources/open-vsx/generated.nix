@@ -1647,10 +1647,10 @@
   };
   James-Yu-latex-workshop = {
     pname = "James-Yu-latex-workshop";
-    version = "8.23.0";
+    version = "8.24.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.23.0/file/James-Yu.latex-workshop-8.23.0.vsix";
-      sha256 = "sha256-Tqq7Y9mq3JJNlFaRqsi2jC5trFfQeEMTGl5tveoebkY=";
+      url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.24.1/file/James-Yu.latex-workshop-8.24.1.vsix";
+      sha256 = "sha256-c/XDRhxmZCpjV6GpJ9/wpnNUgG4w/WwE1VR2XmdsV38=";
     };
     name = "latex-workshop";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.807";
+    version = "31.0.809";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.807/file/Prisma.prisma-insider-31.0.807.vsix";
-      sha256 = "sha256-xkW4Pcg22DbpuM7l927SiZ86N/Vkmy3SN2ACleui9Lc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.809/file/Prisma.prisma-insider-31.0.809.vsix";
+      sha256 = "sha256-0is3Oi22HPN5L3+21FRhhylCCsOZZae+5ZVcKaaJqWI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6973,6 +6973,18 @@
     publisher = "dhoeric";
     description = "Encrypt/decrypt ansible-vault file";
   };
+  digma-digma = {
+    pname = "digma-digma";
+    version = "0.5.15";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/digma/digma/0.5.15/file/digma.digma-0.5.15.vsix";
+      sha256 = "sha256-Ifn11/q2k9JcFWd1mhb01KwHAQGOoyfudhCaSN5qLgU=";
+    };
+    name = "digma";
+    license = "MIT";
+    publisher = "digma";
+    description = "Code insights and Observability for OpenTelemetry. .NET, Python, more coming soon.";
+  };
   dineug-vuerd-vscode = {
     pname = "dineug-vuerd-vscode";
     version = "0.9.15";
@@ -10299,10 +10311,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.11";
+    version = "1.6.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.11/file/julialang.language-julia-1.6.11.vsix";
-      sha256 = "sha256-jfoePUn9k2jbejpafNn+F3Ulo5z39GCwO8gGEGZpZoQ=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.12/file/julialang.language-julia-1.6.12.vsix";
+      sha256 = "sha256-IS9hqA87i6eM3f937X1Dd0dj9Exf2NZJPFyfI8bIwVI=";
     };
     name = "language-julia";
     license = "MIT";
@@ -11115,10 +11127,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "183.0.0";
+    version = "184.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/183.0.0/file/lextudio.restructuredtext-183.0.0.vsix";
-      sha256 = "sha256-vwGc+avZnI/N8mGwE4X3lxP13tZZNGKYtnUupnz/C5Q=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/184.0.0/file/lextudio.restructuredtext-184.0.0.vsix";
+      sha256 = "sha256-iL6QQTemutH12278EyoBpZoyNPONsR0haGroZM3K2qA=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -11655,10 +11667,10 @@
   };
   maziac-asm-code-lens = {
     pname = "maziac-asm-code-lens";
-    version = "1.9.1";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/maziac/asm-code-lens/1.9.1/file/maziac.asm-code-lens-1.9.1.vsix";
-      sha256 = "sha256-j3SC1ge+aMUzDIKox6+w9UyYl9B4+pwL/PBwrtoZ81U=";
+      url = "https://open-vsx.org/api/maziac/asm-code-lens/1.10.0/file/maziac.asm-code-lens-1.10.0.vsix";
+      sha256 = "sha256-6NarKLiVgnE5W7lJo3jY+pnlV3fVdYWwiDCYm/qzJMc=";
     };
     name = "asm-code-lens";
     license = "MIT";
@@ -11859,10 +11871,10 @@
   };
   mesonbuild-mesonbuild = {
     pname = "mesonbuild-mesonbuild";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.1/file/mesonbuild.mesonbuild-1.5.1.vsix";
-      sha256 = "sha256-ro33qELLQQGDCfr+xFioeEcJlaNsI8LFQJyIccI8GZA=";
+      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.2/file/mesonbuild.mesonbuild-1.5.2.vsix";
+      sha256 = "sha256-e7rhTikUZOQhwTWk1gFc1hqI6NuIYk1JNIMOdMg7wPk=";
     };
     name = "mesonbuild";
     license = "Apache-2.0";
