@@ -190,17 +190,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "1219535e56b53ebbfd3bc5d904cf15ad59f783c5";
+    version = "8086bee146366ca8ec20cb05eb9d883d15544551";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "1219535e56b53ebbfd3bc5d904cf15ad59f783c5";
+      rev = "8086bee146366ca8ec20cb05eb9d883d15544551";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ul4uOTBjtFsRWKfpObzKohtAQdFj0BlxjY/2Y5e5XXo=";
+      sha256 = "sha256-JRy3qsvHnvIvk0BBXK0cuacme22ClD8x+XbGs2ycAW8=";
     };
     cargoLock = {
-      lockFile = ./conduit-1219535e56b53ebbfd3bc5d904cf15ad59f783c5/Cargo.lock;
+      lockFile = ./conduit-8086bee146366ca8ec20cb05eb9d883d15544551/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.4.0" = "sha256-gRhhGWpMiLeA8TNgBMsFEBky1TISr/GXNxLpTXLgUQE=";
@@ -901,13 +901,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "6ec82d98db2485e8546ceef0ffa9f643c7bc43ba";
+    version = "3310f8e51efe6e3edfba1d0687c43d2b4581b504";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "6ec82d98db2485e8546ceef0ffa9f643c7bc43ba";
+      rev = "3310f8e51efe6e3edfba1d0687c43d2b4581b504";
       fetchSubmodules = false;
-      sha256 = "sha256-ypg9u7TlB+2gyIGal/NYL77p0VfZ3jaZ64/FqO0EDj8=";
+      sha256 = "sha256-0yPrMDuK/lZxIySeroGbHUpWYqnAMjOO1OMi611L6XI=";
     });
   };
   spotify = {
