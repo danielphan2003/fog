@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6035",
+    "version": "1.0.6036",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6035-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6036-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0fzA2Zk+OUGEvfBvUMoklAa/mhS6Fj5tGY8635vmNVw="
+      "sha256": "sha256-7DuZ+3kXfhRAS/8JU5DKlBS14vok4JJ5/Bz4YIHe6Gw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6035",
+    "version": "1.0.6036",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6035.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6036.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2Y3fpbsMonaAecp+Zz5BwPMtqV7AKKSSFNxVGVUK3ic="
+      "sha256": "sha256-BTLOnUNOPzkaywhdi5uJDawIm1750HGivOFqMi5ULD4="
     },
     "extract": null,
     "rustGitDeps": null
