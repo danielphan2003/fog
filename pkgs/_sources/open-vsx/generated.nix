@@ -171,10 +171,10 @@
   };
   Ayushh-vscode-anchor = {
     pname = "Ayushh-vscode-anchor";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ayushh/vscode-anchor/0.2.5/file/Ayushh.vscode-anchor-0.2.5.vsix";
-      sha256 = "sha256-fe9mWbdl7zSBTsLzEJYQa8jtrz4gqx6ZzIXxrgavKJs=";
+      url = "https://open-vsx.org/api/Ayushh/vscode-anchor/0.2.6/file/Ayushh.vscode-anchor-0.2.6.vsix";
+      sha256 = "sha256-J1X/VIBapsNN94ClyaPmp9EmAue7rNVlg2Eom1/T6K0=";
     };
     name = "vscode-anchor";
     license = "Apache-2.0";
@@ -11223,10 +11223,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.9";
+    version = "0.4.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.9/file/ligolang-publish.ligo-vscode-0.4.9.vsix";
-      sha256 = "sha256-Ap3VqOC+G73Ha4+RPklSpURh5zcblmjKDruuC3bdJ3w=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.10/file/ligolang-publish.ligo-vscode-0.4.10.vsix";
+      sha256 = "sha256-W1foX4iBZtDtZXJD0+f46s7roHXGsBTiYsar5YnqTqQ=";
     };
     name = "ligo-vscode";
     license = "MIT";
