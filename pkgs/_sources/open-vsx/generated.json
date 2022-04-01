@@ -1663,7 +1663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitHub-vscode-pull-request-github",
-    "version": "0.38.1",
+    "version": "0.40.0",
     "passthru": {
       "name": "vscode-pull-request-github",
       "license": "MIT",
@@ -1671,10 +1671,10 @@
       "description": "Pull Request and Issue Provider for GitHub"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.38.1/file/GitHub.vscode-pull-request-github-0.38.1.vsix",
+      "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.40.0/file/GitHub.vscode-pull-request-github-0.40.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-opR+y818jrdyGGh61swbo0FWKJJCJzn6594km4B76d0="
+      "sha256": "sha256-YO/flH5iYxCb/hLEtG/CIcAdxYyeEMPkAPgMTpAwgDo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4923,7 +4923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nadako-vshaxe",
-    "version": "2.23.2",
+    "version": "2.23.3",
     "passthru": {
       "name": "vshaxe",
       "license": "MIT",
@@ -4931,10 +4931,10 @@
       "description": "Haxe language support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nadako/vshaxe/2.23.2/file/nadako.vshaxe-2.23.2.vsix",
+      "url": "https://open-vsx.org/api/nadako/vshaxe/2.23.3/file/nadako.vshaxe-2.23.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RBukqMH8z3ZSbyL3CNj98ltw03H20cUpue5R9pyPKp0="
+      "sha256": "sha256-+JXzXZ/3VpbGxGqoFuEGnhg8wvZntCgIqvL1PFpMrlI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5843,7 +5843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-pack",
-    "version": "0.22.1",
+    "version": "0.22.2",
     "passthru": {
       "name": "vscode-java-pack",
       "license": "MIT",
@@ -5851,10 +5851,10 @@
       "description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.1/file/vscjava.vscode-java-pack-0.22.1.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.2/file/vscjava.vscode-java-pack-0.22.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zMv2mgZory1ImGC7M569NgFBrGKO+L6WpP60eld8iDo="
+      "sha256": "sha256-H0DvxiCpnupWH8RCguGhPLiVGYOG3C5XCunCq3TuzLA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14863,7 +14863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.3016",
+    "version": "2022.3.3121",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14871,10 +14871,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3016/file/Slint.slint-nightly-2022.3.3016.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3121/file/Slint.slint-nightly-2022.3.3121.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QiDb+a/miqYnNbzMPeZTuuccGFCsVEVDTZ7niU3HGts="
+      "sha256": "sha256-e023+opMpY7MNWdK95QP0r3A146G7hak4WYUD8ZN/cU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23843,7 +23843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-vscode-github-issue-notebooks",
-    "version": "0.0.115",
+    "version": "0.0.116",
     "passthru": {
       "name": "vscode-github-issue-notebooks",
       "license": "MIT",
@@ -23851,10 +23851,10 @@
       "description": "GitHub Issue Notebooks for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.115/file/ms-vscode.vscode-github-issue-notebooks-0.0.115.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.116/file/ms-vscode.vscode-github-issue-notebooks-0.0.116.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-V2JuiG9I4YLsvpq16jXdVW13DTHC9HmGyqQGybUuKVM="
+      "sha256": "sha256-HkwThH+1sSm2eOt0C9gITfGlfdjm4WCl0UCJ0Kp6CZs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30543,7 +30543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iocave-customize-ui",
-    "version": "0.1.59",
+    "version": "0.1.61",
     "passthru": {
       "name": "customize-ui",
       "license": "MIT",
@@ -30551,10 +30551,10 @@
       "description": "Advanced VSCode user interface customizations. Very experimental."
     },
     "src": {
-      "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.59/file/iocave.customize-ui-0.1.59.vsix",
+      "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.61/file/iocave.customize-ui-0.1.61.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VRo06axso5nj7GOdFh8AMrPROxFgfXIQhfmlQjOQ/jE="
+      "sha256": "sha256-C8VoUgUtpS3BaO+y4Scc1hEC1oISx662lnwobknno3I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33223,7 +33223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GulajavaMinistudio-mayukaithemevsc",
-    "version": "3.1.1",
+    "version": "3.2.0",
     "passthru": {
       "name": "mayukaithemevsc",
       "license": "MIT",
@@ -33231,10 +33231,10 @@
       "description": "Dark theme based on mixing swatch of Ayu Theme, Andromeda Theme, Monokai, Material Colors, Original Gruvbox Darktooth Colors, and Dracula Colors."
     },
     "src": {
-      "url": "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.1.1/file/GulajavaMinistudio.mayukaithemevsc-3.1.1.vsix",
+      "url": "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.0/file/GulajavaMinistudio.mayukaithemevsc-3.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wgupKnCgseuf+FnSqEh/EL7rUCY0R6gANt+s+S8TWOs="
+      "sha256": "sha256-S+CJWn7mR+9pMe0HG61qghW4LxStseo+D6YKxHAF/m8="
     },
     "extract": null,
     "rustGitDeps": null

@@ -1119,10 +1119,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.38.1";
+    version = "0.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.38.1/file/GitHub.vscode-pull-request-github-0.38.1.vsix";
-      sha256 = "sha256-opR+y818jrdyGGh61swbo0FWKJJCJzn6594km4B76d0=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.40.0/file/GitHub.vscode-pull-request-github-0.40.0.vsix";
+      sha256 = "sha256-YO/flH5iYxCb/hLEtG/CIcAdxYyeEMPkAPgMTpAwgDo=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -1275,10 +1275,10 @@
   };
   GulajavaMinistudio-mayukaithemevsc = {
     pname = "GulajavaMinistudio-mayukaithemevsc";
-    version = "3.1.1";
+    version = "3.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.1.1/file/GulajavaMinistudio.mayukaithemevsc-3.1.1.vsix";
-      sha256 = "sha256-wgupKnCgseuf+FnSqEh/EL7rUCY0R6gANt+s+S8TWOs=";
+      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.0/file/GulajavaMinistudio.mayukaithemevsc-3.2.0.vsix";
+      sha256 = "sha256-S+CJWn7mR+9pMe0HG61qghW4LxStseo+D6YKxHAF/m8=";
     };
     name = "mayukaithemevsc";
     license = "MIT";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.3016";
+    version = "2022.3.3121";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3016/file/Slint.slint-nightly-2022.3.3016.vsix";
-      sha256 = "sha256-QiDb+a/miqYnNbzMPeZTuuccGFCsVEVDTZ7niU3HGts=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3121/file/Slint.slint-nightly-2022.3.3121.vsix";
+      sha256 = "sha256-e023+opMpY7MNWdK95QP0r3A146G7hak4WYUD8ZN/cU=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -9579,10 +9579,10 @@
   };
   iocave-customize-ui = {
     pname = "iocave-customize-ui";
-    version = "0.1.59";
+    version = "0.1.61";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.59/file/iocave.customize-ui-0.1.59.vsix";
-      sha256 = "sha256-VRo06axso5nj7GOdFh8AMrPROxFgfXIQhfmlQjOQ/jE=";
+      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.61/file/iocave.customize-ui-0.1.61.vsix";
+      sha256 = "sha256-C8VoUgUtpS3BaO+y4Scc1hEC1oISx662lnwobknno3I=";
     };
     name = "customize-ui";
     license = "MIT";
@@ -12519,10 +12519,10 @@
   };
   ms-vscode-vscode-github-issue-notebooks = {
     pname = "ms-vscode-vscode-github-issue-notebooks";
-    version = "0.0.115";
+    version = "0.0.116";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.115/file/ms-vscode.vscode-github-issue-notebooks-0.0.115.vsix";
-      sha256 = "sha256-V2JuiG9I4YLsvpq16jXdVW13DTHC9HmGyqQGybUuKVM=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.116/file/ms-vscode.vscode-github-issue-notebooks-0.0.116.vsix";
+      sha256 = "sha256-HkwThH+1sSm2eOt0C9gITfGlfdjm4WCl0UCJ0Kp6CZs=";
     };
     name = "vscode-github-issue-notebooks";
     license = "MIT";
@@ -12867,10 +12867,10 @@
   };
   nadako-vshaxe = {
     pname = "nadako-vshaxe";
-    version = "2.23.2";
+    version = "2.23.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nadako/vshaxe/2.23.2/file/nadako.vshaxe-2.23.2.vsix";
-      sha256 = "sha256-RBukqMH8z3ZSbyL3CNj98ltw03H20cUpue5R9pyPKp0=";
+      url = "https://open-vsx.org/api/nadako/vshaxe/2.23.3/file/nadako.vshaxe-2.23.3.vsix";
+      sha256 = "sha256-+JXzXZ/3VpbGxGqoFuEGnhg8wvZntCgIqvL1PFpMrlI=";
     };
     name = "vshaxe";
     license = "MIT";
@@ -17883,10 +17883,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.22.1";
+    version = "0.22.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.1/file/vscjava.vscode-java-pack-0.22.1.vsix";
-      sha256 = "sha256-zMv2mgZory1ImGC7M569NgFBrGKO+L6WpP60eld8iDo=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.2/file/vscjava.vscode-java-pack-0.22.2.vsix";
+      sha256 = "sha256-H0DvxiCpnupWH8RCguGhPLiVGYOG3C5XCunCq3TuzLA=";
     };
     name = "vscode-java-pack";
     license = "MIT";
