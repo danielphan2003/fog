@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6033",
+    "version": "1.0.6034",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6033-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6034-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8b+Q3+krmQCpeyHxKC9zb9ZMAr3GvDi3DCir9X4jXjs="
+      "sha256": "sha256-+av1ApTROXIOvxx/WPs3Wwno4YbnCYrc5FAGVL//tnM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "9276921f5d08bb18f54c71b6614e239545f95c4c",
+    "version": "754d3b224f38655cb39704394f1b9361263e6b06",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-IfazkSM+MTfVHquCva/Ewbs4s1671Pr1z4wSmP1dZZM=",
-      "rev": "9276921f5d08bb18f54c71b6614e239545f95c4c"
+      "sha256": "sha256-UgebpgdM0Au1dCQtfMx7MzZfRoUo0GVkBDw3rqJOCfE=",
+      "rev": "754d3b224f38655cb39704394f1b9361263e6b06"
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6033",
+    "version": "1.0.6034",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6033.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6034.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-U5U1GeOWn8BAg/JAM2y6RWRbi5nfnE58CA6b+G3LdnE="
+      "sha256": "sha256-nhvO52vZTMROYRp26ij+kRQRWaL0E80Dgjvu8rHolio="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1118,13 +1118,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-651-gf10ad5e7",
+    "version": "2.1-653-g82b1ba3f",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-651-gf10ad5e7-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-653-g82b1ba3f-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6ZROSgjwVrbL0YiK8iP5IA0bH6BChZnFA9PRZz1v4oE="
+      "sha256": "sha256-djixnMryJe236dC/BJ2EUC4OgBbCBKoTssJF9CSuX1A="
     },
     "extract": null,
     "rustGitDeps": null
