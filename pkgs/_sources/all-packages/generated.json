@@ -730,9 +730,9 @@
   },
   "conduit": {
     "pinned": false,
-    "cargoLock": "./conduit-d89141100cce06a3d657d3c0ed3deef79495dafd/Cargo.lock",
+    "cargoLock": "./conduit-8086bee146366ca8ec20cb05eb9d883d15544551/Cargo.lock",
     "name": "conduit",
-    "version": "d89141100cce06a3d657d3c0ed3deef79495dafd",
+    "version": "8086bee146366ca8ec20cb05eb9d883d15544551",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -741,8 +741,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-6BujstaCJU+AepjM+48cN+av4Lsu+0vHDPi8usKksAo=",
-      "rev": "d89141100cce06a3d657d3c0ed3deef79495dafd"
+      "sha256": "sha256-JRy3qsvHnvIvk0BBXK0cuacme22ClD8x+XbGs2ycAW8=",
+      "rev": "8086bee146366ca8ec20cb05eb9d883d15544551"
     },
     "extract": null,
     "rustGitDeps": {
@@ -2090,7 +2090,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-themes",
-    "version": "6ec82d98db2485e8546ceef0ffa9f643c7bc43ba",
+    "version": "3310f8e51efe6e3edfba1d0687c43d2b4581b504",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2100,8 +2100,8 @@
       "name": null,
       "repo": "spicetify-themes",
       "type": "github",
-      "sha256": "sha256-ypg9u7TlB+2gyIGal/NYL77p0VfZ3jaZ64/FqO0EDj8=",
-      "rev": "6ec82d98db2485e8546ceef0ffa9f643c7bc43ba"
+      "sha256": "sha256-0yPrMDuK/lZxIySeroGbHUpWYqnAMjOO1OMi611L6XI=",
+      "rev": "3310f8e51efe6e3edfba1d0687c43d2b4581b504"
     },
     "extract": null,
     "rustGitDeps": null
