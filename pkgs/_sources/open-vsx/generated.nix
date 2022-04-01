@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.765";
+    version = "31.0.807";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.765/file/Prisma.prisma-insider-31.0.765.vsix";
-      sha256 = "sha256-Mj4dM9U+oo2UDM8t3JVrP+RNHDfdJw21s5wwC193mz4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.807/file/Prisma.prisma-insider-31.0.807.vsix";
+      sha256 = "sha256-xkW4Pcg22DbpuM7l927SiZ86N/Vkmy3SN2ACleui9Lc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7359,10 +7359,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2077706";
+    version = "7.1.2078059";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2077706/file/eliostruyf.vscode-front-matter-beta-7.1.2077706.vsix";
-      sha256 = "sha256-QCe0k5qY06BzVKpH8hT/Mj9rESQe4jwbdiz2UDIxMvI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2078059/file/eliostruyf.vscode-front-matter-beta-7.1.2078059.vsix";
+      sha256 = "sha256-QdZ1+j6KvILMOHj5c9kfsIDK2Dd5uyDjSk998rfTTuM=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -17223,10 +17223,10 @@
   };
   tonka3000-qtvsctools = {
     pname = "tonka3000-qtvsctools";
-    version = "0.10.1";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tonka3000/qtvsctools/0.10.1/file/tonka3000.qtvsctools-0.10.1.vsix";
-      sha256 = "sha256-ymRuf6jFKmoT29vzfPiKCFBJ6FX0FTJ5DMbpjaQypGY=";
+      url = "https://open-vsx.org/api/tonka3000/qtvsctools/0.11.0/file/tonka3000.qtvsctools-0.11.0.vsix";
+      sha256 = "sha256-M5xDAbN1vPkEIFAPX6F41q8Q1/Uu6SPyTBFyJWWDy9c=";
     };
     name = "qtvsctools";
     license = "MIT";
@@ -19767,10 +19767,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.22";
+    version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.22/file/zardoy.better-snippets-0.1.22.vsix";
-      sha256 = "sha256-9GlHNQqCRJpDPabCe0uG9SFwlNTmxzsU1c0ZGmiaqaQ=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.23/file/zardoy.better-snippets-0.1.23.vsix";
+      sha256 = "sha256-P81e0A1+N7ABRui09mAd4vOs9skOL3p4QdBGkb3wsko=";
     };
     name = "better-snippets";
     license = "MIT";
@@ -20031,10 +20031,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.20";
+    version = "0.9.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.20/file/znck.vue-0.9.20.vsix";
-      sha256 = "sha256-XCWx1i2ijh+dVxs1y+4J1EzNYxpFkgb7i7d0tSkN3bY=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.21/file/znck.vue-0.9.21.vsix";
+      sha256 = "sha256-laKE0mPXV+yP3A/+4tRlFIufDbqFv1Ptxn8FnE2A7Jg=";
     };
     name = "vue";
     license = "MIT";
@@ -20043,10 +20043,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.19";
+    version = "0.9.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.19/file/znck.vue-language-features-0.9.19.vsix";
-      sha256 = "sha256-4j+xxrUzbksoeZjuWB5j4jHBMHj5VGQl0f0n/XCiIow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.20/file/znck.vue-language-features-0.9.20.vsix";
+      sha256 = "sha256-EnJ3P8nXIUEss9Q6nKydseeP4cg8610HrB37Y2zb1vo=";
     };
     name = "vue-language-features";
     license = "MIT";

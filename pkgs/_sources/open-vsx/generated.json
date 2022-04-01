@@ -5603,7 +5603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.19",
+    "version": "0.9.20",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5611,10 +5611,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.19/file/znck.vue-language-features-0.9.19.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.20/file/znck.vue-language-features-0.9.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4j+xxrUzbksoeZjuWB5j4jHBMHj5VGQl0f0n/XCiIow="
+      "sha256": "sha256-EnJ3P8nXIUEss9Q6nKydseeP4cg8610HrB37Y2zb1vo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9403,7 +9403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2077706",
+    "version": "7.1.2078059",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9411,10 +9411,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2077706/file/eliostruyf.vscode-front-matter-beta-7.1.2077706.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2078059/file/eliostruyf.vscode-front-matter-beta-7.1.2078059.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QCe0k5qY06BzVKpH8hT/Mj9rESQe4jwbdiz2UDIxMvI="
+      "sha256": "sha256-QdZ1+j6KvILMOHj5c9kfsIDK2Dd5uyDjSk998rfTTuM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20243,7 +20243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.20",
+    "version": "0.9.21",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20251,10 +20251,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.20/file/znck.vue-0.9.20.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.21/file/znck.vue-0.9.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XCWx1i2ijh+dVxs1y+4J1EzNYxpFkgb7i7d0tSkN3bY="
+      "sha256": "sha256-laKE0mPXV+yP3A/+4tRlFIufDbqFv1Ptxn8FnE2A7Jg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23883,7 +23883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-better-snippets",
-    "version": "0.1.22",
+    "version": "0.1.23",
     "passthru": {
       "name": "better-snippets",
       "license": "MIT",
@@ -23891,10 +23891,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.22/file/zardoy.better-snippets-0.1.22.vsix",
+      "url": "https://open-vsx.org/api/zardoy/better-snippets/0.1.23/file/zardoy.better-snippets-0.1.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9GlHNQqCRJpDPabCe0uG9SFwlNTmxzsU1c0ZGmiaqaQ="
+      "sha256": "sha256-P81e0A1+N7ABRui09mAd4vOs9skOL3p4QdBGkb3wsko="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30203,7 +30203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.765",
+    "version": "31.0.807",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30211,10 +30211,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.765/file/Prisma.prisma-insider-31.0.765.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.807/file/Prisma.prisma-insider-31.0.807.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Mj4dM9U+oo2UDM8t3JVrP+RNHDfdJw21s5wwC193mz4="
+      "sha256": "sha256-xkW4Pcg22DbpuM7l927SiZ86N/Vkmy3SN2ACleui9Lc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32163,7 +32163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tonka3000-qtvsctools",
-    "version": "0.10.1",
+    "version": "0.11.0",
     "passthru": {
       "name": "qtvsctools",
       "license": "MIT",
@@ -32171,10 +32171,10 @@
       "description": "Qt tools support for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tonka3000/qtvsctools/0.10.1/file/tonka3000.qtvsctools-0.10.1.vsix",
+      "url": "https://open-vsx.org/api/tonka3000/qtvsctools/0.11.0/file/tonka3000.qtvsctools-0.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ymRuf6jFKmoT29vzfPiKCFBJ6FX0FTJ5DMbpjaQypGY="
+      "sha256": "sha256-M5xDAbN1vPkEIFAPX6F41q8Q1/Uu6SPyTBFyJWWDy9c="
     },
     "extract": null,
     "rustGitDeps": null
