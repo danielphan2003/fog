@@ -13039,6 +13039,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "adamhartford-vscode-base64": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "adamhartford-vscode-base64",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "vscode-base64",
+      "license": "MIT",
+      "publisher": "adamhartford",
+      "description": "Base64 encode/decode the current selections."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/adamhartford/vscode-base64/0.1.0/file/adamhartford.vscode-base64-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-w0XAbHUWBOm6J/XbLCXhgVbxPk6nIM+sEi//xgRRxmQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "mintlify-document": {
     "pinned": false,
     "cargoLock": null,
@@ -16059,6 +16079,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "wmaurer-change-case": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "wmaurer-change-case",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "change-case",
+      "license": "MIT",
+      "publisher": "wmaurer",
+      "description": "Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/wmaurer/change-case/1.0.0/file/wmaurer.change-case-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ID1FMO5q8QhGw2nrHkT8G1zEwRJBZO1nlXGzZhHUnOM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "vscode-java": {
     "pinned": false,
     "cargoLock": null,
@@ -16683,7 +16723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "formulahendry-vscode-node-red",
-    "version": "0.0.2",
+    "version": "0.2.0",
     "passthru": {
       "name": "vscode-node-red",
       "license": "MIT",
@@ -16691,10 +16731,10 @@
       "description": "Flow-based programming for IoT (Internet of Things)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/formulahendry/vscode-node-red/0.0.2/file/formulahendry.vscode-node-red-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/formulahendry/vscode-node-red/0.2.0/file/formulahendry.vscode-node-red-0.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5qI022oWj8mfkgffMgJQt4Wlw+0tZ9OVcFoFjf0eSfE="
+      "sha256": "sha256-CS5F74wlExDFPRfFz39Ta6xzVh5/FImHDjmYjaTRcMs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22979,6 +23019,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "appulate-filewatcher": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "appulate-filewatcher",
+    "version": "1.0.3",
+    "passthru": {
+      "name": "filewatcher",
+      "license": "MIT",
+      "publisher": "appulate",
+      "description": "Watch file or folder changes, and run matched command scripts."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/appulate/filewatcher/1.0.3/file/appulate.filewatcher-1.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-s4CpuGdyPdmvAW2I6REFN81oM/7AavVoCsr4isLtBvs="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "CodeStream-codestream": {
     "pinned": false,
     "cargoLock": null,
@@ -23923,7 +23983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "rangav-vscode-thunder-client",
-    "version": "1.14.3",
+    "version": "1.14.4",
     "passthru": {
       "name": "vscode-thunder-client",
       "license": "",
@@ -23931,10 +23991,10 @@
       "description": "Lightweight Rest API Client for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.3/file/rangav.vscode-thunder-client-1.14.3.vsix",
+      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.4/file/rangav.vscode-thunder-client-1.14.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XBWpPpnGXdIJZMNC1yT7I0H/UDW+Te4Yj/ZzqeCaCzQ="
+      "sha256": "sha256-fCwSLLoVuyXOfLyd7cmBzQQ8XYXYYV1o031p9L9rR3A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25859,6 +25919,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "fraser-live-coder": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "fraser-live-coder",
+    "version": "1.0.2",
+    "passthru": {
+      "name": "live-coder",
+      "license": "MIT",
+      "publisher": "fraser",
+      "description": "See how your code executes as you write it."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/fraser/live-coder/1.0.2/file/fraser.live-coder-1.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ncMjuDnNFZpDMNiFKTXQzJklGkuqxC26Ghwe8E9ggxo="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "LaurentTreguier-rpm-spec": {
     "pinned": false,
     "cargoLock": null,
@@ -26043,7 +26123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tokiwa-software-fuzion-lang",
-    "version": "0.4.0",
+    "version": "0.71.0",
     "passthru": {
       "name": "fuzion-lang",
       "license": "MIT",
@@ -26051,10 +26131,10 @@
       "description": "Supports the development in the Fuzion programming language"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.4.0/file/tokiwa-software.fuzion-lang-0.4.0.vsix",
+      "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.71.0/file/tokiwa-software.fuzion-lang-0.71.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HMu1Vx7e24Kh1oVc96GD8Zh8XOHrEv7ay6ZBjkcUSfs="
+      "sha256": "sha256-ZH4K+l/Jx6wbVcrJRYtOmKpMmoK+g62ga4xcI8dySY8="
     },
     "extract": null,
     "rustGitDeps": null
