@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6032",
+    "version": "1.0.6033",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6032-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6033-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YYrm4nj7QKgbtjClgsJoho6RIKL9UpPkL5A43TBv1qs="
+      "sha256": "sha256-8b+Q3+krmQCpeyHxKC9zb9ZMAr3GvDi3DCir9X4jXjs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -730,9 +730,9 @@
   },
   "conduit": {
     "pinned": false,
-    "cargoLock": "./conduit-8086bee146366ca8ec20cb05eb9d883d15544551/Cargo.lock",
+    "cargoLock": "./conduit-0066f20bddb510308bdea9afbf3c19802e92a553/Cargo.lock",
     "name": "conduit",
-    "version": "8086bee146366ca8ec20cb05eb9d883d15544551",
+    "version": "0066f20bddb510308bdea9afbf3c19802e92a553",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -741,8 +741,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-JRy3qsvHnvIvk0BBXK0cuacme22ClD8x+XbGs2ycAW8=",
-      "rev": "8086bee146366ca8ec20cb05eb9d883d15544551"
+      "sha256": "sha256-+o833IjmFesmo0B+4xZB1gRNd6DPWnrCoDB2pvj0tUI=",
+      "rev": "0066f20bddb510308bdea9afbf3c19802e92a553"
     },
     "extract": null,
     "rustGitDeps": {
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6032",
+    "version": "1.0.6033",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6032.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6033.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8nVDBCmK77Jr/orfd/9+rZP2Rzvdc5XL1oyEwtVxT4U="
+      "sha256": "sha256-U5U1GeOWn8BAg/JAM2y6RWRbi5nfnE58CA6b+G3LdnE="
     },
     "extract": null,
     "rustGitDeps": null
