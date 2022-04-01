@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "510af4678e0d2f15a7651d766c806550c17fe78e",
+    "version": "9276921f5d08bb18f54c71b6614e239545f95c4c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-yl24W1Trby6Tp7M8hBXipYOiF+5Q2mhVUvKKENMt4Bk=",
-      "rev": "510af4678e0d2f15a7651d766c806550c17fe78e"
+      "sha256": "sha256-IfazkSM+MTfVHquCva/Ewbs4s1671Pr1z4wSmP1dZZM=",
+      "rev": "9276921f5d08bb18f54c71b6614e239545f95c4c"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1388,13 +1388,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jibri",
-    "version": "8.0-124-g6cb18e9",
+    "version": "8.0-125-g3997aaa",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jibri_8.0-124-g6cb18e9-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jibri_8.0-125-g3997aaa-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-907wCEFQy4JjHx50+p0BldObmsw8PZGhsPcpsNiPvH0="
+      "sha256": "sha256-LINFByOqLyGhKlQ7JKhZxtacoecQ9Vsq6FLU7rTU1RE="
     },
     "extract": null,
     "rustGitDeps": null

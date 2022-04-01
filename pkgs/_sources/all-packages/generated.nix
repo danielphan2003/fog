@@ -394,10 +394,10 @@
   };
   jibri = {
     pname = "jibri";
-    version = "8.0-124-g6cb18e9";
+    version = "8.0-125-g3997aaa";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jibri_8.0-124-g6cb18e9-1_all.deb";
-      sha256 = "sha256-907wCEFQy4JjHx50+p0BldObmsw8PZGhsPcpsNiPvH0=";
+      url = "https://download.jitsi.org/unstable/jibri_8.0-125-g3997aaa-1_all.deb";
+      sha256 = "sha256-LINFByOqLyGhKlQ7JKhZxtacoecQ9Vsq6FLU7rTU1RE=";
     };
   };
   jicofo = {
@@ -762,13 +762,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "510af4678e0d2f15a7651d766c806550c17fe78e";
+    version = "9276921f5d08bb18f54c71b6614e239545f95c4c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "510af4678e0d2f15a7651d766c806550c17fe78e";
+      rev = "9276921f5d08bb18f54c71b6614e239545f95c4c";
       fetchSubmodules = false;
-      sha256 = "sha256-yl24W1Trby6Tp7M8hBXipYOiF+5Q2mhVUvKKENMt4Bk=";
+      sha256 = "sha256-IfazkSM+MTfVHquCva/Ewbs4s1671Pr1z4wSmP1dZZM=";
     });
   };
   rofi-wayland = {
