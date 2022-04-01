@@ -1213,13 +1213,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "netdata-go-d-plugin",
-    "version": "0.32.0",
+    "version": "0.32.1",
     "passthru": null,
     "src": {
-      "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.0.tar.gz",
+      "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.1.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pkOs3g6Zkm+hqCfHat6yNatwa2LavIako5Zpg5hTL2E="
+      "sha256": "sha256-zGdkaETB1BCFR3jdmy6JKVlpoUww4rzb7hi4Ybpq1tg="
     },
     "extract": null,
     "rustGitDeps": null
