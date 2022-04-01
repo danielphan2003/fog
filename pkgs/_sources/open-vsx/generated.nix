@@ -3901,6 +3901,18 @@
     publisher = "activecove";
     description = "Stay organized with minimal context switching, all inside your VS Code.";
   };
+  adamhartford-vscode-base64 = {
+    pname = "adamhartford-vscode-base64";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/adamhartford/vscode-base64/0.1.0/file/adamhartford.vscode-base64-0.1.0.vsix";
+      sha256 = "sha256-w0XAbHUWBOm6J/XbLCXhgVbxPk6nIM+sEi//xgRRxmQ=";
+    };
+    name = "vscode-base64";
+    license = "MIT";
+    publisher = "adamhartford";
+    description = "Base64 encode/decode the current selections.";
+  };
   adarshpandeyin-search-github-users-extension = {
     pname = "adarshpandeyin-search-github-users-extension";
     version = "0.0.5";
@@ -4680,6 +4692,18 @@
     license = "MIT";
     publisher = "appliedengdesign";
     description = "Turn VSCode into a fully capable G-Code editor, including language support & more.";
+  };
+  appulate-filewatcher = {
+    pname = "appulate-filewatcher";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/appulate/filewatcher/1.0.3/file/appulate.filewatcher-1.0.3.vsix";
+      sha256 = "sha256-s4CpuGdyPdmvAW2I6REFN81oM/7AavVoCsr4isLtBvs=";
+    };
+    name = "filewatcher";
+    license = "MIT";
+    publisher = "appulate";
+    description = "Watch file or folder changes, and run matched command scripts.";
   };
   arcanis-vscode-zipfs = {
     pname = "arcanis-vscode-zipfs";
@@ -8067,10 +8091,10 @@
   };
   formulahendry-vscode-node-red = {
     pname = "formulahendry-vscode-node-red";
-    version = "0.0.2";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/formulahendry/vscode-node-red/0.0.2/file/formulahendry.vscode-node-red-0.0.2.vsix";
-      sha256 = "sha256-5qI022oWj8mfkgffMgJQt4Wlw+0tZ9OVcFoFjf0eSfE=";
+      url = "https://open-vsx.org/api/formulahendry/vscode-node-red/0.2.0/file/formulahendry.vscode-node-red-0.2.0.vsix";
+      sha256 = "sha256-CS5F74wlExDFPRfFz39Ta6xzVh5/FImHDjmYjaTRcMs=";
     };
     name = "vscode-node-red";
     license = "MIT";
@@ -8172,6 +8196,18 @@
     license = "MIT";
     publisher = "franneck94";
     description = "\128295 Format all your files in a workspace with one click. \128295";
+  };
+  fraser-live-coder = {
+    pname = "fraser-live-coder";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/fraser/live-coder/1.0.2/file/fraser.live-coder-1.0.2.vsix";
+      sha256 = "sha256-ncMjuDnNFZpDMNiFKTXQzJklGkuqxC26Ghwe8E9ggxo=";
+    };
+    name = "live-coder";
+    license = "MIT";
+    publisher = "fraser";
+    description = "See how your code executes as you write it.";
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
@@ -14367,10 +14403,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.14.3";
+    version = "1.14.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.3/file/rangav.vscode-thunder-client-1.14.3.vsix";
-      sha256 = "sha256-XBWpPpnGXdIJZMNC1yT7I0H/UDW+Te4Yj/ZzqeCaCzQ=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.4/file/rangav.vscode-thunder-client-1.14.4.vsix";
+      sha256 = "sha256-fCwSLLoVuyXOfLyd7cmBzQQ8XYXYYV1o031p9L9rR3A=";
     };
     name = "vscode-thunder-client";
     license = "";
@@ -17043,10 +17079,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.4.0";
+    version = "0.71.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.4.0/file/tokiwa-software.fuzion-lang-0.4.0.vsix";
-      sha256 = "sha256-HMu1Vx7e24Kh1oVc96GD8Zh8XOHrEv7ay6ZBjkcUSfs=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.71.0/file/tokiwa-software.fuzion-lang-0.71.0.vsix";
+      sha256 = "sha256-ZH4K+l/Jx6wbVcrJRYtOmKpMmoK+g62ga4xcI8dySY8=";
     };
     name = "fuzion-lang";
     license = "MIT";
@@ -19368,6 +19404,18 @@
     license = "MIT";
     publisher = "wmanth";
     description = "Lists classes and files inside JAR archives.";
+  };
+  wmaurer-change-case = {
+    pname = "wmaurer-change-case";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wmaurer/change-case/1.0.0/file/wmaurer.change-case-1.0.0.vsix";
+      sha256 = "sha256-ID1FMO5q8QhGw2nrHkT8G1zEwRJBZO1nlXGzZhHUnOM=";
+    };
+    name = "change-case";
+    license = "MIT";
+    publisher = "wmaurer";
+    description = "Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word";
   };
   wongjn-php-sniffer = {
     pname = "wongjn-php-sniffer";
