@@ -519,10 +519,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.13.0";
+    version = "12.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.13.0/file/CodeStream.codestream-12.13.0.vsix";
-      sha256 = "sha256-0rgSkNC1Sxe6uSNvXR5U6HmohhEHRwKLSlPxiPH8iFM=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/12.14.0/file/CodeStream.codestream-12.14.0.vsix";
+      sha256 = "sha256-xQ3MY2fUsyXbASRXg4Lap1CEbnNKydwN4U03wAPfbvg=";
     };
     name = "codestream";
     license = "UNLICENSED";
@@ -2655,10 +2655,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.1/file/PrateekMahendrakar.prettyxml-1.5.1.vsix";
-      sha256 = "sha256-ACP9/7FwPjZRpGXNugBDyVemhXTmmv8LB+D0mtRC0do=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.2/file/PrateekMahendrakar.prettyxml-1.5.2.vsix";
+      sha256 = "sha256-2Sfw9U+uD9ks+ywoQw+aRNhxmDIFRHVCJHUVAIlTnkg=";
     };
     name = "prettyxml";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.809";
+    version = "31.0.811";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.809/file/Prisma.prisma-insider-31.0.809.vsix";
-      sha256 = "sha256-0is3Oi22HPN5L3+21FRhhylCCsOZZae+5ZVcKaaJqWI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.811/file/Prisma.prisma-insider-31.0.811.vsix";
+      sha256 = "sha256-3SiWybkFRkHoq97tGwBO9sXL1S0ZiX4QUoLy1BG6ngE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8031,10 +8031,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.17.7";
+    version = "0.17.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.7/file/foam.foam-vscode-0.17.7.vsix";
-      sha256 = "sha256-+fy6sT0ckMkyWvX/ZE/cjc7u0rIrn+0CT8gS8twWIDA=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.17.8/file/foam.foam-vscode-0.17.8.vsix";
+      sha256 = "sha256-t0Q82aCWuL7Q2ULnNExmPhU+oaoZeyBvN7bbsbqVOTk=";
     };
     name = "foam-vscode";
     license = "MIT";
