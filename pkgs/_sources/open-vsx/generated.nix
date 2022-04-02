@@ -5307,10 +5307,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.261";
+    version = "2.0.262";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.261/file/betterthantomorrow.calva-2.0.261.vsix";
-      sha256 = "sha256-KWT/uneuZyQ5jffSybc6N443vqGhBeTiUG/Ea8bp5I0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.262/file/betterthantomorrow.calva-2.0.262.vsix";
+      sha256 = "sha256-CBYwXq4I6syl9XDZxGxiQjAWUe44GcwFUKwCnbacdyU=";
     };
     name = "calva";
     license = "MIT";
