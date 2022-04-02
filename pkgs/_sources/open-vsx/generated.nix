@@ -12831,10 +12831,10 @@
   };
   muhammad-sammy-csharp = {
     pname = "muhammad-sammy-csharp";
-    version = "1.24.1";
+    version = "1.24.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.1/file/muhammad-sammy.csharp-1.24.1.vsix";
-      sha256 = "sha256-uWJHVstEZAheN/coerAw1/FoTCf5MFsTTNhseluZ87Y=";
+      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.3/file/muhammad-sammy.csharp-1.24.3.vsix";
+      sha256 = "sha256-ypUkR2xJ+pi/nUFR/+YRAsFy6mISJQJRtS61PfQQgt0=";
     };
     name = "csharp";
     license = "MIT";

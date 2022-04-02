@@ -23,7 +23,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "muhammad-sammy-csharp",
-    "version": "1.24.1",
+    "version": "1.24.3",
     "passthru": {
       "name": "csharp",
       "license": "MIT",
@@ -31,10 +31,10 @@
       "description": "C# support for vscode-compatible editors (powered by OmniSharp and NetCoreDbg)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.1/file/muhammad-sammy.csharp-1.24.1.vsix",
+      "url": "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.3/file/muhammad-sammy.csharp-1.24.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uWJHVstEZAheN/coerAw1/FoTCf5MFsTTNhseluZ87Y="
+      "sha256": "sha256-ypUkR2xJ+pi/nUFR/+YRAsFy6mISJQJRtS61PfQQgt0="
     },
     "extract": null,
     "rustGitDeps": null
