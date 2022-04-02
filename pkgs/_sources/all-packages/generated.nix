@@ -243,13 +243,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "e931b234b7f4ee9c8cdada0cda864579ac4321b2";
+    version = "5d023d2a7caa4b4c9fd274956ed3b970d9e00f5e";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "e931b234b7f4ee9c8cdada0cda864579ac4321b2";
+      rev = "5d023d2a7caa4b4c9fd274956ed3b970d9e00f5e";
       fetchSubmodules = false;
-      sha256 = "sha256-Z8DFLEM5StJzwsAB4nmoyIAOZSCFx6n2Z5rLVfciY10=";
+      sha256 = "sha256-XrieSPt1SS/GBOhrBD6tGAlQcqTKB2WavISnCnHcjfg=";
     });
   };
   doggo = {
