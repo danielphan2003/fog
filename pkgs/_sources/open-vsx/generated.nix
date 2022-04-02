@@ -7371,10 +7371,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2081446";
+    version = "7.1.2082782";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2081446/file/eliostruyf.vscode-front-matter-beta-7.1.2081446.vsix";
-      sha256 = "sha256-DBA8X39dOXbpqEaWpFmVwYZV9qU8uTXF9ZLrWf8osio=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2082782/file/eliostruyf.vscode-front-matter-beta-7.1.2082782.vsix";
+      sha256 = "sha256-QTwKdFK82tCMjZcrGBUU548RjFXP1SbVqaDsq8bhCnE=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10311,10 +10311,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.12";
+    version = "1.6.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.12/file/julialang.language-julia-1.6.12.vsix";
-      sha256 = "sha256-IS9hqA87i6eM3f937X1Dd0dj9Exf2NZJPFyfI8bIwVI=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.14/file/julialang.language-julia-1.6.14.vsix";
+      sha256 = "sha256-TaE4NhwEg/3ZcMRHujsoI10VjTmYfczQURs6ZJN4+9Y=";
     };
     name = "language-julia";
     license = "MIT";

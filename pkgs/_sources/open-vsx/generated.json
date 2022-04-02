@@ -9403,7 +9403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2081446",
+    "version": "7.1.2082782",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9411,10 +9411,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2081446/file/eliostruyf.vscode-front-matter-beta-7.1.2081446.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2082782/file/eliostruyf.vscode-front-matter-beta-7.1.2082782.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DBA8X39dOXbpqEaWpFmVwYZV9qU8uTXF9ZLrWf8osio="
+      "sha256": "sha256-QTwKdFK82tCMjZcrGBUU548RjFXP1SbVqaDsq8bhCnE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30883,7 +30883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.6.12",
+    "version": "1.6.14",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -30891,10 +30891,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.12/file/julialang.language-julia-1.6.12.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.14/file/julialang.language-julia-1.6.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IS9hqA87i6eM3f937X1Dd0dj9Exf2NZJPFyfI8bIwVI="
+      "sha256": "sha256-TaE4NhwEg/3ZcMRHujsoI10VjTmYfczQURs6ZJN4+9Y="
     },
     "extract": null,
     "rustGitDeps": null
