@@ -15171,10 +15171,10 @@
   };
   roipoussiere-cadquery = {
     pname = "roipoussiere-cadquery";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.0/file/roipoussiere.cadquery-0.1.0.vsix";
-      sha256 = "sha256-wlHbOdUDOh6zVwWKbWsaetfvYuZ9XC18tOYvbD/U39I=";
+      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.1/file/roipoussiere.cadquery-0.1.1.vsix";
+      sha256 = "sha256-kNe5qVL6CiAT2DhSXBzs21qDByyf/PsLombL1/ZoAiE=";
     };
     name = "cadquery";
     license = "MIT";

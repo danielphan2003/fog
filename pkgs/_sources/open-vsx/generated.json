@@ -1423,7 +1423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "roipoussiere-cadquery",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "passthru": {
       "name": "cadquery",
       "license": "MIT",
@@ -1431,10 +1431,10 @@
       "description": "Create CadQuery 3D models within your IDE."
     },
     "src": {
-      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.1.0/file/roipoussiere.cadquery-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.1.1/file/roipoussiere.cadquery-0.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wlHbOdUDOh6zVwWKbWsaetfvYuZ9XC18tOYvbD/U39I="
+      "sha256": "sha256-kNe5qVL6CiAT2DhSXBzs21qDByyf/PsLombL1/ZoAiE="
     },
     "extract": null,
     "rustGitDeps": null
