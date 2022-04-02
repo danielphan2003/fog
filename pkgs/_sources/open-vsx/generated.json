@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.88.3",
+    "version": "0.88.4",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.88.3/file/dendron.nightly-0.88.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.88.4/file/dendron.nightly-0.88.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-z5m6cjRbY/6lrCKHcQ/6BziGpzAzoDwkfeI04HgStKY="
+      "sha256": "sha256-2AiKm6PpVWRKUJs0rASZKMkL1On3dUk/VANjofpi/jQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9303,7 +9303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9311,10 +9311,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.5.1/file/zenclabs.previewjs-1.5.1.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.5.2/file/zenclabs.previewjs-1.5.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-D0STsZsFbT6qwA75e8wPoINPB48IC4shdz/iB3k1T0U="
+      "sha256": "sha256-KRmCuQBdT+ez1VwkcCgeYZDq2jDHkM/4kg7GNS5AbWc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9403,7 +9403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2078059",
+    "version": "7.1.2081446",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9411,10 +9411,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2078059/file/eliostruyf.vscode-front-matter-beta-7.1.2078059.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2081446/file/eliostruyf.vscode-front-matter-beta-7.1.2081446.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QdZ1+j6KvILMOHj5c9kfsIDK2Dd5uyDjSk998rfTTuM="
+      "sha256": "sha256-DBA8X39dOXbpqEaWpFmVwYZV9qU8uTXF9ZLrWf8osio="
     },
     "extract": null,
     "rustGitDeps": null
