@@ -447,10 +447,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.8/file/CloudStudio-Team.metawork-0.0.8.vsix";
-      sha256 = "sha256-EVxonJxUGDE6xY+gNogG9CFJ6Hs8MLDQ83ZAc+BhzrQ=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.9/file/CloudStudio-Team.metawork-0.0.9.vsix";
+      sha256 = "sha256-GZEeMzKQJ1o1FTYfrjr18YqKHjb5OmXzI/yvUgYP23E=";
     };
     name = "metawork";
     license = "MIT";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.3.3121";
+    version = "2022.4.116";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3121/file/Slint.slint-nightly-2022.3.3121.vsix";
-      sha256 = "sha256-e023+opMpY7MNWdK95QP0r3A146G7hak4WYUD8ZN/cU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.116/file/Slint.slint-nightly-2022.4.116.vsix";
+      sha256 = "sha256-vHtMHIrukWf3S7S0Zr2C3xlw4pex7EKAnJ1rSBYiFKs=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";

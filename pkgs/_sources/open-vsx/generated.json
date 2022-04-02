@@ -14923,7 +14923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.3.3121",
+    "version": "2022.4.116",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -14931,10 +14931,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.3.3121/file/Slint.slint-nightly-2022.3.3121.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.116/file/Slint.slint-nightly-2022.4.116.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-e023+opMpY7MNWdK95QP0r3A146G7hak4WYUD8ZN/cU="
+      "sha256": "sha256-vHtMHIrukWf3S7S0Zr2C3xlw4pex7EKAnJ1rSBYiFKs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26043,7 +26043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CloudStudio-Team-metawork",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "passthru": {
       "name": "metawork",
       "license": "MIT",
@@ -26051,10 +26051,10 @@
       "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.8/file/CloudStudio-Team.metawork-0.0.8.vsix",
+      "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.9/file/CloudStudio-Team.metawork-0.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EVxonJxUGDE6xY+gNogG9CFJ6Hs8MLDQ83ZAc+BhzrQ="
+      "sha256": "sha256-GZEeMzKQJ1o1FTYfrjr18YqKHjb5OmXzI/yvUgYP23E="
     },
     "extract": null,
     "rustGitDeps": null
