@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-httpbook",
-    "version": "3.0.2",
+    "version": "3.1.0",
     "passthru": {
       "name": "httpbook",
       "license": "MIT",
@@ -1611,10 +1611,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/httpbook/3.0.2/file/anweber.httpbook-3.0.2.vsix",
+      "url": "https://open-vsx.org/api/anweber/httpbook/3.1.0/file/anweber.httpbook-3.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/C6e5+dH9qt9NnAejbm039Wdbhm7Gohpgfl3Dh75u64="
+      "sha256": "sha256-hjSv6H1lLmUZ7Vk0Vj1PnrzixP6RDVtGJwR6Jgb5nDM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5703,7 +5703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.50",
+    "version": "0.0.51",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5711,10 +5711,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.50/file/zardoy.zardoy-experiments-0.0.50.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.51/file/zardoy.zardoy-experiments-0.0.51.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r3Y/UjC45KW3F81H0A14RPOsVkdOka8OsNXz06PYv/E="
+      "sha256": "sha256-LTzhl59/AKfdrfJZfXKkxTf1ZabJ3aV8W8/GTuh4UtM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11423,7 +11423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-vscode-httpyac",
-    "version": "5.2.3",
+    "version": "5.3.0",
     "passthru": {
       "name": "vscode-httpyac",
       "license": "MIT",
@@ -11431,10 +11431,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.3/file/anweber.vscode-httpyac-5.2.3.vsix",
+      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.3.0/file/anweber.vscode-httpyac-5.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1MbFneNlEkacOLrJ6F/STu2qzIoq/0rEzR8+Z5i35Hw="
+      "sha256": "sha256-dVOJxTyxEa6txXQrms+dB6AaPGdcVj+1F1PxYwSHHEw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17303,7 +17303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.15",
+    "version": "0.13.16",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -17311,10 +17311,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.15/file/shufo.vscode-blade-formatter-0.13.15.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.16/file/shufo.vscode-blade-formatter-0.13.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-E2/mxzsK73aw5grBtr3iBM2uh0KmzvYP5dn2mDOtvLo="
+      "sha256": "sha256-mz2ZBZHw8IS0J3jP/0B5lSYfIYPerc5caclB3XYfMfI="
     },
     "extract": null,
     "rustGitDeps": null

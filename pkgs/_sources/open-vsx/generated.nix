@@ -4563,10 +4563,10 @@
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
-    version = "3.0.2";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/3.0.2/file/anweber.httpbook-3.0.2.vsix";
-      sha256 = "sha256-/C6e5+dH9qt9NnAejbm039Wdbhm7Gohpgfl3Dh75u64=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.1.0/file/anweber.httpbook-3.1.0.vsix";
+      sha256 = "sha256-hjSv6H1lLmUZ7Vk0Vj1PnrzixP6RDVtGJwR6Jgb5nDM=";
     };
     name = "httpbook";
     license = "MIT";
@@ -4623,10 +4623,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.2.3";
+    version = "5.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.2.3/file/anweber.vscode-httpyac-5.2.3.vsix";
-      sha256 = "sha256-1MbFneNlEkacOLrJ6F/STu2qzIoq/0rEzR8+Z5i35Hw=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.3.0/file/anweber.vscode-httpyac-5.3.0.vsix";
+      sha256 = "sha256-dVOJxTyxEa6txXQrms+dB6AaPGdcVj+1F1PxYwSHHEw=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -15807,10 +15807,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.15";
+    version = "0.13.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.15/file/shufo.vscode-blade-formatter-0.13.15.vsix";
-      sha256 = "sha256-E2/mxzsK73aw5grBtr3iBM2uh0KmzvYP5dn2mDOtvLo=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.16/file/shufo.vscode-blade-formatter-0.13.16.vsix";
+      sha256 = "sha256-mz2ZBZHw8IS0J3jP/0B5lSYfIYPerc5caclB3XYfMfI=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -19887,10 +19887,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.50";
+    version = "0.0.51";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.50/file/zardoy.zardoy-experiments-0.0.50.vsix";
-      sha256 = "sha256-r3Y/UjC45KW3F81H0A14RPOsVkdOka8OsNXz06PYv/E=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.51/file/zardoy.zardoy-experiments-0.0.51.vsix";
+      sha256 = "sha256-LTzhl59/AKfdrfJZfXKkxTf1ZabJ3aV8W8/GTuh4UtM=";
     };
     name = "zardoy-experiments";
     license = "MIT";
