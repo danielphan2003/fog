@@ -14967,10 +14967,10 @@
   };
   rid9-datetime = {
     pname = "rid9-datetime";
-    version = "2.1.3";
+    version = "2.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rid9/datetime/2.1.3/file/rid9.datetime-2.1.3.vsix";
-      sha256 = "sha256-HaN54tUidITwCqVZ/9ly5etwQuJyrbbiiOhjixSk164=";
+      url = "https://open-vsx.org/api/rid9/datetime/2.1.4/file/rid9.datetime-2.1.4.vsix";
+      sha256 = "sha256-dpWfCrMPGVybtkq8LX1fLArVoS2UlVB6FB+3vFE6Wls=";
     };
     name = "datetime";
     license = "MIT";
