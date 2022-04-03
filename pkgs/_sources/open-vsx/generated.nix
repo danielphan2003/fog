@@ -735,10 +735,10 @@
   };
   DavidAnson-vscode-markdownlint = {
     pname = "DavidAnson-vscode-markdownlint";
-    version = "0.46.0";
+    version = "0.47.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DavidAnson/vscode-markdownlint/0.46.0/file/DavidAnson.vscode-markdownlint-0.46.0.vsix";
-      sha256 = "sha256-y6iSoz7v/4ZZ/svvn9+wb7SnbEN9c8zh1lJc+iJxBe0=";
+      url = "https://open-vsx.org/api/DavidAnson/vscode-markdownlint/0.47.0/file/DavidAnson.vscode-markdownlint-0.47.0.vsix";
+      sha256 = "sha256-HVXer6Gu3MaDd7UaVJ3TEGaoFQEfiif8SaK/03+aq9U=";
     };
     name = "vscode-markdownlint";
     license = "MIT";

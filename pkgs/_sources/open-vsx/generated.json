@@ -11763,7 +11763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DavidAnson-vscode-markdownlint",
-    "version": "0.46.0",
+    "version": "0.47.0",
     "passthru": {
       "name": "vscode-markdownlint",
       "license": "MIT",
@@ -11771,10 +11771,10 @@
       "description": "Markdown linting and style checking for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DavidAnson/vscode-markdownlint/0.46.0/file/DavidAnson.vscode-markdownlint-0.46.0.vsix",
+      "url": "https://open-vsx.org/api/DavidAnson/vscode-markdownlint/0.47.0/file/DavidAnson.vscode-markdownlint-0.47.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-y6iSoz7v/4ZZ/svvn9+wb7SnbEN9c8zh1lJc+iJxBe0="
+      "sha256": "sha256-HVXer6Gu3MaDd7UaVJ3TEGaoFQEfiif8SaK/03+aq9U="
     },
     "extract": null,
     "rustGitDeps": null
