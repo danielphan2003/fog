@@ -6483,10 +6483,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.7";
+    version = "0.11.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.7/file/d-biehl.robotcode-0.11.7.vsix";
-      sha256 = "sha256-243LMylV9LtFm6adpp0zbK4Hf7E9hW4Sl9iSuCQZLT4=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.8/file/d-biehl.robotcode-0.11.8.vsix";
+      sha256 = "sha256-el/PxOhGVzTHZIM3YSDyyhIh+DN+MLPYBG43XtH6I94=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7683,10 +7683,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.0";
+    version = "1.3.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.0/file/everscale.solidity-support-1.3.0.vsix";
-      sha256 = "sha256-czVgmIp07SVj9YiKa3TNqCOPQf2apAiz6TKO//ZWwtU=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.12/file/everscale.solidity-support-1.3.12.vsix";
+      sha256 = "sha256-FnfDuJFoSRnJRfHVndOo0//mM1oDhFVRq/R0drQTgfs=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -11859,10 +11859,10 @@
   };
   meronz-manpages = {
     pname = "meronz-manpages";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meronz/manpages/0.1.0/file/meronz.manpages-0.1.0.vsix";
-      sha256 = "sha256-9SAdf1/RNfAD5Wbg5UR3HrvyaRYGz/iN+2dNz5ECU/A=";
+      url = "https://open-vsx.org/api/meronz/manpages/0.1.1/file/meronz.manpages-0.1.1.vsix";
+      sha256 = "sha256-nW39oESuLk6pYVMfE16Ewng6mPuQaQN/I3LQYqS735o=";
     };
     name = "manpages";
     license = "GPLv3";
