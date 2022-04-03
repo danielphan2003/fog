@@ -9483,7 +9483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.39",
+    "version": "3.5.40",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9491,10 +9491,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.39/file/TabNine.tabnine-vscode-3.5.39.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.40/file/TabNine.tabnine-vscode-3.5.40.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hKVNBRK3hxkz/T3n3ZmYFU2wzdo49GYVKxRpwplIaz4="
+      "sha256": "sha256-K2vc1qQT1/DIZ8jAr5KoxiJMaV/kGL+oji96iQ3Ye84="
     },
     "extract": null,
     "rustGitDeps": null
