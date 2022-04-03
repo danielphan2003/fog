@@ -10311,10 +10311,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.14";
+    version = "1.6.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.14/file/julialang.language-julia-1.6.14.vsix";
-      sha256 = "sha256-TaE4NhwEg/3ZcMRHujsoI10VjTmYfczQURs6ZJN4+9Y=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.15/file/julialang.language-julia-1.6.15.vsix";
+      sha256 = "sha256-Ij8yAMj0QU1wqLXHx8Ed3tEHq6hCHADqn5wuoTiKUwA=";
     };
     name = "language-julia";
     license = "MIT";
