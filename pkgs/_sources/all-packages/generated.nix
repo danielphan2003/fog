@@ -160,13 +160,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "fa8699598f2079fd84a04384916617116859dc2e";
+    version = "0af006ced7327b09e1a9d0f4d2df259a977b2033";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "fa8699598f2079fd84a04384916617116859dc2e";
+      rev = "0af006ced7327b09e1a9d0f4d2df259a977b2033";
       fetchSubmodules = false;
-      sha256 = "sha256-FqGsYF9kcKwLSHZO1oLJqQA06l5U4PrfFBmwJoT5vbE=";
+      sha256 = "sha256-fwcNEK/ef8507AirZPpFb54QelC4/mrk0QOBuoT0HFA=";
     });
   };
   caddy = {
@@ -878,14 +878,14 @@
   };
   snui = {
     pname = "snui";
-    version = "342032284fdeff78b74b1047f24a08b4161311c1";
+    version = "6e1029b2c96cd506a3df1254f612bff9e2c2a516";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "342032284fdeff78b74b1047f24a08b4161311c1";
+      rev = "6e1029b2c96cd506a3df1254f612bff9e2c2a516";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-M/uGueKnNjZ1w4Cvx5hA2Vj8FrVnKJLIS4oGvNZ7qZs=";
+      sha256 = "sha256-szawRAXR2NBzcIWQGOU2wCpxpIDMVYk1qDGxTSXF4GM=";
     };
   };
   spicetify-cli = {
