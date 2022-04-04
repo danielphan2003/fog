@@ -4935,10 +4935,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.2";
+    version = "0.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.2/file/arzg.xcode-theme-0.7.2.vsix";
-      sha256 = "sha256-Ri109UozmRTSDTpRGCMD9ldkm0CsczR9Bd6Ve2vKrMM=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.3/file/arzg.xcode-theme-0.7.3.vsix";
+      sha256 = "sha256-n9T3JcUJHUZnd+Ey/vQ/tqo0o8HrDX+HDh3KL0opBRU=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -9507,10 +9507,10 @@
   };
   ikappas-composer = {
     pname = "ikappas-composer";
-    version = "0.7.1";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ikappas/composer/0.7.1/file/ikappas.composer-0.7.1.vsix";
-      sha256 = "sha256-0G5QtV/p1JdH0ogXeKM1178QxKkOoiJmeVnH5haNWrk=";
+      url = "https://open-vsx.org/api/ikappas/composer/0.8.0/file/ikappas.composer-0.8.0.vsix";
+      sha256 = "sha256-V48QnynIVaT+MqlW6fB+p+7UVsk/k0uacfIcQdIr1Hc=";
     };
     name = "composer";
     license = "MIT";
@@ -11787,10 +11787,10 @@
   };
   medo64-render-crlf = {
     pname = "medo64-render-crlf";
-    version = "1.5.25";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/medo64/render-crlf/1.5.25/file/medo64.render-crlf-1.5.25.vsix";
-      sha256 = "sha256-JRlApee4MKm3SbPv3ctl4v475fLhSqSyLiWF5YejxTg=";
+      url = "https://open-vsx.org/api/medo64/render-crlf/1.6.0/file/medo64.render-crlf-1.6.0.vsix";
+      sha256 = "sha256-ZVnIffwg3MnnU9K6gnFL2R2cBDqYAdEVXEFDJm2nitw=";
     };
     name = "render-crlf";
     license = "MIT";
@@ -17139,10 +17139,10 @@
   };
   tomblind-local-lua-debugger-vscode = {
     pname = "tomblind-local-lua-debugger-vscode";
-    version = "0.3.2";
+    version = "0.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tomblind/local-lua-debugger-vscode/0.3.2/file/tomblind.local-lua-debugger-vscode-0.3.2.vsix";
-      sha256 = "sha256-UhDyOBPTPicgN2blL+t0G1HloDOY5cpUkgfeCbulzxg=";
+      url = "https://open-vsx.org/api/tomblind/local-lua-debugger-vscode/0.3.3/file/tomblind.local-lua-debugger-vscode-0.3.3.vsix";
+      sha256 = "sha256-hM1CgxJFn19RHZjpvtkU+5z/gozBMstVrAWHIlsmc7o=";
     };
     name = "local-lua-debugger-vscode";
     license = "MIT";
