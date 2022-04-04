@@ -114,6 +114,22 @@
       sha256 = "sha256-h4LjOs0hcYGSjR9pMXMl8Fw4R5o9zwLf/sNBnrYAiWc=";
     });
   };
+  asusctl = {
+    pname = "asusctl";
+    version = "fc14455da4e7d9d8b3335a09c9bc822fe64d9ded";
+    src = fetchgit {
+      url = "https://gitlab.com/asus-linux/asusctl";
+      rev = "fc14455da4e7d9d8b3335a09c9bc822fe64d9ded";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-kKhsFrpvtHj0Kv2J85gH+g9yw5AcxHj4KlAgdHKi0iU=";
+    };
+    cargoLock = {
+      lockFile = ./asusctl-fc14455da4e7d9d8b3335a09c9bc822fe64d9ded/Cargo.lock;
+      outputHashes = { };
+    };
+  };
   avizo = {
     pname = "avizo";
     version = "d5c416aa7ac46660cd943f01ecfab6e29cb5e8c3";
@@ -784,16 +800,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a56aa08a662f00abd28be00940d9e4fa05fa85aa";
+    version = "fb98209008a2e03d755dc311d10b5891e7f43801";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a56aa08a662f00abd28be00940d9e4fa05fa85aa";
+      rev = "fb98209008a2e03d755dc311d10b5891e7f43801";
       fetchSubmodules = false;
-      sha256 = "sha256-HrLISf+3Zt+j74uCGfCHf1mAHqE17S3elOYEVLKMl9o=";
+      sha256 = "sha256-uWwvC0kBQWuFHRL0/5alDXfb12u9Ov2gpZAUd2H9omk=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-a56aa08a662f00abd28be00940d9e4fa05fa85aa/Cargo.lock;
+      lockFile = ./rustdesk-fb98209008a2e03d755dc311d10b5891e7f43801/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
