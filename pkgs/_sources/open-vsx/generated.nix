@@ -711,10 +711,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.36.0";
+    version = "3.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.36.0/file/Dart-Code.dart-code-3.36.0.vsix";
-      sha256 = "sha256-AjMf+bpzyqC4Ngqxb1PqBRqkxy8rzec6OBRydfGn/Z8=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.38.0/file/Dart-Code.dart-code-3.38.0.vsix";
+      sha256 = "sha256-akhwRY803ihe0ybNvYe3amuVxsLLENeakwDoJYUO7f0=";
     };
     name = "dart-code";
     license = "MIT";
@@ -723,10 +723,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.36.0";
+    version = "3.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.36.0/file/Dart-Code.flutter-3.36.0.vsix";
-      sha256 = "sha256-DNPZrYh4Dzt7vUkXOEmMBMS/eQ0N+u4qZmYDmJxRPw0=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.0/file/Dart-Code.flutter-3.38.0.vsix";
+      sha256 = "sha256-NmuJT16dhTka69DFHChtEgSDVk/9M0gxrLmP56mKFSE=";
     };
     name = "flutter";
     license = "MIT";
@@ -6459,10 +6459,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.1.2";
+    version = "5.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.2/file/cyrilletuzi.angular-schematics-5.1.2.vsix";
-      sha256 = "sha256-S/jzVMMpfdC8gFQ/BF25+DcWIU9wtTzBLlV8XPjGJ44=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.3/file/cyrilletuzi.angular-schematics-5.1.3.vsix";
+      sha256 = "sha256-D7YpJcXSoo+OMDS6LiHTt/htExXIB4SyiXdCbQNEoho=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -7371,10 +7371,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2088128";
+    version = "7.1.2090864";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2088128/file/eliostruyf.vscode-front-matter-beta-7.1.2088128.vsix";
-      sha256 = "sha256-l6GeZEanq6W73dyCTWfyYU8p0cD3Qz4GYICB/dWNs0Y=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2090864/file/eliostruyf.vscode-front-matter-beta-7.1.2090864.vsix";
+      sha256 = "sha256-3c+5Npum11c7wXH2ZtE4VOvnalXilOp23DAtHMrhqqw=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -8439,10 +8439,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.3";
+    version = "2022.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.3/file/genuitecllc.codetogether-2022.1.3.vsix";
-      sha256 = "sha256-CSWJ/n9LjSVAXsVUpYu5mSPAYWtNbYJbYjZndvGqwm8=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.4/file/genuitecllc.codetogether-2022.1.4.vsix";
+      sha256 = "sha256-9i21cczSl59hl4Py4GlIpPPyUNTJfZ0WaG5Y94UWU2k=";
     };
     name = "codetogether";
     license = "";
@@ -8451,10 +8451,10 @@
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.11/file/gera2ld.markmap-vscode-0.0.11.vsix";
-      sha256 = "sha256-SIbElZU+6NnjGt1I/MWc5xqHL8D4u9YkfiRcBAqRGE0=";
+      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.12/file/gera2ld.markmap-vscode-0.0.12.vsix";
+      sha256 = "sha256-FIEtUeSqOggyCAC4REw6iMB9o+qgQxgrFzkwagf9TWM=";
     };
     name = "markmap-vscode";
     license = "MIT";
@@ -17535,15 +17535,15 @@
   };
   unthrottled-doki-theme = {
     pname = "unthrottled-doki-theme";
-    version = "74.1.0";
+    version = "78.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unthrottled/doki-theme/74.1.0/file/unthrottled.doki-theme-74.1.0.vsix";
-      sha256 = "sha256-jYfj0/m8JAdz68jebKb8l8sqre3+ySf8Rv0F6yUFCcs=";
+      url = "https://open-vsx.org/api/unthrottled/doki-theme/78.1.2/file/unthrottled.doki-theme-78.1.2.vsix";
+      sha256 = "sha256-zu+xh2whU2Z5nTjPmHo+1A3LoWNu+7IHBJwTfd2lP6k=";
     };
     name = "doki-theme";
     license = "MIT";
     publisher = "unthrottled";
-    description = "A bunch of themes with cute anime girls. Code with your waifu!";
+    description = "Cute anime character themes!";
   };
   usernamehw-autolink = {
     pname = "usernamehw-autolink";
@@ -19417,6 +19417,18 @@
     publisher = "winterZhao";
     description = "\23436\25972\30340\12289\26631\20934\21270\30340\12289\27969\31243\22411 React \24212\29992\24320\21457\27169\24335\21644\26368\20339\23454\36341\12290\31616\21270\24212\29992\30340\24320\21457\65292\25910\25947\25216\26415\26632\12289\23631\34109\24213\23618\24046\24322\21644\32479\19968\24320\21457\20307\39564\65292\24110\21161\24320\21457\20154\21592\38477\20302\24320\21457\21644\32500\25252\25104\26412\12290";
   };
+  wintercms-winter-cms = {
+    pname = "wintercms-winter-cms";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wintercms/winter-cms/0.2.0/file/wintercms.winter-cms-0.2.0.vsix";
+      sha256 = "sha256-kymJSZpzQEAeWE3zKUv0gT0/RZX42PePCoI3YhMyUZk=";
+    };
+    name = "winter-cms";
+    license = "MIT";
+    publisher = "wintercms";
+    description = "Official Winter CMS extension, providing syntax highlighting and code completion for Winter projects.";
+  };
   wix-vscode-import-cost = {
     pname = "wix-vscode-import-cost";
     version = "2.15.0";
@@ -20043,10 +20055,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.21";
+    version = "0.9.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.21/file/znck.vue-0.9.21.vsix";
-      sha256 = "sha256-laKE0mPXV+yP3A/+4tRlFIufDbqFv1Ptxn8FnE2A7Jg=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.22/file/znck.vue-0.9.22.vsix";
+      sha256 = "sha256-UkgP44xW5urfUXPd1qPhhTMN6cH5I+Ryxdg0Ff0CmZ8=";
     };
     name = "vue";
     license = "MIT";
@@ -20055,10 +20067,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.20";
+    version = "0.9.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.20/file/znck.vue-language-features-0.9.20.vsix";
-      sha256 = "sha256-EnJ3P8nXIUEss9Q6nKydseeP4cg8610HrB37Y2zb1vo=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.21/file/znck.vue-language-features-0.9.21.vsix";
+      sha256 = "sha256-FAjKdRx2PBZk23Xy2cwi6X3voj0dsNre+RzKf5P73s4=";
     };
     name = "vue-language-features";
     license = "MIT";
