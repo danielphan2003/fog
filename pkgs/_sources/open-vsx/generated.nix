@@ -2655,10 +2655,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "1.5.2";
+    version = "1.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.2/file/PrateekMahendrakar.prettyxml-1.5.2.vsix";
-      sha256 = "sha256-2Sfw9U+uD9ks+ywoQw+aRNhxmDIFRHVCJHUVAIlTnkg=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.3/file/PrateekMahendrakar.prettyxml-1.5.3.vsix";
+      sha256 = "sha256-Wq4kIKdt3+FTgx8yvQrqLCAxMcljKDnpRhXYO5gJYBE=";
     };
     name = "prettyxml";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.826";
+    version = "31.0.827";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.826/file/Prisma.prisma-insider-31.0.826.vsix";
-      sha256 = "sha256-F8SfWmQ3r0R+OUCPbuqQWBd1VSMvqtkDW3hUHfLACf4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.827/file/Prisma.prisma-insider-31.0.827.vsix";
+      sha256 = "sha256-vofNFZDzVzU67B/8AgjriYzvglR3+ruK22lqPq0d9lc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14124,6 +14124,18 @@
     license = "MIT";
     publisher = "pokey";
     description = "Extensions useful for talon";
+  };
+  pomdtr-excalidraw-editor = {
+    pname = "pomdtr-excalidraw-editor";
+    version = "2.0.16";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.0.16/file/pomdtr.excalidraw-editor-2.0.16.vsix";
+      sha256 = "sha256-p5rmY3eWVx1YPGEkcPw4RCQyuYZ/AHGKHmIuDi4JozA=";
+    };
+    name = "excalidraw-editor";
+    license = "MIT";
+    publisher = "pomdtr";
+    description = "Draw schemas in VSCode using Excalidraw";
   };
   pouya-comment = {
     pname = "pouya-comment";
