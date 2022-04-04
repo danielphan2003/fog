@@ -442,10 +442,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-655-g1aa9f960";
+    version = "2.1-656-ga6e5bf1c";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-655-g1aa9f960-1_all.deb";
-      sha256 = "sha256-D+11payxO3g5xYS/sHQKO+OZIuqbCOopBIKu4aVnp74=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-656-ga6e5bf1c-1_all.deb";
+      sha256 = "sha256-D5YwgnL0y/FOcpg48aZBTSbt3qRU2E0w9o1JQAsy8JM=";
     };
   };
   layout-machi = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "6e1029b2c96cd506a3df1254f612bff9e2c2a516";
+    version = "e8ddfef44ec7afac28996fdeacd28d9336cc8be6";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "6e1029b2c96cd506a3df1254f612bff9e2c2a516";
+      rev = "e8ddfef44ec7afac28996fdeacd28d9336cc8be6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-szawRAXR2NBzcIWQGOU2wCpxpIDMVYk1qDGxTSXF4GM=";
+      sha256 = "sha256-WfQTzvT0Uh5sc6o0Ndgpi8Kirx9xK+koVk/F4jcybSc=";
     };
   };
   spicetify-cli = {
