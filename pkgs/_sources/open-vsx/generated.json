@@ -7323,7 +7323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.12.0",
+    "version": "1.12.1",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7331,10 +7331,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.12.0/file/quarto.quarto-1.12.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.12.1/file/quarto.quarto-1.12.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ihuVpZ0My/S0bgI/6WqmBzCEACcTWjAnNl63YUg7jl8="
+      "sha256": "sha256-6LeWmW1zRNIsCzRrF+i5wKobj0BcqiXc2RyyATC4g/M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8143,7 +8143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sourcery-sourcery",
-    "version": "0.11.0",
+    "version": "0.11.2",
     "passthru": {
       "name": "sourcery",
       "license": "MIT",
@@ -8151,10 +8151,10 @@
       "description": "Refactor Python instantly with Sourcery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sourcery/sourcery/0.11.0/file/sourcery.sourcery-0.11.0.vsix",
+      "url": "https://open-vsx.org/api/sourcery/sourcery/0.11.2/file/sourcery.sourcery-0.11.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HhIdq0YWzhSGxer8BqyPf4gqH42LLSw+Zq5p4jOo8bc="
+      "sha256": "sha256-aVXCFByrUHAz7EGav0EhEx0x3JuZaXqSw77aTDMM9dM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30223,7 +30223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.817",
+    "version": "31.0.825",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30231,10 +30231,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.817/file/Prisma.prisma-insider-31.0.817.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.825/file/Prisma.prisma-insider-31.0.825.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4I/nt2fn9+/BNU43cpmKWehCJKKXc4bxb3UeHmYL/OU="
+      "sha256": "sha256-k85mIfEQ1rC0qVybpMzJ7sns48NKnUJksYDhA9a+JHE="
     },
     "extract": null,
     "rustGitDeps": null

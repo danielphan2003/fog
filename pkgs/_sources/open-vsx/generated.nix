@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.817";
+    version = "31.0.825";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.817/file/Prisma.prisma-insider-31.0.817.vsix";
-      sha256 = "sha256-4I/nt2fn9+/BNU43cpmKWehCJKKXc4bxb3UeHmYL/OU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.825/file/Prisma.prisma-insider-31.0.825.vsix";
+      sha256 = "sha256-k85mIfEQ1rC0qVybpMzJ7sns48NKnUJksYDhA9a+JHE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14331,10 +14331,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.12.0";
+    version = "1.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.12.0/file/quarto.quarto-1.12.0.vsix";
-      sha256 = "sha256-ihuVpZ0My/S0bgI/6WqmBzCEACcTWjAnNl63YUg7jl8=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.12.1/file/quarto.quarto-1.12.1.vsix";
+      sha256 = "sha256-6LeWmW1zRNIsCzRrF+i5wKobj0BcqiXc2RyyATC4g/M=";
     };
     name = "quarto";
     license = "MIT";
@@ -16143,10 +16143,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.11.0";
+    version = "0.11.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.0/file/sourcery.sourcery-0.11.0.vsix";
-      sha256 = "sha256-HhIdq0YWzhSGxer8BqyPf4gqH42LLSw+Zq5p4jOo8bc=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.2/file/sourcery.sourcery-0.11.2.vsix";
+      sha256 = "sha256-aVXCFByrUHAz7EGav0EhEx0x3JuZaXqSw77aTDMM9dM=";
     };
     name = "sourcery";
     license = "MIT";
