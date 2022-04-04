@@ -50,6 +50,11 @@ fetch.github = "mgdm/argonone-utils"
 src.git = "https://github.com/arkenfox/user.js"
 fetch.github = "arkenfox/user.js"
 
+[asusctl]
+src.git = "https://gitlab.com/asus-linux/asusctl"
+fetch.git = "https://gitlab.com/asus-linux/asusctl"
+cargo_lock = "Cargo.lock"
+
 [avizo]
 src.git = "https://github.com/misterdanb/avizo"
 fetch.github = "misterdanb/avizo"
