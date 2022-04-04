@@ -6483,10 +6483,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.8";
+    version = "0.11.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.8/file/d-biehl.robotcode-0.11.8.vsix";
-      sha256 = "sha256-el/PxOhGVzTHZIM3YSDyyhIh+DN+MLPYBG43XtH6I94=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.9/file/d-biehl.robotcode-0.11.9.vsix";
+      sha256 = "sha256-eAY7jV1DEv8uHvJj+5tGStsV8+0Ht4KRCCvpfiPfcDM=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -14331,10 +14331,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.11.2";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.11.2/file/quarto.quarto-1.11.2.vsix";
-      sha256 = "sha256-3b/2Vu7TPw7RPlPuu85W/Av4lqnnn0TJXbJSBMp0lXk=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.12.0/file/quarto.quarto-1.12.0.vsix";
+      sha256 = "sha256-ihuVpZ0My/S0bgI/6WqmBzCEACcTWjAnNl63YUg7jl8=";
     };
     name = "quarto";
     license = "MIT";
