@@ -1224,6 +1224,25 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "asusctl": {
+    "pinned": false,
+    "cargoLock": "./asusctl-fc14455da4e7d9d8b3335a09c9bc822fe64d9ded/Cargo.lock",
+    "name": "asusctl",
+    "version": "fc14455da4e7d9d8b3335a09c9bc822fe64d9ded",
+    "passthru": null,
+    "src": {
+      "deepClone": false,
+      "url": "https://gitlab.com/asus-linux/asusctl",
+      "leaveDotGit": false,
+      "fetchSubmodules": false,
+      "name": null,
+      "type": "git",
+      "sha256": "sha256-kKhsFrpvtHj0Kv2J85gH+g9yw5AcxHj4KlAgdHKi0iU=",
+      "rev": "fc14455da4e7d9d8b3335a09c9bc822fe64d9ded"
+    },
+    "extract": null,
+    "rustGitDeps": {}
+  },
   "steamcompmgr": {
     "pinned": false,
     "cargoLock": null,
@@ -2057,9 +2076,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-a56aa08a662f00abd28be00940d9e4fa05fa85aa/Cargo.lock",
+    "cargoLock": "./rustdesk-fb98209008a2e03d755dc311d10b5891e7f43801/Cargo.lock",
     "name": "rustdesk",
-    "version": "a56aa08a662f00abd28be00940d9e4fa05fa85aa",
+    "version": "fb98209008a2e03d755dc311d10b5891e7f43801",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2069,8 +2088,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-HrLISf+3Zt+j74uCGfCHf1mAHqE17S3elOYEVLKMl9o=",
-      "rev": "a56aa08a662f00abd28be00940d9e4fa05fa85aa"
+      "sha256": "sha256-uWwvC0kBQWuFHRL0/5alDXfb12u9Ov2gpZAUd2H9omk=",
+      "rev": "fb98209008a2e03d755dc311d10b5891e7f43801"
     },
     "extract": null,
     "rustGitDeps": {
