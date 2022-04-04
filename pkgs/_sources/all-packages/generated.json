@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6045",
+    "version": "1.0.6046",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6045-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6046-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a5E8dqPSpyC5r43xwDgl180PZrIS1cHEnMkkdNPT8lM="
+      "sha256": "sha256-k3pxLhJ5kuSez5khzanyZO9TtQTUPn39YDdGOcnQzH0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -860,7 +860,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "9cbcaf1798646a0480b0b730631f588db905893b",
+    "version": "dcabde33fc61febaa72cebd90c4ebe0b8246f2d7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -870,8 +870,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-WakspHMzet5TyFNlDMeUgY8ysMI7+gEoX1sw75IxIPM=",
-      "rev": "9cbcaf1798646a0480b0b730631f588db905893b"
+      "sha256": "sha256-uZjS0Vf1fijKkUrsFaKaD4nF3qyLb+al4p5iiuNkX8s=",
+      "rev": "dcabde33fc61febaa72cebd90c4ebe0b8246f2d7"
     },
     "extract": null,
     "rustGitDeps": null
@@ -939,13 +939,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6045",
+    "version": "1.0.6046",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6045.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6046.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CSKWHbxpT3Pe8BfbfjmZSH0HcKFCJ/iUaWacUTQLU3o="
+      "sha256": "sha256-hiQpI9yOBL0YromLyw7G8gXHq4vWqGvyzSQ7D2PQdJU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1009,7 +1009,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "e8ddfef44ec7afac28996fdeacd28d9336cc8be6",
+    "version": "7170ecc36fcb1ad2859565fabb4b84c80b599047",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1018,8 +1018,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-WfQTzvT0Uh5sc6o0Ndgpi8Kirx9xK+koVk/F4jcybSc=",
-      "rev": "e8ddfef44ec7afac28996fdeacd28d9336cc8be6"
+      "sha256": "sha256-hGgm4aWRrGf1ibjyZ4g8WlxTdfv0hSu5HE0Re+ztZXY=",
+      "rev": "7170ecc36fcb1ad2859565fabb4b84c80b599047"
     },
     "extract": null,
     "rustGitDeps": null
