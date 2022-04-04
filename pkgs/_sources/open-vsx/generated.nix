@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.812";
+    version = "31.0.817";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.812/file/Prisma.prisma-insider-31.0.812.vsix";
-      sha256 = "sha256-IJ3Z2VKCcROUBgNNpSY0VhzYCI5rxjv0JEXAgRzdKSs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.817/file/Prisma.prisma-insider-31.0.817.vsix";
+      sha256 = "sha256-4I/nt2fn9+/BNU43cpmKWehCJKKXc4bxb3UeHmYL/OU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3075,10 +3075,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.3.3";
+    version = "3.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.3.3/file/SonarSource.sonarlint-vscode-3.3.3.vsix";
-      sha256 = "sha256-+SrPagZPiMcNZtreLpCttR1tDyXcO6jTY9x2aXqHkpc=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.4.0/file/SonarSource.sonarlint-vscode-3.4.0.vsix";
+      sha256 = "sha256-+YKLlqBPQyOHSJjztNgeIJbM11cgTst8lr4w9f17W/g=";
     };
     name = "sonarlint-vscode";
     license = "LGPL-3.0";
@@ -3207,10 +3207,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.40";
+    version = "3.5.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.40/file/TabNine.tabnine-vscode-3.5.40.vsix";
-      sha256 = "sha256-K2vc1qQT1/DIZ8jAr5KoxiJMaV/kGL+oji96iQ3Ye84=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.41/file/TabNine.tabnine-vscode-3.5.41.vsix";
+      sha256 = "sha256-a3OPfWWmggqUtfyHCKsoUPVMKjv4USyC+WMPpYOgHvQ=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6891,10 +6891,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.88.4";
+    version = "0.88.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.88.4/file/dendron.nightly-0.88.4.vsix";
-      sha256 = "sha256-2AiKm6PpVWRKUJs0rASZKMkL1On3dUk/VANjofpi/jQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.88.5/file/dendron.nightly-0.88.5.vsix";
+      sha256 = "sha256-4NFM3d8eqSa1BeRxp1nCuELs8h0zDojtOccJ3BDBf0s=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7371,10 +7371,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2088060";
+    version = "7.1.2088128";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2088060/file/eliostruyf.vscode-front-matter-beta-7.1.2088060.vsix";
-      sha256 = "sha256-KjGv2L13vE0q59Ww6XkHQVcHO24ROSWpJZDxovqSSXQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2088128/file/eliostruyf.vscode-front-matter-beta-7.1.2088128.vsix";
+      sha256 = "sha256-l6GeZEanq6W73dyCTWfyYU8p0cD3Qz4GYICB/dWNs0Y=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";

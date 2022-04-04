@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.88.4",
+    "version": "0.88.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.88.4/file/dendron.nightly-0.88.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.88.5/file/dendron.nightly-0.88.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2AiKm6PpVWRKUJs0rASZKMkL1On3dUk/VANjofpi/jQ="
+      "sha256": "sha256-4NFM3d8eqSa1BeRxp1nCuELs8h0zDojtOccJ3BDBf0s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4423,7 +4423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SonarSource-sonarlint-vscode",
-    "version": "3.3.3",
+    "version": "3.4.0",
     "passthru": {
       "name": "sonarlint-vscode",
       "license": "LGPL-3.0",
@@ -4431,10 +4431,10 @@
       "description": "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in JavaScript, TypeScript, Python, Java, HTML and PHP."
     },
     "src": {
-      "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.3.3/file/SonarSource.sonarlint-vscode-3.3.3.vsix",
+      "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.4.0/file/SonarSource.sonarlint-vscode-3.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+SrPagZPiMcNZtreLpCttR1tDyXcO6jTY9x2aXqHkpc="
+      "sha256": "sha256-+YKLlqBPQyOHSJjztNgeIJbM11cgTst8lr4w9f17W/g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9403,7 +9403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2088060",
+    "version": "7.1.2088128",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9411,10 +9411,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2088060/file/eliostruyf.vscode-front-matter-beta-7.1.2088060.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2088128/file/eliostruyf.vscode-front-matter-beta-7.1.2088128.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KjGv2L13vE0q59Ww6XkHQVcHO24ROSWpJZDxovqSSXQ="
+      "sha256": "sha256-l6GeZEanq6W73dyCTWfyYU8p0cD3Qz4GYICB/dWNs0Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9483,7 +9483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.40",
+    "version": "3.5.41",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9491,10 +9491,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.40/file/TabNine.tabnine-vscode-3.5.40.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.41/file/TabNine.tabnine-vscode-3.5.41.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-K2vc1qQT1/DIZ8jAr5KoxiJMaV/kGL+oji96iQ3Ye84="
+      "sha256": "sha256-a3OPfWWmggqUtfyHCKsoUPVMKjv4USyC+WMPpYOgHvQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30223,7 +30223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.812",
+    "version": "31.0.817",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30231,10 +30231,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.812/file/Prisma.prisma-insider-31.0.812.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.817/file/Prisma.prisma-insider-31.0.817.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IJ3Z2VKCcROUBgNNpSY0VhzYCI5rxjv0JEXAgRzdKSs="
+      "sha256": "sha256-4I/nt2fn9+/BNU43cpmKWehCJKKXc4bxb3UeHmYL/OU="
     },
     "extract": null,
     "rustGitDeps": null
