@@ -4995,10 +4995,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.13.3";
+    version = "0.13.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.13.3/file/astro-build.astro-vscode-0.13.3.vsix";
-      sha256 = "sha256-3jD6ntSRXwXdV/UNq1skCD28DbzDGTZnjhDqr/Dem1I=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.13.4/file/astro-build.astro-vscode-0.13.4.vsix";
+      sha256 = "sha256-ICpu2+QElFFRJ5Bv/ToXTjg+V/WaDk30kZ8C9q36k2Q=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -6459,10 +6459,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.1.3";
+    version = "5.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.3/file/cyrilletuzi.angular-schematics-5.1.3.vsix";
-      sha256 = "sha256-D7YpJcXSoo+OMDS6LiHTt/htExXIB4SyiXdCbQNEoho=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.4/file/cyrilletuzi.angular-schematics-5.1.4.vsix";
+      sha256 = "sha256-sXN6cVTaWAPpNJZ36hsyo77xbSrO3NSqF1jQkhP7o2k=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -14977,6 +14977,18 @@
     publisher = "rid9";
     description = "Displays a clock and date information in the status bar.";
   };
+  rintoj-json-organizer = {
+    pname = "rintoj-json-organizer";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/rintoj/json-organizer/0.0.4/file/rintoj.json-organizer-0.0.4.vsix";
+      sha256 = "sha256-6ysZnYVBf7sQQiDM+6SVbi7IFRRcMops4VgY8j3kbrU=";
+    };
+    name = "json-organizer";
+    license = "MIT";
+    publisher = "rintoj";
+    description = "Help you organize JSON";
+  };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
     version = "5.7.5";
@@ -15444,6 +15456,18 @@
     license = "MIT";
     publisher = "sainnhe";
     description = "High Contrast & Vivid Color Scheme based on Monokai Pro";
+  };
+  saltud-type4py = {
+    pname = "saltud-type4py";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/saltud/type4py/0.2.0/file/saltud.type4py-0.2.0.vsix";
+      sha256 = "sha256-LIfO1b1J195FaApD48Tg5iVXaJIMQQXUAKHiDJQgIfk=";
+    };
+    name = "type4py";
+    license = "MIT";
+    publisher = "saltud";
+    description = "Machine learning-based type autocompletion for Python";
   };
   samuelcolvin-jinjahtml = {
     pname = "samuelcolvin-jinjahtml";
