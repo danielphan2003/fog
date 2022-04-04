@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.825";
+    version = "31.0.826";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.825/file/Prisma.prisma-insider-31.0.825.vsix";
-      sha256 = "sha256-k85mIfEQ1rC0qVybpMzJ7sns48NKnUJksYDhA9a+JHE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.826/file/Prisma.prisma-insider-31.0.826.vsix";
+      sha256 = "sha256-F8SfWmQ3r0R+OUCPbuqQWBd1VSMvqtkDW3hUHfLACf4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15015,10 +15015,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.28.0";
+    version = "0.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.28.0/file/robocorp.robocorp-code-0.28.0.vsix";
-      sha256 = "sha256-K1igq3LxvyRKiX2Z0dFtdZcL6+IOI2hLNaeBxeNMX9w=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.29.0/file/robocorp.robocorp-code-0.29.0.vsix";
+      sha256 = "sha256-TmhGwzzlMbJ2VLR/AcEWeZy/yaHY2F6xDwNq/wJDs74=";
     };
     name = "robocorp-code";
     license = "";
