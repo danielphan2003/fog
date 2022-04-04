@@ -3323,7 +3323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.8",
+    "version": "0.11.9",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3331,10 +3331,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.8/file/d-biehl.robotcode-0.11.8.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.9/file/d-biehl.robotcode-0.11.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-el/PxOhGVzTHZIM3YSDyyhIh+DN+MLPYBG43XtH6I94="
+      "sha256": "sha256-eAY7jV1DEv8uHvJj+5tGStsV8+0Ht4KRCCvpfiPfcDM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7323,7 +7323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.11.2",
+    "version": "1.12.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7331,10 +7331,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.11.2/file/quarto.quarto-1.11.2.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.12.0/file/quarto.quarto-1.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3b/2Vu7TPw7RPlPuu85W/Av4lqnnn0TJXbJSBMp0lXk="
+      "sha256": "sha256-ihuVpZ0My/S0bgI/6WqmBzCEACcTWjAnNl63YUg7jl8="
     },
     "extract": null,
     "rustGitDeps": null
