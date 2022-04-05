@@ -1423,18 +1423,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "roipoussiere-cadquery",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "passthru": {
       "name": "cadquery",
       "license": "MIT",
       "publisher": "roipoussiere",
-      "description": "Create CadQuery 3D models within your IDE."
+      "description": "Build parametric 2D/3D CAD models in VSCode with the CadQuery library."
     },
     "src": {
-      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.1.1/file/roipoussiere.cadquery-0.1.1.vsix",
+      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.1.2/file/roipoussiere.cadquery-0.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kNe5qVL6CiAT2DhSXBzs21qDByyf/PsLombL1/ZoAiE="
+      "sha256": "sha256-HrVteRwS7YhWYS3K1GdL2YKt1/QJ7z4GKPVoeoFtbU8="
     },
     "extract": null,
     "rustGitDeps": null

@@ -15207,15 +15207,15 @@
   };
   roipoussiere-cadquery = {
     pname = "roipoussiere-cadquery";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.1/file/roipoussiere.cadquery-0.1.1.vsix";
-      sha256 = "sha256-kNe5qVL6CiAT2DhSXBzs21qDByyf/PsLombL1/ZoAiE=";
+      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.2/file/roipoussiere.cadquery-0.1.2.vsix";
+      sha256 = "sha256-HrVteRwS7YhWYS3K1GdL2YKt1/QJ7z4GKPVoeoFtbU8=";
     };
     name = "cadquery";
     license = "MIT";
     publisher = "roipoussiere";
-    description = "Create CadQuery 3D models within your IDE.";
+    description = "Build parametric 2D/3D CAD models in VSCode with the CadQuery library.";
   };
   rokoroku-vscode-theme-darcula = {
     pname = "rokoroku-vscode-theme-darcula";
