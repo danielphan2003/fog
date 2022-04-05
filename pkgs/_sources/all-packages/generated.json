@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6047",
+    "version": "1.0.6048",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6047-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6048-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sMG4nDVODGNgB9SIP4TM2sZPvijAml3qlXHrHmwh48E="
+      "sha256": "sha256-egtloaMSIgGm7c93TWlaUalPondXppXVyqoDu2gDeIY="
     },
     "extract": null,
     "rustGitDeps": null
