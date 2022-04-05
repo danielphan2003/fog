@@ -340,13 +340,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "3cd2deca58eb9dee563f87b1fdf4233946ca79c4";
+    version = "6ebd0fb9a43d980885e8ca974ea296c7d02820e4";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "3cd2deca58eb9dee563f87b1fdf4233946ca79c4";
+      rev = "6ebd0fb9a43d980885e8ca974ea296c7d02820e4";
       fetchSubmodules = false;
-      sha256 = "sha256-8AhTd9FkX0V36sJXm1As8s/y1C3CMPae5vydCfGu6e0=";
+      sha256 = "sha256-qBNi476T97lYFZ7gn2EfHjGrmASZucokV27rmh06vVk=";
     });
   };
   flyingfox = {
@@ -410,10 +410,10 @@
   };
   jibri = {
     pname = "jibri";
-    version = "8.0-125-g3997aaa";
+    version = "8.0-126-g17044f5";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jibri_8.0-125-g3997aaa-1_all.deb";
-      sha256 = "sha256-LINFByOqLyGhKlQ7JKhZxtacoecQ9Vsq6FLU7rTU1RE=";
+      url = "https://download.jitsi.org/unstable/jibri_8.0-126-g17044f5-1_all.deb";
+      sha256 = "sha256-k94PhkL+/GrtrXwApVepUciIhOfv7V2gBkBuLLA6bQY=";
     };
   };
   jicofo = {
@@ -426,18 +426,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6048";
+    version = "1.0.6049";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6048.tar.bz2";
-      sha256 = "sha256-1vVOH2tF2z+xreX0IEXVchbiVDeMRla82ec5pzc/lMY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6049.tar.bz2";
+      sha256 = "sha256-LQfOjW7nPd4bkNp5VnNESxYArqagH7704xF9MaH7AIw=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6048";
+    version = "1.0.6049";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6048-1_all.deb";
-      sha256 = "sha256-egtloaMSIgGm7c93TWlaUalPondXppXVyqoDu2gDeIY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6049-1_all.deb";
+      sha256 = "sha256-o1efDOM1x0ghxpkbBd+h4z0F8lx6239BpqW6hs676SI=";
     };
   };
   jitsi-videobridge2 = {
@@ -778,13 +778,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ee6c9384e909004ecf7211a6c456da71918e27ad";
+    version = "5e85d22d8f7561734a31d45c83dbb5ac27ce6215";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ee6c9384e909004ecf7211a6c456da71918e27ad";
+      rev = "5e85d22d8f7561734a31d45c83dbb5ac27ce6215";
       fetchSubmodules = false;
-      sha256 = "sha256-1cOp75lA3ZZniX+kdc0eEF523KfBQWdqzBJHIC8ZtQ8=";
+      sha256 = "sha256-jVM59AYQuT3dYCl8Od4m80bEBD39pHJ4xpNwQG+IGR8=";
     });
   };
   rofi-wayland = {
