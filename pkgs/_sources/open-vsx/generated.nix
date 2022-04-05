@@ -723,10 +723,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.38.0";
+    version = "3.38.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.0/file/Dart-Code.flutter-3.38.0.vsix";
-      sha256 = "sha256-NmuJT16dhTka69DFHChtEgSDVk/9M0gxrLmP56mKFSE=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.1/file/Dart-Code.flutter-3.38.1.vsix";
+      sha256 = "sha256-EKzaUisL1PpsbdTtWJNxzZdSltkyM0CJ6AlrEuNMv7g=";
     };
     name = "flutter";
     license = "MIT";
@@ -3207,10 +3207,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.41";
+    version = "3.5.42";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.41/file/TabNine.tabnine-vscode-3.5.41.vsix";
-      sha256 = "sha256-a3OPfWWmggqUtfyHCKsoUPVMKjv4USyC+WMPpYOgHvQ=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.42/file/TabNine.tabnine-vscode-3.5.42.vsix";
+      sha256 = "sha256-Tgd/nWBTLl936HA9FhUl+ny7dtMcQnpo6ycK/6OZswk=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -12579,10 +12579,10 @@
   };
   ms-vscode-references-view = {
     pname = "ms-vscode-references-view";
-    version = "0.0.86";
+    version = "0.0.89";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.86/file/ms-vscode.references-view-0.0.86.vsix";
-      sha256 = "sha256-H2OEBO0rFJFyrMswcah8EVrhlEQCXePbecm5BOk1W0I=";
+      url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.89/file/ms-vscode.references-view-0.0.89.vsix";
+      sha256 = "sha256-fK5Mn9zM8YtTKkJoBqU/eQdhDJBLm67Nlfnp+9s4hgc=";
     };
     name = "references-view";
     license = "MIT";
@@ -12603,10 +12603,10 @@
   };
   ms-vscode-vscode-github-issue-notebooks = {
     pname = "ms-vscode-vscode-github-issue-notebooks";
-    version = "0.0.116";
+    version = "0.0.117";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.116/file/ms-vscode.vscode-github-issue-notebooks-0.0.116.vsix";
-      sha256 = "sha256-HkwThH+1sSm2eOt0C9gITfGlfdjm4WCl0UCJ0Kp6CZs=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.117/file/ms-vscode.vscode-github-issue-notebooks-0.0.117.vsix";
+      sha256 = "sha256-cKS6Mi6MfqhqfSEHmMYwEW2UYS/i2Gd56UQh0U9ihJQ=";
     };
     name = "vscode-github-issue-notebooks";
     license = "MIT";
@@ -15051,10 +15051,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.29.0";
+    version = "0.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.29.0/file/robocorp.robocorp-code-0.29.0.vsix";
-      sha256 = "sha256-TmhGwzzlMbJ2VLR/AcEWeZy/yaHY2F6xDwNq/wJDs74=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.30.0/file/robocorp.robocorp-code-0.30.0.vsix";
+      sha256 = "sha256-4aHQJPakBxujIb0xJ3g/EhisQ1muWq7aIqu9aW2kF08=";
     };
     name = "robocorp-code";
     license = "";
@@ -16275,10 +16275,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.7.4";
+    version = "1.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.4/file/statelyai.stately-vscode-1.7.4.vsix";
-      sha256 = "sha256-z/+PvqNth2kOWrI4zKr4d2TAojqrPwerBnxeFJIhVwI=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.5/file/statelyai.stately-vscode-1.7.5.vsix";
+      sha256 = "sha256-h+kIdA4OLc5CBo/FUXSmgzcYV9P0BxIV5Uztf4x88A8=";
     };
     name = "stately-vscode";
     license = "MIT";
