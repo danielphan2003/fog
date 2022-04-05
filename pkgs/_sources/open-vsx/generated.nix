@@ -4263,10 +4263,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.3.413";
+    version = "2022.4.521";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.3.413/file/alygin.vscode-tlaplus-nightly-2022.3.413.vsix";
-      sha256 = "sha256-mhi0igNl5nfWqBU5S4XENGLHAbhLxWoa8WR70ubQCHw=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.521/file/alygin.vscode-tlaplus-nightly-2022.4.521.vsix";
+      sha256 = "sha256-8vI6dFTEJwSCF8hywjkqhNcNpoDA77C/PCL9F/EAvbs=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -17532,6 +17532,18 @@
     license = "MIT";
     publisher = "twxs";
     description = "CMake language support for Visual Studio Code";
+  };
+  tym-inc-tym = {
+    pname = "tym-inc-tym";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tym-inc/tym/1.0.0/file/tym-inc.tym-1.0.0.vsix";
+      sha256 = "sha256-YqO3AWxHTbue989mJLttK2/lyRs7QYPXND6VezxMLEs=";
+    };
+    name = "tym";
+    license = "MIT";
+    publisher = "tym-inc";
+    description = "Share your code context in one-click";
   };
   typefox-states-extension = {
     pname = "typefox-states-extension";
