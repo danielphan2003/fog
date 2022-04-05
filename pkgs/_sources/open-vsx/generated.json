@@ -2599,6 +2599,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ms-vscode-powershell": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-vscode-powershell",
+    "version": "2021.12.0",
+    "passthru": {
+      "name": "powershell",
+      "license": "MIT",
+      "publisher": "ms-vscode",
+      "description": "Develop PowerShell modules, commands and scripts in Visual Studio Code!"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-vscode/powershell/2021.12.0/file/ms-vscode.powershell-2021.12.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-QKtFxJn5ze0TbsLdQKQ7c4i6u64PzkmROqhdf2uLGvo="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "viper-admin-viper": {
     "pinned": false,
     "cargoLock": null,
@@ -8023,7 +8043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma",
-    "version": "3.11.0",
+    "version": "3.12.0",
     "passthru": {
       "name": "prisma",
       "license": "Apache-2.0",
@@ -8031,10 +8051,10 @@
       "description": "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma/3.11.0/file/Prisma.prisma-3.11.0.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma/3.12.0/file/Prisma.prisma-3.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UGwD5HehJSNf3fqI31WZRWj/L76B6gw5hB3W7gjKuUM="
+      "sha256": "sha256-ofI3UE3jYP1ql3NCEUt06ls9e97bOk0DgJvPl0BadGA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9443,7 +9463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2090864",
+    "version": "7.1.2096556",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9451,10 +9471,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2090864/file/eliostruyf.vscode-front-matter-beta-7.1.2090864.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2096556/file/eliostruyf.vscode-front-matter-beta-7.1.2096556.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3c+5Npum11c7wXH2ZtE4VOvnalXilOp23DAtHMrhqqw="
+      "sha256": "sha256-UarZbAmSUKRDyUShZkLALw6DTkTrMXOz9NuM/0bi2SA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12035,6 +12055,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-2D//eRc+6Ok3LpLil2iyz8y18OebeL04KMzqSAomYNI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ms-toolsai-jupyter-renderers": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-toolsai-jupyter-renderers",
+    "version": "1.0.6",
+    "passthru": {
+      "name": "jupyter-renderers",
+      "license": "MIT",
+      "publisher": "ms-toolsai",
+      "description": "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.6/file/ms-toolsai.jupyter-renderers-1.0.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-hXbPC6FVkWigCUkv/P8cX0d7ZMNSdkp/Brbif3GMUUQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23423,7 +23463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.88.0",
+    "version": "0.89.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -23431,10 +23471,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.88.0/file/dendron.dendron-0.88.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.89.0/file/dendron.dendron-0.89.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pDXenuWCP2WLm9FB6zAGokQXFh/gyLIyzArv4CvZ1Ps="
+      "sha256": "sha256-mXbKHm0DBBcsTVMRLJkhs9zZ1r29/4xLN5FJbGzLtsI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29075,6 +29115,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-sRY5usTQnkcmT0pZLGGQyJpSuXhUb3u7H4A7nD11GXw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ms-toolsai-jupyter-keymap": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-toolsai-jupyter-keymap",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "jupyter-keymap",
+      "license": "MIT",
+      "publisher": "ms-toolsai",
+      "description": "Jupyter keymaps for notebooks"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter-keymap/1.0.0/file/ms-toolsai.jupyter-keymap-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-t7/b6RmbHWjT0WjJVGqC/z5IlfZmg4zQjknM3M+yHN8="
     },
     "extract": null,
     "rustGitDeps": null

@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.11.0";
+    version = "3.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.11.0/file/Prisma.prisma-3.11.0.vsix";
-      sha256 = "sha256-UGwD5HehJSNf3fqI31WZRWj/L76B6gw5hB3W7gjKuUM=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.12.0/file/Prisma.prisma-3.12.0.vsix";
+      sha256 = "sha256-ofI3UE3jYP1ql3NCEUt06ls9e97bOk0DgJvPl0BadGA=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -6807,10 +6807,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.88.0";
+    version = "0.89.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.88.0/file/dendron.dendron-0.88.0.vsix";
-      sha256 = "sha256-pDXenuWCP2WLm9FB6zAGokQXFh/gyLIyzArv4CvZ1Ps=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.89.0/file/dendron.dendron-0.89.0.vsix";
+      sha256 = "sha256-mXbKHm0DBBcsTVMRLJkhs9zZ1r29/4xLN5FJbGzLtsI=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -7371,10 +7371,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2090864";
+    version = "7.1.2096556";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2090864/file/eliostruyf.vscode-front-matter-beta-7.1.2090864.vsix";
-      sha256 = "sha256-3c+5Npum11c7wXH2ZtE4VOvnalXilOp23DAtHMrhqqw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2096556/file/eliostruyf.vscode-front-matter-beta-7.1.2096556.vsix";
+      sha256 = "sha256-UarZbAmSUKRDyUShZkLALw6DTkTrMXOz9NuM/0bi2SA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -12385,6 +12385,30 @@
     publisher = "ms-toolsai";
     description = "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.";
   };
+  ms-toolsai-jupyter-keymap = {
+    pname = "ms-toolsai-jupyter-keymap";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter-keymap/1.0.0/file/ms-toolsai.jupyter-keymap-1.0.0.vsix";
+      sha256 = "sha256-t7/b6RmbHWjT0WjJVGqC/z5IlfZmg4zQjknM3M+yHN8=";
+    };
+    name = "jupyter-keymap";
+    license = "MIT";
+    publisher = "ms-toolsai";
+    description = "Jupyter keymaps for notebooks";
+  };
+  ms-toolsai-jupyter-renderers = {
+    pname = "ms-toolsai-jupyter-renderers";
+    version = "1.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.6/file/ms-toolsai.jupyter-renderers-1.0.6.vsix";
+      sha256 = "sha256-hXbPC6FVkWigCUkv/P8cX0d7ZMNSdkp/Brbif3GMUUQ=";
+    };
+    name = "jupyter-renderers";
+    license = "MIT";
+    publisher = "ms-toolsai";
+    description = "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)";
+  };
   ms-vscode-Go = {
     pname = "ms-vscode-Go";
     version = "0.14.3";
@@ -12564,6 +12588,18 @@
     license = "MIT";
     publisher = "ms-vscode";
     description = "Popular Notepad++ keybindings for Visual Studio Code";
+  };
+  ms-vscode-powershell = {
+    pname = "ms-vscode-powershell";
+    version = "2021.12.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/powershell/2021.12.0/file/ms-vscode.powershell-2021.12.0.vsix";
+      sha256 = "sha256-QKtFxJn5ze0TbsLdQKQ7c4i6u64PzkmROqhdf2uLGvo=";
+    };
+    name = "powershell";
+    license = "MIT";
+    publisher = "ms-vscode";
+    description = "Develop PowerShell modules, commands and scripts in Visual Studio Code!";
   };
   ms-vscode-powershell-preview = {
     pname = "ms-vscode-powershell-preview";
