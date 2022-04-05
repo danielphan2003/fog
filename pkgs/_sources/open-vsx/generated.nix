@@ -9181,6 +9181,18 @@
     publisher = "huytd";
     description = "";
   };
+  huytd-github-light-monochrome = {
+    pname = "huytd-github-light-monochrome";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/huytd/github-light-monochrome/0.1.0/file/huytd.github-light-monochrome-0.1.0.vsix";
+      sha256 = "sha256-w0l5giun7PcFqYnh4+qWvfPxbzq7OaJx+Bm/7KdgSk4=";
+    };
+    name = "github-light-monochrome";
+    license = "MIT";
+    publisher = "huytd";
+    description = "A monochrome theme based on GitHub Light";
+  };
   huytd-lemontree-dark = {
     pname = "huytd-lemontree-dark";
     version = "0.0.2";
