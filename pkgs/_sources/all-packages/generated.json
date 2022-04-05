@@ -1226,9 +1226,9 @@
   },
   "asusctl": {
     "pinned": false,
-    "cargoLock": "./asusctl-fc14455da4e7d9d8b3335a09c9bc822fe64d9ded/Cargo.lock",
+    "cargoLock": "./asusctl-272be2aaad33cddc255e4a58fd457f94f318a658/Cargo.lock",
     "name": "asusctl",
-    "version": "fc14455da4e7d9d8b3335a09c9bc822fe64d9ded",
+    "version": "272be2aaad33cddc255e4a58fd457f94f318a658",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1237,8 +1237,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-kKhsFrpvtHj0Kv2J85gH+g9yw5AcxHj4KlAgdHKi0iU=",
-      "rev": "fc14455da4e7d9d8b3335a09c9bc822fe64d9ded"
+      "sha256": "sha256-4wTQndcZ+BdxL44DHxGFnNcUS+ilIIWZl6E670CmDF8=",
+      "rev": "272be2aaad33cddc255e4a58fd457f94f318a658"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -1701,7 +1701,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "01adcfa68817f095939a9b90d5eaa2410865b9d9",
+    "version": "3603a187103cffa41d504dfb36ca7872f5b73a54",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1711,8 +1711,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-9TitS73sVde5zNKpaRUQBIJU5PKYyl1wtUZWfUbTZCU=",
-      "rev": "01adcfa68817f095939a9b90d5eaa2410865b9d9"
+      "sha256": "sha256-EMrkYDOBLNJfY2NDajz3ee8s1F0/slfZiJOomxD+2ag=",
+      "rev": "3603a187103cffa41d504dfb36ca7872f5b73a54"
     },
     "extract": null,
     "rustGitDeps": null
