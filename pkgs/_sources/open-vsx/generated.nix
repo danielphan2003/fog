@@ -2403,10 +2403,10 @@
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
-    version = "1.5.7";
+    version = "1.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.7/file/Nightrains.robloxlsp-1.5.7.vsix";
-      sha256 = "sha256-z4svDU5IorFCNakfPKM09wRiu51B93vt+gfglBIdvi8=";
+      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.9/file/Nightrains.robloxlsp-1.5.9.vsix";
+      sha256 = "sha256-T9F8Ex9LOAIY6yuQ9nR6FpKlSm1p3/QBwUi9ej4ZCrg=";
     };
     name = "robloxlsp";
     license = "MIT";
@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.410";
+    version = "2022.4.417";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.410/file/Slint.slint-nightly-2022.4.410.vsix";
-      sha256 = "sha256-+qTypPSl1dUf5PswkvRUTGtIMl22t2AiPmek/NpyS/o=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.417/file/Slint.slint-nightly-2022.4.417.vsix";
+      sha256 = "sha256-m9GJiVJ4om+clCB4qTKu/nsoXWxTY8rKxvAV8t9Q6wI=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5331,10 +5331,10 @@
   };
   bierner-docs-view = {
     pname = "bierner-docs-view";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bierner/docs-view/0.0.9/file/bierner.docs-view-0.0.9.vsix";
-      sha256 = "sha256-qqUldFUiRRl9OOHf6bmm/CdumcqHQVhcSOC/aWQ6mkg=";
+      url = "https://open-vsx.org/api/bierner/docs-view/0.0.10/file/bierner.docs-view-0.0.10.vsix";
+      sha256 = "sha256-7gMX1JKRXUHbkvcwXOezZ8SeQbMZRuCkgsDM67dIXMs=";
     };
     name = "docs-view";
     license = "MIT";
@@ -7455,10 +7455,10 @@
   };
   emmanuelbeziat-vscode-great-icons = {
     pname = "emmanuelbeziat-vscode-great-icons";
-    version = "2.1.83";
+    version = "2.1.85";
     src = fetchurl {
-      url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.83/file/emmanuelbeziat.vscode-great-icons-2.1.83.vsix";
-      sha256 = "sha256-pF13TALOT6OXjCGaFexmyZ+dYNMRcel9+AvvZzWNons=";
+      url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.85/file/emmanuelbeziat.vscode-great-icons-2.1.85.vsix";
+      sha256 = "sha256-FvATn3/3mEE9h5WIJod7kpUTP9yBTHz+gcZicb9N6S0=";
     };
     name = "vscode-great-icons";
     license = "MIT";
@@ -12315,10 +12315,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.234";
+    version = "1.1.235";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.234/file/ms-pyright.pyright-1.1.234.vsix";
-      sha256 = "sha256-DMa6IvNLi4EnFPiKU6El55ZK86wnnbCG/y64JRuhmRY=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.235/file/ms-pyright.pyright-1.1.235.vsix";
+      sha256 = "sha256-mg5UUqOnAkayfmmQqLSeXtHomMGc6AE2uEJcI82PZgQ=";
     };
     name = "pyright";
     license = "MIT";
@@ -12483,10 +12483,10 @@
   };
   ms-vscode-js-debug-companion = {
     pname = "ms-vscode-js-debug-companion";
-    version = "1.0.16";
+    version = "1.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.16/file/ms-vscode.js-debug-companion-1.0.16.vsix";
-      sha256 = "sha256-NH0XkFeF/0zxA1qvPg7I8Cr2siBUCV2dTJji1wT9uDM=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.17/file/ms-vscode.js-debug-companion-1.0.17.vsix";
+      sha256 = "sha256-SW02JWiN9zTnr1lra9pN/DkrvRDJ2RjT+mMEG2Kc8AQ=";
     };
     name = "js-debug-companion";
     license = "MIT";
@@ -13395,10 +13395,10 @@
   };
   oleg-shilo-favorites = {
     pname = "oleg-shilo-favorites";
-    version = "1.5.13";
+    version = "1.5.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.13/file/oleg-shilo.favorites-1.5.13.vsix";
-      sha256 = "sha256-TL5WSLLSHrceun/Tm+mGteVrfiwmj9rM9x9DmA62H48=";
+      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.15/file/oleg-shilo.favorites-1.5.15.vsix";
+      sha256 = "sha256-aOpAokwiFlYAkYi/iQ49cn8wyl/Mck3cspC+SY4/VyQ=";
     };
     name = "favorites";
     license = "MIT";
