@@ -5691,10 +5691,10 @@
   };
   caiqichang-vscode-translation = {
     pname = "caiqichang-vscode-translation";
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/caiqichang/vscode-translation/2.0.3/file/caiqichang.vscode-translation-2.0.3.vsix";
-      sha256 = "sha256-teA0jQbcwgdobqNkf9qEtrIZg8O65AsOJir0ebdhuNU=";
+      url = "https://open-vsx.org/api/caiqichang/vscode-translation/2.0.4/file/caiqichang.vscode-translation-2.0.4.vsix";
+      sha256 = "sha256-AAVAojtqe3QL2oOcWP1Y6nuPDAXgECItLIQhvqfLtvU=";
     };
     name = "vscode-translation";
     license = "GPL-3.0";
