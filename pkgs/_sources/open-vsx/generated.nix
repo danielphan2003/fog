@@ -14367,10 +14367,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.31.2";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.31.2/file/qcz.text-power-tools-1.31.2.vsix";
-      sha256 = "sha256-ad9fvEmBszDfbmM094mU7Dk9epoSXxazIWlOn/pZBv0=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.32.0/file/qcz.text-power-tools-1.32.0.vsix";
+      sha256 = "sha256-hHUq/NkR0H3u2rq443c5EWJi2O7FQCcxY1mmF3QZTxM=";
     };
     name = "text-power-tools";
     license = "MIT";
@@ -20163,10 +20163,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.22";
+    version = "0.9.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.22/file/znck.vue-0.9.22.vsix";
-      sha256 = "sha256-UkgP44xW5urfUXPd1qPhhTMN6cH5I+Ryxdg0Ff0CmZ8=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.23/file/znck.vue-0.9.23.vsix";
+      sha256 = "sha256-JY8uDbG/mewzLxREquR4hXAXjx9WeH9jiSUWidlBcVI=";
     };
     name = "vue";
     license = "MIT";
@@ -20175,10 +20175,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.21";
+    version = "0.9.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.21/file/znck.vue-language-features-0.9.21.vsix";
-      sha256 = "sha256-FAjKdRx2PBZk23Xy2cwi6X3voj0dsNre+RzKf5P73s4=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.22/file/znck.vue-language-features-0.9.22.vsix";
+      sha256 = "sha256-FBc3mX6GmsWQsyN99LLgE7TLq54hlmr0gbV8e5AC+xA=";
     };
     name = "vue-language-features";
     license = "MIT";

@@ -2103,7 +2103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "qcz-text-power-tools",
-    "version": "1.31.2",
+    "version": "1.32.0",
     "passthru": {
       "name": "text-power-tools",
       "license": "MIT",
@@ -2111,10 +2111,10 @@
       "description": "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/qcz/text-power-tools/1.31.2/file/qcz.text-power-tools-1.31.2.vsix",
+      "url": "https://open-vsx.org/api/qcz/text-power-tools/1.32.0/file/qcz.text-power-tools-1.32.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ad9fvEmBszDfbmM094mU7Dk9epoSXxazIWlOn/pZBv0="
+      "sha256": "sha256-hHUq/NkR0H3u2rq443c5EWJi2O7FQCcxY1mmF3QZTxM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5643,7 +5643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.21",
+    "version": "0.9.22",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5651,10 +5651,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.21/file/znck.vue-language-features-0.9.21.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.22/file/znck.vue-language-features-0.9.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FAjKdRx2PBZk23Xy2cwi6X3voj0dsNre+RzKf5P73s4="
+      "sha256": "sha256-FBc3mX6GmsWQsyN99LLgE7TLq54hlmr0gbV8e5AC+xA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20403,7 +20403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.22",
+    "version": "0.9.23",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20411,10 +20411,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.22/file/znck.vue-0.9.22.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.23/file/znck.vue-0.9.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UkgP44xW5urfUXPd1qPhhTMN6cH5I+Ryxdg0Ff0CmZ8="
+      "sha256": "sha256-JY8uDbG/mewzLxREquR4hXAXjx9WeH9jiSUWidlBcVI="
     },
     "extract": null,
     "rustGitDeps": null
