@@ -653,6 +653,25 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "supergfxctl": {
+    "pinned": false,
+    "cargoLock": "./supergfxctl-7eabe91507764927768d2f48bac78b03fa8c77a9/Cargo.lock",
+    "name": "supergfxctl",
+    "version": "7eabe91507764927768d2f48bac78b03fa8c77a9",
+    "passthru": null,
+    "src": {
+      "deepClone": false,
+      "url": "https://gitlab.com/asus-linux/supergfxctl",
+      "leaveDotGit": false,
+      "fetchSubmodules": false,
+      "name": null,
+      "type": "git",
+      "sha256": "sha256-EqwUsSk/Rq60q3wWzR3ONNlfisdURHVqFHNiXAJ2yi0=",
+      "rev": "7eabe91507764927768d2f48bac78b03fa8c77a9"
+    },
+    "extract": null,
+    "rustGitDeps": {}
+  },
   "droidcam": {
     "pinned": false,
     "cargoLock": null,
