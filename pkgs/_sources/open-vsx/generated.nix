@@ -13311,10 +13311,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.14.1";
+    version = "17.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.14.1/file/nrwl.angular-console-17.14.1.vsix";
-      sha256 = "sha256-Fe/U3pXzYpSve+DkX/pA+kVIbcH4dFkwljKS4QkB72w=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.15.0/file/nrwl.angular-console-17.15.0.vsix";
+      sha256 = "sha256-T5PWVwr7TRodnsi3TS09Ct+Ai9UZcq9ybe243MGLkFo=";
     };
     name = "angular-console";
     license = "MIT";

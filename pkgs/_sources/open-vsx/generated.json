@@ -5043,7 +5043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nrwl-angular-console",
-    "version": "17.14.1",
+    "version": "17.15.0",
     "passthru": {
       "name": "angular-console",
       "license": "MIT",
@@ -5051,10 +5051,10 @@
       "description": "Nx Console for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nrwl/angular-console/17.14.1/file/nrwl.angular-console-17.14.1.vsix",
+      "url": "https://open-vsx.org/api/nrwl/angular-console/17.15.0/file/nrwl.angular-console-17.15.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Fe/U3pXzYpSve+DkX/pA+kVIbcH4dFkwljKS4QkB72w="
+      "sha256": "sha256-T5PWVwr7TRodnsi3TS09Ct+Ai9UZcq9ybe243MGLkFo="
     },
     "extract": null,
     "rustGitDeps": null
