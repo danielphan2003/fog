@@ -4287,10 +4287,10 @@
   };
   andrewdavidblum-drupal-smart-snippets = {
     pname = "andrewdavidblum-drupal-smart-snippets";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.1/file/andrewdavidblum.drupal-smart-snippets-1.0.1.vsix";
-      sha256 = "sha256-ImUZW9JGXiXVBSImV2RKX5AqhSXASOz4RbzdMnEYXrw=";
+      url = "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.2/file/andrewdavidblum.drupal-smart-snippets-1.0.2.vsix";
+      sha256 = "sha256-goZEr8/8C04N2uR71Ffc/Gkr0AwWuqC4q69Zlw8t+G0=";
     };
     name = "drupal-smart-snippets";
     license = "MIT";
@@ -5319,10 +5319,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.262";
+    version = "2.0.263";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.262/file/betterthantomorrow.calva-2.0.262.vsix";
-      sha256 = "sha256-CBYwXq4I6syl9XDZxGxiQjAWUe44GcwFUKwCnbacdyU=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.263/file/betterthantomorrow.calva-2.0.263.vsix";
+      sha256 = "sha256-AWfDWkxl2BVqbgwIkyGPrAk93wCvG8phc17JCFjlEO0=";
     };
     name = "calva";
     license = "MIT";
