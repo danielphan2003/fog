@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-657-g3dad0128",
+    "version": "2.1-658-g024cee29",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-657-g3dad0128-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-658-g024cee29-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-73Wi8iKpB/O1VBMnlvD7215dZeDH/JqpzHtN6Z8MFVo="
+      "sha256": "sha256-hEyqRchqEXp4rONQHwqdE+0Y3WtkiV3LVYkf8GiLQq4="
     },
     "extract": null,
     "rustGitDeps": null
