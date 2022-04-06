@@ -255,10 +255,10 @@
   };
   BroadcomMFD-cobol-language-support = {
     pname = "BroadcomMFD-cobol-language-support";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.0/file/BroadcomMFD.cobol-language-support-1.0.0.vsix";
-      sha256 = "sha256-YOihfxfyV9heGDv7sXSV1z5E0+ac6ZXWhyqD8ZoSoJg=";
+      url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.1/file/BroadcomMFD.cobol-language-support-1.0.1.vsix";
+      sha256 = "sha256-3rTveRVkUXbntL2xzICsgnkHT1PYFXd6LnQy58fnRuc=";
     };
     name = "cobol-language-support";
     license = "EPL-2.0";
@@ -567,10 +567,10 @@
   };
   ComplYue-edh-vscode-formatter = {
     pname = "ComplYue-edh-vscode-formatter";
-    version = "1.8.1";
+    version = "1.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.1/file/ComplYue.edh-vscode-formatter-1.8.1.vsix";
-      sha256 = "sha256-C73+5OdASr38ZtcvpPftPLCDALy759iuWgWSiAgS1gU=";
+      url = "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.2/file/ComplYue.edh-vscode-formatter-1.8.2.vsix";
+      sha256 = "sha256-0F43DMf4x+hBGH5a74nq/Ntcs+Ukfphr3wYTI5R6Aps=";
     };
     name = "edh-vscode-formatter";
     license = "MIT";
@@ -2691,10 +2691,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.828";
+    version = "31.0.829";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.828/file/Prisma.prisma-insider-31.0.828.vsix";
-      sha256 = "sha256-UDEOdh3ARTI3CpC8Ew1VZXipLGyOv/9jy4RTrBFDdH4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.829/file/Prisma.prisma-insider-31.0.829.vsix";
+      sha256 = "sha256-d2QuLozE3kfvQcxnkASNveZP8rE7BcmzKrzqE2j21cM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4741,6 +4741,18 @@
     publisher = "ardisaurus";
     description = "Gitflow integration sidebar in Visual Studio Code";
   };
+  arielcostas-flatcode = {
+    pname = "arielcostas-flatcode";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arielcostas/flatcode/0.1.0/file/arielcostas.flatcode-0.1.0.vsix";
+      sha256 = "sha256-AZm/8QVjP+E+3TFcEvNlX8L9gBhu4hJ2ZjK5lChrtcw=";
+    };
+    name = "flatcode";
+    license = "Apache-2.0";
+    publisher = "arielcostas";
+    description = "A port of the FlatLaf theme available in Apache NetBeans, for VSCodium/VSCode";
+  };
   arjun-swagger-viewer = {
     pname = "arjun-swagger-viewer";
     version = "3.1.2";
@@ -5547,10 +5559,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.23";
+    version = "5.6.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.23/file/bringout.f18-klijent-5.6.23.vsix";
-      sha256 = "sha256-CBIPWVK2mtfhzPKnEjitvQXTX0P9xOehm9ehxuz7YZM=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.24/file/bringout.f18-klijent-5.6.24.vsix";
+      sha256 = "sha256-Hl3a3uzXOoPlLjT2YegPbasj3e7MbV4Ak9CLBEOy4Pw=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -7371,10 +7383,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2096556";
+    version = "7.1.2101718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2096556/file/eliostruyf.vscode-front-matter-beta-7.1.2096556.vsix";
-      sha256 = "sha256-UarZbAmSUKRDyUShZkLALw6DTkTrMXOz9NuM/0bi2SA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2101718/file/eliostruyf.vscode-front-matter-beta-7.1.2101718.vsix";
+      sha256 = "sha256-hVS2GoEpKz52SmjjBzjoaDOoMqwWNKQzfoSFyCDOTLY=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -20043,10 +20055,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.5.2";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.5.2/file/zenclabs.previewjs-1.5.2.vsix";
-      sha256 = "sha256-KRmCuQBdT+ez1VwkcCgeYZDq2jDHkM/4kg7GNS5AbWc=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.0/file/zenclabs.previewjs-1.6.0.vsix";
+      sha256 = "sha256-RYxpvxj9JIdYrujleEzX3rypFm1DT6idULHklVq5nhc=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";

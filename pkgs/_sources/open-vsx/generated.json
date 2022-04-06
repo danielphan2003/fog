@@ -5463,7 +5463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bringout-f18-klijent",
-    "version": "5.6.23",
+    "version": "5.6.24",
     "passthru": {
       "name": "f18-klijent",
       "license": "MIT",
@@ -5471,10 +5471,10 @@
       "description": "F18 klijent host eShell"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.23/file/bringout.f18-klijent-5.6.23.vsix",
+      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.24/file/bringout.f18-klijent-5.6.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CBIPWVK2mtfhzPKnEjitvQXTX0P9xOehm9ehxuz7YZM="
+      "sha256": "sha256-Hl3a3uzXOoPlLjT2YegPbasj3e7MbV4Ak9CLBEOy4Pw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9363,7 +9363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.5.2",
+    "version": "1.6.0",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9371,10 +9371,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.5.2/file/zenclabs.previewjs-1.5.2.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.0/file/zenclabs.previewjs-1.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KRmCuQBdT+ez1VwkcCgeYZDq2jDHkM/4kg7GNS5AbWc="
+      "sha256": "sha256-RYxpvxj9JIdYrujleEzX3rypFm1DT6idULHklVq5nhc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9463,7 +9463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2096556",
+    "version": "7.1.2101718",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9471,10 +9471,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2096556/file/eliostruyf.vscode-front-matter-beta-7.1.2096556.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2101718/file/eliostruyf.vscode-front-matter-beta-7.1.2101718.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UarZbAmSUKRDyUShZkLALw6DTkTrMXOz9NuM/0bi2SA="
+      "sha256": "sha256-hVS2GoEpKz52SmjjBzjoaDOoMqwWNKQzfoSFyCDOTLY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10543,7 +10543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ComplYue-edh-vscode-formatter",
-    "version": "1.8.1",
+    "version": "1.8.2",
     "passthru": {
       "name": "edh-vscode-formatter",
       "license": "MIT",
@@ -10551,10 +10551,10 @@
       "description": "Code Formatter for Ä (Edh)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.1/file/ComplYue.edh-vscode-formatter-1.8.1.vsix",
+      "url": "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.2/file/ComplYue.edh-vscode-formatter-1.8.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-C73+5OdASr38ZtcvpPftPLCDALy759iuWgWSiAgS1gU="
+      "sha256": "sha256-0F43DMf4x+hBGH5a74nq/Ntcs+Ukfphr3wYTI5R6Aps="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23679,6 +23679,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "arielcostas-flatcode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "arielcostas-flatcode",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "flatcode",
+      "license": "Apache-2.0",
+      "publisher": "arielcostas",
+      "description": "A port of the FlatLaf theme available in Apache NetBeans, for VSCodium/VSCode"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/arielcostas/flatcode/0.1.0/file/arielcostas.flatcode-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-AZm/8QVjP+E+3TFcEvNlX8L9gBhu4hJ2ZjK5lChrtcw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "leandro-rodrigues-fluent-ui-vscode": {
     "pinned": false,
     "cargoLock": null,
@@ -30403,7 +30423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.828",
+    "version": "31.0.829",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30411,10 +30431,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.828/file/Prisma.prisma-insider-31.0.828.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.829/file/Prisma.prisma-insider-31.0.829.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UDEOdh3ARTI3CpC8Ew1VZXipLGyOv/9jy4RTrBFDdH4="
+      "sha256": "sha256-d2QuLozE3kfvQcxnkASNveZP8rE7BcmzKrzqE2j21cM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33063,7 +33083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-cobol-language-support",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "passthru": {
       "name": "cobol-language-support",
       "license": "EPL-2.0",
@@ -33071,10 +33091,10 @@
       "description": "Autocomplete, highlighting and diagnostics for COBOL code and copybooks."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.0/file/BroadcomMFD.cobol-language-support-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.1/file/BroadcomMFD.cobol-language-support-1.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YOihfxfyV9heGDv7sXSV1z5E0+ac6ZXWhyqD8ZoSoJg="
+      "sha256": "sha256-3rTveRVkUXbntL2xzICsgnkHT1PYFXd6LnQy58fnRuc="
     },
     "extract": null,
     "rustGitDeps": null
