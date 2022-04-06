@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "6d48815b22fb2582d871d854c04e6e15fb56858b",
+    "version": "6eaa8836de5c3e909b8da6c6a43b1e019b65e868",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-EgEraEzCkHEfFW8zy6/xLPgLm/6nC2ZJLUQraxkEHb0=",
-      "rev": "6d48815b22fb2582d871d854c04e6e15fb56858b"
+      "sha256": "sha256-NOE6lWOh16SYjJHVdTevlLXGJqDgXroWE+uRmwBV7i8=",
+      "rev": "6eaa8836de5c3e909b8da6c6a43b1e019b65e868"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6054",
+    "version": "1.0.6055",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6054-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6055-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gHHUUMI7miTJ9aeKYzN7FP6D0P1cBO/l275yxayrOFw="
+      "sha256": "sha256-S64YY1PloE0C61VHBJ51WrR6fiAaRDOcOsajKz6slPg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6054",
+    "version": "1.0.6055",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6054.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6055.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KdpkB2tm6X2Nl9+XRZz7YnVvfg2zySHQxgRwsyL+Gdo="
+      "sha256": "sha256-68tdp71dMD2gRCL0yb117nFee3IcoIrEG4JcA4p6dRg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1586,7 +1586,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "9e00c2f7ed922128c344914b8670abc67cf55608",
+    "version": "dfd95396445a052c3d2d9f81de41ec111a9fb98a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1596,8 +1596,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-W/0yvqIK91gLYRwg38nYet3Ns681IAvqdP5/crsiqBE=",
-      "rev": "9e00c2f7ed922128c344914b8670abc67cf55608"
+      "sha256": "sha256-ffIgffzFgtpTyc/HMcncOTbmjh+NhypQfHcBJAl4QkA=",
+      "rev": "dfd95396445a052c3d2d9f81de41ec111a9fb98a"
     },
     "extract": null,
     "rustGitDeps": null
