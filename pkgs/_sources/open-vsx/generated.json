@@ -9463,7 +9463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2103030",
+    "version": "7.1.2103419",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9471,10 +9471,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2103030/file/eliostruyf.vscode-front-matter-beta-7.1.2103030.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2103419/file/eliostruyf.vscode-front-matter-beta-7.1.2103419.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dNz7RB3nosE2co+zFC3kSKv9+F1B7Qyhu5076RlupCY="
+      "sha256": "sha256-f7qwzJfOtjn3jcQLqGndqTqJuegaq9sczQvt+9VpJGk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25283,7 +25283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "the-compiler-python-tox",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "passthru": {
       "name": "python-tox",
       "license": "MIT",
@@ -25291,10 +25291,10 @@
       "description": "Integrates the tox task automation tool"
     },
     "src": {
-      "url": "https://open-vsx.org/api/the-compiler/python-tox/0.0.3/file/the-compiler.python-tox-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/the-compiler/python-tox/0.1.0/file/the-compiler.python-tox-0.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Zq6ZDOgOCqgcjIO8xvcN3R2rDJNJqJUkQHk+5Az877M="
+      "sha256": "sha256-iTDCykiQi+E2ip3+EaDnW8giA150qU4Fgwx7Y9XZ3qk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33295,26 +33295,6 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-HMbjhMQicxF9WfPp1Uee2FNu+cmDVXuej41jWfo/vwE="
-    },
-    "extract": null,
-    "rustGitDeps": null
-  },
-  "BroadcomMFD-data-set-viewer": {
-    "pinned": false,
-    "cargoLock": null,
-    "name": "BroadcomMFD-data-set-viewer",
-    "version": "0.2.4",
-    "passthru": {
-      "name": "data-set-viewer",
-      "license": "",
-      "publisher": "BroadcomMFD",
-      "description": "View mainframe data sets, including VSAM data sets, in CSV format, using layouts and selection criteria."
-    },
-    "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/data-set-viewer/0.2.4/file/BroadcomMFD.data-set-viewer-0.2.4.vsix",
-      "name": null,
-      "type": "url",
-      "sha256": "sha256-RypEZbg7U/XTPi428Nl/qvH6+IDGP5CIGMhQYNrnI5k="
     },
     "extract": null,
     "rustGitDeps": null

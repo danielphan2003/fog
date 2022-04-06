@@ -289,18 +289,6 @@
     publisher = "BroadcomMFD";
     description = "Browser and editor for mainframe data sets including VSAM data sets";
   };
-  BroadcomMFD-data-set-viewer = {
-    pname = "BroadcomMFD-data-set-viewer";
-    version = "0.2.4";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/data-set-viewer/0.2.4/file/BroadcomMFD.data-set-viewer-0.2.4.vsix";
-      sha256 = "sha256-RypEZbg7U/XTPi428Nl/qvH6+IDGP5CIGMhQYNrnI5k=";
-    };
-    name = "data-set-viewer";
-    license = "";
-    publisher = "BroadcomMFD";
-    description = "View mainframe data sets, including VSAM data sets, in CSV format, using layouts and selection criteria.";
-  };
   BroadcomMFD-debugger-for-mainframe = {
     pname = "BroadcomMFD-debugger-for-mainframe";
     version = "1.5.1";
@@ -7383,10 +7371,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2103030";
+    version = "7.1.2103419";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2103030/file/eliostruyf.vscode-front-matter-beta-7.1.2103030.vsix";
-      sha256 = "sha256-dNz7RB3nosE2co+zFC3kSKv9+F1B7Qyhu5076RlupCY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2103419/file/eliostruyf.vscode-front-matter-beta-7.1.2103419.vsix";
+      sha256 = "sha256-f7qwzJfOtjn3jcQLqGndqTqJuegaq9sczQvt+9VpJGk=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -17031,10 +17019,10 @@
   };
   the-compiler-python-tox = {
     pname = "the-compiler-python-tox";
-    version = "0.0.3";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/the-compiler/python-tox/0.0.3/file/the-compiler.python-tox-0.0.3.vsix";
-      sha256 = "sha256-Zq6ZDOgOCqgcjIO8xvcN3R2rDJNJqJUkQHk+5Az877M=";
+      url = "https://open-vsx.org/api/the-compiler/python-tox/0.1.0/file/the-compiler.python-tox-0.1.0.vsix";
+      sha256 = "sha256-iTDCykiQi+E2ip3+EaDnW8giA150qU4Fgwx7Y9XZ3qk=";
     };
     name = "python-tox";
     license = "MIT";
