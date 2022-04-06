@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6d48815b22fb2582d871d854c04e6e15fb56858b";
+    version = "6eaa8836de5c3e909b8da6c6a43b1e019b65e868";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6d48815b22fb2582d871d854c04e6e15fb56858b";
+      rev = "6eaa8836de5c3e909b8da6c6a43b1e019b65e868";
       fetchSubmodules = false;
-      sha256 = "sha256-EgEraEzCkHEfFW8zy6/xLPgLm/6nC2ZJLUQraxkEHb0=";
+      sha256 = "sha256-NOE6lWOh16SYjJHVdTevlLXGJqDgXroWE+uRmwBV7i8=";
     });
   };
   caddy = {
@@ -426,26 +426,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6054";
+    version = "1.0.6055";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6054.tar.bz2";
-      sha256 = "sha256-KdpkB2tm6X2Nl9+XRZz7YnVvfg2zySHQxgRwsyL+Gdo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6055.tar.bz2";
+      sha256 = "sha256-68tdp71dMD2gRCL0yb117nFee3IcoIrEG4JcA4p6dRg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6054";
+    version = "1.0.6055";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6054-1_all.deb";
-      sha256 = "sha256-gHHUUMI7miTJ9aeKYzN7FP6D0P1cBO/l275yxayrOFw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6055-1_all.deb";
+      sha256 = "sha256-S64YY1PloE0C61VHBJ51WrR6fiAaRDOcOsajKz6slPg=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-657-g3dad0128";
+    version = "2.1-658-g024cee29";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-657-g3dad0128-1_all.deb";
-      sha256 = "sha256-73Wi8iKpB/O1VBMnlvD7215dZeDH/JqpzHtN6Z8MFVo=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-658-g024cee29-1_all.deb";
+      sha256 = "sha256-hEyqRchqEXp4rONQHwqdE+0Y3WtkiV3LVYkf8GiLQq4=";
     };
   };
   layout-machi = {
@@ -1180,13 +1180,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "9e00c2f7ed922128c344914b8670abc67cf55608";
+    version = "dfd95396445a052c3d2d9f81de41ec111a9fb98a";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "9e00c2f7ed922128c344914b8670abc67cf55608";
+      rev = "dfd95396445a052c3d2d9f81de41ec111a9fb98a";
       fetchSubmodules = false;
-      sha256 = "sha256-W/0yvqIK91gLYRwg38nYet3Ns681IAvqdP5/crsiqBE=";
+      sha256 = "sha256-ffIgffzFgtpTyc/HMcncOTbmjh+NhypQfHcBJAl4QkA=";
     });
   };
   xdg-desktop-portal-gtk = {
