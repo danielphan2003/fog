@@ -4285,6 +4285,18 @@
     publisher = "amiralizadeh9480";
     description = "better intellisense for laravel projects.";
   };
+  andrewdavidblum-drupal-smart-snippets = {
+    pname = "andrewdavidblum-drupal-smart-snippets";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.1/file/andrewdavidblum.drupal-smart-snippets-1.0.1.vsix";
+      sha256 = "sha256-ImUZW9JGXiXVBSImV2RKX5AqhSXASOz4RbzdMnEYXrw=";
+    };
+    name = "drupal-smart-snippets";
+    license = "MIT";
+    publisher = "andrewdavidblum";
+    description = "Context-aware snippets for Drupal development";
+  };
   andreweinand-mock-debug = {
     pname = "andreweinand-mock-debug";
     version = "0.47.2";
@@ -17139,10 +17151,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.19.0";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.0/file/timonwong.shellcheck-0.19.0.vsix";
-      sha256 = "sha256-wMr/Ul80DekVL6Ehp0Ae3g+F3ckL98jgPSOpKy/ziWs=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.1/file/timonwong.shellcheck-0.19.1.vsix";
+      sha256 = "sha256-o0LMng9MtilhFzqXxIKD6DhHF5fxuNvszTldwcnjoGk=";
     };
     name = "shellcheck";
     license = "MIT";

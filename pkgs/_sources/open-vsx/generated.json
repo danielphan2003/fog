@@ -3499,6 +3499,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "andrewdavidblum-drupal-smart-snippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "andrewdavidblum-drupal-smart-snippets",
+    "version": "1.0.1",
+    "passthru": {
+      "name": "drupal-smart-snippets",
+      "license": "MIT",
+      "publisher": "andrewdavidblum",
+      "description": "Context-aware snippets for Drupal development"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.1/file/andrewdavidblum.drupal-smart-snippets-1.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ImUZW9JGXiXVBSImV2RKX5AqhSXASOz4RbzdMnEYXrw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "gencer-html-slim-scss-css-class-completion": {
     "pinned": false,
     "cargoLock": null,
@@ -24863,7 +24883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "timonwong-shellcheck",
-    "version": "0.19.0",
+    "version": "0.19.1",
     "passthru": {
       "name": "shellcheck",
       "license": "MIT",
@@ -24871,10 +24891,10 @@
       "description": "Integrates ShellCheck into VS Code, a linter for Shell scripts."
     },
     "src": {
-      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.19.0/file/timonwong.shellcheck-0.19.0.vsix",
+      "url": "https://open-vsx.org/api/timonwong/shellcheck/0.19.1/file/timonwong.shellcheck-0.19.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wMr/Ul80DekVL6Ehp0Ae3g+F3ckL98jgPSOpKy/ziWs="
+      "sha256": "sha256-o0LMng9MtilhFzqXxIKD6DhHF5fxuNvszTldwcnjoGk="
     },
     "extract": null,
     "rustGitDeps": null
