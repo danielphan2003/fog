@@ -9651,10 +9651,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.4.4";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.4.4/file/intersystems-community.vscode-objectscript-1.4.4.vsix";
-      sha256 = "sha256-fg1Yi8cG2OSNL/HNsjOm35LWD10YKxcx3HgmDKX8D3k=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.6.0/file/intersystems-community.vscode-objectscript-1.6.0.vsix";
+      sha256 = "sha256-GMUvXG++fl30kV6pUgH8sGjCV7Cv5csxFW8hx2Fv03A=";
     };
     name = "vscode-objectscript";
     license = "MIT";
