@@ -15,10 +15,10 @@
   };
   AdaCore-ada = {
     pname = "AdaCore-ada";
-    version = "23.0.4";
+    version = "23.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.4/file/AdaCore.ada-23.0.4.vsix";
-      sha256 = "sha256-9vIgPZAdgnaNMIW+yFyzghmEDc8+M11OJjp+6t/pKUA=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.5/file/AdaCore.ada-23.0.5.vsix";
+      sha256 = "sha256-3LrgndDeYqKNL9zb30O8LFdcQwzC2k91atCXdojrtsM=";
     };
     name = "ada";
     license = "GPL-3.0";
@@ -4263,10 +4263,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.4.521";
+    version = "2022.4.606";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.521/file/alygin.vscode-tlaplus-nightly-2022.4.521.vsix";
-      sha256 = "sha256-8vI6dFTEJwSCF8hywjkqhNcNpoDA77C/PCL9F/EAvbs=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.606/file/alygin.vscode-tlaplus-nightly-2022.4.606.vsix";
+      sha256 = "sha256-YTYgw1rmqLtk76eloK60koByVKHcW7c16WP3iY30cfQ=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -20163,10 +20163,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.23";
+    version = "0.9.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.23/file/znck.vue-0.9.23.vsix";
-      sha256 = "sha256-JY8uDbG/mewzLxREquR4hXAXjx9WeH9jiSUWidlBcVI=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.25/file/znck.vue-0.9.25.vsix";
+      sha256 = "sha256-1kGkxPWD7N2/0UnJEkSSRcq6yg5JbAg6qVoeQYjEml4=";
     };
     name = "vue";
     license = "MIT";
@@ -20175,10 +20175,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.22";
+    version = "0.9.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.22/file/znck.vue-language-features-0.9.22.vsix";
-      sha256 = "sha256-FBc3mX6GmsWQsyN99LLgE7TLq54hlmr0gbV8e5AC+xA=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.24/file/znck.vue-language-features-0.9.24.vsix";
+      sha256 = "sha256-b58XBNbL3NlmClD+7MxpMktg7lLtuaqYGl6nqwB7XMU=";
     };
     name = "vue-language-features";
     license = "MIT";

@@ -5643,7 +5643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.22",
+    "version": "0.9.24",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5651,10 +5651,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.22/file/znck.vue-language-features-0.9.22.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.24/file/znck.vue-language-features-0.9.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FBc3mX6GmsWQsyN99LLgE7TLq54hlmr0gbV8e5AC+xA="
+      "sha256": "sha256-b58XBNbL3NlmClD+7MxpMktg7lLtuaqYGl6nqwB7XMU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12523,7 +12523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alygin-vscode-tlaplus-nightly",
-    "version": "2022.4.521",
+    "version": "2022.4.606",
     "passthru": {
       "name": "vscode-tlaplus-nightly",
       "license": "MIT",
@@ -12531,10 +12531,10 @@
       "description": "TLA+ language support (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.521/file/alygin.vscode-tlaplus-nightly-2022.4.521.vsix",
+      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.606/file/alygin.vscode-tlaplus-nightly-2022.4.606.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8vI6dFTEJwSCF8hywjkqhNcNpoDA77C/PCL9F/EAvbs="
+      "sha256": "sha256-YTYgw1rmqLtk76eloK60koByVKHcW7c16WP3iY30cfQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20403,7 +20403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.23",
+    "version": "0.9.25",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20411,10 +20411,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.23/file/znck.vue-0.9.23.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.25/file/znck.vue-0.9.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JY8uDbG/mewzLxREquR4hXAXjx9WeH9jiSUWidlBcVI="
+      "sha256": "sha256-1kGkxPWD7N2/0UnJEkSSRcq6yg5JbAg6qVoeQYjEml4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30343,7 +30343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "AdaCore-ada",
-    "version": "23.0.4",
+    "version": "23.0.5",
     "passthru": {
       "name": "ada",
       "license": "GPL-3.0",
@@ -30351,10 +30351,10 @@
       "description": "A Language Server providing Ada and SPARK support in Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/AdaCore/ada/23.0.4/file/AdaCore.ada-23.0.4.vsix",
+      "url": "https://open-vsx.org/api/AdaCore/ada/23.0.5/file/AdaCore.ada-23.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9vIgPZAdgnaNMIW+yFyzghmEDc8+M11OJjp+6t/pKUA="
+      "sha256": "sha256-3LrgndDeYqKNL9zb30O8LFdcQwzC2k91atCXdojrtsM="
     },
     "extract": null,
     "rustGitDeps": null
