@@ -372,6 +372,11 @@ cargo_lock = "Cargo.lock"
 src.git = "https://github.com/ChimeraOS/steamos-compositor-plus"
 fetch.github = "ChimeraOS/steamos-compositor-plus"
 
+[supergfxctl]
+src.git = "https://gitlab.com/asus-linux/supergfxctl"
+fetch.git = "https://gitlab.com/asus-linux/supergfxctl"
+cargo_lock = "Cargo.lock"
+
 [sway-borders]
 src.git = "https://github.com/fluix-dev/sway-borders"
 fetch.github = "fluix-dev/sway-borders"

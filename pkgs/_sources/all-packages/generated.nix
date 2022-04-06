@@ -960,6 +960,22 @@
       sha256 = "sha256-LfR7uNaUzw3BR3vYdMiacZP1hrOAC0j0Hc9yB+gDYm4=";
     });
   };
+  supergfxctl = {
+    pname = "supergfxctl";
+    version = "7eabe91507764927768d2f48bac78b03fa8c77a9";
+    src = fetchgit {
+      url = "https://gitlab.com/asus-linux/supergfxctl";
+      rev = "7eabe91507764927768d2f48bac78b03fa8c77a9";
+      fetchSubmodules = false;
+      deepClone = false;
+      leaveDotGit = false;
+      sha256 = "sha256-EqwUsSk/Rq60q3wWzR3ONNlfisdURHVqFHNiXAJ2yi0=";
+    };
+    cargoLock = {
+      lockFile = ./supergfxctl-7eabe91507764927768d2f48bac78b03fa8c77a9/Cargo.lock;
+      outputHashes = { };
+    };
+  };
   sway-borders = {
     pname = "sway-borders";
     version = "8fba9c0476ac2d1a8a2c640db3234a4c1967ca24";
