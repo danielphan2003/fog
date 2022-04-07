@@ -279,10 +279,10 @@
   };
   BroadcomMFD-data-editor-for-mainframe = {
     pname = "BroadcomMFD-data-editor-for-mainframe";
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/0.5.1/file/BroadcomMFD.data-editor-for-mainframe-0.5.1.vsix";
-      sha256 = "sha256-HNyjlUEp1WvFp99NG7nOX0M+e7wk+kg5JRYiLhzM3GM=";
+      url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/0.5.2/file/BroadcomMFD.data-editor-for-mainframe-0.5.2.vsix";
+      sha256 = "sha256-Y0XTVM8+Rtu2nFwqrVxaakezkgCDJDng+weMZ6PBLu4=";
     };
     name = "data-editor-for-mainframe";
     license = "";
@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.832";
+    version = "31.0.835";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.832/file/Prisma.prisma-insider-31.0.832.vsix";
-      sha256 = "sha256-8UYtEvzz0zgRJWisukXjEq43qoeuyvIrT9tnj8CPKHg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.835/file/Prisma.prisma-insider-31.0.835.vsix";
+      sha256 = "sha256-O9BeEbtFa6E0mTT+wkWUAlK8TGyOSmnm7TNvWcCcrS8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2871,10 +2871,10 @@
   };
   RoweWilsonFrederiskHolme-wikitext = {
     pname = "RoweWilsonFrederiskHolme-wikitext";
-    version = "3.6.3";
+    version = "3.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.3/file/RoweWilsonFrederiskHolme.wikitext-3.6.3.vsix";
-      sha256 = "sha256-s88R+RjtKnongzDlMqOCa7x1GPbfuLmwwF6mE94Cx88=";
+      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.4/file/RoweWilsonFrederiskHolme.wikitext-3.6.4.vsix";
+      sha256 = "sha256-J02kLQrQR+OGF/GXtqVl6S8W/Hf++Um0v7b9JkFcXVE=";
     };
     name = "wikitext";
     license = "MIT";
@@ -7596,6 +7596,18 @@
     license = "MIT";
     publisher = "esbenp";
     description = "Code formatter using prettier";
+  };
+  eseom-nunjucks-template = {
+    pname = "eseom-nunjucks-template";
+    version = "0.5.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/eseom/nunjucks-template/0.5.2/file/eseom.nunjucks-template-0.5.2.vsix";
+      sha256 = "sha256-zht6CH8mCNYfbZbWp3iP2c9C5U6wPVPW59H69DPrT9o=";
+    };
+    name = "nunjucks-template";
+    license = "MIT";
+    publisher = "eseom";
+    description = "Formatting, Syntax Highlighting, Hover, and Snippets for Nunjucks";
   };
   espressif-esp-idf-extension = {
     pname = "espressif-esp-idf-extension";

@@ -25423,7 +25423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-data-editor-for-mainframe",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "passthru": {
       "name": "data-editor-for-mainframe",
       "license": "",
@@ -25431,10 +25431,10 @@
       "description": "Browser and editor for mainframe data sets including VSAM data sets"
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/0.5.1/file/BroadcomMFD.data-editor-for-mainframe-0.5.1.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/0.5.2/file/BroadcomMFD.data-editor-for-mainframe-0.5.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HNyjlUEp1WvFp99NG7nOX0M+e7wk+kg5JRYiLhzM3GM="
+      "sha256": "sha256-Y0XTVM8+Rtu2nFwqrVxaakezkgCDJDng+weMZ6PBLu4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26559,6 +26559,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "eseom-nunjucks-template": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "eseom-nunjucks-template",
+    "version": "0.5.2",
+    "passthru": {
+      "name": "nunjucks-template",
+      "license": "MIT",
+      "publisher": "eseom",
+      "description": "Formatting, Syntax Highlighting, Hover, and Snippets for Nunjucks"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/eseom/nunjucks-template/0.5.2/file/eseom.nunjucks-template-0.5.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-zht6CH8mCNYfbZbWp3iP2c9C5U6wPVPW59H69DPrT9o="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "VSpaceCode-whichkey": {
     "pinned": false,
     "cargoLock": null,
@@ -27503,7 +27523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RoweWilsonFrederiskHolme-wikitext",
-    "version": "3.6.3",
+    "version": "3.6.4",
     "passthru": {
       "name": "wikitext",
       "license": "MIT",
@@ -27511,10 +27531,10 @@
       "description": "Wikitext is a document written in a wiki markup language. This extension provides functional support for the Wikitext language with MediaWiki such as Wikipedia."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.3/file/RoweWilsonFrederiskHolme.wikitext-3.6.3.vsix",
+      "url": "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.4/file/RoweWilsonFrederiskHolme.wikitext-3.6.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-s88R+RjtKnongzDlMqOCa7x1GPbfuLmwwF6mE94Cx88="
+      "sha256": "sha256-J02kLQrQR+OGF/GXtqVl6S8W/Hf++Um0v7b9JkFcXVE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30443,7 +30463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.832",
+    "version": "31.0.835",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30451,10 +30471,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.832/file/Prisma.prisma-insider-31.0.832.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.835/file/Prisma.prisma-insider-31.0.835.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8UYtEvzz0zgRJWisukXjEq43qoeuyvIrT9tnj8CPKHg="
+      "sha256": "sha256-O9BeEbtFa6E0mTT+wkWUAlK8TGyOSmnm7TNvWcCcrS8="
     },
     "extract": null,
     "rustGitDeps": null
