@@ -711,10 +711,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.38.1";
+    version = "3.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.1/file/Dart-Code.flutter-3.38.1.vsix";
-      sha256 = "sha256-EKzaUisL1PpsbdTtWJNxzZdSltkyM0CJ6AlrEuNMv7g=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.0/file/Dart-Code.flutter-3.38.0.vsix";
+      sha256 = "sha256-NmuJT16dhTka69DFHChtEgSDVk/9M0gxrLmP56mKFSE=";
     };
     name = "flutter";
     license = "MIT";
@@ -9747,10 +9747,10 @@
   };
   irispixel-dartsass = {
     pname = "irispixel-dartsass";
-    version = "0.9.0";
+    version = "0.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/irispixel/dartsass/0.9.0/file/irispixel.dartsass-0.9.0.vsix";
-      sha256 = "sha256-/SR8L0GPmZqh32AS7owTWY3H0nE+W/gPyRw7t7R1UwU=";
+      url = "https://open-vsx.org/api/irispixel/dartsass/0.9.1/file/irispixel.dartsass-0.9.1.vsix";
+      sha256 = "sha256-9Kesz1TanuiIyNewgeK9muHRoV6gT333hWTJK0jDr/U=";
     };
     name = "dartsass";
     license = "MIT";
@@ -14787,10 +14787,10 @@
   };
   redhat-vscode-debug-adapter-apache-camel = {
     pname = "redhat-vscode-debug-adapter-apache-camel";
-    version = "0.0.2";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.0.2/file/redhat.vscode-debug-adapter-apache-camel-0.0.2.vsix";
-      sha256 = "sha256-A/9+Oc3S7PT/ZPUheE0+FIWBb12Nvwh6d1M1Cu0y1Mg=";
+      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.1.1/file/redhat.vscode-debug-adapter-apache-camel-0.1.1.vsix";
+      sha256 = "sha256-+WEMdTHj1fx+mTUFeSu3RTv5cHq5dHf1hjW8sOv+is0=";
     };
     name = "vscode-debug-adapter-apache-camel";
     license = "Apache-2.0";
@@ -15768,6 +15768,30 @@
     license = "MIT";
     publisher = "serayuzgur";
     description = "Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.";
+  };
+  serkonda7-extension-test = {
+    pname = "serkonda7-extension-test";
+    version = "0.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/serkonda7/extension-test/0.0.6/file/serkonda7.extension-test-0.0.6.vsix";
+      sha256 = "sha256-cIhjzSr3E5uskHLdlOfiPoeUwqZ55ayi0iu/foVcSOU=";
+    };
+    name = "extension-test";
+    license = "MIT";
+    publisher = "serkonda7";
+    description = "";
+  };
+  serkonda7-vscode-vba = {
+    pname = "serkonda7-vscode-vba";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.2.0/file/serkonda7.vscode-vba-0.2.0.vsix";
+      sha256 = "sha256-BiQDhxWFdnvuZji2wdN12MpKNeg5HL6wYl6b1DWqjq4=";
+    };
+    name = "vscode-vba";
+    license = "MIT";
+    publisher = "serkonda7";
+    description = "Visual Basic for Applications support for VS Code.";
   };
   serokell-io-michelson-debugger = {
     pname = "serokell-io-michelson-debugger";
