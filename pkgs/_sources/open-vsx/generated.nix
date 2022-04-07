@@ -3039,10 +3039,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.417";
+    version = "2022.4.617";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.417/file/Slint.slint-nightly-2022.4.417.vsix";
-      sha256 = "sha256-m9GJiVJ4om+clCB4qTKu/nsoXWxTY8rKxvAV8t9Q6wI=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.617/file/Slint.slint-nightly-2022.4.617.vsix";
+      sha256 = "sha256-F+C8DL/UjUvp+1OsWhd8TjGm41A3rfgVf8N7Ur0Ieuw=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4251,10 +4251,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.4.606";
+    version = "2022.4.704";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.606/file/alygin.vscode-tlaplus-nightly-2022.4.606.vsix";
-      sha256 = "sha256-YTYgw1rmqLtk76eloK60koByVKHcW7c16WP3iY30cfQ=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.704/file/alygin.vscode-tlaplus-nightly-2022.4.704.vsix";
+      sha256 = "sha256-nEEZiIEO3ZecmXuyPXhqqgRdRN6/z7KwPQOQLvtv8h0=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -5151,10 +5151,10 @@
   };
   ban-spellright = {
     pname = "ban-spellright";
-    version = "3.0.60";
+    version = "3.0.62";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ban/spellright/3.0.60/file/ban.spellright-3.0.60.vsix";
-      sha256 = "sha256-h8jiMoB1yIur+QFh5cWoSBvFDnVw6p6LqTzd8iOg5oQ=";
+      url = "https://open-vsx.org/api/ban/spellright/3.0.62/file/ban.spellright-3.0.62.vsix";
+      sha256 = "sha256-p+h5A+uGkDhV2+6cwWdv+BM50igYNjQof05m2ZTLxEg=";
     };
     name = "spellright";
     license = "";
@@ -12063,10 +12063,10 @@
   };
   mitchdenny-ecdc = {
     pname = "mitchdenny-ecdc";
-    version = "1.6.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mitchdenny/ecdc/1.6.0/file/mitchdenny.ecdc-1.6.0.vsix";
-      sha256 = "sha256-ZpzngbzNyZDO9t4oQIJrb0nzT8Jb/MnCrUpGK1JHsf4=";
+      url = "https://open-vsx.org/api/mitchdenny/ecdc/1.7.0/file/mitchdenny.ecdc-1.7.0.vsix";
+      sha256 = "sha256-U6ixKDujQOZ860w7jzqaioCgLQc33FpP8xnVe3qnA5o=";
     };
     name = "ecdc";
     license = "Apache-2.0";
@@ -12675,10 +12675,10 @@
   };
   ms-vscode-vscode-js-profile-table = {
     pname = "ms-vscode-vscode-js-profile-table";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.0/file/ms-vscode.vscode-js-profile-table-1.0.0.vsix";
-      sha256 = "sha256-EhSnq4M/vVC/VG4FTtO7Aw4rJr0olPFkLDxQ8EXzYdo=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.1/file/ms-vscode.vscode-js-profile-table-1.0.1.vsix";
+      sha256 = "sha256-CUhSwzJBlDekYKBsWKquZbQVzxP6dyDp2P+L61zba+k=";
     };
     name = "vscode-js-profile-table";
     license = "MIT";

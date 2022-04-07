@@ -3023,7 +3023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-vscode-js-profile-table",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "passthru": {
       "name": "vscode-js-profile-table",
       "license": "MIT",
@@ -3031,10 +3031,10 @@
       "description": "Text visualizer for profiles taken from the JavaScript debugger"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.0/file/ms-vscode.vscode-js-profile-table-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.1/file/ms-vscode.vscode-js-profile-table-1.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EhSnq4M/vVC/VG4FTtO7Aw4rJr0olPFkLDxQ8EXzYdo="
+      "sha256": "sha256-CUhSwzJBlDekYKBsWKquZbQVzxP6dyDp2P+L61zba+k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12543,7 +12543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alygin-vscode-tlaplus-nightly",
-    "version": "2022.4.606",
+    "version": "2022.4.704",
     "passthru": {
       "name": "vscode-tlaplus-nightly",
       "license": "MIT",
@@ -12551,10 +12551,10 @@
       "description": "TLA+ language support (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.606/file/alygin.vscode-tlaplus-nightly-2022.4.606.vsix",
+      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.704/file/alygin.vscode-tlaplus-nightly-2022.4.704.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YTYgw1rmqLtk76eloK60koByVKHcW7c16WP3iY30cfQ="
+      "sha256": "sha256-nEEZiIEO3ZecmXuyPXhqqgRdRN6/z7KwPQOQLvtv8h0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13823,7 +13823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ban-spellright",
-    "version": "3.0.60",
+    "version": "3.0.62",
     "passthru": {
       "name": "spellright",
       "license": "",
@@ -13831,10 +13831,10 @@
       "description": "Multilingual, Offline and Lightweight Spellchecker"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ban/spellright/3.0.60/file/ban.spellright-3.0.60.vsix",
+      "url": "https://open-vsx.org/api/ban/spellright/3.0.62/file/ban.spellright-3.0.62.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-h8jiMoB1yIur+QFh5cWoSBvFDnVw6p6LqTzd8iOg5oQ="
+      "sha256": "sha256-p+h5A+uGkDhV2+6cwWdv+BM50igYNjQof05m2ZTLxEg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15083,7 +15083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.417",
+    "version": "2022.4.617",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15091,10 +15091,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.417/file/Slint.slint-nightly-2022.4.417.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.617/file/Slint.slint-nightly-2022.4.617.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-m9GJiVJ4om+clCB4qTKu/nsoXWxTY8rKxvAV8t9Q6wI="
+      "sha256": "sha256-F+C8DL/UjUvp+1OsWhd8TjGm41A3rfgVf8N7Ur0Ieuw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18743,7 +18743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mitchdenny-ecdc",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "passthru": {
       "name": "ecdc",
       "license": "Apache-2.0",
@@ -18751,10 +18751,10 @@
       "description": "An extension for Visual Studio Code that allows you to quickly convert text selections."
     },
     "src": {
-      "url": "https://open-vsx.org/api/mitchdenny/ecdc/1.6.0/file/mitchdenny.ecdc-1.6.0.vsix",
+      "url": "https://open-vsx.org/api/mitchdenny/ecdc/1.7.0/file/mitchdenny.ecdc-1.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZpzngbzNyZDO9t4oQIJrb0nzT8Jb/MnCrUpGK1JHsf4="
+      "sha256": "sha256-U6ixKDujQOZ860w7jzqaioCgLQc33FpP8xnVe3qnA5o="
     },
     "extract": null,
     "rustGitDeps": null
