@@ -206,20 +206,20 @@
   };
   conduit = {
     pname = "conduit";
-    version = "1ce03059a0194740abe35483b359878479e0c611";
+    version = "9e29dc808ff231eb06baef012f681e51da8411cf";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "1ce03059a0194740abe35483b359878479e0c611";
+      rev = "9e29dc808ff231eb06baef012f681e51da8411cf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ifFwrkj5CJFqMr/+evszFRlBaWzNwum+vKvLf2+OpuI=";
+      sha256 = "sha256-5sulycUmI4JGAbnFcD6bXyhLUSBc6WYDhDjLH9/aCTI=";
     };
     cargoLock = {
-      lockFile = ./conduit-1ce03059a0194740abe35483b359878479e0c611/Cargo.lock;
+      lockFile = ./conduit-9e29dc808ff231eb06baef012f681e51da8411cf/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
-        "ruma-0.4.0" = "sha256-gRhhGWpMiLeA8TNgBMsFEBky1TISr/GXNxLpTXLgUQE=";
+        "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
         "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
       };
     };
@@ -906,13 +906,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "0a89573c1ce2f4ed3f4cdaac7651bc34dffb3a0a";
+    version = "be4a44186ab4d0f5d4af9f7219e237f6eaa5bddf";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "0a89573c1ce2f4ed3f4cdaac7651bc34dffb3a0a";
+      rev = "be4a44186ab4d0f5d4af9f7219e237f6eaa5bddf";
       fetchSubmodules = false;
-      sha256 = "sha256-2QupWM8k8OzBfA7yKjb8U2bixZnJbViWC8wnV1a9+vk=";
+      sha256 = "sha256-LCl/ht6G/kpsJSCvlugFLMx1oP5CQeyDfwmX9LNJ8PU=";
     });
   };
   spicetify-themes = {
