@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.88.6",
+    "version": "0.89.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.88.6/file/dendron.nightly-0.88.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.89.2/file/dendron.nightly-0.89.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tPcKN0KREv7iwVniSYPHO0pYEbYHtO055fFfg2zMu+g="
+      "sha256": "sha256-f7aaYZv0qILYj4FS7QM6H4CmAU4H60998pTZ+Kdb+bA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5663,7 +5663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.24",
+    "version": "0.9.25",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5671,10 +5671,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.24/file/znck.vue-language-features-0.9.24.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.25/file/znck.vue-language-features-0.9.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-b58XBNbL3NlmClD+7MxpMktg7lLtuaqYGl6nqwB7XMU="
+      "sha256": "sha256-gqagP2Nlf1/MR5g7XBKsX3XC6zfPU/l0uQgeNfcUa+0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9483,7 +9483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2103419",
+    "version": "7.1.2107559",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9491,10 +9491,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2103419/file/eliostruyf.vscode-front-matter-beta-7.1.2103419.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2107559/file/eliostruyf.vscode-front-matter-beta-7.1.2107559.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f7qwzJfOtjn3jcQLqGndqTqJuegaq9sczQvt+9VpJGk="
+      "sha256": "sha256-rHPbUqJJKC+g9nswzfFGHsyAjRNZaFsswWiXX7FfL+w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12783,7 +12783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "s0kil-vscode-hsx",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "passthru": {
       "name": "vscode-hsx",
       "license": "MIT",
@@ -12791,10 +12791,10 @@
       "description": "Syntax Highlighting And IntelliSense For Haskell HSX QuasiQuotes"
     },
     "src": {
-      "url": "https://open-vsx.org/api/s0kil/vscode-hsx/0.3.1/file/s0kil.vscode-hsx-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/s0kil/vscode-hsx/0.4.0/file/s0kil.vscode-hsx-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-M1/bgAKOz/zUE67he2psKvWoANMt0aV2yoyMHAwY6Ac="
+      "sha256": "sha256-ce8128xPJTOy/apWk2ZE/ZF+JX2tHjvN3CQZrJFQQuY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20423,7 +20423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.25",
+    "version": "0.9.26",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20431,10 +20431,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.25/file/znck.vue-0.9.25.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.26/file/znck.vue-0.9.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1kGkxPWD7N2/0UnJEkSSRcq6yg5JbAg6qVoeQYjEml4="
+      "sha256": "sha256-BsFi3jBttQaICoN4y764RrF/3Q3iSlqAATshn7efyQg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30443,7 +30443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.831",
+    "version": "31.0.832",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30451,10 +30451,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.831/file/Prisma.prisma-insider-31.0.831.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.832/file/Prisma.prisma-insider-31.0.832.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aIme6t7GUfJiQOFynE56NMEYzopOy9EU9QxGa9yI8VU="
+      "sha256": "sha256-8UYtEvzz0zgRJWisukXjEq43qoeuyvIrT9tnj8CPKHg="
     },
     "extract": null,
     "rustGitDeps": null
