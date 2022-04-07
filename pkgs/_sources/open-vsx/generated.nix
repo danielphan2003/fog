@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.835";
+    version = "31.0.838";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.835/file/Prisma.prisma-insider-31.0.835.vsix";
-      sha256 = "sha256-O9BeEbtFa6E0mTT+wkWUAlK8TGyOSmnm7TNvWcCcrS8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.838/file/Prisma.prisma-insider-31.0.838.vsix";
+      sha256 = "sha256-xyv8NV/f8hHzjRkeEl4l9tCMMW3oCxg4ivGTxi07dnk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7371,10 +7371,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.0.0";
+    version = "7.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.0.0/file/eliostruyf.vscode-front-matter-7.0.0.vsix";
-      sha256 = "sha256-2iVMxdOHwtl96YZCSk6z2KsVIP2sLPyfU76D9IbTgSM=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.0/file/eliostruyf.vscode-front-matter-7.1.0.vsix";
+      sha256 = "sha256-2KDSOBBRwzle62IPzGYR5SWezr1A98fcI+iFiYk+9DA=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7383,10 +7383,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2108324";
+    version = "7.1.2109560";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2108324/file/eliostruyf.vscode-front-matter-beta-7.1.2108324.vsix";
-      sha256 = "sha256-Oee4Hh8F3IIz+4BFXMB3J51Rz6UD5LU8G8bx4hMBGEw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2109560/file/eliostruyf.vscode-front-matter-beta-7.1.2109560.vsix";
+      sha256 = "sha256-gpZU1lxjt9ZAlGwdg8VnKZ+E8VKgrkqmaE45039X+UA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -7707,10 +7707,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.12";
+    version = "1.3.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.12/file/everscale.solidity-support-1.3.12.vsix";
-      sha256 = "sha256-FnfDuJFoSRnJRfHVndOo0//mM1oDhFVRq/R0drQTgfs=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.13/file/everscale.solidity-support-1.3.13.vsix";
+      sha256 = "sha256-JpFQLV46JJRJcS0BPRktRO+tl+WG30tevQ7eUnIEz9Q=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -9747,10 +9747,10 @@
   };
   irispixel-dartsass = {
     pname = "irispixel-dartsass";
-    version = "0.9.1";
+    version = "0.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/irispixel/dartsass/0.9.1/file/irispixel.dartsass-0.9.1.vsix";
-      sha256 = "sha256-9Kesz1TanuiIyNewgeK9muHRoV6gT333hWTJK0jDr/U=";
+      url = "https://open-vsx.org/api/irispixel/dartsass/0.9.2/file/irispixel.dartsass-0.9.2.vsix";
+      sha256 = "sha256-0T7fuLbmNCt7zQDGmPesuR8Ew44/iomoGGNfeSFl96Q=";
     };
     name = "dartsass";
     license = "MIT";
