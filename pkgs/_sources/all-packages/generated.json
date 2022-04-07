@@ -3,13 +3,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "widevine-cdm",
-    "version": "4.10.2391.0",
+    "version": "4.10.2449.0",
     "passthru": null,
     "src": {
-      "url": "https://dl.google.com/widevine-cdm/4.10.2391.0-linux-x64.zip",
+      "url": "https://dl.google.com/widevine-cdm/4.10.2449.0-linux-x64.zip",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7gH808C67m/s09e4rQUQHb/t+iGVdzW+YzrB1ZxGIdo="
+      "sha256": "sha256-XZuXK3NCfqbaQ1tuMOXj/U4yJC18futqo1WjuMqMrRA="
     },
     "extract": null,
     "rustGitDeps": null
