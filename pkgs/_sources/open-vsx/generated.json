@@ -2083,7 +2083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2091,10 +2091,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.6/file/zardoy.vetur-extended-0.0.6.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.7/file/zardoy.vetur-extended-0.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-woz3Pzd6UWWkE/bnmfOHOiJeyIEuzVQkJdlOcKCTboc="
+      "sha256": "sha256-0ef0/A5lL9cJjFmzBAkPM5RsAvW0pH0bPLHt/4wnYw0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13243,18 +13243,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "2.1.9",
+    "version": "2.1.10",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
       "publisher": "mintlify",
-      "description": "The AI powered documentation writer"
+      "description": "âï¸ JavaScript, Python, Java, Typescript & all other languages - AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/2.1.9/file/mintlify.document-2.1.9.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.1.10/file/mintlify.document-2.1.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tFHx+5i5fdedChD0SCd8DksZqJtfCc9w4cdH0RE0lSs="
+      "sha256": "sha256-1zs/GRDBf9/HtI+grJOvjudQQnQ3CDMX/0gnq3P2AEw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23303,7 +23303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CodeStream-codestream",
-    "version": "12.14.0",
+    "version": "12.15.0",
     "passthru": {
       "name": "codestream",
       "license": "UNLICENSED",
@@ -23311,10 +23311,10 @@
       "description": "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic One observability, Bitbucket, Slack, MS Teams, Jira, Trello and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/CodeStream/codestream/12.14.0/file/CodeStream.codestream-12.14.0.vsix",
+      "url": "https://open-vsx.org/api/CodeStream/codestream/12.15.0/file/CodeStream.codestream-12.15.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xQ3MY2fUsyXbASRXg4Lap1CEbnNKydwN4U03wAPfbvg="
+      "sha256": "sha256-1eQs2Ze7EZ5sgv3NVEzHu5SqqZh1n8XcjIL7eYWYX4Q="
     },
     "extract": null,
     "rustGitDeps": null
