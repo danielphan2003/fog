@@ -507,10 +507,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.14.0";
+    version = "12.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.14.0/file/CodeStream.codestream-12.14.0.vsix";
-      sha256 = "sha256-xQ3MY2fUsyXbASRXg4Lap1CEbnNKydwN4U03wAPfbvg=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/12.15.0/file/CodeStream.codestream-12.15.0.vsix";
+      sha256 = "sha256-1eQs2Ze7EZ5sgv3NVEzHu5SqqZh1n8XcjIL7eYWYX4Q=";
     };
     name = "codestream";
     license = "UNLICENSED";
@@ -12063,15 +12063,15 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.9";
+    version = "2.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.9/file/mintlify.document-2.1.9.vsix";
-      sha256 = "sha256-tFHx+5i5fdedChD0SCd8DksZqJtfCc9w4cdH0RE0lSs=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.10/file/mintlify.document-2.1.10.vsix";
+      sha256 = "sha256-1zs/GRDBf9/HtI+grJOvjudQQnQ3CDMX/0gnq3P2AEw=";
     };
     name = "document";
     license = "Apache-2.0";
     publisher = "mintlify";
-    description = "The AI powered documentation writer";
+    description = "\9997\65039 JavaScript, Python, Java, Typescript & all other languages - AI powered documentation writer";
   };
   misodee-vscode-nbt = {
     pname = "misodee-vscode-nbt";
@@ -20055,10 +20055,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.6/file/zardoy.vetur-extended-0.0.6.vsix";
-      sha256 = "sha256-woz3Pzd6UWWkE/bnmfOHOiJeyIEuzVQkJdlOcKCTboc=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.7/file/zardoy.vetur-extended-0.0.7.vsix";
+      sha256 = "sha256-0ef0/A5lL9cJjFmzBAkPM5RsAvW0pH0bPLHt/4wnYw0=";
     };
     name = "vetur-extended";
     license = "MIT";
