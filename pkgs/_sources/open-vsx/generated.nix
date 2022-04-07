@@ -2679,10 +2679,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.831";
+    version = "31.0.832";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.831/file/Prisma.prisma-insider-31.0.831.vsix";
-      sha256 = "sha256-aIme6t7GUfJiQOFynE56NMEYzopOy9EU9QxGa9yI8VU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.832/file/Prisma.prisma-insider-31.0.832.vsix";
+      sha256 = "sha256-8UYtEvzz0zgRJWisukXjEq43qoeuyvIrT9tnj8CPKHg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6903,10 +6903,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.88.6";
+    version = "0.89.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.88.6/file/dendron.nightly-0.88.6.vsix";
-      sha256 = "sha256-tPcKN0KREv7iwVniSYPHO0pYEbYHtO055fFfg2zMu+g=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.89.2/file/dendron.nightly-0.89.2.vsix";
+      sha256 = "sha256-f7aaYZv0qILYj4FS7QM6H4CmAU4H60998pTZ+Kdb+bA=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7383,10 +7383,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2103419";
+    version = "7.1.2107559";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2103419/file/eliostruyf.vscode-front-matter-beta-7.1.2103419.vsix";
-      sha256 = "sha256-f7qwzJfOtjn3jcQLqGndqTqJuegaq9sczQvt+9VpJGk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2107559/file/eliostruyf.vscode-front-matter-beta-7.1.2107559.vsix";
+      sha256 = "sha256-rHPbUqJJKC+g9nswzfFGHsyAjRNZaFsswWiXX7FfL+w=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -15447,10 +15447,10 @@
   };
   s0kil-vscode-hsx = {
     pname = "s0kil-vscode-hsx";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/s0kil/vscode-hsx/0.3.1/file/s0kil.vscode-hsx-0.3.1.vsix";
-      sha256 = "sha256-M1/bgAKOz/zUE67he2psKvWoANMt0aV2yoyMHAwY6Ac=";
+      url = "https://open-vsx.org/api/s0kil/vscode-hsx/0.4.0/file/s0kil.vscode-hsx-0.4.0.vsix";
+      sha256 = "sha256-ce8128xPJTOy/apWk2ZE/ZF+JX2tHjvN3CQZrJFQQuY=";
     };
     name = "vscode-hsx";
     license = "MIT";
@@ -20175,10 +20175,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.25";
+    version = "0.9.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.25/file/znck.vue-0.9.25.vsix";
-      sha256 = "sha256-1kGkxPWD7N2/0UnJEkSSRcq6yg5JbAg6qVoeQYjEml4=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.26/file/znck.vue-0.9.26.vsix";
+      sha256 = "sha256-BsFi3jBttQaICoN4y764RrF/3Q3iSlqAATshn7efyQg=";
     };
     name = "vue";
     license = "MIT";
@@ -20187,10 +20187,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.24";
+    version = "0.9.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.24/file/znck.vue-language-features-0.9.24.vsix";
-      sha256 = "sha256-b58XBNbL3NlmClD+7MxpMktg7lLtuaqYGl6nqwB7XMU=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.25/file/znck.vue-language-features-0.9.25.vsix";
+      sha256 = "sha256-gqagP2Nlf1/MR5g7XBKsX3XC6zfPU/l0uQgeNfcUa+0=";
     };
     name = "vue-language-features";
     license = "MIT";
