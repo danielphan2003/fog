@@ -9143,7 +9143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "svelte-svelte-vscode",
-    "version": "105.13.0",
+    "version": "105.14.0",
     "passthru": {
       "name": "svelte-vscode",
       "license": "MIT",
@@ -9151,10 +9151,10 @@
       "description": "Svelte language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.13.0/file/svelte.svelte-vscode-105.13.0.vsix",
+      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.14.0/file/svelte.svelte-vscode-105.14.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9/P0xGtn+pWjnEOoGajDdlqoSYAvifqpXN32FiYhXyU="
+      "sha256": "sha256-0JuTn6ZejraD/+8NXigS8ceYB2on0rm/6eDizFozikg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17503,7 +17503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tym-inc-tym",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "passthru": {
       "name": "tym",
       "license": "MIT",
@@ -17511,10 +17511,10 @@
       "description": "Share your code context in one-click"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tym-inc/tym/1.0.0/file/tym-inc.tym-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/tym-inc/tym/1.0.3/file/tym-inc.tym-1.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YqO3AWxHTbue989mJLttK2/lyRs7QYPXND6VezxMLEs="
+      "sha256": "sha256-RE8Z5rvPjHrRjBjFrM+YWZ68BTJDuJlTWUMWhEO1lzU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31163,7 +31163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "julialang-language-julia",
-    "version": "1.6.15",
+    "version": "1.6.17",
     "passthru": {
       "name": "language-julia",
       "license": "MIT",
@@ -31171,10 +31171,10 @@
       "description": "Julia Language Support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.15/file/julialang.language-julia-1.6.15.vsix",
+      "url": "https://open-vsx.org/api/julialang/language-julia/1.6.17/file/julialang.language-julia-1.6.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ij8yAMj0QU1wqLXHx8Ed3tEHq6hCHADqn5wuoTiKUwA="
+      "sha256": "sha256-qhstJtS+lW36JQ+R4Ec+qNhlWYIHG207/ZeZ9cWJZrY="
     },
     "extract": null,
     "rustGitDeps": null

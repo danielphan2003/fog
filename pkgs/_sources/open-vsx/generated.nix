@@ -10359,10 +10359,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.15";
+    version = "1.6.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.15/file/julialang.language-julia-1.6.15.vsix";
-      sha256 = "sha256-Ij8yAMj0QU1wqLXHx8Ed3tEHq6hCHADqn5wuoTiKUwA=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.17/file/julialang.language-julia-1.6.17.vsix";
+      sha256 = "sha256-qhstJtS+lW36JQ+R4Ec+qNhlWYIHG207/ZeZ9cWJZrY=";
     };
     name = "language-julia";
     license = "MIT";
@@ -16863,10 +16863,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.13.0";
+    version = "105.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.13.0/file/svelte.svelte-vscode-105.13.0.vsix";
-      sha256 = "sha256-9/P0xGtn+pWjnEOoGajDdlqoSYAvifqpXN32FiYhXyU=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.14.0/file/svelte.svelte-vscode-105.14.0.vsix";
+      sha256 = "sha256-0JuTn6ZejraD/+8NXigS8ceYB2on0rm/6eDizFozikg=";
     };
     name = "svelte-vscode";
     license = "MIT";
@@ -17607,10 +17607,10 @@
   };
   tym-inc-tym = {
     pname = "tym-inc-tym";
-    version = "1.0.0";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tym-inc/tym/1.0.0/file/tym-inc.tym-1.0.0.vsix";
-      sha256 = "sha256-YqO3AWxHTbue989mJLttK2/lyRs7QYPXND6VezxMLEs=";
+      url = "https://open-vsx.org/api/tym-inc/tym/1.0.3/file/tym-inc.tym-1.0.3.vsix";
+      sha256 = "sha256-RE8Z5rvPjHrRjBjFrM+YWZ68BTJDuJlTWUMWhEO1lzU=";
     };
     name = "tym";
     license = "MIT";
