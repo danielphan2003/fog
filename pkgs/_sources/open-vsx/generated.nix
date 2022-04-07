@@ -123,10 +123,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.2.0/file/AvengaGermanyGmbH.couper-1.2.0.vsix";
-      sha256 = "sha256-+ox42HUz8grq7JGyRbM262w8tNVNrRrIum9fHtmK4yI=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.3.0/file/AvengaGermanyGmbH.couper-1.3.0.vsix";
+      sha256 = "sha256-1g0jsdvhNU8i4B3ddxbyNbrVCHxBdJdbLcTu1WP5vx4=";
     };
     name = "couper";
     license = "MIT";
@@ -7383,10 +7383,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2107559";
+    version = "7.1.2108324";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2107559/file/eliostruyf.vscode-front-matter-beta-7.1.2107559.vsix";
-      sha256 = "sha256-rHPbUqJJKC+g9nswzfFGHsyAjRNZaFsswWiXX7FfL+w=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2108324/file/eliostruyf.vscode-front-matter-beta-7.1.2108324.vsix";
+      sha256 = "sha256-Oee4Hh8F3IIz+4BFXMB3J51Rz6UD5LU8G8bx4hMBGEw=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9744,6 +9744,18 @@
     license = "MIT";
     publisher = "ipedrazas";
     description = "Code snippets of kubernetes for Visual Studio Code.";
+  };
+  irispixel-dartsass = {
+    pname = "irispixel-dartsass";
+    version = "0.9.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/irispixel/dartsass/0.9.0/file/irispixel.dartsass-0.9.0.vsix";
+      sha256 = "sha256-/SR8L0GPmZqh32AS7owTWY3H0nE+W/gPyRw7t7R1UwU=";
+    };
+    name = "dartsass";
+    license = "MIT";
+    publisher = "irispixel";
+    description = "Compile Sass and Scss files using DartSass Compiler - Visual Studio Code (vsce) plugin";
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
@@ -15135,10 +15147,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.43.2";
+    version = "0.44.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.43.2/file/robocorp.robotframework-lsp-0.43.2.vsix";
-      sha256 = "sha256-7aKLTUFEOHBYQXEwGyOJlHELybjideRZIz9A4O2624k=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.44.0/file/robocorp.robotframework-lsp-0.44.0.vsix";
+      sha256 = "sha256-Shp+w01nhCXI9SEbpVdNSWy4J2Uolw7h4wdhk9c0ee4=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
