@@ -711,10 +711,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.38.0";
+    version = "3.38.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.0/file/Dart-Code.flutter-3.38.0.vsix";
-      sha256 = "sha256-NmuJT16dhTka69DFHChtEgSDVk/9M0gxrLmP56mKFSE=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.1/file/Dart-Code.flutter-3.38.1.vsix";
+      sha256 = "sha256-FZnfUAEncjqXNiqgUeCgyUt9Os1bLjxVBAhPl7ZJNrI=";
     };
     name = "flutter";
     license = "MIT";
@@ -1728,6 +1728,18 @@
     license = "MIT";
     publisher = "KaanGenc";
     description = "Catch writing mistakes and insensitive language, improve your writing quality. Works on comments of programming languages, and markdown files.";
+  };
+  KamasamaK-vscode-cflint = {
+    pname = "KamasamaK-vscode-cflint";
+    version = "0.3.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.5/file/KamasamaK.vscode-cflint-0.3.5.vsix";
+      sha256 = "sha256-HMNQnWQSStrYPgWScbwBb/TNd74lATaG1ttXvBduxrk=";
+    };
+    name = "vscode-cflint";
+    license = "MIT";
+    publisher = "KamasamaK";
+    description = "CFLint for Visual Studio Code";
   };
   KamasamaK-vscode-cfml = {
     pname = "KamasamaK-vscode-cfml";
@@ -2859,10 +2871,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.30.0";
+    version = "2.30.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.0/file/RokuCommunity.brightscript-2.30.0.vsix";
-      sha256 = "sha256-OCOMyIGdYrDafJ8141Dw9frFnjvJm/4cLfmysL8+EE4=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.1/file/RokuCommunity.brightscript-2.30.1.vsix";
+      sha256 = "sha256-Qzn4SF5n3hz0Ev1fYo5iHtwhE74AUsGaOIPlelypNZE=";
     };
     name = "brightscript";
     license = "MIT";
@@ -4251,10 +4263,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.4.704";
+    version = "2022.4.718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.704/file/alygin.vscode-tlaplus-nightly-2022.4.704.vsix";
-      sha256 = "sha256-nEEZiIEO3ZecmXuyPXhqqgRdRN6/z7KwPQOQLvtv8h0=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.718/file/alygin.vscode-tlaplus-nightly-2022.4.718.vsix";
+      sha256 = "sha256-97LJkR63JIyacIP0hMOHksVqGowwZHRV26cZX2mxJIs=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -5319,10 +5331,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.263";
+    version = "2.0.264";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.263/file/betterthantomorrow.calva-2.0.263.vsix";
-      sha256 = "sha256-AWfDWkxl2BVqbgwIkyGPrAk93wCvG8phc17JCFjlEO0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.264/file/betterthantomorrow.calva-2.0.264.vsix";
+      sha256 = "sha256-ZKlFDErP8LKRzZ6w5sMwu2MZUXCpXjdxuVsMt3rHEgA=";
     };
     name = "calva";
     license = "MIT";
@@ -12051,10 +12063,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.8";
+    version = "2.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.8/file/mintlify.document-2.1.8.vsix";
-      sha256 = "sha256-h7ToKDGP6Tc4D/Ch3+UrgVU+NSIJqGpnsJpbvSRCoV8=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.9/file/mintlify.document-2.1.9.vsix";
+      sha256 = "sha256-tFHx+5i5fdedChD0SCd8DksZqJtfCc9w4cdH0RE0lSs=";
     };
     name = "document";
     license = "Apache-2.0";
@@ -15963,10 +15975,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.16";
+    version = "0.13.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.16/file/shufo.vscode-blade-formatter-0.13.16.vsix";
-      sha256 = "sha256-mz2ZBZHw8IS0J3jP/0B5lSYfIYPerc5caclB3XYfMfI=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.17/file/shufo.vscode-blade-formatter-0.13.17.vsix";
+      sha256 = "sha256-KwrGfN48Ni9vOT86StXBXvHIBtqH8vz4QNbSsqmsF9k=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -17607,10 +17619,10 @@
   };
   tym-inc-tym = {
     pname = "tym-inc-tym";
-    version = "1.0.3";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tym-inc/tym/1.0.3/file/tym-inc.tym-1.0.3.vsix";
-      sha256 = "sha256-RE8Z5rvPjHrRjBjFrM+YWZ68BTJDuJlTWUMWhEO1lzU=";
+      url = "https://open-vsx.org/api/tym-inc/tym/1.0.4/file/tym-inc.tym-1.0.4.vsix";
+      sha256 = "sha256-a32BRfRMIA4ToYhvg66lPb/xtRTTG9bsJqi1O+0CXPY=";
     };
     name = "tym";
     license = "MIT";

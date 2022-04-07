@@ -9503,7 +9503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.30.0",
+    "version": "2.30.1",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -9511,10 +9511,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.0/file/RokuCommunity.brightscript-2.30.0.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.1/file/RokuCommunity.brightscript-2.30.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OCOMyIGdYrDafJ8141Dw9frFnjvJm/4cLfmysL8+EE4="
+      "sha256": "sha256-Qzn4SF5n3hz0Ev1fYo5iHtwhE74AUsGaOIPlelypNZE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12543,7 +12543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alygin-vscode-tlaplus-nightly",
-    "version": "2022.4.704",
+    "version": "2022.4.718",
     "passthru": {
       "name": "vscode-tlaplus-nightly",
       "license": "MIT",
@@ -12551,10 +12551,10 @@
       "description": "TLA+ language support (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.704/file/alygin.vscode-tlaplus-nightly-2022.4.704.vsix",
+      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.718/file/alygin.vscode-tlaplus-nightly-2022.4.718.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nEEZiIEO3ZecmXuyPXhqqgRdRN6/z7KwPQOQLvtv8h0="
+      "sha256": "sha256-97LJkR63JIyacIP0hMOHksVqGowwZHRV26cZX2mxJIs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13243,7 +13243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "2.1.8",
+    "version": "2.1.9",
     "passthru": {
       "name": "document",
       "license": "Apache-2.0",
@@ -13251,10 +13251,10 @@
       "description": "The AI powered documentation writer"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/2.1.8/file/mintlify.document-2.1.8.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.1.9/file/mintlify.document-2.1.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-h7ToKDGP6Tc4D/Ch3+UrgVU+NSIJqGpnsJpbvSRCoV8="
+      "sha256": "sha256-tFHx+5i5fdedChD0SCd8DksZqJtfCc9w4cdH0RE0lSs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17463,7 +17463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.16",
+    "version": "0.13.17",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -17471,10 +17471,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.16/file/shufo.vscode-blade-formatter-0.13.16.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.17/file/shufo.vscode-blade-formatter-0.13.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mz2ZBZHw8IS0J3jP/0B5lSYfIYPerc5caclB3XYfMfI="
+      "sha256": "sha256-KwrGfN48Ni9vOT86StXBXvHIBtqH8vz4QNbSsqmsF9k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17503,7 +17503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tym-inc-tym",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "passthru": {
       "name": "tym",
       "license": "MIT",
@@ -17511,10 +17511,10 @@
       "description": "Share your code context in one-click"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tym-inc/tym/1.0.3/file/tym-inc.tym-1.0.3.vsix",
+      "url": "https://open-vsx.org/api/tym-inc/tym/1.0.4/file/tym-inc.tym-1.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RE8Z5rvPjHrRjBjFrM+YWZ68BTJDuJlTWUMWhEO1lzU="
+      "sha256": "sha256-a32BRfRMIA4ToYhvg66lPb/xtRTTG9bsJqi1O+0CXPY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31103,7 +31103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Dart-Code-flutter",
-    "version": "3.38.0",
+    "version": "3.38.1",
     "passthru": {
       "name": "flutter",
       "license": "MIT",
@@ -31111,10 +31111,10 @@
       "description": "Flutter support and debugger for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Dart-Code/flutter/3.38.0/file/Dart-Code.flutter-3.38.0.vsix",
+      "url": "https://open-vsx.org/api/Dart-Code/flutter/3.38.1/file/Dart-Code.flutter-3.38.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NmuJT16dhTka69DFHChtEgSDVk/9M0gxrLmP56mKFSE="
+      "sha256": "sha256-FZnfUAEncjqXNiqgUeCgyUt9Os1bLjxVBAhPl7ZJNrI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31223,7 +31223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.263",
+    "version": "2.0.264",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -31231,10 +31231,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.263/file/betterthantomorrow.calva-2.0.263.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.264/file/betterthantomorrow.calva-2.0.264.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AWfDWkxl2BVqbgwIkyGPrAk93wCvG8phc17JCFjlEO0="
+      "sha256": "sha256-ZKlFDErP8LKRzZ6w5sMwu2MZUXCpXjdxuVsMt3rHEgA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32995,6 +32995,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-7LLEaf/SXuLTAMpaaPtMdWPEjNzqYbMXwU7NlZPoP9s="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "KamasamaK-vscode-cflint": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "KamasamaK-vscode-cflint",
+    "version": "0.3.5",
+    "passthru": {
+      "name": "vscode-cflint",
+      "license": "MIT",
+      "publisher": "KamasamaK",
+      "description": "CFLint for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.5/file/KamasamaK.vscode-cflint-0.3.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-HMNQnWQSStrYPgWScbwBb/TNd74lATaG1ttXvBduxrk="
     },
     "extract": null,
     "rustGitDeps": null
