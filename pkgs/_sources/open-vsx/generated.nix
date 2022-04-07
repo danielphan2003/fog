@@ -1095,10 +1095,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.5.9";
+    version = "1.6.4-dev.2022.4.6.22.38.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.5.9/file/GitHub.vscode-codeql-1.5.9.vsix";
-      sha256 = "sha256-EvR0qPp125fiog2aOmCU42Niru5gLp58AS0ZkuNKals=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.4-dev.2022.4.6.22.38.30/file/GitHub.vscode-codeql-1.6.4-dev.2022.4.6.22.38.30.vsix";
+      sha256 = "sha256-B9etR/CSAP27zogsi3NYM6Fu4rDpnBW6FZbOED/uYVI=";
     };
     name = "vscode-codeql";
     license = "MIT";
@@ -1863,15 +1863,15 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.6";
+    version = "2.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.6/file/LuqueDaniel.languague-renpy-2.0.6.vsix";
-      sha256 = "sha256-cLcyCccmpIuHgNbCLYYf7tPZO0oC+qrM8RDp5LCaRSk=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.8/file/LuqueDaniel.languague-renpy-2.0.8.vsix";
+      sha256 = "sha256-0CLGQW+EL6FoTdD/CODC115347k4+c7UfKdrux5ah4Q=";
     };
     name = "languague-renpy";
     license = "MIT";
     publisher = "LuqueDaniel";
-    description = "Adds syntax highlighting and snippets to Ren'Py files in Visual Studio Code";
+    description = "Adds rich support for the Ren'Py programming language to Visual Studio Code.";
   };
   Luxcium-pop-n-lock-theme-vscode = {
     pname = "Luxcium-pop-n-lock-theme-vscode";
@@ -12027,10 +12027,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.6";
+    version = "2.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.6/file/mintlify.document-2.1.6.vsix";
-      sha256 = "sha256-5F/AqRFAzCGzuSKNv73YPOhkeqPtUJ2eRcwLw38qaDU=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.8/file/mintlify.document-2.1.8.vsix";
+      sha256 = "sha256-h7ToKDGP6Tc4D/Ch3+UrgVU+NSIJqGpnsJpbvSRCoV8=";
     };
     name = "document";
     license = "Apache-2.0";
