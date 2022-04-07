@@ -426,10 +426,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6063";
+    version = "1.0.6064";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6063.tar.bz2";
-      sha256 = "sha256-5qk2VjkiV9pXit6LbLA4qKQrY8HvyvLRLtE6K4PjOqU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6064.tar.bz2";
+      sha256 = "sha256-GTu/i6toIBXjctFd1pBVAfc32MQl0qUkAomXMn73YWA=";
     };
   };
   jitsi-meet-prosody = {
@@ -543,10 +543,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "101.0.1210.2";
+    version = "101.0.1210.9";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_101.0.1210.2-1_amd64.deb";
-      sha256 = "sha256-uYR3IpFhIyM5apfqMmEDD77EYLmKuhI5abshARWlfI8=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_101.0.1210.9-1_amd64.deb";
+      sha256 = "sha256-fKLbOmixhX1yMZ3BJAn4EZ+PkeccvE/h3iwgG8U2bXA=";
     };
   };
   minecraft-wayland = {
@@ -906,13 +906,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "be4a44186ab4d0f5d4af9f7219e237f6eaa5bddf";
+    version = "7b45e7e7cc6b898543389b433243a66a15ac58c9";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "be4a44186ab4d0f5d4af9f7219e237f6eaa5bddf";
+      rev = "7b45e7e7cc6b898543389b433243a66a15ac58c9";
       fetchSubmodules = false;
-      sha256 = "sha256-LCl/ht6G/kpsJSCvlugFLMx1oP5CQeyDfwmX9LNJ8PU=";
+      sha256 = "sha256-81jnpsaItD92Ikhzjaw1KtAS+SkdtHtY6hSVg10Eun0=";
     });
   };
   spicetify-themes = {
