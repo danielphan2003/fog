@@ -340,13 +340,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "db5f8a762cdbdebd1d3bbd8132817fa5c39fd30f";
+    version = "50db18451cab041da88200cc7fa358e2b5a396a6";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "db5f8a762cdbdebd1d3bbd8132817fa5c39fd30f";
+      rev = "50db18451cab041da88200cc7fa358e2b5a396a6";
       fetchSubmodules = false;
-      sha256 = "sha256-1W+c+m+SxQy1BD6HcNUGFIqGNwNX/Oo8btqBoEc15p0=";
+      sha256 = "sha256-myf+zFHLjtnfkjidIJ/lgiOtsFZ5zcr3uiW4KDAL9Aw=";
     });
   };
   flyingfox = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "195a192aa88bdbabfec3555f943cfcb629554847";
+    version = "1679e4ab7638815b572e19de01b7fda18dd2511f";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "195a192aa88bdbabfec3555f943cfcb629554847";
+      rev = "1679e4ab7638815b572e19de01b7fda18dd2511f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-BctVXPr7YOhETXFKU11jrKm/Fujt/R85XO/Ir6pwLi4=";
+      sha256 = "sha256-1p17H/4XZ5NeSns1KKvUn3dT8QYG+cuMdA8Wn1epJhY=";
     };
   };
   spicetify-cli = {
