@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "850260dff6569ecc6a81332a04d07169d7baa2bd",
+    "version": "db5f8a762cdbdebd1d3bbd8132817fa5c39fd30f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-AsbYzMQTKKUdJUdHMXnXmkjsRovV+WHGIewsaUlkM5Q=",
-      "rev": "850260dff6569ecc6a81332a04d07169d7baa2bd"
+      "sha256": "sha256-1W+c+m+SxQy1BD6HcNUGFIqGNwNX/Oo8btqBoEc15p0=",
+      "rev": "db5f8a762cdbdebd1d3bbd8132817fa5c39fd30f"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1720,7 +1720,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "6be7931eb43d638a2bc4927a83b1a9cde9c26aea",
+    "version": "c79c72c4fce75a37061d37b6b18e018e8a70b255",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1730,8 +1730,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-UQ1TByGwanhKO4SDDYNAqlVVqdA6vVU26Pu++xkKZDc=",
-      "rev": "6be7931eb43d638a2bc4927a83b1a9cde9c26aea"
+      "sha256": "sha256-bFGgs0DJhFOkX08mS1pVpKe5vFIPNWpmawoVOIQHEMY=",
+      "rev": "c79c72c4fce75a37061d37b6b18e018e8a70b255"
     },
     "extract": null,
     "rustGitDeps": null
