@@ -2523,10 +2523,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.3.0";
+    version = "5.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.0/file/PascalReitermann93.vscode-yaml-sort-5.3.0.vsix";
-      sha256 = "sha256-gyiSYKnOJbDlJ5ZijryDthnocYwEU8XYT7waM4aW+Rs=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.1/file/PascalReitermann93.vscode-yaml-sort-5.3.1.vsix";
+      sha256 = "sha256-DBlhkr0O97mg3XJro30Cv308NtsluDK63p2+U946OvM=";
     };
     name = "vscode-yaml-sort";
     license = "MIT";

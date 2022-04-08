@@ -32523,7 +32523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PascalReitermann93-vscode-yaml-sort",
-    "version": "5.3.0",
+    "version": "5.3.1",
     "passthru": {
       "name": "vscode-yaml-sort",
       "license": "MIT",
@@ -32531,10 +32531,10 @@
       "description": "This VS Code extension exposes the possibility to sort, format and validate yaml files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.0/file/PascalReitermann93.vscode-yaml-sort-5.3.0.vsix",
+      "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.1/file/PascalReitermann93.vscode-yaml-sort-5.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gyiSYKnOJbDlJ5ZijryDthnocYwEU8XYT7waM4aW+Rs="
+      "sha256": "sha256-DBlhkr0O97mg3XJro30Cv308NtsluDK63p2+U946OvM="
     },
     "extract": null,
     "rustGitDeps": null
