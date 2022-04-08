@@ -5331,10 +5331,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.264";
+    version = "2.0.265";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.264/file/betterthantomorrow.calva-2.0.264.vsix";
-      sha256 = "sha256-ZKlFDErP8LKRzZ6w5sMwu2MZUXCpXjdxuVsMt3rHEgA=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.265/file/betterthantomorrow.calva-2.0.265.vsix";
+      sha256 = "sha256-1cSVjE5q5dZmeFAU+diwaWzY+J+dK8gw66oQOZqyiFs=";
     };
     name = "calva";
     license = "MIT";
@@ -5604,6 +5604,42 @@
     license = "MIT";
     publisher = "bringout";
     description = "PostgreSQL menad\382er [eShell]";
+  };
+  brunnerh-altervista-thesaurus = {
+    pname = "brunnerh-altervista-thesaurus";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/brunnerh/altervista-thesaurus/0.2.0/file/brunnerh.altervista-thesaurus-0.2.0.vsix";
+      sha256 = "sha256-xomwtMcdYK9fU91v3LbW7KA5jaaueZfx0+dR0GJ1n8Q=";
+    };
+    name = "altervista-thesaurus";
+    license = "MIT";
+    publisher = "brunnerh";
+    description = "A thesaurus using the API provided by altervista.org.";
+  };
+  brunnerh-file-properties-viewer = {
+    pname = "brunnerh-file-properties-viewer";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/brunnerh/file-properties-viewer/1.0.0/file/brunnerh.file-properties-viewer-1.0.0.vsix";
+      sha256 = "sha256-cQNPZcyc6fFppATLgMGBAeMlwXv8h7x0mxc58wKAfm8=";
+    };
+    name = "file-properties-viewer";
+    license = "MIT";
+    publisher = "brunnerh";
+    description = "Shows file properties like size, various time stamps and media type.";
+  };
+  brunnerh-insert-unicode = {
+    pname = "brunnerh-insert-unicode";
+    version = "0.13.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/brunnerh/insert-unicode/0.13.3/file/brunnerh.insert-unicode-0.13.3.vsix";
+      sha256 = "sha256-WohZboSqOjy+ZF3qj5UlxN8beQgBBG8mWxzhJ3+A3+g=";
+    };
+    name = "insert-unicode";
+    license = "MIT";
+    publisher = "brunnerh";
+    description = "Search for unicode characters and insert them into documents.";
   };
   budparr-language-hugo-vscode = {
     pname = "budparr-language-hugo-vscode";
