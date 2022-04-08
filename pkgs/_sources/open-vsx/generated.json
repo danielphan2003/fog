@@ -16683,7 +16683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SPGoding-datapack-language-server",
-    "version": "3.3.26",
+    "version": "3.3.27",
     "passthru": {
       "name": "datapack-language-server",
       "license": "MIT",
@@ -16691,10 +16691,10 @@
       "description": "Heavy language features for Minecraft: Java Edition data pack files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.26/file/SPGoding.datapack-language-server-3.3.26.vsix",
+      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.27/file/SPGoding.datapack-language-server-3.3.27.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JUqVocAG68lPTZ04dHsihAhJx4mU6ogkBKWEi0XP0L0="
+      "sha256": "sha256-p942ev3+z+d4UceRO+UQRkez1jDheoJjtuEJeq3UFnQ="
     },
     "extract": null,
     "rustGitDeps": null

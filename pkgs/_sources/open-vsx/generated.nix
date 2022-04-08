@@ -2907,10 +2907,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.26";
+    version = "3.3.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.26/file/SPGoding.datapack-language-server-3.3.26.vsix";
-      sha256 = "sha256-JUqVocAG68lPTZ04dHsihAhJx4mU6ogkBKWEi0XP0L0=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.27/file/SPGoding.datapack-language-server-3.3.27.vsix";
+      sha256 = "sha256-p942ev3+z+d4UceRO+UQRkez1jDheoJjtuEJeq3UFnQ=";
     };
     name = "datapack-language-server";
     license = "MIT";
