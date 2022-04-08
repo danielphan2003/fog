@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "1679e4ab7638815b572e19de01b7fda18dd2511f";
+    version = "12c0bdf611b82e2ca529ab2311f461f708011e9b";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "1679e4ab7638815b572e19de01b7fda18dd2511f";
+      rev = "12c0bdf611b82e2ca529ab2311f461f708011e9b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-1p17H/4XZ5NeSns1KKvUn3dT8QYG+cuMdA8Wn1epJhY=";
+      sha256 = "sha256-IvfU1sJSp+McNDtXVzsOrhJBlwOtbU+27O3JVNyKPNk=";
     };
   };
   spicetify-cli = {
@@ -1202,14 +1202,14 @@
   };
   xorg-libxcvt = {
     pname = "xorg-libxcvt";
-    version = "6fe840b9295cfdc41bd734586c5b8756f6af6f9b";
+    version = "d3468537b9748756350c9ab89d2b639cebeeccbc";
     src = fetchgit {
       url = "https://gitlab.freedesktop.org/xorg/lib/libxcvt";
-      rev = "6fe840b9295cfdc41bd734586c5b8756f6af6f9b";
+      rev = "d3468537b9748756350c9ab89d2b639cebeeccbc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-qKKb/i67QY/NxZFkJaVRc3hGPjjnRfgpMqGqZ0YNQE8=";
+      sha256 = "sha256-wK0+asG9oOuZmDn2EIvL/EBcazHG05KgoUGUHPju+sk=";
     };
   };
   xorgproto = {
