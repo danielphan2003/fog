@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.617";
+    version = "2022.4.717";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.617/file/Slint.slint-nightly-2022.4.617.vsix";
-      sha256 = "sha256-F+C8DL/UjUvp+1OsWhd8TjGm41A3rfgVf8N7Ur0Ieuw=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.717/file/Slint.slint-nightly-2022.4.717.vsix";
+      sha256 = "sha256-McxTAWewVkt3+TG6CTtHrxEOAXWqs5y2ANnHMShCT50=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -17031,10 +17031,10 @@
   };
   telesoho-vscode-markdown-paste-image = {
     pname = "telesoho-vscode-markdown-paste-image";
-    version = "0.18.6";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.18.6/file/telesoho.vscode-markdown-paste-image-0.18.6.vsix";
-      sha256 = "sha256-5FmTpbiYWaZRaYjK8ihlje/Y1GBqXdSwdiuDj4BBGI8=";
+      url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.19.0/file/telesoho.vscode-markdown-paste-image-0.19.0.vsix";
+      sha256 = "sha256-8bfsW21SRZWvRaA9evAPmx03iWu6yOdHob+v6JrGIoU=";
     };
     name = "vscode-markdown-paste-image";
     license = "(MIT)";
@@ -18135,10 +18135,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.22.2";
+    version = "0.22.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.2/file/vscjava.vscode-java-pack-0.22.2.vsix";
-      sha256 = "sha256-H0DvxiCpnupWH8RCguGhPLiVGYOG3C5XCunCq3TuzLA=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.3/file/vscjava.vscode-java-pack-0.22.3.vsix";
+      sha256 = "sha256-S53q2eFRHJxzVnW5gOXgs4eGSVPqgU65BgAAUvqL5mQ=";
     };
     name = "vscode-java-pack";
     license = "MIT";
@@ -20235,10 +20235,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.27";
+    version = "0.9.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.27/file/znck.vue-0.9.27.vsix";
-      sha256 = "sha256-2JitBDDm1CvdHbv+XT/a8MRxcQ7EqlOE7h3guM4cGUw=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.28/file/znck.vue-0.9.28.vsix";
+      sha256 = "sha256-JEaTbW4XJfri7BkvxeWZT1n3yVIll0BKAOqFXVpbNTM=";
     };
     name = "vue";
     license = "MIT";
@@ -20247,10 +20247,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.26";
+    version = "0.9.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.26/file/znck.vue-language-features-0.9.26.vsix";
-      sha256 = "sha256-Tko8jI1p3HhDKYvuVu5XnSdAdFW8vnKOiILKPxfB9wM=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.27/file/znck.vue-language-features-0.9.27.vsix";
+      sha256 = "sha256-Tl7KEBKsaGQkeIqdU3vSEraeIPX+VCRxt7A1VuYzsY4=";
     };
     name = "vue-language-features";
     license = "MIT";
