@@ -17941,6 +17941,18 @@
     publisher = "vhdlwhiz";
     description = "Snippets, templates, syntax highlighting and code completion";
   };
+  victorbjorklund-phoenix = {
+    pname = "victorbjorklund-phoenix";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/victorbjorklund/phoenix/0.1.0/file/victorbjorklund.phoenix-0.1.0.vsix";
+      sha256 = "sha256-hJfYbnIoSKsNs/8rA/5EZMmjBO3DYYQlQuj/I4OpSrM=";
+    };
+    name = "phoenix";
+    license = "MIT";
+    publisher = "victorbjorklund";
+    description = "Syntax highlighting support for HEEx";
+  };
   viktomas-slipbox = {
     pname = "viktomas-slipbox";
     version = "0.7.1";
