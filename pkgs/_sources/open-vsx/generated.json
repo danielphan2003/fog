@@ -25259,6 +25259,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "victorbjorklund-phoenix": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "victorbjorklund-phoenix",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "phoenix",
+      "license": "MIT",
+      "publisher": "victorbjorklund",
+      "description": "Syntax highlighting support for HEEx"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/victorbjorklund/phoenix/0.1.0/file/victorbjorklund.phoenix-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-hJfYbnIoSKsNs/8rA/5EZMmjBO3DYYQlQuj/I4OpSrM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "YXL-cloudmusic": {
     "pinned": false,
     "cargoLock": null,
