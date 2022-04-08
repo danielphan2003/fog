@@ -4959,10 +4959,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.3";
+    version = "0.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.3/file/arzg.xcode-theme-0.7.3.vsix";
-      sha256 = "sha256-n9T3JcUJHUZnd+Ey/vQ/tqo0o8HrDX+HDh3KL0opBRU=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.4/file/arzg.xcode-theme-0.7.4.vsix";
+      sha256 = "sha256-4wSpo9eKoVMo1kB8DG5JAR7Wv1po5YtzRe5zJaO9S0U=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -12063,15 +12063,15 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.10";
+    version = "2.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.10/file/mintlify.document-2.1.10.vsix";
-      sha256 = "sha256-1zs/GRDBf9/HtI+grJOvjudQQnQ3CDMX/0gnq3P2AEw=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.13/file/mintlify.document-2.1.13.vsix";
+      sha256 = "sha256-JeJm8md+omoPSyEXay83iKfkx4mOPlE8zyN7aSjPPHU=";
     };
     name = "document";
     license = "Apache-2.0";
     publisher = "mintlify";
-    description = "\9997\65039 JavaScript, Python, Java, Typescript & all other languages - AI powered documentation writer";
+    description = "AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages";
   };
   misodee-vscode-nbt = {
     pname = "misodee-vscode-nbt";
@@ -20235,10 +20235,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.26";
+    version = "0.9.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.26/file/znck.vue-0.9.26.vsix";
-      sha256 = "sha256-BsFi3jBttQaICoN4y764RrF/3Q3iSlqAATshn7efyQg=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.27/file/znck.vue-0.9.27.vsix";
+      sha256 = "sha256-2JitBDDm1CvdHbv+XT/a8MRxcQ7EqlOE7h3guM4cGUw=";
     };
     name = "vue";
     license = "MIT";
@@ -20247,10 +20247,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.25";
+    version = "0.9.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.25/file/znck.vue-language-features-0.9.25.vsix";
-      sha256 = "sha256-gqagP2Nlf1/MR5g7XBKsX3XC6zfPU/l0uQgeNfcUa+0=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.26/file/znck.vue-language-features-0.9.26.vsix";
+      sha256 = "sha256-Tko8jI1p3HhDKYvuVu5XnSdAdFW8vnKOiILKPxfB9wM=";
     };
     name = "vue-language-features";
     license = "MIT";
