@@ -23643,7 +23643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Dart-Code-dart-code",
-    "version": "3.38.0",
+    "version": "3.38.2",
     "passthru": {
       "name": "dart-code",
       "license": "MIT",
@@ -23651,10 +23651,10 @@
       "description": "Dart language support and debugger for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.38.0/file/Dart-Code.dart-code-3.38.0.vsix",
+      "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.38.2/file/Dart-Code.dart-code-3.38.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-akhwRY803ihe0ybNvYe3amuVxsLLENeakwDoJYUO7f0="
+      "sha256": "sha256-Rz17awcgzvxTI+2nvsXkDtvHcD6Jac4+vCs/1QH+jZQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26343,7 +26343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "borkdude-clj-kondo",
-    "version": "2022.3.9",
+    "version": "2022.4.8",
     "passthru": {
       "name": "clj-kondo",
       "license": "EPL-1",
@@ -26351,10 +26351,10 @@
       "description": "Clj-kondo, a linter for Clojure that sparks joy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.9/file/borkdude.clj-kondo-2022.3.9.vsix",
+      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.8/file/borkdude.clj-kondo-2022.4.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+F6+R9ALFZhN/Jtb+DBzUImSY3wrTpaPperOWEAOmOc="
+      "sha256": "sha256-vsXCwJ4AdTSyw7AFEpfWSVlICV2lj8ZCq4w4y1Z34JM="
     },
     "extract": null,
     "rustGitDeps": null

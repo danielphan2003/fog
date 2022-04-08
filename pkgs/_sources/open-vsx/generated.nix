@@ -699,10 +699,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.38.0";
+    version = "3.38.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.38.0/file/Dart-Code.dart-code-3.38.0.vsix";
-      sha256 = "sha256-akhwRY803ihe0ybNvYe3amuVxsLLENeakwDoJYUO7f0=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.38.2/file/Dart-Code.dart-code-3.38.2.vsix";
+      sha256 = "sha256-Rz17awcgzvxTI+2nvsXkDtvHcD6Jac4+vCs/1QH+jZQ=";
     };
     name = "dart-code";
     license = "MIT";
@@ -5487,10 +5487,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.3.9";
+    version = "2022.4.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.3.9/file/borkdude.clj-kondo-2022.3.9.vsix";
-      sha256 = "sha256-+F6+R9ALFZhN/Jtb+DBzUImSY3wrTpaPperOWEAOmOc=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.8/file/borkdude.clj-kondo-2022.4.8.vsix";
+      sha256 = "sha256-vsXCwJ4AdTSyw7AFEpfWSVlICV2lj8ZCq4w4y1Z34JM=";
     };
     name = "clj-kondo";
     license = "EPL-1";
