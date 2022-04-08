@@ -535,18 +535,18 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "100.0.1185.27";
+    version = "101.0.1210.10";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.27-1_amd64.deb";
-      sha256 = "sha256-FaMcKruY/KmtrTessRc4kAhbFhz/4IP1pqCGq//eqgM=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.10-1_amd64.deb";
+      sha256 = "sha256-vYpaAnL/xfV7IinJ9x9ZpZSwYU+5Vif8ZBhED8bHIgs=";
     };
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "101.0.1210.9";
+    version = "102.0.1217.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_101.0.1210.9-1_amd64.deb";
-      sha256 = "sha256-fKLbOmixhX1yMZ3BJAn4EZ+PkeccvE/h3iwgG8U2bXA=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1217.0-1_amd64.deb";
+      sha256 = "sha256-kgwhy2L5qQRiundgQBc2ORWPVYngQluXKX+1lT0ioZY=";
     };
   };
   minecraft-wayland = {
@@ -1000,13 +1000,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3b3d1b93507ea4ed55370c0c62fee5e889eeb1b3";
+    version = "24bdcbe5c780d1d0656d4913aa8026d7f98db67f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3b3d1b93507ea4ed55370c0c62fee5e889eeb1b3";
+      rev = "24bdcbe5c780d1d0656d4913aa8026d7f98db67f";
       fetchSubmodules = false;
-      sha256 = "sha256-0wkn1i6oX6eQ7nkMvMgimL+cp2HF59X12/UPNlqA4KI=";
+      sha256 = "sha256-VodaF0N2hC7SryLQYeqCNeis6di41fbMCJS0D8sCFk0=";
     });
   };
   tailscale-systray = {

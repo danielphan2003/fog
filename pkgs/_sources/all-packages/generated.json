@@ -537,13 +537,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-dev",
-    "version": "101.0.1210.9",
+    "version": "102.0.1217.0",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_101.0.1210.9-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1217.0-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fKLbOmixhX1yMZ3BJAn4EZ+PkeccvE/h3iwgG8U2bXA="
+      "sha256": "sha256-kgwhy2L5qQRiundgQBc2ORWPVYngQluXKX+1lT0ioZY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1531,13 +1531,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-beta",
-    "version": "100.0.1185.27",
+    "version": "101.0.1210.10",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_100.0.1185.27-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.10-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FaMcKruY/KmtrTessRc4kAhbFhz/4IP1pqCGq//eqgM="
+      "sha256": "sha256-vYpaAnL/xfV7IinJ9x9ZpZSwYU+5Vif8ZBhED8bHIgs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1720,7 +1720,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "3b3d1b93507ea4ed55370c0c62fee5e889eeb1b3",
+    "version": "24bdcbe5c780d1d0656d4913aa8026d7f98db67f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1730,8 +1730,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-0wkn1i6oX6eQ7nkMvMgimL+cp2HF59X12/UPNlqA4KI=",
-      "rev": "3b3d1b93507ea4ed55370c0c62fee5e889eeb1b3"
+      "sha256": "sha256-VodaF0N2hC7SryLQYeqCNeis6di41fbMCJS0D8sCFk0=",
+      "rev": "24bdcbe5c780d1d0656d4913aa8026d7f98db67f"
     },
     "extract": null,
     "rustGitDeps": null
