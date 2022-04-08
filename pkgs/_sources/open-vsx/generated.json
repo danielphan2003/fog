@@ -1183,7 +1183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.89.2",
+    "version": "0.89.3",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1191,10 +1191,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.89.2/file/dendron.nightly-0.89.2.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.89.3/file/dendron.nightly-0.89.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f7aaYZv0qILYj4FS7QM6H4CmAU4H60998pTZ+Kdb+bA="
+      "sha256": "sha256-rtBrVe9lwcV+A4WbJ7Gju3Nm6cV+hLGlwP3FPEia1os="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2083,7 +2083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2091,10 +2091,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.7/file/zardoy.vetur-extended-0.0.7.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.8/file/zardoy.vetur-extended-0.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0ef0/A5lL9cJjFmzBAkPM5RsAvW0pH0bPLHt/4wnYw0="
+      "sha256": "sha256-7ghQEuThpWupicsUAFYTx2mllv8BRYjkt+43tc9z9DY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3143,7 +3143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter",
-    "version": "7.1.0",
+    "version": "7.1.1",
     "passthru": {
       "name": "vscode-front-matter",
       "license": "MIT",
@@ -3151,10 +3151,10 @@
       "description": "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.0/file/eliostruyf.vscode-front-matter-7.1.0.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.1/file/eliostruyf.vscode-front-matter-7.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2KDSOBBRwzle62IPzGYR5SWezr1A98fcI+iFiYk+9DA="
+      "sha256": "sha256-rjzoD6C0Zava2YwK8UPq5RUelB+HzRrJgu3CB1gEdNk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9483,7 +9483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2109560",
+    "version": "7.1.2113891",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9491,10 +9491,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2109560/file/eliostruyf.vscode-front-matter-beta-7.1.2109560.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2113891/file/eliostruyf.vscode-front-matter-beta-7.1.2113891.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gpZU1lxjt9ZAlGwdg8VnKZ+E8VKgrkqmaE45039X+UA="
+      "sha256": "sha256-0F82DC3Q3bchO/fbxrqnIx82RNSdBMtauSVQHrz7Tvo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17483,7 +17483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shivaprasanth-dothttp-code",
-    "version": "0.0.41",
+    "version": "0.0.42",
     "passthru": {
       "name": "dothttp-code",
       "license": "Apache-2.0",
@@ -17491,10 +17491,10 @@
       "description": "A Http Client for sending to and receiving from http endpoints (dothttp)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.41/file/shivaprasanth.dothttp-code-0.0.41.vsix",
+      "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.42/file/shivaprasanth.dothttp-code-0.0.42.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QuCqt8Mwi3Wk/cN1bo3PMELhSUjO9hcnHlLZOFAQlZU="
+      "sha256": "sha256-8udFltS/Xi8uD93YH3u3SXhG/529p/GRlDInvoEcXX4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33063,18 +33063,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-bridge-for-git-explorer",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "passthru": {
       "name": "bridge-for-git-explorer",
       "license": "",
       "publisher": "BroadcomMFD",
-      "description": "Add elements from up the CA Endevor map to your synchronized Git-Endevor repository."
+      "description": "Add elements from up the Endevor map to your synchronized Git-Endevor repository."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.3/file/BroadcomMFD.bridge-for-git-explorer-0.2.3.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.4/file/BroadcomMFD.bridge-for-git-explorer-0.2.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9phCML0fmLlWT0TNllAVPETK9Kdmr1X4OoViNimGAhg="
+      "sha256": "sha256-9p4lQirlOq238AEE8wCF+JQij79dKH2NQDhK0qnmQPI="
     },
     "extract": null,
     "rustGitDeps": null

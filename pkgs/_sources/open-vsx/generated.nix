@@ -231,15 +231,15 @@
   };
   BroadcomMFD-bridge-for-git-explorer = {
     pname = "BroadcomMFD-bridge-for-git-explorer";
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.3/file/BroadcomMFD.bridge-for-git-explorer-0.2.3.vsix";
-      sha256 = "sha256-9phCML0fmLlWT0TNllAVPETK9Kdmr1X4OoViNimGAhg=";
+      url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.4/file/BroadcomMFD.bridge-for-git-explorer-0.2.4.vsix";
+      sha256 = "sha256-9p4lQirlOq238AEE8wCF+JQij79dKH2NQDhK0qnmQPI=";
     };
     name = "bridge-for-git-explorer";
     license = "";
     publisher = "BroadcomMFD";
-    description = "Add elements from up the CA Endevor map to your synchronized Git-Endevor repository.";
+    description = "Add elements from up the Endevor map to your synchronized Git-Endevor repository.";
   };
   BroadcomMFD-ccf = {
     pname = "BroadcomMFD-ccf";
@@ -6915,10 +6915,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.89.2";
+    version = "0.89.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.89.2/file/dendron.nightly-0.89.2.vsix";
-      sha256 = "sha256-f7aaYZv0qILYj4FS7QM6H4CmAU4H60998pTZ+Kdb+bA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.89.3/file/dendron.nightly-0.89.3.vsix";
+      sha256 = "sha256-rtBrVe9lwcV+A4WbJ7Gju3Nm6cV+hLGlwP3FPEia1os=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7383,10 +7383,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.1.0";
+    version = "7.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.0/file/eliostruyf.vscode-front-matter-7.1.0.vsix";
-      sha256 = "sha256-2KDSOBBRwzle62IPzGYR5SWezr1A98fcI+iFiYk+9DA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.1/file/eliostruyf.vscode-front-matter-7.1.1.vsix";
+      sha256 = "sha256-rjzoD6C0Zava2YwK8UPq5RUelB+HzRrJgu3CB1gEdNk=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7395,10 +7395,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2109560";
+    version = "7.1.2113891";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2109560/file/eliostruyf.vscode-front-matter-beta-7.1.2109560.vsix";
-      sha256 = "sha256-gpZU1lxjt9ZAlGwdg8VnKZ+E8VKgrkqmaE45039X+UA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2113891/file/eliostruyf.vscode-front-matter-beta-7.1.2113891.vsix";
+      sha256 = "sha256-0F82DC3Q3bchO/fbxrqnIx82RNSdBMtauSVQHrz7Tvo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -15927,10 +15927,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.41";
+    version = "0.0.42";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.41/file/shivaprasanth.dothttp-code-0.0.41.vsix";
-      sha256 = "sha256-QuCqt8Mwi3Wk/cN1bo3PMELhSUjO9hcnHlLZOFAQlZU=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.42/file/shivaprasanth.dothttp-code-0.0.42.vsix";
+      sha256 = "sha256-8udFltS/Xi8uD93YH3u3SXhG/529p/GRlDInvoEcXX4=";
     };
     name = "dothttp-code";
     license = "Apache-2.0";
@@ -20055,10 +20055,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.7/file/zardoy.vetur-extended-0.0.7.vsix";
-      sha256 = "sha256-0ef0/A5lL9cJjFmzBAkPM5RsAvW0pH0bPLHt/4wnYw0=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.8/file/zardoy.vetur-extended-0.0.8.vsix";
+      sha256 = "sha256-7ghQEuThpWupicsUAFYTx2mllv8BRYjkt+43tc9z9DY=";
     };
     name = "vetur-extended";
     license = "MIT";
