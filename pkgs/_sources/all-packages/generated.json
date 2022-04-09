@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "7ba3b171611235cdcd2b55d6c0f094e9f3cd44de",
+    "version": "79ea8483cd0459aa59a156d5588adef23dfa6c82",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-UTX/zJaKO5FiliSXyp86q+x2qGWslCKLb/R4iYhOsr0=",
-      "rev": "7ba3b171611235cdcd2b55d6c0f094e9f3cd44de"
+      "sha256": "sha256-sGtLCXaGUnsSQn9R35Zrfy1BLsXAsxkM91hKPMB+4sQ=",
+      "rev": "79ea8483cd0459aa59a156d5588adef23dfa6c82"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1661,7 +1661,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "minecraft-wayland",
-    "version": "647d760db351370bc795521c0a3b07a14cf74eea",
+    "version": "086b2457e8b769d6af44917759403f76b8b3b90e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1671,8 +1671,8 @@
       "name": null,
       "repo": "minecraft-wayland",
       "type": "github",
-      "sha256": "sha256-mCIavioX+R6DkER3Hsjrgz+WL7qhsKcLsk9oh8DUvZk=",
-      "rev": "647d760db351370bc795521c0a3b07a14cf74eea"
+      "sha256": "sha256-WvDS1z33/j8uXMNFGqZ8D0kRnCqhKzgtXdMVOoo9vxg=",
+      "rev": "086b2457e8b769d6af44917759403f76b8b3b90e"
     },
     "extract": null,
     "rustGitDeps": null
