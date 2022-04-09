@@ -4959,10 +4959,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.4";
+    version = "0.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.4/file/arzg.xcode-theme-0.7.4.vsix";
-      sha256 = "sha256-4wSpo9eKoVMo1kB8DG5JAR7Wv1po5YtzRe5zJaO9S0U=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.5/file/arzg.xcode-theme-0.7.5.vsix";
+      sha256 = "sha256-V5kvph0ESAupbOk3vptiVtS+PtB2TkJQzIFjAFKpTwE=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -6027,10 +6027,10 @@
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.2/file/cmoog.sqlnotebook-0.5.2.vsix";
-      sha256 = "sha256-K8R3FTGEdyH1HpbgqQNFKzPEnMhclEzHQah0ylH6toM=";
+      url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.3/file/cmoog.sqlnotebook-0.5.3.vsix";
+      sha256 = "sha256-k6vFZyPR3xxMw1ic+O7SRBbe70B+6rA07z/ICqYBvpk=";
     };
     name = "sqlnotebook";
     license = "MIT";

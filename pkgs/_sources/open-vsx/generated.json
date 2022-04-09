@@ -11903,7 +11903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cmoog-sqlnotebook",
-    "version": "0.5.2",
+    "version": "0.5.3",
     "passthru": {
       "name": "sqlnotebook",
       "license": "MIT",
@@ -11911,10 +11911,10 @@
       "description": "View SQL files as notebooks. Execute cells and view query output."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.2/file/cmoog.sqlnotebook-0.5.2.vsix",
+      "url": "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.3/file/cmoog.sqlnotebook-0.5.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-K8R3FTGEdyH1HpbgqQNFKzPEnMhclEzHQah0ylH6toM="
+      "sha256": "sha256-k6vFZyPR3xxMw1ic+O7SRBbe70B+6rA07z/ICqYBvpk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22263,7 +22263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.7.4",
+    "version": "0.7.5",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -22271,10 +22271,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.4/file/arzg.xcode-theme-0.7.4.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.5/file/arzg.xcode-theme-0.7.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4wSpo9eKoVMo1kB8DG5JAR7Wv1po5YtzRe5zJaO9S0U="
+      "sha256": "sha256-V5kvph0ESAupbOk3vptiVtS+PtB2TkJQzIFjAFKpTwE="
     },
     "extract": null,
     "rustGitDeps": null
