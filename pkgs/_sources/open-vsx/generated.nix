@@ -16443,10 +16443,10 @@
   };
   steedos-steedosdx-vscode = {
     pname = "steedos-steedosdx-vscode";
-    version = "2.1.3";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.1.3/file/steedos.steedosdx-vscode-2.1.3.vsix";
-      sha256 = "sha256-ZKd2EHgpaEz9wxeUCNSd41/M+9wgVCIkSUO2COVPgkY=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.1/file/steedos.steedosdx-vscode-2.2.1.vsix";
+      sha256 = "sha256-3jTkVUxBadyw0EaTzOLBth0uBsTLB3G+DF3U8fjoVis=";
     };
     name = "steedosdx-vscode";
     license = "MIT";
@@ -16455,13 +16455,13 @@
   };
   steedos-steedosdx-vscode-core = {
     pname = "steedos-steedosdx-vscode-core";
-    version = "2.1.3";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.1.3/file/steedos.steedosdx-vscode-core-2.1.3.vsix";
-      sha256 = "sha256-HZ8BUeFggN7bDMbZpM4TOgrquO0p16etWb2NzaWnn2Q=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.1/file/steedos.steedosdx-vscode-core-2.2.1.vsix";
+      sha256 = "sha256-Xwct0Df/i77P2mp7AqCp0ew9CxWUTZi/TWxU40gvYx0=";
     };
     name = "steedosdx-vscode-core";
-    license = "Apache-2.0";
+    license = "MIT";
     publisher = "steedos";
     description = "Provides integration with the Steedos CLI";
   };
@@ -16911,10 +16911,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.14.0";
+    version = "105.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.14.0/file/svelte.svelte-vscode-105.14.0.vsix";
-      sha256 = "sha256-0JuTn6ZejraD/+8NXigS8ceYB2on0rm/6eDizFozikg=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.15.0/file/svelte.svelte-vscode-105.15.0.vsix";
+      sha256 = "sha256-19PEhM5l15ca02AvBeyiH0gr1AHxZlRzljcc+PQSVxA=";
     };
     name = "svelte-vscode";
     license = "MIT";
@@ -20283,10 +20283,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.29";
+    version = "0.9.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.29/file/znck.vue-0.9.29.vsix";
-      sha256 = "sha256-JGElN1vHSjWr6W34OPef8QpytyyQKDm6eOHLrbtWnqo=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.30/file/znck.vue-0.9.30.vsix";
+      sha256 = "sha256-A+Lsh/Z/Ok7xIpjp3k8IE6O5hH3E1dPLBUakWrilxxg=";
     };
     name = "vue";
     license = "MIT";
@@ -20295,10 +20295,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.28";
+    version = "0.9.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.28/file/znck.vue-language-features-0.9.28.vsix";
-      sha256 = "sha256-67tm6bLfIcQQXHSuxJV7iEuxx5pJm8VbtpJRBxce12w=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.29/file/znck.vue-language-features-0.9.29.vsix";
+      sha256 = "sha256-PZrWHqHwDuiKuBcmbaVceA7lbSKdQgClLVaTy7pIRlQ=";
     };
     name = "vue-language-features";
     license = "MIT";

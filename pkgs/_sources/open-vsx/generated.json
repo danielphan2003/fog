@@ -2383,7 +2383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "steedos-steedosdx-vscode",
-    "version": "2.1.3",
+    "version": "2.2.1",
     "passthru": {
       "name": "steedosdx-vscode",
       "license": "MIT",
@@ -2391,10 +2391,10 @@
       "description": "Extensions for developing on the Steedos Platform"
     },
     "src": {
-      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.1.3/file/steedos.steedosdx-vscode-2.1.3.vsix",
+      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.1/file/steedos.steedosdx-vscode-2.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZKd2EHgpaEz9wxeUCNSd41/M+9wgVCIkSUO2COVPgkY="
+      "sha256": "sha256-3jTkVUxBadyw0EaTzOLBth0uBsTLB3G+DF3U8fjoVis="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.28",
+    "version": "0.9.29",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5691,10 +5691,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.28/file/znck.vue-language-features-0.9.28.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.29/file/znck.vue-language-features-0.9.29.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-67tm6bLfIcQQXHSuxJV7iEuxx5pJm8VbtpJRBxce12w="
+      "sha256": "sha256-PZrWHqHwDuiKuBcmbaVceA7lbSKdQgClLVaTy7pIRlQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9183,7 +9183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "svelte-svelte-vscode",
-    "version": "105.14.0",
+    "version": "105.15.0",
     "passthru": {
       "name": "svelte-vscode",
       "license": "MIT",
@@ -9191,10 +9191,10 @@
       "description": "Svelte language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.14.0/file/svelte.svelte-vscode-105.14.0.vsix",
+      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.15.0/file/svelte.svelte-vscode-105.15.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0JuTn6ZejraD/+8NXigS8ceYB2on0rm/6eDizFozikg="
+      "sha256": "sha256-19PEhM5l15ca02AvBeyiH0gr1AHxZlRzljcc+PQSVxA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20483,7 +20483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.29",
+    "version": "0.9.30",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20491,10 +20491,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.29/file/znck.vue-0.9.29.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.30/file/znck.vue-0.9.30.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JGElN1vHSjWr6W34OPef8QpytyyQKDm6eOHLrbtWnqo="
+      "sha256": "sha256-A+Lsh/Z/Ok7xIpjp3k8IE6O5hH3E1dPLBUakWrilxxg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21723,18 +21723,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "steedos-steedosdx-vscode-core",
-    "version": "2.1.3",
+    "version": "2.2.1",
     "passthru": {
       "name": "steedosdx-vscode-core",
-      "license": "Apache-2.0",
+      "license": "MIT",
       "publisher": "steedos",
       "description": "Provides integration with the Steedos CLI"
     },
     "src": {
-      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.1.3/file/steedos.steedosdx-vscode-core-2.1.3.vsix",
+      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.1/file/steedos.steedosdx-vscode-core-2.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HZ8BUeFggN7bDMbZpM4TOgrquO0p16etWb2NzaWnn2Q="
+      "sha256": "sha256-Xwct0Df/i77P2mp7AqCp0ew9CxWUTZi/TWxU40gvYx0="
     },
     "extract": null,
     "rustGitDeps": null
