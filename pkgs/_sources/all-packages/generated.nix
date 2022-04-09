@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "7ba3b171611235cdcd2b55d6c0f094e9f3cd44de";
+    version = "79ea8483cd0459aa59a156d5588adef23dfa6c82";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "7ba3b171611235cdcd2b55d6c0f094e9f3cd44de";
+      rev = "79ea8483cd0459aa59a156d5588adef23dfa6c82";
       fetchSubmodules = false;
-      sha256 = "sha256-UTX/zJaKO5FiliSXyp86q+x2qGWslCKLb/R4iYhOsr0=";
+      sha256 = "sha256-sGtLCXaGUnsSQn9R35Zrfy1BLsXAsxkM91hKPMB+4sQ=";
     });
   };
   caddy = {
@@ -551,13 +551,13 @@
   };
   minecraft-wayland = {
     pname = "minecraft-wayland";
-    version = "647d760db351370bc795521c0a3b07a14cf74eea";
+    version = "086b2457e8b769d6af44917759403f76b8b3b90e";
     src = fetchFromGitHub ({
       owner = "Admicos";
       repo = "minecraft-wayland";
-      rev = "647d760db351370bc795521c0a3b07a14cf74eea";
+      rev = "086b2457e8b769d6af44917759403f76b8b3b90e";
       fetchSubmodules = false;
-      sha256 = "sha256-mCIavioX+R6DkER3Hsjrgz+WL7qhsKcLsk9oh8DUvZk=";
+      sha256 = "sha256-WvDS1z33/j8uXMNFGqZ8D0kRnCqhKzgtXdMVOoo9vxg=";
     });
   };
   netdata = {
