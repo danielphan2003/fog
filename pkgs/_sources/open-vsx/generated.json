@@ -9259,6 +9259,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "qufiwefefwoyn-inline-sql-syntax": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "qufiwefefwoyn-inline-sql-syntax",
+    "version": "2.10.3",
+    "passthru": {
+      "name": "inline-sql-syntax",
+      "license": "MIT",
+      "publisher": "qufiwefefwoyn",
+      "description": "Highlight and lint SQL strings and SQL files. Python, Go, Rust, JS, TS, Ruby, Java, C#, PHP."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/qufiwefefwoyn/inline-sql-syntax/2.10.3/file/qufiwefefwoyn.inline-sql-syntax-2.10.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-LNSwqz9u3M5A8LBpeYbDHxtZMdnJbhfTP/RJtIZRtGs="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "earshinov-permute-lines": {
     "pinned": false,
     "cargoLock": null,
@@ -24083,7 +24103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zjffun-toolboxes",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "passthru": {
       "name": "toolboxes",
       "license": "MIT",
@@ -24091,10 +24111,10 @@
       "description": "Easy to use and create various tools."
     },
     "src": {
-      "url": "https://open-vsx.org/api/zjffun/toolboxes/0.0.7/file/zjffun.toolboxes-0.0.7.vsix",
+      "url": "https://open-vsx.org/api/zjffun/toolboxes/0.0.8/file/zjffun.toolboxes-0.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7nJhnTHBUUFiEsiXocV8Xbcma3PU9n+GVXoVbmhbXw0="
+      "sha256": "sha256-vQ5ERX/WKjzad31d/jZOIHomOYTtYXOHjak0ZOo6v38="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28275,6 +28295,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-IqsrJu0HNXR2HkNcLT/i+mdrkUMt+BLbP5mWpmfsOr8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "zjffun-gotofolder": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "zjffun-gotofolder",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "gotofolder",
+      "license": "MIT",
+      "publisher": "zjffun",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/zjffun/gotofolder/0.0.1/file/zjffun.gotofolder-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-YFcTInINkq1PGhcW9JLc9IPKnITxmN2I6sxYo1M157A="
     },
     "extract": null,
     "rustGitDeps": null

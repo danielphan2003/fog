@@ -14497,6 +14497,18 @@
     publisher = "quarto";
     description = "Extension for the Quarto scientific and technical publishing system.";
   };
+  qufiwefefwoyn-inline-sql-syntax = {
+    pname = "qufiwefefwoyn-inline-sql-syntax";
+    version = "2.10.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/qufiwefefwoyn/inline-sql-syntax/2.10.3/file/qufiwefefwoyn.inline-sql-syntax-2.10.3.vsix";
+      sha256 = "sha256-LNSwqz9u3M5A8LBpeYbDHxtZMdnJbhfTP/RJtIZRtGs=";
+    };
+    name = "inline-sql-syntax";
+    license = "MIT";
+    publisher = "qufiwefefwoyn";
+    description = "Highlight and lint SQL strings and SQL files. Python, Go, Rust, JS, TS, Ruby, Java, C#, PHP.";
+  };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
     version = "2.3.1";
@@ -20245,6 +20257,18 @@
     publisher = "ziyasal";
     description = "Jump to a source code line in GitHub, GitLab, Gitea, Bitbucket, VisualStudio.com !";
   };
+  zjffun-gotofolder = {
+    pname = "zjffun-gotofolder";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zjffun/gotofolder/0.0.1/file/zjffun.gotofolder-0.0.1.vsix";
+      sha256 = "sha256-YFcTInINkq1PGhcW9JLc9IPKnITxmN2I6sxYo1M157A=";
+    };
+    name = "gotofolder";
+    license = "MIT";
+    publisher = "zjffun";
+    description = "";
+  };
   zjffun-snippetsmanager = {
     pname = "zjffun-snippetsmanager";
     version = "0.1.4";
@@ -20259,10 +20283,10 @@
   };
   zjffun-toolboxes = {
     pname = "zjffun-toolboxes";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zjffun/toolboxes/0.0.7/file/zjffun.toolboxes-0.0.7.vsix";
-      sha256 = "sha256-7nJhnTHBUUFiEsiXocV8Xbcma3PU9n+GVXoVbmhbXw0=";
+      url = "https://open-vsx.org/api/zjffun/toolboxes/0.0.8/file/zjffun.toolboxes-0.0.8.vsix";
+      sha256 = "sha256-vQ5ERX/WKjzad31d/jZOIHomOYTtYXOHjak0ZOo6v38=";
     };
     name = "toolboxes";
     license = "MIT";
