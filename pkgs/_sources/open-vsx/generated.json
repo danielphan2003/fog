@@ -5783,7 +5783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.51",
+    "version": "0.0.53",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5791,10 +5791,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.51/file/zardoy.zardoy-experiments-0.0.51.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.53/file/zardoy.zardoy-experiments-0.0.53.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LTzhl59/AKfdrfJZfXKkxTf1ZabJ3aV8W8/GTuh4UtM="
+      "sha256": "sha256-XOuqs8xPUzRO0AWJHwzTbv8HPJClSs2j4nfUzuBleyY="
     },
     "extract": null,
     "rustGitDeps": null
