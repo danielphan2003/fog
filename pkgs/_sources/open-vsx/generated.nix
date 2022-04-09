@@ -20259,15 +20259,15 @@
   };
   zjffun-gotofolder = {
     pname = "zjffun-gotofolder";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zjffun/gotofolder/0.0.1/file/zjffun.gotofolder-0.0.1.vsix";
-      sha256 = "sha256-YFcTInINkq1PGhcW9JLc9IPKnITxmN2I6sxYo1M157A=";
+      url = "https://open-vsx.org/api/zjffun/gotofolder/0.0.2/file/zjffun.gotofolder-0.0.2.vsix";
+      sha256 = "sha256-HOT6ig8S7609ZhgyTguijOQVt2/0azwud9VDs8wvNqA=";
     };
     name = "gotofolder";
     license = "MIT";
     publisher = "zjffun";
-    description = "";
+    description = "Quick go to folder.";
   };
   zjffun-snippetsmanager = {
     pname = "zjffun-snippetsmanager";
