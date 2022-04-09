@@ -1366,7 +1366,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arkenfox-userjs",
-    "version": "eb98f06d69610644db94860f3927e97b24b2d1ca",
+    "version": "4ff931781a1bf012e0e7e2ec89dc5c2a9bedd890",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1376,8 +1376,8 @@
       "name": null,
       "repo": "user.js",
       "type": "github",
-      "sha256": "sha256-d+IsfxBn9iZJljoH/2ca+pqzxtyvJ6oKS2W2d3dNafE=",
-      "rev": "eb98f06d69610644db94860f3927e97b24b2d1ca"
+      "sha256": "sha256-ScO19N/EVpmMzdN2kkfjYIJN7c0CQdZJ9qMZReqMpI4=",
+      "rev": "4ff931781a1bf012e0e7e2ec89dc5c2a9bedd890"
     },
     "extract": null,
     "rustGitDeps": null
