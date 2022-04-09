@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.717";
+    version = "2022.4.819";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.717/file/Slint.slint-nightly-2022.4.717.vsix";
-      sha256 = "sha256-McxTAWewVkt3+TG6CTtHrxEOAXWqs5y2ANnHMShCT50=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.819/file/Slint.slint-nightly-2022.4.819.vsix";
+      sha256 = "sha256-reyoZ5E2nEJhvC4DOyKls1uHqceqLkLJfk4GARreXQk=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -7515,10 +7515,10 @@
   };
   emmanuelbeziat-vscode-great-icons = {
     pname = "emmanuelbeziat-vscode-great-icons";
-    version = "2.1.85";
+    version = "2.1.86";
     src = fetchurl {
-      url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.85/file/emmanuelbeziat.vscode-great-icons-2.1.85.vsix";
-      sha256 = "sha256-FvATn3/3mEE9h5WIJod7kpUTP9yBTHz+gcZicb9N6S0=";
+      url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.86/file/emmanuelbeziat.vscode-great-icons-2.1.86.vsix";
+      sha256 = "sha256-JS6Lx3FkJ2A6VXYnlxKtrVFZRyxHe/uI7GRr1iCtqcs=";
     };
     name = "vscode-great-icons";
     license = "MIT";
@@ -14595,10 +14595,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.14.4";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.4/file/rangav.vscode-thunder-client-1.14.4.vsix";
-      sha256 = "sha256-fCwSLLoVuyXOfLyd7cmBzQQ8XYXYYV1o031p9L9rR3A=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.0/file/rangav.vscode-thunder-client-1.16.0.vsix";
+      sha256 = "sha256-qTcWCp5qbUREltwTbB8WqtYfftzuUNIoR1ANwjJIsKw=";
     };
     name = "vscode-thunder-client";
     license = "";

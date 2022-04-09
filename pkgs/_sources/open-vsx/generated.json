@@ -15123,7 +15123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.717",
+    "version": "2022.4.819",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15131,10 +15131,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.717/file/Slint.slint-nightly-2022.4.717.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.819/file/Slint.slint-nightly-2022.4.819.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-McxTAWewVkt3+TG6CTtHrxEOAXWqs5y2ANnHMShCT50="
+      "sha256": "sha256-reyoZ5E2nEJhvC4DOyKls1uHqceqLkLJfk4GARreXQk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19043,7 +19043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "emmanuelbeziat-vscode-great-icons",
-    "version": "2.1.85",
+    "version": "2.1.86",
     "passthru": {
       "name": "vscode-great-icons",
       "license": "MIT",
@@ -19051,10 +19051,10 @@
       "description": "A big pack of icons (200+) for your files."
     },
     "src": {
-      "url": "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.85/file/emmanuelbeziat.vscode-great-icons-2.1.85.vsix",
+      "url": "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.86/file/emmanuelbeziat.vscode-great-icons-2.1.86.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FvATn3/3mEE9h5WIJod7kpUTP9yBTHz+gcZicb9N6S0="
+      "sha256": "sha256-JS6Lx3FkJ2A6VXYnlxKtrVFZRyxHe/uI7GRr1iCtqcs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24323,7 +24323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "rangav-vscode-thunder-client",
-    "version": "1.14.4",
+    "version": "1.16.0",
     "passthru": {
       "name": "vscode-thunder-client",
       "license": "",
@@ -24331,10 +24331,10 @@
       "description": "Lightweight Rest API Client for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.14.4/file/rangav.vscode-thunder-client-1.14.4.vsix",
+      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.0/file/rangav.vscode-thunder-client-1.16.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fCwSLLoVuyXOfLyd7cmBzQQ8XYXYYV1o031p9L9rR3A="
+      "sha256": "sha256-qTcWCp5qbUREltwTbB8WqtYfftzuUNIoR1ANwjJIsKw="
     },
     "extract": null,
     "rustGitDeps": null
