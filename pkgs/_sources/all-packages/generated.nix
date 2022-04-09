@@ -1259,13 +1259,13 @@
   };
   yubikey-guide = {
     pname = "yubikey-guide";
-    version = "4615b5e9192f2e3f2e24f0d998b4029efdd3f2c2";
+    version = "dc29279197bbf866b63976395d2c69b1a95ad088";
     src = fetchFromGitHub ({
       owner = "drduh";
       repo = "YubiKey-Guide";
-      rev = "4615b5e9192f2e3f2e24f0d998b4029efdd3f2c2";
+      rev = "dc29279197bbf866b63976395d2c69b1a95ad088";
       fetchSubmodules = false;
-      sha256 = "sha256-+6Vp3ZSVdbfUZ3vKvSUrJtcK08PM12O382nTzTjv+Q4=";
+      sha256 = "sha256-MMcfiJ31SsrJdPCYn+5MuUxqLJzhY4VeqOS02T9AlL8=";
     });
   };
   zoom-us = {

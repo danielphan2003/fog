@@ -1386,7 +1386,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yubikey-guide",
-    "version": "4615b5e9192f2e3f2e24f0d998b4029efdd3f2c2",
+    "version": "dc29279197bbf866b63976395d2c69b1a95ad088",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1396,8 +1396,8 @@
       "name": null,
       "repo": "YubiKey-Guide",
       "type": "github",
-      "sha256": "sha256-+6Vp3ZSVdbfUZ3vKvSUrJtcK08PM12O382nTzTjv+Q4=",
-      "rev": "4615b5e9192f2e3f2e24f0d998b4029efdd3f2c2"
+      "sha256": "sha256-MMcfiJ31SsrJdPCYn+5MuUxqLJzhY4VeqOS02T9AlL8=",
+      "rev": "dc29279197bbf866b63976395d2c69b1a95ad088"
     },
     "extract": null,
     "rustGitDeps": null
