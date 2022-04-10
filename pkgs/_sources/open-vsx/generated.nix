@@ -4959,10 +4959,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.5";
+    version = "0.7.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.5/file/arzg.xcode-theme-0.7.5.vsix";
-      sha256 = "sha256-V5kvph0ESAupbOk3vptiVtS+PtB2TkJQzIFjAFKpTwE=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.6/file/arzg.xcode-theme-0.7.6.vsix";
+      sha256 = "sha256-3A7p1CWCPZKQiP72iAAgsAIuMA3QZYiWMhHuo+SBcjg=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -5775,10 +5775,10 @@
   };
   caponetto-vscode-diff-viewer = {
     pname = "caponetto-vscode-diff-viewer";
-    version = "1.1.14";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/caponetto/vscode-diff-viewer/1.1.14/file/caponetto.vscode-diff-viewer-1.1.14.vsix";
-      sha256 = "sha256-twvb+45oz7m0lBUoY3ipP70w2Hxn//INC30J1Y/rX2k=";
+      url = "https://open-vsx.org/api/caponetto/vscode-diff-viewer/1.2.0/file/caponetto.vscode-diff-viewer-1.2.0.vsix";
+      sha256 = "sha256-TZvbDmgj5GyrXida0IiK5Z/mbtk4zNGirKoJVMl3TXk=";
     };
     name = "vscode-diff-viewer";
     license = "MIT";
