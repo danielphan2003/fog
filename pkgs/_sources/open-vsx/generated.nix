@@ -12243,10 +12243,10 @@
   };
   moshfeu-diff-merge = {
     pname = "moshfeu-diff-merge";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.6.1/file/moshfeu.diff-merge-0.6.1.vsix";
-      sha256 = "sha256-/Y6PhiU6kYaEK0j8JpIO4Mg9hM60I7nrPldpvyGx69g=";
+      url = "https://open-vsx.org/api/moshfeu/diff-merge/0.7.0/file/moshfeu.diff-merge-0.7.0.vsix";
+      sha256 = "sha256-msu6aFIJ0sS0rd5RN45MQ6Zi8gFjrgCjMwXoKvOUP5o=";
     };
     name = "diff-merge";
     license = "MIT";
@@ -14355,10 +14355,10 @@
   };
   prince781-vala = {
     pname = "prince781-vala";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prince781/vala/1.0.5/file/prince781.vala-1.0.5.vsix";
-      sha256 = "sha256-vTEsoIsdEevgUXFbDGm2o98xeGVmu7fOT0dCjTzv98o=";
+      url = "https://open-vsx.org/api/prince781/vala/1.0.6/file/prince781.vala-1.0.6.vsix";
+      sha256 = "sha256-Ty2cGaOkozOes9kYGSjn/i1N+S9y3WOqgN8oedAU1zg=";
     };
     name = "vala";
     license = "MIT";
