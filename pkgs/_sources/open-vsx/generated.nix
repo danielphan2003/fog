@@ -14163,10 +14163,10 @@
   };
   piousdeer-adwaita-theme = {
     pname = "piousdeer-adwaita-theme";
-    version = "1.0.3";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.3/file/piousdeer.adwaita-theme-1.0.3.vsix";
-      sha256 = "sha256-4VeTZSQ4Fd4jWqZ91MBp5VZI2p+EeeyQ+6KzIUDsYFY=";
+      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.4/file/piousdeer.adwaita-theme-1.0.4.vsix";
+      sha256 = "sha256-liL7njZ4BvBFy3hR7auhdbZGXL+Z9Re06kP5vvsr6rs=";
     };
     name = "adwaita-theme";
     license = "GPL-3.0-only";
@@ -20331,10 +20331,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.36";
+    version = "0.9.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.36/file/znck.vue-0.9.36.vsix";
-      sha256 = "sha256-P3Ps3xjqzy28a4hItHj+z4DqOEowdkOpgnJ/O4oa3g8=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.37/file/znck.vue-0.9.37.vsix";
+      sha256 = "sha256-eqTkDx7fj/Rz58ky0dt73+cTa8svOCjOFHufscuEbqo=";
     };
     name = "vue";
     license = "MIT";
@@ -20343,10 +20343,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.34";
+    version = "0.9.35";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.34/file/znck.vue-language-features-0.9.34.vsix";
-      sha256 = "sha256-/iJd8Afqia5vr3GIAyGTvJVqb8ejztNYMXM5p17PNCQ=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.35/file/znck.vue-language-features-0.9.35.vsix";
+      sha256 = "sha256-rB2OC3by8SpJxnKIUWRjAqcECXaEbaLg4OjJmMfPKSU=";
     };
     name = "vue-language-features";
     license = "MIT";
