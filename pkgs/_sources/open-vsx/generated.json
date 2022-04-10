@@ -563,7 +563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.6.11",
+    "version": "0.6.12",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -571,10 +571,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.11/file/halcyontechltd.vscode-rpgle-0.6.11.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.12/file/halcyontechltd.vscode-rpgle-0.6.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yOwtjCptfehx51sVKaVD2WAdh4irAcwLOhLBbhETe9I="
+      "sha256": "sha256-NLx+rXdARiti1ErgcUwg59iFYisS6G/bOl7XwXh3SCY="
     },
     "extract": null,
     "rustGitDeps": null
