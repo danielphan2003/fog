@@ -14161,6 +14161,18 @@
     publisher = "pinage404";
     description = "Opinionated extension pack to customize and improve user interface (technology and language agnostic)";
   };
+  piousdeer-adwaita-theme = {
+    pname = "piousdeer-adwaita-theme";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.2/file/piousdeer.adwaita-theme-1.0.2.vsix";
+      sha256 = "sha256-+LrdVIx1vDS1fQcxfWvBNjXO8/Sp5fCKZ1cMkJCWv1U=";
+    };
+    name = "adwaita-theme";
+    license = "GPL-3.0-only";
+    publisher = "piousdeer";
+    description = "Theme for the GNOME desktop";
+  };
   platymuus-dm-langclient = {
     pname = "platymuus-dm-langclient";
     version = "0.2.2";
@@ -20307,10 +20319,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.33";
+    version = "0.9.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.33/file/znck.vue-0.9.33.vsix";
-      sha256 = "sha256-qn1bGjOOcB/HjqaxOfbwxPrjBj0nV8iVAMlXt+I3m6M=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.36/file/znck.vue-0.9.36.vsix";
+      sha256 = "sha256-P3Ps3xjqzy28a4hItHj+z4DqOEowdkOpgnJ/O4oa3g8=";
     };
     name = "vue";
     license = "MIT";
@@ -20319,10 +20331,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.32";
+    version = "0.9.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.32/file/znck.vue-language-features-0.9.32.vsix";
-      sha256 = "sha256-ooAclKpzuDh1vRpVwNUsNPBloB0YS5+jR/Ch/32qOHw=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.34/file/znck.vue-language-features-0.9.34.vsix";
+      sha256 = "sha256-/iJd8Afqia5vr3GIAyGTvJVqb8ejztNYMXM5p17PNCQ=";
     };
     name = "vue-language-features";
     license = "MIT";

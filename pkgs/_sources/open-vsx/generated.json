@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.32",
+    "version": "0.9.34",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5691,10 +5691,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.32/file/znck.vue-language-features-0.9.32.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.34/file/znck.vue-language-features-0.9.34.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ooAclKpzuDh1vRpVwNUsNPBloB0YS5+jR/Ch/32qOHw="
+      "sha256": "sha256-/iJd8Afqia5vr3GIAyGTvJVqb8ejztNYMXM5p17PNCQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10015,6 +10015,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-I7ur5yZRaKYMCCXEAlWJ5RD61rQbK1vFX8Phk27J4gw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "piousdeer-adwaita-theme": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "piousdeer-adwaita-theme",
+    "version": "1.0.2",
+    "passthru": {
+      "name": "adwaita-theme",
+      "license": "GPL-3.0-only",
+      "publisher": "piousdeer",
+      "description": "Theme for the GNOME desktop"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.2/file/piousdeer.adwaita-theme-1.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-+LrdVIx1vDS1fQcxfWvBNjXO8/Sp5fCKZ1cMkJCWv1U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20503,7 +20523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.33",
+    "version": "0.9.36",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20511,10 +20531,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.33/file/znck.vue-0.9.33.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.36/file/znck.vue-0.9.36.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qn1bGjOOcB/HjqaxOfbwxPrjBj0nV8iVAMlXt+I3m6M="
+      "sha256": "sha256-P3Ps3xjqzy28a4hItHj+z4DqOEowdkOpgnJ/O4oa3g8="
     },
     "extract": null,
     "rustGitDeps": null
