@@ -17823,7 +17823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oderwat-indent-rainbow",
-    "version": "8.2.2",
+    "version": "8.3.1",
     "passthru": {
       "name": "indent-rainbow",
       "license": "MIT",
@@ -17831,10 +17831,10 @@
       "description": "Makes indentation easier to read"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oderwat/indent-rainbow/8.2.2/file/oderwat.indent-rainbow-8.2.2.vsix",
+      "url": "https://open-vsx.org/api/oderwat/indent-rainbow/8.3.1/file/oderwat.indent-rainbow-8.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PYlPfsmnN036OFX5SxvcG4ITS2lb45pN/Ahmichgmsk="
+      "sha256": "sha256-75VFt/Yvkcaa55NWeG43yniiDSrD5AnqzhB8jJqMi5k="
     },
     "extract": null,
     "rustGitDeps": null

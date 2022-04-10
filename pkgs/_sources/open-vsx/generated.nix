@@ -13503,10 +13503,10 @@
   };
   oderwat-indent-rainbow = {
     pname = "oderwat-indent-rainbow";
-    version = "8.2.2";
+    version = "8.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oderwat/indent-rainbow/8.2.2/file/oderwat.indent-rainbow-8.2.2.vsix";
-      sha256 = "sha256-PYlPfsmnN036OFX5SxvcG4ITS2lb45pN/Ahmichgmsk=";
+      url = "https://open-vsx.org/api/oderwat/indent-rainbow/8.3.1/file/oderwat.indent-rainbow-8.3.1.vsix";
+      sha256 = "sha256-75VFt/Yvkcaa55NWeG43yniiDSrD5AnqzhB8jJqMi5k=";
     };
     name = "indent-rainbow";
     license = "MIT";
