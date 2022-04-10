@@ -20307,10 +20307,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.30";
+    version = "0.9.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.30/file/znck.vue-0.9.30.vsix";
-      sha256 = "sha256-A+Lsh/Z/Ok7xIpjp3k8IE6O5hH3E1dPLBUakWrilxxg=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.33/file/znck.vue-0.9.33.vsix";
+      sha256 = "sha256-qn1bGjOOcB/HjqaxOfbwxPrjBj0nV8iVAMlXt+I3m6M=";
     };
     name = "vue";
     license = "MIT";
@@ -20319,10 +20319,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.29";
+    version = "0.9.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.29/file/znck.vue-language-features-0.9.29.vsix";
-      sha256 = "sha256-PZrWHqHwDuiKuBcmbaVceA7lbSKdQgClLVaTy7pIRlQ=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.32/file/znck.vue-language-features-0.9.32.vsix";
+      sha256 = "sha256-ooAclKpzuDh1vRpVwNUsNPBloB0YS5+jR/Ch/32qOHw=";
     };
     name = "vue-language-features";
     license = "MIT";

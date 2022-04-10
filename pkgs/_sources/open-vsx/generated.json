@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.29",
+    "version": "0.9.32",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5691,10 +5691,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.29/file/znck.vue-language-features-0.9.29.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.32/file/znck.vue-language-features-0.9.32.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PZrWHqHwDuiKuBcmbaVceA7lbSKdQgClLVaTy7pIRlQ="
+      "sha256": "sha256-ooAclKpzuDh1vRpVwNUsNPBloB0YS5+jR/Ch/32qOHw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20503,7 +20503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.30",
+    "version": "0.9.33",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20511,10 +20511,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.30/file/znck.vue-0.9.30.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.33/file/znck.vue-0.9.33.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-A+Lsh/Z/Ok7xIpjp3k8IE6O5hH3E1dPLBUakWrilxxg="
+      "sha256": "sha256-qn1bGjOOcB/HjqaxOfbwxPrjBj0nV8iVAMlXt+I3m6M="
     },
     "extract": null,
     "rustGitDeps": null
