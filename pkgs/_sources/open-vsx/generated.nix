@@ -5211,10 +5211,10 @@
   };
   barrettotte-ibmi-languages = {
     pname = "barrettotte-ibmi-languages";
-    version = "0.6.3";
+    version = "0.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.3/file/barrettotte.ibmi-languages-0.6.3.vsix";
-      sha256 = "sha256-gwb9I4gZhHDGoLYzEX2SuMmV6RGHEIZCmzOVBYszD/g=";
+      url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.5/file/barrettotte.ibmi-languages-0.6.5.vsix";
+      sha256 = "sha256-oTU1v07uB9ANmRBFJWxCuGFWidJl1k5ZzyCaCKcs5/Q=";
     };
     name = "ibmi-languages";
     license = "MIT";
@@ -7563,10 +7563,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.1.0/file/engn2219-anu.engn2219-2022-s1-vscode-1.1.0.vsix";
-      sha256 = "sha256-s7xweVNJFcD6hBvXS76HQNRO5cJJeLZqHsfbUCVtM78=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.0/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.0.vsix";
+      sha256 = "sha256-Rx+KpRGQxhmP3zaJJWJxd1IH7wRsUMqNASjwMEQpLhY=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";
@@ -17244,6 +17244,18 @@
     license = "GPL-3.0-or-later";
     publisher = "thomasballinger";
     description = "Endless Sky data file support";
+  };
+  tiabeast-vscode-bait = {
+    pname = "tiabeast-vscode-bait";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.0.1/file/tiabeast.vscode-bait-0.0.1.vsix";
+      sha256 = "sha256-uI0PUIvEmLEWsU8rrHcrSjIVvLV6Tyyd9/mNfUdW7wI=";
+    };
+    name = "vscode-bait";
+    license = "MIT";
+    publisher = "tiabeast";
+    description = "Provides rich language support for the bait programming language.";
   };
   tiehuis-zig = {
     pname = "tiehuis-zig";
