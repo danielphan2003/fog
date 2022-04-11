@@ -559,6 +559,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "biao1010-ai-js": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "biao1010-ai-js",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "ai-js",
+      "license": "MIT",
+      "publisher": "biao1010",
+      "description": "åæ­¥èæ¬å°æå¡å¨"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-nb2aH2Hlc3sjsCSB1HIHXMANGIJxy79y710SoPB1AJI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "halcyontechltd-vscode-rpgle": {
     "pinned": false,
     "cargoLock": null,
@@ -5683,7 +5703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.38",
+    "version": "0.9.39",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5691,10 +5711,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.38/file/znck.vue-language-features-0.9.38.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.39/file/znck.vue-language-features-0.9.39.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-URv8hjTtZ9COrqleSYDSXU8f+o7rtr0oFLYovFay7lI="
+      "sha256": "sha256-+NyhKrY5mtcz8CslYJMD7Vb8xK1T2QFq27+Z5EoFT6w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9563,7 +9583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2113891",
+    "version": "7.1.2147102",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9571,10 +9591,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2113891/file/eliostruyf.vscode-front-matter-beta-7.1.2113891.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2147102/file/eliostruyf.vscode-front-matter-beta-7.1.2147102.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0F82DC3Q3bchO/fbxrqnIx82RNSdBMtauSVQHrz7Tvo="
+      "sha256": "sha256-tw8ETpTm92ocbcbf6H/FvIW5t9Uj1wO5PVuHeIvtyMQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11403,7 +11423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tiabeast-vscode-bait",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "passthru": {
       "name": "vscode-bait",
       "license": "MIT",
@@ -11411,10 +11431,10 @@
       "description": "Provides rich language support for the bait programming language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tiabeast/vscode-bait/0.0.1/file/tiabeast.vscode-bait-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/tiabeast/vscode-bait/0.1.0/file/tiabeast.vscode-bait-0.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uI0PUIvEmLEWsU8rrHcrSjIVvLV6Tyyd9/mNfUdW7wI="
+      "sha256": "sha256-k3w2Eoi2C/d+r4ODzVj9Q9qpk0WsDVTDzQovjaLBioU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20563,7 +20583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.40",
+    "version": "0.9.41",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20571,10 +20591,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.40/file/znck.vue-0.9.40.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.41/file/znck.vue-0.9.41.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TVnmn+l/ZX2kongA6hQlDEZm+9q6ZZvPtimn/GX2Ge0="
+      "sha256": "sha256-Q0XHc03dGxjAtgIDVbPV1vXDN9IbdaSBKr3DrCa45pc="
     },
     "extract": null,
     "rustGitDeps": null
