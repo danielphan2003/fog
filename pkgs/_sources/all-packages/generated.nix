@@ -165,13 +165,13 @@
   };
   bling = {
     pname = "bling";
-    version = "3164486da072d22b1bd62e670805566f4418f8a1";
+    version = "fbb914a57226ce2a784098ec38afe7349e7dd9bd";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "3164486da072d22b1bd62e670805566f4418f8a1";
+      rev = "fbb914a57226ce2a784098ec38afe7349e7dd9bd";
       fetchSubmodules = false;
-      sha256 = "sha256-wj1Lp2TxDqH6z9V9pkbY08u8ssa/IPPVH9sCDAmSv1w=";
+      sha256 = "sha256-0UVPY+H+K1YSyr+FKkiUKBxgbTLOksI0DDFePFq+xRs=";
     });
   };
   bottles = {
@@ -570,10 +570,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.32.1";
+    version = "0.32.2";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.1.tar.gz";
-      sha256 = "sha256-zGdkaETB1BCFR3jdmy6JKVlpoUww4rzb7hi4Ybpq1tg=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.2.tar.gz";
+      sha256 = "sha256-yZrj3Pg2m4m74gCPQy3nU0wgKae82vEPo6EzgsrG8q8=";
     };
   };
   nix-zsh-completions = {
@@ -906,13 +906,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "b058b05075f7b3fdb15df5c6ca40353bd05de39d";
+    version = "b53b8254544049a6949e879bdbb34690140368fd";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "b058b05075f7b3fdb15df5c6ca40353bd05de39d";
+      rev = "b53b8254544049a6949e879bdbb34690140368fd";
       fetchSubmodules = false;
-      sha256 = "sha256-Qtxaceq7xzYDUMHReZxTuGDSIzZCXhA4KzUjJEyz8uY=";
+      sha256 = "sha256-4qzGLWjBDmpq2RXbT4v2PM+O6GlM0QsahvVi8DSb9qY=";
     });
   };
   spicetify-themes = {
