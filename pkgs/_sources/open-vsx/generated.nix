@@ -3051,10 +3051,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.819";
+    version = "2022.4.1010";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.819/file/Slint.slint-nightly-2022.4.819.vsix";
-      sha256 = "sha256-reyoZ5E2nEJhvC4DOyKls1uHqceqLkLJfk4GARreXQk=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1010/file/Slint.slint-nightly-2022.4.1010.vsix";
+      sha256 = "sha256-K6ILE2SZ0HiLv6KeFgp6uE5e1le9dWaiMnFnzTx3evU=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -7563,10 +7563,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.0/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.0.vsix";
-      sha256 = "sha256-Rx+KpRGQxhmP3zaJJWJxd1IH7wRsUMqNASjwMEQpLhY=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.1/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.1.vsix";
+      sha256 = "sha256-e+F3T7oybJZ2sSiJfTnHEUDIvhG7otDIcembn11MaAs=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";
@@ -12423,10 +12423,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.235";
+    version = "1.1.236";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.235/file/ms-pyright.pyright-1.1.235.vsix";
-      sha256 = "sha256-mg5UUqOnAkayfmmQqLSeXtHomMGc6AE2uEJcI82PZgQ=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.236/file/ms-pyright.pyright-1.1.236.vsix";
+      sha256 = "sha256-YpJ+uTz2nJZaezXWHJ0anIgsDRQTpV0dN6DEFRwbX6U=";
     };
     name = "pyright";
     license = "MIT";
