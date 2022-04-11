@@ -5353,6 +5353,18 @@
     publisher = "betterthantomorrow";
     description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.";
   };
+  biao1010-ai-js = {
+    pname = "biao1010-ai-js";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0.0.1.vsix";
+      sha256 = "sha256-nb2aH2Hlc3sjsCSB1HIHXMANGIJxy79y710SoPB1AJI=";
+    };
+    name = "ai-js";
+    license = "MIT";
+    publisher = "biao1010";
+    description = "\21516\27493\33050\26412\21040\26381\21153\22120";
+  };
   bierner-color-info = {
     pname = "bierner-color-info";
     version = "0.7.0";
@@ -7443,10 +7455,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2113891";
+    version = "7.1.2147102";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2113891/file/eliostruyf.vscode-front-matter-beta-7.1.2113891.vsix";
-      sha256 = "sha256-0F82DC3Q3bchO/fbxrqnIx82RNSdBMtauSVQHrz7Tvo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2147102/file/eliostruyf.vscode-front-matter-beta-7.1.2147102.vsix";
+      sha256 = "sha256-tw8ETpTm92ocbcbf6H/FvIW5t9Uj1wO5PVuHeIvtyMQ=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -17259,10 +17271,10 @@
   };
   tiabeast-vscode-bait = {
     pname = "tiabeast-vscode-bait";
-    version = "0.0.1";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.0.1/file/tiabeast.vscode-bait-0.0.1.vsix";
-      sha256 = "sha256-uI0PUIvEmLEWsU8rrHcrSjIVvLV6Tyyd9/mNfUdW7wI=";
+      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.1.0/file/tiabeast.vscode-bait-0.1.0.vsix";
+      sha256 = "sha256-k3w2Eoi2C/d+r4ODzVj9Q9qpk0WsDVTDzQovjaLBioU=";
     };
     name = "vscode-bait";
     license = "MIT";
@@ -20343,10 +20355,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.40";
+    version = "0.9.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.40/file/znck.vue-0.9.40.vsix";
-      sha256 = "sha256-TVnmn+l/ZX2kongA6hQlDEZm+9q6ZZvPtimn/GX2Ge0=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.41/file/znck.vue-0.9.41.vsix";
+      sha256 = "sha256-Q0XHc03dGxjAtgIDVbPV1vXDN9IbdaSBKr3DrCa45pc=";
     };
     name = "vue";
     license = "MIT";
@@ -20355,10 +20367,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.38";
+    version = "0.9.39";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.38/file/znck.vue-language-features-0.9.38.vsix";
-      sha256 = "sha256-URv8hjTtZ9COrqleSYDSXU8f+o7rtr0oFLYovFay7lI=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.39/file/znck.vue-language-features-0.9.39.vsix";
+      sha256 = "sha256-+NyhKrY5mtcz8CslYJMD7Vb8xK1T2QFq27+Z5EoFT6w=";
     };
     name = "vue-language-features";
     license = "MIT";
