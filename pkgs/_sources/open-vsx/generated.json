@@ -2523,7 +2523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "engn2219-anu-engn2219-2022-s1-vscode",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "passthru": {
       "name": "engn2219-2022-s1-vscode",
       "license": "MIT",
@@ -2531,10 +2531,10 @@
       "description": "ENGN2219 package"
     },
     "src": {
-      "url": "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.1/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.1.vsix",
+      "url": "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.2/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-e+F3T7oybJZ2sSiJfTnHEUDIvhG7otDIcembn11MaAs="
+      "sha256": "sha256-mGJsT91z1KCjPDSpsSfj4UAgBBbQZc15AqpIwh1flH8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5683,7 +5683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue-language-features",
-    "version": "0.9.35",
+    "version": "0.9.38",
     "passthru": {
       "name": "vue-language-features",
       "license": "MIT",
@@ -5691,10 +5691,10 @@
       "description": "Advanced TypeScript/JavaScript support for Vue"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.35/file/znck.vue-language-features-0.9.35.vsix",
+      "url": "https://open-vsx.org/api/znck/vue-language-features/0.9.38/file/znck.vue-language-features-0.9.38.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rB2OC3by8SpJxnKIUWRjAqcECXaEbaLg4OjJmMfPKSU="
+      "sha256": "sha256-URv8hjTtZ9COrqleSYDSXU8f+o7rtr0oFLYovFay7lI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8395,6 +8395,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-pvEuQpLKg7v0GoNt8OtYN2H/LtO79KbQSeN3Jj0YF6M="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "FelixAngelov-mason": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "FelixAngelov-mason",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "mason",
+      "license": "MIT",
+      "publisher": "FelixAngelov",
+      "description": "Mason support for Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/FelixAngelov/mason/0.1.0/file/FelixAngelov.mason-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-K1fH6s9WMQg0O4qdINszkzs8kOTqk4IGVXVJaNe7JwE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20543,7 +20563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-vue",
-    "version": "0.9.37",
+    "version": "0.9.40",
     "passthru": {
       "name": "vue",
       "license": "MIT",
@@ -20551,10 +20571,10 @@
       "description": "Syntax Highlight"
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/vue/0.9.37/file/znck.vue-0.9.37.vsix",
+      "url": "https://open-vsx.org/api/znck/vue/0.9.40/file/znck.vue-0.9.40.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eqTkDx7fj/Rz58ky0dt73+cTa8svOCjOFHufscuEbqo="
+      "sha256": "sha256-TVnmn+l/ZX2kongA6hQlDEZm+9q6ZZvPtimn/GX2Ge0="
     },
     "extract": null,
     "rustGitDeps": null

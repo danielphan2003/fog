@@ -997,6 +997,18 @@
     publisher = "FelixAngelov";
     description = "Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.";
   };
+  FelixAngelov-mason = {
+    pname = "FelixAngelov-mason";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.0/file/FelixAngelov.mason-0.1.0.vsix";
+      sha256 = "sha256-K1fH6s9WMQg0O4qdINszkzs8kOTqk4IGVXVJaNe7JwE=";
+    };
+    name = "mason";
+    license = "MIT";
+    publisher = "FelixAngelov";
+    description = "Mason support for Visual Studio Code.";
+  };
   FelixIcaza-andromeda = {
     pname = "FelixIcaza-andromeda";
     version = "1.7.1";
@@ -7563,10 +7575,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.1/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.1.vsix";
-      sha256 = "sha256-e+F3T7oybJZ2sSiJfTnHEUDIvhG7otDIcembn11MaAs=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.2/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.2.vsix";
+      sha256 = "sha256-mGJsT91z1KCjPDSpsSfj4UAgBBbQZc15AqpIwh1flH8=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";
@@ -20331,10 +20343,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.37";
+    version = "0.9.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.37/file/znck.vue-0.9.37.vsix";
-      sha256 = "sha256-eqTkDx7fj/Rz58ky0dt73+cTa8svOCjOFHufscuEbqo=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.40/file/znck.vue-0.9.40.vsix";
+      sha256 = "sha256-TVnmn+l/ZX2kongA6hQlDEZm+9q6ZZvPtimn/GX2Ge0=";
     };
     name = "vue";
     license = "MIT";
@@ -20343,10 +20355,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.35";
+    version = "0.9.38";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.35/file/znck.vue-language-features-0.9.35.vsix";
-      sha256 = "sha256-rB2OC3by8SpJxnKIUWRjAqcECXaEbaLg4OjJmMfPKSU=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.38/file/znck.vue-language-features-0.9.38.vsix";
+      sha256 = "sha256-URv8hjTtZ9COrqleSYDSXU8f+o7rtr0oFLYovFay7lI=";
     };
     name = "vue-language-features";
     license = "MIT";
