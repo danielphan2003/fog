@@ -10183,7 +10183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "foam-foam-vscode",
-    "version": "0.17.8",
+    "version": "0.18.0",
     "passthru": {
       "name": "foam-vscode",
       "license": "MIT",
@@ -10191,10 +10191,10 @@
       "description": "VS Code + Markdown + Wikilinks for your note taking and knowledge base"
     },
     "src": {
-      "url": "https://open-vsx.org/api/foam/foam-vscode/0.17.8/file/foam.foam-vscode-0.17.8.vsix",
+      "url": "https://open-vsx.org/api/foam/foam-vscode/0.18.0/file/foam.foam-vscode-0.18.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t0Q82aCWuL7Q2ULnNExmPhU+oaoZeyBvN7bbsbqVOTk="
+      "sha256": "sha256-R7kRZhbth1KbxrOLTyDvs5gW4y1iZOxS6vLl7Nxmyvw="
     },
     "extract": null,
     "rustGitDeps": null
