@@ -1093,6 +1093,18 @@
     publisher = "GabrielBB";
     description = "A lightweight extension to support Lombok annotations processing in Visual Studio Code";
   };
+  GabrielNordeborn-vscode-rescript-relay = {
+    pname = "GabrielNordeborn-vscode-rescript-relay";
+    version = "0.10.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/GabrielNordeborn/vscode-rescript-relay/0.10.0/file/GabrielNordeborn.vscode-rescript-relay-0.10.0.vsix";
+      sha256 = "sha256-ZNkD5C1DEdIiGXgivHf7IucRxNhpWkCSRSRPGnsi6tA=";
+    };
+    name = "vscode-rescript-relay";
+    license = "MIT";
+    publisher = "GabrielNordeborn";
+    description = "Improve quality-of-life of using RescriptRelay with VSCode.";
+  };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
     version = "6.0.0";
@@ -5343,10 +5355,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.265";
+    version = "2.0.266";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.265/file/betterthantomorrow.calva-2.0.265.vsix";
-      sha256 = "sha256-1cSVjE5q5dZmeFAU+diwaWzY+J+dK8gw66oQOZqyiFs=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.266/file/betterthantomorrow.calva-2.0.266.vsix";
+      sha256 = "sha256-LxuKLF1cikGUOJ7f/O29mJxX8ZlG3DUkfjYaoWplp2I=";
     };
     name = "calva";
     license = "MIT";
@@ -8643,10 +8655,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.9";
+    version = "0.4.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.9/file/gitduck.code-streaming-0.4.9.vsix";
-      sha256 = "sha256-l5o79oWMMPfxbfFP/VsinOOAQd0FKxflVVKvsxNBoZc=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.10/file/gitduck.code-streaming-0.4.10.vsix";
+      sha256 = "sha256-za9wSMPaqIBuU4fPiNakjKsmz7c/cTOe1NLrt2vatH4=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -11139,10 +11151,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.3.1646415563";
+    version = "2022.4.1649700976";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646415563/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646415563.vsix";
-      sha256 = "sha256-Ce3wzNF7Lbf73ajJlk4d4uVqG0dq4MC4bvPgCDaS33c=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.4.1649700976/file/launchdarklyofficial.launchdarkly-beta-2022.4.1649700976.vsix";
+      sha256 = "sha256-Ue1KnKdqh99Tmz3os8NgoRSZX4F0E4UyJmQaxZn4sUE=";
     };
     name = "launchdarkly-beta";
     license = "";

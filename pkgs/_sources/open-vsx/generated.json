@@ -6063,7 +6063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gitduck-code-streaming",
-    "version": "0.4.9",
+    "version": "0.4.10",
     "passthru": {
       "name": "code-streaming",
       "license": "Custom",
@@ -6071,10 +6071,10 @@
       "description": "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs."
     },
     "src": {
-      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.9/file/gitduck.code-streaming-0.4.9.vsix",
+      "url": "https://open-vsx.org/api/gitduck/code-streaming/0.4.10/file/gitduck.code-streaming-0.4.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-l5o79oWMMPfxbfFP/VsinOOAQd0FKxflVVKvsxNBoZc="
+      "sha256": "sha256-za9wSMPaqIBuU4fPiNakjKsmz7c/cTOe1NLrt2vatH4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28259,6 +28259,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "GabrielNordeborn-vscode-rescript-relay": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "GabrielNordeborn-vscode-rescript-relay",
+    "version": "0.10.0",
+    "passthru": {
+      "name": "vscode-rescript-relay",
+      "license": "MIT",
+      "publisher": "GabrielNordeborn",
+      "description": "Improve quality-of-life of using RescriptRelay with VSCode."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/GabrielNordeborn/vscode-rescript-relay/0.10.0/file/GabrielNordeborn.vscode-rescript-relay-0.10.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ZNkD5C1DEdIiGXgivHf7IucRxNhpWkCSRSRPGnsi6tA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "tenninebt-vscode-koverage": {
     "pinned": false,
     "cargoLock": null,
@@ -29323,7 +29343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "launchdarklyofficial-launchdarkly-beta",
-    "version": "2022.3.1646415563",
+    "version": "2022.4.1649700976",
     "passthru": {
       "name": "launchdarkly-beta",
       "license": "",
@@ -29331,10 +29351,10 @@
       "description": "Manage LaunchDarkly feature flags directly from within your code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.3.1646415563/file/launchdarklyofficial.launchdarkly-beta-2022.3.1646415563.vsix",
+      "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.4.1649700976/file/launchdarklyofficial.launchdarkly-beta-2022.4.1649700976.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ce3wzNF7Lbf73ajJlk4d4uVqG0dq4MC4bvPgCDaS33c="
+      "sha256": "sha256-Ue1KnKdqh99Tmz3os8NgoRSZX4F0E4UyJmQaxZn4sUE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31423,7 +31443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.265",
+    "version": "2.0.266",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -31431,10 +31451,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.265/file/betterthantomorrow.calva-2.0.265.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.266/file/betterthantomorrow.calva-2.0.266.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1cSVjE5q5dZmeFAU+diwaWzY+J+dK8gw66oQOZqyiFs="
+      "sha256": "sha256-LxuKLF1cikGUOJ7f/O29mJxX8ZlG3DUkfjYaoWplp2I="
     },
     "extract": null,
     "rustGitDeps": null
