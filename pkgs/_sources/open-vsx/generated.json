@@ -3163,7 +3163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter",
-    "version": "7.1.1",
+    "version": "7.1.2",
     "passthru": {
       "name": "vscode-front-matter",
       "license": "MIT",
@@ -3171,10 +3171,10 @@
       "description": "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.1/file/eliostruyf.vscode-front-matter-7.1.1.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.2/file/eliostruyf.vscode-front-matter-7.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rjzoD6C0Zava2YwK8UPq5RUelB+HzRrJgu3CB1gEdNk="
+      "sha256": "sha256-eZylrfjmYt3i1uWaJzQEkd8n8ziX4BKxiOrcKHaZr2w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9583,7 +9583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.1.2147102",
+    "version": "7.1.2148083",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9591,10 +9591,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2147102/file/eliostruyf.vscode-front-matter-beta-7.1.2147102.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2148083/file/eliostruyf.vscode-front-matter-beta-7.1.2148083.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tw8ETpTm92ocbcbf6H/FvIW5t9Uj1wO5PVuHeIvtyMQ="
+      "sha256": "sha256-6pVqHGQssGeDLsXKkTF5k9SYFGsR3FPqty70CZ3poTk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26923,7 +26923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "antfu-iconify",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "passthru": {
       "name": "iconify",
       "license": "MIT",
@@ -26931,10 +26931,10 @@
       "description": "Intelligent Iconify previewing and searching for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/antfu/iconify/0.3.1/file/antfu.iconify-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/antfu/iconify/0.3.2/file/antfu.iconify-0.3.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kPoDaQzHhCAdLRJOS6DG3mJAz3cnx5+BmxO+8LDAyWI="
+      "sha256": "sha256-nrDmpCyKRBbruSc3GqI+Wyd+i+0o3tcH/KUkQoItXXI="
     },
     "extract": null,
     "rustGitDeps": null

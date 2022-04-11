@@ -4419,10 +4419,10 @@
   };
   antfu-iconify = {
     pname = "antfu-iconify";
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/iconify/0.3.1/file/antfu.iconify-0.3.1.vsix";
-      sha256 = "sha256-kPoDaQzHhCAdLRJOS6DG3mJAz3cnx5+BmxO+8LDAyWI=";
+      url = "https://open-vsx.org/api/antfu/iconify/0.3.2/file/antfu.iconify-0.3.2.vsix";
+      sha256 = "sha256-nrDmpCyKRBbruSc3GqI+Wyd+i+0o3tcH/KUkQoItXXI=";
     };
     name = "iconify";
     license = "MIT";
@@ -7443,10 +7443,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.1.1";
+    version = "7.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.1/file/eliostruyf.vscode-front-matter-7.1.1.vsix";
-      sha256 = "sha256-rjzoD6C0Zava2YwK8UPq5RUelB+HzRrJgu3CB1gEdNk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.2/file/eliostruyf.vscode-front-matter-7.1.2.vsix";
+      sha256 = "sha256-eZylrfjmYt3i1uWaJzQEkd8n8ziX4BKxiOrcKHaZr2w=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7455,10 +7455,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.1.2147102";
+    version = "7.1.2148083";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2147102/file/eliostruyf.vscode-front-matter-beta-7.1.2147102.vsix";
-      sha256 = "sha256-tw8ETpTm92ocbcbf6H/FvIW5t9Uj1wO5PVuHeIvtyMQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.1.2148083/file/eliostruyf.vscode-front-matter-beta-7.1.2148083.vsix";
+      sha256 = "sha256-6pVqHGQssGeDLsXKkTF5k9SYFGsR3FPqty70CZ3poTk=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
