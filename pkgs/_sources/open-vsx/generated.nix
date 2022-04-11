@@ -2703,10 +2703,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.838";
+    version = "31.0.840";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.838/file/Prisma.prisma-insider-31.0.838.vsix";
-      sha256 = "sha256-xyv8NV/f8hHzjRkeEl4l9tCMMW3oCxg4ivGTxi07dnk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.840/file/Prisma.prisma-insider-31.0.840.vsix";
+      sha256 = "sha256-SR2EFBmKtPKfaYtljh995S3M2REoLGeh/g1NJ0uzL2w=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7587,10 +7587,10 @@
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.2/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.2.vsix";
-      sha256 = "sha256-mGJsT91z1KCjPDSpsSfj4UAgBBbQZc15AqpIwh1flH8=";
+      url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.3/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.3.vsix";
+      sha256 = "sha256-aO+qsEAvcsxWH4DwMHnYm2BB++WEDt1IcidJG2UHepw=";
     };
     name = "engn2219-2022-s1-vscode";
     license = "MIT";
@@ -20187,10 +20187,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.53";
+    version = "0.0.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.53/file/zardoy.zardoy-experiments-0.0.53.vsix";
-      sha256 = "sha256-XOuqs8xPUzRO0AWJHwzTbv8HPJClSs2j4nfUzuBleyY=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.54/file/zardoy.zardoy-experiments-0.0.54.vsix";
+      sha256 = "sha256-WwSpjxNVN2EhQYBU38TOmj75YJto8v8Rgq8Q9goqx9Y=";
     };
     name = "zardoy-experiments";
     license = "MIT";

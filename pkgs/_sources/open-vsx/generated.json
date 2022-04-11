@@ -2543,7 +2543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "engn2219-anu-engn2219-2022-s1-vscode",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "passthru": {
       "name": "engn2219-2022-s1-vscode",
       "license": "MIT",
@@ -2551,10 +2551,10 @@
       "description": "ENGN2219 package"
     },
     "src": {
-      "url": "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.2/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.2.vsix",
+      "url": "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.3/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mGJsT91z1KCjPDSpsSfj4UAgBBbQZc15AqpIwh1flH8="
+      "sha256": "sha256-aO+qsEAvcsxWH4DwMHnYm2BB++WEDt1IcidJG2UHepw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5803,7 +5803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.53",
+    "version": "0.0.54",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5811,10 +5811,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.53/file/zardoy.zardoy-experiments-0.0.53.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.54/file/zardoy.zardoy-experiments-0.0.54.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XOuqs8xPUzRO0AWJHwzTbv8HPJClSs2j4nfUzuBleyY="
+      "sha256": "sha256-WwSpjxNVN2EhQYBU38TOmj75YJto8v8Rgq8Q9goqx9Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30703,7 +30703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.838",
+    "version": "31.0.840",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30711,10 +30711,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.838/file/Prisma.prisma-insider-31.0.838.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.840/file/Prisma.prisma-insider-31.0.840.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xyv8NV/f8hHzjRkeEl4l9tCMMW3oCxg4ivGTxi07dnk="
+      "sha256": "sha256-SR2EFBmKtPKfaYtljh995S3M2REoLGeh/g1NJ0uzL2w="
     },
     "extract": null,
     "rustGitDeps": null
