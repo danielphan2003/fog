@@ -11263,7 +11263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.18",
+    "version": "0.5.19",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -11271,10 +11271,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.18/file/wcrichton.flowistry-0.5.18.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.19/file/wcrichton.flowistry-0.5.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VG85qoPHemNIVu1SQPyFAu13uq8nxjWSRAtgFzsLHRk="
+      "sha256": "sha256-9rUpNK84ZAinyEU2nDXht5SbqYrItWnljcCKAEvJ4NA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23123,7 +23123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tfsec-tfsec",
-    "version": "1.8.0",
+    "version": "1.9.0",
     "passthru": {
       "name": "tfsec",
       "license": "MIT",
@@ -23131,10 +23131,10 @@
       "description": "tfsec integration for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tfsec/tfsec/1.8.0/file/tfsec.tfsec-1.8.0.vsix",
+      "url": "https://open-vsx.org/api/tfsec/tfsec/1.9.0/file/tfsec.tfsec-1.9.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-O3Jvf3rG3aKjiOM9eQxnZTgL8JYQ40JEwM54sGlkBWw="
+      "sha256": "sha256-j2Bp6WYT4J6uj+ReAlNdOYLz653h7d1BNpeLyoHbDq8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25043,7 +25043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dsteenman-cdk-snippets",
-    "version": "1.36.0",
+    "version": "1.37.0",
     "passthru": {
       "name": "cdk-snippets",
       "license": "MIT",
@@ -25051,10 +25051,10 @@
       "description": "This extension adds L1 construct snippets from CDK into Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dsteenman/cdk-snippets/1.36.0/file/dsteenman.cdk-snippets-1.36.0.vsix",
+      "url": "https://open-vsx.org/api/dsteenman/cdk-snippets/1.37.0/file/dsteenman.cdk-snippets-1.37.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LGZslCiM7o6zolwUHh4GFHUmaeGcKIbUopQoqVTfEF0="
+      "sha256": "sha256-cRe0Xg+RfUVnALCBAI8pEz9kDwpC1iQjSUrtN9qpWIw="
     },
     "extract": null,
     "rustGitDeps": null

@@ -7179,10 +7179,10 @@
   };
   dsteenman-cdk-snippets = {
     pname = "dsteenman-cdk-snippets";
-    version = "1.36.0";
+    version = "1.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsteenman/cdk-snippets/1.36.0/file/dsteenman.cdk-snippets-1.36.0.vsix";
-      sha256 = "sha256-LGZslCiM7o6zolwUHh4GFHUmaeGcKIbUopQoqVTfEF0=";
+      url = "https://open-vsx.org/api/dsteenman/cdk-snippets/1.37.0/file/dsteenman.cdk-snippets-1.37.0.vsix";
+      sha256 = "sha256-cRe0Xg+RfUVnALCBAI8pEz9kDwpC1iQjSUrtN9qpWIw=";
     };
     name = "cdk-snippets";
     license = "MIT";
@@ -17187,10 +17187,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.8.0";
+    version = "1.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.8.0/file/tfsec.tfsec-1.8.0.vsix";
-      sha256 = "sha256-O3Jvf3rG3aKjiOM9eQxnZTgL8JYQ40JEwM54sGlkBWw=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.9.0/file/tfsec.tfsec-1.9.0.vsix";
+      sha256 = "sha256-j2Bp6WYT4J6uj+ReAlNdOYLz653h7d1BNpeLyoHbDq8=";
     };
     name = "tfsec";
     license = "MIT";
@@ -19587,10 +19587,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.18";
+    version = "0.5.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.18/file/wcrichton.flowistry-0.5.18.vsix";
-      sha256 = "sha256-VG85qoPHemNIVu1SQPyFAu13uq8nxjWSRAtgFzsLHRk=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.19/file/wcrichton.flowistry-0.5.19.vsix";
+      sha256 = "sha256-9rUpNK84ZAinyEU2nDXht5SbqYrItWnljcCKAEvJ4NA=";
     };
     name = "flowistry";
     license = "MIT";
