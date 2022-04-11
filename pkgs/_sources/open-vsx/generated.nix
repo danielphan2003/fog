@@ -1335,10 +1335,10 @@
   };
   HaaLeo-timing = {
     pname = "HaaLeo-timing";
-    version = "2.7.0";
+    version = "2.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/HaaLeo/timing/2.7.0/file/HaaLeo.timing-2.7.0.vsix";
-      sha256 = "sha256-2eWytVbQcbvgz021W/zH1tUVn9S+xgSjnGwNd4Hz4A4=";
+      url = "https://open-vsx.org/api/HaaLeo/timing/2.7.1/file/HaaLeo.timing-2.7.1.vsix";
+      sha256 = "sha256-h7jXeXeg4jpqnlX/bPrLgntZbuYC6B2Nj0ZvLc2HZE0=";
     };
     name = "timing";
     license = "MIT";
@@ -7176,6 +7176,30 @@
     license = "MIT";
     publisher = "drupal-mentoring";
     description = "";
+  };
+  dsteenman-cdk-snippets = {
+    pname = "dsteenman-cdk-snippets";
+    version = "1.36.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dsteenman/cdk-snippets/1.36.0/file/dsteenman.cdk-snippets-1.36.0.vsix";
+      sha256 = "sha256-LGZslCiM7o6zolwUHh4GFHUmaeGcKIbUopQoqVTfEF0=";
+    };
+    name = "cdk-snippets";
+    license = "MIT";
+    publisher = "dsteenman";
+    description = "This extension adds L1 construct snippets from CDK into Visual Studio Code.";
+  };
+  dsteenman-cloudformation-yaml-snippets = {
+    pname = "dsteenman-cloudformation-yaml-snippets";
+    version = "3.56.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.56.0/file/dsteenman.cloudformation-yaml-snippets-3.56.0.vsix";
+      sha256 = "sha256-oLiLwmfS85styeNUvFjlFyvKUNCBdctqW0yqknHzCFY=";
+    };
+    name = "cloudformation-yaml-snippets";
+    license = "MIT";
+    publisher = "dsteenman";
+    description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.";
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
@@ -17283,10 +17307,10 @@
   };
   tiabeast-vscode-bait = {
     pname = "tiabeast-vscode-bait";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.1.0/file/tiabeast.vscode-bait-0.1.0.vsix";
-      sha256 = "sha256-k3w2Eoi2C/d+r4ODzVj9Q9qpk0WsDVTDzQovjaLBioU=";
+      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.0/file/tiabeast.vscode-bait-0.2.0.vsix";
+      sha256 = "sha256-wNoMb7GTzWhCg6POZpyDN6DLFR1NYHJVMMVrwnxmZM4=";
     };
     name = "vscode-bait";
     license = "MIT";

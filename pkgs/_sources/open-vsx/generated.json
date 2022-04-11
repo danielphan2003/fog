@@ -11423,7 +11423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tiabeast-vscode-bait",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "passthru": {
       "name": "vscode-bait",
       "license": "MIT",
@@ -11431,10 +11431,10 @@
       "description": "Provides rich language support for the bait programming language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tiabeast/vscode-bait/0.1.0/file/tiabeast.vscode-bait-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.0/file/tiabeast.vscode-bait-0.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k3w2Eoi2C/d+r4ODzVj9Q9qpk0WsDVTDzQovjaLBioU="
+      "sha256": "sha256-wNoMb7GTzWhCg6POZpyDN6DLFR1NYHJVMMVrwnxmZM4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11943,7 +11943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "HaaLeo-timing",
-    "version": "2.7.0",
+    "version": "2.7.1",
     "passthru": {
       "name": "timing",
       "license": "MIT",
@@ -11951,10 +11951,10 @@
       "description": "Convert timestamps from/to various formats and preview/insert them on demand."
     },
     "src": {
-      "url": "https://open-vsx.org/api/HaaLeo/timing/2.7.0/file/HaaLeo.timing-2.7.0.vsix",
+      "url": "https://open-vsx.org/api/HaaLeo/timing/2.7.1/file/HaaLeo.timing-2.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2eWytVbQcbvgz021W/zH1tUVn9S+xgSjnGwNd4Hz4A4="
+      "sha256": "sha256-h7jXeXeg4jpqnlX/bPrLgntZbuYC6B2Nj0ZvLc2HZE0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19119,6 +19119,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "dsteenman-cloudformation-yaml-snippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "dsteenman-cloudformation-yaml-snippets",
+    "version": "3.56.0",
+    "passthru": {
+      "name": "cloudformation-yaml-snippets",
+      "license": "MIT",
+      "publisher": "dsteenman",
+      "description": "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.56.0/file/dsteenman.cloudformation-yaml-snippets-3.56.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-oLiLwmfS85styeNUvFjlFyvKUNCBdctqW0yqknHzCFY="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "k--kato-docomment": {
     "pinned": false,
     "cargoLock": null,
@@ -25015,6 +25035,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-3MhT8901cQvn+k9x6iv6+j3kI8cskrRZaM7G6v6523s="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "dsteenman-cdk-snippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "dsteenman-cdk-snippets",
+    "version": "1.36.0",
+    "passthru": {
+      "name": "cdk-snippets",
+      "license": "MIT",
+      "publisher": "dsteenman",
+      "description": "This extension adds L1 construct snippets from CDK into Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/dsteenman/cdk-snippets/1.36.0/file/dsteenman.cdk-snippets-1.36.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-LGZslCiM7o6zolwUHh4GFHUmaeGcKIbUopQoqVTfEF0="
     },
     "extract": null,
     "rustGitDeps": null
