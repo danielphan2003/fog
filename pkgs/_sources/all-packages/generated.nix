@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8fbf9331031d34c6d78a594c7e31b95cfc49f25d";
+    version = "28889707c3c4f778a5126d8b72c52bdf4338f930";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8fbf9331031d34c6d78a594c7e31b95cfc49f25d";
+      rev = "28889707c3c4f778a5126d8b72c52bdf4338f930";
       fetchSubmodules = false;
-      sha256 = "sha256-qfH/WsX4Gzg1kre6aQSN7dWIrX68mLBecQwfn6eFwdw=";
+      sha256 = "sha256-/Eaz0ibdAs1F7+OClXmi3GCPTwKX6MT9L6I6OR0X6IQ=";
     });
   };
   caddy = {
@@ -535,18 +535,18 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "101.0.1210.10";
+    version = "101.0.1210.14";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.10-1_amd64.deb";
-      sha256 = "sha256-vYpaAnL/xfV7IinJ9x9ZpZSwYU+5Vif8ZBhED8bHIgs=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.14-1_amd64.deb";
+      sha256 = "sha256-b03TQ0WPBlR506QS9LeSt1AaGQeINEMMglknC+Ii/9g=";
     };
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "102.0.1217.0";
+    version = "102.0.1220.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1217.0-1_amd64.deb";
-      sha256 = "sha256-kgwhy2L5qQRiundgQBc2ORWPVYngQluXKX+1lT0ioZY=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1220.1-1_amd64.deb";
+      sha256 = "sha256-RNKm6YNnZ9RffR912vKkizOdZ9Elfj4yH87yD/6IUX8=";
     };
   };
   minecraft-wayland = {
@@ -1000,13 +1000,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3ae701f0ebe053a1f7b6a3fa345a56b3132c818f";
+    version = "c87ed52ad406929b4fe9b3bddd67ceee2292e19c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3ae701f0ebe053a1f7b6a3fa345a56b3132c818f";
+      rev = "c87ed52ad406929b4fe9b3bddd67ceee2292e19c";
       fetchSubmodules = false;
-      sha256 = "sha256-Ldqm4bcWyBdShcNYr95PUCFdhpAmV/Gt0M4GRBjEib8=";
+      sha256 = "sha256-TzqM3osGw0otjZE4QECuWsg5GQ41hom+guirGV5UeJk=";
     });
   };
   tailscale-systray = {
