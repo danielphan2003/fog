@@ -2643,7 +2643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "viper-admin-viper",
-    "version": "2.4.0",
+    "version": "2.4.1",
     "passthru": {
       "name": "viper",
       "license": "",
@@ -2651,10 +2651,10 @@
       "description": "This extension provides interactive IDE features for verifying programs in Viper (Verification Infrastructure for Permission-based Reasoning)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/viper-admin/viper/2.4.0/file/viper-admin.viper-2.4.0.vsix",
+      "url": "https://open-vsx.org/api/viper-admin/viper/2.4.1/file/viper-admin.viper-2.4.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iGEXS8ZVrD/kRu37N8JhdmwhM3lG3uyosReqn0yCNuA="
+      "sha256": "sha256-U6s4ajhW4WhMPbc1a8voNFtD7AdKW1jAwIGZSvCaY1w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23703,7 +23703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.89.0",
+    "version": "0.90.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -23711,10 +23711,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.89.0/file/dendron.dendron-0.89.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.90.0/file/dendron.dendron-0.90.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mXbKHm0DBBcsTVMRLJkhs9zZ1r29/4xLN5FJbGzLtsI="
+      "sha256": "sha256-UOBbXPH1YwWpYjHamutyguPIYB7BBRSB2RjGOeS8pLI="
     },
     "extract": null,
     "rustGitDeps": null
