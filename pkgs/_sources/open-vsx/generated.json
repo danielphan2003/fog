@@ -2523,7 +2523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lf-lang-vscode-lingua-franca",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "passthru": {
       "name": "vscode-lingua-franca",
       "license": "BSD-2-Clause",
@@ -2531,10 +2531,10 @@
       "description": "Lingua Franca for Visual Studio Code. Provides lints, code completion and navigation, interactive diagrams, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.1.0/file/lf-lang.vscode-lingua-franca-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.1.1/file/lf-lang.vscode-lingua-franca-0.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tEOUlAhGShztHZCWE6CkU+t+FDu+ybqnoEsg9rt53AE="
+      "sha256": "sha256-uTvCiF3rJnSnxcZ7GRYo21AJ4FBZlMuomk2kT4tBmBs="
     },
     "extract": null,
     "rustGitDeps": null
