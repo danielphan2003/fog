@@ -800,16 +800,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "aeb2846d1566e4858afc1caa0c8b6b010b1d3af0";
+    version = "609996005f511e4f726716db18042743cc63aaf9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "aeb2846d1566e4858afc1caa0c8b6b010b1d3af0";
+      rev = "609996005f511e4f726716db18042743cc63aaf9";
       fetchSubmodules = false;
-      sha256 = "sha256-DUqOpZVusXNe6Nd9FDAD8kmAAzHqs9NYleq0kEqUtdM=";
+      sha256 = "sha256-zEKgqDGNLQzy0V4KE92gVj8/AqW+7Axh1g9DLFGhpis=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-aeb2846d1566e4858afc1caa0c8b6b010b1d3af0/Cargo.lock;
+      lockFile = ./rustdesk-609996005f511e4f726716db18042743cc63aaf9/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -906,13 +906,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "91f95e4f38f1ac7d546eb6a96572da6ffecaa7c2";
+    version = "49f1580f706b49e4f4203416886af58c09f8fff9";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "91f95e4f38f1ac7d546eb6a96572da6ffecaa7c2";
+      rev = "49f1580f706b49e4f4203416886af58c09f8fff9";
       fetchSubmodules = false;
-      sha256 = "sha256-5xDkFcOnP645IjR+0YBKsCpqOWGj2jzv02epnYPpdTs=";
+      sha256 = "sha256-8zbvR/NzwJqC3D7C1wLhmNAmMyzrvVgVLR/ei+L1nQ8=";
     });
   };
   spicetify-themes = {
