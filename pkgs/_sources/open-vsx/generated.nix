@@ -19909,6 +19909,18 @@
     publisher = "xolan";
     description = "Slime Language";
   };
+  xoronic-pestfile = {
+    pname = "xoronic-pestfile";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix";
+      sha256 = "sha256-kHOfuKH2qx+LKrx9byCZSIDoPdD+y6ErmNV6QfXh7Ho=";
+    };
+    name = "pestfile";
+    license = "MIT";
+    publisher = "xoronic";
+    description = "pestfile Syntax Highlighting";
+  };
   xotm-xotm-xotmhelloworldemo = {
     pname = "xotm-xotm-xotmhelloworldemo";
     version = "0.0.1";

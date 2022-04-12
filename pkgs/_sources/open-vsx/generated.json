@@ -2919,6 +2919,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "xoronic-pestfile": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "xoronic-pestfile",
+    "version": "0.2.0",
+    "passthru": {
+      "name": "pestfile",
+      "license": "MIT",
+      "publisher": "xoronic",
+      "description": "pestfile Syntax Highlighting"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-kHOfuKH2qx+LKrx9byCZSIDoPdD+y6ErmNV6QfXh7Ho="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "nguyenoss-html-to-css-autocompletion": {
     "pinned": false,
     "cargoLock": null,
