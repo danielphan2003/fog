@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "93468b4f8fcbc9a32d8699836161b03a95e38379",
+    "version": "33351405b9a60cad7ef09f1de89d9f42add4b8e4",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-524MgnS+C+zmr9sdxksoGKVHJAEagO2REDQNzJtfrEI=",
-      "rev": "93468b4f8fcbc9a32d8699836161b03a95e38379"
+      "sha256": "sha256-e6kbwwsO0wTZC7de1vNcM6LWpjcNSER6RdfFgsnkVJw=",
+      "rev": "33351405b9a60cad7ef09f1de89d9f42add4b8e4"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1606,7 +1606,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "52f577f9aafea3b6255119c7f2afe09874113b4e",
+    "version": "91f95e4f38f1ac7d546eb6a96572da6ffecaa7c2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1616,8 +1616,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-G7Rn2jdMi3GgGOFRDotTJU7oGEqdL12rqMkl6Wyu7qY=",
-      "rev": "52f577f9aafea3b6255119c7f2afe09874113b4e"
+      "sha256": "sha256-5xDkFcOnP645IjR+0YBKsCpqOWGj2jzv02epnYPpdTs=",
+      "rev": "91f95e4f38f1ac7d546eb6a96572da6ffecaa7c2"
     },
     "extract": null,
     "rustGitDeps": null
