@@ -6903,10 +6903,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.89.0";
+    version = "0.90.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.89.0/file/dendron.dendron-0.89.0.vsix";
-      sha256 = "sha256-mXbKHm0DBBcsTVMRLJkhs9zZ1r29/4xLN5FJbGzLtsI=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.90.0/file/dendron.dendron-0.90.0.vsix";
+      sha256 = "sha256-UOBbXPH1YwWpYjHamutyguPIYB7BBRSB2RjGOeS8pLI=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -18147,10 +18147,10 @@
   };
   viper-admin-viper = {
     pname = "viper-admin-viper";
-    version = "2.4.0";
+    version = "2.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/viper/2.4.0/file/viper-admin.viper-2.4.0.vsix";
-      sha256 = "sha256-iGEXS8ZVrD/kRu37N8JhdmwhM3lG3uyosReqn0yCNuA=";
+      url = "https://open-vsx.org/api/viper-admin/viper/2.4.1/file/viper-admin.viper-2.4.1.vsix";
+      sha256 = "sha256-U6s4ajhW4WhMPbc1a8voNFtD7AdKW1jAwIGZSvCaY1w=";
     };
     name = "viper";
     license = "";
