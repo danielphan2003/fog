@@ -12519,10 +12519,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.2.1924087327";
+    version = "2022.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.2.1924087327/file/ms-python.python-2022.2.1924087327.vsix";
-      sha256 = "sha256-JksPDcFpi8+JD9BDBhb6cbU0hRbNVbO/ABflOKZctWM=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.4.1/file/ms-python.python-2022.4.1.vsix";
+      sha256 = "sha256-pI6MY/ZTBgDeVl3jo8c6yfZMcAFUqI2AH+NZU5MfTso=";
     };
     name = "python";
     license = "MIT";
@@ -14679,10 +14679,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.0";
+    version = "1.16.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.0/file/rangav.vscode-thunder-client-1.16.0.vsix";
-      sha256 = "sha256-qTcWCp5qbUREltwTbB8WqtYfftzuUNIoR1ANwjJIsKw=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.2/file/rangav.vscode-thunder-client-1.16.2.vsix";
+      sha256 = "sha256-mQwYvaMII+sG8OuCplk/P+3jMtlJbeNDJ/ItpnrIR/4=";
     };
     name = "vscode-thunder-client";
     license = "";
