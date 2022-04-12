@@ -2715,10 +2715,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.840";
+    version = "31.0.841";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.840/file/Prisma.prisma-insider-31.0.840.vsix";
-      sha256 = "sha256-SR2EFBmKtPKfaYtljh995S3M2REoLGeh/g1NJ0uzL2w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.841/file/Prisma.prisma-insider-31.0.841.vsix";
+      sha256 = "sha256-GVgCEr7jfjQnRxspMGVGl6XOmy2PuhGAVl8uv2h5FbM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6555,10 +6555,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.1.4";
+    version = "5.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.4/file/cyrilletuzi.angular-schematics-5.1.4.vsix";
-      sha256 = "sha256-sXN6cVTaWAPpNJZ36hsyo77xbSrO3NSqF1jQkhP7o2k=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.5/file/cyrilletuzi.angular-schematics-5.1.5.vsix";
+      sha256 = "sha256-QLQa4LmS+AvgLAUhKCEyqUJvABZGQeQct3LkWuPebk4=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -8679,10 +8679,10 @@
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
-    version = "0.4.10";
+    version = "0.4.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.10/file/gitduck.code-streaming-0.4.10.vsix";
-      sha256 = "sha256-za9wSMPaqIBuU4fPiNakjKsmz7c/cTOe1NLrt2vatH4=";
+      url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.11/file/gitduck.code-streaming-0.4.11.vsix";
+      sha256 = "sha256-NmYD51LHVfpaXlvGqVnR9pMhxUlZ/LnGh67Pkp/EAZ4=";
     };
     name = "code-streaming";
     license = "Custom";
@@ -15915,10 +15915,10 @@
   };
   serkonda7-vscode-vba = {
     pname = "serkonda7-vscode-vba";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.2.0/file/serkonda7.vscode-vba-0.2.0.vsix";
-      sha256 = "sha256-BiQDhxWFdnvuZji2wdN12MpKNeg5HL6wYl6b1DWqjq4=";
+      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.3.0/file/serkonda7.vscode-vba-0.3.0.vsix";
+      sha256 = "sha256-+t9hpPdhIZe2No4nNeOlb4tokR5ys35v1JhV6H3rup4=";
     };
     name = "vscode-vba";
     license = "MIT";
