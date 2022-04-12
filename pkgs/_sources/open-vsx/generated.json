@@ -1203,7 +1203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.89.3",
+    "version": "0.89.4",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1211,10 +1211,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.89.3/file/dendron.nightly-0.89.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.89.4/file/dendron.nightly-0.89.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rtBrVe9lwcV+A4WbJ7Gju3Nm6cV+hLGlwP3FPEia1os="
+      "sha256": "sha256-qn/D6xmtW6i8BmXSFoGtpW+FPIa73JccASzBAB0ahjk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23003,7 +23003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "digma-digma",
-    "version": "0.5.15",
+    "version": "0.5.17",
     "passthru": {
       "name": "digma",
       "license": "MIT",
@@ -23011,10 +23011,10 @@
       "description": "Code insights and Observability for OpenTelemetry. .NET, Python, more coming soon."
     },
     "src": {
-      "url": "https://open-vsx.org/api/digma/digma/0.5.15/file/digma.digma-0.5.15.vsix",
+      "url": "https://open-vsx.org/api/digma/digma/0.5.17/file/digma.digma-0.5.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ifn11/q2k9JcFWd1mhb01KwHAQGOoyfudhCaSN5qLgU="
+      "sha256": "sha256-pmoN6onDmsTwCffDqZ37yBzFUEcAojW/5Ac7CEGoVM4="
     },
     "extract": null,
     "rustGitDeps": null

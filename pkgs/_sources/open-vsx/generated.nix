@@ -6987,10 +6987,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.89.3";
+    version = "0.89.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.89.3/file/dendron.nightly-0.89.3.vsix";
-      sha256 = "sha256-rtBrVe9lwcV+A4WbJ7Gju3Nm6cV+hLGlwP3FPEia1os=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.89.4/file/dendron.nightly-0.89.4.vsix";
+      sha256 = "sha256-qn/D6xmtW6i8BmXSFoGtpW+FPIa73JccASzBAB0ahjk=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7071,10 +7071,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.15";
+    version = "0.5.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.15/file/digma.digma-0.5.15.vsix";
-      sha256 = "sha256-Ifn11/q2k9JcFWd1mhb01KwHAQGOoyfudhCaSN5qLgU=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.17/file/digma.digma-0.5.17.vsix";
+      sha256 = "sha256-pmoN6onDmsTwCffDqZ37yBzFUEcAojW/5Ac7CEGoVM4=";
     };
     name = "digma";
     license = "MIT";
