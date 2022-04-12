@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "93468b4f8fcbc9a32d8699836161b03a95e38379",
+    "version": "33351405b9a60cad7ef09f1de89d9f42add4b8e4",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-524MgnS+C+zmr9sdxksoGKVHJAEagO2REDQNzJtfrEI=",
-      "rev": "93468b4f8fcbc9a32d8699836161b03a95e38379"
+      "sha256": "sha256-e6kbwwsO0wTZC7de1vNcM6LWpjcNSER6RdfFgsnkVJw=",
+      "rev": "33351405b9a60cad7ef09f1de89d9f42add4b8e4"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6081",
+    "version": "1.0.6082",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6081-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6082-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6nOq4orYUNWEGJ2goqZKA2/GHaJ2D7NVzFpprjPRN70="
+      "sha256": "sha256-FRIXq+qurWzbBZmN0wwcZTsTDDqle3gUgzajd/THHmU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6081",
+    "version": "1.0.6082",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6081.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6082.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2ZLpIkwii/Y1Ttkrt37jUF8yya2N5EkCAPii3PY6u0g="
+      "sha256": "sha256-BfXXCRgqKSqedSNg238EypwMoqZg2wjodAHVAMCtoC0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1606,7 +1606,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "52f577f9aafea3b6255119c7f2afe09874113b4e",
+    "version": "91f95e4f38f1ac7d546eb6a96572da6ffecaa7c2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1616,8 +1616,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-G7Rn2jdMi3GgGOFRDotTJU7oGEqdL12rqMkl6Wyu7qY=",
-      "rev": "52f577f9aafea3b6255119c7f2afe09874113b4e"
+      "sha256": "sha256-5xDkFcOnP645IjR+0YBKsCpqOWGj2jzv02epnYPpdTs=",
+      "rev": "91f95e4f38f1ac7d546eb6a96572da6ffecaa7c2"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1641,7 +1641,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "picom",
-    "version": "aa316aa3601a4f3ce9c1ca79932218ab574e61a7",
+    "version": "61faf42b9e59127e698baaa4aacd78d4ac4cc490",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1651,8 +1651,8 @@
       "name": null,
       "repo": "picom",
       "type": "github",
-      "sha256": "sha256-Yb69LTu45HxBWoD/T9Uj6b1lNn7hHzIEjcn73PMMEz0=",
-      "rev": "aa316aa3601a4f3ce9c1ca79932218ab574e61a7"
+      "sha256": "sha256-KbxPf3HS10fOO4wpcTFnHBdeUK/YDYKhGFFfOOwld5c=",
+      "rev": "61faf42b9e59127e698baaa4aacd78d4ac4cc490"
     },
     "extract": null,
     "rustGitDeps": null
