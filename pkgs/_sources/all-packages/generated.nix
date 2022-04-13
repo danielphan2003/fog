@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3";
+    version = "607dd8b25053d114b06b2089ae063a2a30e4e7f6";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3";
+      rev = "607dd8b25053d114b06b2089ae063a2a30e4e7f6";
       fetchSubmodules = false;
-      sha256 = "sha256-tWpwLuJghrZleESBiafeoE2+I26dewe8R/Y9qlJm2TE=";
+      sha256 = "sha256-X7hPW3JW9xqjlE9frbknNWEPOwf+48vBmfok8m8nOfE=";
     });
     cargoLock = {
-      lockFile = ./eww-b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3/Cargo.lock;
+      lockFile = ./eww-607dd8b25053d114b06b2089ae063a2a30e4e7f6/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -442,10 +442,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-659-g3757e733";
+    version = "2.1-660-g2da18b22";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-659-g3757e733-1_all.deb";
-      sha256 = "sha256-TI/r5s1HhySlNlcnwyQYZ7TT6JidG0OYIIhTHZ1lUcE=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-660-g2da18b22-1_all.deb";
+      sha256 = "sha256-Jp4beCer/88M53WbbigcMegyfuBZlfx1Y8/HSDSIGIM=";
     };
   };
   layout-machi = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "44631686ca63cfa1caa3da97f2f3760f4ac0b4f4";
+    version = "379c4277b634afe39a247d6ec0633ff2a2e90070";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "44631686ca63cfa1caa3da97f2f3760f4ac0b4f4";
+      rev = "379c4277b634afe39a247d6ec0633ff2a2e90070";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-FWnkfqKRm7zDbHVD/JhsMiKc3vplA+JRH98J7gOiedg=";
+      sha256 = "sha256-WzQ4gdWKesZ8x6b/bAyO9Nz/vFzAXhx0hSDnAo+8/zU=";
     };
   };
   spicetify-cli = {
@@ -1150,13 +1150,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "4e27408970f0a21ec26f8ae271173710a7b0cdb0";
+    version = "e9bb66ae252cf6a6266b53fb8cc6fb59fad41761";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "4e27408970f0a21ec26f8ae271173710a7b0cdb0";
+      rev = "e9bb66ae252cf6a6266b53fb8cc6fb59fad41761";
       fetchSubmodules = false;
-      sha256 = "sha256-hP+CRXg+llaUtUjZ6QXmszvTTxrGFHppZTqCE2v23f4=";
+      sha256 = "sha256-giAG2Eag2DdDcwLN6W6TdIBFa4CEU/s8jBdqm3hdsJQ=";
     });
   };
   widevine-cdm = {

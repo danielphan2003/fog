@@ -410,9 +410,9 @@
   },
   "eww": {
     "pinned": false,
-    "cargoLock": "./eww-b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3/Cargo.lock",
+    "cargoLock": "./eww-607dd8b25053d114b06b2089ae063a2a30e4e7f6/Cargo.lock",
     "name": "eww",
-    "version": "b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3",
+    "version": "607dd8b25053d114b06b2089ae063a2a30e4e7f6",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -422,8 +422,8 @@
       "name": null,
       "repo": "eww",
       "type": "github",
-      "sha256": "sha256-tWpwLuJghrZleESBiafeoE2+I26dewe8R/Y9qlJm2TE=",
-      "rev": "b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3"
+      "sha256": "sha256-X7hPW3JW9xqjlE9frbknNWEPOwf+48vBmfok8m8nOfE=",
+      "rev": "607dd8b25053d114b06b2089ae063a2a30e4e7f6"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "44631686ca63cfa1caa3da97f2f3760f4ac0b4f4",
+    "version": "379c4277b634afe39a247d6ec0633ff2a2e90070",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-FWnkfqKRm7zDbHVD/JhsMiKc3vplA+JRH98J7gOiedg=",
-      "rev": "44631686ca63cfa1caa3da97f2f3760f4ac0b4f4"
+      "sha256": "sha256-WzQ4gdWKesZ8x6b/bAyO9Nz/vFzAXhx0hSDnAo+8/zU=",
+      "rev": "379c4277b634afe39a247d6ec0633ff2a2e90070"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1067,7 +1067,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-icon-theme",
-    "version": "4e27408970f0a21ec26f8ae271173710a7b0cdb0",
+    "version": "e9bb66ae252cf6a6266b53fb8cc6fb59fad41761",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1077,8 +1077,8 @@
       "name": null,
       "repo": "whitesur-icon-theme",
       "type": "github",
-      "sha256": "sha256-hP+CRXg+llaUtUjZ6QXmszvTTxrGFHppZTqCE2v23f4=",
-      "rev": "4e27408970f0a21ec26f8ae271173710a7b0cdb0"
+      "sha256": "sha256-giAG2Eag2DdDcwLN6W6TdIBFa4CEU/s8jBdqm3hdsJQ=",
+      "rev": "e9bb66ae252cf6a6266b53fb8cc6fb59fad41761"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-659-g3757e733",
+    "version": "2.1-660-g2da18b22",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-659-g3757e733-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-660-g2da18b22-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TI/r5s1HhySlNlcnwyQYZ7TT6JidG0OYIIhTHZ1lUcE="
+      "sha256": "sha256-Jp4beCer/88M53WbbigcMegyfuBZlfx1Y8/HSDSIGIM="
     },
     "extract": null,
     "rustGitDeps": null
