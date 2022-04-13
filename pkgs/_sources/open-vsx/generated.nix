@@ -8163,10 +8163,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.0/file/foam.foam-vscode-0.18.0.vsix";
-      sha256 = "sha256-R7kRZhbth1KbxrOLTyDvs5gW4y1iZOxS6vLl7Nxmyvw=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.1/file/foam.foam-vscode-0.18.1.vsix";
+      sha256 = "sha256-g4UEW4VQ0ARI75xzcbExYmRW3lBLmlvkFW49dbFAt7M=";
     };
     name = "foam-vscode";
     license = "MIT";
@@ -14835,10 +14835,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.4.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.4.0/file/redhat.java-1.4.0.vsix";
-      sha256 = "sha256-kKiZbBqG4b67d0HPDACDfEZht+vfM1JZxAweARemkTw=";
+      url = "https://open-vsx.org/api/redhat/java/1.5.0/file/redhat.java-1.5.0.vsix";
+      sha256 = "sha256-eVigVosn33WcAup+fblOYYV2gqGCcrfNoXGFJUQkkY0=";
     };
     name = "java";
     license = "EPL-2.0";
@@ -15279,10 +15279,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.44.0";
+    version = "0.45.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.44.0/file/robocorp.robotframework-lsp-0.44.0.vsix";
-      sha256 = "sha256-Shp+w01nhCXI9SEbpVdNSWy4J2Uolw7h4wdhk9c0ee4=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.45.0/file/robocorp.robotframework-lsp-0.45.0.vsix";
+      sha256 = "sha256-680pMwYzNMALF+dC8vwk5OByfwggiL47zyzzbq1q1LE=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
