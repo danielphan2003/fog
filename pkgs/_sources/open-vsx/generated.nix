@@ -9687,10 +9687,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.24";
+    version = "0.14.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.24/file/iljapostnovs.ui5plugin-0.14.24.vsix";
-      sha256 = "sha256-iLUEYeA1N5HboIKTq/ba2I/gtA7xNscrQFsC576BQqs=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.25/file/iljapostnovs.ui5plugin-0.14.25.vsix";
+      sha256 = "sha256-76CjoP8Z4Wb6DRR8XG+/GfbwQLo+D25dagcxNQh17kM=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
@@ -14307,10 +14307,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.309";
+    version = "0.25.310";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.309/file/pokey.cursorless-0.25.309.vsix";
-      sha256 = "sha256-jPH9xRxbmM0cs3RdPPAPfAFm2YpkbvZEy2bS8uIHS38=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.310/file/pokey.cursorless-0.25.310.vsix";
+      sha256 = "sha256-RSqfH4nHiMbc+cFBKYHtl28lwFMyaTHvOzmSNFgC4M8=";
     };
     name = "cursorless";
     license = "MIT";
