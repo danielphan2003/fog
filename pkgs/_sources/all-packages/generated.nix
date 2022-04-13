@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3";
+    version = "607dd8b25053d114b06b2089ae063a2a30e4e7f6";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3";
+      rev = "607dd8b25053d114b06b2089ae063a2a30e4e7f6";
       fetchSubmodules = false;
-      sha256 = "sha256-tWpwLuJghrZleESBiafeoE2+I26dewe8R/Y9qlJm2TE=";
+      sha256 = "sha256-X7hPW3JW9xqjlE9frbknNWEPOwf+48vBmfok8m8nOfE=";
     });
     cargoLock = {
-      lockFile = ./eww-b3ac542e79ea9e32c7f6911d6f29604c4c90b6c3/Cargo.lock;
+      lockFile = ./eww-607dd8b25053d114b06b2089ae063a2a30e4e7f6/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -442,10 +442,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-659-g3757e733";
+    version = "2.1-660-g2da18b22";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-659-g3757e733-1_all.deb";
-      sha256 = "sha256-TI/r5s1HhySlNlcnwyQYZ7TT6JidG0OYIIhTHZ1lUcE=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-660-g2da18b22-1_all.deb";
+      sha256 = "sha256-Jp4beCer/88M53WbbigcMegyfuBZlfx1Y8/HSDSIGIM=";
     };
   };
   layout-machi = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "2e86255744098dbd27be67f06b0c751efc9ab2c0";
+    version = "379c4277b634afe39a247d6ec0633ff2a2e90070";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "2e86255744098dbd27be67f06b0c751efc9ab2c0";
+      rev = "379c4277b634afe39a247d6ec0633ff2a2e90070";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-vdhG14FzG5LjEjhbKZFdfin/WyHzabFTNeEaLDzxDT0=";
+      sha256 = "sha256-WzQ4gdWKesZ8x6b/bAyO9Nz/vFzAXhx0hSDnAo+8/zU=";
     };
   };
   spicetify-cli = {
@@ -1038,13 +1038,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "1b66c7636ae8614ab880db7eda6b3e5d718a3fbc";
+    version = "83608966b112d1df0356d4754a077323768b9413";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "1b66c7636ae8614ab880db7eda6b3e5d718a3fbc";
+      rev = "83608966b112d1df0356d4754a077323768b9413";
       fetchSubmodules = false;
-      sha256 = "sha256-arTnxuR+s/ZTJvXxsfHFv77j/MuRd3XHOPO1nB6j8tI=";
+      sha256 = "sha256-x9perkz+rYCb2Q2PY/iHxKfysvHDh84uSyBjbq6FZsY=";
     });
   };
   ultimmc = {
@@ -1150,13 +1150,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "522cd991e5dce8d895cd894f6be35b65a256d676";
+    version = "e9bb66ae252cf6a6266b53fb8cc6fb59fad41761";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "522cd991e5dce8d895cd894f6be35b65a256d676";
+      rev = "e9bb66ae252cf6a6266b53fb8cc6fb59fad41761";
       fetchSubmodules = false;
-      sha256 = "sha256-0jmAenn12Wl1gQPRnDIBv+fJhiGRl2x1x7h+O6/ALP0=";
+      sha256 = "sha256-giAG2Eag2DdDcwLN6W6TdIBFa4CEU/s8jBdqm3hdsJQ=";
     });
   };
   widevine-cdm = {
