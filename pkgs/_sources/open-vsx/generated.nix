@@ -2715,10 +2715,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.848";
+    version = "31.0.849";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.848/file/Prisma.prisma-insider-31.0.848.vsix";
-      sha256 = "sha256-RBsFdNcYV4+l4Nefy5id882XXcHpMJu/9jipBUCw+64=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.849/file/Prisma.prisma-insider-31.0.849.vsix";
+      sha256 = "sha256-ZIZySdnzXX+zseHZMtPxKr26CBLoYki5DxPopvOe1OI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8991,10 +8991,10 @@
   };
   haskell-haskell = {
     pname = "haskell-haskell";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/haskell/haskell/2.1.0/file/haskell.haskell-2.1.0.vsix";
-      sha256 = "sha256-tVR0W7GY6zQ9beXvXxf7ZW0gaTIu30jydRLp+R2hZRY=";
+      url = "https://open-vsx.org/api/haskell/haskell/2.1.1/file/haskell.haskell-2.1.1.vsix";
+      sha256 = "sha256-X6gOGSink72RbJWaStzl43oitIHRayFJWjaQP9dAp2c=";
     };
     name = "haskell";
     license = "MIT";

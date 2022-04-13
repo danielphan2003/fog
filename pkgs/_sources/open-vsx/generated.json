@@ -23183,7 +23183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "haskell-haskell",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "passthru": {
       "name": "haskell",
       "license": "MIT",
@@ -23191,10 +23191,10 @@
       "description": "Haskell language support powered by the Haskell Language Server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/haskell/haskell/2.1.0/file/haskell.haskell-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/haskell/haskell/2.1.1/file/haskell.haskell-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tVR0W7GY6zQ9beXvXxf7ZW0gaTIu30jydRLp+R2hZRY="
+      "sha256": "sha256-X6gOGSink72RbJWaStzl43oitIHRayFJWjaQP9dAp2c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30783,7 +30783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.848",
+    "version": "31.0.849",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30791,10 +30791,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.848/file/Prisma.prisma-insider-31.0.848.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.849/file/Prisma.prisma-insider-31.0.849.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RBsFdNcYV4+l4Nefy5id882XXcHpMJu/9jipBUCw+64="
+      "sha256": "sha256-ZIZySdnzXX+zseHZMtPxKr26CBLoYki5DxPopvOe1OI="
     },
     "extract": null,
     "rustGitDeps": null
