@@ -303,10 +303,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.0.2/file/BroadcomMFD.explorer-for-endevor-1.0.2.vsix";
-      sha256 = "sha256-70D3NjTeERtAn/HslCit6ImKeCIjpQYI7+fqMNMqwAA=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.1.0/file/BroadcomMFD.explorer-for-endevor-1.1.0.vsix";
+      sha256 = "sha256-Tplq9yhjp9i/UzaQSz+v242Vb+G8b4S3CdXAMJVZUBM=";
     };
     name = "explorer-for-endevor";
     license = "EPL-2.0";
@@ -2715,10 +2715,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.844";
+    version = "31.0.845";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.844/file/Prisma.prisma-insider-31.0.844.vsix";
-      sha256 = "sha256-/uc1tibUypJwitkMRF7lMU63g6EAXcpKLrcX+U0VAZ0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.845/file/Prisma.prisma-insider-31.0.845.vsix";
+      sha256 = "sha256-OiDfp63vJq3Ir0QehIPcQqIZ71wp+te3Vlz3xq383/w=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5355,10 +5355,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.266";
+    version = "2.0.267";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.266/file/betterthantomorrow.calva-2.0.266.vsix";
-      sha256 = "sha256-LxuKLF1cikGUOJ7f/O29mJxX8ZlG3DUkfjYaoWplp2I=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.267/file/betterthantomorrow.calva-2.0.267.vsix";
+      sha256 = "sha256-Q8xi76NIoAA/nHouhQ/ZBqpybrMkL+40Pk0Z2LC9Bl0=";
     };
     name = "calva";
     license = "MIT";
@@ -6987,10 +6987,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.89.4";
+    version = "0.89.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.89.4/file/dendron.nightly-0.89.4.vsix";
-      sha256 = "sha256-qn/D6xmtW6i8BmXSFoGtpW+FPIa73JccASzBAB0ahjk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.89.5/file/dendron.nightly-0.89.5.vsix";
+      sha256 = "sha256-5kvpofQyUXWvyaQUbbllEzCmSuwK5r44HRNibz+a10w=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -8991,10 +8991,10 @@
   };
   haskell-haskell = {
     pname = "haskell-haskell";
-    version = "1.8.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/haskell/haskell/1.8.0/file/haskell.haskell-1.8.0.vsix";
-      sha256 = "sha256-twGKq0DhHs4tEItX0cB0gCQMuNsQwT2TGEvkDuHubsk=";
+      url = "https://open-vsx.org/api/haskell/haskell/2.1.0/file/haskell.haskell-2.1.0.vsix";
+      sha256 = "sha256-tVR0W7GY6zQ9beXvXxf7ZW0gaTIu30jydRLp+R2hZRY=";
     };
     name = "haskell";
     license = "MIT";
