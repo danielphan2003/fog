@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "e3f2be4d5755bdc8d3d8280bdaa5845d3ba4a4cc",
+    "version": "39f8b07cb82c83c70a584ff5c1786a24e63fb38b",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-lppcJsYCB/C7BjbGB48AwlOcpZnDWYW83w888kOx/UQ=",
-      "rev": "e3f2be4d5755bdc8d3d8280bdaa5845d3ba4a4cc"
+      "sha256": "sha256-0iBfGnOBQGv6HjS48bum6Ve0RiA4FzzOUpDNB/t8pBs=",
+      "rev": "39f8b07cb82c83c70a584ff5c1786a24e63fb38b"
     },
     "extract": null,
     "rustGitDeps": null
@@ -552,13 +552,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-amd64",
-    "version": "0.108.0-b.5",
+    "version": "0.108.0-b.6",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.5/AdGuardHome_linux_amd64.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_amd64.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3u1A9UUGvulyHGax7ti4tWnhUV6lmRVCabnrbchJLCg="
+      "sha256": "sha256-4cp8ND380qM7x7yG7+jnweO6601Lc4BNOT93+TkRZpI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1122,13 +1122,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-386",
-    "version": "0.108.0-b.5",
+    "version": "0.108.0-b.6",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.5/AdGuardHome_linux_386.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_386.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-STj7PQ38ZRPIC0nOoEDGuT9Er9G//+tDgbaGvmABWAc="
+      "sha256": "sha256-a4Bgwj7mWOLhgmHJ/0I7VbvnY/mS+M90YuhILoieUqY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1476,13 +1476,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-darwin-amd64",
-    "version": "0.108.0-b.5",
+    "version": "0.108.0-b.6",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.5/AdGuardHome_darwin_amd64.zip",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_darwin_amd64.zip",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ervslLG3lVn9WOXPECixDpe9Y6GxK9wMwB3uOGjf8ok="
+      "sha256": "sha256-YdtofbaX8gn52IkI8Cbad/youXNchjCqSuNvrGanPzI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1626,13 +1626,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-arm64",
-    "version": "0.108.0-b.5",
+    "version": "0.108.0-b.6",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.5/AdGuardHome_linux_arm64.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_arm64.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BKuAXyKstaQZRPJbriAvSQLVOsk6CQsknHAHYC1k34A="
+      "sha256": "sha256-Vfa5Mc7K7HZ/rxsGoROd47s45AfHI9HNWLAN35WNYlk="
     },
     "extract": null,
     "rustGitDeps": null
