@@ -600,13 +600,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "e052a86b12ceece6a6cf7dc658c8588ec2a3f6b5";
+    version = "bb84a2fc46807a3c8ce1b701f578275a29e121c2";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "e052a86b12ceece6a6cf7dc658c8588ec2a3f6b5";
+      rev = "bb84a2fc46807a3c8ce1b701f578275a29e121c2";
       fetchSubmodules = false;
-      sha256 = "sha256-lHdAbg2KJW6Pe8g8YUVxbt94usoOaVvLOjXLfRMyNb8=";
+      sha256 = "sha256-IzuxbjB9Fy6qTFFxD/BSix1N7EOab3Aal4mIcViBHoc=";
     });
   };
   ny-font = {
