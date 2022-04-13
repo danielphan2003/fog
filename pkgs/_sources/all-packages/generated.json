@@ -97,7 +97,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nwg-drawer",
-    "version": "e052a86b12ceece6a6cf7dc658c8588ec2a3f6b5",
+    "version": "bb84a2fc46807a3c8ce1b701f578275a29e121c2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -107,8 +107,8 @@
       "name": null,
       "repo": "nwg-drawer",
       "type": "github",
-      "sha256": "sha256-lHdAbg2KJW6Pe8g8YUVxbt94usoOaVvLOjXLfRMyNb8=",
-      "rev": "e052a86b12ceece6a6cf7dc658c8588ec2a3f6b5"
+      "sha256": "sha256-IzuxbjB9Fy6qTFFxD/BSix1N7EOab3Aal4mIcViBHoc=",
+      "rev": "bb84a2fc46807a3c8ce1b701f578275a29e121c2"
     },
     "extract": null,
     "rustGitDeps": null
