@@ -8443,7 +8443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "FelixAngelov-mason",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "passthru": {
       "name": "mason",
       "license": "MIT",
@@ -8451,10 +8451,10 @@
       "description": "Mason support for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/FelixAngelov/mason/0.1.0/file/FelixAngelov.mason-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/FelixAngelov/mason/0.1.1/file/FelixAngelov.mason-0.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-K1fH6s9WMQg0O4qdINszkzs8kOTqk4IGVXVJaNe7JwE="
+      "sha256": "sha256-nDMlOUg1D1lKu09rcmNflNQwIPYJllfWy94yeFfWhEA="
     },
     "extract": null,
     "rustGitDeps": null

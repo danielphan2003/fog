@@ -999,10 +999,10 @@
   };
   FelixAngelov-mason = {
     pname = "FelixAngelov-mason";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.0/file/FelixAngelov.mason-0.1.0.vsix";
-      sha256 = "sha256-K1fH6s9WMQg0O4qdINszkzs8kOTqk4IGVXVJaNe7JwE=";
+      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.1/file/FelixAngelov.mason-0.1.1.vsix";
+      sha256 = "sha256-nDMlOUg1D1lKu09rcmNflNQwIPYJllfWy94yeFfWhEA=";
     };
     name = "mason";
     license = "MIT";
