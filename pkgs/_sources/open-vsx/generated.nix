@@ -637,6 +637,18 @@
     publisher = "DAXaholic";
     description = "Basic language support for EDIFACT files";
   };
+  DCsunset-vscode-modal-editor = {
+    pname = "DCsunset-vscode-modal-editor";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.1.0/file/DCsunset.vscode-modal-editor-0.1.0.vsix";
+      sha256 = "sha256-sj/6Z+INOCKOvl2t5ojkmWspGMXzOfrZMNOignc0wQs=";
+    };
+    name = "vscode-modal-editor";
+    license = "AGPL-3.0";
+    publisher = "DCsunset";
+    description = "Customizable extension to turn VS Code into a modal editor";
+  };
   Daimler-sechub = {
     pname = "Daimler-sechub";
     version = "0.1.1";
