@@ -2739,10 +2739,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.850";
+    version = "31.0.851";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.850/file/Prisma.prisma-insider-31.0.850.vsix";
-      sha256 = "sha256-IQPJILtOZ9MLcgSodcq5tZfLFazw8oJhPlD3WmvobTk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.851/file/Prisma.prisma-insider-31.0.851.vsix";
+      sha256 = "sha256-skb9tLCpfpQEP+CC9Sl3QmraGWaSuE0eqOLDjnvasS0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15315,10 +15315,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.45.0";
+    version = "0.45.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.45.0/file/robocorp.robotframework-lsp-0.45.0.vsix";
-      sha256 = "sha256-680pMwYzNMALF+dC8vwk5OByfwggiL47zyzzbq1q1LE=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.45.2/file/robocorp.robotframework-lsp-0.45.2.vsix";
+      sha256 = "sha256-geJbTAbXV9VdOBZ2hg5az5q2c3VTV212nTEKFK0+e9M=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
@@ -17031,10 +17031,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.15.0";
+    version = "105.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.15.0/file/svelte.svelte-vscode-105.15.0.vsix";
-      sha256 = "sha256-19PEhM5l15ca02AvBeyiH0gr1AHxZlRzljcc+PQSVxA=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.16.0/file/svelte.svelte-vscode-105.16.0.vsix";
+      sha256 = "sha256-Tuq1ePQ8n+ArDzvLyJVoUx/WlEsHikSnmVa1OWKf+mA=";
     };
     name = "svelte-vscode";
     license = "MIT";
