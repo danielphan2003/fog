@@ -17583,7 +17583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.3",
+    "version": "0.17.4",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -17591,10 +17591,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.3/file/Marko-JS.marko-vscode-0.17.3.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.4/file/Marko-JS.marko-vscode-0.17.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fRFBK2JRJ8WxtOn0PlTFAmH12pMzLVWOlwV5Vi6ikvI="
+      "sha256": "sha256-16NlZ1Yib48f2uDvntweiJxFr2arB8b1yWblfIdP8i8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23895,6 +23895,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-K+lZrT1Yc7Ggrmr9JAQs3GVP5pDjaKLS+pwG9oUGN/g="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "DontShaveTheYak-groovy-guru": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "DontShaveTheYak-groovy-guru",
+    "version": "0.5.0",
+    "passthru": {
+      "name": "groovy-guru",
+      "license": "Apache-2.0",
+      "publisher": "DontShaveTheYak",
+      "description": "Groovy Intellisense for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.5.0/file/DontShaveTheYak.groovy-guru-0.5.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-e6fkdiz+1velQbJFQxAwbHwTYvd92g5+vxx4NVbA0iM="
     },
     "extract": null,
     "rustGitDeps": null

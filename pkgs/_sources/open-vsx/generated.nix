@@ -793,6 +793,18 @@
     publisher = "DominicVonk";
     description = "Automatic parameter hints";
   };
+  DontShaveTheYak-groovy-guru = {
+    pname = "DontShaveTheYak-groovy-guru";
+    version = "0.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.5.0/file/DontShaveTheYak.groovy-guru-0.5.0.vsix";
+      sha256 = "sha256-e6fkdiz+1velQbJFQxAwbHwTYvd92g5+vxx4NVbA0iM=";
+    };
+    name = "groovy-guru";
+    license = "Apache-2.0";
+    publisher = "DontShaveTheYak";
+    description = "Groovy Intellisense for Visual Studio Code";
+  };
   DotJoshJohnson-xml = {
     pname = "DotJoshJohnson-xml";
     version = "2.5.1";
@@ -2235,10 +2247,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.3";
+    version = "0.17.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.3/file/Marko-JS.marko-vscode-0.17.3.vsix";
-      sha256 = "sha256-fRFBK2JRJ8WxtOn0PlTFAmH12pMzLVWOlwV5Vi6ikvI=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.4/file/Marko-JS.marko-vscode-0.17.4.vsix";
+      sha256 = "sha256-16NlZ1Yib48f2uDvntweiJxFr2arB8b1yWblfIdP8i8=";
     };
     name = "marko-vscode";
     license = "MIT";
