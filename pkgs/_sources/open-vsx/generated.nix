@@ -2271,10 +2271,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.6";
+    version = "0.17.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.6/file/Marko-JS.marko-vscode-0.17.6.vsix";
-      sha256 = "sha256-PsZRHuyvC+3hhD2EoxmWDpogtN4uXsGQ4bhtRAJNNE4=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.7/file/Marko-JS.marko-vscode-0.17.7.vsix";
+      sha256 = "sha256-1OsXgBZlCdOC59hJyW1FcDFs9HrNNx/Nthxo/ITGb2I=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -2751,10 +2751,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.851";
+    version = "31.0.852";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.851/file/Prisma.prisma-insider-31.0.851.vsix";
-      sha256 = "sha256-skb9tLCpfpQEP+CC9Sl3QmraGWaSuE0eqOLDjnvasS0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.852/file/Prisma.prisma-insider-31.0.852.vsix";
+      sha256 = "sha256-AfczdJTWGapd1GUrfnKNXlO0PFriS/abEPbM0djV03Y=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -2931,10 +2931,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.30.1";
+    version = "2.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.30.1/file/RokuCommunity.brightscript-2.30.1.vsix";
-      sha256 = "sha256-Qzn4SF5n3hz0Ev1fYo5iHtwhE74AUsGaOIPlelypNZE=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.0/file/RokuCommunity.brightscript-2.31.0.vsix";
+      sha256 = "sha256-7E+u8RQdTXkoLv7SWvrMRxynTu817lnbaVw9RDGgoBQ=";
     };
     name = "brightscript";
     license = "MIT";
