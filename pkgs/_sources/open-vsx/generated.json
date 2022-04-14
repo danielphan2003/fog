@@ -10499,6 +10499,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "KDJFS-three-snippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "KDJFS-three-snippets",
+    "version": "0.1.12",
+    "passthru": {
+      "name": "three-snippets",
+      "license": "MIT",
+      "publisher": "KDJFS",
+      "description": "A three.js Extension"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/KDJFS/three-snippets/0.1.12/file/KDJFS.three-snippets-0.1.12.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-HJY0nCg6RdsjJzS22sc0FaPV0pcsqzU2tIc1CnD+ToI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "usernamehw-errorlens": {
     "pinned": false,
     "cargoLock": null,

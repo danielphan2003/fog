@@ -1765,6 +1765,18 @@
     publisher = "JustBrenny";
     description = "A powerful Heroku dashboard from within VSCode!";
   };
+  KDJFS-three-snippets = {
+    pname = "KDJFS-three-snippets";
+    version = "0.1.12";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/KDJFS/three-snippets/0.1.12/file/KDJFS.three-snippets-0.1.12.vsix";
+      sha256 = "sha256-HJY0nCg6RdsjJzS22sc0FaPV0pcsqzU2tIc1CnD+ToI=";
+    };
+    name = "three-snippets";
+    license = "MIT";
+    publisher = "KDJFS";
+    description = "A three.js Extension";
+  };
   KaanGenc-writing-assistant = {
     pname = "KaanGenc-writing-assistant";
     version = "0.1.1";
