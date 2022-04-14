@@ -38,7 +38,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pmbootstrap-test",
-    "version": "faf523911a595ad672f21c370d609e2212e79ebb",
+    "version": "6fbe916e0ded3e8f9785027adc80c4f42b80fbc3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -47,8 +47,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-6yuYVk9KHQ392hkk6YdkBR8f4VZTWeGB1XaftpF+eDk=",
-      "rev": "faf523911a595ad672f21c370d609e2212e79ebb"
+      "sha256": "sha256-jbTzPGrRVisLG7f4NspkDVB8NYSyyInHkhSUPO3dgU0=",
+      "rev": "6fbe916e0ded3e8f9785027adc80c4f42b80fbc3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -267,13 +267,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pmbootstrap",
-    "version": "1.42.0",
+    "version": "1.43.0",
     "passthru": null,
     "src": {
-      "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.42.0.tar.gz",
+      "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.43.0.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qpq8nsNQTGUvAh6TQtqj4SJZjye99+ZTyjEFgU4LANY="
+      "sha256": "sha256-4bPxWmzlyVZrkq9qs/5t+ZOsVDkAAwYc6Mc4een4Qnw="
     },
     "extract": null,
     "rustGitDeps": null
