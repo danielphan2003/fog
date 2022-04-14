@@ -6023,7 +6023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "everscale-solidity-support",
-    "version": "1.3.13",
+    "version": "1.3.18",
     "passthru": {
       "name": "solidity-support",
       "license": "Apache-2.0",
@@ -6031,10 +6031,10 @@
       "description": "Everscale Solidity Language for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.13/file/everscale.solidity-support-1.3.13.vsix",
+      "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.18/file/everscale.solidity-support-1.3.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JpFQLV46JJRJcS0BPRktRO+tl+WG30tevQ7eUnIEz9Q="
+      "sha256": "sha256-31xGPJsZYdXZ+B82BZAJa3mQYq6cQlhQJQZGyFAPh5g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7503,7 +7503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.12.1",
+    "version": "1.13.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7511,10 +7511,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.12.1/file/quarto.quarto-1.12.1.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.13.0/file/quarto.quarto-1.13.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6LeWmW1zRNIsCzRrF+i5wKobj0BcqiXc2RyyATC4g/M="
+      "sha256": "sha256-2wpN60Eq7z8aeJ0So2j3TZ5UZe04VMH7tt6zlyqM0PU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10583,7 +10583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "venner-vscode-glua-enhanced",
-    "version": "2.5.0",
+    "version": "2.5.1",
     "passthru": {
       "name": "vscode-glua-enhanced",
       "license": "GNU General Public License v3.0",
@@ -10591,10 +10591,10 @@
       "description": "GLua language support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/venner/vscode-glua-enhanced/2.5.0/file/venner.vscode-glua-enhanced-2.5.0.vsix",
+      "url": "https://open-vsx.org/api/venner/vscode-glua-enhanced/2.5.1/file/venner.vscode-glua-enhanced-2.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hhjMpZY9FOYWFmtV2U/yVjCcNIsXdqmgDA7GkCg6+ck="
+      "sha256": "sha256-QLHUFCepddhlsPMrKhxoeI/a6kdHWPCg+BPO2fBu6K4="
     },
     "extract": null,
     "rustGitDeps": null

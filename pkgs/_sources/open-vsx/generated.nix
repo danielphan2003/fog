@@ -7863,10 +7863,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.13";
+    version = "1.3.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.13/file/everscale.solidity-support-1.3.13.vsix";
-      sha256 = "sha256-JpFQLV46JJRJcS0BPRktRO+tl+WG30tevQ7eUnIEz9Q=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.18/file/everscale.solidity-support-1.3.18.vsix";
+      sha256 = "sha256-31xGPJsZYdXZ+B82BZAJa3mQYq6cQlhQJQZGyFAPh5g=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -14607,10 +14607,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.12.1";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.12.1/file/quarto.quarto-1.12.1.vsix";
-      sha256 = "sha256-6LeWmW1zRNIsCzRrF+i5wKobj0BcqiXc2RyyATC4g/M=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.13.0/file/quarto.quarto-1.13.0.vsix";
+      sha256 = "sha256-2wpN60Eq7z8aeJ0So2j3TZ5UZe04VMH7tt6zlyqM0PU=";
     };
     name = "quarto";
     license = "MIT";
@@ -18087,10 +18087,10 @@
   };
   venner-vscode-glua-enhanced = {
     pname = "venner-vscode-glua-enhanced";
-    version = "2.5.0";
+    version = "2.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/venner/vscode-glua-enhanced/2.5.0/file/venner.vscode-glua-enhanced-2.5.0.vsix";
-      sha256 = "sha256-hhjMpZY9FOYWFmtV2U/yVjCcNIsXdqmgDA7GkCg6+ck=";
+      url = "https://open-vsx.org/api/venner/vscode-glua-enhanced/2.5.1/file/venner.vscode-glua-enhanced-2.5.1.vsix";
+      sha256 = "sha256-QLHUFCepddhlsPMrKhxoeI/a6kdHWPCg+BPO2fBu6K4=";
     };
     name = "vscode-glua-enhanced";
     license = "GNU General Public License v3.0";
