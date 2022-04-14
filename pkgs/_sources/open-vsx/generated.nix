@@ -8211,10 +8211,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.18.1";
+    version = "0.18.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.1/file/foam.foam-vscode-0.18.1.vsix";
-      sha256 = "sha256-g4UEW4VQ0ARI75xzcbExYmRW3lBLmlvkFW49dbFAt7M=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.2/file/foam.foam-vscode-0.18.2.vsix";
+      sha256 = "sha256-1ybmQrkFLsMllZ2YZHTv8Gv654Dgn3coa/KZQyRggfY=";
     };
     name = "foam-vscode";
     license = "MIT";
