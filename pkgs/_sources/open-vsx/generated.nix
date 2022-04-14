@@ -2259,10 +2259,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.4";
+    version = "0.17.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.4/file/Marko-JS.marko-vscode-0.17.4.vsix";
-      sha256 = "sha256-16NlZ1Yib48f2uDvntweiJxFr2arB8b1yWblfIdP8i8=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.6/file/Marko-JS.marko-vscode-0.17.6.vsix";
+      sha256 = "sha256-PsZRHuyvC+3hhD2EoxmWDpogtN4uXsGQ4bhtRAJNNE4=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -3099,10 +3099,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.1216";
+    version = "2022.4.1321";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1216/file/Slint.slint-nightly-2022.4.1216.vsix";
-      sha256 = "sha256-RMxfqk75OrmQ1UwK3HFtl3rW6YeVVbJvAvP/aiATI+w=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1321/file/Slint.slint-nightly-2022.4.1321.vsix";
+      sha256 = "sha256-9sZFxBvG77cHoC3ZpYRoHBDpPDUtxmJC0N2IhW7bzbY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5437,6 +5437,18 @@
     publisher = "bierner";
     description = "Adds suggestions and autocomplete for emoji";
   };
+  bierner-markdown-image-size = {
+    pname = "bierner-markdown-image-size";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bierner/markdown-image-size/0.0.4/file/bierner.markdown-image-size-0.0.4.vsix";
+      sha256 = "sha256-cGTXHKVLaZuD9jQ5I9zPVZpOAtjXiicIIuzXcUi6mJo=";
+    };
+    name = "markdown-image-size";
+    license = "MIT";
+    publisher = "bierner";
+    description = "Adds ![](./cat.gif =100x200) image support to VS Code's built-in markdown preview";
+  };
   bierner-markdown-mermaid = {
     pname = "bierner-markdown-mermaid";
     version = "1.13.2";
@@ -5571,10 +5583,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.7.7";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.7/file/bradlc.vscode-tailwindcss-0.7.7.vsix";
-      sha256 = "sha256-wfqYqNvwxJgqLbHkW/40y1StI/Uiw0/ViyjKGJU0Jv8=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.1/file/bradlc.vscode-tailwindcss-0.8.1.vsix";
+      sha256 = "sha256-VNldpFr8k7w3VL2Ur3Oqzunf3fMzWZZl8wTrR8B/Ovg=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -12459,10 +12471,10 @@
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
-    version = "1.6.1";
+    version = "1.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.6.1/file/ms-azuretools.vscode-azurefunctions-1.6.1.vsix";
-      sha256 = "sha256-4OkYNHqVThlcXi1aNrnDZLG1KLwdHHzNZ5KTIGqL11M=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.6.2/file/ms-azuretools.vscode-azurefunctions-1.6.2.vsix";
+      sha256 = "sha256-ZARrJxLEd+2bVuXVmnqK/fvS4IPHANCztT8eT5ZlA2o=";
     };
     name = "vscode-azurefunctions";
     license = "MIT";
@@ -12507,10 +12519,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.236";
+    version = "1.1.237";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.236/file/ms-pyright.pyright-1.1.236.vsix";
-      sha256 = "sha256-YpJ+uTz2nJZaezXWHJ0anIgsDRQTpV0dN6DEFRwbX6U=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.237/file/ms-pyright.pyright-1.1.237.vsix";
+      sha256 = "sha256-QuzmN6W9K6VkJkeHM+9/4V+gsLU3CPd07E7dqfzR7nU=";
     };
     name = "pyright";
     license = "MIT";

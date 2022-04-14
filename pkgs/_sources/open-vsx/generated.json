@@ -7319,6 +7319,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "bierner-markdown-image-size": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "bierner-markdown-image-size",
+    "version": "0.0.4",
+    "passthru": {
+      "name": "markdown-image-size",
+      "license": "MIT",
+      "publisher": "bierner",
+      "description": "Adds ![](./cat.gif =100x200) image support to VS Code's built-in markdown preview"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/bierner/markdown-image-size/0.0.4/file/bierner.markdown-image-size-0.0.4.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-cGTXHKVLaZuD9jQ5I9zPVZpOAtjXiicIIuzXcUi6mJo="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "alphabotsec-vscode-eclipse-keybindings": {
     "pinned": false,
     "cargoLock": null,
@@ -15243,7 +15263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.1216",
+    "version": "2022.4.1321",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15251,10 +15271,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1216/file/Slint.slint-nightly-2022.4.1216.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1321/file/Slint.slint-nightly-2022.4.1321.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RMxfqk75OrmQ1UwK3HFtl3rW6YeVVbJvAvP/aiATI+w="
+      "sha256": "sha256-9sZFxBvG77cHoC3ZpYRoHBDpPDUtxmJC0N2IhW7bzbY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17583,7 +17603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.4",
+    "version": "0.17.6",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -17591,10 +17611,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.4/file/Marko-JS.marko-vscode-0.17.4.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.6/file/Marko-JS.marko-vscode-0.17.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-16NlZ1Yib48f2uDvntweiJxFr2arB8b1yWblfIdP8i8="
+      "sha256": "sha256-PsZRHuyvC+3hhD2EoxmWDpogtN4uXsGQ4bhtRAJNNE4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23483,7 +23503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bradlc-vscode-tailwindcss",
-    "version": "0.7.7",
+    "version": "0.8.1",
     "passthru": {
       "name": "vscode-tailwindcss",
       "license": "MIT",
@@ -23491,10 +23511,10 @@
       "description": "Intelligent Tailwind CSS tooling for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.7.7/file/bradlc.vscode-tailwindcss-0.7.7.vsix",
+      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.1/file/bradlc.vscode-tailwindcss-0.8.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wfqYqNvwxJgqLbHkW/40y1StI/Uiw0/ViyjKGJU0Jv8="
+      "sha256": "sha256-VNldpFr8k7w3VL2Ur3Oqzunf3fMzWZZl8wTrR8B/Ovg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30643,7 +30663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.236",
+    "version": "1.1.237",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -30651,10 +30671,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.236/file/ms-pyright.pyright-1.1.236.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.237/file/ms-pyright.pyright-1.1.237.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YpJ+uTz2nJZaezXWHJ0anIgsDRQTpV0dN6DEFRwbX6U="
+      "sha256": "sha256-QuzmN6W9K6VkJkeHM+9/4V+gsLU3CPd07E7dqfzR7nU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34183,7 +34203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-azuretools-vscode-azurefunctions",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "passthru": {
       "name": "vscode-azurefunctions",
       "license": "MIT",
@@ -34191,10 +34211,10 @@
       "description": "An Azure Functions extension for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.6.1/file/ms-azuretools.vscode-azurefunctions-1.6.1.vsix",
+      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.6.2/file/ms-azuretools.vscode-azurefunctions-1.6.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4OkYNHqVThlcXi1aNrnDZLG1KLwdHHzNZ5KTIGqL11M="
+      "sha256": "sha256-ZARrJxLEd+2bVuXVmnqK/fvS4IPHANCztT8eT5ZlA2o="
     },
     "extract": null,
     "rustGitDeps": null
