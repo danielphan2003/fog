@@ -1000,13 +1000,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "4f1d6c53cb18f4957acafe847ded4bd65aff3a6c";
+    version = "8de7f9bff7eb03fc1368776b68cb40bff0d208e9";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "4f1d6c53cb18f4957acafe847ded4bd65aff3a6c";
+      rev = "8de7f9bff7eb03fc1368776b68cb40bff0d208e9";
       fetchSubmodules = false;
-      sha256 = "sha256-pN6iO8petw4LKKk1AKh9J5HXzTXszcCaJJcwb3bUYcE=";
+      sha256 = "sha256-AN+4gyWuCeKdXpB1rCLDBfIFfw2zNdqpe+qDbLHzmpc=";
     });
   };
   tailscale-systray = {
@@ -1180,13 +1180,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "dfd95396445a052c3d2d9f81de41ec111a9fb98a";
+    version = "65a55ae8c1ec150b679bff1782adc25588f752b9";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "dfd95396445a052c3d2d9f81de41ec111a9fb98a";
+      rev = "65a55ae8c1ec150b679bff1782adc25588f752b9";
       fetchSubmodules = false;
-      sha256 = "sha256-ffIgffzFgtpTyc/HMcncOTbmjh+NhypQfHcBJAl4QkA=";
+      sha256 = "sha256-r+O+g7UavhkJq/Kpp70gNuplmJJxnQ0MUO4T799gG0c=";
     });
   };
   xdg-desktop-portal-gtk = {
