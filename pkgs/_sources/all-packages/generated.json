@@ -192,13 +192,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "netdata",
-    "version": "1.33.1",
+    "version": "1.34.0",
     "passthru": null,
     "src": {
-      "url": "https://github.com/netdata/netdata/archive/refs/tags/v1.33.1.tar.gz",
+      "url": "https://github.com/netdata/netdata/archive/refs/tags/v1.34.0.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+ui6PYjFVf1/s935HDToJxY4I/Jp2EaeAmJ99Q9Lp20="
+      "sha256": "sha256-vrS6bZvXltQAE/+pzTHrhmP1GFmfsxTrFMU4brmq5DA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-662-g4f94fdea",
+    "version": "2.1-663-g6678185b",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-662-g4f94fdea-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-663-g6678185b-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7o4pjEU4mdlxhyJ0FHUTdMpVBR+OKUfu0SmFeh6bSlw="
+      "sha256": "sha256-3D8Oec3blhYaMcPG5X9C0PjYuQdiK4WxvmzHIHucOtE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1720,7 +1720,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "50b4b8b2c60000175b36e45e6e196a8bb7576edf",
+    "version": "4f1d6c53cb18f4957acafe847ded4bd65aff3a6c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1730,8 +1730,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-ZzCnzPuINqPGa8tdZovrWcg97nFCrvN/Xba06Jl1vwQ=",
-      "rev": "50b4b8b2c60000175b36e45e6e196a8bb7576edf"
+      "sha256": "sha256-pN6iO8petw4LKKk1AKh9J5HXzTXszcCaJJcwb3bUYcE=",
+      "rev": "4f1d6c53cb18f4957acafe847ded4bd65aff3a6c"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2128,7 +2128,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-themes",
-    "version": "7617cea2a862b63232b5e2ad92bf7d2a164804f1",
+    "version": "29a8bb9228797e3ca94a70d4a49b7077a67c689d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2138,8 +2138,8 @@
       "name": null,
       "repo": "spicetify-themes",
       "type": "github",
-      "sha256": "sha256-PBg8KdwZUjuAPWcTNtJ4KvaKE3BWuYk8ktZsa+c62Pg=",
-      "rev": "7617cea2a862b63232b5e2ad92bf7d2a164804f1"
+      "sha256": "sha256-CePs0eyGTP4l4WeZ0TVURLk/nJomNQppB5BknY1Xljs=",
+      "rev": "29a8bb9228797e3ca94a70d4a49b7077a67c689d"
     },
     "extract": null,
     "rustGitDeps": null

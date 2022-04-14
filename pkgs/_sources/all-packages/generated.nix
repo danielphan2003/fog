@@ -442,10 +442,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-662-g4f94fdea";
+    version = "2.1-663-g6678185b";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-662-g4f94fdea-1_all.deb";
-      sha256 = "sha256-7o4pjEU4mdlxhyJ0FHUTdMpVBR+OKUfu0SmFeh6bSlw=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-663-g6678185b-1_all.deb";
+      sha256 = "sha256-3D8Oec3blhYaMcPG5X9C0PjYuQdiK4WxvmzHIHucOtE=";
     };
   };
   layout-machi = {
@@ -562,10 +562,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.33.1";
+    version = "1.34.0";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.33.1.tar.gz";
-      sha256 = "sha256-+ui6PYjFVf1/s935HDToJxY4I/Jp2EaeAmJ99Q9Lp20=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.34.0.tar.gz";
+      sha256 = "sha256-vrS6bZvXltQAE/+pzTHrhmP1GFmfsxTrFMU4brmq5DA=";
     };
   };
   netdata-go-d-plugin = {
@@ -917,13 +917,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "7617cea2a862b63232b5e2ad92bf7d2a164804f1";
+    version = "29a8bb9228797e3ca94a70d4a49b7077a67c689d";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "7617cea2a862b63232b5e2ad92bf7d2a164804f1";
+      rev = "29a8bb9228797e3ca94a70d4a49b7077a67c689d";
       fetchSubmodules = false;
-      sha256 = "sha256-PBg8KdwZUjuAPWcTNtJ4KvaKE3BWuYk8ktZsa+c62Pg=";
+      sha256 = "sha256-CePs0eyGTP4l4WeZ0TVURLk/nJomNQppB5BknY1Xljs=";
     });
   };
   spotify = {
@@ -1000,13 +1000,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "50b4b8b2c60000175b36e45e6e196a8bb7576edf";
+    version = "4f1d6c53cb18f4957acafe847ded4bd65aff3a6c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "50b4b8b2c60000175b36e45e6e196a8bb7576edf";
+      rev = "4f1d6c53cb18f4957acafe847ded4bd65aff3a6c";
       fetchSubmodules = false;
-      sha256 = "sha256-ZzCnzPuINqPGa8tdZovrWcg97nFCrvN/Xba06Jl1vwQ=";
+      sha256 = "sha256-pN6iO8petw4LKKk1AKh9J5HXzTXszcCaJJcwb3bUYcE=";
     });
   };
   tailscale-systray = {
