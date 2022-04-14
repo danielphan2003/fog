@@ -7023,10 +7023,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.89.5";
+    version = "0.89.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.89.5/file/dendron.nightly-0.89.5.vsix";
-      sha256 = "sha256-5kvpofQyUXWvyaQUbbllEzCmSuwK5r44HRNibz+a10w=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.89.6/file/dendron.nightly-0.89.6.vsix";
+      sha256 = "sha256-ux2NpSy28tefF2fIpBju6uUKx2NGhJZHqdianV1vbuM=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -20307,10 +20307,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.6.0";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.0/file/zenclabs.previewjs-1.6.0.vsix";
-      sha256 = "sha256-RYxpvxj9JIdYrujleEzX3rypFm1DT6idULHklVq5nhc=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.1/file/zenclabs.previewjs-1.6.1.vsix";
+      sha256 = "sha256-k630yOkY113RFp/9CQUqhtQI+6cq9vuBjfYyfH2Qer0=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";

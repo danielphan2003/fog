@@ -1203,7 +1203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.89.5",
+    "version": "0.89.6",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1211,10 +1211,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.89.5/file/dendron.nightly-0.89.5.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.89.6/file/dendron.nightly-0.89.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5kvpofQyUXWvyaQUbbllEzCmSuwK5r44HRNibz+a10w="
+      "sha256": "sha256-ux2NpSy28tefF2fIpBju6uUKx2NGhJZHqdianV1vbuM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9523,7 +9523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9531,10 +9531,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.0/file/zenclabs.previewjs-1.6.0.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.1/file/zenclabs.previewjs-1.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RYxpvxj9JIdYrujleEzX3rypFm1DT6idULHklVq5nhc="
+      "sha256": "sha256-k630yOkY113RFp/9CQUqhtQI+6cq9vuBjfYyfH2Qer0="
     },
     "extract": null,
     "rustGitDeps": null
