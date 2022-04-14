@@ -442,10 +442,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-661-gc68d1156";
+    version = "2.1-662-g4f94fdea";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-661-gc68d1156-1_all.deb";
-      sha256 = "sha256-g6MVW64pQzYfWH8A6B427pyVyaNM7O9/l30H2z1IHqQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-662-g4f94fdea-1_all.deb";
+      sha256 = "sha256-7o4pjEU4mdlxhyJ0FHUTdMpVBR+OKUfu0SmFeh6bSlw=";
     };
   };
   layout-machi = {
@@ -951,13 +951,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "344f84882c4dea56ca4ffa15fe1b6271317e3832";
+    version = "7c0011cf91e87c30c2a630fee915ead58ef9dcf5";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "344f84882c4dea56ca4ffa15fe1b6271317e3832";
+      rev = "7c0011cf91e87c30c2a630fee915ead58ef9dcf5";
       fetchSubmodules = false;
-      sha256 = "sha256-LfR7uNaUzw3BR3vYdMiacZP1hrOAC0j0Hc9yB+gDYm4=";
+      sha256 = "sha256-7RVyjbBZ4svHXKJV9Ljh6Lf5+Ry/VUUcChwEvk4oVK4=";
     });
   };
   supergfxctl = {
