@@ -565,7 +565,7 @@
     version = "1.34.1";
     src = fetchurl {
       url = "https://github.com/netdata/netdata/archive/refs/tags/v1.34.1.tar.gz";
-      sha256 = "sha256-ZCc/eUWaM6kDQ15qrHHeAQLdloiWwrhhQ57PgT3yJ+E=";
+      sha256 = "sha256-9uVYRaUke9BbTrT4PTbc1NksywAAbDNge36ZVV9AEP8=";
     };
   };
   netdata-go-d-plugin = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "379c4277b634afe39a247d6ec0633ff2a2e90070";
+    version = "b7f43bc035b3a7217fd992d539238f0a4d5df4f8";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "379c4277b634afe39a247d6ec0633ff2a2e90070";
+      rev = "b7f43bc035b3a7217fd992d539238f0a4d5df4f8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-WzQ4gdWKesZ8x6b/bAyO9Nz/vFzAXhx0hSDnAo+8/zU=";
+      sha256 = "sha256-eqMbsMXCeeHt6zU4NUG11X9jYjwziGeuuRwwHQJSQQw=";
     };
   };
   spicetify-cli = {
@@ -1038,13 +1038,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "96ee267d4ac6b00234e5b2ba1a97191888824b7e";
+    version = "aabe254b77f7db88b5180168eeb698f1d0f6b7e4";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "96ee267d4ac6b00234e5b2ba1a97191888824b7e";
+      rev = "aabe254b77f7db88b5180168eeb698f1d0f6b7e4";
       fetchSubmodules = false;
-      sha256 = "sha256-EA731MehFJ5a54AaB44cf0S6pS8c6/L2cCwem3Gy4pw=";
+      sha256 = "sha256-doWtm/pk7AOS24JDBFOmwMFENEcC8XFg5hd8udpcJIg=";
     });
   };
   ultimmc = {
