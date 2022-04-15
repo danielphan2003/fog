@@ -14355,10 +14355,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.310";
+    version = "0.25.311";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.310/file/pokey.cursorless-0.25.310.vsix";
-      sha256 = "sha256-RSqfH4nHiMbc+cFBKYHtl28lwFMyaTHvOzmSNFgC4M8=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.311/file/pokey.cursorless-0.25.311.vsix";
+      sha256 = "sha256-PIgN622QUZyBgIkURhUV4ZurqhMm0cVNgI7lM+MK6tI=";
     };
     name = "cursorless";
     license = "MIT";
@@ -16143,10 +16143,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.17";
+    version = "0.13.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.17/file/shufo.vscode-blade-formatter-0.13.17.vsix";
-      sha256 = "sha256-KwrGfN48Ni9vOT86StXBXvHIBtqH8vz4QNbSsqmsF9k=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.18/file/shufo.vscode-blade-formatter-0.13.18.vsix";
+      sha256 = "sha256-tDjwBfln2g+EMjjwM3om0MOxQaeIQb9Mw+ldS5JxOb0=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -20499,10 +20499,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.10.0";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.10.0/file/zokugun.sync-settings-0.10.0.vsix";
-      sha256 = "sha256-NL/nT0mG3VjNFDZaSirtMlYhhCowqYgP0jIfIR4DkcY=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.11.0/file/zokugun.sync-settings-0.11.0.vsix";
+      sha256 = "sha256-YDmoUlh/KQ3N9mLuV6iVAR+PO4SRIcvud8C56HEoAOI=";
     };
     name = "sync-settings";
     license = "MIT";
