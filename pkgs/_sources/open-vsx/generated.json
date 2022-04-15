@@ -5823,7 +5823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.54",
+    "version": "0.0.55",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5831,10 +5831,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.54/file/zardoy.zardoy-experiments-0.0.54.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.55/file/zardoy.zardoy-experiments-0.0.55.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WwSpjxNVN2EhQYBU38TOmj75YJto8v8Rgq8Q9goqx9Y="
+      "sha256": "sha256-l9Cv9Oy8/x4QbE6UjYeeEjWYv6mRDfuz57blrH9iypQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19183,7 +19183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dsteenman-cloudformation-yaml-snippets",
-    "version": "3.56.0",
+    "version": "3.57.0",
     "passthru": {
       "name": "cloudformation-yaml-snippets",
       "license": "MIT",
@@ -19191,10 +19191,10 @@
       "description": "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.56.0/file/dsteenman.cloudformation-yaml-snippets-3.56.0.vsix",
+      "url": "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.57.0/file/dsteenman.cloudformation-yaml-snippets-3.57.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oLiLwmfS85styeNUvFjlFyvKUNCBdctqW0yqknHzCFY="
+      "sha256": "sha256-sP01A/rklx140VWW/xXS7Son2Hmmpr2ESsRcTrTqG24="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20563,7 +20563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.24",
+    "version": "3.0.26",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -20571,10 +20571,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.24/file/lifeart.vscode-ember-unstable-3.0.24.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.26/file/lifeart.vscode-ember-unstable-3.0.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zgc0+nKUB4K8RmSHZq/2YZCHrWMEZLq9hORfTQ7PG4o="
+      "sha256": "sha256-177ZW8NxClbf0QlPoLdB1zTmxeVzYtZUZBdRVk9F/oI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24503,7 +24503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nocalhost-nocalhost",
-    "version": "0.6.16",
+    "version": "0.6.17",
     "passthru": {
       "name": "nocalhost",
       "license": "Apache-2.0",
@@ -24511,10 +24511,10 @@
       "description": "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.16/file/nocalhost.nocalhost-0.6.16.vsix",
+      "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.17/file/nocalhost.nocalhost-0.6.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OT8q/vv1WGN1q4MgLj5vTOEpP+n9A56WEhAVB3zD51Y="
+      "sha256": "sha256-OFLJ676+cYs4vXq/bPxX2JUp8rBJsqFE3h3Z+WMV/Is="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25143,7 +25143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dsteenman-cdk-snippets",
-    "version": "1.37.0",
+    "version": "1.38.0",
     "passthru": {
       "name": "cdk-snippets",
       "license": "MIT",
@@ -25151,10 +25151,10 @@
       "description": "This extension adds L1 construct snippets from CDK into Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dsteenman/cdk-snippets/1.37.0/file/dsteenman.cdk-snippets-1.37.0.vsix",
+      "url": "https://open-vsx.org/api/dsteenman/cdk-snippets/1.38.0/file/dsteenman.cdk-snippets-1.38.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cRe0Xg+RfUVnALCBAI8pEz9kDwpC1iQjSUrtN9qpWIw="
+      "sha256": "sha256-kruuHndmxrDugRz8KqKU92nDZx8csy4qgIujHrNektg="
     },
     "extract": null,
     "rustGitDeps": null

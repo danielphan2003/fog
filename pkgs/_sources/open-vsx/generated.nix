@@ -7227,10 +7227,10 @@
   };
   dsteenman-cdk-snippets = {
     pname = "dsteenman-cdk-snippets";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsteenman/cdk-snippets/1.37.0/file/dsteenman.cdk-snippets-1.37.0.vsix";
-      sha256 = "sha256-cRe0Xg+RfUVnALCBAI8pEz9kDwpC1iQjSUrtN9qpWIw=";
+      url = "https://open-vsx.org/api/dsteenman/cdk-snippets/1.38.0/file/dsteenman.cdk-snippets-1.38.0.vsix";
+      sha256 = "sha256-kruuHndmxrDugRz8KqKU92nDZx8csy4qgIujHrNektg=";
     };
     name = "cdk-snippets";
     license = "MIT";
@@ -7239,10 +7239,10 @@
   };
   dsteenman-cloudformation-yaml-snippets = {
     pname = "dsteenman-cloudformation-yaml-snippets";
-    version = "3.56.0";
+    version = "3.57.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.56.0/file/dsteenman.cloudformation-yaml-snippets-3.56.0.vsix";
-      sha256 = "sha256-oLiLwmfS85styeNUvFjlFyvKUNCBdctqW0yqknHzCFY=";
+      url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.57.0/file/dsteenman.cloudformation-yaml-snippets-3.57.0.vsix";
+      sha256 = "sha256-sP01A/rklx140VWW/xXS7Son2Hmmpr2ESsRcTrTqG24=";
     };
     name = "cloudformation-yaml-snippets";
     license = "MIT";
@@ -11391,10 +11391,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.24";
+    version = "3.0.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.24/file/lifeart.vscode-ember-unstable-3.0.24.vsix";
-      sha256 = "sha256-zgc0+nKUB4K8RmSHZq/2YZCHrWMEZLq9hORfTQ7PG4o=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.26/file/lifeart.vscode-ember-unstable-3.0.26.vsix";
+      sha256 = "sha256-177ZW8NxClbf0QlPoLdB1zTmxeVzYtZUZBdRVk9F/oI=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -13467,10 +13467,10 @@
   };
   nocalhost-nocalhost = {
     pname = "nocalhost-nocalhost";
-    version = "0.6.16";
+    version = "0.6.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.16/file/nocalhost.nocalhost-0.6.16.vsix";
-      sha256 = "sha256-OT8q/vv1WGN1q4MgLj5vTOEpP+n9A56WEhAVB3zD51Y=";
+      url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.17/file/nocalhost.nocalhost-0.6.17.vsix";
+      sha256 = "sha256-OFLJ676+cYs4vXq/bPxX2JUp8rBJsqFE3h3Z+WMV/Is=";
     };
     name = "nocalhost";
     license = "Apache-2.0";
@@ -20283,10 +20283,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.54";
+    version = "0.0.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.54/file/zardoy.zardoy-experiments-0.0.54.vsix";
-      sha256 = "sha256-WwSpjxNVN2EhQYBU38TOmj75YJto8v8Rgq8Q9goqx9Y=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.55/file/zardoy.zardoy-experiments-0.0.55.vsix";
+      sha256 = "sha256-l9Cv9Oy8/x4QbE6UjYeeEjWYv6mRDfuz57blrH9iypQ=";
     };
     name = "zardoy-experiments";
     license = "MIT";
