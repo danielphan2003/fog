@@ -7035,10 +7035,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.89.6";
+    version = "0.90.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.89.6/file/dendron.nightly-0.89.6.vsix";
-      sha256 = "sha256-ux2NpSy28tefF2fIpBju6uUKx2NGhJZHqdianV1vbuM=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.90.1/file/dendron.nightly-0.90.1.vsix";
+      sha256 = "sha256-v7Vj7iUCkLjKleMfsb6Y+jXH5EGDfDp4MLe2ESanrSU=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -11391,10 +11391,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.22";
+    version = "3.0.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.22/file/lifeart.vscode-ember-unstable-3.0.22.vsix";
-      sha256 = "sha256-ARUvKmTRHUUJzmWng1X0ww9iic0wQHVef+aRP7q1sT0=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.23/file/lifeart.vscode-ember-unstable-3.0.23.vsix";
+      sha256 = "sha256-qUFABOwLkaNjIRBq79/DBkgzQNb303nCf0XoKb47l3w=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
