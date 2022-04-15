@@ -7743,7 +7743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "littlefoxteam-vscode-python-test-adapter",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "passthru": {
       "name": "vscode-python-test-adapter",
       "license": "MIT",
@@ -7751,10 +7751,10 @@
       "description": "Run your Python tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/littlefoxteam/vscode-python-test-adapter/0.7.0/file/littlefoxteam.vscode-python-test-adapter-0.7.0.vsix",
+      "url": "https://open-vsx.org/api/littlefoxteam/vscode-python-test-adapter/0.7.1/file/littlefoxteam.vscode-python-test-adapter-0.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kgz767dp+//4Lx59JmDC9aKq89AVpfgEViQ1fq19hMs="
+      "sha256": "sha256-XnFgQTXU7h8Po9pI8oeKfzHHpz+dyDff0RkqTyaKS+o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9523,7 +9523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.6.1",
+    "version": "1.6.2",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9531,10 +9531,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.1/file/zenclabs.previewjs-1.6.1.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.2/file/zenclabs.previewjs-1.6.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k630yOkY113RFp/9CQUqhtQI+6cq9vuBjfYyfH2Qer0="
+      "sha256": "sha256-dt6pNrrusAItjvIm34OJG+phXETfaYWDy6uVixUjlAs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15283,7 +15283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.1321",
+    "version": "2022.4.1419",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15291,10 +15291,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1321/file/Slint.slint-nightly-2022.4.1321.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1419/file/Slint.slint-nightly-2022.4.1419.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9sZFxBvG77cHoC3ZpYRoHBDpPDUtxmJC0N2IhW7bzbY="
+      "sha256": "sha256-ccssq0kobH53De4h/dEDL1hixLlq5HO+QGIXPiOeqjY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22463,7 +22463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.7.6",
+    "version": "0.7.7",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -22471,10 +22471,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.6/file/arzg.xcode-theme-0.7.6.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.7/file/arzg.xcode-theme-0.7.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3A7p1CWCPZKQiP72iAAgsAIuMA3QZYiWMhHuo+SBcjg="
+      "sha256": "sha256-/kTWFRZXHzdrscTYjmSIUZpVzT0YRFqziM19ANSncIg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27183,7 +27183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zhuangtongfa-material-theme",
-    "version": "3.13.20",
+    "version": "3.13.21",
     "passthru": {
       "name": "material-theme",
       "license": "MIT",
@@ -27191,10 +27191,10 @@
       "description": "Atomâs iconic One Dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.20/file/zhuangtongfa.material-theme-3.13.20.vsix",
+      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.21/file/zhuangtongfa.material-theme-3.13.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Vtlp6K5gWRkOVSg0yz0dP7ljl65lSszKeXNMNXzMvog="
+      "sha256": "sha256-CoeQY479F7PZJW48+p63JFT8d1A4Sxq5f2QeRHg+yOU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29283,7 +29283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Angular-ng-template",
-    "version": "13.3.0",
+    "version": "13.3.1",
     "passthru": {
       "name": "ng-template",
       "license": "MIT",
@@ -29291,10 +29291,10 @@
       "description": "Editor services for Angular templates"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Angular/ng-template/13.3.0/file/Angular.ng-template-13.3.0.vsix",
+      "url": "https://open-vsx.org/api/Angular/ng-template/13.3.1/file/Angular.ng-template-13.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Mzo1Wj6BCV51bn0wdWm7IvdUSioC9pfIiObcy6Cfli4="
+      "sha256": "sha256-CUcWhb3d6JPEUXxQJ9aD/hRCqyrOoCm74SZ0VQkD+yQ="
     },
     "extract": null,
     "rustGitDeps": null

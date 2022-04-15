@@ -51,10 +51,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.3.0";
+    version = "13.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.3.0/file/Angular.ng-template-13.3.0.vsix";
-      sha256 = "sha256-Mzo1Wj6BCV51bn0wdWm7IvdUSioC9pfIiObcy6Cfli4=";
+      url = "https://open-vsx.org/api/Angular/ng-template/13.3.1/file/Angular.ng-template-13.3.1.vsix";
+      sha256 = "sha256-CUcWhb3d6JPEUXxQJ9aD/hRCqyrOoCm74SZ0VQkD+yQ=";
     };
     name = "ng-template";
     license = "MIT";
@@ -3111,10 +3111,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.1321";
+    version = "2022.4.1419";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1321/file/Slint.slint-nightly-2022.4.1321.vsix";
-      sha256 = "sha256-9sZFxBvG77cHoC3ZpYRoHBDpPDUtxmJC0N2IhW7bzbY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1419/file/Slint.slint-nightly-2022.4.1419.vsix";
+      sha256 = "sha256-ccssq0kobH53De4h/dEDL1hixLlq5HO+QGIXPiOeqjY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5019,10 +5019,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.6";
+    version = "0.7.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.6/file/arzg.xcode-theme-0.7.6.vsix";
-      sha256 = "sha256-3A7p1CWCPZKQiP72iAAgsAIuMA3QZYiWMhHuo+SBcjg=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.7/file/arzg.xcode-theme-0.7.7.vsix";
+      sha256 = "sha256-/kTWFRZXHzdrscTYjmSIUZpVzT0YRFqziM19ANSncIg=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -11463,10 +11463,10 @@
   };
   littlefoxteam-vscode-python-test-adapter = {
     pname = "littlefoxteam-vscode-python-test-adapter";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/littlefoxteam/vscode-python-test-adapter/0.7.0/file/littlefoxteam.vscode-python-test-adapter-0.7.0.vsix";
-      sha256 = "sha256-kgz767dp+//4Lx59JmDC9aKq89AVpfgEViQ1fq19hMs=";
+      url = "https://open-vsx.org/api/littlefoxteam/vscode-python-test-adapter/0.7.1/file/littlefoxteam.vscode-python-test-adapter-0.7.1.vsix";
+      sha256 = "sha256-XnFgQTXU7h8Po9pI8oeKfzHHpz+dyDff0RkqTyaKS+o=";
     };
     name = "vscode-python-test-adapter";
     license = "MIT";
@@ -20319,10 +20319,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.6.1";
+    version = "1.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.1/file/zenclabs.previewjs-1.6.1.vsix";
-      sha256 = "sha256-k630yOkY113RFp/9CQUqhtQI+6cq9vuBjfYyfH2Qer0=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.2/file/zenclabs.previewjs-1.6.2.vsix";
+      sha256 = "sha256-dt6pNrrusAItjvIm34OJG+phXETfaYWDy6uVixUjlAs=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";
@@ -20379,10 +20379,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.20";
+    version = "3.13.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.20/file/zhuangtongfa.material-theme-3.13.20.vsix";
-      sha256 = "sha256-Vtlp6K5gWRkOVSg0yz0dP7ljl65lSszKeXNMNXzMvog=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.21/file/zhuangtongfa.material-theme-3.13.21.vsix";
+      sha256 = "sha256-CoeQY479F7PZJW48+p63JFT8d1A4Sxq5f2QeRHg+yOU=";
     };
     name = "material-theme";
     license = "MIT";
