@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4a728f0dd07c6a12b35b00230c8b90b7aa69abcb";
+    version = "a2596351472f1d3d9eefaf4ba57d2f64a3c322b5";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4a728f0dd07c6a12b35b00230c8b90b7aa69abcb";
+      rev = "a2596351472f1d3d9eefaf4ba57d2f64a3c322b5";
       fetchSubmodules = false;
-      sha256 = "sha256-dosBheJQXVyX10B97KU4lsDtHiG4foh/VT8Nnc4tvlo=";
+      sha256 = "sha256-6ywA74LOUmzTMzJzUYIPHmCaxt6XJuTHQ8pVk6XsOsE=";
     });
   };
   caddy = {
@@ -251,10 +251,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.134";
+    version = "0.0.135";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.134/discord-canary-0.0.134.tar.gz";
-      sha256 = "sha256-HyJa6lGcKMPKWffO/pnNcn8fDTJj6O4J8Y5RA23a1kM=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.135/discord-canary-0.0.135.tar.gz";
+      sha256 = "sha256-dmG+3BWS1BMHHQAv4fsXuObVeAJBeD+TqnyQz69AMac=";
     };
   };
   dnscrypt-proxy2 = {
@@ -543,10 +543,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "102.0.1220.1";
+    version = "102.0.1224.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1220.1-1_amd64.deb";
-      sha256 = "sha256-RNKm6YNnZ9RffR912vKkizOdZ9Elfj4yH87yD/6IUX8=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1224.0-1_amd64.deb";
+      sha256 = "sha256-IiCvz1RuOQ8Bvth36ZuzfP+UrTKwsut7X2MVxCC19wI=";
     };
   };
   minecraft-wayland = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "b7f43bc035b3a7217fd992d539238f0a4d5df4f8";
+    version = "4b3633a2b4388aced16562b58cd4cd1833a67958";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "b7f43bc035b3a7217fd992d539238f0a4d5df4f8";
+      rev = "4b3633a2b4388aced16562b58cd4cd1833a67958";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-eqMbsMXCeeHt6zU4NUG11X9jYjwziGeuuRwwHQJSQQw=";
+      sha256 = "sha256-g+w5cif2Q5UQZgf+KZiuzxXHbF9awKtB5Fk/qDPM6ZU=";
     };
   };
   spicetify-cli = {
