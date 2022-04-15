@@ -4851,10 +4851,10 @@
   };
   arrterian-nix-env-selector = {
     pname = "arrterian-nix-env-selector";
-    version = "1.0.7";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arrterian/nix-env-selector/1.0.7/file/arrterian.nix-env-selector-1.0.7.vsix";
-      sha256 = "sha256-ifFIB+JxgujvLpr9zUV0D1jhihxIefvyDZkbPwW7EZU=";
+      url = "https://open-vsx.org/api/arrterian/nix-env-selector/1.0.9/file/arrterian.nix-env-selector-1.0.9.vsix";
+      sha256 = "sha256-KPVH74+gjDbjBLYtTOrTWEVcDB41oMn4cqK3/Yubhzs=";
     };
     name = "nix-env-selector";
     license = "MIT";

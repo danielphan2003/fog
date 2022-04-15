@@ -30743,7 +30743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arrterian-nix-env-selector",
-    "version": "1.0.7",
+    "version": "1.0.9",
     "passthru": {
       "name": "nix-env-selector",
       "license": "MIT",
@@ -30751,10 +30751,10 @@
       "description": "Allows switch environment for Visual Studio Code and extensions based on Nix config file."
     },
     "src": {
-      "url": "https://open-vsx.org/api/arrterian/nix-env-selector/1.0.7/file/arrterian.nix-env-selector-1.0.7.vsix",
+      "url": "https://open-vsx.org/api/arrterian/nix-env-selector/1.0.9/file/arrterian.nix-env-selector-1.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ifFIB+JxgujvLpr9zUV0D1jhihxIefvyDZkbPwW7EZU="
+      "sha256": "sha256-KPVH74+gjDbjBLYtTOrTWEVcDB41oMn4cqK3/Yubhzs="
     },
     "extract": null,
     "rustGitDeps": null
