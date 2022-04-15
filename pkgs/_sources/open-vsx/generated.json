@@ -20563,7 +20563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.23",
+    "version": "3.0.24",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -20571,10 +20571,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.23/file/lifeart.vscode-ember-unstable-3.0.23.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.24/file/lifeart.vscode-ember-unstable-3.0.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qUFABOwLkaNjIRBq79/DBkgzQNb303nCf0XoKb47l3w="
+      "sha256": "sha256-zgc0+nKUB4K8RmSHZq/2YZCHrWMEZLq9hORfTQ7PG4o="
     },
     "extract": null,
     "rustGitDeps": null
