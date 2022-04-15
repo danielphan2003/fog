@@ -4563,7 +4563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "carlocardella-vscode-changelogmanager",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "passthru": {
       "name": "vscode-changelogmanager",
       "license": "MIT",
@@ -4571,10 +4571,10 @@
       "description": "Manage the changelog for your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.0/file/carlocardella.vscode-changelogmanager-0.3.0.vsix",
+      "url": "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.1/file/carlocardella.vscode-changelogmanager-0.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sOm8h/ghqtKGiCLQ4baSRt36IXPqZv37K29tPWonZYY="
+      "sha256": "sha256-CtZN6dA1O/20hyB1JpFubasCKvPsv7nO57HAfGOk6So="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5823,7 +5823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.55",
+    "version": "0.0.56",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5831,10 +5831,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.55/file/zardoy.zardoy-experiments-0.0.55.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.56/file/zardoy.zardoy-experiments-0.0.56.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-l9Cv9Oy8/x4QbE6UjYeeEjWYv6mRDfuz57blrH9iypQ="
+      "sha256": "sha256-DAVFxaqdZAexkOY9B5ldkoARHUTOKyVLyDvSiQgyQtY="
     },
     "extract": null,
     "rustGitDeps": null

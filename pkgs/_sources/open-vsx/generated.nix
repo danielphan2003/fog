@@ -5895,10 +5895,10 @@
   };
   carlocardella-vscode-changelogmanager = {
     pname = "carlocardella-vscode-changelogmanager";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.0/file/carlocardella.vscode-changelogmanager-0.3.0.vsix";
-      sha256 = "sha256-sOm8h/ghqtKGiCLQ4baSRt36IXPqZv37K29tPWonZYY=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.1/file/carlocardella.vscode-changelogmanager-0.3.1.vsix";
+      sha256 = "sha256-CtZN6dA1O/20hyB1JpFubasCKvPsv7nO57HAfGOk6So=";
     };
     name = "vscode-changelogmanager";
     license = "MIT";
@@ -20283,10 +20283,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.55";
+    version = "0.0.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.55/file/zardoy.zardoy-experiments-0.0.55.vsix";
-      sha256 = "sha256-l9Cv9Oy8/x4QbE6UjYeeEjWYv6mRDfuz57blrH9iypQ=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.56/file/zardoy.zardoy-experiments-0.0.56.vsix";
+      sha256 = "sha256-DAVFxaqdZAexkOY9B5ldkoARHUTOKyVLyDvSiQgyQtY=";
     };
     name = "zardoy-experiments";
     license = "MIT";
