@@ -15927,10 +15927,10 @@
   };
   senx-warpscript-language = {
     pname = "senx-warpscript-language";
-    version = "2.0.8";
+    version = "2.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/senx/warpscript-language/2.0.8/file/senx.warpscript-language-2.0.8.vsix";
-      sha256 = "sha256-U/0S3qGc8FzCRQUomoKejbH2zZtg5ReN6Fi6xUG7NfE=";
+      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.4/file/senx.warpscript-language-2.1.4.vsix";
+      sha256 = "sha256-T0uF+qPbS2tFc1P0jE81/zkUxJNs2uDf4GJSSfJBj1E=";
     };
     name = "warpscript-language";
     license = "Apache-2.0";
@@ -20319,10 +20319,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.6.2";
+    version = "1.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.2/file/zenclabs.previewjs-1.6.2.vsix";
-      sha256 = "sha256-dt6pNrrusAItjvIm34OJG+phXETfaYWDy6uVixUjlAs=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.3/file/zenclabs.previewjs-1.6.3.vsix";
+      sha256 = "sha256-0vHdpjjv62KuJUhJsNMmC+bE5Mhz7gNMSsKoSgQ85Wk=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";

@@ -9523,7 +9523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9531,10 +9531,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.2/file/zenclabs.previewjs-1.6.2.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.3/file/zenclabs.previewjs-1.6.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dt6pNrrusAItjvIm34OJG+phXETfaYWDy6uVixUjlAs="
+      "sha256": "sha256-0vHdpjjv62KuJUhJsNMmC+bE5Mhz7gNMSsKoSgQ85Wk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15523,7 +15523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "senx-warpscript-language",
-    "version": "2.0.8",
+    "version": "2.1.4",
     "passthru": {
       "name": "warpscript-language",
       "license": "Apache-2.0",
@@ -15531,10 +15531,10 @@
       "description": "WarpScript & FLoWS support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/senx/warpscript-language/2.0.8/file/senx.warpscript-language-2.0.8.vsix",
+      "url": "https://open-vsx.org/api/senx/warpscript-language/2.1.4/file/senx.warpscript-language-2.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-U/0S3qGc8FzCRQUomoKejbH2zZtg5ReN6Fi6xUG7NfE="
+      "sha256": "sha256-T0uF+qPbS2tFc1P0jE81/zkUxJNs2uDf4GJSSfJBj1E="
     },
     "extract": null,
     "rustGitDeps": null
