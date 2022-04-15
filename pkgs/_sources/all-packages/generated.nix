@@ -426,18 +426,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6086";
+    version = "1.0.6087";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6086.tar.bz2";
-      sha256 = "sha256-adppgzzI1oOqnwryM+aeyLB//XVXHRNpe7mO7EvvBr4=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6087.tar.bz2";
+      sha256 = "sha256-yjaTL399FefRnp0/IPy41FrtQCdmQD0jBq/e+sL8TXk=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6086";
+    version = "1.0.6087";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6086-1_all.deb";
-      sha256 = "sha256-g8R5IPLSch5LCAudf760L17E5gAiYzuCvlbvH5Pw+Lw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6087-1_all.deb";
+      sha256 = "sha256-9igzUcdJAkSIG52D39gOtgqaIB6uoRViSnLEkHQQ52A=";
     };
   };
   jitsi-videobridge2 = {
@@ -562,10 +562,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.34.0";
+    version = "1.34.1";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.34.0.tar.gz";
-      sha256 = "sha256-vrS6bZvXltQAE/+pzTHrhmP1GFmfsxTrFMU4brmq5DA=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.34.1.tar.gz";
+      sha256 = "sha256-ZCc/eUWaM6kDQ15qrHHeAQLdloiWwrhhQ57PgT3yJ+E=";
     };
   };
   netdata-go-d-plugin = {
