@@ -19671,10 +19671,10 @@
   };
   webfreak-debug = {
     pname = "webfreak-debug";
-    version = "0.25.1";
+    version = "0.26.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webfreak/debug/0.25.1/file/webfreak.debug-0.25.1.vsix";
-      sha256 = "sha256-CNmILzR9FCZQhimQ13Fs9vBuvp0Efi06ORw+cAvRfMQ=";
+      url = "https://open-vsx.org/api/webfreak/debug/0.26.0/file/webfreak.debug-0.26.0.vsix";
+      sha256 = "sha256-ZFrgsycm7/OYTN2sD3RGJG+yu0hTvADkHK1Gopm0XWc=";
     };
     name = "debug";
     license = "public domain";

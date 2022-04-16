@@ -20103,7 +20103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "webfreak-debug",
-    "version": "0.25.1",
+    "version": "0.26.0",
     "passthru": {
       "name": "debug",
       "license": "public domain",
@@ -20111,10 +20111,10 @@
       "description": "GDB, LLDB & Mago-MI Debugger support for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/webfreak/debug/0.25.1/file/webfreak.debug-0.25.1.vsix",
+      "url": "https://open-vsx.org/api/webfreak/debug/0.26.0/file/webfreak.debug-0.26.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CNmILzR9FCZQhimQ13Fs9vBuvp0Efi06ORw+cAvRfMQ="
+      "sha256": "sha256-ZFrgsycm7/OYTN2sD3RGJG+yu0hTvADkHK1Gopm0XWc="
     },
     "extract": null,
     "rustGitDeps": null
