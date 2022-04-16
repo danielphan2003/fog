@@ -172,7 +172,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dribbblish-dynamic-theme",
-    "version": "55693078f6e6ead4e02389c933e09cf6ea35c02e",
+    "version": "77182042dd0f2229c29ee892a4105c4f3dfde9f1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -182,8 +182,8 @@
       "name": null,
       "repo": "dribbblish-dynamic-theme",
       "type": "github",
-      "sha256": "sha256-OF+QGDkk90QIR0RoD1ZdPPLLCgmk65Mvn90NZ41nXrY=",
-      "rev": "55693078f6e6ead4e02389c933e09cf6ea35c02e"
+      "sha256": "sha256-p8pz7JzqWZwUFM6SUvjPKjkYk+oAo7vf+3VbQa94vpA=",
+      "rev": "77182042dd0f2229c29ee892a4105c4f3dfde9f1"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "3457be19e47a6e30d47710a0720825646a91a930",
+    "version": "7434a3d277776825e454d034e9d9757c741806d4",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-9mbV2hxCW+VifrcCHrxVh7PmzQ4wtISgHoSz5WjZed0=",
-      "rev": "3457be19e47a6e30d47710a0720825646a91a930"
+      "sha256": "sha256-fHpwUC/13X62dO8oGmcrTHW/HjHYiq89Uou8v/huriU=",
+      "rev": "7434a3d277776825e454d034e9d9757c741806d4"
     },
     "extract": null,
     "rustGitDeps": null

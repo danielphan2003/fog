@@ -281,13 +281,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "55693078f6e6ead4e02389c933e09cf6ea35c02e";
+    version = "77182042dd0f2229c29ee892a4105c4f3dfde9f1";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "55693078f6e6ead4e02389c933e09cf6ea35c02e";
+      rev = "77182042dd0f2229c29ee892a4105c4f3dfde9f1";
       fetchSubmodules = false;
-      sha256 = "sha256-OF+QGDkk90QIR0RoD1ZdPPLLCgmk65Mvn90NZ41nXrY=";
+      sha256 = "sha256-p8pz7JzqWZwUFM6SUvjPKjkYk+oAo7vf+3VbQa94vpA=";
     });
   };
   droidcam = {
@@ -894,14 +894,14 @@
   };
   snui = {
     pname = "snui";
-    version = "3457be19e47a6e30d47710a0720825646a91a930";
+    version = "7434a3d277776825e454d034e9d9757c741806d4";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "3457be19e47a6e30d47710a0720825646a91a930";
+      rev = "7434a3d277776825e454d034e9d9757c741806d4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-9mbV2hxCW+VifrcCHrxVh7PmzQ4wtISgHoSz5WjZed0=";
+      sha256 = "sha256-fHpwUC/13X62dO8oGmcrTHW/HjHYiq89Uou8v/huriU=";
     };
   };
   spicetify-cli = {
