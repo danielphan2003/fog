@@ -12483,7 +12483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ocamllabs-ocaml-platform",
-    "version": "1.10.0",
+    "version": "1.10.1",
     "passthru": {
       "name": "ocaml-platform",
       "license": "MIT",
@@ -12491,10 +12491,10 @@
       "description": "Official OCaml language extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.0/file/ocamllabs.ocaml-platform-1.10.0.vsix",
+      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.1/file/ocamllabs.ocaml-platform-1.10.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-c7TzlgQDenCzryfGx80pfCF5WHSWedjvd8mzIXQjIGg="
+      "sha256": "sha256-GtLrwtz40bw9TuqszzMtWKUHgRSZr4Hj0l/ve8+ZsSg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21583,7 +21583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DCsunset-vscode-modal-editor",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "passthru": {
       "name": "vscode-modal-editor",
       "license": "AGPL-3.0",
@@ -21591,10 +21591,10 @@
       "description": "Customizable extension to turn VS Code into a modal editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.2.0/file/DCsunset.vscode-modal-editor-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.0/file/DCsunset.vscode-modal-editor-0.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+Wu+d8nnaK12Jovhmdi1xjc+wybIW37F8C0HWH44Yb4="
+      "sha256": "sha256-w8T6AEOsjqqG2kq6yUQlhrDsLOFWhm2neCs/JKUsUsM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30543,18 +30543,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "5.12.0",
+    "version": "6.0.0",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
       "publisher": "Ionide",
-      "description": "F# Language Support"
+      "description": "F# Language Support, powered by FsAutoComplete"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.12.0/file/Ionide.Ionide-fsharp-5.12.0.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.0/file/Ionide.Ionide-fsharp-6.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lljFsPnaXJpkeaII+Q3kPfuiAboTeujMsC5au2tX4Rw="
+      "sha256": "sha256-o+L1wcCLh4tYi6b2RUsZEPPeR+qRpnhO0b0I1Hi2MqA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33643,7 +33643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quick-lint-quick-lint-js",
-    "version": "2.3.1",
+    "version": "2.4.0",
     "passthru": {
       "name": "quick-lint-js",
       "license": "GPL-3.0",
@@ -33651,10 +33651,10 @@
       "description": "Find JavaScript bugs with quick-lint-js"
     },
     "src": {
-      "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.3.1/file/quick-lint.quick-lint-js-2.3.1.vsix",
+      "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.0/file/quick-lint.quick-lint-js-2.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aNERhpta4qtqXQJXIvFv3bA03+37S2kYmEBWyJqLm0Q="
+      "sha256": "sha256-LXYwZbjJXo7T61QE/0gUyYaPw98WEglB2g5TorfD3B4="
     },
     "extract": null,
     "rustGitDeps": null

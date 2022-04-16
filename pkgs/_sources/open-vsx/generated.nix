@@ -639,10 +639,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.2.0/file/DCsunset.vscode-modal-editor-0.2.0.vsix";
-      sha256 = "sha256-+Wu+d8nnaK12Jovhmdi1xjc+wybIW37F8C0HWH44Yb4=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.0/file/DCsunset.vscode-modal-editor-0.3.0.vsix";
+      sha256 = "sha256-w8T6AEOsjqqG2kq6yUQlhrDsLOFWhm2neCs/JKUsUsM=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -1611,15 +1611,15 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "5.12.0";
+    version = "6.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/5.12.0/file/Ionide.Ionide-fsharp-5.12.0.vsix";
-      sha256 = "sha256-lljFsPnaXJpkeaII+Q3kPfuiAboTeujMsC5au2tX4Rw=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.0/file/Ionide.Ionide-fsharp-6.0.0.vsix";
+      sha256 = "sha256-o+L1wcCLh4tYi6b2RUsZEPPeR+qRpnhO0b0I1Hi2MqA=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
     publisher = "Ionide";
-    description = "F# Language Support";
+    description = "F# Language Support, powered by FsAutoComplete";
   };
   IronGeek-vscode-darklight = {
     pname = "IronGeek-vscode-darklight";
@@ -13587,10 +13587,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.10.0";
+    version = "1.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.0/file/ocamllabs.ocaml-platform-1.10.0.vsix";
-      sha256 = "sha256-c7TzlgQDenCzryfGx80pfCF5WHSWedjvd8mzIXQjIGg=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.1/file/ocamllabs.ocaml-platform-1.10.1.vsix";
+      sha256 = "sha256-GtLrwtz40bw9TuqszzMtWKUHgRSZr4Hj0l/ve8+ZsSg=";
     };
     name = "ocaml-platform";
     license = "MIT";
@@ -14631,10 +14631,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.3.1";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.3.1/file/quick-lint.quick-lint-js-2.3.1.vsix";
-      sha256 = "sha256-aNERhpta4qtqXQJXIvFv3bA03+37S2kYmEBWyJqLm0Q=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.0/file/quick-lint.quick-lint-js-2.4.0.vsix";
+      sha256 = "sha256-LXYwZbjJXo7T61QE/0gUyYaPw98WEglB2g5TorfD3B4=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";
