@@ -16393,6 +16393,18 @@
     publisher = "small";
     description = "Code completion for PHP codeigniter framework";
   };
+  smapiot-vscode-piral = {
+    pname = "smapiot-vscode-piral";
+    version = "0.2.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.7/file/smapiot.vscode-piral-0.2.7.vsix";
+      sha256 = "sha256-HcHQdop5QQv44smSOj79PSFlPbLpopt1czghTWYRxaY=";
+    };
+    name = "vscode-piral";
+    license = "MIT";
+    publisher = "smapiot";
+    description = "Makes it easy to create, manage, and debug microfrontends using Pirals.";
+  };
   smcpeak-default-keys-windows = {
     pname = "smcpeak-default-keys-windows";
     version = "0.0.8";
