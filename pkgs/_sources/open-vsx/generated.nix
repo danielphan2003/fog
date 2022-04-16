@@ -8751,10 +8751,10 @@
   };
   gleam-gleam = {
     pname = "gleam-gleam";
-    version = "1.4.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gleam/gleam/1.4.0/file/gleam.gleam-1.4.0.vsix";
-      sha256 = "sha256-1zHJKM8UmoFs0hEmEvLc1d4G7Kp20HUT8ejamsCokQs=";
+      url = "https://open-vsx.org/api/gleam/gleam/2.0.0/file/gleam.gleam-2.0.0.vsix";
+      sha256 = "sha256-jnpPcz68TpC7+7znbW6SwDl+KB+YAQyFCyrvRibPurg=";
     };
     name = "gleam";
     license = "Apache-2.0";

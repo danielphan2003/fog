@@ -24743,7 +24743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gleam-gleam",
-    "version": "1.4.0",
+    "version": "2.0.0",
     "passthru": {
       "name": "gleam",
       "license": "Apache-2.0",
@@ -24751,10 +24751,10 @@
       "description": "Support for the Gleam programming language"
     },
     "src": {
-      "url": "https://open-vsx.org/api/gleam/gleam/1.4.0/file/gleam.gleam-1.4.0.vsix",
+      "url": "https://open-vsx.org/api/gleam/gleam/2.0.0/file/gleam.gleam-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1zHJKM8UmoFs0hEmEvLc1d4G7Kp20HUT8ejamsCokQs="
+      "sha256": "sha256-jnpPcz68TpC7+7znbW6SwDl+KB+YAQyFCyrvRibPurg="
     },
     "extract": null,
     "rustGitDeps": null
