@@ -26959,6 +26959,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "butchland-vscode-dbt-bigquery-power-user": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "butchland-vscode-dbt-bigquery-power-user",
+    "version": "0.5.19",
+    "passthru": {
+      "name": "vscode-dbt-bigquery-power-user",
+      "license": "MIT",
+      "publisher": "butchland",
+      "description": "This extension makes vscode seamlessly work with dbt and BigQuery"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.19/file/butchland.vscode-dbt-bigquery-power-user-0.5.19.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-iwn8tYC5XGWJSM9V2zST861BXcPa5famQenvp4zzZyE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "panekj-powershell-preview": {
     "pinned": false,
     "cargoLock": null,
@@ -28283,18 +28303,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yandeu-five-server",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "passthru": {
       "name": "five-server",
       "license": "",
       "publisher": "yandeu",
-      "description": "Dev Server with Live Reload. (Maintained Fork of Live Server)"
+      "description": "A better Live Server with instant updates, highlights and PHP support."
     },
     "src": {
-      "url": "https://open-vsx.org/api/yandeu/five-server/0.1.2/file/yandeu.five-server-0.1.2.vsix",
+      "url": "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-server-0.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-G8k0+QHEV9m7gLPti0qftkUeHi8rDX6jo4y9hyw4MAg="
+      "sha256": "sha256-8KziXcWCGj/ujKqahcV+ezAi37bh/7bbTvHDZ2Hz1tA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33363,7 +33383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "KamasamaK-vscode-cflint",
-    "version": "0.3.5",
+    "version": "0.3.6",
     "passthru": {
       "name": "vscode-cflint",
       "license": "MIT",
@@ -33371,10 +33391,10 @@
       "description": "CFLint for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.5/file/KamasamaK.vscode-cflint-0.3.5.vsix",
+      "url": "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.6/file/KamasamaK.vscode-cflint-0.3.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HMNQnWQSStrYPgWScbwBb/TNd74lATaG1ttXvBduxrk="
+      "sha256": "sha256-kxyYCB/fE+WNzFLYq4/OGFm2wo9vRw7zaIDTZVkgE4o="
     },
     "extract": null,
     "rustGitDeps": null

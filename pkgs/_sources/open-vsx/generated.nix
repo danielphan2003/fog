@@ -1791,10 +1791,10 @@
   };
   KamasamaK-vscode-cflint = {
     pname = "KamasamaK-vscode-cflint";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.5/file/KamasamaK.vscode-cflint-0.3.5.vsix";
-      sha256 = "sha256-HMNQnWQSStrYPgWScbwBb/TNd74lATaG1ttXvBduxrk=";
+      url = "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.6/file/KamasamaK.vscode-cflint-0.3.6.vsix";
+      sha256 = "sha256-kxyYCB/fE+WNzFLYq4/OGFm2wo9vRw7zaIDTZVkgE4o=";
     };
     name = "vscode-cflint";
     license = "MIT";
@@ -5784,6 +5784,18 @@
     license = "MIT";
     publisher = "bungcip";
     description = "Better TOML Language support";
+  };
+  butchland-vscode-dbt-bigquery-power-user = {
+    pname = "butchland-vscode-dbt-bigquery-power-user";
+    version = "0.5.19";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.19/file/butchland.vscode-dbt-bigquery-power-user-0.5.19.vsix";
+      sha256 = "sha256-iwn8tYC5XGWJSM9V2zST861BXcPa5famQenvp4zzZyE=";
+    };
+    name = "vscode-dbt-bigquery-power-user";
+    license = "MIT";
+    publisher = "butchland";
+    description = "This extension makes vscode seamlessly work with dbt and BigQuery";
   };
   byi8220-indented-block-highlighting = {
     pname = "byi8220-indented-block-highlighting";
@@ -20043,15 +20055,15 @@
   };
   yandeu-five-server = {
     pname = "yandeu-five-server";
-    version = "0.1.2";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yandeu/five-server/0.1.2/file/yandeu.five-server-0.1.2.vsix";
-      sha256 = "sha256-G8k0+QHEV9m7gLPti0qftkUeHi8rDX6jo4y9hyw4MAg=";
+      url = "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-server-0.1.4.vsix";
+      sha256 = "sha256-8KziXcWCGj/ujKqahcV+ezAi37bh/7bbTvHDZ2Hz1tA=";
     };
     name = "five-server";
     license = "";
     publisher = "yandeu";
-    description = "Dev Server with Live Reload. (Maintained Fork of Live Server)";
+    description = "A better Live Server with instant updates, highlights and PHP support.";
   };
   yangshun-ys-vscode-extensions = {
     pname = "yangshun-ys-vscode-extensions";
