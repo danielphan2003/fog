@@ -14475,10 +14475,10 @@
   };
   prince781-vala = {
     pname = "prince781-vala";
-    version = "1.0.6";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prince781/vala/1.0.6/file/prince781.vala-1.0.6.vsix";
-      sha256 = "sha256-Ty2cGaOkozOes9kYGSjn/i1N+S9y3WOqgN8oedAU1zg=";
+      url = "https://open-vsx.org/api/prince781/vala/1.0.7/file/prince781.vala-1.0.7.vsix";
+      sha256 = "sha256-YDxgU1Zdka8N7z567X9rECMb40cgzKNVo+niniLp/xU=";
     };
     name = "vala";
     license = "MIT";
