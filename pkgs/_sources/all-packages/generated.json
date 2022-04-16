@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "5121c6662418adcf42a9a6d94076cf559a1efa3c",
+    "version": "3f2d4b188541fb909fb2ba3531a3196212a73ee6",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-dVxtoYX2zKaK9QCFsnay+B/xeTUKmR4pFeLikSO77EU=",
-      "rev": "5121c6662418adcf42a9a6d94076cf559a1efa3c"
+      "sha256": "sha256-1+/VaUBvvK7jT9lr9j/5zVFt+LI3LPCZezqQtqxMiDo=",
+      "rev": "3f2d4b188541fb909fb2ba3531a3196212a73ee6"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1224,6 +1224,26 @@
       "type": "github",
       "sha256": "sha256-gNrwS99KBB0CmYJ/X41cP3ppPiA5UucKEF0THm0WREQ=",
       "rev": "79c5fc72837404cfef96ce9dcd5cae3343931655"
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "hyprland": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "hyprland",
+    "version": "2118628d586456e1173cfbd69add792b20f6c11f",
+    "passthru": null,
+    "src": {
+      "deepClone": false,
+      "leaveDotGit": false,
+      "owner": "vaxerski",
+      "fetchSubmodules": false,
+      "name": null,
+      "repo": "hyprland",
+      "type": "github",
+      "sha256": "sha256-+KFJxoDqKTqL07K4vS3j8bAKHCjlkm7ogYeIHmNVr5E=",
+      "rev": "2118628d586456e1173cfbd69add792b20f6c11f"
     },
     "extract": null,
     "rustGitDeps": null
