@@ -150,6 +150,10 @@ cargo_lock = "Cargo.lock"
 src.git = "https://github.com/srevinsaju/guiscrcpy"
 fetch.github = "srevinsaju/guiscrcpy"
 
+[hyprland]
+src.git = "https://github.com/vaxerski/hyprland"
+fetch.github = "vaxerski/hyprland"
+
 [ibus]
 src.git = "https://github.com/ibus/ibus/"
 fetch.github = "ibus/ibus"
