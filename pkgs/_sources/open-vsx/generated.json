@@ -2643,7 +2643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "viper-admin-viper",
-    "version": "2.4.1",
+    "version": "2.4.2",
     "passthru": {
       "name": "viper",
       "license": "",
@@ -2651,10 +2651,10 @@
       "description": "This extension provides interactive IDE features for verifying programs in Viper (Verification Infrastructure for Permission-based Reasoning)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/viper-admin/viper/2.4.1/file/viper-admin.viper-2.4.1.vsix",
+      "url": "https://open-vsx.org/api/viper-admin/viper/2.4.2/file/viper-admin.viper-2.4.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-U6s4ajhW4WhMPbc1a8voNFtD7AdKW1jAwIGZSvCaY1w="
+      "sha256": "sha256-oSBoTf5QBHb29v7+ox4O1gvm/LiJ1JDIF4n4OFOp2Lg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33223,7 +33223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hbenl-test-adapter-converter",
-    "version": "0.1.4",
+    "version": "0.1.6",
     "passthru": {
       "name": "test-adapter-converter",
       "license": "MIT",
@@ -33231,10 +33231,10 @@
       "description": "Converter extension from the Test Adapter UI to native VS Code testing"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hbenl/test-adapter-converter/0.1.4/file/hbenl.test-adapter-converter-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/hbenl/test-adapter-converter/0.1.6/file/hbenl.test-adapter-converter-0.1.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WfVgV/Dh5lzKKXbuz9U3iwbjzl5f2Mwb3D/NP+kv+nA="
+      "sha256": "sha256-8xv5Lhmj+pwwMK3zM7kvdJi7NBOoCQOpgfBdBG1RFP8="
     },
     "extract": null,
     "rustGitDeps": null

@@ -9075,10 +9075,10 @@
   };
   hbenl-test-adapter-converter = {
     pname = "hbenl-test-adapter-converter";
-    version = "0.1.4";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/test-adapter-converter/0.1.4/file/hbenl.test-adapter-converter-0.1.4.vsix";
-      sha256 = "sha256-WfVgV/Dh5lzKKXbuz9U3iwbjzl5f2Mwb3D/NP+kv+nA=";
+      url = "https://open-vsx.org/api/hbenl/test-adapter-converter/0.1.6/file/hbenl.test-adapter-converter-0.1.6.vsix";
+      sha256 = "sha256-8xv5Lhmj+pwwMK3zM7kvdJi7NBOoCQOpgfBdBG1RFP8=";
     };
     name = "test-adapter-converter";
     license = "MIT";
@@ -18219,10 +18219,10 @@
   };
   viper-admin-viper = {
     pname = "viper-admin-viper";
-    version = "2.4.1";
+    version = "2.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/viper/2.4.1/file/viper-admin.viper-2.4.1.vsix";
-      sha256 = "sha256-U6s4ajhW4WhMPbc1a8voNFtD7AdKW1jAwIGZSvCaY1w=";
+      url = "https://open-vsx.org/api/viper-admin/viper/2.4.2/file/viper-admin.viper-2.4.2.vsix";
+      sha256 = "sha256-oSBoTf5QBHb29v7+ox4O1gvm/LiJ1JDIF4n4OFOp2Lg=";
     };
     name = "viper";
     license = "";
