@@ -13395,10 +13395,10 @@
   };
   nico-castell-linux-desktop-file = {
     pname = "nico-castell-linux-desktop-file";
-    version = "0.0.18";
+    version = "0.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nico-castell/linux-desktop-file/0.0.18/file/nico-castell.linux-desktop-file-0.0.18.vsix";
-      sha256 = "sha256-/Ce3+q2kt6JGHMS54+5SIIEX+agxA5v00MDvRGIQ5pE=";
+      url = "https://open-vsx.org/api/nico-castell/linux-desktop-file/0.0.21/file/nico-castell.linux-desktop-file-0.0.21.vsix";
+      sha256 = "sha256-4qy+2Tg9g0/9D+MNvLSgWUE8sc5itsC/pJ9hcfxyVzQ=";
     };
     name = "linux-desktop-file";
     license = "MIT";

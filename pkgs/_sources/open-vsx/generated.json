@@ -33623,7 +33623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nico-castell-linux-desktop-file",
-    "version": "0.0.18",
+    "version": "0.0.21",
     "passthru": {
       "name": "linux-desktop-file",
       "license": "MIT",
@@ -33631,10 +33631,10 @@
       "description": "Add support for .desktop files in linux"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nico-castell/linux-desktop-file/0.0.18/file/nico-castell.linux-desktop-file-0.0.18.vsix",
+      "url": "https://open-vsx.org/api/nico-castell/linux-desktop-file/0.0.21/file/nico-castell.linux-desktop-file-0.0.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/Ce3+q2kt6JGHMS54+5SIIEX+agxA5v00MDvRGIQ5pE="
+      "sha256": "sha256-4qy+2Tg9g0/9D+MNvLSgWUE8sc5itsC/pJ9hcfxyVzQ="
     },
     "extract": null,
     "rustGitDeps": null
