@@ -15143,7 +15143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anibalsolon-neuro-viewer",
-    "version": "0.0.9",
+    "version": "0.0.12",
     "passthru": {
       "name": "neuro-viewer",
       "license": "MIT",
@@ -15151,10 +15151,10 @@
       "description": "View your neuroimaging files in VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.9/file/anibalsolon.neuro-viewer-0.0.9.vsix",
+      "url": "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.12/file/anibalsolon.neuro-viewer-0.0.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ppVx2pFNbi5kEjKms6nbpFKFHJ2uwWNctpJXM/2wwuI="
+      "sha256": "sha256-kLNsFqMbQfqjkVmPpaOOOCTbwzAQ2HVmWeRSzB99MPk="
     },
     "extract": null,
     "rustGitDeps": null

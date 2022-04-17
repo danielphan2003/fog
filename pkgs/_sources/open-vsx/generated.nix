@@ -4395,10 +4395,10 @@
   };
   anibalsolon-neuro-viewer = {
     pname = "anibalsolon-neuro-viewer";
-    version = "0.0.9";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.9/file/anibalsolon.neuro-viewer-0.0.9.vsix";
-      sha256 = "sha256-ppVx2pFNbi5kEjKms6nbpFKFHJ2uwWNctpJXM/2wwuI=";
+      url = "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.12/file/anibalsolon.neuro-viewer-0.0.12.vsix";
+      sha256 = "sha256-kLNsFqMbQfqjkVmPpaOOOCTbwzAQ2HVmWeRSzB99MPk=";
     };
     name = "neuro-viewer";
     license = "MIT";
