@@ -12543,10 +12543,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.237";
+    version = "1.1.238";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.237/file/ms-pyright.pyright-1.1.237.vsix";
-      sha256 = "sha256-QuzmN6W9K6VkJkeHM+9/4V+gsLU3CPd07E7dqfzR7nU=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.238/file/ms-pyright.pyright-1.1.238.vsix";
+      sha256 = "sha256-Un5EFl2oM4qjuCtIWx0t491T6vlI9MpAEMMleDOy36s=";
     };
     name = "pyright";
     license = "MIT";

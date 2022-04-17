@@ -30723,7 +30723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-pyright-pyright",
-    "version": "1.1.237",
+    "version": "1.1.238",
     "passthru": {
       "name": "pyright",
       "license": "MIT",
@@ -30731,10 +30731,10 @@
       "description": "VS Code static type checking for Python"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.237/file/ms-pyright.pyright-1.1.237.vsix",
+      "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.238/file/ms-pyright.pyright-1.1.238.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QuzmN6W9K6VkJkeHM+9/4V+gsLU3CPd07E7dqfzR7nU="
+      "sha256": "sha256-Un5EFl2oM4qjuCtIWx0t491T6vlI9MpAEMMleDOy36s="
     },
     "extract": null,
     "rustGitDeps": null
