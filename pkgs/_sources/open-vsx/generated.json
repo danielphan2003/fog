@@ -9123,7 +9123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrilletuzi-angular-schematics",
-    "version": "5.1.5",
+    "version": "5.1.6",
     "passthru": {
       "name": "angular-schematics",
       "license": "MIT",
@@ -9131,10 +9131,10 @@
       "description": "Angular schematics (CLI commands) from files Explorer or Command Palette."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.5/file/cyrilletuzi.angular-schematics-5.1.5.vsix",
+      "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.6/file/cyrilletuzi.angular-schematics-5.1.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QLQa4LmS+AvgLAUhKCEyqUJvABZGQeQct3LkWuPebk4="
+      "sha256": "sha256-MjyBGBjA8cEyxPNbHhzt9wzAxGQK2dLQ0OPRC4eks9g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12779,6 +12779,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "AdrianCuadrado-npm-install-reminder": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "AdrianCuadrado-npm-install-reminder",
+    "version": "0.0.3",
+    "passthru": {
+      "name": "npm-install-reminder",
+      "license": "MIT",
+      "publisher": "AdrianCuadrado",
+      "description": "Detects when a change is made in package.lock every time you pull or checkout another git branch, and reminds you to run npm install."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.3/file/AdrianCuadrado.npm-install-reminder-0.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ZJ373WkY77yEXN/n3njNTP4tzFe3xu26xmxz+jF5Amc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "streetsidesoftware-code-spell-checker-bulgarian": {
     "pinned": false,
     "cargoLock": null,
@@ -15143,7 +15163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anibalsolon-neuro-viewer",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "passthru": {
       "name": "neuro-viewer",
       "license": "MIT",
@@ -15151,10 +15171,10 @@
       "description": "View your neuroimaging files in VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.12/file/anibalsolon.neuro-viewer-0.0.12.vsix",
+      "url": "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.13/file/anibalsolon.neuro-viewer-0.0.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kLNsFqMbQfqjkVmPpaOOOCTbwzAQ2HVmWeRSzB99MPk="
+      "sha256": "sha256-L/O9BT4gwknUioubD8lL39GEyQgrl79dx/+LjF07ziE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30363,18 +30383,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.12.0",
+    "version": "1.13.1",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
       "publisher": "sasjs",
-      "description": "Execute SAS code on your server from VS Code"
+      "description": "Execute code on any SAS server, also perform SAS linting and syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.12.0/file/sasjs.sasjs-for-vscode-1.12.0.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.13.1/file/sasjs.sasjs-for-vscode-1.13.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7MhUrYoxRFMncQ0h0LZTRQl0Um1A5UtzW9mM7Xl3oXM="
+      "sha256": "sha256-6kADrLgPKOSsBYfuXgiRzbxSzywIlMsE4kCcwhv+rwM="
     },
     "extract": null,
     "rustGitDeps": null

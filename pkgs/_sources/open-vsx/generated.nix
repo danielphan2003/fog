@@ -49,6 +49,18 @@
     publisher = "AdamAnand";
     description = "Creates toolbar to help Visual Studio Code users.";
   };
+  AdrianCuadrado-npm-install-reminder = {
+    pname = "AdrianCuadrado-npm-install-reminder";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.3/file/AdrianCuadrado.npm-install-reminder-0.0.3.vsix";
+      sha256 = "sha256-ZJ373WkY77yEXN/n3njNTP4tzFe3xu26xmxz+jF5Amc=";
+    };
+    name = "npm-install-reminder";
+    license = "MIT";
+    publisher = "AdrianCuadrado";
+    description = "Detects when a change is made in package.lock every time you pull or checkout another git branch, and reminds you to run npm install.";
+  };
   Angular-ng-template = {
     pname = "Angular-ng-template";
     version = "13.3.1";
@@ -4395,10 +4407,10 @@
   };
   anibalsolon-neuro-viewer = {
     pname = "anibalsolon-neuro-viewer";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.12/file/anibalsolon.neuro-viewer-0.0.12.vsix";
-      sha256 = "sha256-kLNsFqMbQfqjkVmPpaOOOCTbwzAQ2HVmWeRSzB99MPk=";
+      url = "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.13/file/anibalsolon.neuro-viewer-0.0.13.vsix";
+      sha256 = "sha256-L/O9BT4gwknUioubD8lL39GEyQgrl79dx/+LjF07ziE=";
     };
     name = "neuro-viewer";
     license = "MIT";
@@ -6615,10 +6627,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.1.5";
+    version = "5.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.5/file/cyrilletuzi.angular-schematics-5.1.5.vsix";
-      sha256 = "sha256-QLQa4LmS+AvgLAUhKCEyqUJvABZGQeQct3LkWuPebk4=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.6/file/cyrilletuzi.angular-schematics-5.1.6.vsix";
+      sha256 = "sha256-MjyBGBjA8cEyxPNbHhzt9wzAxGQK2dLQ0OPRC4eks9g=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -15831,15 +15843,15 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.12.0";
+    version = "1.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.12.0/file/sasjs.sasjs-for-vscode-1.12.0.vsix";
-      sha256 = "sha256-7MhUrYoxRFMncQ0h0LZTRQl0Um1A5UtzW9mM7Xl3oXM=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.13.1/file/sasjs.sasjs-for-vscode-1.13.1.vsix";
+      sha256 = "sha256-6kADrLgPKOSsBYfuXgiRzbxSzywIlMsE4kCcwhv+rwM=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
     publisher = "sasjs";
-    description = "Execute SAS code on your server from VS Code";
+    description = "Execute code on any SAS server, also perform SAS linting and syntax highlighting";
   };
   satoqz-yet-another-discord-presence = {
     pname = "satoqz-yet-another-discord-presence";
