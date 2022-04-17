@@ -14283,10 +14283,10 @@
   };
   piousdeer-adwaita-theme = {
     pname = "piousdeer-adwaita-theme";
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.4/file/piousdeer.adwaita-theme-1.0.4.vsix";
-      sha256 = "sha256-liL7njZ4BvBFy3hR7auhdbZGXL+Z9Re06kP5vvsr6rs=";
+      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.5/file/piousdeer.adwaita-theme-1.0.5.vsix";
+      sha256 = "sha256-QNCQY5kByNP5O9+as4JFmB4hY3RyVGyCTI0urQQH31E=";
     };
     name = "adwaita-theme";
     license = "GPL-3.0-only";

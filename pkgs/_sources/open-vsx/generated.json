@@ -10103,7 +10103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "piousdeer-adwaita-theme",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "passthru": {
       "name": "adwaita-theme",
       "license": "GPL-3.0-only",
@@ -10111,10 +10111,10 @@
       "description": "Theme for the GNOME desktop"
     },
     "src": {
-      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.4/file/piousdeer.adwaita-theme-1.0.4.vsix",
+      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.5/file/piousdeer.adwaita-theme-1.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-liL7njZ4BvBFy3hR7auhdbZGXL+Z9Re06kP5vvsr6rs="
+      "sha256": "sha256-QNCQY5kByNP5O9+as4JFmB4hY3RyVGyCTI0urQQH31E="
     },
     "extract": null,
     "rustGitDeps": null
