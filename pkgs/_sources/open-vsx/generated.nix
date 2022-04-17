@@ -11715,10 +11715,10 @@
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.5.0/file/marp-team.marp-vscode-1.5.0.vsix";
-      sha256 = "sha256-OzQb0mcVdBbcxuhhFFS1Pt5N1C8VJomUw3CBRT2wHfI=";
+      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.5.1/file/marp-team.marp-vscode-1.5.1.vsix";
+      sha256 = "sha256-1WCn81aNcELR1XWV5/r5q+Zo4JhPl/9l1LlhFkemkIc=";
     };
     name = "marp-vscode";
     license = "MIT";
@@ -16395,10 +16395,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.7";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.7/file/smapiot.vscode-piral-0.2.7.vsix";
-      sha256 = "sha256-HcHQdop5QQv44smSOj79PSFlPbLpopt1czghTWYRxaY=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.8/file/smapiot.vscode-piral-0.2.8.vsix";
+      sha256 = "sha256-hRkNcE0y5NPSywYx9T1BLVwYbKyzbIh/Po9/qK1Mk40=";
     };
     name = "vscode-piral";
     license = "MIT";

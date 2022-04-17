@@ -9243,7 +9243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "marp-team-marp-vscode",
-    "version": "1.5.0",
+    "version": "1.5.1",
     "passthru": {
       "name": "marp-vscode",
       "license": "MIT",
@@ -9251,10 +9251,10 @@
       "description": "Create slide deck written in Marp Markdown on VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.5.0/file/marp-team.marp-vscode-1.5.0.vsix",
+      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.5.1/file/marp-team.marp-vscode-1.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OzQb0mcVdBbcxuhhFFS1Pt5N1C8VJomUw3CBRT2wHfI="
+      "sha256": "sha256-1WCn81aNcELR1XWV5/r5q+Zo4JhPl/9l1LlhFkemkIc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11583,7 +11583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11591,10 +11591,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.7/file/smapiot.vscode-piral-0.2.7.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.8/file/smapiot.vscode-piral-0.2.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HcHQdop5QQv44smSOj79PSFlPbLpopt1czghTWYRxaY="
+      "sha256": "sha256-hRkNcE0y5NPSywYx9T1BLVwYbKyzbIh/Po9/qK1Mk40="
     },
     "extract": null,
     "rustGitDeps": null
