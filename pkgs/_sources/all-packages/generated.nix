@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "110d63f526d56c4390b2ca5883e2aaf812ebe78a";
+    version = "bbdf3fc9a3819e1bcd56971e26bde0b7d35375a6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "110d63f526d56c4390b2ca5883e2aaf812ebe78a";
+      rev = "bbdf3fc9a3819e1bcd56971e26bde0b7d35375a6";
       fetchSubmodules = false;
-      sha256 = "sha256-492+IwDK50IgiVlR3IaJMBrJ7yxvrRzR9aT6rZ5hMKk=";
+      sha256 = "sha256-VwrbBWyKwUl2T5nA7Q6ZAAo3rkxn/pED+zCOYlfLUSk=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-110d63f526d56c4390b2ca5883e2aaf812ebe78a/Cargo.lock;
+      lockFile = ./rustdesk-bbdf3fc9a3819e1bcd56971e26bde0b7d35375a6/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -917,24 +917,24 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "c68ca669ff9a18222e80b1d2d961747a8c53f4db";
+    version = "647da75668695486c6acd4b02fd60701befeb22b";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "c68ca669ff9a18222e80b1d2d961747a8c53f4db";
+      rev = "647da75668695486c6acd4b02fd60701befeb22b";
       fetchSubmodules = false;
-      sha256 = "sha256-x0m+FqMkB7yfOif06tUHF/oJgNnJbc+5UQc039sJUto=";
+      sha256 = "sha256-Xt6eBK4ohvHh2/muMG2fXWn9ZqKA4x6L7RgT7+eUAUs=";
     });
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "5e41601904910e136f4984353c31a29baaacd1bc";
+    version = "0d36944b848fa19715bda0d7364cfad472faee9f";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "5e41601904910e136f4984353c31a29baaacd1bc";
+      rev = "0d36944b848fa19715bda0d7364cfad472faee9f";
       fetchSubmodules = false;
-      sha256 = "sha256-tAaaDm+qHoRkVwiN9KRSE5QvtAkzdmwIfU2JL8SKK9M=";
+      sha256 = "sha256-r6MD6Z4eDyblTXy0fFkv48/7Z2Y8IvJt12jriXPk1yY=";
     });
   };
   spotify = {
@@ -1011,13 +1011,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c591c9165379f37bf3c3d56e9105b2e24f9f99d5";
+    version = "16f35200890274d5e05b369b197866a12a78a9b0";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c591c9165379f37bf3c3d56e9105b2e24f9f99d5";
+      rev = "16f35200890274d5e05b369b197866a12a78a9b0";
       fetchSubmodules = false;
-      sha256 = "sha256-oc9NClMc0M/bD0ahMOSqJt71P6Vf90REI2yOeEgputs=";
+      sha256 = "sha256-t7Y6pKD1WZbwyREV/CGnEC+NiCj4D17OC/ni+bq9nSI=";
     });
   };
   tailscale-systray = {
