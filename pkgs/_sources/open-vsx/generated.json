@@ -17683,7 +17683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.18",
+    "version": "0.13.19",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -17691,10 +17691,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.18/file/shufo.vscode-blade-formatter-0.13.18.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.19/file/shufo.vscode-blade-formatter-0.13.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tDjwBfln2g+EMjjwM3om0MOxQaeIQb9Mw+ldS5JxOb0="
+      "sha256": "sha256-igvBngHCiiOdrnhyFV9HlCKZHCg2v+T5ITwk7Y3ZKkI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30643,7 +30643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ionutvmi-reg",
-    "version": "1.0.3",
+    "version": "1.1.0",
     "passthru": {
       "name": "reg",
       "license": "MIT",
@@ -30651,10 +30651,10 @@
       "description": "Windows Registry Script (.reg) Language package for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ionutvmi/reg/1.0.3/file/ionutvmi.reg-1.0.3.vsix",
+      "url": "https://open-vsx.org/api/ionutvmi/reg/1.1.0/file/ionutvmi.reg-1.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qLmIrnEEqlqBiCC8WCrPdy3wkVBm1o3+LGNF8w1dFuk="
+      "sha256": "sha256-EIK7WHs+6ffVwR/2fZ8EuMQYxKIcLIaLxTjxZQ7ylxQ="
     },
     "extract": null,
     "rustGitDeps": null

@@ -9891,10 +9891,10 @@
   };
   ionutvmi-reg = {
     pname = "ionutvmi-reg";
-    version = "1.0.3";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/reg/1.0.3/file/ionutvmi.reg-1.0.3.vsix";
-      sha256 = "sha256-qLmIrnEEqlqBiCC8WCrPdy3wkVBm1o3+LGNF8w1dFuk=";
+      url = "https://open-vsx.org/api/ionutvmi/reg/1.1.0/file/ionutvmi.reg-1.1.0.vsix";
+      sha256 = "sha256-EIK7WHs+6ffVwR/2fZ8EuMQYxKIcLIaLxTjxZQ7ylxQ=";
     };
     name = "reg";
     license = "MIT";
@@ -16155,10 +16155,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.18";
+    version = "0.13.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.18/file/shufo.vscode-blade-formatter-0.13.18.vsix";
-      sha256 = "sha256-tDjwBfln2g+EMjjwM3om0MOxQaeIQb9Mw+ldS5JxOb0=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.19/file/shufo.vscode-blade-formatter-0.13.19.vsix";
+      sha256 = "sha256-igvBngHCiiOdrnhyFV9HlCKZHCg2v+T5ITwk7Y3ZKkI=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
