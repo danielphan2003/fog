@@ -1626,7 +1626,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "647da75668695486c6acd4b02fd60701befeb22b",
+    "version": "a5b535a2e2c211d6d66682b973858b038a18b985",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1636,8 +1636,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-Xt6eBK4ohvHh2/muMG2fXWn9ZqKA4x6L7RgT7+eUAUs=",
-      "rev": "647da75668695486c6acd4b02fd60701befeb22b"
+      "sha256": "sha256-IQYImkMjK4UwIewxJ7ZUurL2NRi3u8uq4Bf9jARZTQQ=",
+      "rev": "a5b535a2e2c211d6d66682b973858b038a18b985"
     },
     "extract": null,
     "rustGitDeps": null
