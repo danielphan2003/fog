@@ -16407,10 +16407,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.8";
+    version = "0.2.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.8/file/smapiot.vscode-piral-0.2.8.vsix";
-      sha256 = "sha256-hRkNcE0y5NPSywYx9T1BLVwYbKyzbIh/Po9/qK1Mk40=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.13/file/smapiot.vscode-piral-0.2.13.vsix";
+      sha256 = "sha256-4fziHhTvzKQXwBwzuZER1RGfDA7OdxTDeYrJ/EsprQY=";
     };
     name = "vscode-piral";
     license = "MIT";
@@ -18339,10 +18339,10 @@
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
-    version = "0.40.0";
+    version = "0.40.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.0/file/vscjava.vscode-java-debug-0.40.0.vsix";
-      sha256 = "sha256-NbVUB313a7f8HJMeCmwKXQlKwQsIrMGFKKMICFHIT4U=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.1/file/vscjava.vscode-java-debug-0.40.1.vsix";
+      sha256 = "sha256-HkV55gkWnDRRg9Qlm9BTJRWCLltrnsLvzDmkd11246Q=";
     };
     name = "vscode-java-debug";
     license = "";

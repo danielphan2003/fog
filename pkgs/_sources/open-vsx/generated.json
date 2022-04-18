@@ -11583,7 +11583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.8",
+    "version": "0.2.13",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11591,10 +11591,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.8/file/smapiot.vscode-piral-0.2.8.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.13/file/smapiot.vscode-piral-0.2.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hRkNcE0y5NPSywYx9T1BLVwYbKyzbIh/Po9/qK1Mk40="
+      "sha256": "sha256-4fziHhTvzKQXwBwzuZER1RGfDA7OdxTDeYrJ/EsprQY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22143,7 +22143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-debug",
-    "version": "0.40.0",
+    "version": "0.40.1",
     "passthru": {
       "name": "vscode-java-debug",
       "license": "",
@@ -22151,10 +22151,10 @@
       "description": "A lightweight Java debugger for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.0/file/vscjava.vscode-java-debug-0.40.0.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.1/file/vscjava.vscode-java-debug-0.40.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NbVUB313a7f8HJMeCmwKXQlKwQsIrMGFKKMICFHIT4U="
+      "sha256": "sha256-HkV55gkWnDRRg9Qlm9BTJRWCLltrnsLvzDmkd11246Q="
     },
     "extract": null,
     "rustGitDeps": null
