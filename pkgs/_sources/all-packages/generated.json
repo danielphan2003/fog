@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "9f1dd716e838a394c7f6616614411a2b82002a56",
+    "version": "d201d217df313fca8e7cf5fff91879db080bb593",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-exA5iJ6ULgFU6pF+binvQiNuAhqxNR53lnoX6q+XPjM=",
-      "rev": "9f1dd716e838a394c7f6616614411a2b82002a56"
+      "sha256": "sha256-ARlAG6WgS7/jMvaPcX8NAsdH3x6sHRHBYSnGqnW0A+g=",
+      "rev": "d201d217df313fca8e7cf5fff91879db080bb593"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2148,7 +2148,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-themes",
-    "version": "f9f5c0a6c84fb7add962090d0b1aceb63c2f6986",
+    "version": "7887bbf8768062aa5b719a32d81f0851bf48056c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2158,8 +2158,8 @@
       "name": null,
       "repo": "spicetify-themes",
       "type": "github",
-      "sha256": "sha256-bezvn1Au4eV1qRO//WXbpUGaFWzfMxjJ6PS8WX+u0eY=",
-      "rev": "f9f5c0a6c84fb7add962090d0b1aceb63c2f6986"
+      "sha256": "sha256-13xRgUKvf9g6SuCx2ru98Tzs3lQJUt9r6y69ORz+xBM=",
+      "rev": "7887bbf8768062aa5b719a32d81f0851bf48056c"
     },
     "extract": null,
     "rustGitDeps": null
