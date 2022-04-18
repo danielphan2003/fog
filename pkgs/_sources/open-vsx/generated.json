@@ -1203,7 +1203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.90.1",
+    "version": "0.90.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1211,10 +1211,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.90.1/file/dendron.nightly-0.90.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.90.2/file/dendron.nightly-0.90.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-v7Vj7iUCkLjKleMfsb6Y+jXH5EGDfDp4MLe2ESanrSU="
+      "sha256": "sha256-RBmx0TEdpIRqJ6rAmX2rxHiLHnMnjzfpWudVquNTwbA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3383,7 +3383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.9",
+    "version": "0.11.10",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3391,10 +3391,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.9/file/d-biehl.robotcode-0.11.9.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.10/file/d-biehl.robotcode-0.11.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eAY7jV1DEv8uHvJj+5tGStsV8+0Ht4KRCCvpfiPfcDM="
+      "sha256": "sha256-Qkcp2wVgCrShEAzA4/1e4eKJIfUcDG9+UH3cW/h8lHE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6543,7 +6543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-fr",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-fr",
       "license": "MIT",
@@ -6551,10 +6551,10 @@
       "description": "Language pack extension for French"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.66.3/file/MS-CEINTL.vscode-language-pack-fr-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.67.0/file/MS-CEINTL.vscode-language-pack-fr-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6vd9TExKVgLCM4kiBnGrB0V/d0T+IJ59NiT5nnaDefU="
+      "sha256": "sha256-JXWTE4L2+lja0Dk36TFIRGHimS7hiJ506jB47SKLVAc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8183,7 +8183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-zh-hant",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-zh-hant",
       "license": "MIT",
@@ -8191,10 +8191,10 @@
       "description": "Language pack extension for Chinese (Traditional)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.66.3/file/MS-CEINTL.vscode-language-pack-zh-hant-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.67.0/file/MS-CEINTL.vscode-language-pack-zh-hant-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4lDQ1xbQBzu/ZqQ3ObBDIoOYPgBscu9aSyW582b53PU="
+      "sha256": "sha256-aNl4QGd4SIUzEmB44zqaiPfu/dlaIXXtuTIZdRMU7Fw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12163,7 +12163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.0.16",
+    "version": "2.1.0",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12171,10 +12171,10 @@
       "description": "Draw schemas in VSCode using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.0.16/file/pomdtr.excalidraw-editor-2.0.16.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.0/file/pomdtr.excalidraw-editor-2.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p5rmY3eWVx1YPGEkcPw4RCQyuYZ/AHGKHmIuDi4JozA="
+      "sha256": "sha256-168l2nZ4Wr50YK/Q6R+KT1K1vlOTB5ray49sCx2z07s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12923,7 +12923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-ru",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-ru",
       "license": "MIT",
@@ -12931,10 +12931,10 @@
       "description": "Language pack extension for Russian"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.66.3/file/MS-CEINTL.vscode-language-pack-ru-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.67.0/file/MS-CEINTL.vscode-language-pack-ru-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UE3RVxdHEADMfZpTXrZ7cA0PfmroExGfiphtrxMN7g8="
+      "sha256": "sha256-W54wrUYzgQGchvFZLTjPqdOwVy7G9rcbJzAMHOXLAxI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24543,7 +24543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nocalhost-nocalhost",
-    "version": "0.6.17",
+    "version": "0.6.18",
     "passthru": {
       "name": "nocalhost",
       "license": "Apache-2.0",
@@ -24551,10 +24551,10 @@
       "description": "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.17/file/nocalhost.nocalhost-0.6.17.vsix",
+      "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.18/file/nocalhost.nocalhost-0.6.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OFLJ676+cYs4vXq/bPxX2JUp8rBJsqFE3h3Z+WMV/Is="
+      "sha256": "sha256-TsmC0jSx/i3yqYhy9AOLwVd8v4PMumWxEd5k03hEMMQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27703,7 +27703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-pt-BR",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-pt-BR",
       "license": "MIT",
@@ -27711,10 +27711,10 @@
       "description": "Language pack extension for Portuguese (Brazil)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.66.3/file/MS-CEINTL.vscode-language-pack-pt-BR-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.67.0/file/MS-CEINTL.vscode-language-pack-pt-BR-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-G+34JfLhvoyJfNTmDL2qJ9BYaVydWnFhrWnta2ITxho="
+      "sha256": "sha256-1JWbBtLhq2iiidHyfA+oSSeG/oGT63XvIBBhvrYvQj4="
     },
     "extract": null,
     "rustGitDeps": null
