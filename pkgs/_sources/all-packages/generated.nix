@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "919af220570a527534a07ff1070d0fe3141fc824";
+    version = "6e9b540dd6395e820fe9dbd1314f820b19b2172f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "919af220570a527534a07ff1070d0fe3141fc824";
+      rev = "6e9b540dd6395e820fe9dbd1314f820b19b2172f";
       fetchSubmodules = false;
-      sha256 = "sha256-fFEqeymq1nSWoMay+nHykbIyn+VCCMzeD/AlgkI9/Tg=";
+      sha256 = "sha256-pODob1HiNNP2ADFttc/wi+k/poJLVjenWZ9idZsOKaU=";
     });
   };
   caddy = {
@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "607dd8b25053d114b06b2089ae063a2a30e4e7f6";
+    version = "0fafea37dffbe309057b41b466736343e709cbd4";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "607dd8b25053d114b06b2089ae063a2a30e4e7f6";
+      rev = "0fafea37dffbe309057b41b466736343e709cbd4";
       fetchSubmodules = false;
-      sha256 = "sha256-X7hPW3JW9xqjlE9frbknNWEPOwf+48vBmfok8m8nOfE=";
+      sha256 = "sha256-d5+KwnBezKq7AlKmDhkzA4s89Zvef5dstANf91O4XFk=";
     });
     cargoLock = {
-      lockFile = ./eww-607dd8b25053d114b06b2089ae063a2a30e4e7f6/Cargo.lock;
+      lockFile = ./eww-0fafea37dffbe309057b41b466736343e709cbd4/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -546,10 +546,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "101.0.1210.14";
+    version = "101.0.1210.19";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.14-1_amd64.deb";
-      sha256 = "sha256-b03TQ0WPBlR506QS9LeSt1AaGQeINEMMglknC+Ii/9g=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.19-1_amd64.deb";
+      sha256 = "sha256-lxTbA3sB0j5amr70A+eHKb1ClDYNpH8vjj0Z7nMK7M0=";
     };
   };
   microsoft-edge-dev = {
