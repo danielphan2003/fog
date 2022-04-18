@@ -1443,7 +1443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "roipoussiere-cadquery",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "passthru": {
       "name": "cadquery",
       "license": "MIT",
@@ -1451,10 +1451,10 @@
       "description": "Build parametric 2D/3D CAD models in VSCode with the CadQuery library."
     },
     "src": {
-      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.1.2/file/roipoussiere.cadquery-0.1.2.vsix",
+      "url": "https://open-vsx.org/api/roipoussiere/cadquery/0.1.3/file/roipoussiere.cadquery-0.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HrVteRwS7YhWYS3K1GdL2YKt1/QJ7z4GKPVoeoFtbU8="
+      "sha256": "sha256-Tn59uZHV1bU6NvlQpqTptAHhJKyEkj5ER0Ba2R6wf1U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22643,7 +22643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jsw-csharpextensions",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "passthru": {
       "name": "csharpextensions",
       "license": "MIT",
@@ -22651,10 +22651,10 @@
       "description": "C# IDE Extensions for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jsw/csharpextensions/1.6.0/file/jsw.csharpextensions-1.6.0.vsix",
+      "url": "https://open-vsx.org/api/jsw/csharpextensions/1.6.1/file/jsw.csharpextensions-1.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0TxWR8fwUm6i2E106el3bL0hZUtBzQV0O+b8aAIpREg="
+      "sha256": "sha256-P+w9cVS0kxMVsdIFMRWw8R/fZMzo/lQE8Urtb5bROEw="
     },
     "extract": null,
     "rustGitDeps": null

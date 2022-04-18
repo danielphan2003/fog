@@ -10515,10 +10515,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.6.0";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.0/file/jsw.csharpextensions-1.6.0.vsix";
-      sha256 = "sha256-0TxWR8fwUm6i2E106el3bL0hZUtBzQV0O+b8aAIpREg=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.1/file/jsw.csharpextensions-1.6.1.vsix";
+      sha256 = "sha256-P+w9cVS0kxMVsdIFMRWw8R/fZMzo/lQE8Urtb5bROEw=";
     };
     name = "csharpextensions";
     license = "MIT";
@@ -15495,10 +15495,10 @@
   };
   roipoussiere-cadquery = {
     pname = "roipoussiere-cadquery";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.2/file/roipoussiere.cadquery-0.1.2.vsix";
-      sha256 = "sha256-HrVteRwS7YhWYS3K1GdL2YKt1/QJ7z4GKPVoeoFtbU8=";
+      url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.3/file/roipoussiere.cadquery-0.1.3.vsix";
+      sha256 = "sha256-Tn59uZHV1bU6NvlQpqTptAHhJKyEkj5ER0Ba2R6wf1U=";
     };
     name = "cadquery";
     license = "MIT";
