@@ -1087,13 +1087,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zoom-us",
-    "version": "5.10.0.2450",
+    "version": "5.10.3.2778",
     "passthru": null,
     "src": {
-      "url": "https://cdn.zoom.us/prod/5.10.0.2450/zoom_x86_64.pkg.tar.xz",
+      "url": "https://cdn.zoom.us/prod/5.10.3.2778/zoom_x86_64.pkg.tar.xz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CoK7kqUXnFmlFb81K7722wIAb2OOTg6NQneo1bD6cYw="
+      "sha256": "sha256-R/AJuu4VsaKqhve5hs6hz+Xg0feaZejMgcf6sms5Buk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "655c0384179f3a72132784bb85f0d722231b8e11",
+    "version": "8e14f3a08d47586f40233f3736b74fd5c021fe74",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-r6UQvLfObAM289+PLaGNsk/beSCFvjhTlya8JHle9/k=",
-      "rev": "655c0384179f3a72132784bb85f0d722231b8e11"
+      "sha256": "sha256-SEeiQ8+wCDILAs3YLN1e5Bj8OWzTmfq9sxqBnPXTICw=",
+      "rev": "8e14f3a08d47586f40233f3736b74fd5c021fe74"
     },
     "extract": null,
     "rustGitDeps": null
