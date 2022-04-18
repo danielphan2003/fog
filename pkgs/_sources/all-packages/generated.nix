@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "cbf0d366b4c8aef0048309a8f6577c736b4ac401";
+    version = "c7d02a38d9527b4a1190102786e3d2cc75d4c84c";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "cbf0d366b4c8aef0048309a8f6577c736b4ac401";
+      rev = "c7d02a38d9527b4a1190102786e3d2cc75d4c84c";
       fetchSubmodules = false;
-      sha256 = "sha256-3+xhXFdNgVwV8W5HraBiH6r8W2MMDInOACODMkGJOek=";
+      sha256 = "sha256-UZ+yinhCjVd2WPPd0Rb4c31JQyW+ovSOqpHEofO5vig=";
     });
   };
   ibus = {
@@ -445,10 +445,10 @@
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6092";
+    version = "1.0.6093";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6092-1_all.deb";
-      sha256 = "sha256-zDDikFOLMcNpP/2iCpc4TJDhY1mmXlVDVccx7kVTKvA=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6093-1_all.deb";
+      sha256 = "sha256-3CKc9KjXPnFHHMxiN/WgXoNhUpDGg3Dy0KIhmED+WDs=";
     };
   };
   jitsi-videobridge2 = {
@@ -905,14 +905,14 @@
   };
   snui = {
     pname = "snui";
-    version = "77956a3e4213cb332742dccc8a048dae0263cf73";
+    version = "07423ec50c7e5c25386e4feb38a0cd798a9ad380";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "77956a3e4213cb332742dccc8a048dae0263cf73";
+      rev = "07423ec50c7e5c25386e4feb38a0cd798a9ad380";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Zi6YmuG/7PupSOj4npcvX6QP/FcKkvvamSknxuMJxkw=";
+      sha256 = "sha256-Z+DX6+o1dKBPsj9IZKvpOwWr9TO4iP4tNeYjUXJuE6c=";
     };
   };
   spicetify-cli = {
@@ -1011,13 +1011,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f0e2272e04c39210c7b35bb7e6bdb043346acd88";
+    version = "e96dd0065202d5e255466eaaa21fc4d531ddc901";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f0e2272e04c39210c7b35bb7e6bdb043346acd88";
+      rev = "e96dd0065202d5e255466eaaa21fc4d531ddc901";
       fetchSubmodules = false;
-      sha256 = "sha256-bUWTZZd0VLlcXbX4XiytKqEZoXzHOxzw8gUZgpa5geU=";
+      sha256 = "sha256-vjlLOxe1IYObIt3Z4TDsnwYeTDWwloPN58Ko2s39Tno=";
     });
   };
   tailscale-systray = {
