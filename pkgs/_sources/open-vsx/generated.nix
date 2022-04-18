@@ -2943,10 +2943,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.31.0";
+    version = "2.31.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.0/file/RokuCommunity.brightscript-2.31.0.vsix";
-      sha256 = "sha256-7E+u8RQdTXkoLv7SWvrMRxynTu817lnbaVw9RDGgoBQ=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.1/file/RokuCommunity.brightscript-2.31.1.vsix";
+      sha256 = "sha256-ILLP6nH5+ZHqSBj0zcM17n3CEtW819w/RDpdnXhXC+g=";
     };
     name = "brightscript";
     license = "MIT";

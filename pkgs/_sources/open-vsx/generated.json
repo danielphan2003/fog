@@ -9643,7 +9643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.31.0",
+    "version": "2.31.1",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -9651,10 +9651,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.0/file/RokuCommunity.brightscript-2.31.0.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.1/file/RokuCommunity.brightscript-2.31.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7E+u8RQdTXkoLv7SWvrMRxynTu817lnbaVw9RDGgoBQ="
+      "sha256": "sha256-ILLP6nH5+ZHqSBj0zcM17n3CEtW819w/RDpdnXhXC+g="
     },
     "extract": null,
     "rustGitDeps": null
