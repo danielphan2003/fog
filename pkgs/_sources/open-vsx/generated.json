@@ -12823,7 +12823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "openstax-editor",
-    "version": "6.1.1",
+    "version": "6.1.2",
     "passthru": {
       "name": "editor",
       "license": "LICENSE",
@@ -12831,10 +12831,10 @@
       "description": "An editor for OpenStax-organized books."
     },
     "src": {
-      "url": "https://open-vsx.org/api/openstax/editor/6.1.1/file/openstax.editor-6.1.1.vsix",
+      "url": "https://open-vsx.org/api/openstax/editor/6.1.2/file/openstax.editor-6.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6LVCLmzGHgbJfD8EgPQwPWA8oB9FqIIL2n0HNAvU77w="
+      "sha256": "sha256-KjXtq9K84sHv2xdT3aKh4Q1h4Jhx2O4wvqnZo+k8/Cw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30383,7 +30383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.13.1",
+    "version": "1.13.3",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
@@ -30391,10 +30391,10 @@
       "description": "Execute code on any SAS server, also perform SAS linting and syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.13.1/file/sasjs.sasjs-for-vscode-1.13.1.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.13.3/file/sasjs.sasjs-for-vscode-1.13.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6kADrLgPKOSsBYfuXgiRzbxSzywIlMsE4kCcwhv+rwM="
+      "sha256": "sha256-k5wRaLwQJSJ8mIb3c7weYJWj3Wl3M1h6uCc4HsecZwI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30603,7 +30603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "6.0.0",
+    "version": "6.0.1",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -30611,10 +30611,10 @@
       "description": "F# Language Support, powered by FsAutoComplete"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.0/file/Ionide.Ionide-fsharp-6.0.0.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.1/file/Ionide.Ionide-fsharp-6.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o+L1wcCLh4tYi6b2RUsZEPPeR+qRpnhO0b0I1Hi2MqA="
+      "sha256": "sha256-fZP/3OIkQu3p7VscGA9TVv7aIhIjjHCCRUi1hO6YfIM="
     },
     "extract": null,
     "rustGitDeps": null
