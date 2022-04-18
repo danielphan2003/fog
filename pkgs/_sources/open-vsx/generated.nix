@@ -63,10 +63,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "13.3.1";
+    version = "14.0.0-next.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/13.3.1/file/Angular.ng-template-13.3.1.vsix";
-      sha256 = "sha256-CUcWhb3d6JPEUXxQJ9aD/hRCqyrOoCm74SZ0VQkD+yQ=";
+      url = "https://open-vsx.org/api/Angular/ng-template/14.0.0-next.0/file/Angular.ng-template-14.0.0-next.0.vsix";
+      sha256 = "sha256-05/TkR8usPriO/Y5HfO2PDsWOUFtekoizqzDgEK22lg=";
     };
     name = "ng-template";
     license = "MIT";
@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.0/file/DCsunset.vscode-modal-editor-0.3.0.vsix";
-      sha256 = "sha256-w8T6AEOsjqqG2kq6yUQlhrDsLOFWhm2neCs/JKUsUsM=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.1/file/DCsunset.vscode-modal-editor-0.3.1.vsix";
+      sha256 = "sha256-cLEoqndvePxoOWCeHUvzTkbrIwLqZ4BYxi3GL/GlKhI=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -5943,10 +5943,10 @@
   };
   carlocardella-vscode-texttoolbox = {
     pname = "carlocardella-vscode-texttoolbox";
-    version = "2.3.0";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.3.0/file/carlocardella.vscode-texttoolbox-2.3.0.vsix";
-      sha256 = "sha256-a5GWMjMtZS9TnysX/6Mlaj2i7n5FYcvJAUEzQqHDKeQ=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.4.0/file/carlocardella.vscode-texttoolbox-2.4.0.vsix";
+      sha256 = "sha256-AXv54wE9PQn3E48yTEtd1sgWum4mLaGV6ZOJonbpoU8=";
     };
     name = "vscode-texttoolbox";
     license = "MIT";

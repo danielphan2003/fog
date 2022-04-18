@@ -21623,7 +21623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DCsunset-vscode-modal-editor",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "passthru": {
       "name": "vscode-modal-editor",
       "license": "AGPL-3.0",
@@ -21631,10 +21631,10 @@
       "description": "Customizable extension to turn VS Code into a modal editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.0/file/DCsunset.vscode-modal-editor-0.3.0.vsix",
+      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.1/file/DCsunset.vscode-modal-editor-0.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w8T6AEOsjqqG2kq6yUQlhrDsLOFWhm2neCs/JKUsUsM="
+      "sha256": "sha256-cLEoqndvePxoOWCeHUvzTkbrIwLqZ4BYxi3GL/GlKhI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27863,7 +27863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "carlocardella-vscode-texttoolbox",
-    "version": "2.3.0",
+    "version": "2.4.0",
     "passthru": {
       "name": "vscode-texttoolbox",
       "license": "MIT",
@@ -27871,10 +27871,10 @@
       "description": "Collection of tools for text manipulation, filtering, sorting etc..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.3.0/file/carlocardella.vscode-texttoolbox-2.3.0.vsix",
+      "url": "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.4.0/file/carlocardella.vscode-texttoolbox-2.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a5GWMjMtZS9TnysX/6Mlaj2i7n5FYcvJAUEzQqHDKeQ="
+      "sha256": "sha256-AXv54wE9PQn3E48yTEtd1sgWum4mLaGV6ZOJonbpoU8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29343,7 +29343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Angular-ng-template",
-    "version": "13.3.1",
+    "version": "14.0.0-next.0",
     "passthru": {
       "name": "ng-template",
       "license": "MIT",
@@ -29351,10 +29351,10 @@
       "description": "Editor services for Angular templates"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Angular/ng-template/13.3.1/file/Angular.ng-template-13.3.1.vsix",
+      "url": "https://open-vsx.org/api/Angular/ng-template/14.0.0-next.0/file/Angular.ng-template-14.0.0-next.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CUcWhb3d6JPEUXxQJ9aD/hRCqyrOoCm74SZ0VQkD+yQ="
+      "sha256": "sha256-05/TkR8usPriO/Y5HfO2PDsWOUFtekoizqzDgEK22lg="
     },
     "extract": null,
     "rustGitDeps": null
