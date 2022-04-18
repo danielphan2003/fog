@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6e9b540dd6395e820fe9dbd1314f820b19b2172f";
+    version = "e7cc4f474c52722cef8ac8ce481981453355b77b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6e9b540dd6395e820fe9dbd1314f820b19b2172f";
+      rev = "e7cc4f474c52722cef8ac8ce481981453355b77b";
       fetchSubmodules = false;
-      sha256 = "sha256-pODob1HiNNP2ADFttc/wi+k/poJLVjenWZ9idZsOKaU=";
+      sha256 = "sha256-kNRio4UbdxAMGm6T5ytUI+VC7NuBg/Ag2ShkyAFsG10=";
     });
   };
   caddy = {
@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "0fafea37dffbe309057b41b466736343e709cbd4";
+    version = "b79f7b8fb71ff42285444cbdde93ee02ee464250";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "0fafea37dffbe309057b41b466736343e709cbd4";
+      rev = "b79f7b8fb71ff42285444cbdde93ee02ee464250";
       fetchSubmodules = false;
-      sha256 = "sha256-d5+KwnBezKq7AlKmDhkzA4s89Zvef5dstANf91O4XFk=";
+      sha256 = "sha256-zN3I7O3CNnz+E5cfxK9wtW1AFqMJGcCR/ermqoQje5M=";
     });
     cargoLock = {
-      lockFile = ./eww-0fafea37dffbe309057b41b466736343e709cbd4/Cargo.lock;
+      lockFile = ./eww-b79f7b8fb71ff42285444cbdde93ee02ee464250/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -905,14 +905,14 @@
   };
   snui = {
     pname = "snui";
-    version = "07423ec50c7e5c25386e4feb38a0cd798a9ad380";
+    version = "17d5834643445e16e94f0077803993c96c9f9342";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "07423ec50c7e5c25386e4feb38a0cd798a9ad380";
+      rev = "17d5834643445e16e94f0077803993c96c9f9342";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Z+DX6+o1dKBPsj9IZKvpOwWr9TO4iP4tNeYjUXJuE6c=";
+      sha256 = "sha256-idl2XworLWLfw/XuSyx42uspfueaFymtOBgEkuHXJNQ=";
     };
   };
   spicetify-cli = {
@@ -1011,13 +1011,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "e96dd0065202d5e255466eaaa21fc4d531ddc901";
+    version = "9f1dd716e838a394c7f6616614411a2b82002a56";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "e96dd0065202d5e255466eaaa21fc4d531ddc901";
+      rev = "9f1dd716e838a394c7f6616614411a2b82002a56";
       fetchSubmodules = false;
-      sha256 = "sha256-vjlLOxe1IYObIt3Z4TDsnwYeTDWwloPN58Ko2s39Tno=";
+      sha256 = "sha256-exA5iJ6ULgFU6pF+binvQiNuAhqxNR53lnoX6q+XPjM=";
     });
   };
   tailscale-systray = {
