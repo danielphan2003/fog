@@ -8363,7 +8363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robocorp-robocorp-code",
-    "version": "0.30.0",
+    "version": "0.32.0",
     "passthru": {
       "name": "robocorp-code",
       "license": "",
@@ -8371,10 +8371,10 @@
       "description": "Extension for Robot development in VSCode using Robocorp"
     },
     "src": {
-      "url": "https://open-vsx.org/api/robocorp/robocorp-code/0.30.0/file/robocorp.robocorp-code-0.30.0.vsix",
+      "url": "https://open-vsx.org/api/robocorp/robocorp-code/0.32.0/file/robocorp.robocorp-code-0.32.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4aHQJPakBxujIb0xJ3g/EhisQ1muWq7aIqu9aW2kF08="
+      "sha256": "sha256-zHqWB89SZxlorxDKWuzJjZvccn9dsNW1I4gAPm1O/IU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15723,7 +15723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robocorp-robotframework-lsp",
-    "version": "0.45.2",
+    "version": "0.46.0",
     "passthru": {
       "name": "robotframework-lsp",
       "license": "Apache 2.0",
@@ -15731,10 +15731,10 @@
       "description": "VSCode extension support for Robot Framework"
     },
     "src": {
-      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.45.2/file/robocorp.robotframework-lsp-0.45.2.vsix",
+      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.46.0/file/robocorp.robotframework-lsp-0.46.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-geJbTAbXV9VdOBZ2hg5az5q2c3VTV212nTEKFK0+e9M="
+      "sha256": "sha256-Mi80PY5LgSYt2hN2qbWcOpqhuJB1fehji6ky2hL9tRU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17943,7 +17943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-extension-serverless-workflow-editor",
-    "version": "0.18.0",
+    "version": "0.18.1",
     "passthru": {
       "name": "vscode-extension-serverless-workflow-editor",
       "license": "Apache-2.0",
@@ -17951,10 +17951,10 @@
       "description": "Edit Serverless Workflow definitions"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.18.0/file/redhat.vscode-extension-serverless-workflow-editor-0.18.0.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.18.1/file/redhat.vscode-extension-serverless-workflow-editor-0.18.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6yhjihMYlLuc8sHJiy3l4vCNcL1RYS9vKXNAKwbnMWs="
+      "sha256": "sha256-1W7iUChPEfNu0N6ZKiQ3IOtDc+7eu0zuT1+Al3/h2AA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30163,7 +30163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.25",
+    "version": "0.0.26",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -30171,10 +30171,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.25/file/bilelmoussaoui.flatpak-vscode-0.0.25.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.26/file/bilelmoussaoui.flatpak-vscode-0.0.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XG+daQOjRecvOq9i/iZcNGdUbz5+mGPpTiARbNyvp8k="
+      "sha256": "sha256-ALg8rNJwzRoUO4lW/ukWF8UAMx7UlzHjVoqZHo1FTu8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30963,7 +30963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.856",
+    "version": "31.0.858",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30971,10 +30971,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.856/file/Prisma.prisma-insider-31.0.856.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.858/file/Prisma.prisma-insider-31.0.858.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NteJsIYSq/pchriUYyH5wDreintkfVuytw1qOzV8HwA="
+      "sha256": "sha256-GpQQNPLXVJcF6zF0JQb7lPM15J+tp9DZ7NhKRpHpxN4="
     },
     "extract": null,
     "rustGitDeps": null
