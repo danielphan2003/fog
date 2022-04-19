@@ -9119,6 +9119,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "amodio-tsl-problem-matcher": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "amodio-tsl-problem-matcher",
+    "version": "0.6.2",
+    "passthru": {
+      "name": "tsl-problem-matcher",
+      "license": "MIT",
+      "publisher": "amodio",
+      "description": "Provides problem matchers for TypeScript projects using Webpack with ts-loader, fork-ts-checker-webpack-plugin with or without eslint, and/or tslint-loader"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/amodio/tsl-problem-matcher/0.6.2/file/amodio.tsl-problem-matcher-0.6.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-NXQI9kzaYRDLjzrejE491gGBi928N3qRhAQV0Uehl+8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "cyrilletuzi-angular-schematics": {
     "pinned": false,
     "cargoLock": null,
@@ -18083,7 +18103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-openshift-connector",
-    "version": "0.2.13",
+    "version": "0.4.0",
     "passthru": {
       "name": "vscode-openshift-connector",
       "license": "MIT",
@@ -18091,10 +18111,10 @@
       "description": "Simplified app dev for Kubernetes or Red Hat OpenShift"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.2.13/file/redhat.vscode-openshift-connector-0.2.13.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.4.0/file/redhat.vscode-openshift-connector-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o2dWIk/tPFV3KWEefHpDUgaBN08cORIRIc7WbdoAtPo="
+      "sha256": "sha256-/W67R+AwAg7Vs10YBIDGMPToKvspKxBy2x9k9XiadB8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27183,7 +27203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "castwide-solargraph",
-    "version": "0.23.0",
+    "version": "0.24.0",
     "passthru": {
       "name": "solargraph",
       "license": "MIT",
@@ -27191,10 +27211,10 @@
       "description": "A Ruby language server featuring code completion, intellisense, and inline documentation"
     },
     "src": {
-      "url": "https://open-vsx.org/api/castwide/solargraph/0.23.0/file/castwide.solargraph-0.23.0.vsix",
+      "url": "https://open-vsx.org/api/castwide/solargraph/0.24.0/file/castwide.solargraph-0.24.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rDis/+dd+jGsxMXYRYKgKQftnQUWIueXOYPQ9f1dIB4="
+      "sha256": "sha256-kAueF9YXg68kzrmx2CR+lxrByJys20OThNpCiAsOP6o="
     },
     "extract": null,
     "rustGitDeps": null

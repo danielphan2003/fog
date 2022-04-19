@@ -4369,6 +4369,18 @@
     publisher = "amiralizadeh9480";
     description = "better intellisense for laravel projects.";
   };
+  amodio-tsl-problem-matcher = {
+    pname = "amodio-tsl-problem-matcher";
+    version = "0.6.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/amodio/tsl-problem-matcher/0.6.2/file/amodio.tsl-problem-matcher-0.6.2.vsix";
+      sha256 = "sha256-NXQI9kzaYRDLjzrejE491gGBi928N3qRhAQV0Uehl+8=";
+    };
+    name = "tsl-problem-matcher";
+    license = "MIT";
+    publisher = "amodio";
+    description = "Provides problem matchers for TypeScript projects using Webpack with ts-loader, fork-ts-checker-webpack-plugin with or without eslint, and/or tslint-loader";
+  };
   andrewdavidblum-drupal-smart-snippets = {
     pname = "andrewdavidblum-drupal-smart-snippets";
     version = "1.0.2";
@@ -5955,10 +5967,10 @@
   };
   castwide-solargraph = {
     pname = "castwide-solargraph";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/castwide/solargraph/0.23.0/file/castwide.solargraph-0.23.0.vsix";
-      sha256 = "sha256-rDis/+dd+jGsxMXYRYKgKQftnQUWIueXOYPQ9f1dIB4=";
+      url = "https://open-vsx.org/api/castwide/solargraph/0.24.0/file/castwide.solargraph-0.24.0.vsix";
+      sha256 = "sha256-kAueF9YXg68kzrmx2CR+lxrByJys20OThNpCiAsOP6o=";
     };
     name = "solargraph";
     license = "MIT";
@@ -15087,10 +15099,10 @@
   };
   redhat-vscode-openshift-connector = {
     pname = "redhat-vscode-openshift-connector";
-    version = "0.2.13";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.2.13/file/redhat.vscode-openshift-connector-0.2.13.vsix";
-      sha256 = "sha256-o2dWIk/tPFV3KWEefHpDUgaBN08cORIRIc7WbdoAtPo=";
+      url = "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.4.0/file/redhat.vscode-openshift-connector-0.4.0.vsix";
+      sha256 = "sha256-/W67R+AwAg7Vs10YBIDGMPToKvspKxBy2x9k9XiadB8=";
     };
     name = "vscode-openshift-connector";
     license = "MIT";
