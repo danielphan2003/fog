@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "7648eb80867b0e99f08854214c6227351abf3b0e";
+    version = "fe4097c73eeeffd4fdae13477eabe7fd2b4bea52";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "7648eb80867b0e99f08854214c6227351abf3b0e";
+      rev = "fe4097c73eeeffd4fdae13477eabe7fd2b4bea52";
       fetchSubmodules = false;
-      sha256 = "sha256-bEs5oZkn5KNthBMxIMt8eofU+GX4H8n0/SdgVY4m97Q=";
+      sha256 = "sha256-K1DWMsViviUBcm0ghxOGCIQqwIpYt1hTRmWFvz//4OA=";
     });
     cargoLock = {
-      lockFile = ./eww-7648eb80867b0e99f08854214c6227351abf3b0e/Cargo.lock;
+      lockFile = ./eww-fe4097c73eeeffd4fdae13477eabe7fd2b4bea52/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c7d02a38d9527b4a1190102786e3d2cc75d4c84c";
+    version = "4eaa8ad5b48b45c063a273e51bc9f1a4392b17ea";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "c7d02a38d9527b4a1190102786e3d2cc75d4c84c";
+      rev = "4eaa8ad5b48b45c063a273e51bc9f1a4392b17ea";
       fetchSubmodules = false;
-      sha256 = "sha256-UZ+yinhCjVd2WPPd0Rb4c31JQyW+ovSOqpHEofO5vig=";
+      sha256 = "sha256-TA1JZTJ6cRvI7he2yx5EI1xlM+SIkBmt5ps/AY1KllM=";
     });
   };
   ibus = {
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6096";
+    version = "1.0.6097";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6096.tar.bz2";
-      sha256 = "sha256-zxYp1UvHGsESb6oMdUszyoy3Awtn3tyh3pjARzsRyoQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6097.tar.bz2";
+      sha256 = "sha256-jyptCg/IBlSCg/gJj2iq19FN/Ghjf3npTeINfxfrIJ0=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6096";
+    version = "1.0.6097";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6096-1_all.deb";
-      sha256 = "sha256-WSVXtDtstunNVQmS/U9BLxcokvHAx7f4+LPsSNpvgv4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6097-1_all.deb";
+      sha256 = "sha256-+O9OBs1+F2IC6+5gZXcg+/ro954rvu6YmXdC8hnE6PY=";
     };
   };
   jitsi-videobridge2 = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "df3927dd3346580687fd216eda0ac667b26f7d15";
+    version = "6a032fc1f85828f20adb87769e0b3e919f89930a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "df3927dd3346580687fd216eda0ac667b26f7d15";
+      rev = "6a032fc1f85828f20adb87769e0b3e919f89930a";
       fetchSubmodules = false;
-      sha256 = "sha256-GMcopY2CUwr8jMBcy3yxeZx3aNF4nmSTyuIouAz9Wso=";
+      sha256 = "sha256-JaCCsr5YP/YF5Bd95a5DSQut4Y42EIkF8KQSRRij3lY=";
     });
   };
   rofi-wayland = {
@@ -905,14 +905,14 @@
   };
   snui = {
     pname = "snui";
-    version = "17d5834643445e16e94f0077803993c96c9f9342";
+    version = "142399de4f0edfe9dfc4117f6d598b6b865371c2";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "17d5834643445e16e94f0077803993c96c9f9342";
+      rev = "142399de4f0edfe9dfc4117f6d598b6b865371c2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-idl2XworLWLfw/XuSyx42uspfueaFymtOBgEkuHXJNQ=";
+      sha256 = "sha256-LkhqOJOFP8Lg6j7hlimPx6Tgj5GyCUJAzged35Q4WQI=";
     };
   };
   spicetify-cli = {
@@ -1033,10 +1033,10 @@
   };
   teams = {
     pname = "teams";
-    version = "1.4.00.26453";
+    version = "1.5.00.10453";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.4.00.26453_amd64.deb";
-      sha256 = "sha256-7hW1d5Oqa3nM2nRNUjLaZwM1q9kxuuKgIPUEOhKauFk=";
+      url = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams/teams_1.5.00.10453_amd64.deb";
+      sha256 = "sha256-fLVw2axSMetuaoRzjg+x4DRYY8WP5TQbL7LbfF6LFfA=";
     };
   };
   trackma = {
