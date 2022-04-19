@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.3.1/file/DCsunset.vscode-modal-editor-0.3.1.vsix";
-      sha256 = "sha256-cLEoqndvePxoOWCeHUvzTkbrIwLqZ4BYxi3GL/GlKhI=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.4.0/file/DCsunset.vscode-modal-editor-0.4.0.vsix";
+      sha256 = "sha256-coEBuIF/UqhXgpi94wF6o0sk4jG0Yxi+q8votFz8ZE4=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -12231,10 +12231,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.13";
+    version = "2.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.13/file/mintlify.document-2.1.13.vsix";
-      sha256 = "sha256-JeJm8md+omoPSyEXay83iKfkx4mOPlE8zyN7aSjPPHU=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.17/file/mintlify.document-2.1.17.vsix";
+      sha256 = "sha256-3r43ohdizXDye3mtoY5eP73g+nblHUG233piEv2W0ZQ=";
     };
     name = "document";
     license = "Apache-2.0";
