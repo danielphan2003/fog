@@ -3743,7 +3743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-reveal-button",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "reveal-button",
       "license": "MIT",
@@ -3751,10 +3751,10 @@
       "description": "Reveal Button in Sidebar"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/reveal-button/1.1.0/file/anweber.reveal-button-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/anweber/reveal-button/1.1.1/file/anweber.reveal-button-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-95+62gH5rYfYbcy1JkAzynHqXhES8FCsT+CtWWMBg+A="
+      "sha256": "sha256-ni6LI5phWwbTPbyVOiyQLLkX0e7VDBfMw4BYX4l6np0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11503,7 +11503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tiabeast-vscode-bait",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "passthru": {
       "name": "vscode-bait",
       "license": "MIT",
@@ -11511,10 +11511,10 @@
       "description": "Provides rich language support for the bait programming language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.0/file/tiabeast.vscode-bait-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.1/file/tiabeast.vscode-bait-0.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wNoMb7GTzWhCg6POZpyDN6DLFR1NYHJVMMVrwnxmZM4="
+      "sha256": "sha256-xpoZ31qzcpjuQaTmSy225rOveBlDp+fwKY8Qo2MESkc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18239,6 +18239,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "jebbs-markdown-extended": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "jebbs-markdown-extended",
+    "version": "1.1.1",
+    "passthru": {
+      "name": "markdown-extended",
+      "license": "MIT",
+      "publisher": "jebbs",
+      "description": "Extended syntaxes to built-in markdown & What you see is what you get exporter."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/jebbs/markdown-extended/1.1.1/file/jebbs.markdown-extended-1.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Io+eGyWDHLOnk/uLzPPxeO+js9AZ3srdiFwFZEUsbOo="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "christianvoigt-argdown-vscode": {
     "pinned": false,
     "cargoLock": null,
@@ -18263,7 +18283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "_42Crunch-vscode-openapi",
-    "version": "4.9.3",
+    "version": "4.9.4",
     "passthru": {
       "name": "vscode-openapi",
       "license": "AGPL-3.0-only",
@@ -18271,10 +18291,10 @@
       "description": "OpenAPI extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.3/file/42Crunch.vscode-openapi-4.9.3.vsix",
+      "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.4/file/42Crunch.vscode-openapi-4.9.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VvPnwY5AUbY9GOgGRz8oae2cSUm5aaZ6smPR3sKMpBQ="
+      "sha256": "sha256-qDzOKbCaHpZST5jAL0Z9Uqf8C4PoPp1biPz3HWzNO30="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23843,7 +23863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.90.0",
+    "version": "0.91.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -23851,10 +23871,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.90.0/file/dendron.dendron-0.90.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.91.0/file/dendron.dendron-0.91.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UOBbXPH1YwWpYjHamutyguPIYB7BBRSB2RjGOeS8pLI="
+      "sha256": "sha256-G/JBhp7xBF8q1kqKKgxNSWS2LOo9ncPZYEjgv0RgyrY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30963,7 +30983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "razetime-bqn-language",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "passthru": {
       "name": "bqn-language",
       "license": "MIT",
@@ -30971,10 +30991,10 @@
       "description": "BQN array programming language support, backslash completion, snippets and code execution"
     },
     "src": {
-      "url": "https://open-vsx.org/api/razetime/bqn-language/0.0.2/file/razetime.bqn-language-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/razetime/bqn-language/0.0.3/file/razetime.bqn-language-0.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FXL4T4F/3hP1djjhZCGhTqbLwt5XJQsSSOrek91BWk8="
+      "sha256": "sha256-R6S7t62ZhLleKycw/y4Ady0eTdM6MN1FGz7cl8gpCWg="
     },
     "extract": null,
     "rustGitDeps": null

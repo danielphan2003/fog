@@ -3807,10 +3807,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.9.3";
+    version = "4.9.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.3/file/42Crunch.vscode-openapi-4.9.3.vsix";
-      sha256 = "sha256-VvPnwY5AUbY9GOgGRz8oae2cSUm5aaZ6smPR3sKMpBQ=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.4/file/42Crunch.vscode-openapi-4.9.4.vsix";
+      sha256 = "sha256-qDzOKbCaHpZST5jAL0Z9Uqf8C4PoPp1biPz3HWzNO30=";
     };
     name = "vscode-openapi";
     license = "AGPL-3.0-only";
@@ -4695,10 +4695,10 @@
   };
   anweber-reveal-button = {
     pname = "anweber-reveal-button";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/reveal-button/1.1.0/file/anweber.reveal-button-1.1.0.vsix";
-      sha256 = "sha256-95+62gH5rYfYbcy1JkAzynHqXhES8FCsT+CtWWMBg+A=";
+      url = "https://open-vsx.org/api/anweber/reveal-button/1.1.1/file/anweber.reveal-button-1.1.1.vsix";
+      sha256 = "sha256-ni6LI5phWwbTPbyVOiyQLLkX0e7VDBfMw4BYX4l6np0=";
     };
     name = "reveal-button";
     license = "MIT";
@@ -6987,10 +6987,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.90.0";
+    version = "0.91.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.90.0/file/dendron.dendron-0.90.0.vsix";
-      sha256 = "sha256-UOBbXPH1YwWpYjHamutyguPIYB7BBRSB2RjGOeS8pLI=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.91.0/file/dendron.dendron-0.91.0.vsix";
+      sha256 = "sha256-G/JBhp7xBF8q1kqKKgxNSWS2LOo9ncPZYEjgv0RgyrY=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -10152,6 +10152,18 @@
     license = "MIT";
     publisher = "jeanp413";
     description = "A test extension used for smoke testing VS Code Web Extensions UI";
+  };
+  jebbs-markdown-extended = {
+    pname = "jebbs-markdown-extended";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.1/file/jebbs.markdown-extended-1.1.1.vsix";
+      sha256 = "sha256-Io+eGyWDHLOnk/uLzPPxeO+js9AZ3srdiFwFZEUsbOo=";
+    };
+    name = "markdown-extended";
+    license = "MIT";
+    publisher = "jebbs";
+    description = "Extended syntaxes to built-in markdown & What you see is what you get exporter.";
   };
   jebbs-plantuml = {
     pname = "jebbs-plantuml";
@@ -14775,10 +14787,10 @@
   };
   razetime-bqn-language = {
     pname = "razetime-bqn-language";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/razetime/bqn-language/0.0.2/file/razetime.bqn-language-0.0.2.vsix";
-      sha256 = "sha256-FXL4T4F/3hP1djjhZCGhTqbLwt5XJQsSSOrek91BWk8=";
+      url = "https://open-vsx.org/api/razetime/bqn-language/0.0.3/file/razetime.bqn-language-0.0.3.vsix";
+      sha256 = "sha256-R6S7t62ZhLleKycw/y4Ady0eTdM6MN1FGz7cl8gpCWg=";
     };
     name = "bqn-language";
     license = "MIT";
@@ -17403,10 +17415,10 @@
   };
   tiabeast-vscode-bait = {
     pname = "tiabeast-vscode-bait";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.0/file/tiabeast.vscode-bait-0.2.0.vsix";
-      sha256 = "sha256-wNoMb7GTzWhCg6POZpyDN6DLFR1NYHJVMMVrwnxmZM4=";
+      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.1/file/tiabeast.vscode-bait-0.2.1.vsix";
+      sha256 = "sha256-xpoZ31qzcpjuQaTmSy225rOveBlDp+fwKY8Qo2MESkc=";
     };
     name = "vscode-bait";
     license = "MIT";
