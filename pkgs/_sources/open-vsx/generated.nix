@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.853";
+    version = "31.0.855";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.853/file/Prisma.prisma-insider-31.0.853.vsix";
-      sha256 = "sha256-21v/ZaVZOO1Ya7jsHzPX7NYRwD6NnbdJ/4egqj3F1Yc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.855/file/Prisma.prisma-insider-31.0.855.vsix";
+      sha256 = "sha256-IVCHW+VXqMPKZ8ZU6WZugImtc5UiD4RRSRe6Wj1MANQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -19551,10 +19551,10 @@
   };
   vsls-contrib-codetour = {
     pname = "vsls-contrib-codetour";
-    version = "0.0.58";
+    version = "0.0.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vsls-contrib/codetour/0.0.58/file/vsls-contrib.codetour-0.0.58.vsix";
-      sha256 = "sha256-vlq4kJ+gSQ02aFFXzdb7Xh9GBmV/IIzQjf9qLlbORRg=";
+      url = "https://open-vsx.org/api/vsls-contrib/codetour/0.0.59/file/vsls-contrib.codetour-0.0.59.vsix";
+      sha256 = "sha256-EE0ErZLL1ANbK8xlxNGayN23ut7xpSHNyJwUlUeUc4Y=";
     };
     name = "codetour";
     license = "MIT";
