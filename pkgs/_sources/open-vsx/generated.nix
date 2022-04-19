@@ -2559,10 +2559,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.15.0";
+    version = "4.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.15.0/file/PKief.material-icon-theme-4.15.0.vsix";
-      sha256 = "sha256-fVxs+XKop/0ElMbfP9yRtCem+pCMMug/SgJff8RER68=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.16.0/file/PKief.material-icon-theme-4.16.0.vsix";
+      sha256 = "sha256-jQmUV8y/ZzQ2ICUrIXLa54bcqzTjN7nd9Of2C3srjY4=";
     };
     name = "material-icon-theme";
     license = "MIT";

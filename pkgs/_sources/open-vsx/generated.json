@@ -7543,7 +7543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PKief-material-icon-theme",
-    "version": "4.15.0",
+    "version": "4.16.0",
     "passthru": {
       "name": "material-icon-theme",
       "license": "MIT",
@@ -7551,10 +7551,10 @@
       "description": "Material Design Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.15.0/file/PKief.material-icon-theme-4.15.0.vsix",
+      "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.16.0/file/PKief.material-icon-theme-4.16.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fVxs+XKop/0ElMbfP9yRtCem+pCMMug/SgJff8RER68="
+      "sha256": "sha256-jQmUV8y/ZzQ2ICUrIXLa54bcqzTjN7nd9Of2C3srjY4="
     },
     "extract": null,
     "rustGitDeps": null
