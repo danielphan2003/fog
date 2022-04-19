@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "e7cc4f474c52722cef8ac8ce481981453355b77b",
+    "version": "c18408305beb1170aed534edd8cef4e6ab2d3cad",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-kNRio4UbdxAMGm6T5ytUI+VC7NuBg/Ag2ShkyAFsG10=",
-      "rev": "e7cc4f474c52722cef8ac8ce481981453355b77b"
+      "sha256": "sha256-xtUqaluMjRy5vOdq2Y2p7rGHFwLZLhDgeqGOQ2KpBYI=",
+      "rev": "c18408305beb1170aed534edd8cef4e6ab2d3cad"
     },
     "extract": null,
     "rustGitDeps": null
@@ -410,9 +410,9 @@
   },
   "eww": {
     "pinned": false,
-    "cargoLock": "./eww-b79f7b8fb71ff42285444cbdde93ee02ee464250/Cargo.lock",
+    "cargoLock": "./eww-7648eb80867b0e99f08854214c6227351abf3b0e/Cargo.lock",
     "name": "eww",
-    "version": "b79f7b8fb71ff42285444cbdde93ee02ee464250",
+    "version": "7648eb80867b0e99f08854214c6227351abf3b0e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -422,8 +422,8 @@
       "name": null,
       "repo": "eww",
       "type": "github",
-      "sha256": "sha256-zN3I7O3CNnz+E5cfxK9wtW1AFqMJGcCR/ermqoQje5M=",
-      "rev": "b79f7b8fb71ff42285444cbdde93ee02ee464250"
+      "sha256": "sha256-bEs5oZkn5KNthBMxIMt8eofU+GX4H8n0/SdgVY4m97Q=",
+      "rev": "7648eb80867b0e99f08854214c6227351abf3b0e"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6094",
+    "version": "1.0.6096",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6094-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6096-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-b334TBeEkya66Fs0h9rWVRAQ55iTq7EEdgGj3ptRAM4="
+      "sha256": "sha256-WSVXtDtstunNVQmS/U9BLxcokvHAx7f4+LPsSNpvgv4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "a5802ce7574c682303bc44683d29c40230d98f48",
+    "version": "df3927dd3346580687fd216eda0ac667b26f7d15",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-5DZvT2IEGq7Pm0jmO3PI0Le1Pn8awI0MlOJg922jgcU=",
-      "rev": "a5802ce7574c682303bc44683d29c40230d98f48"
+      "sha256": "sha256-GMcopY2CUwr8jMBcy3yxeZx3aNF4nmSTyuIouAz9Wso=",
+      "rev": "df3927dd3346580687fd216eda0ac667b26f7d15"
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6094",
+    "version": "1.0.6096",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6094.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6096.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oH4t2uKSKShKLsinR864kaYNoJvXo4zR7sI0cdvvlQk="
+      "sha256": "sha256-zxYp1UvHGsESb6oMdUszyoy3Awtn3tyh3pjARzsRyoQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-da166223bc7b185079775986cecc2da6abce8249/Cargo.lock",
+    "cargoLock": "./rustdesk-605a52aebb315084c77ef3a68acdcabc799dfd2f/Cargo.lock",
     "name": "rustdesk",
-    "version": "da166223bc7b185079775986cecc2da6abce8249",
+    "version": "605a52aebb315084c77ef3a68acdcabc799dfd2f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-vxKHdPSRbiThFqB3IXCIWC1W8gg7TsqnKWOJ5jmj2Lg=",
-      "rev": "da166223bc7b185079775986cecc2da6abce8249"
+      "sha256": "sha256-VT2qCSASgTEvMr9ywyH02ESsTvOgzSKZnvvYTm4QuKo=",
+      "rev": "605a52aebb315084c77ef3a68acdcabc799dfd2f"
     },
     "extract": null,
     "rustGitDeps": {
