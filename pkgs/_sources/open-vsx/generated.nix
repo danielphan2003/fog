@@ -10539,10 +10539,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.6.1";
+    version = "1.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.1/file/jsw.csharpextensions-1.6.1.vsix";
-      sha256 = "sha256-P+w9cVS0kxMVsdIFMRWw8R/fZMzo/lQE8Urtb5bROEw=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.2/file/jsw.csharpextensions-1.6.2.vsix";
+      sha256 = "sha256-lSc8vIa0MiTU36WEwYOWKjUgHAEQoBKaui11RUd6Vvs=";
     };
     name = "csharpextensions";
     license = "MIT";
@@ -13635,10 +13635,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.10.1";
+    version = "1.10.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.1/file/ocamllabs.ocaml-platform-1.10.1.vsix";
-      sha256 = "sha256-GtLrwtz40bw9TuqszzMtWKUHgRSZr4Hj0l/ve8+ZsSg=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.2/file/ocamllabs.ocaml-platform-1.10.2.vsix";
+      sha256 = "sha256-maOoJ5RsmUzu8J/3RwoFvf6KtalPdxGIkfqF8Wt72Mo=";
     };
     name = "ocaml-platform";
     license = "MIT";
@@ -14655,10 +14655,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.13.0";
+    version = "1.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.13.0/file/quarto.quarto-1.13.0.vsix";
-      sha256 = "sha256-2wpN60Eq7z8aeJ0So2j3TZ5UZe04VMH7tt6zlyqM0PU=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.14.0/file/quarto.quarto-1.14.0.vsix";
+      sha256 = "sha256-fpQfrxudEgUjnv4zO8dbXZXC7ya6clBk4oE8v4hfQI4=";
     };
     name = "quarto";
     license = "MIT";
