@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.856";
+    version = "31.0.858";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.856/file/Prisma.prisma-insider-31.0.856.vsix";
-      sha256 = "sha256-NteJsIYSq/pchriUYyH5wDreintkfVuytw1qOzV8HwA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.858/file/Prisma.prisma-insider-31.0.858.vsix";
+      sha256 = "sha256-GpQQNPLXVJcF6zF0JQb7lPM15J+tp9DZ7NhKRpHpxN4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5511,10 +5511,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.25";
+    version = "0.0.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.25/file/bilelmoussaoui.flatpak-vscode-0.0.25.vsix";
-      sha256 = "sha256-XG+daQOjRecvOq9i/iZcNGdUbz5+mGPpTiARbNyvp8k=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.26/file/bilelmoussaoui.flatpak-vscode-0.0.26.vsix";
+      sha256 = "sha256-ALg8rNJwzRoUO4lW/ukWF8UAMx7UlzHjVoqZHo1FTu8=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -15087,10 +15087,10 @@
   };
   redhat-vscode-extension-serverless-workflow-editor = {
     pname = "redhat-vscode-extension-serverless-workflow-editor";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.18.0/file/redhat.vscode-extension-serverless-workflow-editor-0.18.0.vsix";
-      sha256 = "sha256-6yhjihMYlLuc8sHJiy3l4vCNcL1RYS9vKXNAKwbnMWs=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.18.1/file/redhat.vscode-extension-serverless-workflow-editor-0.18.1.vsix";
+      sha256 = "sha256-1W7iUChPEfNu0N6ZKiQ3IOtDc+7eu0zuT1+Al3/h2AA=";
     };
     name = "vscode-extension-serverless-workflow-editor";
     license = "Apache-2.0";
@@ -15363,10 +15363,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.30.0";
+    version = "0.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.30.0/file/robocorp.robocorp-code-0.30.0.vsix";
-      sha256 = "sha256-4aHQJPakBxujIb0xJ3g/EhisQ1muWq7aIqu9aW2kF08=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.32.0/file/robocorp.robocorp-code-0.32.0.vsix";
+      sha256 = "sha256-zHqWB89SZxlorxDKWuzJjZvccn9dsNW1I4gAPm1O/IU=";
     };
     name = "robocorp-code";
     license = "";
@@ -15375,10 +15375,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.45.2";
+    version = "0.46.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.45.2/file/robocorp.robotframework-lsp-0.45.2.vsix";
-      sha256 = "sha256-geJbTAbXV9VdOBZ2hg5az5q2c3VTV212nTEKFK0+e9M=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.46.0/file/robocorp.robotframework-lsp-0.46.0.vsix";
+      sha256 = "sha256-Mi80PY5LgSYt2hN2qbWcOpqhuJB1fehji6ky2hL9tRU=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
