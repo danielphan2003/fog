@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.855";
+    version = "31.0.856";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.855/file/Prisma.prisma-insider-31.0.855.vsix";
-      sha256 = "sha256-IVCHW+VXqMPKZ8ZU6WZugImtc5UiD4RRSRe6Wj1MANQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.856/file/Prisma.prisma-insider-31.0.856.vsix";
+      sha256 = "sha256-NteJsIYSq/pchriUYyH5wDreintkfVuytw1qOzV8HwA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9075,10 +9075,10 @@
   };
   haskell-haskell = {
     pname = "haskell-haskell";
-    version = "2.1.1";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/haskell/haskell/2.1.1/file/haskell.haskell-2.1.1.vsix";
-      sha256 = "sha256-X6gOGSink72RbJWaStzl43oitIHRayFJWjaQP9dAp2c=";
+      url = "https://open-vsx.org/api/haskell/haskell/2.1.2/file/haskell.haskell-2.1.2.vsix";
+      sha256 = "sha256-fEOht6Tyzm9USrR+MaQU+vuLHxHc3VPlEt2B2BRDZ0o=";
     };
     name = "haskell";
     license = "MIT";
@@ -20367,10 +20367,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.6.3";
+    version = "1.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.3/file/zenclabs.previewjs-1.6.3.vsix";
-      sha256 = "sha256-0vHdpjjv62KuJUhJsNMmC+bE5Mhz7gNMSsKoSgQ85Wk=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.6.4/file/zenclabs.previewjs-1.6.4.vsix";
+      sha256 = "sha256-FDZn8W6j3R7xdVN+k0kRK62qrvNSp/uFsIN3amM2Iy4=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";

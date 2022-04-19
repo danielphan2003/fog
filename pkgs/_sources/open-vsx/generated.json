@@ -9543,7 +9543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.6.3",
+    "version": "1.6.4",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9551,10 +9551,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.3/file/zenclabs.previewjs-1.6.3.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.6.4/file/zenclabs.previewjs-1.6.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0vHdpjjv62KuJUhJsNMmC+bE5Mhz7gNMSsKoSgQ85Wk="
+      "sha256": "sha256-FDZn8W6j3R7xdVN+k0kRK62qrvNSp/uFsIN3amM2Iy4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23303,7 +23303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "haskell-haskell",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "passthru": {
       "name": "haskell",
       "license": "MIT",
@@ -23311,10 +23311,10 @@
       "description": "Haskell language support powered by the Haskell Language Server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/haskell/haskell/2.1.1/file/haskell.haskell-2.1.1.vsix",
+      "url": "https://open-vsx.org/api/haskell/haskell/2.1.2/file/haskell.haskell-2.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-X6gOGSink72RbJWaStzl43oitIHRayFJWjaQP9dAp2c="
+      "sha256": "sha256-fEOht6Tyzm9USrR+MaQU+vuLHxHc3VPlEt2B2BRDZ0o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30943,7 +30943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.855",
+    "version": "31.0.856",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30951,10 +30951,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.855/file/Prisma.prisma-insider-31.0.855.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.856/file/Prisma.prisma-insider-31.0.856.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IVCHW+VXqMPKZ8ZU6WZugImtc5UiD4RRSRe6Wj1MANQ="
+      "sha256": "sha256-NteJsIYSq/pchriUYyH5wDreintkfVuytw1qOzV8HwA="
     },
     "extract": null,
     "rustGitDeps": null
