@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b8d88cff7933475b2dc310e741f8fa07c96c8d0d";
+    version = "418e2d96aef0b52d1f93eb3dfe7d08906c7c719c";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "b8d88cff7933475b2dc310e741f8fa07c96c8d0d";
+      rev = "418e2d96aef0b52d1f93eb3dfe7d08906c7c719c";
       fetchSubmodules = false;
-      sha256 = "sha256-oxmW02C5fsj/DelAZhoo6gzBbubPzR9oFH9296T2JLc=";
+      sha256 = "sha256-PqIk+WhEuT0GjGy9AF++3MpYFeo5ET47wQh86sJn7KE=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "53b039cf7d873c6bb696dbd5b07323c1430f064e";
+    version = "8c27e58e2078fce35511a891bd5b089d0d73e498";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "53b039cf7d873c6bb696dbd5b07323c1430f064e";
+      rev = "8c27e58e2078fce35511a891bd5b089d0d73e498";
       fetchSubmodules = false;
-      sha256 = "sha256-viA+wfNJKflBqwQD6LfB+bcTiJjpzwwyWvbOFUXCLoA=";
+      sha256 = "sha256-3NvD9LkS1tsAjFBMeU69ktFlvIm+MngbJLiNumC7sEA=";
     });
   };
   rofi-wayland = {
@@ -905,14 +905,14 @@
   };
   snui = {
     pname = "snui";
-    version = "146d4f84b98d41f397bd1919849307a1e1c7e7e2";
+    version = "e8b1ee551209d7960e0876447d7b5ea04f54c6f0";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "146d4f84b98d41f397bd1919849307a1e1c7e7e2";
+      rev = "e8b1ee551209d7960e0876447d7b5ea04f54c6f0";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-w/znwA+ifJFPg+sQ84nnYF0RhWeqc1JlEe1rRqwCj5I=";
+      sha256 = "sha256-ZzFOiCtJhFDSKr+0wGblJdLjm8O3VBBdmOeQLTle5do=";
     };
   };
   spicetify-cli = {
@@ -1139,13 +1139,13 @@
   };
   wgcf = {
     pname = "wgcf";
-    version = "dc97b7df7b640739e1b233043f225f0a275dd129";
+    version = "3d8d5a81187d7fbfa8d42e9f6a4a31c9d758127b";
     src = fetchFromGitHub ({
       owner = "ViRb3";
       repo = "wgcf";
-      rev = "dc97b7df7b640739e1b233043f225f0a275dd129";
+      rev = "3d8d5a81187d7fbfa8d42e9f6a4a31c9d758127b";
       fetchSubmodules = false;
-      sha256 = "sha256-VICCXUkiRMxHGSCO2qbRFP7umuyvakcPS4nBV2246HI=";
+      sha256 = "sha256-QEG4UMtvpBcBQ4HLY0vsqUHy9hc+FEIlwviNrTgobHY=";
     });
   };
   whitesur-gtk-theme = {

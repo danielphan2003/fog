@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "53b039cf7d873c6bb696dbd5b07323c1430f064e",
+    "version": "8c27e58e2078fce35511a891bd5b089d0d73e498",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-viA+wfNJKflBqwQD6LfB+bcTiJjpzwwyWvbOFUXCLoA=",
-      "rev": "53b039cf7d873c6bb696dbd5b07323c1430f064e"
+      "sha256": "sha256-3NvD9LkS1tsAjFBMeU69ktFlvIm+MngbJLiNumC7sEA=",
+      "rev": "8c27e58e2078fce35511a891bd5b089d0d73e498"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "146d4f84b98d41f397bd1919849307a1e1c7e7e2",
+    "version": "e8b1ee551209d7960e0876447d7b5ea04f54c6f0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-w/znwA+ifJFPg+sQ84nnYF0RhWeqc1JlEe1rRqwCj5I=",
-      "rev": "146d4f84b98d41f397bd1919849307a1e1c7e7e2"
+      "sha256": "sha256-ZzFOiCtJhFDSKr+0wGblJdLjm8O3VBBdmOeQLTle5do=",
+      "rev": "e8b1ee551209d7960e0876447d7b5ea04f54c6f0"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "b8d88cff7933475b2dc310e741f8fa07c96c8d0d",
+    "version": "418e2d96aef0b52d1f93eb3dfe7d08906c7c719c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-oxmW02C5fsj/DelAZhoo6gzBbubPzR9oFH9296T2JLc=",
-      "rev": "b8d88cff7933475b2dc310e741f8fa07c96c8d0d"
+      "sha256": "sha256-PqIk+WhEuT0GjGy9AF++3MpYFeo5ET47wQh86sJn7KE=",
+      "rev": "418e2d96aef0b52d1f93eb3dfe7d08906c7c719c"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1566,7 +1566,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wgcf",
-    "version": "dc97b7df7b640739e1b233043f225f0a275dd129",
+    "version": "3d8d5a81187d7fbfa8d42e9f6a4a31c9d758127b",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1576,8 +1576,8 @@
       "name": null,
       "repo": "wgcf",
       "type": "github",
-      "sha256": "sha256-VICCXUkiRMxHGSCO2qbRFP7umuyvakcPS4nBV2246HI=",
-      "rev": "dc97b7df7b640739e1b233043f225f0a275dd129"
+      "sha256": "sha256-QEG4UMtvpBcBQ4HLY0vsqUHy9hc+FEIlwviNrTgobHY=",
+      "rev": "3d8d5a81187d7fbfa8d42e9f6a4a31c9d758127b"
     },
     "extract": null,
     "rustGitDeps": null
