@@ -5115,10 +5115,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.14.0";
+    version = "0.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.14.0/file/astro-build.astro-vscode-0.14.0.vsix";
-      sha256 = "sha256-OiYPPwSmblenfWXmck5K1+6aE1WDJXxZztFLNQLBI6c=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.15.0/file/astro-build.astro-vscode-0.15.0.vsix";
+      sha256 = "sha256-QoLlr8taDsuTcL5BH5zR9TtALmZzVsOrK94KkXD1oCU=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -14451,10 +14451,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.4";
+    version = "2.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.4/file/pomdtr.excalidraw-editor-2.1.4.vsix";
-      sha256 = "sha256-kng1PXsMpUxSE6ebvqO7ZGCsgB83/UAFnF6N7lMM2xo=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.5/file/pomdtr.excalidraw-editor-2.1.5.vsix";
+      sha256 = "sha256-llpV5cH6u1h6LnDRS9l4np9gzbWuQGqvtHoxoNEgngQ=";
     };
     name = "excalidraw-editor";
     license = "MIT";
