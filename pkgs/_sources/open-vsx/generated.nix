@@ -291,10 +291,10 @@
   };
   BroadcomMFD-data-editor-for-mainframe = {
     pname = "BroadcomMFD-data-editor-for-mainframe";
-    version = "0.5.2";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/0.5.2/file/BroadcomMFD.data-editor-for-mainframe-0.5.2.vsix";
-      sha256 = "sha256-Y0XTVM8+Rtu2nFwqrVxaakezkgCDJDng+weMZ6PBLu4=";
+      url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/1.0.0/file/BroadcomMFD.data-editor-for-mainframe-1.0.0.vsix";
+      sha256 = "sha256-G1e/OE/UKj13tJDntcPNUFegFkWoJv2p79/vDj0ByUk=";
     };
     name = "data-editor-for-mainframe";
     license = "";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.860";
+    version = "31.0.861";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.860/file/Prisma.prisma-insider-31.0.860.vsix";
-      sha256 = "sha256-gl5r06l+ZkCMjxwvED66Bf8oskEKHvtTYd95KtlxJq0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.861/file/Prisma.prisma-insider-31.0.861.vsix";
+      sha256 = "sha256-u9qwE5L7lpW73SjCF6ICbwzaf3ZNM6EN3lS3wmIW4V4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7587,10 +7587,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2155868";
+    version = "7.2.2194766";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2155868/file/eliostruyf.vscode-front-matter-beta-7.2.2155868.vsix";
-      sha256 = "sha256-lJeJsEdxchKpg+9KiGTnStlgPEn3hosHJusUX+NsiTg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2194766/file/eliostruyf.vscode-front-matter-beta-7.2.2194766.vsix";
+      sha256 = "sha256-sJ0Wp2QtcZwni8C8pDRsHpysKiDhcz5TXJugy8okfac=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
