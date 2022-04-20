@@ -12183,7 +12183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.0",
+    "version": "2.1.4",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12191,10 +12191,10 @@
       "description": "Draw schemas in VSCode using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.0/file/pomdtr.excalidraw-editor-2.1.0.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.4/file/pomdtr.excalidraw-editor-2.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-168l2nZ4Wr50YK/Q6R+KT1K1vlOTB5ray49sCx2z07s="
+      "sha256": "sha256-kng1PXsMpUxSE6ebvqO7ZGCsgB83/UAFnF6N7lMM2xo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28023,7 +28023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitLab-gitlab-workflow",
-    "version": "3.42.1",
+    "version": "3.42.2",
     "passthru": {
       "name": "gitlab-workflow",
       "license": "MIT",
@@ -28031,10 +28031,10 @@
       "description": "GitLab extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.1/file/GitLab.gitlab-workflow-3.42.1.vsix",
+      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.2/file/GitLab.gitlab-workflow-3.42.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-36EzD4QFrIrlEkyr1KiG/edYEtwcYH/d48uDwBaNKo0="
+      "sha256": "sha256-MeGkpLDiCKs2UZJL2+kT+L11qYZhwMigsKnhCw8tPDo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30963,7 +30963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.861",
+    "version": "31.0.862",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -30971,10 +30971,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.861/file/Prisma.prisma-insider-31.0.861.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.862/file/Prisma.prisma-insider-31.0.862.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-u9qwE5L7lpW73SjCF6ICbwzaf3ZNM6EN3lS3wmIW4V4="
+      "sha256": "sha256-fY+HAHFhMUHpSfZG+8IMCz4jhRjIr5VI95JVaCPyZnQ="
     },
     "extract": null,
     "rustGitDeps": null

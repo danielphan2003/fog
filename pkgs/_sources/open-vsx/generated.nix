@@ -1179,10 +1179,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.42.1";
+    version = "3.42.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.1/file/GitLab.gitlab-workflow-3.42.1.vsix";
-      sha256 = "sha256-36EzD4QFrIrlEkyr1KiG/edYEtwcYH/d48uDwBaNKo0=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.2/file/GitLab.gitlab-workflow-3.42.2.vsix";
+      sha256 = "sha256-MeGkpLDiCKs2UZJL2+kT+L11qYZhwMigsKnhCw8tPDo=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.861";
+    version = "31.0.862";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.861/file/Prisma.prisma-insider-31.0.861.vsix";
-      sha256 = "sha256-u9qwE5L7lpW73SjCF6ICbwzaf3ZNM6EN3lS3wmIW4V4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.862/file/Prisma.prisma-insider-31.0.862.vsix";
+      sha256 = "sha256-fY+HAHFhMUHpSfZG+8IMCz4jhRjIr5VI95JVaCPyZnQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14451,10 +14451,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.0";
+    version = "2.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.0/file/pomdtr.excalidraw-editor-2.1.0.vsix";
-      sha256 = "sha256-168l2nZ4Wr50YK/Q6R+KT1K1vlOTB5ray49sCx2z07s=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.4/file/pomdtr.excalidraw-editor-2.1.4.vsix";
+      sha256 = "sha256-kng1PXsMpUxSE6ebvqO7ZGCsgB83/UAFnF6N7lMM2xo=";
     };
     name = "excalidraw-editor";
     license = "MIT";
