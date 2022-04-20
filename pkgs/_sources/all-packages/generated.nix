@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6101";
+    version = "1.0.6102";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6101.tar.bz2";
-      sha256 = "sha256-eJ0kdbVktmu1Tvwpat/B9D8DTo3NKkBemIQB0WjzPk0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6102.tar.bz2";
+      sha256 = "sha256-vvSqdFWvGArTuLiGawT3ZU8X2k1M8K1LXXdMOQbGuHo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6101";
+    version = "1.0.6102";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6101-1_all.deb";
-      sha256 = "sha256-WZvxKMjLRIqcTbrFTly3vGf2xYT7yaVXRGGXx3jCBK8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6102-1_all.deb";
+      sha256 = "sha256-28pw0gZfg7ugaQFrAgxWjtzvq35Bgrgp076yqect4Kc=";
     };
   };
   jitsi-videobridge2 = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "605a52aebb315084c77ef3a68acdcabc799dfd2f";
+    version = "c79c55d6438b39236509ad99f670e455b71a3c0e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "605a52aebb315084c77ef3a68acdcabc799dfd2f";
+      rev = "c79c55d6438b39236509ad99f670e455b71a3c0e";
       fetchSubmodules = false;
-      sha256 = "sha256-VT2qCSASgTEvMr9ywyH02ESsTvOgzSKZnvvYTm4QuKo=";
+      sha256 = "sha256-0FL4Copp1dTkl6jzJ1XGtdz3Soab9ETrUHFBRZL5o9w=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-605a52aebb315084c77ef3a68acdcabc799dfd2f/Cargo.lock;
+      lockFile = ./rustdesk-c79c55d6438b39236509ad99f670e455b71a3c0e/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1236,14 +1236,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "972603845eda7e382451fcd31cd5083592f83ffd";
+    version = "7b7170ecd636ae1110622e2430549f79598750ca";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "972603845eda7e382451fcd31cd5083592f83ffd";
+      rev = "7b7170ecd636ae1110622e2430549f79598750ca";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PcuILsvfX2hAl9uKKkF1I5X0L9Y2PEuOcIdGEhag8fY=";
+      sha256 = "sha256-joMk3xI/BV2cAUxwH3+gsPRUXPmENTz3YCMW7P5AKLQ=";
     };
   };
   ydotool = {
