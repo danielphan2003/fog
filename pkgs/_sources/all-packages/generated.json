@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "f74ee80abe8819f3d3bfd9138056a46820f4fc54",
+    "version": "d413850bd7b6e6d7bee5f258e6e5251fb8f134d2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-eGAkh4RGwnFvuia4Zeq+5G4Bpay78YA9PaNmiUc5NuE=",
-      "rev": "f74ee80abe8819f3d3bfd9138056a46820f4fc54"
+      "sha256": "sha256-gD7JDv0o2YRHgW4rqzOPK9A0HLuEY/cJm0y+qszVZ8E=",
+      "rev": "d413850bd7b6e6d7bee5f258e6e5251fb8f134d2"
     },
     "extract": null,
     "rustGitDeps": null
