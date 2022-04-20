@@ -7587,10 +7587,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2194766";
+    version = "7.2.2197721";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2194766/file/eliostruyf.vscode-front-matter-beta-7.2.2194766.vsix";
-      sha256 = "sha256-sJ0Wp2QtcZwni8C8pDRsHpysKiDhcz5TXJugy8okfac=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2197721/file/eliostruyf.vscode-front-matter-beta-7.2.2197721.vsix";
+      sha256 = "sha256-7B5yZijICojAqSsjSTlBsvfjKeOcD82KmdGtWuYeon0=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10791,10 +10791,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.27.0";
+    version = "1.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.27.0/file/keesschollaart.vscode-home-assistant-1.27.0.vsix";
-      sha256 = "sha256-mhvs1ZfdM71+dxmSndRdTSMOqaRo8snZthEkCxtg5vM=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.28.0/file/keesschollaart.vscode-home-assistant-1.28.0.vsix";
+      sha256 = "sha256-OwDZ37uoqQY7Wbuuju8Wq+PTJkAF87RSPysV+5mVpEw=";
     };
     name = "vscode-home-assistant";
     license = "MIT";
