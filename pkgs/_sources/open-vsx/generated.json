@@ -12183,7 +12183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12191,10 +12191,10 @@
       "description": "Draw schemas in VSCode using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.4/file/pomdtr.excalidraw-editor-2.1.4.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.5/file/pomdtr.excalidraw-editor-2.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kng1PXsMpUxSE6ebvqO7ZGCsgB83/UAFnF6N7lMM2xo="
+      "sha256": "sha256-llpV5cH6u1h6LnDRS9l4np9gzbWuQGqvtHoxoNEgngQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29023,7 +29023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.14.0",
+    "version": "0.15.0",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
@@ -29031,10 +29031,10 @@
       "description": "Language support for Astro"
     },
     "src": {
-      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.14.0/file/astro-build.astro-vscode-0.14.0.vsix",
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.15.0/file/astro-build.astro-vscode-0.15.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OiYPPwSmblenfWXmck5K1+6aE1WDJXxZztFLNQLBI6c="
+      "sha256": "sha256-QoLlr8taDsuTcL5BH5zR9TtALmZzVsOrK94KkXD1oCU="
     },
     "extract": null,
     "rustGitDeps": null
