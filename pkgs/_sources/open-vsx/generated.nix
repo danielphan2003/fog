@@ -3625,6 +3625,18 @@
     publisher = "WyattL";
     description = "Syntax highlighting for GreyScript.";
   };
+  XOJ-Team-xoj-playground = {
+    pname = "XOJ-Team-xoj-playground";
+    version = "0.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.6/file/XOJ-Team.xoj-playground-0.0.6.vsix";
+      sha256 = "sha256-rTlVmDsbiVR9ocQgOuuNDtHlR7s521Tt/wCnIR3B3LU=";
+    };
+    name = "xoj-playground";
+    license = "AGPL-3.0";
+    publisher = "XOJ-Team";
+    description = "A playground extension for XOJ Web IDE and desktop VSC";
+  };
   XadillaX-gyp = {
     pname = "XadillaX-gyp";
     version = "1.0.0";
@@ -9075,10 +9087,10 @@
   };
   haskell-haskell = {
     pname = "haskell-haskell";
-    version = "2.1.2";
+    version = "2.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/haskell/haskell/2.1.2/file/haskell.haskell-2.1.2.vsix";
-      sha256 = "sha256-fEOht6Tyzm9USrR+MaQU+vuLHxHc3VPlEt2B2BRDZ0o=";
+      url = "https://open-vsx.org/api/haskell/haskell/2.1.3/file/haskell.haskell-2.1.3.vsix";
+      sha256 = "sha256-OWV8i1XPO1BUc66nIIKoJmzs0D95O0+FJE1hxpYqPBw=";
     };
     name = "haskell";
     license = "MIT";
@@ -11307,10 +11319,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.70";
+    version = "0.0.71";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.70/file/leanprover.lean4-0.0.70.vsix";
-      sha256 = "sha256-CSq9EjtxjZsOL1f8FxtOnrmVu4Mg8wKqbTf1x9dHklU=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.71/file/leanprover.lean4-0.0.71.vsix";
+      sha256 = "sha256-YRVsNVCu9S/bhwef9MIzKLO/cT6C3i9gCrEL+4H8Ctg=";
     };
     name = "lean4";
     license = "Apache-2.0";

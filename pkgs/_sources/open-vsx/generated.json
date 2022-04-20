@@ -6923,7 +6923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.70",
+    "version": "0.0.71",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -6931,10 +6931,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.70/file/leanprover.lean4-0.0.70.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.71/file/leanprover.lean4-0.0.71.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CSq9EjtxjZsOL1f8FxtOnrmVu4Mg8wKqbTf1x9dHklU="
+      "sha256": "sha256-YRVsNVCu9S/bhwef9MIzKLO/cT6C3i9gCrEL+4H8Ctg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23323,7 +23323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "haskell-haskell",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "passthru": {
       "name": "haskell",
       "license": "MIT",
@@ -23331,10 +23331,10 @@
       "description": "Haskell language support powered by the Haskell Language Server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/haskell/haskell/2.1.2/file/haskell.haskell-2.1.2.vsix",
+      "url": "https://open-vsx.org/api/haskell/haskell/2.1.3/file/haskell.haskell-2.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fEOht6Tyzm9USrR+MaQU+vuLHxHc3VPlEt2B2BRDZ0o="
+      "sha256": "sha256-OWV8i1XPO1BUc66nIIKoJmzs0D95O0+FJE1hxpYqPBw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32955,6 +32955,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-M5xDAbN1vPkEIFAPX6F41q8Q1/Uu6SPyTBFyJWWDy9c="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "XOJ-Team-xoj-playground": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "XOJ-Team-xoj-playground",
+    "version": "0.0.6",
+    "passthru": {
+      "name": "xoj-playground",
+      "license": "AGPL-3.0",
+      "publisher": "XOJ-Team",
+      "description": "A playground extension for XOJ Web IDE and desktop VSC"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.6/file/XOJ-Team.xoj-playground-0.0.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-rTlVmDsbiVR9ocQgOuuNDtHlR7s521Tt/wCnIR3B3LU="
     },
     "extract": null,
     "rustGitDeps": null
