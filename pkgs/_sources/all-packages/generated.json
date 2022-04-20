@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "56d84f74716509743d26330b000a6568fa8f0a05",
+    "version": "1cfbe8969ed46ada4f31d75e3ccab5225d5ea058",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-JnovSm546/YSmefKdF/ovrWaid61JNjNYPpexDgvy9k=",
-      "rev": "56d84f74716509743d26330b000a6568fa8f0a05"
+      "sha256": "sha256-Thc7pSD4OFcgok1AEzgy6z8iKyUF7I6zKpfaq4aFmMo=",
+      "rev": "1cfbe8969ed46ada4f31d75e3ccab5225d5ea058"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "8b8125499228a5608d7cf099e71d804bc58c7b0a",
+    "version": "136f30fc92f92bd11ecced6fb3f427694f37bb86",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-rO2L7CXlPOE32Rtw+JySENqPXtuwWTDb0KFSUYwvlzs=",
-      "rev": "8b8125499228a5608d7cf099e71d804bc58c7b0a"
+      "sha256": "sha256-LKxBBPW/BZ4dOOBLLMP/3c4NRyVn9GhXHxpI2+Tp4IA=",
+      "rev": "136f30fc92f92bd11ecced6fb3f427694f37bb86"
     },
     "extract": null,
     "rustGitDeps": null
