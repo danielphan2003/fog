@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "418e2d96aef0b52d1f93eb3dfe7d08906c7c719c";
+    version = "87b849129427ab664130aa1abc8ade0485328e33";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "418e2d96aef0b52d1f93eb3dfe7d08906c7c719c";
+      rev = "87b849129427ab664130aa1abc8ade0485328e33";
       fetchSubmodules = false;
-      sha256 = "sha256-PqIk+WhEuT0GjGy9AF++3MpYFeo5ET47wQh86sJn7KE=";
+      sha256 = "sha256-lOpGVwQn5AGq1fxz+NS6N5nro5/0Wc3F0SjgT2LGHQI=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8c27e58e2078fce35511a891bd5b089d0d73e498";
+    version = "56b08940c21faeec029482b508887d8f80619241";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8c27e58e2078fce35511a891bd5b089d0d73e498";
+      rev = "56b08940c21faeec029482b508887d8f80619241";
       fetchSubmodules = false;
-      sha256 = "sha256-3NvD9LkS1tsAjFBMeU69ktFlvIm+MngbJLiNumC7sEA=";
+      sha256 = "sha256-1JTZ8S5w2qHnVDcvuT28zUbRylsi18cooZus5TWP67U=";
     });
   };
   rofi-wayland = {
@@ -928,13 +928,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "178a76ae14c6dd4125a14c0f0d7a6a572d0b5e66";
+    version = "a3963f9c51bb1d223e0b2609541d572f7550d1c8";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "178a76ae14c6dd4125a14c0f0d7a6a572d0b5e66";
+      rev = "a3963f9c51bb1d223e0b2609541d572f7550d1c8";
       fetchSubmodules = false;
-      sha256 = "sha256-hKs3/TcOtAgbLIXDHYeNg0T0u+AEP+TrEfhC73T+XGw=";
+      sha256 = "sha256-P4dQ1H0TFk6GnBGiFsm6X2/MaxSQGcPeVevB9Jfhb04=";
     });
   };
   spotify = {
@@ -1139,13 +1139,13 @@
   };
   wgcf = {
     pname = "wgcf";
-    version = "3d8d5a81187d7fbfa8d42e9f6a4a31c9d758127b";
+    version = "bd1f6f1ec5f96d02b1758cd634c2b1e879467d9b";
     src = fetchFromGitHub ({
       owner = "ViRb3";
       repo = "wgcf";
-      rev = "3d8d5a81187d7fbfa8d42e9f6a4a31c9d758127b";
+      rev = "bd1f6f1ec5f96d02b1758cd634c2b1e879467d9b";
       fetchSubmodules = false;
-      sha256 = "sha256-QEG4UMtvpBcBQ4HLY0vsqUHy9hc+FEIlwviNrTgobHY=";
+      sha256 = "sha256-XwrhP09x9XQso8FI6crqOpSXu2A9gySkiKPpF2uRWpM=";
     });
   };
   whitesur-gtk-theme = {
