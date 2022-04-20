@@ -30043,7 +30043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "PrateekMahendrakar-prettyxml",
-    "version": "1.5.3",
+    "version": "1.6.1",
     "passthru": {
       "name": "prettyxml",
       "license": "MIT",
@@ -30051,10 +30051,10 @@
       "description": "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio."
     },
     "src": {
-      "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.3/file/PrateekMahendrakar.prettyxml-1.5.3.vsix",
+      "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.6.1/file/PrateekMahendrakar.prettyxml-1.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Wq4kIKdt3+FTgx8yvQrqLCAxMcljKDnpRhXYO5gJYBE="
+      "sha256": "sha256-O9IJJUg3Ewc6N1duK3BzhU4e9nWD6q0UELC4M4I4PU0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33743,7 +33743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quick-lint-quick-lint-js",
-    "version": "2.4.0",
+    "version": "2.4.1",
     "passthru": {
       "name": "quick-lint-js",
       "license": "GPL-3.0",
@@ -33751,10 +33751,10 @@
       "description": "Find JavaScript bugs with quick-lint-js"
     },
     "src": {
-      "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.0/file/quick-lint.quick-lint-js-2.4.0.vsix",
+      "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.1/file/quick-lint.quick-lint-js-2.4.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LXYwZbjJXo7T61QE/0gUyYaPw98WEglB2g5TorfD3B4="
+      "sha256": "sha256-Tam5GIqjWU7XReEi9SjhmpEqCO91fQrjj6uqs34NP7g="
     },
     "extract": null,
     "rustGitDeps": null

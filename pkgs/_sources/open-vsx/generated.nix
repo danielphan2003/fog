@@ -2727,10 +2727,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "1.5.3";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.5.3/file/PrateekMahendrakar.prettyxml-1.5.3.vsix";
-      sha256 = "sha256-Wq4kIKdt3+FTgx8yvQrqLCAxMcljKDnpRhXYO5gJYBE=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.6.1/file/PrateekMahendrakar.prettyxml-1.6.1.vsix";
+      sha256 = "sha256-O9IJJUg3Ewc6N1duK3BzhU4e9nWD6q0UELC4M4I4PU0=";
     };
     name = "prettyxml";
     license = "MIT";
@@ -14679,10 +14679,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.4.0";
+    version = "2.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.0/file/quick-lint.quick-lint-js-2.4.0.vsix";
-      sha256 = "sha256-LXYwZbjJXo7T61QE/0gUyYaPw98WEglB2g5TorfD3B4=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.1/file/quick-lint.quick-lint-js-2.4.1.vsix";
+      sha256 = "sha256-Tam5GIqjWU7XReEi9SjhmpEqCO91fQrjj6uqs34NP7g=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";
