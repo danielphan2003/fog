@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.4.0/file/DCsunset.vscode-modal-editor-0.4.0.vsix";
-      sha256 = "sha256-coEBuIF/UqhXgpi94wF6o0sk4jG0Yxi+q8votFz8ZE4=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.5.0/file/DCsunset.vscode-modal-editor-0.5.0.vsix";
+      sha256 = "sha256-gxwG0yVRZx/ogPG6YY8rxZUgBbgf//P5PpWzmX8jX2A=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -2019,10 +2019,10 @@
   };
   MS-CEINTL-vscode-language-pack-cs = {
     pname = "MS-CEINTL-vscode-language-pack-cs";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.66.3/file/MS-CEINTL.vscode-language-pack-cs-1.66.3.vsix";
-      sha256 = "sha256-2oQXD0rDnwIz+CKFTFGASxiYj5CPpscKd4EYKu6G+QY=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.67.0/file/MS-CEINTL.vscode-language-pack-cs-1.67.0.vsix";
+      sha256 = "sha256-zaJm5u0dXgcWiFAmf547/lN4l4lSyCZG5b9T3EhiM/w=";
     };
     name = "vscode-language-pack-cs";
     license = "MIT";
@@ -2151,10 +2151,10 @@
   };
   MS-CEINTL-vscode-language-pack-pl = {
     pname = "MS-CEINTL-vscode-language-pack-pl";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.66.3/file/MS-CEINTL.vscode-language-pack-pl-1.66.3.vsix";
-      sha256 = "sha256-mTlcBlNqUytZETOugDVFBhoxTpQTOpHXfLyJEdzCxdA=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.67.0/file/MS-CEINTL.vscode-language-pack-pl-1.67.0.vsix";
+      sha256 = "sha256-z4r3eR4dNtzQbJFPil8h3LXeVgJpt0bQL7Fk+IRiSDc=";
     };
     name = "vscode-language-pack-pl";
     license = "MIT";
@@ -2211,10 +2211,10 @@
   };
   MS-CEINTL-vscode-language-pack-zh-hans = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hans";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.66.3/file/MS-CEINTL.vscode-language-pack-zh-hans-1.66.3.vsix";
-      sha256 = "sha256-z8WIPYikKpwEqiXz6Wah/TEaYuocv0vDWBxc9Ylvo8M=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.67.0/file/MS-CEINTL.vscode-language-pack-zh-hans-1.67.0.vsix";
+      sha256 = "sha256-kvNfiGMcTOV+jJsB2iCXnsZi9OelMEKS1jrwWlO08SQ=";
     };
     name = "vscode-language-pack-zh-hans";
     license = "MIT";
@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.1522";
+    version = "2022.4.1917";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1522/file/Slint.slint-nightly-2022.4.1522.vsix";
-      sha256 = "sha256-5LvFca+zgOSBW8NZY8BruzODGdb+p4Ohs5rltEYjX4U=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1917/file/Slint.slint-nightly-2022.4.1917.vsix";
+      sha256 = "sha256-XZYD1qtUBdvim0rS8QPOQL5LjN5GaCedPQbqcwL6JQo=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5523,10 +5523,10 @@
   };
   bmalehorn-vscode-fish = {
     pname = "bmalehorn-vscode-fish";
-    version = "1.0.20";
+    version = "1.0.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmalehorn/vscode-fish/1.0.20/file/bmalehorn.vscode-fish-1.0.20.vsix";
-      sha256 = "sha256-CSlIHcZZlUw2ZzvcB8YZ8veOap1vhjNOM1BoFVU4ONI=";
+      url = "https://open-vsx.org/api/bmalehorn/vscode-fish/1.0.29/file/bmalehorn.vscode-fish-1.0.29.vsix";
+      sha256 = "sha256-H1/gjQPWXuiFu68aoO4i3YE1wFHnl2ELTzMDG8QnQvw=";
     };
     name = "vscode-fish";
     license = "MIT";
@@ -12543,10 +12543,10 @@
   };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
-    version = "1.21.0";
+    version = "1.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.21.0/file/ms-azuretools.vscode-docker-1.21.0.vsix";
-      sha256 = "sha256-VtGqoSDagmYjq9vXtgluiOMB40WphDTWd0F3Y3mgNIs=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.22.0/file/ms-azuretools.vscode-docker-1.22.0.vsix";
+      sha256 = "sha256-+cY9uLQ4oIk7V/4uCNc6BdIAQCXvPPGeqd0apbDjDos=";
     };
     name = "vscode-docker";
     license = "MIT";
@@ -18807,10 +18807,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.10.0";
+    version = "11.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.10.0/file/vscode-icons-team.vscode-icons-11.10.0.vsix";
-      sha256 = "sha256-bfpm3tE6EWqFs2PXHsrFL6Hv3MO/kYRsLPLKjxQUmGo=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.11.0/file/vscode-icons-team.vscode-icons-11.11.0.vsix";
+      sha256 = "sha256-1GGFXKnDh2oVWW8eKLBOzRohLRHj+Ut1mCG8py61yLw=";
     };
     name = "vscode-icons";
     license = "MIT";
