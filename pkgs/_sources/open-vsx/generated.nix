@@ -13491,10 +13491,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.12.0";
+    version = "6.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.12.0/file/nicoespeon.abracadabra-6.12.0.vsix";
-      sha256 = "sha256-aOj90uGfJpphJhs3Y1VK75goqiBsLYfmxCjTGjyQttg=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.13.0/file/nicoespeon.abracadabra-6.13.0.vsix";
+      sha256 = "sha256-/EM8oVXhFb7m/Ebw6sccqzKjR+eU33E8zBTUaah3sw8=";
     };
     name = "abracadabra";
     license = "MIT";
@@ -16491,10 +16491,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.19";
+    version = "0.2.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.19/file/smapiot.vscode-piral-0.2.19.vsix";
-      sha256 = "sha256-s5tpPx2jKE1uUgHznO0ycEIAxmexeZZ0iRygtyhc2RU=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.20/file/smapiot.vscode-piral-0.2.20.vsix";
+      sha256 = "sha256-Q3uLcPeU9+z3VjEk0Uw9FenlOBGfh90wOhhLmITUbjo=";
     };
     name = "vscode-piral";
     license = "MIT";
