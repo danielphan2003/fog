@@ -625,7 +625,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
-      sha256 = "sha256-MAxQkdR40YUDl7z0OYbuwiueOoB2JuYikIu11CqiAto=";
+      sha256 = "sha256-fk7863uhJAdbBGOjfcdbXFiznDpUPX49ZEB57bhdCUY=";
     };
   };
   ouch = {
@@ -884,7 +884,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg";
-      sha256 = "sha256-uQAY1yMr9SetN/X6UrY2mvfxmIOmNQ0A3IrJQNvi5jM=";
+      sha256 = "sha256-lXCITuDQmwNHj9vq6Wumwh8sdrFp95AGXujVP/Q9rNY=";
     };
   };
   sf-font-pro = {
@@ -892,7 +892,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg";
-      sha256 = "sha256-m0eDv1CYCkkm5qgbLioI9+ahf0OXSYh0Gkp61vgMSFk=";
+      sha256 = "sha256-4ITyRyc8kVE+tNOSeniu5fm/xo2vebszszCvy+f/t9w=";
     };
   };
   sf-mono = {
@@ -900,7 +900,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg";
-      sha256 = "sha256-8niJPk3hGfK1USIs9eoxZ6GlM4aZ7ZObmQj2Zomj+Go=";
+      sha256 = "sha256-ZXGWbBH3SqZKRu83dPyDdvgi5Y0beFv1wsiZIOdbDZQ=";
     };
   };
   snui = {
@@ -1011,13 +1011,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "89832c1a95353559f42c27e4f843358d7a4ae098";
+    version = "a364bf2b6213cad260425fec3dcb39521b2afb1f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "89832c1a95353559f42c27e4f843358d7a4ae098";
+      rev = "a364bf2b6213cad260425fec3dcb39521b2afb1f";
       fetchSubmodules = false;
-      sha256 = "sha256-wIYvICTCSW+QVE508grMNVrEtLF5NtASzNWx3xetVK0=";
+      sha256 = "sha256-YtfehkdkvL1m0VMncwMS4rNP/lfy6ij0aUTGVjwusZ0=";
     });
   };
   tailscale-systray = {
