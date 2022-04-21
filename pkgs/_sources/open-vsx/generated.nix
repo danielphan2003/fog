@@ -5449,6 +5449,18 @@
     publisher = "biao1010";
     description = "\21516\27493\33050\26412\21040\26381\21153\22120";
   };
+  biao1010-aijs = {
+    pname = "biao1010-aijs";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/biao1010/aijs/0.0.1/file/biao1010.aijs-0.0.1.vsix";
+      sha256 = "sha256-2DodVTk1cX9SPHcMBvrU+X7wHu5cGWIIUZeiD/rY93U=";
+    };
+    name = "aijs";
+    license = "MIT";
+    publisher = "biao1010";
+    description = "";
+  };
   bierner-color-info = {
     pname = "bierner-color-info";
     version = "0.7.0";
@@ -7587,10 +7599,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2197721";
+    version = "7.2.2200239";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2197721/file/eliostruyf.vscode-front-matter-beta-7.2.2197721.vsix";
-      sha256 = "sha256-7B5yZijICojAqSsjSTlBsvfjKeOcD82KmdGtWuYeon0=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2200239/file/eliostruyf.vscode-front-matter-beta-7.2.2200239.vsix";
+      sha256 = "sha256-7SkRLb3jY+JsD1AyenH7sTS06l8WvxkqFfn9ksFMZH8=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11463,10 +11475,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.26";
+    version = "3.0.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.26/file/lifeart.vscode-ember-unstable-3.0.26.vsix";
-      sha256 = "sha256-177ZW8NxClbf0QlPoLdB1zTmxeVzYtZUZBdRVk9F/oI=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.27/file/lifeart.vscode-ember-unstable-3.0.27.vsix";
+      sha256 = "sha256-GwsjZSjZFTqj06S7korE6ZZy9bxL2JWgvlRqD2SCvxk=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -13227,10 +13239,10 @@
   };
   muuvmuuv-vscode-sundial = {
     pname = "muuvmuuv-vscode-sundial";
-    version = "3.0.0";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.0.0/file/muuvmuuv.vscode-sundial-3.0.0.vsix";
-      sha256 = "sha256-5MWxtpZbpdPjnCu0Yttphu1Y08qHGTgz87FtR1HLpsQ=";
+      url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.1.0/file/muuvmuuv.vscode-sundial-3.1.0.vsix";
+      sha256 = "sha256-cmE4VSG8kjvYJRoFlvVy2KydkmJk//ELACb2bRdMaek=";
     };
     name = "vscode-sundial";
     license = "GPLv3";
@@ -16455,10 +16467,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.13";
+    version = "0.2.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.13/file/smapiot.vscode-piral-0.2.13.vsix";
-      sha256 = "sha256-4fziHhTvzKQXwBwzuZER1RGfDA7OdxTDeYrJ/EsprQY=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.16/file/smapiot.vscode-piral-0.2.16.vsix";
+      sha256 = "sha256-8tWz/NV9azqR53M29p9VBBwWVy9zFlAIKXClOxOY0KI=";
     };
     name = "vscode-piral";
     license = "MIT";
@@ -20184,6 +20196,18 @@
     license = "BSD-3-Clause";
     publisher = "ybaumes";
     description = "This extension highlight trailing white spaces in red.";
+  };
+  ydz-var-fast = {
+    pname = "ydz-var-fast";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ydz/var-fast/0.0.4/file/ydz.var-fast-0.0.4.vsix";
+      sha256 = "sha256-+ulHMuNrPfAmBpdYZenYO8xSr2uotmWXvOhozsxgRm0=";
+    };
+    name = "var-fast";
+    license = "Apache-2.0";
+    publisher = "ydz";
+    description = "\24555\36895\32763\35793\21464\37327";
   };
   yurihs-sublime-vscode-theme = {
     pname = "yurihs-sublime-vscode-theme";

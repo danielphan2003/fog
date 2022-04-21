@@ -9183,7 +9183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "muuvmuuv-vscode-sundial",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "passthru": {
       "name": "vscode-sundial",
       "license": "GPLv3",
@@ -9191,10 +9191,10 @@
       "description": "Automatically change your theme and settings based on your sunset, sunrise, system appearance or other preferences!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.0.0/file/muuvmuuv.vscode-sundial-3.0.0.vsix",
+      "url": "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.1.0/file/muuvmuuv.vscode-sundial-3.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5MWxtpZbpdPjnCu0Yttphu1Y08qHGTgz87FtR1HLpsQ="
+      "sha256": "sha256-cmE4VSG8kjvYJRoFlvVy2KydkmJk//ELACb2bRdMaek="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9663,7 +9663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.2.2197721",
+    "version": "7.2.2200239",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9671,10 +9671,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2197721/file/eliostruyf.vscode-front-matter-beta-7.2.2197721.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2200239/file/eliostruyf.vscode-front-matter-beta-7.2.2200239.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7B5yZijICojAqSsjSTlBsvfjKeOcD82KmdGtWuYeon0="
+      "sha256": "sha256-7SkRLb3jY+JsD1AyenH7sTS06l8WvxkqFfn9ksFMZH8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11623,7 +11623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.13",
+    "version": "0.2.16",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11631,10 +11631,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.13/file/smapiot.vscode-piral-0.2.13.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.16/file/smapiot.vscode-piral-0.2.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4fziHhTvzKQXwBwzuZER1RGfDA7OdxTDeYrJ/EsprQY="
+      "sha256": "sha256-8tWz/NV9azqR53M29p9VBBwWVy9zFlAIKXClOxOY0KI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15995,6 +15995,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-ztkPDsKoM7fWRVpaV/FQdmzyjMVk9A00t9aY9sSIAvM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "biao1010-aijs": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "biao1010-aijs",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "aijs",
+      "license": "MIT",
+      "publisher": "biao1010",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/biao1010/aijs/0.0.1/file/biao1010.aijs-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-2DodVTk1cX9SPHcMBvrU+X7wHu5cGWIIUZeiD/rY93U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20663,7 +20683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.26",
+    "version": "3.0.27",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -20671,10 +20691,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.26/file/lifeart.vscode-ember-unstable-3.0.26.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.27/file/lifeart.vscode-ember-unstable-3.0.27.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-177ZW8NxClbf0QlPoLdB1zTmxeVzYtZUZBdRVk9F/oI="
+      "sha256": "sha256-GwsjZSjZFTqj06S7korE6ZZy9bxL2JWgvlRqD2SCvxk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22535,6 +22555,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-QE7pd5VMHDzmjX4XT8gFMeSqpxq4VtddN0D9fb9LrTA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ydz-var-fast": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ydz-var-fast",
+    "version": "0.0.4",
+    "passthru": {
+      "name": "var-fast",
+      "license": "Apache-2.0",
+      "publisher": "ydz",
+      "description": "å¿«éç¿»è¯åé"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ydz/var-fast/0.0.4/file/ydz.var-fast-0.0.4.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-+ulHMuNrPfAmBpdYZenYO8xSr2uotmWXvOhozsxgRm0="
     },
     "extract": null,
     "rustGitDeps": null
