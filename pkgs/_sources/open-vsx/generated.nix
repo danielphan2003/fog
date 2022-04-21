@@ -10081,6 +10081,18 @@
     publisher = "jansim";
     description = "A flat theme based on Solarized Dark";
   };
+  jaspergeer-docmachine = {
+    pname = "jaspergeer-docmachine";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.1/file/jaspergeer.docmachine-1.1.1.vsix";
+      sha256 = "sha256-RCou8yFbH17yQ4ct1LyWC7QTssVC5uvkIdgPtU3/jx0=";
+    };
+    name = "docmachine";
+    license = "MIT";
+    publisher = "jaspergeer";
+    description = "On the fly documentation generator";
+  };
   jaspernorth-vscode-pigments = {
     pname = "jaspernorth-vscode-pigments";
     version = "2.0.0";

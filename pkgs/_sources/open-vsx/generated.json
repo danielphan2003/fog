@@ -5119,6 +5119,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "jaspergeer-docmachine": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "jaspergeer-docmachine",
+    "version": "1.1.1",
+    "passthru": {
+      "name": "docmachine",
+      "license": "MIT",
+      "publisher": "jaspergeer",
+      "description": "On the fly documentation generator"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/jaspergeer/docmachine/1.1.1/file/jaspergeer.docmachine-1.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-RCou8yFbH17yQ4ct1LyWC7QTssVC5uvkIdgPtU3/jx0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "nrwl-angular-console": {
     "pinned": false,
     "cargoLock": null,
