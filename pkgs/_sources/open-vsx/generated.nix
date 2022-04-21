@@ -2283,10 +2283,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.7";
+    version = "0.17.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.7/file/Marko-JS.marko-vscode-0.17.7.vsix";
-      sha256 = "sha256-1OsXgBZlCdOC59hJyW1FcDFs9HrNNx/Nthxo/ITGb2I=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.8/file/Marko-JS.marko-vscode-0.17.8.vsix";
+      sha256 = "sha256-zRUNTT5tvuXRDrB7zxgSDVkcWhTHEkcRGvuBF1bvs/I=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -4731,10 +4731,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.3.0";
+    version = "5.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.3.0/file/anweber.vscode-httpyac-5.3.0.vsix";
-      sha256 = "sha256-dVOJxTyxEa6txXQrms+dB6AaPGdcVj+1F1PxYwSHHEw=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.0/file/anweber.vscode-httpyac-5.4.0.vsix";
+      sha256 = "sha256-Gekdeywwaf8NwoaVXp4lb6p1iifE2Q2O+mgZ6qfSVM0=";
     };
     name = "vscode-httpyac";
     license = "MIT";
@@ -19755,10 +19755,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.19";
+    version = "0.5.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.19/file/wcrichton.flowistry-0.5.19.vsix";
-      sha256 = "sha256-9rUpNK84ZAinyEU2nDXht5SbqYrItWnljcCKAEvJ4NA=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.22/file/wcrichton.flowistry-0.5.22.vsix";
+      sha256 = "sha256-CiBMQzLO6T9SBVH1xyQGQ8Rcb2HyO5pfh74enRe9cgk=";
     };
     name = "flowistry";
     license = "MIT";
