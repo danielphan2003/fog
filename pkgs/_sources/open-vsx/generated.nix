@@ -2115,10 +2115,10 @@
   };
   MS-CEINTL-vscode-language-pack-ja = {
     pname = "MS-CEINTL-vscode-language-pack-ja";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.66.3/file/MS-CEINTL.vscode-language-pack-ja-1.66.3.vsix";
-      sha256 = "sha256-zEPi7qxdX6DY98EP2jEZSCwx7SOPXWkQjChuSXoIfZk=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.67.0/file/MS-CEINTL.vscode-language-pack-ja-1.67.0.vsix";
+      sha256 = "sha256-iJQX2OUmVgEOz41ErmmRFiVQdciaPJXxX3X0Hup40Mo=";
     };
     name = "vscode-language-pack-ja";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.862";
+    version = "31.0.863";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.862/file/Prisma.prisma-insider-31.0.862.vsix";
-      sha256 = "sha256-fY+HAHFhMUHpSfZG+8IMCz4jhRjIr5VI95JVaCPyZnQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.863/file/Prisma.prisma-insider-31.0.863.vsix";
+      sha256 = "sha256-ZZ6wSwhZqIy0ZlbBljKbFE1qsenIfzflyHW/NJXKKug=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5835,10 +5835,10 @@
   };
   butchland-vscode-dbt-bigquery-power-user = {
     pname = "butchland-vscode-dbt-bigquery-power-user";
-    version = "0.5.19";
+    version = "0.5.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.19/file/butchland.vscode-dbt-bigquery-power-user-0.5.19.vsix";
-      sha256 = "sha256-iwn8tYC5XGWJSM9V2zST861BXcPa5famQenvp4zzZyE=";
+      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.20/file/butchland.vscode-dbt-bigquery-power-user-0.5.20.vsix";
+      sha256 = "sha256-4rZdYof1Ltj0yviTT/aD1t3FIsStQWeBc9M1eqqiJPQ=";
     };
     name = "vscode-dbt-bigquery-power-user";
     license = "MIT";
@@ -7599,10 +7599,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2201335";
+    version = "7.2.2202693";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2201335/file/eliostruyf.vscode-front-matter-beta-7.2.2201335.vsix";
-      sha256 = "sha256-zNe7LIPDWztDRRVoRBWEw3XDIm11tkq47Am9F8A5P2c=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2202693/file/eliostruyf.vscode-front-matter-beta-7.2.2202693.vsix";
+      sha256 = "sha256-6tqPq/OVHZZR+p+4oSlMCoSNQ3ckfTHZENH0Fz2UAwc=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11667,10 +11667,10 @@
   };
   mads-hartmann-bash-ide-vscode = {
     pname = "mads-hartmann-bash-ide-vscode";
-    version = "1.12.1";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.12.1/file/mads-hartmann.bash-ide-vscode-1.12.1.vsix";
-      sha256 = "sha256-zYFhS3Yh9SMw+l+mCR24DaesdD8YwRXjCEScKf76B3k=";
+      url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.13.0/file/mads-hartmann.bash-ide-vscode-1.13.0.vsix";
+      sha256 = "sha256-jQ0rPPeF/dY4hHyPCJc6AE6ErQPGbxTqnSK9u4MLHrY=";
     };
     name = "bash-ide-vscode";
     license = "MIT";
@@ -12228,6 +12228,18 @@
     license = "";
     publisher = "mhutchie";
     description = "View a Git Graph of your repository, and perform Git actions from the graph.";
+  };
+  miguel-savignano-ruby-symbols = {
+    pname = "miguel-savignano-ruby-symbols";
+    version = "0.1.8";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/miguel-savignano/ruby-symbols/0.1.8/file/miguel-savignano.ruby-symbols-0.1.8.vsix";
+      sha256 = "sha256-DCGaPxBDcXyoErrw+d+QCZkAiTkr+7SnoJiCh9fOKI8=";
+    };
+    name = "ruby-symbols";
+    license = "MIT";
+    publisher = "miguel-savignano";
+    description = "VSCode Ruby symbols search methods";
   };
   miguelsolorio-fluent-icons = {
     pname = "miguelsolorio-fluent-icons";
@@ -14475,10 +14487,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.6";
+    version = "2.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.6/file/pomdtr.excalidraw-editor-2.1.6.vsix";
-      sha256 = "sha256-82//Q+n4DKFYoUtrgb6cI4qZPBNRpK5vPVxcA7I0468=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.7/file/pomdtr.excalidraw-editor-2.1.7.vsix";
+      sha256 = "sha256-4fH3CerPPdflqIaPcldJcUQROiXdZw+ViRI0r0SDFI8=";
     };
     name = "excalidraw-editor";
     license = "MIT";
@@ -16237,6 +16249,18 @@
     publisher = "shufo";
     description = "Laravel Blade formatter for VSCode";
   };
+  shuworks-vscode-table-formatter = {
+    pname = "shuworks-vscode-table-formatter";
+    version = "1.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/shuworks/vscode-table-formatter/1.2.1/file/shuworks.vscode-table-formatter-1.2.1.vsix";
+      sha256 = "sha256-5bzhfsJONjap0hEyjyNo+gQJGWG5VZnJiB5DYqDI51Q=";
+    };
+    name = "vscode-table-formatter";
+    license = "MIT";
+    publisher = "shuworks";
+    description = "Format table syntax of Markdown, Textile and reStructuredText.";
+  };
   shyykoserhiy-git-autoconfig = {
     pname = "shyykoserhiy-git-autoconfig";
     version = "0.0.2";
@@ -16467,10 +16491,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.16";
+    version = "0.2.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.16/file/smapiot.vscode-piral-0.2.16.vsix";
-      sha256 = "sha256-8tWz/NV9azqR53M29p9VBBwWVy9zFlAIKXClOxOY0KI=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.19/file/smapiot.vscode-piral-0.2.19.vsix";
+      sha256 = "sha256-s5tpPx2jKE1uUgHznO0ycEIAxmexeZZ0iRygtyhc2RU=";
     };
     name = "vscode-piral";
     license = "MIT";

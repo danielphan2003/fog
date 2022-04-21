@@ -9583,7 +9583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mads-hartmann-bash-ide-vscode",
-    "version": "1.12.1",
+    "version": "1.13.0",
     "passthru": {
       "name": "bash-ide-vscode",
       "license": "MIT",
@@ -9591,10 +9591,10 @@
       "description": "A language server for Bash"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.12.1/file/mads-hartmann.bash-ide-vscode-1.12.1.vsix",
+      "url": "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.13.0/file/mads-hartmann.bash-ide-vscode-1.13.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zYFhS3Yh9SMw+l+mCR24DaesdD8YwRXjCEScKf76B3k="
+      "sha256": "sha256-jQ0rPPeF/dY4hHyPCJc6AE6ErQPGbxTqnSK9u4MLHrY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9663,7 +9663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.2.2201335",
+    "version": "7.2.2202693",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9671,10 +9671,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2201335/file/eliostruyf.vscode-front-matter-beta-7.2.2201335.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2202693/file/eliostruyf.vscode-front-matter-beta-7.2.2202693.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zNe7LIPDWztDRRVoRBWEw3XDIm11tkq47Am9F8A5P2c="
+      "sha256": "sha256-6tqPq/OVHZZR+p+4oSlMCoSNQ3ckfTHZENH0Fz2UAwc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11623,7 +11623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.16",
+    "version": "0.2.19",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11631,10 +11631,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.16/file/smapiot.vscode-piral-0.2.16.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.19/file/smapiot.vscode-piral-0.2.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8tWz/NV9azqR53M29p9VBBwWVy9zFlAIKXClOxOY0KI="
+      "sha256": "sha256-s5tpPx2jKE1uUgHznO0ycEIAxmexeZZ0iRygtyhc2RU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12203,7 +12203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12211,10 +12211,10 @@
       "description": "Draw schemas in VSCode using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.6/file/pomdtr.excalidraw-editor-2.1.6.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.7/file/pomdtr.excalidraw-editor-2.1.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-82//Q+n4DKFYoUtrgb6cI4qZPBNRpK5vPVxcA7I0468="
+      "sha256": "sha256-4fH3CerPPdflqIaPcldJcUQROiXdZw+ViRI0r0SDFI8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19639,6 +19639,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "shuworks-vscode-table-formatter": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "shuworks-vscode-table-formatter",
+    "version": "1.2.1",
+    "passthru": {
+      "name": "vscode-table-formatter",
+      "license": "MIT",
+      "publisher": "shuworks",
+      "description": "Format table syntax of Markdown, Textile and reStructuredText."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/shuworks/vscode-table-formatter/1.2.1/file/shuworks.vscode-table-formatter-1.2.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5bzhfsJONjap0hEyjyNo+gQJGWG5VZnJiB5DYqDI51Q="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "ms-vscode-sublime-keybindings": {
     "pinned": false,
     "cargoLock": null,
@@ -20939,6 +20959,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "miguel-savignano-ruby-symbols": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "miguel-savignano-ruby-symbols",
+    "version": "0.1.8",
+    "passthru": {
+      "name": "ruby-symbols",
+      "license": "MIT",
+      "publisher": "miguel-savignano",
+      "description": "VSCode Ruby symbols search methods"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/miguel-savignano/ruby-symbols/0.1.8/file/miguel-savignano.ruby-symbols-0.1.8.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-DCGaPxBDcXyoErrw+d+QCZkAiTkr+7SnoJiCh9fOKI8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "openfl-lime-vscode-extension": {
     "pinned": false,
     "cargoLock": null,
@@ -22183,7 +22223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-ja",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-ja",
       "license": "MIT",
@@ -22191,10 +22231,10 @@
       "description": "Language pack extension for Japanese"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.66.3/file/MS-CEINTL.vscode-language-pack-ja-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.67.0/file/MS-CEINTL.vscode-language-pack-ja-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zEPi7qxdX6DY98EP2jEZSCwx7SOPXWkQjChuSXoIfZk="
+      "sha256": "sha256-iJQX2OUmVgEOz41ErmmRFiVQdciaPJXxX3X0Hup40Mo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27103,7 +27143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "butchland-vscode-dbt-bigquery-power-user",
-    "version": "0.5.19",
+    "version": "0.5.20",
     "passthru": {
       "name": "vscode-dbt-bigquery-power-user",
       "license": "MIT",
@@ -27111,10 +27151,10 @@
       "description": "This extension makes vscode seamlessly work with dbt and BigQuery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.19/file/butchland.vscode-dbt-bigquery-power-user-0.5.19.vsix",
+      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.20/file/butchland.vscode-dbt-bigquery-power-user-0.5.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iwn8tYC5XGWJSM9V2zST861BXcPa5famQenvp4zzZyE="
+      "sha256": "sha256-4rZdYof1Ltj0yviTT/aD1t3FIsStQWeBc9M1eqqiJPQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31023,7 +31063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.862",
+    "version": "31.0.863",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31031,10 +31071,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.862/file/Prisma.prisma-insider-31.0.862.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.863/file/Prisma.prisma-insider-31.0.863.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fY+HAHFhMUHpSfZG+8IMCz4jhRjIr5VI95JVaCPyZnQ="
+      "sha256": "sha256-ZZ6wSwhZqIy0ZlbBljKbFE1qsenIfzflyHW/NJXKKug="
     },
     "extract": null,
     "rustGitDeps": null
