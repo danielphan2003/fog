@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.1917";
+    version = "2022.4.2018";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.1917/file/Slint.slint-nightly-2022.4.1917.vsix";
-      sha256 = "sha256-XZYD1qtUBdvim0rS8QPOQL5LjN5GaCedPQbqcwL6JQo=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2018/file/Slint.slint-nightly-2022.4.2018.vsix";
+      sha256 = "sha256-M0ZSP9c3XiL5aPbHK1pMqPEGF0SRjChZsESCcM16e5I=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -11403,10 +11403,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "184.0.0";
+    version = "185.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/184.0.0/file/lextudio.restructuredtext-184.0.0.vsix";
-      sha256 = "sha256-iL6QQTemutH12278EyoBpZoyNPONsR0haGroZM3K2qA=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/185.0.0/file/lextudio.restructuredtext-185.0.0.vsix";
+      sha256 = "sha256-dg9WB+rfTJ7Eac4pMkZuDYN64fhK84MtHkKP51SrVOw=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12603,10 +12603,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.238";
+    version = "1.1.239";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.238/file/ms-pyright.pyright-1.1.238.vsix";
-      sha256 = "sha256-Un5EFl2oM4qjuCtIWx0t491T6vlI9MpAEMMleDOy36s=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.239/file/ms-pyright.pyright-1.1.239.vsix";
+      sha256 = "sha256-38HfJl8I+bhXAa9IP6/14u86RIcs++KPcUYXIHnY3xA=";
     };
     name = "pyright";
     license = "MIT";
