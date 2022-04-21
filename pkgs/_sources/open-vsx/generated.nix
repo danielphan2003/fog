@@ -7599,10 +7599,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2200239";
+    version = "7.2.2201335";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2200239/file/eliostruyf.vscode-front-matter-beta-7.2.2200239.vsix";
-      sha256 = "sha256-7SkRLb3jY+JsD1AyenH7sTS06l8WvxkqFfn9ksFMZH8=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2201335/file/eliostruyf.vscode-front-matter-beta-7.2.2201335.vsix";
+      sha256 = "sha256-zNe7LIPDWztDRRVoRBWEw3XDIm11tkq47Am9F8A5P2c=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -11475,10 +11475,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.27";
+    version = "3.0.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.27/file/lifeart.vscode-ember-unstable-3.0.27.vsix";
-      sha256 = "sha256-GwsjZSjZFTqj06S7korE6ZZy9bxL2JWgvlRqD2SCvxk=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.28/file/lifeart.vscode-ember-unstable-3.0.28.vsix";
+      sha256 = "sha256-qbJCWhb80GniuXdLaVrFGNRGPE0PzdSgTe7uRYVNoyw=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -14475,10 +14475,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.5";
+    version = "2.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.5/file/pomdtr.excalidraw-editor-2.1.5.vsix";
-      sha256 = "sha256-llpV5cH6u1h6LnDRS9l4np9gzbWuQGqvtHoxoNEgngQ=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.6/file/pomdtr.excalidraw-editor-2.1.6.vsix";
+      sha256 = "sha256-82//Q+n4DKFYoUtrgb6cI4qZPBNRpK5vPVxcA7I0468=";
     };
     name = "excalidraw-editor";
     license = "MIT";

@@ -9663,7 +9663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.2.2200239",
+    "version": "7.2.2201335",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9671,10 +9671,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2200239/file/eliostruyf.vscode-front-matter-beta-7.2.2200239.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2201335/file/eliostruyf.vscode-front-matter-beta-7.2.2201335.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7SkRLb3jY+JsD1AyenH7sTS06l8WvxkqFfn9ksFMZH8="
+      "sha256": "sha256-zNe7LIPDWztDRRVoRBWEw3XDIm11tkq47Am9F8A5P2c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12203,7 +12203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.5",
+    "version": "2.1.6",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12211,10 +12211,10 @@
       "description": "Draw schemas in VSCode using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.5/file/pomdtr.excalidraw-editor-2.1.5.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.6/file/pomdtr.excalidraw-editor-2.1.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-llpV5cH6u1h6LnDRS9l4np9gzbWuQGqvtHoxoNEgngQ="
+      "sha256": "sha256-82//Q+n4DKFYoUtrgb6cI4qZPBNRpK5vPVxcA7I0468="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20683,7 +20683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.27",
+    "version": "3.0.28",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -20691,10 +20691,10 @@
       "description": "Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.27/file/lifeart.vscode-ember-unstable-3.0.27.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.28/file/lifeart.vscode-ember-unstable-3.0.28.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GwsjZSjZFTqj06S7korE6ZZy9bxL2JWgvlRqD2SCvxk="
+      "sha256": "sha256-qbJCWhb80GniuXdLaVrFGNRGPE0PzdSgTe7uRYVNoyw="
     },
     "extract": null,
     "rustGitDeps": null
