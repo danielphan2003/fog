@@ -11363,7 +11363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.19",
+    "version": "0.5.22",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -11371,10 +11371,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.19/file/wcrichton.flowistry-0.5.19.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.22/file/wcrichton.flowistry-0.5.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9rUpNK84ZAinyEU2nDXht5SbqYrItWnljcCKAEvJ4NA="
+      "sha256": "sha256-CiBMQzLO6T9SBVH1xyQGQ8Rcb2HyO5pfh74enRe9cgk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11803,7 +11803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "anweber-vscode-httpyac",
-    "version": "5.3.0",
+    "version": "5.4.0",
     "passthru": {
       "name": "vscode-httpyac",
       "license": "MIT",
@@ -11811,10 +11811,10 @@
       "description": "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.3.0/file/anweber.vscode-httpyac-5.3.0.vsix",
+      "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.0/file/anweber.vscode-httpyac-5.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dVOJxTyxEa6txXQrms+dB6AaPGdcVj+1F1PxYwSHHEw="
+      "sha256": "sha256-Gekdeywwaf8NwoaVXp4lb6p1iifE2Q2O+mgZ6qfSVM0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17723,7 +17723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.7",
+    "version": "0.17.8",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -17731,10 +17731,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.7/file/Marko-JS.marko-vscode-0.17.7.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.8/file/Marko-JS.marko-vscode-0.17.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1OsXgBZlCdOC59hJyW1FcDFs9HrNNx/Nthxo/ITGb2I="
+      "sha256": "sha256-zRUNTT5tvuXRDrB7zxgSDVkcWhTHEkcRGvuBF1bvs/I="
     },
     "extract": null,
     "rustGitDeps": null
