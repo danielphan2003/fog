@@ -9891,10 +9891,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.6.0";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.6.0/file/intersystems-community.vscode-objectscript-1.6.0.vsix";
-      sha256 = "sha256-GMUvXG++fl30kV6pUgH8sGjCV7Cv5csxFW8hx2Fv03A=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.8.0/file/intersystems-community.vscode-objectscript-1.8.0.vsix";
+      sha256 = "sha256-KLVawyy0oJN9Vc1QsS2YNkCNrjrKw8CI+1S00pKo3F0=";
     };
     name = "vscode-objectscript";
     license = "MIT";
@@ -14499,10 +14499,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.7";
+    version = "2.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.7/file/pomdtr.excalidraw-editor-2.1.7.vsix";
-      sha256 = "sha256-4fH3CerPPdflqIaPcldJcUQROiXdZw+ViRI0r0SDFI8=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.8/file/pomdtr.excalidraw-editor-2.1.8.vsix";
+      sha256 = "sha256-J6EZstD+RjiZEnJtESo1O4IU4izJ8Efq+NYiyv8ovCA=";
     };
     name = "excalidraw-editor";
     license = "MIT";
