@@ -103,7 +103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "grammarcraft-epsilon-eag-extension-pack",
-    "version": "2.0.3",
+    "version": "2.1.1",
     "passthru": {
       "name": "epsilon-eag-extension-pack",
       "license": "EPL-2.0",
@@ -111,10 +111,10 @@
       "description": "Installs the EAG language extension and specialized themes for EAG grammar specification coloring."
     },
     "src": {
-      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.0.3/file/grammarcraft.epsilon-eag-extension-pack-2.0.3.vsix",
+      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aHodZHuzlF/Wuvm7yObDmMz6VMpTHx80hxO6Ihe8ZTU="
+      "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2403,7 +2403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "steedos-steedosdx-vscode",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "passthru": {
       "name": "steedosdx-vscode",
       "license": "MIT",
@@ -2411,10 +2411,10 @@
       "description": "Extensions for developing on the Steedos Platform"
     },
     "src": {
-      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.1/file/steedos.steedosdx-vscode-2.2.1.vsix",
+      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.2/file/steedos.steedosdx-vscode-2.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3jTkVUxBadyw0EaTzOLBth0uBsTLB3G+DF3U8fjoVis="
+      "sha256": "sha256-AuH9T74iBiTyhcKOO+Ua8I5j+pftIlaGZhfPowRKohw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2903,7 +2903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-ccf",
-    "version": "0.4.1",
+    "version": "1.0.0",
     "passthru": {
       "name": "ccf",
       "license": "MIT",
@@ -2911,10 +2911,10 @@
       "description": "Graphical visualization of program flow for COBOL programs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/ccf/0.4.1/file/BroadcomMFD.ccf-0.4.1.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/ccf/1.0.0/file/BroadcomMFD.ccf-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/rjHdN8fOeRhMtsKb90OZO90dF5dYHwUv2Zx1Gd5eA8="
+      "sha256": "sha256-+XtD1uB/tY1A6vq0hqo0NEqSW/Wz3NwekI4Jk3J8QoE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11463,7 +11463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "grammarcraft-epsilon-eag-light-theme",
-    "version": "2.0.3",
+    "version": "2.1.1",
     "passthru": {
       "name": "epsilon-eag-light-theme",
       "license": "EPL-2.0",
@@ -11471,10 +11471,10 @@
       "description": "Light Theme for Extended Affix Grammars (based on Light+)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.0.3/file/grammarcraft.epsilon-eag-light-theme-2.0.3.vsix",
+      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3WHCagjFQzuVH3xOrrMQdqeruVb0w1i0xKBZpMkYpaI="
+      "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17763,7 +17763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "grammarcraft-epsilon-eag",
-    "version": "2.0.3",
+    "version": "2.1.1",
     "passthru": {
       "name": "epsilon-eag",
       "license": "EPL-2.0",
@@ -17771,10 +17771,10 @@
       "description": "Specification Language for Extended Affix Grammars"
     },
     "src": {
-      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.0.3/file/grammarcraft.epsilon-eag-2.0.3.vsix",
+      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-D49rvQlm+CMxOQv5DRgNQmagW/oUekWkTnL/GWcBwj8="
+      "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22103,7 +22103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "steedos-steedosdx-vscode-core",
-    "version": "2.2.1",
+    "version": "2.2.2",
     "passthru": {
       "name": "steedosdx-vscode-core",
       "license": "MIT",
@@ -22111,10 +22111,10 @@
       "description": "Provides integration with the Steedos CLI"
     },
     "src": {
-      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.1/file/steedos.steedosdx-vscode-core-2.2.1.vsix",
+      "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.2/file/steedos.steedosdx-vscode-core-2.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Xwct0Df/i77P2mp7AqCp0ew9CxWUTZi/TWxU40gvYx0="
+      "sha256": "sha256-SoOLO873yIGAse9qnh4tUVDh+02AdifY0iRwK3zw1Rw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30543,7 +30543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.13.3",
+    "version": "1.14.0",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
@@ -30551,10 +30551,10 @@
       "description": "Execute code on any SAS server, also perform SAS linting and syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.13.3/file/sasjs.sasjs-for-vscode-1.13.3.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.14.0/file/sasjs.sasjs-for-vscode-1.14.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k5wRaLwQJSJ8mIb3c7weYJWj3Wl3M1h6uCc4HsecZwI="
+      "sha256": "sha256-teoNfRkpjYq81k/7TuVv659R04ZPdj7COZppOlINx+U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32803,7 +32803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "grammarcraft-epsilon-eag-dark-theme",
-    "version": "2.0.3",
+    "version": "2.1.1",
     "passthru": {
       "name": "epsilon-eag-dark-theme",
       "license": "EPL-2.0",
@@ -32811,10 +32811,10 @@
       "description": "Dark Theme for Extended Affix Grammars (based on Dark+)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.0.3/file/grammarcraft.epsilon-eag-dark-theme-2.0.3.vsix",
+      "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aSUeEIR6V40V4cvbqbviLpCIHQjH5FRSVw4HyWpadVE="
+      "sha256": "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw="
     },
     "extract": null,
     "rustGitDeps": null
