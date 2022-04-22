@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.5.0/file/DCsunset.vscode-modal-editor-0.5.0.vsix";
-      sha256 = "sha256-gxwG0yVRZx/ogPG6YY8rxZUgBbgf//P5PpWzmX8jX2A=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.6.0/file/DCsunset.vscode-modal-editor-0.6.0.vsix";
+      sha256 = "sha256-TplBmOuar+V7HTYea6UdMotOMt1EJFTfFuiMNaYXqAQ=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
