@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8f7b9fd690fc2d453c46cb479de27072016583bd";
+    version = "a04b9cd4e41a747b6ddbeea5c4473ad9f1f74e06";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8f7b9fd690fc2d453c46cb479de27072016583bd";
+      rev = "a04b9cd4e41a747b6ddbeea5c4473ad9f1f74e06";
       fetchSubmodules = false;
-      sha256 = "sha256-138ZTSODEafp1DgfrZ5kGoXu11MTnU5YGuyDvL7KDx4=";
+      sha256 = "sha256-f0DbwSMoA4wFidVPsFKf0snHJLWT5NqT914mopnf13o=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "94811485c9e50eb310d8abf19ab60ea01fc3860d";
+    version = "e3b19e01319bdda7f3f5799f53e28dade0bd1265";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "94811485c9e50eb310d8abf19ab60ea01fc3860d";
+      rev = "e3b19e01319bdda7f3f5799f53e28dade0bd1265";
       fetchSubmodules = false;
-      sha256 = "sha256-kFXdth53XojjcWjKJBmhTFbTkUYNELnvrj3OCfMMmZ8=";
+      sha256 = "sha256-9s2dkeICueyZnucaODRivDrsL2ykURtoheKqmDr48R4=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a25fabd6f7b5da6d6ecdf622a81aa154c973cd40";
+    version = "af029ed2f90619066436a4cb74d9ccaef92d39b4";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a25fabd6f7b5da6d6ecdf622a81aa154c973cd40";
+      rev = "af029ed2f90619066436a4cb74d9ccaef92d39b4";
       fetchSubmodules = false;
-      sha256 = "sha256-G4fQl2c6Jo/k76nmbFQGiEpu26n0/3z/3WXz4auFmhk=";
+      sha256 = "sha256-qC/9lpU85GRUtNwiMcz7NkFnkNmSMSyXKqhb1TAmOgU=";
     });
   };
   rofi-wayland = {
@@ -1011,13 +1011,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "910ae68e0b2e856bf5e2263f0d36d41084e4fe5e";
+    version = "78fededaa588012233ea0a3e69cdde872e2692f1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "910ae68e0b2e856bf5e2263f0d36d41084e4fe5e";
+      rev = "78fededaa588012233ea0a3e69cdde872e2692f1";
       fetchSubmodules = false;
-      sha256 = "sha256-GVVH2AE/UWqYS99V0+7lS1Mg2FncD9j48Retcppc3Bo=";
+      sha256 = "sha256-E3VcmYG9WR1Nbfwrs2oL+Cdlyq1Se64qvRTKOn2y5wY=";
     });
   };
   tailscale-systray = {
