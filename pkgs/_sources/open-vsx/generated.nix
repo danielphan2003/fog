@@ -375,15 +375,15 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "2.15.0";
+    version = "3.4.2022042201";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/2.15.0/file/CL.eide-2.15.0.vsix";
-      sha256 = "sha256-kpqFhHao0PG6021Lox9+Pcd+QLvuhYyBQzced5S143o=";
+      url = "https://open-vsx.org/api/CL/eide/3.4.2022042201/file/CL.eide-3.4.2022042201.vsix";
+      sha256 = "sha256-kI8ohc+G0VCjvwz0FcUjpMZbVoupPdb4yfVvOc8jR7E=";
     };
     name = "eide";
     license = "MIT";
     publisher = "CL";
-    description = "A singlechip development environment for 8051/STM8/Cortex-M/RISC-V";
+    description = "An embedded development environment for 8051/AVR/STM8/Cortex-M/RISC-V";
   };
   Carmen-philodendron-insider = {
     pname = "Carmen-philodendron-insider";
@@ -3627,10 +3627,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "0.0.6";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.6/file/XOJ-Team.xoj-playground-0.0.6.vsix";
-      sha256 = "sha256-rTlVmDsbiVR9ocQgOuuNDtHlR7s521Tt/wCnIR3B3LU=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.8/file/XOJ-Team.xoj-playground-0.0.8.vsix";
+      sha256 = "sha256-pKE5bB5z9Uk0BmSQNi4XW5Wh/5el4bwYMdHdNznPtvU=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
