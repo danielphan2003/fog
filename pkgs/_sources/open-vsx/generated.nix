@@ -255,10 +255,10 @@
   };
   BroadcomMFD-ccf = {
     pname = "BroadcomMFD-ccf";
-    version = "0.4.1";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/ccf/0.4.1/file/BroadcomMFD.ccf-0.4.1.vsix";
-      sha256 = "sha256-/rjHdN8fOeRhMtsKb90OZO90dF5dYHwUv2Zx1Gd5eA8=";
+      url = "https://open-vsx.org/api/BroadcomMFD/ccf/1.0.0/file/BroadcomMFD.ccf-1.0.0.vsix";
+      sha256 = "sha256-+XtD1uB/tY1A6vq0hqo0NEqSW/Wz3NwekI4Jk3J8QoE=";
     };
     name = "ccf";
     license = "MIT";
@@ -8931,10 +8931,10 @@
   };
   grammarcraft-epsilon-eag = {
     pname = "grammarcraft-epsilon-eag";
-    version = "2.0.3";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.0.3/file/grammarcraft.epsilon-eag-2.0.3.vsix";
-      sha256 = "sha256-D49rvQlm+CMxOQv5DRgNQmagW/oUekWkTnL/GWcBwj8=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     name = "epsilon-eag";
     license = "EPL-2.0";
@@ -8943,10 +8943,10 @@
   };
   grammarcraft-epsilon-eag-dark-theme = {
     pname = "grammarcraft-epsilon-eag-dark-theme";
-    version = "2.0.3";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.0.3/file/grammarcraft.epsilon-eag-dark-theme-2.0.3.vsix";
-      sha256 = "sha256-aSUeEIR6V40V4cvbqbviLpCIHQjH5FRSVw4HyWpadVE=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     name = "epsilon-eag-dark-theme";
     license = "EPL-2.0";
@@ -8955,10 +8955,10 @@
   };
   grammarcraft-epsilon-eag-extension-pack = {
     pname = "grammarcraft-epsilon-eag-extension-pack";
-    version = "2.0.3";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.0.3/file/grammarcraft.epsilon-eag-extension-pack-2.0.3.vsix";
-      sha256 = "sha256-aHodZHuzlF/Wuvm7yObDmMz6VMpTHx80hxO6Ihe8ZTU=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     name = "epsilon-eag-extension-pack";
     license = "EPL-2.0";
@@ -8967,10 +8967,10 @@
   };
   grammarcraft-epsilon-eag-light-theme = {
     pname = "grammarcraft-epsilon-eag-light-theme";
-    version = "2.0.3";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.0.3/file/grammarcraft.epsilon-eag-light-theme-2.0.3.vsix";
-      sha256 = "sha256-3WHCagjFQzuVH3xOrrMQdqeruVb0w1i0xKBZpMkYpaI=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
+      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
     };
     name = "epsilon-eag-light-theme";
     license = "EPL-2.0";
@@ -15927,10 +15927,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.13.3";
+    version = "1.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.13.3/file/sasjs.sasjs-for-vscode-1.13.3.vsix";
-      sha256 = "sha256-k5wRaLwQJSJ8mIb3c7weYJWj3Wl3M1h6uCc4HsecZwI=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.14.0/file/sasjs.sasjs-for-vscode-1.14.0.vsix";
+      sha256 = "sha256-teoNfRkpjYq81k/7TuVv659R04ZPdj7COZppOlINx+U=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
@@ -16707,10 +16707,10 @@
   };
   steedos-steedosdx-vscode = {
     pname = "steedos-steedosdx-vscode";
-    version = "2.2.1";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.1/file/steedos.steedosdx-vscode-2.2.1.vsix";
-      sha256 = "sha256-3jTkVUxBadyw0EaTzOLBth0uBsTLB3G+DF3U8fjoVis=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.2/file/steedos.steedosdx-vscode-2.2.2.vsix";
+      sha256 = "sha256-AuH9T74iBiTyhcKOO+Ua8I5j+pftIlaGZhfPowRKohw=";
     };
     name = "steedosdx-vscode";
     license = "MIT";
@@ -16719,10 +16719,10 @@
   };
   steedos-steedosdx-vscode-core = {
     pname = "steedos-steedosdx-vscode-core";
-    version = "2.2.1";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.1/file/steedos.steedosdx-vscode-core-2.2.1.vsix";
-      sha256 = "sha256-Xwct0Df/i77P2mp7AqCp0ew9CxWUTZi/TWxU40gvYx0=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.2/file/steedos.steedosdx-vscode-core-2.2.2.vsix";
+      sha256 = "sha256-SoOLO873yIGAse9qnh4tUVDh+02AdifY0iRwK3zw1Rw=";
     };
     name = "steedosdx-vscode-core";
     license = "MIT";
