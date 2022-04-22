@@ -10279,6 +10279,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "khan-two-monokai": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "khan-two-monokai",
+    "version": "0.1.3",
+    "passthru": {
+      "name": "two-monokai",
+      "license": "MIT",
+      "publisher": "khan",
+      "description": "Fork of the One Monokai theme"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/khan/two-monokai/0.1.3/file/khan.two-monokai-0.1.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-nXXv3Qy119yaNVy+9iXa7ALtCoZQ99EgjgsNNWsLmQk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "statelyai-stately-vscode": {
     "pinned": false,
     "cargoLock": null,
@@ -14103,7 +14123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ban-spellright",
-    "version": "3.0.62",
+    "version": "3.0.64",
     "passthru": {
       "name": "spellright",
       "license": "",
@@ -14111,10 +14131,10 @@
       "description": "Multilingual, Offline and Lightweight Spellchecker"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ban/spellright/3.0.62/file/ban.spellright-3.0.62.vsix",
+      "url": "https://open-vsx.org/api/ban/spellright/3.0.64/file/ban.spellright-3.0.64.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p+h5A+uGkDhV2+6cwWdv+BM50igYNjQof05m2ZTLxEg="
+      "sha256": "sha256-XiHtUOMNTA+ILcWS/HCUDcHWjtKsuUz0JcdLr1BViJ4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15363,7 +15383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.2018",
+    "version": "2022.4.2112",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15371,10 +15391,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2018/file/Slint.slint-nightly-2022.4.2018.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2112/file/Slint.slint-nightly-2022.4.2112.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-M0ZSP9c3XiL5aPbHK1pMqPEGF0SRjChZsESCcM16e5I="
+      "sha256": "sha256-ce4elkuAltCOyJoDu/w8TeTdGsAk2b8a37muauDgabo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16903,7 +16923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.2.6",
+    "version": "1.3.0",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -16911,10 +16931,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.6/file/halcyontechltd.code-for-ibmi-1.2.6.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.0/file/halcyontechltd.code-for-ibmi-1.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GgPLjnXenffEG245uEOGPqGWfL5jVSg0BgGVC5rjznY="
+      "sha256": "sha256-OVGcMON8gMDIJ0qVuGOBdlj49bv/Ai1vBZzPCADqECg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17723,7 +17743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.8",
+    "version": "0.17.9",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -17731,10 +17751,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.8/file/Marko-JS.marko-vscode-0.17.8.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.9/file/Marko-JS.marko-vscode-0.17.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zRUNTT5tvuXRDrB7zxgSDVkcWhTHEkcRGvuBF1bvs/I="
+      "sha256": "sha256-jWkJRcAJY6d1+HhzWti1zsdpySObhp8hjktjpiXJkWE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20843,7 +20863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-tr",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-tr",
       "license": "MIT",
@@ -20851,10 +20871,10 @@
       "description": "Language pack extension for Turkish"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.66.3/file/MS-CEINTL.vscode-language-pack-tr-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.67.0/file/MS-CEINTL.vscode-language-pack-tr-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MIcB4sH3t37B5xBoargqnygAZEzn1juWnQhC1/SF2UQ="
+      "sha256": "sha256-GbPow7YHamB0SAXudaYl//LxdxnRLN2AjrM8ltambjQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23703,7 +23723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bradlc-vscode-tailwindcss",
-    "version": "0.8.1",
+    "version": "0.8.2",
     "passthru": {
       "name": "vscode-tailwindcss",
       "license": "MIT",
@@ -23711,10 +23731,10 @@
       "description": "Intelligent Tailwind CSS tooling for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.1/file/bradlc.vscode-tailwindcss-0.8.1.vsix",
+      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.2/file/bradlc.vscode-tailwindcss-0.8.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VNldpFr8k7w3VL2Ur3Oqzunf3fMzWZZl8wTrR8B/Ovg="
+      "sha256": "sha256-3XdI1f+triBs7yywfUyIAfaKsKSvVKZwIV5FN0bXjWs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26223,7 +26243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-de",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-de",
       "license": "MIT",
@@ -26231,10 +26251,10 @@
       "description": "Language pack extension for German"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.66.3/file/MS-CEINTL.vscode-language-pack-de-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.67.0/file/MS-CEINTL.vscode-language-pack-de-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JJj8lrV1qKMAnBTgdDRndr+sknpYCI7G/4K3rL2CUFw="
+      "sha256": "sha256-3l30HbyM/+4En/qXzKmIN6BnSYsdwbVYA+wtM7nDCsE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27383,7 +27403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zhuangtongfa-material-theme",
-    "version": "3.13.21",
+    "version": "3.13.24",
     "passthru": {
       "name": "material-theme",
       "license": "MIT",
@@ -27391,10 +27411,10 @@
       "description": "Atomâs iconic One Dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.21/file/zhuangtongfa.material-theme-3.13.21.vsix",
+      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.24/file/zhuangtongfa.material-theme-3.13.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CoeQY479F7PZJW48+p63JFT8d1A4Sxq5f2QeRHg+yOU="
+      "sha256": "sha256-vySJRnNB2KxEoV9Ct7D1WO/XCbE6pADPlWfWdF+ws2E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31083,7 +31103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "razetime-bqn-language",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "passthru": {
       "name": "bqn-language",
       "license": "MIT",
@@ -31091,10 +31111,10 @@
       "description": "BQN array programming language support, backslash completion, snippets and code execution"
     },
     "src": {
-      "url": "https://open-vsx.org/api/razetime/bqn-language/0.0.3/file/razetime.bqn-language-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/razetime/bqn-language/0.0.4/file/razetime.bqn-language-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-R6S7t62ZhLleKycw/y4Ady0eTdM6MN1FGz7cl8gpCWg="
+      "sha256": "sha256-cYRP/5jy4BlqZXqo746l0pmDDCvcpIeJLhC2FoOO1j8="
     },
     "extract": null,
     "rustGitDeps": null

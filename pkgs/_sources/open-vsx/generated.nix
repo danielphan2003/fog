@@ -2031,10 +2031,10 @@
   };
   MS-CEINTL-vscode-language-pack-de = {
     pname = "MS-CEINTL-vscode-language-pack-de";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.66.3/file/MS-CEINTL.vscode-language-pack-de-1.66.3.vsix";
-      sha256 = "sha256-JJj8lrV1qKMAnBTgdDRndr+sknpYCI7G/4K3rL2CUFw=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.67.0/file/MS-CEINTL.vscode-language-pack-de-1.67.0.vsix";
+      sha256 = "sha256-3l30HbyM/+4En/qXzKmIN6BnSYsdwbVYA+wtM7nDCsE=";
     };
     name = "vscode-language-pack-de";
     license = "MIT";
@@ -2187,10 +2187,10 @@
   };
   MS-CEINTL-vscode-language-pack-tr = {
     pname = "MS-CEINTL-vscode-language-pack-tr";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.66.3/file/MS-CEINTL.vscode-language-pack-tr-1.66.3.vsix";
-      sha256 = "sha256-MIcB4sH3t37B5xBoargqnygAZEzn1juWnQhC1/SF2UQ=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.67.0/file/MS-CEINTL.vscode-language-pack-tr-1.67.0.vsix";
+      sha256 = "sha256-GbPow7YHamB0SAXudaYl//LxdxnRLN2AjrM8ltambjQ=";
     };
     name = "vscode-language-pack-tr";
     license = "MIT";
@@ -2283,10 +2283,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.8";
+    version = "0.17.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.8/file/Marko-JS.marko-vscode-0.17.8.vsix";
-      sha256 = "sha256-zRUNTT5tvuXRDrB7zxgSDVkcWhTHEkcRGvuBF1bvs/I=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.9/file/Marko-JS.marko-vscode-0.17.9.vsix";
+      sha256 = "sha256-jWkJRcAJY6d1+HhzWti1zsdpySObhp8hjktjpiXJkWE=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.2018";
+    version = "2022.4.2112";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2018/file/Slint.slint-nightly-2022.4.2018.vsix";
-      sha256 = "sha256-M0ZSP9c3XiL5aPbHK1pMqPEGF0SRjChZsESCcM16e5I=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2112/file/Slint.slint-nightly-2022.4.2112.vsix";
+      sha256 = "sha256-ce4elkuAltCOyJoDu/w8TeTdGsAk2b8a37muauDgabo=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5259,10 +5259,10 @@
   };
   ban-spellright = {
     pname = "ban-spellright";
-    version = "3.0.62";
+    version = "3.0.64";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ban/spellright/3.0.62/file/ban.spellright-3.0.62.vsix";
-      sha256 = "sha256-p+h5A+uGkDhV2+6cwWdv+BM50igYNjQof05m2ZTLxEg=";
+      url = "https://open-vsx.org/api/ban/spellright/3.0.64/file/ban.spellright-3.0.64.vsix";
+      sha256 = "sha256-XiHtUOMNTA+ILcWS/HCUDcHWjtKsuUz0JcdLr1BViJ4=";
     };
     name = "spellright";
     license = "";
@@ -5643,10 +5643,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.8.1";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.1/file/bradlc.vscode-tailwindcss-0.8.1.vsix";
-      sha256 = "sha256-VNldpFr8k7w3VL2Ur3Oqzunf3fMzWZZl8wTrR8B/Ovg=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.2/file/bradlc.vscode-tailwindcss-0.8.2.vsix";
+      sha256 = "sha256-3XdI1f+triBs7yywfUyIAfaKsKSvVKZwIV5FN0bXjWs=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -9039,10 +9039,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.2.6";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.2.6/file/halcyontechltd.code-for-ibmi-1.2.6.vsix";
-      sha256 = "sha256-GgPLjnXenffEG245uEOGPqGWfL5jVSg0BgGVC5rjznY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.0/file/halcyontechltd.code-for-ibmi-1.3.0.vsix";
+      sha256 = "sha256-OVGcMON8gMDIJ0qVuGOBdlj49bv/Ai1vBZzPCADqECg=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -10860,6 +10860,18 @@
     license = "MIT";
     publisher = "kgrubb";
     description = "Flamingo Nebula color theme, heavily inspired by Flamingo Galaxy";
+  };
+  khan-two-monokai = {
+    pname = "khan-two-monokai";
+    version = "0.1.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/khan/two-monokai/0.1.3/file/khan.two-monokai-0.1.3.vsix";
+      sha256 = "sha256-nXXv3Qy119yaNVy+9iXa7ALtCoZQ99EgjgsNNWsLmQk=";
+    };
+    name = "two-monokai";
+    license = "MIT";
+    publisher = "khan";
+    description = "Fork of the One Monokai theme";
   };
   kie-group-vscode-extension-kogito-bundle = {
     pname = "kie-group-vscode-extension-kogito-bundle";
@@ -14835,10 +14847,10 @@
   };
   razetime-bqn-language = {
     pname = "razetime-bqn-language";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/razetime/bqn-language/0.0.3/file/razetime.bqn-language-0.0.3.vsix";
-      sha256 = "sha256-R6S7t62ZhLleKycw/y4Ady0eTdM6MN1FGz7cl8gpCWg=";
+      url = "https://open-vsx.org/api/razetime/bqn-language/0.0.4/file/razetime.bqn-language-0.0.4.vsix";
+      sha256 = "sha256-cYRP/5jy4BlqZXqo746l0pmDDCvcpIeJLhC2FoOO1j8=";
     };
     name = "bqn-language";
     license = "MIT";
@@ -20511,10 +20523,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.21";
+    version = "3.13.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.21/file/zhuangtongfa.material-theme-3.13.21.vsix";
-      sha256 = "sha256-CoeQY479F7PZJW48+p63JFT8d1A4Sxq5f2QeRHg+yOU=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.24/file/zhuangtongfa.material-theme-3.13.24.vsix";
+      sha256 = "sha256-vySJRnNB2KxEoV9Ct7D1WO/XCbE6pADPlWfWdF+ws2E=";
     };
     name = "material-theme";
     license = "MIT";
