@@ -1551,13 +1551,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-beta",
-    "version": "101.0.1210.19",
+    "version": "101.0.1210.26",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.19-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.26-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lxTbA3sB0j5amr70A+eHKb1ClDYNpH8vjj0Z7nMK7M0="
+      "sha256": "sha256-EIMIQrMFu3tiDxcJeV03PUsWaDUd+EbSOr3lLXh046w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "78fededaa588012233ea0a3e69cdde872e2692f1",
+    "version": "2265587d38bc75d4e8b0d116e3552bf239eea760",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-E3VcmYG9WR1Nbfwrs2oL+Cdlyq1Se64qvRTKOn2y5wY=",
-      "rev": "78fededaa588012233ea0a3e69cdde872e2692f1"
+      "sha256": "sha256-COTulPq7fm+01hnqRwNCtUnwkwihrSLYlty2qKpk3Zk=",
+      "rev": "2265587d38bc75d4e8b0d116e3552bf239eea760"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-5bf8e8f0015921b8bebf228a387b9638089ce38b/Cargo.lock",
+    "cargoLock": "./rustdesk-6bc0c3ce98c2083316c1b4cde1736bf45c4283f1/Cargo.lock",
     "name": "rustdesk",
-    "version": "5bf8e8f0015921b8bebf228a387b9638089ce38b",
+    "version": "6bc0c3ce98c2083316c1b4cde1736bf45c4283f1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-OZm2aO+OALnUPOu8B8Vvstll35IK03hjYROwIjmFQd4=",
-      "rev": "5bf8e8f0015921b8bebf228a387b9638089ce38b"
+      "sha256": "sha256-PArPf6JmRmzzTrt5JzdXSfznWc1SJ5r0X6PESSjX8jo=",
+      "rev": "6bc0c3ce98c2083316c1b4cde1736bf45c4283f1"
     },
     "extract": null,
     "rustGitDeps": {
