@@ -7523,7 +7523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.14.0",
+    "version": "1.15.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7531,10 +7531,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.14.0/file/quarto.quarto-1.14.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.15.0/file/quarto.quarto-1.15.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fpQfrxudEgUjnv4zO8dbXZXC7ya6clBk4oE8v4hfQI4="
+      "sha256": "sha256-8lZMH3NmhFmXPj9nVpjgpY3xz7RIBoDTLCZSl7sVEBc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9283,7 +9283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "marp-team-marp-vscode",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "passthru": {
       "name": "marp-vscode",
       "license": "MIT",
@@ -9291,10 +9291,10 @@
       "description": "Create slide deck written in Marp Markdown on VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.5.1/file/marp-team.marp-vscode-1.5.1.vsix",
+      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.5.2/file/marp-team.marp-vscode-1.5.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1WCn81aNcELR1XWV5/r5q+Zo4JhPl/9l1LlhFkemkIc="
+      "sha256": "sha256-RMelNmoCe+3M6xeN2cy573IfsfGURpIIQE21TevnXkk="
     },
     "extract": null,
     "rustGitDeps": null

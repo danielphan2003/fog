@@ -11799,10 +11799,10 @@
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.5.1/file/marp-team.marp-vscode-1.5.1.vsix";
-      sha256 = "sha256-1WCn81aNcELR1XWV5/r5q+Zo4JhPl/9l1LlhFkemkIc=";
+      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.5.2/file/marp-team.marp-vscode-1.5.2.vsix";
+      sha256 = "sha256-RMelNmoCe+3M6xeN2cy573IfsfGURpIIQE21TevnXkk=";
     };
     name = "marp-vscode";
     license = "MIT";
@@ -14715,10 +14715,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.14.0";
+    version = "1.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.14.0/file/quarto.quarto-1.14.0.vsix";
-      sha256 = "sha256-fpQfrxudEgUjnv4zO8dbXZXC7ya6clBk4oE8v4hfQI4=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.15.0/file/quarto.quarto-1.15.0.vsix";
+      sha256 = "sha256-8lZMH3NmhFmXPj9nVpjgpY3xz7RIBoDTLCZSl7sVEBc=";
     };
     name = "quarto";
     license = "MIT";
