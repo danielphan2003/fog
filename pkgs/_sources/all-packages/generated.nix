@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "a04b9cd4e41a747b6ddbeea5c4473ad9f1f74e06";
+    version = "cbab77b562f88fd10a87a8076c1872da5e16e4da";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "a04b9cd4e41a747b6ddbeea5c4473ad9f1f74e06";
+      rev = "cbab77b562f88fd10a87a8076c1872da5e16e4da";
       fetchSubmodules = false;
-      sha256 = "sha256-f0DbwSMoA4wFidVPsFKf0snHJLWT5NqT914mopnf13o=";
+      sha256 = "sha256-YvRBubZLhVDStsGxy8KoD8YA0I7IhejgMhPRqMKs7a8=";
     });
   };
   caddy = {
@@ -811,27 +811,26 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "aa7779bcf7e3c7c0cce4426e0e35e18ac9f25aff";
+    version = "5bf8e8f0015921b8bebf228a387b9638089ce38b";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "aa7779bcf7e3c7c0cce4426e0e35e18ac9f25aff";
+      rev = "5bf8e8f0015921b8bebf228a387b9638089ce38b";
       fetchSubmodules = false;
-      sha256 = "sha256-55Y523EbnNjV59+HQxeltmuTZz37DwkCglFAApN0BTc=";
+      sha256 = "sha256-OZm2aO+OALnUPOu8B8Vvstll35IK03hjYROwIjmFQd4=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-aa7779bcf7e3c7c0cce4426e0e35e18ac9f25aff/Cargo.lock;
+      lockFile = ./rustdesk-5bf8e8f0015921b8bebf228a387b9638089ce38b/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "libappindicator-0.6.1" = "sha256-JGnnZrcwbh8WJ6+/4bYhfD3HvgF2C7XaaGb6TaMRWdw=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
-        "cpal-0.13.4" = "sha256-Gs1cqYJP92Zy8Fnu3wGQ9+p5oIkCkOp9v++8ocFSNiU=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
+        "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
         "confy-0.4.1" = "sha256-5QwA4YfEEE6QqEEUJ3+C37UbUf88NYds38kIthVSo5Y=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
-        "rust-pulsectl-0.2.11" = "sha256-CZkvii6pQM5jaR9RK9HDrczxIxZwuahpdVM+UsRLw9s=";
       };
     };
   };
