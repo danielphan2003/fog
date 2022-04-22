@@ -546,10 +546,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "101.0.1210.19";
+    version = "101.0.1210.26";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.19-1_amd64.deb";
-      sha256 = "sha256-lxTbA3sB0j5amr70A+eHKb1ClDYNpH8vjj0Z7nMK7M0=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.26-1_amd64.deb";
+      sha256 = "sha256-EIMIQrMFu3tiDxcJeV03PUsWaDUd+EbSOr3lLXh046w=";
     };
   };
   microsoft-edge-dev = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5bf8e8f0015921b8bebf228a387b9638089ce38b";
+    version = "6bc0c3ce98c2083316c1b4cde1736bf45c4283f1";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5bf8e8f0015921b8bebf228a387b9638089ce38b";
+      rev = "6bc0c3ce98c2083316c1b4cde1736bf45c4283f1";
       fetchSubmodules = false;
-      sha256 = "sha256-OZm2aO+OALnUPOu8B8Vvstll35IK03hjYROwIjmFQd4=";
+      sha256 = "sha256-PArPf6JmRmzzTrt5JzdXSfznWc1SJ5r0X6PESSjX8jo=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-5bf8e8f0015921b8bebf228a387b9638089ce38b/Cargo.lock;
+      lockFile = ./rustdesk-6bc0c3ce98c2083316c1b4cde1736bf45c4283f1/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "78fededaa588012233ea0a3e69cdde872e2692f1";
+    version = "2265587d38bc75d4e8b0d116e3552bf239eea760";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "78fededaa588012233ea0a3e69cdde872e2692f1";
+      rev = "2265587d38bc75d4e8b0d116e3552bf239eea760";
       fetchSubmodules = false;
-      sha256 = "sha256-E3VcmYG9WR1Nbfwrs2oL+Cdlyq1Se64qvRTKOn2y5wY=";
+      sha256 = "sha256-COTulPq7fm+01hnqRwNCtUnwkwihrSLYlty2qKpk3Zk=";
     });
   };
   tailscale-systray = {
