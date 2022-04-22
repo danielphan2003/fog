@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.863";
+    version = "31.0.864";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.863/file/Prisma.prisma-insider-31.0.863.vsix";
-      sha256 = "sha256-ZZ6wSwhZqIy0ZlbBljKbFE1qsenIfzflyHW/NJXKKug=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.864/file/Prisma.prisma-insider-31.0.864.vsix";
+      sha256 = "sha256-bl8DnTX4e9dXEGvmdRwdRCb+gVXoHABymauZfRpRu1I=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16503,10 +16503,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.20";
+    version = "0.2.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.20/file/smapiot.vscode-piral-0.2.20.vsix";
-      sha256 = "sha256-Q3uLcPeU9+z3VjEk0Uw9FenlOBGfh90wOhhLmITUbjo=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.21/file/smapiot.vscode-piral-0.2.21.vsix";
+      sha256 = "sha256-CLDZD5+FfRS05E08KjHnuIvjqCpuC4573YNVsZgUsPY=";
     };
     name = "vscode-piral";
     license = "MIT";
