@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "4ffb7d48414ecba9936be1a2dfffce4130dcbdaa";
+    version = "eec0358324e83f79be2417da8393372c7ddbdb25";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "4ffb7d48414ecba9936be1a2dfffce4130dcbdaa";
+      rev = "eec0358324e83f79be2417da8393372c7ddbdb25";
       fetchSubmodules = false;
-      sha256 = "sha256-F+RnhaT0U4g9gpRLvbEXsKLhXPkrcPrWgjHU6sCbZLI=";
+      sha256 = "sha256-q7juByy9HHLSBVJKdFRyUpVtryfGcRYEoZpKv/u0vmY=";
     });
     cargoLock = {
-      lockFile = ./eww-4ffb7d48414ecba9936be1a2dfffce4130dcbdaa/Cargo.lock;
+      lockFile = ./eww-eec0358324e83f79be2417da8393372c7ddbdb25/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -399,13 +399,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "17648f0522910480b6c5dd4f5356ca1f6c160bf5";
+    version = "f1c456d26053c32634ecf436bd0082a2910d0b9e";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "17648f0522910480b6c5dd4f5356ca1f6c160bf5";
+      rev = "f1c456d26053c32634ecf436bd0082a2910d0b9e";
       fetchSubmodules = false;
-      sha256 = "sha256-guWs5RJCGy+ioyHEz2Nl06R0dWl15DAhVg+Pi4CJIxU=";
+      sha256 = "sha256-fT64804vBCgBeirxcRnj0/2zIcPyoLh0T5K+wlaSXsA=";
     });
   };
   ibus-bamboo = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a23127c51b85495deee98735c113c481a0234054";
+    version = "3336e618597fa0452001527077964bdf33a739f8";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a23127c51b85495deee98735c113c481a0234054";
+      rev = "3336e618597fa0452001527077964bdf33a739f8";
       fetchSubmodules = false;
-      sha256 = "sha256-2oUanaSpOZ85d87U958XW7+A5bMR9JQmAmvAtXxiw0o=";
+      sha256 = "sha256-L6sRzMEFi+sSJuxRP20idUDX5dXS0CHWVcq/PbJC1oQ=";
     });
   };
   rofi-wayland = {
