@@ -1347,10 +1347,10 @@
   };
   Gwion-gwion = {
     pname = "Gwion-gwion";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Gwion/gwion/0.2.2/file/Gwion.gwion-0.2.2.vsix";
-      sha256 = "sha256-MFVKBq3tT0Ywztv8lAF0Xj1I+EDvzwFU/csT7u8VPiw=";
+      url = "https://open-vsx.org/api/Gwion/gwion/0.2.3/file/Gwion.gwion-0.2.3.vsix";
+      sha256 = "sha256-3SRyaajLwvaMW9hBunG1kyaNw2IF1hRPgrvste6F8O4=";
     };
     name = "gwion";
     license = "";

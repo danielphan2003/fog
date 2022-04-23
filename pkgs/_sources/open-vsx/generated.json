@@ -24303,7 +24303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Gwion-gwion",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "passthru": {
       "name": "gwion",
       "license": "",
@@ -24311,10 +24311,10 @@
       "description": "Strongly-timed musical programming language"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Gwion/gwion/0.2.2/file/Gwion.gwion-0.2.2.vsix",
+      "url": "https://open-vsx.org/api/Gwion/gwion/0.2.3/file/Gwion.gwion-0.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MFVKBq3tT0Ywztv8lAF0Xj1I+EDvzwFU/csT7u8VPiw="
+      "sha256": "sha256-3SRyaajLwvaMW9hBunG1kyaNw2IF1hRPgrvste6F8O4="
     },
     "extract": null,
     "rustGitDeps": null
