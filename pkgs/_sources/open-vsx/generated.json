@@ -23,7 +23,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "muhammad-sammy-csharp",
-    "version": "1.24.3",
+    "version": "1.24.4",
     "passthru": {
       "name": "csharp",
       "license": "MIT",
@@ -31,10 +31,10 @@
       "description": "C# support for vscode-compatible editors (powered by OmniSharp and NetCoreDbg)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.3/file/muhammad-sammy.csharp-1.24.3.vsix",
+      "url": "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.4/file/muhammad-sammy.csharp-1.24.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ypUkR2xJ+pi/nUFR/+YRAsFy6mISJQJRtS61PfQQgt0="
+      "sha256": "sha256-JoczQiWUYereGXKILd1vjeQ2QJXm/S/TtXCgfbW4Xnk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10303,7 +10303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "statelyai-stately-vscode",
-    "version": "1.7.5",
+    "version": "1.7.6",
     "passthru": {
       "name": "stately-vscode",
       "license": "MIT",
@@ -10311,10 +10311,10 @@
       "description": "Visual editing, autocomplete and typegen for XState"
     },
     "src": {
-      "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.7.5/file/statelyai.stately-vscode-1.7.5.vsix",
+      "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.7.6/file/statelyai.stately-vscode-1.7.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-h+kIdA4OLc5CBo/FUXSmgzcYV9P0BxIV5Uztf4x88A8="
+      "sha256": "sha256-dIPBdIdxXplZNZgbFswzkwizhXEWoOd0rhJBlhj2reU="
     },
     "extract": null,
     "rustGitDeps": null

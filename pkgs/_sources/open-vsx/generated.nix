@@ -13191,10 +13191,10 @@
   };
   muhammad-sammy-csharp = {
     pname = "muhammad-sammy-csharp";
-    version = "1.24.3";
+    version = "1.24.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.3/file/muhammad-sammy.csharp-1.24.3.vsix";
-      sha256 = "sha256-ypUkR2xJ+pi/nUFR/+YRAsFy6mISJQJRtS61PfQQgt0=";
+      url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.4/file/muhammad-sammy.csharp-1.24.4.vsix";
+      sha256 = "sha256-JoczQiWUYereGXKILd1vjeQ2QJXm/S/TtXCgfbW4Xnk=";
     };
     name = "csharp";
     license = "MIT";
@@ -16695,10 +16695,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.7.5";
+    version = "1.7.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.5/file/statelyai.stately-vscode-1.7.5.vsix";
-      sha256 = "sha256-h+kIdA4OLc5CBo/FUXSmgzcYV9P0BxIV5Uztf4x88A8=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.6/file/statelyai.stately-vscode-1.7.6.vsix";
+      sha256 = "sha256-dIPBdIdxXplZNZgbFswzkwizhXEWoOd0rhJBlhj2reU=";
     };
     name = "stately-vscode";
     license = "MIT";
