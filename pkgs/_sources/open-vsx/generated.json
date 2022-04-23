@@ -19263,7 +19263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iljapostnovs-ui5plugin",
-    "version": "0.14.25",
+    "version": "0.14.26",
     "passthru": {
       "name": "ui5plugin",
       "license": "Apache-2.0",
@@ -19271,10 +19271,10 @@
       "description": "Extension for working with UI5 projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.25/file/iljapostnovs.ui5plugin-0.14.25.vsix",
+      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.26/file/iljapostnovs.ui5plugin-0.14.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-76CjoP8Z4Wb6DRR8XG+/GfbwQLo+D25dagcxNQh17kM="
+      "sha256": "sha256-nXbctvCmXp5825mbvi8LcOdZRzbKY+plXUyOfzF1xEM="
     },
     "extract": null,
     "rustGitDeps": null
