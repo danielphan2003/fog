@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.4.2022042201";
+    version = "3.4.2022042301";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.4.2022042201/file/CL.eide-3.4.2022042201.vsix";
-      sha256 = "sha256-kI8ohc+G0VCjvwz0FcUjpMZbVoupPdb4yfVvOc8jR7E=";
+      url = "https://open-vsx.org/api/CL/eide/3.4.2022042301/file/CL.eide-3.4.2022042301.vsix";
+      sha256 = "sha256-40ErcfiKkFeIrnG4+3Rl4bMSMalqHVeCFTJtfB4R3Jo=";
     };
     name = "eide";
     license = "MIT";
@@ -2127,10 +2127,10 @@
   };
   MS-CEINTL-vscode-language-pack-ko = {
     pname = "MS-CEINTL-vscode-language-pack-ko";
-    version = "1.66.3";
+    version = "1.67.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.66.3/file/MS-CEINTL.vscode-language-pack-ko-1.66.3.vsix";
-      sha256 = "sha256-oMFIjAHFKz0CxhH4lp5yvGVsVLI5/OBFyVP4GY0uphg=";
+      url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.67.0/file/MS-CEINTL.vscode-language-pack-ko-1.67.0.vsix";
+      sha256 = "sha256-nqqwpK8Swq0NkuRSha39H940K2VP88TbjIPTf1XKhNU=";
     };
     name = "vscode-language-pack-ko";
     license = "MIT";
@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.2112";
+    version = "2022.4.2215";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2112/file/Slint.slint-nightly-2022.4.2112.vsix";
-      sha256 = "sha256-ce4elkuAltCOyJoDu/w8TeTdGsAk2b8a37muauDgabo=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2215/file/Slint.slint-nightly-2022.4.2215.vsix";
+      sha256 = "sha256-l+bVWgWeGfjvrb0kkSHVfKvca0OlaCmAxIpXOvCrgig=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -6459,10 +6459,10 @@
   };
   cschleiden-vscode-github-actions = {
     pname = "cschleiden-vscode-github-actions";
-    version = "0.22.0";
+    version = "0.24.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.22.0/file/cschleiden.vscode-github-actions-0.22.0.vsix";
-      sha256 = "sha256-DxC9L5EYHsVEjXqSr80rBHxIXVgNFkpDfqDlSZu8HgQ=";
+      url = "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.1/file/cschleiden.vscode-github-actions-0.24.1.vsix";
+      sha256 = "sha256-hXUaCjHz4iZLrnFs5d/Onrh7Zcm9QvrtOuGkDRjb8uA=";
     };
     name = "vscode-github-actions";
     license = "MIT";
@@ -11427,10 +11427,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "185.0.0";
+    version = "186.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/185.0.0/file/lextudio.restructuredtext-185.0.0.vsix";
-      sha256 = "sha256-dg9WB+rfTJ7Eac4pMkZuDYN64fhK84MtHkKP51SrVOw=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/186.0.0/file/lextudio.restructuredtext-186.0.0.vsix";
+      sha256 = "sha256-K6Tdbz/2yNt6D+oP86TpFVJ57FDFOmMqo/qkCxGv9ss=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12807,10 +12807,10 @@
   };
   ms-vscode-hexeditor = {
     pname = "ms-vscode-hexeditor";
-    version = "1.9.5";
+    version = "1.9.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.5/file/ms-vscode.hexeditor-1.9.5.vsix";
-      sha256 = "sha256-fY5OX8VnwW2ejw/IVcCSvR5iidSVK16i45ytGu5zbpE=";
+      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.6/file/ms-vscode.hexeditor-1.9.6.vsix";
+      sha256 = "sha256-9mskyUgEF3UUe7F8OoD3UKyo+OGUa2RcEZTOXACkuLw=";
     };
     name = "hexeditor";
     license = "MIT";
@@ -18459,10 +18459,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.22.3";
+    version = "0.22.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.3/file/vscjava.vscode-java-pack-0.22.3.vsix";
-      sha256 = "sha256-S53q2eFRHJxzVnW5gOXgs4eGSVPqgU65BgAAUvqL5mQ=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.4/file/vscjava.vscode-java-pack-0.22.4.vsix";
+      sha256 = "sha256-LOeZfHzKupT2075yaPMZ3X3JHeSSNVPv4pQocRXkQ5M=";
     };
     name = "vscode-java-pack";
     license = "MIT";

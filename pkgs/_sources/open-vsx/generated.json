@@ -3403,7 +3403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CL-eide",
-    "version": "3.4.2022042201",
+    "version": "3.4.2022042301",
     "passthru": {
       "name": "eide",
       "license": "MIT",
@@ -3411,10 +3411,10 @@
       "description": "An embedded development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
     },
     "src": {
-      "url": "https://open-vsx.org/api/CL/eide/3.4.2022042201/file/CL.eide-3.4.2022042201.vsix",
+      "url": "https://open-vsx.org/api/CL/eide/3.4.2022042301/file/CL.eide-3.4.2022042301.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kI8ohc+G0VCjvwz0FcUjpMZbVoupPdb4yfVvOc8jR7E="
+      "sha256": "sha256-40ErcfiKkFeIrnG4+3Rl4bMSMalqHVeCFTJtfB4R3Jo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5523,7 +5523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-hexeditor",
-    "version": "1.9.5",
+    "version": "1.9.6",
     "passthru": {
       "name": "hexeditor",
       "license": "MIT",
@@ -5531,10 +5531,10 @@
       "description": "Allows viewing and editing files in a hex editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.5/file/ms-vscode.hexeditor-1.9.5.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.6/file/ms-vscode.hexeditor-1.9.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fY5OX8VnwW2ejw/IVcCSvR5iidSVK16i45ytGu5zbpE="
+      "sha256": "sha256-9mskyUgEF3UUe7F8OoD3UKyo+OGUa2RcEZTOXACkuLw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6003,7 +6003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-pack",
-    "version": "0.22.3",
+    "version": "0.22.4",
     "passthru": {
       "name": "vscode-java-pack",
       "license": "MIT",
@@ -6011,10 +6011,10 @@
       "description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.3/file/vscjava.vscode-java-pack-0.22.3.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.4/file/vscjava.vscode-java-pack-0.22.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-S53q2eFRHJxzVnW5gOXgs4eGSVPqgU65BgAAUvqL5mQ="
+      "sha256": "sha256-LOeZfHzKupT2075yaPMZ3X3JHeSSNVPv4pQocRXkQ5M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15383,7 +15383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.2112",
+    "version": "2022.4.2215",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15391,10 +15391,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2112/file/Slint.slint-nightly-2022.4.2112.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2215/file/Slint.slint-nightly-2022.4.2215.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ce4elkuAltCOyJoDu/w8TeTdGsAk2b8a37muauDgabo="
+      "sha256": "sha256-l+bVWgWeGfjvrb0kkSHVfKvca0OlaCmAxIpXOvCrgig="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16763,7 +16763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cschleiden-vscode-github-actions",
-    "version": "0.22.0",
+    "version": "0.24.1",
     "passthru": {
       "name": "vscode-github-actions",
       "license": "MIT",
@@ -16771,10 +16771,10 @@
       "description": "GitHub Actions workflows and runs for github.com hosted repositories in VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.22.0/file/cschleiden.vscode-github-actions-0.22.0.vsix",
+      "url": "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.1/file/cschleiden.vscode-github-actions-0.24.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DxC9L5EYHsVEjXqSr80rBHxIXVgNFkpDfqDlSZu8HgQ="
+      "sha256": "sha256-hXUaCjHz4iZLrnFs5d/Onrh7Zcm9QvrtOuGkDRjb8uA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17503,7 +17503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "185.0.0",
+    "version": "186.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -17511,10 +17511,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/185.0.0/file/lextudio.restructuredtext-185.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/186.0.0/file/lextudio.restructuredtext-186.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dg9WB+rfTJ7Eac4pMkZuDYN64fhK84MtHkKP51SrVOw="
+      "sha256": "sha256-K6Tdbz/2yNt6D+oP86TpFVJ57FDFOmMqo/qkCxGv9ss="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25383,7 +25383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-ko",
-    "version": "1.66.3",
+    "version": "1.67.0",
     "passthru": {
       "name": "vscode-language-pack-ko",
       "license": "MIT",
@@ -25391,10 +25391,10 @@
       "description": "Language pack extension for Korean"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.66.3/file/MS-CEINTL.vscode-language-pack-ko-1.66.3.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.67.0/file/MS-CEINTL.vscode-language-pack-ko-1.67.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oMFIjAHFKz0CxhH4lp5yvGVsVLI5/OBFyVP4GY0uphg="
+      "sha256": "sha256-nqqwpK8Swq0NkuRSha39H940K2VP88TbjIPTf1XKhNU="
     },
     "extract": null,
     "rustGitDeps": null
