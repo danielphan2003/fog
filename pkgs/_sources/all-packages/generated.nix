@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "90d7a7e27dea86792a6c7d9dc5e5a6d81c16dd56";
+    version = "f5804b7386f87e1c5e6c3d01a1724531ae221abd";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "90d7a7e27dea86792a6c7d9dc5e5a6d81c16dd56";
+      rev = "f5804b7386f87e1c5e6c3d01a1724531ae221abd";
       fetchSubmodules = false;
-      sha256 = "sha256-TodIP2A9OohKcoxOzQviIo9HAjEKlm1k+j93YNJLQJM=";
+      sha256 = "sha256-IBPVGMiyRuvwQT6CBWhk/uMyTP7PF7DBpDPu17jdcE4=";
     });
   };
   caddy = {
@@ -1100,10 +1100,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2.27.0";
+    version = "2.28.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.27.0/bw_web_v2.27.0.tar.gz";
-      sha256 = "sha256-r4z45gjVB+RMZM0IE/ec0yf+rt4YDz5IpZEz5FlQSds=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2.28.0/bw_web_v2.28.0.tar.gz";
+      sha256 = "sha256-Ft1OYqDljlg3m1CYSONU0j04v1mKw0iYZxYNbNMuFjc=";
     };
   };
   ventoy = {
