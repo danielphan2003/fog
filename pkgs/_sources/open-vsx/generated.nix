@@ -8487,10 +8487,10 @@
   };
   frenya-vscode-recall = {
     pname = "frenya-vscode-recall";
-    version = "0.11.1";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/frenya/vscode-recall/0.11.1/file/frenya.vscode-recall-0.11.1.vsix";
-      sha256 = "sha256-/P8FjV2besNVqS7CPOiyTnYRT0FnLkC3DkifGKi2xO0=";
+      url = "https://open-vsx.org/api/frenya/vscode-recall/0.11.5/file/frenya.vscode-recall-0.11.5.vsix";
+      sha256 = "sha256-RxMsUwT4zTM2ItS5xsIzaiGaC61unqAP95k00gmCD8I=";
     };
     name = "vscode-recall";
     license = "MIT";
@@ -14499,10 +14499,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.9";
+    version = "2.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.9/file/pomdtr.excalidraw-editor-2.1.9.vsix";
-      sha256 = "sha256-eCXIsNsNaIW5TEcn4Asf2IlEOCGaJyPF8A9100SE3cc=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.12/file/pomdtr.excalidraw-editor-2.1.12.vsix";
+      sha256 = "sha256-34I5liWRNklR/Tz74MG7uxHfFqEaiIOymCdD7qb2Fvc=";
     };
     name = "excalidraw-editor";
     license = "MIT";
@@ -14715,10 +14715,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.15.0";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.15.0/file/quarto.quarto-1.15.0.vsix";
-      sha256 = "sha256-8lZMH3NmhFmXPj9nVpjgpY3xz7RIBoDTLCZSl7sVEBc=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.16.0/file/quarto.quarto-1.16.0.vsix";
+      sha256 = "sha256-/QzUmwMCVIWo+eGQ40iGXH4Iux5XqxlX1Z2wujy6hrk=";
     };
     name = "quarto";
     license = "MIT";
