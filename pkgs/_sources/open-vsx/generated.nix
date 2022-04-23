@@ -5619,10 +5619,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.4.8";
+    version = "2022.4.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.8/file/borkdude.clj-kondo-2022.4.8.vsix";
-      sha256 = "sha256-vsXCwJ4AdTSyw7AFEpfWSVlICV2lj8ZCq4w4y1Z34JM=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.23/file/borkdude.clj-kondo-2022.4.23.vsix";
+      sha256 = "sha256-7mm11n+1sgUCZ/u3jxVsZ5+ejvwAhvjMl9Drowns0Ww=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -18000,6 +18000,30 @@
     license = "LGPL-3.0";
     publisher = "uloco";
     description = "A fancy but yet sophisticated light designer color scheme / theme.";
+  };
+  ultram4rine-sqltools-clickhouse-driver = {
+    pname = "ultram4rine-sqltools-clickhouse-driver";
+    version = "0.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.2/file/ultram4rine.sqltools-clickhouse-driver-0.2.2.vsix";
+      sha256 = "sha256-dvJl+KXd/gxD9SRDSqSS6+NfoEWbwrKQ+cA0mDwOxqM=";
+    };
+    name = "sqltools-clickhouse-driver";
+    license = "MIT";
+    publisher = "ultram4rine";
+    description = "SQLTools driver for ClickHouse";
+  };
+  ultram4rine-vscode-choosealicense = {
+    pname = "ultram4rine-vscode-choosealicense";
+    version = "0.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.0/file/ultram4rine.vscode-choosealicense-0.6.0.vsix";
+      sha256 = "sha256-4nqBgGTZ163oltgPEHYDfZql2f61gMJA4tGJGe2owtw=";
+    };
+    name = "vscode-choosealicense";
+    license = "MIT";
+    publisher = "ultram4rine";
+    description = "Choose a license for your project in VS Code";
   };
   umbo-vscode-velociraptor = {
     pname = "umbo-vscode-velociraptor";

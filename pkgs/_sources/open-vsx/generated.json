@@ -11319,6 +11319,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ultram4rine-sqltools-clickhouse-driver": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ultram4rine-sqltools-clickhouse-driver",
+    "version": "0.2.2",
+    "passthru": {
+      "name": "sqltools-clickhouse-driver",
+      "license": "MIT",
+      "publisher": "ultram4rine",
+      "description": "SQLTools driver for ClickHouse"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.2/file/ultram4rine.sqltools-clickhouse-driver-0.2.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-dvJl+KXd/gxD9SRDSqSS6+NfoEWbwrKQ+cA0mDwOxqM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "vscode-gulp": {
     "pinned": false,
     "cargoLock": null,
@@ -26199,6 +26219,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ultram4rine-vscode-choosealicense": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ultram4rine-vscode-choosealicense",
+    "version": "0.6.0",
+    "passthru": {
+      "name": "vscode-choosealicense",
+      "license": "MIT",
+      "publisher": "ultram4rine",
+      "description": "Choose a license for your project in VS Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.0/file/ultram4rine.vscode-choosealicense-0.6.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-4nqBgGTZ163oltgPEHYDfZql2f61gMJA4tGJGe2owtw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "OBKoro1-korofileheader": {
     "pinned": false,
     "cargoLock": null,
@@ -26843,7 +26883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "borkdude-clj-kondo",
-    "version": "2022.4.8",
+    "version": "2022.4.23",
     "passthru": {
       "name": "clj-kondo",
       "license": "EPL-1",
@@ -26851,10 +26891,10 @@
       "description": "Clj-kondo, a linter for Clojure that sparks joy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.8/file/borkdude.clj-kondo-2022.4.8.vsix",
+      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.23/file/borkdude.clj-kondo-2022.4.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vsXCwJ4AdTSyw7AFEpfWSVlICV2lj8ZCq4w4y1Z34JM="
+      "sha256": "sha256-7mm11n+1sgUCZ/u3jxVsZ5+ejvwAhvjMl9Drowns0Ww="
     },
     "extract": null,
     "rustGitDeps": null
