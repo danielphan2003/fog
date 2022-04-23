@@ -410,9 +410,9 @@
   },
   "eww": {
     "pinned": false,
-    "cargoLock": "./eww-eec0358324e83f79be2417da8393372c7ddbdb25/Cargo.lock",
+    "cargoLock": "./eww-6b7fa5d55ccd560a3c95b93caa2e945662953db8/Cargo.lock",
     "name": "eww",
-    "version": "eec0358324e83f79be2417da8393372c7ddbdb25",
+    "version": "6b7fa5d55ccd560a3c95b93caa2e945662953db8",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -422,8 +422,8 @@
       "name": null,
       "repo": "eww",
       "type": "github",
-      "sha256": "sha256-q7juByy9HHLSBVJKdFRyUpVtryfGcRYEoZpKv/u0vmY=",
-      "rev": "eec0358324e83f79be2417da8393372c7ddbdb25"
+      "sha256": "sha256-1pO7DMxCWU0+yHGtPVD3iaRfOKabP8RXvTsdC+sYSUk=",
+      "rev": "6b7fa5d55ccd560a3c95b93caa2e945662953db8"
     },
     "extract": null,
     "rustGitDeps": {}
