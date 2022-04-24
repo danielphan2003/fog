@@ -3699,10 +3699,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.8.3";
+    version = "9.8.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.8.3/file/YXL.cloudmusic-9.8.3.vsix";
-      sha256 = "sha256-4HWwuXoMoBR4rDnHk9V2tEFCy39OM60RQg46xAzhOIg=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.8.4/file/YXL.cloudmusic-9.8.4.vsix";
+      sha256 = "sha256-+xtmYjUQwPDVFW1phVo76ttVzE5ys1jRa0px+aoeyMI=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -18168,6 +18168,18 @@
     license = "MIT";
     publisher = "usernamehw";
     description = "Todo tracking based on `todo.txt` format.";
+  };
+  usernamehw-vscode-join-lines = {
+    pname = "usernamehw-vscode-join-lines";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.0/file/usernamehw.vscode-join-lines-0.1.0.vsix";
+      sha256 = "sha256-LJvfaJLFy5I6fTjKu8ffd0KY1twn74wvF+NAd2gFZ2s=";
+    };
+    name = "vscode-join-lines";
+    license = "MIT";
+    publisher = "usernamehw";
+    description = "Join Lines in editor (with custom separator)";
   };
   vadimcn-vscode-lldb = {
     pname = "vadimcn-vscode-lldb";
