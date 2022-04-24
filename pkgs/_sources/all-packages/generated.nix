@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fc14157d765ce44e634525b2c437808e20ec93d6";
+    version = "3b3718df3d8e8f729980408ac86dffb041a0fcff";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "fc14157d765ce44e634525b2c437808e20ec93d6";
+      rev = "3b3718df3d8e8f729980408ac86dffb041a0fcff";
       fetchSubmodules = false;
-      sha256 = "sha256-ZGauVf0Us6jP1Y1e5z2wAppu79Z5MlH03M26Is+nXHQ=";
+      sha256 = "sha256-wUal7y+Dpk0g7aHZWFstfwD8FgrBX3PVzGrbf/v2ih8=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1613ebdfb4b6e4f48af8d3d9ee9f9acba924dcc0";
+    version = "6a537a656d0300fd14ed2243d50b48a2878faf1a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1613ebdfb4b6e4f48af8d3d9ee9f9acba924dcc0";
+      rev = "6a537a656d0300fd14ed2243d50b48a2878faf1a";
       fetchSubmodules = false;
-      sha256 = "sha256-JVPUBfHJa8peF9HMI3lZMPKFv3Fbu5uAvT9JEbhHpng=";
+      sha256 = "sha256-TtKCUWpjs2mDaSmk74iNkSI6XEeh3XJMoSogGwoe+sE=";
     });
   };
   rofi-wayland = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "7854ad5ee1740a7d78896c85ee8ef95cf8cd17dc";
+    version = "e2161bcc433dae52281baa3b94611711caf54ba9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "7854ad5ee1740a7d78896c85ee8ef95cf8cd17dc";
+      rev = "e2161bcc433dae52281baa3b94611711caf54ba9";
       fetchSubmodules = false;
-      sha256 = "sha256-GkG8G8hv8KPUdnebhzJRzcuhwVwH9J+P+1yYJkgA8WI=";
+      sha256 = "sha256-mVnhG4HptvGByTv0lSHoOIk1joxCi9mpRIKeSJNhYec=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-7854ad5ee1740a7d78896c85ee8ef95cf8cd17dc/Cargo.lock;
+      lockFile = ./rustdesk-e2161bcc433dae52281baa3b94611711caf54ba9/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
