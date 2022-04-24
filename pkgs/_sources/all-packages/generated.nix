@@ -281,13 +281,13 @@
   };
   dribbblish-dynamic-theme = {
     pname = "dribbblish-dynamic-theme";
-    version = "9ea343f1939f74174383c550d5f5c6002d70993b";
+    version = "69f283c7a99ee7b344309c2da6d18b02d8929305";
     src = fetchFromGitHub ({
       owner = "JulienMaille";
       repo = "dribbblish-dynamic-theme";
-      rev = "9ea343f1939f74174383c550d5f5c6002d70993b";
+      rev = "69f283c7a99ee7b344309c2da6d18b02d8929305";
       fetchSubmodules = false;
-      sha256 = "sha256-Zp0Ws3n4J4o6TLpnXYUaeqHCYyoi43tUVU9nAh8+7UA=";
+      sha256 = "sha256-ghuuLM7AIb2UCVk9S77352POqXaz8xYet9wllJfimJ0=";
     });
   };
   droidcam = {
@@ -916,13 +916,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "e352d6752a2a91a44d274b5452690d09c429eb8b";
+    version = "427e9c6d9dcc658554ade2d8930eccd3ea37d58a";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "e352d6752a2a91a44d274b5452690d09c429eb8b";
+      rev = "427e9c6d9dcc658554ade2d8930eccd3ea37d58a";
       fetchSubmodules = false;
-      sha256 = "sha256-OMlV6+c5dSSbHGf05L3phmcfp6NFVAW3xeyk6bD/VPM=";
+      sha256 = "sha256-9zea9Ht/ninWuN+Fa7jIlIZ6rSBp8vmN41mY7+yxAYA=";
     });
   };
   spicetify-themes = {
