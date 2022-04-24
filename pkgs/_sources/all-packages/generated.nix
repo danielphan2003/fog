@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "ed81ae7fba1d6714beeb49bdbb8dc9d05d840670";
+    version = "3e054dcdff5d379db4b4e0b6b44879a233706927";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "ed81ae7fba1d6714beeb49bdbb8dc9d05d840670";
+      rev = "3e054dcdff5d379db4b4e0b6b44879a233706927";
       fetchSubmodules = false;
-      sha256 = "sha256-bb6Z6U34megeFkO/4nk5FABWmNcejZjl8bfHKbob1Oo=";
+      sha256 = "sha256-bX7s0fJHH6ZEBFm+Bu2uskkKe2CdZf0+yRWNC2QA3mI=";
     });
   };
   caddy = {
@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "6b7fa5d55ccd560a3c95b93caa2e945662953db8";
+    version = "1daeb0c77a0ff27d5faf086a0f6575366481eab7";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "6b7fa5d55ccd560a3c95b93caa2e945662953db8";
+      rev = "1daeb0c77a0ff27d5faf086a0f6575366481eab7";
       fetchSubmodules = false;
-      sha256 = "sha256-1pO7DMxCWU0+yHGtPVD3iaRfOKabP8RXvTsdC+sYSUk=";
+      sha256 = "sha256-I69B6XZ6jK9oLe+uKXp4hYHSP7xXsA8/wZ5+PB7rGs4=";
     });
     cargoLock = {
-      lockFile = ./eww-6b7fa5d55ccd560a3c95b93caa2e945662953db8/Cargo.lock;
+      lockFile = ./eww-1daeb0c77a0ff27d5faf086a0f6575366481eab7/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -916,24 +916,24 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "524e9855be42edd076ce42ebc46a8f87a9243b08";
+    version = "7e81937e7c1584ab56b62831ba13b5afdf89d525";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "524e9855be42edd076ce42ebc46a8f87a9243b08";
+      rev = "7e81937e7c1584ab56b62831ba13b5afdf89d525";
       fetchSubmodules = false;
-      sha256 = "sha256-g8EOpBjwZa1Qus3048zsJ1Yb6b+HsDHX3SLD23Vn6oc=";
+      sha256 = "sha256-fna6eE8adNRo6VJKNmAjIzJXQXc3QYIMnwFwyRaQjdg=";
     });
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "5630da75b981bf7f6e27f1cdfe28fc72d676afa1";
+    version = "bfe6478f941d30e79daf366522cf2af96dd47215";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "5630da75b981bf7f6e27f1cdfe28fc72d676afa1";
+      rev = "bfe6478f941d30e79daf366522cf2af96dd47215";
       fetchSubmodules = false;
-      sha256 = "sha256-ZLsIWfBrm6tD2bfIjoKRKl9c5QTll1esYFoAACk0OEw=";
+      sha256 = "sha256-rRwwpl3F5bxq/YZFY9bQ+/5CSXigz/ZN5/aCC4LcoTM=";
     });
   };
   spotify = {
