@@ -17339,6 +17339,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ibijon-dd": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ibijon-dd",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "dd",
+      "license": "MIT",
+      "publisher": "ibijon",
+      "description": "A basic DuckyScript syntax highlighter for codium "
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ibijon/dd/0.0.1/file/ibijon.dd-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-cnZwOm29tkdJcn583oTzepj/WkXHipjrXoZObdtXuXU="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "perrinjerome-vscode-zc-buildout": {
     "pinned": false,
     "cargoLock": null,
@@ -24243,7 +24263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arielcostas-flatcode",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "passthru": {
       "name": "flatcode",
       "license": "Apache-2.0",
@@ -24251,10 +24271,10 @@
       "description": "A port of the FlatLaf theme available in Apache NetBeans, for VSCodium/VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arielcostas/flatcode/0.1.0/file/arielcostas.flatcode-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/arielcostas/flatcode/0.2.0/file/arielcostas.flatcode-0.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AZm/8QVjP+E+3TFcEvNlX8L9gBhu4hJ2ZjK5lChrtcw="
+      "sha256": "sha256-qEK3cQq64Lg4WhiYvQx8YyGDQ5Rrm03IOJI9EuqzD+Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26243,7 +26263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ultram4rine-vscode-choosealicense",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "passthru": {
       "name": "vscode-choosealicense",
       "license": "MIT",
@@ -26251,10 +26271,10 @@
       "description": "Choose a license for your project in VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.0/file/ultram4rine.vscode-choosealicense-0.6.0.vsix",
+      "url": "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.1/file/ultram4rine.vscode-choosealicense-0.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4nqBgGTZ163oltgPEHYDfZql2f61gMJA4tGJGe2owtw="
+      "sha256": "sha256-ZZwWmTPExVObStTQTyUep+U3tVteUbuHTDND6tq2cUI="
     },
     "extract": null,
     "rustGitDeps": null

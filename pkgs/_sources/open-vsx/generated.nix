@@ -4851,10 +4851,10 @@
   };
   arielcostas-flatcode = {
     pname = "arielcostas-flatcode";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arielcostas/flatcode/0.1.0/file/arielcostas.flatcode-0.1.0.vsix";
-      sha256 = "sha256-AZm/8QVjP+E+3TFcEvNlX8L9gBhu4hJ2ZjK5lChrtcw=";
+      url = "https://open-vsx.org/api/arielcostas/flatcode/0.2.0/file/arielcostas.flatcode-0.2.0.vsix";
+      sha256 = "sha256-qEK3cQq64Lg4WhiYvQx8YyGDQ5Rrm03IOJI9EuqzD+Q=";
     };
     name = "flatcode";
     license = "Apache-2.0";
@@ -9456,6 +9456,18 @@
     license = "MIT";
     publisher = "huytd";
     description = "Tokyo City theme, a mixture of City Lights and Tokyo Night";
+  };
+  ibijon-dd = {
+    pname = "ibijon-dd";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ibijon/dd/0.0.1/file/ibijon.dd-0.0.1.vsix";
+      sha256 = "sha256-cnZwOm29tkdJcn583oTzepj/WkXHipjrXoZObdtXuXU=";
+    };
+    name = "dd";
+    license = "MIT";
+    publisher = "ibijon";
+    description = "A basic DuckyScript syntax highlighter for codium ";
   };
   iciclesoft-workspacesort = {
     pname = "iciclesoft-workspacesort";
@@ -18015,10 +18027,10 @@
   };
   ultram4rine-vscode-choosealicense = {
     pname = "ultram4rine-vscode-choosealicense";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.0/file/ultram4rine.vscode-choosealicense-0.6.0.vsix";
-      sha256 = "sha256-4nqBgGTZ163oltgPEHYDfZql2f61gMJA4tGJGe2owtw=";
+      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.1/file/ultram4rine.vscode-choosealicense-0.6.1.vsix";
+      sha256 = "sha256-ZZwWmTPExVObStTQTyUep+U3tVteUbuHTDND6tq2cUI=";
     };
     name = "vscode-choosealicense";
     license = "MIT";
