@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "640f0faa296d86d54d3a86ef4e7501578fdf4c75";
+    version = "41c957265b29972c408e8da3d936d7c751008aaf";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "640f0faa296d86d54d3a86ef4e7501578fdf4c75";
+      rev = "41c957265b29972c408e8da3d936d7c751008aaf";
       fetchSubmodules = false;
-      sha256 = "sha256-Blr6uu68RTp/jeC7XQTqtMYbNsRjZeTep+p4cM0irGs=";
+      sha256 = "sha256-01cCuSRDTsLxqkjTyKKAaZNQPCwSlKxFaIHiwh1RGC0=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d79837633027838a334db182e37f6ad6712cd248";
+    version = "c35517d44e983524760109ea7864c2ace91e5f9e";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d79837633027838a334db182e37f6ad6712cd248";
+      rev = "c35517d44e983524760109ea7864c2ace91e5f9e";
       fetchSubmodules = false;
-      sha256 = "sha256-q93MkxDa8DLenzTNGh9tN73aSxUDrOAdButNtKVblZ0=";
+      sha256 = "sha256-dPMNLr9QmMRBCfKqrCpG0l3yRMcz3kzihFI0Wh72NKA=";
     });
   };
   ibus = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e2161bcc433dae52281baa3b94611711caf54ba9";
+    version = "f1d187739c0b2a0edf2466201785ec909571a813";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e2161bcc433dae52281baa3b94611711caf54ba9";
+      rev = "f1d187739c0b2a0edf2466201785ec909571a813";
       fetchSubmodules = false;
-      sha256 = "sha256-mVnhG4HptvGByTv0lSHoOIk1joxCi9mpRIKeSJNhYec=";
+      sha256 = "sha256-pCTOqtx0gy96uxJPpQad1jXkyukr+SdhRySQD08voH0=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-e2161bcc433dae52281baa3b94611711caf54ba9/Cargo.lock;
+      lockFile = ./rustdesk-f1d187739c0b2a0edf2466201785ec909571a813/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
