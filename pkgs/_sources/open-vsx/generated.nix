@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.6.0";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.6.0/file/DCsunset.vscode-modal-editor-0.6.0.vsix";
-      sha256 = "sha256-TplBmOuar+V7HTYea6UdMotOMt1EJFTfFuiMNaYXqAQ=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.7.0/file/DCsunset.vscode-modal-editor-0.7.0.vsix";
+      sha256 = "sha256-s0qOKrqT2wQIpToYIqB94IiS9DSSaInNgN0QgZn7ZF8=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -20619,10 +20619,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.9.41";
+    version = "0.9.43";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.9.41/file/znck.vue-0.9.41.vsix";
-      sha256 = "sha256-Q0XHc03dGxjAtgIDVbPV1vXDN9IbdaSBKr3DrCa45pc=";
+      url = "https://open-vsx.org/api/znck/vue/0.9.43/file/znck.vue-0.9.43.vsix";
+      sha256 = "sha256-f10RGNAHlRf3UbMya5KgeYrpmmSYSaJaRP4QDOLQJqI=";
     };
     name = "vue";
     license = "MIT";
@@ -20631,10 +20631,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.9.39";
+    version = "0.9.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.39/file/znck.vue-language-features-0.9.39.vsix";
-      sha256 = "sha256-+NyhKrY5mtcz8CslYJMD7Vb8xK1T2QFq27+Z5EoFT6w=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.9.41/file/znck.vue-language-features-0.9.41.vsix";
+      sha256 = "sha256-gq6O6uPSO9LNzM/Ve2OYffYYW0sXoU+0wCK2r6zrgHM=";
     };
     name = "vue-language-features";
     license = "MIT";
