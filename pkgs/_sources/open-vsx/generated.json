@@ -13283,7 +13283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.311",
+    "version": "0.25.312",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13291,10 +13291,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.311/file/pokey.cursorless-0.25.311.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.312/file/pokey.cursorless-0.25.312.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PIgN622QUZyBgIkURhUV4ZurqhMm0cVNgI7lM+MK6tI="
+      "sha256": "sha256-LvwcCDzAOPy2DwdOxBycWPKVJK7uz2ygZbKe0QhTTaY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22863,7 +22863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jsw-csharpextensions",
-    "version": "1.6.2",
+    "version": "1.6.3",
     "passthru": {
       "name": "csharpextensions",
       "license": "MIT",
@@ -22871,10 +22871,10 @@
       "description": "C# IDE Extensions for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jsw/csharpextensions/1.6.2/file/jsw.csharpextensions-1.6.2.vsix",
+      "url": "https://open-vsx.org/api/jsw/csharpextensions/1.6.3/file/jsw.csharpextensions-1.6.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lSc8vIa0MiTU36WEwYOWKjUgHAEQoBKaui11RUd6Vvs="
+      "sha256": "sha256-ixkkwbbC2/F5sOJ9nQ70Cj3yTJGv5I565sGFdwSxQZc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26263,7 +26263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ultram4rine-vscode-choosealicense",
-    "version": "0.6.1",
+    "version": "0.6.2",
     "passthru": {
       "name": "vscode-choosealicense",
       "license": "MIT",
@@ -26271,10 +26271,10 @@
       "description": "Choose a license for your project in VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.1/file/ultram4rine.vscode-choosealicense-0.6.1.vsix",
+      "url": "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.2/file/ultram4rine.vscode-choosealicense-0.6.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZZwWmTPExVObStTQTyUep+U3tVteUbuHTDND6tq2cUI="
+      "sha256": "sha256-eGMbw6mT8WI2wuPRta4ZP8Ker2eql3IzFMe4UB5JYm8="
     },
     "extract": null,
     "rustGitDeps": null

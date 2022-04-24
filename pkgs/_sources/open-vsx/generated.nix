@@ -10587,10 +10587,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.6.2";
+    version = "1.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.2/file/jsw.csharpextensions-1.6.2.vsix";
-      sha256 = "sha256-lSc8vIa0MiTU36WEwYOWKjUgHAEQoBKaui11RUd6Vvs=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.3/file/jsw.csharpextensions-1.6.3.vsix";
+      sha256 = "sha256-ixkkwbbC2/F5sOJ9nQ70Cj3yTJGv5I565sGFdwSxQZc=";
     };
     name = "csharpextensions";
     license = "MIT";
@@ -14475,10 +14475,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.311";
+    version = "0.25.312";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.311/file/pokey.cursorless-0.25.311.vsix";
-      sha256 = "sha256-PIgN622QUZyBgIkURhUV4ZurqhMm0cVNgI7lM+MK6tI=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.312/file/pokey.cursorless-0.25.312.vsix";
+      sha256 = "sha256-LvwcCDzAOPy2DwdOxBycWPKVJK7uz2ygZbKe0QhTTaY=";
     };
     name = "cursorless";
     license = "MIT";
@@ -18027,10 +18027,10 @@
   };
   ultram4rine-vscode-choosealicense = {
     pname = "ultram4rine-vscode-choosealicense";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.1/file/ultram4rine.vscode-choosealicense-0.6.1.vsix";
-      sha256 = "sha256-ZZwWmTPExVObStTQTyUep+U3tVteUbuHTDND6tq2cUI=";
+      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.2/file/ultram4rine.vscode-choosealicense-0.6.2.vsix";
+      sha256 = "sha256-eGMbw6mT8WI2wuPRta4ZP8Ker2eql3IzFMe4UB5JYm8=";
     };
     name = "vscode-choosealicense";
     license = "MIT";
