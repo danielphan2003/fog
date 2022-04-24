@@ -12479,6 +12479,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "usernamehw-vscode-join-lines": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "usernamehw-vscode-join-lines",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "vscode-join-lines",
+      "license": "MIT",
+      "publisher": "usernamehw",
+      "description": "Join Lines in editor (with custom separator)"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.0/file/usernamehw.vscode-join-lines-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-LJvfaJLFy5I6fTjKu8ffd0KY1twn74wvF+NAd2gFZ2s="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "armandphilippot-coldark": {
     "pinned": false,
     "cargoLock": null,
@@ -25803,7 +25823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "YXL-cloudmusic",
-    "version": "9.8.3",
+    "version": "9.8.4",
     "passthru": {
       "name": "cloudmusic",
       "license": "MIT",
@@ -25811,10 +25831,10 @@
       "description": "Netease Music for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.8.3/file/YXL.cloudmusic-9.8.3.vsix",
+      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.8.4/file/YXL.cloudmusic-9.8.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4HWwuXoMoBR4rDnHk9V2tEFCy39OM60RQg46xAzhOIg="
+      "sha256": "sha256-+xtmYjUQwPDVFW1phVo76ttVzE5ys1jRa0px+aoeyMI="
     },
     "extract": null,
     "rustGitDeps": null
