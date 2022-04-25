@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-874";
+    version = "1.0-875";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-874-1_all.deb";
-      sha256 = "sha256-Xwx16zq0Nx5AM1jmXcWQoCtoLNSurFDlp0TlLcka3Zk=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-875-1_all.deb";
+      sha256 = "sha256-wr3kPnDfbSh4BxrUlvPqIvQoz6IX6QMTmGhK7mfvqI8=";
     };
   };
   jitsi-meet = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-665-g3a90ccdc";
+    version = "2.1-671-g621d73c0";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-665-g3a90ccdc-1_all.deb";
-      sha256 = "sha256-3WRfFS1OSX15S9nno+lxaH11wcRuaI82/L9pDn0xqtQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-671-g621d73c0-1_all.deb";
+      sha256 = "sha256-UChy7CaiJ60YDKPGvhDX/E61+bkPPI42puTPNA/jycY=";
     };
   };
   layout-machi = {
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "1a19aed4108ae8fb3155442e6f2db38a076a5088";
+    version = "80ba161c40f676c9118d92b4fc6d10cbececb329";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "1a19aed4108ae8fb3155442e6f2db38a076a5088";
+      rev = "80ba161c40f676c9118d92b4fc6d10cbececb329";
       fetchSubmodules = false;
-      sha256 = "sha256-+zup2IPxDmyybnHrvAdub6A7+y74SDN9O7J8VeWx+nc=";
+      sha256 = "sha256-RgeuXIy4b4MxoexJPgTHQb8tkDZTsm3W/S5lZomIOqA=";
     });
   };
   tailscale-systray = {
