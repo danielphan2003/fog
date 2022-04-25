@@ -14523,10 +14523,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.314";
+    version = "0.25.315";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.314/file/pokey.cursorless-0.25.314.vsix";
-      sha256 = "sha256-xtBRTi3S2gTLJDjrfJdx50EsdYx6wUvN/MYh5Ck0t8Y=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.315/file/pokey.cursorless-0.25.315.vsix";
+      sha256 = "sha256-bzjvC2bjrFmInCPdgnCOCPh0RGjHrEvmcfM+aVk/yeU=";
     };
     name = "cursorless";
     license = "MIT";
@@ -14775,10 +14775,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.16.0";
+    version = "1.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.16.0/file/quarto.quarto-1.16.0.vsix";
-      sha256 = "sha256-/QzUmwMCVIWo+eGQ40iGXH4Iux5XqxlX1Z2wujy6hrk=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.17.0/file/quarto.quarto-1.17.0.vsix";
+      sha256 = "sha256-fRS+fhfnAO0gCVl+8J6m2Qc9wfGi8q42HDSslAWXn2E=";
     };
     name = "quarto";
     license = "MIT";
@@ -18231,10 +18231,10 @@
   };
   usernamehw-vscode-join-lines = {
     pname = "usernamehw-vscode-join-lines";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.0/file/usernamehw.vscode-join-lines-0.1.0.vsix";
-      sha256 = "sha256-LJvfaJLFy5I6fTjKu8ffd0KY1twn74wvF+NAd2gFZ2s=";
+      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.1/file/usernamehw.vscode-join-lines-0.1.1.vsix";
+      sha256 = "sha256-12pgXwXklrx8X770M39KO2QDo8J8dNG88YDhMRksEvs=";
     };
     name = "vscode-join-lines";
     license = "MIT";

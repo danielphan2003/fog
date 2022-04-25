@@ -7543,7 +7543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.16.0",
+    "version": "1.17.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7551,10 +7551,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.16.0/file/quarto.quarto-1.16.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.17.0/file/quarto.quarto-1.17.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/QzUmwMCVIWo+eGQ40iGXH4Iux5XqxlX1Z2wujy6hrk="
+      "sha256": "sha256-fRS+fhfnAO0gCVl+8J6m2Qc9wfGi8q42HDSslAWXn2E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12503,7 +12503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-vscode-join-lines",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "passthru": {
       "name": "vscode-join-lines",
       "license": "MIT",
@@ -12511,10 +12511,10 @@
       "description": "Join Lines in editor (with custom separator)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.0/file/usernamehw.vscode-join-lines-0.1.0.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.1/file/usernamehw.vscode-join-lines-0.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LJvfaJLFy5I6fTjKu8ffd0KY1twn74wvF+NAd2gFZ2s="
+      "sha256": "sha256-12pgXwXklrx8X770M39KO2QDo8J8dNG88YDhMRksEvs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13303,7 +13303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.314",
+    "version": "0.25.315",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13311,10 +13311,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.314/file/pokey.cursorless-0.25.314.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.315/file/pokey.cursorless-0.25.315.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xtBRTi3S2gTLJDjrfJdx50EsdYx6wUvN/MYh5Ck0t8Y="
+      "sha256": "sha256-bzjvC2bjrFmInCPdgnCOCPh0RGjHrEvmcfM+aVk/yeU="
     },
     "extract": null,
     "rustGitDeps": null
