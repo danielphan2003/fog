@@ -4683,7 +4683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adotinthevoid-hare-highlighting",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "passthru": {
       "name": "hare-highlighting",
       "license": "MIT OR Apache-2.0",
@@ -4691,10 +4691,10 @@
       "description": "Syntax Highlighting for Hare"
     },
     "src": {
-      "url": "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.2/file/adotinthevoid.hare-highlighting-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.3/file/adotinthevoid.hare-highlighting-0.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-W6oGEF0vqlkGaLybElpwkli43QfKj5YzR9tIdBLOoYA="
+      "sha256": "sha256-sF7Vt+M+6i3ogjcu+kjuGyucSTd5jswNi2UqHJLSMKU="
     },
     "extract": null,
     "rustGitDeps": null

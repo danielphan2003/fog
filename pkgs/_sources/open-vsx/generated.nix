@@ -4047,10 +4047,10 @@
   };
   adotinthevoid-hare-highlighting = {
     pname = "adotinthevoid-hare-highlighting";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.2/file/adotinthevoid.hare-highlighting-0.0.2.vsix";
-      sha256 = "sha256-W6oGEF0vqlkGaLybElpwkli43QfKj5YzR9tIdBLOoYA=";
+      url = "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.3/file/adotinthevoid.hare-highlighting-0.0.3.vsix";
+      sha256 = "sha256-sF7Vt+M+6i3ogjcu+kjuGyucSTd5jswNi2UqHJLSMKU=";
     };
     name = "hare-highlighting";
     license = "MIT OR Apache-2.0";
