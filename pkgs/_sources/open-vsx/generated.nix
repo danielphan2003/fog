@@ -7179,10 +7179,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.17";
+    version = "0.5.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.17/file/digma.digma-0.5.17.vsix";
-      sha256 = "sha256-pmoN6onDmsTwCffDqZ37yBzFUEcAojW/5Ac7CEGoVM4=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.20/file/digma.digma-0.5.20.vsix";
+      sha256 = "sha256-65DH08mKa2yjjkodZX7bY6bMWTk7kfiJ/fOQ5oUHAvo=";
     };
     name = "digma";
     license = "MIT";
