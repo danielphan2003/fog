@@ -11439,10 +11439,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "186.0.0";
+    version = "187.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/186.0.0/file/lextudio.restructuredtext-186.0.0.vsix";
-      sha256 = "sha256-K6Tdbz/2yNt6D+oP86TpFVJ57FDFOmMqo/qkCxGv9ss=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/187.0.0/file/lextudio.restructuredtext-187.0.0.vsix";
+      sha256 = "sha256-IkAJZLvgcMinWE8BBqRoAO2jFp/XnovUQGogCIAr/Iw=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -18495,10 +18495,10 @@
   };
   vscjava-vscode-java-dependency = {
     pname = "vscjava-vscode-java-dependency";
-    version = "0.19.0";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.19.0/file/vscjava.vscode-java-dependency-0.19.0.vsix";
-      sha256 = "sha256-TOxDcqyjybilIt4+H3An5i+YcrjbOOLulMy+LDu296Q=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.19.1/file/vscjava.vscode-java-dependency-0.19.1.vsix";
+      sha256 = "sha256-zCCmIKdad5wSETEb6WmZ19KLToWiUMzdCpTVMAZRLnk=";
     };
     name = "vscode-java-dependency";
     license = "MIT";
@@ -20343,10 +20343,10 @@
   };
   yzhang-markdown-all-in-one = {
     pname = "yzhang-markdown-all-in-one";
-    version = "3.4.0";
+    version = "3.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yzhang/markdown-all-in-one/3.4.0/file/yzhang.markdown-all-in-one-3.4.0.vsix";
-      sha256 = "sha256-TFdvlN662Hvb6VlIqbtdt0W582SrS2R5cSRowHH0j8M=";
+      url = "https://open-vsx.org/api/yzhang/markdown-all-in-one/3.5.0/file/yzhang.markdown-all-in-one-3.5.0.vsix";
+      sha256 = "sha256-dD39pR4tW+icCejoIn9dphwMMHAeGmO9u8kFo7xaz9g=";
     };
     name = "markdown-all-in-one";
     license = "MIT";
