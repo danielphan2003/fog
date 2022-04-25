@@ -7777,6 +7777,18 @@
     publisher = "epsilon";
     description = "Epsilon Languages";
   };
+  ericzhu-lsp-web-extension-sample = {
+    pname = "ericzhu-lsp-web-extension-sample";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ericzhu/lsp-web-extension-sample/1.0.0/file/ericzhu.lsp-web-extension-sample-1.0.0.vsix";
+      sha256 = "sha256-I0qTuCFseK2tGwBgP7fPf2BJCXGQiQ54BJ1kcsmSc/E=";
+    };
+    name = "lsp-web-extension-sample";
+    license = "MIT";
+    publisher = "ericzhu";
+    description = "A language server in a web extension";
+  };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
     version = "0.0.32";
