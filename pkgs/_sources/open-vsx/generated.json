@@ -17843,7 +17843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.9",
+    "version": "0.17.10",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -17851,10 +17851,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.9/file/Marko-JS.marko-vscode-0.17.9.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.10/file/Marko-JS.marko-vscode-0.17.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jWkJRcAJY6d1+HhzWti1zsdpySObhp8hjktjpiXJkWE="
+      "sha256": "sha256-56H/TtyuMozE5nezTbvwZG3WHYGIEV/hR/9GepWfQAI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31263,7 +31263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.877",
+    "version": "31.0.880",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31271,10 +31271,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.877/file/Prisma.prisma-insider-31.0.877.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.880/file/Prisma.prisma-insider-31.0.880.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qD2NC6J72srkOypLgaFB64CE1M5ANN8lpXOnUy9zft8="
+      "sha256": "sha256-GgJMJwDbunfnVGJX/+242p0CL4AF/ANEBAXzi5Vc0ak="
     },
     "extract": null,
     "rustGitDeps": null

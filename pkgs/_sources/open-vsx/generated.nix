@@ -2283,10 +2283,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.9";
+    version = "0.17.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.9/file/Marko-JS.marko-vscode-0.17.9.vsix";
-      sha256 = "sha256-jWkJRcAJY6d1+HhzWti1zsdpySObhp8hjktjpiXJkWE=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.10/file/Marko-JS.marko-vscode-0.17.10.vsix";
+      sha256 = "sha256-56H/TtyuMozE5nezTbvwZG3WHYGIEV/hR/9GepWfQAI=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.877";
+    version = "31.0.880";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.877/file/Prisma.prisma-insider-31.0.877.vsix";
-      sha256 = "sha256-qD2NC6J72srkOypLgaFB64CE1M5ANN8lpXOnUy9zft8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.880/file/Prisma.prisma-insider-31.0.880.vsix";
+      sha256 = "sha256-GgJMJwDbunfnVGJX/+242p0CL4AF/ANEBAXzi5Vc0ak=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
