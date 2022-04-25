@@ -3403,7 +3403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CL-eide",
-    "version": "3.4.2022042301",
+    "version": "3.4.2022042501",
     "passthru": {
       "name": "eide",
       "license": "MIT",
@@ -3411,10 +3411,10 @@
       "description": "An embedded development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
     },
     "src": {
-      "url": "https://open-vsx.org/api/CL/eide/3.4.2022042301/file/CL.eide-3.4.2022042301.vsix",
+      "url": "https://open-vsx.org/api/CL/eide/3.4.2022042501/file/CL.eide-3.4.2022042501.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-40ErcfiKkFeIrnG4+3Rl4bMSMalqHVeCFTJtfB4R3Jo="
+      "sha256": "sha256-hMq7w5uwmLzIGEeBj9S6O7xtcVzZh1aeFIHeWqOxs7Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7463,7 +7463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zokugun-sync-settings",
-    "version": "0.11.0",
+    "version": "0.12.0",
     "passthru": {
       "name": "sync-settings",
       "license": "MIT",
@@ -7471,10 +7471,10 @@
       "description": "Easily synchronize your settings"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.11.0/file/zokugun.sync-settings-0.11.0.vsix",
+      "url": "https://open-vsx.org/api/zokugun/sync-settings/0.12.0/file/zokugun.sync-settings-0.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YDmoUlh/KQ3N9mLuV6iVAR+PO4SRIcvud8C56HEoAOI="
+      "sha256": "sha256-/pmB7OZePKYiExBRkvjzp23nIUdEP0QEcQM02DpY4DA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16223,7 +16223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sumneko-lua",
-    "version": "2.5.3",
+    "version": "3.2.0",
     "passthru": {
       "name": "lua",
       "license": "MIT",
@@ -16231,10 +16231,10 @@
       "description": "Lua Language Server coded by Lua"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sumneko/lua/2.5.3/file/sumneko.lua-2.5.3.vsix",
+      "url": "https://open-vsx.org/api/sumneko/lua/3.2.0/file/sumneko.lua-3.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aMjR2PNawaA+4ckjYN7+QHrouxzoAhO3NcVbTeN1cK0="
+      "sha256": "sha256-cjpjyEfVvj4vO5zS4QkvV0danbBDdZ/pBXoYRVdQFO4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17843,7 +17843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.19",
+    "version": "0.13.20",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -17851,10 +17851,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.19/file/shufo.vscode-blade-formatter-0.13.19.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.20/file/shufo.vscode-blade-formatter-0.13.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-igvBngHCiiOdrnhyFV9HlCKZHCg2v+T5ITwk7Y3ZKkI="
+      "sha256": "sha256-3t6ax4xmPizVKZO2BrDCaRqYJDrAyqUz7sXe6CEyUks="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19775,6 +19775,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-x6sMIOOwIwqXfqWkQSXboycBbuzmBCD33UtKinnvvaQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ibijon4-duckyscript": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ibijon4-duckyscript",
+    "version": "0.1.2",
+    "passthru": {
+      "name": "duckyscript",
+      "license": "MIT",
+      "publisher": "ibijon4",
+      "description": "A basic DuckyScript syntax highlighter for codium "
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ibijon4/duckyscript/0.1.2/file/ibijon4.duckyscript-0.1.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-v3TfHXq/gj+JWUu6ENRLpw3emcJ/DFy0QrKq8MZdBNE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28999,6 +29019,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "pickoba-satysfi-workshop": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "pickoba-satysfi-workshop",
+    "version": "1.1.1",
+    "passthru": {
+      "name": "satysfi-workshop",
+      "license": "Apache-2.0",
+      "publisher": "pickoba",
+      "description": "Launguage support for SATySFi"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/pickoba/satysfi-workshop/1.1.1/file/pickoba.satysfi-workshop-1.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-hQbLtO1eVfReN9LxAiiVrDxI+cpQLmUPVdNLY+s9Q+I="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Gruntfuggly-open-url": {
     "pinned": false,
     "cargoLock": null,
@@ -29755,6 +29795,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-2IHBM5TodOgwl8LQhGjH3lO4YHwnFJiuygPJ7ydJnDs="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ibijon-duckyscript": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ibijon-duckyscript",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "duckyscript",
+      "license": "MIT",
+      "publisher": "ibijon",
+      "description": "A basic DuckyScript syntax highlighter for codium "
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ibijon/duckyscript/0.0.1/file/ibijon.duckyscript-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-w91FaeKVaqDJCuttSC0OuQUDHp1BkI9F7F3Rvw8ZE9k="
     },
     "extract": null,
     "rustGitDeps": null

@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.4.2022042301";
+    version = "3.4.2022042501";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.4.2022042301/file/CL.eide-3.4.2022042301.vsix";
-      sha256 = "sha256-40ErcfiKkFeIrnG4+3Rl4bMSMalqHVeCFTJtfB4R3Jo=";
+      url = "https://open-vsx.org/api/CL/eide/3.4.2022042501/file/CL.eide-3.4.2022042501.vsix";
+      sha256 = "sha256-hMq7w5uwmLzIGEeBj9S6O7xtcVzZh1aeFIHeWqOxs7Y=";
     };
     name = "eide";
     license = "MIT";
@@ -9469,6 +9469,30 @@
     publisher = "ibijon";
     description = "A basic DuckyScript syntax highlighter for codium ";
   };
+  ibijon-duckyscript = {
+    pname = "ibijon-duckyscript";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ibijon/duckyscript/0.0.1/file/ibijon.duckyscript-0.0.1.vsix";
+      sha256 = "sha256-w91FaeKVaqDJCuttSC0OuQUDHp1BkI9F7F3Rvw8ZE9k=";
+    };
+    name = "duckyscript";
+    license = "MIT";
+    publisher = "ibijon";
+    description = "A basic DuckyScript syntax highlighter for codium ";
+  };
+  ibijon4-duckyscript = {
+    pname = "ibijon4-duckyscript";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ibijon4/duckyscript/0.1.2/file/ibijon4.duckyscript-0.1.2.vsix";
+      sha256 = "sha256-v3TfHXq/gj+JWUu6ENRLpw3emcJ/DFy0QrKq8MZdBNE=";
+    };
+    name = "duckyscript";
+    license = "MIT";
+    publisher = "ibijon4";
+    description = "A basic DuckyScript syntax highlighter for codium ";
+  };
   iciclesoft-workspacesort = {
     pname = "iciclesoft-workspacesort";
     version = "1.6.2";
@@ -14221,6 +14245,18 @@
     publisher = "philosowaffle";
     description = "Live Preview of OpenApi Schema in VS Code.";
   };
+  pickoba-satysfi-workshop = {
+    pname = "pickoba-satysfi-workshop";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pickoba/satysfi-workshop/1.1.1/file/pickoba.satysfi-workshop-1.1.1.vsix";
+      sha256 = "sha256-hQbLtO1eVfReN9LxAiiVrDxI+cpQLmUPVdNLY+s9Q+I=";
+    };
+    name = "satysfi-workshop";
+    license = "Apache-2.0";
+    publisher = "pickoba";
+    description = "Launguage support for SATySFi";
+  };
   piersdeseilligny-betterfountain = {
     pname = "piersdeseilligny-betterfountain";
     version = "1.10.0";
@@ -16263,10 +16299,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.19";
+    version = "0.13.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.19/file/shufo.vscode-blade-formatter-0.13.19.vsix";
-      sha256 = "sha256-igvBngHCiiOdrnhyFV9HlCKZHCg2v+T5ITwk7Y3ZKkI=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.20/file/shufo.vscode-blade-formatter-0.13.20.vsix";
+      sha256 = "sha256-3t6ax4xmPizVKZO2BrDCaRqYJDrAyqUz7sXe6CEyUks=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -17163,10 +17199,10 @@
   };
   sumneko-lua = {
     pname = "sumneko-lua";
-    version = "2.5.3";
+    version = "3.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sumneko/lua/2.5.3/file/sumneko.lua-2.5.3.vsix";
-      sha256 = "sha256-aMjR2PNawaA+4ckjYN7+QHrouxzoAhO3NcVbTeN1cK0=";
+      url = "https://open-vsx.org/api/sumneko/lua/3.2.0/file/sumneko.lua-3.2.0.vsix";
+      sha256 = "sha256-cjpjyEfVvj4vO5zS4QkvV0danbBDdZ/pBXoYRVdQFO4=";
     };
     name = "lua";
     license = "MIT";
@@ -20691,10 +20727,10 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.11.0";
+    version = "0.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.11.0/file/zokugun.sync-settings-0.11.0.vsix";
-      sha256 = "sha256-YDmoUlh/KQ3N9mLuV6iVAR+PO4SRIcvud8C56HEoAOI=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.12.0/file/zokugun.sync-settings-0.12.0.vsix";
+      sha256 = "sha256-/pmB7OZePKYiExBRkvjzp23nIUdEP0QEcQM02DpY4DA=";
     };
     name = "sync-settings";
     license = "MIT";
