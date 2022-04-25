@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.875";
+    version = "31.0.877";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.875/file/Prisma.prisma-insider-31.0.875.vsix";
-      sha256 = "sha256-TPEYrnttRWr4Knv7/FNE9LrceZB8G/sYKxOjwdTfXXc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.877/file/Prisma.prisma-insider-31.0.877.vsix";
+      sha256 = "sha256-qD2NC6J72srkOypLgaFB64CE1M5ANN8lpXOnUy9zft8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16671,10 +16671,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.11.2";
+    version = "0.11.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.2/file/sourcery.sourcery-0.11.2.vsix";
-      sha256 = "sha256-aVXCFByrUHAz7EGav0EhEx0x3JuZaXqSw77aTDMM9dM=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.3/file/sourcery.sourcery-0.11.3.vsix";
+      sha256 = "sha256-YQLcvIqTcShfItanCAmAgMbKlL3e/g7aMc3QP6e7hqI=";
     };
     name = "sourcery";
     license = "MIT";
@@ -17427,10 +17427,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.9.0";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.9.0/file/tfsec.tfsec-1.9.0.vsix";
-      sha256 = "sha256-j2Bp6WYT4J6uj+ReAlNdOYLz653h7d1BNpeLyoHbDq8=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.10.0/file/tfsec.tfsec-1.10.0.vsix";
+      sha256 = "sha256-KroSM2vvEkK9/WYiHcNAZf23I8pbmVpT02fumIqGDWA=";
     };
     name = "tfsec";
     license = "MIT";
