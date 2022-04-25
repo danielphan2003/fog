@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "c0b9b88d75b1388864538b83924946881ca7f440",
+    "version": "dedd5a377dd7218ddfec26de81c5912027cd3505",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-HBcercfPNJ+mAm5gS8JOa3EebIDVNFdt+gNudfyTusM=",
-      "rev": "c0b9b88d75b1388864538b83924946881ca7f440"
+      "sha256": "sha256-IynJRO/ysxYvz+rmHIqAcJ1Oq/FwZ9jbGIXwh3h0GdU=",
+      "rev": "dedd5a377dd7218ddfec26de81c5912027cd3505"
     },
     "extract": null,
     "rustGitDeps": null
