@@ -904,25 +904,25 @@
   };
   snui = {
     pname = "snui";
-    version = "cc5400214971a6915da5820ddf2ccb7ed73646dc";
+    version = "7a7be859cebe7af4e6bbb02d5a0950b53615e771";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "cc5400214971a6915da5820ddf2ccb7ed73646dc";
+      rev = "7a7be859cebe7af4e6bbb02d5a0950b53615e771";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-74gYNHD0cda41p6RoIQQvmG35KdsPDcBqTiPkZVpll0=";
+      sha256 = "sha256-nd1j+8jZcqdYMQGse6ybGMrQk2mXeCfxxR+ldLOpdmk=";
     };
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "cb299665913727a2dcc5c79bf1e56a8a110c02bf";
+    version = "ff186285b31bae305fdb35e6a3ec29918307be80";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "cb299665913727a2dcc5c79bf1e56a8a110c02bf";
+      rev = "ff186285b31bae305fdb35e6a3ec29918307be80";
       fetchSubmodules = false;
-      sha256 = "sha256-QRF2pNbbDWs8vkFSKjqe1teuMDqt8rPDkgFQAdchFC0=";
+      sha256 = "sha256-6Lhn4O7cJU8SHLd9K2J22qHJzuJUBkfGUP6RyEP0/Zg=";
     });
   };
   spicetify-themes = {

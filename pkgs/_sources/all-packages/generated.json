@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "cc5400214971a6915da5820ddf2ccb7ed73646dc",
+    "version": "7a7be859cebe7af4e6bbb02d5a0950b53615e771",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-74gYNHD0cda41p6RoIQQvmG35KdsPDcBqTiPkZVpll0=",
-      "rev": "cc5400214971a6915da5820ddf2ccb7ed73646dc"
+      "sha256": "sha256-nd1j+8jZcqdYMQGse6ybGMrQk2mXeCfxxR+ldLOpdmk=",
+      "rev": "7a7be859cebe7af4e6bbb02d5a0950b53615e771"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1626,7 +1626,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "cb299665913727a2dcc5c79bf1e56a8a110c02bf",
+    "version": "ff186285b31bae305fdb35e6a3ec29918307be80",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1636,8 +1636,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-QRF2pNbbDWs8vkFSKjqe1teuMDqt8rPDkgFQAdchFC0=",
-      "rev": "cb299665913727a2dcc5c79bf1e56a8a110c02bf"
+      "sha256": "sha256-6Lhn4O7cJU8SHLd9K2J22qHJzuJUBkfGUP6RyEP0/Zg=",
+      "rev": "ff186285b31bae305fdb35e6a3ec29918307be80"
     },
     "extract": null,
     "rustGitDeps": null
