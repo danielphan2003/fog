@@ -1155,10 +1155,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.4-dev.2022.4.6.22.38.30";
+    version = "1.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.4-dev.2022.4.6.22.38.30/file/GitHub.vscode-codeql-1.6.4-dev.2022.4.6.22.38.30.vsix";
-      sha256 = "sha256-B9etR/CSAP27zogsi3NYM6Fu4rDpnBW6FZbOED/uYVI=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.5/file/GitHub.vscode-codeql-1.6.5.vsix";
+      sha256 = "sha256-tGbydcHxg8UJz8yjTy5KklNixNGEXF1S3ECGswWM000=";
     };
     name = "vscode-codeql";
     license = "MIT";
@@ -4045,6 +4045,18 @@
     publisher = "adhamu";
     description = "A bright and colourful theme";
   };
+  adotinthevoid-hare-highlighting = {
+    pname = "adotinthevoid-hare-highlighting";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.2/file/adotinthevoid.hare-highlighting-0.0.2.vsix";
+      sha256 = "sha256-W6oGEF0vqlkGaLybElpwkli43QfKj5YzR9tIdBLOoYA=";
+    };
+    name = "hare-highlighting";
+    license = "MIT OR Apache-2.0";
+    publisher = "adotinthevoid";
+    description = "Syntax Highlighting for Hare";
+  };
   adpyke-codesnap = {
     pname = "adpyke-codesnap";
     version = "1.3.4";
@@ -5619,10 +5631,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.4.23";
+    version = "2022.4.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.23/file/borkdude.clj-kondo-2022.4.23.vsix";
-      sha256 = "sha256-7mm11n+1sgUCZ/u3jxVsZ5+ejvwAhvjMl9Drowns0Ww=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.25/file/borkdude.clj-kondo-2022.4.25.vsix";
+      sha256 = "sha256-RkI9eZGFKwITwjvNbkglP5NVX+tZ2ygwH6mEFG2WwZk=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -14523,10 +14535,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.315";
+    version = "0.25.316";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.315/file/pokey.cursorless-0.25.315.vsix";
-      sha256 = "sha256-bzjvC2bjrFmInCPdgnCOCPh0RGjHrEvmcfM+aVk/yeU=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.316/file/pokey.cursorless-0.25.316.vsix";
+      sha256 = "sha256-/hUcf8xjvbmmtKW/MRtPey9pC4JMfQIjy3zGqCG84/4=";
     };
     name = "cursorless";
     license = "MIT";
