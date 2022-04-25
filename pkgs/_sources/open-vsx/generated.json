@@ -2823,7 +2823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "llvm-vs-code-extensions-vscode-clangd",
-    "version": "0.1.15",
+    "version": "0.1.16",
     "passthru": {
       "name": "vscode-clangd",
       "license": "MIT",
@@ -2831,10 +2831,10 @@
       "description": "C/C++ completion, navigation, and insights"
     },
     "src": {
-      "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.15/file/llvm-vs-code-extensions.vscode-clangd-0.1.15.vsix",
+      "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.16/file/llvm-vs-code-extensions.vscode-clangd-0.1.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5wsxW1O6YB2CLdWOgnmBsKG+EsyJMR0oq44OTcWMzXY="
+      "sha256": "sha256-ivree05j0c/UbUki+yr6lTYX3lWkH23VRZ0GoWUmblA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13303,7 +13303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.312",
+    "version": "0.25.314",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13311,10 +13311,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.312/file/pokey.cursorless-0.25.312.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.314/file/pokey.cursorless-0.25.314.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LvwcCDzAOPy2DwdOxBycWPKVJK7uz2ygZbKe0QhTTaY="
+      "sha256": "sha256-xtBRTi3S2gTLJDjrfJdx50EsdYx6wUvN/MYh5Ck0t8Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15383,7 +15383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "edukera-archetype",
-    "version": "0.53.0",
+    "version": "0.54.0",
     "passthru": {
       "name": "archetype",
       "license": "MIT",
@@ -15391,10 +15391,10 @@
       "description": "DSL to develop smart contracts on the Tezos blockchain."
     },
     "src": {
-      "url": "https://open-vsx.org/api/edukera/archetype/0.53.0/file/edukera.archetype-0.53.0.vsix",
+      "url": "https://open-vsx.org/api/edukera/archetype/0.54.0/file/edukera.archetype-0.54.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0sdc2CG4dtPFDWMgELiko0+ikkN+29UpIVhMa60GkKI="
+      "sha256": "sha256-nqc/LKffs+Sjx+ftwdU2SoZKMITMfKnqS+qzw565rds="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31243,7 +31243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.865",
+    "version": "31.0.875",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31251,10 +31251,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.865/file/Prisma.prisma-insider-31.0.865.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.875/file/Prisma.prisma-insider-31.0.875.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a3kp8XoG+ikmTKVTDfotNiqyH1jWdnUok009iKf0cBQ="
+      "sha256": "sha256-TPEYrnttRWr4Knv7/FNE9LrceZB8G/sYKxOjwdTfXXc="
     },
     "extract": null,
     "rustGitDeps": null

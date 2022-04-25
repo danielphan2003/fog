@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.865";
+    version = "31.0.875";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.865/file/Prisma.prisma-insider-31.0.865.vsix";
-      sha256 = "sha256-a3kp8XoG+ikmTKVTDfotNiqyH1jWdnUok009iKf0cBQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.875/file/Prisma.prisma-insider-31.0.875.vsix";
+      sha256 = "sha256-TPEYrnttRWr4Knv7/FNE9LrceZB8G/sYKxOjwdTfXXc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7539,10 +7539,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.53.0";
+    version = "0.54.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.53.0/file/edukera.archetype-0.53.0.vsix";
-      sha256 = "sha256-0sdc2CG4dtPFDWMgELiko0+ikkN+29UpIVhMa60GkKI=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.54.0/file/edukera.archetype-0.54.0.vsix";
+      sha256 = "sha256-nqc/LKffs+Sjx+ftwdU2SoZKMITMfKnqS+qzw565rds=";
     };
     name = "archetype";
     license = "MIT";
@@ -11619,10 +11619,10 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.15";
+    version = "0.1.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.15/file/llvm-vs-code-extensions.vscode-clangd-0.1.15.vsix";
-      sha256 = "sha256-5wsxW1O6YB2CLdWOgnmBsKG+EsyJMR0oq44OTcWMzXY=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.16/file/llvm-vs-code-extensions.vscode-clangd-0.1.16.vsix";
+      sha256 = "sha256-ivree05j0c/UbUki+yr6lTYX3lWkH23VRZ0GoWUmblA=";
     };
     name = "vscode-clangd";
     license = "MIT";
@@ -14523,10 +14523,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.312";
+    version = "0.25.314";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.312/file/pokey.cursorless-0.25.312.vsix";
-      sha256 = "sha256-LvwcCDzAOPy2DwdOxBycWPKVJK7uz2ygZbKe0QhTTaY=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.314/file/pokey.cursorless-0.25.314.vsix";
+      sha256 = "sha256-xtBRTi3S2gTLJDjrfJdx50EsdYx6wUvN/MYh5Ck0t8Y=";
     };
     name = "cursorless";
     license = "MIT";
