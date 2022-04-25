@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6106",
+    "version": "1.0.6107",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6106-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6107-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+eyrQSD9NH6WKX3E0vypL0hZNTFqb42Df755zUHcRyE="
+      "sha256": "sha256-mAA85VnS9zg3dkLGT1ueX7cjhhThpWbzienCYfYAIHw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6106",
+    "version": "1.0.6107",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6106.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6107.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vXy1wn+VLu2qfpNFqRM1Swb0h6Ic2LLz3RHtUk9BjQ8="
+      "sha256": "sha256-DRgrRjlhBBDNzvQ/L+os5K4VPGId4jHF0g4KSLV+2UE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "9eae3b3c3bdef052f93c9d63fe29aca77c2df206",
+    "version": "cabab409e6eb331ff435147dd12c16c7f507ce05",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-QIQy5XQY3mhCgyPqToProLifY55Su0ZHhIrhJ0wcaJk=",
-      "rev": "9eae3b3c3bdef052f93c9d63fe29aca77c2df206"
+      "sha256": "sha256-hOWh8b2NTiIWL1fHSCgPRYPAL+wGtvfXoW1y+XXLabI=",
+      "rev": "cabab409e6eb331ff435147dd12c16c7f507ce05"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1626,7 +1626,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "427e9c6d9dcc658554ade2d8930eccd3ea37d58a",
+    "version": "cb299665913727a2dcc5c79bf1e56a8a110c02bf",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1636,8 +1636,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-9zea9Ht/ninWuN+Fa7jIlIZ6rSBp8vmN41mY7+yxAYA=",
-      "rev": "427e9c6d9dcc658554ade2d8930eccd3ea37d58a"
+      "sha256": "sha256-QRF2pNbbDWs8vkFSKjqe1teuMDqt8rPDkgFQAdchFC0=",
+      "rev": "cb299665913727a2dcc5c79bf1e56a8a110c02bf"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "80ba161c40f676c9118d92b4fc6d10cbececb329",
+    "version": "5fb8e01a8b768fc199f725dbd4faf614e22da6b1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-RgeuXIy4b4MxoexJPgTHQb8tkDZTsm3W/S5lZomIOqA=",
-      "rev": "80ba161c40f676c9118d92b4fc6d10cbececb329"
+      "sha256": "sha256-ZXhPI86wsnzWoOMAP7jQf2uL28WyS9owub3swWDz6Q4=",
+      "rev": "5fb8e01a8b768fc199f725dbd4faf614e22da6b1"
     },
     "extract": null,
     "rustGitDeps": null
