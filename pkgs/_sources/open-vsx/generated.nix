@@ -6711,10 +6711,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.12";
+    version = "0.11.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.12/file/d-biehl.robotcode-0.11.12.vsix";
-      sha256 = "sha256-vhRDklQcXAiOe0o3TjhOI75/a5UGwPWZ1QIYWzPqoy0=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.13/file/d-biehl.robotcode-0.11.13.vsix";
+      sha256 = "sha256-HVpavoFmYo+3G6j6Gb2sMNwyPoDbR1ltISFb52NIBsM=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -16059,10 +16059,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.15.0";
+    version = "1.15.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.15.0/file/sasjs.sasjs-for-vscode-1.15.0.vsix";
-      sha256 = "sha256-NstpXUiIdE3sB8aZuFFlXiHg2KI5FamXNAGgclPtw34=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.15.1/file/sasjs.sasjs-for-vscode-1.15.1.vsix";
+      sha256 = "sha256-IHxbYXrtvFTV6/au79H/orQoiWAmMWyauzjgxu/5+uY=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
