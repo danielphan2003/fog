@@ -2667,10 +2667,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.32.0";
+    version = "1.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.32.0/file/Pivotal.vscode-bosh-1.32.0.vsix";
-      sha256 = "sha256-GHdcq+8EkUQctFQyTmkx/L+8yyORNmGqQ8YIQgHmv4M=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.33.0/file/Pivotal.vscode-bosh-1.33.0.vsix";
+      sha256 = "sha256-T4rrpswPet9qgaxEQobOrCr1aLA+JNoat23mLUrXJOk=";
     };
     name = "vscode-bosh";
     license = "EPL-1.0";
@@ -2679,10 +2679,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.32.0";
+    version = "1.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.32.0/file/Pivotal.vscode-concourse-1.32.0.vsix";
-      sha256 = "sha256-+GKBvWF6tBoBhVh4sBuN8xZ9UbXm92Uk2MEFK0Dn0FI=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.33.0/file/Pivotal.vscode-concourse-1.33.0.vsix";
+      sha256 = "sha256-X2Ws3JcsFijYZkxJipMWqyHmEqRRI2HfKLJWH3Vd+fE=";
     };
     name = "vscode-concourse";
     license = "EPL-1.0";
@@ -2691,10 +2691,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.32.0";
+    version = "1.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.32.0/file/Pivotal.vscode-manifest-yaml-1.32.0.vsix";
-      sha256 = "sha256-PFVAIaiIHhGbvSmpZzAb0bAKO/Ab4XgYjNqErerltAw=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.33.0/file/Pivotal.vscode-manifest-yaml-1.33.0.vsix";
+      sha256 = "sha256-xtpK+yuel47XYqcYp4SpGDqXznnF5EG8BvTcOLcVSD4=";
     };
     name = "vscode-manifest-yaml";
     license = "EPL-1.0";
@@ -2703,10 +2703,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.32.0";
+    version = "1.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.32.0/file/Pivotal.vscode-spring-boot-1.32.0.vsix";
-      sha256 = "sha256-93uNmSEVXSG9/9QAoEk31qpLjhzxwgrtGPEVKOrCxO8=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.33.0/file/Pivotal.vscode-spring-boot-1.33.0.vsix";
+      sha256 = "sha256-4o9EvLboeVeXoYmVyzCFKpgkuFZi4ND8BYkGe9wBW5U=";
     };
     name = "vscode-spring-boot";
     license = "EPL-1.0";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.885";
+    version = "31.0.886";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.885/file/Prisma.prisma-insider-31.0.885.vsix";
-      sha256 = "sha256-6v/EzOwda/z1UCSMJymcBqVoUkWFfrMV44y5IiusSHI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.886/file/Prisma.prisma-insider-31.0.886.vsix";
+      sha256 = "sha256-AAC4oISZMTcHpZKeSKgxZqLhTkNr8VCy6wFO5/9dk5w=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12051,10 +12051,10 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.3.1";
+    version = "2.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.3.1/file/mbari.tethysl-2.3.1.vsix";
-      sha256 = "sha256-95ZSw4lKI3v4rvzGcHByFQ8hh8+itHabsJojLMo9nMk=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.3.5/file/mbari.tethysl-2.3.5.vsix";
+      sha256 = "sha256-22TppjKWuKDbuXQkNtHRWJjwg4SjJv0kkxD/nPBExQg=";
     };
     name = "tethysl";
     license = "Apache-2.0";
@@ -16059,10 +16059,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.14.0";
+    version = "1.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.14.0/file/sasjs.sasjs-for-vscode-1.14.0.vsix";
-      sha256 = "sha256-teoNfRkpjYq81k/7TuVv659R04ZPdj7COZppOlINx+U=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.15.0/file/sasjs.sasjs-for-vscode-1.15.0.vsix";
+      sha256 = "sha256-NstpXUiIdE3sB8aZuFFlXiHg2KI5FamXNAGgclPtw34=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
