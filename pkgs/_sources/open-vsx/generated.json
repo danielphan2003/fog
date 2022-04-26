@@ -3383,7 +3383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.12",
+    "version": "0.11.13",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3391,10 +3391,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.12/file/d-biehl.robotcode-0.11.12.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.13/file/d-biehl.robotcode-0.11.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vhRDklQcXAiOe0o3TjhOI75/a5UGwPWZ1QIYWzPqoy0="
+      "sha256": "sha256-HVpavoFmYo+3G6j6Gb2sMNwyPoDbR1ltISFb52NIBsM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30863,7 +30863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.15.0",
+    "version": "1.15.1",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
@@ -30871,10 +30871,10 @@
       "description": "Execute code on any SAS server, also perform SAS linting and syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.15.0/file/sasjs.sasjs-for-vscode-1.15.0.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.15.1/file/sasjs.sasjs-for-vscode-1.15.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NstpXUiIdE3sB8aZuFFlXiHg2KI5FamXNAGgclPtw34="
+      "sha256": "sha256-IHxbYXrtvFTV6/au79H/orQoiWAmMWyauzjgxu/5+uY="
     },
     "extract": null,
     "rustGitDeps": null
