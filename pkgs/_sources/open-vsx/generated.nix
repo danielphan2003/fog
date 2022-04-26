@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.883";
+    version = "31.0.885";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.883/file/Prisma.prisma-insider-31.0.883.vsix";
-      sha256 = "sha256-QeN7vRDuPAqJRVvXBAyycomWj1DeKJF/ywJ74LhK3Tc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.885/file/Prisma.prisma-insider-31.0.885.vsix";
+      sha256 = "sha256-6v/EzOwda/z1UCSMJymcBqVoUkWFfrMV44y5IiusSHI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -17631,10 +17631,10 @@
   };
   tiabeast-vscode-bait = {
     pname = "tiabeast-vscode-bait";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.1/file/tiabeast.vscode-bait-0.2.1.vsix";
-      sha256 = "sha256-xpoZ31qzcpjuQaTmSy225rOveBlDp+fwKY8Qo2MESkc=";
+      url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.2/file/tiabeast.vscode-bait-0.2.2.vsix";
+      sha256 = "sha256-zWHjBJGh5PQHZfgCQze9KfirmsD9BvWNRUX5cF6DmaU=";
     };
     name = "vscode-bait";
     license = "MIT";
