@@ -259,13 +259,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "207d44323df8b2cf80142a0d9fb19544e1e7a5ec";
+    version = "9c8c3277033bb57f59446d9e4e4d649f963aba97";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "207d44323df8b2cf80142a0d9fb19544e1e7a5ec";
+      rev = "9c8c3277033bb57f59446d9e4e4d649f963aba97";
       fetchSubmodules = false;
-      sha256 = "sha256-uay2abw49gZsCAgDWU246fdJEfhx2nCk47l/vUGszSM=";
+      sha256 = "sha256-K3R8P5zVOEl1YP/9sCbCY8HLzt9F3fXHFNE6vukT0Rw=";
     });
   };
   doggo = {
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "21413392cf45c66a7a03c3781e3b76301fbede0f";
+    version = "c6c752cf6400f2fc0561ddc44be0a22787f3e410";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "21413392cf45c66a7a03c3781e3b76301fbede0f";
+      rev = "c6c752cf6400f2fc0561ddc44be0a22787f3e410";
       fetchSubmodules = false;
-      sha256 = "sha256-iY6omazYEO6HU2P0HD2QTcx4f6xmF5Q6deLkqYMHvyc=";
+      sha256 = "sha256-inajN81iwn0uG9dsIXX3v3e5d7dxIZI/aEQ5fGizciQ=";
     });
   };
   tailscale-systray = {
