@@ -811,25 +811,25 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "4dfd57ea1912e394b31583725dd234e5d8119fc3";
+    version = "36607bf8b0f0a3ea6607f76ee319bf64b816f8d2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "4dfd57ea1912e394b31583725dd234e5d8119fc3";
+      rev = "36607bf8b0f0a3ea6607f76ee319bf64b816f8d2";
       fetchSubmodules = false;
-      sha256 = "sha256-EXOvvk64M9dkl9ndNiEprE5KdsPAzdkEDkvefclJdLs=";
+      sha256 = "sha256-cWG/sN+06C1fFBoSmS/Ja0j+xgqLmesTojWY6709R1E=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-4dfd57ea1912e394b31583725dd234e5d8119fc3/Cargo.lock;
+      lockFile = ./rustdesk-36607bf8b0f0a3ea6607f76ee319bf64b816f8d2/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "libappindicator-0.6.1" = "sha256-JGnnZrcwbh8WJ6+/4bYhfD3HvgF2C7XaaGb6TaMRWdw=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
+        "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
-        "confy-0.4.1" = "sha256-5QwA4YfEEE6QqEEUJ3+C37UbUf88NYds38kIthVSo5Y=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
       };
     };
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "928d1fddd2d147823eaeaaaa58ff8b943c7bcabf";
+    version = "3601b4353004714e2b2cbfb365da6cb928101ff2";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "928d1fddd2d147823eaeaaaa58ff8b943c7bcabf";
+      rev = "3601b4353004714e2b2cbfb365da6cb928101ff2";
       fetchSubmodules = false;
-      sha256 = "sha256-xzsxude8ztp5HmZw68g0PXMPjvD1Ai9pDy1GIVkmpOA=";
+      sha256 = "sha256-cLiCw1r4Eknz6cnfVXKybyAq5BSw0+vAxcsxSNYtr9E=";
     });
   };
   tailscale-systray = {
