@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "7489b5b078aff6f63e451e31530d47cc7ffdf5b8",
+    "version": "c2db12c72737447a10c399156a00ed973bc65f24",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-pky7IYwOPhwQiE9UbxiLRS9XI9lsCt9RnyNUNclwL8I=",
-      "rev": "7489b5b078aff6f63e451e31530d47cc7ffdf5b8"
+      "sha256": "sha256-ITEcCttWQOv/xThhTzI65ZzTUkT1PVdoT5YwJCjmU3w=",
+      "rev": "c2db12c72737447a10c399156a00ed973bc65f24"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1426,7 +1426,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "9d6ce69227c1cf78c79c3470187027ff138b6733",
+    "version": "7b4584e5551f823405ae1b38966e5bcdcc28161c",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1436,8 +1436,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-axMJ8rZOJmscTkMDbHZ8kQO527yfLFVPyuAIcuAzuKY=",
-      "rev": "9d6ce69227c1cf78c79c3470187027ff138b6733"
+      "sha256": "sha256-02VK73tOj+drETOzeC1KVFQ4FJfaARfrp+qk6MGQORU=",
+      "rev": "7b4584e5551f823405ae1b38966e5bcdcc28161c"
     },
     "extract": null,
     "rustGitDeps": null
