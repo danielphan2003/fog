@@ -3383,7 +3383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.11",
+    "version": "0.11.12",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3391,10 +3391,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.11/file/d-biehl.robotcode-0.11.11.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.12/file/d-biehl.robotcode-0.11.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AbhGJK/ChxmylN7nWOEATCFIXOhgM4kqKeod4SgAB/o="
+      "sha256": "sha256-vhRDklQcXAiOe0o3TjhOI75/a5UGwPWZ1QIYWzPqoy0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9703,7 +9703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.2.2202693",
+    "version": "7.2.2225960",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9711,10 +9711,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2202693/file/eliostruyf.vscode-front-matter-beta-7.2.2202693.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2225960/file/eliostruyf.vscode-front-matter-beta-7.2.2225960.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6tqPq/OVHZZR+p+4oSlMCoSNQ3ckfTHZENH0Fz2UAwc="
+      "sha256": "sha256-/GU3IXK/aQIhh+gTpCivtD1/Z0lfNZL+gg4Bk3tst3c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23543,7 +23543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TeamHub-teamhub",
-    "version": "15.0.5",
+    "version": "15.0.6",
     "passthru": {
       "name": "teamhub",
       "license": "",
@@ -23551,10 +23551,10 @@
       "description": "Extend VS Code with real-time collaborative superpowers"
     },
     "src": {
-      "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.5/file/TeamHub.teamhub-15.0.5.vsix",
+      "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.6/file/TeamHub.teamhub-15.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9wrtk0ttBHeNiaKI9by/kCJHtdaQR4Jhn3bV7wOvhOg="
+      "sha256": "sha256-9nN7sd1MZJvePymN55bbHxbx4a/z5xWuZeHEnXlVRgo="
     },
     "extract": null,
     "rustGitDeps": null
