@@ -13623,18 +13623,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mintlify-document",
-    "version": "2.1.17",
+    "version": "2.1.20",
     "passthru": {
       "name": "document",
-      "license": "Apache-2.0",
+      "license": "Expat",
       "publisher": "mintlify",
       "description": "AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mintlify/document/2.1.17/file/mintlify.document-2.1.17.vsix",
+      "url": "https://open-vsx.org/api/mintlify/document/2.1.20/file/mintlify.document-2.1.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3r43ohdizXDye3mtoY5eP73g+nblHUG233piEv2W0ZQ="
+      "sha256": "sha256-WAvr88raedYACB+b/gwqrY2/v/MQtBDkkC+ZY8cd4VU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17003,7 +17003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-code-for-ibmi",
-    "version": "1.3.0",
+    "version": "1.3.1",
     "passthru": {
       "name": "code-for-ibmi",
       "license": "MIT",
@@ -17011,10 +17011,10 @@
       "description": "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.0/file/halcyontechltd.code-for-ibmi-1.3.0.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.1/file/halcyontechltd.code-for-ibmi-1.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OVGcMON8gMDIJ0qVuGOBdlj49bv/Ai1vBZzPCADqECg="
+      "sha256": "sha256-BwVUPzoi7AHq1Q67xszArw44B2xmAmvsC4asr3m5jck="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23843,7 +23843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bradlc-vscode-tailwindcss",
-    "version": "0.8.2",
+    "version": "0.8.3",
     "passthru": {
       "name": "vscode-tailwindcss",
       "license": "MIT",
@@ -23851,10 +23851,10 @@
       "description": "Intelligent Tailwind CSS tooling for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.2/file/bradlc.vscode-tailwindcss-0.8.2.vsix",
+      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.3/file/bradlc.vscode-tailwindcss-0.8.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3XdI1f+triBs7yywfUyIAfaKsKSvVKZwIV5FN0bXjWs="
+      "sha256": "sha256-HSsv0yxQWnp1WrGnIELrnD7JtFntE92cEhc7B1oZd3M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24783,7 +24783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-vscode-github-issue-notebooks",
-    "version": "0.0.117",
+    "version": "0.0.119",
     "passthru": {
       "name": "vscode-github-issue-notebooks",
       "license": "MIT",
@@ -24791,10 +24791,10 @@
       "description": "GitHub Issue Notebooks for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.117/file/ms-vscode.vscode-github-issue-notebooks-0.0.117.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.119/file/ms-vscode.vscode-github-issue-notebooks-0.0.119.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cKS6Mi6MfqhqfSEHmMYwEW2UYS/i2Gd56UQh0U9ihJQ="
+      "sha256": "sha256-FMNPNLCSO+l/ucRVwsTvJmtTsDIwyQPxLICWJ9F13Lo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25483,7 +25483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "erlang-ls-erlang-ls",
-    "version": "0.0.32",
+    "version": "0.0.34",
     "passthru": {
       "name": "erlang-ls",
       "license": "Apache-2.0",
@@ -25491,10 +25491,10 @@
       "description": "The Visual Studio Code Extension for the Erlang Language Server"
     },
     "src": {
-      "url": "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.32/file/erlang-ls.erlang-ls-0.0.32.vsix",
+      "url": "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.34/file/erlang-ls.erlang-ls-0.0.34.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-I2RnbytFPTV7HF9J77w3zroT7L2JHA7nQq3vRYNeduk="
+      "sha256": "sha256-D9ao/g86hZ4owmNVsaCwMJwvOPDl6VHd88ofoBSUCjY="
     },
     "extract": null,
     "rustGitDeps": null

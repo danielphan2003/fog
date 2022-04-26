@@ -5655,10 +5655,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.8.2";
+    version = "0.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.2/file/bradlc.vscode-tailwindcss-0.8.2.vsix";
-      sha256 = "sha256-3XdI1f+triBs7yywfUyIAfaKsKSvVKZwIV5FN0bXjWs=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.3/file/bradlc.vscode-tailwindcss-0.8.3.vsix";
+      sha256 = "sha256-HSsv0yxQWnp1WrGnIELrnD7JtFntE92cEhc7B1oZd3M=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -7803,10 +7803,10 @@
   };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
-    version = "0.0.32";
+    version = "0.0.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.32/file/erlang-ls.erlang-ls-0.0.32.vsix";
-      sha256 = "sha256-I2RnbytFPTV7HF9J77w3zroT7L2JHA7nQq3vRYNeduk=";
+      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.34/file/erlang-ls.erlang-ls-0.0.34.vsix";
+      sha256 = "sha256-D9ao/g86hZ4owmNVsaCwMJwvOPDl6VHd88ofoBSUCjY=";
     };
     name = "erlang-ls";
     license = "Apache-2.0";
@@ -9063,10 +9063,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.0";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.0/file/halcyontechltd.code-for-ibmi-1.3.0.vsix";
-      sha256 = "sha256-OVGcMON8gMDIJ0qVuGOBdlj49bv/Ai1vBZzPCADqECg=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.1/file/halcyontechltd.code-for-ibmi-1.3.1.vsix";
+      sha256 = "sha256-BwVUPzoi7AHq1Q67xszArw44B2xmAmvsC4asr3m5jck=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -12375,13 +12375,13 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.17";
+    version = "2.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.17/file/mintlify.document-2.1.17.vsix";
-      sha256 = "sha256-3r43ohdizXDye3mtoY5eP73g+nblHUG233piEv2W0ZQ=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.20/file/mintlify.document-2.1.20.vsix";
+      sha256 = "sha256-WAvr88raedYACB+b/gwqrY2/v/MQtBDkkC+ZY8cd4VU=";
     };
     name = "document";
-    license = "Apache-2.0";
+    license = "Expat";
     publisher = "mintlify";
     description = "AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages";
   };
@@ -13011,10 +13011,10 @@
   };
   ms-vscode-vscode-github-issue-notebooks = {
     pname = "ms-vscode-vscode-github-issue-notebooks";
-    version = "0.0.117";
+    version = "0.0.119";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.117/file/ms-vscode.vscode-github-issue-notebooks-0.0.117.vsix";
-      sha256 = "sha256-cKS6Mi6MfqhqfSEHmMYwEW2UYS/i2Gd56UQh0U9ihJQ=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.119/file/ms-vscode.vscode-github-issue-notebooks-0.0.119.vsix";
+      sha256 = "sha256-FMNPNLCSO+l/ucRVwsTvJmtTsDIwyQPxLICWJ9F13Lo=";
     };
     name = "vscode-github-issue-notebooks";
     license = "MIT";
