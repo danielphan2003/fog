@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-671-g621d73c0";
+    version = "2.1-672-g3773b9a5";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-671-g621d73c0-1_all.deb";
-      sha256 = "sha256-UChy7CaiJ60YDKPGvhDX/E61+bkPPI42puTPNA/jycY=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-672-g3773b9a5-1_all.deb";
+      sha256 = "sha256-k0mQupwjJ7opyXOhaGTrYHl8328VzI+ikjJ2xzpZHB0=";
     };
   };
   layout-machi = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "47a1f8f851e4b951b352356a5bc3a00b0ce037ca";
+    version = "7489b5b078aff6f63e451e31530d47cc7ffdf5b8";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "47a1f8f851e4b951b352356a5bc3a00b0ce037ca";
+      rev = "7489b5b078aff6f63e451e31530d47cc7ffdf5b8";
       fetchSubmodules = false;
-      sha256 = "sha256-+XCLydjhEthOpzpzCDwu+1hKInc8GF9CwoNQ33xhjgU=";
+      sha256 = "sha256-pky7IYwOPhwQiE9UbxiLRS9XI9lsCt9RnyNUNclwL8I=";
     });
   };
   rofi-wayland = {
@@ -927,13 +927,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "bfe6478f941d30e79daf366522cf2af96dd47215";
+    version = "65443477b367fdb4ad66046c4858c338a00b3863";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "bfe6478f941d30e79daf366522cf2af96dd47215";
+      rev = "65443477b367fdb4ad66046c4858c338a00b3863";
       fetchSubmodules = false;
-      sha256 = "sha256-rRwwpl3F5bxq/YZFY9bQ+/5CSXigz/ZN5/aCC4LcoTM=";
+      sha256 = "sha256-4w5YJNNmqiqDad7fE5Pf3apRjLfd5hzn7351yyL4cq4=";
     });
   };
   spotify = {
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5fb8e01a8b768fc199f725dbd4faf614e22da6b1";
+    version = "928d1fddd2d147823eaeaaaa58ff8b943c7bcabf";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5fb8e01a8b768fc199f725dbd4faf614e22da6b1";
+      rev = "928d1fddd2d147823eaeaaaa58ff8b943c7bcabf";
       fetchSubmodules = false;
-      sha256 = "sha256-ZXhPI86wsnzWoOMAP7jQf2uL28WyS9owub3swWDz6Q4=";
+      sha256 = "sha256-xzsxude8ztp5HmZw68g0PXMPjvD1Ai9pDy1GIVkmpOA=";
     });
   };
   tailscale-systray = {
