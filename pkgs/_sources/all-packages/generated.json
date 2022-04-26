@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "cabab409e6eb331ff435147dd12c16c7f507ce05",
+    "version": "d35019f185bbc5dc3e7cbc8faf2d72aa39643d90",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-hOWh8b2NTiIWL1fHSCgPRYPAL+wGtvfXoW1y+XXLabI=",
-      "rev": "cabab409e6eb331ff435147dd12c16c7f507ce05"
+      "sha256": "sha256-EslD5EuRpx3lgSkiO1ZvqVPZPVeeBnCNDdssd9X/P7k=",
+      "rev": "d35019f185bbc5dc3e7cbc8faf2d72aa39643d90"
     },
     "extract": null,
     "rustGitDeps": null
