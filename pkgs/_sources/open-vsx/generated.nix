@@ -3315,10 +3315,10 @@
   };
   TeamHub-teamhub = {
     pname = "TeamHub-teamhub";
-    version = "15.0.5";
+    version = "15.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.5/file/TeamHub.teamhub-15.0.5.vsix";
-      sha256 = "sha256-9wrtk0ttBHeNiaKI9by/kCJHtdaQR4Jhn3bV7wOvhOg=";
+      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.6/file/TeamHub.teamhub-15.0.6.vsix";
+      sha256 = "sha256-9nN7sd1MZJvePymN55bbHxbx4a/z5xWuZeHEnXlVRgo=";
     };
     name = "teamhub";
     license = "";
@@ -6699,10 +6699,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.11";
+    version = "0.11.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.11/file/d-biehl.robotcode-0.11.11.vsix";
-      sha256 = "sha256-AbhGJK/ChxmylN7nWOEATCFIXOhgM4kqKeod4SgAB/o=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.12/file/d-biehl.robotcode-0.11.12.vsix";
+      sha256 = "sha256-vhRDklQcXAiOe0o3TjhOI75/a5UGwPWZ1QIYWzPqoy0=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7611,10 +7611,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2202693";
+    version = "7.2.2225960";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2202693/file/eliostruyf.vscode-front-matter-beta-7.2.2202693.vsix";
-      sha256 = "sha256-6tqPq/OVHZZR+p+4oSlMCoSNQ3ckfTHZENH0Fz2UAwc=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2225960/file/eliostruyf.vscode-front-matter-beta-7.2.2225960.vsix";
+      sha256 = "sha256-/GU3IXK/aQIhh+gTpCivtD1/Z0lfNZL+gg4Bk3tst3c=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
