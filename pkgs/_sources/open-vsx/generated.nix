@@ -3601,6 +3601,18 @@
     publisher = "WindRiver";
     description = "Application development support for Wind River Studio";
   };
+  Wscats-eno = {
+    pname = "Wscats-eno";
+    version = "2.3.53";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Wscats/eno/2.3.53/file/Wscats.eno-2.3.53.vsix";
+      sha256 = "sha256-7zpbTGAY0McBzpRTPmGD6t9rhLyG1FfMjZSJRL0umCg=";
+    };
+    name = "eno";
+    license = "MIT";
+    publisher = "Wscats";
+    description = "\128640Easy to compile ts, tsx, scss, less, stylus, jade, pug and es6+ on save without using a build task.";
+  };
   Wscats-omi-snippets = {
     pname = "Wscats-omi-snippets";
     version = "2.2.8";
@@ -9073,6 +9085,18 @@
     publisher = "halcyontechltd";
     description = "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code.";
   };
+  halcyontechltd-git-client-ibmi = {
+    pname = "halcyontechltd-git-client-ibmi";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/halcyontechltd/git-client-ibmi/0.1.0/file/halcyontechltd.git-client-ibmi-0.1.0.vsix";
+      sha256 = "sha256-IRaWxD9/i2i8RcIuxtQwx8NAZcTRbxh4vpQ5pPAzIyI=";
+    };
+    name = "git-client-ibmi";
+    license = "MIT";
+    publisher = "halcyontechltd";
+    description = "A git client that works on a remote IBM i";
+  };
   halcyontechltd-vscode-ibmi-walkthroughs = {
     pname = "halcyontechltd-vscode-ibmi-walkthroughs";
     version = "0.1.1";
@@ -9975,10 +9999,10 @@
   };
   iocave-monkey-patch = {
     pname = "iocave-monkey-patch";
-    version = "0.1.12";
+    version = "0.1.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iocave/monkey-patch/0.1.12/file/iocave.monkey-patch-0.1.12.vsix";
-      sha256 = "sha256-UOchUIxkH9UdNJqwVywIDsMR/B0Cx//ojcad1SG3wwc=";
+      url = "https://open-vsx.org/api/iocave/monkey-patch/0.1.16/file/iocave.monkey-patch-0.1.16.vsix";
+      sha256 = "sha256-LHkP8KNtKOTyW6ABRtejOIRe9W2sbsEQajeuIkYX8Bw=";
     };
     name = "monkey-patch";
     license = "MIT";
@@ -10419,10 +10443,10 @@
   };
   jock-svg = {
     pname = "jock-svg";
-    version = "1.4.1";
+    version = "1.4.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jock/svg/1.4.1/file/jock.svg-1.4.1.vsix";
-      sha256 = "sha256-DareHJ3VwnTPhPHJ6a3DU5Vj92LZeQUzFCbYIktHOSU=";
+      url = "https://open-vsx.org/api/jock/svg/1.4.17/file/jock.svg-1.4.17.vsix";
+      sha256 = "sha256-E3XBN+F1Yg9dBpsLaMBWbpicpPLdKSe6xM9zlWwN5as=";
     };
     name = "svg";
     license = "MIT";
@@ -10503,10 +10527,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.31.4";
+    version = "0.34.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.31.4/file/johnsoncodehk.vscode-typescript-vue-plugin-0.31.4.vsix";
-      sha256 = "sha256-wiwLPEYrPTeAydS/d7lc2rmgExsux1pALgkkHrhAU50=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.34.10/file/johnsoncodehk.vscode-typescript-vue-plugin-0.34.10.vsix";
+      sha256 = "sha256-GhAtIdCql2p+jffAxxuYRu9EPqBp5S2/cZ/YAxFZJZE=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -10695,10 +10719,10 @@
   };
   justusadam-language-haskell = {
     pname = "justusadam-language-haskell";
-    version = "3.3.0";
+    version = "3.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/justusadam/language-haskell/3.3.0/file/justusadam.language-haskell-3.3.0.vsix";
-      sha256 = "sha256-yW2kYiKXq2LFqHVYCUyOVOvjn14naQiCO51ZvWbvXIY=";
+      url = "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/justusadam.language-haskell-3.6.0.vsix";
+      sha256 = "sha256-gdx789RKx3uBquEP2e4dEaU+5q6D4NEZHVcwD+Ym42A=";
     };
     name = "language-haskell";
     license = "BSD-3-Clause";
@@ -11547,15 +11571,15 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.28";
+    version = "3.0.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.28/file/lifeart.vscode-ember-unstable-3.0.28.vsix";
-      sha256 = "sha256-qbJCWhb80GniuXdLaVrFGNRGPE0PzdSgTe7uRYVNoyw=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.29/file/lifeart.vscode-ember-unstable-3.0.29.vsix";
+      sha256 = "sha256-h1MgTCC+FBBoohg6Kp8BehvV1pA5Z78K8tkVtU3/yUg=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
     publisher = "lifeart";
-    description = "Provides features like auto complete, goto definition and diagnostics for Ember.js projects";
+    description = "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects";
   };
   lifeart-vscode-glimmer-syntax = {
     pname = "lifeart-vscode-glimmer-syntax";
@@ -11871,10 +11895,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "1.3.0";
+    version = "1.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/1.3.0/file/marus25.cortex-debug-1.3.0.vsix";
-      sha256 = "sha256-tGvZwu2cSJlhVpKb9z0pGcSW0svixgEkIda/3S5HlyE=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.4.4/file/marus25.cortex-debug-1.4.4.vsix";
+      sha256 = "sha256-z48E/wwoeEaAXRK3NhDV+KHsHnncFgecEn6x0xCQC8A=";
     };
     name = "cortex-debug";
     license = "MIT";
@@ -11907,10 +11931,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.0.26";
+    version = "4.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.0.26/file/matepek.vscode-catch2-test-adapter-4.0.26.vsix";
-      sha256 = "sha256-ci6RaXYjuh7sHf+JEWxkP/Oa0w5JCCgcpur8Dz7p0PI=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.1.0/file/matepek.vscode-catch2-test-adapter-4.1.0.vsix";
+      sha256 = "sha256-1WAzYHaPFb9gU1a1/H/BoShKld1YvInhX45/77gDY0I=";
     };
     name = "vscode-catch2-test-adapter";
     license = "MIT";
@@ -12673,6 +12697,18 @@
     publisher = "ms-azuretools";
     description = "Makes it easy to create, manage, and debug containerized applications.";
   };
+  ms-dotnettools-vscode-dotnet-runtime = {
+    pname = "ms-dotnettools-vscode-dotnet-runtime";
+    version = "1.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-dotnettools/vscode-dotnet-runtime/1.5.0/file/ms-dotnettools.vscode-dotnet-runtime-1.5.0.vsix";
+      sha256 = "sha256-hYGzvOk7lAVs68+VB9xb3X3GaxN0nDl2/PwjWQonJ8E=";
+    };
+    name = "vscode-dotnet-runtime";
+    license = "MIT";
+    publisher = "ms-dotnettools";
+    description = "Allows acquisition of the .NET runtime specifically for VS Code extension authors.";
+  };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
     version = "1.3.7";
@@ -13020,6 +13056,18 @@
     license = "MIT";
     publisher = "ms-vscode";
     description = "GitHub Issue Notebooks for VS Code";
+  };
+  ms-vscode-vscode-js-profile-flame = {
+    pname = "ms-vscode-vscode-js-profile-flame";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.0/file/ms-vscode.vscode-js-profile-flame-1.0.0.vsix";
+      sha256 = "sha256-b7zpssfwTFQs/TJA2IyY1Cdwbp7x2SukiGio9dISzvo=";
+    };
+    name = "vscode-js-profile-flame";
+    license = "MIT";
+    publisher = "ms-vscode";
+    description = "Flame graph visualizer for profiles taken from the JavaScript debugger";
   };
   ms-vscode-vscode-js-profile-table = {
     pname = "ms-vscode-vscode-js-profile-table";
@@ -14101,6 +14149,18 @@
     publisher = "pantajoe";
     description = "VSC Support for Elixir linter 'Credo'.";
   };
+  paragdiwan-gitpatch = {
+    pname = "paragdiwan-gitpatch";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/paragdiwan/gitpatch/0.2.1/file/paragdiwan.gitpatch-0.2.1.vsix";
+      sha256 = "sha256-5RL2FwCxEgrQKv81zT6rnOwBTAnFZGpDPPyszQI2KxQ=";
+    };
+    name = "gitpatch";
+    license = "MIT";
+    publisher = "paragdiwan";
+    description = "Creates supplied diff output (i.e. 'a patch') and applies it to files. ";
+  };
   patbenatar-advanced-new-file = {
     pname = "patbenatar-advanced-new-file";
     version = "1.2.2";
@@ -14220,6 +14280,18 @@
     license = "MIT";
     publisher = "perrinjerome";
     description = "A vscode extension and language server for zc.buildout";
+  };
+  peterj-proto = {
+    pname = "peterj-proto";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/peterj/proto/0.0.3/file/peterj.proto-0.0.3.vsix";
+      sha256 = "sha256-cEo2PVEdzR7FYbh56FnUFqBcX6Lju4EdUecJxg1+sgU=";
+    };
+    name = "proto";
+    license = "MIT";
+    publisher = "peterj";
+    description = "Protobuf support (.proto file syntax highlighting)";
   };
   pflannery-vscode-versionlens = {
     pname = "pflannery-vscode-versionlens";
@@ -14535,10 +14607,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.319";
+    version = "0.25.324";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.319/file/pokey.cursorless-0.25.319.vsix";
-      sha256 = "sha256-QabJxqEg007ssN/VfbDMHCclZZ6vkISZLreeaEAzPHY=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.324/file/pokey.cursorless-0.25.324.vsix";
+      sha256 = "sha256-tK66nWzqJByQoPegpOfveNQAOUaxMCDJfNjqj8jMPIs=";
     };
     name = "cursorless";
     license = "MIT";
@@ -14979,10 +15051,10 @@
   };
   rebornix-ruby = {
     pname = "rebornix-ruby";
-    version = "0.28.0";
+    version = "0.28.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rebornix/ruby/0.28.0/file/rebornix.ruby-0.28.0.vsix";
-      sha256 = "sha256-Xl5w1FXSO/urz71DXCKZcApwtt5tjwY0FjVpRPElRPM=";
+      url = "https://open-vsx.org/api/rebornix/ruby/0.28.1/file/rebornix.ruby-0.28.1.vsix";
+      sha256 = "sha256-YavcyDWXghLxzxSWIBKJtuxTw3s7OgeWqEG56gvW4mE=";
     };
     name = "ruby";
     license = "MIT";
@@ -15351,10 +15423,10 @@
   };
   reduckted-vscode-gitweblinks = {
     pname = "reduckted-vscode-gitweblinks";
-    version = "2.6.0";
+    version = "2.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/reduckted/vscode-gitweblinks/2.6.0/file/reduckted.vscode-gitweblinks-2.6.0.vsix";
-      sha256 = "sha256-AjJyg4n4TbXhIGlLs/mtnIFUFEWl8nTD42yLT4izvoc=";
+      url = "https://open-vsx.org/api/reduckted/vscode-gitweblinks/2.7.0/file/reduckted.vscode-gitweblinks-2.7.0.vsix";
+      sha256 = "sha256-NUsvCGHG0DuWCb8vstxNaCHOQa4YTtwqpIeL0OWgul4=";
     };
     name = "vscode-gitweblinks";
     license = "MIT";
@@ -16119,10 +16191,10 @@
   };
   serayuzgur-crates = {
     pname = "serayuzgur-crates";
-    version = "0.5.9";
+    version = "0.5.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/serayuzgur/crates/0.5.9/file/serayuzgur.crates-0.5.9.vsix";
-      sha256 = "sha256-A4oefgvmfJJGMvv/71BiO2n2UDB3U41NDL2RV0V1+QY=";
+      url = "https://open-vsx.org/api/serayuzgur/crates/0.5.10/file/serayuzgur.crates-0.5.10.vsix";
+      sha256 = "sha256-yWXH4OqWUK/ISu9pdiiUP78ueV5XIdNCNBU+QiM2EZA=";
     };
     name = "crates";
     license = "MIT";
@@ -17187,15 +17259,27 @@
   };
   stripe-vscode-stripe = {
     pname = "stripe-vscode-stripe";
-    version = "1.7.7";
+    version = "2.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stripe/vscode-stripe/1.7.7/file/stripe.vscode-stripe-1.7.7.vsix";
-      sha256 = "sha256-LG4qkryEAyCefH39TT+g92cfGd6mRFPYCVoKtSbhfBg=";
+      url = "https://open-vsx.org/api/stripe/vscode-stripe/2.0.12/file/stripe.vscode-stripe-2.0.12.vsix";
+      sha256 = "sha256-Yksx7scBBmCPPU5U40TJZosFOCuAjOZiWDI+Qew6BVA=";
     };
     name = "vscode-stripe";
     license = "MIT";
     publisher = "stripe";
     description = "Build, test, and use Stripe inside your editor.";
+  };
+  styled-components-vscode-styled-components = {
+    pname = "styled-components-vscode-styled-components";
+    version = "1.7.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.4/file/styled-components.vscode-styled-components-1.7.4.vsix";
+      sha256 = "sha256-GjSNVPjUWKb1T+7LR+GrNsEv5xg/fzAnOtjCFvumrVI=";
+    };
+    name = "vscode-styled-components";
+    license = "MIT";
+    publisher = "styled-components";
+    description = "Syntax highlighting for styled-components";
   };
   stylelint-vscode-stylelint = {
     pname = "stylelint-vscode-stylelint";
@@ -18207,10 +18291,10 @@
   };
   usernamehw-remove-empty-lines = {
     pname = "usernamehw-remove-empty-lines";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.8/file/usernamehw.remove-empty-lines-0.0.8.vsix";
-      sha256 = "sha256-O8yZYIUCd89tX4yaB72s9FnFTYbnGPICHKkJF/Iq3AU=";
+      url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.9/file/usernamehw.remove-empty-lines-0.0.9.vsix";
+      sha256 = "sha256-N0AbF0PClRiZEGvNCQ9uHeq4kC8e0Ig2aH6oVvJ6A6o=";
     };
     name = "remove-empty-lines";
     license = "MIT";
@@ -18603,10 +18687,10 @@
   };
   vscjava-vscode-spring-boot-dashboard = {
     pname = "vscjava-vscode-spring-boot-dashboard";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.3.0/file/vscjava.vscode-spring-boot-dashboard-0.3.0.vsix";
-      sha256 = "sha256-C2SJcCLv7Z/2QPJWj2CFRPfdpxoqnyBTgrbKlGmrWAc=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.3.1/file/vscjava.vscode-spring-boot-dashboard-0.3.1.vsix";
+      sha256 = "sha256-9zjy1Iij3umY0/maEj1lJWS7k1G31m8MNtUZ1p1mgck=";
     };
     name = "vscode-spring-boot-dashboard";
     license = "MIT";
@@ -19261,6 +19345,18 @@
     publisher = "vscode";
     description = "Provides syntax highlighting and bracket matching in Objective-C files.";
   };
+  vscode-org-mode-org-mode = {
+    pname = "vscode-org-mode-org-mode";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vscode-org-mode/org-mode/1.0.0/file/vscode-org-mode.org-mode-1.0.0.vsix";
+      sha256 = "sha256-VmVPyL1W51FEHeAy6yapgKHu/bXPrpT2dYTLiAIebPw=";
+    };
+    name = "org-mode";
+    license = "GPL-3.0";
+    publisher = "vscode-org-mode";
+    description = "Emacs Org mode support for VSCode";
+  };
   vscode-perl = {
     pname = "vscode-perl";
     version = "1.62.3";
@@ -19741,6 +19837,18 @@
     publisher = "vshaxe";
     description = "Run your Haxe tests in the Sidebar of Visual Studio Code";
   };
+  vshaxe-hxcpp-debugger = {
+    pname = "vshaxe-hxcpp-debugger";
+    version = "1.2.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vshaxe/hxcpp-debugger/1.2.4/file/vshaxe.hxcpp-debugger-1.2.4.vsix";
+      sha256 = "sha256-zaRGoU+VsfcaRrBuENw9c15slRW9Bp339YHHJSM5Qkw=";
+    };
+    name = "hxcpp-debugger";
+    license = "MIT";
+    publisher = "vshaxe";
+    description = "Debugger for Haxe/HXCPP applications";
+  };
   vsls-contrib-codetour = {
     pname = "vsls-contrib-codetour";
     version = "0.0.59";
@@ -20136,6 +20244,18 @@
     license = "MIT";
     publisher = "xaver";
     description = "Use Clang-Format in Visual Studio Code";
+  };
+  xirider-livecode = {
+    pname = "xirider-livecode";
+    version = "1.3.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xirider/livecode/1.3.10/file/xirider.livecode-1.3.10.vsix";
+      sha256 = "sha256-a5KRPyitgEbDHqiJvPn1kdA8ZSb2qjslDuW/knVan6o=";
+    };
+    name = "livecode";
+    license = "MIT";
+    publisher = "xirider";
+    description = "Real-time python variable evaluation";
   };
   xlab-template-library = {
     pname = "xlab-template-library";
