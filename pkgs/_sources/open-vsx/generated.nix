@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.881";
+    version = "31.0.882";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.881/file/Prisma.prisma-insider-31.0.881.vsix";
-      sha256 = "sha256-kh/EX737WMoy+M3Y7ifich2tUdBlSSo5Js5Zk+nPJEE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.882/file/Prisma.prisma-insider-31.0.882.vsix";
+      sha256 = "sha256-EQteQXyEclpBEXgZdN9eHSxasdxKnFRfzchbzz/4nMg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7107,10 +7107,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.91.1";
+    version = "0.91.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.91.1/file/dendron.nightly-0.91.1.vsix";
-      sha256 = "sha256-70sE/PhNjIDOnbRcbXASMzJtswIuzOgqwjmIB5QLbcE=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.91.2/file/dendron.nightly-0.91.2.vsix";
+      sha256 = "sha256-jvMLTiPwJwPFXqzHhbpMcfUDptY/4PzLb5BkBbKnthE=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -14535,10 +14535,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.316";
+    version = "0.25.319";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.316/file/pokey.cursorless-0.25.316.vsix";
-      sha256 = "sha256-/hUcf8xjvbmmtKW/MRtPey9pC4JMfQIjy3zGqCG84/4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.319/file/pokey.cursorless-0.25.319.vsix";
+      sha256 = "sha256-QabJxqEg007ssN/VfbDMHCclZZ6vkISZLreeaEAzPHY=";
     };
     name = "cursorless";
     license = "MIT";
@@ -15327,10 +15327,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.6.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.6.0/file/redhat.vscode-yaml-1.6.0.vsix";
-      sha256 = "sha256-OHzZl3G4laob7E3cgvZJ2EcuPGBf3CfEZ8/4SYNnfog=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.7.0/file/redhat.vscode-yaml-1.7.0.vsix";
+      sha256 = "sha256-bNtqS4Yti0WJIyS7uSHsQAaA77zAFc6nKriCe726cq0=";
     };
     name = "vscode-yaml";
     license = "MIT";

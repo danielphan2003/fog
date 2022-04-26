@@ -1203,7 +1203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.91.1",
+    "version": "0.91.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1211,10 +1211,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.91.1/file/dendron.nightly-0.91.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.91.2/file/dendron.nightly-0.91.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-70sE/PhNjIDOnbRcbXASMzJtswIuzOgqwjmIB5QLbcE="
+      "sha256": "sha256-jvMLTiPwJwPFXqzHhbpMcfUDptY/4PzLb5BkBbKnthE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2863,7 +2863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-vscode-yaml",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "passthru": {
       "name": "vscode-yaml",
       "license": "MIT",
@@ -2871,10 +2871,10 @@
       "description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/vscode-yaml/1.6.0/file/redhat.vscode-yaml-1.6.0.vsix",
+      "url": "https://open-vsx.org/api/redhat/vscode-yaml/1.7.0/file/redhat.vscode-yaml-1.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OHzZl3G4laob7E3cgvZJ2EcuPGBf3CfEZ8/4SYNnfog="
+      "sha256": "sha256-bNtqS4Yti0WJIyS7uSHsQAaA77zAFc6nKriCe726cq0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13323,7 +13323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.316",
+    "version": "0.25.319",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13331,10 +13331,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.316/file/pokey.cursorless-0.25.316.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.319/file/pokey.cursorless-0.25.319.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/hUcf8xjvbmmtKW/MRtPey9pC4JMfQIjy3zGqCG84/4="
+      "sha256": "sha256-QabJxqEg007ssN/VfbDMHCclZZ6vkISZLreeaEAzPHY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31263,7 +31263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.881",
+    "version": "31.0.882",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31271,10 +31271,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.881/file/Prisma.prisma-insider-31.0.881.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.882/file/Prisma.prisma-insider-31.0.882.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kh/EX737WMoy+M3Y7ifich2tUdBlSSo5Js5Zk+nPJEE="
+      "sha256": "sha256-EQteQXyEclpBEXgZdN9eHSxasdxKnFRfzchbzz/4nMg="
     },
     "extract": null,
     "rustGitDeps": null
