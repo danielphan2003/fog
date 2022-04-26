@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "76d07f68a1450fb2c32a89dcdfe89c03374a7bf6";
+    version = "3ee4d7ffae353b8078302e983b662dd8367f9896";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "76d07f68a1450fb2c32a89dcdfe89c03374a7bf6";
+      rev = "3ee4d7ffae353b8078302e983b662dd8367f9896";
       fetchSubmodules = false;
-      sha256 = "sha256-FTWPpPZR5Sn2YopQ2avTZbeulLBz6m9RVrmIqPEz2rs=";
+      sha256 = "sha256-PnGfkaOX+lacoQNYeRsbIzJhDmxOQoqlCnicsjjux0M=";
     });
   };
   caddy = {
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6108";
+    version = "1.0.6110";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6108.tar.bz2";
-      sha256 = "sha256-1/e2kJNAFlyCKocRNyRP5sgS7M06O3uTgN7ckZ9jRlo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6110.tar.bz2";
+      sha256 = "sha256-NQTaq/TwYpWETCzFSP7X/Ux4SB++ZAee6jMz4D+z/Bs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6108";
+    version = "1.0.6110";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6108-1_all.deb";
-      sha256 = "sha256-8YAVS0LjyA/+1ioDLQSvesj8Enzthz9xAzO4b64E7Mw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6110-1_all.deb";
+      sha256 = "sha256-zPJvSfssT+8ZVpyQXZxr0eT4t49S0s9esOwvX6fxRZQ=";
     };
   };
   jitsi-videobridge2 = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c2db12c72737447a10c399156a00ed973bc65f24";
+    version = "c1d1e57ec9c639e483bfa4a199cac04c10428762";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c2db12c72737447a10c399156a00ed973bc65f24";
+      rev = "c1d1e57ec9c639e483bfa4a199cac04c10428762";
       fetchSubmodules = false;
-      sha256 = "sha256-ITEcCttWQOv/xThhTzI65ZzTUkT1PVdoT5YwJCjmU3w=";
+      sha256 = "sha256-t+2oSVp8lp2FuwlNDiyKWMAXZg2QnmT+cRKa74gduR8=";
     });
   };
   rofi-wayland = {
