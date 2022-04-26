@@ -537,13 +537,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-dev",
-    "version": "102.0.1227.0",
+    "version": "102.0.1235.1",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1227.0-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1235.1-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PQTHFSyJb/Hk1P4g17Vm2Pevcdf2ioASO8+fmJtV3jY="
+      "sha256": "sha256-tHGGNSmQCaF0pWwGvPPQG7tl7BBeDNYvS0FQjUZG2a8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "c1d1e57ec9c639e483bfa4a199cac04c10428762",
+    "version": "84e49bd2d1fc08dbb6a7735780a7f5c938df4492",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-t+2oSVp8lp2FuwlNDiyKWMAXZg2QnmT+cRKa74gduR8=",
-      "rev": "c1d1e57ec9c639e483bfa4a199cac04c10428762"
+      "sha256": "sha256-q5HpQ7mjkbjnQAhEk9vigPPK4nqnM4B5gb+yAkC37vA=",
+      "rev": "84e49bd2d1fc08dbb6a7735780a7f5c938df4492"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-672-g3773b9a5",
+    "version": "2.1-675-g7a906e4c",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-672-g3773b9a5-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-675-g7a906e4c-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k0mQupwjJ7opyXOhaGTrYHl8328VzI+ikjJ2xzpZHB0="
+      "sha256": "sha256-9zOlC6PuBO/bM/otiOyJK2jmHQajdK24ljA3/5K04cQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-e66ccdca9dff63b3bd173a0ff363417060ccdc95/Cargo.lock",
+    "cargoLock": "./rustdesk-33c6095eca4a3f3a9f5cfc355ce37f10773895df/Cargo.lock",
     "name": "rustdesk",
-    "version": "e66ccdca9dff63b3bd173a0ff363417060ccdc95",
+    "version": "33c6095eca4a3f3a9f5cfc355ce37f10773895df",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-xqXXGCjNApM449Kqnfmsr5BGsgrGSjNwYbA6v0xm2Ss=",
-      "rev": "e66ccdca9dff63b3bd173a0ff363417060ccdc95"
+      "sha256": "sha256-UAD/5VahNOB2tW+vkn9AI0+qJ54A2/OvViu4H/Q1H3o=",
+      "rev": "33c6095eca4a3f3a9f5cfc355ce37f10773895df"
     },
     "extract": null,
     "rustGitDeps": {
