@@ -2283,10 +2283,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.10";
+    version = "0.17.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.10/file/Marko-JS.marko-vscode-0.17.10.vsix";
-      sha256 = "sha256-56H/TtyuMozE5nezTbvwZG3WHYGIEV/hR/9GepWfQAI=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.11/file/Marko-JS.marko-vscode-0.17.11.vsix";
+      sha256 = "sha256-aQ3nb50xKPcddmueogwmGuHWk4CCPm/2YYuMlF7QDoU=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -2751,10 +2751,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.12.0";
+    version = "3.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.12.0/file/Prisma.prisma-3.12.0.vsix";
-      sha256 = "sha256-ofI3UE3jYP1ql3NCEUt06ls9e97bOk0DgJvPl0BadGA=";
+      url = "https://open-vsx.org/api/Prisma/prisma/3.13.0/file/Prisma.prisma-3.13.0.vsix";
+      sha256 = "sha256-H+RKdTksrepdcw0LDRIldY3aBQ4OYW5FI3A/rjqfUXI=";
     };
     name = "prisma";
     license = "Apache-2.0";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.882";
+    version = "31.0.883";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.882/file/Prisma.prisma-insider-31.0.882.vsix";
-      sha256 = "sha256-EQteQXyEclpBEXgZdN9eHSxasdxKnFRfzchbzz/4nMg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.883/file/Prisma.prisma-insider-31.0.883.vsix";
+      sha256 = "sha256-QeN7vRDuPAqJRVvXBAyycomWj1DeKJF/ywJ74LhK3Tc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7035,10 +7035,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.91.0";
+    version = "0.92.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.91.0/file/dendron.dendron-0.91.0.vsix";
-      sha256 = "sha256-G/JBhp7xBF8q1kqKKgxNSWS2LOo9ncPZYEjgv0RgyrY=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.92.0/file/dendron.dendron-0.92.0.vsix";
+      sha256 = "sha256-YFPBEf4YOANTd8bw5J1qnXX3NGW5FLYlZcXwNKbK8z8=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -7623,10 +7623,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2225960";
+    version = "7.2.2227415";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2225960/file/eliostruyf.vscode-front-matter-beta-7.2.2225960.vsix";
-      sha256 = "sha256-/GU3IXK/aQIhh+gTpCivtD1/Z0lfNZL+gg4Bk3tst3c=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2227415/file/eliostruyf.vscode-front-matter-beta-7.2.2227415.vsix";
+      sha256 = "sha256-uOKo519o+Wk5m5QtNhcVLg6xRnpeGhewEjOLNvkJrr0=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -9513,18 +9513,6 @@
       sha256 = "sha256-cnZwOm29tkdJcn583oTzepj/WkXHipjrXoZObdtXuXU=";
     };
     name = "dd";
-    license = "MIT";
-    publisher = "ibijon";
-    description = "A basic DuckyScript syntax highlighter for codium ";
-  };
-  ibijon-duckyscript = {
-    pname = "ibijon-duckyscript";
-    version = "0.0.1";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/ibijon/duckyscript/0.0.1/file/ibijon.duckyscript-0.0.1.vsix";
-      sha256 = "sha256-w91FaeKVaqDJCuttSC0OuQUDHp1BkI9F7F3Rvw8ZE9k=";
-    };
-    name = "duckyscript";
     license = "MIT";
     publisher = "ibijon";
     description = "A basic DuckyScript syntax highlighter for codium ";
@@ -14607,10 +14595,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.324";
+    version = "0.25.327";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.324/file/pokey.cursorless-0.25.324.vsix";
-      sha256 = "sha256-tK66nWzqJByQoPegpOfveNQAOUaxMCDJfNjqj8jMPIs=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.327/file/pokey.cursorless-0.25.327.vsix";
+      sha256 = "sha256-GDkXB10gEfTyb7uYOaqYemgWW1XtoUh3k2hGqCJ7JDY=";
     };
     name = "cursorless";
     license = "MIT";
@@ -16131,10 +16119,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.13.0";
+    version = "1.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.13.0/file/scalameta.metals-1.13.0.vsix";
-      sha256 = "sha256-rnb2QXgfOUPQMRPAK2GvgTq589AgTeWGXvslivLz60A=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.14.0/file/scalameta.metals-1.14.0.vsix";
+      sha256 = "sha256-3QXTFSuDW3+CWbJdqh5LLK4IT3fk1xqzVarGBYYjCeY=";
     };
     name = "metals";
     license = "Apache-2.0";
@@ -16647,10 +16635,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.21";
+    version = "0.2.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.21/file/smapiot.vscode-piral-0.2.21.vsix";
-      sha256 = "sha256-CLDZD5+FfRS05E08KjHnuIvjqCpuC4573YNVsZgUsPY=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.37/file/smapiot.vscode-piral-0.2.37.vsix";
+      sha256 = "sha256-TvM+ZqHq48PYjdMRzxnhOcQ7KMZC747X77Unrf8LqP0=";
     };
     name = "vscode-piral";
     license = "MIT";
