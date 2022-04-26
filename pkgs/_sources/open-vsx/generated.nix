@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.7.0/file/DCsunset.vscode-modal-editor-0.7.0.vsix";
-      sha256 = "sha256-s0qOKrqT2wQIpToYIqB94IiS9DSSaInNgN0QgZn7ZF8=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.8.0/file/DCsunset.vscode-modal-editor-0.8.0.vsix";
+      sha256 = "sha256-5Ox+yO32YeRbZ1opgQsVSCzJh9Q8HXlizqFNWfL60bM=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.880";
+    version = "31.0.881";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.880/file/Prisma.prisma-insider-31.0.880.vsix";
-      sha256 = "sha256-GgJMJwDbunfnVGJX/+242p0CL4AF/ANEBAXzi5Vc0ak=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.881/file/Prisma.prisma-insider-31.0.881.vsix";
+      sha256 = "sha256-kh/EX737WMoy+M3Y7ifich2tUdBlSSo5Js5Zk+nPJEE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
