@@ -13023,7 +13023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "openstax-editor",
-    "version": "6.1.2",
+    "version": "6.1.3",
     "passthru": {
       "name": "editor",
       "license": "LICENSE",
@@ -13031,10 +13031,10 @@
       "description": "An editor for OpenStax-organized books."
     },
     "src": {
-      "url": "https://open-vsx.org/api/openstax/editor/6.1.2/file/openstax.editor-6.1.2.vsix",
+      "url": "https://open-vsx.org/api/openstax/editor/6.1.3/file/openstax.editor-6.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KjXtq9K84sHv2xdT3aKh4Q1h4Jhx2O4wvqnZo+k8/Cw="
+      "sha256": "sha256-qq5HG3dV6eiGWsjaD9GampjY9KPeLbag+3p3Z5n3Mac="
     },
     "extract": null,
     "rustGitDeps": null
