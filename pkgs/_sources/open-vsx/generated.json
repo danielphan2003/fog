@@ -5843,7 +5843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Zowe-vscode-extension-for-zowe",
-    "version": "1.22.1",
+    "version": "2.0.0",
     "passthru": {
       "name": "vscode-extension-for-zowe",
       "license": "EPL-2.0",
@@ -5851,10 +5851,10 @@
       "description": "VS Code extension, powered by Zowe CLI, that streamlines interaction with mainframe data sets, USS files, and jobs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/1.22.1/file/Zowe.vscode-extension-for-zowe-1.22.1.vsix",
+      "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.0/file/Zowe.vscode-extension-for-zowe-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UkkXytgWo+OHym42OJLq6D1XBXDHjS71HDVyKwHqb8A="
+      "sha256": "sha256-s6M4Hf85gNQsIOqkXUgHUQ0wl2cEuZlzvZ3nrhB64kc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9763,7 +9763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.2.2227415",
+    "version": "7.2.2233742",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9771,10 +9771,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2227415/file/eliostruyf.vscode-front-matter-beta-7.2.2227415.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2233742/file/eliostruyf.vscode-front-matter-beta-7.2.2233742.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uOKo519o+Wk5m5QtNhcVLg6xRnpeGhewEjOLNvkJrr0="
+      "sha256": "sha256-Fa2fpHW8ReB7tVeJRDBm5oEF2bWg90wHzB27HJHdlnI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10023,7 +10023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Zowe-zowe-explorer-ftp-extension",
-    "version": "1.22.1",
+    "version": "2.0.0",
     "passthru": {
       "name": "zowe-explorer-ftp-extension",
       "license": "EPL-2.0",
@@ -10031,10 +10031,10 @@
       "description": "Adds zFTP support to Zowe Explorer demonstrating how to extend the Zowe Explorer using its extensibility API."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/1.22.1/file/Zowe.zowe-explorer-ftp-extension-1.22.1.vsix",
+      "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.0/file/Zowe.zowe-explorer-ftp-extension-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3yEQULE/des3nuo/7huxcKFkWez4JdQONHcna0lKk1I="
+      "sha256": "sha256-chEk92/BVqHoBi4rtjAyZIKZTkxmt9cVpEB78MZeoEM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29463,7 +29463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.15.0",
+    "version": "0.16.0",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
@@ -29471,10 +29471,10 @@
       "description": "Language support for Astro"
     },
     "src": {
-      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.15.0/file/astro-build.astro-vscode-0.15.0.vsix",
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.16.0/file/astro-build.astro-vscode-0.16.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QoLlr8taDsuTcL5BH5zR9TtALmZzVsOrK94KkXD1oCU="
+      "sha256": "sha256-XvswIvM+NchbN917Bxl/jtnP6m0pd0bXHU0v97qud4c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31403,7 +31403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.891",
+    "version": "31.0.892",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31411,10 +31411,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.891/file/Prisma.prisma-insider-31.0.891.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.892/file/Prisma.prisma-insider-31.0.892.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wfh+ff4PdNILYYp5bsyahHn29yuHVnha/olmJg03r0M="
+      "sha256": "sha256-M7x358o6na8oMz18RIJ1A867vllZoX0Jf4gOXwmOUUs="
     },
     "extract": null,
     "rustGitDeps": null
