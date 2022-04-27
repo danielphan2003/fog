@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "dedd5a377dd7218ddfec26de81c5912027cd3505",
+    "version": "531e5b0399e5edc0de512d019c4d8490f6c82050",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-IynJRO/ysxYvz+rmHIqAcJ1Oq/FwZ9jbGIXwh3h0GdU=",
-      "rev": "dedd5a377dd7218ddfec26de81c5912027cd3505"
+      "sha256": "sha256-Kc9NMgXWDmjzLe1626dbIcmyhe8HGyjxtnkuDKcNQBA=",
+      "rev": "531e5b0399e5edc0de512d019c4d8490f6c82050"
     },
     "extract": null,
     "rustGitDeps": null
@@ -410,9 +410,9 @@
   },
   "eww": {
     "pinned": false,
-    "cargoLock": "./eww-1daeb0c77a0ff27d5faf086a0f6575366481eab7/Cargo.lock",
+    "cargoLock": "./eww-982056f69f8cba0e7fd18fb7fec1e796865e75ce/Cargo.lock",
     "name": "eww",
-    "version": "1daeb0c77a0ff27d5faf086a0f6575366481eab7",
+    "version": "982056f69f8cba0e7fd18fb7fec1e796865e75ce",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -422,8 +422,8 @@
       "name": null,
       "repo": "eww",
       "type": "github",
-      "sha256": "sha256-I69B6XZ6jK9oLe+uKXp4hYHSP7xXsA8/wZ5+PB7rGs4=",
-      "rev": "1daeb0c77a0ff27d5faf086a0f6575366481eab7"
+      "sha256": "sha256-J8RcKMGarscdi/yTMz9Kx37KpZuzB2HLzAZH2UVRjM4=",
+      "rev": "982056f69f8cba0e7fd18fb7fec1e796865e75ce"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "a923b629663da8e3215c87ce1639c09849d80904",
+    "version": "9463f0ee551a0cf2817fd5b87b91a8c5fd168176",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-vQPs5GabDiwdm6zH3x4RXowvcM0395K3grBHJNIU5lU=",
-      "rev": "a923b629663da8e3215c87ce1639c09849d80904"
+      "sha256": "sha256-CoRIFa2WCj432nS9KjOmCfANRbVERl6coDhgLtg/C0c=",
+      "rev": "9463f0ee551a0cf2817fd5b87b91a8c5fd168176"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "3ea558f1ae55d0dc7a1d49969c09e6702f197d8e",
+    "version": "d284aaa2caaf6d25793fe27740b724a7b99a5be7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-+Z4N3fsCfVmSUgpbe5GLJaXwEgvdEI2jjCRVHtVrjJg=",
-      "rev": "3ea558f1ae55d0dc7a1d49969c09e6702f197d8e"
+      "sha256": "sha256-BL0rABgJsDNUMtfb556DtMlXWCDXaBKlWiPJUb1/o+w=",
+      "rev": "d284aaa2caaf6d25793fe27740b724a7b99a5be7"
     },
     "extract": null,
     "rustGitDeps": null
