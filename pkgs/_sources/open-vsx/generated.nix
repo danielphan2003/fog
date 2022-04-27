@@ -4503,10 +4503,10 @@
   };
   antfu-browse-lite = {
     pname = "antfu-browse-lite";
-    version = "0.2.18";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/browse-lite/0.2.18/file/antfu.browse-lite-0.2.18.vsix";
-      sha256 = "sha256-Vz6rtIL+ue+vyLJ3W/b44dpt/1dsguIX86x9ksh6K0k=";
+      url = "https://open-vsx.org/api/antfu/browse-lite/0.3.0/file/antfu.browse-lite-0.3.0.vsix";
+      sha256 = "sha256-rE64a2AeoWBEqG/TtTVr0H7QwWI8x8I1CNPOLshsEHs=";
     };
     name = "browse-lite";
     license = "MIT";
@@ -6555,10 +6555,10 @@
   };
   cvergne-vscode-php-getters-setters-cv = {
     pname = "cvergne-vscode-php-getters-setters-cv";
-    version = "1.4.0";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.4.0/file/cvergne.vscode-php-getters-setters-cv-1.4.0.vsix";
-      sha256 = "sha256-uEPuxE+xTvZn0wtC396xTcdu+uy8v0V7nedQ7NPyC8c=";
+      url = "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.0/file/cvergne.vscode-php-getters-setters-cv-1.6.0.vsix";
+      sha256 = "sha256-PNsuHO35JV1H6SMXKvQf3MJmzRk897V5ZuELHMEjq+k=";
     };
     name = "vscode-php-getters-setters-cv";
     license = "MIT";
@@ -9147,10 +9147,10 @@
   };
   haskell-haskell = {
     pname = "haskell-haskell";
-    version = "2.1.3";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/haskell/haskell/2.1.3/file/haskell.haskell-2.1.3.vsix";
-      sha256 = "sha256-OWV8i1XPO1BUc66nIIKoJmzs0D95O0+FJE1hxpYqPBw=";
+      url = "https://open-vsx.org/api/haskell/haskell/2.2.0/file/haskell.haskell-2.2.0.vsix";
+      sha256 = "sha256-YGPytmI4PgH6GQuWaRF5quiKGoOabkv7On+WVupI92E=";
     };
     name = "haskell";
     license = "MIT";
@@ -20811,10 +20811,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.11.3";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.3/file/znck.vue-0.11.3.vsix";
-      sha256 = "sha256-GdKG/AGl93lnJvhcZUWwUMVZqIlQyGppqgD6PcAn3aE=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     name = "vue";
     license = "MIT";
@@ -20823,10 +20823,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.4/file/znck.vue-language-features-0.11.4.vsix";
-      sha256 = "sha256-jE7o8LwxFpUmUnDA6ZkUOi2D2/arfe+Nq/ma5GoTvSw=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     name = "vue-language-features";
     license = "MIT";
