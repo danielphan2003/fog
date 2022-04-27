@@ -20943,7 +20943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.29",
+    "version": "3.0.30",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -20951,10 +20951,10 @@
       "description": "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.29/file/lifeart.vscode-ember-unstable-3.0.29.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.30/file/lifeart.vscode-ember-unstable-3.0.30.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-h1MgTCC+FBBoohg6Kp8BehvV1pA5Z78K8tkVtU3/yUg="
+      "sha256": "sha256-taU71l3IxP+oT55CubuKkLrMRs0rBF2KLEpuHnMEXUU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30863,7 +30863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sasjs-sasjs-for-vscode",
-    "version": "1.16.0",
+    "version": "1.16.1",
     "passthru": {
       "name": "sasjs-for-vscode",
       "license": "MIT",
@@ -30871,10 +30871,10 @@
       "description": "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.0/file/sasjs.sasjs-for-vscode-1.16.0.vsix",
+      "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.1/file/sasjs.sasjs-for-vscode-1.16.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-V8/sNp/CE0trqlIYm6r77JwXR1q1AEHND0Pt/38WLTU="
+      "sha256": "sha256-j4wPOgfDwDdsFahC1NjKXsLjGhjhPCRn8bKdcDmk4V4="
     },
     "extract": null,
     "rustGitDeps": null

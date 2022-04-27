@@ -11559,10 +11559,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.29";
+    version = "3.0.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.29/file/lifeart.vscode-ember-unstable-3.0.29.vsix";
-      sha256 = "sha256-h1MgTCC+FBBoohg6Kp8BehvV1pA5Z78K8tkVtU3/yUg=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.30/file/lifeart.vscode-ember-unstable-3.0.30.vsix";
+      sha256 = "sha256-taU71l3IxP+oT55CubuKkLrMRs0rBF2KLEpuHnMEXUU=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -16059,10 +16059,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.16.0";
+    version = "1.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.0/file/sasjs.sasjs-for-vscode-1.16.0.vsix";
-      sha256 = "sha256-V8/sNp/CE0trqlIYm6r77JwXR1q1AEHND0Pt/38WLTU=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.1/file/sasjs.sasjs-for-vscode-1.16.1.vsix";
+      sha256 = "sha256-j4wPOgfDwDdsFahC1NjKXsLjGhjhPCRn8bKdcDmk4V4=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
