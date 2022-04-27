@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6117",
+    "version": "1.0.6118",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6117-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6118-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/mGMjzBPxtRZ7evzIoIuZ3ih3pD9dCaoXbMjG24kmSc="
+      "sha256": "sha256-hY10RJ95hNxHpmr7V4t2vPzatH9+MeBGcAMGiaE3Ue0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -552,13 +552,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-amd64",
-    "version": "0.108.0-b.6",
+    "version": "0.108.0-b.7",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_amd64.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_linux_amd64.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4cp8ND380qM7x7yG7+jnweO6601Lc4BNOT93+TkRZpI="
+      "sha256": "sha256-vxNG4Puz4L6iQwekm1s3t5anL9vy+cYuhPcN9daxG8o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-875",
+    "version": "1.0-876",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-875-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-876-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wr3kPnDfbSh4BxrUlvPqIvQoz6IX6QMTmGhK7mfvqI8="
+      "sha256": "sha256-qFt5bj5PpCIMGqj5O/iIM2TjoO2KCNewXVzNNHklD9Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -844,13 +844,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spotify",
-    "version": "1.1.80.699.gc3dac750",
+    "version": "1.1.84.716.gc5f8b819",
     "passthru": null,
     "src": {
-      "url": "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_58.snap",
+      "url": "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_60.snap",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/gTU2KW2x1o35GN/IKyrRwNrQbkyncBP+omOK1MJCrY="
+      "sha256": "sha256-ho3WjGNjmHsERzC3FLgliuVSQWK2F5ec0ddQSfq6oyI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6117",
+    "version": "1.0.6118",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6117.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6118.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YFbZNv/GslbCgvVPCzlDE6/0IwBRtuSdF8Uo0jjZrKk="
+      "sha256": "sha256-0BOEvzAyGRNhnBa26uYVfevY7JzHm2rWOOtJSy727cY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1122,13 +1122,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-386",
-    "version": "0.108.0-b.6",
+    "version": "0.108.0-b.7",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_386.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_linux_386.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-a4Bgwj7mWOLhgmHJ/0I7VbvnY/mS+M90YuhILoieUqY="
+      "sha256": "sha256-RM9Dnw+ZOaBvzVQRXczLS+HUPgBz9XVbrE8bVeLhwbw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1496,13 +1496,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-darwin-amd64",
-    "version": "0.108.0-b.6",
+    "version": "0.108.0-b.7",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_darwin_amd64.zip",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_darwin_amd64.zip",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YdtofbaX8gn52IkI8Cbad/youXNchjCqSuNvrGanPzI="
+      "sha256": "sha256-0t2OkyxfezzStsVI+5qYJ6wTl7wmwbJa2IIfe63cAuE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1646,13 +1646,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-arm64",
-    "version": "0.108.0-b.6",
+    "version": "0.108.0-b.7",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_arm64.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_linux_arm64.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Vfa5Mc7K7HZ/rxsGoROd47s45AfHI9HNWLAN35WNYlk="
+      "sha256": "sha256-Bb20SE1pk73m3/5lRVoYhqC8I7odgnBmWRVaJdeFxvg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-33c6095eca4a3f3a9f5cfc355ce37f10773895df/Cargo.lock",
+    "cargoLock": "./rustdesk-bbe902d92ed28bed91e14dab4a8da778da46d995/Cargo.lock",
     "name": "rustdesk",
-    "version": "33c6095eca4a3f3a9f5cfc355ce37f10773895df",
+    "version": "bbe902d92ed28bed91e14dab4a8da778da46d995",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-UAD/5VahNOB2tW+vkn9AI0+qJ54A2/OvViu4H/Q1H3o=",
-      "rev": "33c6095eca4a3f3a9f5cfc355ce37f10773895df"
+      "sha256": "sha256-YM92W3Ri8ne74IzIX+N8X3VcTmZ4vrg3xwJB7A1XQC0=",
+      "rev": "bbe902d92ed28bed91e14dab4a8da778da46d995"
     },
     "extract": null,
     "rustGitDeps": {

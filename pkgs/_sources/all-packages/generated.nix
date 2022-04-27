@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.108.0-b.6";
+    version = "0.108.0-b.7";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-YdtofbaX8gn52IkI8Cbad/youXNchjCqSuNvrGanPzI=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-0t2OkyxfezzStsVI+5qYJ6wTl7wmwbJa2IIfe63cAuE=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.108.0-b.6";
+    version = "0.108.0-b.7";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-a4Bgwj7mWOLhgmHJ/0I7VbvnY/mS+M90YuhILoieUqY=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-RM9Dnw+ZOaBvzVQRXczLS+HUPgBz9XVbrE8bVeLhwbw=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.108.0-b.6";
+    version = "0.108.0-b.7";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-4cp8ND380qM7x7yG7+jnweO6601Lc4BNOT93+TkRZpI=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-vxNG4Puz4L6iQwekm1s3t5anL9vy+cYuhPcN9daxG8o=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.108.0-b.6";
+    version = "0.108.0-b.7";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.6/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-Vfa5Mc7K7HZ/rxsGoROd47s45AfHI9HNWLAN35WNYlk=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.7/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-Bb20SE1pk73m3/5lRVoYhqC8I7odgnBmWRVaJdeFxvg=";
     };
   };
   adl = {
@@ -429,26 +429,26 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-875";
+    version = "1.0-876";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-875-1_all.deb";
-      sha256 = "sha256-wr3kPnDfbSh4BxrUlvPqIvQoz6IX6QMTmGhK7mfvqI8=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-876-1_all.deb";
+      sha256 = "sha256-qFt5bj5PpCIMGqj5O/iIM2TjoO2KCNewXVzNNHklD9Q=";
     };
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6117";
+    version = "1.0.6118";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6117.tar.bz2";
-      sha256 = "sha256-YFbZNv/GslbCgvVPCzlDE6/0IwBRtuSdF8Uo0jjZrKk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6118.tar.bz2";
+      sha256 = "sha256-0BOEvzAyGRNhnBa26uYVfevY7JzHm2rWOOtJSy727cY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6117";
+    version = "1.0.6118";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6117-1_all.deb";
-      sha256 = "sha256-/mGMjzBPxtRZ7evzIoIuZ3ih3pD9dCaoXbMjG24kmSc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6118-1_all.deb";
+      sha256 = "sha256-hY10RJ95hNxHpmr7V4t2vPzatH9+MeBGcAMGiaE3Ue0=";
     };
   };
   jitsi-videobridge2 = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "33c6095eca4a3f3a9f5cfc355ce37f10773895df";
+    version = "bbe902d92ed28bed91e14dab4a8da778da46d995";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "33c6095eca4a3f3a9f5cfc355ce37f10773895df";
+      rev = "bbe902d92ed28bed91e14dab4a8da778da46d995";
       fetchSubmodules = false;
-      sha256 = "sha256-UAD/5VahNOB2tW+vkn9AI0+qJ54A2/OvViu4H/Q1H3o=";
+      sha256 = "sha256-YM92W3Ri8ne74IzIX+N8X3VcTmZ4vrg3xwJB7A1XQC0=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-33c6095eca4a3f3a9f5cfc355ce37f10773895df/Cargo.lock;
+      lockFile = ./rustdesk-bbe902d92ed28bed91e14dab4a8da778da46d995/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -938,10 +938,10 @@
   };
   spotify = {
     pname = "spotify";
-    version = "1.1.80.699.gc3dac750";
+    version = "1.1.84.716.gc5f8b819";
     src = fetchurl {
-      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_58.snap";
-      sha256 = "sha256-/gTU2KW2x1o35GN/IKyrRwNrQbkyncBP+omOK1MJCrY=";
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_60.snap";
+      sha256 = "sha256-ho3WjGNjmHsERzC3FLgliuVSQWK2F5ec0ddQSfq6oyI=";
     };
   };
   spotifyd = {
