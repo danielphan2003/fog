@@ -13971,10 +13971,10 @@
   };
   openstax-editor = {
     pname = "openstax-editor";
-    version = "6.1.2";
+    version = "6.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openstax/editor/6.1.2/file/openstax.editor-6.1.2.vsix";
-      sha256 = "sha256-KjXtq9K84sHv2xdT3aKh4Q1h4Jhx2O4wvqnZo+k8/Cw=";
+      url = "https://open-vsx.org/api/openstax/editor/6.1.3/file/openstax.editor-6.1.3.vsix";
+      sha256 = "sha256-qq5HG3dV6eiGWsjaD9GampjY9KPeLbag+3p3Z5n3Mac=";
     };
     name = "editor";
     license = "LICENSE";
