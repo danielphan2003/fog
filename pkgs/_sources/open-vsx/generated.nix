@@ -15135,10 +15135,10 @@
   };
   redhat-mta-vscode-extension = {
     pname = "redhat-mta-vscode-extension";
-    version = "0.0.91";
+    version = "0.0.96";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.91/file/redhat.mta-vscode-extension-0.0.91.vsix";
-      sha256 = "sha256-lQqhWDvBoxN5HwbqUdkSUlwpiepI4RlPJYkOCnL3B8A=";
+      url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.96/file/redhat.mta-vscode-extension-0.0.96.vsix";
+      sha256 = "sha256-wvpJ41D2vXRfVXjDIXW5cxh9h25zsAkVVaNj8Du1+rE=";
     };
     name = "mta-vscode-extension";
     license = "MIT";
@@ -20019,10 +20019,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "1.6.6";
+    version = "1.6.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.6/file/webhint.vscode-webhint-1.6.6.vsix";
-      sha256 = "sha256-JTXfFugBUzZPi2MPv8yx3UdQ19cNQJvtSKzMpptN5hI=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.7/file/webhint.vscode-webhint-1.6.7.vsix";
+      sha256 = "sha256-SCzlcM6hnKjVl5sKXZTG2x9Hg3RX3nFNFfDUFVF/Zzg=";
     };
     name = "vscode-webhint";
     license = "Apache-2.0";

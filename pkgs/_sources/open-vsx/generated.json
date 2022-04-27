@@ -5503,7 +5503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-mta-vscode-extension",
-    "version": "0.0.91",
+    "version": "0.0.96",
     "passthru": {
       "name": "mta-vscode-extension",
       "license": "MIT",
@@ -5511,10 +5511,10 @@
       "description": "Migration Toolkit for Applications (MTA)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.91/file/redhat.mta-vscode-extension-0.0.91.vsix",
+      "url": "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.96/file/redhat.mta-vscode-extension-0.0.96.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-lQqhWDvBoxN5HwbqUdkSUlwpiepI4RlPJYkOCnL3B8A="
+      "sha256": "sha256-wvpJ41D2vXRfVXjDIXW5cxh9h25zsAkVVaNj8Du1+rE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10603,7 +10603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "webhint-vscode-webhint",
-    "version": "1.6.6",
+    "version": "1.6.7",
     "passthru": {
       "name": "vscode-webhint",
       "license": "Apache-2.0",
@@ -10611,10 +10611,10 @@
       "description": "Run webhint in Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/webhint/vscode-webhint/1.6.6/file/webhint.vscode-webhint-1.6.6.vsix",
+      "url": "https://open-vsx.org/api/webhint/vscode-webhint/1.6.7/file/webhint.vscode-webhint-1.6.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JTXfFugBUzZPi2MPv8yx3UdQ19cNQJvtSKzMpptN5hI="
+      "sha256": "sha256-SCzlcM6hnKjVl5sKXZTG2x9Hg3RX3nFNFfDUFVF/Zzg="
     },
     "extract": null,
     "rustGitDeps": null
