@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.8.0/file/DCsunset.vscode-modal-editor-0.8.0.vsix";
-      sha256 = "sha256-5Ox+yO32YeRbZ1opgQsVSCzJh9Q8HXlizqFNWfL60bM=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/0.9.0/file/DCsunset.vscode-modal-editor-0.9.0.vsix";
+      sha256 = "sha256-kHVdbUy8vqSj5SozCQUvxBfBpboVyDaDa++3KrTODCk=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -16059,15 +16059,15 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.15.1";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.15.1/file/sasjs.sasjs-for-vscode-1.15.1.vsix";
-      sha256 = "sha256-IHxbYXrtvFTV6/au79H/orQoiWAmMWyauzjgxu/5+uY=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.0/file/sasjs.sasjs-for-vscode-1.16.0.vsix";
+      sha256 = "sha256-V8/sNp/CE0trqlIYm6r77JwXR1q1AEHND0Pt/38WLTU=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
     publisher = "sasjs";
-    description = "Execute code on any SAS server, also perform SAS linting and syntax highlighting";
+    description = "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting";
   };
   satoqz-yet-another-discord-presence = {
     pname = "satoqz-yet-another-discord-presence";
