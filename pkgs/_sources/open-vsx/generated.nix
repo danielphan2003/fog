@@ -99,10 +99,10 @@
   };
   AquaSecurityOfficial-trivy-vulnerability-scanner = {
     pname = "AquaSecurityOfficial-trivy-vulnerability-scanner";
-    version = "0.3.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.3.0/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.3.0.vsix";
-      sha256 = "sha256-rtxk8IuKwnWzVnOAa4XA7QbRsXrEqeRSyREhLOIwp0Y=";
+      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.4.1/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.4.1.vsix";
+      sha256 = "sha256-tH/m07aHndnJhSfxP7NIpzGLQuo/Ln5TPYogLnYV/ls=";
     };
     name = "trivy-vulnerability-scanner";
     license = "Apache-2.0";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.886";
+    version = "31.0.891";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.886/file/Prisma.prisma-insider-31.0.886.vsix";
-      sha256 = "sha256-AAC4oISZMTcHpZKeSKgxZqLhTkNr8VCy6wFO5/9dk5w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.891/file/Prisma.prisma-insider-31.0.891.vsix";
+      sha256 = "sha256-wfh+ff4PdNILYYp5bsyahHn29yuHVnha/olmJg03r0M=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14595,10 +14595,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.327";
+    version = "0.25.328";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.327/file/pokey.cursorless-0.25.327.vsix";
-      sha256 = "sha256-GDkXB10gEfTyb7uYOaqYemgWW1XtoUh3k2hGqCJ7JDY=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.328/file/pokey.cursorless-0.25.328.vsix";
+      sha256 = "sha256-MI/v9yD7azZMOY4WIKnT3rZMOhCc6hgqCuwll7MQVBM=";
     };
     name = "cursorless";
     license = "MIT";
@@ -16119,10 +16119,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.14.0";
+    version = "1.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.14.0/file/scalameta.metals-1.14.0.vsix";
-      sha256 = "sha256-3QXTFSuDW3+CWbJdqh5LLK4IT3fk1xqzVarGBYYjCeY=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.15.0/file/scalameta.metals-1.15.0.vsix";
+      sha256 = "sha256-KfIEoputriqnTnbsg6BpVxbcwA9N6quGcXDSttcByTg=";
     };
     name = "metals";
     license = "Apache-2.0";
@@ -18651,10 +18651,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.34.2";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.34.2/file/vscjava.vscode-java-test-0.34.2.vsix";
-      sha256 = "sha256-qL97CMpDll2Tm2C+2DEo1ob5wTPmcTTAjXO1VO2GgDA=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix";
+      sha256 = "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=";
     };
     name = "vscode-java-test";
     license = "";
@@ -20811,10 +20811,10 @@
   };
   znck-vue = {
     pname = "znck-vue";
-    version = "0.11.2";
+    version = "0.11.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.2/file/znck.vue-0.11.2.vsix";
-      sha256 = "sha256-79yExoJ/KxFr9kNtUyP8x29OXTlsuLBXE28sIEEzeLc=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.3/file/znck.vue-0.11.3.vsix";
+      sha256 = "sha256-GdKG/AGl93lnJvhcZUWwUMVZqIlQyGppqgD6PcAn3aE=";
     };
     name = "vue";
     license = "MIT";
@@ -20823,10 +20823,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.2";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.2/file/znck.vue-language-features-0.11.2.vsix";
-      sha256 = "sha256-1q7TMUBD60uvGXMcFQFq+t65VMI/C9XbYrmDUHkzovc=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.4/file/znck.vue-language-features-0.11.4.vsix";
+      sha256 = "sha256-jE7o8LwxFpUmUnDA6ZkUOi2D2/arfe+Nq/ma5GoTvSw=";
     };
     name = "vue-language-features";
     license = "MIT";
