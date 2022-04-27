@@ -1563,10 +1563,10 @@
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
-    version = "2.0.0";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.0/file/IBM.zopeneditor-2.0.0.vsix";
-      sha256 = "sha256-hKpw40rZFH3Q+djvP9+0lkxpN/0Y3+9UYcX+5+LOLiM=";
+      url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.2/file/IBM.zopeneditor-2.0.2.vsix";
+      sha256 = "sha256-WiOYxjdR0fv44WoAdL5VxnEhE8m71b7XJFSVaGagFw0=";
     };
     name = "zopeneditor";
     license = "";
@@ -3831,10 +3831,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.9.4";
+    version = "4.9.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.4/file/42Crunch.vscode-openapi-4.9.4.vsix";
-      sha256 = "sha256-qDzOKbCaHpZST5jAL0Z9Uqf8C4PoPp1biPz3HWzNO30=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.5/file/42Crunch.vscode-openapi-4.9.5.vsix";
+      sha256 = "sha256-s4ItemCwZrTon2OCKXE3xCGcve8tE/QpI0I2ZUFEENk=";
     };
     name = "vscode-openapi";
     license = "AGPL-3.0-only";
@@ -10887,10 +10887,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.28.0";
+    version = "1.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.28.0/file/keesschollaart.vscode-home-assistant-1.28.0.vsix";
-      sha256 = "sha256-OwDZ37uoqQY7Wbuuju8Wq+PTJkAF87RSPysV+5mVpEw=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.0/file/keesschollaart.vscode-home-assistant-1.29.0.vsix";
+      sha256 = "sha256-kPQDwQwsdY3iiqIx1ri+RKKH1zL0Jv9oHO0upo2YsK0=";
     };
     name = "vscode-home-assistant";
     license = "MIT";

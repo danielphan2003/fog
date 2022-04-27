@@ -2703,7 +2703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "keesschollaart-vscode-home-assistant",
-    "version": "1.28.0",
+    "version": "1.29.0",
     "passthru": {
       "name": "vscode-home-assistant",
       "license": "MIT",
@@ -2711,10 +2711,10 @@
       "description": " Completion for entity-id's in Home Assistant Configurations"
     },
     "src": {
-      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.28.0/file/keesschollaart.vscode-home-assistant-1.28.0.vsix",
+      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.0/file/keesschollaart.vscode-home-assistant-1.29.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OwDZ37uoqQY7Wbuuju8Wq+PTJkAF87RSPysV+5mVpEw="
+      "sha256": "sha256-kPQDwQwsdY3iiqIx1ri+RKKH1zL0Jv9oHO0upo2YsK0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18423,7 +18423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "IBM-zopeneditor",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "passthru": {
       "name": "zopeneditor",
       "license": "",
@@ -18431,10 +18431,10 @@
       "description": "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development."
     },
     "src": {
-      "url": "https://open-vsx.org/api/IBM/zopeneditor/2.0.0/file/IBM.zopeneditor-2.0.0.vsix",
+      "url": "https://open-vsx.org/api/IBM/zopeneditor/2.0.2/file/IBM.zopeneditor-2.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hKpw40rZFH3Q+djvP9+0lkxpN/0Y3+9UYcX+5+LOLiM="
+      "sha256": "sha256-WiOYxjdR0fv44WoAdL5VxnEhE8m71b7XJFSVaGagFw0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18523,7 +18523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "_42Crunch-vscode-openapi",
-    "version": "4.9.4",
+    "version": "4.9.5",
     "passthru": {
       "name": "vscode-openapi",
       "license": "AGPL-3.0-only",
@@ -18531,10 +18531,10 @@
       "description": "OpenAPI extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.4/file/42Crunch.vscode-openapi-4.9.4.vsix",
+      "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.5/file/42Crunch.vscode-openapi-4.9.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qDzOKbCaHpZST5jAL0Z9Uqf8C4PoPp1biPz3HWzNO30="
+      "sha256": "sha256-s4ItemCwZrTon2OCKXE3xCGcve8tE/QpI0I2ZUFEENk="
     },
     "extract": null,
     "rustGitDeps": null
