@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d284aaa2caaf6d25793fe27740b724a7b99a5be7";
+    version = "17bd1779ea40d6426237f31e2a9bcc8f24155d5d";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d284aaa2caaf6d25793fe27740b724a7b99a5be7";
+      rev = "17bd1779ea40d6426237f31e2a9bcc8f24155d5d";
       fetchSubmodules = false;
-      sha256 = "sha256-BL0rABgJsDNUMtfb556DtMlXWCDXaBKlWiPJUb1/o+w=";
+      sha256 = "sha256-J+Q9prNunfrgqXtCxC9yKIOJo1ePOAlDsaBAuN0U/Iw=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a268ffe6ce933786b2299dbefa43e9bfb847b9b3";
+    version = "e389b8c7a1d8167194a11cb3682415a4d938ead1";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a268ffe6ce933786b2299dbefa43e9bfb847b9b3";
+      rev = "e389b8c7a1d8167194a11cb3682415a4d938ead1";
       fetchSubmodules = false;
-      sha256 = "sha256-UdKVFoealrmF4PaZ51X5Qf+ilrhrZola90Ze+uw6VCo=";
+      sha256 = "sha256-Maueo5wqDfQfceEk7BwW5oe7Wix9xLbBgPCoG151Haw=";
     });
   };
   rofi-wayland = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "de44e45ed6c888b15445d68c33930a8df523f2c7";
+    version = "c1f5c20e94eedac6def3a84bdf5ae317ae270548";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "de44e45ed6c888b15445d68c33930a8df523f2c7";
+      rev = "c1f5c20e94eedac6def3a84bdf5ae317ae270548";
       fetchSubmodules = false;
-      sha256 = "sha256-n+xTbi/+S8qBMV/jom8MGtdhf/wDJTc1+nV0jA4N6FQ=";
+      sha256 = "sha256-7wF+zHaWwaSDOKVikTBxSx04vxzH/kgbi3pnyc7+eLU=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-de44e45ed6c888b15445d68c33930a8df523f2c7/Cargo.lock;
+      lockFile = ./rustdesk-c1f5c20e94eedac6def3a84bdf5ae317ae270548/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -904,14 +904,14 @@
   };
   snui = {
     pname = "snui";
-    version = "7a78dcd436d72a0596ef81b3bb91ea9447e0f793";
+    version = "d90eacb91dd5c10a603751ab0c748b89e9836ed1";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "7a78dcd436d72a0596ef81b3bb91ea9447e0f793";
+      rev = "d90eacb91dd5c10a603751ab0c748b89e9836ed1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-rfpYOmg89p0sjrgefGI61GXjQF/xT325+TIHmQhEWjM=";
+      sha256 = "sha256-2LSZZNGQOCNPQFOGLMPM+0nDoAvIYF0rkWlr7cxgdVE=";
     };
   };
   spicetify-cli = {
