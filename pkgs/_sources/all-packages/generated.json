@@ -2147,7 +2147,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-themes",
-    "version": "65443477b367fdb4ad66046c4858c338a00b3863",
+    "version": "95fd6ed8e98e456bed015cbe8a76253cd17064d2",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2157,8 +2157,8 @@
       "name": null,
       "repo": "spicetify-themes",
       "type": "github",
-      "sha256": "sha256-4w5YJNNmqiqDad7fE5Pf3apRjLfd5hzn7351yyL4cq4=",
-      "rev": "65443477b367fdb4ad66046c4858c338a00b3863"
+      "sha256": "sha256-oxX4ivacopIwdx9YbUThJZgr5YayylBlMZoO4VJDcMk=",
+      "rev": "95fd6ed8e98e456bed015cbe8a76253cd17064d2"
     },
     "extract": null,
     "rustGitDeps": null
