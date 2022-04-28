@@ -5163,7 +5163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jaspergeer-docmachine",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "passthru": {
       "name": "docmachine",
       "license": "MIT",
@@ -5171,10 +5171,10 @@
       "description": "On the fly documentation generator"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jaspergeer/docmachine/1.1.1/file/jaspergeer.docmachine-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/jaspergeer/docmachine/1.1.2/file/jaspergeer.docmachine-1.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RCou8yFbH17yQ4ct1LyWC7QTssVC5uvkIdgPtU3/jx0="
+      "sha256": "sha256-6S5B+usYKPSxhv5vvb9arpDXdqAt/Ck4GlIHKgyZ2/Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15523,7 +15523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.2612",
+    "version": "2022.4.2709",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15531,10 +15531,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2612/file/Slint.slint-nightly-2022.4.2612.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2709/file/Slint.slint-nightly-2022.4.2709.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qlyl2JLl2I1lWwGisHUTCtFIIoAODDL3H6SaBlN3nsY="
+      "sha256": "sha256-A2dl9+QnmtDc2sIJEfkbBUyp2TmEsnKmx9h2P8UTsKU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22163,7 +22163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oraichain-cosmwasm-ide",
-    "version": "0.13.50",
+    "version": "0.13.51",
     "passthru": {
       "name": "cosmwasm-ide",
       "license": "MIT OR Apache-2.0",
@@ -22171,10 +22171,10 @@
       "description": "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.50/file/oraichain.cosmwasm-ide-0.13.50.vsix",
+      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.51/file/oraichain.cosmwasm-ide-0.13.51.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Vnfuwkdk3rnHxZ3Mk4STgBy0+PPaEx7g9hSXWd55AzU="
+      "sha256": "sha256-julREvCvaOKrMv7+x+45wFmmSNAW2y6pHBO7ixvwzvc="
     },
     "extract": null,
     "rustGitDeps": null

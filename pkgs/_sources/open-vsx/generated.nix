@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.2612";
+    version = "2022.4.2709";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2612/file/Slint.slint-nightly-2022.4.2612.vsix";
-      sha256 = "sha256-qlyl2JLl2I1lWwGisHUTCtFIIoAODDL3H6SaBlN3nsY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2709/file/Slint.slint-nightly-2022.4.2709.vsix";
+      sha256 = "sha256-A2dl9+QnmtDc2sIJEfkbBUyp2TmEsnKmx9h2P8UTsKU=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -10167,10 +10167,10 @@
   };
   jaspergeer-docmachine = {
     pname = "jaspergeer-docmachine";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.1/file/jaspergeer.docmachine-1.1.1.vsix";
-      sha256 = "sha256-RCou8yFbH17yQ4ct1LyWC7QTssVC5uvkIdgPtU3/jx0=";
+      url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.2/file/jaspergeer.docmachine-1.1.2.vsix";
+      sha256 = "sha256-6S5B+usYKPSxhv5vvb9arpDXdqAt/Ck4GlIHKgyZ2/Q=";
     };
     name = "docmachine";
     license = "MIT";
@@ -14007,10 +14007,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.50";
+    version = "0.13.51";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.50/file/oraichain.cosmwasm-ide-0.13.50.vsix";
-      sha256 = "sha256-Vnfuwkdk3rnHxZ3Mk4STgBy0+PPaEx7g9hSXWd55AzU=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.51/file/oraichain.cosmwasm-ide-0.13.51.vsix";
+      sha256 = "sha256-julREvCvaOKrMv7+x+45wFmmSNAW2y6pHBO7ixvwzvc=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
