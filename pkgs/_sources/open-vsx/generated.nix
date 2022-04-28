@@ -16647,10 +16647,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.37";
+    version = "0.2.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.37/file/smapiot.vscode-piral-0.2.37.vsix";
-      sha256 = "sha256-TvM+ZqHq48PYjdMRzxnhOcQ7KMZC747X77Unrf8LqP0=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.40/file/smapiot.vscode-piral-0.2.40.vsix";
+      sha256 = "sha256-yljZPHMA4AYR6N9bhTJszJKH/pO5TVOCamSDKWLIjNE=";
     };
     name = "vscode-piral";
     license = "MIT";
