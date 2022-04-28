@@ -279,10 +279,10 @@
   };
   BroadcomMFD-code4z-extension-pack = {
     pname = "BroadcomMFD-code4z-extension-pack";
-    version = "1.2.3";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/code4z-extension-pack/1.2.3/file/BroadcomMFD.code4z-extension-pack-1.2.3.vsix";
-      sha256 = "sha256-WHOjZ+u4St+b4b4Ts9Ha8BC1yXygPAKkf/GM/ZwaBpU=";
+      url = "https://open-vsx.org/api/BroadcomMFD/code4z-extension-pack/2.0.0/file/BroadcomMFD.code4z-extension-pack-2.0.0.vsix";
+      sha256 = "sha256-jnz2ZuluFIb7lryspusXVbhww7Ho1kOSCJ1yBjGa4n0=";
     };
     name = "code4z-extension-pack";
     license = "";
@@ -2571,10 +2571,10 @@
   };
   PKief-material-product-icons = {
     pname = "PKief-material-product-icons";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-product-icons/1.2.0/file/PKief.material-product-icons-1.2.0.vsix";
-      sha256 = "sha256-Loxe1W9IYZHfyemqpAdowbiqemSrsqjPFoT2DCmsrT8=";
+      url = "https://open-vsx.org/api/PKief/material-product-icons/1.3.0/file/PKief.material-product-icons-1.3.0.vsix";
+      sha256 = "sha256-c8DENIYvNQNA8ORGkz87LKiq75MWiheoDMbmvf3Owtc=";
     };
     name = "material-product-icons";
     license = "MIT";
