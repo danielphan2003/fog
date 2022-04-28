@@ -7035,10 +7035,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.92.0";
+    version = "0.92.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.92.0/file/dendron.dendron-0.92.0.vsix";
-      sha256 = "sha256-YFPBEf4YOANTd8bw5J1qnXX3NGW5FLYlZcXwNKbK8z8=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.92.1/file/dendron.dendron-0.92.1.vsix";
+      sha256 = "sha256-Gpmppv7P7jhxlxsnHv5Yo5hLPEp9dyZ9/VvftOblgWM=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -9495,10 +9495,10 @@
   };
   huytd-tokyo-city = {
     pname = "huytd-tokyo-city";
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/huytd/tokyo-city/0.2.3/file/huytd.tokyo-city-0.2.3.vsix";
-      sha256 = "sha256-3n4S/0UQj8kNA8VkthpPA7eyav0RiPNrsWovN0F7428=";
+      url = "https://open-vsx.org/api/huytd/tokyo-city/0.2.4/file/huytd.tokyo-city-0.2.4.vsix";
+      sha256 = "sha256-EaMd2QIGJzR92xtUMWzeYihthS+9KMuF40JrzdUn2XA=";
     };
     name = "tokyo-city";
     license = "MIT";
@@ -18027,10 +18027,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.41.2";
+    version = "0.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.2/file/tuttieee.emacs-mcx-0.41.2.vsix";
-      sha256 = "sha256-WGKDQzCJlbxJsKk+RZ0/3ENZrUggPjSMjUOuRukGJCM=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.42.0/file/tuttieee.emacs-mcx-0.42.0.vsix";
+      sha256 = "sha256-IH5bhBBpP9y9YSfc9nxIAlRBtohlNGOTSI5WwB3VWoY=";
     };
     name = "emacs-mcx";
     license = "MIT";

@@ -5323,7 +5323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tuttieee-emacs-mcx",
-    "version": "0.41.2",
+    "version": "0.42.0",
     "passthru": {
       "name": "emacs-mcx",
       "license": "MIT",
@@ -5331,10 +5331,10 @@
       "description": "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.41.2/file/tuttieee.emacs-mcx-0.41.2.vsix",
+      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.42.0/file/tuttieee.emacs-mcx-0.42.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WGKDQzCJlbxJsKk+RZ0/3ENZrUggPjSMjUOuRukGJCM="
+      "sha256": "sha256-IH5bhBBpP9y9YSfc9nxIAlRBtohlNGOTSI5WwB3VWoY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23143,7 +23143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "huytd-tokyo-city",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "passthru": {
       "name": "tokyo-city",
       "license": "MIT",
@@ -23151,10 +23151,10 @@
       "description": "Tokyo City theme, a mixture of City Lights and Tokyo Night"
     },
     "src": {
-      "url": "https://open-vsx.org/api/huytd/tokyo-city/0.2.3/file/huytd.tokyo-city-0.2.3.vsix",
+      "url": "https://open-vsx.org/api/huytd/tokyo-city/0.2.4/file/huytd.tokyo-city-0.2.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3n4S/0UQj8kNA8VkthpPA7eyav0RiPNrsWovN0F7428="
+      "sha256": "sha256-EaMd2QIGJzR92xtUMWzeYihthS+9KMuF40JrzdUn2XA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24203,7 +24203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.92.0",
+    "version": "0.92.1",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -24211,10 +24211,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.92.0/file/dendron.dendron-0.92.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.92.1/file/dendron.dendron-0.92.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YFPBEf4YOANTd8bw5J1qnXX3NGW5FLYlZcXwNKbK8z8="
+      "sha256": "sha256-Gpmppv7P7jhxlxsnHv5Yo5hLPEp9dyZ9/VvftOblgWM="
     },
     "extract": null,
     "rustGitDeps": null
