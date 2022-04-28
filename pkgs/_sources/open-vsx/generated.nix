@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.892";
+    version = "31.0.893";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.892/file/Prisma.prisma-insider-31.0.892.vsix";
-      sha256 = "sha256-M7x358o6na8oMz18RIJ1A867vllZoX0Jf4gOXwmOUUs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.893/file/Prisma.prisma-insider-31.0.893.vsix";
+      sha256 = "sha256-/o/JwnPQ0l6Aor9Y6d3Uk+98TWIQnu9HtfBbZBp1/4U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5461,6 +5461,18 @@
     publisher = "betterthantomorrow";
     description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.";
   };
+  betterthantomorrow-joyride = {
+    pname = "betterthantomorrow-joyride";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.2/file/betterthantomorrow.joyride-0.0.2.vsix";
+      sha256 = "sha256-7QxJKRwh+zxrSwcBhiV46KXGEHLwNWB5GIUJsnohftc=";
+    };
+    name = "joyride";
+    license = "MIT";
+    publisher = "betterthantomorrow";
+    description = "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter.";
+  };
   biao1010-ai-js = {
     pname = "biao1010-ai-js";
     version = "0.0.1";
@@ -7119,10 +7131,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.92.2";
+    version = "0.92.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.92.2/file/dendron.nightly-0.92.2.vsix";
-      sha256 = "sha256-AC0iaXCJO5+Hf0tdFNZYhM8ZNHgfwMDme7a+ycnNTDA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.92.3/file/dendron.nightly-0.92.3.vsix";
+      sha256 = "sha256-wd5fzVgUzW6nDBhGSB/Low3CcB6kEjW5MdrgWV1uEwY=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -18303,10 +18315,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.9.2";
+    version = "2.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.9.2/file/usernamehw.todo-md-2.9.2.vsix";
-      sha256 = "sha256-ivr1hEC+91/z9bNqDG4sY0sbJbr+wzbXIjD0Dg2NQV4=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.10.0/file/usernamehw.todo-md-2.10.0.vsix";
+      sha256 = "sha256-5cy2OYFD8zxfuBhFYW1mruay8QngxdNCkO/IDFdt5hM=";
     };
     name = "todo-md";
     license = "MIT";
