@@ -619,6 +619,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "neikeq-godot-csharp-vscode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "neikeq-godot-csharp-vscode",
+    "version": "0.2.1",
+    "passthru": {
+      "name": "godot-csharp-vscode",
+      "license": "MIT",
+      "publisher": "neikeq",
+      "description": "Debugger and utilities for working with Godot C# projects"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neikeq.godot-csharp-vscode-0.2.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-i/0gUcurAFa1cwVwu+EeNgvVLRgXYgy98y/aayEomxk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "fivethree-vscode-svelte-snippets": {
     "pinned": false,
     "cargoLock": null,
@@ -6503,7 +6523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cvergne-vscode-php-getters-setters-cv",
-    "version": "1.6.0",
+    "version": "1.6.1",
     "passthru": {
       "name": "vscode-php-getters-setters-cv",
       "license": "MIT",
@@ -6511,10 +6531,10 @@
       "description": "Create PHP getters and setters from class properties"
     },
     "src": {
-      "url": "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.0/file/cvergne.vscode-php-getters-setters-cv-1.6.0.vsix",
+      "url": "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.1/file/cvergne.vscode-php-getters-setters-cv-1.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PNsuHO35JV1H6SMXKvQf3MJmzRk897V5ZuELHMEjq+k="
+      "sha256": "sha256-u8F7cMQ7FmpCLSpG0X3joysy/5PPHNZjS6tztqLwCnc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7223,7 +7243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tomi-xasnippets",
-    "version": "2.12.0",
+    "version": "2.13.1",
     "passthru": {
       "name": "xasnippets",
       "license": "ISC",
@@ -7231,10 +7251,10 @@
       "description": "React-typescript code snippets for XAcademy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tomi/xasnippets/2.12.0/file/tomi.xasnippets-2.12.0.vsix",
+      "url": "https://open-vsx.org/api/tomi/xasnippets/2.13.1/file/tomi.xasnippets-2.13.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gwQEqgtYN5JPo1ZrVDMLx8Sdeo3WpEZPB3tozUVK/AM="
+      "sha256": "sha256-4EKaTrGArHzIhHkAKbvnbVyHU6ShhRE7y1iyHIRStQQ="
     },
     "extract": null,
     "rustGitDeps": null

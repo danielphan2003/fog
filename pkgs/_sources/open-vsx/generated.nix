@@ -6567,10 +6567,10 @@
   };
   cvergne-vscode-php-getters-setters-cv = {
     pname = "cvergne-vscode-php-getters-setters-cv";
-    version = "1.6.0";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.0/file/cvergne.vscode-php-getters-setters-cv-1.6.0.vsix";
-      sha256 = "sha256-PNsuHO35JV1H6SMXKvQf3MJmzRk897V5ZuELHMEjq+k=";
+      url = "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.1/file/cvergne.vscode-php-getters-setters-cv-1.6.1.vsix";
+      sha256 = "sha256-u8F7cMQ7FmpCLSpG0X3joysy/5PPHNZjS6tztqLwCnc=";
     };
     name = "vscode-php-getters-setters-cv";
     license = "MIT";
@@ -13489,6 +13489,18 @@
     publisher = "naumovs";
     description = "Highlight web colors in your editor";
   };
+  neikeq-godot-csharp-vscode = {
+    pname = "neikeq-godot-csharp-vscode";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neikeq.godot-csharp-vscode-0.2.1.vsix";
+      sha256 = "sha256-i/0gUcurAFa1cwVwu+EeNgvVLRgXYgy98y/aayEomxk=";
+    };
+    name = "godot-csharp-vscode";
+    license = "MIT";
+    publisher = "neikeq";
+    description = "Debugger and utilities for working with Godot C# projects";
+  };
   neilbrayfield-php-docblocker = {
     pname = "neilbrayfield-php-docblocker";
     version = "2.7.0";
@@ -17847,10 +17859,10 @@
   };
   tomi-xasnippets = {
     pname = "tomi-xasnippets";
-    version = "2.12.0";
+    version = "2.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tomi/xasnippets/2.12.0/file/tomi.xasnippets-2.12.0.vsix";
-      sha256 = "sha256-gwQEqgtYN5JPo1ZrVDMLx8Sdeo3WpEZPB3tozUVK/AM=";
+      url = "https://open-vsx.org/api/tomi/xasnippets/2.13.1/file/tomi.xasnippets-2.13.1.vsix";
+      sha256 = "sha256-4EKaTrGArHzIhHkAKbvnbVyHU6ShhRE7y1iyHIRStQQ=";
     };
     name = "xasnippets";
     license = "ISC";
