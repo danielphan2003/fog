@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.2709";
+    version = "2022.4.2908";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2709/file/Slint.slint-nightly-2022.4.2709.vsix";
-      sha256 = "sha256-A2dl9+QnmtDc2sIJEfkbBUyp2TmEsnKmx9h2P8UTsKU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2908/file/Slint.slint-nightly-2022.4.2908.vsix";
+      sha256 = "sha256-6AzduUxrNSRlWfakpsIzr7BTHy9A86b5pX41+2MUZGc=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -12399,10 +12399,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.20";
+    version = "2.1.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.20/file/mintlify.document-2.1.20.vsix";
-      sha256 = "sha256-WAvr88raedYACB+b/gwqrY2/v/MQtBDkkC+ZY8cd4VU=";
+      url = "https://open-vsx.org/api/mintlify/document/2.1.21/file/mintlify.document-2.1.21.vsix";
+      sha256 = "sha256-haqhgpDS+hHNRQ0P0plMneDHD0Hf+iFtFoZgEo/Al6w=";
     };
     name = "document";
     license = "Expat";
@@ -12951,10 +12951,10 @@
   };
   ms-vscode-makefile-tools = {
     pname = "ms-vscode-makefile-tools";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/makefile-tools/0.4.0/file/ms-vscode.makefile-tools-0.4.0.vsix";
-      sha256 = "sha256-Se+SK9evYJYWu+2zftE2cShimhAC60ejlr5mqNc6z88=";
+      url = "https://open-vsx.org/api/ms-vscode/makefile-tools/0.5.0/file/ms-vscode.makefile-tools-0.5.0.vsix";
+      sha256 = "sha256-oBYABz6qdV9g7WdHycL1LrEaYG5be3e4hlo4ILhX4KI=";
     };
     name = "makefile-tools";
     license = "";
