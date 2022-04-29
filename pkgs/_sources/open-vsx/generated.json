@@ -5343,7 +5343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tuttieee-emacs-mcx",
-    "version": "0.42.0",
+    "version": "0.43.1",
     "passthru": {
       "name": "emacs-mcx",
       "license": "MIT",
@@ -5351,10 +5351,10 @@
       "description": "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.42.0/file/tuttieee.emacs-mcx-0.42.0.vsix",
+      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.43.1/file/tuttieee.emacs-mcx-0.43.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IH5bhBBpP9y9YSfc9nxIAlRBtohlNGOTSI5WwB3VWoY="
+      "sha256": "sha256-fPxgU+eGB3Srx3OxcRgb30CarbYj9t9gqAcn1PyLdm8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11783,7 +11783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.40",
+    "version": "0.2.60",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11791,10 +11791,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.40/file/smapiot.vscode-piral-0.2.40.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.60/file/smapiot.vscode-piral-0.2.60.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yljZPHMA4AYR6N9bhTJszJKH/pO5TVOCamSDKWLIjNE="
+      "sha256": "sha256-ThpYKEor4DU2f27g4gX+B0y4Fn7qBfbjNWAsDVsWtKw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -20963,7 +20963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lifeart-vscode-ember-unstable",
-    "version": "3.0.30",
+    "version": "3.0.31",
     "passthru": {
       "name": "vscode-ember-unstable",
       "license": "MIT",
@@ -20971,10 +20971,10 @@
       "description": "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.30/file/lifeart.vscode-ember-unstable-3.0.30.vsix",
+      "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.31/file/lifeart.vscode-ember-unstable-3.0.31.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-taU71l3IxP+oT55CubuKkLrMRs0rBF2KLEpuHnMEXUU="
+      "sha256": "sha256-OImZCXLWU0PpL0oXtH2StZXsLussZcOTB/J22vEcEXM="
     },
     "extract": null,
     "rustGitDeps": null

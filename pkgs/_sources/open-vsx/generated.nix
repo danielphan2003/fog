@@ -11571,10 +11571,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.30";
+    version = "3.0.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.30/file/lifeart.vscode-ember-unstable-3.0.30.vsix";
-      sha256 = "sha256-taU71l3IxP+oT55CubuKkLrMRs0rBF2KLEpuHnMEXUU=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.31/file/lifeart.vscode-ember-unstable-3.0.31.vsix";
+      sha256 = "sha256-OImZCXLWU0PpL0oXtH2StZXsLussZcOTB/J22vEcEXM=";
     };
     name = "vscode-ember-unstable";
     license = "MIT";
@@ -16659,10 +16659,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.40";
+    version = "0.2.60";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.40/file/smapiot.vscode-piral-0.2.40.vsix";
-      sha256 = "sha256-yljZPHMA4AYR6N9bhTJszJKH/pO5TVOCamSDKWLIjNE=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.60/file/smapiot.vscode-piral-0.2.60.vsix";
+      sha256 = "sha256-ThpYKEor4DU2f27g4gX+B0y4Fn7qBfbjNWAsDVsWtKw=";
     };
     name = "vscode-piral";
     license = "MIT";
@@ -18051,10 +18051,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.42.0";
+    version = "0.43.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.42.0/file/tuttieee.emacs-mcx-0.42.0.vsix";
-      sha256 = "sha256-IH5bhBBpP9y9YSfc9nxIAlRBtohlNGOTSI5WwB3VWoY=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.43.1/file/tuttieee.emacs-mcx-0.43.1.vsix";
+      sha256 = "sha256-fPxgU+eGB3Srx3OxcRgb30CarbYj9t9gqAcn1PyLdm8=";
     };
     name = "emacs-mcx";
     license = "MIT";
