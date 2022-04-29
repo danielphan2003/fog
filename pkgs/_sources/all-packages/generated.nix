@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "982056f69f8cba0e7fd18fb7fec1e796865e75ce";
+    version = "6211267e06e3581d942d39f8227cadb89eb3cf88";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "982056f69f8cba0e7fd18fb7fec1e796865e75ce";
+      rev = "6211267e06e3581d942d39f8227cadb89eb3cf88";
       fetchSubmodules = false;
-      sha256 = "sha256-J8RcKMGarscdi/yTMz9Kx37KpZuzB2HLzAZH2UVRjM4=";
+      sha256 = "sha256-uiC4m6gmqEwVvBRolJfrVP77+e0duC9I7cFxVXNf0yc=";
     });
     cargoLock = {
-      lockFile = ./eww-982056f69f8cba0e7fd18fb7fec1e796865e75ce/Cargo.lock;
+      lockFile = ./eww-6211267e06e3581d942d39f8227cadb89eb3cf88/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6126";
+    version = "1.0.6128";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6126.tar.bz2";
-      sha256 = "sha256-VxJV7+cFjkh6vocygeb42JuJbtySW7wqRiSuAGDEqcs=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6128.tar.bz2";
+      sha256 = "sha256-uXorxu683Y3yjdFuxUW22bAF9dbrwdR3VeASScQXn5s=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6126";
+    version = "1.0.6128";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6126-1_all.deb";
-      sha256 = "sha256-I6yDBWjx/0XNEXXRGcpqi4/IGS2rM7t+BG1cOf+jU1M=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6128-1_all.deb";
+      sha256 = "sha256-TZVl7ZZ3fnFen+y7D60NbWk30KPv8c19Gcw0DPl7PhA=";
     };
   };
   jitsi-videobridge2 = {
