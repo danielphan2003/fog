@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.896";
+    version = "31.0.898";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.896/file/Prisma.prisma-insider-31.0.896.vsix";
-      sha256 = "sha256-LMLmgrP483nFqxU5RKzhXlKDh4sph09HcrV8RY/lZQM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.898/file/Prisma.prisma-insider-31.0.898.vsix";
+      sha256 = "sha256-uUgkO7/fRtqVB+reumhMrEfgpdKGGhhuw/ieuxojN7o=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -13983,10 +13983,10 @@
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.2/file/openra.vscode-openra-lua-0.0.2.vsix";
-      sha256 = "sha256-nZrDUyBLwII01h9RafqYNKklANS9CeMi7WMCfUlUkQQ=";
+      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.3/file/openra.vscode-openra-lua-0.0.3.vsix";
+      sha256 = "sha256-OvETCpwa6O/yCbox7AemxqBasiqQbFHvR+H3cnNy94U=";
     };
     name = "vscode-openra-lua";
     license = "GPL-3.0";

@@ -7343,7 +7343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "openra-vscode-openra-lua",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "passthru": {
       "name": "vscode-openra-lua",
       "license": "GPL-3.0",
@@ -7351,10 +7351,10 @@
       "description": "Adds game scripting API and map globals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.2/file/openra.vscode-openra-lua-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.3/file/openra.vscode-openra-lua-0.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nZrDUyBLwII01h9RafqYNKklANS9CeMi7WMCfUlUkQQ="
+      "sha256": "sha256-OvETCpwa6O/yCbox7AemxqBasiqQbFHvR+H3cnNy94U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31423,7 +31423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.896",
+    "version": "31.0.898",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31431,10 +31431,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.896/file/Prisma.prisma-insider-31.0.896.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.898/file/Prisma.prisma-insider-31.0.898.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LMLmgrP483nFqxU5RKzhXlKDh4sph09HcrV8RY/lZQM="
+      "sha256": "sha256-uUgkO7/fRtqVB+reumhMrEfgpdKGGhhuw/ieuxojN7o="
     },
     "extract": null,
     "rustGitDeps": null
