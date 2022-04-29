@@ -33303,7 +33303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jetmartin-apicurio",
-    "version": "0.0.4",
+    "version": "0.1.0",
     "passthru": {
       "name": "apicurio",
       "license": "MIT",
@@ -33311,10 +33311,10 @@
       "description": "Explore Apicurio registry content."
     },
     "src": {
-      "url": "https://open-vsx.org/api/jetmartin/apicurio/0.0.4/file/jetmartin.apicurio-0.0.4.vsix",
+      "url": "https://open-vsx.org/api/jetmartin/apicurio/0.1.0/file/jetmartin.apicurio-0.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oMxsrlqLjF15io7s5rfdEsifpZFmL4m/aNbn1sp72eY="
+      "sha256": "sha256-71FaX7+ezGKYWDCSaHiaNm/lrSO+DeFH7oyqGVjzCSM="
     },
     "extract": null,
     "rustGitDeps": null
