@@ -7971,10 +7971,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.20";
+    version = "1.3.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.20/file/everscale.solidity-support-1.3.20.vsix";
-      sha256 = "sha256-m452zgCvK2MVWJEUvOLvZYCIFOgUYd72LLmKa5ui8C8=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.23/file/everscale.solidity-support-1.3.23.vsix";
+      sha256 = "sha256-pk5tLEO5s+IuFGID1UdKOWR/VXEb0zJqnPjtJljhh+M=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -16191,10 +16191,10 @@
   };
   senx-warpscript-language = {
     pname = "senx-warpscript-language";
-    version = "2.1.4";
+    version = "2.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.4/file/senx.warpscript-language-2.1.4.vsix";
-      sha256 = "sha256-T0uF+qPbS2tFc1P0jE81/zkUxJNs2uDf4GJSSfJBj1E=";
+      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.6/file/senx.warpscript-language-2.1.6.vsix";
+      sha256 = "sha256-QqOVKid57ZYJNV9gVX5pR61svGQN8cv3rDsTkHzxRJM=";
     };
     name = "warpscript-language";
     license = "Apache-2.0";
