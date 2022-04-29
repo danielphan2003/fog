@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "6211267e06e3581d942d39f8227cadb89eb3cf88";
+    version = "d1b222fa7fbe8ae66d25afa6bffb3e4127d9efbe";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "6211267e06e3581d942d39f8227cadb89eb3cf88";
+      rev = "d1b222fa7fbe8ae66d25afa6bffb3e4127d9efbe";
       fetchSubmodules = false;
-      sha256 = "sha256-uiC4m6gmqEwVvBRolJfrVP77+e0duC9I7cFxVXNf0yc=";
+      sha256 = "sha256-R/n2HTMfLCj9Xw+ViXE+7V116b6wsaWoVdOpJzuo3nM=";
     });
     cargoLock = {
-      lockFile = ./eww-6211267e06e3581d942d39f8227cadb89eb3cf88/Cargo.lock;
+      lockFile = ./eww-d1b222fa7fbe8ae66d25afa6bffb3e4127d9efbe/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "499ccad74e3d5ea44a4747bae0802b3a3461aa1c";
+    version = "7a70b36c8b86bb60be194102a7b5f2697f951d11";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "499ccad74e3d5ea44a4747bae0802b3a3461aa1c";
+      rev = "7a70b36c8b86bb60be194102a7b5f2697f951d11";
       fetchSubmodules = false;
-      sha256 = "sha256-glzDwO5XTpxGjEzyK886NeX+z5IQLXYjagPorNpn1m8=";
+      sha256 = "sha256-m3afq+2o1nTkJJft0yCbJrXwrGBzL7B+s4TNJpF6tfI=";
     });
   };
   rofi-wayland = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e2c9b782547e536c505d6ca5fbbcc203243e8acc";
+    version = "1235edb23925b0653f028cc60d4e9966ed055380";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e2c9b782547e536c505d6ca5fbbcc203243e8acc";
+      rev = "1235edb23925b0653f028cc60d4e9966ed055380";
       fetchSubmodules = false;
-      sha256 = "sha256-RedQCONkIsj5HTDMhVNQBHT5bZpTs2VzkEOuDokKg1g=";
+      sha256 = "sha256-6NI5dfK57cDFp3XbndhenlKHmDbg+X4ynLf1JGdMtX0=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-e2c9b782547e536c505d6ca5fbbcc203243e8acc/Cargo.lock;
+      lockFile = ./rustdesk-1235edb23925b0653f028cc60d4e9966ed055380/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
