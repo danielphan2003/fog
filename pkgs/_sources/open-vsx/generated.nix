@@ -2271,10 +2271,10 @@
   };
   MarkMcCulloh-vscode-projen = {
     pname = "MarkMcCulloh-vscode-projen";
-    version = "0.0.29";
+    version = "0.0.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.29/file/MarkMcCulloh.vscode-projen-0.0.29.vsix";
-      sha256 = "sha256-HkElWBL9mtFJKrUsyXrxnt42zk4hmbE6DOchifTSY9Y=";
+      url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.30/file/MarkMcCulloh.vscode-projen-0.0.30.vsix";
+      sha256 = "sha256-zTvRAUifFtf1WXEu9F915P9LeJxxn2ZuoQ3X+saAD1A=";
     };
     name = "vscode-projen";
     license = "Apache-2.0";
@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.2908";
+    version = "2022.4.2917";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2908/file/Slint.slint-nightly-2022.4.2908.vsix";
-      sha256 = "sha256-6AzduUxrNSRlWfakpsIzr7BTHy9A86b5pX41+2MUZGc=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2917/file/Slint.slint-nightly-2022.4.2917.vsix";
+      sha256 = "sha256-qaIVyZizZ64in6cnVp7TFKThf58RHV7GWapHjb/j/1Y=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -9087,10 +9087,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.1";
+    version = "1.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.1/file/halcyontechltd.code-for-ibmi-1.3.1.vsix";
-      sha256 = "sha256-BwVUPzoi7AHq1Q67xszArw44B2xmAmvsC4asr3m5jck=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.2/file/halcyontechltd.code-for-ibmi-1.3.2.vsix";
+      sha256 = "sha256-pvklJ1QXEaXr7Lxn9ozBFhs7ZwP8mDxFtu/pf2sHa7A=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -10527,10 +10527,10 @@
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
-    version = "0.34.10";
+    version = "0.34.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.34.10/file/johnsoncodehk.vscode-typescript-vue-plugin-0.34.10.vsix";
-      sha256 = "sha256-GhAtIdCql2p+jffAxxuYRu9EPqBp5S2/cZ/YAxFZJZE=";
+      url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.34.11/file/johnsoncodehk.vscode-typescript-vue-plugin-0.34.11.vsix";
+      sha256 = "sha256-H4jHsNk2o0+Np0IMuL5b6KjgZSvmDTy8S+aLbmXjeK0=";
     };
     name = "vscode-typescript-vue-plugin";
     license = "MIT";
@@ -12915,10 +12915,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.67.0";
+    version = "1.67.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.67.0/file/ms-vscode.js-debug-1.67.0.vsix";
-      sha256 = "sha256-xlNG62nGlJxbQXFfZFOBGVUa/vGMHt9QFu4lmAqxs68=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.67.2/file/ms-vscode.js-debug-1.67.2.vsix";
+      sha256 = "sha256-B3GtJVJ2XywvSLJiSanqv3fF/J15PcSd0SLgJHLuE1c=";
     };
     name = "js-debug";
     license = "MIT";
