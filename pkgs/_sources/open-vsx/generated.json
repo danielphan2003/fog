@@ -7059,6 +7059,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "hermitter-oh-lucy-vscode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "hermitter-oh-lucy-vscode",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "oh-lucy-vscode",
+      "license": "MIT",
+      "publisher": "hermitter",
+      "description": "a re-upload of a soft but clear syntax theme"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/hermitter/oh-lucy-vscode/0.0.1/file/hermitter.oh-lucy-vscode-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-nM+dlj8aUR00JQRCMLsWUo3xv3F/oZZNHaJBub5scr0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "kodetech-krafix": {
     "pinned": false,
     "cargoLock": null,

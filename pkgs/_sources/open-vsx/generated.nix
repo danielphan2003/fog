@@ -9289,6 +9289,18 @@
     publisher = "heptio";
     description = "Language support for Jsonnet";
   };
+  hermitter-oh-lucy-vscode = {
+    pname = "hermitter-oh-lucy-vscode";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hermitter/oh-lucy-vscode/0.0.1/file/hermitter.oh-lucy-vscode-0.0.1.vsix";
+      sha256 = "sha256-nM+dlj8aUR00JQRCMLsWUo3xv3F/oZZNHaJBub5scr0=";
+    };
+    name = "oh-lucy-vscode";
+    license = "MIT";
+    publisher = "hermitter";
+    description = "a re-upload of a soft but clear syntax theme";
+  };
   hexnaught-vscode-bitburner-connector = {
     pname = "hexnaught-vscode-bitburner-connector";
     version = "1.3.2";
