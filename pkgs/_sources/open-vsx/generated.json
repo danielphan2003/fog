@@ -5603,7 +5603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gera2ld-markmap-vscode",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "passthru": {
       "name": "markmap-vscode",
       "license": "MIT",
@@ -5611,10 +5611,10 @@
       "description": "Visualize your markdown in VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.12/file/gera2ld.markmap-vscode-0.0.12.vsix",
+      "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.13/file/gera2ld.markmap-vscode-0.0.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FIEtUeSqOggyCAC4REw6iMB9o+qgQxgrFzkwagf9TWM="
+      "sha256": "sha256-5lwiG0+p1OWkxOJuZ7AwMx3IanBlPqU/9ttnx7NWPRQ="
     },
     "extract": null,
     "rustGitDeps": null

@@ -8739,10 +8739,10 @@
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.12/file/gera2ld.markmap-vscode-0.0.12.vsix";
-      sha256 = "sha256-FIEtUeSqOggyCAC4REw6iMB9o+qgQxgrFzkwagf9TWM=";
+      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.13/file/gera2ld.markmap-vscode-0.0.13.vsix";
+      sha256 = "sha256-5lwiG0+p1OWkxOJuZ7AwMx3IanBlPqU/9ttnx7NWPRQ=";
     };
     name = "markmap-vscode";
     license = "MIT";
