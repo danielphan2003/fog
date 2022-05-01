@@ -12383,18 +12383,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.12",
+    "version": "2.1.13",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
       "publisher": "pomdtr",
-      "description": "Draw schemas in VSCode using Excalidraw"
+      "description": "Draw schemas in VS Code using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.12/file/pomdtr.excalidraw-editor-2.1.12.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.13/file/pomdtr.excalidraw-editor-2.1.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-34I5liWRNklR/Tz74MG7uxHfFqEaiIOymCdD7qb2Fvc="
+      "sha256": "sha256-BOnD7tdWxI8JeSgdSLXFTEkkSW2HWxSyQFF6raDBBlA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31703,7 +31703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "croccifixio-blackboard-pro",
-    "version": "1.1.1",
+    "version": "1.1.3",
     "passthru": {
       "name": "blackboard-pro",
       "license": "Unlicense",
@@ -31711,10 +31711,10 @@
       "description": "An extension of the default Blackboard theme including a themed workbench and more colorisation of snippets"
     },
     "src": {
-      "url": "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.1/file/croccifixio.blackboard-pro-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.3/file/croccifixio.blackboard-pro-1.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LH5M8x9DNCG2V3KVepbPX05zyhl6SGQ6Ts7hc1JGnoI="
+      "sha256": "sha256-Kwabhv8A7uhwE+mPCuMut+9ZRdjiUoa5lFO8Za5/1oc="
     },
     "extract": null,
     "rustGitDeps": null

@@ -6447,10 +6447,10 @@
   };
   croccifixio-blackboard-pro = {
     pname = "croccifixio-blackboard-pro";
-    version = "1.1.1";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.1/file/croccifixio.blackboard-pro-1.1.1.vsix";
-      sha256 = "sha256-LH5M8x9DNCG2V3KVepbPX05zyhl6SGQ6Ts7hc1JGnoI=";
+      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.3/file/croccifixio.blackboard-pro-1.1.3.vsix";
+      sha256 = "sha256-Kwabhv8A7uhwE+mPCuMut+9ZRdjiUoa5lFO8Za5/1oc=";
     };
     name = "blackboard-pro";
     license = "Unlicense";
@@ -14679,15 +14679,15 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.12";
+    version = "2.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.12/file/pomdtr.excalidraw-editor-2.1.12.vsix";
-      sha256 = "sha256-34I5liWRNklR/Tz74MG7uxHfFqEaiIOymCdD7qb2Fvc=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.13/file/pomdtr.excalidraw-editor-2.1.13.vsix";
+      sha256 = "sha256-BOnD7tdWxI8JeSgdSLXFTEkkSW2HWxSyQFF6raDBBlA=";
     };
     name = "excalidraw-editor";
     license = "MIT";
     publisher = "pomdtr";
-    description = "Draw schemas in VSCode using Excalidraw";
+    description = "Draw schemas in VS Code using Excalidraw";
   };
   pouya-comment = {
     pname = "pouya-comment";
