@@ -14403,10 +14403,10 @@
   };
   pinage404-bash-extension-pack = {
     pname = "pinage404-bash-extension-pack";
-    version = "1.0.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pinage404/bash-extension-pack/1.0.0/file/pinage404.bash-extension-pack-1.0.0.vsix";
-      sha256 = "sha256-DmuSuAnRT922CahR3ma1h5oDY+/Qagc5cQASqZ+C66s=";
+      url = "https://open-vsx.org/api/pinage404/bash-extension-pack/2.0.0/file/pinage404.bash-extension-pack-2.0.0.vsix";
+      sha256 = "sha256-adrGnMKxswWjMV61GXPHzD3Dfe2pr4MSAAMv6dE/v8Y=";
     };
     name = "bash-extension-pack";
     license = "MIT";
@@ -14511,10 +14511,10 @@
   };
   pinage404-nix-extension-pack = {
     pname = "pinage404-nix-extension-pack";
-    version = "1.0.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pinage404/nix-extension-pack/1.0.0/file/pinage404.nix-extension-pack-1.0.0.vsix";
-      sha256 = "sha256-xmoEbPD7WmsZuVzRaPQJ6JzS3lcF7UWLHn5UUrXGNlw=";
+      url = "https://open-vsx.org/api/pinage404/nix-extension-pack/2.0.0/file/pinage404.nix-extension-pack-2.0.0.vsix";
+      sha256 = "sha256-4wfGA5acvFAaacnW0rcMUktotWVeK5NR5uJfx63nlBg=";
     };
     name = "nix-extension-pack";
     license = "MIT";
@@ -18063,10 +18063,10 @@
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
-    version = "0.43.1";
+    version = "0.44.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.43.1/file/tuttieee.emacs-mcx-0.43.1.vsix";
-      sha256 = "sha256-fPxgU+eGB3Srx3OxcRgb30CarbYj9t9gqAcn1PyLdm8=";
+      url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.0/file/tuttieee.emacs-mcx-0.44.0.vsix";
+      sha256 = "sha256-+oVFJFnyhTExAuCKf84CifPygyuu+HOFX5FMGD76Sk0=";
     };
     name = "emacs-mcx";
     license = "MIT";

@@ -5343,7 +5343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tuttieee-emacs-mcx",
-    "version": "0.43.1",
+    "version": "0.44.0",
     "passthru": {
       "name": "emacs-mcx",
       "license": "MIT",
@@ -5351,10 +5351,10 @@
       "description": "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes."
     },
     "src": {
-      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.43.1/file/tuttieee.emacs-mcx-0.43.1.vsix",
+      "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.0/file/tuttieee.emacs-mcx-0.44.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fPxgU+eGB3Srx3OxcRgb30CarbYj9t9gqAcn1PyLdm8="
+      "sha256": "sha256-+oVFJFnyhTExAuCKf84CifPygyuu+HOFX5FMGD76Sk0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16103,7 +16103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pinage404-bash-extension-pack",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "passthru": {
       "name": "bash-extension-pack",
       "license": "MIT",
@@ -16111,10 +16111,10 @@
       "description": "Opinionated extension pack to improve Bash usage"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pinage404/bash-extension-pack/1.0.0/file/pinage404.bash-extension-pack-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/pinage404/bash-extension-pack/2.0.0/file/pinage404.bash-extension-pack-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DmuSuAnRT922CahR3ma1h5oDY+/Qagc5cQASqZ+C66s="
+      "sha256": "sha256-adrGnMKxswWjMV61GXPHzD3Dfe2pr4MSAAMv6dE/v8Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31603,7 +31603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pinage404-nix-extension-pack",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "passthru": {
       "name": "nix-extension-pack",
       "license": "MIT",
@@ -31611,10 +31611,10 @@
       "description": "Collection of extensions for Nix ecosystem (NixOS, Flake, DirEnv ...)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pinage404/nix-extension-pack/1.0.0/file/pinage404.nix-extension-pack-1.0.0.vsix",
+      "url": "https://open-vsx.org/api/pinage404/nix-extension-pack/2.0.0/file/pinage404.nix-extension-pack-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xmoEbPD7WmsZuVzRaPQJ6JzS3lcF7UWLHn5UUrXGNlw="
+      "sha256": "sha256-4wfGA5acvFAaacnW0rcMUktotWVeK5NR5uJfx63nlBg="
     },
     "extract": null,
     "rustGitDeps": null
