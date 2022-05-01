@@ -46,17 +46,19 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "3b0da8bd25acb79fb91f2e84c6deb625801ebe03";
+    version = "b9842213da83b9e68e03c4a3b388185e79ca6fb6";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "3b0da8bd25acb79fb91f2e84c6deb625801ebe03";
+      rev = "b9842213da83b9e68e03c4a3b388185e79ca6fb6";
       fetchSubmodules = false;
-      sha256 = "sha256-RC2M0cPID8w9WBl5fc0Gmymfcu5VvawPPdZ9bdMxwoI=";
+      sha256 = "sha256-+WrWzsIwODeDXZjMBGrdqTx3LyACOWNGY2DkfAhFy04=";
     });
     cargoLock = {
-      lockFile = ./age-plugin-yubikey-3b0da8bd25acb79fb91f2e84c6deb625801ebe03/Cargo.lock;
-      outputHashes = { };
+      lockFile = ./age-plugin-yubikey-b9842213da83b9e68e03c4a3b388185e79ca6fb6/Cargo.lock;
+      outputHashes = {
+        "age-core-0.7.1" = "sha256-M3ebplmo5hklg4FaHRFJu80WN8a/HRc9nJ+fRE4TGKw=";
+      };
     };
   };
   anbox = {
@@ -811,16 +813,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "723575660309751aea27a94723f5e96c35e259cd";
+    version = "0e4e7fcb9b5eafb2f29598f2a60efafc7ef3552a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "723575660309751aea27a94723f5e96c35e259cd";
+      rev = "0e4e7fcb9b5eafb2f29598f2a60efafc7ef3552a";
       fetchSubmodules = false;
-      sha256 = "sha256-VBAy5Jik/BKGgc/Xvz/bfcfh2wwDnlNYbiKJVSCGUuk=";
+      sha256 = "sha256-PimxdyPXgVnBtTpWlPaGbeDX9s/g8TiDHDlLPCMCEZo=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-723575660309751aea27a94723f5e96c35e259cd/Cargo.lock;
+      lockFile = ./rustdesk-0e4e7fcb9b5eafb2f29598f2a60efafc7ef3552a/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
