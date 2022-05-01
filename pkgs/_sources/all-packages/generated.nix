@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "b9842213da83b9e68e03c4a3b388185e79ca6fb6";
+    version = "b825956bf863dadd315bec464c8d61868ca80c85";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "b9842213da83b9e68e03c4a3b388185e79ca6fb6";
+      rev = "b825956bf863dadd315bec464c8d61868ca80c85";
       fetchSubmodules = false;
-      sha256 = "sha256-+WrWzsIwODeDXZjMBGrdqTx3LyACOWNGY2DkfAhFy04=";
+      sha256 = "sha256-59c8uEqf5ApRqeGMvTj3ekQWU8qmBKfAuaj+9jgY6lk=";
     });
     cargoLock = {
-      lockFile = ./age-plugin-yubikey-b9842213da83b9e68e03c4a3b388185e79ca6fb6/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-b825956bf863dadd315bec464c8d61868ca80c85/Cargo.lock;
       outputHashes = {
         "age-core-0.7.1" = "sha256-M3ebplmo5hklg4FaHRFJu80WN8a/HRc9nJ+fRE4TGKw=";
       };
@@ -134,13 +134,13 @@
   };
   avizo = {
     pname = "avizo";
-    version = "d5c416aa7ac46660cd943f01ecfab6e29cb5e8c3";
+    version = "6698fff9f7789622eb9e42ca81553d5f54f810df";
     src = fetchFromGitHub ({
       owner = "misterdanb";
       repo = "avizo";
-      rev = "d5c416aa7ac46660cd943f01ecfab6e29cb5e8c3";
+      rev = "6698fff9f7789622eb9e42ca81553d5f54f810df";
       fetchSubmodules = false;
-      sha256 = "sha256-BRtdCOBFsKkJif/AlnF7N9ZDcmA+878M9lDQld+SAgo=";
+      sha256 = "sha256-k/YrgsE14NZ5hKmspniGajhmjyxM31Kwo+LKkcs87pU=";
     });
   };
   awesome = {
@@ -813,16 +813,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a8ad9e9c4678e56ad8ff0bdf04d28fc003db6a94";
+    version = "388dcbeb6dea497777a3fd00f388ead48c1c3160";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a8ad9e9c4678e56ad8ff0bdf04d28fc003db6a94";
+      rev = "388dcbeb6dea497777a3fd00f388ead48c1c3160";
       fetchSubmodules = false;
-      sha256 = "sha256-YJKalNi71nbL7AbPBBYkH5IjQ7wSzUcxBbQYntzeC9k=";
+      sha256 = "sha256-J0/U9M1QSfpRir0Fk4dA3t6dCQGyo83GBnXYyRabQvY=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-a8ad9e9c4678e56ad8ff0bdf04d28fc003db6a94/Cargo.lock;
+      lockFile = ./rustdesk-388dcbeb6dea497777a3fd00f388ead48c1c3160/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
