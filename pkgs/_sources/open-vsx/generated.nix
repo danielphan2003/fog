@@ -6735,10 +6735,10 @@
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
-    version = "1.31.0";
+    version = "1.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.31.0/file/d-koppenhagen.vscode-code-review-1.31.0.vsix";
-      sha256 = "sha256-++hLXVGs/7JEY83E9XK/r8zUeHD6If8hCJj1mGJg5Jc=";
+      url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.32.0/file/d-koppenhagen.vscode-code-review-1.32.0.vsix";
+      sha256 = "sha256-77B7n7n4TmdfegzzN4PJB8IqteyNMXqrn8f2n2FhvTQ=";
     };
     name = "vscode-code-review";
     license = "MIT";
@@ -13995,10 +13995,10 @@
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.3/file/openra.vscode-openra-lua-0.0.3.vsix";
-      sha256 = "sha256-OvETCpwa6O/yCbox7AemxqBasiqQbFHvR+H3cnNy94U=";
+      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.4/file/openra.vscode-openra-lua-0.0.4.vsix";
+      sha256 = "sha256-k57x79DWiOoA96u80ZHCaTc8bnupMGFiHIW/vISc7zk=";
     };
     name = "vscode-openra-lua";
     license = "GPL-3.0";
