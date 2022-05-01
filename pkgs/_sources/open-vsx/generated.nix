@@ -6735,10 +6735,10 @@
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
-    version = "1.29.1";
+    version = "1.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.29.1/file/d-koppenhagen.vscode-code-review-1.29.1.vsix";
-      sha256 = "sha256-+JtIwsuRGvN0iEceywwaACJk+IRx0jZW2CaUtKxCpIM=";
+      url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.31.0/file/d-koppenhagen.vscode-code-review-1.31.0.vsix";
+      sha256 = "sha256-++hLXVGs/7JEY83E9XK/r8zUeHD6If8hCJj1mGJg5Jc=";
     };
     name = "vscode-code-review";
     license = "MIT";
@@ -20451,10 +20451,10 @@
   };
   yasuyuky-transient-emacs = {
     pname = "yasuyuky-transient-emacs";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.19.0/file/yasuyuky.transient-emacs-0.19.0.vsix";
-      sha256 = "sha256-tiEsxE+Gi/ewVAM08/SArhsBp2ElieZRFVMCsjMwxyU=";
+      url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.20.0/file/yasuyuky.transient-emacs-0.20.0.vsix";
+      sha256 = "sha256-Ow/bBrYFKoUZajt6bzqdguqdg4ArmlFs53LT4dBotcI=";
     };
     name = "transient-emacs";
     license = "MIT";
