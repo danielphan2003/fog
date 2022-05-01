@@ -134,13 +134,13 @@
   };
   avizo = {
     pname = "avizo";
-    version = "6698fff9f7789622eb9e42ca81553d5f54f810df";
+    version = "ef80131cb73fa90225aaccb3cae63e281c534f56";
     src = fetchFromGitHub ({
       owner = "misterdanb";
       repo = "avizo";
-      rev = "6698fff9f7789622eb9e42ca81553d5f54f810df";
+      rev = "ef80131cb73fa90225aaccb3cae63e281c534f56";
       fetchSubmodules = false;
-      sha256 = "sha256-k/YrgsE14NZ5hKmspniGajhmjyxM31Kwo+LKkcs87pU=";
+      sha256 = "sha256-Q2AnMzbmZVp7LHSmhxaHSestAaL0eOb0r3IPwaZqUzE=";
     });
   };
   awesome = {
@@ -342,13 +342,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "de95c357deebcaef9ab68cd21fa87c161b8c2982";
+    version = "4aebf2b568c397ec191530e6497825a6c64a0b59";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "de95c357deebcaef9ab68cd21fa87c161b8c2982";
+      rev = "4aebf2b568c397ec191530e6497825a6c64a0b59";
       fetchSubmodules = false;
-      sha256 = "sha256-WUPLrPGoV4zniv+CJfAzJpW12QtvlwxXa+OjDcU/0wI=";
+      sha256 = "sha256-GcwvBxziWTerhDvBL9KPwUp5JNg5Es9cko5cyHOb18w=";
     });
   };
   flyingfox = {

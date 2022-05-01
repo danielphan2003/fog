@@ -569,7 +569,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "de95c357deebcaef9ab68cd21fa87c161b8c2982",
+    "version": "4aebf2b568c397ec191530e6497825a6c64a0b59",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -579,8 +579,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-WUPLrPGoV4zniv+CJfAzJpW12QtvlwxXa+OjDcU/0wI=",
-      "rev": "de95c357deebcaef9ab68cd21fa87c161b8c2982"
+      "sha256": "sha256-GcwvBxziWTerhDvBL9KPwUp5JNg5Es9cko5cyHOb18w=",
+      "rev": "4aebf2b568c397ec191530e6497825a6c64a0b59"
     },
     "extract": null,
     "rustGitDeps": null
@@ -619,7 +619,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "avizo",
-    "version": "6698fff9f7789622eb9e42ca81553d5f54f810df",
+    "version": "ef80131cb73fa90225aaccb3cae63e281c534f56",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -629,8 +629,8 @@
       "name": null,
       "repo": "avizo",
       "type": "github",
-      "sha256": "sha256-k/YrgsE14NZ5hKmspniGajhmjyxM31Kwo+LKkcs87pU=",
-      "rev": "6698fff9f7789622eb9e42ca81553d5f54f810df"
+      "sha256": "sha256-Q2AnMzbmZVp7LHSmhxaHSestAaL0eOb0r3IPwaZqUzE=",
+      "rev": "ef80131cb73fa90225aaccb3cae63e281c534f56"
     },
     "extract": null,
     "rustGitDeps": null
