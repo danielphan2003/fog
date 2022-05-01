@@ -19439,6 +19439,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "polyhurt-ascii-art-previewer": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "polyhurt-ascii-art-previewer",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "ascii-art-previewer",
+      "license": "MIT",
+      "publisher": "polyhurt",
+      "description": "Previews ASCII art using MIRC colors."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/polyhurt/ascii-art-previewer/0.0.1/file/polyhurt.ascii-art-previewer-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-rk5+IqW+o5BUfdkuxnsMdNw0f8RIhrvBb7w9He3DdTE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "southclaws-vscode-pawn": {
     "pinned": false,
     "cargoLock": null,
@@ -31123,7 +31143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "6.0.1",
+    "version": "6.0.2",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -31131,10 +31151,10 @@
       "description": "F# Language Support, powered by FsAutoComplete"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.1/file/Ionide.Ionide-fsharp-6.0.1.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.2/file/Ionide.Ionide-fsharp-6.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fZP/3OIkQu3p7VscGA9TVv7aIhIjjHCCRUi1hO6YfIM="
+      "sha256": "sha256-o4H1e8N03h0w5uYu8QlWemR1blhQlAUiY6jrc9VpRvE="
     },
     "extract": null,
     "rustGitDeps": null

@@ -1623,10 +1623,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "6.0.1";
+    version = "6.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.1/file/Ionide.Ionide-fsharp-6.0.1.vsix";
-      sha256 = "sha256-fZP/3OIkQu3p7VscGA9TVv7aIhIjjHCCRUi1hO6YfIM=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.2/file/Ionide.Ionide-fsharp-6.0.2.vsix";
+      sha256 = "sha256-o4H1e8N03h0w5uYu8QlWemR1blhQlAUiY6jrc9VpRvE=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -14664,6 +14664,18 @@
     license = "MIT";
     publisher = "pokey";
     description = "Extensions useful for talon";
+  };
+  polyhurt-ascii-art-previewer = {
+    pname = "polyhurt-ascii-art-previewer";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/polyhurt/ascii-art-previewer/0.0.1/file/polyhurt.ascii-art-previewer-0.0.1.vsix";
+      sha256 = "sha256-rk5+IqW+o5BUfdkuxnsMdNw0f8RIhrvBb7w9He3DdTE=";
+    };
+    name = "ascii-art-previewer";
+    license = "MIT";
+    publisher = "polyhurt";
+    description = "Previews ASCII art using MIRC colors.";
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
