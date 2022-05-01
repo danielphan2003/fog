@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "5f07cb318d06b9a17eb561bcc41af01648a2f27a";
+    version = "9db9c65bf7a64c982b13b0d12879cd7a662ddef3";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "5f07cb318d06b9a17eb561bcc41af01648a2f27a";
+      rev = "9db9c65bf7a64c982b13b0d12879cd7a662ddef3";
       fetchSubmodules = false;
-      sha256 = "sha256-tu7sB4CCpnutZJyIsHIKcyGiaDC+KkuUV0KCRGPfAS4=";
+      sha256 = "sha256-Nk9bB4e5MG9VqXtislAeRMdW7uL/yQ28yUiE4njFKC0=";
     });
     cargoLock = {
-      lockFile = ./age-plugin-yubikey-5f07cb318d06b9a17eb561bcc41af01648a2f27a/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-9db9c65bf7a64c982b13b0d12879cd7a662ddef3/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -340,13 +340,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "0e2f37f9afd153cbcfdca472e7defee1841bc610";
+    version = "724a28f43aa2026fd28959892dd3d9465dbc4e96";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "0e2f37f9afd153cbcfdca472e7defee1841bc610";
+      rev = "724a28f43aa2026fd28959892dd3d9465dbc4e96";
       fetchSubmodules = false;
-      sha256 = "sha256-P581KYGhDz9XENneFV94iCBZGntRZEuXqnvn7BWndY4=";
+      sha256 = "sha256-5r0799GEDkEaTBWJa3EHp4Ukq2wqQanT2/dSSruoEHQ=";
     });
   };
   flyingfox = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "4674241bf952255e0bfe76309b3f751f80005311";
+    version = "e51febaa7d39852da5280e7e7a92aa383f7c3e0d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "4674241bf952255e0bfe76309b3f751f80005311";
+      rev = "e51febaa7d39852da5280e7e7a92aa383f7c3e0d";
       fetchSubmodules = false;
-      sha256 = "sha256-UX2+hFLdwEyTBx7/09SkOmKHDRFuqHXg9iU77ltxc2I=";
+      sha256 = "sha256-RA9i/Ge9nih9U8V/82G8Ramsl+pEgzW/6hqyIWoDc9Y=";
     });
   };
   rofi-wayland = {
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "9e7766093120634dabeae4759c007cbd9b4e928d";
+    version = "7f45734663aecae79c8dd86214bbf872ecc3baf8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "9e7766093120634dabeae4759c007cbd9b4e928d";
+      rev = "7f45734663aecae79c8dd86214bbf872ecc3baf8";
       fetchSubmodules = false;
-      sha256 = "sha256-gR/168AoXrB9p/GrMnQd0HmS+PedgsEljd0l9skWDBM=";
+      sha256 = "sha256-GCCkT65wkK8bEBwCEknfKMmMb6s6HHswBnlBYoplOL8=";
     });
   };
   tailscale-systray = {
