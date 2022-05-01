@@ -330,9 +330,9 @@
   },
   "age-plugin-yubikey": {
     "pinned": false,
-    "cargoLock": "./age-plugin-yubikey-9db9c65bf7a64c982b13b0d12879cd7a662ddef3/Cargo.lock",
+    "cargoLock": "./age-plugin-yubikey-3b0da8bd25acb79fb91f2e84c6deb625801ebe03/Cargo.lock",
     "name": "age-plugin-yubikey",
-    "version": "9db9c65bf7a64c982b13b0d12879cd7a662ddef3",
+    "version": "3b0da8bd25acb79fb91f2e84c6deb625801ebe03",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -342,8 +342,8 @@
       "name": null,
       "repo": "age-plugin-yubikey",
       "type": "github",
-      "sha256": "sha256-Nk9bB4e5MG9VqXtislAeRMdW7uL/yQ28yUiE4njFKC0=",
-      "rev": "9db9c65bf7a64c982b13b0d12879cd7a662ddef3"
+      "sha256": "sha256-RC2M0cPID8w9WBl5fc0Gmymfcu5VvawPPdZ9bdMxwoI=",
+      "rev": "3b0da8bd25acb79fb91f2e84c6deb625801ebe03"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6134",
+    "version": "1.0.6135",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6134-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6135-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Q6CcX3r482SHk9tzQrNCYXh1LifRv0bfpZGn9YUeExA="
+      "sha256": "sha256-oWgZh/wutJEQ6sSQf6t2jRXwqUfyUyKOJYFeL3SMTC8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6134",
+    "version": "1.0.6135",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6134.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6135.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RaZhpw0TFTTL4zzSr2/bIuzdfR4v6Xhd15oGlxG/C9s="
+      "sha256": "sha256-S4pGB/2sW5eWIRyLB9k3NKKSdwvhHPYFet7EJtPTHeA="
     },
     "extract": null,
     "rustGitDeps": null
