@@ -6735,10 +6735,10 @@
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
-    version = "1.32.0";
+    version = "1.32.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.32.0/file/d-koppenhagen.vscode-code-review-1.32.0.vsix";
-      sha256 = "sha256-77B7n7n4TmdfegzzN4PJB8IqteyNMXqrn8f2n2FhvTQ=";
+      url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.32.1/file/d-koppenhagen.vscode-code-review-1.32.1.vsix";
+      sha256 = "sha256-Y1TLhqo5ybZJD1ImxH9GCgc974TDKph4seJ2I7rftD0=";
     };
     name = "vscode-code-review";
     license = "MIT";
@@ -9207,10 +9207,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.13.3";
+    version = "2.13.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.3/file/hbenl.vscode-mocha-test-adapter-2.13.3.vsix";
-      sha256 = "sha256-dY/J7/ZeNi6/re4dJO3/8+xQ6SXnXZvwbLJHcw3ZJxI=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.4/file/hbenl.vscode-mocha-test-adapter-2.13.4.vsix";
+      sha256 = "sha256-qjrLAU1SLQpGmXRcpHG/8FS+o8V1kmDJLZQgL1NlsX4=";
     };
     name = "vscode-mocha-test-adapter";
     license = "MIT";
@@ -14631,10 +14631,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.328";
+    version = "0.25.329";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.328/file/pokey.cursorless-0.25.328.vsix";
-      sha256 = "sha256-MI/v9yD7azZMOY4WIKnT3rZMOhCc6hgqCuwll7MQVBM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.329/file/pokey.cursorless-0.25.329.vsix";
+      sha256 = "sha256-br4LR394omQ+qMG7f44sllQZ8YlIwkzkt+hGEimcxFE=";
     };
     name = "cursorless";
     license = "MIT";
@@ -20811,10 +20811,10 @@
   };
   zjffun-snippetsmanager = {
     pname = "zjffun-snippetsmanager";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.4/file/zjffun.snippetsmanager-0.1.4.vsix";
-      sha256 = "sha256-SWHcGfjIF1fS4E1bDd3eN/p/vbqg3IYHBG5Z+MwRyv8=";
+      url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.5/file/zjffun.snippetsmanager-0.1.5.vsix";
+      sha256 = "sha256-bxNMz+rPF/91mbK74DL0RUUdmbkciyaTRdOiwo/ILAM=";
     };
     name = "snippetsmanager";
     license = "MIT";

@@ -1863,7 +1863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hbenl-vscode-mocha-test-adapter",
-    "version": "2.13.3",
+    "version": "2.13.4",
     "passthru": {
       "name": "vscode-mocha-test-adapter",
       "license": "MIT",
@@ -1871,10 +1871,10 @@
       "description": "Run your Mocha tests in the Sidebar of Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.3/file/hbenl.vscode-mocha-test-adapter-2.13.3.vsix",
+      "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.4/file/hbenl.vscode-mocha-test-adapter-2.13.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dY/J7/ZeNi6/re4dJO3/8+xQ6SXnXZvwbLJHcw3ZJxI="
+      "sha256": "sha256-qjrLAU1SLQpGmXRcpHG/8FS+o8V1kmDJLZQgL1NlsX4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12543,7 +12543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zjffun-snippetsmanager",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "snippetsmanager",
       "license": "MIT",
@@ -12551,10 +12551,10 @@
       "description": "Create and edit snippets easily."
     },
     "src": {
-      "url": "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.4/file/zjffun.snippetsmanager-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.5/file/zjffun.snippetsmanager-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SWHcGfjIF1fS4E1bDd3eN/p/vbqg3IYHBG5Z+MwRyv8="
+      "sha256": "sha256-bxNMz+rPF/91mbK74DL0RUUdmbkciyaTRdOiwo/ILAM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13423,7 +13423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.328",
+    "version": "0.25.329",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13431,10 +13431,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.328/file/pokey.cursorless-0.25.328.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.329/file/pokey.cursorless-0.25.329.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MI/v9yD7azZMOY4WIKnT3rZMOhCc6hgqCuwll7MQVBM="
+      "sha256": "sha256-br4LR394omQ+qMG7f44sllQZ8YlIwkzkt+hGEimcxFE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15743,7 +15743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-koppenhagen-vscode-code-review",
-    "version": "1.32.0",
+    "version": "1.32.1",
     "passthru": {
       "name": "vscode-code-review",
       "license": "MIT",
@@ -15751,10 +15751,10 @@
       "description": "Create expert reviews / code reviews for a workspace that can be exported as a document for handing over to customers"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.32.0/file/d-koppenhagen.vscode-code-review-1.32.0.vsix",
+      "url": "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.32.1/file/d-koppenhagen.vscode-code-review-1.32.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-77B7n7n4TmdfegzzN4PJB8IqteyNMXqrn8f2n2FhvTQ="
+      "sha256": "sha256-Y1TLhqo5ybZJD1ImxH9GCgc974TDKph4seJ2I7rftD0="
     },
     "extract": null,
     "rustGitDeps": null
