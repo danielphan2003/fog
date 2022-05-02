@@ -723,10 +723,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.38.2";
+    version = "3.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.38.2/file/Dart-Code.dart-code-3.38.2.vsix";
-      sha256 = "sha256-Rz17awcgzvxTI+2nvsXkDtvHcD6Jac4+vCs/1QH+jZQ=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.40.0/file/Dart-Code.dart-code-3.40.0.vsix";
+      sha256 = "sha256-QNRGj+diRrzppjlCueJiusnTaTL1mvXLf54QLpcaM24=";
     };
     name = "dart-code";
     license = "MIT";
@@ -735,10 +735,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.38.1";
+    version = "3.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.38.1/file/Dart-Code.flutter-3.38.1.vsix";
-      sha256 = "sha256-FZnfUAEncjqXNiqgUeCgyUt9Os1bLjxVBAhPl7ZJNrI=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.40.0/file/Dart-Code.flutter-3.40.0.vsix";
+      sha256 = "sha256-VRizKgVLs4hz+7VIlAjT4QfobxweKjyhmJ75ZfAqpHc=";
     };
     name = "flutter";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.905";
+    version = "31.0.907";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.905/file/Prisma.prisma-insider-31.0.905.vsix";
-      sha256 = "sha256-t9Nl+OmLODTDOw7RKf8hsfCR9NaRmiao1GHSLL5GYXQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.907/file/Prisma.prisma-insider-31.0.907.vsix";
+      sha256 = "sha256-9NdY5ZkerPG+boLz04QRbojSv7lC3BDYlu8gFsX6oCU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9529,18 +9529,6 @@
     publisher = "huytd";
     description = "Tokyo City theme, a mixture of City Lights and Tokyo Night";
   };
-  ibijon-dd = {
-    pname = "ibijon-dd";
-    version = "0.0.1";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/ibijon/dd/0.0.1/file/ibijon.dd-0.0.1.vsix";
-      sha256 = "sha256-cnZwOm29tkdJcn583oTzepj/WkXHipjrXoZObdtXuXU=";
-    };
-    name = "dd";
-    license = "MIT";
-    publisher = "ibijon";
-    description = "A basic DuckyScript syntax highlighter for codium ";
-  };
   ibijon4-duckyscript = {
     pname = "ibijon4-duckyscript";
     version = "0.1.2";
@@ -9891,10 +9879,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.26";
+    version = "0.14.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.26/file/iljapostnovs.ui5plugin-0.14.26.vsix";
-      sha256 = "sha256-nXbctvCmXp5825mbvi8LcOdZRzbKY+plXUyOfzF1xEM=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.27/file/iljapostnovs.ui5plugin-0.14.27.vsix";
+      sha256 = "sha256-BmaC4YOSo1yZFZd5cmuY6C1f8Nr5AhWlAjTLLRxFp/U=";
     };
     name = "ui5plugin";
     license = "Apache-2.0";
@@ -10731,10 +10719,10 @@
   };
   justusadam-language-haskell = {
     pname = "justusadam-language-haskell";
-    version = "3.6.0";
+    version = "3.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/justusadam.language-haskell-3.6.0.vsix";
-      sha256 = "sha256-gdx789RKx3uBquEP2e4dEaU+5q6D4NEZHVcwD+Ym42A=";
+      url = "https://open-vsx.org/api/justusadam/language-haskell/3.3.0/file/justusadam.language-haskell-3.3.0.vsix";
+      sha256 = "sha256-yW2kYiKXq2LFqHVYCUyOVOvjn14naQiCO51ZvWbvXIY=";
     };
     name = "language-haskell";
     license = "BSD-3-Clause";
