@@ -1947,10 +1947,10 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.8";
+    version = "2.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.8/file/LuqueDaniel.languague-renpy-2.0.8.vsix";
-      sha256 = "sha256-0CLGQW+EL6FoTdD/CODC115347k4+c7UfKdrux5ah4Q=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.9/file/LuqueDaniel.languague-renpy-2.0.9.vsix";
+      sha256 = "sha256-/bViW6sviZIz/OPxSbiHn18LO7W6sQ14ilRAXoWivos=";
     };
     name = "languague-renpy";
     license = "MIT";
@@ -7635,10 +7635,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2239768";
+    version = "7.2.2259663";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2239768/file/eliostruyf.vscode-front-matter-beta-7.2.2239768.vsix";
-      sha256 = "sha256-Xa442w450Qexra3xeIqgmSgbVFV4GAEr4Bc2rHcfvjs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2259663/file/eliostruyf.vscode-front-matter-beta-7.2.2259663.vsix";
+      sha256 = "sha256-AKeicrUJE4H0XPTlnznpToclI2bLlqeJWbI/+EDkcmA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -7971,10 +7971,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.23";
+    version = "1.3.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.23/file/everscale.solidity-support-1.3.23.vsix";
-      sha256 = "sha256-pk5tLEO5s+IuFGID1UdKOWR/VXEb0zJqnPjtJljhh+M=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.31/file/everscale.solidity-support-1.3.31.vsix";
+      sha256 = "sha256-iT21ywXpNGFK14dAMJlsnZhsFrPZi45J+hVDrbtwN8Y=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -9207,10 +9207,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.13.4";
+    version = "2.13.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.4/file/hbenl.vscode-mocha-test-adapter-2.13.4.vsix";
-      sha256 = "sha256-qjrLAU1SLQpGmXRcpHG/8FS+o8V1kmDJLZQgL1NlsX4=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.5/file/hbenl.vscode-mocha-test-adapter-2.13.5.vsix";
+      sha256 = "sha256-G79ifj669OWYXsYSpSsT/RyMqIzFTMW075ieX5FW5hw=";
     };
     name = "vscode-mocha-test-adapter";
     license = "MIT";
@@ -13983,10 +13983,10 @@
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.4/file/openra.vscode-openra-lua-0.0.4.vsix";
-      sha256 = "sha256-k57x79DWiOoA96u80ZHCaTc8bnupMGFiHIW/vISc7zk=";
+      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.5/file/openra.vscode-openra-lua-0.0.5.vsix";
+      sha256 = "sha256-fCgU9NopGxwDv/wh2VdJZXQnjrbqSiCUbalH6tmgczc=";
     };
     name = "vscode-openra-lua";
     license = "GPL-3.0";
@@ -16419,10 +16419,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.21";
+    version = "0.13.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.21/file/shufo.vscode-blade-formatter-0.13.21.vsix";
-      sha256 = "sha256-NkVG5EMxa4Mi1P6tZ1gT6CT+m3fUiM53zIyuEjnHjXU=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.22/file/shufo.vscode-blade-formatter-0.13.22.vsix";
+      sha256 = "sha256-jjiD/rYV/C8L1Y74nhpYD23Nois6LfMGnxVVBifKFlo=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
