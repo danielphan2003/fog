@@ -26523,7 +26523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "OBKoro1-korofileheader",
-    "version": "4.8.21",
+    "version": "4.8.22",
     "passthru": {
       "name": "korofileheader",
       "license": "MIT",
@@ -26531,10 +26531,10 @@
       "description": "ç¨äºçææä»¶å¤´é¨æ³¨éåå½æ°æ³¨éçæä»¶ï¼æ¯æææä¸»æµè¯­è¨,åè½å¼ºå¤§ï¼çµæ´»æ¹ä¾¿ï¼ææ¡£é½å¨ï¼é£ç¨ç®åï¼"
     },
     "src": {
-      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.21/file/OBKoro1.korofileheader-4.8.21.vsix",
+      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.22/file/OBKoro1.korofileheader-4.8.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0VvdQui/v5RfacSJTTRc0bAUVeRiVuFnCOuehdV5Res="
+      "sha256": "sha256-/t5qXrxilVDJLkSDA/5KB4l2o04IyRfgSIDwDF2YyBQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31463,7 +31463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.899",
+    "version": "31.0.900",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31471,10 +31471,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.899/file/Prisma.prisma-insider-31.0.899.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.900/file/Prisma.prisma-insider-31.0.900.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LZI2ycSGFQmygrL8s6ijFU0QskC5N3EWYI4kGzMAuKA="
+      "sha256": "sha256-8GPqf5xhPpzzxi6+l8K2/pJRgTQtUfGmFi30TERzRMc="
     },
     "extract": null,
     "rustGitDeps": null

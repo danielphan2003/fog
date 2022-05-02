@@ -2499,10 +2499,10 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.8.21";
+    version = "4.8.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.21/file/OBKoro1.korofileheader-4.8.21.vsix";
-      sha256 = "sha256-0VvdQui/v5RfacSJTTRc0bAUVeRiVuFnCOuehdV5Res=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.22/file/OBKoro1.korofileheader-4.8.22.vsix";
+      sha256 = "sha256-/t5qXrxilVDJLkSDA/5KB4l2o04IyRfgSIDwDF2YyBQ=";
     };
     name = "korofileheader";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.899";
+    version = "31.0.900";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.899/file/Prisma.prisma-insider-31.0.899.vsix";
-      sha256 = "sha256-LZI2ycSGFQmygrL8s6ijFU0QskC5N3EWYI4kGzMAuKA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.900/file/Prisma.prisma-insider-31.0.900.vsix";
+      sha256 = "sha256-8GPqf5xhPpzzxi6+l8K2/pJRgTQtUfGmFi30TERzRMc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
