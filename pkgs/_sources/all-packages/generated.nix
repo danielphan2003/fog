@@ -46,16 +46,16 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "71bd3b1afb2e6bbed606be0aa70406b0b6abc09d";
+    version = "08ba0aa1ec3ced531dcb16a9db1795d6ee9b52cb";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "71bd3b1afb2e6bbed606be0aa70406b0b6abc09d";
+      rev = "08ba0aa1ec3ced531dcb16a9db1795d6ee9b52cb";
       fetchSubmodules = false;
-      sha256 = "sha256-fa6YUAeence/qjkjQ4p1RbRnl+3F3BamroV6YSIh69g=";
+      sha256 = "sha256-KXqicTZ9GZlNj1AH3tMmOrC8zjXoEnqo4JJJTBdiI4E=";
     });
     cargoLock = {
-      lockFile = ./age-plugin-yubikey-71bd3b1afb2e6bbed606be0aa70406b0b6abc09d/Cargo.lock;
+      lockFile = ./age-plugin-yubikey-08ba0aa1ec3ced531dcb16a9db1795d6ee9b52cb/Cargo.lock;
       outputHashes = { };
     };
   };
