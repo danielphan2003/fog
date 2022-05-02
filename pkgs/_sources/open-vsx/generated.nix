@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.903";
+    version = "31.0.905";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.903/file/Prisma.prisma-insider-31.0.903.vsix";
-      sha256 = "sha256-XMgJlg5TzupIGbfKNxzfEx4rZDIP2KgcdT/z6L0MJRU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.905/file/Prisma.prisma-insider-31.0.905.vsix";
+      sha256 = "sha256-t9Nl+OmLODTDOw7RKf8hsfCR9NaRmiao1GHSLL5GYXQ=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3279,10 +3279,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.43";
+    version = "3.5.44";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.43/file/TabNine.tabnine-vscode-3.5.43.vsix";
-      sha256 = "sha256-uwCWWHN8SViYIFeBbxAJfoUTmLgq70ydpeTvN8XCKuA=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.44/file/TabNine.tabnine-vscode-3.5.44.vsix";
+      sha256 = "sha256-7fGhr6gOKUDHxyAj5pC00aeNgx1+EZasf2qwQtuycAY=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -5295,10 +5295,10 @@
   };
   banacorn-agda-mode = {
     pname = "banacorn-agda-mode";
-    version = "0.3.7";
+    version = "0.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.7/file/banacorn.agda-mode-0.3.7.vsix";
-      sha256 = "sha256-3SbPjNYhGDTx48DOuh5AGPKQuL2b+OyE8ebLXk8XDC8=";
+      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.8/file/banacorn.agda-mode-0.3.8.vsix";
+      sha256 = "sha256-gBvJuz+JgEOCs5pB7VD/q2HySk7Pz1Mkgp4OwSA1qWA=";
     };
     name = "agda-mode";
     license = "MIT";

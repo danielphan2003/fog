@@ -9883,7 +9883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.43",
+    "version": "3.5.44",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -9891,10 +9891,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.43/file/TabNine.tabnine-vscode-3.5.43.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.44/file/TabNine.tabnine-vscode-3.5.44.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uwCWWHN8SViYIFeBbxAJfoUTmLgq70ydpeTvN8XCKuA="
+      "sha256": "sha256-7fGhr6gOKUDHxyAj5pC00aeNgx1+EZasf2qwQtuycAY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17223,7 +17223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "banacorn-agda-mode",
-    "version": "0.3.7",
+    "version": "0.3.8",
     "passthru": {
       "name": "agda-mode",
       "license": "MIT",
@@ -17231,10 +17231,10 @@
       "description": "agda-mode on vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.7/file/banacorn.agda-mode-0.3.7.vsix",
+      "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.8/file/banacorn.agda-mode-0.3.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3SbPjNYhGDTx48DOuh5AGPKQuL2b+OyE8ebLXk8XDC8="
+      "sha256": "sha256-gBvJuz+JgEOCs5pB7VD/q2HySk7Pz1Mkgp4OwSA1qWA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31463,7 +31463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.903",
+    "version": "31.0.905",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31471,10 +31471,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.903/file/Prisma.prisma-insider-31.0.903.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.905/file/Prisma.prisma-insider-31.0.905.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XMgJlg5TzupIGbfKNxzfEx4rZDIP2KgcdT/z6L0MJRU="
+      "sha256": "sha256-t9Nl+OmLODTDOw7RKf8hsfCR9NaRmiao1GHSLL5GYXQ="
     },
     "extract": null,
     "rustGitDeps": null
