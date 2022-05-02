@@ -46,19 +46,17 @@
   };
   age-plugin-yubikey = {
     pname = "age-plugin-yubikey";
-    version = "b825956bf863dadd315bec464c8d61868ca80c85";
+    version = "71bd3b1afb2e6bbed606be0aa70406b0b6abc09d";
     src = fetchFromGitHub ({
       owner = "str4d";
       repo = "age-plugin-yubikey";
-      rev = "b825956bf863dadd315bec464c8d61868ca80c85";
+      rev = "71bd3b1afb2e6bbed606be0aa70406b0b6abc09d";
       fetchSubmodules = false;
-      sha256 = "sha256-59c8uEqf5ApRqeGMvTj3ekQWU8qmBKfAuaj+9jgY6lk=";
+      sha256 = "sha256-fa6YUAeence/qjkjQ4p1RbRnl+3F3BamroV6YSIh69g=";
     });
     cargoLock = {
-      lockFile = ./age-plugin-yubikey-b825956bf863dadd315bec464c8d61868ca80c85/Cargo.lock;
-      outputHashes = {
-        "age-core-0.7.1" = "sha256-M3ebplmo5hklg4FaHRFJu80WN8a/HRc9nJ+fRE4TGKw=";
-      };
+      lockFile = ./age-plugin-yubikey-71bd3b1afb2e6bbed606be0aa70406b0b6abc09d/Cargo.lock;
+      outputHashes = { };
     };
   };
   anbox = {
@@ -791,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e51febaa7d39852da5280e7e7a92aa383f7c3e0d";
+    version = "102abb02238ff7118340fe20009b800b5a8ace36";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e51febaa7d39852da5280e7e7a92aa383f7c3e0d";
+      rev = "102abb02238ff7118340fe20009b800b5a8ace36";
       fetchSubmodules = false;
-      sha256 = "sha256-RA9i/Ge9nih9U8V/82G8Ramsl+pEgzW/6hqyIWoDc9Y=";
+      sha256 = "sha256-5dllnJVQ8g0vI2JF6RRwV+hIOn+9U0Tj9oR+Z6wV3bY=";
     });
   };
   rofi-wayland = {

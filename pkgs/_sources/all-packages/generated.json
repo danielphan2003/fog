@@ -330,9 +330,9 @@
   },
   "age-plugin-yubikey": {
     "pinned": false,
-    "cargoLock": "./age-plugin-yubikey-b825956bf863dadd315bec464c8d61868ca80c85/Cargo.lock",
+    "cargoLock": "./age-plugin-yubikey-71bd3b1afb2e6bbed606be0aa70406b0b6abc09d/Cargo.lock",
     "name": "age-plugin-yubikey",
-    "version": "b825956bf863dadd315bec464c8d61868ca80c85",
+    "version": "71bd3b1afb2e6bbed606be0aa70406b0b6abc09d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -342,13 +342,11 @@
       "name": null,
       "repo": "age-plugin-yubikey",
       "type": "github",
-      "sha256": "sha256-59c8uEqf5ApRqeGMvTj3ekQWU8qmBKfAuaj+9jgY6lk=",
-      "rev": "b825956bf863dadd315bec464c8d61868ca80c85"
+      "sha256": "sha256-fa6YUAeence/qjkjQ4p1RbRnl+3F3BamroV6YSIh69g=",
+      "rev": "71bd3b1afb2e6bbed606be0aa70406b0b6abc09d"
     },
     "extract": null,
-    "rustGitDeps": {
-      "age-core-0.7.1": "sha256-M3ebplmo5hklg4FaHRFJu80WN8a/HRc9nJ+fRE4TGKw="
-    }
+    "rustGitDeps": {}
   },
   "spotifyd": {
     "pinned": false,
@@ -881,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "e51febaa7d39852da5280e7e7a92aa383f7c3e0d",
+    "version": "102abb02238ff7118340fe20009b800b5a8ace36",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -891,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-RA9i/Ge9nih9U8V/82G8Ramsl+pEgzW/6hqyIWoDc9Y=",
-      "rev": "e51febaa7d39852da5280e7e7a92aa383f7c3e0d"
+      "sha256": "sha256-5dllnJVQ8g0vI2JF6RRwV+hIOn+9U0Tj9oR+Z6wV3bY=",
+      "rev": "102abb02238ff7118340fe20009b800b5a8ace36"
     },
     "extract": null,
     "rustGitDeps": null
