@@ -3433,6 +3433,18 @@
     publisher = "TshakaEricLekholoane";
     description = "Adds syntax highlighting and bracket matching in Hy files.";
   };
+  Turiiya-keyword-o-mat = {
+    pname = "Turiiya-keyword-o-mat";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.1/file/Turiiya.keyword-o-mat-0.1.1.vsix";
+      sha256 = "sha256-e60/dB18Zj2kCjIs0ucJDRyKh2hF3n78k4149vEDSBA=";
+    };
+    name = "keyword-o-mat";
+    license = "MIT";
+    publisher = "Turiiya";
+    description = "Easily cycle through commonly used keywords.";
+  };
   Tyriar-sort-lines = {
     pname = "Tyriar-sort-lines";
     version = "1.9.1";
@@ -7623,10 +7635,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.1.2";
+    version = "7.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.1.2/file/eliostruyf.vscode-front-matter-7.1.2.vsix";
-      sha256 = "sha256-eZylrfjmYt3i1uWaJzQEkd8n8ziX4BKxiOrcKHaZr2w=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.2.0/file/eliostruyf.vscode-front-matter-7.2.0.vsix";
+      sha256 = "sha256-c+tpBv73byDYJ3pSUUAaNhJR+bJ1bcbWJ7koCgu1EGU=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -13983,10 +13995,10 @@
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.5/file/openra.vscode-openra-lua-0.0.5.vsix";
-      sha256 = "sha256-fCgU9NopGxwDv/wh2VdJZXQnjrbqSiCUbalH6tmgczc=";
+      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.6/file/openra.vscode-openra-lua-0.0.6.vsix";
+      sha256 = "sha256-Ds6wt7G4Ipo09m1uTt0UNz7OY/ChtCIvx8szzo4KM6M=";
     };
     name = "vscode-openra-lua";
     license = "GPL-3.0";
@@ -14667,10 +14679,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.13";
+    version = "2.1.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.13/file/pomdtr.excalidraw-editor-2.1.13.vsix";
-      sha256 = "sha256-BOnD7tdWxI8JeSgdSLXFTEkkSW2HWxSyQFF6raDBBlA=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.14/file/pomdtr.excalidraw-editor-2.1.14.vsix";
+      sha256 = "sha256-mPc8u5Ebe7XPdXA7zYoDhpA+ncm0AnK2AJ1h9ba8Ljc=";
     };
     name = "excalidraw-editor";
     license = "MIT";
