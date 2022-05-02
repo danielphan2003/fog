@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "fff23b968246326a238e76a7de44fe2d5d12f2f4",
+    "version": "1bcd00e22fc04b6c2b14c7443d9e614e9841e7be",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-4KekB2lRGx+e6vTkIUlN/dklzJuSdPJckzV/xBDLBQc=",
-      "rev": "fff23b968246326a238e76a7de44fe2d5d12f2f4"
+      "sha256": "sha256-ls8sPDLaYtE3iA4PbdibquDqyNeJV+1P0rZmTH+65+E=",
+      "rev": "1bcd00e22fc04b6c2b14c7443d9e614e9841e7be"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "42c77b01ed3a6fac8e4682663e961816cb116d80",
+    "version": "6bfe9162e11b2b4c41a46a9c123e09023134c1cf",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-zRRf9/04c3y62WwHIw+vRPO3SHd1NkoN/XF/Y5rxiZ4=",
-      "rev": "42c77b01ed3a6fac8e4682663e961816cb116d80"
+      "sha256": "sha256-KXVLx2yltJED86S0+iRfoRx9zbrqw/i4C9kNWK5Y9to=",
+      "rev": "6bfe9162e11b2b4c41a46a9c123e09023134c1cf"
     },
     "extract": null,
     "rustGitDeps": null
