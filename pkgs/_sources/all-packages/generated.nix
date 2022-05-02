@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0b194b7480d7dd1b467891c5e01e9a81ace06c84";
+    version = "8ddee96943515fbcab2e241abde902b953c37df6";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0b194b7480d7dd1b467891c5e01e9a81ace06c84";
+      rev = "8ddee96943515fbcab2e241abde902b953c37df6";
       fetchSubmodules = false;
-      sha256 = "sha256-MbQCv8tYWaPfX7wvYKSN6/xyW4rku/Ij5AkLC1XG44k=";
+      sha256 = "sha256-WE4JkOgnTXs4Mk1S08TKYvr2DliuLodGM4D5lpiYKYw=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b5b78f383638eebc83fee7d964c08ce2599b0c06";
+    version = "42c77b01ed3a6fac8e4682663e961816cb116d80";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "b5b78f383638eebc83fee7d964c08ce2599b0c06";
+      rev = "42c77b01ed3a6fac8e4682663e961816cb116d80";
       fetchSubmodules = false;
-      sha256 = "sha256-iqc/1N+M9v7qzo7b+q94Hxlh73xkA59XVvBoqx2xRyM=";
+      sha256 = "sha256-zRRf9/04c3y62WwHIw+vRPO3SHd1NkoN/XF/Y5rxiZ4=";
     });
   };
   ibus = {
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6136";
+    version = "1.0.6137";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6136.tar.bz2";
-      sha256 = "sha256-pPLHsYkZrBRtBYG4yPet3Svwrypzs90O7Iqmc85LbnU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6137.tar.bz2";
+      sha256 = "sha256-csF4VsgOZ2VVJ2sK7WMBbAOE8Ka90y7A9RCW3L/I1bU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6136";
+    version = "1.0.6137";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6136-1_all.deb";
-      sha256 = "sha256-tJdSawmfztqkOJz7kET2OegjYCjd2W3ioX3k9zXJ/2M=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6137-1_all.deb";
+      sha256 = "sha256-s5PmFAXrrFINoQfH2rkPH6gzErssKkXmjTLVZbqQJLA=";
     };
   };
   jitsi-videobridge2 = {
