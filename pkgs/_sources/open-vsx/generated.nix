@@ -11535,10 +11535,10 @@
   };
   lf-lang-vscode-lingua-franca = {
     pname = "lf-lang-vscode-lingua-franca";
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.1.1/file/lf-lang.vscode-lingua-franca-0.1.1.vsix";
-      sha256 = "sha256-uTvCiF3rJnSnxcZ7GRYo21AJ4FBZlMuomk2kT4tBmBs=";
+      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.0/file/lf-lang.vscode-lingua-franca-0.2.0.vsix";
+      sha256 = "sha256-w3qsjAfFn/oSAT1jjsbmFO77CX71rsttY5+ah4kzjV4=";
     };
     name = "vscode-lingua-franca";
     license = "BSD-2-Clause";
