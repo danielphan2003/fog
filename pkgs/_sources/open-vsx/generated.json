@@ -16503,7 +16503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "justusadam-language-haskell",
-    "version": "3.6.0",
+    "version": "3.3.0",
     "passthru": {
       "name": "language-haskell",
       "license": "BSD-3-Clause",
@@ -16511,10 +16511,10 @@
       "description": "Syntax support for the Haskell programming language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/justusadam.language-haskell-3.6.0.vsix",
+      "url": "https://open-vsx.org/api/justusadam/language-haskell/3.3.0/file/justusadam.language-haskell-3.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gdx789RKx3uBquEP2e4dEaU+5q6D4NEZHVcwD+Ym42A="
+      "sha256": "sha256-yW2kYiKXq2LFqHVYCUyOVOvjn14naQiCO51ZvWbvXIY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17495,26 +17495,6 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-yWXH4OqWUK/ISu9pdiiUP78ueV5XIdNCNBU+QiM2EZA="
-    },
-    "extract": null,
-    "rustGitDeps": null
-  },
-  "ibijon-dd": {
-    "pinned": false,
-    "cargoLock": null,
-    "name": "ibijon-dd",
-    "version": "0.0.1",
-    "passthru": {
-      "name": "dd",
-      "license": "MIT",
-      "publisher": "ibijon",
-      "description": "A basic DuckyScript syntax highlighter for codium "
-    },
-    "src": {
-      "url": "https://open-vsx.org/api/ibijon/dd/0.0.1/file/ibijon.dd-0.0.1.vsix",
-      "name": null,
-      "type": "url",
-      "sha256": "sha256-cnZwOm29tkdJcn583oTzepj/WkXHipjrXoZObdtXuXU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19503,7 +19483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iljapostnovs-ui5plugin",
-    "version": "0.14.26",
+    "version": "0.14.27",
     "passthru": {
       "name": "ui5plugin",
       "license": "Apache-2.0",
@@ -19511,10 +19491,10 @@
       "description": "Extension for working with UI5 projects"
     },
     "src": {
-      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.26/file/iljapostnovs.ui5plugin-0.14.26.vsix",
+      "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.27/file/iljapostnovs.ui5plugin-0.14.27.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nXbctvCmXp5825mbvi8LcOdZRzbKY+plXUyOfzF1xEM="
+      "sha256": "sha256-BmaC4YOSo1yZFZd5cmuY6C1f8Nr5AhWlAjTLLRxFp/U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24383,7 +24363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Dart-Code-dart-code",
-    "version": "3.38.2",
+    "version": "3.40.0",
     "passthru": {
       "name": "dart-code",
       "license": "MIT",
@@ -24391,10 +24371,10 @@
       "description": "Dart language support and debugger for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.38.2/file/Dart-Code.dart-code-3.38.2.vsix",
+      "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.40.0/file/Dart-Code.dart-code-3.40.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Rz17awcgzvxTI+2nvsXkDtvHcD6Jac4+vCs/1QH+jZQ="
+      "sha256": "sha256-QNRGj+diRrzppjlCueJiusnTaTL1mvXLf54QLpcaM24="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31463,7 +31443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.905",
+    "version": "31.0.907",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31471,10 +31451,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.905/file/Prisma.prisma-insider-31.0.905.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.907/file/Prisma.prisma-insider-31.0.907.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t9Nl+OmLODTDOw7RKf8hsfCR9NaRmiao1GHSLL5GYXQ="
+      "sha256": "sha256-9NdY5ZkerPG+boLz04QRbojSv7lC3BDYlu8gFsX6oCU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32063,7 +32043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Dart-Code-flutter",
-    "version": "3.38.1",
+    "version": "3.40.0",
     "passthru": {
       "name": "flutter",
       "license": "MIT",
@@ -32071,10 +32051,10 @@
       "description": "Flutter support and debugger for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Dart-Code/flutter/3.38.1/file/Dart-Code.flutter-3.38.1.vsix",
+      "url": "https://open-vsx.org/api/Dart-Code/flutter/3.40.0/file/Dart-Code.flutter-3.40.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FZnfUAEncjqXNiqgUeCgyUt9Os1bLjxVBAhPl7ZJNrI="
+      "sha256": "sha256-VRizKgVLs4hz+7VIlAjT4QfobxweKjyhmJ75ZfAqpHc="
     },
     "extract": null,
     "rustGitDeps": null
