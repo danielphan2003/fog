@@ -3435,10 +3435,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.1/file/Turiiya.keyword-o-mat-0.1.1.vsix";
-      sha256 = "sha256-e60/dB18Zj2kCjIs0ucJDRyKh2hF3n78k4149vEDSBA=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.2/file/Turiiya.keyword-o-mat-0.1.2.vsix";
+      sha256 = "sha256-k0EF1lb8aYPzANJRUMPCdJZGZcAVYW7mABrua1O/RL0=";
     };
     name = "keyword-o-mat";
     license = "MIT";
@@ -5463,10 +5463,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.269";
+    version = "2.0.270";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.269/file/betterthantomorrow.calva-2.0.269.vsix";
-      sha256 = "sha256-+zbnrvYP/orDcQwmw735yiaBBllqChpeLn/z/QTOnEY=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.270/file/betterthantomorrow.calva-2.0.270.vsix";
+      sha256 = "sha256-XruVeLgZWv/M/pfjf2U84hwqR5169FlRpauK7HBFYDA=";
     };
     name = "calva";
     license = "MIT";
@@ -5475,10 +5475,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.2/file/betterthantomorrow.joyride-0.0.2.vsix";
-      sha256 = "sha256-7QxJKRwh+zxrSwcBhiV46KXGEHLwNWB5GIUJsnohftc=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.3/file/betterthantomorrow.joyride-0.0.3.vsix";
+      sha256 = "sha256-ZtBjT3cEXf+FHlT9AYIbAEX5QF/ho1ykQtKScNjyRr0=";
     };
     name = "joyride";
     license = "MIT";
@@ -5613,6 +5613,18 @@
       sha256 = "sha256-cW10eMhROPXZdd0GZ8wB0y/IgX41DPKtrdsF9ha1YcQ=";
     };
     name = "job-as-code";
+    license = "BSD-3-Clause";
+    publisher = "bmcsoftware";
+    description = "All snippets and tools you need for Control-M Workflow development";
+  };
+  bmcsoftware-jobs-as-code = {
+    pname = "bmcsoftware-jobs-as-code";
+    version = "0.1.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.1.5/file/bmcsoftware.jobs-as-code-0.1.5.vsix";
+      sha256 = "sha256-sjRHw5aJx5XXQXeEP2Q4bs88tmv4J4MVpVEF+d8skXE=";
+    };
+    name = "jobs-as-code";
     license = "BSD-3-Clause";
     publisher = "bmcsoftware";
     description = "All snippets and tools you need for Control-M Workflow development";
@@ -10671,10 +10683,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.6.3";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.6.3/file/jsw.csharpextensions-1.6.3.vsix";
-      sha256 = "sha256-ixkkwbbC2/F5sOJ9nQ70Cj3yTJGv5I565sGFdwSxQZc=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.0/file/jsw.csharpextensions-1.7.0.vsix";
+      sha256 = "sha256-2v7Np1lXCdzi3Im8HJp80psRI0ymzCr2vHtqiPHcbNs=";
     };
     name = "csharpextensions";
     license = "MIT";
