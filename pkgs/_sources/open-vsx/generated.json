@@ -6659,6 +6659,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "bmcsoftware-jobs-as-code": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "bmcsoftware-jobs-as-code",
+    "version": "0.1.5",
+    "passthru": {
+      "name": "jobs-as-code",
+      "license": "BSD-3-Clause",
+      "publisher": "bmcsoftware",
+      "description": "All snippets and tools you need for Control-M Workflow development"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.1.5/file/bmcsoftware.jobs-as-code-0.1.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-sjRHw5aJx5XXQXeEP2Q4bs88tmv4J4MVpVEF+d8skXE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "MS-CEINTL-vscode-language-pack-fr": {
     "pinned": false,
     "cargoLock": null,
@@ -9343,7 +9363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Turiiya-keyword-o-mat",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "passthru": {
       "name": "keyword-o-mat",
       "license": "MIT",
@@ -9351,10 +9371,10 @@
       "description": "Easily cycle through commonly used keywords."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.1/file/Turiiya.keyword-o-mat-0.1.1.vsix",
+      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.2/file/Turiiya.keyword-o-mat-0.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-e60/dB18Zj2kCjIs0ucJDRyKh2hF3n78k4149vEDSBA="
+      "sha256": "sha256-k0EF1lb8aYPzANJRUMPCdJZGZcAVYW7mABrua1O/RL0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23083,7 +23103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jsw-csharpextensions",
-    "version": "1.6.3",
+    "version": "1.7.0",
     "passthru": {
       "name": "csharpextensions",
       "license": "MIT",
@@ -23091,10 +23111,10 @@
       "description": "C# IDE Extensions for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jsw/csharpextensions/1.6.3/file/jsw.csharpextensions-1.6.3.vsix",
+      "url": "https://open-vsx.org/api/jsw/csharpextensions/1.7.0/file/jsw.csharpextensions-1.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ixkkwbbC2/F5sOJ9nQ70Cj3yTJGv5I565sGFdwSxQZc="
+      "sha256": "sha256-2v7Np1lXCdzi3Im8HJp80psRI0ymzCr2vHtqiPHcbNs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32183,7 +32203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.269",
+    "version": "2.0.270",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -32191,10 +32211,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.269/file/betterthantomorrow.calva-2.0.269.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.270/file/betterthantomorrow.calva-2.0.270.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+zbnrvYP/orDcQwmw735yiaBBllqChpeLn/z/QTOnEY="
+      "sha256": "sha256-XruVeLgZWv/M/pfjf2U84hwqR5169FlRpauK7HBFYDA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33903,7 +33923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -33911,10 +33931,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.2/file/betterthantomorrow.joyride-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.3/file/betterthantomorrow.joyride-0.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7QxJKRwh+zxrSwcBhiV46KXGEHLwNWB5GIUJsnohftc="
+      "sha256": "sha256-ZtBjT3cEXf+FHlT9AYIbAEX5QF/ho1ykQtKScNjyRr0="
     },
     "extract": null,
     "rustGitDeps": null
