@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "67efe3023aabd714798fc0a78b47dc0e76f7deb8";
+    version = "fff23b968246326a238e76a7de44fe2d5d12f2f4";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "67efe3023aabd714798fc0a78b47dc0e76f7deb8";
+      rev = "fff23b968246326a238e76a7de44fe2d5d12f2f4";
       fetchSubmodules = false;
-      sha256 = "sha256-JPfMV4lY9mj6b1b30piHsGTEnBWnE1aUVEBNHwORdVI=";
+      sha256 = "sha256-4KekB2lRGx+e6vTkIUlN/dklzJuSdPJckzV/xBDLBQc=";
     });
   };
   caddy = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-677-gdf5909dd";
+    version = "2.1-678-gec3f1ff2";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-677-gdf5909dd-1_all.deb";
-      sha256 = "sha256-EYppxVSvv0JDbndVM0spq4qVxs679zleK0fhBB2l8lY=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-678-gec3f1ff2-1_all.deb";
+      sha256 = "sha256-E5Zkysdd0piawThpiN2iM7/LLpmaCh9RO6vlyREtC0E=";
     };
   };
   layout-machi = {
