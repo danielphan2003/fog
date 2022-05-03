@@ -5619,10 +5619,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.1.5/file/bmcsoftware.jobs-as-code-0.1.5.vsix";
-      sha256 = "sha256-sjRHw5aJx5XXQXeEP2Q4bs88tmv4J4MVpVEF+d8skXE=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.1.6/file/bmcsoftware.jobs-as-code-0.1.6.vsix";
+      sha256 = "sha256-Orxaw0ZRTLokzjpnxf0npKo2/Fc0bkq00aI2K6ZdaAI=";
     };
     name = "jobs-as-code";
     license = "BSD-3-Clause";
@@ -15195,10 +15195,10 @@
   };
   redhat-mta-vscode-extension = {
     pname = "redhat-mta-vscode-extension";
-    version = "0.0.96";
+    version = "0.0.98";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.96/file/redhat.mta-vscode-extension-0.0.96.vsix";
-      sha256 = "sha256-wvpJ41D2vXRfVXjDIXW5cxh9h25zsAkVVaNj8Du1+rE=";
+      url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.98/file/redhat.mta-vscode-extension-0.0.98.vsix";
+      sha256 = "sha256-JkwsecwDv1+nnJZ8H8+X0g18gd7imbRoPqnAOpo6QAk=";
     };
     name = "mta-vscode-extension";
     license = "MIT";
