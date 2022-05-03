@@ -9183,7 +9183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug-companion",
-    "version": "1.0.17",
+    "version": "1.0.18",
     "passthru": {
       "name": "js-debug-companion",
       "license": "MIT",
@@ -9191,10 +9191,10 @@
       "description": "Companion extension to js-debug that provides capability for remote debugging"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.17/file/ms-vscode.js-debug-companion-1.0.17.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.18/file/ms-vscode.js-debug-companion-1.0.18.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-SW02JWiN9zTnr1lra9pN/DkrvRDJ2RjT+mMEG2Kc8AQ="
+      "sha256": "sha256-tJ7hNPRSyI/j3gmuYrf3eqZtHW3NeUxI4GW9wsdNSjA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15603,7 +15603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.4.2917",
+    "version": "2022.5.214",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15611,10 +15611,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2917/file/Slint.slint-nightly-2022.4.2917.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.214/file/Slint.slint-nightly-2022.5.214.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qaIVyZizZ64in6cnVp7TFKThf58RHV7GWapHjb/j/1Y="
+      "sha256": "sha256-2bAAMaYB2t8BtoVG7KsV+fXRvC7Qojk5aTNJmy4JMlE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32783,7 +32783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "golang-Go",
-    "version": "0.32.0",
+    "version": "0.33.0",
     "passthru": {
       "name": "Go",
       "license": "MIT",
@@ -32791,10 +32791,10 @@
       "description": "Rich Go language support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/golang/Go/0.32.0/file/golang.Go-0.32.0.vsix",
+      "url": "https://open-vsx.org/api/golang/Go/0.33.0/file/golang.Go-0.33.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ldq8L/X+1TWaQXwc2iaHxCa2OxsTudpAEHKhd+nBIMw="
+      "sha256": "sha256-cQ3shd2JVmVbI6nHqL0kDgucv5h73uBOI/LNY+W0elk="
     },
     "extract": null,
     "rustGitDeps": null

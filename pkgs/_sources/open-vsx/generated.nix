@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.4.2917";
+    version = "2022.5.214";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.4.2917/file/Slint.slint-nightly-2022.4.2917.vsix";
-      sha256 = "sha256-qaIVyZizZ64in6cnVp7TFKThf58RHV7GWapHjb/j/1Y=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.214/file/Slint.slint-nightly-2022.5.214.vsix";
+      sha256 = "sha256-2bAAMaYB2t8BtoVG7KsV+fXRvC7Qojk5aTNJmy4JMlE=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8919,10 +8919,10 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.32.0";
+    version = "0.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.32.0/file/golang.Go-0.32.0.vsix";
-      sha256 = "sha256-Ldq8L/X+1TWaQXwc2iaHxCa2OxsTudpAEHKhd+nBIMw=";
+      url = "https://open-vsx.org/api/golang/Go/0.33.0/file/golang.Go-0.33.0.vsix";
+      sha256 = "sha256-cQ3shd2JVmVbI6nHqL0kDgucv5h73uBOI/LNY+W0elk=";
     };
     name = "Go";
     license = "MIT";
@@ -12951,10 +12951,10 @@
   };
   ms-vscode-js-debug-companion = {
     pname = "ms-vscode-js-debug-companion";
-    version = "1.0.17";
+    version = "1.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.17/file/ms-vscode.js-debug-companion-1.0.17.vsix";
-      sha256 = "sha256-SW02JWiN9zTnr1lra9pN/DkrvRDJ2RjT+mMEG2Kc8AQ=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.18/file/ms-vscode.js-debug-companion-1.0.18.vsix";
+      sha256 = "sha256-tJ7hNPRSyI/j3gmuYrf3eqZtHW3NeUxI4GW9wsdNSjA=";
     };
     name = "js-debug-companion";
     license = "MIT";
