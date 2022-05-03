@@ -1179,10 +1179,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.42.2";
+    version = "3.43.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.42.2/file/GitLab.gitlab-workflow-3.42.2.vsix";
-      sha256 = "sha256-MeGkpLDiCKs2UZJL2+kT+L11qYZhwMigsKnhCw8tPDo=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.43.1/file/GitLab.gitlab-workflow-3.43.1.vsix";
+      sha256 = "sha256-uHwMJ7eNkzc5H/Gf16oAoAzVOULmjB7b1YkjrhbW+Fg=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -14703,10 +14703,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.14";
+    version = "2.1.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.14/file/pomdtr.excalidraw-editor-2.1.14.vsix";
-      sha256 = "sha256-mPc8u5Ebe7XPdXA7zYoDhpA+ncm0AnK2AJ1h9ba8Ljc=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.15/file/pomdtr.excalidraw-editor-2.1.15.vsix";
+      sha256 = "sha256-7UNCXIx2hPinn5/uYwObYhTBuXsqJ3Ja2zPCbpOROSE=";
     };
     name = "excalidraw-editor";
     license = "MIT";
@@ -15243,15 +15243,15 @@
   };
   redhat-vscode-apache-camel = {
     pname = "redhat-vscode-apache-camel";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.2.0/file/redhat.vscode-apache-camel-0.2.0.vsix";
-      sha256 = "sha256-oY+JUPG9rbmh0Ei/5gJxpkorD8TL/7op0OFT28Jvywk=";
+      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.3.0/file/redhat.vscode-apache-camel-0.3.0.vsix";
+      sha256 = "sha256-QytYhzPG7AFbni2kLp60thqRRLw2/xsgsSpy1KWBitM=";
     };
     name = "vscode-apache-camel";
     license = "Apache-2.0";
     publisher = "redhat";
-    description = "Provides completion and documentation features for Apache Camel URI elements in XML DSL.";
+    description = "Provides completion, validation and documentation features for Apache Camel URI elements.";
   };
   redhat-vscode-camelk = {
     pname = "redhat-vscode-camelk";
@@ -15279,10 +15279,10 @@
   };
   redhat-vscode-debug-adapter-apache-camel = {
     pname = "redhat-vscode-debug-adapter-apache-camel";
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.1.1/file/redhat.vscode-debug-adapter-apache-camel-0.1.1.vsix";
-      sha256 = "sha256-+WEMdTHj1fx+mTUFeSu3RTv5cHq5dHf1hjW8sOv+is0=";
+      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.2.0/file/redhat.vscode-debug-adapter-apache-camel-0.2.0.vsix";
+      sha256 = "sha256-s/rfgy67P94+zKzyUx0dhqAH+rqEMmjb7w1moc2Bnts=";
     };
     name = "vscode-debug-adapter-apache-camel";
     license = "Apache-2.0";
