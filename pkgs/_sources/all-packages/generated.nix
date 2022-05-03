@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "d716e2b40c38737f1aa3f16de0dec67394a6ac68";
+    version = "0bd76a0045eb558eb57066cad454c1f20d6fe2f7";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "d716e2b40c38737f1aa3f16de0dec67394a6ac68";
+      rev = "0bd76a0045eb558eb57066cad454c1f20d6fe2f7";
       fetchSubmodules = false;
-      sha256 = "sha256-IlrfqwNyaSHE9Ct0mn7MUxEg7p1Ku34eOMYelEAYFW8=";
+      sha256 = "sha256-ygIjzr8LcVX3SyT1n74g0ziqGJh4Eu1G7ygSwiLPf8g=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-d716e2b40c38737f1aa3f16de0dec67394a6ac68/Cargo.lock;
+      lockFile = ./rustdesk-0bd76a0045eb558eb57066cad454c1f20d6fe2f7/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1048,13 +1048,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "24dafe5746bbd785a7956160ecb6a98e23a283e7";
+    version = "49788f0e12ad4ea67cd8eea0dc0387b88cd3d4ec";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "24dafe5746bbd785a7956160ecb6a98e23a283e7";
+      rev = "49788f0e12ad4ea67cd8eea0dc0387b88cd3d4ec";
       fetchSubmodules = false;
-      sha256 = "sha256-pv+1OWCVul1bTPyzE2rO9Hsa1p685cdEqb4+Rdoj8rw=";
+      sha256 = "sha256-CVFfOPDvxEEgfnsuDOEJ5BZVEkGsub7zagfAk+ytcR8=";
     });
   };
   ultimmc = {
