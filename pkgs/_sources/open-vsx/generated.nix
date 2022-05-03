@@ -1323,10 +1323,10 @@
   };
   GulajavaMinistudio-mayukaithemevsc = {
     pname = "GulajavaMinistudio-mayukaithemevsc";
-    version = "3.2.0";
+    version = "3.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.0/file/GulajavaMinistudio.mayukaithemevsc-3.2.0.vsix";
-      sha256 = "sha256-S+CJWn7mR+9pMe0HG61qghW4LxStseo+D6YKxHAF/m8=";
+      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.1/file/GulajavaMinistudio.mayukaithemevsc-3.2.1.vsix";
+      sha256 = "sha256-H7ZNtEvMMI/hWcPkUVhTmT9UCvWaEC7bnSICpGQRoDo=";
     };
     name = "mayukaithemevsc";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.907";
+    version = "31.0.910";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.907/file/Prisma.prisma-insider-31.0.907.vsix";
-      sha256 = "sha256-9NdY5ZkerPG+boLz04QRbojSv7lC3BDYlu8gFsX6oCU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.910/file/Prisma.prisma-insider-31.0.910.vsix";
+      sha256 = "sha256-eFrxGb47TgnrrN1i/2IB8JyxqJfAoHXjolB/DxUnJ3U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5895,10 +5895,10 @@
   };
   butchland-vscode-dbt-bigquery-power-user = {
     pname = "butchland-vscode-dbt-bigquery-power-user";
-    version = "0.5.20";
+    version = "0.5.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.20/file/butchland.vscode-dbt-bigquery-power-user-0.5.20.vsix";
-      sha256 = "sha256-4rZdYof1Ltj0yviTT/aD1t3FIsStQWeBc9M1eqqiJPQ=";
+      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.21/file/butchland.vscode-dbt-bigquery-power-user-0.5.21.vsix";
+      sha256 = "sha256-1Za4vsgRJqIjX8LDs6s+CistO1rakMbcS5sMq1qGE/g=";
     };
     name = "vscode-dbt-bigquery-power-user";
     license = "MIT";
@@ -11712,6 +11712,18 @@
     license = "MIT";
     publisher = "lonefy";
     description = "Format ,prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI";
+  };
+  lukashass-volar = {
+    pname = "lukashass-volar";
+    version = "0.34.13";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lukashass/volar/0.34.13/file/lukashass.volar-0.34.13.vsix";
+      sha256 = "sha256-Xfi2V73pjXYJGDFgVMyUYWQAggolyal27r/eyrurq5c=";
+    };
+    name = "volar";
+    license = "MIT";
+    publisher = "lukashass";
+    description = "Language support for Vue 3";
   };
   lukinco-lukin-vscode-theme = {
     pname = "lukinco-lukin-vscode-theme";
