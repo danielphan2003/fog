@@ -28183,7 +28183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vivaxy-vscode-conventional-commits",
-    "version": "1.24.0",
+    "version": "1.24.1",
     "passthru": {
       "name": "vscode-conventional-commits",
       "license": "MIT",
@@ -28191,10 +28191,10 @@
       "description": "ð¬Conventional Commits for VSCode."
     },
     "src": {
-      "url": "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.0/file/vivaxy.vscode-conventional-commits-1.24.0.vsix",
+      "url": "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.1/file/vivaxy.vscode-conventional-commits-1.24.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VC2dclXrXscAgooF497JgfCruLjkKD+HOPLMmppeKXc="
+      "sha256": "sha256-KpnUhRESN89SKQkt94j2pQOim92PFXb31B4MbJX9dOY="
     },
     "extract": null,
     "rustGitDeps": null
