@@ -21819,6 +21819,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "lukashass-volar": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "lukashass-volar",
+    "version": "0.34.13",
+    "passthru": {
+      "name": "volar",
+      "license": "MIT",
+      "publisher": "lukashass",
+      "description": "Language support for Vue 3"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/lukashass/volar/0.34.13/file/lukashass.volar-0.34.13.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Xfi2V73pjXYJGDFgVMyUYWQAggolyal27r/eyrurq5c="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "redlin-remove-tabs-on-save": {
     "pinned": false,
     "cargoLock": null,
@@ -27523,7 +27543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "butchland-vscode-dbt-bigquery-power-user",
-    "version": "0.5.20",
+    "version": "0.5.21",
     "passthru": {
       "name": "vscode-dbt-bigquery-power-user",
       "license": "MIT",
@@ -27531,10 +27551,10 @@
       "description": "This extension makes vscode seamlessly work with dbt and BigQuery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.20/file/butchland.vscode-dbt-bigquery-power-user-0.5.20.vsix",
+      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.21/file/butchland.vscode-dbt-bigquery-power-user-0.5.21.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4rZdYof1Ltj0yviTT/aD1t3FIsStQWeBc9M1eqqiJPQ="
+      "sha256": "sha256-1Za4vsgRJqIjX8LDs6s+CistO1rakMbcS5sMq1qGE/g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31483,7 +31503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.907",
+    "version": "31.0.910",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31491,10 +31511,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.907/file/Prisma.prisma-insider-31.0.907.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.910/file/Prisma.prisma-insider-31.0.910.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9NdY5ZkerPG+boLz04QRbojSv7lC3BDYlu8gFsX6oCU="
+      "sha256": "sha256-eFrxGb47TgnrrN1i/2IB8JyxqJfAoHXjolB/DxUnJ3U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34723,7 +34743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GulajavaMinistudio-mayukaithemevsc",
-    "version": "3.2.0",
+    "version": "3.2.1",
     "passthru": {
       "name": "mayukaithemevsc",
       "license": "MIT",
@@ -34731,10 +34751,10 @@
       "description": "Dark theme based on mixing swatch of Ayu Theme, Andromeda Theme, Monokai, Material Colors, Original Gruvbox Darktooth Colors, and Dracula Colors."
     },
     "src": {
-      "url": "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.0/file/GulajavaMinistudio.mayukaithemevsc-3.2.0.vsix",
+      "url": "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.1/file/GulajavaMinistudio.mayukaithemevsc-3.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-S+CJWn7mR+9pMe0HG61qghW4LxStseo+D6YKxHAF/m8="
+      "sha256": "sha256-H7ZNtEvMMI/hWcPkUVhTmT9UCvWaEC7bnSICpGQRoDo="
     },
     "extract": null,
     "rustGitDeps": null
