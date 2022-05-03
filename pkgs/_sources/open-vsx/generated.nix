@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.910";
+    version = "31.0.912";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.910/file/Prisma.prisma-insider-31.0.910.vsix";
-      sha256 = "sha256-eFrxGb47TgnrrN1i/2IB8JyxqJfAoHXjolB/DxUnJ3U=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.912/file/Prisma.prisma-insider-31.0.912.vsix";
+      sha256 = "sha256-J3LOq3IHM4rjaHcRnIpzLmdG7azLMQkKjDpcF2c84Uo=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12037,6 +12037,18 @@
     publisher = "matthewpi";
     description = "Rich Caddyfile support for Visual Studio Code";
   };
+  mattpocock-ts-error-translator = {
+    pname = "mattpocock-ts-error-translator";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.2.1/file/mattpocock.ts-error-translator-0.2.1.vsix";
+      sha256 = "sha256-3oy3ejqHRUe9hw4Sfb9q3Wk3Av7tVJp/m9fKbjN/EDM=";
+    };
+    name = "ts-error-translator";
+    license = "MIT";
+    publisher = "mattpocock";
+    description = "TypeScript errors, translated for humans";
+  };
   mauricioszabo-clover = {
     pname = "mauricioszabo-clover";
     version = "0.2.8";
@@ -16995,10 +17007,10 @@
   };
   streetsidesoftware-code-spell-checker-bulgarian = {
     pname = "streetsidesoftware-code-spell-checker-bulgarian";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-bulgarian/0.1.3/file/streetsidesoftware.code-spell-checker-bulgarian-0.1.3.vsix";
-      sha256 = "sha256-R+k4IoliTcP6dj8iR29WIHzeTWvXGxSuUP3tQs6LFd4=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-bulgarian/0.1.4/file/streetsidesoftware.code-spell-checker-bulgarian-0.1.4.vsix";
+      sha256 = "sha256-LKN8nIPvI3VdA34It5ZsJODetWnZQ/eJb5pAv/PQqsM=";
     };
     name = "code-spell-checker-bulgarian";
     license = "GPL-3.0-or-later";
@@ -17019,10 +17031,10 @@
   };
   streetsidesoftware-code-spell-checker-croatian = {
     pname = "streetsidesoftware-code-spell-checker-croatian";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-croatian/0.1.3/file/streetsidesoftware.code-spell-checker-croatian-0.1.3.vsix";
-      sha256 = "sha256-8hYX5EVRkpKRyTDDRNwpgYtmd4tpEoxi0ByC8nIjNzQ=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-croatian/0.1.4/file/streetsidesoftware.code-spell-checker-croatian-0.1.4.vsix";
+      sha256 = "sha256-BDxVILhc8B/rndc91yy6N2fIYDYEcz8CtGjqF/X8ho8=";
     };
     name = "code-spell-checker-croatian";
     license = "GPL-3.0-or-later";
@@ -17055,10 +17067,10 @@
   };
   streetsidesoftware-code-spell-checker-dutch = {
     pname = "streetsidesoftware-code-spell-checker-dutch";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-dutch/0.3.0/file/streetsidesoftware.code-spell-checker-dutch-0.3.0.vsix";
-      sha256 = "sha256-58NMk2/EN3yvgVWC0wKjh5Lvw7LEgWj6kLyv99iteIE=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-dutch/0.3.1/file/streetsidesoftware.code-spell-checker-dutch-0.3.1.vsix";
+      sha256 = "sha256-4XvSSPuzxoiU113I+/m8Ny/xbTpC0jNFCe2WUIkXUZQ=";
     };
     name = "code-spell-checker-dutch";
     license = "MIT";
@@ -17079,10 +17091,10 @@
   };
   streetsidesoftware-code-spell-checker-estonian = {
     pname = "streetsidesoftware-code-spell-checker-estonian";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.3/file/streetsidesoftware.code-spell-checker-estonian-0.1.3.vsix";
-      sha256 = "sha256-c18ElCjAtFYNczseCvWv0k9G8dEyGt6h/Kok0uzaViY=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.4/file/streetsidesoftware.code-spell-checker-estonian-0.1.4.vsix";
+      sha256 = "sha256-pFKTx+pee0hDPmk4e7edfxA6brbWUC47WnrTkTrVBIw=";
     };
     name = "code-spell-checker-estonian";
     license = "GPL-3.0-or-later";
@@ -17091,22 +17103,22 @@
   };
   streetsidesoftware-code-spell-checker-french = {
     pname = "streetsidesoftware-code-spell-checker-french";
-    version = "0.1.15";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french/0.1.15/file/streetsidesoftware.code-spell-checker-french-0.1.15.vsix";
-      sha256 = "sha256-km6kOOvbAvQqvNxnM98+GCLDj4ahMM0EP4UVpwMX01I=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french/0.2.0/file/streetsidesoftware.code-spell-checker-french-0.2.0.vsix";
+      sha256 = "sha256-jvfZoMdutZ2getfi+nyahei8atwa/fuILEo/S5FtppM=";
     };
     name = "code-spell-checker-french";
-    license = "MIT";
+    license = "GPL-3.0-or-later";
     publisher = "streetsidesoftware";
     description = "French dictionary extension for VS Code.";
   };
   streetsidesoftware-code-spell-checker-french-reforme = {
     pname = "streetsidesoftware-code-spell-checker-french-reforme";
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french-reforme/2.0.3/file/streetsidesoftware.code-spell-checker-french-reforme-2.0.3.vsix";
-      sha256 = "sha256-2cEKstClZm2Hk2Iw1Y5ha4sfbG4b/x7pznigd6lnPcY=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french-reforme/2.0.4/file/streetsidesoftware.code-spell-checker-french-reforme-2.0.4.vsix";
+      sha256 = "sha256-BZXwE2twKVIcFkb1+Pn7P43Um6qU7ZNOI0MCABlmQrY=";
     };
     name = "code-spell-checker-french-reforme";
     license = "MIT";
@@ -17175,10 +17187,10 @@
   };
   streetsidesoftware-code-spell-checker-norwegian-bokmal = {
     pname = "streetsidesoftware-code-spell-checker-norwegian-bokmal";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.3/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.3.vsix";
-      sha256 = "sha256-HkNaHUH7LKNONhvd27eUvE1Olm0OCBPDOR6Xr8yDqs4=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.4/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.4.vsix";
+      sha256 = "sha256-heGTAaEv64G6YIfvG1tYiqReaGJxnvxECm7FmNniZdo=";
     };
     name = "code-spell-checker-norwegian-bokmal";
     license = "GPL-3.0-or-later";
@@ -17223,10 +17235,10 @@
   };
   streetsidesoftware-code-spell-checker-portuguese-brazilian = {
     pname = "streetsidesoftware-code-spell-checker-portuguese-brazilian";
-    version = "2.0.5";
+    version = "2.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-portuguese-brazilian/2.0.5/file/streetsidesoftware.code-spell-checker-portuguese-brazilian-2.0.5.vsix";
-      sha256 = "sha256-km3sGxOc5PuVUajMGtSUccfjQViVGw5OXPitebvIrbE=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-portuguese-brazilian/2.0.6/file/streetsidesoftware.code-spell-checker-portuguese-brazilian-2.0.6.vsix";
+      sha256 = "sha256-NvnAJWWC3IJbrzme1wTgyuYstWPJ6aU/yBfMvvvwRdw=";
     };
     name = "code-spell-checker-portuguese-brazilian";
     license = "GPL-3.0-or-later";
@@ -17235,10 +17247,10 @@
   };
   streetsidesoftware-code-spell-checker-russian = {
     pname = "streetsidesoftware-code-spell-checker-russian";
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-russian/2.0.3/file/streetsidesoftware.code-spell-checker-russian-2.0.3.vsix";
-      sha256 = "sha256-Sc+E+y/dbE299x7vwmYvXbDrCTfzKjkSoUGy1Px+Zt8=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-russian/2.0.4/file/streetsidesoftware.code-spell-checker-russian-2.0.4.vsix";
+      sha256 = "sha256-xR/RnwMeX5Wi1v9uGbRHU4T2BIIpXcQha/VTq+Vlo48=";
     };
     name = "code-spell-checker-russian";
     license = "MIT";
@@ -17247,10 +17259,10 @@
   };
   streetsidesoftware-code-spell-checker-scientific-terms = {
     pname = "streetsidesoftware-code-spell-checker-scientific-terms";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-scientific-terms/0.1.3/file/streetsidesoftware.code-spell-checker-scientific-terms-0.1.3.vsix";
-      sha256 = "sha256-cM/RqXBDBNiy6Y2yNDHPhkUME5Jug2arOyBDsbEm9zw=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-scientific-terms/0.1.4/file/streetsidesoftware.code-spell-checker-scientific-terms-0.1.4.vsix";
+      sha256 = "sha256-5vGeU1yA/zPhoX1IVHPy2R3L55UAMGH8Jr7m6fSsS2M=";
     };
     name = "code-spell-checker-scientific-terms";
     license = "GPL-3.0-or-later";
@@ -17271,10 +17283,10 @@
   };
   streetsidesoftware-code-spell-checker-swedish = {
     pname = "streetsidesoftware-code-spell-checker-swedish";
-    version = "1.0.3";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-swedish/1.0.3/file/streetsidesoftware.code-spell-checker-swedish-1.0.3.vsix";
-      sha256 = "sha256-VFYOXO6LH5m2y4ygyj+8VN47qJZcPB0UKBiOKRT3xRY=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-swedish/1.1.0/file/streetsidesoftware.code-spell-checker-swedish-1.1.0.vsix";
+      sha256 = "sha256-u/D/BdRuuSbd30AV4NP3BBx8fUE9FUVjlAoZnxaUCSM=";
     };
     name = "code-spell-checker-swedish";
     license = "GPL-3.0-or-later";
