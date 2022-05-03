@@ -421,10 +421,10 @@
   };
   jibri = {
     pname = "jibri";
-    version = "8.0-129-g4bc0bf2";
+    version = "8.0-130-g6a74835";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jibri_8.0-129-g4bc0bf2-1_all.deb";
-      sha256 = "sha256-1YNAqxgyxzAEfP5bI33FCMwcf4enT18t15zEfJVyBlk=";
+      url = "https://download.jitsi.org/unstable/jibri_8.0-130-g6a74835-1_all.deb";
+      sha256 = "sha256-vRpt1hk2Yz8edR9/Ja9Y8X3InznsvuGa2SO9yJx7cVc=";
     };
   };
   jicofo = {
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "512573598a3e7f33c934e18f64a06805443ecfd5";
+    version = "66f9292835b279d546790bb8ce28806a78eeec6d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "512573598a3e7f33c934e18f64a06805443ecfd5";
+      rev = "66f9292835b279d546790bb8ce28806a78eeec6d";
       fetchSubmodules = false;
-      sha256 = "sha256-AePihUl7WqvOKAB5YVDUVElaJ4/bRGqYubmVHjowE4s=";
+      sha256 = "sha256-FQd9nzN9VM69l6SYJrZhg6vF0uxAAcnnvWLr9AVMFMo=";
     });
   };
   tailscale-systray = {
