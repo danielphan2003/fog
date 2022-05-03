@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6139",
+    "version": "1.0.6141",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6139-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6141-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uRqFctzfwE0pzKbuCZoQd7VzN9e6fx3CJLvf6OjzVKY="
+      "sha256": "sha256-FKTXU0QE7O3hkvVdo37rjeo+jSTPLR4h6MxGtcyj7ZQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6139",
+    "version": "1.0.6141",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6139.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6141.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vdA6q0WdVqqjr4nKIhqmvDX8MvV/PEccrb2AkilNjo4="
+      "sha256": "sha256-ZSrBFejoIzVrWy+hnOXu0KipY0S9WnUEsrHBhTiq/Eo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-0bd76a0045eb558eb57066cad454c1f20d6fe2f7/Cargo.lock",
+    "cargoLock": "./rustdesk-0d585a751a2c074e4d58766229d278b62db243e4/Cargo.lock",
     "name": "rustdesk",
-    "version": "0bd76a0045eb558eb57066cad454c1f20d6fe2f7",
+    "version": "0d585a751a2c074e4d58766229d278b62db243e4",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-ygIjzr8LcVX3SyT1n74g0ziqGJh4Eu1G7ygSwiLPf8g=",
-      "rev": "0bd76a0045eb558eb57066cad454c1f20d6fe2f7"
+      "sha256": "sha256-EvvM9ipBKUUcGvu3Bs446r175hJGJMXX4WNM0YpSZ+c=",
+      "rev": "0d585a751a2c074e4d58766229d278b62db243e4"
     },
     "extract": null,
     "rustGitDeps": {
