@@ -18603,10 +18603,10 @@
   };
   vivaxy-vscode-conventional-commits = {
     pname = "vivaxy-vscode-conventional-commits";
-    version = "1.24.0";
+    version = "1.24.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.0/file/vivaxy.vscode-conventional-commits-1.24.0.vsix";
-      sha256 = "sha256-VC2dclXrXscAgooF497JgfCruLjkKD+HOPLMmppeKXc=";
+      url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.1/file/vivaxy.vscode-conventional-commits-1.24.1.vsix";
+      sha256 = "sha256-KpnUhRESN89SKQkt94j2pQOim92PFXb31B4MbJX9dOY=";
     };
     name = "vscode-conventional-commits";
     license = "MIT";
