@@ -3279,10 +3279,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.44";
+    version = "3.5.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.44/file/TabNine.tabnine-vscode-3.5.44.vsix";
-      sha256 = "sha256-7fGhr6gOKUDHxyAj5pC00aeNgx1+EZasf2qwQtuycAY=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.45/file/TabNine.tabnine-vscode-3.5.45.vsix";
+      sha256 = "sha256-jNHK0xRbl571umqa9jq0DGKvKxw3SINrIfZ0yFkUqVA=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -6723,10 +6723,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.1.6";
+    version = "5.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.1.6/file/cyrilletuzi.angular-schematics-5.1.6.vsix";
-      sha256 = "sha256-MjyBGBjA8cEyxPNbHhzt9wzAxGQK2dLQ0OPRC4eks9g=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.0/file/cyrilletuzi.angular-schematics-5.2.0.vsix";
+      sha256 = "sha256-G4kzYQGxYqHagESO0I7pVE/Ajte52sVRwm1ft0rz/DE=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -7155,10 +7155,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.92.6";
+    version = "0.92.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.92.6/file/dendron.nightly-0.92.6.vsix";
-      sha256 = "sha256-2jU3F3kXJBTcTaXs1Vffa32W8iTecjFxWOwLvuEUp64=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.92.7/file/dendron.nightly-0.92.7.vsix";
+      sha256 = "sha256-G15BZ3EQ0931E9lSHyBUAwtIibK/S5+pe1SBZycS5Ow=";
     };
     name = "nightly";
     license = "AGPL-3.0";
