@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.912";
+    version = "31.0.913";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.912/file/Prisma.prisma-insider-31.0.912.vsix";
-      sha256 = "sha256-J3LOq3IHM4rjaHcRnIpzLmdG7azLMQkKjDpcF2c84Uo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.913/file/Prisma.prisma-insider-31.0.913.vsix";
+      sha256 = "sha256-0MTHkTv6pxPgWB8TmDEatyffAF2AdY3X1DB937tFm4I=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7071,10 +7071,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.92.1";
+    version = "0.93.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.92.1/file/dendron.dendron-0.92.1.vsix";
-      sha256 = "sha256-Gpmppv7P7jhxlxsnHv5Yo5hLPEp9dyZ9/VvftOblgWM=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.93.0/file/dendron.dendron-0.93.0.vsix";
+      sha256 = "sha256-RtdgZZauE859/xfqR/ClIBxtUh28UKlkp02ZsZeKO3A=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -9171,10 +9171,10 @@
   };
   hashicorp-terraform = {
     pname = "hashicorp-terraform";
-    version = "2.18.0";
+    version = "2.20.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hashicorp/terraform/2.18.0/file/hashicorp.terraform-2.18.0.vsix";
-      sha256 = "sha256-jeUd7Yd12G6kwzvZNskNuilXjS21eABXnN8pTphghPc=";
+      url = "https://open-vsx.org/api/hashicorp/terraform/2.20.1/file/hashicorp.terraform-2.20.1.vsix";
+      sha256 = "sha256-QajL2PUABXV47cfR4rznsCTfilhDeAZpk+6oLh7BxJw=";
     };
     name = "terraform";
     license = "MPL-2.0";
@@ -10203,10 +10203,10 @@
   };
   jaspergeer-docmachine = {
     pname = "jaspergeer-docmachine";
-    version = "1.1.2";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.2/file/jaspergeer.docmachine-1.1.2.vsix";
-      sha256 = "sha256-6S5B+usYKPSxhv5vvb9arpDXdqAt/Ck4GlIHKgyZ2/Q=";
+      url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.4/file/jaspergeer.docmachine-1.1.4.vsix";
+      sha256 = "sha256-arnTVcOwTZdWXwdefxkjOVWHRxXXjddrXhD8Jekwg9E=";
     };
     name = "docmachine";
     license = "MIT";
@@ -16719,10 +16719,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.60";
+    version = "0.2.66";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.60/file/smapiot.vscode-piral-0.2.60.vsix";
-      sha256 = "sha256-ThpYKEor4DU2f27g4gX+B0y4Fn7qBfbjNWAsDVsWtKw=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.66/file/smapiot.vscode-piral-0.2.66.vsix";
+      sha256 = "sha256-HxxpjPjJxNbpF3FHL4ZP0MEgEPjMwru8IDt0ySnUW1E=";
     };
     name = "vscode-piral";
     license = "MIT";
@@ -16827,10 +16827,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.11.3";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.3/file/sourcery.sourcery-0.11.3.vsix";
-      sha256 = "sha256-YQLcvIqTcShfItanCAmAgMbKlL3e/g7aMc3QP6e7hqI=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.4/file/sourcery.sourcery-0.11.4.vsix";
+      sha256 = "sha256-lSeFI8EbsMfpu9NauaMWi9KrEy8XVeC6LhtdrL8qSDw=";
     };
     name = "sourcery";
     license = "MIT";

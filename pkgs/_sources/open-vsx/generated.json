@@ -5183,7 +5183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jaspergeer-docmachine",
-    "version": "1.1.2",
+    "version": "1.1.4",
     "passthru": {
       "name": "docmachine",
       "license": "MIT",
@@ -5191,10 +5191,10 @@
       "description": "On the fly documentation generator"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jaspergeer/docmachine/1.1.2/file/jaspergeer.docmachine-1.1.2.vsix",
+      "url": "https://open-vsx.org/api/jaspergeer/docmachine/1.1.4/file/jaspergeer.docmachine-1.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6S5B+usYKPSxhv5vvb9arpDXdqAt/Ck4GlIHKgyZ2/Q="
+      "sha256": "sha256-arnTVcOwTZdWXwdefxkjOVWHRxXXjddrXhD8Jekwg9E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8483,7 +8483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "sourcery-sourcery",
-    "version": "0.11.3",
+    "version": "0.11.4",
     "passthru": {
       "name": "sourcery",
       "license": "MIT",
@@ -8491,10 +8491,10 @@
       "description": "Refactor Python instantly with Sourcery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/sourcery/sourcery/0.11.3/file/sourcery.sourcery-0.11.3.vsix",
+      "url": "https://open-vsx.org/api/sourcery/sourcery/0.11.4/file/sourcery.sourcery-0.11.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YQLcvIqTcShfItanCAmAgMbKlL3e/g7aMc3QP6e7hqI="
+      "sha256": "sha256-lSeFI8EbsMfpu9NauaMWi9KrEy8XVeC6LhtdrL8qSDw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11863,7 +11863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.60",
+    "version": "0.2.66",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11871,10 +11871,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.60/file/smapiot.vscode-piral-0.2.60.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.66/file/smapiot.vscode-piral-0.2.66.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ThpYKEor4DU2f27g4gX+B0y4Fn7qBfbjNWAsDVsWtKw="
+      "sha256": "sha256-HxxpjPjJxNbpF3FHL4ZP0MEgEPjMwru8IDt0ySnUW1E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14843,7 +14843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hashicorp-terraform",
-    "version": "2.18.0",
+    "version": "2.20.1",
     "passthru": {
       "name": "terraform",
       "license": "MPL-2.0",
@@ -14851,10 +14851,10 @@
       "description": "Syntax highlighting and autocompletion for Terraform"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hashicorp/terraform/2.18.0/file/hashicorp.terraform-2.18.0.vsix",
+      "url": "https://open-vsx.org/api/hashicorp/terraform/2.20.1/file/hashicorp.terraform-2.20.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jeUd7Yd12G6kwzvZNskNuilXjS21eABXnN8pTphghPc="
+      "sha256": "sha256-QajL2PUABXV47cfR4rznsCTfilhDeAZpk+6oLh7BxJw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24323,7 +24323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.92.1",
+    "version": "0.93.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -24331,10 +24331,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.92.1/file/dendron.dendron-0.92.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.93.0/file/dendron.dendron-0.93.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Gpmppv7P7jhxlxsnHv5Yo5hLPEp9dyZ9/VvftOblgWM="
+      "sha256": "sha256-RtdgZZauE859/xfqR/ClIBxtUh28UKlkp02ZsZeKO3A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31523,7 +31523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.912",
+    "version": "31.0.913",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31531,10 +31531,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.912/file/Prisma.prisma-insider-31.0.912.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.913/file/Prisma.prisma-insider-31.0.913.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-J3LOq3IHM4rjaHcRnIpzLmdG7azLMQkKjDpcF2c84Uo="
+      "sha256": "sha256-0MTHkTv6pxPgWB8TmDEatyffAF2AdY3X1DB937tFm4I="
     },
     "extract": null,
     "rustGitDeps": null
