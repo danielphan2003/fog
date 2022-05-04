@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.919";
+    version = "31.0.920";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.919/file/Prisma.prisma-insider-31.0.919.vsix";
-      sha256 = "sha256-Hif/5gtvQ8G8Q/lhA5uF6r34cS/mt6AQHfN6IAAUXho=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.920/file/Prisma.prisma-insider-31.0.920.vsix";
+      sha256 = "sha256-OOljc/MAMdvdpBQPLCRiY56s9VriT5c+074scW7qf6s=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -20619,10 +20619,10 @@
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
-    version = "0.1.23";
+    version = "0.1.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.23/file/zardoy.better-snippets-0.1.23.vsix";
-      sha256 = "sha256-P81e0A1+N7ABRui09mAd4vOs9skOL3p4QdBGkb3wsko=";
+      url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.24/file/zardoy.better-snippets-0.1.24.vsix";
+      sha256 = "sha256-2WSE5wVEoSaUoKXiKZyGXDQ3bJmZJOomh5P0UTN+UBQ=";
     };
     name = "better-snippets";
     license = "MIT";
