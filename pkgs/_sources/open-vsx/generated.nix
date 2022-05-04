@@ -3435,10 +3435,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.3/file/Turiiya.keyword-o-mat-0.1.3.vsix";
-      sha256 = "sha256-Hi7st7dk6WzH6xkNYW2VPO21+qYRePbD27JiCLpVR2o=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.4/file/Turiiya.keyword-o-mat-0.1.4.vsix";
+      sha256 = "sha256-qub3Pm4gYnjW/CqC/APyjYfdSVCQBJ86eC8tWQa/FZY=";
     };
     name = "keyword-o-mat";
     license = "MIT";
@@ -20103,10 +20103,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "1.6.7";
+    version = "1.6.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.7/file/webhint.vscode-webhint-1.6.7.vsix";
-      sha256 = "sha256-SCzlcM6hnKjVl5sKXZTG2x9Hg3RX3nFNFfDUFVF/Zzg=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.8/file/webhint.vscode-webhint-1.6.8.vsix";
+      sha256 = "sha256-TIG+4UnadZUgPcEYgG6az58gttFtDuB4Na5TIna1+8w=";
     };
     name = "vscode-webhint";
     license = "Apache-2.0";
