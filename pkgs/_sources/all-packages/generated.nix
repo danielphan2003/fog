@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6bfe9162e11b2b4c41a46a9c123e09023134c1cf";
+    version = "c7fd3d46fde472c2e6c2801c9aa7e9376656e235";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "6bfe9162e11b2b4c41a46a9c123e09023134c1cf";
+      rev = "c7fd3d46fde472c2e6c2801c9aa7e9376656e235";
       fetchSubmodules = false;
-      sha256 = "sha256-KXVLx2yltJED86S0+iRfoRx9zbrqw/i4C9kNWK5Y9to=";
+      sha256 = "sha256-fwJumnAbyX9oQ8eGEk/tXvNwCjF+xWrtvfSEWlSdEks=";
     });
   };
   ibus = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0d585a751a2c074e4d58766229d278b62db243e4";
+    version = "b5395d954a7d5c22a37474be805d4310826a49cf";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0d585a751a2c074e4d58766229d278b62db243e4";
+      rev = "b5395d954a7d5c22a37474be805d4310826a49cf";
       fetchSubmodules = false;
-      sha256 = "sha256-EvvM9ipBKUUcGvu3Bs446r175hJGJMXX4WNM0YpSZ+c=";
+      sha256 = "sha256-XDciFpAgGkaXFLsZUrB/IupINfqAiNffpaqmMbTuXkY=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-0d585a751a2c074e4d58766229d278b62db243e4/Cargo.lock;
+      lockFile = ./rustdesk-b5395d954a7d5c22a37474be805d4310826a49cf/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1010,13 +1010,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3e1f2d01f7790dc0458a7ff70c405c0c5f5e458c";
+    version = "7ee3068f9de4da8179f75b1d543536036dc755cf";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3e1f2d01f7790dc0458a7ff70c405c0c5f5e458c";
+      rev = "7ee3068f9de4da8179f75b1d543536036dc755cf";
       fetchSubmodules = false;
-      sha256 = "sha256-FKXHDyEvYLw+FCXxIQ+O+ExYvmoai1dhJW2jH54GDUM=";
+      sha256 = "sha256-z781+YlTgX86v09J+DUsj55LBTvVgHHVfsyL/gdAsIs=";
     });
   };
   tailscale-systray = {
