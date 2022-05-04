@@ -2283,10 +2283,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.11";
+    version = "0.17.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.11/file/Marko-JS.marko-vscode-0.17.11.vsix";
-      sha256 = "sha256-aQ3nb50xKPcddmueogwmGuHWk4CCPm/2YYuMlF7QDoU=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.13/file/Marko-JS.marko-vscode-0.17.13.vsix";
+      sha256 = "sha256-KmxKceOY/39hpvXoj1dDqR5gewFIbiA+OgH6ZG+z65o=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -11679,10 +11679,10 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.16";
+    version = "0.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.16/file/llvm-vs-code-extensions.vscode-clangd-0.1.16.vsix";
-      sha256 = "sha256-ivree05j0c/UbUki+yr6lTYX3lWkH23VRZ0GoWUmblA=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.17/file/llvm-vs-code-extensions.vscode-clangd-0.1.17.vsix";
+      sha256 = "sha256-XIiScz0+Kx5i1FgpUvcXmbx2e4EqgGg9E05jiyL3pV8=";
     };
     name = "vscode-clangd";
     license = "MIT";

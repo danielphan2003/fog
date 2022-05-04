@@ -2843,7 +2843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "llvm-vs-code-extensions-vscode-clangd",
-    "version": "0.1.16",
+    "version": "0.1.17",
     "passthru": {
       "name": "vscode-clangd",
       "license": "MIT",
@@ -2851,10 +2851,10 @@
       "description": "C/C++ completion, navigation, and insights"
     },
     "src": {
-      "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.16/file/llvm-vs-code-extensions.vscode-clangd-0.1.16.vsix",
+      "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.17/file/llvm-vs-code-extensions.vscode-clangd-0.1.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ivree05j0c/UbUki+yr6lTYX3lWkH23VRZ0GoWUmblA="
+      "sha256": "sha256-XIiScz0+Kx5i1FgpUvcXmbx2e4EqgGg9E05jiyL3pV8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18003,7 +18003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.11",
+    "version": "0.17.13",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -18011,10 +18011,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.11/file/Marko-JS.marko-vscode-0.17.11.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.13/file/Marko-JS.marko-vscode-0.17.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aQ3nb50xKPcddmueogwmGuHWk4CCPm/2YYuMlF7QDoU="
+      "sha256": "sha256-KmxKceOY/39hpvXoj1dDqR5gewFIbiA+OgH6ZG+z65o="
     },
     "extract": null,
     "rustGitDeps": null
