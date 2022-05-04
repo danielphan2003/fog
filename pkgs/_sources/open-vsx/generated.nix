@@ -20701,6 +20701,18 @@
     publisher = "zardoy";
     description = "";
   };
+  zardoy-typescript-server-logger = {
+    pname = "zardoy-typescript-server-logger";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.1/file/zardoy.typescript-server-logger-0.0.1.vsix";
+      sha256 = "sha256-DhWmNXotnelNA4b49USDp+nLB8tCLx/zC8PaYK5rneQ=";
+    };
+    name = "typescript-server-logger";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "Opens TS log in side-panel & scrolls for you";
+  };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
     version = "0.0.8";

@@ -28259,6 +28259,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "zardoy-typescript-server-logger": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "zardoy-typescript-server-logger",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "typescript-server-logger",
+      "license": "MIT",
+      "publisher": "zardoy",
+      "description": "Opens TS log in side-panel & scrolls for you"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.1/file/zardoy.typescript-server-logger-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-DhWmNXotnelNA4b49USDp+nLB8tCLx/zC8PaYK5rneQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "MS-CEINTL-vscode-language-pack-pt-BR": {
     "pinned": false,
     "cargoLock": null,
