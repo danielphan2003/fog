@@ -916,13 +916,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "ef8da6bca7cc8ab3d4e3a3c6658166e1f5d0ebb9";
+    version = "604fbd0cf348d7677381e8b4168d9940a01fa6ed";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "ef8da6bca7cc8ab3d4e3a3c6658166e1f5d0ebb9";
+      rev = "604fbd0cf348d7677381e8b4168d9940a01fa6ed";
       fetchSubmodules = false;
-      sha256 = "sha256-C5jlglRHTokVy9Zx4gxz+5cPpJWFnWjXCRHjr5xrmwU=";
+      sha256 = "sha256-Z5TYmJE8LlbzF8pAUTTwVyD6qKm0YoyCC3aiWrpIzHM=";
     });
   };
   spicetify-themes = {
@@ -1190,13 +1190,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "dfd0b986227e6d2b2995a76d77b87397fc254af5";
+    version = "d26e352f1622bfc19dfb13190cc401988b8e4c64";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "dfd0b986227e6d2b2995a76d77b87397fc254af5";
+      rev = "d26e352f1622bfc19dfb13190cc401988b8e4c64";
       fetchSubmodules = false;
-      sha256 = "sha256-EfhU2nbtvnHHOqvZLWMGlrZ7d9QKrFVaRb6VG+S3Utc=";
+      sha256 = "sha256-Kxp3GL2w9/TDqnMqlrq8LP35k+4pnPuMe223+LqkpWk=";
     });
   };
   xdg-desktop-portal-gtk = {
