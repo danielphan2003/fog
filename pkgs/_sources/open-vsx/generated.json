@@ -22123,7 +22123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "AdaCore-ada-debug",
-    "version": "23.0.4",
+    "version": "23.0.6",
     "passthru": {
       "name": "ada-debug",
       "license": "GPL-3.0",
@@ -22131,10 +22131,10 @@
       "description": "A Language Server providing Ada and SPARK support in Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.4/file/AdaCore.ada-debug-23.0.4.vsix",
+      "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.6/file/AdaCore.ada-debug-23.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-n1042IIcyOzuAh3CGgBdeEfTxQe1T/xY/P8QAtXe5nI="
+      "sha256": "sha256-FSf/h3WIhmpVdOhVUH/sqA3etU7tWUCHsv++P+/vn4w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31463,7 +31463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "AdaCore-ada",
-    "version": "23.0.5",
+    "version": "23.0.6",
     "passthru": {
       "name": "ada",
       "license": "GPL-3.0",
@@ -31471,10 +31471,10 @@
       "description": "A Language Server providing Ada and SPARK support in Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/AdaCore/ada/23.0.5/file/AdaCore.ada-23.0.5.vsix",
+      "url": "https://open-vsx.org/api/AdaCore/ada/23.0.6/file/AdaCore.ada-23.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3LrgndDeYqKNL9zb30O8LFdcQwzC2k91atCXdojrtsM="
+      "sha256": "sha256-MwLya2oxcUg34lp0AcdskODJjTwX69jvqNpQnrBKxQY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31523,7 +31523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.916",
+    "version": "31.0.917",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31531,10 +31531,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.916/file/Prisma.prisma-insider-31.0.916.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.917/file/Prisma.prisma-insider-31.0.917.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZmlM1r4zvRhKONvYiz7XsV1zm2CDJvkw29UvP2oNt9M="
+      "sha256": "sha256-Ia8kGHTjC8fs0dFj5KuiRuDUpcGVN2jeF44WJU5dcuE="
     },
     "extract": null,
     "rustGitDeps": null
