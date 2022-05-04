@@ -15623,7 +15623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.318",
+    "version": "2022.5.411",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15631,10 +15631,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.318/file/Slint.slint-nightly-2022.5.318.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.411/file/Slint.slint-nightly-2022.5.411.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cqJM295+rvaPTaeTN4aQx8JoJi6wb+hoEipiAB+Nydg="
+      "sha256": "sha256-kfjLfeGi/NkzBR6FXFgLA0vwt0T1NgE6e/Mnwbv63gk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31523,7 +31523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.913",
+    "version": "31.0.914",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31531,10 +31531,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.913/file/Prisma.prisma-insider-31.0.913.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.914/file/Prisma.prisma-insider-31.0.914.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0MTHkTv6pxPgWB8TmDEatyffAF2AdY3X1DB937tFm4I="
+      "sha256": "sha256-0SZ+nLX0OehigmL/yWEdyjske7zYuY/Gw3TTLOdSX5E="
     },
     "extract": null,
     "rustGitDeps": null
