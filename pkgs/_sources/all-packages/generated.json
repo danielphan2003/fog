@@ -432,7 +432,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus",
-    "version": "f1c456d26053c32634ecf436bd0082a2910d0b9e",
+    "version": "9d0f3c53f5ef1d6e4a62e99309b3af547e668366",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -442,8 +442,8 @@
       "name": null,
       "repo": "ibus",
       "type": "github",
-      "sha256": "sha256-fT64804vBCgBeirxcRnj0/2zIcPyoLh0T5K+wlaSXsA=",
-      "rev": "f1c456d26053c32634ecf436bd0082a2910d0b9e"
+      "sha256": "sha256-W6+0z7Ji5UAfaPdOdMJPNMH0ih7zDOdWk81rHmJ99vk=",
+      "rev": "9d0f3c53f5ef1d6e4a62e99309b3af547e668366"
     },
     "extract": null,
     "rustGitDeps": null
