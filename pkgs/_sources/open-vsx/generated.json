@@ -9363,7 +9363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Turiiya-keyword-o-mat",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "passthru": {
       "name": "keyword-o-mat",
       "license": "MIT",
@@ -9371,10 +9371,10 @@
       "description": "Easily cycle through commonly used keywords."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.2/file/Turiiya.keyword-o-mat-0.1.2.vsix",
+      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.3/file/Turiiya.keyword-o-mat-0.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k0EF1lb8aYPzANJRUMPCdJZGZcAVYW7mABrua1O/RL0="
+      "sha256": "sha256-Hi7st7dk6WzH6xkNYW2VPO21+qYRePbD27JiCLpVR2o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23003,7 +23003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.7.7",
+    "version": "0.7.8",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -23011,10 +23011,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.7/file/arzg.xcode-theme-0.7.7.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.8/file/arzg.xcode-theme-0.7.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/kTWFRZXHzdrscTYjmSIUZpVzT0YRFqziM19ANSncIg="
+      "sha256": "sha256-0cwvt0XcuxB7nMI8ozOeoeqMI4CX9nlfHNF/s+vX+bE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23823,7 +23823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "passthru": {
       "name": "slint",
       "license": "GPL-3.0",
@@ -23831,10 +23831,10 @@
       "description": "Slint Language extension"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint/0.2.1/file/Slint.slint-0.2.1.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint/0.2.2/file/Slint.slint-0.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KNB0Z/sKDI0uSYH+F138PVzWY2me3hfj5zWrW7jmAIs="
+      "sha256": "sha256-v7OLOhbOiHIrNpoYdOnqvpEtrOYHevCITO8k1fBO8NM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31523,7 +31523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.914",
+    "version": "31.0.916",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31531,10 +31531,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.914/file/Prisma.prisma-insider-31.0.914.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.916/file/Prisma.prisma-insider-31.0.916.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0SZ+nLX0OehigmL/yWEdyjske7zYuY/Gw3TTLOdSX5E="
+      "sha256": "sha256-ZmlM1r4zvRhKONvYiz7XsV1zm2CDJvkw29UvP2oNt9M="
     },
     "extract": null,
     "rustGitDeps": null

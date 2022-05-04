@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.914";
+    version = "31.0.916";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.914/file/Prisma.prisma-insider-31.0.914.vsix";
-      sha256 = "sha256-0SZ+nLX0OehigmL/yWEdyjske7zYuY/Gw3TTLOdSX5E=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.916/file/Prisma.prisma-insider-31.0.916.vsix";
+      sha256 = "sha256-ZmlM1r4zvRhKONvYiz7XsV1zm2CDJvkw29UvP2oNt9M=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3111,10 +3111,10 @@
   };
   Slint-slint = {
     pname = "Slint-slint";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.2.1/file/Slint.slint-0.2.1.vsix";
-      sha256 = "sha256-KNB0Z/sKDI0uSYH+F138PVzWY2me3hfj5zWrW7jmAIs=";
+      url = "https://open-vsx.org/api/Slint/slint/0.2.2/file/Slint.slint-0.2.2.vsix";
+      sha256 = "sha256-v7OLOhbOiHIrNpoYdOnqvpEtrOYHevCITO8k1fBO8NM=";
     };
     name = "slint";
     license = "GPL-3.0";
@@ -3435,10 +3435,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.2/file/Turiiya.keyword-o-mat-0.1.2.vsix";
-      sha256 = "sha256-k0EF1lb8aYPzANJRUMPCdJZGZcAVYW7mABrua1O/RL0=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.3/file/Turiiya.keyword-o-mat-0.1.3.vsix";
+      sha256 = "sha256-Hi7st7dk6WzH6xkNYW2VPO21+qYRePbD27JiCLpVR2o=";
     };
     name = "keyword-o-mat";
     license = "MIT";
@@ -5091,10 +5091,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.7";
+    version = "0.7.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.7/file/arzg.xcode-theme-0.7.7.vsix";
-      sha256 = "sha256-/kTWFRZXHzdrscTYjmSIUZpVzT0YRFqziM19ANSncIg=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.8/file/arzg.xcode-theme-0.7.8.vsix";
+      sha256 = "sha256-0cwvt0XcuxB7nMI8ozOeoeqMI4CX9nlfHNF/s+vX+bE=";
     };
     name = "xcode-theme";
     license = "MIT";
