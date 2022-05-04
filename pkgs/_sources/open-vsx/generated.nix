@@ -3507,10 +3507,10 @@
   };
   VMSSoftwareInc-vms-ide = {
     pname = "VMSSoftwareInc-vms-ide";
-    version = "1.5.51";
+    version = "1.5.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.51/file/VMSSoftwareInc.vms-ide-1.5.51.vsix";
-      sha256 = "sha256-n/cnwpWXXBQS2/qTzOZVU8MbViHH+xMzJIzIsQ4dPNE=";
+      url = "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.54/file/VMSSoftwareInc.vms-ide-1.5.54.vsix";
+      sha256 = "sha256-qZxolPYjgi3frQmqa8cd1KluZYNrlfGWaH8Ioo8pGYw=";
     };
     name = "vms-ide";
     license = "MIT";
@@ -7155,10 +7155,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.92.7";
+    version = "0.93.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.92.7/file/dendron.nightly-0.92.7.vsix";
-      sha256 = "sha256-G15BZ3EQ0931E9lSHyBUAwtIibK/S5+pe1SBZycS5Ow=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.93.1/file/dendron.nightly-0.93.1.vsix";
+      sha256 = "sha256-yIn3j31taL3JTKmNRrukA9wxhn8uaauAicX2psxBGsc=";
     };
     name = "nightly";
     license = "AGPL-3.0";

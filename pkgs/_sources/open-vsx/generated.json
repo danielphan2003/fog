@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.92.7",
+    "version": "0.93.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.92.7/file/dendron.nightly-0.92.7.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.93.1/file/dendron.nightly-0.93.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-G15BZ3EQ0931E9lSHyBUAwtIibK/S5+pe1SBZycS5Ow="
+      "sha256": "sha256-yIn3j31taL3JTKmNRrukA9wxhn8uaauAicX2psxBGsc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11643,7 +11643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "VMSSoftwareInc-vms-ide",
-    "version": "1.5.51",
+    "version": "1.5.54",
     "passthru": {
       "name": "vms-ide",
       "license": "MIT",
@@ -11651,10 +11651,10 @@
       "description": "VMS IDE is an extension that enables you to develop applications for OpenVMS."
     },
     "src": {
-      "url": "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.51/file/VMSSoftwareInc.vms-ide-1.5.51.vsix",
+      "url": "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.54/file/VMSSoftwareInc.vms-ide-1.5.54.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-n/cnwpWXXBQS2/qTzOZVU8MbViHH+xMzJIzIsQ4dPNE="
+      "sha256": "sha256-qZxolPYjgi3frQmqa8cd1KluZYNrlfGWaH8Ioo8pGYw="
     },
     "extract": null,
     "rustGitDeps": null
