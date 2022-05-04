@@ -15,10 +15,10 @@
   };
   AdaCore-ada = {
     pname = "AdaCore-ada";
-    version = "23.0.5";
+    version = "23.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.5/file/AdaCore.ada-23.0.5.vsix";
-      sha256 = "sha256-3LrgndDeYqKNL9zb30O8LFdcQwzC2k91atCXdojrtsM=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.6/file/AdaCore.ada-23.0.6.vsix";
+      sha256 = "sha256-MwLya2oxcUg34lp0AcdskODJjTwX69jvqNpQnrBKxQY=";
     };
     name = "ada";
     license = "GPL-3.0";
@@ -27,10 +27,10 @@
   };
   AdaCore-ada-debug = {
     pname = "AdaCore-ada-debug";
-    version = "23.0.4";
+    version = "23.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.4/file/AdaCore.ada-debug-23.0.4.vsix";
-      sha256 = "sha256-n1042IIcyOzuAh3CGgBdeEfTxQe1T/xY/P8QAtXe5nI=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.6/file/AdaCore.ada-debug-23.0.6.vsix";
+      sha256 = "sha256-FSf/h3WIhmpVdOhVUH/sqA3etU7tWUCHsv++P+/vn4w=";
     };
     name = "ada-debug";
     license = "GPL-3.0";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.916";
+    version = "31.0.917";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.916/file/Prisma.prisma-insider-31.0.916.vsix";
-      sha256 = "sha256-ZmlM1r4zvRhKONvYiz7XsV1zm2CDJvkw29UvP2oNt9M=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.917/file/Prisma.prisma-insider-31.0.917.vsix";
+      sha256 = "sha256-Ia8kGHTjC8fs0dFj5KuiRuDUpcGVN2jeF44WJU5dcuE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
