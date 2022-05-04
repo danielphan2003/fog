@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.917";
+    version = "31.0.919";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.917/file/Prisma.prisma-insider-31.0.917.vsix";
-      sha256 = "sha256-Ia8kGHTjC8fs0dFj5KuiRuDUpcGVN2jeF44WJU5dcuE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.919/file/Prisma.prisma-insider-31.0.919.vsix";
+      sha256 = "sha256-Hif/5gtvQ8G8Q/lhA5uF6r34cS/mt6AQHfN6IAAUXho=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5151,10 +5151,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.16.0";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.16.0/file/astro-build.astro-vscode-0.16.0.vsix";
-      sha256 = "sha256-XvswIvM+NchbN917Bxl/jtnP6m0pd0bXHU0v97qud4c=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.16.1/file/astro-build.astro-vscode-0.16.1.vsix";
+      sha256 = "sha256-nQHZCRWy6s74tkv47bnUOUTlK1eBy2YxfLHEpOUvWBo=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -12039,10 +12039,10 @@
   };
   mattpocock-ts-error-translator = {
     pname = "mattpocock-ts-error-translator";
-    version = "0.2.1";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.2.1/file/mattpocock.ts-error-translator-0.2.1.vsix";
-      sha256 = "sha256-3oy3ejqHRUe9hw4Sfb9q3Wk3Av7tVJp/m9fKbjN/EDM=";
+      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.3.0/file/mattpocock.ts-error-translator-0.3.0.vsix";
+      sha256 = "sha256-tTRtN0FM3Il6/IUbAJguATRL0athKeH/WkEtj4vNICQ=";
     };
     name = "ts-error-translator";
     license = "MIT";
@@ -14931,10 +14931,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.18.1";
+    version = "1.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.18.1/file/quarto.quarto-1.18.1.vsix";
-      sha256 = "sha256-LxwEg64Hu2trQ0kL0WQ3ZWK3qbnvP0HqglJ56/Oe6c0=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.19.0/file/quarto.quarto-1.19.0.vsix";
+      sha256 = "sha256-HMFC0+0iKxhqBo/it4XEjKPPTWICb/O3TMTjb4dwy+0=";
     };
     name = "quarto";
     license = "MIT";
@@ -17271,10 +17271,10 @@
   };
   streetsidesoftware-code-spell-checker-spanish = {
     pname = "streetsidesoftware-code-spell-checker-spanish";
-    version = "2.0.5";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-spanish/2.0.5/file/streetsidesoftware.code-spell-checker-spanish-2.0.5.vsix";
-      sha256 = "sha256-ghM9Lb55zFu2iPYIVwdHuY1gt2yBOkpj/S36IoXyzxs=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-spanish/2.1.0/file/streetsidesoftware.code-spell-checker-spanish-2.1.0.vsix";
+      sha256 = "sha256-+DscSKhje4aAVRe6nxSIkQcw/Z09mwbkDsjEsF8kkEs=";
     };
     name = "code-spell-checker-spanish";
     license = "MIT";
