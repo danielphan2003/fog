@@ -18003,7 +18003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Marko-JS-marko-vscode",
-    "version": "0.17.13",
+    "version": "0.17.14",
     "passthru": {
       "name": "marko-vscode",
       "license": "MIT",
@@ -18011,10 +18011,10 @@
       "description": "Marko Tooling for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.13/file/Marko-JS.marko-vscode-0.17.13.vsix",
+      "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.14/file/Marko-JS.marko-vscode-0.17.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KmxKceOY/39hpvXoj1dDqR5gewFIbiA+OgH6ZG+z65o="
+      "sha256": "sha256-ik28LYGPA0dvZey04cCWfpUMqAjpbZ2DyROMEjsWtaU="
     },
     "extract": null,
     "rustGitDeps": null

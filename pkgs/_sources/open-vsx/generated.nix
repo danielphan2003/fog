@@ -2283,10 +2283,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.13";
+    version = "0.17.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.13/file/Marko-JS.marko-vscode-0.17.13.vsix";
-      sha256 = "sha256-KmxKceOY/39hpvXoj1dDqR5gewFIbiA+OgH6ZG+z65o=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.14/file/Marko-JS.marko-vscode-0.17.14.vsix";
+      sha256 = "sha256-ik28LYGPA0dvZey04cCWfpUMqAjpbZ2DyROMEjsWtaU=";
     };
     name = "marko-vscode";
     license = "MIT";
