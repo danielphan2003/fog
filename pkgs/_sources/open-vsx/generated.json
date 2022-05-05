@@ -15623,7 +15623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.411",
+    "version": "2022.5.412",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15631,10 +15631,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.411/file/Slint.slint-nightly-2022.5.411.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.412/file/Slint.slint-nightly-2022.5.412.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kfjLfeGi/NkzBR6FXFgLA0vwt0T1NgE6e/Mnwbv63gk="
+      "sha256": "sha256-fqAQqwZxZ5IaVnE8/xIkq4vloyfJ6QzAFTpCUO9MWtA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17283,7 +17283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "banacorn-agda-mode",
-    "version": "0.3.8",
+    "version": "0.3.9",
     "passthru": {
       "name": "agda-mode",
       "license": "MIT",
@@ -17291,10 +17291,10 @@
       "description": "agda-mode on vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.8/file/banacorn.agda-mode-0.3.8.vsix",
+      "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.9/file/banacorn.agda-mode-0.3.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gBvJuz+JgEOCs5pB7VD/q2HySk7Pz1Mkgp4OwSA1qWA="
+      "sha256": "sha256-QmA8A4jVJc5EI/MneLFA6A05E9YN1ah2uBOyOTjhrzA="
     },
     "extract": null,
     "rustGitDeps": null

@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.411";
+    version = "2022.5.412";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.411/file/Slint.slint-nightly-2022.5.411.vsix";
-      sha256 = "sha256-kfjLfeGi/NkzBR6FXFgLA0vwt0T1NgE6e/Mnwbv63gk=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.412/file/Slint.slint-nightly-2022.5.412.vsix";
+      sha256 = "sha256-fqAQqwZxZ5IaVnE8/xIkq4vloyfJ6QzAFTpCUO9MWtA=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5307,10 +5307,10 @@
   };
   banacorn-agda-mode = {
     pname = "banacorn-agda-mode";
-    version = "0.3.8";
+    version = "0.3.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.8/file/banacorn.agda-mode-0.3.8.vsix";
-      sha256 = "sha256-gBvJuz+JgEOCs5pB7VD/q2HySk7Pz1Mkgp4OwSA1qWA=";
+      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.9/file/banacorn.agda-mode-0.3.9.vsix";
+      sha256 = "sha256-QmA8A4jVJc5EI/MneLFA6A05E9YN1ah2uBOyOTjhrzA=";
     };
     name = "agda-mode";
     license = "MIT";
