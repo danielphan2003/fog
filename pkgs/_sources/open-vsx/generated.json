@@ -14963,7 +14963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Equinusocio-vsc-material-theme-icons",
-    "version": "2.2.1",
+    "version": "2.3.1",
     "passthru": {
       "name": "vsc-material-theme-icons",
       "license": "Apache-2.0",
@@ -14971,10 +14971,10 @@
       "description": "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme-icons/2.2.1/file/Equinusocio.vsc-material-theme-icons-2.2.1.vsix",
+      "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme-icons/2.3.1/file/Equinusocio.vsc-material-theme-icons-2.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mlYXLcCuWInE5hdxWKMwb33pmEyz1lDJTODvQ+wmQm8="
+      "sha256": "sha256-MHMNeLjyIrKaduxDrG+fBtrPyBpX1MthM2dtkYz3MG8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22063,7 +22063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bierner-emojisense",
-    "version": "0.9.0",
+    "version": "0.9.1",
     "passthru": {
       "name": "emojisense",
       "license": "MIT",
@@ -22071,10 +22071,10 @@
       "description": "Adds suggestions and autocomplete for emoji"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bierner/emojisense/0.9.0/file/bierner.emojisense-0.9.0.vsix",
+      "url": "https://open-vsx.org/api/bierner/emojisense/0.9.1/file/bierner.emojisense-0.9.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AnaZGWzEBo4UcqQgzrcWKldSoN86HW8linmkNHWHMsM="
+      "sha256": "sha256-1BAFum0Q/LpajoxKF3V55KlJEMdfoP1qY1BW0oQk71k="
     },
     "extract": null,
     "rustGitDeps": null

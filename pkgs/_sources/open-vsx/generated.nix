@@ -963,10 +963,10 @@
   };
   Equinusocio-vsc-material-theme-icons = {
     pname = "Equinusocio-vsc-material-theme-icons";
-    version = "2.2.1";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme-icons/2.2.1/file/Equinusocio.vsc-material-theme-icons-2.2.1.vsix";
-      sha256 = "sha256-mlYXLcCuWInE5hdxWKMwb33pmEyz1lDJTODvQ+wmQm8=";
+      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme-icons/2.3.1/file/Equinusocio.vsc-material-theme-icons-2.3.1.vsix";
+      sha256 = "sha256-MHMNeLjyIrKaduxDrG+fBtrPyBpX1MthM2dtkYz3MG8=";
     };
     name = "vsc-material-theme-icons";
     license = "Apache-2.0";
@@ -5535,10 +5535,10 @@
   };
   bierner-emojisense = {
     pname = "bierner-emojisense";
-    version = "0.9.0";
+    version = "0.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bierner/emojisense/0.9.0/file/bierner.emojisense-0.9.0.vsix";
-      sha256 = "sha256-AnaZGWzEBo4UcqQgzrcWKldSoN86HW8linmkNHWHMsM=";
+      url = "https://open-vsx.org/api/bierner/emojisense/0.9.1/file/bierner.emojisense-0.9.1.vsix";
+      sha256 = "sha256-1BAFum0Q/LpajoxKF3V55KlJEMdfoP1qY1BW0oQk71k=";
     };
     name = "emojisense";
     license = "MIT";
