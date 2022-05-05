@@ -6839,6 +6839,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "phil294-coffeesense": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "phil294-coffeesense",
+    "version": "1.10.2",
+    "passthru": {
+      "name": "coffeesense",
+      "license": "MIT",
+      "publisher": "phil294",
+      "description": "IntelliSense for CoffeeScript based on its compiled JavaScript output"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/phil294/coffeesense/1.10.2/file/phil294.coffeesense-1.10.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-BCxv7LDxIHYvbL6kzo31dTlhVPtVQVImlGkp6Fto8cw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Equinusocio-vsc-community-material-theme": {
     "pinned": false,
     "cargoLock": null,
@@ -9843,7 +9863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.2.2259663",
+    "version": "7.3.2276732",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9851,10 +9871,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2259663/file/eliostruyf.vscode-front-matter-beta-7.2.2259663.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2276732/file/eliostruyf.vscode-front-matter-beta-7.3.2276732.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AKeicrUJE4H0XPTlnznpToclI2bLlqeJWbI/+EDkcmA="
+      "sha256": "sha256-Hx1ktM0glzXrE5BWbhXLdWdWPMlGc1zni7GgmMjEXyA="
     },
     "extract": null,
     "rustGitDeps": null

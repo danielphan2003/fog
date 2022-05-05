@@ -7659,10 +7659,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.2.2259663";
+    version = "7.3.2276732";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.2.2259663/file/eliostruyf.vscode-front-matter-beta-7.2.2259663.vsix";
-      sha256 = "sha256-AKeicrUJE4H0XPTlnznpToclI2bLlqeJWbI/+EDkcmA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2276732/file/eliostruyf.vscode-front-matter-beta-7.3.2276732.vsix";
+      sha256 = "sha256-Hx1ktM0glzXrE5BWbhXLdWdWPMlGc1zni7GgmMjEXyA=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -14376,6 +14376,18 @@
     license = "MIT";
     publisher = "ph-hawkins";
     description = "A color theme inspired by Arc, Material, and Dark+";
+  };
+  phil294-coffeesense = {
+    pname = "phil294-coffeesense";
+    version = "1.10.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/phil294/coffeesense/1.10.2/file/phil294.coffeesense-1.10.2.vsix";
+      sha256 = "sha256-BCxv7LDxIHYvbL6kzo31dTlhVPtVQVImlGkp6Fto8cw=";
+    };
+    name = "coffeesense";
+    license = "MIT";
+    publisher = "phil294";
+    description = "IntelliSense for CoffeeScript based on its compiled JavaScript output";
   };
   phil9909-ytt-lint = {
     pname = "phil9909-ytt-lint";
