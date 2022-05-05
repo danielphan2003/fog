@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.924";
+    version = "31.0.925";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.924/file/Prisma.prisma-insider-31.0.924.vsix";
-      sha256 = "sha256-9K+mgWQYoEDYooeLDSkQRyssphyum6cIQQRf6ABF9Cw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.925/file/Prisma.prisma-insider-31.0.925.vsix";
+      sha256 = "sha256-RsRuBS9t/VhmnbFZFJsIhZr+ZlJtBBiPyFIyORpr2b4=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3435,10 +3435,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.4/file/Turiiya.keyword-o-mat-0.1.4.vsix";
-      sha256 = "sha256-qub3Pm4gYnjW/CqC/APyjYfdSVCQBJ86eC8tWQa/FZY=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.5/file/Turiiya.keyword-o-mat-0.1.5.vsix";
+      sha256 = "sha256-vZ2K0LGV1VAkqG3JtzmVXRTQNxoSRaO0DL+zoUZjCag=";
     };
     name = "keyword-o-mat";
     license = "MIT";
