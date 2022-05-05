@@ -8903,7 +8903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "yasuyuky-transient-emacs",
-    "version": "0.20.0",
+    "version": "0.21.0",
     "passthru": {
       "name": "transient-emacs",
       "license": "MIT",
@@ -8911,10 +8911,10 @@
       "description": "Emacs mode using transient mark"
     },
     "src": {
-      "url": "https://open-vsx.org/api/yasuyuky/transient-emacs/0.20.0/file/yasuyuky.transient-emacs-0.20.0.vsix",
+      "url": "https://open-vsx.org/api/yasuyuky/transient-emacs/0.21.0/file/yasuyuky.transient-emacs-0.21.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ow/bBrYFKoUZajt6bzqdguqdg4ArmlFs53LT4dBotcI="
+      "sha256": "sha256-I2gvNivB9uPW7LJPY8UKQlNgauA595QK9fktf8xUpe4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31543,7 +31543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.920",
+    "version": "31.0.921",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31551,10 +31551,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.920/file/Prisma.prisma-insider-31.0.920.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.921/file/Prisma.prisma-insider-31.0.921.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OOljc/MAMdvdpBQPLCRiY56s9VriT5c+074scW7qf6s="
+      "sha256": "sha256-jHvHpCplrutcjTdLdI8/f2f9ardJW4/D1AKwAim2Y3U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31803,7 +31803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gilcu3-tamarin",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "passthru": {
       "name": "tamarin",
       "license": "MIT",
@@ -31811,10 +31811,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/gilcu3/tamarin/0.0.3/file/gilcu3.tamarin-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/gilcu3/tamarin/0.0.4/file/gilcu3.tamarin-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WkpqmV5m6Gl3fcRYd+BXWoJ0gifTYHbnnmKIC/WYZVQ="
+      "sha256": "sha256-0n8k19+rBzsMvqyO+20jKjlu6cFeX88tNDuoiwMhfMA="
     },
     "extract": null,
     "rustGitDeps": null

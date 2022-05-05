@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.920";
+    version = "31.0.921";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.920/file/Prisma.prisma-insider-31.0.920.vsix";
-      sha256 = "sha256-OOljc/MAMdvdpBQPLCRiY56s9VriT5c+074scW7qf6s=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.921/file/Prisma.prisma-insider-31.0.921.vsix";
+      sha256 = "sha256-jHvHpCplrutcjTdLdI8/f2f9ardJW4/D1AKwAim2Y3U=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8823,10 +8823,10 @@
   };
   gilcu3-tamarin = {
     pname = "gilcu3-tamarin";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gilcu3/tamarin/0.0.3/file/gilcu3.tamarin-0.0.3.vsix";
-      sha256 = "sha256-WkpqmV5m6Gl3fcRYd+BXWoJ0gifTYHbnnmKIC/WYZVQ=";
+      url = "https://open-vsx.org/api/gilcu3/tamarin/0.0.4/file/gilcu3.tamarin-0.0.4.vsix";
+      sha256 = "sha256-0n8k19+rBzsMvqyO+20jKjlu6cFeX88tNDuoiwMhfMA=";
     };
     name = "tamarin";
     license = "MIT";
@@ -20499,10 +20499,10 @@
   };
   yasuyuky-transient-emacs = {
     pname = "yasuyuky-transient-emacs";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.20.0/file/yasuyuky.transient-emacs-0.20.0.vsix";
-      sha256 = "sha256-Ow/bBrYFKoUZajt6bzqdguqdg4ArmlFs53LT4dBotcI=";
+      url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.21.0/file/yasuyuky.transient-emacs-0.21.0.vsix";
+      sha256 = "sha256-I2gvNivB9uPW7LJPY8UKQlNgauA595QK9fktf8xUpe4=";
     };
     name = "transient-emacs";
     license = "MIT";
