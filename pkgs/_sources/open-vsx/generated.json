@@ -5063,7 +5063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "barrettotte-ibmi-languages",
-    "version": "0.6.5",
+    "version": "0.6.6",
     "passthru": {
       "name": "ibmi-languages",
       "license": "MIT",
@@ -5071,10 +5071,10 @@
       "description": "Provide syntax highlighting for IBMi languages such as RPG, CL, DDS, and MI."
     },
     "src": {
-      "url": "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.5/file/barrettotte.ibmi-languages-0.6.5.vsix",
+      "url": "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.6/file/barrettotte.ibmi-languages-0.6.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oTU1v07uB9ANmRBFJWxCuGFWidJl1k5ZzyCaCKcs5/Q="
+      "sha256": "sha256-4B1WX2XjknGiT0rkDMmTkdqV12DdcCj8VPQjzOb+kSI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31563,7 +31563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.923",
+    "version": "31.0.924",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31571,10 +31571,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.923/file/Prisma.prisma-insider-31.0.923.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.924/file/Prisma.prisma-insider-31.0.924.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZXLdf8OyLkP863sXcBatr6aNRa1K9gt06JKuoXH53FU="
+      "sha256": "sha256-9K+mgWQYoEDYooeLDSkQRyssphyum6cIQQRf6ABF9Cw="
     },
     "extract": null,
     "rustGitDeps": null

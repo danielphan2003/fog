@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.923";
+    version = "31.0.924";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.923/file/Prisma.prisma-insider-31.0.923.vsix";
-      sha256 = "sha256-ZXLdf8OyLkP863sXcBatr6aNRa1K9gt06JKuoXH53FU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.924/file/Prisma.prisma-insider-31.0.924.vsix";
+      sha256 = "sha256-9K+mgWQYoEDYooeLDSkQRyssphyum6cIQQRf6ABF9Cw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5343,10 +5343,10 @@
   };
   barrettotte-ibmi-languages = {
     pname = "barrettotte-ibmi-languages";
-    version = "0.6.5";
+    version = "0.6.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.5/file/barrettotte.ibmi-languages-0.6.5.vsix";
-      sha256 = "sha256-oTU1v07uB9ANmRBFJWxCuGFWidJl1k5ZzyCaCKcs5/Q=";
+      url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.6/file/barrettotte.ibmi-languages-0.6.6.vsix";
+      sha256 = "sha256-4B1WX2XjknGiT0rkDMmTkdqV12DdcCj8VPQjzOb+kSI=";
     };
     name = "ibmi-languages";
     license = "MIT";
