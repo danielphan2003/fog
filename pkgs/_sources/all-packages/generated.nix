@@ -399,13 +399,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "b4723eb1688f396f6309d034b7c5d2815ead4b94";
+    version = "f3d7aa960b29dda7a5ace7a22ae6de33e2acdcaa";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "b4723eb1688f396f6309d034b7c5d2815ead4b94";
+      rev = "f3d7aa960b29dda7a5ace7a22ae6de33e2acdcaa";
       fetchSubmodules = false;
-      sha256 = "sha256-8kf2vPf/hZ/eTrshtwwu5RqPIn/+Ze12bNoQlUWnRGo=";
+      sha256 = "sha256-SWeo/j220itdFISfumdtuTp+mPKN2FqLmaBBgWy3SCk=";
     });
   };
   ibus-bamboo = {
@@ -1174,7 +1174,7 @@
     version = "4.10.2449.0";
     src = fetchurl {
       url = "https://dl.google.com/widevine-cdm/4.10.2449.0-linux-x64.zip";
-      sha256 = "sha256-XZuXK3NCfqbaQ1tuMOXj/U4yJC18futqo1WjuMqMrRA=";
+      sha256 = "sha256-vsr6eymKqU2Y6HM4DPHnUfVkB2BQ1HSSWvk1tNhUA5Y=";
     };
   };
   wii-u-gc-adapter = {

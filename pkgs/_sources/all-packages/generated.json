@@ -9,7 +9,7 @@
       "url": "https://dl.google.com/widevine-cdm/4.10.2449.0-linux-x64.zip",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XZuXK3NCfqbaQ1tuMOXj/U4yJC18futqo1WjuMqMrRA="
+      "sha256": "sha256-vsr6eymKqU2Y6HM4DPHnUfVkB2BQ1HSSWvk1tNhUA5Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -432,7 +432,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus",
-    "version": "b4723eb1688f396f6309d034b7c5d2815ead4b94",
+    "version": "f3d7aa960b29dda7a5ace7a22ae6de33e2acdcaa",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -442,8 +442,8 @@
       "name": null,
       "repo": "ibus",
       "type": "github",
-      "sha256": "sha256-8kf2vPf/hZ/eTrshtwwu5RqPIn/+Ze12bNoQlUWnRGo=",
-      "rev": "b4723eb1688f396f6309d034b7c5d2815ead4b94"
+      "sha256": "sha256-SWeo/j220itdFISfumdtuTp+mPKN2FqLmaBBgWy3SCk=",
+      "rev": "f3d7aa960b29dda7a5ace7a22ae6de33e2acdcaa"
     },
     "extract": null,
     "rustGitDeps": null
