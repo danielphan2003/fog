@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.921";
+    version = "31.0.922";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.921/file/Prisma.prisma-insider-31.0.921.vsix";
-      sha256 = "sha256-jHvHpCplrutcjTdLdI8/f2f9ardJW4/D1AKwAim2Y3U=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.922/file/Prisma.prisma-insider-31.0.922.vsix";
+      sha256 = "sha256-LX6DaN4GXGNNX32R8soM4cDPmYFFrAITSsNkT6mVYIA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15159,10 +15159,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.8.1";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.8.1/file/redhat.ansible-0.8.1.vsix";
-      sha256 = "sha256-Vum9R2af7ERAFZ5D8AWbeOGvPbGZ/lI4ZS562T/uiM0=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.9.0/file/redhat.ansible-0.9.0.vsix";
+      sha256 = "sha256-4Szun7kam8v/eANBMPyfyeIbZAL1f7MgpMPwk6k8tz0=";
     };
     name = "ansible";
     license = "MIT";
