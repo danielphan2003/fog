@@ -3403,7 +3403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "d-biehl-robotcode",
-    "version": "0.11.16",
+    "version": "0.11.17",
     "passthru": {
       "name": "robotcode",
       "license": "Apache-2.0",
@@ -3411,10 +3411,10 @@
       "description": "RobotFramework support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.16/file/d-biehl.robotcode-0.11.16.vsix",
+      "url": "https://open-vsx.org/api/d-biehl/robotcode/0.11.17/file/d-biehl.robotcode-0.11.17.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HiwbUObceicq0XYWxmr4nBpiT+avUrvKwMV6MFvcE9I="
+      "sha256": "sha256-38+QnF6n4Lhu0f5Sj2zoPbUPtrzVbntFkpJVGFuj5Vc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28263,7 +28263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-typescript-server-logger",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "passthru": {
       "name": "typescript-server-logger",
       "license": "MIT",
@@ -28271,10 +28271,10 @@
       "description": "Opens TS log in side-panel & scrolls for you"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.1/file/zardoy.typescript-server-logger-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.4/file/zardoy.typescript-server-logger-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DhWmNXotnelNA4b49USDp+nLB8tCLx/zC8PaYK5rneQ="
+      "sha256": "sha256-d4yEzvYnRCXB4WSvb1sCgZz/PRxAU00bGsVhNpA3U6k="
     },
     "extract": null,
     "rustGitDeps": null

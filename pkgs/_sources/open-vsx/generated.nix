@@ -6747,10 +6747,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.16";
+    version = "0.11.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.16/file/d-biehl.robotcode-0.11.16.vsix";
-      sha256 = "sha256-HiwbUObceicq0XYWxmr4nBpiT+avUrvKwMV6MFvcE9I=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.17/file/d-biehl.robotcode-0.11.17.vsix";
+      sha256 = "sha256-38+QnF6n4Lhu0f5Sj2zoPbUPtrzVbntFkpJVGFuj5Vc=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -20703,10 +20703,10 @@
   };
   zardoy-typescript-server-logger = {
     pname = "zardoy-typescript-server-logger";
-    version = "0.0.1";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.1/file/zardoy.typescript-server-logger-0.0.1.vsix";
-      sha256 = "sha256-DhWmNXotnelNA4b49USDp+nLB8tCLx/zC8PaYK5rneQ=";
+      url = "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.4/file/zardoy.typescript-server-logger-0.0.4.vsix";
+      sha256 = "sha256-d4yEzvYnRCXB4WSvb1sCgZz/PRxAU00bGsVhNpA3U6k=";
     };
     name = "typescript-server-logger";
     license = "MIT";
