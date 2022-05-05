@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "e46867f2be05c12633c06628f51fc1d626e5768a",
+    "version": "67e9084e7fc171d34aff4c5cb86caad8a8112102",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-xYDW8MtKYrnYp3stg46Bdl0qpnWuAZYRi9fFZ9bsgbw=",
-      "rev": "e46867f2be05c12633c06628f51fc1d626e5768a"
+      "sha256": "sha256-hu1msGnpSuLEU0tAH/dsgG6AViYsJSmoBnCezGP+UOY=",
+      "rev": "67e9084e7fc171d34aff4c5cb86caad8a8112102"
     },
     "extract": null,
     "rustGitDeps": null
@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "45dde897a2bb87254227b0364143a1cb12e918c8",
+    "version": "0b93dcea28b8cea9095e67f069a5f3257058f3f5",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-LRDWB5+sDo5nEYnAF0ryTMhPtdA0qmdIcm2Q/f+/Q8s=",
-      "rev": "45dde897a2bb87254227b0364143a1cb12e918c8"
+      "sha256": "sha256-M3OQXs2KJKOXJHlh83IWW90kj7ESpxpRen5W12HfBf0=",
+      "rev": "0b93dcea28b8cea9095e67f069a5f3257058f3f5"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1426,7 +1426,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "b038d2d55a10476c59ee87d969dd17ba73f8946c",
+    "version": "1880427e81af1130a3b204fe419b340b045a4121",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1436,8 +1436,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-YqceZZeO0B2Je+owO2ZqCb/RmUxkX1yDDkJynbUONlA=",
-      "rev": "b038d2d55a10476c59ee87d969dd17ba73f8946c"
+      "sha256": "sha256-smyzTP+XJCuswjf221ErNo7HiWiK/8phudvQFWZwiYA=",
+      "rev": "1880427e81af1130a3b204fe419b340b045a4121"
     },
     "extract": null,
     "rustGitDeps": null
