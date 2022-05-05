@@ -9383,7 +9383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Turiiya-keyword-o-mat",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "keyword-o-mat",
       "license": "MIT",
@@ -9391,10 +9391,10 @@
       "description": "Easily cycle through commonly used keywords."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.4/file/Turiiya.keyword-o-mat-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.5/file/Turiiya.keyword-o-mat-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qub3Pm4gYnjW/CqC/APyjYfdSVCQBJ86eC8tWQa/FZY="
+      "sha256": "sha256-vZ2K0LGV1VAkqG3JtzmVXRTQNxoSRaO0DL+zoUZjCag="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31563,7 +31563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.924",
+    "version": "31.0.925",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31571,10 +31571,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.924/file/Prisma.prisma-insider-31.0.924.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.925/file/Prisma.prisma-insider-31.0.925.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9K+mgWQYoEDYooeLDSkQRyssphyum6cIQQRf6ABF9Cw="
+      "sha256": "sha256-RsRuBS9t/VhmnbFZFJsIhZr+ZlJtBBiPyFIyORpr2b4="
     },
     "extract": null,
     "rustGitDeps": null
