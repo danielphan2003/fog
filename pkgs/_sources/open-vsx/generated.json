@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.93.1",
+    "version": "0.93.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.93.1/file/dendron.nightly-0.93.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.93.2/file/dendron.nightly-0.93.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yIn3j31taL3JTKmNRrukA9wxhn8uaauAicX2psxBGsc="
+      "sha256": "sha256-bNfCbmqivNsbyVcsh95MOuDA4ijnuahI1MXf4vq8pfs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23003,7 +23003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arzg-xcode-theme",
-    "version": "0.7.8",
+    "version": "0.7.9",
     "passthru": {
       "name": "xcode-theme",
       "license": "MIT",
@@ -23011,10 +23011,10 @@
       "description": "Xcodeâs themes, ported to VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.8/file/arzg.xcode-theme-0.7.8.vsix",
+      "url": "https://open-vsx.org/api/arzg/xcode-theme/0.7.9/file/arzg.xcode-theme-0.7.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0cwvt0XcuxB7nMI8ozOeoeqMI4CX9nlfHNF/s+vX+bE="
+      "sha256": "sha256-ILUlxmmTrggUG0IMU/L/RezUoUwohx9jmufcFDRuPRQ="
     },
     "extract": null,
     "rustGitDeps": null

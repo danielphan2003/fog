@@ -5091,10 +5091,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.8";
+    version = "0.7.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.8/file/arzg.xcode-theme-0.7.8.vsix";
-      sha256 = "sha256-0cwvt0XcuxB7nMI8ozOeoeqMI4CX9nlfHNF/s+vX+bE=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.9/file/arzg.xcode-theme-0.7.9.vsix";
+      sha256 = "sha256-ILUlxmmTrggUG0IMU/L/RezUoUwohx9jmufcFDRuPRQ=";
     };
     name = "xcode-theme";
     license = "MIT";
@@ -7155,10 +7155,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.93.1";
+    version = "0.93.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.93.1/file/dendron.nightly-0.93.1.vsix";
-      sha256 = "sha256-yIn3j31taL3JTKmNRrukA9wxhn8uaauAicX2psxBGsc=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.93.2/file/dendron.nightly-0.93.2.vsix";
+      sha256 = "sha256-bNfCbmqivNsbyVcsh95MOuDA4ijnuahI1MXf4vq8pfs=";
     };
     name = "nightly";
     license = "AGPL-3.0";
