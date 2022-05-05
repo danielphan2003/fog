@@ -1623,10 +1623,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "6.0.2";
+    version = "6.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.2/file/Ionide.Ionide-fsharp-6.0.2.vsix";
-      sha256 = "sha256-o4H1e8N03h0w5uYu8QlWemR1blhQlAUiY6jrc9VpRvE=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.3/file/Ionide.Ionide-fsharp-6.0.3.vsix";
+      sha256 = "sha256-KSIKBFVHb4v3SAMF5aOHWN7fcWSa5MjvolWZawkcswo=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.925";
+    version = "31.0.926";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.925/file/Prisma.prisma-insider-31.0.925.vsix";
-      sha256 = "sha256-RsRuBS9t/VhmnbFZFJsIhZr+ZlJtBBiPyFIyORpr2b4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.926/file/Prisma.prisma-insider-31.0.926.vsix";
+      sha256 = "sha256-e0N3qy/cy5DGQo92mid3fSVbV1b8ChUmSKEihUIwBjw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5475,10 +5475,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.3/file/betterthantomorrow.joyride-0.0.3.vsix";
-      sha256 = "sha256-ZtBjT3cEXf+FHlT9AYIbAEX5QF/ho1ykQtKScNjyRr0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.4/file/betterthantomorrow.joyride-0.0.4.vsix";
+      sha256 = "sha256-50XR21vPAndG1P5Fh1AnlbJK53caffs9OU0rKjmw3ds=";
     };
     name = "joyride";
     license = "MIT";

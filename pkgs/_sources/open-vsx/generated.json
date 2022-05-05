@@ -31243,7 +31243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "6.0.2",
+    "version": "6.0.3",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -31251,10 +31251,10 @@
       "description": "F# Language Support, powered by FsAutoComplete"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.2/file/Ionide.Ionide-fsharp-6.0.2.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.3/file/Ionide.Ionide-fsharp-6.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o4H1e8N03h0w5uYu8QlWemR1blhQlAUiY6jrc9VpRvE="
+      "sha256": "sha256-KSIKBFVHb4v3SAMF5aOHWN7fcWSa5MjvolWZawkcswo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31563,7 +31563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.925",
+    "version": "31.0.926",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31571,10 +31571,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.925/file/Prisma.prisma-insider-31.0.925.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.926/file/Prisma.prisma-insider-31.0.926.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RsRuBS9t/VhmnbFZFJsIhZr+ZlJtBBiPyFIyORpr2b4="
+      "sha256": "sha256-e0N3qy/cy5DGQo92mid3fSVbV1b8ChUmSKEihUIwBjw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34003,7 +34003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34011,10 +34011,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.3/file/betterthantomorrow.joyride-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.4/file/betterthantomorrow.joyride-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZtBjT3cEXf+FHlT9AYIbAEX5QF/ho1ykQtKScNjyRr0="
+      "sha256": "sha256-50XR21vPAndG1P5Fh1AnlbJK53caffs9OU0rKjmw3ds="
     },
     "extract": null,
     "rustGitDeps": null
