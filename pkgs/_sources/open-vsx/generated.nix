@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.922";
+    version = "31.0.923";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.922/file/Prisma.prisma-insider-31.0.922.vsix";
-      sha256 = "sha256-LX6DaN4GXGNNX32R8soM4cDPmYFFrAITSsNkT6mVYIA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.923/file/Prisma.prisma-insider-31.0.923.vsix";
+      sha256 = "sha256-ZXLdf8OyLkP863sXcBatr6aNRa1K9gt06JKuoXH53FU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14931,10 +14931,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.19.0";
+    version = "1.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.19.0/file/quarto.quarto-1.19.0.vsix";
-      sha256 = "sha256-HMFC0+0iKxhqBo/it4XEjKPPTWICb/O3TMTjb4dwy+0=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.19.1/file/quarto.quarto-1.19.1.vsix";
+      sha256 = "sha256-Q7GA0GukuWO+4m7ypWUozjBIYXqemQFAe9nRkEdNjKc=";
     };
     name = "quarto";
     license = "MIT";
@@ -15207,10 +15207,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.5.0";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.5.0/file/redhat.java-1.5.0.vsix";
-      sha256 = "sha256-eVigVosn33WcAup+fblOYYV2gqGCcrfNoXGFJUQkkY0=";
+      url = "https://open-vsx.org/api/redhat/java/1.6.0/file/redhat.java-1.6.0.vsix";
+      sha256 = "sha256-5KgUpqCSn5K4HdIe09u7q4dXzgfrqHzPVJGtQ+MUqtI=";
     };
     name = "java";
     license = "EPL-2.0";
