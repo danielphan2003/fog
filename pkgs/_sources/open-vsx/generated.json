@@ -7783,7 +7783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-github-manager",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "passthru": {
       "name": "github-manager",
       "license": "MIT",
@@ -7791,10 +7791,10 @@
       "description": "THE FASTEST way to switch between cloned GitHub repos"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/github-manager/0.0.5/file/zardoy.github-manager-0.0.5.vsix",
+      "url": "https://open-vsx.org/api/zardoy/github-manager/0.0.6/file/zardoy.github-manager-0.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pFSrCPIZ3KwEflEGJEW/ViQ+Uk0OxftTTXEPrU/9TPU="
+      "sha256": "sha256-c12UdPXNvMzKPaKCaOP0vhB9wVq1SgjITEtLRwDvcMw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18999,6 +18999,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "phil294-keylogger": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "phil294-keylogger",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "keylogger",
+      "license": "MIT",
+      "publisher": "phil294",
+      "description": "Minimalist extension that logs basic text input events with their timestamp, nothing else."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/phil294/keylogger/0.0.1/file/phil294.keylogger-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-t74H7Z2uyP4hA+7cHexalfDpv5imcEGbx1n7PWxdgGE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "vshaxe-haxe-debug": {
     "pinned": false,
     "cargoLock": null,
@@ -27683,7 +27703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-fix-all-json",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "passthru": {
       "name": "fix-all-json",
       "license": "MIT",
@@ -27691,10 +27711,10 @@
       "description": "Fix missing and trailing commas on save"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/fix-all-json/0.0.5/file/zardoy.fix-all-json-0.0.5.vsix",
+      "url": "https://open-vsx.org/api/zardoy/fix-all-json/0.0.6/file/zardoy.fix-all-json-0.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+L/88oBnguDf5gAj8LqgvzpfY2BvvrfbijQUdCmJy+U="
+      "sha256": "sha256-tttv4OQ7gMdEFuPnBf5RiCJy5C5a1QDtYlgc6t2SXdY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31143,7 +31163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "unoplatform-vscode",
-    "version": "0.3.2",
+    "version": "0.4.0",
     "passthru": {
       "name": "vscode",
       "license": "",
@@ -31151,10 +31171,10 @@
       "description": "Uno Platform Projects XAML Completion and Hot Reload support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/unoplatform/vscode/0.3.2/file/unoplatform.vscode-0.3.2.vsix",
+      "url": "https://open-vsx.org/api/unoplatform/vscode/0.4.0/file/unoplatform.vscode-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BX4mGU0B1yLjOY72dUTZtcUAqAsKxRTYbGyyaTBlz50="
+      "sha256": "sha256-0pVneHdhdV8EnBClBeFvSyPW30xFc0Iwnc5RWqDrw+M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31563,7 +31583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.929",
+    "version": "31.0.930",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31571,10 +31591,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.929/file/Prisma.prisma-insider-31.0.929.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.930/file/Prisma.prisma-insider-31.0.930.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JpMSvxQnYWPFrcQ3ZZ8nAdD5R1d7W4iLFJdhymxpNB8="
+      "sha256": "sha256-QqVwBddDVXs4gjZwACJjlNlYgj2l3wmvevBeGILDHcU="
     },
     "extract": null,
     "rustGitDeps": null

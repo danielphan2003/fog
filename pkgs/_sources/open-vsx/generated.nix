@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.929";
+    version = "31.0.930";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.929/file/Prisma.prisma-insider-31.0.929.vsix";
-      sha256 = "sha256-JpMSvxQnYWPFrcQ3ZZ8nAdD5R1d7W4iLFJdhymxpNB8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.930/file/Prisma.prisma-insider-31.0.930.vsix";
+      sha256 = "sha256-QqVwBddDVXs4gjZwACJjlNlYgj2l3wmvevBeGILDHcU=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14389,6 +14389,18 @@
     publisher = "phil294";
     description = "IntelliSense for CoffeeScript based on its compiled JavaScript output";
   };
+  phil294-keylogger = {
+    pname = "phil294-keylogger";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/phil294/keylogger/0.0.1/file/phil294.keylogger-0.0.1.vsix";
+      sha256 = "sha256-t74H7Z2uyP4hA+7cHexalfDpv5imcEGbx1n7PWxdgGE=";
+    };
+    name = "keylogger";
+    license = "MIT";
+    publisher = "phil294";
+    description = "Minimalist extension that logs basic text input events with their timestamp, nothing else.";
+  };
   phil9909-ytt-lint = {
     pname = "phil9909-ytt-lint";
     version = "0.3.1";
@@ -18279,10 +18291,10 @@
   };
   unoplatform-vscode = {
     pname = "unoplatform-vscode";
-    version = "0.3.2";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unoplatform/vscode/0.3.2/file/unoplatform.vscode-0.3.2.vsix";
-      sha256 = "sha256-BX4mGU0B1yLjOY72dUTZtcUAqAsKxRTYbGyyaTBlz50=";
+      url = "https://open-vsx.org/api/unoplatform/vscode/0.4.0/file/unoplatform.vscode-0.4.0.vsix";
+      sha256 = "sha256-0pVneHdhdV8EnBClBeFvSyPW30xFc0Iwnc5RWqDrw+M=";
     };
     name = "vscode";
     license = "";
@@ -20655,10 +20667,10 @@
   };
   zardoy-fix-all-json = {
     pname = "zardoy-fix-all-json";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.5/file/zardoy.fix-all-json-0.0.5.vsix";
-      sha256 = "sha256-+L/88oBnguDf5gAj8LqgvzpfY2BvvrfbijQUdCmJy+U=";
+      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.6/file/zardoy.fix-all-json-0.0.6.vsix";
+      sha256 = "sha256-tttv4OQ7gMdEFuPnBf5RiCJy5C5a1QDtYlgc6t2SXdY=";
     };
     name = "fix-all-json";
     license = "MIT";
@@ -20667,10 +20679,10 @@
   };
   zardoy-github-manager = {
     pname = "zardoy-github-manager";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/github-manager/0.0.5/file/zardoy.github-manager-0.0.5.vsix";
-      sha256 = "sha256-pFSrCPIZ3KwEflEGJEW/ViQ+Uk0OxftTTXEPrU/9TPU=";
+      url = "https://open-vsx.org/api/zardoy/github-manager/0.0.6/file/zardoy.github-manager-0.0.6.vsix";
+      sha256 = "sha256-c12UdPXNvMzKPaKCaOP0vhB9wVq1SgjITEtLRwDvcMw=";
     };
     name = "github-manager";
     license = "MIT";
