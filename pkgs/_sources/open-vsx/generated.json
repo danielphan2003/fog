@@ -12463,7 +12463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.15",
+    "version": "2.1.16",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12471,10 +12471,10 @@
       "description": "Draw schemas in VS Code using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.15/file/pomdtr.excalidraw-editor-2.1.15.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.16/file/pomdtr.excalidraw-editor-2.1.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7UNCXIx2hPinn5/uYwObYhTBuXsqJ3Ja2zPCbpOROSE="
+      "sha256": "sha256-wRXJ5S02WEQy1KSjkbo8dfKgjVxYnFp4UWCjl+NucsM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31583,7 +31583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.933",
+    "version": "31.0.935",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31591,10 +31591,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.933/file/Prisma.prisma-insider-31.0.933.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.935/file/Prisma.prisma-insider-31.0.935.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xv6f81e2SVQvbtpLx8ng+BOcebvnZhBJOJI+A3/o5+U="
+      "sha256": "sha256-fKxj2n4rQ2O8HeVqY+TUjhlMljSFJ+lqIVlgie3A3FA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34023,7 +34023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34031,10 +34031,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.4/file/betterthantomorrow.joyride-0.0.4.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.5/file/betterthantomorrow.joyride-0.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-50XR21vPAndG1P5Fh1AnlbJK53caffs9OU0rKjmw3ds="
+      "sha256": "sha256-oMVElyCT3akCEqLm7oCliX2fWQPwi8r2Rh1TMVxbl2k="
     },
     "extract": null,
     "rustGitDeps": null
