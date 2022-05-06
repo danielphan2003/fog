@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.933";
+    version = "31.0.935";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.933/file/Prisma.prisma-insider-31.0.933.vsix";
-      sha256 = "sha256-xv6f81e2SVQvbtpLx8ng+BOcebvnZhBJOJI+A3/o5+U=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.935/file/Prisma.prisma-insider-31.0.935.vsix";
+      sha256 = "sha256-fKxj2n4rQ2O8HeVqY+TUjhlMljSFJ+lqIVlgie3A3FA=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5475,10 +5475,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.4/file/betterthantomorrow.joyride-0.0.4.vsix";
-      sha256 = "sha256-50XR21vPAndG1P5Fh1AnlbJK53caffs9OU0rKjmw3ds=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.5/file/betterthantomorrow.joyride-0.0.5.vsix";
+      sha256 = "sha256-oMVElyCT3akCEqLm7oCliX2fWQPwi8r2Rh1TMVxbl2k=";
     };
     name = "joyride";
     license = "MIT";
@@ -14739,10 +14739,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.15";
+    version = "2.1.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.15/file/pomdtr.excalidraw-editor-2.1.15.vsix";
-      sha256 = "sha256-7UNCXIx2hPinn5/uYwObYhTBuXsqJ3Ja2zPCbpOROSE=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.16/file/pomdtr.excalidraw-editor-2.1.16.vsix";
+      sha256 = "sha256-wRXJ5S02WEQy1KSjkbo8dfKgjVxYnFp4UWCjl+NucsM=";
     };
     name = "excalidraw-editor";
     license = "MIT";
