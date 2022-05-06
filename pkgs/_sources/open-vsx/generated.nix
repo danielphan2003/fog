@@ -1167,10 +1167,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.40.0";
+    version = "0.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.40.0/file/GitHub.vscode-pull-request-github-0.40.0.vsix";
-      sha256 = "sha256-YO/flH5iYxCb/hLEtG/CIcAdxYyeEMPkAPgMTpAwgDo=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.42.0/file/GitHub.vscode-pull-request-github-0.42.0.vsix";
+      sha256 = "sha256-SsA3mGunDk+0yN2p7j9BSF2jDWgMbXFBiHsT++bI6ZA=";
     };
     name = "vscode-pull-request-github";
     license = "MIT";
@@ -1695,10 +1695,10 @@
   };
   James-Yu-latex-workshop = {
     pname = "James-Yu-latex-workshop";
-    version = "8.25.0";
+    version = "8.26.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.25.0/file/James-Yu.latex-workshop-8.25.0.vsix";
-      sha256 = "sha256-yXoLdMbIQcr2ogSo3Lsxu06wI/4x2eoTAhSbdyK9aUc=";
+      url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.26.0/file/James-Yu.latex-workshop-8.26.0.vsix";
+      sha256 = "sha256-yZpfeqOQ6YW4nHHdIDZbN40nuhcp47xQdJaki+/x/fA=";
     };
     name = "latex-workshop";
     license = "MIT";
@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.412";
+    version = "2022.5.522";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.412/file/Slint.slint-nightly-2022.5.412.vsix";
-      sha256 = "sha256-fqAQqwZxZ5IaVnE8/xIkq4vloyfJ6QzAFTpCUO9MWtA=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.522/file/Slint.slint-nightly-2022.5.522.vsix";
+      sha256 = "sha256-yulPSuOyaphhu2b5MVb76UVggzzVEW/40nbKzBfdq8Q=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -7575,10 +7575,10 @@
   };
   ecmel-vscode-html-css = {
     pname = "ecmel-vscode-html-css";
-    version = "1.11.0";
+    version = "1.12.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.11.0/file/ecmel.vscode-html-css-1.11.0.vsix";
-      sha256 = "sha256-kWSMBMTGa42XAKKEnWeWuXpOVcCNZ6cmMmkD7kn+hKI=";
+      url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.12.2/file/ecmel.vscode-html-css-1.12.2.vsix";
+      sha256 = "sha256-zkmd3c0qcaix8UpGgvjM3TaVC+lMcuh0y6u4e5q+xMk=";
     };
     name = "vscode-html-css";
     license = "MIT";
@@ -12759,10 +12759,10 @@
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
-    version = "1.3.7";
+    version = "1.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.7/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.7.vsix";
-      sha256 = "sha256-B9koR8TQk7NA/u29LxS4KPjXWAT/kmVVP9BbzGxFNdQ=";
+      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.8/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.8.vsix";
+      sha256 = "sha256-zH7d4dv1h6iMQzzQZcOLraATEZtz2z8G2SNPhp/JZ7Y=";
     };
     name = "vscode-kubernetes-tools";
     license = "MIT";
@@ -12819,10 +12819,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.4.1";
+    version = "2022.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.4.1/file/ms-python.python-2022.4.1.vsix";
-      sha256 = "sha256-pI6MY/ZTBgDeVl3jo8c6yfZMcAFUqI2AH+NZU5MfTso=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.6.0/file/ms-python.python-2022.6.0.vsix";
+      sha256 = "sha256-pvmSV0mox5qmKBxXI74M+pYu7lF3Vnm8spC4tT1U63E=";
     };
     name = "python";
     license = "MIT";
@@ -12831,10 +12831,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.4.1001260457";
+    version = "2022.4.1001280515";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.4.1001260457/file/ms-toolsai.jupyter-2022.4.1001260457.vsix";
-      sha256 = "sha256-U041HPPHCup1lW41hLH5hgTvxscHCQUiM4tVFyanP+I=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.4.1001280515/file/ms-toolsai.jupyter-2022.4.1001280515.vsix";
+      sha256 = "sha256-7xQX4MtXjy0rYvYhWNwWA7o6WVTGQASBWkDSu/NHJZI=";
     };
     name = "jupyter";
     license = "MIT";
