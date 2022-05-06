@@ -5977,6 +5977,18 @@
     publisher = "camel-tooling";
     description = "Scaffold projects using Yeoman.";
   };
+  canadaduane-notes = {
+    pname = "canadaduane-notes";
+    version = "1.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/canadaduane/notes/1.3.0/file/canadaduane.notes-1.3.0.vsix";
+      sha256 = "sha256-AlEYYtLCJwbyNyXskBbAjkuCY3iH9b50wxkX6pMsWvM=";
+    };
+    name = "notes";
+    license = "MIT";
+    publisher = "canadaduane";
+    description = "Syntax highlighting for simple notes in Visual Studio Code";
+  };
   caponetto-vscode-diff-viewer = {
     pname = "caponetto-vscode-diff-viewer";
     version = "1.2.0";
@@ -20763,10 +20775,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.56";
+    version = "0.0.57";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.56/file/zardoy.zardoy-experiments-0.0.56.vsix";
-      sha256 = "sha256-DAVFxaqdZAexkOY9B5ldkoARHUTOKyVLyDvSiQgyQtY=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.57/file/zardoy.zardoy-experiments-0.0.57.vsix";
+      sha256 = "sha256-U7Y3PUTdpQlh2pSFiGBzUX9U/NwvzIVEm9sgSuWJUqM=";
     };
     name = "zardoy-experiments";
     license = "MIT";
