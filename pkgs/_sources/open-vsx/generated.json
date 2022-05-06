@@ -18863,7 +18863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "a5hk-night-coder",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "passthru": {
       "name": "night-coder",
       "license": "MIT",
@@ -18871,10 +18871,10 @@
       "description": "A dark theme for Night Coders"
     },
     "src": {
-      "url": "https://open-vsx.org/api/a5hk/night-coder/4.0.0/file/a5hk.night-coder-4.0.0.vsix",
+      "url": "https://open-vsx.org/api/a5hk/night-coder/4.0.1/file/a5hk.night-coder-4.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sp/vpJUumiAPCETTqgV+7G0d2INYssRlOynJbIL8DB4="
+      "sha256": "sha256-JWUZohDoQuZjNFTGeCboAOB+toxSWppATSyg+me4rQE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31563,7 +31563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.928",
+    "version": "31.0.929",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31571,10 +31571,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.928/file/Prisma.prisma-insider-31.0.928.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.929/file/Prisma.prisma-insider-31.0.929.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mjgYEUDxXIQIqk5PRmf5/QSFqkWChzV1YAxO8xCwRLM="
+      "sha256": "sha256-JpMSvxQnYWPFrcQ3ZZ8nAdD5R1d7W4iLFJdhymxpNB8="
     },
     "extract": null,
     "rustGitDeps": null

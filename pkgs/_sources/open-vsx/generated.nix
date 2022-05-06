@@ -2763,10 +2763,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.928";
+    version = "31.0.929";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.928/file/Prisma.prisma-insider-31.0.928.vsix";
-      sha256 = "sha256-mjgYEUDxXIQIqk5PRmf5/QSFqkWChzV1YAxO8xCwRLM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.929/file/Prisma.prisma-insider-31.0.929.vsix";
+      sha256 = "sha256-JpMSvxQnYWPFrcQ3ZZ8nAdD5R1d7W4iLFJdhymxpNB8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3903,10 +3903,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "4.0.0";
+    version = "4.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/4.0.0/file/a5hk.night-coder-4.0.0.vsix";
-      sha256 = "sha256-sp/vpJUumiAPCETTqgV+7G0d2INYssRlOynJbIL8DB4=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/4.0.1/file/a5hk.night-coder-4.0.1.vsix";
+      sha256 = "sha256-JWUZohDoQuZjNFTGeCboAOB+toxSWppATSyg+me4rQE=";
     };
     name = "night-coder";
     license = "MIT";
