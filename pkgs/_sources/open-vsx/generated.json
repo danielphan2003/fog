@@ -17243,7 +17243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SPGoding-datapack-language-server",
-    "version": "3.3.29",
+    "version": "3.3.30",
     "passthru": {
       "name": "datapack-language-server",
       "license": "MIT",
@@ -17251,10 +17251,10 @@
       "description": "Heavy language features for Minecraft: Java Edition data pack files"
     },
     "src": {
-      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.29/file/SPGoding.datapack-language-server-3.3.29.vsix",
+      "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.30/file/SPGoding.datapack-language-server-3.3.30.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7IFOpeo++Wn8eeJBl5059EL1gvHE/P6ll6vQO0PF3QE="
+      "sha256": "sha256-qNdMUsiuEJhnvCsSG1ovE4YRxVNsKSX6pUWP8DmkFII="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18083,7 +18083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shivaprasanth-dothttp-code",
-    "version": "0.0.42",
+    "version": "0.0.43",
     "passthru": {
       "name": "dothttp-code",
       "license": "Apache-2.0",
@@ -18091,10 +18091,10 @@
       "description": "A Http Client for sending to and receiving from http endpoints (dothttp)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.42/file/shivaprasanth.dothttp-code-0.0.42.vsix",
+      "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.43/file/shivaprasanth.dothttp-code-0.0.43.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8udFltS/Xi8uD93YH3u3SXhG/529p/GRlDInvoEcXX4="
+      "sha256": "sha256-iMxNHWOaFAMY8BQdUgKnrL1VOTEkTa5fqTrPLrYmu60="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32283,7 +32283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.270",
+    "version": "2.0.271",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -32291,10 +32291,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.270/file/betterthantomorrow.calva-2.0.270.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.271/file/betterthantomorrow.calva-2.0.271.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XruVeLgZWv/M/pfjf2U84hwqR5169FlRpauK7HBFYDA="
+      "sha256": "sha256-i7AFeZYNIfWnce+erCelcULMk0sJoXz8FhuXJKc5/7M="
     },
     "extract": null,
     "rustGitDeps": null

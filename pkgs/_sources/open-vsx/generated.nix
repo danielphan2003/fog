@@ -2979,10 +2979,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.29";
+    version = "3.3.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.29/file/SPGoding.datapack-language-server-3.3.29.vsix";
-      sha256 = "sha256-7IFOpeo++Wn8eeJBl5059EL1gvHE/P6ll6vQO0PF3QE=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.30/file/SPGoding.datapack-language-server-3.3.30.vsix";
+      sha256 = "sha256-qNdMUsiuEJhnvCsSG1ovE4YRxVNsKSX6pUWP8DmkFII=";
     };
     name = "datapack-language-server";
     license = "MIT";
@@ -5463,10 +5463,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.270";
+    version = "2.0.271";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.270/file/betterthantomorrow.calva-2.0.270.vsix";
-      sha256 = "sha256-XruVeLgZWv/M/pfjf2U84hwqR5169FlRpauK7HBFYDA=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.271/file/betterthantomorrow.calva-2.0.271.vsix";
+      sha256 = "sha256-i7AFeZYNIfWnce+erCelcULMk0sJoXz8FhuXJKc5/7M=";
     };
     name = "calva";
     license = "MIT";
@@ -16431,10 +16431,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.42";
+    version = "0.0.43";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.42/file/shivaprasanth.dothttp-code-0.0.42.vsix";
-      sha256 = "sha256-8udFltS/Xi8uD93YH3u3SXhG/529p/GRlDInvoEcXX4=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.43/file/shivaprasanth.dothttp-code-0.0.43.vsix";
+      sha256 = "sha256-iMxNHWOaFAMY8BQdUgKnrL1VOTEkTa5fqTrPLrYmu60=";
     };
     name = "dothttp-code";
     license = "Apache-2.0";
