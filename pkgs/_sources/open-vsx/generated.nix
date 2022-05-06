@@ -5499,15 +5499,15 @@
   };
   biao1010-aijs = {
     pname = "biao1010-aijs";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/biao1010/aijs/0.0.1/file/biao1010.aijs-0.0.1.vsix";
-      sha256 = "sha256-2DodVTk1cX9SPHcMBvrU+X7wHu5cGWIIUZeiD/rY93U=";
+      url = "https://open-vsx.org/api/biao1010/aijs/0.0.2/file/biao1010.aijs-0.0.2.vsix";
+      sha256 = "sha256-RRJzAvJKS8aN24rRZvTxhpKB1euIekVdQXZ0ve59KPU=";
     };
     name = "aijs";
     license = "MIT";
     publisher = "biao1010";
-    description = "";
+    description = "\21516\27493\33050\26412\21040\26381\21153\22120";
   };
   bierner-color-info = {
     pname = "bierner-color-info";

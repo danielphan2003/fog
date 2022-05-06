@@ -16303,18 +16303,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "biao1010-aijs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "passthru": {
       "name": "aijs",
       "license": "MIT",
       "publisher": "biao1010",
-      "description": ""
+      "description": "åæ­¥èæ¬å°æå¡å¨"
     },
     "src": {
-      "url": "https://open-vsx.org/api/biao1010/aijs/0.0.1/file/biao1010.aijs-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/biao1010/aijs/0.0.2/file/biao1010.aijs-0.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2DodVTk1cX9SPHcMBvrU+X7wHu5cGWIIUZeiD/rY93U="
+      "sha256": "sha256-RRJzAvJKS8aN24rRZvTxhpKB1euIekVdQXZ0ve59KPU="
     },
     "extract": null,
     "rustGitDeps": null
