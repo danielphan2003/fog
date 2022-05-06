@@ -2559,10 +2559,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.16.0";
+    version = "4.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.16.0/file/PKief.material-icon-theme-4.16.0.vsix";
-      sha256 = "sha256-jQmUV8y/ZzQ2ICUrIXLa54bcqzTjN7nd9Of2C3srjY4=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.17.0/file/PKief.material-icon-theme-4.17.0.vsix";
+      sha256 = "sha256-9GCyV798ghilJcJDd97aC5LEt72MefNjvYXsAQDDtbY=";
     };
     name = "material-icon-theme";
     license = "MIT";
@@ -7155,10 +7155,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.93.2";
+    version = "0.93.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.93.2/file/dendron.nightly-0.93.2.vsix";
-      sha256 = "sha256-bNfCbmqivNsbyVcsh95MOuDA4ijnuahI1MXf4vq8pfs=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.93.3/file/dendron.nightly-0.93.3.vsix";
+      sha256 = "sha256-MNXHfekVd+wec8EWxfjV7pcI8dzhPyXAWzOtlofvaW8=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7239,10 +7239,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.20";
+    version = "0.5.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.20/file/digma.digma-0.5.20.vsix";
-      sha256 = "sha256-65DH08mKa2yjjkodZX7bY6bMWTk7kfiJ/fOQ5oUHAvo=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.21/file/digma.digma-0.5.21.vsix";
+      sha256 = "sha256-CJU+/ZyToAvHXm+YVsK18JXTtRes5UchsdK8c6kcNfY=";
     };
     name = "digma";
     license = "MIT";
