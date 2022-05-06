@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "fb972b1e7566051b2b3af999ae92bef9a88ca021",
+    "version": "ed67dd8a84e3e2b781b6d7c7e6e44203c8d0f0df",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-hl45S9brfI7zZ6KIPhS1ICLGi+A048egQaFrglS6aNY=",
-      "rev": "fb972b1e7566051b2b3af999ae92bef9a88ca021"
+      "sha256": "sha256-RRa+RFOMV9z+6ziMAJ207sYn7d8ObAcwDLrhJOWcGKY=",
+      "rev": "ed67dd8a84e3e2b781b6d7c7e6e44203c8d0f0df"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6157",
+    "version": "1.0.6158",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6157-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6158-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JFkyj1SSDyJoJXBsyDZoS6rSm3NNGvSQVdMZjSxwiGE="
+      "sha256": "sha256-WxvTMEi+xgKM+BpzAxgEsQR5tCPPeLdVskYSdAKLdPw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6157",
+    "version": "1.0.6158",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6157.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6158.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-voxGywIxUCi2MW/2ZWO6Roixq5bGRRFPnCoMtkTaupo="
+      "sha256": "sha256-TbAElI9pbf1JmqHZ8ciPYoJu22eAuimCmGNnHJrPTdc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "5f838375712bbf44ea9356bc048309b4f6a0153c",
+    "version": "951e5d46e19cccddb24c559547ecb9fda841bd7e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-mm3YMQLUEh1NEMi3BCkvw60v1b7KbEXBKz01LNdoBwI=",
-      "rev": "5f838375712bbf44ea9356bc048309b4f6a0153c"
+      "sha256": "sha256-4x29N4y7P0tWj/J7cYvrJB8tJU5JfRN8loM0ZqCrPT8=",
+      "rev": "951e5d46e19cccddb24c559547ecb9fda841bd7e"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1172,7 +1172,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ibus-bamboo",
-    "version": "c0001c571d861298beb99463ef63816b17203791",
+    "version": "e6eb470935c5ade6e4b48dd0b678cee32497798e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1182,8 +1182,8 @@
       "name": null,
       "repo": "ibus-bamboo",
       "type": "github",
-      "sha256": "sha256-7qU3ieoRPfv50qM703hEw+LTSrhrzwyzCvP9TOLTiDs=",
-      "rev": "c0001c571d861298beb99463ef63816b17203791"
+      "sha256": "sha256-IkmNNYyV3eRAqTdh19d1hgNWtENmlMD5qYAGs34T3ZU=",
+      "rev": "e6eb470935c5ade6e4b48dd0b678cee32497798e"
     },
     "extract": null,
     "rustGitDeps": null
