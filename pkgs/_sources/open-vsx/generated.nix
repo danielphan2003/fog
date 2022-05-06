@@ -2463,10 +2463,10 @@
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
-    version = "1.15.13";
+    version = "1.15.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.13/file/Natizyskunk.sftp-1.15.13.vsix";
-      sha256 = "sha256-Q0zfj3m1LDuW5/0KMxReuEcMXVydduONs9/QGK/8RZs=";
+      url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.14/file/Natizyskunk.sftp-1.15.14.vsix";
+      sha256 = "sha256-7ZBa181S1PZbDHtLDWPy5zShNdeezSpwH1F0WyUIB9E=";
     };
     name = "sftp";
     license = "MIT";

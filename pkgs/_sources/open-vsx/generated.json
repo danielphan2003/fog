@@ -24603,7 +24603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Natizyskunk-sftp",
-    "version": "1.15.13",
+    "version": "1.15.14",
     "passthru": {
       "name": "sftp",
       "license": "MIT",
@@ -24611,10 +24611,10 @@
       "description": "SFTP/FTP sync"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.13/file/Natizyskunk.sftp-1.15.13.vsix",
+      "url": "https://open-vsx.org/api/Natizyskunk/sftp/1.15.14/file/Natizyskunk.sftp-1.15.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Q0zfj3m1LDuW5/0KMxReuEcMXVydduONs9/QGK/8RZs="
+      "sha256": "sha256-7ZBa181S1PZbDHtLDWPy5zShNdeezSpwH1F0WyUIB9E="
     },
     "extract": null,
     "rustGitDeps": null
