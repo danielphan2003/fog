@@ -7083,7 +7083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.71",
+    "version": "0.0.72",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -7091,10 +7091,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.71/file/leanprover.lean4-0.0.71.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.72/file/leanprover.lean4-0.0.72.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YRVsNVCu9S/bhwef9MIzKLO/cT6C3i9gCrEL+4H8Ctg="
+      "sha256": "sha256-9JhNU+Yoy4K+XBez6kwENjeIcblyKAXYiNtZy1+Oaz8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11883,7 +11883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.66",
+    "version": "0.2.82",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -11891,10 +11891,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.66/file/smapiot.vscode-piral-0.2.66.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.82/file/smapiot.vscode-piral-0.2.82.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HxxpjPjJxNbpF3FHL4ZP0MEgEPjMwru8IDt0ySnUW1E="
+      "sha256": "sha256-IK1eBPAK1sf9HcsejPn7rmHhQ0kQahYN4cA9u9sytNE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18863,7 +18863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "a5hk-night-coder",
-    "version": "3.7.1",
+    "version": "4.0.0",
     "passthru": {
       "name": "night-coder",
       "license": "MIT",
@@ -18871,10 +18871,10 @@
       "description": "A dark theme for Night Coders"
     },
     "src": {
-      "url": "https://open-vsx.org/api/a5hk/night-coder/3.7.1/file/a5hk.night-coder-3.7.1.vsix",
+      "url": "https://open-vsx.org/api/a5hk/night-coder/4.0.0/file/a5hk.night-coder-4.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HicpPFlHIem/QcEj+gZ/jN3KJt1DeHppQk/x7vVTqKA="
+      "sha256": "sha256-sp/vpJUumiAPCETTqgV+7G0d2INYssRlOynJbIL8DB4="
     },
     "extract": null,
     "rustGitDeps": null

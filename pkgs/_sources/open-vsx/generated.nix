@@ -3903,10 +3903,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "3.7.1";
+    version = "4.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/3.7.1/file/a5hk.night-coder-3.7.1.vsix";
-      sha256 = "sha256-HicpPFlHIem/QcEj+gZ/jN3KJt1DeHppQk/x7vVTqKA=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/4.0.0/file/a5hk.night-coder-4.0.0.vsix";
+      sha256 = "sha256-sp/vpJUumiAPCETTqgV+7G0d2INYssRlOynJbIL8DB4=";
     };
     name = "night-coder";
     license = "MIT";
@@ -11463,10 +11463,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.71";
+    version = "0.0.72";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.71/file/leanprover.lean4-0.0.71.vsix";
-      sha256 = "sha256-YRVsNVCu9S/bhwef9MIzKLO/cT6C3i9gCrEL+4H8Ctg=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.72/file/leanprover.lean4-0.0.72.vsix";
+      sha256 = "sha256-9JhNU+Yoy4K+XBez6kwENjeIcblyKAXYiNtZy1+Oaz8=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -16731,10 +16731,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.66";
+    version = "0.2.82";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.66/file/smapiot.vscode-piral-0.2.66.vsix";
-      sha256 = "sha256-HxxpjPjJxNbpF3FHL4ZP0MEgEPjMwru8IDt0ySnUW1E=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.82/file/smapiot.vscode-piral-0.2.82.vsix";
+      sha256 = "sha256-IK1eBPAK1sf9HcsejPn7rmHhQ0kQahYN4cA9u9sytNE=";
     };
     name = "vscode-piral";
     license = "MIT";
