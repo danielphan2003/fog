@@ -11547,10 +11547,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.7";
+    version = "1.5.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.7/file/leodevbro.blockman-1.5.7.vsix";
-      sha256 = "sha256-x/fIcAJfY3kUFjstfIBBkIsDemymfhOGE+/YslC+kXo=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.8/file/leodevbro.blockman-1.5.8.vsix";
+      sha256 = "sha256-cc5GUq7h8MJBRoVnGmMJot1qyTWjNfeJHphdqYZx/zg=";
     };
     name = "blockman";
     license = "MIT";
@@ -15987,10 +15987,10 @@
   };
   ryanluker-vscode-coverage-gutters = {
     pname = "ryanluker-vscode-coverage-gutters";
-    version = "2.9.1";
+    version = "2.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.9.1/file/ryanluker.vscode-coverage-gutters-2.9.1.vsix";
-      sha256 = "sha256-QnDigqi9oZ6voW/R+M2vj5CqL1kFxzHz4baKe/TqCWE=";
+      url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.10.0/file/ryanluker.vscode-coverage-gutters-2.10.0.vsix";
+      sha256 = "sha256-Yj5Z7fDpzOidwetYqML7M1q7Lx63IRmOvNgroA0GgMA=";
     };
     name = "vscode-coverage-gutters";
     license = "MIT";
