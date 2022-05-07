@@ -26203,7 +26203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "YXL-cloudmusic",
-    "version": "9.8.4",
+    "version": "9.9.1",
     "passthru": {
       "name": "cloudmusic",
       "license": "MIT",
@@ -26211,10 +26211,10 @@
       "description": "Netease Music for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.8.4/file/YXL.cloudmusic-9.8.4.vsix",
+      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.9.1/file/YXL.cloudmusic-9.9.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+xtmYjUQwPDVFW1phVo76ttVzE5ys1jRa0px+aoeyMI="
+      "sha256": "sha256-/6NlOQAWGWdGIRSgtTXfHNhteF/kTpZ38QTdjUjgcQY="
     },
     "extract": null,
     "rustGitDeps": null
