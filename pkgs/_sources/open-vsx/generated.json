@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.93.3",
+    "version": "0.93.4",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.93.3/file/dendron.nightly-0.93.3.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.93.4/file/dendron.nightly-0.93.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MNXHfekVd+wec8EWxfjV7pcI8dzhPyXAWzOtlofvaW8="
+      "sha256": "sha256-zMNA9htvNPW0WCCmeW3wZMFGy6oKxnCR9KLW5Q8fESg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12955,6 +12955,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-EG6nctnmq9i1O6nGqDyomqk7M68f0HmUn3kbQkaoxuY="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "Leathong-openscad-language-support": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "Leathong-openscad-language-support",
+    "version": "1.0.6",
+    "passthru": {
+      "name": "openscad-language-support",
+      "license": "GPL-3.0",
+      "publisher": "Leathong",
+      "description": "OpenSCAD language server, provide highlight, auto-completion, document symbols, and more for VSCode!"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.6/file/Leathong.openscad-language-support-1.0.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-EFxln6AvpWOZpHf2KqhJNCo65+uQ2ixRZ/PDD9Exlbk="
     },
     "extract": null,
     "rustGitDeps": null

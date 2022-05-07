@@ -1897,6 +1897,18 @@
     publisher = "LaurentTreguier";
     description = "An icon theme that tries to be simple";
   };
+  Leathong-openscad-language-support = {
+    pname = "Leathong-openscad-language-support";
+    version = "1.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.6/file/Leathong.openscad-language-support-1.0.6.vsix";
+      sha256 = "sha256-EFxln6AvpWOZpHf2KqhJNCo65+uQ2ixRZ/PDD9Exlbk=";
+    };
+    name = "openscad-language-support";
+    license = "GPL-3.0";
+    publisher = "Leathong";
+    description = "OpenSCAD language server, provide highlight, auto-completion, document symbols, and more for VSCode!";
+  };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
     version = "0.7.0";
@@ -7167,10 +7179,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.93.3";
+    version = "0.93.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.93.3/file/dendron.nightly-0.93.3.vsix";
-      sha256 = "sha256-MNXHfekVd+wec8EWxfjV7pcI8dzhPyXAWzOtlofvaW8=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.93.4/file/dendron.nightly-0.93.4.vsix";
+      sha256 = "sha256-zMNA9htvNPW0WCCmeW3wZMFGy6oKxnCR9KLW5Q8fESg=";
     };
     name = "nightly";
     license = "AGPL-3.0";
