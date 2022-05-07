@@ -32343,7 +32343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.271",
+    "version": "2.0.272",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -32351,10 +32351,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.271/file/betterthantomorrow.calva-2.0.271.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.272/file/betterthantomorrow.calva-2.0.272.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-i7AFeZYNIfWnce+erCelcULMk0sJoXz8FhuXJKc5/7M="
+      "sha256": "sha256-f2wA9Ps8ANt/1y59VOsjFarlkWhxWE9afJL6s7Xe814="
     },
     "extract": null,
     "rustGitDeps": null
