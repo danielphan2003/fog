@@ -8723,7 +8723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-extra-commands",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "passthru": {
       "name": "extra-commands",
       "license": "MIT",
@@ -8731,10 +8731,10 @@
       "description": "Contains commands, that should be builtin"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/extra-commands/0.0.12/file/zardoy.extra-commands-0.0.12.vsix",
+      "url": "https://open-vsx.org/api/zardoy/extra-commands/0.0.13/file/zardoy.extra-commands-0.0.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JQnlxHCDzh4R7WEXf0UcjR0R6MmgAuZbsS2HMBRz4UI="
+      "sha256": "sha256-WVudEYJ22nW9iBxO7wejAOqEPtgRhudXjZJFrrX6KZ4="
     },
     "extract": null,
     "rustGitDeps": null
