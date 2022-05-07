@@ -8641,6 +8641,18 @@
     publisher = "fwcd";
     description = "Smart code completion, debugging, linting, syntax highlighting and more for Kotlin";
   };
+  galarius-vscode-opencl = {
+    pname = "galarius-vscode-opencl";
+    version = "0.7.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/galarius/vscode-opencl/0.7.4/file/galarius.vscode-opencl-0.7.4.vsix";
+      sha256 = "sha256-ifO5Hn4S9ToQWs5Ppr9Pa57ig+mFnI0R/LLHJKvLC/o=";
+    };
+    name = "vscode-opencl";
+    license = "MIT";
+    publisher = "galarius";
+    description = "OpenCL for Visual Studio Code";
+  };
   gamunu-vscode-yarn = {
     pname = "gamunu-vscode-yarn";
     version = "2.0.0";
@@ -9171,10 +9183,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.6.12";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.12/file/halcyontechltd.vscode-rpgle-0.6.12.vsix";
-      sha256 = "sha256-NLx+rXdARiti1ErgcUwg59iFYisS6G/bOl7XwXh3SCY=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.0/file/halcyontechltd.vscode-rpgle-0.7.0.vsix";
+      sha256 = "sha256-QE3reVp386eH7hPlc3poTTFAg6wZS1k2Z1xE0gGEuxM=";
     };
     name = "vscode-rpgle";
     license = "MIT";

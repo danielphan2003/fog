@@ -583,7 +583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "halcyontechltd-vscode-rpgle",
-    "version": "0.6.12",
+    "version": "0.7.0",
     "passthru": {
       "name": "vscode-rpgle",
       "license": "MIT",
@@ -591,10 +591,10 @@
       "description": "RPGLE content assist and linter for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.6.12/file/halcyontechltd.vscode-rpgle-0.6.12.vsix",
+      "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.0/file/halcyontechltd.vscode-rpgle-0.7.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NLx+rXdARiti1ErgcUwg59iFYisS6G/bOl7XwXh3SCY="
+      "sha256": "sha256-QE3reVp386eH7hPlc3poTTFAg6wZS1k2Z1xE0gGEuxM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8815,6 +8815,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-XqQBj4XNGUa/N4t1zdLYYuoKUTdNbVNPkNeKQLsWwYA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "galarius-vscode-opencl": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "galarius-vscode-opencl",
+    "version": "0.7.4",
+    "passthru": {
+      "name": "vscode-opencl",
+      "license": "MIT",
+      "publisher": "galarius",
+      "description": "OpenCL for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/galarius/vscode-opencl/0.7.4/file/galarius.vscode-opencl-0.7.4.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ifO5Hn4S9ToQWs5Ppr9Pa57ig+mFnI0R/LLHJKvLC/o="
     },
     "extract": null,
     "rustGitDeps": null
