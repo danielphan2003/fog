@@ -3123,10 +3123,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.522";
+    version = "2022.5.612";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.522/file/Slint.slint-nightly-2022.5.522.vsix";
-      sha256 = "sha256-yulPSuOyaphhu2b5MVb76UVggzzVEW/40nbKzBfdq8Q=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.612/file/Slint.slint-nightly-2022.5.612.vsix";
+      sha256 = "sha256-Gnb819eEy5VT9T09aErZ/ZNZ0R+PvGLCuKpefNZ9kk4=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8859,10 +8859,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.5.0";
+    version = "2.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.5.0/file/giscafer.leek-fund-2.5.0.vsix";
-      sha256 = "sha256-xAtqtc7zLwrhkb7s9O3yJbEwLRbcQJ6RT2BXwpW7qCk=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.6.0/file/giscafer.leek-fund-2.6.0.vsix";
+      sha256 = "sha256-nZF/RPycMBPL/0lSzFDZ6Li8xh3v2Nq70eBIV6qaMXU=";
     };
     name = "leek-fund";
     license = "BSD-3-Clause";
@@ -12843,10 +12843,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.4.1001280515";
+    version = "2022.5.1001290443";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.4.1001280515/file/ms-toolsai.jupyter-2022.4.1001280515.vsix";
-      sha256 = "sha256-7xQX4MtXjy0rYvYhWNwWA7o6WVTGQASBWkDSu/NHJZI=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.5.1001290443/file/ms-toolsai.jupyter-2022.5.1001290443.vsix";
+      sha256 = "sha256-8kr4kGdonD9tXPuf9yfSSXwZ0WfvwTbyb79vZQUKWWg=";
     };
     name = "jupyter";
     license = "MIT";
@@ -13059,10 +13059,10 @@
   };
   ms-vscode-powershell = {
     pname = "ms-vscode-powershell";
-    version = "2022.5.0";
+    version = "2022.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.5.0/file/ms-vscode.powershell-2022.5.0.vsix";
-      sha256 = "sha256-CCjvRyX37juaUEXIvbhZFQWjTIwu6Cmpplw/9wumSaE=";
+      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.5.1/file/ms-vscode.powershell-2022.5.1.vsix";
+      sha256 = "sha256-SY6otM+g4ITOwTqb4N/aMkGrbuoNG1q4CS2BSvS88VE=";
     };
     name = "powershell";
     license = "MIT";
@@ -20871,10 +20871,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.24";
+    version = "3.13.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.24/file/zhuangtongfa.material-theme-3.13.24.vsix";
-      sha256 = "sha256-vySJRnNB2KxEoV9Ct7D1WO/XCbE6pADPlWfWdF+ws2E=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.25/file/zhuangtongfa.material-theme-3.13.25.vsix";
+      sha256 = "sha256-aQIK4K9uKx9T1KzXkusGxgiv3PLcahJfV9rLZFEojb0=";
     };
     name = "material-theme";
     license = "MIT";

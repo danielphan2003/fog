@@ -2643,7 +2643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-powershell",
-    "version": "2022.5.0",
+    "version": "2022.5.1",
     "passthru": {
       "name": "powershell",
       "license": "MIT",
@@ -2651,10 +2651,10 @@
       "description": "Develop PowerShell modules, commands and scripts in Visual Studio Code!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.5.0/file/ms-vscode.powershell-2022.5.0.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.5.1/file/ms-vscode.powershell-2022.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CCjvRyX37juaUEXIvbhZFQWjTIwu6Cmpplw/9wumSaE="
+      "sha256": "sha256-SY6otM+g4ITOwTqb4N/aMkGrbuoNG1q4CS2BSvS88VE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15643,7 +15643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.522",
+    "version": "2022.5.612",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15651,10 +15651,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.522/file/Slint.slint-nightly-2022.5.522.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.612/file/Slint.slint-nightly-2022.5.612.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yulPSuOyaphhu2b5MVb76UVggzzVEW/40nbKzBfdq8Q="
+      "sha256": "sha256-Gnb819eEy5VT9T09aErZ/ZNZ0R+PvGLCuKpefNZ9kk4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27763,7 +27763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-toolsai-jupyter",
-    "version": "2022.4.1001280515",
+    "version": "2022.5.1001290443",
     "passthru": {
       "name": "jupyter",
       "license": "MIT",
@@ -27771,10 +27771,10 @@
       "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.4.1001280515/file/ms-toolsai.jupyter-2022.4.1001280515.vsix",
+      "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.5.1001290443/file/ms-toolsai.jupyter-2022.5.1001290443.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7xQX4MtXjy0rYvYhWNwWA7o6WVTGQASBWkDSu/NHJZI="
+      "sha256": "sha256-8kr4kGdonD9tXPuf9yfSSXwZ0WfvwTbyb79vZQUKWWg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27863,7 +27863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zhuangtongfa-material-theme",
-    "version": "3.13.24",
+    "version": "3.13.25",
     "passthru": {
       "name": "material-theme",
       "license": "MIT",
@@ -27871,10 +27871,10 @@
       "description": "Atomâs iconic One Dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.24/file/zhuangtongfa.material-theme-3.13.24.vsix",
+      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.25/file/zhuangtongfa.material-theme-3.13.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vySJRnNB2KxEoV9Ct7D1WO/XCbE6pADPlWfWdF+ws2E="
+      "sha256": "sha256-aQIK4K9uKx9T1KzXkusGxgiv3PLcahJfV9rLZFEojb0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27883,7 +27883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "giscafer-leek-fund",
-    "version": "2.5.0",
+    "version": "2.6.0",
     "passthru": {
       "name": "leek-fund",
       "license": "BSD-3-Clause",
@@ -27891,10 +27891,10 @@
       "description": "é­èçå­ï¼VSCode éä¹å¯ä»¥çè¡ç¥¨ & åºéå®æ¶æ°æ®ï¼åæå¥½ç¨çæèµæä»¶"
     },
     "src": {
-      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.5.0/file/giscafer.leek-fund-2.5.0.vsix",
+      "url": "https://open-vsx.org/api/giscafer/leek-fund/2.6.0/file/giscafer.leek-fund-2.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xAtqtc7zLwrhkb7s9O3yJbEwLRbcQJ6RT2BXwpW7qCk="
+      "sha256": "sha256-nZF/RPycMBPL/0lSzFDZ6Li8xh3v2Nq70eBIV6qaMXU="
     },
     "extract": null,
     "rustGitDeps": null
