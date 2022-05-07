@@ -7251,10 +7251,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.21";
+    version = "0.5.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.21/file/digma.digma-0.5.21.vsix";
-      sha256 = "sha256-CJU+/ZyToAvHXm+YVsK18JXTtRes5UchsdK8c6kcNfY=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.22/file/digma.digma-0.5.22.vsix";
+      sha256 = "sha256-XbZAx5RJfDNdUGIK0y1vVYygrT24C0ZMK5SZFpb0n7o=";
     };
     name = "digma";
     license = "MIT";
@@ -18399,10 +18399,10 @@
   };
   usernamehw-remove-empty-lines = {
     pname = "usernamehw-remove-empty-lines";
-    version = "0.0.9";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.9/file/usernamehw.remove-empty-lines-0.0.9.vsix";
-      sha256 = "sha256-N0AbF0PClRiZEGvNCQ9uHeq4kC8e0Ig2aH6oVvJ6A6o=";
+      url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.11/file/usernamehw.remove-empty-lines-0.0.11.vsix";
+      sha256 = "sha256-thXqD6WvEJ3l3jWWWtVq5qtACO/upT7bEkQd7dy3V6M=";
     };
     name = "remove-empty-lines";
     license = "MIT";

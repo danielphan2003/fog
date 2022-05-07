@@ -5363,7 +5363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-remove-empty-lines",
-    "version": "0.0.9",
+    "version": "0.0.11",
     "passthru": {
       "name": "remove-empty-lines",
       "license": "MIT",
@@ -5371,10 +5371,10 @@
       "description": "Remove blank lines from document or selection."
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.9/file/usernamehw.remove-empty-lines-0.0.9.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.11/file/usernamehw.remove-empty-lines-0.0.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-N0AbF0PClRiZEGvNCQ9uHeq4kC8e0Ig2aH6oVvJ6A6o="
+      "sha256": "sha256-thXqD6WvEJ3l3jWWWtVq5qtACO/upT7bEkQd7dy3V6M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23663,7 +23663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "digma-digma",
-    "version": "0.5.21",
+    "version": "0.5.22",
     "passthru": {
       "name": "digma",
       "license": "MIT",
@@ -23671,10 +23671,10 @@
       "description": "Code insights and Observability for OpenTelemetry. .NET, Python, more coming soon."
     },
     "src": {
-      "url": "https://open-vsx.org/api/digma/digma/0.5.21/file/digma.digma-0.5.21.vsix",
+      "url": "https://open-vsx.org/api/digma/digma/0.5.22/file/digma.digma-0.5.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CJU+/ZyToAvHXm+YVsK18JXTtRes5UchsdK8c6kcNfY="
+      "sha256": "sha256-XbZAx5RJfDNdUGIK0y1vVYygrT24C0ZMK5SZFpb0n7o="
     },
     "extract": null,
     "rustGitDeps": null
