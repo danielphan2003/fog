@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b57a1b0c727a7430d25f342b71dbf851957a014f";
+    version = "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b57a1b0c727a7430d25f342b71dbf851957a014f";
+      rev = "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd";
       fetchSubmodules = false;
-      sha256 = "sha256-+UcLJyiV7x3b93aeGjPFO0ItI5iA6eXtg6JyfFRNm2U=";
+      sha256 = "sha256-Eyqr/xCAxOOh0HAeHvim3bylvC/68EOUMkpc3uWkaEU=";
     });
   };
   rofi-wayland = {
@@ -904,14 +904,14 @@
   };
   snui = {
     pname = "snui";
-    version = "951e5d46e19cccddb24c559547ecb9fda841bd7e";
+    version = "56d9ad718ffbb8155725055077acd7a05a8cd145";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "951e5d46e19cccddb24c559547ecb9fda841bd7e";
+      rev = "56d9ad718ffbb8155725055077acd7a05a8cd145";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4x29N4y7P0tWj/J7cYvrJB8tJU5JfRN8loM0ZqCrPT8=";
+      sha256 = "sha256-A81OsguTlNtp0wETZXUuIpYXbccsq0gHy9UjMaFG9yw=";
     };
   };
   spicetify-cli = {

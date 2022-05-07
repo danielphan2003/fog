@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "b57a1b0c727a7430d25f342b71dbf851957a014f",
+    "version": "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-+UcLJyiV7x3b93aeGjPFO0ItI5iA6eXtg6JyfFRNm2U=",
-      "rev": "b57a1b0c727a7430d25f342b71dbf851957a014f"
+      "sha256": "sha256-Eyqr/xCAxOOh0HAeHvim3bylvC/68EOUMkpc3uWkaEU=",
+      "rev": "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "951e5d46e19cccddb24c559547ecb9fda841bd7e",
+    "version": "56d9ad718ffbb8155725055077acd7a05a8cd145",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-4x29N4y7P0tWj/J7cYvrJB8tJU5JfRN8loM0ZqCrPT8=",
-      "rev": "951e5d46e19cccddb24c559547ecb9fda841bd7e"
+      "sha256": "sha256-A81OsguTlNtp0wETZXUuIpYXbccsq0gHy9UjMaFG9yw=",
+      "rev": "56d9ad718ffbb8155725055077acd7a05a8cd145"
     },
     "extract": null,
     "rustGitDeps": null
