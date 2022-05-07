@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "b9a6c17d1af060fa894d1b194057419d8c5ab070",
+    "version": "4005775797a6bd4f3cc0939ad99f9b1a3ab8d610",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-OWZY4SsX/HJvU/FC7Cvm75AQddYSt2RmBNQ6SXzlDk8=",
-      "rev": "b9a6c17d1af060fa894d1b194057419d8c5ab070"
+      "sha256": "sha256-gBM5GysAuQUnqeLm2b4eDC35AMoS9UIlL523x1AYoHg=",
+      "rev": "4005775797a6bd4f3cc0939ad99f9b1a3ab8d610"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "7ab195f80d6ed134db9b24067fbd54067fff81f1",
+    "version": "9421a3e8a66f56aab799f00f947a477363279b1d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-DJaW0s1El0HM+ruS6XANzRqQ7TH1Br0ki7eWb8S0g98=",
-      "rev": "7ab195f80d6ed134db9b24067fbd54067fff81f1"
+      "sha256": "sha256-BQropdFINN9I+frzY6ZJ+ZRLx2nYr7kjymkzFYVYJss=",
+      "rev": "9421a3e8a66f56aab799f00f947a477363279b1d"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-12ff1e316ef86d6204dd97347974def632926417/Cargo.lock",
+    "cargoLock": "./rustdesk-2705228394453d7c2e2fc00ec713f17cee4b3797/Cargo.lock",
     "name": "rustdesk",
-    "version": "12ff1e316ef86d6204dd97347974def632926417",
+    "version": "2705228394453d7c2e2fc00ec713f17cee4b3797",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-9UBOcSCbk6VDIsVVlbWArQhoXyj7NWZSVutwmHuunog=",
-      "rev": "12ff1e316ef86d6204dd97347974def632926417"
+      "sha256": "sha256-31n6MzzXACwK++RdgaD2J04tXKruvNvuQmKvsHh0Qlc=",
+      "rev": "2705228394453d7c2e2fc00ec713f17cee4b3797"
     },
     "extract": null,
     "rustGitDeps": {
