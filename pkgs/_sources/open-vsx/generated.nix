@@ -5487,10 +5487,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.6/file/betterthantomorrow.joyride-0.0.6.vsix";
-      sha256 = "sha256-nLkTEfDYXkKeRP0a/YT8/3K4AbStS/eF1DMZNl2AEw4=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.7/file/betterthantomorrow.joyride-0.0.7.vsix";
+      sha256 = "sha256-/7QZ80On9uGUoGLeacyBIfnbPq0cy2ruzBjTLBof1v4=";
     };
     name = "joyride";
     license = "MIT";
@@ -7683,10 +7683,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2290178";
+    version = "7.3.2290413";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2290178/file/eliostruyf.vscode-front-matter-beta-7.3.2290178.vsix";
-      sha256 = "sha256-upLxJMJt91mDqYn9deCGO/ybovZKbcUOwNH0OKaLBYg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2290413/file/eliostruyf.vscode-front-matter-beta-7.3.2290413.vsix";
+      sha256 = "sha256-ll7kT02YXiJyHh5KsIA7GuEx7kr5hEDjKeCOD67Rv1E=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
