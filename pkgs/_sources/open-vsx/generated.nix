@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.612";
+    version = "2022.5.716";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.612/file/Slint.slint-nightly-2022.5.612.vsix";
-      sha256 = "sha256-Gnb819eEy5VT9T09aErZ/ZNZ0R+PvGLCuKpefNZ9kk4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.716/file/Slint.slint-nightly-2022.5.716.vsix";
+      sha256 = "sha256-98vG+d9gv00flG0UawRbPGlNElHZo5shw0cd4fEMrTY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -9147,10 +9147,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.2";
+    version = "1.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.2/file/halcyontechltd.code-for-ibmi-1.3.2.vsix";
-      sha256 = "sha256-pvklJ1QXEaXr7Lxn9ozBFhs7ZwP8mDxFtu/pf2sHa7A=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.3/file/halcyontechltd.code-for-ibmi-1.3.3.vsix";
+      sha256 = "sha256-380aFZmu4qh/+W9UVwbLzaN3sOaxa8AxXZoZVF5B3mk=";
     };
     name = "code-for-ibmi";
     license = "MIT";
@@ -10215,10 +10215,10 @@
   };
   janisdd-vscode-edit-csv = {
     pname = "janisdd-vscode-edit-csv";
-    version = "0.6.8";
+    version = "0.6.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.8/file/janisdd.vscode-edit-csv-0.6.8.vsix";
-      sha256 = "sha256-pknaPcjTt0wRXadUcTUHCjszr5Xl2UZd5n8ZNF5zaHc=";
+      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.9/file/janisdd.vscode-edit-csv-0.6.9.vsix";
+      sha256 = "sha256-1GKZR3qY35ossFyx4x+XX5Kkjk9ZoSlksOCRt/ebeJs=";
     };
     name = "vscode-edit-csv";
     license = "MIT";
