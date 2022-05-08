@@ -17623,7 +17623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "perrinjerome-vscode-zc-buildout",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "passthru": {
       "name": "vscode-zc-buildout",
       "license": "MIT",
@@ -17631,10 +17631,10 @@
       "description": "A vscode extension and language server for zc.buildout"
     },
     "src": {
-      "url": "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.7.0/file/perrinjerome.vscode-zc-buildout-0.7.0.vsix",
+      "url": "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.7.1/file/perrinjerome.vscode-zc-buildout-0.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Vu3by8065Jeczkwh/ukrWwCZ0dtA3t74CYIh/FaaO4M="
+      "sha256": "sha256-8TmCm/bmZZwlhDhhXW/UCo8RHs6vTpdsHo2N5PYaS6w="
     },
     "extract": null,
     "rustGitDeps": null
