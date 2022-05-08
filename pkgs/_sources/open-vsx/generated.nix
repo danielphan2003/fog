@@ -3447,10 +3447,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.5/file/Turiiya.keyword-o-mat-0.1.5.vsix";
-      sha256 = "sha256-vZ2K0LGV1VAkqG3JtzmVXRTQNxoSRaO0DL+zoUZjCag=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.6/file/Turiiya.keyword-o-mat-0.1.6.vsix";
+      sha256 = "sha256-FWfeNldmzgruYxho0a0h5mNOA5V7uJVIU6Y26izLAuc=";
     };
     name = "keyword-o-mat";
     license = "MIT";
@@ -15987,10 +15987,10 @@
   };
   ryanluker-vscode-coverage-gutters = {
     pname = "ryanluker-vscode-coverage-gutters";
-    version = "2.10.0";
+    version = "2.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.10.0/file/ryanluker.vscode-coverage-gutters-2.10.0.vsix";
-      sha256 = "sha256-Yj5Z7fDpzOidwetYqML7M1q7Lx63IRmOvNgroA0GgMA=";
+      url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.10.1/file/ryanluker.vscode-coverage-gutters-2.10.1.vsix";
+      sha256 = "sha256-FEGK+AvZj01iRkGPPMKFCE+14kwF06nRhex4OjKO7EY=";
     };
     name = "vscode-coverage-gutters";
     license = "MIT";
