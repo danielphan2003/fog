@@ -24643,7 +24643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-ts-essential-plugins",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "passthru": {
       "name": "ts-essential-plugins",
       "license": "MIT",
@@ -24651,10 +24651,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.1/file/zardoy.ts-essential-plugins-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.3/file/zardoy.ts-essential-plugins-0.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-xKIBM8AOWSd/7a85UZHe1XnZy+MpgkPeAnXzHCa+88Y="
+      "sha256": "sha256-TtOeupHGiDGSuhJfDykDjZNkOcTZwiXkcAocf81RTn8="
     },
     "extract": null,
     "rustGitDeps": null

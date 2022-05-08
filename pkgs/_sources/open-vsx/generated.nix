@@ -20763,10 +20763,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.1/file/zardoy.ts-essential-plugins-0.0.1.vsix";
-      sha256 = "sha256-xKIBM8AOWSd/7a85UZHe1XnZy+MpgkPeAnXzHCa+88Y=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.3/file/zardoy.ts-essential-plugins-0.0.3.vsix";
+      sha256 = "sha256-TtOeupHGiDGSuhJfDykDjZNkOcTZwiXkcAocf81RTn8=";
     };
     name = "ts-essential-plugins";
     license = "MIT";
