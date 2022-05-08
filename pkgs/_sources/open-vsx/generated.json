@@ -3423,18 +3423,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CL-eide",
-    "version": "3.5.0",
+    "version": "3.5.1",
     "passthru": {
       "name": "eide",
       "license": "MIT",
       "publisher": "CL",
-      "description": "An embedded development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
+      "description": "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
     },
     "src": {
-      "url": "https://open-vsx.org/api/CL/eide/3.5.0/file/CL.eide-3.5.0.vsix",
+      "url": "https://open-vsx.org/api/CL/eide/3.5.1/file/CL.eide-3.5.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t9kR38BijfdKjuX/6VUMhiFxlv4XqrtkHzNLnuetMsQ="
+      "sha256": "sha256-nN8KdZ055gVKv5MqoKZP6FqHml5c24uoPZIEwc6r+VU="
     },
     "extract": null,
     "rustGitDeps": null

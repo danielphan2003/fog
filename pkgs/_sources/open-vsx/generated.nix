@@ -375,15 +375,15 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.5.0";
+    version = "3.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.5.0/file/CL.eide-3.5.0.vsix";
-      sha256 = "sha256-t9kR38BijfdKjuX/6VUMhiFxlv4XqrtkHzNLnuetMsQ=";
+      url = "https://open-vsx.org/api/CL/eide/3.5.1/file/CL.eide-3.5.1.vsix";
+      sha256 = "sha256-nN8KdZ055gVKv5MqoKZP6FqHml5c24uoPZIEwc6r+VU=";
     };
     name = "eide";
     license = "MIT";
     publisher = "CL";
-    description = "An embedded development environment for 8051/AVR/STM8/Cortex-M/RISC-V";
+    description = "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V";
   };
   Carmen-philodendron-insider = {
     pname = "Carmen-philodendron-insider";
