@@ -97,7 +97,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nwg-drawer",
-    "version": "bb84a2fc46807a3c8ce1b701f578275a29e121c2",
+    "version": "f3b3635bd8950e1accb5dbbcaf311c8c7a26a856",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -107,8 +107,8 @@
       "name": null,
       "repo": "nwg-drawer",
       "type": "github",
-      "sha256": "sha256-IzuxbjB9Fy6qTFFxD/BSix1N7EOab3Aal4mIcViBHoc=",
-      "rev": "bb84a2fc46807a3c8ce1b701f578275a29e121c2"
+      "sha256": "sha256-o69ZCtIT0jh4QnlspiAh58aA61aFkkKu0FdmscHLMIk=",
+      "rev": "f3b3635bd8950e1accb5dbbcaf311c8c7a26a856"
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd",
+    "version": "2a15a4cba350643f4d90f8c61911815867e6b343",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-Eyqr/xCAxOOh0HAeHvim3bylvC/68EOUMkpc3uWkaEU=",
-      "rev": "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd"
+      "sha256": "sha256-+PEXvbg932/hPdDUQ8hOHItwKiV/CnUJE06e+bK/Vns=",
+      "rev": "2a15a4cba350643f4d90f8c61911815867e6b343"
     },
     "extract": null,
     "rustGitDeps": null

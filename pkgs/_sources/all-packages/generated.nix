@@ -611,13 +611,13 @@
   };
   nwg-drawer = {
     pname = "nwg-drawer";
-    version = "bb84a2fc46807a3c8ce1b701f578275a29e121c2";
+    version = "f3b3635bd8950e1accb5dbbcaf311c8c7a26a856";
     src = fetchFromGitHub ({
       owner = "nwg-piotr";
       repo = "nwg-drawer";
-      rev = "bb84a2fc46807a3c8ce1b701f578275a29e121c2";
+      rev = "f3b3635bd8950e1accb5dbbcaf311c8c7a26a856";
       fetchSubmodules = false;
-      sha256 = "sha256-IzuxbjB9Fy6qTFFxD/BSix1N7EOab3Aal4mIcViBHoc=";
+      sha256 = "sha256-o69ZCtIT0jh4QnlspiAh58aA61aFkkKu0FdmscHLMIk=";
     });
   };
   ny-font = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd";
+    version = "2a15a4cba350643f4d90f8c61911815867e6b343";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8475bcbab35ee1d912f498b5e5b56e6c0019fbdd";
+      rev = "2a15a4cba350643f4d90f8c61911815867e6b343";
       fetchSubmodules = false;
-      sha256 = "sha256-Eyqr/xCAxOOh0HAeHvim3bylvC/68EOUMkpc3uWkaEU=";
+      sha256 = "sha256-+PEXvbg932/hPdDUQ8hOHItwKiV/CnUJE06e+bK/Vns=";
     });
   };
   rofi-wayland = {
