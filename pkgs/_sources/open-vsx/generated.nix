@@ -20761,6 +20761,18 @@
     publisher = "zardoy";
     description = "";
   };
+  zardoy-ts-essential-plugins = {
+    pname = "zardoy-ts-essential-plugins";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.1/file/zardoy.ts-essential-plugins-0.0.1.vsix";
+      sha256 = "sha256-xKIBM8AOWSd/7a85UZHe1XnZy+MpgkPeAnXzHCa+88Y=";
+    };
+    name = "ts-essential-plugins";
+    license = "MIT";
+    publisher = "zardoy";
+    description = "";
+  };
   zardoy-typescript-server-logger = {
     pname = "zardoy-typescript-server-logger";
     version = "0.0.4";

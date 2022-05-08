@@ -24639,6 +24639,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "zardoy-ts-essential-plugins": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "zardoy-ts-essential-plugins",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "ts-essential-plugins",
+      "license": "MIT",
+      "publisher": "zardoy",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.1/file/zardoy.ts-essential-plugins-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-xKIBM8AOWSd/7a85UZHe1XnZy+MpgkPeAnXzHCa+88Y="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "leandro-rodrigues-fluent-ui-vscode": {
     "pinned": false,
     "cargoLock": null,
