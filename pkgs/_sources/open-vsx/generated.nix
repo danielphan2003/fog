@@ -13719,10 +13719,10 @@
   };
   nimsaem-nimvscode = {
     pname = "nimsaem-nimvscode";
-    version = "0.1.25";
+    version = "0.1.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nimsaem/nimvscode/0.1.25/file/nimsaem.nimvscode-0.1.25.vsix";
-      sha256 = "sha256-YwmrAmYcZ+z81XgDTjcEgRcXFDktxE66U8W36T+nfmk=";
+      url = "https://open-vsx.org/api/nimsaem/nimvscode/0.1.26/file/nimsaem.nimvscode-0.1.26.vsix";
+      sha256 = "sha256-4KydmQyZLxk3u296gdeivGjPlIRWPukQW7oJgEcnaOo=";
     };
     name = "nimvscode";
     license = "MIT";

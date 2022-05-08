@@ -20383,7 +20383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "nimsaem-nimvscode",
-    "version": "0.1.25",
+    "version": "0.1.26",
     "passthru": {
       "name": "nimvscode",
       "license": "MIT",
@@ -20391,10 +20391,10 @@
       "description": "Nim language support for Visual Studio Code written in Nim"
     },
     "src": {
-      "url": "https://open-vsx.org/api/nimsaem/nimvscode/0.1.25/file/nimsaem.nimvscode-0.1.25.vsix",
+      "url": "https://open-vsx.org/api/nimsaem/nimvscode/0.1.26/file/nimsaem.nimvscode-0.1.26.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YwmrAmYcZ+z81XgDTjcEgRcXFDktxE66U8W36T+nfmk="
+      "sha256": "sha256-4KydmQyZLxk3u296gdeivGjPlIRWPukQW7oJgEcnaOo="
     },
     "extract": null,
     "rustGitDeps": null
