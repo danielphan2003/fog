@@ -9883,7 +9883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.3.2276732",
+    "version": "7.3.2290178",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9891,10 +9891,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2276732/file/eliostruyf.vscode-front-matter-beta-7.3.2276732.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2290178/file/eliostruyf.vscode-front-matter-beta-7.3.2290178.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Hx1ktM0glzXrE5BWbhXLdWdWPMlGc1zni7GgmMjEXyA="
+      "sha256": "sha256-upLxJMJt91mDqYn9deCGO/ybovZKbcUOwNH0OKaLBYg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12983,7 +12983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Leathong-openscad-language-support",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "passthru": {
       "name": "openscad-language-support",
       "license": "GPL-3.0",
@@ -12991,10 +12991,10 @@
       "description": "OpenSCAD language server, provide highlight, auto-completion, document symbols, and more for VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.6/file/Leathong.openscad-language-support-1.0.6.vsix",
+      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.7/file/Leathong.openscad-language-support-1.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EFxln6AvpWOZpHf2KqhJNCo65+uQ2ixRZ/PDD9Exlbk="
+      "sha256": "sha256-GM+Cxz/HNJ0LaE3IJclb3yu3BVgl5ywwD0dZ5XC/MEc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34103,7 +34103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34111,10 +34111,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.5/file/betterthantomorrow.joyride-0.0.5.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.6/file/betterthantomorrow.joyride-0.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oMVElyCT3akCEqLm7oCliX2fWQPwi8r2Rh1TMVxbl2k="
+      "sha256": "sha256-nLkTEfDYXkKeRP0a/YT8/3K4AbStS/eF1DMZNl2AEw4="
     },
     "extract": null,
     "rustGitDeps": null

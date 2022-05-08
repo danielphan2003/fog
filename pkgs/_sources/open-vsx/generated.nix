@@ -1899,10 +1899,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.0.6";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.6/file/Leathong.openscad-language-support-1.0.6.vsix";
-      sha256 = "sha256-EFxln6AvpWOZpHf2KqhJNCo65+uQ2ixRZ/PDD9Exlbk=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.7/file/Leathong.openscad-language-support-1.0.7.vsix";
+      sha256 = "sha256-GM+Cxz/HNJ0LaE3IJclb3yu3BVgl5ywwD0dZ5XC/MEc=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
@@ -5487,10 +5487,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.5/file/betterthantomorrow.joyride-0.0.5.vsix";
-      sha256 = "sha256-oMVElyCT3akCEqLm7oCliX2fWQPwi8r2Rh1TMVxbl2k=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.6/file/betterthantomorrow.joyride-0.0.6.vsix";
+      sha256 = "sha256-nLkTEfDYXkKeRP0a/YT8/3K4AbStS/eF1DMZNl2AEw4=";
     };
     name = "joyride";
     license = "MIT";
@@ -7683,10 +7683,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2276732";
+    version = "7.3.2290178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2276732/file/eliostruyf.vscode-front-matter-beta-7.3.2276732.vsix";
-      sha256 = "sha256-Hx1ktM0glzXrE5BWbhXLdWdWPMlGc1zni7GgmMjEXyA=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2290178/file/eliostruyf.vscode-front-matter-beta-7.3.2290178.vsix";
+      sha256 = "sha256-upLxJMJt91mDqYn9deCGO/ybovZKbcUOwNH0OKaLBYg=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
