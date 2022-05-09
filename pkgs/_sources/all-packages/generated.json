@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "769a8d9aab52ed29156758c0e0e2592cea3238c3",
+    "version": "e45e9913fc2543d32dd5b46e0e900235d905f427",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-O5sVPof2gz4e5pIs78dWAwsCthXBqSJA9dFG2V3Amcw=",
-      "rev": "769a8d9aab52ed29156758c0e0e2592cea3238c3"
+      "sha256": "sha256-WgNaX0aoTC5L4BfwHsxJcCzNIMdeJ0QzJSuuFO6zinI=",
+      "rev": "e45e9913fc2543d32dd5b46e0e900235d905f427"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1087,13 +1087,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zoom-us",
-    "version": "5.10.6.2943",
+    "version": "5.10.4.2845",
     "passthru": null,
     "src": {
-      "url": "https://cdn.zoom.us/prod/5.10.6.2943/zoom_x86_64.pkg.tar.xz",
+      "url": "https://cdn.zoom.us/prod/5.10.4.2845/zoom_x86_64.pkg.tar.xz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4Dfu40BKWeN6NKTXW1NYzS9l3+oGmNP6x+Vfi/vkRuI="
+      "sha256": "sha256-9gspydrGaEjzAM0nK1u0XNm07HTupJ2wnPxCFWy+Nts="
     },
     "extract": null,
     "rustGitDeps": null

@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "769a8d9aab52ed29156758c0e0e2592cea3238c3";
+    version = "e45e9913fc2543d32dd5b46e0e900235d905f427";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "769a8d9aab52ed29156758c0e0e2592cea3238c3";
+      rev = "e45e9913fc2543d32dd5b46e0e900235d905f427";
       fetchSubmodules = false;
-      sha256 = "sha256-O5sVPof2gz4e5pIs78dWAwsCthXBqSJA9dFG2V3Amcw=";
+      sha256 = "sha256-WgNaX0aoTC5L4BfwHsxJcCzNIMdeJ0QzJSuuFO6zinI=";
     });
   };
   caddy = {
@@ -1280,10 +1280,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.10.6.2943";
+    version = "5.10.4.2845";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.10.6.2943/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-4Dfu40BKWeN6NKTXW1NYzS9l3+oGmNP6x+Vfi/vkRuI=";
+      url = "https://cdn.zoom.us/prod/5.10.4.2845/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-9gspydrGaEjzAM0nK1u0XNm07HTupJ2wnPxCFWy+Nts=";
     };
   };
 }
