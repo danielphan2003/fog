@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.940";
+    version = "31.0.942";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.940/file/Prisma.prisma-insider-31.0.940.vsix";
-      sha256 = "sha256-SdOvxIeb9XIYCfJ4zWCTP7eGtUrGXGGDIvZhn00PH4I=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.942/file/Prisma.prisma-insider-31.0.942.vsix";
+      sha256 = "sha256-4X/uMGVnk6gx7/I85s98d5tWJY7MjNffh/VwEMdWk2g=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3123,10 +3123,10 @@
   };
   Slint-slint = {
     pname = "Slint-slint";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.2.2/file/Slint.slint-0.2.2.vsix";
-      sha256 = "sha256-v7OLOhbOiHIrNpoYdOnqvpEtrOYHevCITO8k1fBO8NM=";
+      url = "https://open-vsx.org/api/Slint/slint/0.2.3/file/Slint.slint-0.2.3.vsix";
+      sha256 = "sha256-E+XYxDGJNHXhU3w+DDALgP8M6sFWcp24JcRiZQXWYEY=";
     };
     name = "slint";
     license = "GPL-3.0";
@@ -8031,10 +8031,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.31";
+    version = "1.3.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.31/file/everscale.solidity-support-1.3.31.vsix";
-      sha256 = "sha256-iT21ywXpNGFK14dAMJlsnZhsFrPZi45J+hVDrbtwN8Y=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.32/file/everscale.solidity-support-1.3.32.vsix";
+      sha256 = "sha256-Tfii1vWZfe/d5VUHsl37p8tqkiASU/M5p/X4ISIOtnc=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -20859,10 +20859,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.7.1";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.7.1/file/zenclabs.previewjs-1.7.1.vsix";
-      sha256 = "sha256-ueKwjwPQJLk1+G5k9LssfTZqH3ED4Oqc+4w4ZafGuWc=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.8.0/file/zenclabs.previewjs-1.8.0.vsix";
+      sha256 = "sha256-kwDf+dIVNrKZ3i5YS6msqyxrQtkzawFdWmwXXxHy1kY=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";
