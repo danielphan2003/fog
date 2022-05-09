@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "7b40e0125826cd9d9403d91bd3fd4a60cb800d9f",
+    "version": "942f18d5534572ca916513090de936d24d710467",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-nTQnTHhNdCilJ7HhWFnjPe9VcswK0AjQr/lXSZqSOGY=",
-      "rev": "7b40e0125826cd9d9403d91bd3fd4a60cb800d9f"
+      "sha256": "sha256-BozsNrBg++qXs2lYlmp6hfQ1sxA+dSbshnOVer9Hn9g=",
+      "rev": "942f18d5534572ca916513090de936d24d710467"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6167",
+    "version": "1.0.6168",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6167-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6168-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1L/+45jfazSpK1qIhW5bqxnk9SKJ+meC+qZGqh/XnCM="
+      "sha256": "sha256-ldn2Gv3zBI6igdJNyFYaGN6UbG7v29gDlCVnu2q7dQI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6167",
+    "version": "1.0.6168",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6167.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6168.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zWBRh57b4RVQD3mMGXQ1IcW5Cv7XOvrlBx1HgGg81J8="
+      "sha256": "sha256-Rb3xng/Kv9KCd7jZQ13qmVCS0mpxtcgXLpx1CoSzdn0="
     },
     "extract": null,
     "rustGitDeps": null
