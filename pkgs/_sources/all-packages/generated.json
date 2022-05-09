@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "567ec32d647b49e6b56afd416b035c46ffba9837",
+    "version": "769a8d9aab52ed29156758c0e0e2592cea3238c3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-pQdmY2GQ62s6Vt/YtSq7iNoGwhb+RhKLZDDlmU9VHkA=",
-      "rev": "567ec32d647b49e6b56afd416b035c46ffba9837"
+      "sha256": "sha256-O5sVPof2gz4e5pIs78dWAwsCthXBqSJA9dFG2V3Amcw=",
+      "rev": "769a8d9aab52ed29156758c0e0e2592cea3238c3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "d70de566c46cca773baf1fc45e487f772863eed6",
+    "version": "ef21baaf887c2f84140bc988eda49e5e052758e6",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-PFpZKgw5kdmQWa5hNweN1WyWzBci7Q64+8kBADonPUY=",
-      "rev": "d70de566c46cca773baf1fc45e487f772863eed6"
+      "sha256": "sha256-MyjnsJDs5xPHuU/Gf8PoXqhWVIfNqTtY4ZkNsbi+Dsk=",
+      "rev": "ef21baaf887c2f84140bc988eda49e5e052758e6"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1386,7 +1386,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arkenfox-userjs",
-    "version": "d6b26e75588bcd4311251c68912d3c77b8c6e996",
+    "version": "ea139e3ef8810149d90df8637984f2444282745e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1396,8 +1396,8 @@
       "name": null,
       "repo": "user.js",
       "type": "github",
-      "sha256": "sha256-gitVP21/l26hfR+r7+ST2o7pY8ikr2u92n2uzuLgnKs=",
-      "rev": "d6b26e75588bcd4311251c68912d3c77b8c6e996"
+      "sha256": "sha256-Ypd/awDTLgKwxfUQsDOPj0/V6QfPKmoMgOkGoO+FZwQ=",
+      "rev": "ea139e3ef8810149d90df8637984f2444282745e"
     },
     "extract": null,
     "rustGitDeps": null
