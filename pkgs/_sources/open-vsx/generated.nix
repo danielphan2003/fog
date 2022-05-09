@@ -5499,10 +5499,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.7/file/betterthantomorrow.joyride-0.0.7.vsix";
-      sha256 = "sha256-/7QZ80On9uGUoGLeacyBIfnbPq0cy2ruzBjTLBof1v4=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.8/file/betterthantomorrow.joyride-0.0.8.vsix";
+      sha256 = "sha256-OQhIvagnHAiHuER8fC2mCorUqk6NBBrkfMd88HS3hM0=";
     };
     name = "joyride";
     license = "MIT";
@@ -6783,10 +6783,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.11.17";
+    version = "0.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.11.17/file/d-biehl.robotcode-0.11.17.vsix";
-      sha256 = "sha256-38+QnF6n4Lhu0f5Sj2zoPbUPtrzVbntFkpJVGFuj5Vc=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.12.0/file/d-biehl.robotcode-0.12.0.vsix";
+      sha256 = "sha256-xgx0pAkGzS1RmX3gFqrr8HXhr4f3mVL4+5N91wwhRNk=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -12087,10 +12087,10 @@
   };
   mattpocock-ts-error-translator = {
     pname = "mattpocock-ts-error-translator";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.3.0/file/mattpocock.ts-error-translator-0.3.0.vsix";
-      sha256 = "sha256-tTRtN0FM3Il6/IUbAJguATRL0athKeH/WkEtj4vNICQ=";
+      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.3.1/file/mattpocock.ts-error-translator-0.3.1.vsix";
+      sha256 = "sha256-zLdFtuEmQ3rIW9QALVsWptAUQKOVAIwKM8A41HgQumU=";
     };
     name = "ts-error-translator";
     license = "MIT";
