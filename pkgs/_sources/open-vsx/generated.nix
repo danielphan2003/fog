@@ -1899,10 +1899,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.7/file/Leathong.openscad-language-support-1.0.7.vsix";
-      sha256 = "sha256-GM+Cxz/HNJ0LaE3IJclb3yu3BVgl5ywwD0dZ5XC/MEc=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.8/file/Leathong.openscad-language-support-1.0.8.vsix";
+      sha256 = "sha256-QqX8n0xWypo8Asa1hJyqpV9maYWmdTgdTMT4RGWUoqg=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
@@ -4008,6 +4008,18 @@
     license = "MIT";
     publisher = "abusaidm";
     description = "Full HTML tags including HTML5 Snippets";
+  };
+  actboy168-tasks = {
+    pname = "actboy168-tasks";
+    version = "0.9.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/actboy168/tasks/0.9.0/file/actboy168.tasks-0.9.0.vsix";
+      sha256 = "sha256-ebEUzuXzQSDbvbb0U1aqi/Q5z8Xt8wiozmDmFlZH+sQ=";
+    };
+    name = "tasks";
+    license = "MIT";
+    publisher = "actboy168";
+    description = "Load VSCode Tasks into Status Bar.";
   };
   activecove-marquee = {
     pname = "activecove-marquee";

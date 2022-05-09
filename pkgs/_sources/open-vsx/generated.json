@@ -12983,7 +12983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Leathong-openscad-language-support",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "passthru": {
       "name": "openscad-language-support",
       "license": "GPL-3.0",
@@ -12991,10 +12991,10 @@
       "description": "OpenSCAD language server, provide highlight, auto-completion, document symbols, and more for VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.7/file/Leathong.openscad-language-support-1.0.7.vsix",
+      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.8/file/Leathong.openscad-language-support-1.0.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GM+Cxz/HNJ0LaE3IJclb3yu3BVgl5ywwD0dZ5XC/MEc="
+      "sha256": "sha256-QqX8n0xWypo8Asa1hJyqpV9maYWmdTgdTMT4RGWUoqg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31155,6 +31155,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-j4wPOgfDwDdsFahC1NjKXsLjGhjhPCRn8bKdcDmk4V4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "actboy168-tasks": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "actboy168-tasks",
+    "version": "0.9.0",
+    "passthru": {
+      "name": "tasks",
+      "license": "MIT",
+      "publisher": "actboy168",
+      "description": "Load VSCode Tasks into Status Bar."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/actboy168/tasks/0.9.0/file/actboy168.tasks-0.9.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-ebEUzuXzQSDbvbb0U1aqi/Q5z8Xt8wiozmDmFlZH+sQ="
     },
     "extract": null,
     "rustGitDeps": null
