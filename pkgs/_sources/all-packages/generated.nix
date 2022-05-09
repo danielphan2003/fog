@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "942f18d5534572ca916513090de936d24d710467";
+    version = "f1dfa253be931a4e1704f0b066c0c2eb75e1e3cf";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "942f18d5534572ca916513090de936d24d710467";
+      rev = "f1dfa253be931a4e1704f0b066c0c2eb75e1e3cf";
       fetchSubmodules = false;
-      sha256 = "sha256-BozsNrBg++qXs2lYlmp6hfQ1sxA+dSbshnOVer9Hn9g=";
+      sha256 = "sha256-O4Rzw5jR6gWkURxCc7+UoqAmMD2L6qqnLNge4XCyepM=";
     });
   };
   caddy = {
@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "33a4f459bb41dc02b8c582f3eb587a99d5827fee";
+    version = "6f574e547adf4c35e660f2c1c7610eb74251d747";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "33a4f459bb41dc02b8c582f3eb587a99d5827fee";
+      rev = "6f574e547adf4c35e660f2c1c7610eb74251d747";
       fetchSubmodules = false;
-      sha256 = "sha256-T8NS8yOzOVNJE/FUHEubvKiER8VpCfT6tUOfvcr5PVc=";
+      sha256 = "sha256-r1H/dJmKlJeh/EIkb18amgh1dcayqh4blvcuJkzwF6I=";
     });
     cargoLock = {
-      lockFile = ./eww-33a4f459bb41dc02b8c582f3eb587a99d5827fee/Cargo.lock;
+      lockFile = ./eww-6f574e547adf4c35e660f2c1c7610eb74251d747/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -554,10 +554,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "102.0.1245.3";
+    version = "102.0.1245.7";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1245.3-1_amd64.deb";
-      sha256 = "sha256-22ckWkIafw4VJ0hMrVELbjMikLvRqI5XQYEIrWxBMsg=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1245.7-1_amd64.deb";
+      sha256 = "sha256-HoWcskGCzoIhva6I/mRkoqORunTbxDEgb1w06tUZRsc=";
     };
   };
   minecraft-wayland = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "17a4cb6b5c88dcf30953630c5138d8128cc15c61";
+    version = "711d7ed6cd970107698b3850f0ef9ef0d87a29fc";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "17a4cb6b5c88dcf30953630c5138d8128cc15c61";
+      rev = "711d7ed6cd970107698b3850f0ef9ef0d87a29fc";
       fetchSubmodules = false;
-      sha256 = "sha256-cE+Q+34AwO6AEqfdsXOvoCu5oL3Ueygn48deUPaC6Ws=";
+      sha256 = "sha256-kCQL92dAcTfIFGnRy/9eWc2z9O8D5ZhhiY7f1OozdSA=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-17a4cb6b5c88dcf30953630c5138d8128cc15c61/Cargo.lock;
+      lockFile = ./rustdesk-711d7ed6cd970107698b3850f0ef9ef0d87a29fc/Cargo.lock;
       outputHashes = {
         "systray-0.4.1" = "sha256-p1PMr/8oS6zHx4+Ng4zCqt0xZ57cq3wAu6/agyWq5Jw=";
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
@@ -1280,10 +1280,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.10.4.2845";
+    version = "5.10.6.2943";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.10.4.2845/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-9gspydrGaEjzAM0nK1u0XNm07HTupJ2wnPxCFWy+Nts=";
+      url = "https://cdn.zoom.us/prod/5.10.6.2943/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-4Dfu40BKWeN6NKTXW1NYzS9l3+oGmNP6x+Vfi/vkRuI=";
     };
   };
 }
