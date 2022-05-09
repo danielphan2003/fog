@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.935";
+    version = "31.0.937";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.935/file/Prisma.prisma-insider-31.0.935.vsix";
-      sha256 = "sha256-fKxj2n4rQ2O8HeVqY+TUjhlMljSFJ+lqIVlgie3A3FA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.937/file/Prisma.prisma-insider-31.0.937.vsix";
+      sha256 = "sha256-OjvHg4OJ/TovXZn9/HVQETZfW6VltSRL8ybQLCuMFrc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7191,10 +7191,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.93.4";
+    version = "0.93.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.93.4/file/dendron.nightly-0.93.4.vsix";
-      sha256 = "sha256-zMNA9htvNPW0WCCmeW3wZMFGy6oKxnCR9KLW5Q8fESg=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.93.5/file/dendron.nightly-0.93.5.vsix";
+      sha256 = "sha256-GUwJa62fxGAYV+7n5KMKLfIXtEEYP72P1q3aPdLZPJ0=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7695,10 +7695,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2290413";
+    version = "7.3.2292535";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2290413/file/eliostruyf.vscode-front-matter-beta-7.3.2290413.vsix";
-      sha256 = "sha256-ll7kT02YXiJyHh5KsIA7GuEx7kr5hEDjKeCOD67Rv1E=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2292535/file/eliostruyf.vscode-front-matter-beta-7.3.2292535.vsix";
+      sha256 = "sha256-UlzxOBfyLgXPdyRdyq5YfJFdPNIiPpAP1hVKjzoXR8k=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
