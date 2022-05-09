@@ -16527,10 +16527,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.23";
+    version = "0.13.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.23/file/shufo.vscode-blade-formatter-0.13.23.vsix";
-      sha256 = "sha256-pb8FUnjokkoE8gLobkUoieJf6jW8TFxUyOXa/Z3v+f0=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.24/file/shufo.vscode-blade-formatter-0.13.24.vsix";
+      sha256 = "sha256-eaBTmqzz1eIsAjjwwJhUMaano6zDERu+pfWC8mx7OBM=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -20964,6 +20964,18 @@
     license = "MIT";
     publisher = "zjffun";
     description = "Easy to use and create various tools.";
+  };
+  znck-grammarly = {
+    pname = "znck-grammarly";
+    version = "0.17.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/znck/grammarly/0.17.6/file/znck.grammarly-0.17.6.vsix";
+      sha256 = "sha256-U9mxZ5QnXxHgASwD3KLd0l4qHXRH54OpIuz0ENkUtk4=";
+    };
+    name = "grammarly";
+    license = "MIT";
+    publisher = "znck";
+    description = "A grammar checking for Visual Studio Code using Grammarly.";
   };
   znck-preview = {
     pname = "znck-preview";

@@ -18103,7 +18103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.23",
+    "version": "0.13.24",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -18111,10 +18111,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.23/file/shufo.vscode-blade-formatter-0.13.23.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.24/file/shufo.vscode-blade-formatter-0.13.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pb8FUnjokkoE8gLobkUoieJf6jW8TFxUyOXa/Z3v+f0="
+      "sha256": "sha256-eaBTmqzz1eIsAjjwwJhUMaano6zDERu+pfWC8mx7OBM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29115,6 +29115,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-Fzvwk6KZp8QjCLFMuHfE+cOymUhrelbuf3wn6sOhIRk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "znck-grammarly": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "znck-grammarly",
+    "version": "0.17.6",
+    "passthru": {
+      "name": "grammarly",
+      "license": "MIT",
+      "publisher": "znck",
+      "description": "A grammar checking for Visual Studio Code using Grammarly."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/znck/grammarly/0.17.6/file/znck.grammarly-0.17.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-U9mxZ5QnXxHgASwD3KLd0l4qHXRH54OpIuz0ENkUtk4="
     },
     "extract": null,
     "rustGitDeps": null
