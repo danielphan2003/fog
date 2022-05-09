@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "f1dfa253be931a4e1704f0b066c0c2eb75e1e3cf",
+    "version": "567ec32d647b49e6b56afd416b035c46ffba9837",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-O4Rzw5jR6gWkURxCc7+UoqAmMD2L6qqnLNge4XCyepM=",
-      "rev": "f1dfa253be931a4e1704f0b066c0c2eb75e1e3cf"
+      "sha256": "sha256-pQdmY2GQ62s6Vt/YtSq7iNoGwhb+RhKLZDDlmU9VHkA=",
+      "rev": "567ec32d647b49e6b56afd416b035c46ffba9837"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1252,13 +1252,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "netdata-go-d-plugin",
-    "version": "0.32.2",
+    "version": "0.32.3",
     "passthru": null,
     "src": {
-      "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.2.tar.gz",
+      "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.3.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yZrj3Pg2m4m74gCPQy3nU0wgKae82vEPo6EzgsrG8q8="
+      "sha256": "sha256-GyYNcUXSNOsM+NYgOZxGXlescCUAAZgd6fRpX6XWENA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1386,7 +1386,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arkenfox-userjs",
-    "version": "7ff46e02dd33588c0298f7432e7742c53765d2ea",
+    "version": "d6b26e75588bcd4311251c68912d3c77b8c6e996",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1396,8 +1396,8 @@
       "name": null,
       "repo": "user.js",
       "type": "github",
-      "sha256": "sha256-4MhqNsw2YLgOjQLAjQb/aRyZf10IkIagzyzzUSiAHtY=",
-      "rev": "7ff46e02dd33588c0298f7432e7742c53765d2ea"
+      "sha256": "sha256-gitVP21/l26hfR+r7+ST2o7pY8ikr2u92n2uzuLgnKs=",
+      "rev": "d6b26e75588bcd4311251c68912d3c77b8c6e996"
     },
     "extract": null,
     "rustGitDeps": null

@@ -105,13 +105,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "7ff46e02dd33588c0298f7432e7742c53765d2ea";
+    version = "d6b26e75588bcd4311251c68912d3c77b8c6e996";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "7ff46e02dd33588c0298f7432e7742c53765d2ea";
+      rev = "d6b26e75588bcd4311251c68912d3c77b8c6e996";
       fetchSubmodules = false;
-      sha256 = "sha256-4MhqNsw2YLgOjQLAjQb/aRyZf10IkIagzyzzUSiAHtY=";
+      sha256 = "sha256-gitVP21/l26hfR+r7+ST2o7pY8ikr2u92n2uzuLgnKs=";
     });
   };
   asusctl = {
@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f1dfa253be931a4e1704f0b066c0c2eb75e1e3cf";
+    version = "567ec32d647b49e6b56afd416b035c46ffba9837";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f1dfa253be931a4e1704f0b066c0c2eb75e1e3cf";
+      rev = "567ec32d647b49e6b56afd416b035c46ffba9837";
       fetchSubmodules = false;
-      sha256 = "sha256-O4Rzw5jR6gWkURxCc7+UoqAmMD2L6qqnLNge4XCyepM=";
+      sha256 = "sha256-pQdmY2GQ62s6Vt/YtSq7iNoGwhb+RhKLZDDlmU9VHkA=";
     });
   };
   caddy = {
@@ -581,10 +581,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.32.2";
+    version = "0.32.3";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.2.tar.gz";
-      sha256 = "sha256-yZrj3Pg2m4m74gCPQy3nU0wgKae82vEPo6EzgsrG8q8=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.3.tar.gz";
+      sha256 = "sha256-GyYNcUXSNOsM+NYgOZxGXlescCUAAZgd6fRpX6XWENA=";
     };
   };
   nix-zsh-completions = {
