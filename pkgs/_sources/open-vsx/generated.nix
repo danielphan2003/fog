@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.937";
+    version = "31.0.940";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.937/file/Prisma.prisma-insider-31.0.937.vsix";
-      sha256 = "sha256-OjvHg4OJ/TovXZn9/HVQETZfW6VltSRL8ybQLCuMFrc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.940/file/Prisma.prisma-insider-31.0.940.vsix";
+      sha256 = "sha256-SdOvxIeb9XIYCfJ4zWCTP7eGtUrGXGGDIvZhn00PH4I=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -16323,10 +16323,10 @@
   };
   senx-warpscript-language = {
     pname = "senx-warpscript-language";
-    version = "2.1.6";
+    version = "2.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.6/file/senx.warpscript-language-2.1.6.vsix";
-      sha256 = "sha256-QqOVKid57ZYJNV9gVX5pR61svGQN8cv3rDsTkHzxRJM=";
+      url = "https://open-vsx.org/api/senx/warpscript-language/2.1.8/file/senx.warpscript-language-2.1.8.vsix";
+      sha256 = "sha256-51BOHchkvTf+1tw1gtVNsnskPRj5v6a+pPIiFGnIVQk=";
     };
     name = "warpscript-language";
     license = "Apache-2.0";
