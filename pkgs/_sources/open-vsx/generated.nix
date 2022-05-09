@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.716";
+    version = "2022.5.912";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.716/file/Slint.slint-nightly-2022.5.716.vsix";
-      sha256 = "sha256-98vG+d9gv00flG0UawRbPGlNElHZo5shw0cd4fEMrTY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.912/file/Slint.slint-nightly-2022.5.912.vsix";
+      sha256 = "sha256-3Y+10tZRHnjr9WZWBt3xW0fv43TSim1pvbFzQjuZs8M=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -20859,10 +20859,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.7.0/file/zenclabs.previewjs-1.7.0.vsix";
-      sha256 = "sha256-4EYKE1FdKt8p5eI3rCuh+AVRC5TC60DVCAV5+c4+x68=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.7.1/file/zenclabs.previewjs-1.7.1.vsix";
+      sha256 = "sha256-ueKwjwPQJLk1+G5k9LssfTZqH3ED4Oqc+4w4ZafGuWc=";
     };
     name = "previewjs";
     license = "https://previewjs.com/eula";
