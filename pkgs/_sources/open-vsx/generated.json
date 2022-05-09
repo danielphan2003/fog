@@ -9783,7 +9783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zenclabs-previewjs",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "passthru": {
       "name": "previewjs",
       "license": "https://previewjs.com/eula",
@@ -9791,10 +9791,10 @@
       "description": "Get instant previews of your UI components, directly in your IDE"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.7.0/file/zenclabs.previewjs-1.7.0.vsix",
+      "url": "https://open-vsx.org/api/zenclabs/previewjs/1.7.1/file/zenclabs.previewjs-1.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4EYKE1FdKt8p5eI3rCuh+AVRC5TC60DVCAV5+c4+x68="
+      "sha256": "sha256-ueKwjwPQJLk1+G5k9LssfTZqH3ED4Oqc+4w4ZafGuWc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15683,7 +15683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.716",
+    "version": "2022.5.912",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15691,10 +15691,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.716/file/Slint.slint-nightly-2022.5.716.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.912/file/Slint.slint-nightly-2022.5.912.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-98vG+d9gv00flG0UawRbPGlNElHZo5shw0cd4fEMrTY="
+      "sha256": "sha256-3Y+10tZRHnjr9WZWBt3xW0fv43TSim1pvbFzQjuZs8M="
     },
     "extract": null,
     "rustGitDeps": null
