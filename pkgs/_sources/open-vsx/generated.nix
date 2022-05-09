@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.946";
+    version = "31.0.947";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.946/file/Prisma.prisma-insider-31.0.946.vsix";
-      sha256 = "sha256-HrM/d68I7tOZVd+0xWG3KpMj9EwYpRcX0u+cJgSa5uc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.947/file/Prisma.prisma-insider-31.0.947.vsix";
+      sha256 = "sha256-/3XbNyrrotnaHIkZPe4kNHO/VyByf0FK9ZlQbACbUxc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4791,10 +4791,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.4.0";
+    version = "5.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.0/file/anweber.vscode-httpyac-5.4.0.vsix";
-      sha256 = "sha256-Gekdeywwaf8NwoaVXp4lb6p1iifE2Q2O+mgZ6qfSVM0=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.1/file/anweber.vscode-httpyac-5.4.1.vsix";
+      sha256 = "sha256-f+0123GH4iqWRPE63GlzqkxwhESQZQ23Bo3NugMKotg=";
     };
     name = "vscode-httpyac";
     license = "MIT";
