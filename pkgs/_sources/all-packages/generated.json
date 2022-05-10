@@ -1551,13 +1551,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-beta",
-    "version": "101.0.1210.39",
+    "version": "102.0.1245.7",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_101.0.1210.39-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_102.0.1245.7-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jpdFUff+MdXSt+iZdEb2dA//TKf8WQoqykXyEXz8UVY="
+      "sha256": "sha256-2DwNP4CUKkwrv7FAiJXXcpwGtCMrzXD2SRvfng6Xe2Q="
     },
     "extract": null,
     "rustGitDeps": null
