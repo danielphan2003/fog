@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "61dd23efcee144e9a6e80d1ef7025e3d05688009";
+    version = "63ddd89e7dcaac57a1412fe514e7be2314f7674d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "61dd23efcee144e9a6e80d1ef7025e3d05688009";
+      rev = "63ddd89e7dcaac57a1412fe514e7be2314f7674d";
       fetchSubmodules = false;
-      sha256 = "sha256-2o48dlldVdEUuEPYWqSIClyePDfNWJU3am6O4YITlng=";
+      sha256 = "sha256-hdyD5F6CHjLmtA6rSg4GvjcYsPh4H4GVtugBStZ8rFk=";
     });
   };
   caddy = {
@@ -206,17 +206,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "2fcb3c8b936aea83eb9445919e69ef7627bced84";
+    version = "8bb58061fdc709f38b264c30d83c050477a89f9a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "2fcb3c8b936aea83eb9445919e69ef7627bced84";
+      rev = "8bb58061fdc709f38b264c30d83c050477a89f9a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UqC+TXgp/0IlWiVF/T6uvIgPGdgj9I8PkFGHLxC9pcg=";
+      sha256 = "sha256-MZ5EI5kJ5bSm2jiArWt5NunIaevLWc0AsN41otJl8YQ=";
     };
     cargoLock = {
-      lockFile = ./conduit-2fcb3c8b936aea83eb9445919e69ef7627bced84/Cargo.lock;
+      lockFile = ./conduit-8bb58061fdc709f38b264c30d83c050477a89f9a/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "6f574e547adf4c35e660f2c1c7610eb74251d747";
+    version = "e810f2a67a1fd6cf3fa54205d77c1712ee9e99f1";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "6f574e547adf4c35e660f2c1c7610eb74251d747";
+      rev = "e810f2a67a1fd6cf3fa54205d77c1712ee9e99f1";
       fetchSubmodules = false;
-      sha256 = "sha256-r1H/dJmKlJeh/EIkb18amgh1dcayqh4blvcuJkzwF6I=";
+      sha256 = "sha256-BJCWbfCzv/g5BfUNVBhuUjLujybByt98DYy27dNQ4j8=";
     });
     cargoLock = {
-      lockFile = ./eww-6f574e547adf4c35e660f2c1c7610eb74251d747/Cargo.lock;
+      lockFile = ./eww-e810f2a67a1fd6cf3fa54205d77c1712ee9e99f1/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ef21baaf887c2f84140bc988eda49e5e052758e6";
+    version = "ddab8e60dcbb56eb690c72cedcba1ab95f0284e4";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "ef21baaf887c2f84140bc988eda49e5e052758e6";
+      rev = "ddab8e60dcbb56eb690c72cedcba1ab95f0284e4";
       fetchSubmodules = false;
-      sha256 = "sha256-MyjnsJDs5xPHuU/Gf8PoXqhWVIfNqTtY4ZkNsbi+Dsk=";
+      sha256 = "sha256-JXJI3RlOR/rNT8poBPojj4ySOPmhZtWRtQPw8sJJRn8=";
     });
   };
   ibus = {
