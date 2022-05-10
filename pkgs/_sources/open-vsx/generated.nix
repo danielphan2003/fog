@@ -1933,6 +1933,18 @@
     publisher = "LeonardSSH";
     description = "Fully customizable VS Code extension to get Discord Rich Presence integration";
   };
+  LonHutt-sfdx-vscode-internal-dev-pack = {
+    pname = "LonHutt-sfdx-vscode-internal-dev-pack";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/LonHutt/sfdx-vscode-internal-dev-pack/0.0.2/file/LonHutt.sfdx-vscode-internal-dev-pack-0.0.2.vsix";
+      sha256 = "sha256-Ir6pSJwsePwGOPfP1eh1IGdVViF/1YaJcwljJg6XMFc=";
+    };
+    name = "sfdx-vscode-internal-dev-pack";
+    license = "MIT";
+    publisher = "LonHutt";
+    description = "";
+  };
   LoyieKing-smalise = {
     pname = "LoyieKing-smalise";
     version = "0.0.8";
@@ -4407,10 +4419,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.4.718";
+    version = "2022.5.917";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.718/file/alygin.vscode-tlaplus-nightly-2022.4.718.vsix";
-      sha256 = "sha256-97LJkR63JIyacIP0hMOHksVqGowwZHRV26cZX2mxJIs=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.917/file/alygin.vscode-tlaplus-nightly-2022.5.917.vsix";
+      sha256 = "sha256-fLVWmpLsAo/86TFFUQY/xKfJoEWPEP1V5NKAhuO3I/8=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -20979,10 +20991,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.17.7";
+    version = "0.17.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.17.7/file/znck.grammarly-0.17.7.vsix";
-      sha256 = "sha256-PJJv967wAFHLwG/8aQofY3Tx57JIXUMWcTnDEpYDQcQ=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.17.8/file/znck.grammarly-0.17.8.vsix";
+      sha256 = "sha256-/JgMN6cignFyGOpC6XRe6OOOBAML7mrdTcgqhE9a9ek=";
     };
     name = "grammarly";
     license = "MIT";

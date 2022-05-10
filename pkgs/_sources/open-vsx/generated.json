@@ -13123,7 +13123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alygin-vscode-tlaplus-nightly",
-    "version": "2022.4.718",
+    "version": "2022.5.917",
     "passthru": {
       "name": "vscode-tlaplus-nightly",
       "license": "MIT",
@@ -13131,10 +13131,10 @@
       "description": "TLA+ language support (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.4.718/file/alygin.vscode-tlaplus-nightly-2022.4.718.vsix",
+      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.917/file/alygin.vscode-tlaplus-nightly-2022.5.917.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-97LJkR63JIyacIP0hMOHksVqGowwZHRV26cZX2mxJIs="
+      "sha256": "sha256-fLVWmpLsAo/86TFFUQY/xKfJoEWPEP1V5NKAhuO3I/8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24879,6 +24879,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "LonHutt-sfdx-vscode-internal-dev-pack": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "LonHutt-sfdx-vscode-internal-dev-pack",
+    "version": "0.0.2",
+    "passthru": {
+      "name": "sfdx-vscode-internal-dev-pack",
+      "license": "MIT",
+      "publisher": "LonHutt",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/LonHutt/sfdx-vscode-internal-dev-pack/0.0.2/file/LonHutt.sfdx-vscode-internal-dev-pack-0.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Ir6pSJwsePwGOPfP1eh1IGdVViF/1YaJcwljJg6XMFc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "masonliu-exercism": {
     "pinned": false,
     "cargoLock": null,
@@ -29123,7 +29143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.17.7",
+    "version": "0.17.8",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29131,10 +29151,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.17.7/file/znck.grammarly-0.17.7.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.17.8/file/znck.grammarly-0.17.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PJJv967wAFHLwG/8aQofY3Tx57JIXUMWcTnDEpYDQcQ="
+      "sha256": "sha256-/JgMN6cignFyGOpC6XRe6OOOBAML7mrdTcgqhE9a9ek="
     },
     "extract": null,
     "rustGitDeps": null
