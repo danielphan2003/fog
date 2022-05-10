@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.5.3";
+    version = "3.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.5.3/file/CL.eide-3.5.3.vsix";
-      sha256 = "sha256-GE2XAERTJpytQ+1GH2wEK4b/r/mQF/+usS6DyjLrzFs=";
+      url = "https://open-vsx.org/api/CL/eide/3.5.4/file/CL.eide-3.5.4.vsix";
+      sha256 = "sha256-QlyEfW/3TrsTNhE0tU6QOvosD8ibHRLsh/nKqgO/Nfs=";
     };
     name = "eide";
     license = "MIT";
@@ -7119,10 +7119,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.93.0";
+    version = "0.94.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.93.0/file/dendron.dendron-0.93.0.vsix";
-      sha256 = "sha256-RtdgZZauE859/xfqR/ClIBxtUh28UKlkp02ZsZeKO3A=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.94.0/file/dendron.dendron-0.94.0.vsix";
+      sha256 = "sha256-Fo/uNJyJFVcl4HcqKWdqJ3CSozOPvA0sZWU7YGBDdcg=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -8883,10 +8883,10 @@
   };
   gilcu3-tamarin = {
     pname = "gilcu3-tamarin";
-    version = "0.0.4";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gilcu3/tamarin/0.0.4/file/gilcu3.tamarin-0.0.4.vsix";
-      sha256 = "sha256-0n8k19+rBzsMvqyO+20jKjlu6cFeX88tNDuoiwMhfMA=";
+      url = "https://open-vsx.org/api/gilcu3/tamarin/0.1.0/file/gilcu3.tamarin-0.1.0.vsix";
+      sha256 = "sha256-GDwbPCqBElYnZ/Tv2UcD5Ck/ge3j6+x6byMGxG6FATU=";
     };
     name = "tamarin";
     license = "MIT";
