@@ -2787,10 +2787,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.948";
+    version = "31.0.949";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.948/file/Prisma.prisma-insider-31.0.948.vsix";
-      sha256 = "sha256-V/LDaZhx+DcGsmsz16DNeLvtk04OiOWf587XawNm++w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.949/file/Prisma.prisma-insider-31.0.949.vsix";
+      sha256 = "sha256-suBVCW4X0Y+re5EMBJMK6xk3p+2exPIb2hqXSLncUD0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7287,10 +7287,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.22";
+    version = "0.5.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.22/file/digma.digma-0.5.22.vsix";
-      sha256 = "sha256-XbZAx5RJfDNdUGIK0y1vVYygrT24C0ZMK5SZFpb0n7o=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.23/file/digma.digma-0.5.23.vsix";
+      sha256 = "sha256-ZmRQAxzJt650hoYNqbS+xR9IvKYCocYxSKpyrgoB7CE=";
     };
     name = "digma";
     license = "MIT";
