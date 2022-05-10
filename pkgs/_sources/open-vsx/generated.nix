@@ -2787,10 +2787,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.949";
+    version = "31.0.950";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.949/file/Prisma.prisma-insider-31.0.949.vsix";
-      sha256 = "sha256-suBVCW4X0Y+re5EMBJMK6xk3p+2exPIb2hqXSLncUD0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.950/file/Prisma.prisma-insider-31.0.950.vsix";
+      sha256 = "sha256-0YbZw69yjAq4PmtgEu3ukY6B3nkR+rha9T4oKztgtJI=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12099,10 +12099,10 @@
   };
   mattpocock-ts-error-translator = {
     pname = "mattpocock-ts-error-translator";
-    version = "0.3.1";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.3.1/file/mattpocock.ts-error-translator-0.3.1.vsix";
-      sha256 = "sha256-zLdFtuEmQ3rIW9QALVsWptAUQKOVAIwKM8A41HgQumU=";
+      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.0/file/mattpocock.ts-error-translator-0.5.0.vsix";
+      sha256 = "sha256-sRzxwLFQcCmMcHM5zsHwTI5BFa4iS78NYi6nMdNaF3E=";
     };
     name = "ts-error-translator";
     license = "MIT";

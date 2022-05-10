@@ -11343,7 +11343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mattpocock-ts-error-translator",
-    "version": "0.3.1",
+    "version": "0.5.0",
     "passthru": {
       "name": "ts-error-translator",
       "license": "MIT",
@@ -11351,10 +11351,10 @@
       "description": "TypeScript errors, translated for humans"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mattpocock/ts-error-translator/0.3.1/file/mattpocock.ts-error-translator-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.0/file/mattpocock.ts-error-translator-0.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zLdFtuEmQ3rIW9QALVsWptAUQKOVAIwKM8A41HgQumU="
+      "sha256": "sha256-sRzxwLFQcCmMcHM5zsHwTI5BFa4iS78NYi6nMdNaF3E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31723,7 +31723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.949",
+    "version": "31.0.950",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31731,10 +31731,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.949/file/Prisma.prisma-insider-31.0.949.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.950/file/Prisma.prisma-insider-31.0.950.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-suBVCW4X0Y+re5EMBJMK6xk3p+2exPIb2hqXSLncUD0="
+      "sha256": "sha256-0YbZw69yjAq4PmtgEu3ukY6B3nkR+rha9T4oKztgtJI="
     },
     "extract": null,
     "rustGitDeps": null
