@@ -2787,10 +2787,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.950";
+    version = "31.0.951";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.950/file/Prisma.prisma-insider-31.0.950.vsix";
-      sha256 = "sha256-0YbZw69yjAq4PmtgEu3ukY6B3nkR+rha9T4oKztgtJI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.951/file/Prisma.prisma-insider-31.0.951.vsix";
+      sha256 = "sha256-CtWVmyEeP8LgtdbuYMu18vcb2jOnEMhTQ0iJtC1Xbsg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12099,10 +12099,10 @@
   };
   mattpocock-ts-error-translator = {
     pname = "mattpocock-ts-error-translator";
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.0/file/mattpocock.ts-error-translator-0.5.0.vsix";
-      sha256 = "sha256-sRzxwLFQcCmMcHM5zsHwTI5BFa4iS78NYi6nMdNaF3E=";
+      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.1/file/mattpocock.ts-error-translator-0.5.1.vsix";
+      sha256 = "sha256-5cOvnPFmMH2yGz1v37K8CN16BM4AbTNURXjuQOb+FGA=";
     };
     name = "ts-error-translator";
     license = "MIT";
@@ -12396,6 +12396,18 @@
     license = "Apache-2.0";
     publisher = "metafacture";
     description = "Language Support for Metafacture Flux (Xtext Language Server for Metfacture Flux). For more information, visit https://metafacture.org";
+  };
+  meteor-toolbox-meteor-toolbox = {
+    pname = "meteor-toolbox-meteor-toolbox";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.1/file/meteor-toolbox.meteor-toolbox-1.1.1.vsix";
+      sha256 = "sha256-ZsU23z2xTEMLDNPm1K47ZijerGp8tOgu7YXYC9vJ1Is=";
+    };
+    name = "meteor-toolbox";
+    license = "MIT";
+    publisher = "meteor-toolbox";
+    description = "Easily set up your Meteor environment (intelisense, run options and many other things).";
   };
   mgmcdermott-vscode-language-babel = {
     pname = "mgmcdermott-vscode-language-babel";
