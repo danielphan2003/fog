@@ -2787,10 +2787,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.947";
+    version = "31.0.948";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.947/file/Prisma.prisma-insider-31.0.947.vsix";
-      sha256 = "sha256-/3XbNyrrotnaHIkZPe4kNHO/VyByf0FK9ZlQbACbUxc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.948/file/Prisma.prisma-insider-31.0.948.vsix";
+      sha256 = "sha256-V/LDaZhx+DcGsmsz16DNeLvtk04OiOWf587XawNm++w=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7203,10 +7203,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.93.5";
+    version = "0.93.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.93.5/file/dendron.nightly-0.93.5.vsix";
-      sha256 = "sha256-GUwJa62fxGAYV+7n5KMKLfIXtEEYP72P1q3aPdLZPJ0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.93.6/file/dendron.nightly-0.93.6.vsix";
+      sha256 = "sha256-eh8wMvpRNyvjKdcr6coQBpX/fvXGU0/qHAcIK4N/i8U=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -18279,10 +18279,10 @@
   };
   typefox-yang-vscode = {
     pname = "typefox-yang-vscode";
-    version = "2.0.6";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/typefox/yang-vscode/2.0.6/file/typefox.yang-vscode-2.0.6.vsix";
-      sha256 = "sha256-66KU+BCE511eb5xA2FkNTQ8chiJr0boAmx7KkQr8Ce8=";
+      url = "https://open-vsx.org/api/typefox/yang-vscode/2.1.0/file/typefox.yang-vscode-2.1.0.vsix";
+      sha256 = "sha256-1KOBab5Zt8Nb6vyT/+sQnGuhvphuNjf4rVP3lB000WA=";
     };
     name = "yang-vscode";
     license = "Apache-2.0";
