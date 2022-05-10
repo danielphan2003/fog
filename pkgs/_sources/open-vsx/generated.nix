@@ -3147,10 +3147,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.912";
+    version = "2022.5.916";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.912/file/Slint.slint-nightly-2022.5.912.vsix";
-      sha256 = "sha256-3Y+10tZRHnjr9WZWBt3xW0fv43TSim1pvbFzQjuZs8M=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.916/file/Slint.slint-nightly-2022.5.916.vsix";
+      sha256 = "sha256-0Y4NY5D/SAeEmuMXuIJCNSBAoP2/J2v1OjD/9BSSlFQ=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8727,10 +8727,10 @@
   };
   geequlim-godot-tools = {
     pname = "geequlim-godot-tools";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/geequlim/godot-tools/1.2.0/file/geequlim.godot-tools-1.2.0.vsix";
-      sha256 = "sha256-CBT1XoqYwpR8xBY82R9OxKY/6EUQXzyJFIVdmRQKTr8=";
+      url = "https://open-vsx.org/api/geequlim/godot-tools/1.3.0/file/geequlim.godot-tools-1.3.0.vsix";
+      sha256 = "sha256-cAv3hHWMrkIPC2GIFN6O5FShjTXg+Ox6dEeyJN2EWH8=";
     };
     name = "godot-tools";
     license = "MIT";
