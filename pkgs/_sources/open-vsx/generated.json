@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.93.5",
+    "version": "0.93.6",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.93.5/file/dendron.nightly-0.93.5.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.93.6/file/dendron.nightly-0.93.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GUwJa62fxGAYV+7n5KMKLfIXtEEYP72P1q3aPdLZPJ0="
+      "sha256": "sha256-eh8wMvpRNyvjKdcr6coQBpX/fvXGU0/qHAcIK4N/i8U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27423,7 +27423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "typefox-yang-vscode",
-    "version": "2.0.6",
+    "version": "2.1.0",
     "passthru": {
       "name": "yang-vscode",
       "license": "Apache-2.0",
@@ -27431,10 +27431,10 @@
       "description": "Yang editor support and diagrams for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/typefox/yang-vscode/2.0.6/file/typefox.yang-vscode-2.0.6.vsix",
+      "url": "https://open-vsx.org/api/typefox/yang-vscode/2.1.0/file/typefox.yang-vscode-2.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-66KU+BCE511eb5xA2FkNTQ8chiJr0boAmx7KkQr8Ce8="
+      "sha256": "sha256-1KOBab5Zt8Nb6vyT/+sQnGuhvphuNjf4rVP3lB000WA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31723,7 +31723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.947",
+    "version": "31.0.948",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31731,10 +31731,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.947/file/Prisma.prisma-insider-31.0.947.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.948/file/Prisma.prisma-insider-31.0.948.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/3XbNyrrotnaHIkZPe4kNHO/VyByf0FK9ZlQbACbUxc="
+      "sha256": "sha256-V/LDaZhx+DcGsmsz16DNeLvtk04OiOWf587XawNm++w="
     },
     "extract": null,
     "rustGitDeps": null
