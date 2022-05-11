@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "8ff1aa9fea5716ce02a004edbd78939664e61fbe",
+    "version": "84ebab40b1aef6d117abfee0b11f1995e7fda09e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-mBqf7Fq7zGdj/smf2Ir3FpwuIwCdnlF2wTgq2bFMXYA=",
-      "rev": "8ff1aa9fea5716ce02a004edbd78939664e61fbe"
+      "sha256": "sha256-kRxmBxX6YOP2T+UqcFFSBzlCDFRc8N8CMrPMaNF7E8w=",
+      "rev": "84ebab40b1aef6d117abfee0b11f1995e7fda09e"
     },
     "extract": null,
     "rustGitDeps": null
