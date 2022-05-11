@@ -2787,10 +2787,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.952";
+    version = "31.0.954";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.952/file/Prisma.prisma-insider-31.0.952.vsix";
-      sha256 = "sha256-Xkz12ekZ8mkiuSYjv2YrmAmO3YN8JaJyJXM+NxlJNwQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.954/file/Prisma.prisma-insider-31.0.954.vsix";
+      sha256 = "sha256-nvcNkbwtODraUaQO1S15LsW1gQH0Ct3186WIzmSuClk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -7203,10 +7203,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.93.6";
+    version = "0.94.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.93.6/file/dendron.nightly-0.93.6.vsix";
-      sha256 = "sha256-eh8wMvpRNyvjKdcr6coQBpX/fvXGU0/qHAcIK4N/i8U=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.94.1/file/dendron.nightly-0.94.1.vsix";
+      sha256 = "sha256-98BukNDVIBtlkhBopBCiNWmv4WxhAAVHEP0IiOwNBeI=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -21015,10 +21015,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.19.2";
+    version = "0.19.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.19.2/file/znck.grammarly-0.19.2.vsix";
-      sha256 = "sha256-heTAP9f527OMEELtSpZhN6FgqQInBncJWbDPH4eW6oE=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.19.4/file/znck.grammarly-0.19.4.vsix";
+      sha256 = "sha256-RriEeYfqH3wrnLQfn3aPMOM52G0E5lTYIVJCOtmUHjk=";
     };
     name = "grammarly";
     license = "MIT";
