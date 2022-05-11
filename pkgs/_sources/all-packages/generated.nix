@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-877";
+    version = "1.0-878";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-877-1_all.deb";
-      sha256 = "sha256-p2HTKgEkCo5mW+pFSsbAgqeNDTrrYNtwfzgDXqE2PzU=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-878-1_all.deb";
+      sha256 = "sha256-eDrmMZiSoG+4ZwP7aQj3lP0QZ0aHbufh7k1tju4onfo=";
     };
   };
   jitsi-meet = {
@@ -554,10 +554,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "102.0.1245.7";
+    version = "103.0.1253.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_102.0.1245.7-1_amd64.deb";
-      sha256 = "sha256-HoWcskGCzoIhva6I/mRkoqORunTbxDEgb1w06tUZRsc=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1253.0-1_amd64.deb";
+      sha256 = "sha256-FbCgjpoA6XbIojjlW3h4eiU1V0kbP0qj12zVRvGBB4s=";
     };
   };
   minecraft-wayland = {
