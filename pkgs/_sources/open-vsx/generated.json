@@ -3363,7 +3363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lefd-sweetdracula-monokai",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "passthru": {
       "name": "sweetdracula-monokai",
       "license": "MIT",
@@ -3371,10 +3371,10 @@
       "description": "Sweet Dracula + Monokai syntax highlighting"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.2/file/lefd.sweetdracula-monokai-1.1.2.vsix",
+      "url": "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.3/file/lefd.sweetdracula-monokai-1.1.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jWKOZocGStseA+PAv8z9qbMx903W1F+3JJQ4iOhjjJY="
+      "sha256": "sha256-2pqvt4DV35QDHCXAIiRt+JqsZ1HDyUUAAdjrHBo9rPs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6623,7 +6623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "JustBrenny-hero-heroku",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "passthru": {
       "name": "hero-heroku",
       "license": "GPL-3.0-or-later",
@@ -6631,10 +6631,10 @@
       "description": "A powerful Heroku dashboard from within VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.1/file/JustBrenny.hero-heroku-1.7.1.vsix",
+      "url": "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.2/file/JustBrenny.hero-heroku-1.7.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OVNDmrcya+FMebF0+OVl+8JHNNvAuZqAolWStYkBG5w="
+      "sha256": "sha256-TQKk0KKxp7HodcZt4PtDod3JmlAoKvmoXgSZEctME90="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9363,7 +9363,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrilletuzi-angular-schematics",
-    "version": "5.2.0",
+    "version": "5.2.1",
     "passthru": {
       "name": "angular-schematics",
       "license": "MIT",
@@ -9371,10 +9371,10 @@
       "description": "Angular schematics (CLI commands) from files Explorer or Command Palette."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.0/file/cyrilletuzi.angular-schematics-5.2.0.vsix",
+      "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.1/file/cyrilletuzi.angular-schematics-5.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-G4kzYQGxYqHagESO0I7pVE/Ajte52sVRwm1ft0rz/DE="
+      "sha256": "sha256-3aMAqpmwf+WTNDGpiEe06EXqNga12wKzi63y/1E5w/w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13003,7 +13003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Leathong-openscad-language-support",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "passthru": {
       "name": "openscad-language-support",
       "license": "GPL-3.0",
@@ -13011,10 +13011,10 @@
       "description": "OpenSCAD language server, provide highlight, auto-completion, document symbols, and more for VSCode!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.8/file/Leathong.openscad-language-support-1.0.8.vsix",
+      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.9/file/Leathong.openscad-language-support-1.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QqX8n0xWypo8Asa1hJyqpV9maYWmdTgdTMT4RGWUoqg="
+      "sha256": "sha256-0HdZSNWje5qc8K38Vio82ZNn5Rm75w4b0AKyap19OAI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16083,7 +16083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "robocorp-robotframework-lsp",
-    "version": "0.46.0",
+    "version": "0.47.0",
     "passthru": {
       "name": "robotframework-lsp",
       "license": "Apache 2.0",
@@ -16091,10 +16091,10 @@
       "description": "VSCode extension support for Robot Framework"
     },
     "src": {
-      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.46.0/file/robocorp.robotframework-lsp-0.46.0.vsix",
+      "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.47.0/file/robocorp.robotframework-lsp-0.47.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Mi80PY5LgSYt2hN2qbWcOpqhuJB1fehji6ky2hL9tRU="
+      "sha256": "sha256-eVERawgBbqOzJb/mvrPH5Ax7qMLe4kThowUvVz3BN/o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31743,7 +31743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.956",
+    "version": "31.0.957",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31751,10 +31751,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.956/file/Prisma.prisma-insider-31.0.956.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.957/file/Prisma.prisma-insider-31.0.957.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-MmDnKIetBUO5XgYxqqx6c/R6kULgVSOnbCUIMhZgd6Y="
+      "sha256": "sha256-wAhoMotbpDKxABizKpLVBAYUJYK/0XClyyto638AlG0="
     },
     "extract": null,
     "rustGitDeps": null

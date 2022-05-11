@@ -1767,10 +1767,10 @@
   };
   JustBrenny-hero-heroku = {
     pname = "JustBrenny-hero-heroku";
-    version = "1.7.1";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.1/file/JustBrenny.hero-heroku-1.7.1.vsix";
-      sha256 = "sha256-OVNDmrcya+FMebF0+OVl+8JHNNvAuZqAolWStYkBG5w=";
+      url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.2/file/JustBrenny.hero-heroku-1.7.2.vsix";
+      sha256 = "sha256-TQKk0KKxp7HodcZt4PtDod3JmlAoKvmoXgSZEctME90=";
     };
     name = "hero-heroku";
     license = "GPL-3.0-or-later";
@@ -1899,10 +1899,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.8/file/Leathong.openscad-language-support-1.0.8.vsix";
-      sha256 = "sha256-QqX8n0xWypo8Asa1hJyqpV9maYWmdTgdTMT4RGWUoqg=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.9/file/Leathong.openscad-language-support-1.0.9.vsix";
+      sha256 = "sha256-0HdZSNWje5qc8K38Vio82ZNn5Rm75w4b0AKyap19OAI=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
@@ -2787,10 +2787,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.956";
+    version = "31.0.957";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.956/file/Prisma.prisma-insider-31.0.956.vsix";
-      sha256 = "sha256-MmDnKIetBUO5XgYxqqx6c/R6kULgVSOnbCUIMhZgd6Y=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.957/file/Prisma.prisma-insider-31.0.957.vsix";
+      sha256 = "sha256-wAhoMotbpDKxABizKpLVBAYUJYK/0XClyyto638AlG0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6771,10 +6771,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.2.0";
+    version = "5.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.0/file/cyrilletuzi.angular-schematics-5.2.0.vsix";
-      sha256 = "sha256-G4kzYQGxYqHagESO0I7pVE/Ajte52sVRwm1ft0rz/DE=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.1/file/cyrilletuzi.angular-schematics-5.2.1.vsix";
+      sha256 = "sha256-3aMAqpmwf+WTNDGpiEe06EXqNga12wKzi63y/1E5w/w=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -11559,10 +11559,10 @@
   };
   lefd-sweetdracula-monokai = {
     pname = "lefd-sweetdracula-monokai";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.2/file/lefd.sweetdracula-monokai-1.1.2.vsix";
-      sha256 = "sha256-jWKOZocGStseA+PAv8z9qbMx903W1F+3JJQ4iOhjjJY=";
+      url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.3/file/lefd.sweetdracula-monokai-1.1.3.vsix";
+      sha256 = "sha256-2pqvt4DV35QDHCXAIiRt+JqsZ1HDyUUAAdjrHBo9rPs=";
     };
     name = "sweetdracula-monokai";
     license = "MIT";
@@ -15759,10 +15759,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.46.0";
+    version = "0.47.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.46.0/file/robocorp.robotframework-lsp-0.46.0.vsix";
-      sha256 = "sha256-Mi80PY5LgSYt2hN2qbWcOpqhuJB1fehji6ky2hL9tRU=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.47.0/file/robocorp.robotframework-lsp-0.47.0.vsix";
+      sha256 = "sha256-eVERawgBbqOzJb/mvrPH5Ax7qMLe4kThowUvVz3BN/o=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
