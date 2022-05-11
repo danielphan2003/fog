@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6172";
+    version = "1.0.6174";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6172.tar.bz2";
-      sha256 = "sha256-RyGigOoyxYVRQtihqJv0lPvpUKs5KM+swKbB3bZMU4w=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6174.tar.bz2";
+      sha256 = "sha256-OuKb/jnj3EIO+JqDbnKOgi7ehyaJSZ+RZQ7PYVyv0j4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6172";
+    version = "1.0.6174";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6172-1_all.deb";
-      sha256 = "sha256-L8KXL8eBGen9ZrXcPpu6bGS84xB6Z/xZT+cEHQvCFfY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6174-1_all.deb";
+      sha256 = "sha256-9eNpV8ksiUMF5+BIAODCuE5aR6RQcAfzoLSgNAm439c=";
     };
   };
   jitsi-videobridge2 = {
@@ -1160,13 +1160,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "b7a2aae11bd91ca2df59bdc797f4b3a83c9fe0d1";
+    version = "73a408e62b43464372d6179d749ecdd1b53089b7";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "b7a2aae11bd91ca2df59bdc797f4b3a83c9fe0d1";
+      rev = "73a408e62b43464372d6179d749ecdd1b53089b7";
       fetchSubmodules = false;
-      sha256 = "sha256-UKfVXtMBjzWfVFW/yFFsvrYp4sGTbjsKTFreFtqpaxc=";
+      sha256 = "sha256-7Bbkjbh6nZdYot0tJMWFuW1Jnl9U4KOLN/n+z92UWh4=";
     });
   };
   widevine-cdm = {
