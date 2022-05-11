@@ -29163,7 +29163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.17.8",
+    "version": "0.19.1",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29171,10 +29171,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.17.8/file/znck.grammarly-0.17.8.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.19.1/file/znck.grammarly-0.19.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/JgMN6cignFyGOpC6XRe6OOOBAML7mrdTcgqhE9a9ek="
+      "sha256": "sha256-lzHqqHB0k6GHKHHRnscTCkHEYEulNULV07h7Jz2AnHk="
     },
     "extract": null,
     "rustGitDeps": null

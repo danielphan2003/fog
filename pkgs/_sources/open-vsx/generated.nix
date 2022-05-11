@@ -21003,10 +21003,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.17.8";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.17.8/file/znck.grammarly-0.17.8.vsix";
-      sha256 = "sha256-/JgMN6cignFyGOpC6XRe6OOOBAML7mrdTcgqhE9a9ek=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.19.1/file/znck.grammarly-0.19.1.vsix";
+      sha256 = "sha256-lzHqqHB0k6GHKHHRnscTCkHEYEulNULV07h7Jz2AnHk=";
     };
     name = "grammarly";
     license = "MIT";
