@@ -1899,15 +1899,15 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.0.9";
+    version = "1.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.9/file/Leathong.openscad-language-support-1.0.9.vsix";
-      sha256 = "sha256-0HdZSNWje5qc8K38Vio82ZNn5Rm75w4b0AKyap19OAI=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.10/file/Leathong.openscad-language-support-1.0.10.vsix";
+      sha256 = "sha256-Ta1c29C/7AwssL5pXc0X2TwreqOy6a289OyBrf8aRu8=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
     publisher = "Leathong";
-    description = "OpenSCAD language server, provide highlight, auto-completion, document symbols, and more for VSCode!";
+    description = "Maybe the best extension for OpenSCAD so far. Provide auto-completion, document symbols, and more for VSCode!";
   };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
@@ -15759,10 +15759,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.47.0";
+    version = "0.47.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.47.0/file/robocorp.robotframework-lsp-0.47.0.vsix";
-      sha256 = "sha256-eVERawgBbqOzJb/mvrPH5Ax7qMLe4kThowUvVz3BN/o=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.47.2/file/robocorp.robotframework-lsp-0.47.2.vsix";
+      sha256 = "sha256-dOLXJ/0dJv2CwwgEBaH1Ia5bRQbfKovvSSmriXuAKxA=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
