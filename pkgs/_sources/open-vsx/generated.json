@@ -29763,7 +29763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.16.1",
+    "version": "0.17.0",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
@@ -29771,10 +29771,10 @@
       "description": "Language support for Astro"
     },
     "src": {
-      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.16.1/file/astro-build.astro-vscode-0.16.1.vsix",
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.17.0/file/astro-build.astro-vscode-0.17.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nQHZCRWy6s74tkv47bnUOUTlK1eBy2YxfLHEpOUvWBo="
+      "sha256": "sha256-y4zwEPPZQ5BL1Tl63MlZXaH8cUEDn6Gpg3QnitJpnAI="
     },
     "extract": null,
     "rustGitDeps": null

@@ -5175,10 +5175,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.16.1";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.16.1/file/astro-build.astro-vscode-0.16.1.vsix";
-      sha256 = "sha256-nQHZCRWy6s74tkv47bnUOUTlK1eBy2YxfLHEpOUvWBo=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.17.0/file/astro-build.astro-vscode-0.17.0.vsix";
+      sha256 = "sha256-y4zwEPPZQ5BL1Tl63MlZXaH8cUEDn6Gpg3QnitJpnAI=";
     };
     name = "astro-vscode";
     license = "MIT";
