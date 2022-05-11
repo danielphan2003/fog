@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.957";
+    version = "31.0.959";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.957/file/Prisma.prisma-insider-31.0.957.vsix";
-      sha256 = "sha256-wAhoMotbpDKxABizKpLVBAYUJYK/0XClyyto638AlG0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.959/file/Prisma.prisma-insider-31.0.959.vsix";
+      sha256 = "sha256-9BHuVvARc1GzUztwFJozc45z36+3PnPObGAACpJtXJY=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5499,10 +5499,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.8/file/betterthantomorrow.joyride-0.0.8.vsix";
-      sha256 = "sha256-OQhIvagnHAiHuER8fC2mCorUqk6NBBrkfMd88HS3hM0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.9/file/betterthantomorrow.joyride-0.0.9.vsix";
+      sha256 = "sha256-mkF6tzpRbdggCAbL6qx2PwMfP+fRBk63Kwu6hQpU0c4=";
     };
     name = "joyride";
     license = "MIT";
@@ -21003,10 +21003,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.19.4";
+    version = "0.19.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.19.4/file/znck.grammarly-0.19.4.vsix";
-      sha256 = "sha256-RriEeYfqH3wrnLQfn3aPMOM52G0E5lTYIVJCOtmUHjk=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.19.5/file/znck.grammarly-0.19.5.vsix";
+      sha256 = "sha256-jJ4n5BRn4cpOWN+9wui4g7GEDrNVQESj0cdVAGuMIoc=";
     };
     name = "grammarly";
     license = "MIT";
