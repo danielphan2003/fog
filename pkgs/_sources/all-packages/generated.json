@@ -789,7 +789,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bling",
-    "version": "c20aa6daea6b9887d2430ac9e62cb70514d23cbe",
+    "version": "6e4ecb334c3764483d04b4e6bfc15abf98043bef",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -799,8 +799,8 @@
       "name": null,
       "repo": "bling",
       "type": "github",
-      "sha256": "sha256-rAV9jmFy06S7dND1vzmb3ybFYkPl1FYLcywB2SuAdsQ=",
-      "rev": "c20aa6daea6b9887d2430ac9e62cb70514d23cbe"
+      "sha256": "sha256-TBEaxHRYtEyOVxtym/IaXuq0CVbizWTx8mAqIRww/r4=",
+      "rev": "6e4ecb334c3764483d04b4e6bfc15abf98043bef"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1067,7 +1067,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-icon-theme",
-    "version": "73a408e62b43464372d6179d749ecdd1b53089b7",
+    "version": "e5dbd00be4dca45b65810da134911fff0c4059c1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1077,8 +1077,8 @@
       "name": null,
       "repo": "whitesur-icon-theme",
       "type": "github",
-      "sha256": "sha256-7Bbkjbh6nZdYot0tJMWFuW1Jnl9U4KOLN/n+z92UWh4=",
-      "rev": "73a408e62b43464372d6179d749ecdd1b53089b7"
+      "sha256": "sha256-L6gLbFBOr7ZHpOzeHF8GTPPwh8WjAlrAA8i7MzZweys=",
+      "rev": "e5dbd00be4dca45b65810da134911fff0c4059c1"
     },
     "extract": null,
     "rustGitDeps": null
