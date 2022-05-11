@@ -29143,7 +29143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.19.5",
+    "version": "0.19.6",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29151,10 +29151,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.19.5/file/znck.grammarly-0.19.5.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.19.6/file/znck.grammarly-0.19.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jJ4n5BRn4cpOWN+9wui4g7GEDrNVQESj0cdVAGuMIoc="
+      "sha256": "sha256-o8JdQ7yiqWrJYqXBjKWQv0Cx7PU0R1s0jeW3fQqMRt0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32443,7 +32443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.272",
+    "version": "2.0.273",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -32451,10 +32451,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.272/file/betterthantomorrow.calva-2.0.272.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.273/file/betterthantomorrow.calva-2.0.273.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f2wA9Ps8ANt/1y59VOsjFarlkWhxWE9afJL6s7Xe814="
+      "sha256": "sha256-oXyZy11n781YYNQPrVxE+QH30TNKSDHKM8Pl89xt884="
     },
     "extract": null,
     "rustGitDeps": null
