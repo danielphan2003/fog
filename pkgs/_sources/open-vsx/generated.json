@@ -24899,26 +24899,6 @@
     "extract": null,
     "rustGitDeps": null
   },
-  "LonHutt-sfdx-vscode-internal-dev-pack": {
-    "pinned": false,
-    "cargoLock": null,
-    "name": "LonHutt-sfdx-vscode-internal-dev-pack",
-    "version": "0.0.2",
-    "passthru": {
-      "name": "sfdx-vscode-internal-dev-pack",
-      "license": "MIT",
-      "publisher": "LonHutt",
-      "description": ""
-    },
-    "src": {
-      "url": "https://open-vsx.org/api/LonHutt/sfdx-vscode-internal-dev-pack/0.0.2/file/LonHutt.sfdx-vscode-internal-dev-pack-0.0.2.vsix",
-      "name": null,
-      "type": "url",
-      "sha256": "sha256-Ir6pSJwsePwGOPfP1eh1IGdVViF/1YaJcwljJg6XMFc="
-    },
-    "extract": null,
-    "rustGitDeps": null
-  },
   "masonliu-exercism": {
     "pinned": false,
     "cargoLock": null,

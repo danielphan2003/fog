@@ -1933,18 +1933,6 @@
     publisher = "LeonardSSH";
     description = "Fully customizable VS Code extension to get Discord Rich Presence integration";
   };
-  LonHutt-sfdx-vscode-internal-dev-pack = {
-    pname = "LonHutt-sfdx-vscode-internal-dev-pack";
-    version = "0.0.2";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/LonHutt/sfdx-vscode-internal-dev-pack/0.0.2/file/LonHutt.sfdx-vscode-internal-dev-pack-0.0.2.vsix";
-      sha256 = "sha256-Ir6pSJwsePwGOPfP1eh1IGdVViF/1YaJcwljJg6XMFc=";
-    };
-    name = "sfdx-vscode-internal-dev-pack";
-    license = "MIT";
-    publisher = "LonHutt";
-    description = "";
-  };
   LoyieKing-smalise = {
     pname = "LoyieKing-smalise";
     version = "0.0.8";
