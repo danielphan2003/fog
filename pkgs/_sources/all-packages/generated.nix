@@ -303,13 +303,13 @@
   };
   duf = {
     pname = "duf";
-    version = "93d7e30adabc1b5b1a1a9901487472bf45c64d4c";
+    version = "67895e4565a694404489e8e23ffecb5d679b2e68";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "93d7e30adabc1b5b1a1a9901487472bf45c64d4c";
+      rev = "67895e4565a694404489e8e23ffecb5d679b2e68";
       fetchSubmodules = false;
-      sha256 = "sha256-J5X07n5N1tJy2SRnMSAqgEHWFs1awYp4qgej4wGCXms=";
+      sha256 = "sha256-K1dWqcwKSxcGkoMsuMeCdkxzKM6QPw5oc8Yoj7lX/Oc=";
     });
   };
   eww = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d4d72ae54d1426e0f4573319427f6ea53ef27b19";
+    version = "1d21e5303beeb92c083b8ed00b7da1a4ea82b309";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d4d72ae54d1426e0f4573319427f6ea53ef27b19";
+      rev = "1d21e5303beeb92c083b8ed00b7da1a4ea82b309";
       fetchSubmodules = false;
-      sha256 = "sha256-+i1sXpRNdeFKkMy2rkORJiRDpHYYHyZ+V3BuU34dAMY=";
+      sha256 = "sha256-LOIdbbxM8oqloMtKhtJ56/J0JvE3AdGox3xoLfV5xKw=";
     });
   };
   ibus = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-682-g0192d75e";
+    version = "2.1-683-g56f0b817";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-682-g0192d75e-1_all.deb";
-      sha256 = "sha256-+KglTsW8y2idKxomf7dD4PTmJE+Fo6PH/7HVzdkUBdc=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-683-g56f0b817-1_all.deb";
+      sha256 = "sha256-wpFE7o9mTZxmTvWnM2dzUjMM9p8XDAPz7l3Q4hlBxc0=";
     };
   };
   layout-machi = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "1e20041057873747334fcd40fbd0c47e69478158";
+    version = "614be61ca12dbfbbff9c3497bdc393c8883cb445";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "1e20041057873747334fcd40fbd0c47e69478158";
+      rev = "614be61ca12dbfbbff9c3497bdc393c8883cb445";
       fetchSubmodules = false;
-      sha256 = "sha256-bGA1VfiTod7YifaxQxV+b5N24jp/gXdcccIWd1mHBH0=";
+      sha256 = "sha256-heIv//KgpOCsziqQXZLwvZeGd52NN+afwPfprZ1z2iE=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-1e20041057873747334fcd40fbd0c47e69478158/Cargo.lock;
+      lockFile = ./rustdesk-614be61ca12dbfbbff9c3497bdc393c8883cb445/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
@@ -1147,13 +1147,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "923ef117c8b266c0f3581b6019d0aa62d57056f1";
+    version = "e31ad8ac62aff5382f0c3b930547e862cba18066";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "923ef117c8b266c0f3581b6019d0aa62d57056f1";
+      rev = "e31ad8ac62aff5382f0c3b930547e862cba18066";
       fetchSubmodules = false;
-      sha256 = "sha256-FeQDkFCd3jOqAq1MvtwDHLbu6efss5qyBlxi/aWyK/8=";
+      sha256 = "sha256-ivr5LSbU521MSsiqPOHb+ykhtdLyyol+/L8ko0ZAu/E=";
     });
   };
   whitesur-icon-theme = {
