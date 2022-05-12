@@ -519,15 +519,15 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.15.0";
+    version = "12.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.15.0/file/CodeStream.codestream-12.15.0.vsix";
-      sha256 = "sha256-1eQs2Ze7EZ5sgv3NVEzHu5SqqZh1n8XcjIL7eYWYX4Q=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/12.17.0/file/CodeStream.codestream-12.17.0.vsix";
+      sha256 = "sha256-6IyQjUOO5JRdg1FLhKba0mUTtANnkertHYCyBDjFYnM=";
     };
     name = "codestream";
     license = "UNLICENSED";
     publisher = "CodeStream";
-    description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic One observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.";
+    description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.";
   };
   CodeStream-github-enterprise = {
     pname = "CodeStream-github-enterprise";
@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.965";
+    version = "31.0.967";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.965/file/Prisma.prisma-insider-31.0.965.vsix";
-      sha256 = "sha256-RWXXyiqWoq6oe84rKMp3Vjovp4bsfXgK0Kr0mt9171k=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.967/file/Prisma.prisma-insider-31.0.967.vsix";
+      sha256 = "sha256-ojDRy0ef/eAZGuZJEb0fUE6VbTtlc328figyMbexg5c=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -4944,6 +4944,18 @@
     license = "MIT";
     publisher = "armandphilippot";
     description = "A blue-grey theme with light & dark versions.";
+  };
+  arnoudkooicom-sn-scriptsync = {
+    pname = "arnoudkooicom-sn-scriptsync";
+    version = "2.3.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.2/file/arnoudkooicom.sn-scriptsync-2.3.2.vsix";
+      sha256 = "sha256-GDzDTdwUa2Jjw3dkB0alNQdiaSstxMMqrOjAy8BI5Es=";
+    };
+    name = "sn-scriptsync";
+    license = "MIT";
+    publisher = "arnoudkooicom";
+    description = "ServiceNow ScriptSync for VS Code. (Personal work of Arnoud Kooi)";
   };
   arrterian-nix-env-selector = {
     pname = "arrterian-nix-env-selector";
