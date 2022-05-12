@@ -327,10 +327,10 @@
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.1.0/file/BroadcomMFD.hlasm-language-support-1.1.0.vsix";
-      sha256 = "sha256-4Rf/YZlU29chAxSlZix/3hlMLpgWmeFnLyTja+FmrU4=";
+      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.2.0/file/BroadcomMFD.hlasm-language-support-1.2.0.vsix";
+      sha256 = "sha256-+llP36IAn0FN7klaGuV+a7550nPguwfwdm4IvC82hy4=";
     };
     name = "hlasm-language-support";
     license = "EPL-2.0";
@@ -7191,10 +7191,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.94.1";
+    version = "0.94.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.94.1/file/dendron.nightly-0.94.1.vsix";
-      sha256 = "sha256-98BukNDVIBtlkhBopBCiNWmv4WxhAAVHEP0IiOwNBeI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.94.2/file/dendron.nightly-0.94.2.vsix";
+      sha256 = "sha256-hRSrb/l3La8KF0L/0vSmxZTdBMK/vxKZVPcjCkAgvRg=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -14115,10 +14115,10 @@
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.6/file/openra.vscode-openra-lua-0.0.6.vsix";
-      sha256 = "sha256-Ds6wt7G4Ipo09m1uTt0UNz7OY/ChtCIvx8szzo4KM6M=";
+      url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.7/file/openra.vscode-openra-lua-0.0.7.vsix";
+      sha256 = "sha256-xOqln5Z/PucIY98X9fcksZ1WYRXpd/0vjHvW3ThRl1c=";
     };
     name = "vscode-openra-lua";
     license = "GPL-3.0";

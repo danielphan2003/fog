@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.94.1",
+    "version": "0.94.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.94.1/file/dendron.nightly-0.94.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.94.2/file/dendron.nightly-0.94.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-98BukNDVIBtlkhBopBCiNWmv4WxhAAVHEP0IiOwNBeI="
+      "sha256": "sha256-hRSrb/l3La8KF0L/0vSmxZTdBMK/vxKZVPcjCkAgvRg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4023,7 +4023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-hlasm-language-support",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "passthru": {
       "name": "hlasm-language-support",
       "license": "EPL-2.0",
@@ -4031,10 +4031,10 @@
       "description": "Code completion, highlighting, browsing and validation for High Level Assembler."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.1.0/file/BroadcomMFD.hlasm-language-support-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.2.0/file/BroadcomMFD.hlasm-language-support-1.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4Rf/YZlU29chAxSlZix/3hlMLpgWmeFnLyTja+FmrU4="
+      "sha256": "sha256-+llP36IAn0FN7klaGuV+a7550nPguwfwdm4IvC82hy4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7423,7 +7423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "openra-vscode-openra-lua",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "passthru": {
       "name": "vscode-openra-lua",
       "license": "GPL-3.0",
@@ -7431,10 +7431,10 @@
       "description": "Adds game scripting API and map globals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.6/file/openra.vscode-openra-lua-0.0.6.vsix",
+      "url": "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.7/file/openra.vscode-openra-lua-0.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ds6wt7G4Ipo09m1uTt0UNz7OY/ChtCIvx8szzo4KM6M="
+      "sha256": "sha256-xOqln5Z/PucIY98X9fcksZ1WYRXpd/0vjHvW3ThRl1c="
     },
     "extract": null,
     "rustGitDeps": null
