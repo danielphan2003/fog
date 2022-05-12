@@ -11839,6 +11839,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "obliviousharmony-vscode-php-codesniffer": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "obliviousharmony-vscode-php-codesniffer",
+    "version": "1.6.0",
+    "passthru": {
+      "name": "vscode-php-codesniffer",
+      "license": "GPL-2.0-or-later",
+      "publisher": "obliviousharmony",
+      "description": "Brings PHPCS support to VS Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/obliviousharmony/vscode-php-codesniffer/1.6.0/file/obliviousharmony.vscode-php-codesniffer-1.6.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-f9ZMDlz/fRpLyd7RWkXg1DyN2Ci0l4wXRwSHhqarALc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "arzg-noel": {
     "pinned": false,
     "cargoLock": null,
@@ -22203,7 +22223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DCsunset-vscode-modal-editor",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "passthru": {
       "name": "vscode-modal-editor",
       "license": "AGPL-3.0",
@@ -22211,10 +22231,10 @@
       "description": "Customizable extension to turn VS Code into a modal editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.0/file/DCsunset.vscode-modal-editor-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.1/file/DCsunset.vscode-modal-editor-1.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-49ftZ3tTvTk5OXHryubDD38nK4QmHp2tpYR10hWNlEY="
+      "sha256": "sha256-Uq1xS8LW5forjlPkhCpzUe/0Srd5MxGOGxGNAy+yHXs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29143,7 +29163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.19.6",
+    "version": "0.19.7",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29151,10 +29171,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.19.6/file/znck.grammarly-0.19.6.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.19.7/file/znck.grammarly-0.19.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-o8JdQ7yiqWrJYqXBjKWQv0Cx7PU0R1s0jeW3fQqMRt0="
+      "sha256": "sha256-ohqDEMZX631QJ7g+hsxFcTAP83ACL4s3NRU8SNCv1aA="
     },
     "extract": null,
     "rustGitDeps": null

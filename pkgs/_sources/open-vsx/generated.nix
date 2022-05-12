@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.0/file/DCsunset.vscode-modal-editor-1.1.0.vsix";
-      sha256 = "sha256-49ftZ3tTvTk5OXHryubDD38nK4QmHp2tpYR10hWNlEY=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.1/file/DCsunset.vscode-modal-editor-1.1.1.vsix";
+      sha256 = "sha256-Uq1xS8LW5forjlPkhCpzUe/0Srd5MxGOGxGNAy+yHXs=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -13921,6 +13921,18 @@
     publisher = "o-dka";
     description = "An icon theme for Visual Studio Code taking its inspiration from classic versions of Visual Studio prior to 2012.";
   };
+  obliviousharmony-vscode-php-codesniffer = {
+    pname = "obliviousharmony-vscode-php-codesniffer";
+    version = "1.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/obliviousharmony/vscode-php-codesniffer/1.6.0/file/obliviousharmony.vscode-php-codesniffer-1.6.0.vsix";
+      sha256 = "sha256-f9ZMDlz/fRpLyd7RWkXg1DyN2Ci0l4wXRwSHhqarALc=";
+    };
+    name = "vscode-php-codesniffer";
+    license = "GPL-2.0-or-later";
+    publisher = "obliviousharmony";
+    description = "Brings PHPCS support to VS Code.";
+  };
   obostjancic-kolorkross = {
     pname = "obostjancic-kolorkross";
     version = "0.3.0";
@@ -21003,10 +21015,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.19.6";
+    version = "0.19.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.19.6/file/znck.grammarly-0.19.6.vsix";
-      sha256 = "sha256-o8JdQ7yiqWrJYqXBjKWQv0Cx7PU0R1s0jeW3fQqMRt0=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.19.7/file/znck.grammarly-0.19.7.vsix";
+      sha256 = "sha256-ohqDEMZX631QJ7g+hsxFcTAP83ACL4s3NRU8SNCv1aA=";
     };
     name = "grammarly";
     license = "MIT";
