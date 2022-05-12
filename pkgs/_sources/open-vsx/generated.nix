@@ -5043,10 +5043,10 @@
   };
   arzg-intellij-theme = {
     pname = "arzg-intellij-theme";
-    version = "1.10.0";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/intellij-theme/1.10.0/file/arzg.intellij-theme-1.10.0.vsix";
-      sha256 = "sha256-Vs68KnasOT/F6dRrukYWPYKWwS0M3iBaLQf3qDMeiS4=";
+      url = "https://open-vsx.org/api/arzg/intellij-theme/1.11.0/file/arzg.intellij-theme-1.11.0.vsix";
+      sha256 = "sha256-+sUyYFHCpkOpMKXjYbji2B+IUnea9P8LTavIDaGv/ZY=";
     };
     name = "intellij-theme";
     license = "MIT";
