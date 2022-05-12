@@ -1067,7 +1067,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-icon-theme",
-    "version": "e5dbd00be4dca45b65810da134911fff0c4059c1",
+    "version": "d5a12198bb4a37dfe1062c3aab80a09f87d5d4f0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1077,8 +1077,8 @@
       "name": null,
       "repo": "whitesur-icon-theme",
       "type": "github",
-      "sha256": "sha256-L6gLbFBOr7ZHpOzeHF8GTPPwh8WjAlrAA8i7MzZweys=",
-      "rev": "e5dbd00be4dca45b65810da134911fff0c4059c1"
+      "sha256": "sha256-lGRpwdIjXC+uTgSjCKBe1cjnkXmhNfF7oIjGbyXA7NY=",
+      "rev": "d5a12198bb4a37dfe1062c3aab80a09f87d5d4f0"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1446,13 +1446,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jibri",
-    "version": "8.0-132-g57fbc91",
+    "version": "8.0-133-gd4563ce",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jibri_8.0-132-g57fbc91-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jibri_8.0-133-gd4563ce-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jzHM+DihHGZzAGPUcjl0+0rrNfbumgypjiTGyvA6Q0w="
+      "sha256": "sha256-EaixtvVxHD67Pz5dp4erTx/WPBjM4o+SQsekEjf9QN4="
     },
     "extract": null,
     "rustGitDeps": null

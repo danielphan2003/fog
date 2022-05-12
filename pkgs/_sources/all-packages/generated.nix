@@ -421,10 +421,10 @@
   };
   jibri = {
     pname = "jibri";
-    version = "8.0-132-g57fbc91";
+    version = "8.0-133-gd4563ce";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jibri_8.0-132-g57fbc91-1_all.deb";
-      sha256 = "sha256-jzHM+DihHGZzAGPUcjl0+0rrNfbumgypjiTGyvA6Q0w=";
+      url = "https://download.jitsi.org/unstable/jibri_8.0-133-gd4563ce-1_all.deb";
+      sha256 = "sha256-EaixtvVxHD67Pz5dp4erTx/WPBjM4o+SQsekEjf9QN4=";
     };
   };
   jicofo = {
@@ -1160,13 +1160,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "e5dbd00be4dca45b65810da134911fff0c4059c1";
+    version = "d5a12198bb4a37dfe1062c3aab80a09f87d5d4f0";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "e5dbd00be4dca45b65810da134911fff0c4059c1";
+      rev = "d5a12198bb4a37dfe1062c3aab80a09f87d5d4f0";
       fetchSubmodules = false;
-      sha256 = "sha256-L6gLbFBOr7ZHpOzeHF8GTPPwh8WjAlrAA8i7MzZweys=";
+      sha256 = "sha256-lGRpwdIjXC+uTgSjCKBe1cjnkXmhNfF7oIjGbyXA7NY=";
     });
   };
   widevine-cdm = {
