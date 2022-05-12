@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6174",
+    "version": "1.0.6175",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6174-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6175-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9eNpV8ksiUMF5+BIAODCuE5aR6RQcAfzoLSgNAm439c="
+      "sha256": "sha256-I2zac6DtLX3GloyIP0lLVtbYlfR14FL/jxrTzHOj5AA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6174",
+    "version": "1.0.6175",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6174.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6175.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OuKb/jnj3EIO+JqDbnKOgi7ehyaJSZ+RZQ7PYVyv0j4="
+      "sha256": "sha256-8wMYMzTJF7ZIQ7fN7HuG/vRtXZKdXMDJG72DiKlw1/U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "84ebab40b1aef6d117abfee0b11f1995e7fda09e",
+    "version": "b2bdf1efc90f96e6358b993d9ff6dbeb3ee96f42",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-kRxmBxX6YOP2T+UqcFFSBzlCDFRc8N8CMrPMaNF7E8w=",
-      "rev": "84ebab40b1aef6d117abfee0b11f1995e7fda09e"
+      "sha256": "sha256-X4u256DmicorMMvBGEudn3pcMtPS+fKPgF7EuuPxwb4=",
+      "rev": "b2bdf1efc90f96e6358b993d9ff6dbeb3ee96f42"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-16dde95e798cb5eeb28e7b11d5c3d46e79eb39d2/Cargo.lock",
+    "cargoLock": "./rustdesk-1e20041057873747334fcd40fbd0c47e69478158/Cargo.lock",
     "name": "rustdesk",
-    "version": "16dde95e798cb5eeb28e7b11d5c3d46e79eb39d2",
+    "version": "1e20041057873747334fcd40fbd0c47e69478158",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2128,7 +2128,7 @@
       "repo": "rustdesk",
       "type": "github",
       "sha256": "sha256-bGA1VfiTod7YifaxQxV+b5N24jp/gXdcccIWd1mHBH0=",
-      "rev": "16dde95e798cb5eeb28e7b11d5c3d46e79eb39d2"
+      "rev": "1e20041057873747334fcd40fbd0c47e69478158"
     },
     "extract": null,
     "rustGitDeps": {

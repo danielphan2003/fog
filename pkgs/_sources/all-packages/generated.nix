@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6174";
+    version = "1.0.6175";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6174.tar.bz2";
-      sha256 = "sha256-OuKb/jnj3EIO+JqDbnKOgi7ehyaJSZ+RZQ7PYVyv0j4=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6175.tar.bz2";
+      sha256 = "sha256-8wMYMzTJF7ZIQ7fN7HuG/vRtXZKdXMDJG72DiKlw1/U=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6174";
+    version = "1.0.6175";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6174-1_all.deb";
-      sha256 = "sha256-9eNpV8ksiUMF5+BIAODCuE5aR6RQcAfzoLSgNAm439c=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6175-1_all.deb";
+      sha256 = "sha256-I2zac6DtLX3GloyIP0lLVtbYlfR14FL/jxrTzHOj5AA=";
     };
   };
   jitsi-videobridge2 = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "16dde95e798cb5eeb28e7b11d5c3d46e79eb39d2";
+    version = "1e20041057873747334fcd40fbd0c47e69478158";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "16dde95e798cb5eeb28e7b11d5c3d46e79eb39d2";
+      rev = "1e20041057873747334fcd40fbd0c47e69478158";
       fetchSubmodules = false;
       sha256 = "sha256-bGA1VfiTod7YifaxQxV+b5N24jp/gXdcccIWd1mHBH0=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-16dde95e798cb5eeb28e7b11d5c3d46e79eb39d2/Cargo.lock;
+      lockFile = ./rustdesk-1e20041057873747334fcd40fbd0c47e69478158/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
@@ -902,14 +902,14 @@
   };
   snui = {
     pname = "snui";
-    version = "84ebab40b1aef6d117abfee0b11f1995e7fda09e";
+    version = "b2bdf1efc90f96e6358b993d9ff6dbeb3ee96f42";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "84ebab40b1aef6d117abfee0b11f1995e7fda09e";
+      rev = "b2bdf1efc90f96e6358b993d9ff6dbeb3ee96f42";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-kRxmBxX6YOP2T+UqcFFSBzlCDFRc8N8CMrPMaNF7E8w=";
+      sha256 = "sha256-X4u256DmicorMMvBGEudn3pcMtPS+fKPgF7EuuPxwb4=";
     };
   };
   spicetify-cli = {
