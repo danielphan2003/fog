@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6175",
+    "version": "1.0.6176",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6175-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6176-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-I2zac6DtLX3GloyIP0lLVtbYlfR14FL/jxrTzHOj5AA="
+      "sha256": "sha256-p3M/nNTbeWhmbQ8UiMYcBayKYiaYpfKGfB5Q8nt+5Oo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6175",
+    "version": "1.0.6176",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6175.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6176.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8wMYMzTJF7ZIQ7fN7HuG/vRtXZKdXMDJG72DiKlw1/U="
+      "sha256": "sha256-hiuPUfnupWwLcJgyFLjzUmymBTEZmoPqZUxsVuxBvVw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1067,7 +1067,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-icon-theme",
-    "version": "d5a12198bb4a37dfe1062c3aab80a09f87d5d4f0",
+    "version": "ec2f88b8ef7ee47f8544f6dd420cf755bad03d2b",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1077,8 +1077,8 @@
       "name": null,
       "repo": "whitesur-icon-theme",
       "type": "github",
-      "sha256": "sha256-lGRpwdIjXC+uTgSjCKBe1cjnkXmhNfF7oIjGbyXA7NY=",
-      "rev": "d5a12198bb4a37dfe1062c3aab80a09f87d5d4f0"
+      "sha256": "sha256-gq8sI9M86mEfLdOr5TjXiZI38Va5VcplBrXNpgFpW3M=",
+      "rev": "ec2f88b8ef7ee47f8544f6dd420cf755bad03d2b"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "1d21e5303beeb92c083b8ed00b7da1a4ea82b309",
+    "version": "bef4d7c9b74029d0752f99291e007bba593b9b08",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-LOIdbbxM8oqloMtKhtJ56/J0JvE3AdGox3xoLfV5xKw=",
-      "rev": "1d21e5303beeb92c083b8ed00b7da1a4ea82b309"
+      "sha256": "sha256-3uKuew7/qJ7ZwvnW10/YLTa2b3Xal5w+Q/WsBiDSofg=",
+      "rev": "bef4d7c9b74029d0752f99291e007bba593b9b08"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-614be61ca12dbfbbff9c3497bdc393c8883cb445/Cargo.lock",
+    "cargoLock": "./rustdesk-45375517b960add9010667dcce867d1351f55a6e/Cargo.lock",
     "name": "rustdesk",
-    "version": "614be61ca12dbfbbff9c3497bdc393c8883cb445",
+    "version": "45375517b960add9010667dcce867d1351f55a6e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-heIv//KgpOCsziqQXZLwvZeGd52NN+afwPfprZ1z2iE=",
-      "rev": "614be61ca12dbfbbff9c3497bdc393c8883cb445"
+      "sha256": "sha256-8q/Rz5zODFdWHnxKOdCDyXE0iMpp2cPL0P+MhGWLx8M=",
+      "rev": "45375517b960add9010667dcce867d1351f55a6e"
     },
     "extract": null,
     "rustGitDeps": {
