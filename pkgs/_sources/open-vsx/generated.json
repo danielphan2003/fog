@@ -22283,7 +22283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DCsunset-vscode-modal-editor",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "passthru": {
       "name": "vscode-modal-editor",
       "license": "AGPL-3.0",
@@ -22291,10 +22291,10 @@
       "description": "Customizable extension to turn VS Code into a modal editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.1/file/DCsunset.vscode-modal-editor-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.2/file/DCsunset.vscode-modal-editor-1.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Uq1xS8LW5forjlPkhCpzUe/0Srd5MxGOGxGNAy+yHXs="
+      "sha256": "sha256-IpZ37IKNpq8XAUdDpkOw5AaND8+CzUsEGlq3hY0EhSs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31803,7 +31803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.967",
+    "version": "31.0.969",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -31811,10 +31811,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.967/file/Prisma.prisma-insider-31.0.967.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.969/file/Prisma.prisma-insider-31.0.969.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ojDRy0ef/eAZGuZJEb0fUE6VbTtlc328figyMbexg5c="
+      "sha256": "sha256-JkDOifrcnt9YHuJTLoFEgQVOKy0rz+/E6Ps9kgvOr9o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32523,7 +32523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.273",
+    "version": "2.0.274",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -32531,10 +32531,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.273/file/betterthantomorrow.calva-2.0.273.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.274/file/betterthantomorrow.calva-2.0.274.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oXyZy11n781YYNQPrVxE+QH30TNKSDHKM8Pl89xt884="
+      "sha256": "sha256-EUv0kGr5495ghyBpZzGUEiC2AJugDpWbXvNLKjSSAFQ="
     },
     "extract": null,
     "rustGitDeps": null

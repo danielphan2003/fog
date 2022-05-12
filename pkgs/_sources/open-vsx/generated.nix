@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.1/file/DCsunset.vscode-modal-editor-1.1.1.vsix";
-      sha256 = "sha256-Uq1xS8LW5forjlPkhCpzUe/0Srd5MxGOGxGNAy+yHXs=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.2/file/DCsunset.vscode-modal-editor-1.1.2.vsix";
+      sha256 = "sha256-IpZ37IKNpq8XAUdDpkOw5AaND8+CzUsEGlq3hY0EhSs=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.967";
+    version = "31.0.969";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.967/file/Prisma.prisma-insider-31.0.967.vsix";
-      sha256 = "sha256-ojDRy0ef/eAZGuZJEb0fUE6VbTtlc328figyMbexg5c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.969/file/Prisma.prisma-insider-31.0.969.vsix";
+      sha256 = "sha256-JkDOifrcnt9YHuJTLoFEgQVOKy0rz+/E6Ps9kgvOr9o=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5499,10 +5499,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.273";
+    version = "2.0.274";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.273/file/betterthantomorrow.calva-2.0.273.vsix";
-      sha256 = "sha256-oXyZy11n781YYNQPrVxE+QH30TNKSDHKM8Pl89xt884=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.274/file/betterthantomorrow.calva-2.0.274.vsix";
+      sha256 = "sha256-EUv0kGr5495ghyBpZzGUEiC2AJugDpWbXvNLKjSSAFQ=";
     };
     name = "calva";
     license = "MIT";
