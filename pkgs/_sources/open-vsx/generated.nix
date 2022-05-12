@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.916";
+    version = "2022.5.1115";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.916/file/Slint.slint-nightly-2022.5.916.vsix";
-      sha256 = "sha256-0Y4NY5D/SAeEmuMXuIJCNSBAoP2/J2v1OjD/9BSSlFQ=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1115/file/Slint.slint-nightly-2022.5.1115.vsix";
+      sha256 = "sha256-HFb4d55g2PgHyoEL7eQgZpmZPaYGq/seG97poVrevCU=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5547,10 +5547,10 @@
   };
   bierner-docs-view = {
     pname = "bierner-docs-view";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bierner/docs-view/0.0.10/file/bierner.docs-view-0.0.10.vsix";
-      sha256 = "sha256-7gMX1JKRXUHbkvcwXOezZ8SeQbMZRuCkgsDM67dIXMs=";
+      url = "https://open-vsx.org/api/bierner/docs-view/0.0.11/file/bierner.docs-view-0.0.11.vsix";
+      sha256 = "sha256-UCu3QVVTamW2RtgD7WQwmma5iWGOEsfLbi6d2iONenY=";
     };
     name = "docs-view";
     license = "MIT";
@@ -13827,10 +13827,10 @@
   };
   nonoroazoro-syncing = {
     pname = "nonoroazoro-syncing";
-    version = "3.1.0";
+    version = "3.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nonoroazoro/syncing/3.1.0/file/nonoroazoro.syncing-3.1.0.vsix";
-      sha256 = "sha256-h25DO23IhSphkUlBN4MOQavXDYtg7W0i3pKd8oOUtJg=";
+      url = "https://open-vsx.org/api/nonoroazoro/syncing/3.2.0/file/nonoroazoro.syncing-3.2.0.vsix";
+      sha256 = "sha256-aHh53PeqOgfae2UdXpbzQ0EJfm2YsnlPzaPyrkeAXsk=";
     };
     name = "syncing";
     license = "(MIT AND 996ICU)";
