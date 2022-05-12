@@ -6795,10 +6795,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.12.1";
+    version = "0.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.12.1/file/d-biehl.robotcode-0.12.1.vsix";
-      sha256 = "sha256-VlZHRi7+tDta6LM9x4vgCxomxMfJcUC1Lf+pva4oKmA=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.0/file/d-biehl.robotcode-0.13.0.vsix";
+      sha256 = "sha256-LCoo2paiPxFgJiZQ5nPiwLe3pA8AAGExp9rKuS8pqIY=";
     };
     name = "robotcode";
     license = "Apache-2.0";
@@ -7707,10 +7707,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2314593";
+    version = "7.3.2315429";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2314593/file/eliostruyf.vscode-front-matter-beta-7.3.2314593.vsix";
-      sha256 = "sha256-VUm/ChBfjMY4AB5VzPcNGdMC5FU5lOU3lCRb2YDBsWs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2315429/file/eliostruyf.vscode-front-matter-beta-7.3.2315429.vsix";
+      sha256 = "sha256-PY4B+Zji9NbD0CgnQbmFPrHb7c+VNFCsbDeJ1gV8HHo=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
