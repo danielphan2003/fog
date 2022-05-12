@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.959";
+    version = "31.0.961";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.959/file/Prisma.prisma-insider-31.0.959.vsix";
-      sha256 = "sha256-9BHuVvARc1GzUztwFJozc45z36+3PnPObGAACpJtXJY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.961/file/Prisma.prisma-insider-31.0.961.vsix";
+      sha256 = "sha256-99c+RWEnciKy7rZRFaz7gsw9l9oKidyZD6Fk9LRgb6w=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6759,10 +6759,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.2.1";
+    version = "5.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.1/file/cyrilletuzi.angular-schematics-5.2.1.vsix";
-      sha256 = "sha256-3aMAqpmwf+WTNDGpiEe06EXqNga12wKzi63y/1E5w/w=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.2/file/cyrilletuzi.angular-schematics-5.2.2.vsix";
+      sha256 = "sha256-cb2jvmAQirPowP3HhsdCOWPJ/7ZR8ykdoLIz0EA3cNk=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -9157,6 +9157,30 @@
     publisher = "gregoire";
     description = "Kakoune-inspired key bindings, modes, menus and scripting.";
   };
+  grigoryvp-language-xi = {
+    pname = "grigoryvp-language-xi";
+    version = "1.7.54";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/grigoryvp/language-xi/1.7.54/file/grigoryvp.language-xi-1.7.54.vsix";
+      sha256 = "sha256-w60iQjQzKqXdUDJFCzF+scVdDsFvve4y+wlooVzuL8Q=";
+    };
+    name = "language-xi";
+    license = "";
+    publisher = "grigoryvp";
+    description = "Syntax highlighting and wikiword jumps supoort for Xi markup language";
+  };
+  grigoryvp-memory-theme = {
+    pname = "grigoryvp-memory-theme";
+    version = "1.2.49";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/grigoryvp/memory-theme/1.2.49/file/grigoryvp.memory-theme-1.2.49.vsix";
+      sha256 = "sha256-vqd+3D+NmhbvTmYYILmnHI4SXWM18Y9xnpJ1jPdoEBE=";
+    };
+    name = "memory-theme";
+    license = "";
+    publisher = "grigoryvp";
+    description = "Memory Color Theme for Visual Studio Code";
+  };
   gwoptics-katscript = {
     pname = "gwoptics-katscript";
     version = "0.2.0";
@@ -11367,10 +11391,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.1.1/file/kubescape.kubescape-0.1.1.vsix";
-      sha256 = "sha256-otYpiNFDbvzi8Vg2xb/6uIQUiGYzzik+jqfGm+txfPU=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.2.0/file/kubescape.kubescape-0.2.0.vsix";
+      sha256 = "sha256-A7Sw3OMAavbkp91S2OdJbnM9qFEXYIggr1Sf3pEmYgA=";
     };
     name = "kubescape";
     license = "Apache";
@@ -15696,6 +15720,18 @@
     license = "MIT";
     publisher = "rid9";
     description = "Displays a clock and date information in the status bar.";
+  };
+  rights-nas-vscode = {
+    pname = "rights-nas-vscode";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/rights/nas-vscode/0.0.1/file/rights.nas-vscode-0.0.1.vsix";
+      sha256 = "sha256-8KpqO4v//i0k8/OrbPirvJkTwB0aL6svRYqiiuwmkXY=";
+    };
+    name = "nas-vscode";
+    license = "MIT";
+    publisher = "rights";
+    description = "NASM highlight";
   };
   rintoj-json-organizer = {
     pname = "rintoj-json-organizer";
