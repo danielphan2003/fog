@@ -1179,10 +1179,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.44.0";
+    version = "3.44.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.0/file/GitLab.gitlab-workflow-3.44.0.vsix";
-      sha256 = "sha256-+na7MBf8ikcdeixaqnOxL/vx0MfN8fWEaaETL10y63I=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.1/file/GitLab.gitlab-workflow-3.44.1.vsix";
+      sha256 = "sha256-Aqi09igiHxQbz0AyrPla5O/18jY3yo4ODZqeLBmqA7U=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -1899,15 +1899,15 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.0.10";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.0.10/file/Leathong.openscad-language-support-1.0.10.vsix";
-      sha256 = "sha256-Ta1c29C/7AwssL5pXc0X2TwreqOy6a289OyBrf8aRu8=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.1/file/Leathong.openscad-language-support-1.1.1.vsix";
+      sha256 = "sha256-gK+1kZUOhllr4vvS4PsreBGHrHI6Sxy0OpmlJL4rPEI=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
     publisher = "Leathong";
-    description = "Maybe the best extension for OpenSCAD so far. Provide auto-completion, document symbols, and more for VSCode!";
+    description = "Maybe the best extension for OpenSCAD so far. Provide formatting, auto-completion, document symbols, and more for VSCode!";
   };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
@@ -16299,10 +16299,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.16.1";
+    version = "1.16.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.1/file/sasjs.sasjs-for-vscode-1.16.1.vsix";
-      sha256 = "sha256-j4wPOgfDwDdsFahC1NjKXsLjGhjhPCRn8bKdcDmk4V4=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.2/file/sasjs.sasjs-for-vscode-1.16.2.vsix";
+      sha256 = "sha256-B2agKNDMf3B6ajSx1Gy1zvF4Y6/3f1Rr20/kptHh9bM=";
     };
     name = "sasjs-for-vscode";
     license = "MIT";
@@ -16875,10 +16875,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.82";
+    version = "0.2.85";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.82/file/smapiot.vscode-piral-0.2.82.vsix";
-      sha256 = "sha256-IK1eBPAK1sf9HcsejPn7rmHhQ0kQahYN4cA9u9sytNE=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.85/file/smapiot.vscode-piral-0.2.85.vsix";
+      sha256 = "sha256-jftLjDAsz47ux6rB5G5tAKKB4D9Q6WOhdEtbThCkpFQ=";
     };
     name = "vscode-piral";
     license = "MIT";
