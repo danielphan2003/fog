@@ -7743,7 +7743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.19.1",
+    "version": "1.20.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7751,10 +7751,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.19.1/file/quarto.quarto-1.19.1.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.20.0/file/quarto.quarto-1.20.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Q7GA0GukuWO+4m7ypWUozjBIYXqemQFAe9nRkEdNjKc="
+      "sha256": "sha256-+AIZy2yaK/jJTUUB3lCtKWUo4iHJpEAKY+3JwlVUBbM="
     },
     "extract": null,
     "rustGitDeps": null
