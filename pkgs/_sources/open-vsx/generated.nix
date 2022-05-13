@@ -6711,10 +6711,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "4.7.8";
+    version = "5.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/4.7.8/file/cweijan.vscode-mysql-client2-4.7.8.vsix";
-      sha256 = "sha256-HRKzcEdGm91jADZ4AMfWlhbBLBkQBKw14mO9mosetmQ=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.2.9/file/cweijan.vscode-mysql-client2-5.2.9.vsix";
+      sha256 = "sha256-0gZDsL356Ff4jYvS6QxcWFUi56YHshmEZy92OSMAoOY=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
@@ -15075,10 +15075,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.20.0";
+    version = "1.20.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.20.0/file/quarto.quarto-1.20.0.vsix";
-      sha256 = "sha256-+AIZy2yaK/jJTUUB3lCtKWUo4iHJpEAKY+3JwlVUBbM=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.20.1/file/quarto.quarto-1.20.1.vsix";
+      sha256 = "sha256-TjBGOb9Wx8O44trcpVdPszEOgrr1Bjz6nVa5hqpBWdw=";
     };
     name = "quarto";
     license = "MIT";
