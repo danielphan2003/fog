@@ -12003,7 +12003,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.85",
+    "version": "0.2.86",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -12011,10 +12011,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.85/file/smapiot.vscode-piral-0.2.85.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.86/file/smapiot.vscode-piral-0.2.86.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jftLjDAsz47ux6rB5G5tAKKB4D9Q6WOhdEtbThCkpFQ="
+      "sha256": "sha256-KsYdqlRiXBNwIN6YApw1SX+wn/mAtZeMk/pg5Vz47JY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32435,6 +32435,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-AU3PlhEEV319zhSLIAlDx027KA7RecYQcxzBwqte3pc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "godray-salesforcedx-vscode-apex": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "godray-salesforcedx-vscode-apex",
+    "version": "53.14.1",
+    "passthru": {
+      "name": "salesforcedx-vscode-apex",
+      "license": "BSD-3-Clause",
+      "publisher": "godray",
+      "description": "Provides code-editing features for the Apex programming language"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/godray/salesforcedx-vscode-apex/53.14.1/file/godray.salesforcedx-vscode-apex-53.14.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-5qCIwZu5LmU87Uvwv+3VPuih6BvEwigCF+Pbs05/D18="
     },
     "extract": null,
     "rustGitDeps": null

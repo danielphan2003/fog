@@ -8989,6 +8989,18 @@
     publisher = "gnramsay";
     description = "Creates a Blank Python module under the selected folder";
   };
+  godray-salesforcedx-vscode-apex = {
+    pname = "godray-salesforcedx-vscode-apex";
+    version = "53.14.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/godray/salesforcedx-vscode-apex/53.14.1/file/godray.salesforcedx-vscode-apex-53.14.1.vsix";
+      sha256 = "sha256-5qCIwZu5LmU87Uvwv+3VPuih6BvEwigCF+Pbs05/D18=";
+    };
+    name = "salesforcedx-vscode-apex";
+    license = "BSD-3-Clause";
+    publisher = "godray";
+    description = "Provides code-editing features for the Apex programming language";
+  };
   golang-Go = {
     pname = "golang-Go";
     version = "0.33.0";
@@ -16875,10 +16887,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.85";
+    version = "0.2.86";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.85/file/smapiot.vscode-piral-0.2.85.vsix";
-      sha256 = "sha256-jftLjDAsz47ux6rB5G5tAKKB4D9Q6WOhdEtbThCkpFQ=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.86/file/smapiot.vscode-piral-0.2.86.vsix";
+      sha256 = "sha256-KsYdqlRiXBNwIN6YApw1SX+wn/mAtZeMk/pg5Vz47JY=";
     };
     name = "vscode-piral";
     license = "MIT";
