@@ -1623,10 +1623,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "6.0.3";
+    version = "6.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.3/file/Ionide.Ionide-fsharp-6.0.3.vsix";
-      sha256 = "sha256-KSIKBFVHb4v3SAMF5aOHWN7fcWSa5MjvolWZawkcswo=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.4/file/Ionide.Ionide-fsharp-6.0.4.vsix";
+      sha256 = "sha256-4Ri6WJqFEhmqHyE8HqltOhxej0htOfsQfsAKaz8/OUU=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -20175,10 +20175,10 @@
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
-    version = "8.1.0";
+    version = "8.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/waderyan/gitblame/8.1.0/file/waderyan.gitblame-8.1.0.vsix";
-      sha256 = "sha256-urN1qNJi53UFjtdpRIgANihVLV1169ypRB1yQuM+INQ=";
+      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.0/file/waderyan.gitblame-8.2.0.vsix";
+      sha256 = "sha256-7Dz7Eqq+DDLABaOLRkeMPcagWRKUEKafkmRpMRpa4D8=";
     };
     name = "gitblame";
     license = "MIT";
