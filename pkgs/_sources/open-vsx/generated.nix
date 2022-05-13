@@ -519,10 +519,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.17.0";
+    version = "12.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.17.0/file/CodeStream.codestream-12.17.0.vsix";
-      sha256 = "sha256-6IyQjUOO5JRdg1FLhKba0mUTtANnkertHYCyBDjFYnM=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/12.18.0/file/CodeStream.codestream-12.18.0.vsix";
+      sha256 = "sha256-fLcRYw/SqWlAxN0HCVFvV3zM6UUZxGq372sfmHviWQI=";
     };
     name = "codestream";
     license = "UNLICENSED";
@@ -2775,10 +2775,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.969";
+    version = "31.0.970";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.969/file/Prisma.prisma-insider-31.0.969.vsix";
-      sha256 = "sha256-JkDOifrcnt9YHuJTLoFEgQVOKy0rz+/E6Ps9kgvOr9o=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.970/file/Prisma.prisma-insider-31.0.970.vsix";
+      sha256 = "sha256-FiqyW80ltGLCDIke1Oy0lwRGCfo+rH+Hr9Kwsx/zCj8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -21063,10 +21063,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.21.0";
+    version = "0.21.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.21.0/file/znck.grammarly-0.21.0.vsix";
-      sha256 = "sha256-gfCR9/iafG4epAsF0kmCprOdaLE6MZIBYxza6Qk//Yc=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.21.1/file/znck.grammarly-0.21.1.vsix";
+      sha256 = "sha256-QFV9rUQpH45g4Uw1lx5AuW7rSxm2hGil878wofhaCds=";
     };
     name = "grammarly";
     license = "MIT";
