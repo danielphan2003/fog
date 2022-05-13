@@ -13303,7 +13303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-python-python",
-    "version": "2022.6.1",
+    "version": "2022.6.2",
     "passthru": {
       "name": "python",
       "license": "MIT",
@@ -13311,10 +13311,10 @@
       "description": "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-python/python/2022.6.1/file/ms-python.python-2022.6.1.vsix",
+      "url": "https://open-vsx.org/api/ms-python/python/2022.6.2/file/ms-python.python-2022.6.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LrvaNjXNyDVcag3H0nTcwE76OLj36u0X0i9nHhCrupc="
+      "sha256": "sha256-Mhve76Gsl2bjY2FDXI7UmSUrtLMgeYv13TPrZVFfU4s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15783,7 +15783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.1115",
+    "version": "2022.5.1212",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15791,10 +15791,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1115/file/Slint.slint-nightly-2022.5.1115.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1212/file/Slint.slint-nightly-2022.5.1212.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HFb4d55g2PgHyoEL7eQgZpmZPaYGq/seG97poVrevCU="
+      "sha256": "sha256-H7xtQG4x92ed0PfpPYVbSL3ey8BmKfKi4mD45AH9DsY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17923,7 +17923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "187.0.0",
+    "version": "188.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -17931,10 +17931,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/187.0.0/file/lextudio.restructuredtext-187.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/188.0.0/file/lextudio.restructuredtext-188.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IkAJZLvgcMinWE8BBqRoAO2jFp/XnovUQGogCIAr/Iw="
+      "sha256": "sha256-pwyOTkO0nKaDlQZ7AYj1An6tRdqVcntjkvJtsDZjgGY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28023,7 +28023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zhuangtongfa-material-theme",
-    "version": "3.13.25",
+    "version": "3.13.29",
     "passthru": {
       "name": "material-theme",
       "license": "MIT",
@@ -28031,10 +28031,10 @@
       "description": "Atomâs iconic One Dark theme for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.25/file/zhuangtongfa.material-theme-3.13.25.vsix",
+      "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.29/file/zhuangtongfa.material-theme-3.13.29.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aQIK4K9uKx9T1KzXkusGxgiv3PLcahJfV9rLZFEojb0="
+      "sha256": "sha256-BJjQM70SRa0PNi30rfR1tp1cWL15gIi8623I/khnOjY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32083,7 +32083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "amazonwebservices-aws-toolkit-vscode",
-    "version": "1.37.0",
+    "version": "1.38.0",
     "passthru": {
       "name": "aws-toolkit-vscode",
       "license": "Apache-2.0",
@@ -32091,10 +32091,10 @@
       "description": "Amazon Web Services toolkit for browsing and updating cloud resources"
     },
     "src": {
-      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.37.0/file/amazonwebservices.aws-toolkit-vscode-1.37.0.vsix",
+      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.38.0/file/amazonwebservices.aws-toolkit-vscode-1.38.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iGBRdk23zmJa3rygqOescE5bhBM5T8jiMuhbilPXPHk="
+      "sha256": "sha256-HdQe6rmaRT4p0x4IO73NreKYPNGkgY5C2TeMRmzTLgc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32663,7 +32663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shd101wyy-markdown-preview-enhanced",
-    "version": "0.6.2",
+    "version": "0.6.3",
     "passthru": {
       "name": "markdown-preview-enhanced",
       "license": "NCSA",
@@ -32671,10 +32671,10 @@
       "description": "Markdown Preview Enhanced ported to vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.2/file/shd101wyy.markdown-preview-enhanced-0.6.2.vsix",
+      "url": "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.3/file/shd101wyy.markdown-preview-enhanced-0.6.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-McYF3ARaOtaPSiwZo/vx1Y+HPamA1eCJCQjKpmhpKQ4="
+      "sha256": "sha256-ogCeasWvqvneQ6EbjI/t84px7J4gsp/ZlAI+3f0fwvQ="
     },
     "extract": null,
     "rustGitDeps": null

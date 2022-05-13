@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.1115";
+    version = "2022.5.1212";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1115/file/Slint.slint-nightly-2022.5.1115.vsix";
-      sha256 = "sha256-HFb4d55g2PgHyoEL7eQgZpmZPaYGq/seG97poVrevCU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1212/file/Slint.slint-nightly-2022.5.1212.vsix";
+      sha256 = "sha256-H7xtQG4x92ed0PfpPYVbSL3ey8BmKfKi4mD45AH9DsY=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -4419,10 +4419,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.37.0/file/amazonwebservices.aws-toolkit-vscode-1.37.0.vsix";
-      sha256 = "sha256-iGBRdk23zmJa3rygqOescE5bhBM5T8jiMuhbilPXPHk=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.38.0/file/amazonwebservices.aws-toolkit-vscode-1.38.0.vsix";
+      sha256 = "sha256-HdQe6rmaRT4p0x4IO73NreKYPNGkgY5C2TeMRmzTLgc=";
     };
     name = "aws-toolkit-vscode";
     license = "Apache-2.0";
@@ -11631,10 +11631,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "187.0.0";
+    version = "188.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/187.0.0/file/lextudio.restructuredtext-187.0.0.vsix";
-      sha256 = "sha256-IkAJZLvgcMinWE8BBqRoAO2jFp/XnovUQGogCIAr/Iw=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/188.0.0/file/lextudio.restructuredtext-188.0.0.vsix";
+      sha256 = "sha256-pwyOTkO0nKaDlQZ7AYj1An6tRdqVcntjkvJtsDZjgGY=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -12927,10 +12927,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.6.1";
+    version = "2022.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.6.1/file/ms-python.python-2022.6.1.vsix";
-      sha256 = "sha256-LrvaNjXNyDVcag3H0nTcwE76OLj36u0X0i9nHhCrupc=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.6.2/file/ms-python.python-2022.6.2.vsix";
+      sha256 = "sha256-Mhve76Gsl2bjY2FDXI7UmSUrtLMgeYv13TPrZVFfU4s=";
     };
     name = "python";
     license = "MIT";
@@ -16527,10 +16527,10 @@
   };
   shd101wyy-markdown-preview-enhanced = {
     pname = "shd101wyy-markdown-preview-enhanced";
-    version = "0.6.2";
+    version = "0.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.2/file/shd101wyy.markdown-preview-enhanced-0.6.2.vsix";
-      sha256 = "sha256-McYF3ARaOtaPSiwZo/vx1Y+HPamA1eCJCQjKpmhpKQ4=";
+      url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.3/file/shd101wyy.markdown-preview-enhanced-0.6.3.vsix";
+      sha256 = "sha256-ogCeasWvqvneQ6EbjI/t84px7J4gsp/ZlAI+3f0fwvQ=";
     };
     name = "markdown-preview-enhanced";
     license = "NCSA";
@@ -21003,10 +21003,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.25";
+    version = "3.13.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.25/file/zhuangtongfa.material-theme-3.13.25.vsix";
-      sha256 = "sha256-aQIK4K9uKx9T1KzXkusGxgiv3PLcahJfV9rLZFEojb0=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.29/file/zhuangtongfa.material-theme-3.13.29.vsix";
+      sha256 = "sha256-BJjQM70SRa0PNi30rfR1tp1cWL15gIi8623I/khnOjY=";
     };
     name = "material-theme";
     license = "MIT";
