@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "143655eec62f1c0cffb69efa6ee23b247ebeb99c";
+    version = "e9914d660551f97ea23ecc3c8e0c57e77526b20e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "143655eec62f1c0cffb69efa6ee23b247ebeb99c";
+      rev = "e9914d660551f97ea23ecc3c8e0c57e77526b20e";
       fetchSubmodules = false;
-      sha256 = "sha256-eeUlYk+Ak6J3sEQwHptTo2IhL4Hr8xKREdYlXBc4Pzc=";
+      sha256 = "sha256-o3ju2oXOrGAProE9sJeavbm4OfaxIEC6QknUFNJXTXA=";
     });
   };
   rofi-wayland = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "27a4c7e79c85830d3922533ec7334407137a6aba";
+    version = "73843d0a180151f6455308aaf752396a2ce741a8";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "27a4c7e79c85830d3922533ec7334407137a6aba";
+      rev = "73843d0a180151f6455308aaf752396a2ce741a8";
       fetchSubmodules = false;
-      sha256 = "sha256-iv81/YRxCOazOauJCIT97o3EX0Bm9Zx1TdtAnT8kNS0=";
+      sha256 = "sha256-1+DglDHAhg6oNady15H+22ByC0fLzdB0tJvOLcX/8XQ=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-27a4c7e79c85830d3922533ec7334407137a6aba/Cargo.lock;
+      lockFile = ./rustdesk-73843d0a180151f6455308aaf752396a2ce741a8/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
@@ -925,13 +925,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "4e1951c857100230002acdfb7c38440aaa1369ca";
+    version = "4c9c4c364e0b5c29f63e4f49d29d98eb8f88aa78";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "4e1951c857100230002acdfb7c38440aaa1369ca";
+      rev = "4c9c4c364e0b5c29f63e4f49d29d98eb8f88aa78";
       fetchSubmodules = false;
-      sha256 = "sha256-rp5gZ28k9rQsljsXAfN0Ytn4y23iiAGz+er6gM0WCPs=";
+      sha256 = "sha256-w89c+RXyWmCt+hVrDYm2wlost8v97iCOvZgtFsIM324=";
     });
   };
   spotify = {
