@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "e004a49daf4f24d99ab827f449e1519b36577a93",
+    "version": "c789e6ac505a2d4b76361fa03283789e98b3fcfe",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-u4LhRAjf7xag5c2I3DoGfwHrvxpSaajFwShcZUXg13E=",
-      "rev": "e004a49daf4f24d99ab827f449e1519b36577a93"
+      "sha256": "sha256-07Qk+ZMMJ21kgQGgLyrn6Mx4dy3jwqH//hSuaC0ng7w=",
+      "rev": "c789e6ac505a2d4b76361fa03283789e98b3fcfe"
     },
     "extract": null,
     "rustGitDeps": null
@@ -602,13 +602,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cinny",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "passthru": null,
     "src": {
-      "url": "https://github.com/ajbura/cinny/releases/download/v2.0.1/cinny-v2.0.1.tar.gz",
+      "url": "https://github.com/ajbura/cinny/releases/download/v2.0.2/cinny-v2.0.2.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ONj/S8zHp8E5DhZY9i32NEbdXtjOM0JQlQECUa7zCuE="
+      "sha256": "sha256-qVnNVJK/Y76cZTh8QNeSNHDxHA/Ekbt7X6mKYkYAPNU="
     },
     "extract": null,
     "rustGitDeps": null

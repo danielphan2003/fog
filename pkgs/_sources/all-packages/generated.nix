@@ -198,10 +198,10 @@
   };
   cinny = {
     pname = "cinny";
-    version = "2.0.1";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://github.com/ajbura/cinny/releases/download/v2.0.1/cinny-v2.0.1.tar.gz";
-      sha256 = "sha256-ONj/S8zHp8E5DhZY9i32NEbdXtjOM0JQlQECUa7zCuE=";
+      url = "https://github.com/ajbura/cinny/releases/download/v2.0.2/cinny-v2.0.2.tar.gz";
+      sha256 = "sha256-qVnNVJK/Y76cZTh8QNeSNHDxHA/Ekbt7X6mKYkYAPNU=";
     };
   };
   conduit = {
@@ -1046,13 +1046,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "e004a49daf4f24d99ab827f449e1519b36577a93";
+    version = "c789e6ac505a2d4b76361fa03283789e98b3fcfe";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "e004a49daf4f24d99ab827f449e1519b36577a93";
+      rev = "c789e6ac505a2d4b76361fa03283789e98b3fcfe";
       fetchSubmodules = false;
-      sha256 = "sha256-u4LhRAjf7xag5c2I3DoGfwHrvxpSaajFwShcZUXg13E=";
+      sha256 = "sha256-07Qk+ZMMJ21kgQGgLyrn6Mx4dy3jwqH//hSuaC0ng7w=";
     });
   };
   ultimmc = {
