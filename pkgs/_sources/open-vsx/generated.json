@@ -26803,7 +26803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "OBKoro1-korofileheader",
-    "version": "4.8.22",
+    "version": "4.8.23",
     "passthru": {
       "name": "korofileheader",
       "license": "MIT",
@@ -26811,10 +26811,10 @@
       "description": "ç¨äºçææä»¶å¤´é¨æ³¨éåå½æ°æ³¨éçæä»¶ï¼æ¯æææä¸»æµè¯­è¨,åè½å¼ºå¤§ï¼çµæ´»æ¹ä¾¿ï¼ææ¡£é½å¨ï¼é£ç¨ç®åï¼"
     },
     "src": {
-      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.22/file/OBKoro1.korofileheader-4.8.22.vsix",
+      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.23/file/OBKoro1.korofileheader-4.8.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/t5qXrxilVDJLkSDA/5KB4l2o04IyRfgSIDwDF2YyBQ="
+      "sha256": "sha256-DtQFAl+iKwNsOp1UDzuT2G4aB//n0md09VVJPn+a3p4="
     },
     "extract": null,
     "rustGitDeps": null

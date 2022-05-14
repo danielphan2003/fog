@@ -2511,10 +2511,10 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.8.22";
+    version = "4.8.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.22/file/OBKoro1.korofileheader-4.8.22.vsix";
-      sha256 = "sha256-/t5qXrxilVDJLkSDA/5KB4l2o04IyRfgSIDwDF2YyBQ=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.23/file/OBKoro1.korofileheader-4.8.23.vsix";
+      sha256 = "sha256-DtQFAl+iKwNsOp1UDzuT2G4aB//n0md09VVJPn+a3p4=";
     };
     name = "korofileheader";
     license = "MIT";
