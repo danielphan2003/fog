@@ -15783,7 +15783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.1212",
+    "version": "2022.5.1317",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15791,10 +15791,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1212/file/Slint.slint-nightly-2022.5.1212.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1317/file/Slint.slint-nightly-2022.5.1317.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-H7xtQG4x92ed0PfpPYVbSL3ey8BmKfKi4mD45AH9DsY="
+      "sha256": "sha256-ynlJAnZOzAxYpJqDAFYBs78Hvo/rkFWZOy8jVn4OoFc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17923,7 +17923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lextudio-restructuredtext",
-    "version": "188.0.0",
+    "version": "189.0.0",
     "passthru": {
       "name": "restructuredtext",
       "license": "MIT",
@@ -17931,10 +17931,10 @@
       "description": "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/lextudio/restructuredtext/188.0.0/file/lextudio.restructuredtext-188.0.0.vsix",
+      "url": "https://open-vsx.org/api/lextudio/restructuredtext/189.0.0/file/lextudio.restructuredtext-189.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pwyOTkO0nKaDlQZ7AYj1An6tRdqVcntjkvJtsDZjgGY="
+      "sha256": "sha256-emX2NmcHo+RVJ+IfLLyKzHcLTrplbZ+OleSolCxfWZk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18203,7 +18203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.13.24",
+    "version": "0.14.0",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -18211,10 +18211,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.24/file/shufo.vscode-blade-formatter-0.13.24.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.0/file/shufo.vscode-blade-formatter-0.14.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eaBTmqzz1eIsAjjwwJhUMaano6zDERu+pfWC8mx7OBM="
+      "sha256": "sha256-MjeUAX2CJL1EczQsGZwTIL4l4XU53BjM8h5oQEp5R4g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22283,7 +22283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DCsunset-vscode-modal-editor",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "passthru": {
       "name": "vscode-modal-editor",
       "license": "AGPL-3.0",
@@ -22291,10 +22291,10 @@
       "description": "Customizable extension to turn VS Code into a modal editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.2/file/DCsunset.vscode-modal-editor-1.1.2.vsix",
+      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.0/file/DCsunset.vscode-modal-editor-1.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IpZ37IKNpq8XAUdDpkOw5AaND8+CzUsEGlq3hY0EhSs="
+      "sha256": "sha256-rNptmKsEBCNf+fwTbriggUyScdthlEZBNrpWs5BzPwo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29223,7 +29223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.21.1",
+    "version": "0.21.2",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29231,10 +29231,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.21.1/file/znck.grammarly-0.21.1.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.21.2/file/znck.grammarly-0.21.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QFV9rUQpH45g4Uw1lx5AuW7rSxm2hGil878wofhaCds="
+      "sha256": "sha256-hwq7A8xd1kvsQ/PAnwAdWkNWl4vI67RAxGXzumi7pvI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33863,7 +33863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XOJ-Team-xoj-playground",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "passthru": {
       "name": "xoj-playground",
       "license": "AGPL-3.0",
@@ -33871,10 +33871,10 @@
       "description": "A playground extension for XOJ Web IDE and desktop VSC"
     },
     "src": {
-      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.8/file/XOJ-Team.xoj-playground-0.0.8.vsix",
+      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.9/file/XOJ-Team.xoj-playground-0.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pKE5bB5z9Uk0BmSQNi4XW5Wh/5el4bwYMdHdNznPtvU="
+      "sha256": "sha256-+VXjF2wuzqpKgbjzZ9FmbUo0HhwfIIdsMShk2EqNT5Y="
     },
     "extract": null,
     "rustGitDeps": null

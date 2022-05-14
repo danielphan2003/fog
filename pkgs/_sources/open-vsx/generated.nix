@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.1.2";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.1.2/file/DCsunset.vscode-modal-editor-1.1.2.vsix";
-      sha256 = "sha256-IpZ37IKNpq8XAUdDpkOw5AaND8+CzUsEGlq3hY0EhSs=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.0/file/DCsunset.vscode-modal-editor-1.2.0.vsix";
+      sha256 = "sha256-rNptmKsEBCNf+fwTbriggUyScdthlEZBNrpWs5BzPwo=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.1212";
+    version = "2022.5.1317";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1212/file/Slint.slint-nightly-2022.5.1212.vsix";
-      sha256 = "sha256-H7xtQG4x92ed0PfpPYVbSL3ey8BmKfKi4mD45AH9DsY=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1317/file/Slint.slint-nightly-2022.5.1317.vsix";
+      sha256 = "sha256-ynlJAnZOzAxYpJqDAFYBs78Hvo/rkFWZOy8jVn4OoFc=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3663,10 +3663,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.8/file/XOJ-Team.xoj-playground-0.0.8.vsix";
-      sha256 = "sha256-pKE5bB5z9Uk0BmSQNi4XW5Wh/5el4bwYMdHdNznPtvU=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.9/file/XOJ-Team.xoj-playground-0.0.9.vsix";
+      sha256 = "sha256-+VXjF2wuzqpKgbjzZ9FmbUo0HhwfIIdsMShk2EqNT5Y=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -11643,10 +11643,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "188.0.0";
+    version = "189.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/188.0.0/file/lextudio.restructuredtext-188.0.0.vsix";
-      sha256 = "sha256-pwyOTkO0nKaDlQZ7AYj1An6tRdqVcntjkvJtsDZjgGY=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/189.0.0/file/lextudio.restructuredtext-189.0.0.vsix";
+      sha256 = "sha256-emX2NmcHo+RVJ+IfLLyKzHcLTrplbZ+OleSolCxfWZk=";
     };
     name = "restructuredtext";
     license = "MIT";
@@ -16635,10 +16635,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.13.24";
+    version = "0.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.13.24/file/shufo.vscode-blade-formatter-0.13.24.vsix";
-      sha256 = "sha256-eaBTmqzz1eIsAjjwwJhUMaano6zDERu+pfWC8mx7OBM=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.0/file/shufo.vscode-blade-formatter-0.14.0.vsix";
+      sha256 = "sha256-MjeUAX2CJL1EczQsGZwTIL4l4XU53BjM8h5oQEp5R4g=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -21075,10 +21075,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.21.1";
+    version = "0.21.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.21.1/file/znck.grammarly-0.21.1.vsix";
-      sha256 = "sha256-QFV9rUQpH45g4Uw1lx5AuW7rSxm2hGil878wofhaCds=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.21.2/file/znck.grammarly-0.21.2.vsix";
+      sha256 = "sha256-hwq7A8xd1kvsQ/PAnwAdWkNWl4vI67RAxGXzumi7pvI=";
     };
     name = "grammarly";
     license = "MIT";
