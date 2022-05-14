@@ -2295,10 +2295,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.15";
+    version = "0.17.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.15/file/Marko-JS.marko-vscode-0.17.15.vsix";
-      sha256 = "sha256-Q/pc2GFM9hL8148K96Ks0QsEyuuo5rjh4GY26isAvtc=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.16/file/Marko-JS.marko-vscode-0.17.16.vsix";
+      sha256 = "sha256-VEoMfqb4VnQOV9kiYYstbtvUBseAEB+5IUu1ZDrcRK4=";
     };
     name = "marko-vscode";
     license = "MIT";
@@ -7287,10 +7287,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.23";
+    version = "0.5.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.23/file/digma.digma-0.5.23.vsix";
-      sha256 = "sha256-ZmRQAxzJt650hoYNqbS+xR9IvKYCocYxSKpyrgoB7CE=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.24/file/digma.digma-0.5.24.vsix";
+      sha256 = "sha256-nQZTgTrSrFypWL7xvn5d5To+E8K7Fgrrcxb5mWBxVwQ=";
     };
     name = "digma";
     license = "MIT";
@@ -9171,10 +9171,10 @@
   };
   gregoire-dance = {
     pname = "gregoire-dance";
-    version = "0.5.9";
+    version = "0.5.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gregoire/dance/0.5.9/file/gregoire.dance-0.5.9.vsix";
-      sha256 = "sha256-92cERez4zJ9J+FbWV2FHRJPA5woRIVJMcNPAnrgkdVA=";
+      url = "https://open-vsx.org/api/gregoire/dance/0.5.10/file/gregoire.dance-0.5.10.vsix";
+      sha256 = "sha256-IWpPGoNqSbi0YOpFyrqWMCRNo1C9YmkrVfKD7cU9S2A=";
     };
     name = "dance";
     license = "ISC";
@@ -15207,10 +15207,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.2";
+    version = "1.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.2/file/rangav.vscode-thunder-client-1.16.2.vsix";
-      sha256 = "sha256-mQwYvaMII+sG8OuCplk/P+3jMtlJbeNDJ/ItpnrIR/4=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.3/file/rangav.vscode-thunder-client-1.16.3.vsix";
+      sha256 = "sha256-2pynSZylfg7Hw+pyzSqUyd5oYoAKmlYp+RcUYiVM3DY=";
     };
     name = "vscode-thunder-client";
     license = "";
