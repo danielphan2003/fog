@@ -4935,10 +4935,10 @@
   };
   armandphilippot-coldark = {
     pname = "armandphilippot-coldark";
-    version = "1.2.10";
+    version = "1.2.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/armandphilippot/coldark/1.2.10/file/armandphilippot.coldark-1.2.10.vsix";
-      sha256 = "sha256-mIuA0ZfJAJ20sbcZKkdlpsm/2L7cDlKTzOuih0uMw+M=";
+      url = "https://open-vsx.org/api/armandphilippot/coldark/1.2.11/file/armandphilippot.coldark-1.2.11.vsix";
+      sha256 = "sha256-6hsFGU7bYbreNEJx9js2WnOTRvEGt4uQ0vpSWkmPGd8=";
     };
     name = "coldark";
     license = "MIT";
@@ -6075,10 +6075,10 @@
   };
   carlocardella-vscode-filesystemtoolbox = {
     pname = "carlocardella-vscode-filesystemtoolbox";
-    version = "1.2.2";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.2/file/carlocardella.vscode-filesystemtoolbox-1.2.2.vsix";
-      sha256 = "sha256-v8yYsoYnMC2ngtMy+peAMQyUpGYFZctCPKod0Q8rW54=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.3.0/file/carlocardella.vscode-filesystemtoolbox-1.3.0.vsix";
+      sha256 = "sha256-8F8XON7wzJWhCFCf9veCvU5QUeedlV8p9l8RS5eIsUY=";
     };
     name = "vscode-filesystemtoolbox";
     license = "MIT";
@@ -10767,10 +10767,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.46";
+    version = "0.16.47";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.46/file/jroesch.lean-0.16.46.vsix";
-      sha256 = "sha256-95HMB30wJfaUnbQSmGj1hbxaOJYG0LIfe0qMFP8rxlw=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.47/file/jroesch.lean-0.16.47.vsix";
+      sha256 = "sha256-HcQPCO/DMIcXJ5LUKZp4qn6EZNEtl/L4WtTw0qbmKL4=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -17571,10 +17571,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.16.0";
+    version = "105.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.16.0/file/svelte.svelte-vscode-105.16.0.vsix";
-      sha256 = "sha256-Tuq1ePQ8n+ArDzvLyJVoUx/WlEsHikSnmVa1OWKf+mA=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.16.1/file/svelte.svelte-vscode-105.16.1.vsix";
+      sha256 = "sha256-sQrTFAMzJX0CkWNx6RLy7MY5t+ZmamXuwkNzIO0ttfg=";
     };
     name = "svelte-vscode";
     license = "MIT";
@@ -21075,10 +21075,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.21.2";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.21.2/file/znck.grammarly-0.21.2.vsix";
-      sha256 = "sha256-hwq7A8xd1kvsQ/PAnwAdWkNWl4vI67RAxGXzumi7pvI=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.0/file/znck.grammarly-0.23.0.vsix";
+      sha256 = "sha256-21VGqB1U/+EOfNsxNNY04yGU0ia4rvpo9kS0UEGJc/w=";
     };
     name = "grammarly";
     license = "MIT";

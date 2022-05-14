@@ -9583,7 +9583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "svelte-svelte-vscode",
-    "version": "105.16.0",
+    "version": "105.16.1",
     "passthru": {
       "name": "svelte-vscode",
       "license": "MIT",
@@ -9591,10 +9591,10 @@
       "description": "Svelte language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.16.0/file/svelte.svelte-vscode-105.16.0.vsix",
+      "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.16.1/file/svelte.svelte-vscode-105.16.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Tuq1ePQ8n+ArDzvLyJVoUx/WlEsHikSnmVa1OWKf+mA="
+      "sha256": "sha256-sQrTFAMzJX0CkWNx6RLy7MY5t+ZmamXuwkNzIO0ttfg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12843,7 +12843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "armandphilippot-coldark",
-    "version": "1.2.10",
+    "version": "1.2.11",
     "passthru": {
       "name": "coldark",
       "license": "MIT",
@@ -12851,10 +12851,10 @@
       "description": "A blue-grey theme with light & dark versions."
     },
     "src": {
-      "url": "https://open-vsx.org/api/armandphilippot/coldark/1.2.10/file/armandphilippot.coldark-1.2.10.vsix",
+      "url": "https://open-vsx.org/api/armandphilippot/coldark/1.2.11/file/armandphilippot.coldark-1.2.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mIuA0ZfJAJ20sbcZKkdlpsm/2L7cDlKTzOuih0uMw+M="
+      "sha256": "sha256-6hsFGU7bYbreNEJx9js2WnOTRvEGt4uQ0vpSWkmPGd8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24903,7 +24903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "carlocardella-vscode-filesystemtoolbox",
-    "version": "1.2.2",
+    "version": "1.3.0",
     "passthru": {
       "name": "vscode-filesystemtoolbox",
       "license": "MIT",
@@ -24911,10 +24911,10 @@
       "description": "Collection of tools to work with the File System"
     },
     "src": {
-      "url": "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.2.2/file/carlocardella.vscode-filesystemtoolbox-1.2.2.vsix",
+      "url": "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.3.0/file/carlocardella.vscode-filesystemtoolbox-1.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-v8yYsoYnMC2ngtMy+peAMQyUpGYFZctCPKod0Q8rW54="
+      "sha256": "sha256-8F8XON7wzJWhCFCf9veCvU5QUeedlV8p9l8RS5eIsUY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29223,7 +29223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.21.2",
+    "version": "0.23.0",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29231,10 +29231,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.21.2/file/znck.grammarly-0.21.2.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.23.0/file/znck.grammarly-0.23.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hwq7A8xd1kvsQ/PAnwAdWkNWl4vI67RAxGXzumi7pvI="
+      "sha256": "sha256-21VGqB1U/+EOfNsxNNY04yGU0ia4rvpo9kS0UEGJc/w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34803,7 +34803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jroesch-lean",
-    "version": "0.16.46",
+    "version": "0.16.47",
     "passthru": {
       "name": "lean",
       "license": "Apache-2.0",
@@ -34811,10 +34811,10 @@
       "description": "An extension for VS Code which provides support for the Lean language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/jroesch/lean/0.16.46/file/jroesch.lean-0.16.46.vsix",
+      "url": "https://open-vsx.org/api/jroesch/lean/0.16.47/file/jroesch.lean-0.16.47.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-95HMB30wJfaUnbQSmGj1hbxaOJYG0LIfe0qMFP8rxlw="
+      "sha256": "sha256-HcQPCO/DMIcXJ5LUKZp4qn6EZNEtl/L4WtTw0qbmKL4="
     },
     "extract": null,
     "rustGitDeps": null
