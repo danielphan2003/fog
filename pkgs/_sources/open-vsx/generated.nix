@@ -1899,15 +1899,15 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.1/file/Leathong.openscad-language-support-1.1.1.vsix";
-      sha256 = "sha256-gK+1kZUOhllr4vvS4PsreBGHrHI6Sxy0OpmlJL4rPEI=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.2/file/Leathong.openscad-language-support-1.1.2.vsix";
+      sha256 = "sha256-S45FAuU8aQBmVekjpGvhUd7QRi9yPM0vQ0ldY5/vlwY=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
     publisher = "Leathong";
-    description = "Maybe the best extension for OpenSCAD so far. Provide formatting, auto-completion, document symbols, and more for VSCode!";
+    description = "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more!";
   };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
@@ -2511,10 +2511,10 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.8.23";
+    version = "4.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.8.23/file/OBKoro1.korofileheader-4.8.23.vsix";
-      sha256 = "sha256-DtQFAl+iKwNsOp1UDzuT2G4aB//n0md09VVJPn+a3p4=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.9.0/file/OBKoro1.korofileheader-4.9.0.vsix";
+      sha256 = "sha256-XPbjvs5tdRs1kxLYoWCEi1juqF8m9Q5kr5RTVlUUJ7k=";
     };
     name = "korofileheader";
     license = "MIT";
