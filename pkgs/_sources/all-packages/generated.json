@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "f0d52d8a88ca64c4a806bdd1eb8aaf549970d6f6",
+    "version": "e8a432e97969f9f74a46f1e89dd90ae052f0c660",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-wZFDVhdh6ddAucjbjUdUBokvFF+Dc5hpt/fx9sbLIso=",
-      "rev": "f0d52d8a88ca64c4a806bdd1eb8aaf549970d6f6"
+      "sha256": "sha256-EM2FIo2Jjg/W3J4kglWN/n9JSQ/W+4E2UsinwZZPskA=",
+      "rev": "e8a432e97969f9f74a46f1e89dd90ae052f0c660"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1825,7 +1825,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "waydroid",
-    "version": "eebdcec852186e21a4c44ab383380e3a0453464a",
+    "version": "d0f96e44cc60f7fee2d338e28a44961984f45c89",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1835,8 +1835,8 @@
       "name": null,
       "repo": "waydroid",
       "type": "github",
-      "sha256": "sha256-NmkRf2xIwG9+KgZfG4phGqOzsBi9GovXrZP0Yx74u2Q=",
-      "rev": "eebdcec852186e21a4c44ab383380e3a0453464a"
+      "sha256": "sha256-jxv+rWApuIR5l+YN1KMguUKAjzwOTP7nafEgUSUC+Wk=",
+      "rev": "d0f96e44cc60f7fee2d338e28a44961984f45c89"
     },
     "extract": null,
     "rustGitDeps": null
