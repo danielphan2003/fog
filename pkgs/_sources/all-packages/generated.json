@@ -602,13 +602,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cinny",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "passthru": null,
     "src": {
-      "url": "https://github.com/ajbura/cinny/releases/download/v2.0.2/cinny-v2.0.2.tar.gz",
+      "url": "https://github.com/ajbura/cinny/releases/download/v2.0.3/cinny-v2.0.3.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qVnNVJK/Y76cZTh8QNeSNHDxHA/Ekbt7X6mKYkYAPNU="
+      "sha256": "sha256-rbuEc4IxfYwohbzWpnF+4T5l8ZpxG6YfN/3c6xsST44="
     },
     "extract": null,
     "rustGitDeps": null

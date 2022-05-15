@@ -198,10 +198,10 @@
   };
   cinny = {
     pname = "cinny";
-    version = "2.0.2";
+    version = "2.0.3";
     src = fetchurl {
-      url = "https://github.com/ajbura/cinny/releases/download/v2.0.2/cinny-v2.0.2.tar.gz";
-      sha256 = "sha256-qVnNVJK/Y76cZTh8QNeSNHDxHA/Ekbt7X6mKYkYAPNU=";
+      url = "https://github.com/ajbura/cinny/releases/download/v2.0.3/cinny-v2.0.3.tar.gz";
+      sha256 = "sha256-rbuEc4IxfYwohbzWpnF+4T5l8ZpxG6YfN/3c6xsST44=";
     };
   };
   conduit = {
