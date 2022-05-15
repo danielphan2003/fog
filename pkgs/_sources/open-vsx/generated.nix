@@ -1899,10 +1899,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.2/file/Leathong.openscad-language-support-1.1.2.vsix";
-      sha256 = "sha256-S45FAuU8aQBmVekjpGvhUd7QRi9yPM0vQ0ldY5/vlwY=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.3/file/Leathong.openscad-language-support-1.1.3.vsix";
+      sha256 = "sha256-/kkO4zYo/7cmgA0N7tm6Vzj8hYX7uKa8cmh7keJFjOE=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
