@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "720cca5e45f169cee128f11a27654fd8086356e0",
+    "version": "28cd77c5b481b091d83bc0b555c3fcd696e82477",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-klK5PKTzc/ud66xquLeSAGSzTEZt/Cozs/BCUt6nQts=",
-      "rev": "720cca5e45f169cee128f11a27654fd8086356e0"
+      "sha256": "sha256-Gr+Bj3ILtHkAAZKkGy5wlTMfIuqLV635c4pr3tn+Ne8=",
+      "rev": "28cd77c5b481b091d83bc0b555c3fcd696e82477"
     },
     "extract": null,
     "rustGitDeps": null
