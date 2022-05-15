@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "b593ce6ab6fbcd33420d234a5a49d8e6d67b8ab5",
+    "version": "1320a14bf2c11ed6c9df6542dc08623899716e31",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-HEbBIoqRpmdnUD2Ps4gpOQcqEqffM5Dmz9zPbD7vTpU=",
-      "rev": "b593ce6ab6fbcd33420d234a5a49d8e6d67b8ab5"
+      "sha256": "sha256-kot1d+xt3+D+pwpnhfuKd2jKVkrDTPahs6yXLQhLGDo=",
+      "rev": "1320a14bf2c11ed6c9df6542dc08623899716e31"
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "2ca4d8bd7bf4d3443ae598c33a47db3dd0275b3c",
+    "version": "720cca5e45f169cee128f11a27654fd8086356e0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-fBHltMMnF7OyQjkMKU1NJypfMamV5UK78r1YStjMA90=",
-      "rev": "2ca4d8bd7bf4d3443ae598c33a47db3dd0275b3c"
+      "sha256": "sha256-klK5PKTzc/ud66xquLeSAGSzTEZt/Cozs/BCUt6nQts=",
+      "rev": "720cca5e45f169cee128f11a27654fd8086356e0"
     },
     "extract": null,
     "rustGitDeps": null
