@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d7ad80e6a2ee25bdc524c0012937d73725f5ad2f";
+    version = "96cdf8fd5e89928263380a00d007a6b11c59a6b9";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d7ad80e6a2ee25bdc524c0012937d73725f5ad2f";
+      rev = "96cdf8fd5e89928263380a00d007a6b11c59a6b9";
       fetchSubmodules = false;
-      sha256 = "sha256-bEn0e7bLDuLSzYbSstZNxvfxW/4PKcOHVRoaRjrOYqg=";
+      sha256 = "sha256-nZSOMSisRX44TfiNpMTu73VQAVdrD/Wi9M3Eb7Heddk=";
     });
   };
   ibus = {
@@ -685,22 +685,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.43.0";
+    version = "1.43.1";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.43.0.tar.gz";
-      sha256 = "sha256-4bPxWmzlyVZrkq9qs/5t+ZOsVDkAAwYc6Mc4een4Qnw=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.43.1.tar.gz";
+      sha256 = "sha256-80YzAryzGTyy2GTbfYaLBlRWEnJX+/ECjTNz2vv01uU=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "9901cb31ea0310775c0643853e47c1b740eefc53";
+    version = "8c7e99acd942bcda8563cad4eac03961a322a3da";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "9901cb31ea0310775c0643853e47c1b740eefc53";
+      rev = "8c7e99acd942bcda8563cad4eac03961a322a3da";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-SMuzDnnO4JTQIeAqux9WmMLj3Yf+OFLl8GtTz15fD8o=";
+      sha256 = "sha256-dS4cbF628RnxaNvLLsMSuC5wOm5ccTg72IjiTfSU7zQ=";
     };
   };
   pure = {

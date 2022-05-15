@@ -38,7 +38,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pmbootstrap-test",
-    "version": "9901cb31ea0310775c0643853e47c1b740eefc53",
+    "version": "8c7e99acd942bcda8563cad4eac03961a322a3da",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -47,8 +47,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-SMuzDnnO4JTQIeAqux9WmMLj3Yf+OFLl8GtTz15fD8o=",
-      "rev": "9901cb31ea0310775c0643853e47c1b740eefc53"
+      "sha256": "sha256-dS4cbF628RnxaNvLLsMSuC5wOm5ccTg72IjiTfSU7zQ=",
+      "rev": "8c7e99acd942bcda8563cad4eac03961a322a3da"
     },
     "extract": null,
     "rustGitDeps": null
@@ -267,13 +267,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pmbootstrap",
-    "version": "1.43.0",
+    "version": "1.43.1",
     "passthru": null,
     "src": {
-      "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.43.0.tar.gz",
+      "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.43.1.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4bPxWmzlyVZrkq9qs/5t+ZOsVDkAAwYc6Mc4een4Qnw="
+      "sha256": "sha256-80YzAryzGTyy2GTbfYaLBlRWEnJX+/ECjTNz2vv01uU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "d7ad80e6a2ee25bdc524c0012937d73725f5ad2f",
+    "version": "96cdf8fd5e89928263380a00d007a6b11c59a6b9",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-bEn0e7bLDuLSzYbSstZNxvfxW/4PKcOHVRoaRjrOYqg=",
-      "rev": "d7ad80e6a2ee25bdc524c0012937d73725f5ad2f"
+      "sha256": "sha256-nZSOMSisRX44TfiNpMTu73VQAVdrD/Wi9M3Eb7Heddk=",
+      "rev": "96cdf8fd5e89928263380a00d007a6b11c59a6b9"
     },
     "extract": null,
     "rustGitDeps": null
