@@ -3423,7 +3423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CL-eide",
-    "version": "3.6.0",
+    "version": "3.6.1",
     "passthru": {
       "name": "eide",
       "license": "MIT",
@@ -3431,10 +3431,10 @@
       "description": "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
     },
     "src": {
-      "url": "https://open-vsx.org/api/CL/eide/3.6.0/file/CL.eide-3.6.0.vsix",
+      "url": "https://open-vsx.org/api/CL/eide/3.6.1/file/CL.eide-3.6.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KO0b1pHBrimSWf9Fqv2iBaBJHHVuSHa53frUETdStNc="
+      "sha256": "sha256-wiUeH4FdvXYF2TBotYlRHJiJGb+499/Z3oNm7RQUk8M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34283,7 +34283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34291,10 +34291,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.9/file/betterthantomorrow.joyride-0.0.9.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.10/file/betterthantomorrow.joyride-0.0.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mkF6tzpRbdggCAbL6qx2PwMfP+fRBk63Kwu6hQpU0c4="
+      "sha256": "sha256-qpePXbJW/pZ80/7F73DV5iI6DyIgZt/wzLZRYvx55ng="
     },
     "extract": null,
     "rustGitDeps": null

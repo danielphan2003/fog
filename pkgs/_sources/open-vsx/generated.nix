@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.6.0";
+    version = "3.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.6.0/file/CL.eide-3.6.0.vsix";
-      sha256 = "sha256-KO0b1pHBrimSWf9Fqv2iBaBJHHVuSHa53frUETdStNc=";
+      url = "https://open-vsx.org/api/CL/eide/3.6.1/file/CL.eide-3.6.1.vsix";
+      sha256 = "sha256-wiUeH4FdvXYF2TBotYlRHJiJGb+499/Z3oNm7RQUk8M=";
     };
     name = "eide";
     license = "MIT";
@@ -5511,10 +5511,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.9/file/betterthantomorrow.joyride-0.0.9.vsix";
-      sha256 = "sha256-mkF6tzpRbdggCAbL6qx2PwMfP+fRBk63Kwu6hQpU0c4=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.10/file/betterthantomorrow.joyride-0.0.10.vsix";
+      sha256 = "sha256-qpePXbJW/pZ80/7F73DV5iI6DyIgZt/wzLZRYvx55ng=";
     };
     name = "joyride";
     license = "MIT";
