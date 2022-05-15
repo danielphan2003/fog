@@ -20619,6 +20619,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "orhun-black-waves": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "orhun-black-waves",
+    "version": "1.0.2",
+    "passthru": {
+      "name": "black-waves",
+      "license": "GPL-3.0-or-later",
+      "publisher": "orhun",
+      "description": "A wavy dark theme for VSCode"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/orhun/black-waves/1.0.2/file/orhun.black-waves-1.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-rEUZFyH2RGfDU6Fsxwc/rfUqNEhH1fL6dRgR2/T5CZQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "redhat-vscode-xml": {
     "pinned": false,
     "cargoLock": null,
@@ -34283,7 +34303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34291,10 +34311,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.10/file/betterthantomorrow.joyride-0.0.10.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.11/file/betterthantomorrow.joyride-0.0.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qpePXbJW/pZ80/7F73DV5iI6DyIgZt/wzLZRYvx55ng="
+      "sha256": "sha256-uMoxTlNYpdDXN9XKUryYErLaPaVmWGmGasjIfddHfDo="
     },
     "extract": null,
     "rustGitDeps": null

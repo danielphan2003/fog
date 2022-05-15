@@ -5511,10 +5511,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.10/file/betterthantomorrow.joyride-0.0.10.vsix";
-      sha256 = "sha256-qpePXbJW/pZ80/7F73DV5iI6DyIgZt/wzLZRYvx55ng=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.11/file/betterthantomorrow.joyride-0.0.11.vsix";
+      sha256 = "sha256-uMoxTlNYpdDXN9XKUryYErLaPaVmWGmGasjIfddHfDo=";
     };
     name = "joyride";
     license = "MIT";
@@ -14244,6 +14244,18 @@
     license = "Mauricio Rojas";
     publisher = "orellabacCR";
     description = "Syntax Highlight for Snowflake stored procedures";
+  };
+  orhun-black-waves = {
+    pname = "orhun-black-waves";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/orhun/black-waves/1.0.2/file/orhun.black-waves-1.0.2.vsix";
+      sha256 = "sha256-rEUZFyH2RGfDU6Fsxwc/rfUqNEhH1fL6dRgR2/T5CZQ=";
+    };
+    name = "black-waves";
+    license = "GPL-3.0-or-later";
+    publisher = "orhun";
+    description = "A wavy dark theme for VSCode";
   };
   oscarlevin-pretext-tools = {
     pname = "oscarlevin-pretext-tools";
