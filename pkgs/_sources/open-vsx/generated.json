@@ -3423,7 +3423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CL-eide",
-    "version": "3.6.1",
+    "version": "3.6.3",
     "passthru": {
       "name": "eide",
       "license": "MIT",
@@ -3431,10 +3431,10 @@
       "description": "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
     },
     "src": {
-      "url": "https://open-vsx.org/api/CL/eide/3.6.1/file/CL.eide-3.6.1.vsix",
+      "url": "https://open-vsx.org/api/CL/eide/3.6.3/file/CL.eide-3.6.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wiUeH4FdvXYF2TBotYlRHJiJGb+499/Z3oNm7RQUk8M="
+      "sha256": "sha256-FDEIqu0dlLVau/1ydgUIZ5VjCskuyA1cZ6fKoHhiWtI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33663,7 +33663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cweijan-vscode-mysql-client2",
-    "version": "5.2.9",
+    "version": "5.3.0",
     "passthru": {
       "name": "vscode-mysql-client2",
       "license": "MIT",
@@ -33671,10 +33671,10 @@
       "description": "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.2.9/file/cweijan.vscode-mysql-client2-5.2.9.vsix",
+      "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.0/file/cweijan.vscode-mysql-client2-5.3.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0gZDsL356Ff4jYvS6QxcWFUi56YHshmEZy92OSMAoOY="
+      "sha256": "sha256-fpNfO26T6VALin05nlDaJSyA3oeYySwcBuKaZzKUve8="
     },
     "extract": null,
     "rustGitDeps": null
