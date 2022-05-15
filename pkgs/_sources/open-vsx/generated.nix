@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.5.4";
+    version = "3.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.5.4/file/CL.eide-3.5.4.vsix";
-      sha256 = "sha256-QlyEfW/3TrsTNhE0tU6QOvosD8ibHRLsh/nKqgO/Nfs=";
+      url = "https://open-vsx.org/api/CL/eide/3.6.0/file/CL.eide-3.6.0.vsix";
+      sha256 = "sha256-KO0b1pHBrimSWf9Fqv2iBaBJHHVuSHa53frUETdStNc=";
     };
     name = "eide";
     license = "MIT";
@@ -16635,10 +16635,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.14.0";
+    version = "0.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.0/file/shufo.vscode-blade-formatter-0.14.0.vsix";
-      sha256 = "sha256-MjeUAX2CJL1EczQsGZwTIL4l4XU53BjM8h5oQEp5R4g=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.1/file/shufo.vscode-blade-formatter-0.14.1.vsix";
+      sha256 = "sha256-C+IhQKJzfy9I6iV/ZHx47psfCr2KXsXwqMa29gaCzT4=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
