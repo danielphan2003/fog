@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.1317";
+    version = "2022.5.1413";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1317/file/Slint.slint-nightly-2022.5.1317.vsix";
-      sha256 = "sha256-ynlJAnZOzAxYpJqDAFYBs78Hvo/rkFWZOy8jVn4OoFc=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1413/file/Slint.slint-nightly-2022.5.1413.vsix";
+      sha256 = "sha256-hxDR42gIPTnrtiR8036oTSZhAqzE15ivKdO7GBOjvBw=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -9543,10 +9543,10 @@
   };
   html-validate-vscode-html-validate = {
     pname = "html-validate-vscode-html-validate";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/html-validate/vscode-html-validate/2.3.0/file/html-validate.vscode-html-validate-2.3.0.vsix";
-      sha256 = "sha256-ElyP2wu9X0kBRNebFInn6dQQ0ZQIUfO5vIGUtxato5o=";
+      url = "https://open-vsx.org/api/html-validate/vscode-html-validate/2.3.1/file/html-validate.vscode-html-validate-2.3.1.vsix";
+      sha256 = "sha256-nhuyKI/7de0pJXROG81vV9RadvxMPYtc06IGbkg2s28=";
     };
     name = "vscode-html-validate";
     license = "MIT";
