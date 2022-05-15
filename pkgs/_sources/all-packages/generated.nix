@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "cba4693d390da71c0d4fc743436c455c601fec9d";
+    version = "d7ad80e6a2ee25bdc524c0012937d73725f5ad2f";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "cba4693d390da71c0d4fc743436c455c601fec9d";
+      rev = "d7ad80e6a2ee25bdc524c0012937d73725f5ad2f";
       fetchSubmodules = false;
-      sha256 = "sha256-wQjt3hXWvgFjU5/lwLM/ibfOEEur/+vd0qSSAM1jyhs=";
+      sha256 = "sha256-bEn0e7bLDuLSzYbSstZNxvfxW/4PKcOHVRoaRjrOYqg=";
     });
   };
   ibus = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "d6e36a423fe8316613a5ad6d1ad89c85d1e1d17e";
+    version = "0b869e89a36ddf6d351e9dd720747c52717ce334";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "d6e36a423fe8316613a5ad6d1ad89c85d1e1d17e";
+      rev = "0b869e89a36ddf6d351e9dd720747c52717ce334";
       fetchSubmodules = false;
-      sha256 = "sha256-JHkka24FioXmHYsRxjQwsM/AXmbGfKvYRPajdeDvbPs=";
+      sha256 = "sha256-RDTqdrIkK4SyTlhIj7Pa4MTH4GRjciV5k0minV1y26Y=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-d6e36a423fe8316613a5ad6d1ad89c85d1e1d17e/Cargo.lock;
+      lockFile = ./rustdesk-0b869e89a36ddf6d351e9dd720747c52717ce334/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
@@ -902,14 +902,14 @@
   };
   snui = {
     pname = "snui";
-    version = "baed0d9951e6d0436bbf522d0bad89b4700951ab";
+    version = "a9d0794af75ae0845ed5b76578c1bd21dac47e8b";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "baed0d9951e6d0436bbf522d0bad89b4700951ab";
+      rev = "a9d0794af75ae0845ed5b76578c1bd21dac47e8b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-NLU4Bm3rE0HsuJWlRktgUWlit1MsBPZ+xLQZj5V8QJc=";
+      sha256 = "sha256-hvTROOL/vPdH8sx4NTfBiiWBjnnxP1RtIftIpPqb7RI=";
     };
   };
   spicetify-cli = {
