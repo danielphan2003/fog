@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e991550abe8f4b13af586d635cdfec3b5c18fcd9";
+    version = "25979fac1d77b2e1bed4a518dfe1897d653c7a89";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "e991550abe8f4b13af586d635cdfec3b5c18fcd9";
+      rev = "25979fac1d77b2e1bed4a518dfe1897d653c7a89";
       fetchSubmodules = false;
-      sha256 = "sha256-pwGggJ9uHwf7g28+Lte5d3/bzOUBFnDn4ANHsEhPSC4=";
+      sha256 = "sha256-yfhpirjkg5L9dZjXl5czwXk8GWKAgWDfOCr0ZzPHxK8=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "1c1d37e9591c3e6fee36359c7dc5b1935f8b4bab";
+    version = "93dfa0217d5b25fbd4a549dcd1d21af13c3c6ee2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "1c1d37e9591c3e6fee36359c7dc5b1935f8b4bab";
+      rev = "93dfa0217d5b25fbd4a549dcd1d21af13c3c6ee2";
       fetchSubmodules = false;
-      sha256 = "sha256-lBJJtT7hJ/BhxxlT2NdVQGWLrpi2+I0gkjFYMqoexWg=";
+      sha256 = "sha256-4+402/0AeugPnzkVOg3oLWE1H1GaSBLbjCSjvHf97NU=";
     });
   };
   rofi-wayland = {
@@ -914,13 +914,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "bff9c7c294069c220d01ffdaba1ddfddee7bcf34";
+    version = "1e413dd572207a80611628fd5c1a836a89fac1e5";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "bff9c7c294069c220d01ffdaba1ddfddee7bcf34";
+      rev = "1e413dd572207a80611628fd5c1a836a89fac1e5";
       fetchSubmodules = false;
-      sha256 = "sha256-xhHYhkJtCQ5ZWNwUbehcKdvmSqKyp09C6O4I9TyJF20=";
+      sha256 = "sha256-uxDEl9yLvx98r+NEysxJEGk42gGZYw3GXMjUZMPW+2Y=";
     });
   };
   spicetify-themes = {
@@ -1008,13 +1008,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "da601c23e14db22a137af650ec0b2bdcea52aee8";
+    version = "afb3f62b01a9fb464cfd38d03c17249b66dbf7c5";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "da601c23e14db22a137af650ec0b2bdcea52aee8";
+      rev = "afb3f62b01a9fb464cfd38d03c17249b66dbf7c5";
       fetchSubmodules = false;
-      sha256 = "sha256-JfjnXzh2IOcehkVor+7ImFRfj7uLyFaMixpRBSF7OYQ=";
+      sha256 = "sha256-PPtwRDGuGb0cRlCHgBKmvi2ow9w9paNQ3CJkUV4o22c=";
     });
   };
   tailscale-systray = {
