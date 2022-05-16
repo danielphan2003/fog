@@ -11423,7 +11423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mattpocock-ts-error-translator",
-    "version": "0.5.1",
+    "version": "0.5.3",
     "passthru": {
       "name": "ts-error-translator",
       "license": "MIT",
@@ -11431,10 +11431,10 @@
       "description": "TypeScript errors, translated for humans"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.1/file/mattpocock.ts-error-translator-0.5.1.vsix",
+      "url": "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.3/file/mattpocock.ts-error-translator-0.5.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5cOvnPFmMH2yGz1v37K8CN16BM4AbTNURXjuQOb+FGA="
+      "sha256": "sha256-aew4Kvqdy3/ScQO6pQuXgPP150qgqJizL7aKrU5s6jA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29243,7 +29243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.23.1",
+    "version": "0.23.2",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29251,10 +29251,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.23.1/file/znck.grammarly-0.23.1.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.23.2/file/znck.grammarly-0.23.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kFvkjb2//IKVHTy8BvsGSejzh6Q5XCkDcwx3ulrG+lk="
+      "sha256": "sha256-mwuLAM24zlMkeAywIw5h3EZT0ZcyBpIRDf/b9AgQHVI="
     },
     "extract": null,
     "rustGitDeps": null

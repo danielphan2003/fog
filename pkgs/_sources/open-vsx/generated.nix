@@ -12147,10 +12147,10 @@
   };
   mattpocock-ts-error-translator = {
     pname = "mattpocock-ts-error-translator";
-    version = "0.5.1";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.1/file/mattpocock.ts-error-translator-0.5.1.vsix";
-      sha256 = "sha256-5cOvnPFmMH2yGz1v37K8CN16BM4AbTNURXjuQOb+FGA=";
+      url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.3/file/mattpocock.ts-error-translator-0.5.3.vsix";
+      sha256 = "sha256-aew4Kvqdy3/ScQO6pQuXgPP150qgqJizL7aKrU5s6jA=";
     };
     name = "ts-error-translator";
     license = "MIT";
@@ -21087,10 +21087,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.1";
+    version = "0.23.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.1/file/znck.grammarly-0.23.1.vsix";
-      sha256 = "sha256-kFvkjb2//IKVHTy8BvsGSejzh6Q5XCkDcwx3ulrG+lk=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.2/file/znck.grammarly-0.23.2.vsix";
+      sha256 = "sha256-mwuLAM24zlMkeAywIw5h3EZT0ZcyBpIRDf/b9AgQHVI=";
     };
     name = "grammarly";
     license = "MIT";
