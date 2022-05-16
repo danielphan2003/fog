@@ -303,10 +303,10 @@
   };
   BroadcomMFD-debugger-for-mainframe = {
     pname = "BroadcomMFD-debugger-for-mainframe";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.1/file/BroadcomMFD.debugger-for-mainframe-1.5.1.vsix";
-      sha256 = "sha256-iMh7JPMQ7TcYxLdTg5/L/tQDbh44OBgEc6GSqOCLVgk=";
+      url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.2/file/BroadcomMFD.debugger-for-mainframe-1.5.2.vsix";
+      sha256 = "sha256-eHTlOhwU6RtJ8undNIIz41jPBW1PL3xC7ocaYMetZYE=";
     };
     name = "debugger-for-mainframe";
     license = "Broadcom";
@@ -3852,6 +3852,18 @@
     license = "";
     publisher = "18kimn";
     description = "a VSCode port of Yorick Peterse's \"Paper\" terminal theme";
+  };
+  _21zz-vscord = {
+    pname = "_21zz-vscord";
+    version = "4.5.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/21zz/vscord/4.5.1/file/21zz.vscord-4.5.1.vsix";
+      sha256 = "sha256-y+K7yiqb8+RfFMpfvLY7LkgdiJ4DO26GmietRK20poc=";
+    };
+    name = "vscord";
+    license = "MIT";
+    publisher = "21zz";
+    description = "Discord Rich Presense specifically for VSCodium";
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";

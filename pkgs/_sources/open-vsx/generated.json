@@ -25703,7 +25703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-debugger-for-mainframe",
-    "version": "1.5.1",
+    "version": "1.5.2",
     "passthru": {
       "name": "debugger-for-mainframe",
       "license": "Broadcom",
@@ -25711,10 +25711,10 @@
       "description": "Provides a modern debugging experience for CICS and Batch applications written in COBOL."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.1/file/BroadcomMFD.debugger-for-mainframe-1.5.1.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.2/file/BroadcomMFD.debugger-for-mainframe-1.5.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iMh7JPMQ7TcYxLdTg5/L/tQDbh44OBgEc6GSqOCLVgk="
+      "sha256": "sha256-eHTlOhwU6RtJ8undNIIz41jPBW1PL3xC7ocaYMetZYE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31695,6 +31695,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-U29Yivq0EQ/gerj5LzUsD6ltlPRcBSnC2u62aR89uek="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "_21zz-vscord": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "_21zz-vscord",
+    "version": "4.5.1",
+    "passthru": {
+      "name": "vscord",
+      "license": "MIT",
+      "publisher": "21zz",
+      "description": "Discord Rich Presense specifically for VSCodium"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/21zz/vscord/4.5.1/file/21zz.vscord-4.5.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-y+K7yiqb8+RfFMpfvLY7LkgdiJ4DO26GmietRK20poc="
     },
     "extract": null,
     "rustGitDeps": null
