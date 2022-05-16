@@ -15783,7 +15783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.1413",
+    "version": "2022.5.1514",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15791,10 +15791,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1413/file/Slint.slint-nightly-2022.5.1413.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1514/file/Slint.slint-nightly-2022.5.1514.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hxDR42gIPTnrtiR8036oTSZhAqzE15ivKdO7GBOjvBw="
+      "sha256": "sha256-Bbq8oJ/W+XqpFOc7NeD42HW53EphgsZs1eIJfeVj4Io="
     },
     "extract": null,
     "rustGitDeps": null
