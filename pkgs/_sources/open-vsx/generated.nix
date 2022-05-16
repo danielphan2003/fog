@@ -11031,10 +11031,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.29.1";
+    version = "1.29.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.1/file/keesschollaart.vscode-home-assistant-1.29.1.vsix";
-      sha256 = "sha256-7JQhzY2Qjp9khgEUo+W1Xjari6w87PprmYzgUA83M4o=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.2/file/keesschollaart.vscode-home-assistant-1.29.2.vsix";
+      sha256 = "sha256-fuK0h2d/egHFow0ZTNOOjKfWsAr0/YE0zjKchBMjI+A=";
     };
     name = "vscode-home-assistant";
     license = "MIT";
@@ -17931,10 +17931,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.19.2";
+    version = "0.19.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.2/file/timonwong.shellcheck-0.19.2.vsix";
-      sha256 = "sha256-CZLSdbJLDZ0MBxzEskBHt9lcJJn3GGz4Kd0/yrdNTjs=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.3/file/timonwong.shellcheck-0.19.3.vsix";
+      sha256 = "sha256-e1D3KBk+TMRU5s7lDUTSFO7+WYO2xdf7a+zJFGpcDlE=";
     };
     name = "shellcheck";
     license = "MIT";
