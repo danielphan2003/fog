@@ -15459,10 +15459,10 @@
   };
   redhat-vscode-debug-adapter-apache-camel = {
     pname = "redhat-vscode-debug-adapter-apache-camel";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.2.0/file/redhat.vscode-debug-adapter-apache-camel-0.2.0.vsix";
-      sha256 = "sha256-s/rfgy67P94+zKzyUx0dhqAH+rqEMmjb7w1moc2Bnts=";
+      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.3.0/file/redhat.vscode-debug-adapter-apache-camel-0.3.0.vsix";
+      sha256 = "sha256-OIRQTrwRlTUWEM3f0THBiv+QrK3nqQcaiL8kpjqEP8I=";
     };
     name = "vscode-debug-adapter-apache-camel";
     license = "Apache-2.0";
