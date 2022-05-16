@@ -3663,10 +3663,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "0.0.9";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.9/file/XOJ-Team.xoj-playground-0.0.9.vsix";
-      sha256 = "sha256-+VXjF2wuzqpKgbjzZ9FmbUo0HhwfIIdsMShk2EqNT5Y=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.0.0/file/XOJ-Team.xoj-playground-1.0.0.vsix";
+      sha256 = "sha256-hEahno93akz859TEcUq3GEOMGzu9vVCPD3ijVCKvWNM=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -11031,10 +11031,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.29.0";
+    version = "1.29.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.0/file/keesschollaart.vscode-home-assistant-1.29.0.vsix";
-      sha256 = "sha256-kPQDwQwsdY3iiqIx1ri+RKKH1zL0Jv9oHO0upo2YsK0=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.1/file/keesschollaart.vscode-home-assistant-1.29.1.vsix";
+      sha256 = "sha256-7JQhzY2Qjp9khgEUo+W1Xjari6w87PprmYzgUA83M4o=";
     };
     name = "vscode-home-assistant";
     license = "MIT";

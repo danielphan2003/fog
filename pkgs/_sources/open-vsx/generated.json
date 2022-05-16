@@ -2723,7 +2723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "keesschollaart-vscode-home-assistant",
-    "version": "1.29.0",
+    "version": "1.29.1",
     "passthru": {
       "name": "vscode-home-assistant",
       "license": "MIT",
@@ -2731,10 +2731,10 @@
       "description": " Completion for entity-id's in Home Assistant Configurations"
     },
     "src": {
-      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.0/file/keesschollaart.vscode-home-assistant-1.29.0.vsix",
+      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.1/file/keesschollaart.vscode-home-assistant-1.29.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kPQDwQwsdY3iiqIx1ri+RKKH1zL0Jv9oHO0upo2YsK0="
+      "sha256": "sha256-7JQhzY2Qjp9khgEUo+W1Xjari6w87PprmYzgUA83M4o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33883,7 +33883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XOJ-Team-xoj-playground",
-    "version": "0.0.9",
+    "version": "1.0.0",
     "passthru": {
       "name": "xoj-playground",
       "license": "AGPL-3.0",
@@ -33891,10 +33891,10 @@
       "description": "A playground extension for XOJ Web IDE and desktop VSC"
     },
     "src": {
-      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/0.0.9/file/XOJ-Team.xoj-playground-0.0.9.vsix",
+      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.0.0/file/XOJ-Team.xoj-playground-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+VXjF2wuzqpKgbjzZ9FmbUo0HhwfIIdsMShk2EqNT5Y="
+      "sha256": "sha256-hEahno93akz859TEcUq3GEOMGzu9vVCPD3ijVCKvWNM="
     },
     "extract": null,
     "rustGitDeps": null
