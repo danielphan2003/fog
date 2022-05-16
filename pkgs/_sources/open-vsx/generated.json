@@ -3423,7 +3423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "CL-eide",
-    "version": "3.6.3",
+    "version": "3.6.4",
     "passthru": {
       "name": "eide",
       "license": "MIT",
@@ -3431,10 +3431,10 @@
       "description": "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V"
     },
     "src": {
-      "url": "https://open-vsx.org/api/CL/eide/3.6.3/file/CL.eide-3.6.3.vsix",
+      "url": "https://open-vsx.org/api/CL/eide/3.6.4/file/CL.eide-3.6.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FDEIqu0dlLVau/1ydgUIZ5VjCskuyA1cZ6fKoHhiWtI="
+      "sha256": "sha256-pdlnzamuDHNS/fW8M/hvMsZDfV/BaHewpWj2PavEOTY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10043,7 +10043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.45",
+    "version": "3.5.47",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -10051,10 +10051,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.45/file/TabNine.tabnine-vscode-3.5.45.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.47/file/TabNine.tabnine-vscode-3.5.47.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jNHK0xRbl571umqa9jq0DGKvKxw3SINrIfZ0yFkUqVA="
+      "sha256": "sha256-IpEqMmW9tLW8gxx2BJXObT8Ws31aGhtD1kO0+egqz1U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11943,7 +11943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pflannery-vscode-versionlens",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "passthru": {
       "name": "vscode-versionlens",
       "license": "ISC",
@@ -11951,10 +11951,10 @@
       "description": "Shows the latest version for each package using code lens"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pflannery/vscode-versionlens/1.0.9/file/pflannery.vscode-versionlens-1.0.9.vsix",
+      "url": "https://open-vsx.org/api/pflannery/vscode-versionlens/1.0.10/file/pflannery.vscode-versionlens-1.0.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cPESnrSnCurVUEgPh6g4Tk7PY3K4du6w9pcOZUYf1bM="
+      "sha256": "sha256-+LDknkHqziDgwiUBfUHu15BP894P+cJuM9YQagg5sis="
     },
     "extract": null,
     "rustGitDeps": null

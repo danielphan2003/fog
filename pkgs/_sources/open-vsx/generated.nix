@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.6.3";
+    version = "3.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.6.3/file/CL.eide-3.6.3.vsix";
-      sha256 = "sha256-FDEIqu0dlLVau/1ydgUIZ5VjCskuyA1cZ6fKoHhiWtI=";
+      url = "https://open-vsx.org/api/CL/eide/3.6.4/file/CL.eide-3.6.4.vsix";
+      sha256 = "sha256-pdlnzamuDHNS/fW8M/hvMsZDfV/BaHewpWj2PavEOTY=";
     };
     name = "eide";
     license = "MIT";
@@ -3291,10 +3291,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.45";
+    version = "3.5.47";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.45/file/TabNine.tabnine-vscode-3.5.45.vsix";
-      sha256 = "sha256-jNHK0xRbl571umqa9jq0DGKvKxw3SINrIfZ0yFkUqVA=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.47/file/TabNine.tabnine-vscode-3.5.47.vsix";
+      sha256 = "sha256-IpEqMmW9tLW8gxx2BJXObT8Ws31aGhtD1kO0+egqz1U=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -14499,10 +14499,10 @@
   };
   pflannery-vscode-versionlens = {
     pname = "pflannery-vscode-versionlens";
-    version = "1.0.9";
+    version = "1.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pflannery/vscode-versionlens/1.0.9/file/pflannery.vscode-versionlens-1.0.9.vsix";
-      sha256 = "sha256-cPESnrSnCurVUEgPh6g4Tk7PY3K4du6w9pcOZUYf1bM=";
+      url = "https://open-vsx.org/api/pflannery/vscode-versionlens/1.0.10/file/pflannery.vscode-versionlens-1.0.10.vsix";
+      sha256 = "sha256-+LDknkHqziDgwiUBfUHu15BP894P+cJuM9YQagg5sis=";
     };
     name = "vscode-versionlens";
     license = "ISC";
