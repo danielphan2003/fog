@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-878",
+    "version": "1.0-879",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-878-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-879-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eDrmMZiSoG+4ZwP7aQj3lP0QZ0aHbufh7k1tju4onfo="
+      "sha256": "sha256-8bosg+rvRG8CXpt+anRJO2n01fwgnhQn2wRIS98JvU4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "0a5eff8468301f9afb635c7db3751de30dc74c12",
+    "version": "cdcc8fe9921f05a6f02638f8818d34592cc73af7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-COYIteXDGqhsByn5Q6Hg429iaNcXZRXzuAVV69BkSvM=",
-      "rev": "0a5eff8468301f9afb635c7db3751de30dc74c12"
+      "sha256": "sha256-RfPrvbJfrBlJpqQrqMkRAi6czc4q/9POOkPAhAoQGtU=",
+      "rev": "cdcc8fe9921f05a6f02638f8818d34592cc73af7"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1606,7 +1606,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xdg-desktop-portal",
-    "version": "0e702d45eb29da9229c698de5858e38ffc0b18eb",
+    "version": "9de515017f3273b7ec6adf458e8d10dd2b61bb51",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1616,8 +1616,8 @@
       "name": null,
       "repo": "xdg-desktop-portal",
       "type": "github",
-      "sha256": "sha256-Ok+dZac1aQ+HfXUgaCMGmj1SN5BONrIvJBMMYI/My4Q=",
-      "rev": "0e702d45eb29da9229c698de5858e38ffc0b18eb"
+      "sha256": "sha256-s5JW9/UN7jg6+ogedC++UGTVXr1kngokFiB0Ri0nRm4=",
+      "rev": "9de515017f3273b7ec6adf458e8d10dd2b61bb51"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2038,7 +2038,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "light",
-    "version": "33f2316e5512762a5a33a62c78db7a435d9fec9b",
+    "version": "c5fb45423ec1ee1080e442e061ccfcdb98b32e4a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2048,8 +2048,8 @@
       "name": null,
       "repo": "light",
       "type": "github",
-      "sha256": "sha256-d8iBxfHkryy5lM5myWPo0a3zgUZQrklYazCSCyKKDGs=",
-      "rev": "33f2316e5512762a5a33a62c78db7a435d9fec9b"
+      "sha256": "sha256-8v9ytywv2+/qqN94g44vHMGsbKueYSDXq76wo95pSFE=",
+      "rev": "c5fb45423ec1ee1080e442e061ccfcdb98b32e4a"
     },
     "extract": null,
     "rustGitDeps": null

@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-878";
+    version = "1.0-879";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-878-1_all.deb";
-      sha256 = "sha256-eDrmMZiSoG+4ZwP7aQj3lP0QZ0aHbufh7k1tju4onfo=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-879-1_all.deb";
+      sha256 = "sha256-8bosg+rvRG8CXpt+anRJO2n01fwgnhQn2wRIS98JvU4=";
     };
   };
   jitsi-meet = {
@@ -491,13 +491,13 @@
   };
   light = {
     pname = "light";
-    version = "33f2316e5512762a5a33a62c78db7a435d9fec9b";
+    version = "c5fb45423ec1ee1080e442e061ccfcdb98b32e4a";
     src = fetchFromGitHub ({
       owner = "haikarainen";
       repo = "light";
-      rev = "33f2316e5512762a5a33a62c78db7a435d9fec9b";
+      rev = "c5fb45423ec1ee1080e442e061ccfcdb98b32e4a";
       fetchSubmodules = false;
-      sha256 = "sha256-d8iBxfHkryy5lM5myWPo0a3zgUZQrklYazCSCyKKDGs=";
+      sha256 = "sha256-8v9ytywv2+/qqN94g44vHMGsbKueYSDXq76wo95pSFE=";
     });
   };
   lightcord = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "0a5eff8468301f9afb635c7db3751de30dc74c12";
+    version = "cdcc8fe9921f05a6f02638f8818d34592cc73af7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "0a5eff8468301f9afb635c7db3751de30dc74c12";
+      rev = "cdcc8fe9921f05a6f02638f8818d34592cc73af7";
       fetchSubmodules = false;
-      sha256 = "sha256-COYIteXDGqhsByn5Q6Hg429iaNcXZRXzuAVV69BkSvM=";
+      sha256 = "sha256-RfPrvbJfrBlJpqQrqMkRAi6czc4q/9POOkPAhAoQGtU=";
     });
   };
   rofi-wayland = {
@@ -1188,13 +1188,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "0e702d45eb29da9229c698de5858e38ffc0b18eb";
+    version = "9de515017f3273b7ec6adf458e8d10dd2b61bb51";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "0e702d45eb29da9229c698de5858e38ffc0b18eb";
+      rev = "9de515017f3273b7ec6adf458e8d10dd2b61bb51";
       fetchSubmodules = false;
-      sha256 = "sha256-Ok+dZac1aQ+HfXUgaCMGmj1SN5BONrIvJBMMYI/My4Q=";
+      sha256 = "sha256-s5JW9/UN7jg6+ogedC++UGTVXr1kngokFiB0Ri0nRm4=";
     });
   };
   xdg-desktop-portal-gtk = {
