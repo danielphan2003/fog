@@ -23823,7 +23823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "digma-digma",
-    "version": "0.5.24",
+    "version": "0.5.25",
     "passthru": {
       "name": "digma",
       "license": "MIT",
@@ -23831,10 +23831,10 @@
       "description": "Code insights and Observability for OpenTelemetry. .NET, Python, more coming soon."
     },
     "src": {
-      "url": "https://open-vsx.org/api/digma/digma/0.5.24/file/digma.digma-0.5.24.vsix",
+      "url": "https://open-vsx.org/api/digma/digma/0.5.25/file/digma.digma-0.5.25.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nQZTgTrSrFypWL7xvn5d5To+E8K7Fgrrcxb5mWBxVwQ="
+      "sha256": "sha256-Txwx98GX+Xwnq8lJOJYIWcVN4UyXqT4TkWyHdRm3JyA="
     },
     "extract": null,
     "rustGitDeps": null
