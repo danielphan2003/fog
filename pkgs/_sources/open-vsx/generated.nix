@@ -7203,10 +7203,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.94.4";
+    version = "0.94.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.94.4/file/dendron.nightly-0.94.4.vsix";
-      sha256 = "sha256-7cnCuomv5R/KyrrJ2riKXOtjDjrUCLKftXu0jPTMpdw=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.94.5/file/dendron.nightly-0.94.5.vsix";
+      sha256 = "sha256-AOByk1V/D5JQe1H2gtJHmi5voz58k4toD24hfDmTNZA=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -21171,10 +21171,10 @@
   };
   zokugun-zokugun-theme = {
     pname = "zokugun-zokugun-theme";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.5.0/file/zokugun.zokugun-theme-0.5.0.vsix";
-      sha256 = "sha256-f795t1C2I5BKChLJOLYl6E2qC0rZu69YsgYA/iYSqJQ=";
+      url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.0/file/zokugun.zokugun-theme-0.6.0.vsix";
+      sha256 = "sha256-kMKCjvNJ0DF6Jdc5fgtiADwEKbfBt4OB2eutu/ax2ic=";
     };
     name = "zokugun-theme";
     license = "MIT";
