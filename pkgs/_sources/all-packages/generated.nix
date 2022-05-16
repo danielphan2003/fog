@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "c96dbea9bc98d82dc4ac5119b580d11457b8cd4f";
+    version = "a5ba7ea3962686e02bf632362adf633c8ed7b51e";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "c96dbea9bc98d82dc4ac5119b580d11457b8cd4f";
+      rev = "a5ba7ea3962686e02bf632362adf633c8ed7b51e";
       fetchSubmodules = false;
-      sha256 = "sha256-TtS9EaTakOjFdi73nYrLFsMQT3IrH7CdI5EheUha8I4=";
+      sha256 = "sha256-ZE4RM9151+A8uLt2gJ7StiPZuZP/vTebJvmE6rbq0O4=";
     });
   };
   caddy = {
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6182";
+    version = "1.0.6183";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6182.tar.bz2";
-      sha256 = "sha256-JretVJXpCtF7zayKLASlF22fXXdP+ffL5r9WzzVAIHI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6183.tar.bz2";
+      sha256 = "sha256-FM3Ncz5uubL0rb1DNXb7UxDrfNrmywX8zZ8rV6Ev9KM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6182";
+    version = "1.0.6183";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6182-1_all.deb";
-      sha256 = "sha256-44GZ3Z7uCz+bbSiI+gdVdgQjcxxW08Euy3hunvNH5bE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6183-1_all.deb";
+      sha256 = "sha256-6iwjrkPEqz7AnqTcfDJLAG1cpQ9Dg93vtn15Pt/7ycc=";
     };
   };
   jitsi-videobridge2 = {
