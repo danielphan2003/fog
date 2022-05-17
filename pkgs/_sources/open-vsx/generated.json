@@ -12943,7 +12943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ocamllabs-ocaml-platform",
-    "version": "1.10.2",
+    "version": "1.10.3",
     "passthru": {
       "name": "ocaml-platform",
       "license": "MIT",
@@ -12951,10 +12951,10 @@
       "description": "Official OCaml language extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.2/file/ocamllabs.ocaml-platform-1.10.2.vsix",
+      "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.3/file/ocamllabs.ocaml-platform-1.10.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-maOoJ5RsmUzu8J/3RwoFvf6KtalPdxGIkfqF8Wt72Mo="
+      "sha256": "sha256-oHiQJ6hcH40KKNj2DsHcxPi+01xZM+zHdn8vH1NK2s0="
     },
     "extract": null,
     "rustGitDeps": null

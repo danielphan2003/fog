@@ -14043,10 +14043,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.10.2";
+    version = "1.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.2/file/ocamllabs.ocaml-platform-1.10.2.vsix";
-      sha256 = "sha256-maOoJ5RsmUzu8J/3RwoFvf6KtalPdxGIkfqF8Wt72Mo=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.3/file/ocamllabs.ocaml-platform-1.10.3.vsix";
+      sha256 = "sha256-oHiQJ6hcH40KKNj2DsHcxPi+01xZM+zHdn8vH1NK2s0=";
     };
     name = "ocaml-platform";
     license = "MIT";
