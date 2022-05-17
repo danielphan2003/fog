@@ -537,13 +537,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-dev",
-    "version": "103.0.1253.0",
+    "version": "103.0.1255.0",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1253.0-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1255.0-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FbCgjpoA6XbIojjlW3h4eiU1V0kbP0qj12zVRvGBB4s="
+      "sha256": "sha256-WMxnwtwHDxfJAKM/GLHKBGEEtXUQls93lY5TJdXAJ5Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1212,7 +1212,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "doggo",
-    "version": "8d705245a1d2dc31d8c586cce943404f48ee191d",
+    "version": "0ce04d0c13b27bf8b5ec75f43993bb09b79bf010",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1222,8 +1222,8 @@
       "name": null,
       "repo": "doggo",
       "type": "github",
-      "sha256": "sha256-0YBAJmKkzY3G6p8AF3zVA7bGv6z5RMBLv5GMdoD5vEU=",
-      "rev": "8d705245a1d2dc31d8c586cce943404f48ee191d"
+      "sha256": "sha256-gaVJ+bY2AALGsC4I4lG5w155t6Gl7f6j4rASgfoJtpM=",
+      "rev": "0ce04d0c13b27bf8b5ec75f43993bb09b79bf010"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "473d4591b095299ed14de0cdc6d6fad6ea422a93",
+    "version": "5fa4b9a7777256924147838901e27de2151e1d8a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-QX36cqmaLVfnFMS+0XWSk9Y0c+yIJy1X8Xf14w8sqlE=",
-      "rev": "473d4591b095299ed14de0cdc6d6fad6ea422a93"
+      "sha256": "sha256-zspUAClsYvtuFdHGXfKPx1vE3/QrBzgkmnyy9+zku2U=",
+      "rev": "5fa4b9a7777256924147838901e27de2151e1d8a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "53f6c3f9f25523bfe42878fc049b891e6207101f",
+    "version": "ec4c49a338968283d2a2f03d700a75f63926a372",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-3goM31X6ndNPka0wb4tHLX7+HZJ2wSffsI2vdR0Ptj0=",
-      "rev": "53f6c3f9f25523bfe42878fc049b891e6207101f"
+      "sha256": "sha256-m3dajtmM9Jp1c+JsnDp1ijMZdFU5Y4z5y1pdgZ1unIA=",
+      "rev": "ec4c49a338968283d2a2f03d700a75f63926a372"
     },
     "extract": null,
     "rustGitDeps": null
@@ -2115,9 +2115,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-6de6d6c7a7db28f92f109a64ceb8e64f67299602/Cargo.lock",
+    "cargoLock": "./rustdesk-85332a624523b156327eedfb9b57d255bd906800/Cargo.lock",
     "name": "rustdesk",
-    "version": "6de6d6c7a7db28f92f109a64ceb8e64f67299602",
+    "version": "85332a624523b156327eedfb9b57d255bd906800",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2127,8 +2127,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-XzdPbRxYOnncJevKKlK36afepU5032BeLRqnyPM6g4g=",
-      "rev": "6de6d6c7a7db28f92f109a64ceb8e64f67299602"
+      "sha256": "sha256-V62BLvLLY9uPeOOmlxeloBrQrElxDt0eY++oiX3oRTc=",
+      "rev": "85332a624523b156327eedfb9b57d255bd906800"
     },
     "extract": null,
     "rustGitDeps": {

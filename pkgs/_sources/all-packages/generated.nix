@@ -270,13 +270,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "8d705245a1d2dc31d8c586cce943404f48ee191d";
+    version = "0ce04d0c13b27bf8b5ec75f43993bb09b79bf010";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "8d705245a1d2dc31d8c586cce943404f48ee191d";
+      rev = "0ce04d0c13b27bf8b5ec75f43993bb09b79bf010";
       fetchSubmodules = false;
-      sha256 = "sha256-0YBAJmKkzY3G6p8AF3zVA7bGv6z5RMBLv5GMdoD5vEU=";
+      sha256 = "sha256-gaVJ+bY2AALGsC4I4lG5w155t6Gl7f6j4rASgfoJtpM=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "473d4591b095299ed14de0cdc6d6fad6ea422a93";
+    version = "5fa4b9a7777256924147838901e27de2151e1d8a";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "473d4591b095299ed14de0cdc6d6fad6ea422a93";
+      rev = "5fa4b9a7777256924147838901e27de2151e1d8a";
       fetchSubmodules = false;
-      sha256 = "sha256-QX36cqmaLVfnFMS+0XWSk9Y0c+yIJy1X8Xf14w8sqlE=";
+      sha256 = "sha256-zspUAClsYvtuFdHGXfKPx1vE3/QrBzgkmnyy9+zku2U=";
     });
   };
   ibus = {
@@ -554,10 +554,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "103.0.1253.0";
+    version = "103.0.1255.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1253.0-1_amd64.deb";
-      sha256 = "sha256-FbCgjpoA6XbIojjlW3h4eiU1V0kbP0qj12zVRvGBB4s=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1255.0-1_amd64.deb";
+      sha256 = "sha256-WMxnwtwHDxfJAKM/GLHKBGEEtXUQls93lY5TJdXAJ5Y=";
     };
   };
   minecraft-wayland = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6de6d6c7a7db28f92f109a64ceb8e64f67299602";
+    version = "85332a624523b156327eedfb9b57d255bd906800";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6de6d6c7a7db28f92f109a64ceb8e64f67299602";
+      rev = "85332a624523b156327eedfb9b57d255bd906800";
       fetchSubmodules = false;
-      sha256 = "sha256-XzdPbRxYOnncJevKKlK36afepU5032BeLRqnyPM6g4g=";
+      sha256 = "sha256-V62BLvLLY9uPeOOmlxeloBrQrElxDt0eY++oiX3oRTc=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-6de6d6c7a7db28f92f109a64ceb8e64f67299602/Cargo.lock;
+      lockFile = ./rustdesk-85332a624523b156327eedfb9b57d255bd906800/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
@@ -1008,13 +1008,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "53f6c3f9f25523bfe42878fc049b891e6207101f";
+    version = "ec4c49a338968283d2a2f03d700a75f63926a372";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "53f6c3f9f25523bfe42878fc049b891e6207101f";
+      rev = "ec4c49a338968283d2a2f03d700a75f63926a372";
       fetchSubmodules = false;
-      sha256 = "sha256-3goM31X6ndNPka0wb4tHLX7+HZJ2wSffsI2vdR0Ptj0=";
+      sha256 = "sha256-m3dajtmM9Jp1c+JsnDp1ijMZdFU5Y4z5y1pdgZ1unIA=";
     });
   };
   tailscale-systray = {
