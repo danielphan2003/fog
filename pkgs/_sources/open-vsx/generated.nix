@@ -16455,10 +16455,10 @@
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
-    version = "1.0.7";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.0.7/file/sebastianbille.iam-legend-1.0.7.vsix";
-      sha256 = "sha256-j4vmHJXc5H8QCF1JVX3KekGNIoQE+/CsVD2QcpboYT0=";
+      url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.0/file/sebastianbille.iam-legend-1.1.0.vsix";
+      sha256 = "sha256-AmtnULOzGk48pzH6FQyUNsXir8jXJ7Ct1U7X31YxtcY=";
     };
     name = "iam-legend";
     license = "MIT";
