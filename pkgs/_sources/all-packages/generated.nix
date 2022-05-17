@@ -270,13 +270,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "79c5fc72837404cfef96ce9dcd5cae3343931655";
+    version = "8d705245a1d2dc31d8c586cce943404f48ee191d";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "79c5fc72837404cfef96ce9dcd5cae3343931655";
+      rev = "8d705245a1d2dc31d8c586cce943404f48ee191d";
       fetchSubmodules = false;
-      sha256 = "sha256-gNrwS99KBB0CmYJ/X41cP3ppPiA5UucKEF0THm0WREQ=";
+      sha256 = "sha256-0YBAJmKkzY3G6p8AF3zVA7bGv6z5RMBLv5GMdoD5vEU=";
     });
   };
   dribbblish-dynamic-theme = {
