@@ -303,10 +303,10 @@
   };
   BroadcomMFD-debugger-for-mainframe = {
     pname = "BroadcomMFD-debugger-for-mainframe";
-    version = "1.5.2";
+    version = "1.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.2/file/BroadcomMFD.debugger-for-mainframe-1.5.2.vsix";
-      sha256 = "sha256-eHTlOhwU6RtJ8undNIIz41jPBW1PL3xC7ocaYMetZYE=";
+      url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.3/file/BroadcomMFD.debugger-for-mainframe-1.5.3.vsix";
+      sha256 = "sha256-AmsV14e75wJHXFXY+WzBV9UW+Tb56cDl2/hFWVD/GXI=";
     };
     name = "debugger-for-mainframe";
     license = "Broadcom";
@@ -5175,10 +5175,10 @@
   };
   asispts-oxford-blue = {
     pname = "asispts-oxford-blue";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asispts/oxford-blue/0.3.1/file/asispts.oxford-blue-0.3.1.vsix";
-      sha256 = "sha256-wZs7Bnw0LcmyhI/4M4reSf9qFl1mHWpS5VQyi4JGMRs=";
+      url = "https://open-vsx.org/api/asispts/oxford-blue/0.4.0/file/asispts.oxford-blue-0.4.0.vsix";
+      sha256 = "sha256-pL7vNK6N3KmwD6AhAWr+SRN9Ghm1l5IYPpsVXmVeTkk=";
     };
     name = "oxford-blue";
     license = "MIT";
@@ -5943,10 +5943,10 @@
   };
   butchland-vscode-dbt-bigquery-power-user = {
     pname = "butchland-vscode-dbt-bigquery-power-user";
-    version = "0.5.21";
+    version = "0.5.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.21/file/butchland.vscode-dbt-bigquery-power-user-0.5.21.vsix";
-      sha256 = "sha256-1Za4vsgRJqIjX8LDs6s+CistO1rakMbcS5sMq1qGE/g=";
+      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.22/file/butchland.vscode-dbt-bigquery-power-user-0.5.22.vsix";
+      sha256 = "sha256-f46ncdqfHhuKV/PceLvtIvm8IsHDdxZZnt+r7C5DIvE=";
     };
     name = "vscode-dbt-bigquery-power-user";
     license = "MIT";
@@ -16695,10 +16695,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.14.1";
+    version = "0.14.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.1/file/shufo.vscode-blade-formatter-0.14.1.vsix";
-      sha256 = "sha256-C+IhQKJzfy9I6iV/ZHx47psfCr2KXsXwqMa29gaCzT4=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.2/file/shufo.vscode-blade-formatter-0.14.2.vsix";
+      sha256 = "sha256-j/EJCpnQlh/tgGS4P14WIVsKKVmVm+TlZJNIbWLPGvk=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";

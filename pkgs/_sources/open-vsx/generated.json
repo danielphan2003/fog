@@ -16483,7 +16483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "asispts-oxford-blue",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "passthru": {
       "name": "oxford-blue",
       "license": "MIT",
@@ -16491,10 +16491,10 @@
       "description": "Yet another Visual Studio Code (vscode) dark theme"
     },
     "src": {
-      "url": "https://open-vsx.org/api/asispts/oxford-blue/0.3.1/file/asispts.oxford-blue-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/asispts/oxford-blue/0.4.0/file/asispts.oxford-blue-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wZs7Bnw0LcmyhI/4M4reSf9qFl1mHWpS5VQyi4JGMRs="
+      "sha256": "sha256-pL7vNK6N3KmwD6AhAWr+SRN9Ghm1l5IYPpsVXmVeTkk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18203,7 +18203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.14.1",
+    "version": "0.14.2",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -18211,10 +18211,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.1/file/shufo.vscode-blade-formatter-0.14.1.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.2/file/shufo.vscode-blade-formatter-0.14.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-C+IhQKJzfy9I6iV/ZHx47psfCr2KXsXwqMa29gaCzT4="
+      "sha256": "sha256-j/EJCpnQlh/tgGS4P14WIVsKKVmVm+TlZJNIbWLPGvk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25743,7 +25743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-debugger-for-mainframe",
-    "version": "1.5.2",
+    "version": "1.5.3",
     "passthru": {
       "name": "debugger-for-mainframe",
       "license": "Broadcom",
@@ -25751,10 +25751,10 @@
       "description": "Provides a modern debugging experience for CICS and Batch applications written in COBOL."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.2/file/BroadcomMFD.debugger-for-mainframe-1.5.2.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.3/file/BroadcomMFD.debugger-for-mainframe-1.5.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eHTlOhwU6RtJ8undNIIz41jPBW1PL3xC7ocaYMetZYE="
+      "sha256": "sha256-AmsV14e75wJHXFXY+WzBV9UW+Tb56cDl2/hFWVD/GXI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27843,7 +27843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "butchland-vscode-dbt-bigquery-power-user",
-    "version": "0.5.21",
+    "version": "0.5.22",
     "passthru": {
       "name": "vscode-dbt-bigquery-power-user",
       "license": "MIT",
@@ -27851,10 +27851,10 @@
       "description": "This extension makes vscode seamlessly work with dbt and BigQuery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.21/file/butchland.vscode-dbt-bigquery-power-user-0.5.21.vsix",
+      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.22/file/butchland.vscode-dbt-bigquery-power-user-0.5.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1Za4vsgRJqIjX8LDs6s+CistO1rakMbcS5sMq1qGE/g="
+      "sha256": "sha256-f46ncdqfHhuKV/PceLvtIvm8IsHDdxZZnt+r7C5DIvE="
     },
     "extract": null,
     "rustGitDeps": null
