@@ -2443,7 +2443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oleg-shilo-favorites",
-    "version": "1.5.15",
+    "version": "1.5.16",
     "passthru": {
       "name": "favorites",
       "license": "MIT",
@@ -2451,10 +2451,10 @@
       "description": "Manage and quickly access frequently used documents and documents' sets"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oleg-shilo/favorites/1.5.15/file/oleg-shilo.favorites-1.5.15.vsix",
+      "url": "https://open-vsx.org/api/oleg-shilo/favorites/1.5.16/file/oleg-shilo.favorites-1.5.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aOpAokwiFlYAkYi/iQ49cn8wyl/Mck3cspC+SY4/VyQ="
+      "sha256": "sha256-+4j/nrysnqVZSCXgzmXCnsdMo5TrwY7cfKHmF+Efvt4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15783,7 +15783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.1514",
+    "version": "2022.5.1611",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15791,10 +15791,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1514/file/Slint.slint-nightly-2022.5.1514.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1611/file/Slint.slint-nightly-2022.5.1611.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Bbq8oJ/W+XqpFOc7NeD42HW53EphgsZs1eIJfeVj4Io="
+      "sha256": "sha256-DKkHWe2DOx7XTYssQRSTCByBB5cwRfo3vdqiHebktQs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18575,6 +18575,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-mh7EmYHWWCD6PbJS7nfrJECpxDo0rNr+LzvlqlX5nfQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "jeanp413-test-java-extension-pack": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "jeanp413-test-java-extension-pack",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "test-java-extension-pack",
+      "license": "MIT",
+      "publisher": "jeanp413",
+      "description": "Test Java extension pack"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/jeanp413/test-java-extension-pack/0.0.1/file/jeanp413.test-java-extension-pack-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-cU48EXMNexUxdNMffyoDwTCTE8UqLS7NJTre7HPFpLw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22299,6 +22319,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "houkanshan-vscode-markdown-footnote": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "houkanshan-vscode-markdown-footnote",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "vscode-markdown-footnote",
+      "license": "MIT",
+      "publisher": "houkanshan",
+      "description": "Support markdown footnote in VSCode editor"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/houkanshan/vscode-markdown-footnote/1.0.0/file/houkanshan.vscode-markdown-footnote-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-YQDF5bzd8HWWGA0GaFKi89Y6pF2l99wO3+XQFe2L2Ec="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "DCsunset-vscode-modal-editor": {
     "pinned": false,
     "cargoLock": null,
@@ -24263,7 +24303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bradlc-vscode-tailwindcss",
-    "version": "0.8.3",
+    "version": "0.8.4",
     "passthru": {
       "name": "vscode-tailwindcss",
       "license": "MIT",
@@ -24271,10 +24311,10 @@
       "description": "Intelligent Tailwind CSS tooling for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.3/file/bradlc.vscode-tailwindcss-0.8.3.vsix",
+      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.4/file/bradlc.vscode-tailwindcss-0.8.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HSsv0yxQWnp1WrGnIELrnD7JtFntE92cEhc7B1oZd3M="
+      "sha256": "sha256-P+nGQVNlBkhCpNK9tg5bz+GUbnr5SYvSB9+eX+D6gRw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24903,7 +24943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "appliedengdesign-vscode-gcode-syntax",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "passthru": {
       "name": "vscode-gcode-syntax",
       "license": "MIT",
@@ -24911,10 +24951,10 @@
       "description": "Turn VSCode into a fully capable G-Code editor, including language support & more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.0/file/appliedengdesign.vscode-gcode-syntax-0.7.0.vsix",
+      "url": "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.1/file/appliedengdesign.vscode-gcode-syntax-0.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7Jns2z/vX1Eq3dZbkik3jsiNQl2z6Gd1pL5NA6jwCZA="
+      "sha256": "sha256-DsH3rg56CyRQqnIHXUrVofdlcuIlVJ6WFLNGpc0SU0U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26363,7 +26403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "YXL-cloudmusic",
-    "version": "9.9.1",
+    "version": "9.9.2",
     "passthru": {
       "name": "cloudmusic",
       "license": "MIT",
@@ -26371,10 +26411,10 @@
       "description": "Netease Music for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.9.1/file/YXL.cloudmusic-9.9.1.vsix",
+      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.9.2/file/YXL.cloudmusic-9.9.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/6NlOQAWGWdGIRSgtTXfHNhteF/kTpZ38QTdjUjgcQY="
+      "sha256": "sha256-V5IYPwXeTBa43Bx3AZRjx6f+X44Yi4b83GMOIksuD2M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31455,6 +31495,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-coLU/MCJL3hBAgAwrgBxuGkTfhZ2cnNwvZhKPo4bdC8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "fabiospampinato-vscode-terminals": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "fabiospampinato-vscode-terminals",
+    "version": "1.13.0",
+    "passthru": {
+      "name": "vscode-terminals",
+      "license": "MIT",
+      "publisher": "fabiospampinato",
+      "description": "An extension for setting-up multiple terminals at once, or just running some commands"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/fabiospampinato/vscode-terminals/1.13.0/file/fabiospampinato.vscode-terminals-1.13.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-uv35g8JiOkEdcAqjEIu4oXRfVy1rsyESLcs29eTvuGU="
     },
     "extract": null,
     "rustGitDeps": null

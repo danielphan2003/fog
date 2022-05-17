@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.1514";
+    version = "2022.5.1611";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1514/file/Slint.slint-nightly-2022.5.1514.vsix";
-      sha256 = "sha256-Bbq8oJ/W+XqpFOc7NeD42HW53EphgsZs1eIJfeVj4Io=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1611/file/Slint.slint-nightly-2022.5.1611.vsix";
+      sha256 = "sha256-DKkHWe2DOx7XTYssQRSTCByBB5cwRfo3vdqiHebktQs=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -3735,10 +3735,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.9.1";
+    version = "9.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.9.1/file/YXL.cloudmusic-9.9.1.vsix";
-      sha256 = "sha256-/6NlOQAWGWdGIRSgtTXfHNhteF/kTpZ38QTdjUjgcQY=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.9.2/file/YXL.cloudmusic-9.9.2.vsix";
+      sha256 = "sha256-V5IYPwXeTBa43Bx3AZRjx6f+X44Yi4b83GMOIksuD2M=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -4863,10 +4863,10 @@
   };
   appliedengdesign-vscode-gcode-syntax = {
     pname = "appliedengdesign-vscode-gcode-syntax";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.0/file/appliedengdesign.vscode-gcode-syntax-0.7.0.vsix";
-      sha256 = "sha256-7Jns2z/vX1Eq3dZbkik3jsiNQl2z6Gd1pL5NA6jwCZA=";
+      url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.1/file/appliedengdesign.vscode-gcode-syntax-0.7.1.vsix";
+      sha256 = "sha256-DsH3rg56CyRQqnIHXUrVofdlcuIlVJ6WFLNGpc0SU0U=";
     };
     name = "vscode-gcode-syntax";
     license = "MIT";
@@ -5751,10 +5751,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.8.3";
+    version = "0.8.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.3/file/bradlc.vscode-tailwindcss-0.8.3.vsix";
-      sha256 = "sha256-HSsv0yxQWnp1WrGnIELrnD7JtFntE92cEhc7B1oZd3M=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.4/file/bradlc.vscode-tailwindcss-0.8.4.vsix";
+      sha256 = "sha256-P+nGQVNlBkhCpNK9tg5bz+GUbnr5SYvSB9+eX+D6gRw=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -8149,6 +8149,18 @@
     publisher = "fabiospampinato";
     description = "Open the current selection, project, or arbitrary string, in npmjs.com.";
   };
+  fabiospampinato-vscode-terminals = {
+    pname = "fabiospampinato-vscode-terminals";
+    version = "1.13.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/fabiospampinato/vscode-terminals/1.13.0/file/fabiospampinato.vscode-terminals-1.13.0.vsix";
+      sha256 = "sha256-uv35g8JiOkEdcAqjEIu4oXRfVy1rsyESLcs29eTvuGU=";
+    };
+    name = "vscode-terminals";
+    license = "MIT";
+    publisher = "fabiospampinato";
+    description = "An extension for setting-up multiple terminals at once, or just running some commands";
+  };
   fabiospampinato-vscode-todo-plus = {
     pname = "fabiospampinato-vscode-todo-plus";
     version = "4.18.4";
@@ -9541,6 +9553,18 @@
     publisher = "hoovercj";
     description = "Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.";
   };
+  houkanshan-vscode-markdown-footnote = {
+    pname = "houkanshan-vscode-markdown-footnote";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/houkanshan/vscode-markdown-footnote/1.0.0/file/houkanshan.vscode-markdown-footnote-1.0.0.vsix";
+      sha256 = "sha256-YQDF5bzd8HWWGA0GaFKi89Y6pF2l99wO3+XQFe2L2Ec=";
+    };
+    name = "vscode-markdown-footnote";
+    license = "MIT";
+    publisher = "houkanshan";
+    description = "Support markdown footnote in VSCode editor";
+  };
   hroussea-42-norminette-v2 = {
     pname = "hroussea-42-norminette-v2";
     version = "0.5.1";
@@ -10416,6 +10440,18 @@
     license = "MIT";
     publisher = "jeanp413";
     description = "A test extension used for smoke testing VS Code Web Extensions UI";
+  };
+  jeanp413-test-java-extension-pack = {
+    pname = "jeanp413-test-java-extension-pack";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jeanp413/test-java-extension-pack/0.0.1/file/jeanp413.test-java-extension-pack-0.0.1.vsix";
+      sha256 = "sha256-cU48EXMNexUxdNMffyoDwTCTE8UqLS7NJTre7HPFpLw=";
+    };
+    name = "test-java-extension-pack";
+    license = "MIT";
+    publisher = "jeanp413";
+    description = "Test Java extension pack";
   };
   jebbs-markdown-extended = {
     pname = "jebbs-markdown-extended";
@@ -14067,10 +14103,10 @@
   };
   oleg-shilo-favorites = {
     pname = "oleg-shilo-favorites";
-    version = "1.5.15";
+    version = "1.5.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.15/file/oleg-shilo.favorites-1.5.15.vsix";
-      sha256 = "sha256-aOpAokwiFlYAkYi/iQ49cn8wyl/Mck3cspC+SY4/VyQ=";
+      url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.16/file/oleg-shilo.favorites-1.5.16.vsix";
+      sha256 = "sha256-+4j/nrysnqVZSCXgzmXCnsdMo5TrwY7cfKHmF+Efvt4=";
     };
     name = "favorites";
     license = "MIT";
