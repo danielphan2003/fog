@@ -99,10 +99,10 @@
   };
   AquaSecurityOfficial-trivy-vulnerability-scanner = {
     pname = "AquaSecurityOfficial-trivy-vulnerability-scanner";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.5.2/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.5.2.vsix";
-      sha256 = "sha256-GaxMUSoExtzf/rH8wiJdYPXe18ZIxdJKoT3vIEvxFlM=";
+      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.5.3/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.5.3.vsix";
+      sha256 = "sha256-z9D3WWJkT85LoigS3V2Pop/DdbJDynVswaPQY0qNd5g=";
     };
     name = "trivy-vulnerability-scanner";
     license = "Apache-2.0";

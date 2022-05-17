@@ -18143,7 +18143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "AquaSecurityOfficial-trivy-vulnerability-scanner",
-    "version": "0.5.2",
+    "version": "0.5.3",
     "passthru": {
       "name": "trivy-vulnerability-scanner",
       "license": "Apache-2.0",
@@ -18151,10 +18151,10 @@
       "description": "A VS Code extension for Trivy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.5.2/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.5.2.vsix",
+      "url": "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.5.3/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.5.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GaxMUSoExtzf/rH8wiJdYPXe18ZIxdJKoT3vIEvxFlM="
+      "sha256": "sha256-z9D3WWJkT85LoigS3V2Pop/DdbJDynVswaPQY0qNd5g="
     },
     "extract": null,
     "rustGitDeps": null
