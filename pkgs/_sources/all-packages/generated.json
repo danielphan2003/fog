@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6183",
+    "version": "1.0.6184",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6183-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6184-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6iwjrkPEqz7AnqTcfDJLAG1cpQ9Dg93vtn15Pt/7ycc="
+      "sha256": "sha256-qTgTi3OkaYTvxq2s9AtApBYb1pz5jCQXZ6BI5doIS+g="
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "7896341dfc8bc8c8d38c16319021fc9ce43c1742",
+    "version": "7eb9f6b49bd4c34e5c2264d22384868e9da8e04a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-phvQzInwL1UMYwp3e73kYVXz7QaeQlmF2cGNRlpepeY=",
-      "rev": "7896341dfc8bc8c8d38c16319021fc9ce43c1742"
+      "sha256": "sha256-jYk0EyqiryS1Wh+na4ILzXXxin6b5BQMGy/ITwDvlNE=",
+      "rev": "7eb9f6b49bd4c34e5c2264d22384868e9da8e04a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6183",
+    "version": "1.0.6184",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6183.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6184.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FM3Ncz5uubL0rb1DNXb7UxDrfNrmywX8zZ8rV6Ev9KM="
+      "sha256": "sha256-LemLHmAwJhWMz1Xkj4SLdSAr4RHOQZLbK2nOinsODnI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "48b8ab3f6538df29c4e0f50a5fbb7808fd4c475b",
+    "version": "df2215cef76773249d5267b018a4ff9c3079bdd7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-0TzMaSZFPH0gBa8ijFy/e1VlUGR2dTz8Z3aGC84q67A=",
-      "rev": "48b8ab3f6538df29c4e0f50a5fbb7808fd4c475b"
+      "sha256": "sha256-H16m4UbXM2B+bIk+fhFEwna0VEUJ17p93a+DqhGmWUg=",
+      "rev": "df2215cef76773249d5267b018a4ff9c3079bdd7"
     },
     "extract": null,
     "rustGitDeps": null
