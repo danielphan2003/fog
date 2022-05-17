@@ -1155,10 +1155,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.5";
+    version = "1.6.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.5/file/GitHub.vscode-codeql-1.6.5.vsix";
-      sha256 = "sha256-tGbydcHxg8UJz8yjTy5KklNixNGEXF1S3ECGswWM000=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.6/file/GitHub.vscode-codeql-1.6.6.vsix";
+      sha256 = "sha256-gHZQv33IK6Sz5CTe9kdnLvmcAtanCZHn8qQo2GNrfmI=";
     };
     name = "vscode-codeql";
     license = "MIT";
@@ -8955,10 +8955,10 @@
   };
   gitpod-gitpod-theme = {
     pname = "gitpod-gitpod-theme";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gitpod/gitpod-theme/0.0.1/file/gitpod.gitpod-theme-0.0.1.vsix";
-      sha256 = "sha256-Bpogmu3Wxs1zTsCYdrrH0AAKeopPbfGkRwGCcSPPEcg=";
+      url = "https://open-vsx.org/api/gitpod/gitpod-theme/0.0.2/file/gitpod.gitpod-theme-0.0.2.vsix";
+      sha256 = "sha256-Ccxe4puVbZM50Yz+0XX79ZXExnq0hV5jb2dBAscy2DI=";
     };
     name = "gitpod-theme";
     license = "MIT";
@@ -17223,10 +17223,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.1.11";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.1.11/file/streetsidesoftware.code-spell-checker-2.1.11.vsix";
-      sha256 = "sha256-Oj3X/rurHLRRzSHXqagOoX33urnY+pkDmomnr6vZW34=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.0/file/streetsidesoftware.code-spell-checker-2.2.0.vsix";
+      sha256 = "sha256-FgRY8D4AwljwiA/b4lX78P1fntGUO5XvZzIHj9EJXQ8=";
     };
     name = "code-spell-checker";
     license = "GPL-3.0-or-later";
