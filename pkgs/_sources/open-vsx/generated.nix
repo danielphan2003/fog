@@ -99,10 +99,10 @@
   };
   AquaSecurityOfficial-trivy-vulnerability-scanner = {
     pname = "AquaSecurityOfficial-trivy-vulnerability-scanner";
-    version = "0.4.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.4.1/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.4.1.vsix";
-      sha256 = "sha256-tH/m07aHndnJhSfxP7NIpzGLQuo/Ln5TPYogLnYV/ls=";
+      url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.5.2/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.5.2.vsix";
+      sha256 = "sha256-GaxMUSoExtzf/rH8wiJdYPXe18ZIxdJKoT3vIEvxFlM=";
     };
     name = "trivy-vulnerability-scanner";
     license = "Apache-2.0";
@@ -7131,10 +7131,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.94.0";
+    version = "0.95.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.94.0/file/dendron.dendron-0.94.0.vsix";
-      sha256 = "sha256-Fo/uNJyJFVcl4HcqKWdqJ3CSozOPvA0sZWU7YGBDdcg=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.95.0/file/dendron.dendron-0.95.0.vsix";
+      sha256 = "sha256-nw05RNONaCIBOU7lavkheGFZjgOSxchfImMbjxlekOQ=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -7659,10 +7659,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.54.0";
+    version = "0.55.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.54.0/file/edukera.archetype-0.54.0.vsix";
-      sha256 = "sha256-nqc/LKffs+Sjx+ftwdU2SoZKMITMfKnqS+qzw565rds=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.55.0/file/edukera.archetype-0.55.0.vsix";
+      sha256 = "sha256-CHIT/80CIWR2E+tE6iCxXpepDmC/t+xr293gYnuBl5I=";
     };
     name = "archetype";
     license = "MIT";
@@ -7719,10 +7719,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2317940";
+    version = "7.3.2339286";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2317940/file/eliostruyf.vscode-front-matter-beta-7.3.2317940.vsix";
-      sha256 = "sha256-3CRErnfCTxRfrnhFi89AyruCBQWKYYN49c7ZhkNh/+U=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2339286/file/eliostruyf.vscode-front-matter-beta-7.3.2339286.vsix";
+      sha256 = "sha256-cB4VjuPqQTmW867A1+0i3x5GGoHu59lPS2TN0H4DzTw=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
