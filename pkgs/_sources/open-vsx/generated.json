@@ -5883,7 +5883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Zowe-vscode-extension-for-zowe",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "passthru": {
       "name": "vscode-extension-for-zowe",
       "license": "EPL-2.0",
@@ -5891,10 +5891,10 @@
       "description": "VS Code extension, powered by Zowe CLI, that streamlines interaction with mainframe data sets, USS files, and jobs"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.1/file/Zowe.vscode-extension-for-zowe-2.0.1.vsix",
+      "url": "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.2/file/Zowe.vscode-extension-for-zowe-2.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4yGHH5NQAwcFMSKsSCjzvWS4/HqXZLlGiQ3u8xzkqj4="
+      "sha256": "sha256-3w38DVb76aL2spKn0+QbD+Z7kaUxzr8XLXqp14IGRaY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10223,7 +10223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Zowe-zowe-explorer-ftp-extension",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "passthru": {
       "name": "zowe-explorer-ftp-extension",
       "license": "EPL-2.0",
@@ -10231,10 +10231,10 @@
       "description": "Adds zFTP support to Zowe Explorer demonstrating how to extend the Zowe Explorer using its extensibility API."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.1/file/Zowe.zowe-explorer-ftp-extension-2.0.1.vsix",
+      "url": "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.2/file/Zowe.zowe-explorer-ftp-extension-2.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BJnXQl2M/ppGvSltU8RCp23Q4eQFyHKEraDP6D1d7MM="
+      "sha256": "sha256-nVMEUpimomZIzhP10cKTnHTGlWPq26anHgU9NGy+ij0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12223,7 +12223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "genuitecllc-codetogether",
-    "version": "2022.1.4",
+    "version": "2022.1.5",
     "passthru": {
       "name": "codetogether",
       "license": "",
@@ -12231,10 +12231,10 @@
       "description": "Add CodeTogether to VS Code to live share your IDE and coding sessions. Cross-IDE support for VS Code, IntelliJ and Eclipse. Free plan always available!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.4/file/genuitecllc.codetogether-2022.1.4.vsix",
+      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.5/file/genuitecllc.codetogether-2022.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9i21cczSl59hl4Py4GlIpPPyUNTJfZ0WaG5Y94UWU2k="
+      "sha256": "sha256-c3NsHYHzTCSUwmXhfQH3xLYDs5e1CcE3+s/Fi2T5L/U="
     },
     "extract": null,
     "rustGitDeps": null

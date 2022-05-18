@@ -3795,10 +3795,10 @@
   };
   Zowe-vscode-extension-for-zowe = {
     pname = "Zowe-vscode-extension-for-zowe";
-    version = "2.0.1";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.1/file/Zowe.vscode-extension-for-zowe-2.0.1.vsix";
-      sha256 = "sha256-4yGHH5NQAwcFMSKsSCjzvWS4/HqXZLlGiQ3u8xzkqj4=";
+      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.2/file/Zowe.vscode-extension-for-zowe-2.0.2.vsix";
+      sha256 = "sha256-3w38DVb76aL2spKn0+QbD+Z7kaUxzr8XLXqp14IGRaY=";
     };
     name = "vscode-extension-for-zowe";
     license = "EPL-2.0";
@@ -3807,10 +3807,10 @@
   };
   Zowe-zowe-explorer-ftp-extension = {
     pname = "Zowe-zowe-explorer-ftp-extension";
-    version = "2.0.1";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.1/file/Zowe.zowe-explorer-ftp-extension-2.0.1.vsix";
-      sha256 = "sha256-BJnXQl2M/ppGvSltU8RCp23Q4eQFyHKEraDP6D1d7MM=";
+      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.2/file/Zowe.zowe-explorer-ftp-extension-2.0.2.vsix";
+      sha256 = "sha256-nVMEUpimomZIzhP10cKTnHTGlWPq26anHgU9NGy+ij0=";
     };
     name = "zowe-explorer-ftp-extension";
     license = "EPL-2.0";
@@ -8847,10 +8847,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.4";
+    version = "2022.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.4/file/genuitecllc.codetogether-2022.1.4.vsix";
-      sha256 = "sha256-9i21cczSl59hl4Py4GlIpPPyUNTJfZ0WaG5Y94UWU2k=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.5/file/genuitecllc.codetogether-2022.1.5.vsix";
+      sha256 = "sha256-c3NsHYHzTCSUwmXhfQH3xLYDs5e1CcE3+s/Fi2T5L/U=";
     };
     name = "codetogether";
     license = "";
