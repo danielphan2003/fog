@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.94.6",
+    "version": "0.95.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.94.6/file/dendron.nightly-0.94.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.95.1/file/dendron.nightly-0.95.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-0+TVt0zaTjcWx5QBOgWFy9QkDyM958meuKq8nH0P2w4="
+      "sha256": "sha256-VZnpqB/hUmJLYfZ21aK0xHguZKMOJSipIcnc7hMOlaQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2723,7 +2723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "keesschollaart-vscode-home-assistant",
-    "version": "1.29.2",
+    "version": "1.29.3",
     "passthru": {
       "name": "vscode-home-assistant",
       "license": "MIT",
@@ -2731,10 +2731,10 @@
       "description": " Completion for entity-id's in Home Assistant Configurations"
     },
     "src": {
-      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.2/file/keesschollaart.vscode-home-assistant-1.29.2.vsix",
+      "url": "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.3/file/keesschollaart.vscode-home-assistant-1.29.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fuK0h2d/egHFow0ZTNOOjKfWsAr0/YE0zjKchBMjI+A="
+      "sha256": "sha256-70rBGfgvqcNHY5hgQjgapxGIQRSAEpdBktJlhaiheDg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5643,7 +5643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bringout-f18-klijent",
-    "version": "5.6.27",
+    "version": "5.6.28",
     "passthru": {
       "name": "f18-klijent",
       "license": "MIT",
@@ -5651,10 +5651,10 @@
       "description": "F18 klijent host eShell"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.27/file/bringout.f18-klijent-5.6.27.vsix",
+      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.28/file/bringout.f18-klijent-5.6.28.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sh1HPL0+KNLtMYen2hvCq7OWNpuqL7hEDomth4NhQn0="
+      "sha256": "sha256-3J2XuMTGz1QiVhjN7aztXYpJAY/kRaoZUlpn6F9ArYk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10883,7 +10883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-errorlens",
-    "version": "3.4.2",
+    "version": "3.5.0",
     "passthru": {
       "name": "errorlens",
       "license": "MIT",
@@ -10891,10 +10891,10 @@
       "description": "Improve highlighting of errors, warnings and other language diagnostics."
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/errorlens/3.4.2/file/usernamehw.errorlens-3.4.2.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/errorlens/3.5.0/file/usernamehw.errorlens-3.5.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gb/SaUzHDdVUlmoASSkARLAYE/p8k2Peax8N15Yjg3g="
+      "sha256": "sha256-yAqfIcr25i/HFFxcOmJOio2SsijPSE3hSSWx1cliMKg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24915,6 +24915,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-3SRyaajLwvaMW9hBunG1kyaNw2IF1hRPgrvste6F8O4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "memothelemo-roact-snippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "memothelemo-roact-snippets",
+    "version": "1.0.2",
+    "passthru": {
+      "name": "roact-snippets",
+      "license": "MIT",
+      "publisher": "memothelemo",
+      "description": "Roact snippets for TSX and Luau"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/memothelemo/roact-snippets/1.0.2/file/memothelemo.roact-snippets-1.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-fJF/9HqJq5oJOE8qPz7Ttdh+wJjGCxvI/6OthSjJcWA="
     },
     "extract": null,
     "rustGitDeps": null

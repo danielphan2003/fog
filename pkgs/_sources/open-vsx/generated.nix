@@ -5811,10 +5811,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.27";
+    version = "5.6.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.27/file/bringout.f18-klijent-5.6.27.vsix";
-      sha256 = "sha256-sh1HPL0+KNLtMYen2hvCq7OWNpuqL7hEDomth4NhQn0=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.28/file/bringout.f18-klijent-5.6.28.vsix";
+      sha256 = "sha256-3J2XuMTGz1QiVhjN7aztXYpJAY/kRaoZUlpn6F9ArYk=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -7215,10 +7215,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.94.6";
+    version = "0.95.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.94.6/file/dendron.nightly-0.94.6.vsix";
-      sha256 = "sha256-0+TVt0zaTjcWx5QBOgWFy9QkDyM958meuKq8nH0P2w4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.95.1/file/dendron.nightly-0.95.1.vsix";
+      sha256 = "sha256-VZnpqB/hUmJLYfZ21aK0xHguZKMOJSipIcnc7hMOlaQ=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -11079,10 +11079,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.29.2";
+    version = "1.29.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.2/file/keesschollaart.vscode-home-assistant-1.29.2.vsix";
-      sha256 = "sha256-fuK0h2d/egHFow0ZTNOOjKfWsAr0/YE0zjKchBMjI+A=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.29.3/file/keesschollaart.vscode-home-assistant-1.29.3.vsix";
+      sha256 = "sha256-70rBGfgvqcNHY5hgQjgapxGIQRSAEpdBktJlhaiheDg=";
     };
     name = "vscode-home-assistant";
     license = "MIT";
@@ -12408,6 +12408,18 @@
     license = "MIT";
     publisher = "melmass";
     description = "Houdini VEX Support for VSCode";
+  };
+  memothelemo-roact-snippets = {
+    pname = "memothelemo-roact-snippets";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/memothelemo/roact-snippets/1.0.2/file/memothelemo.roact-snippets-1.0.2.vsix";
+      sha256 = "sha256-fJF/9HqJq5oJOE8qPz7Ttdh+wJjGCxvI/6OthSjJcWA=";
+    };
+    name = "roact-snippets";
+    license = "MIT";
+    publisher = "memothelemo";
+    description = "Roact snippets for TSX and Luau";
   };
   meraymond-idris-vscode = {
     pname = "meraymond-idris-vscode";
@@ -18543,10 +18555,10 @@
   };
   usernamehw-errorlens = {
     pname = "usernamehw-errorlens";
-    version = "3.4.2";
+    version = "3.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/errorlens/3.4.2/file/usernamehw.errorlens-3.4.2.vsix";
-      sha256 = "sha256-gb/SaUzHDdVUlmoASSkARLAYE/p8k2Peax8N15Yjg3g=";
+      url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.0/file/usernamehw.errorlens-3.5.0.vsix";
+      sha256 = "sha256-yAqfIcr25i/HFFxcOmJOio2SsijPSE3hSSWx1cliMKg=";
     };
     name = "errorlens";
     license = "MIT";
