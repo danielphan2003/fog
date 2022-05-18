@@ -2123,7 +2123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2131,10 +2131,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.8/file/zardoy.vetur-extended-0.0.8.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.9/file/zardoy.vetur-extended-0.0.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7ghQEuThpWupicsUAFYTx2mllv8BRYjkt+43tc9z9DY="
+      "sha256": "sha256-qAolfPxxVEv2Madbv5Qg7ph3HwUDMu75j6BNqzn0b/k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5643,7 +5643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bringout-f18-klijent",
-    "version": "5.6.28",
+    "version": "5.6.30",
     "passthru": {
       "name": "f18-klijent",
       "license": "MIT",
@@ -5651,10 +5651,10 @@
       "description": "F18 klijent host eShell"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.28/file/bringout.f18-klijent-5.6.28.vsix",
+      "url": "https://open-vsx.org/api/bringout/f18-klijent/5.6.30/file/bringout.f18-klijent-5.6.30.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-3J2XuMTGz1QiVhjN7aztXYpJAY/kRaoZUlpn6F9ArYk="
+      "sha256": "sha256-ohApH/9ijZbCl44PIOHch5obai/aIzGANpsNot1jK4A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9963,7 +9963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.3.2339286",
+    "version": "7.3.2345411",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -9971,10 +9971,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2339286/file/eliostruyf.vscode-front-matter-beta-7.3.2339286.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2345411/file/eliostruyf.vscode-front-matter-beta-7.3.2345411.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cB4VjuPqQTmW867A1+0i3x5GGoHu59lPS2TN0H4DzTw="
+      "sha256": "sha256-ScSsjNtXRoFY9nA44vmszFYN13Mlnh40WU14QSWXTgs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -11035,6 +11035,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-J2QJstlUC4Mr21rewaFMdBfUdRgdTz3T/nMcjKDY0yc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "arzg-apprentice": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "arzg-apprentice",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "apprentice",
+      "license": "MIT",
+      "publisher": "arzg",
+      "description": "romainl/Apprentice ported to VS Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/arzg/apprentice/1.0.0/file/arzg.apprentice-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-o4RuihYQwQsQB7W7+q6EjOKB59u/RWM4uGKiO9+5x6I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13675,6 +13695,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-c15Opnh33PMtHqzKlym0aTQ5bI5JS5qLB4JOw8Us2Ns="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "jigar-patel-OdooSnippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "jigar-patel-OdooSnippets",
+    "version": "1.5.0",
+    "passthru": {
+      "name": "OdooSnippets",
+      "license": "MIT",
+      "publisher": "jigar-patel",
+      "description": "Snippets for Odoo developer"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/jigar-patel/OdooSnippets/1.5.0/file/jigar-patel.OdooSnippets-1.5.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-mGnAcHLOhTj3WGXuhGFUS3uJhDB7CJkQANpERVH5hg4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34403,7 +34443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34411,10 +34451,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.11/file/betterthantomorrow.joyride-0.0.11.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.12/file/betterthantomorrow.joyride-0.0.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uMoxTlNYpdDXN9XKUryYErLaPaVmWGmGasjIfddHfDo="
+      "sha256": "sha256-bZJdVejz8w6zvk1YSh41o38ZJ35oXzrjMJX9z1LiVTA="
     },
     "extract": null,
     "rustGitDeps": null

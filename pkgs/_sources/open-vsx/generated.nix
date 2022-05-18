@@ -5053,6 +5053,18 @@
     publisher = "arturock";
     description = "Give extra stash abilities to Code. Visually browse stashes, review and extract changes. Get all stash commands and more.";
   };
+  arzg-apprentice = {
+    pname = "arzg-apprentice";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arzg/apprentice/1.0.0/file/arzg.apprentice-1.0.0.vsix";
+      sha256 = "sha256-o4RuihYQwQsQB7W7+q6EjOKB59u/RWM4uGKiO9+5x6I=";
+    };
+    name = "apprentice";
+    license = "MIT";
+    publisher = "arzg";
+    description = "romainl/Apprentice ported to VS Code";
+  };
   arzg-gamut = {
     pname = "arzg-gamut";
     version = "1.11.0";
@@ -5523,10 +5535,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.11/file/betterthantomorrow.joyride-0.0.11.vsix";
-      sha256 = "sha256-uMoxTlNYpdDXN9XKUryYErLaPaVmWGmGasjIfddHfDo=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.12/file/betterthantomorrow.joyride-0.0.12.vsix";
+      sha256 = "sha256-bZJdVejz8w6zvk1YSh41o38ZJ35oXzrjMJX9z1LiVTA=";
     };
     name = "joyride";
     license = "MIT";
@@ -5811,10 +5823,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.28";
+    version = "5.6.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.28/file/bringout.f18-klijent-5.6.28.vsix";
-      sha256 = "sha256-3J2XuMTGz1QiVhjN7aztXYpJAY/kRaoZUlpn6F9ArYk=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.30/file/bringout.f18-klijent-5.6.30.vsix";
+      sha256 = "sha256-ohApH/9ijZbCl44PIOHch5obai/aIzGANpsNot1jK4A=";
     };
     name = "f18-klijent";
     license = "MIT";
@@ -7719,10 +7731,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2339286";
+    version = "7.3.2345411";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2339286/file/eliostruyf.vscode-front-matter-beta-7.3.2339286.vsix";
-      sha256 = "sha256-cB4VjuPqQTmW867A1+0i3x5GGoHu59lPS2TN0H4DzTw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2345411/file/eliostruyf.vscode-front-matter-beta-7.3.2345411.vsix";
+      sha256 = "sha256-ScSsjNtXRoFY9nA44vmszFYN13Mlnh40WU14QSWXTgs=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10560,6 +10572,18 @@
     license = "MIT";
     publisher = "jianbingfang";
     description = "Check duplicate lines and remove them if you need to keep the unique lines only";
+  };
+  jigar-patel-OdooSnippets = {
+    pname = "jigar-patel-OdooSnippets";
+    version = "1.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jigar-patel/OdooSnippets/1.5.0/file/jigar-patel.OdooSnippets-1.5.0.vsix";
+      sha256 = "sha256-mGnAcHLOhTj3WGXuhGFUS3uJhDB7CJkQANpERVH5hg4=";
+    };
+    name = "OdooSnippets";
+    license = "MIT";
+    publisher = "jigar-patel";
+    description = "Snippets for Odoo developer";
   };
   jkillian-custom-local-formatters = {
     pname = "jkillian-custom-local-formatters";
@@ -20967,10 +20991,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.8/file/zardoy.vetur-extended-0.0.8.vsix";
-      sha256 = "sha256-7ghQEuThpWupicsUAFYTx2mllv8BRYjkt+43tc9z9DY=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.9/file/zardoy.vetur-extended-0.0.9.vsix";
+      sha256 = "sha256-qAolfPxxVEv2Madbv5Qg7ph3HwUDMu75j6BNqzn0b/k=";
     };
     name = "vetur-extended";
     license = "MIT";
