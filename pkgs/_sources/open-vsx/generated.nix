@@ -5211,10 +5211,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.17.0";
+    version = "0.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.17.0/file/astro-build.astro-vscode-0.17.0.vsix";
-      sha256 = "sha256-y4zwEPPZQ5BL1Tl63MlZXaH8cUEDn6Gpg3QnitJpnAI=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.18.0/file/astro-build.astro-vscode-0.18.0.vsix";
+      sha256 = "sha256-baBHXuKfC0XubbXDYeeGpWZnfvntNXsq3sAh35bYbvQ=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -5523,10 +5523,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.274";
+    version = "2.0.275";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.274/file/betterthantomorrow.calva-2.0.274.vsix";
-      sha256 = "sha256-EUv0kGr5495ghyBpZzGUEiC2AJugDpWbXvNLKjSSAFQ=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.275/file/betterthantomorrow.calva-2.0.275.vsix";
+      sha256 = "sha256-jSr5CLlSBnsLeMQpPQCJjuGrf+xnagiTSOTVSBhdKgg=";
     };
     name = "calva";
     license = "MIT";
@@ -7143,10 +7143,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.95.0";
+    version = "0.95.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.95.0/file/dendron.dendron-0.95.0.vsix";
-      sha256 = "sha256-nw05RNONaCIBOU7lavkheGFZjgOSxchfImMbjxlekOQ=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.95.1/file/dendron.dendron-0.95.1.vsix";
+      sha256 = "sha256-IfcsDNkL+zzXzOTP+VgWg60aUIvqMYJvUcqbps/nTkQ=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -7731,10 +7731,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2345411";
+    version = "7.3.2346326";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2345411/file/eliostruyf.vscode-front-matter-beta-7.3.2345411.vsix";
-      sha256 = "sha256-ScSsjNtXRoFY9nA44vmszFYN13Mlnh40WU14QSWXTgs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2346326/file/eliostruyf.vscode-front-matter-beta-7.3.2346326.vsix";
+      sha256 = "sha256-j2Sv1RPrV1sZJmHAgipTVAwHtMLxWRWMBQ/7YKQNSXs=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -17091,10 +17091,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.4/file/sourcery.sourcery-0.11.4.vsix";
-      sha256 = "sha256-lSeFI8EbsMfpu9NauaMWi9KrEy8XVeC6LhtdrL8qSDw=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.5/file/sourcery.sourcery-0.11.5.vsix";
+      sha256 = "sha256-9upncKFwRHAeXUHgwyDfKCRYDi1psZQHkihNxEIK3Q8=";
     };
     name = "sourcery";
     license = "MIT";
@@ -20991,10 +20991,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.9/file/zardoy.vetur-extended-0.0.9.vsix";
-      sha256 = "sha256-qAolfPxxVEv2Madbv5Qg7ph3HwUDMu75j6BNqzn0b/k=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.10/file/zardoy.vetur-extended-0.0.10.vsix";
+      sha256 = "sha256-7AOhJspdIxxI+eWYFRE+kgdnT17wLkEGKUspvs9CaPw=";
     };
     name = "vetur-extended";
     license = "MIT";
