@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "03e75b1ffdd4ad6c43e8ba71eac2035be775f631",
+    "version": "8f9c8a63e461dc592980c08d7cf472ddb181d18d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-IFsSDJg5m0//HeDWEc3xIGBJbQy4TwrdSjPGMzI1UuQ=",
-      "rev": "03e75b1ffdd4ad6c43e8ba71eac2035be775f631"
+      "sha256": "sha256-3hixcGH8qQphYbwwmM3zneX081yAjZ6Eptt1M1LEEm8=",
+      "rev": "8f9c8a63e461dc592980c08d7cf472ddb181d18d"
     },
     "extract": null,
     "rustGitDeps": null
@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-879",
+    "version": "1.0-880",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-879-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-880-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8bosg+rvRG8CXpt+anRJO2n01fwgnhQn2wRIS98JvU4="
+      "sha256": "sha256-mqEY7ssVURwOib5I/nTun0t4EqaJYURbUjrLrKv7R/g="
     },
     "extract": null,
     "rustGitDeps": null
