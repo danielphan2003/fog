@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "95597a118a01a03578e55bc331d26a31acfcfb0a",
+    "version": "03e75b1ffdd4ad6c43e8ba71eac2035be775f631",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-st3ieIBjJM0edaThYajJ9PsK0E8uFReejOtw1BPViMI=",
-      "rev": "95597a118a01a03578e55bc331d26a31acfcfb0a"
+      "sha256": "sha256-IFsSDJg5m0//HeDWEc3xIGBJbQy4TwrdSjPGMzI1UuQ=",
+      "rev": "03e75b1ffdd4ad6c43e8ba71eac2035be775f631"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "f68ddc382a2b009dc19491277f6328addcdb8336",
+    "version": "5454cf8e89b99032d2e72f7993fa900783a35e74",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-FZdlZAgOL5X+0LpGt4tZ1WfJPxTLJHpxv0ENCQNJFjs=",
-      "rev": "f68ddc382a2b009dc19491277f6328addcdb8336"
+      "sha256": "sha256-uk8aae+3F5EdFpJVyU1UKTr89ye601BTKOCAQf6UMHM=",
+      "rev": "5454cf8e89b99032d2e72f7993fa900783a35e74"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1721,7 +1721,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xwayland",
-    "version": "7b7170ecd636ae1110622e2430549f79598750ca",
+    "version": "7cdcdfea08ad9d63466286a6f94783cbf5fc3717",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1730,8 +1730,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-joMk3xI/BV2cAUxwH3+gsPRUXPmENTz3YCMW7P5AKLQ=",
-      "rev": "7b7170ecd636ae1110622e2430549f79598750ca"
+      "sha256": "sha256-Q/y0egweDnd3mmu7WewS84XSnyAL19lU1dE+oFHbwxo=",
+      "rev": "7cdcdfea08ad9d63466286a6f94783cbf5fc3717"
     },
     "extract": null,
     "rustGitDeps": null
