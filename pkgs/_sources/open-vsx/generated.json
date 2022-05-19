@@ -2123,7 +2123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2131,10 +2131,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.11/file/zardoy.vetur-extended-0.0.11.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.12/file/zardoy.vetur-extended-0.0.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iEpNqEN4Hi9EWHny9UtvTpU6wKlzemuR4fEUloE9s1s="
+      "sha256": "sha256-LCfoKtUYaQYU8yvGgC6lIW5B0RoFZcyioMBJ0jlDV+Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6823,7 +6823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "meteor-toolbox-meteor-toolbox",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "passthru": {
       "name": "meteor-toolbox",
       "license": "MIT",
@@ -6831,10 +6831,10 @@
       "description": "Easily set up your Meteor environment (intelisense, run options and many other things)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.1/file/meteor-toolbox.meteor-toolbox-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.2/file/meteor-toolbox.meteor-toolbox-1.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZsU23z2xTEMLDNPm1K47ZijerGp8tOgu7YXYC9vJ1Is="
+      "sha256": "sha256-fkMdUrZGtmKhaV54XiJoVj84mVANKDu5bAyII+q4oNc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25403,7 +25403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "rangav-vscode-thunder-client",
-    "version": "1.16.3",
+    "version": "1.16.4",
     "passthru": {
       "name": "vscode-thunder-client",
       "license": "",
@@ -25411,10 +25411,10 @@
       "description": "Lightweight Rest API Client for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.3/file/rangav.vscode-thunder-client-1.16.3.vsix",
+      "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.4/file/rangav.vscode-thunder-client-1.16.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-2pynSZylfg7Hw+pyzSqUyd5oYoAKmlYp+RcUYiVM3DY="
+      "sha256": "sha256-CwB+uh0WcYnktafGlyM68lteYPfTat8v/A1RSZh+K3Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27663,7 +27663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tokiwa-software-fuzion-lang",
-    "version": "0.71.0",
+    "version": "0.73.0",
     "passthru": {
       "name": "fuzion-lang",
       "license": "MIT",
@@ -27671,10 +27671,10 @@
       "description": "Supports the development in the Fuzion programming language"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.71.0/file/tokiwa-software.fuzion-lang-0.71.0.vsix",
+      "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.73.0/file/tokiwa-software.fuzion-lang-0.73.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZH4K+l/Jx6wbVcrJRYtOmKpMmoK+g62ga4xcI8dySY8="
+      "sha256": "sha256-p9KE6JwVyycLr3Qu2VDN9en0QMdsIKAHrus3XhHnzVg="
     },
     "extract": null,
     "rustGitDeps": null

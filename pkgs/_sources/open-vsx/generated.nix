@@ -12531,10 +12531,10 @@
   };
   meteor-toolbox-meteor-toolbox = {
     pname = "meteor-toolbox-meteor-toolbox";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.1/file/meteor-toolbox.meteor-toolbox-1.1.1.vsix";
-      sha256 = "sha256-ZsU23z2xTEMLDNPm1K47ZijerGp8tOgu7YXYC9vJ1Is=";
+      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.2/file/meteor-toolbox.meteor-toolbox-1.1.2.vsix";
+      sha256 = "sha256-fkMdUrZGtmKhaV54XiJoVj84mVANKDu5bAyII+q4oNc=";
     };
     name = "meteor-toolbox";
     license = "MIT";
@@ -15303,10 +15303,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.3";
+    version = "1.16.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.3/file/rangav.vscode-thunder-client-1.16.3.vsix";
-      sha256 = "sha256-2pynSZylfg7Hw+pyzSqUyd5oYoAKmlYp+RcUYiVM3DY=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.4/file/rangav.vscode-thunder-client-1.16.4.vsix";
+      sha256 = "sha256-CwB+uh0WcYnktafGlyM68lteYPfTat8v/A1RSZh+K3Q=";
     };
     name = "vscode-thunder-client";
     license = "";
@@ -18087,10 +18087,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.71.0";
+    version = "0.73.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.71.0/file/tokiwa-software.fuzion-lang-0.71.0.vsix";
-      sha256 = "sha256-ZH4K+l/Jx6wbVcrJRYtOmKpMmoK+g62ga4xcI8dySY8=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.73.0/file/tokiwa-software.fuzion-lang-0.73.0.vsix";
+      sha256 = "sha256-p9KE6JwVyycLr3Qu2VDN9en0QMdsIKAHrus3XhHnzVg=";
     };
     name = "fuzion-lang";
     license = "MIT";
@@ -21003,10 +21003,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.11/file/zardoy.vetur-extended-0.0.11.vsix";
-      sha256 = "sha256-iEpNqEN4Hi9EWHny9UtvTpU6wKlzemuR4fEUloE9s1s=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.12/file/zardoy.vetur-extended-0.0.12.vsix";
+      sha256 = "sha256-LCfoKtUYaQYU8yvGgC6lIW5B0RoFZcyioMBJ0jlDV+Y=";
     };
     name = "vetur-extended";
     license = "MIT";
