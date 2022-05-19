@@ -10839,10 +10839,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.47";
+    version = "0.16.49";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.47/file/jroesch.lean-0.16.47.vsix";
-      sha256 = "sha256-HcQPCO/DMIcXJ5LUKZp4qn6EZNEtl/L4WtTw0qbmKL4=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.49/file/jroesch.lean-0.16.49.vsix";
+      sha256 = "sha256-KQfhEoVetcBndVoIs8nVcWRBFNJs5wxEMxjzGFuLRCs=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -11487,10 +11487,10 @@
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kubescape/kubescape/0.2.0/file/kubescape.kubescape-0.2.0.vsix";
-      sha256 = "sha256-A7Sw3OMAavbkp91S2OdJbnM9qFEXYIggr1Sf3pEmYgA=";
+      url = "https://open-vsx.org/api/kubescape/kubescape/0.2.1/file/kubescape.kubescape-0.2.1.vsix";
+      sha256 = "sha256-qF/vxm5JXQBtZhwNHUDM/EJpXHKMrb/wiLgS5E2zmMc=";
     };
     name = "kubescape";
     license = "Apache";
@@ -11643,10 +11643,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.72";
+    version = "0.0.73";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.72/file/leanprover.lean4-0.0.72.vsix";
-      sha256 = "sha256-9JhNU+Yoy4K+XBez6kwENjeIcblyKAXYiNtZy1+Oaz8=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.73/file/leanprover.lean4-0.0.73.vsix";
+      sha256 = "sha256-HFgbpChPiRojWenZk1CcjJk5S07zD5XfFnKfAZbXBcs=";
     };
     name = "lean4";
     license = "Apache-2.0";

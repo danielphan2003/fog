@@ -7143,7 +7143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.72",
+    "version": "0.0.73",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -7151,10 +7151,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.72/file/leanprover.lean4-0.0.72.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.73/file/leanprover.lean4-0.0.73.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9JhNU+Yoy4K+XBez6kwENjeIcblyKAXYiNtZy1+Oaz8="
+      "sha256": "sha256-HFgbpChPiRojWenZk1CcjJk5S07zD5XfFnKfAZbXBcs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25443,7 +25443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "kubescape-kubescape",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "passthru": {
       "name": "kubescape",
       "license": "Apache",
@@ -25451,10 +25451,10 @@
       "description": "Kubescape extension for vscode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/kubescape/kubescape/0.2.0/file/kubescape.kubescape-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/kubescape/kubescape/0.2.1/file/kubescape.kubescape-0.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-A7Sw3OMAavbkp91S2OdJbnM9qFEXYIggr1Sf3pEmYgA="
+      "sha256": "sha256-qF/vxm5JXQBtZhwNHUDM/EJpXHKMrb/wiLgS5E2zmMc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34983,7 +34983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jroesch-lean",
-    "version": "0.16.47",
+    "version": "0.16.49",
     "passthru": {
       "name": "lean",
       "license": "Apache-2.0",
@@ -34991,10 +34991,10 @@
       "description": "An extension for VS Code which provides support for the Lean language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/jroesch/lean/0.16.47/file/jroesch.lean-0.16.47.vsix",
+      "url": "https://open-vsx.org/api/jroesch/lean/0.16.49/file/jroesch.lean-0.16.49.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HcQPCO/DMIcXJ5LUKZp4qn6EZNEtl/L4WtTw0qbmKL4="
+      "sha256": "sha256-KQfhEoVetcBndVoIs8nVcWRBFNJs5wxEMxjzGFuLRCs="
     },
     "extract": null,
     "rustGitDeps": null
