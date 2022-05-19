@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "0870eca81f61f233e3c96b2d7f9a7f2b9ad7a145",
+    "version": "0ecb4eefa4452016456c120c811c6f056c8d3bef",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-2n0yeoba4AhXxUVziqIymBayBCFJJVhZoRyZal5zD8c=",
-      "rev": "0870eca81f61f233e3c96b2d7f9a7f2b9ad7a145"
+      "sha256": "sha256-jK547uGkJv7dIXTA+f+gRuZ8eOeTPNIftzGS6S/mO3A=",
+      "rev": "0ecb4eefa4452016456c120c811c6f056c8d3bef"
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "a378ce0aecadfa00759ee14a57bf61bc3d9b6342",
+    "version": "eaabfefcb02619f1cc2c6a1e28898e105eade8a7",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-a+MhokO8wngd74oTXPFoV/7Jd/tjlXY8JOZPUwT91Z4=",
-      "rev": "a378ce0aecadfa00759ee14a57bf61bc3d9b6342"
+      "sha256": "sha256-zxBMJnpU2p9TfH17U5isdd5IZxdvAZs9FRGwZGy/ZZc=",
+      "rev": "eaabfefcb02619f1cc2c6a1e28898e105eade8a7"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "e225d949e7f6db926d80ed50a74da2436ac28b85",
+    "version": "36be9c4a11833dfceea8a2edeee0087d2f1620b1",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-Ae6Kes+NT4tnlz/midP15HN5SxCUhqwowFyVRo8o6ck=",
-      "rev": "e225d949e7f6db926d80ed50a74da2436ac28b85"
+      "sha256": "sha256-QfdiQXJRcDXoUAn0tgI2o3M4sBpDT3VbZCoXr1Cc5FI=",
+      "rev": "36be9c4a11833dfceea8a2edeee0087d2f1620b1"
     },
     "extract": null,
     "rustGitDeps": null
