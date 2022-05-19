@@ -1023,10 +1023,10 @@
   };
   FelixAngelov-bloc = {
     pname = "FelixAngelov-bloc";
-    version = "6.5.1";
+    version = "6.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/bloc/6.5.1/file/FelixAngelov.bloc-6.5.1.vsix";
-      sha256 = "sha256-ah+Fs9K41gb6cAOWsXGGQL4UIZubf8rbzk2GKgnNMfs=";
+      url = "https://open-vsx.org/api/FelixAngelov/bloc/6.6.0/file/FelixAngelov.bloc-6.6.0.vsix";
+      sha256 = "sha256-1aTPitrCQSYatJ3k6amfWsBG5laM3f8hhcrZgxuxP/c=";
     };
     name = "bloc";
     license = "MIT";
@@ -5211,10 +5211,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.18.0/file/astro-build.astro-vscode-0.18.0.vsix";
-      sha256 = "sha256-baBHXuKfC0XubbXDYeeGpWZnfvntNXsq3sAh35bYbvQ=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.18.1/file/astro-build.astro-vscode-0.18.1.vsix";
+      sha256 = "sha256-Edsmc1fN9taMvVjdqJAZSOQA/TcS8VolqLuoOIsfc5s=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -16563,10 +16563,10 @@
   };
   serokell-io-michelson-debugger = {
     pname = "serokell-io-michelson-debugger";
-    version = "0.1.2";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/serokell-io/michelson-debugger/0.1.2/file/serokell-io.michelson-debugger-0.1.2.vsix";
-      sha256 = "sha256-2tfRbxJZm2Cwu+jd3zxGjGqpA89c0SVL81lj/Xd9QTo=";
+      url = "https://open-vsx.org/api/serokell-io/michelson-debugger/0.2.0/file/serokell-io.michelson-debugger-0.2.0.vsix";
+      sha256 = "sha256-x5nbYhLJLtkLa36Ea6m8PsdMrE7PBEN8mA12YdxxVIk=";
     };
     name = "michelson-debugger";
     license = "MIT";
