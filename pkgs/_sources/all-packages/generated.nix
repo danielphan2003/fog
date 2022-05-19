@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "31a40538dc2c2bb5868c786677343e405feeccb0";
+    version = "9ecacadd4ab25bac81c87e1c761eb9de70c2fb52";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "31a40538dc2c2bb5868c786677343e405feeccb0";
+      rev = "9ecacadd4ab25bac81c87e1c761eb9de70c2fb52";
       fetchSubmodules = false;
-      sha256 = "sha256-mbn0sNS+SC0w/42Z5Ioo8OQWFpY9NdCyEnnjLC9y9OI=";
+      sha256 = "sha256-oMUdJMZlQoAbY2qZLsYgIkFdAUvWmifHldkse9jGqtY=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-31a40538dc2c2bb5868c786677343e405feeccb0/Cargo.lock;
+      lockFile = ./rustdesk-9ecacadd4ab25bac81c87e1c761eb9de70c2fb52/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
