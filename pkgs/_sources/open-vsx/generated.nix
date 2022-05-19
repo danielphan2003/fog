@@ -20665,6 +20665,18 @@
     publisher = "xoronic";
     description = "pestfile Syntax Highlighting";
   };
+  xotm-xotm-new-extension = {
+    pname = "xotm-xotm-new-extension";
+    version = "0.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xotm/xotm-new-extension/0.0.0/file/xotm.xotm-new-extension-0.0.0.vsix";
+      sha256 = "sha256-HSXtbPlHom3fufS0W0BopKj1H94+PJdrfybPleYcX5E=";
+    };
+    name = "xotm-new-extension";
+    license = "MIT";
+    publisher = "xotm";
+    description = "";
+  };
   xotm-xotm-xotmhelloworldemo = {
     pname = "xotm-xotm-xotmhelloworldemo";
     version = "0.0.1";
