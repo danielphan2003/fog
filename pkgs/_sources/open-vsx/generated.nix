@@ -3663,10 +3663,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.0.0/file/XOJ-Team.xoj-playground-1.0.0.vsix";
-      sha256 = "sha256-hEahno93akz859TEcUq3GEOMGzu9vVCPD3ijVCKvWNM=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.0/file/XOJ-Team.xoj-playground-1.1.0.vsix";
+      sha256 = "sha256-Sl0Sy/S/sepZBDzx9/gkwo7PVSQ8Y+UDKzBhL+mG8o8=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -3927,10 +3927,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "4.0.2";
+    version = "4.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/4.0.2/file/a5hk.night-coder-4.0.2.vsix";
-      sha256 = "sha256-PEhX4VuMu9iirHVNRKYrTaCsEo1+ZqTQVLAMUafTz1Y=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/4.0.3/file/a5hk.night-coder-4.0.3.vsix";
+      sha256 = "sha256-w595zXUQyrc2BzxMUGpuO8NZTiRThoszr9XIZTgAvWY=";
     };
     name = "night-coder";
     license = "MIT";
@@ -5211,10 +5211,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.18.1";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.18.1/file/astro-build.astro-vscode-0.18.1.vsix";
-      sha256 = "sha256-Edsmc1fN9taMvVjdqJAZSOQA/TcS8VolqLuoOIsfc5s=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.0/file/astro-build.astro-vscode-0.19.0.vsix";
+      sha256 = "sha256-VB967sUt2ZW3fV6a5KxP3KFbw1cCaTRpA89YCHzQAOc=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -14919,10 +14919,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.330";
+    version = "0.25.332";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.330/file/pokey.cursorless-0.25.330.vsix";
-      sha256 = "sha256-6/VPwyHIOJ+WU3gP5u7t1shfIAer7ZSyyOLugP8b2fg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.332/file/pokey.cursorless-0.25.332.vsix";
+      sha256 = "sha256-EtbTNzEflwoTc6B9T44PSoIUYNukxfnopD69zLdg/hc=";
     };
     name = "cursorless";
     license = "MIT";
@@ -15183,10 +15183,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.20.1";
+    version = "1.20.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.20.1/file/quarto.quarto-1.20.1.vsix";
-      sha256 = "sha256-TjBGOb9Wx8O44trcpVdPszEOgrr1Bjz6nVa5hqpBWdw=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.20.2/file/quarto.quarto-1.20.2.vsix";
+      sha256 = "sha256-0PXl4HyMs9zb8djltnRrEwP+Kmf4bxx924ur0hDkA3Y=";
     };
     name = "quarto";
     license = "MIT";
@@ -21003,10 +21003,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.12/file/zardoy.vetur-extended-0.0.12.vsix";
-      sha256 = "sha256-LCfoKtUYaQYU8yvGgC6lIW5B0RoFZcyioMBJ0jlDV+Y=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.13/file/zardoy.vetur-extended-0.0.13.vsix";
+      sha256 = "sha256-ffkeaghy0KarE7jWtHSCBbUalZ1YaOnlC+tlbOVhcTk=";
     };
     name = "vetur-extended";
     license = "MIT";
