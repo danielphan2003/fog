@@ -2123,7 +2123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2131,10 +2131,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.10/file/zardoy.vetur-extended-0.0.10.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.11/file/zardoy.vetur-extended-0.0.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7AOhJspdIxxI+eWYFRE+kgdnT17wLkEGKUspvs9CaPw="
+      "sha256": "sha256-iEpNqEN4Hi9EWHny9UtvTpU6wKlzemuR4fEUloE9s1s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24843,7 +24843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-ts-essential-plugins",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "passthru": {
       "name": "ts-essential-plugins",
       "license": "MIT",
@@ -24851,10 +24851,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.3/file/zardoy.ts-essential-plugins-0.0.3.vsix",
+      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.4/file/zardoy.ts-essential-plugins-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TtOeupHGiDGSuhJfDykDjZNkOcTZwiXkcAocf81RTn8="
+      "sha256": "sha256-7SV/dfSTzq13gaUlMpEm4hy+gGMdL/9yO6g4o2ork/E="
     },
     "extract": null,
     "rustGitDeps": null

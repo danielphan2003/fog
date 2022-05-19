@@ -20967,10 +20967,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.3/file/zardoy.ts-essential-plugins-0.0.3.vsix";
-      sha256 = "sha256-TtOeupHGiDGSuhJfDykDjZNkOcTZwiXkcAocf81RTn8=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.4/file/zardoy.ts-essential-plugins-0.0.4.vsix";
+      sha256 = "sha256-7SV/dfSTzq13gaUlMpEm4hy+gGMdL/9yO6g4o2ork/E=";
     };
     name = "ts-essential-plugins";
     license = "MIT";
@@ -20991,10 +20991,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.10/file/zardoy.vetur-extended-0.0.10.vsix";
-      sha256 = "sha256-7AOhJspdIxxI+eWYFRE+kgdnT17wLkEGKUspvs9CaPw=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.11/file/zardoy.vetur-extended-0.0.11.vsix";
+      sha256 = "sha256-iEpNqEN4Hi9EWHny9UtvTpU6wKlzemuR4fEUloE9s1s=";
     };
     name = "vetur-extended";
     license = "MIT";
