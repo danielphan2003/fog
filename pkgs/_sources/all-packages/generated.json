@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "146b189d54e51609634d9dc4b1ab47f9e3c91d49",
+    "version": "464c4aa3956fd4ec47d316dff3188c708edcc930",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-fjUxSjIfogPv0sK6oMq5RntWuKZt50sitw7dd5eZhdY=",
-      "rev": "146b189d54e51609634d9dc4b1ab47f9e3c91d49"
+      "sha256": "sha256-arK4G8UTGBSiBiPhH7yguh7ryW34n2mQrGEKyW7F0G8=",
+      "rev": "464c4aa3956fd4ec47d316dff3188c708edcc930"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1626,7 +1626,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "20b294ee53f9c644ad78baa324ff78b37f527166",
+    "version": "d019868884eb8c5d80fcaa2be1cc6f8657fde9eb",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1636,8 +1636,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-EexDZplgU9s5KUWWD5O0Y39pUFKxBwTiNGCTDaIxXJk=",
-      "rev": "20b294ee53f9c644ad78baa324ff78b37f527166"
+      "sha256": "sha256-xgV9GdqIoO5+G3suQZEX5he3Ou3NKfRvZCyvXwhF3cw=",
+      "rev": "d019868884eb8c5d80fcaa2be1cc6f8657fde9eb"
     },
     "extract": null,
     "rustGitDeps": null
