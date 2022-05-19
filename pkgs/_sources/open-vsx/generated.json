@@ -1983,7 +1983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "paiqo-databricks-vscode",
-    "version": "0.9.3",
+    "version": "0.9.4",
     "passthru": {
       "name": "databricks-vscode",
       "license": "GPL-3.0-or-later",
@@ -1991,10 +1991,10 @@
       "description": "Databricks Extension for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.3/file/paiqo.databricks-vscode-0.9.3.vsix",
+      "url": "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.4/file/paiqo.databricks-vscode-0.9.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HWKMeWXXEYJaAWZh9iwIEz0HBniLTd1inB6TJMg6868="
+      "sha256": "sha256-nLMXrTD6sDA6rmtCB4dkOsiVjz2Al2ff0z46qU4ARQY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22563,7 +22563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oraichain-cosmwasm-ide",
-    "version": "0.13.51",
+    "version": "0.13.52",
     "passthru": {
       "name": "cosmwasm-ide",
       "license": "MIT OR Apache-2.0",
@@ -22571,10 +22571,10 @@
       "description": "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.51/file/oraichain.cosmwasm-ide-0.13.51.vsix",
+      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.52/file/oraichain.cosmwasm-ide-0.13.52.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-julREvCvaOKrMv7+x+45wFmmSNAW2y6pHBO7ixvwzvc="
+      "sha256": "sha256-d5uPUBVQtbgTCJEBCnx+IEiBmNNxL/QhyxUQXwS9WY0="
     },
     "extract": null,
     "rustGitDeps": null

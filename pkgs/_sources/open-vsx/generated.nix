@@ -14295,10 +14295,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.51";
+    version = "0.13.52";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.51/file/oraichain.cosmwasm-ide-0.13.51.vsix";
-      sha256 = "sha256-julREvCvaOKrMv7+x+45wFmmSNAW2y6pHBO7ixvwzvc=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.52/file/oraichain.cosmwasm-ide-0.13.52.vsix";
+      sha256 = "sha256-d5uPUBVQtbgTCJEBCnx+IEiBmNNxL/QhyxUQXwS9WY0=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
@@ -14379,10 +14379,10 @@
   };
   paiqo-databricks-vscode = {
     pname = "paiqo-databricks-vscode";
-    version = "0.9.3";
+    version = "0.9.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.3/file/paiqo.databricks-vscode-0.9.3.vsix";
-      sha256 = "sha256-HWKMeWXXEYJaAWZh9iwIEz0HBniLTd1inB6TJMg6868=";
+      url = "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.4/file/paiqo.databricks-vscode-0.9.4.vsix";
+      sha256 = "sha256-nLMXrTD6sDA6rmtCB4dkOsiVjz2Al2ff0z46qU4ARQY=";
     };
     name = "databricks-vscode";
     license = "GPL-3.0-or-later";
