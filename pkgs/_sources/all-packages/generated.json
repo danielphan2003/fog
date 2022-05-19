@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "e7c607c68030d4b723c700035fd2ab9deb18692f",
+    "version": "ebd0743fd6d18117bb9e51c5394020ddad7a3fc0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-v6Q3LWt2Q5Vi7knpqgL+4KTZHDslSLHNgWSyY5nsCKY=",
-      "rev": "e7c607c68030d4b723c700035fd2ab9deb18692f"
+      "sha256": "sha256-nVpztpCoLsCFz03iZzK2+nRdCM+pnwjmZExybw6w9aY=",
+      "rev": "ebd0743fd6d18117bb9e51c5394020ddad7a3fc0"
     },
     "extract": null,
     "rustGitDeps": null
@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-880",
+    "version": "1.0-881",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-880-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-881-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mqEY7ssVURwOib5I/nTun0t4EqaJYURbUjrLrKv7R/g="
+      "sha256": "sha256-VVk06wLiq5mQzRjRjktfLcUT18RUACZAb+GIqslVQiE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "937ad8bfc6b5c79eca7a310c50fc3cbfde31e28d",
+    "version": "7c2d033b8318bb01641a72040e150de3b85e90c3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-WDNQweSWhpmQMfNOyPDcN1bl97PyZHszqnmHz8Lnxak=",
-      "rev": "937ad8bfc6b5c79eca7a310c50fc3cbfde31e28d"
+      "sha256": "sha256-mif9bEx0DUA+Y7p19FhpW9kpB9Hj6iQ7xEFDH9z/iWo=",
+      "rev": "7c2d033b8318bb01641a72040e150de3b85e90c3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "3222bce02d02251b1e6b62c7df411d94b0baf39e",
+    "version": "cc91a05686e0212584562d6886df4fcb3421d38f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-kNbzctq7UIbUpQkSRDCGLiMb/4yxqST0lfx2Lzam3GQ=",
-      "rev": "3222bce02d02251b1e6b62c7df411d94b0baf39e"
+      "sha256": "sha256-+3hdXiGNd0Y38AtBYy6KxjVRA9lDJUJAVyAFZ+B/tEU=",
+      "rev": "cc91a05686e0212584562d6886df4fcb3421d38f"
     },
     "extract": null,
     "rustGitDeps": null

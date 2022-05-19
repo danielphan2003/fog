@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "e7c607c68030d4b723c700035fd2ab9deb18692f";
+    version = "ebd0743fd6d18117bb9e51c5394020ddad7a3fc0";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "e7c607c68030d4b723c700035fd2ab9deb18692f";
+      rev = "ebd0743fd6d18117bb9e51c5394020ddad7a3fc0";
       fetchSubmodules = false;
-      sha256 = "sha256-v6Q3LWt2Q5Vi7knpqgL+4KTZHDslSLHNgWSyY5nsCKY=";
+      sha256 = "sha256-nVpztpCoLsCFz03iZzK2+nRdCM+pnwjmZExybw6w9aY=";
     });
   };
   caddy = {
@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-880";
+    version = "1.0-881";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-880-1_all.deb";
-      sha256 = "sha256-mqEY7ssVURwOib5I/nTun0t4EqaJYURbUjrLrKv7R/g=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-881-1_all.deb";
+      sha256 = "sha256-VVk06wLiq5mQzRjRjktfLcUT18RUACZAb+GIqslVQiE=";
     };
   };
   jitsi-meet = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "937ad8bfc6b5c79eca7a310c50fc3cbfde31e28d";
+    version = "7c2d033b8318bb01641a72040e150de3b85e90c3";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "937ad8bfc6b5c79eca7a310c50fc3cbfde31e28d";
+      rev = "7c2d033b8318bb01641a72040e150de3b85e90c3";
       fetchSubmodules = false;
-      sha256 = "sha256-WDNQweSWhpmQMfNOyPDcN1bl97PyZHszqnmHz8Lnxak=";
+      sha256 = "sha256-mif9bEx0DUA+Y7p19FhpW9kpB9Hj6iQ7xEFDH9z/iWo=";
     });
   };
   rofi-wayland = {
@@ -1008,13 +1008,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3222bce02d02251b1e6b62c7df411d94b0baf39e";
+    version = "cc91a05686e0212584562d6886df4fcb3421d38f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3222bce02d02251b1e6b62c7df411d94b0baf39e";
+      rev = "cc91a05686e0212584562d6886df4fcb3421d38f";
       fetchSubmodules = false;
-      sha256 = "sha256-kNbzctq7UIbUpQkSRDCGLiMb/4yxqST0lfx2Lzam3GQ=";
+      sha256 = "sha256-+3hdXiGNd0Y38AtBYy6KxjVRA9lDJUJAVyAFZ+B/tEU=";
     });
   };
   tailscale-systray = {
