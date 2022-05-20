@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "63157a6f097053eac264a6410c5129c20dba06cb",
+    "version": "3d010cd7a9041a5b76b417a69761c8afdc600b79",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-yCHKNK1MhPZTQjHz6CJk+qpU7SlRSbEZe3QGo9Mafrk=",
-      "rev": "63157a6f097053eac264a6410c5129c20dba06cb"
+      "sha256": "sha256-6KPoE5SGfUaHHi1V7MKludBfODIKHE5ee1WQmdj0tT8=",
+      "rev": "3d010cd7a9041a5b76b417a69761c8afdc600b79"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-686-gbfcd5d47",
+    "version": "2.1-687-g5f1ae39b",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-686-gbfcd5d47-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-687-g5f1ae39b-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9RRfw2wreCebLbPj3xPTOdD4vDQ4Qa3ku34l1EYBXNU="
+      "sha256": "sha256-O1k/iTmWP2uuLjkMX2SmqEmxg5qLf7RhHB1CtEkjfOg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "c81be7b899c887cdf9243b05f3391ebe76f893d3",
+    "version": "fc5839864bfbd5bfed512cbb6f05e32894e93938",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-J5pQ8mWVu22lqNqqWfoJgMi8Fc3rXcucR/ElQg8DsQw=",
-      "rev": "c81be7b899c887cdf9243b05f3391ebe76f893d3"
+      "sha256": "sha256-qg2x8bhDjhHZzt/COpdNEEACeq6lIli3AnnHcmYFzvM=",
+      "rev": "fc5839864bfbd5bfed512cbb6f05e32894e93938"
     },
     "extract": null,
     "rustGitDeps": null
