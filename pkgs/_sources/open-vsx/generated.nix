@@ -3217,6 +3217,18 @@
     publisher = "Stephen-Hamilton-C";
     description = "A fork of Dark+ Material, but more black themed";
   };
+  StoneC0der-g-dark-theme = {
+    pname = "StoneC0der-g-dark-theme";
+    version = "4.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/StoneC0der/g-dark-theme/4.3.0/file/StoneC0der.g-dark-theme-4.3.0.vsix";
+      sha256 = "sha256-hszUKsA1geVRY2M0FkLZx0yhXGVaV0brahZndX6PZ8M=";
+    };
+    name = "g-dark-theme";
+    license = "MIT";
+    publisher = "StoneC0der";
+    description = "A set of dual/unique background themes design to help protect you're eyes while optimizing readability using common but beautiful color palettes uniquely";
+  };
   Sudhan-neondark-theme = {
     pname = "Sudhan-neondark-theme";
     version = "1.2.0";
@@ -13323,10 +13335,10 @@
   };
   ms-vscode-vscode-js-profile-table = {
     pname = "ms-vscode-vscode-js-profile-table";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.1/file/ms-vscode.vscode-js-profile-table-1.0.1.vsix";
-      sha256 = "sha256-CUhSwzJBlDekYKBsWKquZbQVzxP6dyDp2P+L61zba+k=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.2/file/ms-vscode.vscode-js-profile-table-1.0.2.vsix";
+      sha256 = "sha256-55s3FzIHVd0YqcjqLvvkhHtNdVK1vfUQsPMNMmVc1vU=";
     };
     name = "vscode-js-profile-table";
     license = "MIT";
