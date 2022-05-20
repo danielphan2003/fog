@@ -3675,10 +3675,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.0/file/XOJ-Team.xoj-playground-1.1.0.vsix";
-      sha256 = "sha256-Sl0Sy/S/sepZBDzx9/gkwo7PVSQ8Y+UDKzBhL+mG8o8=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.1/file/XOJ-Team.xoj-playground-1.1.1.vsix";
+      sha256 = "sha256-btiZeRiqCaxWvjO8ZVus7TvEXDb+zb1lhs/wBxBIxHw=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -9315,10 +9315,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.0/file/hall.draw-0.1.0.vsix";
-      sha256 = "sha256-NSH5k3yxapSKDC+kHyOiAlHP+fJWWDu/78DnF91B/qY=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.1/file/hall.draw-0.1.1.vsix";
+      sha256 = "sha256-bqpc/Ox5uIXKxCQgFdGobydN0IpChnVi8799fk9YvGg=";
     };
     name = "draw";
     license = "Apache-2.0";
