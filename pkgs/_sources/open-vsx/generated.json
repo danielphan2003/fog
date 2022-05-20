@@ -8563,7 +8563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "matepek-vscode-catch2-test-adapter",
-    "version": "4.1.1",
+    "version": "4.2.0",
     "passthru": {
       "name": "vscode-catch2-test-adapter",
       "license": "MIT",
@@ -8571,10 +8571,10 @@
       "description": "Run GoogleTest, Catch2 and DOCtest tests from VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.1.1/file/matepek.vscode-catch2-test-adapter-4.1.1.vsix",
+      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.0/file/matepek.vscode-catch2-test-adapter-4.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-l+jXGh7m1Ij7wAR0s9Fpkv3tYRO7mGIblHXFAX8TFIk="
+      "sha256": "sha256-iOyuCez4j3GolCWgJqkVcxzPeH5X0aH3/KyC3aKITW4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8843,7 +8843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "asvetliakov-vscode-neovim",
-    "version": "0.0.84",
+    "version": "0.0.85",
     "passthru": {
       "name": "vscode-neovim",
       "license": "MIT",
@@ -8851,10 +8851,10 @@
       "description": "VSCode Neovim Integration"
     },
     "src": {
-      "url": "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.84/file/asvetliakov.vscode-neovim-0.0.84.vsix",
+      "url": "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.85/file/asvetliakov.vscode-neovim-0.0.85.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AlxmjLxXGrfjIOSzclwNTT6yqZniNlUA0QrCD10qGFc="
+      "sha256": "sha256-dxPyjLWY2IVNpbwyAxyZYtFUDrV3DG/HJsOzsRVSJ8w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15823,7 +15823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.1716",
+    "version": "2022.5.1919",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15831,10 +15831,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1716/file/Slint.slint-nightly-2022.5.1716.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1919/file/Slint.slint-nightly-2022.5.1919.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PziVi/wx4LLv2Vw1zKPPnzPW1Ktrw07/5dUzEJhDb+I="
+      "sha256": "sha256-nN484gMK0SqxrrrKzw5yHsVNKXFtgCBvaz8iUsM2DhU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18275,6 +18275,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-j/EJCpnQlh/tgGS4P14WIVsKKVmVm+TlZJNIbWLPGvk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "hall-draw": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "hall-draw",
+    "version": "0.1.0",
+    "passthru": {
+      "name": "draw",
+      "license": "Apache-2.0",
+      "publisher": "hall",
+      "description": "Draw an SVG image with a mouse or pen"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/hall/draw/0.1.0/file/hall.draw-0.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-NSH5k3yxapSKDC+kHyOiAlHP+fJWWDu/78DnF91B/qY="
     },
     "extract": null,
     "rustGitDeps": null

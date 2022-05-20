@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.1716";
+    version = "2022.5.1919";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1716/file/Slint.slint-nightly-2022.5.1716.vsix";
-      sha256 = "sha256-PziVi/wx4LLv2Vw1zKPPnzPW1Ktrw07/5dUzEJhDb+I=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1919/file/Slint.slint-nightly-2022.5.1919.vsix";
+      sha256 = "sha256-nN484gMK0SqxrrrKzw5yHsVNKXFtgCBvaz8iUsM2DhU=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5235,10 +5235,10 @@
   };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
-    version = "0.0.84";
+    version = "0.0.85";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.84/file/asvetliakov.vscode-neovim-0.0.84.vsix";
-      sha256 = "sha256-AlxmjLxXGrfjIOSzclwNTT6yqZniNlUA0QrCD10qGFc=";
+      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.85/file/asvetliakov.vscode-neovim-0.0.85.vsix";
+      sha256 = "sha256-dxPyjLWY2IVNpbwyAxyZYtFUDrV3DG/HJsOzsRVSJ8w=";
     };
     name = "vscode-neovim";
     license = "MIT";
@@ -9313,6 +9313,18 @@
     publisher = "halcyontechltd";
     description = "RPGLE content assist and linter for VS Code";
   };
+  hall-draw = {
+    pname = "hall-draw";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hall/draw/0.1.0/file/hall.draw-0.1.0.vsix";
+      sha256 = "sha256-NSH5k3yxapSKDC+kHyOiAlHP+fJWWDu/78DnF91B/qY=";
+    };
+    name = "draw";
+    license = "Apache-2.0";
+    publisher = "hall";
+    description = "Draw an SVG image with a mouse or pen";
+  };
   harehare-textusm = {
     pname = "harehare-textusm";
     version = "0.3.1";
@@ -12159,10 +12171,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.1.1";
+    version = "4.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.1.1/file/matepek.vscode-catch2-test-adapter-4.1.1.vsix";
-      sha256 = "sha256-l+jXGh7m1Ij7wAR0s9Fpkv3tYRO7mGIblHXFAX8TFIk=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.0/file/matepek.vscode-catch2-test-adapter-4.2.0.vsix";
+      sha256 = "sha256-iOyuCez4j3GolCWgJqkVcxzPeH5X0aH3/KyC3aKITW4=";
     };
     name = "vscode-catch2-test-adapter";
     license = "MIT";
