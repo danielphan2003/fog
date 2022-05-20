@@ -4407,10 +4407,10 @@
   };
   alphabotsec-vscode-eclipse-keybindings = {
     pname = "alphabotsec-vscode-eclipse-keybindings";
-    version = "0.14.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.14.0/file/alphabotsec.vscode-eclipse-keybindings-0.14.0.vsix";
-      sha256 = "sha256-SQ5P3NwyAWoM9jEX7dIzSN4v0DURpvzGgKcybgneVYM=";
+      url = "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.0/file/alphabotsec.vscode-eclipse-keybindings-0.16.0.vsix";
+      sha256 = "sha256-HNADmJi7XWG4E3OosDY36tSXxk8/7dkKha1AO7ziegQ=";
     };
     name = "vscode-eclipse-keybindings";
     license = "MIT";
@@ -11667,10 +11667,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.73";
+    version = "0.0.74";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.73/file/leanprover.lean4-0.0.73.vsix";
-      sha256 = "sha256-HFgbpChPiRojWenZk1CcjJk5S07zD5XfFnKfAZbXBcs=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.74/file/leanprover.lean4-0.0.74.vsix";
+      sha256 = "sha256-V6WuPuRfs4kw+L+Y8Fba+E458AtwqS7R6oZuqumGQKg=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -14943,10 +14943,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.332";
+    version = "0.25.333";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.332/file/pokey.cursorless-0.25.332.vsix";
-      sha256 = "sha256-EtbTNzEflwoTc6B9T44PSoIUYNukxfnopD69zLdg/hc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.333/file/pokey.cursorless-0.25.333.vsix";
+      sha256 = "sha256-fD+Jer7a5c0Vg5tsNW+7lWnjhMvb8xbJVSOMIgutCcA=";
     };
     name = "cursorless";
     license = "MIT";
