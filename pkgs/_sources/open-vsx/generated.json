@@ -3083,7 +3083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-vscode-js-profile-table",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "passthru": {
       "name": "vscode-js-profile-table",
       "license": "MIT",
@@ -3091,10 +3091,10 @@
       "description": "Text visualizer for profiles taken from the JavaScript debugger"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.1/file/ms-vscode.vscode-js-profile-table-1.0.1.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.2/file/ms-vscode.vscode-js-profile-table-1.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CUhSwzJBlDekYKBsWKquZbQVzxP6dyDp2P+L61zba+k="
+      "sha256": "sha256-55s3FzIHVd0YqcjqLvvkhHtNdVK1vfUQsPMNMmVc1vU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17555,6 +17555,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-+RYYYhdaW0x+Oa2qsX/nNZ8aRoUxiCPC9914q5jgbg0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "StoneC0der-g-dark-theme": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "StoneC0der-g-dark-theme",
+    "version": "4.3.0",
+    "passthru": {
+      "name": "g-dark-theme",
+      "license": "MIT",
+      "publisher": "StoneC0der",
+      "description": "A set of dual/unique background themes design to help protect you're eyes while optimizing readability using common but beautiful color palettes uniquely"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/StoneC0der/g-dark-theme/4.3.0/file/StoneC0der.g-dark-theme-4.3.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-hszUKsA1geVRY2M0FkLZx0yhXGVaV0brahZndX6PZ8M="
     },
     "extract": null,
     "rustGitDeps": null
