@@ -9315,10 +9315,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.2/file/hall.draw-0.1.2.vsix";
-      sha256 = "sha256-xSVW+mg5pj+qniuV3Wu7kal5Airo93FUPJT0fQeHGhA=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.3/file/hall.draw-0.1.3.vsix";
+      sha256 = "sha256-6g0s3PWlkW0kQ09EUxRIbml4hnq+wUhG1Jmi3Vx7rWQ=";
     };
     name = "draw";
     license = "Apache-2.0";
