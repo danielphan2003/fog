@@ -18763,7 +18763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "IBM-zopeneditor",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "passthru": {
       "name": "zopeneditor",
       "license": "",
@@ -18771,10 +18771,10 @@
       "description": "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development."
     },
     "src": {
-      "url": "https://open-vsx.org/api/IBM/zopeneditor/2.0.2/file/IBM.zopeneditor-2.0.2.vsix",
+      "url": "https://open-vsx.org/api/IBM/zopeneditor/2.0.3/file/IBM.zopeneditor-2.0.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WiOYxjdR0fv44WoAdL5VxnEhE8m71b7XJFSVaGagFw0="
+      "sha256": "sha256-QG0nokZVf7THHHabxTnPbyc2NFAvvZ+kVtJBqi1DI1s="
     },
     "extract": null,
     "rustGitDeps": null

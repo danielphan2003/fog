@@ -1563,10 +1563,10 @@
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
-    version = "2.0.2";
+    version = "2.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.2/file/IBM.zopeneditor-2.0.2.vsix";
-      sha256 = "sha256-WiOYxjdR0fv44WoAdL5VxnEhE8m71b7XJFSVaGagFw0=";
+      url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.3/file/IBM.zopeneditor-2.0.3.vsix";
+      sha256 = "sha256-QG0nokZVf7THHHabxTnPbyc2NFAvvZ+kVtJBqi1DI1s=";
     };
     name = "zopeneditor";
     license = "";
