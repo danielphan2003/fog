@@ -7239,10 +7239,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.95.2";
+    version = "0.95.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.95.2/file/dendron.nightly-0.95.2.vsix";
-      sha256 = "sha256-Xo0GK7TZyYZ2r/gILkYnWbYKT+EUIEHxuQzgeG8FIQs=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.95.3/file/dendron.nightly-0.95.3.vsix";
+      sha256 = "sha256-BbS3paaRY+0/XIYkbPc40TOPPBAS8gOyZMoUcRUu7N4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -20691,10 +20691,10 @@
   };
   xotm-xotm-new-extension = {
     pname = "xotm-xotm-new-extension";
-    version = "0.0.0";
+    version = "0.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/xotm/xotm-new-extension/0.0.0/file/xotm.xotm-new-extension-0.0.0.vsix";
-      sha256 = "sha256-HSXtbPlHom3fufS0W0BopKj1H94+PJdrfybPleYcX5E=";
+      url = "https://open-vsx.org/api/xotm/xotm-new-extension/0.0.1/file/xotm.xotm-new-extension-0.0.1.vsix";
+      sha256 = "sha256-rA8Yi822+Wg72ZvL0ujvjT7POMQ9Wda1c9eM/WmsT9M=";
     };
     name = "xotm-new-extension";
     license = "MIT";
