@@ -9315,10 +9315,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.1/file/hall.draw-0.1.1.vsix";
-      sha256 = "sha256-bqpc/Ox5uIXKxCQgFdGobydN0IpChnVi8799fk9YvGg=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.2/file/hall.draw-0.1.2.vsix";
+      sha256 = "sha256-xSVW+mg5pj+qniuV3Wu7kal5Airo93FUPJT0fQeHGhA=";
     };
     name = "draw";
     license = "Apache-2.0";
@@ -14319,10 +14319,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.52";
+    version = "0.13.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.52/file/oraichain.cosmwasm-ide-0.13.52.vsix";
-      sha256 = "sha256-d5uPUBVQtbgTCJEBCnx+IEiBmNNxL/QhyxUQXwS9WY0=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.53/file/oraichain.cosmwasm-ide-0.13.53.vsix";
+      sha256 = "sha256-672oYzOQqE4a46BV3k7IV+VdS6RPKNxo4ThsoIfimyQ=";
     };
     name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
@@ -14679,10 +14679,10 @@
   };
   pickoba-satysfi-workshop = {
     pname = "pickoba-satysfi-workshop";
-    version = "1.1.1";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pickoba/satysfi-workshop/1.1.1/file/pickoba.satysfi-workshop-1.1.1.vsix";
-      sha256 = "sha256-hQbLtO1eVfReN9LxAiiVrDxI+cpQLmUPVdNLY+s9Q+I=";
+      url = "https://open-vsx.org/api/pickoba/satysfi-workshop/1.2.0/file/pickoba.satysfi-workshop-1.2.0.vsix";
+      sha256 = "sha256-gZ2ZX+7CqVb6XDqn7kyeo3UYckS0tb1Sx1rI+RFgKF0=";
     };
     name = "satysfi-workshop";
     license = "Apache-2.0";

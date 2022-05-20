@@ -18283,7 +18283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hall-draw",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "passthru": {
       "name": "draw",
       "license": "Apache-2.0",
@@ -18291,10 +18291,10 @@
       "description": "Draw an SVG image with a mouse or pen"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hall/draw/0.1.1/file/hall.draw-0.1.1.vsix",
+      "url": "https://open-vsx.org/api/hall/draw/0.1.2/file/hall.draw-0.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bqpc/Ox5uIXKxCQgFdGobydN0IpChnVi8799fk9YvGg="
+      "sha256": "sha256-xSVW+mg5pj+qniuV3Wu7kal5Airo93FUPJT0fQeHGhA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22603,7 +22603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "oraichain-cosmwasm-ide",
-    "version": "0.13.52",
+    "version": "0.13.53",
     "passthru": {
       "name": "cosmwasm-ide",
       "license": "MIT OR Apache-2.0",
@@ -22611,10 +22611,10 @@
       "description": "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts"
     },
     "src": {
-      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.52/file/oraichain.cosmwasm-ide-0.13.52.vsix",
+      "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.53/file/oraichain.cosmwasm-ide-0.13.53.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-d5uPUBVQtbgTCJEBCnx+IEiBmNNxL/QhyxUQXwS9WY0="
+      "sha256": "sha256-672oYzOQqE4a46BV3k7IV+VdS6RPKNxo4ThsoIfimyQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29783,7 +29783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pickoba-satysfi-workshop",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "passthru": {
       "name": "satysfi-workshop",
       "license": "Apache-2.0",
@@ -29791,10 +29791,10 @@
       "description": "Launguage support for SATySFi"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pickoba/satysfi-workshop/1.1.1/file/pickoba.satysfi-workshop-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/pickoba/satysfi-workshop/1.2.0/file/pickoba.satysfi-workshop-1.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hQbLtO1eVfReN9LxAiiVrDxI+cpQLmUPVdNLY+s9Q+I="
+      "sha256": "sha256-gZ2ZX+7CqVb6XDqn7kyeo3UYckS0tb1Sx1rI+RFgKF0="
     },
     "extract": null,
     "rustGitDeps": null
