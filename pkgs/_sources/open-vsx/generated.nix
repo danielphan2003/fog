@@ -7743,10 +7743,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2346326";
+    version = "7.3.2359026";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2346326/file/eliostruyf.vscode-front-matter-beta-7.3.2346326.vsix";
-      sha256 = "sha256-j2Sv1RPrV1sZJmHAgipTVAwHtMLxWRWMBQ/7YKQNSXs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2359026/file/eliostruyf.vscode-front-matter-beta-7.3.2359026.vsix";
+      sha256 = "sha256-w2Ir98Cq/vY6sVNhjTPZW/bc52xmkdYXL84JjBFupbk=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10863,10 +10863,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.49";
+    version = "0.16.50";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.49/file/jroesch.lean-0.16.49.vsix";
-      sha256 = "sha256-KQfhEoVetcBndVoIs8nVcWRBFNJs5wxEMxjzGFuLRCs=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.50/file/jroesch.lean-0.16.50.vsix";
+      sha256 = "sha256-GtshHsvy3CH1B2UiY2bRxKY4K+R9nnbzO+Q3KEZe98g=";
     };
     name = "lean";
     license = "Apache-2.0";
@@ -14019,10 +14019,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.16.0";
+    version = "17.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.16.0/file/nrwl.angular-console-17.16.0.vsix";
-      sha256 = "sha256-zrRmVIRGRG/jYYwDCwp3kaGq0+c6kP/PzYMk3+s/+Zk=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.17.0/file/nrwl.angular-console-17.17.0.vsix";
+      sha256 = "sha256-Hx54nN5GngjmIhDcr6rT5gVoeQKBuL9KGtpYQ14+Fls=";
     };
     name = "angular-console";
     license = "MIT";
