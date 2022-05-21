@@ -2511,10 +2511,10 @@
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
-    version = "4.9.0";
+    version = "4.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.9.0/file/OBKoro1.korofileheader-4.9.0.vsix";
-      sha256 = "sha256-XPbjvs5tdRs1kxLYoWCEi1juqF8m9Q5kr5RTVlUUJ7k=";
+      url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.9.1/file/OBKoro1.korofileheader-4.9.1.vsix";
+      sha256 = "sha256-iCP1nHyqUorShS1wLNBhw5xkHK65XVk0Q5Cg1in4tSU=";
     };
     name = "korofileheader";
     license = "MIT";
@@ -3747,10 +3747,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.9.2";
+    version = "9.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.9.2/file/YXL.cloudmusic-9.9.2.vsix";
-      sha256 = "sha256-V5IYPwXeTBa43Bx3AZRjx6f+X44Yi4b83GMOIksuD2M=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.9.3/file/YXL.cloudmusic-9.9.3.vsix";
+      sha256 = "sha256-y8QfEXuzX12jS/HVesOSlT1A6zHeeV+x9Sn9Uc+lFRM=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -8871,10 +8871,10 @@
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.13/file/gera2ld.markmap-vscode-0.0.13.vsix";
-      sha256 = "sha256-5lwiG0+p1OWkxOJuZ7AwMx3IanBlPqU/9ttnx7NWPRQ=";
+      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.14/file/gera2ld.markmap-vscode-0.0.14.vsix";
+      sha256 = "sha256-uCbX1Fv4ngF5bm1vQurRzSxy0R94Fhv5pSkU7FzTgCU=";
     };
     name = "markmap-vscode";
     license = "MIT";
@@ -9315,10 +9315,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.4/file/hall.draw-0.1.4.vsix";
-      sha256 = "sha256-4khbky0B37AXWuaZUcSDn9fUCDWCg9nZAUsD2SVXra4=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.5/file/hall.draw-0.1.5.vsix";
+      sha256 = "sha256-KgTTpmQaPHkoJ9Ut0LbcokS0FTmHxRFAUeLMsuCxnJ4=";
     };
     name = "draw";
     license = "Apache-2.0";
@@ -16755,10 +16755,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.14.2";
+    version = "0.14.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.2/file/shufo.vscode-blade-formatter-0.14.2.vsix";
-      sha256 = "sha256-j/EJCpnQlh/tgGS4P14WIVsKKVmVm+TlZJNIbWLPGvk=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.3/file/shufo.vscode-blade-formatter-0.14.3.vsix";
+      sha256 = "sha256-6xTssNSBizdUeP1QjjndYd6yEwiJPcl3vsUR/n2jucE=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";

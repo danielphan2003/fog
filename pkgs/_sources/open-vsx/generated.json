@@ -5623,7 +5623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "gera2ld-markmap-vscode",
-    "version": "0.0.13",
+    "version": "0.0.14",
     "passthru": {
       "name": "markmap-vscode",
       "license": "MIT",
@@ -5631,10 +5631,10 @@
       "description": "Visualize your markdown in VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.13/file/gera2ld.markmap-vscode-0.0.13.vsix",
+      "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.14/file/gera2ld.markmap-vscode-0.0.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5lwiG0+p1OWkxOJuZ7AwMx3IanBlPqU/9ttnx7NWPRQ="
+      "sha256": "sha256-uCbX1Fv4ngF5bm1vQurRzSxy0R94Fhv5pSkU7FzTgCU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18263,7 +18263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.14.2",
+    "version": "0.14.3",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -18271,10 +18271,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.2/file/shufo.vscode-blade-formatter-0.14.2.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.3/file/shufo.vscode-blade-formatter-0.14.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-j/EJCpnQlh/tgGS4P14WIVsKKVmVm+TlZJNIbWLPGvk="
+      "sha256": "sha256-6xTssNSBizdUeP1QjjndYd6yEwiJPcl3vsUR/n2jucE="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18283,7 +18283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hall-draw",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "draw",
       "license": "Apache-2.0",
@@ -18291,10 +18291,10 @@
       "description": "Draw an SVG image with a mouse or pen"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hall/draw/0.1.4/file/hall.draw-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/hall/draw/0.1.5/file/hall.draw-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4khbky0B37AXWuaZUcSDn9fUCDWCg9nZAUsD2SVXra4="
+      "sha256": "sha256-KgTTpmQaPHkoJ9Ut0LbcokS0FTmHxRFAUeLMsuCxnJ4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26503,7 +26503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "YXL-cloudmusic",
-    "version": "9.9.2",
+    "version": "9.9.3",
     "passthru": {
       "name": "cloudmusic",
       "license": "MIT",
@@ -26511,10 +26511,10 @@
       "description": "Netease Music for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.9.2/file/YXL.cloudmusic-9.9.2.vsix",
+      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.9.3/file/YXL.cloudmusic-9.9.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-V5IYPwXeTBa43Bx3AZRjx6f+X44Yi4b83GMOIksuD2M="
+      "sha256": "sha256-y8QfEXuzX12jS/HVesOSlT1A6zHeeV+x9Sn9Uc+lFRM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26963,7 +26963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "OBKoro1-korofileheader",
-    "version": "4.9.0",
+    "version": "4.9.1",
     "passthru": {
       "name": "korofileheader",
       "license": "MIT",
@@ -26971,10 +26971,10 @@
       "description": "ç¨äºçææä»¶å¤´é¨æ³¨éåå½æ°æ³¨éçæä»¶ï¼æ¯æææä¸»æµè¯­è¨,åè½å¼ºå¤§ï¼çµæ´»æ¹ä¾¿ï¼ææ¡£é½å¨ï¼é£ç¨ç®åï¼"
     },
     "src": {
-      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.9.0/file/OBKoro1.korofileheader-4.9.0.vsix",
+      "url": "https://open-vsx.org/api/OBKoro1/korofileheader/4.9.1/file/OBKoro1.korofileheader-4.9.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XPbjvs5tdRs1kxLYoWCEi1juqF8m9Q5kr5RTVlUUJ7k="
+      "sha256": "sha256-iCP1nHyqUorShS1wLNBhw5xkHK65XVk0Q5Cg1in4tSU="
     },
     "extract": null,
     "rustGitDeps": null
