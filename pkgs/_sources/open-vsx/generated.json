@@ -18283,7 +18283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hall-draw",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "passthru": {
       "name": "draw",
       "license": "Apache-2.0",
@@ -18291,10 +18291,10 @@
       "description": "Draw an SVG image with a mouse or pen"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hall/draw/0.1.3/file/hall.draw-0.1.3.vsix",
+      "url": "https://open-vsx.org/api/hall/draw/0.1.4/file/hall.draw-0.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6g0s3PWlkW0kQ09EUxRIbml4hnq+wUhG1Jmi3Vx7rWQ="
+      "sha256": "sha256-4khbky0B37AXWuaZUcSDn9fUCDWCg9nZAUsD2SVXra4="
     },
     "extract": null,
     "rustGitDeps": null
