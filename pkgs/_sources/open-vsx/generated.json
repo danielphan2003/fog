@@ -15823,7 +15823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.1919",
+    "version": "2022.5.2016",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15831,10 +15831,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1919/file/Slint.slint-nightly-2022.5.1919.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2016/file/Slint.slint-nightly-2022.5.2016.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nN484gMK0SqxrrrKzw5yHsVNKXFtgCBvaz8iUsM2DhU="
+      "sha256": "sha256-HEPYEdVjAAck0wgQ//dqWXpaJArmi7mWfH3N7lSoe7Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19903,7 +19903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "k--kato-docomment",
-    "version": "0.1.30",
+    "version": "0.1.31",
     "passthru": {
       "name": "docomment",
       "license": "MIT",
@@ -19911,10 +19911,10 @@
       "description": "Generate C# XML documentation comments for ///"
     },
     "src": {
-      "url": "https://open-vsx.org/api/k--kato/docomment/0.1.30/file/k--kato.docomment-0.1.30.vsix",
+      "url": "https://open-vsx.org/api/k--kato/docomment/0.1.31/file/k--kato.docomment-0.1.31.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-aBlcDZPXY8pKYuMa8IWJJTGjlwTju235GJM0ltjcHOw="
+      "sha256": "sha256-K2zXyVDIQsLNc3f6ovFOg677v5Bwb13I+cBApNDkjmY="
     },
     "extract": null,
     "rustGitDeps": null

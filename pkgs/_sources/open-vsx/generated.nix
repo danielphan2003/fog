@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.1919";
+    version = "2022.5.2016";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.1919/file/Slint.slint-nightly-2022.5.1919.vsix";
-      sha256 = "sha256-nN484gMK0SqxrrrKzw5yHsVNKXFtgCBvaz8iUsM2DhU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2016/file/Slint.slint-nightly-2022.5.2016.vsix";
+      sha256 = "sha256-HEPYEdVjAAck0wgQ//dqWXpaJArmi7mWfH3N7lSoe7Y=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -10959,10 +10959,10 @@
   };
   k--kato-docomment = {
     pname = "k--kato-docomment";
-    version = "0.1.30";
+    version = "0.1.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/k--kato/docomment/0.1.30/file/k--kato.docomment-0.1.30.vsix";
-      sha256 = "sha256-aBlcDZPXY8pKYuMa8IWJJTGjlwTju235GJM0ltjcHOw=";
+      url = "https://open-vsx.org/api/k--kato/docomment/0.1.31/file/k--kato.docomment-0.1.31.vsix";
+      sha256 = "sha256-K2zXyVDIQsLNc3f6ovFOg677v5Bwb13I+cBApNDkjmY=";
     };
     name = "docomment";
     license = "MIT";
