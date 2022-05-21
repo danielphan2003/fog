@@ -3459,10 +3459,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.6";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.6/file/Turiiya.keyword-o-mat-0.1.6.vsix";
-      sha256 = "sha256-FWfeNldmzgruYxho0a0h5mNOA5V7uJVIU6Y26izLAuc=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.9/file/Turiiya.keyword-o-mat-0.1.9.vsix";
+      sha256 = "sha256-Vhhc9jdGBvd7eGHofDMjjzTasFv9zNyg2EA1dudIdbs=";
     };
     name = "keyword-o-mat";
     license = "MIT";
@@ -6747,10 +6747,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.3.0";
+    version = "5.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.0/file/cweijan.vscode-mysql-client2-5.3.0.vsix";
-      sha256 = "sha256-fpNfO26T6VALin05nlDaJSyA3oeYySwcBuKaZzKUve8=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.1/file/cweijan.vscode-mysql-client2-5.3.1.vsix";
+      sha256 = "sha256-z270yLItjgqGEuuGV2oh8dAPypUIXnhmPRf9i8G984s=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
