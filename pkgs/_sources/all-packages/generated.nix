@@ -410,11 +410,11 @@
   };
   ibus-bamboo = {
     pname = "ibus-bamboo";
-    version = "e6eb470935c5ade6e4b48dd0b678cee32497798e";
+    version = "3380c09d5812cec18ff7ed80e7e6d69d6afd3ab2";
     src = fetchFromGitHub ({
       owner = "BambooEngine";
       repo = "ibus-bamboo";
-      rev = "e6eb470935c5ade6e4b48dd0b678cee32497798e";
+      rev = "3380c09d5812cec18ff7ed80e7e6d69d6afd3ab2";
       fetchSubmodules = false;
       sha256 = "sha256-IkmNNYyV3eRAqTdh19d1hgNWtENmlMD5qYAGs34T3ZU=";
     });
