@@ -33599,6 +33599,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "betterthantomorrow-paste-replaced": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "betterthantomorrow-paste-replaced",
+    "version": "1.1.1",
+    "passthru": {
+      "name": "paste-replaced",
+      "license": "MIT",
+      "publisher": "betterthantomorrow",
+      "description": "Paste text replaced using regular expressions that you configure, anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.1/file/betterthantomorrow.paste-replaced-1.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Sgluqq7J5ZHb2XDl/Z63sACdXeLRQR1fMenLz73X+tM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "streetsidesoftware-code-spell-checker-greek": {
     "pinned": false,
     "cargoLock": null,

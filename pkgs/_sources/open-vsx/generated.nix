@@ -5557,6 +5557,18 @@
     publisher = "betterthantomorrow";
     description = "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter.";
   };
+  betterthantomorrow-paste-replaced = {
+    pname = "betterthantomorrow-paste-replaced";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.1/file/betterthantomorrow.paste-replaced-1.1.1.vsix";
+      sha256 = "sha256-Sgluqq7J5ZHb2XDl/Z63sACdXeLRQR1fMenLz73X+tM=";
+    };
+    name = "paste-replaced";
+    license = "MIT";
+    publisher = "betterthantomorrow";
+    description = "Paste text replaced using regular expressions that you configure, anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases.";
+  };
   biao1010-ai-js = {
     pname = "biao1010-ai-js";
     version = "0.0.1";
