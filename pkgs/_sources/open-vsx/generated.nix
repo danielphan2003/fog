@@ -3963,10 +3963,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "4.0.3";
+    version = "4.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/4.0.3/file/a5hk.night-coder-4.0.3.vsix";
-      sha256 = "sha256-w595zXUQyrc2BzxMUGpuO8NZTiRThoszr9XIZTgAvWY=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/4.1.1/file/a5hk.night-coder-4.1.1.vsix";
+      sha256 = "sha256-psoTbxvj4DDoy97zB7452DuPf2GJAZrDt6mpdWysWF8=";
     };
     name = "night-coder";
     license = "MIT";

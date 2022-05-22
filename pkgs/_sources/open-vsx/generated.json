@@ -19143,7 +19143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "a5hk-night-coder",
-    "version": "4.0.3",
+    "version": "4.1.1",
     "passthru": {
       "name": "night-coder",
       "license": "MIT",
@@ -19151,10 +19151,10 @@
       "description": "A dark theme for Night Coders"
     },
     "src": {
-      "url": "https://open-vsx.org/api/a5hk/night-coder/4.0.3/file/a5hk.night-coder-4.0.3.vsix",
+      "url": "https://open-vsx.org/api/a5hk/night-coder/4.1.1/file/a5hk.night-coder-4.1.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w595zXUQyrc2BzxMUGpuO8NZTiRThoszr9XIZTgAvWY="
+      "sha256": "sha256-psoTbxvj4DDoy97zB7452DuPf2GJAZrDt6mpdWysWF8="
     },
     "extract": null,
     "rustGitDeps": null
