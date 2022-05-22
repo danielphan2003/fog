@@ -6923,7 +6923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "phil294-coffeesense",
-    "version": "1.10.2",
+    "version": "1.11.0",
     "passthru": {
       "name": "coffeesense",
       "license": "MIT",
@@ -6931,10 +6931,10 @@
       "description": "IntelliSense for CoffeeScript based on its compiled JavaScript output"
     },
     "src": {
-      "url": "https://open-vsx.org/api/phil294/coffeesense/1.10.2/file/phil294.coffeesense-1.10.2.vsix",
+      "url": "https://open-vsx.org/api/phil294/coffeesense/1.11.0/file/phil294.coffeesense-1.11.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BCxv7LDxIHYvbL6kzo31dTlhVPtVQVImlGkp6Fto8cw="
+      "sha256": "sha256-dkgpkGxetRaw9jFkpIekmFVhTsSSwhxv/ArEa7Zg2Qc="
     },
     "extract": null,
     "rustGitDeps": null

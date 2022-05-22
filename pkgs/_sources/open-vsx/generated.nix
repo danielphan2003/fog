@@ -14667,10 +14667,10 @@
   };
   phil294-coffeesense = {
     pname = "phil294-coffeesense";
-    version = "1.10.2";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phil294/coffeesense/1.10.2/file/phil294.coffeesense-1.10.2.vsix";
-      sha256 = "sha256-BCxv7LDxIHYvbL6kzo31dTlhVPtVQVImlGkp6Fto8cw=";
+      url = "https://open-vsx.org/api/phil294/coffeesense/1.11.0/file/phil294.coffeesense-1.11.0.vsix";
+      sha256 = "sha256-dkgpkGxetRaw9jFkpIekmFVhTsSSwhxv/ArEa7Zg2Qc=";
     };
     name = "coffeesense";
     license = "MIT";
