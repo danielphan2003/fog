@@ -1765,6 +1765,30 @@
     publisher = "Josee9988";
     description = "Minifier for JSON, CSS, HTML, XML, TWIG, LESS, SASS, SCSS, JavaScript, JSONC, and JavaScriptReact(testing). Compressor of files and folders. You will love its simplicity!";
   };
+  JulianGmp-context-syntax = {
+    pname = "JulianGmp-context-syntax";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/JulianGmp/context-syntax/1.1.0/file/JulianGmp.context-syntax-1.1.0.vsix";
+      sha256 = "sha256-Mk7KkrBZXi9f8pt9cmo+DtOgPUJfsrjEdN1m/mkDifQ=";
+    };
+    name = "context-syntax";
+    license = "MIT";
+    publisher = "JulianGmp";
+    description = "Syntax Highlighting for the ConTeXt typesetting system.";
+  };
+  JulianGmp-openscad-formatter = {
+    pname = "JulianGmp-openscad-formatter";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.1.1/file/JulianGmp.openscad-formatter-1.1.1.vsix";
+      sha256 = "sha256-tVXfY/bpEr1uMrSbIO56uM2T21BeV5VYBMxSOBy8Jmc=";
+    };
+    name = "openscad-formatter";
+    license = "MIT";
+    publisher = "JulianGmp";
+    description = "Simple formatter for OpenSCAD files using clang-format.";
+  };
   JustBrenny-hero-heroku = {
     pname = "JustBrenny-hero-heroku";
     version = "1.7.2";
@@ -20709,6 +20733,18 @@
       sha256 = "sha256-rA8Yi822+Wg72ZvL0ujvjT7POMQ9Wda1c9eM/WmsT9M=";
     };
     name = "xotm-new-extension";
+    license = "MIT";
+    publisher = "xotm";
+    description = "";
+  };
+  xotm-xotm-new-extension-hello = {
+    pname = "xotm-xotm-new-extension-hello";
+    version = "0.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xotm/xotm-new-extension-hello/0.0.0/file/xotm.xotm-new-extension-hello-0.0.0.vsix";
+      sha256 = "sha256-zfP71DE5iWZYwuEpVldLCYWhZILf7yR/NkcVcHiJdr8=";
+    };
+    name = "xotm-new-extension-hello";
     license = "MIT";
     publisher = "xotm";
     description = "";

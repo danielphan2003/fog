@@ -4039,6 +4039,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "xotm-xotm-new-extension-hello": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "xotm-xotm-new-extension-hello",
+    "version": "0.0.0",
+    "passthru": {
+      "name": "xotm-new-extension-hello",
+      "license": "MIT",
+      "publisher": "xotm",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/xotm/xotm-new-extension-hello/0.0.0/file/xotm.xotm-new-extension-hello-0.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-zfP71DE5iWZYwuEpVldLCYWhZILf7yR/NkcVcHiJdr8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "omBratteng-nftables": {
     "pinned": false,
     "cargoLock": null,
@@ -13815,6 +13835,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-u34XSdGXVRYUuBCliRKS7tktKLwfpU0D+PsyEMqJbAQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "JulianGmp-openscad-formatter": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "JulianGmp-openscad-formatter",
+    "version": "1.1.1",
+    "passthru": {
+      "name": "openscad-formatter",
+      "license": "MIT",
+      "publisher": "JulianGmp",
+      "description": "Simple formatter for OpenSCAD files using clang-format."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.1.1/file/JulianGmp.openscad-formatter-1.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-tVXfY/bpEr1uMrSbIO56uM2T21BeV5VYBMxSOBy8Jmc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34875,6 +34915,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-4qy+2Tg9g0/9D+MNvLSgWUE8sc5itsC/pJ9hcfxyVzQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "JulianGmp-context-syntax": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "JulianGmp-context-syntax",
+    "version": "1.1.0",
+    "passthru": {
+      "name": "context-syntax",
+      "license": "MIT",
+      "publisher": "JulianGmp",
+      "description": "Syntax Highlighting for the ConTeXt typesetting system."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/JulianGmp/context-syntax/1.1.0/file/JulianGmp.context-syntax-1.1.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Mk7KkrBZXi9f8pt9cmo+DtOgPUJfsrjEdN1m/mkDifQ="
     },
     "extract": null,
     "rustGitDeps": null
