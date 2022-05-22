@@ -3303,10 +3303,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.47";
+    version = "3.5.48";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.47/file/TabNine.tabnine-vscode-3.5.47.vsix";
-      sha256 = "sha256-IpEqMmW9tLW8gxx2BJXObT8Ws31aGhtD1kO0+egqz1U=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.48/file/TabNine.tabnine-vscode-3.5.48.vsix";
+      sha256 = "sha256-5dIoPjwQAvxuZtb/x5oZ/frVDYDNdeu3wFHFMlyDut4=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
