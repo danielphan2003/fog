@@ -3135,10 +3135,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.2016";
+    version = "2022.5.2112";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2016/file/Slint.slint-nightly-2022.5.2016.vsix";
-      sha256 = "sha256-HEPYEdVjAAck0wgQ//dqWXpaJArmi7mWfH3N7lSoe7Y=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2112/file/Slint.slint-nightly-2022.5.2112.vsix";
+      sha256 = "sha256-iQRiUOQHi28mSGb+Cwk9GAsVXyZrIdfvP/Dvo+dFUfk=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -12183,10 +12183,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.2.0";
+    version = "4.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.0/file/matepek.vscode-catch2-test-adapter-4.2.0.vsix";
-      sha256 = "sha256-iOyuCez4j3GolCWgJqkVcxzPeH5X0aH3/KyC3aKITW4=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.1/file/matepek.vscode-catch2-test-adapter-4.2.1.vsix";
+      sha256 = "sha256-pz4UL+qXW8eANx/MOSpuQiFaD8hd77wQGyTLW985zho=";
     };
     name = "vscode-catch2-test-adapter";
     license = "MIT";

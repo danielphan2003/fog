@@ -8563,7 +8563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "matepek-vscode-catch2-test-adapter",
-    "version": "4.2.0",
+    "version": "4.2.1",
     "passthru": {
       "name": "vscode-catch2-test-adapter",
       "license": "MIT",
@@ -8571,10 +8571,10 @@
       "description": "Run GoogleTest, Catch2 and DOCtest tests from VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.0/file/matepek.vscode-catch2-test-adapter-4.2.0.vsix",
+      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.1/file/matepek.vscode-catch2-test-adapter-4.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iOyuCez4j3GolCWgJqkVcxzPeH5X0aH3/KyC3aKITW4="
+      "sha256": "sha256-pz4UL+qXW8eANx/MOSpuQiFaD8hd77wQGyTLW985zho="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15823,7 +15823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.2016",
+    "version": "2022.5.2112",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15831,10 +15831,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2016/file/Slint.slint-nightly-2022.5.2016.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2112/file/Slint.slint-nightly-2022.5.2112.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HEPYEdVjAAck0wgQ//dqWXpaJArmi7mWfH3N7lSoe7Y="
+      "sha256": "sha256-iQRiUOQHi28mSGb+Cwk9GAsVXyZrIdfvP/Dvo+dFUfk="
     },
     "extract": null,
     "rustGitDeps": null
