@@ -3327,10 +3327,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.48";
+    version = "3.5.49";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.48/file/TabNine.tabnine-vscode-3.5.48.vsix";
-      sha256 = "sha256-5dIoPjwQAvxuZtb/x5oZ/frVDYDNdeu3wFHFMlyDut4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.49/file/TabNine.tabnine-vscode-3.5.49.vsix";
+      sha256 = "sha256-yMfANWFb149G/ArdMoq6iyxclabcehLcFNEnK+/2yJw=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -5559,10 +5559,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.275";
+    version = "2.0.276";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.275/file/betterthantomorrow.calva-2.0.275.vsix";
-      sha256 = "sha256-jSr5CLlSBnsLeMQpPQCJjuGrf+xnagiTSOTVSBhdKgg=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.276/file/betterthantomorrow.calva-2.0.276.vsix";
+      sha256 = "sha256-ZrWeJmn7PL32PWxY5poycTPh861fpOJ60upeMiRIHkU=";
     };
     name = "calva";
     license = "MIT";
