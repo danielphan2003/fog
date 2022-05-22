@@ -15339,10 +15339,10 @@
   };
   rafaelmardojai-vscode-gnome-theme = {
     pname = "rafaelmardojai-vscode-gnome-theme";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rafaelmardojai/vscode-gnome-theme/0.4.0/file/rafaelmardojai.vscode-gnome-theme-0.4.0.vsix";
-      sha256 = "sha256-TENzaq0vq0vW9trNg5JqwM3LqI7zA7/9GZNDGETab68=";
+      url = "https://open-vsx.org/api/rafaelmardojai/vscode-gnome-theme/0.4.1/file/rafaelmardojai.vscode-gnome-theme-0.4.1.vsix";
+      sha256 = "sha256-tN8JzcA71e9vQe1/QCZsxvwnDJAO9JcFDDv/MgYuIAI=";
     };
     name = "vscode-gnome-theme";
     license = "Unlicense";
@@ -17043,10 +17043,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.87";
+    version = "0.2.89";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.87/file/smapiot.vscode-piral-0.2.87.vsix";
-      sha256 = "sha256-pdIBSJJ4m9CnKdCATFHoPmo/6/glWkMPiI3A0ORULzE=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.89/file/smapiot.vscode-piral-0.2.89.vsix";
+      sha256 = "sha256-r5Yq+4Qzzhb/V6zqVxZUrqV/JgqYHcE/l2ZKZ1PU7K0=";
     };
     name = "vscode-piral";
     license = "MIT";
