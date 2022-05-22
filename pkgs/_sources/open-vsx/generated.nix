@@ -7935,10 +7935,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.1.3";
+    version = "6.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.1.3/file/entan-gl.cc65-vice-6.1.3.vsix";
-      sha256 = "sha256-R7hBdYVL2muhvN9WlHAJizuBVZmBmh6GTu6rffcR6Oo=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.2.0/file/entan-gl.cc65-vice-6.2.0.vsix";
+      sha256 = "sha256-eY8yqV3wSvvQq+UZv+/VQu0MKi78ifgsRzvNYB6wZ3I=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -9351,10 +9351,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.5/file/hall.draw-0.1.5.vsix";
-      sha256 = "sha256-KgTTpmQaPHkoJ9Ut0LbcokS0FTmHxRFAUeLMsuCxnJ4=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.6/file/hall.draw-0.1.6.vsix";
+      sha256 = "sha256-Ci+8+vGRGYh9Cq1BpxLUBnSYAkPa5j7OvtXYtbfY5jI=";
     };
     name = "draw";
     license = "Apache-2.0";
@@ -14979,10 +14979,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.333";
+    version = "0.25.334";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.333/file/pokey.cursorless-0.25.333.vsix";
-      sha256 = "sha256-fD+Jer7a5c0Vg5tsNW+7lWnjhMvb8xbJVSOMIgutCcA=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.334/file/pokey.cursorless-0.25.334.vsix";
+      sha256 = "sha256-qKu4O9AWecKS6GcWBYmRvOmGGBCOx4t2Jo61V0MQcjo=";
     };
     name = "cursorless";
     license = "MIT";
@@ -15339,10 +15339,10 @@
   };
   rafaelmardojai-vscode-gnome-theme = {
     pname = "rafaelmardojai-vscode-gnome-theme";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rafaelmardojai/vscode-gnome-theme/0.3.0/file/rafaelmardojai.vscode-gnome-theme-0.3.0.vsix";
-      sha256 = "sha256-HHFowyTK/YsJeB0LE6X2PuLKG90xnPC8XfO7n4oA12A=";
+      url = "https://open-vsx.org/api/rafaelmardojai/vscode-gnome-theme/0.4.0/file/rafaelmardojai.vscode-gnome-theme-0.4.0.vsix";
+      sha256 = "sha256-TENzaq0vq0vW9trNg5JqwM3LqI7zA7/9GZNDGETab68=";
     };
     name = "vscode-gnome-theme";
     license = "Unlicense";
@@ -17043,10 +17043,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.86";
+    version = "0.2.87";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.86/file/smapiot.vscode-piral-0.2.86.vsix";
-      sha256 = "sha256-KsYdqlRiXBNwIN6YApw1SX+wn/mAtZeMk/pg5Vz47JY=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.87/file/smapiot.vscode-piral-0.2.87.vsix";
+      sha256 = "sha256-pdIBSJJ4m9CnKdCATFHoPmo/6/glWkMPiI3A0ORULzE=";
     };
     name = "vscode-piral";
     license = "MIT";
