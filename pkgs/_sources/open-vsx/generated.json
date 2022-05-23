@@ -12043,7 +12043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.89",
+    "version": "0.2.90",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -12051,10 +12051,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.89/file/smapiot.vscode-piral-0.2.89.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.90/file/smapiot.vscode-piral-0.2.90.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-r5Yq+4Qzzhb/V6zqVxZUrqV/JgqYHcE/l2ZKZ1PU7K0="
+      "sha256": "sha256-4dQXbQIfV1p4NcA7RdAEk6XXphcxV0D0+DzJqOL0obg="
     },
     "extract": null,
     "rustGitDeps": null
