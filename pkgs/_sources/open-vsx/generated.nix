@@ -4431,10 +4431,10 @@
   };
   alphabotsec-vscode-eclipse-keybindings = {
     pname = "alphabotsec-vscode-eclipse-keybindings";
-    version = "0.16.0";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.0/file/alphabotsec.vscode-eclipse-keybindings-0.16.0.vsix";
-      sha256 = "sha256-HNADmJi7XWG4E3OosDY36tSXxk8/7dkKha1AO7ziegQ=";
+      url = "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.1/file/alphabotsec.vscode-eclipse-keybindings-0.16.1.vsix";
+      sha256 = "sha256-VK4OS7fvpJsHracfHdC7blvh6qV0IJse4vdRud/yT/o=";
     };
     name = "vscode-eclipse-keybindings";
     license = "MIT";

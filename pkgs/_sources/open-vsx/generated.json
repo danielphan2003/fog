@@ -7603,7 +7603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alphabotsec-vscode-eclipse-keybindings",
-    "version": "0.16.0",
+    "version": "0.16.1",
     "passthru": {
       "name": "vscode-eclipse-keybindings",
       "license": "MIT",
@@ -7611,10 +7611,10 @@
       "description": "Eclipse keybindings for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.0/file/alphabotsec.vscode-eclipse-keybindings-0.16.0.vsix",
+      "url": "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.1/file/alphabotsec.vscode-eclipse-keybindings-0.16.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HNADmJi7XWG4E3OosDY36tSXxk8/7dkKha1AO7ziegQ="
+      "sha256": "sha256-VK4OS7fvpJsHracfHdC7blvh6qV0IJse4vdRud/yT/o="
     },
     "extract": null,
     "rustGitDeps": null
