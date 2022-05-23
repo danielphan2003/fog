@@ -5983,7 +5983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.57",
+    "version": "0.0.58",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -5991,10 +5991,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.57/file/zardoy.zardoy-experiments-0.0.57.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.58/file/zardoy.zardoy-experiments-0.0.58.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-U7Y3PUTdpQlh2pSFiGBzUX9U/NwvzIVEm9sgSuWJUqM="
+      "sha256": "sha256-8ZqfNM6vI6VioeJqeqc0EkK/Db4YpcCgm84o2K4Y/2E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34143,7 +34143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XOJ-Team-xoj-playground",
-    "version": "1.1.1",
+    "version": "1.1.6",
     "passthru": {
       "name": "xoj-playground",
       "license": "AGPL-3.0",
@@ -34151,10 +34151,10 @@
       "description": "A playground extension for XOJ Web IDE and desktop VSC"
     },
     "src": {
-      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.1/file/XOJ-Team.xoj-playground-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.6/file/XOJ-Team.xoj-playground-1.1.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-btiZeRiqCaxWvjO8ZVus7TvEXDb+zb1lhs/wBxBIxHw="
+      "sha256": "sha256-CE0wg4ZPn2kX6sCw0hlbZjwBQidWaBuuApL6GRpfXyk="
     },
     "extract": null,
     "rustGitDeps": null
