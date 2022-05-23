@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6196";
+    version = "1.0.6197";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6196.tar.bz2";
-      sha256 = "sha256-OtS2fQrGekAmRzS6pmEFtBQIts/XcdT5QhwpO70EIEQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6197.tar.bz2";
+      sha256 = "sha256-MiSfS/Mb4tD+Ki8GS5smjfnczxT8p5J3NWKXkBeMlps=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6196";
+    version = "1.0.6197";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6196-1_all.deb";
-      sha256 = "sha256-jzfE5t5csFNOb3ms7YUUHUxjcYIX6Tn8XIjW4BLejks=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6197-1_all.deb";
+      sha256 = "sha256-NPbSzkMJlKV7NnAYAZKajQdaKCK00AgZd9kS0KPFMBs=";
     };
   };
   jitsi-videobridge2 = {
@@ -1278,10 +1278,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.10.4.2845";
+    version = "5.10.6.3192";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.10.4.2845/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-9gspydrGaEjzAM0nK1u0XNm07HTupJ2wnPxCFWy+Nts=";
+      url = "https://cdn.zoom.us/prod/5.10.6.3192/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-8QIkF5+875VFoGK6T0CROsqML6bJDG934c1gkuz8Klk=";
     };
   };
 }
