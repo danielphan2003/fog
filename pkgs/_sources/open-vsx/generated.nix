@@ -1779,10 +1779,10 @@
   };
   JulianGmp-openscad-formatter = {
     pname = "JulianGmp-openscad-formatter";
-    version = "1.1.1";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.1.1/file/JulianGmp.openscad-formatter-1.1.1.vsix";
-      sha256 = "sha256-tVXfY/bpEr1uMrSbIO56uM2T21BeV5VYBMxSOBy8Jmc=";
+      url = "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.2.0/file/JulianGmp.openscad-formatter-1.2.0.vsix";
+      sha256 = "sha256-dvHA9W1tF5CNvMlC/qbzOFU2TBx7WgwqPVG3FuhA7+s=";
     };
     name = "openscad-formatter";
     license = "MIT";
@@ -2799,10 +2799,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.972";
+    version = "31.0.973";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.972/file/Prisma.prisma-insider-31.0.972.vsix";
-      sha256 = "sha256-jOu+GXRo6/OpXsyMMVh+YippIkfoHzcn3c1vEihTc4k=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.973/file/Prisma.prisma-insider-31.0.973.vsix";
+      sha256 = "sha256-C6LR5yZJql3rZX+jAB8NF6u/r3npMR19YOrnVJCJAjs=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3816,6 +3816,18 @@
     license = "MIT";
     publisher = "Zignd";
     description = "CSS class name completion for the HTML class attribute based on the definitions found in your workspace.";
+  };
+  ZixuanWang-linkerscript = {
+    pname = "ZixuanWang-linkerscript";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ZixuanWang/linkerscript/1.0.2/file/ZixuanWang.linkerscript-1.0.2.vsix";
+      sha256 = "sha256-MbKoMqbC+En9LIpuPi20df/MWNrUxbcO4VpV6Tv1D+c=";
+    };
+    name = "linkerscript";
+    license = "MIT";
+    publisher = "ZixuanWang";
+    description = "Language support for GNU linker script";
   };
   Zorvalt-puke-debug = {
     pname = "Zorvalt-puke-debug";
@@ -6783,10 +6795,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.3.1";
+    version = "5.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.1/file/cweijan.vscode-mysql-client2-5.3.1.vsix";
-      sha256 = "sha256-z270yLItjgqGEuuGV2oh8dAPypUIXnhmPRf9i8G984s=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.3/file/cweijan.vscode-mysql-client2-5.3.3.vsix";
+      sha256 = "sha256-bs6FRlOevgTgt5ZumXSlgoVE86nWHj46hUfPeS20LyY=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
