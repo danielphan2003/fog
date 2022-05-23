@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.95.4",
+    "version": "0.95.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.95.4/file/dendron.nightly-0.95.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.95.5/file/dendron.nightly-0.95.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NBzW6VZ95e5tunzuHcbBuxgGdyvcyQdwChJAInVUHUQ="
+      "sha256": "sha256-mSl92u8EFs6WPj9pevt+3OGjNjTMhCGcc9OnoKcG4BI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33643,7 +33643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-paste-replaced",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "passthru": {
       "name": "paste-replaced",
       "license": "MIT",
@@ -33651,10 +33651,10 @@
       "description": "Paste text replaced using regular expressions that you configure, anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.1/file/betterthantomorrow.paste-replaced-1.1.1.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.2/file/betterthantomorrow.paste-replaced-1.1.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Sgluqq7J5ZHb2XDl/Z63sACdXeLRQR1fMenLz73X+tM="
+      "sha256": "sha256-0QaqIluN8IKWUJ6nl3ncEhRE7Z1YWVR+jLIyzesrLaI="
     },
     "extract": null,
     "rustGitDeps": null
