@@ -315,10 +315,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.1.0/file/BroadcomMFD.explorer-for-endevor-1.1.0.vsix";
-      sha256 = "sha256-Tplq9yhjp9i/UzaQSz+v242Vb+G8b4S3CdXAMJVZUBM=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.1.1/file/BroadcomMFD.explorer-for-endevor-1.1.1.vsix";
+      sha256 = "sha256-B57+ocBLYBeF/muCIye6HOFLkSOtc+VBP+nckBNyEKs=";
     };
     name = "explorer-for-endevor";
     license = "EPL-2.0";
@@ -9351,10 +9351,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.7";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.7/file/hall.draw-0.1.7.vsix";
-      sha256 = "sha256-5ya4EeXHstvjTqclQMRC1B3jp5K72ngXQcBLz6RWXSs=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.8/file/hall.draw-0.1.8.vsix";
+      sha256 = "sha256-uVEakvpmYVhAtUxekl5ybKSsB1k5pTHFxkCta+sFV+4=";
     };
     name = "draw";
     license = "Apache-2.0";
