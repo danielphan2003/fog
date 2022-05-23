@@ -3699,10 +3699,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "1.1.1";
+    version = "1.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.1/file/XOJ-Team.xoj-playground-1.1.1.vsix";
-      sha256 = "sha256-btiZeRiqCaxWvjO8ZVus7TvEXDb+zb1lhs/wBxBIxHw=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.6/file/XOJ-Team.xoj-playground-1.1.6.vsix";
+      sha256 = "sha256-CE0wg4ZPn2kX6sCw0hlbZjwBQidWaBuuApL6GRpfXyk=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -21099,10 +21099,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.57";
+    version = "0.0.58";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.57/file/zardoy.zardoy-experiments-0.0.57.vsix";
-      sha256 = "sha256-U7Y3PUTdpQlh2pSFiGBzUX9U/NwvzIVEm9sgSuWJUqM=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.58/file/zardoy.zardoy-experiments-0.0.58.vsix";
+      sha256 = "sha256-8ZqfNM6vI6VioeJqeqc0EkK/Db4YpcCgm84o2K4Y/2E=";
     };
     name = "zardoy-experiments";
     license = "MIT";
