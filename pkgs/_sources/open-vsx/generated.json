@@ -6843,7 +6843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "meteor-toolbox-meteor-toolbox",
-    "version": "1.1.2",
+    "version": "1.1.4",
     "passthru": {
       "name": "meteor-toolbox",
       "license": "MIT",
@@ -6851,10 +6851,10 @@
       "description": "Easily set up your Meteor environment (intelisense, run options and many other things)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.2/file/meteor-toolbox.meteor-toolbox-1.1.2.vsix",
+      "url": "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.4/file/meteor-toolbox.meteor-toolbox-1.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fkMdUrZGtmKhaV54XiJoVj84mVANKDu5bAyII+q4oNc="
+      "sha256": "sha256-u2diFRFtKYmACuwpXh0xS72OjqdmnGNeTnarPAhouhg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8583,7 +8583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "matepek-vscode-catch2-test-adapter",
-    "version": "4.2.1",
+    "version": "4.2.2",
     "passthru": {
       "name": "vscode-catch2-test-adapter",
       "license": "MIT",
@@ -8591,10 +8591,10 @@
       "description": "Run GoogleTest, Catch2 and DOCtest tests from VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.1/file/matepek.vscode-catch2-test-adapter-4.2.1.vsix",
+      "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.2/file/matepek.vscode-catch2-test-adapter-4.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pz4UL+qXW8eANx/MOSpuQiFaD8hd77wQGyTLW985zho="
+      "sha256": "sha256-pdwDTy929liXVykX7UOleMqIT6hVLogk7PD7xDxBS2U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15863,7 +15863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.2112",
+    "version": "2022.5.2211",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15871,10 +15871,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2112/file/Slint.slint-nightly-2022.5.2112.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2211/file/Slint.slint-nightly-2022.5.2211.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iQRiUOQHi28mSGb+Cwk9GAsVXyZrIdfvP/Dvo+dFUfk="
+      "sha256": "sha256-ZdcFZwA3FqzMlJdLYVyCqzVrCmVVpRqflVRakdsspt0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24023,7 +24023,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscode-icons-team-vscode-icons",
-    "version": "11.11.0",
+    "version": "11.12.0",
     "passthru": {
       "name": "vscode-icons",
       "license": "MIT",
@@ -24031,10 +24031,10 @@
       "description": "Icons for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.11.0/file/vscode-icons-team.vscode-icons-11.11.0.vsix",
+      "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.12.0/file/vscode-icons-team.vscode-icons-11.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1GGFXKnDh2oVWW8eKLBOzRohLRHj+Ut1mCG8py61yLw="
+      "sha256": "sha256-7ktT8KtzmEIDe/w/msJf3brNgwoHnFpHNtooKPu1gvI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30343,7 +30343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-kubernetes-tools-vscode-kubernetes-tools",
-    "version": "1.3.8",
+    "version": "1.3.9",
     "passthru": {
       "name": "vscode-kubernetes-tools",
       "license": "MIT",
@@ -30351,10 +30351,10 @@
       "description": "Develop, deploy and debug Kubernetes applications"
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.8/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.8.vsix",
+      "url": "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.9/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.9.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zH7d4dv1h6iMQzzQZcOLraATEZtz2z8G2SNPhp/JZ7Y="
+      "sha256": "sha256-wcnVaJmRDLtTWaSujzBkOOCTwEM+6bENLNx4pM6Qbfo="
     },
     "extract": null,
     "rustGitDeps": null

@@ -3159,10 +3159,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.2112";
+    version = "2022.5.2211";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2112/file/Slint.slint-nightly-2022.5.2112.vsix";
-      sha256 = "sha256-iQRiUOQHi28mSGb+Cwk9GAsVXyZrIdfvP/Dvo+dFUfk=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2211/file/Slint.slint-nightly-2022.5.2211.vsix";
+      sha256 = "sha256-ZdcFZwA3FqzMlJdLYVyCqzVrCmVVpRqflVRakdsspt0=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -12207,10 +12207,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.2.1";
+    version = "4.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.1/file/matepek.vscode-catch2-test-adapter-4.2.1.vsix";
-      sha256 = "sha256-pz4UL+qXW8eANx/MOSpuQiFaD8hd77wQGyTLW985zho=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.2/file/matepek.vscode-catch2-test-adapter-4.2.2.vsix";
+      sha256 = "sha256-pdwDTy929liXVykX7UOleMqIT6hVLogk7PD7xDxBS2U=";
     };
     name = "vscode-catch2-test-adapter";
     license = "MIT";
@@ -12591,10 +12591,10 @@
   };
   meteor-toolbox-meteor-toolbox = {
     pname = "meteor-toolbox-meteor-toolbox";
-    version = "1.1.2";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.2/file/meteor-toolbox.meteor-toolbox-1.1.2.vsix";
-      sha256 = "sha256-fkMdUrZGtmKhaV54XiJoVj84mVANKDu5bAyII+q4oNc=";
+      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.4/file/meteor-toolbox.meteor-toolbox-1.1.4.vsix";
+      sha256 = "sha256-u2diFRFtKYmACuwpXh0xS72OjqdmnGNeTnarPAhouhg=";
     };
     name = "meteor-toolbox";
     license = "MIT";
@@ -13023,10 +13023,10 @@
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
-    version = "1.3.8";
+    version = "1.3.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.8/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.8.vsix";
-      sha256 = "sha256-zH7d4dv1h6iMQzzQZcOLraATEZtz2z8G2SNPhp/JZ7Y=";
+      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.9/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.9.vsix";
+      sha256 = "sha256-wcnVaJmRDLtTWaSujzBkOOCTwEM+6bENLNx4pM6Qbfo=";
     };
     name = "vscode-kubernetes-tools";
     license = "MIT";
@@ -19467,10 +19467,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.11.0";
+    version = "11.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.11.0/file/vscode-icons-team.vscode-icons-11.11.0.vsix";
-      sha256 = "sha256-1GGFXKnDh2oVWW8eKLBOzRohLRHj+Ut1mCG8py61yLw=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.12.0/file/vscode-icons-team.vscode-icons-11.12.0.vsix";
+      sha256 = "sha256-7ktT8KtzmEIDe/w/msJf3brNgwoHnFpHNtooKPu1gvI=";
     };
     name = "vscode-icons";
     license = "MIT";
