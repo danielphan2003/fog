@@ -7947,10 +7947,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.2.0";
+    version = "6.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.2.0/file/entan-gl.cc65-vice-6.2.0.vsix";
-      sha256 = "sha256-eY8yqV3wSvvQq+UZv+/VQu0MKi78ifgsRzvNYB6wZ3I=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.2.1/file/entan-gl.cc65-vice-6.2.1.vsix";
+      sha256 = "sha256-zekcsOFzPvEkB5rRogeqY0Wqzf7EeqdBlXf2w9ix6pM=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -15279,10 +15279,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.4.1";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.4.1/file/quick-lint.quick-lint-js-2.4.1.vsix";
-      sha256 = "sha256-Tam5GIqjWU7XReEi9SjhmpEqCO91fQrjj6uqs34NP7g=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.5.0/file/quick-lint.quick-lint-js-2.5.0.vsix";
+      sha256 = "sha256-6qT4Ry9DBNUMO1ceNWQ9j2KAjh1o9McNiyUQkeOck1A=";
     };
     name = "quick-lint-js";
     license = "GPL-3.0";
