@@ -2799,10 +2799,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.971";
+    version = "31.0.972";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.971/file/Prisma.prisma-insider-31.0.971.vsix";
-      sha256 = "sha256-83EQG+aDfckCTKVlqdscUEJCm+6iCloZI/MKU/pRER8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.972/file/Prisma.prisma-insider-31.0.972.vsix";
+      sha256 = "sha256-jOu+GXRo6/OpXsyMMVh+YippIkfoHzcn3c1vEihTc4k=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3363,10 +3363,10 @@
   };
   TeamHub-teamhub = {
     pname = "TeamHub-teamhub";
-    version = "15.0.6";
+    version = "15.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.6/file/TeamHub.teamhub-15.0.6.vsix";
-      sha256 = "sha256-9nN7sd1MZJvePymN55bbHxbx4a/z5xWuZeHEnXlVRgo=";
+      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.7/file/TeamHub.teamhub-15.0.7.vsix";
+      sha256 = "sha256-iHZmMJyEIB7aoLRvKA8tD60cDqrOnbNdHoCBrM7rCU8=";
     };
     name = "teamhub";
     license = "";
@@ -14139,10 +14139,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.10.3";
+    version = "1.10.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.3/file/ocamllabs.ocaml-platform-1.10.3.vsix";
-      sha256 = "sha256-oHiQJ6hcH40KKNj2DsHcxPi+01xZM+zHdn8vH1NK2s0=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.4/file/ocamllabs.ocaml-platform-1.10.4.vsix";
+      sha256 = "sha256-Nbl9x41Ufaqfyi+Cykc78VFBtd3zrlAuGbYBjofCePU=";
     };
     name = "ocaml-platform";
     license = "MIT";
