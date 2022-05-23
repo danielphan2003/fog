@@ -243,10 +243,10 @@
   };
   BroadcomMFD-bridge-for-git-explorer = {
     pname = "BroadcomMFD-bridge-for-git-explorer";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.4/file/BroadcomMFD.bridge-for-git-explorer-0.2.4.vsix";
-      sha256 = "sha256-9p4lQirlOq238AEE8wCF+JQij79dKH2NQDhK0qnmQPI=";
+      url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.5/file/BroadcomMFD.bridge-for-git-explorer-0.2.5.vsix";
+      sha256 = "sha256-CrqniDUyCnZUtjSmqpY9ZSsInq6LUCZ/NogL1Bb5Sr0=";
     };
     name = "bridge-for-git-explorer";
     license = "";

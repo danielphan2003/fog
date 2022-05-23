@@ -34743,7 +34743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "BroadcomMFD-bridge-for-git-explorer",
-    "version": "0.2.4",
+    "version": "0.2.5",
     "passthru": {
       "name": "bridge-for-git-explorer",
       "license": "",
@@ -34751,10 +34751,10 @@
       "description": "Add elements from up the Endevor map to your synchronized Git-Endevor repository."
     },
     "src": {
-      "url": "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.4/file/BroadcomMFD.bridge-for-git-explorer-0.2.4.vsix",
+      "url": "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.5/file/BroadcomMFD.bridge-for-git-explorer-0.2.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9p4lQirlOq238AEE8wCF+JQij79dKH2NQDhK0qnmQPI="
+      "sha256": "sha256-CrqniDUyCnZUtjSmqpY9ZSsInq6LUCZ/NogL1Bb5Sr0="
     },
     "extract": null,
     "rustGitDeps": null
