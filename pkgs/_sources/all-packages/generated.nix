@@ -902,14 +902,14 @@
   };
   snui = {
     pname = "snui";
-    version = "8f6fe4980f70686f61be904c4501187de67366ff";
+    version = "3ba7228ca8904f9467bbe80d4d45571359bd1b3d";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "8f6fe4980f70686f61be904c4501187de67366ff";
+      rev = "3ba7228ca8904f9467bbe80d4d45571359bd1b3d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-F7NIaeRUdnNEBS3tMwoaXxk2cTGoydyMcWKeR2lGojQ=";
+      sha256 = "sha256-Z6QQobez577we5a5GGlsa3Y1BTb7oxnBwGAfwJ3pKLI=";
     };
   };
   spicetify-cli = {
@@ -1046,13 +1046,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "4d4f6071f30d0ae3e93e0f35d4f1392d7e96298d";
+    version = "7dc7d79e6ced5b4d6ce1267c6f70ef4b8918092f";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "4d4f6071f30d0ae3e93e0f35d4f1392d7e96298d";
+      rev = "7dc7d79e6ced5b4d6ce1267c6f70ef4b8918092f";
       fetchSubmodules = false;
-      sha256 = "sha256-pASsN3F3KO9hBPGAmV1JGgcIW8fCftFQDBO5KVSnuxY=";
+      sha256 = "sha256-T99DoLJVvhT3WWJQCfzfueTvL/PN01+1NRzrNNpmP6Y=";
     });
   };
   ultimmc = {
