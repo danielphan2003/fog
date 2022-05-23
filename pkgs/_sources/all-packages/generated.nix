@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6198";
+    version = "1.0.6199";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6198.tar.bz2";
-      sha256 = "sha256-M1FBH1wDg0vsiBuETgSZtN3mkY9pcU50rhjn78jkG5Q=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6199.tar.bz2";
+      sha256 = "sha256-IJhpw9ex+s6FSne/bHnJDDq0EPPSeXu8psgDPDFQ2GY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6198";
+    version = "1.0.6199";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6198-1_all.deb";
-      sha256 = "sha256-D9hz09hu/n0k4h58OrE0WogN34w7Gwej06Cvw5QPDis=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6199-1_all.deb";
+      sha256 = "sha256-JlZFc3pZi41n7XnBkabP5D5gC/dhJnGPDMlGnlCiSdo=";
     };
   };
   jitsi-videobridge2 = {
@@ -1079,20 +1079,18 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "1.24.0";
+    version = "1.25.0";
     src = fetchFromGitHub ({
       owner = "dani-garcia";
       repo = "vaultwarden";
-      rev = "1.24.0";
+      rev = "1.25.0";
       fetchSubmodules = false;
-      sha256 = "sha256-zeMVdsTSp1z8cwebU2N6w7436N8CcI7PzNedDOSvEx4=";
+      sha256 = "sha256-s7ouCEwpI61lpxBHtzFFy7PmFGrnGSi25K75rRnox6M=";
     });
     cargoLock = {
-      lockFile = ./vaultwarden-1.24.0/Cargo.lock;
+      lockFile = ./vaultwarden-1.25.0/Cargo.lock;
       outputHashes = {
-        "rocket-0.5.0-dev" = "sha256-sZL6GtLrfDy0ePix2UxZTdpFQvvc0G/Q+7qbCLGknqY=";
-        "job_scheduler-1.2.1" = "sha256-b0jIKAHVrQNdZdlq+5kfGAOsi8bHu20QDtQaWTuJYtU=";
-        "devise-0.3.0" = "sha256-crnEOKK7FiuIs55mOKgNfb3mNzr3QLI0icPPuG+xKVI=";
+        "job_scheduler-1.2.1" = "sha256-v3Q3e6rAOmEm81pd6GkapbWoUP/Q4KCM75TEEAoEcUs=";
       };
     };
   };
