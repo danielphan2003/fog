@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "4d4f6071f30d0ae3e93e0f35d4f1392d7e96298d",
+    "version": "7dc7d79e6ced5b4d6ce1267c6f70ef4b8918092f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-pASsN3F3KO9hBPGAmV1JGgcIW8fCftFQDBO5KVSnuxY=",
-      "rev": "4d4f6071f30d0ae3e93e0f35d4f1392d7e96298d"
+      "sha256": "sha256-T99DoLJVvhT3WWJQCfzfueTvL/PN01+1NRzrNNpmP6Y=",
+      "rev": "7dc7d79e6ced5b4d6ce1267c6f70ef4b8918092f"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1028,7 +1028,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "snui",
-    "version": "8f6fe4980f70686f61be904c4501187de67366ff",
+    "version": "3ba7228ca8904f9467bbe80d4d45571359bd1b3d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1037,8 +1037,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-F7NIaeRUdnNEBS3tMwoaXxk2cTGoydyMcWKeR2lGojQ=",
-      "rev": "8f6fe4980f70686f61be904c4501187de67366ff"
+      "sha256": "sha256-Z6QQobez577we5a5GGlsa3Y1BTb7oxnBwGAfwJ3pKLI=",
+      "rev": "3ba7228ca8904f9467bbe80d4d45571359bd1b3d"
     },
     "extract": null,
     "rustGitDeps": null
