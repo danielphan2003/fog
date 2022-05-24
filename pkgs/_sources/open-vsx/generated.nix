@@ -7299,10 +7299,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.95.5";
+    version = "0.95.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.95.5/file/dendron.nightly-0.95.5.vsix";
-      sha256 = "sha256-mSl92u8EFs6WPj9pevt+3OGjNjTMhCGcc9OnoKcG4BI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.95.6/file/dendron.nightly-0.95.6.vsix";
+      sha256 = "sha256-wV18yki019ms3OJWOksNpXL8cLe0XhENHwwkSxpo+tI=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -17079,10 +17079,10 @@
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
-    version = "0.2.90";
+    version = "0.2.91";
     src = fetchurl {
-      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.90/file/smapiot.vscode-piral-0.2.90.vsix";
-      sha256 = "sha256-4dQXbQIfV1p4NcA7RdAEk6XXphcxV0D0+DzJqOL0obg=";
+      url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.91/file/smapiot.vscode-piral-0.2.91.vsix";
+      sha256 = "sha256-tQ4F0qQBavZVPCOxVzVefH9KSxfS2eWUbqAq/Zp6hWY=";
     };
     name = "vscode-piral";
     license = "MIT";

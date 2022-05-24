@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.95.5",
+    "version": "0.95.6",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.95.5/file/dendron.nightly-0.95.5.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.95.6/file/dendron.nightly-0.95.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mSl92u8EFs6WPj9pevt+3OGjNjTMhCGcc9OnoKcG4BI="
+      "sha256": "sha256-wV18yki019ms3OJWOksNpXL8cLe0XhENHwwkSxpo+tI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12083,7 +12083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "smapiot-vscode-piral",
-    "version": "0.2.90",
+    "version": "0.2.91",
     "passthru": {
       "name": "vscode-piral",
       "license": "MIT",
@@ -12091,10 +12091,10 @@
       "description": "Makes it easy to create, manage, and debug microfrontends using Pirals."
     },
     "src": {
-      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.90/file/smapiot.vscode-piral-0.2.90.vsix",
+      "url": "https://open-vsx.org/api/smapiot/vscode-piral/0.2.91/file/smapiot.vscode-piral-0.2.91.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4dQXbQIfV1p4NcA7RdAEk6XXphcxV0D0+DzJqOL0obg="
+      "sha256": "sha256-tQ4F0qQBavZVPCOxVzVefH9KSxfS2eWUbqAq/Zp6hWY="
     },
     "extract": null,
     "rustGitDeps": null
