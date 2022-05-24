@@ -3183,15 +3183,15 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.4.0";
+    version = "3.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.4.0/file/SonarSource.sonarlint-vscode-3.4.0.vsix";
-      sha256 = "sha256-+YKLlqBPQyOHSJjztNgeIJbM11cgTst8lr4w9f17W/g=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.3/file/SonarSource.sonarlint-vscode-3.5.3.vsix";
+      sha256 = "sha256-nd4NYjkNDCOeXZ2myLJ8gY2l0m4bKAenMe3kpR4pnyA=";
     };
     name = "sonarlint-vscode";
     license = "LGPL-3.0";
     publisher = "SonarSource";
-    description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in JavaScript, TypeScript, Python, Java, HTML and PHP.";
+    description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.";
   };
   SonatypeCommunity-vscode-iq-plugin = {
     pname = "SonatypeCommunity-vscode-iq-plugin";
