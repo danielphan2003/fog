@@ -655,9 +655,9 @@
   },
   "supergfxctl": {
     "pinned": false,
-    "cargoLock": "./supergfxctl-7eabe91507764927768d2f48bac78b03fa8c77a9/Cargo.lock",
+    "cargoLock": "./supergfxctl-dd3a59677658e2356b1d15e51becaafe998820d9/Cargo.lock",
     "name": "supergfxctl",
-    "version": "7eabe91507764927768d2f48bac78b03fa8c77a9",
+    "version": "dd3a59677658e2356b1d15e51becaafe998820d9",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -666,8 +666,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-EqwUsSk/Rq60q3wWzR3ONNlfisdURHVqFHNiXAJ2yi0=",
-      "rev": "7eabe91507764927768d2f48bac78b03fa8c77a9"
+      "sha256": "sha256-KElTMo7Tc+tRGl5wpdeCh7Oj1qrMMLWcof0CUq9YZMQ=",
+      "rev": "dd3a59677658e2356b1d15e51becaafe998820d9"
     },
     "extract": null,
     "rustGitDeps": {}
