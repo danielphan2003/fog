@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f522c597efb3ef3efc01fd6fba9a2b4ef4cadbcc";
+    version = "d8d8a29fc2a6e134c15dac64a919991b535acca4";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "f522c597efb3ef3efc01fd6fba9a2b4ef4cadbcc";
+      rev = "d8d8a29fc2a6e134c15dac64a919991b535acca4";
       fetchSubmodules = false;
-      sha256 = "sha256-2L8fuk66D5FzIP2RglpX+u5Y45zyoNP0/vV//KIfKTg=";
+      sha256 = "sha256-yR76NDy/ucxHXVEcELjn19eb1TIjXrrHxQd8W2ne4eg=";
     });
   };
   ibus = {
@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-883";
+    version = "1.0-884";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-883-1_all.deb";
-      sha256 = "sha256-CV19lboWOSQIlR0scRIc3d6ukcz+yQ7SLd44qiQMtlo=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-884-1_all.deb";
+      sha256 = "sha256-4tYp+ePIEyWxnwrLlji0Q+i1SoA1tprg6k0IE7kexHc=";
     };
   };
   jitsi-meet = {
