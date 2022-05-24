@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-884";
+    version = "1.0-885";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-884-1_all.deb";
-      sha256 = "sha256-4tYp+ePIEyWxnwrLlji0Q+i1SoA1tprg6k0IE7kexHc=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-885-1_all.deb";
+      sha256 = "sha256-6ncJlCKHszpdV7xXUHcJE6R08G62EYnAE0nH1kFVDIQ=";
     };
   };
   jitsi-meet = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-688-gde6d7437";
+    version = "2.1-689-g59f13a20";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-688-gde6d7437-1_all.deb";
-      sha256 = "sha256-xYaXmdxlqJ4VRV5NlRjamWbFKjAkvEmGZslLgKcnGd4=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-689-g59f13a20-1_all.deb";
+      sha256 = "sha256-bt/GXr4PauC/fOm08drJhNtoK1iIQEYfyz2BXJB6dEs=";
     };
   };
   layout-machi = {
@@ -685,22 +685,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.43.1";
+    version = "1.44.1";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.43.1.tar.gz";
-      sha256 = "sha256-80YzAryzGTyy2GTbfYaLBlRWEnJX+/ECjTNz2vv01uU=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.44.1.tar.gz";
+      sha256 = "sha256-8MMKI0XbbURsPF2eQ0M9QiXcdRF9urfqFZCsgoB77kM=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "741be5f521b7f58f41e8b46f7d44c778248c40f5";
+    version = "03303ef7bccdae052b38b688608d1ce2e8fbe850";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "741be5f521b7f58f41e8b46f7d44c778248c40f5";
+      rev = "03303ef7bccdae052b38b688608d1ce2e8fbe850";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-RHyk+WZiVGNEQdISmTalianJVrf6aFusXaHKkZCr2S8=";
+      sha256 = "sha256-LuMuarOeRuspdrRv0p95mNVDePjfeG31oAzC4yy6FZ4=";
     };
   };
   pure = {
