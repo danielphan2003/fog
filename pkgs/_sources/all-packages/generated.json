@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "fdb14fd698aa437cbf23626c9241252e29452230",
+    "version": "ae35dc9eb54faa52a514de2d675cd74ab4399b29",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-sXL+dZoT4lG1BLSXvjkPp6MuH5xMfoxbngxiRtr+bdQ=",
-      "rev": "fdb14fd698aa437cbf23626c9241252e29452230"
+      "sha256": "sha256-WMl/BSJnGQis2z8tYYJp8j1CZ5QeKDibZpWbkQ0F7Ic=",
+      "rev": "ae35dc9eb54faa52a514de2d675cd74ab4399b29"
     },
     "extract": null,
     "rustGitDeps": null
@@ -537,13 +537,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "microsoft-edge-dev",
-    "version": "103.0.1255.0",
+    "version": "103.0.1264.2",
     "passthru": null,
     "src": {
-      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1255.0-1_amd64.deb",
+      "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1264.2-1_amd64.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WMxnwtwHDxfJAKM/GLHKBGEEtXUQls93lY5TJdXAJ5Y="
+      "sha256": "sha256-0KAvfbv6sFSNPwQKJopoVSFRBxKzLj6LiXy3glkW5DI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "ad7e66adaabb14b3c9e5287c95bcff6cbc1472a1",
+    "version": "0ad33742e14f73bb46acf9bad97fe963d495e025",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-SdO9gUsBhnAC6Fi4ZtP6LGQqKeAUb/FRuyV4lEoZLBo=",
-      "rev": "ad7e66adaabb14b3c9e5287c95bcff6cbc1472a1"
+      "sha256": "sha256-fG7d6Am1u8TylikKdABSgzmzZM5AU9Qs2Est0jDRs+M=",
+      "rev": "0ad33742e14f73bb46acf9bad97fe963d495e025"
     },
     "extract": null,
     "rustGitDeps": null
