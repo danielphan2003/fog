@@ -1681,6 +1681,18 @@
     publisher = "Jaakko";
     description = "Color theme with black background.";
   };
+  JackMacWindows-craftos-pc = {
+    pname = "JackMacWindows-craftos-pc";
+    version = "1.1.8";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/JackMacWindows/craftos-pc/1.1.8/file/JackMacWindows.craftos-pc-1.1.8.vsix";
+      sha256 = "sha256-f7f14jKfJPCPXKForKvs6Pu5rzsARGiSTNWAY1DCyyk=";
+    };
+    name = "craftos-pc";
+    license = "MIT";
+    publisher = "JackMacWindows";
+    description = "Adds the ability to open CraftOS-PC windows inside VS Code, as well as some ease-of-use functionality to make ComputerCraft programming easier.";
+  };
   JacquesLucke-gcov-viewer = {
     pname = "JacquesLucke-gcov-viewer";
     version = "0.4.0";
@@ -1983,10 +1995,10 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.9";
+    version = "2.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.9/file/LuqueDaniel.languague-renpy-2.0.9.vsix";
-      sha256 = "sha256-/bViW6sviZIz/OPxSbiHn18LO7W6sQ14ilRAXoWivos=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.10/file/LuqueDaniel.languague-renpy-2.0.10.vsix";
+      sha256 = "sha256-U7F6CTXfbLA/rOiAGsSRaWDB8xkXno4qg3GKbT/OlTA=";
     };
     name = "languague-renpy";
     license = "MIT";
@@ -5751,10 +5763,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.1";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.1/file/bmcsoftware.jobs-as-code-0.2.1.vsix";
-      sha256 = "sha256-Wy/qRhH56xopeT+9PbHXlSeyLzl9vEaS3/CtDzC4OsA=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix";
+      sha256 = "sha256-1M2L+SoKAi9zd4K451584QmLxpbxGIJ+Rk6gZQJ+Ih8=";
     };
     name = "jobs-as-code";
     license = "BSD-3-Clause";

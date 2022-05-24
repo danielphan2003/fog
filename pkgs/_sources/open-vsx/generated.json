@@ -6743,7 +6743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmcsoftware-jobs-as-code",
-    "version": "0.2.1",
+    "version": "0.2.3",
     "passthru": {
       "name": "jobs-as-code",
       "license": "BSD-3-Clause",
@@ -6751,10 +6751,10 @@
       "description": "All snippets and tools you need for Control-M Workflow development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.1/file/bmcsoftware.jobs-as-code-0.2.1.vsix",
+      "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Wy/qRhH56xopeT+9PbHXlSeyLzl9vEaS3/CtDzC4OsA="
+      "sha256": "sha256-1M2L+SoKAi9zd4K451584QmLxpbxGIJ+Rk6gZQJ+Ih8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19103,7 +19103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "LuqueDaniel-languague-renpy",
-    "version": "2.0.9",
+    "version": "2.0.10",
     "passthru": {
       "name": "languague-renpy",
       "license": "MIT",
@@ -19111,10 +19111,10 @@
       "description": "Adds rich support for the Ren'Py programming language to Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.9/file/LuqueDaniel.languague-renpy-2.0.9.vsix",
+      "url": "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.10/file/LuqueDaniel.languague-renpy-2.0.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/bViW6sviZIz/OPxSbiHn18LO7W6sQ14ilRAXoWivos="
+      "sha256": "sha256-U7F6CTXfbLA/rOiAGsSRaWDB8xkXno4qg3GKbT/OlTA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31815,6 +31815,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-uYuSy2/hhr9diuCQPQ0XWsBTLb+tEqUEXE9zoRdGnRQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "JackMacWindows-craftos-pc": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "JackMacWindows-craftos-pc",
+    "version": "1.1.8",
+    "passthru": {
+      "name": "craftos-pc",
+      "license": "MIT",
+      "publisher": "JackMacWindows",
+      "description": "Adds the ability to open CraftOS-PC windows inside VS Code, as well as some ease-of-use functionality to make ComputerCraft programming easier."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/JackMacWindows/craftos-pc/1.1.8/file/JackMacWindows.craftos-pc-1.1.8.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-f7f14jKfJPCPXKForKvs6Pu5rzsARGiSTNWAY1DCyyk="
     },
     "extract": null,
     "rustGitDeps": null
