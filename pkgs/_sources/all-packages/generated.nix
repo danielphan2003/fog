@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d8d8a29fc2a6e134c15dac64a919991b535acca4";
+    version = "ad7e66adaabb14b3c9e5287c95bcff6cbc1472a1";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d8d8a29fc2a6e134c15dac64a919991b535acca4";
+      rev = "ad7e66adaabb14b3c9e5287c95bcff6cbc1472a1";
       fetchSubmodules = false;
-      sha256 = "sha256-yR76NDy/ucxHXVEcELjn19eb1TIjXrrHxQd8W2ne4eg=";
+      sha256 = "sha256-SdO9gUsBhnAC6Fi4ZtP6LGQqKeAUb/FRuyV4lEoZLBo=";
     });
   };
   ibus = {
@@ -437,26 +437,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6201";
+    version = "1.0.6202";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6201.tar.bz2";
-      sha256 = "sha256-t36zHDE+Qbdh1mQSlabfbg6G+KaC7fGwmi03VoIS5bE=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6202.tar.bz2";
+      sha256 = "sha256-ppAqsbxcJ8zlNKCjlzhiAsO8cqjvMo0VzhNMWuUShTY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6201";
+    version = "1.0.6202";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6201-1_all.deb";
-      sha256 = "sha256-0ubWwP5erEFzJ/BkBuk1PvHr/k86QQWJPxIENYQJeuw=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6202-1_all.deb";
+      sha256 = "sha256-SIpFoS03sCVzFCbUxznZEC5iwl6gsE0+Z+JCNKGAEVk=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-687-g5f1ae39b";
+    version = "2.1-688-gde6d7437";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-687-g5f1ae39b-1_all.deb";
-      sha256 = "sha256-O1k/iTmWP2uuLjkMX2SmqEmxg5qLf7RhHB1CtEkjfOg=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-688-gde6d7437-1_all.deb";
+      sha256 = "sha256-xYaXmdxlqJ4VRV5NlRjamWbFKjAkvEmGZslLgKcnGd4=";
     };
   };
   layout-machi = {
