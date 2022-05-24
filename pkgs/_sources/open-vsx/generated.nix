@@ -4045,6 +4045,18 @@
     publisher = "a5huynh";
     description = "Rusty Object Notation (RON) syntax package";
   };
+  a7ul-vscode-bigtable = {
+    pname = "a7ul-vscode-bigtable";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/a7ul/vscode-bigtable/1.1.0/file/a7ul.vscode-bigtable-1.1.0.vsix";
+      sha256 = "sha256-qwdVfrzk1PsrvXgVrNsrljS3Zt+mjlzIPTfuXvqoOIE=";
+    };
+    name = "vscode-bigtable";
+    license = "MIT";
+    publisher = "a7ul";
+    description = "A VSCode extension for Google Bigtable";
+  };
   aaron-bond-better-comments = {
     pname = "aaron-bond-better-comments";
     version = "3.0.0";
@@ -21099,10 +21111,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.4/file/zardoy.ts-essential-plugins-0.0.4.vsix";
-      sha256 = "sha256-7SV/dfSTzq13gaUlMpEm4hy+gGMdL/9yO6g4o2ork/E=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.5/file/zardoy.ts-essential-plugins-0.0.5.vsix";
+      sha256 = "sha256-DQrew6JN9h+2ClGX/CoLm66CxfOaHSywG8E0YlTJqiM=";
     };
     name = "ts-essential-plugins";
     license = "MIT";
@@ -21123,10 +21135,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.13/file/zardoy.vetur-extended-0.0.13.vsix";
-      sha256 = "sha256-ffkeaghy0KarE7jWtHSCBbUalZ1YaOnlC+tlbOVhcTk=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.14/file/zardoy.vetur-extended-0.0.14.vsix";
+      sha256 = "sha256-dXo665vPfpcTj4WMQJBDpmvdRbvgZts7e/ds21FXWWg=";
     };
     name = "vetur-extended";
     license = "MIT";
