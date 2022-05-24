@@ -13163,7 +13163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Leathong-openscad-language-support",
-    "version": "1.1.3",
+    "version": "1.1.4",
     "passthru": {
       "name": "openscad-language-support",
       "license": "GPL-3.0",
@@ -13171,10 +13171,10 @@
       "description": "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.3/file/Leathong.openscad-language-support-1.1.3.vsix",
+      "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.4/file/Leathong.openscad-language-support-1.1.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-/kkO4zYo/7cmgA0N7tm6Vzj8hYX7uKa8cmh7keJFjOE="
+      "sha256": "sha256-CQpy2tNhFq091zCBzu7t246MFGNvfJMPo3XKwg5fH30="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24723,7 +24723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.95.1",
+    "version": "0.96.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -24731,10 +24731,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.95.1/file/dendron.dendron-0.95.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.96.0/file/dendron.dendron-0.96.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IfcsDNkL+zzXzOTP+VgWg60aUIvqMYJvUcqbps/nTkQ="
+      "sha256": "sha256-FcVegFt2C7CtFRvVGMBIg5OjNpo94fRcHz9UJvfaG8k="
     },
     "extract": null,
     "rustGitDeps": null

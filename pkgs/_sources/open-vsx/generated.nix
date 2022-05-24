@@ -1923,10 +1923,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.3";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.3/file/Leathong.openscad-language-support-1.1.3.vsix";
-      sha256 = "sha256-/kkO4zYo/7cmgA0N7tm6Vzj8hYX7uKa8cmh7keJFjOE=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.4/file/Leathong.openscad-language-support-1.1.4.vsix";
+      sha256 = "sha256-CQpy2tNhFq091zCBzu7t246MFGNvfJMPo3XKwg5fH30=";
     };
     name = "openscad-language-support";
     license = "GPL-3.0";
@@ -7215,10 +7215,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.95.1";
+    version = "0.96.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.95.1/file/dendron.dendron-0.95.1.vsix";
-      sha256 = "sha256-IfcsDNkL+zzXzOTP+VgWg60aUIvqMYJvUcqbps/nTkQ=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.96.0/file/dendron.dendron-0.96.0.vsix";
+      sha256 = "sha256-FcVegFt2C7CtFRvVGMBIg5OjNpo94fRcHz9UJvfaG8k=";
     };
     name = "dendron";
     license = "AGPL-3.0";
