@@ -1863,15 +1863,15 @@
   };
   KevinRose-vsc-python-indent = {
     pname = "KevinRose-vsc-python-indent";
-    version = "1.15.0";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.15.0/file/KevinRose.vsc-python-indent-1.15.0.vsix";
-      sha256 = "sha256-pyh69hlhLF/Y5hOcJOAkDsLjZhMv2f4mYG1L+Cr9bQA=";
+      url = "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.16.0/file/KevinRose.vsc-python-indent-1.16.0.vsix";
+      sha256 = "sha256-mQWiu0e7IqNZagrgFazNdXn+x/7FzzPDVoLo9zIJcJo=";
     };
     name = "vsc-python-indent";
     license = "MIT";
     publisher = "KevinRose";
-    description = "Correct python indentation.";
+    description = "Correct Python indentation";
   };
   KnisterPeter-vscode-github = {
     pname = "KnisterPeter-vscode-github";
@@ -3159,10 +3159,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.2211";
+    version = "2022.5.2316";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2211/file/Slint.slint-nightly-2022.5.2211.vsix";
-      sha256 = "sha256-ZdcFZwA3FqzMlJdLYVyCqzVrCmVVpRqflVRakdsspt0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2316/file/Slint.slint-nightly-2022.5.2316.vsix";
+      sha256 = "sha256-XB3JIu/s5W/anqS/46pJqU2wjFTqWAAP13VvPHkh0Z0=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -8103,10 +8103,10 @@
   };
   evaera-vscode-rojo = {
     pname = "evaera-vscode-rojo";
-    version = "1.13.3";
+    version = "1.13.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evaera/vscode-rojo/1.13.3/file/evaera.vscode-rojo-1.13.3.vsix";
-      sha256 = "sha256-epFsD0gDhSiX+8McI9HNYwF3DC+nUokG81tjrsDr7ks=";
+      url = "https://open-vsx.org/api/evaera/vscode-rojo/1.13.4/file/evaera.vscode-rojo-1.13.4.vsix";
+      sha256 = "sha256-FBNbhK6R4v2JS5O3/PMNnHFExCYFZCQ2sgtLyoVVISo=";
     };
     name = "vscode-rojo";
     license = "";
@@ -10419,10 +10419,10 @@
   };
   janisdd-vscode-edit-csv = {
     pname = "janisdd-vscode-edit-csv";
-    version = "0.6.9";
+    version = "0.6.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.9/file/janisdd.vscode-edit-csv-0.6.9.vsix";
-      sha256 = "sha256-1GKZR3qY35ossFyx4x+XX5Kkjk9ZoSlksOCRt/ebeJs=";
+      url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.10/file/janisdd.vscode-edit-csv-0.6.10.vsix";
+      sha256 = "sha256-WSLfIRMbZAhjivGuV+tcaFZ87Sq475JoD/Nof7bT7Gk=";
     };
     name = "vscode-edit-csv";
     license = "MIT";
@@ -12063,10 +12063,10 @@
   };
   mads-hartmann-bash-ide-vscode = {
     pname = "mads-hartmann-bash-ide-vscode";
-    version = "1.13.0";
+    version = "1.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.13.0/file/mads-hartmann.bash-ide-vscode-1.13.0.vsix";
-      sha256 = "sha256-jQ0rPPeF/dY4hHyPCJc6AE6ErQPGbxTqnSK9u4MLHrY=";
+      url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.14.0/file/mads-hartmann.bash-ide-vscode-1.14.0.vsix";
+      sha256 = "sha256-dts6E4u56nYGqeAat0fnJV0/AhPg7H2XNBk8X5t7SeI=";
     };
     name = "bash-ide-vscode";
     license = "MIT";

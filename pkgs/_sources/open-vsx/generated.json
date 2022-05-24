@@ -3483,18 +3483,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "KevinRose-vsc-python-indent",
-    "version": "1.15.0",
+    "version": "1.16.0",
     "passthru": {
       "name": "vsc-python-indent",
       "license": "MIT",
       "publisher": "KevinRose",
-      "description": "Correct python indentation."
+      "description": "Correct Python indentation"
     },
     "src": {
-      "url": "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.15.0/file/KevinRose.vsc-python-indent-1.15.0.vsix",
+      "url": "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.16.0/file/KevinRose.vsc-python-indent-1.16.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pyh69hlhLF/Y5hOcJOAkDsLjZhMv2f4mYG1L+Cr9bQA="
+      "sha256": "sha256-mQWiu0e7IqNZagrgFazNdXn+x/7FzzPDVoLo9zIJcJo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9903,7 +9903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "mads-hartmann-bash-ide-vscode",
-    "version": "1.13.0",
+    "version": "1.14.0",
     "passthru": {
       "name": "bash-ide-vscode",
       "license": "MIT",
@@ -9911,10 +9911,10 @@
       "description": "A language server for Bash"
     },
     "src": {
-      "url": "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.13.0/file/mads-hartmann.bash-ide-vscode-1.13.0.vsix",
+      "url": "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.14.0/file/mads-hartmann.bash-ide-vscode-1.14.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-jQ0rPPeF/dY4hHyPCJc6AE6ErQPGbxTqnSK9u4MLHrY="
+      "sha256": "sha256-dts6E4u56nYGqeAat0fnJV0/AhPg7H2XNBk8X5t7SeI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10703,7 +10703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "janisdd-vscode-edit-csv",
-    "version": "0.6.9",
+    "version": "0.6.10",
     "passthru": {
       "name": "vscode-edit-csv",
       "license": "MIT",
@@ -10711,10 +10711,10 @@
       "description": "extension to edit csv files with a table ui"
     },
     "src": {
-      "url": "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.9/file/janisdd.vscode-edit-csv-0.6.9.vsix",
+      "url": "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.10/file/janisdd.vscode-edit-csv-0.6.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1GKZR3qY35ossFyx4x+XX5Kkjk9ZoSlksOCRt/ebeJs="
+      "sha256": "sha256-WSLfIRMbZAhjivGuV+tcaFZ87Sq475JoD/Nof7bT7Gk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -15883,7 +15883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.2211",
+    "version": "2022.5.2316",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15891,10 +15891,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2211/file/Slint.slint-nightly-2022.5.2211.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2316/file/Slint.slint-nightly-2022.5.2316.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZdcFZwA3FqzMlJdLYVyCqzVrCmVVpRqflVRakdsspt0="
+      "sha256": "sha256-XB3JIu/s5W/anqS/46pJqU2wjFTqWAAP13VvPHkh0Z0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17503,7 +17503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "evaera-vscode-rojo",
-    "version": "1.13.3",
+    "version": "1.13.4",
     "passthru": {
       "name": "vscode-rojo",
       "license": "",
@@ -17511,10 +17511,10 @@
       "description": "Build robust Roblox games using Rojo directly from VS Code to sync your scripts into Roblox Studio."
     },
     "src": {
-      "url": "https://open-vsx.org/api/evaera/vscode-rojo/1.13.3/file/evaera.vscode-rojo-1.13.3.vsix",
+      "url": "https://open-vsx.org/api/evaera/vscode-rojo/1.13.4/file/evaera.vscode-rojo-1.13.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-epFsD0gDhSiX+8McI9HNYwF3DC+nUokG81tjrsDr7ks="
+      "sha256": "sha256-FBNbhK6R4v2JS5O3/PMNnHFExCYFZCQ2sgtLyoVVISo="
     },
     "extract": null,
     "rustGitDeps": null
