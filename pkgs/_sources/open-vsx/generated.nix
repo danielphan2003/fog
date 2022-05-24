@@ -5739,10 +5739,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.1.6";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.1.6/file/bmcsoftware.jobs-as-code-0.1.6.vsix";
-      sha256 = "sha256-Orxaw0ZRTLokzjpnxf0npKo2/Fc0bkq00aI2K6ZdaAI=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.1/file/bmcsoftware.jobs-as-code-0.2.1.vsix";
+      sha256 = "sha256-Wy/qRhH56xopeT+9PbHXlSeyLzl9vEaS3/CtDzC4OsA=";
     };
     name = "jobs-as-code";
     license = "BSD-3-Clause";
@@ -9732,6 +9732,18 @@
     license = "MIT";
     publisher = "huntertran";
     description = "Markdown TOC (Table Of Contents) Plugin for Visual Studio Code.";
+  };
+  hush-vscode-hush = {
+    pname = "hush-vscode-hush";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hush-vscode/hush/0.0.1/file/hush-vscode.hush-0.0.1.vsix";
+      sha256 = "sha256-TVL3hxxiSGmeq2KC8p+MYejsw7zeaG1lIfO8MEdaAWM=";
+    };
+    name = "hush";
+    license = "MIT";
+    publisher = "hush-vscode";
+    description = "Hush syntax highlighting";
   };
   huytd-espresso-tutti = {
     pname = "huytd-espresso-tutti";
@@ -15255,10 +15267,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.21.0";
+    version = "1.22.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.21.0/file/quarto.quarto-1.21.0.vsix";
-      sha256 = "sha256-ZXkk0ex/rJDEzr7DCzL4j/CZHOKYuHfe8gvM6lkSJ4o=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.22.0/file/quarto.quarto-1.22.0.vsix";
+      sha256 = "sha256-+62Mx7GAocWZXukabhEkVcz8Eqx7yvy8bScJiqoQ1JI=";
     };
     name = "quarto";
     license = "MIT";

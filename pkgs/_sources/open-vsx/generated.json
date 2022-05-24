@@ -6723,7 +6723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bmcsoftware-jobs-as-code",
-    "version": "0.1.6",
+    "version": "0.2.1",
     "passthru": {
       "name": "jobs-as-code",
       "license": "BSD-3-Clause",
@@ -6731,10 +6731,10 @@
       "description": "All snippets and tools you need for Control-M Workflow development"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.1.6/file/bmcsoftware.jobs-as-code-0.1.6.vsix",
+      "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.1/file/bmcsoftware.jobs-as-code-0.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Orxaw0ZRTLokzjpnxf0npKo2/Fc0bkq00aI2K6ZdaAI="
+      "sha256": "sha256-Wy/qRhH56xopeT+9PbHXlSeyLzl9vEaS3/CtDzC4OsA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7763,7 +7763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.21.0",
+    "version": "1.22.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7771,10 +7771,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.21.0/file/quarto.quarto-1.21.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.22.0/file/quarto.quarto-1.22.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZXkk0ex/rJDEzr7DCzL4j/CZHOKYuHfe8gvM6lkSJ4o="
+      "sha256": "sha256-+62Mx7GAocWZXukabhEkVcz8Eqx7yvy8bScJiqoQ1JI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28095,6 +28095,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-UTFeBqdprCXxlY9HRozyXe+BiH1Uv3q4+8wgA6RAiv8="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "hush-vscode-hush": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "hush-vscode-hush",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "hush",
+      "license": "MIT",
+      "publisher": "hush-vscode",
+      "description": "Hush syntax highlighting"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/hush-vscode/hush/0.0.1/file/hush-vscode.hush-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-TVL3hxxiSGmeq2KC8p+MYejsw7zeaG1lIfO8MEdaAWM="
     },
     "extract": null,
     "rustGitDeps": null
