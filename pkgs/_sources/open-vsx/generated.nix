@@ -5473,6 +5473,18 @@
     publisher = "basdp";
     description = "GNU Assembler x86/x86_64 language support";
   };
+  base9-theme-base9-vscode = {
+    pname = "base9-theme-base9-vscode";
+    version = "0.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.5/file/base9-theme.base9-vscode-0.0.5.vsix";
+      sha256 = "sha256-Wq+GroEd97iDsTYowB0qsgVSMmq+N90n7oLZQFor/1Q=";
+    };
+    name = "base9-vscode";
+    license = "MIT";
+    publisher = "base9-theme";
+    description = "";
+  };
   batisteo-vscode-django = {
     pname = "batisteo-vscode-django";
     version = "1.8.0";
@@ -15003,10 +15015,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.334";
+    version = "0.25.335";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.334/file/pokey.cursorless-0.25.334.vsix";
-      sha256 = "sha256-qKu4O9AWecKS6GcWBYmRvOmGGBCOx4t2Jo61V0MQcjo=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.335/file/pokey.cursorless-0.25.335.vsix";
+      sha256 = "sha256-rnBaGkqihjinEqN80tKadswc6frcptqCnPqK+iyLUT0=";
     };
     name = "cursorless";
     license = "MIT";

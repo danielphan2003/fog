@@ -2399,6 +2399,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "base9-theme-base9-vscode": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "base9-theme-base9-vscode",
+    "version": "0.0.5",
+    "passthru": {
+      "name": "base9-vscode",
+      "license": "MIT",
+      "publisher": "base9-theme",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.5/file/base9-theme.base9-vscode-0.0.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-Wq+GroEd97iDsTYowB0qsgVSMmq+N90n7oLZQFor/1Q="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "deerawan-vscode-faker": {
     "pinned": false,
     "cargoLock": null,
@@ -13703,7 +13723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.334",
+    "version": "0.25.335",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13711,10 +13731,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.334/file/pokey.cursorless-0.25.334.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.335/file/pokey.cursorless-0.25.335.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qKu4O9AWecKS6GcWBYmRvOmGGBCOx4t2Jo61V0MQcjo="
+      "sha256": "sha256-rnBaGkqihjinEqN80tKadswc6frcptqCnPqK+iyLUT0="
     },
     "extract": null,
     "rustGitDeps": null
