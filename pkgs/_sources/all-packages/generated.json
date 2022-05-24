@@ -38,7 +38,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pmbootstrap-test",
-    "version": "8c7e99acd942bcda8563cad4eac03961a322a3da",
+    "version": "741be5f521b7f58f41e8b46f7d44c778248c40f5",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -47,8 +47,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-dS4cbF628RnxaNvLLsMSuC5wOm5ccTg72IjiTfSU7zQ=",
-      "rev": "8c7e99acd942bcda8563cad4eac03961a322a3da"
+      "sha256": "sha256-RHyk+WZiVGNEQdISmTalianJVrf6aFusXaHKkZCr2S8=",
+      "rev": "741be5f521b7f58f41e8b46f7d44c778248c40f5"
     },
     "extract": null,
     "rustGitDeps": null
@@ -207,7 +207,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ulauncher",
-    "version": "7dc7d79e6ced5b4d6ce1267c6f70ef4b8918092f",
+    "version": "4bcaccde88d35fcc2dc2aeb8e4067c3aec164430",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -217,8 +217,8 @@
       "name": null,
       "repo": "Ulauncher",
       "type": "github",
-      "sha256": "sha256-T99DoLJVvhT3WWJQCfzfueTvL/PN01+1NRzrNNpmP6Y=",
-      "rev": "7dc7d79e6ced5b4d6ce1267c6f70ef4b8918092f"
+      "sha256": "sha256-WuYGwR5KKdWEOtIWZVNMgWrBKDQJnJ4ksCxhnRxYSMo=",
+      "rev": "4bcaccde88d35fcc2dc2aeb8e4067c3aec164430"
     },
     "extract": null,
     "rustGitDeps": null
