@@ -24803,7 +24803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "redhat-ansible",
-    "version": "0.9.0",
+    "version": "0.10.0",
     "passthru": {
       "name": "ansible",
       "license": "MIT",
@@ -24811,10 +24811,10 @@
       "description": "Ansible language support"
     },
     "src": {
-      "url": "https://open-vsx.org/api/redhat/ansible/0.9.0/file/redhat.ansible-0.9.0.vsix",
+      "url": "https://open-vsx.org/api/redhat/ansible/0.10.0/file/redhat.ansible-0.10.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4Szun7kam8v/eANBMPyfyeIbZAL1f7MgpMPwk6k8tz0="
+      "sha256": "sha256-cXDr0vNDjn3HZdKdFhE0yXo8dLS78LIqhZ5tY//2EDo="
     },
     "extract": null,
     "rustGitDeps": null
