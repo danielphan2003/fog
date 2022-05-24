@@ -12283,7 +12283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "genuitecllc-codetogether",
-    "version": "2022.1.5",
+    "version": "2022.1.6",
     "passthru": {
       "name": "codetogether",
       "license": "",
@@ -12291,10 +12291,10 @@
       "description": "Add CodeTogether to VS Code to live share your IDE and coding sessions. Cross-IDE support for VS Code, IntelliJ and Eclipse. Free plan always available!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.5/file/genuitecllc.codetogether-2022.1.5.vsix",
+      "url": "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.6/file/genuitecllc.codetogether-2022.1.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-c3NsHYHzTCSUwmXhfQH3xLYDs5e1CcE3+s/Fi2T5L/U="
+      "sha256": "sha256-lNfRBm7kSFJf7Mo2U0nirR2HIK+zys2SzHGT5JsqmaA="
     },
     "extract": null,
     "rustGitDeps": null

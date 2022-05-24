@@ -8919,10 +8919,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.5";
+    version = "2022.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.5/file/genuitecllc.codetogether-2022.1.5.vsix";
-      sha256 = "sha256-c3NsHYHzTCSUwmXhfQH3xLYDs5e1CcE3+s/Fi2T5L/U=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.6/file/genuitecllc.codetogether-2022.1.6.vsix";
+      sha256 = "sha256-lNfRBm7kSFJf7Mo2U0nirR2HIK+zys2SzHGT5JsqmaA=";
     };
     name = "codetogether";
     license = "";
