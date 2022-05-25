@@ -20809,6 +20809,18 @@
     publisher = "xotm";
     description = "";
   };
+  xotm-theia-hello-world-extension-xotm = {
+    pname = "xotm-theia-hello-world-extension-xotm";
+    version = "0.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.0/file/xotm.theia-hello-world-extension-xotm-0.0.0.vsix";
+      sha256 = "sha256-7y2wKzuDQbzoKd6l7+/TmQnWvaDYkpTdHouShpWL9u4=";
+    };
+    name = "theia-hello-world-extension-xotm";
+    license = "MIT";
+    publisher = "xotm";
+    description = "";
+  };
   xotm-xotm-new-extension = {
     pname = "xotm-xotm-new-extension";
     version = "0.0.1";

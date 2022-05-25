@@ -24099,6 +24099,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "xotm-theia-hello-world-extension-xotm": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "xotm-theia-hello-world-extension-xotm",
+    "version": "0.0.0",
+    "passthru": {
+      "name": "theia-hello-world-extension-xotm",
+      "license": "MIT",
+      "publisher": "xotm",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.0/file/xotm.theia-hello-world-extension-xotm-0.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-7y2wKzuDQbzoKd6l7+/TmQnWvaDYkpTdHouShpWL9u4="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "vscode-icons-team-vscode-icons": {
     "pinned": false,
     "cargoLock": null,
