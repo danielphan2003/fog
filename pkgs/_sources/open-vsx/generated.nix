@@ -10383,10 +10383,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.2.18";
+    version = "0.2.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.2.18/file/iterative.dvc-0.2.18.vsix";
-      sha256 = "sha256-xMTfi2RU7LB1SgIz5dOf7sLb/m2WWX291YifjPc4f9g=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.2.19/file/iterative.dvc-0.2.19.vsix";
+      sha256 = "sha256-PfD+1YkxOh3OHurBjT6iLjAAk7nUTnqCW+NvrXS0SE8=";
     };
     name = "dvc";
     license = "Apache-2.0";
