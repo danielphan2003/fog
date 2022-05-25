@@ -6051,10 +6051,10 @@
   };
   butchland-vscode-dbt-bigquery-power-user = {
     pname = "butchland-vscode-dbt-bigquery-power-user";
-    version = "0.5.22";
+    version = "0.5.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.22/file/butchland.vscode-dbt-bigquery-power-user-0.5.22.vsix";
-      sha256 = "sha256-f46ncdqfHhuKV/PceLvtIvm8IsHDdxZZnt+r7C5DIvE=";
+      url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.23/file/butchland.vscode-dbt-bigquery-power-user-0.5.23.vsix";
+      sha256 = "sha256-KOiCkZ4xoaoD5CYoQKniu01WPPzkJ3DEVp/2uEB4X2M=";
     };
     name = "vscode-dbt-bigquery-power-user";
     license = "MIT";
@@ -11124,6 +11124,18 @@
     license = "MIT";
     publisher = "kaiwood";
     description = "Wisely add \"end\" in Ruby.";
+  };
+  kamadorueda-alejandra = {
+    pname = "kamadorueda-alejandra";
+    version = "1.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kamadorueda/alejandra/1.4.0/file/kamadorueda.alejandra-1.4.0.vsix";
+      sha256 = "sha256-aIEJiqRZA1W9iSGVsI3fhSpMpXAoFkFCsQTyNqRmmic=";
+    };
+    name = "alejandra";
+    license = "Unlicense";
+    publisher = "kamadorueda";
+    description = "The Uncompromising Nix Code Formatter";
   };
   kamikillerto-vscode-colorize = {
     pname = "kamikillerto-vscode-colorize";

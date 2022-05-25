@@ -25199,6 +25199,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "kamadorueda-alejandra": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "kamadorueda-alejandra",
+    "version": "1.4.0",
+    "passthru": {
+      "name": "alejandra",
+      "license": "Unlicense",
+      "publisher": "kamadorueda",
+      "description": "The Uncompromising Nix Code Formatter"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/kamadorueda/alejandra/1.4.0/file/kamadorueda.alejandra-1.4.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-aIEJiqRZA1W9iSGVsI3fhSpMpXAoFkFCsQTyNqRmmic="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "appliedengdesign-vscode-gcode-syntax": {
     "pinned": false,
     "cargoLock": null,
@@ -28103,7 +28123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "butchland-vscode-dbt-bigquery-power-user",
-    "version": "0.5.22",
+    "version": "0.5.23",
     "passthru": {
       "name": "vscode-dbt-bigquery-power-user",
       "license": "MIT",
@@ -28111,10 +28131,10 @@
       "description": "This extension makes vscode seamlessly work with dbt and BigQuery"
     },
     "src": {
-      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.22/file/butchland.vscode-dbt-bigquery-power-user-0.5.22.vsix",
+      "url": "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.23/file/butchland.vscode-dbt-bigquery-power-user-0.5.23.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f46ncdqfHhuKV/PceLvtIvm8IsHDdxZZnt+r7C5DIvE="
+      "sha256": "sha256-KOiCkZ4xoaoD5CYoQKniu01WPPzkJ3DEVp/2uEB4X2M="
     },
     "extract": null,
     "rustGitDeps": null
