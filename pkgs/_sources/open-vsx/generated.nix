@@ -1179,10 +1179,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.44.1";
+    version = "3.44.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.1/file/GitLab.gitlab-workflow-3.44.1.vsix";
-      sha256 = "sha256-Aqi09igiHxQbz0AyrPla5O/18jY3yo4ODZqeLBmqA7U=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.2/file/GitLab.gitlab-workflow-3.44.2.vsix";
+      sha256 = "sha256-S2PI+r4LrHA7tW2EMfcAkP5jUnd0mCEV72oTXMa9Xkc=";
     };
     name = "gitlab-workflow";
     license = "MIT";
@@ -15063,10 +15063,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.335";
+    version = "0.25.336";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.335/file/pokey.cursorless-0.25.335.vsix";
-      sha256 = "sha256-rnBaGkqihjinEqN80tKadswc6frcptqCnPqK+iyLUT0=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.336/file/pokey.cursorless-0.25.336.vsix";
+      sha256 = "sha256-C9pTwHd3mWlfzFPmqIeGT1AOJ7o2+MX48CkRjZ6uomw=";
     };
     name = "cursorless";
     license = "MIT";

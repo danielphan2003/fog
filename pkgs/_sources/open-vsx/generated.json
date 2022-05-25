@@ -13723,7 +13723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.335",
+    "version": "0.25.336",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13731,10 +13731,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.335/file/pokey.cursorless-0.25.335.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.336/file/pokey.cursorless-0.25.336.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rnBaGkqihjinEqN80tKadswc6frcptqCnPqK+iyLUT0="
+      "sha256": "sha256-C9pTwHd3mWlfzFPmqIeGT1AOJ7o2+MX48CkRjZ6uomw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29163,7 +29163,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "GitLab-gitlab-workflow",
-    "version": "3.44.1",
+    "version": "3.44.2",
     "passthru": {
       "name": "gitlab-workflow",
       "license": "MIT",
@@ -29171,10 +29171,10 @@
       "description": "GitLab extension for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.1/file/GitLab.gitlab-workflow-3.44.1.vsix",
+      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.2/file/GitLab.gitlab-workflow-3.44.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Aqi09igiHxQbz0AyrPla5O/18jY3yo4ODZqeLBmqA7U="
+      "sha256": "sha256-S2PI+r4LrHA7tW2EMfcAkP5jUnd0mCEV72oTXMa9Xkc="
     },
     "extract": null,
     "rustGitDeps": null
