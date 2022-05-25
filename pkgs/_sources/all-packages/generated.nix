@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "1c4425f347f80f41ab2a15c6682b2d637ac18605";
+    version = "1844d2a13d506d7d7187011541c57aa5d0f7773c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "1c4425f347f80f41ab2a15c6682b2d637ac18605";
+      rev = "1844d2a13d506d7d7187011541c57aa5d0f7773c";
       fetchSubmodules = false;
-      sha256 = "sha256-Fyqaz78ApE8Y+440M5DpWJk78Ru7atVM2g9fxaN5/zw=";
+      sha256 = "sha256-Yyc7Nck2/lR93AoSMg6/t0gDid9cixi5+KBGeaV4V6Q=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9597ffdd3284563af9e4309c0ddd5b3b7cfcf9a7";
+    version = "2c907e054024cefb9f75bcaf75fdf7ae3a594b90";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "9597ffdd3284563af9e4309c0ddd5b3b7cfcf9a7";
+      rev = "2c907e054024cefb9f75bcaf75fdf7ae3a594b90";
       fetchSubmodules = false;
-      sha256 = "sha256-oGK1P5PCMLuK0zSoETuNMBnjpAIEbx89r4LyDldEaXk=";
+      sha256 = "sha256-RdRfvPID2+XkVe4RXBbNMbPzVqTo4UrQVPiR1Q2gXEo=";
     });
   };
   ibus = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-690-g0eea5dc1";
+    version = "2.1-691-g76f638d0";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-690-g0eea5dc1-1_all.deb";
-      sha256 = "sha256-dv9Mr6O6HcFUfvt9w+WWwTHXMYW6I6a2Ceh/tUu4Jpc=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-691-g76f638d0-1_all.deb";
+      sha256 = "sha256-4Z/pJ8ScfuL4nSOptEFbF/MfTX2tAge8HsVaJj8baqQ=";
     };
   };
   layout-machi = {
