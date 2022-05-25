@@ -10663,7 +10663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "learnpack-learnpack-vscode",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "passthru": {
       "name": "learnpack-vscode",
       "license": "MIT",
@@ -10671,10 +10671,10 @@
       "description": "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial."
     },
     "src": {
-      "url": "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.6/file/learnpack.learnpack-vscode-0.0.6.vsix",
+      "url": "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.7/file/learnpack.learnpack-vscode-0.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GGeyiZVt3p1lfElte/xOehuutCjOgc6n95Xxyd/HDCo="
+      "sha256": "sha256-sxk1MD3j1E0iOxXNEqx5jwfQSRkRtEzU4fWupOCxjhA="
     },
     "extract": null,
     "rustGitDeps": null

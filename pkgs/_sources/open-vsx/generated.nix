@@ -11799,10 +11799,10 @@
   };
   learnpack-learnpack-vscode = {
     pname = "learnpack-learnpack-vscode";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.6/file/learnpack.learnpack-vscode-0.0.6.vsix";
-      sha256 = "sha256-GGeyiZVt3p1lfElte/xOehuutCjOgc6n95Xxyd/HDCo=";
+      url = "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.7/file/learnpack.learnpack-vscode-0.0.7.vsix";
+      sha256 = "sha256-sxk1MD3j1E0iOxXNEqx5jwfQSRkRtEzU4fWupOCxjhA=";
     };
     name = "learnpack-vscode";
     license = "MIT";
