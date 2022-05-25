@@ -2123,7 +2123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.14",
+    "version": "0.0.15",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2131,10 +2131,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.14/file/zardoy.vetur-extended-0.0.14.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.15/file/zardoy.vetur-extended-0.0.15.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dXo665vPfpcTj4WMQJBDpmvdRbvgZts7e/ds21FXWWg="
+      "sha256": "sha256-XWMxFC38ybwTrXYDJzKF9b/fVyE1No5m61TqRy97yGQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16415,6 +16415,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-2ABcdfJbKOgUJCR35ucM80sDNCC0FL+UCsRr+9/Ep9s="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "iterative-dvc": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "iterative-dvc",
+    "version": "0.2.18",
+    "passthru": {
+      "name": "dvc",
+      "license": "Apache-2.0",
+      "publisher": "iterative",
+      "description": "DVC VS Code extension"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/iterative/dvc/0.2.18/file/iterative.dvc-0.2.18.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-xMTfi2RU7LB1SgIz5dOf7sLb/m2WWX291YifjPc4f9g="
     },
     "extract": null,
     "rustGitDeps": null

@@ -10381,6 +10381,18 @@
     publisher = "itemis";
     description = "A simple DSL example for VS Code";
   };
+  iterative-dvc = {
+    pname = "iterative-dvc";
+    version = "0.2.18";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/iterative/dvc/0.2.18/file/iterative.dvc-0.2.18.vsix";
+      sha256 = "sha256-xMTfi2RU7LB1SgIz5dOf7sLb/m2WWX291YifjPc4f9g=";
+    };
+    name = "dvc";
+    license = "Apache-2.0";
+    publisher = "iterative";
+    description = "DVC VS Code extension";
+  };
   itsjonq-owlet = {
     pname = "itsjonq-owlet";
     version = "0.1.22";
@@ -21135,10 +21147,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.14/file/zardoy.vetur-extended-0.0.14.vsix";
-      sha256 = "sha256-dXo665vPfpcTj4WMQJBDpmvdRbvgZts7e/ds21FXWWg=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.15/file/zardoy.vetur-extended-0.0.15.vsix";
+      sha256 = "sha256-XWMxFC38ybwTrXYDJzKF9b/fVyE1No5m61TqRy97yGQ=";
     };
     name = "vetur-extended";
     license = "MIT";
