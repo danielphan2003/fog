@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.973";
+    version = "31.0.974";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.973/file/Prisma.prisma-insider-31.0.973.vsix";
-      sha256 = "sha256-C6LR5yZJql3rZX+jAB8NF6u/r3npMR19YOrnVJCJAjs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.974/file/Prisma.prisma-insider-31.0.974.vsix";
+      sha256 = "sha256-dR7nN4KzrzGfZlUU7t4Z1CXHgWULqjRdQ/Pfggi+5cg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -20796,6 +20796,18 @@
     license = "MIT";
     publisher = "xoronic";
     description = "pestfile Syntax Highlighting";
+  };
+  xotm-my-extension-xotm-22-5-25 = {
+    pname = "xotm-my-extension-xotm-22-5-25";
+    version = "0.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xotm/my-extension-xotm-22-5-25/0.0.0/file/xotm.my-extension-xotm-22-5-25-0.0.0.vsix";
+      sha256 = "sha256-mUDDQ/FAkqAUD+veaMAvv4U1G01Syfpeei6PEjjIci0=";
+    };
+    name = "my-extension-xotm-22-5-25";
+    license = "MIT";
+    publisher = "xotm";
+    description = "";
   };
   xotm-xotm-new-extension = {
     pname = "xotm-xotm-new-extension";
