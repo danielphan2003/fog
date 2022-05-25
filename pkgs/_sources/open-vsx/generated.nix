@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.974";
+    version = "31.0.975";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.974/file/Prisma.prisma-insider-31.0.974.vsix";
-      sha256 = "sha256-dR7nN4KzrzGfZlUU7t4Z1CXHgWULqjRdQ/Pfggi+5cg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.975/file/Prisma.prisma-insider-31.0.975.vsix";
+      sha256 = "sha256-hFYcjz86D6ckkL85Uy8+JzMIjmZFwWkfrCgD9i2kKss=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5283,10 +5283,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.19.0";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.0/file/astro-build.astro-vscode-0.19.0.vsix";
-      sha256 = "sha256-VB967sUt2ZW3fV6a5KxP3KFbw1cCaTRpA89YCHzQAOc=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.1/file/astro-build.astro-vscode-0.19.1.vsix";
+      sha256 = "sha256-kEhhjB6Yufl1DY36SvnpOk4mz+D/yGC448av+bEoG2k=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -20415,10 +20415,10 @@
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
-    version = "8.2.0";
+    version = "8.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.0/file/waderyan.gitblame-8.2.0.vsix";
-      sha256 = "sha256-7Dz7Eqq+DDLABaOLRkeMPcagWRKUEKafkmRpMRpa4D8=";
+      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.1/file/waderyan.gitblame-8.2.1.vsix";
+      sha256 = "sha256-e/5BgVj6cNFoGpHf2AK0VmmbMsnl8T8G59v2tGRvJSw=";
     };
     name = "gitblame";
     license = "MIT";
@@ -21363,10 +21363,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.2";
+    version = "0.23.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.2/file/znck.grammarly-0.23.2.vsix";
-      sha256 = "sha256-mwuLAM24zlMkeAywIw5h3EZT0ZcyBpIRDf/b9AgQHVI=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.3/file/znck.grammarly-0.23.3.vsix";
+      sha256 = "sha256-m7+lgQMEBezRgWOh6N0CBr7XnfQyYzGG9RVVzM+y0Bw=";
     };
     name = "grammarly";
     license = "MIT";

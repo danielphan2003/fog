@@ -12723,7 +12723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "waderyan-gitblame",
-    "version": "8.2.0",
+    "version": "8.2.1",
     "passthru": {
       "name": "gitblame",
       "license": "MIT",
@@ -12731,10 +12731,10 @@
       "description": "See git blame information in the status bar."
     },
     "src": {
-      "url": "https://open-vsx.org/api/waderyan/gitblame/8.2.0/file/waderyan.gitblame-8.2.0.vsix",
+      "url": "https://open-vsx.org/api/waderyan/gitblame/8.2.1/file/waderyan.gitblame-8.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7Dz7Eqq+DDLABaOLRkeMPcagWRKUEKafkmRpMRpa4D8="
+      "sha256": "sha256-e/5BgVj6cNFoGpHf2AK0VmmbMsnl8T8G59v2tGRvJSw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29603,7 +29603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.23.2",
+    "version": "0.23.3",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29611,10 +29611,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.23.2/file/znck.grammarly-0.23.2.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.23.3/file/znck.grammarly-0.23.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-mwuLAM24zlMkeAywIw5h3EZT0ZcyBpIRDf/b9AgQHVI="
+      "sha256": "sha256-m7+lgQMEBezRgWOh6N0CBr7XnfQyYzGG9RVVzM+y0Bw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -30223,7 +30223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "astro-build-astro-vscode",
-    "version": "0.19.0",
+    "version": "0.19.1",
     "passthru": {
       "name": "astro-vscode",
       "license": "MIT",
@@ -30231,10 +30231,10 @@
       "description": "Language support for Astro"
     },
     "src": {
-      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.0/file/astro-build.astro-vscode-0.19.0.vsix",
+      "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.1/file/astro-build.astro-vscode-0.19.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VB967sUt2ZW3fV6a5KxP3KFbw1cCaTRpA89YCHzQAOc="
+      "sha256": "sha256-kEhhjB6Yufl1DY36SvnpOk4mz+D/yGC448av+bEoG2k="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32243,7 +32243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.974",
+    "version": "31.0.975",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32251,10 +32251,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.974/file/Prisma.prisma-insider-31.0.974.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.975/file/Prisma.prisma-insider-31.0.975.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dR7nN4KzrzGfZlUU7t4Z1CXHgWULqjRdQ/Pfggi+5cg="
+      "sha256": "sha256-hFYcjz86D6ckkL85Uy8+JzMIjmZFwWkfrCgD9i2kKss="
     },
     "extract": null,
     "rustGitDeps": null
