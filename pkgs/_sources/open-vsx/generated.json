@@ -14603,7 +14603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "artlaman-chalice-icon-theme",
-    "version": "1.2.18",
+    "version": "1.2.19",
     "passthru": {
       "name": "chalice-icon-theme",
       "license": "MIT",
@@ -14611,10 +14611,10 @@
       "description": "A minimalistic icon theme"
     },
     "src": {
-      "url": "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.18/file/artlaman.chalice-icon-theme-1.2.18.vsix",
+      "url": "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.19/file/artlaman.chalice-icon-theme-1.2.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eZMTJInzKR7nBqixGFkCUl7d2uwiCwlUasetU7V+hG4="
+      "sha256": "sha256-Bm4YK7QgJYrjy6X+VpABWzYtCVUCVMTwURWdFXC5lic="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24103,7 +24103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "xotm-theia-hello-world-extension-xotm",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "passthru": {
       "name": "theia-hello-world-extension-xotm",
       "license": "MIT",
@@ -24111,10 +24111,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.0/file/xotm.theia-hello-world-extension-xotm-0.0.0.vsix",
+      "url": "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.1/file/xotm.theia-hello-world-extension-xotm-0.0.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-7y2wKzuDQbzoKd6l7+/TmQnWvaDYkpTdHouShpWL9u4="
+      "sha256": "sha256-HAoNNUnzlWCv/aP6UvS+zI+qJ/Pfay7Fb7+ckZSwm8E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28483,7 +28483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ligolang-publish-ligo-vscode",
-    "version": "0.4.10",
+    "version": "0.4.11",
     "passthru": {
       "name": "ligo-vscode",
       "license": "MIT",
@@ -28491,10 +28491,10 @@
       "description": "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.10/file/ligolang-publish.ligo-vscode-0.4.10.vsix",
+      "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.11/file/ligolang-publish.ligo-vscode-0.4.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-W1foX4iBZtDtZXJD0+f46s7roHXGsBTiYsar5YnqTqQ="
+      "sha256": "sha256-eF4dgntn13qVNRrHxlSaN7WCCXmr1IsPquwQcdIOnq0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29603,7 +29603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.23.3",
+    "version": "0.23.4",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29611,10 +29611,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.23.3/file/znck.grammarly-0.23.3.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.23.4/file/znck.grammarly-0.23.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-m7+lgQMEBezRgWOh6N0CBr7XnfQyYzGG9RVVzM+y0Bw="
+      "sha256": "sha256-Nm+vqtMk0nsSvlAm/uzqOAgDEtwI8FXAObIyXxPlgeU="
     },
     "extract": null,
     "rustGitDeps": null

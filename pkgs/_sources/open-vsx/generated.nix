@@ -5103,10 +5103,10 @@
   };
   artlaman-chalice-icon-theme = {
     pname = "artlaman-chalice-icon-theme";
-    version = "1.2.18";
+    version = "1.2.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.18/file/artlaman.chalice-icon-theme-1.2.18.vsix";
-      sha256 = "sha256-eZMTJInzKR7nBqixGFkCUl7d2uwiCwlUasetU7V+hG4=";
+      url = "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.19/file/artlaman.chalice-icon-theme-1.2.19.vsix";
+      sha256 = "sha256-Bm4YK7QgJYrjy6X+VpABWzYtCVUCVMTwURWdFXC5lic=";
     };
     name = "chalice-icon-theme";
     license = "MIT";
@@ -11955,10 +11955,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.10";
+    version = "0.4.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.10/file/ligolang-publish.ligo-vscode-0.4.10.vsix";
-      sha256 = "sha256-W1foX4iBZtDtZXJD0+f46s7roHXGsBTiYsar5YnqTqQ=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.11/file/ligolang-publish.ligo-vscode-0.4.11.vsix";
+      sha256 = "sha256-eF4dgntn13qVNRrHxlSaN7WCCXmr1IsPquwQcdIOnq0=";
     };
     name = "ligo-vscode";
     license = "MIT";
@@ -20823,10 +20823,10 @@
   };
   xotm-theia-hello-world-extension-xotm = {
     pname = "xotm-theia-hello-world-extension-xotm";
-    version = "0.0.0";
+    version = "0.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.0/file/xotm.theia-hello-world-extension-xotm-0.0.0.vsix";
-      sha256 = "sha256-7y2wKzuDQbzoKd6l7+/TmQnWvaDYkpTdHouShpWL9u4=";
+      url = "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.1/file/xotm.theia-hello-world-extension-xotm-0.0.1.vsix";
+      sha256 = "sha256-HAoNNUnzlWCv/aP6UvS+zI+qJ/Pfay7Fb7+ckZSwm8E=";
     };
     name = "theia-hello-world-extension-xotm";
     license = "MIT";
@@ -21363,10 +21363,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.3";
+    version = "0.23.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.3/file/znck.grammarly-0.23.3.vsix";
-      sha256 = "sha256-m7+lgQMEBezRgWOh6N0CBr7XnfQyYzGG9RVVzM+y0Bw=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.4/file/znck.grammarly-0.23.4.vsix";
+      sha256 = "sha256-Nm+vqtMk0nsSvlAm/uzqOAgDEtwI8FXAObIyXxPlgeU=";
     };
     name = "grammarly";
     license = "MIT";
