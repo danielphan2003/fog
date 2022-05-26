@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "795504dad01e7d738f768315767523270e59ab54";
+    version = "8145c552de762bbdb8ddd63b386f4b5a0709bd6c";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "795504dad01e7d738f768315767523270e59ab54";
+      rev = "8145c552de762bbdb8ddd63b386f4b5a0709bd6c";
       fetchSubmodules = false;
-      sha256 = "sha256-SfpJjzRMXq3bVNNOa71C0+b5TD0Aj5D0YpYNUWkV3sY=";
+      sha256 = "sha256-fCJHQN1NLTRDmWXrWUrsW+Y5ud1B6WIdHaqW77BtbT8=";
     });
   };
   ibus = {
@@ -1186,13 +1186,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "9de515017f3273b7ec6adf458e8d10dd2b61bb51";
+    version = "067306d2bca38d7e733ed8b06b0408ae4fdd49b1";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "9de515017f3273b7ec6adf458e8d10dd2b61bb51";
+      rev = "067306d2bca38d7e733ed8b06b0408ae4fdd49b1";
       fetchSubmodules = false;
-      sha256 = "sha256-s5JW9/UN7jg6+ogedC++UGTVXr1kngokFiB0Ri0nRm4=";
+      sha256 = "sha256-31KpoWx8Sss73PmBHxCWtshXg38PR7I9dI/2kBRb0XM=";
     });
   };
   xdg-desktop-portal-gtk = {
