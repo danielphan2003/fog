@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.0/file/DCsunset.vscode-modal-editor-1.2.0.vsix";
-      sha256 = "sha256-rNptmKsEBCNf+fwTbriggUyScdthlEZBNrpWs5BzPwo=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.1/file/DCsunset.vscode-modal-editor-1.2.1.vsix";
+      sha256 = "sha256-rO3d69G2ziirbs5k5E41KfVLunbdwfEeqD8SneQJZWY=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -7827,10 +7827,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.3.0";
+    version = "7.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.0/file/eliostruyf.vscode-front-matter-7.3.0.vsix";
-      sha256 = "sha256-okDkQAss8Dyf0qX55acjTtHteqWdn3xKAuXE16QqN84=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.1/file/eliostruyf.vscode-front-matter-7.3.1.vsix";
+      sha256 = "sha256-S57ZHgIwYIs4YeOWJCsax8osaaSP8Vc0iyFIA2kWQ6w=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7839,10 +7839,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2384005";
+    version = "7.3.2391988";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2384005/file/eliostruyf.vscode-front-matter-beta-7.3.2384005.vsix";
-      sha256 = "sha256-p9SZrvYCnOf6AsnHCEPporU+DYjgt32HmtNH46sF6Zk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2391988/file/eliostruyf.vscode-front-matter-beta-7.3.2391988.vsix";
+      sha256 = "sha256-sU+cbHv3TpNAPya6D7rTImQtoDwWEIqM9se9s3e6jZ4=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";

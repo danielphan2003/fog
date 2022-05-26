@@ -3223,7 +3223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter",
-    "version": "7.3.0",
+    "version": "7.3.1",
     "passthru": {
       "name": "vscode-front-matter",
       "license": "MIT",
@@ -3231,10 +3231,10 @@
       "description": "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.0/file/eliostruyf.vscode-front-matter-7.3.0.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.1/file/eliostruyf.vscode-front-matter-7.3.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-okDkQAss8Dyf0qX55acjTtHteqWdn3xKAuXE16QqN84="
+      "sha256": "sha256-S57ZHgIwYIs4YeOWJCsax8osaaSP8Vc0iyFIA2kWQ6w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10043,7 +10043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.3.2384005",
+    "version": "7.3.2391988",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -10051,10 +10051,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2384005/file/eliostruyf.vscode-front-matter-beta-7.3.2384005.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2391988/file/eliostruyf.vscode-front-matter-beta-7.3.2391988.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-p9SZrvYCnOf6AsnHCEPporU+DYjgt32HmtNH46sF6Zk="
+      "sha256": "sha256-sU+cbHv3TpNAPya6D7rTImQtoDwWEIqM9se9s3e6jZ4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22583,7 +22583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "DCsunset-vscode-modal-editor",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "passthru": {
       "name": "vscode-modal-editor",
       "license": "AGPL-3.0",
@@ -22591,10 +22591,10 @@
       "description": "Customizable extension to turn VS Code into a modal editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.0/file/DCsunset.vscode-modal-editor-1.2.0.vsix",
+      "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.1/file/DCsunset.vscode-modal-editor-1.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rNptmKsEBCNf+fwTbriggUyScdthlEZBNrpWs5BzPwo="
+      "sha256": "sha256-rO3d69G2ziirbs5k5E41KfVLunbdwfEeqD8SneQJZWY="
     },
     "extract": null,
     "rustGitDeps": null
