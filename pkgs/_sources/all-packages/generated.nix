@@ -314,16 +314,16 @@
   };
   eww = {
     pname = "eww";
-    version = "92e389130f4a3d8a8f3d9da62d998320b9076816";
+    version = "52e14d8263c914a490a727fd23f856b22ff7b2e3";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "92e389130f4a3d8a8f3d9da62d998320b9076816";
+      rev = "52e14d8263c914a490a727fd23f856b22ff7b2e3";
       fetchSubmodules = false;
-      sha256 = "sha256-cBvFrfIbhjYjjZrOYK0hgphia008Is+ew4MgbHT+ks0=";
+      sha256 = "sha256-kxWc7IbA1n5rIsdfxHxnDWYF3EvphhD+EyQVaECXqVY=";
     });
     cargoLock = {
-      lockFile = ./eww-92e389130f4a3d8a8f3d9da62d998320b9076816/Cargo.lock;
+      lockFile = ./eww-52e14d8263c914a490a727fd23f856b22ff7b2e3/Cargo.lock;
       outputHashes = { };
     };
   };
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "74990e1e58fa8ab8abd52603d988ecbc2d45dca9";
+    version = "6751ec6f546a552d33931dee94b1a67907bee283";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "74990e1e58fa8ab8abd52603d988ecbc2d45dca9";
+      rev = "6751ec6f546a552d33931dee94b1a67907bee283";
       fetchSubmodules = false;
-      sha256 = "sha256-JTNKHmvIML1rSRV060kt6iSFjy/8Tgbx0kt+Nd0/yz4=";
+      sha256 = "sha256-cbE/ogcfkGNS/iJDhYAjhmXTE9Ea6BWpX6yTg8khIcg=";
     });
   };
   ibus = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "7c2cf6c9b37a19887094113a8266db43f0c9e1ac";
+    version = "223a4f232358e29ac2524bf8ba04406907c187cc";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "7c2cf6c9b37a19887094113a8266db43f0c9e1ac";
+      rev = "223a4f232358e29ac2524bf8ba04406907c187cc";
       fetchSubmodules = false;
-      sha256 = "sha256-9G4/ekU/ZZ80qHOzFhj4WFXVNUrA7/ab08fYdc0tm1A=";
+      sha256 = "sha256-2MxA+0twYLmEgXHLWwdeKGQss6YyBpfnOIzFOSMUSgc=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-7c2cf6c9b37a19887094113a8266db43f0c9e1ac/Cargo.lock;
+      lockFile = ./rustdesk-223a4f232358e29ac2524bf8ba04406907c187cc/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
