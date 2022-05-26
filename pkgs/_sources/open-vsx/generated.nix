@@ -4047,10 +4047,10 @@
   };
   a7ul-vscode-bigtable = {
     pname = "a7ul-vscode-bigtable";
-    version = "1.1.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a7ul/vscode-bigtable/1.1.0/file/a7ul.vscode-bigtable-1.1.0.vsix";
-      sha256 = "sha256-qwdVfrzk1PsrvXgVrNsrljS3Zt+mjlzIPTfuXvqoOIE=";
+      url = "https://open-vsx.org/api/a7ul/vscode-bigtable/1.2.1/file/a7ul.vscode-bigtable-1.2.1.vsix";
+      sha256 = "sha256-krB5ZvSdLX4fTw1I0rRzcschth1lQLpkhQX86FxudvM=";
     };
     name = "vscode-bigtable";
     license = "MIT";

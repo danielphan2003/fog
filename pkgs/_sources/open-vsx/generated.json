@@ -24763,7 +24763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "a7ul-vscode-bigtable",
-    "version": "1.1.0",
+    "version": "1.2.1",
     "passthru": {
       "name": "vscode-bigtable",
       "license": "MIT",
@@ -24771,10 +24771,10 @@
       "description": "A VSCode extension for Google Bigtable"
     },
     "src": {
-      "url": "https://open-vsx.org/api/a7ul/vscode-bigtable/1.1.0/file/a7ul.vscode-bigtable-1.1.0.vsix",
+      "url": "https://open-vsx.org/api/a7ul/vscode-bigtable/1.2.1/file/a7ul.vscode-bigtable-1.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qwdVfrzk1PsrvXgVrNsrljS3Zt+mjlzIPTfuXvqoOIE="
+      "sha256": "sha256-krB5ZvSdLX4fTw1I0rRzcschth1lQLpkhQX86FxudvM="
     },
     "extract": null,
     "rustGitDeps": null
