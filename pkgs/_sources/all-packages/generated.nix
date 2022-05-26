@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0000d520721190ff2f22f1469a6ef54b12920713";
+    version = "d776ebd25d6d32a1a242e20c232b77f5457fee1d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0000d520721190ff2f22f1469a6ef54b12920713";
+      rev = "d776ebd25d6d32a1a242e20c232b77f5457fee1d";
       fetchSubmodules = false;
-      sha256 = "sha256-UbBT88V0X9brelRmcnhu7fP4fF6swx+Tsgf7WnpMsk4=";
+      sha256 = "sha256-Ey5U7MVuHOX7ly76bc9bla3VA+LnOAHRX981bMboZF4=";
     });
   };
   caddy = {
@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-885";
+    version = "1.0-886";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-885-1_all.deb";
-      sha256 = "sha256-6ncJlCKHszpdV7xXUHcJE6R08G62EYnAE0nH1kFVDIQ=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-886-1_all.deb";
+      sha256 = "sha256-yTi6v1aWM3lbWtvtJKH8TMz/72B8s65lPuLc0mVpEuI=";
     };
   };
   jitsi-meet = {
@@ -546,10 +546,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "102.0.1245.22";
+    version = "102.0.1245.25";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_102.0.1245.22-1_amd64.deb";
-      sha256 = "sha256-zifo5VeUIXm52h3LcyJVJ43iEpSCjgOOjZG63AF2ovY=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_102.0.1245.25-1_amd64.deb";
+      sha256 = "sha256-okMgakUNDJGMQYy3mi3pm+SHYwWlID8pwTnKutOf8Sc=";
     };
   };
   microsoft-edge-dev = {
@@ -914,13 +914,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "da0e0bb11aad88606ac70093047bec8e846ea015";
+    version = "ea5edaca44b6375c5fbfc9496fe30c965c5933c1";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "da0e0bb11aad88606ac70093047bec8e846ea015";
+      rev = "ea5edaca44b6375c5fbfc9496fe30c965c5933c1";
       fetchSubmodules = false;
-      sha256 = "sha256-otvyp6dtHDUIskeZbQNRvwx2aI20oNmQWVIknkQu3D4=";
+      sha256 = "sha256-h3SuLsh8WyozBUp7mkQ58iOzoDu4XldIf2tlu6Emv5o=";
     });
   };
   spicetify-themes = {
