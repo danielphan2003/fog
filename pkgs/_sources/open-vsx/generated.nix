@@ -15291,10 +15291,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.32.0";
+    version = "1.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.32.0/file/qcz.text-power-tools-1.32.0.vsix";
-      sha256 = "sha256-hHUq/NkR0H3u2rq443c5EWJi2O7FQCcxY1mmF3QZTxM=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.33.0/file/qcz.text-power-tools-1.33.0.vsix";
+      sha256 = "sha256-THOV//vRWUp5qrZibmcuo6s2SiBB7P2SnYHf7Pajf/4=";
     };
     name = "text-power-tools";
     license = "MIT";
