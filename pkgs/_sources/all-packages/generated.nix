@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "d776ebd25d6d32a1a242e20c232b77f5457fee1d";
+    version = "9a8b365870b890f8f9f3e50c7862f3582b1d1126";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "d776ebd25d6d32a1a242e20c232b77f5457fee1d";
+      rev = "9a8b365870b890f8f9f3e50c7862f3582b1d1126";
       fetchSubmodules = false;
-      sha256 = "sha256-Ey5U7MVuHOX7ly76bc9bla3VA+LnOAHRX981bMboZF4=";
+      sha256 = "sha256-b+YJZD6rPg576Ko9dDuzi0E6kRdDmdfnOyundncLBDc=";
     });
   };
   caddy = {
@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-886";
+    version = "1.0-888";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-886-1_all.deb";
-      sha256 = "sha256-yTi6v1aWM3lbWtvtJKH8TMz/72B8s65lPuLc0mVpEuI=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-888-1_all.deb";
+      sha256 = "sha256-Gxg5RVp+wIhFy6DDyinvc26quSVXu3HE9FjFrS1o1Rg=";
     };
   };
   jitsi-meet = {
