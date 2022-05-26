@@ -4561,6 +4561,18 @@
     publisher = "andreweinand";
     description = "Starter extension for developing debug adapters for VS Code.";
   };
+  andrewmcodes-rails-extension-power-pack = {
+    pname = "andrewmcodes-rails-extension-power-pack";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/andrewmcodes/rails-extension-power-pack/1.0.0/file/andrewmcodes.rails-extension-power-pack-1.0.0.vsix";
+      sha256 = "sha256-dFzEYzT20iQ0kp6Av4b57GI40o3Sh2NGEwg3iGf6y8c=";
+    };
+    name = "rails-extension-power-pack";
+    license = "MIT";
+    publisher = "andrewmcodes";
+    description = "Andrew Mason's favorite extensions for Rails development in Visual Studio Code";
+  };
   angular-rxjs-ngrx-angular-rxjs-ngrx = {
     pname = "angular-rxjs-ngrx-angular-rxjs-ngrx";
     version = "1.1.2";
@@ -18747,10 +18759,10 @@
   };
   usernamehw-errorlens = {
     pname = "usernamehw-errorlens";
-    version = "3.5.0";
+    version = "3.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.0/file/usernamehw.errorlens-3.5.0.vsix";
-      sha256 = "sha256-yAqfIcr25i/HFFxcOmJOio2SsijPSE3hSSWx1cliMKg=";
+      url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.1/file/usernamehw.errorlens-3.5.1.vsix";
+      sha256 = "sha256-eRJiCVZTUzy8xnYG7CTFmHxl8TU26lIzvVoeOXWcx68=";
     };
     name = "errorlens";
     license = "MIT";
