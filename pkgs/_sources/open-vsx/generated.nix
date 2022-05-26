@@ -3339,10 +3339,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.50";
+    version = "3.5.51";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.50/file/TabNine.tabnine-vscode-3.5.50.vsix";
-      sha256 = "sha256-yN6Hj37FZINtVwtcJU+BievnaprGlAqDBma/lmLq3W4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.51/file/TabNine.tabnine-vscode-3.5.51.vsix";
+      sha256 = "sha256-wMq5H9xp5I1FZnpQs0erZ1aDBgKspMNsItWOMCt91mU=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -11799,10 +11799,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.74";
+    version = "0.0.75";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.74/file/leanprover.lean4-0.0.74.vsix";
-      sha256 = "sha256-V6WuPuRfs4kw+L+Y8Fba+E458AtwqS7R6oZuqumGQKg=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.75/file/leanprover.lean4-0.0.75.vsix";
+      sha256 = "sha256-JeBXg8kZuiTGONXHToRlVAtH9gKHPxV42tis9eGsyvk=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -21219,10 +21219,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.15";
+    version = "0.0.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.15/file/zardoy.vetur-extended-0.0.15.vsix";
-      sha256 = "sha256-XWMxFC38ybwTrXYDJzKF9b/fVyE1No5m61TqRy97yGQ=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.16/file/zardoy.vetur-extended-0.0.16.vsix";
+      sha256 = "sha256-7x7bBQQjXwR/AmcflJH4Hn9H4yxJt7v1zPCmIxFwk2s=";
     };
     name = "vetur-extended";
     license = "MIT";

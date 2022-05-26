@@ -2123,7 +2123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-vetur-extended",
-    "version": "0.0.15",
+    "version": "0.0.16",
     "passthru": {
       "name": "vetur-extended",
       "license": "MIT",
@@ -2131,10 +2131,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.15/file/zardoy.vetur-extended-0.0.15.vsix",
+      "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.16/file/zardoy.vetur-extended-0.0.16.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XWMxFC38ybwTrXYDJzKF9b/fVyE1No5m61TqRy97yGQ="
+      "sha256": "sha256-7x7bBQQjXwR/AmcflJH4Hn9H4yxJt7v1zPCmIxFwk2s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7223,7 +7223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "leanprover-lean4",
-    "version": "0.0.74",
+    "version": "0.0.75",
     "passthru": {
       "name": "lean4",
       "license": "Apache-2.0",
@@ -7231,10 +7231,10 @@
       "description": "Lean 4 language support for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.74/file/leanprover.lean4-0.0.74.vsix",
+      "url": "https://open-vsx.org/api/leanprover/lean4/0.0.75/file/leanprover.lean4-0.0.75.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-V6WuPuRfs4kw+L+Y8Fba+E458AtwqS7R6oZuqumGQKg="
+      "sha256": "sha256-JeBXg8kZuiTGONXHToRlVAtH9gKHPxV42tis9eGsyvk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10123,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.50",
+    "version": "3.5.51",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -10131,10 +10131,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.50/file/TabNine.tabnine-vscode-3.5.50.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.51/file/TabNine.tabnine-vscode-3.5.51.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yN6Hj37FZINtVwtcJU+BievnaprGlAqDBma/lmLq3W4="
+      "sha256": "sha256-wMq5H9xp5I1FZnpQs0erZ1aDBgKspMNsItWOMCt91mU="
     },
     "extract": null,
     "rustGitDeps": null
