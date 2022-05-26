@@ -7647,10 +7647,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.0.6";
+    version = "12.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.6/file/eamodio.gitlens-12.0.6.vsix";
-      sha256 = "sha256-Q8l/GryB9iMhFnu5npUcDjWuImfrmVZF3xvm7nX/77Q=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.7/file/eamodio.gitlens-12.0.7.vsix";
+      sha256 = "sha256-gPhiytthf35eDhtzkSK2JZjtj4877la3hB1Cswbrszw=";
     };
     name = "gitlens";
     license = "MIT";
@@ -8727,10 +8727,10 @@
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
-    version = "0.15.4";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.15.4/file/fredericbonnet.cmake-test-adapter-0.15.4.vsix";
-      sha256 = "sha256-8tPs3+gOJ6gxEIhcJVKFJH5fBboDvjCfsyZWU7dVBf8=";
+      url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.16.0/file/fredericbonnet.cmake-test-adapter-0.16.0.vsix";
+      sha256 = "sha256-QGwN62817ZZo6+QA4FEKXxdMWquT0jjslAxgGi584FU=";
     };
     name = "cmake-test-adapter";
     license = "BSD-3-Clause";
@@ -9399,10 +9399,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.9";
+    version = "0.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.9/file/hall.draw-0.1.9.vsix";
-      sha256 = "sha256-vmuUoUgaJgIcqh65KNMpgzdUGiwXbnfKSLQoBRNfynI=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.10/file/hall.draw-0.1.10.vsix";
+      sha256 = "sha256-dvXMoHng47cyg2bEiXwzCHJZVbcpbRpzMWdhxc5iP4U=";
     };
     name = "draw";
     license = "Apache-2.0";
@@ -17880,6 +17880,30 @@
     license = "MIT";
     publisher = "synedra";
     description = "Run a vscode command on project init. Made to run wallaby.js automatically when a project is opened";
+  };
+  t-codespaces-ide-code-status = {
+    pname = "t-codespaces-ide-code-status";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.1/file/t-codespaces.ide-code-status-0.0.1.vsix";
+      sha256 = "sha256-rFWCsJtw5tgARCuTkVEGmyQIlk3uHFq6+23DjAIEXxg=";
+    };
+    name = "ide-code-status";
+    license = "";
+    publisher = "t-codespaces";
+    description = "\24037\20316\31354\38388\20869\20195\30721\29366\24577\30456\20851\30340\34892\20026\31649\29702\12289\27880\20876\12289\19978\25253\25554\20214\65288\38750 scm \31867\22411\65289\12290";
+  };
+  t-codespaces-install-extensions = {
+    pname = "t-codespaces-install-extensions";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/t-codespaces/install-extensions/1.0.2/file/t-codespaces.install-extensions-1.0.2.vsix";
+      sha256 = "sha256-qFY3+Lz3d+Y3o86eq2ihla8JO20KJc8woEY7lHznAUc=";
+    };
+    name = "install-extensions";
+    license = "";
+    publisher = "t-codespaces";
+    description = "\29992\20110\23433\35013\20854\20182\25554\20214\30340\19968\26041\25554\20214";
   };
   tachish-webview-test = {
     pname = "tachish-webview-test";
