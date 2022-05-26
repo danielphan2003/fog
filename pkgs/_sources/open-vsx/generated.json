@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.95.6",
+    "version": "0.96.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.95.6/file/dendron.nightly-0.95.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.96.2/file/dendron.nightly-0.96.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wV18yki019ms3OJWOksNpXL8cLe0XhENHwwkSxpo+tI="
+      "sha256": "sha256-b6IBZaxd8HbpCltSVhGX72VcoQrUAyn5Rn24u87uGIk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10103,7 +10103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.49",
+    "version": "3.5.50",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -10111,10 +10111,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.49/file/TabNine.tabnine-vscode-3.5.49.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.50/file/TabNine.tabnine-vscode-3.5.50.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-yMfANWFb149G/ArdMoq6iyxclabcehLcFNEnK+/2yJw="
+      "sha256": "sha256-yN6Hj37FZINtVwtcJU+BievnaprGlAqDBma/lmLq3W4="
     },
     "extract": null,
     "rustGitDeps": null
