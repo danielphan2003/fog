@@ -3711,10 +3711,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "1.1.6";
+    version = "1.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.6/file/XOJ-Team.xoj-playground-1.1.6.vsix";
-      sha256 = "sha256-CE0wg4ZPn2kX6sCw0hlbZjwBQidWaBuuApL6GRpfXyk=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.7/file/XOJ-Team.xoj-playground-1.1.7.vsix";
+      sha256 = "sha256-ETMzw5aiQypBcQEnAUBIPVPiVwofl4sSzYzg4Nmkc/E=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -5619,10 +5619,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.276";
+    version = "2.0.277";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.276/file/betterthantomorrow.calva-2.0.276.vsix";
-      sha256 = "sha256-ZrWeJmn7PL32PWxY5poycTPh861fpOJ60upeMiRIHkU=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.277/file/betterthantomorrow.calva-2.0.277.vsix";
+      sha256 = "sha256-nHkAXdhl2mapT4m1QRAn7bC8R6WFTwm4+v8QpTMvPPg=";
     };
     name = "calva";
     license = "MIT";
@@ -15075,10 +15075,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.336";
+    version = "0.25.337";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.336/file/pokey.cursorless-0.25.336.vsix";
-      sha256 = "sha256-C9pTwHd3mWlfzFPmqIeGT1AOJ7o2+MX48CkRjZ6uomw=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.337/file/pokey.cursorless-0.25.337.vsix";
+      sha256 = "sha256-qD/Ur1S48djjkwdCdjEjEzW0+DwxTx9jGGl/zYZUJ3M=";
     };
     name = "cursorless";
     license = "MIT";

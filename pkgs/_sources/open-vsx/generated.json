@@ -13763,7 +13763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.336",
+    "version": "0.25.337",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13771,10 +13771,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.336/file/pokey.cursorless-0.25.336.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.337/file/pokey.cursorless-0.25.337.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-C9pTwHd3mWlfzFPmqIeGT1AOJ7o2+MX48CkRjZ6uomw="
+      "sha256": "sha256-qD/Ur1S48djjkwdCdjEjEzW0+DwxTx9jGGl/zYZUJ3M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33043,7 +33043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.276",
+    "version": "2.0.277",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -33051,10 +33051,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.276/file/betterthantomorrow.calva-2.0.276.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.277/file/betterthantomorrow.calva-2.0.277.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZrWeJmn7PL32PWxY5poycTPh861fpOJ60upeMiRIHkU="
+      "sha256": "sha256-nHkAXdhl2mapT4m1QRAn7bC8R6WFTwm4+v8QpTMvPPg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34383,7 +34383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XOJ-Team-xoj-playground",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "passthru": {
       "name": "xoj-playground",
       "license": "AGPL-3.0",
@@ -34391,10 +34391,10 @@
       "description": "A playground extension for XOJ Web IDE and desktop VSC"
     },
     "src": {
-      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.6/file/XOJ-Team.xoj-playground-1.1.6.vsix",
+      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.7/file/XOJ-Team.xoj-playground-1.1.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CE0wg4ZPn2kX6sCw0hlbZjwBQidWaBuuApL6GRpfXyk="
+      "sha256": "sha256-ETMzw5aiQypBcQEnAUBIPVPiVwofl4sSzYzg4Nmkc/E="
     },
     "extract": null,
     "rustGitDeps": null
