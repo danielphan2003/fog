@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.977";
+    version = "31.0.978";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.977/file/Prisma.prisma-insider-31.0.977.vsix";
-      sha256 = "sha256-DpqlPlsuIvKg9M1ARrdlLKbzFu6fMZ8KRkBc7VSqHCc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.978/file/Prisma.prisma-insider-31.0.978.vsix";
+      sha256 = "sha256-xOIfNzojBDxjXBLd2jXVMd6KOXFIS4GK6Lo1rp+omtk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -12387,10 +12387,10 @@
   };
   mauricioszabo-clover = {
     pname = "mauricioszabo-clover";
-    version = "0.2.8";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mauricioszabo/clover/0.2.8/file/mauricioszabo.clover-0.2.8.vsix";
-      sha256 = "sha256-qUzJjZVIQWv42Xh6A2ECRAOxjYrj86/Yuke2KBrhobY=";
+      url = "https://open-vsx.org/api/mauricioszabo/clover/0.3.0/file/mauricioszabo.clover-0.3.0.vsix";
+      sha256 = "sha256-xIgTNKrJfRaIIGGZvJl3Io/VJImkZKy5LGF2Ay78r7I=";
     };
     name = "clover";
     license = "MIT";
@@ -12543,10 +12543,10 @@
   };
   mechatroner-rainbow-csv = {
     pname = "mechatroner-rainbow-csv";
-    version = "2.0.0";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mechatroner/rainbow-csv/2.0.0/file/mechatroner.rainbow-csv-2.0.0.vsix";
-      sha256 = "sha256-7gp6x3DE3RT4D21avhs4X1s5MannZiKCtLSSe4+uGOo=";
+      url = "https://open-vsx.org/api/mechatroner/rainbow-csv/2.4.0/file/mechatroner.rainbow-csv-2.4.0.vsix";
+      sha256 = "sha256-bMu0+ZrhpMHsXXW/1J7hDlIX2ScxEMSaThYhibdOv5k=";
     };
     name = "rainbow-csv";
     license = "MIT";
