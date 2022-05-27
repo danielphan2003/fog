@@ -13763,7 +13763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.337",
+    "version": "0.25.338",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13771,10 +13771,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.337/file/pokey.cursorless-0.25.337.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.338/file/pokey.cursorless-0.25.338.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qD/Ur1S48djjkwdCdjEjEzW0+DwxTx9jGGl/zYZUJ3M="
+      "sha256": "sha256-PaPj/M7dMV12ojO9DZ/xKrKp3P8JJx5nJYwDN/w91ZQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32303,7 +32303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.976",
+    "version": "31.0.977",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32311,10 +32311,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.976/file/Prisma.prisma-insider-31.0.976.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.977/file/Prisma.prisma-insider-31.0.977.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AiFtsibKbQnxEeklx30bbXpAqbvhFGET5zKs9vFzbE8="
+      "sha256": "sha256-DpqlPlsuIvKg9M1ARrdlLKbzFu6fMZ8KRkBc7VSqHCc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34383,7 +34383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "XOJ-Team-xoj-playground",
-    "version": "1.1.7",
+    "version": "1.1.8",
     "passthru": {
       "name": "xoj-playground",
       "license": "AGPL-3.0",
@@ -34391,10 +34391,10 @@
       "description": "A playground extension for XOJ Web IDE and desktop VSC"
     },
     "src": {
-      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.7/file/XOJ-Team.xoj-playground-1.1.7.vsix",
+      "url": "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.8/file/XOJ-Team.xoj-playground-1.1.8.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ETMzw5aiQypBcQEnAUBIPVPiVwofl4sSzYzg4Nmkc/E="
+      "sha256": "sha256-OQelYEHK2+FQMAomnH1/arHmD344FK7UGugq+GyISvQ="
     },
     "extract": null,
     "rustGitDeps": null

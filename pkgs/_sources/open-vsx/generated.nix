@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.976";
+    version = "31.0.977";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.976/file/Prisma.prisma-insider-31.0.976.vsix";
-      sha256 = "sha256-AiFtsibKbQnxEeklx30bbXpAqbvhFGET5zKs9vFzbE8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.977/file/Prisma.prisma-insider-31.0.977.vsix";
+      sha256 = "sha256-DpqlPlsuIvKg9M1ARrdlLKbzFu6fMZ8KRkBc7VSqHCc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3711,10 +3711,10 @@
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
-    version = "1.1.7";
+    version = "1.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.7/file/XOJ-Team.xoj-playground-1.1.7.vsix";
-      sha256 = "sha256-ETMzw5aiQypBcQEnAUBIPVPiVwofl4sSzYzg4Nmkc/E=";
+      url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.8/file/XOJ-Team.xoj-playground-1.1.8.vsix";
+      sha256 = "sha256-OQelYEHK2+FQMAomnH1/arHmD344FK7UGugq+GyISvQ=";
     };
     name = "xoj-playground";
     license = "AGPL-3.0";
@@ -15075,10 +15075,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.337";
+    version = "0.25.338";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.337/file/pokey.cursorless-0.25.337.vsix";
-      sha256 = "sha256-qD/Ur1S48djjkwdCdjEjEzW0+DwxTx9jGGl/zYZUJ3M=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.338/file/pokey.cursorless-0.25.338.vsix";
+      sha256 = "sha256-PaPj/M7dMV12ojO9DZ/xKrKp3P8JJx5nJYwDN/w91ZQ=";
     };
     name = "cursorless";
     license = "MIT";
