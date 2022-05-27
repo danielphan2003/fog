@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d8c5e53c0803eb118080657734160bf3ab5127d2";
+    version = "4cda50399c746e713bbc8ee5fe75e2db8ed94333";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d8c5e53c0803eb118080657734160bf3ab5127d2";
+      rev = "4cda50399c746e713bbc8ee5fe75e2db8ed94333";
       fetchSubmodules = false;
-      sha256 = "sha256-UDKMFGrs1tN9jYV/mIJAXydu9EUsSFfj52Wl+WAuedg=";
+      sha256 = "sha256-Zuk+IniJGYJ6ZEkkkKAHnXBBCGz9moz48R6aoaxXpA8=";
     });
   };
   ibus = {
@@ -789,13 +789,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3f6d8508a4610cfc7616638ebbb38ee777ded63a";
+    version = "16c0f5e223b4022698481f1ea55391f8c3f7ace2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3f6d8508a4610cfc7616638ebbb38ee777ded63a";
+      rev = "16c0f5e223b4022698481f1ea55391f8c3f7ace2";
       fetchSubmodules = false;
-      sha256 = "sha256-QCgeIFUSJzgPa4kNYqxoHGQHmGi4kFVmsK0b/p0I1Iw=";
+      sha256 = "sha256-5zkwq9iXzSBuNT1tcYtaz6bYE9n88TG5FVHGL0Z6lSw=";
     });
   };
   rofi-wayland = {
@@ -914,13 +914,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "59625d4838bef6a375e2f24ebd12ae273e8a85ea";
+    version = "0b84e4858deb35586f3be60d5cc3c724b63c1fc6";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "59625d4838bef6a375e2f24ebd12ae273e8a85ea";
+      rev = "0b84e4858deb35586f3be60d5cc3c724b63c1fc6";
       fetchSubmodules = false;
-      sha256 = "sha256-KZr6lqQXvMeIkBCooxRfJX7mbEut3Qi5szYXKVJkfuk=";
+      sha256 = "sha256-CI3BoDvjDrJHSrw5I3Eli1+ugriBB0NRMixT9nh4mc8=";
     });
   };
   spicetify-themes = {
@@ -1046,13 +1046,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "1a3aab32ec29abb8606755d3af93a45c675a1790";
+    version = "960607b3c8f9fbca70960c32e004b85e8e22cb09";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "1a3aab32ec29abb8606755d3af93a45c675a1790";
+      rev = "960607b3c8f9fbca70960c32e004b85e8e22cb09";
       fetchSubmodules = false;
-      sha256 = "sha256-qpicHbmuxkJnY0E2o0HWjcCeTRBdyrCKFH/xDNNnS9c=";
+      sha256 = "sha256-5QeizLEp0MrQKsgTsncMepABBtuSwaji0j1a6n9BnMk=";
     });
   };
   ultimmc = {
