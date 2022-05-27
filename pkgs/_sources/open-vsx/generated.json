@@ -6983,7 +6983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "phil294-coffeesense",
-    "version": "1.11.0",
+    "version": "1.12.0",
     "passthru": {
       "name": "coffeesense",
       "license": "MIT",
@@ -6991,10 +6991,10 @@
       "description": "IntelliSense for CoffeeScript based on its compiled JavaScript output"
     },
     "src": {
-      "url": "https://open-vsx.org/api/phil294/coffeesense/1.11.0/file/phil294.coffeesense-1.11.0.vsix",
+      "url": "https://open-vsx.org/api/phil294/coffeesense/1.12.0/file/phil294.coffeesense-1.12.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dkgpkGxetRaw9jFkpIekmFVhTsSSwhxv/ArEa7Zg2Qc="
+      "sha256": "sha256-uERl+EXVW1qmhA9Ahj+4Dq8NkIGvBLcDnxgozCMRtUg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14263,7 +14263,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vlanguage-vscode-vlang",
-    "version": "0.1.11",
+    "version": "0.1.13",
     "passthru": {
       "name": "vscode-vlang",
       "license": "MIT",
@@ -14271,10 +14271,10 @@
       "description": "V language support (syntax highlighting, formatter, snippets) for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.11/file/vlanguage.vscode-vlang-0.1.11.vsix",
+      "url": "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.13/file/vlanguage.vscode-vlang-0.1.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-VZ86DmWn4fd2hGrd7w/a6qQGGfv1Fgy2G07BDOtYyDE="
+      "sha256": "sha256-iE3UXtE/CPTaxqRW6dvfHYohfOrA1SZZ7OVNXG/4AKs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25963,7 +25963,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Nightrains-robloxlsp",
-    "version": "1.5.9",
+    "version": "1.5.10",
     "passthru": {
       "name": "robloxlsp",
       "license": "MIT",
@@ -25971,10 +25971,10 @@
       "description": "Roblox Luau Language Server."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.9/file/Nightrains.robloxlsp-1.5.9.vsix",
+      "url": "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.10/file/Nightrains.robloxlsp-1.5.10.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-T9F8Ex9LOAIY6yuQ9nR6FpKlSm1p3/QBwUi9ej4ZCrg="
+      "sha256": "sha256-r/ptiMZfPVGYbrQSSb+1S2okNYme0Plg8LsL6WX5gbY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -35843,7 +35843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-azuretools-vscode-azurefunctions",
-    "version": "1.7.0",
+    "version": "1.7.1",
     "passthru": {
       "name": "vscode-azurefunctions",
       "license": "MIT",
@@ -35851,10 +35851,10 @@
       "description": "An Azure Functions extension for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.0/file/ms-azuretools.vscode-azurefunctions-1.7.0.vsix",
+      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.1/file/ms-azuretools.vscode-azurefunctions-1.7.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qN283fJlcIhQ5m3r5YMcwq+buMpHAfbrmY3AnM33VcM="
+      "sha256": "sha256-+bCSnN/6j7DvjejEliFDIe0xWk1mCDUhXsXWexJoeHc="
     },
     "extract": null,
     "rustGitDeps": null

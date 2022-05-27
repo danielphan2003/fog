@@ -2523,10 +2523,10 @@
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
-    version = "1.5.9";
+    version = "1.5.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.9/file/Nightrains.robloxlsp-1.5.9.vsix";
-      sha256 = "sha256-T9F8Ex9LOAIY6yuQ9nR6FpKlSm1p3/QBwUi9ej4ZCrg=";
+      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.10/file/Nightrains.robloxlsp-1.5.10.vsix";
+      sha256 = "sha256-r/ptiMZfPVGYbrQSSb+1S2okNYme0Plg8LsL6WX5gbY=";
     };
     name = "robloxlsp";
     license = "MIT";
@@ -13083,10 +13083,10 @@
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.0/file/ms-azuretools.vscode-azurefunctions-1.7.0.vsix";
-      sha256 = "sha256-qN283fJlcIhQ5m3r5YMcwq+buMpHAfbrmY3AnM33VcM=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.1/file/ms-azuretools.vscode-azurefunctions-1.7.1.vsix";
+      sha256 = "sha256-+bCSnN/6j7DvjejEliFDIe0xWk1mCDUhXsXWexJoeHc=";
     };
     name = "vscode-azurefunctions";
     license = "MIT";
@@ -14763,10 +14763,10 @@
   };
   phil294-coffeesense = {
     pname = "phil294-coffeesense";
-    version = "1.11.0";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phil294/coffeesense/1.11.0/file/phil294.coffeesense-1.11.0.vsix";
-      sha256 = "sha256-dkgpkGxetRaw9jFkpIekmFVhTsSSwhxv/ArEa7Zg2Qc=";
+      url = "https://open-vsx.org/api/phil294/coffeesense/1.12.0/file/phil294.coffeesense-1.12.0.vsix";
+      sha256 = "sha256-uERl+EXVW1qmhA9Ahj+4Dq8NkIGvBLcDnxgozCMRtUg=";
     };
     name = "coffeesense";
     license = "MIT";
@@ -19083,10 +19083,10 @@
   };
   vlanguage-vscode-vlang = {
     pname = "vlanguage-vscode-vlang";
-    version = "0.1.11";
+    version = "0.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.11/file/vlanguage.vscode-vlang-0.1.11.vsix";
-      sha256 = "sha256-VZ86DmWn4fd2hGrd7w/a6qQGGfv1Fgy2G07BDOtYyDE=";
+      url = "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.13/file/vlanguage.vscode-vlang-0.1.13.vsix";
+      sha256 = "sha256-iE3UXtE/CPTaxqRW6dvfHYohfOrA1SZZ7OVNXG/4AKs=";
     };
     name = "vscode-vlang";
     license = "MIT";
