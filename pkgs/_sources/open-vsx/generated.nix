@@ -651,10 +651,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.1/file/DCsunset.vscode-modal-editor-1.2.1.vsix";
-      sha256 = "sha256-rO3d69G2ziirbs5k5E41KfVLunbdwfEeqD8SneQJZWY=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.2.2/file/DCsunset.vscode-modal-editor-1.2.2.vsix";
+      sha256 = "sha256-yaSy7zMjiTVNcvNTOt1Xgt1vAXTt0QBCcP6itZPSe1c=";
     };
     name = "vscode-modal-editor";
     license = "AGPL-3.0";
@@ -5295,10 +5295,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.19.1";
+    version = "0.19.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.1/file/astro-build.astro-vscode-0.19.1.vsix";
-      sha256 = "sha256-kEhhjB6Yufl1DY36SvnpOk4mz+D/yGC448av+bEoG2k=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.2/file/astro-build.astro-vscode-0.19.2.vsix";
+      sha256 = "sha256-7smuG7meCSW2WPUymP8pNOmmXv9PhySk+5T5NfqkxGM=";
     };
     name = "astro-vscode";
     license = "MIT";
@@ -6855,15 +6855,15 @@
   };
   cweijan-vscode-office = {
     pname = "cweijan-vscode-office";
-    version = "2.4.1";
+    version = "2.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-office/2.4.1/file/cweijan.vscode-office-2.4.1.vsix";
-      sha256 = "sha256-1BbPS9UptJZPmMU2JOYAn/ggZSRImdzyN1NUq559gBU=";
+      url = "https://open-vsx.org/api/cweijan/vscode-office/2.5.5/file/cweijan.vscode-office-2.5.5.vsix";
+      sha256 = "sha256-FlUmNJeV4OzjkeuP6zb82xtwxTZlt4s/yOWPzq93RTw=";
     };
     name = "vscode-office";
     license = "MIT";
     publisher = "cweijan";
-    description = "View word,excel files in vscode.";
+    description = "View word,excel files and using WYSIWYG editor for markdown.";
   };
   cweijan-vscode-postgresql-client2 = {
     pname = "cweijan-vscode-postgresql-client2";
