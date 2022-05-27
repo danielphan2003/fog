@@ -51,11 +51,11 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.19.1";
+    version = "0.19.2";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.19.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "astro-vscode-0.19.1.zip";
-      sha256 = "sha256-487F67makQ4r8P5hRvS9enzZe3729xuL+omesnL2m5E=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.19.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "astro-vscode-0.19.2.zip";
+      sha256 = "sha256-n12615cNwkXQsMuT0IUln+QvIGTX1kvwtBS2Ams5QUc=";
     };
     name = "astro-vscode";
     license = "MIT";
