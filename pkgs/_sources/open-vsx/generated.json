@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.96.2",
+    "version": "0.96.3",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.96.2/file/dendron.nightly-0.96.2.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.96.3/file/dendron.nightly-0.96.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-b6IBZaxd8HbpCltSVhGX72VcoQrUAyn5Rn24u87uGIk="
+      "sha256": "sha256-ygXAHBPTuNSeDXiXbL0IbrS4jUN0NbLTuo67bEO0fQ4="
     },
     "extract": null,
     "rustGitDeps": null

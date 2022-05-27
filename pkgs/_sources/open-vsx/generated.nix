@@ -7335,10 +7335,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.96.2";
+    version = "0.96.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.96.2/file/dendron.nightly-0.96.2.vsix";
-      sha256 = "sha256-b6IBZaxd8HbpCltSVhGX72VcoQrUAyn5Rn24u87uGIk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.96.3/file/dendron.nightly-0.96.3.vsix";
+      sha256 = "sha256-ygXAHBPTuNSeDXiXbL0IbrS4jUN0NbLTuo67bEO0fQ4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
