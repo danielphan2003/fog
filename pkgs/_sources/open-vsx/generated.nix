@@ -5847,10 +5847,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.4.25";
+    version = "2022.5.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.4.25/file/borkdude.clj-kondo-2022.4.25.vsix";
-      sha256 = "sha256-RkI9eZGFKwITwjvNbkglP5NVX+tZ2ygwH6mEFG2WwZk=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.27/file/borkdude.clj-kondo-2022.5.27.vsix";
+      sha256 = "sha256-113W2vJK8nnWg3sjUTCspqZHVdhMJEhCxTa6re6Sjro=";
     };
     name = "clj-kondo";
     license = "EPL-1";
