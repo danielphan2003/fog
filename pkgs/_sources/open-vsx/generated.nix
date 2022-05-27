@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.975";
+    version = "31.0.976";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.975/file/Prisma.prisma-insider-31.0.975.vsix";
-      sha256 = "sha256-hFYcjz86D6ckkL85Uy8+JzMIjmZFwWkfrCgD9i2kKss=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.976/file/Prisma.prisma-insider-31.0.976.vsix";
+      sha256 = "sha256-AiFtsibKbQnxEeklx30bbXpAqbvhFGET5zKs9vFzbE8=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
