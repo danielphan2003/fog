@@ -15799,6 +15799,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "cloudstudio-deploykit": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-deploykit",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "deploykit",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "Cloud Studio äºé¨ç½²å¥ä»¶"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-RutrneL4G0JYR/E/KSVyH3nHsKPTF1mty3bMrJ+88pI="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "TshakaEricLekholoane-hy": {
     "pinned": false,
     "cargoLock": null,
@@ -16575,6 +16595,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-0WsUvD66CF5L3hCqKpazVhhZfBw/vOxE9UOOgCfX2cA="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "cloudstudio-common": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-common",
+    "version": "0.0.2",
+    "passthru": {
+      "name": "common",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "This extension provides support for Cloud Stuido Web integration."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/common/0.0.2/file/cloudstudio.common-0.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-8seTZBdgJjbsKwutVXwBPlcMbXmhohWV3zuwmJtnfLI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -19275,6 +19315,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-Ac7TAL60E/BiuTobX/DgVWZnK0JPIX/1Nhx3jHa6pCE="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "cloudstudio-coding": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-coding",
+    "version": "0.0.3",
+    "passthru": {
+      "name": "coding",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "Remotely browse and edit any CODING repository"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/coding/0.0.3/file/cloudstudio.coding-0.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-DVVItz/1fzaUASa4oqcqvfyuSkfVJHrjQ4sucFLzI9M="
     },
     "extract": null,
     "rustGitDeps": null

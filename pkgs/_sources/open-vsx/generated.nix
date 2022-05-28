@@ -6397,6 +6397,18 @@
     publisher = "clinyong";
     description = "Visual Studio Code extension for CSS Modules";
   };
+  cloudstudio-coding = {
+    pname = "cloudstudio-coding";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.3/file/cloudstudio.coding-0.0.3.vsix";
+      sha256 = "sha256-DVVItz/1fzaUASa4oqcqvfyuSkfVJHrjQ4sucFLzI9M=";
+    };
+    name = "coding";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "Remotely browse and edit any CODING repository";
+  };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
     version = "0.0.10";
@@ -6408,6 +6420,30 @@
     license = "MIT";
     publisher = "cloudstudio";
     description = "Remotely browse and edit any CODING repository";
+  };
+  cloudstudio-common = {
+    pname = "cloudstudio-common";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.2/file/cloudstudio.common-0.0.2.vsix";
+      sha256 = "sha256-8seTZBdgJjbsKwutVXwBPlcMbXmhohWV3zuwmJtnfLI=";
+    };
+    name = "common";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "This extension provides support for Cloud Stuido Web integration.";
+  };
+  cloudstudio-deploykit = {
+    pname = "cloudstudio-deploykit";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix";
+      sha256 = "sha256-RutrneL4G0JYR/E/KSVyH3nHsKPTF1mty3bMrJ+88pI=";
+    };
+    name = "deploykit";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "Cloud Studio \20113\37096\32626\22871\20214";
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
