@@ -18003,10 +18003,10 @@
   };
   telesoho-vscode-markdown-paste-image = {
     pname = "telesoho-vscode-markdown-paste-image";
-    version = "0.19.0";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.19.0/file/telesoho.vscode-markdown-paste-image-0.19.0.vsix";
-      sha256 = "sha256-8bfsW21SRZWvRaA9evAPmx03iWu6yOdHob+v6JrGIoU=";
+      url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.19.1/file/telesoho.vscode-markdown-paste-image-0.19.1.vsix";
+      sha256 = "sha256-NFHsJnTMgQtq1dHNsMvm8wVC6HMHFULfp8kPn1fb0Ek=";
     };
     name = "vscode-markdown-paste-image";
     license = "(MIT)";
