@@ -17907,10 +17907,10 @@
   };
   syler-sass-indented = {
     pname = "syler-sass-indented";
-    version = "1.8.19";
+    version = "1.8.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/syler/sass-indented/1.8.19/file/syler.sass-indented-1.8.19.vsix";
-      sha256 = "sha256-Ki8dtFMTr8Y0tcAaootjoPUqZms1ausxrQAgIW0RiMI=";
+      url = "https://open-vsx.org/api/syler/sass-indented/1.8.20/file/syler.sass-indented-1.8.20.vsix";
+      sha256 = "sha256-U1G6cqSWVGf9vS55YADH63ekWNuAQNLbA6FQhvhrcAo=";
     };
     name = "sass-indented";
     license = "MIT";

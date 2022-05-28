@@ -33123,7 +33123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "syler-sass-indented",
-    "version": "1.8.19",
+    "version": "1.8.20",
     "passthru": {
       "name": "sass-indented",
       "license": "MIT",
@@ -33131,10 +33131,10 @@
       "description": "Indented Sass syntax Highlighting, Autocomplete & Formatter"
     },
     "src": {
-      "url": "https://open-vsx.org/api/syler/sass-indented/1.8.19/file/syler.sass-indented-1.8.19.vsix",
+      "url": "https://open-vsx.org/api/syler/sass-indented/1.8.20/file/syler.sass-indented-1.8.20.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Ki8dtFMTr8Y0tcAaootjoPUqZms1ausxrQAgIW0RiMI="
+      "sha256": "sha256-U1G6cqSWVGf9vS55YADH63ekWNuAQNLbA6FQhvhrcAo="
     },
     "extract": null,
     "rustGitDeps": null
