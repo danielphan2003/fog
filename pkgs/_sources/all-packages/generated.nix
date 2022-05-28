@@ -206,17 +206,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "8bb58061fdc709f38b264c30d83c050477a89f9a";
+    version = "39bc84d81c07049f803ec75c8cd706e8099b8481";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "8bb58061fdc709f38b264c30d83c050477a89f9a";
+      rev = "39bc84d81c07049f803ec75c8cd706e8099b8481";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-MZ5EI5kJ5bSm2jiArWt5NunIaevLWc0AsN41otJl8YQ=";
+      sha256 = "sha256-QZt7riq/sGO4R/DyYPtuOgfajxzT1D0E4F9cHstjRXg=";
     };
     cargoLock = {
-      lockFile = ./conduit-8bb58061fdc709f38b264c30d83c050477a89f9a/Cargo.lock;
+      lockFile = ./conduit-39bc84d81c07049f803ec75c8cd706e8099b8481/Cargo.lock;
       outputHashes = {
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
@@ -1008,13 +1008,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "575aacb1e2a907f9eed9bc2f9eac14460176b47d";
+    version = "4d85cf586bd89713846d2787f04430e7b592ae38";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "575aacb1e2a907f9eed9bc2f9eac14460176b47d";
+      rev = "4d85cf586bd89713846d2787f04430e7b592ae38";
       fetchSubmodules = false;
-      sha256 = "sha256-J2xIl9jtZZTVpeP1iHGRnswigfiNSR9SMgzg6xV8EbA=";
+      sha256 = "sha256-Z0199gZQycU8Cez8sazslOFWGP9ZFCJ7HT47qurb1ew=";
     });
   };
   tailscale-systray = {
