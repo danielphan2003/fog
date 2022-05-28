@@ -3171,10 +3171,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.2316";
+    version = "2022.5.2713";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2316/file/Slint.slint-nightly-2022.5.2316.vsix";
-      sha256 = "sha256-XB3JIu/s5W/anqS/46pJqU2wjFTqWAAP13VvPHkh0Z0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2713/file/Slint.slint-nightly-2022.5.2713.vsix";
+      sha256 = "sha256-WSt1KhtC7T/fRb0Z6lQgvCQlWVQdzQNHua0rxk+s9W8=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -7791,15 +7791,15 @@
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
-    version = "3.3.2";
+    version = "4.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/efoerster/texlab/3.3.2/file/efoerster.texlab-3.3.2.vsix";
-      sha256 = "sha256-Cw9SFdffYuKoeD9hWGLEEj1C+J4cqAtDPRaq8kmOBjQ=";
+      url = "https://open-vsx.org/api/efoerster/texlab/4.0.0/file/efoerster.texlab-4.0.0.vsix";
+      sha256 = "sha256-hFLtv3YmV7kjm8sYDxqzdyKizZd+mw9XnQUGpJ/uu8w=";
     };
     name = "texlab";
     license = "MIT";
     publisher = "efoerster";
-    description = "LaTeX for Visual Studio Code";
+    description = "LaTeX and BibTeX language support for Visual Studio Code";
   };
   eg2-vscode-npm-script = {
     pname = "eg2-vscode-npm-script";
@@ -13083,10 +13083,10 @@
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
-    version = "1.7.1";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.1/file/ms-azuretools.vscode-azurefunctions-1.7.1.vsix";
-      sha256 = "sha256-+bCSnN/6j7DvjejEliFDIe0xWk1mCDUhXsXWexJoeHc=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.2/file/ms-azuretools.vscode-azurefunctions-1.7.2.vsix";
+      sha256 = "sha256-cQ+uLP+7LFGSehm9jKxUkpm+6NLDIWhqyqLju9F8430=";
     };
     name = "vscode-azurefunctions";
     license = "MIT";

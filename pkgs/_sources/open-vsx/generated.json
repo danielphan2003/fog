@@ -15943,7 +15943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.2316",
+    "version": "2022.5.2713",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -15951,10 +15951,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2316/file/Slint.slint-nightly-2022.5.2316.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2713/file/Slint.slint-nightly-2022.5.2713.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XB3JIu/s5W/anqS/46pJqU2wjFTqWAAP13VvPHkh0Z0="
+      "sha256": "sha256-WSt1KhtC7T/fRb0Z6lQgvCQlWVQdzQNHua0rxk+s9W8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28703,18 +28703,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "efoerster-texlab",
-    "version": "3.3.2",
+    "version": "4.0.0",
     "passthru": {
       "name": "texlab",
       "license": "MIT",
       "publisher": "efoerster",
-      "description": "LaTeX for Visual Studio Code"
+      "description": "LaTeX and BibTeX language support for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/efoerster/texlab/3.3.2/file/efoerster.texlab-3.3.2.vsix",
+      "url": "https://open-vsx.org/api/efoerster/texlab/4.0.0/file/efoerster.texlab-4.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Cw9SFdffYuKoeD9hWGLEEj1C+J4cqAtDPRaq8kmOBjQ="
+      "sha256": "sha256-hFLtv3YmV7kjm8sYDxqzdyKizZd+mw9XnQUGpJ/uu8w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -35843,7 +35843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-azuretools-vscode-azurefunctions",
-    "version": "1.7.1",
+    "version": "1.7.2",
     "passthru": {
       "name": "vscode-azurefunctions",
       "license": "MIT",
@@ -35851,10 +35851,10 @@
       "description": "An Azure Functions extension for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.1/file/ms-azuretools.vscode-azurefunctions-1.7.1.vsix",
+      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.2/file/ms-azuretools.vscode-azurefunctions-1.7.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+bCSnN/6j7DvjejEliFDIe0xWk1mCDUhXsXWexJoeHc="
+      "sha256": "sha256-cQ+uLP+7LFGSehm9jKxUkpm+6NLDIWhqyqLju9F8430="
     },
     "extract": null,
     "rustGitDeps": null
