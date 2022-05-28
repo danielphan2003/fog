@@ -8031,10 +8031,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.2.1";
+    version = "6.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.2.1/file/entan-gl.cc65-vice-6.2.1.vsix";
-      sha256 = "sha256-zekcsOFzPvEkB5rRogeqY0Wqzf7EeqdBlXf2w9ix6pM=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.3.1/file/entan-gl.cc65-vice-6.3.1.vsix";
+      sha256 = "sha256-CcVh+FymFtPh4ubYHi0GpN8L3Zh6BC9OogJkGqPZTuo=";
     };
     name = "cc65-vice";
     license = "MIT";
@@ -13920,6 +13920,18 @@
     license = "MIT";
     publisher = "nanaian";
     description = "Language support for the Star Rod Paper Mario modding tool.";
+  };
+  nasmevka-regard = {
+    pname = "nasmevka-regard";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/nasmevka/regard/1.1.0/file/nasmevka.regard-1.1.0.vsix";
+      sha256 = "sha256-8TSx+Yjf+rpyiNZqfF6JHmr70z+V08qp/Pb4z+gv5aw=";
+    };
+    name = "regard";
+    license = "MIT";
+    publisher = "nasmevka";
+    description = "A high contrast theme focused on code comprehension and minimizing eyes tiredness.";
   };
   naumovs-color-highlight = {
     pname = "naumovs-color-highlight";
