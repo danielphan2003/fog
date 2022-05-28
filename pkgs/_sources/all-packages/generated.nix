@@ -986,13 +986,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "5734188fd623f4088892ac3ee6a178d98a6db633";
+    version = "55702663b87499096c02a6586217b2447e5bcfce";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "5734188fd623f4088892ac3ee6a178d98a6db633";
+      rev = "55702663b87499096c02a6586217b2447e5bcfce";
       fetchSubmodules = false;
-      sha256 = "sha256-DXr8+x98eogx0UhuRG1SQwKI7FL1tJPymsUokFaIjNc=";
+      sha256 = "sha256-g1spYIb23DWhyfqvIujHW+FBaqlmvNkV72cGklT4vWo=";
     });
   };
   swaylock-effects = {
