@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "7f1f14fe85f53fcf12849632d3f003f00cca7578",
+    "version": "b1b24cb21a36713aa7c8c0d39464504c97423139",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-gI+H+a7tw/W53js0p1Zuvmqkp5hiHYvzWmIeY8G7nh4=",
-      "rev": "7f1f14fe85f53fcf12849632d3f003f00cca7578"
+      "sha256": "sha256-vAtx9zeXAFTLdscis7lM77i1AIScePvqjgXtyYuif4s=",
+      "rev": "b1b24cb21a36713aa7c8c0d39464504c97423139"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "760740905e711771144fce541da432b7b3c671ff",
+    "version": "575aacb1e2a907f9eed9bc2f9eac14460176b47d",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-HtvaUYCyU0pPAWZSJgfAiwkckwLRC5CTQCc/mcKlTXc=",
-      "rev": "760740905e711771144fce541da432b7b3c671ff"
+      "sha256": "sha256-J2xIl9jtZZTVpeP1iHGRnswigfiNSR9SMgzg6xV8EbA=",
+      "rev": "575aacb1e2a907f9eed9bc2f9eac14460176b47d"
     },
     "extract": null,
     "rustGitDeps": null
