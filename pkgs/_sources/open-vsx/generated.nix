@@ -5847,10 +5847,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.5.28";
+    version = "2022.5.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.28/file/borkdude.clj-kondo-2022.5.28.vsix";
-      sha256 = "sha256-wFsWuRHO/DhL02XZt6W26C0JvRLhC+SpjFjjrSuy1V4=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.29/file/borkdude.clj-kondo-2022.5.29.vsix";
+      sha256 = "sha256-oePQ1zCuIZRzxElWbJLCm4HrHkfnhCEEJH/qX4QySec=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -6867,15 +6867,15 @@
   };
   cweijan-vscode-database-client2 = {
     pname = "cweijan-vscode-database-client2";
-    version = "4.1.0";
+    version = "5.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-database-client2/4.1.0/file/cweijan.vscode-database-client2-4.1.0.vsix";
-      sha256 = "sha256-qwDo7Asij47MTSJs9NSMgntdCR4OrFBquk5QHBlClME=";
+      url = "https://open-vsx.org/api/cweijan/vscode-database-client2/5.3.7/file/cweijan.vscode-database-client2-5.3.7.vsix";
+      sha256 = "sha256-wePeJFM43HZmrZwB8/dU+aXeMeJ3vEX6qQWy3XfmVPI=";
     };
     name = "vscode-database-client2";
     license = "MIT";
     publisher = "cweijan";
-    description = "Database Client for vscode";
+    description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.";
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
@@ -16899,10 +16899,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.44";
+    version = "0.0.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.44/file/shivaprasanth.dothttp-code-0.0.44.vsix";
-      sha256 = "sha256-tjrhAi17osren/XMhk7HJQmAkG54zPKA8o/R3fV6aao=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.45/file/shivaprasanth.dothttp-code-0.0.45.vsix";
+      sha256 = "sha256-LoQEhADE2vAqbTZtv7kOoXEWKCSqI4JiDJLd8FqRM8I=";
     };
     name = "dothttp-code";
     license = "Apache-2.0";
