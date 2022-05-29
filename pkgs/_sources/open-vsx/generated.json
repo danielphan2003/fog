@@ -9503,7 +9503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrilletuzi-angular-schematics",
-    "version": "5.2.2",
+    "version": "5.2.3",
     "passthru": {
       "name": "angular-schematics",
       "license": "MIT",
@@ -9511,10 +9511,10 @@
       "description": "Angular schematics (CLI commands) from files Explorer or Command Palette."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.2/file/cyrilletuzi.angular-schematics-5.2.2.vsix",
+      "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.3/file/cyrilletuzi.angular-schematics-5.2.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cb2jvmAQirPowP3HhsdCOWPJ/7ZR8ykdoLIz0EA3cNk="
+      "sha256": "sha256-OqHSPs2HJ4xhdKLIVrAymyMuBz/srEaqdljPkL99GP0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25183,7 +25183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-ts-essential-plugins",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "passthru": {
       "name": "ts-essential-plugins",
       "license": "MIT",
@@ -25191,10 +25191,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.5/file/zardoy.ts-essential-plugins-0.0.5.vsix",
+      "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.6/file/zardoy.ts-essential-plugins-0.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DQrew6JN9h+2ClGX/CoLm66CxfOaHSywG8E0YlTJqiM="
+      "sha256": "sha256-ZvBoF0hwrBySAoWbGxnFNMMBeshIPbFAmjOPFjeVUl0="
     },
     "extract": null,
     "rustGitDeps": null

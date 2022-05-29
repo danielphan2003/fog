@@ -6951,10 +6951,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.2.2";
+    version = "5.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.2/file/cyrilletuzi.angular-schematics-5.2.2.vsix";
-      sha256 = "sha256-cb2jvmAQirPowP3HhsdCOWPJ/7ZR8ykdoLIz0EA3cNk=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.3/file/cyrilletuzi.angular-schematics-5.2.3.vsix";
+      sha256 = "sha256-OqHSPs2HJ4xhdKLIVrAymyMuBz/srEaqdljPkL99GP0=";
     };
     name = "angular-schematics";
     license = "MIT";
@@ -21279,10 +21279,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.5/file/zardoy.ts-essential-plugins-0.0.5.vsix";
-      sha256 = "sha256-DQrew6JN9h+2ClGX/CoLm66CxfOaHSywG8E0YlTJqiM=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.6/file/zardoy.ts-essential-plugins-0.0.6.vsix";
+      sha256 = "sha256-ZvBoF0hwrBySAoWbGxnFNMMBeshIPbFAmjOPFjeVUl0=";
     };
     name = "ts-essential-plugins";
     license = "MIT";
