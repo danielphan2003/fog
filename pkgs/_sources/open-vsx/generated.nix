@@ -375,10 +375,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.6.4";
+    version = "3.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.6.4/file/CL.eide-3.6.4.vsix";
-      sha256 = "sha256-pdlnzamuDHNS/fW8M/hvMsZDfV/BaHewpWj2PavEOTY=";
+      url = "https://open-vsx.org/api/CL/eide/3.7.0/file/CL.eide-3.7.0.vsix";
+      sha256 = "sha256-JitwKHWrC/T1mW2kojrBUsywulQ1ZEO04znpiY/wP8E=";
     };
     name = "eide";
     license = "MIT";
@@ -3783,10 +3783,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.9.3";
+    version = "9.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.9.3/file/YXL.cloudmusic-9.9.3.vsix";
-      sha256 = "sha256-y8QfEXuzX12jS/HVesOSlT1A6zHeeV+x9Sn9Uc+lFRM=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.0/file/YXL.cloudmusic-9.10.0.vsix";
+      sha256 = "sha256-IO9KJnBefwpgx98TrtNQE4ZOKuMHbeVFlQkIzTj0BlE=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -6879,10 +6879,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.3.6";
+    version = "5.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.6/file/cweijan.vscode-mysql-client2-5.3.6.vsix";
-      sha256 = "sha256-m4JlCK8EeD0aY+xljf+spCKVBzYpoR7JSuO/aphlpxU=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.7/file/cweijan.vscode-mysql-client2-5.3.7.vsix";
+      sha256 = "sha256-RRdgfTwe5LH1BnGyaL1j+xWLVuFcuzVejJ02KxMGXTM=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
