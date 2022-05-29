@@ -3339,10 +3339,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.51";
+    version = "3.5.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.51/file/TabNine.tabnine-vscode-3.5.51.vsix";
-      sha256 = "sha256-wMq5H9xp5I1FZnpQs0erZ1aDBgKspMNsItWOMCt91mU=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.53/file/TabNine.tabnine-vscode-3.5.53.vsix";
+      sha256 = "sha256-QinVGJCKsxRBIZ4ubHKmZeit4UyA/oYTPEub9X5lcic=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -12901,6 +12901,18 @@
     publisher = "mjcrouch";
     description = "(2020 Fork) Perforce integration with VS Code's SCM features";
   };
+  mjmlio-vscode-mjml = {
+    pname = "mjmlio-vscode-mjml";
+    version = "1.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mjmlio/vscode-mjml/1.0.5/file/mjmlio.vscode-mjml-1.0.5.vsix";
+      sha256 = "sha256-H0xPbwxOMi0rH2881l2Q8kYU0E5+Q3m9PXfMatd/lRs=";
+    };
+    name = "vscode-mjml";
+    license = "MIT";
+    publisher = "mjmlio";
+    description = "MJML preview, lint, compile for Visual Studio Code.";
+  };
   mkhl-direnv = {
     pname = "mkhl-direnv";
     version = "0.6.1";
@@ -15039,10 +15051,10 @@
   };
   piousdeer-adwaita-theme = {
     pname = "piousdeer-adwaita-theme";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.5/file/piousdeer.adwaita-theme-1.0.5.vsix";
-      sha256 = "sha256-QNCQY5kByNP5O9+as4JFmB4hY3RyVGyCTI0urQQH31E=";
+      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.6/file/piousdeer.adwaita-theme-1.0.6.vsix";
+      sha256 = "sha256-iCoz9Yk0uXmKQIc+T5tLNUME15qTjQs3s8xY12s3+5o=";
     };
     name = "adwaita-theme";
     license = "GPL-3.0-only";

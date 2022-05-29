@@ -10123,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.51",
+    "version": "3.5.53",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -10131,10 +10131,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.51/file/TabNine.tabnine-vscode-3.5.51.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.53/file/TabNine.tabnine-vscode-3.5.53.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-wMq5H9xp5I1FZnpQs0erZ1aDBgKspMNsItWOMCt91mU="
+      "sha256": "sha256-QinVGJCKsxRBIZ4ubHKmZeit4UyA/oYTPEub9X5lcic="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10523,7 +10523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "piousdeer-adwaita-theme",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "passthru": {
       "name": "adwaita-theme",
       "license": "GPL-3.0-only",
@@ -10531,10 +10531,10 @@
       "description": "Theme for the GNOME desktop"
     },
     "src": {
-      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.5/file/piousdeer.adwaita-theme-1.0.5.vsix",
+      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.6/file/piousdeer.adwaita-theme-1.0.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QNCQY5kByNP5O9+as4JFmB4hY3RyVGyCTI0urQQH31E="
+      "sha256": "sha256-iCoz9Yk0uXmKQIc+T5tLNUME15qTjQs3s8xY12s3+5o="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32115,6 +32115,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-731DG5lnBzId96khko8e5k7V8MrI+lx8pOHxxzLZsA0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "mjmlio-vscode-mjml": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "mjmlio-vscode-mjml",
+    "version": "1.0.5",
+    "passthru": {
+      "name": "vscode-mjml",
+      "license": "MIT",
+      "publisher": "mjmlio",
+      "description": "MJML preview, lint, compile for Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/mjmlio/vscode-mjml/1.0.5/file/mjmlio.vscode-mjml-1.0.5.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-H0xPbwxOMi0rH2881l2Q8kYU0E5+Q3m9PXfMatd/lRs="
     },
     "extract": null,
     "rustGitDeps": null
