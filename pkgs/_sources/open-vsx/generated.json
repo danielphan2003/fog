@@ -1603,7 +1603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "idleberg-nsis",
-    "version": "3.49.0",
+    "version": "3.50.0",
     "passthru": {
       "name": "nsis",
       "license": "MIT OR GPL-2.0",
@@ -1611,10 +1611,10 @@
       "description": "Language syntax, IntelliSense and build system for Nullsoft Scriptable Install System (NSIS)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/idleberg/nsis/3.49.0/file/idleberg.nsis-3.49.0.vsix",
+      "url": "https://open-vsx.org/api/idleberg/nsis/3.50.0/file/idleberg.nsis-3.50.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-vVN11cKr2+UrE3s5RtqDhMGjWnb5FHlrrWc43EXz3l8="
+      "sha256": "sha256-GEf8Dph7l1jlxBevHMRH/InIDkhJbAFKSwrNwbxjLJU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7823,7 +7823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.22.0",
+    "version": "1.23.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7831,10 +7831,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.22.0/file/quarto.quarto-1.22.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.23.0/file/quarto.quarto-1.23.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+62Mx7GAocWZXukabhEkVcz8Eqx7yvy8bScJiqoQ1JI="
+      "sha256": "sha256-KWkiI2Hz/51YTxMjgvLrVVid9RdAH7lviWLILSajs44="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25503,7 +25503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "idleberg-haskell-nsis",
-    "version": "1.0.2",
+    "version": "1.1.0",
     "passthru": {
       "name": "haskell-nsis",
       "license": "MIT OR GPL-2.0",
@@ -25511,10 +25511,10 @@
       "description": "Haskell snippets for NSIS"
     },
     "src": {
-      "url": "https://open-vsx.org/api/idleberg/haskell-nsis/1.0.2/file/idleberg.haskell-nsis-1.0.2.vsix",
+      "url": "https://open-vsx.org/api/idleberg/haskell-nsis/1.1.0/file/idleberg.haskell-nsis-1.1.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LJiUIRTgI5vs1ghcfTvKRh2wMdkn6mv+4kV9AOXxjdA="
+      "sha256": "sha256-s3huUA1reY97EeGbvq6OQZ9Ldb/J6sVB026jhdDely0="
     },
     "extract": null,
     "rustGitDeps": null
