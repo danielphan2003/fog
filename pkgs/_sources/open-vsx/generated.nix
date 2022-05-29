@@ -9999,10 +9999,10 @@
   };
   idleberg-haskell-nsis = {
     pname = "idleberg-haskell-nsis";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/haskell-nsis/1.0.2/file/idleberg.haskell-nsis-1.0.2.vsix";
-      sha256 = "sha256-LJiUIRTgI5vs1ghcfTvKRh2wMdkn6mv+4kV9AOXxjdA=";
+      url = "https://open-vsx.org/api/idleberg/haskell-nsis/1.1.0/file/idleberg.haskell-nsis-1.1.0.vsix";
+      sha256 = "sha256-s3huUA1reY97EeGbvq6OQZ9Ldb/J6sVB026jhdDely0=";
     };
     name = "haskell-nsis";
     license = "MIT OR GPL-2.0";
@@ -10059,10 +10059,10 @@
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
-    version = "3.49.0";
+    version = "3.50.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.49.0/file/idleberg.nsis-3.49.0.vsix";
-      sha256 = "sha256-vVN11cKr2+UrE3s5RtqDhMGjWnb5FHlrrWc43EXz3l8=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.50.0/file/idleberg.nsis-3.50.0.vsix";
+      sha256 = "sha256-GEf8Dph7l1jlxBevHMRH/InIDkhJbAFKSwrNwbxjLJU=";
     };
     name = "nsis";
     license = "MIT OR GPL-2.0";
@@ -15399,10 +15399,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.22.0";
+    version = "1.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.22.0/file/quarto.quarto-1.22.0.vsix";
-      sha256 = "sha256-+62Mx7GAocWZXukabhEkVcz8Eqx7yvy8bScJiqoQ1JI=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.23.0/file/quarto.quarto-1.23.0.vsix";
+      sha256 = "sha256-KWkiI2Hz/51YTxMjgvLrVVid9RdAH7lviWLILSajs44=";
     };
     name = "quarto";
     license = "MIT";
