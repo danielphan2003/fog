@@ -32043,7 +32043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Ionide-Ionide-fsharp",
-    "version": "6.0.4",
+    "version": "6.0.5",
     "passthru": {
       "name": "Ionide-fsharp",
       "license": "MIT",
@@ -32051,10 +32051,10 @@
       "description": "F# Language Support, powered by FsAutoComplete"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.4/file/Ionide.Ionide-fsharp-6.0.4.vsix",
+      "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.5/file/Ionide.Ionide-fsharp-6.0.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4Ri6WJqFEhmqHyE8HqltOhxej0htOfsQfsAKaz8/OUU="
+      "sha256": "sha256-6g62lk6RMZ/O7bYTiLbvZV0+IFEiuGM/BL4dK+cVAvk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -35095,6 +35095,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-jZY3VrNyEYXDOy4uhcHKJTJs13Nml7fkF0KbsDhxJ2M="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "RomainMenke-csstools-design-tokens": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "RomainMenke-csstools-design-tokens",
+    "version": "1.0.2",
+    "passthru": {
+      "name": "csstools-design-tokens",
+      "license": "MIT",
+      "publisher": "RomainMenke",
+      "description": "Beta extension to enable auto complete and IDE support for CSSTools Design Tokens"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.0.2/file/RomainMenke.csstools-design-tokens-1.0.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-sYdJ89+/v/jgvFxPne1sHAot4LMpErMGtygUdyxEct8="
     },
     "extract": null,
     "rustGitDeps": null

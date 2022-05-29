@@ -1623,10 +1623,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "6.0.4";
+    version = "6.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.4/file/Ionide.Ionide-fsharp-6.0.4.vsix";
-      sha256 = "sha256-4Ri6WJqFEhmqHyE8HqltOhxej0htOfsQfsAKaz8/OUU=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.5/file/Ionide.Ionide-fsharp-6.0.5.vsix";
+      sha256 = "sha256-6g62lk6RMZ/O7bYTiLbvZV0+IFEiuGM/BL4dK+cVAvk=";
     };
     name = "Ionide-fsharp";
     license = "MIT";
@@ -3000,6 +3000,18 @@
     license = "MIT";
     publisher = "RokuCommunity";
     description = "Language support for Roku's BrightScript language.";
+  };
+  RomainMenke-csstools-design-tokens = {
+    pname = "RomainMenke-csstools-design-tokens";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.0.2/file/RomainMenke.csstools-design-tokens-1.0.2.vsix";
+      sha256 = "sha256-sYdJ89+/v/jgvFxPne1sHAot4LMpErMGtygUdyxEct8=";
+    };
+    name = "csstools-design-tokens";
+    license = "MIT";
+    publisher = "RomainMenke";
+    description = "Beta extension to enable auto complete and IDE support for CSSTools Design Tokens";
   };
   RoweWilsonFrederiskHolme-wikitext = {
     pname = "RoweWilsonFrederiskHolme-wikitext";
