@@ -20629,6 +20629,18 @@
     publisher = "wesbos";
     description = "\128293 Official theme by Wes Bos.";
   };
+  wesleyegberto-vscode-java-tests = {
+    pname = "wesleyegberto-vscode-java-tests";
+    version = "1.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wesleyegberto/vscode-java-tests/1.5.0/file/wesleyegberto.vscode-java-tests-1.5.0.vsix";
+      sha256 = "sha256-oneB3R4h4yHrpEwdSC5cJLkvlUP+r4/iKURM7D6dQ04=";
+    };
+    name = "vscode-java-tests";
+    license = "MIT";
+    publisher = "wesleyegberto";
+    description = "Extension to help write tests in Java.";
+  };
   while-scorpio = {
     pname = "while-scorpio";
     version = "2.0.12";

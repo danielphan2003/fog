@@ -17219,6 +17219,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "wesleyegberto-vscode-java-tests": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "wesleyegberto-vscode-java-tests",
+    "version": "1.5.0",
+    "passthru": {
+      "name": "vscode-java-tests",
+      "license": "MIT",
+      "publisher": "wesleyegberto",
+      "description": "Extension to help write tests in Java."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/wesleyegberto/vscode-java-tests/1.5.0/file/wesleyegberto.vscode-java-tests-1.5.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-oneB3R4h4yHrpEwdSC5cJLkvlUP+r4/iKURM7D6dQ04="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "juanblanco-solidity": {
     "pinned": false,
     "cargoLock": null,
