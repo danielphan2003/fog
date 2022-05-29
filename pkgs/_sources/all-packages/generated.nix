@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "e4fe9a248384d72584c442adf82a0ccfc21381a1";
+    version = "3e40793db89b3e4aa4ac325150b8ef85a5aeda75";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "e4fe9a248384d72584c442adf82a0ccfc21381a1";
+      rev = "3e40793db89b3e4aa4ac325150b8ef85a5aeda75";
       fetchSubmodules = false;
-      sha256 = "sha256-q4arUiHcAvkytcxnbLbMRzFVOgWqEXNIZt9Y8l3dAig=";
+      sha256 = "sha256-2JAE8QQVmciM1whz33Rn6XJOstTU/vdtgp2o+xFtitE=";
     });
   };
   caddy = {
@@ -198,10 +198,10 @@
   };
   cinny = {
     pname = "cinny";
-    version = "2.0.3";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://github.com/ajbura/cinny/releases/download/v2.0.3/cinny-v2.0.3.tar.gz";
-      sha256 = "sha256-rbuEc4IxfYwohbzWpnF+4T5l8ZpxG6YfN/3c6xsST44=";
+      url = "https://github.com/ajbura/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz";
+      sha256 = "sha256-D4vA4Fldg+/TicuaXUlwxW50KqDzMBMUCSVpOW0Rulw=";
     };
   };
   conduit = {
