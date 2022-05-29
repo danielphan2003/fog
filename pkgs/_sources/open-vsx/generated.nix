@@ -4491,10 +4491,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.5.917";
+    version = "2022.5.2815";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.917/file/alygin.vscode-tlaplus-nightly-2022.5.917.vsix";
-      sha256 = "sha256-fLVWmpLsAo/86TFFUQY/xKfJoEWPEP1V5NKAhuO3I/8=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix";
+      sha256 = "sha256-j3inzI5Sp038Yc3gAhBlOKTJcVAU/kAPf6FeemkMZuI=";
     };
     name = "vscode-tlaplus-nightly";
     license = "MIT";
@@ -5619,10 +5619,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.277";
+    version = "2.0.278";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.277/file/betterthantomorrow.calva-2.0.277.vsix";
-      sha256 = "sha256-nHkAXdhl2mapT4m1QRAn7bC8R6WFTwm4+v8QpTMvPPg=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.278/file/betterthantomorrow.calva-2.0.278.vsix";
+      sha256 = "sha256-zReJ4bZl+pA66+n+dGoFmEwu94FVucAVbbvyN4mvx0M=";
     };
     name = "calva";
     license = "MIT";

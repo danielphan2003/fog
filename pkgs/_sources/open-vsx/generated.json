@@ -13343,7 +13343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "alygin-vscode-tlaplus-nightly",
-    "version": "2022.5.917",
+    "version": "2022.5.2815",
     "passthru": {
       "name": "vscode-tlaplus-nightly",
       "license": "MIT",
@@ -13351,10 +13351,10 @@
       "description": "TLA+ language support (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.917/file/alygin.vscode-tlaplus-nightly-2022.5.917.vsix",
+      "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fLVWmpLsAo/86TFFUQY/xKfJoEWPEP1V5NKAhuO3I/8="
+      "sha256": "sha256-j3inzI5Sp038Yc3gAhBlOKTJcVAU/kAPf6FeemkMZuI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33143,7 +33143,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.277",
+    "version": "2.0.278",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -33151,10 +33151,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.277/file/betterthantomorrow.calva-2.0.277.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.278/file/betterthantomorrow.calva-2.0.278.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nHkAXdhl2mapT4m1QRAn7bC8R6WFTwm4+v8QpTMvPPg="
+      "sha256": "sha256-zReJ4bZl+pA66+n+dGoFmEwu94FVucAVbbvyN4mvx0M="
     },
     "extract": null,
     "rustGitDeps": null
