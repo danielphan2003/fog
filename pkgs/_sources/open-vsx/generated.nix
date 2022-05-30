@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.982";
+    version = "31.0.983";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.982/file/Prisma.prisma-insider-31.0.982.vsix";
-      sha256 = "sha256-/UOBCav/f+1cb91IfxBFqCSkZYo1VPKd2dPLb+9/rss=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.983/file/Prisma.prisma-insider-31.0.983.vsix";
+      sha256 = "sha256-WSH8SRDb8ajqx0TcvnjMgEk4EU+KyZ7yPKBPMVfgVUc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14031,10 +14031,10 @@
   };
   nasmevka-regard = {
     pname = "nasmevka-regard";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nasmevka/regard/1.1.0/file/nasmevka.regard-1.1.0.vsix";
-      sha256 = "sha256-8TSx+Yjf+rpyiNZqfF6JHmr70z+V08qp/Pb4z+gv5aw=";
+      url = "https://open-vsx.org/api/nasmevka/regard/1.2.0/file/nasmevka.regard-1.2.0.vsix";
+      sha256 = "sha256-JanvSONEo0Y7eQ5nDRxeAk0gTgskvwSo+VuRR8TxPfk=";
     };
     name = "regard";
     license = "MIT";
@@ -14991,10 +14991,10 @@
   };
   pilotkid-lodash-import-what-you-need = {
     pname = "pilotkid-lodash-import-what-you-need";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pilotkid/lodash-import-what-you-need/1.0.0/file/pilotkid.lodash-import-what-you-need-1.0.0.vsix";
-      sha256 = "sha256-KexcyJD4j7dB9KPkvLj/1zw/hxOk7WWW4WfbVlFtDsk=";
+      url = "https://open-vsx.org/api/pilotkid/lodash-import-what-you-need/1.1.0/file/pilotkid.lodash-import-what-you-need-1.1.0.vsix";
+      sha256 = "sha256-dWK8RTemv6UJWzlDhBmx4lzb+XVIY+KxnRw8WUgkvHw=";
     };
     name = "lodash-import-what-you-need";
     license = "GPLv3";
@@ -16215,10 +16215,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.32.0";
+    version = "0.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.32.0/file/robocorp.robocorp-code-0.32.0.vsix";
-      sha256 = "sha256-zHqWB89SZxlorxDKWuzJjZvccn9dsNW1I4gAPm1O/IU=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.33.0/file/robocorp.robocorp-code-0.33.0.vsix";
+      sha256 = "sha256-fvnifqPIYoVGo6HsdxSaaHP/KVMOfouhit7hWetvsbg=";
     };
     name = "robocorp-code";
     license = "";
@@ -16227,10 +16227,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.47.2";
+    version = "0.48.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.47.2/file/robocorp.robotframework-lsp-0.47.2.vsix";
-      sha256 = "sha256-dOLXJ/0dJv2CwwgEBaH1Ia5bRQbfKovvSSmriXuAKxA=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.48.0/file/robocorp.robotframework-lsp-0.48.0.vsix";
+      sha256 = "sha256-tdlgYmB5jFXWbqb+4yKmqDIv/eXO23gENXH3n/J9xOs=";
     };
     name = "robotframework-lsp";
     license = "Apache 2.0";
@@ -21567,10 +21567,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.4";
+    version = "0.23.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.4/file/znck.grammarly-0.23.4.vsix";
-      sha256 = "sha256-Nm+vqtMk0nsSvlAm/uzqOAgDEtwI8FXAObIyXxPlgeU=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.5/file/znck.grammarly-0.23.5.vsix";
+      sha256 = "sha256-XQhHFjy512cYqLbvg1O96avQBAM3W2GmmHx4bP/lyE0=";
     };
     name = "grammarly";
     license = "MIT";
