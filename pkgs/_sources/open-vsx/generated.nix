@@ -10467,10 +10467,10 @@
   };
   itemis-xtext-vscode-example = {
     pname = "itemis-xtext-vscode-example";
-    version = "0.0.29";
+    version = "0.0.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/itemis/xtext-vscode-example/0.0.29/file/itemis.xtext-vscode-example-0.0.29.vsix";
-      sha256 = "sha256-RM2A3gD/vTH/bEpf7AKJIHzOWgD6f8Fg9wiVU+Hwea8=";
+      url = "https://open-vsx.org/api/itemis/xtext-vscode-example/0.0.30/file/itemis.xtext-vscode-example-0.0.30.vsix";
+      sha256 = "sha256-xKEK4icuc+6Q5Uj1rf1t9flWCOIApxiXOry/RvkPKGw=";
     };
     name = "xtext-vscode-example";
     license = "EPL-1.0";
@@ -10623,10 +10623,10 @@
   };
   jdinhlife-gruvbox = {
     pname = "jdinhlife-gruvbox";
-    version = "1.5.1";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jdinhlife/gruvbox/1.5.1/file/jdinhlife.gruvbox-1.5.1.vsix";
-      sha256 = "sha256-OMR1Zy5RWGFGp+UQ3TjK4Qy/HCr95oCOvrq6VCp7KJI=";
+      url = "https://open-vsx.org/api/jdinhlife/gruvbox/1.6.0/file/jdinhlife.gruvbox-1.6.0.vsix";
+      sha256 = "sha256-A6QiEjyXN8x7+baGTD0qYiFFlK0nR83HyjRTRwI7RTQ=";
     };
     name = "gruvbox";
     license = "MIT";
@@ -17115,10 +17115,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.5.0/file/signageos.signageos-vscode-sops-beta-0.5.0.vsix";
-      sha256 = "sha256-5roW7Ts4gog+RAWmEok3RkTAgJomJuXIT7igUOp1Qrs=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.0/file/signageos.signageos-vscode-sops-beta-0.6.0.vsix";
+      sha256 = "sha256-SnBzRUXMJLjmWofBfPl14j0r7NWol/Lbn4x8TCp6V9w=";
     };
     name = "signageos-vscode-sops-beta";
     license = "MIT";
@@ -17475,10 +17475,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.7.6";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.7.6/file/statelyai.stately-vscode-1.7.6.vsix";
-      sha256 = "sha256-dIPBdIdxXplZNZgbFswzkwizhXEWoOd0rhJBlhj2reU=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.0/file/statelyai.stately-vscode-1.8.0.vsix";
+      sha256 = "sha256-OeHd/QBxlIvtP4JwWhH7VodAPY/istZ9JZefMD/SwSg=";
     };
     name = "stately-vscode";
     license = "MIT";

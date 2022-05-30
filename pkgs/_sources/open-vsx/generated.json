@@ -3463,7 +3463,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "itemis-xtext-vscode-example",
-    "version": "0.0.29",
+    "version": "0.0.30",
     "passthru": {
       "name": "xtext-vscode-example",
       "license": "EPL-1.0",
@@ -3471,10 +3471,10 @@
       "description": "A simple DSL example for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/itemis/xtext-vscode-example/0.0.29/file/itemis.xtext-vscode-example-0.0.29.vsix",
+      "url": "https://open-vsx.org/api/itemis/xtext-vscode-example/0.0.30/file/itemis.xtext-vscode-example-0.0.30.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RM2A3gD/vTH/bEpf7AKJIHzOWgD6f8Fg9wiVU+Hwea8="
+      "sha256": "sha256-xKEK4icuc+6Q5Uj1rf1t9flWCOIApxiXOry/RvkPKGw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10683,7 +10683,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "statelyai-stately-vscode",
-    "version": "1.7.6",
+    "version": "1.8.0",
     "passthru": {
       "name": "stately-vscode",
       "license": "MIT",
@@ -10691,10 +10691,10 @@
       "description": "Visual editing, autocomplete and typegen for XState"
     },
     "src": {
-      "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.7.6/file/statelyai.stately-vscode-1.7.6.vsix",
+      "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.8.0/file/statelyai.stately-vscode-1.8.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dIPBdIdxXplZNZgbFswzkwizhXEWoOd0rhJBlhj2reU="
+      "sha256": "sha256-OeHd/QBxlIvtP4JwWhH7VodAPY/istZ9JZefMD/SwSg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24403,7 +24403,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "signageos-signageos-vscode-sops-beta",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "passthru": {
       "name": "signageos-vscode-sops-beta",
       "license": "MIT",
@@ -24411,10 +24411,10 @@
       "description": ""
     },
     "src": {
-      "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.5.0/file/signageos.signageos-vscode-sops-beta-0.5.0.vsix",
+      "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.0/file/signageos.signageos-vscode-sops-beta-0.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-5roW7Ts4gog+RAWmEok3RkTAgJomJuXIT7igUOp1Qrs="
+      "sha256": "sha256-SnBzRUXMJLjmWofBfPl14j0r7NWol/Lbn4x8TCp6V9w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34763,7 +34763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jdinhlife-gruvbox",
-    "version": "1.5.1",
+    "version": "1.6.0",
     "passthru": {
       "name": "gruvbox",
       "license": "MIT",
@@ -34771,10 +34771,10 @@
       "description": "Gruvbox Theme"
     },
     "src": {
-      "url": "https://open-vsx.org/api/jdinhlife/gruvbox/1.5.1/file/jdinhlife.gruvbox-1.5.1.vsix",
+      "url": "https://open-vsx.org/api/jdinhlife/gruvbox/1.6.0/file/jdinhlife.gruvbox-1.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OMR1Zy5RWGFGp+UQ3TjK4Qy/HCr95oCOvrq6VCp7KJI="
+      "sha256": "sha256-A6QiEjyXN8x7+baGTD0qYiFFlK0nR83HyjRTRwI7RTQ="
     },
     "extract": null,
     "rustGitDeps": null
