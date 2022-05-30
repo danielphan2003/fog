@@ -1947,10 +1947,10 @@
   };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
-    version = "0.7.0";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Lencerf/beancount/0.7.0/file/Lencerf.beancount-0.7.0.vsix";
-      sha256 = "sha256-GWntoGbUC8ChRJK9w8h0lbEtbvaNxWxPUtPpxLyZrBk=";
+      url = "https://open-vsx.org/api/Lencerf/beancount/0.8.2/file/Lencerf.beancount-0.8.2.vsix";
+      sha256 = "sha256-xVqlU/oiRSgAzP+tqCRjW3cSvboCfWU5lraSDl1TdzU=";
     };
     name = "beancount";
     license = "MIT";
@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.979";
+    version = "31.0.980";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.979/file/Prisma.prisma-insider-31.0.979.vsix";
-      sha256 = "sha256-rwNyDQbWHiegxrvbLdY0CPGVsENfi7ggnw1k8cAq2Nc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.980/file/Prisma.prisma-insider-31.0.980.vsix";
+      sha256 = "sha256-8dquWecf0QXFbzrzcipvc/dQYGEDttEOVFw+98mFlEM=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -8043,10 +8043,10 @@
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
-    version = "6.3.1";
+    version = "6.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.3.1/file/entan-gl.cc65-vice-6.3.1.vsix";
-      sha256 = "sha256-CcVh+FymFtPh4ubYHi0GpN8L3Zh6BC9OogJkGqPZTuo=";
+      url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.3.2/file/entan-gl.cc65-vice-6.3.2.vsix";
+      sha256 = "sha256-SCKpyS19lvyx+opV7dAjKIRgS+xoktQ4dp/CDtqAjWc=";
     };
     name = "cc65-vice";
     license = "MIT";
