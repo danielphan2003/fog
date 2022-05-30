@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "1e096f6fcd514b6e2c9d5dbd2b1bbcbcb3c9b4a5";
+    version = "c44c79abb269da36b68d0524f45aa4c0b92dedca";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "1e096f6fcd514b6e2c9d5dbd2b1bbcbcb3c9b4a5";
+      rev = "c44c79abb269da36b68d0524f45aa4c0b92dedca";
       fetchSubmodules = false;
-      sha256 = "sha256-ES2pEZ2akEPhsuTdeVicwyZbSl4yg+1v/UWz5dJf+ZY=";
+      sha256 = "sha256-3iXiCV1sZ9U5jgR/KbjxXptOThRj6Sr+DzPaCRnwTBo=";
     });
   };
   ibus = {
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6211";
+    version = "1.0.6212";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6211.tar.bz2";
-      sha256 = "sha256-pHyyo9pUFJNFQF5J5EOojr+KsSB2Me8mbDAOVIc50Aw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6212.tar.bz2";
+      sha256 = "sha256-3LdxhpLpDKplpUo7eTasos27DD9y6LRuMS/QvyIk6Ps=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6211";
+    version = "1.0.6212";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6211-1_all.deb";
-      sha256 = "sha256-uIXrM+C5EitV2nP4h7/m6WcnpMRbi+cnrXRLY2tWMuE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6212-1_all.deb";
+      sha256 = "sha256-+04S6czeWDbhqQ4Hsun4ZDQ8l4zbiTqDSjh+kpxsvbI=";
     };
   };
   jitsi-videobridge2 = {
