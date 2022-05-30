@@ -5631,10 +5631,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.278";
+    version = "2.0.279";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.278/file/betterthantomorrow.calva-2.0.278.vsix";
-      sha256 = "sha256-zReJ4bZl+pA66+n+dGoFmEwu94FVucAVbbvyN4mvx0M=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.279/file/betterthantomorrow.calva-2.0.279.vsix";
+      sha256 = "sha256-Qm/pe6fwYpRXW134YhwDgHD7Z+3q1ML2GC1AvLOEdeo=";
     };
     name = "calva";
     license = "MIT";
@@ -5763,10 +5763,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.27";
+    version = "0.0.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.27/file/bilelmoussaoui.flatpak-vscode-0.0.27.vsix";
-      sha256 = "sha256-Chbl3g6xPYVO0+xARcl6/ARVrHkJ2/KfaiKy9qO34SU=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix";
+      sha256 = "sha256-xgQiViyh4GQVWwTQSPspxg9f2/SbCl1WxlgC3CXMl0A=";
     };
     name = "flatpak-vscode";
     license = "MIT";
@@ -21567,10 +21567,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.5";
+    version = "0.23.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.5/file/znck.grammarly-0.23.5.vsix";
-      sha256 = "sha256-XQhHFjy512cYqLbvg1O96avQBAM3W2GmmHx4bP/lyE0=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.6/file/znck.grammarly-0.23.6.vsix";
+      sha256 = "sha256-LymJsPXVCmC5ZhNxd91XJ3LMr5l6mboGK9gVdX0epHs=";
     };
     name = "grammarly";
     license = "MIT";

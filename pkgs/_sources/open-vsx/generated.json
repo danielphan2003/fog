@@ -29863,7 +29863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "znck-grammarly",
-    "version": "0.23.5",
+    "version": "0.23.6",
     "passthru": {
       "name": "grammarly",
       "license": "MIT",
@@ -29871,10 +29871,10 @@
       "description": "A grammar checking for Visual Studio Code using Grammarly."
     },
     "src": {
-      "url": "https://open-vsx.org/api/znck/grammarly/0.23.5/file/znck.grammarly-0.23.5.vsix",
+      "url": "https://open-vsx.org/api/znck/grammarly/0.23.6/file/znck.grammarly-0.23.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XQhHFjy512cYqLbvg1O96avQBAM3W2GmmHx4bP/lyE0="
+      "sha256": "sha256-LymJsPXVCmC5ZhNxd91XJ3LMr5l6mboGK9gVdX0epHs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -31623,7 +31623,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bilelmoussaoui-flatpak-vscode",
-    "version": "0.0.27",
+    "version": "0.0.28",
     "passthru": {
       "name": "flatpak-vscode",
       "license": "MIT",
@@ -31631,10 +31631,10 @@
       "description": "Provides Flatpak manifest integration for building & running your application"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.27/file/bilelmoussaoui.flatpak-vscode-0.0.27.vsix",
+      "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Chbl3g6xPYVO0+xARcl6/ARVrHkJ2/KfaiKy9qO34SU="
+      "sha256": "sha256-xgQiViyh4GQVWwTQSPspxg9f2/SbCl1WxlgC3CXMl0A="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33283,7 +33283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.278",
+    "version": "2.0.279",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -33291,10 +33291,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.278/file/betterthantomorrow.calva-2.0.278.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.279/file/betterthantomorrow.calva-2.0.279.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-zReJ4bZl+pA66+n+dGoFmEwu94FVucAVbbvyN4mvx0M="
+      "sha256": "sha256-Qm/pe6fwYpRXW134YhwDgHD7Z+3q1ML2GC1AvLOEdeo="
     },
     "extract": null,
     "rustGitDeps": null
