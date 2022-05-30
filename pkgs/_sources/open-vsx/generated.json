@@ -13099,6 +13099,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "cloudstudio-memory-cue": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-memory-cue",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "memory-cue",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "Workspace memory cue extension"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.1/file/cloudstudio.memory-cue-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-FmCPqQCbaR5UNnVOu2L3rE8GpMwdtgFA6n8FsQ0NU3s="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "zhanghua-vscodium-language-pack-zh-cn": {
     "pinned": false,
     "cargoLock": null,
@@ -15355,6 +15375,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-72eQPXE21SLi6pFgqL8frKTohZwNpOoPiqTZcuBv60E="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "cloudstudio-browser-preview-lite": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-browser-preview-lite",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "browser-preview-lite",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": ""
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-2ewUdI5xh3RCqafMfOXyZQiIYIR7xrpu+fRY1vCf3t8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32915,6 +32955,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-w2+lrjfXJlbqYrTAlAA4tULVH7BSJtEPLPKGuiM23Qk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "cloudstudio-init-workspace": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-init-workspace",
+    "version": "0.0.4",
+    "passthru": {
+      "name": "init-workspace",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "Initialize the user workspace"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/init-workspace/0.0.4/file/cloudstudio.init-workspace-0.0.4.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-uGilHumIMudKM4iM1/7YWV56cMbDT0LU6LdW2mHfDHE="
     },
     "extract": null,
     "rustGitDeps": null

@@ -6409,6 +6409,18 @@
     publisher = "clinyong";
     description = "Visual Studio Code extension for CSS Modules";
   };
+  cloudstudio-browser-preview-lite = {
+    pname = "cloudstudio-browser-preview-lite";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix";
+      sha256 = "sha256-2ewUdI5xh3RCqafMfOXyZQiIYIR7xrpu+fRY1vCf3t8=";
+    };
+    name = "browser-preview-lite";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "";
+  };
   cloudstudio-coding = {
     pname = "cloudstudio-coding";
     version = "0.0.3";
@@ -6456,6 +6468,30 @@
     license = "MIT";
     publisher = "cloudstudio";
     description = "Cloud Studio \20113\37096\32626\22871\20214";
+  };
+  cloudstudio-init-workspace = {
+    pname = "cloudstudio-init-workspace";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/init-workspace/0.0.4/file/cloudstudio.init-workspace-0.0.4.vsix";
+      sha256 = "sha256-uGilHumIMudKM4iM1/7YWV56cMbDT0LU6LdW2mHfDHE=";
+    };
+    name = "init-workspace";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "Initialize the user workspace";
+  };
+  cloudstudio-memory-cue = {
+    pname = "cloudstudio-memory-cue";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.1/file/cloudstudio.memory-cue-0.0.1.vsix";
+      sha256 = "sha256-FmCPqQCbaR5UNnVOu2L3rE8GpMwdtgFA6n8FsQ0NU3s=";
+    };
+    name = "memory-cue";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "Workspace memory cue extension";
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
