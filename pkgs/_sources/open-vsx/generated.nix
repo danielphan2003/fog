@@ -2811,10 +2811,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.980";
+    version = "31.0.981";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.980/file/Prisma.prisma-insider-31.0.980.vsix";
-      sha256 = "sha256-8dquWecf0QXFbzrzcipvc/dQYGEDttEOVFw+98mFlEM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.981/file/Prisma.prisma-insider-31.0.981.vsix";
+      sha256 = "sha256-B2Q/gdO+KzjOtNdkG5D+LTRBEy2g4deGupULMkZEbFE=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9399,10 +9399,10 @@
   };
   gregoire-dance = {
     pname = "gregoire-dance";
-    version = "0.5.10";
+    version = "0.5.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gregoire/dance/0.5.10/file/gregoire.dance-0.5.10.vsix";
-      sha256 = "sha256-IWpPGoNqSbi0YOpFyrqWMCRNo1C9YmkrVfKD7cU9S2A=";
+      url = "https://open-vsx.org/api/gregoire/dance/0.5.11/file/gregoire.dance-0.5.11.vsix";
+      sha256 = "sha256-zH/gvrnQRPMSY9DUB61xyXm4wmOnD6s1+6NqNfJa+HY=";
     };
     name = "dance";
     license = "ISC";
@@ -12288,6 +12288,42 @@
     license = "MIT";
     publisher = "manuth";
     description = "A markdown-converter for vscode";
+  };
+  marcinbar-vscode-gothiconline = {
+    pname = "marcinbar-vscode-gothiconline";
+    version = "0.0.32";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.32/file/marcinbar.vscode-gothiconline-0.0.32.vsix";
+      sha256 = "sha256-fKWMvt6de7ewfW3fTVO6JtPMgkNCkPoBjN9D2gxC52I=";
+    };
+    name = "vscode-gothiconline";
+    license = "MIT";
+    publisher = "marcinbar";
+    description = "IntelliSense for Gothic Online";
+  };
+  marcinbar-vscode-squirrel = {
+    pname = "marcinbar-vscode-squirrel";
+    version = "0.0.16";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.16/file/marcinbar.vscode-squirrel-0.0.16.vsix";
+      sha256 = "sha256-/AMOQnSOyh6rSREJbjcf3y6XyvWQen905u+I/Tij9TA=";
+    };
+    name = "vscode-squirrel";
+    license = "MIT";
+    publisher = "marcinbar";
+    description = "Squirrel Language Supports";
+  };
+  marcinbar-vscode-squirrel-linter = {
+    pname = "marcinbar-vscode-squirrel-linter";
+    version = "0.0.13";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel-linter/0.0.13/file/marcinbar.vscode-squirrel-linter-0.0.13.vsix";
+      sha256 = "sha256-gVc77MzJGTNUuzPdmZOQZJBEjlk2Oi4HJjeo5rOldHE=";
+    };
+    name = "vscode-squirrel-linter";
+    license = "MIT";
+    publisher = "marcinbar";
+    description = "Squirrel Language Linter";
   };
   marcostazi-VS-code-vagrantfile = {
     pname = "marcostazi-VS-code-vagrantfile";
@@ -18591,10 +18627,10 @@
   };
   tremorproject-tremor-language-features = {
     pname = "tremorproject-tremor-language-features";
-    version = "0.10.0";
+    version = "0.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tremorproject/tremor-language-features/0.10.0/file/tremorproject.tremor-language-features-0.10.0.vsix";
-      sha256 = "sha256-POxTyZ1Rav6ROFwsf9/UC02M7VHJvxH2pmmEnlBZmso=";
+      url = "https://open-vsx.org/api/tremorproject/tremor-language-features/0.12.0/file/tremorproject.tremor-language-features-0.12.0.vsix";
+      sha256 = "sha256-GLjRYbFXz9vDWPj3d/8+B3J/ogOwlY9Rpk+tvJ1eEkI=";
     };
     name = "tremor-language-features";
     license = "Apache-2.0";
