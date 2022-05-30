@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.96.4",
+    "version": "0.96.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.96.4/file/dendron.nightly-0.96.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.96.5/file/dendron.nightly-0.96.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-fwa/nD7c3o1RVhHVq7rC6/I3BulZT4/9nOAjEzx4Qc0="
+      "sha256": "sha256-f8ll18emtu6SYLOakiiXJpkkPvVXrBmmCN1+w+1lnU0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34983,7 +34983,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-joyride",
-    "version": "0.0.12",
+    "version": "0.0.13",
     "passthru": {
       "name": "joyride",
       "license": "MIT",
@@ -34991,10 +34991,10 @@
       "description": "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.12/file/betterthantomorrow.joyride-0.0.12.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.13/file/betterthantomorrow.joyride-0.0.13.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-bZJdVejz8w6zvk1YSh41o38ZJ35oXzrjMJX9z1LiVTA="
+      "sha256": "sha256-RdIabZM+r2auJvNEp9RMdw+bn25yC1VPrIuHCkN22mY="
     },
     "extract": null,
     "rustGitDeps": null
