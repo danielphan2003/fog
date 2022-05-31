@@ -7347,10 +7347,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.96.0";
+    version = "0.97.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.96.0/file/dendron.dendron-0.96.0.vsix";
-      sha256 = "sha256-FcVegFt2C7CtFRvVGMBIg5OjNpo94fRcHz9UJvfaG8k=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.97.0/file/dendron.dendron-0.97.0.vsix";
+      sha256 = "sha256-Pftv68DpZtAR2tHENPbns/Nc6VZmJSxo77jQUg8IXIE=";
     };
     name = "dendron";
     license = "AGPL-3.0";
@@ -15303,10 +15303,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.340";
+    version = "0.25.341";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.340/file/pokey.cursorless-0.25.340.vsix";
-      sha256 = "sha256-X4kd+D+P+HXySp4sG0WJIqXzeFN6Zp8Iw9sOdB0dFto=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.341/file/pokey.cursorless-0.25.341.vsix";
+      sha256 = "sha256-1+5XvoZAk7u2NcDYVqKITGC5gxwtkaNl9RxSVclFVNs=";
     };
     name = "cursorless";
     license = "MIT";

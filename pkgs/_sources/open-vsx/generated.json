@@ -13843,7 +13843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.340",
+    "version": "0.25.341",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13851,10 +13851,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.340/file/pokey.cursorless-0.25.340.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.341/file/pokey.cursorless-0.25.341.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-X4kd+D+P+HXySp4sG0WJIqXzeFN6Zp8Iw9sOdB0dFto="
+      "sha256": "sha256-1+5XvoZAk7u2NcDYVqKITGC5gxwtkaNl9RxSVclFVNs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -25083,7 +25083,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-dendron",
-    "version": "0.96.0",
+    "version": "0.97.0",
     "passthru": {
       "name": "dendron",
       "license": "AGPL-3.0",
@@ -25091,10 +25091,10 @@
       "description": "Dendron is a hierarchal note taking tool that grows as you do. "
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/dendron/0.96.0/file/dendron.dendron-0.96.0.vsix",
+      "url": "https://open-vsx.org/api/dendron/dendron/0.97.0/file/dendron.dendron-0.97.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-FcVegFt2C7CtFRvVGMBIg5OjNpo94fRcHz9UJvfaG8k="
+      "sha256": "sha256-Pftv68DpZtAR2tHENPbns/Nc6VZmJSxo77jQUg8IXIE="
     },
     "extract": null,
     "rustGitDeps": null
