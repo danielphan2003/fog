@@ -16063,7 +16063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.3013",
+    "version": "2022.5.3117",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -16071,10 +16071,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.3013/file/Slint.slint-nightly-2022.5.3013.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.3117/file/Slint.slint-nightly-2022.5.3117.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oMfAP1wKUmbpIIOdpOLxPqGvuv3c1+YWhP8hhu+A724="
+      "sha256": "sha256-4C6GeWqI+3PTGKLJw+Hd6HsTz9xvP6lPyJXFdlQ9vDs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17054,7 +17054,7 @@
       "url": "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/justusadam.language-haskell-3.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-puIqPBtqnCAxoInGwkCByyw0HGIdvYfIjk+JXQTI7qY="
+      "sha256": "sha256-Pt8CZI9wJ/bpwVFD42DIxt4vVzf5QiS1oyW7j6dUGVU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18423,7 +18423,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "JFrog-jfrog-vscode-extension",
-    "version": "1.12.0",
+    "version": "1.13.0",
     "passthru": {
       "name": "jfrog-vscode-extension",
       "license": "Apache-2.0",
@@ -18431,10 +18431,10 @@
       "description": "JFrog Xray scanning of Go, npm, Pypi, Maven and NuGet project dependencies."
     },
     "src": {
-      "url": "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.12.0/file/JFrog.jfrog-vscode-extension-1.12.0.vsix",
+      "url": "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.13.0/file/JFrog.jfrog-vscode-extension-1.13.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OudPf18E4wrRLZTQgFw62vXq5nU+UqGk/zRUG9JaV6o="
+      "sha256": "sha256-Y1saGbo5msvkQeMjOWtJ4WTtKc33YjZQZPrydzLrIR8="
     },
     "extract": null,
     "rustGitDeps": null

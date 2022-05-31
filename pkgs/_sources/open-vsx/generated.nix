@@ -1659,10 +1659,10 @@
   };
   JFrog-jfrog-vscode-extension = {
     pname = "JFrog-jfrog-vscode-extension";
-    version = "1.12.0";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.12.0/file/JFrog.jfrog-vscode-extension-1.12.0.vsix";
-      sha256 = "sha256-OudPf18E4wrRLZTQgFw62vXq5nU+UqGk/zRUG9JaV6o=";
+      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.13.0/file/JFrog.jfrog-vscode-extension-1.13.0.vsix";
+      sha256 = "sha256-Y1saGbo5msvkQeMjOWtJ4WTtKc33YjZQZPrydzLrIR8=";
     };
     name = "jfrog-vscode-extension";
     license = "Apache-2.0";
@@ -3183,10 +3183,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.3013";
+    version = "2022.5.3117";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.3013/file/Slint.slint-nightly-2022.5.3013.vsix";
-      sha256 = "sha256-oMfAP1wKUmbpIIOdpOLxPqGvuv3c1+YWhP8hhu+A724=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.3117/file/Slint.slint-nightly-2022.5.3117.vsix";
+      sha256 = "sha256-4C6GeWqI+3PTGKLJw+Hd6HsTz9xvP6lPyJXFdlQ9vDs=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -11166,7 +11166,7 @@
     version = "3.6.0";
     src = fetchurl {
       url = "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/justusadam.language-haskell-3.6.0.vsix";
-      sha256 = "sha256-puIqPBtqnCAxoInGwkCByyw0HGIdvYfIjk+JXQTI7qY=";
+      sha256 = "sha256-Pt8CZI9wJ/bpwVFD42DIxt4vVzf5QiS1oyW7j6dUGVU=";
     };
     name = "language-haskell";
     license = "BSD-3-Clause";
