@@ -959,6 +959,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "streetsidesoftware-code-spell-checker-slovenian": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "streetsidesoftware-code-spell-checker-slovenian",
+    "version": "0.1.1",
+    "passthru": {
+      "name": "code-spell-checker-slovenian",
+      "license": "GPL-3.0-or-later",
+      "publisher": "streetsidesoftware",
+      "description": "Slovenian dictionary extension for VS Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-slovenian/0.1.1/file/streetsidesoftware.code-spell-checker-slovenian-0.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-xnDpqJ0+EMc772eajr6d8HWSvVj1QIR4DPLMMlK8hUk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Ikuyadeu-r": {
     "pinned": false,
     "cargoLock": null,
@@ -2283,7 +2303,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "streetsidesoftware-code-spell-checker-norwegian-bokmal",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "code-spell-checker-norwegian-bokmal",
       "license": "GPL-3.0-or-later",
@@ -2291,10 +2311,10 @@
       "description": "Norwegian BokmÃ¥l dictionary extension for VS Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.4/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.5/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-heGTAaEv64G6YIfvG1tYiqReaGJxnvxECm7FmNniZdo="
+      "sha256": "sha256-KfM6y+y8DNc1nhb32sj63dflQtayZ5cb/K1nsxwXsyc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10103,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "RokuCommunity-brightscript",
-    "version": "2.31.1",
+    "version": "2.32.0",
     "passthru": {
       "name": "brightscript",
       "license": "MIT",
@@ -10111,10 +10131,10 @@
       "description": "Language support for Roku's BrightScript language."
     },
     "src": {
-      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.1/file/RokuCommunity.brightscript-2.31.1.vsix",
+      "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.32.0/file/RokuCommunity.brightscript-2.32.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ILLP6nH5+ZHqSBj0zcM17n3CEtW819w/RDpdnXhXC+g="
+      "sha256": "sha256-tbzfnYEdvoZvSKtSkpk5FFeeq2PrU8C7OskIGfPmoe0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10563,7 +10583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "piousdeer-adwaita-theme",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "passthru": {
       "name": "adwaita-theme",
       "license": "GPL-3.0-only",
@@ -10571,10 +10591,10 @@
       "description": "Theme for the GNOME desktop"
     },
     "src": {
-      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.6/file/piousdeer.adwaita-theme-1.0.6.vsix",
+      "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iCoz9Yk0uXmKQIc+T5tLNUME15qTjQs3s8xY12s3+5o="
+      "sha256": "sha256-9VmjQOY5Y2+gNp/0lqBM5odc8nPKc979kL2O103TdXI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -22903,7 +22923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "streetsidesoftware-code-spell-checker-estonian",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "passthru": {
       "name": "code-spell-checker-estonian",
       "license": "GPL-3.0-or-later",
@@ -22911,10 +22931,10 @@
       "description": "Estonian dictionary extension for VS Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.4/file/streetsidesoftware.code-spell-checker-estonian-0.1.4.vsix",
+      "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.5/file/streetsidesoftware.code-spell-checker-estonian-0.1.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pFKTx+pee0hDPmk4e7edfxA6brbWUC47WnrTkTrVBIw="
+      "sha256": "sha256-hCKi7wM1dLOMbkt2GzS5x84c1DHu6BIE37YnfMjb1lg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28103,7 +28123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "borkdude-clj-kondo",
-    "version": "2022.5.29",
+    "version": "2022.5.31",
     "passthru": {
       "name": "clj-kondo",
       "license": "EPL-1",
@@ -28111,10 +28131,10 @@
       "description": "Clj-kondo, a linter for Clojure that sparks joy."
     },
     "src": {
-      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.29/file/borkdude.clj-kondo-2022.5.29.vsix",
+      "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.31/file/borkdude.clj-kondo-2022.5.31.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oePQ1zCuIZRzxElWbJLCm4HrHkfnhCEEJH/qX4QySec="
+      "sha256": "sha256-hLKVi95QqjB5zghKOtAetCea0oB2fmQOphMRopQZxns="
     },
     "extract": null,
     "rustGitDeps": null

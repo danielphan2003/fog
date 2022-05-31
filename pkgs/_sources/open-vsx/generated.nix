@@ -2991,10 +2991,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.31.1";
+    version = "2.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.31.1/file/RokuCommunity.brightscript-2.31.1.vsix";
-      sha256 = "sha256-ILLP6nH5+ZHqSBj0zcM17n3CEtW819w/RDpdnXhXC+g=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.32.0/file/RokuCommunity.brightscript-2.32.0.vsix";
+      sha256 = "sha256-tbzfnYEdvoZvSKtSkpk5FFeeq2PrU8C7OskIGfPmoe0=";
     };
     name = "brightscript";
     license = "MIT";
@@ -5871,10 +5871,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.5.29";
+    version = "2022.5.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.29/file/borkdude.clj-kondo-2022.5.29.vsix";
-      sha256 = "sha256-oePQ1zCuIZRzxElWbJLCm4HrHkfnhCEEJH/qX4QySec=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.31/file/borkdude.clj-kondo-2022.5.31.vsix";
+      sha256 = "sha256-hLKVi95QqjB5zghKOtAetCea0oB2fmQOphMRopQZxns=";
     };
     name = "clj-kondo";
     license = "EPL-1";
@@ -15219,10 +15219,10 @@
   };
   piousdeer-adwaita-theme = {
     pname = "piousdeer-adwaita-theme";
-    version = "1.0.6";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.6/file/piousdeer.adwaita-theme-1.0.6.vsix";
-      sha256 = "sha256-iCoz9Yk0uXmKQIc+T5tLNUME15qTjQs3s8xY12s3+5o=";
+      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix";
+      sha256 = "sha256-9VmjQOY5Y2+gNp/0lqBM5odc8nPKc979kL2O103TdXI=";
     };
     name = "adwaita-theme";
     license = "GPL-3.0-only";
@@ -17739,10 +17739,10 @@
   };
   streetsidesoftware-code-spell-checker-estonian = {
     pname = "streetsidesoftware-code-spell-checker-estonian";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.4/file/streetsidesoftware.code-spell-checker-estonian-0.1.4.vsix";
-      sha256 = "sha256-pFKTx+pee0hDPmk4e7edfxA6brbWUC47WnrTkTrVBIw=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.5/file/streetsidesoftware.code-spell-checker-estonian-0.1.5.vsix";
+      sha256 = "sha256-hCKi7wM1dLOMbkt2GzS5x84c1DHu6BIE37YnfMjb1lg=";
     };
     name = "code-spell-checker-estonian";
     license = "GPL-3.0-or-later";
@@ -17835,10 +17835,10 @@
   };
   streetsidesoftware-code-spell-checker-norwegian-bokmal = {
     pname = "streetsidesoftware-code-spell-checker-norwegian-bokmal";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.4/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.4.vsix";
-      sha256 = "sha256-heGTAaEv64G6YIfvG1tYiqReaGJxnvxECm7FmNniZdo=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.5/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.5.vsix";
+      sha256 = "sha256-KfM6y+y8DNc1nhb32sj63dflQtayZ5cb/K1nsxwXsyc=";
     };
     name = "code-spell-checker-norwegian-bokmal";
     license = "GPL-3.0-or-later";
@@ -17916,6 +17916,18 @@
     license = "GPL-3.0-or-later";
     publisher = "streetsidesoftware";
     description = "Scientific Terms dictionary extension for VS Code.";
+  };
+  streetsidesoftware-code-spell-checker-slovenian = {
+    pname = "streetsidesoftware-code-spell-checker-slovenian";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-slovenian/0.1.1/file/streetsidesoftware.code-spell-checker-slovenian-0.1.1.vsix";
+      sha256 = "sha256-xnDpqJ0+EMc772eajr6d8HWSvVj1QIR4DPLMMlK8hUk=";
+    };
+    name = "code-spell-checker-slovenian";
+    license = "GPL-3.0-or-later";
+    publisher = "streetsidesoftware";
+    description = "Slovenian dictionary extension for VS Code.";
   };
   streetsidesoftware-code-spell-checker-spanish = {
     pname = "streetsidesoftware-code-spell-checker-spanish";
