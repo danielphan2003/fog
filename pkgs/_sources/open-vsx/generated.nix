@@ -109,6 +109,18 @@
     publisher = "AquaSecurityOfficial";
     description = "A VS Code extension for Trivy.";
   };
+  Arch-as-Code-aac = {
+    pname = "Arch-as-Code-aac";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Arch-as-Code/aac/0.0.1/file/Arch-as-Code.aac-0.0.1.vsix";
+      sha256 = "sha256-qfaEIZhWziwn0vY4W5twz6UWQ2X6G3yt6+EO8h7f7p4=";
+    };
+    name = "aac";
+    license = "MIT";
+    publisher = "Arch-as-Code";
+    description = "A distinctly different take on Model-Based System Engineering (MBSE) that allows a system modeler to define a system in simple yaml";
+  };
   ArtisanByteCrafter-poptheme = {
     pname = "ArtisanByteCrafter-poptheme";
     version = "1.0.3";
@@ -5655,27 +5667,27 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.13/file/betterthantomorrow.joyride-0.0.13.vsix";
-      sha256 = "sha256-RdIabZM+r2auJvNEp9RMdw+bn25yC1VPrIuHCkN22mY=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.14/file/betterthantomorrow.joyride-0.0.14.vsix";
+      sha256 = "sha256-JS+8JVNIQyNKMC7YKOEgi+1/m1dD63QCSs64wkTJojk=";
     };
     name = "joyride";
     license = "MIT";
     publisher = "betterthantomorrow";
-    description = "Joyride VS Code with Clojure! Makes your editor scriptable. Powered by SCI, the Small Clojure Interpreter.";
+    description = "Making VS Code hackable. (A bit like Emacs with ELisp.) Powered by SCI, the Small Clojure Interpreter.";
   };
   betterthantomorrow-paste-replaced = {
     pname = "betterthantomorrow-paste-replaced";
-    version = "1.1.2";
+    version = "1.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.2/file/betterthantomorrow.paste-replaced-1.1.2.vsix";
-      sha256 = "sha256-0QaqIluN8IKWUJ6nl3ncEhRE7Z1YWVR+jLIyzesrLaI=";
+      url = "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.3/file/betterthantomorrow.paste-replaced-1.1.3.vsix";
+      sha256 = "sha256-bcfYy8lGVW+E82q6yJRmuNb6HyFM3x0dxp3E3zWnmh0=";
     };
     name = "paste-replaced";
     license = "MIT";
     publisher = "betterthantomorrow";
-    description = "Paste text replaced using regular expressions that you configure, anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases.";
+    description = "Paste text replaced using regular expressions that you configure, optionally simulating that you are typing it. Works anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases.";
   };
   biao1010-ai-js = {
     pname = "biao1010-ai-js";
@@ -9507,10 +9519,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.12";
+    version = "0.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.12/file/hall.draw-0.1.12.vsix";
-      sha256 = "sha256-MemXI9zSVnUuU00aNlSiwkoRZRGVPN+5bCWpr8X90rk=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.13/file/hall.draw-0.1.13.vsix";
+      sha256 = "sha256-QF2iWePkQRjoQWAHFhCp/JKGh0Ve4XwPyijO5Yy2l1Q=";
     };
     name = "draw";
     license = "Apache-2.0";
