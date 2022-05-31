@@ -1223,7 +1223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.96.5",
+    "version": "0.96.6",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1231,10 +1231,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.96.5/file/dendron.nightly-0.96.5.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.96.6/file/dendron.nightly-0.96.6.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f8ll18emtu6SYLOakiiXJpkkPvVXrBmmCN1+w+1lnU0="
+      "sha256": "sha256-rjgQe7/edhnIQaqFIQtFXdZ0RVpfzn2JzuJ/N+SY0E4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18583,7 +18583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hall-draw",
-    "version": "0.1.11",
+    "version": "0.1.12",
     "passthru": {
       "name": "draw",
       "license": "Apache-2.0",
@@ -18591,10 +18591,10 @@
       "description": "Draw an SVG image with a mouse or pen"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hall/draw/0.1.11/file/hall.draw-0.1.11.vsix",
+      "url": "https://open-vsx.org/api/hall/draw/0.1.12/file/hall.draw-0.1.12.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ckZFxPk+49hvULu+nGSPBjoHWVZWr452M1926o9LZ2Y="
+      "sha256": "sha256-MemXI9zSVnUuU00aNlSiwkoRZRGVPN+5bCWpr8X90rk="
     },
     "extract": null,
     "rustGitDeps": null

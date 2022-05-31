@@ -7419,10 +7419,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.96.5";
+    version = "0.96.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.96.5/file/dendron.nightly-0.96.5.vsix";
-      sha256 = "sha256-f8ll18emtu6SYLOakiiXJpkkPvVXrBmmCN1+w+1lnU0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.96.6/file/dendron.nightly-0.96.6.vsix";
+      sha256 = "sha256-rjgQe7/edhnIQaqFIQtFXdZ0RVpfzn2JzuJ/N+SY0E4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -9495,10 +9495,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.11";
+    version = "0.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.11/file/hall.draw-0.1.11.vsix";
-      sha256 = "sha256-ckZFxPk+49hvULu+nGSPBjoHWVZWr452M1926o9LZ2Y=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.12/file/hall.draw-0.1.12.vsix";
+      sha256 = "sha256-MemXI9zSVnUuU00aNlSiwkoRZRGVPN+5bCWpr8X90rk=";
     };
     name = "draw";
     license = "Apache-2.0";
