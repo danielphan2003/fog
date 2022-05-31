@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "c5d424671feb57989588c9f2f7aeaf3ccecba7f9";
+    version = "35a00f946bc52629313b0fe76b601221a29623bb";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "c5d424671feb57989588c9f2f7aeaf3ccecba7f9";
+      rev = "35a00f946bc52629313b0fe76b601221a29623bb";
       fetchSubmodules = false;
-      sha256 = "sha256-PVHsFNuw0xpbwGTzYhj5nZJ5oLwxjFAvIp4G6G4uauw=";
+      sha256 = "sha256-6qkzcKYVLE3GMluMFkcy3PQOGV29dkEe9snk5g22oms=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c9041bf5c993bfb5c67256ff20be7a025d97ffc5";
+    version = "48a3b1c51435af24e12c63547f0a11eabd6ed2f1";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "c9041bf5c993bfb5c67256ff20be7a025d97ffc5";
+      rev = "48a3b1c51435af24e12c63547f0a11eabd6ed2f1";
       fetchSubmodules = false;
-      sha256 = "sha256-ofchWAL8kLlO3q9vNBl8dikb6AKt+Lwu+ws0isf45Xo=";
+      sha256 = "sha256-xV5LOi2UDPpiTqzv941QOhjDUlOmlTfvMKkZadFcdNk=";
     });
   };
   ibus = {
@@ -437,18 +437,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6213";
+    version = "1.0.6214";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6213.tar.bz2";
-      sha256 = "sha256-PuX0u2AWSbSiqcrSqUwjTZ7ip+oenhEWV5qQdXLWeh4=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6214.tar.bz2";
+      sha256 = "sha256-T3vmyWbL0tjyUvfp6aw4ON5HeSNe6CtLCTO+IvQ/EhI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6213";
+    version = "1.0.6214";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6213-1_all.deb";
-      sha256 = "sha256-+WvlN4R3e1fGzHNRcp00Y4wouhnvbu75qFwEiC+M1zM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6214-1_all.deb";
+      sha256 = "sha256-HkwEXSYKY3hiIBI7iIgVMVpgh1uku/bffDGZ7iHquiI=";
     };
   };
   jitsi-videobridge2 = {
@@ -1276,10 +1276,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.10.6.3192";
+    version = "5.10.7.3311";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.10.6.3192/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-8QIkF5+875VFoGK6T0CROsqML6bJDG934c1gkuz8Klk=";
+      url = "https://cdn.zoom.us/prod/5.10.7.3311/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-CVaUxVOUifsu1wyxwwoU7IwY7qocFLBQ4acHrTvNMx4=";
     };
   };
 }
