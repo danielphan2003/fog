@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "623ad54b494f153605b1811281a4c026f66a51b2";
+    version = "775ecfff2354edbf27b6dbc65f29d9da90127c6b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "623ad54b494f153605b1811281a4c026f66a51b2";
+      rev = "775ecfff2354edbf27b6dbc65f29d9da90127c6b";
       fetchSubmodules = false;
-      sha256 = "sha256-w+yJMDHREtfZ0keRvsFbgaxeTHHi1wU7SqmcZDBhNvM=";
+      sha256 = "sha256-U/UUA2b4KGcNPqnNbnUZTYRO4oJpiBsL1IjffUz2s+s=";
     });
   };
   caddy = {
@@ -693,14 +693,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "03303ef7bccdae052b38b688608d1ce2e8fbe850";
+    version = "cc90bc81f09a56be35de8bee2eed61651bc78e86";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "03303ef7bccdae052b38b688608d1ce2e8fbe850";
+      rev = "cc90bc81f09a56be35de8bee2eed61651bc78e86";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-LuMuarOeRuspdrRv0p95mNVDePjfeG31oAzC4yy6FZ4=";
+      sha256 = "sha256-Gb9jMLYZ0N2LynKlAA/0HFLE9hu+IK7zcCZDPzXLnDk=";
     };
   };
   pure = {
