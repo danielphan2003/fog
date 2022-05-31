@@ -13843,7 +13843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.338",
+    "version": "0.25.340",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13851,10 +13851,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.338/file/pokey.cursorless-0.25.338.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.340/file/pokey.cursorless-0.25.340.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PaPj/M7dMV12ojO9DZ/xKrKp3P8JJx5nJYwDN/w91ZQ="
+      "sha256": "sha256-X4kd+D+P+HXySp4sG0WJIqXzeFN6Zp8Iw9sOdB0dFto="
     },
     "extract": null,
     "rustGitDeps": null
