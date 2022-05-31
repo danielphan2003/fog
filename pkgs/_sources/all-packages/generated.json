@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "e9848e0dda72eda1ed5f443dffbab8570a242439",
+    "version": "758e77d506af93cbb1fd5b408e925eb3d839bf7a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-tRTPRZvRcNXE0fjAkbJkKgD3HAvX8c9O0cC3ZrHxYtA=",
-      "rev": "e9848e0dda72eda1ed5f443dffbab8570a242439"
+      "sha256": "sha256-v6ehGxxScmScrcK3TJDnSggKc07eDbUyeOarb45vMCc=",
+      "rev": "758e77d506af93cbb1fd5b408e925eb3d839bf7a"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1446,13 +1446,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jibri",
-    "version": "8.0-133-gd4563ce",
+    "version": "8.0-134-g8f198ae",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jibri_8.0-133-gd4563ce-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jibri_8.0-134-g8f198ae-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EaixtvVxHD67Pz5dp4erTx/WPBjM4o+SQsekEjf9QN4="
+      "sha256": "sha256-K51MZ4NWfytvzRnlDTb+GK1CFlRpbcbhwF1IIwBgr6M="
     },
     "extract": null,
     "rustGitDeps": null
