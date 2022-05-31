@@ -29543,7 +29543,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-vscode-js-debug",
-    "version": "1.67.2",
+    "version": "1.68.0",
     "passthru": {
       "name": "js-debug",
       "license": "MIT",
@@ -29551,10 +29551,10 @@
       "description": "An extension for debugging Node.js programs and Chrome."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.67.2/file/ms-vscode.js-debug-1.67.2.vsix",
+      "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.68.0/file/ms-vscode.js-debug-1.68.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-B3GtJVJ2XywvSLJiSanqv3fF/J15PcSd0SLgJHLuE1c="
+      "sha256": "sha256-B+eJgmwlpVoyPWgQYP8eVuADgIFj1+EGWkMuG3XZ7ks="
     },
     "extract": null,
     "rustGitDeps": null

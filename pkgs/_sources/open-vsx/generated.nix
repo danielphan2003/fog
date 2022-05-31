@@ -13467,10 +13467,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.67.2";
+    version = "1.68.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.67.2/file/ms-vscode.js-debug-1.67.2.vsix";
-      sha256 = "sha256-B3GtJVJ2XywvSLJiSanqv3fF/J15PcSd0SLgJHLuE1c=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.68.0/file/ms-vscode.js-debug-1.68.0.vsix";
+      sha256 = "sha256-B+eJgmwlpVoyPWgQYP8eVuADgIFj1+EGWkMuG3XZ7ks=";
     };
     name = "js-debug";
     license = "MIT";
