@@ -3183,10 +3183,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.5.2713";
+    version = "2022.5.3013";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2713/file/Slint.slint-nightly-2022.5.2713.vsix";
-      sha256 = "sha256-WSt1KhtC7T/fRb0Z6lQgvCQlWVQdzQNHua0rxk+s9W8=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.5.3013/file/Slint.slint-nightly-2022.5.3013.vsix";
+      sha256 = "sha256-oMfAP1wKUmbpIIOdpOLxPqGvuv3c1+YWhP8hhu+A724=";
     };
     name = "slint-nightly";
     license = "GPL-3.0";
@@ -5883,10 +5883,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.8.4";
+    version = "0.8.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.4/file/bradlc.vscode-tailwindcss-0.8.4.vsix";
-      sha256 = "sha256-P+nGQVNlBkhCpNK9tg5bz+GUbnr5SYvSB9+eX+D6gRw=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.5/file/bradlc.vscode-tailwindcss-0.8.5.vsix";
+      sha256 = "sha256-gst24k624ZG28AunSF9JzgXNLXG45jhlUOaZGnac8eo=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -9495,10 +9495,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.10";
+    version = "0.1.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.10/file/hall.draw-0.1.10.vsix";
-      sha256 = "sha256-dvXMoHng47cyg2bEiXwzCHJZVbcpbRpzMWdhxc5iP4U=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.11/file/hall.draw-0.1.11.vsix";
+      sha256 = "sha256-ckZFxPk+49hvULu+nGSPBjoHWVZWr452M1926o9LZ2Y=";
     };
     name = "draw";
     license = "Apache-2.0";
@@ -13261,6 +13261,18 @@
     publisher = "ms-dotnettools";
     description = "Allows acquisition of the .NET runtime specifically for VS Code extension authors.";
   };
+  ms-edgedevtools-vscode-edge-devtools = {
+    pname = "ms-edgedevtools-vscode-edge-devtools";
+    version = "1.4.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/1.4.6/file/ms-edgedevtools.vscode-edge-devtools-1.4.6.vsix";
+      sha256 = "sha256-a+brDxqQ7Xqazy+bnqImIXyEX9gNVArUq67TpkBqH4c=";
+    };
+    name = "vscode-edge-devtools";
+    license = "MIT";
+    publisher = "ms-edgedevtools";
+    description = "Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML structure, alter its layout, fix styling issues as well as see your site's network requests.";
+  };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
     version = "1.3.9";
@@ -13284,6 +13296,18 @@
     license = "MIT";
     publisher = "ms-mssql";
     description = "Develop Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere";
+  };
+  ms-playwright-playwright = {
+    pname = "ms-playwright-playwright";
+    version = "0.2.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.3/file/ms-playwright.playwright-0.2.3.vsix";
+      sha256 = "sha256-nu2Y+TjtKeISBLRJX867VBqGNniKU98vsR3wdrYzn6Y=";
+    };
+    name = "playwright";
+    license = "Apache-2.0";
+    publisher = "ms-playwright";
+    description = "Run Playwright Test tests in Visual Studio Code.";
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
@@ -13369,6 +13393,18 @@
     publisher = "ms-toolsai";
     description = "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)";
   };
+  ms-toolsai-vscode-jupyter-powertoys = {
+    pname = "ms-toolsai-vscode-jupyter-powertoys";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix";
+      sha256 = "sha256-QtWbjzn9MVT8Mw4RjLB1dITYUyuuj/qsIVQ9UFKnHDM=";
+    };
+    name = "vscode-jupyter-powertoys";
+    license = "MIT";
+    publisher = "ms-toolsai";
+    description = "Experimental features for Jupyter notebook support in VS Code.";
+  };
   ms-vscode-Go = {
     pname = "ms-vscode-Go";
     version = "0.14.3";
@@ -13416,6 +13452,18 @@
     license = "MIT";
     publisher = "ms-vscode";
     description = "A common Sign-In and Subscription management extension for VS Code.";
+  };
+  ms-vscode-brackets-keybindings = {
+    pname = "ms-vscode-brackets-keybindings";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/brackets-keybindings/0.1.1/file/ms-vscode.brackets-keybindings-0.1.1.vsix";
+      sha256 = "sha256-C9D2fleqlc3cvByqXsWrfHDH+zWEeJGdhdaQ8zIEC4Q=";
+    };
+    name = "brackets-keybindings";
+    license = "MIT";
+    publisher = "ms-vscode";
+    description = "Popular Brackets keybindings for VS Code.";
   };
   ms-vscode-brackets-pack = {
     pname = "ms-vscode-brackets-pack";
@@ -13596,6 +13644,18 @@
     license = "MIT";
     publisher = "ms-vscode";
     description = "Import Sublime Text settings and keybindings into VS Code.";
+  };
+  ms-vscode-vs-keybindings = {
+    pname = "ms-vscode-vs-keybindings";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/vs-keybindings/0.2.1/file/ms-vscode.vs-keybindings-0.2.1.vsix";
+      sha256 = "sha256-kj5gi+ZfJI5SjUJjJd6pdBYrk24TOKoRtdUtsov9S7U=";
+    };
+    name = "vs-keybindings";
+    license = "MIT";
+    publisher = "ms-vscode";
+    description = "Popular Visual Studio keybindings for VS Code.";
   };
   ms-vscode-vscode-github-issue-notebooks = {
     pname = "ms-vscode-vscode-github-issue-notebooks";
@@ -18109,6 +18169,18 @@
     publisher = "tamasfe";
     description = "Fully-featured TOML support";
   };
+  tanhakabir-rest-book = {
+    pname = "tanhakabir-rest-book";
+    version = "6.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tanhakabir/rest-book/6.0.1/file/tanhakabir.rest-book-6.0.1.vsix";
+      sha256 = "sha256-QGDj30mq+jLZTFQSjymcll4YyMwqZ0LaxLxCWb0GxQw=";
+    };
+    name = "rest-book";
+    license = "MIT";
+    publisher = "tanhakabir";
+    description = "Notebook for running REST queries.";
+  };
   tboox-xmake-vscode = {
     pname = "tboox-xmake-vscode";
     version = "1.4.4";
@@ -19347,10 +19419,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.35.1";
+    version = "0.35.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.1/file/vscjava.vscode-maven-0.35.1.vsix";
-      sha256 = "sha256-RwaXiNNOYfIGXsk8QwfZicBVUB9M0jiCCQ3pA8zDJv0=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix";
+      sha256 = "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=";
     };
     name = "vscode-maven";
     license = "MIT";

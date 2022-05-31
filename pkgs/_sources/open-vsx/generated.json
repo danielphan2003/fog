@@ -7519,6 +7519,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ms-vscode-brackets-keybindings": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-vscode-brackets-keybindings",
+    "version": "0.1.1",
+    "passthru": {
+      "name": "brackets-keybindings",
+      "license": "MIT",
+      "publisher": "ms-vscode",
+      "description": "Popular Brackets keybindings for VS Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-vscode/brackets-keybindings/0.1.1/file/ms-vscode.brackets-keybindings-0.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-C9D2fleqlc3cvByqXsWrfHDH+zWEeJGdhdaQ8zIEC4Q="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "elixir-lsp-elixir-ls": {
     "pinned": false,
     "cargoLock": null,
@@ -12203,7 +12223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-maven",
-    "version": "0.35.1",
+    "version": "0.35.2",
     "passthru": {
       "name": "vscode-maven",
       "license": "MIT",
@@ -12211,10 +12231,10 @@
       "description": "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers."
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-maven/0.35.1/file/vscjava.vscode-maven-0.35.1.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RwaXiNNOYfIGXsk8QwfZicBVUB9M0jiCCQ3pA8zDJv0="
+      "sha256": "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16023,7 +16043,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.5.2713",
+    "version": "2022.5.3013",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -16031,10 +16051,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.2713/file/Slint.slint-nightly-2022.5.2713.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.5.3013/file/Slint.slint-nightly-2022.5.3013.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-WSt1KhtC7T/fRb0Z6lQgvCQlWVQdzQNHua0rxk+s9W8="
+      "sha256": "sha256-oMfAP1wKUmbpIIOdpOLxPqGvuv3c1+YWhP8hhu+A724="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18563,7 +18583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hall-draw",
-    "version": "0.1.10",
+    "version": "0.1.11",
     "passthru": {
       "name": "draw",
       "license": "Apache-2.0",
@@ -18571,10 +18591,10 @@
       "description": "Draw an SVG image with a mouse or pen"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hall/draw/0.1.10/file/hall.draw-0.1.10.vsix",
+      "url": "https://open-vsx.org/api/hall/draw/0.1.11/file/hall.draw-0.1.11.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dvXMoHng47cyg2bEiXwzCHJZVbcpbRpzMWdhxc5iP4U="
+      "sha256": "sha256-ckZFxPk+49hvULu+nGSPBjoHWVZWr452M1926o9LZ2Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24763,7 +24783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bradlc-vscode-tailwindcss",
-    "version": "0.8.4",
+    "version": "0.8.5",
     "passthru": {
       "name": "vscode-tailwindcss",
       "license": "MIT",
@@ -24771,10 +24791,10 @@
       "description": "Intelligent Tailwind CSS tooling for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.4/file/bradlc.vscode-tailwindcss-0.8.4.vsix",
+      "url": "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.5/file/bradlc.vscode-tailwindcss-0.8.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-P+nGQVNlBkhCpNK9tg5bz+GUbnr5SYvSB9+eX+D6gRw="
+      "sha256": "sha256-gst24k624ZG28AunSF9JzgXNLXG45jhlUOaZGnac8eo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27859,6 +27879,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "tanhakabir-rest-book": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "tanhakabir-rest-book",
+    "version": "6.0.1",
+    "passthru": {
+      "name": "rest-book",
+      "license": "MIT",
+      "publisher": "tanhakabir",
+      "description": "Notebook for running REST queries."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/tanhakabir/rest-book/6.0.1/file/tanhakabir.rest-book-6.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-QGDj30mq+jLZTFQSjymcll4YyMwqZ0LaxLxCWb0GxQw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "stripe-vscode-stripe": {
     "pinned": false,
     "cargoLock": null,
@@ -30659,6 +30699,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ms-vscode-vs-keybindings": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-vscode-vs-keybindings",
+    "version": "0.2.1",
+    "passthru": {
+      "name": "vs-keybindings",
+      "license": "MIT",
+      "publisher": "ms-vscode",
+      "description": "Popular Visual Studio keybindings for VS Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-vscode/vs-keybindings/0.2.1/file/ms-vscode.vs-keybindings-0.2.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-kj5gi+ZfJI5SjUJjJd6pdBYrk24TOKoRtdUtsov9S7U="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "junstyle-php-cs-fixer": {
     "pinned": false,
     "cargoLock": null,
@@ -31715,6 +31775,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-OuzsrxwlO1y0ZkgCV1upxo76vi9NgLF/e2bJ5tdQlRw="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ms-edgedevtools-vscode-edge-devtools": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-edgedevtools-vscode-edge-devtools",
+    "version": "1.4.6",
+    "passthru": {
+      "name": "vscode-edge-devtools",
+      "license": "MIT",
+      "publisher": "ms-edgedevtools",
+      "description": "Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML structure, alter its layout, fix styling issues as well as see your site's network requests."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/1.4.6/file/ms-edgedevtools.vscode-edge-devtools-1.4.6.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-a+brDxqQ7Xqazy+bnqImIXyEX9gNVArUq67TpkBqH4c="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33099,6 +33179,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ms-toolsai-vscode-jupyter-powertoys": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-toolsai-vscode-jupyter-powertoys",
+    "version": "0.0.3",
+    "passthru": {
+      "name": "vscode-jupyter-powertoys",
+      "license": "MIT",
+      "publisher": "ms-toolsai",
+      "description": "Experimental features for Jupyter notebook support in VS Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-QtWbjzn9MVT8Mw4RjLB1dITYUyuuj/qsIVQ9UFKnHDM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "earshinov-filter-lines": {
     "pinned": false,
     "cargoLock": null,
@@ -33535,6 +33635,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-mHEkpieuF5CYSFH+6i4gTFonD8jwdkLycClc5evYzLc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "ms-playwright-playwright": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ms-playwright-playwright",
+    "version": "0.2.3",
+    "passthru": {
+      "name": "playwright",
+      "license": "Apache-2.0",
+      "publisher": "ms-playwright",
+      "description": "Run Playwright Test tests in Visual Studio Code."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.3/file/ms-playwright.playwright-0.2.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-nu2Y+TjtKeISBLRJX867VBqGNniKU98vsR3wdrYzn6Y="
     },
     "extract": null,
     "rustGitDeps": null
