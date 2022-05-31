@@ -3841,6 +3841,18 @@
     publisher = "Zignd";
     description = "CSS class name completion for the HTML class attribute based on the definitions found in your workspace.";
   };
+  ZixuanChen-vitest-explorer = {
+    pname = "ZixuanChen-vitest-explorer";
+    version = "0.2.12";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.12/file/ZixuanChen.vitest-explorer-0.2.12.vsix";
+      sha256 = "sha256-61HztvRmHFAy1N/suT2gvwEzytzsafKaf/yF9Fsr2DU=";
+    };
+    name = "vitest-explorer";
+    license = "MIT";
+    publisher = "ZixuanChen";
+    description = "Run and debug Vitest test cases";
+  };
   ZixuanWang-linkerscript = {
     pname = "ZixuanWang-linkerscript";
     version = "1.0.2";
@@ -9519,10 +9531,10 @@
   };
   hashicorp-terraform = {
     pname = "hashicorp-terraform";
-    version = "2.20.1";
+    version = "2.21.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hashicorp/terraform/2.20.1/file/hashicorp.terraform-2.20.1.vsix";
-      sha256 = "sha256-QajL2PUABXV47cfR4rznsCTfilhDeAZpk+6oLh7BxJw=";
+      url = "https://open-vsx.org/api/hashicorp/terraform/2.21.1/file/hashicorp.terraform-2.21.1.vsix";
+      sha256 = "sha256-L0cMZZxf+1muLwV9axMGD55Htb5Gt4c8WrI7Amf7sts=";
     };
     name = "terraform";
     license = "MPL-2.0";

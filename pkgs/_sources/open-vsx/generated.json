@@ -13139,6 +13139,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "ZixuanChen-vitest-explorer": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "ZixuanChen-vitest-explorer",
+    "version": "0.2.12",
+    "passthru": {
+      "name": "vitest-explorer",
+      "license": "MIT",
+      "publisher": "ZixuanChen",
+      "description": "Run and debug Vitest test cases"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.12/file/ZixuanChen.vitest-explorer-0.2.12.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-61HztvRmHFAy1N/suT2gvwEzytzsafKaf/yF9Fsr2DU="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "cloudstudio-memory-cue": {
     "pinned": false,
     "cargoLock": null,
@@ -15223,7 +15243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hashicorp-terraform",
-    "version": "2.20.1",
+    "version": "2.21.1",
     "passthru": {
       "name": "terraform",
       "license": "MPL-2.0",
@@ -15231,10 +15251,10 @@
       "description": "Syntax highlighting and autocompletion for Terraform"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hashicorp/terraform/2.20.1/file/hashicorp.terraform-2.20.1.vsix",
+      "url": "https://open-vsx.org/api/hashicorp/terraform/2.21.1/file/hashicorp.terraform-2.21.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QajL2PUABXV47cfR4rznsCTfilhDeAZpk+6oLh7BxJw="
+      "sha256": "sha256-L0cMZZxf+1muLwV9axMGD55Htb5Gt4c8WrI7Amf7sts="
     },
     "extract": null,
     "rustGitDeps": null
