@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "3914c0738a2431968d279d8bcc7220f128c459de";
+    version = "e9848e0dda72eda1ed5f443dffbab8570a242439";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "3914c0738a2431968d279d8bcc7220f128c459de";
+      rev = "e9848e0dda72eda1ed5f443dffbab8570a242439";
       fetchSubmodules = false;
-      sha256 = "sha256-hetjq9GEjlQ31SnWwXkpYjBirO+XIg4nLKLuC50Ad90=";
+      sha256 = "sha256-tRTPRZvRcNXE0fjAkbJkKgD3HAvX8c9O0cC3ZrHxYtA=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "471654d791abb1ea6c4740572fda6df53e6b24bf";
+    version = "970018248f44d259cd16c0896862e8b4a464c9b9";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "471654d791abb1ea6c4740572fda6df53e6b24bf";
+      rev = "970018248f44d259cd16c0896862e8b4a464c9b9";
       fetchSubmodules = false;
-      sha256 = "sha256-yCE0rN4l2zs/vfDOB6H3E4JlfZzb7x5kszW0dEJJFPk=";
+      sha256 = "sha256-aCmcoDDmKjIgw6f4Q8FVo6TpLXAurbn6uJ9XtbF6Mx0=";
     });
   };
   ibus = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-691-g76f638d0";
+    version = "2.1-692-g9a450d0e";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-691-g76f638d0-1_all.deb";
-      sha256 = "sha256-4Z/pJ8ScfuL4nSOptEFbF/MfTX2tAge8HsVaJj8baqQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-692-g9a450d0e-1_all.deb";
+      sha256 = "sha256-3S9apZ+BouKuOG25JqDbr6ye0He7xPW2oldXcoUXIoM=";
     };
   };
   layout-machi = {
@@ -914,13 +914,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "81843b10d569ea90bb8136b69720b81edb27f265";
+    version = "3fdd7594cd6dc5635e7636b41cc42dc5eb6d536a";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "81843b10d569ea90bb8136b69720b81edb27f265";
+      rev = "3fdd7594cd6dc5635e7636b41cc42dc5eb6d536a";
       fetchSubmodules = false;
-      sha256 = "sha256-+KvBGvPb30r2+IdWw/uXOskqoIxDXH70DS5fuTgecLA=";
+      sha256 = "sha256-CbUUj3qVzfh6SO95wU/AshPN765HgRwx1Aep8LXajVw=";
     });
   };
   spicetify-themes = {

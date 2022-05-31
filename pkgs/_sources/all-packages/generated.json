@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "3914c0738a2431968d279d8bcc7220f128c459de",
+    "version": "e9848e0dda72eda1ed5f443dffbab8570a242439",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-hetjq9GEjlQ31SnWwXkpYjBirO+XIg4nLKLuC50Ad90=",
-      "rev": "3914c0738a2431968d279d8bcc7220f128c459de"
+      "sha256": "sha256-tRTPRZvRcNXE0fjAkbJkKgD3HAvX8c9O0cC3ZrHxYtA=",
+      "rev": "e9848e0dda72eda1ed5f443dffbab8570a242439"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-691-g76f638d0",
+    "version": "2.1-692-g9a450d0e",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-691-g76f638d0-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-692-g9a450d0e-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-4Z/pJ8ScfuL4nSOptEFbF/MfTX2tAge8HsVaJj8baqQ="
+      "sha256": "sha256-3S9apZ+BouKuOG25JqDbr6ye0He7xPW2oldXcoUXIoM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "471654d791abb1ea6c4740572fda6df53e6b24bf",
+    "version": "970018248f44d259cd16c0896862e8b4a464c9b9",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-yCE0rN4l2zs/vfDOB6H3E4JlfZzb7x5kszW0dEJJFPk=",
-      "rev": "471654d791abb1ea6c4740572fda6df53e6b24bf"
+      "sha256": "sha256-aCmcoDDmKjIgw6f4Q8FVo6TpLXAurbn6uJ9XtbF6Mx0=",
+      "rev": "970018248f44d259cd16c0896862e8b4a464c9b9"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1626,7 +1626,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "spicetify-cli",
-    "version": "81843b10d569ea90bb8136b69720b81edb27f265",
+    "version": "3fdd7594cd6dc5635e7636b41cc42dc5eb6d536a",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1636,8 +1636,8 @@
       "name": null,
       "repo": "spicetify-cli",
       "type": "github",
-      "sha256": "sha256-+KvBGvPb30r2+IdWw/uXOskqoIxDXH70DS5fuTgecLA=",
-      "rev": "81843b10d569ea90bb8136b69720b81edb27f265"
+      "sha256": "sha256-CbUUj3qVzfh6SO95wU/AshPN765HgRwx1Aep8LXajVw=",
+      "rev": "3fdd7594cd6dc5635e7636b41cc42dc5eb6d536a"
     },
     "extract": null,
     "rustGitDeps": null
