@@ -203,7 +203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-it",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-it",
       "license": "MIT",
@@ -211,10 +211,10 @@
       "description": "Language pack extension for Italian"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.68.1/file/MS-CEINTL.vscode-language-pack-it-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.68.2/file/MS-CEINTL.vscode-language-pack-it-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Wpn+IwJFkn8DaMk6wbxBC9lH6Crti0p/2icIi1ujiO0="
+      "sha256": "sha256-7UzqrnTz2SU6i210vgEvMI8AEo4++isLG/IsZY4PFV8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -3563,7 +3563,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-es",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-es",
       "license": "MIT",
@@ -3571,10 +3571,10 @@
       "description": "Language pack extension for Spanish"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.68.1/file/MS-CEINTL.vscode-language-pack-es-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.68.2/file/MS-CEINTL.vscode-language-pack-es-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-UBgfcgYWQE7ZHXHzVlUP6a6l4PdMvj5GgpDBkmqLAFc="
+      "sha256": "sha256-BqlErwD8ADHNVWdn4mWqh1Zvr3SyEnUIikjpT/B8v7Q="
     },
     "extract": null,
     "rustGitDeps": null
@@ -5943,7 +5943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-zh-hans",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-zh-hans",
       "license": "MIT",
@@ -5951,10 +5951,10 @@
       "description": "Language pack extension for Chinese (Simplified)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.68.1/file/MS-CEINTL.vscode-language-pack-zh-hans-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.68.2/file/MS-CEINTL.vscode-language-pack-zh-hans-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-q/oGU3Mr0nBeN9bbCTFPR568jR171UGCPAvl1E6TBN4="
+      "sha256": "sha256-GTNf15gQULOZPA1GY49fbL1g6DclY56nQwC7R78aGCk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -6823,7 +6823,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-fr",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-fr",
       "license": "MIT",
@@ -6831,10 +6831,10 @@
       "description": "Language pack extension for French"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.68.1/file/MS-CEINTL.vscode-language-pack-fr-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.68.2/file/MS-CEINTL.vscode-language-pack-fr-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rtMcDS77F+dKyc5Msqn4mjbN4+O/zPfJsLnQF4IDsBE="
+      "sha256": "sha256-Ipj0zDQdqj3+fj6sxhe2K8rsmc0FWas869zK6r9oYuI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -8583,7 +8583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-zh-hant",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-zh-hant",
       "license": "MIT",
@@ -8591,10 +8591,10 @@
       "description": "Language pack extension for Chinese (Traditional)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.68.1/file/MS-CEINTL.vscode-language-pack-zh-hant-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.68.2/file/MS-CEINTL.vscode-language-pack-zh-hant-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tH27WtpdfSIgwHsBSItavEyZdJaXYeEw6WyNwo4/gEw="
+      "sha256": "sha256-Hbo7Y6eWjyIWRpPi3XsgoQPC2+5GlvK7VHHvw+aUXJ4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13523,7 +13523,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-python-python",
-    "version": "2022.6.2",
+    "version": "2022.6.3",
     "passthru": {
       "name": "python",
       "license": "MIT",
@@ -13531,10 +13531,10 @@
       "description": "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-python/python/2022.6.2/file/ms-python.python-2022.6.2.vsix",
+      "url": "https://open-vsx.org/api/ms-python/python/2022.6.3/file/ms-python.python-2022.6.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Mhve76Gsl2bjY2FDXI7UmSUrtLMgeYv13TPrZVFfU4s="
+      "sha256": "sha256-+JQvacbawYmTdjP3GDIHsk/d9KW8824bEhnkK5Hl+zY="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13603,7 +13603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-ru",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-ru",
       "license": "MIT",
@@ -13611,10 +13611,10 @@
       "description": "Language pack extension for Russian"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.68.1/file/MS-CEINTL.vscode-language-pack-ru-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.68.2/file/MS-CEINTL.vscode-language-pack-ru-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-oYsQt/2nPwKDul1CGbwu3+aU70TJ9TsZQuPHDP1LT6U="
+      "sha256": "sha256-ePcf9KIAdwQIZTs3I8JqtdDU4Uq1Pn4js8d5LoxZU+8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16243,7 +16243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-cs",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-cs",
       "license": "MIT",
@@ -16251,10 +16251,10 @@
       "description": "Language pack extension for Czech"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.68.1/file/MS-CEINTL.vscode-language-pack-cs-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.68.2/file/MS-CEINTL.vscode-language-pack-cs-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-P1Bu1KVilYynLeup+wGF/Rw8FgQQ7bo8bIgC0gJtPEo="
+      "sha256": "sha256-0uP3g9wawzr+pu9RlQ01HdvjZWlXsyVFnLnvh/FNdDw="
     },
     "extract": null,
     "rustGitDeps": null
@@ -21863,7 +21863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-tr",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-tr",
       "license": "MIT",
@@ -21871,10 +21871,10 @@
       "description": "Language pack extension for Turkish"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.68.1/file/MS-CEINTL.vscode-language-pack-tr-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.68.2/file/MS-CEINTL.vscode-language-pack-tr-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-JdQ6R+YKreEBwuD+8PorjhcPfnVz+3A3BufBx9k+0WE="
+      "sha256": "sha256-YhM9eY67mOXVkI2iwNPp7ey/8geCRDgYriyFZd+kDWk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23343,7 +23343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-ja",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-ja",
       "license": "MIT",
@@ -23351,10 +23351,10 @@
       "description": "Language pack extension for Japanese"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.68.1/file/MS-CEINTL.vscode-language-pack-ja-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.68.2/file/MS-CEINTL.vscode-language-pack-ja-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-CigeoEbZplNdnYcAzEZAcw7+f0eDS6ZGONaLhoKFMPM="
+      "sha256": "sha256-TC9r8zLBKTv4xYrS7lEpjvncZXI4KiP3hXEpXmzqiw4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24483,7 +24483,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hirosystems-clarity-lsp",
-    "version": "0.7.1",
+    "version": "0.8.0",
     "passthru": {
       "name": "clarity-lsp",
       "license": "GPL-3.0-only",
@@ -24491,10 +24491,10 @@
       "description": "Coding assistant for Smart Contracts (Stacks, Bitcoin)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.7.1/file/hirosystems.clarity-lsp-0.7.1.vsix",
+      "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.8.0/file/hirosystems.clarity-lsp-0.8.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dswkSLPUbRJ5i6amU1A7jirzYmP6i4gkMuaSMwGKzUM="
+      "sha256": "sha256-FuXhmLdV9kzHJZ3FOy/MQMgrzZKHMO7+Ppa9IiQr6Ho="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24703,7 +24703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-pl",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-pl",
       "license": "MIT",
@@ -24711,10 +24711,10 @@
       "description": "Language pack extension for Polish"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.68.1/file/MS-CEINTL.vscode-language-pack-pl-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.68.2/file/MS-CEINTL.vscode-language-pack-pl-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-eQt2M2mTxqKvd+dYaHj+7wAGz6CaqMxdmQNZXEDeCWo="
+      "sha256": "sha256-nfydJm6WzS4w7i7TCGcaRxBQ+gyCNy42p8DQQLdp0ac="
     },
     "extract": null,
     "rustGitDeps": null
@@ -26603,7 +26603,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-ko",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-ko",
       "license": "MIT",
@@ -26611,10 +26611,10 @@
       "description": "Language pack extension for Korean"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.68.1/file/MS-CEINTL.vscode-language-pack-ko-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.68.2/file/MS-CEINTL.vscode-language-pack-ko-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-k+0mco58vhAsJP5G2UDNFr1ok73OzxCSXFDqp6unSGo="
+      "sha256": "sha256-DsdHEAyUgq2fJ3qvHrndHiqjxgikyjVWlIO7KG/0feA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27503,7 +27503,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-de",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-de",
       "license": "MIT",
@@ -27511,10 +27511,10 @@
       "description": "Language pack extension for German"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.68.1/file/MS-CEINTL.vscode-language-pack-de-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.68.2/file/MS-CEINTL.vscode-language-pack-de-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HXW9WsBX8GyQGeCtvqbKLGqtGMqZuZcZQ1cCmlSipy0="
+      "sha256": "sha256-4JGNvHVd8Ug4Jb6cQc5q0SqSMSoPQDSVlfDZbqqRphk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -29223,7 +29223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "MS-CEINTL-vscode-language-pack-pt-BR",
-    "version": "1.68.1",
+    "version": "1.68.2",
     "passthru": {
       "name": "vscode-language-pack-pt-BR",
       "license": "MIT",
@@ -29231,10 +29231,10 @@
       "description": "Language pack extension for Portuguese (Brazil)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.68.1/file/MS-CEINTL.vscode-language-pack-pt-BR-1.68.1.vsix",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.68.2/file/MS-CEINTL.vscode-language-pack-pt-BR-1.68.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AbOsyqUs7yFAN358+rzqi/IpPypPdwFSYijNkxc4PxY="
+      "sha256": "sha256-MDo54PG2JUPhjwxxt8G13/IiVKSuWe1lPtdar17iwKI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32663,7 +32663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.984",
+    "version": "31.0.985",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32671,10 +32671,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.984/file/Prisma.prisma-insider-31.0.984.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.985/file/Prisma.prisma-insider-31.0.985.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-tiEwNpTQVBsDJK91bFQLmc65E7abrzFgK5mg7fVTiE0="
+      "sha256": "sha256-OqoKS2MaGOeSBszPesenkrK159mWugOKJ+QqDbNHVUo="
     },
     "extract": null,
     "rustGitDeps": null
