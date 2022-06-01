@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-692-g9a450d0e";
+    version = "2.1-693-g4f507947";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-692-g9a450d0e-1_all.deb";
-      sha256 = "sha256-3S9apZ+BouKuOG25JqDbr6ye0He7xPW2oldXcoUXIoM=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-693-g4f507947-1_all.deb";
+      sha256 = "sha256-EZkRSUxRFWzPX9TKtBzfb8Xaq2extX9sYHlLjRVyOD8=";
     };
   };
   layout-machi = {
@@ -554,10 +554,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "103.0.1264.11";
+    version = "104.0.1271.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_103.0.1264.11-1_amd64.deb";
-      sha256 = "sha256-5G+G7JJd3ajxzlbQxvT/3ycz2VfyLpbxOQlefkAC4CM=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_104.0.1271.2-1_amd64.deb";
+      sha256 = "sha256-SKroW6WMDNxyFW7D5JpW/3y6B2ByJyQ/ivBdHTbyhXc=";
     };
   };
   minecraft-wayland = {
