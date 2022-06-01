@@ -2823,10 +2823,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.986";
+    version = "31.0.987";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.986/file/Prisma.prisma-insider-31.0.986.vsix";
-      sha256 = "sha256-8VRXpRL4yJoVXN8g3vKK60N9AyX4ZMskicS+fgyok24=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.987/file/Prisma.prisma-insider-31.0.987.vsix";
+      sha256 = "sha256-84TxOVjm+9d6U1wk4AQEJZUEmKCxvkR0nZ5wDHkQtLc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -11943,10 +11943,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.75";
+    version = "0.0.76";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.75/file/leanprover.lean4-0.0.75.vsix";
-      sha256 = "sha256-JeBXg8kZuiTGONXHToRlVAtH9gKHPxV42tis9eGsyvk=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.76/file/leanprover.lean4-0.0.76.vsix";
+      sha256 = "sha256-ZET8RcRwb6hXXwtsgpLjRq/26MiTMgTLEPRfzGkBYyI=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -15903,10 +15903,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.6.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.6.0/file/redhat.java-1.6.0.vsix";
-      sha256 = "sha256-5KgUpqCSn5K4HdIe09u7q4dXzgfrqHzPVJGtQ+MUqtI=";
+      url = "https://open-vsx.org/api/redhat/java/1.7.0/file/redhat.java-1.7.0.vsix";
+      sha256 = "sha256-JUjBt4ZCmDG/8jLu6GwrVMptB6bPxAJ3TJr5V2ZY9Cc=";
     };
     name = "java";
     license = "EPL-2.0";
