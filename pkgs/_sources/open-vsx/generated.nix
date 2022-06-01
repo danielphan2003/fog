@@ -16995,10 +16995,10 @@
   };
   shalldie-background = {
     pname = "shalldie-background";
-    version = "1.1.30";
+    version = "1.1.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shalldie/background/1.1.30/file/shalldie.background-1.1.30.vsix";
-      sha256 = "sha256-Sw7JTgmzCfmqyTTwhzH6vKQTphZc+YXJf2TCyDELDgg=";
+      url = "https://open-vsx.org/api/shalldie/background/1.1.31/file/shalldie.background-1.1.31.vsix";
+      sha256 = "sha256-XIY+eB7dqhfBVYbJt8GcFwbvF1z9F+L35+SPEsLtc5E=";
     };
     name = "background";
     license = "MIT";
@@ -19407,10 +19407,10 @@
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
-    version = "0.40.1";
+    version = "0.41.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.1/file/vscjava.vscode-java-debug-0.40.1.vsix";
-      sha256 = "sha256-HkV55gkWnDRRg9Qlm9BTJRWCLltrnsLvzDmkd11246Q=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.41.0/file/vscjava.vscode-java-debug-0.41.0.vsix";
+      sha256 = "sha256-QSaBXTWXjlIDiw1Uuox8LvSuJ9lwMPNcY3vdcMA5+3g=";
     };
     name = "vscode-java-debug";
     license = "";

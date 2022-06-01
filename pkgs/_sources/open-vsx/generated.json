@@ -15703,7 +15703,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shalldie-background",
-    "version": "1.1.30",
+    "version": "1.1.31",
     "passthru": {
       "name": "background",
       "license": "MIT",
@@ -15711,10 +15711,10 @@
       "description": "A simple tool to make your vscode's background look better!"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shalldie/background/1.1.30/file/shalldie.background-1.1.30.vsix",
+      "url": "https://open-vsx.org/api/shalldie/background/1.1.31/file/shalldie.background-1.1.31.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Sw7JTgmzCfmqyTTwhzH6vKQTphZc+YXJf2TCyDELDgg="
+      "sha256": "sha256-XIY+eB7dqhfBVYbJt8GcFwbvF1z9F+L35+SPEsLtc5E="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23383,7 +23383,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-debug",
-    "version": "0.40.1",
+    "version": "0.41.0",
     "passthru": {
       "name": "vscode-java-debug",
       "license": "",
@@ -23391,10 +23391,10 @@
       "description": "A lightweight Java debugger for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.40.1/file/vscjava.vscode-java-debug-0.40.1.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.41.0/file/vscjava.vscode-java-debug-0.41.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HkV55gkWnDRRg9Qlm9BTJRWCLltrnsLvzDmkd11246Q="
+      "sha256": "sha256-QSaBXTWXjlIDiw1Uuox8LvSuJ9lwMPNcY3vdcMA5+3g="
     },
     "extract": null,
     "rustGitDeps": null
