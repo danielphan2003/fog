@@ -8479,6 +8479,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "nickgo-cuelang": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "nickgo-cuelang",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "cuelang",
+      "license": "See license in LICENSE.md",
+      "publisher": "nickgo",
+      "description": "Cuelang Syntax Highlighting"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/nickgo/cuelang/0.0.1/file/nickgo.cuelang-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-yBun+0bcQmGjU98gs6g0Iop3O4HM/Ayk5Vju1z8/sU0="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "pshershov-blueberry-banana": {
     "pinned": false,
     "cargoLock": null,
@@ -10103,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.3.2420734",
+    "version": "7.4.2421335",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -10111,10 +10131,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2420734/file/eliostruyf.vscode-front-matter-beta-7.3.2420734.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2421335/file/eliostruyf.vscode-front-matter-beta-7.4.2421335.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-q9WnDcmRzz6jsDoDqosTlOIT3x1GBCGyX1uAqMYwM/s="
+      "sha256": "sha256-l/bpb7J2G3X/owgmDnjejVrJYPuv29lc79348CxFFG8="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17075,6 +17095,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-xEauuklK+VlpfW++XHHGK/4X4aWOzZ9++h3WMuMFuxo="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "cuelang-cue": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cuelang-cue",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "cue",
+      "license": "MIT",
+      "publisher": "cuelang",
+      "description": "CUE language support for Visual Studio Code"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cuelang/cue/0.0.1/file/cuelang.cue-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-u7jAMLwnPAl+SOkUvWgm6HZPHx1A8kINL/eQYgIKfiA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32703,7 +32743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.985",
+    "version": "31.0.986",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32711,10 +32751,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.985/file/Prisma.prisma-insider-31.0.985.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.986/file/Prisma.prisma-insider-31.0.986.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-OqoKS2MaGOeSBszPesenkrK159mWugOKJ+QqDbNHVUo="
+      "sha256": "sha256-8VRXpRL4yJoVXN8g3vKK60N9AyX4ZMskicS+fgyok24="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34735,6 +34775,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-71FaX7+ezGKYWDCSaHiaNm/lrSO+DeFH7oyqGVjzCSM="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "jallen7usa-vscode-cue-fmt": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "jallen7usa-vscode-cue-fmt",
+    "version": "0.1.1",
+    "passthru": {
+      "name": "vscode-cue-fmt",
+      "license": "Apache-2.0",
+      "publisher": "jallen7usa",
+      "description": "Add auto-formatting for CUE Lang files"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/jallen7usa/vscode-cue-fmt/0.1.1/file/jallen7usa.vscode-cue-fmt-0.1.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-M2X407lQ9tgZx+gXgGVC8jB6CiNIPsiJ4iwnMg7+iQc="
     },
     "extract": null,
     "rustGitDeps": null

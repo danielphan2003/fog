@@ -2823,10 +2823,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.985";
+    version = "31.0.986";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.985/file/Prisma.prisma-insider-31.0.985.vsix";
-      sha256 = "sha256-OqoKS2MaGOeSBszPesenkrK159mWugOKJ+QqDbNHVUo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.986/file/Prisma.prisma-insider-31.0.986.vsix";
+      sha256 = "sha256-8VRXpRL4yJoVXN8g3vKK60N9AyX4ZMskicS+fgyok24=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -6877,6 +6877,18 @@
     publisher = "ctf0";
     description = "automate repetitive actions with custom macros";
   };
+  cuelang-cue = {
+    pname = "cuelang-cue";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cuelang/cue/0.0.1/file/cuelang.cue-0.0.1.vsix";
+      sha256 = "sha256-u7jAMLwnPAl+SOkUvWgm6HZPHx1A8kINL/eQYgIKfiA=";
+    };
+    name = "cue";
+    license = "MIT";
+    publisher = "cuelang";
+    description = "CUE language support for Visual Studio Code";
+  };
   cup-lang-cup = {
     pname = "cup-lang-cup";
     version = "0.0.10";
@@ -7959,10 +7971,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2420734";
+    version = "7.4.2421335";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2420734/file/eliostruyf.vscode-front-matter-beta-7.3.2420734.vsix";
-      sha256 = "sha256-q9WnDcmRzz6jsDoDqosTlOIT3x1GBCGyX1uAqMYwM/s=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2421335/file/eliostruyf.vscode-front-matter-beta-7.4.2421335.vsix";
+      sha256 = "sha256-l/bpb7J2G3X/owgmDnjejVrJYPuv29lc79348CxFFG8=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -10572,6 +10584,18 @@
     license = "CC0-1.0";
     publisher = "jacobjohnston";
     description = "Renders markdown as it would appear in EncounterPlus";
+  };
+  jallen7usa-vscode-cue-fmt = {
+    pname = "jallen7usa-vscode-cue-fmt";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jallen7usa/vscode-cue-fmt/0.1.1/file/jallen7usa.vscode-cue-fmt-0.1.1.vsix";
+      sha256 = "sha256-M2X407lQ9tgZx+gXgGVC8jB6CiNIPsiJ4iwnMg7+iQc=";
+    };
+    name = "vscode-cue-fmt";
+    license = "Apache-2.0";
+    publisher = "jallen7usa";
+    description = "Add auto-formatting for CUE Lang files";
   };
   jamesinaxx-vscode-devaffirmations = {
     pname = "jamesinaxx-vscode-devaffirmations";
@@ -14256,6 +14280,18 @@
     license = "MIT";
     publisher = "nick-rudenko";
     description = "Adds go back/forward buttons for easier navigation";
+  };
+  nickgo-cuelang = {
+    pname = "nickgo-cuelang";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/nickgo/cuelang/0.0.1/file/nickgo.cuelang-0.0.1.vsix";
+      sha256 = "sha256-yBun+0bcQmGjU98gs6g0Iop3O4HM/Ayk5Vju1z8/sU0=";
+    };
+    name = "cuelang";
+    license = "See license in LICENSE.md";
+    publisher = "nickgo";
+    description = "Cuelang Syntax Highlighting";
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
