@@ -1045,9 +1045,9 @@
   },
   "ouch": {
     "pinned": false,
-    "cargoLock": "./ouch-35481bdb4d8120991cbf95dfea68f8b4373d9bd5/Cargo.lock",
+    "cargoLock": "./ouch-be0b68aee521b656a37a75035a25ff09f00fb68f/Cargo.lock",
     "name": "ouch",
-    "version": "35481bdb4d8120991cbf95dfea68f8b4373d9bd5",
+    "version": "be0b68aee521b656a37a75035a25ff09f00fb68f",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1057,8 +1057,8 @@
       "name": null,
       "repo": "ouch",
       "type": "github",
-      "sha256": "sha256-vlpOEeE/mTOSAFEzOj/z/JzdJhdz0GYZ3/GdkjdukOw=",
-      "rev": "35481bdb4d8120991cbf95dfea68f8b4373d9bd5"
+      "sha256": "sha256-NAuYE43mjWsvotC0Txg3gSl/54bswgITs2xS7YT10uc=",
+      "rev": "be0b68aee521b656a37a75035a25ff09f00fb68f"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "928530a1122b5b9bc9880bd2940923f7cd448a59",
+    "version": "81487169f089ec79a14849a12a1493419d6f4fe9",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-m0OTzexCOuTGnW9pSqudyz9btYPUGa2seygL3AtTnI0=",
-      "rev": "928530a1122b5b9bc9880bd2940923f7cd448a59"
+      "sha256": "sha256-TJ+r+zlzKHYRpw2jp3kU3XXI03yjnFoaQJRr1mdkAcE=",
+      "rev": "81487169f089ec79a14849a12a1493419d6f4fe9"
     },
     "extract": null,
     "rustGitDeps": null
