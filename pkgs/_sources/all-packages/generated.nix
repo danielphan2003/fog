@@ -176,13 +176,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "6da16ff4cd4cc373fa6995cae0988dd08530eb56";
+    version = "05d654a4287ab27f4fadb053c99f2921c396b1dc";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "6da16ff4cd4cc373fa6995cae0988dd08530eb56";
+      rev = "05d654a4287ab27f4fadb053c99f2921c396b1dc";
       fetchSubmodules = false;
-      sha256 = "sha256-DNozT6A+LiiVXA2R2LR5JIlHN/PxDpKxq74K3q1eZ8I=";
+      sha256 = "sha256-+LLtUGMszniKFSGUljGFYSYC1YNF6KFlE3sNGClLk4Y=";
     });
   };
   caddy = {
@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b5a100379ef960cfec3ee1b8c9c42ff660b2b350";
+    version = "9acf15efd7268406bffdf9141b31851a06007e24";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "b5a100379ef960cfec3ee1b8c9c42ff660b2b350";
+      rev = "9acf15efd7268406bffdf9141b31851a06007e24";
       fetchSubmodules = false;
-      sha256 = "sha256-H6M8WpKCVqFVEOBbocEmg68JCRkTXf6U+mhOaCL11PE=";
+      sha256 = "sha256-vH9tMfobRcW5v8oZj8BCPYFgR/XhlxQ1sQJzwhCRyH8=";
     });
   };
   ibus = {
@@ -437,10 +437,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6214";
+    version = "1.0.6215";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6214.tar.bz2";
-      sha256 = "sha256-T3vmyWbL0tjyUvfp6aw4ON5HeSNe6CtLCTO+IvQ/EhI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6215.tar.bz2";
+      sha256 = "sha256-/y+MIDwiGmIckgetv5clYXB3chcVT6QjdGLPS1n/pt0=";
     };
   };
   jitsi-meet-prosody = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-693-g4f507947";
+    version = "2.1-694-gb1a1d3e3";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-693-g4f507947-1_all.deb";
-      sha256 = "sha256-EZkRSUxRFWzPX9TKtBzfb8Xaq2extX9sYHlLjRVyOD8=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-694-gb1a1d3e3-1_all.deb";
+      sha256 = "sha256-T/JDNGTGD6VN7laRkZMn5cVg94NCRpnMOEkJiDOrbBI=";
     };
   };
   layout-machi = {
