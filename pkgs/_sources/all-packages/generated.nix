@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "300fc2ab0fea75789dac648647f68008280afa69";
+    version = "680705ff919ecd47b371ad83203985900631a550";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "300fc2ab0fea75789dac648647f68008280afa69";
+      rev = "680705ff919ecd47b371ad83203985900631a550";
       fetchSubmodules = false;
-      sha256 = "sha256-clCwaw/6F4MF4Fiz4G7jfngbijWgByNzGHhV7ll6b5U=";
+      sha256 = "sha256-f0PpXGxRsehODvi0pNe42jRScP1bCO5Pybnv/YQx+cQ=";
     });
   };
   ibus = {
@@ -429,10 +429,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-891";
+    version = "1.0-892";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-891-1_all.deb";
-      sha256 = "sha256-UnaA7WAvKd0x97/mmAbCx1Ezlm1fSXrF5As1lA1evrY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-892-1_all.deb";
+      sha256 = "sha256-6+j0AlxaAqDiUMdToiSjoHyFWHk5LqeD9iIqgUZbH0k=";
     };
   };
   jitsi-meet = {
@@ -925,13 +925,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "2bd000a8911567d067c9e93002728e5f209267e2";
+    version = "dd7a7e13e0dc7a717cc06bba9ea04ed29d70a30e";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "2bd000a8911567d067c9e93002728e5f209267e2";
+      rev = "dd7a7e13e0dc7a717cc06bba9ea04ed29d70a30e";
       fetchSubmodules = false;
-      sha256 = "sha256-Kw12JOUcFX3W564wRycmEXpk5yWYsSi6dJ264NV872k=";
+      sha256 = "sha256-v6KRTeXYgsL6bVSAY7qRjBCnKKELe9SSx7FVNRkbiRU=";
     });
   };
   spotify = {
