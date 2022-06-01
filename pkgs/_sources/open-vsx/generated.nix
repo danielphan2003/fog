@@ -2823,10 +2823,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.983";
+    version = "31.0.984";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.983/file/Prisma.prisma-insider-31.0.983.vsix";
-      sha256 = "sha256-WSH8SRDb8ajqx0TcvnjMgEk4EU+KyZ7yPKBPMVfgVUc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.984/file/Prisma.prisma-insider-31.0.984.vsix";
+      sha256 = "sha256-tiEwNpTQVBsDJK91bFQLmc65E7abrzFgK5mg7fVTiE0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -9507,10 +9507,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.0/file/halcyontechltd.vscode-rpgle-0.7.0.vsix";
-      sha256 = "sha256-QE3reVp386eH7hPlc3poTTFAg6wZS1k2Z1xE0gGEuxM=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.1/file/halcyontechltd.vscode-rpgle-0.7.1.vsix";
+      sha256 = "sha256-Tn2jl4PlAdwbjBdFEZMNyK1Aqcn7mzCTJmpDJPJJ5hs=";
     };
     name = "vscode-rpgle";
     license = "MIT";
@@ -10503,10 +10503,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.2.20";
+    version = "0.2.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.2.20/file/iterative.dvc-0.2.20.vsix";
-      sha256 = "sha256-PS4ixme3l4Y4GwfLxWQfLFHAUi4jL3GBhPFkoBfYo6w=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.2.21/file/iterative.dvc-0.2.21.vsix";
+      sha256 = "sha256-B3PfkQHi0NLzyFyvhEVYlQTufQvr4BW63Ua3PcpgVas=";
     };
     name = "dvc";
     license = "Apache-2.0";
@@ -21471,10 +21471,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.6/file/zardoy.ts-essential-plugins-0.0.6.vsix";
-      sha256 = "sha256-ZvBoF0hwrBySAoWbGxnFNMMBeshIPbFAmjOPFjeVUl0=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.7/file/zardoy.ts-essential-plugins-0.0.7.vsix";
+      sha256 = "sha256-GeyLrTDLKJPPg6YrqGJ89/uTPnsSWr5BJ3Mg92AcLds=";
     };
     name = "ts-essential-plugins";
     license = "MIT";
