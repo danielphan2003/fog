@@ -6471,15 +6471,27 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.2";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.2/file/cloudstudio.common-0.0.2.vsix";
-      sha256 = "sha256-8seTZBdgJjbsKwutVXwBPlcMbXmhohWV3zuwmJtnfLI=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.4/file/cloudstudio.common-0.0.4.vsix";
+      sha256 = "sha256-IhMx6idT6OlJwmood5dufRyT25PEhos89mFPRoeY80U=";
     };
     name = "common";
     license = "MIT";
     publisher = "cloudstudio";
     description = "This extension provides support for Cloud Stuido Web integration.";
+  };
+  cloudstudio-custom-template = {
+    pname = "cloudstudio-custom-template";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.1/file/cloudstudio.custom-template-0.0.1.vsix";
+      sha256 = "sha256-1TkUrcBYr4Z/IlJ0Afh7m9bD5qXAXfw8fYU31SIIPlM=";
+    };
+    name = "custom-template";
+    license = "MIT";
+    publisher = "cloudstudio";
+    description = "Cloud Studio \33258\23450\20041\27169\26495\25554\20214";
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
@@ -7443,10 +7455,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.96.6";
+    version = "0.97.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.96.6/file/dendron.nightly-0.96.6.vsix";
-      sha256 = "sha256-rjgQe7/edhnIQaqFIQtFXdZ0RVpfzn2JzuJ/N+SY0E4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.97.1/file/dendron.nightly-0.97.1.vsix";
+      sha256 = "sha256-gqn2Jgmt6Yq0zWlBaUG4DlgdC4vswfto00qYzFA9VOA=";
     };
     name = "nightly";
     license = "AGPL-3.0";

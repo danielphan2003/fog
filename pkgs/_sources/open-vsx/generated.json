@@ -1243,7 +1243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.96.6",
+    "version": "0.97.1",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1251,10 +1251,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.96.6/file/dendron.nightly-0.96.6.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.97.1/file/dendron.nightly-0.97.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-rjgQe7/edhnIQaqFIQtFXdZ0RVpfzn2JzuJ/N+SY0E4="
+      "sha256": "sha256-gqn2Jgmt6Yq0zWlBaUG4DlgdC4vswfto00qYzFA9VOA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16743,7 +16743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cloudstudio-common",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "passthru": {
       "name": "common",
       "license": "MIT",
@@ -16751,10 +16751,10 @@
       "description": "This extension provides support for Cloud Stuido Web integration."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cloudstudio/common/0.0.2/file/cloudstudio.common-0.0.2.vsix",
+      "url": "https://open-vsx.org/api/cloudstudio/common/0.0.4/file/cloudstudio.common-0.0.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8seTZBdgJjbsKwutVXwBPlcMbXmhohWV3zuwmJtnfLI="
+      "sha256": "sha256-IhMx6idT6OlJwmood5dufRyT25PEhos89mFPRoeY80U="
     },
     "extract": null,
     "rustGitDeps": null
@@ -23075,6 +23075,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-SoHJgyeBHUP5kSx1erNtL5G6xT8Rko1tqF9BYxzTZEc="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "cloudstudio-custom-template": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "cloudstudio-custom-template",
+    "version": "0.0.1",
+    "passthru": {
+      "name": "custom-template",
+      "license": "MIT",
+      "publisher": "cloudstudio",
+      "description": "Cloud Studio èªå®ä¹æ¨¡æ¿æä»¶"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/cloudstudio/custom-template/0.0.1/file/cloudstudio.custom-template-0.0.1.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-1TkUrcBYr4Z/IlJ0Afh7m9bD5qXAXfw8fYU31SIIPlM="
     },
     "extract": null,
     "rustGitDeps": null
