@@ -1875,10 +1875,10 @@
   };
   Kelvin-vscode-sshfs = {
     pname = "Kelvin-vscode-sshfs";
-    version = "1.24.1";
+    version = "1.25.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Kelvin/vscode-sshfs/1.24.1/file/Kelvin.vscode-sshfs-1.24.1.vsix";
-      sha256 = "sha256-ItuzwO6UBHmG0tgdOx83/KDFpK4soNYAAvT5eWEofa0=";
+      url = "https://open-vsx.org/api/Kelvin/vscode-sshfs/1.25.0/file/Kelvin.vscode-sshfs-1.25.0.vsix";
+      sha256 = "sha256-c1jpZJ5UsjeH1+ND9NcXd6FKsvCs8JMFGmSdK2ruomw=";
     };
     name = "vscode-sshfs";
     license = "GPL-3.0";

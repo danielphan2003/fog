@@ -33763,7 +33763,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Kelvin-vscode-sshfs",
-    "version": "1.24.1",
+    "version": "1.25.0",
     "passthru": {
       "name": "vscode-sshfs",
       "license": "GPL-3.0",
@@ -33771,10 +33771,10 @@
       "description": "File system, terminal and task provider using SSH"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Kelvin/vscode-sshfs/1.24.1/file/Kelvin.vscode-sshfs-1.24.1.vsix",
+      "url": "https://open-vsx.org/api/Kelvin/vscode-sshfs/1.25.0/file/Kelvin.vscode-sshfs-1.25.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ItuzwO6UBHmG0tgdOx83/KDFpK4soNYAAvT5eWEofa0="
+      "sha256": "sha256-c1jpZJ5UsjeH1+ND9NcXd6FKsvCs8JMFGmSdK2ruomw="
     },
     "extract": null,
     "rustGitDeps": null
