@@ -247,7 +247,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "bottles",
-    "version": "6da16ff4cd4cc373fa6995cae0988dd08530eb56",
+    "version": "05d654a4287ab27f4fadb053c99f2921c396b1dc",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -257,8 +257,8 @@
       "name": null,
       "repo": "Bottles",
       "type": "github",
-      "sha256": "sha256-DNozT6A+LiiVXA2R2LR5JIlHN/PxDpKxq74K3q1eZ8I=",
-      "rev": "6da16ff4cd4cc373fa6995cae0988dd08530eb56"
+      "sha256": "sha256-+LLtUGMszniKFSGUljGFYSYC1YNF6KFlE3sNGClLk4Y=",
+      "rev": "05d654a4287ab27f4fadb053c99f2921c396b1dc"
     },
     "extract": null,
     "rustGitDeps": null
@@ -472,13 +472,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet-prosody",
-    "version": "1.0.6214",
+    "version": "1.0.6215",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6214-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6215-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HkwEXSYKY3hiIBI7iIgVMVpgh1uku/bffDGZ7iHquiI="
+      "sha256": "sha256-uWa2exayVLQmbGqgSgXHAd+hr+pux0eLF+xM+5D2FvM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -958,13 +958,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-meet",
-    "version": "1.0.6214",
+    "version": "1.0.6215",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6214.tar.bz2",
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6215.tar.bz2",
       "name": null,
       "type": "url",
-      "sha256": "sha256-T3vmyWbL0tjyUvfp6aw4ON5HeSNe6CtLCTO+IvQ/EhI="
+      "sha256": "sha256-/y+MIDwiGmIckgetv5clYXB3chcVT6QjdGLPS1n/pt0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.1-693-g4f507947",
+    "version": "2.1-694-gb1a1d3e3",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-693-g4f507947-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-694-gb1a1d3e3-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-EZkRSUxRFWzPX9TKtBzfb8Xaq2extX9sYHlLjRVyOD8="
+      "sha256": "sha256-T/JDNGTGD6VN7laRkZMn5cVg94NCRpnMOEkJiDOrbBI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "b5a100379ef960cfec3ee1b8c9c42ff660b2b350",
+    "version": "9acf15efd7268406bffdf9141b31851a06007e24",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-H6M8WpKCVqFVEOBbocEmg68JCRkTXf6U+mhOaCL11PE=",
-      "rev": "b5a100379ef960cfec3ee1b8c9c42ff660b2b350"
+      "sha256": "sha256-vH9tMfobRcW5v8oZj8BCPYFgR/XhlxQ1sQJzwhCRyH8=",
+      "rev": "9acf15efd7268406bffdf9141b31851a06007e24"
     },
     "extract": null,
     "rustGitDeps": null
