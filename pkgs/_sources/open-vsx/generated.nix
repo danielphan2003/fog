@@ -2823,10 +2823,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.987";
+    version = "31.0.988";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.987/file/Prisma.prisma-insider-31.0.987.vsix";
-      sha256 = "sha256-84TxOVjm+9d6U1wk4AQEJZUEmKCxvkR0nZ5wDHkQtLc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.988/file/Prisma.prisma-insider-31.0.988.vsix";
+      sha256 = "sha256-H7vlGP1u55vSNP/wUrlCIuEPF2fmjnzgFk9bSe7d8Wc=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15637,6 +15637,18 @@
     publisher = "quarto";
     description = "Extension for the Quarto scientific and technical publishing system.";
   };
+  quentinguidee-gitignore-ultimate = {
+    pname = "quentinguidee-gitignore-ultimate";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/quentinguidee/gitignore-ultimate/0.3.0/file/quentinguidee.gitignore-ultimate-0.3.0.vsix";
+      sha256 = "sha256-U4vkG/A4sDVSu2CK/vhC6JEyQwH17pQLY0AK8/8h63Q=";
+    };
+    name = "gitignore-ultimate";
+    license = "MIT";
+    publisher = "quentinguidee";
+    description = "Your favorite companion to edit gitignore files.";
+  };
   qufiwefefwoyn-inline-sql-syntax = {
     pname = "qufiwefefwoyn-inline-sql-syntax";
     version = "2.10.3";
@@ -17547,10 +17559,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.11.5";
+    version = "0.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.11.5/file/sourcery.sourcery-0.11.5.vsix";
-      sha256 = "sha256-9upncKFwRHAeXUHgwyDfKCRYDi1psZQHkihNxEIK3Q8=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.0/file/sourcery.sourcery-0.12.0.vsix";
+      sha256 = "sha256-r10Ktbj3wAY+i+nBFjYrT4PBPCoATWETmtcGsOmG2zI=";
     };
     name = "sourcery";
     license = "MIT";
