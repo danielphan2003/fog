@@ -735,10 +735,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.42.0";
+    version = "3.42.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.42.0/file/Dart-Code.dart-code-3.42.0.vsix";
-      sha256 = "sha256-NuKdivSnwTIEFTdmHRvXyB+Cm1J0R+lq/TNaqRZMJSs=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.42.1/file/Dart-Code.dart-code-3.42.1.vsix";
+      sha256 = "sha256-nfHgV6147qSfJjraWAtcJZcVDnO9MWOhWz3G3HJXeFQ=";
     };
     name = "dart-code";
     license = "MIT";

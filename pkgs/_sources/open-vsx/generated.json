@@ -25323,7 +25323,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Dart-Code-dart-code",
-    "version": "3.42.0",
+    "version": "3.42.1",
     "passthru": {
       "name": "dart-code",
       "license": "MIT",
@@ -25331,10 +25331,10 @@
       "description": "Dart language support and debugger for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.42.0/file/Dart-Code.dart-code-3.42.0.vsix",
+      "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.42.1/file/Dart-Code.dart-code-3.42.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NuKdivSnwTIEFTdmHRvXyB+Cm1J0R+lq/TNaqRZMJSs="
+      "sha256": "sha256-nfHgV6147qSfJjraWAtcJZcVDnO9MWOhWz3G3HJXeFQ="
     },
     "extract": null,
     "rustGitDeps": null
