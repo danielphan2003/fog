@@ -387,10 +387,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.7.0";
+    version = "3.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.7.0/file/CL.eide-3.7.0.vsix";
-      sha256 = "sha256-JitwKHWrC/T1mW2kojrBUsywulQ1ZEO04znpiY/wP8E=";
+      url = "https://open-vsx.org/api/CL/eide/3.7.1/file/CL.eide-3.7.1.vsix";
+      sha256 = "sha256-t1Fg/TJt61vG3vkdq6L1sGZGRuaKDowpFsrtyeknE24=";
     };
     name = "eide";
     license = "MIT";
@@ -735,10 +735,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.40.0";
+    version = "3.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.40.0/file/Dart-Code.dart-code-3.40.0.vsix";
-      sha256 = "sha256-QNRGj+diRrzppjlCueJiusnTaTL1mvXLf54QLpcaM24=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.42.0/file/Dart-Code.dart-code-3.42.0.vsix";
+      sha256 = "sha256-NuKdivSnwTIEFTdmHRvXyB+Cm1J0R+lq/TNaqRZMJSs=";
     };
     name = "dart-code";
     license = "MIT";
@@ -747,10 +747,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.40.0";
+    version = "3.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.40.0/file/Dart-Code.flutter-3.40.0.vsix";
-      sha256 = "sha256-VRizKgVLs4hz+7VIlAjT4QfobxweKjyhmJ75ZfAqpHc=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.42.0/file/Dart-Code.flutter-3.42.0.vsix";
+      sha256 = "sha256-5bdvtxBg0J0Bjrb3j0syeP8ADywt3mw0030aOS5tUVk=";
     };
     name = "flutter";
     license = "MIT";
@@ -5667,10 +5667,10 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.14/file/betterthantomorrow.joyride-0.0.14.vsix";
-      sha256 = "sha256-JS+8JVNIQyNKMC7YKOEgi+1/m1dD63QCSs64wkTJojk=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.15/file/betterthantomorrow.joyride-0.0.15.vsix";
+      sha256 = "sha256-OAVMV58ROQenVq++w0CwkwKhJ3DPgGDdaxqP6aiHwYQ=";
     };
     name = "joyride";
     license = "MIT";
@@ -11943,10 +11943,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.76";
+    version = "0.0.77";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.76/file/leanprover.lean4-0.0.76.vsix";
-      sha256 = "sha256-ZET8RcRwb6hXXwtsgpLjRq/26MiTMgTLEPRfzGkBYyI=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.77/file/leanprover.lean4-0.0.77.vsix";
+      sha256 = "sha256-ZjAZqD544EHr+RCUnLmxi6GosxqQQ+GjX58Ye1nPPFA=";
     };
     name = "lean4";
     license = "Apache-2.0";
@@ -15411,10 +15411,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.16";
+    version = "2.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.16/file/pomdtr.excalidraw-editor-2.1.16.vsix";
-      sha256 = "sha256-wRXJ5S02WEQy1KSjkbo8dfKgjVxYnFp4UWCjl+NucsM=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.17/file/pomdtr.excalidraw-editor-2.1.17.vsix";
+      sha256 = "sha256-9SWvtjjPRy4loMW83gbudhRJlW6acEMDW8AGO8/jE+A=";
     };
     name = "excalidraw-editor";
     license = "MIT";
