@@ -7947,10 +7947,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.3.1";
+    version = "7.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.1/file/eliostruyf.vscode-front-matter-7.3.1.vsix";
-      sha256 = "sha256-S57ZHgIwYIs4YeOWJCsax8osaaSP8Vc0iyFIA2kWQ6w=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.2/file/eliostruyf.vscode-front-matter-7.3.2.vsix";
+      sha256 = "sha256-R3s66Ih2zgsnhaALqT6CZ2NXwsgBmo+Jvs1MC7Y0hPQ=";
     };
     name = "vscode-front-matter";
     license = "MIT";
@@ -7959,10 +7959,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.3.2391988";
+    version = "7.3.2420734";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2391988/file/eliostruyf.vscode-front-matter-beta-7.3.2391988.vsix";
-      sha256 = "sha256-sU+cbHv3TpNAPya6D7rTImQtoDwWEIqM9se9s3e6jZ4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2420734/file/eliostruyf.vscode-front-matter-beta-7.3.2420734.vsix";
+      sha256 = "sha256-q9WnDcmRzz6jsDoDqosTlOIT3x1GBCGyX1uAqMYwM/s=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -17496,6 +17496,18 @@
     license = "MIT";
     publisher = "soerenuhrbach";
     description = "Easily translate into more than 25 languages directly from your favourite editor using DeepL.";
+  };
+  solidjs-community-solid-snippets = {
+    pname = "solidjs-community-solid-snippets";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/solidjs-community/solid-snippets/0.1.2/file/solidjs-community.solid-snippets-0.1.2.vsix";
+      sha256 = "sha256-UXvRnCyWMF2eB77GvOQzRK6UDMUqPqrkAT0RoadKaVQ=";
+    };
+    name = "solid-snippets";
+    license = "MIT";
+    publisher = "solidjs-community";
+    description = "VSCode extension with helpful code snippets for SolidJS.";
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";

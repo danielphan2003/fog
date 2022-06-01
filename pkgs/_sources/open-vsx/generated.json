@@ -3243,7 +3243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter",
-    "version": "7.3.1",
+    "version": "7.3.2",
     "passthru": {
       "name": "vscode-front-matter",
       "license": "MIT",
@@ -3251,10 +3251,10 @@
       "description": "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.1/file/eliostruyf.vscode-front-matter-7.3.1.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.2/file/eliostruyf.vscode-front-matter-7.3.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-S57ZHgIwYIs4YeOWJCsax8osaaSP8Vc0iyFIA2kWQ6w="
+      "sha256": "sha256-R3s66Ih2zgsnhaALqT6CZ2NXwsgBmo+Jvs1MC7Y0hPQ="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10103,7 +10103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.3.2391988",
+    "version": "7.3.2420734",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -10111,10 +10111,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2391988/file/eliostruyf.vscode-front-matter-beta-7.3.2391988.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.3.2420734/file/eliostruyf.vscode-front-matter-beta-7.3.2420734.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-sU+cbHv3TpNAPya6D7rTImQtoDwWEIqM9se9s3e6jZ4="
+      "sha256": "sha256-q9WnDcmRzz6jsDoDqosTlOIT3x1GBCGyX1uAqMYwM/s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17355,6 +17355,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-QcKYj616OK7ZLQL3+1vdlBUTUo2T0gpJ2K/223UC66E="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "solidjs-community-solid-snippets": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "solidjs-community-solid-snippets",
+    "version": "0.1.2",
+    "passthru": {
+      "name": "solid-snippets",
+      "license": "MIT",
+      "publisher": "solidjs-community",
+      "description": "VSCode extension with helpful code snippets for SolidJS."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/solidjs-community/solid-snippets/0.1.2/file/solidjs-community.solid-snippets-0.1.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-UXvRnCyWMF2eB77GvOQzRK6UDMUqPqrkAT0RoadKaVQ="
     },
     "extract": null,
     "rustGitDeps": null
