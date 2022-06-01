@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-892",
+    "version": "1.0-893",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-892-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-893-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-6+j0AlxaAqDiUMdToiSjoHyFWHk5LqeD9iIqgUZbH0k="
+      "sha256": "sha256-f0pBsxzIWt95+OGwSY1cpruitDEalUTQhU3TnP2KnG0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -879,7 +879,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "retroarch",
-    "version": "a92a37e3f4c0810138f0782f6c752f863da6d1a7",
+    "version": "9fbf1c846f3be73565477594f2f9f52d9382e2a0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -889,8 +889,8 @@
       "name": null,
       "repo": "retroarch",
       "type": "github",
-      "sha256": "sha256-bucU1d4JlcCv/N73/jhNrv3QT1TBuShtyaGWaHZ3f1M=",
-      "rev": "a92a37e3f4c0810138f0782f6c752f863da6d1a7"
+      "sha256": "sha256-Hlu46jslPT5JldOW7sr25tL/0VFj3uMMovdZljyy+ts=",
+      "rev": "9fbf1c846f3be73565477594f2f9f52d9382e2a0"
     },
     "extract": null,
     "rustGitDeps": null
