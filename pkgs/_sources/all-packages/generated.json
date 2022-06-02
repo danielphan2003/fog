@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-894",
+    "version": "1.0-895",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-894-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-895-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-+hsUGeijRLbXdqUzi51mJW5eouZRhoRXxRaKwkyKObg="
+      "sha256": "sha256-Rt6nif19CU/ME4yPRZdi4H7zxXPhRyg8FG2zkHdnt0s="
     },
     "extract": null,
     "rustGitDeps": null
