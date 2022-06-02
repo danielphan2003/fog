@@ -340,13 +340,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "7a57268ca333fb28d39245aea07e79f72d4ac037";
+    version = "65e3a013605c9aacaecfaffc65423311d41b2a7f";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "7a57268ca333fb28d39245aea07e79f72d4ac037";
+      rev = "65e3a013605c9aacaecfaffc65423311d41b2a7f";
       fetchSubmodules = false;
-      sha256 = "sha256-YsNSIk75xr0qjwICMkNTsVVSgB9zYnOWVrJPfjhesSA=";
+      sha256 = "sha256-8A2kXFNm3up80wXOZklov14S5f9h/0IONtUyiLeR0yc=";
     });
   };
   flyingfox = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e07b56b6461a445e3aed52bd0003e5a124336848";
+    version = "801dbd58a8fcd713e7bc0900021f754372b363aa";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e07b56b6461a445e3aed52bd0003e5a124336848";
+      rev = "801dbd58a8fcd713e7bc0900021f754372b363aa";
       fetchSubmodules = false;
-      sha256 = "sha256-RMRD1MG9GO0NTs5zbLi6nD5/0PHgQvZwJIORYGoxptE=";
+      sha256 = "sha256-IiCBiQk848hLzzieTZFdwzsDtQAFUITO0cBGJegp3vk=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-e07b56b6461a445e3aed52bd0003e5a124336848/Cargo.lock;
+      lockFile = ./rustdesk-801dbd58a8fcd713e7bc0900021f754372b363aa/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
