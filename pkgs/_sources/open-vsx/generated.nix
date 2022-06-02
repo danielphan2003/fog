@@ -6999,10 +6999,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.3.7";
+    version = "5.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.7/file/cweijan.vscode-mysql-client2-5.3.7.vsix";
-      sha256 = "sha256-RRdgfTwe5LH1BnGyaL1j+xWLVuFcuzVejJ02KxMGXTM=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.8/file/cweijan.vscode-mysql-client2-5.3.8.vsix";
+      sha256 = "sha256-5eHsFybil67ivumnhbV7RH+HH6GavjHAIZ4mdDMkfjI=";
     };
     name = "vscode-mysql-client2";
     license = "MIT";
@@ -7491,10 +7491,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.97.2";
+    version = "0.97.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.97.2/file/dendron.nightly-0.97.2.vsix";
-      sha256 = "sha256-vn7NMO9VPqGXzicvK8iW4+V/RWQE4eOdZueGGH+n8X4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.97.3/file/dendron.nightly-0.97.3.vsix";
+      sha256 = "sha256-wHhr8vf8MLtXdodqWuqIhl0tiva7Kecxux8tt0+2H9U=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -11151,15 +11151,15 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.51";
+    version = "0.16.52";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.51/file/jroesch.lean-0.16.51.vsix";
-      sha256 = "sha256-4AA7YA43ngcs3BHWEi9QRJN1SrUK07wCbmx01DPnbKc=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.52/file/jroesch.lean-0.16.52.vsix";
+      sha256 = "sha256-yKpyALgwIkVb91fkQ8KgG6GV90S2B+lKAzG8so0hUJY=";
     };
     name = "lean";
     license = "Apache-2.0";
     publisher = "jroesch";
-    description = "An extension for VS Code which provides support for the Lean language.";
+    description = "Lean 3 language support for VS Code";
   };
   jsDelivr-jsdelivr = {
     pname = "jsDelivr-jsdelivr";
@@ -15447,10 +15447,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.19";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.19/file/pomdtr.excalidraw-editor-2.1.19.vsix";
-      sha256 = "sha256-q/ImnK5dHyv/7KsCgqEqHvc29F6cUAwtQovcCVO6MvA=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.0.0/file/pomdtr.excalidraw-editor-3.0.0.vsix";
+      sha256 = "sha256-s2Y0XBmcp7jmBpWzKkZ4isX6CxT4T34R8MevTM9kSKs=";
     };
     name = "excalidraw-editor";
     license = "MIT";
@@ -17628,6 +17628,18 @@
     license = "GPLv2";
     publisher = "spnda";
     description = "Adds the NewGRF Meta Language";
+  };
+  spoorthi-cosmy-wasmy = {
+    pname = "spoorthi-cosmy-wasmy";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.1.0/file/spoorthi.cosmy-wasmy-0.1.0.vsix";
+      sha256 = "sha256-QaXlPyrkVSm/aZ5Cp0HAD6LKgho63NZvKES+nD0XRZs=";
+    };
+    name = "cosmy-wasmy";
+    license = "GPL-3.0";
+    publisher = "spoorthi";
+    description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm contracts";
   };
   srimukh-slowbug = {
     pname = "srimukh-slowbug";
