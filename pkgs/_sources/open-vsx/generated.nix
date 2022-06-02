@@ -2823,10 +2823,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.989";
+    version = "31.0.990";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.989/file/Prisma.prisma-insider-31.0.989.vsix";
-      sha256 = "sha256-w3UN9c9QMfcPU3oDAEt4mxiOEBq2eviauJmHZYm91qg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.990/file/Prisma.prisma-insider-31.0.990.vsix";
+      sha256 = "sha256-iRxP2qjaF3Y0FtRaO4LFnjXP79sFvxPosOCzUXdI2+Y=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -15435,10 +15435,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "2.1.17";
+    version = "2.1.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.17/file/pomdtr.excalidraw-editor-2.1.17.vsix";
-      sha256 = "sha256-9SWvtjjPRy4loMW83gbudhRJlW6acEMDW8AGO8/jE+A=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.19/file/pomdtr.excalidraw-editor-2.1.19.vsix";
+      sha256 = "sha256-q/ImnK5dHyv/7KsCgqEqHvc29F6cUAwtQovcCVO6MvA=";
     };
     name = "excalidraw-editor";
     license = "MIT";
