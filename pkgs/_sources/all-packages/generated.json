@@ -774,13 +774,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jicofo",
-    "version": "1.0-893",
+    "version": "1.0-894",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jicofo_1.0-893-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jicofo_1.0-894-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-f0pBsxzIWt95+OGwSY1cpruitDEalUTQhU3TnP2KnG0="
+      "sha256": "sha256-+hsUGeijRLbXdqUzi51mJW5eouZRhoRXxRaKwkyKObg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -2113,9 +2113,9 @@
   },
   "rustdesk": {
     "pinned": false,
-    "cargoLock": "./rustdesk-384e9c81945a404c18f6f0935dcce4ceb91eb58d/Cargo.lock",
+    "cargoLock": "./rustdesk-9568f3527fb0c4f5f8cbad078b399e9b577a72ad/Cargo.lock",
     "name": "rustdesk",
-    "version": "384e9c81945a404c18f6f0935dcce4ceb91eb58d",
+    "version": "9568f3527fb0c4f5f8cbad078b399e9b577a72ad",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -2125,8 +2125,8 @@
       "name": null,
       "repo": "rustdesk",
       "type": "github",
-      "sha256": "sha256-ycNNLvqM7TgkkVWmOS4wbgsdkS7JIAcLGNIH9KPpjFY=",
-      "rev": "384e9c81945a404c18f6f0935dcce4ceb91eb58d"
+      "sha256": "sha256-jWsJW4GBad5dIXAEfs8OR3pywGALlc1WND4g1txJ5oQ=",
+      "rev": "9568f3527fb0c4f5f8cbad078b399e9b577a72ad"
     },
     "extract": null,
     "rustGitDeps": {
