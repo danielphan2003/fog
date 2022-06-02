@@ -655,9 +655,9 @@
   },
   "supergfxctl": {
     "pinned": false,
-    "cargoLock": "./supergfxctl-dd3a59677658e2356b1d15e51becaafe998820d9/Cargo.lock",
+    "cargoLock": "./supergfxctl-de0f8219c245708d472f4a77dcb4ddd574060a9e/Cargo.lock",
     "name": "supergfxctl",
-    "version": "dd3a59677658e2356b1d15e51becaafe998820d9",
+    "version": "de0f8219c245708d472f4a77dcb4ddd574060a9e",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -666,8 +666,8 @@
       "fetchSubmodules": false,
       "name": null,
       "type": "git",
-      "sha256": "sha256-KElTMo7Tc+tRGl5wpdeCh7Oj1qrMMLWcof0CUq9YZMQ=",
-      "rev": "dd3a59677658e2356b1d15e51becaafe998820d9"
+      "sha256": "sha256-nr4KvI4hfyRTqyOjaeBcL22HqH5Dw3YX5I/ZVaApUiM=",
+      "rev": "de0f8219c245708d472f4a77dcb4ddd574060a9e"
     },
     "extract": null,
     "rustGitDeps": {}
@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.2-2-ge8f54639",
+    "version": "2.2-3-ga9b07d4c",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-2-ge8f54639-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-3-ga9b07d4c-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-uNlL91rsjwCdOGNW09rJsRfp8arkr2+rQBDISqYTkns="
+      "sha256": "sha256-mMCKVz60FSwrI0U6PicxCJtUjtsviW3n+6hfVDLIfFs="
     },
     "extract": null,
     "rustGitDeps": null

@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-2-ge8f54639";
+    version = "2.2-3-ga9b07d4c";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-2-ge8f54639-1_all.deb";
-      sha256 = "sha256-uNlL91rsjwCdOGNW09rJsRfp8arkr2+rQBDISqYTkns=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-3-ga9b07d4c-1_all.deb";
+      sha256 = "sha256-mMCKVz60FSwrI0U6PicxCJtUjtsviW3n+6hfVDLIfFs=";
     };
   };
   layout-machi = {
@@ -970,17 +970,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "dd3a59677658e2356b1d15e51becaafe998820d9";
+    version = "de0f8219c245708d472f4a77dcb4ddd574060a9e";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "dd3a59677658e2356b1d15e51becaafe998820d9";
+      rev = "de0f8219c245708d472f4a77dcb4ddd574060a9e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-KElTMo7Tc+tRGl5wpdeCh7Oj1qrMMLWcof0CUq9YZMQ=";
+      sha256 = "sha256-nr4KvI4hfyRTqyOjaeBcL22HqH5Dw3YX5I/ZVaApUiM=";
     };
     cargoLock = {
-      lockFile = ./supergfxctl-dd3a59677658e2356b1d15e51becaafe998820d9/Cargo.lock;
+      lockFile = ./supergfxctl-de0f8219c245708d472f4a77dcb4ddd574060a9e/Cargo.lock;
       outputHashes = { };
     };
   };
