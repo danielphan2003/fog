@@ -567,7 +567,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "flameshot",
-    "version": "46801d933a5bf9e0ee4f9bd921875f3663ceb103",
+    "version": "7a57268ca333fb28d39245aea07e79f72d4ac037",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -577,8 +577,8 @@
       "name": null,
       "repo": "flameshot",
       "type": "github",
-      "sha256": "sha256-El+7wHiKbyImWL9db3O781baDPX//IHYAZy12Ulv6yI=",
-      "rev": "46801d933a5bf9e0ee4f9bd921875f3663ceb103"
+      "sha256": "sha256-YsNSIk75xr0qjwICMkNTsVVSgB9zYnOWVrJPfjhesSA=",
+      "rev": "7a57268ca333fb28d39245aea07e79f72d4ac037"
     },
     "extract": null,
     "rustGitDeps": null
