@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "a2f718059b18c0e73032bce45b1bd7558c2f75d6";
+    version = "7b568d7ad8989718a3f1fa9e23d366154ff1962b";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "a2f718059b18c0e73032bce45b1bd7558c2f75d6";
+      rev = "7b568d7ad8989718a3f1fa9e23d366154ff1962b";
       fetchSubmodules = false;
-      sha256 = "sha256-ymZY2mYhZCENaQFQT5wV/61QIhCIJRh1kqcdyJR0Ci4=";
+      sha256 = "sha256-9OLOV253iTtirIdha1KP7RzD7rqnYDogwG+PABDtz+o=";
     });
   };
   ibus = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.1-694-gb1a1d3e3";
+    version = "2.1-1878-g8a2713d0";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-694-gb1a1d3e3-1_all.deb";
-      sha256 = "sha256-T/JDNGTGD6VN7laRkZMn5cVg94NCRpnMOEkJiDOrbBI=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.1-1878-g8a2713d0-1_all.deb";
+      sha256 = "sha256-FbYAWMUdT3f7LmoY8vLJppyL/sn6VLm0+ul7L3ZEbl0=";
     };
   };
   layout-machi = {
@@ -546,10 +546,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "102.0.1245.25";
+    version = "103.0.1264.13";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_102.0.1245.25-1_amd64.deb";
-      sha256 = "sha256-okMgakUNDJGMQYy3mi3pm+SHYwWlID8pwTnKutOf8Sc=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_103.0.1264.13-1_amd64.deb";
+      sha256 = "sha256-H0rLoQmnAKpVysYmCZhTRrRbE5thgLFBIWWxXZ5AZ8s=";
     };
   };
   microsoft-edge-dev = {
@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9568f3527fb0c4f5f8cbad078b399e9b577a72ad";
+    version = "25ca2042130aff6b943cbc548eab48088ca4e3be";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9568f3527fb0c4f5f8cbad078b399e9b577a72ad";
+      rev = "25ca2042130aff6b943cbc548eab48088ca4e3be";
       fetchSubmodules = false;
-      sha256 = "sha256-jWsJW4GBad5dIXAEfs8OR3pywGALlc1WND4g1txJ5oQ=";
+      sha256 = "sha256-kwKJh9i8OPs77Wx8o1ynkQUIb3g2230mWsD72tmHtXA=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-9568f3527fb0c4f5f8cbad078b399e9b577a72ad/Cargo.lock;
+      lockFile = ./rustdesk-25ca2042130aff6b943cbc548eab48088ca4e3be/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
