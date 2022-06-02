@@ -13299,10 +13299,10 @@
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
-    version = "1.7.2";
+    version = "1.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.2/file/ms-azuretools.vscode-azurefunctions-1.7.2.vsix";
-      sha256 = "sha256-cQ+uLP+7LFGSehm9jKxUkpm+6NLDIWhqyqLju9F8430=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.3/file/ms-azuretools.vscode-azurefunctions-1.7.3.vsix";
+      sha256 = "sha256-og0knnoTvkLfuoVxDUhZezzMPGRpQ8Co9du5BJilluw=";
     };
     name = "vscode-azurefunctions";
     license = "MIT";
@@ -14175,10 +14175,10 @@
   };
   naumovs-color-highlight = {
     pname = "naumovs-color-highlight";
-    version = "2.5.0";
+    version = "2.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/naumovs/color-highlight/2.5.0/file/naumovs.color-highlight-2.5.0.vsix";
-      sha256 = "sha256-y+9fdQHR19h3/v+RCadBIvnj+j8E4ZxOXstgJhvqFOQ=";
+      url = "https://open-vsx.org/api/naumovs/color-highlight/2.6.0/file/naumovs.color-highlight-2.6.0.vsix";
+      sha256 = "sha256-JvnaEqclAqXNZNBYV5BXvRGE5HJpC4RNt5W3FvrItiA=";
     };
     name = "color-highlight";
     license = "GPL-3.0";
@@ -19515,10 +19515,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.22.4";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.4/file/vscjava.vscode-java-pack-0.22.4.vsix";
-      sha256 = "sha256-LOeZfHzKupT2075yaPMZ3X3JHeSSNVPv4pQocRXkQ5M=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.23.0/file/vscjava.vscode-java-pack-0.23.0.vsix";
+      sha256 = "sha256-T8E2FG0I3mPgABkoXgJgViVsYH7qDJWQMmbOIBjCF1w=";
     };
     name = "vscode-java-pack";
     license = "MIT";
@@ -19551,10 +19551,10 @@
   };
   vscjava-vscode-spring-boot-dashboard = {
     pname = "vscjava-vscode-spring-boot-dashboard";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.3.1/file/vscjava.vscode-spring-boot-dashboard-0.3.1.vsix";
-      sha256 = "sha256-9zjy1Iij3umY0/maEj1lJWS7k1G31m8MNtUZ1p1mgck=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.4.0/file/vscjava.vscode-spring-boot-dashboard-0.4.0.vsix";
+      sha256 = "sha256-pubPBdUyOEGu4yCNwtHv3DUSvWl6FomUcVhUtqN6hgs=";
     };
     name = "vscode-spring-boot-dashboard";
     license = "MIT";

@@ -6223,7 +6223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-java-pack",
-    "version": "0.22.4",
+    "version": "0.23.0",
     "passthru": {
       "name": "vscode-java-pack",
       "license": "MIT",
@@ -6231,10 +6231,10 @@
       "description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.22.4/file/vscjava.vscode-java-pack-0.22.4.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.23.0/file/vscjava.vscode-java-pack-0.23.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LOeZfHzKupT2075yaPMZ3X3JHeSSNVPv4pQocRXkQ5M="
+      "sha256": "sha256-T8E2FG0I3mPgABkoXgJgViVsYH7qDJWQMmbOIBjCF1w="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10283,7 +10283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "naumovs-color-highlight",
-    "version": "2.5.0",
+    "version": "2.6.0",
     "passthru": {
       "name": "color-highlight",
       "license": "GPL-3.0",
@@ -10291,10 +10291,10 @@
       "description": "Highlight web colors in your editor"
     },
     "src": {
-      "url": "https://open-vsx.org/api/naumovs/color-highlight/2.5.0/file/naumovs.color-highlight-2.5.0.vsix",
+      "url": "https://open-vsx.org/api/naumovs/color-highlight/2.6.0/file/naumovs.color-highlight-2.6.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-y+9fdQHR19h3/v+RCadBIvnj+j8E4ZxOXstgJhvqFOQ="
+      "sha256": "sha256-JvnaEqclAqXNZNBYV5BXvRGE5HJpC4RNt5W3FvrItiA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -34223,7 +34223,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "vscjava-vscode-spring-boot-dashboard",
-    "version": "0.3.1",
+    "version": "0.4.0",
     "passthru": {
       "name": "vscode-spring-boot-dashboard",
       "license": "MIT",
@@ -34231,10 +34231,10 @@
       "description": "Spring Boot Dashboard for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.3.1/file/vscjava.vscode-spring-boot-dashboard-0.3.1.vsix",
+      "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.4.0/file/vscjava.vscode-spring-boot-dashboard-0.4.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9zjy1Iij3umY0/maEj1lJWS7k1G31m8MNtUZ1p1mgck="
+      "sha256": "sha256-pubPBdUyOEGu4yCNwtHv3DUSvWl6FomUcVhUtqN6hgs="
     },
     "extract": null,
     "rustGitDeps": null
@@ -36443,7 +36443,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "ms-azuretools-vscode-azurefunctions",
-    "version": "1.7.2",
+    "version": "1.7.3",
     "passthru": {
       "name": "vscode-azurefunctions",
       "license": "MIT",
@@ -36451,10 +36451,10 @@
       "description": "An Azure Functions extension for Visual Studio Code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.2/file/ms-azuretools.vscode-azurefunctions-1.7.2.vsix",
+      "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.3/file/ms-azuretools.vscode-azurefunctions-1.7.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cQ+uLP+7LFGSehm9jKxUkpm+6NLDIWhqyqLju9F8430="
+      "sha256": "sha256-og0knnoTvkLfuoVxDUhZezzMPGRpQ8Co9du5BJilluw="
     },
     "extract": null,
     "rustGitDeps": null
