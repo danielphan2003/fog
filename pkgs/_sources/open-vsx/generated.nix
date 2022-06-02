@@ -2823,10 +2823,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.988";
+    version = "31.0.989";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.988/file/Prisma.prisma-insider-31.0.988.vsix";
-      sha256 = "sha256-H7vlGP1u55vSNP/wUrlCIuEPF2fmjnzgFk9bSe7d8Wc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.989/file/Prisma.prisma-insider-31.0.989.vsix";
+      sha256 = "sha256-w3UN9c9QMfcPU3oDAEt4mxiOEBq2eviauJmHZYm91qg=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3807,10 +3807,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.10.0";
+    version = "9.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.0/file/YXL.cloudmusic-9.10.0.vsix";
-      sha256 = "sha256-IO9KJnBefwpgx98TrtNQE4ZOKuMHbeVFlQkIzTj0BlE=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.1/file/YXL.cloudmusic-9.10.1.vsix";
+      sha256 = "sha256-qyaZWMa2SkCQws3iRo/WyD054x+B1EP/DskqcEtDcFM=";
     };
     name = "cloudmusic";
     license = "MIT";
@@ -5091,10 +5091,10 @@
   };
   arnoudkooicom-sn-scriptsync = {
     pname = "arnoudkooicom-sn-scriptsync";
-    version = "2.3.2";
+    version = "2.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.2/file/arnoudkooicom.sn-scriptsync-2.3.2.vsix";
-      sha256 = "sha256-GDzDTdwUa2Jjw3dkB0alNQdiaSstxMMqrOjAy8BI5Es=";
+      url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.3/file/arnoudkooicom.sn-scriptsync-2.3.3.vsix";
+      sha256 = "sha256-C9qlot8fOo2bLKn1mmlqkdhdtjTI0UpNv1PENELdEOI=";
     };
     name = "sn-scriptsync";
     license = "MIT";
@@ -7059,10 +7059,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.18.2";
+    version = "0.18.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.2/file/cyrusfirheir.twee3-language-tools-0.18.2.vsix";
-      sha256 = "sha256-DuadzjllcpyePDGBIuyahXORaDtMfJ1Y6Xppwsv315I=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.3/file/cyrusfirheir.twee3-language-tools-0.18.3.vsix";
+      sha256 = "sha256-fg97cYkw1DVtAQKADvwzo2mGfRcg2wOcwxVD8NGzfP4=";
     };
     name = "twee3-language-tools";
     license = "MIT";
@@ -9555,10 +9555,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.13";
+    version = "0.1.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.13/file/hall.draw-0.1.13.vsix";
-      sha256 = "sha256-QF2iWePkQRjoQWAHFhCp/JKGh0Ve4XwPyijO5Yy2l1Q=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.14/file/hall.draw-0.1.14.vsix";
+      sha256 = "sha256-vJSvmYB7S53jr/AC4Mx46AZb3Z2fHvzQc5nfdjwOK64=";
     };
     name = "draw";
     license = "Apache-2.0";

@@ -8243,7 +8243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "arnoudkooicom-sn-scriptsync",
-    "version": "2.3.2",
+    "version": "2.3.3",
     "passthru": {
       "name": "sn-scriptsync",
       "license": "MIT",
@@ -8251,10 +8251,10 @@
       "description": "ServiceNow ScriptSync for VS Code. (Personal work of Arnoud Kooi)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.2/file/arnoudkooicom.sn-scriptsync-2.3.2.vsix",
+      "url": "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.3/file/arnoudkooicom.sn-scriptsync-2.3.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-GDzDTdwUa2Jjw3dkB0alNQdiaSstxMMqrOjAy8BI5Es="
+      "sha256": "sha256-C9qlot8fOo2bLKn1mmlqkdhdtjTI0UpNv1PENELdEOI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18723,7 +18723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hall-draw",
-    "version": "0.1.13",
+    "version": "0.1.14",
     "passthru": {
       "name": "draw",
       "license": "Apache-2.0",
@@ -18731,10 +18731,10 @@
       "description": "Draw an SVG image with a mouse or pen"
     },
     "src": {
-      "url": "https://open-vsx.org/api/hall/draw/0.1.13/file/hall.draw-0.1.13.vsix",
+      "url": "https://open-vsx.org/api/hall/draw/0.1.14/file/hall.draw-0.1.14.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QF2iWePkQRjoQWAHFhCp/JKGh0Ve4XwPyijO5Yy2l1Q="
+      "sha256": "sha256-vJSvmYB7S53jr/AC4Mx46AZb3Z2fHvzQc5nfdjwOK64="
     },
     "extract": null,
     "rustGitDeps": null
@@ -27103,7 +27103,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "YXL-cloudmusic",
-    "version": "9.10.0",
+    "version": "9.10.1",
     "passthru": {
       "name": "cloudmusic",
       "license": "MIT",
@@ -27111,10 +27111,10 @@
       "description": "Netease Music for VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.10.0/file/YXL.cloudmusic-9.10.0.vsix",
+      "url": "https://open-vsx.org/api/YXL/cloudmusic/9.10.1/file/YXL.cloudmusic-9.10.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-IO9KJnBefwpgx98TrtNQE4ZOKuMHbeVFlQkIzTj0BlE="
+      "sha256": "sha256-qyaZWMa2SkCQws3iRo/WyD054x+B1EP/DskqcEtDcFM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32783,7 +32783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.988",
+    "version": "31.0.989",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32791,10 +32791,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.988/file/Prisma.prisma-insider-31.0.988.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.989/file/Prisma.prisma-insider-31.0.989.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-H7vlGP1u55vSNP/wUrlCIuEPF2fmjnzgFk9bSe7d8Wc="
+      "sha256": "sha256-w3UN9c9QMfcPU3oDAEt4mxiOEBq2eviauJmHZYm91qg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -35343,7 +35343,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "cyrusfirheir-twee3-language-tools",
-    "version": "0.18.2",
+    "version": "0.18.3",
     "passthru": {
       "name": "twee3-language-tools",
       "license": "MIT",
@@ -35351,10 +35351,10 @@
       "description": "Syntax highlighting and programmatic language tools for Twee 3."
     },
     "src": {
-      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.2/file/cyrusfirheir.twee3-language-tools-0.18.2.vsix",
+      "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.3/file/cyrusfirheir.twee3-language-tools-0.18.3.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-DuadzjllcpyePDGBIuyahXORaDtMfJ1Y6Xppwsv315I="
+      "sha256": "sha256-fg97cYkw1DVtAQKADvwzo2mGfRcg2wOcwxVD8NGzfP4="
     },
     "extract": null,
     "rustGitDeps": null
