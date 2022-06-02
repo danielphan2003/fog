@@ -2835,10 +2835,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.990";
+    version = "31.0.991";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.990/file/Prisma.prisma-insider-31.0.990.vsix";
-      sha256 = "sha256-iRxP2qjaF3Y0FtRaO4LFnjXP79sFvxPosOCzUXdI2+Y=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.991/file/Prisma.prisma-insider-31.0.991.vsix";
+      sha256 = "sha256-NNo8SDiXPIpqk4pN2L7lavN58YJlVt6KtmisEReMVqw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -17223,10 +17223,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.14.4";
+    version = "0.14.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.4/file/shufo.vscode-blade-formatter-0.14.4.vsix";
-      sha256 = "sha256-PopHyY6w5oXJrT/gcPn7mx9qkTf9AMs9LnJXYYSWH38=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.5/file/shufo.vscode-blade-formatter-0.14.5.vsix";
+      sha256 = "sha256-JzoA3R1ZFS204iJ4tFwFaYYAmnPLNbuFWVjIX5Vnp78=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -21639,10 +21639,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.58";
+    version = "0.0.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.58/file/zardoy.zardoy-experiments-0.0.58.vsix";
-      sha256 = "sha256-8ZqfNM6vI6VioeJqeqc0EkK/Db4YpcCgm84o2K4Y/2E=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.59/file/zardoy.zardoy-experiments-0.0.59.vsix";
+      sha256 = "sha256-sqPgxsepT/w3rh7b2Gk3lUmoKKp2jBflgG8PWWXFZ28=";
     };
     name = "zardoy-experiments";
     license = "MIT";

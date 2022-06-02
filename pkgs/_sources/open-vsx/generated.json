@@ -6063,7 +6063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "zardoy-zardoy-experiments",
-    "version": "0.0.58",
+    "version": "0.0.59",
     "passthru": {
       "name": "zardoy-experiments",
       "license": "MIT",
@@ -6071,10 +6071,10 @@
       "description": "Highly experimental features and commands"
     },
     "src": {
-      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.58/file/zardoy.zardoy-experiments-0.0.58.vsix",
+      "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.59/file/zardoy.zardoy-experiments-0.0.59.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-8ZqfNM6vI6VioeJqeqc0EkK/Db4YpcCgm84o2K4Y/2E="
+      "sha256": "sha256-sqPgxsepT/w3rh7b2Gk3lUmoKKp2jBflgG8PWWXFZ28="
     },
     "extract": null,
     "rustGitDeps": null
@@ -18743,7 +18743,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "shufo-vscode-blade-formatter",
-    "version": "0.14.4",
+    "version": "0.14.5",
     "passthru": {
       "name": "vscode-blade-formatter",
       "license": "MIT",
@@ -18751,10 +18751,10 @@
       "description": "Laravel Blade formatter for VSCode"
     },
     "src": {
-      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.4/file/shufo.vscode-blade-formatter-0.14.4.vsix",
+      "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.5/file/shufo.vscode-blade-formatter-0.14.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-PopHyY6w5oXJrT/gcPn7mx9qkTf9AMs9LnJXYYSWH38="
+      "sha256": "sha256-JzoA3R1ZFS204iJ4tFwFaYYAmnPLNbuFWVjIX5Vnp78="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32843,7 +32843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.990",
+    "version": "31.0.991",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32851,10 +32851,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.990/file/Prisma.prisma-insider-31.0.990.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.991/file/Prisma.prisma-insider-31.0.991.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-iRxP2qjaF3Y0FtRaO4LFnjXP79sFvxPosOCzUXdI2+Y="
+      "sha256": "sha256-NNo8SDiXPIpqk4pN2L7lavN58YJlVt6KtmisEReMVqw="
     },
     "extract": null,
     "rustGitDeps": null
