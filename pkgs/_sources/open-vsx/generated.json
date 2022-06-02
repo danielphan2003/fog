@@ -15979,6 +15979,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "akshayganeshen-beryl": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "akshayganeshen-beryl",
+    "version": "1.0.3",
+    "passthru": {
+      "name": "beryl",
+      "license": "MIT",
+      "publisher": "akshayganeshen",
+      "description": "VS Code colour scheme based on material colours."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/akshayganeshen/beryl/1.0.3/file/akshayganeshen.beryl-1.0.3.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-TIkBY+x4PDTZlBuq0vkZNRfYcVyIUUdSwqlacYdLhlk="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "Hachidaime-brick-shinkuro": {
     "pinned": false,
     "cargoLock": null,

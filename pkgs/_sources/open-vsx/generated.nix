@@ -4333,6 +4333,18 @@
     publisher = "akosyakov";
     description = "Resource monitor for Gitpod workspaces";
   };
+  akshayganeshen-beryl = {
+    pname = "akshayganeshen-beryl";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/akshayganeshen/beryl/1.0.3/file/akshayganeshen.beryl-1.0.3.vsix";
+      sha256 = "sha256-TIkBY+x4PDTZlBuq0vkZNRfYcVyIUUdSwqlacYdLhlk=";
+    };
+    name = "beryl";
+    license = "MIT";
+    publisher = "akshayganeshen";
+    description = "VS Code colour scheme based on material colours.";
+  };
   alantech-alan-lang = {
     pname = "alantech-alan-lang";
     version = "0.1.0";
