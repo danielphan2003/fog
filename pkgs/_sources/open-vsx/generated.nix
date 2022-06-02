@@ -531,10 +531,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "12.18.0";
+    version = "13.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/12.18.0/file/CodeStream.codestream-12.18.0.vsix";
-      sha256 = "sha256-fLcRYw/SqWlAxN0HCVFvV3zM6UUZxGq372sfmHviWQI=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/13.0.0/file/CodeStream.codestream-13.0.0.vsix";
+      sha256 = "sha256-i9if1VJXO1RkS87+J81MqoI/z3bz8hUaXJ4yI37e9EI=";
     };
     name = "codestream";
     license = "UNLICENSED";
@@ -1335,10 +1335,10 @@
   };
   GulajavaMinistudio-mayukaithemevsc = {
     pname = "GulajavaMinistudio-mayukaithemevsc";
-    version = "3.2.1";
+    version = "3.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.1/file/GulajavaMinistudio.mayukaithemevsc-3.2.1.vsix";
-      sha256 = "sha256-H7ZNtEvMMI/hWcPkUVhTmT9UCvWaEC7bnSICpGQRoDo=";
+      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.2/file/GulajavaMinistudio.mayukaithemevsc-3.2.2.vsix";
+      sha256 = "sha256-JsQo22sWijwTIj4LqTLiXGDYAT+DIfwp7ph42ZBkvHE=";
     };
     name = "mayukaithemevsc";
     license = "MIT";
@@ -2835,10 +2835,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.991";
+    version = "31.0.992";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.991/file/Prisma.prisma-insider-31.0.991.vsix";
-      sha256 = "sha256-NNo8SDiXPIpqk4pN2L7lavN58YJlVt6KtmisEReMVqw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.992/file/Prisma.prisma-insider-31.0.992.vsix";
+      sha256 = "sha256-BIRjWPnBLr/PUP1xRjQvlNXC4qp8Zjpw5Ywx/9VL9So=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -3015,10 +3015,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.32.0";
+    version = "2.32.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.32.0/file/RokuCommunity.brightscript-2.32.0.vsix";
-      sha256 = "sha256-tbzfnYEdvoZvSKtSkpk5FFeeq2PrU8C7OskIGfPmoe0=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.32.1/file/RokuCommunity.brightscript-2.32.1.vsix";
+      sha256 = "sha256-b8fY9ji/W5PUQrxls1L58pujFLYImqSLn9P/0Nq1Y18=";
     };
     name = "brightscript";
     license = "MIT";
@@ -18195,10 +18195,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.16.1";
+    version = "105.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.16.1/file/svelte.svelte-vscode-105.16.1.vsix";
-      sha256 = "sha256-sQrTFAMzJX0CkWNx6RLy7MY5t+ZmamXuwkNzIO0ttfg=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.17.0/file/svelte.svelte-vscode-105.17.0.vsix";
+      sha256 = "sha256-tp7sTxBZURrQXQtTuc/u3kgesmhZ0M7c8is+ckyowsY=";
     };
     name = "svelte-vscode";
     license = "MIT";
