@@ -3219,10 +3219,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.5.3";
+    version = "3.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.3/file/SonarSource.sonarlint-vscode-3.5.3.vsix";
-      sha256 = "sha256-nd4NYjkNDCOeXZ2myLJ8gY2l0m4bKAenMe3kpR4pnyA=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.4/file/SonarSource.sonarlint-vscode-3.5.4.vsix";
+      sha256 = "sha256-AXUrduYJ9CEZL41XAUu2Flgn5URoUqOuUEIXv1nwXU0=";
     };
     name = "sonarlint-vscode";
     license = "LGPL-3.0";
@@ -3363,10 +3363,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.53";
+    version = "3.5.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.53/file/TabNine.tabnine-vscode-3.5.53.vsix";
-      sha256 = "sha256-QinVGJCKsxRBIZ4ubHKmZeit4UyA/oYTPEub9X5lcic=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.54/file/TabNine.tabnine-vscode-3.5.54.vsix";
+      sha256 = "sha256-5i5FvXAaTzQZrEMMB1ZEKZutsf1651jEi/hafH/6qbM=";
     };
     name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
@@ -7479,10 +7479,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.97.1";
+    version = "0.97.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.97.1/file/dendron.nightly-0.97.1.vsix";
-      sha256 = "sha256-gqn2Jgmt6Yq0zWlBaUG4DlgdC4vswfto00qYzFA9VOA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.97.2/file/dendron.nightly-0.97.2.vsix";
+      sha256 = "sha256-vn7NMO9VPqGXzicvK8iW4+V/RWQE4eOdZueGGH+n8X4=";
     };
     name = "nightly";
     license = "AGPL-3.0";
@@ -7983,10 +7983,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.4.2421335";
+    version = "7.4.2426673";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2421335/file/eliostruyf.vscode-front-matter-beta-7.4.2421335.vsix";
-      sha256 = "sha256-l/bpb7J2G3X/owgmDnjejVrJYPuv29lc79348CxFFG8=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2426673/file/eliostruyf.vscode-front-matter-beta-7.4.2426673.vsix";
+      sha256 = "sha256-YiHKI/mL6RTnq3MxCt5/dP03qWBGguPtxbZTeJgWA3Y=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -13248,6 +13248,18 @@
     license = "MIT";
     publisher = "mrmlnc";
     description = "Syntax highlighter for Apache configuration files";
+  };
+  mrmlnc-vscode-csscomb = {
+    pname = "mrmlnc-vscode-csscomb";
+    version = "5.3.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mrmlnc/vscode-csscomb/5.3.2/file/mrmlnc.vscode-csscomb-5.3.2.vsix";
+      sha256 = "sha256-2ByMhD6RwlNXeNOVgOiZdyFruY6fbSk+YbV0h2OH4z0=";
+    };
+    name = "vscode-csscomb";
+    license = "MIT";
+    publisher = "mrmlnc";
+    description = "Coding style formatter for CSS, Less, SCSS or Sass";
   };
   mrmlnc-vscode-duplicate = {
     pname = "mrmlnc-vscode-duplicate";
@@ -19095,10 +19107,10 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.2.1";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.2.1/file/usernamehw.commands-1.2.1.vsix";
-      sha256 = "sha256-I4dEJKxkN4bgdANSiU9rb2spqEX0/7AoqsbdDzAudo8=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.2.2/file/usernamehw.commands-1.2.2.vsix";
+      sha256 = "sha256-hwYc171ceejp3eaZHtTgC65vtfsp0JjZ09THZJMey9I=";
     };
     name = "commands";
     license = "MIT";

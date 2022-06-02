@@ -1243,7 +1243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.97.1",
+    "version": "0.97.2",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1251,10 +1251,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.97.1/file/dendron.nightly-0.97.1.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.97.2/file/dendron.nightly-0.97.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-gqn2Jgmt6Yq0zWlBaUG4DlgdC4vswfto00qYzFA9VOA="
+      "sha256": "sha256-vn7NMO9VPqGXzicvK8iW4+V/RWQE4eOdZueGGH+n8X4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -4663,7 +4663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "SonarSource-sonarlint-vscode",
-    "version": "3.5.3",
+    "version": "3.5.4",
     "passthru": {
       "name": "sonarlint-vscode",
       "license": "LGPL-3.0",
@@ -4671,10 +4671,10 @@
       "description": "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript."
     },
     "src": {
-      "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.3/file/SonarSource.sonarlint-vscode-3.5.3.vsix",
+      "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.4/file/SonarSource.sonarlint-vscode-3.5.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nd4NYjkNDCOeXZ2myLJ8gY2l0m4bKAenMe3kpR4pnyA="
+      "sha256": "sha256-AXUrduYJ9CEZL41XAUu2Flgn5URoUqOuUEIXv1nwXU0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10123,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.4.2421335",
+    "version": "7.4.2426673",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -10131,10 +10131,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2421335/file/eliostruyf.vscode-front-matter-beta-7.4.2421335.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2426673/file/eliostruyf.vscode-front-matter-beta-7.4.2426673.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-l/bpb7J2G3X/owgmDnjejVrJYPuv29lc79348CxFFG8="
+      "sha256": "sha256-YiHKI/mL6RTnq3MxCt5/dP03qWBGguPtxbZTeJgWA3Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10203,7 +10203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "TabNine-tabnine-vscode",
-    "version": "3.5.53",
+    "version": "3.5.54",
     "passthru": {
       "name": "tabnine-vscode",
       "license": "License at https://tabnine.com/eula",
@@ -10211,10 +10211,10 @@
       "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code."
     },
     "src": {
-      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.53/file/TabNine.tabnine-vscode-3.5.53.vsix",
+      "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.54/file/TabNine.tabnine-vscode-3.5.54.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-QinVGJCKsxRBIZ4ubHKmZeit4UyA/oYTPEub9X5lcic="
+      "sha256": "sha256-5i5FvXAaTzQZrEMMB1ZEKZutsf1651jEi/hafH/6qbM="
     },
     "extract": null,
     "rustGitDeps": null
@@ -12835,6 +12835,26 @@
       "name": null,
       "type": "url",
       "sha256": "sha256-Jk7JTnaAwx1A5A7bk8yPHXMLILouODPCmcciPAZe1ak="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
+  "mrmlnc-vscode-csscomb": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "mrmlnc-vscode-csscomb",
+    "version": "5.3.2",
+    "passthru": {
+      "name": "vscode-csscomb",
+      "license": "MIT",
+      "publisher": "mrmlnc",
+      "description": "Coding style formatter for CSS, Less, SCSS or Sass"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/mrmlnc/vscode-csscomb/5.3.2/file/mrmlnc.vscode-csscomb-5.3.2.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-2ByMhD6RwlNXeNOVgOiZdyFruY6fbSk+YbV0h2OH4z0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28903,7 +28923,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "usernamehw-commands",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "passthru": {
       "name": "commands",
       "license": "MIT",
@@ -28911,10 +28931,10 @@
       "description": "Run commands from Tree View / Status Bar / Quick Pick."
     },
     "src": {
-      "url": "https://open-vsx.org/api/usernamehw/commands/1.2.1/file/usernamehw.commands-1.2.1.vsix",
+      "url": "https://open-vsx.org/api/usernamehw/commands/1.2.2/file/usernamehw.commands-1.2.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-I4dEJKxkN4bgdANSiU9rb2spqEX0/7AoqsbdDzAudo8="
+      "sha256": "sha256-hwYc171ceejp3eaZHtTgC65vtfsp0JjZ09THZJMey9I="
     },
     "extract": null,
     "rustGitDeps": null
