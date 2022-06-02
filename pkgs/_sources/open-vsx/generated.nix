@@ -2451,10 +2451,10 @@
   };
   Mineiros-terramate = {
     pname = "Mineiros-terramate";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Mineiros/terramate/0.0.1/file/Mineiros.terramate-0.0.1.vsix";
-      sha256 = "sha256-ZUCZoznl5QEYC4TaV3ffy2O1HSKQPTJ2IfpBZ6wVbrs=";
+      url = "https://open-vsx.org/api/Mineiros/terramate/0.0.2/file/Mineiros.terramate-0.0.2.vsix";
+      sha256 = "sha256-qoe3s7JLg8sjqqMsFium42Am3cRiMo1nkOnE+uan+fc=";
     };
     name = "terramate";
     license = "Apache";
@@ -20883,10 +20883,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.23";
+    version = "0.5.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.23/file/wcrichton.flowistry-0.5.23.vsix";
-      sha256 = "sha256-HNSBGPy6Q0ZXIkjRG8K8ycmqIiuAyDCRctVL4Nf7OLU=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.24/file/wcrichton.flowistry-0.5.24.vsix";
+      sha256 = "sha256-ukyjQbBNaXxiSovi4M8Z4DBtbsnTvh3buszGCUyGPzk=";
     };
     name = "flowistry";
     license = "MIT";

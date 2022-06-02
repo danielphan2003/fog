@@ -11903,7 +11903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wcrichton-flowistry",
-    "version": "0.5.23",
+    "version": "0.5.24",
     "passthru": {
       "name": "flowistry",
       "license": "MIT",
@@ -11911,10 +11911,10 @@
       "description": "Information Flow in the IDE for Rust"
     },
     "src": {
-      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.23/file/wcrichton.flowistry-0.5.23.vsix",
+      "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.24/file/wcrichton.flowistry-0.5.24.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-HNSBGPy6Q0ZXIkjRG8K8ycmqIiuAyDCRctVL4Nf7OLU="
+      "sha256": "sha256-ukyjQbBNaXxiSovi4M8Z4DBtbsnTvh3buszGCUyGPzk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -28943,7 +28943,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Mineiros-terramate",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "passthru": {
       "name": "terramate",
       "license": "Apache",
@@ -28951,10 +28951,10 @@
       "description": "VSCode Terramate Extension"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Mineiros/terramate/0.0.1/file/Mineiros.terramate-0.0.1.vsix",
+      "url": "https://open-vsx.org/api/Mineiros/terramate/0.0.2/file/Mineiros.terramate-0.0.2.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-ZUCZoznl5QEYC4TaV3ffy2O1HSKQPTJ2IfpBZ6wVbrs="
+      "sha256": "sha256-qoe3s7JLg8sjqqMsFium42Am3cRiMo1nkOnE+uan+fc="
     },
     "extract": null,
     "rustGitDeps": null
