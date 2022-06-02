@@ -12783,7 +12783,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pomdtr-excalidraw-editor",
-    "version": "2.1.17",
+    "version": "2.1.19",
     "passthru": {
       "name": "excalidraw-editor",
       "license": "MIT",
@@ -12791,10 +12791,10 @@
       "description": "Draw schemas in VS Code using Excalidraw"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.17/file/pomdtr.excalidraw-editor-2.1.17.vsix",
+      "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/2.1.19/file/pomdtr.excalidraw-editor-2.1.19.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-9SWvtjjPRy4loMW83gbudhRJlW6acEMDW8AGO8/jE+A="
+      "sha256": "sha256-q/ImnK5dHyv/7KsCgqEqHvc29F6cUAwtQovcCVO6MvA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32803,7 +32803,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.989",
+    "version": "31.0.990",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32811,10 +32811,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.989/file/Prisma.prisma-insider-31.0.989.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.990/file/Prisma.prisma-insider-31.0.990.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w3UN9c9QMfcPU3oDAEt4mxiOEBq2eviauJmHZYm91qg="
+      "sha256": "sha256-iRxP2qjaF3Y0FtRaO4LFnjXP79sFvxPosOCzUXdI2+Y="
     },
     "extract": null,
     "rustGitDeps": null
