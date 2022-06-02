@@ -388,13 +388,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7b568d7ad8989718a3f1fa9e23d366154ff1962b";
+    version = "f9c8a72e4689869a4373ce25b2458820027881e0";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "7b568d7ad8989718a3f1fa9e23d366154ff1962b";
+      rev = "f9c8a72e4689869a4373ce25b2458820027881e0";
       fetchSubmodules = false;
-      sha256 = "sha256-9OLOV253iTtirIdha1KP7RzD7rqnYDogwG+PABDtz+o=";
+      sha256 = "sha256-o8zH79yNz6HA14q16CUOx1MpqiLE37o+UpUiXljBVJU=";
     });
   };
   ibus = {
@@ -453,10 +453,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-1-g6410113e";
+    version = "2.2-2-ge8f54639";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-1-g6410113e-1_all.deb";
-      sha256 = "sha256-30GuK+qrOfZxAHzJAfsD9RhO0cC9hA9dtXN2MEg4Rvg=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-2-ge8f54639-1_all.deb";
+      sha256 = "sha256-uNlL91rsjwCdOGNW09rJsRfp8arkr2+rQBDISqYTkns=";
     };
   };
   layout-machi = {

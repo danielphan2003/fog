@@ -1137,13 +1137,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "jitsi-videobridge2",
-    "version": "2.2-1-g6410113e",
+    "version": "2.2-2-ge8f54639",
     "passthru": null,
     "src": {
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-1-g6410113e-1_all.deb",
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-2-ge8f54639-1_all.deb",
       "name": null,
       "type": "url",
-      "sha256": "sha256-30GuK+qrOfZxAHzJAfsD9RhO0cC9hA9dtXN2MEg4Rvg="
+      "sha256": "sha256-uNlL91rsjwCdOGNW09rJsRfp8arkr2+rQBDISqYTkns="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1232,7 +1232,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "hyprland",
-    "version": "7b568d7ad8989718a3f1fa9e23d366154ff1962b",
+    "version": "f9c8a72e4689869a4373ce25b2458820027881e0",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1242,8 +1242,8 @@
       "name": null,
       "repo": "hyprland",
       "type": "github",
-      "sha256": "sha256-9OLOV253iTtirIdha1KP7RzD7rqnYDogwG+PABDtz+o=",
-      "rev": "7b568d7ad8989718a3f1fa9e23d366154ff1962b"
+      "sha256": "sha256-o8zH79yNz6HA14q16CUOx1MpqiLE37o+UpUiXljBVJU=",
+      "rev": "f9c8a72e4689869a4373ce25b2458820027881e0"
     },
     "extract": null,
     "rustGitDeps": null
