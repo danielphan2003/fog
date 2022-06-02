@@ -2449,6 +2449,18 @@
     publisher = "Mikhail-Arkhipov";
     description = "R Tools (IntelliSense, signature help, tooltips and more)";
   };
+  Mineiros-terramate = {
+    pname = "Mineiros-terramate";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Mineiros/terramate/0.0.1/file/Mineiros.terramate-0.0.1.vsix";
+      sha256 = "sha256-ZUCZoznl5QEYC4TaV3ffy2O1HSKQPTJ2IfpBZ6wVbrs=";
+    };
+    name = "terramate";
+    license = "Apache";
+    publisher = "Mineiros";
+    description = "VSCode Terramate Extension";
+  };
   ModestExtensionTeam-modestextension = {
     pname = "ModestExtensionTeam-modestextension";
     version = "0.0.9";
@@ -8319,10 +8331,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.32";
+    version = "1.3.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.32/file/everscale.solidity-support-1.3.32.vsix";
-      sha256 = "sha256-Tfii1vWZfe/d5VUHsl37p8tqkiASU/M5p/X4ISIOtnc=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.41/file/everscale.solidity-support-1.3.41.vsix";
+      sha256 = "sha256-WHfexMHnvnq8urlLzciZRtABUb2EkJu7aTHPses94UE=";
     };
     name = "solidity-support";
     license = "Apache-2.0";
@@ -11415,10 +11427,10 @@
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
-    version = "1.30.0";
+    version = "1.30.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.30.0/file/keesschollaart.vscode-home-assistant-1.30.0.vsix";
-      sha256 = "sha256-rmumP8FuYGIHVamNsRPYI9ZTi68y6jGIjCmBR2MSXa0=";
+      url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.30.1/file/keesschollaart.vscode-home-assistant-1.30.1.vsix";
+      sha256 = "sha256-d6wVKyFfMirFMeuZrCHmxbeKZr7ohmdvRnc7i9DE0cA=";
     };
     name = "vscode-home-assistant";
     license = "MIT";
@@ -15999,10 +16011,10 @@
   };
   redhat-vscode-camelk = {
     pname = "redhat-vscode-camelk";
-    version = "0.0.30";
+    version = "0.0.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.30/file/redhat.vscode-camelk-0.0.30.vsix";
-      sha256 = "sha256-wDamudFyzmUOkIL/0O8pYysj7ckftnmyLuiq/X6MubM=";
+      url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.31/file/redhat.vscode-camelk-0.0.31.vsix";
+      sha256 = "sha256-OFgDkGgP/EXZDVAKh7B2gdpA8j+bgBQCWLx5BQqoxuE=";
     };
     name = "vscode-camelk";
     license = "Apache-2.0";
@@ -17211,10 +17223,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.14.3";
+    version = "0.14.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.3/file/shufo.vscode-blade-formatter-0.14.3.vsix";
-      sha256 = "sha256-6xTssNSBizdUeP1QjjndYd6yEwiJPcl3vsUR/n2jucE=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.4/file/shufo.vscode-blade-formatter-0.14.4.vsix";
+      sha256 = "sha256-PopHyY6w5oXJrT/gcPn7mx9qkTf9AMs9LnJXYYSWH38=";
     };
     name = "vscode-blade-formatter";
     license = "MIT";
@@ -17667,10 +17679,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.0/file/statelyai.stately-vscode-1.8.0.vsix";
-      sha256 = "sha256-OeHd/QBxlIvtP4JwWhH7VodAPY/istZ9JZefMD/SwSg=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.1/file/statelyai.stately-vscode-1.8.1.vsix";
+      sha256 = "sha256-63yKSX9e+T9NMa/L579XjkzhU2XDR9o5wrVA7KGMNMk=";
     };
     name = "stately-vscode";
     license = "MIT";
