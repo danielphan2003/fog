@@ -10123,7 +10123,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "eliostruyf-vscode-front-matter-beta",
-    "version": "7.4.2426673",
+    "version": "7.4.2435049",
     "passthru": {
       "name": "vscode-front-matter-beta",
       "license": "MIT",
@@ -10131,10 +10131,10 @@
       "description": "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more..."
     },
     "src": {
-      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2426673/file/eliostruyf.vscode-front-matter-beta-7.4.2426673.vsix",
+      "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2435049/file/eliostruyf.vscode-front-matter-beta-7.4.2435049.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-YiHKI/mL6RTnq3MxCt5/dP03qWBGguPtxbZTeJgWA3Y="
+      "sha256": "sha256-yTV0rlpv0FpNtUs9kSRFFhsri8miZsszYt7WXR5y7y0="
     },
     "extract": null,
     "rustGitDeps": null
@@ -13903,7 +13903,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "pokey-cursorless",
-    "version": "0.25.341",
+    "version": "0.25.342",
     "passthru": {
       "name": "cursorless",
       "license": "MIT",
@@ -13911,10 +13911,10 @@
       "description": "Structural voice coding at the speed of thought"
     },
     "src": {
-      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.341/file/pokey.cursorless-0.25.341.vsix",
+      "url": "https://open-vsx.org/api/pokey/cursorless/0.25.342/file/pokey.cursorless-0.25.342.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-1+5XvoZAk7u2NcDYVqKITGC5gxwtkaNl9RxSVclFVNs="
+      "sha256": "sha256-mKFNo5ijrOuRsKmZD9iDsOWFUHvjdlg63C9V7y/KV8I="
     },
     "extract": null,
     "rustGitDeps": null
@@ -24663,7 +24663,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tfsec-tfsec",
-    "version": "1.10.0",
+    "version": "1.10.1",
     "passthru": {
       "name": "tfsec",
       "license": "MIT",
@@ -24671,10 +24671,10 @@
       "description": "tfsec integration for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/tfsec/tfsec/1.10.0/file/tfsec.tfsec-1.10.0.vsix",
+      "url": "https://open-vsx.org/api/tfsec/tfsec/1.10.1/file/tfsec.tfsec-1.10.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KroSM2vvEkK9/WYiHcNAZf23I8pbmVpT02fumIqGDWA="
+      "sha256": "sha256-meHXbEsYEStLcvAgXRtyt53EtQp0AtYDLUwEyZPKoDg="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32863,7 +32863,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.995",
+    "version": "31.0.996",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32871,10 +32871,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.995/file/Prisma.prisma-insider-31.0.995.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.996/file/Prisma.prisma-insider-31.0.996.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-dVvn4agQKXeaNP/mRBWEcmJV2tL5yTeN6ZyMOWokHM8="
+      "sha256": "sha256-vkFoBzaMP3P/AlVe3aWhvW1gFvxdqRC7cl3kzUsIjPk="
     },
     "extract": null,
     "rustGitDeps": null
@@ -33643,7 +33643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "betterthantomorrow-calva",
-    "version": "2.0.280",
+    "version": "2.0.281",
     "passthru": {
       "name": "calva",
       "license": "MIT",
@@ -33651,10 +33651,10 @@
       "description": "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp."
     },
     "src": {
-      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.280/file/betterthantomorrow.calva-2.0.280.vsix",
+      "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.281/file/betterthantomorrow.calva-2.0.281.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-pwRGkRxXObspjUvXloiOP8sGMVJXJDFr8t5tc2w7cCA="
+      "sha256": "sha256-3SQ09Rd337DTcHb1zsa6SPdkShhOhqkQtZsSzLFDoXg="
     },
     "extract": null,
     "rustGitDeps": null

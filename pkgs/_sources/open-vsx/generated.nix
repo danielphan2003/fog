@@ -2835,10 +2835,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.995";
+    version = "31.0.996";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.995/file/Prisma.prisma-insider-31.0.995.vsix";
-      sha256 = "sha256-dVvn4agQKXeaNP/mRBWEcmJV2tL5yTeN6ZyMOWokHM8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.996/file/Prisma.prisma-insider-31.0.996.vsix";
+      sha256 = "sha256-vkFoBzaMP3P/AlVe3aWhvW1gFvxdqRC7cl3kzUsIjPk=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -5679,10 +5679,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.280";
+    version = "2.0.281";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.280/file/betterthantomorrow.calva-2.0.280.vsix";
-      sha256 = "sha256-pwRGkRxXObspjUvXloiOP8sGMVJXJDFr8t5tc2w7cCA=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.281/file/betterthantomorrow.calva-2.0.281.vsix";
+      sha256 = "sha256-3SQ09Rd337DTcHb1zsa6SPdkShhOhqkQtZsSzLFDoXg=";
     };
     name = "calva";
     license = "MIT";
@@ -7995,10 +7995,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "7.4.2426673";
+    version = "7.4.2435049";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2426673/file/eliostruyf.vscode-front-matter-beta-7.4.2426673.vsix";
-      sha256 = "sha256-YiHKI/mL6RTnq3MxCt5/dP03qWBGguPtxbZTeJgWA3Y=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2435049/file/eliostruyf.vscode-front-matter-beta-7.4.2435049.vsix";
+      sha256 = "sha256-yTV0rlpv0FpNtUs9kSRFFhsri8miZsszYt7WXR5y7y0=";
     };
     name = "vscode-front-matter-beta";
     license = "MIT";
@@ -15411,10 +15411,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.25.341";
+    version = "0.25.342";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.25.341/file/pokey.cursorless-0.25.341.vsix";
-      sha256 = "sha256-1+5XvoZAk7u2NcDYVqKITGC5gxwtkaNl9RxSVclFVNs=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.25.342/file/pokey.cursorless-0.25.342.vsix";
+      sha256 = "sha256-mKFNo5ijrOuRsKmZD9iDsOWFUHvjdlg63C9V7y/KV8I=";
     };
     name = "cursorless";
     license = "MIT";
@@ -18435,10 +18435,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.10.0";
+    version = "1.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.10.0/file/tfsec.tfsec-1.10.0.vsix";
-      sha256 = "sha256-KroSM2vvEkK9/WYiHcNAZf23I8pbmVpT02fumIqGDWA=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.10.1/file/tfsec.tfsec-1.10.1.vsix";
+      sha256 = "sha256-meHXbEsYEStLcvAgXRtyt53EtQp0AtYDLUwEyZPKoDg=";
     };
     name = "tfsec";
     license = "MIT";
