@@ -28799,6 +28799,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "eliutdev-bulma-css-class-completion": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "eliutdev-bulma-css-class-completion",
+    "version": "0.3.0",
+    "passthru": {
+      "name": "bulma-css-class-completion",
+      "license": "MIT",
+      "publisher": "eliutdev",
+      "description": "Provides CSS class name completion for the HTML class attribute based on Bulma CSS classes."
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/eliutdev/bulma-css-class-completion/0.3.0/file/eliutdev.bulma-css-class-completion-0.3.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-R2kAXAsdezz7aL9lpVvIvppov44zAfqPYhgbsNMEfOQ="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "ms-toolsai-jupyter": {
     "pinned": false,
     "cargoLock": null,

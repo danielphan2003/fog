@@ -8005,6 +8005,18 @@
     publisher = "eliostruyf";
     description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...";
   };
+  eliutdev-bulma-css-class-completion = {
+    pname = "eliutdev-bulma-css-class-completion";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/eliutdev/bulma-css-class-completion/0.3.0/file/eliutdev.bulma-css-class-completion-0.3.0.vsix";
+      sha256 = "sha256-R2kAXAsdezz7aL9lpVvIvppov44zAfqPYhgbsNMEfOQ=";
+    };
+    name = "bulma-css-class-completion";
+    license = "MIT";
+    publisher = "eliutdev";
+    description = "Provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.";
+  };
   elixir-lsp-elixir-ls = {
     pname = "elixir-lsp-elixir-ls";
     version = "0.9.0";
