@@ -14899,6 +14899,26 @@
     "extract": null,
     "rustGitDeps": null
   },
+  "filiptronicek-open-in-gitpod": {
+    "pinned": false,
+    "cargoLock": null,
+    "name": "filiptronicek-open-in-gitpod",
+    "version": "1.0.0",
+    "passthru": {
+      "name": "open-in-gitpod",
+      "license": "MIT",
+      "publisher": "filiptronicek",
+      "description": "An extension for opening Gitpod from your current workspace"
+    },
+    "src": {
+      "url": "https://open-vsx.org/api/filiptronicek/open-in-gitpod/1.0.0/file/filiptronicek.open-in-gitpod-1.0.0.vsix",
+      "name": null,
+      "type": "url",
+      "sha256": "sha256-99OmCoAMb34JV/DhEdLgCePc9rCJvxz6sQH0lJ6io9Y="
+    },
+    "extract": null,
+    "rustGitDeps": null
+  },
   "alantech-alan-lang": {
     "pinned": false,
     "cargoLock": null,

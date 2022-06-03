@@ -8605,6 +8605,18 @@
     publisher = "fileicons";
     description = "File-specific icons in VSCode for improved visual grepping.";
   };
+  filiptronicek-open-in-gitpod = {
+    pname = "filiptronicek-open-in-gitpod";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/filiptronicek/open-in-gitpod/1.0.0/file/filiptronicek.open-in-gitpod-1.0.0.vsix";
+      sha256 = "sha256-99OmCoAMb34JV/DhEdLgCePc9rCJvxz6sQH0lJ6io9Y=";
+    };
+    name = "open-in-gitpod";
+    license = "MIT";
+    publisher = "filiptronicek";
+    description = "An extension for opening Gitpod from your current workspace";
+  };
   fire-fire-s-extension-pack = {
     pname = "fire-fire-s-extension-pack";
     version = "0.0.5";
