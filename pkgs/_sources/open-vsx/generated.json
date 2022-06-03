@@ -2063,7 +2063,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "johnbillion-vscode-wordpress-hooks",
-    "version": "0.7.0",
+    "version": "1.0.0",
     "passthru": {
       "name": "vscode-wordpress-hooks",
       "license": "GPL-3.0-or-later",
@@ -2071,10 +2071,10 @@
       "description": "IntelliSense and autocompletion for WordPress hooks, actions, and filters"
     },
     "src": {
-      "url": "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/0.7.0/file/johnbillion.vscode-wordpress-hooks-0.7.0.vsix",
+      "url": "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/1.0.0/file/johnbillion.vscode-wordpress-hooks-1.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-XeGil+e4/EHovq8b/fIn07NFAtbcWOKl1nl5b2Y4aEs="
+      "sha256": "sha256-0oYIvCBMgKIzbjoZYDoejlUwXeK0bwwiVMdy642XRmc="
     },
     "extract": null,
     "rustGitDeps": null
@@ -7883,7 +7883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "quarto-quarto",
-    "version": "1.23.0",
+    "version": "1.24.0",
     "passthru": {
       "name": "quarto",
       "license": "MIT",
@@ -7891,10 +7891,10 @@
       "description": "Extension for the Quarto scientific and technical publishing system."
     },
     "src": {
-      "url": "https://open-vsx.org/api/quarto/quarto/1.23.0/file/quarto.quarto-1.23.0.vsix",
+      "url": "https://open-vsx.org/api/quarto/quarto/1.24.0/file/quarto.quarto-1.24.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-KWkiI2Hz/51YTxMjgvLrVVid9RdAH7lviWLILSajs44="
+      "sha256": "sha256-YBD4dwL5kEu+4hErU7UvpUWZ7KNKipFdrfkmrOv3MqI="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9723,7 +9723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "marp-team-marp-vscode",
-    "version": "1.5.2",
+    "version": "2.0.0",
     "passthru": {
       "name": "marp-vscode",
       "license": "MIT",
@@ -9731,10 +9731,10 @@
       "description": "Create slide deck written in Marp Markdown on VS Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/marp-team/marp-vscode/1.5.2/file/marp-team.marp-vscode-1.5.2.vsix",
+      "url": "https://open-vsx.org/api/marp-team/marp-vscode/2.0.0/file/marp-team.marp-vscode-2.0.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-RMelNmoCe+3M6xeN2cy573IfsfGURpIIQE21TevnXkk="
+      "sha256": "sha256-Oqk+harpNuvYVAdp2U2YpWVjWAjLwy49neH7nYxnlp4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -10723,7 +10723,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "foam-foam-vscode",
-    "version": "0.18.3",
+    "version": "0.18.4",
     "passthru": {
       "name": "foam-vscode",
       "license": "MIT",
@@ -10731,10 +10731,10 @@
       "description": "VS Code + Markdown + Wikilinks for your note taking and knowledge base"
     },
     "src": {
-      "url": "https://open-vsx.org/api/foam/foam-vscode/0.18.3/file/foam.foam-vscode-0.18.3.vsix",
+      "url": "https://open-vsx.org/api/foam/foam-vscode/0.18.4/file/foam.foam-vscode-0.18.4.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-qbF4k3GP7UdQrw0x/egVRkv5TYDwYWoycxY/HJSFTkI="
+      "sha256": "sha256-c+6o0zxD0l4c28WuaU03pwvsH2qQHBZ0mszfEBOsAGU="
     },
     "extract": null,
     "rustGitDeps": null
@@ -14183,7 +14183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "scalameta-metals",
-    "version": "1.16.0",
+    "version": "1.17.0",
     "passthru": {
       "name": "metals",
       "license": "Apache-2.0",
@@ -14191,10 +14191,10 @@
       "description": "Scala language server with rich IDE features"
     },
     "src": {
-      "url": "https://open-vsx.org/api/scalameta/metals/1.16.0/file/scalameta.metals-1.16.0.vsix",
+      "url": "https://open-vsx.org/api/scalameta/metals/1.17.0/file/scalameta.metals-1.17.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-hXe9lLmDrpUQKI9RdOH9uPn4C9sZJd8yJfJF0Hr2UY4="
+      "sha256": "sha256-t17Da5J5dytxOOCvViau8T5wsEMwodQ3f8mpgTV52Rg="
     },
     "extract": null,
     "rustGitDeps": null

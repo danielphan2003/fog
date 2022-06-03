@@ -8703,10 +8703,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.18.3";
+    version = "0.18.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.3/file/foam.foam-vscode-0.18.3.vsix";
-      sha256 = "sha256-qbF4k3GP7UdQrw0x/egVRkv5TYDwYWoycxY/HJSFTkI=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.4/file/foam.foam-vscode-0.18.4.vsix";
+      sha256 = "sha256-c+6o0zxD0l4c28WuaU03pwvsH2qQHBZ0mszfEBOsAGU=";
     };
     name = "foam-vscode";
     license = "MIT";
@@ -10995,10 +10995,10 @@
   };
   johnbillion-vscode-wordpress-hooks = {
     pname = "johnbillion-vscode-wordpress-hooks";
-    version = "0.7.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/0.7.0/file/johnbillion.vscode-wordpress-hooks-0.7.0.vsix";
-      sha256 = "sha256-XeGil+e4/EHovq8b/fIn07NFAtbcWOKl1nl5b2Y4aEs=";
+      url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/1.0.0/file/johnbillion.vscode-wordpress-hooks-1.0.0.vsix";
+      sha256 = "sha256-0oYIvCBMgKIzbjoZYDoejlUwXeK0bwwiVMdy642XRmc=";
     };
     name = "vscode-wordpress-hooks";
     license = "GPL-3.0-or-later";
@@ -12483,10 +12483,10 @@
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
-    version = "1.5.2";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marp-team/marp-vscode/1.5.2/file/marp-team.marp-vscode-1.5.2.vsix";
-      sha256 = "sha256-RMelNmoCe+3M6xeN2cy573IfsfGURpIIQE21TevnXkk=";
+      url = "https://open-vsx.org/api/marp-team/marp-vscode/2.0.0/file/marp-team.marp-vscode-2.0.0.vsix";
+      sha256 = "sha256-Oqk+harpNuvYVAdp2U2YpWVjWAjLwy49neH7nYxnlp4=";
     };
     name = "marp-vscode";
     license = "MIT";
@@ -15675,10 +15675,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.23.0";
+    version = "1.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.23.0/file/quarto.quarto-1.23.0.vsix";
-      sha256 = "sha256-KWkiI2Hz/51YTxMjgvLrVVid9RdAH7lviWLILSajs44=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.24.0/file/quarto.quarto-1.24.0.vsix";
+      sha256 = "sha256-YBD4dwL5kEu+4hErU7UvpUWZ7KNKipFdrfkmrOv3MqI=";
     };
     name = "quarto";
     license = "MIT";
@@ -16971,10 +16971,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.16.0";
+    version = "1.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.16.0/file/scalameta.metals-1.16.0.vsix";
-      sha256 = "sha256-hXe9lLmDrpUQKI9RdOH9uPn4C9sZJd8yJfJF0Hr2UY4=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.17.0/file/scalameta.metals-1.17.0.vsix";
+      sha256 = "sha256-t17Da5J5dytxOOCvViau8T5wsEMwodQ3f8mpgTV52Rg=";
     };
     name = "metals";
     license = "Apache-2.0";
