@@ -63,10 +63,10 @@
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
-    version = "14.0.0-next.0";
+    version = "14.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Angular/ng-template/14.0.0-next.0/file/Angular.ng-template-14.0.0-next.0.vsix";
-      sha256 = "sha256-05/TkR8usPriO/Y5HfO2PDsWOUFtekoizqzDgEK22lg=";
+      url = "https://open-vsx.org/api/Angular/ng-template/14.0.0/file/Angular.ng-template-14.0.0.vsix";
+      sha256 = "sha256-bX+BHTFcpqhJbEHR9CHprzqcEdpOFbq9u/ePBwlezbw=";
     };
     name = "ng-template";
     license = "MIT";
@@ -5931,10 +5931,10 @@
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
-    version = "0.8.5";
+    version = "0.8.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.5/file/bradlc.vscode-tailwindcss-0.8.5.vsix";
-      sha256 = "sha256-gst24k624ZG28AunSF9JzgXNLXG45jhlUOaZGnac8eo=";
+      url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.6/file/bradlc.vscode-tailwindcss-0.8.6.vsix";
+      sha256 = "sha256-9MRkEWayNFdI7JC2sGj9ovBAjDzws0mYoENr8bAZJK4=";
     };
     name = "vscode-tailwindcss";
     license = "MIT";
@@ -8535,10 +8535,10 @@
   };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
-    version = "0.4.5";
+    version = "0.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.5/file/fernandoescolar.vscode-solution-explorer-0.4.5.vsix";
-      sha256 = "sha256-cduQKzWy/E8MwP9PQZICkOkwV7fra/Yk4lz9AKfE2Yg=";
+      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.6/file/fernandoescolar.vscode-solution-explorer-0.4.6.vsix";
+      sha256 = "sha256-kCSzIDHHGuGvTXnU8YTWbqC+Y3psY71KqYRWEqShJT4=";
     };
     name = "vscode-solution-explorer";
     license = "MIT";
