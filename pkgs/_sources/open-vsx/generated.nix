@@ -2835,10 +2835,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.996";
+    version = "31.0.997";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.996/file/Prisma.prisma-insider-31.0.996.vsix";
-      sha256 = "sha256-vkFoBzaMP3P/AlVe3aWhvW1gFvxdqRC7cl3kzUsIjPk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.997/file/Prisma.prisma-insider-31.0.997.vsix";
+      sha256 = "sha256-nAMGsn0/KEvF6+YHmBPz51vK6/Q1Fr51TRRmSWQ9nc0=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -14499,10 +14499,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.17.0";
+    version = "17.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.17.0/file/nrwl.angular-console-17.17.0.vsix";
-      sha256 = "sha256-Hx54nN5GngjmIhDcr6rT5gVoeQKBuL9KGtpYQ14+Fls=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.0/file/nrwl.angular-console-17.18.0.vsix";
+      sha256 = "sha256-+BQlyDWWlWdmLVSj1gHyK13JYo2SertgySXXYMvO9pU=";
     };
     name = "angular-console";
     license = "MIT";
