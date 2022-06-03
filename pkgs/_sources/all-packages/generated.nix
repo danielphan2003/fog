@@ -811,16 +811,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "de044db6d45e878fdd1077176675305e71375d6f";
+    version = "cb781fe08c29f41d5b0fb916ab3b401778e1c3dc";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "de044db6d45e878fdd1077176675305e71375d6f";
+      rev = "cb781fe08c29f41d5b0fb916ab3b401778e1c3dc";
       fetchSubmodules = false;
-      sha256 = "sha256-j/IaNdK/IU/iP1oCJVwj99KaV01ZSLhPUL08AT2Pi0M=";
+      sha256 = "sha256-JO11aeqopa7htbGQDVigZ4EwMKwetmtQVEmwgPx3flM=";
     });
     cargoLock = {
-      lockFile = ./rustdesk-de044db6d45e878fdd1077176675305e71375d6f/Cargo.lock;
+      lockFile = ./rustdesk-cb781fe08c29f41d5b0fb916ab3b401778e1c3dc/Cargo.lock;
       outputHashes = {
         "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
@@ -1008,13 +1008,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "80157f3f371d66bae253d1e62c1c5bb332d78430";
+    version = "a9f32656f53e4dbe7248852a616af75072f89000";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "80157f3f371d66bae253d1e62c1c5bb332d78430";
+      rev = "a9f32656f53e4dbe7248852a616af75072f89000";
       fetchSubmodules = false;
-      sha256 = "sha256-brOhiOd0IVGRZ+dom5Ke1BVY0f+9xpJNOL2geHn/yMI=";
+      sha256 = "sha256-O/QWedKCPQN6yDCoAwr0zSDzzrxSuEG3u1Ncis9G/qE=";
     });
   };
   tailscale-systray = {
