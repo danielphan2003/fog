@@ -16971,10 +16971,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.17.0";
+    version = "1.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.17.0/file/scalameta.metals-1.17.0.vsix";
-      sha256 = "sha256-t17Da5J5dytxOOCvViau8T5wsEMwodQ3f8mpgTV52Rg=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.17.1/file/scalameta.metals-1.17.1.vsix";
+      sha256 = "sha256-pubESzF5d3wpPRG/P5mWiPLBDrPrjMIJf2H9MbWMcb8=";
     };
     name = "metals";
     license = "Apache-2.0";

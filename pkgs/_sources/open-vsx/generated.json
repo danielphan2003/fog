@@ -14183,7 +14183,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "scalameta-metals",
-    "version": "1.17.0",
+    "version": "1.17.1",
     "passthru": {
       "name": "metals",
       "license": "Apache-2.0",
@@ -14191,10 +14191,10 @@
       "description": "Scala language server with rich IDE features"
     },
     "src": {
-      "url": "https://open-vsx.org/api/scalameta/metals/1.17.0/file/scalameta.metals-1.17.0.vsix",
+      "url": "https://open-vsx.org/api/scalameta/metals/1.17.1/file/scalameta.metals-1.17.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-t17Da5J5dytxOOCvViau8T5wsEMwodQ3f8mpgTV52Rg="
+      "sha256": "sha256-pubESzF5d3wpPRG/P5mWiPLBDrPrjMIJf2H9MbWMcb8="
     },
     "extract": null,
     "rustGitDeps": null
