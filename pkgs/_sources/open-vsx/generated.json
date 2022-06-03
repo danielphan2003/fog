@@ -2583,7 +2583,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "lf-lang-vscode-lingua-franca",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "passthru": {
       "name": "vscode-lingua-franca",
       "license": "BSD-2-Clause",
@@ -2591,10 +2591,10 @@
       "description": "Lingua Franca for Visual Studio Code. Provides lints, code completion and navigation, interactive diagrams, and more."
     },
     "src": {
-      "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.0/file/lf-lang.vscode-lingua-franca-0.2.0.vsix",
+      "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.1/file/lf-lang.vscode-lingua-franca-0.2.1.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-w3qsjAfFn/oSAT1jjsbmFO77CX71rsttY5+ah4kzjV4="
+      "sha256": "sha256-o1ydbdUyI5JsMMiHYdAbTWgJv92YHFyPDii1IKSCpxo="
     },
     "extract": null,
     "rustGitDeps": null
@@ -16703,18 +16703,18 @@
     "pinned": false,
     "cargoLock": null,
     "name": "iterative-dvc",
-    "version": "0.2.21",
+    "version": "0.2.22",
     "passthru": {
       "name": "dvc",
       "license": "Apache-2.0",
       "publisher": "iterative",
-      "description": "DVC VS Code extension"
+      "description": "Machine learning experiment management with tracking, plots, and data versioning."
     },
     "src": {
-      "url": "https://open-vsx.org/api/iterative/dvc/0.2.21/file/iterative.dvc-0.2.21.vsix",
+      "url": "https://open-vsx.org/api/iterative/dvc/0.2.22/file/iterative.dvc-0.2.22.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-B3PfkQHi0NLzyFyvhEVYlQTufQvr4BW63Ua3PcpgVas="
+      "sha256": "sha256-pD3Rh0kCEQ22bqgdd591C2Wd8kmntmpYshUB7s2bCMA="
     },
     "extract": null,
     "rustGitDeps": null
@@ -32843,7 +32843,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.992",
+    "version": "31.0.993",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32851,10 +32851,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.992/file/Prisma.prisma-insider-31.0.992.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.993/file/Prisma.prisma-insider-31.0.993.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-BIRjWPnBLr/PUP1xRjQvlNXC4qp8Zjpw5Ywx/9VL9So="
+      "sha256": "sha256-TMNFXVkCpAbd/CrhLwASAI4k+/wb87b9BrtlMlZvbcw="
     },
     "extract": null,
     "rustGitDeps": null
