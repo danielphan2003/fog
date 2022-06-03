@@ -552,13 +552,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-amd64",
-    "version": "0.108.0-b.8",
+    "version": "0.108.0-b.9",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.8/AdGuardHome_linux_amd64.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.9/AdGuardHome_linux_amd64.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-cWLLCCKDd2aX6iuSejftQPm6z5fUajguCSjKahN5CQQ="
+      "sha256": "sha256-ylcsa6m6eaGVKHmyyZIseMHMmbRSUjW0tXw1c8EYu6s="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1122,13 +1122,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-386",
-    "version": "0.108.0-b.8",
+    "version": "0.108.0-b.9",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.8/AdGuardHome_linux_386.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.9/AdGuardHome_linux_386.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-femT348SmjQfmV0Ri2y2Q5RKERPF8q00MbBwEWgcTXs="
+      "sha256": "sha256-Tlp+83stkwuiYTDQWl0gEt4X2+prnMIYBa4zFo83h8M="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1426,7 +1426,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "whitesur-gtk-theme",
-    "version": "08f51658ec8cb4c83fcddf7d94db8a3c0578f21a",
+    "version": "bef774bd0fe74aa29338ab0757a58e3831138295",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1436,8 +1436,8 @@
       "name": null,
       "repo": "whitesur-gtk-theme",
       "type": "github",
-      "sha256": "sha256-DcTvCIeCgPselEv9be+/yHbZaEOcfe2aV4dwzdCBfv0=",
-      "rev": "08f51658ec8cb4c83fcddf7d94db8a3c0578f21a"
+      "sha256": "sha256-MAE8XwvhIFFqGp/lZH4UILrvWyseTSArrZUc+OYWh3Q=",
+      "rev": "bef774bd0fe74aa29338ab0757a58e3831138295"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1496,13 +1496,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-darwin-amd64",
-    "version": "0.108.0-b.8",
+    "version": "0.108.0-b.9",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.8/AdGuardHome_darwin_amd64.zip",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.9/AdGuardHome_darwin_amd64.zip",
       "name": null,
       "type": "url",
-      "sha256": "sha256-NpuxQe2SHqHclhnkptkAOVUisvlDEmAvdnfeQ9REC20="
+      "sha256": "sha256-9RtDTiD5vECV1Ieo6hYfMz24Bj2ctyuq81b8ZiawPQ4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1566,7 +1566,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "wgcf",
-    "version": "5a3455aec186fa69dfd05b03bebe7141af209967",
+    "version": "140f9832314247e5a122ca252d139449255ad7c3",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1576,8 +1576,8 @@
       "name": null,
       "repo": "wgcf",
       "type": "github",
-      "sha256": "sha256-6V4fIoFB0fuCEu1Rj8QWGDNdgystrD/gefjbshvxVsw=",
-      "rev": "5a3455aec186fa69dfd05b03bebe7141af209967"
+      "sha256": "sha256-tUEeczs3J//2ZrZkAsSn3C+GScRPaIgheRM2wByS8p4=",
+      "rev": "140f9832314247e5a122ca252d139449255ad7c3"
     },
     "extract": null,
     "rustGitDeps": null
@@ -1646,13 +1646,13 @@
     "pinned": false,
     "cargoLock": null,
     "name": "adguardhome-linux-arm64",
-    "version": "0.108.0-b.8",
+    "version": "0.108.0-b.9",
     "passthru": null,
     "src": {
-      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.8/AdGuardHome_linux_arm64.tar.gz",
+      "url": "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.9/AdGuardHome_linux_arm64.tar.gz",
       "name": null,
       "type": "url",
-      "sha256": "sha256-TqjASf0SzKIX0w/LC0DyFpsvYrczCzR0mcWM4AG4mIw="
+      "sha256": "sha256-U7yySjBDu7oseox+n+bzSG/KUJZVYNgvLzNx+Dzc4P4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -1740,7 +1740,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "tailscale",
-    "version": "a9f32656f53e4dbe7248852a616af75072f89000",
+    "version": "c980bf01be4f6dba6e06ea733e3efefbcc590092",
     "passthru": null,
     "src": {
       "deepClone": false,
@@ -1750,8 +1750,8 @@
       "name": null,
       "repo": "tailscale",
       "type": "github",
-      "sha256": "sha256-O/QWedKCPQN6yDCoAwr0zSDzzrxSuEG3u1Ncis9G/qE=",
-      "rev": "a9f32656f53e4dbe7248852a616af75072f89000"
+      "sha256": "sha256-66X/bAzqSIXEkFKhUNcVbqMXs7d/skORNfHL+qsftjk=",
+      "rev": "c980bf01be4f6dba6e06ea733e3efefbcc590092"
     },
     "extract": null,
     "rustGitDeps": null
