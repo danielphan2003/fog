@@ -2835,10 +2835,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.992";
+    version = "31.0.993";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.992/file/Prisma.prisma-insider-31.0.992.vsix";
-      sha256 = "sha256-BIRjWPnBLr/PUP1xRjQvlNXC4qp8Zjpw5Ywx/9VL9So=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.993/file/Prisma.prisma-insider-31.0.993.vsix";
+      sha256 = "sha256-TMNFXVkCpAbd/CrhLwASAI4k+/wb87b9BrtlMlZvbcw=";
     };
     name = "prisma-insider";
     license = "Apache-2.0";
@@ -10551,15 +10551,15 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.2.21";
+    version = "0.2.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.2.21/file/iterative.dvc-0.2.21.vsix";
-      sha256 = "sha256-B3PfkQHi0NLzyFyvhEVYlQTufQvr4BW63Ua3PcpgVas=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.2.22/file/iterative.dvc-0.2.22.vsix";
+      sha256 = "sha256-pD3Rh0kCEQ22bqgdd591C2Wd8kmntmpYshUB7s2bCMA=";
     };
     name = "dvc";
     license = "Apache-2.0";
     publisher = "iterative";
-    description = "DVC VS Code extension";
+    description = "Machine learning experiment management with tracking, plots, and data versioning.";
   };
   itsjonq-owlet = {
     pname = "itsjonq-owlet";
@@ -12051,10 +12051,10 @@
   };
   lf-lang-vscode-lingua-franca = {
     pname = "lf-lang-vscode-lingua-franca";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.0/file/lf-lang.vscode-lingua-franca-0.2.0.vsix";
-      sha256 = "sha256-w3qsjAfFn/oSAT1jjsbmFO77CX71rsttY5+ah4kzjV4=";
+      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.1/file/lf-lang.vscode-lingua-franca-0.2.1.vsix";
+      sha256 = "sha256-o1ydbdUyI5JsMMiHYdAbTWgJv92YHFyPDii1IKSCpxo=";
     };
     name = "vscode-lingua-franca";
     license = "BSD-2-Clause";
