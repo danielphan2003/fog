@@ -41,7 +41,7 @@ jobs:
       run: nix develop --command evalnix
 
     - name: Update flake.lock
-      run: nix develop --command bud update
+      run: nix develop --command nixpkgs update
 
     - name: Push changes to main
       run: git pull --no-rebase && git push

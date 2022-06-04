@@ -43,14 +43,14 @@ jobs:
     - name: Quick eval
       run: nix develop --command evalnix
 
-    - name: Create bud cache
-      run: nix develop --command bud makeBudCache
+    - name: Create nixpkgs cache
+      run: nix develop --command nixpkgs makeNixpkgsCache
 
     - name: Clean up old Cargo.lock and extracts
-      run: nix develop --command bud nvfetcher-cleanup _sources/minecraft-mods
+      run: nix develop --command nixpkgs nvfetcher-cleanup minecraft-mods
 
     - name: Update all minecraft-mods extensions
-      run: nix develop --command bud updateSources misc/minecraft-mods
+      run: nix develop --command nixpkgs updateSources misc/minecraft-mods
 
     - name: Push changes to main
       run: git pull --no-rebase && git push

@@ -1,4 +1,4 @@
-meta_file="$BUD_CACHE/spotify.json"
+meta_file="$NIXPKGS_CACHE/spotify.json"
 
 if [ ! -s "$meta_file" ]; then
   curl -s -H 'X-Ubuntu-Series: 16' 'https://api.snapcraft.io/api/v1/snaps/details/spotify?channel=candidate' --output "$meta_file"
@@ -8,7 +8,7 @@ readarray -t meta <<< "$( jq -r '.package_name,.revision,.snap_id,.version' $met
 pname="${meta[0]}"
 export pname
 
-bud patchSources sources "$pname" "$({
+nixpkgs patchSources all-packages "$pname" "$({
   rev="${meta[1]}"
   snapId="${meta[2]}"
   version="${meta[3]}"

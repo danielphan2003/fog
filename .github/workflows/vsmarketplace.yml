@@ -43,14 +43,14 @@ jobs:
     - name: Quick eval
       run: nix develop --command evalnix
 
-    - name: Create bud cache
-      run: nix develop --command bud makeBudCache
+    - name: Create nixpkgs cache
+      run: nix develop --command nixpkgs makeNixpkgsCache
 
     - name: Clean up old Cargo.lock and extracts
-      run: nix develop --command bud nvfetcher-cleanup _sources/vsmarketplace
+      run: nix develop --command nixpkgs nvfetcher-cleanup vsmarketplace
 
     - name: Update all vsmarketplace extensions
-      run: nix develop --command bud updateSources misc/vscode-extensions/vsmarketplace
+      run: nix develop --command nixpkgs updateSources misc/vscode-extensions/vsmarketplace
 
     - name: Push changes to main
       run: git pull --no-rebase && git push

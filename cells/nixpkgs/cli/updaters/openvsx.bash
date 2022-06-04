@@ -8,7 +8,7 @@ function parseMeta() {
 
   totalSize=$( curl -s "$(reqUrl)" | jq -r '.totalSize' )
 
-  meta_file="$BUD_CACHE/openvsx.json"
+  meta_file="$NIXPKGS_CACHE/openvsx.json"
 
   if [ ! -s "$meta_file" ]; then
     curl -s "$(reqUrl $totalSize)" --output "$meta_file"
@@ -20,7 +20,7 @@ function parseMeta() {
     .extensions[] | .namespace, .name, (.version | tojson), (.files.download | tojson), (.description // "" | tojson)
   ' "$meta_file" | \
   while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
-    meta_file="$BUD_CACHE/openvsx-$namespace.$name.json"
+    meta_file="$NIXPKGS_CACHE/openvsx-$namespace.$name.json"
 
     if [ "$namespace.$name" = "matklad.rust-analyzer" ]; then
       continue
@@ -50,4 +50,4 @@ function parseMeta() {
   echo "## $pname"
 }
 
-parseMeta > "$PRJ_ROOT/pkgs/${1:-"misc/vscode-extensions/open-vsx"}.toml"
+parseMeta > "$PKGS_PATH/${1:-"misc/vscode-extensions/open-vsx"}.toml"

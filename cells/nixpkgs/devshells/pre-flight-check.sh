@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
 
-if git rev-parse --verify HEAD >/dev/null 2>&1
-then
+# SPDX-FileCopyrightText: 2022 The Standard Authors
+# SPDX-FileCopyrightText: 2022 Kevin Amado <kamadorueda@gmail.com>
+#
+# SPDX-License-Identifier: Unlicense
+
+if git rev-parse --verify HEAD >/dev/null 2>&1; then
   against=HEAD
 else
   # Initial commit: diff against an empty tree object
@@ -9,21 +13,10 @@ else
 fi
 
 diff="git diff-index --name-only --cached $against --diff-filter d"
-
-nix_files=($($diff -- '*.nix'))
-json_files=($($diff -- '*.json'))
 all_files=($($diff))
 
-# Format staged nix files.
-if [[ -n "${nix_files[@]}" ]]; then
-  nixpkgs-fmt "${nix_files[@]}" \
-  && git add "${nix_files[@]}"
-fi
-
-if [[ -n "${json_files[@]}" ]]; then
-  prettier --write "${json_files[@]}" \
-  && git add "${json_files[@]}"
-fi
+# Format the entire tree.
+treefmt
 
 # check editorconfig
 editorconfig-checker -- "${all_files[@]}"

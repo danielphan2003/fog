@@ -1,4 +1,4 @@
-sourceFile="$PRJ_ROOT/pkgs/${1:-"sources"}.toml"
+sourceFile="$PKGS_PATH/${1:-"all-packages"}.toml"
 
 # package name
 pname="$2"

@@ -1,6 +1,6 @@
 file="$1"
-sourceDir="_sources/${2:-"$(basename $file)"}"
-file="$file.toml"
+sourceDir="src/${2:-"$(basename $file)"}"
+file="cells/nixpkgs/pkgs/$file.toml"
 
 args=( "${@: 3}" )
 if [ $CI ]; then
@@ -9,7 +9,7 @@ fi
 
 echo "${args[@]}"
 
-cd "$PRJ_ROOT"/pkgs || exit
+cd "$SRC_PATH" || exit
 
 nvfetcher \
   -o "$sourceDir" \

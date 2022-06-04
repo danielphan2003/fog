@@ -4,7 +4,7 @@ export pname
 function parseMeta() {
   echo "## $pname"
 
-  meta_file="$BUD_CACHE/papermc-versions.json"
+  meta_file="$NIXPKGS_CACHE/papermc-versions.json"
 
   if [ ! -s "$meta_file" ]; then
     curl -s "https://$pname.io/api/v2/projects/paper" --output "$meta_file"
@@ -13,7 +13,7 @@ function parseMeta() {
   for version in $(jq -r '.versions[]' $meta_file); do
     echo
     echo "[$pname-${version//\./_}]" # replace . with _
-    echo "src.cmd = \" bud $pname-updater $version \""
+    echo "src.cmd = \" nixpkgs $pname-updater $version \""
     echo "fetch.url = \"https://papermc.io/api/v2/projects/paper/versions/$version/builds/\$ver/downloads/paper-$version-\$ver.jar\""
     echo "passthru = { mcVer = \"$version\" }"
   done
@@ -22,4 +22,4 @@ function parseMeta() {
   echo "## $pname"
 }
 
-parseMeta > "$PRJ_ROOT/pkgs/${1:-"games/$pname"}.toml"
+parseMeta > "$PKGS_PATH/${1:-"games/$pname"}.toml"
