@@ -21,6 +21,7 @@
       cellsFrom = ./cells;
       organelles = [
         (inputs.std.runnables "cli")
+        (inputs.std.runnables "repl")
 
         (inputs.std.functions "lib")
         (inputs.std.functions "categories")

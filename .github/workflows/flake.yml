@@ -38,10 +38,10 @@ jobs:
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
 
     - name: Quick eval
-      run: nix develop --command evalnix
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command evalnix
 
     - name: Update flake.lock
-      run: nix develop --command nixpkgs update
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs update
 
     - name: Push changes to main
       run: git pull --no-rebase && git push

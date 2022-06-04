@@ -41,19 +41,19 @@ jobs:
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
 
     - name: Quick eval
-      run: nix develop --command evalnix
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command evalnix
 
     - name: Create nixpkgs cache
-      run: nix develop --command nixpkgs makeNixpkgsCache
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs makeNixpkgsCache
 
     - name: Clean up old Cargo.lock and extracts
-      run: nix develop --command nixpkgs nvfetcher-cleanup all-packages
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs nvfetcher-cleanup all-packages
 
     - name: Update spotify source
-      run: nix develop --command nixpkgs spotify-updater
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs spotify-updater
 
     - name: Update all packages
-      run: nix develop --command nixpkgs updateSources src all-packages
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources src all-packages
 
     - name: Push changes to main
       run: git pull --no-rebase && git push
