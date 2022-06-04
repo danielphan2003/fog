@@ -3531,10 +3531,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.1.9";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.9/file/Turiiya.keyword-o-mat-0.1.9.vsix";
-      sha256 = "sha256-Vhhc9jdGBvd7eGHofDMjjzTasFv9zNyg2EA1dudIdbs=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.0/file/Turiiya.keyword-o-mat-0.2.0.vsix";
+      sha256 = "sha256-reoVHF1ZzlHFK1aWqClNMiJXvCoMB1d41x0jK73KW7U=";
     };
     name = "keyword-o-mat";
     license = "MIT";
@@ -7491,10 +7491,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.97.4";
+    version = "0.97.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.97.4/file/dendron.nightly-0.97.4.vsix";
-      sha256 = "sha256-AmFyniq/gfni1qfMjRwWAh6ZRaSQEYkxG6aDpqlOnKw=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.97.5/file/dendron.nightly-0.97.5.vsix";
+      sha256 = "sha256-yFV/VpT0zhjHu4oyOW2N61s9CyCETjZNUOjK152j0+Y=";
     };
     name = "nightly";
     license = "AGPL-3.0";

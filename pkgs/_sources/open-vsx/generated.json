@@ -1243,7 +1243,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "dendron-nightly",
-    "version": "0.97.4",
+    "version": "0.97.5",
     "passthru": {
       "name": "nightly",
       "license": "AGPL-3.0",
@@ -1251,10 +1251,10 @@
       "description": "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead."
     },
     "src": {
-      "url": "https://open-vsx.org/api/dendron/nightly/0.97.4/file/dendron.nightly-0.97.4.vsix",
+      "url": "https://open-vsx.org/api/dendron/nightly/0.97.5/file/dendron.nightly-0.97.5.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-AmFyniq/gfni1qfMjRwWAh6ZRaSQEYkxG6aDpqlOnKw="
+      "sha256": "sha256-yFV/VpT0zhjHu4oyOW2N61s9CyCETjZNUOjK152j0+Y="
     },
     "extract": null,
     "rustGitDeps": null
@@ -9643,7 +9643,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Turiiya-keyword-o-mat",
-    "version": "0.1.9",
+    "version": "0.2.0",
     "passthru": {
       "name": "keyword-o-mat",
       "license": "MIT",
@@ -9651,10 +9651,10 @@
       "description": "Easily cycle through commonly used keywords."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.1.9/file/Turiiya.keyword-o-mat-0.1.9.vsix",
+      "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.0/file/Turiiya.keyword-o-mat-0.2.0.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-Vhhc9jdGBvd7eGHofDMjjzTasFv9zNyg2EA1dudIdbs="
+      "sha256": "sha256-reoVHF1ZzlHFK1aWqClNMiJXvCoMB1d41x0jK73KW7U="
     },
     "extract": null,
     "rustGitDeps": null
