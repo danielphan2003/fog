@@ -32883,7 +32883,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Prisma-prisma-insider",
-    "version": "31.0.997",
+    "version": "31.0.998",
     "passthru": {
       "name": "prisma-insider",
       "license": "Apache-2.0",
@@ -32891,10 +32891,10 @@
       "description": "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI)."
     },
     "src": {
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.997/file/Prisma.prisma-insider-31.0.997.vsix",
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.998/file/Prisma.prisma-insider-31.0.998.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-nAMGsn0/KEvF6+YHmBPz51vK6/Q1Fr51TRRmSWQ9nc0="
+      "sha256": "sha256-OtBaP3CcLKFXhVQ6i9Q/I7650B5QRl1AoF5nkUYZ1SU="
     },
     "extract": null,
     "rustGitDeps": null
