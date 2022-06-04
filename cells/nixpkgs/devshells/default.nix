@@ -41,7 +41,7 @@ in
         (utils {
           name = "evalnix";
           help = "Check Nix parsing";
-          command = "fd --extension nix --exec nix-instantiate --parse --quiet {} >/dev/null";
+          command = "${nixpkgs.fd}/bin/fd --extension nix --exec ${nixpkgs.nix}/bin/nix-instantiate --parse --quiet {} >/dev/null";
         })
         (docs nixpkgs.mdbook)
         (utils cell.cli.default)
