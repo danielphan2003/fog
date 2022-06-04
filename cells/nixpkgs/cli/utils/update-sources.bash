@@ -1,6 +1,6 @@
 file="$1"
 sourceDir="${2:-"$(basename $file)"}"
-file="$PKGS_PATH/cells/nixpkgs/pkgs/$file.toml"
+file="$PKGS_PATH/$file.toml"
 
 args=( "${@: 3}" )
 if [ $CI ]; then
