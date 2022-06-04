@@ -16203,7 +16203,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "Slint-slint-nightly",
-    "version": "2022.6.221",
+    "version": "2022.6.319",
     "passthru": {
       "name": "slint-nightly",
       "license": "GPL-3.0",
@@ -16211,10 +16211,10 @@
       "description": "Slint Language extension (Nightly)"
     },
     "src": {
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.221/file/Slint.slint-nightly-2022.6.221.vsix",
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.319/file/Slint.slint-nightly-2022.6.319.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-LE/NLeYutkBZrksf1rg/81j/EgdQit7OV8GhdvLrRS0="
+      "sha256": "sha256-rSBDINLlWCUC5KyDnYvSNdD9vC2hzApJPzpvLmTGxG4="
     },
     "extract": null,
     "rustGitDeps": null
@@ -17283,7 +17283,7 @@
     "pinned": false,
     "cargoLock": null,
     "name": "fernandoescolar-vscode-solution-explorer",
-    "version": "0.4.6",
+    "version": "0.4.7",
     "passthru": {
       "name": "vscode-solution-explorer",
       "license": "MIT",
@@ -17291,10 +17291,10 @@
       "description": "Visual Studio .sln file explorer for Visual Studio Code"
     },
     "src": {
-      "url": "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.6/file/fernandoescolar.vscode-solution-explorer-0.4.6.vsix",
+      "url": "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.7/file/fernandoescolar.vscode-solution-explorer-0.4.7.vsix",
       "name": null,
       "type": "url",
-      "sha256": "sha256-kCSzIDHHGuGvTXnU8YTWbqC+Y3psY71KqYRWEqShJT4="
+      "sha256": "sha256-FkzW2MBdcw/AZvtYWhAZ0R7LxfsPlIVPacd3KfGDyo8="
     },
     "extract": null,
     "rustGitDeps": null
