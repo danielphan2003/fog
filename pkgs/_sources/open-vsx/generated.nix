@@ -18603,10 +18603,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.19.3";
+    version = "0.19.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.3/file/timonwong.shellcheck-0.19.3.vsix";
-      sha256 = "sha256-e1D3KBk+TMRU5s7lDUTSFO7+WYO2xdf7a+zJFGpcDlE=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.4/file/timonwong.shellcheck-0.19.4.vsix";
+      sha256 = "sha256-v/h7OvWbbQ9Ajf+etE9wPqFmSZe8lgZ60EIQUQDRKdo=";
     };
     name = "shellcheck";
     license = "MIT";
