@@ -4023,15 +4023,15 @@
   };
   a5hk-ice = {
     pname = "a5hk-ice";
-    version = "0.6.0";
+    version = "0.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/ice/0.6.0/file/a5hk.ice-0.6.0.vsix";
-      sha256 = "sha256-QTfJmJlNw0aFwFSY8MuZ7Ph9ghdrInWJ+Lie9h1V0mo=";
+      url = "https://open-vsx.org/api/a5hk/ice/0.7.2/file/a5hk.ice-0.7.2.vsix";
+      sha256 = "sha256-LkGWxk+cgW557sUNyQwjPBW0OQYRA8XstSiV+eX4xBk=";
     };
     name = "ice";
     license = "MIT";
     publisher = "a5hk";
-    description = "Cold As Ice";
+    description = "Cold as Ice";
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
@@ -5679,10 +5679,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.281";
+    version = "2.0.282";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.281/file/betterthantomorrow.calva-2.0.281.vsix";
-      sha256 = "sha256-3SQ09Rd337DTcHb1zsa6SPdkShhOhqkQtZsSzLFDoXg=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.282/file/betterthantomorrow.calva-2.0.282.vsix";
+      sha256 = "sha256-OmyqEiq8SLJsVtv22XWsdFd+WFZWi9/fczuFm2igW24=";
     };
     name = "calva";
     license = "MIT";
@@ -20859,10 +20859,10 @@
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
-    version = "8.2.1";
+    version = "8.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.1/file/waderyan.gitblame-8.2.1.vsix";
-      sha256 = "sha256-e/5BgVj6cNFoGpHf2AK0VmmbMsnl8T8G59v2tGRvJSw=";
+      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.2/file/waderyan.gitblame-8.2.2.vsix";
+      sha256 = "sha256-jt+6nsxr0LaxMY4zRlBWwQro/tfhh3aZTniOOQj8Ggg=";
     };
     name = "gitblame";
     license = "MIT";
