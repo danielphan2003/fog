@@ -1,4 +1,5 @@
 file="$1"
+name="$file"
 sourceDir="${2:-"$(basename $file)"}"
 file="$PKGS_PATH/$file.toml"
 
@@ -12,3 +13,8 @@ nvfetcher \
   -o "$sourceDir" \
   "${args[@]}" \
   -c "$file"
+
+if [ $CI ]; then
+  git add .
+  git commit -m "Update: $name"
+fi
