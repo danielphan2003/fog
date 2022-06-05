@@ -9,8 +9,8 @@
       name = "nixpkgs-fmt-0.0.1.zip";
       sha256 = "sha256-vz2kU36B1xkLci2QwLpl/SBEhfSWltIDJ1r7SorHcr8=";
     };
-    name = "nixpkgs-fmt";
     license = "MIT";
+    name = "nixpkgs-fmt";
     publisher = "B4dM4n";
   };
   RoscoP-ActiveFileInStatusBar = {
@@ -21,8 +21,8 @@
       name = "ActiveFileInStatusBar-1.0.3.zip";
       sha256 = "sha256-5GJODdKL8949a8KR2O7hGsRgAknfPyNEJ+9aiEYYemk=";
     };
-    name = "ActiveFileInStatusBar";
     license = "MIT";
+    name = "ActiveFileInStatusBar";
     publisher = "RoscoP";
   };
   alefragnani-pascal = {
@@ -33,8 +33,8 @@
       name = "pascal-9.5.0.zip";
       sha256 = "sha256-YS+NvEM83fHlGrVtb8d4JiQ1qUOCIQmwQDK7yJjWGW4=";
     };
-    name = "pascal";
     license = "MIT";
+    name = "pascal";
     publisher = "alefragnani";
   };
   alefragnani-pascal-formatter = {
@@ -45,8 +45,8 @@
       name = "pascal-formatter-2.6.0.zip";
       sha256 = "sha256-Hmde76DAiHJSHDN60q6hGs9U6nKTrGdeR+xm4W2kj6g=";
     };
-    name = "pascal-formatter";
     license = "MIT";
+    name = "pascal-formatter";
     publisher = "alefragnani";
   };
   astro-build-astro-vscode = {
@@ -57,8 +57,8 @@
       name = "astro-vscode-0.19.2.zip";
       sha256 = "sha256-n12615cNwkXQsMuT0IUln+QvIGTX1kvwtBS2Ams5QUc=";
     };
-    name = "astro-vscode";
     license = "MIT";
+    name = "astro-vscode";
     publisher = "astro-build";
   };
   dzhavat-css-initial-value = {
@@ -69,8 +69,8 @@
       name = "css-initial-value-0.2.6.zip";
       sha256 = "sha256-QLzjkPWPFCVJ0GrT8rtx8/V2JsdJ1zMdTmARtaqEcJQ=";
     };
-    name = "css-initial-value";
     license = "MIT";
+    name = "css-initial-value";
     publisher = "dzhavat";
   };
   heybourn-headwind = {
@@ -81,11 +81,11 @@
       name = "headwind-1.7.0.zip";
       sha256 = "sha256-yXsZoSuJQTdbHLjEERXX2zVheqNYmcPXs97/uQYa7og=";
     };
-    homepage = "https://github.com/heybourn/headwind";
-    name = "headwind";
     license = "MIT";
-    publisher = "heybourn";
+    name = "headwind";
+    homepage = "https://github.com/heybourn/headwind";
     description = "An opinionated Tailwind CSS class sorter built for Visual Studio Code";
+    publisher = "heybourn";
   };
   ms-vscode-cpptools = {
     pname = "ms-vscode-cpptools";
@@ -95,8 +95,8 @@
       name = "cpptools-1.10.4.zip";
       sha256 = "sha256-lLgIU6iccRRiuu8Q/XvAv7W4tiCo86vUtpnhd7yteWs=";
     };
-    name = "cpptools";
     license = "MIT";
+    name = "cpptools";
     publisher = "ms-vscode";
   };
   msjsdiag-react-native = {
@@ -107,8 +107,8 @@
       name = "vscode-react-native-1.9.2.zip";
       sha256 = "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY=";
     };
-    name = "vscode-react-native";
     license = "MIT";
+    name = "vscode-react-native";
     publisher = "msjsdiag";
   };
 }
