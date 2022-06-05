@@ -1704,11 +1704,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c6ac82e3a6c10a0360df1cc16503c07790b337e1",
-            "sha256": "sha256-53WIm+dPPc5nb6HYBtJEMrMcN9PvgtkNAXzA6ksPiOE=",
+            "rev": "0df3b76c251c8f1c963f1c414b1eedbefe49018d",
+            "sha256": "sha256-9Xj5qTKojArBiIDubYaA8FozUpTNYU3YMn4wruSNxZU=",
             "type": "github"
         },
-        "version": "c6ac82e3a6c10a0360df1cc16503c07790b337e1"
+        "version": "0df3b76c251c8f1c963f1c414b1eedbefe49018d"
     },
     "tailscale-systray": {
         "cargoLocks": null,
