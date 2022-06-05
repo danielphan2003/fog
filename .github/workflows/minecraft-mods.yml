@@ -4,7 +4,7 @@ on:
   pull_request:
   push:
     paths:
-      - pkgs/misc/minecraft-mods.toml
+      - cell/nixpkgs/pkgs/misc/minecraft-mods.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour

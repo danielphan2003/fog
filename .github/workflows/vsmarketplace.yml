@@ -4,7 +4,7 @@ on:
   pull_request:
   push:
     paths:
-      - pkgs/misc/vscode-extensions/vsmarketplace.toml
+      - cell/nixpkgs/pkgs/misc/vscode-extensions/vsmarketplace.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour
