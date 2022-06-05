@@ -12,7 +12,7 @@ in
       pkgs,
       ...
     }: {
-      name = "Nixpkgs";
+      name = "nixpkgs";
 
       std.docs.enable = false;
 

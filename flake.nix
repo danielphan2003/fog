@@ -13,27 +13,27 @@
 
   outputs =
     { self
-    , nixpkgs
+    , std
     , ...
     } @ inputs:
-    inputs.std.grow {
+    std.grow {
       inherit inputs;
       cellsFrom = ./cells;
       organelles = [
-        (inputs.std.runnables "cli")
-        (inputs.std.runnables "repl")
+        (std.runnables "cli")
+        (std.runnables "repl")
 
-        (inputs.std.functions "lib")
-        (inputs.std.functions "categories")
+        (std.functions "lib")
+        (std.functions "categories")
 
-        (inputs.std.functions "all-packages")
-        (inputs.std.functions "minecraft-mods")
-        (inputs.std.functions "papermc")
-        (inputs.std.functions "openvsx")
-        (inputs.std.functions "vsmarketplace")
-        (inputs.std.functions "vscode-extensions")
+        (std.functions "all-packages")
+        (std.functions "minecraft-mods")
+        (std.functions "papermc")
+        (std.functions "open-vsx")
+        (std.functions "vsmarketplace")
+        (std.functions "vscode-extensions")
 
-        (inputs.std.devshells "devshells")
+        (std.devshells "devshells")
       ];
     }
   ;
