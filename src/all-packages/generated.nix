@@ -771,13 +771,13 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "5007ac208c72ecfdebddf7fbd9e3a88a27f1221a";
+    version = "463fc2f0c048d05452bd157a8937c961cea2f87a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "5007ac208c72ecfdebddf7fbd9e3a88a27f1221a";
+      rev = "463fc2f0c048d05452bd157a8937c961cea2f87a";
       fetchSubmodules = false;
-      sha256 = "sha256-13mn50R2CuTN5vMgSdJ5uXcBnj3oq2SOnbIgA3IyBjg=";
+      sha256 = "sha256-q+f08s9d0nQh4Qvy5sk86m/3T55jDPYsmeNoR70Tle4=";
     });
   };
   rustdesk-server-oss = {
