@@ -27,7 +27,7 @@ fetch.github = "RaitaroH/adl"
 [age-plugin-yubikey]
 src.git = "https://github.com/str4d/age-plugin-yubikey"
 fetch.github = "str4d/age-plugin-yubikey"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [anbox]
 src.git = "https://github.com/anbox/anbox"
@@ -53,7 +53,7 @@ fetch.github = "arkenfox/user.js"
 [asusctl]
 src.git = "https://gitlab.com/asus-linux/asusctl"
 fetch.git = "https://gitlab.com/asus-linux/asusctl"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [avizo]
 src.git = "https://github.com/misterdanb/avizo"
@@ -87,12 +87,12 @@ fetch.url = "https://github.com/ajbura/cinny/releases/download/v$ver/cinny-v$ver
 [conduit]
 src.git = "https://gitlab.com/famedly/conduit"
 fetch.git = "https://gitlab.com/famedly/conduit"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [conduit-toolbox]
 src.git = "https://github.com/ShadowJonathan/conduit_toolbox"
 fetch.github = "ShadowJonathan/conduit_toolbox"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [cups-pdf]
 src.webpage = "https://www.cups-pdf.de/src"
@@ -127,7 +127,7 @@ fetch.github = "muesli/duf"
 [eww]
 src.git = "https://github.com/elkowar/eww"
 fetch.github = "elkowar/eww"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [fake-background-webcam]
 src.git = "https://github.com/fangfufu/Linux-Fake-Background-Webcam"
@@ -144,7 +144,7 @@ fetch.github = "akshat46/FlyingFox"
 [frece]
 src.git = "https://github.com/YodaEmbedding/frece"
 fetch.github = "YodaEmbedding/frece"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [guiscrcpy]
 src.git = "https://github.com/srevinsaju/guiscrcpy"
@@ -258,12 +258,12 @@ fetch.github = "nwg-piotr/nwg-drawer"
 [ouch]
 src.git = "https://github.com/ouch-org/ouch"
 fetch.github = "ouch-org/ouch"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [paper]
 src.git = "https://gitlab.com/snakedye/paper"
 fetch.git = "https://gitlab.com/snakedye/paper"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [picom]
 src.git = "https://github.com/yshui/picom"
@@ -313,7 +313,7 @@ git.fetchSubmodules = true
 [rustdesk]
 src.git = "https://github.com/rustdesk/rustdesk"
 fetch.github = "rustdesk/rustdesk"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [rustdesk-server-oss]
 src.git = "https://github.com/rustdesk/rustdesk-server-demo"
@@ -370,7 +370,7 @@ fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoY
 [spotifyd]
 src.git = "https://github.com/Spotifyd/spotifyd"
 fetch.github = "Spotifyd/spotifyd"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [steamcompmgr]
 src.git = "https://github.com/ChimeraOS/steamos-compositor-plus"
@@ -379,7 +379,7 @@ fetch.github = "ChimeraOS/steamos-compositor-plus"
 [supergfxctl]
 src.git = "https://gitlab.com/asus-linux/supergfxctl"
 fetch.git = "https://gitlab.com/asus-linux/supergfxctl"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [sway-borders]
 src.git = "https://github.com/fluix-dev/sway-borders"
@@ -422,7 +422,7 @@ fetch.github = "salty-horse/ibus-uniemoji"
 [vaultwarden]
 src.github_tag = "dani-garcia/vaultwarden"
 fetch.github = "dani-garcia/vaultwarden"
-cargo_lock = "Cargo.lock"
+cargo_locks = [ "Cargo.lock" ]
 
 [vaultwarden-vault]
 src.github_tag = "dani-garcia/bw_web_builds"
