@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rSBDINLlWCUC5KyDnYvSNdD9vC2hzApJPzpvLmTGxG4=",
+            "sha256": "sha256-5okEPpRg3k+Ub2geIWknbKy3uwf4pJXyZXRO5eZy8Ko=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.319/file/Slint.slint-nightly-2022.6.319.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.413/file/Slint.slint-nightly-2022.6.413.vsix"
         },
-        "version": "2022.6.319"
+        "version": "2022.6.413"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -21696,6 +21696,25 @@
             "url": "https://open-vsx.org/api/ms-vscode/makefile-tools/0.5.0/file/ms-vscode.makefile-tools-0.5.0.vsix"
         },
         "version": "0.5.0"
+    },
+    "ms-vscode-mono-debug": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-mono-debug",
+        "passthru": {
+            "description": "Visual Studio Code debugger extension for Mono",
+            "license": "MIT",
+            "name": "mono-debug",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-yaz1MrOs0kSAcVd2kj6HWvzLmt9SL9+JMbGno1SYHho=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/mono-debug/0.16.2/file/ms-vscode.mono-debug-0.16.2.vsix"
+        },
+        "version": "0.16.2"
     },
     "ms-vscode-node-debug": {
         "cargoLocks": null,

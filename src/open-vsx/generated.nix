@@ -3207,10 +3207,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.319";
+    version = "2022.6.413";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.319/file/Slint.slint-nightly-2022.6.319.vsix";
-      sha256 = "sha256-rSBDINLlWCUC5KyDnYvSNdD9vC2hzApJPzpvLmTGxG4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.413/file/Slint.slint-nightly-2022.6.413.vsix";
+      sha256 = "sha256-5okEPpRg3k+Ub2geIWknbKy3uwf4pJXyZXRO5eZy8Ko=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13703,6 +13703,18 @@
     license = "";
     name = "makefile-tools";
     description = "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-mono-debug = {
+    pname = "ms-vscode-mono-debug";
+    version = "0.16.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/mono-debug/0.16.2/file/ms-vscode.mono-debug-0.16.2.vsix";
+      sha256 = "sha256-yaz1MrOs0kSAcVd2kj6HWvzLmt9SL9+JMbGno1SYHho=";
+    };
+    license = "MIT";
+    name = "mono-debug";
+    description = "Visual Studio Code debugger extension for Mono";
     publisher = "ms-vscode";
   };
   ms-vscode-node-debug = {
