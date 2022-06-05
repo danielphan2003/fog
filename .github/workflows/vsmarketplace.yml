@@ -50,7 +50,7 @@ jobs:
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs nvfetcher-cleanup vsmarketplace
 
     - name: Update all vsmarketplace extensions
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources misc/vscode-extensions/vsmarketplace
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources misc/vscode-extensions/vsmarketplace --commit-changes
 
     - name: Push changes to main
       run: git pull --no-rebase && git push

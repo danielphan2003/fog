@@ -43,6 +43,7 @@ in
           help = "Check Nix parsing";
           command = "${nixpkgs.fd}/bin/fd --extension nix --exec ${nixpkgs.nix}/bin/nix-instantiate --parse --quiet {} >/dev/null";
         })
+        (utils nixpkgs.nvfetcher)
         (docs nixpkgs.mdbook)
         (utils cell.cli.default)
       ];

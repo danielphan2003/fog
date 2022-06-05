@@ -14,7 +14,8 @@
   writeBashWithNixpkgsPaths = { packages ? [], path, name, ... }@args:
     nixpkgs.writeShellScript name ''
       export PATH="$PATH:${l.makeBinPath (packages ++ [ "$DEVSHELL_DIR" ])}"
-      export NIXPKGS_CACHE=''${NIXPKGS_CACHE:-/tmp/bud}
+      nixpkgs makeNixpkgsCache
+      export NIXPKGS_CACHE=''${NIXPKGS_CACHE:-/tmp/nixpkgs}
       mkdir -p $NIXPKGS_CACHE
       source ${path}
     '';

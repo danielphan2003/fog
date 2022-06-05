@@ -3,9 +3,6 @@ sourceDir="${2:-"$(basename $file)"}"
 file="$PKGS_PATH/$file.toml"
 
 args=( "${@: 3}" )
-if [ $CI ]; then
-  args+=( --commit-changes )
-fi
 
 echo "${args[@]}"
 

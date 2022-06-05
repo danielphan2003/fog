@@ -53,7 +53,7 @@ jobs:
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs papermc-versions-updater
 
     - name: Update all papermc packages
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources games/papermc
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources games/papermc --commit-changes
 
     - name: Push changes to main
       run: git pull --no-rebase && git push
