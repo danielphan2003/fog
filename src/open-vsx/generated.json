@@ -18442,11 +18442,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-O3vL0IIqWwI/cJpNaVXvshitCUrk193icY1XIJNjU9k=",
+            "sha256": "sha256-Ka34BzXhxteZuvK0VWdmIU6FQ50hxEdiZP6lXiwR1UU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/kha/22.2.0/file/kodetech.kha-22.2.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/kha/22.5.2/file/kodetech.kha-22.5.2.vsix"
         },
-        "version": "22.2.0"
+        "version": "22.5.2"
+    },
+    "kodetech-kha-extension-pack": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "kodetech-kha-extension-pack",
+        "passthru": {
+            "description": "Everything you need for Kha development",
+            "license": "",
+            "name": "kha-extension-pack",
+            "publisher": "kodetech"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-OEJcBHFMCImh3+ThDPHLBTax2QMvUNzNl6CBzcVGvSg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/kodetech/kha-extension-pack/22.6.0/file/kodetech.kha-extension-pack-22.6.0.vsix"
+        },
+        "version": "22.6.0"
     },
     "kodetech-krafix": {
         "cargoLocks": null,
@@ -18466,6 +18485,44 @@
             "url": "https://open-vsx.org/api/kodetech/krafix/18.7.1/file/kodetech.krafix-18.7.1.vsix"
         },
         "version": "18.7.1"
+    },
+    "kodetech-krom": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "kodetech-krom",
+        "passthru": {
+            "description": "Krom support",
+            "license": "MIT",
+            "name": "krom",
+            "publisher": "kodetech"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+        },
+        "version": "22.6.0"
+    },
+    "kodetech-krom-debug": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "kodetech-krom-debug",
+        "passthru": {
+            "description": "Debug your JavaScript code in Krom.",
+            "license": "",
+            "name": "krom-debug",
+            "publisher": "kodetech"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+        },
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,

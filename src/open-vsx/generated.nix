@@ -11643,14 +11643,26 @@
   };
   kodetech-kha = {
     pname = "kodetech-kha";
-    version = "22.2.0";
+    version = "22.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/kha/22.2.0/file/kodetech.kha-22.2.0.vsix";
-      sha256 = "sha256-O3vL0IIqWwI/cJpNaVXvshitCUrk193icY1XIJNjU9k=";
+      url = "https://open-vsx.org/api/kodetech/kha/22.5.2/file/kodetech.kha-22.5.2.vsix";
+      sha256 = "sha256-Ka34BzXhxteZuvK0VWdmIU6FQ50hxEdiZP6lXiwR1UU=";
     };
     license = "";
     name = "kha";
     description = "Kha support";
+    publisher = "kodetech";
+  };
+  kodetech-kha-extension-pack = {
+    pname = "kodetech-kha-extension-pack";
+    version = "22.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kodetech/kha-extension-pack/22.6.0/file/kodetech.kha-extension-pack-22.6.0.vsix";
+      sha256 = "sha256-OEJcBHFMCImh3+ThDPHLBTax2QMvUNzNl6CBzcVGvSg=";
+    };
+    license = "";
+    name = "kha-extension-pack";
+    description = "Everything you need for Kha development";
     publisher = "kodetech";
   };
   kodetech-krafix = {
@@ -11663,6 +11675,30 @@
     license = "";
     name = "krafix";
     description = "krafix support";
+    publisher = "kodetech";
+  };
+  kodetech-krom = {
+    pname = "kodetech-krom";
+    version = "22.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+    };
+    license = "MIT";
+    name = "krom";
+    description = "Krom support";
+    publisher = "kodetech";
+  };
+  kodetech-krom-debug = {
+    pname = "kodetech-krom-debug";
+    version = "20.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+    };
+    license = "";
+    name = "krom-debug";
+    description = "Debug your JavaScript code in Krom.";
     publisher = "kodetech";
   };
   kokakiwi-vscode-capnproto = {
