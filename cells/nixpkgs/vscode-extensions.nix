@@ -23,5 +23,5 @@ in {
             l.licenses;
         };
       })
-    (cell.vsmarketplace.default // cell.openvsx.default);
+    (cell.vsmarketplace.default // cell.open-vsx.default);
 }
