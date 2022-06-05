@@ -665,13 +665,13 @@
   };
   pure = {
     pname = "pure";
-    version = "5b458ba5b75f49a8071d53c343f1a23631f7bced";
+    version = "de5b445610ebadcf4501b757921a0cd2863b4ea7";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "5b458ba5b75f49a8071d53c343f1a23631f7bced";
+      rev = "de5b445610ebadcf4501b757921a0cd2863b4ea7";
       fetchSubmodules = false;
-      sha256 = "sha256-iuLi0o++e0PqK81AKWfIbCV0CTIxq2Oki6U2oEYsr68=";
+      sha256 = "sha256-IAP1v3F1kx2jcPneWUrc5E4L/HtATOQU6D7RsLgxE6g=";
     });
   };
   pythonPackages-cfscrape = {
@@ -986,13 +986,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "fc5ee4fad48c46cca4c5ec96252c0fcf90245e82";
+    version = "50c29ee4b2035d9aea7fbcee09af28157e9b55ff";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "fc5ee4fad48c46cca4c5ec96252c0fcf90245e82";
+      rev = "50c29ee4b2035d9aea7fbcee09af28157e9b55ff";
       fetchSubmodules = false;
-      sha256 = "sha256-mcUhuTSgcQoS5bqNdz0GCRSi1lpKi6/dsABxAeb4dxI=";
+      sha256 = "sha256-UuHL4WyYESApdNSsElrVjbnGR5ZNRGksXPUKCwgsfvg=";
     });
   };
   ultimmc = {
