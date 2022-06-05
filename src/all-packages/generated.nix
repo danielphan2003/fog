@@ -54,6 +54,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-KXqicTZ9GZlNj1AH3tMmOrC8zjXoEnqo4JJJTBdiI4E=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./age-plugin-yubikey-08ba0aa1ec3ced531dcb16a9db1795d6ee9b52cb/Cargo.lock;
+      outputHashes = {
+        
+      };
+    };
   };
   anbox = {
     pname = "anbox";
@@ -120,6 +126,12 @@
       deepClone = false;
       leaveDotGit = false;
       sha256 = "sha256-c10imhFUYvuJxP801wEN854mN0Dj8aenapjlmf5R354=";
+    };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./asusctl-bac2ba6f0938b0f6c03bf4182e098adfcff479ff/Cargo.lock;
+      outputHashes = {
+        
+      };
     };
   };
   avizo = {
@@ -207,6 +219,14 @@
       leaveDotGit = false;
       sha256 = "sha256-QZt7riq/sGO4R/DyYPtuOgfajxzT1D0E4F9cHstjRXg=";
     };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./conduit-39bc84d81c07049f803ec75c8cd706e8099b8481/Cargo.lock;
+      outputHashes = {
+        "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
+        "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
+        "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
+      };
+    };
   };
   conduit-toolbox = {
     pname = "conduit-toolbox";
@@ -218,6 +238,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-vQ4r2Cvf2okeJ5qGIQ8mHoUmmrbUbY+bIEpee7XH6zA=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./conduit-toolbox-805baa070528e6db7161ef35b75180e70d896541/Cargo.lock;
+      outputHashes = {
+        "heed-0.10.6" = "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=";
+      };
+    };
   };
   cups-pdf = {
     pname = "cups-pdf";
@@ -300,6 +326,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-wtrq8crcN7fdNAkCqKHrPpptP4FOEQwReUnSFcCMQzs=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./eww-0b0715fd505200db5954432b8a27ed57e3e6a72a/Cargo.lock;
+      outputHashes = {
+        
+      };
+    };
   };
   fake-background-webcam = {
     pname = "fake-background-webcam";
@@ -344,6 +376,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-lLSRLcnUJqWCEIJEOVHANzxTI+xR3VegRHtjHHI0gTs=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./frece-d4071c6c852e68dda82b7ab0bfb0f141b39d4484/Cargo.lock;
+      outputHashes = {
+        
+      };
+    };
   };
   guiscrcpy = {
     pname = "guiscrcpy";
@@ -608,6 +646,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-Qj2CvplJBfgrAep4ivVXiNKDQN2S4R1hdlqZ4S2+MnY=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./ouch-fc532d81d8136cc69eb73bdf3c3d65faede7a596/Cargo.lock;
+      outputHashes = {
+        
+      };
+    };
   };
   paper = {
     pname = "paper";
@@ -619,6 +663,12 @@
       deepClone = false;
       leaveDotGit = false;
       sha256 = "sha256-D0VMUZ7QN4xTcTBulzSlt7IvjRxPYFiTs1AcuhNKrek=";
+    };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./paper-35ecb75c6776615f1db5dfb861fbe407263d8057/Cargo.lock;
+      outputHashes = {
+        "snui-0.1.0" = "sha256-y61EWKr5qD9OFrMVQs9SVyLCqq5lOwLXCAo2w0AYt7M=";
+      };
     };
   };
   picom = {
@@ -779,6 +829,18 @@
       fetchSubmodules = false;
       sha256 = "sha256-q+f08s9d0nQh4Qvy5sk86m/3T55jDPYsmeNoR70Tle4=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./rustdesk-463fc2f0c048d05452bd157a8937c961cea2f87a/Cargo.lock;
+      outputHashes = {
+        "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
+        "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
+        "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
+        "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
+        "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
+        "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
+        "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
+      };
+    };
   };
   rustdesk-server-oss = {
     pname = "rustdesk-server-oss";
@@ -900,6 +962,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-UYQ5XiG18bQO4UfLDa7Nn2BQGk0jo0+tSP1lL79cY8k=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./spotifyd-ae6dac7a54f899316674ba57ce4a0f9890cd2b1c/Cargo.lock;
+      outputHashes = {
+        
+      };
+    };
   };
   steamcompmgr = {
     pname = "steamcompmgr";
@@ -922,6 +990,12 @@
       deepClone = false;
       leaveDotGit = false;
       sha256 = "sha256-nr4KvI4hfyRTqyOjaeBcL22HqH5Dw3YX5I/ZVaApUiM=";
+    };
+    cargoLock."Cargo.lock" = {
+      lockFile = ./supergfxctl-de0f8219c245708d472f4a77dcb4ddd574060a9e/Cargo.lock;
+      outputHashes = {
+        
+      };
     };
   };
   sway-borders = {
@@ -1027,6 +1101,12 @@
       fetchSubmodules = false;
       sha256 = "sha256-s7ouCEwpI61lpxBHtzFFy7PmFGrnGSi25K75rRnox6M=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./vaultwarden-1.25.0/Cargo.lock;
+      outputHashes = {
+        "job_scheduler-1.2.1" = "sha256-v3Q3e6rAOmEm81pd6GkapbWoUP/Q4KCM75TEEAoEcUs=";
+      };
+    };
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
