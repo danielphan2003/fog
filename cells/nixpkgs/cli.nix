@@ -154,6 +154,7 @@ in
         nixpkgs.git
         nixpkgs.bash
         nixpkgs.gnupg
+        nixpkgs.nix
       ];
       help = "Update source";
       path = ./cli/utils/update-sources.bash;
