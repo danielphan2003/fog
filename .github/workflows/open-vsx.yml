@@ -53,7 +53,6 @@ jobs:
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs openvsx-updater
 
     - name: Update all open-vsx extensions (except matklad.rust-analyzer)
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources misc/vscode-extensions/open-vsx --commit-changes
-
+      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources misc/vscode-extensions/open-vsx
     - name: Push changes to main
       run: git pull --no-rebase && git push
