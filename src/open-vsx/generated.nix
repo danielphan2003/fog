@@ -8,10 +8,10 @@
       url = "https://open-vsx.org/api/ActivityWatch/aw-watcher-vscode/0.5.0/file/ActivityWatch.aw-watcher-vscode-0.5.0.vsix";
       sha256 = "sha256-bTxu8t7ox34P8T17kLP/lR4Lnvhpa8BYqhqawG6tWgc=";
     };
-    name = "aw-watcher-vscode";
     license = "";
-    publisher = "ActivityWatch";
+    name = "aw-watcher-vscode";
     description = "Editor watcher for ActivityWatch, the free and open-source automated time tracker.";
+    publisher = "ActivityWatch";
   };
   AdaCore-ada = {
     pname = "AdaCore-ada";
@@ -20,10 +20,10 @@
       url = "https://open-vsx.org/api/AdaCore/ada/23.0.6/file/AdaCore.ada-23.0.6.vsix";
       sha256 = "sha256-MwLya2oxcUg34lp0AcdskODJjTwX69jvqNpQnrBKxQY=";
     };
-    name = "ada";
     license = "GPL-3.0";
-    publisher = "AdaCore";
+    name = "ada";
     description = "A Language Server providing Ada and SPARK support in Visual Studio Code";
+    publisher = "AdaCore";
   };
   AdaCore-ada-debug = {
     pname = "AdaCore-ada-debug";
@@ -32,10 +32,10 @@
       url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.6/file/AdaCore.ada-debug-23.0.6.vsix";
       sha256 = "sha256-FSf/h3WIhmpVdOhVUH/sqA3etU7tWUCHsv++P+/vn4w=";
     };
-    name = "ada-debug";
     license = "GPL-3.0";
-    publisher = "AdaCore";
+    name = "ada-debug";
     description = "A Language Server providing Ada and SPARK support in Visual Studio Code";
+    publisher = "AdaCore";
   };
   AdamAnand-adamstool = {
     pname = "AdamAnand-adamstool";
@@ -44,10 +44,10 @@
       url = "https://open-vsx.org/api/AdamAnand/adamstool/0.1.8/file/AdamAnand.adamstool-0.1.8.vsix";
       sha256 = "sha256-LeUv6rUO/vZeydfTh0TZrIf+zEvmwtnhLkfBuEdfKLI=";
     };
-    name = "adamstool";
     license = "MIT";
-    publisher = "AdamAnand";
+    name = "adamstool";
     description = "Creates toolbar to help Visual Studio Code users.";
+    publisher = "AdamAnand";
   };
   AdrianCuadrado-npm-install-reminder = {
     pname = "AdrianCuadrado-npm-install-reminder";
@@ -56,10 +56,10 @@
       url = "https://open-vsx.org/api/AdrianCuadrado/npm-install-reminder/0.0.3/file/AdrianCuadrado.npm-install-reminder-0.0.3.vsix";
       sha256 = "sha256-ZJ373WkY77yEXN/n3njNTP4tzFe3xu26xmxz+jF5Amc=";
     };
-    name = "npm-install-reminder";
     license = "MIT";
-    publisher = "AdrianCuadrado";
+    name = "npm-install-reminder";
     description = "Detects when a change is made in package.lock every time you pull or checkout another git branch, and reminds you to run npm install.";
+    publisher = "AdrianCuadrado";
   };
   Angular-ng-template = {
     pname = "Angular-ng-template";
@@ -68,10 +68,10 @@
       url = "https://open-vsx.org/api/Angular/ng-template/14.0.0/file/Angular.ng-template-14.0.0.vsix";
       sha256 = "sha256-bX+BHTFcpqhJbEHR9CHprzqcEdpOFbq9u/ePBwlezbw=";
     };
-    name = "ng-template";
     license = "MIT";
-    publisher = "Angular";
+    name = "ng-template";
     description = "Editor services for Angular templates";
+    publisher = "Angular";
   };
   Antyos-openscad = {
     pname = "Antyos-openscad";
@@ -80,10 +80,10 @@
       url = "https://open-vsx.org/api/Antyos/openscad/1.1.1/file/Antyos.openscad-1.1.1.vsix";
       sha256 = "sha256-W942+PBR2ZQROVSm24smLIlCRZTPUUsNHfPaIWXirKk=";
     };
-    name = "openscad";
     license = "GPL-3.0";
-    publisher = "Antyos";
+    name = "openscad";
     description = "OpenSCAD highlighting, snippets, and more for VSCode!";
+    publisher = "Antyos";
   };
   Antyos-vscode-mlog = {
     pname = "Antyos-vscode-mlog";
@@ -92,10 +92,10 @@
       url = "https://open-vsx.org/api/Antyos/vscode-mlog/0.1.0/file/Antyos.vscode-mlog-0.1.0.vsix";
       sha256 = "sha256-l6WdppTpTQqW0IIg/3zicuCdUeQC26IsAFzL9ypXQ9U=";
     };
-    name = "vscode-mlog";
     license = "GPL-3.0";
-    publisher = "Antyos";
+    name = "vscode-mlog";
     description = "Mindustry Logic (mlog) highlighting for VSCode!";
+    publisher = "Antyos";
   };
   AquaSecurityOfficial-trivy-vulnerability-scanner = {
     pname = "AquaSecurityOfficial-trivy-vulnerability-scanner";
@@ -104,10 +104,10 @@
       url = "https://open-vsx.org/api/AquaSecurityOfficial/trivy-vulnerability-scanner/0.5.3/file/AquaSecurityOfficial.trivy-vulnerability-scanner-0.5.3.vsix";
       sha256 = "sha256-z9D3WWJkT85LoigS3V2Pop/DdbJDynVswaPQY0qNd5g=";
     };
-    name = "trivy-vulnerability-scanner";
     license = "Apache-2.0";
-    publisher = "AquaSecurityOfficial";
+    name = "trivy-vulnerability-scanner";
     description = "A VS Code extension for Trivy.";
+    publisher = "AquaSecurityOfficial";
   };
   Arch-as-Code-aac = {
     pname = "Arch-as-Code-aac";
@@ -116,10 +116,10 @@
       url = "https://open-vsx.org/api/Arch-as-Code/aac/0.0.1/file/Arch-as-Code.aac-0.0.1.vsix";
       sha256 = "sha256-qfaEIZhWziwn0vY4W5twz6UWQ2X6G3yt6+EO8h7f7p4=";
     };
-    name = "aac";
     license = "MIT";
-    publisher = "Arch-as-Code";
+    name = "aac";
     description = "A distinctly different take on Model-Based System Engineering (MBSE) that allows a system modeler to define a system in simple yaml";
+    publisher = "Arch-as-Code";
   };
   ArtisanByteCrafter-poptheme = {
     pname = "ArtisanByteCrafter-poptheme";
@@ -128,10 +128,10 @@
       url = "https://open-vsx.org/api/ArtisanByteCrafter/poptheme/1.0.3/file/ArtisanByteCrafter.poptheme-1.0.3.vsix";
       sha256 = "sha256-q5Y6RfZZ/xjbZv2vgXG1BILKp5rsPAZy3c9nruhHGC8=";
     };
-    name = "poptheme";
     license = "MIT";
-    publisher = "ArtisanByteCrafter";
+    name = "poptheme";
     description = "A VSCode theme based on the design language of @System76's Pop! Theme.";
+    publisher = "ArtisanByteCrafter";
   };
   Autodesk-autolispext = {
     pname = "Autodesk-autolispext";
@@ -140,10 +140,10 @@
       url = "https://open-vsx.org/api/Autodesk/autolispext/1.5.0/file/Autodesk.autolispext-1.5.0.vsix";
       sha256 = "sha256-IkmSGv9vUuB8CvK2sNJdcxWyIBZqlnsx8w9RCApW644=";
     };
-    name = "autolispext";
     license = "Apache-2.0";
-    publisher = "Autodesk";
+    name = "autolispext";
     description = "This is a vscode extension for AutoCAD AutoLISP";
+    publisher = "Autodesk";
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
@@ -152,10 +152,10 @@
       url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.3.0/file/AvengaGermanyGmbH.couper-1.3.0.vsix";
       sha256 = "sha256-1g0jsdvhNU8i4B3ddxbyNbrVCHxBdJdbLcTu1WP5vx4=";
     };
-    name = "couper";
     license = "MIT";
-    publisher = "AvengaGermanyGmbH";
+    name = "couper";
     description = "Provides autocompletion, syntax/semantic validation and syntax highlighting for Couper's HCL based configuration file.";
+    publisher = "AvengaGermanyGmbH";
   };
   Avoonix-furry-language = {
     pname = "Avoonix-furry-language";
@@ -164,10 +164,10 @@
       url = "https://open-vsx.org/api/Avoonix/furry-language/0.1.1/file/Avoonix.furry-language-0.1.1.vsix";
       sha256 = "sha256-3O5tnZQZ0nzsYMx4ELEyn2NTZtpZrDY6AnvoJFpjUFI=";
     };
-    name = "furry-language";
     license = "GPL-3.0-or-later";
-    publisher = "Avoonix";
+    name = "furry-language";
     description = "Language pack extension for the \"Furry\" language";
+    publisher = "Avoonix";
   };
   Avoonix-pink-as-fox = {
     pname = "Avoonix-pink-as-fox";
@@ -176,10 +176,10 @@
       url = "https://open-vsx.org/api/Avoonix/pink-as-fox/1.8.1/file/Avoonix.pink-as-fox-1.8.1.vsix";
       sha256 = "sha256-3zl39w0+DGPbbd3fHPBjMpQ6q3X2k1OTWiB6nXUNiEQ=";
     };
-    name = "pink-as-fox";
     license = "GPL-3.0-or-later";
-    publisher = "Avoonix";
+    name = "pink-as-fox";
     description = "A black/pink theme :3";
+    publisher = "Avoonix";
   };
   Axway-vscode-titanium = {
     pname = "Axway-vscode-titanium";
@@ -188,10 +188,10 @@
       url = "https://open-vsx.org/api/Axway/vscode-titanium/0.14.0/file/Axway.vscode-titanium-0.14.0.vsix";
       sha256 = "sha256-3BI9G8eDZWiR2UAbg+IooG+nnGLNBmFCxAayjTlZDMI=";
     };
-    name = "vscode-titanium";
     license = "Apache 2.0";
-    publisher = "Axway";
+    name = "vscode-titanium";
     description = "Intellisense, snippets, and integrated build tools for Titanium";
+    publisher = "Axway";
   };
   Ayushh-vscode-anchor = {
     pname = "Ayushh-vscode-anchor";
@@ -200,10 +200,10 @@
       url = "https://open-vsx.org/api/Ayushh/vscode-anchor/0.2.6/file/Ayushh.vscode-anchor-0.2.6.vsix";
       sha256 = "sha256-J1X/VIBapsNN94ClyaPmp9EmAue7rNVlg2Eom1/T6K0=";
     };
-    name = "vscode-anchor";
     license = "Apache-2.0";
-    publisher = "Ayushh";
+    name = "vscode-anchor";
     description = "vscode extension for Anchor (Solana's Sealevel runtime Framework)";
+    publisher = "Ayushh";
   };
   BazelBuild-vscode-bazel = {
     pname = "BazelBuild-vscode-bazel";
@@ -212,10 +212,10 @@
       url = "https://open-vsx.org/api/BazelBuild/vscode-bazel/0.5.0/file/BazelBuild.vscode-bazel-0.5.0.vsix";
       sha256 = "sha256-VbjliBPuv9LtSN8iAPZ/sGaQfsOmVlteEsJlKZfU3cs=";
     };
-    name = "vscode-bazel";
     license = "Apache-2.0";
-    publisher = "BazelBuild";
+    name = "vscode-bazel";
     description = "Bazel BUILD integration";
+    publisher = "BazelBuild";
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
@@ -224,10 +224,10 @@
       url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.0.1/file/BeardedBear.beardedtheme-6.0.1.vsix";
       sha256 = "sha256-wOKijOAMwrkGvHxSBnWy/xg+PDOJrzGF0ExOCkvlauA=";
     };
-    name = "beardedtheme";
     license = "MIT";
-    publisher = "BeardedBear";
+    name = "beardedtheme";
     description = "The theme with a long beard.";
+    publisher = "BeardedBear";
   };
   Betajob-modulestf = {
     pname = "Betajob-modulestf";
@@ -236,10 +236,10 @@
       url = "https://open-vsx.org/api/Betajob/modulestf/0.0.8/file/Betajob.modulestf-0.0.8.vsix";
       sha256 = "sha256-Op3ycU7PPoYoSlbezsxxxHinF3UKOu1UYhSsnobMkLc=";
     };
-    name = "modulestf";
     license = "PROPRIETARY";
-    publisher = "Betajob";
+    name = "modulestf";
     description = "Semantic highlighting support for Terraform, and more to come...";
+    publisher = "Betajob";
   };
   BroadcomMFD-abend-analyzer = {
     pname = "BroadcomMFD-abend-analyzer";
@@ -248,10 +248,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/1.0.0/file/BroadcomMFD.abend-analyzer-1.0.0.vsix";
       sha256 = "sha256-aloWW2j9fWQgK0PkRR2AkUvAwNATIyBLPrTvWum70Iw=";
     };
-    name = "abend-analyzer";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "abend-analyzer";
     description = "Fault management tool that provides critical and comprehensive ABEND information.";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-bridge-for-git-explorer = {
     pname = "BroadcomMFD-bridge-for-git-explorer";
@@ -260,10 +260,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/bridge-for-git-explorer/0.2.5/file/BroadcomMFD.bridge-for-git-explorer-0.2.5.vsix";
       sha256 = "sha256-CrqniDUyCnZUtjSmqpY9ZSsInq6LUCZ/NogL1Bb5Sr0=";
     };
-    name = "bridge-for-git-explorer";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "bridge-for-git-explorer";
     description = "Add elements from up the Endevor map to your synchronized Git-Endevor repository.";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-ccf = {
     pname = "BroadcomMFD-ccf";
@@ -272,10 +272,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/ccf/1.0.0/file/BroadcomMFD.ccf-1.0.0.vsix";
       sha256 = "sha256-+XtD1uB/tY1A6vq0hqo0NEqSW/Wz3NwekI4Jk3J8QoE=";
     };
-    name = "ccf";
     license = "MIT";
-    publisher = "BroadcomMFD";
+    name = "ccf";
     description = "Graphical visualization of program flow for COBOL programs";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-cobol-language-support = {
     pname = "BroadcomMFD-cobol-language-support";
@@ -284,10 +284,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.1/file/BroadcomMFD.cobol-language-support-1.0.1.vsix";
       sha256 = "sha256-3rTveRVkUXbntL2xzICsgnkHT1PYFXd6LnQy58fnRuc=";
     };
-    name = "cobol-language-support";
     license = "EPL-2.0";
-    publisher = "BroadcomMFD";
+    name = "cobol-language-support";
     description = "Autocomplete, highlighting and diagnostics for COBOL code and copybooks.";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-code4z-extension-pack = {
     pname = "BroadcomMFD-code4z-extension-pack";
@@ -296,10 +296,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/code4z-extension-pack/2.0.0/file/BroadcomMFD.code4z-extension-pack-2.0.0.vsix";
       sha256 = "sha256-jnz2ZuluFIb7lryspusXVbhww7Ho1kOSCJ1yBjGa4n0=";
     };
-    name = "code4z-extension-pack";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "code4z-extension-pack";
     description = "Extension pack for Mainframe users working with z/OS applications and tools";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-data-editor-for-mainframe = {
     pname = "BroadcomMFD-data-editor-for-mainframe";
@@ -308,10 +308,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/1.0.0/file/BroadcomMFD.data-editor-for-mainframe-1.0.0.vsix";
       sha256 = "sha256-G1e/OE/UKj13tJDntcPNUFegFkWoJv2p79/vDj0ByUk=";
     };
-    name = "data-editor-for-mainframe";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "data-editor-for-mainframe";
     description = "Browser and editor for mainframe data sets including VSAM data sets";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-debugger-for-mainframe = {
     pname = "BroadcomMFD-debugger-for-mainframe";
@@ -320,10 +320,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.3/file/BroadcomMFD.debugger-for-mainframe-1.5.3.vsix";
       sha256 = "sha256-AmsV14e75wJHXFXY+WzBV9UW+Tb56cDl2/hFWVD/GXI=";
     };
-    name = "debugger-for-mainframe";
     license = "Broadcom";
-    publisher = "BroadcomMFD";
+    name = "debugger-for-mainframe";
     description = "Provides a modern debugging experience for CICS and Batch applications written in COBOL.";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
@@ -332,10 +332,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.1.1/file/BroadcomMFD.explorer-for-endevor-1.1.1.vsix";
       sha256 = "sha256-B57+ocBLYBeF/muCIye6HOFLkSOtc+VBP+nckBNyEKs=";
     };
-    name = "explorer-for-endevor";
     license = "EPL-2.0";
-    publisher = "BroadcomMFD";
+    name = "explorer-for-endevor";
     description = "Explorer for Endevor";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
@@ -344,10 +344,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.2.0/file/BroadcomMFD.hlasm-language-support-1.2.0.vsix";
       sha256 = "sha256-+llP36IAn0FN7klaGuV+a7550nPguwfwdm4IvC82hy4=";
     };
-    name = "hlasm-language-support";
     license = "EPL-2.0";
-    publisher = "BroadcomMFD";
+    name = "hlasm-language-support";
     description = "Code completion, highlighting, browsing and validation for High Level Assembler.";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-jcl-language-support = {
     pname = "BroadcomMFD-jcl-language-support";
@@ -356,10 +356,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/jcl-language-support/1.0.0/file/BroadcomMFD.jcl-language-support-1.0.0.vsix";
       sha256 = "sha256-J403BAaBpcS/Uuu/+shfCp8OzMnb3HXWfRI4coUEeg4=";
     };
-    name = "jcl-language-support";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "jcl-language-support";
     description = "JCL Language Support Visual Studio Code Extension";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-lsp-for-rexx = {
     pname = "BroadcomMFD-lsp-for-rexx";
@@ -368,10 +368,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/lsp-for-rexx/0.0.17/file/BroadcomMFD.lsp-for-rexx-0.0.17.vsix";
       sha256 = "sha256-5JSoWejgv0H2ADyQeNOHwrlhDbJIJWTx6ruRBjjusf4=";
     };
-    name = "lsp-for-rexx";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "lsp-for-rexx";
     description = "Autocomplete, highlighting and diagnostics for Rexx code.";
+    publisher = "BroadcomMFD";
   };
   BroadcomMFD-workflows4z = {
     pname = "BroadcomMFD-workflows4z";
@@ -380,10 +380,10 @@
       url = "https://open-vsx.org/api/BroadcomMFD/workflows4z/1.2.1/file/BroadcomMFD.workflows4z-1.2.1.vsix";
       sha256 = "sha256-1q6ZvhxANsRTcRgWNZRKXZ4htVuz7dYix9cUlOSPC6Q=";
     };
-    name = "workflows4z";
     license = "";
-    publisher = "BroadcomMFD";
+    name = "workflows4z";
     description = "Manage workflows for IBM z/OSMF";
+    publisher = "BroadcomMFD";
   };
   CL-eide = {
     pname = "CL-eide";
@@ -392,10 +392,10 @@
       url = "https://open-vsx.org/api/CL/eide/3.7.1/file/CL.eide-3.7.1.vsix";
       sha256 = "sha256-t1Fg/TJt61vG3vkdq6L1sGZGRuaKDowpFsrtyeknE24=";
     };
-    name = "eide";
     license = "MIT";
-    publisher = "CL";
+    name = "eide";
     description = "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V";
+    publisher = "CL";
   };
   Carmen-philodendron-insider = {
     pname = "Carmen-philodendron-insider";
@@ -404,10 +404,10 @@
       url = "https://open-vsx.org/api/Carmen/philodendron-insider/7.0.65/file/Carmen.philodendron-insider-7.0.65.vsix";
       sha256 = "sha256-onWjk4IFp7xg77Zcarjj80UaVbe+G/S0TTn4NqjXxTs=";
     };
-    name = "philodendron-insider";
     license = "Apache-2.0";
-    publisher = "Carmen";
+    name = "philodendron-insider";
     description = "Test Playground";
+    publisher = "Carmen";
   };
   Catppuccin-catppuccin-vsc = {
     pname = "Catppuccin-catppuccin-vsc";
@@ -416,10 +416,10 @@
       url = "https://open-vsx.org/api/Catppuccin/catppuccin-vsc/1.0.6/file/Catppuccin.catppuccin-vsc-1.0.6.vsix";
       sha256 = "sha256-coLU/MCJL3hBAgAwrgBxuGkTfhZ2cnNwvZhKPo4bdC8=";
     };
-    name = "catppuccin-vsc";
     license = "MIT";
-    publisher = "Catppuccin";
+    name = "catppuccin-vsc";
     description = "Warm mid-tone dark theme to show off your vibrant self!";
+    publisher = "Catppuccin";
   };
   ChrisRu-vscode-nightsky = {
     pname = "ChrisRu-vscode-nightsky";
@@ -428,10 +428,10 @@
       url = "https://open-vsx.org/api/ChrisRu/vscode-nightsky/2.0.0/file/ChrisRu.vscode-nightsky-2.0.0.vsix";
       sha256 = "sha256-bqy4N4WqFOfjq/rab7+pQX+oY7KosWgdpmBfIbR9TUY=";
     };
-    name = "vscode-nightsky";
     license = "MIT";
-    publisher = "ChrisRu";
+    name = "vscode-nightsky";
     description = "Night Sky VSCode Theme";
+    publisher = "ChrisRu";
   };
   Chrismettal-behave-full-theme = {
     pname = "Chrismettal-behave-full-theme";
@@ -440,10 +440,10 @@
       url = "https://open-vsx.org/api/Chrismettal/behave-full-theme/1.1.1/file/Chrismettal.behave-full-theme-1.1.1.vsix";
       sha256 = "sha256-ErKDCnCQHf3prlckJ8UN1QLP/yTVbdLQd7z7USwIZo4=";
     };
-    name = "behave-full-theme";
     license = "MIT";
-    publisher = "Chrismettal";
+    name = "behave-full-theme";
     description = "Full port of the behave dark theme";
+    publisher = "Chrismettal";
   };
   CismonX-texinfo = {
     pname = "CismonX-texinfo";
@@ -452,10 +452,10 @@
       url = "https://open-vsx.org/api/CismonX/texinfo/0.2.4/file/CismonX.texinfo-0.2.4.vsix";
       sha256 = "sha256-D2gr5zIDexGPsOEPmwEvKlN4CeMWdF6Y4PK6y3XI0nY=";
     };
-    name = "texinfo";
     license = "GPL-3.0-or-later";
-    publisher = "CismonX";
+    name = "texinfo";
     description = "Texinfo language support for Visual Studio Code";
+    publisher = "CismonX";
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
@@ -464,10 +464,10 @@
       url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.9/file/CloudStudio-Team.metawork-0.0.9.vsix";
       sha256 = "sha256-GZEeMzKQJ1o1FTYfrjr18YqKHjb5OmXzI/yvUgYP23E=";
     };
-    name = "metawork";
     license = "MIT";
-    publisher = "CloudStudio-Team";
+    name = "metawork";
     description = "Cloud Studio \22810\20154\21327\20316\22871\20214\65292\35753\24320\21457\26356\39640\25928\65281Cloud Studio MetaWork makes development more effective.";
+    publisher = "CloudStudio-Team";
   };
   CocaineJohnsson-nihil = {
     pname = "CocaineJohnsson-nihil";
@@ -476,10 +476,10 @@
       url = "https://open-vsx.org/api/CocaineJohnsson/nihil/1.0.2/file/CocaineJohnsson.nihil-1.0.2.vsix";
       sha256 = "sha256-CyzsWUYFX2IUfEfO5HOkAXUtHETqAMh6bAYYb3Q97hs=";
     };
-    name = "nihil";
     license = "MIT";
-    publisher = "CocaineJohnsson";
+    name = "nihil";
     description = "A balanced and neutral dark colour scheme with good contrast, designed for long hours of coding";
+    publisher = "CocaineJohnsson";
   };
   CodeBiscuits-assorted-biscuits = {
     pname = "CodeBiscuits-assorted-biscuits";
@@ -488,10 +488,10 @@
       url = "https://open-vsx.org/api/CodeBiscuits/assorted-biscuits/0.0.21/file/CodeBiscuits.assorted-biscuits-0.0.21.vsix";
       sha256 = "sha256-bxEEmbwdnRG5BP5KZohi+h3JEkYpVeG3u0TedmS6R+I=";
     };
-    name = "assorted-biscuits";
     license = "MIT";
-    publisher = "CodeBiscuits";
+    name = "assorted-biscuits";
     description = "Add annotations, hereafter unto for known as \"Biscuits\", to the end of the line of closing brackets (and more). These could be functions, if statements, etc. Make code soup digestible!";
+    publisher = "CodeBiscuits";
   };
   CodeBiscuits-css-biscuits = {
     pname = "CodeBiscuits-css-biscuits";
@@ -500,10 +500,10 @@
       url = "https://open-vsx.org/api/CodeBiscuits/css-biscuits/0.0.3/file/CodeBiscuits.css-biscuits-0.0.3.vsix";
       sha256 = "sha256-kCobg1dDu01M/Hd19qc805+etpJdLu1Lh8nF6MfJswE=";
     };
-    name = "css-biscuits";
     license = "MIT";
-    publisher = "CodeBiscuits";
+    name = "css-biscuits";
     description = "Add annotations, hereso unto for known as \"Biscuits\", to the end of the line of closing brackets. Such Biscuits the start of selector blocks. Make css soup digestible!";
+    publisher = "CodeBiscuits";
   };
   CodeBiscuits-html-biscuits = {
     pname = "CodeBiscuits-html-biscuits";
@@ -512,10 +512,10 @@
       url = "https://open-vsx.org/api/CodeBiscuits/html-biscuits/0.0.12/file/CodeBiscuits.html-biscuits-0.0.12.vsix";
       sha256 = "sha256-a9MfypqtvfyMe5VKu4VYARy/2fP6yoF8RTLGe2QFgOw=";
     };
-    name = "html-biscuits";
     license = "MIT";
-    publisher = "CodeBiscuits";
+    name = "html-biscuits";
     description = "Add annotations, hereso unto for known as \"Biscuits\", to the end of the line of closing html tags. Such Biscuits could include ids and/or class names. Make div soup digestible!";
+    publisher = "CodeBiscuits";
   };
   CodeBiscuits-js-ts-biscuits = {
     pname = "CodeBiscuits-js-ts-biscuits";
@@ -524,10 +524,10 @@
       url = "https://open-vsx.org/api/CodeBiscuits/js-ts-biscuits/0.0.14/file/CodeBiscuits.js-ts-biscuits-0.0.14.vsix";
       sha256 = "sha256-RRXZtagsmdCXjd6dr5FHEdsIy72xD4x+v5qRp4aEde0=";
     };
-    name = "js-ts-biscuits";
     license = "MIT";
-    publisher = "CodeBiscuits";
+    name = "js-ts-biscuits";
     description = "Add annotations, hereso unto for known as \\\"Biscuits\\\", to the end of the line of closing brackets and parentheses. Such Biscuits could include function/object names or even types. Make callback soup digestible!";
+    publisher = "CodeBiscuits";
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
@@ -536,10 +536,10 @@
       url = "https://open-vsx.org/api/CodeStream/codestream/13.0.0/file/CodeStream.codestream-13.0.0.vsix";
       sha256 = "sha256-i9if1VJXO1RkS87+J81MqoI/z3bz8hUaXJ4yI37e9EI=";
     };
-    name = "codestream";
     license = "UNLICENSED";
-    publisher = "CodeStream";
+    name = "codestream";
     description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.";
+    publisher = "CodeStream";
   };
   CodeStream-github-enterprise = {
     pname = "CodeStream-github-enterprise";
@@ -548,10 +548,10 @@
       url = "https://open-vsx.org/api/CodeStream/github-enterprise/11.0.11/file/CodeStream.github-enterprise-11.0.11.vsix";
       sha256 = "sha256-A4FwGGJNF4PDJJyaHRSL8maKqmuYkgOqwuNrHQj2z3A=";
     };
-    name = "github-enterprise";
     license = "UNLICENSED";
-    publisher = "CodeStream";
+    name = "github-enterprise";
     description = "GitHub pull requests and issues in your IDE. Eliminate context-switching between tools. Also integrates with Slack, MS Teams, Jira, Trello and more.";
+    publisher = "CodeStream";
   };
   CoenraadS-bracket-pair-colorizer = {
     pname = "CoenraadS-bracket-pair-colorizer";
@@ -560,10 +560,10 @@
       url = "https://open-vsx.org/api/CoenraadS/bracket-pair-colorizer/1.0.62/file/CoenraadS.bracket-pair-colorizer-1.0.62.vsix";
       sha256 = "sha256-od0o6a2WZUTrqvusdFb6gIIZyE4P+D5mIUoNup0nur0=";
     };
-    name = "bracket-pair-colorizer";
     license = "MIT";
-    publisher = "CoenraadS";
+    name = "bracket-pair-colorizer";
     description = "A customizable extension for colorizing matching brackets";
+    publisher = "CoenraadS";
   };
   CoenraadS-bracket-pair-colorizer-2 = {
     pname = "CoenraadS-bracket-pair-colorizer-2";
@@ -572,10 +572,10 @@
       url = "https://open-vsx.org/api/CoenraadS/bracket-pair-colorizer-2/0.1.4/file/CoenraadS.bracket-pair-colorizer-2-0.1.4.vsix";
       sha256 = "sha256-NsxiPw689RTwfwcCoxflDancEeh0Ih/p45PGS2qm6Ck=";
     };
-    name = "bracket-pair-colorizer-2";
     license = "MIT";
-    publisher = "CoenraadS";
+    name = "bracket-pair-colorizer-2";
     description = "A customizable extension for colorizing matching brackets";
+    publisher = "CoenraadS";
   };
   ComplYue-edh-vscode-formatter = {
     pname = "ComplYue-edh-vscode-formatter";
@@ -584,10 +584,10 @@
       url = "https://open-vsx.org/api/ComplYue/edh-vscode-formatter/1.8.2/file/ComplYue.edh-vscode-formatter-1.8.2.vsix";
       sha256 = "sha256-0F43DMf4x+hBGH5a74nq/Ntcs+Ukfphr3wYTI5R6Aps=";
     };
-    name = "edh-vscode-formatter";
     license = "MIT";
-    publisher = "ComplYue";
+    name = "edh-vscode-formatter";
     description = "Code Formatter for \272 (Edh)";
+    publisher = "ComplYue";
   };
   ComplYue-edh-vscode-lsc = {
     pname = "ComplYue-edh-vscode-lsc";
@@ -596,10 +596,10 @@
       url = "https://open-vsx.org/api/ComplYue/edh-vscode-lsc/1.2.0/file/ComplYue.edh-vscode-lsc-1.2.0.vsix";
       sha256 = "sha256-UC0gV8gAm94jOrHwdJC4VoMZ0OL0Suf+aWWWK8farOI=";
     };
-    name = "edh-vscode-lsc";
     license = "MIT";
-    publisher = "ComplYue";
+    name = "edh-vscode-lsc";
     description = "LSP client extension to hook up \272 (Edh) language server for VSCode";
+    publisher = "ComplYue";
   };
   ComplYue-edh-vscode-pack = {
     pname = "ComplYue-edh-vscode-pack";
@@ -608,10 +608,10 @@
       url = "https://open-vsx.org/api/ComplYue/edh-vscode-pack/1.1.0/file/ComplYue.edh-vscode-pack-1.1.0.vsix";
       sha256 = "sha256-UisvMIQz/TWE4C6sWBuCP6GPyxTa0t4/8d+1SYjDbps=";
     };
-    name = "edh-vscode-pack";
     license = "MIT";
-    publisher = "ComplYue";
+    name = "edh-vscode-pack";
     description = "Language Support for \272 (Edh)";
+    publisher = "ComplYue";
   };
   ComplYue-edh-vscode-syntax = {
     pname = "ComplYue-edh-vscode-syntax";
@@ -620,10 +620,10 @@
       url = "https://open-vsx.org/api/ComplYue/edh-vscode-syntax/3.10.0/file/ComplYue.edh-vscode-syntax-3.10.0.vsix";
       sha256 = "sha256-0XKqqrOPXIAT+/p3YmXa4Ss01/YxCT1xSxp1q7ReR6U=";
     };
-    name = "edh-vscode-syntax";
     license = "MIT";
-    publisher = "ComplYue";
+    name = "edh-vscode-syntax";
     description = "Syntax Highlighting (w/ theme bundled) & Basic Snippets for \272 (Edh)";
+    publisher = "ComplYue";
   };
   ComplYue-haskit-vscode = {
     pname = "ComplYue-haskit-vscode";
@@ -632,10 +632,10 @@
       url = "https://open-vsx.org/api/ComplYue/haskit-vscode/0.8.3/file/ComplYue.haskit-vscode-0.8.3.vsix";
       sha256 = "sha256-ryqPu4+UZjhab8UnAAvARQ0O/iHx3M6GfPkAt8LfaKU=";
     };
-    name = "haskit-vscode";
     license = "MIT";
-    publisher = "ComplYue";
+    name = "haskit-vscode";
     description = "Get Quality from Haskell, Get Bullshit Done Quickly with \272 (Edh)";
+    publisher = "ComplYue";
   };
   ComplYue-vscode-ghci = {
     pname = "ComplYue-vscode-ghci";
@@ -644,10 +644,10 @@
       url = "https://open-vsx.org/api/ComplYue/vscode-ghci/0.3.0/file/ComplYue.vscode-ghci-0.3.0.vsix";
       sha256 = "sha256-MBn+oytjAmv7Q0rUruPihZK3mKKtegMb6NmNJlT6ag8=";
     };
-    name = "vscode-ghci";
     license = "MIT";
-    publisher = "ComplYue";
+    name = "vscode-ghci";
     description = "Support CodeLens to run in GHCi as integrated terminal sessions";
+    publisher = "ComplYue";
   };
   DAXaholic-vscode-edifact = {
     pname = "DAXaholic-vscode-edifact";
@@ -656,10 +656,10 @@
       url = "https://open-vsx.org/api/DAXaholic/vscode-edifact/0.8.0/file/DAXaholic.vscode-edifact-0.8.0.vsix";
       sha256 = "sha256-XqQBj4XNGUa/N4t1zdLYYuoKUTdNbVNPkNeKQLsWwYA=";
     };
-    name = "vscode-edifact";
     license = "MIT";
-    publisher = "DAXaholic";
+    name = "vscode-edifact";
     description = "Basic language support for EDIFACT files";
+    publisher = "DAXaholic";
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
@@ -668,10 +668,10 @@
       url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.3.0/file/DCsunset.vscode-modal-editor-1.3.0.vsix";
       sha256 = "sha256-D4eTMSpn3AwO22YpKYEU3kDgVh2C4HDmbr+rWXeC27w=";
     };
-    name = "vscode-modal-editor";
     license = "AGPL-3.0";
-    publisher = "DCsunset";
+    name = "vscode-modal-editor";
     description = "Customizable extension to turn VS Code into a modal editor";
+    publisher = "DCsunset";
   };
   Daimler-sechub = {
     pname = "Daimler-sechub";
@@ -680,10 +680,10 @@
       url = "https://open-vsx.org/api/Daimler/sechub/0.1.1/file/Daimler.sechub-0.1.1.vsix";
       sha256 = "sha256-nXOIVDOxG9MMGMiwtt97yemNyRy249jB2N6poMkAcbg=";
     };
-    name = "sechub";
     license = "MIT";
-    publisher = "Daimler";
+    name = "sechub";
     description = "SecHub plugin for VSCode/VSCodium";
+    publisher = "Daimler";
   };
   DaltonMenezes-aura-theme = {
     pname = "DaltonMenezes-aura-theme";
@@ -692,10 +692,10 @@
       url = "https://open-vsx.org/api/DaltonMenezes/aura-theme/2.1.2/file/DaltonMenezes.aura-theme-2.1.2.vsix";
       sha256 = "sha256-sgOx4DN69JsiL8+14KDyicj7u9tfpGHofeX4nraq6ZE=";
     };
-    name = "aura-theme";
     license = "MIT";
-    publisher = "DaltonMenezes";
+    name = "aura-theme";
     description = "A beautiful dark theme for Visual Studio Code";
+    publisher = "DaltonMenezes";
   };
   DalySoftware-unicodepalette = {
     pname = "DalySoftware-unicodepalette";
@@ -704,10 +704,10 @@
       url = "https://open-vsx.org/api/DalySoftware/unicodepalette/1.0.4/file/DalySoftware.unicodepalette-1.0.4.vsix";
       sha256 = "sha256-+y4/pWXdbDd1YMMMV9ENpl+p/b29yfIHIeU1vT9S0nw=";
     };
-    name = "unicodepalette";
     license = "MIT";
-    publisher = "DalySoftware";
+    name = "unicodepalette";
     description = "Find and insert unicode characters in VS Code. Useful for symbols, emoji and other characters that you might not have on your keyboard.";
+    publisher = "DalySoftware";
   };
   DamienHubleur-cppclassgenerator = {
     pname = "DamienHubleur-cppclassgenerator";
@@ -716,10 +716,10 @@
       url = "https://open-vsx.org/api/DamienHubleur/cppclassgenerator/1.1.1/file/DamienHubleur.cppclassgenerator-1.1.1.vsix";
       sha256 = "sha256-uVMVouDhoOBoRtycuS34jKxM7ivwsNa1+AnPONEebYk=";
     };
-    name = "cppclassgenerator";
     license = "MIT";
-    publisher = "DamienHubleur";
+    name = "cppclassgenerator";
     description = "Automatic generation of C++ classes in orthodox canonical form for 42's projects";
+    publisher = "DamienHubleur";
   };
   Darkempire78-discord-tools = {
     pname = "Darkempire78-discord-tools";
@@ -728,10 +728,10 @@
       url = "https://open-vsx.org/api/Darkempire78/discord-tools/1.4.2/file/Darkempire78.discord-tools-1.4.2.vsix";
       sha256 = "sha256-SNMwol8HiVVKai6yG1/Fn45dz2s4v1CTxCMn82tqF1E=";
     };
-    name = "discord-tools";
     license = "GPL-3.0 License";
-    publisher = "Darkempire78";
+    name = "discord-tools";
     description = "Discord chat, bot template, snippets, theme and more!";
+    publisher = "Darkempire78";
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
@@ -740,10 +740,10 @@
       url = "https://open-vsx.org/api/Dart-Code/dart-code/3.42.1/file/Dart-Code.dart-code-3.42.1.vsix";
       sha256 = "sha256-nfHgV6147qSfJjraWAtcJZcVDnO9MWOhWz3G3HJXeFQ=";
     };
-    name = "dart-code";
     license = "MIT";
-    publisher = "Dart-Code";
+    name = "dart-code";
     description = "Dart language support and debugger for Visual Studio Code.";
+    publisher = "Dart-Code";
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
@@ -752,10 +752,10 @@
       url = "https://open-vsx.org/api/Dart-Code/flutter/3.42.0/file/Dart-Code.flutter-3.42.0.vsix";
       sha256 = "sha256-5bdvtxBg0J0Bjrb3j0syeP8ADywt3mw0030aOS5tUVk=";
     };
-    name = "flutter";
     license = "MIT";
-    publisher = "Dart-Code";
+    name = "flutter";
     description = "Flutter support and debugger for Visual Studio Code.";
+    publisher = "Dart-Code";
   };
   DavidAnson-vscode-markdownlint = {
     pname = "DavidAnson-vscode-markdownlint";
@@ -764,10 +764,10 @@
       url = "https://open-vsx.org/api/DavidAnson/vscode-markdownlint/0.47.0/file/DavidAnson.vscode-markdownlint-0.47.0.vsix";
       sha256 = "sha256-HVXer6Gu3MaDd7UaVJ3TEGaoFQEfiif8SaK/03+aq9U=";
     };
-    name = "vscode-markdownlint";
     license = "MIT";
-    publisher = "DavidAnson";
+    name = "vscode-markdownlint";
     description = "Markdown linting and style checking for Visual Studio Code";
+    publisher = "DavidAnson";
   };
   DigitalBrainstem-javascript-ejs-support = {
     pname = "DigitalBrainstem-javascript-ejs-support";
@@ -776,10 +776,10 @@
       url = "https://open-vsx.org/api/DigitalBrainstem/javascript-ejs-support/1.3.1/file/DigitalBrainstem.javascript-ejs-support-1.3.1.vsix";
       sha256 = "sha256-pxwB4BtiMGjWizycNC5KTu4QbRYR7rdgbY28hOqZyO4=";
     };
-    name = "javascript-ejs-support";
     license = "MIT";
-    publisher = "DigitalBrainstem";
+    name = "javascript-ejs-support";
     description = "2019 - EJS language support for Visual Studio Code.";
+    publisher = "DigitalBrainstem";
   };
   Divlo-vscode-styled-jsx-languageserver = {
     pname = "Divlo-vscode-styled-jsx-languageserver";
@@ -788,10 +788,10 @@
       url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-languageserver/1.3.1/file/Divlo.vscode-styled-jsx-languageserver-1.3.1.vsix";
       sha256 = "sha256-lCkgsJ5xJtDZLo3qvXKb3UjtXRjNkQnsp50ozGuAz44=";
     };
-    name = "vscode-styled-jsx-languageserver";
     license = "MIT";
-    publisher = "Divlo";
+    name = "vscode-styled-jsx-languageserver";
     description = "Language server for styled-jsx";
+    publisher = "Divlo";
   };
   Divlo-vscode-styled-jsx-syntax = {
     pname = "Divlo-vscode-styled-jsx-syntax";
@@ -800,10 +800,10 @@
       url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.1/file/Divlo.vscode-styled-jsx-syntax-1.3.1.vsix";
       sha256 = "sha256-+tS2MNLUkz3cDzT7COA1Ia9MB/NOJv6dH1Llw8mrIX8=";
     };
-    name = "vscode-styled-jsx-syntax";
     license = "MIT";
-    publisher = "Divlo";
+    name = "vscode-styled-jsx-syntax";
     description = "Syntax highlighting for styled-jsx";
+    publisher = "Divlo";
   };
   Dizy-lex-flex-yacc-bison = {
     pname = "Dizy-lex-flex-yacc-bison";
@@ -812,10 +812,10 @@
       url = "https://open-vsx.org/api/Dizy/lex-flex-yacc-bison/0.0.2/file/Dizy.lex-flex-yacc-bison-0.0.2.vsix";
       sha256 = "sha256-naLidmKhrsNv2wVfVffXDeShEI27EdjkWXq1euLgkMo=";
     };
-    name = "lex-flex-yacc-bison";
     license = "MIT";
-    publisher = "Dizy";
+    name = "lex-flex-yacc-bison";
     description = "Language support for Lex, Flex, Yacc and Bison.";
+    publisher = "Dizy";
   };
   DominicVonk-parameter-hints = {
     pname = "DominicVonk-parameter-hints";
@@ -824,10 +824,10 @@
       url = "https://open-vsx.org/api/DominicVonk/parameter-hints/0.2.7/file/DominicVonk.parameter-hints-0.2.7.vsix";
       sha256 = "sha256-puNiom1SaZW3sEYkL7IFtNdNNxUps8AkEmzuDbTXLV0=";
     };
-    name = "parameter-hints";
     license = "MIT";
-    publisher = "DominicVonk";
+    name = "parameter-hints";
     description = "Automatic parameter hints";
+    publisher = "DominicVonk";
   };
   DontShaveTheYak-groovy-guru = {
     pname = "DontShaveTheYak-groovy-guru";
@@ -836,10 +836,10 @@
       url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.5.0/file/DontShaveTheYak.groovy-guru-0.5.0.vsix";
       sha256 = "sha256-e6fkdiz+1velQbJFQxAwbHwTYvd92g5+vxx4NVbA0iM=";
     };
-    name = "groovy-guru";
     license = "Apache-2.0";
-    publisher = "DontShaveTheYak";
+    name = "groovy-guru";
     description = "Groovy Intellisense for Visual Studio Code";
+    publisher = "DontShaveTheYak";
   };
   DotJoshJohnson-xml = {
     pname = "DotJoshJohnson-xml";
@@ -848,10 +848,10 @@
       url = "https://open-vsx.org/api/DotJoshJohnson/xml/2.5.1/file/DotJoshJohnson.xml-2.5.1.vsix";
       sha256 = "sha256-4F6+Y0g0XUeZzKOtOFjZNF605k99ZOknYiRwKd3DTMo=";
     };
-    name = "xml";
     license = "MIT";
-    publisher = "DotJoshJohnson";
+    name = "xml";
     description = "XML Formatting, XQuery, and XPath Tools for Visual Studio Code";
+    publisher = "DotJoshJohnson";
   };
   DrMerfy-overtype = {
     pname = "DrMerfy-overtype";
@@ -860,10 +860,10 @@
       url = "https://open-vsx.org/api/DrMerfy/overtype/0.4.6/file/DrMerfy.overtype-0.4.6.vsix";
       sha256 = "sha256-nS5IHJNyqWCF6mSBbbl7YXoBPRrqMu0ZK1E7YDCmt1A=";
     };
-    name = "overtype";
     license = "BSD-2-Clause";
-    publisher = "DrMerfy";
+    name = "overtype";
     description = "Provides insert/overtype mode.";
+    publisher = "DrMerfy";
   };
   Durzn-brackethighlighter = {
     pname = "Durzn-brackethighlighter";
@@ -872,10 +872,10 @@
       url = "https://open-vsx.org/api/Durzn/brackethighlighter/2.2.4/file/Durzn.brackethighlighter-2.2.4.vsix";
       sha256 = "sha256-+OlgIRiiUWe6AO9iv7JoNpn5/ON90os6iiPQH0s6/Xw=";
     };
-    name = "brackethighlighter";
     license = "MIT";
-    publisher = "Durzn";
+    name = "brackethighlighter";
     description = "Decorates text inbetween symbols.";
+    publisher = "Durzn";
   };
   EclipseSource-tutorialmaker = {
     pname = "EclipseSource-tutorialmaker";
@@ -884,10 +884,10 @@
       url = "https://open-vsx.org/api/EclipseSource/tutorialmaker/0.0.5/file/EclipseSource.tutorialmaker-0.0.5.vsix";
       sha256 = "sha256-xz6X64Ngcqom+lAYPUEOKnCGbK0ZPmz4EiGTBD+QvWw=";
     };
-    name = "tutorialmaker";
     license = "EPL-2.0";
-    publisher = "EclipseSource";
+    name = "tutorialmaker";
     description = "Tutorial Maker is a VSCode-Extension to display and create developer tutorials";
+    publisher = "EclipseSource";
   };
   EdgardMessias-override-mark = {
     pname = "EdgardMessias-override-mark";
@@ -896,10 +896,10 @@
       url = "https://open-vsx.org/api/EdgardMessias/override-mark/1.3.0/file/EdgardMessias.override-mark-1.3.0.vsix";
       sha256 = "sha256-+IJdHIUo1Eix4VL+K3xE+B9GJgr5LvGAKZEQ9vat0LM=";
     };
-    name = "override-mark";
     license = "MIT";
-    publisher = "EdgardMessias";
+    name = "override-mark";
     description = "Show a gutter icon when has a implement/override method/property in javascript or typescript.";
+    publisher = "EdgardMessias";
   };
   EdgardMessias-php-noverify = {
     pname = "EdgardMessias-php-noverify";
@@ -908,10 +908,10 @@
       url = "https://open-vsx.org/api/EdgardMessias/php-noverify/0.2.0/file/EdgardMessias.php-noverify-0.2.0.vsix";
       sha256 = "sha256-XKSQf14haP1+O9naJ2k/XJ6UNwto9FcSCOnuMzYhiog=";
     };
-    name = "php-noverify";
     license = "MIT";
-    publisher = "EdgardMessias";
+    name = "php-noverify";
     description = "NoVerify is a PHP linter: it finds possible bugs and style violations in your code.";
+    publisher = "EdgardMessias";
   };
   EditorConfig-EditorConfig = {
     pname = "EditorConfig-EditorConfig";
@@ -920,10 +920,10 @@
       url = "https://open-vsx.org/api/EditorConfig/EditorConfig/0.16.6/file/EditorConfig.EditorConfig-0.16.6.vsix";
       sha256 = "sha256-rBP3YxT0eAzP6UW7spTbHjgM5EJbmpLGH4hVJxMXz9o=";
     };
-    name = "EditorConfig";
     license = "MIT";
-    publisher = "EditorConfig";
+    name = "EditorConfig";
     description = "EditorConfig Support for Visual Studio Code";
+    publisher = "EditorConfig";
   };
   Elmtooling-elm-ls-vscode = {
     pname = "Elmtooling-elm-ls-vscode";
@@ -932,10 +932,10 @@
       url = "https://open-vsx.org/api/Elmtooling/elm-ls-vscode/2.4.1/file/Elmtooling.elm-ls-vscode-2.4.1.vsix";
       sha256 = "sha256-x6OTH+r8wX2WmCG0o8NL93c2hZ/LucftBCnCtqqP/RA=";
     };
-    name = "elm-ls-vscode";
     license = "MIT";
-    publisher = "Elmtooling";
+    name = "elm-ls-vscode";
     description = "Improving your Elm experience since 2019";
+    publisher = "Elmtooling";
   };
   Endormi-2077-theme = {
     pname = "Endormi-2077-theme";
@@ -944,10 +944,10 @@
       url = "https://open-vsx.org/api/Endormi/2077-theme/1.5.3/file/Endormi.2077-theme-1.5.3.vsix";
       sha256 = "sha256-dQKaiVILIAOiSfGmcXRQnjimrBPzzQmOYG/a1anh8Z0=";
     };
-    name = "2077-theme";
     license = "MIT";
-    publisher = "Endormi";
+    name = "2077-theme";
     description = "Cyberpunk 2077 inspired theme";
+    publisher = "Endormi";
   };
   Equinusocio-vsc-community-material-theme = {
     pname = "Equinusocio-vsc-community-material-theme";
@@ -956,10 +956,10 @@
       url = "https://open-vsx.org/api/Equinusocio/vsc-community-material-theme/1.4.4/file/Equinusocio.vsc-community-material-theme-1.4.4.vsix";
       sha256 = "sha256-eDXNdZ4XqjNv8ig9DoOR8ZhFkT8tOJvdWTcICyY88Z0=";
     };
-    name = "vsc-community-material-theme";
     license = "Apache-2.0";
-    publisher = "Equinusocio";
+    name = "vsc-community-material-theme";
     description = "The official community maintained Material Theme with 'legacy' color schemes you love!";
+    publisher = "Equinusocio";
   };
   Equinusocio-vsc-material-theme = {
     pname = "Equinusocio-vsc-material-theme";
@@ -968,10 +968,10 @@
       url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.4.0/file/Equinusocio.vsc-material-theme-33.4.0.vsix";
       sha256 = "sha256-byF1iY4+PNxx/BIKK/fWcV6ODYe/lmRIMKUXRmnbKDI=";
     };
-    name = "vsc-material-theme";
     license = "Apache-2.0";
-    publisher = "Equinusocio";
+    name = "vsc-material-theme";
     description = "The most epic theme now for Visual Studio Code";
+    publisher = "Equinusocio";
   };
   Equinusocio-vsc-material-theme-icons = {
     pname = "Equinusocio-vsc-material-theme-icons";
@@ -980,10 +980,10 @@
       url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme-icons/2.3.1/file/Equinusocio.vsc-material-theme-icons-2.3.1.vsix";
       sha256 = "sha256-MHMNeLjyIrKaduxDrG+fBtrPyBpX1MthM2dtkYz3MG8=";
     };
-    name = "vsc-material-theme-icons";
     license = "Apache-2.0";
-    publisher = "Equinusocio";
+    name = "vsc-material-theme-icons";
     description = "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.";
+    publisher = "Equinusocio";
   };
   Evidence-evidence-vscode = {
     pname = "Evidence-evidence-vscode";
@@ -992,10 +992,10 @@
       url = "https://open-vsx.org/api/Evidence/evidence-vscode/0.0.6/file/Evidence.evidence-vscode-0.0.6.vsix";
       sha256 = "sha256-tJ+KLxzhWFfleIL63oaVj2MEQz/BuNLE6aqhbPQIPOw=";
     };
-    name = "evidence-vscode";
     license = "MIT";
-    publisher = "Evidence";
+    name = "evidence-vscode";
     description = "Evidence language support for VS Code";
+    publisher = "Evidence";
   };
   ExodiusStudios-comment-anchors = {
     pname = "ExodiusStudios-comment-anchors";
@@ -1004,10 +1004,10 @@
       url = "https://open-vsx.org/api/ExodiusStudios/comment-anchors/1.9.6/file/ExodiusStudios.comment-anchors-1.9.6.vsix";
       sha256 = "sha256-p7WdUiw5NADHUEbdp0paH3h1NXtqXsS3zKqbwIok1ZQ=";
     };
-    name = "comment-anchors";
     license = "MIT";
-    publisher = "ExodiusStudios";
+    name = "comment-anchors";
     description = "Place anchor tags within comments for easy file & workspace navigation.";
+    publisher = "ExodiusStudios";
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
@@ -1016,10 +1016,10 @@
       url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.1/file/F5DevCentral.vscode-f5-3.7.1.vsix";
       sha256 = "sha256-1odR9V3VN1a3dxwzysp/co5TI+4mIBHXQK5j/GTT75Q=";
     };
-    name = "vscode-f5";
     license = "Apache-2.0";
-    publisher = "F5DevCentral";
+    name = "vscode-f5";
     description = "Supercharge your F5 automation development";
+    publisher = "F5DevCentral";
   };
   F5DevCentral-vscode-f5-chariot = {
     pname = "F5DevCentral-vscode-f5-chariot";
@@ -1028,10 +1028,10 @@
       url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.2/file/F5DevCentral.vscode-f5-chariot-1.19.2.vsix";
       sha256 = "sha256-gqr7Riwv4d0gL18hHwn9x0EV2VacLMFfDDKb2ps7Yrw=";
     };
-    name = "vscode-f5-chariot";
     license = "Apache-2.0";
-    publisher = "F5DevCentral";
+    name = "vscode-f5-chariot";
     description = "(ACC) AS3 Configuration Converter integration";
+    publisher = "F5DevCentral";
   };
   FelixAngelov-bloc = {
     pname = "FelixAngelov-bloc";
@@ -1040,10 +1040,10 @@
       url = "https://open-vsx.org/api/FelixAngelov/bloc/6.6.0/file/FelixAngelov.bloc-6.6.0.vsix";
       sha256 = "sha256-1aTPitrCQSYatJ3k6amfWsBG5laM3f8hhcrZgxuxP/c=";
     };
-    name = "bloc";
     license = "MIT";
-    publisher = "FelixAngelov";
+    name = "bloc";
     description = "Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.";
+    publisher = "FelixAngelov";
   };
   FelixAngelov-mason = {
     pname = "FelixAngelov-mason";
@@ -1052,10 +1052,10 @@
       url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.1/file/FelixAngelov.mason-0.1.1.vsix";
       sha256 = "sha256-nDMlOUg1D1lKu09rcmNflNQwIPYJllfWy94yeFfWhEA=";
     };
-    name = "mason";
     license = "MIT";
-    publisher = "FelixAngelov";
+    name = "mason";
     description = "Mason support for Visual Studio Code.";
+    publisher = "FelixAngelov";
   };
   FelixIcaza-andromeda = {
     pname = "FelixIcaza-andromeda";
@@ -1064,10 +1064,10 @@
       url = "https://open-vsx.org/api/FelixIcaza/andromeda/1.7.1/file/FelixIcaza.andromeda-1.7.1.vsix";
       sha256 = "sha256-RhLZMfLPRms9MEGnfeP4U7c73oETV7rLw8WxNmX/5pw=";
     };
-    name = "andromeda";
     license = "MIT";
-    publisher = "FelixIcaza";
+    name = "andromeda";
     description = "Dark theme with a taste of the universe";
+    publisher = "FelixIcaza";
   };
   FlyIoStaging-fly-extension = {
     pname = "FlyIoStaging-fly-extension";
@@ -1076,10 +1076,10 @@
       url = "https://open-vsx.org/api/FlyIoStaging/fly-extension/0.0.2/file/FlyIoStaging.fly-extension-0.0.2.vsix";
       sha256 = "sha256-1c0Z47/eBWoWJ+1CXZSqd22+5qL8ngmBFV7eoo5f2XQ=";
     };
-    name = "fly-extension";
     license = "MIT";
-    publisher = "FlyIoStaging";
+    name = "fly-extension";
     description = "";
+    publisher = "FlyIoStaging";
   };
   Fr43nk-seito-openfile = {
     pname = "Fr43nk-seito-openfile";
@@ -1088,10 +1088,10 @@
       url = "https://open-vsx.org/api/Fr43nk/seito-openfile/1.8.8/file/Fr43nk.seito-openfile-1.8.8.vsix";
       sha256 = "sha256-gXe3zVToph0gtcaDOfKt6YFYYbA5cq5sJLGY/i+rNXw=";
     };
-    name = "seito-openfile";
     license = "MIT";
-    publisher = "Fr43nk";
+    name = "seito-openfile";
     description = "Extract a filepath from the current cursor position and open the file";
+    publisher = "Fr43nk";
   };
   FreeFlyingSheep-loongarch-assembly = {
     pname = "FreeFlyingSheep-loongarch-assembly";
@@ -1100,10 +1100,10 @@
       url = "https://open-vsx.org/api/FreeFlyingSheep/loongarch-assembly/1.1.4/file/FreeFlyingSheep.loongarch-assembly-1.1.4.vsix";
       sha256 = "sha256-NIevVO/4ZRKB46a78tTLZY9qjSPABFmPTAXkNFvR8tY=";
     };
-    name = "loongarch-assembly";
     license = "MIT";
-    publisher = "FreeFlyingSheep";
+    name = "loongarch-assembly";
     description = "Provides language support for LoongArch assembly language.";
+    publisher = "FreeFlyingSheep";
   };
   Fushra-meml = {
     pname = "Fushra-meml";
@@ -1112,10 +1112,10 @@
       url = "https://open-vsx.org/api/Fushra/meml/0.0.1/file/Fushra.meml-0.0.1.vsix";
       sha256 = "sha256-V1VieJnBfWzfCKXpw9RKzwZmj69sQnIf9v0BRJtEAUw=";
     };
-    name = "meml";
     license = "GPL-3.0";
-    publisher = "Fushra";
+    name = "meml";
     description = "MEML support for VSCode";
+    publisher = "Fushra";
   };
   GNVageesh-codel = {
     pname = "GNVageesh-codel";
@@ -1124,10 +1124,10 @@
       url = "https://open-vsx.org/api/GNVageesh/codel/1.1.1/file/GNVageesh.codel-1.1.1.vsix";
       sha256 = "sha256-pjiUO6VUy5Ral6Qgsc5PwxgogISIbleMX6FnYa2V4Vs=";
     };
-    name = "codel";
     license = "MIT";
-    publisher = "GNVageesh";
+    name = "codel";
     description = "A Theme For A Coded Life";
+    publisher = "GNVageesh";
   };
   GabrielBB-vscode-lombok = {
     pname = "GabrielBB-vscode-lombok";
@@ -1136,10 +1136,10 @@
       url = "https://open-vsx.org/api/GabrielBB/vscode-lombok/1.0.1/file/GabrielBB.vscode-lombok-1.0.1.vsix";
       sha256 = "sha256-J2ktLx5rJK5QH5k6mTmD0Ia2NKoutq17E+1X9MpCvLM=";
     };
-    name = "vscode-lombok";
     license = "MIT";
-    publisher = "GabrielBB";
+    name = "vscode-lombok";
     description = "A lightweight extension to support Lombok annotations processing in Visual Studio Code";
+    publisher = "GabrielBB";
   };
   GabrielNordeborn-vscode-rescript-relay = {
     pname = "GabrielNordeborn-vscode-rescript-relay";
@@ -1148,10 +1148,10 @@
       url = "https://open-vsx.org/api/GabrielNordeborn/vscode-rescript-relay/0.10.0/file/GabrielNordeborn.vscode-rescript-relay-0.10.0.vsix";
       sha256 = "sha256-ZNkD5C1DEdIiGXgivHf7IucRxNhpWkCSRSRPGnsi6tA=";
     };
-    name = "vscode-rescript-relay";
     license = "MIT";
-    publisher = "GabrielNordeborn";
+    name = "vscode-rescript-relay";
     description = "Improve quality-of-life of using RescriptRelay with VSCode.";
+    publisher = "GabrielNordeborn";
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
@@ -1160,10 +1160,10 @@
       url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.0.0/file/GitHub.github-vscode-theme-6.0.0.vsix";
       sha256 = "sha256-GZ29Y3mY6OZl+RSKxjUF69nmYpxn3umykyfwIv2d/gM=";
     };
-    name = "github-vscode-theme";
     license = "MIT";
-    publisher = "GitHub";
+    name = "github-vscode-theme";
     description = "GitHub theme for VS Code";
+    publisher = "GitHub";
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
@@ -1172,10 +1172,10 @@
       url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.6/file/GitHub.vscode-codeql-1.6.6.vsix";
       sha256 = "sha256-gHZQv33IK6Sz5CTe9kdnLvmcAtanCZHn8qQo2GNrfmI=";
     };
-    name = "vscode-codeql";
     license = "MIT";
-    publisher = "GitHub";
+    name = "vscode-codeql";
     description = "CodeQL for Visual Studio Code";
+    publisher = "GitHub";
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
@@ -1184,10 +1184,10 @@
       url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.42.0/file/GitHub.vscode-pull-request-github-0.42.0.vsix";
       sha256 = "sha256-SsA3mGunDk+0yN2p7j9BSF2jDWgMbXFBiHsT++bI6ZA=";
     };
-    name = "vscode-pull-request-github";
     license = "MIT";
-    publisher = "GitHub";
+    name = "vscode-pull-request-github";
     description = "Pull Request and Issue Provider for GitHub";
+    publisher = "GitHub";
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
@@ -1196,10 +1196,10 @@
       url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.2/file/GitLab.gitlab-workflow-3.44.2.vsix";
       sha256 = "sha256-S2PI+r4LrHA7tW2EMfcAkP5jUnd0mCEV72oTXMa9Xkc=";
     };
-    name = "gitlab-workflow";
     license = "MIT";
-    publisher = "GitLab";
+    name = "gitlab-workflow";
     description = "GitLab extension for Visual Studio Code";
+    publisher = "GitLab";
   };
   GrapeCity-gc-excelviewer = {
     pname = "GrapeCity-gc-excelviewer";
@@ -1208,10 +1208,10 @@
       url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.54/file/GrapeCity.gc-excelviewer-4.2.54.vsix";
       sha256 = "sha256-uMfCPk3ZwNCiHLVle7Slxw6n/FiIrlMR2T/jCggtK+s=";
     };
-    name = "gc-excelviewer";
     license = "MIT";
-    publisher = "GrapeCity";
+    name = "gc-excelviewer";
     description = "Edit Excel spreadsheets and CSV files in Visual Studio Code and VS Code for the Web.";
+    publisher = "GrapeCity";
   };
   GraphQL-vscode-graphql = {
     pname = "GraphQL-vscode-graphql";
@@ -1220,10 +1220,10 @@
       url = "https://open-vsx.org/api/GraphQL/vscode-graphql/0.3.53/file/GraphQL.vscode-graphql-0.3.53.vsix";
       sha256 = "sha256-4w23mEdYyvUPpEjAaa0yNvXhmnH2kPfggFSBKJMS0iE=";
     };
-    name = "vscode-graphql";
     license = "MIT";
-    publisher = "GraphQL";
+    name = "vscode-graphql";
     description = "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tags or comments.";
+    publisher = "GraphQL";
   };
   GreenXenith-minetest-tools = {
     pname = "GreenXenith-minetest-tools";
@@ -1232,10 +1232,10 @@
       url = "https://open-vsx.org/api/GreenXenith/minetest-tools/1.4.1/file/GreenXenith.minetest-tools-1.4.1.vsix";
       sha256 = "sha256-QvmMdvgmC6legxde+SLf4hdZT9wfEEo1vvYt2X9wYuI=";
     };
-    name = "minetest-tools";
     license = "MIT";
-    publisher = "GreenXenith";
+    name = "minetest-tools";
     description = "Useful tools for Minetest developers.";
+    publisher = "GreenXenith";
   };
   Greenbyte-handlebars-preview = {
     pname = "Greenbyte-handlebars-preview";
@@ -1244,10 +1244,10 @@
       url = "https://open-vsx.org/api/Greenbyte/handlebars-preview/1.1.2/file/Greenbyte.handlebars-preview-1.1.2.vsix";
       sha256 = "sha256-0vcdR1ukF8ZFS6AwNHZq9BcMmBYWkJeyx0ENjWyEv4A=";
     };
-    name = "handlebars-preview";
     license = "MIT";
-    publisher = "Greenbyte";
+    name = "handlebars-preview";
     description = "Preview Handlebars files in VS Code with custom data";
+    publisher = "Greenbyte";
   };
   Gruntfuggly-activitusbar = {
     pname = "Gruntfuggly-activitusbar";
@@ -1256,10 +1256,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/activitusbar/0.0.46/file/Gruntfuggly.activitusbar-0.0.46.vsix";
       sha256 = "sha256-De15iO/gD1Jy75Yp2Pa28s/QStp8v2nlScOJRiJmcT8=";
     };
-    name = "activitusbar";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "activitusbar";
     description = "Save some real estate by recreating the activity bar buttons on the status bar";
+    publisher = "Gruntfuggly";
   };
   Gruntfuggly-bettercomment = {
     pname = "Gruntfuggly-bettercomment";
@@ -1268,10 +1268,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/bettercomment/0.0.15/file/Gruntfuggly.bettercomment-0.0.15.vsix";
       sha256 = "sha256-2cfH3l2l6xIBTpKEabRi/epkpNP6jgrNK5Ob0xvX8Zs=";
     };
-    name = "bettercomment";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "bettercomment";
     description = "Toggle block or line comments depending on cursor position";
+    publisher = "Gruntfuggly";
   };
   Gruntfuggly-open-url = {
     pname = "Gruntfuggly-open-url";
@@ -1280,10 +1280,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/open-url/0.0.3/file/Gruntfuggly.open-url-0.0.3.vsix";
       sha256 = "sha256-tDBRGOz/Ogkqu9ldUfkpFGH1lDj8TtAY0McxNDn5J+8=";
     };
-    name = "open-url";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "open-url";
     description = "Opens a URL with placeholders";
+    publisher = "Gruntfuggly";
   };
   Gruntfuggly-remembrall = {
     pname = "Gruntfuggly-remembrall";
@@ -1292,10 +1292,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/remembrall/1.0.7/file/Gruntfuggly.remembrall-1.0.7.vsix";
       sha256 = "sha256-9wGmwk691kc9vPUkTFaXCD1F6sSCC1nnq57G8n+th7E=";
     };
-    name = "remembrall";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "remembrall";
     description = "A simple extension that provides a reorderable, syncable todo list";
+    publisher = "Gruntfuggly";
   };
   Gruntfuggly-scoper = {
     pname = "Gruntfuggly-scoper";
@@ -1304,10 +1304,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/scoper/0.0.13/file/Gruntfuggly.scoper-0.0.13.vsix";
       sha256 = "sha256-bPnPxDB4beT7+jH5wPhRbjq26dV0ioqcsJlUxVnDfSQ=";
     };
-    name = "scoper";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "scoper";
     description = "Highlight the current bracket scope";
+    publisher = "Gruntfuggly";
   };
   Gruntfuggly-todo-tree = {
     pname = "Gruntfuggly-todo-tree";
@@ -1316,10 +1316,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/todo-tree/0.0.215/file/Gruntfuggly.todo-tree-0.0.215.vsix";
       sha256 = "sha256-Mm2EvWNy/OuLQAh7TYC+EEbkek0RbyEp4/PQGLkD3wA=";
     };
-    name = "todo-tree";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "todo-tree";
     description = "Show TODO, FIXME, etc. comment tags in a tree view";
+    publisher = "Gruntfuggly";
   };
   Gruntfuggly-triggertaskonsave = {
     pname = "Gruntfuggly-triggertaskonsave";
@@ -1328,10 +1328,10 @@
       url = "https://open-vsx.org/api/Gruntfuggly/triggertaskonsave/0.2.18/file/Gruntfuggly.triggertaskonsave-0.2.18.vsix";
       sha256 = "sha256-DQKJMI+qOOoyPMJHePS+mG6fz4Dd+IVfyKidZ+M2lJE=";
     };
-    name = "triggertaskonsave";
     license = "MIT";
-    publisher = "Gruntfuggly";
+    name = "triggertaskonsave";
     description = "Run tasks when saving files";
+    publisher = "Gruntfuggly";
   };
   GulajavaMinistudio-mayukaithemevsc = {
     pname = "GulajavaMinistudio-mayukaithemevsc";
@@ -1340,10 +1340,10 @@
       url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.2/file/GulajavaMinistudio.mayukaithemevsc-3.2.2.vsix";
       sha256 = "sha256-JsQo22sWijwTIj4LqTLiXGDYAT+DIfwp7ph42ZBkvHE=";
     };
-    name = "mayukaithemevsc";
     license = "MIT";
-    publisher = "GulajavaMinistudio";
+    name = "mayukaithemevsc";
     description = "Dark theme based on mixing swatch of Ayu Theme, Andromeda Theme, Monokai, Material Colors, Original Gruvbox Darktooth Colors, and Dracula Colors.";
+    publisher = "GulajavaMinistudio";
   };
   GustavoASC-google-drive-vscode = {
     pname = "GustavoASC-google-drive-vscode";
@@ -1352,10 +1352,10 @@
       url = "https://open-vsx.org/api/GustavoASC/google-drive-vscode/1.3.3/file/GustavoASC.google-drive-vscode-1.3.3.vsix";
       sha256 = "sha256-E7dVycswRKQ91VK3rnGfSxkAWMltNvhIZvp6m7/I6jA=";
     };
-    name = "google-drive-vscode";
     license = "MIT";
-    publisher = "GustavoASC";
+    name = "google-drive-vscode";
     description = "Unofficial extension to manage Google Drive\8482 files and folders directly from VSCode";
+    publisher = "GustavoASC";
   };
   Gwion-gwion = {
     pname = "Gwion-gwion";
@@ -1364,10 +1364,10 @@
       url = "https://open-vsx.org/api/Gwion/gwion/0.2.3/file/Gwion.gwion-0.2.3.vsix";
       sha256 = "sha256-3SRyaajLwvaMW9hBunG1kyaNw2IF1hRPgrvste6F8O4=";
     };
-    name = "gwion";
     license = "";
-    publisher = "Gwion";
+    name = "gwion";
     description = "Strongly-timed musical programming language";
+    publisher = "Gwion";
   };
   HECHTAxel-lorem-barnak = {
     pname = "HECHTAxel-lorem-barnak";
@@ -1376,10 +1376,10 @@
       url = "https://open-vsx.org/api/HECHTAxel/lorem-barnak/1.0.0/file/HECHTAxel.lorem-barnak-1.0.0.vsix";
       sha256 = "sha256-731DG5lnBzId96khko8e5k7V8MrI+lx8pOHxxzLZsA0=";
     };
-    name = "lorem-barnak";
     license = "MIT";
-    publisher = "HECHTAxel";
+    name = "lorem-barnak";
     description = "Lorem Barnak is a Visual Studio Code extension. It inserts Quebecer swears inside your code like Lorem Ipsum.";
+    publisher = "HECHTAxel";
   };
   HaaLeo-timing = {
     pname = "HaaLeo-timing";
@@ -1388,10 +1388,10 @@
       url = "https://open-vsx.org/api/HaaLeo/timing/2.7.1/file/HaaLeo.timing-2.7.1.vsix";
       sha256 = "sha256-h7jXeXeg4jpqnlX/bPrLgntZbuYC6B2Nj0ZvLc2HZE0=";
     };
-    name = "timing";
     license = "MIT";
-    publisher = "HaaLeo";
+    name = "timing";
     description = "Convert timestamps from/to various formats and preview/insert them on demand.";
+    publisher = "HaaLeo";
   };
   HaaLeo-vscode-extension-test = {
     pname = "HaaLeo-vscode-extension-test";
@@ -1400,10 +1400,10 @@
       url = "https://open-vsx.org/api/HaaLeo/vscode-extension-test/0.1.1/file/HaaLeo.vscode-extension-test-0.1.1.vsix";
       sha256 = "sha256-MO8c8t0lh2TFrMAp73Ri91EYoAU92VN9ACvt2IXucD0=";
     };
-    name = "vscode-extension-test";
     license = "MIT";
-    publisher = "HaaLeo";
+    name = "vscode-extension-test";
     description = "Test For Github Actions";
+    publisher = "HaaLeo";
   };
   Hachidaime-brick-shinkuro = {
     pname = "Hachidaime-brick-shinkuro";
@@ -1412,10 +1412,10 @@
       url = "https://open-vsx.org/api/Hachidaime/brick-shinkuro/1.3.7/file/Hachidaime.brick-shinkuro-1.3.7.vsix";
       sha256 = "sha256-dAVvlReLg1g6+k2cs++Yo7MSYtQReHuPXPIQff61E3g=";
     };
-    name = "brick-shinkuro";
     license = "MIT";
-    publisher = "Hachidaime";
+    name = "brick-shinkuro";
     description = "Brick Shinkuro Color Themes";
+    publisher = "Hachidaime";
   };
   Hachidaime-cold-deep-black = {
     pname = "Hachidaime-cold-deep-black";
@@ -1424,10 +1424,10 @@
       url = "https://open-vsx.org/api/Hachidaime/cold-deep-black/1.8.0/file/Hachidaime.cold-deep-black-1.8.0.vsix";
       sha256 = "sha256-/JIxd4DjPEe2VtSb+UFglCq0GGu4d/X6F32bsTHyBng=";
     };
-    name = "cold-deep-black";
     license = "MIT";
-    publisher = "Hachidaime";
+    name = "cold-deep-black";
     description = "Cold Deep Black";
+    publisher = "Hachidaime";
   };
   Hachidaime-deep-black = {
     pname = "Hachidaime-deep-black";
@@ -1436,10 +1436,10 @@
       url = "https://open-vsx.org/api/Hachidaime/deep-black/1.3.0/file/Hachidaime.deep-black-1.3.0.vsix";
       sha256 = "sha256-L1S8l2N1p6dkfQNr+lwrbf6C0PJOdnY6fTiapGvBOms=";
     };
-    name = "deep-black";
     license = "MIT";
-    publisher = "Hachidaime";
+    name = "deep-black";
     description = "Cold Deep Black";
+    publisher = "Hachidaime";
   };
   Hamza-Aziane-obsidian-dark = {
     pname = "Hamza-Aziane-obsidian-dark";
@@ -1448,10 +1448,10 @@
       url = "https://open-vsx.org/api/Hamza-Aziane/obsidian-dark/1.0.0/file/Hamza-Aziane.obsidian-dark-1.0.0.vsix";
       sha256 = "sha256-1Z5D2AnALA1WbazTobaMydGpFmMZYm2qosqCwi2/vQw=";
     };
-    name = "obsidian-dark";
     license = "MIT";
-    publisher = "Hamza-Aziane";
+    name = "obsidian-dark";
     description = "Elegant yet practical dark theme";
+    publisher = "Hamza-Aziane";
   };
   HanWang-android-adb-wlan = {
     pname = "HanWang-android-adb-wlan";
@@ -1460,10 +1460,10 @@
       url = "https://open-vsx.org/api/HanWang/android-adb-wlan/0.0.7/file/HanWang.android-adb-wlan-0.0.7.vsix";
       sha256 = "sha256-XAH/uHBUZM0NKkr1C42p42Tr7TMRAvQimfxvJIK2WhA=";
     };
-    name = "android-adb-wlan";
     license = "MIT";
-    publisher = "HanWang";
+    name = "android-adb-wlan";
     description = "connect android with wlan";
+    publisher = "HanWang";
   };
   HansUXdev-bootstrap5-snippets = {
     pname = "HansUXdev-bootstrap5-snippets";
@@ -1472,10 +1472,10 @@
       url = "https://open-vsx.org/api/HansUXdev/bootstrap5-snippets/1.2.5/file/HansUXdev.bootstrap5-snippets-1.2.5.vsix";
       sha256 = "sha256-4v8BpKJqLaN/wC55nUbxYa3I9LIly4z9t83n8zzFSv8=";
     };
-    name = "bootstrap5-snippets";
     license = "MIT";
-    publisher = "HansUXdev";
+    name = "bootstrap5-snippets";
     description = "Code snippets for Bootstrap 5 ";
+    publisher = "HansUXdev";
   };
   HardikModi-todolist = {
     pname = "HardikModi-todolist";
@@ -1484,10 +1484,10 @@
       url = "https://open-vsx.org/api/HardikModi/todolist/0.0.10/file/HardikModi.todolist-0.0.10.vsix";
       sha256 = "sha256-W94fNAyFXWKCzyf6QK8+3ujJKpAI1yvR3AaNu6ULppI=";
     };
-    name = "todolist";
     license = "Apache-2.0";
-    publisher = "HardikModi";
+    name = "todolist";
     description = "Bring task management one step closer to you and track it in better way.";
+    publisher = "HardikModi";
   };
   Hirse-vscode-ungit = {
     pname = "Hirse-vscode-ungit";
@@ -1496,10 +1496,10 @@
       url = "https://open-vsx.org/api/Hirse/vscode-ungit/2.2.3/file/Hirse.vscode-ungit-2.2.3.vsix";
       sha256 = "sha256-LyKG7aXoljYUHvcnSXyR4PfxpLbhc5yOqAJZvZpDwHg=";
     };
-    name = "vscode-ungit";
     license = "MIT";
-    publisher = "Hirse";
+    name = "vscode-ungit";
     description = "Ungit in Visual Studio Code.";
+    publisher = "Hirse";
   };
   Holllo-love = {
     pname = "Holllo-love";
@@ -1508,10 +1508,10 @@
       url = "https://open-vsx.org/api/Holllo/love/0.1.4/file/Holllo.love-0.1.4.vsix";
       sha256 = "sha256-LKes0iaAmdEfhAEhALUzWwnqva4qh54l3RwJa0elJ8s=";
     };
-    name = "love";
     license = "MIT";
-    publisher = "Holllo";
+    name = "love";
     description = "A color scheme for you to love. \9825";
+    publisher = "Holllo";
   };
   HookyQR-beautify = {
     pname = "HookyQR-beautify";
@@ -1520,10 +1520,10 @@
       url = "https://open-vsx.org/api/HookyQR/beautify/1.4.11/file/HookyQR.beautify-1.4.11.vsix";
       sha256 = "sha256-C3na4esYdvF6wsfxOC2cCkRs+NrQjTZ0CWKNsvwpPoU=";
     };
-    name = "beautify";
     license = "MIT";
-    publisher = "HookyQR";
+    name = "beautify";
     description = "Beautify code in place for VS Code";
+    publisher = "HookyQR";
   };
   Huka-blogging-tool = {
     pname = "Huka-blogging-tool";
@@ -1532,10 +1532,10 @@
       url = "https://open-vsx.org/api/Huka/blogging-tool/0.0.18/file/Huka.blogging-tool-0.0.18.vsix";
       sha256 = "sha256-l3pOhESrOf112Ku2NrHI6ltlr09kk5fxp+GYIDY8hE0=";
     };
-    name = "blogging-tool";
     license = "MIT";
-    publisher = "Huka";
+    name = "blogging-tool";
     description = "A blogging tool";
+    publisher = "Huka";
   };
   Huka-garden-helper = {
     pname = "Huka-garden-helper";
@@ -1544,10 +1544,10 @@
       url = "https://open-vsx.org/api/Huka/garden-helper/0.0.10/file/Huka.garden-helper-0.0.10.vsix";
       sha256 = "sha256-KIkzZY4IN2p7mkQLOSd3m8PFIDRfURHOdW8UGuzkezM=";
     };
-    name = "garden-helper";
     license = "MIT";
-    publisher = "Huka";
+    name = "garden-helper";
     description = "A garden helper";
+    publisher = "Huka";
   };
   Hypernetlabs-galileo-theme = {
     pname = "Hypernetlabs-galileo-theme";
@@ -1556,10 +1556,10 @@
       url = "https://open-vsx.org/api/Hypernetlabs/galileo-theme/0.0.2/file/Hypernetlabs.galileo-theme-0.0.2.vsix";
       sha256 = "sha256-wx+YxSkqa1myL3b89eMM5Fjlm/+b9aCJhl1OXa6hET4=";
     };
-    name = "galileo-theme";
     license = "MIT";
-    publisher = "Hypernetlabs";
+    name = "galileo-theme";
     description = "A custom theme for Galileo";
+    publisher = "Hypernetlabs";
   };
   IBM-output-colorizer = {
     pname = "IBM-output-colorizer";
@@ -1568,10 +1568,10 @@
       url = "https://open-vsx.org/api/IBM/output-colorizer/0.1.2/file/IBM.output-colorizer-0.1.2.vsix";
       sha256 = "sha256-xa14/fZfj61NQI+4WqAkZVYq2E9cAgu4C5/AMua1SSY=";
     };
-    name = "output-colorizer";
     license = "MIT";
-    publisher = "IBM";
+    name = "output-colorizer";
     description = "Syntax highlighting for log files";
+    publisher = "IBM";
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
@@ -1580,10 +1580,10 @@
       url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.3/file/IBM.zopeneditor-2.0.3.vsix";
       sha256 = "sha256-QG0nokZVf7THHHabxTnPbyc2NFAvvZ+kVtJBqi1DI1s=";
     };
-    name = "zopeneditor";
     license = "";
-    publisher = "IBM";
+    name = "zopeneditor";
     description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.";
+    publisher = "IBM";
   };
   IBMBlockchain-ibm-blockchain-platform = {
     pname = "IBMBlockchain-ibm-blockchain-platform";
@@ -1592,10 +1592,10 @@
       url = "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.8/file/IBMBlockchain.ibm-blockchain-platform-2.0.8.vsix";
       sha256 = "sha256-LNvZZojjbqggiXedXEjLzf5sOOrsLjHNyOY5S0fk7lE=";
     };
-    name = "ibm-blockchain-platform";
     license = "Apache-2.0";
-    publisher = "IBMBlockchain";
+    name = "ibm-blockchain-platform";
     description = "End to end extension for Hyperledger Fabric developers. Develop and test your blockchain smart contracts and client applications on your local machine, and package your projects for deployment into IBM Blockchain Platform runtimes.";
+    publisher = "IBMBlockchain";
   };
   Iamlxm123-lxm-dome123 = {
     pname = "Iamlxm123-lxm-dome123";
@@ -1604,10 +1604,10 @@
       url = "https://open-vsx.org/api/Iamlxm123/lxm-dome123/1.0.0/file/Iamlxm123.lxm-dome123-1.0.0.vsix";
       sha256 = "sha256-bfNWAyc204jcoZlB610dIbUXxFRziI08WzFQ3lT5k30=";
     };
-    name = "lxm-dome123";
     license = "MIT";
-    publisher = "Iamlxm123";
+    name = "lxm-dome123";
     description = "VSCode\25554\20214demo";
+    publisher = "Iamlxm123";
   };
   Iamlxm123-lxmdome = {
     pname = "Iamlxm123-lxmdome";
@@ -1616,10 +1616,10 @@
       url = "https://open-vsx.org/api/Iamlxm123/lxmdome/1.0.0/file/Iamlxm123.lxmdome-1.0.0.vsix";
       sha256 = "sha256-JrULGGsGgQUxyc/ENyjnaJYG+ZfbwQOEXS7vEtVn2RM=";
     };
-    name = "lxmdome";
     license = "MIT";
-    publisher = "Iamlxm123";
+    name = "lxmdome";
     description = "VSCode\25554\20214demo";
+    publisher = "Iamlxm123";
   };
   Ikuyadeu-r = {
     pname = "Ikuyadeu-r";
@@ -1628,10 +1628,10 @@
       url = "https://open-vsx.org/api/Ikuyadeu/r/2.4.0/file/Ikuyadeu.r-2.4.0.vsix";
       sha256 = "sha256-ZjCH3p30dQgi6Hd6mUfLGsW58bGacu3LlfZCH7DBZv8=";
     };
-    name = "r";
     license = "MIT";
-    publisher = "Ikuyadeu";
+    name = "r";
     description = "R Extension for Visual Studio Code";
+    publisher = "Ikuyadeu";
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
@@ -1640,10 +1640,10 @@
       url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.5/file/Ionide.Ionide-fsharp-6.0.5.vsix";
       sha256 = "sha256-6g62lk6RMZ/O7bYTiLbvZV0+IFEiuGM/BL4dK+cVAvk=";
     };
-    name = "Ionide-fsharp";
     license = "MIT";
-    publisher = "Ionide";
+    name = "Ionide-fsharp";
     description = "F# Language Support, powered by FsAutoComplete";
+    publisher = "Ionide";
   };
   IronGeek-vscode-darklight = {
     pname = "IronGeek-vscode-darklight";
@@ -1652,10 +1652,10 @@
       url = "https://open-vsx.org/api/IronGeek/vscode-darklight/0.1.3/file/IronGeek.vscode-darklight-0.1.3.vsix";
       sha256 = "sha256-Dal7Um/sdRxmYTohHuf7PC3rqE/1m/AnenoEM8SLgkY=";
     };
-    name = "vscode-darklight";
     license = "MIT";
-    publisher = "IronGeek";
+    name = "vscode-darklight";
     description = "Color mode switcher for Visual Studio Code";
+    publisher = "IronGeek";
   };
   IronGeek-vscode-env = {
     pname = "IronGeek-vscode-env";
@@ -1664,10 +1664,10 @@
       url = "https://open-vsx.org/api/IronGeek/vscode-env/0.1.0/file/IronGeek.vscode-env-0.1.0.vsix";
       sha256 = "sha256-Pwzcy13qUBeTfMWkgbwFiMM6GYruHKjy0+yNUkkFlwA=";
     };
-    name = "vscode-env";
     license = "MIT";
-    publisher = "IronGeek";
+    name = "vscode-env";
     description = "Adds formatting and syntax highlighting support for env files (.env) to Visual Studio Code";
+    publisher = "IronGeek";
   };
   JFrog-jfrog-vscode-extension = {
     pname = "JFrog-jfrog-vscode-extension";
@@ -1676,10 +1676,10 @@
       url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.13.0/file/JFrog.jfrog-vscode-extension-1.13.0.vsix";
       sha256 = "sha256-Y1saGbo5msvkQeMjOWtJ4WTtKc33YjZQZPrydzLrIR8=";
     };
-    name = "jfrog-vscode-extension";
     license = "Apache-2.0";
-    publisher = "JFrog";
+    name = "jfrog-vscode-extension";
     description = "JFrog Xray scanning of Go, npm, Pypi, Maven and NuGet project dependencies.";
+    publisher = "JFrog";
   };
   Jaakko-black = {
     pname = "Jaakko-black";
@@ -1688,10 +1688,10 @@
       url = "https://open-vsx.org/api/Jaakko/black/0.12.0/file/Jaakko.black-0.12.0.vsix";
       sha256 = "sha256-UC6ej8g3HJBXM60dDXLDQN76Y/IqWBaaFJWZbM9Y9NE=";
     };
-    name = "black";
     license = "MIT";
-    publisher = "Jaakko";
+    name = "black";
     description = "Color theme with black background.";
+    publisher = "Jaakko";
   };
   JackMacWindows-craftos-pc = {
     pname = "JackMacWindows-craftos-pc";
@@ -1700,10 +1700,10 @@
       url = "https://open-vsx.org/api/JackMacWindows/craftos-pc/1.1.8/file/JackMacWindows.craftos-pc-1.1.8.vsix";
       sha256 = "sha256-f7f14jKfJPCPXKForKvs6Pu5rzsARGiSTNWAY1DCyyk=";
     };
-    name = "craftos-pc";
     license = "MIT";
-    publisher = "JackMacWindows";
+    name = "craftos-pc";
     description = "Adds the ability to open CraftOS-PC windows inside VS Code, as well as some ease-of-use functionality to make ComputerCraft programming easier.";
+    publisher = "JackMacWindows";
   };
   JacquesLucke-gcov-viewer = {
     pname = "JacquesLucke-gcov-viewer";
@@ -1712,10 +1712,10 @@
       url = "https://open-vsx.org/api/JacquesLucke/gcov-viewer/0.4.0/file/JacquesLucke.gcov-viewer-0.4.0.vsix";
       sha256 = "sha256-yUceBCC0pAj4FsHw+fAbrNSQpL57IHccek4RN9xIhWA=";
     };
-    name = "gcov-viewer";
     license = "MIT";
-    publisher = "JacquesLucke";
+    name = "gcov-viewer";
     description = "Decorate C/C++ source files with code coverage information generated by gcov.";
+    publisher = "JacquesLucke";
   };
   James-Yu-latex-workshop = {
     pname = "James-Yu-latex-workshop";
@@ -1724,10 +1724,10 @@
       url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.26.0/file/James-Yu.latex-workshop-8.26.0.vsix";
       sha256 = "sha256-yZpfeqOQ6YW4nHHdIDZbN40nuhcp47xQdJaki+/x/fA=";
     };
-    name = "latex-workshop";
     license = "MIT";
-    publisher = "James-Yu";
+    name = "latex-workshop";
     description = "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.";
+    publisher = "James-Yu";
   };
   Janne252-fontawesome-autocomplete = {
     pname = "Janne252-fontawesome-autocomplete";
@@ -1736,10 +1736,10 @@
       url = "https://open-vsx.org/api/Janne252/fontawesome-autocomplete/1.3.1/file/Janne252.fontawesome-autocomplete-1.3.1.vsix";
       sha256 = "sha256-MdVeswKO2EAezmvtfb/6qOOY6lUTWUk6JiI3cnu4CxU=";
     };
-    name = "fontawesome-autocomplete";
     license = "GPL-3.0";
-    publisher = "Janne252";
+    name = "fontawesome-autocomplete";
     description = "Autocomplete & preview Font Awesome icons in any language.";
+    publisher = "Janne252";
   };
   JeffersonQin-latex-snippets-jeff = {
     pname = "JeffersonQin-latex-snippets-jeff";
@@ -1748,10 +1748,10 @@
       url = "https://open-vsx.org/api/JeffersonQin/latex-snippets-jeff/1.2.3/file/JeffersonQin.latex-snippets-jeff-1.2.3.vsix";
       sha256 = "sha256-HoWZVlOnTmdPpR+9TX/0rw/S956hybCYbuNAJA0ZVZs=";
     };
-    name = "latex-snippets-jeff";
     license = "MIT";
-    publisher = "JeffersonQin";
+    name = "latex-snippets-jeff";
     description = "Useful Snippets for LaTeX";
+    publisher = "JeffersonQin";
   };
   JimKnopf-jkons-extension-pack = {
     pname = "JimKnopf-jkons-extension-pack";
@@ -1760,10 +1760,10 @@
       url = "https://open-vsx.org/api/JimKnopf/jkons-extension-pack/0.2.0/file/JimKnopf.jkons-extension-pack-0.2.0.vsix";
       sha256 = "sha256-ZApq/b38udN6X732txVozJ+0Ir/vgTdkvnMVctlN4gw=";
     };
-    name = "jkons-extension-pack";
     license = "MIT";
-    publisher = "JimKnopf";
+    name = "jkons-extension-pack";
     description = "An Extension Pack for a simple setup at school";
+    publisher = "JimKnopf";
   };
   Josee9988-changelog-and-markdown-snippets = {
     pname = "Josee9988-changelog-and-markdown-snippets";
@@ -1772,10 +1772,10 @@
       url = "https://open-vsx.org/api/Josee9988/changelog-and-markdown-snippets/1.2.1/file/Josee9988.changelog-and-markdown-snippets-1.2.1.vsix";
       sha256 = "sha256-eWAPVKpT9IkUm7kK7LBhIGGHwU2tiGjJADrnCMBKODI=";
     };
-    name = "changelog-and-markdown-snippets";
     license = "MIT";
-    publisher = "Josee9988";
+    name = "changelog-and-markdown-snippets";
     description = "A snippet extension for creating changelogs and markdowns in VSCode!";
+    publisher = "Josee9988";
   };
   Josee9988-minifyall = {
     pname = "Josee9988-minifyall";
@@ -1784,10 +1784,10 @@
       url = "https://open-vsx.org/api/Josee9988/minifyall/2.10.0/file/Josee9988.minifyall-2.10.0.vsix";
       sha256 = "sha256-C4zIIahLhzS1xbNc07OGtCtp2liQYUCEMPfGaZf5NN0=";
     };
-    name = "minifyall";
     license = "GPL-3.0";
-    publisher = "Josee9988";
+    name = "minifyall";
     description = "Minifier for JSON, CSS, HTML, XML, TWIG, LESS, SASS, SCSS, JavaScript, JSONC, and JavaScriptReact(testing). Compressor of files and folders. You will love its simplicity!";
+    publisher = "Josee9988";
   };
   JulianGmp-context-syntax = {
     pname = "JulianGmp-context-syntax";
@@ -1796,10 +1796,10 @@
       url = "https://open-vsx.org/api/JulianGmp/context-syntax/1.1.0/file/JulianGmp.context-syntax-1.1.0.vsix";
       sha256 = "sha256-Mk7KkrBZXi9f8pt9cmo+DtOgPUJfsrjEdN1m/mkDifQ=";
     };
-    name = "context-syntax";
     license = "MIT";
-    publisher = "JulianGmp";
+    name = "context-syntax";
     description = "Syntax Highlighting for the ConTeXt typesetting system.";
+    publisher = "JulianGmp";
   };
   JulianGmp-openscad-formatter = {
     pname = "JulianGmp-openscad-formatter";
@@ -1808,10 +1808,10 @@
       url = "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.2.0/file/JulianGmp.openscad-formatter-1.2.0.vsix";
       sha256 = "sha256-dvHA9W1tF5CNvMlC/qbzOFU2TBx7WgwqPVG3FuhA7+s=";
     };
-    name = "openscad-formatter";
     license = "MIT";
-    publisher = "JulianGmp";
+    name = "openscad-formatter";
     description = "Simple formatter for OpenSCAD files using clang-format.";
+    publisher = "JulianGmp";
   };
   JustBrenny-hero-heroku = {
     pname = "JustBrenny-hero-heroku";
@@ -1820,10 +1820,10 @@
       url = "https://open-vsx.org/api/JustBrenny/hero-heroku/1.7.2/file/JustBrenny.hero-heroku-1.7.2.vsix";
       sha256 = "sha256-TQKk0KKxp7HodcZt4PtDod3JmlAoKvmoXgSZEctME90=";
     };
-    name = "hero-heroku";
     license = "GPL-3.0-or-later";
-    publisher = "JustBrenny";
+    name = "hero-heroku";
     description = "A powerful Heroku dashboard from within VSCode!";
+    publisher = "JustBrenny";
   };
   KDJFS-three-snippets = {
     pname = "KDJFS-three-snippets";
@@ -1832,10 +1832,10 @@
       url = "https://open-vsx.org/api/KDJFS/three-snippets/0.1.12/file/KDJFS.three-snippets-0.1.12.vsix";
       sha256 = "sha256-HJY0nCg6RdsjJzS22sc0FaPV0pcsqzU2tIc1CnD+ToI=";
     };
-    name = "three-snippets";
     license = "MIT";
-    publisher = "KDJFS";
+    name = "three-snippets";
     description = "A three.js Extension";
+    publisher = "KDJFS";
   };
   KaanGenc-writing-assistant = {
     pname = "KaanGenc-writing-assistant";
@@ -1844,10 +1844,10 @@
       url = "https://open-vsx.org/api/KaanGenc/writing-assistant/0.1.1/file/KaanGenc.writing-assistant-0.1.1.vsix";
       sha256 = "sha256-Ke0dcxtFNAKCROeyn02mKhRsO6TipdKgCfAq3WkXcLk=";
     };
-    name = "writing-assistant";
     license = "MIT";
-    publisher = "KaanGenc";
+    name = "writing-assistant";
     description = "Catch writing mistakes and insensitive language, improve your writing quality. Works on comments of programming languages, and markdown files.";
+    publisher = "KaanGenc";
   };
   KamasamaK-vscode-cflint = {
     pname = "KamasamaK-vscode-cflint";
@@ -1856,10 +1856,10 @@
       url = "https://open-vsx.org/api/KamasamaK/vscode-cflint/0.3.6/file/KamasamaK.vscode-cflint-0.3.6.vsix";
       sha256 = "sha256-kxyYCB/fE+WNzFLYq4/OGFm2wo9vRw7zaIDTZVkgE4o=";
     };
-    name = "vscode-cflint";
     license = "MIT";
-    publisher = "KamasamaK";
+    name = "vscode-cflint";
     description = "CFLint for Visual Studio Code";
+    publisher = "KamasamaK";
   };
   KamasamaK-vscode-cfml = {
     pname = "KamasamaK-vscode-cfml";
@@ -1868,10 +1868,10 @@
       url = "https://open-vsx.org/api/KamasamaK/vscode-cfml/0.5.4/file/KamasamaK.vscode-cfml-0.5.4.vsix";
       sha256 = "sha256-dckdhK989OACpGv7N1lobsiMRIRF97UXI4WIWtUJV54=";
     };
-    name = "vscode-cfml";
     license = "MIT";
-    publisher = "KamasamaK";
+    name = "vscode-cfml";
     description = "CFML language";
+    publisher = "KamasamaK";
   };
   Kelvin-vscode-sshfs = {
     pname = "Kelvin-vscode-sshfs";
@@ -1880,10 +1880,10 @@
       url = "https://open-vsx.org/api/Kelvin/vscode-sshfs/1.25.0/file/Kelvin.vscode-sshfs-1.25.0.vsix";
       sha256 = "sha256-c1jpZJ5UsjeH1+ND9NcXd6FKsvCs8JMFGmSdK2ruomw=";
     };
-    name = "vscode-sshfs";
     license = "GPL-3.0";
-    publisher = "Kelvin";
+    name = "vscode-sshfs";
     description = "File system, terminal and task provider using SSH";
+    publisher = "Kelvin";
   };
   KevinRose-vsc-python-indent = {
     pname = "KevinRose-vsc-python-indent";
@@ -1892,10 +1892,10 @@
       url = "https://open-vsx.org/api/KevinRose/vsc-python-indent/1.16.0/file/KevinRose.vsc-python-indent-1.16.0.vsix";
       sha256 = "sha256-mQWiu0e7IqNZagrgFazNdXn+x/7FzzPDVoLo9zIJcJo=";
     };
-    name = "vsc-python-indent";
     license = "MIT";
-    publisher = "KevinRose";
+    name = "vsc-python-indent";
     description = "Correct Python indentation";
+    publisher = "KevinRose";
   };
   KnisterPeter-vscode-github = {
     pname = "KnisterPeter-vscode-github";
@@ -1904,10 +1904,10 @@
       url = "https://open-vsx.org/api/KnisterPeter/vscode-github/0.30.7/file/KnisterPeter.vscode-github-0.30.7.vsix";
       sha256 = "sha256-ruw9L43vk++2TtokdmJu2v4hv0cBWsLPDY054rqUU5c=";
     };
-    name = "vscode-github";
     license = "MIT";
-    publisher = "KnisterPeter";
+    name = "vscode-github";
     description = "Integrates github and its workflows into vscode";
+    publisher = "KnisterPeter";
   };
   Koihik-vscode-lua-format = {
     pname = "Koihik-vscode-lua-format";
@@ -1916,10 +1916,10 @@
       url = "https://open-vsx.org/api/Koihik/vscode-lua-format/1.3.8/file/Koihik.vscode-lua-format-1.3.8.vsix";
       sha256 = "sha256-KGd//9Maw7we47clQ96G0g47AOj1lryDxqVNE+5j1ro=";
     };
-    name = "vscode-lua-format";
     license = "Apache License Version 2.0";
-    publisher = "Koihik";
+    name = "vscode-lua-format";
     description = "Reformats your Lua source code.";
+    publisher = "Koihik";
   };
   LaurentTreguier-rpm-spec = {
     pname = "LaurentTreguier-rpm-spec";
@@ -1928,10 +1928,10 @@
       url = "https://open-vsx.org/api/LaurentTreguier/rpm-spec/0.3.2/file/LaurentTreguier.rpm-spec-0.3.2.vsix";
       sha256 = "sha256-EfuOm6hoHQWo26lqjs83lsjrpxFnO2JyxVZK8YjFSXA=";
     };
-    name = "rpm-spec";
     license = "MIT";
-    publisher = "LaurentTreguier";
+    name = "rpm-spec";
     description = "RPM spec support for Visual Studio Code";
+    publisher = "LaurentTreguier";
   };
   LaurentTreguier-vscode-simple-icons = {
     pname = "LaurentTreguier-vscode-simple-icons";
@@ -1940,10 +1940,10 @@
       url = "https://open-vsx.org/api/LaurentTreguier/vscode-simple-icons/1.16.0/file/LaurentTreguier.vscode-simple-icons-1.16.0.vsix";
       sha256 = "sha256-gOuTTF510kCn3kWZZPbna1veWnAhWC2LkPi+/dsYDTU=";
     };
-    name = "vscode-simple-icons";
     license = "MIT";
-    publisher = "LaurentTreguier";
+    name = "vscode-simple-icons";
     description = "An icon theme that tries to be simple";
+    publisher = "LaurentTreguier";
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
@@ -1952,10 +1952,10 @@
       url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.4/file/Leathong.openscad-language-support-1.1.4.vsix";
       sha256 = "sha256-CQpy2tNhFq091zCBzu7t246MFGNvfJMPo3XKwg5fH30=";
     };
-    name = "openscad-language-support";
     license = "GPL-3.0";
-    publisher = "Leathong";
+    name = "openscad-language-support";
     description = "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more!";
+    publisher = "Leathong";
   };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
@@ -1964,10 +1964,10 @@
       url = "https://open-vsx.org/api/Lencerf/beancount/0.8.2/file/Lencerf.beancount-0.8.2.vsix";
       sha256 = "sha256-xVqlU/oiRSgAzP+tqCRjW3cSvboCfWU5lraSDl1TdzU=";
     };
-    name = "beancount";
     license = "MIT";
-    publisher = "Lencerf";
+    name = "beancount";
     description = "VSCode extension for Beancount";
+    publisher = "Lencerf";
   };
   LeonardSSH-vscord = {
     pname = "LeonardSSH-vscord";
@@ -1976,10 +1976,10 @@
       url = "https://open-vsx.org/api/LeonardSSH/vscord/4.5.0/file/LeonardSSH.vscord-4.5.0.vsix";
       sha256 = "sha256-0YfTB2gr9gjlvBwYYo0ixaX9N0ljcdeUGqdghT7avD4=";
     };
-    name = "vscord";
     license = "MIT";
-    publisher = "LeonardSSH";
+    name = "vscord";
     description = "Fully customizable VS Code extension to get Discord Rich Presence integration";
+    publisher = "LeonardSSH";
   };
   LoyieKing-smalise = {
     pname = "LoyieKing-smalise";
@@ -1988,10 +1988,10 @@
       url = "https://open-vsx.org/api/LoyieKing/smalise/0.0.8/file/LoyieKing.smalise-0.0.8.vsix";
       sha256 = "sha256-jqygz9YhcvOg/NEI2yzCqczoi7qo/V04Y5wICzwlgUw=";
     };
-    name = "smalise";
     license = "MIT";
-    publisher = "LoyieKing";
+    name = "smalise";
     description = "Language support for Smali(Davilk bytecode)";
+    publisher = "LoyieKing";
   };
   LukaSpatschil-repl-scooper = {
     pname = "LukaSpatschil-repl-scooper";
@@ -2000,10 +2000,10 @@
       url = "https://open-vsx.org/api/LukaSpatschil/repl-scooper/0.4.2/file/LukaSpatschil.repl-scooper-0.4.2.vsix";
       sha256 = "sha256-wX7qiFJKY312VUJeFxGX9M6zrEEl0xEw0rrmc55HwSQ=";
     };
-    name = "repl-scooper";
     license = "MIT";
-    publisher = "LukaSpatschil";
+    name = "repl-scooper";
     description = "An extension to experiment with code snippets";
+    publisher = "LukaSpatschil";
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
@@ -2012,10 +2012,10 @@
       url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.10/file/LuqueDaniel.languague-renpy-2.0.10.vsix";
       sha256 = "sha256-U7F6CTXfbLA/rOiAGsSRaWDB8xkXno4qg3GKbT/OlTA=";
     };
-    name = "languague-renpy";
     license = "MIT";
-    publisher = "LuqueDaniel";
+    name = "languague-renpy";
     description = "Adds rich support for the Ren'Py programming language to Visual Studio Code.";
+    publisher = "LuqueDaniel";
   };
   Luxcium-pop-n-lock-theme-vscode = {
     pname = "Luxcium-pop-n-lock-theme-vscode";
@@ -2024,10 +2024,10 @@
       url = "https://open-vsx.org/api/Luxcium/pop-n-lock-theme-vscode/3.31.0/file/Luxcium.pop-n-lock-theme-vscode-3.31.0.vsix";
       sha256 = "sha256-GdFEN4nb9+Y1qvn2SiBGD13GBo1GOILaXnl8S8krZHo=";
     };
-    name = "pop-n-lock-theme-vscode";
     license = "MIT";
-    publisher = "Luxcium";
+    name = "pop-n-lock-theme-vscode";
     description = "\128050 Perfectly balanced TypeScript theme with vivid colours.";
+    publisher = "Luxcium";
   };
   LyonSyonII-rust-syntax = {
     pname = "LyonSyonII-rust-syntax";
@@ -2036,10 +2036,10 @@
       url = "https://open-vsx.org/api/LyonSyonII/rust-syntax/0.6.0/file/LyonSyonII.rust-syntax-0.6.0.vsix";
       sha256 = "sha256-7cp0sCtS7lz3Aef+Tu/crQBowqIdkpqZK9UUgV9tYTA=";
     };
-    name = "rust-syntax";
     license = "Please see LICENSE.txt";
-    publisher = "LyonSyonII";
+    name = "rust-syntax";
     description = "Improved Rust syntax highlighting";
+    publisher = "LyonSyonII";
   };
   LyonSyonII-vscode-rusty-onedark = {
     pname = "LyonSyonII-vscode-rusty-onedark";
@@ -2048,10 +2048,10 @@
       url = "https://open-vsx.org/api/LyonSyonII/vscode-rusty-onedark/1.0.3/file/LyonSyonII.vscode-rusty-onedark-1.0.3.vsix";
       sha256 = "sha256-Fzvwk6KZp8QjCLFMuHfE+cOymUhrelbuf3wn6sOhIRk=";
     };
-    name = "vscode-rusty-onedark";
     license = "MIT";
-    publisher = "LyonSyonII";
+    name = "vscode-rusty-onedark";
     description = "One Dark Theme based on Atom, but with Rust semantic highlighting!";
+    publisher = "LyonSyonII";
   };
   MAKinteract-micro-bit-python = {
     pname = "MAKinteract-micro-bit-python";
@@ -2060,10 +2060,10 @@
       url = "https://open-vsx.org/api/MAKinteract/micro-bit-python/0.1.17/file/MAKinteract.micro-bit-python-0.1.17.vsix";
       sha256 = "sha256-2rZjhaFTO74lgbzGp4Yn9rGGB732nKqij9B57N2yM5A=";
     };
-    name = "micro-bit-python";
     license = "MIT";
-    publisher = "MAKinteract";
+    name = "micro-bit-python";
     description = "Easy MicroPython for micro:bit with VScode";
+    publisher = "MAKinteract";
   };
   MS-CEINTL-vscode-language-pack-bg = {
     pname = "MS-CEINTL-vscode-language-pack-bg";
@@ -2072,10 +2072,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-bg/1.48.3/file/MS-CEINTL.vscode-language-pack-bg-1.48.3.vsix";
       sha256 = "sha256-aCiHoEhEXfXopOwSow4tDy2ixrWD1oKl6dclvp4jP34=";
     };
-    name = "vscode-language-pack-bg";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-bg";
     description = "Language pack extension for Bulgarian.";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-cs = {
     pname = "MS-CEINTL-vscode-language-pack-cs";
@@ -2084,10 +2084,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-cs/1.68.2/file/MS-CEINTL.vscode-language-pack-cs-1.68.2.vsix";
       sha256 = "sha256-0uP3g9wawzr+pu9RlQ01HdvjZWlXsyVFnLnvh/FNdDw=";
     };
-    name = "vscode-language-pack-cs";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-cs";
     description = "Language pack extension for Czech";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-de = {
     pname = "MS-CEINTL-vscode-language-pack-de";
@@ -2096,10 +2096,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.68.2/file/MS-CEINTL.vscode-language-pack-de-1.68.2.vsix";
       sha256 = "sha256-4JGNvHVd8Ug4Jb6cQc5q0SqSMSoPQDSVlfDZbqqRphk=";
     };
-    name = "vscode-language-pack-de";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-de";
     description = "Language pack extension for German";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-en-GB = {
     pname = "MS-CEINTL-vscode-language-pack-en-GB";
@@ -2108,10 +2108,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-en-GB/1.54.1/file/MS-CEINTL.vscode-language-pack-en-GB-1.54.1.vsix";
       sha256 = "sha256-HBjXcY+y8oSYYQXoHqY2cp/5tASumG76Ir7hnbgSgJc=";
     };
-    name = "vscode-language-pack-en-GB";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-en-GB";
     description = "Language pack extension for English (United Kingdom)";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-es = {
     pname = "MS-CEINTL-vscode-language-pack-es";
@@ -2120,10 +2120,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.68.2/file/MS-CEINTL.vscode-language-pack-es-1.68.2.vsix";
       sha256 = "sha256-BqlErwD8ADHNVWdn4mWqh1Zvr3SyEnUIikjpT/B8v7Q=";
     };
-    name = "vscode-language-pack-es";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-es";
     description = "Language pack extension for Spanish";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-fr = {
     pname = "MS-CEINTL-vscode-language-pack-fr";
@@ -2132,10 +2132,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-fr/1.68.2/file/MS-CEINTL.vscode-language-pack-fr-1.68.2.vsix";
       sha256 = "sha256-Ipj0zDQdqj3+fj6sxhe2K8rsmc0FWas869zK6r9oYuI=";
     };
-    name = "vscode-language-pack-fr";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-fr";
     description = "Language pack extension for French";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-hu = {
     pname = "MS-CEINTL-vscode-language-pack-hu";
@@ -2144,10 +2144,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-hu/1.48.3/file/MS-CEINTL.vscode-language-pack-hu-1.48.3.vsix";
       sha256 = "sha256-LfmNKQfK7cZSfG2cdh6hv1nO7oYd4A2vOHYx51Nhqwc=";
     };
-    name = "vscode-language-pack-hu";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-hu";
     description = "Language pack extension for Hungarian";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-id = {
     pname = "MS-CEINTL-vscode-language-pack-id";
@@ -2156,10 +2156,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-id/1.48.3/file/MS-CEINTL.vscode-language-pack-id-1.48.3.vsix";
       sha256 = "sha256-e5PeiwnzVSjJsoJ077cPHrrva40Dp7XhS6Q5PYF/weM=";
     };
-    name = "vscode-language-pack-id";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-id";
     description = "Language pack extension for Indonesian";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-it = {
     pname = "MS-CEINTL-vscode-language-pack-it";
@@ -2168,10 +2168,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.68.2/file/MS-CEINTL.vscode-language-pack-it-1.68.2.vsix";
       sha256 = "sha256-7UzqrnTz2SU6i210vgEvMI8AEo4++isLG/IsZY4PFV8=";
     };
-    name = "vscode-language-pack-it";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-it";
     description = "Language pack extension for Italian";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-ja = {
     pname = "MS-CEINTL-vscode-language-pack-ja";
@@ -2180,10 +2180,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ja/1.68.2/file/MS-CEINTL.vscode-language-pack-ja-1.68.2.vsix";
       sha256 = "sha256-TC9r8zLBKTv4xYrS7lEpjvncZXI4KiP3hXEpXmzqiw4=";
     };
-    name = "vscode-language-pack-ja";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-ja";
     description = "Language pack extension for Japanese";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-ko = {
     pname = "MS-CEINTL-vscode-language-pack-ko";
@@ -2192,10 +2192,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ko/1.68.2/file/MS-CEINTL.vscode-language-pack-ko-1.68.2.vsix";
       sha256 = "sha256-DsdHEAyUgq2fJ3qvHrndHiqjxgikyjVWlIO7KG/0feA=";
     };
-    name = "vscode-language-pack-ko";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-ko";
     description = "Language pack extension for Korean";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-nl = {
     pname = "MS-CEINTL-vscode-language-pack-nl";
@@ -2204,10 +2204,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-nl/1.48.3/file/MS-CEINTL.vscode-language-pack-nl-1.48.3.vsix";
       sha256 = "sha256-Uqhb59p63sycdTFeOqe39BzC7LwLzyJe5cPhfmG8Hu8=";
     };
-    name = "vscode-language-pack-nl";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-nl";
     description = "Language pack extension for Dutch";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-pl = {
     pname = "MS-CEINTL-vscode-language-pack-pl";
@@ -2216,10 +2216,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pl/1.68.2/file/MS-CEINTL.vscode-language-pack-pl-1.68.2.vsix";
       sha256 = "sha256-nfydJm6WzS4w7i7TCGcaRxBQ+gyCNy42p8DQQLdp0ac=";
     };
-    name = "vscode-language-pack-pl";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-pl";
     description = "Language pack extension for Polish";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-pt-BR = {
     pname = "MS-CEINTL-vscode-language-pack-pt-BR";
@@ -2228,10 +2228,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-pt-BR/1.68.2/file/MS-CEINTL.vscode-language-pack-pt-BR-1.68.2.vsix";
       sha256 = "sha256-MDo54PG2JUPhjwxxt8G13/IiVKSuWe1lPtdar17iwKI=";
     };
-    name = "vscode-language-pack-pt-BR";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-pt-BR";
     description = "Language pack extension for Portuguese (Brazil)";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-ru = {
     pname = "MS-CEINTL-vscode-language-pack-ru";
@@ -2240,10 +2240,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.68.2/file/MS-CEINTL.vscode-language-pack-ru-1.68.2.vsix";
       sha256 = "sha256-ePcf9KIAdwQIZTs3I8JqtdDU4Uq1Pn4js8d5LoxZU+8=";
     };
-    name = "vscode-language-pack-ru";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-ru";
     description = "Language pack extension for Russian";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-tr = {
     pname = "MS-CEINTL-vscode-language-pack-tr";
@@ -2252,10 +2252,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-tr/1.68.2/file/MS-CEINTL.vscode-language-pack-tr-1.68.2.vsix";
       sha256 = "sha256-YhM9eY67mOXVkI2iwNPp7ey/8geCRDgYriyFZd+kDWk=";
     };
-    name = "vscode-language-pack-tr";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-tr";
     description = "Language pack extension for Turkish";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-uk = {
     pname = "MS-CEINTL-vscode-language-pack-uk";
@@ -2264,10 +2264,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-uk/1.48.3/file/MS-CEINTL.vscode-language-pack-uk-1.48.3.vsix";
       sha256 = "sha256-xlFsjoWuPjNIibIFVnN35y04eDdLIU+WL4yJ93aqcgE=";
     };
-    name = "vscode-language-pack-uk";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-uk";
     description = "Language pack extension for Ukrainian";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-zh-hans = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hans";
@@ -2276,10 +2276,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hans/1.68.2/file/MS-CEINTL.vscode-language-pack-zh-hans-1.68.2.vsix";
       sha256 = "sha256-GTNf15gQULOZPA1GY49fbL1g6DclY56nQwC7R78aGCk=";
     };
-    name = "vscode-language-pack-zh-hans";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-zh-hans";
     description = "Language pack extension for Chinese (Simplified)";
+    publisher = "MS-CEINTL";
   };
   MS-CEINTL-vscode-language-pack-zh-hant = {
     pname = "MS-CEINTL-vscode-language-pack-zh-hant";
@@ -2288,10 +2288,10 @@
       url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-zh-hant/1.68.2/file/MS-CEINTL.vscode-language-pack-zh-hant-1.68.2.vsix";
       sha256 = "sha256-Hbo7Y6eWjyIWRpPi3XsgoQPC2+5GlvK7VHHvw+aUXJ4=";
     };
-    name = "vscode-language-pack-zh-hant";
     license = "MIT";
-    publisher = "MS-CEINTL";
+    name = "vscode-language-pack-zh-hant";
     description = "Language pack extension for Chinese (Traditional)";
+    publisher = "MS-CEINTL";
   };
   MakeItBetter-vscode-swift-test-adapter = {
     pname = "MakeItBetter-vscode-swift-test-adapter";
@@ -2300,10 +2300,10 @@
       url = "https://open-vsx.org/api/MakeItBetter/vscode-swift-test-adapter/1.1.10/file/MakeItBetter.vscode-swift-test-adapter-1.1.10.vsix";
       sha256 = "sha256-o5KrGM/RsZkfLXGZh4R36/SVPuagIZ/00sshg9X6HpA=";
     };
-    name = "vscode-swift-test-adapter";
     license = "MIT";
-    publisher = "MakeItBetter";
+    name = "vscode-swift-test-adapter";
     description = "Run your Swift tests in the Sidebar of Visual Studio Code";
+    publisher = "MakeItBetter";
   };
   MarcosGutirrezAlonso-turing-machine = {
     pname = "MarcosGutirrezAlonso-turing-machine";
@@ -2312,10 +2312,10 @@
       url = "https://open-vsx.org/api/MarcosGutirrezAlonso/turing-machine/1.1.2/file/MarcosGutirrezAlonso.turing-machine-1.1.2.vsix";
       sha256 = "sha256-ebl4oBeEH2aW11QICzJFPORuN+Ay4bxxIoDeaeCE+g8=";
     };
-    name = "turing-machine";
     license = "GPL-3.0";
-    publisher = "MarcosGutirrezAlonso";
+    name = "turing-machine";
     description = "Support for the Turing Machine language";
+    publisher = "MarcosGutirrezAlonso";
   };
   MariusvanWijk-JoppeKoers-codam-norminette-3 = {
     pname = "MariusvanWijk-JoppeKoers-codam-norminette-3";
@@ -2324,10 +2324,10 @@
       url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.5.0/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.5.0.vsix";
       sha256 = "sha256-M0PcGVf47e7rbEnqWEoZFfjjhTqbfLCiVDnqdFqhrZw=";
     };
-    name = "codam-norminette-3";
     license = "MIT";
-    publisher = "MariusvanWijk-JoppeKoers";
+    name = "codam-norminette-3";
     description = "42 Norminette decorator for VSCode";
+    publisher = "MariusvanWijk-JoppeKoers";
   };
   MarkMcCulloh-vscode-projen = {
     pname = "MarkMcCulloh-vscode-projen";
@@ -2336,10 +2336,10 @@
       url = "https://open-vsx.org/api/MarkMcCulloh/vscode-projen/0.0.30/file/MarkMcCulloh.vscode-projen-0.0.30.vsix";
       sha256 = "sha256-zTvRAUifFtf1WXEu9F915P9LeJxxn2ZuoQ3X+saAD1A=";
     };
-    name = "vscode-projen";
     license = "Apache-2.0";
-    publisher = "MarkMcCulloh";
+    name = "vscode-projen";
     description = "Projen helpers and utilities";
+    publisher = "MarkMcCulloh";
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
@@ -2348,10 +2348,10 @@
       url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.16/file/Marko-JS.marko-vscode-0.17.16.vsix";
       sha256 = "sha256-VEoMfqb4VnQOV9kiYYstbtvUBseAEB+5IUu1ZDrcRK4=";
     };
-    name = "marko-vscode";
     license = "MIT";
-    publisher = "Marko-JS";
+    name = "marko-vscode";
     description = "Marko Tooling for VSCode";
+    publisher = "Marko-JS";
   };
   Matronator-haxeui = {
     pname = "Matronator-haxeui";
@@ -2360,10 +2360,10 @@
       url = "https://open-vsx.org/api/Matronator/haxeui/0.0.3/file/Matronator.haxeui-0.0.3.vsix";
       sha256 = "sha256-AMUWrRGw6UVwXoxIA1H+31ibwm6SgJEob3FElNSIF8c=";
     };
-    name = "haxeui";
     license = "MIT";
-    publisher = "Matronator";
+    name = "haxeui";
     description = "XML Snippets for HaxeUI components";
+    publisher = "Matronator";
   };
   MatthewNespor-vscode-color-identifiers-mode = {
     pname = "MatthewNespor-vscode-color-identifiers-mode";
@@ -2372,10 +2372,10 @@
       url = "https://open-vsx.org/api/MatthewNespor/vscode-color-identifiers-mode/1.2.0/file/MatthewNespor.vscode-color-identifiers-mode-1.2.0.vsix";
       sha256 = "sha256-K+lZrT1Yc7Ggrmr9JAQs3GVP5pDjaKLS+pwG9oUGN/g=";
     };
-    name = "vscode-color-identifiers-mode";
     license = "GPL-3.0-or-later";
-    publisher = "MatthewNespor";
+    name = "vscode-color-identifiers-mode";
     description = "Gives each identifier a distinct color.";
+    publisher = "MatthewNespor";
   };
   MattiasBaake-vscode-snippets-for-ansible = {
     pname = "MattiasBaake-vscode-snippets-for-ansible";
@@ -2384,10 +2384,10 @@
       url = "https://open-vsx.org/api/MattiasBaake/vscode-snippets-for-ansible/1.1.0/file/MattiasBaake.vscode-snippets-for-ansible-1.1.0.vsix";
       sha256 = "sha256-TRuofCGeTVgPXAYZnCvXXojko+0srwpoOxh7OiYtv0M=";
     };
-    name = "vscode-snippets-for-ansible";
     license = "GPL-3.0";
-    publisher = "MattiasBaake";
+    name = "vscode-snippets-for-ansible";
     description = "Provide an automatically build set of snippets for ansible modules.";
+    publisher = "MattiasBaake";
   };
   MehediDracula-php-namespace-resolver = {
     pname = "MehediDracula-php-namespace-resolver";
@@ -2396,10 +2396,10 @@
       url = "https://open-vsx.org/api/MehediDracula/php-namespace-resolver/1.1.8/file/MehediDracula.php-namespace-resolver-1.1.8.vsix";
       sha256 = "sha256-Vl8ZSInXZZQYe8Xn73FmcI9OIe6iZb6MfOPL3ZR0jSU=";
     };
-    name = "php-namespace-resolver";
     license = "MIT";
-    publisher = "MehediDracula";
+    name = "php-namespace-resolver";
     description = "Import and expand php namespaces";
+    publisher = "MehediDracula";
   };
   MercierCorentin-lustre = {
     pname = "MercierCorentin-lustre";
@@ -2408,10 +2408,10 @@
       url = "https://open-vsx.org/api/MercierCorentin/lustre/0.1.6/file/MercierCorentin.lustre-0.1.6.vsix";
       sha256 = "sha256-76poK/FT9BoBpUKbT68DjWgp8eeS8GDE196mpKw9lqE=";
     };
-    name = "lustre";
     license = "AGPL-3.0";
-    publisher = "MercierCorentin";
+    name = "lustre";
     description = "Lustre syntax highlighting and snippets";
+    publisher = "MercierCorentin";
   };
   Miezhiko-miezhiko = {
     pname = "Miezhiko-miezhiko";
@@ -2420,10 +2420,10 @@
       url = "https://open-vsx.org/api/Miezhiko/miezhiko/0.1.2/file/Miezhiko.miezhiko-0.1.2.vsix";
       sha256 = "sha256-yXY3hx2CMegWcTh9HLTtkZXF0Bzy7pFmtKvW/wdnybY=";
     };
-    name = "miezhiko";
     license = "GPLv3";
-    publisher = "Miezhiko";
+    name = "miezhiko";
     description = "Miezhiko theme for VScode.";
+    publisher = "Miezhiko";
   };
   Mikael-Angular-BeastCode = {
     pname = "Mikael-Angular-BeastCode";
@@ -2432,10 +2432,10 @@
       url = "https://open-vsx.org/api/Mikael/Angular-BeastCode/10.0.3/file/Mikael.Angular-BeastCode-10.0.3.vsix";
       sha256 = "sha256-1VdnnAwU2DAH7MoGDF/XI+MGwrkp0IJCm2XYXevBW90=";
     };
-    name = "Angular-BeastCode";
     license = "MIT";
-    publisher = "Mikael";
+    name = "Angular-BeastCode";
     description = "242 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, ngRx, RxJS, PWA & Testing)";
+    publisher = "Mikael";
   };
   Mikhail-Arkhipov-r = {
     pname = "Mikhail-Arkhipov-r";
@@ -2444,10 +2444,10 @@
       url = "https://open-vsx.org/api/Mikhail-Arkhipov/r/0.0.26/file/Mikhail-Arkhipov.r-0.0.26.vsix";
       sha256 = "sha256-Ffx5gKQkmbQcmlDwYAqXOHoO11bUvSpU8Bdym+4lEpo=";
     };
-    name = "r";
     license = "MIT";
-    publisher = "Mikhail-Arkhipov";
+    name = "r";
     description = "R Tools (IntelliSense, signature help, tooltips and more)";
+    publisher = "Mikhail-Arkhipov";
   };
   Mineiros-terramate = {
     pname = "Mineiros-terramate";
@@ -2456,10 +2456,10 @@
       url = "https://open-vsx.org/api/Mineiros/terramate/0.0.2/file/Mineiros.terramate-0.0.2.vsix";
       sha256 = "sha256-qoe3s7JLg8sjqqMsFium42Am3cRiMo1nkOnE+uan+fc=";
     };
-    name = "terramate";
     license = "Apache";
-    publisher = "Mineiros";
+    name = "terramate";
     description = "VSCode Terramate Extension";
+    publisher = "Mineiros";
   };
   ModestExtensionTeam-modestextension = {
     pname = "ModestExtensionTeam-modestextension";
@@ -2468,10 +2468,10 @@
       url = "https://open-vsx.org/api/ModestExtensionTeam/modestextension/0.0.9/file/ModestExtensionTeam.modestextension-0.0.9.vsix";
       sha256 = "sha256-4YWgMIGeyGwyDAB3KdDx79zxDYEjNFiGdMMdvklJEPM=";
     };
-    name = "modestextension";
     license = "MIT";
-    publisher = "ModestExtensionTeam";
+    name = "modestextension";
     description = "Language support for the Modest Toolset";
+    publisher = "ModestExtensionTeam";
   };
   MohammadHemmati-php-auto-var-suggestion = {
     pname = "MohammadHemmati-php-auto-var-suggestion";
@@ -2480,10 +2480,10 @@
       url = "https://open-vsx.org/api/MohammadHemmati/php-auto-var-suggestion/0.0.4/file/MohammadHemmati.php-auto-var-suggestion-0.0.4.vsix";
       sha256 = "sha256-V9slSNZ+A1AI7zHzWSRXZVAh4wMbS7O1oFVw93mmg5g=";
     };
-    name = "php-auto-var-suggestion";
     license = "GPL-3.0";
-    publisher = "MohammadHemmati";
+    name = "php-auto-var-suggestion";
     description = "this extension can do autocomplete your php variable";
+    publisher = "MohammadHemmati";
   };
   Moosecasa-vscode-acutest-test-adapter = {
     pname = "Moosecasa-vscode-acutest-test-adapter";
@@ -2492,10 +2492,10 @@
       url = "https://open-vsx.org/api/Moosecasa/vscode-acutest-test-adapter/0.0.6/file/Moosecasa.vscode-acutest-test-adapter-0.0.6.vsix";
       sha256 = "sha256-IqsrJu0HNXR2HkNcLT/i+mdrkUMt+BLbP5mWpmfsOr8=";
     };
-    name = "vscode-acutest-test-adapter";
     license = "MIT";
-    publisher = "Moosecasa";
+    name = "vscode-acutest-test-adapter";
     description = "Run your Acutest tests in the Sidebar of Visual Studio Code";
+    publisher = "Moosecasa";
   };
   MyoHlaingWin-vscode-language-pack-mm-uni = {
     pname = "MyoHlaingWin-vscode-language-pack-mm-uni";
@@ -2504,10 +2504,10 @@
       url = "https://open-vsx.org/api/MyoHlaingWin/vscode-language-pack-mm-uni/0.1.129/file/MyoHlaingWin.vscode-language-pack-mm-uni-0.1.129.vsix";
       sha256 = "sha256-S7ONUR6IaJ3PvQrToiUXM0VDElyNPtCkDXkFoBrfpiw=";
     };
-    name = "vscode-language-pack-mm-uni";
     license = "MIT";
-    publisher = "MyoHlaingWin";
+    name = "vscode-language-pack-mm-uni";
     description = "\4121\4156\4116\4154\4121\4140(\4119\4121\4140) \4120\4140\4126\4140\4117\4156\4116\4154";
+    publisher = "MyoHlaingWin";
   };
   Nash-awesome-flutter-snippets = {
     pname = "Nash-awesome-flutter-snippets";
@@ -2516,10 +2516,10 @@
       url = "https://open-vsx.org/api/Nash/awesome-flutter-snippets/3.0.0/file/Nash.awesome-flutter-snippets-3.0.0.vsix";
       sha256 = "sha256-SyQ8dJ2M3RYJC1uf7gnDCMSa9i+t7k+uhR7M45gkgGU=";
     };
-    name = "awesome-flutter-snippets";
     license = "Apache-2.0";
-    publisher = "Nash";
+    name = "awesome-flutter-snippets";
     description = "Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes";
+    publisher = "Nash";
   };
   NativeScript-nativescript = {
     pname = "NativeScript-nativescript";
@@ -2528,10 +2528,10 @@
       url = "https://open-vsx.org/api/NativeScript/nativescript/0.12.0/file/NativeScript.nativescript-0.12.0.vsix";
       sha256 = "sha256-pmksSTVawPWi9dg4LibnYk+7U9bskuTkgKvyjvQezq8=";
     };
-    name = "nativescript";
     license = "Apache-2.0";
-    publisher = "NativeScript";
+    name = "nativescript";
     description = "NativeScript support for Visual Studio Code";
+    publisher = "NativeScript";
   };
   Natizyskunk-sftp = {
     pname = "Natizyskunk-sftp";
@@ -2540,10 +2540,10 @@
       url = "https://open-vsx.org/api/Natizyskunk/sftp/1.15.14/file/Natizyskunk.sftp-1.15.14.vsix";
       sha256 = "sha256-7ZBa181S1PZbDHtLDWPy5zShNdeezSpwH1F0WyUIB9E=";
     };
-    name = "sftp";
     license = "MIT";
-    publisher = "Natizyskunk";
+    name = "sftp";
     description = "SFTP/FTP sync";
+    publisher = "Natizyskunk";
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
@@ -2552,10 +2552,10 @@
       url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.10/file/Nightrains.robloxlsp-1.5.10.vsix";
       sha256 = "sha256-r/ptiMZfPVGYbrQSSb+1S2okNYme0Plg8LsL6WX5gbY=";
     };
-    name = "robloxlsp";
     license = "MIT";
-    publisher = "Nightrains";
+    name = "robloxlsp";
     description = "Roblox Luau Language Server.";
+    publisher = "Nightrains";
   };
   OBKoro1-autoCommit = {
     pname = "OBKoro1-autoCommit";
@@ -2564,10 +2564,10 @@
       url = "https://open-vsx.org/api/OBKoro1/autoCommit/1.0.9/file/OBKoro1.autoCommit-1.0.9.vsix";
       sha256 = "sha256-rs1WpAS94McvRmIlIte7wvkx1JTfjwQhAgmLAp9y9bI=";
     };
-    name = "autoCommit";
     license = "MIT";
-    publisher = "OBKoro1";
+    name = "autoCommit";
     description = "\33258\21160\25552\20132commit\21040github";
+    publisher = "OBKoro1";
   };
   OBKoro1-korofileheader = {
     pname = "OBKoro1-korofileheader";
@@ -2576,10 +2576,10 @@
       url = "https://open-vsx.org/api/OBKoro1/korofileheader/4.9.1/file/OBKoro1.korofileheader-4.9.1.vsix";
       sha256 = "sha256-iCP1nHyqUorShS1wLNBhw5xkHK65XVk0Q5Cg1in4tSU=";
     };
-    name = "korofileheader";
     license = "MIT";
-    publisher = "OBKoro1";
+    name = "korofileheader";
     description = "\29992\20110\29983\25104\25991\20214\22836\37096\27880\37322\21644\20989\25968\27880\37322\30340\25554\20214\65292\25903\25345\25152\26377\20027\27969\35821\35328,\21151\33021\24378\22823\65292\28789\27963\26041\20415\65292\25991\26723\40784\20840\65292\39135\29992\31616\21333\65281";
+    publisher = "OBKoro1";
   };
   OlegKunitsyn-gnucobol-debug = {
     pname = "OlegKunitsyn-gnucobol-debug";
@@ -2588,10 +2588,10 @@
       url = "https://open-vsx.org/api/OlegKunitsyn/gnucobol-debug/2.31.37/file/OlegKunitsyn.gnucobol-debug-2.31.37.vsix";
       sha256 = "sha256-M4c0X0D3JRU2PtGdVgbx8fIkGGeIKNgQGTOQA9fyU2c=";
     };
-    name = "gnucobol-debug";
     license = "GPL-3.0";
-    publisher = "OlegKunitsyn";
+    name = "gnucobol-debug";
     description = "Debug or execute COBOL code. No mainframe required.";
+    publisher = "OlegKunitsyn";
   };
   Orta-vscode-jest = {
     pname = "Orta-vscode-jest";
@@ -2600,10 +2600,10 @@
       url = "https://open-vsx.org/api/Orta/vscode-jest/4.2.1/file/Orta.vscode-jest-4.2.1.vsix";
       sha256 = "sha256-dd1o1NEHYVPMijdCcJSIL5TC9piGOYmY+LS3UOIMjKk=";
     };
-    name = "vscode-jest";
     license = "MIT";
-    publisher = "Orta";
+    name = "vscode-jest";
     description = "Use Facebook's Jest With Pleasure.";
+    publisher = "Orta";
   };
   PKief-angular-component-extractor = {
     pname = "PKief-angular-component-extractor";
@@ -2612,10 +2612,10 @@
       url = "https://open-vsx.org/api/PKief/angular-component-extractor/0.1.0/file/PKief.angular-component-extractor-0.1.0.vsix";
       sha256 = "sha256-fDTalVZ6qHwNCS2XF7/3mQgIboc2pr+lq003N8W7byU=";
     };
-    name = "angular-component-extractor";
     license = "MIT";
-    publisher = "PKief";
+    name = "angular-component-extractor";
     description = "Helper to extract components from templates in Angular";
+    publisher = "PKief";
   };
   PKief-markdown-checkbox = {
     pname = "PKief-markdown-checkbox";
@@ -2624,10 +2624,10 @@
       url = "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.0/file/PKief.markdown-checkbox-1.8.0.vsix";
       sha256 = "sha256-e0lku9cGgfSMCk2mgowsPPtCVmkE92fgC3AZWYW87qc=";
     };
-    name = "markdown-checkbox";
     license = "MIT";
-    publisher = "PKief";
+    name = "markdown-checkbox";
     description = "With this extension you can create checkboxes in markdown and mark them quickly.";
+    publisher = "PKief";
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
@@ -2636,10 +2636,10 @@
       url = "https://open-vsx.org/api/PKief/material-icon-theme/4.17.0/file/PKief.material-icon-theme-4.17.0.vsix";
       sha256 = "sha256-9GCyV798ghilJcJDd97aC5LEt72MefNjvYXsAQDDtbY=";
     };
-    name = "material-icon-theme";
     license = "MIT";
-    publisher = "PKief";
+    name = "material-icon-theme";
     description = "Material Design Icons for Visual Studio Code";
+    publisher = "PKief";
   };
   PKief-material-product-icons = {
     pname = "PKief-material-product-icons";
@@ -2648,10 +2648,10 @@
       url = "https://open-vsx.org/api/PKief/material-product-icons/1.3.0/file/PKief.material-product-icons-1.3.0.vsix";
       sha256 = "sha256-c8DENIYvNQNA8ORGkz87LKiq75MWiheoDMbmvf3Owtc=";
     };
-    name = "material-product-icons";
     license = "MIT";
-    publisher = "PKief";
+    name = "material-product-icons";
     description = "Product Icon Theme with Material Icons for VS Code";
+    publisher = "PKief";
   };
   PROxZIMA-sweetdracula = {
     pname = "PROxZIMA-sweetdracula";
@@ -2660,10 +2660,10 @@
       url = "https://open-vsx.org/api/PROxZIMA/sweetdracula/1.0.8/file/PROxZIMA.sweetdracula-1.0.8.vsix";
       sha256 = "sha256-BH/9/HnnF7ovxdUhpOEIQ375uVX5CKuR0XWz5f1tfTw=";
     };
-    name = "sweetdracula";
     license = "MIT";
-    publisher = "PROxZIMA";
+    name = "sweetdracula";
     description = "Sweet Dracula \8212\160A beautiful, darker - Dracula fork";
+    publisher = "PROxZIMA";
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
@@ -2672,10 +2672,10 @@
       url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.1/file/PascalReitermann93.vscode-yaml-sort-5.3.1.vsix";
       sha256 = "sha256-DBlhkr0O97mg3XJro30Cv308NtsluDK63p2+U946OvM=";
     };
-    name = "vscode-yaml-sort";
     license = "MIT";
-    publisher = "PascalReitermann93";
+    name = "vscode-yaml-sort";
     description = "This VS Code extension exposes the possibility to sort, format and validate yaml files.";
+    publisher = "PascalReitermann93";
   };
   PauloAboimPinto-avalonia-vscode-extension = {
     pname = "PauloAboimPinto-avalonia-vscode-extension";
@@ -2684,10 +2684,10 @@
       url = "https://open-vsx.org/api/PauloAboimPinto/avalonia-vscode-extension/0.0.1/file/PauloAboimPinto.avalonia-vscode-extension-0.0.1.vsix";
       sha256 = "sha256-15Dcxc8L1GCTk7TPlU6NX7MjPv/8bxcsbhm4nMwRMs0=";
     };
-    name = "avalonia-vscode-extension";
     license = "MIT";
-    publisher = "PauloAboimPinto";
+    name = "avalonia-vscode-extension";
     description = "Create projects using Avalonia templates; Avalonia AXAML code-completion.";
+    publisher = "PauloAboimPinto";
   };
   PeggyJS-peggy-language = {
     pname = "PeggyJS-peggy-language";
@@ -2696,10 +2696,10 @@
       url = "https://open-vsx.org/api/PeggyJS/peggy-language/2.2.0/file/PeggyJS.peggy-language-2.2.0.vsix";
       sha256 = "sha256-mMHv8QLf2yfJI9o1Vsekpo3WjifN9t1pYxMb9+DjXVI=";
     };
-    name = "peggy-language";
     license = "MIT";
-    publisher = "PeggyJS";
+    name = "peggy-language";
     description = "Syntax highlighting and error reporting for Peggy";
+    publisher = "PeggyJS";
   };
   PereLabat-make-lldb-config = {
     pname = "PereLabat-make-lldb-config";
@@ -2708,10 +2708,10 @@
       url = "https://open-vsx.org/api/PereLabat/make-lldb-config/0.4.0/file/PereLabat.make-lldb-config-0.4.0.vsix";
       sha256 = "sha256-Qro6mgwZ6MUxmLHu5ZJsiek4cB+3ciE4Vsfc99FsQog=";
     };
-    name = "make-lldb-config";
     license = "GPL-3.0";
-    publisher = "PereLabat";
+    name = "make-lldb-config";
     description = "Simple run configuration provider for make and lldb";
+    publisher = "PereLabat";
   };
   PereLabat-vpl = {
     pname = "PereLabat-vpl";
@@ -2720,10 +2720,10 @@
       url = "https://open-vsx.org/api/PereLabat/vpl/0.3.7/file/PereLabat.vpl-0.3.7.vsix";
       sha256 = "sha256-MzgV8QJABVepw3gZX0noPxYxYG/Y+kgV+bdpBA4PN7I=";
     };
-    name = "vpl";
     license = "GPL-3.0";
-    publisher = "PereLabat";
+    name = "vpl";
     description = "VPL Client extension for VSCode";
+    publisher = "PereLabat";
   };
   Pivotal-vscode-boot-dev-pack = {
     pname = "Pivotal-vscode-boot-dev-pack";
@@ -2732,10 +2732,10 @@
       url = "https://open-vsx.org/api/Pivotal/vscode-boot-dev-pack/0.1.0/file/Pivotal.vscode-boot-dev-pack-0.1.0.vsix";
       sha256 = "sha256-09mDxdeltQU+ePLTmNTJ6CiyFDcsevKbYTuEiC3kTtE=";
     };
-    name = "vscode-boot-dev-pack";
     license = "EPL-1.0";
-    publisher = "Pivotal";
+    name = "vscode-boot-dev-pack";
     description = "A collection of extensions for developing Spring Boot applications";
+    publisher = "Pivotal";
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
@@ -2744,10 +2744,10 @@
       url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.33.0/file/Pivotal.vscode-bosh-1.33.0.vsix";
       sha256 = "sha256-T4rrpswPet9qgaxEQobOrCr1aLA+JNoat23mLUrXJOk=";
     };
-    name = "vscode-bosh";
     license = "EPL-1.0";
-    publisher = "Pivotal";
+    name = "vscode-bosh";
     description = "Provides validation and content assist for various Bosh configuration files";
+    publisher = "Pivotal";
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
@@ -2756,10 +2756,10 @@
       url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.33.0/file/Pivotal.vscode-concourse-1.33.0.vsix";
       sha256 = "sha256-X2Ws3JcsFijYZkxJipMWqyHmEqRRI2HfKLJWH3Vd+fE=";
     };
-    name = "vscode-concourse";
     license = "EPL-1.0";
-    publisher = "Pivotal";
+    name = "vscode-concourse";
     description = "Provides validation and content assist for Concourse CI pipeline and task configuration yml files";
+    publisher = "Pivotal";
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
@@ -2768,10 +2768,10 @@
       url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.33.0/file/Pivotal.vscode-manifest-yaml-1.33.0.vsix";
       sha256 = "sha256-xtpK+yuel47XYqcYp4SpGDqXznnF5EG8BvTcOLcVSD4=";
     };
-    name = "vscode-manifest-yaml";
     license = "EPL-1.0";
-    publisher = "Pivotal";
+    name = "vscode-manifest-yaml";
     description = "Adds linting, content assist and hoverinfo's for Cloudfoundry Deployment Manifests (a.k.a. `manifest.yml`) files.";
+    publisher = "Pivotal";
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
@@ -2780,10 +2780,10 @@
       url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.33.0/file/Pivotal.vscode-spring-boot-1.33.0.vsix";
       sha256 = "sha256-4o9EvLboeVeXoYmVyzCFKpgkuFZi4ND8BYkGe9wBW5U=";
     };
-    name = "vscode-spring-boot";
     license = "EPL-1.0";
-    publisher = "Pivotal";
+    name = "vscode-spring-boot";
     description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.";
+    publisher = "Pivotal";
   };
   PolyMeilex-wgsl = {
     pname = "PolyMeilex-wgsl";
@@ -2792,10 +2792,10 @@
       url = "https://open-vsx.org/api/PolyMeilex/wgsl/0.1.12/file/PolyMeilex.wgsl-0.1.12.vsix";
       sha256 = "sha256-IR7C6smDtG92aNXfdm1z12eB+f11avfXXTsupR1H5lo=";
     };
-    name = "wgsl";
     license = "MIT";
-    publisher = "PolyMeilex";
+    name = "wgsl";
     description = "Syntax highlight for WGSL files";
+    publisher = "PolyMeilex";
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
@@ -2804,10 +2804,10 @@
       url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.6.1/file/PrateekMahendrakar.prettyxml-1.6.1.vsix";
       sha256 = "sha256-O9IJJUg3Ewc6N1duK3BzhU4e9nWD6q0UELC4M4I4PU0=";
     };
-    name = "prettyxml";
     license = "MIT";
-    publisher = "PrateekMahendrakar";
+    name = "prettyxml";
     description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.";
+    publisher = "PrateekMahendrakar";
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
@@ -2816,10 +2816,10 @@
       url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.5.0/file/PrateekMahendrakar.resxpress-4.5.0.vsix";
       sha256 = "sha256-5yRT3H08tPyE1jz69vrCOE4S0gxuMyDEHJ25ewTD5ns=";
     };
-    name = "resxpress";
     license = "MIT";
-    publisher = "PrateekMahendrakar";
+    name = "resxpress";
     description = "Resx editor, previewer and sorting extension";
+    publisher = "PrateekMahendrakar";
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
@@ -2828,22 +2828,22 @@
       url = "https://open-vsx.org/api/Prisma/prisma/3.14.0/file/Prisma.prisma-3.14.0.vsix";
       sha256 = "sha256-p1FnyVfigVXHa+yfdosjro+/2yypsx167QCKxpWotCU=";
     };
-    name = "prisma";
     license = "Apache-2.0";
-    publisher = "Prisma";
+    name = "prisma";
     description = "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.";
+    publisher = "Prisma";
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.998";
+    version = "31.0.999";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.998/file/Prisma.prisma-insider-31.0.998.vsix";
-      sha256 = "sha256-OtBaP3CcLKFXhVQ6i9Q/I7650B5QRl1AoF5nkUYZ1SU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.999/file/Prisma.prisma-insider-31.0.999.vsix";
+      sha256 = "sha256-IjVbaXq+yCvG8fcnuTtsOalsDonn4D7Z05JRRqzCDGQ=";
     };
-    name = "prisma-insider";
     license = "Apache-2.0";
-    publisher = "Prisma";
+    name = "prisma-insider";
     description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).";
+    publisher = "Prisma";
   };
   Prisma-vscode-graphql = {
     pname = "Prisma-vscode-graphql";
@@ -2852,10 +2852,10 @@
       url = "https://open-vsx.org/api/Prisma/vscode-graphql/0.3.7/file/Prisma.vscode-graphql-0.3.7.vsix";
       sha256 = "sha256-6Mz/dc0z+LYb13gKIW2fTnolhYL2eU8NM38Ol3ZRPCk=";
     };
-    name = "vscode-graphql";
     license = "MIT";
-    publisher = "Prisma";
+    name = "vscode-graphql";
     description = "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.";
+    publisher = "Prisma";
   };
   Qeenon-hot-emo-theme = {
     pname = "Qeenon-hot-emo-theme";
@@ -2864,10 +2864,10 @@
       url = "https://open-vsx.org/api/Qeenon/hot-emo-theme/0.0.5/file/Qeenon.hot-emo-theme-0.0.5.vsix";
       sha256 = "sha256-VOs82rjnih84uh6AqqRqUVZtWaFtwCHtiuim0ODcuZM=";
     };
-    name = "hot-emo-theme";
     license = "ISC";
-    publisher = "Qeenon";
+    name = "hot-emo-theme";
     description = "Hot Emo theme for VScode.";
+    publisher = "Qeenon";
   };
   RDebugger-r-debugger = {
     pname = "RDebugger-r-debugger";
@@ -2876,10 +2876,10 @@
       url = "https://open-vsx.org/api/RDebugger/r-debugger/0.4.7/file/RDebugger.r-debugger-0.4.7.vsix";
       sha256 = "sha256-R4j8hwC/q90spomz0vHKuS7TYNYpEG3d6SWg7ohQio4=";
     };
-    name = "r-debugger";
     license = "MIT";
-    publisher = "RDebugger";
+    name = "r-debugger";
     description = "R Debugger for VS Code";
+    publisher = "RDebugger";
   };
   REditorSupport-r-lsp = {
     pname = "REditorSupport-r-lsp";
@@ -2888,10 +2888,10 @@
       url = "https://open-vsx.org/api/REditorSupport/r-lsp/0.1.14/file/REditorSupport.r-lsp-0.1.14.vsix";
       sha256 = "sha256-llj5CMhZ156UntFLD5Hmd/9MsZ0sRkJixJvZA+2EFno=";
     };
-    name = "r-lsp";
     license = "MIT";
-    publisher = "REditorSupport";
+    name = "r-lsp";
     description = "R LSP Client for VS Code";
+    publisher = "REditorSupport";
   };
   RandomChance-logstash = {
     pname = "RandomChance-logstash";
@@ -2900,10 +2900,10 @@
       url = "https://open-vsx.org/api/RandomChance/logstash/0.0.4/file/RandomChance.logstash-0.0.4.vsix";
       sha256 = "sha256-hB1zUIfZPTk91f4IGr9HJkWnawAurm3yqh3aFfoBpeQ=";
     };
-    name = "logstash";
     license = "MIT";
-    publisher = "RandomChance";
+    name = "logstash";
     description = "Adds syntax highlighting for logstash configuration files.";
+    publisher = "RandomChance";
   };
   RandomFractalsInc-geo-data-viewer = {
     pname = "RandomFractalsInc-geo-data-viewer";
@@ -2912,10 +2912,10 @@
       url = "https://open-vsx.org/api/RandomFractalsInc/geo-data-viewer/2.3.0/file/RandomFractalsInc.geo-data-viewer-2.3.0.vsix";
       sha256 = "sha256-U0hcExrjxPHXwxPvg3Jd6BI6v0R5SQ+1LRZY4l2w6jI=";
     };
-    name = "geo-data-viewer";
     license = "Apache-2.0";
-    publisher = "RandomFractalsInc";
+    name = "geo-data-viewer";
     description = "\128506\65039 Geo Data Viewer w/0 Py \128013 || pyWidgets || pandas \128060 ||  @reactjs  \9883\65039 required to gen. some snazzy maps \128506\65039 with keplerGL ...";
+    publisher = "RandomFractalsInc";
   };
   RandomFractalsInc-js-notebook-inspector = {
     pname = "RandomFractalsInc-js-notebook-inspector";
@@ -2924,10 +2924,10 @@
       url = "https://open-vsx.org/api/RandomFractalsInc/js-notebook-inspector/1.5.0/file/RandomFractalsInc.js-notebook-inspector-1.5.0.vsix";
       sha256 = "sha256-ZvoY4U/gQ51xK0ipXeQtOHXrbI3nIWBzyVGwQZhz9as=";
     };
-    name = "js-notebook-inspector";
     license = "Apache-2.0";
-    publisher = "RandomFractalsInc";
+    name = "js-notebook-inspector";
     description = "JS Notebook \128211 Inspector \128373\65039 -> vscode extension for Interactive Preview of Observable JS Notebooks \128218 & Notebook \128211 Nodes \9095 & Cells \8983 source code.";
+    publisher = "RandomFractalsInc";
   };
   RandomFractalsInc-snippets-viewer = {
     pname = "RandomFractalsInc-snippets-viewer";
@@ -2936,10 +2936,10 @@
       url = "https://open-vsx.org/api/RandomFractalsInc/snippets-viewer/1.9.0/file/RandomFractalsInc.snippets-viewer-1.9.0.vsix";
       sha256 = "sha256-Em95Kr6E9ryBZeo8p06YCsMM14YepjCECXQfxkA7dTw=";
     };
-    name = "snippets-viewer";
     license = "Apache-2.0";
-    publisher = "RandomFractalsInc";
+    name = "snippets-viewer";
     description = "VSCode Snippets Viewer";
+    publisher = "RandomFractalsInc";
   };
   RandomFractalsInc-vscode-data-preview = {
     pname = "RandomFractalsInc-vscode-data-preview";
@@ -2948,10 +2948,10 @@
       url = "https://open-vsx.org/api/RandomFractalsInc/vscode-data-preview/2.2.0/file/RandomFractalsInc.vscode-data-preview-2.2.0.vsix";
       sha256 = "sha256-jsfXO26BHQ67mH6WrjXBo3slfAyIi8JI9Jhh6D2zWe4=";
     };
-    name = "vscode-data-preview";
     license = "Apache-2.0";
-    publisher = "RandomFractalsInc";
+    name = "vscode-data-preview";
     description = "Data Preview \127544 extension for importing \128228 viewing \128270 slicing \128298 dicing \127922 charting \128202 & exporting \128229 large JSON array/config, YAML, Apache Arrow, Avro & Excel data files";
+    publisher = "RandomFractalsInc";
   };
   RedVanWorkshop-sfcc-cartridge-overrides = {
     pname = "RedVanWorkshop-sfcc-cartridge-overrides";
@@ -2960,10 +2960,10 @@
       url = "https://open-vsx.org/api/RedVanWorkshop/sfcc-cartridge-overrides/1.0.0/file/RedVanWorkshop.sfcc-cartridge-overrides-1.0.0.vsix";
       sha256 = "sha256-EfrLlAXWHAXFPo+U8AXw1p2dgsu1lHxZj4NjLd7QcAE=";
     };
-    name = "sfcc-cartridge-overrides";
     license = "MIT";
-    publisher = "RedVanWorkshop";
+    name = "sfcc-cartridge-overrides";
     description = "VS Code Extension to Display SFCC Cartridge Overrides";
+    publisher = "RedVanWorkshop";
   };
   Remisa-shellman = {
     pname = "Remisa-shellman";
@@ -2972,10 +2972,10 @@
       url = "https://open-vsx.org/api/Remisa/shellman/5.6.0/file/Remisa.shellman-5.6.0.vsix";
       sha256 = "sha256-GeX5HziTzqSiintOSDh7xBl3L6CmJdzPXyuID1U4tAs=";
     };
-    name = "shellman";
     license = "MIT";
-    publisher = "Remisa";
+    name = "shellman";
     description = "Shell script snippet";
+    publisher = "Remisa";
   };
   RobbOwen-synthwave-vscode = {
     pname = "RobbOwen-synthwave-vscode";
@@ -2984,10 +2984,10 @@
       url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.11/file/RobbOwen.synthwave-vscode-0.1.11.vsix";
       sha256 = "sha256-hcPkTww7mwM+KL+rBjqfu7hD/DwX1/mTXp5srkY0pfk=";
     };
-    name = "synthwave-vscode";
     license = "MIT";
-    publisher = "RobbOwen";
+    name = "synthwave-vscode";
     description = "A Synthwave-inspired colour theme to satisfy your neon dreams";
+    publisher = "RobbOwen";
   };
   RobinBoers-frontend-delight = {
     pname = "RobinBoers-frontend-delight";
@@ -2996,10 +2996,10 @@
       url = "https://open-vsx.org/api/RobinBoers/frontend-delight/1.0.9/file/RobinBoers.frontend-delight-1.0.9.vsix";
       sha256 = "sha256-gpGsK64YPBYR19inYPs3s9555tj9mNStLBQ93eUz8KM=";
     };
-    name = "frontend-delight";
     license = "MIT";
-    publisher = "RobinBoers";
+    name = "frontend-delight";
     description = "Frontend Delight color scheme for VSCode";
+    publisher = "RobinBoers";
   };
   Robouden-robouden-dark = {
     pname = "Robouden-robouden-dark";
@@ -3008,10 +3008,10 @@
       url = "https://open-vsx.org/api/Robouden/robouden-dark/0.9.6/file/Robouden.robouden-dark-0.9.6.vsix";
       sha256 = "sha256-NDrNFqGHksN9IT0KsVa+OOV1efd4qnEmNkMSN/NfYPU=";
     };
-    name = "robouden-dark";
     license = "MIT";
-    publisher = "Robouden";
+    name = "robouden-dark";
     description = "";
+    publisher = "Robouden";
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
@@ -3020,10 +3020,10 @@
       url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.32.1/file/RokuCommunity.brightscript-2.32.1.vsix";
       sha256 = "sha256-b8fY9ji/W5PUQrxls1L58pujFLYImqSLn9P/0Nq1Y18=";
     };
-    name = "brightscript";
     license = "MIT";
-    publisher = "RokuCommunity";
+    name = "brightscript";
     description = "Language support for Roku's BrightScript language.";
+    publisher = "RokuCommunity";
   };
   RomainMenke-csstools-design-tokens = {
     pname = "RomainMenke-csstools-design-tokens";
@@ -3032,10 +3032,10 @@
       url = "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.0.2/file/RomainMenke.csstools-design-tokens-1.0.2.vsix";
       sha256 = "sha256-sYdJ89+/v/jgvFxPne1sHAot4LMpErMGtygUdyxEct8=";
     };
-    name = "csstools-design-tokens";
     license = "MIT";
-    publisher = "RomainMenke";
+    name = "csstools-design-tokens";
     description = "Beta extension to enable auto complete and IDE support for CSSTools Design Tokens";
+    publisher = "RomainMenke";
   };
   RoweWilsonFrederiskHolme-wikitext = {
     pname = "RoweWilsonFrederiskHolme-wikitext";
@@ -3044,10 +3044,10 @@
       url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.4/file/RoweWilsonFrederiskHolme.wikitext-3.6.4.vsix";
       sha256 = "sha256-J02kLQrQR+OGF/GXtqVl6S8W/Hf++Um0v7b9JkFcXVE=";
     };
-    name = "wikitext";
     license = "MIT";
-    publisher = "RoweWilsonFrederiskHolme";
+    name = "wikitext";
     description = "Wikitext is a document written in a wiki markup language. This extension provides functional support for the Wikitext language with MediaWiki such as Wikipedia.";
+    publisher = "RoweWilsonFrederiskHolme";
   };
   SDTTTTT-bangumiopen = {
     pname = "SDTTTTT-bangumiopen";
@@ -3056,10 +3056,10 @@
       url = "https://open-vsx.org/api/SDTTTTT/bangumiopen/2.2.7/file/SDTTTTT.bangumiopen-2.2.7.vsix";
       sha256 = "sha256-BCwlwesO4m8Xzj1Ni7SFqyWBc/A4wAer49wLaj5X0y4=";
     };
-    name = "bangumiopen";
     license = "MIT";
-    publisher = "SDTTTTT";
+    name = "bangumiopen";
     description = "Support Browse Bangumi for vscode.";
+    publisher = "SDTTTTT";
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
@@ -3068,10 +3068,10 @@
       url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.30/file/SPGoding.datapack-language-server-3.3.30.vsix";
       sha256 = "sha256-qNdMUsiuEJhnvCsSG1ovE4YRxVNsKSX6pUWP8DmkFII=";
     };
-    name = "datapack-language-server";
     license = "MIT";
-    publisher = "SPGoding";
+    name = "datapack-language-server";
     description = "Heavy language features for Minecraft: Java Edition data pack files";
+    publisher = "SPGoding";
   };
   STNE-stnescript-support = {
     pname = "STNE-stnescript-support";
@@ -3080,10 +3080,10 @@
       url = "https://open-vsx.org/api/STNE/stnescript-support/1.0.2/file/STNE.stnescript-support-1.0.2.vsix";
       sha256 = "sha256-yBu+cMRRh2EfukAEm3Vw2sWu+O8gSdonAcwCTXqD5aE=";
     };
-    name = "stnescript-support";
     license = "MIT";
-    publisher = "STNE";
+    name = "stnescript-support";
     description = "Provides formatting, syntax highlighting and suggestions for .stne-Files";
+    publisher = "STNE";
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
@@ -3092,10 +3092,10 @@
       url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.1.0/file/Sarrus.sourcepawn-vscode-3.1.0.vsix";
       sha256 = "sha256-3BzdbIkLRgi1fxaL0BVu8az+oDufEkhQfOSMff98X5k=";
     };
-    name = "sourcepawn-vscode";
     license = "MIT";
-    publisher = "Sarrus";
+    name = "sourcepawn-vscode";
     description = "SourcePawn highlighting, autocompletion and much more";
+    publisher = "Sarrus";
   };
   SenseTime-kestrel = {
     pname = "SenseTime-kestrel";
@@ -3104,10 +3104,10 @@
       url = "https://open-vsx.org/api/SenseTime/kestrel/0.4.9/file/SenseTime.kestrel-0.4.9.vsix";
       sha256 = "sha256-1BdL5IGA0GAPCgQ0rJIvZ5pG5Eu9i3wKeHxBjde8USs=";
     };
-    name = "kestrel";
     license = "MIT";
-    publisher = "SenseTime";
+    name = "kestrel";
     description = "Tools for develepers of Kestrel";
+    publisher = "SenseTime";
   };
   Serpen-vbsvscode = {
     pname = "Serpen-vbsvscode";
@@ -3116,10 +3116,10 @@
       url = "https://open-vsx.org/api/Serpen/vbsvscode/1.2.1/file/Serpen.vbsvscode-1.2.1.vsix";
       sha256 = "sha256-kiZJX276FjuKxYHu+dY1arkvtI8gQkixvtv4ajMrnXQ=";
     };
-    name = "vbsvscode";
     license = "MIT";
-    publisher = "Serpen";
+    name = "vbsvscode";
     description = "VBScript Language Support";
+    publisher = "Serpen";
   };
   Shan-code-settings-sync = {
     pname = "Shan-code-settings-sync";
@@ -3128,10 +3128,10 @@
       url = "https://open-vsx.org/api/Shan/code-settings-sync/3.4.3/file/Shan.code-settings-sync-3.4.3.vsix";
       sha256 = "sha256-qmWL/IjPeoW57SpU0T9w1KMWuTlV6WTIlzB6vchwtHE=";
     };
-    name = "code-settings-sync";
     license = "MIT";
-    publisher = "Shan";
+    name = "code-settings-sync";
     description = "Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.";
+    publisher = "Shan";
   };
   Shelex-vscode-cy-helper = {
     pname = "Shelex-vscode-cy-helper";
@@ -3140,10 +3140,10 @@
       url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.4.0/file/Shelex.vscode-cy-helper-2.4.0.vsix";
       sha256 = "sha256-ObgahcD4ojMrv1qshPNWs/rVyAIVcJ9YGYygYZRudFc=";
     };
-    name = "vscode-cy-helper";
     license = "Apache-2.0";
-    publisher = "Shelex";
+    name = "vscode-cy-helper";
     description = "Extension for cypress.io testing tool";
+    publisher = "Shelex";
   };
   SimplyDanny-modelica = {
     pname = "SimplyDanny-modelica";
@@ -3152,10 +3152,10 @@
       url = "https://open-vsx.org/api/SimplyDanny/modelica/0.0.4/file/SimplyDanny.modelica-0.0.4.vsix";
       sha256 = "sha256-32y0MioZp7Tdvc4qeN5rUeL4CAJIY27y+PjW0gNscNI=";
     };
-    name = "modelica";
     license = "See LICENSE.txt";
-    publisher = "SimplyDanny";
+    name = "modelica";
     description = "Modelica language support including syntax highlighting, bracket matching and some useful snippets";
+    publisher = "SimplyDanny";
   };
   SirTori-indenticator = {
     pname = "SirTori-indenticator";
@@ -3164,10 +3164,10 @@
       url = "https://open-vsx.org/api/SirTori/indenticator/0.7.0/file/SirTori.indenticator-0.7.0.vsix";
       sha256 = "sha256-9bWd72/4fyPl6AZclXIaEIXI1FE+aVOyLQRtnVYuxNk=";
     };
-    name = "indenticator";
     license = "MIT";
-    publisher = "SirTori";
+    name = "indenticator";
     description = "Highlights your current indent depth";
+    publisher = "SirTori";
   };
   SixtyFPS-sixtyfps-vscode = {
     pname = "SixtyFPS-sixtyfps-vscode";
@@ -3176,10 +3176,10 @@
       url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode/0.1.6/file/SixtyFPS.sixtyfps-vscode-0.1.6.vsix";
       sha256 = "sha256-isv5SDneyOwUpT7J70GhpADM4GW8USGLEz/KtjR110U=";
     };
-    name = "sixtyfps-vscode";
     license = "GPL-3.0";
-    publisher = "SixtyFPS";
+    name = "sixtyfps-vscode";
     description = "SixtyFPS Language extension";
+    publisher = "SixtyFPS";
   };
   SixtyFPS-sixtyfps-vscode-nightly = {
     pname = "SixtyFPS-sixtyfps-vscode-nightly";
@@ -3188,10 +3188,10 @@
       url = "https://open-vsx.org/api/SixtyFPS/sixtyfps-vscode-nightly/2022.2.718/file/SixtyFPS.sixtyfps-vscode-nightly-2022.2.718.vsix";
       sha256 = "sha256-rpXgkolVUtimsnDEoIC+PPQkZXsW8+c+r+I/ndk5pbw=";
     };
-    name = "sixtyfps-vscode-nightly";
     license = "GPL-3.0";
-    publisher = "SixtyFPS";
+    name = "sixtyfps-vscode-nightly";
     description = "SixtyFPS Language extension (Nightly)";
+    publisher = "SixtyFPS";
   };
   Slint-slint = {
     pname = "Slint-slint";
@@ -3200,10 +3200,10 @@
       url = "https://open-vsx.org/api/Slint/slint/0.2.4/file/Slint.slint-0.2.4.vsix";
       sha256 = "sha256-dlVG6GbkX8cYzboXNu4mKLMrJPInc8yFx90rBT21Zcs=";
     };
-    name = "slint";
     license = "GPL-3.0";
-    publisher = "Slint";
+    name = "slint";
     description = "Slint Language extension";
+    publisher = "Slint";
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
@@ -3212,10 +3212,10 @@
       url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.319/file/Slint.slint-nightly-2022.6.319.vsix";
       sha256 = "sha256-rSBDINLlWCUC5KyDnYvSNdD9vC2hzApJPzpvLmTGxG4=";
     };
-    name = "slint-nightly";
     license = "GPL-3.0";
-    publisher = "Slint";
+    name = "slint-nightly";
     description = "Slint Language extension (Nightly)";
+    publisher = "Slint";
   };
   SlySherZ-comment-box = {
     pname = "SlySherZ-comment-box";
@@ -3224,10 +3224,22 @@
       url = "https://open-vsx.org/api/SlySherZ/comment-box/2.2.0/file/SlySherZ.comment-box-2.2.0.vsix";
       sha256 = "sha256-GT2gzNc3HIPOk0eK/wQHnESFMQEZfS+9MAxKv42D1KM=";
     };
-    name = "comment-box";
     license = "MIT";
-    publisher = "SlySherZ";
+    name = "comment-box";
     description = "Add, remove and update highly configurable comment boxes";
+    publisher = "SlySherZ";
+  };
+  Snickerdoodle-snickerdoodle-light = {
+    pname = "Snickerdoodle-snickerdoodle-light";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.1/file/Snickerdoodle.snickerdoodle-light-0.0.1.vsix";
+      sha256 = "sha256-K6KJ4tm+GKLgZ2aXzVvpYw3p4i4NtIuQJBIP+9tacdk=";
+    };
+    license = "MIT";
+    name = "snickerdoodle-light";
+    description = "Snickerdoodle Labs light VSCode theme";
+    publisher = "Snickerdoodle";
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
@@ -3236,10 +3248,10 @@
       url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.4/file/SonarSource.sonarlint-vscode-3.5.4.vsix";
       sha256 = "sha256-AXUrduYJ9CEZL41XAUu2Flgn5URoUqOuUEIXv1nwXU0=";
     };
-    name = "sonarlint-vscode";
     license = "LGPL-3.0";
-    publisher = "SonarSource";
+    name = "sonarlint-vscode";
     description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.";
+    publisher = "SonarSource";
   };
   SonatypeCommunity-vscode-iq-plugin = {
     pname = "SonatypeCommunity-vscode-iq-plugin";
@@ -3248,10 +3260,10 @@
       url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.3/file/SonatypeCommunity.vscode-iq-plugin-1.2.3.vsix";
       sha256 = "sha256-Ac7TAL60E/BiuTobX/DgVWZnK0JPIX/1Nhx3jHa6pCE=";
     };
-    name = "vscode-iq-plugin";
     license = "MIT";
-    publisher = "SonatypeCommunity";
+    name = "vscode-iq-plugin";
     description = "Sonatype Nexus IQ Extension for VSCode";
+    publisher = "SonatypeCommunity";
   };
   SpiralP-classicube-script = {
     pname = "SpiralP-classicube-script";
@@ -3260,10 +3272,10 @@
       url = "https://open-vsx.org/api/SpiralP/classicube-script/2.0.1/file/SpiralP.classicube-script-2.0.1.vsix";
       sha256 = "sha256-/bZbJqKqkTkwDFkOy2ovnJuR3D+2Uopd1y2eqk9eQNs=";
     };
-    name = "classicube-script";
     license = "MIT";
-    publisher = "SpiralP";
+    name = "classicube-script";
     description = "ClassiCube (Not Awesome) Script language support";
+    publisher = "SpiralP";
   };
   SqrTT-prophet = {
     pname = "SqrTT-prophet";
@@ -3272,10 +3284,10 @@
       url = "https://open-vsx.org/api/SqrTT/prophet/1.4.27/file/SqrTT.prophet-1.4.27.vsix";
       sha256 = "sha256-2ABcdfJbKOgUJCR35ucM80sDNCC0FL+UCsRr+9/Ep9s=";
     };
-    name = "prophet";
     license = "MIT";
-    publisher = "SqrTT";
+    name = "prophet";
     description = "Debugger and Uploader for Demandware/Salesforce sandbox";
+    publisher = "SqrTT";
   };
   Stephen-Hamilton-C-black-plus-material = {
     pname = "Stephen-Hamilton-C-black-plus-material";
@@ -3284,10 +3296,10 @@
       url = "https://open-vsx.org/api/Stephen-Hamilton-C/black-plus-material/1.0.2/file/Stephen-Hamilton-C.black-plus-material-1.0.2.vsix";
       sha256 = "sha256-oZEvHsZ3PpPPNEJulIgtSAVh+hOQmtQgV2gV5vbkqlg=";
     };
-    name = "black-plus-material";
     license = "MIT";
-    publisher = "Stephen-Hamilton-C";
+    name = "black-plus-material";
     description = "A fork of Dark+ Material, but more black themed";
+    publisher = "Stephen-Hamilton-C";
   };
   StoneC0der-g-dark-theme = {
     pname = "StoneC0der-g-dark-theme";
@@ -3296,10 +3308,10 @@
       url = "https://open-vsx.org/api/StoneC0der/g-dark-theme/4.3.0/file/StoneC0der.g-dark-theme-4.3.0.vsix";
       sha256 = "sha256-hszUKsA1geVRY2M0FkLZx0yhXGVaV0brahZndX6PZ8M=";
     };
-    name = "g-dark-theme";
     license = "MIT";
-    publisher = "StoneC0der";
+    name = "g-dark-theme";
     description = "A set of dual/unique background themes design to help protect you're eyes while optimizing readability using common but beautiful color palettes uniquely";
+    publisher = "StoneC0der";
   };
   Sudhan-neondark-theme = {
     pname = "Sudhan-neondark-theme";
@@ -3308,10 +3320,10 @@
       url = "https://open-vsx.org/api/Sudhan/neondark-theme/1.2.0/file/Sudhan.neondark-theme-1.2.0.vsix";
       sha256 = "sha256-ouM3TyuIGh4894eWTouJi4uRZpsc2Cnb/p4pMl64qN0=";
     };
-    name = "neondark-theme";
     license = "GPL-3.0";
-    publisher = "Sudhan";
+    name = "neondark-theme";
     description = "An eye-catching neon theme which powerup your code editor into awesome code editor";
+    publisher = "Sudhan";
   };
   Surendrajat-apklab = {
     pname = "Surendrajat-apklab";
@@ -3320,10 +3332,10 @@
       url = "https://open-vsx.org/api/Surendrajat/apklab/1.6.0/file/Surendrajat.apklab-1.6.0.vsix";
       sha256 = "sha256-mF5kIpE4H7K2Kfyj6HTw3yFl81rnes888pa5P288AsE=";
     };
-    name = "apklab";
     license = "AGPL-3.0";
-    publisher = "Surendrajat";
+    name = "apklab";
     description = "Android Reverse-Engineering Workbench";
+    publisher = "Surendrajat";
   };
   Swellaby-vscode-rust-test-adapter = {
     pname = "Swellaby-vscode-rust-test-adapter";
@@ -3332,10 +3344,10 @@
       url = "https://open-vsx.org/api/Swellaby/vscode-rust-test-adapter/0.11.1/file/Swellaby.vscode-rust-test-adapter-0.11.1.vsix";
       sha256 = "sha256-KUylVeRurT0boctISsgQnDtwPua2yYbZH9sJ2FyvnlU=";
     };
-    name = "vscode-rust-test-adapter";
     license = "MIT";
-    publisher = "Swellaby";
+    name = "vscode-rust-test-adapter";
     description = "View and run your Rust tests in the Sidebar of Visual Studio Code";
+    publisher = "Swellaby";
   };
   TOBESOFT-tobesoft-generator-pilot = {
     pname = "TOBESOFT-tobesoft-generator-pilot";
@@ -3344,10 +3356,10 @@
       url = "https://open-vsx.org/api/TOBESOFT/tobesoft-generator-pilot/1.5.10/file/TOBESOFT.tobesoft-generator-pilot-1.5.10.vsix";
       sha256 = "sha256-Wf/AwfiWM2pq9A5X+KtSVDpxPfMDDLhk5gXp987vrfk=";
     };
-    name = "tobesoft-generator-pilot";
     license = "Apache 2.0";
-    publisher = "TOBESOFT";
+    name = "tobesoft-generator-pilot";
     description = "Pilot Project for IoT";
+    publisher = "TOBESOFT";
   };
   TONLabs-everdev = {
     pname = "TONLabs-everdev";
@@ -3356,10 +3368,10 @@
       url = "https://open-vsx.org/api/TONLabs/everdev/1.1.1/file/TONLabs.everdev-1.1.1.vsix";
       sha256 = "sha256-NljzUvskgXOjkWWwpyV4eHKuODAMpSbjL/sSv2K2wPc=";
     };
-    name = "everdev";
     license = "Apache-2.0";
-    publisher = "TONLabs";
+    name = "everdev";
     description = "Everscale Dev Environemnt";
+    publisher = "TONLabs";
   };
   TONLabs-tondev = {
     pname = "TONLabs-tondev";
@@ -3368,10 +3380,10 @@
       url = "https://open-vsx.org/api/TONLabs/tondev/0.5.0/file/TONLabs.tondev-0.5.0.vsix";
       sha256 = "sha256-6rN72+QqA+StEVYaXko+0uS8mqHm/78Kx2/MI67riNY=";
     };
-    name = "tondev";
     license = "Apache-2.0";
-    publisher = "TONLabs";
+    name = "tondev";
     description = "Free TON Development";
+    publisher = "TONLabs";
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
@@ -3380,10 +3392,10 @@
       url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.54/file/TabNine.tabnine-vscode-3.5.54.vsix";
       sha256 = "sha256-5i5FvXAaTzQZrEMMB1ZEKZutsf1651jEi/hafH/6qbM=";
     };
-    name = "tabnine-vscode";
     license = "License at https://tabnine.com/eula";
-    publisher = "TabNine";
+    name = "tabnine-vscode";
     description = "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.";
+    publisher = "TabNine";
   };
   TakumiI-markdowntable = {
     pname = "TakumiI-markdowntable";
@@ -3392,10 +3404,10 @@
       url = "https://open-vsx.org/api/TakumiI/markdowntable/0.7.0/file/TakumiI.markdowntable-0.7.0.vsix";
       sha256 = "sha256-CGCHunLs0sLwUYvoalyNz3+7mwaANeIhapF32nuQRaQ=";
     };
-    name = "markdowntable";
     license = "Apache-2.0";
-    publisher = "TakumiI";
+    name = "markdowntable";
     description = "A minimal extension for markdown table. Add features to edit markdown table.";
+    publisher = "TakumiI";
   };
   Tchoupinax-tilt = {
     pname = "Tchoupinax-tilt";
@@ -3404,10 +3416,10 @@
       url = "https://open-vsx.org/api/Tchoupinax/tilt/1.0.9/file/Tchoupinax.tilt-1.0.9.vsix";
       sha256 = "sha256-xK5rL5yRBO4+ZAPftmWtI7MxIhjQ/JBBRBky8ogg7BE=";
     };
-    name = "tilt";
     license = "";
-    publisher = "Tchoupinax";
+    name = "tilt";
     description = "Tiltfile language support for VSCode (https://tilt.dev/)";
+    publisher = "Tchoupinax";
   };
   TeamHub-teamhub = {
     pname = "TeamHub-teamhub";
@@ -3416,10 +3428,10 @@
       url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.7/file/TeamHub.teamhub-15.0.7.vsix";
       sha256 = "sha256-iHZmMJyEIB7aoLRvKA8tD60cDqrOnbNdHoCBrM7rCU8=";
     };
-    name = "teamhub";
     license = "";
-    publisher = "TeamHub";
+    name = "teamhub";
     description = "Extend VS Code with real-time collaborative superpowers";
+    publisher = "TeamHub";
   };
   Telerik-nativescript = {
     pname = "Telerik-nativescript";
@@ -3428,10 +3440,10 @@
       url = "https://open-vsx.org/api/Telerik/nativescript/0.11.0/file/Telerik.nativescript-0.11.0.vsix";
       sha256 = "sha256-ZGJ4sLaaBl98Vcq+8Oj3VJBaY5JvqTv58TC90qjHBLY=";
     };
-    name = "nativescript";
     license = "Apache-2.0";
-    publisher = "Telerik";
+    name = "nativescript";
     description = "NativeScript support for Visual Studio Code";
+    publisher = "Telerik";
   };
   TheNouillet-symfony-vscode = {
     pname = "TheNouillet-symfony-vscode";
@@ -3440,10 +3452,10 @@
       url = "https://open-vsx.org/api/TheNouillet/symfony-vscode/1.0.2/file/TheNouillet.symfony-vscode-1.0.2.vsix";
       sha256 = "sha256-AmDWIC/VjbdSW6Hz4Xu05P80Yjk5CqVPUQcn7x6/jys=";
     };
-    name = "symfony-vscode";
     license = "MIT";
-    publisher = "TheNouillet";
+    name = "symfony-vscode";
     description = "Debug and autocomplete of Symfony container";
+    publisher = "TheNouillet";
   };
   TheOnlyMrCat-vscode-runscript = {
     pname = "TheOnlyMrCat-vscode-runscript";
@@ -3452,10 +3464,10 @@
       url = "https://open-vsx.org/api/TheOnlyMrCat/vscode-runscript/0.1.0/file/TheOnlyMrCat.vscode-runscript-0.1.0.vsix";
       sha256 = "sha256-U6nwJx5AcIFymdThDcsYEOv7PTfzE1ozUlRXF+eOylA=";
     };
-    name = "vscode-runscript";
     license = "MIT";
-    publisher = "TheOnlyMrCat";
+    name = "vscode-runscript";
     description = "Syntax Highlighter for runscripts";
+    publisher = "TheOnlyMrCat";
   };
   TheaFlowers-qalc = {
     pname = "TheaFlowers-qalc";
@@ -3464,10 +3476,10 @@
       url = "https://open-vsx.org/api/TheaFlowers/qalc/2021.8.30/file/TheaFlowers.qalc-2021.8.30.vsix";
       sha256 = "sha256-gvuAzsy6dM9QfUpUpOiC6Qqj5f07k+YWQdv7JJ6mBXg=";
     };
-    name = "qalc";
     license = "MIT";
-    publisher = "TheaFlowers";
+    name = "qalc";
     description = "Easily evaluate mathematic expressions with physical quantities and more using libqalculate";
+    publisher = "TheaFlowers";
   };
   TheaFlowers-witch-hazel = {
     pname = "TheaFlowers-witch-hazel";
@@ -3476,10 +3488,10 @@
       url = "https://open-vsx.org/api/TheaFlowers/witch-hazel/2021.10.16/file/TheaFlowers.witch-hazel-2021.10.16.vsix";
       sha256 = "sha256-AtAnZjEWzQybpZwpNS1cP0DXX2TCLkgDvFVJSQtFWbQ=";
     };
-    name = "witch-hazel";
     license = "Apache-2.0";
-    publisher = "TheaFlowers";
+    name = "witch-hazel";
     description = "A dark and feminine color scheme";
+    publisher = "TheaFlowers";
   };
   Tobermory-es6-string-html = {
     pname = "Tobermory-es6-string-html";
@@ -3488,10 +3500,10 @@
       url = "https://open-vsx.org/api/Tobermory/es6-string-html/2.11.0/file/Tobermory.es6-string-html-2.11.0.vsix";
       sha256 = "sha256-rNpo2dexuS2oRvOFuO6czCuVUR0Re4qACGXb46uOqNI=";
     };
-    name = "es6-string-html";
     license = "MIT";
-    publisher = "Tobermory";
+    name = "es6-string-html";
     description = "Syntax highlighting in es6 multiline strings";
+    publisher = "Tobermory";
   };
   Tobiah-unity-tools = {
     pname = "Tobiah-unity-tools";
@@ -3500,10 +3512,10 @@
       url = "https://open-vsx.org/api/Tobiah/unity-tools/1.2.12/file/Tobiah.unity-tools-1.2.12.vsix";
       sha256 = "sha256-OsUnQXYQgqaBtUJIcsP559435tU0n9Rg4OVZM80fVGQ=";
     };
-    name = "unity-tools";
     license = "MIT";
-    publisher = "Tobiah";
+    name = "unity-tools";
     description = "Various tools to help with Unity development";
+    publisher = "Tobiah";
   };
   Trelent-trelent = {
     pname = "Trelent-trelent";
@@ -3512,10 +3524,10 @@
       url = "https://open-vsx.org/api/Trelent/trelent/1.3.1/file/Trelent.trelent-1.3.1.vsix";
       sha256 = "sha256-j6e2LIO9yaEcs58SYr+ND5i6BGAD3+fTcJgEh/hdGgs=";
     };
-    name = "trelent";
     license = "We use the \8220Commons Clause\8221 License Condition v1.0 with the MIT License.";
-    publisher = "Trelent";
+    name = "trelent";
     description = "We write docstrings for your code automatically!";
+    publisher = "Trelent";
   };
   TshakaEricLekholoane-hy = {
     pname = "TshakaEricLekholoane-hy";
@@ -3524,22 +3536,22 @@
       url = "https://open-vsx.org/api/TshakaEricLekholoane/hy/0.0.17/file/TshakaEricLekholoane.hy-0.0.17.vsix";
       sha256 = "sha256-JLX3CaJFiZuDdsvdDlgMyQVP7Ar5BWDJPyQQmDd0/Oo=";
     };
-    name = "hy";
     license = "MIT";
-    publisher = "TshakaEricLekholoane";
+    name = "hy";
     description = "Adds syntax highlighting and bracket matching in Hy files.";
+    publisher = "TshakaEricLekholoane";
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.2.0";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.0/file/Turiiya.keyword-o-mat-0.2.0.vsix";
-      sha256 = "sha256-reoVHF1ZzlHFK1aWqClNMiJXvCoMB1d41x0jK73KW7U=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.3/file/Turiiya.keyword-o-mat-0.2.3.vsix";
+      sha256 = "sha256-EyFvihNsFYbijVAvpVCLRpHycOfW9vn5Hvve5pDhSR4=";
     };
-    name = "keyword-o-mat";
     license = "MIT";
-    publisher = "Turiiya";
+    name = "keyword-o-mat";
     description = "Easily cycle through commonly used keywords.";
+    publisher = "Turiiya";
   };
   Tyriar-sort-lines = {
     pname = "Tyriar-sort-lines";
@@ -3548,10 +3560,10 @@
       url = "https://open-vsx.org/api/Tyriar/sort-lines/1.9.1/file/Tyriar.sort-lines-1.9.1.vsix";
       sha256 = "sha256-xAgweLY5t0Whr0xSofpRaOSesyFym2GwZgdoUTiKwbA=";
     };
-    name = "sort-lines";
     license = "MIT";
-    publisher = "Tyriar";
+    name = "sort-lines";
     description = "Sorts lines of text";
+    publisher = "Tyriar";
   };
   Tyriar-windows-terminal = {
     pname = "Tyriar-windows-terminal";
@@ -3560,10 +3572,10 @@
       url = "https://open-vsx.org/api/Tyriar/windows-terminal/0.7.0/file/Tyriar.windows-terminal-0.7.0.vsix";
       sha256 = "sha256-HjDY10WtTe2ekSq3ciU4MP1zSwBAQobbI8JZM2G4T2U=";
     };
-    name = "windows-terminal";
     license = "MIT";
-    publisher = "Tyriar";
+    name = "windows-terminal";
     description = "VS Code integration with Windows Terminal";
+    publisher = "Tyriar";
   };
   Umoxfo-vscode-w3cvalidation = {
     pname = "Umoxfo-vscode-w3cvalidation";
@@ -3572,10 +3584,10 @@
       url = "https://open-vsx.org/api/Umoxfo/vscode-w3cvalidation/2.9.1/file/Umoxfo.vscode-w3cvalidation-2.9.1.vsix";
       sha256 = "sha256-5h1S5mNDguhmHM1zUz3oSaEwiNPHrz0uQP6IhNSjhNc=";
     };
-    name = "vscode-w3cvalidation";
     license = "MIT";
-    publisher = "Umoxfo";
+    name = "vscode-w3cvalidation";
     description = "Adds W3C validation support to Visual Studio Code.";
+    publisher = "Umoxfo";
   };
   Ureakim-nebulae = {
     pname = "Ureakim-nebulae";
@@ -3584,10 +3596,10 @@
       url = "https://open-vsx.org/api/Ureakim/nebulae/0.0.1/file/Ureakim.nebulae-0.0.1.vsix";
       sha256 = "sha256-lpD37hbFgc7uLGwvYOrQH2ue/gzT1b5Hq+x/EgPKk2E=";
     };
-    name = "nebulae";
     license = "MIT";
-    publisher = "Ureakim";
+    name = "nebulae";
     description = "Nebulae theme";
+    publisher = "Ureakim";
   };
   Ureakim-vscode-maybs-quit = {
     pname = "Ureakim-vscode-maybs-quit";
@@ -3596,10 +3608,10 @@
       url = "https://open-vsx.org/api/Ureakim/vscode-maybs-quit/1.0.0/file/Ureakim.vscode-maybs-quit-1.0.0.vsix";
       sha256 = "sha256-ZK1goXzfyCphy4smrWRtDzwb9Vd51tCZ5UdUr7hysJg=";
     };
-    name = "vscode-maybs-quit";
     license = "MIT";
-    publisher = "Ureakim";
+    name = "vscode-maybs-quit";
     description = "Maybs Quit for VS Code";
+    publisher = "Ureakim";
   };
   VMSSoftwareInc-vms-ide = {
     pname = "VMSSoftwareInc-vms-ide";
@@ -3608,10 +3620,10 @@
       url = "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.54/file/VMSSoftwareInc.vms-ide-1.5.54.vsix";
       sha256 = "sha256-qZxolPYjgi3frQmqa8cd1KluZYNrlfGWaH8Ioo8pGYw=";
     };
-    name = "vms-ide";
     license = "MIT";
-    publisher = "VMSSoftwareInc";
+    name = "vms-ide";
     description = "VMS IDE is an extension that enables you to develop applications for OpenVMS.";
+    publisher = "VMSSoftwareInc";
   };
   VSpaceCode-whichkey = {
     pname = "VSpaceCode-whichkey";
@@ -3620,10 +3632,10 @@
       url = "https://open-vsx.org/api/VSpaceCode/whichkey/0.11.3/file/VSpaceCode.whichkey-0.11.3.vsix";
       sha256 = "sha256-PnaOwOIcSo1Eff1wOtQPhoHYvrHDGTcsRy9mQfdBPX4=";
     };
-    name = "whichkey";
     license = "MIT";
-    publisher = "VSpaceCode";
+    name = "whichkey";
     description = "which-key like menu for Visual Studio Code";
+    publisher = "VSpaceCode";
   };
   Vladeeg-vscode-theme-vdark = {
     pname = "Vladeeg-vscode-theme-vdark";
@@ -3632,10 +3644,10 @@
       url = "https://open-vsx.org/api/Vladeeg/vscode-theme-vdark/1.1.1/file/Vladeeg.vscode-theme-vdark-1.1.1.vsix";
       sha256 = "sha256-rGiMimsMJhEny8j3pHyolkHPFfI0dsYT+Z48t5stCMI=";
     };
-    name = "vscode-theme-vdark";
     license = "MIT";
-    publisher = "Vladeeg";
+    name = "vscode-theme-vdark";
     description = "Dark, contrast, yet easy on eyes color theme";
+    publisher = "Vladeeg";
   };
   Vladeeg-vscode-theme-vlight = {
     pname = "Vladeeg-vscode-theme-vlight";
@@ -3644,10 +3656,10 @@
       url = "https://open-vsx.org/api/Vladeeg/vscode-theme-vlight/2.1.0/file/Vladeeg.vscode-theme-vlight-2.1.0.vsix";
       sha256 = "sha256-WrVdEOWLr3WDik7ihczo58NaafYlE1nm6ODeBO1awSU=";
     };
-    name = "vscode-theme-vlight";
     license = "MIT";
-    publisher = "Vladeeg";
+    name = "vscode-theme-vlight";
     description = "Light, contrast, yet easy on eyes color theme";
+    publisher = "Vladeeg";
   };
   Voklen-theme-by-language = {
     pname = "Voklen-theme-by-language";
@@ -3656,10 +3668,10 @@
       url = "https://open-vsx.org/api/Voklen/theme-by-language/1.1.1/file/Voklen.theme-by-language-1.1.1.vsix";
       sha256 = "sha256-4huawy8SDJFWsn2TgKDcl7lFoyZApIeSTmOyx04y4Ps=";
     };
-    name = "theme-by-language";
     license = "";
-    publisher = "Voklen";
+    name = "theme-by-language";
     description = "Change the color theme based on the current file language";
+    publisher = "Voklen";
   };
   Vtrois-gitmoji-vscode = {
     pname = "Vtrois-gitmoji-vscode";
@@ -3668,10 +3680,10 @@
       url = "https://open-vsx.org/api/Vtrois/gitmoji-vscode/1.0.8/file/Vtrois.gitmoji-vscode-1.0.8.vsix";
       sha256 = "sha256-KJfAIJ62RxjtxgIQRd1JzFtLzsO9Z1EtmJx5EiaW6+s=";
     };
-    name = "gitmoji-vscode";
     license = "MIT";
-    publisher = "Vtrois";
+    name = "gitmoji-vscode";
     description = "An emoji tool for your git commit messages";
+    publisher = "Vtrois";
   };
   WakaTime-vscode-wakatime = {
     pname = "WakaTime-vscode-wakatime";
@@ -3680,10 +3692,10 @@
       url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.8/file/WakaTime.vscode-wakatime-18.0.8.vsix";
       sha256 = "sha256-XwzoSWaNJ8u+5wfFkXw6KWUHCHTMJVfiixrf+WGhPoo=";
     };
-    name = "vscode-wakatime";
     license = "BSD-3-Clause";
-    publisher = "WakaTime";
+    name = "vscode-wakatime";
     description = "Metrics, insights, and time tracking automatically generated from your programming activity.";
+    publisher = "WakaTime";
   };
   Wattenberger-footsteps = {
     pname = "Wattenberger-footsteps";
@@ -3692,10 +3704,10 @@
       url = "https://open-vsx.org/api/Wattenberger/footsteps/0.1.0/file/Wattenberger.footsteps-0.1.0.vsix";
       sha256 = "sha256-5II/MFmPirRH42/Mf+ck6mr1pz7t4Yji1bRghhGXJ2U=";
     };
-    name = "footsteps";
     license = "MIT";
-    publisher = "Wattenberger";
+    name = "footsteps";
     description = "Highlight and navigate between your most recently edited chunks of code";
+    publisher = "Wattenberger";
   };
   WindRiver-windsdksupport = {
     pname = "WindRiver-windsdksupport";
@@ -3704,10 +3716,10 @@
       url = "https://open-vsx.org/api/WindRiver/windsdksupport/1.4.2/file/WindRiver.windsdksupport-1.4.2.vsix";
       sha256 = "sha256-U0S14zVTqkn4aUn9sqXtbW34aUwLbz/IfBhrG0lQwRQ=";
     };
-    name = "windsdksupport";
     license = "MIT";
-    publisher = "WindRiver";
+    name = "windsdksupport";
     description = "Application development support for Wind River Studio";
+    publisher = "WindRiver";
   };
   Wscats-eno = {
     pname = "Wscats-eno";
@@ -3716,10 +3728,10 @@
       url = "https://open-vsx.org/api/Wscats/eno/2.3.53/file/Wscats.eno-2.3.53.vsix";
       sha256 = "sha256-7zpbTGAY0McBzpRTPmGD6t9rhLyG1FfMjZSJRL0umCg=";
     };
-    name = "eno";
     license = "MIT";
-    publisher = "Wscats";
+    name = "eno";
     description = "\128640Easy to compile ts, tsx, scss, less, stylus, jade, pug and es6+ on save without using a build task.";
+    publisher = "Wscats";
   };
   Wscats-omi-snippets = {
     pname = "Wscats-omi-snippets";
@@ -3728,10 +3740,10 @@
       url = "https://open-vsx.org/api/Wscats/omi-snippets/2.2.8/file/Wscats.omi-snippets-2.2.8.vsix";
       sha256 = "sha256-SE7mlwjzLqw9xRUCHdWqR8e3+Pq+z9c0wgCiC9aX9RM=";
     };
-    name = "omi-snippets";
     license = "MIT";
-    publisher = "Wscats";
+    name = "omi-snippets";
     description = "Simple extensions for React/Redux/Typescript/Javascript/Omi snippets";
+    publisher = "Wscats";
   };
   WyattL-greyscript = {
     pname = "WyattL-greyscript";
@@ -3740,10 +3752,10 @@
       url = "https://open-vsx.org/api/WyattL/greyscript/1.8.1/file/WyattL.greyscript-1.8.1.vsix";
       sha256 = "sha256-muCl66D+cld74aNQKRpdLk1cfO3ILVmJFmbE1RU7nhc=";
     };
-    name = "greyscript";
     license = "Apache-2.0";
-    publisher = "WyattL";
+    name = "greyscript";
     description = "Syntax highlighting for GreyScript.";
+    publisher = "WyattL";
   };
   XOJ-Team-xoj-playground = {
     pname = "XOJ-Team-xoj-playground";
@@ -3752,10 +3764,10 @@
       url = "https://open-vsx.org/api/XOJ-Team/xoj-playground/1.1.8/file/XOJ-Team.xoj-playground-1.1.8.vsix";
       sha256 = "sha256-OQelYEHK2+FQMAomnH1/arHmD344FK7UGugq+GyISvQ=";
     };
-    name = "xoj-playground";
     license = "AGPL-3.0";
-    publisher = "XOJ-Team";
+    name = "xoj-playground";
     description = "A playground extension for XOJ Web IDE and desktop VSC";
+    publisher = "XOJ-Team";
   };
   XadillaX-gyp = {
     pname = "XadillaX-gyp";
@@ -3764,10 +3776,10 @@
       url = "https://open-vsx.org/api/XadillaX/gyp/1.0.0/file/XadillaX.gyp-1.0.0.vsix";
       sha256 = "sha256-i5cFHgd5y09OiANDMW+YAmp1kL8l99bF8NFTqpU2eE0=";
     };
-    name = "gyp";
     license = "MIT";
-    publisher = "XadillaX";
+    name = "gyp";
     description = "GYP support for VSCode.";
+    publisher = "XadillaX";
   };
   XadillaX-mir2 = {
     pname = "XadillaX-mir2";
@@ -3776,10 +3788,10 @@
       url = "https://open-vsx.org/api/XadillaX/mir2/1.0.0/file/XadillaX.mir2-1.0.0.vsix";
       sha256 = "sha256-bB0JkUDG3tCSxMWsNRD1jzgRKDexmT3ZbxceIYQBkqw=";
     };
-    name = "mir2";
     license = "MIT";
-    publisher = "XadillaX";
+    name = "mir2";
     description = "The Legend of Mir2 Theme";
+    publisher = "XadillaX";
   };
   XadillaX-van-gogh-paintings = {
     pname = "XadillaX-van-gogh-paintings";
@@ -3788,10 +3800,10 @@
       url = "https://open-vsx.org/api/XadillaX/van-gogh-paintings/1.0.0/file/XadillaX.van-gogh-paintings-1.0.0.vsix";
       sha256 = "sha256-frucmXa6cFkQk50MtM5YCGzQoXEksYDkT3u/uWOU9mw=";
     };
-    name = "van-gogh-paintings";
     license = "MIT";
-    publisher = "XadillaX";
+    name = "van-gogh-paintings";
     description = "Vincent Willem van Gogh Painting Themes.";
+    publisher = "XadillaX";
   };
   XadillaX-viml = {
     pname = "XadillaX-viml";
@@ -3800,10 +3812,10 @@
       url = "https://open-vsx.org/api/XadillaX/viml/2.1.2/file/XadillaX.viml-2.1.2.vsix";
       sha256 = "sha256-CsDSOpWSvhEanmNqr70wUcUnkKHxAccFkUCpmV/b4Hw=";
     };
-    name = "viml";
     license = "MIT";
-    publisher = "XadillaX";
+    name = "viml";
     description = "Vim Script language server protocol and highlighting support for VSCode.";
+    publisher = "XadillaX";
   };
   Xangelix-srslang-snippets = {
     pname = "Xangelix-srslang-snippets";
@@ -3812,10 +3824,10 @@
       url = "https://open-vsx.org/api/Xangelix/srslang-snippets/0.0.5/file/Xangelix.srslang-snippets-0.0.5.vsix";
       sha256 = "sha256-XVW+rav2oj9HEjSTumqGMtOSq/LWt+Sw+dUxgSTGQ5o=";
     };
-    name = "srslang-snippets";
     license = "MIT";
-    publisher = "Xangelix";
+    name = "srslang-snippets";
     description = "Snippets for srslang";
+    publisher = "Xangelix";
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
@@ -3824,10 +3836,10 @@
       url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.1/file/YXL.cloudmusic-9.10.1.vsix";
       sha256 = "sha256-qyaZWMa2SkCQws3iRo/WyD054x+B1EP/DskqcEtDcFM=";
     };
-    name = "cloudmusic";
     license = "MIT";
-    publisher = "YXL";
+    name = "cloudmusic";
     description = "Netease Music for VS Code";
+    publisher = "YXL";
   };
   YoussefBouzekri-spaceduck = {
     pname = "YoussefBouzekri-spaceduck";
@@ -3836,10 +3848,10 @@
       url = "https://open-vsx.org/api/YoussefBouzekri/spaceduck/1.0.0/file/YoussefBouzekri.spaceduck-1.0.0.vsix";
       sha256 = "sha256-BMO2Ef7+rItwbeVQVWHDkjUTuXwvTz4GSFF1he8AFos=";
     };
-    name = "spaceduck";
     license = "MIT";
-    publisher = "YoussefBouzekri";
+    name = "spaceduck";
     description = "";
+    publisher = "YoussefBouzekri";
   };
   Yseop-vscode-yseopml = {
     pname = "Yseop-vscode-yseopml";
@@ -3848,10 +3860,10 @@
       url = "https://open-vsx.org/api/Yseop/vscode-yseopml/1.16.0/file/Yseop.vscode-yseopml-1.16.0.vsix";
       sha256 = "sha256-IpaARO6A/Z2CxGJkiKn+DFUBW2uiMM2nDWhanZl5Yjg=";
     };
-    name = "vscode-yseopml";
     license = "MIT";
-    publisher = "Yseop";
+    name = "vscode-yseopml";
     description = "Implementation of YML language server in node.";
+    publisher = "Yseop";
   };
   Zignd-html-css-class-completion = {
     pname = "Zignd-html-css-class-completion";
@@ -3860,10 +3872,10 @@
       url = "https://open-vsx.org/api/Zignd/html-css-class-completion/1.20.0/file/Zignd.html-css-class-completion-1.20.0.vsix";
       sha256 = "sha256-ZoTxQ4Wf9ZFDyv/C6iSv3q6igW0rcCZogQEx5dK6354=";
     };
-    name = "html-css-class-completion";
     license = "MIT";
-    publisher = "Zignd";
+    name = "html-css-class-completion";
     description = "CSS class name completion for the HTML class attribute based on the definitions found in your workspace.";
+    publisher = "Zignd";
   };
   ZixuanChen-vitest-explorer = {
     pname = "ZixuanChen-vitest-explorer";
@@ -3872,10 +3884,10 @@
       url = "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.12/file/ZixuanChen.vitest-explorer-0.2.12.vsix";
       sha256 = "sha256-61HztvRmHFAy1N/suT2gvwEzytzsafKaf/yF9Fsr2DU=";
     };
-    name = "vitest-explorer";
     license = "MIT";
-    publisher = "ZixuanChen";
+    name = "vitest-explorer";
     description = "Run and debug Vitest test cases";
+    publisher = "ZixuanChen";
   };
   ZixuanWang-linkerscript = {
     pname = "ZixuanWang-linkerscript";
@@ -3884,10 +3896,10 @@
       url = "https://open-vsx.org/api/ZixuanWang/linkerscript/1.0.2/file/ZixuanWang.linkerscript-1.0.2.vsix";
       sha256 = "sha256-MbKoMqbC+En9LIpuPi20df/MWNrUxbcO4VpV6Tv1D+c=";
     };
-    name = "linkerscript";
     license = "MIT";
-    publisher = "ZixuanWang";
+    name = "linkerscript";
     description = "Language support for GNU linker script";
+    publisher = "ZixuanWang";
   };
   Zorvalt-puke-debug = {
     pname = "Zorvalt-puke-debug";
@@ -3896,10 +3908,10 @@
       url = "https://open-vsx.org/api/Zorvalt/puke-debug/1.0.0/file/Zorvalt.puke-debug-1.0.0.vsix";
       sha256 = "sha256-GVgyFLf1PglbBmOj172D1VMm347+jqapBltzAwAmDWg=";
     };
-    name = "puke-debug";
     license = "GPL-3.0";
-    publisher = "Zorvalt";
+    name = "puke-debug";
     description = "Inserts simple, emetic debug lines where you need them. Last resort option in debugging...";
+    publisher = "Zorvalt";
   };
   Zowe-vscode-extension-for-zowe = {
     pname = "Zowe-vscode-extension-for-zowe";
@@ -3908,10 +3920,10 @@
       url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.2/file/Zowe.vscode-extension-for-zowe-2.0.2.vsix";
       sha256 = "sha256-3w38DVb76aL2spKn0+QbD+Z7kaUxzr8XLXqp14IGRaY=";
     };
-    name = "vscode-extension-for-zowe";
     license = "EPL-2.0";
-    publisher = "Zowe";
+    name = "vscode-extension-for-zowe";
     description = "VS Code extension, powered by Zowe CLI, that streamlines interaction with mainframe data sets, USS files, and jobs";
+    publisher = "Zowe";
   };
   Zowe-zowe-explorer-ftp-extension = {
     pname = "Zowe-zowe-explorer-ftp-extension";
@@ -3920,10 +3932,10 @@
       url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.2/file/Zowe.zowe-explorer-ftp-extension-2.0.2.vsix";
       sha256 = "sha256-nVMEUpimomZIzhP10cKTnHTGlWPq26anHgU9NGy+ij0=";
     };
-    name = "zowe-explorer-ftp-extension";
     license = "EPL-2.0";
-    publisher = "Zowe";
+    name = "zowe-explorer-ftp-extension";
     description = "Adds zFTP support to Zowe Explorer demonstrating how to extend the Zowe Explorer using its extensibility API.";
+    publisher = "Zowe";
   };
   ZupInnovation-horusec = {
     pname = "ZupInnovation-horusec";
@@ -3932,10 +3944,10 @@
       url = "https://open-vsx.org/api/ZupInnovation/horusec/1.6.1/file/ZupInnovation.horusec-1.6.1.vsix";
       sha256 = "sha256-LIeUM62gC6C2nbyiv5/GkbvRcSRNxbKseYD6ewpf7lA=";
     };
-    name = "horusec";
     license = "MIT";
-    publisher = "ZupInnovation";
+    name = "horusec";
     description = "Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.";
+    publisher = "ZupInnovation";
   };
   _13xforever-language-x86-64-assembly = {
     pname = "_13xforever-language-x86-64-assembly";
@@ -3944,10 +3956,10 @@
       url = "https://open-vsx.org/api/13xforever/language-x86-64-assembly/3.0.0/file/13xforever.language-x86-64-assembly-3.0.0.vsix";
       sha256 = "sha256-nAB2k3drDE02E2BAeSJWJLCXRXs38aHX93pqM8/uw5o=";
     };
-    name = "language-x86-64-assembly";
     license = "MIT";
-    publisher = "13xforever";
+    name = "language-x86-64-assembly";
     description = "Cutting edge x86 and x86_64 assembly syntax highlighting";
+    publisher = "13xforever";
   };
   _18kimn-notebook-theme = {
     pname = "_18kimn-notebook-theme";
@@ -3956,10 +3968,10 @@
       url = "https://open-vsx.org/api/18kimn/notebook-theme/0.0.1/file/18kimn.notebook-theme-0.0.1.vsix";
       sha256 = "sha256-6rsubPSaIZMw/IaZw//9dQA+yOKTnSxzhn0SMLyPUIU=";
     };
-    name = "notebook-theme";
     license = "";
-    publisher = "18kimn";
+    name = "notebook-theme";
     description = "a VSCode port of Yorick Peterse's \"Paper\" terminal theme";
+    publisher = "18kimn";
   };
   _21zz-vscord = {
     pname = "_21zz-vscord";
@@ -3968,10 +3980,10 @@
       url = "https://open-vsx.org/api/21zz/vscord/4.5.1/file/21zz.vscord-4.5.1.vsix";
       sha256 = "sha256-y+K7yiqb8+RfFMpfvLY7LkgdiJ4DO26GmietRK20poc=";
     };
-    name = "vscord";
     license = "MIT";
-    publisher = "21zz";
+    name = "vscord";
     description = "Discord Rich Presense specifically for VSCodium";
+    publisher = "21zz";
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
@@ -3980,10 +3992,10 @@
       url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.5/file/42Crunch.vscode-openapi-4.9.5.vsix";
       sha256 = "sha256-s4ItemCwZrTon2OCKXE3xCGcve8tE/QpI0I2ZUFEENk=";
     };
-    name = "vscode-openapi";
     license = "AGPL-3.0-only";
-    publisher = "42Crunch";
+    name = "vscode-openapi";
     description = "OpenAPI extension for Visual Studio Code";
+    publisher = "42Crunch";
   };
   _4ops-terraform = {
     pname = "_4ops-terraform";
@@ -3992,10 +4004,10 @@
       url = "https://open-vsx.org/api/4ops/terraform/0.2.1/file/4ops.terraform-0.2.1.vsix";
       sha256 = "sha256-r5W5S9hIn4AlVtr6y7HoVwtJqZ+vYQgukj/ehJQRwKQ=";
     };
-    name = "terraform";
     license = "MIT";
-    publisher = "4ops";
+    name = "terraform";
     description = "Terraform configuration language support (includes Terragrunt)";
+    publisher = "4ops";
   };
   _4paradigm-operator-tools = {
     pname = "_4paradigm-operator-tools";
@@ -4004,10 +4016,10 @@
       url = "https://open-vsx.org/api/4paradigm/operator-tools/0.0.2/file/4paradigm.operator-tools-0.0.2.vsix";
       sha256 = "sha256-apjWqPMTgzrkX4q5CrgUMo9NFuHdW8OJIfXoECpIgZs=";
     };
-    name = "operator-tools";
     license = "MIT";
-    publisher = "4paradigm";
+    name = "operator-tools";
     description = "develop,debug,deploy,publish operator in vscode(client or web!)";
+    publisher = "4paradigm";
   };
   _9j-amvim = {
     pname = "_9j-amvim";
@@ -4016,10 +4028,10 @@
       url = "https://open-vsx.org/api/9j/amvim/1.34.1-pre/file/9j.amvim-1.34.1-pre.vsix";
       sha256 = "sha256-UUidD5Pm5RfCp5ppj3qRNZ9VnD058LELJIwEEjfD4AA=";
     };
-    name = "amvim";
     license = "ISC";
-    publisher = "9j";
+    name = "amvim";
     description = "The Vim mode for Visual Studio Code that works as expected.";
+    publisher = "9j";
   };
   a5hk-ice = {
     pname = "a5hk-ice";
@@ -4028,10 +4040,10 @@
       url = "https://open-vsx.org/api/a5hk/ice/0.7.2/file/a5hk.ice-0.7.2.vsix";
       sha256 = "sha256-LkGWxk+cgW557sUNyQwjPBW0OQYRA8XstSiV+eX4xBk=";
     };
-    name = "ice";
     license = "MIT";
-    publisher = "a5hk";
+    name = "ice";
     description = "Cold as Ice";
+    publisher = "a5hk";
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
@@ -4040,10 +4052,10 @@
       url = "https://open-vsx.org/api/a5hk/night-coder/4.2.0/file/a5hk.night-coder-4.2.0.vsix";
       sha256 = "sha256-4Tfw9D1M9RbSlaR+dgP0AZC/yYh0WptGFdMfifY8q2w=";
     };
-    name = "night-coder";
     license = "MIT";
-    publisher = "a5hk";
+    name = "night-coder";
     description = "A dark theme for Night Coders";
+    publisher = "a5hk";
   };
   a5hk-paper = {
     pname = "a5hk-paper";
@@ -4052,10 +4064,10 @@
       url = "https://open-vsx.org/api/a5hk/paper/0.4.0/file/a5hk.paper-0.4.0.vsix";
       sha256 = "sha256-FLrJrtquj1CECU6DuuOuHoEyR+8BLHiftIUnFX5chjY=";
     };
-    name = "paper";
     license = "MIT";
-    publisher = "a5hk";
+    name = "paper";
     description = "Light theme with paper colored background";
+    publisher = "a5hk";
   };
   a5hk-tabulate = {
     pname = "a5hk-tabulate";
@@ -4064,10 +4076,10 @@
       url = "https://open-vsx.org/api/a5hk/tabulate/0.5.0/file/a5hk.tabulate-0.5.0.vsix";
       sha256 = "sha256-qoRgZW+cZCDRc/u+AJeU/v48dzeyWFWVtrsj+LpFIKs=";
     };
-    name = "tabulate";
     license = "MIT";
-    publisher = "a5hk";
+    name = "tabulate";
     description = "Tabulates Javascript objects";
+    publisher = "a5hk";
   };
   a5hk-vscode-scilla = {
     pname = "a5hk-vscode-scilla";
@@ -4076,10 +4088,10 @@
       url = "https://open-vsx.org/api/a5hk/vscode-scilla/0.2.1/file/a5hk.vscode-scilla-0.2.1.vsix";
       sha256 = "sha256-QvvRfSlTPvfI8MsgdecnQuVGBmjWJ3Eqed8cxXvzdUI=";
     };
-    name = "vscode-scilla";
     license = "MIT";
-    publisher = "a5hk";
+    name = "vscode-scilla";
     description = "Syntax highlighting for Scilla";
+    publisher = "a5hk";
   };
   a5huynh-vscode-ron = {
     pname = "a5huynh-vscode-ron";
@@ -4088,10 +4100,10 @@
       url = "https://open-vsx.org/api/a5huynh/vscode-ron/0.9.0/file/a5huynh.vscode-ron-0.9.0.vsix";
       sha256 = "sha256-Relbw9qmOWj3YwhuRLTvgNJZmPklCsUoCnCnwuneLiw=";
     };
-    name = "vscode-ron";
     license = "MIT";
-    publisher = "a5huynh";
+    name = "vscode-ron";
     description = "Rusty Object Notation (RON) syntax package";
+    publisher = "a5huynh";
   };
   a7ul-vscode-bigtable = {
     pname = "a7ul-vscode-bigtable";
@@ -4100,10 +4112,10 @@
       url = "https://open-vsx.org/api/a7ul/vscode-bigtable/1.2.1/file/a7ul.vscode-bigtable-1.2.1.vsix";
       sha256 = "sha256-krB5ZvSdLX4fTw1I0rRzcschth1lQLpkhQX86FxudvM=";
     };
-    name = "vscode-bigtable";
     license = "MIT";
-    publisher = "a7ul";
+    name = "vscode-bigtable";
     description = "A VSCode extension for Google Bigtable";
+    publisher = "a7ul";
   };
   aaron-bond-better-comments = {
     pname = "aaron-bond-better-comments";
@@ -4112,10 +4124,10 @@
       url = "https://open-vsx.org/api/aaron-bond/better-comments/3.0.0/file/aaron-bond.better-comments-3.0.0.vsix";
       sha256 = "sha256-gZDsUXFM7BENAK7sNDdke+FmXWGJezL7nDslPUTeD80=";
     };
-    name = "better-comments";
     license = "MIT";
-    publisher = "aaron-bond";
+    name = "better-comments";
     description = "Improve your code commenting by annotating with alert, informational, TODOs, and more!";
+    publisher = "aaron-bond";
   };
   abelfubu-abelfubu-dark = {
     pname = "abelfubu-abelfubu-dark";
@@ -4124,10 +4136,10 @@
       url = "https://open-vsx.org/api/abelfubu/abelfubu-dark/1.3.4/file/abelfubu.abelfubu-dark-1.3.4.vsix";
       sha256 = "sha256-uNZgJxvYifYUsSlXeRHaL0RrVpVi+ceh8Nb1pBtgmG4=";
     };
-    name = "abelfubu-dark";
     license = "ISC";
-    publisher = "abelfubu";
+    name = "abelfubu-dark";
     description = "A super dark theme!";
+    publisher = "abelfubu";
   };
   abusaidm-html-snippets = {
     pname = "abusaidm-html-snippets";
@@ -4136,10 +4148,10 @@
       url = "https://open-vsx.org/api/abusaidm/html-snippets/0.2.1/file/abusaidm.html-snippets-0.2.1.vsix";
       sha256 = "sha256-O0NemBEqkwLxs8FhGUix5btZQlIzepaiRkGza5Kg+/g=";
     };
-    name = "html-snippets";
     license = "MIT";
-    publisher = "abusaidm";
+    name = "html-snippets";
     description = "Full HTML tags including HTML5 Snippets";
+    publisher = "abusaidm";
   };
   actboy168-tasks = {
     pname = "actboy168-tasks";
@@ -4148,10 +4160,10 @@
       url = "https://open-vsx.org/api/actboy168/tasks/0.9.0/file/actboy168.tasks-0.9.0.vsix";
       sha256 = "sha256-ebEUzuXzQSDbvbb0U1aqi/Q5z8Xt8wiozmDmFlZH+sQ=";
     };
-    name = "tasks";
     license = "MIT";
-    publisher = "actboy168";
+    name = "tasks";
     description = "Load VSCode Tasks into Status Bar.";
+    publisher = "actboy168";
   };
   activecove-marquee = {
     pname = "activecove-marquee";
@@ -4160,10 +4172,10 @@
       url = "https://open-vsx.org/api/activecove/marquee/2.0.0/file/activecove.marquee-2.0.0.vsix";
       sha256 = "sha256-icP7HcHlHYkhuY+TR3QBg27xWho48CEQsjH1DXci/30=";
     };
-    name = "marquee";
     license = "MIT";
-    publisher = "activecove";
+    name = "marquee";
     description = "Stay organized with minimal context switching, all inside your VS Code.";
+    publisher = "activecove";
   };
   adamhartford-vscode-base64 = {
     pname = "adamhartford-vscode-base64";
@@ -4172,10 +4184,10 @@
       url = "https://open-vsx.org/api/adamhartford/vscode-base64/0.1.0/file/adamhartford.vscode-base64-0.1.0.vsix";
       sha256 = "sha256-w0XAbHUWBOm6J/XbLCXhgVbxPk6nIM+sEi//xgRRxmQ=";
     };
-    name = "vscode-base64";
     license = "MIT";
-    publisher = "adamhartford";
+    name = "vscode-base64";
     description = "Base64 encode/decode the current selections.";
+    publisher = "adamhartford";
   };
   adarshpandeyin-search-github-users-extension = {
     pname = "adarshpandeyin-search-github-users-extension";
@@ -4184,10 +4196,10 @@
       url = "https://open-vsx.org/api/adarshpandeyin/search-github-users-extension/0.0.5/file/adarshpandeyin.search-github-users-extension-0.0.5.vsix";
       sha256 = "sha256-9MHuAo9y9WIk3IHQly/UbLB4KUCQfFULaJYEiu8+fbc=";
     };
-    name = "search-github-users-extension";
     license = "MIT";
-    publisher = "adarshpandeyin";
+    name = "search-github-users-extension";
     description = "";
+    publisher = "adarshpandeyin";
   };
   adelphes-android-dev-ext = {
     pname = "adelphes-android-dev-ext";
@@ -4196,10 +4208,10 @@
       url = "https://open-vsx.org/api/adelphes/android-dev-ext/1.3.2/file/adelphes.android-dev-ext-1.3.2.vsix";
       sha256 = "sha256-dFtVJiXMinC5KcHiVxLJyXcN2JAZ+j1kpbLUinKvkOA=";
     };
-    name = "android-dev-ext";
     license = "MIT";
-    publisher = "adelphes";
+    name = "android-dev-ext";
     description = "Android debugging support for VS Code";
+    publisher = "adelphes";
   };
   adhamu-history-in-sublime-merge = {
     pname = "adhamu-history-in-sublime-merge";
@@ -4208,10 +4220,10 @@
       url = "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.17/file/adhamu.history-in-sublime-merge-1.2.17.vsix";
       sha256 = "sha256-JZOORWFVM69CB4s41CpW6hlUq8FDQSuA2xEq1sgL6ew=";
     };
-    name = "history-in-sublime-merge";
     license = "MIT";
-    publisher = "adhamu";
+    name = "history-in-sublime-merge";
     description = "Open files in Sublime Merge";
+    publisher = "adhamu";
   };
   adhamu-kaleidoscope = {
     pname = "adhamu-kaleidoscope";
@@ -4220,10 +4232,10 @@
       url = "https://open-vsx.org/api/adhamu/kaleidoscope/3.2.9/file/adhamu.kaleidoscope-3.2.9.vsix";
       sha256 = "sha256-QOkyPvc0Z8atHNSQ+tZlN6busV7PrW3OFhEQ400MydQ=";
     };
-    name = "kaleidoscope";
     license = "MIT";
-    publisher = "adhamu";
+    name = "kaleidoscope";
     description = "A bright and colourful theme";
+    publisher = "adhamu";
   };
   adotinthevoid-hare-highlighting = {
     pname = "adotinthevoid-hare-highlighting";
@@ -4232,10 +4244,10 @@
       url = "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.3/file/adotinthevoid.hare-highlighting-0.0.3.vsix";
       sha256 = "sha256-sF7Vt+M+6i3ogjcu+kjuGyucSTd5jswNi2UqHJLSMKU=";
     };
-    name = "hare-highlighting";
     license = "MIT OR Apache-2.0";
-    publisher = "adotinthevoid";
+    name = "hare-highlighting";
     description = "Syntax Highlighting for Hare";
+    publisher = "adotinthevoid";
   };
   adpyke-codesnap = {
     pname = "adpyke-codesnap";
@@ -4244,10 +4256,10 @@
       url = "https://open-vsx.org/api/adpyke/codesnap/1.3.4/file/adpyke.codesnap-1.3.4.vsix";
       sha256 = "sha256-x1EpD4Q0tOhkCB9fl2mc7etaB2sI1d6KjbdUqqWIk+k=";
     };
-    name = "codesnap";
     license = "MIT";
-    publisher = "adpyke";
+    name = "codesnap";
     description = "\128247 Take beautiful screenshots of your code";
+    publisher = "adpyke";
   };
   adrianhumphreys-silverstripe = {
     pname = "adrianhumphreys-silverstripe";
@@ -4256,10 +4268,10 @@
       url = "https://open-vsx.org/api/adrianhumphreys/silverstripe/1.0.0/file/adrianhumphreys.silverstripe-1.0.0.vsix";
       sha256 = "sha256-HqneOBsx0tvND30PGeaIiUeYSJiIVG3wecVZ7EH1mUs=";
     };
-    name = "silverstripe";
     license = "MIT";
-    publisher = "adrianhumphreys";
+    name = "silverstripe";
     description = "Syntax highlighter for SilverStripe template files (.ss)";
+    publisher = "adrianhumphreys";
   };
   adrieankhisbe-vscode-ndjson = {
     pname = "adrieankhisbe-vscode-ndjson";
@@ -4268,10 +4280,10 @@
       url = "https://open-vsx.org/api/adrieankhisbe/vscode-ndjson/0.100.0/file/adrieankhisbe.vscode-ndjson-0.100.0.vsix";
       sha256 = "sha256-7ccm75dfY80wGIpd7jb3UQSlZpW/un4SqObMHNcGyrA=";
     };
-    name = "vscode-ndjson";
     license = "MIT";
-    publisher = "adrieankhisbe";
+    name = "vscode-ndjson";
     description = "Language Support for NDJson (Newline Delimited JSON) files";
+    publisher = "adrieankhisbe";
   };
   ahmadawais-emoji-log-vscode = {
     pname = "ahmadawais-emoji-log-vscode";
@@ -4280,10 +4292,10 @@
       url = "https://open-vsx.org/api/ahmadawais/emoji-log-vscode/1.0.0/file/ahmadawais.emoji-log-vscode-1.0.0.vsix";
       sha256 = "sha256-JCx+z6rs6xDkCoN61hPm0it1Aggyw1urasw6DKwR7P4=";
     };
-    name = "emoji-log-vscode";
     license = "MIT";
-    publisher = "ahmadawais";
+    name = "emoji-log-vscode";
     description = "Emoji-Log \8212 An Emoji Git commit log messages spec standard. [ \128230\128076\128027\128214\128640\129302 \8252\65039 ].";
+    publisher = "ahmadawais";
   };
   ahmadawais-shades-of-purple = {
     pname = "ahmadawais-shades-of-purple";
@@ -4292,10 +4304,10 @@
       url = "https://open-vsx.org/api/ahmadawais/shades-of-purple/6.13.0/file/ahmadawais.shades-of-purple-6.13.0.vsix";
       sha256 = "sha256-uohowaxkYEXN822rnzpMB9g/vb6F6h6sShnx0QyGnsk=";
     };
-    name = "shades-of-purple";
     license = "MIT";
-    publisher = "ahmadawais";
+    name = "shades-of-purple";
     description = "\129412 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.";
+    publisher = "ahmadawais";
   };
   akamud-vscode-theme-onedark = {
     pname = "akamud-vscode-theme-onedark";
@@ -4304,10 +4316,10 @@
       url = "https://open-vsx.org/api/akamud/vscode-theme-onedark/2.2.3/file/akamud.vscode-theme-onedark-2.2.3.vsix";
       sha256 = "sha256-EG6nctnmq9i1O6nGqDyomqk7M68f0HmUn3kbQkaoxuY=";
     };
-    name = "vscode-theme-onedark";
     license = "MIT";
-    publisher = "akamud";
+    name = "vscode-theme-onedark";
     description = "One Dark Theme based on Atom";
+    publisher = "akamud";
   };
   akamud-vscode-theme-onelight = {
     pname = "akamud-vscode-theme-onelight";
@@ -4316,10 +4328,10 @@
       url = "https://open-vsx.org/api/akamud/vscode-theme-onelight/2.2.3/file/akamud.vscode-theme-onelight-2.2.3.vsix";
       sha256 = "sha256-jZY3VrNyEYXDOy4uhcHKJTJs13Nml7fkF0KbsDhxJ2M=";
     };
-    name = "vscode-theme-onelight";
     license = "MIT";
-    publisher = "akamud";
+    name = "vscode-theme-onelight";
     description = "One Light Theme based on Atom";
+    publisher = "akamud";
   };
   aki77-rails-db-schema = {
     pname = "aki77-rails-db-schema";
@@ -4328,10 +4340,10 @@
       url = "https://open-vsx.org/api/aki77/rails-db-schema/0.2.5/file/aki77.rails-db-schema-0.2.5.vsix";
       sha256 = "sha256-7XAf7CC3vKPM0J1m9pryhi5tqbS4/2LGZuVYVUPv5mM=";
     };
-    name = "rails-db-schema";
     license = "MIT";
-    publisher = "aki77";
+    name = "rails-db-schema";
     description = "Definition and Completion provider for Rails DB Schema.";
+    publisher = "aki77";
   };
   akosyakov-gitpod-monitor = {
     pname = "akosyakov-gitpod-monitor";
@@ -4340,10 +4352,22 @@
       url = "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.2/file/akosyakov.gitpod-monitor-0.0.2.vsix";
       sha256 = "sha256-CrjgfCsM7ecPIjc+2guRKYdjjRKgIML9n/sOIgxITFI=";
     };
-    name = "gitpod-monitor";
     license = "MIT";
-    publisher = "akosyakov";
+    name = "gitpod-monitor";
     description = "Resource monitor for Gitpod workspaces";
+    publisher = "akosyakov";
+  };
+  akshayganeshen-alt-mode = {
+    pname = "akshayganeshen-alt-mode";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/akshayganeshen/alt-mode/1.0.0/file/akshayganeshen.alt-mode-1.0.0.vsix";
+      sha256 = "sha256-splLIc9gB3wUB/kLaK5/NBwcvHbH33C530UQP/4jxBA=";
+    };
+    license = "MIT";
+    name = "alt-mode";
+    description = "VS Code keybindings based on vim.";
+    publisher = "akshayganeshen";
   };
   akshayganeshen-beryl = {
     pname = "akshayganeshen-beryl";
@@ -4352,10 +4376,10 @@
       url = "https://open-vsx.org/api/akshayganeshen/beryl/1.0.3/file/akshayganeshen.beryl-1.0.3.vsix";
       sha256 = "sha256-TIkBY+x4PDTZlBuq0vkZNRfYcVyIUUdSwqlacYdLhlk=";
     };
-    name = "beryl";
     license = "MIT";
-    publisher = "akshayganeshen";
+    name = "beryl";
     description = "VS Code colour scheme based on material colours.";
+    publisher = "akshayganeshen";
   };
   alantech-alan-lang = {
     pname = "alantech-alan-lang";
@@ -4364,10 +4388,10 @@
       url = "https://open-vsx.org/api/alantech/alan-lang/0.1.0/file/alantech.alan-lang-0.1.0.vsix";
       sha256 = "sha256-QAIG5+m+xAyopoyItKXschwe7GZQwzMKak0wLvO9EhQ=";
     };
-    name = "alan-lang";
     license = "Apache-2.0";
-    publisher = "alantech";
+    name = "alan-lang";
     description = "Syntax highlighting for Alan Lang";
+    publisher = "alantech";
   };
   albymor-increment-selection = {
     pname = "albymor-increment-selection";
@@ -4376,10 +4400,10 @@
       url = "https://open-vsx.org/api/albymor/increment-selection/0.2.0/file/albymor.increment-selection-0.2.0.vsix";
       sha256 = "sha256-F5Gqr6ts07xuua+Ym7Y4KWtBq6RsUzVLbuBJQXvZqX8=";
     };
-    name = "increment-selection";
     license = "MIT";
-    publisher = "albymor";
+    name = "increment-selection";
     description = "Increment selection with multiple cursors";
+    publisher = "albymor";
   };
   alefragnani-Bookmarks = {
     pname = "alefragnani-Bookmarks";
@@ -4388,10 +4412,10 @@
       url = "https://open-vsx.org/api/alefragnani/Bookmarks/13.0.1/file/alefragnani.Bookmarks-13.0.1.vsix";
       sha256 = "sha256-IrSuw8iOh1V/kvh63dxChBYgD5T/NrIGlm3NtD9lasQ=";
     };
-    name = "Bookmarks";
     license = "MIT";
-    publisher = "alefragnani";
+    name = "Bookmarks";
     description = "Mark lines and jump to them";
+    publisher = "alefragnani";
   };
   alefragnani-project-manager = {
     pname = "alefragnani-project-manager";
@@ -4400,10 +4424,10 @@
       url = "https://open-vsx.org/api/alefragnani/project-manager/12.0.1/file/alefragnani.project-manager-12.0.1.vsix";
       sha256 = "sha256-hB5zxKpoaJ27B/Lfv/oGVdF2bK4OdfOj8AVpkdtQGAY=";
     };
-    name = "project-manager";
     license = "MIT";
-    publisher = "alefragnani";
+    name = "project-manager";
     description = "Easily switch between projects";
+    publisher = "alefragnani";
   };
   alefragnani-read-only-indicator = {
     pname = "alefragnani-read-only-indicator";
@@ -4412,10 +4436,10 @@
       url = "https://open-vsx.org/api/alefragnani/read-only-indicator/3.4.0/file/alefragnani.read-only-indicator-3.4.0.vsix";
       sha256 = "sha256-bPdHtNxZYMe4OtsN8vrZs6/J+IofMG7817wnOQVe1ZQ=";
     };
-    name = "read-only-indicator";
     license = "MIT";
-    publisher = "alefragnani";
+    name = "read-only-indicator";
     description = "Read-Only/Writeable indication on Status Bar";
+    publisher = "alefragnani";
   };
   alegemaate-like-syntax-vscode = {
     pname = "alegemaate-like-syntax-vscode";
@@ -4424,10 +4448,10 @@
       url = "https://open-vsx.org/api/alegemaate/like-syntax-vscode/1.0.1/file/alegemaate.like-syntax-vscode-1.0.1.vsix";
       sha256 = "sha256-QcKYj616OK7ZLQL3+1vdlBUTUo2T0gpJ2K/223UC66E=";
     };
-    name = "like-syntax-vscode";
     license = "MIT";
-    publisher = "alegemaate";
+    name = "like-syntax-vscode";
     description = "Syntax support the the Like language";
+    publisher = "alegemaate";
   };
   alegemaate-ssl-syntax-support = {
     pname = "alegemaate-ssl-syntax-support";
@@ -4436,10 +4460,10 @@
       url = "https://open-vsx.org/api/alegemaate/ssl-syntax-support/1.0.4/file/alegemaate.ssl-syntax-support-1.0.4.vsix";
       sha256 = "sha256-hyN2E6EITx5ZXG3eDQ1A5/SFziGJ7lZ5i1h7FOfnWaA=";
     };
-    name = "ssl-syntax-support";
     license = "MIT";
-    publisher = "alegemaate";
+    name = "ssl-syntax-support";
     description = "Syntax support the the S/SL language";
+    publisher = "alegemaate";
   };
   alegemaate-ssl-syntax-vscode = {
     pname = "alegemaate-ssl-syntax-vscode";
@@ -4448,10 +4472,10 @@
       url = "https://open-vsx.org/api/alegemaate/ssl-syntax-vscode/1.0.4/file/alegemaate.ssl-syntax-vscode-1.0.4.vsix";
       sha256 = "sha256-KFBWaK7nX2k2jkQrwUHSNBu/vhpqbIP4WEqm5Xyb+hs=";
     };
-    name = "ssl-syntax-vscode";
     license = "MIT";
-    publisher = "alegemaate";
+    name = "ssl-syntax-vscode";
     description = "Syntax support the the S/SL language";
+    publisher = "alegemaate";
   };
   alexcvzz-vscode-sqlite = {
     pname = "alexcvzz-vscode-sqlite";
@@ -4460,10 +4484,10 @@
       url = "https://open-vsx.org/api/alexcvzz/vscode-sqlite/0.14.0/file/alexcvzz.vscode-sqlite-0.14.0.vsix";
       sha256 = "sha256-OutWJOtS45oF7Cn1LO8m5hW6W17miu/AWrII42ba6Ng=";
     };
-    name = "vscode-sqlite";
     license = "Apache-2.0";
-    publisher = "alexcvzz";
+    name = "vscode-sqlite";
     description = "Explore and query SQLite databases.";
+    publisher = "alexcvzz";
   };
   alexkrechik-cucumberautocomplete = {
     pname = "alexkrechik-cucumberautocomplete";
@@ -4472,10 +4496,10 @@
       url = "https://open-vsx.org/api/alexkrechik/cucumberautocomplete/2.15.2/file/alexkrechik.cucumberautocomplete-2.15.2.vsix";
       sha256 = "sha256-PxFIupyXcGGh3VJwJBzlWlxWqDNZc5UBtoBI2lR1g6Y=";
     };
-    name = "cucumberautocomplete";
     license = "MIT";
-    publisher = "alexkrechik";
+    name = "cucumberautocomplete";
     description = "VSCode Cucumber (Gherkin) Full Language Support + Formatting + Autocomplete";
+    publisher = "alexkrechik";
   };
   aliariff-vscode-erb-beautify = {
     pname = "aliariff-vscode-erb-beautify";
@@ -4484,10 +4508,10 @@
       url = "https://open-vsx.org/api/aliariff/vscode-erb-beautify/0.3.5/file/aliariff.vscode-erb-beautify-0.3.5.vsix";
       sha256 = "sha256-QDG+E1tnjBmwOBZpCg5iDWRzUoSofRzpoDRAobPK5Q0=";
     };
-    name = "vscode-erb-beautify";
     license = "MIT";
-    publisher = "aliariff";
+    name = "vscode-erb-beautify";
     description = "Format/Beautify ERB files";
+    publisher = "aliariff";
   };
   allanoricil-nuxt-vscode-extension = {
     pname = "allanoricil-nuxt-vscode-extension";
@@ -4496,10 +4520,10 @@
       url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.21/file/allanoricil.nuxt-vscode-extension-0.0.21.vsix";
       sha256 = "sha256-0OyR+beO3j3KXVjveCtwNGv7HQFEzxtn/BltCVgfHR0=";
     };
-    name = "nuxt-vscode-extension";
     license = "MIT";
-    publisher = "allanoricil";
+    name = "nuxt-vscode-extension";
     description = "This extension aims to simplify the workflow when coding with Nuxt in VS Code";
+    publisher = "allanoricil";
   };
   allanoricil-salesforce-soql-editor = {
     pname = "allanoricil-salesforce-soql-editor";
@@ -4508,10 +4532,10 @@
       url = "https://open-vsx.org/api/allanoricil/salesforce-soql-editor/1.7.4/file/allanoricil.salesforce-soql-editor-1.7.4.vsix";
       sha256 = "sha256-TbSRf1Pkox111waUAhcvuEfygrYictFygfbxsSrdqfI=";
     };
-    name = "salesforce-soql-editor";
     license = "MIT";
-    publisher = "allanoricil";
+    name = "salesforce-soql-editor";
     description = "This extension brings the same functionality available in the Query Editor Tab in the Salesforce Developer Console to VS Code.";
+    publisher = "allanoricil";
   };
   almenon-arepl = {
     pname = "almenon-arepl";
@@ -4520,10 +4544,10 @@
       url = "https://open-vsx.org/api/almenon/arepl/2.0.3/file/almenon.arepl-2.0.3.vsix";
       sha256 = "sha256-3JCL1P0R+YU687n4gEfR/15zZopJCEXPZ5PGzA6gLtw=";
     };
-    name = "arepl";
     license = "MIT";
-    publisher = "almenon";
+    name = "arepl";
     description = "real-time python scratchpad";
+    publisher = "almenon";
   };
   alphabotsec-vscode-eclipse-keybindings = {
     pname = "alphabotsec-vscode-eclipse-keybindings";
@@ -4532,10 +4556,10 @@
       url = "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.1/file/alphabotsec.vscode-eclipse-keybindings-0.16.1.vsix";
       sha256 = "sha256-VK4OS7fvpJsHracfHdC7blvh6qV0IJse4vdRud/yT/o=";
     };
-    name = "vscode-eclipse-keybindings";
     license = "MIT";
-    publisher = "alphabotsec";
+    name = "vscode-eclipse-keybindings";
     description = "Eclipse keybindings for Visual Studio Code";
+    publisher = "alphabotsec";
   };
   alygin-vscode-tlaplus = {
     pname = "alygin-vscode-tlaplus";
@@ -4544,10 +4568,10 @@
       url = "https://open-vsx.org/api/alygin/vscode-tlaplus/1.5.4/file/alygin.vscode-tlaplus-1.5.4.vsix";
       sha256 = "sha256-hM7f4RJ5PqzpHpowcHGTGg5TDQ1y/oep1uFvVfHe/MU=";
     };
-    name = "vscode-tlaplus";
     license = "MIT";
-    publisher = "alygin";
+    name = "vscode-tlaplus";
     description = "TLA+ language support";
+    publisher = "alygin";
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
@@ -4556,10 +4580,10 @@
       url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix";
       sha256 = "sha256-j3inzI5Sp038Yc3gAhBlOKTJcVAU/kAPf6FeemkMZuI=";
     };
-    name = "vscode-tlaplus-nightly";
     license = "MIT";
-    publisher = "alygin";
+    name = "vscode-tlaplus-nightly";
     description = "TLA+ language support (Nightly)";
+    publisher = "alygin";
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
@@ -4568,10 +4592,10 @@
       url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.38.0/file/amazonwebservices.aws-toolkit-vscode-1.38.0.vsix";
       sha256 = "sha256-HdQe6rmaRT4p0x4IO73NreKYPNGkgY5C2TeMRmzTLgc=";
     };
-    name = "aws-toolkit-vscode";
     license = "Apache-2.0";
-    publisher = "amazonwebservices";
+    name = "aws-toolkit-vscode";
     description = "Amazon Web Services toolkit for browsing and updating cloud resources";
+    publisher = "amazonwebservices";
   };
   amiralizadeh9480-laravel-extra-intellisense = {
     pname = "amiralizadeh9480-laravel-extra-intellisense";
@@ -4580,10 +4604,10 @@
       url = "https://open-vsx.org/api/amiralizadeh9480/laravel-extra-intellisense/0.6.2/file/amiralizadeh9480.laravel-extra-intellisense-0.6.2.vsix";
       sha256 = "sha256-OaYFNBM4HjtUTBi0fCuW6LgCdo3Ma6TQFmK4MZmo7/E=";
     };
-    name = "laravel-extra-intellisense";
     license = "MIT";
-    publisher = "amiralizadeh9480";
+    name = "laravel-extra-intellisense";
     description = "better intellisense for laravel projects.";
+    publisher = "amiralizadeh9480";
   };
   amodio-tsl-problem-matcher = {
     pname = "amodio-tsl-problem-matcher";
@@ -4592,10 +4616,10 @@
       url = "https://open-vsx.org/api/amodio/tsl-problem-matcher/0.6.2/file/amodio.tsl-problem-matcher-0.6.2.vsix";
       sha256 = "sha256-NXQI9kzaYRDLjzrejE491gGBi928N3qRhAQV0Uehl+8=";
     };
-    name = "tsl-problem-matcher";
     license = "MIT";
-    publisher = "amodio";
+    name = "tsl-problem-matcher";
     description = "Provides problem matchers for TypeScript projects using Webpack with ts-loader, fork-ts-checker-webpack-plugin with or without eslint, and/or tslint-loader";
+    publisher = "amodio";
   };
   andrewdavidblum-drupal-smart-snippets = {
     pname = "andrewdavidblum-drupal-smart-snippets";
@@ -4604,10 +4628,10 @@
       url = "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.2/file/andrewdavidblum.drupal-smart-snippets-1.0.2.vsix";
       sha256 = "sha256-goZEr8/8C04N2uR71Ffc/Gkr0AwWuqC4q69Zlw8t+G0=";
     };
-    name = "drupal-smart-snippets";
     license = "MIT";
-    publisher = "andrewdavidblum";
+    name = "drupal-smart-snippets";
     description = "Context-aware snippets for Drupal development";
+    publisher = "andrewdavidblum";
   };
   andreweinand-mock-debug = {
     pname = "andreweinand-mock-debug";
@@ -4616,10 +4640,10 @@
       url = "https://open-vsx.org/api/andreweinand/mock-debug/0.47.2/file/andreweinand.mock-debug-0.47.2.vsix";
       sha256 = "sha256-w8t6sI4VLd6nDp+LNtMupTCMSNZUYg65M507fEr+7aA=";
     };
-    name = "mock-debug";
     license = "MIT";
-    publisher = "andreweinand";
+    name = "mock-debug";
     description = "Starter extension for developing debug adapters for VS Code.";
+    publisher = "andreweinand";
   };
   andrewmcodes-rails-extension-power-pack = {
     pname = "andrewmcodes-rails-extension-power-pack";
@@ -4628,10 +4652,10 @@
       url = "https://open-vsx.org/api/andrewmcodes/rails-extension-power-pack/1.0.0/file/andrewmcodes.rails-extension-power-pack-1.0.0.vsix";
       sha256 = "sha256-dFzEYzT20iQ0kp6Av4b57GI40o3Sh2NGEwg3iGf6y8c=";
     };
-    name = "rails-extension-power-pack";
     license = "MIT";
-    publisher = "andrewmcodes";
+    name = "rails-extension-power-pack";
     description = "Andrew Mason's favorite extensions for Rails development in Visual Studio Code";
+    publisher = "andrewmcodes";
   };
   angular-rxjs-ngrx-angular-rxjs-ngrx = {
     pname = "angular-rxjs-ngrx-angular-rxjs-ngrx";
@@ -4640,10 +4664,10 @@
       url = "https://open-vsx.org/api/angular-rxjs-ngrx/angular-rxjs-ngrx/1.1.2/file/angular-rxjs-ngrx.angular-rxjs-ngrx-1.1.2.vsix";
       sha256 = "sha256-vgA9RNZ50FheNlbqBes4jdnmMx7YVo18oCQeF+xkfW0=";
     };
-    name = "angular-rxjs-ngrx";
     license = "ISC";
-    publisher = "angular-rxjs-ngrx";
+    name = "angular-rxjs-ngrx";
     description = "A collection of usefull snippets for angular developers, including some snippets for NgRx, NgRx component store, cypress, angular material, todo tree and much more";
+    publisher = "angular-rxjs-ngrx";
   };
   anibalsolon-neuro-viewer = {
     pname = "anibalsolon-neuro-viewer";
@@ -4652,10 +4676,10 @@
       url = "https://open-vsx.org/api/anibalsolon/neuro-viewer/0.0.13/file/anibalsolon.neuro-viewer-0.0.13.vsix";
       sha256 = "sha256-L/O9BT4gwknUioubD8lL39GEyQgrl79dx/+LjF07ziE=";
     };
-    name = "neuro-viewer";
     license = "MIT";
-    publisher = "anibalsolon";
+    name = "neuro-viewer";
     description = "View your neuroimaging files in VSCode!";
+    publisher = "anibalsolon";
   };
   ankitpati-vscodium-amoled = {
     pname = "ankitpati-vscodium-amoled";
@@ -4664,10 +4688,10 @@
       url = "https://open-vsx.org/api/ankitpati/vscodium-amoled/1.0.3/file/ankitpati.vscodium-amoled-1.0.3.vsix";
       sha256 = "sha256-l4Al/6d0Vt8gwivOEXwRPOoUldqOHuVVU4N5qj/II18=";
     };
-    name = "vscodium-amoled";
     license = "GPL-3.0-or-later";
-    publisher = "ankitpati";
+    name = "vscodium-amoled";
     description = "AMOLED Black Theme";
+    publisher = "ankitpati";
   };
   anseki-vscode-color = {
     pname = "anseki-vscode-color";
@@ -4676,10 +4700,10 @@
       url = "https://open-vsx.org/api/anseki/vscode-color/0.4.5/file/anseki.vscode-color-0.4.5.vsix";
       sha256 = "sha256-JatbZMEVkHc77LqBDQyb5F3Y4RWc23elb96CkZWRi4A=";
     };
-    name = "vscode-color";
     license = "MIT";
-    publisher = "anseki";
+    name = "vscode-color";
     description = "Helper with GUI to generate color codes such as CSS color notations.";
+    publisher = "anseki";
   };
   anteprimorac-html-end-tag-labels = {
     pname = "anteprimorac-html-end-tag-labels";
@@ -4688,10 +4712,10 @@
       url = "https://open-vsx.org/api/anteprimorac/html-end-tag-labels/0.9.0/file/anteprimorac.html-end-tag-labels-0.9.0.vsix";
       sha256 = "sha256-cuSHr2NTWlM4bZV0gNPP+zMQABLuJPr5B7lQeii+9H4=";
     };
-    name = "html-end-tag-labels";
     license = "MIT";
-    publisher = "anteprimorac";
+    name = "html-end-tag-labels";
     description = "Labels HTML end tags in VSCode";
+    publisher = "anteprimorac";
   };
   antfu-browse-lite = {
     pname = "antfu-browse-lite";
@@ -4700,10 +4724,10 @@
       url = "https://open-vsx.org/api/antfu/browse-lite/0.3.0/file/antfu.browse-lite-0.3.0.vsix";
       sha256 = "sha256-rE64a2AeoWBEqG/TtTVr0H7QwWI8x8I1CNPOLshsEHs=";
     };
-    name = "browse-lite";
     license = "MIT";
-    publisher = "antfu";
+    name = "browse-lite";
     description = "Embedded browser in VS Code.";
+    publisher = "antfu";
   };
   antfu-i18n-ally = {
     pname = "antfu-i18n-ally";
@@ -4712,10 +4736,10 @@
       url = "https://open-vsx.org/api/antfu/i18n-ally/3.4.20/file/antfu.i18n-ally-3.4.20.vsix";
       sha256 = "sha256-Vo5fbjQyMMafZyS1ce4sZ8z8YuBAtvYqTs1Lb+xa6uI=";
     };
-    name = "i18n-ally";
     license = "MIT";
-    publisher = "antfu";
+    name = "i18n-ally";
     description = "Renamed to \"lokalise.i18n-ally\"";
+    publisher = "antfu";
   };
   antfu-iconify = {
     pname = "antfu-iconify";
@@ -4724,10 +4748,10 @@
       url = "https://open-vsx.org/api/antfu/iconify/0.3.2/file/antfu.iconify-0.3.2.vsix";
       sha256 = "sha256-nrDmpCyKRBbruSc3GqI+Wyd+i+0o3tcH/KUkQoItXXI=";
     };
-    name = "iconify";
     license = "MIT";
-    publisher = "antfu";
+    name = "iconify";
     description = "Intelligent Iconify previewing and searching for VS Code";
+    publisher = "antfu";
   };
   antfu-icons-carbon = {
     pname = "antfu-icons-carbon";
@@ -4736,10 +4760,10 @@
       url = "https://open-vsx.org/api/antfu/icons-carbon/0.2.4/file/antfu.icons-carbon-0.2.4.vsix";
       sha256 = "sha256-z/ZYPtE9gdsx9rKJ/6Y6kg40KhlLt2OrNG5zg7UBCM8=";
     };
-    name = "icons-carbon";
     license = "MIT";
-    publisher = "antfu";
+    name = "icons-carbon";
     description = "Carbon Product Icons for VS Code";
+    publisher = "antfu";
   };
   antfu-slidev = {
     pname = "antfu-slidev";
@@ -4748,10 +4772,10 @@
       url = "https://open-vsx.org/api/antfu/slidev/0.3.3/file/antfu.slidev-0.3.3.vsix";
       sha256 = "sha256-JCazBAA80izFzGzXdJTsk7CbAjwbyAdQHwMkz/iDdds=";
     };
-    name = "slidev";
     license = "MIT";
-    publisher = "antfu";
+    name = "slidev";
     description = "Slidev support for VS Code";
+    publisher = "antfu";
   };
   antfu-theme-vitesse = {
     pname = "antfu-theme-vitesse";
@@ -4760,10 +4784,10 @@
       url = "https://open-vsx.org/api/antfu/theme-vitesse/0.1.14/file/antfu.theme-vitesse-0.1.14.vsix";
       sha256 = "sha256-KX8fA9+YjaWSI0HPyGYq3/iY2P5nCBTweaEvUpfhmu4=";
     };
-    name = "theme-vitesse";
     license = "MIT";
-    publisher = "antfu";
+    name = "theme-vitesse";
     description = "Vitesse theme for VS Code";
+    publisher = "antfu";
   };
   antfu-unocss = {
     pname = "antfu-unocss";
@@ -4772,10 +4796,10 @@
       url = "https://open-vsx.org/api/antfu/unocss/0.22.5/file/antfu.unocss-0.22.5.vsix";
       sha256 = "sha256-OZaymKKXLeDBAT6S5Ogq7r22wBdGjCsD9OMbKjNIVlo=";
     };
-    name = "unocss";
     license = "MIT";
-    publisher = "antfu";
+    name = "unocss";
     description = "UnoCSS for VS Code";
+    publisher = "antfu";
   };
   antfu-vite = {
     pname = "antfu-vite";
@@ -4784,10 +4808,10 @@
       url = "https://open-vsx.org/api/antfu/vite/0.2.5/file/antfu.vite-0.2.5.vsix";
       sha256 = "sha256-Jk7JTnaAwx1A5A7bk8yPHXMLILouODPCmcciPAZe1ak=";
     };
-    name = "vite";
     license = "MIT";
-    publisher = "antfu";
+    name = "vite";
     description = "VS Code for Vite";
+    publisher = "antfu";
   };
   antfu-vue-i18n-ally = {
     pname = "antfu-vue-i18n-ally";
@@ -4796,10 +4820,10 @@
       url = "https://open-vsx.org/api/antfu/vue-i18n-ally/0.36.10/file/antfu.vue-i18n-ally-0.36.10.vsix";
       sha256 = "sha256-X291EZIldpYxfMrObEigsO7y8K8d6YsntswCWy8B4kw=";
     };
-    name = "vue-i18n-ally";
     license = "MIT";
-    publisher = "antfu";
+    name = "vue-i18n-ally";
     description = "Renamed to \"lokalise.i18n-ally\"";
+    publisher = "antfu";
   };
   anucecsit-comp1720-extension-pack = {
     pname = "anucecsit-comp1720-extension-pack";
@@ -4808,10 +4832,10 @@
       url = "https://open-vsx.org/api/anucecsit/comp1720-extension-pack/1.1.0/file/anucecsit.comp1720-extension-pack-1.1.0.vsix";
       sha256 = "sha256-fW73EJfQNF9eAWCjwKAOpCLtQuZgeK9uy8bn0TOUx4k=";
     };
-    name = "comp1720-extension-pack";
     license = "MIT";
-    publisher = "anucecsit";
+    name = "comp1720-extension-pack";
     description = "VSCode Extensions for COMP1720/6720 at the ANU Research School of Computer Science";
+    publisher = "anucecsit";
   };
   anwar-papyrus-language-support = {
     pname = "anwar-papyrus-language-support";
@@ -4820,10 +4844,10 @@
       url = "https://open-vsx.org/api/anwar/papyrus-language-support/1.11.1/file/anwar.papyrus-language-support-1.11.1.vsix";
       sha256 = "sha256-PPCYTCyHGGjWjqV9/p+HLRwkdPZ0gBlIw62gA6Ab6HQ=";
     };
-    name = "papyrus-language-support";
     license = "MIT";
-    publisher = "anwar";
+    name = "papyrus-language-support";
     description = "Language Server for Papyrus DOCDEF, Syntax Highlighter, Code Validation";
+    publisher = "anwar";
   };
   anwar-papyrus-pdf = {
     pname = "anwar-papyrus-pdf";
@@ -4832,10 +4856,10 @@
       url = "https://open-vsx.org/api/anwar/papyrus-pdf/0.0.7/file/anwar.papyrus-pdf-0.0.7.vsix";
       sha256 = "sha256-zhdsQLxGwrhiAr/CFbwjYHQVLmTr+j2o0aeUyqbWzHQ=";
     };
-    name = "papyrus-pdf";
     license = "";
-    publisher = "anwar";
+    name = "papyrus-pdf";
     description = "Display pdf file in VSCode For Papyrus";
+    publisher = "anwar";
   };
   anwar-resourcemonitor = {
     pname = "anwar-resourcemonitor";
@@ -4844,10 +4868,10 @@
       url = "https://open-vsx.org/api/anwar/resourcemonitor/1.0.10/file/anwar.resourcemonitor-1.0.10.vsix";
       sha256 = "sha256-QBScaHIxcQaeF2B7ytKBQIkJk5QiBOk6cfh0J7Mevl8=";
     };
-    name = "resourcemonitor";
     license = "MIT";
-    publisher = "anwar";
+    name = "resourcemonitor";
     description = "Displays current CPU stats, memory/disk consumption, and battery percentage remaining.";
+    publisher = "anwar";
   };
   anweber-bluepaint = {
     pname = "anweber-bluepaint";
@@ -4856,10 +4880,10 @@
       url = "https://open-vsx.org/api/anweber/bluepaint/0.4.0/file/anweber.bluepaint-0.4.0.vsix";
       sha256 = "sha256-lg0hLWrE93QVMHnu/QrB/W7EZ7/G0Eatyi8LT7nS9vc=";
     };
-    name = "bluepaint";
     license = "MIT";
-    publisher = "anweber";
+    name = "bluepaint";
     description = "A blue VS Code theme";
+    publisher = "anweber";
   };
   anweber-dot-icons = {
     pname = "anweber-dot-icons";
@@ -4868,10 +4892,10 @@
       url = "https://open-vsx.org/api/anweber/dot-icons/0.3.0/file/anweber.dot-icons-0.3.0.vsix";
       sha256 = "sha256-02Zx+NI+T2hNqEuUyUKhI+lnp1DEt9QHMYYNsRvC7Nw=";
     };
-    name = "dot-icons";
     license = "MIT";
-    publisher = "anweber";
+    name = "dot-icons";
     description = "Icons with a dot";
+    publisher = "anweber";
   };
   anweber-git-buttons = {
     pname = "anweber-git-buttons";
@@ -4880,10 +4904,10 @@
       url = "https://open-vsx.org/api/anweber/git-buttons/3.0.0/file/anweber.git-buttons-3.0.0.vsix";
       sha256 = "sha256-gT51uiQbmZDAqsHd1pzLoDWrFv1N2wIDsxEMbcdyH8M=";
     };
-    name = "git-buttons";
     license = "MIT";
-    publisher = "anweber";
+    name = "git-buttons";
     description = "Git Buttons for Visual Studio Code";
+    publisher = "anweber";
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
@@ -4892,10 +4916,10 @@
       url = "https://open-vsx.org/api/anweber/httpbook/3.1.1/file/anweber.httpbook-3.1.1.vsix";
       sha256 = "sha256-GBiPP4ns4RVTB62Mbc7XVQslM+XKhYncsF3xJKN5FfI=";
     };
-    name = "httpbook";
     license = "MIT";
-    publisher = "anweber";
+    name = "httpbook";
     description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT and WebSocket requests directly within Visual Studio Code";
+    publisher = "anweber";
   };
   anweber-httpbook-grid = {
     pname = "anweber-httpbook-grid";
@@ -4904,10 +4928,10 @@
       url = "https://open-vsx.org/api/anweber/httpbook-grid/0.6.0/file/anweber.httpbook-grid-0.6.0.vsix";
       sha256 = "sha256-V7vzgyt4+L67W0VGSH57Wwqep3Gpp0H1VopC6To/dZI=";
     };
-    name = "httpbook-grid";
     license = "MIT";
-    publisher = "anweber";
+    name = "httpbook-grid";
     description = "httpbook extension to view data in grid";
+    publisher = "anweber";
   };
   anweber-httpbook-monacorenderer = {
     pname = "anweber-httpbook-monacorenderer";
@@ -4916,10 +4940,10 @@
       url = "https://open-vsx.org/api/anweber/httpbook-monacorenderer/2.0.1/file/anweber.httpbook-monacorenderer-2.0.1.vsix";
       sha256 = "sha256-ie6dh6+m6HkewGuXkUPCsqHbRnw1stJNBDYCTYow8SA=";
     };
-    name = "httpbook-monacorenderer";
     license = "MIT";
-    publisher = "anweber";
+    name = "httpbook-monacorenderer";
     description = "Monaco Editor with Find enabled";
+    publisher = "anweber";
   };
   anweber-reveal-button = {
     pname = "anweber-reveal-button";
@@ -4928,10 +4952,10 @@
       url = "https://open-vsx.org/api/anweber/reveal-button/1.1.1/file/anweber.reveal-button-1.1.1.vsix";
       sha256 = "sha256-ni6LI5phWwbTPbyVOiyQLLkX0e7VDBfMw4BYX4l6np0=";
     };
-    name = "reveal-button";
     license = "MIT";
-    publisher = "anweber";
+    name = "reveal-button";
     description = "Reveal Button in Sidebar";
+    publisher = "anweber";
   };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
@@ -4940,10 +4964,10 @@
       url = "https://open-vsx.org/api/anweber/statusbar-commands/2.2.1/file/anweber.statusbar-commands-2.2.1.vsix";
       sha256 = "sha256-W/+z1IfQ+goOOWMdz+YsoL6MZsGeLyIMnn7VN/M+3Ks=";
     };
-    name = "statusbar-commands";
     license = "ISC";
-    publisher = "anweber";
+    name = "statusbar-commands";
     description = "extend the statusbar with own commands";
+    publisher = "anweber";
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
@@ -4952,10 +4976,10 @@
       url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.2/file/anweber.vscode-httpyac-5.4.2.vsix";
       sha256 = "sha256-ghx+IHVrlQAKTCpM62XXZUzg04pRBXDSD2MMt7YiD7o=";
     };
-    name = "vscode-httpyac";
     license = "MIT";
-    publisher = "anweber";
+    name = "vscode-httpyac";
     description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code";
+    publisher = "anweber";
   };
   aperricone-harbour = {
     pname = "aperricone-harbour";
@@ -4964,10 +4988,10 @@
       url = "https://open-vsx.org/api/aperricone/harbour/1.0.3/file/aperricone.harbour-1.0.3.vsix";
       sha256 = "sha256-L8k0Ib9Wr9+fBbVcBeg1EWp9LINhbJINZAfoENjEBnk=";
     };
-    name = "harbour";
     license = "MIT";
-    publisher = "aperricone";
+    name = "harbour";
     description = "Harbour and xHarbour languages support for visual studio code";
+    publisher = "aperricone";
   };
   aperricone-regexper-unofficial = {
     pname = "aperricone-regexper-unofficial";
@@ -4976,10 +5000,10 @@
       url = "https://open-vsx.org/api/aperricone/regexper-unofficial/0.0.3/file/aperricone.regexper-unofficial-0.0.3.vsix";
       sha256 = "sha256-PO0jaOlYDZMi5XIKIuM+PeCAv6336XqO3s7/NmC4+Jo=";
     };
-    name = "regexper-unofficial";
     license = "MIT";
-    publisher = "aperricone";
+    name = "regexper-unofficial";
     description = "Regexper for vscode";
+    publisher = "aperricone";
   };
   aperricone-vscode-dbf = {
     pname = "aperricone-vscode-dbf";
@@ -4988,10 +5012,10 @@
       url = "https://open-vsx.org/api/aperricone/vscode-dbf/0.1.2/file/aperricone.vscode-dbf-0.1.2.vsix";
       sha256 = "sha256-jOU5NCKubsGUfG5EGvb2BXsz5SPEFjQxu6e/Y/Hh6q8=";
     };
-    name = "vscode-dbf";
     license = "MIT";
-    publisher = "aperricone";
+    name = "vscode-dbf";
     description = "DBF table viewer for VSCode";
+    publisher = "aperricone";
   };
   apollographql-apollo-midnight-color-theme = {
     pname = "apollographql-apollo-midnight-color-theme";
@@ -5000,10 +5024,10 @@
       url = "https://open-vsx.org/api/apollographql/apollo-midnight-color-theme/0.9.0/file/apollographql.apollo-midnight-color-theme-0.9.0.vsix";
       sha256 = "sha256-mRyvBXFJVAs5uXa1UOQr3lfaHoBl2cyUJfwzctoHWLc=";
     };
-    name = "apollo-midnight-color-theme";
     license = "MIT";
-    publisher = "apollographql";
+    name = "apollo-midnight-color-theme";
     description = "A dark theme based on Apollo Studio's color palette in Explorer dark mode.";
+    publisher = "apollographql";
   };
   appliedengdesign-vscode-gcode-syntax = {
     pname = "appliedengdesign-vscode-gcode-syntax";
@@ -5012,10 +5036,10 @@
       url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.1/file/appliedengdesign.vscode-gcode-syntax-0.7.1.vsix";
       sha256 = "sha256-DsH3rg56CyRQqnIHXUrVofdlcuIlVJ6WFLNGpc0SU0U=";
     };
-    name = "vscode-gcode-syntax";
     license = "MIT";
-    publisher = "appliedengdesign";
+    name = "vscode-gcode-syntax";
     description = "Turn VSCode into a fully capable G-Code editor, including language support & more.";
+    publisher = "appliedengdesign";
   };
   appulate-filewatcher = {
     pname = "appulate-filewatcher";
@@ -5024,10 +5048,10 @@
       url = "https://open-vsx.org/api/appulate/filewatcher/1.0.3/file/appulate.filewatcher-1.0.3.vsix";
       sha256 = "sha256-s4CpuGdyPdmvAW2I6REFN81oM/7AavVoCsr4isLtBvs=";
     };
-    name = "filewatcher";
     license = "MIT";
-    publisher = "appulate";
+    name = "filewatcher";
     description = "Watch file or folder changes, and run matched command scripts.";
+    publisher = "appulate";
   };
   arcanis-vscode-zipfs = {
     pname = "arcanis-vscode-zipfs";
@@ -5036,10 +5060,10 @@
       url = "https://open-vsx.org/api/arcanis/vscode-zipfs/2.4.0-rc.5/file/arcanis.vscode-zipfs-2.4.0-rc.5.vsix";
       sha256 = "sha256-UQff1M9M40e10nB4FyGqmFDrnlIT5sstaqzd52d2/iI=";
     };
-    name = "vscode-zipfs";
     license = "BSD-2-Clause";
-    publisher = "arcanis";
+    name = "vscode-zipfs";
     description = "Allows to easily inspect and modify files stored within zip archives.";
+    publisher = "arcanis";
   };
   arcticicestudio-nord-visual-studio-code = {
     pname = "arcticicestudio-nord-visual-studio-code";
@@ -5048,10 +5072,10 @@
       url = "https://open-vsx.org/api/arcticicestudio/nord-visual-studio-code/0.19.0/file/arcticicestudio.nord-visual-studio-code-0.19.0.vsix";
       sha256 = "sha256-fwsDkiRxIysHsU4LRtz6b4xn39QpOxZ+TM7GCMxvvh0=";
     };
-    name = "nord-visual-studio-code";
     license = "MIT";
-    publisher = "arcticicestudio";
+    name = "nord-visual-studio-code";
     description = "An arctic, north-bluish clean and elegant Visual Studio Code theme.";
+    publisher = "arcticicestudio";
   };
   ardisaurus-gitflow-actions-sidebar = {
     pname = "ardisaurus-gitflow-actions-sidebar";
@@ -5060,10 +5084,10 @@
       url = "https://open-vsx.org/api/ardisaurus/gitflow-actions-sidebar/0.5.0/file/ardisaurus.gitflow-actions-sidebar-0.5.0.vsix";
       sha256 = "sha256-jpuYU0u7D2mPIWDQbkdDU68I1/sIYhbsXqbcZ56ts0s=";
     };
-    name = "gitflow-actions-sidebar";
     license = "MIT";
-    publisher = "ardisaurus";
+    name = "gitflow-actions-sidebar";
     description = "Gitflow integration sidebar in Visual Studio Code";
+    publisher = "ardisaurus";
   };
   arielcostas-flatcode = {
     pname = "arielcostas-flatcode";
@@ -5072,10 +5096,10 @@
       url = "https://open-vsx.org/api/arielcostas/flatcode/0.2.0/file/arielcostas.flatcode-0.2.0.vsix";
       sha256 = "sha256-qEK3cQq64Lg4WhiYvQx8YyGDQ5Rrm03IOJI9EuqzD+Q=";
     };
-    name = "flatcode";
     license = "Apache-2.0";
-    publisher = "arielcostas";
+    name = "flatcode";
     description = "A port of the FlatLaf theme available in Apache NetBeans, for VSCodium/VSCode";
+    publisher = "arielcostas";
   };
   arjun-swagger-viewer = {
     pname = "arjun-swagger-viewer";
@@ -5084,10 +5108,10 @@
       url = "https://open-vsx.org/api/arjun/swagger-viewer/3.1.2/file/arjun.swagger-viewer-3.1.2.vsix";
       sha256 = "sha256-GuBfR+A+kb6VVt9qoiM1XEguOf+C2UBVMCuHJkzXrlE=";
     };
-    name = "swagger-viewer";
     license = "MIT";
-    publisher = "arjun";
+    name = "swagger-viewer";
     description = "Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code.";
+    publisher = "arjun";
   };
   armandphilippot-coldark = {
     pname = "armandphilippot-coldark";
@@ -5096,10 +5120,10 @@
       url = "https://open-vsx.org/api/armandphilippot/coldark/1.2.11/file/armandphilippot.coldark-1.2.11.vsix";
       sha256 = "sha256-6hsFGU7bYbreNEJx9js2WnOTRvEGt4uQ0vpSWkmPGd8=";
     };
-    name = "coldark";
     license = "MIT";
-    publisher = "armandphilippot";
+    name = "coldark";
     description = "A blue-grey theme with light & dark versions.";
+    publisher = "armandphilippot";
   };
   arnoudkooicom-sn-scriptsync = {
     pname = "arnoudkooicom-sn-scriptsync";
@@ -5108,10 +5132,10 @@
       url = "https://open-vsx.org/api/arnoudkooicom/sn-scriptsync/2.3.3/file/arnoudkooicom.sn-scriptsync-2.3.3.vsix";
       sha256 = "sha256-C9qlot8fOo2bLKn1mmlqkdhdtjTI0UpNv1PENELdEOI=";
     };
-    name = "sn-scriptsync";
     license = "MIT";
-    publisher = "arnoudkooicom";
+    name = "sn-scriptsync";
     description = "ServiceNow ScriptSync for VS Code. (Personal work of Arnoud Kooi)";
+    publisher = "arnoudkooicom";
   };
   arrterian-nix-env-selector = {
     pname = "arrterian-nix-env-selector";
@@ -5120,10 +5144,10 @@
       url = "https://open-vsx.org/api/arrterian/nix-env-selector/1.0.9/file/arrterian.nix-env-selector-1.0.9.vsix";
       sha256 = "sha256-KPVH74+gjDbjBLYtTOrTWEVcDB41oMn4cqK3/Yubhzs=";
     };
-    name = "nix-env-selector";
     license = "MIT";
-    publisher = "arrterian";
+    name = "nix-env-selector";
     description = "Allows switch environment for Visual Studio Code and extensions based on Nix config file.";
+    publisher = "arrterian";
   };
   artdiniz-quitcontrol-vscode = {
     pname = "artdiniz-quitcontrol-vscode";
@@ -5132,10 +5156,10 @@
       url = "https://open-vsx.org/api/artdiniz/quitcontrol-vscode/4.0.0/file/artdiniz.quitcontrol-vscode-4.0.0.vsix";
       sha256 = "sha256-jf/iC0Qi37ilSea2ICJ0UM+KKciV4B+eofLhpUMMbEs=";
     };
-    name = "quitcontrol-vscode";
     license = "MIT";
-    publisher = "artdiniz";
+    name = "quitcontrol-vscode";
     description = "Stop mistyping keyboard shortctus that close/quit VSCode unintentionally";
+    publisher = "artdiniz";
   };
   arthurwangtz-embeddedv-studio = {
     pname = "arthurwangtz-embeddedv-studio";
@@ -5144,10 +5168,10 @@
       url = "https://open-vsx.org/api/arthurwangtz/embeddedv-studio/0.1.0/file/arthurwangtz.embeddedv-studio-0.1.0.vsix";
       sha256 = "sha256-6s2cPS7q0wbiDydRXDgvYbn6l3gFzAHckhWQYJMkHSo=";
     };
-    name = "embeddedv-studio";
     license = "MIT";
-    publisher = "arthurwangtz";
+    name = "embeddedv-studio";
     description = "An extension that helps to develop EmbeddedV code";
+    publisher = "arthurwangtz";
   };
   arthurwangtz-systemx-studio = {
     pname = "arthurwangtz-systemx-studio";
@@ -5156,10 +5180,10 @@
       url = "https://open-vsx.org/api/arthurwangtz/systemx-studio/0.1.0/file/arthurwangtz.systemx-studio-0.1.0.vsix";
       sha256 = "sha256-t9nPEIpNJS1j7hZiH4sJkuyPFhSaUb7mb0RO9tckoc0=";
     };
-    name = "systemx-studio";
     license = "MIT";
-    publisher = "arthurwangtz";
+    name = "systemx-studio";
     description = "A VS-Code / Theia extension to compose program on SystemX";
+    publisher = "arthurwangtz";
   };
   artlaman-chalice-color-theme = {
     pname = "artlaman-chalice-color-theme";
@@ -5168,10 +5192,10 @@
       url = "https://open-vsx.org/api/artlaman/chalice-color-theme/1.0.2/file/artlaman.chalice-color-theme-1.0.2.vsix";
       sha256 = "sha256-Y4s11MCdRWngX0t8JxJsX/ixYibtVpXwzkufjuou7kE=";
     };
-    name = "chalice-color-theme";
     license = "MIT";
-    publisher = "artlaman";
+    name = "chalice-color-theme";
     description = "Minimalistic color themes based on Alabaster theme";
+    publisher = "artlaman";
   };
   artlaman-chalice-icon-theme = {
     pname = "artlaman-chalice-icon-theme";
@@ -5180,10 +5204,10 @@
       url = "https://open-vsx.org/api/artlaman/chalice-icon-theme/1.2.19/file/artlaman.chalice-icon-theme-1.2.19.vsix";
       sha256 = "sha256-Bm4YK7QgJYrjy6X+VpABWzYtCVUCVMTwURWdFXC5lic=";
     };
-    name = "chalice-icon-theme";
     license = "MIT";
-    publisher = "artlaman";
+    name = "chalice-icon-theme";
     description = "A minimalistic icon theme";
+    publisher = "artlaman";
   };
   arturock-gitstash = {
     pname = "arturock-gitstash";
@@ -5192,10 +5216,10 @@
       url = "https://open-vsx.org/api/arturock/gitstash/5.1.0/file/arturock.gitstash-5.1.0.vsix";
       sha256 = "sha256-xbWuSXZ3IGTbN2bHlQUPNXwbTr2bcr6PPpsEionfWdk=";
     };
-    name = "gitstash";
     license = "MIT";
-    publisher = "arturock";
+    name = "gitstash";
     description = "Give extra stash abilities to Code. Visually browse stashes, review and extract changes. Get all stash commands and more.";
+    publisher = "arturock";
   };
   arzg-apprentice = {
     pname = "arzg-apprentice";
@@ -5204,10 +5228,10 @@
       url = "https://open-vsx.org/api/arzg/apprentice/1.0.0/file/arzg.apprentice-1.0.0.vsix";
       sha256 = "sha256-o4RuihYQwQsQB7W7+q6EjOKB59u/RWM4uGKiO9+5x6I=";
     };
-    name = "apprentice";
     license = "MIT";
-    publisher = "arzg";
+    name = "apprentice";
     description = "romainl/Apprentice ported to VS Code";
+    publisher = "arzg";
   };
   arzg-gamut = {
     pname = "arzg-gamut";
@@ -5216,10 +5240,10 @@
       url = "https://open-vsx.org/api/arzg/gamut/1.11.0/file/arzg.gamut-1.11.0.vsix";
       sha256 = "sha256-4a8ABxYDCeNWDcWQ4Cf1lLv9stS+t5US5tCrVRLirgg=";
     };
-    name = "gamut";
     license = "MIT";
-    publisher = "arzg";
+    name = "gamut";
     description = "A colourful theme inspired by Xcode";
+    publisher = "arzg";
   };
   arzg-intellij-theme = {
     pname = "arzg-intellij-theme";
@@ -5228,10 +5252,10 @@
       url = "https://open-vsx.org/api/arzg/intellij-theme/1.11.0/file/arzg.intellij-theme-1.11.0.vsix";
       sha256 = "sha256-+sUyYFHCpkOpMKXjYbji2B+IUnea9P8LTavIDaGv/ZY=";
     };
-    name = "intellij-theme";
     license = "MIT";
-    publisher = "arzg";
+    name = "intellij-theme";
     description = "A faithful recreation of IntelliJ\8217s themes for VS Code";
+    publisher = "arzg";
   };
   arzg-noel = {
     pname = "arzg-noel";
@@ -5240,10 +5264,10 @@
       url = "https://open-vsx.org/api/arzg/noel/2.0.0/file/arzg.noel-2.0.0.vsix";
       sha256 = "sha256-CHAeBttvdOtnncDwIrnH6QNHxDrIXIOyJ1TK6lfrh2A=";
     };
-    name = "noel";
     license = "MIT";
-    publisher = "arzg";
+    name = "noel";
     description = "A VS Code theme based on the colours of the GMK Noel keycaps";
+    publisher = "arzg";
   };
   arzg-rustdoc-theme = {
     pname = "arzg-rustdoc-theme";
@@ -5252,10 +5276,10 @@
       url = "https://open-vsx.org/api/arzg/rustdoc-theme/1.0.0/file/arzg.rustdoc-theme-1.0.0.vsix";
       sha256 = "sha256-zlZshkLExhGTsub1qfoYcazq9CG/R17A8xGxP6AlGqY=";
     };
-    name = "rustdoc-theme";
     license = "MIT";
-    publisher = "arzg";
+    name = "rustdoc-theme";
     description = "themes from rustdoc in VS Code";
+    publisher = "arzg";
   };
   arzg-sema = {
     pname = "arzg-sema";
@@ -5264,10 +5288,10 @@
       url = "https://open-vsx.org/api/arzg/sema/1.12.1/file/arzg.sema-1.12.1.vsix";
       sha256 = "sha256-vCNU6YB1TD4DzU7KRBDU4Na+dN6TV6myWYaB+qctwZE=";
     };
-    name = "sema";
     license = "MIT";
-    publisher = "arzg";
+    name = "sema";
     description = "A theme that focuses on what\8217s important";
+    publisher = "arzg";
   };
   arzg-seoul = {
     pname = "arzg-seoul";
@@ -5276,10 +5300,10 @@
       url = "https://open-vsx.org/api/arzg/seoul/1.0.0/file/arzg.seoul-1.0.0.vsix";
       sha256 = "sha256-WGx2F4qe1FzkcQtNb283PgXj0sbDrYlY1LHOxPnhilM=";
     };
-    name = "seoul";
     license = "MIT";
-    publisher = "arzg";
+    name = "seoul";
     description = "A theme based on seoul256.vim";
+    publisher = "arzg";
   };
   arzg-slate = {
     pname = "arzg-slate";
@@ -5288,10 +5312,10 @@
       url = "https://open-vsx.org/api/arzg/slate/1.3.0/file/arzg.slate-1.3.0.vsix";
       sha256 = "sha256-WWGhgYDqYSwt0JZ6f65LulP8lBu/Zq1S847ZgMvseR8=";
     };
-    name = "slate";
     license = "MIT";
-    publisher = "arzg";
+    name = "slate";
     description = "Based heavily on Spacegray for Sublime Text";
+    publisher = "arzg";
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
@@ -5300,10 +5324,10 @@
       url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.9/file/arzg.xcode-theme-0.7.9.vsix";
       sha256 = "sha256-ILUlxmmTrggUG0IMU/L/RezUoUwohx9jmufcFDRuPRQ=";
     };
-    name = "xcode-theme";
     license = "MIT";
-    publisher = "arzg";
+    name = "xcode-theme";
     description = "Xcode\8217s themes, ported to VS Code";
+    publisher = "arzg";
   };
   asabil-meson = {
     pname = "asabil-meson";
@@ -5312,10 +5336,10 @@
       url = "https://open-vsx.org/api/asabil/meson/1.3.0/file/asabil.meson-1.3.0.vsix";
       sha256 = "sha256-M/dU0Ls9i8KbjQRjIxciWhJDYf+oFetaYCIChqPFmus=";
     };
-    name = "meson";
     license = "Apache-2.0";
-    publisher = "asabil";
+    name = "meson";
     description = "Meson language support for Visual Studio Code";
+    publisher = "asabil";
   };
   asciidoctor-asciidoctor-vscode = {
     pname = "asciidoctor-asciidoctor-vscode";
@@ -5324,10 +5348,10 @@
       url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.8/file/asciidoctor.asciidoctor-vscode-2.9.8.vsix";
       sha256 = "sha256-OdsyiwMnZMfPeOe/qMuipb9Eh3uaRmPBtor7NgaZKog=";
     };
-    name = "asciidoctor-vscode";
     license = "MIT";
-    publisher = "asciidoctor";
+    name = "asciidoctor-vscode";
     description = "Provides rich language support for AsciiDoc.";
+    publisher = "asciidoctor";
   };
   asispts-oxford-blue = {
     pname = "asispts-oxford-blue";
@@ -5336,10 +5360,10 @@
       url = "https://open-vsx.org/api/asispts/oxford-blue/0.4.0/file/asispts.oxford-blue-0.4.0.vsix";
       sha256 = "sha256-pL7vNK6N3KmwD6AhAWr+SRN9Ghm1l5IYPpsVXmVeTkk=";
     };
-    name = "oxford-blue";
     license = "MIT";
-    publisher = "asispts";
+    name = "oxford-blue";
     description = "Yet another Visual Studio Code (vscode) dark theme";
+    publisher = "asispts";
   };
   assisrMatheus-sidebar-markdown-notes = {
     pname = "assisrMatheus-sidebar-markdown-notes";
@@ -5348,10 +5372,10 @@
       url = "https://open-vsx.org/api/assisrMatheus/sidebar-markdown-notes/1.0.4/file/assisrMatheus.sidebar-markdown-notes-1.0.4.vsix";
       sha256 = "sha256-shqLyJWmRNfi441yErSuDM4wei/XD/MCnz/08wqEHH8=";
     };
-    name = "sidebar-markdown-notes";
     license = "GPL-3.0-or-later";
-    publisher = "assisrMatheus";
+    name = "sidebar-markdown-notes";
     description = "Take notes in your sidebar using markdown";
+    publisher = "assisrMatheus";
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
@@ -5360,10 +5384,10 @@
       url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.2/file/astro-build.astro-vscode-0.19.2.vsix";
       sha256 = "sha256-7smuG7meCSW2WPUymP8pNOmmXv9PhySk+5T5NfqkxGM=";
     };
-    name = "astro-vscode";
     license = "MIT";
-    publisher = "astro-build";
+    name = "astro-vscode";
     description = "Language support for Astro";
+    publisher = "astro-build";
   };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
@@ -5372,10 +5396,10 @@
       url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.85/file/asvetliakov.vscode-neovim-0.0.85.vsix";
       sha256 = "sha256-dxPyjLWY2IVNpbwyAxyZYtFUDrV3DG/HJsOzsRVSJ8w=";
     };
-    name = "vscode-neovim";
     license = "MIT";
-    publisher = "asvetliakov";
+    name = "vscode-neovim";
     description = "VSCode Neovim Integration";
+    publisher = "asvetliakov";
   };
   atishay-jain-All-Autocomplete = {
     pname = "atishay-jain-All-Autocomplete";
@@ -5384,10 +5408,10 @@
       url = "https://open-vsx.org/api/atishay-jain/All-Autocomplete/0.0.23/file/atishay-jain.All-Autocomplete-0.0.23.vsix";
       sha256 = "sha256-HiCPx63EZm0xihjAAUVB0/OmFpXj/TeNU7u/UGBSV+8=";
     };
-    name = "All-Autocomplete";
     license = "MIT";
-    publisher = "atishay-jain";
+    name = "All-Autocomplete";
     description = "Create autocomplete items from open files in VSCode.";
+    publisher = "atishay-jain";
   };
   atlassian-atlascode = {
     pname = "atlassian-atlascode";
@@ -5396,10 +5420,10 @@
       url = "https://open-vsx.org/api/atlassian/atlascode/2.10.11/file/atlassian.atlascode-2.10.11.vsix";
       sha256 = "sha256-jmGgi9SGHdl6fqId4Qs2PzBDZD29h9RooQ/KtAM9qN0=";
     };
-    name = "atlascode";
     license = "MIT";
-    publisher = "atlassian";
+    name = "atlascode";
     description = "Bringing the power of Jira and Bitbucket to VS Code - With Atlassian for VS Code you can create and view issues, start work on issues, create pull requests, do code reviews, start builds, get build statuses and more!";
+    publisher = "atlassian";
   };
   atsushieno-language-review = {
     pname = "atsushieno-language-review";
@@ -5408,10 +5432,10 @@
       url = "https://open-vsx.org/api/atsushieno/language-review/0.7.3/file/atsushieno.language-review-0.7.3.vsix";
       sha256 = "sha256-0xIUvP+5L4PH/AdJ1+G1Jl+1upp2eqW7lnWlTteSfSw=";
     };
-    name = "language-review";
     license = "Apache License Version 2.0";
-    publisher = "atsushieno";
+    name = "language-review";
     description = "Re:VIEW language Support for Visual Studio Code.";
+    publisher = "atsushieno";
   };
   atsushieno-vscode-language-mugene = {
     pname = "atsushieno-vscode-language-mugene";
@@ -5420,10 +5444,10 @@
       url = "https://open-vsx.org/api/atsushieno/vscode-language-mugene/0.2.26/file/atsushieno.vscode-language-mugene-0.2.26.vsix";
       sha256 = "sha256-XLp9UUT7F1vW3iLQ4Zse0Hh5uo5djW+LyxS0rcT9Tjg=";
     };
-    name = "vscode-language-mugene";
     license = "MIT";
-    publisher = "atsushieno";
+    name = "vscode-language-mugene";
     description = "mugene MML compiler support";
+    publisher = "atsushieno";
   };
   attilabuti-brainfuck-syntax = {
     pname = "attilabuti-brainfuck-syntax";
@@ -5432,10 +5456,10 @@
       url = "https://open-vsx.org/api/attilabuti/brainfuck-syntax/0.0.1/file/attilabuti.brainfuck-syntax-0.0.1.vsix";
       sha256 = "sha256-XBoCOD/gHtglsOmcnUNWeOzrMVSCbMIX4osbYcyedpM=";
     };
-    name = "brainfuck-syntax";
     license = "MIT";
-    publisher = "attilabuti";
+    name = "brainfuck-syntax";
     description = "Syntax highlighting support for Brainfuck.";
+    publisher = "attilabuti";
   };
   auchenberg-vscode-browser-preview = {
     pname = "auchenberg-vscode-browser-preview";
@@ -5444,10 +5468,10 @@
       url = "https://open-vsx.org/api/auchenberg/vscode-browser-preview/0.7.2/file/auchenberg.vscode-browser-preview-0.7.2.vsix";
       sha256 = "sha256-rv4eiVdE5UfLV7FBtRiem20XUAs6DzXdgFfRkxSWhVY=";
     };
-    name = "vscode-browser-preview";
     license = "MIT";
-    publisher = "auchenberg";
+    name = "vscode-browser-preview";
     description = "This extension is deprecated in favor of the Live Preview extension.";
+    publisher = "auchenberg";
   };
   aurorabiz-blade-ui-kit = {
     pname = "aurorabiz-blade-ui-kit";
@@ -5456,10 +5480,10 @@
       url = "https://open-vsx.org/api/aurorabiz/blade-ui-kit/1.3.0/file/aurorabiz.blade-ui-kit-1.3.0.vsix";
       sha256 = "sha256-5/m7bFoDnEDJmcn4omLvXzKxHi0ioUN0pNC2pCScPm8=";
     };
-    name = "blade-ui-kit";
     license = "MIT";
-    publisher = "aurorabiz";
+    name = "blade-ui-kit";
     description = "Simple IntelliSense & Snippets for Blade UI Kit (blade-ui-kit.com)";
+    publisher = "aurorabiz";
   };
   bach-bahk-vs-code-snippets = {
     pname = "bach-bahk-vs-code-snippets";
@@ -5468,10 +5492,10 @@
       url = "https://open-vsx.org/api/bach/bahk-vs-code-snippets/0.0.2/file/bach.bahk-vs-code-snippets-0.0.2.vsix";
       sha256 = "sha256-Ptvnsk7F+m9Y/ayBLhL7cZ5I3AxCQm+tiJxAicDdzMc=";
     };
-    name = "bahk-vs-code-snippets";
     license = "MIT";
-    publisher = "bach";
+    name = "bahk-vs-code-snippets";
     description = "Code snippets for me";
+    publisher = "bach";
   };
   bajdzis-vscode-database = {
     pname = "bajdzis-vscode-database";
@@ -5480,10 +5504,10 @@
       url = "https://open-vsx.org/api/bajdzis/vscode-database/2.2.3/file/bajdzis.vscode-database-2.2.3.vsix";
       sha256 = "sha256-zYpzNYlgTvd50zIRDxvlh5hU89hYTPknf2tdp5XddnY=";
     };
-    name = "vscode-database";
     license = "MIT";
-    publisher = "bajdzis";
+    name = "vscode-database";
     description = "Support mysql, postgres, SSL, socked - SQL database";
+    publisher = "bajdzis";
   };
   baking-bad-michelson = {
     pname = "baking-bad-michelson";
@@ -5492,10 +5516,10 @@
       url = "https://open-vsx.org/api/baking-bad/michelson/0.1.0/file/baking-bad.michelson-0.1.0.vsix";
       sha256 = "sha256-TpsNJoTGlx1VG4lR598Z1qREnH4pu8Uo/TfjG9LQOzc=";
     };
-    name = "michelson";
     license = "MIT";
-    publisher = "baking-bad";
+    name = "michelson";
     description = "Syntax highlighting for the Michelson language and Morley extensions";
+    publisher = "baking-bad";
   };
   ban-spellright = {
     pname = "ban-spellright";
@@ -5504,10 +5528,10 @@
       url = "https://open-vsx.org/api/ban/spellright/3.0.64/file/ban.spellright-3.0.64.vsix";
       sha256 = "sha256-XiHtUOMNTA+ILcWS/HCUDcHWjtKsuUz0JcdLr1BViJ4=";
     };
-    name = "spellright";
     license = "";
-    publisher = "ban";
+    name = "spellright";
     description = "Multilingual, Offline and Lightweight Spellchecker";
+    publisher = "ban";
   };
   banacorn-agda-mode = {
     pname = "banacorn-agda-mode";
@@ -5516,10 +5540,10 @@
       url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.9/file/banacorn.agda-mode-0.3.9.vsix";
       sha256 = "sha256-QmA8A4jVJc5EI/MneLFA6A05E9YN1ah2uBOyOTjhrzA=";
     };
-    name = "agda-mode";
     license = "MIT";
-    publisher = "banacorn";
+    name = "agda-mode";
     description = "agda-mode on vscode";
+    publisher = "banacorn";
   };
   bar9-stories = {
     pname = "bar9-stories";
@@ -5528,10 +5552,10 @@
       url = "https://open-vsx.org/api/bar9/stories/2.23.0/file/bar9.stories-2.23.0.vsix";
       sha256 = "sha256-IMO/Ed8Blz6YVgH0Te79g8MnQUvB4CtjF5wM00pO0rM=";
     };
-    name = "stories";
     license = "MIT";
-    publisher = "bar9";
+    name = "stories";
     description = "Stories for VSCode";
+    publisher = "bar9";
   };
   barjo-anirak = {
     pname = "barjo-anirak";
@@ -5540,10 +5564,10 @@
       url = "https://open-vsx.org/api/barjo/anirak/6.4.3/file/barjo.anirak-6.4.3.vsix";
       sha256 = "sha256-1+gSApo71UvpNkLddmFe+w923hpdAon9clG4s4r+UAg=";
     };
-    name = "anirak";
     license = "Apache-2.0";
-    publisher = "barjo";
+    name = "anirak";
     description = "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind.";
+    publisher = "barjo";
   };
   barrettotte-ibmi-languages = {
     pname = "barrettotte-ibmi-languages";
@@ -5552,10 +5576,10 @@
       url = "https://open-vsx.org/api/barrettotte/ibmi-languages/0.6.6/file/barrettotte.ibmi-languages-0.6.6.vsix";
       sha256 = "sha256-4B1WX2XjknGiT0rkDMmTkdqV12DdcCj8VPQjzOb+kSI=";
     };
-    name = "ibmi-languages";
     license = "MIT";
-    publisher = "barrettotte";
+    name = "ibmi-languages";
     description = "Provide syntax highlighting for IBMi languages such as RPG, CL, DDS, and MI.";
+    publisher = "barrettotte";
   };
   basdp-language-gas-x86 = {
     pname = "basdp-language-gas-x86";
@@ -5564,10 +5588,10 @@
       url = "https://open-vsx.org/api/basdp/language-gas-x86/0.0.2/file/basdp.language-gas-x86-0.0.2.vsix";
       sha256 = "sha256-gOMBGSW2RLAjCaK6AZaG16FTcDHXEHk+FskT7ax1XGQ=";
     };
-    name = "language-gas-x86";
     license = "MIT";
-    publisher = "basdp";
+    name = "language-gas-x86";
     description = "GNU Assembler x86/x86_64 language support";
+    publisher = "basdp";
   };
   base9-theme-base9-vscode = {
     pname = "base9-theme-base9-vscode";
@@ -5576,10 +5600,10 @@
       url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.5/file/base9-theme.base9-vscode-0.0.5.vsix";
       sha256 = "sha256-Wq+GroEd97iDsTYowB0qsgVSMmq+N90n7oLZQFor/1Q=";
     };
-    name = "base9-vscode";
     license = "MIT";
-    publisher = "base9-theme";
+    name = "base9-vscode";
     description = "";
+    publisher = "base9-theme";
   };
   batisteo-vscode-django = {
     pname = "batisteo-vscode-django";
@@ -5588,10 +5612,10 @@
       url = "https://open-vsx.org/api/batisteo/vscode-django/1.8.0/file/batisteo.vscode-django-1.8.0.vsix";
       sha256 = "sha256-U1MBNUZWoMWl6U058rhUKFqZmcwMFxtxoIfWbTW5OOk=";
     };
-    name = "vscode-django";
     license = "MIT";
-    publisher = "batisteo";
+    name = "vscode-django";
     description = "Beautiful syntax and scoped snippets for perfectionists with deadlines";
+    publisher = "batisteo";
   };
   bbenoist-Doxygen = {
     pname = "bbenoist-Doxygen";
@@ -5600,10 +5624,10 @@
       url = "https://open-vsx.org/api/bbenoist/Doxygen/1.0.0/file/bbenoist.Doxygen-1.0.0.vsix";
       sha256 = "sha256-UsUzAfwr2mGr6GgD5KPjsIqeiBp0s+Ev+FHvpJVL69Y=";
     };
-    name = "Doxygen";
     license = "MIT";
-    publisher = "bbenoist";
+    name = "Doxygen";
     description = "Doxygen language support for Visual Studio Code";
+    publisher = "bbenoist";
   };
   bbenoist-Nix = {
     pname = "bbenoist-Nix";
@@ -5612,10 +5636,10 @@
       url = "https://open-vsx.org/api/bbenoist/Nix/1.0.1/file/bbenoist.Nix-1.0.1.vsix";
       sha256 = "sha256-KaEd0ek/PtRQQ/jjiXO+sZ0hFqZAhFUE/gbN/NZwQoE=";
     };
-    name = "Nix";
     license = "MIT";
-    publisher = "bbenoist";
+    name = "Nix";
     description = "Nix language support for Visual Studio Code.";
+    publisher = "bbenoist";
   };
   bbenoist-vagrant = {
     pname = "bbenoist-vagrant";
@@ -5624,10 +5648,10 @@
       url = "https://open-vsx.org/api/bbenoist/vagrant/0.5.0/file/bbenoist.vagrant-0.5.0.vsix";
       sha256 = "sha256-vhUIT/tqPqeMa0SqQ5sHwOVpohkgg6jE7iMzXk8aiZo=";
     };
-    name = "vagrant";
     license = "MIT";
-    publisher = "bbenoist";
+    name = "vagrant";
     description = "Vagrant support for Visual Studio Code";
+    publisher = "bbenoist";
   };
   bceskavich-theme-dracula-at-night = {
     pname = "bceskavich-theme-dracula-at-night";
@@ -5636,10 +5660,10 @@
       url = "https://open-vsx.org/api/bceskavich/theme-dracula-at-night/2.6.0/file/bceskavich.theme-dracula-at-night-2.6.0.vsix";
       sha256 = "sha256-yShzpcMNq+blgeQ7ZHRBgYIfIFw/ItYEpK3trd+Pn0E=";
     };
-    name = "theme-dracula-at-night";
     license = "MIT";
-    publisher = "bceskavich";
+    name = "theme-dracula-at-night";
     description = "Dracula At Night \8212\160A Dracula fork, with a darker flavor";
+    publisher = "bceskavich";
   };
   belfz-search-crates-io = {
     pname = "belfz-search-crates-io";
@@ -5648,10 +5672,10 @@
       url = "https://open-vsx.org/api/belfz/search-crates-io/1.2.1/file/belfz.search-crates-io-1.2.1.vsix";
       sha256 = "sha256-Y82xKlgFARdvOGa0tMy0JoWRlmZ/XFi1wCz8tTa8YNM=";
     };
-    name = "search-crates-io";
     license = "MIT";
-    publisher = "belfz";
+    name = "search-crates-io";
     description = "crates suggestions for your Rust project's Cargo.toml file";
+    publisher = "belfz";
   };
   benspaulding-procfile = {
     pname = "benspaulding-procfile";
@@ -5660,10 +5684,10 @@
       url = "https://open-vsx.org/api/benspaulding/procfile/1.1.7/file/benspaulding.procfile-1.1.7.vsix";
       sha256 = "sha256-NUxXhyqLRa8eVb4Rx2NfBYUZV8ESOdyFkbUWC/6DLS0=";
     };
-    name = "procfile";
     license = "BSD-3-Clause";
-    publisher = "benspaulding";
+    name = "procfile";
     description = "Grammar & features for Procfiles";
+    publisher = "benspaulding";
   };
   benspaulding-python-manifest-template = {
     pname = "benspaulding-python-manifest-template";
@@ -5672,10 +5696,10 @@
       url = "https://open-vsx.org/api/benspaulding/python-manifest-template/1.0.1/file/benspaulding.python-manifest-template-1.0.1.vsix";
       sha256 = "sha256-FznYMqSlCxccbRmXK4J3b+3+3QSl4HhjMiqIieXmX6M=";
     };
-    name = "python-manifest-template";
     license = "BSD-3-Clause";
-    publisher = "benspaulding";
+    name = "python-manifest-template";
     description = "Grammar, snippets for Python MANIFEST.in template files";
+    publisher = "benspaulding";
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
@@ -5684,10 +5708,10 @@
       url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.282/file/betterthantomorrow.calva-2.0.282.vsix";
       sha256 = "sha256-OmyqEiq8SLJsVtv22XWsdFd+WFZWi9/fczuFm2igW24=";
     };
-    name = "calva";
     license = "MIT";
-    publisher = "betterthantomorrow";
+    name = "calva";
     description = "Integrated REPL, formatter, Paredit, and more. Powered by cider-nrepl and clojure-lsp.";
+    publisher = "betterthantomorrow";
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
@@ -5696,10 +5720,10 @@
       url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.15/file/betterthantomorrow.joyride-0.0.15.vsix";
       sha256 = "sha256-OAVMV58ROQenVq++w0CwkwKhJ3DPgGDdaxqP6aiHwYQ=";
     };
-    name = "joyride";
     license = "MIT";
-    publisher = "betterthantomorrow";
+    name = "joyride";
     description = "Making VS Code hackable. (A bit like Emacs with ELisp.) Powered by SCI, the Small Clojure Interpreter.";
+    publisher = "betterthantomorrow";
   };
   betterthantomorrow-paste-replaced = {
     pname = "betterthantomorrow-paste-replaced";
@@ -5708,10 +5732,10 @@
       url = "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.3/file/betterthantomorrow.paste-replaced-1.1.3.vsix";
       sha256 = "sha256-bcfYy8lGVW+E82q6yJRmuNb6HyFM3x0dxp3E3zWnmh0=";
     };
-    name = "paste-replaced";
     license = "MIT";
-    publisher = "betterthantomorrow";
+    name = "paste-replaced";
     description = "Paste text replaced using regular expressions that you configure, optionally simulating that you are typing it. Works anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases.";
+    publisher = "betterthantomorrow";
   };
   biao1010-ai-js = {
     pname = "biao1010-ai-js";
@@ -5720,10 +5744,10 @@
       url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0.0.1.vsix";
       sha256 = "sha256-nb2aH2Hlc3sjsCSB1HIHXMANGIJxy79y710SoPB1AJI=";
     };
-    name = "ai-js";
     license = "MIT";
-    publisher = "biao1010";
+    name = "ai-js";
     description = "\21516\27493\33050\26412\21040\26381\21153\22120";
+    publisher = "biao1010";
   };
   biao1010-aijs = {
     pname = "biao1010-aijs";
@@ -5732,10 +5756,10 @@
       url = "https://open-vsx.org/api/biao1010/aijs/0.0.2/file/biao1010.aijs-0.0.2.vsix";
       sha256 = "sha256-RRJzAvJKS8aN24rRZvTxhpKB1euIekVdQXZ0ve59KPU=";
     };
-    name = "aijs";
     license = "MIT";
-    publisher = "biao1010";
+    name = "aijs";
     description = "\21516\27493\33050\26412\21040\26381\21153\22120";
+    publisher = "biao1010";
   };
   bierner-color-info = {
     pname = "bierner-color-info";
@@ -5744,10 +5768,10 @@
       url = "https://open-vsx.org/api/bierner/color-info/0.7.0/file/bierner.color-info-0.7.0.vsix";
       sha256 = "sha256-hBZ1MJlExSc15TYjbaWPbsZWcH79YzYqQHSjQI1cFDU=";
     };
-    name = "color-info";
     license = "MIT";
-    publisher = "bierner";
+    name = "color-info";
     description = "Provides quick information about css colors";
+    publisher = "bierner";
   };
   bierner-docs-view = {
     pname = "bierner-docs-view";
@@ -5756,10 +5780,10 @@
       url = "https://open-vsx.org/api/bierner/docs-view/0.0.11/file/bierner.docs-view-0.0.11.vsix";
       sha256 = "sha256-UCu3QVVTamW2RtgD7WQwmma5iWGOEsfLbi6d2iONenY=";
     };
-    name = "docs-view";
     license = "MIT";
-    publisher = "bierner";
+    name = "docs-view";
     description = "Display documentation in the sidebar or panel.";
+    publisher = "bierner";
   };
   bierner-emojisense = {
     pname = "bierner-emojisense";
@@ -5768,10 +5792,10 @@
       url = "https://open-vsx.org/api/bierner/emojisense/0.9.1/file/bierner.emojisense-0.9.1.vsix";
       sha256 = "sha256-1BAFum0Q/LpajoxKF3V55KlJEMdfoP1qY1BW0oQk71k=";
     };
-    name = "emojisense";
     license = "MIT";
-    publisher = "bierner";
+    name = "emojisense";
     description = "Adds suggestions and autocomplete for emoji";
+    publisher = "bierner";
   };
   bierner-markdown-image-size = {
     pname = "bierner-markdown-image-size";
@@ -5780,10 +5804,10 @@
       url = "https://open-vsx.org/api/bierner/markdown-image-size/0.0.4/file/bierner.markdown-image-size-0.0.4.vsix";
       sha256 = "sha256-cGTXHKVLaZuD9jQ5I9zPVZpOAtjXiicIIuzXcUi6mJo=";
     };
-    name = "markdown-image-size";
     license = "MIT";
-    publisher = "bierner";
+    name = "markdown-image-size";
     description = "Adds ![](./cat.gif =100x200) image support to VS Code's built-in markdown preview";
+    publisher = "bierner";
   };
   bierner-markdown-mermaid = {
     pname = "bierner-markdown-mermaid";
@@ -5792,10 +5816,10 @@
       url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.0/file/bierner.markdown-mermaid-1.14.0.vsix";
       sha256 = "sha256-Z1QNVhn0Y/T1Uni0rrBNapROYbL/HJkzb6i3ee00ycA=";
     };
-    name = "markdown-mermaid";
     license = "MIT";
-    publisher = "bierner";
+    name = "markdown-mermaid";
     description = "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview";
+    publisher = "bierner";
   };
   bierner-markdown-preview-github-styles = {
     pname = "bierner-markdown-preview-github-styles";
@@ -5804,10 +5828,10 @@
       url = "https://open-vsx.org/api/bierner/markdown-preview-github-styles/0.1.6/file/bierner.markdown-preview-github-styles-0.1.6.vsix";
       sha256 = "sha256-POIrekEkrYVj7MU9ZXToLIV0pl2X8PUBOQuuB4Mykt4=";
     };
-    name = "markdown-preview-github-styles";
     license = "MIT";
-    publisher = "bierner";
+    name = "markdown-preview-github-styles";
     description = "Changes VS Code's built-in markdown preview to match Github's style";
+    publisher = "bierner";
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
@@ -5816,10 +5840,10 @@
       url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix";
       sha256 = "sha256-xgQiViyh4GQVWwTQSPspxg9f2/SbCl1WxlgC3CXMl0A=";
     };
-    name = "flatpak-vscode";
     license = "MIT";
-    publisher = "bilelmoussaoui";
+    name = "flatpak-vscode";
     description = "Provides Flatpak manifest integration for building & running your application";
+    publisher = "bilelmoussaoui";
   };
   bmalehorn-vscode-fish = {
     pname = "bmalehorn-vscode-fish";
@@ -5828,10 +5852,10 @@
       url = "https://open-vsx.org/api/bmalehorn/vscode-fish/1.0.29/file/bmalehorn.vscode-fish-1.0.29.vsix";
       sha256 = "sha256-H1/gjQPWXuiFu68aoO4i3YE1wFHnl2ELTzMDG8QnQvw=";
     };
-    name = "vscode-fish";
     license = "MIT";
-    publisher = "bmalehorn";
+    name = "vscode-fish";
     description = "Fish syntax highlighting and formatting";
+    publisher = "bmalehorn";
   };
   bmcsoftware-job-as-code = {
     pname = "bmcsoftware-job-as-code";
@@ -5840,10 +5864,10 @@
       url = "https://open-vsx.org/api/bmcsoftware/job-as-code/0.1.13/file/bmcsoftware.job-as-code-0.1.13.vsix";
       sha256 = "sha256-cW10eMhROPXZdd0GZ8wB0y/IgX41DPKtrdsF9ha1YcQ=";
     };
-    name = "job-as-code";
     license = "BSD-3-Clause";
-    publisher = "bmcsoftware";
+    name = "job-as-code";
     description = "All snippets and tools you need for Control-M Workflow development";
+    publisher = "bmcsoftware";
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
@@ -5852,10 +5876,10 @@
       url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix";
       sha256 = "sha256-1M2L+SoKAi9zd4K451584QmLxpbxGIJ+Rk6gZQJ+Ih8=";
     };
-    name = "jobs-as-code";
     license = "BSD-3-Clause";
-    publisher = "bmcsoftware";
+    name = "jobs-as-code";
     description = "All snippets and tools you need for Control-M Workflow development";
+    publisher = "bmcsoftware";
   };
   bmd-stm32-for-vscode = {
     pname = "bmd-stm32-for-vscode";
@@ -5864,10 +5888,10 @@
       url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.1/file/bmd.stm32-for-vscode-3.2.1.vsix";
       sha256 = "sha256-/gDG+Q6kaZZ05oSdPfjvvqV6UaUfmqp6KhclkbwRLCk=";
     };
-    name = "stm32-for-vscode";
     license = "MIT";
-    publisher = "bmd";
+    name = "stm32-for-vscode";
     description = "An extension for: setting up, compiling, uploading and debugging STM32 applications";
+    publisher = "bmd";
   };
   bmewburn-vscode-intelephense-client = {
     pname = "bmewburn-vscode-intelephense-client";
@@ -5876,10 +5900,10 @@
       url = "https://open-vsx.org/api/bmewburn/vscode-intelephense-client/1.8.2/file/bmewburn.vscode-intelephense-client-1.8.2.vsix";
       sha256 = "sha256-smfAOKJdn1eyG5VLPA76EW0VAAMKSeM97c+R97UnVLw=";
     };
-    name = "vscode-intelephense-client";
     license = "MIT";
-    publisher = "bmewburn";
+    name = "vscode-intelephense-client";
     description = "PHP code intelligence for Visual Studio Code";
+    publisher = "bmewburn";
   };
   bml-lang-bml-vscode = {
     pname = "bml-lang-bml-vscode";
@@ -5888,10 +5912,10 @@
       url = "https://open-vsx.org/api/bml-lang/bml-vscode/0.0.11/file/bml-lang.bml-vscode-0.0.11.vsix";
       sha256 = "sha256-/KOT93ZycZuJubpyUs4dJMx2Oa/h+R5Zkq6E1ilndJY=";
     };
-    name = "bml-vscode";
     license = "BSD-3-Clause";
-    publisher = "bml-lang";
+    name = "bml-vscode";
     description = "Blur Markup Language (BML) Support";
+    publisher = "bml-lang";
   };
   bmo-test-bmo-hello-world = {
     pname = "bmo-test-bmo-hello-world";
@@ -5900,10 +5924,10 @@
       url = "https://open-vsx.org/api/bmo-test/bmo-hello-world/0.0.5/file/bmo-test.bmo-hello-world-0.0.5.vsix";
       sha256 = "sha256-PE8kxCjQDeBnGFmj4PytnyiN0hVMeQECbyvLyfvHk/o=";
     };
-    name = "bmo-hello-world";
     license = "MIT";
-    publisher = "bmo-test";
+    name = "bmo-hello-world";
     description = "Test extension";
+    publisher = "bmo-test";
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
@@ -5912,10 +5936,10 @@
       url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.5.31/file/borkdude.clj-kondo-2022.5.31.vsix";
       sha256 = "sha256-hLKVi95QqjB5zghKOtAetCea0oB2fmQOphMRopQZxns=";
     };
-    name = "clj-kondo";
     license = "EPL-1";
-    publisher = "borkdude";
+    name = "clj-kondo";
     description = "Clj-kondo, a linter for Clojure that sparks joy.";
+    publisher = "borkdude";
   };
   bpruitt-goddard-mermaid-markdown-syntax-highlighting = {
     pname = "bpruitt-goddard-mermaid-markdown-syntax-highlighting";
@@ -5924,10 +5948,10 @@
       url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.3/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.3.vsix";
       sha256 = "sha256-B3EG/eScggPxgjslHj+rGtYahE5VjvcUVJRRH8BbseU=";
     };
-    name = "mermaid-markdown-syntax-highlighting";
     license = "MIT";
-    publisher = "bpruitt-goddard";
+    name = "mermaid-markdown-syntax-highlighting";
     description = "Markdown syntax support for the Mermaid charting language";
+    publisher = "bpruitt-goddard";
   };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
@@ -5936,10 +5960,10 @@
       url = "https://open-vsx.org/api/bradlc/vscode-tailwindcss/0.8.6/file/bradlc.vscode-tailwindcss-0.8.6.vsix";
       sha256 = "sha256-9MRkEWayNFdI7JC2sGj9ovBAjDzws0mYoENr8bAZJK4=";
     };
-    name = "vscode-tailwindcss";
     license = "MIT";
-    publisher = "bradlc";
+    name = "vscode-tailwindcss";
     description = "Intelligent Tailwind CSS tooling for VS Code";
+    publisher = "bradlc";
   };
   bravo68web-icyicons = {
     pname = "bravo68web-icyicons";
@@ -5948,10 +5972,10 @@
       url = "https://open-vsx.org/api/bravo68web/icyicons/1.0.0/file/bravo68web.icyicons-1.0.0.vsix";
       sha256 = "sha256-lCzivJ+KRUF9j9fkr/I/F4IM23ROctVYsyJ2qOIhU94=";
     };
-    name = "icyicons";
     license = "MIT";
-    publisher = "bravo68web";
+    name = "icyicons";
     description = "Crystalify all your VSCode Icons.";
+    publisher = "bravo68web";
   };
   bravo68web-propstar = {
     pname = "bravo68web-propstar";
@@ -5960,10 +5984,10 @@
       url = "https://open-vsx.org/api/bravo68web/propstar/1.2.0/file/bravo68web.propstar-1.2.0.vsix";
       sha256 = "sha256-BabE1mrc7e/NQ30Re+exo/N5VcjelmLH0qU73mrqKvM=";
     };
-    name = "propstar";
     license = "MIT";
-    publisher = "bravo68web";
+    name = "propstar";
     description = "The Theme with Multiple Outfits";
+    publisher = "bravo68web";
   };
   bravo68web-vector-vscode-devpack = {
     pname = "bravo68web-vector-vscode-devpack";
@@ -5972,10 +5996,10 @@
       url = "https://open-vsx.org/api/bravo68web/vector-vscode-devpack/1.0.1/file/bravo68web.vector-vscode-devpack-1.0.1.vsix";
       sha256 = "sha256-wmCsTGFSXMNAowRBEOCCqfrA6hNaz12BRZLeXHuk6/8=";
     };
-    name = "vector-vscode-devpack";
     license = "MIT";
-    publisher = "bravo68web";
+    name = "vector-vscode-devpack";
     description = "Extension Pack created by Bravo68web";
+    publisher = "bravo68web";
   };
   bravo68web-vscode-uipack = {
     pname = "bravo68web-vscode-uipack";
@@ -5984,10 +6008,10 @@
       url = "https://open-vsx.org/api/bravo68web/vscode-uipack/1.1.0/file/bravo68web.vscode-uipack-1.1.0.vsix";
       sha256 = "sha256-PbDphXz7THn+6+oCGSr4XgkbZjT5m/SnLwilU5J01uE=";
     };
-    name = "vscode-uipack";
     license = "MIT";
-    publisher = "bravo68web";
+    name = "vscode-uipack";
     description = "VSCode UI Pack created by Bravo68web";
+    publisher = "bravo68web";
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
@@ -5996,10 +6020,10 @@
       url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.30/file/bringout.f18-klijent-5.6.30.vsix";
       sha256 = "sha256-ohApH/9ijZbCl44PIOHch5obai/aIzGANpsNot1jK4A=";
     };
-    name = "f18-klijent";
     license = "MIT";
-    publisher = "bringout";
+    name = "f18-klijent";
     description = "F18 klijent host eShell";
+    publisher = "bringout";
   };
   bringout-pdf-view = {
     pname = "bringout-pdf-view";
@@ -6008,10 +6032,10 @@
       url = "https://open-vsx.org/api/bringout/pdf-view/2.4.8/file/bringout.pdf-view-2.4.8.vsix";
       sha256 = "sha256-lMgvygyELGvBOdDD6V4BQLLHKGHUk68GPf8oxbwPXuE=";
     };
-    name = "pdf-view";
     license = "MIT";
-    publisher = "bringout";
+    name = "pdf-view";
     description = "pdf view for eShell";
+    publisher = "bringout";
   };
   bringout-postgres = {
     pname = "bringout-postgres";
@@ -6020,10 +6044,10 @@
       url = "https://open-vsx.org/api/bringout/postgres/2.1.1/file/bringout.postgres-2.1.1.vsix";
       sha256 = "sha256-n8CxPSGcIdkATNQE6mMlSgys0bWZq0UZY6iP7uOWRt8=";
     };
-    name = "postgres";
     license = "MIT";
-    publisher = "bringout";
+    name = "postgres";
     description = "PostgreSQL menad\382er [eShell]";
+    publisher = "bringout";
   };
   brunnerh-altervista-thesaurus = {
     pname = "brunnerh-altervista-thesaurus";
@@ -6032,10 +6056,10 @@
       url = "https://open-vsx.org/api/brunnerh/altervista-thesaurus/0.2.0/file/brunnerh.altervista-thesaurus-0.2.0.vsix";
       sha256 = "sha256-xomwtMcdYK9fU91v3LbW7KA5jaaueZfx0+dR0GJ1n8Q=";
     };
-    name = "altervista-thesaurus";
     license = "MIT";
-    publisher = "brunnerh";
+    name = "altervista-thesaurus";
     description = "A thesaurus using the API provided by altervista.org.";
+    publisher = "brunnerh";
   };
   brunnerh-file-properties-viewer = {
     pname = "brunnerh-file-properties-viewer";
@@ -6044,10 +6068,10 @@
       url = "https://open-vsx.org/api/brunnerh/file-properties-viewer/1.0.0/file/brunnerh.file-properties-viewer-1.0.0.vsix";
       sha256 = "sha256-cQNPZcyc6fFppATLgMGBAeMlwXv8h7x0mxc58wKAfm8=";
     };
-    name = "file-properties-viewer";
     license = "MIT";
-    publisher = "brunnerh";
+    name = "file-properties-viewer";
     description = "Shows file properties like size, various time stamps and media type.";
+    publisher = "brunnerh";
   };
   brunnerh-insert-unicode = {
     pname = "brunnerh-insert-unicode";
@@ -6056,10 +6080,10 @@
       url = "https://open-vsx.org/api/brunnerh/insert-unicode/0.13.3/file/brunnerh.insert-unicode-0.13.3.vsix";
       sha256 = "sha256-WohZboSqOjy+ZF3qj5UlxN8beQgBBG8mWxzhJ3+A3+g=";
     };
-    name = "insert-unicode";
     license = "MIT";
-    publisher = "brunnerh";
+    name = "insert-unicode";
     description = "Search for unicode characters and insert them into documents.";
+    publisher = "brunnerh";
   };
   budparr-language-hugo-vscode = {
     pname = "budparr-language-hugo-vscode";
@@ -6068,10 +6092,10 @@
       url = "https://open-vsx.org/api/budparr/language-hugo-vscode/1.2.0/file/budparr.language-hugo-vscode-1.2.0.vsix";
       sha256 = "sha256-Mni5lp8qaPnGGnBo9au3y6QJX3bfu+okKAA8sK1MFRQ=";
     };
-    name = "language-hugo-vscode";
     license = "Apache-2.0";
-    publisher = "budparr";
+    name = "language-hugo-vscode";
     description = "Adds syntax highlighting and snippets to Hugo files in VS Code";
+    publisher = "budparr";
   };
   buianhthang-gitflow = {
     pname = "buianhthang-gitflow";
@@ -6080,10 +6104,10 @@
       url = "https://open-vsx.org/api/buianhthang/gitflow/2.1.0/file/buianhthang.gitflow-2.1.0.vsix";
       sha256 = "sha256-pdTDVjSjTxKt7LbQ2/wB5OYRLH3KxnEsmIuwgEGKRrM=";
     };
-    name = "gitflow";
     license = "MIT";
-    publisher = "buianhthang";
+    name = "gitflow";
     description = "Gitflow integration and support in Visual Studio Code";
+    publisher = "buianhthang";
   };
   bung87-rails = {
     pname = "bung87-rails";
@@ -6092,10 +6116,10 @@
       url = "https://open-vsx.org/api/bung87/rails/0.17.8/file/bung87.rails-0.17.8.vsix";
       sha256 = "sha256-BYyhJzDSXE3xhR9u5i/QI9BJYpCPeDQOymanmWVYLnE=";
     };
-    name = "rails";
     license = "MIT";
-    publisher = "bung87";
+    name = "rails";
     description = "Ruby on Rails support for Visual Studio Code";
+    publisher = "bung87";
   };
   bung87-vscode-gemfile = {
     pname = "bung87-vscode-gemfile";
@@ -6104,10 +6128,10 @@
       url = "https://open-vsx.org/api/bung87/vscode-gemfile/0.4.1/file/bung87.vscode-gemfile-0.4.1.vsix";
       sha256 = "sha256-dTsJCm1ivbhML/IBRJeb8o/KLBBVCfMWLEZBBL3+vR8=";
     };
-    name = "vscode-gemfile";
     license = "MIT";
-    publisher = "bung87";
+    name = "vscode-gemfile";
     description = "provide hover link in Gemfile refers to online site";
+    publisher = "bung87";
   };
   bungcip-better-toml = {
     pname = "bungcip-better-toml";
@@ -6116,10 +6140,10 @@
       url = "https://open-vsx.org/api/bungcip/better-toml/0.3.2/file/bungcip.better-toml-0.3.2.vsix";
       sha256 = "sha256-jd4wTSJQZgU0KH+iuZYwTwxERufdBlUK4oHoVYfenyI=";
     };
-    name = "better-toml";
     license = "MIT";
-    publisher = "bungcip";
+    name = "better-toml";
     description = "Better TOML Language support";
+    publisher = "bungcip";
   };
   butchland-vscode-dbt-bigquery-power-user = {
     pname = "butchland-vscode-dbt-bigquery-power-user";
@@ -6128,10 +6152,10 @@
       url = "https://open-vsx.org/api/butchland/vscode-dbt-bigquery-power-user/0.5.23/file/butchland.vscode-dbt-bigquery-power-user-0.5.23.vsix";
       sha256 = "sha256-KOiCkZ4xoaoD5CYoQKniu01WPPzkJ3DEVp/2uEB4X2M=";
     };
-    name = "vscode-dbt-bigquery-power-user";
     license = "MIT";
-    publisher = "butchland";
+    name = "vscode-dbt-bigquery-power-user";
     description = "This extension makes vscode seamlessly work with dbt and BigQuery";
+    publisher = "butchland";
   };
   byi8220-indented-block-highlighting = {
     pname = "byi8220-indented-block-highlighting";
@@ -6140,10 +6164,10 @@
       url = "https://open-vsx.org/api/byi8220/indented-block-highlighting/1.0.7/file/byi8220.indented-block-highlighting-1.0.7.vsix";
       sha256 = "sha256-BYQyENOsqJVPZ+VFwn0d3TyHljOZu9zIu5MX0K2CxRY=";
     };
-    name = "indented-block-highlighting";
     license = "UNLICENSED";
-    publisher = "byi8220";
+    name = "indented-block-highlighting";
     description = "Highlights everything covered by the currently selected line's indentation level.";
+    publisher = "byi8220";
   };
   c-jaenicke-meitnerium-theme = {
     pname = "c-jaenicke-meitnerium-theme";
@@ -6152,10 +6176,10 @@
       url = "https://open-vsx.org/api/c-jaenicke/meitnerium-theme/0.2.1/file/c-jaenicke.meitnerium-theme-0.2.1.vsix";
       sha256 = "sha256-9SZG1F4vvYNsOiM30un+qHeJ70yNY9kF8Zt/8boYUGA=";
     };
-    name = "meitnerium-theme";
     license = "MIT";
-    publisher = "c-jaenicke";
+    name = "meitnerium-theme";
     description = "Custom color theme for VS Code - Flat dark with blue";
+    publisher = "c-jaenicke";
   };
   c4deszes-ldf-syntax = {
     pname = "c4deszes-ldf-syntax";
@@ -6164,10 +6188,10 @@
       url = "https://open-vsx.org/api/c4deszes/ldf-syntax/0.4.1/file/c4deszes.ldf-syntax-0.4.1.vsix";
       sha256 = "sha256-Y38Lx9U2QR1ppI1riMs8FnL39rCiyjEoE2VPVukwh/A=";
     };
-    name = "ldf-syntax";
     license = "MIT";
-    publisher = "c4deszes";
+    name = "ldf-syntax";
     description = "LIN Description Syntax highlighting and snippets";
+    publisher = "c4deszes";
   };
   cab404-vscode-direnv = {
     pname = "cab404-vscode-direnv";
@@ -6176,10 +6200,10 @@
       url = "https://open-vsx.org/api/cab404/vscode-direnv/1.0.0/file/cab404.vscode-direnv-1.0.0.vsix";
       sha256 = "sha256-+nLH+T9v6TQCqKZw6HPN/ZevQ65FVm2SAo2V9RecM3Y=";
     };
-    name = "vscode-direnv";
     license = "MIT";
-    publisher = "cab404";
+    name = "vscode-direnv";
     description = "Automatically detect and load .envrc when opening VS Code";
+    publisher = "cab404";
   };
   caiqichang-vscode-translation = {
     pname = "caiqichang-vscode-translation";
@@ -6188,10 +6212,10 @@
       url = "https://open-vsx.org/api/caiqichang/vscode-translation/2.0.4/file/caiqichang.vscode-translation-2.0.4.vsix";
       sha256 = "sha256-AAVAojtqe3QL2oOcWP1Y6nuPDAXgECItLIQhvqfLtvU=";
     };
-    name = "vscode-translation";
     license = "GPL-3.0";
-    publisher = "caiqichang";
+    name = "vscode-translation";
     description = "A translation tool for Visual Studio Code.";
+    publisher = "caiqichang";
   };
   camel-tooling-yo = {
     pname = "camel-tooling-yo";
@@ -6200,10 +6224,10 @@
       url = "https://open-vsx.org/api/camel-tooling/yo/0.9.11/file/camel-tooling.yo-0.9.11.vsix";
       sha256 = "sha256-1cFBMivzXX7YZ8fU+FBSCh70bGe7HYA8Ss685k+QgL8=";
     };
-    name = "yo";
     license = "MIT";
-    publisher = "camel-tooling";
+    name = "yo";
     description = "Scaffold projects using Yeoman.";
+    publisher = "camel-tooling";
   };
   canadaduane-notes = {
     pname = "canadaduane-notes";
@@ -6212,10 +6236,10 @@
       url = "https://open-vsx.org/api/canadaduane/notes/1.3.0/file/canadaduane.notes-1.3.0.vsix";
       sha256 = "sha256-AlEYYtLCJwbyNyXskBbAjkuCY3iH9b50wxkX6pMsWvM=";
     };
-    name = "notes";
     license = "MIT";
-    publisher = "canadaduane";
+    name = "notes";
     description = "Syntax highlighting for simple notes in Visual Studio Code";
+    publisher = "canadaduane";
   };
   caponetto-vscode-diff-viewer = {
     pname = "caponetto-vscode-diff-viewer";
@@ -6224,10 +6248,10 @@
       url = "https://open-vsx.org/api/caponetto/vscode-diff-viewer/1.2.0/file/caponetto.vscode-diff-viewer-1.2.0.vsix";
       sha256 = "sha256-TZvbDmgj5GyrXida0IiK5Z/mbtk4zNGirKoJVMl3TXk=";
     };
-    name = "vscode-diff-viewer";
     license = "MIT";
-    publisher = "caponetto";
+    name = "vscode-diff-viewer";
     description = "Visualize git diff files in VS Code";
+    publisher = "caponetto";
   };
   captain-stack-captain-stack = {
     pname = "captain-stack-captain-stack";
@@ -6236,10 +6260,10 @@
       url = "https://open-vsx.org/api/captain-stack/captain-stack/0.0.3/file/captain-stack.captain-stack-0.0.3.vsix";
       sha256 = "sha256-OnudXqWwY46Wfg+WrwSxvp+f2DK4ZjJNa6D/uhaa6h4=";
     };
-    name = "captain-stack";
     license = "MIT";
-    publisher = "captain-stack";
+    name = "captain-stack";
     description = "Find snippets codes from Stackoverflow";
+    publisher = "captain-stack";
   };
   carlocardella-hogwarts-colors-dark = {
     pname = "carlocardella-hogwarts-colors-dark";
@@ -6248,10 +6272,10 @@
       url = "https://open-vsx.org/api/carlocardella/hogwarts-colors-dark/1.0.1/file/carlocardella.hogwarts-colors-dark-1.0.1.vsix";
       sha256 = "sha256-A+15RpjJHhEGrV4TQ6UhCtdeeZaPfFQ7Woqh0U6JEtI=";
     };
-    name = "hogwarts-colors-dark";
     license = "MIT";
-    publisher = "carlocardella";
+    name = "hogwarts-colors-dark";
     description = "VSCode color themes based on the four Hogwarts houses";
+    publisher = "carlocardella";
   };
   carlocardella-vscode-changelogmanager = {
     pname = "carlocardella-vscode-changelogmanager";
@@ -6260,10 +6284,10 @@
       url = "https://open-vsx.org/api/carlocardella/vscode-changelogmanager/0.3.1/file/carlocardella.vscode-changelogmanager-0.3.1.vsix";
       sha256 = "sha256-CtZN6dA1O/20hyB1JpFubasCKvPsv7nO57HAfGOk6So=";
     };
-    name = "vscode-changelogmanager";
     license = "MIT";
-    publisher = "carlocardella";
+    name = "vscode-changelogmanager";
     description = "Manage the changelog for your application";
+    publisher = "carlocardella";
   };
   carlocardella-vscode-filesystemtoolbox = {
     pname = "carlocardella-vscode-filesystemtoolbox";
@@ -6272,10 +6296,10 @@
       url = "https://open-vsx.org/api/carlocardella/vscode-filesystemtoolbox/1.3.0/file/carlocardella.vscode-filesystemtoolbox-1.3.0.vsix";
       sha256 = "sha256-8F8XON7wzJWhCFCf9veCvU5QUeedlV8p9l8RS5eIsUY=";
     };
-    name = "vscode-filesystemtoolbox";
     license = "MIT";
-    publisher = "carlocardella";
+    name = "vscode-filesystemtoolbox";
     description = "Collection of tools to work with the File System";
+    publisher = "carlocardella";
   };
   carlocardella-vscode-texttoolbox = {
     pname = "carlocardella-vscode-texttoolbox";
@@ -6284,10 +6308,10 @@
       url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.4.0/file/carlocardella.vscode-texttoolbox-2.4.0.vsix";
       sha256 = "sha256-AXv54wE9PQn3E48yTEtd1sgWum4mLaGV6ZOJonbpoU8=";
     };
-    name = "vscode-texttoolbox";
     license = "MIT";
-    publisher = "carlocardella";
+    name = "vscode-texttoolbox";
     description = "Collection of tools for text manipulation, filtering, sorting etc...";
+    publisher = "carlocardella";
   };
   castwide-solargraph = {
     pname = "castwide-solargraph";
@@ -6296,10 +6320,10 @@
       url = "https://open-vsx.org/api/castwide/solargraph/0.24.0/file/castwide.solargraph-0.24.0.vsix";
       sha256 = "sha256-kAueF9YXg68kzrmx2CR+lxrByJys20OThNpCiAsOP6o=";
     };
-    name = "solargraph";
     license = "MIT";
-    publisher = "castwide";
+    name = "solargraph";
     description = "A Ruby language server featuring code completion, intellisense, and inline documentation";
+    publisher = "castwide";
   };
   cat-customs-cat-customs = {
     pname = "cat-customs-cat-customs";
@@ -6308,10 +6332,10 @@
       url = "https://open-vsx.org/api/cat-customs/cat-customs/0.0.1/file/cat-customs.cat-customs-0.0.1.vsix";
       sha256 = "sha256-HIxIiAv+FfLRA4WBnJPVYBnD7HFwtmNwbJT7lXBXSBA=";
     };
-    name = "cat-customs";
     license = "MIT";
-    publisher = "cat-customs";
+    name = "cat-customs";
     description = "Custom Editor API Samples";
+    publisher = "cat-customs";
   };
   ccls-project-ccls = {
     pname = "ccls-project-ccls";
@@ -6320,10 +6344,10 @@
       url = "https://open-vsx.org/api/ccls-project/ccls/0.1.29/file/ccls-project.ccls-0.1.29.vsix";
       sha256 = "sha256-wJ1Bb216u7xTcNg6BPPXcJUOYy+WAGQIYSljjtPvJQw=";
     };
-    name = "ccls";
     license = "MIT";
-    publisher = "ccls-project";
+    name = "ccls";
     description = "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlight";
+    publisher = "ccls-project";
   };
   chee-cheemaps = {
     pname = "chee-cheemaps";
@@ -6332,10 +6356,10 @@
       url = "https://open-vsx.org/api/chee/cheemaps/0.1.1/file/chee.cheemaps-0.1.1.vsix";
       sha256 = "sha256-WDApll1ZmPkJTV7sDrp0isXg3kYU/wrNjNH5EYky6HU=";
     };
-    name = "cheemaps";
     license = "CC0-1.0";
-    publisher = "chee";
+    name = "cheemaps";
     description = "chee rabbits key maps";
+    publisher = "chee";
   };
   chee-pale-rose = {
     pname = "chee-pale-rose";
@@ -6344,10 +6368,10 @@
       url = "https://open-vsx.org/api/chee/pale-rose/0.0.2/file/chee.pale-rose-0.0.2.vsix";
       sha256 = "sha256-XQJpov3HpIbQJGsZLCo5mIvlcFqGoJOxfChwTyDmV2c=";
     };
-    name = "pale-rose";
     license = "GPL-3.0+";
-    publisher = "chee";
+    name = "pale-rose";
     description = "chee rabbits other theme";
+    publisher = "chee";
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
@@ -6356,10 +6380,10 @@
       url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.3.0/file/chenglou92.rescript-vscode-1.3.0.vsix";
       sha256 = "sha256-Sgi7FFOpI/XOeyPOrDhwZdZ+43ilUz7oQ49yB7tiMXk=";
     };
-    name = "rescript-vscode";
     license = "MIT";
-    publisher = "chenglou92";
+    name = "rescript-vscode";
     description = "The official VSCode plugin for ReScript.";
+    publisher = "chenglou92";
   };
   cheshirekow-cmake-format = {
     pname = "cheshirekow-cmake-format";
@@ -6368,10 +6392,10 @@
       url = "https://open-vsx.org/api/cheshirekow/cmake-format/0.6.13/file/cheshirekow.cmake-format-0.6.13.vsix";
       sha256 = "sha256-ipyzAtS8kMCwcPJu7nF025OlsjVplhfLHMfSmkmR0IQ=";
     };
-    name = "cmake-format";
     license = "GPL-3.0-or-later";
-    publisher = "cheshirekow";
+    name = "cmake-format";
     description = "Format listfiles so they don't look like crap";
+    publisher = "cheshirekow";
   };
   chriscamicas-openedge-abl = {
     pname = "chriscamicas-openedge-abl";
@@ -6380,10 +6404,10 @@
       url = "https://open-vsx.org/api/chriscamicas/openedge-abl/1.2.1/file/chriscamicas.openedge-abl-1.2.1.vsix";
       sha256 = "sha256-xFyUNBo9W664NqQigus/Z7zDAwfwJDFZX427watRzOY=";
     };
-    name = "openedge-abl";
     license = "MIT";
-    publisher = "chriscamicas";
+    name = "openedge-abl";
     description = "OpenEdge ABL language support for VS Code.";
+    publisher = "chriscamicas";
   };
   christian-kohler-npm-intellisense = {
     pname = "christian-kohler-npm-intellisense";
@@ -6392,10 +6416,10 @@
       url = "https://open-vsx.org/api/christian-kohler/npm-intellisense/1.4.1/file/christian-kohler.npm-intellisense-1.4.1.vsix";
       sha256 = "sha256-qjDDeuN8zglyTGyquT8W9jgVNd6H/aaD3Jkvh94p8EI=";
     };
-    name = "npm-intellisense";
     license = "MIT";
-    publisher = "christian-kohler";
+    name = "npm-intellisense";
     description = "Visual Studio Code plugin that autocompletes npm modules in import statements";
+    publisher = "christian-kohler";
   };
   christian-kohler-path-intellisense = {
     pname = "christian-kohler-path-intellisense";
@@ -6404,10 +6428,10 @@
       url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.8.0/file/christian-kohler.path-intellisense-2.8.0.vsix";
       sha256 = "sha256-qFbkQ29Nm0sD1YHsEPgm/nnutss09eudWwE/2BeuuUA=";
     };
-    name = "path-intellisense";
     license = "MIT";
-    publisher = "christian-kohler";
+    name = "path-intellisense";
     description = "Visual Studio Code plugin that autocompletes filenames";
+    publisher = "christian-kohler";
   };
   christianvoigt-argdown-vscode = {
     pname = "christianvoigt-argdown-vscode";
@@ -6416,10 +6440,10 @@
       url = "https://open-vsx.org/api/christianvoigt/argdown-vscode/1.8.2/file/christianvoigt.argdown-vscode-1.8.2.vsix";
       sha256 = "sha256-H8WQ7uFhRVaxhukjzoJsT+M9b7PPBRJYh687cLXHqoM=";
     };
-    name = "argdown-vscode";
     license = "MIT";
-    publisher = "christianvoigt";
+    name = "argdown-vscode";
     description = "Live preview and full language support for the Argdown argumentation syntax";
+    publisher = "christianvoigt";
   };
   ckolkman-vscode-postgres = {
     pname = "ckolkman-vscode-postgres";
@@ -6428,10 +6452,10 @@
       url = "https://open-vsx.org/api/ckolkman/vscode-postgres/1.4.0/file/ckolkman.vscode-postgres-1.4.0.vsix";
       sha256 = "sha256-7LLEaf/SXuLTAMpaaPtMdWPEjNzqYbMXwU7NlZPoP9s=";
     };
-    name = "vscode-postgres";
     license = "MIT";
-    publisher = "ckolkman";
+    name = "vscode-postgres";
     description = "PostgreSQL Management Tool";
+    publisher = "ckolkman";
   };
   claudius-classic-terminal = {
     pname = "claudius-classic-terminal";
@@ -6440,10 +6464,10 @@
       url = "https://open-vsx.org/api/claudius/classic-terminal/0.0.6/file/claudius.classic-terminal-0.0.6.vsix";
       sha256 = "sha256-zQzrZLnj0Za2+liahHBLkOMwUA+egl4FLLjP8SeQl6U=";
     };
-    name = "classic-terminal";
     license = "GPL-3.0";
-    publisher = "claudius";
+    name = "classic-terminal";
     description = "Dark terminal theme.";
+    publisher = "claudius";
   };
   clinyong-vscode-css-modules = {
     pname = "clinyong-vscode-css-modules";
@@ -6452,10 +6476,10 @@
       url = "https://open-vsx.org/api/clinyong/vscode-css-modules/0.4.1/file/clinyong.vscode-css-modules-0.4.1.vsix";
       sha256 = "sha256-kK2Y7Iz6/qwunX5poouzRVNetTy4zvC9U7TGigOV1PI=";
     };
-    name = "vscode-css-modules";
     license = "MIT";
-    publisher = "clinyong";
+    name = "vscode-css-modules";
     description = "Visual Studio Code extension for CSS Modules";
+    publisher = "clinyong";
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
@@ -6464,10 +6488,10 @@
       url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix";
       sha256 = "sha256-2ewUdI5xh3RCqafMfOXyZQiIYIR7xrpu+fRY1vCf3t8=";
     };
-    name = "browser-preview-lite";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "browser-preview-lite";
     description = "";
+    publisher = "cloudstudio";
   };
   cloudstudio-coding = {
     pname = "cloudstudio-coding";
@@ -6476,10 +6500,10 @@
       url = "https://open-vsx.org/api/cloudstudio/coding/0.0.3/file/cloudstudio.coding-0.0.3.vsix";
       sha256 = "sha256-DVVItz/1fzaUASa4oqcqvfyuSkfVJHrjQ4sucFLzI9M=";
     };
-    name = "coding";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "coding";
     description = "Remotely browse and edit any CODING repository";
+    publisher = "cloudstudio";
   };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
@@ -6488,10 +6512,10 @@
       url = "https://open-vsx.org/api/cloudstudio/coding-repositories/0.0.10/file/cloudstudio.coding-repositories-0.0.10.vsix";
       sha256 = "sha256-VirO/O6xUwDtmcGbmJnPEcxpvadTEaNujlAbZCKq9z4=";
     };
-    name = "coding-repositories";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "coding-repositories";
     description = "Remotely browse and edit any CODING repository";
+    publisher = "cloudstudio";
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
@@ -6500,10 +6524,10 @@
       url = "https://open-vsx.org/api/cloudstudio/common/0.0.4/file/cloudstudio.common-0.0.4.vsix";
       sha256 = "sha256-IhMx6idT6OlJwmood5dufRyT25PEhos89mFPRoeY80U=";
     };
-    name = "common";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "common";
     description = "This extension provides support for Cloud Stuido Web integration.";
+    publisher = "cloudstudio";
   };
   cloudstudio-custom-template = {
     pname = "cloudstudio-custom-template";
@@ -6512,10 +6536,10 @@
       url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.1/file/cloudstudio.custom-template-0.0.1.vsix";
       sha256 = "sha256-1TkUrcBYr4Z/IlJ0Afh7m9bD5qXAXfw8fYU31SIIPlM=";
     };
-    name = "custom-template";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "custom-template";
     description = "Cloud Studio \33258\23450\20041\27169\26495\25554\20214";
+    publisher = "cloudstudio";
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
@@ -6524,10 +6548,10 @@
       url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix";
       sha256 = "sha256-RutrneL4G0JYR/E/KSVyH3nHsKPTF1mty3bMrJ+88pI=";
     };
-    name = "deploykit";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "deploykit";
     description = "Cloud Studio \20113\37096\32626\22871\20214";
+    publisher = "cloudstudio";
   };
   cloudstudio-init-workspace = {
     pname = "cloudstudio-init-workspace";
@@ -6536,10 +6560,10 @@
       url = "https://open-vsx.org/api/cloudstudio/init-workspace/0.0.4/file/cloudstudio.init-workspace-0.0.4.vsix";
       sha256 = "sha256-uGilHumIMudKM4iM1/7YWV56cMbDT0LU6LdW2mHfDHE=";
     };
-    name = "init-workspace";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "init-workspace";
     description = "Initialize the user workspace";
+    publisher = "cloudstudio";
   };
   cloudstudio-memory-cue = {
     pname = "cloudstudio-memory-cue";
@@ -6548,10 +6572,10 @@
       url = "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.1/file/cloudstudio.memory-cue-0.0.1.vsix";
       sha256 = "sha256-FmCPqQCbaR5UNnVOu2L3rE8GpMwdtgFA6n8FsQ0NU3s=";
     };
-    name = "memory-cue";
     license = "MIT";
-    publisher = "cloudstudio";
+    name = "memory-cue";
     description = "Workspace memory cue extension";
+    publisher = "cloudstudio";
   };
   cmoog-sqlnotebook = {
     pname = "cmoog-sqlnotebook";
@@ -6560,10 +6584,10 @@
       url = "https://open-vsx.org/api/cmoog/sqlnotebook/0.5.3/file/cmoog.sqlnotebook-0.5.3.vsix";
       sha256 = "sha256-k6vFZyPR3xxMw1ic+O7SRBbe70B+6rA07z/ICqYBvpk=";
     };
-    name = "sqlnotebook";
     license = "MIT";
-    publisher = "cmoog";
+    name = "sqlnotebook";
     description = "View SQL files as notebooks. Execute cells and view query output.";
+    publisher = "cmoog";
   };
   cnshenj-vscode-task-manager = {
     pname = "cnshenj-vscode-task-manager";
@@ -6572,10 +6596,10 @@
       url = "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.6.0/file/cnshenj.vscode-task-manager-0.6.0.vsix";
       sha256 = "sha256-J87Ls+NIzgU2KbDHGyq0TVb+LicJU6dPQxFOVTUw2K0=";
     };
-    name = "vscode-task-manager";
     license = "MIT";
-    publisher = "cnshenj";
+    name = "vscode-task-manager";
     description = "Manages tasks in Visual Studio Code.";
+    publisher = "cnshenj";
   };
   codeandstuff-package-json-upgrade = {
     pname = "codeandstuff-package-json-upgrade";
@@ -6584,10 +6608,10 @@
       url = "https://open-vsx.org/api/codeandstuff/package-json-upgrade/1.6.0/file/codeandstuff.package-json-upgrade-1.6.0.vsix";
       sha256 = "sha256-+/4NnbZcY/pQPtkP7uEF5AGipb+N2BBtg/iOmRgdkt0=";
     };
-    name = "package-json-upgrade";
     license = "MIT";
-    publisher = "codeandstuff";
+    name = "package-json-upgrade";
     description = "Shows available updates in package.json files. Offers quick fix command to update them and to show the changelog.";
+    publisher = "codeandstuff";
   };
   codeandstuff-sensible-back-forward-navigation = {
     pname = "codeandstuff-sensible-back-forward-navigation";
@@ -6596,10 +6620,10 @@
       url = "https://open-vsx.org/api/codeandstuff/sensible-back-forward-navigation/0.4.2/file/codeandstuff.sensible-back-forward-navigation-0.4.2.vsix";
       sha256 = "sha256-UlpnX4my2t3BgCfAd6hL6ut1VoIH462BTiNVlMED8U4=";
     };
-    name = "sensible-back-forward-navigation";
     license = "MIT";
-    publisher = "codeandstuff";
+    name = "sensible-back-forward-navigation";
     description = "Improve 'go back' and 'go forward' command is vscode. Movement is grouped in a sensible way.";
+    publisher = "codeandstuff";
   };
   codeandstuff-vscode-navigate-edit-history = {
     pname = "codeandstuff-vscode-navigate-edit-history";
@@ -6608,10 +6632,10 @@
       url = "https://open-vsx.org/api/codeandstuff/vscode-navigate-edit-history/1.6.0/file/codeandstuff.vscode-navigate-edit-history-1.6.0.vsix";
       sha256 = "sha256-T/0KYo8OpY1bbdMX1fTw/7BmNZ1EWCJnW9BhR3zO4sg=";
     };
-    name = "vscode-navigate-edit-history";
     license = "MIT";
-    publisher = "codeandstuff";
+    name = "vscode-navigate-edit-history";
     description = "Navigate your edit history with ease. Jump one step back with a keypress or view a list of all recent edits.";
+    publisher = "codeandstuff";
   };
   codechecker-codechecker = {
     pname = "codechecker-codechecker";
@@ -6620,10 +6644,10 @@
       url = "https://open-vsx.org/api/codechecker/codechecker/1.3.0/file/codechecker.codechecker-1.3.0.vsix";
       sha256 = "sha256-e6JCEy5M9P4WYfM4Wj+NibIk/ZiAtDhh4KH32AH7WqE=";
     };
-    name = "codechecker";
     license = "Apache-2.0";
-    publisher = "codechecker";
+    name = "codechecker";
     description = "CodeChecker integration for Visual Studio Code";
+    publisher = "codechecker";
   };
   codelingo-codelingo = {
     pname = "codelingo-codelingo";
@@ -6632,10 +6656,10 @@
       url = "https://open-vsx.org/api/codelingo/codelingo/1.7.2/file/codelingo.codelingo-1.7.2.vsix";
       sha256 = "sha256-G3jJlKIynlc7Rpred8y1+aF1pdT8hzlBAwdHE+ih4PY=";
     };
-    name = "codelingo";
     license = "MIT";
-    publisher = "codelingo";
+    name = "codelingo";
     description = "Notebooks combine the ease of note-taking with the speed of dev tools";
+    publisher = "codelingo";
   };
   coderoad-coderoad = {
     pname = "coderoad-coderoad";
@@ -6644,10 +6668,10 @@
       url = "https://open-vsx.org/api/coderoad/coderoad/0.19.4/file/coderoad.coderoad-0.19.4.vsix";
       sha256 = "sha256-eHEjQ/FqhBwyP5YWpQqxn9PyWcyhFpLPNY1z6EACtuY=";
     };
-    name = "coderoad";
     license = "AGPL-3.0";
-    publisher = "coderoad";
+    name = "coderoad";
     description = "Play interactive coding tutorials in your editor";
+    publisher = "coderoad";
   };
   codespaces-contrib-codeswing = {
     pname = "codespaces-contrib-codeswing";
@@ -6656,10 +6680,10 @@
       url = "https://open-vsx.org/api/codespaces-contrib/codeswing/0.0.21/file/codespaces-contrib.codeswing-0.0.21.vsix";
       sha256 = "sha256-pLeH+TUHAm1d5NXO40Jw4dgYBjvCTsHguaaUNCBr4nQ=";
     };
-    name = "codeswing";
     license = "MIT";
-    publisher = "codespaces-contrib";
+    name = "codeswing";
     description = "Interactive coding playground for building web applications (aka swings).";
+    publisher = "codespaces-contrib";
   };
   codestats-code-stats-vscode = {
     pname = "codestats-code-stats-vscode";
@@ -6668,10 +6692,10 @@
       url = "https://open-vsx.org/api/codestats/code-stats-vscode/1.1.0/file/codestats.code-stats-vscode-1.1.0.vsix";
       sha256 = "sha256-YWWUU0yNqzqGukRAKSLm12SEAC+nK5Vw6IWveWH9N9A=";
     };
-    name = "code-stats-vscode";
     license = "MIT";
-    publisher = "codestats";
+    name = "code-stats-vscode";
     description = "Code::Stats package for Visual Studio Code";
+    publisher = "codestats";
   };
   codezombiech-gitignore = {
     pname = "codezombiech-gitignore";
@@ -6680,10 +6704,10 @@
       url = "https://open-vsx.org/api/codezombiech/gitignore/0.7.0/file/codezombiech.gitignore-0.7.0.vsix";
       sha256 = "sha256-sCjSzNY1IV1o+c2bcKZpJgzHCygQnvNuCkxXRlxkEIM=";
     };
-    name = "gitignore";
     license = "MIT";
-    publisher = "codezombiech";
+    name = "gitignore";
     description = "Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files.";
+    publisher = "codezombiech";
   };
   codingyu-laravel-goto-view = {
     pname = "codingyu-laravel-goto-view";
@@ -6692,10 +6716,10 @@
       url = "https://open-vsx.org/api/codingyu/laravel-goto-view/1.3.7/file/codingyu.laravel-goto-view-1.3.7.vsix";
       sha256 = "sha256-ROgUQ4PXjw4hCQGG29gJkXvfz8cwsPqx2qwEO8+rIRc=";
     };
-    name = "laravel-goto-view";
     license = "MIT";
-    publisher = "codingyu";
+    name = "laravel-goto-view";
     description = "Quick jump to view";
+    publisher = "codingyu";
   };
   comp2300-anu-comp2300-2021-extension = {
     pname = "comp2300-anu-comp2300-2021-extension";
@@ -6704,10 +6728,10 @@
       url = "https://open-vsx.org/api/comp2300-anu/comp2300-2021-extension/2022.1.0/file/comp2300-anu.comp2300-2021-extension-2022.1.0.vsix";
       sha256 = "sha256-Tb512OiGcHt5kA4NUoyKUhATxOCF/L5Qkh+ukbTYzxw=";
     };
-    name = "comp2300-2021-extension";
     license = "MIT";
-    publisher = "comp2300-anu";
+    name = "comp2300-2021-extension";
     description = "Extension pack for COMP2300 for bare-metal microbit development";
+    publisher = "comp2300-anu";
   };
   comp2300-anu-cortex-debug = {
     pname = "comp2300-anu-cortex-debug";
@@ -6716,10 +6740,10 @@
       url = "https://open-vsx.org/api/comp2300-anu/cortex-debug/0.3.19/file/comp2300-anu.cortex-debug-0.3.19.vsix";
       sha256 = "sha256-AeFDXg6kyvaAPuKlxcTBDZZB2jwyp7K/9VpfLFuIRHQ=";
     };
-    name = "cortex-debug";
     license = "MIT";
-    publisher = "comp2300-anu";
+    name = "cortex-debug";
     description = "ARM Cortex-M GDB Debugger support for VSCode";
+    publisher = "comp2300-anu";
   };
   connorshea-vscode-ruby-test-adapter = {
     pname = "connorshea-vscode-ruby-test-adapter";
@@ -6728,10 +6752,10 @@
       url = "https://open-vsx.org/api/connorshea/vscode-ruby-test-adapter/0.9.0/file/connorshea.vscode-ruby-test-adapter-0.9.0.vsix";
       sha256 = "sha256-zFwDQcIpfxtKy9C1Vtt/qd2FRD+FxI4b+B562jk+WIY=";
     };
-    name = "vscode-ruby-test-adapter";
     license = "MIT";
-    publisher = "connorshea";
+    name = "vscode-ruby-test-adapter";
     description = "Run your Ruby tests in the Sidebar of Visual Studio Code";
+    publisher = "connorshea";
   };
   contextmapper-context-mapper-vscode-extension = {
     pname = "contextmapper-context-mapper-vscode-extension";
@@ -6740,10 +6764,10 @@
       url = "https://open-vsx.org/api/contextmapper/context-mapper-vscode-extension/6.6.1/file/contextmapper.context-mapper-vscode-extension-6.6.1.vsix";
       sha256 = "sha256-qKKwxgE19YSDTLJ/E2FZek0trhtwBs1x4EgPWYjT46Q=";
     };
-    name = "context-mapper-vscode-extension";
     license = "Apache-2.0";
-    publisher = "contextmapper";
+    name = "context-mapper-vscode-extension";
     description = "The Context Mapper VS Code Extension";
+    publisher = "contextmapper";
   };
   contractshark-solidity-lang = {
     pname = "contractshark-solidity-lang";
@@ -6752,10 +6776,10 @@
       url = "https://open-vsx.org/api/contractshark/solidity-lang/1.3.0/file/contractshark.solidity-lang-1.3.0.vsix";
       sha256 = "sha256-tj82UCcMMM3mpAHUZxTg5+iEbnhVj75XJXvuN2eOMKM=";
     };
-    name = "solidity-lang";
     license = "MIT";
-    publisher = "contractshark";
+    name = "solidity-lang";
     description = "solidity syntax highlighting, thats it";
+    publisher = "contractshark";
   };
   coolbear-systemd-unit-file = {
     pname = "coolbear-systemd-unit-file";
@@ -6764,10 +6788,10 @@
       url = "https://open-vsx.org/api/coolbear/systemd-unit-file/1.0.6/file/coolbear.systemd-unit-file-1.0.6.vsix";
       sha256 = "sha256-twfwFSyfACdKiBY1hqB+TgYgZfjt7jod2pwfkl8oMxk=";
     };
-    name = "systemd-unit-file";
     license = "MIT";
-    publisher = "coolbear";
+    name = "systemd-unit-file";
     description = "Language support for systemd unit files";
+    publisher = "coolbear";
   };
   corneliusludmann-gitpod-trivia = {
     pname = "corneliusludmann-gitpod-trivia";
@@ -6776,10 +6800,10 @@
       url = "https://open-vsx.org/api/corneliusludmann/gitpod-trivia/0.0.5/file/corneliusludmann.gitpod-trivia-0.0.5.vsix";
       sha256 = "sha256-e2biUZ7aFRFRi6UXI7lAAlBUteANZeJoGxjJ0yliY6I=";
     };
-    name = "gitpod-trivia";
     license = "MIT";
-    publisher = "corneliusludmann";
+    name = "gitpod-trivia";
     description = "This extension shows a message at Gitpod workspace start with more information about your unique workspace name. More features will probably be added in the future. Note: This extension works in Gitpod only.";
+    publisher = "corneliusludmann";
   };
   cqframework-cql = {
     pname = "cqframework-cql";
@@ -6788,10 +6812,10 @@
       url = "https://open-vsx.org/api/cqframework/cql/0.1.1/file/cqframework.cql-0.1.1.vsix";
       sha256 = "sha256-EmoMEjIIfDKftIWxdFvi/CS5FzgJGIJdlJuSNN/eu4k=";
     };
-    name = "cql";
     license = "Apache-2.0";
-    publisher = "cqframework";
+    name = "cql";
     description = "Syntax highlighting, linting, and execution for the HL7 Clinical Quality Language (CQL) for VS Code";
+    publisher = "cqframework";
   };
   croccifixio-blackboard-pro = {
     pname = "croccifixio-blackboard-pro";
@@ -6800,10 +6824,10 @@
       url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.3/file/croccifixio.blackboard-pro-1.1.3.vsix";
       sha256 = "sha256-Kwabhv8A7uhwE+mPCuMut+9ZRdjiUoa5lFO8Za5/1oc=";
     };
-    name = "blackboard-pro";
     license = "Unlicense";
-    publisher = "croccifixio";
+    name = "blackboard-pro";
     description = "An extension of the default Blackboard theme including a themed workbench and more colorisation of snippets";
+    publisher = "croccifixio";
   };
   crossjs-vscode-restman = {
     pname = "crossjs-vscode-restman";
@@ -6812,10 +6836,10 @@
       url = "https://open-vsx.org/api/crossjs/vscode-restman/0.0.14/file/crossjs.vscode-restman-0.0.14.vsix";
       sha256 = "sha256-xPiGy9OxuUCMws9TNoTJqC3hRBnVcJo7H7oHemKQJxQ=";
     };
-    name = "vscode-restman";
     license = "MIT";
-    publisher = "crossjs";
+    name = "vscode-restman";
     description = "VS Code extension that execute requests in the REST files.";
+    publisher = "crossjs";
   };
   cryptohack-cryptohack-theme = {
     pname = "cryptohack-cryptohack-theme";
@@ -6824,10 +6848,10 @@
       url = "https://open-vsx.org/api/cryptohack/cryptohack-theme/1.0.8/file/cryptohack.cryptohack-theme-1.0.8.vsix";
       sha256 = "sha256-jZhWJ18iH+17A12m273ejD7P7igwdpn1zXWS5UEe6Oo=";
     };
-    name = "cryptohack-theme";
     license = "MIT";
-    publisher = "cryptohack";
+    name = "cryptohack-theme";
     description = "Dark theme inspired by CryptoHack";
+    publisher = "cryptohack";
   };
   crystal-lang-tools-crystal-lang = {
     pname = "crystal-lang-tools-crystal-lang";
@@ -6836,10 +6860,10 @@
       url = "https://open-vsx.org/api/crystal-lang-tools/crystal-lang/0.8.4/file/crystal-lang-tools.crystal-lang-0.8.4.vsix";
       sha256 = "sha256-sB74Vhw3Cm9lCxdjcF5C+E3xtrNKE635ogwffBDtESI=";
     };
-    name = "crystal-lang";
     license = "MIT";
-    publisher = "crystal-lang-tools";
+    name = "crystal-lang";
     description = "The Crystal Programming Language";
+    publisher = "crystal-lang-tools";
   };
   cschleiden-vscode-github-actions = {
     pname = "cschleiden-vscode-github-actions";
@@ -6848,10 +6872,10 @@
       url = "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.1/file/cschleiden.vscode-github-actions-0.24.1.vsix";
       sha256 = "sha256-hXUaCjHz4iZLrnFs5d/Onrh7Zcm9QvrtOuGkDRjb8uA=";
     };
-    name = "vscode-github-actions";
     license = "MIT";
-    publisher = "cschleiden";
+    name = "vscode-github-actions";
     description = "GitHub Actions workflows and runs for github.com hosted repositories in VS Code";
+    publisher = "cschleiden";
   };
   cschlosser-doxdocgen = {
     pname = "cschlosser-doxdocgen";
@@ -6860,10 +6884,10 @@
       url = "https://open-vsx.org/api/cschlosser/doxdocgen/1.4.0/file/cschlosser.doxdocgen-1.4.0.vsix";
       sha256 = "sha256-MroSOsHKSb020WxxAKYUSyrJ2t6l0VCLjXjNGHz9u7w=";
     };
-    name = "doxdocgen";
     license = "MIT";
-    publisher = "cschlosser";
+    name = "doxdocgen";
     description = "Let me generate Doxygen documentation from your source code for you.";
+    publisher = "cschlosser";
   };
   cspruit-90s-anime = {
     pname = "cspruit-90s-anime";
@@ -6872,10 +6896,10 @@
       url = "https://open-vsx.org/api/cspruit/90s-anime/1.0.3/file/cspruit.90s-anime-1.0.3.vsix";
       sha256 = "sha256-vkJDxEANJAXQ8MTfwwsRoONTZRal1PERnrXGx5tms8E=";
     };
-    name = "90s-anime";
     license = "MIT";
-    publisher = "cspruit";
+    name = "90s-anime";
     description = "Moon Prism Power, Make Up!";
+    publisher = "cspruit";
   };
   csstools-postcss = {
     pname = "csstools-postcss";
@@ -6884,10 +6908,10 @@
       url = "https://open-vsx.org/api/csstools/postcss/1.0.8/file/csstools.postcss-1.0.8.vsix";
       sha256 = "sha256-emX+fPZgLQ0ImAIuezM61fDHQCpbSLS1KPYUKoguWD4=";
     };
-    name = "postcss";
     license = "CC0-1.0";
-    publisher = "csstools";
+    name = "postcss";
     description = "Syntax highlighting for modern and experimental CSS in VSCode";
+    publisher = "csstools";
   };
   ctf0-macros = {
     pname = "ctf0-macros";
@@ -6896,10 +6920,10 @@
       url = "https://open-vsx.org/api/ctf0/macros/0.0.4/file/ctf0.macros-0.0.4.vsix";
       sha256 = "sha256-pyLbvhFaMYCJ2i+62d924mG/f8DuyGK/pe4vu9m85yM=";
     };
-    name = "macros";
     license = "MIT";
-    publisher = "ctf0";
+    name = "macros";
     description = "automate repetitive actions with custom macros";
+    publisher = "ctf0";
   };
   cuelang-cue = {
     pname = "cuelang-cue";
@@ -6908,10 +6932,10 @@
       url = "https://open-vsx.org/api/cuelang/cue/0.0.1/file/cuelang.cue-0.0.1.vsix";
       sha256 = "sha256-u7jAMLwnPAl+SOkUvWgm6HZPHx1A8kINL/eQYgIKfiA=";
     };
-    name = "cue";
     license = "MIT";
-    publisher = "cuelang";
+    name = "cue";
     description = "CUE language support for Visual Studio Code";
+    publisher = "cuelang";
   };
   cup-lang-cup = {
     pname = "cup-lang-cup";
@@ -6920,10 +6944,10 @@
       url = "https://open-vsx.org/api/cup-lang/cup/0.0.10/file/cup-lang.cup-0.0.10.vsix";
       sha256 = "sha256-vxRjMsqVInZEiBghUS1EbmMbT9ecWCJCVApeZQRP6Hk=";
     };
-    name = "cup";
     license = "GPL-3.0";
-    publisher = "cup-lang";
+    name = "cup";
     description = "Official Cup Development Extension";
+    publisher = "cup-lang";
   };
   cvergne-vscode-php-getters-setters-cv = {
     pname = "cvergne-vscode-php-getters-setters-cv";
@@ -6932,10 +6956,10 @@
       url = "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.1/file/cvergne.vscode-php-getters-setters-cv-1.6.1.vsix";
       sha256 = "sha256-u8F7cMQ7FmpCLSpG0X3joysy/5PPHNZjS6tztqLwCnc=";
     };
-    name = "vscode-php-getters-setters-cv";
     license = "MIT";
-    publisher = "cvergne";
+    name = "vscode-php-getters-setters-cv";
     description = "Create PHP getters and setters from class properties";
+    publisher = "cvergne";
   };
   cwan-native-ascii-converter = {
     pname = "cwan-native-ascii-converter";
@@ -6944,10 +6968,10 @@
       url = "https://open-vsx.org/api/cwan/native-ascii-converter/1.0.11/file/cwan.native-ascii-converter-1.0.11.vsix";
       sha256 = "sha256-72eQPXE21SLi6pFgqL8frKTohZwNpOoPiqTZcuBv60E=";
     };
-    name = "native-ascii-converter";
     license = "MIT";
-    publisher = "cwan";
+    name = "native-ascii-converter";
     description = "Convert characters with Unicode escapes or vice versa. The same as 'native2ascii' tool of JDK.";
+    publisher = "cwan";
   };
   cweijan-cweijan-personal-material-icon-theme = {
     pname = "cweijan-cweijan-personal-material-icon-theme";
@@ -6956,10 +6980,10 @@
       url = "https://open-vsx.org/api/cweijan/cweijan-personal-material-icon-theme/5.0.0/file/cweijan.cweijan-personal-material-icon-theme-5.0.0.vsix";
       sha256 = "sha256-7wwQck5jlmA3OKAZNCW0swSBxQfcZVpbGjOARuuAW3w=";
     };
-    name = "cweijan-personal-material-icon-theme";
     license = "MIT";
-    publisher = "cweijan";
+    name = "cweijan-personal-material-icon-theme";
     description = "Material Design Icons And One Dark Modern";
+    publisher = "cweijan";
   };
   cweijan-git-history-plus = {
     pname = "cweijan-git-history-plus";
@@ -6968,10 +6992,10 @@
       url = "https://open-vsx.org/api/cweijan/git-history-plus/1.1.1/file/cweijan.git-history-plus-1.1.1.vsix";
       sha256 = "sha256-wLTM3col6OYwUD3Hoad9kLQSI9jGEZmkLf44tmty5IA=";
     };
-    name = "git-history-plus";
     license = "MIT";
-    publisher = "cweijan";
+    name = "git-history-plus";
     description = "View git log, file history, compare branches or commits";
+    publisher = "cweijan";
   };
   cweijan-vscode-autohotkey-plus = {
     pname = "cweijan-vscode-autohotkey-plus";
@@ -6980,10 +7004,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-autohotkey-plus/2.6.0/file/cweijan.vscode-autohotkey-plus-2.6.0.vsix";
       sha256 = "sha256-G7HMtBawNHr5drsAdGqWiYSPTqRtXAsOOfwsCvtwNxs=";
     };
-    name = "vscode-autohotkey-plus";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-autohotkey-plus";
     description = "AutoHotkey language support for VS Code";
+    publisher = "cweijan";
   };
   cweijan-vscode-database-client2 = {
     pname = "cweijan-vscode-database-client2";
@@ -6992,10 +7016,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-database-client2/5.3.7/file/cweijan.vscode-database-client2-5.3.7.vsix";
       sha256 = "sha256-wePeJFM43HZmrZwB8/dU+aXeMeJ3vEX6qQWy3XfmVPI=";
     };
-    name = "vscode-database-client2";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-database-client2";
     description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.";
+    publisher = "cweijan";
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
@@ -7004,10 +7028,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.8/file/cweijan.vscode-mysql-client2-5.3.8.vsix";
       sha256 = "sha256-5eHsFybil67ivumnhbV7RH+HH6GavjHAIZ4mdDMkfjI=";
     };
-    name = "vscode-mysql-client2";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-mysql-client2";
     description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.";
+    publisher = "cweijan";
   };
   cweijan-vscode-office = {
     pname = "cweijan-vscode-office";
@@ -7016,10 +7040,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-office/2.5.5/file/cweijan.vscode-office-2.5.5.vsix";
       sha256 = "sha256-FlUmNJeV4OzjkeuP6zb82xtwxTZlt4s/yOWPzq93RTw=";
     };
-    name = "vscode-office";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-office";
     description = "View word,excel files and using WYSIWYG editor for markdown.";
+    publisher = "cweijan";
   };
   cweijan-vscode-postgresql-client2 = {
     pname = "cweijan-vscode-postgresql-client2";
@@ -7028,10 +7052,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-postgresql-client2/3.7.0/file/cweijan.vscode-postgresql-client2-3.7.0.vsix";
       sha256 = "sha256-kbIPeAgcuxjDgiT5LwZsmB4WF1XsSUqSnVlso1fV66k=";
     };
-    name = "vscode-postgresql-client2";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-postgresql-client2";
     description = "PostgreSQL Client for vscode";
+    publisher = "cweijan";
   };
   cweijan-vscode-redis-client = {
     pname = "cweijan-vscode-redis-client";
@@ -7040,10 +7064,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-redis-client/1.2.5/file/cweijan.vscode-redis-client-1.2.5.vsix";
       sha256 = "sha256-kZ/io5+Xx5lwtDmtOoPysS8CctD/Zo8YnYRSXu7Jje8=";
     };
-    name = "vscode-redis-client";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-redis-client";
     description = "Redis Client For VSCode";
+    publisher = "cweijan";
   };
   cweijan-vscode-ssh = {
     pname = "cweijan-vscode-ssh";
@@ -7052,10 +7076,10 @@
       url = "https://open-vsx.org/api/cweijan/vscode-ssh/1.7.6/file/cweijan.vscode-ssh-1.7.6.vsix";
       sha256 = "sha256-kppSBGwg76Uyr4r+IfjSMScmp3H0vFKOGfZDgNyfRf0=";
     };
-    name = "vscode-ssh";
     license = "MIT";
-    publisher = "cweijan";
+    name = "vscode-ssh";
     description = "SSH Client for vscode";
+    publisher = "cweijan";
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
@@ -7064,10 +7088,10 @@
       url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.3/file/cyrilletuzi.angular-schematics-5.2.3.vsix";
       sha256 = "sha256-OqHSPs2HJ4xhdKLIVrAymyMuBz/srEaqdljPkL99GP0=";
     };
-    name = "angular-schematics";
     license = "MIT";
-    publisher = "cyrilletuzi";
+    name = "angular-schematics";
     description = "Angular schematics (CLI commands) from files Explorer or Command Palette.";
+    publisher = "cyrilletuzi";
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
@@ -7076,10 +7100,10 @@
       url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.3/file/cyrusfirheir.twee3-language-tools-0.18.3.vsix";
       sha256 = "sha256-fg97cYkw1DVtAQKADvwzo2mGfRcg2wOcwxVD8NGzfP4=";
     };
-    name = "twee3-language-tools";
     license = "MIT";
-    publisher = "cyrusfirheir";
+    name = "twee3-language-tools";
     description = "Syntax highlighting and programmatic language tools for Twee 3.";
+    publisher = "cyrusfirheir";
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
@@ -7088,10 +7112,10 @@
       url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.1/file/d-biehl.robotcode-0.13.1.vsix";
       sha256 = "sha256-6wHktd+cn2C7RVVY8fMZyY6v6TLMd2yML2n1GpmxHkk=";
     };
-    name = "robotcode";
     license = "Apache-2.0";
-    publisher = "d-biehl";
+    name = "robotcode";
     description = "RobotFramework support for Visual Studio Code";
+    publisher = "d-biehl";
   };
   d-koppenhagen-vscode-code-review = {
     pname = "d-koppenhagen-vscode-code-review";
@@ -7100,10 +7124,10 @@
       url = "https://open-vsx.org/api/d-koppenhagen/vscode-code-review/1.32.1/file/d-koppenhagen.vscode-code-review-1.32.1.vsix";
       sha256 = "sha256-Y1TLhqo5ybZJD1ImxH9GCgc974TDKph4seJ2I7rftD0=";
     };
-    name = "vscode-code-review";
     license = "MIT";
-    publisher = "d-koppenhagen";
+    name = "vscode-code-review";
     description = "Create expert reviews / code reviews for a workspace that can be exported as a document for handing over to customers";
+    publisher = "d-koppenhagen";
   };
   damc-textpad-color-theme = {
     pname = "damc-textpad-color-theme";
@@ -7112,10 +7136,10 @@
       url = "https://open-vsx.org/api/damc/textpad-color-theme/1.19.22/file/damc.textpad-color-theme-1.19.22.vsix";
       sha256 = "sha256-JCWlEofPfjwQf37pNhTEqMuKSxWEyWYWN89rnWJ87/8=";
     };
-    name = "textpad-color-theme";
     license = "MIT";
-    publisher = "damc";
+    name = "textpad-color-theme";
     description = "Minimalist theme, enable you to focus on just writing code";
+    publisher = "damc";
   };
   damonsk-vscode-wardley-maps = {
     pname = "damonsk-vscode-wardley-maps";
@@ -7124,10 +7148,10 @@
       url = "https://open-vsx.org/api/damonsk/vscode-wardley-maps/1.0.12/file/damonsk.vscode-wardley-maps-1.0.12.vsix";
       sha256 = "sha256-75fmWCSFW0RGynqxxXQR7e6BGKW9LkZcYkRmeSSYfaI=";
     };
-    name = "vscode-wardley-maps";
     license = "MIT";
-    publisher = "damonsk";
+    name = "vscode-wardley-maps";
     description = "Display and edit Wardley Maps";
+    publisher = "damonsk";
   };
   dan-c-underwood-arm = {
     pname = "dan-c-underwood-arm";
@@ -7136,10 +7160,10 @@
       url = "https://open-vsx.org/api/dan-c-underwood/arm/1.4.0/file/dan-c-underwood.arm-1.4.0.vsix";
       sha256 = "sha256-Z6umWdtn9msXKhuEU1kOH+31XP0dbTF5GgyR0brmKgo=";
     };
-    name = "arm";
     license = "MIT";
-    publisher = "dan-c-underwood";
+    name = "arm";
     description = "ARM support for Visual Studio Code";
+    publisher = "dan-c-underwood";
   };
   dancermak-vscode-rke-cluster-config = {
     pname = "dancermak-vscode-rke-cluster-config";
@@ -7148,10 +7172,10 @@
       url = "https://open-vsx.org/api/dancermak/vscode-rke-cluster-config/0.0.6/file/dancermak.vscode-rke-cluster-config-0.0.6.vsix";
       sha256 = "sha256-Ednr+9/vWKE4wyAw5vUCKmD5ymPdVzy/DoTxYm1kh8I=";
     };
-    name = "vscode-rke-cluster-config";
     license = "MIT";
-    publisher = "dancermak";
+    name = "vscode-rke-cluster-config";
     description = "VSCode extension for RKE cluster configuration";
+    publisher = "dancermak";
   };
   danielgjackson-auto-dark-mode-windows = {
     pname = "danielgjackson-auto-dark-mode-windows";
@@ -7160,10 +7184,10 @@
       url = "https://open-vsx.org/api/danielgjackson/auto-dark-mode-windows/1.0.11/file/danielgjackson.auto-dark-mode-windows-1.0.11.vsix";
       sha256 = "sha256-XkAF40JTcSLJGZASB7Jz1gSf+rFqeW81x+jPpXIJRe4=";
     };
-    name = "auto-dark-mode-windows";
     license = "MIT";
-    publisher = "danielgjackson";
+    name = "auto-dark-mode-windows";
     description = "Command to toggle the theme between light/dark.";
+    publisher = "danielgjackson";
   };
   danielgtaylor-structured-data-templates = {
     pname = "danielgtaylor-structured-data-templates";
@@ -7172,10 +7196,10 @@
       url = "https://open-vsx.org/api/danielgtaylor/structured-data-templates/0.0.5/file/danielgtaylor.structured-data-templates-0.0.5.vsix";
       sha256 = "sha256-b4dfWDhXwcnhQN76mUaN32o7N+3IWrH44jPCVO2D5J8=";
     };
-    name = "structured-data-templates";
     license = "MIT";
-    publisher = "danielgtaylor";
+    name = "structured-data-templates";
     description = "";
+    publisher = "danielgtaylor";
   };
   danielsrothstan-uixninja-theme = {
     pname = "danielsrothstan-uixninja-theme";
@@ -7184,10 +7208,10 @@
       url = "https://open-vsx.org/api/danielsrothstan/uixninja-theme/1.14.0/file/danielsrothstan.uixninja-theme-1.14.0.vsix";
       sha256 = "sha256-fTCReYQ3no8pKPBL5M/5CcnI51PONPt8Ru90CUUB/kE=";
     };
-    name = "uixninja-theme";
     license = "MIT";
-    publisher = "danielsrothstan";
+    name = "uixninja-theme";
     description = "Theme inspired of the Atom's theme https://github.com/licatajustin/ninja-ui-syntax";
+    publisher = "danielsrothstan";
   };
   danmannock-vscode-fsharp-refactor = {
     pname = "danmannock-vscode-fsharp-refactor";
@@ -7196,10 +7220,10 @@
       url = "https://open-vsx.org/api/danmannock/vscode-fsharp-refactor/0.6.2/file/danmannock.vscode-fsharp-refactor-0.6.2.vsix";
       sha256 = "sha256-gnt4A5g5FgKB53wChJub47E9HHQGYbymo5sGK6+a/KU=";
     };
-    name = "vscode-fsharp-refactor";
     license = "MIT";
-    publisher = "danmannock";
+    name = "vscode-fsharp-refactor";
     description = "F# refactoring tools for vscode";
+    publisher = "danmannock";
   };
   darkriszty-markdown-table-prettify = {
     pname = "darkriszty-markdown-table-prettify";
@@ -7208,10 +7232,10 @@
       url = "https://open-vsx.org/api/darkriszty/markdown-table-prettify/3.6.0/file/darkriszty.markdown-table-prettify-3.6.0.vsix";
       sha256 = "sha256-FZTiNGSY+8xk3DJsTKQu4AHy1UFvg0gbrzPpjqRlECI=";
     };
-    name = "markdown-table-prettify";
     license = "MIT";
-    publisher = "darkriszty";
+    name = "markdown-table-prettify";
     description = "Transforms markdown tables to be more readable.";
+    publisher = "darkriszty";
   };
   datasert-vscode-texty = {
     pname = "datasert-vscode-texty";
@@ -7220,10 +7244,10 @@
       url = "https://open-vsx.org/api/datasert/vscode-texty/1.1.2/file/datasert.vscode-texty-1.1.2.vsix";
       sha256 = "sha256-pAvLTZgqBVYG5Rp3pILZ/PckaQK+OuNWgbUj51LDzMA=";
     };
-    name = "vscode-texty";
     license = "Apache-2.0";
-    publisher = "datasert";
+    name = "vscode-texty";
     description = "Sweet set of text utilities (filter, sort, remove, split, join, insert, open, encode/decode, encrypt)";
+    publisher = "datasert";
   };
   datastax-astra-for-vs-code = {
     pname = "datastax-astra-for-vs-code";
@@ -7232,10 +7256,10 @@
       url = "https://open-vsx.org/api/datastax/astra-for-vs-code/0.3.98/file/datastax.astra-for-vs-code-0.3.98.vsix";
       sha256 = "sha256-dLYYhmtsXerX7/veRs3v8aYESUjs7ZKDU282fxN/cSs=";
     };
-    name = "astra-for-vs-code";
     license = "MIT";
-    publisher = "datastax";
+    name = "astra-for-vs-code";
     description = "DataStax Astra Cassandra-as-a-Service: Open, multi-cloud stack for modern data apps";
+    publisher = "datastax";
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
@@ -7244,10 +7268,10 @@
       url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.1/file/davelopez.galaxy-tools-0.7.1.vsix";
       sha256 = "sha256-VjAVy3DEEGtsJKbh9TWNYRvyiyveLBC5GkLHPnIY4M0=";
     };
-    name = "galaxy-tools";
     license = "Apache-2.0";
-    publisher = "davelopez";
+    name = "galaxy-tools";
     description = "Galaxy Tools for Visual Studio Code - provides XML completion, lints, snippets and other smart features to develop Galaxy (https://galaxyproject.org/) tool wrappers.";
+    publisher = "davelopez";
   };
   davidlday-languagetool-linter = {
     pname = "davidlday-languagetool-linter";
@@ -7256,10 +7280,10 @@
       url = "https://open-vsx.org/api/davidlday/languagetool-linter/0.19.0/file/davidlday.languagetool-linter-0.19.0.vsix";
       sha256 = "sha256-crq6CTXpzwHJL8FPIBneAGjDgUUNdpBt6rIaMCr1F1U=";
     };
-    name = "languagetool-linter";
     license = "Apache-2.0";
-    publisher = "davidlday";
+    name = "languagetool-linter";
     description = "LanguageTool integration for VS Code.";
+    publisher = "davidlday";
   };
   davidnussio-vscode-jq-playground = {
     pname = "davidnussio-vscode-jq-playground";
@@ -7268,10 +7292,10 @@
       url = "https://open-vsx.org/api/davidnussio/vscode-jq-playground/4.0.1/file/davidnussio.vscode-jq-playground-4.0.1.vsix";
       sha256 = "sha256-60/Oye1SoIT8Q32ybdXR1L1T5p0r1Y+OGaJQGebsRD4=";
     };
-    name = "vscode-jq-playground";
     license = "MIT";
-    publisher = "davidnussio";
+    name = "vscode-jq-playground";
     description = "Visual Code integration with jq";
+    publisher = "davidnussio";
   };
   davraamides-todotxt-mode = {
     pname = "davraamides-todotxt-mode";
@@ -7280,10 +7304,10 @@
       url = "https://open-vsx.org/api/davraamides/todotxt-mode/1.4.25/file/davraamides.todotxt-mode-1.4.25.vsix";
       sha256 = "sha256-HSr7T0vscArBiOQhFvVW/ueBmlyOMMEUMUNphwEmHxc=";
     };
-    name = "todotxt-mode";
     license = "MIT";
-    publisher = "davraamides";
+    name = "todotxt-mode";
     description = "Commands and decorators for managing todo.txt files";
+    publisher = "davraamides";
   };
   dawidd6-debian-vscode = {
     pname = "dawidd6-debian-vscode";
@@ -7292,10 +7316,10 @@
       url = "https://open-vsx.org/api/dawidd6/debian-vscode/0.1.2/file/dawidd6.debian-vscode-0.1.2.vsix";
       sha256 = "sha256-zdXPf3ptJqlk6+Xne3Rhafw1G0Xam5znX5FcjFW7x50=";
     };
-    name = "debian-vscode";
     license = "MIT";
-    publisher = "dawidd6";
+    name = "debian-vscode";
     description = "Debian packaging files syntax highlighting support for VSCode";
+    publisher = "dawidd6";
   };
   daylerees-rainglow = {
     pname = "daylerees-rainglow";
@@ -7304,10 +7328,10 @@
       url = "https://open-vsx.org/api/daylerees/rainglow/1.5.2/file/daylerees.rainglow-1.5.2.vsix";
       sha256 = "sha256-MzcpIH8O3+myDHZkNnfba/nErYYuu6urGRiA5cPckTM=";
     };
-    name = "rainglow";
     license = "MIT";
-    publisher = "daylerees";
+    name = "rainglow";
     description = "Rainglow color themes by Dayle Rees";
+    publisher = "daylerees";
   };
   dbaeumer-jshint = {
     pname = "dbaeumer-jshint";
@@ -7316,10 +7340,10 @@
       url = "https://open-vsx.org/api/dbaeumer/jshint/0.10.21/file/dbaeumer.jshint-0.10.21.vsix";
       sha256 = "sha256-OkHnp221tgThgBHGLuX8gGy1WBiBH34e7nnuKEHnDnQ=";
     };
-    name = "jshint";
     license = "MIT";
-    publisher = "dbaeumer";
+    name = "jshint";
     description = "Integrates JSHint into VS Code. JSHint is a linter for JavaScript";
+    publisher = "dbaeumer";
   };
   dbaeumer-vscode-eslint = {
     pname = "dbaeumer-vscode-eslint";
@@ -7328,10 +7352,10 @@
       url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.2/file/dbaeumer.vscode-eslint-2.2.2.vsix";
       sha256 = "sha256-Q6/sRwV3hXQSt0Tj2a1nbi4+EEKM9LMItE+rMmp5GeI=";
     };
-    name = "vscode-eslint";
     license = "MIT";
-    publisher = "dbaeumer";
+    name = "vscode-eslint";
     description = "Integrates ESLint JavaScript into VS Code.";
+    publisher = "dbaeumer";
   };
   dbroemme-yesyoucancoderuby = {
     pname = "dbroemme-yesyoucancoderuby";
@@ -7340,10 +7364,10 @@
       url = "https://open-vsx.org/api/dbroemme/yesyoucancoderuby/1.0.6/file/dbroemme.yesyoucancoderuby-1.0.6.vsix";
       sha256 = "sha256-XCiRUBlE3cdhi9MH3UgdCgqraBGwHLValcp6frRY7q4=";
     };
-    name = "yesyoucancoderuby";
     license = "MIT";
-    publisher = "dbroemme";
+    name = "yesyoucancoderuby";
     description = "A helper to use the Yes You Can Code training";
+    publisher = "dbroemme";
   };
   dcasella-monokai-plusplus = {
     pname = "dcasella-monokai-plusplus";
@@ -7352,10 +7376,10 @@
       url = "https://open-vsx.org/api/dcasella/monokai-plusplus/1.10.0/file/dcasella.monokai-plusplus-1.10.0.vsix";
       sha256 = "sha256-ZIv3fhJPi2yM00alS9TdevzZT2tBJfV4adGGptOioCU=";
     };
-    name = "monokai-plusplus";
     license = "MIT";
-    publisher = "dcasella";
+    name = "monokai-plusplus";
     description = "A modern Monokai theme for Sublime Text 3 and Visual Studio Code";
+    publisher = "dcasella";
   };
   deepakgupta191199-save-commands = {
     pname = "deepakgupta191199-save-commands";
@@ -7364,10 +7388,10 @@
       url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.0.2/file/deepakgupta191199.save-commands-0.0.2.vsix";
       sha256 = "sha256-H2t1nvc0vO0pGVIswNaSYLaNNqjuuFsac1swzIRVMRU=";
     };
-    name = "save-commands";
     license = "MIT";
-    publisher = "deepakgupta191199";
+    name = "save-commands";
     description = "Simple VSCode Extension to save and execute terminal commands.";
+    publisher = "deepakgupta191199";
   };
   deerawan-vscode-faker = {
     pname = "deerawan-vscode-faker";
@@ -7376,10 +7400,10 @@
       url = "https://open-vsx.org/api/deerawan/vscode-faker/2.0.0/file/deerawan.vscode-faker-2.0.0.vsix";
       sha256 = "sha256-RrYebXQLC09Kt89MRXR2ZhgUXERLjZSPQEJT3vXBF8k=";
     };
-    name = "vscode-faker";
     license = "MIT";
-    publisher = "deerawan";
+    name = "vscode-faker";
     description = "Generate fake data for name, address, lorem ipsum, commerce and much more";
+    publisher = "deerawan";
   };
   deibit-devdocs = {
     pname = "deibit-devdocs";
@@ -7388,10 +7412,10 @@
       url = "https://open-vsx.org/api/deibit/devdocs/0.2.0/file/deibit.devdocs-0.2.0.vsix";
       sha256 = "sha256-LCbNyR8Cv4D7oIcfmikIKoCJ2oJr3jZthLWWlWrTuOs=";
     };
-    name = "devdocs";
     license = "MIT";
-    publisher = "deibit";
+    name = "devdocs";
     description = "Allow VSCode to search devdocs.io documentation";
+    publisher = "deibit";
   };
   denco-confluence-markup = {
     pname = "denco-confluence-markup";
@@ -7400,10 +7424,10 @@
       url = "https://open-vsx.org/api/denco/confluence-markup/1.0.0/file/denco.confluence-markup-1.0.0.vsix";
       sha256 = "sha256-Y7vIaaZaCTYPDfIkWJtUWNrSId25W5Jd/lzQraxjkLI=";
     };
-    name = "confluence-markup";
     license = "MIT";
-    publisher = "denco";
+    name = "confluence-markup";
     description = "Confluence markup language support for Visual Studio Code";
+    publisher = "denco";
   };
   dendron-dendron = {
     pname = "dendron-dendron";
@@ -7412,10 +7436,10 @@
       url = "https://open-vsx.org/api/dendron/dendron/0.97.0/file/dendron.dendron-0.97.0.vsix";
       sha256 = "sha256-Pftv68DpZtAR2tHENPbns/Nc6VZmJSxo77jQUg8IXIE=";
     };
-    name = "dendron";
     license = "AGPL-3.0";
-    publisher = "dendron";
+    name = "dendron";
     description = "Dendron is a hierarchal note taking tool that grows as you do. ";
+    publisher = "dendron";
   };
   dendron-dendron-markdown-links = {
     pname = "dendron-dendron-markdown-links";
@@ -7424,10 +7448,10 @@
       url = "https://open-vsx.org/api/dendron/dendron-markdown-links/0.6.20/file/dendron.dendron-markdown-links-0.6.20.vsix";
       sha256 = "sha256-E4VZoM/spSk+Dft06haFxQaQwSOygh3k43ptb9ss7pg=";
     };
-    name = "dendron-markdown-links";
     license = "MIT";
-    publisher = "dendron";
+    name = "dendron-markdown-links";
     description = "Graph viz for Dendron Notes and Schemas";
+    publisher = "dendron";
   };
   dendron-dendron-markdown-notes = {
     pname = "dendron-dendron-markdown-notes";
@@ -7436,10 +7460,10 @@
       url = "https://open-vsx.org/api/dendron/dendron-markdown-notes/0.0.18/file/dendron.dendron-markdown-notes-0.0.18.vsix";
       sha256 = "sha256-H5rGKMXtiOc+gLR/kL2D8v+p0sD6FvkQPMZ4t4MNhDw=";
     };
-    name = "dendron-markdown-notes";
     license = "GPL-3.0";
-    publisher = "dendron";
+    name = "dendron-markdown-notes";
     description = "Navigate notes with [[wiki-links]], backlinks, and #tags (like Bear, Roam, etc). Automatically create notes from new inline [[wiki-links]]. Use Peek Definition to preview linked notes.";
+    publisher = "dendron";
   };
   dendron-dendron-markdown-preview-enhanced = {
     pname = "dendron-dendron-markdown-preview-enhanced";
@@ -7448,10 +7472,10 @@
       url = "https://open-vsx.org/api/dendron/dendron-markdown-preview-enhanced/0.10.47/file/dendron.dendron-markdown-preview-enhanced-0.10.47.vsix";
       sha256 = "sha256-vIeTfIVYimK4SNQJ8Q7KXSiTUufeZFDW5K5TQDMeBj0=";
     };
-    name = "dendron-markdown-preview-enhanced";
     license = "NCSA";
-    publisher = "dendron";
+    name = "dendron-markdown-preview-enhanced";
     description = "Markdown Preview Enhanced ported to vscode";
+    publisher = "dendron";
   };
   dendron-dendron-markdown-shortcuts = {
     pname = "dendron-dendron-markdown-shortcuts";
@@ -7460,10 +7484,10 @@
       url = "https://open-vsx.org/api/dendron/dendron-markdown-shortcuts/0.12.1/file/dendron.dendron-markdown-shortcuts-0.12.1.vsix";
       sha256 = "sha256-R6LG8GkVqBTmaCQl0zEDNYf9jMyHhN4NcJHJAZVElso=";
     };
-    name = "dendron-markdown-shortcuts";
     license = "MIT";
-    publisher = "dendron";
+    name = "dendron-markdown-shortcuts";
     description = "Shortcuts for Markdown editing";
+    publisher = "dendron";
   };
   dendron-dendron-paste-image = {
     pname = "dendron-dendron-paste-image";
@@ -7472,10 +7496,10 @@
       url = "https://open-vsx.org/api/dendron/dendron-paste-image/1.1.0/file/dendron.dendron-paste-image-1.1.0.vsix";
       sha256 = "sha256-8b2mDU5hh0kw0wWoS7zfBLg24dJfdcWLBXupJ7pI8c8=";
     };
-    name = "dendron-paste-image";
     license = "MIT";
-    publisher = "dendron";
+    name = "dendron-paste-image";
     description = "paste image from clipboard directly";
+    publisher = "dendron";
   };
   dendron-dendron-snippet-maker = {
     pname = "dendron-dendron-snippet-maker";
@@ -7484,10 +7508,10 @@
       url = "https://open-vsx.org/api/dendron/dendron-snippet-maker/0.1.6/file/dendron.dendron-snippet-maker-0.1.6.vsix";
       sha256 = "sha256-nYoMrgsidwR6oo3r8mkTRRQxtztaS7WfAZdmIzO/f2Q=";
     };
-    name = "dendron-snippet-maker";
     license = "MIT";
-    publisher = "dendron";
+    name = "dendron-snippet-maker";
     description = "Easily create and manage snippets";
+    publisher = "dendron";
   };
   dendron-nightly = {
     pname = "dendron-nightly";
@@ -7496,10 +7520,10 @@
       url = "https://open-vsx.org/api/dendron/nightly/0.97.5/file/dendron.nightly-0.97.5.vsix";
       sha256 = "sha256-yFV/VpT0zhjHu4oyOW2N61s9CyCETjZNUOjK152j0+Y=";
     };
-    name = "nightly";
     license = "AGPL-3.0";
-    publisher = "dendron";
+    name = "nightly";
     description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.";
+    publisher = "dendron";
   };
   denoland-vscode-deno = {
     pname = "denoland-vscode-deno";
@@ -7508,10 +7532,10 @@
       url = "https://open-vsx.org/api/denoland/vscode-deno/3.12.0/file/denoland.vscode-deno-3.12.0.vsix";
       sha256 = "sha256-0EEH5bQ0tg40A84ndcXEcz57S3GAl0BiUeYaRwmqhhQ=";
     };
-    name = "vscode-deno";
     license = "MIT";
-    publisher = "denoland";
+    name = "vscode-deno";
     description = "A language server client for Deno.";
+    publisher = "denoland";
   };
   denoland-vscode-deno-canary = {
     pname = "denoland-vscode-deno-canary";
@@ -7520,10 +7544,10 @@
       url = "https://open-vsx.org/api/denoland/vscode-deno-canary/0.0.10/file/denoland.vscode-deno-canary-0.0.10.vsix";
       sha256 = "sha256-/aC8q0W/hPcLZMFk4mQrLFQ3G8O9IHLDY0Av7w4XQFE=";
     };
-    name = "vscode-deno-canary";
     license = "MIT";
-    publisher = "denoland";
+    name = "vscode-deno-canary";
     description = "A beta language server client for Deno. Requires Deno 1.6 or better.";
+    publisher = "denoland";
   };
   devberto-theme-newton-next = {
     pname = "devberto-theme-newton-next";
@@ -7532,10 +7556,10 @@
       url = "https://open-vsx.org/api/devberto/theme-newton-next/3.0.4/file/devberto.theme-newton-next-3.0.4.vsix";
       sha256 = "sha256-y6oPPoO52mzKVLkGaRN99FfOpVGbEdqvWfj+Y4FjyQc=";
     };
-    name = "theme-newton-next";
     license = "MIT";
-    publisher = "devberto";
+    name = "theme-newton-next";
     description = "The next version of the low eyestrain syntax theme. Again, apple not included.";
+    publisher = "devberto";
   };
   dhall-dhall-lang = {
     pname = "dhall-dhall-lang";
@@ -7544,10 +7568,10 @@
       url = "https://open-vsx.org/api/dhall/dhall-lang/0.0.5/file/dhall.dhall-lang-0.0.5.vsix";
       sha256 = "sha256-DHvN+5xaTVYSdceTxcOhrgAy+gYj2Ev9e9cQd8cswTs=";
     };
-    name = "dhall-lang";
     license = "MIT";
-    publisher = "dhall";
+    name = "dhall-lang";
     description = "Syntax highlighting for the dhall programming language";
+    publisher = "dhall";
   };
   dhall-vscode-dhall-lsp-server = {
     pname = "dhall-vscode-dhall-lsp-server";
@@ -7556,10 +7580,10 @@
       url = "https://open-vsx.org/api/dhall/vscode-dhall-lsp-server/0.0.4/file/dhall.vscode-dhall-lsp-server-0.0.4.vsix";
       sha256 = "sha256-CQjYP0DCQRBRGPz1QGB3kLyeZcx/t6Ik2+ur4S49HlY=";
     };
-    name = "vscode-dhall-lsp-server";
     license = "MIT";
-    publisher = "dhall";
+    name = "vscode-dhall-lsp-server";
     description = "An LSP protocol implementation for the Dhall programming language";
+    publisher = "dhall";
   };
   dhoeric-ansible-vault = {
     pname = "dhoeric-ansible-vault";
@@ -7568,10 +7592,10 @@
       url = "https://open-vsx.org/api/dhoeric/ansible-vault/0.1.3/file/dhoeric.ansible-vault-0.1.3.vsix";
       sha256 = "sha256-pV8VRiHb/aeAZsA6mGjVr9D9qdnIRZW1Tpm+C/aPe9s=";
     };
-    name = "ansible-vault";
     license = "";
-    publisher = "dhoeric";
+    name = "ansible-vault";
     description = "Encrypt/decrypt ansible-vault file";
+    publisher = "dhoeric";
   };
   digma-digma = {
     pname = "digma-digma";
@@ -7580,10 +7604,10 @@
       url = "https://open-vsx.org/api/digma/digma/0.5.25/file/digma.digma-0.5.25.vsix";
       sha256 = "sha256-Txwx98GX+Xwnq8lJOJYIWcVN4UyXqT4TkWyHdRm3JyA=";
     };
-    name = "digma";
     license = "MIT";
-    publisher = "digma";
+    name = "digma";
     description = "Code insights and Observability for OpenTelemetry. .NET, Python, more coming soon.";
+    publisher = "digma";
   };
   dineug-vuerd-vscode = {
     pname = "dineug-vuerd-vscode";
@@ -7592,10 +7616,10 @@
       url = "https://open-vsx.org/api/dineug/vuerd-vscode/0.9.15/file/dineug.vuerd-vscode-0.9.15.vsix";
       sha256 = "sha256-mh7EmYHWWCD6PbJS7nfrJECpxDo0rNr+LzvlqlX5nfQ=";
     };
-    name = "vuerd-vscode";
     license = "MIT";
-    publisher = "dineug";
+    name = "vuerd-vscode";
     description = "ERD Editor vscode extension";
+    publisher = "dineug";
   };
   dlahmad-dracula-for-rust-theme = {
     pname = "dlahmad-dracula-for-rust-theme";
@@ -7604,10 +7628,10 @@
       url = "https://open-vsx.org/api/dlahmad/dracula-for-rust-theme/0.0.4/file/dlahmad.dracula-for-rust-theme-0.0.4.vsix";
       sha256 = "sha256-2zbk8PFIsAAkjUn3XPSGY11foiDyNJeYAvSOGQ/WD7c=";
     };
-    name = "dracula-for-rust-theme";
     license = "MIT";
-    publisher = "dlahmad";
+    name = "dracula-for-rust-theme";
     description = "Provides a dracula theme tailored towards the rust programming language. Use this extension in combination with the rust-analyzer plugin.";
+    publisher = "dlahmad";
   };
   dlasagno-wal-theme = {
     pname = "dlasagno-wal-theme";
@@ -7616,10 +7640,10 @@
       url = "https://open-vsx.org/api/dlasagno/wal-theme/1.1.2/file/dlasagno.wal-theme-1.1.2.vsix";
       sha256 = "sha256-IvF3WBPwmxNdOmJ58Y14tA4T5CjTkxS/V/NCig2fUqc=";
     };
-    name = "wal-theme";
     license = "MIT";
-    publisher = "dlasagno";
+    name = "wal-theme";
     description = "A theme generated with pywal color palette";
+    publisher = "dlasagno";
   };
   donjayamanne-git-extension-pack = {
     pname = "donjayamanne-git-extension-pack";
@@ -7628,10 +7652,10 @@
       url = "https://open-vsx.org/api/donjayamanne/git-extension-pack/0.1.3/file/donjayamanne.git-extension-pack-0.1.3.vsix";
       sha256 = "sha256-XHELIhXcV8sPBVSMll6rG4FC+qyFnyy9uMJUq4Jcw84=";
     };
-    name = "git-extension-pack";
     license = "MIT";
-    publisher = "donjayamanne";
+    name = "git-extension-pack";
     description = "Popular Visual Studio Code extensions for Git";
+    publisher = "donjayamanne";
   };
   donjayamanne-githistory = {
     pname = "donjayamanne-githistory";
@@ -7640,10 +7664,10 @@
       url = "https://open-vsx.org/api/donjayamanne/githistory/0.6.19/file/donjayamanne.githistory-0.6.19.vsix";
       sha256 = "sha256-BOaBaCYMWxX7dqBNypXZh9Xq8OcE2R69R7nqCdsanRc=";
     };
-    name = "githistory";
     license = "MIT";
-    publisher = "donjayamanne";
+    name = "githistory";
     description = "View git log, file history, compare branches or commits";
+    publisher = "donjayamanne";
   };
   donjayamanne-jquerysnippets = {
     pname = "donjayamanne-jquerysnippets";
@@ -7652,10 +7676,10 @@
       url = "https://open-vsx.org/api/donjayamanne/jquerysnippets/0.0.1/file/donjayamanne.jquerysnippets-0.0.1.vsix";
       sha256 = "sha256-gwK+xgfBwvo8EfRlOL/XUMXIAYzU3U5lrSWnmftw4aI=";
     };
-    name = "jquerysnippets";
     license = "MIT";
-    publisher = "donjayamanne";
+    name = "jquerysnippets";
     description = "Over 130 jQuery Code Snippets";
+    publisher = "donjayamanne";
   };
   dracula-theme-theme-dracula = {
     pname = "dracula-theme-theme-dracula";
@@ -7664,10 +7688,10 @@
       url = "https://open-vsx.org/api/dracula-theme/theme-dracula/2.24.2/file/dracula-theme.theme-dracula-2.24.2.vsix";
       sha256 = "sha256-3MhT8901cQvn+k9x6iv6+j3kI8cskrRZaM7G6v6523s=";
     };
-    name = "theme-dracula";
     license = "MIT";
-    publisher = "dracula-theme";
+    name = "theme-dracula";
     description = "Official Dracula Theme. A dark theme for many editors, shells, and more.";
+    publisher = "dracula-theme";
   };
   drupal-mentoring-drupalpod-ext = {
     pname = "drupal-mentoring-drupalpod-ext";
@@ -7676,10 +7700,10 @@
       url = "https://open-vsx.org/api/drupal-mentoring/drupalpod-ext/0.0.2/file/drupal-mentoring.drupalpod-ext-0.0.2.vsix";
       sha256 = "sha256-PilnPrArd3O/ObYbeGO3Yof7Q4yjtgrbl0u5TFN0eo8=";
     };
-    name = "drupalpod-ext";
     license = "MIT";
-    publisher = "drupal-mentoring";
+    name = "drupalpod-ext";
     description = "";
+    publisher = "drupal-mentoring";
   };
   dsteenman-cdk-snippets = {
     pname = "dsteenman-cdk-snippets";
@@ -7688,10 +7712,10 @@
       url = "https://open-vsx.org/api/dsteenman/cdk-snippets/1.38.0/file/dsteenman.cdk-snippets-1.38.0.vsix";
       sha256 = "sha256-kruuHndmxrDugRz8KqKU92nDZx8csy4qgIujHrNektg=";
     };
-    name = "cdk-snippets";
     license = "MIT";
-    publisher = "dsteenman";
+    name = "cdk-snippets";
     description = "This extension adds L1 construct snippets from CDK into Visual Studio Code.";
+    publisher = "dsteenman";
   };
   dsteenman-cloudformation-yaml-snippets = {
     pname = "dsteenman-cloudformation-yaml-snippets";
@@ -7700,10 +7724,10 @@
       url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.57.0/file/dsteenman.cloudformation-yaml-snippets-3.57.0.vsix";
       sha256 = "sha256-sP01A/rklx140VWW/xXS7Son2Hmmpr2ESsRcTrTqG24=";
     };
-    name = "cloudformation-yaml-snippets";
     license = "MIT";
-    publisher = "dsteenman";
+    name = "cloudformation-yaml-snippets";
     description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.";
+    publisher = "dsteenman";
   };
   dsznajder-es7-react-js-snippets = {
     pname = "dsznajder-es7-react-js-snippets";
@@ -7712,10 +7736,10 @@
       url = "https://open-vsx.org/api/dsznajder/es7-react-js-snippets/4.4.3/file/dsznajder.es7-react-js-snippets-4.4.3.vsix";
       sha256 = "sha256-S3J7JXPyjdQ1bdpyb6xY5gKPZhnNtgFaKU9GJPxP/j8=";
     };
-    name = "es7-react-js-snippets";
     license = "MIT";
-    publisher = "dsznajder";
+    name = "es7-react-js-snippets";
     description = "Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.";
+    publisher = "dsznajder";
   };
   dtsf-octal-back-provider = {
     pname = "dtsf-octal-back-provider";
@@ -7724,10 +7748,10 @@
       url = "https://open-vsx.org/api/dtsf/octal-back-provider/0.1.1/file/dtsf.octal-back-provider-0.1.1.vsix";
       sha256 = "sha256-eEGIiKunDIwxdTkZu3r142BHltUarNq9fsHt1pCALeg=";
     };
-    name = "octal-back-provider";
     license = "MIT";
-    publisher = "dtsf";
+    name = "octal-back-provider";
     description = "Highlight javascript language in ES6 template literals";
+    publisher = "dtsf";
   };
   dubadub-Cooklang = {
     pname = "dubadub-Cooklang";
@@ -7736,10 +7760,10 @@
       url = "https://open-vsx.org/api/dubadub/Cooklang/0.0.4/file/dubadub.Cooklang-0.0.4.vsix";
       sha256 = "sha256-Y/tuPy9ts/DcoLMUWYhboguFu3e2ShWbJT2m11PSm1U=";
     };
-    name = "Cooklang";
     license = "MIT";
-    publisher = "dubadub";
+    name = "Cooklang";
     description = "Cooklang syntax";
+    publisher = "dubadub";
   };
   dubadub-cook = {
     pname = "dubadub-cook";
@@ -7748,10 +7772,10 @@
       url = "https://open-vsx.org/api/dubadub/cook/0.0.3/file/dubadub.cook-0.0.3.vsix";
       sha256 = "sha256-aEM8jNXXRZy4GsVmoBVueUOS6Ki+vFW3iPA4WqFGApA=";
     };
-    name = "cook";
     license = "MIT";
-    publisher = "dubadub";
+    name = "cook";
     description = "cook";
+    publisher = "dubadub";
   };
   ducky-ducky = {
     pname = "ducky-ducky";
@@ -7760,10 +7784,10 @@
       url = "https://open-vsx.org/api/ducky/ducky/0.0.2/file/ducky.ducky-0.0.2.vsix";
       sha256 = "sha256-cLo+8KBKcEjkdmwZ7RGA95SpF0YgN9QHLrcLLTA3s/w=";
     };
-    name = "ducky";
     license = "MIT";
-    publisher = "ducky";
+    name = "ducky";
     description = "learning to program is hard. help us make it easier by submitting some error reports.";
+    publisher = "ducky";
   };
   ducphamle2-sample-helloworld-cicd = {
     pname = "ducphamle2-sample-helloworld-cicd";
@@ -7772,10 +7796,10 @@
       url = "https://open-vsx.org/api/ducphamle2/sample-helloworld-cicd/0.0.6/file/ducphamle2.sample-helloworld-cicd-0.0.6.vsix";
       sha256 = "sha256-FNe4UDOv2ljl69o9tCrVNQqNG+gEC98tjE/7gQA7xcs=";
     };
-    name = "sample-helloworld-cicd";
     license = "MIT";
-    publisher = "ducphamle2";
+    name = "sample-helloworld-cicd";
     description = "HelloWorld example for VS Code CICD";
+    publisher = "ducphamle2";
   };
   dunstontc-viml = {
     pname = "dunstontc-viml";
@@ -7784,10 +7808,10 @@
       url = "https://open-vsx.org/api/dunstontc/viml/0.1.7/file/dunstontc.viml-0.1.7.vsix";
       sha256 = "sha256-Vtj3vBqVqvXLF8dyCSwTxAHdOM3YF18252M7wSxOijY=";
     };
-    name = "viml";
     license = "MIT";
-    publisher = "dunstontc";
+    name = "viml";
     description = "Syntax highlighting for .vim files.";
+    publisher = "dunstontc";
   };
   dylan-foundry-vscode-dylan = {
     pname = "dylan-foundry-vscode-dylan";
@@ -7796,10 +7820,10 @@
       url = "https://open-vsx.org/api/dylan-foundry/vscode-dylan/0.2.1/file/dylan-foundry.vscode-dylan-0.2.1.vsix";
       sha256 = "sha256-+/RpI4rV8FVsyzB/DM4SlYfvHcnZzDjW2aW+FLvTQWQ=";
     };
-    name = "vscode-dylan";
     license = "MIT";
-    publisher = "dylan-foundry";
+    name = "vscode-dylan";
     description = "Dylan language support for Visual Studio Code";
+    publisher = "dylan-foundry";
   };
   dz4k-vscode-hyperscript-org = {
     pname = "dz4k-vscode-hyperscript-org";
@@ -7808,10 +7832,10 @@
       url = "https://open-vsx.org/api/dz4k/vscode-hyperscript-org/0.1.5/file/dz4k.vscode-hyperscript-org-0.1.5.vsix";
       sha256 = "sha256-sHHm1Q8Q2ymyN6G+WjvfGFhLb2laP25jWHB++A1sIBs=";
     };
-    name = "vscode-hyperscript-org";
     license = "MIT";
-    publisher = "dz4k";
+    name = "vscode-hyperscript-org";
     description = "language support for _hyperscript <https://hyperscript.org>";
+    publisher = "dz4k";
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
@@ -7820,10 +7844,10 @@
       url = "https://open-vsx.org/api/eamodio/gitlens/12.0.7/file/eamodio.gitlens-12.0.7.vsix";
       sha256 = "sha256-gPhiytthf35eDhtzkSK2JZjtj4877la3hB1Cswbrszw=";
     };
-    name = "gitlens";
     license = "MIT";
-    publisher = "eamodio";
+    name = "gitlens";
     description = "Supercharge Git within VS Code \8212 Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more";
+    publisher = "eamodio";
   };
   eamodio-tsl-problem-matcher = {
     pname = "eamodio-tsl-problem-matcher";
@@ -7832,10 +7856,10 @@
       url = "https://open-vsx.org/api/eamodio/tsl-problem-matcher/0.4.0/file/eamodio.tsl-problem-matcher-0.4.0.vsix";
       sha256 = "sha256-MLK7u0JBUEUOcWqzZ5UFheFp1qsm0ErjxJnPPDCIsGk=";
     };
-    name = "tsl-problem-matcher";
     license = "MIT";
-    publisher = "eamodio";
+    name = "tsl-problem-matcher";
     description = "Provides problem matchers for TypeScript projects using Webpack with ts-loader, fork-ts-checker-webpack-plugin with or without eslint, and/or tslint-loader";
+    publisher = "eamodio";
   };
   earshinov-filter-lines = {
     pname = "earshinov-filter-lines";
@@ -7844,10 +7868,10 @@
       url = "https://open-vsx.org/api/earshinov/filter-lines/1.0.0/file/earshinov.filter-lines-1.0.0.vsix";
       sha256 = "sha256-1go9jrdqSwa59nuArBZ1a16wyj+b925Ec1ePSqwJ2yI=";
     };
-    name = "filter-lines";
     license = "MIT";
-    publisher = "earshinov";
+    name = "filter-lines";
     description = "Quickly find all lines matching a string or regular expression";
+    publisher = "earshinov";
   };
   earshinov-permute-lines = {
     pname = "earshinov-permute-lines";
@@ -7856,10 +7880,10 @@
       url = "https://open-vsx.org/api/earshinov/permute-lines/1.1.0/file/earshinov.permute-lines-1.1.0.vsix";
       sha256 = "sha256-2VqAJoJOA94tAmhKFMbPUgDxnoORQfSVqCRDFMImgHc=";
     };
-    name = "permute-lines";
     license = "MIT";
-    publisher = "earshinov";
+    name = "permute-lines";
     description = "Reverse, Unique, Shuffle lines as in Sublime Text";
+    publisher = "earshinov";
   };
   earshinov-simple-alignment = {
     pname = "earshinov-simple-alignment";
@@ -7868,10 +7892,10 @@
       url = "https://open-vsx.org/api/earshinov/simple-alignment/1.0.1/file/earshinov.simple-alignment-1.0.1.vsix";
       sha256 = "sha256-gL6nyms5jWhJtCLrHO+HJjVwdJQEYe4a6Za43Xpi5Co=";
     };
-    name = "simple-alignment";
     license = "MIT";
-    publisher = "earshinov";
+    name = "simple-alignment";
     description = "Align multiple selections into columns";
+    publisher = "earshinov";
   };
   earshinov-sort-lines-by-selection = {
     pname = "earshinov-sort-lines-by-selection";
@@ -7880,10 +7904,10 @@
       url = "https://open-vsx.org/api/earshinov/sort-lines-by-selection/1.0.0/file/earshinov.sort-lines-by-selection-1.0.0.vsix";
       sha256 = "sha256-5w7dMmgE3Mh/lWL1qTxfX2YnIFs3MpNmRZJlenlJoew=";
     };
-    name = "sort-lines-by-selection";
     license = "MIT";
-    publisher = "earshinov";
+    name = "sort-lines-by-selection";
     description = "Sort lines based on the text selected in each line";
+    publisher = "earshinov";
   };
   eclipse-cdt-cdt-gdb-vscode = {
     pname = "eclipse-cdt-cdt-gdb-vscode";
@@ -7892,10 +7916,10 @@
       url = "https://open-vsx.org/api/eclipse-cdt/cdt-gdb-vscode/0.0.92/file/eclipse-cdt.cdt-gdb-vscode-0.0.92.vsix";
       sha256 = "sha256-l7iE1m2ebJaZttyFz+Kdx/l/kPE9sUbmgfDFOfQV3ws=";
     };
-    name = "cdt-gdb-vscode";
     license = "EPL-2.0";
-    publisher = "eclipse-cdt";
+    name = "cdt-gdb-vscode";
     description = "VS Code extension for CDT GDB debug adapter";
+    publisher = "eclipse-cdt";
   };
   eclipse-theia-builtin-extension-pack = {
     pname = "eclipse-theia-builtin-extension-pack";
@@ -7904,10 +7928,10 @@
       url = "https://open-vsx.org/api/eclipse-theia/builtin-extension-pack/1.64.0-next.68976705968/file/eclipse-theia.builtin-extension-pack-1.64.0-next.68976705968.vsix";
       sha256 = "sha256-HNV5XvG/PvA09rZ0ySW4wpaW+kMM/byE0WP4R1/IEBc=";
     };
-    name = "builtin-extension-pack";
     license = "EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0";
-    publisher = "eclipse-theia";
+    name = "builtin-extension-pack";
     description = "Builtin extension pack associated to a version of vscode";
+    publisher = "eclipse-theia";
   };
   ecmel-vscode-html-css = {
     pname = "ecmel-vscode-html-css";
@@ -7916,10 +7940,10 @@
       url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.12.2/file/ecmel.vscode-html-css-1.12.2.vsix";
       sha256 = "sha256-zkmd3c0qcaix8UpGgvjM3TaVC+lMcuh0y6u4e5q+xMk=";
     };
-    name = "vscode-html-css";
     license = "MIT";
-    publisher = "ecmel";
+    name = "vscode-html-css";
     description = "CSS Intellisense for HTML";
+    publisher = "ecmel";
   };
   ecrax-emoji-toolbox = {
     pname = "ecrax-emoji-toolbox";
@@ -7928,10 +7952,10 @@
       url = "https://open-vsx.org/api/ecrax/emoji-toolbox/1.1.2/file/ecrax.emoji-toolbox-1.1.2.vsix";
       sha256 = "sha256-GILLLVOInwvjP+Qc320U83TH8mgf1ca6iUsL9mGuegM=";
     };
-    name = "emoji-toolbox";
     license = "GPL-3.0";
-    publisher = "ecrax";
+    name = "emoji-toolbox";
     description = "An emoji toolbox to convert emojis from text and ASCII and insert emojis";
+    publisher = "ecrax";
   };
   edukera-archetype = {
     pname = "edukera-archetype";
@@ -7940,10 +7964,10 @@
       url = "https://open-vsx.org/api/edukera/archetype/0.55.0/file/edukera.archetype-0.55.0.vsix";
       sha256 = "sha256-CHIT/80CIWR2E+tE6iCxXpepDmC/t+xr293gYnuBl5I=";
     };
-    name = "archetype";
     license = "MIT";
-    publisher = "edukera";
+    name = "archetype";
     description = "DSL to develop smart contracts on the Tezos blockchain.";
+    publisher = "edukera";
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
@@ -7952,10 +7976,10 @@
       url = "https://open-vsx.org/api/efoerster/texlab/4.0.0/file/efoerster.texlab-4.0.0.vsix";
       sha256 = "sha256-hFLtv3YmV7kjm8sYDxqzdyKizZd+mw9XnQUGpJ/uu8w=";
     };
-    name = "texlab";
     license = "MIT";
-    publisher = "efoerster";
+    name = "texlab";
     description = "LaTeX and BibTeX language support for Visual Studio Code";
+    publisher = "efoerster";
   };
   eg2-vscode-npm-script = {
     pname = "eg2-vscode-npm-script";
@@ -7964,10 +7988,10 @@
       url = "https://open-vsx.org/api/eg2/vscode-npm-script/0.3.11/file/eg2.vscode-npm-script-0.3.11.vsix";
       sha256 = "sha256-iNJGQYHd8ei43ZsGUGeSjD7Vx3ic/zakEaNq5wLL7/Q=";
     };
-    name = "vscode-npm-script";
     license = "MIT";
-    publisher = "eg2";
+    name = "vscode-npm-script";
     description = "npm support for VS Code";
+    publisher = "eg2";
   };
   egomobile-vscode-powertools = {
     pname = "egomobile-vscode-powertools";
@@ -7976,10 +8000,10 @@
       url = "https://open-vsx.org/api/egomobile/vscode-powertools/0.67.1/file/egomobile.vscode-powertools-0.67.1.vsix";
       sha256 = "sha256-xXe6VOJJJGkkRGcYkb2kUqerPXoc8nqe/q8VvFWb6bU=";
     };
-    name = "vscode-powertools";
     license = "LGPL-3.0";
-    publisher = "egomobile";
+    name = "vscode-powertools";
     description = "A set of useful and handy tools for Visual Studio Code.";
+    publisher = "egomobile";
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
@@ -7988,10 +8012,10 @@
       url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.2/file/eliostruyf.vscode-front-matter-7.3.2.vsix";
       sha256 = "sha256-R3s66Ih2zgsnhaALqT6CZ2NXwsgBmo+Jvs1MC7Y0hPQ=";
     };
-    name = "vscode-front-matter";
     license = "MIT";
-    publisher = "eliostruyf";
+    name = "vscode-front-matter";
     description = "Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...";
+    publisher = "eliostruyf";
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
@@ -8000,10 +8024,10 @@
       url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/7.4.2435049/file/eliostruyf.vscode-front-matter-beta-7.4.2435049.vsix";
       sha256 = "sha256-yTV0rlpv0FpNtUs9kSRFFhsri8miZsszYt7WXR5y7y0=";
     };
-    name = "vscode-front-matter-beta";
     license = "MIT";
-    publisher = "eliostruyf";
+    name = "vscode-front-matter-beta";
     description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...";
+    publisher = "eliostruyf";
   };
   eliutdev-bulma-css-class-completion = {
     pname = "eliutdev-bulma-css-class-completion";
@@ -8012,10 +8036,10 @@
       url = "https://open-vsx.org/api/eliutdev/bulma-css-class-completion/0.3.0/file/eliutdev.bulma-css-class-completion-0.3.0.vsix";
       sha256 = "sha256-R2kAXAsdezz7aL9lpVvIvppov44zAfqPYhgbsNMEfOQ=";
     };
-    name = "bulma-css-class-completion";
     license = "MIT";
-    publisher = "eliutdev";
+    name = "bulma-css-class-completion";
     description = "Provides CSS class name completion for the HTML class attribute based on Bulma CSS classes.";
+    publisher = "eliutdev";
   };
   elixir-lsp-elixir-ls = {
     pname = "elixir-lsp-elixir-ls";
@@ -8024,10 +8048,10 @@
       url = "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.9.0/file/elixir-lsp.elixir-ls-0.9.0.vsix";
       sha256 = "sha256-At03wB7kriJWpvbmfwqnayscmn0L15H+yANYmx44/7A=";
     };
-    name = "elixir-ls";
     license = "MIT";
-    publisher = "elixir-lsp";
+    name = "elixir-ls";
     description = "Elixir support with debugger, autocomplete, and more. Powered by ElixirLS.";
+    publisher = "elixir-lsp";
   };
   emattiza-ide-purescript = {
     pname = "emattiza-ide-purescript";
@@ -8036,10 +8060,10 @@
       url = "https://open-vsx.org/api/emattiza/ide-purescript/0.25.5/file/emattiza.ide-purescript-0.25.5.vsix";
       sha256 = "sha256-quSZdOJmt8/1ADBGKUt9EXot6gvf8Bbx008zfO2sCiI=";
     };
-    name = "ide-purescript";
     license = "MIT";
-    publisher = "emattiza";
+    name = "ide-purescript";
     description = "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server";
+    publisher = "emattiza";
   };
   emattiza-language-purescript = {
     pname = "emattiza-language-purescript";
@@ -8048,10 +8072,10 @@
       url = "https://open-vsx.org/api/emattiza/language-purescript/0.2.7/file/emattiza.language-purescript-0.2.7.vsix";
       sha256 = "sha256-A/Ebo/xPBNRQrTWJbLLQSv4A4+KGvjKOArmfDK5kCUE=";
     };
-    name = "language-purescript";
     license = "MIT";
-    publisher = "emattiza";
+    name = "language-purescript";
     description = "Syntax Highlighting for the PureScript programming language";
+    publisher = "emattiza";
   };
   emattiza-vscode-purty = {
     pname = "emattiza-vscode-purty";
@@ -8060,10 +8084,10 @@
       url = "https://open-vsx.org/api/emattiza/vscode-purty/0.6.0/file/emattiza.vscode-purty-0.6.0.vsix";
       sha256 = "sha256-qsmQyfRJ2Nis1IfxsC4OUBpewwVQd2n4ZuHWhytFdTw=";
     };
-    name = "vscode-purty";
     license = "MIT";
-    publisher = "emattiza";
+    name = "vscode-purty";
     description = "PureScript formatter";
+    publisher = "emattiza";
   };
   embertooling-prettier-for-handlebars-vscode = {
     pname = "embertooling-prettier-for-handlebars-vscode";
@@ -8072,10 +8096,10 @@
       url = "https://open-vsx.org/api/embertooling/prettier-for-handlebars-vscode/3.0.0/file/embertooling.prettier-for-handlebars-vscode-3.0.0.vsix";
       sha256 = "sha256-t1w3NOwK/CPBPks4gX6ustleFzR9zPfJMDoCT3E17xM=";
     };
-    name = "prettier-for-handlebars-vscode";
     license = "MIT";
-    publisher = "embertooling";
+    name = "prettier-for-handlebars-vscode";
     description = "Prettier formatting for Handlebars files - Clone of handlebars-formatter";
+    publisher = "embertooling";
   };
   emilast-LogFileHighlighter = {
     pname = "emilast-LogFileHighlighter";
@@ -8084,10 +8108,10 @@
       url = "https://open-vsx.org/api/emilast/LogFileHighlighter/2.8.0/file/emilast.LogFileHighlighter-2.8.0.vsix";
       sha256 = "sha256-BqRAssNwWMyuJXRhfc+UItDKA5wAhTJtjirIFYpIVIs=";
     };
-    name = "LogFileHighlighter";
     license = "MIT";
-    publisher = "emilast";
+    name = "LogFileHighlighter";
     description = "Adds color highlighting to log files to make it easier to follow the flow of log events and identify problems.";
+    publisher = "emilast";
   };
   emmanuelbeziat-vscode-great-icons = {
     pname = "emmanuelbeziat-vscode-great-icons";
@@ -8096,10 +8120,10 @@
       url = "https://open-vsx.org/api/emmanuelbeziat/vscode-great-icons/2.1.86/file/emmanuelbeziat.vscode-great-icons-2.1.86.vsix";
       sha256 = "sha256-JS6Lx3FkJ2A6VXYnlxKtrVFZRyxHe/uI7GRr1iCtqcs=";
     };
-    name = "vscode-great-icons";
     license = "MIT";
-    publisher = "emmanuelbeziat";
+    name = "vscode-great-icons";
     description = "A big pack of icons (200+) for your files.";
+    publisher = "emmanuelbeziat";
   };
   emroussel-atom-icons = {
     pname = "emroussel-atom-icons";
@@ -8108,10 +8132,10 @@
       url = "https://open-vsx.org/api/emroussel/atom-icons/1.2.0/file/emroussel.atom-icons-1.2.0.vsix";
       sha256 = "sha256-3yW1MCyTWHh16+kfp7Z1YQSXkJEvKunbJ069y+3nINw=";
     };
-    name = "atom-icons";
     license = "MIT";
-    publisher = "emroussel";
+    name = "atom-icons";
     description = "Atom file and folder icons for VS Code";
+    publisher = "emroussel";
   };
   emroussel-atomize-atom-one-dark-theme = {
     pname = "emroussel-atomize-atom-one-dark-theme";
@@ -8120,10 +8144,10 @@
       url = "https://open-vsx.org/api/emroussel/atomize-atom-one-dark-theme/2.0.1/file/emroussel.atomize-atom-one-dark-theme-2.0.1.vsix";
       sha256 = "sha256-n8hnoDGN9756Aqhx/pKr7Vx0zv2zLEEFYUAgjxIxTaI=";
     };
-    name = "atomize-atom-one-dark-theme";
     license = "MIT";
-    publisher = "emroussel";
+    name = "atomize-atom-one-dark-theme";
     description = "A detailed and accurate Atom One Dark Theme";
+    publisher = "emroussel";
   };
   emulicious-emulicious-debugger = {
     pname = "emulicious-emulicious-debugger";
@@ -8132,10 +8156,10 @@
       url = "https://open-vsx.org/api/emulicious/emulicious-debugger/1.2.0/file/emulicious.emulicious-debugger-1.2.0.vsix";
       sha256 = "sha256-vLdcHcYig44d5dkG1iILNkGTILhSuFNNHB/B3bKsPZA=";
     };
-    name = "emulicious-debugger";
     license = "MIT";
-    publisher = "emulicious";
+    name = "emulicious-debugger";
     description = "This extension enables debugging with Emulicious in VS Code.";
+    publisher = "emulicious";
   };
   engn2219-anu-engn2219-2022-s1-vscode = {
     pname = "engn2219-anu-engn2219-2022-s1-vscode";
@@ -8144,10 +8168,10 @@
       url = "https://open-vsx.org/api/engn2219-anu/engn2219-2022-s1-vscode/1.2.3/file/engn2219-anu.engn2219-2022-s1-vscode-1.2.3.vsix";
       sha256 = "sha256-aO+qsEAvcsxWH4DwMHnYm2BB++WEDt1IcidJG2UHepw=";
     };
-    name = "engn2219-2022-s1-vscode";
     license = "MIT";
-    publisher = "engn2219-anu";
+    name = "engn2219-2022-s1-vscode";
     description = "ENGN2219 package";
+    publisher = "engn2219-anu";
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
@@ -8156,10 +8180,10 @@
       url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.4/file/enkia.tokyo-night-0.8.4.vsix";
       sha256 = "sha256-N2Mwd4XFHvuEmzvVOZlpRH24ksCV+AhEzfX70QYvDbM=";
     };
-    name = "tokyo-night";
     license = "MIT";
-    publisher = "enkia";
+    name = "tokyo-night";
     description = "A clean Visual Studio Code theme that celebrates the lights of Downtown Tokyo at night.";
+    publisher = "enkia";
   };
   entan-gl-cc65-vice = {
     pname = "entan-gl-cc65-vice";
@@ -8168,10 +8192,10 @@
       url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.3.2/file/entan-gl.cc65-vice-6.3.2.vsix";
       sha256 = "sha256-SCKpyS19lvyx+opV7dAjKIRgS+xoktQ4dp/CDtqAjWc=";
     };
-    name = "cc65-vice";
     license = "MIT";
-    publisher = "entan-gl";
+    name = "cc65-vice";
     description = "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators.";
+    publisher = "entan-gl";
   };
   epsilon-language-epsilon = {
     pname = "epsilon-language-epsilon";
@@ -8180,10 +8204,10 @@
       url = "https://open-vsx.org/api/epsilon/language-epsilon/1.2.1/file/epsilon.language-epsilon-1.2.1.vsix";
       sha256 = "sha256-BCDXhOUqm7m+Sdk6rwHmF3Bo7qTwNE/lgyeNBUH5Z/0=";
     };
-    name = "language-epsilon";
     license = "MIT";
-    publisher = "epsilon";
+    name = "language-epsilon";
     description = "Epsilon Languages";
+    publisher = "epsilon";
   };
   ericzhu-lsp-web-extension-sample = {
     pname = "ericzhu-lsp-web-extension-sample";
@@ -8192,10 +8216,10 @@
       url = "https://open-vsx.org/api/ericzhu/lsp-web-extension-sample/1.0.0/file/ericzhu.lsp-web-extension-sample-1.0.0.vsix";
       sha256 = "sha256-I0qTuCFseK2tGwBgP7fPf2BJCXGQiQ54BJ1kcsmSc/E=";
     };
-    name = "lsp-web-extension-sample";
     license = "MIT";
-    publisher = "ericzhu";
+    name = "lsp-web-extension-sample";
     description = "A language server in a web extension";
+    publisher = "ericzhu";
   };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
@@ -8204,10 +8228,10 @@
       url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.34/file/erlang-ls.erlang-ls-0.0.34.vsix";
       sha256 = "sha256-D9ao/g86hZ4owmNVsaCwMJwvOPDl6VHd88ofoBSUCjY=";
     };
-    name = "erlang-ls";
     license = "Apache-2.0";
-    publisher = "erlang-ls";
+    name = "erlang-ls";
     description = "The Visual Studio Code Extension for the Erlang Language Server";
+    publisher = "erlang-ls";
   };
   errata-ai-vale-server = {
     pname = "errata-ai-vale-server";
@@ -8216,10 +8240,10 @@
       url = "https://open-vsx.org/api/errata-ai/vale-server/0.12.0/file/errata-ai.vale-server-0.12.0.vsix";
       sha256 = "sha256-vWJNjdx7SE93YD5jJs4CnDYXIcGPoCPOKFbUsx70r24=";
     };
-    name = "vale-server";
     license = "MIT";
-    publisher = "errata-ai";
+    name = "vale-server";
     description = "The official Visual Studio Code extension for Vale and Vale Server.";
+    publisher = "errata-ai";
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
@@ -8228,10 +8252,10 @@
       url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.5.0/file/esbenp.prettier-vscode-9.5.0.vsix";
       sha256 = "sha256-E6p38Z0X4teI7BCdtezljjQesYkq9rKcfR+gq8ydM7k=";
     };
-    name = "prettier-vscode";
     license = "MIT";
-    publisher = "esbenp";
+    name = "prettier-vscode";
     description = "Code formatter using prettier";
+    publisher = "esbenp";
   };
   eseom-nunjucks-template = {
     pname = "eseom-nunjucks-template";
@@ -8240,10 +8264,10 @@
       url = "https://open-vsx.org/api/eseom/nunjucks-template/0.5.2/file/eseom.nunjucks-template-0.5.2.vsix";
       sha256 = "sha256-zht6CH8mCNYfbZbWp3iP2c9C5U6wPVPW59H69DPrT9o=";
     };
-    name = "nunjucks-template";
     license = "MIT";
-    publisher = "eseom";
+    name = "nunjucks-template";
     description = "Formatting, Syntax Highlighting, Hover, and Snippets for Nunjucks";
+    publisher = "eseom";
   };
   espressif-esp-idf-extension = {
     pname = "espressif-esp-idf-extension";
@@ -8252,10 +8276,10 @@
       url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.4.0/file/espressif.esp-idf-extension-1.4.0.vsix";
       sha256 = "sha256-p010yC9Pr3zHOhcVTANVgk6GzsSsXfp7Id5obnsbYz0=";
     };
-    name = "esp-idf-extension";
     license = "Apache-2.0";
-    publisher = "espressif";
+    name = "esp-idf-extension";
     description = "Develop and debug applications for Espressif ESP32, ESP32-S2 chips with ESP-IDF";
+    publisher = "espressif";
   };
   ethan-reesor-go-notebook-kernel = {
     pname = "ethan-reesor-go-notebook-kernel";
@@ -8264,10 +8288,10 @@
       url = "https://open-vsx.org/api/ethan-reesor/go-notebook-kernel/0.1.3/file/ethan-reesor.go-notebook-kernel-0.1.3.vsix";
       sha256 = "sha256-j4IK4a1aTivCLnWcZe3lVOniIRD5I95m3qpUSnbnxx4=";
     };
-    name = "go-notebook-kernel";
     license = "Apache-2.0";
-    publisher = "ethan-reesor";
+    name = "go-notebook-kernel";
     description = "VSCode notebook kernel for Go powered by Yaegi";
+    publisher = "ethan-reesor";
   };
   ethan-reesor-vscode-byebug = {
     pname = "ethan-reesor-vscode-byebug";
@@ -8276,10 +8300,10 @@
       url = "https://open-vsx.org/api/ethan-reesor/vscode-byebug/0.1.2/file/ethan-reesor.vscode-byebug-0.1.2.vsix";
       sha256 = "sha256-+qKeeQhqRHjTciFbYrfLac0qboBjh4lfH5LOpD3VHsI=";
     };
-    name = "vscode-byebug";
     license = "MIT";
-    publisher = "ethan-reesor";
+    name = "vscode-byebug";
     description = "Byebug debugger support for VSCode";
+    publisher = "ethan-reesor";
   };
   ethan-reesor-vscode-go-test-adapter = {
     pname = "ethan-reesor-vscode-go-test-adapter";
@@ -8288,10 +8312,10 @@
       url = "https://open-vsx.org/api/ethan-reesor/vscode-go-test-adapter/0.1.6/file/ethan-reesor.vscode-go-test-adapter-0.1.6.vsix";
       sha256 = "sha256-7ZyWHJREBEneh790Xr3u7ckbO3AF75A3JE4zgbLaLqM=";
     };
-    name = "vscode-go-test-adapter";
     license = "MIT";
-    publisher = "ethan-reesor";
+    name = "vscode-go-test-adapter";
     description = "Go test adapter for VSCode Test Explorer";
+    publisher = "ethan-reesor";
   };
   ev3dev-ev3dev-browser = {
     pname = "ev3dev-ev3dev-browser";
@@ -8300,10 +8324,10 @@
       url = "https://open-vsx.org/api/ev3dev/ev3dev-browser/1.2.0/file/ev3dev.ev3dev-browser-1.2.0.vsix";
       sha256 = "sha256-q4wvU7rYjxIOX+m2d00dHZJWjswUnwwQtUXFQZ1w+cU=";
     };
-    name = "ev3dev-browser";
     license = "MIT";
-    publisher = "ev3dev";
+    name = "ev3dev-browser";
     description = "Browse for ev3dev devices";
+    publisher = "ev3dev";
   };
   evaera-roblox-api-explorer = {
     pname = "evaera-roblox-api-explorer";
@@ -8312,10 +8336,10 @@
       url = "https://open-vsx.org/api/evaera/roblox-api-explorer/1.2.0/file/evaera.roblox-api-explorer-1.2.0.vsix";
       sha256 = "sha256-CVDQDKssXcw/L+FnW5kJCB551yhZxLV4rtu+PKDYWD8=";
     };
-    name = "roblox-api-explorer";
     license = "MIT";
-    publisher = "evaera";
+    name = "roblox-api-explorer";
     description = "Allows you to explore the Roblox API right from your IDE";
+    publisher = "evaera";
   };
   evaera-vscode-rojo = {
     pname = "evaera-vscode-rojo";
@@ -8324,10 +8348,10 @@
       url = "https://open-vsx.org/api/evaera/vscode-rojo/1.13.4/file/evaera.vscode-rojo-1.13.4.vsix";
       sha256 = "sha256-FBNbhK6R4v2JS5O3/PMNnHFExCYFZCQ2sgtLyoVVISo=";
     };
-    name = "vscode-rojo";
     license = "";
-    publisher = "evaera";
+    name = "vscode-rojo";
     description = "Build robust Roblox games using Rojo directly from VS Code to sync your scripts into Roblox Studio.";
+    publisher = "evaera";
   };
   eventyret-bootstrap-4-cdn-snippet = {
     pname = "eventyret-bootstrap-4-cdn-snippet";
@@ -8336,10 +8360,10 @@
       url = "https://open-vsx.org/api/eventyret/bootstrap-4-cdn-snippet/1.13.0/file/eventyret.bootstrap-4-cdn-snippet-1.13.0.vsix";
       sha256 = "sha256-s76wechR69jXOAb1YmTuhGif9VTNv5cbKlzyWzMlr9g=";
     };
-    name = "bootstrap-4-cdn-snippet";
     license = "GPL-3.0";
-    publisher = "eventyret";
+    name = "bootstrap-4-cdn-snippet";
     description = "This will get you up and running to get a boilerplate of bootstrap ready in a sec";
+    publisher = "eventyret";
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
@@ -8348,10 +8372,10 @@
       url = "https://open-vsx.org/api/everscale/solidity-support/1.3.41/file/everscale.solidity-support-1.3.41.vsix";
       sha256 = "sha256-WHfexMHnvnq8urlLzciZRtABUb2EkJu7aTHPses94UE=";
     };
-    name = "solidity-support";
     license = "Apache-2.0";
-    publisher = "everscale";
+    name = "solidity-support";
     description = "Everscale Solidity Language for Visual Studio Code";
+    publisher = "everscale";
   };
   evgeniypeshkov-syntax-highlighter = {
     pname = "evgeniypeshkov-syntax-highlighter";
@@ -8360,10 +8384,10 @@
       url = "https://open-vsx.org/api/evgeniypeshkov/syntax-highlighter/0.5.1/file/evgeniypeshkov.syntax-highlighter-0.5.1.vsix";
       sha256 = "sha256-fIQ4Crw9VtFt0nGmTzS7igo1pp7jkWLAGCs/FUxzQRg=";
     };
-    name = "syntax-highlighter";
     license = "MIT";
-    publisher = "evgeniypeshkov";
+    name = "syntax-highlighter";
     description = "Syntax highlighting based on Tree-sitter";
+    publisher = "evgeniypeshkov";
   };
   evhub-coconut = {
     pname = "evhub-coconut";
@@ -8372,10 +8396,10 @@
       url = "https://open-vsx.org/api/evhub/coconut/2.0.0/file/evhub.coconut-2.0.0.vsix";
       sha256 = "sha256-x6Fm57+qiPhktUsb+tRznF+zttBfEiOZ8yDBTc/p1ck=";
     };
-    name = "coconut";
     license = "GPL-3.0";
-    publisher = "evhub";
+    name = "coconut";
     description = "Coconut language support for Visual Studio Code.";
+    publisher = "evhub";
   };
   evilz-vscode-reveal = {
     pname = "evilz-vscode-reveal";
@@ -8384,10 +8408,10 @@
       url = "https://open-vsx.org/api/evilz/vscode-reveal/4.1.3/file/evilz.vscode-reveal-4.1.3.vsix";
       sha256 = "sha256-IbRq/IiSGYFqd1UDuhKCWZv94OUyOw4IWPvt8lKW68c=";
     };
-    name = "vscode-reveal";
     license = "MIT";
-    publisher = "evilz";
+    name = "vscode-reveal";
     description = "Show markdown as revealJs presentation";
+    publisher = "evilz";
   };
   evzen-wybitul-magic-racket = {
     pname = "evzen-wybitul-magic-racket";
@@ -8396,10 +8420,10 @@
       url = "https://open-vsx.org/api/evzen-wybitul/magic-racket/0.6.2/file/evzen-wybitul.magic-racket-0.6.2.vsix";
       sha256 = "sha256-jxDJRUew/CHT19nynR4rBsbIyi+3gT5cGGJSs/3vdO8=";
     };
-    name = "magic-racket";
     license = "GPL-3.0";
-    publisher = "evzen-wybitul";
+    name = "magic-racket";
     description = "LSP support, REPL integration, and top notch syntax highlighting for the coolest of LISPs!";
+    publisher = "evzen-wybitul";
   };
   exiasr-hadolint = {
     pname = "exiasr-hadolint";
@@ -8408,10 +8432,10 @@
       url = "https://open-vsx.org/api/exiasr/hadolint/1.1.1/file/exiasr.hadolint-1.1.1.vsix";
       sha256 = "sha256-vWGv2AuULSAtZwFPdQYcgOndOTIFH0dS6s7oCmwEvG8=";
     };
-    name = "hadolint";
     license = "MIT";
-    publisher = "exiasr";
+    name = "hadolint";
     description = "Integrates hadolint, a Dockerfile linter, into VS Code.";
+    publisher = "exiasr";
   };
   fabiospampinato-vscode-highlight = {
     pname = "fabiospampinato-vscode-highlight";
@@ -8420,10 +8444,10 @@
       url = "https://open-vsx.org/api/fabiospampinato/vscode-highlight/1.6.0/file/fabiospampinato.vscode-highlight-1.6.0.vsix";
       sha256 = "sha256-eoabjwmJCLS1Me44ebz0Mb8RGg1Df5zdq6aB4gHbkDg=";
     };
-    name = "vscode-highlight";
     license = "MIT";
-    publisher = "fabiospampinato";
+    name = "vscode-highlight";
     description = "Advanced text highlighter based on regexes. Useful for todos, annotations, colors etc.";
+    publisher = "fabiospampinato";
   };
   fabiospampinato-vscode-open-in-npm = {
     pname = "fabiospampinato-vscode-open-in-npm";
@@ -8432,10 +8456,10 @@
       url = "https://open-vsx.org/api/fabiospampinato/vscode-open-in-npm/1.0.4/file/fabiospampinato.vscode-open-in-npm-1.0.4.vsix";
       sha256 = "sha256-VlKdhoSbBaJ6YCBB+Uv6zxtwHzlL5zGKu4oRUkvMTBA=";
     };
-    name = "vscode-open-in-npm";
     license = "MIT";
-    publisher = "fabiospampinato";
+    name = "vscode-open-in-npm";
     description = "Open the current selection, project, or arbitrary string, in npmjs.com.";
+    publisher = "fabiospampinato";
   };
   fabiospampinato-vscode-terminals = {
     pname = "fabiospampinato-vscode-terminals";
@@ -8444,10 +8468,10 @@
       url = "https://open-vsx.org/api/fabiospampinato/vscode-terminals/1.13.0/file/fabiospampinato.vscode-terminals-1.13.0.vsix";
       sha256 = "sha256-uv35g8JiOkEdcAqjEIu4oXRfVy1rsyESLcs29eTvuGU=";
     };
-    name = "vscode-terminals";
     license = "MIT";
-    publisher = "fabiospampinato";
+    name = "vscode-terminals";
     description = "An extension for setting-up multiple terminals at once, or just running some commands";
+    publisher = "fabiospampinato";
   };
   fabiospampinato-vscode-todo-plus = {
     pname = "fabiospampinato-vscode-todo-plus";
@@ -8456,10 +8480,10 @@
       url = "https://open-vsx.org/api/fabiospampinato/vscode-todo-plus/4.18.4/file/fabiospampinato.vscode-todo-plus-4.18.4.vsix";
       sha256 = "sha256-detHm7+Ag1kX1QqbFYBQSlZoQJe2RZPmggjLDG+a+BM=";
     };
-    name = "vscode-todo-plus";
     license = "MIT";
-    publisher = "fabiospampinato";
+    name = "vscode-todo-plus";
     description = "Manage todo lists with ease. Powerful, easy to use and customizable.";
+    publisher = "fabiospampinato";
   };
   fbaligand-vscode-logstash-editor = {
     pname = "fbaligand-vscode-logstash-editor";
@@ -8468,10 +8492,10 @@
       url = "https://open-vsx.org/api/fbaligand/vscode-logstash-editor/1.2.0/file/fbaligand.vscode-logstash-editor-1.2.0.vsix";
       sha256 = "sha256-H3qrHbTcMPWAbGIO1wSEDtYTT0Xe/Aw84N6UPQApFkA=";
     };
-    name = "vscode-logstash-editor";
     license = "Apache-2.0";
-    publisher = "fbaligand";
+    name = "vscode-logstash-editor";
     description = "Provide completion, documentation and auto-formatting for Logstash pipeline configuration files and Elasticsearch index template json files";
+    publisher = "fbaligand";
   };
   fcrespo82-markdown-table-formatter = {
     pname = "fcrespo82-markdown-table-formatter";
@@ -8480,10 +8504,10 @@
       url = "https://open-vsx.org/api/fcrespo82/markdown-table-formatter/2.2.4/file/fcrespo82.markdown-table-formatter-2.2.4.vsix";
       sha256 = "sha256-JAAwAO0rmca6zp8+JUnHPVMnDqe34dg46C9VOhNCc/I=";
     };
-    name = "markdown-table-formatter";
     license = "MIT";
-    publisher = "fcrespo82";
+    name = "markdown-table-formatter";
     description = "A (not so) simple markdown plugin to format tables and other table related features.";
+    publisher = "fcrespo82";
   };
   felipecaputo-git-project-manager = {
     pname = "felipecaputo-git-project-manager";
@@ -8492,10 +8516,10 @@
       url = "https://open-vsx.org/api/felipecaputo/git-project-manager/1.8.2/file/felipecaputo.git-project-manager-1.8.2.vsix";
       sha256 = "sha256-/NC9hncTasuNtFay3h123W8abxFjkTDp2JOj7c0KA/8=";
     };
-    name = "git-project-manager";
     license = "MIT";
-    publisher = "felipecaputo";
+    name = "git-project-manager";
     description = "Allows you to change easily between git projects.";
+    publisher = "felipecaputo";
   };
   felipecrs-test = {
     pname = "felipecrs-test";
@@ -8504,10 +8528,10 @@
       url = "https://open-vsx.org/api/felipecrs/test/0.0.2/file/felipecrs.test-0.0.2.vsix";
       sha256 = "sha256-SoHJgyeBHUP5kSx1erNtL5G6xT8Rko1tqF9BYxzTZEc=";
     };
-    name = "test";
     license = "MIT";
-    publisher = "felipecrs";
+    name = "test";
     description = "An extension for testing vsce and ovsx.";
+    publisher = "felipecrs";
   };
   felixfbecker-php-debug = {
     pname = "felixfbecker-php-debug";
@@ -8516,10 +8540,10 @@
       url = "https://open-vsx.org/api/felixfbecker/php-debug/1.22.0/file/felixfbecker.php-debug-1.22.0.vsix";
       sha256 = "sha256-mpCOqH0PoMPq5hUlP4EDG/Xwhj1ltHHH3d5bDQyZ94M=";
     };
-    name = "php-debug";
     license = "MIT";
-    publisher = "felixfbecker";
+    name = "php-debug";
     description = "Debug support for PHP with Xdebug";
+    publisher = "felixfbecker";
   };
   felixfbecker-php-intellisense = {
     pname = "felixfbecker-php-intellisense";
@@ -8528,10 +8552,10 @@
       url = "https://open-vsx.org/api/felixfbecker/php-intellisense/2.3.14/file/felixfbecker.php-intellisense-2.3.14.vsix";
       sha256 = "sha256-Widw31rNW1whXP2E3thMr1hLiyqHVJv1c5/19++Jkm0=";
     };
-    name = "php-intellisense";
     license = "MIT";
-    publisher = "felixfbecker";
+    name = "php-intellisense";
     description = "Advanced Autocompletion and Refactoring support for PHP";
+    publisher = "felixfbecker";
   };
   felixfbecker-php-pack = {
     pname = "felixfbecker-php-pack";
@@ -8540,10 +8564,10 @@
       url = "https://open-vsx.org/api/felixfbecker/php-pack/1.0.2/file/felixfbecker.php-pack-1.0.2.vsix";
       sha256 = "sha256-ljPdyt0V+EAATpc2PgVYOBHbi+4luVYbKne1BJTkR/c=";
     };
-    name = "php-pack";
     license = "MIT";
-    publisher = "felixfbecker";
+    name = "php-pack";
     description = "Everything you need for PHP development";
+    publisher = "felixfbecker";
   };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
@@ -8552,10 +8576,10 @@
       url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.4.7/file/fernandoescolar.vscode-solution-explorer-0.4.7.vsix";
       sha256 = "sha256-FkzW2MBdcw/AZvtYWhAZ0R7LxfsPlIVPacd3KfGDyo8=";
     };
-    name = "vscode-solution-explorer";
     license = "MIT";
-    publisher = "fernandoescolar";
+    name = "vscode-solution-explorer";
     description = "Visual Studio .sln file explorer for Visual Studio Code";
+    publisher = "fernandoescolar";
   };
   ferrielmelarpis-vscode-css-modules = {
     pname = "ferrielmelarpis-vscode-css-modules";
@@ -8564,10 +8588,10 @@
       url = "https://open-vsx.org/api/ferrielmelarpis/vscode-css-modules/1.2.4/file/ferrielmelarpis.vscode-css-modules-1.2.4.vsix";
       sha256 = "sha256-ijCvmzWVm8AboJ0vk6hPhWfvXWCgEbCl2NyUF3cAnm8=";
     };
-    name = "vscode-css-modules";
     license = "MIT";
-    publisher = "ferrielmelarpis";
+    name = "vscode-css-modules";
     description = "Visual Studio Code extension for CSS Modules";
+    publisher = "ferrielmelarpis";
   };
   ferrielmelarpis-vscode-css-modules-syntax-highlighter = {
     pname = "ferrielmelarpis-vscode-css-modules-syntax-highlighter";
@@ -8576,10 +8600,10 @@
       url = "https://open-vsx.org/api/ferrielmelarpis/vscode-css-modules-syntax-highlighter/1.2.3/file/ferrielmelarpis.vscode-css-modules-syntax-highlighter-1.2.3.vsix";
       sha256 = "sha256-7jIaF54XFTeyDqOpIOcqbbJGWAbQyrGtajbq5OvGcck=";
     };
-    name = "vscode-css-modules-syntax-highlighter";
     license = "MIT";
-    publisher = "ferrielmelarpis";
+    name = "vscode-css-modules-syntax-highlighter";
     description = "An extension to add CSS Modules syntax highlighting to VSCode.";
+    publisher = "ferrielmelarpis";
   };
   file-icons-file-icons = {
     pname = "file-icons-file-icons";
@@ -8588,10 +8612,10 @@
       url = "https://open-vsx.org/api/file-icons/file-icons/1.0.29/file/file-icons.file-icons-1.0.29.vsix";
       sha256 = "sha256-Y6yRT+mdUuYMXQhRDUtl3AxO9g0R2YjZaEPgUFnuosY=";
     };
-    name = "file-icons";
     license = "MIT";
-    publisher = "file-icons";
+    name = "file-icons";
     description = "File-specific icons in VSCode for improved visual grepping.";
+    publisher = "file-icons";
   };
   fileicons-file-icons = {
     pname = "fileicons-file-icons";
@@ -8600,10 +8624,10 @@
       url = "https://open-vsx.org/api/fileicons/file-icons/1.0.29/file/fileicons.file-icons-1.0.29.vsix";
       sha256 = "sha256-P/wBo4WSRugnB1gTPJ6cn3AXmMHzUEAhy5Lrsh0kFcc=";
     };
-    name = "file-icons";
     license = "MIT";
-    publisher = "fileicons";
+    name = "file-icons";
     description = "File-specific icons in VSCode for improved visual grepping.";
+    publisher = "fileicons";
   };
   filiptronicek-open-in-gitpod = {
     pname = "filiptronicek-open-in-gitpod";
@@ -8612,10 +8636,10 @@
       url = "https://open-vsx.org/api/filiptronicek/open-in-gitpod/1.0.0/file/filiptronicek.open-in-gitpod-1.0.0.vsix";
       sha256 = "sha256-99OmCoAMb34JV/DhEdLgCePc9rCJvxz6sQH0lJ6io9Y=";
     };
-    name = "open-in-gitpod";
     license = "MIT";
-    publisher = "filiptronicek";
+    name = "open-in-gitpod";
     description = "An extension for opening Gitpod from your current workspace";
+    publisher = "filiptronicek";
   };
   fire-fire-s-extension-pack = {
     pname = "fire-fire-s-extension-pack";
@@ -8624,10 +8648,10 @@
       url = "https://open-vsx.org/api/fire/fire-s-extension-pack/0.0.5/file/fire.fire-s-extension-pack-0.0.5.vsix";
       sha256 = "sha256-N+DwsvCXjSNc8H1zlYnTpjlENxmaG820ul1AkHgLhmc=";
     };
-    name = "fire-s-extension-pack";
     license = "MIT";
-    publisher = "fire";
+    name = "fire-s-extension-pack";
     description = "Fire's Extension Pack";
+    publisher = "fire";
   };
   firefox-devtools-vscode-firefox-debug = {
     pname = "firefox-devtools-vscode-firefox-debug";
@@ -8636,10 +8660,10 @@
       url = "https://open-vsx.org/api/firefox-devtools/vscode-firefox-debug/2.9.1/file/firefox-devtools.vscode-firefox-debug-2.9.1.vsix";
       sha256 = "sha256-3fQomnv7ZEQ0If+l7Aj2XTZgBA2mX4JK5IeArJLmdgo=";
     };
-    name = "vscode-firefox-debug";
     license = "MIT";
-    publisher = "firefox-devtools";
+    name = "vscode-firefox-debug";
     description = "Debug your web application or browser extension in Firefox";
+    publisher = "firefox-devtools";
   };
   firsttris-vscode-jest-runner = {
     pname = "firsttris-vscode-jest-runner";
@@ -8648,10 +8672,10 @@
       url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.47/file/firsttris.vscode-jest-runner-0.4.47.vsix";
       sha256 = "sha256-e0zTKsC/+119d8aZ/3c3RMMOUezn+XYwZ9EvxZD1P/k=";
     };
-    name = "vscode-jest-runner";
     license = "MIT";
-    publisher = "firsttris";
+    name = "vscode-jest-runner";
     description = "Simple way to run or debug a single (or multiple) tests from context-menu";
+    publisher = "firsttris";
   };
   fivethree-vscode-hugo-snippets = {
     pname = "fivethree-vscode-hugo-snippets";
@@ -8660,10 +8684,10 @@
       url = "https://open-vsx.org/api/fivethree/vscode-hugo-snippets/0.4.1/file/fivethree.vscode-hugo-snippets-0.4.1.vsix";
       sha256 = "sha256-l0kjozJf1XGZ0FDd6HvsRyM3EcmFRSbpB8uu1fYIKFk=";
     };
-    name = "vscode-hugo-snippets";
     license = "MIT";
-    publisher = "fivethree";
+    name = "vscode-hugo-snippets";
     description = "Hugo Snippets for VS Code";
+    publisher = "fivethree";
   };
   fivethree-vscode-ionic-snippets = {
     pname = "fivethree-vscode-ionic-snippets";
@@ -8672,10 +8696,10 @@
       url = "https://open-vsx.org/api/fivethree/vscode-ionic-snippets/2.2.2/file/fivethree.vscode-ionic-snippets-2.2.2.vsix";
       sha256 = "sha256-3MfcyYcSpCWcTFawoMq0y36m7tjkSR9H8gv5+BYNoCk=";
     };
-    name = "vscode-ionic-snippets";
     license = "MIT";
-    publisher = "fivethree";
+    name = "vscode-ionic-snippets";
     description = "Ionic snippets for VS Code";
+    publisher = "fivethree";
   };
   fivethree-vscode-svelte-snippets = {
     pname = "fivethree-vscode-svelte-snippets";
@@ -8684,10 +8708,10 @@
       url = "https://open-vsx.org/api/fivethree/vscode-svelte-snippets/0.5.0/file/fivethree.vscode-svelte-snippets-0.5.0.vsix";
       sha256 = "sha256-5whi5bfl9pboxCX9fpsEUEth+HYFCmp4Vrdqb/MbSIc=";
     };
-    name = "vscode-svelte-snippets";
     license = "MIT";
-    publisher = "fivethree";
+    name = "vscode-svelte-snippets";
     description = "Svelte 3 Snippets for VS Code";
+    publisher = "fivethree";
   };
   fliplet-vscode = {
     pname = "fliplet-vscode";
@@ -8696,10 +8720,10 @@
       url = "https://open-vsx.org/api/fliplet/vscode/1.1.4/file/fliplet.vscode-1.1.4.vsix";
       sha256 = "sha256-eRTlPxGNycTLTuntaPeGSJ467DblBsheHCAnPKLCi8Q=";
     };
-    name = "vscode";
     license = "MIT";
-    publisher = "fliplet";
+    name = "vscode";
     description = "Manage code for your Fliplet Apps via Visual Studio Code";
+    publisher = "fliplet";
   };
   flowtype-flow-for-vscode = {
     pname = "flowtype-flow-for-vscode";
@@ -8708,10 +8732,10 @@
       url = "https://open-vsx.org/api/flowtype/flow-for-vscode/1.5.0/file/flowtype.flow-for-vscode-1.5.0.vsix";
       sha256 = "sha256-+WsyO/nfcbMYPyjlvzn6Wp4CY5tt9qZV9c9XJ0mhGK8=";
     };
-    name = "flow-for-vscode";
     license = "";
-    publisher = "flowtype";
+    name = "flow-for-vscode";
     description = "Flow support for VS Code";
+    publisher = "flowtype";
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
@@ -8720,10 +8744,10 @@
       url = "https://open-vsx.org/api/foam/foam-vscode/0.18.4/file/foam.foam-vscode-0.18.4.vsix";
       sha256 = "sha256-c+6o0zxD0l4c28WuaU03pwvsH2qQHBZ0mszfEBOsAGU=";
     };
-    name = "foam-vscode";
     license = "MIT";
-    publisher = "foam";
+    name = "foam-vscode";
     description = "VS Code + Markdown + Wikilinks for your note taking and knowledge base";
+    publisher = "foam";
   };
   folke-vscode-monorepo-workspace = {
     pname = "folke-vscode-monorepo-workspace";
@@ -8732,10 +8756,10 @@
       url = "https://open-vsx.org/api/folke/vscode-monorepo-workspace/1.3.1/file/folke.vscode-monorepo-workspace-1.3.1.vsix";
       sha256 = "sha256-+z6Y3gENL3TSQosfokEW5CghLG240d6rdpJXqcdOumw=";
     };
-    name = "vscode-monorepo-workspace";
     license = "Apache-2.0";
-    publisher = "folke";
+    name = "vscode-monorepo-workspace";
     description = "Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories";
+    publisher = "folke";
   };
   formulahendry-auto-close-tag = {
     pname = "formulahendry-auto-close-tag";
@@ -8744,10 +8768,10 @@
       url = "https://open-vsx.org/api/formulahendry/auto-close-tag/0.5.14/file/formulahendry.auto-close-tag-0.5.14.vsix";
       sha256 = "sha256-dCanNS1AGId7dJPaE1KMvb0waIE7L+EB4T9EQcC+MHE=";
     };
-    name = "auto-close-tag";
     license = "MIT";
-    publisher = "formulahendry";
+    name = "auto-close-tag";
     description = "Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text";
+    publisher = "formulahendry";
   };
   formulahendry-auto-complete-tag = {
     pname = "formulahendry-auto-complete-tag";
@@ -8756,10 +8780,10 @@
       url = "https://open-vsx.org/api/formulahendry/auto-complete-tag/0.2.0/file/formulahendry.auto-complete-tag-0.2.0.vsix";
       sha256 = "sha256-aZ8nM/z2O618/Y0whh5GzuHoZFIwl2OdYsjuq9ORk6M=";
     };
-    name = "auto-complete-tag";
     license = "MIT";
-    publisher = "formulahendry";
+    name = "auto-complete-tag";
     description = "Extension Packs to add close tag and rename paired tag automatically for HTML/XML";
+    publisher = "formulahendry";
   };
   formulahendry-auto-rename-tag = {
     pname = "formulahendry-auto-rename-tag";
@@ -8768,10 +8792,10 @@
       url = "https://open-vsx.org/api/formulahendry/auto-rename-tag/0.1.10/file/formulahendry.auto-rename-tag-0.1.10.vsix";
       sha256 = "sha256-fJT5p5caH7tPdJaVl2EuiiDocSg8kwv6VPMzOGyG1NM=";
     };
-    name = "auto-rename-tag";
     license = "MIT";
-    publisher = "formulahendry";
+    name = "auto-rename-tag";
     description = "Auto rename paired HTML/XML tag";
+    publisher = "formulahendry";
   };
   formulahendry-code-runner = {
     pname = "formulahendry-code-runner";
@@ -8780,10 +8804,10 @@
       url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.7/file/formulahendry.code-runner-0.11.7.vsix";
       sha256 = "sha256-S8tBf4UycpcOG8Dv96iDaLcxHe5R+shQB2QJU+ZM2L8=";
     };
-    name = "code-runner";
     license = "MIT";
-    publisher = "formulahendry";
+    name = "code-runner";
     description = "Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring";
+    publisher = "formulahendry";
   };
   formulahendry-vscode-mysql = {
     pname = "formulahendry-vscode-mysql";
@@ -8792,10 +8816,10 @@
       url = "https://open-vsx.org/api/formulahendry/vscode-mysql/0.4.1/file/formulahendry.vscode-mysql-0.4.1.vsix";
       sha256 = "sha256-lmxT3obCe1rkC9lGfcurvsm7bGD0Il7f3bSmfRSA3H8=";
     };
-    name = "vscode-mysql";
     license = "MIT";
-    publisher = "formulahendry";
+    name = "vscode-mysql";
     description = "MySQL management tool";
+    publisher = "formulahendry";
   };
   formulahendry-vscode-node-red = {
     pname = "formulahendry-vscode-node-red";
@@ -8804,10 +8828,10 @@
       url = "https://open-vsx.org/api/formulahendry/vscode-node-red/0.2.0/file/formulahendry.vscode-node-red-0.2.0.vsix";
       sha256 = "sha256-CS5F74wlExDFPRfFz39Ta6xzVh5/FImHDjmYjaTRcMs=";
     };
-    name = "vscode-node-red";
     license = "MIT";
-    publisher = "formulahendry";
+    name = "vscode-node-red";
     description = "Flow-based programming for IoT (Internet of Things)";
+    publisher = "formulahendry";
   };
   fougas-msys2 = {
     pname = "fougas-msys2";
@@ -8816,10 +8840,10 @@
       url = "https://open-vsx.org/api/fougas/msys2/0.9.1/file/fougas.msys2-0.9.1.vsix";
       sha256 = "sha256-sNqZ7fhGRoHOfyfd6YlIeqeDqpHhxx452sYeMnnDQrY=";
     };
-    name = "msys2";
     license = "BSD-2-Clause";
-    publisher = "fougas";
+    name = "msys2";
     description = "VS Code extension to set and retrieve MSYS2/Cygwin/MinGW/Clang configuration";
+    publisher = "fougas";
   };
   foxhoundn-synthax = {
     pname = "foxhoundn-synthax";
@@ -8828,10 +8852,10 @@
       url = "https://open-vsx.org/api/foxhoundn/synthax/0.1.13/file/foxhoundn.synthax-0.1.13.vsix";
       sha256 = "sha256-lZo4yXArHtIzZSTQYInJSRe2XM94+r7hSuXJHQU0iOw=";
     };
-    name = "synthax";
     license = "MIT";
-    publisher = "foxhoundn";
+    name = "synthax";
     description = "\128302 Ride on the retro waves of future with this dark colorful theme for VS Code.";
+    publisher = "foxhoundn";
   };
   foxundermoon-shell-format = {
     pname = "foxundermoon-shell-format";
@@ -8840,10 +8864,10 @@
       url = "https://open-vsx.org/api/foxundermoon/shell-format/7.0.1/file/foxundermoon.shell-format-7.0.1.vsix";
       sha256 = "sha256-BLHQHflx7masZgAFO9x9hfX1Y75SmpZ6NG2Usk5lvFM=";
     };
-    name = "shell-format";
     license = "MIT";
-    publisher = "foxundermoon";
+    name = "shell-format";
     description = "shellscript\12289Dockerfile\12289properties\12289gitignore\12289dotenv\12289hosts\12289jvmoptions... DocumentFormat";
+    publisher = "foxundermoon";
   };
   franklx-vscode-desert256 = {
     pname = "franklx-vscode-desert256";
@@ -8852,10 +8876,10 @@
       url = "https://open-vsx.org/api/franklx/vscode-desert256/0.5.3/file/franklx.vscode-desert256-0.5.3.vsix";
       sha256 = "sha256-sVPddhpwTwkiCacJalJEWkfYpKpCeCZb+1Cu5voDhOQ=";
     };
-    name = "vscode-desert256";
     license = "MIT";
-    publisher = "franklx";
+    name = "vscode-desert256";
     description = "desert256 color theme for VS Code.";
+    publisher = "franklx";
   };
   franneck94-c-cpp-runner = {
     pname = "franneck94-c-cpp-runner";
@@ -8864,10 +8888,10 @@
       url = "https://open-vsx.org/api/franneck94/c-cpp-runner/3.0.0/file/franneck94.c-cpp-runner-3.0.0.vsix";
       sha256 = "sha256-YKEW6nvLLvkxjqZenztcf5zpbMPTqV1NYGVo19Fqv8I=";
     };
-    name = "c-cpp-runner";
     license = "MIT";
-    publisher = "franneck94";
+    name = "c-cpp-runner";
     description = "\128640 Compile, run and debug single or multiple C/C++ files with ease. \128640";
+    publisher = "franneck94";
   };
   franneck94-vscode-c-cpp-config = {
     pname = "franneck94-vscode-c-cpp-config";
@@ -8876,10 +8900,10 @@
       url = "https://open-vsx.org/api/franneck94/vscode-c-cpp-config/2.2.0/file/franneck94.vscode-c-cpp-config-2.2.0.vsix";
       sha256 = "sha256-eHMtZ1sJ7rGJqSsoptU0l2UgAHx67KH8J19JjvyCzTM=";
     };
-    name = "vscode-c-cpp-config";
     license = "MIT";
-    publisher = "franneck94";
+    name = "vscode-c-cpp-config";
     description = "Creates all needed config files for simple C/C++ projects.";
+    publisher = "franneck94";
   };
   franneck94-vscode-python-config = {
     pname = "franneck94-vscode-python-config";
@@ -8888,10 +8912,10 @@
       url = "https://open-vsx.org/api/franneck94/vscode-python-config/1.1.1/file/franneck94.vscode-python-config-1.1.1.vsix";
       sha256 = "sha256-qG2HM1VFzyj3WGDTLu22uP8QlXnBwT3QTbqXZf+ceY4=";
     };
-    name = "vscode-python-config";
     license = "MIT";
-    publisher = "franneck94";
+    name = "vscode-python-config";
     description = "Creates all needed config files for simple Python projects.";
+    publisher = "franneck94";
   };
   franneck94-workspace-formatter = {
     pname = "franneck94-workspace-formatter";
@@ -8900,10 +8924,10 @@
       url = "https://open-vsx.org/api/franneck94/workspace-formatter/0.1.5/file/franneck94.workspace-formatter-0.1.5.vsix";
       sha256 = "sha256-MVotgOfR46njCJj8Vf+l0e2OLnsjPwKd4kbf2BA1EZQ=";
     };
-    name = "workspace-formatter";
     license = "MIT";
-    publisher = "franneck94";
+    name = "workspace-formatter";
     description = "\128295 Format all your files in a workspace with one click. \128295";
+    publisher = "franneck94";
   };
   fraser-live-coder = {
     pname = "fraser-live-coder";
@@ -8912,10 +8936,10 @@
       url = "https://open-vsx.org/api/fraser/live-coder/1.0.2/file/fraser.live-coder-1.0.2.vsix";
       sha256 = "sha256-ncMjuDnNFZpDMNiFKTXQzJklGkuqxC26Ghwe8E9ggxo=";
     };
-    name = "live-coder";
     license = "MIT";
-    publisher = "fraser";
+    name = "live-coder";
     description = "See how your code executes as you write it.";
+    publisher = "fraser";
   };
   fredericbonnet-cmake-test-adapter = {
     pname = "fredericbonnet-cmake-test-adapter";
@@ -8924,10 +8948,10 @@
       url = "https://open-vsx.org/api/fredericbonnet/cmake-test-adapter/0.16.0/file/fredericbonnet.cmake-test-adapter-0.16.0.vsix";
       sha256 = "sha256-QGwN62817ZZo6+QA4FEKXxdMWquT0jjslAxgGi584FU=";
     };
-    name = "cmake-test-adapter";
     license = "BSD-3-Clause";
-    publisher = "fredericbonnet";
+    name = "cmake-test-adapter";
     description = "Run your CMake tests in the Sidebar of Visual Studio Code";
+    publisher = "fredericbonnet";
   };
   frenya-vscode-recall = {
     pname = "frenya-vscode-recall";
@@ -8936,10 +8960,10 @@
       url = "https://open-vsx.org/api/frenya/vscode-recall/0.11.5/file/frenya.vscode-recall-0.11.5.vsix";
       sha256 = "sha256-RxMsUwT4zTM2ItS5xsIzaiGaC61unqAP95k00gmCD8I=";
     };
-    name = "vscode-recall";
     license = "MIT";
-    publisher = "frenya";
+    name = "vscode-recall";
     description = "Spaced repetition flashcards plugin";
+    publisher = "frenya";
   };
   fsimonov-awesome-backend-pack = {
     pname = "fsimonov-awesome-backend-pack";
@@ -8948,10 +8972,10 @@
       url = "https://open-vsx.org/api/fsimonov/awesome-backend-pack/0.0.5/file/fsimonov.awesome-backend-pack-0.0.5.vsix";
       sha256 = "sha256-Q+toWdgW2+wcEbIiCVUQ8QyKF7IgyjYQVBB9i1aAXfQ=";
     };
-    name = "awesome-backend-pack";
     license = "MIT";
-    publisher = "fsimonov";
+    name = "awesome-backend-pack";
     description = "Useful extensions for backend development";
+    publisher = "fsimonov";
   };
   fterrag-vscode-php-cs-fixer = {
     pname = "fterrag-vscode-php-cs-fixer";
@@ -8960,10 +8984,10 @@
       url = "https://open-vsx.org/api/fterrag/vscode-php-cs-fixer/0.4.0/file/fterrag.vscode-php-cs-fixer-0.4.0.vsix";
       sha256 = "sha256-R63PWlxNC7z2VwRa2PAdR+EfF6Jm3GbMjsecsdM+9xg=";
     };
-    name = "vscode-php-cs-fixer";
     license = "MIT";
-    publisher = "fterrag";
+    name = "vscode-php-cs-fixer";
     description = "Support for php-cs-fixer in Visual Studio Code";
+    publisher = "fterrag";
   };
   funketh-pride-themes = {
     pname = "funketh-pride-themes";
@@ -8972,10 +8996,10 @@
       url = "https://open-vsx.org/api/funketh/pride-themes/0.3.2/file/funketh.pride-themes-0.3.2.vsix";
       sha256 = "sha256-4BVMlM1Csvtc5DU+UEUczDq/+2axMaQkEbNkKoomukM=";
     };
-    name = "pride-themes";
     license = "GPL-3.0-or-later";
-    publisher = "funketh";
+    name = "pride-themes";
     description = "Themes based on pride flags";
+    publisher = "funketh";
   };
   fwcd-kotlin = {
     pname = "fwcd-kotlin";
@@ -8984,10 +9008,10 @@
       url = "https://open-vsx.org/api/fwcd/kotlin/0.2.26/file/fwcd.kotlin-0.2.26.vsix";
       sha256 = "sha256-jVLCyin4NyGIpFB4XhfTvU6pewo3LYYNCHIYk/hHpAE=";
     };
-    name = "kotlin";
     license = "MIT";
-    publisher = "fwcd";
+    name = "kotlin";
     description = "Smart code completion, debugging, linting, syntax highlighting and more for Kotlin";
+    publisher = "fwcd";
   };
   galarius-vscode-opencl = {
     pname = "galarius-vscode-opencl";
@@ -8996,10 +9020,10 @@
       url = "https://open-vsx.org/api/galarius/vscode-opencl/0.7.4/file/galarius.vscode-opencl-0.7.4.vsix";
       sha256 = "sha256-ifO5Hn4S9ToQWs5Ppr9Pa57ig+mFnI0R/LLHJKvLC/o=";
     };
-    name = "vscode-opencl";
     license = "MIT";
-    publisher = "galarius";
+    name = "vscode-opencl";
     description = "OpenCL for Visual Studio Code";
+    publisher = "galarius";
   };
   gamunu-vscode-yarn = {
     pname = "gamunu-vscode-yarn";
@@ -9008,10 +9032,10 @@
       url = "https://open-vsx.org/api/gamunu/vscode-yarn/2.0.0/file/gamunu.vscode-yarn-2.0.0.vsix";
       sha256 = "sha256-0SoKZVhsn/x5x17v1JFLjpuKQA4HahL59a9X5IWqhoE=";
     };
-    name = "vscode-yarn";
     license = "MIT";
-    publisher = "gamunu";
+    name = "vscode-yarn";
     description = "Yarn commands for VSCode";
+    publisher = "gamunu";
   };
   garrit-p5canvas = {
     pname = "garrit-p5canvas";
@@ -9020,10 +9044,10 @@
       url = "https://open-vsx.org/api/garrit/p5canvas/1.7.0/file/garrit.p5canvas-1.7.0.vsix";
       sha256 = "sha256-5k5l33ZR7yt5C7hnaMh1iJj/ylvGxZqiofcCbz2Lx9k=";
     };
-    name = "p5canvas";
     license = "MIT";
-    publisher = "garrit";
+    name = "p5canvas";
     description = "Live preview for p5js coding";
+    publisher = "garrit";
   };
   gattytto-go = {
     pname = "gattytto-go";
@@ -9032,10 +9056,10 @@
       url = "https://open-vsx.org/api/gattytto/go/0.23.9-dev/file/gattytto.go-0.23.9-dev.vsix";
       sha256 = "sha256-7sllAcYD9BS3XKLNK23h708MhUdg45WgDpBqxugYnZI=";
     };
-    name = "go";
     license = "MIT";
-    publisher = "gattytto";
+    name = "go";
     description = "Rich Go language support for Visual Studio Code";
+    publisher = "gattytto";
   };
   gattytto-phoityne-vscode = {
     pname = "gattytto-phoityne-vscode";
@@ -9044,10 +9068,10 @@
       url = "https://open-vsx.org/api/gattytto/phoityne-vscode/0.0.29/file/gattytto.phoityne-vscode-0.0.29.vsix";
       sha256 = "sha256-Gcg/WQtKO3iKD2f5uVm3Ezbj9B4JrX1U6xkOb69TqLE=";
     };
-    name = "phoityne-vscode";
     license = "BSD3";
-    publisher = "gattytto";
+    name = "phoityne-vscode";
     description = "Haskell GHCi Debug Adapter Phoityne for Visual Studio Code.";
+    publisher = "gattytto";
   };
   geequlim-godot-tools = {
     pname = "geequlim-godot-tools";
@@ -9056,10 +9080,10 @@
       url = "https://open-vsx.org/api/geequlim/godot-tools/1.3.0/file/geequlim.godot-tools-1.3.0.vsix";
       sha256 = "sha256-cAv3hHWMrkIPC2GIFN6O5FShjTXg+Ox6dEeyJN2EWH8=";
     };
-    name = "godot-tools";
     license = "MIT";
-    publisher = "geequlim";
+    name = "godot-tools";
     description = "Tools for game development with Godot Engine and GDScript";
+    publisher = "geequlim";
   };
   gencer-html-slim-scss-css-class-completion = {
     pname = "gencer-html-slim-scss-css-class-completion";
@@ -9068,10 +9092,10 @@
       url = "https://open-vsx.org/api/gencer/html-slim-scss-css-class-completion/1.7.8/file/gencer.html-slim-scss-css-class-completion-1.7.8.vsix";
       sha256 = "sha256-Rmm3SGNAfy1vlfEkGjxCZ0XA568Edl0mVIDajcvQHKM=";
     };
-    name = "html-slim-scss-css-class-completion";
     license = "MIT";
-    publisher = "gencer";
+    name = "html-slim-scss-css-class-completion";
     description = "'.class' and '#id' completion for HTML, Svelte, Latte, Slim, Liquid, TSX/JSX, Haml, Elixir, Smarty, PHP, ERB, Javascript, CSS and SCSS. Just declare class in your template or CSS/SCSS and see it in everywhere. (Both directions)";
+    publisher = "gencer";
   };
   gengjiawen-npm-dependency-links = {
     pname = "gengjiawen-npm-dependency-links";
@@ -9080,10 +9104,10 @@
       url = "https://open-vsx.org/api/gengjiawen/npm-dependency-links/1.2.0/file/gengjiawen.npm-dependency-links-1.2.0.vsix";
       sha256 = "sha256-5QJALLTOBt7E1x17IuXCS8XnXRqbwj8zy4gQoUcbBk0=";
     };
-    name = "npm-dependency-links";
     license = "MIT";
-    publisher = "gengjiawen";
+    name = "npm-dependency-links";
     description = "Go to npm site of your dependencies";
+    publisher = "gengjiawen";
   };
   gengjiawen-vim = {
     pname = "gengjiawen-vim";
@@ -9092,10 +9116,10 @@
       url = "https://open-vsx.org/api/gengjiawen/vim/1.21.10/file/gengjiawen.vim-1.21.10.vsix";
       sha256 = "sha256-4nnyJc7mpy/omx50DHf/9nqC/LOACf3oMC9HRS2bWO4=";
     };
-    name = "vim";
     license = "MIT";
-    publisher = "gengjiawen";
+    name = "vim";
     description = "Vim emulation for Visual Studio Code";
+    publisher = "gengjiawen";
   };
   gengjiawen-vscode-npm-dependency = {
     pname = "gengjiawen-vscode-npm-dependency";
@@ -9104,10 +9128,10 @@
       url = "https://open-vsx.org/api/gengjiawen/vscode-npm-dependency/1.2.2/file/gengjiawen.vscode-npm-dependency-1.2.2.vsix";
       sha256 = "sha256-EB51ZZPKijzy8kT1To2Uz4gedkygPVSwveh6Yu7jpNU=";
     };
-    name = "vscode-npm-dependency";
     license = "GPL-3.0";
-    publisher = "gengjiawen";
+    name = "vscode-npm-dependency";
     description = "Update dependencies/devDependencies for specific package.json";
+    publisher = "gengjiawen";
   };
   gengjiawen-vscode-postfix-ts = {
     pname = "gengjiawen-vscode-postfix-ts";
@@ -9116,10 +9140,10 @@
       url = "https://open-vsx.org/api/gengjiawen/vscode-postfix-ts/1.9.4/file/gengjiawen.vscode-postfix-ts-1.9.4.vsix";
       sha256 = "sha256-uvqsrsbJlos/gXW5rXeK0tgbAtN/iLMV09tH0i8tpbE=";
     };
-    name = "vscode-postfix-ts";
     license = "MIT";
-    publisher = "gengjiawen";
+    name = "vscode-postfix-ts";
     description = "Postfix templates for TypeScript/Javascript";
+    publisher = "gengjiawen";
   };
   gengjiawen-vscode-wasm = {
     pname = "gengjiawen-vscode-wasm";
@@ -9128,10 +9152,10 @@
       url = "https://open-vsx.org/api/gengjiawen/vscode-wasm/1.3.1/file/gengjiawen.vscode-wasm-1.3.1.vsix";
       sha256 = "sha256-/i6vYWjqJRCW73exbCc11PtjbUBw8GqIPHcTELh/xSg=";
     };
-    name = "vscode-wasm";
     license = "MIT";
-    publisher = "gengjiawen";
+    name = "vscode-wasm";
     description = "WebAssembly Toolkit for VSCode";
+    publisher = "gengjiawen";
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
@@ -9140,10 +9164,10 @@
       url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.6/file/genuitecllc.codetogether-2022.1.6.vsix";
       sha256 = "sha256-lNfRBm7kSFJf7Mo2U0nirR2HIK+zys2SzHGT5JsqmaA=";
     };
-    name = "codetogether";
     license = "";
-    publisher = "genuitecllc";
+    name = "codetogether";
     description = "Add CodeTogether to VS Code to live share your IDE and coding sessions. Cross-IDE support for VS Code, IntelliJ and Eclipse. Free plan always available!";
+    publisher = "genuitecllc";
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
@@ -9152,10 +9176,10 @@
       url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.14/file/gera2ld.markmap-vscode-0.0.14.vsix";
       sha256 = "sha256-uCbX1Fv4ngF5bm1vQurRzSxy0R94Fhv5pSkU7FzTgCU=";
     };
-    name = "markmap-vscode";
     license = "MIT";
-    publisher = "gera2ld";
+    name = "markmap-vscode";
     description = "Visualize your markdown in VSCode";
+    publisher = "gera2ld";
   };
   getpsalm-psalm-vscode-plugin = {
     pname = "getpsalm-psalm-vscode-plugin";
@@ -9164,10 +9188,10 @@
       url = "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.6.0/file/getpsalm.psalm-vscode-plugin-2.6.0.vsix";
       sha256 = "sha256-1q0B0+8jPQBhKNxrT8TiGvEEt8+GMU4ANUx6tSaDgio=";
     };
-    name = "psalm-vscode-plugin";
     license = "MIT";
-    publisher = "getpsalm";
+    name = "psalm-vscode-plugin";
     description = "VS Code Plugin for Psalm";
+    publisher = "getpsalm";
   };
   ggbecker-content-navigator = {
     pname = "ggbecker-content-navigator";
@@ -9176,10 +9200,10 @@
       url = "https://open-vsx.org/api/ggbecker/content-navigator/0.0.15/file/ggbecker.content-navigator-0.0.15.vsix";
       sha256 = "sha256-ejlrS3c0aL7YMlNXqCxnlfmRRG8lmqceKH+Zqe0MXVU=";
     };
-    name = "content-navigator";
     license = "BSD-3-Clause";
-    publisher = "ggbecker";
+    name = "content-navigator";
     description = "Content Navigator helps security content authors to create content for https://github.com/ComplianceAsCode/content";
+    publisher = "ggbecker";
   };
   gharveymn-nightswitch-lite = {
     pname = "gharveymn-nightswitch-lite";
@@ -9188,10 +9212,10 @@
       url = "https://open-vsx.org/api/gharveymn/nightswitch-lite/2.3.1/file/gharveymn.nightswitch-lite-2.3.1.vsix";
       sha256 = "sha256-pKyPAj5dEjHarUEB33it7ayEULlTgwIILNU9mgOkERc=";
     };
-    name = "nightswitch-lite";
     license = "MIT";
-    publisher = "gharveymn";
+    name = "nightswitch-lite";
     description = "Switch between day and night themes based on location/time specified by the user.";
+    publisher = "gharveymn";
   };
   giantcola-advanced-new-file = {
     pname = "giantcola-advanced-new-file";
@@ -9200,10 +9224,10 @@
       url = "https://open-vsx.org/api/giantcola/advanced-new-file/1.2.2/file/giantcola.advanced-new-file-1.2.2.vsix";
       sha256 = "sha256-RxflozcyDGpjY1PJ7gEXZt2Njwv1bu8qekY3bI4yTuI=";
     };
-    name = "advanced-new-file";
     license = "MIT";
-    publisher = "giantcola";
+    name = "advanced-new-file";
     description = "Create files anywhere in your workspace from the keyboard";
+    publisher = "giantcola";
   };
   gilcu3-tamarin = {
     pname = "gilcu3-tamarin";
@@ -9212,10 +9236,10 @@
       url = "https://open-vsx.org/api/gilcu3/tamarin/0.1.0/file/gilcu3.tamarin-0.1.0.vsix";
       sha256 = "sha256-GDwbPCqBElYnZ/Tv2UcD5Ck/ge3j6+x6byMGxG6FATU=";
     };
-    name = "tamarin";
     license = "MIT";
-    publisher = "gilcu3";
+    name = "tamarin";
     description = "";
+    publisher = "gilcu3";
   };
   ginfuru-ginfuru-better-solarized-dark-theme = {
     pname = "ginfuru-ginfuru-better-solarized-dark-theme";
@@ -9224,10 +9248,10 @@
       url = "https://open-vsx.org/api/ginfuru/ginfuru-better-solarized-dark-theme/0.9.5/file/ginfuru.ginfuru-better-solarized-dark-theme-0.9.5.vsix";
       sha256 = "sha256-5TL+1oLOSkBKuX93j5FQygIqkRdcZ60CL9L0guexjB4=";
     };
-    name = "ginfuru-better-solarized-dark-theme";
     license = "SEE license inf license.txt";
-    publisher = "ginfuru";
+    name = "ginfuru-better-solarized-dark-theme";
     description = "A Better Solarized theme for Visual Studio Code include light and dark versions";
+    publisher = "ginfuru";
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
@@ -9236,10 +9260,10 @@
       url = "https://open-vsx.org/api/giscafer/leek-fund/2.6.0/file/giscafer.leek-fund-2.6.0.vsix";
       sha256 = "sha256-nZF/RPycMBPL/0lSzFDZ6Li8xh3v2Nq70eBIV6qaMXU=";
     };
-    name = "leek-fund";
     license = "BSD-3-Clause";
-    publisher = "giscafer";
+    name = "leek-fund";
     description = "\38893\33756\30418\23376\65292VSCode \37324\20063\21487\20197\30475\32929\31080 & \22522\37329\23454\26102\25968\25454\65292\20570\26368\22909\29992\30340\25237\36164\25554\20214";
+    publisher = "giscafer";
   };
   gitduck-code-streaming = {
     pname = "gitduck-code-streaming";
@@ -9248,10 +9272,10 @@
       url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.11/file/gitduck.code-streaming-0.4.11.vsix";
       sha256 = "sha256-NmYD51LHVfpaXlvGqVnR9pMhxUlZ/LnGh67Pkp/EAZ4=";
     };
-    name = "code-streaming";
     license = "Custom";
-    publisher = "gitduck";
+    name = "code-streaming";
     description = "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs.";
+    publisher = "gitduck";
   };
   gitpod-gitpod-theme = {
     pname = "gitpod-gitpod-theme";
@@ -9260,10 +9284,10 @@
       url = "https://open-vsx.org/api/gitpod/gitpod-theme/0.0.2/file/gitpod.gitpod-theme-0.0.2.vsix";
       sha256 = "sha256-Ccxe4puVbZM50Yz+0XX79ZXExnq0hV5jb2dBAscy2DI=";
     };
-    name = "gitpod-theme";
     license = "MIT";
-    publisher = "gitpod";
+    name = "gitpod-theme";
     description = "Gitpod Theme for VS Code";
+    publisher = "gitpod";
   };
   gleam-gleam = {
     pname = "gleam-gleam";
@@ -9272,10 +9296,10 @@
       url = "https://open-vsx.org/api/gleam/gleam/2.0.0/file/gleam.gleam-2.0.0.vsix";
       sha256 = "sha256-jnpPcz68TpC7+7znbW6SwDl+KB+YAQyFCyrvRibPurg=";
     };
-    name = "gleam";
     license = "Apache-2.0";
-    publisher = "gleam";
+    name = "gleam";
     description = "Support for the Gleam programming language";
+    publisher = "gleam";
   };
   glenn2223-live-sass = {
     pname = "glenn2223-live-sass";
@@ -9284,10 +9308,10 @@
       url = "https://open-vsx.org/api/glenn2223/live-sass/5.4.0/file/glenn2223.live-sass-5.4.0.vsix";
       sha256 = "sha256-RONkcgkVsff0sdEoKeNz3urqIEe8cXo3Neajxp7Fm3g=";
     };
-    name = "live-sass";
     license = "MIT";
-    publisher = "glenn2223";
+    name = "live-sass";
     description = "Compile Sass or Scss to CSS at realtime.";
+    publisher = "glenn2223";
   };
   gmpl-fork-gmpl-fork = {
     pname = "gmpl-fork-gmpl-fork";
@@ -9296,10 +9320,10 @@
       url = "https://open-vsx.org/api/gmpl-fork/gmpl-fork/1.0.1/file/gmpl-fork.gmpl-fork-1.0.1.vsix";
       sha256 = "sha256-S+GTHSWMSFPVLjMJqgDo9hFYcXdPJdz8f0YxYuVX3ZA=";
     };
-    name = "gmpl-fork";
     license = "GPL-3.0";
-    publisher = "gmpl-fork";
+    name = "gmpl-fork";
     description = "A fork of steffenk1337's gmpl syntax highlight extension";
+    publisher = "gmpl-fork";
   };
   gnramsay-create-python-module = {
     pname = "gnramsay-create-python-module";
@@ -9308,10 +9332,10 @@
       url = "https://open-vsx.org/api/gnramsay/create-python-module/1.0.4/file/gnramsay.create-python-module-1.0.4.vsix";
       sha256 = "sha256-KHtf8Xs+69BXMBGBAWurRD5ssAU5xxDTMCot9PJoFU8=";
     };
-    name = "create-python-module";
     license = "MIT";
-    publisher = "gnramsay";
+    name = "create-python-module";
     description = "Creates a Blank Python module under the selected folder";
+    publisher = "gnramsay";
   };
   godray-salesforcedx-vscode-apex = {
     pname = "godray-salesforcedx-vscode-apex";
@@ -9320,10 +9344,10 @@
       url = "https://open-vsx.org/api/godray/salesforcedx-vscode-apex/53.14.1/file/godray.salesforcedx-vscode-apex-53.14.1.vsix";
       sha256 = "sha256-5qCIwZu5LmU87Uvwv+3VPuih6BvEwigCF+Pbs05/D18=";
     };
-    name = "salesforcedx-vscode-apex";
     license = "BSD-3-Clause";
-    publisher = "godray";
+    name = "salesforcedx-vscode-apex";
     description = "Provides code-editing features for the Apex programming language";
+    publisher = "godray";
   };
   golang-Go = {
     pname = "golang-Go";
@@ -9332,10 +9356,10 @@
       url = "https://open-vsx.org/api/golang/Go/0.33.1/file/golang.Go-0.33.1.vsix";
       sha256 = "sha256-zZ8EZh69Dqt2IywIs1KnO5LdiYAm7P5goUJCBv3cSI8=";
     };
-    name = "Go";
     license = "MIT";
-    publisher = "golang";
+    name = "Go";
     description = "Rich Go language support for Visual Studio Code";
+    publisher = "golang";
   };
   golf1052-base16-generator = {
     pname = "golf1052-base16-generator";
@@ -9344,10 +9368,10 @@
       url = "https://open-vsx.org/api/golf1052/base16-generator/1.15.0/file/golf1052.base16-generator-1.15.0.vsix";
       sha256 = "sha256-uHPiubMcKFqikbSt85VgRBi1CbEK0E7K/ZAKvlAB82M=";
     };
-    name = "base16-generator";
     license = "See license in LICENSE";
-    publisher = "golf1052";
+    name = "base16-generator";
     description = "All Base16 themes available on the fly";
+    publisher = "golf1052";
   };
   golf1052-code-sync = {
     pname = "golf1052-code-sync";
@@ -9356,10 +9380,10 @@
       url = "https://open-vsx.org/api/golf1052/code-sync/2.7.3/file/golf1052.code-sync-2.7.3.vsix";
       sha256 = "sha256-fa/kIOyzjqhyCDwYpUoDgnaCNrKSyR9WmzLTVDAlS0g=";
     };
-    name = "code-sync";
     license = "See licence in LICENSE";
-    publisher = "golf1052";
+    name = "code-sync";
     description = "Sync VSCode extensions using your favorite file synchronization service (OneDrive, Dropbox, Google Drive, etc.)";
+    publisher = "golf1052";
   };
   golf1052-test-extension = {
     pname = "golf1052-test-extension";
@@ -9368,10 +9392,10 @@
       url = "https://open-vsx.org/api/golf1052/test-extension/0.0.1/file/golf1052.test-extension-0.0.1.vsix";
       sha256 = "sha256-aAj0NDBNhUqI+8HQQFbusN6NExfBCu+ZomLcSNo87P4=";
     };
-    name = "test-extension";
     license = "See license in LICENSE";
-    publisher = "golf1052";
+    name = "test-extension";
     description = "Extension used for testing CodeSync";
+    publisher = "golf1052";
   };
   good-snippets-good-snippets = {
     pname = "good-snippets-good-snippets";
@@ -9380,10 +9404,10 @@
       url = "https://open-vsx.org/api/good-snippets/good-snippets/1.0.1/file/good-snippets.good-snippets-1.0.1.vsix";
       sha256 = "sha256-nT2dsd0+SWz0zhV6JWtAaD+8ECZMxL6CBcZVyebYC+Y=";
     };
-    name = "good-snippets";
     license = "MIT";
-    publisher = "good-snippets";
+    name = "good-snippets";
     description = "Add Jest test structure, arrow functions and functions for typescrit and javascript";
+    publisher = "good-snippets";
   };
   goodbaikin-org-preview = {
     pname = "goodbaikin-org-preview";
@@ -9392,10 +9416,10 @@
       url = "https://open-vsx.org/api/goodbaikin/org-preview/1.1.0/file/goodbaikin.org-preview-1.1.0.vsix";
       sha256 = "sha256-XoHPBKyYDJNpnVuGBwCeqqIKVn1ZiR6hyDolCqvHiNI=";
     };
-    name = "org-preview";
     license = "";
-    publisher = "goodbaikin";
+    name = "org-preview";
     description = "";
+    publisher = "goodbaikin";
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
@@ -9404,10 +9428,10 @@
       url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.15.0/file/grain-lang.vscode-grain-0.15.0.vsix";
       sha256 = "sha256-RBTL1S9leaIyg87+vqSPJgDX2mUDAP8r2ozkBKPB5J0=";
     };
-    name = "vscode-grain";
     license = "MIT";
-    publisher = "grain-lang";
+    name = "vscode-grain";
     description = "Grain support for Visual Studio Code.";
+    publisher = "grain-lang";
   };
   grammarcraft-epsilon-eag = {
     pname = "grammarcraft-epsilon-eag";
@@ -9416,10 +9440,10 @@
       url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
       sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
-    name = "epsilon-eag";
     license = "EPL-2.0";
-    publisher = "grammarcraft";
+    name = "epsilon-eag";
     description = "Specification Language for Extended Affix Grammars";
+    publisher = "grammarcraft";
   };
   grammarcraft-epsilon-eag-dark-theme = {
     pname = "grammarcraft-epsilon-eag-dark-theme";
@@ -9428,10 +9452,10 @@
       url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
       sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
-    name = "epsilon-eag-dark-theme";
     license = "EPL-2.0";
-    publisher = "grammarcraft";
+    name = "epsilon-eag-dark-theme";
     description = "Dark Theme for Extended Affix Grammars (based on Dark+)";
+    publisher = "grammarcraft";
   };
   grammarcraft-epsilon-eag-extension-pack = {
     pname = "grammarcraft-epsilon-eag-extension-pack";
@@ -9440,10 +9464,10 @@
       url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
       sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
-    name = "epsilon-eag-extension-pack";
     license = "EPL-2.0";
-    publisher = "grammarcraft";
+    name = "epsilon-eag-extension-pack";
     description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.";
+    publisher = "grammarcraft";
   };
   grammarcraft-epsilon-eag-light-theme = {
     pname = "grammarcraft-epsilon-eag-light-theme";
@@ -9452,10 +9476,10 @@
       url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
       sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
     };
-    name = "epsilon-eag-light-theme";
     license = "EPL-2.0";
-    publisher = "grammarcraft";
+    name = "epsilon-eag-light-theme";
     description = "Light Theme for Extended Affix Grammars (based on Light+)";
+    publisher = "grammarcraft";
   };
   grammarcraft-xtend-lang = {
     pname = "grammarcraft-xtend-lang";
@@ -9464,10 +9488,10 @@
       url = "https://open-vsx.org/api/grammarcraft/xtend-lang/0.2.3/file/grammarcraft.xtend-lang-0.2.3.vsix";
       sha256 = "sha256-UGsT5kon6PNdEy0pix9Xw28ZAcJw9n3BCEdfcJhf2YU=";
     };
-    name = "xtend-lang";
     license = "EPL-2.0";
-    publisher = "grammarcraft";
+    name = "xtend-lang";
     description = "Xtend Programming Language";
+    publisher = "grammarcraft";
   };
   grammarcraft-xtext-lang = {
     pname = "grammarcraft-xtext-lang";
@@ -9476,10 +9500,10 @@
       url = "https://open-vsx.org/api/grammarcraft/xtext-lang/0.4.0/file/grammarcraft.xtext-lang-0.4.0.vsix";
       sha256 = "sha256-bCB2gZntkAfo8lVzjdiV5Y+o6p5wSluMKI97tkHvwww=";
     };
-    name = "xtext-lang";
     license = "EPL-2.0";
-    publisher = "grammarcraft";
+    name = "xtext-lang";
     description = "Xtext Grammar Specification Language";
+    publisher = "grammarcraft";
   };
   graphman-tengo = {
     pname = "graphman-tengo";
@@ -9488,10 +9512,10 @@
       url = "https://open-vsx.org/api/graphman/tengo/0.5.0/file/graphman.tengo-0.5.0.vsix";
       sha256 = "sha256-t5PLuF15Pg4M+zRLCYopaAGhwdjbHrhO8dsfGwVwTy0=";
     };
-    name = "tengo";
     license = "MIT";
-    publisher = "graphman";
+    name = "tengo";
     description = "Tengo syntax highlighting";
+    publisher = "graphman";
   };
   gregoire-dance = {
     pname = "gregoire-dance";
@@ -9500,10 +9524,10 @@
       url = "https://open-vsx.org/api/gregoire/dance/0.5.11/file/gregoire.dance-0.5.11.vsix";
       sha256 = "sha256-zH/gvrnQRPMSY9DUB61xyXm4wmOnD6s1+6NqNfJa+HY=";
     };
-    name = "dance";
     license = "ISC";
-    publisher = "gregoire";
+    name = "dance";
     description = "Kakoune-inspired key bindings, modes, menus and scripting.";
+    publisher = "gregoire";
   };
   grigoryvp-language-xi = {
     pname = "grigoryvp-language-xi";
@@ -9512,10 +9536,10 @@
       url = "https://open-vsx.org/api/grigoryvp/language-xi/1.7.54/file/grigoryvp.language-xi-1.7.54.vsix";
       sha256 = "sha256-w60iQjQzKqXdUDJFCzF+scVdDsFvve4y+wlooVzuL8Q=";
     };
-    name = "language-xi";
     license = "";
-    publisher = "grigoryvp";
+    name = "language-xi";
     description = "Syntax highlighting and wikiword jumps supoort for Xi markup language";
+    publisher = "grigoryvp";
   };
   grigoryvp-memory-theme = {
     pname = "grigoryvp-memory-theme";
@@ -9524,10 +9548,10 @@
       url = "https://open-vsx.org/api/grigoryvp/memory-theme/1.2.49/file/grigoryvp.memory-theme-1.2.49.vsix";
       sha256 = "sha256-vqd+3D+NmhbvTmYYILmnHI4SXWM18Y9xnpJ1jPdoEBE=";
     };
-    name = "memory-theme";
     license = "";
-    publisher = "grigoryvp";
+    name = "memory-theme";
     description = "Memory Color Theme for Visual Studio Code";
+    publisher = "grigoryvp";
   };
   gwoptics-katscript = {
     pname = "gwoptics-katscript";
@@ -9536,10 +9560,10 @@
       url = "https://open-vsx.org/api/gwoptics/katscript/0.2.0/file/gwoptics.katscript-0.2.0.vsix";
       sha256 = "sha256-uTXkuxjOoL6hBh6jaxIijH37pHkGf9+GYGkN8WKr2Uk=";
     };
-    name = "katscript";
     license = "MIT";
-    publisher = "gwoptics";
+    name = "katscript";
     description = "Syntax highlighting for KatScript";
+    publisher = "gwoptics";
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
@@ -9548,10 +9572,10 @@
       url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.3/file/halcyontechltd.code-for-ibmi-1.3.3.vsix";
       sha256 = "sha256-380aFZmu4qh/+W9UVwbLzaN3sOaxa8AxXZoZVF5B3mk=";
     };
-    name = "code-for-ibmi";
     license = "MIT";
-    publisher = "halcyontechltd";
+    name = "code-for-ibmi";
     description = "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code.";
+    publisher = "halcyontechltd";
   };
   halcyontechltd-git-client-ibmi = {
     pname = "halcyontechltd-git-client-ibmi";
@@ -9560,10 +9584,10 @@
       url = "https://open-vsx.org/api/halcyontechltd/git-client-ibmi/0.1.0/file/halcyontechltd.git-client-ibmi-0.1.0.vsix";
       sha256 = "sha256-IRaWxD9/i2i8RcIuxtQwx8NAZcTRbxh4vpQ5pPAzIyI=";
     };
-    name = "git-client-ibmi";
     license = "MIT";
-    publisher = "halcyontechltd";
+    name = "git-client-ibmi";
     description = "A git client that works on a remote IBM i";
+    publisher = "halcyontechltd";
   };
   halcyontechltd-vscode-ibmi-walkthroughs = {
     pname = "halcyontechltd-vscode-ibmi-walkthroughs";
@@ -9572,10 +9596,10 @@
       url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.1.vsix";
       sha256 = "sha256-zCVZgtkAwutBE7sOp5RRjS5MY7t6ypk9fVUri63cq5A=";
     };
-    name = "vscode-ibmi-walkthroughs";
     license = "Apache-2.0";
-    publisher = "halcyontechltd";
+    name = "vscode-ibmi-walkthroughs";
     description = "Adds walkthroughs for IBM i development in VS Code";
+    publisher = "halcyontechltd";
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
@@ -9584,10 +9608,10 @@
       url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.1/file/halcyontechltd.vscode-rpgle-0.7.1.vsix";
       sha256 = "sha256-Tn2jl4PlAdwbjBdFEZMNyK1Aqcn7mzCTJmpDJPJJ5hs=";
     };
-    name = "vscode-rpgle";
     license = "MIT";
-    publisher = "halcyontechltd";
+    name = "vscode-rpgle";
     description = "RPGLE content assist and linter for VS Code";
+    publisher = "halcyontechltd";
   };
   hall-draw = {
     pname = "hall-draw";
@@ -9596,10 +9620,10 @@
       url = "https://open-vsx.org/api/hall/draw/0.1.14/file/hall.draw-0.1.14.vsix";
       sha256 = "sha256-vJSvmYB7S53jr/AC4Mx46AZb3Z2fHvzQc5nfdjwOK64=";
     };
-    name = "draw";
     license = "Apache-2.0";
-    publisher = "hall";
+    name = "draw";
     description = "Draw an SVG image with a mouse or pen";
+    publisher = "hall";
   };
   harehare-textusm = {
     pname = "harehare-textusm";
@@ -9608,10 +9632,10 @@
       url = "https://open-vsx.org/api/harehare/textusm/0.3.1/file/harehare.textusm-0.3.1.vsix";
       sha256 = "sha256-Otk+FlwPYFpML2TIYiYej2TU/ne15X/A08rIrOEsuW0=";
     };
-    name = "textusm";
     license = "MIT";
-    publisher = "harehare";
+    name = "textusm";
     description = "Generate a User Story Map from indented text.";
+    publisher = "harehare";
   };
   hashicorp-terraform = {
     pname = "hashicorp-terraform";
@@ -9620,10 +9644,10 @@
       url = "https://open-vsx.org/api/hashicorp/terraform/2.21.1/file/hashicorp.terraform-2.21.1.vsix";
       sha256 = "sha256-L0cMZZxf+1muLwV9axMGD55Htb5Gt4c8WrI7Amf7sts=";
     };
-    name = "terraform";
     license = "MPL-2.0";
-    publisher = "hashicorp";
+    name = "terraform";
     description = "Syntax highlighting and autocompletion for Terraform";
+    publisher = "hashicorp";
   };
   haskell-haskell = {
     pname = "haskell-haskell";
@@ -9632,10 +9656,10 @@
       url = "https://open-vsx.org/api/haskell/haskell/2.2.0/file/haskell.haskell-2.2.0.vsix";
       sha256 = "sha256-YGPytmI4PgH6GQuWaRF5quiKGoOabkv7On+WVupI92E=";
     };
-    name = "haskell";
     license = "MIT";
-    publisher = "haskell";
+    name = "haskell";
     description = "Haskell language support powered by the Haskell Language Server";
+    publisher = "haskell";
   };
   haudraufhaun-hyper-is-theme = {
     pname = "haudraufhaun-hyper-is-theme";
@@ -9644,10 +9668,10 @@
       url = "https://open-vsx.org/api/haudraufhaun/hyper-is-theme/0.1.1/file/haudraufhaun.hyper-is-theme-0.1.1.vsix";
       sha256 = "sha256-P+TpbqHNsRIVPGfDaW5hqFu4DGOFYm1VD8+IncBbxVM=";
     };
-    name = "hyper-is-theme";
     license = "MIT";
-    publisher = "haudraufhaun";
+    name = "hyper-is-theme";
     description = "color theme based on the standard Hyperterm colors";
+    publisher = "haudraufhaun";
   };
   hbenl-test-adapter-converter = {
     pname = "hbenl-test-adapter-converter";
@@ -9656,10 +9680,10 @@
       url = "https://open-vsx.org/api/hbenl/test-adapter-converter/0.1.6/file/hbenl.test-adapter-converter-0.1.6.vsix";
       sha256 = "sha256-8xv5Lhmj+pwwMK3zM7kvdJi7NBOoCQOpgfBdBG1RFP8=";
     };
-    name = "test-adapter-converter";
     license = "MIT";
-    publisher = "hbenl";
+    name = "test-adapter-converter";
     description = "Converter extension from the Test Adapter UI to native VS Code testing";
+    publisher = "hbenl";
   };
   hbenl-vscode-jasmine-test-adapter = {
     pname = "hbenl-vscode-jasmine-test-adapter";
@@ -9668,10 +9692,10 @@
       url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.1/file/hbenl.vscode-jasmine-test-adapter-1.8.1.vsix";
       sha256 = "sha256-3u1azOyPfk8MNyuewX90f9kb80cScYvnH9P8y+1rrCs=";
     };
-    name = "vscode-jasmine-test-adapter";
     license = "MIT";
-    publisher = "hbenl";
+    name = "vscode-jasmine-test-adapter";
     description = "Run your Jasmine tests in the Sidebar of Visual Studio Code";
+    publisher = "hbenl";
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
@@ -9680,10 +9704,10 @@
       url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.5/file/hbenl.vscode-mocha-test-adapter-2.13.5.vsix";
       sha256 = "sha256-G79ifj669OWYXsYSpSsT/RyMqIzFTMW075ieX5FW5hw=";
     };
-    name = "vscode-mocha-test-adapter";
     license = "MIT";
-    publisher = "hbenl";
+    name = "vscode-mocha-test-adapter";
     description = "Run your Mocha tests in the Sidebar of Visual Studio Code";
+    publisher = "hbenl";
   };
   hbenl-vscode-test-explorer = {
     pname = "hbenl-vscode-test-explorer";
@@ -9692,10 +9716,10 @@
       url = "https://open-vsx.org/api/hbenl/vscode-test-explorer/2.21.1/file/hbenl.vscode-test-explorer-2.21.1.vsix";
       sha256 = "sha256-vR/IaTV8RcEsrey63somtg8Xi3jWVEXvsYqc/uXaC4Y=";
     };
-    name = "vscode-test-explorer";
     license = "MIT";
-    publisher = "hbenl";
+    name = "vscode-test-explorer";
     description = "Run your tests in the Sidebar of Visual Studio Code";
+    publisher = "hbenl";
   };
   hcl-hcl-ztools = {
     pname = "hcl-hcl-ztools";
@@ -9704,10 +9728,10 @@
       url = "https://open-vsx.org/api/hcl/hcl-ztools/0.0.13/file/hcl.hcl-ztools-0.0.13.vsix";
       sha256 = "sha256-8jyVWMS71AOSOxD3/9S9d3loin0hAFO8wvL8XLAhIec=";
     };
-    name = "hcl-ztools";
     license = "";
-    publisher = "hcl";
+    name = "hcl-ztools";
     description = "HCL z Tools Extension for VS Code";
+    publisher = "hcl";
   };
   hediet-vscode-drawio = {
     pname = "hediet-vscode-drawio";
@@ -9716,10 +9740,10 @@
       url = "https://open-vsx.org/api/hediet/vscode-drawio/1.6.4/file/hediet.vscode-drawio-1.6.4.vsix";
       sha256 = "sha256-+VYdFk9VCp3KnvOASJ+jJSb1NBwykBlnd8EuSKw8sKI=";
     };
-    name = "vscode-drawio";
     license = "GPL-3.0";
-    publisher = "hediet";
+    name = "vscode-drawio";
     description = "This unofficial extension integrates Draw.io into VS Code.";
+    publisher = "hediet";
   };
   hediet-vscode-drawio-insiders-build = {
     pname = "hediet-vscode-drawio-insiders-build";
@@ -9728,10 +9752,10 @@
       url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.502/file/hediet.vscode-drawio-insiders-build-1.6.502.vsix";
       sha256 = "sha256-ym5VbyXRXpB2IzCV9+vZO4FqGEtz5eVILCN5FVJKs8g=";
     };
-    name = "vscode-drawio-insiders-build";
     license = "GPL-3.0";
-    publisher = "hediet";
+    name = "vscode-drawio-insiders-build";
     description = "This is the unstable Insiders Build";
+    publisher = "hediet";
   };
   hepia-cores-hl2 = {
     pname = "hepia-cores-hl2";
@@ -9740,10 +9764,10 @@
       url = "https://open-vsx.org/api/hepia-cores/hl2/0.7.1/file/hepia-cores.hl2-0.7.1.vsix";
       sha256 = "sha256-2D//eRc+6Ok3LpLil2iyz8y18OebeL04KMzqSAomYNI=";
     };
-    name = "hl2";
     license = "GPL-3.0";
-    publisher = "hepia-cores";
+    name = "hl2";
     description = "hepiaLight2 for Visual Studio Code";
+    publisher = "hepia-cores";
   };
   heptio-jsonnet = {
     pname = "heptio-jsonnet";
@@ -9752,10 +9776,10 @@
       url = "https://open-vsx.org/api/heptio/jsonnet/0.1.0/file/heptio.jsonnet-0.1.0.vsix";
       sha256 = "sha256-CSb2scXN5FUce02aTGlYf3ofc0NnXtm26ySm+3oET1s=";
     };
-    name = "jsonnet";
     license = "Apache-2.0";
-    publisher = "heptio";
+    name = "jsonnet";
     description = "Language support for Jsonnet";
+    publisher = "heptio";
   };
   hermitter-oh-lucy-vscode = {
     pname = "hermitter-oh-lucy-vscode";
@@ -9764,10 +9788,10 @@
       url = "https://open-vsx.org/api/hermitter/oh-lucy-vscode/0.0.1/file/hermitter.oh-lucy-vscode-0.0.1.vsix";
       sha256 = "sha256-nM+dlj8aUR00JQRCMLsWUo3xv3F/oZZNHaJBub5scr0=";
     };
-    name = "oh-lucy-vscode";
     license = "MIT";
-    publisher = "hermitter";
+    name = "oh-lucy-vscode";
     description = "a re-upload of a soft but clear syntax theme";
+    publisher = "hermitter";
   };
   hexnaught-vscode-bitburner-connector = {
     pname = "hexnaught-vscode-bitburner-connector";
@@ -9776,10 +9800,10 @@
       url = "https://open-vsx.org/api/hexnaught/vscode-bitburner-connector/1.3.2/file/hexnaught.vscode-bitburner-connector-1.3.2.vsix";
       sha256 = "sha256-C6ljAVTEo2P9q3InLhFJWHvJcJnBkxUbp18EMOVJNPQ=";
     };
-    name = "vscode-bitburner-connector";
     license = "MIT";
-    publisher = "hexnaught";
+    name = "vscode-bitburner-connector";
     description = "Deploy your scripts (.ns, .js or .script extensions) directly in to the running Bitburner game from VSCode!";
+    publisher = "hexnaught";
   };
   heybourn-headwind = {
     pname = "heybourn-headwind";
@@ -9788,10 +9812,10 @@
       url = "https://open-vsx.org/api/heybourn/headwind/2.0.0/file/heybourn.headwind-2.0.0.vsix";
       sha256 = "sha256-jXTL2rhWPPUQFq88rqg9h3Qul1J+bJohcIyasyqHszc=";
     };
-    name = "headwind";
     license = "MIT";
-    publisher = "heybourn";
+    name = "headwind";
     description = "An opinionated class sorter for Tailwind CSS";
+    publisher = "heybourn";
   };
   hideoo-toggler = {
     pname = "hideoo-toggler";
@@ -9800,10 +9824,10 @@
       url = "https://open-vsx.org/api/hideoo/toggler/0.4.0/file/hideoo.toggler-0.4.0.vsix";
       sha256 = "sha256-emCpscfVgA/ImjuT3bWk2A363gwPrjm9HCZqaC76TH4=";
     };
-    name = "toggler";
     license = "MIT";
-    publisher = "hideoo";
+    name = "toggler";
     description = "Toggle words and symbols";
+    publisher = "hideoo";
   };
   higoka-php-cs-fixer = {
     pname = "higoka-php-cs-fixer";
@@ -9812,10 +9836,10 @@
       url = "https://open-vsx.org/api/higoka/php-cs-fixer/1.2.7/file/higoka.php-cs-fixer-1.2.7.vsix";
       sha256 = "sha256-sZf7oEjrRp6vqeBj2+OTzuerc3tnZLNWCAtCIkWbok8=";
     };
-    name = "php-cs-fixer";
     license = "MIT";
-    publisher = "higoka";
+    name = "php-cs-fixer";
     description = "Integrates PHP-CS-Fixer into Visual Studio Code.";
+    publisher = "higoka";
   };
   hirosystems-clarity-lsp = {
     pname = "hirosystems-clarity-lsp";
@@ -9824,10 +9848,10 @@
       url = "https://open-vsx.org/api/hirosystems/clarity-lsp/0.8.0/file/hirosystems.clarity-lsp-0.8.0.vsix";
       sha256 = "sha256-FuXhmLdV9kzHJZ3FOy/MQMgrzZKHMO7+Ppa9IiQr6Ho=";
     };
-    name = "clarity-lsp";
     license = "GPL-3.0-only";
-    publisher = "hirosystems";
+    name = "clarity-lsp";
     description = "Coding assistant for Smart Contracts (Stacks, Bitcoin)";
+    publisher = "hirosystems";
   };
   hollowtree-vue-snippets = {
     pname = "hollowtree-vue-snippets";
@@ -9836,10 +9860,10 @@
       url = "https://open-vsx.org/api/hollowtree/vue-snippets/0.1.12/file/hollowtree.vue-snippets-0.1.12.vsix";
       sha256 = "sha256-YoUQuV2GGWTtADILrAd25YeqVsI196eOQKoZ3FpSS7E=";
     };
-    name = "vue-snippets";
     license = "MIT";
-    publisher = "hollowtree";
+    name = "vue-snippets";
     description = "A Vue.js 2 Extension";
+    publisher = "hollowtree";
   };
   hoovercj-haskell-linter = {
     pname = "hoovercj-haskell-linter";
@@ -9848,10 +9872,10 @@
       url = "https://open-vsx.org/api/hoovercj/haskell-linter/0.0.6/file/hoovercj.haskell-linter-0.0.6.vsix";
       sha256 = "sha256-i2f170mKOhU/L7Mkkk4dBXrG2j07jiPQ3LxifyAKhd8=";
     };
-    name = "haskell-linter";
     license = "MIT";
-    publisher = "hoovercj";
+    name = "haskell-linter";
     description = "An extension to use hlint in vscode";
+    publisher = "hoovercj";
   };
   hoovercj-vscode-power-mode = {
     pname = "hoovercj-vscode-power-mode";
@@ -9860,10 +9884,10 @@
       url = "https://open-vsx.org/api/hoovercj/vscode-power-mode/3.0.2/file/hoovercj.vscode-power-mode-3.0.2.vsix";
       sha256 = "sha256-e+mqHqVB1zoR28nyb4WkD8qzPdTzyGgjhKBV1j2g0Zk=";
     };
-    name = "vscode-power-mode";
     license = "MIT";
-    publisher = "hoovercj";
+    name = "vscode-power-mode";
     description = "Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.";
+    publisher = "hoovercj";
   };
   houkanshan-vscode-markdown-footnote = {
     pname = "houkanshan-vscode-markdown-footnote";
@@ -9872,10 +9896,10 @@
       url = "https://open-vsx.org/api/houkanshan/vscode-markdown-footnote/1.0.0/file/houkanshan.vscode-markdown-footnote-1.0.0.vsix";
       sha256 = "sha256-YQDF5bzd8HWWGA0GaFKi89Y6pF2l99wO3+XQFe2L2Ec=";
     };
-    name = "vscode-markdown-footnote";
     license = "MIT";
-    publisher = "houkanshan";
+    name = "vscode-markdown-footnote";
     description = "Support markdown footnote in VSCode editor";
+    publisher = "houkanshan";
   };
   hroussea-42-norminette-v2 = {
     pname = "hroussea-42-norminette-v2";
@@ -9884,10 +9908,10 @@
       url = "https://open-vsx.org/api/hroussea/42-norminette-v2/0.5.1/file/hroussea.42-norminette-v2-0.5.1.vsix";
       sha256 = "sha256-Jp5u8nhlzZ7gjNWEvO08mvrJSjOXrShHuVC03Z0pR+8=";
     };
-    name = "42-norminette-v2";
     license = "GPL-3.0-or-later";
-    publisher = "hroussea";
+    name = "42-norminette-v2";
     description = "The new 42 school norminette, compatible with norme v3.0";
+    publisher = "hroussea";
   };
   html-validate-vscode-html-validate = {
     pname = "html-validate-vscode-html-validate";
@@ -9896,10 +9920,10 @@
       url = "https://open-vsx.org/api/html-validate/vscode-html-validate/2.3.1/file/html-validate.vscode-html-validate-2.3.1.vsix";
       sha256 = "sha256-nhuyKI/7de0pJXROG81vV9RadvxMPYtc06IGbkg2s28=";
     };
-    name = "vscode-html-validate";
     license = "MIT";
-    publisher = "html-validate";
+    name = "vscode-html-validate";
     description = "vscode extension for html-validate";
+    publisher = "html-validate";
   };
   huacat-office-theme = {
     pname = "huacat-office-theme";
@@ -9908,10 +9932,10 @@
       url = "https://open-vsx.org/api/huacat/office-theme/1.1.3/file/huacat.office-theme-1.1.3.vsix";
       sha256 = "sha256-cAfeNHsWtGS5kFUMsdZp+79fW40duo+Po5lCsUOS2d8=";
     };
-    name = "office-theme";
     license = "MIT";
-    publisher = "huacat";
+    name = "office-theme";
     description = "Microsoft Office(like) theme for VScode";
+    publisher = "huacat";
   };
   huacat-pink-theme = {
     pname = "huacat-pink-theme";
@@ -9920,10 +9944,10 @@
       url = "https://open-vsx.org/api/huacat/pink-theme/0.4.0/file/huacat.pink-theme-0.4.0.vsix";
       sha256 = "sha256-j03A575NSgE4has6QhRftftwUZVR0/riFHPTAAwXjG4=";
     };
-    name = "pink-theme";
     license = "MIT";
-    publisher = "huacat";
+    name = "pink-theme";
     description = "A cool pink theme for VScode.";
+    publisher = "huacat";
   };
   hugogranstrom-nimiboost = {
     pname = "hugogranstrom-nimiboost";
@@ -9932,10 +9956,10 @@
       url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.0/file/hugogranstrom.nimiboost-0.4.0.vsix";
       sha256 = "sha256-4G/YxUFghdlAY5sJBIlEht3kfGfERpFfLvN1X56EAVA=";
     };
-    name = "nimiboost";
     license = "MIT";
-    publisher = "hugogranstrom";
+    name = "nimiboost";
     description = "Provides syntax highlighting for embedded markdown in Nimib";
+    publisher = "hugogranstrom";
   };
   humao-rest-client = {
     pname = "humao-rest-client";
@@ -9944,10 +9968,10 @@
       url = "https://open-vsx.org/api/humao/rest-client/0.24.6/file/humao.rest-client-0.24.6.vsix";
       sha256 = "sha256-rtKfCn5QW74f5YM3zOg/sxU6gX2PLFYmItdwjSMizRU=";
     };
-    name = "rest-client";
     license = "MIT";
-    publisher = "humao";
+    name = "rest-client";
     description = "REST Client for Visual Studio Code";
+    publisher = "humao";
   };
   huntertran-auto-markdown-toc = {
     pname = "huntertran-auto-markdown-toc";
@@ -9956,10 +9980,10 @@
       url = "https://open-vsx.org/api/huntertran/auto-markdown-toc/3.0.12/file/huntertran.auto-markdown-toc-3.0.12.vsix";
       sha256 = "sha256-1O4ZHA8tqmoUJEDxkSrcgh7QFK+pWg8AENqlQUbNy3M=";
     };
-    name = "auto-markdown-toc";
     license = "MIT";
-    publisher = "huntertran";
+    name = "auto-markdown-toc";
     description = "Markdown TOC (Table Of Contents) Plugin for Visual Studio Code.";
+    publisher = "huntertran";
   };
   hush-vscode-hush = {
     pname = "hush-vscode-hush";
@@ -9968,10 +9992,10 @@
       url = "https://open-vsx.org/api/hush-vscode/hush/0.0.1/file/hush-vscode.hush-0.0.1.vsix";
       sha256 = "sha256-TVL3hxxiSGmeq2KC8p+MYejsw7zeaG1lIfO8MEdaAWM=";
     };
-    name = "hush";
     license = "MIT";
-    publisher = "hush-vscode";
+    name = "hush";
     description = "Hush syntax highlighting";
+    publisher = "hush-vscode";
   };
   huytd-espresso-tutti = {
     pname = "huytd-espresso-tutti";
@@ -9980,10 +10004,10 @@
       url = "https://open-vsx.org/api/huytd/espresso-tutti/0.0.2/file/huytd.espresso-tutti-0.0.2.vsix";
       sha256 = "sha256-WxrFTCrvlgE77aOHc+Q6zmiIfq82/6BUYzlpx8Y4BBg=";
     };
-    name = "espresso-tutti";
     license = "MIT";
-    publisher = "huytd";
+    name = "espresso-tutti";
     description = "";
+    publisher = "huytd";
   };
   huytd-github-light-monochrome = {
     pname = "huytd-github-light-monochrome";
@@ -9992,10 +10016,10 @@
       url = "https://open-vsx.org/api/huytd/github-light-monochrome/0.1.0/file/huytd.github-light-monochrome-0.1.0.vsix";
       sha256 = "sha256-w0l5giun7PcFqYnh4+qWvfPxbzq7OaJx+Bm/7KdgSk4=";
     };
-    name = "github-light-monochrome";
     license = "MIT";
-    publisher = "huytd";
+    name = "github-light-monochrome";
     description = "A monochrome theme based on GitHub Light";
+    publisher = "huytd";
   };
   huytd-lemontree-dark = {
     pname = "huytd-lemontree-dark";
@@ -10004,10 +10028,10 @@
       url = "https://open-vsx.org/api/huytd/lemontree-dark/0.0.2/file/huytd.lemontree-dark-0.0.2.vsix";
       sha256 = "sha256-JfG0Ia7wf0S6/7ElI2V9N0YFavqP8+O2mwqjQOafT8w=";
     };
-    name = "lemontree-dark";
     license = "MIT";
-    publisher = "huytd";
+    name = "lemontree-dark";
     description = "Lemon Tree Dark Theme";
+    publisher = "huytd";
   };
   huytd-tokyo-city = {
     pname = "huytd-tokyo-city";
@@ -10016,10 +10040,10 @@
       url = "https://open-vsx.org/api/huytd/tokyo-city/0.2.4/file/huytd.tokyo-city-0.2.4.vsix";
       sha256 = "sha256-EaMd2QIGJzR92xtUMWzeYihthS+9KMuF40JrzdUn2XA=";
     };
-    name = "tokyo-city";
     license = "MIT";
-    publisher = "huytd";
+    name = "tokyo-city";
     description = "Tokyo City theme, a mixture of City Lights and Tokyo Night";
+    publisher = "huytd";
   };
   ibijon4-duckyscript = {
     pname = "ibijon4-duckyscript";
@@ -10028,10 +10052,10 @@
       url = "https://open-vsx.org/api/ibijon4/duckyscript/0.1.2/file/ibijon4.duckyscript-0.1.2.vsix";
       sha256 = "sha256-v3TfHXq/gj+JWUu6ENRLpw3emcJ/DFy0QrKq8MZdBNE=";
     };
-    name = "duckyscript";
     license = "MIT";
-    publisher = "ibijon4";
+    name = "duckyscript";
     description = "A basic DuckyScript syntax highlighter for codium ";
+    publisher = "ibijon4";
   };
   iciclesoft-workspacesort = {
     pname = "iciclesoft-workspacesort";
@@ -10040,10 +10064,10 @@
       url = "https://open-vsx.org/api/iciclesoft/workspacesort/1.6.2/file/iciclesoft.workspacesort-1.6.2.vsix";
       sha256 = "sha256-PsocS2PMi5HwHlIb9ZrCkBsAKtG2Y96WVR0VLcvK788=";
     };
-    name = "workspacesort";
     license = "MIT";
-    publisher = "iciclesoft";
+    name = "workspacesort";
     description = "WorkspaceSort adds the ability to sort workspace-folders in the same way as files and inner-folders are sorted.";
+    publisher = "iciclesoft";
   };
   icrawl-discord-vscode = {
     pname = "icrawl-discord-vscode";
@@ -10052,10 +10076,10 @@
       url = "https://open-vsx.org/api/icrawl/discord-vscode/5.8.0/file/icrawl.discord-vscode-5.8.0.vsix";
       sha256 = "sha256-JbpFGxmsnZs+s7E7Zc2mix5Ekn/fRVLHkAO8WxkVIBw=";
     };
-    name = "discord-vscode";
     license = "MIT";
-    publisher = "icrawl";
+    name = "discord-vscode";
     description = "Update your discord status with a rich presence.";
+    publisher = "icrawl";
   };
   idleberg-applescript = {
     pname = "idleberg-applescript";
@@ -10064,10 +10088,10 @@
       url = "https://open-vsx.org/api/idleberg/applescript/0.21.1/file/idleberg.applescript-0.21.1.vsix";
       sha256 = "sha256-jCVJPfM+a3Z0NaS9jJOefncpAmJsepJqsQ4Az92jN54=";
     };
-    name = "applescript";
     license = "MIT";
-    publisher = "idleberg";
+    name = "applescript";
     description = "Language syntax, snippets and build system for AppleScript and JavaScript for Automation";
+    publisher = "idleberg";
   };
   idleberg-badgen = {
     pname = "idleberg-badgen";
@@ -10076,10 +10100,10 @@
       url = "https://open-vsx.org/api/idleberg/badgen/0.1.1/file/idleberg.badgen-0.1.1.vsix";
       sha256 = "sha256-bzZ15OuGyUD+tfYqgI9KQ0vZLd0K+8F0xkMkAwHsb5g=";
     };
-    name = "badgen";
     license = "MIT";
-    publisher = "idleberg";
+    name = "badgen";
     description = "Snippets to quickly insert Badgen badges into Markdown documents";
+    publisher = "idleberg";
   };
   idleberg-badges = {
     pname = "idleberg-badges";
@@ -10088,10 +10112,10 @@
       url = "https://open-vsx.org/api/idleberg/badges/1.1.0/file/idleberg.badges-1.1.0.vsix";
       sha256 = "sha256-4xOgL/nd+fKFMn1rqCx2TXBIzjklLF5iET9YJo2Fd2I=";
     };
-    name = "badges";
     license = "MIT";
-    publisher = "idleberg";
+    name = "badges";
     description = "Snippets to quickly insert Shield.io badges into HTML, Markdown, reStructuredText or Textile documents";
+    publisher = "idleberg";
   };
   idleberg-bridlensis = {
     pname = "idleberg-bridlensis";
@@ -10100,10 +10124,10 @@
       url = "https://open-vsx.org/api/idleberg/bridlensis/1.2.2/file/idleberg.bridlensis-1.2.2.vsix";
       sha256 = "sha256-A61CulOo0TLedqGMcrNtL2TzKmCZ1Xv8CEKkjXbbJ8g=";
     };
-    name = "bridlensis";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "bridlensis";
     description = "Language syntax, IntelliSense and build system for BridleNSIS";
+    publisher = "idleberg";
   };
   idleberg-electron-builder = {
     pname = "idleberg-electron-builder";
@@ -10112,10 +10136,10 @@
       url = "https://open-vsx.org/api/idleberg/electron-builder/0.7.2/file/idleberg.electron-builder-0.7.2.vsix";
       sha256 = "sha256-c5KWgcf0zHma5ygZCAz+P3MKdFrH89/e8qoL4eBQ1EA=";
     };
-    name = "electron-builder";
     license = "MIT";
-    publisher = "idleberg";
+    name = "electron-builder";
     description = "Build system for Electron Builder";
+    publisher = "idleberg";
   };
   idleberg-emoji-code = {
     pname = "idleberg-emoji-code";
@@ -10124,10 +10148,10 @@
       url = "https://open-vsx.org/api/idleberg/emoji-code/0.11.1/file/idleberg.emoji-code-0.11.1.vsix";
       sha256 = "sha256-RmwpZxjc+PkUcKzBM63nmv7D3MIB9tK6DS76v7+GLzQ=";
     };
-    name = "emoji-code";
     license = "MIT";
-    publisher = "idleberg";
+    name = "emoji-code";
     description = "Snippets to insert escaped Emoji code into a variety of languages";
+    publisher = "idleberg";
   };
   idleberg-extension-api = {
     pname = "idleberg-extension-api";
@@ -10136,10 +10160,10 @@
       url = "https://open-vsx.org/api/idleberg/extension-api/0.1.2/file/idleberg.extension-api-0.1.2.vsix";
       sha256 = "sha256-MLnqQL0bh+LePnoBYBgy2dQmYRIx5XZYoD8+gXP147E=";
     };
-    name = "extension-api";
     license = "MIT";
-    publisher = "idleberg";
+    name = "extension-api";
     description = "Logs Extension API results to the output channel";
+    publisher = "idleberg";
   };
   idleberg-haskell-nsis = {
     pname = "idleberg-haskell-nsis";
@@ -10148,10 +10172,10 @@
       url = "https://open-vsx.org/api/idleberg/haskell-nsis/1.1.0/file/idleberg.haskell-nsis-1.1.0.vsix";
       sha256 = "sha256-s3huUA1reY97EeGbvq6OQZ9Ldb/J6sVB026jhdDely0=";
     };
-    name = "haskell-nsis";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "haskell-nsis";
     description = "Haskell snippets for NSIS";
+    publisher = "idleberg";
   };
   idleberg-hopscotch = {
     pname = "idleberg-hopscotch";
@@ -10160,10 +10184,10 @@
       url = "https://open-vsx.org/api/idleberg/hopscotch/0.8.2/file/idleberg.hopscotch-0.8.2.vsix";
       sha256 = "sha256-enPjMhQbx+Pq+S2//69tUTJ9k412Zy1w+zD6j6fmEcA=";
     };
-    name = "hopscotch";
     license = "CC0-1.0";
-    publisher = "idleberg";
+    name = "hopscotch";
     description = "Color scheme inspired by the Hopscotch learning platform for kids";
+    publisher = "idleberg";
   };
   idleberg-icon-fonts = {
     pname = "idleberg-icon-fonts";
@@ -10172,10 +10196,10 @@
       url = "https://open-vsx.org/api/idleberg/icon-fonts/2.5.3/file/idleberg.icon-fonts-2.5.3.vsix";
       sha256 = "sha256-iYzFr7trF5uXpse2yX/2FI6ZvhLHyNjQ9gRg7x8nOj4=";
     };
-    name = "icon-fonts";
     license = "MIT";
-    publisher = "idleberg";
+    name = "icon-fonts";
     description = "Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!";
+    publisher = "idleberg";
   };
   idleberg-icon-fonts-legacy = {
     pname = "idleberg-icon-fonts-legacy";
@@ -10184,10 +10208,10 @@
       url = "https://open-vsx.org/api/idleberg/icon-fonts-legacy/1.11.0/file/idleberg.icon-fonts-legacy-1.11.0.vsix";
       sha256 = "sha256-1N0Am7q84a3yp0H6IBU3KdotJtR9Ni5rDKHIE5kjnFk=";
     };
-    name = "icon-fonts-legacy";
     license = "MIT";
-    publisher = "idleberg";
+    name = "icon-fonts-legacy";
     description = "Snippets for deprecated icon fonts, including the entire Glyphicons Pro family, Foundation Icons 1.0 and more!";
+    publisher = "idleberg";
   };
   idleberg-innosetup = {
     pname = "idleberg-innosetup";
@@ -10196,10 +10220,10 @@
       url = "https://open-vsx.org/api/idleberg/innosetup/1.6.1/file/idleberg.innosetup-1.6.1.vsix";
       sha256 = "sha256-48NIwyECFeedp90mwBn6wlM26m/ja4qSZEHHYlRGiqY=";
     };
-    name = "innosetup";
     license = "MIT";
-    publisher = "idleberg";
+    name = "innosetup";
     description = "Language syntax, snippets and build system for Inno Setup";
+    publisher = "idleberg";
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
@@ -10208,10 +10232,10 @@
       url = "https://open-vsx.org/api/idleberg/nsis/3.50.0/file/idleberg.nsis-3.50.0.vsix";
       sha256 = "sha256-GEf8Dph7l1jlxBevHMRH/InIDkhJbAFKSwrNwbxjLJU=";
     };
-    name = "nsis";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "nsis";
     description = "Language syntax, IntelliSense and build system for Nullsoft Scriptable Install System (NSIS)";
+    publisher = "idleberg";
   };
   idleberg-nsis-plugins = {
     pname = "idleberg-nsis-plugins";
@@ -10220,10 +10244,10 @@
       url = "https://open-vsx.org/api/idleberg/nsis-plugins/1.3.1/file/idleberg.nsis-plugins-1.3.1.vsix";
       sha256 = "sha256-9KIGuUzITxmhiKVUW7LOz+wVWRLApuDLYPwm1K7TkZQ=";
     };
-    name = "nsis-plugins";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "nsis-plugins";
     description = "IntelliSense for third-party plug-ins for Nullsoft Scriptable Install System (NSIS)";
+    publisher = "idleberg";
   };
   idleberg-nsl-assembler = {
     pname = "idleberg-nsl-assembler";
@@ -10232,10 +10256,10 @@
       url = "https://open-vsx.org/api/idleberg/nsl-assembler/1.2.1/file/idleberg.nsl-assembler-1.2.1.vsix";
       sha256 = "sha256-JlFUCMyy8rUg5TEUlihcY4nbToea0xp2ri/zwQD/EOM=";
     };
-    name = "nsl-assembler";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "nsl-assembler";
     description = "Language syntax, IntelliSense and build system for nsL Assembler";
+    publisher = "idleberg";
   };
   idleberg-openvpn = {
     pname = "idleberg-openvpn";
@@ -10244,10 +10268,10 @@
       url = "https://open-vsx.org/api/idleberg/openvpn/0.2.3/file/idleberg.openvpn-0.2.3.vsix";
       sha256 = "sha256-rVOSF2mdlWxu9tl6nIcg82PnMFVioQLbNzNNZiUFCTk=";
     };
-    name = "openvpn";
     license = "MIT";
-    publisher = "idleberg";
+    name = "openvpn";
     description = "Language support and snippets for OpenVPN configuration files";
+    publisher = "idleberg";
   };
   idleberg-pynsist = {
     pname = "idleberg-pynsist";
@@ -10256,10 +10280,10 @@
       url = "https://open-vsx.org/api/idleberg/pynsist/0.11.1/file/idleberg.pynsist-0.11.1.vsix";
       sha256 = "sha256-3smxD7PWLKa/OfxTbgy6VggAtoJKG7b7sj21vVYQGDA=";
     };
-    name = "pynsist";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "pynsist";
     description = "Language support, snippets and build-system for pynsist, a tool to build Windows installers for your Python applications";
+    publisher = "idleberg";
   };
   idleberg-scummc = {
     pname = "idleberg-scummc";
@@ -10268,10 +10292,10 @@
       url = "https://open-vsx.org/api/idleberg/scummc/0.1.7/file/idleberg.scummc-0.1.7.vsix";
       sha256 = "sha256-sGG04IAgWiFft+0st2VH3tK1nQ4m8YyDLXmzRvg1ukg=";
     };
-    name = "scummc";
     license = "MIT";
-    publisher = "idleberg";
+    name = "scummc";
     description = "Syntax highlighting and snippets for ScummC";
+    publisher = "idleberg";
   };
   idleberg-sfv = {
     pname = "idleberg-sfv";
@@ -10280,10 +10304,10 @@
       url = "https://open-vsx.org/api/idleberg/sfv/0.2.0/file/idleberg.sfv-0.2.0.vsix";
       sha256 = "sha256-UrTMtTUdyLRlH/JFcmnrMtKQsVxRy+ICeLpurqptmzk=";
     };
-    name = "sfv";
     license = "MIT OR GPL-2.0";
-    publisher = "idleberg";
+    name = "sfv";
     description = "Language support for SFV files";
+    publisher = "idleberg";
   };
   idleberg-subway = {
     pname = "idleberg-subway";
@@ -10292,10 +10316,10 @@
       url = "https://open-vsx.org/api/idleberg/subway/1.1.0/file/idleberg.subway-1.1.0.vsix";
       sha256 = "sha256-UTFeBqdprCXxlY9HRozyXe+BiH1Uv3q4+8wgA6RAiv8=";
     };
-    name = "subway";
     license = "CC0-1.0";
-    publisher = "idleberg";
+    name = "subway";
     description = "A collection of color schemes based on subway maps from around the world";
+    publisher = "idleberg";
   };
   idleberg-svg-icons = {
     pname = "idleberg-svg-icons";
@@ -10304,10 +10328,10 @@
       url = "https://open-vsx.org/api/idleberg/svg-icons/0.9.0/file/idleberg.svg-icons-0.9.0.vsix";
       sha256 = "sha256-SV7ALPRo/lRkANJW5NIQEUuG9mpm+PTNDdzon2Qdhj0=";
     };
-    name = "svg-icons";
     license = "MIT";
-    publisher = "idleberg";
+    name = "svg-icons";
     description = "Snippets for popular SVG icons, including Octicons, Evil Icons, Open Iconic, SmartIcons Glyphs, and Bytesize";
+    publisher = "idleberg";
   };
   idleberg-textile = {
     pname = "idleberg-textile";
@@ -10316,10 +10340,10 @@
       url = "https://open-vsx.org/api/idleberg/textile/0.2.0/file/idleberg.textile-0.2.0.vsix";
       sha256 = "sha256-PEPxC4Eu8Pdpquz7yfAui4E9o5+FrxzV+5Uqu/cWqgA=";
     };
-    name = "textile";
     license = "MIT";
-    publisher = "idleberg";
+    name = "textile";
     description = "Syntax highlighting and snippets for the Textile markup language";
+    publisher = "idleberg";
   };
   idleberg-wordpress-salts = {
     pname = "idleberg-wordpress-salts";
@@ -10328,10 +10352,10 @@
       url = "https://open-vsx.org/api/idleberg/wordpress-salts/1.3.0/file/idleberg.wordpress-salts-1.3.0.vsix";
       sha256 = "sha256-2d49a2e7vnBNcZLQW2fGbNG3aSYEzDRlR01QO66c+Io=";
     };
-    name = "wordpress-salts";
     license = "MIT";
-    publisher = "idleberg";
+    name = "wordpress-salts";
     description = "Context-aware WordPress salts generation for PHP, YAML, DotEnv and JSON files without the need of an internet-connection";
+    publisher = "idleberg";
   };
   ikappas-composer = {
     pname = "ikappas-composer";
@@ -10340,10 +10364,10 @@
       url = "https://open-vsx.org/api/ikappas/composer/0.8.0/file/ikappas.composer-0.8.0.vsix";
       sha256 = "sha256-V48QnynIVaT+MqlW6fB+p+7UVsk/k0uacfIcQdIr1Hc=";
     };
-    name = "composer";
     license = "MIT";
-    publisher = "ikappas";
+    name = "composer";
     description = "PHP Composer for Visual Studio Code";
+    publisher = "ikappas";
   };
   ikappas-phpcs = {
     pname = "ikappas-phpcs";
@@ -10352,10 +10376,10 @@
       url = "https://open-vsx.org/api/ikappas/phpcs/1.0.5/file/ikappas.phpcs-1.0.5.vsix";
       sha256 = "sha256-2GM9o3qr3rx/reCXAenKbRHRX8tqi//X8n2EYmbWyvw=";
     };
-    name = "phpcs";
     license = "MIT";
-    publisher = "ikappas";
+    name = "phpcs";
     description = "PHP CodeSniffer for Visual Studio Code";
+    publisher = "ikappas";
   };
   iliazeus-vscode-ansi = {
     pname = "iliazeus-vscode-ansi";
@@ -10364,10 +10388,10 @@
       url = "https://open-vsx.org/api/iliazeus/vscode-ansi/1.1.2/file/iliazeus.vscode-ansi-1.1.2.vsix";
       sha256 = "sha256-sQfaykUy3bqL2QFicxR6fyZQtOXtL/BqV0dbAPMh+lA=";
     };
-    name = "vscode-ansi";
     license = "MIT";
-    publisher = "iliazeus";
+    name = "vscode-ansi";
     description = "ANSI color styling for text documents";
+    publisher = "iliazeus";
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
@@ -10376,10 +10400,10 @@
       url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.27/file/iljapostnovs.ui5plugin-0.14.27.vsix";
       sha256 = "sha256-BmaC4YOSo1yZFZd5cmuY6C1f8Nr5AhWlAjTLLRxFp/U=";
     };
-    name = "ui5plugin";
     license = "Apache-2.0";
-    publisher = "iljapostnovs";
+    name = "ui5plugin";
     description = "Extension for working with UI5 projects";
+    publisher = "iljapostnovs";
   };
   ilkka-google-java-format = {
     pname = "ilkka-google-java-format";
@@ -10388,10 +10412,10 @@
       url = "https://open-vsx.org/api/ilkka/google-java-format/1.0.2/file/ilkka.google-java-format-1.0.2.vsix";
       sha256 = "sha256-qStzM1TUX7viTKaztUrXrDHepV6RSnP3KCI+5yMAuQE=";
     };
-    name = "google-java-format";
     license = "Apache-2.0";
-    publisher = "ilkka";
+    name = "google-java-format";
     description = "Yet another simple google-java-format runner";
+    publisher = "ilkka";
   };
   illumincrotty-living-twilight = {
     pname = "illumincrotty-living-twilight";
@@ -10400,10 +10424,10 @@
       url = "https://open-vsx.org/api/illumincrotty/living-twilight/1.0.0/file/illumincrotty.living-twilight-1.0.0.vsix";
       sha256 = "sha256-mJJoAfMx5gr8N8DwmQc7J3z11YBr9QUgRRtzqRSJYpY=";
     };
-    name = "living-twilight";
     license = "MIT";
-    publisher = "illumincrotty";
+    name = "living-twilight";
     description = "A theme for the wee hours of the morning and night";
+    publisher = "illumincrotty";
   };
   influrium-haxe-jsx = {
     pname = "influrium-haxe-jsx";
@@ -10412,10 +10436,10 @@
       url = "https://open-vsx.org/api/influrium/haxe-jsx/0.0.5/file/influrium.haxe-jsx-0.0.5.vsix";
       sha256 = "sha256-K7D8W0i6LCvEzKfeJ7hvY22QfDHh1qJzpSen9toFuhU=";
     };
-    name = "haxe-jsx";
     license = "MIT";
-    publisher = "influrium";
+    name = "haxe-jsx";
     description = "Syntax highlighting for JSX macro of haxe react lib and HXX of coconut.ui and tink_hxx";
+    publisher = "influrium";
   };
   infosec-intern-yara = {
     pname = "infosec-intern-yara";
@@ -10424,10 +10448,10 @@
       url = "https://open-vsx.org/api/infosec-intern/yara/2.0.0/file/infosec-intern.yara-2.0.0.vsix";
       sha256 = "sha256-uTQlnYwED4bU2i9ObngYQeOmdYbqXqVOCFSARxONpcM=";
     };
-    name = "yara";
     license = "MIT License - full document in LICENSE.md";
-    publisher = "infosec-intern";
+    name = "yara";
     description = "Rich language support for the YARA pattern matching language";
+    publisher = "infosec-intern";
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
@@ -10436,10 +10460,10 @@
       url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.16/file/innoverio.vscode-dbt-power-user-0.5.16.vsix";
       sha256 = "sha256-C8gjsGHlbzFWuTGQ7/zc+HDFN0I6Cxt1BTOcSzBDjeA=";
     };
-    name = "vscode-dbt-power-user";
     license = "MIT";
-    publisher = "innoverio";
+    name = "vscode-dbt-power-user";
     description = "This extension makes vscode seamlessly work with dbt";
+    publisher = "innoverio";
   };
   intersystems-community-servermanager = {
     pname = "intersystems-community-servermanager";
@@ -10448,10 +10472,10 @@
       url = "https://open-vsx.org/api/intersystems-community/servermanager/0.0.4/file/intersystems-community.servermanager-0.0.4.vsix";
       sha256 = "sha256-Ph98ApG7AymARCYtEwy+WlYgexJT9By5gRVBxZRkO78=";
     };
-    name = "servermanager";
     license = "MIT";
-    publisher = "intersystems-community";
+    name = "servermanager";
     description = "Helper extension for defining connections to InterSystems servers.";
+    publisher = "intersystems-community";
   };
   intersystems-community-sqltools-intersystems-driver = {
     pname = "intersystems-community-sqltools-intersystems-driver";
@@ -10460,10 +10484,10 @@
       url = "https://open-vsx.org/api/intersystems-community/sqltools-intersystems-driver/0.1.1/file/intersystems-community.sqltools-intersystems-driver-0.1.1.vsix";
       sha256 = "sha256-GawtupfsNujCg06JDkmAYCTx/S40ss3S9c5W4fAVC2Y=";
     };
-    name = "sqltools-intersystems-driver";
     license = "MIT";
-    publisher = "intersystems-community";
+    name = "sqltools-intersystems-driver";
     description = "SQLTools Driver for InterSystems IRIS";
+    publisher = "intersystems-community";
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
@@ -10472,10 +10496,10 @@
       url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.8.0/file/intersystems-community.vscode-objectscript-1.8.0.vsix";
       sha256 = "sha256-KLVawyy0oJN9Vc1QsS2YNkCNrjrKw8CI+1S00pKo3F0=";
     };
-    name = "vscode-objectscript";
     license = "MIT";
-    publisher = "intersystems-community";
+    name = "vscode-objectscript";
     description = "InterSystems ObjectScript language support for Visual Studio Code";
+    publisher = "intersystems-community";
   };
   iocave-customize-ui = {
     pname = "iocave-customize-ui";
@@ -10484,10 +10508,10 @@
       url = "https://open-vsx.org/api/iocave/customize-ui/0.1.61/file/iocave.customize-ui-0.1.61.vsix";
       sha256 = "sha256-C8VoUgUtpS3BaO+y4Scc1hEC1oISx662lnwobknno3I=";
     };
-    name = "customize-ui";
     license = "MIT";
-    publisher = "iocave";
+    name = "customize-ui";
     description = "Advanced VSCode user interface customizations. Very experimental.";
+    publisher = "iocave";
   };
   iocave-monkey-patch = {
     pname = "iocave-monkey-patch";
@@ -10496,10 +10520,10 @@
       url = "https://open-vsx.org/api/iocave/monkey-patch/0.1.16/file/iocave.monkey-patch-0.1.16.vsix";
       sha256 = "sha256-LHkP8KNtKOTyW6ABRtejOIRe9W2sbsEQajeuIkYX8Bw=";
     };
-    name = "monkey-patch";
     license = "MIT";
-    publisher = "iocave";
+    name = "monkey-patch";
     description = "Inject custom javascript into vscode";
+    publisher = "iocave";
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
@@ -10508,10 +10532,10 @@
       url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.1/file/ionutvmi.path-autocomplete-1.19.1.vsix";
       sha256 = "sha256-sHuuqfD33j/FZlfWrS/9ENtbCFzCj1jtFe4W8XLMqPs=";
     };
-    name = "path-autocomplete";
     license = "MIT";
-    publisher = "ionutvmi";
+    name = "path-autocomplete";
     description = "Provides path completion for visual studio code.";
+    publisher = "ionutvmi";
   };
   ionutvmi-reg = {
     pname = "ionutvmi-reg";
@@ -10520,10 +10544,10 @@
       url = "https://open-vsx.org/api/ionutvmi/reg/1.1.0/file/ionutvmi.reg-1.1.0.vsix";
       sha256 = "sha256-EIK7WHs+6ffVwR/2fZ8EuMQYxKIcLIaLxTjxZQ7ylxQ=";
     };
-    name = "reg";
     license = "MIT";
-    publisher = "ionutvmi";
+    name = "reg";
     description = "Windows Registry Script (.reg) Language package for VSCode";
+    publisher = "ionutvmi";
   };
   ipedrazas-kubernetes-snippets = {
     pname = "ipedrazas-kubernetes-snippets";
@@ -10532,10 +10556,10 @@
       url = "https://open-vsx.org/api/ipedrazas/kubernetes-snippets/0.1.9/file/ipedrazas.kubernetes-snippets-0.1.9.vsix";
       sha256 = "sha256-+LpJPMKhuZZWjteHPSitsB9TfrAyxqGxlItqR9lo+9Q=";
     };
-    name = "kubernetes-snippets";
     license = "MIT";
-    publisher = "ipedrazas";
+    name = "kubernetes-snippets";
     description = "Code snippets of kubernetes for Visual Studio Code.";
+    publisher = "ipedrazas";
   };
   irispixel-dartsass = {
     pname = "irispixel-dartsass";
@@ -10544,10 +10568,10 @@
       url = "https://open-vsx.org/api/irispixel/dartsass/0.9.2/file/irispixel.dartsass-0.9.2.vsix";
       sha256 = "sha256-0T7fuLbmNCt7zQDGmPesuR8Ew44/iomoGGNfeSFl96Q=";
     };
-    name = "dartsass";
     license = "MIT";
-    publisher = "irispixel";
+    name = "dartsass";
     description = "Compile Sass and Scss files using DartSass Compiler - Visual Studio Code (vsce) plugin";
+    publisher = "irispixel";
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
@@ -10556,10 +10580,10 @@
       url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.8/file/isg-cnc.vscode-isg-cnc-0.2.8.vsix";
       sha256 = "sha256-+J57MSn6RZFGsqLnjs3kRXyenzK9WmRJ8MdjA7hLb+4=";
     };
-    name = "vscode-isg-cnc";
     license = "MIT";
-    publisher = "isg-cnc";
+    name = "vscode-isg-cnc";
     description = "Support for ISG-CNC NC-Code";
+    publisher = "isg-cnc";
   };
   itemis-xtext-vscode-example = {
     pname = "itemis-xtext-vscode-example";
@@ -10568,10 +10592,10 @@
       url = "https://open-vsx.org/api/itemis/xtext-vscode-example/0.0.30/file/itemis.xtext-vscode-example-0.0.30.vsix";
       sha256 = "sha256-xKEK4icuc+6Q5Uj1rf1t9flWCOIApxiXOry/RvkPKGw=";
     };
-    name = "xtext-vscode-example";
     license = "EPL-1.0";
-    publisher = "itemis";
+    name = "xtext-vscode-example";
     description = "A simple DSL example for VS Code";
+    publisher = "itemis";
   };
   iterative-dvc = {
     pname = "iterative-dvc";
@@ -10580,10 +10604,10 @@
       url = "https://open-vsx.org/api/iterative/dvc/0.2.22/file/iterative.dvc-0.2.22.vsix";
       sha256 = "sha256-pD3Rh0kCEQ22bqgdd591C2Wd8kmntmpYshUB7s2bCMA=";
     };
-    name = "dvc";
     license = "Apache-2.0";
-    publisher = "iterative";
+    name = "dvc";
     description = "Machine learning experiment management with tracking, plots, and data versioning.";
+    publisher = "iterative";
   };
   itsjonq-owlet = {
     pname = "itsjonq-owlet";
@@ -10592,10 +10616,10 @@
       url = "https://open-vsx.org/api/itsjonq/owlet/0.1.22/file/itsjonq.owlet-0.1.22.vsix";
       sha256 = "sha256-hoKQ1jnDkEn/eY+9le1V/89p63qgRsboGj1SvRMRRIo=";
     };
-    name = "owlet";
     license = "MIT";
-    publisher = "itsjonq";
+    name = "owlet";
     description = "A series of simple VSCode Theme";
+    publisher = "itsjonq";
   };
   itspngu-jsonnet-format = {
     pname = "itspngu-jsonnet-format";
@@ -10604,10 +10628,10 @@
       url = "https://open-vsx.org/api/itspngu/jsonnet-format/0.4.0/file/itspngu.jsonnet-format-0.4.0.vsix";
       sha256 = "sha256-FAmEvcA3hwTH9ciJfiQ4mXBYmLco5jAzV6nt4HVTk7o=";
     };
-    name = "jsonnet-format";
     license = "MIT";
-    publisher = "itspngu";
+    name = "jsonnet-format";
     description = "Provides jsonnet formatting support for VScode/VScodium.";
+    publisher = "itspngu";
   };
   ivangabriele-vscode-git-add-and-commit = {
     pname = "ivangabriele-vscode-git-add-and-commit";
@@ -10616,10 +10640,10 @@
       url = "https://open-vsx.org/api/ivangabriele/vscode-git-add-and-commit/2.1.1/file/ivangabriele.vscode-git-add-and-commit-2.1.1.vsix";
       sha256 = "sha256-vSrBOf9MP9zAkVLJvwJjv+zf9AbbpbdL06ifwkrIBMM=";
     };
-    name = "vscode-git-add-and-commit";
     license = "MIT";
-    publisher = "ivangabriele";
+    name = "vscode-git-add-and-commit";
     description = "Automate your commit messages & your Git workflow.";
+    publisher = "ivangabriele";
   };
   jacobjohnston-encounterplus-markdown = {
     pname = "jacobjohnston-encounterplus-markdown";
@@ -10628,10 +10652,10 @@
       url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.61/file/jacobjohnston.encounterplus-markdown-1.0.61.vsix";
       sha256 = "sha256-glb3KVeBpb6JR2LAT1cwoR0hdAU+5CYlCNLwEMnH/m0=";
     };
-    name = "encounterplus-markdown";
     license = "CC0-1.0";
-    publisher = "jacobjohnston";
+    name = "encounterplus-markdown";
     description = "Renders markdown as it would appear in EncounterPlus";
+    publisher = "jacobjohnston";
   };
   jallen7usa-vscode-cue-fmt = {
     pname = "jallen7usa-vscode-cue-fmt";
@@ -10640,10 +10664,10 @@
       url = "https://open-vsx.org/api/jallen7usa/vscode-cue-fmt/0.1.1/file/jallen7usa.vscode-cue-fmt-0.1.1.vsix";
       sha256 = "sha256-M2X407lQ9tgZx+gXgGVC8jB6CiNIPsiJ4iwnMg7+iQc=";
     };
-    name = "vscode-cue-fmt";
     license = "Apache-2.0";
-    publisher = "jallen7usa";
+    name = "vscode-cue-fmt";
     description = "Add auto-formatting for CUE Lang files";
+    publisher = "jallen7usa";
   };
   jamesinaxx-vscode-devaffirmations = {
     pname = "jamesinaxx-vscode-devaffirmations";
@@ -10652,10 +10676,10 @@
       url = "https://open-vsx.org/api/jamesinaxx/vscode-devaffirmations/1.1.5/file/jamesinaxx.vscode-devaffirmations-1.1.5.vsix";
       sha256 = "sha256-J2QJstlUC4Mr21rewaFMdBfUdRgdTz3T/nMcjKDY0yc=";
     };
-    name = "vscode-devaffirmations";
     license = "MIT";
-    publisher = "jamesinaxx";
+    name = "vscode-devaffirmations";
     description = "Reminds you of what an amazing developer you are through notifications that run on startup and through a command";
+    publisher = "jamesinaxx";
   };
   jamestiotio-compstruct-vscode = {
     pname = "jamestiotio-compstruct-vscode";
@@ -10664,10 +10688,10 @@
       url = "https://open-vsx.org/api/jamestiotio/compstruct-vscode/0.2.11/file/jamestiotio.compstruct-vscode-0.2.11.vsix";
       sha256 = "sha256-eV6eC7Xdk/RQMq1KnUOEXsAQMyweQEMMmwFMUa6bM/Q=";
     };
-    name = "compstruct-vscode";
     license = "MIT";
-    publisher = "jamestiotio";
+    name = "compstruct-vscode";
     description = "VSCode Extension for Computation Structures Courseware (jsim, tmsim, bsim)";
+    publisher = "jamestiotio";
   };
   janisdd-vscode-edit-csv = {
     pname = "janisdd-vscode-edit-csv";
@@ -10676,10 +10700,10 @@
       url = "https://open-vsx.org/api/janisdd/vscode-edit-csv/0.6.10/file/janisdd.vscode-edit-csv-0.6.10.vsix";
       sha256 = "sha256-WSLfIRMbZAhjivGuV+tcaFZ87Sq475JoD/Nof7bT7Gk=";
     };
-    name = "vscode-edit-csv";
     license = "MIT";
-    publisher = "janisdd";
+    name = "vscode-edit-csv";
     description = "extension to edit csv files with a table ui";
+    publisher = "janisdd";
   };
   jansim-solarized-sunset = {
     pname = "jansim-solarized-sunset";
@@ -10688,10 +10712,10 @@
       url = "https://open-vsx.org/api/jansim/solarized-sunset/1.4.1/file/jansim.solarized-sunset-1.4.1.vsix";
       sha256 = "sha256-Uh309biio+VEC7Nui9hQnr3IIO4kv/OgN0g7VXQ2sEM=";
     };
-    name = "solarized-sunset";
     license = "MIT";
-    publisher = "jansim";
+    name = "solarized-sunset";
     description = "A flat theme based on Solarized Dark";
+    publisher = "jansim";
   };
   jaspergeer-docmachine = {
     pname = "jaspergeer-docmachine";
@@ -10700,10 +10724,10 @@
       url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.4/file/jaspergeer.docmachine-1.1.4.vsix";
       sha256 = "sha256-arnTVcOwTZdWXwdefxkjOVWHRxXXjddrXhD8Jekwg9E=";
     };
-    name = "docmachine";
     license = "MIT";
-    publisher = "jaspergeer";
+    name = "docmachine";
     description = "On the fly documentation generator";
+    publisher = "jaspergeer";
   };
   jaspernorth-vscode-pigments = {
     pname = "jaspernorth-vscode-pigments";
@@ -10712,10 +10736,10 @@
       url = "https://open-vsx.org/api/jaspernorth/vscode-pigments/2.0.0/file/jaspernorth.vscode-pigments-2.0.0.vsix";
       sha256 = "sha256-Qh9+8bd3Q1cnJpi7F56j2k1Eu5XPQ6FrLHzdHJwEq0w=";
     };
-    name = "vscode-pigments";
     license = "MIT";
-    publisher = "jaspernorth";
+    name = "vscode-pigments";
     description = "Previews colors used inside the editor";
+    publisher = "jaspernorth";
   };
   jbenden-c-cpp-flylint = {
     pname = "jbenden-c-cpp-flylint";
@@ -10724,10 +10748,10 @@
       url = "https://open-vsx.org/api/jbenden/c-cpp-flylint/1.11.0/file/jbenden.c-cpp-flylint-1.11.0.vsix";
       sha256 = "sha256-pkBYvGu1WJVRS2l4snwzTaaiQVXWCo1UCigx8PHW00s=";
     };
-    name = "c-cpp-flylint";
     license = "MIT";
-    publisher = "jbenden";
+    name = "c-cpp-flylint";
     description = "An advanced, modern, static analysis extension for C/C++ that supports a number of back-end analyzer programs.";
+    publisher = "jbenden";
   };
   jdinhlife-gruvbox = {
     pname = "jdinhlife-gruvbox";
@@ -10736,10 +10760,10 @@
       url = "https://open-vsx.org/api/jdinhlife/gruvbox/1.6.0/file/jdinhlife.gruvbox-1.6.0.vsix";
       sha256 = "sha256-A6QiEjyXN8x7+baGTD0qYiFFlK0nR83HyjRTRwI7RTQ=";
     };
-    name = "gruvbox";
     license = "MIT";
-    publisher = "jdinhlife";
+    name = "gruvbox";
     description = "Gruvbox Theme";
+    publisher = "jdinhlife";
   };
   jeandeaual-lilypond-syntax = {
     pname = "jeandeaual-lilypond-syntax";
@@ -10748,10 +10772,10 @@
       url = "https://open-vsx.org/api/jeandeaual/lilypond-syntax/0.1.1/file/jeandeaual.lilypond-syntax-0.1.1.vsix";
       sha256 = "sha256-Lo4Opa9PaMlCxLRx+6n6r2f/El2+N0gEMAO6cd9l7Fo=";
     };
-    name = "lilypond-syntax";
     license = "CC-BY-NC-3.0";
-    publisher = "jeandeaual";
+    name = "lilypond-syntax";
     description = "Adds support for LilyPond syntax highlighting (including embedded Scheme).";
+    publisher = "jeandeaual";
   };
   jeandeaual-noir = {
     pname = "jeandeaual-noir";
@@ -10760,10 +10784,10 @@
       url = "https://open-vsx.org/api/jeandeaual/noir/0.0.2/file/jeandeaual.noir-0.0.2.vsix";
       sha256 = "sha256-KgJbMmHaTzr+w06Vu4kxruq1SHCjRKFK2mToppgffao=";
     };
-    name = "noir";
     license = "MIT";
-    publisher = "jeandeaual";
+    name = "noir";
     description = "Pure black theme for Visual Studio Code";
+    publisher = "jeandeaual";
   };
   jeandeaual-scheme = {
     pname = "jeandeaual-scheme";
@@ -10772,10 +10796,10 @@
       url = "https://open-vsx.org/api/jeandeaual/scheme/0.2.0/file/jeandeaual.scheme-0.2.0.vsix";
       sha256 = "sha256-ddehU7YeHv62QjZiTk0HV9wHgz8mVDuyMpH/w89bh6s=";
     };
-    name = "scheme";
     license = "MIT";
-    publisher = "jeandeaual";
+    name = "scheme";
     description = "Adds support for Scheme syntax highlighting.";
+    publisher = "jeandeaual";
   };
   jeanp413-smoketest-check-web = {
     pname = "jeanp413-smoketest-check-web";
@@ -10784,10 +10808,10 @@
       url = "https://open-vsx.org/api/jeanp413/smoketest-check-web/0.0.3/file/jeanp413.smoketest-check-web-0.0.3.vsix";
       sha256 = "sha256-6bPIZYn8k4y9P4jIl6Vjl9iG0joIPLB/dt7W4ioIaOo=";
     };
-    name = "smoketest-check-web";
     license = "MIT";
-    publisher = "jeanp413";
+    name = "smoketest-check-web";
     description = "A test extension used for smoke testing VS Code Web Extensions UI";
+    publisher = "jeanp413";
   };
   jeanp413-test-java-extension-pack = {
     pname = "jeanp413-test-java-extension-pack";
@@ -10796,10 +10820,10 @@
       url = "https://open-vsx.org/api/jeanp413/test-java-extension-pack/0.0.1/file/jeanp413.test-java-extension-pack-0.0.1.vsix";
       sha256 = "sha256-cU48EXMNexUxdNMffyoDwTCTE8UqLS7NJTre7HPFpLw=";
     };
-    name = "test-java-extension-pack";
     license = "MIT";
-    publisher = "jeanp413";
+    name = "test-java-extension-pack";
     description = "Test Java extension pack";
+    publisher = "jeanp413";
   };
   jebbs-markdown-extended = {
     pname = "jebbs-markdown-extended";
@@ -10808,10 +10832,10 @@
       url = "https://open-vsx.org/api/jebbs/markdown-extended/1.1.1/file/jebbs.markdown-extended-1.1.1.vsix";
       sha256 = "sha256-Io+eGyWDHLOnk/uLzPPxeO+js9AZ3srdiFwFZEUsbOo=";
     };
-    name = "markdown-extended";
     license = "MIT";
-    publisher = "jebbs";
+    name = "markdown-extended";
     description = "Extended syntaxes to built-in markdown & What you see is what you get exporter.";
+    publisher = "jebbs";
   };
   jebbs-plantuml = {
     pname = "jebbs-plantuml";
@@ -10820,10 +10844,10 @@
       url = "https://open-vsx.org/api/jebbs/plantuml/2.17.2/file/jebbs.plantuml-2.17.2.vsix";
       sha256 = "sha256-0jEd1qcOIIM7eDYUVLM6+tnZtgjpZVr9iFznJO1dfEA=";
     };
-    name = "plantuml";
     license = "MIT";
-    publisher = "jebbs";
+    name = "plantuml";
     description = "Rich PlantUML support for Visual Studio Code.";
+    publisher = "jebbs";
   };
   jeff-hykin-better-dockerfile-syntax = {
     pname = "jeff-hykin-better-dockerfile-syntax";
@@ -10832,10 +10856,10 @@
       url = "https://open-vsx.org/api/jeff-hykin/better-dockerfile-syntax/1.0.2/file/jeff-hykin.better-dockerfile-syntax-1.0.2.vsix";
       sha256 = "sha256-FaF+rhtAoWslmBoxet8rINyQlMxNl8kX1EE89ymnCcQ=";
     };
-    name = "better-dockerfile-syntax";
     license = "MIT";
-    publisher = "jeff-hykin";
+    name = "better-dockerfile-syntax";
     description = "An update to the syntax of Dockerfile";
+    publisher = "jeff-hykin";
   };
   jeppeandersen-vscode-kafka = {
     pname = "jeppeandersen-vscode-kafka";
@@ -10844,10 +10868,10 @@
       url = "https://open-vsx.org/api/jeppeandersen/vscode-kafka/0.14.0/file/jeppeandersen.vscode-kafka-0.14.0.vsix";
       sha256 = "sha256-R+7iztnmvnHR3T7nKBxpOF1f7IWt6vbN3yAPgZSUvlc=";
     };
-    name = "vscode-kafka";
     license = "MIT";
-    publisher = "jeppeandersen";
+    name = "vscode-kafka";
     description = "Interact with Apache Kafka\174 directly in VS Code";
+    publisher = "jeppeandersen";
   };
   jeroen-meijer-pubspec-assist = {
     pname = "jeroen-meijer-pubspec-assist";
@@ -10856,10 +10880,10 @@
       url = "https://open-vsx.org/api/jeroen-meijer/pubspec-assist/2.3.2/file/jeroen-meijer.pubspec-assist-2.3.2.vsix";
       sha256 = "sha256-FwP1Eu7aASOSlb9NuVUOFyeFNPh+avLjLpwdsZYsNEs=";
     };
-    name = "pubspec-assist";
     license = "MIT";
-    publisher = "jeroen-meijer";
+    name = "pubspec-assist";
     description = "Easily add and update dependencies to your Dart and Flutter project.";
+    publisher = "jeroen-meijer";
   };
   jerrygoyal-shortcut-menu-bar = {
     pname = "jerrygoyal-shortcut-menu-bar";
@@ -10868,10 +10892,10 @@
       url = "https://open-vsx.org/api/jerrygoyal/shortcut-menu-bar/3.0.4/file/jerrygoyal.shortcut-menu-bar-3.0.4.vsix";
       sha256 = "sha256-P5lTGopDGDvZ+QNpWGuJGGZfz110kzgWUtWybnHKfPQ=";
     };
-    name = "shortcut-menu-bar";
     license = "GPL-3.0-or-later";
-    publisher = "jerrygoyal";
+    name = "shortcut-menu-bar";
     description = "Add handy buttons like beautify, show opened files, save, toggle terminal, activity bar etc to editor menu bar. User-defined buttons are also possible.";
+    publisher = "jerrygoyal";
   };
   jetmartin-apicurio = {
     pname = "jetmartin-apicurio";
@@ -10880,10 +10904,10 @@
       url = "https://open-vsx.org/api/jetmartin/apicurio/0.1.0/file/jetmartin.apicurio-0.1.0.vsix";
       sha256 = "sha256-71FaX7+ezGKYWDCSaHiaNm/lrSO+DeFH7oyqGVjzCSM=";
     };
-    name = "apicurio";
     license = "MIT";
-    publisher = "jetmartin";
+    name = "apicurio";
     description = "Explore Apicurio registry content.";
+    publisher = "jetmartin";
   };
   jetmartin-bats = {
     pname = "jetmartin-bats";
@@ -10892,10 +10916,10 @@
       url = "https://open-vsx.org/api/jetmartin/bats/0.1.9/file/jetmartin.bats-0.1.9.vsix";
       sha256 = "sha256-utlEPLuBWabJkWcG1l9ICyUIXxx5ws6PKaU5hhUWfRU=";
     };
-    name = "bats";
     license = "MIT";
-    publisher = "jetmartin";
+    name = "bats";
     description = "Bats (Bash Automated Testing System) language support for VSCode.";
+    publisher = "jetmartin";
   };
   jianbingfang-dupchecker = {
     pname = "jianbingfang-dupchecker";
@@ -10904,10 +10928,10 @@
       url = "https://open-vsx.org/api/jianbingfang/dupchecker/0.1.7/file/jianbingfang.dupchecker-0.1.7.vsix";
       sha256 = "sha256-8z44CrX3zhXPyu2Ea/P7E5PlM3e1NK2roT/uqH80qzg=";
     };
-    name = "dupchecker";
     license = "MIT";
-    publisher = "jianbingfang";
+    name = "dupchecker";
     description = "Check duplicate lines and remove them if you need to keep the unique lines only";
+    publisher = "jianbingfang";
   };
   jigar-patel-OdooSnippets = {
     pname = "jigar-patel-OdooSnippets";
@@ -10916,10 +10940,10 @@
       url = "https://open-vsx.org/api/jigar-patel/OdooSnippets/1.5.0/file/jigar-patel.OdooSnippets-1.5.0.vsix";
       sha256 = "sha256-mGnAcHLOhTj3WGXuhGFUS3uJhDB7CJkQANpERVH5hg4=";
     };
-    name = "OdooSnippets";
     license = "MIT";
-    publisher = "jigar-patel";
+    name = "OdooSnippets";
     description = "Snippets for Odoo developer";
+    publisher = "jigar-patel";
   };
   jkillian-custom-local-formatters = {
     pname = "jkillian-custom-local-formatters";
@@ -10928,10 +10952,10 @@
       url = "https://open-vsx.org/api/jkillian/custom-local-formatters/0.0.4/file/jkillian.custom-local-formatters-0.0.4.vsix";
       sha256 = "sha256-9ZEwtn7enzUDvVP8EjGDM0V7cS+d6fHFMwi7VA6zuN4=";
     };
-    name = "custom-local-formatters";
     license = "MIT";
-    publisher = "jkillian";
+    name = "custom-local-formatters";
     description = "Allows users to register custom local formatters for any language.";
+    publisher = "jkillian";
   };
   jnbt-vscode-rufo = {
     pname = "jnbt-vscode-rufo";
@@ -10940,10 +10964,10 @@
       url = "https://open-vsx.org/api/jnbt/vscode-rufo/0.0.4/file/jnbt.vscode-rufo-0.0.4.vsix";
       sha256 = "sha256-YMLUElHvjBKwfbG0dfxzbYTmFKYQzZE1nXQMLMvEH2Q=";
     };
-    name = "vscode-rufo";
     license = "MIT";
-    publisher = "jnbt";
+    name = "vscode-rufo";
     description = "VS Code plugin for ruby-formatter/rufo";
+    publisher = "jnbt";
   };
   jnoortheen-nix-ide = {
     pname = "jnoortheen-nix-ide";
@@ -10952,10 +10976,10 @@
       url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.20/file/jnoortheen.nix-ide-0.1.20.vsix";
       sha256 = "sha256-GIoklDi0XVZ6rUdIhi7MTX1lCQdx0wpZx7gcCGoIizE=";
     };
-    name = "nix-ide";
     license = "MIT";
-    publisher = "jnoortheen";
+    name = "nix-ide";
     description = "Nix language support with formatting and error report.";
+    publisher = "jnoortheen";
   };
   jnoortheen-xonsh = {
     pname = "jnoortheen-xonsh";
@@ -10964,10 +10988,10 @@
       url = "https://open-vsx.org/api/jnoortheen/xonsh/0.2.4/file/jnoortheen.xonsh-0.2.4.vsix";
       sha256 = "sha256-hC9owN/9gS0Y61RyKDS+mGsyXMj4mUuj2eAiYzm9XiM=";
     };
-    name = "xonsh";
     license = "MIT";
-    publisher = "jnoortheen";
+    name = "xonsh";
     description = "Xonsh language support.";
+    publisher = "jnoortheen";
   };
   joaopalmeiro-icons-octicons = {
     pname = "joaopalmeiro-icons-octicons";
@@ -10976,10 +11000,10 @@
       url = "https://open-vsx.org/api/joaopalmeiro/icons-octicons/0.1.0/file/joaopalmeiro.icons-octicons-0.1.0.vsix";
       sha256 = "sha256-79V7hh+SBVFGIyZJxfzZF4YDyctA8dVejEGdSXXyIYw=";
     };
-    name = "icons-octicons";
     license = "MIT";
-    publisher = "joaopalmeiro";
+    name = "icons-octicons";
     description = "Octicons Product Icons for VS Code";
+    publisher = "joaopalmeiro";
   };
   jock-svg = {
     pname = "jock-svg";
@@ -10988,10 +11012,10 @@
       url = "https://open-vsx.org/api/jock/svg/1.4.17/file/jock.svg-1.4.17.vsix";
       sha256 = "sha256-E3XBN+F1Yg9dBpsLaMBWbpicpPLdKSe6xM9zlWwN5as=";
     };
-    name = "svg";
     license = "MIT";
-    publisher = "jock";
+    name = "svg";
     description = "SVG Coding, Minify, Pretty, Preview All-In-One";
+    publisher = "jock";
   };
   joelday-docthis = {
     pname = "joelday-docthis";
@@ -11000,10 +11024,10 @@
       url = "https://open-vsx.org/api/joelday/docthis/0.8.2/file/joelday.docthis-0.8.2.vsix";
       sha256 = "sha256-5Wgq8Crl+7UADKoA9F2bpPJn/+B5rmkXauaBCev+fXE=";
     };
-    name = "docthis";
     license = "MIT";
-    publisher = "joelday";
+    name = "docthis";
     description = "Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.";
+    publisher = "joelday";
   };
   johnbillion-vscode-wordpress-hooks = {
     pname = "johnbillion-vscode-wordpress-hooks";
@@ -11012,10 +11036,10 @@
       url = "https://open-vsx.org/api/johnbillion/vscode-wordpress-hooks/1.0.0/file/johnbillion.vscode-wordpress-hooks-1.0.0.vsix";
       sha256 = "sha256-0oYIvCBMgKIzbjoZYDoejlUwXeK0bwwiVMdy642XRmc=";
     };
-    name = "vscode-wordpress-hooks";
     license = "GPL-3.0-or-later";
-    publisher = "johnbillion";
+    name = "vscode-wordpress-hooks";
     description = "IntelliSense and autocompletion for WordPress hooks, actions, and filters";
+    publisher = "johnbillion";
   };
   johnpapa-Angular2 = {
     pname = "johnpapa-Angular2";
@@ -11024,10 +11048,10 @@
       url = "https://open-vsx.org/api/johnpapa/Angular2/13.0.0/file/johnpapa.Angular2-13.0.0.vsix";
       sha256 = "sha256-w32sVUNdB+JUiyT4qP23UFaa8lReiBmGgPCoHhZhbFM=";
     };
-    name = "Angular2";
     license = "MIT";
-    publisher = "johnpapa";
+    name = "Angular2";
     description = "Angular version 13 snippets by John Papa";
+    publisher = "johnpapa";
   };
   johnpapa-vscode-peacock = {
     pname = "johnpapa-vscode-peacock";
@@ -11036,10 +11060,10 @@
       url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.0.1/file/johnpapa.vscode-peacock-4.0.1.vsix";
       sha256 = "sha256-8QDFKe+cKJfSgZrsn5r5LjPzqeV+tKC74xI83hhxYrQ=";
     };
-    name = "vscode-peacock";
     license = "MIT";
-    publisher = "johnpapa";
+    name = "vscode-peacock";
     description = "Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.";
+    publisher = "johnpapa";
   };
   johnpapa-winteriscoming = {
     pname = "johnpapa-winteriscoming";
@@ -11048,10 +11072,10 @@
       url = "https://open-vsx.org/api/johnpapa/winteriscoming/1.4.4/file/johnpapa.winteriscoming-1.4.4.vsix";
       sha256 = "sha256-qdnW3VKkIAuT7SzCa5CNYk3lfSItRJUxAam917h5KS0=";
     };
-    name = "winteriscoming";
     license = "MIT";
-    publisher = "johnpapa";
+    name = "winteriscoming";
     description = "Preferred dark/light themes by John Papa";
+    publisher = "johnpapa";
   };
   johnsoncodehk-volar = {
     pname = "johnsoncodehk-volar";
@@ -11060,10 +11084,10 @@
       url = "https://open-vsx.org/api/johnsoncodehk/volar/0.30.1/file/johnsoncodehk.volar-0.30.1.vsix";
       sha256 = "sha256-oh5YAp4TvgNd/adDMbRkl53rgLrZDnAU/UPS/YwkAqU=";
     };
-    name = "volar";
     license = "MIT";
-    publisher = "johnsoncodehk";
+    name = "volar";
     description = "Language support for Vue 3";
+    publisher = "johnsoncodehk";
   };
   johnsoncodehk-vscode-typescript-vue-plugin = {
     pname = "johnsoncodehk-vscode-typescript-vue-plugin";
@@ -11072,10 +11096,10 @@
       url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin/0.34.11/file/johnsoncodehk.vscode-typescript-vue-plugin-0.34.11.vsix";
       sha256 = "sha256-H4jHsNk2o0+Np0IMuL5b6KjgZSvmDTy8S+aLbmXjeK0=";
     };
-    name = "vscode-typescript-vue-plugin";
     license = "MIT";
-    publisher = "johnsoncodehk";
+    name = "vscode-typescript-vue-plugin";
     description = "Vue Plugin for TypeScript server";
+    publisher = "johnsoncodehk";
   };
   johnstoncode-svn-scm = {
     pname = "johnstoncode-svn-scm";
@@ -11084,10 +11108,10 @@
       url = "https://open-vsx.org/api/johnstoncode/svn-scm/2.15.2/file/johnstoncode.svn-scm-2.15.2.vsix";
       sha256 = "sha256-xZtU6+ouHqPbpCs9R2rAl1V0BeQ/trXKHl4CJBYleTw=";
     };
-    name = "svn-scm";
     license = "MIT";
-    publisher = "johnstoncode";
+    name = "svn-scm";
     description = "Integrated Subversion source control";
+    publisher = "johnstoncode";
   };
   jolaleye-horizon-theme-vscode = {
     pname = "jolaleye-horizon-theme-vscode";
@@ -11096,10 +11120,10 @@
       url = "https://open-vsx.org/api/jolaleye/horizon-theme-vscode/2.0.2/file/jolaleye.horizon-theme-vscode-2.0.2.vsix";
       sha256 = "sha256-JyonGnTQXB2JcagiDt8xvsLRl1s9thKewWb1QjT9Dhc=";
     };
-    name = "horizon-theme-vscode";
     license = "MIT";
-    publisher = "jolaleye";
+    name = "horizon-theme-vscode";
     description = "A beautifully warm dual theme for Visual Studio Code";
+    publisher = "jolaleye";
   };
   joneug-mdal = {
     pname = "joneug-mdal";
@@ -11108,10 +11132,10 @@
       url = "https://open-vsx.org/api/joneug/mdal/0.4.1/file/joneug.mdal-0.4.1.vsix";
       sha256 = "sha256-hr5RCFWURmXnhYR8IcGA9WHvmAyrzZypIRQ9aE6Q8ns=";
     };
-    name = "mdal";
     license = "Apache-2.0";
-    publisher = "joneug";
+    name = "mdal";
     description = "Language Extension adding support for mdAL";
+    publisher = "joneug";
   };
   jonhue-vscode-cyp = {
     pname = "jonhue-vscode-cyp";
@@ -11120,10 +11144,10 @@
       url = "https://open-vsx.org/api/jonhue/vscode-cyp/1.4.0/file/jonhue.vscode-cyp-1.4.0.vsix";
       sha256 = "sha256-iqHecrmW/UKgGJ2pfcwzGTtZCi2UpFsCFf+Fa8T9vUg=";
     };
-    name = "vscode-cyp";
     license = "MIT";
-    publisher = "jonhue";
+    name = "vscode-cyp";
     description = "cyp language package";
+    publisher = "jonhue";
   };
   jorol-perl-completions = {
     pname = "jorol-perl-completions";
@@ -11132,10 +11156,10 @@
       url = "https://open-vsx.org/api/jorol/perl-completions/0.0.2/file/jorol.perl-completions-0.0.2.vsix";
       sha256 = "sha256-3xQCJQ+r8aRVXlGSXvMw4t7o/tIdr5JNBYfY0d8k+9I=";
     };
-    name = "perl-completions";
     license = "";
-    publisher = "jorol";
+    name = "perl-completions";
     description = "Perl code completion snippets";
+    publisher = "jorol";
   };
   jpoissonnier-vscode-styled-components = {
     pname = "jpoissonnier-vscode-styled-components";
@@ -11144,10 +11168,10 @@
       url = "https://open-vsx.org/api/jpoissonnier/vscode-styled-components/1.7.0/file/jpoissonnier.vscode-styled-components-1.7.0.vsix";
       sha256 = "sha256-PPGIpcuwLc7MJOFtLY/2BnH/A0ZQ0SHNZDyEircCXS0=";
     };
-    name = "vscode-styled-components";
     license = "MIT";
-    publisher = "jpoissonnier";
+    name = "vscode-styled-components";
     description = "Syntax highlighting for styled-components";
+    publisher = "jpoissonnier";
   };
   jpsnee-vscode-dmbinder = {
     pname = "jpsnee-vscode-dmbinder";
@@ -11156,10 +11180,10 @@
       url = "https://open-vsx.org/api/jpsnee/vscode-dmbinder/0.5.13/file/jpsnee.vscode-dmbinder-0.5.13.vsix";
       sha256 = "sha256-N7RPMw1UwpNPj4D8T2qbdUHz2wlp4xGkOM3p8dnwX7U=";
     };
-    name = "vscode-dmbinder";
     license = "MIT";
-    publisher = "jpsnee";
+    name = "vscode-dmbinder";
     description = "Visual Studio Code extension for managing campaign documents.";
+    publisher = "jpsnee";
   };
   jq-syntax-highlighting-jq-syntax-highlighting = {
     pname = "jq-syntax-highlighting-jq-syntax-highlighting";
@@ -11168,10 +11192,10 @@
       url = "https://open-vsx.org/api/jq-syntax-highlighting/jq-syntax-highlighting/0.0.2/file/jq-syntax-highlighting.jq-syntax-highlighting-0.0.2.vsix";
       sha256 = "sha256-6sJ/56mRUhgPTuggzC7TWUkc92lpcf0AICLQJ6dNhyY=";
     };
-    name = "jq-syntax-highlighting";
     license = "MIT";
-    publisher = "jq-syntax-highlighting";
+    name = "jq-syntax-highlighting";
     description = "Syntax support for the jq JSON command-line processor.";
+    publisher = "jq-syntax-highlighting";
   };
   jroesch-lean = {
     pname = "jroesch-lean";
@@ -11180,10 +11204,10 @@
       url = "https://open-vsx.org/api/jroesch/lean/0.16.52/file/jroesch.lean-0.16.52.vsix";
       sha256 = "sha256-yKpyALgwIkVb91fkQ8KgG6GV90S2B+lKAzG8so0hUJY=";
     };
-    name = "lean";
     license = "Apache-2.0";
-    publisher = "jroesch";
+    name = "lean";
     description = "Lean 3 language support for VS Code";
+    publisher = "jroesch";
   };
   jsDelivr-jsdelivr = {
     pname = "jsDelivr-jsdelivr";
@@ -11192,10 +11216,10 @@
       url = "https://open-vsx.org/api/jsDelivr/jsdelivr/1.0.2/file/jsDelivr.jsdelivr-1.0.2.vsix";
       sha256 = "sha256-IJWIDhdOFf+BEurSClp9+bgNKtCw0awJxGLN2rx261A=";
     };
-    name = "jsdelivr";
     license = "OSL-3.0";
-    publisher = "jsDelivr";
+    name = "jsdelivr";
     description = "Quickly insert any npm package from jsDelivr CDN.";
+    publisher = "jsDelivr";
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
@@ -11204,10 +11228,10 @@
       url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.0/file/jsw.csharpextensions-1.7.0.vsix";
       sha256 = "sha256-2v7Np1lXCdzi3Im8HJp80psRI0ymzCr2vHtqiPHcbNs=";
     };
-    name = "csharpextensions";
     license = "MIT";
-    publisher = "jsw";
+    name = "csharpextensions";
     description = "C# IDE Extensions for VSCode";
+    publisher = "jsw";
   };
   juanblanco-solidity = {
     pname = "juanblanco-solidity";
@@ -11216,10 +11240,10 @@
       url = "https://open-vsx.org/api/juanblanco/solidity/0.0.133/file/juanblanco.solidity-0.0.133.vsix";
       sha256 = "sha256-Zu4DI1hJXoulpvJfyOCq/q4/SzV+hs0pNF/WEEk8W54=";
     };
-    name = "solidity";
     license = "MIT";
-    publisher = "juanblanco";
+    name = "solidity";
     description = "Ethereum Solidity Language for Visual Studio Code";
+    publisher = "juanblanco";
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
@@ -11228,10 +11252,10 @@
       url = "https://open-vsx.org/api/julialang/language-julia/1.6.17/file/julialang.language-julia-1.6.17.vsix";
       sha256 = "sha256-qhstJtS+lW36JQ+R4Ec+qNhlWYIHG207/ZeZ9cWJZrY=";
     };
-    name = "language-julia";
     license = "MIT";
-    publisher = "julialang";
+    name = "language-julia";
     description = "Julia Language Support";
+    publisher = "julialang";
   };
   julialang-language-julia-insider = {
     pname = "julialang-language-julia-insider";
@@ -11240,10 +11264,10 @@
       url = "https://open-vsx.org/api/julialang/language-julia-insider/1.3.12/file/julialang.language-julia-insider-1.3.12.vsix";
       sha256 = "sha256-NSF3kBazcdS8gEI8Hdv7M6nglr59r2S8iegsdKsnN7Y=";
     };
-    name = "language-julia-insider";
     license = "MIT";
-    publisher = "julialang";
+    name = "language-julia-insider";
     description = "Julia Language Support (Insider)";
+    publisher = "julialang";
   };
   junstyle-php-cs-fixer = {
     pname = "junstyle-php-cs-fixer";
@@ -11252,10 +11276,10 @@
       url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.2.10/file/junstyle.php-cs-fixer-0.2.10.vsix";
       sha256 = "sha256-KVEn7950P7EiNadp4DsadisbgsF9SwvfWMLd8av2dbg=";
     };
-    name = "php-cs-fixer";
     license = "ISC";
-    publisher = "junstyle";
+    name = "php-cs-fixer";
     description = "PHP CS Fixer extension for VS Code, php formatter, php code beautify tool, format html";
+    publisher = "junstyle";
   };
   justusadam-language-haskell = {
     pname = "justusadam-language-haskell";
@@ -11264,10 +11288,10 @@
       url = "https://open-vsx.org/api/justusadam/language-haskell/3.6.0/file/justusadam.language-haskell-3.6.0.vsix";
       sha256 = "sha256-Pt8CZI9wJ/bpwVFD42DIxt4vVzf5QiS1oyW7j6dUGVU=";
     };
-    name = "language-haskell";
     license = "BSD-3-Clause";
-    publisher = "justusadam";
+    name = "language-haskell";
     description = "Syntax support for the Haskell programming language.";
+    publisher = "justusadam";
   };
   k--kato-docomment = {
     pname = "k--kato-docomment";
@@ -11276,10 +11300,10 @@
       url = "https://open-vsx.org/api/k--kato/docomment/0.1.31/file/k--kato.docomment-0.1.31.vsix";
       sha256 = "sha256-K2zXyVDIQsLNc3f6ovFOg677v5Bwb13I+cBApNDkjmY=";
     };
-    name = "docomment";
     license = "MIT";
-    publisher = "k--kato";
+    name = "docomment";
     description = "Generate C# XML documentation comments for ///";
+    publisher = "k--kato";
   };
   k--kato-intellij-idea-keybindings = {
     pname = "k--kato-intellij-idea-keybindings";
@@ -11288,10 +11312,10 @@
       url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.1/file/k--kato.intellij-idea-keybindings-1.5.1.vsix";
       sha256 = "sha256-mCWutWi01CiPdm1kq/nc5Y5gMUAcOnBxqc6+IbGu4w4=";
     };
-    name = "intellij-idea-keybindings";
     license = "MIT";
-    publisher = "k--kato";
+    name = "intellij-idea-keybindings";
     description = "Port of IntelliJ IDEA Keybindings, including for WebStorm, PyCharm, PHP Storm, etc.";
+    publisher = "k--kato";
   };
   kahole-magit = {
     pname = "kahole-magit";
@@ -11300,10 +11324,10 @@
       url = "https://open-vsx.org/api/kahole/magit/0.6.29/file/kahole.magit-0.6.29.vsix";
       sha256 = "sha256-CAjevLtDqVs1QzCZDt651X/ONjW7Nz+7/gSNHxhKzhI=";
     };
-    name = "magit";
     license = "MIT";
-    publisher = "kahole";
+    name = "magit";
     description = "Magit for Visual Studio Code";
+    publisher = "kahole";
   };
   kahve-viz = {
     pname = "kahve-viz";
@@ -11312,10 +11336,10 @@
       url = "https://open-vsx.org/api/kahve/viz/1.0.0/file/kahve.viz-1.0.0.vsix";
       sha256 = "sha256-/VaWAnVxIUaGw3rPq/n3DuTFPunamHOnsf2cEaGodwg=";
     };
-    name = "viz";
     license = "MIT";
-    publisher = "kahve";
+    name = "viz";
     description = "VIZ language support for VSCode";
+    publisher = "kahve";
   };
   kaiwood-endwise = {
     pname = "kaiwood-endwise";
@@ -11324,10 +11348,10 @@
       url = "https://open-vsx.org/api/kaiwood/endwise/1.5.1/file/kaiwood.endwise-1.5.1.vsix";
       sha256 = "sha256-DmDx6XE+E2A6nStiDNzjjL4UyXC2bj3Tg7y+N6FQnts=";
     };
-    name = "endwise";
     license = "MIT";
-    publisher = "kaiwood";
+    name = "endwise";
     description = "Wisely add \"end\" in Ruby.";
+    publisher = "kaiwood";
   };
   kamadorueda-alejandra = {
     pname = "kamadorueda-alejandra";
@@ -11336,10 +11360,10 @@
       url = "https://open-vsx.org/api/kamadorueda/alejandra/1.4.0/file/kamadorueda.alejandra-1.4.0.vsix";
       sha256 = "sha256-aIEJiqRZA1W9iSGVsI3fhSpMpXAoFkFCsQTyNqRmmic=";
     };
-    name = "alejandra";
     license = "Unlicense";
-    publisher = "kamadorueda";
+    name = "alejandra";
     description = "The Uncompromising Nix Code Formatter";
+    publisher = "kamadorueda";
   };
   kamikillerto-vscode-colorize = {
     pname = "kamikillerto-vscode-colorize";
@@ -11348,10 +11372,10 @@
       url = "https://open-vsx.org/api/kamikillerto/vscode-colorize/0.11.1/file/kamikillerto.vscode-colorize-0.11.1.vsix";
       sha256 = "sha256-32gRqEaOBfVMIhtetj1wOYwU9K+BrNR4gMpGdQkzSoE=";
     };
-    name = "vscode-colorize";
     license = "Apache-2.0";
-    publisher = "kamikillerto";
+    name = "vscode-colorize";
     description = "A vscode extension to help visualize css colors in files.";
+    publisher = "kamikillerto";
   };
   kaptainmicila-gzdoom-zscript = {
     pname = "kaptainmicila-gzdoom-zscript";
@@ -11360,10 +11384,10 @@
       url = "https://open-vsx.org/api/kaptainmicila/gzdoom-zscript/1.9.1/file/kaptainmicila.gzdoom-zscript-1.9.1.vsix";
       sha256 = "sha256-VLovyN7XLLWw1b+C6g0ZqqJE37JIwBVkXvpWuN4+yQc=";
     };
-    name = "gzdoom-zscript";
     license = "MIT";
-    publisher = "kaptainmicila";
+    name = "gzdoom-zscript";
     description = "GZDoom's multiple scripting languages support (with a focus on ZScript) for VSCode (and compatible editors)";
+    publisher = "kaptainmicila";
   };
   karolis2011-dm-langclient = {
     pname = "karolis2011-dm-langclient";
@@ -11372,10 +11396,10 @@
       url = "https://open-vsx.org/api/karolis2011/dm-langclient/0.2.2/file/karolis2011.dm-langclient-0.2.2.vsix";
       sha256 = "sha256-RovJln7TOzyMuATwch9v9tLcBtff172tMwXJ0k0/Uls=";
     };
-    name = "dm-langclient";
     license = "GPL-3.0";
-    publisher = "karolis2011";
+    name = "dm-langclient";
     description = "Client for DreamMaker language server";
+    publisher = "karolis2011";
   };
   karpad2-rebol = {
     pname = "karpad2-rebol";
@@ -11384,10 +11408,10 @@
       url = "https://open-vsx.org/api/karpad2/rebol/0.1.45/file/karpad2.rebol-0.1.45.vsix";
       sha256 = "sha256-hmAd1gIz+Do14Oq8FI7zN1ei8x/A/0k40XUyg82VWd0=";
     };
-    name = "rebol";
     license = "MIT License";
-    publisher = "karpad2";
+    name = "rebol";
     description = "Syntax Coloring, Intellisense, Snippets and more";
+    publisher = "karpad2";
   };
   karunamurti-haml = {
     pname = "karunamurti-haml";
@@ -11396,10 +11420,10 @@
       url = "https://open-vsx.org/api/karunamurti/haml/1.4.0/file/karunamurti.haml-1.4.0.vsix";
       sha256 = "sha256-oRP9DVUh1PC7ssyzu1U2w3HGUsDpKoVpzW2Mci6p9bg=";
     };
-    name = "haml";
     license = "MIT";
-    publisher = "karunamurti";
+    name = "haml";
     description = "Better Haml syntax highlighting, auto close and suggestions";
+    publisher = "karunamurti";
   };
   karunamurti-rspec-snippets = {
     pname = "karunamurti-rspec-snippets";
@@ -11408,10 +11432,10 @@
       url = "https://open-vsx.org/api/karunamurti/rspec-snippets/0.0.4/file/karunamurti.rspec-snippets-0.0.4.vsix";
       sha256 = "sha256-8BbZZwXieEjIwUpN5Ayu4TeEEoNbQkRRZkqqtjp3ysE=";
     };
-    name = "rspec-snippets";
     license = "MIT";
-    publisher = "karunamurti";
+    name = "rspec-snippets";
     description = "Snippets for RSpec";
+    publisher = "karunamurti";
   };
   kasik96-latte = {
     pname = "kasik96-latte";
@@ -11420,10 +11444,10 @@
       url = "https://open-vsx.org/api/kasik96/latte/0.18.0/file/kasik96.latte-0.18.0.vsix";
       sha256 = "sha256-C0bkZ6yk4xfmb9M+8fBPn1ZZOrt9SrYhhy+EU8WqGOc=";
     };
-    name = "latte";
     license = "MIT";
-    publisher = "kasik96";
+    name = "latte";
     description = "Nette Latte + Neon support for VS Code";
+    publisher = "kasik96";
   };
   kavod-io-vscode-jest-test-adapter = {
     pname = "kavod-io-vscode-jest-test-adapter";
@@ -11432,10 +11456,10 @@
       url = "https://open-vsx.org/api/kavod-io/vscode-jest-test-adapter/0.8.1/file/kavod-io.vscode-jest-test-adapter-0.8.1.vsix";
       sha256 = "sha256-feTCcC3Ts+JsGFngVZll61vl5hOMbPQ2mbmno13zRg8=";
     };
-    name = "vscode-jest-test-adapter";
     license = "MIT";
-    publisher = "kavod-io";
+    name = "vscode-jest-test-adapter";
     description = "Run your Jest tests in the Sidebar of Visual Studio Code";
+    publisher = "kavod-io";
   };
   kdarkhan-mips = {
     pname = "kdarkhan-mips";
@@ -11444,10 +11468,10 @@
       url = "https://open-vsx.org/api/kdarkhan/mips/0.0.9/file/kdarkhan.mips-0.0.9.vsix";
       sha256 = "sha256-aeCMCLxTKslaKRKleYirEhfohXNvflPoh+GvzXGQpkw=";
     };
-    name = "mips";
     license = "MIT";
-    publisher = "kdarkhan";
+    name = "mips";
     description = "Provides syntax highlighting and snippets for MIPS assembly language";
+    publisher = "kdarkhan";
   };
   keesschollaart-vscode-home-assistant = {
     pname = "keesschollaart-vscode-home-assistant";
@@ -11456,10 +11480,10 @@
       url = "https://open-vsx.org/api/keesschollaart/vscode-home-assistant/1.30.1/file/keesschollaart.vscode-home-assistant-1.30.1.vsix";
       sha256 = "sha256-d6wVKyFfMirFMeuZrCHmxbeKZr7ohmdvRnc7i9DE0cA=";
     };
-    name = "vscode-home-assistant";
     license = "MIT";
-    publisher = "keesschollaart";
+    name = "vscode-home-assistant";
     description = " Completion for entity-id's in Home Assistant Configurations";
+    publisher = "keesschollaart";
   };
   ker0olos-ohmyker0olos = {
     pname = "ker0olos-ohmyker0olos";
@@ -11468,10 +11492,10 @@
       url = "https://open-vsx.org/api/ker0olos/ohmyker0olos/0.2.0/file/ker0olos.ohmyker0olos-0.2.0.vsix";
       sha256 = "sha256-RHF9rTgxkKLxOkGfCCUKcxHocmmTvBEe3S0qOOUngiY=";
     };
-    name = "ohmyker0olos";
     license = "MIT";
-    publisher = "ker0olos";
+    name = "ohmyker0olos";
     description = "";
+    publisher = "ker0olos";
   };
   kevgo-vscode-markdown-ide = {
     pname = "kevgo-vscode-markdown-ide";
@@ -11480,10 +11504,10 @@
       url = "https://open-vsx.org/api/kevgo/vscode-markdown-ide/0.2.1/file/kevgo.vscode-markdown-ide-0.2.1.vsix";
       sha256 = "sha256-BjCqT104epwGRK+qVlIMBWd/oq984QbepBnBf/s3xus=";
     };
-    name = "vscode-markdown-ide";
     license = "ISC";
-    publisher = "kevgo";
+    name = "vscode-markdown-ide";
     description = "IDE-grade tooling for Markdown: refactoring and autocompletion";
+    publisher = "kevgo";
   };
   kgrubb-flamingo-nebula = {
     pname = "kgrubb-flamingo-nebula";
@@ -11492,10 +11516,10 @@
       url = "https://open-vsx.org/api/kgrubb/flamingo-nebula/0.0.3/file/kgrubb.flamingo-nebula-0.0.3.vsix";
       sha256 = "sha256-OK1yLC94S2JC48R0HOlzZUxgSIn5TBHoVyVtkD70lPc=";
     };
-    name = "flamingo-nebula";
     license = "MIT";
-    publisher = "kgrubb";
+    name = "flamingo-nebula";
     description = "Flamingo Nebula color theme, heavily inspired by Flamingo Galaxy";
+    publisher = "kgrubb";
   };
   khan-two-monokai = {
     pname = "khan-two-monokai";
@@ -11504,10 +11528,10 @@
       url = "https://open-vsx.org/api/khan/two-monokai/0.1.3/file/khan.two-monokai-0.1.3.vsix";
       sha256 = "sha256-nXXv3Qy119yaNVy+9iXa7ALtCoZQ99EgjgsNNWsLmQk=";
     };
-    name = "two-monokai";
     license = "MIT";
-    publisher = "khan";
+    name = "two-monokai";
     description = "Fork of the One Monokai theme";
+    publisher = "khan";
   };
   kie-group-vscode-extension-kogito-bundle = {
     pname = "kie-group-vscode-extension-kogito-bundle";
@@ -11516,10 +11540,10 @@
       url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.19.0/file/kie-group.vscode-extension-kogito-bundle-0.19.0.vsix";
       sha256 = "sha256-AHkTHWNWCTfPzzAJhKHQnCBk8gmuzXvUD7sAvbRt0Hg=";
     };
-    name = "vscode-extension-kogito-bundle";
     license = "Apache-2.0";
-    publisher = "kie-group";
+    name = "vscode-extension-kogito-bundle";
     description = "Edit BPMN, DMN and Test Scenario files";
+    publisher = "kie-group";
   };
   kieler-klighd-vscode = {
     pname = "kieler-klighd-vscode";
@@ -11528,10 +11552,10 @@
       url = "https://open-vsx.org/api/kieler/klighd-vscode/0.2.1/file/kieler.klighd-vscode-0.2.1.vsix";
       sha256 = "sha256-ZOSJPiIn+5LGVtVArOosnoz2vvMoaDuwkCbSvboSeTo=";
     };
-    name = "klighd-vscode";
     license = "EPL-2.0";
-    publisher = "kieler";
+    name = "klighd-vscode";
     description = "KLighD diagram support for Visual Studio Code";
+    publisher = "kieler";
   };
   kieler-osgiviz = {
     pname = "kieler-osgiviz";
@@ -11540,10 +11564,10 @@
       url = "https://open-vsx.org/api/kieler/osgiviz/0.0.1/file/kieler.osgiviz-0.0.1.vsix";
       sha256 = "sha256-cgVgyHyH/Rs02KNUTt0pauV2vYzPDxgq1urorP86D8w=";
     };
-    name = "osgiviz";
     license = "EPL-2.0";
-    publisher = "kieler";
+    name = "osgiviz";
     description = "KIELER OSGiViz extension for VSCode";
+    publisher = "kieler";
   };
   kimlimjustin-jsdoc-generator = {
     pname = "kimlimjustin-jsdoc-generator";
@@ -11552,10 +11576,10 @@
       url = "https://open-vsx.org/api/kimlimjustin/jsdoc-generator/0.0.3/file/kimlimjustin.jsdoc-generator-0.0.3.vsix";
       sha256 = "sha256-g2DCDDtUnhCFDfv5nUXz94GsCraNLR2eOvw/SqifJxs=";
     };
-    name = "jsdoc-generator";
     license = "MIT";
-    publisher = "kimlimjustin";
+    name = "jsdoc-generator";
     description = "JSDoc template generator";
+    publisher = "kimlimjustin";
   };
   kisstkondoros-vscode-gutter-preview = {
     pname = "kisstkondoros-vscode-gutter-preview";
@@ -11564,10 +11588,10 @@
       url = "https://open-vsx.org/api/kisstkondoros/vscode-gutter-preview/0.30.0/file/kisstkondoros.vscode-gutter-preview-0.30.0.vsix";
       sha256 = "sha256-kSXNbiCOBTM3lM8G24H8pVZNj1mfqgT58mOKnNk8TM4=";
     };
-    name = "vscode-gutter-preview";
     license = "MIT";
-    publisher = "kisstkondoros";
+    name = "vscode-gutter-preview";
     description = "Shows image preview in the gutter and on hover";
+    publisher = "kisstkondoros";
   };
   kiteco-kite = {
     pname = "kiteco-kite";
@@ -11576,10 +11600,10 @@
       url = "https://open-vsx.org/api/kiteco/kite/0.147.0/file/kiteco.kite-0.147.0.vsix";
       sha256 = "sha256-WTf2yFSoFpUQb2RuxkD5bclZb1Ejcj7xhaaawn3L4qk=";
     };
-    name = "kite";
     license = "";
-    publisher = "kiteco";
+    name = "kite";
     description = "AI code completions for all languages, intellisense, code snippets, code signatures, and cursor-following documentation for VS Code. Kite supports .js .jsx .vue .tsx .ts .css .html .less .c .cc .cpp .cs .h .hpp .m .scala .java .kt .py .go .php .rb and .sh filetypes.";
+    publisher = "kiteco";
   };
   kleinesfilmroellchen-serenity-dsl-syntaxhighlight = {
     pname = "kleinesfilmroellchen-serenity-dsl-syntaxhighlight";
@@ -11588,10 +11612,10 @@
       url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.1.vsix";
       sha256 = "sha256-mERPCCEKRlpKSLL7+33unlT1JAqvCYY5Xo9YtC1x25w=";
     };
-    name = "serenity-dsl-syntaxhighlight";
     license = "MIT";
-    publisher = "kleinesfilmroellchen";
+    name = "serenity-dsl-syntaxhighlight";
     description = "Syntax Highlighting for the DSLs in SerenityOS";
+    publisher = "kleinesfilmroellchen";
   };
   kleinesfilmroellchen-sof-language-support = {
     pname = "kleinesfilmroellchen-sof-language-support";
@@ -11600,10 +11624,10 @@
       url = "https://open-vsx.org/api/kleinesfilmroellchen/sof-language-support/0.0.4/file/kleinesfilmroellchen.sof-language-support-0.0.4.vsix";
       sha256 = "sha256-9Z33IWQRk0mDvH5DyFR0p7PvUPfRSHr8CstHuq7eDsg=";
     };
-    name = "sof-language-support";
     license = "MIT";
-    publisher = "kleinesfilmroellchen";
+    name = "sof-language-support";
     description = "Language support for the experimental Stack with Objects and Functions programming language.";
+    publisher = "kleinesfilmroellchen";
   };
   kodetech-electron-debug = {
     pname = "kodetech-electron-debug";
@@ -11612,10 +11636,10 @@
       url = "https://open-vsx.org/api/kodetech/electron-debug/20.1.0/file/kodetech.electron-debug-20.1.0.vsix";
       sha256 = "sha256-XVWkY27fP1AhtZvf0AMYWGlxxZ0ZgNYw/LOLV7hoF7Q=";
     };
-    name = "electron-debug";
     license = "MIT";
-    publisher = "kodetech";
+    name = "electron-debug";
     description = "Debug your JavaScript code in Electron.";
+    publisher = "kodetech";
   };
   kodetech-kha = {
     pname = "kodetech-kha";
@@ -11624,10 +11648,10 @@
       url = "https://open-vsx.org/api/kodetech/kha/22.2.0/file/kodetech.kha-22.2.0.vsix";
       sha256 = "sha256-O3vL0IIqWwI/cJpNaVXvshitCUrk193icY1XIJNjU9k=";
     };
-    name = "kha";
     license = "";
-    publisher = "kodetech";
+    name = "kha";
     description = "Kha support";
+    publisher = "kodetech";
   };
   kodetech-krafix = {
     pname = "kodetech-krafix";
@@ -11636,10 +11660,10 @@
       url = "https://open-vsx.org/api/kodetech/krafix/18.7.1/file/kodetech.krafix-18.7.1.vsix";
       sha256 = "sha256-GTNhtBUhXUWe1pLx7Xr5OjnCTPp4l8toX5daaAjFIWA=";
     };
-    name = "krafix";
     license = "";
-    publisher = "kodetech";
+    name = "krafix";
     description = "krafix support";
+    publisher = "kodetech";
   };
   kokakiwi-vscode-capnproto = {
     pname = "kokakiwi-vscode-capnproto";
@@ -11648,10 +11672,10 @@
       url = "https://open-vsx.org/api/kokakiwi/vscode-capnproto/0.1.0/file/kokakiwi.vscode-capnproto-0.1.0.vsix";
       sha256 = "sha256-qBCicMuTJMvloBU43uUvRqrFUoxWulWcgcIAh8qwkd4=";
     };
-    name = "vscode-capnproto";
     license = "BSD-3-Clause";
-    publisher = "kokakiwi";
+    name = "vscode-capnproto";
     description = "";
+    publisher = "kokakiwi";
   };
   kokakiwi-vscode-just = {
     pname = "kokakiwi-vscode-just";
@@ -11660,10 +11684,10 @@
       url = "https://open-vsx.org/api/kokakiwi/vscode-just/2.1.0/file/kokakiwi.vscode-just-2.1.0.vsix";
       sha256 = "sha256-QKV34fhKFo8oq9YjqzZSbEEqvmeoCC9RAKYSH8jfoCM=";
     };
-    name = "vscode-just";
     license = "MIT";
-    publisher = "kokakiwi";
+    name = "vscode-just";
     description = "Provides syntax and recipe launcher for Just scripts.";
+    publisher = "kokakiwi";
   };
   kongeor-vsc-fennel = {
     pname = "kongeor-vsc-fennel";
@@ -11672,10 +11696,10 @@
       url = "https://open-vsx.org/api/kongeor/vsc-fennel/0.1.3/file/kongeor.vsc-fennel-0.1.3.vsix";
       sha256 = "sha256-/DIoJlxCWM93WMdM77ZOgbbasHN3anY9k7h1twTC50s=";
     };
-    name = "vsc-fennel";
     license = "MIT";
-    publisher = "kongeor";
+    name = "vsc-fennel";
     description = "VS Code Fennel support";
+    publisher = "kongeor";
   };
   koog1000-fossil = {
     pname = "koog1000-fossil";
@@ -11684,10 +11708,10 @@
       url = "https://open-vsx.org/api/koog1000/fossil/0.1.1/file/koog1000.fossil-0.1.1.vsix";
       sha256 = "sha256-KX64iqEZ4fBLamzbc8WbLXoEMK1BbcOMjgYCX+iCz34=";
     };
-    name = "fossil";
     license = "MIT";
-    publisher = "koog1000";
+    name = "fossil";
     description = "Integrated Fossil source control";
+    publisher = "koog1000";
   };
   korekontrol-saltstack = {
     pname = "korekontrol-saltstack";
@@ -11696,10 +11720,10 @@
       url = "https://open-vsx.org/api/korekontrol/saltstack/0.0.9/file/korekontrol.saltstack-0.0.9.vsix";
       sha256 = "sha256-L6+DZDs761aydEurUE8CEs0OKy3FQqZE7VY7o7L3v+4=";
     };
-    name = "saltstack";
     license = "MIT";
-    publisher = "korekontrol";
+    name = "saltstack";
     description = "SaltStack jinja template language support";
+    publisher = "korekontrol";
   };
   kortina-vscode-markdown-notes = {
     pname = "kortina-vscode-markdown-notes";
@@ -11708,10 +11732,10 @@
       url = "https://open-vsx.org/api/kortina/vscode-markdown-notes/0.0.24/file/kortina.vscode-markdown-notes-0.0.24.vsix";
       sha256 = "sha256-va6ymkUGR+c9/8fFFRwqiw2yGC2wxpDQixQN/CelYEc=";
     };
-    name = "vscode-markdown-notes";
     license = "GPL-3.0";
-    publisher = "kortina";
+    name = "vscode-markdown-notes";
     description = "Navigate notes with [[wiki-links]], backlinks, #tags and @bibtex-citations (like Bear, Roam, etc). Automatically create notes from new inline [[wiki-links]]. Use Peek Definition to preview linked notes.";
+    publisher = "kortina";
   };
   krishnaVamsi-ccbp-project-testing = {
     pname = "krishnaVamsi-ccbp-project-testing";
@@ -11720,10 +11744,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/ccbp-project-testing/1.0.0/file/krishnaVamsi.ccbp-project-testing-1.0.0.vsix";
       sha256 = "sha256-aanoHO0KbUw877E0stWJ6wGn7+BLrokDkeNNym8wAOk=";
     };
-    name = "ccbp-project-testing";
     license = "EPL-2.0";
-    publisher = "krishnaVamsi";
+    name = "ccbp-project-testing";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-ccbp-project-workspace-plugin = {
     pname = "krishnaVamsi-ccbp-project-workspace-plugin";
@@ -11732,10 +11756,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/ccbp-project-workspace-plugin/1.0.14/file/krishnaVamsi.ccbp-project-workspace-plugin-1.0.14.vsix";
       sha256 = "sha256-yTQQlM0jcfYslUiXlrLAW887KyxLzrmzRKWrQTvrIMc=";
     };
-    name = "ccbp-project-workspace-plugin";
     license = "EPL-2.0";
-    publisher = "krishnaVamsi";
+    name = "ccbp-project-workspace-plugin";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-ccbp-webview-plugin = {
     pname = "krishnaVamsi-ccbp-webview-plugin";
@@ -11744,10 +11768,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/ccbp-webview-plugin/1.0.0/file/krishnaVamsi.ccbp-webview-plugin-1.0.0.vsix";
       sha256 = "sha256-Q4P1EKmo90XuOQIvKkKSf5e9I21wC9+5UK6Gkeye/XY=";
     };
-    name = "ccbp-webview-plugin";
     license = "EPL-2.0";
-    publisher = "krishnaVamsi";
+    name = "ccbp-webview-plugin";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-filesystem-watchers = {
     pname = "krishnaVamsi-filesystem-watchers";
@@ -11756,10 +11780,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/filesystem-watchers/0.0.3/file/krishnaVamsi.filesystem-watchers-0.0.3.vsix";
       sha256 = "sha256-zxcrpzqU1pzT50yATimQfMvJ/tEqRr0TM4DRVu6LTO4=";
     };
-    name = "filesystem-watchers";
     license = "none";
-    publisher = "krishnaVamsi";
+    name = "filesystem-watchers";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-ib-file-uploader = {
     pname = "krishnaVamsi-ib-file-uploader";
@@ -11768,10 +11792,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/ib-file-uploader/0.0.1/file/krishnaVamsi.ib-file-uploader-0.0.1.vsix";
       sha256 = "sha256-pSssbcIzOpG0iFjQ5av0FxdKqF/xUFjO38cwj0VvAv0=";
     };
-    name = "ib-file-uploader";
     license = "none";
-    publisher = "krishnaVamsi";
+    name = "ib-file-uploader";
     description = "To upload files to iB Servers";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-test-plugin = {
     pname = "krishnaVamsi-test-plugin";
@@ -11780,10 +11804,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/test-plugin/0.0.2/file/krishnaVamsi.test-plugin-0.0.2.vsix";
       sha256 = "sha256-qWIHXn33xQGHPC30iFglVzlL41u5py5tnjvzbpHeNBw=";
     };
-    name = "test-plugin";
     license = "none";
-    publisher = "krishnaVamsi";
+    name = "test-plugin";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-testing-todo-highlighter-plugin = {
     pname = "krishnaVamsi-testing-todo-highlighter-plugin";
@@ -11792,10 +11816,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/testing-todo-highlighter-plugin/1.0.0/file/krishnaVamsi.testing-todo-highlighter-plugin-1.0.0.vsix";
       sha256 = "sha256-QmqAUrlTPNPSDoowynMs4yx0FeZOS451wUb3mHNOPg0=";
     };
-    name = "testing-todo-highlighter-plugin";
     license = "EPL-2.0";
-    publisher = "krishnaVamsi";
+    name = "testing-todo-highlighter-plugin";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-todo-highlighter-plugin = {
     pname = "krishnaVamsi-todo-highlighter-plugin";
@@ -11804,10 +11828,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/todo-highlighter-plugin/1.0.1/file/krishnaVamsi.todo-highlighter-plugin-1.0.1.vsix";
       sha256 = "sha256-FNMeTmz9HgTWTIA3zN3S3OIzuPQco/rkw3sPFVfOLVw=";
     };
-    name = "todo-highlighter-plugin";
     license = "none";
-    publisher = "krishnaVamsi";
+    name = "todo-highlighter-plugin";
     description = "";
+    publisher = "krishnaVamsi";
   };
   krishnaVamsi-webview-sample = {
     pname = "krishnaVamsi-webview-sample";
@@ -11816,10 +11840,10 @@
       url = "https://open-vsx.org/api/krishnaVamsi/webview-sample/0.0.1/file/krishnaVamsi.webview-sample-0.0.1.vsix";
       sha256 = "sha256-Cf0Qq/6Xf4jIKvfazCER5EXCmp06yBT7ZN6HT4rVA1w=";
     };
-    name = "webview-sample";
     license = "EPL-2.0";
-    publisher = "krishnaVamsi";
+    name = "webview-sample";
     description = "Testing A Webview API Sample";
+    publisher = "krishnaVamsi";
   };
   kube-42header = {
     pname = "kube-42header";
@@ -11828,10 +11852,10 @@
       url = "https://open-vsx.org/api/kube/42header/0.42.9/file/kube.42header-0.42.9.vsix";
       sha256 = "sha256-u/H7FB5iRaEXeySkZkg3BQTU3lTZyS6sNQjPyAVpRJU=";
     };
-    name = "42header";
     license = "MIT";
-    publisher = "kube";
+    name = "42header";
     description = "42 header for VSCode : www.42.fr";
+    publisher = "kube";
   };
   kubescape-kubescape = {
     pname = "kubescape-kubescape";
@@ -11840,10 +11864,10 @@
       url = "https://open-vsx.org/api/kubescape/kubescape/0.2.1/file/kubescape.kubescape-0.2.1.vsix";
       sha256 = "sha256-qF/vxm5JXQBtZhwNHUDM/EJpXHKMrb/wiLgS5E2zmMc=";
     };
-    name = "kubescape";
     license = "Apache";
-    publisher = "kubescape";
+    name = "kubescape";
     description = "Kubescape extension for vscode";
+    publisher = "kubescape";
   };
   kumar-harsh-graphql-for-vscode = {
     pname = "kumar-harsh-graphql-for-vscode";
@@ -11852,10 +11876,10 @@
       url = "https://open-vsx.org/api/kumar-harsh/graphql-for-vscode/1.15.3/file/kumar-harsh.graphql-for-vscode-1.15.3.vsix";
       sha256 = "sha256-U4ER8xpAVxXKQI1fKJaO3yRk3E7x/+r24hLpJgJYgPg=";
     };
-    name = "graphql-for-vscode";
     license = "MIT";
-    publisher = "kumar-harsh";
+    name = "graphql-for-vscode";
     description = "GraphQL syntax highlighting, linting, auto-complete, and more!";
+    publisher = "kumar-harsh";
   };
   kuroidoruido-gobelin-vscode = {
     pname = "kuroidoruido-gobelin-vscode";
@@ -11864,10 +11888,10 @@
       url = "https://open-vsx.org/api/kuroidoruido/gobelin-vscode/1.2.0/file/kuroidoruido.gobelin-vscode-1.2.0.vsix";
       sha256 = "sha256-2s/9HAwjvoRY0Ib+/3FXcrh5aR7dP+1gKJ+ZAQM06CA=";
     };
-    name = "gobelin-vscode";
     license = "GPL-3.0";
-    publisher = "kuroidoruido";
+    name = "gobelin-vscode";
     description = "Gobelin integration for VSCode.";
+    publisher = "kuroidoruido";
   };
   laggardkernel-vscode-theme-onelight = {
     pname = "laggardkernel-vscode-theme-onelight";
@@ -11876,10 +11900,10 @@
       url = "https://open-vsx.org/api/laggardkernel/vscode-theme-onelight/0.2.0/file/laggardkernel.vscode-theme-onelight-0.2.0.vsix";
       sha256 = "sha256-ka0Dv5P7k5CwSgqEp+lzq/bhS6uTT/PWnlAY4P2nLDg=";
     };
-    name = "vscode-theme-onelight";
     license = "MIT";
-    publisher = "laggardkernel";
+    name = "vscode-theme-onelight";
     description = "One light theme with italic support for VSCode";
+    publisher = "laggardkernel";
   };
   laike9m-cyberbrain = {
     pname = "laike9m-cyberbrain";
@@ -11888,10 +11912,10 @@
       url = "https://open-vsx.org/api/laike9m/cyberbrain/0.2.1/file/laike9m.cyberbrain-0.2.1.vsix";
       sha256 = "sha256-cFly69TKMFxRPUVwZa1RuAh5yD0Uj2cayphFlvfmzUU=";
     };
-    name = "cyberbrain";
     license = "MIT";
-    publisher = "laike9m";
+    name = "cyberbrain";
     description = "Python debugging, redefined.";
+    publisher = "laike9m";
   };
   langium-langium-vscode = {
     pname = "langium-langium-vscode";
@@ -11900,10 +11924,10 @@
       url = "https://open-vsx.org/api/langium/langium-vscode/0.3.0/file/langium.langium-vscode-0.3.0.vsix";
       sha256 = "sha256-1XPCrnIzknhGTxjogr6sdSYcgLW427pFdX9S966lyro=";
     };
-    name = "langium-vscode";
     license = "MIT";
-    publisher = "langium";
+    name = "langium-vscode";
     description = "Support for the Langium Grammar Language";
+    publisher = "langium";
   };
   laradump-laradump = {
     pname = "laradump-laradump";
@@ -11912,10 +11936,10 @@
       url = "https://open-vsx.org/api/laradump/laradump/0.0.4/file/laradump.laradump-0.0.4.vsix";
       sha256 = "sha256-nxreS529qwBFrdcPmvNT6BVeGdp+W51MdtU3TAIPIr8=";
     };
-    name = "laradump";
     license = "MIT";
-    publisher = "laradump";
+    name = "laradump";
     description = "Laradump helps to debugging on laravel";
+    publisher = "laradump";
   };
   larshp-vscode-abap = {
     pname = "larshp-vscode-abap";
@@ -11924,10 +11948,10 @@
       url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
       sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
-    name = "vscode-abap";
     license = "MIT";
-    publisher = "larshp";
+    name = "vscode-abap";
     description = "Syntax highlighting for ABAP";
+    publisher = "larshp";
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
@@ -11936,10 +11960,10 @@
       url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
       sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
-    name = "vscode-abaplint";
     license = "MIT";
-    publisher = "larshp";
+    name = "vscode-abaplint";
     description = "ABAP linting, problems view, go to definition, find references, and quick fixes.";
+    publisher = "larshp";
   };
   launchdarklyofficial-launchdarkly = {
     pname = "launchdarklyofficial-launchdarkly";
@@ -11948,10 +11972,10 @@
       url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.0.6/file/launchdarklyofficial.launchdarkly-3.0.6.vsix";
       sha256 = "sha256-h9trwIr0l+Hghnz3chTOLRQbjFXJZIczNKu/axDarfQ=";
     };
-    name = "launchdarkly";
     license = "";
-    publisher = "launchdarklyofficial";
+    name = "launchdarkly";
     description = "Manage LaunchDarkly feature flags directly from within your code";
+    publisher = "launchdarklyofficial";
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
@@ -11960,10 +11984,10 @@
       url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.4.1649700976/file/launchdarklyofficial.launchdarkly-beta-2022.4.1649700976.vsix";
       sha256 = "sha256-Ue1KnKdqh99Tmz3os8NgoRSZX4F0E4UyJmQaxZn4sUE=";
     };
-    name = "launchdarkly-beta";
     license = "";
-    publisher = "launchdarklyofficial";
+    name = "launchdarkly-beta";
     description = "Manage LaunchDarkly feature flags directly from within your code";
+    publisher = "launchdarklyofficial";
   };
   leading-works-eml2html = {
     pname = "leading-works-eml2html";
@@ -11972,10 +11996,10 @@
       url = "https://open-vsx.org/api/leading-works/eml2html/0.0.1/file/leading-works.eml2html-0.0.1.vsix";
       sha256 = "sha256-HLT086UUpjW3r9TUjckm/VyWpFOoPI1OvRI3Rkq2Kds=";
     };
-    name = "eml2html";
     license = "MIT";
-    publisher = "leading-works";
+    name = "eml2html";
     description = "A utility to convert an EML file to an HTML content using the clipboard conveniently.";
+    publisher = "leading-works";
   };
   leandro-rodrigues-fluent-ui-vscode = {
     pname = "leandro-rodrigues-fluent-ui-vscode";
@@ -11984,10 +12008,10 @@
       url = "https://open-vsx.org/api/leandro-rodrigues/fluent-ui-vscode/0.3.12/file/leandro-rodrigues.fluent-ui-vscode-0.3.12.vsix";
       sha256 = "sha256-vJI+3nVJ9RR8u2aKlWDIH1PxASXyYJ7iDSCl3wCk5qU=";
     };
-    name = "fluent-ui-vscode";
     license = "MIT";
-    publisher = "leandro-rodrigues";
+    name = "fluent-ui-vscode";
     description = "Fluent UI for VSCode based on concept designs from u/zeealeidahmad.";
+    publisher = "leandro-rodrigues";
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
@@ -11996,10 +12020,10 @@
       url = "https://open-vsx.org/api/leanprover/lean4/0.0.77/file/leanprover.lean4-0.0.77.vsix";
       sha256 = "sha256-ZjAZqD544EHr+RCUnLmxi6GosxqQQ+GjX58Ye1nPPFA=";
     };
-    name = "lean4";
     license = "Apache-2.0";
-    publisher = "leanprover";
+    name = "lean4";
     description = "Lean 4 language support for VS Code";
+    publisher = "leanprover";
   };
   learnpack-learnpack-vscode = {
     pname = "learnpack-learnpack-vscode";
@@ -12008,10 +12032,10 @@
       url = "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.7/file/learnpack.learnpack-vscode-0.0.7.vsix";
       sha256 = "sha256-sxk1MD3j1E0iOxXNEqx5jwfQSRkRtEzU4fWupOCxjhA=";
     };
-    name = "learnpack-vscode";
     license = "MIT";
-    publisher = "learnpack";
+    name = "learnpack-vscode";
     description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.";
+    publisher = "learnpack";
   };
   lefd-sweetdracula-monokai = {
     pname = "lefd-sweetdracula-monokai";
@@ -12020,10 +12044,10 @@
       url = "https://open-vsx.org/api/lefd/sweetdracula-monokai/1.1.3/file/lefd.sweetdracula-monokai-1.1.3.vsix";
       sha256 = "sha256-2pqvt4DV35QDHCXAIiRt+JqsZ1HDyUUAAdjrHBo9rPs=";
     };
-    name = "sweetdracula-monokai";
     license = "MIT";
-    publisher = "lefd";
+    name = "sweetdracula-monokai";
     description = "Sweet Dracula + Monokai syntax highlighting";
+    publisher = "lefd";
   };
   lefebsy-vskubi-lite = {
     pname = "lefebsy-vskubi-lite";
@@ -12032,10 +12056,10 @@
       url = "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.5/file/lefebsy.vskubi-lite-1.4.5.vsix";
       sha256 = "sha256-YNLD5EFvnFk17PSA8zghIeVDoc7uqGF8vrfyqGIuung=";
     };
-    name = "vskubi-lite";
     license = "MIT";
-    publisher = "lefebsy";
+    name = "vskubi-lite";
     description = "Kubernetes CA-GIP/Kubi CLI, Lite wrapper version compatible with VSCode and Theia IDE";
+    publisher = "lefebsy";
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
@@ -12044,10 +12068,10 @@
       url = "https://open-vsx.org/api/leodevbro/blockman/1.5.8/file/leodevbro.blockman-1.5.8.vsix";
       sha256 = "sha256-cc5GUq7h8MJBRoVnGmMJot1qyTWjNfeJHphdqYZx/zg=";
     };
-    name = "blockman";
     license = "MIT";
-    publisher = "leodevbro";
+    name = "blockman";
     description = "Mark/Highlight code blocks";
+    publisher = "leodevbro";
   };
   lereenadem-pascalabcnet = {
     pname = "lereenadem-pascalabcnet";
@@ -12056,10 +12080,10 @@
       url = "https://open-vsx.org/api/lereenadem/pascalabcnet/1.1.5/file/lereenadem.pascalabcnet-1.1.5.vsix";
       sha256 = "sha256-HrKRkkmdq7vVk7k/JL+Ot8ejg/nt+fsttpjRF2T69iU=";
     };
-    name = "pascalabcnet";
     license = "MIT";
-    publisher = "lereenadem";
+    name = "pascalabcnet";
     description = "PascalABC.NET language extension";
+    publisher = "lereenadem";
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
@@ -12068,10 +12092,10 @@
       url = "https://open-vsx.org/api/lextudio/restructuredtext/189.0.0/file/lextudio.restructuredtext-189.0.0.vsix";
       sha256 = "sha256-emX2NmcHo+RVJ+IfLLyKzHcLTrplbZ+OleSolCxfWZk=";
     };
-    name = "restructuredtext";
     license = "MIT";
-    publisher = "lextudio";
+    name = "restructuredtext";
     description = "reStructuredText language support (RST/ReST linter, preview, IntelliSense and more)";
+    publisher = "lextudio";
   };
   lf-lang-vscode-lingua-franca = {
     pname = "lf-lang-vscode-lingua-franca";
@@ -12080,10 +12104,10 @@
       url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.1/file/lf-lang.vscode-lingua-franca-0.2.1.vsix";
       sha256 = "sha256-o1ydbdUyI5JsMMiHYdAbTWgJv92YHFyPDii1IKSCpxo=";
     };
-    name = "vscode-lingua-franca";
     license = "BSD-2-Clause";
-    publisher = "lf-lang";
+    name = "vscode-lingua-franca";
     description = "Lingua Franca for Visual Studio Code. Provides lints, code completion and navigation, interactive diagrams, and more.";
+    publisher = "lf-lang";
   };
   lgalabru-clarity-lsp = {
     pname = "lgalabru-clarity-lsp";
@@ -12092,10 +12116,10 @@
       url = "https://open-vsx.org/api/lgalabru/clarity-lsp/0.4.0/file/lgalabru.clarity-lsp-0.4.0.vsix";
       sha256 = "sha256-DywUWtkeHVHvheDQNSow7yaxyZXaO0zJjl5fT8pfwQQ=";
     };
-    name = "clarity-lsp";
     license = "GPL-3.0-only";
-    publisher = "lgalabru";
+    name = "clarity-lsp";
     description = "LSP implementation for Blockstack's Clarity smart contracting language";
+    publisher = "lgalabru";
   };
   lgarcin-vscode-pweave = {
     pname = "lgarcin-vscode-pweave";
@@ -12104,10 +12128,10 @@
       url = "https://open-vsx.org/api/lgarcin/vscode-pweave/0.3.8/file/lgarcin.vscode-pweave-0.3.8.vsix";
       sha256 = "sha256-xVYANu9MTuhLvyr7VJjWnxak7LYsO1Q/a7FKRqRfrFM=";
     };
-    name = "vscode-pweave";
     license = "GPL-2.0";
-    publisher = "lgarcin";
+    name = "vscode-pweave";
     description = "Format pweave documents";
+    publisher = "lgarcin";
   };
   liangcheng-plugins-open-sourcetree-in-vscode-plugin = {
     pname = "liangcheng-plugins-open-sourcetree-in-vscode-plugin";
@@ -12116,10 +12140,10 @@
       url = "https://open-vsx.org/api/liangcheng-plugins/open-sourcetree-in-vscode-plugin/2.0.0/file/liangcheng-plugins.open-sourcetree-in-vscode-plugin-2.0.0.vsix";
       sha256 = "sha256-HuXY5bde+u/dmlD0KyKxWjYiEKSquXfzS4YUotuzL38=";
     };
-    name = "open-sourcetree-in-vscode-plugin";
     license = "MIT";
-    publisher = "liangcheng-plugins";
+    name = "open-sourcetree-in-vscode-plugin";
     description = "\22312vscode\20013\30340\36164\28304\31649\29702\22120\20013\65292\30452\25509\21491\38190\21487\20197\25171\24320sourcetree, \24182\21152\36733\24403\21069git\28304\30721\26641\21040sourcetree";
+    publisher = "liangcheng-plugins";
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
@@ -12128,10 +12152,10 @@
       url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.31/file/lifeart.vscode-ember-unstable-3.0.31.vsix";
       sha256 = "sha256-OImZCXLWU0PpL0oXtH2StZXsLussZcOTB/J22vEcEXM=";
     };
-    name = "vscode-ember-unstable";
     license = "MIT";
-    publisher = "lifeart";
+    name = "vscode-ember-unstable";
     description = "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects";
+    publisher = "lifeart";
   };
   lifeart-vscode-glimmer-syntax = {
     pname = "lifeart-vscode-glimmer-syntax";
@@ -12140,10 +12164,10 @@
       url = "https://open-vsx.org/api/lifeart/vscode-glimmer-syntax/1.0.7/file/lifeart.vscode-glimmer-syntax-1.0.7.vsix";
       sha256 = "sha256-L85Jx2LzW45r86tVS3UjDTTbRjYMpiv78WgvrmyzaZE=";
     };
-    name = "vscode-glimmer-syntax";
     license = "MIT";
-    publisher = "lifeart";
+    name = "vscode-glimmer-syntax";
     description = "Glimmer templates syntax";
+    publisher = "lifeart";
   };
   lightyen-tailwindcss-intellisense-twin = {
     pname = "lightyen-tailwindcss-intellisense-twin";
@@ -12152,10 +12176,10 @@
       url = "https://open-vsx.org/api/lightyen/tailwindcss-intellisense-twin/0.11.7/file/lightyen.tailwindcss-intellisense-twin-0.11.7.vsix";
       sha256 = "sha256-S4i5BaOCPe9nz8LAqJ0HuaUVrhyK6FekYYovfdiC3rI=";
     };
-    name = "tailwindcss-intellisense-twin";
     license = "MIT";
-    publisher = "lightyen";
+    name = "tailwindcss-intellisense-twin";
     description = "";
+    publisher = "lightyen";
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
@@ -12164,10 +12188,10 @@
       url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.11/file/ligolang-publish.ligo-vscode-0.4.11.vsix";
       sha256 = "sha256-eF4dgntn13qVNRrHxlSaN7WCCXmr1IsPquwQcdIOnq0=";
     };
-    name = "ligo-vscode";
     license = "MIT";
-    publisher = "ligolang-publish";
+    name = "ligo-vscode";
     description = "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO.";
+    publisher = "ligolang-publish";
   };
   lintangwisesa-arduino = {
     pname = "lintangwisesa-arduino";
@@ -12176,10 +12200,10 @@
       url = "https://open-vsx.org/api/lintangwisesa/arduino/0.3.3/file/lintangwisesa.arduino-0.3.3.vsix";
       sha256 = "sha256-S2eArJSBT7jHIqW4lrWga9BXy79t98La/uKE5UKJc74=";
     };
-    name = "arduino";
     license = "MIT";
-    publisher = "lintangwisesa";
+    name = "arduino";
     description = "VScode theme inspired by Arduino IDE";
+    publisher = "lintangwisesa";
   };
   liqube-theme-liqube-dark = {
     pname = "liqube-theme-liqube-dark";
@@ -12188,10 +12212,10 @@
       url = "https://open-vsx.org/api/liqube/theme-liqube-dark/1.0.5/file/liqube.theme-liqube-dark-1.0.5.vsix";
       sha256 = "sha256-49qsaDhxYbRw7TKxYd6Kz7Bht83qlFyPHG86JVF+4Lw=";
     };
-    name = "theme-liqube-dark";
     license = "MIT";
-    publisher = "liqube";
+    name = "theme-liqube-dark";
     description = "Fresh dark theme for night coding";
+    publisher = "liqube";
   };
   littlefoxteam-vscode-python-test-adapter = {
     pname = "littlefoxteam-vscode-python-test-adapter";
@@ -12200,10 +12224,10 @@
       url = "https://open-vsx.org/api/littlefoxteam/vscode-python-test-adapter/0.7.1/file/littlefoxteam.vscode-python-test-adapter-0.7.1.vsix";
       sha256 = "sha256-XnFgQTXU7h8Po9pI8oeKfzHHpz+dyDff0RkqTyaKS+o=";
     };
-    name = "vscode-python-test-adapter";
     license = "MIT";
-    publisher = "littlefoxteam";
+    name = "vscode-python-test-adapter";
     description = "Run your Python tests in the Sidebar of Visual Studio Code";
+    publisher = "littlefoxteam";
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
@@ -12212,10 +12236,10 @@
       url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.17/file/llvm-vs-code-extensions.vscode-clangd-0.1.17.vsix";
       sha256 = "sha256-XIiScz0+Kx5i1FgpUvcXmbx2e4EqgGg9E05jiyL3pV8=";
     };
-    name = "vscode-clangd";
     license = "MIT";
-    publisher = "llvm-vs-code-extensions";
+    name = "vscode-clangd";
     description = "C/C++ completion, navigation, and insights";
+    publisher = "llvm-vs-code-extensions";
   };
   lokalise-i18n-ally = {
     pname = "lokalise-i18n-ally";
@@ -12224,10 +12248,10 @@
       url = "https://open-vsx.org/api/lokalise/i18n-ally/2.8.1/file/lokalise.i18n-ally-2.8.1.vsix";
       sha256 = "sha256-qmY630Fw7g4B/xL/skexa1PNZcBCyU6GJvcRrxHDWcE=";
     };
-    name = "i18n-ally";
     license = "MIT";
-    publisher = "lokalise";
+    name = "i18n-ally";
     description = "\127757 All in one i18n extension for VS Code";
+    publisher = "lokalise";
   };
   lonefy-vscode-JS-CSS-HTML-formatter = {
     pname = "lonefy-vscode-JS-CSS-HTML-formatter";
@@ -12236,10 +12260,10 @@
       url = "https://open-vsx.org/api/lonefy/vscode-JS-CSS-HTML-formatter/0.2.3/file/lonefy.vscode-JS-CSS-HTML-formatter-0.2.3.vsix";
       sha256 = "sha256-EmiKjwnunpLn8JRQjjs1J3j1i2CIxQSzq/DooKBiSuE=";
     };
-    name = "vscode-JS-CSS-HTML-formatter";
     license = "MIT";
-    publisher = "lonefy";
+    name = "vscode-JS-CSS-HTML-formatter";
     description = "Format ,prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI";
+    publisher = "lonefy";
   };
   lukashass-volar = {
     pname = "lukashass-volar";
@@ -12248,10 +12272,10 @@
       url = "https://open-vsx.org/api/lukashass/volar/0.34.13/file/lukashass.volar-0.34.13.vsix";
       sha256 = "sha256-Xfi2V73pjXYJGDFgVMyUYWQAggolyal27r/eyrurq5c=";
     };
-    name = "volar";
     license = "MIT";
-    publisher = "lukashass";
+    name = "volar";
     description = "Language support for Vue 3";
+    publisher = "lukashass";
   };
   lukinco-lukin-vscode-theme = {
     pname = "lukinco-lukin-vscode-theme";
@@ -12260,10 +12284,10 @@
       url = "https://open-vsx.org/api/lukinco/lukin-vscode-theme/0.1.5/file/lukinco.lukin-vscode-theme-0.1.5.vsix";
       sha256 = "sha256-wIQGW/gYLsXZOYw5L6gGVRoDzRJpsgg1QThxZYyy/lM=";
     };
-    name = "lukin-vscode-theme";
     license = "MIT";
-    publisher = "lukinco";
+    name = "lukin-vscode-theme";
     description = "A minimal, ultra-dark and vibrant theme for VS Code.";
+    publisher = "lukinco";
   };
   luma-jupyter = {
     pname = "luma-jupyter";
@@ -12272,10 +12296,10 @@
       url = "https://open-vsx.org/api/luma/jupyter/2022.3.108/file/luma.jupyter-2022.3.108.vsix";
       sha256 = "sha256-rro+T6oWawtXVfR6FVUQ04Q/4KWUTFnfoHJ+3i0HG8s=";
     };
-    name = "jupyter";
     license = "MIT";
-    publisher = "luma";
+    name = "jupyter";
     description = "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.";
+    publisher = "luma";
   };
   luma-ocaml-platform-syntax = {
     pname = "luma-ocaml-platform-syntax";
@@ -12284,10 +12308,10 @@
       url = "https://open-vsx.org/api/luma/ocaml-platform-syntax/1.9.5/file/luma.ocaml-platform-syntax-1.9.5.vsix";
       sha256 = "sha256-MQr5W3MTzMaH2Pc1X9uAcbDZeh6ygf4sRPIXfBn/D0s=";
     };
-    name = "ocaml-platform-syntax";
     license = "MIT";
-    publisher = "luma";
+    name = "ocaml-platform-syntax";
     description = "Official OCaml language syntax extension for VSCode";
+    publisher = "luma";
   };
   luma-wolfram = {
     pname = "luma-wolfram";
@@ -12296,10 +12320,10 @@
       url = "https://open-vsx.org/api/luma/wolfram/1.5.3/file/luma.wolfram-1.5.3.vsix";
       sha256 = "sha256-6STPeFy9P04hT9NM8kDIXsegbe/N4aGTYneTmnVwCQ4=";
     };
-    name = "wolfram";
     license = "MIT";
-    publisher = "luma";
+    name = "wolfram";
     description = "Un-Official Visual Studio Code extension for Wolfram Language";
+    publisher = "luma";
   };
   madeindjs-markdown-move = {
     pname = "madeindjs-markdown-move";
@@ -12308,10 +12332,10 @@
       url = "https://open-vsx.org/api/madeindjs/markdown-move/0.0.2/file/madeindjs.markdown-move-0.0.2.vsix";
       sha256 = "sha256-QYdMT1ProsuEDg1hXbWsiURA+EV3Q9//b4gZEJQ7osI=";
     };
-    name = "markdown-move";
     license = "MIT";
-    publisher = "madeindjs";
+    name = "markdown-move";
     description = "Move section of you Markdown file";
+    publisher = "madeindjs";
   };
   madeindjs-notable = {
     pname = "madeindjs-notable";
@@ -12320,10 +12344,10 @@
       url = "https://open-vsx.org/api/madeindjs/notable/0.3.2/file/madeindjs.notable-0.3.2.vsix";
       sha256 = "sha256-+30HbOP4pL2BsBku+qoAHjZTBWR/3ZYDTuWdMAIagx4=";
     };
-    name = "notable";
     license = "MIT";
-    publisher = "madeindjs";
+    name = "notable";
     description = "Create, edit and search Markdown notes from Notable.";
+    publisher = "madeindjs";
   };
   mads-hartmann-bash-ide-vscode = {
     pname = "mads-hartmann-bash-ide-vscode";
@@ -12332,10 +12356,10 @@
       url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.14.0/file/mads-hartmann.bash-ide-vscode-1.14.0.vsix";
       sha256 = "sha256-dts6E4u56nYGqeAat0fnJV0/AhPg7H2XNBk8X5t7SeI=";
     };
-    name = "bash-ide-vscode";
     license = "MIT";
-    publisher = "mads-hartmann";
+    name = "bash-ide-vscode";
     description = "A language server for Bash";
+    publisher = "mads-hartmann";
   };
   maelvalais-autoconf = {
     pname = "maelvalais-autoconf";
@@ -12344,10 +12368,10 @@
       url = "https://open-vsx.org/api/maelvalais/autoconf/0.1.0/file/maelvalais.autoconf-0.1.0.vsix";
       sha256 = "sha256-neQLY4ZJmaMfGuMz63TDWtP5ieGJl6m1eo1UEPMXTsU=";
     };
-    name = "autoconf";
     license = "MIT";
-    publisher = "maelvalais";
+    name = "autoconf";
     description = "Syntax support for the Autoconf M4 and Automake files (Autotools)";
+    publisher = "maelvalais";
   };
   magicstack-MagicPython = {
     pname = "magicstack-MagicPython";
@@ -12356,10 +12380,10 @@
       url = "https://open-vsx.org/api/magicstack/MagicPython/1.1.1/file/magicstack.MagicPython-1.1.1.vsix";
       sha256 = "sha256-yG7galJi6lzVawi8fJIbAvndblBVGz57omYB5SO7q0M=";
     };
-    name = "MagicPython";
     license = "MIT";
-    publisher = "magicstack";
+    name = "MagicPython";
     description = "Syntax highlighter for cutting edge Python.";
+    publisher = "magicstack";
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
@@ -12368,10 +12392,10 @@
       url = "https://open-vsx.org/api/malipetek/liquivelte/0.0.11/file/malipetek.liquivelte-0.0.11.vsix";
       sha256 = "sha256-dlSL2Ob1eTHek+qjkba6KCxY3AN6/Cr8D4mfqnq/Pm0=";
     };
-    name = "liquivelte";
     license = "MIT";
-    publisher = "malipetek";
+    name = "liquivelte";
     description = "Write Shopify Themes With Svelte like syntax!";
+    publisher = "malipetek";
   };
   manuth-eslint-language-service = {
     pname = "manuth-eslint-language-service";
@@ -12380,10 +12404,10 @@
       url = "https://open-vsx.org/api/manuth/eslint-language-service/1.1.3/file/manuth.eslint-language-service-1.1.3.vsix";
       sha256 = "sha256-CdI8/ot8tpdyPhOj+FG+eNbJ1sZzK5pZq97Xyu4z1fc=";
     };
-    name = "eslint-language-service";
     license = "MIT";
-    publisher = "manuth";
+    name = "eslint-language-service";
     description = "A VSCode-Extension that provides ESLint support using `@manuth/typescript-eslint-plugin`";
+    publisher = "manuth";
   };
   manuth-markdown-converter = {
     pname = "manuth-markdown-converter";
@@ -12392,10 +12416,10 @@
       url = "https://open-vsx.org/api/manuth/markdown-converter/5.1.2/file/manuth.markdown-converter-5.1.2.vsix";
       sha256 = "sha256-WsSI6NVcFtgk7Kww0+laUP/HfmDolnU0+K2L0UsbHEc=";
     };
-    name = "markdown-converter";
     license = "MIT";
-    publisher = "manuth";
+    name = "markdown-converter";
     description = "A markdown-converter for vscode";
+    publisher = "manuth";
   };
   marcinbar-vscode-gothiconline = {
     pname = "marcinbar-vscode-gothiconline";
@@ -12404,10 +12428,10 @@
       url = "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.32/file/marcinbar.vscode-gothiconline-0.0.32.vsix";
       sha256 = "sha256-fKWMvt6de7ewfW3fTVO6JtPMgkNCkPoBjN9D2gxC52I=";
     };
-    name = "vscode-gothiconline";
     license = "MIT";
-    publisher = "marcinbar";
+    name = "vscode-gothiconline";
     description = "IntelliSense for Gothic Online";
+    publisher = "marcinbar";
   };
   marcinbar-vscode-squirrel = {
     pname = "marcinbar-vscode-squirrel";
@@ -12416,10 +12440,10 @@
       url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.16/file/marcinbar.vscode-squirrel-0.0.16.vsix";
       sha256 = "sha256-/AMOQnSOyh6rSREJbjcf3y6XyvWQen905u+I/Tij9TA=";
     };
-    name = "vscode-squirrel";
     license = "MIT";
-    publisher = "marcinbar";
+    name = "vscode-squirrel";
     description = "Squirrel Language Supports";
+    publisher = "marcinbar";
   };
   marcinbar-vscode-squirrel-linter = {
     pname = "marcinbar-vscode-squirrel-linter";
@@ -12428,10 +12452,10 @@
       url = "https://open-vsx.org/api/marcinbar/vscode-squirrel-linter/0.0.13/file/marcinbar.vscode-squirrel-linter-0.0.13.vsix";
       sha256 = "sha256-gVc77MzJGTNUuzPdmZOQZJBEjlk2Oi4HJjeo5rOldHE=";
     };
-    name = "vscode-squirrel-linter";
     license = "MIT";
-    publisher = "marcinbar";
+    name = "vscode-squirrel-linter";
     description = "Squirrel Language Linter";
+    publisher = "marcinbar";
   };
   marcostazi-VS-code-vagrantfile = {
     pname = "marcostazi-VS-code-vagrantfile";
@@ -12440,10 +12464,10 @@
       url = "https://open-vsx.org/api/marcostazi/VS-code-vagrantfile/0.0.7/file/marcostazi.VS-code-vagrantfile-0.0.7.vsix";
       sha256 = "sha256-kEl7lJjNyccYZr4bShwNmpLWePfN0RmOYBez/Xi0Q4Q=";
     };
-    name = "VS-code-vagrantfile";
     license = "MIT";
-    publisher = "marcostazi";
+    name = "VS-code-vagrantfile";
     description = "Provides syntax highlighting support for Vagrantfile, useful if you use Vagrant";
+    publisher = "marcostazi";
   };
   mark-hansen-hledger-vscode = {
     pname = "mark-hansen-hledger-vscode";
@@ -12452,10 +12476,10 @@
       url = "https://open-vsx.org/api/mark-hansen/hledger-vscode/0.0.7/file/mark-hansen.hledger-vscode-0.0.7.vsix";
       sha256 = "sha256-66rlDb1Vm8N4w9YEv2OTWkLXdQZGIAJShaaOmHJElDU=";
     };
-    name = "hledger-vscode";
     license = "MIT";
-    publisher = "mark-hansen";
+    name = "hledger-vscode";
     description = "Language support for HLedger accounting journals.";
+    publisher = "mark-hansen";
   };
   markwylde-relative-from-current = {
     pname = "markwylde-relative-from-current";
@@ -12464,10 +12488,10 @@
       url = "https://open-vsx.org/api/markwylde/relative-from-current/1.0.6/file/markwylde.relative-from-current-1.0.6.vsix";
       sha256 = "sha256-0dRGnMfmd8U20E2JuteRpM2nNmd7V85dLUfKGaQLii0=";
     };
-    name = "relative-from-current";
     license = "MIT";
-    publisher = "markwylde";
+    name = "relative-from-current";
     description = "Insert the relative path from the current open file";
+    publisher = "markwylde";
   };
   markwylde-vscode-filesize = {
     pname = "markwylde-vscode-filesize";
@@ -12476,10 +12500,10 @@
       url = "https://open-vsx.org/api/markwylde/vscode-filesize/3.1.0/file/markwylde.vscode-filesize-3.1.0.vsix";
       sha256 = "sha256-x1XboSKl9fmzyTLkOiTf4lpOFBoJPr+cW8HFhroApwI=";
     };
-    name = "vscode-filesize";
     license = "MIT";
-    publisher = "markwylde";
+    name = "vscode-filesize";
     description = "Show the current file size in the status bar";
+    publisher = "markwylde";
   };
   marlosirapuan-nord-deep = {
     pname = "marlosirapuan-nord-deep";
@@ -12488,10 +12512,10 @@
       url = "https://open-vsx.org/api/marlosirapuan/nord-deep/0.1.623/file/marlosirapuan.nord-deep-0.1.623.vsix";
       sha256 = "sha256-r65iQQ0lo0oJ2jgEIxI8PGBDfyEfQVR0R8Z5ZvxQu7A=";
     };
-    name = "nord-deep";
     license = "MIT";
-    publisher = "marlosirapuan";
+    name = "nord-deep";
     description = "Another Nord-based vscode theme";
+    publisher = "marlosirapuan";
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
@@ -12500,10 +12524,10 @@
       url = "https://open-vsx.org/api/marp-team/marp-vscode/2.0.0/file/marp-team.marp-vscode-2.0.0.vsix";
       sha256 = "sha256-Oqk+harpNuvYVAdp2U2YpWVjWAjLwy49neH7nYxnlp4=";
     };
-    name = "marp-vscode";
     license = "MIT";
-    publisher = "marp-team";
+    name = "marp-vscode";
     description = "Create slide deck written in Marp Markdown on VS Code";
+    publisher = "marp-team";
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
@@ -12512,10 +12536,10 @@
       url = "https://open-vsx.org/api/marus25/cortex-debug/1.4.4/file/marus25.cortex-debug-1.4.4.vsix";
       sha256 = "sha256-z48E/wwoeEaAXRK3NhDV+KHsHnncFgecEn6x0xCQC8A=";
     };
-    name = "cortex-debug";
     license = "MIT";
-    publisher = "marus25";
+    name = "cortex-debug";
     description = "ARM Cortex-M GDB Debugger support for VSCode";
+    publisher = "marus25";
   };
   masonliu-exercism = {
     pname = "masonliu-exercism";
@@ -12524,10 +12548,10 @@
       url = "https://open-vsx.org/api/masonliu/exercism/1.17.0/file/masonliu.exercism-1.17.0.vsix";
       sha256 = "sha256-7F+IldtSiy2m9rEDtkp5myra8KIflG9Dyh/GplGQNHc=";
     };
-    name = "exercism";
     license = "MIT";
-    publisher = "masonliu";
+    name = "exercism";
     description = "Complete programming challenges in different languages to improve your skills.";
+    publisher = "masonliu";
   };
   matangover-mypy = {
     pname = "matangover-mypy";
@@ -12536,10 +12560,10 @@
       url = "https://open-vsx.org/api/matangover/mypy/0.2.0/file/matangover.mypy-0.2.0.vsix";
       sha256 = "sha256-/Ou9ubS0+jJe7MLQ37Wfyf6IJVI+F5P2P2ENioaSslo=";
     };
-    name = "mypy";
     license = "MIT";
-    publisher = "matangover";
+    name = "mypy";
     description = "Type checking for Python using mypy";
+    publisher = "matangover";
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
@@ -12548,10 +12572,10 @@
       url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.2/file/matepek.vscode-catch2-test-adapter-4.2.2.vsix";
       sha256 = "sha256-pdwDTy929liXVykX7UOleMqIT6hVLogk7PD7xDxBS2U=";
     };
-    name = "vscode-catch2-test-adapter";
     license = "MIT";
-    publisher = "matepek";
+    name = "vscode-catch2-test-adapter";
     description = "Run GoogleTest, Catch2 and DOCtest tests from VSCode";
+    publisher = "matepek";
   };
   mathiasfrohlich-Kotlin = {
     pname = "mathiasfrohlich-Kotlin";
@@ -12560,10 +12584,10 @@
       url = "https://open-vsx.org/api/mathiasfrohlich/Kotlin/1.7.1/file/mathiasfrohlich.Kotlin-1.7.1.vsix";
       sha256 = "sha256-I7ur5yZRaKYMCCXEAlWJ5RD61rQbK1vFX8Phk27J4gw=";
     };
-    name = "Kotlin";
     license = "Apache-2.0";
-    publisher = "mathiasfrohlich";
+    name = "Kotlin";
     description = "Kotlin language support for VS Code";
+    publisher = "mathiasfrohlich";
   };
   mathiassoeholm-markdown-link-updater = {
     pname = "mathiassoeholm-markdown-link-updater";
@@ -12572,10 +12596,10 @@
       url = "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.1.2/file/mathiassoeholm.markdown-link-updater-2.1.2.vsix";
       sha256 = "sha256-nqo0ePH+taJLq/0gXKpeOI2AgAjkajNmDIGShqa/s2g=";
     };
-    name = "markdown-link-updater";
     license = "MIT";
-    publisher = "mathiassoeholm";
+    name = "markdown-link-updater";
     description = "Automatically updates links in markdown files when moving or renaming files in the workspace.";
+    publisher = "mathiassoeholm";
   };
   mathpix-vscode-mathpix-markdown = {
     pname = "mathpix-vscode-mathpix-markdown";
@@ -12584,10 +12608,10 @@
       url = "https://open-vsx.org/api/mathpix/vscode-mathpix-markdown/0.1.3/file/mathpix.vscode-mathpix-markdown-0.1.3.vsix";
       sha256 = "sha256-8cmRx17m08rXnUSRp7lSpl56Yy6fmQBg4tYVl/TlSxM=";
     };
-    name = "vscode-mathpix-markdown";
     license = "MIT";
-    publisher = "mathpix";
+    name = "vscode-mathpix-markdown";
     description = "Enable rendering Mathpix Markdown with latex and chemistry support.";
+    publisher = "mathpix";
   };
   matt-rudge-auto-open-preview-panel = {
     pname = "matt-rudge-auto-open-preview-panel";
@@ -12596,10 +12620,10 @@
       url = "https://open-vsx.org/api/matt-rudge/auto-open-preview-panel/0.0.6/file/matt-rudge.auto-open-preview-panel-0.0.6.vsix";
       sha256 = "sha256-Jwxfp7Qs0234j5ciPM1SfUPzuoFNbfOPCXGfeolC58U=";
     };
-    name = "auto-open-preview-panel";
     license = "MIT";
-    publisher = "matt-rudge";
+    name = "auto-open-preview-panel";
     description = "Opens a preview panel when markdown or asciidoc file is opened";
+    publisher = "matt-rudge";
   };
   matthewpi-caddyfile-support = {
     pname = "matthewpi-caddyfile-support";
@@ -12608,10 +12632,10 @@
       url = "https://open-vsx.org/api/matthewpi/caddyfile-support/0.2.0/file/matthewpi.caddyfile-support-0.2.0.vsix";
       sha256 = "sha256-eG3kvH2xfb9SJpYv8og8hCQmvSCO07QS20qzV1BgWfw=";
     };
-    name = "caddyfile-support";
     license = "MIT";
-    publisher = "matthewpi";
+    name = "caddyfile-support";
     description = "Rich Caddyfile support for Visual Studio Code";
+    publisher = "matthewpi";
   };
   mattpocock-ts-error-translator = {
     pname = "mattpocock-ts-error-translator";
@@ -12620,10 +12644,10 @@
       url = "https://open-vsx.org/api/mattpocock/ts-error-translator/0.5.3/file/mattpocock.ts-error-translator-0.5.3.vsix";
       sha256 = "sha256-aew4Kvqdy3/ScQO6pQuXgPP150qgqJizL7aKrU5s6jA=";
     };
-    name = "ts-error-translator";
     license = "MIT";
-    publisher = "mattpocock";
+    name = "ts-error-translator";
     description = "TypeScript errors, translated for humans";
+    publisher = "mattpocock";
   };
   mauricioszabo-clover = {
     pname = "mauricioszabo-clover";
@@ -12632,10 +12656,10 @@
       url = "https://open-vsx.org/api/mauricioszabo/clover/0.3.0/file/mauricioszabo.clover-0.3.0.vsix";
       sha256 = "sha256-xIgTNKrJfRaIIGGZvJl3Io/VJImkZKy5LGF2Ay78r7I=";
     };
-    name = "clover";
     license = "MIT";
-    publisher = "mauricioszabo";
+    name = "clover";
     description = "Socket REPL development for your editor";
+    publisher = "mauricioszabo";
   };
   max-SS-Cyberpunk = {
     pname = "max-SS-Cyberpunk";
@@ -12644,10 +12668,10 @@
       url = "https://open-vsx.org/api/max-SS/Cyberpunk/1.2.14/file/max-SS.Cyberpunk-1.2.14.vsix";
       sha256 = "sha256-yIcPcjeIrXnCIjo/dCxCIZwTqXSLfOn0/FK+iY5M0xs=";
     };
-    name = "Cyberpunk";
     license = "MIT";
-    publisher = "max-SS";
+    name = "Cyberpunk";
     description = "A crazy cyberpunk theme";
+    publisher = "max-SS";
   };
   maximedenes-vscoq = {
     pname = "maximedenes-vscoq";
@@ -12656,10 +12680,10 @@
       url = "https://open-vsx.org/api/maximedenes/vscoq/0.3.6/file/maximedenes.vscoq-0.3.6.vsix";
       sha256 = "sha256-hPahpm5IFDpotEZacrhGiyZRFofXxVR0X/AXPBRjiog=";
     };
-    name = "vscoq";
     license = "MIT";
-    publisher = "maximedenes";
+    name = "vscoq";
     description = "An IDE for the Coq Proof Assistant";
+    publisher = "maximedenes";
   };
   maximsmol-open-by-path = {
     pname = "maximsmol-open-by-path";
@@ -12668,10 +12692,10 @@
       url = "https://open-vsx.org/api/maximsmol/open-by-path/0.3.0/file/maximsmol.open-by-path-0.3.0.vsix";
       sha256 = "sha256-GAl3S4O+6u7hKApXUSC/ei78TbfWCSGHYYKHXtwkWj4=";
     };
-    name = "open-by-path";
     license = "MIT OR 0BSD OR CC0-1.0 OR Unlicense";
-    publisher = "maximsmol";
+    name = "open-by-path";
     description = "Open a file by typing its path. Supports fuzzy autocomplete.";
+    publisher = "maximsmol";
   };
   maziac-asm-code-lens = {
     pname = "maziac-asm-code-lens";
@@ -12680,10 +12704,10 @@
       url = "https://open-vsx.org/api/maziac/asm-code-lens/1.10.0/file/maziac.asm-code-lens-1.10.0.vsix";
       sha256 = "sha256-6NarKLiVgnE5W7lJo3jY+pnlV3fVdYWwiDCYm/qzJMc=";
     };
-    name = "asm-code-lens";
     license = "MIT";
-    publisher = "maziac";
+    name = "asm-code-lens";
     description = "A language server that enables code lens, references, hover information, symbol renaming and the outline view for assembler files.";
+    publisher = "maziac";
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
@@ -12692,10 +12716,10 @@
       url = "https://open-vsx.org/api/mbari/tethysl/2.3.5/file/mbari.tethysl-2.3.5.vsix";
       sha256 = "sha256-22TppjKWuKDbuXQkNtHRWJjwg4SjJv0kkxD/nPBExQg=";
     };
-    name = "tethysl";
     license = "Apache-2.0";
-    publisher = "mbari";
+    name = "tethysl";
     description = "Plugin for TethysL";
+    publisher = "mbari";
   };
   mbari-tethysltest = {
     pname = "mbari-tethysltest";
@@ -12704,10 +12728,10 @@
       url = "https://open-vsx.org/api/mbari/tethysltest/0.0.3/file/mbari.tethysltest-0.0.3.vsix";
       sha256 = "sha256-ZMTwdLVilkcFA9KHLGOCG3k27ZO6viIkoYSagXFstMI=";
     };
-    name = "tethysltest";
     license = "MIT";
-    publisher = "mbari";
+    name = "tethysltest";
     description = "Plugin for TethysLTest";
+    publisher = "mbari";
   };
   mbessey-vscode-rufo = {
     pname = "mbessey-vscode-rufo";
@@ -12716,10 +12740,10 @@
       url = "https://open-vsx.org/api/mbessey/vscode-rufo/0.2.1/file/mbessey.vscode-rufo-0.2.1.vsix";
       sha256 = "sha256-oME3+MZE/uo8oF24Q5qVLO9v3BpF+Wp8WJv4tczKVAQ=";
     };
-    name = "vscode-rufo";
     license = "MIT";
-    publisher = "mbessey";
+    name = "vscode-rufo";
     description = "Ruby formatter";
+    publisher = "mbessey";
   };
   mblode-pretty-formatter = {
     pname = "mblode-pretty-formatter";
@@ -12728,10 +12752,10 @@
       url = "https://open-vsx.org/api/mblode/pretty-formatter/0.2.1/file/mblode.pretty-formatter-0.2.1.vsix";
       sha256 = "sha256-1TAvzoVs4+EXz8PSDfYbv/OqhbM48MvB1zBhvJ8ojms=";
     };
-    name = "pretty-formatter";
     license = "MIT";
-    publisher = "mblode";
+    name = "pretty-formatter";
     description = "VS Code extension to format your code using Pretty Diff";
+    publisher = "mblode";
   };
   mblode-twig-language = {
     pname = "mblode-twig-language";
@@ -12740,10 +12764,10 @@
       url = "https://open-vsx.org/api/mblode/twig-language/0.9.1/file/mblode.twig-language-0.9.1.vsix";
       sha256 = "sha256-thbqbXucMzF0EV7gnnXpbq2gQRifn57gvMIKx/CF4aU=";
     };
-    name = "twig-language";
     license = "MIT";
-    publisher = "mblode";
+    name = "twig-language";
     description = "Snippets, Syntax Highlighting, Hover, and Formatting for Twig";
+    publisher = "mblode";
   };
   mblode-twig-language-2 = {
     pname = "mblode-twig-language-2";
@@ -12752,10 +12776,10 @@
       url = "https://open-vsx.org/api/mblode/twig-language-2/0.9.1/file/mblode.twig-language-2-0.9.1.vsix";
       sha256 = "sha256-t1snhZtdnWiYDFt5VTlTX1tFWETDKDMZcH9+O4kYKVA=";
     };
-    name = "twig-language-2";
     license = "MIT";
-    publisher = "mblode";
+    name = "twig-language-2";
     description = "Snippets, Syntax Highlighting, Hover, and Formatting for Twig";
+    publisher = "mblode";
   };
   mblode-zotero = {
     pname = "mblode-zotero";
@@ -12764,10 +12788,10 @@
       url = "https://open-vsx.org/api/mblode/zotero/0.1.10/file/mblode.zotero-0.1.10.vsix";
       sha256 = "sha256-KR6NqcmZT47/48UA+VYLKvs4Pm8L7PkwLS7g6hGNovs=";
     };
-    name = "zotero";
     license = "MIT";
-    publisher = "mblode";
+    name = "zotero";
     description = "Zotero Better Bibtex citation picker for VS Code";
+    publisher = "mblode";
   };
   mborik-z80-macroasm = {
     pname = "mborik-z80-macroasm";
@@ -12776,10 +12800,10 @@
       url = "https://open-vsx.org/api/mborik/z80-macroasm/0.7.8/file/mborik.z80-macroasm-0.7.8.vsix";
       sha256 = "sha256-U5EAIA2hL2JciKwfBAmfufOuyr9ONIpZ2ce+g4mgfbE=";
     };
-    name = "z80-macroasm";
     license = "MIT";
-    publisher = "mborik";
+    name = "z80-macroasm";
     description = "Support for Z80 macro-assemblers in Visual Studio Code";
+    publisher = "mborik";
   };
   mechatroner-rainbow-csv = {
     pname = "mechatroner-rainbow-csv";
@@ -12788,10 +12812,10 @@
       url = "https://open-vsx.org/api/mechatroner/rainbow-csv/2.4.0/file/mechatroner.rainbow-csv-2.4.0.vsix";
       sha256 = "sha256-bMu0+ZrhpMHsXXW/1J7hDlIX2ScxEMSaThYhibdOv5k=";
     };
-    name = "rainbow-csv";
     license = "MIT";
-    publisher = "mechatroner";
+    name = "rainbow-csv";
     description = "Highlight CSV and TSV files, Run SQL-like queries";
+    publisher = "mechatroner";
   };
   medo64-render-crlf = {
     pname = "medo64-render-crlf";
@@ -12800,10 +12824,10 @@
       url = "https://open-vsx.org/api/medo64/render-crlf/1.6.0/file/medo64.render-crlf-1.6.0.vsix";
       sha256 = "sha256-ZVnIffwg3MnnU9K6gnFL2R2cBDqYAdEVXEFDJm2nitw=";
     };
-    name = "render-crlf";
     license = "MIT";
-    publisher = "medo64";
+    name = "render-crlf";
     description = "Displays the line ending symbol and optionally extra whitespace when 'Render whitespace' is turned on.";
+    publisher = "medo64";
   };
   meganrogge-template-string-converter = {
     pname = "meganrogge-template-string-converter";
@@ -12812,10 +12836,10 @@
       url = "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.9/file/meganrogge.template-string-converter-0.5.9.vsix";
       sha256 = "sha256-tbbPAE2jUsU3AlkUJs8F1+jgqgfRZUC5V9d4LrJAt0U=";
     };
-    name = "template-string-converter";
     license = "MIT";
-    publisher = "meganrogge";
+    name = "template-string-converter";
     description = "Converts a string to a template string when '$'{ is typed";
+    publisher = "meganrogge";
   };
   melmass-vex = {
     pname = "melmass-vex";
@@ -12824,10 +12848,10 @@
       url = "https://open-vsx.org/api/melmass/vex/0.6.0/file/melmass.vex-0.6.0.vsix";
       sha256 = "sha256-V2dOSf0l61xSxDRj+D1Xv6XMEM/+2uy75K/sv0Wcuzc=";
     };
-    name = "vex";
     license = "MIT";
-    publisher = "melmass";
+    name = "vex";
     description = "Houdini VEX Support for VSCode";
+    publisher = "melmass";
   };
   memothelemo-roact-snippets = {
     pname = "memothelemo-roact-snippets";
@@ -12836,10 +12860,10 @@
       url = "https://open-vsx.org/api/memothelemo/roact-snippets/1.0.2/file/memothelemo.roact-snippets-1.0.2.vsix";
       sha256 = "sha256-fJF/9HqJq5oJOE8qPz7Ttdh+wJjGCxvI/6OthSjJcWA=";
     };
-    name = "roact-snippets";
     license = "MIT";
-    publisher = "memothelemo";
+    name = "roact-snippets";
     description = "Roact snippets for TSX and Luau";
+    publisher = "memothelemo";
   };
   meraymond-idris-vscode = {
     pname = "meraymond-idris-vscode";
@@ -12848,10 +12872,10 @@
       url = "https://open-vsx.org/api/meraymond/idris-vscode/0.0.12/file/meraymond.idris-vscode-0.0.12.vsix";
       sha256 = "sha256-kRGXcb/WrPbjOgzGrqojkuR3nl5OeC1x6IqaPpHvHsM=";
     };
-    name = "idris-vscode";
     license = "MIT";
-    publisher = "meraymond";
+    name = "idris-vscode";
     description = "Language support for Idris and Idris 2.";
+    publisher = "meraymond";
   };
   mercedes-benz-sechub = {
     pname = "mercedes-benz-sechub";
@@ -12860,10 +12884,10 @@
       url = "https://open-vsx.org/api/mercedes-benz/sechub/0.1.3/file/mercedes-benz.sechub-0.1.3.vsix";
       sha256 = "sha256-b0uKdDDHwnzFn4j/95d+HqU0wdXonMuRG/MEtyqSavc=";
     };
-    name = "sechub";
     license = "MIT";
-    publisher = "mercedes-benz";
+    name = "sechub";
     description = "SecHub plugin for VSCode/VSCodium/Eclipse Theia";
+    publisher = "mercedes-benz";
   };
   meronz-hybrid-dim = {
     pname = "meronz-hybrid-dim";
@@ -12872,10 +12896,10 @@
       url = "https://open-vsx.org/api/meronz/hybrid-dim/0.0.3/file/meronz.hybrid-dim-0.0.3.vsix";
       sha256 = "sha256-wwoLDO30nDTrGxRoHcRV1Ab8ltS0ibS7azg47MPRRu8=";
     };
-    name = "hybrid-dim";
     license = "MIT";
-    publisher = "meronz";
+    name = "hybrid-dim";
     description = "Based on vim-hybrid.";
+    publisher = "meronz";
   };
   meronz-manpages = {
     pname = "meronz-manpages";
@@ -12884,10 +12908,10 @@
       url = "https://open-vsx.org/api/meronz/manpages/0.1.1/file/meronz.manpages-0.1.1.vsix";
       sha256 = "sha256-nW39oESuLk6pYVMfE16Ewng6mPuQaQN/I3LQYqS735o=";
     };
-    name = "manpages";
     license = "GPLv3";
-    publisher = "meronz";
+    name = "manpages";
     description = "Quickly open man pages and navigate through them.";
+    publisher = "meronz";
   };
   mesonbuild-mesonbuild = {
     pname = "mesonbuild-mesonbuild";
@@ -12896,10 +12920,10 @@
       url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.5.2/file/mesonbuild.mesonbuild-1.5.2.vsix";
       sha256 = "sha256-e7rhTikUZOQhwTWk1gFc1hqI6NuIYk1JNIMOdMg7wPk=";
     };
-    name = "mesonbuild";
     license = "Apache-2.0";
-    publisher = "mesonbuild";
+    name = "mesonbuild";
     description = "Meson language support for Visual Studio Code";
+    publisher = "mesonbuild";
   };
   metafacture-fix = {
     pname = "metafacture-fix";
@@ -12908,10 +12932,10 @@
       url = "https://open-vsx.org/api/metafacture/fix/0.1.1/file/metafacture.fix-0.1.1.vsix";
       sha256 = "sha256-bdT8NyhUg3wGge0TYTB8fO5pnkRJwY75MOlgwXYnP8I=";
     };
-    name = "fix";
     license = "Apache-2.0";
-    publisher = "metafacture";
+    name = "fix";
     description = "Language Support for Metafacture Fix (Xtext Language Server for Metafacture Fix). For more information, visit https://metafacture.org";
+    publisher = "metafacture";
   };
   metafacture-flux = {
     pname = "metafacture-flux";
@@ -12920,10 +12944,10 @@
       url = "https://open-vsx.org/api/metafacture/flux/0.0.2/file/metafacture.flux-0.0.2.vsix";
       sha256 = "sha256-U64EzaN+do1NVhSbXlBao//YXyRIkWvaneswy429b0Y=";
     };
-    name = "flux";
     license = "Apache-2.0";
-    publisher = "metafacture";
+    name = "flux";
     description = "Language Support for Metafacture Flux (Xtext Language Server for Metfacture Flux). For more information, visit https://metafacture.org";
+    publisher = "metafacture";
   };
   meteor-toolbox-meteor-toolbox = {
     pname = "meteor-toolbox-meteor-toolbox";
@@ -12932,10 +12956,10 @@
       url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.4/file/meteor-toolbox.meteor-toolbox-1.1.4.vsix";
       sha256 = "sha256-u2diFRFtKYmACuwpXh0xS72OjqdmnGNeTnarPAhouhg=";
     };
-    name = "meteor-toolbox";
     license = "MIT";
-    publisher = "meteor-toolbox";
+    name = "meteor-toolbox";
     description = "Easily set up your Meteor environment (intelisense, run options and many other things).";
+    publisher = "meteor-toolbox";
   };
   mgmcdermott-vscode-language-babel = {
     pname = "mgmcdermott-vscode-language-babel";
@@ -12944,10 +12968,10 @@
       url = "https://open-vsx.org/api/mgmcdermott/vscode-language-babel/0.0.35/file/mgmcdermott.vscode-language-babel-0.0.35.vsix";
       sha256 = "sha256-9n1q8bhG6ruuoeKtt7cDzUjCWXMIEZUIPI8lDDK8OeM=";
     };
-    name = "vscode-language-babel";
     license = "MIT";
-    publisher = "mgmcdermott";
+    name = "vscode-language-babel";
     description = "VSCode syntax highlighting for today's JavaScript";
+    publisher = "mgmcdermott";
   };
   mhkb-vscode-theme-darcula-stormy = {
     pname = "mhkb-vscode-theme-darcula-stormy";
@@ -12956,10 +12980,10 @@
       url = "https://open-vsx.org/api/mhkb/vscode-theme-darcula-stormy/0.7.0/file/mhkb.vscode-theme-darcula-stormy-0.7.0.vsix";
       sha256 = "sha256-JXQp+JyLGs8oBpdEyk9Pdr1XH1+DdeIJfYersu/dKrU=";
     };
-    name = "vscode-theme-darcula-stormy";
     license = "MIT";
-    publisher = "mhkb";
+    name = "vscode-theme-darcula-stormy";
     description = "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs";
+    publisher = "mhkb";
   };
   mhutchie-git-graph = {
     pname = "mhutchie-git-graph";
@@ -12968,10 +12992,10 @@
       url = "https://open-vsx.org/api/mhutchie/git-graph/1.30.0/file/mhutchie.git-graph-1.30.0.vsix";
       sha256 = "sha256-prqj1bYjEDVDHWM4KG5N5+Je4hS1jt7hx+LJQjvbVS8=";
     };
-    name = "git-graph";
     license = "";
-    publisher = "mhutchie";
+    name = "git-graph";
     description = "View a Git Graph of your repository, and perform Git actions from the graph.";
+    publisher = "mhutchie";
   };
   miguel-savignano-ruby-symbols = {
     pname = "miguel-savignano-ruby-symbols";
@@ -12980,10 +13004,10 @@
       url = "https://open-vsx.org/api/miguel-savignano/ruby-symbols/0.1.8/file/miguel-savignano.ruby-symbols-0.1.8.vsix";
       sha256 = "sha256-DCGaPxBDcXyoErrw+d+QCZkAiTkr+7SnoJiCh9fOKI8=";
     };
-    name = "ruby-symbols";
     license = "MIT";
-    publisher = "miguel-savignano";
+    name = "ruby-symbols";
     description = "VSCode Ruby symbols search methods";
+    publisher = "miguel-savignano";
   };
   miguelsolorio-fluent-icons = {
     pname = "miguelsolorio-fluent-icons";
@@ -12992,10 +13016,10 @@
       url = "https://open-vsx.org/api/miguelsolorio/fluent-icons/0.0.17/file/miguelsolorio.fluent-icons-0.0.17.vsix";
       sha256 = "sha256-EtRVViXzmIrdcwxVc1Ano/hbJtY7cMnz1+5y7FkQKHw=";
     };
-    name = "fluent-icons";
     license = "MIT";
-    publisher = "miguelsolorio";
+    name = "fluent-icons";
     description = "Fluent product icons for Visual Studio Code";
+    publisher = "miguelsolorio";
   };
   mike-flanigan-daobeam = {
     pname = "mike-flanigan-daobeam";
@@ -13004,10 +13028,10 @@
       url = "https://open-vsx.org/api/mike-flanigan/daobeam/1.3.12/file/mike-flanigan.daobeam-1.3.12.vsix";
       sha256 = "sha256-PRuN2pS8ga2K/aaxaUjxd1dMsuAJekQDG6mBd/Emj3A=";
     };
-    name = "daobeam";
     license = "GNU General Public License v3.0";
-    publisher = "mike-flanigan";
+    name = "daobeam";
     description = "Low contrast, light theme";
+    publisher = "mike-flanigan";
   };
   mikestead-dotenv = {
     pname = "mikestead-dotenv";
@@ -13016,10 +13040,10 @@
       url = "https://open-vsx.org/api/mikestead/dotenv/1.0.1/file/mikestead.dotenv-1.0.1.vsix";
       sha256 = "sha256-U5M0/G6/p4HqMtM2JAulkeKl+5lBd5bE4thPtYA4l8Y=";
     };
-    name = "dotenv";
     license = "MIT";
-    publisher = "mikestead";
+    name = "dotenv";
     description = "Support for dotenv file syntax";
+    publisher = "mikestead";
   };
   millerdev-pyxt = {
     pname = "millerdev-pyxt";
@@ -13028,10 +13052,10 @@
       url = "https://open-vsx.org/api/millerdev/pyxt/0.3.7/file/millerdev.pyxt-0.3.7.vsix";
       sha256 = "sha256-pqbOj4ZH2FTXotXBrKd1ilKoLhmVPyQD0l32jVREiuU=";
     };
-    name = "pyxt";
     license = "See LICENSE file";
-    publisher = "millerdev";
+    name = "pyxt";
     description = "Python eXTensions for VS Code";
+    publisher = "millerdev";
   };
   mindaro-dev-file-downloader = {
     pname = "mindaro-dev-file-downloader";
@@ -13040,10 +13064,10 @@
       url = "https://open-vsx.org/api/mindaro-dev/file-downloader/1.0.12/file/mindaro-dev.file-downloader-1.0.12.vsix";
       sha256 = "sha256-UOhivINWMUeuliKP0q1oTU4dxtzN5+O7O//XnorZlpo=";
     };
-    name = "file-downloader";
     license = "MIT";
-    publisher = "mindaro-dev";
+    name = "file-downloader";
     description = "Exposes an API that allows other extensions to download files.";
+    publisher = "mindaro-dev";
   };
   mintlify-document = {
     pname = "mintlify-document";
@@ -13052,10 +13076,10 @@
       url = "https://open-vsx.org/api/mintlify/document/2.1.21/file/mintlify.document-2.1.21.vsix";
       sha256 = "sha256-haqhgpDS+hHNRQ0P0plMneDHD0Hf+iFtFoZgEo/Al6w=";
     };
-    name = "document";
     license = "Expat";
-    publisher = "mintlify";
+    name = "document";
     description = "AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages";
+    publisher = "mintlify";
   };
   misodee-vscode-nbt = {
     pname = "misodee-vscode-nbt";
@@ -13064,10 +13088,10 @@
       url = "https://open-vsx.org/api/misodee/vscode-nbt/0.6.7/file/misodee.vscode-nbt-0.6.7.vsix";
       sha256 = "sha256-CYB3UMfjjzE8pJg1qyAGG7v2jze0zJQGfn2KAgcyY5o=";
     };
-    name = "vscode-nbt";
     license = "MIT";
-    publisher = "misodee";
+    name = "vscode-nbt";
     description = "View Minecraft NBT and 3D structures";
+    publisher = "misodee";
   };
   mitaki28-vscode-clang = {
     pname = "mitaki28-vscode-clang";
@@ -13076,10 +13100,10 @@
       url = "https://open-vsx.org/api/mitaki28/vscode-clang/0.2.4/file/mitaki28.vscode-clang-0.2.4.vsix";
       sha256 = "sha256-4LjTfvs7ObnTYtaT1WYY/eaYJVulKp7SlqjGt3hDwJI=";
     };
-    name = "vscode-clang";
     license = "MIT";
-    publisher = "mitaki28";
+    name = "vscode-clang";
     description = "Completion and Diagnostic for C/C++/Objective-C using Clang Command";
+    publisher = "mitaki28";
   };
   mitchdenny-ecdc = {
     pname = "mitchdenny-ecdc";
@@ -13088,10 +13112,10 @@
       url = "https://open-vsx.org/api/mitchdenny/ecdc/1.7.0/file/mitchdenny.ecdc-1.7.0.vsix";
       sha256 = "sha256-U6ixKDujQOZ860w7jzqaioCgLQc33FpP8xnVe3qnA5o=";
     };
-    name = "ecdc";
     license = "Apache-2.0";
-    publisher = "mitchdenny";
+    name = "ecdc";
     description = "An extension for Visual Studio Code that allows you to quickly convert text selections.";
+    publisher = "mitchdenny";
   };
   mjcrouch-perforce = {
     pname = "mjcrouch-perforce";
@@ -13100,10 +13124,10 @@
       url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.2/file/mjcrouch.perforce-4.15.2.vsix";
       sha256 = "sha256-146PLSlarzJfD5A9EWesQoyRrV7ucBS/uivx2tfN6Js=";
     };
-    name = "perforce";
     license = "MIT";
-    publisher = "mjcrouch";
+    name = "perforce";
     description = "(2020 Fork) Perforce integration with VS Code's SCM features";
+    publisher = "mjcrouch";
   };
   mjmlio-vscode-mjml = {
     pname = "mjmlio-vscode-mjml";
@@ -13112,10 +13136,10 @@
       url = "https://open-vsx.org/api/mjmlio/vscode-mjml/1.0.5/file/mjmlio.vscode-mjml-1.0.5.vsix";
       sha256 = "sha256-H0xPbwxOMi0rH2881l2Q8kYU0E5+Q3m9PXfMatd/lRs=";
     };
-    name = "vscode-mjml";
     license = "MIT";
-    publisher = "mjmlio";
+    name = "vscode-mjml";
     description = "MJML preview, lint, compile for Visual Studio Code.";
+    publisher = "mjmlio";
   };
   mkhl-direnv = {
     pname = "mkhl-direnv";
@@ -13124,10 +13148,10 @@
       url = "https://open-vsx.org/api/mkhl/direnv/0.6.1/file/mkhl.direnv-0.6.1.vsix";
       sha256 = "sha256-5/Tqpn/7byl+z2ATflgKV1+rhdqj+XMEZNbGwDmGwLQ=";
     };
-    name = "direnv";
     license = "0BSD";
-    publisher = "mkhl";
+    name = "direnv";
     description = "unclutter your .profile";
+    publisher = "mkhl";
   };
   mkhl-shfmt = {
     pname = "mkhl-shfmt";
@@ -13136,10 +13160,10 @@
       url = "https://open-vsx.org/api/mkhl/shfmt/1.1.1/file/mkhl.shfmt-1.1.1.vsix";
       sha256 = "sha256-oH0kPLPJ1M1MolWY36gSHfnzFB94Uvt7SY1sgKEBpE4=";
     };
-    name = "shfmt";
     license = "0BSD";
-    publisher = "mkhl";
+    name = "shfmt";
     description = "format shell programs";
+    publisher = "mkhl";
   };
   mohamedbenhida-laravel-intellisense = {
     pname = "mohamedbenhida-laravel-intellisense";
@@ -13148,10 +13172,10 @@
       url = "https://open-vsx.org/api/mohamedbenhida/laravel-intellisense/0.2.0/file/mohamedbenhida.laravel-intellisense-0.2.0.vsix";
       sha256 = "sha256-5TzDSqsbGTfNkAMkLYenWZ8KtsfMEt86K3y6Sw1QFEw=";
     };
-    name = "laravel-intellisense";
     license = "MIT";
-    publisher = "mohamedbenhida";
+    name = "laravel-intellisense";
     description = "Laravel intellisense for Visual Studio Code";
+    publisher = "mohamedbenhida";
   };
   mongodb-mongodb-vscode = {
     pname = "mongodb-mongodb-vscode";
@@ -13160,10 +13184,10 @@
       url = "https://open-vsx.org/api/mongodb/mongodb-vscode/0.9.3/file/mongodb.mongodb-vscode-0.9.3.vsix";
       sha256 = "sha256-kE7qAg0R4yffaklxoP2ZIGlZbj+jPNzqmpTw/RYJn1k=";
     };
-    name = "mongodb-vscode";
     license = "Apache-2.0";
-    publisher = "mongodb";
+    name = "mongodb-vscode";
     description = "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.";
+    publisher = "mongodb";
   };
   monovaldes-linter-codeclimate = {
     pname = "monovaldes-linter-codeclimate";
@@ -13172,10 +13196,10 @@
       url = "https://open-vsx.org/api/monovaldes/linter-codeclimate/0.1.0/file/monovaldes.linter-codeclimate-0.1.0.vsix";
       sha256 = "sha256-xUA+24Fh5XAHNqstuFN8fv0mgbAwki8G8NQaJPPDFhc=";
     };
-    name = "linter-codeclimate";
     license = "";
-    publisher = "monovaldes";
+    name = "linter-codeclimate";
     description = "Linter Plugin for CodeClimate CLI";
+    publisher = "monovaldes";
   };
   moocfi-test-my-code = {
     pname = "moocfi-test-my-code";
@@ -13184,10 +13208,10 @@
       url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.2/file/moocfi.test-my-code-2.1.2.vsix";
       sha256 = "sha256-RwQnbdySyvO2sAGVXTT45f8jnONvx5dcsOpWGLizrYM=";
     };
-    name = "test-my-code";
     license = "MIT";
-    publisher = "moocfi";
+    name = "test-my-code";
     description = "TestMyCode extension for Visual Studio Code";
+    publisher = "moocfi";
   };
   moshfeu-compare-folders = {
     pname = "moshfeu-compare-folders";
@@ -13196,10 +13220,10 @@
       url = "https://open-vsx.org/api/moshfeu/compare-folders/0.22.0/file/moshfeu.compare-folders-0.22.0.vsix";
       sha256 = "sha256-DwmWXMkjrh6tkExCbxMyET862W8d4eU73N2osh0ykxQ=";
     };
-    name = "compare-folders";
     license = "MIT";
-    publisher = "moshfeu";
+    name = "compare-folders";
     description = "Compare folders by contents, present the files that have differences and display the diffs side by side";
+    publisher = "moshfeu";
   };
   moshfeu-diff-merge = {
     pname = "moshfeu-diff-merge";
@@ -13208,10 +13232,10 @@
       url = "https://open-vsx.org/api/moshfeu/diff-merge/0.7.0/file/moshfeu.diff-merge-0.7.0.vsix";
       sha256 = "sha256-msu6aFIJ0sS0rd5RN45MQ6Zi8gFjrgCjMwXoKvOUP5o=";
     };
-    name = "diff-merge";
     license = "MIT";
-    publisher = "moshfeu";
+    name = "diff-merge";
     description = "Show diffs and merge";
+    publisher = "moshfeu";
   };
   mp-oradew-vscode = {
     pname = "mp-oradew-vscode";
@@ -13220,10 +13244,10 @@
       url = "https://open-vsx.org/api/mp/oradew-vscode/0.3.29/file/mp.oradew-vscode-0.3.29.vsix";
       sha256 = "sha256-x9mbaN9fLuSNKsEngFgXKJwKRDJUrJXXtBG1oopTig0=";
     };
-    name = "oradew-vscode";
     license = "MIT";
-    publisher = "mp";
+    name = "oradew-vscode";
     description = "Develop Oracle (PL/SQL) project in VS Code.";
+    publisher = "mp";
   };
   mpotthoff-vscode-android-webview-debug = {
     pname = "mpotthoff-vscode-android-webview-debug";
@@ -13232,10 +13256,10 @@
       url = "https://open-vsx.org/api/mpotthoff/vscode-android-webview-debug/1.2.2/file/mpotthoff.vscode-android-webview-debug-1.2.2.vsix";
       sha256 = "sha256-lkZq3uGhuWks/9mM5oakeoQMCzbIHOrcGxfvI9yoaz8=";
     };
-    name = "vscode-android-webview-debug";
     license = "LGPL-3.0";
-    publisher = "mpotthoff";
+    name = "vscode-android-webview-debug";
     description = "Debug your JavaScript code running in WebViews on any Android device from VS Code.";
+    publisher = "mpotthoff";
   };
   mpty-pack-arduino = {
     pname = "mpty-pack-arduino";
@@ -13244,10 +13268,10 @@
       url = "https://open-vsx.org/api/mpty/pack-arduino/0.1.0/file/mpty.pack-arduino-0.1.0.vsix";
       sha256 = "sha256-tQxGxw6giH5XGcQTMCEqQDQujyEgR3pNoAS8CF5vqDQ=";
     };
-    name = "pack-arduino";
     license = "MIT";
-    publisher = "mpty";
+    name = "pack-arduino";
     description = "Collection of extensions for working with Arduino devices.";
+    publisher = "mpty";
   };
   mrakgr-spiral-lang-vscode = {
     pname = "mrakgr-spiral-lang-vscode";
@@ -13256,10 +13280,10 @@
       url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.1.11/file/mrakgr.spiral-lang-vscode-2.1.11.vsix";
       sha256 = "sha256-qOgPEe6PsrzWwG2utBolRPavWLOg79aWsdX1QdkCSx8=";
     };
-    name = "spiral-lang-vscode";
     license = "";
-    publisher = "mrakgr";
+    name = "spiral-lang-vscode";
     description = "VS Code editor support plugin + the Spiral language compiler.";
+    publisher = "mrakgr";
   };
   mrcrowl-hg = {
     pname = "mrcrowl-hg";
@@ -13268,10 +13292,10 @@
       url = "https://open-vsx.org/api/mrcrowl/hg/1.8.1/file/mrcrowl.hg-1.8.1.vsix";
       sha256 = "sha256-ydr8AJ3V0d8/SBU84D8pMCqbUhf605Mhtq5hgEt9h0M=";
     };
-    name = "hg";
     license = "MIT";
-    publisher = "mrcrowl";
+    name = "hg";
     description = "Integrated Mercurial source control";
+    publisher = "mrcrowl";
   };
   mrmlnc-vscode-apache = {
     pname = "mrmlnc-vscode-apache";
@@ -13280,10 +13304,10 @@
       url = "https://open-vsx.org/api/mrmlnc/vscode-apache/1.2.0/file/mrmlnc.vscode-apache-1.2.0.vsix";
       sha256 = "sha256-gkn3D8nnzZBj2IyTaJ6NWm8ZbztE2KYDvkSuT0+xCRQ=";
     };
-    name = "vscode-apache";
     license = "MIT";
-    publisher = "mrmlnc";
+    name = "vscode-apache";
     description = "Syntax highlighter for Apache configuration files";
+    publisher = "mrmlnc";
   };
   mrmlnc-vscode-csscomb = {
     pname = "mrmlnc-vscode-csscomb";
@@ -13292,10 +13316,10 @@
       url = "https://open-vsx.org/api/mrmlnc/vscode-csscomb/5.3.2/file/mrmlnc.vscode-csscomb-5.3.2.vsix";
       sha256 = "sha256-2ByMhD6RwlNXeNOVgOiZdyFruY6fbSk+YbV0h2OH4z0=";
     };
-    name = "vscode-csscomb";
     license = "MIT";
-    publisher = "mrmlnc";
+    name = "vscode-csscomb";
     description = "Coding style formatter for CSS, Less, SCSS or Sass";
+    publisher = "mrmlnc";
   };
   mrmlnc-vscode-duplicate = {
     pname = "mrmlnc-vscode-duplicate";
@@ -13304,10 +13328,10 @@
       url = "https://open-vsx.org/api/mrmlnc/vscode-duplicate/1.2.1/file/mrmlnc.vscode-duplicate-1.2.1.vsix";
       sha256 = "sha256-o1kvMxeNasdbaG71ivt2ROxmiU7sqwln3X/hEFxs3us=";
     };
-    name = "vscode-duplicate";
     license = "MIT";
-    publisher = "mrmlnc";
+    name = "vscode-duplicate";
     description = "Ability to duplicate files in VS Code";
+    publisher = "mrmlnc";
   };
   mrmlnc-vscode-scss = {
     pname = "mrmlnc-vscode-scss";
@@ -13316,10 +13340,10 @@
       url = "https://open-vsx.org/api/mrmlnc/vscode-scss/0.9.1/file/mrmlnc.vscode-scss-0.9.1.vsix";
       sha256 = "sha256-GXKEElf4JqCwYs8RqGQzpTXWQ5TzMMH16whnMvlQlNk=";
     };
-    name = "vscode-scss";
     license = "MIT";
-    publisher = "mrmlnc";
+    name = "vscode-scss";
     description = "Advanced autocompletion and refactoring support for SCSS";
+    publisher = "mrmlnc";
   };
   mrorz-language-gettext = {
     pname = "mrorz-language-gettext";
@@ -13328,10 +13352,10 @@
       url = "https://open-vsx.org/api/mrorz/language-gettext/0.2.0/file/mrorz.language-gettext-0.2.0.vsix";
       sha256 = "sha256-sBrrYE0/HzqTgLQHeVGQawXTZOV56yBp6yBl+pmfm9I=";
     };
-    name = "language-gettext";
     license = "MIT";
-    publisher = "mrorz";
+    name = "language-gettext";
     description = "Gettext PO files language support for Visual Studio Code";
+    publisher = "mrorz";
   };
   mrworkman-papercolor-vscode-redux = {
     pname = "mrworkman-papercolor-vscode-redux";
@@ -13340,10 +13364,10 @@
       url = "https://open-vsx.org/api/mrworkman/papercolor-vscode-redux/0.10.0/file/mrworkman.papercolor-vscode-redux-0.10.0.vsix";
       sha256 = "sha256-/70MLzFBymNQZiI9TS+Ar5PaQ0bB6t835vk1BO36XVo=";
     };
-    name = "papercolor-vscode-redux";
     license = "MIT";
-    publisher = "mrworkman";
+    name = "papercolor-vscode-redux";
     description = "Updated papercolor theme for vscode.";
+    publisher = "mrworkman";
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
@@ -13352,10 +13376,10 @@
       url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.3/file/ms-azuretools.vscode-azurefunctions-1.7.3.vsix";
       sha256 = "sha256-og0knnoTvkLfuoVxDUhZezzMPGRpQ8Co9du5BJilluw=";
     };
-    name = "vscode-azurefunctions";
     license = "MIT";
-    publisher = "ms-azuretools";
+    name = "vscode-azurefunctions";
     description = "An Azure Functions extension for Visual Studio Code.";
+    publisher = "ms-azuretools";
   };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
@@ -13364,10 +13388,10 @@
       url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.22.0/file/ms-azuretools.vscode-docker-1.22.0.vsix";
       sha256 = "sha256-+cY9uLQ4oIk7V/4uCNc6BdIAQCXvPPGeqd0apbDjDos=";
     };
-    name = "vscode-docker";
     license = "MIT";
-    publisher = "ms-azuretools";
+    name = "vscode-docker";
     description = "Makes it easy to create, manage, and debug containerized applications.";
+    publisher = "ms-azuretools";
   };
   ms-dotnettools-vscode-dotnet-runtime = {
     pname = "ms-dotnettools-vscode-dotnet-runtime";
@@ -13376,10 +13400,10 @@
       url = "https://open-vsx.org/api/ms-dotnettools/vscode-dotnet-runtime/1.5.0/file/ms-dotnettools.vscode-dotnet-runtime-1.5.0.vsix";
       sha256 = "sha256-hYGzvOk7lAVs68+VB9xb3X3GaxN0nDl2/PwjWQonJ8E=";
     };
-    name = "vscode-dotnet-runtime";
     license = "MIT";
-    publisher = "ms-dotnettools";
+    name = "vscode-dotnet-runtime";
     description = "Allows acquisition of the .NET runtime specifically for VS Code extension authors.";
+    publisher = "ms-dotnettools";
   };
   ms-edgedevtools-vscode-edge-devtools = {
     pname = "ms-edgedevtools-vscode-edge-devtools";
@@ -13388,10 +13412,10 @@
       url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/1.4.6/file/ms-edgedevtools.vscode-edge-devtools-1.4.6.vsix";
       sha256 = "sha256-a+brDxqQ7Xqazy+bnqImIXyEX9gNVArUq67TpkBqH4c=";
     };
-    name = "vscode-edge-devtools";
     license = "MIT";
-    publisher = "ms-edgedevtools";
+    name = "vscode-edge-devtools";
     description = "Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML structure, alter its layout, fix styling issues as well as see your site's network requests.";
+    publisher = "ms-edgedevtools";
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
@@ -13400,10 +13424,10 @@
       url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.9/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.9.vsix";
       sha256 = "sha256-wcnVaJmRDLtTWaSujzBkOOCTwEM+6bENLNx4pM6Qbfo=";
     };
-    name = "vscode-kubernetes-tools";
     license = "MIT";
-    publisher = "ms-kubernetes-tools";
+    name = "vscode-kubernetes-tools";
     description = "Develop, deploy and debug Kubernetes applications";
+    publisher = "ms-kubernetes-tools";
   };
   ms-mssql-mssql = {
     pname = "ms-mssql-mssql";
@@ -13412,10 +13436,10 @@
       url = "https://open-vsx.org/api/ms-mssql/mssql/1.9.0/file/ms-mssql.mssql-1.9.0.vsix";
       sha256 = "sha256-RFiqYN2YK5psrw0TK/NU0tX1DnuIHE0GEdSRFB4vGx0=";
     };
-    name = "mssql";
     license = "MIT";
-    publisher = "ms-mssql";
+    name = "mssql";
     description = "Develop Microsoft SQL Server, Azure SQL Database and SQL Data Warehouse everywhere";
+    publisher = "ms-mssql";
   };
   ms-playwright-playwright = {
     pname = "ms-playwright-playwright";
@@ -13424,10 +13448,10 @@
       url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.3/file/ms-playwright.playwright-0.2.3.vsix";
       sha256 = "sha256-nu2Y+TjtKeISBLRJX867VBqGNniKU98vsR3wdrYzn6Y=";
     };
-    name = "playwright";
     license = "Apache-2.0";
-    publisher = "ms-playwright";
+    name = "playwright";
     description = "Run Playwright Test tests in Visual Studio Code.";
+    publisher = "ms-playwright";
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
@@ -13436,10 +13460,10 @@
       url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.239/file/ms-pyright.pyright-1.1.239.vsix";
       sha256 = "sha256-38HfJl8I+bhXAa9IP6/14u86RIcs++KPcUYXIHnY3xA=";
     };
-    name = "pyright";
     license = "MIT";
-    publisher = "ms-pyright";
+    name = "pyright";
     description = "VS Code static type checking for Python";
+    publisher = "ms-pyright";
   };
   ms-python-anaconda-extension-pack = {
     pname = "ms-python-anaconda-extension-pack";
@@ -13448,10 +13472,10 @@
       url = "https://open-vsx.org/api/ms-python/anaconda-extension-pack/1.0.1/file/ms-python.anaconda-extension-pack-1.0.1.vsix";
       sha256 = "sha256-9xPkrLpwze9H+fIfgvhVUHrf6lKRJuTY3MYTm22ZLx0=";
     };
-    name = "anaconda-extension-pack";
     license = "MIT";
-    publisher = "ms-python";
+    name = "anaconda-extension-pack";
     description = "The Anaconda Extension Pack is a set of extensions that enhance the experience of Anaconda customers using Visual Studio Code";
+    publisher = "ms-python";
   };
   ms-python-devicesimulatorexpress = {
     pname = "ms-python-devicesimulatorexpress";
@@ -13460,10 +13484,10 @@
       url = "https://open-vsx.org/api/ms-python/devicesimulatorexpress/2020.0.36321/file/ms-python.devicesimulatorexpress-2020.0.36321.vsix";
       sha256 = "sha256-ZorThGDx3ImQhYB0I1yUFYLLmCsQFBfPI2woUiNCrno=";
     };
-    name = "devicesimulatorexpress";
     license = "MIT";
-    publisher = "ms-python";
+    name = "devicesimulatorexpress";
     description = "Device Simulator Express, a Microsoft Garage project";
+    publisher = "ms-python";
   };
   ms-python-python = {
     pname = "ms-python-python";
@@ -13472,10 +13496,10 @@
       url = "https://open-vsx.org/api/ms-python/python/2022.6.3/file/ms-python.python-2022.6.3.vsix";
       sha256 = "sha256-+JQvacbawYmTdjP3GDIHsk/d9KW8824bEhnkK5Hl+zY=";
     };
-    name = "python";
     license = "MIT";
-    publisher = "ms-python";
+    name = "python";
     description = "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more.";
+    publisher = "ms-python";
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
@@ -13484,10 +13508,10 @@
       url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.5.1001290443/file/ms-toolsai.jupyter-2022.5.1001290443.vsix";
       sha256 = "sha256-8kr4kGdonD9tXPuf9yfSSXwZ0WfvwTbyb79vZQUKWWg=";
     };
-    name = "jupyter";
     license = "MIT";
-    publisher = "ms-toolsai";
+    name = "jupyter";
     description = "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more.";
+    publisher = "ms-toolsai";
   };
   ms-toolsai-jupyter-keymap = {
     pname = "ms-toolsai-jupyter-keymap";
@@ -13496,10 +13520,10 @@
       url = "https://open-vsx.org/api/ms-toolsai/jupyter-keymap/1.0.0/file/ms-toolsai.jupyter-keymap-1.0.0.vsix";
       sha256 = "sha256-t7/b6RmbHWjT0WjJVGqC/z5IlfZmg4zQjknM3M+yHN8=";
     };
-    name = "jupyter-keymap";
     license = "MIT";
-    publisher = "ms-toolsai";
+    name = "jupyter-keymap";
     description = "Jupyter keymaps for notebooks";
+    publisher = "ms-toolsai";
   };
   ms-toolsai-jupyter-renderers = {
     pname = "ms-toolsai-jupyter-renderers";
@@ -13508,10 +13532,10 @@
       url = "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.6/file/ms-toolsai.jupyter-renderers-1.0.6.vsix";
       sha256 = "sha256-hXbPC6FVkWigCUkv/P8cX0d7ZMNSdkp/Brbif3GMUUQ=";
     };
-    name = "jupyter-renderers";
     license = "MIT";
-    publisher = "ms-toolsai";
+    name = "jupyter-renderers";
     description = "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)";
+    publisher = "ms-toolsai";
   };
   ms-toolsai-vscode-jupyter-powertoys = {
     pname = "ms-toolsai-vscode-jupyter-powertoys";
@@ -13520,10 +13544,10 @@
       url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix";
       sha256 = "sha256-QtWbjzn9MVT8Mw4RjLB1dITYUyuuj/qsIVQ9UFKnHDM=";
     };
-    name = "vscode-jupyter-powertoys";
     license = "MIT";
-    publisher = "ms-toolsai";
+    name = "vscode-jupyter-powertoys";
     description = "Experimental features for Jupyter notebook support in VS Code.";
+    publisher = "ms-toolsai";
   };
   ms-vscode-Go = {
     pname = "ms-vscode-Go";
@@ -13532,10 +13556,10 @@
       url = "https://open-vsx.org/api/ms-vscode/Go/0.14.3/file/ms-vscode.Go-0.14.3.vsix";
       sha256 = "sha256-0kJduO1nNiseR3JoB7/m/HKBIQEMu/YsmzIukEXwixw=";
     };
-    name = "Go";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "Go";
     description = "Rich Go language support for Visual Studio Code";
+    publisher = "ms-vscode";
   };
   ms-vscode-Theme-TomorrowKit = {
     pname = "ms-vscode-Theme-TomorrowKit";
@@ -13544,10 +13568,10 @@
       url = "https://open-vsx.org/api/ms-vscode/Theme-TomorrowKit/0.1.4/file/ms-vscode.Theme-TomorrowKit-0.1.4.vsix";
       sha256 = "sha256-GFj/KfqGEh1txGdEAfSK7YEs90eQY+ttaN1SP1Z7Ujc=";
     };
-    name = "Theme-TomorrowKit";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "Theme-TomorrowKit";
     description = "Additional Tomorrow and Tomorrow Night themes for VS Code. Based on the TextMate themes.";
+    publisher = "ms-vscode";
   };
   ms-vscode-atom-keybindings = {
     pname = "ms-vscode-atom-keybindings";
@@ -13556,10 +13580,10 @@
       url = "https://open-vsx.org/api/ms-vscode/atom-keybindings/3.0.9/file/ms-vscode.atom-keybindings-3.0.9.vsix";
       sha256 = "sha256-JCVDsnjK/0PUC98Z5vR03ay2DBRbP7QkiVbiSXm0/RE=";
     };
-    name = "atom-keybindings";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "atom-keybindings";
     description = "Popular Atom keybindings for Visual Studio Code";
+    publisher = "ms-vscode";
   };
   ms-vscode-azure-account = {
     pname = "ms-vscode-azure-account";
@@ -13568,10 +13592,10 @@
       url = "https://open-vsx.org/api/ms-vscode/azure-account/0.8.9/file/ms-vscode.azure-account-0.8.9.vsix";
       sha256 = "sha256-0Q+99tJz+mqNo7ltCigvhX2YygApXL9TcgXzz3/0ok8=";
     };
-    name = "azure-account";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "azure-account";
     description = "A common Sign-In and Subscription management extension for VS Code.";
+    publisher = "ms-vscode";
   };
   ms-vscode-brackets-keybindings = {
     pname = "ms-vscode-brackets-keybindings";
@@ -13580,10 +13604,10 @@
       url = "https://open-vsx.org/api/ms-vscode/brackets-keybindings/0.1.1/file/ms-vscode.brackets-keybindings-0.1.1.vsix";
       sha256 = "sha256-C9D2fleqlc3cvByqXsWrfHDH+zWEeJGdhdaQ8zIEC4Q=";
     };
-    name = "brackets-keybindings";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "brackets-keybindings";
     description = "Popular Brackets keybindings for VS Code.";
+    publisher = "ms-vscode";
   };
   ms-vscode-brackets-pack = {
     pname = "ms-vscode-brackets-pack";
@@ -13592,10 +13616,10 @@
       url = "https://open-vsx.org/api/ms-vscode/brackets-pack/0.1.1/file/ms-vscode.brackets-pack-0.1.1.vsix";
       sha256 = "sha256-S/xlwT/J3XuyfWjvPb0FxK69ztNi6AinjOTEGmISELM=";
     };
-    name = "brackets-pack";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "brackets-pack";
     description = "Popular Brackets features as extensions for VS Code.";
+    publisher = "ms-vscode";
   };
   ms-vscode-cmake-tools = {
     pname = "ms-vscode-cmake-tools";
@@ -13604,10 +13628,10 @@
       url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.5/file/ms-vscode.cmake-tools-1.10.5.vsix";
       sha256 = "sha256-T57uCK1rGe3dBnYbK7QhN2NG3NwTEZm0/EY8S1Pyf7I=";
     };
-    name = "cmake-tools";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "cmake-tools";
     description = "Extended CMake support in Visual Studio Code";
+    publisher = "ms-vscode";
   };
   ms-vscode-cpptools-themes = {
     pname = "ms-vscode-cpptools-themes";
@@ -13616,10 +13640,10 @@
       url = "https://open-vsx.org/api/ms-vscode/cpptools-themes/1.0.0/file/ms-vscode.cpptools-themes-1.0.0.vsix";
       sha256 = "sha256-qcwqJtT1sJ5vNCgeK+va2Kzq6ighXP4KsjEeGARc/jM=";
     };
-    name = "cpptools-themes";
     license = "";
-    publisher = "ms-vscode";
+    name = "cpptools-themes";
     description = "UI Themes for C/C++ extension.";
+    publisher = "ms-vscode";
   };
   ms-vscode-hexeditor = {
     pname = "ms-vscode-hexeditor";
@@ -13628,10 +13652,10 @@
       url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.6/file/ms-vscode.hexeditor-1.9.6.vsix";
       sha256 = "sha256-9mskyUgEF3UUe7F8OoD3UKyo+OGUa2RcEZTOXACkuLw=";
     };
-    name = "hexeditor";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "hexeditor";
     description = "Allows viewing and editing files in a hex editor";
+    publisher = "ms-vscode";
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
@@ -13640,10 +13664,10 @@
       url = "https://open-vsx.org/api/ms-vscode/js-debug/1.68.0/file/ms-vscode.js-debug-1.68.0.vsix";
       sha256 = "sha256-B+eJgmwlpVoyPWgQYP8eVuADgIFj1+EGWkMuG3XZ7ks=";
     };
-    name = "js-debug";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "js-debug";
     description = "An extension for debugging Node.js programs and Chrome.";
+    publisher = "ms-vscode";
   };
   ms-vscode-js-debug-companion = {
     pname = "ms-vscode-js-debug-companion";
@@ -13652,10 +13676,10 @@
       url = "https://open-vsx.org/api/ms-vscode/js-debug-companion/1.0.18/file/ms-vscode.js-debug-companion-1.0.18.vsix";
       sha256 = "sha256-tJ7hNPRSyI/j3gmuYrf3eqZtHW3NeUxI4GW9wsdNSjA=";
     };
-    name = "js-debug-companion";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "js-debug-companion";
     description = "Companion extension to js-debug that provides capability for remote debugging";
+    publisher = "ms-vscode";
   };
   ms-vscode-live-server = {
     pname = "ms-vscode-live-server";
@@ -13664,10 +13688,10 @@
       url = "https://open-vsx.org/api/ms-vscode/live-server/0.2.12/file/ms-vscode.live-server-0.2.12.vsix";
       sha256 = "sha256-AUd1DAy/FoczA5iT4HMidrkXzSDfAn0QH75wylBXgY8=";
     };
-    name = "live-server";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "live-server";
     description = "Hosts a local server in your workspace for you to preview your webpages on.";
+    publisher = "ms-vscode";
   };
   ms-vscode-makefile-tools = {
     pname = "ms-vscode-makefile-tools";
@@ -13676,10 +13700,10 @@
       url = "https://open-vsx.org/api/ms-vscode/makefile-tools/0.5.0/file/ms-vscode.makefile-tools-0.5.0.vsix";
       sha256 = "sha256-oBYABz6qdV9g7WdHycL1LrEaYG5be3e4hlo4ILhX4KI=";
     };
-    name = "makefile-tools";
     license = "";
-    publisher = "ms-vscode";
+    name = "makefile-tools";
     description = "Provide makefile support in VS Code: C/C++ IntelliSense, build, debug/run.";
+    publisher = "ms-vscode";
   };
   ms-vscode-node-debug = {
     pname = "ms-vscode-node-debug";
@@ -13688,10 +13712,10 @@
       url = "https://open-vsx.org/api/ms-vscode/node-debug/1.45.0/file/ms-vscode.node-debug-1.45.0.vsix";
       sha256 = "sha256-FSD6IedCfZRb+3P69xH3ZBUMXG+Ocg8Dxz16A9Iajbc=";
     };
-    name = "node-debug";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "node-debug";
     description = "Node.js debugging support (versions < 8.0)";
+    publisher = "ms-vscode";
   };
   ms-vscode-node-debug2 = {
     pname = "ms-vscode-node-debug2";
@@ -13700,10 +13724,10 @@
       url = "https://open-vsx.org/api/ms-vscode/node-debug2/1.43.0/file/ms-vscode.node-debug2-1.43.0.vsix";
       sha256 = "sha256-EZDDhC7mKeoowE1T8gnwmJymXbPOKjUwZwIX05gE2FQ=";
     };
-    name = "node-debug2";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "node-debug2";
     description = "Node.js debugging support";
+    publisher = "ms-vscode";
   };
   ms-vscode-notepadplusplus-keybindings = {
     pname = "ms-vscode-notepadplusplus-keybindings";
@@ -13712,10 +13736,10 @@
       url = "https://open-vsx.org/api/ms-vscode/notepadplusplus-keybindings/1.0.7/file/ms-vscode.notepadplusplus-keybindings-1.0.7.vsix";
       sha256 = "sha256-52ATprG0M/DPBTdmAoEtmIUmhZTJ2MlmqgMxPurwsr8=";
     };
-    name = "notepadplusplus-keybindings";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "notepadplusplus-keybindings";
     description = "Popular Notepad++ keybindings for Visual Studio Code";
+    publisher = "ms-vscode";
   };
   ms-vscode-powershell = {
     pname = "ms-vscode-powershell";
@@ -13724,10 +13748,10 @@
       url = "https://open-vsx.org/api/ms-vscode/powershell/2022.5.1/file/ms-vscode.powershell-2022.5.1.vsix";
       sha256 = "sha256-SY6otM+g4ITOwTqb4N/aMkGrbuoNG1q4CS2BSvS88VE=";
     };
-    name = "powershell";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "powershell";
     description = "Develop PowerShell modules, commands and scripts in Visual Studio Code!";
+    publisher = "ms-vscode";
   };
   ms-vscode-powershell-preview = {
     pname = "ms-vscode-powershell-preview";
@@ -13736,10 +13760,10 @@
       url = "https://open-vsx.org/api/ms-vscode/powershell-preview/2020.3.0/file/ms-vscode.powershell-preview-2020.3.0.vsix";
       sha256 = "sha256-qRv7+I3YlIoONHneJwzZKkqjFEQNDh8OjbZ4EOmQPAo=";
     };
-    name = "powershell-preview";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "powershell-preview";
     description = "(Preview) Develop PowerShell scripts in Visual Studio Code!";
+    publisher = "ms-vscode";
   };
   ms-vscode-references-view = {
     pname = "ms-vscode-references-view";
@@ -13748,10 +13772,10 @@
       url = "https://open-vsx.org/api/ms-vscode/references-view/0.0.89/file/ms-vscode.references-view-0.0.89.vsix";
       sha256 = "sha256-fK5Mn9zM8YtTKkJoBqU/eQdhDJBLm67Nlfnp+9s4hgc=";
     };
-    name = "references-view";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "references-view";
     description = "Reference Search results as separate, stable view in the sidebar";
+    publisher = "ms-vscode";
   };
   ms-vscode-sublime-keybindings = {
     pname = "ms-vscode-sublime-keybindings";
@@ -13760,10 +13784,10 @@
       url = "https://open-vsx.org/api/ms-vscode/sublime-keybindings/4.0.10/file/ms-vscode.sublime-keybindings-4.0.10.vsix";
       sha256 = "sha256-yLCb0Wz64p3kKe4Fl6gNmq1jXa79p1PWr4Adw+CCvIU=";
     };
-    name = "sublime-keybindings";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "sublime-keybindings";
     description = "Import Sublime Text settings and keybindings into VS Code.";
+    publisher = "ms-vscode";
   };
   ms-vscode-vs-keybindings = {
     pname = "ms-vscode-vs-keybindings";
@@ -13772,10 +13796,10 @@
       url = "https://open-vsx.org/api/ms-vscode/vs-keybindings/0.2.1/file/ms-vscode.vs-keybindings-0.2.1.vsix";
       sha256 = "sha256-kj5gi+ZfJI5SjUJjJd6pdBYrk24TOKoRtdUtsov9S7U=";
     };
-    name = "vs-keybindings";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "vs-keybindings";
     description = "Popular Visual Studio keybindings for VS Code.";
+    publisher = "ms-vscode";
   };
   ms-vscode-vscode-github-issue-notebooks = {
     pname = "ms-vscode-vscode-github-issue-notebooks";
@@ -13784,10 +13808,10 @@
       url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.119/file/ms-vscode.vscode-github-issue-notebooks-0.0.119.vsix";
       sha256 = "sha256-FMNPNLCSO+l/ucRVwsTvJmtTsDIwyQPxLICWJ9F13Lo=";
     };
-    name = "vscode-github-issue-notebooks";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "vscode-github-issue-notebooks";
     description = "GitHub Issue Notebooks for VS Code";
+    publisher = "ms-vscode";
   };
   ms-vscode-vscode-js-profile-flame = {
     pname = "ms-vscode-vscode-js-profile-flame";
@@ -13796,10 +13820,10 @@
       url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.0/file/ms-vscode.vscode-js-profile-flame-1.0.0.vsix";
       sha256 = "sha256-b7zpssfwTFQs/TJA2IyY1Cdwbp7x2SukiGio9dISzvo=";
     };
-    name = "vscode-js-profile-flame";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "vscode-js-profile-flame";
     description = "Flame graph visualizer for profiles taken from the JavaScript debugger";
+    publisher = "ms-vscode";
   };
   ms-vscode-vscode-js-profile-table = {
     pname = "ms-vscode-vscode-js-profile-table";
@@ -13808,10 +13832,10 @@
       url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.2/file/ms-vscode.vscode-js-profile-table-1.0.2.vsix";
       sha256 = "sha256-55s3FzIHVd0YqcjqLvvkhHtNdVK1vfUQsPMNMmVc1vU=";
     };
-    name = "vscode-js-profile-table";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "vscode-js-profile-table";
     description = "Text visualizer for profiles taken from the JavaScript debugger";
+    publisher = "ms-vscode";
   };
   ms-vscode-vscode-smoketest-check = {
     pname = "ms-vscode-vscode-smoketest-check";
@@ -13820,10 +13844,10 @@
       url = "https://open-vsx.org/api/ms-vscode/vscode-smoketest-check/0.0.1/file/ms-vscode.vscode-smoketest-check-0.0.1.vsix";
       sha256 = "sha256-YPyDpRrk179kaJ8KegQWS91SwKoAfUYZvwoA40uyFo0=";
     };
-    name = "vscode-smoketest-check";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "vscode-smoketest-check";
     description = "A test extension used for smoke testing VS Code Extensions UI ";
+    publisher = "ms-vscode";
   };
   ms-vscode-vscode-typescript-tslint-plugin = {
     pname = "ms-vscode-vscode-typescript-tslint-plugin";
@@ -13832,10 +13856,10 @@
       url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-tslint-plugin/1.2.2/file/ms-vscode.vscode-typescript-tslint-plugin-1.2.2.vsix";
       sha256 = "sha256-jR20B6HUSiI30rSGLel4GJXgH8fg7xR2HfmauvZJvYQ=";
     };
-    name = "vscode-typescript-tslint-plugin";
     license = "MIT";
-    publisher = "ms-vscode";
+    name = "vscode-typescript-tslint-plugin";
     description = "TSLint support for Visual Studio Code";
+    publisher = "ms-vscode";
   };
   ms-vsts-team = {
     pname = "ms-vsts-team";
@@ -13844,10 +13868,10 @@
       url = "https://open-vsx.org/api/ms-vsts/team/1.161.0/file/ms-vsts.team-1.161.0.vsix";
       sha256 = "sha256-6Wgd07bFSICVHmMxfqE5P24CD7B9CffPpYmWNvVkxEU=";
     };
-    name = "team";
     license = "MIT";
-    publisher = "ms-vsts";
+    name = "team";
     description = "Connect to Azure Repos and work with Git and Team Foundation Version Control (TFVC) repositories. Manage your pull requests, work items, and more.";
+    publisher = "ms-vsts";
   };
   mshr-h-veriloghdl = {
     pname = "mshr-h-veriloghdl";
@@ -13856,10 +13880,10 @@
       url = "https://open-vsx.org/api/mshr-h/veriloghdl/1.5.3/file/mshr-h.veriloghdl-1.5.3.vsix";
       sha256 = "sha256-4BXSG/YllhpXa0z7TqytKyqAKLJvSEsOLt1i6gA+WcE=";
     };
-    name = "veriloghdl";
     license = "MIT";
-    publisher = "mshr-h";
+    name = "veriloghdl";
     description = "Verilog-HDL/SystemVerilog/Bluespec SystemVerilog support for VS Code";
+    publisher = "mshr-h";
   };
   msjsdiag-debugger-for-chrome = {
     pname = "msjsdiag-debugger-for-chrome";
@@ -13868,10 +13892,10 @@
       url = "https://open-vsx.org/api/msjsdiag/debugger-for-chrome/4.12.6/file/msjsdiag.debugger-for-chrome-4.12.6.vsix";
       sha256 = "sha256-DUbV+kHs5I2hzey+pC7mZNRRPVHACkJposr3+xqupSA=";
     };
-    name = "debugger-for-chrome";
     license = "MIT";
-    publisher = "msjsdiag";
+    name = "debugger-for-chrome";
     description = "Debug your JavaScript code in the Chrome browser, or any other target that supports the Chrome Debugger protocol.";
+    publisher = "msjsdiag";
   };
   msjsdiag-debugger-for-edge = {
     pname = "msjsdiag-debugger-for-edge";
@@ -13880,10 +13904,10 @@
       url = "https://open-vsx.org/api/msjsdiag/debugger-for-edge/1.0.16/file/msjsdiag.debugger-for-edge-1.0.16.vsix";
       sha256 = "sha256-gmNxiCK6+1W1CXqsuAMFOaXvmdsuufcWShmk7DgNFG4=";
     };
-    name = "debugger-for-edge";
     license = "MIT";
-    publisher = "msjsdiag";
+    name = "debugger-for-edge";
     description = "Debug your JavaScript code in the Microsoft Edge browser";
+    publisher = "msjsdiag";
   };
   msjsdiag-vscode-react-native = {
     pname = "msjsdiag-vscode-react-native";
@@ -13892,10 +13916,10 @@
       url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix";
       sha256 = "sha256-F6E7fx9FR6stcpe4Hca6hkhV7FUsTi/mozKRhGL+SgY=";
     };
-    name = "vscode-react-native";
     license = "%reactNative.license%";
-    publisher = "msjsdiag";
+    name = "vscode-react-native";
     description = "Debugging and integrated commands for React Native";
+    publisher = "msjsdiag";
   };
   mtayllan-moonokai = {
     pname = "mtayllan-moonokai";
@@ -13904,10 +13928,10 @@
       url = "https://open-vsx.org/api/mtayllan/moonokai/0.0.4/file/mtayllan.moonokai-0.0.4.vsix";
       sha256 = "sha256-g9yusk75ob9ZYdVSdehM3+4s9GRQcyNytasTADKIUPM=";
     };
-    name = "moonokai";
     license = "MIT";
-    publisher = "mtayllan";
+    name = "moonokai";
     description = "Dark Monokai Theme for VSCode";
+    publisher = "mtayllan";
   };
   mtsmfm-vscode-jscad-preview = {
     pname = "mtsmfm-vscode-jscad-preview";
@@ -13916,22 +13940,22 @@
       url = "https://open-vsx.org/api/mtsmfm/vscode-jscad-preview/0.2.2/file/mtsmfm.vscode-jscad-preview-0.2.2.vsix";
       sha256 = "sha256-PHGsFk9/3tq4wULVirLLnVBqogen1pXmL/om4Di23sU=";
     };
-    name = "vscode-jscad-preview";
     license = "MIT";
-    publisher = "mtsmfm";
+    name = "vscode-jscad-preview";
     description = "A previewer for JSCAD rendering result JSON";
+    publisher = "mtsmfm";
   };
   mtsmfm-vscode-k8s-quick-attach = {
     pname = "mtsmfm-vscode-k8s-quick-attach";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.7.0/file/mtsmfm.vscode-k8s-quick-attach-0.7.0.vsix";
-      sha256 = "sha256-so4RUQdGuuO0PyFS9cfnPqLCYo1/0w5Fbz0M1lnS4KQ=";
+      url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.8.0/file/mtsmfm.vscode-k8s-quick-attach-0.8.0.vsix";
+      sha256 = "sha256-j7YTuOewOV4AErLnV1bepTJ8aBH6iMQC77IAzrTgf04=";
     };
-    name = "vscode-k8s-quick-attach";
     license = "MIT";
-    publisher = "mtsmfm";
+    name = "vscode-k8s-quick-attach";
     description = "This extension provide a quick way to attach VSCode to k8s Pod";
+    publisher = "mtsmfm";
   };
   mtsmfm-vscode-stl-viewer = {
     pname = "mtsmfm-vscode-stl-viewer";
@@ -13940,10 +13964,10 @@
       url = "https://open-vsx.org/api/mtsmfm/vscode-stl-viewer/0.3.0/file/mtsmfm.vscode-stl-viewer-0.3.0.vsix";
       sha256 = "sha256-Kw1xMCRCerr9QjMn2Du/7cLEiCQhChZzAerfXl9JQ3M=";
     };
-    name = "vscode-stl-viewer";
     license = "MIT";
-    publisher = "mtsmfm";
+    name = "vscode-stl-viewer";
     description = "";
+    publisher = "mtsmfm";
   };
   mtxr-sqltools = {
     pname = "mtxr-sqltools";
@@ -13952,10 +13976,10 @@
       url = "https://open-vsx.org/api/mtxr/sqltools/0.23.0/file/mtxr.sqltools-0.23.0.vsix";
       sha256 = "sha256-Obo/u2shO6UkOG9V6LDOHrLFFapMGSiu8EVoLU8NdT4=";
     };
-    name = "sqltools";
     license = "MIT";
-    publisher = "mtxr";
+    name = "sqltools";
     description = "Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history. Feel like a database hero!";
+    publisher = "mtxr";
   };
   mtxr-sqltools-driver-mssql = {
     pname = "mtxr-sqltools-driver-mssql";
@@ -13964,10 +13988,10 @@
       url = "https://open-vsx.org/api/mtxr/sqltools-driver-mssql/0.2.0/file/mtxr.sqltools-driver-mssql-0.2.0.vsix";
       sha256 = "sha256-6lKnCYCo412teRUXamr5wStFR6DrOcHxqAqGWS+BQuE=";
     };
-    name = "sqltools-driver-mssql";
     license = "MIT";
-    publisher = "mtxr";
+    name = "sqltools-driver-mssql";
     description = "SQLTools Microsoft SQL Server/Azure";
+    publisher = "mtxr";
   };
   mtxr-sqltools-driver-mysql = {
     pname = "mtxr-sqltools-driver-mysql";
@@ -13976,10 +14000,10 @@
       url = "https://open-vsx.org/api/mtxr/sqltools-driver-mysql/0.2.0/file/mtxr.sqltools-driver-mysql-0.2.0.vsix";
       sha256 = "sha256-vFNc9tT+e4daDJeqzbMkHdwQ536O5IeHTNJNFsG7alA=";
     };
-    name = "sqltools-driver-mysql";
     license = "MIT";
-    publisher = "mtxr";
+    name = "sqltools-driver-mysql";
     description = "SQLTools MySQL/MariaDB";
+    publisher = "mtxr";
   };
   mtxr-sqltools-driver-pg = {
     pname = "mtxr-sqltools-driver-pg";
@@ -13988,10 +14012,10 @@
       url = "https://open-vsx.org/api/mtxr/sqltools-driver-pg/0.2.0/file/mtxr.sqltools-driver-pg-0.2.0.vsix";
       sha256 = "sha256-0nhiRkdMxDgLdYriK/1j04qHXP+0yMZgJDofpKw+QXM=";
     };
-    name = "sqltools-driver-pg";
     license = "MIT";
-    publisher = "mtxr";
+    name = "sqltools-driver-pg";
     description = "SQLTools PostgreSQL/Redshift Driver";
+    publisher = "mtxr";
   };
   mtxr-sqltools-driver-sqlite = {
     pname = "mtxr-sqltools-driver-sqlite";
@@ -14000,10 +14024,10 @@
       url = "https://open-vsx.org/api/mtxr/sqltools-driver-sqlite/0.2.0/file/mtxr.sqltools-driver-sqlite-0.2.0.vsix";
       sha256 = "sha256-HDZEyZWdMLdY521rHrykcAJzihRZdWC6VRrnaZRhnEU=";
     };
-    name = "sqltools-driver-sqlite";
     license = "MIT";
-    publisher = "mtxr";
+    name = "sqltools-driver-sqlite";
     description = "SQLTools SQLite";
+    publisher = "mtxr";
   };
   mubaidr-vuejs-extension-pack = {
     pname = "mubaidr-vuejs-extension-pack";
@@ -14012,10 +14036,10 @@
       url = "https://open-vsx.org/api/mubaidr/vuejs-extension-pack/1.2.1/file/mubaidr.vuejs-extension-pack-1.2.1.vsix";
       sha256 = "sha256-L31kDpmTqILxqtwNUZNefB2KpI2FTXwBBTXmg94ExiI=";
     };
-    name = "vuejs-extension-pack";
     license = "MIT";
-    publisher = "mubaidr";
+    name = "vuejs-extension-pack";
     description = "Popular VS Code extensions for Vue.js development providing Syntax highlighting, Code format, Code snippets, IntelliSense, Linting support, npm & node tools.";
+    publisher = "mubaidr";
   };
   muchiros-attention-theme = {
     pname = "muchiros-attention-theme";
@@ -14024,10 +14048,10 @@
       url = "https://open-vsx.org/api/muchiros/attention-theme/0.0.4/file/muchiros.attention-theme-0.0.4.vsix";
       sha256 = "sha256-tg3FMZC/M/YfRKmme8egoPvsVrURJIG0BH8pVt0Gjpc=";
     };
-    name = "attention-theme";
     license = "MIT";
-    publisher = "muchiros";
+    name = "attention-theme";
     description = "Attention theme!";
+    publisher = "muchiros";
   };
   muhammad-sammy-csharp = {
     pname = "muhammad-sammy-csharp";
@@ -14036,10 +14060,10 @@
       url = "https://open-vsx.org/api/muhammad-sammy/csharp/1.24.4/file/muhammad-sammy.csharp-1.24.4.vsix";
       sha256 = "sha256-JoczQiWUYereGXKILd1vjeQ2QJXm/S/TtXCgfbW4Xnk=";
     };
-    name = "csharp";
     license = "MIT";
-    publisher = "muhammad-sammy";
+    name = "csharp";
     description = "C# support for vscode-compatible editors (powered by OmniSharp and NetCoreDbg).";
+    publisher = "muhammad-sammy";
   };
   muhammad-sammy-gray-theme = {
     pname = "muhammad-sammy-gray-theme";
@@ -14048,10 +14072,10 @@
       url = "https://open-vsx.org/api/muhammad-sammy/gray-theme/0.0.6/file/muhammad-sammy.gray-theme-0.0.6.vsix";
       sha256 = "sha256-tEy5LrNThwomObIvn2wy16UERYnEl2ORw41KhNbQjww=";
     };
-    name = "gray-theme";
     license = "MIT";
-    publisher = "muhammad-sammy";
+    name = "gray-theme";
     description = "a minimalist gray theme for vscode inspired by 'white' theme.";
+    publisher = "muhammad-sammy";
   };
   muhammad-sammy-rider-theme = {
     pname = "muhammad-sammy-rider-theme";
@@ -14060,10 +14084,10 @@
       url = "https://open-vsx.org/api/muhammad-sammy/rider-theme/1.1.1/file/muhammad-sammy.rider-theme-1.1.1.vsix";
       sha256 = "sha256-PPQ1Dp/svAVIO4omYJxKehMiKN62J2zr95cRrYTkTXU=";
     };
-    name = "rider-theme";
     license = "Apache-2.0";
-    publisher = "muhammad-sammy";
+    name = "rider-theme";
     description = "";
+    publisher = "muhammad-sammy";
   };
   muhammad-sammy-solarized-sharp-vscode = {
     pname = "muhammad-sammy-solarized-sharp-vscode";
@@ -14072,10 +14096,10 @@
       url = "https://open-vsx.org/api/muhammad-sammy/solarized-sharp-vscode/1.0.4/file/muhammad-sammy.solarized-sharp-vscode-1.0.4.vsix";
       sha256 = "sha256-MOW9i0ORggJ0Go0B+FLsMvh9Z7Yq6nK01qJqfp8PB1Y=";
     };
-    name = "solarized-sharp-vscode";
     license = "Apache-2.0";
-    publisher = "muhammad-sammy";
+    name = "solarized-sharp-vscode";
     description = "";
+    publisher = "muhammad-sammy";
   };
   muhammadelashri-FHiCL = {
     pname = "muhammadelashri-FHiCL";
@@ -14084,10 +14108,10 @@
       url = "https://open-vsx.org/api/muhammadelashri/FHiCL/0.0.4/file/muhammadelashri.FHiCL-0.0.4.vsix";
       sha256 = "sha256-aHeV+Rga3i1vQwTxp4nLoInfKPGe5dwqtf0Yu0iDAks=";
     };
-    name = "FHiCL";
     license = "MIT";
-    publisher = "muhammadelashri";
+    name = "FHiCL";
     description = "Fermilab Hierarchical Configuration Language Syntax";
+    publisher = "muhammadelashri";
   };
   mushan-vscode-paste-image = {
     pname = "mushan-vscode-paste-image";
@@ -14096,10 +14120,10 @@
       url = "https://open-vsx.org/api/mushan/vscode-paste-image/1.0.4/file/mushan.vscode-paste-image-1.0.4.vsix";
       sha256 = "sha256-/7HSYw1JxUHo4PaCTsbHzXF5X1axnwNEMF7Q9oijeow=";
     };
-    name = "vscode-paste-image";
     license = "MIT";
-    publisher = "mushan";
+    name = "vscode-paste-image";
     description = "paste image from clipboard directly";
+    publisher = "mushan";
   };
   muuvmuuv-vscode-sundial = {
     pname = "muuvmuuv-vscode-sundial";
@@ -14108,10 +14132,10 @@
       url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.1.0/file/muuvmuuv.vscode-sundial-3.1.0.vsix";
       sha256 = "sha256-cmE4VSG8kjvYJRoFlvVy2KydkmJk//ELACb2bRdMaek=";
     };
-    name = "vscode-sundial";
     license = "GPLv3";
-    publisher = "muuvmuuv";
+    name = "vscode-sundial";
     description = "Automatically change your theme and settings based on your sunset, sunrise, system appearance or other preferences!";
+    publisher = "muuvmuuv";
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
@@ -14120,10 +14144,10 @@
       url = "https://open-vsx.org/api/mvllow/rose-pine/2.2.0/file/mvllow.rose-pine-2.2.0.vsix";
       sha256 = "sha256-L/uCe7aqVKWXcmtLqdtGI2B0K3E/GrklgIQxa8LOb1o=";
     };
-    name = "rose-pine";
     license = "MIT";
-    publisher = "mvllow";
+    name = "rose-pine";
     description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist";
+    publisher = "mvllow";
   };
   mysticcoders-kandavu-vscode-extension = {
     pname = "mysticcoders-kandavu-vscode-extension";
@@ -14132,10 +14156,10 @@
       url = "https://open-vsx.org/api/mysticcoders/kandavu-vscode-extension/0.0.2/file/mysticcoders.kandavu-vscode-extension-0.0.2.vsix";
       sha256 = "sha256-L22wwaSCsuT588veOhHCTW/04ZV6PQZQsVvYMMrfJlo=";
     };
-    name = "kandavu-vscode-extension";
     license = "MIT";
-    publisher = "mysticcoders";
+    name = "kandavu-vscode-extension";
     description = "Kandavu Extension for VS Code";
+    publisher = "mysticcoders";
   };
   nadako-vshaxe = {
     pname = "nadako-vshaxe";
@@ -14144,10 +14168,10 @@
       url = "https://open-vsx.org/api/nadako/vshaxe/2.23.3/file/nadako.vshaxe-2.23.3.vsix";
       sha256 = "sha256-+JXzXZ/3VpbGxGqoFuEGnhg8wvZntCgIqvL1PFpMrlI=";
     };
-    name = "vshaxe";
     license = "MIT";
-    publisher = "nadako";
+    name = "vshaxe";
     description = "Haxe language support";
+    publisher = "nadako";
   };
   nadim-vscode-html-meta-tags-hero = {
     pname = "nadim-vscode-html-meta-tags-hero";
@@ -14156,10 +14180,10 @@
       url = "https://open-vsx.org/api/nadim-vscode/html-meta-tags-hero/1.0.0/file/nadim-vscode.html-meta-tags-hero-1.0.0.vsix";
       sha256 = "sha256-EPpWgDfruEGdacCje4fKwlL2TMfP85iBPAYi4sSmOW8=";
     };
-    name = "html-meta-tags-hero";
     license = "GPL-3.0";
-    publisher = "nadim-vscode";
+    name = "html-meta-tags-hero";
     description = "Snippets for the Complete List of HTML Meta Tags, Make Your Website Ranked #1";
+    publisher = "nadim-vscode";
   };
   nadim-vscode-infinity-dark-theme = {
     pname = "nadim-vscode-infinity-dark-theme";
@@ -14168,10 +14192,10 @@
       url = "https://open-vsx.org/api/nadim-vscode/infinity-dark-theme/1.0.1/file/nadim-vscode.infinity-dark-theme-1.0.1.vsix";
       sha256 = "sha256-2FuoCjkiyKxW9Fmo9IV6xilCC6pDUKZLU0MV6Fy8+go=";
     };
-    name = "infinity-dark-theme";
     license = "GPL-3.0";
-    publisher = "nadim-vscode";
+    name = "infinity-dark-theme";
     description = "vs code dark theme very good for your eyes ";
+    publisher = "nadim-vscode";
   };
   nadim-vscode-symfony-code-snippets = {
     pname = "nadim-vscode-symfony-code-snippets";
@@ -14180,10 +14204,10 @@
       url = "https://open-vsx.org/api/nadim-vscode/symfony-code-snippets/0.2.6/file/nadim-vscode.symfony-code-snippets-0.2.6.vsix";
       sha256 = "sha256-B/LQ+C5w+UFnvJx9O3a/fDaE18F8R2tvwLnFM77FNBE=";
     };
-    name = "symfony-code-snippets";
     license = "GPL-3.0";
-    publisher = "nadim-vscode";
+    name = "symfony-code-snippets";
     description = "Over 80 Symfony Code Snippets for PhP code And Over 80 Twig Code Snippets. Just type the letters 'sy' to get a list of all available Symfony Code Snippets. For Twig Just Type the Tag name and you will get AutoCompletion.";
+    publisher = "nadim-vscode";
   };
   nadim-vscode-symfony-super-console = {
     pname = "nadim-vscode-symfony-super-console";
@@ -14192,10 +14216,10 @@
       url = "https://open-vsx.org/api/nadim-vscode/symfony-super-console/1.1.0/file/nadim-vscode.symfony-super-console-1.1.0.vsix";
       sha256 = "sha256-QY1lUX4qXXDWftSmhstic56eiD+/jhFwh7588asuU9E=";
     };
-    name = "symfony-super-console";
     license = "GPL-3.0";
-    publisher = "nadim-vscode";
+    name = "symfony-super-console";
     description = "Run all Symfony commands from VsCode UI without writing any line.";
+    publisher = "nadim-vscode";
   };
   nanaian-vscode-star-rod = {
     pname = "nanaian-vscode-star-rod";
@@ -14204,10 +14228,10 @@
       url = "https://open-vsx.org/api/nanaian/vscode-star-rod/1.6.3/file/nanaian.vscode-star-rod-1.6.3.vsix";
       sha256 = "sha256-CfoH78O90k5qxKLAAvsjwR2/pQTGsNlqu2Lh6nB6Fbo=";
     };
-    name = "vscode-star-rod";
     license = "MIT";
-    publisher = "nanaian";
+    name = "vscode-star-rod";
     description = "Language support for the Star Rod Paper Mario modding tool.";
+    publisher = "nanaian";
   };
   nasmevka-regard = {
     pname = "nasmevka-regard";
@@ -14216,10 +14240,10 @@
       url = "https://open-vsx.org/api/nasmevka/regard/1.2.0/file/nasmevka.regard-1.2.0.vsix";
       sha256 = "sha256-JanvSONEo0Y7eQ5nDRxeAk0gTgskvwSo+VuRR8TxPfk=";
     };
-    name = "regard";
     license = "MIT";
-    publisher = "nasmevka";
+    name = "regard";
     description = "A high contrast theme focused on code comprehension and minimizing eyes tiredness.";
+    publisher = "nasmevka";
   };
   naumovs-color-highlight = {
     pname = "naumovs-color-highlight";
@@ -14228,10 +14252,10 @@
       url = "https://open-vsx.org/api/naumovs/color-highlight/2.6.0/file/naumovs.color-highlight-2.6.0.vsix";
       sha256 = "sha256-JvnaEqclAqXNZNBYV5BXvRGE5HJpC4RNt5W3FvrItiA=";
     };
-    name = "color-highlight";
     license = "GPL-3.0";
-    publisher = "naumovs";
+    name = "color-highlight";
     description = "Highlight web colors in your editor";
+    publisher = "naumovs";
   };
   neikeq-godot-csharp-vscode = {
     pname = "neikeq-godot-csharp-vscode";
@@ -14240,10 +14264,10 @@
       url = "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neikeq.godot-csharp-vscode-0.2.1.vsix";
       sha256 = "sha256-i/0gUcurAFa1cwVwu+EeNgvVLRgXYgy98y/aayEomxk=";
     };
-    name = "godot-csharp-vscode";
     license = "MIT";
-    publisher = "neikeq";
+    name = "godot-csharp-vscode";
     description = "Debugger and utilities for working with Godot C# projects";
+    publisher = "neikeq";
   };
   neilbrayfield-php-docblocker = {
     pname = "neilbrayfield-php-docblocker";
@@ -14252,10 +14276,10 @@
       url = "https://open-vsx.org/api/neilbrayfield/php-docblocker/2.7.0/file/neilbrayfield.php-docblocker-2.7.0.vsix";
       sha256 = "sha256-swuDZJVWvgAvBuoI1xTwzBtKstet8ahkDQKpZlfz830=";
     };
-    name = "php-docblocker";
     license = "MIT";
-    publisher = "neilbrayfield";
+    name = "php-docblocker";
     description = "A simple, dependency free PHP specific DocBlocking package";
+    publisher = "neilbrayfield";
   };
   nelsonoftrafalgar-truth-table-generator = {
     pname = "nelsonoftrafalgar-truth-table-generator";
@@ -14264,10 +14288,10 @@
       url = "https://open-vsx.org/api/nelsonoftrafalgar/truth-table-generator/0.0.1/file/nelsonoftrafalgar.truth-table-generator-0.0.1.vsix";
       sha256 = "sha256-dIox8b2aqYi71y4c4sfX/GgHGy4xuQpmpjWR0IYLOQ0=";
     };
-    name = "truth-table-generator";
     license = "MIT";
-    publisher = "nelsonoftrafalgar";
+    name = "truth-table-generator";
     description = "Generate truth table from selection.";
+    publisher = "nelsonoftrafalgar";
   };
   neonxp-gotools = {
     pname = "neonxp-gotools";
@@ -14276,10 +14300,10 @@
       url = "https://open-vsx.org/api/neonxp/gotools/0.0.7/file/neonxp.gotools-0.0.7.vsix";
       sha256 = "sha256-x4qCkCQc/DuSkydSvX5MLSwLQ2jrMrIUVJ+MiYpj4uk=";
     };
-    name = "gotools";
     license = "GPL-3.0-or-later";
-    publisher = "neonxp";
+    name = "gotools";
     description = "Tools for productive work";
+    publisher = "neonxp";
   };
   nerosiar-just-black = {
     pname = "nerosiar-just-black";
@@ -14288,10 +14312,10 @@
       url = "https://open-vsx.org/api/nerosiar/just-black/3.0.1/file/nerosiar.just-black-3.0.1.vsix";
       sha256 = "sha256-tszezDEuouOByjaa/TtMdtP3zfLTs9Q89Ou3ZMhATPM=";
     };
-    name = "just-black";
     license = "EPL-2.0";
-    publisher = "nerosiar";
+    name = "just-black";
     description = "Dark Theme With Syntax Highlighter!";
+    publisher = "nerosiar";
   };
   netanelgilad-opah = {
     pname = "netanelgilad-opah";
@@ -14300,10 +14324,10 @@
       url = "https://open-vsx.org/api/netanelgilad/opah/0.0.240/file/netanelgilad.opah-0.0.240.vsix";
       sha256 = "sha256-rDeIts2CIVtAHo1wto4PC9apzN30suzKIHXJuT8Y6qI=";
     };
-    name = "opah";
     license = "MIT";
-    publisher = "netanelgilad";
+    name = "opah";
     description = "Opah support for VS code";
+    publisher = "netanelgilad";
   };
   networkteam-neos-fusion = {
     pname = "networkteam-neos-fusion";
@@ -14312,10 +14336,10 @@
       url = "https://open-vsx.org/api/networkteam/neos-fusion/1.0.6/file/networkteam.neos-fusion-1.0.6.vsix";
       sha256 = "sha256-CJWF2s84o155h3AOQXm7eI+WoRLHDNKD4U58JgDNohk=";
     };
-    name = "neos-fusion";
     license = "MIT";
-    publisher = "networkteam";
+    name = "neos-fusion";
     description = "Fusion and Eel language support for Neos CMS";
+    publisher = "networkteam";
   };
   nguyenoss-html-to-css-autocompletion = {
     pname = "nguyenoss-html-to-css-autocompletion";
@@ -14324,10 +14348,10 @@
       url = "https://open-vsx.org/api/nguyenoss/html-to-css-autocompletion/1.2.1/file/nguyenoss.html-to-css-autocompletion-1.2.1.vsix";
       sha256 = "sha256-EArdQRIUwX6cAfGHGSp1fpc0CThZcEjqjU1Lajs68HU=";
     };
-    name = "html-to-css-autocompletion";
     license = "MIT";
-    publisher = "nguyenoss";
+    name = "html-to-css-autocompletion";
     description = "Provides completion suggestions for class names and ids from markup documents (html, jsx) to stylesheets (css, scss, less, sass, stylus).";
+    publisher = "nguyenoss";
   };
   nick-rudenko-back-n-forth = {
     pname = "nick-rudenko-back-n-forth";
@@ -14336,10 +14360,10 @@
       url = "https://open-vsx.org/api/nick-rudenko/back-n-forth/3.1.1/file/nick-rudenko.back-n-forth-3.1.1.vsix";
       sha256 = "sha256-FHgUDccaCrzIxbndOrfw6kTOkiqbKcOOZ5eYS28aWFc=";
     };
-    name = "back-n-forth";
     license = "MIT";
-    publisher = "nick-rudenko";
+    name = "back-n-forth";
     description = "Adds go back/forward buttons for easier navigation";
+    publisher = "nick-rudenko";
   };
   nickgo-cuelang = {
     pname = "nickgo-cuelang";
@@ -14348,10 +14372,10 @@
       url = "https://open-vsx.org/api/nickgo/cuelang/0.0.1/file/nickgo.cuelang-0.0.1.vsix";
       sha256 = "sha256-yBun+0bcQmGjU98gs6g0Iop3O4HM/Ayk5Vju1z8/sU0=";
     };
-    name = "cuelang";
     license = "See license in LICENSE.md";
-    publisher = "nickgo";
+    name = "cuelang";
     description = "Cuelang Syntax Highlighting";
+    publisher = "nickgo";
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
@@ -14360,10 +14384,10 @@
       url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.2/file/nickmillerdev.pytest-fixtures-0.2.2.vsix";
       sha256 = "sha256-u34XSdGXVRYUuBCliRKS7tktKLwfpU0D+PsyEMqJbAQ=";
     };
-    name = "pytest-fixtures";
     license = "MIT";
-    publisher = "nickmillerdev";
+    name = "pytest-fixtures";
     description = "Pytest fixtures support for vscode";
+    publisher = "nickmillerdev";
   };
   nico-castell-linux-desktop-file = {
     pname = "nico-castell-linux-desktop-file";
@@ -14372,10 +14396,10 @@
       url = "https://open-vsx.org/api/nico-castell/linux-desktop-file/0.0.21/file/nico-castell.linux-desktop-file-0.0.21.vsix";
       sha256 = "sha256-4qy+2Tg9g0/9D+MNvLSgWUE8sc5itsC/pJ9hcfxyVzQ=";
     };
-    name = "linux-desktop-file";
     license = "MIT";
-    publisher = "nico-castell";
+    name = "linux-desktop-file";
     description = "Add support for .desktop files in linux";
+    publisher = "nico-castell";
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
@@ -14384,10 +14408,10 @@
       url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.13.0/file/nicoespeon.abracadabra-6.13.0.vsix";
       sha256 = "sha256-/EM8oVXhFb7m/Ebw6sccqzKjR+eU33E8zBTUaah3sw8=";
     };
-    name = "abracadabra";
     license = "MIT";
-    publisher = "nicoespeon";
+    name = "abracadabra";
     description = "Automated refactorings for VS Code, in JavaScript and TypeScript.";
+    publisher = "nicoespeon";
   };
   nimsaem-nimvscode = {
     pname = "nimsaem-nimvscode";
@@ -14396,10 +14420,10 @@
       url = "https://open-vsx.org/api/nimsaem/nimvscode/0.1.26/file/nimsaem.nimvscode-0.1.26.vsix";
       sha256 = "sha256-4KydmQyZLxk3u296gdeivGjPlIRWPukQW7oJgEcnaOo=";
     };
-    name = "nimvscode";
     license = "MIT";
-    publisher = "nimsaem";
+    name = "nimvscode";
     description = "Nim language support for Visual Studio Code written in Nim";
+    publisher = "nimsaem";
   };
   nin-jin-vscode-language-tree = {
     pname = "nin-jin-vscode-language-tree";
@@ -14408,10 +14432,10 @@
       url = "https://open-vsx.org/api/nin-jin/vscode-language-tree/0.0.5/file/nin-jin.vscode-language-tree-0.0.5.vsix";
       sha256 = "sha256-1tmhiKDNP9ghjf2KgtzeAEErNTJDPUv4BRtgqBaJduE=";
     };
-    name = "vscode-language-tree";
     license = "MIT";
-    publisher = "nin-jin";
+    name = "vscode-language-tree";
     description = "Tree format support";
+    publisher = "nin-jin";
   };
   njpwerner-autodocstring = {
     pname = "njpwerner-autodocstring";
@@ -14420,10 +14444,10 @@
       url = "https://open-vsx.org/api/njpwerner/autodocstring/0.6.1/file/njpwerner.autodocstring-0.6.1.vsix";
       sha256 = "sha256-ocuAN/GTY41eggT1aYEJr0vgOf1jYhtniYQknlkDYRQ=";
     };
-    name = "autodocstring";
     license = "MIT";
-    publisher = "njpwerner";
+    name = "autodocstring";
     description = "Generates python docstrings automatically";
+    publisher = "njpwerner";
   };
   nju33ki-nju33-vscode-snippets = {
     pname = "nju33ki-nju33-vscode-snippets";
@@ -14432,10 +14456,10 @@
       url = "https://open-vsx.org/api/nju33ki/nju33-vscode-snippets/0.0.0/file/nju33ki.nju33-vscode-snippets-0.0.0.vsix";
       sha256 = "sha256-6oO4eqkdZqYICxf6F8gEZobSXq82yvKIF4OubLg7wEo=";
     };
-    name = "nju33-vscode-snippets";
     license = "UNLICENSED";
-    publisher = "nju33ki";
+    name = "nju33-vscode-snippets";
     description = "";
+    publisher = "nju33ki";
   };
   njzy-stats-bar = {
     pname = "njzy-stats-bar";
@@ -14444,10 +14468,10 @@
       url = "https://open-vsx.org/api/njzy/stats-bar/0.5.0/file/njzy.stats-bar-0.5.0.vsix";
       sha256 = "sha256-rsXi9BupoYMzI+U+W6yxvApF6a9DrPmLyVh4Rbo2up0=";
     };
-    name = "stats-bar";
     license = "MIT";
-    publisher = "njzy";
+    name = "stats-bar";
     description = "A status bar to show system stats";
+    publisher = "njzy";
   };
   nocalhost-nocalhost = {
     pname = "nocalhost-nocalhost";
@@ -14456,10 +14480,10 @@
       url = "https://open-vsx.org/api/nocalhost/nocalhost/0.6.18/file/nocalhost.nocalhost-0.6.18.vsix";
       sha256 = "sha256-TsmC0jSx/i3yqYhy9AOLwVd8v4PMumWxEd5k03hEMMQ=";
     };
-    name = "nocalhost";
     license = "Apache-2.0";
-    publisher = "nocalhost";
+    name = "nocalhost";
     description = "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development";
+    publisher = "nocalhost";
   };
   nonoroazoro-syncing = {
     pname = "nonoroazoro-syncing";
@@ -14468,10 +14492,10 @@
       url = "https://open-vsx.org/api/nonoroazoro/syncing/3.2.0/file/nonoroazoro.syncing-3.2.0.vsix";
       sha256 = "sha256-aHh53PeqOgfae2UdXpbzQ0EJfm2YsnlPzaPyrkeAXsk=";
     };
-    name = "syncing";
     license = "(MIT AND 996ICU)";
-    publisher = "nonoroazoro";
+    name = "syncing";
     description = "Synchronize all of your VSCode settings across multiple devices.";
+    publisher = "nonoroazoro";
   };
   notZaki-pandocciter = {
     pname = "notZaki-pandocciter";
@@ -14480,10 +14504,10 @@
       url = "https://open-vsx.org/api/notZaki/pandocciter/0.9.2/file/notZaki.pandocciter-0.9.2.vsix";
       sha256 = "sha256-7+MIXxO6xjXLSpONEnaFMZ70CTMJcU74Z7cJ6ulpBQ4=";
     };
-    name = "pandocciter";
     license = "MIT";
-    publisher = "notZaki";
+    name = "pandocciter";
     description = "Autocomplete bibtex citations for markdown/pandoc";
+    publisher = "notZaki";
   };
   notskm-clang-tidy = {
     pname = "notskm-clang-tidy";
@@ -14492,10 +14516,10 @@
       url = "https://open-vsx.org/api/notskm/clang-tidy/0.5.1/file/notskm.clang-tidy-0.5.1.vsix";
       sha256 = "sha256-j3DkamdDeHv8NFa3a4o00yB5j/JCbsVS+5W4VAcB9PE=";
     };
-    name = "clang-tidy";
     license = "MIT";
-    publisher = "notskm";
+    name = "clang-tidy";
     description = "Integrates clang-tidy into VS Code";
+    publisher = "notskm";
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
@@ -14504,10 +14528,10 @@
       url = "https://open-vsx.org/api/nrwl/angular-console/17.18.0/file/nrwl.angular-console-17.18.0.vsix";
       sha256 = "sha256-+BQlyDWWlWdmLVSj1gHyK13JYo2SertgySXXYMvO9pU=";
     };
-    name = "angular-console";
     license = "MIT";
-    publisher = "nrwl";
+    name = "angular-console";
     description = "Nx Console for Visual Studio Code";
+    publisher = "nrwl";
   };
   nullxception-cherry-theme = {
     pname = "nullxception-cherry-theme";
@@ -14516,10 +14540,10 @@
       url = "https://open-vsx.org/api/nullxception/cherry-theme/0.2.4/file/nullxception.cherry-theme-0.2.4.vsix";
       sha256 = "sha256-QF2b1n1MkQT6CWJM60ItI7VZ2nhyYffLBM4ZReHr7m8=";
     };
-    name = "cherry-theme";
     license = "MIT";
-    publisher = "nullxception";
+    name = "cherry-theme";
     description = "Fervent Tempo battlesuit inspired Theme for VSCode";
+    publisher = "nullxception";
   };
   nwolverson-ide-purescript = {
     pname = "nwolverson-ide-purescript";
@@ -14528,10 +14552,10 @@
       url = "https://open-vsx.org/api/nwolverson/ide-purescript/0.25.12/file/nwolverson.ide-purescript-0.25.12.vsix";
       sha256 = "sha256-tgZ0PnWrSDBNKBB5bKH/Fmq6UVNSRYZ8HJdzFDgxILk=";
     };
-    name = "ide-purescript";
     license = "MIT";
-    publisher = "nwolverson";
+    name = "ide-purescript";
     description = "PureScript IntelliSense, tooltip, errors, code actions with language-server-purescript/purs IDE server";
+    publisher = "nwolverson";
   };
   nwolverson-language-purescript = {
     pname = "nwolverson-language-purescript";
@@ -14540,10 +14564,10 @@
       url = "https://open-vsx.org/api/nwolverson/language-purescript/0.2.8/file/nwolverson.language-purescript-0.2.8.vsix";
       sha256 = "sha256-2uOwCHvnlQQM8s8n7dtvIaMgpW8ROeoUraM02rncH9o=";
     };
-    name = "language-purescript";
     license = "MIT";
-    publisher = "nwolverson";
+    name = "language-purescript";
     description = "Syntax Highlighting for the PureScript programming language";
+    publisher = "nwolverson";
   };
   o-dka-vsclassic-icon-theme = {
     pname = "o-dka-vsclassic-icon-theme";
@@ -14552,10 +14576,10 @@
       url = "https://open-vsx.org/api/o-dka/vsclassic-icon-theme/1.2.3/file/o-dka.vsclassic-icon-theme-1.2.3.vsix";
       sha256 = "sha256-mipgZlbz4jUDvDXLw7OgZxwyybSeYz/3UrvwPbyxkRg=";
     };
-    name = "vsclassic-icon-theme";
     license = "GPL-3.0";
-    publisher = "o-dka";
+    name = "vsclassic-icon-theme";
     description = "An icon theme for Visual Studio Code taking its inspiration from classic versions of Visual Studio prior to 2012.";
+    publisher = "o-dka";
   };
   obliviousharmony-vscode-php-codesniffer = {
     pname = "obliviousharmony-vscode-php-codesniffer";
@@ -14564,10 +14588,10 @@
       url = "https://open-vsx.org/api/obliviousharmony/vscode-php-codesniffer/1.6.0/file/obliviousharmony.vscode-php-codesniffer-1.6.0.vsix";
       sha256 = "sha256-f9ZMDlz/fRpLyd7RWkXg1DyN2Ci0l4wXRwSHhqarALc=";
     };
-    name = "vscode-php-codesniffer";
     license = "GPL-2.0-or-later";
-    publisher = "obliviousharmony";
+    name = "vscode-php-codesniffer";
     description = "Brings PHPCS support to VS Code.";
+    publisher = "obliviousharmony";
   };
   obostjancic-kolorkross = {
     pname = "obostjancic-kolorkross";
@@ -14576,10 +14600,10 @@
       url = "https://open-vsx.org/api/obostjancic/kolorkross/0.3.0/file/obostjancic.kolorkross-0.3.0.vsix";
       sha256 = "sha256-Zn0Amenc0YL71WmkXc2d9o7cP3K0FfNSgH/5H8+kuGo=";
     };
-    name = "kolorkross";
     license = "";
-    publisher = "obostjancic";
+    name = "kolorkross";
     description = "VS Code extension that allows fast & colorful access to multiple workspaces";
+    publisher = "obostjancic";
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
@@ -14588,10 +14612,10 @@
       url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.4/file/ocamllabs.ocaml-platform-1.10.4.vsix";
       sha256 = "sha256-Nbl9x41Ufaqfyi+Cykc78VFBtd3zrlAuGbYBjofCePU=";
     };
-    name = "ocaml-platform";
     license = "MIT";
-    publisher = "ocamllabs";
+    name = "ocaml-platform";
     description = "Official OCaml language extension for VSCode";
+    publisher = "ocamllabs";
   };
   octref-vetur = {
     pname = "octref-vetur";
@@ -14600,10 +14624,10 @@
       url = "https://open-vsx.org/api/octref/vetur/0.35.0/file/octref.vetur-0.35.0.vsix";
       sha256 = "sha256-T0tqX78bW6w23HzkMBFzJFhT83pABiM/paXyOVTa/c4=";
     };
-    name = "vetur";
     license = "MIT";
-    publisher = "octref";
+    name = "vetur";
     description = "Vue tooling for VS Code";
+    publisher = "octref";
   };
   oderwat-indent-rainbow = {
     pname = "oderwat-indent-rainbow";
@@ -14612,10 +14636,10 @@
       url = "https://open-vsx.org/api/oderwat/indent-rainbow/8.3.1/file/oderwat.indent-rainbow-8.3.1.vsix";
       sha256 = "sha256-75VFt/Yvkcaa55NWeG43yniiDSrD5AnqzhB8jJqMi5k=";
     };
-    name = "indent-rainbow";
     license = "MIT";
-    publisher = "oderwat";
+    name = "indent-rainbow";
     description = "Makes indentation easier to read";
+    publisher = "oderwat";
   };
   odind-vsc-moonrise-theme = {
     pname = "odind-vsc-moonrise-theme";
@@ -14624,10 +14648,10 @@
       url = "https://open-vsx.org/api/odind/vsc-moonrise-theme/0.2.2/file/odind.vsc-moonrise-theme-0.2.2.vsix";
       sha256 = "sha256-4l5ouKNaRC4KxNkVvlmfQCQacZ9BG8J3KE3nKnno/wQ=";
     };
-    name = "vsc-moonrise-theme";
     license = "EPL-1.0";
-    publisher = "odind";
+    name = "vsc-moonrise-theme";
     description = "VS Code semantic highlighting theme based on Eclipse MoonRise UI theme.";
+    publisher = "odind";
   };
   oguhpereira-spotify-color-theme = {
     pname = "oguhpereira-spotify-color-theme";
@@ -14636,10 +14660,10 @@
       url = "https://open-vsx.org/api/oguhpereira/spotify-color-theme/1.3.0/file/oguhpereira.spotify-color-theme-1.3.0.vsix";
       sha256 = "sha256-h9benC3LgRmwFBk1N7ClkJYKMsX+KRw4ZAGvDn4P5oE=";
     };
-    name = "spotify-color-theme";
     license = "MIT";
-    publisher = "oguhpereira";
+    name = "spotify-color-theme";
     description = "Theme for vscode inspired by the colors of Spotify";
+    publisher = "oguhpereira";
   };
   oleg-shilo-favorites = {
     pname = "oleg-shilo-favorites";
@@ -14648,10 +14672,10 @@
       url = "https://open-vsx.org/api/oleg-shilo/favorites/1.5.16/file/oleg-shilo.favorites-1.5.16.vsix";
       sha256 = "sha256-+4j/nrysnqVZSCXgzmXCnsdMo5TrwY7cfKHmF+Efvt4=";
     };
-    name = "favorites";
     license = "MIT";
-    publisher = "oleg-shilo";
+    name = "favorites";
     description = "Manage and quickly access frequently used documents and documents' sets";
+    publisher = "oleg-shilo";
   };
   olifink-fedora-gnome-light-dark = {
     pname = "olifink-fedora-gnome-light-dark";
@@ -14660,10 +14684,10 @@
       url = "https://open-vsx.org/api/olifink/fedora-gnome-light-dark/0.0.4/file/olifink.fedora-gnome-light-dark-0.0.4.vsix";
       sha256 = "sha256-eQFt3NqKF7h6wmUZ5EegXLBQJ8Qy8IUE4KQlgbszuBw=";
     };
-    name = "fedora-gnome-light-dark";
     license = "MIT - see LICENSE file";
-    publisher = "olifink";
+    name = "fedora-gnome-light-dark";
     description = "Light and dark themes to match GNOME Adwaita and Adwaita-dark themes - based on GitHub and Atom One themes.";
+    publisher = "olifink";
   };
   omBratteng-nftables = {
     pname = "omBratteng-nftables";
@@ -14672,10 +14696,10 @@
       url = "https://open-vsx.org/api/omBratteng/nftables/0.4.5/file/omBratteng.nftables-0.4.5.vsix";
       sha256 = "sha256-fmR4UJ08W6thGgicy4UrgzPtZHoLXmbNX5NirP6eZwI=";
     };
-    name = "nftables";
     license = "";
-    publisher = "omBratteng";
+    name = "nftables";
     description = "Language support package for the nftables configuration syntax";
+    publisher = "omBratteng";
   };
   onecentlin-laravel-blade = {
     pname = "onecentlin-laravel-blade";
@@ -14684,10 +14708,10 @@
       url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.32.0/file/onecentlin.laravel-blade-1.32.0.vsix";
       sha256 = "sha256-RAX+HROsoeVSJPFUF4a1xoix0HiQTSm+7k4D3rXMp9U=";
     };
-    name = "laravel-blade";
     license = "MIT";
-    publisher = "onecentlin";
+    name = "laravel-blade";
     description = "Laravel blade snippets and syntax highlight support";
+    publisher = "onecentlin";
   };
   onecentlin-laravel5-snippets = {
     pname = "onecentlin-laravel5-snippets";
@@ -14696,10 +14720,10 @@
       url = "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.15.0/file/onecentlin.laravel5-snippets-1.15.0.vsix";
       sha256 = "sha256-MVHpOCI+TsZooeuG/ga0qNwbhCqyHMCmCrEhUmwH510=";
     };
-    name = "laravel5-snippets";
     license = "MIT";
-    publisher = "onecentlin";
+    name = "laravel5-snippets";
     description = "Laravel snippets for Visual Studio Code  (Support Laravel 5 and above)";
+    publisher = "onecentlin";
   };
   oouo-diogo-perdigao-docthis = {
     pname = "oouo-diogo-perdigao-docthis";
@@ -14708,10 +14732,10 @@
       url = "https://open-vsx.org/api/oouo-diogo-perdigao/docthis/0.8.2/file/oouo-diogo-perdigao.docthis-0.8.2.vsix";
       sha256 = "sha256-qIPAo41UZz+VMXmqlMVeW42Zsuef9SRH+yeug40VwjE=";
     };
-    name = "docthis";
     license = "MIT";
-    publisher = "oouo-diogo-perdigao";
+    name = "docthis";
     description = "Automatically generates detailed JSDoc comments in TypeScript and JavaScript files.";
+    publisher = "oouo-diogo-perdigao";
   };
   openCAESAR-oml-luxor = {
     pname = "openCAESAR-oml-luxor";
@@ -14720,10 +14744,10 @@
       url = "https://open-vsx.org/api/openCAESAR/oml-luxor/1.0.6/file/openCAESAR.oml-luxor-1.0.6.vsix";
       sha256 = "sha256-JJRaxEJfku2KKJxqlBi+vKLklLZVJPOAQKQui0LjCHI=";
     };
-    name = "oml-luxor";
     license = "Apache-2.0";
-    publisher = "openCAESAR";
+    name = "oml-luxor";
     description = "VSCode extension for OML";
+    publisher = "openCAESAR";
   };
   openfl-lime-vscode-extension = {
     pname = "openfl-lime-vscode-extension";
@@ -14732,10 +14756,10 @@
       url = "https://open-vsx.org/api/openfl/lime-vscode-extension/1.4.3/file/openfl.lime-vscode-extension-1.4.3.vsix";
       sha256 = "sha256-YFvvZT3Bq8fD1TMYhCEyNKs+YShcW11ftUtcTf+6klU=";
     };
-    name = "lime-vscode-extension";
     license = "MIT";
-    publisher = "openfl";
+    name = "lime-vscode-extension";
     description = "Lime and OpenFL project support";
+    publisher = "openfl";
   };
   openhab-openhab = {
     pname = "openhab-openhab";
@@ -14744,10 +14768,10 @@
       url = "https://open-vsx.org/api/openhab/openhab/1.0.0/file/openhab.openhab-1.0.0.vsix";
       sha256 = "sha256-kCeei0++KWdrZrL3naZyjmNKcSbOt/8wltAGZmhLjX0=";
     };
-    name = "openhab";
     license = "EPL-2.0";
-    publisher = "openhab";
+    name = "openhab";
     description = "Robust tool for openHAB textual configurations. Includes code snippets, syntax highlighting, language server integration and more.";
+    publisher = "openhab";
   };
   openra-vscode-openra-lua = {
     pname = "openra-vscode-openra-lua";
@@ -14756,10 +14780,10 @@
       url = "https://open-vsx.org/api/openra/vscode-openra-lua/0.0.7/file/openra.vscode-openra-lua-0.0.7.vsix";
       sha256 = "sha256-xOqln5Z/PucIY98X9fcksZ1WYRXpd/0vjHvW3ThRl1c=";
     };
-    name = "vscode-openra-lua";
     license = "GPL-3.0";
-    publisher = "openra";
+    name = "vscode-openra-lua";
     description = "Adds game scripting API and map globals.";
+    publisher = "openra";
   };
   openstax-editor = {
     pname = "openstax-editor";
@@ -14768,10 +14792,10 @@
       url = "https://open-vsx.org/api/openstax/editor/6.1.3/file/openstax.editor-6.1.3.vsix";
       sha256 = "sha256-qq5HG3dV6eiGWsjaD9GampjY9KPeLbag+3p3Z5n3Mac=";
     };
-    name = "editor";
     license = "LICENSE";
-    publisher = "openstax";
+    name = "editor";
     description = "An editor for OpenStax-organized books.";
+    publisher = "openstax";
   };
   opensumi-opensumi-default-themes = {
     pname = "opensumi-opensumi-default-themes";
@@ -14780,10 +14804,10 @@
       url = "https://open-vsx.org/api/opensumi/opensumi-default-themes/2.5.5/file/opensumi.opensumi-default-themes-2.5.5.vsix";
       sha256 = "sha256-IFcVfpOvN4Ss2e2e5suMGGh+iKj6wwAIiPmDvsESKEA=";
     };
-    name = "opensumi-default-themes";
     license = "MIT";
-    publisher = "opensumi";
+    name = "opensumi-default-themes";
     description = "The default OpenSumi themes";
+    publisher = "opensumi";
   };
   oraichain-cosmwasm = {
     pname = "oraichain-cosmwasm";
@@ -14792,10 +14816,10 @@
       url = "https://open-vsx.org/api/oraichain/cosmwasm/0.13.40/file/oraichain.cosmwasm-0.13.40.vsix";
       sha256 = "sha256-USJMco7JAD7KiuLM2FIINmfGOWelJLAevcyajLSPWk8=";
     };
-    name = "cosmwasm";
     license = "MIT OR Apache-2.0";
-    publisher = "oraichain";
+    name = "cosmwasm";
     description = "CosmWasm build & optimize";
+    publisher = "oraichain";
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
@@ -14804,10 +14828,10 @@
       url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.53/file/oraichain.cosmwasm-ide-0.13.53.vsix";
       sha256 = "sha256-672oYzOQqE4a46BV3k7IV+VdS6RPKNxo4ThsoIfimyQ=";
     };
-    name = "cosmwasm-ide";
     license = "MIT OR Apache-2.0";
-    publisher = "oraichain";
+    name = "cosmwasm-ide";
     description = "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts";
+    publisher = "oraichain";
   };
   orellabacCR-mobilize-codeundestand = {
     pname = "orellabacCR-mobilize-codeundestand";
@@ -14816,10 +14840,10 @@
       url = "https://open-vsx.org/api/orellabacCR/mobilize-codeundestand/0.0.2/file/orellabacCR.mobilize-codeundestand-0.0.2.vsix";
       sha256 = "sha256-zWrigLrEpxV852raL/cPMl68gm53b8htKku4+ExNz3k=";
     };
-    name = "mobilize-codeundestand";
     license = "MIT";
-    publisher = "orellabacCR";
+    name = "mobilize-codeundestand";
     description = "";
+    publisher = "orellabacCR";
   };
   orellabacCR-snowscript-js = {
     pname = "orellabacCR-snowscript-js";
@@ -14828,10 +14852,10 @@
       url = "https://open-vsx.org/api/orellabacCR/snowscript-js/1.0.8/file/orellabacCR.snowscript-js-1.0.8.vsix";
       sha256 = "sha256-1BYxh7jRxlKdjtZwoWHQtCXpMha2mrd6d+TfwPPDtUE=";
     };
-    name = "snowscript-js";
     license = "Mauricio Rojas";
-    publisher = "orellabacCR";
+    name = "snowscript-js";
     description = "Syntax Highlight for Snowflake stored procedures";
+    publisher = "orellabacCR";
   };
   orhun-black-waves = {
     pname = "orhun-black-waves";
@@ -14840,10 +14864,10 @@
       url = "https://open-vsx.org/api/orhun/black-waves/1.0.2/file/orhun.black-waves-1.0.2.vsix";
       sha256 = "sha256-rEUZFyH2RGfDU6Fsxwc/rfUqNEhH1fL6dRgR2/T5CZQ=";
     };
-    name = "black-waves";
     license = "GPL-3.0-or-later";
-    publisher = "orhun";
+    name = "black-waves";
     description = "A wavy dark theme for VSCode";
+    publisher = "orhun";
   };
   oscarlevin-pretext-tools = {
     pname = "oscarlevin-pretext-tools";
@@ -14852,10 +14876,10 @@
       url = "https://open-vsx.org/api/oscarlevin/pretext-tools/0.4.1/file/oscarlevin.pretext-tools-0.4.1.vsix";
       sha256 = "sha256-xmp6kitOcJ6hwo6r3e/FUP+jrq1amJJeEfk8ruRLwFI=";
     };
-    name = "pretext-tools";
     license = "See license in LICENSE";
-    publisher = "oscarlevin";
+    name = "pretext-tools";
     description = "Language support and more for PreTeXt";
+    publisher = "oscarlevin";
   };
   ovly-ovly-ui5-snippets = {
     pname = "ovly-ovly-ui5-snippets";
@@ -14864,10 +14888,10 @@
       url = "https://open-vsx.org/api/ovly/ovly-ui5-snippets/0.0.6/file/ovly.ovly-ui5-snippets-0.0.6.vsix";
       sha256 = "sha256-RKfPfTHRBON8iZjFtPePquA527XSX/goAAYBnCl/RhY=";
     };
-    name = "ovly-ui5-snippets";
     license = "Apache-2.0";
-    publisher = "ovly";
+    name = "ovly-ui5-snippets";
     description = "SAPUI5 snippets by OVLY";
+    publisher = "ovly";
   };
   ozgurkadir-cds-csv-generator = {
     pname = "ozgurkadir-cds-csv-generator";
@@ -14876,10 +14900,10 @@
       url = "https://open-vsx.org/api/ozgurkadir/cds-csv-generator/0.0.5/file/ozgurkadir.cds-csv-generator-0.0.5.vsix";
       sha256 = "sha256-VP1oT0J7Ac9CLO5W4t4zwF7LPTDAUXDfik0lLUpjLeU=";
     };
-    name = "cds-csv-generator";
     license = "Apache-2.0";
-    publisher = "ozgurkadir";
+    name = "cds-csv-generator";
     description = "CAP CDS CSV Generator";
+    publisher = "ozgurkadir";
   };
   paiqo-databricks-vscode = {
     pname = "paiqo-databricks-vscode";
@@ -14888,10 +14912,10 @@
       url = "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.4/file/paiqo.databricks-vscode-0.9.4.vsix";
       sha256 = "sha256-nLMXrTD6sDA6rmtCB4dkOsiVjz2Al2ff0z46qU4ARQY=";
     };
-    name = "databricks-vscode";
     license = "GPL-3.0-or-later";
-    publisher = "paiqo";
+    name = "databricks-vscode";
     description = "Databricks Extension for VSCode";
+    publisher = "paiqo";
   };
   panaeon-vscode-dhall-lsp-server = {
     pname = "panaeon-vscode-dhall-lsp-server";
@@ -14900,10 +14924,10 @@
       url = "https://open-vsx.org/api/panaeon/vscode-dhall-lsp-server/0.0.4/file/panaeon.vscode-dhall-lsp-server-0.0.4.vsix";
       sha256 = "sha256-xdGorEb9rLkXfdSefRyLptnC33OW0VYwBLOfmVFzFYs=";
     };
-    name = "vscode-dhall-lsp-server";
     license = "MIT";
-    publisher = "panaeon";
+    name = "vscode-dhall-lsp-server";
     description = "An LSP protocol implementation for the Dhall programming language";
+    publisher = "panaeon";
   };
   panekj-powershell = {
     pname = "panekj-powershell";
@@ -14912,10 +14936,10 @@
       url = "https://open-vsx.org/api/panekj/powershell/2021.10.0/file/panekj.powershell-2021.10.0.vsix";
       sha256 = "sha256-a8aOjPSNVvvV8d25/d9SXKOHbtW3gtMU7PdSwSX8W1M=";
     };
-    name = "powershell";
     license = "";
-    publisher = "panekj";
+    name = "powershell";
     description = "Develop PowerShell modules, commands and scripts in Visual Studio Code!";
+    publisher = "panekj";
   };
   panekj-powershell-preview = {
     pname = "panekj-powershell-preview";
@@ -14924,10 +14948,10 @@
       url = "https://open-vsx.org/api/panekj/powershell-preview/2021.7.0/file/panekj.powershell-preview-2021.7.0.vsix";
       sha256 = "sha256-5erT9k63EzSNVWrSVfMn237Byc4zbSwR3t0QUyzNjc8=";
     };
-    name = "powershell-preview";
     license = "MIT";
-    publisher = "panekj";
+    name = "powershell-preview";
     description = "(Preview) Develop PowerShell modules, commands and scripts in Visual Studio Code!";
+    publisher = "panekj";
   };
   pantajoe-vscode-elixir-credo = {
     pname = "pantajoe-vscode-elixir-credo";
@@ -14936,10 +14960,10 @@
       url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.7.2/file/pantajoe.vscode-elixir-credo-0.7.2.vsix";
       sha256 = "sha256-6J4FeQrrtc2ms7GGBLd+ELJpxnfvQtEaNdNAc3J8z5E=";
     };
-    name = "vscode-elixir-credo";
     license = "MIT";
-    publisher = "pantajoe";
+    name = "vscode-elixir-credo";
     description = "VSC Support for Elixir linter 'Credo'.";
+    publisher = "pantajoe";
   };
   paragdiwan-gitpatch = {
     pname = "paragdiwan-gitpatch";
@@ -14948,10 +14972,10 @@
       url = "https://open-vsx.org/api/paragdiwan/gitpatch/0.2.1/file/paragdiwan.gitpatch-0.2.1.vsix";
       sha256 = "sha256-5RL2FwCxEgrQKv81zT6rnOwBTAnFZGpDPPyszQI2KxQ=";
     };
-    name = "gitpatch";
     license = "MIT";
-    publisher = "paragdiwan";
+    name = "gitpatch";
     description = "Creates supplied diff output (i.e. 'a patch') and applies it to files. ";
+    publisher = "paragdiwan";
   };
   patbenatar-advanced-new-file = {
     pname = "patbenatar-advanced-new-file";
@@ -14960,10 +14984,10 @@
       url = "https://open-vsx.org/api/patbenatar/advanced-new-file/1.2.2/file/patbenatar.advanced-new-file-1.2.2.vsix";
       sha256 = "sha256-XkV1SVZWUsJKBwV3SGezy7wfLXL5Yu/fgm5EgXSi2jk=";
     };
-    name = "advanced-new-file";
     license = "MIT";
-    publisher = "patbenatar";
+    name = "advanced-new-file";
     description = "Create files anywhere in your workspace from the keyboard";
+    publisher = "patbenatar";
   };
   patcx-vscode-nuget-gallery = {
     pname = "patcx-vscode-nuget-gallery";
@@ -14972,10 +14996,10 @@
       url = "https://open-vsx.org/api/patcx/vscode-nuget-gallery/0.0.24/file/patcx.vscode-nuget-gallery-0.0.24.vsix";
       sha256 = "sha256-2xFYy6CdIy5PpwcAjOSitRa/K/2Z+5kyzNFpF1o1cgM=";
     };
-    name = "vscode-nuget-gallery";
     license = "ISC";
-    publisher = "patcx";
+    name = "vscode-nuget-gallery";
     description = "NuGet Gallery Extension makes installing and uninstalling NuGet packages easier";
+    publisher = "patcx";
   };
   paulbarre-klavaro = {
     pname = "paulbarre-klavaro";
@@ -14984,10 +15008,10 @@
       url = "https://open-vsx.org/api/paulbarre/klavaro/2.0.0/file/paulbarre.klavaro-2.0.0.vsix";
       sha256 = "sha256-FmaKpR7aO7EMy9ZrCNmRI0CtwioJMNWB6qJA3AZe7ic=";
     };
-    name = "klavaro";
     license = "MIT";
-    publisher = "paulbarre";
+    name = "klavaro";
     description = "Converts x-system character to Esperanto alphabet as typing.";
+    publisher = "paulbarre";
   };
   paulmolluzzo-convert-css-in-js = {
     pname = "paulmolluzzo-convert-css-in-js";
@@ -14996,10 +15020,10 @@
       url = "https://open-vsx.org/api/paulmolluzzo/convert-css-in-js/0.3.0/file/paulmolluzzo.convert-css-in-js-0.3.0.vsix";
       sha256 = "sha256-kU6RcYWGIY1SXjS9tYmMVB0I+1ZnxKchfLoixWp+4Cg=";
     };
-    name = "convert-css-in-js";
     license = "MIT";
-    publisher = "paulmolluzzo";
+    name = "convert-css-in-js";
     description = "Convert kebab-case CSS to camelCase CSS and vice versa";
+    publisher = "paulmolluzzo";
   };
   pavlitsky-yard = {
     pname = "pavlitsky-yard";
@@ -15008,10 +15032,10 @@
       url = "https://open-vsx.org/api/pavlitsky/yard/0.4.0/file/pavlitsky.yard-0.4.0.vsix";
       sha256 = "sha256-ur7PvI/1T4OwWcUp8sdGaGKcTvl82EaTx31QpSlJJK8=";
     };
-    name = "yard";
     license = "MIT";
-    publisher = "pavlitsky";
+    name = "yard";
     description = "Document Ruby source code with YARD";
+    publisher = "pavlitsky";
   };
   pdesaulniers-vscode-teal = {
     pname = "pdesaulniers-vscode-teal";
@@ -15020,10 +15044,10 @@
       url = "https://open-vsx.org/api/pdesaulniers/vscode-teal/0.8.3/file/pdesaulniers.vscode-teal-0.8.3.vsix";
       sha256 = "sha256-yI6bkPN84AwcCtWCUwn+aCXI8u0DhnnZvAl6T4dqefE=";
     };
-    name = "vscode-teal";
     license = "MIT";
-    publisher = "pdesaulniers";
+    name = "vscode-teal";
     description = "Teal language support for Visual Studio Code";
+    publisher = "pdesaulniers";
   };
   perrinjerome-dummy-test-hello-world = {
     pname = "perrinjerome-dummy-test-hello-world";
@@ -15032,10 +15056,10 @@
       url = "https://open-vsx.org/api/perrinjerome/dummy-test-hello-world/0.0.1/file/perrinjerome.dummy-test-hello-world-0.0.1.vsix";
       sha256 = "sha256-NV4xvNJOLaeIHGe+B0kIsoEnopd1r1h5h76INSbFG0U=";
     };
-    name = "dummy-test-hello-world";
     license = "MIT";
-    publisher = "perrinjerome";
+    name = "dummy-test-hello-world";
     description = "Testing things, don't install this extension";
+    publisher = "perrinjerome";
   };
   perrinjerome-git-commit-syntax = {
     pname = "perrinjerome-git-commit-syntax";
@@ -15044,10 +15068,10 @@
       url = "https://open-vsx.org/api/perrinjerome/git-commit-syntax/0.0.1/file/perrinjerome.git-commit-syntax-0.0.1.vsix";
       sha256 = "sha256-Xe6UK65jm+1zdUaRy4yJ34uWdUNw+nSs3InAz97/I4w=";
     };
-    name = "git-commit-syntax";
     license = "MIT";
-    publisher = "perrinjerome";
+    name = "git-commit-syntax";
     description = "Syntax for git commit messages";
+    publisher = "perrinjerome";
   };
   perrinjerome-git-rebase-syntax = {
     pname = "perrinjerome-git-rebase-syntax";
@@ -15056,10 +15080,10 @@
       url = "https://open-vsx.org/api/perrinjerome/git-rebase-syntax/0.0.1/file/perrinjerome.git-rebase-syntax-0.0.1.vsix";
       sha256 = "sha256-pUF/gMHVlWUcNuoJ3v8QpKMvGJINEJ4H7Y8hq5hmMs4=";
     };
-    name = "git-rebase-syntax";
     license = "MIT";
-    publisher = "perrinjerome";
+    name = "git-rebase-syntax";
     description = "Syntax for git rebase interactive";
+    publisher = "perrinjerome";
   };
   perrinjerome-vscode-zc-buildout = {
     pname = "perrinjerome-vscode-zc-buildout";
@@ -15068,10 +15092,10 @@
       url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.7.1/file/perrinjerome.vscode-zc-buildout-0.7.1.vsix";
       sha256 = "sha256-8TmCm/bmZZwlhDhhXW/UCo8RHs6vTpdsHo2N5PYaS6w=";
     };
-    name = "vscode-zc-buildout";
     license = "MIT";
-    publisher = "perrinjerome";
+    name = "vscode-zc-buildout";
     description = "A vscode extension and language server for zc.buildout";
+    publisher = "perrinjerome";
   };
   peterj-proto = {
     pname = "peterj-proto";
@@ -15080,10 +15104,10 @@
       url = "https://open-vsx.org/api/peterj/proto/0.0.3/file/peterj.proto-0.0.3.vsix";
       sha256 = "sha256-cEo2PVEdzR7FYbh56FnUFqBcX6Lju4EdUecJxg1+sgU=";
     };
-    name = "proto";
     license = "MIT";
-    publisher = "peterj";
+    name = "proto";
     description = "Protobuf support (.proto file syntax highlighting)";
+    publisher = "peterj";
   };
   pflannery-vscode-versionlens = {
     pname = "pflannery-vscode-versionlens";
@@ -15092,10 +15116,10 @@
       url = "https://open-vsx.org/api/pflannery/vscode-versionlens/1.0.10/file/pflannery.vscode-versionlens-1.0.10.vsix";
       sha256 = "sha256-+LDknkHqziDgwiUBfUHu15BP894P+cJuM9YQagg5sis=";
     };
-    name = "vscode-versionlens";
     license = "ISC";
-    publisher = "pflannery";
+    name = "vscode-versionlens";
     description = "Shows the latest version for each package using code lens";
+    publisher = "pflannery";
   };
   ph-hawkins-arc-plus = {
     pname = "ph-hawkins-arc-plus";
@@ -15104,10 +15128,10 @@
       url = "https://open-vsx.org/api/ph-hawkins/arc-plus/1.0.2/file/ph-hawkins.arc-plus-1.0.2.vsix";
       sha256 = "sha256-/CiEiizPUUvt/NjKi/Kd02bOvVsXyaS9MFpUugX/R18=";
     };
-    name = "arc-plus";
     license = "MIT";
-    publisher = "ph-hawkins";
+    name = "arc-plus";
     description = "A color theme inspired by Arc, Material, and Dark+";
+    publisher = "ph-hawkins";
   };
   phil294-coffeesense = {
     pname = "phil294-coffeesense";
@@ -15116,10 +15140,10 @@
       url = "https://open-vsx.org/api/phil294/coffeesense/1.12.0/file/phil294.coffeesense-1.12.0.vsix";
       sha256 = "sha256-uERl+EXVW1qmhA9Ahj+4Dq8NkIGvBLcDnxgozCMRtUg=";
     };
-    name = "coffeesense";
     license = "MIT";
-    publisher = "phil294";
+    name = "coffeesense";
     description = "IntelliSense for CoffeeScript based on its compiled JavaScript output";
+    publisher = "phil294";
   };
   phil294-keylogger = {
     pname = "phil294-keylogger";
@@ -15128,10 +15152,10 @@
       url = "https://open-vsx.org/api/phil294/keylogger/0.0.1/file/phil294.keylogger-0.0.1.vsix";
       sha256 = "sha256-t74H7Z2uyP4hA+7cHexalfDpv5imcEGbx1n7PWxdgGE=";
     };
-    name = "keylogger";
     license = "MIT";
-    publisher = "phil294";
+    name = "keylogger";
     description = "Minimalist extension that logs basic text input events with their timestamp, nothing else.";
+    publisher = "phil294";
   };
   phil9909-ytt-lint = {
     pname = "phil9909-ytt-lint";
@@ -15140,10 +15164,10 @@
       url = "https://open-vsx.org/api/phil9909/ytt-lint/0.3.1/file/phil9909.ytt-lint-0.3.1.vsix";
       sha256 = "sha256-mQ7xJx46IEvtKUfkTn9ZkdSvq4KFgAtRablBK3Quq6w=";
     };
-    name = "ytt-lint";
     license = "Apache-2.0";
-    publisher = "phil9909";
+    name = "ytt-lint";
     description = "ytt lint validates ytt-templates and plain yaml-files. It is designed for Kubernetes artifacts, but works with other yaml-files.";
+    publisher = "phil9909";
   };
   philosowaffle-openapi-designer = {
     pname = "philosowaffle-openapi-designer";
@@ -15152,10 +15176,10 @@
       url = "https://open-vsx.org/api/philosowaffle/openapi-designer/0.3.0/file/philosowaffle.openapi-designer-0.3.0.vsix";
       sha256 = "sha256-O6VaukfEcWEvJpUsmqYpcE8qtdJpaPB0HxHR64C0WV8=";
     };
-    name = "openapi-designer";
     license = "GPL-3.0";
-    publisher = "philosowaffle";
+    name = "openapi-designer";
     description = "Live Preview of OpenApi Schema in VS Code.";
+    publisher = "philosowaffle";
   };
   pickoba-satysfi-workshop = {
     pname = "pickoba-satysfi-workshop";
@@ -15164,10 +15188,10 @@
       url = "https://open-vsx.org/api/pickoba/satysfi-workshop/1.2.0/file/pickoba.satysfi-workshop-1.2.0.vsix";
       sha256 = "sha256-gZ2ZX+7CqVb6XDqn7kyeo3UYckS0tb1Sx1rI+RFgKF0=";
     };
-    name = "satysfi-workshop";
     license = "Apache-2.0";
-    publisher = "pickoba";
+    name = "satysfi-workshop";
     description = "Launguage support for SATySFi";
+    publisher = "pickoba";
   };
   piersdeseilligny-betterfountain = {
     pname = "piersdeseilligny-betterfountain";
@@ -15176,10 +15200,10 @@
       url = "https://open-vsx.org/api/piersdeseilligny/betterfountain/1.10.0/file/piersdeseilligny.betterfountain-1.10.0.vsix";
       sha256 = "sha256-flC19Kts/8M35+gWiQLTBxlVtox7eOyaEoe04iMmiIU=";
     };
-    name = "betterfountain";
     license = "MIT";
-    publisher = "piersdeseilligny";
+    name = "betterfountain";
     description = "Fountain autocomplete, syntax highlighting, and export to PDF";
+    publisher = "piersdeseilligny";
   };
   pilotkid-lodash-import-what-you-need = {
     pname = "pilotkid-lodash-import-what-you-need";
@@ -15188,10 +15212,10 @@
       url = "https://open-vsx.org/api/pilotkid/lodash-import-what-you-need/1.1.0/file/pilotkid.lodash-import-what-you-need-1.1.0.vsix";
       sha256 = "sha256-dWK8RTemv6UJWzlDhBmx4lzb+XVIY+KxnRw8WUgkvHw=";
     };
-    name = "lodash-import-what-you-need";
     license = "GPLv3";
-    publisher = "pilotkid";
+    name = "lodash-import-what-you-need";
     description = "Changes ES6 lodash imports to only import what is used in your code";
+    publisher = "pilotkid";
   };
   pinage404-bash-extension-pack = {
     pname = "pinage404-bash-extension-pack";
@@ -15200,10 +15224,10 @@
       url = "https://open-vsx.org/api/pinage404/bash-extension-pack/2.0.0/file/pinage404.bash-extension-pack-2.0.0.vsix";
       sha256 = "sha256-adrGnMKxswWjMV61GXPHzD3Dfe2pr4MSAAMv6dE/v8Y=";
     };
-    name = "bash-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "bash-extension-pack";
     description = "Opinionated extension pack to improve Bash usage";
+    publisher = "pinage404";
   };
   pinage404-better-readability-extension-pack = {
     pname = "pinage404-better-readability-extension-pack";
@@ -15212,10 +15236,10 @@
       url = "https://open-vsx.org/api/pinage404/better-readability-extension-pack/4.0.0/file/pinage404.better-readability-extension-pack-4.0.0.vsix";
       sha256 = "sha256-ZKAr2qNpmy8CjDk1qY33ad6n0vOFTGBfZAuDSRZLQUc=";
     };
-    name = "better-readability-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "better-readability-extension-pack";
     description = "Collection of extensions to improve readability (technology and language agnostic)";
+    publisher = "pinage404";
   };
   pinage404-common-configuration-languages-extension-pack = {
     pname = "pinage404-common-configuration-languages-extension-pack";
@@ -15224,10 +15248,10 @@
       url = "https://open-vsx.org/api/pinage404/common-configuration-languages-extension-pack/0.1.1/file/pinage404.common-configuration-languages-extension-pack-0.1.1.vsix";
       sha256 = "sha256-y94yWI3aRtrRak/zADxzFgP5PdTTuLZp0eLwTTto9N4=";
     };
-    name = "common-configuration-languages-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "common-configuration-languages-extension-pack";
     description = "Collection of extensions for common configuration languages";
+    publisher = "pinage404";
   };
   pinage404-extension-packs = {
     pname = "pinage404-extension-packs";
@@ -15236,10 +15260,10 @@
       url = "https://open-vsx.org/api/pinage404/extension-packs/1.6.0/file/pinage404.extension-packs-1.6.0.vsix";
       sha256 = "sha256-7cMMpS7Mo5a9mGLvOhVmhyh7sfDtoAFUWXfaK+vxB4Q=";
     };
-    name = "extension-packs";
     license = "MIT";
-    publisher = "pinage404";
+    name = "extension-packs";
     description = "All pinage404's extension packs packed into one";
+    publisher = "pinage404";
   };
   pinage404-front-end-extension-pack = {
     pname = "pinage404-front-end-extension-pack";
@@ -15248,10 +15272,10 @@
       url = "https://open-vsx.org/api/pinage404/front-end-extension-pack/1.1.0/file/pinage404.front-end-extension-pack-1.1.0.vsix";
       sha256 = "sha256-pgdW5N4KkrHFMh2e5/HBH+EYPnNb1a/gPzRAuBZQcS0=";
     };
-    name = "front-end-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "front-end-extension-pack";
     description = "Collection of extensions for front end web development (frameworks' agnostic)";
+    publisher = "pinage404";
   };
   pinage404-general-improvement-extension-pack = {
     pname = "pinage404-general-improvement-extension-pack";
@@ -15260,10 +15284,10 @@
       url = "https://open-vsx.org/api/pinage404/general-improvement-extension-pack/1.3.0/file/pinage404.general-improvement-extension-pack-1.3.0.vsix";
       sha256 = "sha256-J+U790HJ7kEB0/XicC4vJTF7fvI5SA+Je68w5islV9I=";
     };
-    name = "general-improvement-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "general-improvement-extension-pack";
     description = "Collection of extensions that fills in the missing features of VS Code (technology and language agnostic)";
+    publisher = "pinage404";
   };
   pinage404-git-extension-pack = {
     pname = "pinage404-git-extension-pack";
@@ -15272,10 +15296,10 @@
       url = "https://open-vsx.org/api/pinage404/git-extension-pack/1.0.0/file/pinage404.git-extension-pack-1.0.0.vsix";
       sha256 = "sha256-f4xjkNJRovufwTTSkM84oqRmGhctVz4dlKW6KKDbWXM=";
     };
-    name = "git-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "git-extension-pack";
     description = "Opinionated extension pack to improve Git usage (Git hosting agnostic)";
+    publisher = "pinage404";
   };
   pinage404-markdown-extension-pack = {
     pname = "pinage404-markdown-extension-pack";
@@ -15284,10 +15308,10 @@
       url = "https://open-vsx.org/api/pinage404/markdown-extension-pack/0.1.0/file/pinage404.markdown-extension-pack-0.1.0.vsix";
       sha256 = "sha256-LWZldpjXL8nHSYLgW2OGwFtIotbtyI9jKx4XHXLm1AQ=";
     };
-    name = "markdown-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "markdown-extension-pack";
     description = "Collection of extensions to improve writing document using Markdown";
+    publisher = "pinage404";
   };
   pinage404-more-missing-features-extension-pack = {
     pname = "pinage404-more-missing-features-extension-pack";
@@ -15296,10 +15320,10 @@
       url = "https://open-vsx.org/api/pinage404/more-missing-features-extension-pack/1.0.0/file/pinage404.more-missing-features-extension-pack-1.0.0.vsix";
       sha256 = "sha256-SyU0tlZ9YffKw74D/X2F7kY5kgydmIQZ1Y6/6l28wJM=";
     };
-    name = "more-missing-features-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "more-missing-features-extension-pack";
     description = "Opinionated collection of extensions that fills in the missing features of VS Code (technology and language agnostic)";
+    publisher = "pinage404";
   };
   pinage404-nix-extension-pack = {
     pname = "pinage404-nix-extension-pack";
@@ -15308,10 +15332,10 @@
       url = "https://open-vsx.org/api/pinage404/nix-extension-pack/2.0.0/file/pinage404.nix-extension-pack-2.0.0.vsix";
       sha256 = "sha256-4wfGA5acvFAaacnW0rcMUktotWVeK5NR5uJfx63nlBg=";
     };
-    name = "nix-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "nix-extension-pack";
     description = "Collection of extensions for Nix ecosystem (NixOS, Flake, DirEnv ...)";
+    publisher = "pinage404";
   };
   pinage404-rust-extension-pack = {
     pname = "pinage404-rust-extension-pack";
@@ -15320,10 +15344,10 @@
       url = "https://open-vsx.org/api/pinage404/rust-extension-pack/0.1.0/file/pinage404.rust-extension-pack-0.1.0.vsix";
       sha256 = "sha256-aLBVpGFzyUP4AeSSBmHIsMuLmgbUwjjP1q7FP7THeWI=";
     };
-    name = "rust-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "rust-extension-pack";
     description = "Collection of extensions for Rust ecosystem (Rust, Cargo ...)";
+    publisher = "pinage404";
   };
   pinage404-user-interface-extension-pack = {
     pname = "pinage404-user-interface-extension-pack";
@@ -15332,10 +15356,10 @@
       url = "https://open-vsx.org/api/pinage404/user-interface-extension-pack/2.0.0/file/pinage404.user-interface-extension-pack-2.0.0.vsix";
       sha256 = "sha256-gTZ6VuVvc6QEcVxaR+39Fe6XtJthKBdeZZ49aE0cqgM=";
     };
-    name = "user-interface-extension-pack";
     license = "MIT";
-    publisher = "pinage404";
+    name = "user-interface-extension-pack";
     description = "Opinionated extension pack to customize and improve user interface (technology and language agnostic)";
+    publisher = "pinage404";
   };
   piousdeer-adwaita-theme = {
     pname = "piousdeer-adwaita-theme";
@@ -15344,10 +15368,10 @@
       url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix";
       sha256 = "sha256-9VmjQOY5Y2+gNp/0lqBM5odc8nPKc979kL2O103TdXI=";
     };
-    name = "adwaita-theme";
     license = "GPL-3.0-only";
-    publisher = "piousdeer";
+    name = "adwaita-theme";
     description = "Theme for the GNOME desktop";
+    publisher = "piousdeer";
   };
   platymuus-dm-langclient = {
     pname = "platymuus-dm-langclient";
@@ -15356,10 +15380,10 @@
       url = "https://open-vsx.org/api/platymuus/dm-langclient/0.2.2/file/platymuus.dm-langclient-0.2.2.vsix";
       sha256 = "sha256-DsN4kIJLoQ+pwfJbOLryuiwO4MkIPUznQUYUdbehAIU=";
     };
-    name = "dm-langclient";
     license = "GPL-3.0";
-    publisher = "platymuus";
+    name = "dm-langclient";
     description = "Client for DreamMaker language server";
+    publisher = "platymuus";
   };
   plushugh-plus-pro = {
     pname = "plushugh-plus-pro";
@@ -15368,10 +15392,10 @@
       url = "https://open-vsx.org/api/plushugh/plus-pro/0.0.1/file/plushugh.plus-pro-0.0.1.vsix";
       sha256 = "sha256-x6sMIOOwIwqXfqWkQSXboycBbuzmBCD33UtKinnvvaQ=";
     };
-    name = "plus-pro";
     license = "MIT";
-    publisher = "plushugh";
+    name = "plus-pro";
     description = "A VSCode Theme for dark and simple users";
+    publisher = "plushugh";
   };
   ply-ct-vscode-ply = {
     pname = "ply-ct-vscode-ply";
@@ -15380,10 +15404,10 @@
       url = "https://open-vsx.org/api/ply-ct/vscode-ply/2.1.2/file/ply-ct.vscode-ply-2.1.2.vsix";
       sha256 = "sha256-e6ZAoGFfaB1feOPsiWuFT9Ju9cusRI7h9sAGpjVEqzU=";
     };
-    name = "vscode-ply";
     license = "MIT";
-    publisher = "ply-ct";
+    name = "vscode-ply";
     description = "Automated Testing for REST and GraphQL APIs";
+    publisher = "ply-ct";
   };
   pmbenjamin-vscode-snyk = {
     pname = "pmbenjamin-vscode-snyk";
@@ -15392,10 +15416,10 @@
       url = "https://open-vsx.org/api/pmbenjamin/vscode-snyk/0.0.2/file/pmbenjamin.vscode-snyk-0.0.2.vsix";
       sha256 = "sha256-5h09dZytDAwiIhKLGU6KzZTfxoqbPDAUWJyWdGNQzXs=";
     };
-    name = "vscode-snyk";
     license = "Apache-2.0";
-    publisher = "pmbenjamin";
+    name = "vscode-snyk";
     description = "Visual Studio Code extension for Snyk.io";
+    publisher = "pmbenjamin";
   };
   pointless-vscode-publisher-pointless-syntax-highlighting = {
     pname = "pointless-vscode-publisher-pointless-syntax-highlighting";
@@ -15404,10 +15428,10 @@
       url = "https://open-vsx.org/api/pointless-vscode-publisher/pointless-syntax-highlighting/0.0.2/file/pointless-vscode-publisher.pointless-syntax-highlighting-0.0.2.vsix";
       sha256 = "sha256-hxIg3aqGW+e1C5fZGioz6IK8S3QbDNP9uWgRFjSot3M=";
     };
-    name = "pointless-syntax-highlighting";
     license = "WTFPL";
-    publisher = "pointless-vscode-publisher";
+    name = "pointless-syntax-highlighting";
     description = "Syntax highlighting for the functional language Pointless";
+    publisher = "pointless-vscode-publisher";
   };
   pokey-command-server = {
     pname = "pokey-command-server";
@@ -15416,10 +15440,10 @@
       url = "https://open-vsx.org/api/pokey/command-server/0.8.2/file/pokey.command-server-0.8.2.vsix";
       sha256 = "sha256-9UZJkSHPuePCpPt1QQcJJ0fx3GRbUguPBvODNExc1SQ=";
     };
-    name = "command-server";
     license = "MIT";
-    publisher = "pokey";
+    name = "command-server";
     description = "Exposes a file-based RPC API for running VSCode commands";
+    publisher = "pokey";
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
@@ -15428,10 +15452,10 @@
       url = "https://open-vsx.org/api/pokey/cursorless/0.25.342/file/pokey.cursorless-0.25.342.vsix";
       sha256 = "sha256-mKFNo5ijrOuRsKmZD9iDsOWFUHvjdlg63C9V7y/KV8I=";
     };
-    name = "cursorless";
     license = "MIT";
-    publisher = "pokey";
+    name = "cursorless";
     description = "Structural voice coding at the speed of thought";
+    publisher = "pokey";
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
@@ -15440,10 +15464,10 @@
       url = "https://open-vsx.org/api/pokey/parse-tree/0.17.0/file/pokey.parse-tree-0.17.0.vsix";
       sha256 = "sha256-0wHi75K8GB3fJA7r4NH4gvAWkrd2/29XhiGjhcvBTsQ=";
     };
-    name = "parse-tree";
     license = "MIT";
-    publisher = "pokey";
+    name = "parse-tree";
     description = "Access document syntax using tree-sitter";
+    publisher = "pokey";
   };
   pokey-talon = {
     pname = "pokey-talon";
@@ -15452,10 +15476,10 @@
       url = "https://open-vsx.org/api/pokey/talon/0.2.0/file/pokey.talon-0.2.0.vsix";
       sha256 = "sha256-5g4WdYqGI/mF7VXq7zhQbP78ElqkCnn262OHEJoXWXY=";
     };
-    name = "talon";
     license = "MIT";
-    publisher = "pokey";
+    name = "talon";
     description = "Extensions useful for talon";
+    publisher = "pokey";
   };
   polyhurt-ascii-art-previewer = {
     pname = "polyhurt-ascii-art-previewer";
@@ -15464,10 +15488,10 @@
       url = "https://open-vsx.org/api/polyhurt/ascii-art-previewer/0.0.1/file/polyhurt.ascii-art-previewer-0.0.1.vsix";
       sha256 = "sha256-rk5+IqW+o5BUfdkuxnsMdNw0f8RIhrvBb7w9He3DdTE=";
     };
-    name = "ascii-art-previewer";
     license = "MIT";
-    publisher = "polyhurt";
+    name = "ascii-art-previewer";
     description = "Previews ASCII art using MIRC colors.";
+    publisher = "polyhurt";
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
@@ -15476,10 +15500,10 @@
       url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.0.0/file/pomdtr.excalidraw-editor-3.0.0.vsix";
       sha256 = "sha256-s2Y0XBmcp7jmBpWzKkZ4isX6CxT4T34R8MevTM9kSKs=";
     };
-    name = "excalidraw-editor";
     license = "MIT";
-    publisher = "pomdtr";
+    name = "excalidraw-editor";
     description = "Draw schemas in VS Code using Excalidraw";
+    publisher = "pomdtr";
   };
   pouya-comment = {
     pname = "pouya-comment";
@@ -15488,10 +15512,10 @@
       url = "https://open-vsx.org/api/pouya/comment/7.0.5/file/pouya.comment-7.0.5.vsix";
       sha256 = "sha256-+RYYYhdaW0x+Oa2qsX/nNZ8aRoUxiCPC9914q5jgbg0=";
     };
-    name = "comment";
     license = "";
-    publisher = "pouya";
+    name = "comment";
     description = "The easiest way to to decorate your codes with Kary Comments in Visual Studio Code.";
+    publisher = "pouya";
   };
   pouya-idf = {
     pname = "pouya-idf";
@@ -15500,10 +15524,10 @@
       url = "https://open-vsx.org/api/pouya/idf/3.0.0/file/pouya.idf-3.0.0.vsix";
       sha256 = "sha256-bdNOvkLyDygq3lSE5PppMl5GJjvfE2H0zVu+EinLYBw=";
     };
-    name = "idf";
     license = "GPL-3.0";
-    publisher = "pouya";
+    name = "idf";
     description = "Language Support for HeatStudio, OpenStudio and EnergyPlus files";
+    publisher = "pouya";
   };
   pouya-procolors = {
     pname = "pouya-procolors";
@@ -15512,10 +15536,10 @@
       url = "https://open-vsx.org/api/pouya/procolors/25.0.1/file/pouya.procolors-25.0.1.vsix";
       sha256 = "sha256-WwophEDLVb8j0xA5RFy+XBXUkU6KTAce2B9FUgJnrwE=";
     };
-    name = "procolors";
     license = "GPL-3.0";
-    publisher = "pouya";
+    name = "procolors";
     description = "A suite of carefully harmonized themes with a professional feel";
+    publisher = "pouya";
   };
   pranaygp-vscode-css-peek = {
     pname = "pranaygp-vscode-css-peek";
@@ -15524,10 +15548,10 @@
       url = "https://open-vsx.org/api/pranaygp/vscode-css-peek/4.2.0/file/pranaygp.vscode-css-peek-4.2.0.vsix";
       sha256 = "sha256-//Six87cuZJz0YFeQY0F7dAmPAZKytvAG2V40vleA9o=";
     };
-    name = "vscode-css-peek";
     license = "MIT";
-    publisher = "pranaygp";
+    name = "vscode-css-peek";
     description = "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.";
+    publisher = "pranaygp";
   };
   prime31-zig = {
     pname = "prime31-zig";
@@ -15536,10 +15560,10 @@
       url = "https://open-vsx.org/api/prime31/zig/0.1.7/file/prime31.zig-0.1.7.vsix";
       sha256 = "sha256-isob6K+oUXe/hg+sy/XrAgDM82l0OEqIfVM7pgkis7k=";
     };
-    name = "zig";
     license = "MIT";
-    publisher = "prime31";
+    name = "zig";
     description = "Build support for the Zig programming language";
+    publisher = "prime31";
   };
   prince781-vala = {
     pname = "prince781-vala";
@@ -15548,10 +15572,10 @@
       url = "https://open-vsx.org/api/prince781/vala/1.0.7/file/prince781.vala-1.0.7.vsix";
       sha256 = "sha256-YDxgU1Zdka8N7z567X9rECMb40cgzKNVo+niniLp/xU=";
     };
-    name = "vala";
     license = "MIT";
-    publisher = "prince781";
+    name = "vala";
     description = "Syntax highlighting and language support for the Vala / Genie languages";
+    publisher = "prince781";
   };
   projektanker-code-butler = {
     pname = "projektanker-code-butler";
@@ -15560,10 +15584,10 @@
       url = "https://open-vsx.org/api/projektanker/code-butler/2.0.0/file/projektanker.code-butler-2.0.0.vsix";
       sha256 = "sha256-U+2q9apdCOIGHlTY5FmEk8otryrltNQxAPofcZDhuzs=";
     };
-    name = "code-butler";
     license = "MIT";
-    publisher = "projektanker";
+    name = "code-butler";
     description = "Code Butler for C# files to clean up your code.";
+    publisher = "projektanker";
   };
   pshershov-blueberry-banana = {
     pname = "pshershov-blueberry-banana";
@@ -15572,10 +15596,10 @@
       url = "https://open-vsx.org/api/pshershov/blueberry-banana/0.1.6/file/pshershov.blueberry-banana-0.1.6.vsix";
       sha256 = "sha256-9gsvB0rTCaxMcaRkxSwd/m7fIVLhL6Yj3d+KIRvpm1w=";
     };
-    name = "blueberry-banana";
     license = "MIT";
-    publisher = "pshershov";
+    name = "blueberry-banana";
     description = "Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling";
+    publisher = "pshershov";
   };
   psudo-dev-nebula-oni-theme = {
     pname = "psudo-dev-nebula-oni-theme";
@@ -15584,10 +15608,10 @@
       url = "https://open-vsx.org/api/psudo-dev/nebula-oni-theme/1.4.0/file/psudo-dev.nebula-oni-theme-1.4.0.vsix";
       sha256 = "sha256-0t9+LQjRPl0j7gBA7txPretbFA8tLikkNW0S48b5rYU=";
     };
-    name = "nebula-oni-theme";
     license = "Apache-2.0";
-    publisher = "psudo-dev";
+    name = "nebula-oni-theme";
     description = "Oni (\39740) is a type of ogre youkai and \"Nebula Oni Theme\" has colors from Outer Space! Nebula Oni has a Menu with a lot of different options, give it a try, customize it!";
+    publisher = "psudo-dev";
   };
   pucelle-vscode-css-navigation = {
     pname = "pucelle-vscode-css-navigation";
@@ -15596,10 +15620,10 @@
       url = "https://open-vsx.org/api/pucelle/vscode-css-navigation/1.13.2/file/pucelle.vscode-css-navigation-1.13.2.vsix";
       sha256 = "sha256-sogzs/m2Z4eLFGjpeOXGW3qrU3r9gCPXutNmPnXP1i8=";
     };
-    name = "vscode-css-navigation";
     license = "MIT";
-    publisher = "pucelle";
+    name = "vscode-css-navigation";
     description = "Allows Go to Definition from HTML to CSS / Sass / Less; provides Completion and Workspace Symbols for class & id name.";
+    publisher = "pucelle";
   };
   puppet-puppet-vscode = {
     pname = "puppet-puppet-vscode";
@@ -15608,10 +15632,10 @@
       url = "https://open-vsx.org/api/puppet/puppet-vscode/1.4.0/file/puppet.puppet-vscode-1.4.0.vsix";
       sha256 = "sha256-+/JKKQy6DmgPqBDyFZRhUK5fO/szSCb7DJWRG3e6IEs=";
     };
-    name = "puppet-vscode";
     license = "Apache-2.0";
-    publisher = "puppet";
+    name = "puppet-vscode";
     description = "Official Puppet VSCode extension. Provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more";
+    publisher = "puppet";
   };
   pyxel-flare-theme = {
     pname = "pyxel-flare-theme";
@@ -15620,10 +15644,10 @@
       url = "https://open-vsx.org/api/pyxel/flare-theme/0.1.0/file/pyxel.flare-theme-0.1.0.vsix";
       sha256 = "sha256-ide2OSMV/nfU6ug7ApMFd4AAGr1vov4UqSDPtfst+w8=";
     };
-    name = "flare-theme";
     license = "MIT";
-    publisher = "pyxel";
+    name = "flare-theme";
     description = "A minimal dark theme based on Min Dark and Railgun.";
+    publisher = "pyxel";
   };
   pyxel-runic-theme = {
     pname = "pyxel-runic-theme";
@@ -15632,10 +15656,10 @@
       url = "https://open-vsx.org/api/pyxel/runic-theme/1.2.0/file/pyxel.runic-theme-1.2.0.vsix";
       sha256 = "sha256-DCAP6V+R86+vr64qHBw4cLouFaBo5vBG8Nh6b/M0Nos=";
     };
-    name = "runic-theme";
     license = "MIT";
-    publisher = "pyxel";
+    name = "runic-theme";
     description = "A minimal dark theme based on the sitruuna vim theme";
+    publisher = "pyxel";
   };
   qcz-restart-ts-server-button = {
     pname = "qcz-restart-ts-server-button";
@@ -15644,10 +15668,10 @@
       url = "https://open-vsx.org/api/qcz/restart-ts-server-button/1.0.1/file/qcz.restart-ts-server-button-1.0.1.vsix";
       sha256 = "sha256-qrBV5upnBdjUleN7cynVMZWGP1op/+cjQH/8VAOcPhE=";
     };
-    name = "restart-ts-server-button";
     license = "MIT";
-    publisher = "qcz";
+    name = "restart-ts-server-button";
     description = "The Restart TS server button on your Status Bar you didn't know you need.";
+    publisher = "qcz";
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
@@ -15656,10 +15680,10 @@
       url = "https://open-vsx.org/api/qcz/text-power-tools/1.33.0/file/qcz.text-power-tools-1.33.0.vsix";
       sha256 = "sha256-THOV//vRWUp5qrZibmcuo6s2SiBB7P2SnYHf7Pajf/4=";
     };
-    name = "text-power-tools";
     license = "MIT";
-    publisher = "qcz";
+    name = "text-power-tools";
     description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.";
+    publisher = "qcz";
   };
   qguv-ninja-vscode = {
     pname = "qguv-ninja-vscode";
@@ -15668,10 +15692,10 @@
       url = "https://open-vsx.org/api/qguv/ninja-vscode/2.0.0/file/qguv.ninja-vscode-2.0.0.vsix";
       sha256 = "sha256-MagvsMQvWsZkuwKVu9ZqDaW35GEEGeTA/yqXTPdvMcY=";
     };
-    name = "ninja-vscode";
     license = "GPL-2.0";
-    publisher = "qguv";
+    name = "ninja-vscode";
     description = "A syntax highlighter for Ninja build files";
+    publisher = "qguv";
   };
   qoretechnologies-qore-vscode = {
     pname = "qoretechnologies-qore-vscode";
@@ -15680,10 +15704,10 @@
       url = "https://open-vsx.org/api/qoretechnologies/qore-vscode/0.7.4/file/qoretechnologies.qore-vscode-0.7.4.vsix";
       sha256 = "sha256-NxJnnE818nguYgUjlASR/VV62QPlEsRpk5OxUkL6vjs=";
     };
-    name = "qore-vscode";
     license = "MIT";
-    publisher = "qoretechnologies";
+    name = "qore-vscode";
     description = "Qore language support for VS Code";
+    publisher = "qoretechnologies";
   };
   quarto-quarto = {
     pname = "quarto-quarto";
@@ -15692,10 +15716,10 @@
       url = "https://open-vsx.org/api/quarto/quarto/1.24.0/file/quarto.quarto-1.24.0.vsix";
       sha256 = "sha256-YBD4dwL5kEu+4hErU7UvpUWZ7KNKipFdrfkmrOv3MqI=";
     };
-    name = "quarto";
     license = "MIT";
-    publisher = "quarto";
+    name = "quarto";
     description = "Extension for the Quarto scientific and technical publishing system.";
+    publisher = "quarto";
   };
   quentinguidee-gitignore-ultimate = {
     pname = "quentinguidee-gitignore-ultimate";
@@ -15704,10 +15728,10 @@
       url = "https://open-vsx.org/api/quentinguidee/gitignore-ultimate/0.3.0/file/quentinguidee.gitignore-ultimate-0.3.0.vsix";
       sha256 = "sha256-U4vkG/A4sDVSu2CK/vhC6JEyQwH17pQLY0AK8/8h63Q=";
     };
-    name = "gitignore-ultimate";
     license = "MIT";
-    publisher = "quentinguidee";
+    name = "gitignore-ultimate";
     description = "Your favorite companion to edit gitignore files.";
+    publisher = "quentinguidee";
   };
   qufiwefefwoyn-inline-sql-syntax = {
     pname = "qufiwefefwoyn-inline-sql-syntax";
@@ -15716,10 +15740,10 @@
       url = "https://open-vsx.org/api/qufiwefefwoyn/inline-sql-syntax/2.10.3/file/qufiwefefwoyn.inline-sql-syntax-2.10.3.vsix";
       sha256 = "sha256-LNSwqz9u3M5A8LBpeYbDHxtZMdnJbhfTP/RJtIZRtGs=";
     };
-    name = "inline-sql-syntax";
     license = "MIT";
-    publisher = "qufiwefefwoyn";
+    name = "inline-sql-syntax";
     description = "Highlight and lint SQL strings and SQL files. Python, Go, Rust, JS, TS, Ruby, Java, C#, PHP.";
+    publisher = "qufiwefefwoyn";
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
@@ -15728,10 +15752,10 @@
       url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.5.0/file/quick-lint.quick-lint-js-2.5.0.vsix";
       sha256 = "sha256-6qT4Ry9DBNUMO1ceNWQ9j2KAjh1o9McNiyUQkeOck1A=";
     };
-    name = "quick-lint-js";
     license = "GPL-3.0";
-    publisher = "quick-lint";
+    name = "quick-lint-js";
     description = "Find JavaScript bugs with quick-lint-js";
+    publisher = "quick-lint";
   };
   qux-bbb-text-utils = {
     pname = "qux-bbb-text-utils";
@@ -15740,10 +15764,10 @@
       url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.3/file/qux-bbb.text-utils-0.1.3.vsix";
       sha256 = "sha256-YnZVHHR+dSbTIjX6mGectk7OheH3f37Otn02e1yZLJM=";
     };
-    name = "text-utils";
     license = "GPL-3.0";
-    publisher = "qux-bbb";
+    name = "text-utils";
     description = "Simple Text Utils";
+    publisher = "qux-bbb";
   };
   radiolevity-Neofloss = {
     pname = "radiolevity-Neofloss";
@@ -15752,10 +15776,10 @@
       url = "https://open-vsx.org/api/radiolevity/Neofloss/1.1.5/file/radiolevity.Neofloss-1.1.5.vsix";
       sha256 = "sha256-ydQoUS8jWnTau/CnlvHsxERqqDK+S5RfpaZ5JUjI2zE=";
     };
-    name = "Neofloss";
     license = "MIT";
-    publisher = "radiolevity";
+    name = "Neofloss";
     description = "Dark theme with a sweet tooth";
+    publisher = "radiolevity";
   };
   radiolevity-salt-water-taffy = {
     pname = "radiolevity-salt-water-taffy";
@@ -15764,10 +15788,10 @@
       url = "https://open-vsx.org/api/radiolevity/salt-water-taffy/0.3.0/file/radiolevity.salt-water-taffy-0.3.0.vsix";
       sha256 = "sha256-sC0ghPegWDbQphJ1NjZW7OFTowRcDK8nu3haJb193V8=";
     };
-    name = "salt-water-taffy";
     license = "MIT";
-    publisher = "radiolevity";
+    name = "salt-water-taffy";
     description = "Seaside colors with a pastel finish";
+    publisher = "radiolevity";
   };
   radiolevity-search-lights = {
     pname = "radiolevity-search-lights";
@@ -15776,10 +15800,10 @@
       url = "https://open-vsx.org/api/radiolevity/search-lights/1.10.1/file/radiolevity.search-lights-1.10.1.vsix";
       sha256 = "sha256-CZYLrupBpiU68XuIfgayITgoI9zpEd3OBzyYtuNXZW4=";
     };
-    name = "search-lights";
     license = "MIT";
-    publisher = "radiolevity";
+    name = "search-lights";
     description = "Field Lights based dark theme";
+    publisher = "radiolevity";
   };
   rafaelmaiolla-diff = {
     pname = "rafaelmaiolla-diff";
@@ -15788,10 +15812,10 @@
       url = "https://open-vsx.org/api/rafaelmaiolla/diff/0.0.1/file/rafaelmaiolla.diff-0.0.1.vsix";
       sha256 = "sha256-Xk1B0uZZI5rvwavigU4UWs8VD29DMn3FCawlqyBiygI=";
     };
-    name = "diff";
     license = "MIT";
-    publisher = "rafaelmaiolla";
+    name = "diff";
     description = "Syntax highlighting for diff files.";
+    publisher = "rafaelmaiolla";
   };
   rafaelmardojai-vscode-gnome-theme = {
     pname = "rafaelmardojai-vscode-gnome-theme";
@@ -15800,10 +15824,10 @@
       url = "https://open-vsx.org/api/rafaelmardojai/vscode-gnome-theme/0.4.1/file/rafaelmardojai.vscode-gnome-theme-0.4.1.vsix";
       sha256 = "sha256-tN8JzcA71e9vQe1/QCZsxvwnDJAO9JcFDDv/MgYuIAI=";
     };
-    name = "vscode-gnome-theme";
     license = "Unlicense";
-    publisher = "rafaelmardojai";
+    name = "vscode-gnome-theme";
     description = "A GNOME color theme for VSCode";
+    publisher = "rafaelmardojai";
   };
   raidou-calc = {
     pname = "raidou-calc";
@@ -15812,10 +15836,10 @@
       url = "https://open-vsx.org/api/raidou/calc/2.1.0/file/raidou.calc-2.1.0.vsix";
       sha256 = "sha256-PrHGTlxadn/45cIlDJQbjk5RrHu8QehEumVVfF8Q7Nk=";
     };
-    name = "calc";
     license = "MIT";
-    publisher = "raidou";
+    name = "calc";
     description = "Calculate extension for vscode";
+    publisher = "raidou";
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
@@ -15824,10 +15848,10 @@
       url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.4/file/rangav.vscode-thunder-client-1.16.4.vsix";
       sha256 = "sha256-CwB+uh0WcYnktafGlyM68lteYPfTat8v/A1RSZh+K3Q=";
     };
-    name = "vscode-thunder-client";
     license = "";
-    publisher = "rangav";
+    name = "vscode-thunder-client";
     description = "Lightweight Rest API Client for VS Code";
+    publisher = "rangav";
   };
   razetime-bqn-language = {
     pname = "razetime-bqn-language";
@@ -15836,10 +15860,10 @@
       url = "https://open-vsx.org/api/razetime/bqn-language/0.0.4/file/razetime.bqn-language-0.0.4.vsix";
       sha256 = "sha256-cYRP/5jy4BlqZXqo746l0pmDDCvcpIeJLhC2FoOO1j8=";
     };
-    name = "bqn-language";
     license = "MIT";
-    publisher = "razetime";
+    name = "bqn-language";
     description = "BQN array programming language support, backslash completion, snippets and code execution";
+    publisher = "razetime";
   };
   rbozan-vscode-lsp-translations = {
     pname = "rbozan-vscode-lsp-translations";
@@ -15848,10 +15872,10 @@
       url = "https://open-vsx.org/api/rbozan/vscode-lsp-translations/0.2.16/file/rbozan.vscode-lsp-translations-0.2.16.vsix";
       sha256 = "sha256-zMZN5i0gmMll/f9UCs35gtyTU/y8zfbu/0MO7KrfAK8=";
     };
-    name = "vscode-lsp-translations";
     license = "MIT";
-    publisher = "rbozan";
+    name = "vscode-lsp-translations";
     description = "Provides autocompletion for the translations in your project (using lsp-translations, written in Rust).";
+    publisher = "rbozan";
   };
   reachsh-reach-ide = {
     pname = "reachsh-reach-ide";
@@ -15860,10 +15884,10 @@
       url = "https://open-vsx.org/api/reachsh/reach-ide/1001.7.3/file/reachsh.reach-ide-1001.7.3.vsix";
       sha256 = "sha256-NTiv8ClZjeY1hP62soTAM2E2hGBStK1+55/RgRyq8wQ=";
     };
-    name = "reach-ide";
     license = "EPL-2.0";
-    publisher = "reachsh";
+    name = "reach-ide";
     description = "IDE for the Reach DApp programming language";
+    publisher = "reachsh";
   };
   readthedocs-rtdbin = {
     pname = "readthedocs-rtdbin";
@@ -15872,10 +15896,10 @@
       url = "https://open-vsx.org/api/readthedocs/rtdbin/0.2.2/file/readthedocs.rtdbin-0.2.2.vsix";
       sha256 = "sha256-Zo+p0z1sZIf6VrFN6EBhnwkaT9X2hIlgBjxg+jNRvYY=";
     };
-    name = "rtdbin";
     license = "MIT";
-    publisher = "readthedocs";
+    name = "rtdbin";
     description = "An extension to easily create bins.";
+    publisher = "readthedocs";
   };
   reageyao-biosyntax = {
     pname = "reageyao-biosyntax";
@@ -15884,10 +15908,10 @@
       url = "https://open-vsx.org/api/reageyao/biosyntax/0.0.11/file/reageyao.biosyntax-0.0.11.vsix";
       sha256 = "sha256-nY7VhBifeSiWZ7D4IerRpqMzLA+JU5cHpmU9Ezn9Y/k=";
     };
-    name = "biosyntax";
     license = "GPL-3.0";
-    publisher = "reageyao";
+    name = "biosyntax";
     description = "bioSyntax for computational biology";
+    publisher = "reageyao";
   };
   rebornix-ruby = {
     pname = "rebornix-ruby";
@@ -15896,10 +15920,10 @@
       url = "https://open-vsx.org/api/rebornix/ruby/0.28.1/file/rebornix.ruby-0.28.1.vsix";
       sha256 = "sha256-YavcyDWXghLxzxSWIBKJtuxTw3s7OgeWqEG56gvW4mE=";
     };
-    name = "ruby";
     license = "MIT";
-    publisher = "rebornix";
+    name = "ruby";
     description = "Ruby language support and debugging for Visual Studio Code";
+    publisher = "rebornix";
   };
   recca0120-vscode-phpunit = {
     pname = "recca0120-vscode-phpunit";
@@ -15908,10 +15932,10 @@
       url = "https://open-vsx.org/api/recca0120/vscode-phpunit/2.0.76/file/recca0120.vscode-phpunit-2.0.76.vsix";
       sha256 = "sha256-cGxh4DoaxcOWkwfPHyhq0liGjKF5Viphuc+VlOI6fyg=";
     };
-    name = "vscode-phpunit";
     license = "MIT";
-    publisher = "recca0120";
+    name = "vscode-phpunit";
     description = "PHPUnit Test Explorer";
+    publisher = "recca0120";
   };
   rechinformatica-rech-cobol-debugger = {
     pname = "rechinformatica-rech-cobol-debugger";
@@ -15920,10 +15944,10 @@
       url = "https://open-vsx.org/api/rechinformatica/rech-cobol-debugger/1.0.39/file/rechinformatica.rech-cobol-debugger-1.0.39.vsix";
       sha256 = "sha256-qfB6sS9a0p41KEe0qcoSG1zMJqLgEzAdpqseG/UkEuU=";
     };
-    name = "rech-cobol-debugger";
     license = "MIT";
-    publisher = "rechinformatica";
+    name = "rech-cobol-debugger";
     description = "Debug COBOL files with Visual Studio Code";
+    publisher = "rechinformatica";
   };
   redhat-ansible = {
     pname = "redhat-ansible";
@@ -15932,10 +15956,10 @@
       url = "https://open-vsx.org/api/redhat/ansible/0.10.0/file/redhat.ansible-0.10.0.vsix";
       sha256 = "sha256-cXDr0vNDjn3HZdKdFhE0yXo8dLS78LIqhZ5tY//2EDo=";
     };
-    name = "ansible";
     license = "MIT";
-    publisher = "redhat";
+    name = "ansible";
     description = "Ansible language support";
+    publisher = "redhat";
   };
   redhat-apache-camel-extension-pack = {
     pname = "redhat-apache-camel-extension-pack";
@@ -15944,10 +15968,10 @@
       url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.12/file/redhat.apache-camel-extension-pack-0.0.12.vsix";
       sha256 = "sha256-JHoGxTD87rFGLV4mYKwYKTmoYTvcHV0WELlHqMit7Ek=";
     };
-    name = "apache-camel-extension-pack";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "apache-camel-extension-pack";
     description = "VS Code extensions for Apache Camel and Red Hat Fuse developers.";
+    publisher = "redhat";
   };
   redhat-atlasmap-viewer = {
     pname = "redhat-atlasmap-viewer";
@@ -15956,10 +15980,10 @@
       url = "https://open-vsx.org/api/redhat/atlasmap-viewer/0.1.2/file/redhat.atlasmap-viewer-0.1.2.vsix";
       sha256 = "sha256-2JoBHNNcYtzfxjHmtJunECAEqJvNHMhAxAIyRU71omY=";
     };
-    name = "atlasmap-viewer";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "atlasmap-viewer";
     description = "Opens a browser for AtlasMap Data Transformation editor";
+    publisher = "redhat";
   };
   redhat-fabric8-analytics = {
     pname = "redhat-fabric8-analytics";
@@ -15968,10 +15992,10 @@
       url = "https://open-vsx.org/api/redhat/fabric8-analytics/0.3.5/file/redhat.fabric8-analytics-0.3.5.vsix";
       sha256 = "sha256-D96ADlqjQMhXLaVLTHmpPrIqgy1FGt0QZTPBo90DF30=";
     };
-    name = "fabric8-analytics";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "fabric8-analytics";
     description = "Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.";
+    publisher = "redhat";
   };
   redhat-java = {
     pname = "redhat-java";
@@ -15980,10 +16004,10 @@
       url = "https://open-vsx.org/api/redhat/java/1.7.0/file/redhat.java-1.7.0.vsix";
       sha256 = "sha256-JUjBt4ZCmDG/8jLu6GwrVMptB6bPxAJ3TJr5V2ZY9Cc=";
     };
-    name = "java";
     license = "EPL-2.0";
-    publisher = "redhat";
+    name = "java";
     description = "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...";
+    publisher = "redhat";
   };
   redhat-mta-vscode-extension = {
     pname = "redhat-mta-vscode-extension";
@@ -15992,10 +16016,10 @@
       url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.98/file/redhat.mta-vscode-extension-0.0.98.vsix";
       sha256 = "sha256-JkwsecwDv1+nnJZ8H8+X0g18gd7imbRoPqnAOpo6QAk=";
     };
-    name = "mta-vscode-extension";
     license = "MIT";
-    publisher = "redhat";
+    name = "mta-vscode-extension";
     description = "Migration Toolkit for Applications (MTA)";
+    publisher = "redhat";
   };
   redhat-project-initializer = {
     pname = "redhat-project-initializer";
@@ -16004,10 +16028,10 @@
       url = "https://open-vsx.org/api/redhat/project-initializer/0.2.1/file/redhat.project-initializer-0.2.1.vsix";
       sha256 = "sha256-6EJPlxMJRthGAOumIqh/xMWuRNKCw+6aOuUJHLtnWOI=";
     };
-    name = "project-initializer";
     license = "EPL-2.0";
-    publisher = "redhat";
+    name = "project-initializer";
     description = "A lightweight extension based on Red Hat launcher to generate quickstart projects using VSCode";
+    publisher = "redhat";
   };
   redhat-rhamt-vscode-extension = {
     pname = "redhat-rhamt-vscode-extension";
@@ -16016,10 +16040,10 @@
       url = "https://open-vsx.org/api/redhat/rhamt-vscode-extension/0.0.46/file/redhat.rhamt-vscode-extension-0.0.46.vsix";
       sha256 = "sha256-2+DbasY/X2VOBS4wJhWLzKKqmIh4OXGbljEZ9Wj8t3I=";
     };
-    name = "rhamt-vscode-extension";
     license = "MIT";
-    publisher = "redhat";
+    name = "rhamt-vscode-extension";
     description = "Migration Toolkit for Applications (MTA)";
+    publisher = "redhat";
   };
   redhat-vscode-apache-camel = {
     pname = "redhat-vscode-apache-camel";
@@ -16028,10 +16052,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.3.0/file/redhat.vscode-apache-camel-0.3.0.vsix";
       sha256 = "sha256-QytYhzPG7AFbni2kLp60thqRRLw2/xsgsSpy1KWBitM=";
     };
-    name = "vscode-apache-camel";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-apache-camel";
     description = "Provides completion, validation and documentation features for Apache Camel URI elements.";
+    publisher = "redhat";
   };
   redhat-vscode-camelk = {
     pname = "redhat-vscode-camelk";
@@ -16040,10 +16064,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-camelk/0.0.31/file/redhat.vscode-camelk-0.0.31.vsix";
       sha256 = "sha256-OFgDkGgP/EXZDVAKh7B2gdpA8j+bgBQCWLx5BQqoxuE=";
     };
-    name = "vscode-camelk";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-camelk";
     description = "VS Code support for Apache Camel K functionality";
+    publisher = "redhat";
   };
   redhat-vscode-commons = {
     pname = "redhat-vscode-commons";
@@ -16052,10 +16076,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-commons/0.0.6/file/redhat.vscode-commons-0.0.6.vsix";
       sha256 = "sha256-tqjGKrQ6fhjco7/sgh2jaJCpikXyzeCOkHM8nRekFq0=";
     };
-    name = "vscode-commons";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-commons";
     description = "Base utilities for Red Hat extensions. Notably controls telemetry settings.";
+    publisher = "redhat";
   };
   redhat-vscode-debug-adapter-apache-camel = {
     pname = "redhat-vscode-debug-adapter-apache-camel";
@@ -16064,10 +16088,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.3.0/file/redhat.vscode-debug-adapter-apache-camel-0.3.0.vsix";
       sha256 = "sha256-OIRQTrwRlTUWEM3f0THBiv+QrK3nqQcaiL8kpjqEP8I=";
     };
-    name = "vscode-debug-adapter-apache-camel";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-debug-adapter-apache-camel";
     description = "Client for the Debug Adapter implementation for Apache Camel";
+    publisher = "redhat";
   };
   redhat-vscode-didact = {
     pname = "redhat-vscode-didact";
@@ -16076,10 +16100,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-didact/0.4.1/file/redhat.vscode-didact-0.4.1.vsix";
       sha256 = "sha256-UYgvsZsxw/5+CSiUcRHlb4rFcI6fp+Nn39FqBtGzyac=";
     };
-    name = "vscode-didact";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-didact";
     description = "Didact Tutorial Tools for Visual Studio Code";
+    publisher = "redhat";
   };
   redhat-vscode-extension-bpmn-editor = {
     pname = "redhat-vscode-extension-bpmn-editor";
@@ -16088,10 +16112,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.19.0/file/redhat.vscode-extension-bpmn-editor-0.19.0.vsix";
       sha256 = "sha256-J1AT6/S2XOY8A/ARdb3996CIKRFM7rN2/hdscm3EDWw=";
     };
-    name = "vscode-extension-bpmn-editor";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-extension-bpmn-editor";
     description = "Edit BPMN files";
+    publisher = "redhat";
   };
   redhat-vscode-extension-dmn-editor = {
     pname = "redhat-vscode-extension-dmn-editor";
@@ -16100,10 +16124,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.19.0/file/redhat.vscode-extension-dmn-editor-0.19.0.vsix";
       sha256 = "sha256-ylbkvGXTnu+GuAX6qmZ9/Dc+ZnXXhNF7gOOdkrz2GIw=";
     };
-    name = "vscode-extension-dmn-editor";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-extension-dmn-editor";
     description = "Edit DMN and Test Scenario files";
+    publisher = "redhat";
   };
   redhat-vscode-extension-pmml-editor = {
     pname = "redhat-vscode-extension-pmml-editor";
@@ -16112,10 +16136,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.19.0/file/redhat.vscode-extension-pmml-editor-0.19.0.vsix";
       sha256 = "sha256-e2ZGFItHCKuo+qWCxJ+eQYmOTUMfQojmE/moo0jyanI=";
     };
-    name = "vscode-extension-pmml-editor";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-extension-pmml-editor";
     description = "Edit PMML Scorecards";
+    publisher = "redhat";
   };
   redhat-vscode-extension-red-hat-business-automation-bundle = {
     pname = "redhat-vscode-extension-red-hat-business-automation-bundle";
@@ -16124,10 +16148,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.19.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.19.0.vsix";
       sha256 = "sha256-Fcvzx5XdsRg4Bp+fqE+su3nt87SXjVkidgj0J1slnBs=";
     };
-    name = "vscode-extension-red-hat-business-automation-bundle";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-extension-red-hat-business-automation-bundle";
     description = "Edit BPMN, DMN and Test Scenario files";
+    publisher = "redhat";
   };
   redhat-vscode-extension-serverless-workflow-editor = {
     pname = "redhat-vscode-extension-serverless-workflow-editor";
@@ -16136,10 +16160,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.19.0/file/redhat.vscode-extension-serverless-workflow-editor-0.19.0.vsix";
       sha256 = "sha256-Q+ljQnEQW9TknWUzw7+1HVwpg3pYaKFbj3OBgZTDHec=";
     };
-    name = "vscode-extension-serverless-workflow-editor";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-extension-serverless-workflow-editor";
     description = "Edit Serverless Workflow definitions";
+    publisher = "redhat";
   };
   redhat-vscode-microprofile = {
     pname = "redhat-vscode-microprofile";
@@ -16148,10 +16172,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-microprofile/0.4.0/file/redhat.vscode-microprofile-0.4.0.vsix";
       sha256 = "sha256-eoBXzJHA0fyYrAjanDdZM3K1UGCxbBvrccmWMVNUBSE=";
     };
-    name = "vscode-microprofile";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-microprofile";
     description = "Language Support for Eclipse MicroProfile";
+    publisher = "redhat";
   };
   redhat-vscode-openshift-connector = {
     pname = "redhat-vscode-openshift-connector";
@@ -16160,10 +16184,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.4.0/file/redhat.vscode-openshift-connector-0.4.0.vsix";
       sha256 = "sha256-/W67R+AwAg7Vs10YBIDGMPToKvspKxBy2x9k9XiadB8=";
     };
-    name = "vscode-openshift-connector";
     license = "MIT";
-    publisher = "redhat";
+    name = "vscode-openshift-connector";
     description = "Simplified app dev for Kubernetes or Red Hat OpenShift";
+    publisher = "redhat";
   };
   redhat-vscode-quarkus = {
     pname = "redhat-vscode-quarkus";
@@ -16172,10 +16196,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-quarkus/1.10.0/file/redhat.vscode-quarkus-1.10.0.vsix";
       sha256 = "sha256-W37vCMDhfOtF0TnFTpphHQLnconYOymZDV8qC5m5NDk=";
     };
-    name = "vscode-quarkus";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-quarkus";
     description = "Quarkus Tools for Visual Studio Code";
+    publisher = "redhat";
   };
   redhat-vscode-redhat-account = {
     pname = "redhat-vscode-redhat-account";
@@ -16184,10 +16208,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-redhat-account/0.0.4/file/redhat.vscode-redhat-account-0.0.4.vsix";
       sha256 = "sha256-hR8y/SzWhHMzHQX3mFjV6z5y8JvNETVX5Daaicfx3cI=";
     };
-    name = "vscode-redhat-account";
     license = "MIT";
-    publisher = "redhat";
+    name = "vscode-redhat-account";
     description = "Provides authentication support for Red Hat accounts";
+    publisher = "redhat";
   };
   redhat-vscode-rhoas = {
     pname = "redhat-vscode-rhoas";
@@ -16196,10 +16220,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-rhoas/0.0.4/file/redhat.vscode-rhoas-0.0.4.vsix";
       sha256 = "sha256-Gm2yYFWwOiHNnPQbypqCRGxWnAY81Nw2DWRImiwvd8I=";
     };
-    name = "vscode-rhoas";
     license = "MIT";
-    publisher = "redhat";
+    name = "vscode-rhoas";
     description = "Contributes `Red Hat OpenShift Streams For Apache Kafka` clusters to `Tools for Apache Kafka`";
+    publisher = "redhat";
   };
   redhat-vscode-tekton-pipelines = {
     pname = "redhat-vscode-tekton-pipelines";
@@ -16208,10 +16232,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-tekton-pipelines/1.0.1/file/redhat.vscode-tekton-pipelines-1.0.1.vsix";
       sha256 = "sha256-eJMZkbSJMkgIHjZ8UMUvBWpbQeUfTDgk1iqOjzVo86w=";
     };
-    name = "vscode-tekton-pipelines";
     license = "MIT";
-    publisher = "redhat";
+    name = "vscode-tekton-pipelines";
     description = "Tekton Pipelines extension by Red Hat";
+    publisher = "redhat";
   };
   redhat-vscode-wsdl2rest = {
     pname = "redhat-vscode-wsdl2rest";
@@ -16220,10 +16244,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-wsdl2rest/0.0.15/file/redhat.vscode-wsdl2rest-0.0.15.vsix";
       sha256 = "sha256-8+Qveer7w9aF7R/4ZbzUYQb4lQprzw5aCYcOnn1Vc7c=";
     };
-    name = "vscode-wsdl2rest";
     license = "Apache-2.0";
-    publisher = "redhat";
+    name = "vscode-wsdl2rest";
     description = "Deprecated - A VS Code extension supporting wsdl2rest via Camel Rest DSL";
+    publisher = "redhat";
   };
   redhat-vscode-xml = {
     pname = "redhat-vscode-xml";
@@ -16232,10 +16256,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-xml/0.20.0/file/redhat.vscode-xml-0.20.0.vsix";
       sha256 = "sha256-GKBrf9s8n7Wv14RSfwyDma1dM0fGMvRkU/7v2DAcB9A=";
     };
-    name = "vscode-xml";
     license = "EPL-2.0";
-    publisher = "redhat";
+    name = "vscode-xml";
     description = "XML Language Support by Red Hat";
+    publisher = "redhat";
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
@@ -16244,10 +16268,10 @@
       url = "https://open-vsx.org/api/redhat/vscode-yaml/1.7.0/file/redhat.vscode-yaml-1.7.0.vsix";
       sha256 = "sha256-bNtqS4Yti0WJIyS7uSHsQAaA77zAFc6nKriCe726cq0=";
     };
-    name = "vscode-yaml";
     license = "MIT";
-    publisher = "redhat";
+    name = "vscode-yaml";
     description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support";
+    publisher = "redhat";
   };
   redlin-remove-tabs-on-save = {
     pname = "redlin-remove-tabs-on-save";
@@ -16256,10 +16280,10 @@
       url = "https://open-vsx.org/api/redlin/remove-tabs-on-save/1.2.4/file/redlin.remove-tabs-on-save-1.2.4.vsix";
       sha256 = "sha256-sIJPwSug9l19ADS4iVk6xZst6NlbRzxFRk/7AzDx0wA=";
     };
-    name = "remove-tabs-on-save";
     license = "GPL-3.0-or-later";
-    publisher = "redlin";
+    name = "remove-tabs-on-save";
     description = "Convert all tabs to spaces on save, no more - no less.";
+    publisher = "redlin";
   };
   reduckted-vscode-gitweblinks = {
     pname = "reduckted-vscode-gitweblinks";
@@ -16268,10 +16292,10 @@
       url = "https://open-vsx.org/api/reduckted/vscode-gitweblinks/2.7.0/file/reduckted.vscode-gitweblinks-2.7.0.vsix";
       sha256 = "sha256-NUsvCGHG0DuWCb8vstxNaCHOQa4YTtwqpIeL0OWgul4=";
     };
-    name = "vscode-gitweblinks";
     license = "MIT";
-    publisher = "reduckted";
+    name = "vscode-gitweblinks";
     description = "Copy links to files in their online Git repositories";
+    publisher = "reduckted";
   };
   redwan-hossain-auto-rename-tag-clone = {
     pname = "redwan-hossain-auto-rename-tag-clone";
@@ -16280,10 +16304,10 @@
       url = "https://open-vsx.org/api/redwan-hossain/auto-rename-tag-clone/0.1.8/file/redwan-hossain.auto-rename-tag-clone-0.1.8.vsix";
       sha256 = "sha256-ugNIU4s6UcS55PNCK11PKIffIayEY7FxfPlbKfUlbgo=";
     };
-    name = "auto-rename-tag-clone";
     license = "MIT";
-    publisher = "redwan-hossain";
+    name = "auto-rename-tag-clone";
     description = "Auto rename paired HTML/XML tag";
+    publisher = "redwan-hossain";
   };
   redwan-hossain-skillavid-pure-black = {
     pname = "redwan-hossain-skillavid-pure-black";
@@ -16292,10 +16316,10 @@
       url = "https://open-vsx.org/api/redwan-hossain/skillavid-pure-black/5.0.0/file/redwan-hossain.skillavid-pure-black-5.0.0.vsix";
       sha256 = "sha256-/gLvhw0XcUb6Jch/LZ4k7xpSS9wdYWVf5u7uvOHS+i8=";
     };
-    name = "skillavid-pure-black";
     license = "MIT";
-    publisher = "redwan-hossain";
+    name = "skillavid-pure-black";
     description = "Pure black theme with vibrant hand picked colors that ensures peace of your eyes.";
+    publisher = "redwan-hossain";
   };
   revng-llvm-ir = {
     pname = "revng-llvm-ir";
@@ -16304,10 +16328,10 @@
       url = "https://open-vsx.org/api/revng/llvm-ir/1.0.3/file/revng.llvm-ir-1.0.3.vsix";
       sha256 = "sha256-3ZIHB0DeBY11Y006MLuNM1fnjGhpem6lbJcZOCMKykU=";
     };
-    name = "llvm-ir";
     license = "MIT";
-    publisher = "revng";
+    name = "llvm-ir";
     description = "LLVM IR language support for Visual Studio Code";
+    publisher = "revng";
   };
   ria-elastic = {
     pname = "ria-elastic";
@@ -16316,10 +16340,10 @@
       url = "https://open-vsx.org/api/ria/elastic/0.13.2/file/ria.elastic-0.13.2.vsix";
       sha256 = "sha256-EKHHfWfAFIYXCaQWun0FqaYH9nN7WWo4WwSVsWFE/0U=";
     };
-    name = "elastic";
     license = "";
-    publisher = "ria";
+    name = "elastic";
     description = "Elasticsearch client like Kibana console for vscode";
+    publisher = "ria";
   };
   richardwillis-vscode-gradle = {
     pname = "richardwillis-vscode-gradle";
@@ -16328,10 +16352,10 @@
       url = "https://open-vsx.org/api/richardwillis/vscode-gradle/3.6.1/file/richardwillis.vscode-gradle-3.6.1.vsix";
       sha256 = "sha256-Qi/4WxYMrYckeuHm8n+SsaFuxQatjYqJI5cuPlz/DZc=";
     };
-    name = "vscode-gradle";
     license = "MIT";
-    publisher = "richardwillis";
+    name = "vscode-gradle";
     description = "Run Gradle tasks in VS Code";
+    publisher = "richardwillis";
   };
   richie5um2-vscode-sort-json = {
     pname = "richie5um2-vscode-sort-json";
@@ -16340,10 +16364,10 @@
       url = "https://open-vsx.org/api/richie5um2/vscode-sort-json/1.20.0/file/richie5um2.vscode-sort-json-1.20.0.vsix";
       sha256 = "sha256-iIIEJkpUagzkhz6AV/LStlL9z9uHiyR0e/jgzA+Oolw=";
     };
-    name = "vscode-sort-json";
     license = "MIT";
-    publisher = "richie5um2";
+    name = "vscode-sort-json";
     description = "Sorts the keys within JSON objects";
+    publisher = "richie5um2";
   };
   rid9-datetime = {
     pname = "rid9-datetime";
@@ -16352,10 +16376,10 @@
       url = "https://open-vsx.org/api/rid9/datetime/2.1.4/file/rid9.datetime-2.1.4.vsix";
       sha256 = "sha256-dpWfCrMPGVybtkq8LX1fLArVoS2UlVB6FB+3vFE6Wls=";
     };
-    name = "datetime";
     license = "MIT";
-    publisher = "rid9";
+    name = "datetime";
     description = "Displays a clock and date information in the status bar.";
+    publisher = "rid9";
   };
   rights-nas-vscode = {
     pname = "rights-nas-vscode";
@@ -16364,10 +16388,10 @@
       url = "https://open-vsx.org/api/rights/nas-vscode/0.0.1/file/rights.nas-vscode-0.0.1.vsix";
       sha256 = "sha256-8KpqO4v//i0k8/OrbPirvJkTwB0aL6svRYqiiuwmkXY=";
     };
-    name = "nas-vscode";
     license = "MIT";
-    publisher = "rights";
+    name = "nas-vscode";
     description = "NASM highlight";
+    publisher = "rights";
   };
   rintoj-json-organizer = {
     pname = "rintoj-json-organizer";
@@ -16376,10 +16400,10 @@
       url = "https://open-vsx.org/api/rintoj/json-organizer/0.0.4/file/rintoj.json-organizer-0.0.4.vsix";
       sha256 = "sha256-6ysZnYVBf7sQQiDM+6SVbi7IFRRcMops4VgY8j3kbrU=";
     };
-    name = "json-organizer";
     license = "MIT";
-    publisher = "rintoj";
+    name = "json-organizer";
     description = "Help you organize JSON";
+    publisher = "rintoj";
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
@@ -16388,10 +16412,10 @@
       url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.5/file/ritwickdey.LiveServer-5.7.5.vsix";
       sha256 = "sha256-masfEbq+dAVO3JOJyMZ9TwHzULaK3KYJQrnmFbCPZ6U=";
     };
-    name = "LiveServer";
     license = "MIT";
-    publisher = "ritwickdey";
+    name = "LiveServer";
     description = "Launch a development local Server with live reload feature for static & dynamic pages";
+    publisher = "ritwickdey";
   };
   riussi-code-stats-vscode = {
     pname = "riussi-code-stats-vscode";
@@ -16400,10 +16424,10 @@
       url = "https://open-vsx.org/api/riussi/code-stats-vscode/1.0.18/file/riussi.code-stats-vscode-1.0.18.vsix";
       sha256 = "sha256-uYuSy2/hhr9diuCQPQ0XWsBTLb+tEqUEXE9zoRdGnRQ=";
     };
-    name = "code-stats-vscode";
     license = "MIT";
-    publisher = "riussi";
+    name = "code-stats-vscode";
     description = "Code::Stats package for Visual Studio Code";
+    publisher = "riussi";
   };
   robert-brunhage-flutter-riverpod-snippets = {
     pname = "robert-brunhage-flutter-riverpod-snippets";
@@ -16412,10 +16436,10 @@
       url = "https://open-vsx.org/api/robert-brunhage/flutter-riverpod-snippets/1.1.0/file/robert-brunhage.flutter-riverpod-snippets-1.1.0.vsix";
       sha256 = "sha256-bpvSIr6jk8irj0JlEWuuOu88fIv2wzLjAPASw6H+Mss=";
     };
-    name = "flutter-riverpod-snippets";
     license = "MIT";
-    publisher = "robert-brunhage";
+    name = "flutter-riverpod-snippets";
     description = "Quick and easy Flutter Riverpod snippets";
+    publisher = "robert-brunhage";
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
@@ -16424,10 +16448,10 @@
       url = "https://open-vsx.org/api/robocorp/robocorp-code/0.33.0/file/robocorp.robocorp-code-0.33.0.vsix";
       sha256 = "sha256-fvnifqPIYoVGo6HsdxSaaHP/KVMOfouhit7hWetvsbg=";
     };
-    name = "robocorp-code";
     license = "";
-    publisher = "robocorp";
+    name = "robocorp-code";
     description = "Extension for Robot development in VSCode using Robocorp";
+    publisher = "robocorp";
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
@@ -16436,10 +16460,10 @@
       url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.48.0/file/robocorp.robotframework-lsp-0.48.0.vsix";
       sha256 = "sha256-tdlgYmB5jFXWbqb+4yKmqDIv/eXO23gENXH3n/J9xOs=";
     };
-    name = "robotframework-lsp";
     license = "Apache 2.0";
-    publisher = "robocorp";
+    name = "robotframework-lsp";
     description = "VSCode extension support for Robot Framework";
+    publisher = "robocorp";
   };
   robole-file-bunny = {
     pname = "robole-file-bunny";
@@ -16448,10 +16472,10 @@
       url = "https://open-vsx.org/api/robole/file-bunny/1.0.0/file/robole.file-bunny-1.0.0.vsix";
       sha256 = "sha256-eBMmzAavvXXckuLOfrjnb5OxjO6jH3xw5rcFHD23hi0=";
     };
-    name = "file-bunny";
     license = "";
-    publisher = "robole";
+    name = "file-bunny";
     description = "Perform file actions quickly with keyboard-driven file selection. \128048\9000\65039";
+    publisher = "robole";
   };
   robole-javascript-snippets = {
     pname = "robole-javascript-snippets";
@@ -16460,10 +16484,10 @@
       url = "https://open-vsx.org/api/robole/javascript-snippets/0.7.1/file/robole.javascript-snippets-0.7.1.vsix";
       sha256 = "sha256-VFQpf7VrAhFNTPU7Fna5C21n8QKWxbJuSlj8jQpKRho=";
     };
-    name = "javascript-snippets";
     license = "MIT";
-    publisher = "robole";
+    name = "javascript-snippets";
     description = "Descriptive, easy to find JavaScript snippets, without nonsense abbreviations.";
+    publisher = "robole";
   };
   robole-markdown-shortcuts = {
     pname = "robole-markdown-shortcuts";
@@ -16472,10 +16496,10 @@
       url = "https://open-vsx.org/api/robole/markdown-shortcuts/0.6.0/file/robole.markdown-shortcuts-0.6.0.vsix";
       sha256 = "sha256-v3KZJ4ASsquR9y0OB8edN7QPFQzm3/6saJHb7xvCKgg=";
     };
-    name = "markdown-shortcuts";
     license = "MIT";
-    publisher = "robole";
+    name = "markdown-shortcuts";
     description = "Keyboard shortcuts for markdown snippets.";
+    publisher = "robole";
   };
   robole-markdown-snippets = {
     pname = "robole-markdown-snippets";
@@ -16484,10 +16508,10 @@
       url = "https://open-vsx.org/api/robole/markdown-snippets/0.7.5/file/robole.markdown-snippets-0.7.5.vsix";
       sha256 = "sha256-158/eWJX1GTunC1kb+nyzc5vdyDfZtJtJO9GD53GbjI=";
     };
-    name = "markdown-snippets";
     license = "MIT";
-    publisher = "robole";
+    name = "markdown-snippets";
     description = "Extended Markdown snippets.";
+    publisher = "robole";
   };
   robole-marky-dynamic = {
     pname = "robole-marky-dynamic";
@@ -16496,10 +16520,10 @@
       url = "https://open-vsx.org/api/robole/marky-dynamic/0.3.0/file/robole.marky-dynamic-0.3.0.vsix";
       sha256 = "sha256-PAAFk+dTnWTEnJuvgH+ErzyCK4Wid7J6kMAQHaG9LMw=";
     };
-    name = "marky-dynamic";
     license = "MIT";
-    publisher = "robole";
+    name = "marky-dynamic";
     description = "Automate updating dynamic content e.g. Table of Contents.";
+    publisher = "robole";
   };
   robole-marky-edit = {
     pname = "robole-marky-edit";
@@ -16508,10 +16532,10 @@
       url = "https://open-vsx.org/api/robole/marky-edit/0.5.1/file/robole.marky-edit-0.5.1.vsix";
       sha256 = "sha256-Cpd3/3nkq3SfoPyuOw+ZNpsi78gsJ513qPTLG6OwzdQ=";
     };
-    name = "marky-edit";
     license = "MIT";
-    publisher = "robole";
+    name = "marky-edit";
     description = "Toggle-style editing for Markdown documents.";
+    publisher = "robole";
   };
   robole-marky-markdown = {
     pname = "robole-marky-markdown";
@@ -16520,10 +16544,10 @@
       url = "https://open-vsx.org/api/robole/marky-markdown/2.10.0/file/robole.marky-markdown-2.10.0.vsix";
       sha256 = "sha256-QFP+qhYn6Aq5xagiORdxCAoh1GKRfMxk48zkv31aErs=";
     };
-    name = "marky-markdown";
     license = "MIT";
-    publisher = "robole";
+    name = "marky-markdown";
     description = "Markdown editing. Redefined.";
+    publisher = "robole";
   };
   robole-marky-stats = {
     pname = "robole-marky-stats";
@@ -16532,10 +16556,10 @@
       url = "https://open-vsx.org/api/robole/marky-stats/0.7.0/file/robole.marky-stats-0.7.0.vsix";
       sha256 = "sha256-R9CMY7oawPys4AXgGthUpXOsiRIS9LOvU0lIacHSXmc=";
     };
-    name = "marky-stats";
     license = "MIT";
-    publisher = "robole";
+    name = "marky-stats";
     description = "Stats for Markdown documents.";
+    publisher = "robole";
   };
   robole-snippets-ranger = {
     pname = "robole-snippets-ranger";
@@ -16544,10 +16568,10 @@
       url = "https://open-vsx.org/api/robole/snippets-ranger/0.20.2/file/robole.snippets-ranger-0.20.2.vsix";
       sha256 = "sha256-X/U09z91xdtxbYGFZSCDtq5DUwj4oEdW4dXueIGsVJg=";
     };
-    name = "snippets-ranger";
     license = "MIT";
-    publisher = "robole";
+    name = "snippets-ranger";
     description = "View and edit all your snippets in one purty place. Yee-haw!";
+    publisher = "robole";
   };
   rogalmic-bash-debug = {
     pname = "rogalmic-bash-debug";
@@ -16556,10 +16580,10 @@
       url = "https://open-vsx.org/api/rogalmic/bash-debug/0.3.9/file/rogalmic.bash-debug-0.3.9.vsix";
       sha256 = "sha256-f8FUZCvz/PonqQP9RCNbyQLZPnN5Oce0Eezm/hD19Fg=";
     };
-    name = "bash-debug";
     license = "MIT";
-    publisher = "rogalmic";
+    name = "bash-debug";
     description = "A debugger extension for bash scripts (using bashdb).";
+    publisher = "rogalmic";
   };
   rogalmic-vscode-xml-complete = {
     pname = "rogalmic-vscode-xml-complete";
@@ -16568,10 +16592,10 @@
       url = "https://open-vsx.org/api/rogalmic/vscode-xml-complete/0.2.15/file/rogalmic.vscode-xml-complete-0.2.15.vsix";
       sha256 = "sha256-DbEhrZW2A4CKGrMZlUc88YccSPAoZk2fcuLIGhNzFpk=";
     };
-    name = "vscode-xml-complete";
     license = "MIT";
-    publisher = "rogalmic";
+    name = "vscode-xml-complete";
     description = "XML editing helper (using XSD schemaLocation)";
+    publisher = "rogalmic";
   };
   roipoussiere-cadquery = {
     pname = "roipoussiere-cadquery";
@@ -16580,10 +16604,10 @@
       url = "https://open-vsx.org/api/roipoussiere/cadquery/0.1.3/file/roipoussiere.cadquery-0.1.3.vsix";
       sha256 = "sha256-Tn59uZHV1bU6NvlQpqTptAHhJKyEkj5ER0Ba2R6wf1U=";
     };
-    name = "cadquery";
     license = "MIT";
-    publisher = "roipoussiere";
+    name = "cadquery";
     description = "Build parametric 2D/3D CAD models in VSCode with the CadQuery library.";
+    publisher = "roipoussiere";
   };
   rokoroku-vscode-theme-darcula = {
     pname = "rokoroku-vscode-theme-darcula";
@@ -16592,10 +16616,10 @@
       url = "https://open-vsx.org/api/rokoroku/vscode-theme-darcula/1.2.3/file/rokoroku.vscode-theme-darcula-1.2.3.vsix";
       sha256 = "sha256-nMlMxWfAZkGKI4G0kDTS3fYoRb2GXflcJm43u8TQTpo=";
     };
-    name = "vscode-theme-darcula";
     license = "MIT";
-    publisher = "rokoroku";
+    name = "vscode-theme-darcula";
     description = "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs";
+    publisher = "rokoroku";
   };
   rozbo-papercolor-vscode = {
     pname = "rozbo-papercolor-vscode";
@@ -16604,10 +16628,10 @@
       url = "https://open-vsx.org/api/rozbo/papercolor-vscode/0.4.0/file/rozbo.papercolor-vscode-0.4.0.vsix";
       sha256 = "sha256-wbRqQH84sCtV7AnVtJTj3ZBAVmRZ2alKoI9TDp+ancA=";
     };
-    name = "papercolor-vscode";
     license = "MIT";
-    publisher = "rozbo";
+    name = "papercolor-vscode";
     description = "the popular color theme from VIM to VsCode";
+    publisher = "rozbo";
   };
   rubdoo-rubdoo-theme = {
     pname = "rubdoo-rubdoo-theme";
@@ -16616,10 +16640,22 @@
       url = "https://open-vsx.org/api/rubdoo/rubdoo-theme/0.0.5/file/rubdoo.rubdoo-theme-0.0.5.vsix";
       sha256 = "sha256-sMODP5v4001aYq/P9oK9VCvX+LW4wBCdlvDodfXDe80=";
     };
-    name = "rubdoo-theme";
     license = "MIT";
-    publisher = "rubdoo";
+    name = "rubdoo-theme";
     description = "rubdoo-theme";
+    publisher = "rubdoo";
+  };
+  ruby0b-pride-themes = {
+    pname = "ruby0b-pride-themes";
+    version = "0.4.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ruby0b/pride-themes/0.4.1/file/ruby0b.pride-themes-0.4.1.vsix";
+      sha256 = "sha256-IMbxQd6pNawfUsQiZEDn9xdtw+5kPGFi4RpmQ5HEO90=";
+    };
+    license = "GPL-3.0-or-later";
+    name = "pride-themes";
+    description = "Themes based on pride flags";
+    publisher = "ruby0b";
   };
   runem-lit-plugin = {
     pname = "runem-lit-plugin";
@@ -16628,10 +16664,10 @@
       url = "https://open-vsx.org/api/runem/lit-plugin/1.2.1/file/runem.lit-plugin-1.2.1.vsix";
       sha256 = "sha256-ngCMfickWbalqg6CLVN1vDsbnY0jqI4JE/PisbdxqN4=";
     };
-    name = "lit-plugin";
     license = "MIT";
-    publisher = "runem";
+    name = "lit-plugin";
     description = "Syntax highlighting, type checking and code completion for lit-html";
+    publisher = "runem";
   };
   runthoser-prolinemulator = {
     pname = "runthoser-prolinemulator";
@@ -16640,10 +16676,10 @@
       url = "https://open-vsx.org/api/runthoser/prolinemulator/0.0.6/file/runthoser.prolinemulator-0.0.6.vsix";
       sha256 = "sha256-ojWnFMt+7erU5nfmKZU1aHB9lYx6EpQU2mJgdsqCow8=";
     };
-    name = "prolinemulator";
     license = "MIT";
-    publisher = "runthoser";
+    name = "prolinemulator";
     description = "VS Code extension to run remote Prolin Emulator";
+    publisher = "runthoser";
   };
   runthoser-vscode-web-extension-emulator = {
     pname = "runthoser-vscode-web-extension-emulator";
@@ -16652,10 +16688,10 @@
       url = "https://open-vsx.org/api/runthoser/vscode-web-extension-emulator/0.0.2/file/runthoser.vscode-web-extension-emulator-0.0.2.vsix";
       sha256 = "sha256-OuzsrxwlO1y0ZkgCV1upxo76vi9NgLF/e2bJ5tdQlRw=";
     };
-    name = "vscode-web-extension-emulator";
     license = "MIT";
-    publisher = "runthoser";
+    name = "vscode-web-extension-emulator";
     description = "web extension demo";
+    publisher = "runthoser";
   };
   ruscur-power-asm = {
     pname = "ruscur-power-asm";
@@ -16664,10 +16700,10 @@
       url = "https://open-vsx.org/api/ruscur/power-asm/0.0.2/file/ruscur.power-asm-0.0.2.vsix";
       sha256 = "sha256-F4Gm3e4v6e4AxoWQ7wKZfcpJsR6BUDHuSjUafEplfng=";
     };
-    name = "power-asm";
     license = "MIT";
-    publisher = "ruscur";
+    name = "power-asm";
     description = "Power/powerpc assembly support for VSCode compatible editors";
+    publisher = "ruscur";
   };
   rusnasonov-vscode-hugo = {
     pname = "rusnasonov-vscode-hugo";
@@ -16676,10 +16712,10 @@
       url = "https://open-vsx.org/api/rusnasonov/vscode-hugo/0.24.0/file/rusnasonov.vscode-hugo-0.24.0.vsix";
       sha256 = "sha256-RcAhWcmIAu+W1ZCo5aQ46nPUscp3VKbGwZKw/rKWe1A=";
     };
-    name = "vscode-hugo";
     license = "MIT";
-    publisher = "rusnasonov";
+    name = "vscode-hugo";
     description = "Helper for Hugo static site generator";
+    publisher = "rusnasonov";
   };
   rust-lang-rust = {
     pname = "rust-lang-rust";
@@ -16688,10 +16724,10 @@
       url = "https://open-vsx.org/api/rust-lang/rust/0.7.8/file/rust-lang.rust-0.7.8.vsix";
       sha256 = "sha256-5nur1zFsqudAzP5mQS/7r4rmgkbwY7+ONi0qM/3Ftwo=";
     };
-    name = "rust";
     license = "(MIT OR Apache-2.0)";
-    publisher = "rust-lang";
+    name = "rust";
     description = "Rust for Visual Studio Code (powered by Rust Language Server/Rust Analyzer). Provides lints, code completion and navigation, formatting and more.";
+    publisher = "rust-lang";
   };
   rvest-vs-code-prettier-eslint = {
     pname = "rvest-vs-code-prettier-eslint";
@@ -16700,10 +16736,10 @@
       url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/3.1.0/file/rvest.vs-code-prettier-eslint-3.1.0.vsix";
       sha256 = "sha256-Bpfr3CH9lh8zAX6XiNg0yXQ6bV8WOudru9XoccAbFhg=";
     };
-    name = "vs-code-prettier-eslint";
     license = "MIT";
-    publisher = "rvest";
+    name = "vs-code-prettier-eslint";
     description = "A Visual Studio Extension to format JavaScript and Typescript code using prettier-eslint package";
+    publisher = "rvest";
   };
   ryanluker-vscode-coverage-gutters = {
     pname = "ryanluker-vscode-coverage-gutters";
@@ -16712,10 +16748,10 @@
       url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.10.1/file/ryanluker.vscode-coverage-gutters-2.10.1.vsix";
       sha256 = "sha256-FEGK+AvZj01iRkGPPMKFCE+14kwF06nRhex4OjKO7EY=";
     };
-    name = "vscode-coverage-gutters";
     license = "MIT";
-    publisher = "ryanluker";
+    name = "vscode-coverage-gutters";
     description = "Display test coverage generated by lcov or xml - works with many languages";
+    publisher = "ryanluker";
   };
   ryanolsonx-zenburn = {
     pname = "ryanolsonx-zenburn";
@@ -16724,10 +16760,10 @@
       url = "https://open-vsx.org/api/ryanolsonx/zenburn/1.0.1/file/ryanolsonx.zenburn-1.0.1.vsix";
       sha256 = "sha256-QE7pd5VMHDzmjX4XT8gFMeSqpxq4VtddN0D9fb9LrTA=";
     };
-    name = "zenburn";
     license = "MIT";
-    publisher = "ryanolsonx";
+    name = "zenburn";
     description = "Optimized Zenburn theme for VS Code";
+    publisher = "ryanolsonx";
   };
   ryu1kn-edit-with-shell = {
     pname = "ryu1kn-edit-with-shell";
@@ -16736,10 +16772,10 @@
       url = "https://open-vsx.org/api/ryu1kn/edit-with-shell/1.3.0/file/ryu1kn.edit-with-shell-1.3.0.vsix";
       sha256 = "sha256-X54AetueaLX+Sf+ICI7K7D/AiqtH9qe4IjWk6BeS4K8=";
     };
-    name = "edit-with-shell";
     license = "MIT";
-    publisher = "ryu1kn";
+    name = "edit-with-shell";
     description = "Leverage your favourite shell commands to edit text";
+    publisher = "ryu1kn";
   };
   s-nlf-fh-glassit = {
     pname = "s-nlf-fh-glassit";
@@ -16748,10 +16784,10 @@
       url = "https://open-vsx.org/api/s-nlf-fh/glassit/0.2.3/file/s-nlf-fh.glassit-0.2.3.vsix";
       sha256 = "sha256-eT9yJptAaSiRweEAY6L+zHYxs/ZRpmdqdcg8eh0L9jI=";
     };
-    name = "glassit";
     license = "MIT";
-    publisher = "s-nlf-fh";
+    name = "glassit";
     description = "VS Code Extension to set window to transparent on Windows and Linux platforms.";
+    publisher = "s-nlf-fh";
   };
   s0kil-vscode-hsx = {
     pname = "s0kil-vscode-hsx";
@@ -16760,10 +16796,10 @@
       url = "https://open-vsx.org/api/s0kil/vscode-hsx/0.4.0/file/s0kil.vscode-hsx-0.4.0.vsix";
       sha256 = "sha256-ce8128xPJTOy/apWk2ZE/ZF+JX2tHjvN3CQZrJFQQuY=";
     };
-    name = "vscode-hsx";
     license = "MIT";
-    publisher = "s0kil";
+    name = "vscode-hsx";
     description = "Syntax Highlighting And IntelliSense For Haskell HSX QuasiQuotes";
+    publisher = "s0kil";
   };
   saas-tool-saas-tool = {
     pname = "saas-tool-saas-tool";
@@ -16772,10 +16808,10 @@
       url = "https://open-vsx.org/api/saas-tool/saas-tool/1.0.18/file/saas-tool.saas-tool-1.0.18.vsix";
       sha256 = "sha256-Xur/+zNRvKdVnoOLMruyEP/l5DQazi8kdWBxfiEdmzU=";
     };
-    name = "saas-tool";
     license = "";
-    publisher = "saas-tool";
+    name = "saas-tool";
     description = "SaaS-Tool \26159\19968\20010\25903\25745\39184\39278SaaS\21069\31471\39033\30446\30740\21457\25928\29575\30340\24037\20855\65292\20197\38598\25104\39184\29983\21508\31867\22411\21069\31471\39033\30446\21450\25216\26415\26632\23454\29616\24320\21457\21551\21160\20026\26680\24515\12290\35299\20915\21508\32452\24037\31243\26041\26696(\25216\26415\36873\22411\12289\26500\24314\26041\26696)\23618\20986\19981\31351\12289\30740\21457\27969\31243\21508\24322\65292\25972\21512\39033\30446\21551\21160\12289\24037\31243\31649\29702\12289\29289\26009\31649\29702\12289\36136\37327/\24615\33021\31561\26495\22359\33021\21147\24418\25104\32479\19968\26631\20934\30340\21069\31471\24037\20855";
+    publisher = "saas-tool";
   };
   sadesyllas-vscode-workspace-switcher = {
     pname = "sadesyllas-vscode-workspace-switcher";
@@ -16784,10 +16820,10 @@
       url = "https://open-vsx.org/api/sadesyllas/vscode-workspace-switcher/1.15.3/file/sadesyllas.vscode-workspace-switcher-1.15.3.vsix";
       sha256 = "sha256-JK4EgEvpTd/jtXkWmtunYOQs+BghWNIFiW8bw+DfutU=";
     };
-    name = "vscode-workspace-switcher";
     license = "GPL-3.0";
-    publisher = "sadesyllas";
+    name = "vscode-workspace-switcher";
     description = "Easily switch between workspaces";
+    publisher = "sadesyllas";
   };
   sainnhe-edge = {
     pname = "sainnhe-edge";
@@ -16796,10 +16832,10 @@
       url = "https://open-vsx.org/api/sainnhe/edge/0.1.8/file/sainnhe.edge-0.1.8.vsix";
       sha256 = "sha256-sJm2zPbTBTKUlkoAXsf8U5wKf6+a/HLUPynAzk9w8HU=";
     };
-    name = "edge";
     license = "MIT";
-    publisher = "sainnhe";
+    name = "edge";
     description = "Clean & Elegant Color Scheme inspired by Atom One and Material";
+    publisher = "sainnhe";
   };
   sainnhe-everforest = {
     pname = "sainnhe-everforest";
@@ -16808,10 +16844,10 @@
       url = "https://open-vsx.org/api/sainnhe/everforest/0.2.0/file/sainnhe.everforest-0.2.0.vsix";
       sha256 = "sha256-mHEkpieuF5CYSFH+6i4gTFonD8jwdkLycClc5evYzLc=";
     };
-    name = "everforest";
     license = "MIT";
-    publisher = "sainnhe";
+    name = "everforest";
     description = "Comfortable & Pleasant Color Scheme for Visual Studio Code";
+    publisher = "sainnhe";
   };
   sainnhe-gruvbox-material = {
     pname = "sainnhe-gruvbox-material";
@@ -16820,10 +16856,10 @@
       url = "https://open-vsx.org/api/sainnhe/gruvbox-material/6.5.0/file/sainnhe.gruvbox-material-6.5.0.vsix";
       sha256 = "sha256-HLVFzOoAXFPubs2ntUYub1wFQwZ8Ez+qByg5QFf1t+M=";
     };
-    name = "gruvbox-material";
     license = "MIT";
-    publisher = "sainnhe";
+    name = "gruvbox-material";
     description = "Gruvbox with Material Palette";
+    publisher = "sainnhe";
   };
   sainnhe-soft-material = {
     pname = "sainnhe-soft-material";
@@ -16832,10 +16868,10 @@
       url = "https://open-vsx.org/api/sainnhe/soft-material/0.1.1/file/sainnhe.soft-material-0.1.1.vsix";
       sha256 = "sha256-zoghzghRl+P51Ba0E93rBtTA/AmqmRuTfuEAnZGiU+E=";
     };
-    name = "soft-material";
     license = "MIT";
-    publisher = "sainnhe";
+    name = "soft-material";
     description = "Modified version of Soft Era";
+    publisher = "sainnhe";
   };
   sainnhe-sonokai = {
     pname = "sainnhe-sonokai";
@@ -16844,10 +16880,10 @@
       url = "https://open-vsx.org/api/sainnhe/sonokai/0.2.9/file/sainnhe.sonokai-0.2.9.vsix";
       sha256 = "sha256-BDboMg+DZ29qMFRffvBMD6PSVADgKK/uC0wnqogWdWM=";
     };
-    name = "sonokai";
     license = "MIT";
-    publisher = "sainnhe";
+    name = "sonokai";
     description = "High Contrast & Vivid Color Scheme based on Monokai Pro";
+    publisher = "sainnhe";
   };
   saltud-type4py = {
     pname = "saltud-type4py";
@@ -16856,10 +16892,10 @@
       url = "https://open-vsx.org/api/saltud/type4py/0.2.0/file/saltud.type4py-0.2.0.vsix";
       sha256 = "sha256-LIfO1b1J195FaApD48Tg5iVXaJIMQQXUAKHiDJQgIfk=";
     };
-    name = "type4py";
     license = "MIT";
-    publisher = "saltud";
+    name = "type4py";
     description = "Machine learning-based type autocompletion for Python";
+    publisher = "saltud";
   };
   samuelcolvin-jinjahtml = {
     pname = "samuelcolvin-jinjahtml";
@@ -16868,10 +16904,10 @@
       url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.17.0/file/samuelcolvin.jinjahtml-0.17.0.vsix";
       sha256 = "sha256-vvNuK9apNl0OgpAsYiL3ITSyYiwylVQVhbo1jw88+6k=";
     };
-    name = "jinjahtml";
     license = "MIT";
-    publisher = "samuelcolvin";
+    name = "jinjahtml";
     description = "Syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates";
+    publisher = "samuelcolvin";
   };
   sap-partner-eng-bas-installer-extension = {
     pname = "sap-partner-eng-bas-installer-extension";
@@ -16880,10 +16916,10 @@
       url = "https://open-vsx.org/api/sap-partner-eng/bas-installer-extension/0.0.20/file/sap-partner-eng.bas-installer-extension-0.0.20.vsix";
       sha256 = "sha256-JWQi3grS0+kPA6uNfVvEhC08M0azQ6wTplnnAqtIRYk=";
     };
-    name = "bas-installer-extension";
     license = "MIT";
-    publisher = "sap-partner-eng";
+    name = "bas-installer-extension";
     description = "Adds commands to install extras in SAP Business Application Studio(BAS).";
+    publisher = "sap-partner-eng";
   };
   sap-partner-eng-extension-pack = {
     pname = "sap-partner-eng-extension-pack";
@@ -16892,10 +16928,10 @@
       url = "https://open-vsx.org/api/sap-partner-eng/extension-pack/1.0.8/file/sap-partner-eng.extension-pack-1.0.8.vsix";
       sha256 = "sha256-i+/pQqUfXulq9kvKZ4Fsy76OAEaV7JIajgTW+ZOKEUU=";
     };
-    name = "extension-pack";
     license = "MIT";
-    publisher = "sap-partner-eng";
+    name = "extension-pack";
     description = "Curated Partner Development Environment.";
+    publisher = "sap-partner-eng";
   };
   sap-partner-eng-python-installer-extension = {
     pname = "sap-partner-eng-python-installer-extension";
@@ -16904,10 +16940,10 @@
       url = "https://open-vsx.org/api/sap-partner-eng/python-installer-extension/0.0.16/file/sap-partner-eng.python-installer-extension-0.0.16.vsix";
       sha256 = "sha256-dFEY4loOLXEuSu9MH/caXhbEXOFW0kiqKWcuQa8bL+8=";
     };
-    name = "python-installer-extension";
     license = "MIT";
-    publisher = "sap-partner-eng";
+    name = "python-installer-extension";
     description = "Python Installer";
+    publisher = "sap-partner-eng";
   };
   sap-partner-eng-sap-bas-extras = {
     pname = "sap-partner-eng-sap-bas-extras";
@@ -16916,10 +16952,10 @@
       url = "https://open-vsx.org/api/sap-partner-eng/sap-bas-extras/0.0.33/file/sap-partner-eng.sap-bas-extras-0.0.33.vsix";
       sha256 = "sha256-N/jgVyQM9TU40g9Yrxcpl1ZKD2eVRDUbQs8uN4D3cpw=";
     };
-    name = "sap-bas-extras";
     license = "MIT";
-    publisher = "sap-partner-eng";
+    name = "sap-bas-extras";
     description = "Adds commands to install extras in SAP Business Application Studio(BAS).";
+    publisher = "sap-partner-eng";
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
@@ -16928,10 +16964,10 @@
       url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.16.2/file/sasjs.sasjs-for-vscode-1.16.2.vsix";
       sha256 = "sha256-B2agKNDMf3B6ajSx1Gy1zvF4Y6/3f1Rr20/kptHh9bM=";
     };
-    name = "sasjs-for-vscode";
     license = "MIT";
-    publisher = "sasjs";
+    name = "sasjs-for-vscode";
     description = "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting";
+    publisher = "sasjs";
   };
   satoqz-yet-another-discord-presence = {
     pname = "satoqz-yet-another-discord-presence";
@@ -16940,10 +16976,10 @@
       url = "https://open-vsx.org/api/satoqz/yet-another-discord-presence/1.5.4/file/satoqz.yet-another-discord-presence-1.5.4.vsix";
       sha256 = "sha256-px38ZT9PJHxbbRpzCuGj1T/N49WE1W2GWY3GzW3HnJk=";
     };
-    name = "yet-another-discord-presence";
     license = "MIT";
-    publisher = "satoqz";
+    name = "yet-another-discord-presence";
     description = "Yet another Discord Presence will show customizable rich presence information of your Visual Studio Code activity in Discord";
+    publisher = "satoqz";
   };
   saulecabrera-asls = {
     pname = "saulecabrera-asls";
@@ -16952,10 +16988,10 @@
       url = "https://open-vsx.org/api/saulecabrera/asls/0.4.0/file/saulecabrera.asls-0.4.0.vsix";
       sha256 = "sha256-n/CUYmX+24tp7dy5bWhXBBb/f+qWSz5Q83PIIZf7+Pg=";
     };
-    name = "asls";
     license = "MIT";
-    publisher = "saulecabrera";
+    name = "asls";
     description = "AssemblyScript Language Client implementation for VSCode";
+    publisher = "saulecabrera";
   };
   sbg-rabix-benten-cwl = {
     pname = "sbg-rabix-benten-cwl";
@@ -16964,10 +17000,10 @@
       url = "https://open-vsx.org/api/sbg-rabix/benten-cwl/2021.1.5/file/sbg-rabix.benten-cwl-2021.1.5.vsix";
       sha256 = "sha256-pvEuQpLKg7v0GoNt8OtYN2H/LtO79KbQSeN3Jj0YF6M=";
     };
-    name = "benten-cwl";
     license = "Apache-2.0";
-    publisher = "sbg-rabix";
+    name = "benten-cwl";
     description = "Autocomplete, code validation and more for CWL documents";
+    publisher = "sbg-rabix";
   };
   scala-lang-scala = {
     pname = "scala-lang-scala";
@@ -16976,10 +17012,10 @@
       url = "https://open-vsx.org/api/scala-lang/scala/0.5.5/file/scala-lang.scala-0.5.5.vsix";
       sha256 = "sha256-QRtYgxSH2rj7bN4uiiArhQ81bBLla7qHTAoNT2+tQps=";
     };
-    name = "scala";
     license = "MIT";
-    publisher = "scala-lang";
+    name = "scala";
     description = "Official Scala Syntax";
+    publisher = "scala-lang";
   };
   scalameta-metals = {
     pname = "scalameta-metals";
@@ -16988,10 +17024,10 @@
       url = "https://open-vsx.org/api/scalameta/metals/1.17.1/file/scalameta.metals-1.17.1.vsix";
       sha256 = "sha256-pubESzF5d3wpPRG/P5mWiPLBDrPrjMIJf2H9MbWMcb8=";
     };
-    name = "metals";
     license = "Apache-2.0";
-    publisher = "scalameta";
+    name = "metals";
     description = "Scala language server with rich IDE features";
+    publisher = "scalameta";
   };
   sdras-night-owl = {
     pname = "sdras-night-owl";
@@ -17000,10 +17036,10 @@
       url = "https://open-vsx.org/api/sdras/night-owl/2.0.1/file/sdras.night-owl-2.0.1.vsix";
       sha256 = "sha256-VkHUIdRf5ehTGmCvVJcseW1CulgCnPmtvUZsjatc6vc=";
     };
-    name = "night-owl";
     license = "MIT";
-    publisher = "sdras";
+    name = "night-owl";
     description = "A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. \10024";
+    publisher = "sdras";
   };
   sebastianbille-iam-legend = {
     pname = "sebastianbille-iam-legend";
@@ -17012,10 +17048,10 @@
       url = "https://open-vsx.org/api/sebastianbille/iam-legend/1.1.0/file/sebastianbille.iam-legend-1.1.0.vsix";
       sha256 = "sha256-AmtnULOzGk48pzH6FQyUNsXir8jXJ7Ct1U7X31YxtcY=";
     };
-    name = "iam-legend";
     license = "MIT";
-    publisher = "sebastianbille";
+    name = "iam-legend";
     description = "IAM policy actions autocomplete, documentation & wildcard resolution";
+    publisher = "sebastianbille";
   };
   seneka-test = {
     pname = "seneka-test";
@@ -17024,10 +17060,10 @@
       url = "https://open-vsx.org/api/seneka/test/0.0.1/file/seneka.test-0.0.1.vsix";
       sha256 = "sha256-2S9WEsB/+XgvCzF5UPfo0rq+UiXro5ysvf9h1DG7ffY=";
     };
-    name = "test";
     license = "";
-    publisher = "seneka";
+    name = "test";
     description = "Test";
+    publisher = "seneka";
   };
   senx-warpscript-language = {
     pname = "senx-warpscript-language";
@@ -17036,10 +17072,10 @@
       url = "https://open-vsx.org/api/senx/warpscript-language/2.1.10/file/senx.warpscript-language-2.1.10.vsix";
       sha256 = "sha256-oyo+Wu4iQh8c6lF3ArJpDD5lGr/DDi+537mQOiMdYGE=";
     };
-    name = "warpscript-language";
     license = "Apache-2.0";
-    publisher = "senx";
+    name = "warpscript-language";
     description = "WarpScript & FLoWS support";
+    publisher = "senx";
   };
   serayuzgur-crates = {
     pname = "serayuzgur-crates";
@@ -17048,10 +17084,10 @@
       url = "https://open-vsx.org/api/serayuzgur/crates/0.5.10/file/serayuzgur.crates-0.5.10.vsix";
       sha256 = "sha256-yWXH4OqWUK/ISu9pdiiUP78ueV5XIdNCNBU+QiM2EZA=";
     };
-    name = "crates";
     license = "MIT";
-    publisher = "serayuzgur";
+    name = "crates";
     description = "Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.";
+    publisher = "serayuzgur";
   };
   serkonda7-extension-test = {
     pname = "serkonda7-extension-test";
@@ -17060,10 +17096,10 @@
       url = "https://open-vsx.org/api/serkonda7/extension-test/0.0.6/file/serkonda7.extension-test-0.0.6.vsix";
       sha256 = "sha256-cIhjzSr3E5uskHLdlOfiPoeUwqZ55ayi0iu/foVcSOU=";
     };
-    name = "extension-test";
     license = "MIT";
-    publisher = "serkonda7";
+    name = "extension-test";
     description = "";
+    publisher = "serkonda7";
   };
   serkonda7-vscode-vba = {
     pname = "serkonda7-vscode-vba";
@@ -17072,10 +17108,10 @@
       url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.3.0/file/serkonda7.vscode-vba-0.3.0.vsix";
       sha256 = "sha256-+t9hpPdhIZe2No4nNeOlb4tokR5ys35v1JhV6H3rup4=";
     };
-    name = "vscode-vba";
     license = "MIT";
-    publisher = "serkonda7";
+    name = "vscode-vba";
     description = "Visual Basic for Applications support for VS Code.";
+    publisher = "serkonda7";
   };
   serokell-io-michelson-debugger = {
     pname = "serokell-io-michelson-debugger";
@@ -17084,10 +17120,10 @@
       url = "https://open-vsx.org/api/serokell-io/michelson-debugger/0.2.0/file/serokell-io.michelson-debugger-0.2.0.vsix";
       sha256 = "sha256-x5nbYhLJLtkLa36Ea6m8PsdMrE7PBEN8mA12YdxxVIk=";
     };
-    name = "michelson-debugger";
     license = "MIT";
-    publisher = "serokell-io";
+    name = "michelson-debugger";
     description = "Debugger for Tezos Michelson smart Contracts using Morley";
+    publisher = "serokell-io";
   };
   sfodje-perlcritic = {
     pname = "sfodje-perlcritic";
@@ -17096,10 +17132,10 @@
       url = "https://open-vsx.org/api/sfodje/perlcritic/1.3.7/file/sfodje.perlcritic-1.3.7.vsix";
       sha256 = "sha256-ztkPDsKoM7fWRVpaV/FQdmzyjMVk9A00t9aY9sSIAvM=";
     };
-    name = "perlcritic";
     license = "MIT";
-    publisher = "sfodje";
+    name = "perlcritic";
     description = "A Language Server For The Perl Programming Language";
+    publisher = "sfodje";
   };
   sfodje-perltidy = {
     pname = "sfodje-perltidy";
@@ -17108,10 +17144,10 @@
       url = "https://open-vsx.org/api/sfodje/perltidy/1.3.3/file/sfodje.perltidy-1.3.3.vsix";
       sha256 = "sha256-O77YkSBYKyy7tgnjG8h5WB7ygIDEl5G4JqCpyOZF+R0=";
     };
-    name = "perltidy";
     license = "MIT";
-    publisher = "sfodje";
+    name = "perltidy";
     description = "A Perl code formatter for VSCode";
+    publisher = "sfodje";
   };
   shalldie-background = {
     pname = "shalldie-background";
@@ -17120,10 +17156,10 @@
       url = "https://open-vsx.org/api/shalldie/background/1.1.31/file/shalldie.background-1.1.31.vsix";
       sha256 = "sha256-XIY+eB7dqhfBVYbJt8GcFwbvF1z9F+L35+SPEsLtc5E=";
     };
-    name = "background";
     license = "MIT";
-    publisher = "shalldie";
+    name = "background";
     description = "A simple tool to make your vscode's background look better!";
+    publisher = "shalldie";
   };
   shardulm94-trailing-spaces = {
     pname = "shardulm94-trailing-spaces";
@@ -17132,10 +17168,10 @@
       url = "https://open-vsx.org/api/shardulm94/trailing-spaces/0.3.1/file/shardulm94.trailing-spaces-0.3.1.vsix";
       sha256 = "sha256-LzSjlbKL6pNenBydwI+x5dXC2R3+goTxp2sI6Ul3BCs=";
     };
-    name = "trailing-spaces";
     license = "MIT";
-    publisher = "shardulm94";
+    name = "trailing-spaces";
     description = "Highlight trailing spaces and delete them in a flash!";
+    publisher = "shardulm94";
   };
   shaunlebron-vscode-parinfer = {
     pname = "shaunlebron-vscode-parinfer";
@@ -17144,10 +17180,10 @@
       url = "https://open-vsx.org/api/shaunlebron/vscode-parinfer/0.6.1/file/shaunlebron.vscode-parinfer-0.6.1.vsix";
       sha256 = "sha256-ksPUUjm6SmUljmO4DV+HRa1hxanPOa56E65shttzNds=";
     };
-    name = "vscode-parinfer";
     license = "MIT";
-    publisher = "shaunlebron";
+    name = "vscode-parinfer";
     description = "Automatically infer closing parens based on indentation. An essential tool for writing Lisp code.";
+    publisher = "shaunlebron";
   };
   shd101wyy-markdown-preview-enhanced = {
     pname = "shd101wyy-markdown-preview-enhanced";
@@ -17156,10 +17192,10 @@
       url = "https://open-vsx.org/api/shd101wyy/markdown-preview-enhanced/0.6.3/file/shd101wyy.markdown-preview-enhanced-0.6.3.vsix";
       sha256 = "sha256-ogCeasWvqvneQ6EbjI/t84px7J4gsp/ZlAI+3f0fwvQ=";
     };
-    name = "markdown-preview-enhanced";
     license = "NCSA";
-    publisher = "shd101wyy";
+    name = "markdown-preview-enhanced";
     description = "Markdown Preview Enhanced ported to vscode";
+    publisher = "shd101wyy";
   };
   sheaf-groovylambda = {
     pname = "sheaf-groovylambda";
@@ -17168,10 +17204,10 @@
       url = "https://open-vsx.org/api/sheaf/groovylambda/0.1.0/file/sheaf.groovylambda-0.1.0.vsix";
       sha256 = "sha256-muWFkeW1RKHS79qimP+1hDnOGtnnffwB90c5Ka2eDMY=";
     };
-    name = "groovylambda";
     license = "MIT";
-    publisher = "sheaf";
+    name = "groovylambda";
     description = "Color theme optimised for Haskell, based on Gruvbox Material.";
+    publisher = "sheaf";
   };
   shevaua-phpcs = {
     pname = "shevaua-phpcs";
@@ -17180,10 +17216,10 @@
       url = "https://open-vsx.org/api/shevaua/phpcs/1.0.8/file/shevaua.phpcs-1.0.8.vsix";
       sha256 = "sha256-YRs9ADhzwkykNQO3inq+NhRkwQ+d8l+qMaO9CWYtzfU=";
     };
-    name = "phpcs";
     license = "MIT";
-    publisher = "shevaua";
+    name = "phpcs";
     description = "PHP CodeSniffer for Visual Studio Code";
+    publisher = "shevaua";
   };
   shinichi-takii-sql-bigquery = {
     pname = "shinichi-takii-sql-bigquery";
@@ -17192,10 +17228,10 @@
       url = "https://open-vsx.org/api/shinichi-takii/sql-bigquery/1.9.0/file/shinichi-takii.sql-bigquery-1.9.0.vsix";
       sha256 = "sha256-C/+wVMBEx02w7ZvQHeNg7RKxcZ8O5jY832FAUkR1JLw=";
     };
-    name = "sql-bigquery";
     license = "MIT";
-    publisher = "shinichi-takii";
+    name = "sql-bigquery";
     description = "BigQuery SQL language support in Visual Studio Code";
+    publisher = "shinichi-takii";
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
@@ -17204,10 +17240,10 @@
       url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.45/file/shivaprasanth.dothttp-code-0.0.45.vsix";
       sha256 = "sha256-LoQEhADE2vAqbTZtv7kOoXEWKCSqI4JiDJLd8FqRM8I=";
     };
-    name = "dothttp-code";
     license = "Apache-2.0";
-    publisher = "shivaprasanth";
+    name = "dothttp-code";
     description = "A Http Client for sending to and receiving from http endpoints (dothttp)";
+    publisher = "shivaprasanth";
   };
   shoobah-pinkasheck = {
     pname = "shoobah-pinkasheck";
@@ -17216,10 +17252,10 @@
       url = "https://open-vsx.org/api/shoobah/pinkasheck/0.0.7/file/shoobah.pinkasheck-0.0.7.vsix";
       sha256 = "sha256-eHaYR+l6ABoELm2rF28eTDPADYv+IirQdkxmVpPkIKU=";
     };
-    name = "pinkasheck";
     license = "MIT";
-    publisher = "shoobah";
+    name = "pinkasheck";
     description = "A very pink dark theme";
+    publisher = "shoobah";
   };
   shrey150-javafx-support = {
     pname = "shrey150-javafx-support";
@@ -17228,10 +17264,10 @@
       url = "https://open-vsx.org/api/shrey150/javafx-support/0.0.1/file/shrey150.javafx-support-0.0.1.vsix";
       sha256 = "sha256-WoZk7891xufHqncqODju4ApKmU1IS5VhDxsRLRi6lrM=";
     };
-    name = "javafx-support";
     license = "MIT";
-    publisher = "shrey150";
+    name = "javafx-support";
     description = "Fixes \"Language Support for Java(TM) by Red Hat\" when using JavaFX.";
+    publisher = "shrey150";
   };
   shubham-saudolla-lilac = {
     pname = "shubham-saudolla-lilac";
@@ -17240,10 +17276,10 @@
       url = "https://open-vsx.org/api/shubham-saudolla/lilac/1.2.7/file/shubham-saudolla.lilac-1.2.7.vsix";
       sha256 = "sha256-wcjc3Z2JQOJM7qnRaFyUjhV/Ub5V0m/HCaRr45xLV2s=";
     };
-    name = "lilac";
     license = "MIT";
-    publisher = "shubham-saudolla";
+    name = "lilac";
     description = "A dark theme with pretty pastel colours.";
+    publisher = "shubham-saudolla";
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
@@ -17252,10 +17288,10 @@
       url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.5/file/shufo.vscode-blade-formatter-0.14.5.vsix";
       sha256 = "sha256-JzoA3R1ZFS204iJ4tFwFaYYAmnPLNbuFWVjIX5Vnp78=";
     };
-    name = "vscode-blade-formatter";
     license = "MIT";
-    publisher = "shufo";
+    name = "vscode-blade-formatter";
     description = "Laravel Blade formatter for VSCode";
+    publisher = "shufo";
   };
   shuworks-vscode-table-formatter = {
     pname = "shuworks-vscode-table-formatter";
@@ -17264,10 +17300,10 @@
       url = "https://open-vsx.org/api/shuworks/vscode-table-formatter/1.2.1/file/shuworks.vscode-table-formatter-1.2.1.vsix";
       sha256 = "sha256-5bzhfsJONjap0hEyjyNo+gQJGWG5VZnJiB5DYqDI51Q=";
     };
-    name = "vscode-table-formatter";
     license = "MIT";
-    publisher = "shuworks";
+    name = "vscode-table-formatter";
     description = "Format table syntax of Markdown, Textile and reStructuredText.";
+    publisher = "shuworks";
   };
   shyykoserhiy-git-autoconfig = {
     pname = "shyykoserhiy-git-autoconfig";
@@ -17276,10 +17312,10 @@
       url = "https://open-vsx.org/api/shyykoserhiy/git-autoconfig/0.0.2/file/shyykoserhiy.git-autoconfig-0.0.2.vsix";
       sha256 = "sha256-QseHrEjgmThOhdKcBPdbMCZ+/su2lWEMuzKCgNhMBbw=";
     };
-    name = "git-autoconfig";
     license = "MIT";
-    publisher = "shyykoserhiy";
+    name = "git-autoconfig";
     description = "Automatic git config user.email and user.name setting for vscode";
+    publisher = "shyykoserhiy";
   };
   shyykoserhiy-vscode-spotify = {
     pname = "shyykoserhiy-vscode-spotify";
@@ -17288,10 +17324,10 @@
       url = "https://open-vsx.org/api/shyykoserhiy/vscode-spotify/3.2.1/file/shyykoserhiy.vscode-spotify-3.2.1.vsix";
       sha256 = "sha256-HhRLDFWbUvI2a1CQNN7QfBHYg6BqZKO7O4cPckXU2wI=";
     };
-    name = "vscode-spotify";
     license = "MIT";
-    publisher = "shyykoserhiy";
+    name = "vscode-spotify";
     description = "Use Spotify inside vscode.";
+    publisher = "shyykoserhiy";
   };
   sianglim-slim = {
     pname = "sianglim-slim";
@@ -17300,10 +17336,10 @@
       url = "https://open-vsx.org/api/sianglim/slim/0.1.3/file/sianglim.slim-0.1.3.vsix";
       sha256 = "sha256-GbRGQbKfN+EK2I00rUuRy2dxGIKQjbaMwp1TLyGN81w=";
     };
-    name = "slim";
     license = "MIT";
-    publisher = "sianglim";
+    name = "slim";
     description = "Slim language support based on https://github.com/slim-template/ruby-slim.tmbundle";
+    publisher = "sianglim";
   };
   sianglim-slim-slim = {
     pname = "sianglim-slim-slim";
@@ -17312,10 +17348,10 @@
       url = "https://open-vsx.org/api/sianglim-slim/slim/0.1.1/file/sianglim-slim.slim-0.1.1.vsix";
       sha256 = "sha256-RGd6n23khy9mERcz08LtKneqwvVTAVuja1QS24jbRF0=";
     };
-    name = "slim";
     license = "MIT";
-    publisher = "sianglim-slim";
+    name = "slim";
     description = "Slim language support based on https://github.com/slim-template/ruby-slim.tmbundle";
+    publisher = "sianglim-slim";
   };
   signageos-signageos-vscode-sops = {
     pname = "signageos-signageos-vscode-sops";
@@ -17324,10 +17360,10 @@
       url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.5.0/file/signageos.signageos-vscode-sops-0.5.0.vsix";
       sha256 = "sha256-8nMWuJcBGB+A64V+ePKerZNJBIOKrrwCAbxG97FEEYU=";
     };
-    name = "signageos-vscode-sops";
     license = "MIT";
-    publisher = "signageos";
+    name = "signageos-vscode-sops";
     description = "";
+    publisher = "signageos";
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
@@ -17336,10 +17372,10 @@
       url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.0/file/signageos.signageos-vscode-sops-beta-0.6.0.vsix";
       sha256 = "sha256-SnBzRUXMJLjmWofBfPl14j0r7NWol/Lbn4x8TCp6V9w=";
     };
-    name = "signageos-vscode-sops-beta";
     license = "MIT";
-    publisher = "signageos";
+    name = "signageos-vscode-sops-beta";
     description = "";
+    publisher = "signageos";
   };
   silofy-hackthebox = {
     pname = "silofy-hackthebox";
@@ -17348,10 +17384,10 @@
       url = "https://open-vsx.org/api/silofy/hackthebox/0.2.9/file/silofy.hackthebox-0.2.9.vsix";
       sha256 = "sha256-IiaNN6SJEmu/Jf2jbETqW8mM7Yz9fPdp/sWWgygM1lk=";
     };
-    name = "hackthebox";
     license = "MIT";
-    publisher = "silofy";
+    name = "hackthebox";
     description = "A Visual Studio Code theme built for hackers BY hackers";
+    publisher = "silofy";
   };
   silvenon-mdx = {
     pname = "silvenon-mdx";
@@ -17360,10 +17396,10 @@
       url = "https://open-vsx.org/api/silvenon/mdx/0.1.0/file/silvenon.mdx-0.1.0.vsix";
       sha256 = "sha256-+G6ilF+M6C3+EeCgp58lyvBfJkjMgggfUleAQF07sUw=";
     };
-    name = "mdx";
     license = "MIT";
-    publisher = "silvenon";
+    name = "mdx";
     description = "Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.";
+    publisher = "silvenon";
   };
   simontegg-slime = {
     pname = "simontegg-slime";
@@ -17372,10 +17408,10 @@
       url = "https://open-vsx.org/api/simontegg/slime/1.0.4/file/simontegg.slime-1.0.4.vsix";
       sha256 = "sha256-u+7WtTBr5jVhknV3SS1G3NjOsPSD9naEsqX3awCf1sc=";
     };
-    name = "slime";
     license = "MIT";
-    publisher = "simontegg";
+    name = "slime";
     description = "Slime Language";
+    publisher = "simontegg";
   };
   simplicitesoftware-simplicite-vscode-tools = {
     pname = "simplicitesoftware-simplicite-vscode-tools";
@@ -17384,10 +17420,10 @@
       url = "https://open-vsx.org/api/simplicitesoftware/simplicite-vscode-tools/1.0.19/file/simplicitesoftware.simplicite-vscode-tools-1.0.19.vsix";
       sha256 = "sha256-lujiIq7qE7S/RTasRPV2nsbN1fse3VMWdRArIDONCxM=";
     };
-    name = "simplicite-vscode-tools";
     license = "Apache-2.0";
-    publisher = "simplicitesoftware";
+    name = "simplicite-vscode-tools";
     description = "Simplicite low code platform tools to make life easier for designers in an IDE environment";
+    publisher = "simplicitesoftware";
   };
   singularitti-vscode-julia-formatter = {
     pname = "singularitti-vscode-julia-formatter";
@@ -17396,10 +17432,10 @@
       url = "https://open-vsx.org/api/singularitti/vscode-julia-formatter/0.6.3/file/singularitti.vscode-julia-formatter-0.6.3.vsix";
       sha256 = "sha256-9Z9wFbZT4PXflsGwwOrAdoLlnJksWwEm7Q1Kzq0maGw=";
     };
-    name = "vscode-julia-formatter";
     license = "MIT";
-    publisher = "singularitti";
+    name = "vscode-julia-formatter";
     description = "A formatter for the Julia language";
+    publisher = "singularitti";
   };
   skellock-just = {
     pname = "skellock-just";
@@ -17408,10 +17444,10 @@
       url = "https://open-vsx.org/api/skellock/just/2.0.0/file/skellock.just-2.0.0.vsix";
       sha256 = "sha256-GsA3Iwy11Yd4d674IjPgnEAuCDSN5QGsXsiIGH6AyVY=";
     };
-    name = "just";
     license = "MIT";
-    publisher = "skellock";
+    name = "just";
     description = "Provides syntax and recipe launcher for Just scripts.";
+    publisher = "skellock";
   };
   sketchbuch-vsc-packages = {
     pname = "sketchbuch-vsc-packages";
@@ -17420,10 +17456,10 @@
       url = "https://open-vsx.org/api/sketchbuch/vsc-packages/1.6.6/file/sketchbuch.vsc-packages-1.6.6.vsix";
       sha256 = "sha256-5+fVNI/mxUREYQ9tmugrSnlONX+BCYEdbTsdWwsV9Jw=";
     };
-    name = "vsc-packages";
     license = "MIT";
-    publisher = "sketchbuch";
+    name = "vsc-packages";
     description = "A VSC extension to list packages from package.json and search for and install packages.";
+    publisher = "sketchbuch";
   };
   skippednote-VS-code-drupal = {
     pname = "skippednote-VS-code-drupal";
@@ -17432,10 +17468,10 @@
       url = "https://open-vsx.org/api/skippednote/VS-code-drupal/0.0.12/file/skippednote.VS-code-drupal-0.0.12.vsix";
       sha256 = "sha256-wSDypiD/OYQrjNRwy7ywll1Vr6/6cUoHMv/2NzLrQh0=";
     };
-    name = "VS-code-drupal";
     license = "MIT";
-    publisher = "skippednote";
+    name = "VS-code-drupal";
     description = "Provides syntax highlighting support for Drupal specific file types, such as .module, .inc, .theme etc.";
+    publisher = "skippednote";
   };
   skn0tt-markdown-link-expander = {
     pname = "skn0tt-markdown-link-expander";
@@ -17444,10 +17480,10 @@
       url = "https://open-vsx.org/api/skn0tt/markdown-link-expander/0.2.1/file/skn0tt.markdown-link-expander-0.2.1.vsix";
       sha256 = "sha256-pvhbvPwtydAcUFrGzmFEGHwqiJYsy3MG70hWWizcDEs=";
     };
-    name = "markdown-link-expander";
     license = "MIT";
-    publisher = "skn0tt";
+    name = "markdown-link-expander";
     description = "Easily create pretty Markdown links using its HTML title.";
+    publisher = "skn0tt";
   };
   slbtty-Lisp-Syntax = {
     pname = "slbtty-Lisp-Syntax";
@@ -17456,10 +17492,10 @@
       url = "https://open-vsx.org/api/slbtty/Lisp-Syntax/0.2.1/file/slbtty.Lisp-Syntax-0.2.1.vsix";
       sha256 = "sha256-Jos0MJBuFlbfyAK/w51+rblslNq+pHN8gl1T0/UcP0Q=";
     };
-    name = "Lisp-Syntax";
     license = "MIT";
-    publisher = "slbtty";
+    name = "Lisp-Syntax";
     description = "Syntax highlight for lisp family of languages";
+    publisher = "slbtty";
   };
   sleistner-vscode-fileutils = {
     pname = "sleistner-vscode-fileutils";
@@ -17468,10 +17504,10 @@
       url = "https://open-vsx.org/api/sleistner/vscode-fileutils/3.4.2/file/sleistner.vscode-fileutils-3.4.2.vsix";
       sha256 = "sha256-zKnMsK52Sq/HFYfOr0NIFg3hrtWGv/GfOy+sOwtKyNY=";
     };
-    name = "vscode-fileutils";
     license = "MIT";
-    publisher = "sleistner";
+    name = "vscode-fileutils";
     description = "A convenient way of creating, duplicating, moving, renaming and deleting files and directories.";
+    publisher = "sleistner";
   };
   slevesque-vscode-3dviewer = {
     pname = "slevesque-vscode-3dviewer";
@@ -17480,10 +17516,10 @@
       url = "https://open-vsx.org/api/slevesque/vscode-3dviewer/0.2.2/file/slevesque.vscode-3dviewer-0.2.2.vsix";
       sha256 = "sha256-C46psJpckf5/HW2zuINCT9eEqSivcE4Xr/WzgJ6LIaY=";
     };
-    name = "vscode-3dviewer";
     license = "LICENSE.md";
-    publisher = "slevesque";
+    name = "vscode-3dviewer";
     description = "Preview 3D models in VSCode";
+    publisher = "slevesque";
   };
   small-php-ci = {
     pname = "small-php-ci";
@@ -17492,10 +17528,10 @@
       url = "https://open-vsx.org/api/small/php-ci/0.4.2/file/small.php-ci-0.4.2.vsix";
       sha256 = "sha256-kV6c3OphNpIVb/Dso/5CzAeedqpVva7NtbQdpZJr/g4=";
     };
-    name = "php-ci";
     license = "MIT";
-    publisher = "small";
+    name = "php-ci";
     description = "Code completion for PHP codeigniter framework";
+    publisher = "small";
   };
   smapiot-vscode-piral = {
     pname = "smapiot-vscode-piral";
@@ -17504,10 +17540,10 @@
       url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.91/file/smapiot.vscode-piral-0.2.91.vsix";
       sha256 = "sha256-tQ4F0qQBavZVPCOxVzVefH9KSxfS2eWUbqAq/Zp6hWY=";
     };
-    name = "vscode-piral";
     license = "MIT";
-    publisher = "smapiot";
+    name = "vscode-piral";
     description = "Makes it easy to create, manage, and debug microfrontends using Pirals.";
+    publisher = "smapiot";
   };
   smcpeak-default-keys-windows = {
     pname = "smcpeak-default-keys-windows";
@@ -17516,10 +17552,10 @@
       url = "https://open-vsx.org/api/smcpeak/default-keys-windows/0.0.8/file/smcpeak.default-keys-windows-0.0.8.vsix";
       sha256 = "sha256-JKf5ubK9Jiwz8y7BcQqwbwxX0bCvZiF6i39j6Wv1yxg=";
     };
-    name = "default-keys-windows";
     license = "MIT";
-    publisher = "smcpeak";
+    name = "default-keys-windows";
     description = "Provide Windows default keybindings on any platform.";
+    publisher = "smcpeak";
   };
   snakemake-snakemake-lang = {
     pname = "snakemake-snakemake-lang";
@@ -17528,10 +17564,10 @@
       url = "https://open-vsx.org/api/snakemake/snakemake-lang/0.1.8/file/snakemake.snakemake-lang-0.1.8.vsix";
       sha256 = "sha256-HiNCEj7iONcuhvQpvb3cCsDOZGviWS5lhUl/TARmc74=";
     };
-    name = "snakemake-lang";
     license = "MIT";
-    publisher = "snakemake";
+    name = "snakemake-lang";
     description = "Basic syntax, language, and snippet support for Snakefiles (Snakemake workflow definition files)";
+    publisher = "snakemake";
   };
   sndst00m-markdown-github-dark-pack = {
     pname = "sndst00m-markdown-github-dark-pack";
@@ -17540,10 +17576,10 @@
       url = "https://open-vsx.org/api/sndst00m/markdown-github-dark-pack/0.1.1/file/sndst00m.markdown-github-dark-pack-0.1.1.vsix";
       sha256 = "sha256-WfhUSJgtM0rhoZGs6lTQbOh/WLUObdegKP0YoJURUOU=";
     };
-    name = "markdown-github-dark-pack";
     license = "MIT";
-    publisher = "sndst00m";
+    name = "markdown-github-dark-pack";
     description = "Replaces VS Code's Markdown preview with GFM's rendering & dark theme.";
+    publisher = "sndst00m";
   };
   sndst00m-starfall-visual-studio-code = {
     pname = "sndst00m-starfall-visual-studio-code";
@@ -17552,10 +17588,10 @@
       url = "https://open-vsx.org/api/sndst00m/starfall-visual-studio-code/0.5.4/file/sndst00m.starfall-visual-studio-code-0.5.4.vsix";
       sha256 = "sha256-Y5X4ye/xMk4Xz0MJ1wnSFhWQAciWOhDT237delOg/u4=";
     };
-    name = "starfall-visual-studio-code";
     license = "MIT";
-    publisher = "sndst00m";
+    name = "starfall-visual-studio-code";
     description = "A cosmic matte-blue, elegant and colorful Visual Studio Code theme.";
+    publisher = "sndst00m";
   };
   sndst00m-vscode-native-svg-preview = {
     pname = "sndst00m-vscode-native-svg-preview";
@@ -17564,10 +17600,10 @@
       url = "https://open-vsx.org/api/sndst00m/vscode-native-svg-preview/1.60.2/file/sndst00m.vscode-native-svg-preview-1.60.2.vsix";
       sha256 = "sha256-t6sDwPr8agUK5xwhvonIN4tdCtuK5ZnpTcH2fDfXCbk=";
     };
-    name = "vscode-native-svg-preview";
     license = "MIT";
-    publisher = "sndst00m";
+    name = "vscode-native-svg-preview";
     description = "Provides VS Code with a native-style SVG image preview.";
+    publisher = "sndst00m";
   };
   snyk-security-vscode-vuln-cost = {
     pname = "snyk-security-vscode-vuln-cost";
@@ -17576,10 +17612,10 @@
       url = "https://open-vsx.org/api/snyk-security/vscode-vuln-cost/1.7.1/file/snyk-security.vscode-vuln-cost-1.7.1.vsix";
       sha256 = "sha256-KNstRADiYCQ9MHwtklUtFRCq58oNy4d3jfNkJHdc2U4=";
     };
-    name = "vscode-vuln-cost";
     license = "MIT";
-    publisher = "snyk-security";
+    name = "vscode-vuln-cost";
     description = "Security Scanner to find and fix vulnerabilities in JavaScript and TypeScript. Inspired by Import Cost";
+    publisher = "snyk-security";
   };
   sodatea-velocity = {
     pname = "sodatea-velocity";
@@ -17588,10 +17624,10 @@
       url = "https://open-vsx.org/api/sodatea/velocity/0.2.0/file/sodatea.velocity-0.2.0.vsix";
       sha256 = "sha256-qW3eZly3pAFQoCwWj3XpCehvcBOeAjpubT5+5MRdOIE=";
     };
-    name = "velocity";
     license = "MIT";
-    publisher = "sodatea";
+    name = "velocity";
     description = "Apache Velocity Template Language Syntax Highlighting";
+    publisher = "sodatea";
   };
   soerenuhrbach-vscode-deepl = {
     pname = "soerenuhrbach-vscode-deepl";
@@ -17600,10 +17636,10 @@
       url = "https://open-vsx.org/api/soerenuhrbach/vscode-deepl/1.0.4/file/soerenuhrbach.vscode-deepl-1.0.4.vsix";
       sha256 = "sha256-AC6BSwHCJIMHYHqKEbbG3wFA0MpUDSNWEpFAu9a2EM8=";
     };
-    name = "vscode-deepl";
     license = "MIT";
-    publisher = "soerenuhrbach";
+    name = "vscode-deepl";
     description = "Easily translate into more than 25 languages directly from your favourite editor using DeepL.";
+    publisher = "soerenuhrbach";
   };
   solidjs-community-solid-snippets = {
     pname = "solidjs-community-solid-snippets";
@@ -17612,10 +17648,10 @@
       url = "https://open-vsx.org/api/solidjs-community/solid-snippets/0.1.2/file/solidjs-community.solid-snippets-0.1.2.vsix";
       sha256 = "sha256-UXvRnCyWMF2eB77GvOQzRK6UDMUqPqrkAT0RoadKaVQ=";
     };
-    name = "solid-snippets";
     license = "MIT";
-    publisher = "solidjs-community";
+    name = "solid-snippets";
     description = "VSCode extension with helpful code snippets for SolidJS.";
+    publisher = "solidjs-community";
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
@@ -17624,10 +17660,10 @@
       url = "https://open-vsx.org/api/sourcery/sourcery/0.12.0/file/sourcery.sourcery-0.12.0.vsix";
       sha256 = "sha256-r10Ktbj3wAY+i+nBFjYrT4PBPCoATWETmtcGsOmG2zI=";
     };
-    name = "sourcery";
     license = "MIT";
-    publisher = "sourcery";
+    name = "sourcery";
     description = "Refactor Python instantly with Sourcery";
+    publisher = "sourcery";
   };
   southclaws-vscode-pawn = {
     pname = "southclaws-vscode-pawn";
@@ -17636,10 +17672,10 @@
       url = "https://open-vsx.org/api/southclaws/vscode-pawn/1.0.0/file/southclaws.vscode-pawn-1.0.0.vsix";
       sha256 = "sha256-wTOEIsT9wGdHfdtIYTJ9PoCAFqk3/xztg3tuulEHwMg=";
     };
-    name = "vscode-pawn";
     license = "MIT";
-    publisher = "southclaws";
+    name = "vscode-pawn";
     description = "Pawn tools for vscode. Includes syntax highlighting and snippets/completions for common libraries.";
+    publisher = "southclaws";
   };
   spnda-nml-language = {
     pname = "spnda-nml-language";
@@ -17648,10 +17684,10 @@
       url = "https://open-vsx.org/api/spnda/nml-language/1.2.2/file/spnda.nml-language-1.2.2.vsix";
       sha256 = "sha256-5Ec1VfAj2IRQiKDb9Sl19ToieIr6LoD1Wz6A7bHWe/k=";
     };
-    name = "nml-language";
     license = "GPLv2";
-    publisher = "spnda";
+    name = "nml-language";
     description = "Adds the NewGRF Meta Language";
+    publisher = "spnda";
   };
   spoorthi-cosmy-wasmy = {
     pname = "spoorthi-cosmy-wasmy";
@@ -17660,10 +17696,10 @@
       url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.1.0/file/spoorthi.cosmy-wasmy-0.1.0.vsix";
       sha256 = "sha256-QaXlPyrkVSm/aZ5Cp0HAD6LKgho63NZvKES+nD0XRZs=";
     };
-    name = "cosmy-wasmy";
     license = "GPL-3.0";
-    publisher = "spoorthi";
+    name = "cosmy-wasmy";
     description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm contracts";
+    publisher = "spoorthi";
   };
   srimukh-slowbug = {
     pname = "srimukh-slowbug";
@@ -17672,10 +17708,10 @@
       url = "https://open-vsx.org/api/srimukh/slowbug/1.0.7/file/srimukh.slowbug-1.0.7.vsix";
       sha256 = "sha256-7omdTuc7REOQJs4WHdtPI/JxH1mzn4iV7j9Y5p59JeQ=";
     };
-    name = "slowbug";
     license = "MIT";
-    publisher = "srimukh";
+    name = "slowbug";
     description = "Slowbug is a VS Code extension for debugging your code in slow-mo.";
+    publisher = "srimukh";
   };
   ss13-oss-tools-dm-langclient = {
     pname = "ss13-oss-tools-dm-langclient";
@@ -17684,10 +17720,10 @@
       url = "https://open-vsx.org/api/ss13-oss-tools/dm-langclient/0.2.2/file/ss13-oss-tools.dm-langclient-0.2.2.vsix";
       sha256 = "sha256-luMHKvUf/W4O1xrjqA45rN9VYkCB9fB4iVX544yj8bU=";
     };
-    name = "dm-langclient";
     license = "GPL-3.0";
-    publisher = "ss13-oss-tools";
+    name = "dm-langclient";
     description = "Client for DreamMaker language server";
+    publisher = "ss13-oss-tools";
   };
   sshimono-testlatte = {
     pname = "sshimono-testlatte";
@@ -17696,10 +17732,10 @@
       url = "https://open-vsx.org/api/sshimono/testlatte/2.1.1/file/sshimono.testlatte-2.1.1.vsix";
       sha256 = "sha256-20HiiJysP8vvljEvvMeOACdz6RbZQ8muFMjtcR9Mtts=";
     };
-    name = "testlatte";
     license = "MIT";
-    publisher = "sshimono";
+    name = "testlatte";
     description = "Run your TestCaf\233 tests in the Sidebar of Visual Studio Code";
+    publisher = "sshimono";
   };
   standard-vscode-standard = {
     pname = "standard-vscode-standard";
@@ -17708,10 +17744,10 @@
       url = "https://open-vsx.org/api/standard/vscode-standard/2.1.0/file/standard.vscode-standard-2.1.0.vsix";
       sha256 = "sha256-ZrHjSTPV/kLkawxxFsc7JweIKVt6K0qnmHr8Q/a6Z1E=";
     };
-    name = "vscode-standard";
     license = "MIT";
-    publisher = "standard";
+    name = "vscode-standard";
     description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.";
+    publisher = "standard";
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
@@ -17720,10 +17756,10 @@
       url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.1/file/statelyai.stately-vscode-1.8.1.vsix";
       sha256 = "sha256-63yKSX9e+T9NMa/L579XjkzhU2XDR9o5wrVA7KGMNMk=";
     };
-    name = "stately-vscode";
     license = "MIT";
-    publisher = "statelyai";
+    name = "stately-vscode";
     description = "Visual editing, autocomplete and typegen for XState";
+    publisher = "statelyai";
   };
   steedos-steedosdx-vscode = {
     pname = "steedos-steedosdx-vscode";
@@ -17732,10 +17768,10 @@
       url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.2/file/steedos.steedosdx-vscode-2.2.2.vsix";
       sha256 = "sha256-AuH9T74iBiTyhcKOO+Ua8I5j+pftIlaGZhfPowRKohw=";
     };
-    name = "steedosdx-vscode";
     license = "MIT";
-    publisher = "steedos";
+    name = "steedosdx-vscode";
     description = "Extensions for developing on the Steedos Platform";
+    publisher = "steedos";
   };
   steedos-steedosdx-vscode-core = {
     pname = "steedos-steedosdx-vscode-core";
@@ -17744,10 +17780,10 @@
       url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.2/file/steedos.steedosdx-vscode-core-2.2.2.vsix";
       sha256 = "sha256-SoOLO873yIGAse9qnh4tUVDh+02AdifY0iRwK3zw1Rw=";
     };
-    name = "steedosdx-vscode-core";
     license = "MIT";
-    publisher = "steedos";
+    name = "steedosdx-vscode-core";
     description = "Provides integration with the Steedos CLI";
+    publisher = "steedos";
   };
   stef-k-laravel-goto-controller = {
     pname = "stef-k-laravel-goto-controller";
@@ -17756,10 +17792,10 @@
       url = "https://open-vsx.org/api/stef-k/laravel-goto-controller/0.0.15/file/stef-k.laravel-goto-controller-0.0.15.vsix";
       sha256 = "sha256-iFPwN/myZdmxgWXbANUxHung6rMZxRbrRz1Au60TwYk=";
     };
-    name = "laravel-goto-controller";
     license = "MIT";
-    publisher = "stef-k";
+    name = "laravel-goto-controller";
     description = "Alt + click to navigate from a route to a respective controller file";
+    publisher = "stef-k";
   };
   stefanjarina-vscode-eex-snippets = {
     pname = "stefanjarina-vscode-eex-snippets";
@@ -17768,10 +17804,10 @@
       url = "https://open-vsx.org/api/stefanjarina/vscode-eex-snippets/0.0.7/file/stefanjarina.vscode-eex-snippets-0.0.7.vsix";
       sha256 = "sha256-2pLzX5Ta46xkIz1yfkVXkbrq5YoIOQBViqGeTD8ASV4=";
     };
-    name = "vscode-eex-snippets";
     license = "MIT";
-    publisher = "stefanjarina";
+    name = "vscode-eex-snippets";
     description = "Elixir EEx and HTML (EEx) code snippets.";
+    publisher = "stefanjarina";
   };
   steoates-autoimport = {
     pname = "steoates-autoimport";
@@ -17780,10 +17816,10 @@
       url = "https://open-vsx.org/api/steoates/autoimport/1.5.3/file/steoates.autoimport-1.5.3.vsix";
       sha256 = "sha256-QdtgNMNR6kSuLStr9ICVrO7xCN1MB+IV1vDnjlLfDQw=";
     };
-    name = "autoimport";
     license = "MIT";
-    publisher = "steoates";
+    name = "autoimport";
     description = "Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX";
+    publisher = "steoates";
   };
   stkb-rewrap = {
     pname = "stkb-rewrap";
@@ -17792,10 +17828,10 @@
       url = "https://open-vsx.org/api/stkb/rewrap/1.16.3/file/stkb.rewrap-1.16.3.vsix";
       sha256 = "sha256-WHeLTN992ltEZw2W7B3sJrHfAFsOGMq3llV4C0hXLNA=";
     };
-    name = "rewrap";
     license = "";
-    publisher = "stkb";
+    name = "rewrap";
     description = "Hard word wrapping for comments and other text at a given column.";
+    publisher = "stkb";
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
@@ -17804,10 +17840,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.0/file/streetsidesoftware.code-spell-checker-2.2.0.vsix";
       sha256 = "sha256-FgRY8D4AwljwiA/b4lX78P1fntGUO5XvZzIHj9EJXQ8=";
     };
-    name = "code-spell-checker";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker";
     description = "Spelling checker for source code";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-bulgarian = {
     pname = "streetsidesoftware-code-spell-checker-bulgarian";
@@ -17816,10 +17852,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-bulgarian/0.1.4/file/streetsidesoftware.code-spell-checker-bulgarian-0.1.4.vsix";
       sha256 = "sha256-LKN8nIPvI3VdA34It5ZsJODetWnZQ/eJb5pAv/PQqsM=";
     };
-    name = "code-spell-checker-bulgarian";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-bulgarian";
     description = "Bulgarian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-catalan = {
     pname = "streetsidesoftware-code-spell-checker-catalan";
@@ -17828,10 +17864,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-catalan/0.1.11/file/streetsidesoftware.code-spell-checker-catalan-0.1.11.vsix";
       sha256 = "sha256-oZTX2kSmCG5K4rEgDy5ob3OJtaApQcZ/iirc4SGPYnk=";
     };
-    name = "code-spell-checker-catalan";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-catalan";
     description = "Catalan dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-croatian = {
     pname = "streetsidesoftware-code-spell-checker-croatian";
@@ -17840,10 +17876,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-croatian/0.1.4/file/streetsidesoftware.code-spell-checker-croatian-0.1.4.vsix";
       sha256 = "sha256-BDxVILhc8B/rndc91yy6N2fIYDYEcz8CtGjqF/X8ho8=";
     };
-    name = "code-spell-checker-croatian";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-croatian";
     description = "Croatian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-czech = {
     pname = "streetsidesoftware-code-spell-checker-czech";
@@ -17852,10 +17888,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-czech/0.1.11/file/streetsidesoftware.code-spell-checker-czech-0.1.11.vsix";
       sha256 = "sha256-f4Bjs679TlpdpKPboRwfiDY5WAg968T2sK4J1NdSmaw=";
     };
-    name = "code-spell-checker-czech";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-czech";
     description = "Czech dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-danish = {
     pname = "streetsidesoftware-code-spell-checker-danish";
@@ -17864,10 +17900,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-danish/0.2.12/file/streetsidesoftware.code-spell-checker-danish-0.2.12.vsix";
       sha256 = "sha256-6YtI56p0l1FxpZ+718eFxtxnond6UOrKni7eKFaB6jw=";
     };
-    name = "code-spell-checker-danish";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-danish";
     description = "Danish dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-dutch = {
     pname = "streetsidesoftware-code-spell-checker-dutch";
@@ -17876,10 +17912,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-dutch/0.3.1/file/streetsidesoftware.code-spell-checker-dutch-0.3.1.vsix";
       sha256 = "sha256-4XvSSPuzxoiU113I+/m8Ny/xbTpC0jNFCe2WUIkXUZQ=";
     };
-    name = "code-spell-checker-dutch";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-dutch";
     description = "Dutch / Nederlands dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-esperanto = {
     pname = "streetsidesoftware-code-spell-checker-esperanto";
@@ -17888,10 +17924,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-esperanto/0.1.9/file/streetsidesoftware.code-spell-checker-esperanto-0.1.9.vsix";
       sha256 = "sha256-vowIJ/iopHYjSIOZgJRKL7hO8X1hcJ/cEOqcKvWyZvs=";
     };
-    name = "code-spell-checker-esperanto";
     license = "GPL-2.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-esperanto";
     description = "Esperanto dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-estonian = {
     pname = "streetsidesoftware-code-spell-checker-estonian";
@@ -17900,10 +17936,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-estonian/0.1.5/file/streetsidesoftware.code-spell-checker-estonian-0.1.5.vsix";
       sha256 = "sha256-hCKi7wM1dLOMbkt2GzS5x84c1DHu6BIE37YnfMjb1lg=";
     };
-    name = "code-spell-checker-estonian";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-estonian";
     description = "Estonian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-french = {
     pname = "streetsidesoftware-code-spell-checker-french";
@@ -17912,10 +17948,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french/0.2.0/file/streetsidesoftware.code-spell-checker-french-0.2.0.vsix";
       sha256 = "sha256-jvfZoMdutZ2getfi+nyahei8atwa/fuILEo/S5FtppM=";
     };
-    name = "code-spell-checker-french";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-french";
     description = "French dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-french-reforme = {
     pname = "streetsidesoftware-code-spell-checker-french-reforme";
@@ -17924,10 +17960,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french-reforme/2.0.4/file/streetsidesoftware.code-spell-checker-french-reforme-2.0.4.vsix";
       sha256 = "sha256-BZXwE2twKVIcFkb1+Pn7P43Um6qU7ZNOI0MCABlmQrY=";
     };
-    name = "code-spell-checker-french-reforme";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-french-reforme";
     description = "French R\233forme 90 dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-german = {
     pname = "streetsidesoftware-code-spell-checker-german";
@@ -17936,10 +17972,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-german/2.0.3/file/streetsidesoftware.code-spell-checker-german-2.0.3.vsix";
       sha256 = "sha256-gWZYLdyJVNvFwFkGUawqkLbObgyqNI5Ulqrskb/o6bw=";
     };
-    name = "code-spell-checker-german";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-german";
     description = "German dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-greek = {
     pname = "streetsidesoftware-code-spell-checker-greek";
@@ -17948,10 +17984,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-greek/0.1.11/file/streetsidesoftware.code-spell-checker-greek-0.1.11.vsix";
       sha256 = "sha256-uXIv+AWWHYgjRV3G4rVCPF3NGXVz+ySHdhXcAazHMw0=";
     };
-    name = "code-spell-checker-greek";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-greek";
     description = "Greek dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-hebrew = {
     pname = "streetsidesoftware-code-spell-checker-hebrew";
@@ -17960,10 +17996,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-hebrew/0.1.10/file/streetsidesoftware.code-spell-checker-hebrew-0.1.10.vsix";
       sha256 = "sha256-EYVysLYuijHJcc0irxFlegPKuSrxcfCw9M3TfLXLMaQ=";
     };
-    name = "code-spell-checker-hebrew";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-hebrew";
     description = "Hebrew dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-italian = {
     pname = "streetsidesoftware-code-spell-checker-italian";
@@ -17972,10 +18008,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-italian/0.1.11/file/streetsidesoftware.code-spell-checker-italian-0.1.11.vsix";
       sha256 = "sha256-xEauuklK+VlpfW++XHHGK/4X4aWOzZ9++h3WMuMFuxo=";
     };
-    name = "code-spell-checker-italian";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-italian";
     description = "Italian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-medical-terms = {
     pname = "streetsidesoftware-code-spell-checker-medical-terms";
@@ -17984,10 +18020,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-medical-terms/1.0.14/file/streetsidesoftware.code-spell-checker-medical-terms-1.0.14.vsix";
       sha256 = "sha256-Hs0Ne2C2VegtLL+zU9QkNBxSdYBtNLx3pFQ27okmPSo=";
     };
-    name = "code-spell-checker-medical-terms";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-medical-terms";
     description = "Medical Terms Add-On for Code Spell Checker";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-norwegian-bokmal = {
     pname = "streetsidesoftware-code-spell-checker-norwegian-bokmal";
@@ -17996,10 +18032,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-norwegian-bokmal/0.1.5/file/streetsidesoftware.code-spell-checker-norwegian-bokmal-0.1.5.vsix";
       sha256 = "sha256-KfM6y+y8DNc1nhb32sj63dflQtayZ5cb/K1nsxwXsyc=";
     };
-    name = "code-spell-checker-norwegian-bokmal";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-norwegian-bokmal";
     description = "Norwegian Bokm\229l dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-persian = {
     pname = "streetsidesoftware-code-spell-checker-persian";
@@ -18008,10 +18044,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-persian/0.1.11/file/streetsidesoftware.code-spell-checker-persian-0.1.11.vsix";
       sha256 = "sha256-SKJiM5MpBbDNqtitjCWcTIrDVsQHcOgqlR5pdAtZUek=";
     };
-    name = "code-spell-checker-persian";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-persian";
     description = "Persian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-polish = {
     pname = "streetsidesoftware-code-spell-checker-polish";
@@ -18020,10 +18056,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-polish/1.0.11/file/streetsidesoftware.code-spell-checker-polish-1.0.11.vsix";
       sha256 = "sha256-N/rHD1a76jiEobMyuUs73pnLk6FeSVBlxU12ZWSv8fA=";
     };
-    name = "code-spell-checker-polish";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-polish";
     description = "Polish dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-portuguese = {
     pname = "streetsidesoftware-code-spell-checker-portuguese";
@@ -18032,10 +18068,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-portuguese/0.1.11/file/streetsidesoftware.code-spell-checker-portuguese-0.1.11.vsix";
       sha256 = "sha256-uxYtC+0PgIDUDNJ0CquBec2QCE/bwaetYTky9uqXmBU=";
     };
-    name = "code-spell-checker-portuguese";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-portuguese";
     description = "Portuguese dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-portuguese-brazilian = {
     pname = "streetsidesoftware-code-spell-checker-portuguese-brazilian";
@@ -18044,10 +18080,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-portuguese-brazilian/2.0.6/file/streetsidesoftware.code-spell-checker-portuguese-brazilian-2.0.6.vsix";
       sha256 = "sha256-NvnAJWWC3IJbrzme1wTgyuYstWPJ6aU/yBfMvvvwRdw=";
     };
-    name = "code-spell-checker-portuguese-brazilian";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-portuguese-brazilian";
     description = "Brazilian Portuguese dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-russian = {
     pname = "streetsidesoftware-code-spell-checker-russian";
@@ -18056,10 +18092,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-russian/2.0.4/file/streetsidesoftware.code-spell-checker-russian-2.0.4.vsix";
       sha256 = "sha256-xR/RnwMeX5Wi1v9uGbRHU4T2BIIpXcQha/VTq+Vlo48=";
     };
-    name = "code-spell-checker-russian";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-russian";
     description = "Russian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-scientific-terms = {
     pname = "streetsidesoftware-code-spell-checker-scientific-terms";
@@ -18068,10 +18104,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-scientific-terms/0.1.4/file/streetsidesoftware.code-spell-checker-scientific-terms-0.1.4.vsix";
       sha256 = "sha256-5vGeU1yA/zPhoX1IVHPy2R3L55UAMGH8Jr7m6fSsS2M=";
     };
-    name = "code-spell-checker-scientific-terms";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-scientific-terms";
     description = "Scientific Terms dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-slovenian = {
     pname = "streetsidesoftware-code-spell-checker-slovenian";
@@ -18080,10 +18116,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-slovenian/0.1.1/file/streetsidesoftware.code-spell-checker-slovenian-0.1.1.vsix";
       sha256 = "sha256-xnDpqJ0+EMc772eajr6d8HWSvVj1QIR4DPLMMlK8hUk=";
     };
-    name = "code-spell-checker-slovenian";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-slovenian";
     description = "Slovenian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-spanish = {
     pname = "streetsidesoftware-code-spell-checker-spanish";
@@ -18092,10 +18128,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-spanish/2.1.0/file/streetsidesoftware.code-spell-checker-spanish-2.1.0.vsix";
       sha256 = "sha256-+DscSKhje4aAVRe6nxSIkQcw/Z09mwbkDsjEsF8kkEs=";
     };
-    name = "code-spell-checker-spanish";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-spanish";
     description = "Spanish Add-On for Code Spell Checker";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-swedish = {
     pname = "streetsidesoftware-code-spell-checker-swedish";
@@ -18104,10 +18140,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-swedish/1.1.0/file/streetsidesoftware.code-spell-checker-swedish-1.1.0.vsix";
       sha256 = "sha256-u/D/BdRuuSbd30AV4NP3BBx8fUE9FUVjlAoZnxaUCSM=";
     };
-    name = "code-spell-checker-swedish";
     license = "GPL-3.0-or-later";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-swedish";
     description = "Swedish dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-turkish = {
     pname = "streetsidesoftware-code-spell-checker-turkish";
@@ -18116,10 +18152,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-turkish/0.1.11/file/streetsidesoftware.code-spell-checker-turkish-0.1.11.vsix";
       sha256 = "sha256-BWyWM1uHXnxym4JHKAsHntln9Pru9SnrFhS/zw065rE=";
     };
-    name = "code-spell-checker-turkish";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-turkish";
     description = "Turkish dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-ukrainian = {
     pname = "streetsidesoftware-code-spell-checker-ukrainian";
@@ -18128,10 +18164,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-ukrainian/0.1.12/file/streetsidesoftware.code-spell-checker-ukrainian-0.1.12.vsix";
       sha256 = "sha256-JhHToB1q2fmpWCKgGTO4xRKA1sMiCNardZ4oC+wHW98=";
     };
-    name = "code-spell-checker-ukrainian";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-ukrainian";
     description = "Ukrainian dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   streetsidesoftware-code-spell-checker-vietnamese = {
     pname = "streetsidesoftware-code-spell-checker-vietnamese";
@@ -18140,10 +18176,10 @@
       url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-vietnamese/0.1.8/file/streetsidesoftware.code-spell-checker-vietnamese-0.1.8.vsix";
       sha256 = "sha256-UYlrxUOlOF+ktaVe1hGkWb/zjkpRZgcJbbdwkanYzKM=";
     };
-    name = "code-spell-checker-vietnamese";
     license = "MIT";
-    publisher = "streetsidesoftware";
+    name = "code-spell-checker-vietnamese";
     description = "Vietnamese dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
   };
   stripe-vscode-stripe = {
     pname = "stripe-vscode-stripe";
@@ -18152,10 +18188,10 @@
       url = "https://open-vsx.org/api/stripe/vscode-stripe/2.0.12/file/stripe.vscode-stripe-2.0.12.vsix";
       sha256 = "sha256-Yksx7scBBmCPPU5U40TJZosFOCuAjOZiWDI+Qew6BVA=";
     };
-    name = "vscode-stripe";
     license = "MIT";
-    publisher = "stripe";
+    name = "vscode-stripe";
     description = "Build, test, and use Stripe inside your editor.";
+    publisher = "stripe";
   };
   styled-components-vscode-styled-components = {
     pname = "styled-components-vscode-styled-components";
@@ -18164,10 +18200,10 @@
       url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.4/file/styled-components.vscode-styled-components-1.7.4.vsix";
       sha256 = "sha256-GjSNVPjUWKb1T+7LR+GrNsEv5xg/fzAnOtjCFvumrVI=";
     };
-    name = "vscode-styled-components";
     license = "MIT";
-    publisher = "styled-components";
+    name = "vscode-styled-components";
     description = "Syntax highlighting for styled-components";
+    publisher = "styled-components";
   };
   stylelint-vscode-stylelint = {
     pname = "stylelint-vscode-stylelint";
@@ -18176,10 +18212,10 @@
       url = "https://open-vsx.org/api/stylelint/vscode-stylelint/1.2.2/file/stylelint.vscode-stylelint-1.2.2.vsix";
       sha256 = "sha256-DADUxZ3tU01gDVCKDIt+xsPf6BGoZuFttq6B/uVKZyw=";
     };
-    name = "vscode-stylelint";
     license = "MIT";
-    publisher = "stylelint";
+    name = "vscode-stylelint";
     description = "Official Stylelint extension for Visual Studio Code";
+    publisher = "stylelint";
   };
   sudocode1-radio-language-support = {
     pname = "sudocode1-radio-language-support";
@@ -18188,10 +18224,10 @@
       url = "https://open-vsx.org/api/sudocode1/radio-language-support/0.0.1/file/sudocode1.radio-language-support-0.0.1.vsix";
       sha256 = "sha256-DcRhciuQ5yPloY6dMVmdTcfNJtHE6g+fCo4hBUauZCQ=";
     };
-    name = "radio-language-support";
     license = "GPL-3.0";
-    publisher = "sudocode1";
+    name = "radio-language-support";
     description = "Syntax highlighting for Radio";
+    publisher = "sudocode1";
   };
   sumneko-lua = {
     pname = "sumneko-lua";
@@ -18200,10 +18236,10 @@
       url = "https://open-vsx.org/api/sumneko/lua/3.2.0/file/sumneko.lua-3.2.0.vsix";
       sha256 = "sha256-cjpjyEfVvj4vO5zS4QkvV0danbBDdZ/pBXoYRVdQFO4=";
     };
-    name = "lua";
     license = "MIT";
-    publisher = "sumneko";
+    name = "lua";
     description = "Lua Language Server coded by Lua";
+    publisher = "sumneko";
   };
   superfaceai-superface-language-client-vscode = {
     pname = "superfaceai-superface-language-client-vscode";
@@ -18212,10 +18248,10 @@
       url = "https://open-vsx.org/api/superfaceai/superface-language-client-vscode/1.1.0/file/superfaceai.superface-language-client-vscode-1.1.0.vsix";
       sha256 = "sha256-em1fITeW+FxGwGY9aumvYHXRZlAfcS8LnPpGaUTAU8A=";
     };
-    name = "superface-language-client-vscode";
     license = "MIT";
-    publisher = "superfaceai";
+    name = "superface-language-client-vscode";
     description = "Superface Language Client for Visual Studio Code";
+    publisher = "superfaceai";
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
@@ -18224,10 +18260,10 @@
       url = "https://open-vsx.org/api/svelte/svelte-vscode/105.17.0/file/svelte.svelte-vscode-105.17.0.vsix";
       sha256 = "sha256-tp7sTxBZURrQXQtTuc/u3kgesmhZ0M7c8is+ckyowsY=";
     };
-    name = "svelte-vscode";
     license = "MIT";
-    publisher = "svelte";
+    name = "svelte-vscode";
     description = "Svelte language support for VS Code";
+    publisher = "svelte";
   };
   svelte-svelte-vscode-nightly = {
     pname = "svelte-svelte-vscode-nightly";
@@ -18236,10 +18272,10 @@
       url = "https://open-vsx.org/api/svelte/svelte-vscode-nightly/99.1.43/file/svelte.svelte-vscode-nightly-99.1.43.vsix";
       sha256 = "sha256-Q4uEen6u0x7JhBdkN+82Vsjr7wBFkQoFOPCI/92ujrA=";
     };
-    name = "svelte-vscode-nightly";
     license = "MIT";
-    publisher = "svelte";
+    name = "svelte-vscode-nightly";
     description = "Svelte language support for VS Code";
+    publisher = "svelte";
   };
   svipas-control-snippets = {
     pname = "svipas-control-snippets";
@@ -18248,10 +18284,10 @@
       url = "https://open-vsx.org/api/svipas/control-snippets/1.9.1/file/svipas.control-snippets-1.9.1.vsix";
       sha256 = "sha256-47rWGr/cQ9CsOGNkF7DWrPYJxqhggWfABIaKVode79M=";
     };
-    name = "control-snippets";
     license = "MIT";
-    publisher = "svipas";
+    name = "control-snippets";
     description = "Disable or enable VS Code's built-in snippets and manually installed snippets from extensions.";
+    publisher = "svipas";
   };
   svsool-markdown-memo = {
     pname = "svsool-markdown-memo";
@@ -18260,10 +18296,10 @@
       url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.18/file/svsool.markdown-memo-0.3.18.vsix";
       sha256 = "sha256-HlHPG49glkB7Vkv+P7A5+1s047Q+VbRM7updy3bccbU=";
     };
-    name = "markdown-memo";
     license = "MIT";
-    publisher = "svsool";
+    name = "markdown-memo";
     description = "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode";
+    publisher = "svsool";
   };
   syler-sass-indented = {
     pname = "syler-sass-indented";
@@ -18272,10 +18308,10 @@
       url = "https://open-vsx.org/api/syler/sass-indented/1.8.20/file/syler.sass-indented-1.8.20.vsix";
       sha256 = "sha256-U1G6cqSWVGf9vS55YADH63ekWNuAQNLbA6FQhvhrcAo=";
     };
-    name = "sass-indented";
     license = "MIT";
-    publisher = "syler";
+    name = "sass-indented";
     description = "Indented Sass syntax Highlighting, Autocomplete & Formatter";
+    publisher = "syler";
   };
   synedra-auto-run-command = {
     pname = "synedra-auto-run-command";
@@ -18284,10 +18320,10 @@
       url = "https://open-vsx.org/api/synedra/auto-run-command/1.6.1/file/synedra.auto-run-command-1.6.1.vsix";
       sha256 = "sha256-oHPOe6lwXPeaKHNoChQz6jCUCYI30nYvZtwLq2DpDhU=";
     };
-    name = "auto-run-command";
     license = "MIT";
-    publisher = "synedra";
+    name = "auto-run-command";
     description = "Run a vscode command on project init. Made to run wallaby.js automatically when a project is opened";
+    publisher = "synedra";
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
@@ -18296,10 +18332,10 @@
       url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.1/file/t-codespaces.ide-code-status-0.0.1.vsix";
       sha256 = "sha256-rFWCsJtw5tgARCuTkVEGmyQIlk3uHFq6+23DjAIEXxg=";
     };
-    name = "ide-code-status";
     license = "";
-    publisher = "t-codespaces";
+    name = "ide-code-status";
     description = "\24037\20316\31354\38388\20869\20195\30721\29366\24577\30456\20851\30340\34892\20026\31649\29702\12289\27880\20876\12289\19978\25253\25554\20214\65288\38750 scm \31867\22411\65289\12290";
+    publisher = "t-codespaces";
   };
   t-codespaces-install-extensions = {
     pname = "t-codespaces-install-extensions";
@@ -18308,10 +18344,10 @@
       url = "https://open-vsx.org/api/t-codespaces/install-extensions/1.0.2/file/t-codespaces.install-extensions-1.0.2.vsix";
       sha256 = "sha256-qFY3+Lz3d+Y3o86eq2ihla8JO20KJc8woEY7lHznAUc=";
     };
-    name = "install-extensions";
     license = "";
-    publisher = "t-codespaces";
+    name = "install-extensions";
     description = "\29992\20110\23433\35013\20854\20182\25554\20214\30340\19968\26041\25554\20214";
+    publisher = "t-codespaces";
   };
   tachish-webview-test = {
     pname = "tachish-webview-test";
@@ -18320,10 +18356,10 @@
       url = "https://open-vsx.org/api/tachish/webview-test/0.0.4/file/tachish.webview-test-0.0.4.vsix";
       sha256 = "sha256-JiD+NN53TtYM2U62XulNGpmOOeo7px/8TzX5Ii9ecEU=";
     };
-    name = "webview-test";
     license = "MIT";
-    publisher = "tachish";
+    name = "webview-test";
     description = "";
+    publisher = "tachish";
   };
   taintbench-TB-Viewer = {
     pname = "taintbench-TB-Viewer";
@@ -18332,10 +18368,10 @@
       url = "https://open-vsx.org/api/taintbench/TB-Viewer/0.0.3/file/taintbench.TB-Viewer-0.0.3.vsix";
       sha256 = "sha256-mv8uYxzsdI+pXArEZdxfGMvOtfp7pvCkJGOWOpzn/gY=";
     };
-    name = "TB-Viewer";
     license = "MIT";
-    publisher = "taintbench";
+    name = "TB-Viewer";
     description = "A language server for displaying the baseline ground truth in TaintBench.";
+    publisher = "taintbench";
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
@@ -18344,10 +18380,10 @@
       url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.14.2/file/tamasfe.even-better-toml-0.14.2.vsix";
       sha256 = "sha256-s9aRdMm/1P7kZElgP6RPAKrpMYwRksJWkNzWVD8dC1Q=";
     };
-    name = "even-better-toml";
     license = "MIT";
-    publisher = "tamasfe";
+    name = "even-better-toml";
     description = "Fully-featured TOML support";
+    publisher = "tamasfe";
   };
   tanhakabir-rest-book = {
     pname = "tanhakabir-rest-book";
@@ -18356,10 +18392,10 @@
       url = "https://open-vsx.org/api/tanhakabir/rest-book/6.0.1/file/tanhakabir.rest-book-6.0.1.vsix";
       sha256 = "sha256-QGDj30mq+jLZTFQSjymcll4YyMwqZ0LaxLxCWb0GxQw=";
     };
-    name = "rest-book";
     license = "MIT";
-    publisher = "tanhakabir";
+    name = "rest-book";
     description = "Notebook for running REST queries.";
+    publisher = "tanhakabir";
   };
   tboox-xmake-vscode = {
     pname = "tboox-xmake-vscode";
@@ -18368,10 +18404,10 @@
       url = "https://open-vsx.org/api/tboox/xmake-vscode/1.4.4/file/tboox.xmake-vscode-1.4.4.vsix";
       sha256 = "sha256-vjD4uSbi6kVh0v2VK5tAgeXPJ8VNf5My2d+mzeCE/Zk=";
     };
-    name = "xmake-vscode";
     license = "Apache-2.0";
-    publisher = "tboox";
+    name = "xmake-vscode";
     description = "Extended XMake support in Visual Studio Code";
+    publisher = "tboox";
   };
   tchayen-markdown-links = {
     pname = "tchayen-markdown-links";
@@ -18380,10 +18416,10 @@
       url = "https://open-vsx.org/api/tchayen/markdown-links/0.8.0/file/tchayen.markdown-links-0.8.0.vsix";
       sha256 = "sha256-W03gykcA4lujhHDAWcrUqf2D5RQhKsj7PXYSrY8LIrg=";
     };
-    name = "markdown-links";
     license = "MIT";
-    publisher = "tchayen";
+    name = "markdown-links";
     description = "Adds command - Show Graph - that displays a graph of local links between markdown files in the current working directory.";
+    publisher = "tchayen";
   };
   teabyii-ayu = {
     pname = "teabyii-ayu";
@@ -18392,10 +18428,10 @@
       url = "https://open-vsx.org/api/teabyii/ayu/1.0.3/file/teabyii.ayu-1.0.3.vsix";
       sha256 = "sha256-UrOHBPjVEz0vq6vjQBVI/+J/ema8dVLs0d4AWLNyuH0=";
     };
-    name = "ayu";
     license = "MIT";
-    publisher = "teabyii";
+    name = "ayu";
     description = "A simple theme with bright colors and comes in three versions \8212 dark, light and mirage for all day long comfortable work.";
+    publisher = "teabyii";
   };
   technicolor-creamsicle-deepdark-material = {
     pname = "technicolor-creamsicle-deepdark-material";
@@ -18404,10 +18440,10 @@
       url = "https://open-vsx.org/api/technicolor-creamsicle/deepdark-material/3.3.0/file/technicolor-creamsicle.deepdark-material-3.3.0.vsix";
       sha256 = "sha256-TYhCAP56qJj+Tpc+ZiMYU7quTDy4dIQoAuya+GpKAKg=";
     };
-    name = "deepdark-material";
     license = "MIT";
-    publisher = "technicolor-creamsicle";
+    name = "deepdark-material";
     description = "A clean dark material theme and icon package for Visual Studio Code Editor";
+    publisher = "technicolor-creamsicle";
   };
   telesoho-vscode-markdown-paste-image = {
     pname = "telesoho-vscode-markdown-paste-image";
@@ -18416,10 +18452,10 @@
       url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.19.1/file/telesoho.vscode-markdown-paste-image-0.19.1.vsix";
       sha256 = "sha256-NFHsJnTMgQtq1dHNsMvm8wVC6HMHFULfp8kPn1fb0Ek=";
     };
-    name = "vscode-markdown-paste-image";
     license = "(MIT)";
-    publisher = "telesoho";
+    name = "vscode-markdown-paste-image";
     description = "A smartly paste for markdown.";
+    publisher = "telesoho";
   };
   tenninebt-vscode-koverage = {
     pname = "tenninebt-vscode-koverage";
@@ -18428,10 +18464,10 @@
       url = "https://open-vsx.org/api/tenninebt/vscode-koverage/0.0.6/file/tenninebt.vscode-koverage-0.0.6.vsix";
       sha256 = "sha256-D8N/A8wpCy/G4M+YHSlXrNTFifVfnzI7/ZxVvTmiaAc=";
     };
-    name = "vscode-koverage";
     license = "Apache-2.0";
-    publisher = "tenninebt";
+    name = "vscode-koverage";
     description = "View the code coverage per folder/file in the test view";
+    publisher = "tenninebt";
   };
   teros-technology-teroshdl = {
     pname = "teros-technology-teroshdl";
@@ -18440,10 +18476,10 @@
       url = "https://open-vsx.org/api/teros-technology/teroshdl/2.0.2/file/teros-technology.teroshdl-2.0.2.vsix";
       sha256 = "sha256-bMd0zWYDSQL1v71fOpcGpBpTQKHneN9z+lDleLFCPSM=";
     };
-    name = "teroshdl";
     license = "GPL-3.0";
-    publisher = "teros-technology";
+    name = "teroshdl";
     description = "Powerful IDE for ASIC/FPGA: state machine viewer, linter, documentation, snippets... and more! ";
+    publisher = "teros-technology";
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
@@ -18452,10 +18488,10 @@
       url = "https://open-vsx.org/api/tfsec/tfsec/1.10.1/file/tfsec.tfsec-1.10.1.vsix";
       sha256 = "sha256-meHXbEsYEStLcvAgXRtyt53EtQp0AtYDLUwEyZPKoDg=";
     };
-    name = "tfsec";
     license = "MIT";
-    publisher = "tfsec";
+    name = "tfsec";
     description = "tfsec integration for Visual Studio Code";
+    publisher = "tfsec";
   };
   tgrospic-rholang = {
     pname = "tgrospic-rholang";
@@ -18464,10 +18500,10 @@
       url = "https://open-vsx.org/api/tgrospic/rholang/0.7.0/file/tgrospic.rholang-0.7.0.vsix";
       sha256 = "sha256-AoTfS8htHGv9JEbVXZjbo4YID/GQMsh1eFoTCAsd11g=";
     };
-    name = "rholang";
     license = "MIT";
-    publisher = "tgrospic";
+    name = "rholang";
     description = "Language support for Rholang. Official language for RChain distributed virtual machine.";
+    publisher = "tgrospic";
   };
   the-compiler-python-tox = {
     pname = "the-compiler-python-tox";
@@ -18476,10 +18512,10 @@
       url = "https://open-vsx.org/api/the-compiler/python-tox/0.1.0/file/the-compiler.python-tox-0.1.0.vsix";
       sha256 = "sha256-iTDCykiQi+E2ip3+EaDnW8giA150qU4Fgwx7Y9XZ3qk=";
     };
-    name = "python-tox";
     license = "MIT";
-    publisher = "the-compiler";
+    name = "python-tox";
     description = "Integrates the tox task automation tool";
+    publisher = "the-compiler";
   };
   theangryepicbanana-language-io = {
     pname = "theangryepicbanana-language-io";
@@ -18488,10 +18524,10 @@
       url = "https://open-vsx.org/api/theangryepicbanana/language-io/0.1.3/file/theangryepicbanana.language-io-0.1.3.vsix";
       sha256 = "sha256-n8d8cJba0c87vhTx4yIyQkB3BRyo8VK61qnX4EoM2eg=";
     };
-    name = "language-io";
     license = "MIT";
-    publisher = "theangryepicbanana";
+    name = "language-io";
     description = "High-quality syntax highlighting for the Io programming language";
+    publisher = "theangryepicbanana";
   };
   theangryepicbanana-language-pascal = {
     pname = "theangryepicbanana-language-pascal";
@@ -18500,10 +18536,10 @@
       url = "https://open-vsx.org/api/theangryepicbanana/language-pascal/0.1.6/file/theangryepicbanana.language-pascal-0.1.6.vsix";
       sha256 = "sha256-H81vgg0OxQ5NhCEgxhhzvEUrpq0RrA3Ud9l21UKnH+4=";
     };
-    name = "language-pascal";
     license = "MIT";
-    publisher = "theangryepicbanana";
+    name = "language-pascal";
     description = "High-quality Pascal highlighting";
+    publisher = "theangryepicbanana";
   };
   theo-coder-the-best-theme = {
     pname = "theo-coder-the-best-theme";
@@ -18512,10 +18548,10 @@
       url = "https://open-vsx.org/api/theo-coder/the-best-theme/2.1.3/file/theo-coder.the-best-theme-2.1.3.vsix";
       sha256 = "sha256-F4zCNSL4BVMCXVFPUAPrvaVc0CX6VvuKl1G7g1MWXnY=";
     };
-    name = "the-best-theme";
     license = "MIT";
-    publisher = "theo-coder";
+    name = "the-best-theme";
     description = "The one and only theme for VS Code";
+    publisher = "theo-coder";
   };
   thiht-vscode-venom = {
     pname = "thiht-vscode-venom";
@@ -18524,10 +18560,10 @@
       url = "https://open-vsx.org/api/thiht/vscode-venom/0.0.4/file/thiht.vscode-venom-0.0.4.vsix";
       sha256 = "sha256-t2qhJhrR7VJdYv2ZM+9YxmJ6sboj6hP5AbYGshftC30=";
     };
-    name = "vscode-venom";
     license = "MIT";
-    publisher = "thiht";
+    name = "vscode-venom";
     description = "Venom integration with Visual Studio Code";
+    publisher = "thiht";
   };
   thingalon-pony-ssh = {
     pname = "thingalon-pony-ssh";
@@ -18536,10 +18572,10 @@
       url = "https://open-vsx.org/api/thingalon/pony-ssh/0.5.0/file/thingalon.pony-ssh-0.5.0.vsix";
       sha256 = "sha256-H1czhct4Nw7WxFJXK/8KONUtqjJz7w1nbOQfZ12X+8g=";
     };
-    name = "pony-ssh";
     license = "MIT";
-    publisher = "thingalon";
+    name = "pony-ssh";
     description = "Blazingly fast SSH editing for Visual Studio Code";
+    publisher = "thingalon";
   };
   this-fifo-natty = {
     pname = "this-fifo-natty";
@@ -18548,10 +18584,10 @@
       url = "https://open-vsx.org/api/this-fifo/natty/0.0.2/file/this-fifo.natty-0.0.2.vsix";
       sha256 = "sha256-0VEbePtGsTEkU2oZE7RBrYeGWAEDA5YdBVLmyWBxNBA=";
     };
-    name = "natty";
     license = "MIT";
-    publisher = "this-fifo";
+    name = "natty";
     description = "Like snazzy but natty";
+    publisher = "this-fifo";
   };
   thomasballinger-endless-sky-vscode = {
     pname = "thomasballinger-endless-sky-vscode";
@@ -18560,10 +18596,10 @@
       url = "https://open-vsx.org/api/thomasballinger/endless-sky-vscode/0.5.2/file/thomasballinger.endless-sky-vscode-0.5.2.vsix";
       sha256 = "sha256-PkLKidhA4Oun6SvVitelxCEby2Mp/cTcH1v74u/szCk=";
     };
-    name = "endless-sky-vscode";
     license = "GPL-3.0-or-later";
-    publisher = "thomasballinger";
+    name = "endless-sky-vscode";
     description = "Endless Sky data file support";
+    publisher = "thomasballinger";
   };
   tiabeast-vscode-bait = {
     pname = "tiabeast-vscode-bait";
@@ -18572,10 +18608,10 @@
       url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.2/file/tiabeast.vscode-bait-0.2.2.vsix";
       sha256 = "sha256-zWHjBJGh5PQHZfgCQze9KfirmsD9BvWNRUX5cF6DmaU=";
     };
-    name = "vscode-bait";
     license = "MIT";
-    publisher = "tiabeast";
+    name = "vscode-bait";
     description = "Provides rich language support for the bait programming language.";
+    publisher = "tiabeast";
   };
   tiehuis-zig = {
     pname = "tiehuis-zig";
@@ -18584,10 +18620,10 @@
       url = "https://open-vsx.org/api/tiehuis/zig/0.2.5/file/tiehuis.zig-0.2.5.vsix";
       sha256 = "sha256-U29Yivq0EQ/gerj5LzUsD6ltlPRcBSnC2u62aR89uek=";
     };
-    name = "zig";
     license = "MIT";
-    publisher = "tiehuis";
+    name = "zig";
     description = "Language support for the Zig programming language";
+    publisher = "tiehuis";
   };
   timdmackey-mechanic-liquid = {
     pname = "timdmackey-mechanic-liquid";
@@ -18596,10 +18632,10 @@
       url = "https://open-vsx.org/api/timdmackey/mechanic-liquid/0.0.18/file/timdmackey.mechanic-liquid-0.0.18.vsix";
       sha256 = "sha256-irXvUB6dIIkkgTpOtRC8OrYoN1IhITI2BsGtkTte5Bo=";
     };
-    name = "mechanic-liquid";
     license = "LICENSE.md";
-    publisher = "timdmackey";
+    name = "mechanic-liquid";
     description = "Provides syntax highlighting and code snippets for Mechanic-flavored Liquid";
+    publisher = "timdmackey";
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
@@ -18608,10 +18644,10 @@
       url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.4/file/timonwong.shellcheck-0.19.4.vsix";
       sha256 = "sha256-v/h7OvWbbQ9Ajf+etE9wPqFmSZe8lgZ60EIQUQDRKdo=";
     };
-    name = "shellcheck";
     license = "MIT";
-    publisher = "timonwong";
+    name = "shellcheck";
     description = "Integrates ShellCheck into VS Code, a linter for Shell scripts.";
+    publisher = "timonwong";
   };
   tinkerun-tinkerun-vscode = {
     pname = "tinkerun-tinkerun-vscode";
@@ -18620,10 +18656,10 @@
       url = "https://open-vsx.org/api/tinkerun/tinkerun-vscode/0.2.2/file/tinkerun.tinkerun-vscode-0.2.2.vsix";
       sha256 = "sha256-m6GGB15cfzZ4VY6r4Tif+4bSfygdXYRSbHsvipzy6sU=";
     };
-    name = "tinkerun-vscode";
     license = "MIT";
-    publisher = "tinkerun";
+    name = "tinkerun-vscode";
     description = "A Missing way of running Tinker in Visual Studio Code";
+    publisher = "tinkerun";
   };
   tintoy-msbuild-project-tools = {
     pname = "tintoy-msbuild-project-tools";
@@ -18632,10 +18668,10 @@
       url = "https://open-vsx.org/api/tintoy/msbuild-project-tools/0.4.3/file/tintoy.msbuild-project-tools-0.4.3.vsix";
       sha256 = "sha256-8CPSblIikBppGtK2SQ9KzyBRogxjAkQTdQVAwBmI7wE=";
     };
-    name = "msbuild-project-tools";
     license = "MIT";
-    publisher = "tintoy";
+    name = "msbuild-project-tools";
     description = "Tools for working with MSBuild project files (such as auto-complete for package Ids / versions).";
+    publisher = "tintoy";
   };
   tmrdh-symfony-helper = {
     pname = "tmrdh-symfony-helper";
@@ -18644,10 +18680,10 @@
       url = "https://open-vsx.org/api/tmrdh/symfony-helper/1.0.8/file/tmrdh.symfony-helper-1.0.8.vsix";
       sha256 = "sha256-fGbMPd0PicDApRuy1k0G4KBWtwVLYlLLobg9oFRWRm0=";
     };
-    name = "symfony-helper";
     license = "GPL-3.0";
-    publisher = "tmrdh";
+    name = "symfony-helper";
     description = "Support for Twig and DQL in any PHP project. Special support for Symfony projects.";
+    publisher = "tmrdh";
   };
   toem-de-impulse = {
     pname = "toem-de-impulse";
@@ -18656,10 +18692,10 @@
       url = "https://open-vsx.org/api/toem-de/impulse/0.3.5/file/toem-de.impulse-0.3.5.vsix";
       sha256 = "sha256-UCx/583ScUzPyC4BrfzY7ZlDkUNEp5U5lfRmGi4BxRM=";
     };
-    name = "impulse";
     license = "";
-    publisher = "toem-de";
+    name = "impulse";
     description = "impulse is a visualization and analysis workbench which helps engineers to comfortably understand and debug complex semiconductor and multi-core software systems.";
+    publisher = "toem-de";
   };
   toit-toit = {
     pname = "toit-toit";
@@ -18668,10 +18704,10 @@
       url = "https://open-vsx.org/api/toit/toit/1.6.0/file/toit.toit-1.6.0.vsix";
       sha256 = "sha256-pSk5LkmflkRvyX5A+XzFtWLSHwq7E/vfFBhgV0VdA+c=";
     };
-    name = "toit";
     license = "MIT";
-    publisher = "toit";
+    name = "toit";
     description = "Toit Programming Language Support";
+    publisher = "toit";
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
@@ -18680,10 +18716,10 @@
       url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.73.0/file/tokiwa-software.fuzion-lang-0.73.0.vsix";
       sha256 = "sha256-p9KE6JwVyycLr3Qu2VDN9en0QMdsIKAHrus3XhHnzVg=";
     };
-    name = "fuzion-lang";
     license = "MIT";
-    publisher = "tokiwa-software";
+    name = "fuzion-lang";
     description = "Supports the development in the Fuzion programming language";
+    publisher = "tokiwa-software";
   };
   tomWritesCode-raspberrycandy = {
     pname = "tomWritesCode-raspberrycandy";
@@ -18692,10 +18728,10 @@
       url = "https://open-vsx.org/api/tomWritesCode/raspberrycandy/0.0.6/file/tomWritesCode.raspberrycandy-0.0.6.vsix";
       sha256 = "sha256-unz3HSTV9Ei9yuyobQVybnFmuccJ0xHyf10SZXntg+4=";
     };
-    name = "raspberrycandy";
     license = "MIT";
-    publisher = "tomWritesCode";
+    name = "raspberrycandy";
     description = "Pastel/Neon colour theme.";
+    publisher = "tomWritesCode";
   };
   tomblind-local-lua-debugger-vscode = {
     pname = "tomblind-local-lua-debugger-vscode";
@@ -18704,10 +18740,10 @@
       url = "https://open-vsx.org/api/tomblind/local-lua-debugger-vscode/0.3.3/file/tomblind.local-lua-debugger-vscode-0.3.3.vsix";
       sha256 = "sha256-hM1CgxJFn19RHZjpvtkU+5z/gozBMstVrAWHIlsmc7o=";
     };
-    name = "local-lua-debugger-vscode";
     license = "MIT";
-    publisher = "tomblind";
+    name = "local-lua-debugger-vscode";
     description = "Local Lua Debugger - simple Lua debugger with no dependencies";
+    publisher = "tomblind";
   };
   tombonnike-vscode-status-bar-format-toggle = {
     pname = "tombonnike-vscode-status-bar-format-toggle";
@@ -18716,10 +18752,10 @@
       url = "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.0.0/file/tombonnike.vscode-status-bar-format-toggle-3.0.0.vsix";
       sha256 = "sha256-yXCrF1YDQnoiMsVgoARyA/pP5UwoW8r/v82fV2o78M4=";
     };
-    name = "vscode-status-bar-format-toggle";
     license = "MIT";
-    publisher = "tombonnike";
+    name = "vscode-status-bar-format-toggle";
     description = "A VS Code extension that allows you to toggle formatting settings ON and OFF with a simple click.";
+    publisher = "tombonnike";
   };
   tomi-greenblue-theme = {
     pname = "tomi-greenblue-theme";
@@ -18728,10 +18764,10 @@
       url = "https://open-vsx.org/api/tomi/greenblue-theme/0.2.3/file/tomi.greenblue-theme-0.2.3.vsix";
       sha256 = "sha256-jtxPt0U/4njczsHscMizD6ZiTVi4e2Yu6irDOZFudW0=";
     };
-    name = "greenblue-theme";
     license = "ISC";
-    publisher = "tomi";
+    name = "greenblue-theme";
     description = "Just a simple green-blue theme with dark background.";
+    publisher = "tomi";
   };
   tomi-xa-style-snippets = {
     pname = "tomi-xa-style-snippets";
@@ -18740,10 +18776,10 @@
       url = "https://open-vsx.org/api/tomi/xa-style-snippets/1.4.0/file/tomi.xa-style-snippets-1.4.0.vsix";
       sha256 = "sha256-IlhDREJo/phqiNkcRuZmqLHxrELDub4A9tniIYteQp0=";
     };
-    name = "xa-style-snippets";
     license = "ISC";
-    publisher = "tomi";
+    name = "xa-style-snippets";
     description = "Less/Scss code snippets for xa-inputs private package, etc...";
+    publisher = "tomi";
   };
   tomi-xajssnippets = {
     pname = "tomi-xajssnippets";
@@ -18752,10 +18788,10 @@
       url = "https://open-vsx.org/api/tomi/xajssnippets/1.2.0/file/tomi.xajssnippets-1.2.0.vsix";
       sha256 = "sha256-kIHQ2swFlfiyXpNQqViEgxK5Q9AMw26Oz8jaLmESr1g=";
     };
-    name = "xajssnippets";
     license = "ISC";
-    publisher = "tomi";
+    name = "xajssnippets";
     description = "React-javascript code snippets.";
+    publisher = "tomi";
   };
   tomi-xalesssnippets = {
     pname = "tomi-xalesssnippets";
@@ -18764,10 +18800,10 @@
       url = "https://open-vsx.org/api/tomi/xalesssnippets/1.3.0/file/tomi.xalesssnippets-1.3.0.vsix";
       sha256 = "sha256-w/daaoqzw2r7lIKWE3OcBTbRcAiMpD6e8/dGf2pMnDM=";
     };
-    name = "xalesssnippets";
     license = "ISC";
-    publisher = "tomi";
+    name = "xalesssnippets";
     description = "Less code snippets for xa-inputs private package.";
+    publisher = "tomi";
   };
   tomi-xasnippets = {
     pname = "tomi-xasnippets";
@@ -18776,10 +18812,10 @@
       url = "https://open-vsx.org/api/tomi/xasnippets/2.13.1/file/tomi.xasnippets-2.13.1.vsix";
       sha256 = "sha256-4EKaTrGArHzIhHkAKbvnbVyHU6ShhRE7y1iyHIRStQQ=";
     };
-    name = "xasnippets";
     license = "ISC";
-    publisher = "tomi";
+    name = "xasnippets";
     description = "React-typescript code snippets for XAcademy.";
+    publisher = "tomi";
   };
   tomoki1207-pdf = {
     pname = "tomoki1207-pdf";
@@ -18788,10 +18824,10 @@
       url = "https://open-vsx.org/api/tomoki1207/pdf/1.1.0/file/tomoki1207.pdf-1.1.0.vsix";
       sha256 = "sha256-ARthA9WdV1a7TUOZFgPcjPKNPqNpIQiNJBEzEWbBRPA=";
     };
-    name = "pdf";
     license = "";
-    publisher = "tomoki1207";
+    name = "pdf";
     description = "Display pdf file in VSCode.";
+    publisher = "tomoki1207";
   };
   tonka3000-qtvsctools = {
     pname = "tonka3000-qtvsctools";
@@ -18800,10 +18836,10 @@
       url = "https://open-vsx.org/api/tonka3000/qtvsctools/0.11.0/file/tonka3000.qtvsctools-0.11.0.vsix";
       sha256 = "sha256-M5xDAbN1vPkEIFAPX6F41q8Q1/Uu6SPyTBFyJWWDy9c=";
     };
-    name = "qtvsctools";
     license = "MIT";
-    publisher = "tonka3000";
+    name = "qtvsctools";
     description = "Qt tools support for VSCode";
+    publisher = "tonka3000";
   };
   tonsky-theme-alabaster = {
     pname = "tonsky-theme-alabaster";
@@ -18812,10 +18848,10 @@
       url = "https://open-vsx.org/api/tonsky/theme-alabaster/0.2.9/file/tonsky.theme-alabaster-0.2.9.vsix";
       sha256 = "sha256-MiN8eQajJRmTVpA2J9oKme2VY55EUUd9PW5qG6IiSO4=";
     };
-    name = "theme-alabaster";
     license = "MIT";
-    publisher = "tonsky";
+    name = "theme-alabaster";
     description = "";
+    publisher = "tonsky";
   };
   tonybaloney-vscode-pets = {
     pname = "tonybaloney-vscode-pets";
@@ -18824,10 +18860,10 @@
       url = "https://open-vsx.org/api/tonybaloney/vscode-pets/1.9.1/file/tonybaloney.vscode-pets-1.9.1.vsix";
       sha256 = "sha256-IZkGFHtlU+dNrUiMObRJq3SahVB2EamuONVIGgo6vNU=";
     };
-    name = "vscode-pets";
     license = "MIT";
-    publisher = "tonybaloney";
+    name = "vscode-pets";
     description = "Pets for your VS Code";
+    publisher = "tonybaloney";
   };
   torn4dom4n-latex-support = {
     pname = "torn4dom4n-latex-support";
@@ -18836,10 +18872,10 @@
       url = "https://open-vsx.org/api/torn4dom4n/latex-support/4.0.0/file/torn4dom4n.latex-support-4.0.0.vsix";
       sha256 = "sha256-R0lEBy5UQn00ZiAt+Us6WXdPV94os1p14EiOoFBHNuw=";
     };
-    name = "latex-support";
     license = "MIT";
-    publisher = "torn4dom4n";
+    name = "latex-support";
     description = "LaTeX language support for Visual Studio Code";
+    publisher = "torn4dom4n";
   };
   toroxx-tx-neon = {
     pname = "toroxx-tx-neon";
@@ -18848,10 +18884,10 @@
       url = "https://open-vsx.org/api/toroxx/tx-neon/0.1.3/file/toroxx.tx-neon-0.1.3.vsix";
       sha256 = "sha256-uSQZ+3DWsDxeTU5bR7FNH+hzgX2GpS9ZJv9dXtFjAsA=";
     };
-    name = "tx-neon";
     license = "MIT";
-    publisher = "toroxx";
+    name = "tx-neon";
     description = "Neon color themes by Lawrence Lau";
+    publisher = "toroxx";
   };
   toroxx-vscode-avdmanager = {
     pname = "toroxx-vscode-avdmanager";
@@ -18860,10 +18896,10 @@
       url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.2.1/file/toroxx.vscode-avdmanager-1.2.1.vsix";
       sha256 = "sha256-t8YSJTrdH/CVOMG6hsoY/LQ+IXPbyyk+sbJoMT+qz7o=";
     };
-    name = "vscode-avdmanager";
     license = "MIT";
-    publisher = "toroxx";
+    name = "vscode-avdmanager";
     description = "Android Virtual Device Manager for VSCode";
+    publisher = "toroxx";
   };
   trallard-pitaya-smoothie = {
     pname = "trallard-pitaya-smoothie";
@@ -18872,10 +18908,10 @@
       url = "https://open-vsx.org/api/trallard/pitaya-smoothie/2.0.1/file/trallard.pitaya-smoothie-2.0.1.vsix";
       sha256 = "sha256-iWLK+uEzid8pszhaowuQRUWJ9hq64Jivtrhz3BKMf9c=";
     };
-    name = "pitaya-smoothie";
     license = "";
-    publisher = "trallard";
+    name = "pitaya-smoothie";
     description = "A dark editor theme with handpicked colours and heavily inspired by the ultraviolet colour (colour of the year 2018) and Outrun aesthetics. A theme with contrast and accessibility for colourblindess in mind.";
+    publisher = "trallard";
   };
   travis-simple-dark = {
     pname = "travis-simple-dark";
@@ -18884,10 +18920,10 @@
       url = "https://open-vsx.org/api/travis/simple-dark/1.0.1/file/travis.simple-dark-1.0.1.vsix";
       sha256 = "sha256-+CsvziaFTZz2fkLf4LFVGAaQjDAoG+N9HwGqsFL/X9I=";
     };
-    name = "simple-dark";
     license = "MIT";
-    publisher = "travis";
+    name = "simple-dark";
     description = "Dark theme for VS Code";
+    publisher = "travis";
   };
   tremorproject-tremor-language-features = {
     pname = "tremorproject-tremor-language-features";
@@ -18896,10 +18932,10 @@
       url = "https://open-vsx.org/api/tremorproject/tremor-language-features/0.12.0/file/tremorproject.tremor-language-features-0.12.0.vsix";
       sha256 = "sha256-GLjRYbFXz9vDWPj3d/8+B3J/ogOwlY9Rpk+tvJ1eEkI=";
     };
-    name = "tremor-language-features";
     license = "Apache-2.0";
-    publisher = "tremorproject";
+    name = "tremor-language-features";
     description = "Provides rich language support for Tremor's languages";
+    publisher = "tremorproject";
   };
   trixnz-go-to-method = {
     pname = "trixnz-go-to-method";
@@ -18908,10 +18944,10 @@
       url = "https://open-vsx.org/api/trixnz/go-to-method/0.2.0/file/trixnz.go-to-method-0.2.0.vsix";
       sha256 = "sha256-zTctziY+lgrrw9xFNw/LSr8EV3/PPrXtuQBXTuR+AAo=";
     };
-    name = "go-to-method";
     license = "MIT";
-    publisher = "trixnz";
+    name = "go-to-method";
     description = "Adds the ability to go to only method symbols declared in the active document";
+    publisher = "trixnz";
   };
   trond-snekvik-simple-rst = {
     pname = "trond-snekvik-simple-rst";
@@ -18920,10 +18956,10 @@
       url = "https://open-vsx.org/api/trond-snekvik/simple-rst/1.5.2/file/trond-snekvik.simple-rst-1.5.2.vsix";
       sha256 = "sha256-pV7/S8kkDIbhD2K5P2TA8E0pM4F8gsFIlc+4FIheBbc=";
     };
-    name = "simple-rst";
     license = "MIT";
-    publisher = "trond-snekvik";
+    name = "simple-rst";
     description = "Syntax highlighting and document symbols for reStructuredText";
+    publisher = "trond-snekvik";
   };
   tumido-crd-snippets = {
     pname = "tumido-crd-snippets";
@@ -18932,10 +18968,10 @@
       url = "https://open-vsx.org/api/tumido/crd-snippets/1.1.0/file/tumido.crd-snippets-1.1.0.vsix";
       sha256 = "sha256-m07/uL5vK1P2YTiKWgDDSlzpiiCoimKfuapYCnniaiw=";
     };
-    name = "crd-snippets";
     license = "GPL-3.0-or-later";
-    publisher = "tumido";
+    name = "crd-snippets";
     description = "Snippets for popular Kubernetes Custom Resources";
+    publisher = "tumido";
   };
   tumido-cron-explained = {
     pname = "tumido-cron-explained";
@@ -18944,10 +18980,10 @@
       url = "https://open-vsx.org/api/tumido/cron-explained/1.3.1/file/tumido.cron-explained-1.3.1.vsix";
       sha256 = "sha256-uvYifeVgLFt3Kwc3eEQHCq5Nd7VGb2RrtDMGyEeWyLs=";
     };
-    name = "cron-explained";
     license = "GPL-3.0-or-later";
-    publisher = "tumido";
+    name = "cron-explained";
     description = "Translate cron-like schedules to a readable format";
+    publisher = "tumido";
   };
   tuto193-monokai-vibrant = {
     pname = "tuto193-monokai-vibrant";
@@ -18956,10 +18992,10 @@
       url = "https://open-vsx.org/api/tuto193/monokai-vibrant/0.5.2/file/tuto193.monokai-vibrant-0.5.2.vsix";
       sha256 = "sha256-YeICnWZLx46YgE8MBJEbi3xJcWKpORsQ04DxcfWuOSA=";
     };
-    name = "monokai-vibrant";
     license = "MIT";
-    publisher = "tuto193";
+    name = "monokai-vibrant";
     description = "A very dark and overly vibrant Monokai theme with italicized keywords and operators.";
+    publisher = "tuto193";
   };
   tuttieee-emacs-mcx = {
     pname = "tuttieee-emacs-mcx";
@@ -18968,10 +19004,10 @@
       url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.0/file/tuttieee.emacs-mcx-0.44.0.vsix";
       sha256 = "sha256-+oVFJFnyhTExAuCKf84CifPygyuu+HOFX5FMGD76Sk0=";
     };
-    name = "emacs-mcx";
     license = "MIT";
-    publisher = "tuttieee";
+    name = "emacs-mcx";
     description = "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes.";
+    publisher = "tuttieee";
   };
   tuxtina-json2yaml = {
     pname = "tuxtina-json2yaml";
@@ -18980,10 +19016,10 @@
       url = "https://open-vsx.org/api/tuxtina/json2yaml/0.2.0/file/tuxtina.json2yaml-0.2.0.vsix";
       sha256 = "sha256-qNb/CxwAv3zuGusrsv+4dcfGi5OCIunI4aEZlTvNBZw=";
     };
-    name = "json2yaml";
     license = "MIT";
-    publisher = "tuxtina";
+    name = "json2yaml";
     description = "Convert JSON to YAML, and YAML to JSON.";
+    publisher = "tuxtina";
   };
   twilsoft-old-friend-vs-keybindings = {
     pname = "twilsoft-old-friend-vs-keybindings";
@@ -18992,10 +19028,10 @@
       url = "https://open-vsx.org/api/twilsoft/old-friend-vs-keybindings/0.0.3/file/twilsoft.old-friend-vs-keybindings-0.0.3.vsix";
       sha256 = "sha256-ag8NvCY9i/F2vLIgP6RC3qVfdU9cvK5K9mnmzJYCAvI=";
     };
-    name = "old-friend-vs-keybindings";
     license = "";
-    publisher = "twilsoft";
+    name = "old-friend-vs-keybindings";
     description = "Popular Visual Studio keybindings for VS Code.";
+    publisher = "twilsoft";
   };
   twxs-cmake = {
     pname = "twxs-cmake";
@@ -19004,10 +19040,10 @@
       url = "https://open-vsx.org/api/twxs/cmake/0.0.17/file/twxs.cmake-0.0.17.vsix";
       sha256 = "sha256-8qxKRUiv6xfbjQQRvqXcg19ZB6PnVdhNxvFkKIKT7b4=";
     };
-    name = "cmake";
     license = "MIT";
-    publisher = "twxs";
+    name = "cmake";
     description = "CMake language support for Visual Studio Code";
+    publisher = "twxs";
   };
   tym-inc-tym = {
     pname = "tym-inc-tym";
@@ -19016,10 +19052,10 @@
       url = "https://open-vsx.org/api/tym-inc/tym/1.0.4/file/tym-inc.tym-1.0.4.vsix";
       sha256 = "sha256-a32BRfRMIA4ToYhvg66lPb/xtRTTG9bsJqi1O+0CXPY=";
     };
-    name = "tym";
     license = "MIT";
-    publisher = "tym-inc";
+    name = "tym";
     description = "Share your code context in one-click";
+    publisher = "tym-inc";
   };
   typefox-states-extension = {
     pname = "typefox-states-extension";
@@ -19028,10 +19064,10 @@
       url = "https://open-vsx.org/api/typefox/states-extension/0.0.24/file/typefox.states-extension-0.0.24.vsix";
       sha256 = "sha256-ugJ7jst9/DskCxNg9K82s2D7caJ9Vg2mUPzd2SxoCNI=";
     };
-    name = "states-extension";
     license = "EPL-2.0";
-    publisher = "typefox";
+    name = "states-extension";
     description = "An example Xtext-based DSL with Sprotty diagrams for statemachines";
+    publisher = "typefox";
   };
   typefox-vscode-xtext-sprotty-example = {
     pname = "typefox-vscode-xtext-sprotty-example";
@@ -19040,10 +19076,10 @@
       url = "https://open-vsx.org/api/typefox/vscode-xtext-sprotty-example/0.0.5/file/typefox.vscode-xtext-sprotty-example-0.0.5.vsix";
       sha256 = "sha256-dwhTiYl2OKNiAdvNKgZ8E20OrD6rmWant5tpirXH/pg=";
     };
-    name = "vscode-xtext-sprotty-example";
     license = "EPL-2.0";
-    publisher = "typefox";
+    name = "vscode-xtext-sprotty-example";
     description = "An example Xtext-based DSL with Sprotty diagrams for statemachines";
+    publisher = "typefox";
   };
   typefox-yang-vscode = {
     pname = "typefox-yang-vscode";
@@ -19052,10 +19088,10 @@
       url = "https://open-vsx.org/api/typefox/yang-vscode/2.1.0/file/typefox.yang-vscode-2.1.0.vsix";
       sha256 = "sha256-1KOBab5Zt8Nb6vyT/+sQnGuhvphuNjf4rVP3lB000WA=";
     };
-    name = "yang-vscode";
     license = "Apache-2.0";
-    publisher = "typefox";
+    name = "yang-vscode";
     description = "Yang editor support and diagrams for VS Code";
+    publisher = "typefox";
   };
   uloco-theme-bluloco-dark = {
     pname = "uloco-theme-bluloco-dark";
@@ -19064,10 +19100,10 @@
       url = "https://open-vsx.org/api/uloco/theme-bluloco-dark/3.6.0/file/uloco.theme-bluloco-dark-3.6.0.vsix";
       sha256 = "sha256-MaT2AyYgmwNqvw5oCLUvIIphCUIHKt3KqUYxpnQRWAA=";
     };
-    name = "theme-bluloco-dark";
     license = "LGPL-3.0";
-    publisher = "uloco";
+    name = "theme-bluloco-dark";
     description = "A fancy but yet sophisticated dark designer color scheme / theme.";
+    publisher = "uloco";
   };
   uloco-theme-bluloco-light = {
     pname = "uloco-theme-bluloco-light";
@@ -19076,10 +19112,10 @@
       url = "https://open-vsx.org/api/uloco/theme-bluloco-light/3.6.0/file/uloco.theme-bluloco-light-3.6.0.vsix";
       sha256 = "sha256-b4t1TciA/XfrllHo3Ch0iMATI5lKCxO3Bksq/wQrvks=";
     };
-    name = "theme-bluloco-light";
     license = "LGPL-3.0";
-    publisher = "uloco";
+    name = "theme-bluloco-light";
     description = "A fancy but yet sophisticated light designer color scheme / theme.";
+    publisher = "uloco";
   };
   ultram4rine-sqltools-clickhouse-driver = {
     pname = "ultram4rine-sqltools-clickhouse-driver";
@@ -19088,10 +19124,10 @@
       url = "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.2/file/ultram4rine.sqltools-clickhouse-driver-0.2.2.vsix";
       sha256 = "sha256-dvJl+KXd/gxD9SRDSqSS6+NfoEWbwrKQ+cA0mDwOxqM=";
     };
-    name = "sqltools-clickhouse-driver";
     license = "MIT";
-    publisher = "ultram4rine";
+    name = "sqltools-clickhouse-driver";
     description = "SQLTools driver for ClickHouse";
+    publisher = "ultram4rine";
   };
   ultram4rine-vscode-choosealicense = {
     pname = "ultram4rine-vscode-choosealicense";
@@ -19100,10 +19136,10 @@
       url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.2/file/ultram4rine.vscode-choosealicense-0.6.2.vsix";
       sha256 = "sha256-eGMbw6mT8WI2wuPRta4ZP8Ker2eql3IzFMe4UB5JYm8=";
     };
-    name = "vscode-choosealicense";
     license = "MIT";
-    publisher = "ultram4rine";
+    name = "vscode-choosealicense";
     description = "Choose a license for your project in VS Code";
+    publisher = "ultram4rine";
   };
   umbo-vscode-velociraptor = {
     pname = "umbo-vscode-velociraptor";
@@ -19112,10 +19148,10 @@
       url = "https://open-vsx.org/api/umbo/vscode-velociraptor/1.1.0/file/umbo.vscode-velociraptor-1.1.0.vsix";
       sha256 = "sha256-IoOyC+3rqpDlIiJP/TcQach+haIiRlPaEvR8WbGTtxg=";
     };
-    name = "vscode-velociraptor";
     license = "MIT";
-    publisher = "umbo";
+    name = "vscode-velociraptor";
     description = "Velociraptor support for VSCode";
+    publisher = "umbo";
   };
   unoplatform-vscode = {
     pname = "unoplatform-vscode";
@@ -19124,10 +19160,10 @@
       url = "https://open-vsx.org/api/unoplatform/vscode/0.4.0/file/unoplatform.vscode-0.4.0.vsix";
       sha256 = "sha256-0pVneHdhdV8EnBClBeFvSyPW30xFc0Iwnc5RWqDrw+M=";
     };
-    name = "vscode";
     license = "";
-    publisher = "unoplatform";
+    name = "vscode";
     description = "Uno Platform Projects XAML Completion and Hot Reload support for VS Code";
+    publisher = "unoplatform";
   };
   unthrottled-doki-theme = {
     pname = "unthrottled-doki-theme";
@@ -19136,10 +19172,10 @@
       url = "https://open-vsx.org/api/unthrottled/doki-theme/78.1.2/file/unthrottled.doki-theme-78.1.2.vsix";
       sha256 = "sha256-zu+xh2whU2Z5nTjPmHo+1A3LoWNu+7IHBJwTfd2lP6k=";
     };
-    name = "doki-theme";
     license = "MIT";
-    publisher = "unthrottled";
+    name = "doki-theme";
     description = "Cute anime character themes!";
+    publisher = "unthrottled";
   };
   usernamehw-autolink = {
     pname = "usernamehw-autolink";
@@ -19148,10 +19184,10 @@
       url = "https://open-vsx.org/api/usernamehw/autolink/0.0.1/file/usernamehw.autolink-0.0.1.vsix";
       sha256 = "sha256-K54v1R8pnZBiFnQI5VXO5CE6UfTlC9+N4yq/JSK7bE4=";
     };
-    name = "autolink";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "autolink";
     description = "Make exernal links from editor text.";
+    publisher = "usernamehw";
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
@@ -19160,10 +19196,10 @@
       url = "https://open-vsx.org/api/usernamehw/commands/1.2.2/file/usernamehw.commands-1.2.2.vsix";
       sha256 = "sha256-hwYc171ceejp3eaZHtTgC65vtfsp0JjZ09THZJMey9I=";
     };
-    name = "commands";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "commands";
     description = "Run commands from Tree View / Status Bar / Quick Pick.";
+    publisher = "usernamehw";
   };
   usernamehw-errorlens = {
     pname = "usernamehw-errorlens";
@@ -19172,10 +19208,10 @@
       url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.1/file/usernamehw.errorlens-3.5.1.vsix";
       sha256 = "sha256-eRJiCVZTUzy8xnYG7CTFmHxl8TU26lIzvVoeOXWcx68=";
     };
-    name = "errorlens";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "errorlens";
     description = "Improve highlighting of errors, warnings and other language diagnostics.";
+    publisher = "usernamehw";
   };
   usernamehw-find-jump = {
     pname = "usernamehw-find-jump";
@@ -19184,10 +19220,10 @@
       url = "https://open-vsx.org/api/usernamehw/find-jump/0.6.2/file/usernamehw.find-jump-0.6.2.vsix";
       sha256 = "sha256-D8Oy8oz61523Pu3qyOwx2vEI5N7lwUOstLuFLD1/O1E=";
     };
-    name = "find-jump";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "find-jump";
     description = "Like Ace Jump, but better. Quickly move cursor to visible location";
+    publisher = "usernamehw";
   };
   usernamehw-indent-one-space = {
     pname = "usernamehw-indent-one-space";
@@ -19196,10 +19232,10 @@
       url = "https://open-vsx.org/api/usernamehw/indent-one-space/0.2.7/file/usernamehw.indent-one-space-0.2.7.vsix";
       sha256 = "sha256-XJFI6EoJmDVXwTsc7sI+6WmVX/u6Ahq1YlJhke8YUZg=";
     };
-    name = "indent-one-space";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "indent-one-space";
     description = "Move code to left or right with a distance of one whitespace";
+    publisher = "usernamehw";
   };
   usernamehw-prism = {
     pname = "usernamehw-prism";
@@ -19208,10 +19244,10 @@
       url = "https://open-vsx.org/api/usernamehw/prism/1.0.8/file/usernamehw.prism-1.0.8.vsix";
       sha256 = "sha256-a0rk/VhTAvyT+Xum4MWgejkccfHvmpRw1cyBu0wWmTU=";
     };
-    name = "prism";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "prism";
     description = "Light theme for ... eyes or something.";
+    publisher = "usernamehw";
   };
   usernamehw-remove-empty-lines = {
     pname = "usernamehw-remove-empty-lines";
@@ -19220,10 +19256,10 @@
       url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.11/file/usernamehw.remove-empty-lines-0.0.11.vsix";
       sha256 = "sha256-thXqD6WvEJ3l3jWWWtVq5qtACO/upT7bEkQd7dy3V6M=";
     };
-    name = "remove-empty-lines";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "remove-empty-lines";
     description = "Remove blank lines from document or selection.";
+    publisher = "usernamehw";
   };
   usernamehw-theme-generator = {
     pname = "usernamehw-theme-generator";
@@ -19232,10 +19268,10 @@
       url = "https://open-vsx.org/api/usernamehw/theme-generator/0.0.5/file/usernamehw.theme-generator-0.0.5.vsix";
       sha256 = "sha256-T1CtnEe7PXxdUelEbPm7pqkxuqNh0zjG8jpEK8wnFIg=";
     };
-    name = "theme-generator";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "theme-generator";
     description = "Try to generate a color theme.";
+    publisher = "usernamehw";
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
@@ -19244,10 +19280,10 @@
       url = "https://open-vsx.org/api/usernamehw/todo-md/2.11.0/file/usernamehw.todo-md-2.11.0.vsix";
       sha256 = "sha256-JBC1AJfFwfFNY2fZNpcb7POjqI7cdqTy6vkp+nUdE5s=";
     };
-    name = "todo-md";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "todo-md";
     description = "Todo tracking based on `todo.txt` format.";
+    publisher = "usernamehw";
   };
   usernamehw-vscode-join-lines = {
     pname = "usernamehw-vscode-join-lines";
@@ -19256,10 +19292,10 @@
       url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.1/file/usernamehw.vscode-join-lines-0.1.1.vsix";
       sha256 = "sha256-12pgXwXklrx8X770M39KO2QDo8J8dNG88YDhMRksEvs=";
     };
-    name = "vscode-join-lines";
     license = "MIT";
-    publisher = "usernamehw";
+    name = "vscode-join-lines";
     description = "Join Lines in editor (with custom separator)";
+    publisher = "usernamehw";
   };
   vadimcn-vscode-lldb = {
     pname = "vadimcn-vscode-lldb";
@@ -19268,10 +19304,10 @@
       url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.0/file/vadimcn.vscode-lldb-1.7.0.vsix";
       sha256 = "sha256-DuYweIri8NpBHcIG37WyUUc+p4/TaBBHcI6x6YIRvmk=";
     };
-    name = "vscode-lldb";
     license = "MIT";
-    publisher = "vadimcn";
+    name = "vscode-lldb";
     description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.";
+    publisher = "vadimcn";
   };
   valentjn-vscode-ltex = {
     pname = "valentjn-vscode-ltex";
@@ -19280,10 +19316,10 @@
       url = "https://open-vsx.org/api/valentjn/vscode-ltex/13.1.0/file/valentjn.vscode-ltex-13.1.0.vsix";
       sha256 = "sha256-6nNvf0fzPU/Nct5H7eV5Vx0a7D4+RWuHWRLJyTt9RUs=";
     };
-    name = "vscode-ltex";
     license = "MPL-2.0";
-    publisher = "valentjn";
+    name = "vscode-ltex";
     description = "Grammar/spell checker using LanguageTool with support for LaTeX, Markdown, and others";
+    publisher = "valentjn";
   };
   vallyscode-cloud-vscode-theme = {
     pname = "vallyscode-cloud-vscode-theme";
@@ -19292,10 +19328,10 @@
       url = "https://open-vsx.org/api/vallyscode/cloud-vscode-theme/0.0.11/file/vallyscode.cloud-vscode-theme-0.0.11.vsix";
       sha256 = "sha256-KAY6+IK0MTt9cXyPxW8u5moE3nagQ8wl/0XbXeS5G4U=";
     };
-    name = "cloud-vscode-theme";
     license = "GPL-3.0";
-    publisher = "vallyscode";
+    name = "cloud-vscode-theme";
     description = "Cloud theme for vscode";
+    publisher = "vallyscode";
   };
   vallyscode-crayons = {
     pname = "vallyscode-crayons";
@@ -19304,10 +19340,10 @@
       url = "https://open-vsx.org/api/vallyscode/crayons/0.0.2/file/vallyscode.crayons-0.0.2.vsix";
       sha256 = "sha256-lgLqJ8FDK5cWeKNmyi1dsoKzJQp9KUjmtM7OX5XdOy8=";
     };
-    name = "crayons";
     license = "GPL-3.0";
-    publisher = "vallyscode";
+    name = "crayons";
     description = "Highlight text with crayons";
+    publisher = "vallyscode";
   };
   valmack-circleci-config-validator = {
     pname = "valmack-circleci-config-validator";
@@ -19316,10 +19352,10 @@
       url = "https://open-vsx.org/api/valmack/circleci-config-validator/0.0.1/file/valmack.circleci-config-validator-0.0.1.vsix";
       sha256 = "sha256-s2Cte3RoPZnNLH7ICOK20+9jxluDFSlMDjJm7xMIwCc=";
     };
-    name = "circleci-config-validator";
     license = "MIT";
-    publisher = "valmack";
+    name = "circleci-config-validator";
     description = "Validate your CircleCI config.yml";
+    publisher = "valmack";
   };
   vemonet-stardog-rdf-grammars = {
     pname = "vemonet-stardog-rdf-grammars";
@@ -19328,10 +19364,10 @@
       url = "https://open-vsx.org/api/vemonet/stardog-rdf-grammars/0.1.2/file/vemonet.stardog-rdf-grammars-0.1.2.vsix";
       sha256 = "sha256-vBWC9d3mWVq/2n56A96Ks5hh17ayCSMEg2THvvqR8w8=";
     };
-    name = "stardog-rdf-grammars";
     license = "Apache-2.0";
-    publisher = "vemonet";
+    name = "stardog-rdf-grammars";
     description = "Syntax highlighting for SPARQL, Turtle, Stardog Rules Syntax, and other RDF languages";
+    publisher = "vemonet";
   };
   venner-vscode-glua-enhanced = {
     pname = "venner-vscode-glua-enhanced";
@@ -19340,10 +19376,10 @@
       url = "https://open-vsx.org/api/venner/vscode-glua-enhanced/2.5.1/file/venner.vscode-glua-enhanced-2.5.1.vsix";
       sha256 = "sha256-QLHUFCepddhlsPMrKhxoeI/a6kdHWPCg+BPO2fBu6K4=";
     };
-    name = "vscode-glua-enhanced";
     license = "GNU General Public License v3.0";
-    publisher = "venner";
+    name = "vscode-glua-enhanced";
     description = "GLua language support for Visual Studio Code";
+    publisher = "venner";
   };
   vense-rails-snippets = {
     pname = "vense-rails-snippets";
@@ -19352,10 +19388,10 @@
       url = "https://open-vsx.org/api/vense/rails-snippets/0.5.0/file/vense.rails-snippets-0.5.0.vsix";
       sha256 = "sha256-P7DcNa1gZPQ8rtN8YWXct8V3a7CiDsr8WjEhngZhO2A=";
     };
-    name = "rails-snippets";
     license = "MIT";
-    publisher = "vense";
+    name = "rails-snippets";
     description = "Ruby on Rails Snippets";
+    publisher = "vense";
   };
   vhdlwhiz-vhdl-by-vhdlwhiz = {
     pname = "vhdlwhiz-vhdl-by-vhdlwhiz";
@@ -19364,10 +19400,10 @@
       url = "https://open-vsx.org/api/vhdlwhiz/vhdl-by-vhdlwhiz/1.2.15/file/vhdlwhiz.vhdl-by-vhdlwhiz-1.2.15.vsix";
       sha256 = "sha256-1Z015FoNysMDTNE9jC8iB5f90M0Vhvr93ejIdNlvtH8=";
     };
-    name = "vhdl-by-vhdlwhiz";
     license = "MIT License";
-    publisher = "vhdlwhiz";
+    name = "vhdl-by-vhdlwhiz";
     description = "Snippets, templates, syntax highlighting and code completion";
+    publisher = "vhdlwhiz";
   };
   victorbjorklund-phoenix = {
     pname = "victorbjorklund-phoenix";
@@ -19376,10 +19412,10 @@
       url = "https://open-vsx.org/api/victorbjorklund/phoenix/0.1.0/file/victorbjorklund.phoenix-0.1.0.vsix";
       sha256 = "sha256-hJfYbnIoSKsNs/8rA/5EZMmjBO3DYYQlQuj/I4OpSrM=";
     };
-    name = "phoenix";
     license = "MIT";
-    publisher = "victorbjorklund";
+    name = "phoenix";
     description = "Syntax highlighting support for HEEx";
+    publisher = "victorbjorklund";
   };
   viktomas-slipbox = {
     pname = "viktomas-slipbox";
@@ -19388,10 +19424,10 @@
       url = "https://open-vsx.org/api/viktomas/slipbox/0.7.1/file/viktomas.slipbox-0.7.1.vsix";
       sha256 = "sha256-LoumUrTCaOQ7KLcQrFs/VaJSrxtbJS17o6s5dhWv6YI=";
     };
-    name = "slipbox";
     license = "MIT";
-    publisher = "viktomas";
+    name = "slipbox";
     description = "VS Code extension providing Zettelkasten support";
+    publisher = "viktomas";
   };
   vincaslt-highlight-matching-tag = {
     pname = "vincaslt-highlight-matching-tag";
@@ -19400,10 +19436,10 @@
       url = "https://open-vsx.org/api/vincaslt/highlight-matching-tag/0.10.1/file/vincaslt.highlight-matching-tag-0.10.1.vsix";
       sha256 = "sha256-da4VP8WMAYrEjyKiY8tWJjpeJAEmjO3K9krxBN3fask=";
     };
-    name = "highlight-matching-tag";
     license = "MIT";
-    publisher = "vincaslt";
+    name = "highlight-matching-tag";
     description = "Highlights matching closing and opening tags";
+    publisher = "vincaslt";
   };
   vinliao-fast-arrow = {
     pname = "vinliao-fast-arrow";
@@ -19412,10 +19448,10 @@
       url = "https://open-vsx.org/api/vinliao/fast-arrow/1.0.8/file/vinliao.fast-arrow-1.0.8.vsix";
       sha256 = "sha256-A+J274ZjacgqsBi0UiZx+Trlaj32ikYni56YRDfLDiw=";
     };
-    name = "fast-arrow";
     license = "MIT";
-    publisher = "vinliao";
+    name = "fast-arrow";
     description = "Write arrow function in less than 1 second";
+    publisher = "vinliao";
   };
   viper-admin-gobra-ide = {
     pname = "viper-admin-gobra-ide";
@@ -19424,10 +19460,10 @@
       url = "https://open-vsx.org/api/viper-admin/gobra-ide/1.0.0/file/viper-admin.gobra-ide-1.0.0.vsix";
       sha256 = "sha256-GaFqDlu9v/yvQ4VB0TD/UQW3qRsESM8F7ZsSiFigNeI=";
     };
-    name = "gobra-ide";
     license = "MPL-2.0";
-    publisher = "viper-admin";
+    name = "gobra-ide";
     description = "This extension provides interactive IDE features for verifying programs in Gobra.";
+    publisher = "viper-admin";
   };
   viper-admin-prusti-assistant = {
     pname = "viper-admin-prusti-assistant";
@@ -19436,10 +19472,10 @@
       url = "https://open-vsx.org/api/viper-admin/prusti-assistant/0.10.2/file/viper-admin.prusti-assistant-0.10.2.vsix";
       sha256 = "sha256-dlNkHWGSCwZNs5dRcFNa9NHkrAC+fLuMZ3bNq1ZtZ5k=";
     };
-    name = "prusti-assistant";
     license = "MIT";
-    publisher = "viper-admin";
+    name = "prusti-assistant";
     description = "Verify Rust programs with the Prusti verifier.";
+    publisher = "viper-admin";
   };
   viper-admin-viper = {
     pname = "viper-admin-viper";
@@ -19448,10 +19484,10 @@
       url = "https://open-vsx.org/api/viper-admin/viper/2.4.2/file/viper-admin.viper-2.4.2.vsix";
       sha256 = "sha256-oSBoTf5QBHb29v7+ox4O1gvm/LiJ1JDIF4n4OFOp2Lg=";
     };
-    name = "viper";
     license = "";
-    publisher = "viper-admin";
+    name = "viper";
     description = "This extension provides interactive IDE features for verifying programs in Viper (Verification Infrastructure for Permission-based Reasoning).";
+    publisher = "viper-admin";
   };
   virtual-whirlwind-vscode-povray2 = {
     pname = "virtual-whirlwind-vscode-povray2";
@@ -19460,10 +19496,10 @@
       url = "https://open-vsx.org/api/virtual-whirlwind/vscode-povray2/2.1.1/file/virtual-whirlwind.vscode-povray2-2.1.1.vsix";
       sha256 = "sha256-O1ObcG8PrZ8gQqZBNbfeTlYem1Eeubt0Hb5Mmfo1XnI=";
     };
-    name = "vscode-povray2";
     license = "MIT";
-    publisher = "virtual-whirlwind";
+    name = "vscode-povray2";
     description = "Persistence of Vision Ray Tracer (POV-Ray) Extension v2 for Visual Studio Code, forked from jmaxwilson/vscode-povray";
+    publisher = "virtual-whirlwind";
   };
   visualsolana-visualsolana = {
     pname = "visualsolana-visualsolana";
@@ -19472,10 +19508,10 @@
       url = "https://open-vsx.org/api/visualsolana/visualsolana/0.0.6/file/visualsolana.visualsolana-0.0.6.vsix";
       sha256 = "sha256-jYncZ+cV/qwaSAM5v4uyeG+1rqsM4uL72EGW/cIwcbQ=";
     };
-    name = "visualsolana";
     license = "MIT";
-    publisher = "visualsolana";
+    name = "visualsolana";
     description = "Blockly editor and code generator for Solana Rust BPF programs";
+    publisher = "visualsolana";
   };
   vivaxy-vscode-conventional-commits = {
     pname = "vivaxy-vscode-conventional-commits";
@@ -19484,10 +19520,10 @@
       url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.1/file/vivaxy.vscode-conventional-commits-1.24.1.vsix";
       sha256 = "sha256-KpnUhRESN89SKQkt94j2pQOim92PFXb31B4MbJX9dOY=";
     };
-    name = "vscode-conventional-commits";
     license = "MIT";
-    publisher = "vivaxy";
+    name = "vscode-conventional-commits";
     description = "\128172Conventional Commits for VSCode.";
+    publisher = "vivaxy";
   };
   vlanguage-vscode-vlang = {
     pname = "vlanguage-vscode-vlang";
@@ -19496,10 +19532,10 @@
       url = "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.13/file/vlanguage.vscode-vlang-0.1.13.vsix";
       sha256 = "sha256-iE3UXtE/CPTaxqRW6dvfHYohfOrA1SZZ7OVNXG/4AKs=";
     };
-    name = "vscode-vlang";
     license = "MIT";
-    publisher = "vlanguage";
+    name = "vscode-vlang";
     description = "V language support (syntax highlighting, formatter, snippets) for Visual Studio Code.";
+    publisher = "vlanguage";
   };
   voidc-llvm-asm = {
     pname = "voidc-llvm-asm";
@@ -19508,10 +19544,10 @@
       url = "https://open-vsx.org/api/voidc/llvm-asm/0.0.1/file/voidc.llvm-asm-0.0.1.vsix";
       sha256 = "sha256-B/Ytcp7p2cgJE3olQ7/kMzj4wdHlaNGJvy4XlfunZn4=";
     };
-    name = "llvm-asm";
     license = "MIT";
-    publisher = "voidc";
+    name = "llvm-asm";
     description = "Syntax highlighting and code navigation for LLVM assembly language.";
+    publisher = "voidc";
   };
   voorjaar-windicss-intellisense = {
     pname = "voorjaar-windicss-intellisense";
@@ -19520,10 +19556,10 @@
       url = "https://open-vsx.org/api/voorjaar/windicss-intellisense/0.21.6/file/voorjaar.windicss-intellisense-0.21.6.vsix";
       sha256 = "sha256-OesZWKFw1LkU0iqTuyj+vt/EoXOgGJMqL/atUQuFFDw=";
     };
-    name = "windicss-intellisense";
     license = "MIT";
-    publisher = "voorjaar";
+    name = "windicss-intellisense";
     description = "Intelligent WindiCSS tooling for VS Code";
+    publisher = "voorjaar";
   };
   vorce-goto-test = {
     pname = "vorce-goto-test";
@@ -19532,10 +19568,10 @@
       url = "https://open-vsx.org/api/vorce/goto-test/0.0.4/file/vorce.goto-test-0.0.4.vsix";
       sha256 = "sha256-oLPv9g+lsy+/sq4MKl82UqFVaWY7OraGGL+GaITPydY=";
     };
-    name = "goto-test";
     license = "MIT";
-    publisher = "vorce";
+    name = "goto-test";
     description = "Go to the test file for a source";
+    publisher = "vorce";
   };
   vortizhe-simple-ruby-erb = {
     pname = "vortizhe-simple-ruby-erb";
@@ -19544,10 +19580,10 @@
       url = "https://open-vsx.org/api/vortizhe/simple-ruby-erb/0.2.0/file/vortizhe.simple-ruby-erb-0.2.0.vsix";
       sha256 = "sha256-MT72Rpp070seFsSXEs45q8gLxYp6AJ2gPLrWVFd1HuQ=";
     };
-    name = "simple-ruby-erb";
     license = "MIT";
-    publisher = "vortizhe";
+    name = "simple-ruby-erb";
     description = "Provides simple Ruby and ERB language, code snippets and ERB tag helper support for Visual Studio Code without messing with linting or debugging";
+    publisher = "vortizhe";
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
@@ -19556,10 +19592,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.41.0/file/vscjava.vscode-java-debug-0.41.0.vsix";
       sha256 = "sha256-QSaBXTWXjlIDiw1Uuox8LvSuJ9lwMPNcY3vdcMA5+3g=";
     };
-    name = "vscode-java-debug";
     license = "";
-    publisher = "vscjava";
+    name = "vscode-java-debug";
     description = "A lightweight Java debugger for Visual Studio Code";
+    publisher = "vscjava";
   };
   vscjava-vscode-java-dependency = {
     pname = "vscjava-vscode-java-dependency";
@@ -19568,10 +19604,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.19.1/file/vscjava.vscode-java-dependency-0.19.1.vsix";
       sha256 = "sha256-zCCmIKdad5wSETEb6WmZ19KLToWiUMzdCpTVMAZRLnk=";
     };
-    name = "vscode-java-dependency";
     license = "MIT";
-    publisher = "vscjava";
+    name = "vscode-java-dependency";
     description = "Manage Java projects in Visual Studio Code";
+    publisher = "vscjava";
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
@@ -19580,10 +19616,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.23.0/file/vscjava.vscode-java-pack-0.23.0.vsix";
       sha256 = "sha256-T8E2FG0I3mPgABkoXgJgViVsYH7qDJWQMmbOIBjCF1w=";
     };
-    name = "vscode-java-pack";
     license = "MIT";
-    publisher = "vscjava";
+    name = "vscode-java-pack";
     description = "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more";
+    publisher = "vscjava";
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
@@ -19592,10 +19628,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix";
       sha256 = "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=";
     };
-    name = "vscode-java-test";
     license = "";
-    publisher = "vscjava";
+    name = "vscode-java-test";
     description = "Run and debug JUnit or TestNG test cases";
+    publisher = "vscjava";
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
@@ -19604,10 +19640,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix";
       sha256 = "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=";
     };
-    name = "vscode-maven";
     license = "MIT";
-    publisher = "vscjava";
+    name = "vscode-maven";
     description = "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.";
+    publisher = "vscjava";
   };
   vscjava-vscode-spring-boot-dashboard = {
     pname = "vscjava-vscode-spring-boot-dashboard";
@@ -19616,10 +19652,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.4.0/file/vscjava.vscode-spring-boot-dashboard-0.4.0.vsix";
       sha256 = "sha256-pubPBdUyOEGu4yCNwtHv3DUSvWl6FomUcVhUtqN6hgs=";
     };
-    name = "vscode-spring-boot-dashboard";
     license = "MIT";
-    publisher = "vscjava";
+    name = "vscode-spring-boot-dashboard";
     description = "Spring Boot Dashboard for VS Code";
+    publisher = "vscjava";
   };
   vscjava-vscode-spring-initializr = {
     pname = "vscjava-vscode-spring-initializr";
@@ -19628,10 +19664,10 @@
       url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.9.0/file/vscjava.vscode-spring-initializr-0.9.0.vsix";
       sha256 = "sha256-nZIlzdigBOtq+tu4af+tUjrxk+kTJ8CdI/HSQGtvrS8=";
     };
-    name = "vscode-spring-initializr";
     license = "MIT";
-    publisher = "vscjava";
+    name = "vscode-spring-initializr";
     description = "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.";
+    publisher = "vscjava";
   };
   vscode-bat = {
     pname = "vscode-bat";
@@ -19640,10 +19676,10 @@
       url = "https://open-vsx.org/api/vscode/bat/1.62.3/file/vscode.bat-1.62.3.vsix";
       sha256 = "sha256-dxerA1I2gxsS5lhrbX7fYtBQNzIRNEJGL921veX1JvU=";
     };
-    name = "bat";
     license = "MIT";
-    publisher = "vscode";
+    name = "bat";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in Windows batch files.";
+    publisher = "vscode";
   };
   vscode-clojure = {
     pname = "vscode-clojure";
@@ -19652,10 +19688,10 @@
       url = "https://open-vsx.org/api/vscode/clojure/1.62.3/file/vscode.clojure-1.62.3.vsix";
       sha256 = "sha256-qIC7TYVePCq2KePPjeW7q5PuuNHqSnjnrfEygyTS0U4=";
     };
-    name = "clojure";
     license = "MIT";
-    publisher = "vscode";
+    name = "clojure";
     description = "Provides syntax highlighting and bracket matching in Clojure files.";
+    publisher = "vscode";
   };
   vscode-coffeescript = {
     pname = "vscode-coffeescript";
@@ -19664,10 +19700,10 @@
       url = "https://open-vsx.org/api/vscode/coffeescript/1.62.3/file/vscode.coffeescript-1.62.3.vsix";
       sha256 = "sha256-LUfIC3HpQrlbxAsPkzVzKzaMu7x11SrmDcVc/o/s3pA=";
     };
-    name = "coffeescript";
     license = "MIT";
-    publisher = "vscode";
+    name = "coffeescript";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in CoffeeScript files.";
+    publisher = "vscode";
   };
   vscode-configuration-editing = {
     pname = "vscode-configuration-editing";
@@ -19676,10 +19712,10 @@
       url = "https://open-vsx.org/api/vscode/configuration-editing/1.62.3/file/vscode.configuration-editing-1.62.3.vsix";
       sha256 = "sha256-OnkqPUDtBJj1PDyFmXNahXvVNRA10qA7J5iWtGB4xRQ=";
     };
-    name = "configuration-editing";
     license = "MIT";
-    publisher = "vscode";
+    name = "configuration-editing";
     description = "Provides capabilities (advanced IntelliSense, auto-fixing) in configuration files like settings, launch, and extension recommendation files.";
+    publisher = "vscode";
   };
   vscode-cpp = {
     pname = "vscode-cpp";
@@ -19688,10 +19724,10 @@
       url = "https://open-vsx.org/api/vscode/cpp/1.62.3/file/vscode.cpp-1.62.3.vsix";
       sha256 = "sha256-jvyUeswXqyNUmHV1RJdvd2NKLo72WQEYLxdKkzOs3Gs=";
     };
-    name = "cpp";
     license = "MIT";
-    publisher = "vscode";
+    name = "cpp";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in C/C++ files.";
+    publisher = "vscode";
   };
   vscode-csharp = {
     pname = "vscode-csharp";
@@ -19700,10 +19736,10 @@
       url = "https://open-vsx.org/api/vscode/csharp/1.62.3/file/vscode.csharp-1.62.3.vsix";
       sha256 = "sha256-P/jCWiq/vdjdlAYLYCYlfOZbuJ5aPUq4ZT9tGybHerk=";
     };
-    name = "csharp";
     license = "MIT";
-    publisher = "vscode";
+    name = "csharp";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in C# files.";
+    publisher = "vscode";
   };
   vscode-css = {
     pname = "vscode-css";
@@ -19712,10 +19748,10 @@
       url = "https://open-vsx.org/api/vscode/css/1.62.3/file/vscode.css-1.62.3.vsix";
       sha256 = "sha256-jXel4VLBwEuh4b7AVriqnD6DwMfC2A8e+h3Yn7EmKOM=";
     };
-    name = "css";
     license = "MIT";
-    publisher = "vscode";
+    name = "css";
     description = "Provides syntax highlighting and bracket matching for CSS, LESS and SCSS files.";
+    publisher = "vscode";
   };
   vscode-css-language-features = {
     pname = "vscode-css-language-features";
@@ -19724,10 +19760,10 @@
       url = "https://open-vsx.org/api/vscode/css-language-features/1.62.3/file/vscode.css-language-features-1.62.3.vsix";
       sha256 = "sha256-335X2HR+0+5oxkpBtJjuzMEvo/mcyvo6uXkAWtQDygY=";
     };
-    name = "css-language-features";
     license = "MIT";
-    publisher = "vscode";
+    name = "css-language-features";
     description = "Provides rich language support for CSS, LESS and SCSS files.";
+    publisher = "vscode";
   };
   vscode-dart = {
     pname = "vscode-dart";
@@ -19736,10 +19772,10 @@
       url = "https://open-vsx.org/api/vscode/dart/1.62.3/file/vscode.dart-1.62.3.vsix";
       sha256 = "sha256-DYI858guOkwG90rlR8SZkCtxsjkzCHoQk6YP+ijVWjI=";
     };
-    name = "dart";
     license = "MIT";
-    publisher = "vscode";
+    name = "dart";
     description = "Provides syntax highlighting & bracket matching in Dart files.";
+    publisher = "vscode";
   };
   vscode-debug-auto-launch = {
     pname = "vscode-debug-auto-launch";
@@ -19748,10 +19784,10 @@
       url = "https://open-vsx.org/api/vscode/debug-auto-launch/1.62.3/file/vscode.debug-auto-launch-1.62.3.vsix";
       sha256 = "sha256-qe5RQTSsxqbZgl9LzBsIpBpxvLboLOEFPsEnuhWJ74s=";
     };
-    name = "debug-auto-launch";
     license = "MIT";
-    publisher = "vscode";
+    name = "debug-auto-launch";
     description = "Helper for auto-attach feature when node-debug extensions are not active.";
+    publisher = "vscode";
   };
   vscode-debug-server-ready = {
     pname = "vscode-debug-server-ready";
@@ -19760,10 +19796,10 @@
       url = "https://open-vsx.org/api/vscode/debug-server-ready/1.62.3/file/vscode.debug-server-ready-1.62.3.vsix";
       sha256 = "sha256-h86yXJuT+GWJe2Q6zf47Rq7w+qgbHS8N+UGBfJjhBlM=";
     };
-    name = "debug-server-ready";
     license = "MIT";
-    publisher = "vscode";
+    name = "debug-server-ready";
     description = "Open URI in browser if server under debugging is ready.";
+    publisher = "vscode";
   };
   vscode-diff = {
     pname = "vscode-diff";
@@ -19772,10 +19808,10 @@
       url = "https://open-vsx.org/api/vscode/diff/1.64.0-next.68976705968/file/vscode.diff-1.64.0-next.68976705968.vsix";
       sha256 = "sha256-KQ5FqLl11iOnS8O34JfcGqLQfd5mLKV6W7tm6IPr2GY=";
     };
-    name = "diff";
     license = "MIT";
-    publisher = "vscode";
+    name = "diff";
     description = "Provides syntax highlighting & bracket matching in Diff files.";
+    publisher = "vscode";
   };
   vscode-docker = {
     pname = "vscode-docker";
@@ -19784,10 +19820,10 @@
       url = "https://open-vsx.org/api/vscode/docker/1.62.3/file/vscode.docker-1.62.3.vsix";
       sha256 = "sha256-7jQHehbNsSXG6YF2UV0D8u9tA9VhedXqJBl5Y+DIznc=";
     };
-    name = "docker";
     license = "MIT";
-    publisher = "vscode";
+    name = "docker";
     description = "Provides syntax highlighting and bracket matching in Docker files.";
+    publisher = "vscode";
   };
   vscode-emmet = {
     pname = "vscode-emmet";
@@ -19796,10 +19832,10 @@
       url = "https://open-vsx.org/api/vscode/emmet/1.62.3/file/vscode.emmet-1.62.3.vsix";
       sha256 = "sha256-gNJRUAp/qaZsM0xgyOrbRFfUCBFktO7Ab5Y/SEybGB8=";
     };
-    name = "emmet";
     license = "MIT";
-    publisher = "vscode";
+    name = "emmet";
     description = "Emmet support for VS Code";
+    publisher = "vscode";
   };
   vscode-extension-editing = {
     pname = "vscode-extension-editing";
@@ -19808,10 +19844,10 @@
       url = "https://open-vsx.org/api/vscode/extension-editing/1.62.3/file/vscode.extension-editing-1.62.3.vsix";
       sha256 = "sha256-d8g8UmSCruULwha343YiyzXnzVG0WnFwcfT72FcgYkA=";
     };
-    name = "extension-editing";
     license = "MIT";
-    publisher = "vscode";
+    name = "extension-editing";
     description = "Provides linting capabilities for authoring extensions.";
+    publisher = "vscode";
   };
   vscode-fsharp = {
     pname = "vscode-fsharp";
@@ -19820,10 +19856,10 @@
       url = "https://open-vsx.org/api/vscode/fsharp/1.62.3/file/vscode.fsharp-1.62.3.vsix";
       sha256 = "sha256-6HmfcqPVEknzoBj3eWkjw/jKsETtic/VZj/EPwdF2E0=";
     };
-    name = "fsharp";
     license = "MIT";
-    publisher = "vscode";
+    name = "fsharp";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in F# files.";
+    publisher = "vscode";
   };
   vscode-git = {
     pname = "vscode-git";
@@ -19832,10 +19868,10 @@
       url = "https://open-vsx.org/api/vscode/git/1.62.3/file/vscode.git-1.62.3.vsix";
       sha256 = "sha256-A6jQnIhezMU3rCPBz8OamM9C/TJtY8iONDju8+GgN0o=";
     };
-    name = "git";
     license = "MIT";
-    publisher = "vscode";
+    name = "git";
     description = "Git SCM Integration";
+    publisher = "vscode";
   };
   vscode-git-base = {
     pname = "vscode-git-base";
@@ -19844,10 +19880,10 @@
       url = "https://open-vsx.org/api/vscode/git-base/1.64.0-next.68976705968/file/vscode.git-base-1.64.0-next.68976705968.vsix";
       sha256 = "sha256-28nIVtpKS0IZAAawi5Fbb3/rA2BNaBDq1hMWrwp+5HI=";
     };
-    name = "git-base";
     license = "MIT";
-    publisher = "vscode";
+    name = "git-base";
     description = "Git static contributions and pickers.";
+    publisher = "vscode";
   };
   vscode-git-ui = {
     pname = "vscode-git-ui";
@@ -19856,10 +19892,10 @@
       url = "https://open-vsx.org/api/vscode/git-ui/1.55.2/file/vscode.git-ui-1.55.2.vsix";
       sha256 = "sha256-rKMtDz4/6icLth9Fm0NguMNbztubYUBWNpblcojIN/4=";
     };
-    name = "git-ui";
     license = "MIT";
-    publisher = "vscode";
+    name = "git-ui";
     description = "Git SCM UI Integration";
+    publisher = "vscode";
   };
   vscode-github = {
     pname = "vscode-github";
@@ -19868,10 +19904,10 @@
       url = "https://open-vsx.org/api/vscode/github/1.62.3/file/vscode.github-1.62.3.vsix";
       sha256 = "sha256-IhbX98yd60bKfrR2WgY2+dOTrT9aprsxFVe6iReBCAc=";
     };
-    name = "github";
     license = "MIT";
-    publisher = "vscode";
+    name = "github";
     description = "GitHub features for VS Code";
+    publisher = "vscode";
   };
   vscode-github-authentication = {
     pname = "vscode-github-authentication";
@@ -19880,10 +19916,10 @@
       url = "https://open-vsx.org/api/vscode/github-authentication/1.62.3/file/vscode.github-authentication-1.62.3.vsix";
       sha256 = "sha256-fXgYowNW6pqK3FxSzMmxHLoSYnKtqGwd+GpA6+FMUes=";
     };
-    name = "github-authentication";
     license = "MIT";
-    publisher = "vscode";
+    name = "github-authentication";
     description = "GitHub Authentication Provider";
+    publisher = "vscode";
   };
   vscode-github-browser = {
     pname = "vscode-github-browser";
@@ -19892,10 +19928,10 @@
       url = "https://open-vsx.org/api/vscode/github-browser/1.47.3/file/vscode.github-browser-1.47.3.vsix";
       sha256 = "sha256-Swv5pngnG4jZudFxyi1R0zloYTZPEpDQFnwlezT7j1I=";
     };
-    name = "github-browser";
     license = "MIT";
-    publisher = "vscode";
+    name = "github-browser";
     description = "Remotely browse a GitHub repository";
+    publisher = "vscode";
   };
   vscode-go = {
     pname = "vscode-go";
@@ -19904,10 +19940,10 @@
       url = "https://open-vsx.org/api/vscode/go/1.62.3/file/vscode.go-1.62.3.vsix";
       sha256 = "sha256-hATzcG2ROipe0MeVQlyPDh0+BGJ+ySHmmv6Arhi2kXE=";
     };
-    name = "go";
     license = "MIT";
-    publisher = "vscode";
+    name = "go";
     description = "Provides syntax highlighting and bracket matching in Go files.";
+    publisher = "vscode";
   };
   vscode-groovy = {
     pname = "vscode-groovy";
@@ -19916,10 +19952,10 @@
       url = "https://open-vsx.org/api/vscode/groovy/1.62.3/file/vscode.groovy-1.62.3.vsix";
       sha256 = "sha256-8UiJmVDsI1yulJsdVPZQzP7Kl/hGd7m2bNsm+YjsYh8=";
     };
-    name = "groovy";
     license = "MIT";
-    publisher = "vscode";
+    name = "groovy";
     description = "Provides snippets, syntax highlighting and bracket matching in Groovy files.";
+    publisher = "vscode";
   };
   vscode-grunt = {
     pname = "vscode-grunt";
@@ -19928,10 +19964,10 @@
       url = "https://open-vsx.org/api/vscode/grunt/1.62.3/file/vscode.grunt-1.62.3.vsix";
       sha256 = "sha256-qcQ43knkv3uz3F3beYuqGtN0TzqhMfXYPH9awcNu9WE=";
     };
-    name = "grunt";
     license = "MIT";
-    publisher = "vscode";
+    name = "grunt";
     description = "Extension to add Grunt capabilities to VS Code.";
+    publisher = "vscode";
   };
   vscode-gulp = {
     pname = "vscode-gulp";
@@ -19940,10 +19976,10 @@
       url = "https://open-vsx.org/api/vscode/gulp/1.62.3/file/vscode.gulp-1.62.3.vsix";
       sha256 = "sha256-ujzRr8FZkIBeuE9IgNFDs96ikfW5jTCgAmYPF32c8+Y=";
     };
-    name = "gulp";
     license = "MIT";
-    publisher = "vscode";
+    name = "gulp";
     description = "Extension to add Gulp capabilities to VSCode.";
+    publisher = "vscode";
   };
   vscode-handlebars = {
     pname = "vscode-handlebars";
@@ -19952,10 +19988,10 @@
       url = "https://open-vsx.org/api/vscode/handlebars/1.62.3/file/vscode.handlebars-1.62.3.vsix";
       sha256 = "sha256-waAFsVXO4DG5svMfnKhPD2GXYaz0EpEXh8zIdV76WQI=";
     };
-    name = "handlebars";
     license = "MIT";
-    publisher = "vscode";
+    name = "handlebars";
     description = "Provides syntax highlighting and bracket matching in Handlebars files.";
+    publisher = "vscode";
   };
   vscode-hlsl = {
     pname = "vscode-hlsl";
@@ -19964,10 +20000,10 @@
       url = "https://open-vsx.org/api/vscode/hlsl/1.62.3/file/vscode.hlsl-1.62.3.vsix";
       sha256 = "sha256-pVwt7BLUB0+VbTsZWiMkKfdgvcoeokjYYddT0OeWPCo=";
     };
-    name = "hlsl";
     license = "MIT";
-    publisher = "vscode";
+    name = "hlsl";
     description = "Provides syntax highlighting and bracket matching in HLSL files.";
+    publisher = "vscode";
   };
   vscode-html = {
     pname = "vscode-html";
@@ -19976,10 +20012,10 @@
       url = "https://open-vsx.org/api/vscode/html/1.62.3/file/vscode.html-1.62.3.vsix";
       sha256 = "sha256-hDR1n5Q+rzgNnrKACI6z8nhDcHH6t6Sn+4MXoP3Azrc=";
     };
-    name = "html";
     license = "MIT";
-    publisher = "vscode";
+    name = "html";
     description = "Provides syntax highlighting, bracket matching & snippets in HTML files.";
+    publisher = "vscode";
   };
   vscode-html-language-features = {
     pname = "vscode-html-language-features";
@@ -19988,10 +20024,10 @@
       url = "https://open-vsx.org/api/vscode/html-language-features/1.62.3/file/vscode.html-language-features-1.62.3.vsix";
       sha256 = "sha256-7ZqQerIqoOAHgmMs0LZ25Pp5WH3zzHns2Or4vOisnEM=";
     };
-    name = "html-language-features";
     license = "MIT";
-    publisher = "vscode";
+    name = "html-language-features";
     description = "Provides rich language support for HTML and Handlebar files";
+    publisher = "vscode";
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
@@ -20000,10 +20036,10 @@
       url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.12.0/file/vscode-icons-team.vscode-icons-11.12.0.vsix";
       sha256 = "sha256-7ktT8KtzmEIDe/w/msJf3brNgwoHnFpHNtooKPu1gvI=";
     };
-    name = "vscode-icons";
     license = "MIT";
-    publisher = "vscode-icons-team";
+    name = "vscode-icons";
     description = "Icons for Visual Studio Code";
+    publisher = "vscode-icons-team";
   };
   vscode-image-preview = {
     pname = "vscode-image-preview";
@@ -20012,10 +20048,10 @@
       url = "https://open-vsx.org/api/vscode/image-preview/1.62.3/file/vscode.image-preview-1.62.3.vsix";
       sha256 = "sha256-3wCQ00XG57xW/cFMm8sFqGviE44o0khqxEnVfdZmZRc=";
     };
-    name = "image-preview";
     license = "MIT";
-    publisher = "vscode";
+    name = "image-preview";
     description = "Provides VS Code's built-in image preview";
+    publisher = "vscode";
   };
   vscode-ini = {
     pname = "vscode-ini";
@@ -20024,10 +20060,10 @@
       url = "https://open-vsx.org/api/vscode/ini/1.62.3/file/vscode.ini-1.62.3.vsix";
       sha256 = "sha256-TAIBnbnjGVgeOejaH1s3/Ln05oFtdqyneVeCvTHd3zA=";
     };
-    name = "ini";
     license = "MIT";
-    publisher = "vscode";
+    name = "ini";
     description = "Provides syntax highlighting and bracket matching in Ini files.";
+    publisher = "vscode";
   };
   vscode-ipynb = {
     pname = "vscode-ipynb";
@@ -20036,10 +20072,10 @@
       url = "https://open-vsx.org/api/vscode/ipynb/1.62.3/file/vscode.ipynb-1.62.3.vsix";
       sha256 = "sha256-ER1Spzu5w+r7sCvzGIXPBShkcToCC6eIC1495+lUw3w=";
     };
-    name = "ipynb";
     license = "MIT";
-    publisher = "vscode";
+    name = "ipynb";
     description = "Provides basic support for opening and reading Jupyter's .ipynb notebook files";
+    publisher = "vscode";
   };
   vscode-jake = {
     pname = "vscode-jake";
@@ -20048,10 +20084,10 @@
       url = "https://open-vsx.org/api/vscode/jake/1.62.3/file/vscode.jake-1.62.3.vsix";
       sha256 = "sha256-7vqIK/T2w3PcgPJblfv/RO2x4qFDRr+MnOxvB7cOJhQ=";
     };
-    name = "jake";
     license = "MIT";
-    publisher = "vscode";
+    name = "jake";
     description = "Extension to add Jake capabilities to VS Code.";
+    publisher = "vscode";
   };
   vscode-java = {
     pname = "vscode-java";
@@ -20060,10 +20096,10 @@
       url = "https://open-vsx.org/api/vscode/java/1.62.3/file/vscode.java-1.62.3.vsix";
       sha256 = "sha256-FQEdQDnfua8vhTX4n752t1c0iIsogluWbmYpNRhrkMI=";
     };
-    name = "java";
     license = "MIT";
-    publisher = "vscode";
+    name = "java";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in Java files.";
+    publisher = "vscode";
   };
   vscode-javascript = {
     pname = "vscode-javascript";
@@ -20072,10 +20108,10 @@
       url = "https://open-vsx.org/api/vscode/javascript/1.62.3/file/vscode.javascript-1.62.3.vsix";
       sha256 = "sha256-Kz+TujMLLqPDSlB+Cd1gSGXxua1IBwhOomQYbdDOXXU=";
     };
-    name = "javascript";
     license = "MIT";
-    publisher = "vscode";
+    name = "javascript";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in JavaScript files.";
+    publisher = "vscode";
   };
   vscode-json = {
     pname = "vscode-json";
@@ -20084,10 +20120,10 @@
       url = "https://open-vsx.org/api/vscode/json/1.62.3/file/vscode.json-1.62.3.vsix";
       sha256 = "sha256-zc/9SNaQXeCOQxiXe70tXGKgT0Crc7I32YWxkp2H+vQ=";
     };
-    name = "json";
     license = "MIT";
-    publisher = "vscode";
+    name = "json";
     description = "Provides syntax highlighting & bracket matching in JSON files.";
+    publisher = "vscode";
   };
   vscode-json-language-features = {
     pname = "vscode-json-language-features";
@@ -20096,10 +20132,10 @@
       url = "https://open-vsx.org/api/vscode/json-language-features/1.62.3/file/vscode.json-language-features-1.62.3.vsix";
       sha256 = "sha256-rfHFQSVyi7SiglTMi1cwrVtbiUCZN1bcKB0HffP7iTU=";
     };
-    name = "json-language-features";
     license = "MIT";
-    publisher = "vscode";
+    name = "json-language-features";
     description = "Provides rich language support for JSON files.";
+    publisher = "vscode";
   };
   vscode-julia = {
     pname = "vscode-julia";
@@ -20108,10 +20144,10 @@
       url = "https://open-vsx.org/api/vscode/julia/1.62.3/file/vscode.julia-1.62.3.vsix";
       sha256 = "sha256-2YDtiC9bGqdyiMYfhG0FdatRfik9hsAGiwMAkFClYSA=";
     };
-    name = "julia";
     license = "MIT";
-    publisher = "vscode";
+    name = "julia";
     description = "Provides syntax highlighting & bracket matching in Julia files.";
+    publisher = "vscode";
   };
   vscode-less = {
     pname = "vscode-less";
@@ -20120,10 +20156,10 @@
       url = "https://open-vsx.org/api/vscode/less/1.62.3/file/vscode.less-1.62.3.vsix";
       sha256 = "sha256-OTeJZ6SfzTNV8C+Dk7GuZ+BE9eld1SKF4gow/auTaTA=";
     };
-    name = "less";
     license = "MIT";
-    publisher = "vscode";
+    name = "less";
     description = "Provides syntax highlighting, bracket matching and folding in Less files.";
+    publisher = "vscode";
   };
   vscode-log = {
     pname = "vscode-log";
@@ -20132,10 +20168,10 @@
       url = "https://open-vsx.org/api/vscode/log/1.62.3/file/vscode.log-1.62.3.vsix";
       sha256 = "sha256-vxqs0lAZ9A0ItGAL7qsFFQKRWCkxugjw7cX5vQTGcyQ=";
     };
-    name = "log";
     license = "MIT";
-    publisher = "vscode";
+    name = "log";
     description = "Provides syntax highlighting for files with .log extension.";
+    publisher = "vscode";
   };
   vscode-lua = {
     pname = "vscode-lua";
@@ -20144,10 +20180,10 @@
       url = "https://open-vsx.org/api/vscode/lua/1.62.3/file/vscode.lua-1.62.3.vsix";
       sha256 = "sha256-803xcMkLk7sIJkjiwkq0Zlf0ZkJ7YNlUXJeCnZv4q5U=";
     };
-    name = "lua";
     license = "MIT";
-    publisher = "vscode";
+    name = "lua";
     description = "Provides syntax highlighting and bracket matching in Lua files.";
+    publisher = "vscode";
   };
   vscode-make = {
     pname = "vscode-make";
@@ -20156,10 +20192,10 @@
       url = "https://open-vsx.org/api/vscode/make/1.62.3/file/vscode.make-1.62.3.vsix";
       sha256 = "sha256-pmoGKE8ilHHAX6q8hAZl7gFY/c+RTBBlfVcs+vxUBSk=";
     };
-    name = "make";
     license = "MIT";
-    publisher = "vscode";
+    name = "make";
     description = "Provides syntax highlighting and bracket matching in Make files.";
+    publisher = "vscode";
   };
   vscode-markdown = {
     pname = "vscode-markdown";
@@ -20168,10 +20204,10 @@
       url = "https://open-vsx.org/api/vscode/markdown/1.62.3/file/vscode.markdown-1.62.3.vsix";
       sha256 = "sha256-jgpD5DPTNu0+6aE53gYtT3dbCqNpU9NTHGeXu9E7yQM=";
     };
-    name = "markdown";
     license = "MIT";
-    publisher = "vscode";
+    name = "markdown";
     description = "Provides snippets and syntax highlighting for Markdown.";
+    publisher = "vscode";
   };
   vscode-markdown-language-features = {
     pname = "vscode-markdown-language-features";
@@ -20180,10 +20216,10 @@
       url = "https://open-vsx.org/api/vscode/markdown-language-features/1.62.3/file/vscode.markdown-language-features-1.62.3.vsix";
       sha256 = "sha256-GIwVoV+3T6q1H3ongPozns12/QNTvoaFmWichQP5Ngk=";
     };
-    name = "markdown-language-features";
     license = "MIT";
-    publisher = "vscode";
+    name = "markdown-language-features";
     description = "Provides rich language support for Markdown.";
+    publisher = "vscode";
   };
   vscode-markdown-math = {
     pname = "vscode-markdown-math";
@@ -20192,10 +20228,10 @@
       url = "https://open-vsx.org/api/vscode/markdown-math/1.62.3/file/vscode.markdown-math-1.62.3.vsix";
       sha256 = "sha256-ANXq75F2OJqmOyyiBlGR8o1nNYYkwiXKYwo7AdFLEp4=";
     };
-    name = "markdown-math";
     license = "MIT";
-    publisher = "vscode";
+    name = "markdown-math";
     description = "Adds math support to Markdown in notebooks.";
+    publisher = "vscode";
   };
   vscode-markdown-notebook-math = {
     pname = "vscode-markdown-notebook-math";
@@ -20204,10 +20240,10 @@
       url = "https://open-vsx.org/api/vscode/markdown-notebook-math/1.54.0-next.35f855796b/file/vscode.markdown-notebook-math-1.54.0-next.35f855796b.vsix";
       sha256 = "sha256-YWvuZhnM+2Fr7lEnr9gXdIfXOoqFfB3nyrBht5RuiOA=";
     };
-    name = "markdown-notebook-math";
     license = "MIT";
-    publisher = "vscode";
+    name = "markdown-notebook-math";
     description = "Provides rich language support for Markdown.";
+    publisher = "vscode";
   };
   vscode-merge-conflict = {
     pname = "vscode-merge-conflict";
@@ -20216,10 +20252,10 @@
       url = "https://open-vsx.org/api/vscode/merge-conflict/1.62.3/file/vscode.merge-conflict-1.62.3.vsix";
       sha256 = "sha256-7u2+m9O0mllYIh0C98cizoTSklPECpAqXqPrQEx1GOw=";
     };
-    name = "merge-conflict";
     license = "MIT";
-    publisher = "vscode";
+    name = "merge-conflict";
     description = "Highlighting and commands for inline merge conflicts.";
+    publisher = "vscode";
   };
   vscode-microsoft-authentication = {
     pname = "vscode-microsoft-authentication";
@@ -20228,10 +20264,10 @@
       url = "https://open-vsx.org/api/vscode/microsoft-authentication/1.62.3/file/vscode.microsoft-authentication-1.62.3.vsix";
       sha256 = "sha256-42mCYVAq5dTa9D11bmf9W5CLu4VvUJ1ulnqOstqKX6o=";
     };
-    name = "microsoft-authentication";
     license = "MIT";
-    publisher = "vscode";
+    name = "microsoft-authentication";
     description = "Microsoft authentication provider";
+    publisher = "vscode";
   };
   vscode-notebook-markdown-extensions = {
     pname = "vscode-notebook-markdown-extensions";
@@ -20240,10 +20276,10 @@
       url = "https://open-vsx.org/api/vscode/notebook-markdown-extensions/1.57.1/file/vscode.notebook-markdown-extensions-1.57.1.vsix";
       sha256 = "sha256-sCkwmKmLVafxXl24JGSQZsBHIpkJIFJ1f0+ZkRYiKL4=";
     };
-    name = "notebook-markdown-extensions";
     license = "MIT";
-    publisher = "vscode";
+    name = "notebook-markdown-extensions";
     description = "Provides rich language support for Markdown.";
+    publisher = "vscode";
   };
   vscode-npm = {
     pname = "vscode-npm";
@@ -20252,10 +20288,10 @@
       url = "https://open-vsx.org/api/vscode/npm/1.62.3/file/vscode.npm-1.62.3.vsix";
       sha256 = "sha256-AU3PlhEEV319zhSLIAlDx027KA7RecYQcxzBwqte3pc=";
     };
-    name = "npm";
     license = "MIT";
-    publisher = "vscode";
+    name = "npm";
     description = "Extension to add task support for npm scripts.";
+    publisher = "vscode";
   };
   vscode-objective-c = {
     pname = "vscode-objective-c";
@@ -20264,10 +20300,10 @@
       url = "https://open-vsx.org/api/vscode/objective-c/1.62.3/file/vscode.objective-c-1.62.3.vsix";
       sha256 = "sha256-o0KBPDrURHAuaElQqshPe11/sg6T2oFIUUQdNL/7gDM=";
     };
-    name = "objective-c";
     license = "MIT";
-    publisher = "vscode";
+    name = "objective-c";
     description = "Provides syntax highlighting and bracket matching in Objective-C files.";
+    publisher = "vscode";
   };
   vscode-org-mode-org-mode = {
     pname = "vscode-org-mode-org-mode";
@@ -20276,10 +20312,10 @@
       url = "https://open-vsx.org/api/vscode-org-mode/org-mode/1.0.0/file/vscode-org-mode.org-mode-1.0.0.vsix";
       sha256 = "sha256-VmVPyL1W51FEHeAy6yapgKHu/bXPrpT2dYTLiAIebPw=";
     };
-    name = "org-mode";
     license = "GPL-3.0";
-    publisher = "vscode-org-mode";
+    name = "org-mode";
     description = "Emacs Org mode support for VSCode";
+    publisher = "vscode-org-mode";
   };
   vscode-perl = {
     pname = "vscode-perl";
@@ -20288,10 +20324,10 @@
       url = "https://open-vsx.org/api/vscode/perl/1.62.3/file/vscode.perl-1.62.3.vsix";
       sha256 = "sha256-tks3YxAGd40ptBzZkHFFKekKcIZNGlcw1/+ylkCRdqY=";
     };
-    name = "perl";
     license = "MIT";
-    publisher = "vscode";
+    name = "perl";
     description = "Provides syntax highlighting and bracket matching in Perl files.";
+    publisher = "vscode";
   };
   vscode-php = {
     pname = "vscode-php";
@@ -20300,10 +20336,10 @@
       url = "https://open-vsx.org/api/vscode/php/1.62.3/file/vscode.php-1.62.3.vsix";
       sha256 = "sha256-a1ke9zqpB+esJoTtSKg+a6ciz7xyO6B8Hr0XhJgSMDM=";
     };
-    name = "php";
     license = "MIT";
-    publisher = "vscode";
+    name = "php";
     description = "Provides syntax highlighting and bracket matching for PHP files.";
+    publisher = "vscode";
   };
   vscode-php-language-features = {
     pname = "vscode-php-language-features";
@@ -20312,10 +20348,10 @@
       url = "https://open-vsx.org/api/vscode/php-language-features/1.62.3/file/vscode.php-language-features-1.62.3.vsix";
       sha256 = "sha256-upvQRlAAO28PMy2RJaXs/l20fS+kHKBfdhXoseayIIc=";
     };
-    name = "php-language-features";
     license = "MIT";
-    publisher = "vscode";
+    name = "php-language-features";
     description = "Provides rich language support for PHP files.";
+    publisher = "vscode";
   };
   vscode-powershell = {
     pname = "vscode-powershell";
@@ -20324,10 +20360,10 @@
       url = "https://open-vsx.org/api/vscode/powershell/1.62.3/file/vscode.powershell-1.62.3.vsix";
       sha256 = "sha256-Nz8Qeen66gVjB+h/BMgtnnSNaXLOZoUlahY1jIhwyuE=";
     };
-    name = "powershell";
     license = "MIT";
-    publisher = "vscode";
+    name = "powershell";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in Powershell files.";
+    publisher = "vscode";
   };
   vscode-pug = {
     pname = "vscode-pug";
@@ -20336,10 +20372,10 @@
       url = "https://open-vsx.org/api/vscode/pug/1.62.3/file/vscode.pug-1.62.3.vsix";
       sha256 = "sha256-IRvCv79KN+s7faxnivhgtixwtS4ekT8f8FRABwnfM/0=";
     };
-    name = "pug";
     license = "MIT";
-    publisher = "vscode";
+    name = "pug";
     description = "Provides syntax highlighting and bracket matching in Pug files.";
+    publisher = "vscode";
   };
   vscode-python = {
     pname = "vscode-python";
@@ -20348,10 +20384,10 @@
       url = "https://open-vsx.org/api/vscode/python/1.62.3/file/vscode.python-1.62.3.vsix";
       sha256 = "sha256-0WsUvD66CF5L3hCqKpazVhhZfBw/vOxE9UOOgCfX2cA=";
     };
-    name = "python";
     license = "MIT";
-    publisher = "vscode";
+    name = "python";
     description = "Provides syntax highlighting, bracket matching and folding in Python files.";
+    publisher = "vscode";
   };
   vscode-r = {
     pname = "vscode-r";
@@ -20360,10 +20396,10 @@
       url = "https://open-vsx.org/api/vscode/r/1.62.3/file/vscode.r-1.62.3.vsix";
       sha256 = "sha256-42EE51/qk9uCr6+ufzSy67MBTs4dLnD7xc7v1FJZJzs=";
     };
-    name = "r";
     license = "MIT";
-    publisher = "vscode";
+    name = "r";
     description = "Provides syntax highlighting and bracket matching in R files.";
+    publisher = "vscode";
   };
   vscode-razor = {
     pname = "vscode-razor";
@@ -20372,10 +20408,10 @@
       url = "https://open-vsx.org/api/vscode/razor/1.62.3/file/vscode.razor-1.62.3.vsix";
       sha256 = "sha256-vmad+YK+AVgainakkI6h4wWpqo656L3+XFCvZc7uo8M=";
     };
-    name = "razor";
     license = "MIT";
-    publisher = "vscode";
+    name = "razor";
     description = "Provides syntax highlighting, bracket matching and folding in Razor files.";
+    publisher = "vscode";
   };
   vscode-ruby = {
     pname = "vscode-ruby";
@@ -20384,10 +20420,10 @@
       url = "https://open-vsx.org/api/vscode/ruby/1.62.3/file/vscode.ruby-1.62.3.vsix";
       sha256 = "sha256-PMA6cW7ZaMUql9sN/dwaltZ7jVjDtxAj98E2f5YBr58=";
     };
-    name = "ruby";
     license = "MIT";
-    publisher = "vscode";
+    name = "ruby";
     description = "Provides syntax highlighting and bracket matching in Ruby files.";
+    publisher = "vscode";
   };
   vscode-rust = {
     pname = "vscode-rust";
@@ -20396,10 +20432,10 @@
       url = "https://open-vsx.org/api/vscode/rust/1.62.3/file/vscode.rust-1.62.3.vsix";
       sha256 = "sha256-YKXyK//6jnMct6DX/7Z/hLvRCROcPrN2WobmpsBptOo=";
     };
-    name = "rust";
     license = "MIT";
-    publisher = "vscode";
+    name = "rust";
     description = "Provides syntax highlighting and bracket matching in Rust files.";
+    publisher = "vscode";
   };
   vscode-scss = {
     pname = "vscode-scss";
@@ -20408,10 +20444,10 @@
       url = "https://open-vsx.org/api/vscode/scss/1.62.3/file/vscode.scss-1.62.3.vsix";
       sha256 = "sha256-E/Vm2Pq7eU383J7pnLRkcvQ4QWGdthSX2LXLIM3dAFs=";
     };
-    name = "scss";
     license = "MIT";
-    publisher = "vscode";
+    name = "scss";
     description = "Provides syntax highlighting, bracket matching and folding in SCSS files.";
+    publisher = "vscode";
   };
   vscode-search-result = {
     pname = "vscode-search-result";
@@ -20420,10 +20456,10 @@
       url = "https://open-vsx.org/api/vscode/search-result/1.62.3/file/vscode.search-result-1.62.3.vsix";
       sha256 = "sha256-rK8AKt9SKOtwRtsRjrYwpFSXkGkTzXOeXxFqqJ8EUVc=";
     };
-    name = "search-result";
     license = "MIT";
-    publisher = "vscode";
+    name = "search-result";
     description = "Provides syntax highlighting and language features for tabbed search results.";
+    publisher = "vscode";
   };
   vscode-shaderlab = {
     pname = "vscode-shaderlab";
@@ -20432,10 +20468,10 @@
       url = "https://open-vsx.org/api/vscode/shaderlab/1.62.3/file/vscode.shaderlab-1.62.3.vsix";
       sha256 = "sha256-K8c3277m14kOHvPNI8exsI7flD6LfUigMBhHEt/cO6o=";
     };
-    name = "shaderlab";
     license = "MIT";
-    publisher = "vscode";
+    name = "shaderlab";
     description = "Provides syntax highlighting and bracket matching in Shaderlab files.";
+    publisher = "vscode";
   };
   vscode-shellscript = {
     pname = "vscode-shellscript";
@@ -20444,10 +20480,10 @@
       url = "https://open-vsx.org/api/vscode/shellscript/1.62.3/file/vscode.shellscript-1.62.3.vsix";
       sha256 = "sha256-/hQyr1Riwpu3jEMsjXLhCkGLeU2YC25HXlhDKAt8sys=";
     };
-    name = "shellscript";
     license = "MIT";
-    publisher = "vscode";
+    name = "shellscript";
     description = "Provides syntax highlighting and bracket matching in Shell Script files.";
+    publisher = "vscode";
   };
   vscode-simple-browser = {
     pname = "vscode-simple-browser";
@@ -20456,10 +20492,10 @@
       url = "https://open-vsx.org/api/vscode/simple-browser/1.62.3/file/vscode.simple-browser-1.62.3.vsix";
       sha256 = "sha256-mAigaztiWik17KhhmyGUcNvgupfQkaHggSmzqlb2iog=";
     };
-    name = "simple-browser";
     license = "MIT";
-    publisher = "vscode";
+    name = "simple-browser";
     description = "A very basic built-in webview for displaying web content.";
+    publisher = "vscode";
   };
   vscode-smali = {
     pname = "vscode-smali";
@@ -20468,10 +20504,10 @@
       url = "https://open-vsx.org/api/vscode/smali/1.0.0/file/vscode.smali-1.0.0.vsix";
       sha256 = "sha256-FFb2EeQkdPmk0bStiSC1gbeuUijBAMC3ouWNaaE1GUY=";
     };
-    name = "smali";
     license = "MIT";
-    publisher = "vscode";
+    name = "smali";
     description = "";
+    publisher = "vscode";
   };
   vscode-sql = {
     pname = "vscode-sql";
@@ -20480,10 +20516,10 @@
       url = "https://open-vsx.org/api/vscode/sql/1.62.3/file/vscode.sql-1.62.3.vsix";
       sha256 = "sha256-2IHBM5TodOgwl8LQhGjH3lO4YHwnFJiuygPJ7ydJnDs=";
     };
-    name = "sql";
     license = "MIT";
-    publisher = "vscode";
+    name = "sql";
     description = "Provides syntax highlighting and bracket matching in SQL files.";
+    publisher = "vscode";
   };
   vscode-swift = {
     pname = "vscode-swift";
@@ -20492,10 +20528,10 @@
       url = "https://open-vsx.org/api/vscode/swift/1.62.3/file/vscode.swift-1.62.3.vsix";
       sha256 = "sha256-8hEdZbhfdCXD8ZHIEwyYrxrZ4OhjAl08FeNCEhO80Po=";
     };
-    name = "swift";
     license = "MIT";
-    publisher = "vscode";
+    name = "swift";
     description = "Provides snippets, syntax highlighting and bracket matching in Swift files.";
+    publisher = "vscode";
   };
   vscode-testing-editor-contributions = {
     pname = "vscode-testing-editor-contributions";
@@ -20504,10 +20540,10 @@
       url = "https://open-vsx.org/api/vscode/testing-editor-contributions/1.58.2/file/vscode.testing-editor-contributions-1.58.2.vsix";
       sha256 = "sha256-jC2glyxATsrqOuI7RSFH8KRdHBbgFITknAzc5Cwwvv0=";
     };
-    name = "testing-editor-contributions";
     license = "MIT";
-    publisher = "vscode";
+    name = "testing-editor-contributions";
     description = "Provides the in-editor experience for tests and test results.";
+    publisher = "vscode";
   };
   vscode-theme-abyss = {
     pname = "vscode-theme-abyss";
@@ -20516,10 +20552,10 @@
       url = "https://open-vsx.org/api/vscode/theme-abyss/1.62.3/file/vscode.theme-abyss-1.62.3.vsix";
       sha256 = "sha256-LD9agixgxGoTHzMH4HddMSP34gyMIje2KxGusreR1yY=";
     };
-    name = "theme-abyss";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-abyss";
     description = "Abyss theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-defaults = {
     pname = "vscode-theme-defaults";
@@ -20528,10 +20564,10 @@
       url = "https://open-vsx.org/api/vscode/theme-defaults/1.62.3/file/vscode.theme-defaults-1.62.3.vsix";
       sha256 = "sha256-GQ0VjeK0Z8fBleEl1pY9Z07mXG/AmKgwznwhiCtcKCg=";
     };
-    name = "theme-defaults";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-defaults";
     description = "The default Visual Studio light and dark themes";
+    publisher = "vscode";
   };
   vscode-theme-kimbie-dark = {
     pname = "vscode-theme-kimbie-dark";
@@ -20540,10 +20576,10 @@
       url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.62.3/file/vscode.theme-kimbie-dark-1.62.3.vsix";
       sha256 = "sha256-HMbjhMQicxF9WfPp1Uee2FNu+cmDVXuej41jWfo/vwE=";
     };
-    name = "theme-kimbie-dark";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-kimbie-dark";
     description = "Kimbie dark theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-monokai = {
     pname = "vscode-theme-monokai";
@@ -20552,10 +20588,10 @@
       url = "https://open-vsx.org/api/vscode/theme-monokai/1.62.3/file/vscode.theme-monokai-1.62.3.vsix";
       sha256 = "sha256-jRvy9h4qh19y87UORivwBZdPO0W5SK0gEfPRz/W+h0s=";
     };
-    name = "theme-monokai";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-monokai";
     description = "Monokai theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-monokai-dimmed = {
     pname = "vscode-theme-monokai-dimmed";
@@ -20564,10 +20600,10 @@
       url = "https://open-vsx.org/api/vscode/theme-monokai-dimmed/1.62.3/file/vscode.theme-monokai-dimmed-1.62.3.vsix";
       sha256 = "sha256-MZShDGuh26GTgl+ONHaVIEiHhToRavuZ9ATzN9AXuvw=";
     };
-    name = "theme-monokai-dimmed";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-monokai-dimmed";
     description = "Monokai dimmed theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-quietlight = {
     pname = "vscode-theme-quietlight";
@@ -20576,10 +20612,10 @@
       url = "https://open-vsx.org/api/vscode/theme-quietlight/1.62.3/file/vscode.theme-quietlight-1.62.3.vsix";
       sha256 = "sha256-kg6bZ4ySd3N4kL45/YaqDXtLpQrUP9h8nq/Mh+rXRhU=";
     };
-    name = "theme-quietlight";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-quietlight";
     description = "Quiet light theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-red = {
     pname = "vscode-theme-red";
@@ -20588,10 +20624,10 @@
       url = "https://open-vsx.org/api/vscode/theme-red/1.62.3/file/vscode.theme-red-1.62.3.vsix";
       sha256 = "sha256-I5Kv9QWvjCs3jqRwry7MiCre7M25SZ6f58RSn5pL8xY=";
     };
-    name = "theme-red";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-red";
     description = "Red theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-solarized-dark = {
     pname = "vscode-theme-solarized-dark";
@@ -20600,10 +20636,10 @@
       url = "https://open-vsx.org/api/vscode/theme-solarized-dark/1.62.3/file/vscode.theme-solarized-dark-1.62.3.vsix";
       sha256 = "sha256-HauGF7iWmWl3VTGdN7oqyhzu4AVr8G0D96KcpYcrMkc=";
     };
-    name = "theme-solarized-dark";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-solarized-dark";
     description = "Solarized dark theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-solarized-light = {
     pname = "vscode-theme-solarized-light";
@@ -20612,10 +20648,10 @@
       url = "https://open-vsx.org/api/vscode/theme-solarized-light/1.62.3/file/vscode.theme-solarized-light-1.62.3.vsix";
       sha256 = "sha256-cN/27a14iolaGJYjYsYVuPrbiuDoTuDRQ6Bzb2c6tZc=";
     };
-    name = "theme-solarized-light";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-solarized-light";
     description = "Solarized light theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-theme-tomorrow-night-blue = {
     pname = "vscode-theme-tomorrow-night-blue";
@@ -20624,10 +20660,10 @@
       url = "https://open-vsx.org/api/vscode/theme-tomorrow-night-blue/1.62.3/file/vscode.theme-tomorrow-night-blue-1.62.3.vsix";
       sha256 = "sha256-f5RfA1pHIIRy/lNDfWFLjNr88ikxY4QbaeTJBJlPN0g=";
     };
-    name = "theme-tomorrow-night-blue";
     license = "MIT";
-    publisher = "vscode";
+    name = "theme-tomorrow-night-blue";
     description = "Tomorrow night blue theme for Visual Studio Code";
+    publisher = "vscode";
   };
   vscode-typescript = {
     pname = "vscode-typescript";
@@ -20636,10 +20672,10 @@
       url = "https://open-vsx.org/api/vscode/typescript/1.62.3/file/vscode.typescript-1.62.3.vsix";
       sha256 = "sha256-oFl4bxF0ITbTSApw9RhHCNEhONJucmnYAkLcRspdVYY=";
     };
-    name = "typescript";
     license = "MIT";
-    publisher = "vscode";
+    name = "typescript";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in TypeScript files.";
+    publisher = "vscode";
   };
   vscode-typescript-language-features = {
     pname = "vscode-typescript-language-features";
@@ -20648,10 +20684,10 @@
       url = "https://open-vsx.org/api/vscode/typescript-language-features/1.62.3/file/vscode.typescript-language-features-1.62.3.vsix";
       sha256 = "sha256-pcEAqZRRCG8ofULerWuOd3kBBkkeCGEUHCvtLCWreik=";
     };
-    name = "typescript-language-features";
     license = "MIT";
-    publisher = "vscode";
+    name = "typescript-language-features";
     description = "Provides rich language support for JavaScript and TypeScript.";
+    publisher = "vscode";
   };
   vscode-vb = {
     pname = "vscode-vb";
@@ -20660,10 +20696,10 @@
       url = "https://open-vsx.org/api/vscode/vb/1.62.3/file/vscode.vb-1.62.3.vsix";
       sha256 = "sha256-yRtQxKiucKTf9axyFBHZyj7o0Y/OF2v/VYDrzd5lqO4=";
     };
-    name = "vb";
     license = "MIT";
-    publisher = "vscode";
+    name = "vb";
     description = "Provides snippets, syntax highlighting, bracket matching and folding in Visual Basic files.";
+    publisher = "vscode";
   };
   vscode-vscode-theme-seti = {
     pname = "vscode-vscode-theme-seti";
@@ -20672,10 +20708,10 @@
       url = "https://open-vsx.org/api/vscode/vscode-theme-seti/1.62.3/file/vscode.vscode-theme-seti-1.62.3.vsix";
       sha256 = "sha256-rouVj5RIDqGPVHX5ujSlWAhaju5ZQ9B9k82SPJKp5/A=";
     };
-    name = "vscode-theme-seti";
     license = "MIT";
-    publisher = "vscode";
+    name = "vscode-theme-seti";
     description = "A file icon theme made out of the Seti UI file icons";
+    publisher = "vscode";
   };
   vscode-xml = {
     pname = "vscode-xml";
@@ -20684,10 +20720,10 @@
       url = "https://open-vsx.org/api/vscode/xml/1.62.3/file/vscode.xml-1.62.3.vsix";
       sha256 = "sha256-mvyKeQsFhmsH9Gnygy9MB7TEABytPxUeJEHs2jwz9d8=";
     };
-    name = "xml";
     license = "MIT";
-    publisher = "vscode";
+    name = "xml";
     description = "Provides syntax highlighting and bracket matching in XML files.";
+    publisher = "vscode";
   };
   vscode-yaml = {
     pname = "vscode-yaml";
@@ -20696,10 +20732,10 @@
       url = "https://open-vsx.org/api/vscode/yaml/1.62.3/file/vscode.yaml-1.62.3.vsix";
       sha256 = "sha256-9gJ5ReccUnWx2vJJF9X0wLX5vtLQLgw2PV+/BrApwU0=";
     };
-    name = "yaml";
     license = "MIT";
-    publisher = "vscode";
+    name = "yaml";
     description = "Provides syntax highlighting and bracket matching in YAML files.";
+    publisher = "vscode";
   };
   vscodevim-vim = {
     pname = "vscodevim-vim";
@@ -20708,10 +20744,10 @@
       url = "https://open-vsx.org/api/vscodevim/vim/1.22.2/file/vscodevim.vim-1.22.2.vsix";
       sha256 = "sha256-wl3vc5FK2vSQ7hmXgEo9qiclu5FiaySCNGB0z7OWlYY=";
     };
-    name = "vim";
     license = "MIT";
-    publisher = "vscodevim";
+    name = "vim";
     description = "Vim emulation for Visual Studio Code";
+    publisher = "vscodevim";
   };
   vshaxe-haxe-checkstyle = {
     pname = "vshaxe-haxe-checkstyle";
@@ -20720,10 +20756,10 @@
       url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.7.0/file/vshaxe.haxe-checkstyle-1.7.0.vsix";
       sha256 = "sha256-2DiNcd7M5HCJfjdN1so7FvyyY7cFntasWsftkuZBQK0=";
     };
-    name = "haxe-checkstyle";
     license = "MIT";
-    publisher = "vshaxe";
+    name = "haxe-checkstyle";
     description = "Linter for Haxe files";
+    publisher = "vshaxe";
   };
   vshaxe-haxe-debug = {
     pname = "vshaxe-haxe-debug";
@@ -20732,10 +20768,10 @@
       url = "https://open-vsx.org/api/vshaxe/haxe-debug/1.2.3/file/vshaxe.haxe-debug-1.2.3.vsix";
       sha256 = "sha256-jUbqOEqdDjnusyqhNdgu0xVQBC+7Pmk2sFUxYnQ8tt4=";
     };
-    name = "haxe-debug";
     license = "MIT";
-    publisher = "vshaxe";
+    name = "haxe-debug";
     description = "Debugger for Haxe/Flash applications";
+    publisher = "vshaxe";
   };
   vshaxe-haxe-extension-pack = {
     pname = "vshaxe-haxe-extension-pack";
@@ -20744,10 +20780,10 @@
       url = "https://open-vsx.org/api/vshaxe/haxe-extension-pack/1.3.0/file/vshaxe.haxe-extension-pack-1.3.0.vsix";
       sha256 = "sha256-pzI/XQS5rGk+E7XV1zdWZNrL03vOatc/s+0hPJt66xE=";
     };
-    name = "haxe-extension-pack";
     license = "MIT";
-    publisher = "vshaxe";
+    name = "haxe-extension-pack";
     description = "Everything you need for Haxe development";
+    publisher = "vshaxe";
   };
   vshaxe-haxe-test-adapter = {
     pname = "vshaxe-haxe-test-adapter";
@@ -20756,10 +20792,10 @@
       url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.1/file/vshaxe.haxe-test-adapter-2.0.1.vsix";
       sha256 = "sha256-dADSCpbaQ3kzlVO9D889INrTXV/wFYlYSUYWDKp5aJE=";
     };
-    name = "haxe-test-adapter";
     license = "MIT";
-    publisher = "vshaxe";
+    name = "haxe-test-adapter";
     description = "Run your Haxe tests in the Sidebar of Visual Studio Code";
+    publisher = "vshaxe";
   };
   vshaxe-hxcpp-debugger = {
     pname = "vshaxe-hxcpp-debugger";
@@ -20768,10 +20804,10 @@
       url = "https://open-vsx.org/api/vshaxe/hxcpp-debugger/1.2.4/file/vshaxe.hxcpp-debugger-1.2.4.vsix";
       sha256 = "sha256-zaRGoU+VsfcaRrBuENw9c15slRW9Bp339YHHJSM5Qkw=";
     };
-    name = "hxcpp-debugger";
     license = "MIT";
-    publisher = "vshaxe";
+    name = "hxcpp-debugger";
     description = "Debugger for Haxe/HXCPP applications";
+    publisher = "vshaxe";
   };
   vsls-contrib-codetour = {
     pname = "vsls-contrib-codetour";
@@ -20780,10 +20816,10 @@
       url = "https://open-vsx.org/api/vsls-contrib/codetour/0.0.59/file/vsls-contrib.codetour-0.0.59.vsix";
       sha256 = "sha256-EE0ErZLL1ANbK8xlxNGayN23ut7xpSHNyJwUlUeUc4Y=";
     };
-    name = "codetour";
     license = "MIT";
-    publisher = "vsls-contrib";
+    name = "codetour";
     description = "VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor";
+    publisher = "vsls-contrib";
   };
   vsls-contrib-gitdoc = {
     pname = "vsls-contrib-gitdoc";
@@ -20792,10 +20828,10 @@
       url = "https://open-vsx.org/api/vsls-contrib/gitdoc/0.0.8/file/vsls-contrib.gitdoc-0.0.8.vsix";
       sha256 = "sha256-yCmXoZBAGc1ZDfp/OrANlkKtRStcfPR+EygkpgwY+nY=";
     };
-    name = "gitdoc";
     license = "MIT";
-    publisher = "vsls-contrib";
+    name = "gitdoc";
     description = "Automatically commit/push/pull changes on save, so you can edit a Git repo like a multi-file, versioned document.";
+    publisher = "vsls-contrib";
   };
   vsrs-cross-rust-analyzer = {
     pname = "vsrs-cross-rust-analyzer";
@@ -20804,10 +20840,10 @@
       url = "https://open-vsx.org/api/vsrs/cross-rust-analyzer/0.0.2/file/vsrs.cross-rust-analyzer-0.0.2.vsix";
       sha256 = "sha256-XCXgchjAUDInPHQ8rw754r+BHmL2u2oZJXPw752TtEM=";
     };
-    name = "cross-rust-analyzer";
     license = "MIT OR Apache-2.0";
-    publisher = "vsrs";
+    name = "cross-rust-analyzer";
     description = "cross support for the rust-analyzer";
+    publisher = "vsrs";
   };
   vymarkov-add-gitlab-npm-token = {
     pname = "vymarkov-add-gitlab-npm-token";
@@ -20816,10 +20852,10 @@
       url = "https://open-vsx.org/api/vymarkov/add-gitlab-npm-token/0.0.10/file/vymarkov.add-gitlab-npm-token-0.0.10.vsix";
       sha256 = "sha256-5l3QLAHxziC92QiassbM6QIzX7/Q6zMmpdJYxetSN8Y=";
     };
-    name = "add-gitlab-npm-token";
     license = "MIT";
-    publisher = "vymarkov";
+    name = "add-gitlab-npm-token";
     description = "It allows to configure access to GitLab NPM Registry from your workstation whenever you are working on repo where npm dependencies could be fetched from Gitlab NPM registry only";
+    publisher = "vymarkov";
   };
   vymarkov-firebase-explorer = {
     pname = "vymarkov-firebase-explorer";
@@ -20828,10 +20864,10 @@
       url = "https://open-vsx.org/api/vymarkov/firebase-explorer/0.5.2/file/vymarkov.firebase-explorer-0.5.2.vsix";
       sha256 = "sha256-BleDSJiV0pSUN6cMUSjMuD1rFU1YXdoHsPng0kx3ZDA=";
     };
-    name = "firebase-explorer";
     license = "MIT";
-    publisher = "vymarkov";
+    name = "firebase-explorer";
     description = "Visual Studio Code extension to explore and manage your Firebase projects";
+    publisher = "vymarkov";
   };
   vymarkov-nodejs-devops-extension-pack = {
     pname = "vymarkov-nodejs-devops-extension-pack";
@@ -20840,10 +20876,10 @@
       url = "https://open-vsx.org/api/vymarkov/nodejs-devops-extension-pack/0.0.12/file/vymarkov.nodejs-devops-extension-pack-0.0.12.vsix";
       sha256 = "sha256-vJFH8Fj0QgQKQ0IDW/DuXihnOGMfRl1UZ7TyiRlay+s=";
     };
-    name = "nodejs-devops-extension-pack";
     license = "MIT";
-    publisher = "vymarkov";
+    name = "nodejs-devops-extension-pack";
     description = "Popular VS Code extensions for Node.js development and building DevOps pipelines using GitLab and Kubernetes";
+    publisher = "vymarkov";
   };
   vyne-apostheme = {
     pname = "vyne-apostheme";
@@ -20852,10 +20888,10 @@
       url = "https://open-vsx.org/api/vyne/apostheme/1.0.0/file/vyne.apostheme-1.0.0.vsix";
       sha256 = "sha256-zxprKyNieYoLBlepXRqmkgldir26bEjrz8lyKCBRt3o=";
     };
-    name = "apostheme";
     license = "MIT";
-    publisher = "vyne";
+    name = "apostheme";
     description = "Apos' Theme for VSCode. Based on Brogrammer and Sapphire.";
+    publisher = "vyne";
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
@@ -20864,10 +20900,10 @@
       url = "https://open-vsx.org/api/waderyan/gitblame/8.2.2/file/waderyan.gitblame-8.2.2.vsix";
       sha256 = "sha256-jt+6nsxr0LaxMY4zRlBWwQro/tfhh3aZTniOOQj8Ggg=";
     };
-    name = "gitblame";
     license = "MIT";
-    publisher = "waderyan";
+    name = "gitblame";
     description = "See git blame information in the status bar.";
+    publisher = "waderyan";
   };
   warpnet-salt-lint = {
     pname = "warpnet-salt-lint";
@@ -20876,10 +20912,10 @@
       url = "https://open-vsx.org/api/warpnet/salt-lint/0.1.0/file/warpnet.salt-lint-0.1.0.vsix";
       sha256 = "sha256-2HV11Fp4gjPReBzjEXuXRWiFl6QGpg9sw5FVJtzU7k0=";
     };
-    name = "salt-lint";
     license = "MIT";
-    publisher = "warpnet";
+    name = "salt-lint";
     description = "salt-lint checks Salt State files (SLS) for practices and behavior that could potentially be improved.";
+    publisher = "warpnet";
   };
   warpnet-saltstack-extension-pack = {
     pname = "warpnet-saltstack-extension-pack";
@@ -20888,10 +20924,10 @@
       url = "https://open-vsx.org/api/warpnet/saltstack-extension-pack/0.0.2/file/warpnet.saltstack-extension-pack-0.0.2.vsix";
       sha256 = "sha256-wG2c5qWNn8I4m/h0V5HiYHXeYQ9yUbTjAKn5kwMJBt8=";
     };
-    name = "saltstack-extension-pack";
     license = "MIT";
-    publisher = "warpnet";
+    name = "saltstack-extension-pack";
     description = "SaltStack Extension Pack";
+    publisher = "warpnet";
   };
   wayou-vscode-todo-highlight = {
     pname = "wayou-vscode-todo-highlight";
@@ -20900,10 +20936,10 @@
       url = "https://open-vsx.org/api/wayou/vscode-todo-highlight/1.0.5/file/wayou.vscode-todo-highlight-1.0.5.vsix";
       sha256 = "sha256-3ADvgRwPJJzJFwO8NnNof8HRG5mcndm4zfA0+PT+MOI=";
     };
-    name = "vscode-todo-highlight";
     license = "MIT";
-    publisher = "wayou";
+    name = "vscode-todo-highlight";
     description = "highlight TODOs, FIXMEs, and any keywords, annotations...";
+    publisher = "wayou";
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
@@ -20912,10 +20948,10 @@
       url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.24/file/wcrichton.flowistry-0.5.24.vsix";
       sha256 = "sha256-ukyjQbBNaXxiSovi4M8Z4DBtbsnTvh3buszGCUyGPzk=";
     };
-    name = "flowistry";
     license = "MIT";
-    publisher = "wcrichton";
+    name = "flowistry";
     description = "Information Flow in the IDE for Rust";
+    publisher = "wcrichton";
   };
   webfreak-code-d = {
     pname = "webfreak-code-d";
@@ -20924,10 +20960,10 @@
       url = "https://open-vsx.org/api/webfreak/code-d/0.23.2/file/webfreak.code-d-0.23.2.vsix";
       sha256 = "sha256-v/Dck4gE9kRkfIWPAkUmPqewyTVVKrBgAjpNuCROClE=";
     };
-    name = "code-d";
     license = "MIT";
-    publisher = "webfreak";
+    name = "code-d";
     description = "auto-complete, snippets, linter and formatter for dlang";
+    publisher = "webfreak";
   };
   webfreak-cute-theme = {
     pname = "webfreak-cute-theme";
@@ -20936,10 +20972,10 @@
       url = "https://open-vsx.org/api/webfreak/cute-theme/0.0.4/file/webfreak.cute-theme-0.0.4.vsix";
       sha256 = "sha256-6pqT79A7m9sCkMV9Q2pUBkGMFZxQbQmeuymr1hB3AhU=";
     };
-    name = "cute-theme";
     license = "CC0-1.0";
-    publisher = "webfreak";
+    name = "cute-theme";
     description = "A cute pink light theme for VSCode";
+    publisher = "webfreak";
   };
   webfreak-debug = {
     pname = "webfreak-debug";
@@ -20948,10 +20984,10 @@
       url = "https://open-vsx.org/api/webfreak/debug/0.26.0/file/webfreak.debug-0.26.0.vsix";
       sha256 = "sha256-ZFrgsycm7/OYTN2sD3RGJG+yu0hTvADkHK1Gopm0XWc=";
     };
-    name = "debug";
     license = "public domain";
-    publisher = "webfreak";
+    name = "debug";
     description = "GDB, LLDB & Mago-MI Debugger support for VSCode";
+    publisher = "webfreak";
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
@@ -20960,10 +20996,10 @@
       url = "https://open-vsx.org/api/webhint/vscode-webhint/1.6.8/file/webhint.vscode-webhint-1.6.8.vsix";
       sha256 = "sha256-TIG+4UnadZUgPcEYgG6az58gttFtDuB4Na5TIna1+8w=";
     };
-    name = "vscode-webhint";
     license = "Apache-2.0";
-    publisher = "webhint";
+    name = "vscode-webhint";
     description = "Run webhint in Visual Studio Code.";
+    publisher = "webhint";
   };
   wendreof-ufo = {
     pname = "wendreof-ufo";
@@ -20972,10 +21008,10 @@
       url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.12.vsix";
       sha256 = "sha256-BunxuV/4PgV1TeS+Nq1fBINF/vxnasdayHMp6Zzhe/I=";
     };
-    name = "ufo";
     license = "MIT";
-    publisher = "wendreof";
+    name = "ufo";
     description = "Ufo-based color theme to improve your VS Code | The Truth is Out There";
+    publisher = "wendreof";
   };
   wesbos-theme-cobalt2 = {
     pname = "wesbos-theme-cobalt2";
@@ -20984,10 +21020,10 @@
       url = "https://open-vsx.org/api/wesbos/theme-cobalt2/2.1.6/file/wesbos.theme-cobalt2-2.1.6.vsix";
       sha256 = "sha256-VsS84Wz6KamEuHzKYifA1AFtKLHFLxNssD8H8JoVc7g=";
     };
-    name = "theme-cobalt2";
     license = "MIT";
-    publisher = "wesbos";
+    name = "theme-cobalt2";
     description = "\128293 Official theme by Wes Bos.";
+    publisher = "wesbos";
   };
   wesleyegberto-vscode-java-tests = {
     pname = "wesleyegberto-vscode-java-tests";
@@ -20996,10 +21032,10 @@
       url = "https://open-vsx.org/api/wesleyegberto/vscode-java-tests/1.5.0/file/wesleyegberto.vscode-java-tests-1.5.0.vsix";
       sha256 = "sha256-oneB3R4h4yHrpEwdSC5cJLkvlUP+r4/iKURM7D6dQ04=";
     };
-    name = "vscode-java-tests";
     license = "MIT";
-    publisher = "wesleyegberto";
+    name = "vscode-java-tests";
     description = "Extension to help write tests in Java.";
+    publisher = "wesleyegberto";
   };
   while-scorpio = {
     pname = "while-scorpio";
@@ -21008,10 +21044,10 @@
       url = "https://open-vsx.org/api/while/scorpio/2.0.12/file/while.scorpio-2.0.12.vsix";
       sha256 = "sha256-ZegxEwO1ILICZEu63WqofiVrm0G3TIndBgzPyhL7Tm4=";
     };
-    name = "scorpio";
     license = "ISC";
-    publisher = "while";
+    name = "scorpio";
     description = "sco \33050\26412\22522\30784\35821\27861\25552\31034\21644\39640\20142";
+    publisher = "while";
   };
   whizkydee-material-palenight-theme = {
     pname = "whizkydee-material-palenight-theme";
@@ -21020,10 +21056,10 @@
       url = "https://open-vsx.org/api/whizkydee/material-palenight-theme/2.0.2/file/whizkydee.material-palenight-theme-2.0.2.vsix";
       sha256 = "sha256-HI/zAaBxYM6flQxgryMrTet27BgOl3jXGh6YPkT6+nY=";
     };
-    name = "material-palenight-theme";
     license = "MIT";
-    publisher = "whizkydee";
+    name = "material-palenight-theme";
     description = "An elegant and juicy material-inspired theme for Visual Studio Code.";
+    publisher = "whizkydee";
   };
   wholroyd-jinja = {
     pname = "wholroyd-jinja";
@@ -21032,10 +21068,10 @@
       url = "https://open-vsx.org/api/wholroyd/jinja/0.0.8/file/wholroyd.jinja-0.0.8.vsix";
       sha256 = "sha256-KA79PVwmGrVn7hWdxcYi7SCq29Py3Z2Go8lWjheS9Co=";
     };
-    name = "jinja";
     license = "MIT";
-    publisher = "wholroyd";
+    name = "jinja";
     description = "Jinja template language support for Visual Studio Code";
+    publisher = "wholroyd";
   };
   wicked-labs-wvsc-serendipity = {
     pname = "wicked-labs-wvsc-serendipity";
@@ -21044,10 +21080,10 @@
       url = "https://open-vsx.org/api/wicked-labs/wvsc-serendipity/0.101.0/file/wicked-labs.wvsc-serendipity-0.101.0.vsix";
       sha256 = "sha256-/BdUWGjsK6vI1zZ4J94JJX8AH+508NksKRwhQonul64=";
     };
-    name = "wvsc-serendipity";
     license = "MIT";
-    publisher = "wicked-labs";
+    name = "wvsc-serendipity";
     description = "Elegant, minimal, and clean color palette to give your eyes rest on different interfaces.";
+    publisher = "wicked-labs";
   };
   wingrunr21-vscode-ruby = {
     pname = "wingrunr21-vscode-ruby";
@@ -21056,10 +21092,10 @@
       url = "https://open-vsx.org/api/wingrunr21/vscode-ruby/0.28.0/file/wingrunr21.vscode-ruby-0.28.0.vsix";
       sha256 = "sha256-esoBn4v8ARspurRgoK6UcTboiJYP2wgU14ThIv9U5kg=";
     };
-    name = "vscode-ruby";
     license = "MIT";
-    publisher = "wingrunr21";
+    name = "vscode-ruby";
     description = "Syntax highlighing, snippet, and language configuration support for Ruby";
+    publisher = "wingrunr21";
   };
   winterZhao-feather-works = {
     pname = "winterZhao-feather-works";
@@ -21068,10 +21104,10 @@
       url = "https://open-vsx.org/api/winterZhao/feather-works/1.0.1/file/winterZhao.feather-works-1.0.1.vsix";
       sha256 = "sha256-SRmOpq77Y4NvqdRgCH3FrhWk6BS3+juPiUG9IlqsEcc=";
     };
-    name = "feather-works";
     license = "LICENSE.md";
-    publisher = "winterZhao";
+    name = "feather-works";
     description = "\23436\25972\30340\12289\26631\20934\21270\30340\12289\27969\31243\22411 React \24212\29992\24320\21457\27169\24335\21644\26368\20339\23454\36341\12290\31616\21270\24212\29992\30340\24320\21457\65292\25910\25947\25216\26415\26632\12289\23631\34109\24213\23618\24046\24322\21644\32479\19968\24320\21457\20307\39564\65292\24110\21161\24320\21457\20154\21592\38477\20302\24320\21457\21644\32500\25252\25104\26412\12290";
+    publisher = "winterZhao";
   };
   wintercms-winter-cms = {
     pname = "wintercms-winter-cms";
@@ -21080,10 +21116,10 @@
       url = "https://open-vsx.org/api/wintercms/winter-cms/0.2.0/file/wintercms.winter-cms-0.2.0.vsix";
       sha256 = "sha256-kymJSZpzQEAeWE3zKUv0gT0/RZX42PePCoI3YhMyUZk=";
     };
-    name = "winter-cms";
     license = "MIT";
-    publisher = "wintercms";
+    name = "winter-cms";
     description = "Official Winter CMS extension, providing syntax highlighting and code completion for Winter projects.";
+    publisher = "wintercms";
   };
   wix-vscode-import-cost = {
     pname = "wix-vscode-import-cost";
@@ -21092,10 +21128,10 @@
       url = "https://open-vsx.org/api/wix/vscode-import-cost/2.15.0/file/wix.vscode-import-cost-2.15.0.vsix";
       sha256 = "sha256-j8gB/0OmGqnoZroMsCI26JbzBhj0v1XlnXipOQyQF5A=";
     };
-    name = "vscode-import-cost";
     license = "MIT";
-    publisher = "wix";
+    name = "vscode-import-cost";
     description = "Display import/require package size in the editor";
+    publisher = "wix";
   };
   wmanth-jar-viewer = {
     pname = "wmanth-jar-viewer";
@@ -21104,10 +21140,10 @@
       url = "https://open-vsx.org/api/wmanth/jar-viewer/1.1.0/file/wmanth.jar-viewer-1.1.0.vsix";
       sha256 = "sha256-+Bz5Y3cxbY6knhEdBGo2FvTg1zsu9+q6FgvPX3fCMHE=";
     };
-    name = "jar-viewer";
     license = "MIT";
-    publisher = "wmanth";
+    name = "jar-viewer";
     description = "Lists classes and files inside JAR archives.";
+    publisher = "wmanth";
   };
   wmaurer-change-case = {
     pname = "wmaurer-change-case";
@@ -21116,10 +21152,10 @@
       url = "https://open-vsx.org/api/wmaurer/change-case/1.0.0/file/wmaurer.change-case-1.0.0.vsix";
       sha256 = "sha256-ID1FMO5q8QhGw2nrHkT8G1zEwRJBZO1nlXGzZhHUnOM=";
     };
-    name = "change-case";
     license = "MIT";
-    publisher = "wmaurer";
+    name = "change-case";
     description = "Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word";
+    publisher = "wmaurer";
   };
   wongjn-php-sniffer = {
     pname = "wongjn-php-sniffer";
@@ -21128,10 +21164,10 @@
       url = "https://open-vsx.org/api/wongjn/php-sniffer/1.3.0/file/wongjn.php-sniffer-1.3.0.vsix";
       sha256 = "sha256-dUP4avpoKGWHZp3drXVrPH5FCf4L0+4BEI5RXRWBpY4=";
     };
-    name = "php-sniffer";
     license = "MIT";
-    publisher = "wongjn";
+    name = "php-sniffer";
     description = "Uses PHP_CodeSniffer to format and lint PHP code.";
+    publisher = "wongjn";
   };
   wpilibsuite-vscode-wpilib = {
     pname = "wpilibsuite-vscode-wpilib";
@@ -21140,10 +21176,10 @@
       url = "https://open-vsx.org/api/wpilibsuite/vscode-wpilib/2021.3.1/file/wpilibsuite.vscode-wpilib-2021.3.1.vsix";
       sha256 = "sha256-w2+lrjfXJlbqYrTAlAA4tULVH7BSJtEPLPKGuiM23Qk=";
     };
-    name = "vscode-wpilib";
     license = "BSD-3-Clause";
-    publisher = "wpilibsuite";
+    name = "vscode-wpilib";
     description = "VSCode extension for WPILib Team Use";
+    publisher = "wpilibsuite";
   };
   wwm-better-align = {
     pname = "wwm-better-align";
@@ -21152,10 +21188,10 @@
       url = "https://open-vsx.org/api/wwm/better-align/1.1.7/file/wwm.better-align-1.1.7.vsix";
       sha256 = "sha256-gWQjWKmrFGbnL9yedXgGRaLCxb/tSZooDKN2OHbc0do=";
     };
-    name = "better-align";
     license = "MIT";
-    publisher = "wwm";
+    name = "better-align";
     description = "Align code without selecting them first.";
+    publisher = "wwm";
   };
   xabikos-JavaScriptSnippets = {
     pname = "xabikos-JavaScriptSnippets";
@@ -21164,10 +21200,10 @@
       url = "https://open-vsx.org/api/xabikos/JavaScriptSnippets/1.8.0/file/xabikos.JavaScriptSnippets-1.8.0.vsix";
       sha256 = "sha256-XBPCqVy+s/JJij5dcxvlLfFBYosVXjSlvbaaQ3s4g/0=";
     };
-    name = "JavaScriptSnippets";
     license = "MIT";
-    publisher = "xabikos";
+    name = "JavaScriptSnippets";
     description = "Code snippets for JavaScript in ES6 syntax";
+    publisher = "xabikos";
   };
   xaver-clang-format = {
     pname = "xaver-clang-format";
@@ -21176,10 +21212,10 @@
       url = "https://open-vsx.org/api/xaver/clang-format/1.9.0/file/xaver.clang-format-1.9.0.vsix";
       sha256 = "sha256-aLnID0VO9C2iKFKG4sdCwCaM3E+zsC/0Z4qE5VDOnSU=";
     };
-    name = "clang-format";
     license = "MIT";
-    publisher = "xaver";
+    name = "clang-format";
     description = "Use Clang-Format in Visual Studio Code";
+    publisher = "xaver";
   };
   xirider-livecode = {
     pname = "xirider-livecode";
@@ -21188,10 +21224,10 @@
       url = "https://open-vsx.org/api/xirider/livecode/1.3.10/file/xirider.livecode-1.3.10.vsix";
       sha256 = "sha256-a5KRPyitgEbDHqiJvPn1kdA8ZSb2qjslDuW/knVan6o=";
     };
-    name = "livecode";
     license = "MIT";
-    publisher = "xirider";
+    name = "livecode";
     description = "Real-time python variable evaluation";
+    publisher = "xirider";
   };
   xlab-template-library = {
     pname = "xlab-template-library";
@@ -21200,10 +21236,10 @@
       url = "https://open-vsx.org/api/xlab/template-library/0.0.9/file/xlab.template-library-0.0.9.vsix";
       sha256 = "sha256-bYcOt6afbOuRgxw42VNL4mM7oDIykNBaSPynDR2P4ls=";
     };
-    name = "template-library";
     license = "Apache-2.0";
-    publisher = "xlab";
+    name = "template-library";
     description = "Template Library VS Code/Eclipse Che Theia extension";
+    publisher = "xlab";
   };
   xlab-template-library-plugin = {
     pname = "xlab-template-library-plugin";
@@ -21212,10 +21248,10 @@
       url = "https://open-vsx.org/api/xlab/template-library-plugin/0.0.6/file/xlab.template-library-plugin-0.0.6.vsix";
       sha256 = "sha256-FwXnAYIjFUtctuKH1jknulWwln3X23yt+jitUKyTSK8=";
     };
-    name = "template-library-plugin";
     license = "Apache-2.0";
-    publisher = "xlab";
+    name = "template-library-plugin";
     description = "This is a VS Code/Eclipse Che Theia extension for Template Library publishing service.";
+    publisher = "xlab";
   };
   xlab-xopera-saas = {
     pname = "xlab-xopera-saas";
@@ -21224,10 +21260,10 @@
       url = "https://open-vsx.org/api/xlab/xopera-saas/0.0.8/file/xlab.xopera-saas-0.0.8.vsix";
       sha256 = "sha256-oVcV8JfeJIIXxIVzL1qbWr7T+1mp1HRuqfRiUlevMqQ=";
     };
-    name = "xopera-saas";
     license = "Apache-2.0";
-    publisher = "xlab";
+    name = "xopera-saas";
     description = "xOpera SaaS VS Code/Eclipse Che Theia extension";
+    publisher = "xlab";
   };
   xmagee-xpcode = {
     pname = "xmagee-xpcode";
@@ -21236,10 +21272,10 @@
       url = "https://open-vsx.org/api/xmagee/xpcode/1.1.0/file/xmagee.xpcode-1.1.0.vsix";
       sha256 = "sha256-86BOvG/aynwyh4TyEsIcP/kiZgzpVZ2m5s/AT08VrqM=";
     };
-    name = "xpcode";
     license = "GPL-2.0";
-    publisher = "xmagee";
+    name = "xpcode";
     description = "Dark code theme, based on the Windows XP Blue color palette.";
+    publisher = "xmagee";
   };
   xolan-slime = {
     pname = "xolan-slime";
@@ -21248,10 +21284,10 @@
       url = "https://open-vsx.org/api/xolan/slime/1.0.4/file/xolan.slime-1.0.4.vsix";
       sha256 = "sha256-D3cg4N/ijqD5czvS6Ana9J96H2GUFKUTGKRwFjuRho0=";
     };
-    name = "slime";
     license = "MIT";
-    publisher = "xolan";
+    name = "slime";
     description = "Slime Language";
+    publisher = "xolan";
   };
   xoronic-pestfile = {
     pname = "xoronic-pestfile";
@@ -21260,10 +21296,10 @@
       url = "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix";
       sha256 = "sha256-kHOfuKH2qx+LKrx9byCZSIDoPdD+y6ErmNV6QfXh7Ho=";
     };
-    name = "pestfile";
     license = "MIT";
-    publisher = "xoronic";
+    name = "pestfile";
     description = "pestfile Syntax Highlighting";
+    publisher = "xoronic";
   };
   xotm-my-extension-xotm-22-5-25 = {
     pname = "xotm-my-extension-xotm-22-5-25";
@@ -21272,10 +21308,10 @@
       url = "https://open-vsx.org/api/xotm/my-extension-xotm-22-5-25/0.0.0/file/xotm.my-extension-xotm-22-5-25-0.0.0.vsix";
       sha256 = "sha256-mUDDQ/FAkqAUD+veaMAvv4U1G01Syfpeei6PEjjIci0=";
     };
-    name = "my-extension-xotm-22-5-25";
     license = "MIT";
-    publisher = "xotm";
+    name = "my-extension-xotm-22-5-25";
     description = "";
+    publisher = "xotm";
   };
   xotm-theia-hello-world-extension-xotm = {
     pname = "xotm-theia-hello-world-extension-xotm";
@@ -21284,10 +21320,10 @@
       url = "https://open-vsx.org/api/xotm/theia-hello-world-extension-xotm/0.0.1/file/xotm.theia-hello-world-extension-xotm-0.0.1.vsix";
       sha256 = "sha256-HAoNNUnzlWCv/aP6UvS+zI+qJ/Pfay7Fb7+ckZSwm8E=";
     };
-    name = "theia-hello-world-extension-xotm";
     license = "MIT";
-    publisher = "xotm";
+    name = "theia-hello-world-extension-xotm";
     description = "";
+    publisher = "xotm";
   };
   xotm-xotm-new-extension = {
     pname = "xotm-xotm-new-extension";
@@ -21296,10 +21332,10 @@
       url = "https://open-vsx.org/api/xotm/xotm-new-extension/0.0.1/file/xotm.xotm-new-extension-0.0.1.vsix";
       sha256 = "sha256-rA8Yi822+Wg72ZvL0ujvjT7POMQ9Wda1c9eM/WmsT9M=";
     };
-    name = "xotm-new-extension";
     license = "MIT";
-    publisher = "xotm";
+    name = "xotm-new-extension";
     description = "";
+    publisher = "xotm";
   };
   xotm-xotm-new-extension-hello = {
     pname = "xotm-xotm-new-extension-hello";
@@ -21308,10 +21344,10 @@
       url = "https://open-vsx.org/api/xotm/xotm-new-extension-hello/0.0.0/file/xotm.xotm-new-extension-hello-0.0.0.vsix";
       sha256 = "sha256-zfP71DE5iWZYwuEpVldLCYWhZILf7yR/NkcVcHiJdr8=";
     };
-    name = "xotm-new-extension-hello";
     license = "MIT";
-    publisher = "xotm";
+    name = "xotm-new-extension-hello";
     description = "";
+    publisher = "xotm";
   };
   xotm-xotm-xotmhelloworldemo = {
     pname = "xotm-xotm-xotmhelloworldemo";
@@ -21320,10 +21356,10 @@
       url = "https://open-vsx.org/api/xotm/xotm-xotmhelloworldemo/0.0.1/file/xotm.xotm-xotmhelloworldemo-0.0.1.vsix";
       sha256 = "sha256-xPhdR0ior4+cmgoF0fIMmzFFNtoXEevaS2/KWmErDS4=";
     };
-    name = "xotm-xotmhelloworldemo";
     license = "MIT";
-    publisher = "xotm";
+    name = "xotm-xotmhelloworldemo";
     description = "A Demo";
+    publisher = "xotm";
   };
   xotm-xotmhelloworldemo = {
     pname = "xotm-xotmhelloworldemo";
@@ -21332,10 +21368,10 @@
       url = "https://open-vsx.org/api/xotm/xotmhelloworldemo/0.0.1/file/xotm.xotmhelloworldemo-0.0.1.vsix";
       sha256 = "sha256-xQRSxqfVEpghOUP/lj47AIibegAD31z/qVKOt2RQ/9c=";
     };
-    name = "xotmhelloworldemo";
     license = "MIT";
-    publisher = "xotm";
+    name = "xotmhelloworldemo";
     description = "A Demo";
+    publisher = "xotm";
   };
   xotm001-hello-world-extension = {
     pname = "xotm001-hello-world-extension";
@@ -21344,10 +21380,10 @@
       url = "https://open-vsx.org/api/xotm001/hello-world-extension/0.0.3/file/xotm001.hello-world-extension-0.0.3.vsix";
       sha256 = "sha256-1P8io3QD3qx79smy45ZjZkpGBbh1jge5ucn/zlnw/jk=";
     };
-    name = "hello-world-extension";
     license = "MIT";
-    publisher = "xotm001";
+    name = "hello-world-extension";
     description = "VS Code extension for Xotm";
+    publisher = "xotm001";
   };
   xxamxx-vscode-rubygems = {
     pname = "xxamxx-vscode-rubygems";
@@ -21356,10 +21392,10 @@
       url = "https://open-vsx.org/api/xxamxx/vscode-rubygems/1.1.0/file/xxamxx.vscode-rubygems-1.1.0.vsix";
       sha256 = "sha256-5ebIuUwA7JoJjd8jT53vHtM763Ws5ARCTQzLo3PdPvA=";
     };
-    name = "vscode-rubygems";
     license = "MIT";
-    publisher = "xxamxx";
+    name = "vscode-rubygems";
     description = "The RubyGems Explorer is helpful to browser RubyGems source codes";
+    publisher = "xxamxx";
   };
   xyz-local-history = {
     pname = "xyz-local-history";
@@ -21368,10 +21404,10 @@
       url = "https://open-vsx.org/api/xyz/local-history/1.8.1/file/xyz.local-history-1.8.1.vsix";
       sha256 = "sha256-nGGQTH92YPunpI4wXlYfpX5fazVQpp8Ypppq1+SPzDc=";
     };
-    name = "local-history";
     license = "MIT";
-    publisher = "xyz";
+    name = "local-history";
     description = "Save files into local history";
+    publisher = "xyz";
   };
   xyz-plsql-language = {
     pname = "xyz-plsql-language";
@@ -21380,10 +21416,10 @@
       url = "https://open-vsx.org/api/xyz/plsql-language/1.8.2/file/xyz.plsql-language-1.8.2.vsix";
       sha256 = "sha256-xWjsDjDBahTWxQoMohz7g8SCiQRvNU7atGlXWvL0aOo=";
     };
-    name = "plsql-language";
     license = "MIT";
-    publisher = "xyz";
+    name = "plsql-language";
     description = "PL/SQL language (Oracle) support";
+    publisher = "xyz";
   };
   yandeu-five-server = {
     pname = "yandeu-five-server";
@@ -21392,10 +21428,10 @@
       url = "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-server-0.1.4.vsix";
       sha256 = "sha256-8KziXcWCGj/ujKqahcV+ezAi37bh/7bbTvHDZ2Hz1tA=";
     };
-    name = "five-server";
     license = "";
-    publisher = "yandeu";
+    name = "five-server";
     description = "A better Live Server with instant updates, highlights and PHP support.";
+    publisher = "yandeu";
   };
   yangshun-ys-vscode-extensions = {
     pname = "yangshun-ys-vscode-extensions";
@@ -21404,10 +21440,10 @@
       url = "https://open-vsx.org/api/yangshun/ys-vscode-extensions/0.0.2/file/yangshun.ys-vscode-extensions-0.0.2.vsix";
       sha256 = "sha256-SV5DJEfpQGb7xNX3xS56+jkmFnnKLv+SSX+5d8MraQs=";
     };
-    name = "ys-vscode-extensions";
     license = "MIT";
-    publisher = "yangshun";
+    name = "ys-vscode-extensions";
     description = "\22909\29992\30340vscode\25554\20214\38598\21512";
+    publisher = "yangshun";
   };
   yasuyuky-transient-emacs = {
     pname = "yasuyuky-transient-emacs";
@@ -21416,10 +21452,10 @@
       url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.21.0/file/yasuyuky.transient-emacs-0.21.0.vsix";
       sha256 = "sha256-I2gvNivB9uPW7LJPY8UKQlNgauA595QK9fktf8xUpe4=";
     };
-    name = "transient-emacs";
     license = "MIT";
-    publisher = "yasuyuky";
+    name = "transient-emacs";
     description = "Emacs mode using transient mark";
+    publisher = "yasuyuky";
   };
   yatki-vscode-surround = {
     pname = "yatki-vscode-surround";
@@ -21428,10 +21464,10 @@
       url = "https://open-vsx.org/api/yatki/vscode-surround/1.1.2/file/yatki.vscode-surround-1.1.2.vsix";
       sha256 = "sha256-X6tPjXpgpjXD6b08NoIEQuANSsLd9PXY5kWek4FHS4U=";
     };
-    name = "vscode-surround";
     license = "MIT";
-    publisher = "yatki";
+    name = "vscode-surround";
     description = "A simple yet powerful extension to add wrapper templates around your code blocks.";
+    publisher = "yatki";
   };
   ybaumes-highlight-trailing-white-spaces = {
     pname = "ybaumes-highlight-trailing-white-spaces";
@@ -21440,10 +21476,10 @@
       url = "https://open-vsx.org/api/ybaumes/highlight-trailing-white-spaces/0.0.2/file/ybaumes.highlight-trailing-white-spaces-0.0.2.vsix";
       sha256 = "sha256-kx+LVt6KMnS9aJR/zWmYxQVPWrckIRLcI06z7L58yx8=";
     };
-    name = "highlight-trailing-white-spaces";
     license = "BSD-3-Clause";
-    publisher = "ybaumes";
+    name = "highlight-trailing-white-spaces";
     description = "This extension highlight trailing white spaces in red.";
+    publisher = "ybaumes";
   };
   ydz-var-fast = {
     pname = "ydz-var-fast";
@@ -21452,10 +21488,10 @@
       url = "https://open-vsx.org/api/ydz/var-fast/0.0.4/file/ydz.var-fast-0.0.4.vsix";
       sha256 = "sha256-+ulHMuNrPfAmBpdYZenYO8xSr2uotmWXvOhozsxgRm0=";
     };
-    name = "var-fast";
     license = "Apache-2.0";
-    publisher = "ydz";
+    name = "var-fast";
     description = "\24555\36895\32763\35793\21464\37327";
+    publisher = "ydz";
   };
   yurihs-sublime-vscode-theme = {
     pname = "yurihs-sublime-vscode-theme";
@@ -21464,10 +21500,10 @@
       url = "https://open-vsx.org/api/yurihs/sublime-vscode-theme/1.5.0/file/yurihs.sublime-vscode-theme-1.5.0.vsix";
       sha256 = "sha256-3ACZC916bmznT/qEoP1DWha/s5aeH7ysfhGASQsw2z0=";
     };
-    name = "sublime-vscode-theme";
     license = "MIT";
-    publisher = "yurihs";
+    name = "sublime-vscode-theme";
     description = "Light in the sidebar; dark everywhere else. Just like Sublime Text!";
+    publisher = "yurihs";
   };
   yuvrajmishra-vscode-pipe = {
     pname = "yuvrajmishra-vscode-pipe";
@@ -21476,10 +21512,10 @@
       url = "https://open-vsx.org/api/yuvrajmishra/vscode-pipe/1.1.0/file/yuvrajmishra.vscode-pipe-1.1.0.vsix";
       sha256 = "sha256-T5PgnZroSbkLc/K1So6IG3oQ6fM5SgKg2AyzVrwbZfM=";
     };
-    name = "vscode-pipe";
     license = "";
-    publisher = "yuvrajmishra";
+    name = "vscode-pipe";
     description = "Pipe inside VS Code";
+    publisher = "yuvrajmishra";
   };
   yuyichao-digitaljs = {
     pname = "yuyichao-digitaljs";
@@ -21488,10 +21524,10 @@
       url = "https://open-vsx.org/api/yuyichao/digitaljs/0.7.3/file/yuyichao.digitaljs-0.7.3.vsix";
       sha256 = "sha256-CcBrygtdsnjNjUle/MBnTLnE4TOm0bE1EO6hosAvR8s=";
     };
-    name = "digitaljs";
     license = "BSD-2-Clause";
-    publisher = "yuyichao";
+    name = "digitaljs";
     description = "DigitalJS integration for VS Code";
+    publisher = "yuyichao";
   };
   yzane-markdown-pdf = {
     pname = "yzane-markdown-pdf";
@@ -21500,10 +21536,10 @@
       url = "https://open-vsx.org/api/yzane/markdown-pdf/1.4.4/file/yzane.markdown-pdf-1.4.4.vsix";
       sha256 = "sha256-dey9rcIeVEt9XQpMktsqzYNfuifMovprK58NFQpymUg=";
     };
-    name = "markdown-pdf";
     license = "MIT";
-    publisher = "yzane";
+    name = "markdown-pdf";
     description = "Convert Markdown to PDF";
+    publisher = "yzane";
   };
   yzhang-markdown-all-in-one = {
     pname = "yzhang-markdown-all-in-one";
@@ -21512,10 +21548,10 @@
       url = "https://open-vsx.org/api/yzhang/markdown-all-in-one/3.5.0/file/yzhang.markdown-all-in-one-3.5.0.vsix";
       sha256 = "sha256-dD39pR4tW+icCejoIn9dphwMMHAeGmO9u8kFo7xaz9g=";
     };
-    name = "markdown-all-in-one";
     license = "MIT";
-    publisher = "yzhang";
+    name = "markdown-all-in-one";
     description = "All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)";
+    publisher = "yzhang";
   };
   zaaack-markdown-editor = {
     pname = "zaaack-markdown-editor";
@@ -21524,10 +21560,10 @@
       url = "https://open-vsx.org/api/zaaack/markdown-editor/0.1.9/file/zaaack.markdown-editor-0.1.9.vsix";
       sha256 = "sha256-aukUsWvqabRqx0Kgw3fmfwE9p4nZZf9Q58G5onZk1BA=";
     };
-    name = "markdown-editor";
     license = "MIT";
-    publisher = "zaaack";
+    name = "markdown-editor";
     description = "A full-featured WYSIWYG editor for markdown.";
+    publisher = "zaaack";
   };
   zardoy-better-snippets = {
     pname = "zardoy-better-snippets";
@@ -21536,10 +21572,10 @@
       url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.24/file/zardoy.better-snippets-0.1.24.vsix";
       sha256 = "sha256-2WSE5wVEoSaUoKXiKZyGXDQ3bJmZJOomh5P0UTN+UBQ=";
     };
-    name = "better-snippets";
     license = "MIT";
-    publisher = "zardoy";
+    name = "better-snippets";
     description = "";
+    publisher = "zardoy";
   };
   zardoy-extra-commands = {
     pname = "zardoy-extra-commands";
@@ -21548,10 +21584,10 @@
       url = "https://open-vsx.org/api/zardoy/extra-commands/0.0.13/file/zardoy.extra-commands-0.0.13.vsix";
       sha256 = "sha256-WVudEYJ22nW9iBxO7wejAOqEPtgRhudXjZJFrrX6KZ4=";
     };
-    name = "extra-commands";
     license = "MIT";
-    publisher = "zardoy";
+    name = "extra-commands";
     description = "Contains commands, that should be builtin";
+    publisher = "zardoy";
   };
   zardoy-fix-all-json = {
     pname = "zardoy-fix-all-json";
@@ -21560,10 +21596,10 @@
       url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.6/file/zardoy.fix-all-json-0.0.6.vsix";
       sha256 = "sha256-tttv4OQ7gMdEFuPnBf5RiCJy5C5a1QDtYlgc6t2SXdY=";
     };
-    name = "fix-all-json";
     license = "MIT";
-    publisher = "zardoy";
+    name = "fix-all-json";
     description = "Fix missing and trailing commas on save";
+    publisher = "zardoy";
   };
   zardoy-github-manager = {
     pname = "zardoy-github-manager";
@@ -21572,10 +21608,10 @@
       url = "https://open-vsx.org/api/zardoy/github-manager/0.0.6/file/zardoy.github-manager-0.0.6.vsix";
       sha256 = "sha256-c12UdPXNvMzKPaKCaOP0vhB9wVq1SgjITEtLRwDvcMw=";
     };
-    name = "github-manager";
     license = "MIT";
-    publisher = "zardoy";
+    name = "github-manager";
     description = "THE FASTEST way to switch between cloned GitHub repos";
+    publisher = "zardoy";
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
@@ -21584,10 +21620,10 @@
       url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.1/file/zardoy.npm-rapid-ready-0.2.1.vsix";
       sha256 = "sha256-thcOdPPoE5lgdUCICxILTFd0Xh4XEQjABUqu3HFDipk=";
     };
-    name = "npm-rapid-ready";
     license = "MIT";
-    publisher = "zardoy";
+    name = "npm-rapid-ready";
     description = "Full-featured extension for npm ecosystem";
+    publisher = "zardoy";
   };
   zardoy-npm-the-fastest = {
     pname = "zardoy-npm-the-fastest";
@@ -21596,10 +21632,10 @@
       url = "https://open-vsx.org/api/zardoy/npm-the-fastest/0.0.15/file/zardoy.npm-the-fastest-0.0.15.vsix";
       sha256 = "sha256-c15Opnh33PMtHqzKlym0aTQ5bI5JS5qLB4JOw8Us2Ns=";
     };
-    name = "npm-the-fastest";
     license = "MIT";
-    publisher = "zardoy";
+    name = "npm-the-fastest";
     description = "Full-featured extension for npm ecosystem";
+    publisher = "zardoy";
   };
   zardoy-terminal-code-runner = {
     pname = "zardoy-terminal-code-runner";
@@ -21608,10 +21644,10 @@
       url = "https://open-vsx.org/api/zardoy/terminal-code-runner/0.1.1/file/zardoy.terminal-code-runner-0.1.1.vsix";
       sha256 = "sha256-ykyt2J2vmH5CJ9XopBSUBQ5yotXRPlFn7rC25+pSCco=";
     };
-    name = "terminal-code-runner";
     license = "MIT";
-    publisher = "zardoy";
+    name = "terminal-code-runner";
     description = "";
+    publisher = "zardoy";
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
@@ -21620,10 +21656,10 @@
       url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.7/file/zardoy.ts-essential-plugins-0.0.7.vsix";
       sha256 = "sha256-GeyLrTDLKJPPg6YrqGJ89/uTPnsSWr5BJ3Mg92AcLds=";
     };
-    name = "ts-essential-plugins";
     license = "MIT";
-    publisher = "zardoy";
+    name = "ts-essential-plugins";
     description = "";
+    publisher = "zardoy";
   };
   zardoy-typescript-server-logger = {
     pname = "zardoy-typescript-server-logger";
@@ -21632,10 +21668,10 @@
       url = "https://open-vsx.org/api/zardoy/typescript-server-logger/0.0.4/file/zardoy.typescript-server-logger-0.0.4.vsix";
       sha256 = "sha256-d4yEzvYnRCXB4WSvb1sCgZz/PRxAU00bGsVhNpA3U6k=";
     };
-    name = "typescript-server-logger";
     license = "MIT";
-    publisher = "zardoy";
+    name = "typescript-server-logger";
     description = "Opens TS log in side-panel & scrolls for you";
+    publisher = "zardoy";
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
@@ -21644,10 +21680,10 @@
       url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.16/file/zardoy.vetur-extended-0.0.16.vsix";
       sha256 = "sha256-7x7bBQQjXwR/AmcflJH4Hn9H4yxJt7v1zPCmIxFwk2s=";
     };
-    name = "vetur-extended";
     license = "MIT";
-    publisher = "zardoy";
+    name = "vetur-extended";
     description = "";
+    publisher = "zardoy";
   };
   zardoy-vscode-terminal-code-runner = {
     pname = "zardoy-vscode-terminal-code-runner";
@@ -21656,10 +21692,10 @@
       url = "https://open-vsx.org/api/zardoy/vscode-terminal-code-runner/0.0.1/file/zardoy.vscode-terminal-code-runner-0.0.1.vsix";
       sha256 = "sha256-GfYinPDSaXOFuZ/EOGxI7SnjGxW7JhAJ98Bz+ibwN+M=";
     };
-    name = "vscode-terminal-code-runner";
     license = "MIT";
-    publisher = "zardoy";
+    name = "vscode-terminal-code-runner";
     description = "";
+    publisher = "zardoy";
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
@@ -21668,10 +21704,10 @@
       url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.59/file/zardoy.zardoy-experiments-0.0.59.vsix";
       sha256 = "sha256-sqPgxsepT/w3rh7b2Gk3lUmoKKp2jBflgG8PWWXFZ28=";
     };
-    name = "zardoy-experiments";
     license = "MIT";
-    publisher = "zardoy";
+    name = "zardoy-experiments";
     description = "Highly experimental features and commands";
+    publisher = "zardoy";
   };
   zardoy-zardoy-internals = {
     pname = "zardoy-zardoy-internals";
@@ -21680,10 +21716,10 @@
       url = "https://open-vsx.org/api/zardoy/zardoy-internals/0.0.1/file/zardoy.zardoy-internals-0.0.1.vsix";
       sha256 = "sha256-mG9kKRYxLNBqxXzZjnJ8v80wOq82o9n0qxrzBvEyKxc=";
     };
-    name = "zardoy-internals";
     license = "MIT";
-    publisher = "zardoy";
+    name = "zardoy-internals";
     description = "Highly experimental features and commands";
+    publisher = "zardoy";
   };
   zazuko-gmbh-expressive-rdf-mapper = {
     pname = "zazuko-gmbh-expressive-rdf-mapper";
@@ -21692,10 +21728,10 @@
       url = "https://open-vsx.org/api/zazuko-gmbh/expressive-rdf-mapper/1.1.0/file/zazuko-gmbh.expressive-rdf-mapper-1.1.0.vsix";
       sha256 = "sha256-h8Cc2MQ1peZOYTaSk15otUPB/RKLmjK9qb00NN3Qnug=";
     };
-    name = "expressive-rdf-mapper";
     license = "commercial";
-    publisher = "zazuko-gmbh";
+    name = "expressive-rdf-mapper";
     description = "DSL to generate R2RML, RML, CARML mappings";
+    publisher = "zazuko-gmbh";
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
@@ -21704,10 +21740,10 @@
       url = "https://open-vsx.org/api/zenclabs/previewjs/1.8.0/file/zenclabs.previewjs-1.8.0.vsix";
       sha256 = "sha256-kwDf+dIVNrKZ3i5YS6msqyxrQtkzawFdWmwXXxHy1kY=";
     };
-    name = "previewjs";
     license = "https://previewjs.com/eula";
-    publisher = "zenclabs";
+    name = "previewjs";
     description = "Get instant previews of your UI components, directly in your IDE";
+    publisher = "zenclabs";
   };
   zerodind-familiar-java-themes = {
     pname = "zerodind-familiar-java-themes";
@@ -21716,10 +21752,10 @@
       url = "https://open-vsx.org/api/zerodind/familiar-java-themes/0.1.5/file/zerodind.familiar-java-themes-0.1.5.vsix";
       sha256 = "sha256-sRY5usTQnkcmT0pZLGGQyJpSuXhUb3u7H4A7nD11GXw=";
     };
-    name = "familiar-java-themes";
     license = "MIT";
-    publisher = "zerodind";
+    name = "familiar-java-themes";
     description = "Familiar color themes inspired by Java IDEs like Eclipse and IntelliJ IDEA.";
+    publisher = "zerodind";
   };
   zewish-greyburst = {
     pname = "zewish-greyburst";
@@ -21728,10 +21764,10 @@
       url = "https://open-vsx.org/api/zewish/greyburst/0.0.7/file/zewish.greyburst-0.0.7.vsix";
       sha256 = "sha256-RZnozSYWS8FSMbRUJnD5H6IjPPhSeJAl1dn1MJQdKcM=";
     };
-    name = "greyburst";
     license = "MIT";
-    publisher = "zewish";
+    name = "greyburst";
     description = "Greyburst Theme is a lighter alternative to the Sunburst Theme";
+    publisher = "zewish";
   };
   zha999-vscode-plugin-demo = {
     pname = "zha999-vscode-plugin-demo";
@@ -21740,10 +21776,10 @@
       url = "https://open-vsx.org/api/zha999/vscode-plugin-demo/1.0.3/file/zha999.vscode-plugin-demo-1.0.3.vsix";
       sha256 = "sha256-cC7X45kR+zRiAx1JlWhJyb32Pi3PpZGDSRt5eJW09ts=";
     };
-    name = "vscode-plugin-demo";
     license = "MIT";
-    publisher = "zha999";
+    name = "vscode-plugin-demo";
     description = "VSCode\25554\20214demo";
+    publisher = "zha999";
   };
   zhanghua-vscodium-language-pack-zh-cn = {
     pname = "zhanghua-vscodium-language-pack-zh-cn";
@@ -21752,10 +21788,10 @@
       url = "https://open-vsx.org/api/zhanghua/vscodium-language-pack-zh-cn/1.53.2/file/zhanghua.vscodium-language-pack-zh-cn-1.53.2.vsix";
       sha256 = "sha256-s0dgbZRHmfHiptTZEceKYFrU+DUZnkQdMHFPNe6q118=";
     };
-    name = "vscodium-language-pack-zh-cn";
     license = "MIT";
-    publisher = "zhanghua";
+    name = "vscodium-language-pack-zh-cn";
     description = "Language pack extension for Chinese (Simplified)";
+    publisher = "zhanghua";
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
@@ -21764,10 +21800,10 @@
       url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.29/file/zhuangtongfa.material-theme-3.13.29.vsix";
       sha256 = "sha256-BJjQM70SRa0PNi30rfR1tp1cWL15gIi8623I/khnOjY=";
     };
-    name = "material-theme";
     license = "MIT";
-    publisher = "zhuangtongfa";
+    name = "material-theme";
     description = "Atom\8216s iconic One Dark theme for Visual Studio Code";
+    publisher = "zhuangtongfa";
   };
   ziyasal-vscode-open-in-github = {
     pname = "ziyasal-vscode-open-in-github";
@@ -21776,10 +21812,10 @@
       url = "https://open-vsx.org/api/ziyasal/vscode-open-in-github/1.4.1/file/ziyasal.vscode-open-in-github-1.4.1.vsix";
       sha256 = "sha256-mRkAqfNVC4SCEzfswotiRMFiGMYvKUYGib6cFvqiae4=";
     };
-    name = "vscode-open-in-github";
     license = "MIT";
-    publisher = "ziyasal";
+    name = "vscode-open-in-github";
     description = "Jump to a source code line in GitHub, GitLab, Gitea, Bitbucket, VisualStudio.com !";
+    publisher = "ziyasal";
   };
   zjffun-gotofolder = {
     pname = "zjffun-gotofolder";
@@ -21788,10 +21824,10 @@
       url = "https://open-vsx.org/api/zjffun/gotofolder/0.0.2/file/zjffun.gotofolder-0.0.2.vsix";
       sha256 = "sha256-HOT6ig8S7609ZhgyTguijOQVt2/0azwud9VDs8wvNqA=";
     };
-    name = "gotofolder";
     license = "MIT";
-    publisher = "zjffun";
+    name = "gotofolder";
     description = "Quick go to folder.";
+    publisher = "zjffun";
   };
   zjffun-snippetsmanager = {
     pname = "zjffun-snippetsmanager";
@@ -21800,10 +21836,10 @@
       url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.5/file/zjffun.snippetsmanager-0.1.5.vsix";
       sha256 = "sha256-bxNMz+rPF/91mbK74DL0RUUdmbkciyaTRdOiwo/ILAM=";
     };
-    name = "snippetsmanager";
     license = "MIT";
-    publisher = "zjffun";
+    name = "snippetsmanager";
     description = "Create and edit snippets easily.";
+    publisher = "zjffun";
   };
   zjffun-toolboxes = {
     pname = "zjffun-toolboxes";
@@ -21812,10 +21848,10 @@
       url = "https://open-vsx.org/api/zjffun/toolboxes/0.0.8/file/zjffun.toolboxes-0.0.8.vsix";
       sha256 = "sha256-vQ5ERX/WKjzad31d/jZOIHomOYTtYXOHjak0ZOo6v38=";
     };
-    name = "toolboxes";
     license = "MIT";
-    publisher = "zjffun";
+    name = "toolboxes";
     description = "Easy to use and create various tools.";
+    publisher = "zjffun";
   };
   znck-grammarly = {
     pname = "znck-grammarly";
@@ -21824,10 +21860,10 @@
       url = "https://open-vsx.org/api/znck/grammarly/0.23.6/file/znck.grammarly-0.23.6.vsix";
       sha256 = "sha256-LymJsPXVCmC5ZhNxd91XJ3LMr5l6mboGK9gVdX0epHs=";
     };
-    name = "grammarly";
     license = "MIT";
-    publisher = "znck";
+    name = "grammarly";
     description = "A grammar checking for Visual Studio Code using Grammarly.";
+    publisher = "znck";
   };
   znck-preview = {
     pname = "znck-preview";
@@ -21836,10 +21872,10 @@
       url = "https://open-vsx.org/api/znck/preview/0.4.1/file/znck.preview-0.4.1.vsix";
       sha256 = "sha256-OIaNcMtKRCmX26sdl8wPEsDRph6dln7muQTEsKjmRrE=";
     };
-    name = "preview";
     license = "MIT";
-    publisher = "znck";
+    name = "preview";
     description = "A storyboarding and prototyping tool for Vue.";
+    publisher = "znck";
   };
   znck-vue = {
     pname = "znck-vue";
@@ -21848,10 +21884,10 @@
       url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
       sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
-    name = "vue";
     license = "MIT";
-    publisher = "znck";
+    name = "vue";
     description = "Syntax Highlight";
+    publisher = "znck";
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
@@ -21860,10 +21896,10 @@
       url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
       sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
-    name = "vue-language-features";
     license = "MIT";
-    publisher = "znck";
+    name = "vue-language-features";
     description = "Advanced TypeScript/JavaScript support for Vue";
+    publisher = "znck";
   };
   zokugun-cobol-folding = {
     pname = "zokugun-cobol-folding";
@@ -21872,10 +21908,10 @@
       url = "https://open-vsx.org/api/zokugun/cobol-folding/0.2.0/file/zokugun.cobol-folding-0.2.0.vsix";
       sha256 = "sha256-OwiPOQVAbcwilb+PmoDpbl+vLsM+LA3wnJbPc9pVPoI=";
     };
-    name = "cobol-folding";
     license = "MIT";
-    publisher = "zokugun";
+    name = "cobol-folding";
     description = "Add foldings to COBOL files";
+    publisher = "zokugun";
   };
   zokugun-explicit-folding = {
     pname = "zokugun-explicit-folding";
@@ -21884,10 +21920,10 @@
       url = "https://open-vsx.org/api/zokugun/explicit-folding/0.21.0/file/zokugun.explicit-folding-0.21.0.vsix";
       sha256 = "sha256-7sdVTYqf/aQw1NQF4Ih/GQLo5B78Ci1hzSG5ZdxbPDE=";
     };
-    name = "explicit-folding";
     license = "MIT";
-    publisher = "zokugun";
+    name = "explicit-folding";
     description = "Manually controls how and where to fold your code";
+    publisher = "zokugun";
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
@@ -21896,10 +21932,10 @@
       url = "https://open-vsx.org/api/zokugun/sync-settings/0.12.0/file/zokugun.sync-settings-0.12.0.vsix";
       sha256 = "sha256-/pmB7OZePKYiExBRkvjzp23nIUdEP0QEcQM02DpY4DA=";
     };
-    name = "sync-settings";
     license = "MIT";
-    publisher = "zokugun";
+    name = "sync-settings";
     description = "Easily synchronize your settings";
+    publisher = "zokugun";
   };
   zokugun-zokugun-theme = {
     pname = "zokugun-zokugun-theme";
@@ -21908,10 +21944,10 @@
       url = "https://open-vsx.org/api/zokugun/zokugun-theme/0.6.0/file/zokugun.zokugun-theme-0.6.0.vsix";
       sha256 = "sha256-kMKCjvNJ0DF6Jdc5fgtiADwEKbfBt4OB2eutu/ax2ic=";
     };
-    name = "zokugun-theme";
     license = "MIT";
-    publisher = "zokugun";
+    name = "zokugun-theme";
     description = "Zokugun Themes for Visual Studio Code";
+    publisher = "zokugun";
   };
   zxh404-vscode-proto3 = {
     pname = "zxh404-vscode-proto3";
@@ -21920,10 +21956,10 @@
       url = "https://open-vsx.org/api/zxh404/vscode-proto3/0.5.5/file/zxh404.vscode-proto3-0.5.5.vsix";
       sha256 = "sha256-g803/lg3mdHrYrc2r13asDSMzaA5fmSF9/RkR+NaFRY=";
     };
-    name = "vscode-proto3";
     license = "MIT";
-    publisher = "zxh404";
+    name = "vscode-proto3";
     description = "Protobuf 3 support for Visual Studio Code";
+    publisher = "zxh404";
   };
   zype-zype = {
     pname = "zype-zype";
@@ -21932,9 +21968,9 @@
       url = "https://open-vsx.org/api/zype/zype/1.0.0/file/zype.zype-1.0.0.vsix";
       sha256 = "sha256-KdAJF1PIN7/c4TkwNrxH2e8yz5H1lYsBNERpX/xH9hY=";
     };
-    name = "zype";
     license = "LICENSE";
-    publisher = "zype";
+    name = "zype";
     description = "A OpenSource & easy-to-use shorter version of JSON";
+    publisher = "zype";
   };
 }
