@@ -1893,11 +1893,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-S2PI+r4LrHA7tW2EMfcAkP5jUnd0mCEV72oTXMa9Xkc=",
+      "sha256": "sha256-NCQu/gXY7/ZAczWNYPSp2ucpH8iJBD7Xyt01zLcRzM8=",
       "type": "url",
-      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.44.2/file/GitLab.gitlab-workflow-3.44.2.vsix"
+      "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.45.0/file/GitLab.gitlab-workflow-3.45.0.vsix"
     },
-    "version": "3.44.2"
+    "version": "3.45.0"
   },
   "GrapeCity-gc-excelviewer": {
     "cargoLocks": null,
@@ -4496,11 +4496,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-IjVbaXq+yCvG8fcnuTtsOalsDonn4D7Z05JRRqzCDGQ=",
+      "sha256": "sha256-QUSIz86deHSr/30gczaE0eEsWniEqtzu53Nf3gYZIQ0=",
       "type": "url",
-      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.999/file/Prisma.prisma-insider-31.0.999.vsix"
+      "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1000/file/Prisma.prisma-insider-31.0.1000.vsix"
     },
-    "version": "31.0.999"
+    "version": "31.0.1000"
   },
   "Prisma-vscode-graphql": {
     "cargoLocks": null,
@@ -17036,11 +17036,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-A6QiEjyXN8x7+baGTD0qYiFFlK0nR83HyjRTRwI7RTQ=",
+      "sha256": "sha256-kfwrcyPpH8p5zQT/N6sBiSt+/lXYl3BQa9P7jDAvZ9I=",
       "type": "url",
-      "url": "https://open-vsx.org/api/jdinhlife/gruvbox/1.6.0/file/jdinhlife.gruvbox-1.6.0.vsix"
+      "url": "https://open-vsx.org/api/jdinhlife/gruvbox/1.7.0/file/jdinhlife.gruvbox-1.7.0.vsix"
     },
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   "jeandeaual-lilypond-syntax": {
     "cargoLocks": null,
