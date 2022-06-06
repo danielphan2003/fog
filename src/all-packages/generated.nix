@@ -120,17 +120,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "e4931134502fbf2d29c7f0d693f35ba810196b6f";
+    version = "6a4594466b0da34ac9daf6b2a378c4f3b96c0d34";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "e4931134502fbf2d29c7f0d693f35ba810196b6f";
+      rev = "6a4594466b0da34ac9daf6b2a378c4f3b96c0d34";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-HUQZ9DXXb/9lLENFpPDeJhjjs0esNTNfliAYdFUICGo=";
+      sha256 = "sha256-mr8HJhu/LKIDXEDcXCOmuwO+KkFtH3nCtrdA27v8W1U=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-e4931134502fbf2d29c7f0d693f35ba810196b6f/Cargo.lock;
+      lockFile = ./asusctl-6a4594466b0da34ac9daf6b2a378c4f3b96c0d34/Cargo.lock;
       outputHashes = {
       };
     };
@@ -395,13 +395,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d743ac7bb1339a7407affb97792eb47fb0fe708c";
+    version = "066ea296fff21b11cdf949ea2b02bbcc55916a51";
     src = fetchFromGitHub {
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d743ac7bb1339a7407affb97792eb47fb0fe708c";
+      rev = "066ea296fff21b11cdf949ea2b02bbcc55916a51";
       fetchSubmodules = false;
-      sha256 = "sha256-3YZvpoUQSGx9/Yx2yJNqtTJBSp5+8EpYUfvV4AKgsoI=";
+      sha256 = "sha256-Twmq6Wi3Wmi4y9dk6kowGk5mh0e6H+pJ5088JtlvnuU=";
     };
   };
   ibus = {
@@ -444,10 +444,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6219";
+    version = "1.0.6220";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6219.tar.bz2";
-      sha256 = "sha256-hQdta+AuOwNpusleBEeS96ilZZJp+NMCUXe5sM0I66k=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6220.tar.bz2";
+      sha256 = "sha256-aJjd0sAtATHNHkeP3oU4QYPkOp+apHwb6WVQloJFQYw=";
     };
   };
   jitsi-meet-prosody = {
