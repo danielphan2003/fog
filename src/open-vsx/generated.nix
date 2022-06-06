@@ -9426,10 +9426,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.15.0/file/grain-lang.vscode-grain-0.15.0.vsix";
-      sha256 = "sha256-RBTL1S9leaIyg87+vqSPJgDX2mUDAP8r2ozkBKPB5J0=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.16.0/file/grain-lang.vscode-grain-0.16.0.vsix";
+      sha256 = "sha256-geA5RpVH6Qmg3JTA1TMUtg0lX2cyq3z8vWZw2WbNIU0=";
     };
     license = "MIT";
     name = "vscode-grain";
@@ -9570,10 +9570,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.3";
+    version = "1.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.3/file/halcyontechltd.code-for-ibmi-1.3.3.vsix";
-      sha256 = "sha256-380aFZmu4qh/+W9UVwbLzaN3sOaxa8AxXZoZVF5B3mk=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.4/file/halcyontechltd.code-for-ibmi-1.3.4.vsix";
+      sha256 = "sha256-pBAUiez+wbY1CO5RCEyyYKbJUe8zbx4KsmUBrj7a/dE=";
     };
     license = "MIT";
     name = "code-for-ibmi";
