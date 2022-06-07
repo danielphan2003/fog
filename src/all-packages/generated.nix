@@ -713,6 +713,17 @@
       sha256 = "sha256-Gh1MAvrrgDAoTwpwsbIlXqkH99GUNn0oFUC7R2pEBdk=";
     };
   };
+  polymc-cracked = {
+    pname = "polymc-cracked";
+    version = "6000f5de6742bf825ed56477b16be559f5cfe227";
+    src = fetchFromGitHub ({
+      owner = "thecountrox";
+      repo = "PolyMC-Cracked";
+      rev = "6000f5de6742bf825ed56477b16be559f5cfe227";
+      fetchSubmodules = false;
+      sha256 = "sha256-7N/H+mpYl/v522b+D3HI8zw9oLqj2yFJ0WGVDzLQC4w=";
+    });
+  };
   pure = {
     pname = "pure";
     version = "3b2606db2e7eb6f05c67b229b5e3c68a1c3947a6";

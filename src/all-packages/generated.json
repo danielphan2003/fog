@@ -1183,6 +1183,25 @@
         },
         "version": "f1cbcb7b3b00c548a3324e18ae263883b51a91a4"
     },
+    "polymc-cracked": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "polymc-cracked",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "thecountrox",
+            "repo": "PolyMC-Cracked",
+            "rev": "6000f5de6742bf825ed56477b16be559f5cfe227",
+            "sha256": "sha256-7N/H+mpYl/v522b+D3HI8zw9oLqj2yFJ0WGVDzLQC4w=",
+            "type": "github"
+        },
+        "version": "6000f5de6742bf825ed56477b16be559f5cfe227"
+    },
     "pure": {
         "cargoLocks": null,
         "extract": null,
