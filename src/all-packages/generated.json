@@ -576,11 +576,11 @@
       "name": null,
       "owner": "flameshot-org",
       "repo": "flameshot",
-      "rev": "98c1b029e3783357aafb52cad76da48e1c5546e8",
-      "sha256": "sha256-9dQgJlQMPptIf1EjKehJg9tFOwVxvBFn43RQQUSWDig=",
+      "rev": "dd9fc451083476a5768b0c6024dd9c117d06671d",
+      "sha256": "sha256-tpMKGk1DKt88N3x0MyXLN0dezMMKsFDK5oytF/mjOLM=",
       "type": "github"
     },
-    "version": "98c1b029e3783357aafb52cad76da48e1c5546e8"
+    "version": "dd9fc451083476a5768b0c6024dd9c117d06671d"
   },
   "flyingfox": {
     "cargoLocks": null,
@@ -657,11 +657,11 @@
       "name": null,
       "owner": "vaxerski",
       "repo": "hyprland",
-      "rev": "1642b1ff66f22c59301a604c83ba0498a986851a",
-      "sha256": "sha256-J6goyFgcRSPh8XaT0PgPkV61mAabDDY+QihaetBr1Rw=",
+      "rev": "0b8fe2a0aa02e2b0eb347b7793ac8a8f850cd62e",
+      "sha256": "sha256-F8iMBMhz4NJmGhXIcWlWj9eqZtWbWqWdDid+MBSbJKs=",
       "type": "github"
     },
-    "version": "1642b1ff66f22c59301a604c83ba0498a986851a"
+    "version": "0b8fe2a0aa02e2b0eb347b7793ac8a8f850cd62e"
   },
   "ibus": {
     "cargoLocks": null,
@@ -737,11 +737,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-pmRABNDzNol1rnh7dc4wg7gMUuBym8KVLjXEWOZyL5g=",
+      "sha256": "sha256-qCzPkWeQsVA850+aYqbCLPHLCJ6ha2wYQiHL0ouxr6g=",
       "type": "url",
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6224.tar.bz2"
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6225.tar.bz2"
     },
-    "version": "1.0.6224"
+    "version": "1.0.6225"
   },
   "jitsi-meet-prosody": {
     "cargoLocks": null,
@@ -751,11 +751,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-dBhRbuCiVIj6MenXl3tgfIt06ZTiGF+5hZWcQrtiwb8=",
+      "sha256": "sha256-QnOR60g1sKCcscpEBzefN2Z3Ju8kWLAueEY8dbDwT04=",
       "type": "url",
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6224-1_all.deb"
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6225-1_all.deb"
     },
-    "version": "1.0.6224"
+    "version": "1.0.6225"
   },
   "jitsi-videobridge2": {
     "cargoLocks": null,
