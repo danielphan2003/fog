@@ -395,13 +395,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "2bddfa81bcc473e82285aecbc3b28c0a246217eb";
+    version = "1642b1ff66f22c59301a604c83ba0498a986851a";
     src = fetchFromGitHub {
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "2bddfa81bcc473e82285aecbc3b28c0a246217eb";
+      rev = "1642b1ff66f22c59301a604c83ba0498a986851a";
       fetchSubmodules = false;
-      sha256 = "sha256-Zjp5Aogcv62GJBmLGYgHLyUIJgXQ9lMRZtPPjRKSkZQ=";
+      sha256 = "sha256-J6goyFgcRSPh8XaT0PgPkV61mAabDDY+QihaetBr1Rw=";
     };
   };
   ibus = {
@@ -632,7 +632,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/NY.dmg";
-      sha256 = "sha256-fk7863uhJAdbBGOjfcdbXFiznDpUPX49ZEB57bhdCUY=";
+      sha256 = "sha256-Rr0UpJa7kemczCqNn6b8HNtW6PiWO/Ez1LUh/WNk8S8=";
     };
   };
   ouch = {
@@ -900,7 +900,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg";
-      sha256 = "sha256-lXCITuDQmwNHj9vq6Wumwh8sdrFp95AGXujVP/Q9rNY=";
+      sha256 = "sha256-SIht9sqmeijEeU4uLwm+tlZtFlTnD/G5GH8haUL6dlU=";
     };
   };
   sf-font-pro = {
@@ -908,7 +908,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg";
-      sha256 = "sha256-4ITyRyc8kVE+tNOSeniu5fm/xo2vebszszCvy+f/t9w=";
+      sha256 = "sha256-g/SzgU3vOzm8uRuA6AN/N8Tnrl2Vpya58hx99dGfecI=";
     };
   };
   sf-mono = {
@@ -916,7 +916,7 @@
     version = "0.0.0.20210625";
     src = fetchurl {
       url = "https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg";
-      sha256 = "sha256-ZXGWbBH3SqZKRu83dPyDdvgi5Y0beFv1wsiZIOdbDZQ=";
+      sha256 = "sha256-jnhTTmSy5J8MJotbsI8g5hxotgjvyDbccymjABwajYw=";
     };
   };
   snui = {
@@ -1029,13 +1029,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "09363064b544cd00e56fd4142e457119292e2588";
+    version = "c41837842baf3e26878f50255cf009b0a85702ca";
     src = fetchFromGitHub {
       owner = "tailscale";
       repo = "tailscale";
-      rev = "09363064b544cd00e56fd4142e457119292e2588";
+      rev = "c41837842baf3e26878f50255cf009b0a85702ca";
       fetchSubmodules = false;
-      sha256 = "sha256-MAWdcgBJgEexKrw2ahhg0LxmPvrY/otsmGrsTrdiqJ4=";
+      sha256 = "sha256-kVzUmeA1BtaN8ip2bcYl2PVQiFIShjXI1thwn6bhRe8=";
     };
   };
   tailscale-systray = {
