@@ -444,10 +444,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6223";
+    version = "1.0.6224";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6223.tar.bz2";
-      sha256 = "sha256-98X7c+i/h+QnISDVSXN1lNB2qaLMYM6IUJi/ICdhVK0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6224.tar.bz2";
+      sha256 = "sha256-pmRABNDzNol1rnh7dc4wg7gMUuBym8KVLjXEWOZyL5g=";
     };
   };
   jitsi-meet-prosody = {
@@ -460,10 +460,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-5-g804ff4ee";
+    version = "2.2-6-g26085c6f";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-5-g804ff4ee-1_all.deb";
-      sha256 = "sha256-ioNsCBzVnSkuW15w2UOwIj0G7Ovzv7oaXwFvfAIpkxE=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-6-g26085c6f-1_all.deb";
+      sha256 = "sha256-yN4nxfBDoYoqYbJtWIPbGuTCbMeRX6M2ZQFcL4U9F6I=";
     };
   };
   layout-machi = {
@@ -830,16 +830,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "943ce980502be463ac8dca1e9a301ebdaed823de";
+    version = "db4e2812eaafb4822ffeddae7bcd48f7a0b06030";
     src = fetchFromGitHub {
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "943ce980502be463ac8dca1e9a301ebdaed823de";
+      rev = "db4e2812eaafb4822ffeddae7bcd48f7a0b06030";
       fetchSubmodules = false;
       sha256 = "sha256-mbtgK5r9TIfq0uxL2st2f14QbiXt9HW4Vs+KLtsX79g=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-943ce980502be463ac8dca1e9a301ebdaed823de/Cargo.lock;
+      lockFile = ./rustdesk-db4e2812eaafb4822ffeddae7bcd48f7a0b06030/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1067,13 +1067,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "50c29ee4b2035d9aea7fbcee09af28157e9b55ff";
+    version = "3060f1d138acd9fbe9a9409811216cfed7b493db";
     src = fetchFromGitHub {
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "50c29ee4b2035d9aea7fbcee09af28157e9b55ff";
+      rev = "3060f1d138acd9fbe9a9409811216cfed7b493db";
       fetchSubmodules = false;
-      sha256 = "sha256-UuHL4WyYESApdNSsElrVjbnGR5ZNRGksXPUKCwgsfvg=";
+      sha256 = "sha256-nbacjA+qcXp0T7CqTVIj5QOdGFBvKRSknxbIRyaKDls=";
     };
   };
   ultimmc = {

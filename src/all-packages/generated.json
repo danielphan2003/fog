@@ -737,11 +737,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-98X7c+i/h+QnISDVSXN1lNB2qaLMYM6IUJi/ICdhVK0=",
+      "sha256": "sha256-pmRABNDzNol1rnh7dc4wg7gMUuBym8KVLjXEWOZyL5g=",
       "type": "url",
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6223.tar.bz2"
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6224.tar.bz2"
     },
-    "version": "1.0.6223"
+    "version": "1.0.6224"
   },
   "jitsi-meet-prosody": {
     "cargoLocks": null,
@@ -765,11 +765,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-ioNsCBzVnSkuW15w2UOwIj0G7Ovzv7oaXwFvfAIpkxE=",
+      "sha256": "sha256-yN4nxfBDoYoqYbJtWIPbGuTCbMeRX6M2ZQFcL4U9F6I=",
       "type": "url",
-      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-5-g804ff4ee-1_all.deb"
+      "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-6-g26085c6f-1_all.deb"
     },
-    "version": "2.2-5-g804ff4ee"
+    "version": "2.2-6-g26085c6f"
   },
   "layout-machi": {
     "cargoLocks": null,
@@ -1389,7 +1389,7 @@
   "rustdesk": {
     "cargoLocks": {
       "Cargo.lock": [
-        "./rustdesk-943ce980502be463ac8dca1e9a301ebdaed823de/Cargo.lock",
+        "./rustdesk-db4e2812eaafb4822ffeddae7bcd48f7a0b06030/Cargo.lock",
         {
           "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
           "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
@@ -1412,11 +1412,11 @@
       "name": null,
       "owner": "rustdesk",
       "repo": "rustdesk",
-      "rev": "943ce980502be463ac8dca1e9a301ebdaed823de",
+      "rev": "db4e2812eaafb4822ffeddae7bcd48f7a0b06030",
       "sha256": "sha256-mbtgK5r9TIfq0uxL2st2f14QbiXt9HW4Vs+KLtsX79g=",
       "type": "github"
     },
-    "version": "943ce980502be463ac8dca1e9a301ebdaed823de"
+    "version": "db4e2812eaafb4822ffeddae7bcd48f7a0b06030"
   },
   "rustdesk-server-oss": {
     "cargoLocks": null,
@@ -1789,11 +1789,11 @@
       "name": null,
       "owner": "Ulauncher",
       "repo": "Ulauncher",
-      "rev": "50c29ee4b2035d9aea7fbcee09af28157e9b55ff",
-      "sha256": "sha256-UuHL4WyYESApdNSsElrVjbnGR5ZNRGksXPUKCwgsfvg=",
+      "rev": "3060f1d138acd9fbe9a9409811216cfed7b493db",
+      "sha256": "sha256-nbacjA+qcXp0T7CqTVIj5QOdGFBvKRSknxbIRyaKDls=",
       "type": "github"
     },
-    "version": "50c29ee4b2035d9aea7fbcee09af28157e9b55ff"
+    "version": "3060f1d138acd9fbe9a9409811216cfed7b493db"
   },
   "ultimmc": {
     "cargoLocks": null,
