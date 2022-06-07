@@ -3533,6 +3533,25 @@
     },
     "version": "1.68.2"
   },
+  "MS-CEINTL-vscode-language-pack-qps-ploc": {
+    "cargoLocks": null,
+    "extract": null,
+    "name": "MS-CEINTL-vscode-language-pack-qps-ploc",
+    "passthru": {
+      "description": "Language pack extension for Pseudo Language",
+      "license": "MIT",
+      "name": "vscode-language-pack-qps-ploc",
+      "publisher": "MS-CEINTL"
+    },
+    "pinned": false,
+    "src": {
+      "name": null,
+      "sha256": "sha256-QO8CLsg5EYykQbw/Q5SKG6vFol4lQdimEDSYxv/5z5c=",
+      "type": "url",
+      "url": "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-qps-ploc/1.68.2/file/MS-CEINTL.vscode-language-pack-qps-ploc-1.68.2.vsix"
+    },
+    "version": "1.68.2"
+  },
   "MS-CEINTL-vscode-language-pack-ru": {
     "cargoLocks": null,
     "extract": null,
@@ -5085,11 +5104,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-5okEPpRg3k+Ub2geIWknbKy3uwf4pJXyZXRO5eZy8Ko=",
+      "sha256": "sha256-iQ6XX2vtFljN/uyDiEGbJsp1s+TsI/PG8kZCGA4svTs=",
       "type": "url",
-      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.413/file/Slint.slint-nightly-2022.6.413.vsix"
+      "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.700/file/Slint.slint-nightly-2022.6.700.vsix"
     },
-    "version": "2022.6.413"
+    "version": "2022.6.700"
   },
   "SlySherZ-comment-box": {
     "cargoLocks": null,
@@ -7270,11 +7289,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-HdQe6rmaRT4p0x4IO73NreKYPNGkgY5C2TeMRmzTLgc=",
+      "sha256": "sha256-oxeAIXW9hDK93kILoe1ARQhAFJOPM+im0RjvThlB7Xw=",
       "type": "url",
-      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.38.0/file/amazonwebservices.aws-toolkit-vscode-1.38.0.vsix"
+      "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.39.0/file/amazonwebservices.aws-toolkit-vscode-1.39.0.vsix"
     },
-    "version": "1.38.0"
+    "version": "1.39.0"
   },
   "amiralizadeh9480-laravel-extra-intellisense": {
     "cargoLocks": null,
@@ -11146,11 +11165,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-FlUmNJeV4OzjkeuP6zb82xtwxTZlt4s/yOWPzq93RTw=",
+      "sha256": "sha256-WWeE8oQqW3+fxhX3YtTZYwII3mhBStxPY5QBHD3N+PQ=",
       "type": "url",
-      "url": "https://open-vsx.org/api/cweijan/vscode-office/2.5.5/file/cweijan.vscode-office-2.5.5.vsix"
+      "url": "https://open-vsx.org/api/cweijan/vscode-office/2.5.7/file/cweijan.vscode-office-2.5.7.vsix"
     },
-    "version": "2.5.5"
+    "version": "2.5.7"
   },
   "cweijan-vscode-postgresql-client2": {
     "cargoLocks": null,
@@ -16770,11 +16789,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-pD3Rh0kCEQ22bqgdd591C2Wd8kmntmpYshUB7s2bCMA=",
+      "sha256": "sha256-qiUOCdQVGox019B5Ib8QbwunvVXp1kVd0QbZftMox6M=",
       "type": "url",
-      "url": "https://open-vsx.org/api/iterative/dvc/0.2.22/file/iterative.dvc-0.2.22.vsix"
+      "url": "https://open-vsx.org/api/iterative/dvc/0.2.23/file/iterative.dvc-0.2.23.vsix"
     },
-    "version": "0.2.22"
+    "version": "0.2.23"
   },
   "itsjonq-owlet": {
     "cargoLocks": null,
