@@ -281,6 +281,10 @@ fetch.pypi = "pmbootstrap"
 src.git = "https://gitlab.com/postmarketOS/pmbootstrap"
 fetch.git = "https://gitlab.com/postmarketOS/pmbootstrap"
 
+[polymc-cracked]
+src.git = "https://github.com/thecountrox/PolyMC-Cracked"
+fetch.github = "thecountrox/PolyMC-Cracked"
+
 [pure]
 src.git = "https://github.com/sindresorhus/pure"
 fetch.github = "sindresorhus/pure"
