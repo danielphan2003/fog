@@ -308,13 +308,13 @@
   };
   duf = {
     pname = "duf";
-    version = "d5fb12149e1b3f6f4edc8187e8f92359c92da363";
+    version = "4f4bce983562c3edc40161a44de19a2e258e38b1";
     src = fetchFromGitHub {
       owner = "muesli";
       repo = "duf";
-      rev = "d5fb12149e1b3f6f4edc8187e8f92359c92da363";
+      rev = "4f4bce983562c3edc40161a44de19a2e258e38b1";
       fetchSubmodules = false;
-      sha256 = "sha256-1RFG3fTFLdFoNBBrDWp/+zlQb7KHvSS6SnzEgCnj3Yw=";
+      sha256 = "sha256-Wg7b31nm/p/0rHYwLKoI6/1iQH2qmWWKX9knFxf5T3Q=";
     };
   };
   eww = {
@@ -395,13 +395,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0b8fe2a0aa02e2b0eb347b7793ac8a8f850cd62e";
+    version = "7b73570f11c61aa87b6052e5687dc612510ff575";
     src = fetchFromGitHub {
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "0b8fe2a0aa02e2b0eb347b7793ac8a8f850cd62e";
+      rev = "7b73570f11c61aa87b6052e5687dc612510ff575";
       fetchSubmodules = false;
-      sha256 = "sha256-F8iMBMhz4NJmGhXIcWlWj9eqZtWbWqWdDid+MBSbJKs=";
+      sha256 = "sha256-c7drz+04QhI3RuERpp8LnCM8BtI3Pjv+K/+zablCGyI=";
     };
   };
   ibus = {
@@ -444,18 +444,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6227";
+    version = "1.0.6228";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6227.tar.bz2";
-      sha256 = "sha256-O8OKyra5x9ynvF1InRTdpZt3xbHBNa/yy5ot0aIOB/8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6228.tar.bz2";
+      sha256 = "sha256-wvHvVGPDQai17ZBoQV8nOHL3jLRZOe2HLazNyyQULIc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6227";
+    version = "1.0.6228";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6227-1_all.deb";
-      sha256 = "sha256-+O7CvECjrtLKydhPctSmfrC329NLa0YEFBIbO1rIBxE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6228-1_all.deb";
+      sha256 = "sha256-bvDyoCnGMVmzmUJccSKZswYhaRul5sCgGZaZkR8ysRk=";
     };
   };
   jitsi-videobridge2 = {
@@ -580,10 +580,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.34.1";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.34.1.tar.gz";
-      sha256 = "sha256-9uVYRaUke9BbTrT4PTbc1NksywAAbDNge36ZVV9AEP8=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.35.0.tar.gz";
+      sha256 = "sha256-Qt/azdsGbHcg3EnZ36Ets/FEBNzs8PQnSt/4sI5EAyE=";
     };
   };
   netdata-go-d-plugin = {
@@ -830,16 +830,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "04192d8361fca1dee5706e69a71d217383d4cef6";
+    version = "71e6c42560c316d056fe4a0c0401107189d338cd";
     src = fetchFromGitHub {
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "04192d8361fca1dee5706e69a71d217383d4cef6";
+      rev = "71e6c42560c316d056fe4a0c0401107189d338cd";
       fetchSubmodules = false;
-      sha256 = "sha256-fx9MkyklliNRASPKdp/HZ4OmwvUuuUOeMZ6z58UOkLQ=";
+      sha256 = "sha256-L0GpcEMLZ7rv7Qd3ZS0cqh6w3h0EFB3GKnE3DX0Ojjw=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-04192d8361fca1dee5706e69a71d217383d4cef6/Cargo.lock;
+      lockFile = ./rustdesk-71e6c42560c316d056fe4a0c0401107189d338cd/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1067,13 +1067,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "4b2106b48e847cdb21f6297a81d8c32d14ab3ea9";
+    version = "77acc703bafb3c79f1bc051b670990bb7df8e2b9";
     src = fetchFromGitHub {
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "4b2106b48e847cdb21f6297a81d8c32d14ab3ea9";
+      rev = "77acc703bafb3c79f1bc051b670990bb7df8e2b9";
       fetchSubmodules = false;
-      sha256 = "sha256-8DUX35xLTc+kIdpYmrSbTShvcpNwmdW3QTMsmK0wUYk=";
+      sha256 = "sha256-hO09t9E8L4Zzvdq94JoMJsJus9aPgHGncbVXujXjOZQ=";
     };
   };
   ultimmc = {
