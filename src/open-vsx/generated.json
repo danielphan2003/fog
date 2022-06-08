@@ -16808,11 +16808,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-qiUOCdQVGox019B5Ib8QbwunvVXp1kVd0QbZftMox6M=",
+      "sha256": "sha256-9MXswJ5i9EeF4aP2DFL1LfqJ8Pwj6gksNna57mP+tsc=",
       "type": "url",
-      "url": "https://open-vsx.org/api/iterative/dvc/0.2.23/file/iterative.dvc-0.2.23.vsix"
+      "url": "https://open-vsx.org/api/iterative/dvc/0.2.24/file/iterative.dvc-0.2.24.vsix"
     },
-    "version": "0.2.23"
+    "version": "0.2.24"
   },
   "itsjonq-owlet": {
     "cargoLocks": null,
