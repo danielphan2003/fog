@@ -92,11 +92,11 @@
   };
   ms-vscode-cpptools = {
     pname = "ms-vscode-cpptools";
-    version = "1.10.4";
+    version = "1.10.5";
     src = fetchurl {
-      url = "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.10.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "cpptools-1.10.4.zip";
-      sha256 = "sha256-lLgIU6iccRRiuu8Q/XvAv7W4tiCo86vUtpnhd7yteWs=";
+      url = "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.10.5/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "cpptools-1.10.5.zip";
+      sha256 = "sha256-g+q4s/iPkIKlIOSJ3NDVuL5qERtNNSjNwe+unaAZtJw=";
     };
     license = "MIT";
     name = "cpptools";
