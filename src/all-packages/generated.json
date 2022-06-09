@@ -737,11 +737,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-V2RM7NhoYOZ6XM85vQCvA923ZqV1FdqAkTAeuwu7nms=",
+      "sha256": "sha256-5XXKtt7QH4+DWehAnkwYmi+9hF8yv1Wea+qqsR+At7s=",
       "type": "url",
-      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6229.tar.bz2"
+      "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6231.tar.bz2"
     },
-    "version": "1.0.6229"
+    "version": "1.0.6231"
   },
   "jitsi-meet-prosody": {
     "cargoLocks": null,
@@ -751,11 +751,11 @@
     "pinned": false,
     "src": {
       "name": null,
-      "sha256": "sha256-tVznxPVScSNmGIEXs1eGEnYL3Q8mUE+jzZCUw/ImXEg=",
+      "sha256": "sha256-RBZVHMvh65eGrFGcXY9H8z1mlresKL1b7abFVpWf7U4=",
       "type": "url",
-      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6229-1_all.deb"
+      "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6231-1_all.deb"
     },
-    "version": "1.0.6229"
+    "version": "1.0.6231"
   },
   "jitsi-videobridge2": {
     "cargoLocks": null,
@@ -1389,7 +1389,7 @@
   "rustdesk": {
     "cargoLocks": {
       "Cargo.lock": [
-        "./rustdesk-b88b4151bcea679503aa54a24bb793d2c06795c1/Cargo.lock",
+        "./rustdesk-d31bfc915150673d1442932a8cc199e2597a74be/Cargo.lock",
         {
           "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
           "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
@@ -1412,11 +1412,11 @@
       "name": null,
       "owner": "rustdesk",
       "repo": "rustdesk",
-      "rev": "b88b4151bcea679503aa54a24bb793d2c06795c1",
-      "sha256": "sha256-FgRHH1PiCoX238hSN7HlLVorU4K67i8MsNACnWzfXVA=",
+      "rev": "d31bfc915150673d1442932a8cc199e2597a74be",
+      "sha256": "sha256-o2I38X84hyeOgTkryEzBBhqe0F1PjXhdNmlyqqWE6sE=",
       "type": "github"
     },
-    "version": "b88b4151bcea679503aa54a24bb793d2c06795c1"
+    "version": "d31bfc915150673d1442932a8cc199e2597a74be"
   },
   "rustdesk-server-oss": {
     "cargoLocks": null,
