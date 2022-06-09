@@ -137,13 +137,13 @@
   };
   avizo = {
     pname = "avizo";
-    version = "ef80131cb73fa90225aaccb3cae63e281c534f56";
+    version = "b1a271d0562c1feadfdd24a9f2fc03634c6eb0de";
     src = fetchFromGitHub {
       owner = "misterdanb";
       repo = "avizo";
-      rev = "ef80131cb73fa90225aaccb3cae63e281c534f56";
+      rev = "b1a271d0562c1feadfdd24a9f2fc03634c6eb0de";
       fetchSubmodules = false;
-      sha256 = "sha256-Q2AnMzbmZVp7LHSmhxaHSestAaL0eOb0r3IPwaZqUzE=";
+      sha256 = "sha256-ainU4nXWFp1udVujPHZUeWIfJE4RrjU1hn9J17UuuzU=";
     };
   };
   awesome = {
@@ -181,13 +181,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "b9cff2c18d2de3f9e8787fef802d47b15f59cf82";
+    version = "2b3209ab8056a5b906b08ef0824d2a4b7aea0860";
     src = fetchFromGitHub {
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "b9cff2c18d2de3f9e8787fef802d47b15f59cf82";
+      rev = "2b3209ab8056a5b906b08ef0824d2a4b7aea0860";
       fetchSubmodules = false;
-      sha256 = "sha256-ZqWdW82oToJz32POillH9BSfXFWOIJnNRaRW7NCALd4=";
+      sha256 = "sha256-LY1tdpKwltcSnAofJknumCec2pJyfhPSa+r8k+r++rU=";
     };
   };
   caddy = {
