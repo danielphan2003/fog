@@ -181,13 +181,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "2b3209ab8056a5b906b08ef0824d2a4b7aea0860";
+    version = "a3a4d18c138bded9ad05255c60c4e1ae274a1795";
     src = fetchFromGitHub {
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "2b3209ab8056a5b906b08ef0824d2a4b7aea0860";
+      rev = "a3a4d18c138bded9ad05255c60c4e1ae274a1795";
       fetchSubmodules = false;
-      sha256 = "sha256-LY1tdpKwltcSnAofJknumCec2pJyfhPSa+r8k+r++rU=";
+      sha256 = "sha256-W8HWc9vXHJfBtvestnfgl7kwnLCWEAZVMt+MzzQSlUE=";
     };
   };
   caddy = {
@@ -830,16 +830,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "00afa504971a05035a6f45061f5bcb7db8fcd4e5";
+    version = "b88b4151bcea679503aa54a24bb793d2c06795c1";
     src = fetchFromGitHub {
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "00afa504971a05035a6f45061f5bcb7db8fcd4e5";
+      rev = "b88b4151bcea679503aa54a24bb793d2c06795c1";
       fetchSubmodules = false;
-      sha256 = "sha256-DQf3ooJkBgYTvD/fED0v4YNkqcenWGgvB/IMzMzYD7U=";
+      sha256 = "sha256-FgRHH1PiCoX238hSN7HlLVorU4K67i8MsNACnWzfXVA=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-00afa504971a05035a6f45061f5bcb7db8fcd4e5/Cargo.lock;
+      lockFile = ./rustdesk-b88b4151bcea679503aa54a24bb793d2c06795c1/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
