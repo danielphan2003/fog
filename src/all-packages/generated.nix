@@ -180,13 +180,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "b48cd5638354be93089ead9ffef2ef0a27ae6473";
+    version = "b3ca3121446a69690f7ab75b1067613fa7a507f0";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "b48cd5638354be93089ead9ffef2ef0a27ae6473";
+      rev = "b3ca3121446a69690f7ab75b1067613fa7a507f0";
       fetchSubmodules = false;
-      sha256 = "sha256-1PpxxCILv5kecDb6TdK79+d66laKnYm68f1igVGYDqs=";
+      sha256 = "sha256-emv+D0hRHYmCcSlc4sT9dFZSB63LbBRDgCEnNhCKbgs=";
     });
   };
   caddy = {
@@ -346,13 +346,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "dd9fc451083476a5768b0c6024dd9c117d06671d";
+    version = "fb42ad5c25a3a095e3816112ef4a2921bb953631";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "dd9fc451083476a5768b0c6024dd9c117d06671d";
+      rev = "fb42ad5c25a3a095e3816112ef4a2921bb953631";
       fetchSubmodules = false;
-      sha256 = "sha256-tpMKGk1DKt88N3x0MyXLN0dezMMKsFDK5oytF/mjOLM=";
+      sha256 = "sha256-K7H++H9My+s7p5PXE6TBJEsUKeXmZrfWizQA8Cj/KvE=";
     });
   };
   flyingfox = {
@@ -396,13 +396,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c451e13e4fcc68100a89139944b0f8d305f9d8ec";
+    version = "dc5cc15474813f48ca5754d0ac89ee90e437a07c";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "c451e13e4fcc68100a89139944b0f8d305f9d8ec";
+      rev = "dc5cc15474813f48ca5754d0ac89ee90e437a07c";
       fetchSubmodules = false;
-      sha256 = "sha256-APDitzZRkNc0V+xVtHB3+tZVMJoIRpaIYXCMBGZAxvY=";
+      sha256 = "sha256-+/GY6YJmJlD7XW+DShkXa0mqx1wLoi0wmgvkzeRN6gs=";
     });
   };
   ibus = {
@@ -445,18 +445,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6235";
+    version = "1.0.6242";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6235.tar.bz2";
-      sha256 = "sha256-RGOQYelHO+fsS+6zS7eSA4/2H9v/1y4qcQKSqiBueUw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6242.tar.bz2";
+      sha256 = "sha256-Qw8NoZ7QNRYNzA6GRTkm7Tn29cdZkdu98WVGjnFY4Z8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6235";
+    version = "1.0.6242";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6235-1_all.deb";
-      sha256 = "sha256-kceFmD5TVibscfXSGe7qrltAaFFfvW8/W/bEvi631bY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6242-1_all.deb";
+      sha256 = "sha256-X7oGC8LpcVgbxJIZNlgyeMLtxEW9zSFQNS+PwIyh3y4=";
     };
   };
   jitsi-videobridge2 = {
@@ -554,10 +554,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "103.0.1264.17";
+    version = "103.0.1264.21";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_103.0.1264.17-1_amd64.deb";
-      sha256 = "sha256-8V6QczbFls2m9iKoLlsIl1WJEImtCPsim36dBIS1ukE=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_103.0.1264.21-1_amd64.deb";
+      sha256 = "sha256-jhiZ+GFLlDHM811BSX+IO1YIdVdQbRIvUNT24yGIZow=";
     };
   };
   microsoft-edge-dev = {
@@ -581,10 +581,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.35.0";
+    version = "1.35.1";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.35.0.tar.gz";
-      sha256 = "sha256-Qt/azdsGbHcg3EnZ36Ets/FEBNzs8PQnSt/4sI5EAyE=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.35.1.tar.gz";
+      sha256 = "sha256-yR1ew5VDQz7elr7hJRxI/iF0xupM4tD8+eOSJd9GoVM=";
     };
   };
   netdata-go-d-plugin = {
@@ -703,14 +703,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "dc1433ead039cd6ced8b3319550bc6a7c2a6e7e2";
+    version = "22117de4bd8ace060d0847a851635131eee70ce1";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "dc1433ead039cd6ced8b3319550bc6a7c2a6e7e2";
+      rev = "22117de4bd8ace060d0847a851635131eee70ce1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-YpNI/chM7U0oIblR/L9ps4UpvB0E6N5UP6D1GWEanNk=";
+      sha256 = "sha256-6XTjxYgZ2Zw0MOM0TihVnYRwyifQrPgE7ZkCnmr3rxo=";
     };
   };
   polymc-cracked = {
@@ -810,13 +810,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b0ca2e381cbdf7c0602c32d12f884f4d2900a2fb";
+    version = "13732ba0dae517f50e76b46f9f1ea7f57027a951";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b0ca2e381cbdf7c0602c32d12f884f4d2900a2fb";
+      rev = "13732ba0dae517f50e76b46f9f1ea7f57027a951";
       fetchSubmodules = false;
-      sha256 = "sha256-E7amBrbQrLk2Y0X7lFpepNSiaEOFWeihmSGohU2Jn4c=";
+      sha256 = "sha256-xmabN7QAd0Zb0wwtPgZ3lD626DsCx2TC1/MlrhFLykY=";
     });
   };
   rofi-wayland = {
@@ -832,16 +832,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a8df7d01bacaf7417f655a3b50129842cce2148c";
+    version = "7e9bf70efcf259e6733b0e958ed58bb736fa3110";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a8df7d01bacaf7417f655a3b50129842cce2148c";
+      rev = "7e9bf70efcf259e6733b0e958ed58bb736fa3110";
       fetchSubmodules = false;
-      sha256 = "sha256-AWQotz1EfkAmjj+5vxBYljWx1a4/GlPuJga0MnTThsA=";
+      sha256 = "sha256-HXXFciJSYIh1J/+rKUYOXqCA2hWIytfBjv/vAMMmIoM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a8df7d01bacaf7417f655a3b50129842cce2148c/Cargo.lock;
+      lockFile = ./rustdesk-7e9bf70efcf259e6733b0e958ed58bb736fa3110/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1211,13 +1211,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "e3ca5567a2dbb5b763a383bba5ff1c0437a7e851";
+    version = "fe9c5a11a199c966b32f6b7327136782544b845e";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "e3ca5567a2dbb5b763a383bba5ff1c0437a7e851";
+      rev = "fe9c5a11a199c966b32f6b7327136782544b845e";
       fetchSubmodules = false;
-      sha256 = "sha256-/BXTaaJkszmZ2C4aj4NN+M/FEovF/l/To/G0aCtvIv0=";
+      sha256 = "sha256-b4hgu2HhAmKOXYw/S6pNESuTp2TKDQsw3K9MwAh8vWs=";
     });
   };
   xdg-desktop-portal-gtk = {
