@@ -11,6 +11,10 @@ function parseMeta() {
   fi
 
   for version in $(jq -r '.versions[]' $meta_file); do
+    if [[ "$(nixpkgs papermc-updater $version)" -eq "null" ]]; then
+      break
+    fi
+
     echo
     echo "[$pname-${version//\./_}]" # replace . with _
     echo "src.cmd = \" nixpkgs $pname-updater $version \""
