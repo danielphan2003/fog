@@ -51,6 +51,7 @@ jobs:
     - name: Setup git cred for github actor
       uses: EndBug/add-and-commit@v9
       with:
+        default_author: github_actions
         push: false
 
     - name: Update all open-vsx extensions (except matklad.rust-analyzer)
