@@ -22,7 +22,7 @@ jobs:
         key: ${{ runner.os }}-nvfetcher
 
     - name: Install latest nix
-      uses: cachix/install-nix-action@v16
+      uses: cachix/install-nix-action@v17
       with:
         extra_nix_config: |
           substituters = https://cache.nixos.org https://nix-community.cachix.org https://dan-cfg.cachix.org
