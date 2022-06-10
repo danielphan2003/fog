@@ -39,4 +39,4 @@ jobs:
       run: nix flake update --commit-lock-file
 
     - name: Push changes to main
-      run: git pull --rebase --auto-stash && git push
+      run: git pull --rebase --autostash && git push
