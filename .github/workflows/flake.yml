@@ -36,9 +36,6 @@ jobs:
     - name: Push nix drv cache
       run: nix develop --profile dev && cachix push dan-cfg
 
-    - name: Run flake check
-      run: nix flake check
-
     - name: Push changes to main
       if: ${{ env.COMMIT_MSG != null }}
       uses: EndBug/add-and-commit@v9 
