@@ -1,7 +1,6 @@
 name: Auto update flake.lock
 
 on:
-  pull_request:
   workflow_dispatch:
   schedule:
     # Update every 1 hour

@@ -1,7 +1,6 @@
 name: Auto update vsmarketplace extensions
 
 on:
-  pull_request:
   push:
     paths:
       - cell/nixpkgs/pkgs/misc/vscode-extensions/vsmarketplace.toml

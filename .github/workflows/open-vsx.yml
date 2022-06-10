@@ -1,7 +1,6 @@
 name: Auto update open-vsx extensions
 
 on:
-  pull_request:
   push:
     paths:
       - cell/nixpkgs/pkgs/misc/vscode-extensions/open-vsx.toml

@@ -1,7 +1,6 @@
 name: Auto update all packages
 
 on:
-  pull_request:
   push:
     paths:
       - cell/nixpkgs/pkgs/all-packages.toml

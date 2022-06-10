@@ -1,7 +1,6 @@
 name: Auto update minecraft mods
 
 on:
-  pull_request:
   push:
     paths:
       - cell/nixpkgs/pkgs/misc/minecraft-mods.toml
