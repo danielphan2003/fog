@@ -16,17 +16,22 @@ jobs:
     steps:
     - uses: actions/checkout@v2.3.4
 
-    - uses: cachix/install-nix-action@v16
+    - name: Cache nvfetcher
+      uses: actions/cache@v2
       with:
-        install_url: https://github.com/numtide/nix-unstable-installer/releases/download/nix-2.9.0pre20220527_ec07a70/install
+        path: ~/.local/share/nvfetcher
+        key: ${{ runner.os }}-nvfetcher
+
+    - name: Install latest nix
+      uses: cachix/install-nix-action@v16
+      with:
         extra_nix_config: |
-          experimental-features = nix-command flakes
-          system-features = nixos-test benchmark big-parallel kvm recursive-nix
-          substituters = https://cache.nixos.org https://nrdxp.cachix.org https://nix-community.cachix.org https://dan-cfg.cachix.org
-          trusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= nrdxp.cachix.org-1:Fc5PSqY2Jm1TrWfm88l6cvGWwz3s93c6IOifQWnhNW4= nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= dan-cfg.cachix.org-1:elcVKJWjnDs1zzZ/Fs93FLOFS13OQx1z0TxP0Q7PH9o=
+          substituters = https://cache.nixos.org https://nix-community.cachix.org https://dan-cfg.cachix.org
+          trusted-public-keys = cache.nixos.org-1:6NCHdD59X431o0gWypbMrAURkbJ16ZPMQFGspcDShjY= nix-community.cachix.org-1:mB9FSh9qf2dCimDSUo8Zy7bkq5CX+/rkCWyvRCYg3Fs= dan-cfg.cachix.org-1:elcVKJWjnDs1zzZ/Fs93FLOFS13OQx1z0TxP0Q7PH9o=
         nix_path: nixpkgs=channel:nixos-unstable
 
-    - uses: cachix/cachix-action@v10
+    - name: Setup nix drv cache
+      uses: cachix/cachix-action@v10
       with:
         name: dan-cfg
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
@@ -43,5 +48,17 @@ jobs:
     - name: Update all minecraft-mods extensions
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources misc/minecraft-mods
 
+    - name: Push nix drv cache
+      run: nix develop --profile dev && cachix push dan-cfg
+
+    - name: Run flake check
+      run: nix flake check
+
     - name: Push changes to main
-      run: git pull --no-rebase && git push
+      uses: EndBug/add-and-commit@v9 
+      if: ${{ env.COMMIT_MSG != null }}
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        pull: '--rebase --autostash'
+        default_author: github_actions
+        message: ${{ env.COMMIT_MSG }}

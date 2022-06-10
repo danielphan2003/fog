@@ -10,7 +10,7 @@
     , std
     , ...
     } @ inputs:
-    std.grow {
+    std.growOn {
       inherit inputs;
       cellsFrom = ./cells;
       organelles = [
@@ -29,6 +29,8 @@
 
         (std.devshells "devshells")
       ];
+    } {
+      devShells = std.harvest self ["nixpkgs" "devshells"];
     }
   ;
 
