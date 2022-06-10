@@ -16,8 +16,3 @@ nvfetcher \
   -o "$sourceDir" \
   "${args[@]}" \
   -c "$file"
-
-if [ $CI ]; then
-  git add .
-  git commit -m "Update: $name"
-fi
