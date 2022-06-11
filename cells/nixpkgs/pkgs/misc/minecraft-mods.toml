@@ -107,9 +107,9 @@ src.cmd = " nixpkgs modrinth-updater uXXizFIs 1.18 "
 fetch.url = "https://cdn.modrinth.com/data/uXXizFIs/versions/$ver/ferritecore-$ver-fabric.jar"
 passthru = { mcVer = "1.18", modId = "uXXizFIs" }
 
-[lazydfu]
-src.github = "astei/lazydfu"
-fetch.url = "https://github.com/astei/lazydfu/releases/download/$ver/lazydfu-$ver.jar"
+# [lazydfu]
+# src.github = "astei/lazydfu"
+# fetch.url = "https://github.com/astei/lazydfu/releases/download/$ver/lazydfu-$ver.jar"
 
 [starlight-fabric-1_17]
 src.cmd = " nixpkgs modrinth-updater H8CaAYZC 1.17 --files "
