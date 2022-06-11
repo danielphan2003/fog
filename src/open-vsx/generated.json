@@ -25307,6 +25307,25 @@
         },
         "version": "1.10.1"
     },
+    "raer0-codium-dark-syntax": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "raer0-codium-dark-syntax",
+        "passthru": {
+            "description": "A VSCodium/VSCode theme based off Atom IDE Dark Syntax",
+            "license": "BSD-3-Clause",
+            "name": "codium-dark-syntax",
+            "publisher": "raer0"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-bgsr7S7diWNvdFJH8TPY+gcvz0RfrEDnGeO5mt8IEVo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/raer0/codium-dark-syntax/1.0.0/file/raer0.codium-dark-syntax-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "rafaelmaiolla-diff": {
         "cargoLocks": null,
         "extract": null,

@@ -15985,6 +15985,18 @@
     description = "Field Lights based dark theme";
     publisher = "radiolevity";
   };
+  raer0-codium-dark-syntax = {
+    pname = "raer0-codium-dark-syntax";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/raer0/codium-dark-syntax/1.0.0/file/raer0.codium-dark-syntax-1.0.0.vsix";
+      sha256 = "sha256-bgsr7S7diWNvdFJH8TPY+gcvz0RfrEDnGeO5mt8IEVo=";
+    };
+    license = "BSD-3-Clause";
+    name = "codium-dark-syntax";
+    description = "A VSCodium/VSCode theme based off Atom IDE Dark Syntax";
+    publisher = "raer0";
+  };
   rafaelmaiolla-diff = {
     pname = "rafaelmaiolla-diff";
     version = "0.0.1";
