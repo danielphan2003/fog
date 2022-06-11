@@ -5727,10 +5727,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.283";
+    version = "2.0.284";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.283/file/betterthantomorrow.calva-2.0.283.vsix";
-      sha256 = "sha256-U2uYPY9kOaTYoaEzs5gWmwYVO6MBoiu1AnBlG62kyJw=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.284/file/betterthantomorrow.calva-2.0.284.vsix";
+      sha256 = "sha256-whcwDX08jgMrfM8vBg6PkPZdUHZ0T33AGw/Buwc03a0=";
     };
     license = "MIT";
     name = "calva";
@@ -5967,10 +5967,10 @@
   };
   bpruitt-goddard-mermaid-markdown-syntax-highlighting = {
     pname = "bpruitt-goddard-mermaid-markdown-syntax-highlighting";
-    version = "1.2.3";
+    version = "1.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.3/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.3.vsix";
-      sha256 = "sha256-B3EG/eScggPxgjslHj+rGtYahE5VjvcUVJRRH8BbseU=";
+      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.4/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.4.vsix";
+      sha256 = "sha256-ipdqVglcifFl3FZnWcBt9Hxr385JFJAVc1LdAru9Mjk=";
     };
     license = "MIT";
     name = "mermaid-markdown-syntax-highlighting";
@@ -9591,10 +9591,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.5";
+    version = "1.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.5/file/halcyontechltd.code-for-ibmi-1.3.5.vsix";
-      sha256 = "sha256-GMr5rHWcW72u81gg5ZvchK13+m4U4b3uFDCn9OUG+NE=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.6/file/halcyontechltd.code-for-ibmi-1.3.6.vsix";
+      sha256 = "sha256-Q0hmc6Ds7v7kdsDsBXDsF+OmQHo9VsgUYdPzX+OIchQ=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -9639,10 +9639,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.15";
+    version = "0.1.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.15/file/hall.draw-0.1.15.vsix";
-      sha256 = "sha256-b0njOAB9k/9Qx1AY8EqkEpXzygpjSiObyrst3HtVfwQ=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.17/file/hall.draw-0.1.17.vsix";
+      sha256 = "sha256-TUlmz2C53OPoIWMCljBDwTEbZb+uqj9bo9Eegf+Y6EI=";
     };
     license = "Apache-2.0";
     name = "draw";

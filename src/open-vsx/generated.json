@@ -9075,11 +9075,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-U2uYPY9kOaTYoaEzs5gWmwYVO6MBoiu1AnBlG62kyJw=",
+            "sha256": "sha256-whcwDX08jgMrfM8vBg6PkPZdUHZ0T33AGw/Buwc03a0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.283/file/betterthantomorrow.calva-2.0.283.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.284/file/betterthantomorrow.calva-2.0.284.vsix"
         },
-        "version": "2.0.283"
+        "version": "2.0.284"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -9455,11 +9455,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-B3EG/eScggPxgjslHj+rGtYahE5VjvcUVJRRH8BbseU=",
+            "sha256": "sha256-ipdqVglcifFl3FZnWcBt9Hxr385JFJAVc1LdAru9Mjk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.3/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.3.vsix"
+            "url": "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.4/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.4.vsix"
         },
-        "version": "1.2.3"
+        "version": "1.2.4"
     },
     "bradlc-vscode-tailwindcss": {
         "cargoLocks": null,
@@ -15193,11 +15193,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GMr5rHWcW72u81gg5ZvchK13+m4U4b3uFDCn9OUG+NE=",
+            "sha256": "sha256-Q0hmc6Ds7v7kdsDsBXDsF+OmQHo9VsgUYdPzX+OIchQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.5/file/halcyontechltd.code-for-ibmi-1.3.5.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.6/file/halcyontechltd.code-for-ibmi-1.3.6.vsix"
         },
-        "version": "1.3.5"
+        "version": "1.3.6"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -15269,11 +15269,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b0njOAB9k/9Qx1AY8EqkEpXzygpjSiObyrst3HtVfwQ=",
+            "sha256": "sha256-TUlmz2C53OPoIWMCljBDwTEbZb+uqj9bo9Eegf+Y6EI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hall/draw/0.1.15/file/hall.draw-0.1.15.vsix"
+            "url": "https://open-vsx.org/api/hall/draw/0.1.17/file/hall.draw-0.1.17.vsix"
         },
-        "version": "0.1.15"
+        "version": "0.1.17"
     },
     "harehare-textusm": {
         "cargoLocks": null,
