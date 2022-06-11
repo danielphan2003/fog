@@ -15987,14 +15987,26 @@
   };
   raer0-codium-dark-syntax = {
     pname = "raer0-codium-dark-syntax";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/raer0/codium-dark-syntax/1.0.0/file/raer0.codium-dark-syntax-1.0.0.vsix";
-      sha256 = "sha256-bgsr7S7diWNvdFJH8TPY+gcvz0RfrEDnGeO5mt8IEVo=";
+      url = "https://open-vsx.org/api/raer0/codium-dark-syntax/1.1.0/file/raer0.codium-dark-syntax-1.1.0.vsix";
+      sha256 = "sha256-519dKwLsLy10zjXo4AZm871AV87TNIyZ/54cRI9LsLs=";
     };
     license = "BSD-3-Clause";
     name = "codium-dark-syntax";
     description = "A VSCodium/VSCode theme based off Atom IDE Dark Syntax";
+    publisher = "raer0";
+  };
+  raer0-codium-insertdatestring = {
+    pname = "raer0-codium-insertdatestring";
+    version = "2.3.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/raer0/codium-insertdatestring/2.3.1/file/raer0.codium-insertdatestring-2.3.1.vsix";
+      sha256 = "sha256-3wWlyBeqVP9YZX4LgY3Xg3Kgs5dHSqRYWO5SKpLOhMA=";
+    };
+    license = "MIT";
+    name = "codium-insertdatestring";
+    description = "Insert the current date and time according to configured format.";
     publisher = "raer0";
   };
   rafaelmaiolla-diff = {

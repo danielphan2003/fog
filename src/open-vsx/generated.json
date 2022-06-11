@@ -25320,11 +25320,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bgsr7S7diWNvdFJH8TPY+gcvz0RfrEDnGeO5mt8IEVo=",
+            "sha256": "sha256-519dKwLsLy10zjXo4AZm871AV87TNIyZ/54cRI9LsLs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/raer0/codium-dark-syntax/1.0.0/file/raer0.codium-dark-syntax-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/raer0/codium-dark-syntax/1.1.0/file/raer0.codium-dark-syntax-1.1.0.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.1.0"
+    },
+    "raer0-codium-insertdatestring": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "raer0-codium-insertdatestring",
+        "passthru": {
+            "description": "Insert the current date and time according to configured format.",
+            "license": "MIT",
+            "name": "codium-insertdatestring",
+            "publisher": "raer0"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-3wWlyBeqVP9YZX4LgY3Xg3Kgs5dHSqRYWO5SKpLOhMA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/raer0/codium-insertdatestring/2.3.1/file/raer0.codium-insertdatestring-2.3.1.vsix"
+        },
+        "version": "2.3.1"
     },
     "rafaelmaiolla-diff": {
         "cargoLocks": null,
