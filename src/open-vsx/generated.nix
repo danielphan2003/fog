@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1036";
+    version = "31.0.1037";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1036/file/Prisma.prisma-insider-31.0.1036.vsix";
-      sha256 = "sha256-Qz9mTaQK46AJUm8st5Dv6MrCKcSgmxoUZ4YGh9tiJ5U=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1037/file/Prisma.prisma-insider-31.0.1037.vsix";
+      sha256 = "sha256-m+sWt7jivdIsjU4Y+baAwoXjJ9Be6gMniISVpztx22g=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5727,10 +5727,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.284";
+    version = "2.0.285";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.284/file/betterthantomorrow.calva-2.0.284.vsix";
-      sha256 = "sha256-whcwDX08jgMrfM8vBg6PkPZdUHZ0T33AGw/Buwc03a0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.285/file/betterthantomorrow.calva-2.0.285.vsix";
+      sha256 = "sha256-H2X22CC8YzKBo+r2Cyp71HHZ8LTAPTy/Kv4+xM+2bPc=";
     };
     license = "MIT";
     name = "calva";
@@ -7551,10 +7551,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.98.3";
+    version = "0.98.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.98.3/file/dendron.nightly-0.98.3.vsix";
-      sha256 = "sha256-rrrfoVthlWaxN9o9v4I2c03G1za3noTTaL6XzqRaE9E=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.98.4/file/dendron.nightly-0.98.4.vsix";
+      sha256 = "sha256-2wV1OIWZkhNMTXfioo8JHUvppatPxffT26EUd1vYKVY=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -15684,6 +15684,54 @@
     name = "vscode-css-peek";
     description = "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.";
     publisher = "pranaygp";
+  };
+  prantlf-fold-on-open = {
+    pname = "prantlf-fold-on-open";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/prantlf/fold-on-open/1.1.0/file/prantlf.fold-on-open-1.1.0.vsix";
+      sha256 = "sha256-7hC8klIAnVS/0BSp4+oKNh29gE9sDikzzFEpezKQFZA=";
+    };
+    license = "MIT";
+    name = "fold-on-open";
+    description = "Folds comments or other targets in code files automatically when you open them.";
+    publisher = "prantlf";
+  };
+  prantlf-javascript-oldies = {
+    pname = "prantlf-javascript-oldies";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/prantlf/javascript-oldies/1.0.0/file/prantlf.javascript-oldies-1.0.0.vsix";
+      sha256 = "sha256-SxBGSyMIEQhNq+++dnRdccBmSOS8ePSSyTh8G8LgNEI=";
+    };
+    license = "MIT";
+    name = "javascript-oldies";
+    description = "Collects extensions to help maintaining JavaScript projects written with old frameworks and tools.";
+    publisher = "prantlf";
+  };
+  prantlf-karma-problem-matchers = {
+    pname = "prantlf-karma-problem-matchers";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/prantlf/karma-problem-matchers/1.0.0/file/prantlf.karma-problem-matchers-1.0.0.vsix";
+      sha256 = "sha256-55Yw96Q/QAzmra8lfJKdr/TP30DpoWrGbe2ztkahnFI=";
+    };
+    license = "MIT";
+    name = "karma-problem-matchers";
+    description = "Capture errors from tests written with Jasmine, Mocha or other test framework and run by Karma from Visual Studio Code.";
+    publisher = "prantlf";
+  };
+  prantlf-vscode-oscript = {
+    pname = "prantlf-vscode-oscript";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/prantlf/vscode-oscript/0.3.0/file/prantlf.vscode-oscript-0.3.0.vsix";
+      sha256 = "sha256-oveOccbWAR2Y/2v0KBwQhAQsaK4w5heEvowGJsV7Ems=";
+    };
+    license = "MIT";
+    name = "vscode-oscript";
+    description = "Provides syntax checking and fixing, highlighting, autocompletion, hints, symbol outline, identifier recognition and renaming and other features for the OScript language in Visual Studio Code.";
+    publisher = "prantlf";
   };
   prime31-zig = {
     pname = "prime31-zig";

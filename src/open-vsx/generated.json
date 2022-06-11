@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Qz9mTaQK46AJUm8st5Dv6MrCKcSgmxoUZ4YGh9tiJ5U=",
+            "sha256": "sha256-m+sWt7jivdIsjU4Y+baAwoXjJ9Be6gMniISVpztx22g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1036/file/Prisma.prisma-insider-31.0.1036.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1037/file/Prisma.prisma-insider-31.0.1037.vsix"
         },
-        "version": "31.0.1036"
+        "version": "31.0.1037"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9075,11 +9075,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-whcwDX08jgMrfM8vBg6PkPZdUHZ0T33AGw/Buwc03a0=",
+            "sha256": "sha256-H2X22CC8YzKBo+r2Cyp71HHZ8LTAPTy/Kv4+xM+2bPc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.284/file/betterthantomorrow.calva-2.0.284.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.285/file/betterthantomorrow.calva-2.0.285.vsix"
         },
-        "version": "2.0.284"
+        "version": "2.0.285"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -11963,11 +11963,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rrrfoVthlWaxN9o9v4I2c03G1za3noTTaL6XzqRaE9E=",
+            "sha256": "sha256-2wV1OIWZkhNMTXfioo8JHUvppatPxffT26EUd1vYKVY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.98.3/file/dendron.nightly-0.98.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.98.4/file/dendron.nightly-0.98.4.vsix"
         },
-        "version": "0.98.3"
+        "version": "0.98.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -24831,6 +24831,82 @@
             "url": "https://open-vsx.org/api/pranaygp/vscode-css-peek/4.2.0/file/pranaygp.vscode-css-peek-4.2.0.vsix"
         },
         "version": "4.2.0"
+    },
+    "prantlf-fold-on-open": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "prantlf-fold-on-open",
+        "passthru": {
+            "description": "Folds comments or other targets in code files automatically when you open them.",
+            "license": "MIT",
+            "name": "fold-on-open",
+            "publisher": "prantlf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-7hC8klIAnVS/0BSp4+oKNh29gE9sDikzzFEpezKQFZA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/prantlf/fold-on-open/1.1.0/file/prantlf.fold-on-open-1.1.0.vsix"
+        },
+        "version": "1.1.0"
+    },
+    "prantlf-javascript-oldies": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "prantlf-javascript-oldies",
+        "passthru": {
+            "description": "Collects extensions to help maintaining JavaScript projects written with old frameworks and tools.",
+            "license": "MIT",
+            "name": "javascript-oldies",
+            "publisher": "prantlf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-SxBGSyMIEQhNq+++dnRdccBmSOS8ePSSyTh8G8LgNEI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/prantlf/javascript-oldies/1.0.0/file/prantlf.javascript-oldies-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
+    "prantlf-karma-problem-matchers": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "prantlf-karma-problem-matchers",
+        "passthru": {
+            "description": "Capture errors from tests written with Jasmine, Mocha or other test framework and run by Karma from Visual Studio Code.",
+            "license": "MIT",
+            "name": "karma-problem-matchers",
+            "publisher": "prantlf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-55Yw96Q/QAzmra8lfJKdr/TP30DpoWrGbe2ztkahnFI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/prantlf/karma-problem-matchers/1.0.0/file/prantlf.karma-problem-matchers-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
+    "prantlf-vscode-oscript": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "prantlf-vscode-oscript",
+        "passthru": {
+            "description": "Provides syntax checking and fixing, highlighting, autocompletion, hints, symbol outline, identifier recognition and renaming and other features for the OScript language in Visual Studio Code.",
+            "license": "MIT",
+            "name": "vscode-oscript",
+            "publisher": "prantlf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-oveOccbWAR2Y/2v0KBwQhAQsaK4w5heEvowGJsV7Ems=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/prantlf/vscode-oscript/0.3.0/file/prantlf.vscode-oscript-0.3.0.vsix"
+        },
+        "version": "0.3.0"
     },
     "prime31-zig": {
         "cargoLocks": null,
