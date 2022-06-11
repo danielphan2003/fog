@@ -11679,10 +11679,10 @@
   };
   kodetech-kha = {
     pname = "kodetech-kha";
-    version = "22.6.4";
+    version = "22.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/kha/22.6.4/file/kodetech.kha-22.6.4.vsix";
-      sha256 = "sha256-myNXun73U4rIrL5lMyoe82l6TlTumr8nomUGIFauxH0=";
+      url = "https://open-vsx.org/api/kodetech/kha/22.6.5/file/kodetech.kha-22.6.5.vsix";
+      sha256 = "sha256-ts36I42uYZTjvyR2nRnqwyN5nqxEjGWrbKlfNP0ZDR0=";
     };
     license = "";
     name = "kha";
