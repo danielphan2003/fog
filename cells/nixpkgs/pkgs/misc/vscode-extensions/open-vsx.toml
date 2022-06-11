@@ -540,15 +540,15 @@ src.manual = "0.9.11"
 fetch.url = "https://open-vsx.org/api/camel-tooling/yo/0.9.11/file/camel-tooling.yo-0.9.11.vsix"
 passthru = { publisher = "camel-tooling", name = "yo", description = "Scaffold projects using Yeoman.", license = "MIT" }
 
-[nelsonoftrafalgar-truth-table-generator]
-src.manual = "0.0.1"
-fetch.url = "https://open-vsx.org/api/nelsonoftrafalgar/truth-table-generator/0.0.1/file/nelsonoftrafalgar.truth-table-generator-0.0.1.vsix"
-passthru = { publisher = "nelsonoftrafalgar", name = "truth-table-generator", description = "Generate truth table from selection.", license = "MIT" }
-
 [alefragnani-read-only-indicator]
 src.manual = "3.4.0"
 fetch.url = "https://open-vsx.org/api/alefragnani/read-only-indicator/3.4.0/file/alefragnani.read-only-indicator-3.4.0.vsix"
 passthru = { publisher = "alefragnani", name = "read-only-indicator", description = "Read-Only/Writeable indication on Status Bar", license = "MIT" }
+
+[nelsonoftrafalgar-truth-table-generator]
+src.manual = "0.0.1"
+fetch.url = "https://open-vsx.org/api/nelsonoftrafalgar/truth-table-generator/0.0.1/file/nelsonoftrafalgar.truth-table-generator-0.0.1.vsix"
+passthru = { publisher = "nelsonoftrafalgar", name = "truth-table-generator", description = "Generate truth table from selection.", license = "MIT" }
 
 [SirTori-indenticator]
 src.manual = "0.7.0"
@@ -775,15 +775,15 @@ src.manual = "0.0.10"
 fetch.url = "https://open-vsx.org/api/vymarkov/add-gitlab-npm-token/0.0.10/file/vymarkov.add-gitlab-npm-token-0.0.10.vsix"
 passthru = { publisher = "vymarkov", name = "add-gitlab-npm-token", description = "It allows to configure access to GitLab NPM Registry from your workstation whenever you are working on repo where npm dependencies could be fetched from Gitlab NPM registry only", license = "MIT" }
 
-[mike-flanigan-daobeam]
-src.manual = "1.3.12"
-fetch.url = "https://open-vsx.org/api/mike-flanigan/daobeam/1.3.12/file/mike-flanigan.daobeam-1.3.12.vsix"
-passthru = { publisher = "mike-flanigan", name = "daobeam", description = "Low contrast, light theme", license = "GNU General Public License v3.0" }
-
 [apollographql-apollo-midnight-color-theme]
 src.manual = "0.9.0"
 fetch.url = "https://open-vsx.org/api/apollographql/apollo-midnight-color-theme/0.9.0/file/apollographql.apollo-midnight-color-theme-0.9.0.vsix"
 passthru = { publisher = "apollographql", name = "apollo-midnight-color-theme", description = "A dark theme based on Apollo Studio's color palette in Explorer dark mode.", license = "MIT" }
+
+[mike-flanigan-daobeam]
+src.manual = "1.3.12"
+fetch.url = "https://open-vsx.org/api/mike-flanigan/daobeam/1.3.12/file/mike-flanigan.daobeam-1.3.12.vsix"
+passthru = { publisher = "mike-flanigan", name = "daobeam", description = "Low contrast, light theme", license = "GNU General Public License v3.0" }
 
 [tuxtina-json2yaml]
 src.manual = "0.2.0"
@@ -965,15 +965,15 @@ src.manual = "0.1.7"
 fetch.url = "https://open-vsx.org/api/jianbingfang/dupchecker/0.1.7/file/jianbingfang.dupchecker-0.1.7.vsix"
 passthru = { publisher = "jianbingfang", name = "dupchecker", description = "Check duplicate lines and remove them if you need to keep the unique lines only", license = "MIT" }
 
-[tiehuis-zig]
-src.manual = "0.2.5"
-fetch.url = "https://open-vsx.org/api/tiehuis/zig/0.2.5/file/tiehuis.zig-0.2.5.vsix"
-passthru = { publisher = "tiehuis", name = "zig", description = "Language support for the Zig programming language", license = "MIT" }
-
 [patbenatar-advanced-new-file]
 src.manual = "1.2.2"
 fetch.url = "https://open-vsx.org/api/patbenatar/advanced-new-file/1.2.2/file/patbenatar.advanced-new-file-1.2.2.vsix"
 passthru = { publisher = "patbenatar", name = "advanced-new-file", description = "Create files anywhere in your workspace from the keyboard", license = "MIT" }
+
+[tiehuis-zig]
+src.manual = "0.2.5"
+fetch.url = "https://open-vsx.org/api/tiehuis/zig/0.2.5/file/tiehuis.zig-0.2.5.vsix"
+passthru = { publisher = "tiehuis", name = "zig", description = "Language support for the Zig programming language", license = "MIT" }
 
 [gattytto-phoityne-vscode]
 src.manual = "0.0.29"
@@ -1140,15 +1140,15 @@ src.manual = "0.0.4"
 fetch.url = "https://open-vsx.org/api/webfreak/cute-theme/0.0.4/file/webfreak.cute-theme-0.0.4.vsix"
 passthru = { publisher = "webfreak", name = "cute-theme", description = "A cute pink light theme for VSCode", license = "CC0-1.0" }
 
-[davidnussio-vscode-jq-playground]
-src.manual = "4.0.1"
-fetch.url = "https://open-vsx.org/api/davidnussio/vscode-jq-playground/4.0.1/file/davidnussio.vscode-jq-playground-4.0.1.vsix"
-passthru = { publisher = "davidnussio", name = "vscode-jq-playground", description = "Visual Code integration with jq", license = "MIT" }
-
 [jq-syntax-highlighting-jq-syntax-highlighting]
 src.manual = "0.0.2"
 fetch.url = "https://open-vsx.org/api/jq-syntax-highlighting/jq-syntax-highlighting/0.0.2/file/jq-syntax-highlighting.jq-syntax-highlighting-0.0.2.vsix"
 passthru = { publisher = "jq-syntax-highlighting", name = "jq-syntax-highlighting", description = "Syntax support for the jq JSON command-line processor.", license = "MIT" }
+
+[davidnussio-vscode-jq-playground]
+src.manual = "4.0.1"
+fetch.url = "https://open-vsx.org/api/davidnussio/vscode-jq-playground/4.0.1/file/davidnussio.vscode-jq-playground-4.0.1.vsix"
+passthru = { publisher = "davidnussio", name = "vscode-jq-playground", description = "Visual Code integration with jq", license = "MIT" }
 
 [cat-customs-cat-customs]
 src.manual = "0.0.1"
@@ -1335,6 +1335,11 @@ src.manual = "2.1.1"
 fetch.url = "https://open-vsx.org/api/bringout/postgres/2.1.1/file/bringout.postgres-2.1.1.vsix"
 passthru = { publisher = "bringout", name = "postgres", description = "PostgreSQL menadžer [eShell]", license = "MIT" }
 
+[mrmlnc-vscode-apache]
+src.manual = "1.2.0"
+fetch.url = "https://open-vsx.org/api/mrmlnc/vscode-apache/1.2.0/file/mrmlnc.vscode-apache-1.2.0.vsix"
+passthru = { publisher = "mrmlnc", name = "vscode-apache", description = "Syntax highlighter for Apache configuration files", license = "MIT" }
+
 [adrianhumphreys-silverstripe]
 src.manual = "1.0.0"
 fetch.url = "https://open-vsx.org/api/adrianhumphreys/silverstripe/1.0.0/file/adrianhumphreys.silverstripe-1.0.0.vsix"
@@ -1344,11 +1349,6 @@ passthru = { publisher = "adrianhumphreys", name = "silverstripe", description =
 src.manual = "1.2.1"
 fetch.url = "https://open-vsx.org/api/Serpen/vbsvscode/1.2.1/file/Serpen.vbsvscode-1.2.1.vsix"
 passthru = { publisher = "Serpen", name = "vbsvscode", description = "VBScript Language Support", license = "MIT" }
-
-[mrmlnc-vscode-apache]
-src.manual = "1.2.0"
-fetch.url = "https://open-vsx.org/api/mrmlnc/vscode-apache/1.2.0/file/mrmlnc.vscode-apache-1.2.0.vsix"
-passthru = { publisher = "mrmlnc", name = "vscode-apache", description = "Syntax highlighter for Apache configuration files", license = "MIT" }
 
 [TONLabs-tondev]
 src.manual = "0.5.0"
@@ -1615,6 +1615,11 @@ src.manual = "0.0.92"
 fetch.url = "https://open-vsx.org/api/eclipse-cdt/cdt-gdb-vscode/0.0.92/file/eclipse-cdt.cdt-gdb-vscode-0.0.92.vsix"
 passthru = { publisher = "eclipse-cdt", name = "cdt-gdb-vscode", description = "VS Code extension for CDT GDB debug adapter", license = "EPL-2.0" }
 
+[laradump-laradump]
+src.manual = "0.0.4"
+fetch.url = "https://open-vsx.org/api/laradump/laradump/0.0.4/file/laradump.laradump-0.0.4.vsix"
+passthru = { publisher = "laradump", name = "laradump", description = "Laradump helps to debugging on laravel", license = "MIT" }
+
 [Hirse-vscode-ungit]
 src.manual = "2.2.3"
 fetch.url = "https://open-vsx.org/api/Hirse/vscode-ungit/2.2.3/file/Hirse.vscode-ungit-2.2.3.vsix"
@@ -1624,11 +1629,6 @@ passthru = { publisher = "Hirse", name = "vscode-ungit", description = "Ungit in
 src.manual = "2020.0.36321"
 fetch.url = "https://open-vsx.org/api/ms-python/devicesimulatorexpress/2020.0.36321/file/ms-python.devicesimulatorexpress-2020.0.36321.vsix"
 passthru = { publisher = "ms-python", name = "devicesimulatorexpress", description = "Device Simulator Express, a Microsoft Garage project", license = "MIT" }
-
-[laradump-laradump]
-src.manual = "0.0.4"
-fetch.url = "https://open-vsx.org/api/laradump/laradump/0.0.4/file/laradump.laradump-0.0.4.vsix"
-passthru = { publisher = "laradump", name = "laradump", description = "Laradump helps to debugging on laravel", license = "MIT" }
 
 [cheshirekow-cmake-format]
 src.manual = "0.6.13"
@@ -1790,6 +1790,11 @@ src.manual = "1.0.3"
 fetch.url = "https://open-vsx.org/api/teabyii/ayu/1.0.3/file/teabyii.ayu-1.0.3.vsix"
 passthru = { publisher = "teabyii", name = "ayu", description = "A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.", license = "MIT" }
 
+[bierner-color-info]
+src.manual = "0.7.0"
+fetch.url = "https://open-vsx.org/api/bierner/color-info/0.7.0/file/bierner.color-info-0.7.0.vsix"
+passthru = { publisher = "bierner", name = "color-info", description = "Provides quick information about css colors", license = "MIT" }
+
 [fbaligand-vscode-logstash-editor]
 src.manual = "1.2.0"
 fetch.url = "https://open-vsx.org/api/fbaligand/vscode-logstash-editor/1.2.0/file/fbaligand.vscode-logstash-editor-1.2.0.vsix"
@@ -1804,11 +1809,6 @@ passthru = { publisher = "umbo", name = "vscode-velociraptor", description = "Ve
 src.manual = "0.0.2"
 fetch.url = "https://open-vsx.org/api/orellabacCR/mobilize-codeundestand/0.0.2/file/orellabacCR.mobilize-codeundestand-0.0.2.vsix"
 passthru = { publisher = "orellabacCR", name = "mobilize-codeundestand", description = "", license = "MIT" }
-
-[bierner-color-info]
-src.manual = "0.7.0"
-fetch.url = "https://open-vsx.org/api/bierner/color-info/0.7.0/file/bierner.color-info-0.7.0.vsix"
-passthru = { publisher = "bierner", name = "color-info", description = "Provides quick information about css colors", license = "MIT" }
 
 [grammarcraft-xtend-lang]
 src.manual = "0.2.3"
@@ -1970,25 +1970,25 @@ src.manual = "1.0.3"
 fetch.url = "https://open-vsx.org/api/ankitpati/vscodium-amoled/1.0.3/file/ankitpati.vscodium-amoled-1.0.3.vsix"
 passthru = { publisher = "ankitpati", name = "vscodium-amoled", description = "AMOLED Black Theme", license = "GPL-3.0-or-later" }
 
-[larshp-vscode-abaplint]
-src.manual = "0.4.178"
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
-passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
-
 [larshp-vscode-abap]
 src.manual = "0.5.4"
 fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
 passthru = { publisher = "larshp", name = "vscode-abap", description = "Syntax highlighting for ABAP", license = "MIT" }
 
-[arcanis-vscode-zipfs]
-src.manual = "2.4.0-rc.5"
-fetch.url = "https://open-vsx.org/api/arcanis/vscode-zipfs/2.4.0-rc.5/file/arcanis.vscode-zipfs-2.4.0-rc.5.vsix"
-passthru = { publisher = "arcanis", name = "vscode-zipfs", description = "Allows to easily inspect and modify files stored within zip archives.", license = "BSD-2-Clause" }
+[larshp-vscode-abaplint]
+src.manual = "0.4.178"
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
 src.manual = "0.7.2"
 fetch.url = "https://open-vsx.org/api/auchenberg/vscode-browser-preview/0.7.2/file/auchenberg.vscode-browser-preview-0.7.2.vsix"
 passthru = { publisher = "auchenberg", name = "vscode-browser-preview", description = "This extension is deprecated in favor of the Live Preview extension.", license = "MIT" }
+
+[arcanis-vscode-zipfs]
+src.manual = "2.4.0-rc.5"
+fetch.url = "https://open-vsx.org/api/arcanis/vscode-zipfs/2.4.0-rc.5/file/arcanis.vscode-zipfs-2.4.0-rc.5.vsix"
+passthru = { publisher = "arcanis", name = "vscode-zipfs", description = "Allows to easily inspect and modify files stored within zip archives.", license = "BSD-2-Clause" }
 
 [Telerik-nativescript]
 src.manual = "0.11.0"
@@ -2170,6 +2170,11 @@ src.manual = "1.0.2"
 fetch.url = "https://open-vsx.org/api/ilkka/google-java-format/1.0.2/file/ilkka.google-java-format-1.0.2.vsix"
 passthru = { publisher = "ilkka", name = "google-java-format", description = "Yet another simple google-java-format runner", license = "Apache-2.0" }
 
+[vscode-ipynb]
+src.manual = "1.62.3"
+fetch.url = "https://open-vsx.org/api/vscode/ipynb/1.62.3/file/vscode.ipynb-1.62.3.vsix"
+passthru = { publisher = "vscode", name = "ipynb", description = "Provides basic support for opening and reading Jupyter's .ipynb notebook files", license = "MIT" }
+
 [vscode-markdown-math]
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/markdown-math/1.62.3/file/vscode.markdown-math-1.62.3.vsix"
@@ -2179,11 +2184,6 @@ passthru = { publisher = "vscode", name = "markdown-math", description = "Adds m
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/dart/1.62.3/file/vscode.dart-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "dart", description = "Provides syntax highlighting & bracket matching in Dart files.", license = "MIT" }
-
-[vscode-ipynb]
-src.manual = "1.62.3"
-fetch.url = "https://open-vsx.org/api/vscode/ipynb/1.62.3/file/vscode.ipynb-1.62.3.vsix"
-passthru = { publisher = "vscode", name = "ipynb", description = "Provides basic support for opening and reading Jupyter's .ipynb notebook files", license = "MIT" }
 
 [vscode-simple-browser]
 src.manual = "1.62.3"
@@ -2210,15 +2210,15 @@ src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/microsoft-authentication/1.62.3/file/vscode.microsoft-authentication-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "microsoft-authentication", description = "Microsoft authentication provider", license = "MIT" }
 
-[vscode-extension-editing]
-src.manual = "1.62.3"
-fetch.url = "https://open-vsx.org/api/vscode/extension-editing/1.62.3/file/vscode.extension-editing-1.62.3.vsix"
-passthru = { publisher = "vscode", name = "extension-editing", description = "Provides linting capabilities for authoring extensions.", license = "MIT" }
-
 [formulahendry-vscode-mysql]
 src.manual = "0.4.1"
 fetch.url = "https://open-vsx.org/api/formulahendry/vscode-mysql/0.4.1/file/formulahendry.vscode-mysql-0.4.1.vsix"
 passthru = { publisher = "formulahendry", name = "vscode-mysql", description = "MySQL management tool", license = "MIT" }
+
+[vscode-extension-editing]
+src.manual = "1.62.3"
+fetch.url = "https://open-vsx.org/api/vscode/extension-editing/1.62.3/file/vscode.extension-editing-1.62.3.vsix"
+passthru = { publisher = "vscode", name = "extension-editing", description = "Provides linting capabilities for authoring extensions.", license = "MIT" }
 
 [tombonnike-vscode-status-bar-format-toggle]
 src.manual = "3.0.0"
@@ -2235,15 +2235,15 @@ src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/debug-server-ready/1.62.3/file/vscode.debug-server-ready-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "debug-server-ready", description = "Open URI in browser if server under debugging is ready.", license = "MIT" }
 
-[sbg-rabix-benten-cwl]
-src.manual = "2021.1.5"
-fetch.url = "https://open-vsx.org/api/sbg-rabix/benten-cwl/2021.1.5/file/sbg-rabix.benten-cwl-2021.1.5.vsix"
-passthru = { publisher = "sbg-rabix", name = "benten-cwl", description = "Autocomplete, code validation and more for CWL documents", license = "Apache-2.0" }
-
 [vscode-php-language-features]
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/php-language-features/1.62.3/file/vscode.php-language-features-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "php-language-features", description = "Provides rich language support for PHP files.", license = "MIT" }
+
+[sbg-rabix-benten-cwl]
+src.manual = "2021.1.5"
+fetch.url = "https://open-vsx.org/api/sbg-rabix/benten-cwl/2021.1.5/file/sbg-rabix.benten-cwl-2021.1.5.vsix"
+passthru = { publisher = "sbg-rabix", name = "benten-cwl", description = "Autocomplete, code validation and more for CWL documents", license = "Apache-2.0" }
 
 [vscode-image-preview]
 src.manual = "1.62.3"
@@ -2270,6 +2270,11 @@ src.manual = "0.0.7"
 fetch.url = "https://open-vsx.org/api/stefanjarina/vscode-eex-snippets/0.0.7/file/stefanjarina.vscode-eex-snippets-0.0.7.vsix"
 passthru = { publisher = "stefanjarina", name = "vscode-eex-snippets", description = "Elixir EEx and HTML (EEx) code snippets.", license = "MIT" }
 
+[vsls-contrib-gitdoc]
+src.manual = "0.0.8"
+fetch.url = "https://open-vsx.org/api/vsls-contrib/gitdoc/0.0.8/file/vsls-contrib.gitdoc-0.0.8.vsix"
+passthru = { publisher = "vsls-contrib", name = "gitdoc", description = "Automatically commit/push/pull changes on save, so you can edit a Git repo like a multi-file, versioned document.", license = "MIT" }
+
 [mjcrouch-perforce]
 src.manual = "4.15.2"
 fetch.url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.2/file/mjcrouch.perforce-4.15.2.vsix"
@@ -2289,11 +2294,6 @@ passthru = { publisher = "buianhthang", name = "gitflow", description = "Gitflow
 src.manual = "0.7.0"
 fetch.url = "https://open-vsx.org/api/Tyriar/windows-terminal/0.7.0/file/Tyriar.windows-terminal-0.7.0.vsix"
 passthru = { publisher = "Tyriar", name = "windows-terminal", description = "VS Code integration with Windows Terminal", license = "MIT" }
-
-[vsls-contrib-gitdoc]
-src.manual = "0.0.8"
-fetch.url = "https://open-vsx.org/api/vsls-contrib/gitdoc/0.0.8/file/vsls-contrib.gitdoc-0.0.8.vsix"
-passthru = { publisher = "vsls-contrib", name = "gitdoc", description = "Automatically commit/push/pull changes on save, so you can edit a Git repo like a multi-file, versioned document.", license = "MIT" }
 
 [xaver-clang-format]
 src.manual = "1.9.0"
@@ -2430,15 +2430,15 @@ src.manual = "1.64.0-next.68976705968"
 fetch.url = "https://open-vsx.org/api/vscode/git-base/1.64.0-next.68976705968/file/vscode.git-base-1.64.0-next.68976705968.vsix"
 passthru = { publisher = "vscode", name = "git-base", description = "Git static contributions and pickers.", license = "MIT" }
 
-[msjsdiag-debugger-for-edge]
-src.manual = "1.0.16"
-fetch.url = "https://open-vsx.org/api/msjsdiag/debugger-for-edge/1.0.16/file/msjsdiag.debugger-for-edge-1.0.16.vsix"
-passthru = { publisher = "msjsdiag", name = "debugger-for-edge", description = "Debug your JavaScript code in the Microsoft Edge browser", license = "MIT" }
-
 [alantech-alan-lang]
 src.manual = "0.1.0"
 fetch.url = "https://open-vsx.org/api/alantech/alan-lang/0.1.0/file/alantech.alan-lang-0.1.0.vsix"
 passthru = { publisher = "alantech", name = "alan-lang", description = "Syntax highlighting for Alan Lang", license = "Apache-2.0" }
+
+[msjsdiag-debugger-for-edge]
+src.manual = "1.0.16"
+fetch.url = "https://open-vsx.org/api/msjsdiag/debugger-for-edge/1.0.16/file/msjsdiag.debugger-for-edge-1.0.16.vsix"
+passthru = { publisher = "msjsdiag", name = "debugger-for-edge", description = "Debug your JavaScript code in the Microsoft Edge browser", license = "MIT" }
 
 [atsushieno-vscode-language-mugene]
 src.manual = "0.2.26"
@@ -2490,15 +2490,15 @@ src.manual = "1.2.0"
 fetch.url = "https://open-vsx.org/api/evaera/roblox-api-explorer/1.2.0/file/evaera.roblox-api-explorer-1.2.0.vsix"
 passthru = { publisher = "evaera", name = "roblox-api-explorer", description = "Allows you to explore the Roblox API right from your IDE", license = "MIT" }
 
-[CoenraadS-bracket-pair-colorizer]
-src.manual = "1.0.62"
-fetch.url = "https://open-vsx.org/api/CoenraadS/bracket-pair-colorizer/1.0.62/file/CoenraadS.bracket-pair-colorizer-1.0.62.vsix"
-passthru = { publisher = "CoenraadS", name = "bracket-pair-colorizer", description = "A customizable extension for colorizing matching brackets", license = "MIT" }
-
 [Tyriar-sort-lines]
 src.manual = "1.9.1"
 fetch.url = "https://open-vsx.org/api/Tyriar/sort-lines/1.9.1/file/Tyriar.sort-lines-1.9.1.vsix"
 passthru = { publisher = "Tyriar", name = "sort-lines", description = "Sorts lines of text", license = "MIT" }
+
+[CoenraadS-bracket-pair-colorizer]
+src.manual = "1.0.62"
+fetch.url = "https://open-vsx.org/api/CoenraadS/bracket-pair-colorizer/1.0.62/file/CoenraadS.bracket-pair-colorizer-1.0.62.vsix"
+passthru = { publisher = "CoenraadS", name = "bracket-pair-colorizer", description = "A customizable extension for colorizing matching brackets", license = "MIT" }
 
 [liangcheng-plugins-open-sourcetree-in-vscode-plugin]
 src.manual = "2.0.0"
@@ -2580,20 +2580,15 @@ src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/perl/1.62.3/file/vscode.perl-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "perl", description = "Provides syntax highlighting and bracket matching in Perl files.", license = "MIT" }
 
-[vscode-powershell]
-src.manual = "1.62.3"
-fetch.url = "https://open-vsx.org/api/vscode/powershell/1.62.3/file/vscode.powershell-1.62.3.vsix"
-passthru = { publisher = "vscode", name = "powershell", description = "Provides snippets, syntax highlighting, bracket matching and folding in Powershell files.", license = "MIT" }
-
 [vscode-vscode-theme-seti]
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/vscode-theme-seti/1.62.3/file/vscode.vscode-theme-seti-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "vscode-theme-seti", description = "A file icon theme made out of the Seti UI file icons", license = "MIT" }
 
-[vscode-theme-kimbie-dark]
+[vscode-powershell]
 src.manual = "1.62.3"
-fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.62.3/file/vscode.theme-kimbie-dark-1.62.3.vsix"
-passthru = { publisher = "vscode", name = "theme-kimbie-dark", description = "Kimbie dark theme for Visual Studio Code", license = "MIT" }
+fetch.url = "https://open-vsx.org/api/vscode/powershell/1.62.3/file/vscode.powershell-1.62.3.vsix"
+passthru = { publisher = "vscode", name = "powershell", description = "Provides snippets, syntax highlighting, bracket matching and folding in Powershell files.", license = "MIT" }
 
 [vscode-theme-abyss]
 src.manual = "1.62.3"
@@ -2604,6 +2599,11 @@ passthru = { publisher = "vscode", name = "theme-abyss", description = "Abyss th
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/theme-red/1.62.3/file/vscode.theme-red-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "theme-red", description = "Red theme for Visual Studio Code", license = "MIT" }
+
+[vscode-theme-kimbie-dark]
+src.manual = "1.62.3"
+fetch.url = "https://open-vsx.org/api/vscode/theme-kimbie-dark/1.62.3/file/vscode.theme-kimbie-dark-1.62.3.vsix"
+passthru = { publisher = "vscode", name = "theme-kimbie-dark", description = "Kimbie dark theme for Visual Studio Code", license = "MIT" }
 
 [vscode-theme-tomorrow-night-blue]
 src.manual = "1.62.3"
@@ -2650,15 +2650,15 @@ src.manual = "2.4.8"
 fetch.url = "https://open-vsx.org/api/bringout/pdf-view/2.4.8/file/bringout.pdf-view-2.4.8.vsix"
 passthru = { publisher = "bringout", name = "pdf-view", description = "pdf view for eShell", license = "MIT" }
 
-[johnsoncodehk-volar]
-src.manual = "0.30.1"
-fetch.url = "https://open-vsx.org/api/johnsoncodehk/volar/0.30.1/file/johnsoncodehk.volar-0.30.1.vsix"
-passthru = { publisher = "johnsoncodehk", name = "volar", description = "Language support for Vue 3", license = "MIT" }
-
 [vscode-typescript-language-features]
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/typescript-language-features/1.62.3/file/vscode.typescript-language-features-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "typescript-language-features", description = "Provides rich language support for JavaScript and TypeScript.", license = "MIT" }
+
+[johnsoncodehk-volar]
+src.manual = "0.30.1"
+fetch.url = "https://open-vsx.org/api/johnsoncodehk/volar/0.30.1/file/johnsoncodehk.volar-0.30.1.vsix"
+passthru = { publisher = "johnsoncodehk", name = "volar", description = "Language support for Vue 3", license = "MIT" }
 
 [vscode-merge-conflict]
 src.manual = "1.62.3"
@@ -2725,15 +2725,15 @@ src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/grunt/1.62.3/file/vscode.grunt-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "grunt", description = "Extension to add Grunt capabilities to VS Code.", license = "MIT" }
 
-[torn4dom4n-latex-support]
-src.manual = "4.0.0"
-fetch.url = "https://open-vsx.org/api/torn4dom4n/latex-support/4.0.0/file/torn4dom4n.latex-support-4.0.0.vsix"
-passthru = { publisher = "torn4dom4n", name = "latex-support", description = "LaTeX language support for Visual Studio Code", license = "MIT" }
-
 [vscode-gulp]
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/gulp/1.62.3/file/vscode.gulp-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "gulp", description = "Extension to add Gulp capabilities to VSCode.", license = "MIT" }
+
+[torn4dom4n-latex-support]
+src.manual = "4.0.0"
+fetch.url = "https://open-vsx.org/api/torn4dom4n/latex-support/4.0.0/file/torn4dom4n.latex-support-4.0.0.vsix"
+passthru = { publisher = "torn4dom4n", name = "latex-support", description = "LaTeX language support for Visual Studio Code", license = "MIT" }
 
 [zardoy-vscode-terminal-code-runner]
 src.manual = "0.0.1"
@@ -2865,15 +2865,15 @@ src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/css/1.62.3/file/vscode.css-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "css", description = "Provides syntax highlighting and bracket matching for CSS, LESS and SCSS files.", license = "MIT" }
 
-[krishnaVamsi-test-plugin]
-src.manual = "0.0.2"
-fetch.url = "https://open-vsx.org/api/krishnaVamsi/test-plugin/0.0.2/file/krishnaVamsi.test-plugin-0.0.2.vsix"
-passthru = { publisher = "krishnaVamsi", name = "test-plugin", description = "", license = "none" }
-
 [zhanghua-vscodium-language-pack-zh-cn]
 src.manual = "1.53.2"
 fetch.url = "https://open-vsx.org/api/zhanghua/vscodium-language-pack-zh-cn/1.53.2/file/zhanghua.vscodium-language-pack-zh-cn-1.53.2.vsix"
 passthru = { publisher = "zhanghua", name = "vscodium-language-pack-zh-cn", description = "Language pack extension for Chinese (Simplified)", license = "MIT" }
+
+[krishnaVamsi-test-plugin]
+src.manual = "0.0.2"
+fetch.url = "https://open-vsx.org/api/krishnaVamsi/test-plugin/0.0.2/file/krishnaVamsi.test-plugin-0.0.2.vsix"
+passthru = { publisher = "krishnaVamsi", name = "test-plugin", description = "", license = "none" }
 
 [vscode-markdown]
 src.manual = "1.62.3"
@@ -2910,15 +2910,15 @@ src.manual = "0.0.21"
 fetch.url = "https://open-vsx.org/api/CodeBiscuits/assorted-biscuits/0.0.21/file/CodeBiscuits.assorted-biscuits-0.0.21.vsix"
 passthru = { publisher = "CodeBiscuits", name = "assorted-biscuits", description = "Add annotations, hereafter unto for known as \"Biscuits\", to the end of the line of closing brackets (and more). These could be functions, if statements, etc. Make code soup digestible!", license = "MIT" }
 
-[radiolevity-search-lights]
-src.manual = "1.10.1"
-fetch.url = "https://open-vsx.org/api/radiolevity/search-lights/1.10.1/file/radiolevity.search-lights-1.10.1.vsix"
-passthru = { publisher = "radiolevity", name = "search-lights", description = "Field Lights based dark theme", license = "MIT" }
-
 [vscode-cpp]
 src.manual = "1.62.3"
 fetch.url = "https://open-vsx.org/api/vscode/cpp/1.62.3/file/vscode.cpp-1.62.3.vsix"
 passthru = { publisher = "vscode", name = "cpp", description = "Provides snippets, syntax highlighting, bracket matching and folding in C/C++ files.", license = "MIT" }
+
+[radiolevity-search-lights]
+src.manual = "1.10.1"
+fetch.url = "https://open-vsx.org/api/radiolevity/search-lights/1.10.1/file/radiolevity.search-lights-1.10.1.vsix"
+passthru = { publisher = "radiolevity", name = "search-lights", description = "Field Lights based dark theme", license = "MIT" }
 
 [krishnaVamsi-todo-highlighter-plugin]
 src.manual = "1.0.1"
@@ -3210,15 +3210,15 @@ src.manual = "1.2.2"
 fetch.url = "https://open-vsx.org/api/idleberg/bridlensis/1.2.2/file/idleberg.bridlensis-1.2.2.vsix"
 passthru = { publisher = "idleberg", name = "bridlensis", description = "Language syntax, IntelliSense and build system for BridleNSIS", license = "MIT OR GPL-2.0" }
 
-[idleberg-pynsist]
-src.manual = "0.11.1"
-fetch.url = "https://open-vsx.org/api/idleberg/pynsist/0.11.1/file/idleberg.pynsist-0.11.1.vsix"
-passthru = { publisher = "idleberg", name = "pynsist", description = "Language support, snippets and build-system for pynsist, a tool to build Windows installers for your Python applications", license = "MIT OR GPL-2.0" }
-
 [idleberg-nsl-assembler]
 src.manual = "1.2.1"
 fetch.url = "https://open-vsx.org/api/idleberg/nsl-assembler/1.2.1/file/idleberg.nsl-assembler-1.2.1.vsix"
 passthru = { publisher = "idleberg", name = "nsl-assembler", description = "Language syntax, IntelliSense and build system for nsL Assembler", license = "MIT OR GPL-2.0" }
+
+[idleberg-pynsist]
+src.manual = "0.11.1"
+fetch.url = "https://open-vsx.org/api/idleberg/pynsist/0.11.1/file/idleberg.pynsist-0.11.1.vsix"
+passthru = { publisher = "idleberg", name = "pynsist", description = "Language support, snippets and build-system for pynsist, a tool to build Windows installers for your Python applications", license = "MIT OR GPL-2.0" }
 
 [richardwillis-vscode-gradle]
 src.manual = "3.6.1"
@@ -3310,15 +3310,15 @@ src.manual = "1.32.0"
 fetch.url = "https://open-vsx.org/api/onecentlin/laravel-blade/1.32.0/file/onecentlin.laravel-blade-1.32.0.vsix"
 passthru = { publisher = "onecentlin", name = "laravel-blade", description = "Laravel blade snippets and syntax highlight support", license = "MIT" }
 
-[samuelcolvin-jinjahtml]
-src.manual = "0.17.0"
-fetch.url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.17.0/file/samuelcolvin.jinjahtml-0.17.0.vsix"
-passthru = { publisher = "samuelcolvin", name = "jinjahtml", description = "Syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates", license = "MIT" }
-
 [asciidoctor-asciidoctor-vscode]
 src.manual = "2.9.8"
 fetch.url = "https://open-vsx.org/api/asciidoctor/asciidoctor-vscode/2.9.8/file/asciidoctor.asciidoctor-vscode-2.9.8.vsix"
 passthru = { publisher = "asciidoctor", name = "asciidoctor-vscode", description = "Provides rich language support for AsciiDoc.", license = "MIT" }
+
+[samuelcolvin-jinjahtml]
+src.manual = "0.17.0"
+fetch.url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.17.0/file/samuelcolvin.jinjahtml-0.17.0.vsix"
+passthru = { publisher = "samuelcolvin", name = "jinjahtml", description = "Syntax highlighting for jinja(2) including HTML, Markdown, YAML, Ruby and LaTeX templates", license = "MIT" }
 
 [GitHub-github-vscode-theme]
 src.manual = "6.0.0"
@@ -3330,15 +3330,15 @@ src.manual = "1.3.1"
 fetch.url = "https://open-vsx.org/api/folke/vscode-monorepo-workspace/1.3.1/file/folke.vscode-monorepo-workspace-1.3.1.vsix"
 passthru = { publisher = "folke", name = "vscode-monorepo-workspace", description = "Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories", license = "Apache-2.0" }
 
-[gharveymn-nightswitch-lite]
-src.manual = "2.3.1"
-fetch.url = "https://open-vsx.org/api/gharveymn/nightswitch-lite/2.3.1/file/gharveymn.nightswitch-lite-2.3.1.vsix"
-passthru = { publisher = "gharveymn", name = "nightswitch-lite", description = "Switch between day and night themes based on location/time specified by the user.", license = "MIT" }
-
 [msjsdiag-vscode-react-native]
 src.manual = "1.9.2"
 fetch.url = "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix"
 passthru = { publisher = "msjsdiag", name = "vscode-react-native", description = "Debugging and integrated commands for React Native", license = "%reactNative.license%" }
+
+[gharveymn-nightswitch-lite]
+src.manual = "2.3.1"
+fetch.url = "https://open-vsx.org/api/gharveymn/nightswitch-lite/2.3.1/file/gharveymn.nightswitch-lite-2.3.1.vsix"
+passthru = { publisher = "gharveymn", name = "nightswitch-lite", description = "Switch between day and night themes based on location/time specified by the user.", license = "MIT" }
 
 [devberto-theme-newton-next]
 src.manual = "3.0.4"
@@ -3410,15 +3410,15 @@ src.manual = "1.5.4"
 fetch.url = "https://open-vsx.org/api/alygin/vscode-tlaplus/1.5.4/file/alygin.vscode-tlaplus-1.5.4.vsix"
 passthru = { publisher = "alygin", name = "vscode-tlaplus", description = "TLA+ language support", license = "MIT" }
 
-[johnpapa-Angular2]
-src.manual = "13.0.0"
-fetch.url = "https://open-vsx.org/api/johnpapa/Angular2/13.0.0/file/johnpapa.Angular2-13.0.0.vsix"
-passthru = { publisher = "johnpapa", name = "Angular2", description = "Angular version 13 snippets by John Papa", license = "MIT" }
-
 [k--kato-intellij-idea-keybindings]
 src.manual = "1.5.1"
 fetch.url = "https://open-vsx.org/api/k--kato/intellij-idea-keybindings/1.5.1/file/k--kato.intellij-idea-keybindings-1.5.1.vsix"
 passthru = { publisher = "k--kato", name = "intellij-idea-keybindings", description = "Port of IntelliJ IDEA Keybindings, including for WebStorm, PyCharm, PHP Storm, etc.", license = "MIT" }
+
+[johnpapa-Angular2]
+src.manual = "13.0.0"
+fetch.url = "https://open-vsx.org/api/johnpapa/Angular2/13.0.0/file/johnpapa.Angular2-13.0.0.vsix"
+passthru = { publisher = "johnpapa", name = "Angular2", description = "Angular version 13 snippets by John Papa", license = "MIT" }
 
 [krishnaVamsi-ccbp-project-workspace-plugin]
 src.manual = "1.0.14"
@@ -3650,15 +3650,15 @@ src.manual = "0.2.0"
 fetch.url = "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix"
 passthru = { publisher = "xoronic", name = "pestfile", description = "pestfile Syntax Highlighting", license = "MIT" }
 
-[denoland-vscode-deno]
-src.manual = "3.12.0"
-fetch.url = "https://open-vsx.org/api/denoland/vscode-deno/3.12.0/file/denoland.vscode-deno-3.12.0.vsix"
-passthru = { publisher = "denoland", name = "vscode-deno", description = "A language server client for Deno.", license = "MIT" }
-
 [CloudStudio-Team-metawork]
 src.manual = "0.0.9"
 fetch.url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.9/file/CloudStudio-Team.metawork-0.0.9.vsix"
 passthru = { publisher = "CloudStudio-Team", name = "metawork", description = "Cloud Studio 多人协作套件，让开发更高效！Cloud Studio MetaWork makes development more effective.", license = "MIT" }
+
+[denoland-vscode-deno]
+src.manual = "3.12.0"
+fetch.url = "https://open-vsx.org/api/denoland/vscode-deno/3.12.0/file/denoland.vscode-deno-3.12.0.vsix"
+passthru = { publisher = "denoland", name = "vscode-deno", description = "A language server client for Deno.", license = "MIT" }
 
 [ms-toolsai-jupyter-keymap]
 src.manual = "1.0.0"
@@ -3810,6 +3810,16 @@ src.manual = "0.0.5"
 fetch.url = "https://open-vsx.org/api/rubdoo/rubdoo-theme/0.0.5/file/rubdoo.rubdoo-theme-0.0.5.vsix"
 passthru = { publisher = "rubdoo", name = "rubdoo-theme", description = "rubdoo-theme", license = "MIT" }
 
+[paragdiwan-gitpatch]
+src.manual = "0.2.1"
+fetch.url = "https://open-vsx.org/api/paragdiwan/gitpatch/0.2.1/file/paragdiwan.gitpatch-0.2.1.vsix"
+passthru = { publisher = "paragdiwan", name = "gitpatch", description = "Creates supplied diff output (i.e. 'a patch') and applies it to files. ", license = "MIT" }
+
+[peterj-proto]
+src.manual = "0.0.3"
+fetch.url = "https://open-vsx.org/api/peterj/proto/0.0.3/file/peterj.proto-0.0.3.vsix"
+passthru = { publisher = "peterj", name = "proto", description = "Protobuf support (.proto file syntax highlighting)", license = "MIT" }
+
 [ms-vscode-vscode-github-issue-notebooks]
 src.manual = "0.0.119"
 fetch.url = "https://open-vsx.org/api/ms-vscode/vscode-github-issue-notebooks/0.0.119/file/ms-vscode.vscode-github-issue-notebooks-0.0.119.vsix"
@@ -3825,11 +3835,6 @@ src.manual = "1.0.0"
 fetch.url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.0/file/ms-vscode.vscode-js-profile-flame-1.0.0.vsix"
 passthru = { publisher = "ms-vscode", name = "vscode-js-profile-flame", description = "Flame graph visualizer for profiles taken from the JavaScript debugger", license = "MIT" }
 
-[peterj-proto]
-src.manual = "0.0.3"
-fetch.url = "https://open-vsx.org/api/peterj/proto/0.0.3/file/peterj.proto-0.0.3.vsix"
-passthru = { publisher = "peterj", name = "proto", description = "Protobuf support (.proto file syntax highlighting)", license = "MIT" }
-
 [styled-components-vscode-styled-components]
 src.manual = "1.7.4"
 fetch.url = "https://open-vsx.org/api/styled-components/vscode-styled-components/1.7.4/file/styled-components.vscode-styled-components-1.7.4.vsix"
@@ -3844,11 +3849,6 @@ passthru = { publisher = "vscode-org-mode", name = "org-mode", description = "Em
 src.manual = "1.2.4"
 fetch.url = "https://open-vsx.org/api/vshaxe/hxcpp-debugger/1.2.4/file/vshaxe.hxcpp-debugger-1.2.4.vsix"
 passthru = { publisher = "vshaxe", name = "hxcpp-debugger", description = "Debugger for Haxe/HXCPP applications", license = "MIT" }
-
-[paragdiwan-gitpatch]
-src.manual = "0.2.1"
-fetch.url = "https://open-vsx.org/api/paragdiwan/gitpatch/0.2.1/file/paragdiwan.gitpatch-0.2.1.vsix"
-passthru = { publisher = "paragdiwan", name = "gitpatch", description = "Creates supplied diff output (i.e. 'a patch') and applies it to files. ", license = "MIT" }
 
 [xirider-livecode]
 src.manual = "1.3.10"
@@ -3880,30 +3880,30 @@ src.manual = "2.7.0"
 fetch.url = "https://open-vsx.org/api/reduckted/vscode-gitweblinks/2.7.0/file/reduckted.vscode-gitweblinks-2.7.0.vsix"
 passthru = { publisher = "reduckted", name = "vscode-gitweblinks", description = "Copy links to files in their online Git repositories", license = "MIT" }
 
-[mongodb-mongodb-vscode]
-src.manual = "0.9.3"
-fetch.url = "https://open-vsx.org/api/mongodb/mongodb-vscode/0.9.3/file/mongodb.mongodb-vscode-0.9.3.vsix"
-passthru = { publisher = "mongodb", name = "mongodb-vscode", description = "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.", license = "Apache-2.0" }
-
 [jock-svg]
 src.manual = "1.4.17"
 fetch.url = "https://open-vsx.org/api/jock/svg/1.4.17/file/jock.svg-1.4.17.vsix"
 passthru = { publisher = "jock", name = "svg", description = "SVG Coding, Minify, Pretty, Preview All-In-One", license = "MIT" }
+
+[mongodb-mongodb-vscode]
+src.manual = "0.9.3"
+fetch.url = "https://open-vsx.org/api/mongodb/mongodb-vscode/0.9.3/file/mongodb.mongodb-vscode-0.9.3.vsix"
+passthru = { publisher = "mongodb", name = "mongodb-vscode", description = "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.", license = "Apache-2.0" }
 
 [marus25-cortex-debug]
 src.manual = "1.4.4"
 fetch.url = "https://open-vsx.org/api/marus25/cortex-debug/1.4.4/file/marus25.cortex-debug-1.4.4.vsix"
 passthru = { publisher = "marus25", name = "cortex-debug", description = "ARM Cortex-M GDB Debugger support for VSCode", license = "MIT" }
 
-[neikeq-godot-csharp-vscode]
-src.manual = "0.2.1"
-fetch.url = "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neikeq.godot-csharp-vscode-0.2.1.vsix"
-passthru = { publisher = "neikeq", name = "godot-csharp-vscode", description = "Debugger and utilities for working with Godot C# projects", license = "MIT" }
-
 [RandomFractalsInc-snippets-viewer]
 src.manual = "1.9.0"
 fetch.url = "https://open-vsx.org/api/RandomFractalsInc/snippets-viewer/1.9.0/file/RandomFractalsInc.snippets-viewer-1.9.0.vsix"
 passthru = { publisher = "RandomFractalsInc", name = "snippets-viewer", description = "VSCode Snippets Viewer", license = "Apache-2.0" }
+
+[neikeq-godot-csharp-vscode]
+src.manual = "0.2.1"
+fetch.url = "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neikeq.godot-csharp-vscode-0.2.1.vsix"
+passthru = { publisher = "neikeq", name = "godot-csharp-vscode", description = "Debugger and utilities for working with Godot C# projects", license = "MIT" }
 
 [aaron-bond-better-comments]
 src.manual = "3.0.0"
@@ -3945,15 +3945,15 @@ src.manual = "0.24.0"
 fetch.url = "https://open-vsx.org/api/castwide/solargraph/0.24.0/file/castwide.solargraph-0.24.0.vsix"
 passthru = { publisher = "castwide", name = "solargraph", description = "A Ruby language server featuring code completion, intellisense, and inline documentation", license = "MIT" }
 
-[zardoy-better-snippets]
-src.manual = "0.1.24"
-fetch.url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.24/file/zardoy.better-snippets-0.1.24.vsix"
-passthru = { publisher = "zardoy", name = "better-snippets", description = "", license = "MIT" }
-
 [alegemaate-ssl-syntax-vscode]
 src.manual = "1.0.4"
 fetch.url = "https://open-vsx.org/api/alegemaate/ssl-syntax-vscode/1.0.4/file/alegemaate.ssl-syntax-vscode-1.0.4.vsix"
 passthru = { publisher = "alegemaate", name = "ssl-syntax-vscode", description = "Syntax support the the S/SL language", license = "MIT" }
+
+[zardoy-better-snippets]
+src.manual = "0.1.24"
+fetch.url = "https://open-vsx.org/api/zardoy/better-snippets/0.1.24/file/zardoy.better-snippets-0.1.24.vsix"
+passthru = { publisher = "zardoy", name = "better-snippets", description = "", license = "MIT" }
 
 [alegemaate-ssl-syntax-support]
 src.manual = "1.0.4"
@@ -4055,15 +4055,20 @@ src.manual = "1.3.0"
 fetch.url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.3.0/file/chenglou92.rescript-vscode-1.3.0.vsix"
 passthru = { publisher = "chenglou92", name = "rescript-vscode", description = "The official VSCode plugin for ReScript.", license = "MIT" }
 
-[serayuzgur-crates]
-src.manual = "0.5.10"
-fetch.url = "https://open-vsx.org/api/serayuzgur/crates/0.5.10/file/serayuzgur.crates-0.5.10.vsix"
-passthru = { publisher = "serayuzgur", name = "crates", description = "Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.", license = "MIT" }
-
 [bierner-docs-view]
 src.manual = "0.0.11"
 fetch.url = "https://open-vsx.org/api/bierner/docs-view/0.0.11/file/bierner.docs-view-0.0.11.vsix"
 passthru = { publisher = "bierner", name = "docs-view", description = "Display documentation in the sidebar or panel.", license = "MIT" }
+
+[grigoryvp-memory-theme]
+src.manual = "1.2.49"
+fetch.url = "https://open-vsx.org/api/grigoryvp/memory-theme/1.2.49/file/grigoryvp.memory-theme-1.2.49.vsix"
+passthru = { publisher = "grigoryvp", name = "memory-theme", description = "Memory Color Theme for Visual Studio Code", license = "" }
+
+[serayuzgur-crates]
+src.manual = "0.5.10"
+fetch.url = "https://open-vsx.org/api/serayuzgur/crates/0.5.10/file/serayuzgur.crates-0.5.10.vsix"
+passthru = { publisher = "serayuzgur", name = "crates", description = "Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.", license = "MIT" }
 
 [grigoryvp-language-xi]
 src.manual = "1.7.54"
@@ -4074,11 +4079,6 @@ passthru = { publisher = "grigoryvp", name = "language-xi", description = "Synta
 src.manual = "0.0.1"
 fetch.url = "https://open-vsx.org/api/rights/nas-vscode/0.0.1/file/rights.nas-vscode-0.0.1.vsix"
 passthru = { publisher = "rights", name = "nas-vscode", description = "NASM highlight", license = "MIT" }
-
-[grigoryvp-memory-theme]
-src.manual = "1.2.49"
-fetch.url = "https://open-vsx.org/api/grigoryvp/memory-theme/1.2.49/file/grigoryvp.memory-theme-1.2.49.vsix"
-passthru = { publisher = "grigoryvp", name = "memory-theme", description = "Memory Color Theme for Visual Studio Code", license = "" }
 
 [rebornix-ruby]
 src.manual = "0.28.1"
@@ -4115,15 +4115,15 @@ src.manual = "0.0.1"
 fetch.url = "https://open-vsx.org/api/jeanp413/test-java-extension-pack/0.0.1/file/jeanp413.test-java-extension-pack-0.0.1.vsix"
 passthru = { publisher = "jeanp413", name = "test-java-extension-pack", description = "Test Java extension pack", license = "MIT" }
 
-[fabiospampinato-vscode-terminals]
-src.manual = "1.13.0"
-fetch.url = "https://open-vsx.org/api/fabiospampinato/vscode-terminals/1.13.0/file/fabiospampinato.vscode-terminals-1.13.0.vsix"
-passthru = { publisher = "fabiospampinato", name = "vscode-terminals", description = "An extension for setting-up multiple terminals at once, or just running some commands", license = "MIT" }
-
 [vscjava-vscode-java-dependency]
 src.manual = "0.19.1"
 fetch.url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.19.1/file/vscjava.vscode-java-dependency-0.19.1.vsix"
 passthru = { publisher = "vscjava", name = "vscode-java-dependency", description = "Manage Java projects in Visual Studio Code", license = "MIT" }
+
+[fabiospampinato-vscode-terminals]
+src.manual = "1.13.0"
+fetch.url = "https://open-vsx.org/api/fabiospampinato/vscode-terminals/1.13.0/file/fabiospampinato.vscode-terminals-1.13.0.vsix"
+passthru = { publisher = "fabiospampinato", name = "vscode-terminals", description = "An extension for setting-up multiple terminals at once, or just running some commands", license = "MIT" }
 
 [oleg-shilo-favorites]
 src.manual = "1.5.16"
@@ -4300,15 +4300,15 @@ src.manual = "0.19.1"
 fetch.url = "https://open-vsx.org/api/telesoho/vscode-markdown-paste-image/0.19.1/file/telesoho.vscode-markdown-paste-image-0.19.1.vsix"
 passthru = { publisher = "telesoho", name = "vscode-markdown-paste-image", description = "A smartly paste for markdown.", license = "(MIT)" }
 
-[cloudstudio-deploykit]
-src.manual = "0.0.1"
-fetch.url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix"
-passthru = { publisher = "cloudstudio", name = "deploykit", description = "Cloud Studio 云部署套件", license = "MIT" }
-
 [cloudstudio-coding]
 src.manual = "0.0.3"
 fetch.url = "https://open-vsx.org/api/cloudstudio/coding/0.0.3/file/cloudstudio.coding-0.0.3.vsix"
 passthru = { publisher = "cloudstudio", name = "coding", description = "Remotely browse and edit any CODING repository", license = "MIT" }
+
+[cloudstudio-deploykit]
+src.manual = "0.0.1"
+fetch.url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix"
+passthru = { publisher = "cloudstudio", name = "deploykit", description = "Cloud Studio 云部署套件", license = "MIT" }
 
 [shd101wyy-markdown-preview-enhanced]
 src.manual = "0.6.3"
@@ -4320,15 +4320,20 @@ src.manual = "1.0.0"
 fetch.url = "https://open-vsx.org/api/openhab/openhab/1.0.0/file/openhab.openhab-1.0.0.vsix"
 passthru = { publisher = "openhab", name = "openhab", description = "Robust tool for openHAB textual configurations. Includes code snippets, syntax highlighting, language server integration and more.", license = "EPL-2.0" }
 
+[bierner-markdown-mermaid]
+src.manual = "1.14.0"
+fetch.url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.0/file/bierner.markdown-mermaid-1.14.0.vsix"
+passthru = { publisher = "bierner", name = "markdown-mermaid", description = "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview", license = "MIT" }
+
 [mads-hartmann-bash-ide-vscode]
 src.manual = "1.14.0"
 fetch.url = "https://open-vsx.org/api/mads-hartmann/bash-ide-vscode/1.14.0/file/mads-hartmann.bash-ide-vscode-1.14.0.vsix"
 passthru = { publisher = "mads-hartmann", name = "bash-ide-vscode", description = "A language server for Bash", license = "MIT" }
 
-[bierner-markdown-mermaid]
-src.manual = "1.14.0"
-fetch.url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.0/file/bierner.markdown-mermaid-1.14.0.vsix"
-passthru = { publisher = "bierner", name = "markdown-mermaid", description = "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview", license = "MIT" }
+[cloudstudio-browser-preview-lite]
+src.manual = "0.0.1"
+fetch.url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix"
+passthru = { publisher = "cloudstudio", name = "browser-preview-lite", description = "", license = "MIT" }
 
 [cloudstudio-init-workspace]
 src.manual = "0.0.4"
@@ -4340,11 +4345,6 @@ src.manual = "0.0.1"
 fetch.url = "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.1/file/cloudstudio.memory-cue-0.0.1.vsix"
 passthru = { publisher = "cloudstudio", name = "memory-cue", description = "Workspace memory cue extension", license = "MIT" }
 
-[cloudstudio-browser-preview-lite]
-src.manual = "0.0.1"
-fetch.url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix"
-passthru = { publisher = "cloudstudio", name = "browser-preview-lite", description = "", license = "MIT" }
-
 [Equinusocio-vsc-material-theme-icons]
 src.manual = "2.3.1"
 fetch.url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme-icons/2.3.1/file/Equinusocio.vsc-material-theme-icons-2.3.1.vsix"
@@ -4355,15 +4355,25 @@ src.manual = "1.2.0"
 fetch.url = "https://open-vsx.org/api/emroussel/atom-icons/1.2.0/file/emroussel.atom-icons-1.2.0.vsix"
 passthru = { publisher = "emroussel", name = "atom-icons", description = "Atom file and folder icons for VS Code", license = "MIT" }
 
-[kasik96-latte]
-src.manual = "0.18.0"
-fetch.url = "https://open-vsx.org/api/kasik96/latte/0.18.0/file/kasik96.latte-0.18.0.vsix"
-passthru = { publisher = "kasik96", name = "latte", description = "Nette Latte + Neon support for VS Code", license = "MIT" }
-
 [ms-edgedevtools-vscode-edge-devtools]
 src.manual = "1.4.6"
 fetch.url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/1.4.6/file/ms-edgedevtools.vscode-edge-devtools-1.4.6.vsix"
 passthru = { publisher = "ms-edgedevtools", name = "vscode-edge-devtools", description = "Use the Microsoft Edge Tools from within VS Code to see your site's runtime HTML structure, alter its layout, fix styling issues as well as see your site's network requests.", license = "MIT" }
+
+[ms-vscode-vs-keybindings]
+src.manual = "0.2.1"
+fetch.url = "https://open-vsx.org/api/ms-vscode/vs-keybindings/0.2.1/file/ms-vscode.vs-keybindings-0.2.1.vsix"
+passthru = { publisher = "ms-vscode", name = "vs-keybindings", description = "Popular Visual Studio keybindings for VS Code.", license = "MIT" }
+
+[ms-toolsai-vscode-jupyter-powertoys]
+src.manual = "0.0.3"
+fetch.url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix"
+passthru = { publisher = "ms-toolsai", name = "vscode-jupyter-powertoys", description = "Experimental features for Jupyter notebook support in VS Code.", license = "MIT" }
+
+[kasik96-latte]
+src.manual = "0.18.0"
+fetch.url = "https://open-vsx.org/api/kasik96/latte/0.18.0/file/kasik96.latte-0.18.0.vsix"
+passthru = { publisher = "kasik96", name = "latte", description = "Nette Latte + Neon support for VS Code", license = "MIT" }
 
 [ms-vscode-brackets-keybindings]
 src.manual = "0.1.1"
@@ -4375,20 +4385,10 @@ src.manual = "0.2.3"
 fetch.url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.3/file/ms-playwright.playwright-0.2.3.vsix"
 passthru = { publisher = "ms-playwright", name = "playwright", description = "Run Playwright Test tests in Visual Studio Code.", license = "Apache-2.0" }
 
-[ms-vscode-vs-keybindings]
-src.manual = "0.2.1"
-fetch.url = "https://open-vsx.org/api/ms-vscode/vs-keybindings/0.2.1/file/ms-vscode.vs-keybindings-0.2.1.vsix"
-passthru = { publisher = "ms-vscode", name = "vs-keybindings", description = "Popular Visual Studio keybindings for VS Code.", license = "MIT" }
-
 [tanhakabir-rest-book]
 src.manual = "6.0.1"
 fetch.url = "https://open-vsx.org/api/tanhakabir/rest-book/6.0.1/file/tanhakabir.rest-book-6.0.1.vsix"
 passthru = { publisher = "tanhakabir", name = "rest-book", description = "Notebook for running REST queries.", license = "MIT" }
-
-[ms-toolsai-vscode-jupyter-powertoys]
-src.manual = "0.0.3"
-fetch.url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix"
-passthru = { publisher = "ms-toolsai", name = "vscode-jupyter-powertoys", description = "Experimental features for Jupyter notebook support in VS Code.", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
 src.manual = "0.2.12"
@@ -4455,6 +4455,11 @@ src.manual = "5.3.2"
 fetch.url = "https://open-vsx.org/api/mrmlnc/vscode-csscomb/5.3.2/file/mrmlnc.vscode-csscomb-5.3.2.vsix"
 passthru = { publisher = "mrmlnc", name = "vscode-csscomb", description = "Coding style formatter for CSS, Less, SCSS or Sass", license = "MIT" }
 
+[everscale-solidity-support]
+src.manual = "1.3.41"
+fetch.url = "https://open-vsx.org/api/everscale/solidity-support/1.3.41/file/everscale.solidity-support-1.3.41.vsix"
+passthru = { publisher = "everscale", name = "solidity-support", description = "Everscale Solidity Language for Visual Studio Code", license = "Apache-2.0" }
+
 [ms-azuretools-vscode-azurefunctions]
 src.manual = "1.7.3"
 fetch.url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.3/file/ms-azuretools.vscode-azurefunctions-1.7.3.vsix"
@@ -4465,20 +4470,15 @@ src.manual = "0.1.0"
 fetch.url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.1.0/file/spoorthi.cosmy-wasmy-0.1.0.vsix"
 passthru = { publisher = "spoorthi", name = "cosmy-wasmy", description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm contracts", license = "GPL-3.0" }
 
-[everscale-solidity-support]
-src.manual = "1.3.41"
-fetch.url = "https://open-vsx.org/api/everscale/solidity-support/1.3.41/file/everscale.solidity-support-1.3.41.vsix"
-passthru = { publisher = "everscale", name = "solidity-support", description = "Everscale Solidity Language for Visual Studio Code", license = "Apache-2.0" }
+[radiolevity-salt-water-taffy]
+src.manual = "0.3.0"
+fetch.url = "https://open-vsx.org/api/radiolevity/salt-water-taffy/0.3.0/file/radiolevity.salt-water-taffy-0.3.0.vsix"
+passthru = { publisher = "radiolevity", name = "salt-water-taffy", description = "Seaside colors with a pastel finish", license = "MIT" }
 
 [Mineiros-terramate]
 src.manual = "0.0.2"
 fetch.url = "https://open-vsx.org/api/Mineiros/terramate/0.0.2/file/Mineiros.terramate-0.0.2.vsix"
 passthru = { publisher = "Mineiros", name = "terramate", description = "VSCode Terramate Extension", license = "Apache" }
-
-[radiolevity-salt-water-taffy]
-src.manual = "0.3.0"
-fetch.url = "https://open-vsx.org/api/radiolevity/salt-water-taffy/0.3.0/file/radiolevity.salt-water-taffy-0.3.0.vsix"
-passthru = { publisher = "radiolevity", name = "salt-water-taffy", description = "Seaside colors with a pastel finish", license = "MIT" }
 
 [zazuko-gmbh-expressive-rdf-mapper]
 src.manual = "1.1.0"
@@ -4595,15 +4595,15 @@ src.manual = "11.12.0"
 fetch.url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.12.0/file/vscode-icons-team.vscode-icons-11.12.0.vsix"
 passthru = { publisher = "vscode-icons-team", name = "vscode-icons", description = "Icons for Visual Studio Code", license = "MIT" }
 
-[nadim-vscode-symfony-super-console]
-src.manual = "1.1.0"
-fetch.url = "https://open-vsx.org/api/nadim-vscode/symfony-super-console/1.1.0/file/nadim-vscode.symfony-super-console-1.1.0.vsix"
-passthru = { publisher = "nadim-vscode", name = "symfony-super-console", description = "Run all Symfony commands from VsCode UI without writing any line.", license = "GPL-3.0" }
-
 [nextflow-nextflow]
 src.manual = "0.1.1"
 fetch.url = "https://open-vsx.org/api/nextflow/nextflow/0.1.1/file/nextflow.nextflow-0.1.1.vsix"
 passthru = { publisher = "nextflow", name = "nextflow", description = "Nextflow language support", license = "MIT" }
+
+[nadim-vscode-symfony-super-console]
+src.manual = "1.1.0"
+fetch.url = "https://open-vsx.org/api/nadim-vscode/symfony-super-console/1.1.0/file/nadim-vscode.symfony-super-console-1.1.0.vsix"
+passthru = { publisher = "nadim-vscode", name = "symfony-super-console", description = "Run all Symfony commands from VsCode UI without writing any line.", license = "GPL-3.0" }
 
 [nadim-vscode-html-meta-tags-hero]
 src.manual = "1.0.0"
@@ -4620,15 +4620,15 @@ src.manual = "4.0.0"
 fetch.url = "https://open-vsx.org/api/efoerster/texlab/4.0.0/file/efoerster.texlab-4.0.0.vsix"
 passthru = { publisher = "efoerster", name = "texlab", description = "LaTeX and BibTeX language support for Visual Studio Code", license = "MIT" }
 
-[mesonbuild-mesonbuild]
-src.manual = "1.6.0"
-fetch.url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.6.0/file/mesonbuild.mesonbuild-1.6.0.vsix"
-passthru = { publisher = "mesonbuild", name = "mesonbuild", description = "Meson language support for Visual Studio Code", license = "Apache-2.0" }
-
 [zhuangtongfa-material-theme]
 src.manual = "3.13.29"
 fetch.url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.29/file/zhuangtongfa.material-theme-3.13.29.vsix"
 passthru = { publisher = "zhuangtongfa", name = "material-theme", description = "Atom‘s iconic One Dark theme for Visual Studio Code", license = "MIT" }
+
+[mesonbuild-mesonbuild]
+src.manual = "1.6.0"
+fetch.url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.6.0/file/mesonbuild.mesonbuild-1.6.0.vsix"
+passthru = { publisher = "mesonbuild", name = "mesonbuild", description = "Meson language support for Visual Studio Code", license = "Apache-2.0" }
 
 [earshinov-simple-alignment]
 src.manual = "1.0.1"
@@ -4690,6 +4690,11 @@ src.manual = "0.0.2"
 fetch.url = "https://open-vsx.org/api/hc/wallace-corporation/0.0.2/file/hc.wallace-corporation-0.0.2.vsix"
 passthru = { publisher = "hc", name = "wallace-corporation", description = "Human action resounds in the heavens.", license = "MIT" }
 
+[MS-CEINTL-vscode-language-pack-it]
+src.manual = "1.68.3"
+fetch.url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.68.3/file/MS-CEINTL.vscode-language-pack-it-1.68.3.vsix"
+passthru = { publisher = "MS-CEINTL", name = "vscode-language-pack-it", description = "Language pack extension for Italian", license = "MIT" }
+
 [philschatz-vscode-xslt]
 src.manual = "1.4.1"
 fetch.url = "https://open-vsx.org/api/philschatz/vscode-xslt/1.4.1/file/philschatz.vscode-xslt-1.4.1.vsix"
@@ -4700,30 +4705,25 @@ src.manual = "0.1.17"
 fetch.url = "https://open-vsx.org/api/hall/draw/0.1.17/file/hall.draw-0.1.17.vsix"
 passthru = { publisher = "hall", name = "draw", description = "Draw an SVG image with a mouse or pen", license = "Apache-2.0" }
 
-[prantlf-fold-on-open]
-src.manual = "1.1.0"
-fetch.url = "https://open-vsx.org/api/prantlf/fold-on-open/1.1.0/file/prantlf.fold-on-open-1.1.0.vsix"
-passthru = { publisher = "prantlf", name = "fold-on-open", description = "Folds comments or other targets in code files automatically when you open them.", license = "MIT" }
-
-[prantlf-javascript-oldies]
-src.manual = "1.0.0"
-fetch.url = "https://open-vsx.org/api/prantlf/javascript-oldies/1.0.0/file/prantlf.javascript-oldies-1.0.0.vsix"
-passthru = { publisher = "prantlf", name = "javascript-oldies", description = "Collects extensions to help maintaining JavaScript projects written with old frameworks and tools.", license = "MIT" }
+[prantlf-vscode-oscript]
+src.manual = "0.3.0"
+fetch.url = "https://open-vsx.org/api/prantlf/vscode-oscript/0.3.0/file/prantlf.vscode-oscript-0.3.0.vsix"
+passthru = { publisher = "prantlf", name = "vscode-oscript", description = "Provides syntax checking and fixing, highlighting, autocompletion, hints, symbol outline, identifier recognition and renaming and other features for the OScript language in Visual Studio Code.", license = "MIT" }
 
 [prantlf-karma-problem-matchers]
 src.manual = "1.0.0"
 fetch.url = "https://open-vsx.org/api/prantlf/karma-problem-matchers/1.0.0/file/prantlf.karma-problem-matchers-1.0.0.vsix"
 passthru = { publisher = "prantlf", name = "karma-problem-matchers", description = "Capture errors from tests written with Jasmine, Mocha or other test framework and run by Karma from Visual Studio Code.", license = "MIT" }
 
-[prantlf-vscode-oscript]
-src.manual = "0.3.0"
-fetch.url = "https://open-vsx.org/api/prantlf/vscode-oscript/0.3.0/file/prantlf.vscode-oscript-0.3.0.vsix"
-passthru = { publisher = "prantlf", name = "vscode-oscript", description = "Provides syntax checking and fixing, highlighting, autocompletion, hints, symbol outline, identifier recognition and renaming and other features for the OScript language in Visual Studio Code.", license = "MIT" }
+[prantlf-javascript-oldies]
+src.manual = "1.0.0"
+fetch.url = "https://open-vsx.org/api/prantlf/javascript-oldies/1.0.0/file/prantlf.javascript-oldies-1.0.0.vsix"
+passthru = { publisher = "prantlf", name = "javascript-oldies", description = "Collects extensions to help maintaining JavaScript projects written with old frameworks and tools.", license = "MIT" }
 
-[MS-CEINTL-vscode-language-pack-it]
-src.manual = "1.68.3"
-fetch.url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-it/1.68.3/file/MS-CEINTL.vscode-language-pack-it-1.68.3.vsix"
-passthru = { publisher = "MS-CEINTL", name = "vscode-language-pack-it", description = "Language pack extension for Italian", license = "MIT" }
+[prantlf-fold-on-open]
+src.manual = "1.1.0"
+fetch.url = "https://open-vsx.org/api/prantlf/fold-on-open/1.1.0/file/prantlf.fold-on-open-1.1.0.vsix"
+passthru = { publisher = "prantlf", name = "fold-on-open", description = "Folds comments or other targets in code files automatically when you open them.", license = "MIT" }
 
 [MS-CEINTL-vscode-language-pack-pt-BR]
 src.manual = "1.68.3"
@@ -4750,15 +4750,15 @@ src.manual = "0.23.0"
 fetch.url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.23.0/file/vscjava.vscode-java-pack-0.23.0.vsix"
 passthru = { publisher = "vscjava", name = "vscode-java-pack", description = "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more", license = "MIT" }
 
-[MS-CEINTL-vscode-language-pack-ru]
-src.manual = "1.68.3"
-fetch.url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.68.3/file/MS-CEINTL.vscode-language-pack-ru-1.68.3.vsix"
-passthru = { publisher = "MS-CEINTL", name = "vscode-language-pack-ru", description = "Language pack extension for Russian", license = "MIT" }
-
 [MS-CEINTL-vscode-language-pack-es]
 src.manual = "1.68.3"
 fetch.url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-es/1.68.3/file/MS-CEINTL.vscode-language-pack-es-1.68.3.vsix"
 passthru = { publisher = "MS-CEINTL", name = "vscode-language-pack-es", description = "Language pack extension for Spanish", license = "MIT" }
+
+[MS-CEINTL-vscode-language-pack-ru]
+src.manual = "1.68.3"
+fetch.url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-ru/1.68.3/file/MS-CEINTL.vscode-language-pack-ru-1.68.3.vsix"
+passthru = { publisher = "MS-CEINTL", name = "vscode-language-pack-ru", description = "Language pack extension for Russian", license = "MIT" }
 
 [MS-CEINTL-vscode-language-pack-de]
 src.manual = "1.68.3"
@@ -5080,15 +5080,15 @@ src.manual = "0.7.0"
 fetch.url = "https://open-vsx.org/api/mhkb/vscode-theme-darcula-stormy/0.7.0/file/mhkb.vscode-theme-darcula-stormy-0.7.0.vsix"
 passthru = { publisher = "mhkb", name = "vscode-theme-darcula-stormy", description = "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs", license = "MIT" }
 
-[zaaack-markdown-editor]
-src.manual = "0.1.9"
-fetch.url = "https://open-vsx.org/api/zaaack/markdown-editor/0.1.9/file/zaaack.markdown-editor-0.1.9.vsix"
-passthru = { publisher = "zaaack", name = "markdown-editor", description = "A full-featured WYSIWYG editor for markdown.", license = "MIT" }
-
 [Nash-awesome-flutter-snippets]
 src.manual = "3.0.0"
 fetch.url = "https://open-vsx.org/api/Nash/awesome-flutter-snippets/3.0.0/file/Nash.awesome-flutter-snippets-3.0.0.vsix"
 passthru = { publisher = "Nash", name = "awesome-flutter-snippets", description = "Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes", license = "Apache-2.0" }
+
+[zaaack-markdown-editor]
+src.manual = "0.1.9"
+fetch.url = "https://open-vsx.org/api/zaaack/markdown-editor/0.1.9/file/zaaack.markdown-editor-0.1.9.vsix"
+passthru = { publisher = "zaaack", name = "markdown-editor", description = "A full-featured WYSIWYG editor for markdown.", license = "MIT" }
 
 [ms-toolsai-jupyter]
 src.manual = "2022.5.1001610507"
@@ -5270,15 +5270,15 @@ src.manual = "0.1.8"
 fetch.url = "https://open-vsx.org/api/AdamAnand/adamstool/0.1.8/file/AdamAnand.adamstool-0.1.8.vsix"
 passthru = { publisher = "AdamAnand", name = "adamstool", description = "Creates toolbar to help Visual Studio Code users.", license = "MIT" }
 
-[GreenXenith-minetest-tools]
-src.manual = "1.4.1"
-fetch.url = "https://open-vsx.org/api/GreenXenith/minetest-tools/1.4.1/file/GreenXenith.minetest-tools-1.4.1.vsix"
-passthru = { publisher = "GreenXenith", name = "minetest-tools", description = "Useful tools for Minetest developers.", license = "MIT" }
-
 [xmagee-xpcode]
 src.manual = "1.1.0"
 fetch.url = "https://open-vsx.org/api/xmagee/xpcode/1.1.0/file/xmagee.xpcode-1.1.0.vsix"
 passthru = { publisher = "xmagee", name = "xpcode", description = "Dark code theme, based on the Windows XP Blue color palette.", license = "GPL-2.0" }
+
+[GreenXenith-minetest-tools]
+src.manual = "1.4.1"
+fetch.url = "https://open-vsx.org/api/GreenXenith/minetest-tools/1.4.1/file/GreenXenith.minetest-tools-1.4.1.vsix"
+passthru = { publisher = "GreenXenith", name = "minetest-tools", description = "Useful tools for Minetest developers.", license = "MIT" }
 
 [sshimono-testlatte]
 src.manual = "2.1.1"
@@ -5695,11 +5695,6 @@ src.manual = "0.0.33"
 fetch.url = "https://open-vsx.org/api/sap-partner-eng/sap-bas-extras/0.0.33/file/sap-partner-eng.sap-bas-extras-0.0.33.vsix"
 passthru = { publisher = "sap-partner-eng", name = "sap-bas-extras", description = "Adds commands to install extras in SAP Business Application Studio(BAS).", license = "MIT" }
 
-[voidc-llvm-asm]
-src.manual = "0.0.1"
-fetch.url = "https://open-vsx.org/api/voidc/llvm-asm/0.0.1/file/voidc.llvm-asm-0.0.1.vsix"
-passthru = { publisher = "voidc", name = "llvm-asm", description = "Syntax highlighting and code navigation for LLVM assembly language.", license = "MIT" }
-
 [a5hk-vscode-scilla]
 src.manual = "0.2.1"
 fetch.url = "https://open-vsx.org/api/a5hk/vscode-scilla/0.2.1/file/a5hk.vscode-scilla-0.2.1.vsix"
@@ -5709,6 +5704,11 @@ passthru = { publisher = "a5hk", name = "vscode-scilla", description = "Syntax h
 src.manual = "3.0.6"
 fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly/3.0.6/file/launchdarklyofficial.launchdarkly-3.0.6.vsix"
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
+
+[voidc-llvm-asm]
+src.manual = "0.0.1"
+fetch.url = "https://open-vsx.org/api/voidc/llvm-asm/0.0.1/file/voidc.llvm-asm-0.0.1.vsix"
+passthru = { publisher = "voidc", name = "llvm-asm", description = "Syntax highlighting and code navigation for LLVM assembly language.", license = "MIT" }
 
 [MAKinteract-micro-bit-python]
 src.manual = "0.1.17"
@@ -6005,15 +6005,15 @@ src.manual = "3.2.9"
 fetch.url = "https://open-vsx.org/api/adhamu/kaleidoscope/3.2.9/file/adhamu.kaleidoscope-3.2.9.vsix"
 passthru = { publisher = "adhamu", name = "kaleidoscope", description = "A bright and colourful theme", license = "MIT" }
 
-[fougas-msys2]
-src.manual = "0.9.1"
-fetch.url = "https://open-vsx.org/api/fougas/msys2/0.9.1/file/fougas.msys2-0.9.1.vsix"
-passthru = { publisher = "fougas", name = "msys2", description = "VS Code extension to set and retrieve MSYS2/Cygwin/MinGW/Clang configuration", license = "BSD-2-Clause" }
-
 [MarcosGutirrezAlonso-turing-machine]
 src.manual = "1.1.2"
 fetch.url = "https://open-vsx.org/api/MarcosGutirrezAlonso/turing-machine/1.1.2/file/MarcosGutirrezAlonso.turing-machine-1.1.2.vsix"
 passthru = { publisher = "MarcosGutirrezAlonso", name = "turing-machine", description = "Support for the Turing Machine language", license = "GPL-3.0" }
+
+[fougas-msys2]
+src.manual = "0.9.1"
+fetch.url = "https://open-vsx.org/api/fougas/msys2/0.9.1/file/fougas.msys2-0.9.1.vsix"
+passthru = { publisher = "fougas", name = "msys2", description = "VS Code extension to set and retrieve MSYS2/Cygwin/MinGW/Clang configuration", license = "BSD-2-Clause" }
 
 [jeppeandersen-vscode-kafka]
 src.manual = "0.14.0"
@@ -6150,15 +6150,15 @@ src.manual = "1.11.1"
 fetch.url = "https://open-vsx.org/api/anwar/papyrus-language-support/1.11.1/file/anwar.papyrus-language-support-1.11.1.vsix"
 passthru = { publisher = "anwar", name = "papyrus-language-support", description = "Language Server for Papyrus DOCDEF, Syntax Highlighter, Code Validation", license = "MIT" }
 
-[anwar-resourcemonitor]
-src.manual = "1.0.10"
-fetch.url = "https://open-vsx.org/api/anwar/resourcemonitor/1.0.10/file/anwar.resourcemonitor-1.0.10.vsix"
-passthru = { publisher = "anwar", name = "resourcemonitor", description = "Displays current CPU stats, memory/disk consumption, and battery percentage remaining.", license = "MIT" }
-
 [anwar-papyrus-pdf]
 src.manual = "0.0.7"
 fetch.url = "https://open-vsx.org/api/anwar/papyrus-pdf/0.0.7/file/anwar.papyrus-pdf-0.0.7.vsix"
 passthru = { publisher = "anwar", name = "papyrus-pdf", description = "Display pdf file in VSCode For Papyrus", license = "" }
+
+[anwar-resourcemonitor]
+src.manual = "1.0.10"
+fetch.url = "https://open-vsx.org/api/anwar/resourcemonitor/1.0.10/file/anwar.resourcemonitor-1.0.10.vsix"
+passthru = { publisher = "anwar", name = "resourcemonitor", description = "Displays current CPU stats, memory/disk consumption, and battery percentage remaining.", license = "MIT" }
 
 [IronGeek-vscode-darklight]
 src.manual = "0.1.3"
@@ -6235,15 +6235,15 @@ src.manual = "0.2.2"
 fetch.url = "https://open-vsx.org/api/platymuus/dm-langclient/0.2.2/file/platymuus.dm-langclient-0.2.2.vsix"
 passthru = { publisher = "platymuus", name = "dm-langclient", description = "Client for DreamMaker language server", license = "GPL-3.0" }
 
-[Daimler-sechub]
-src.manual = "0.1.1"
-fetch.url = "https://open-vsx.org/api/Daimler/sechub/0.1.1/file/Daimler.sechub-0.1.1.vsix"
-passthru = { publisher = "Daimler", name = "sechub", description = "SecHub plugin for VSCode/VSCodium", license = "MIT" }
-
 [jeandeaual-scheme]
 src.manual = "0.2.0"
 fetch.url = "https://open-vsx.org/api/jeandeaual/scheme/0.2.0/file/jeandeaual.scheme-0.2.0.vsix"
 passthru = { publisher = "jeandeaual", name = "scheme", description = "Adds support for Scheme syntax highlighting.", license = "MIT" }
+
+[Daimler-sechub]
+src.manual = "0.1.1"
+fetch.url = "https://open-vsx.org/api/Daimler/sechub/0.1.1/file/Daimler.sechub-0.1.1.vsix"
+passthru = { publisher = "Daimler", name = "sechub", description = "SecHub plugin for VSCode/VSCodium", license = "MIT" }
 
 [qoretechnologies-qore-vscode]
 src.manual = "0.7.4"
@@ -6290,15 +6290,15 @@ src.manual = "0.7.8"
 fetch.url = "https://open-vsx.org/api/mborik/z80-macroasm/0.7.8/file/mborik.z80-macroasm-0.7.8.vsix"
 passthru = { publisher = "mborik", name = "z80-macroasm", description = "Support for Z80 macro-assemblers in Visual Studio Code", license = "MIT" }
 
-[slbtty-Lisp-Syntax]
-src.manual = "0.2.1"
-fetch.url = "https://open-vsx.org/api/slbtty/Lisp-Syntax/0.2.1/file/slbtty.Lisp-Syntax-0.2.1.vsix"
-passthru = { publisher = "slbtty", name = "Lisp-Syntax", description = "Syntax highlight for lisp family of languages", license = "MIT" }
-
 [dineug-vuerd-vscode]
 src.manual = "0.9.15"
 fetch.url = "https://open-vsx.org/api/dineug/vuerd-vscode/0.9.15/file/dineug.vuerd-vscode-0.9.15.vsix"
 passthru = { publisher = "dineug", name = "vuerd-vscode", description = "ERD Editor vscode extension", license = "MIT" }
+
+[slbtty-Lisp-Syntax]
+src.manual = "0.2.1"
+fetch.url = "https://open-vsx.org/api/slbtty/Lisp-Syntax/0.2.1/file/slbtty.Lisp-Syntax-0.2.1.vsix"
+passthru = { publisher = "slbtty", name = "Lisp-Syntax", description = "Syntax highlight for lisp family of languages", license = "MIT" }
 
 [FelixIcaza-andromeda]
 src.manual = "1.7.1"
@@ -6385,15 +6385,15 @@ src.manual = "2.5.5"
 fetch.url = "https://open-vsx.org/api/opensumi/opensumi-default-themes/2.5.5/file/opensumi.opensumi-default-themes-2.5.5.vsix"
 passthru = { publisher = "opensumi", name = "opensumi-default-themes", description = "The default OpenSumi themes", license = "MIT" }
 
-[franneck94-workspace-formatter]
-src.manual = "0.1.5"
-fetch.url = "https://open-vsx.org/api/franneck94/workspace-formatter/0.1.5/file/franneck94.workspace-formatter-0.1.5.vsix"
-passthru = { publisher = "franneck94", name = "workspace-formatter", description = "🔧 Format all your files in a workspace with one click. 🔧", license = "MIT" }
-
 [rvest-vs-code-prettier-eslint]
 src.manual = "3.1.0"
 fetch.url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/3.1.0/file/rvest.vs-code-prettier-eslint-3.1.0.vsix"
 passthru = { publisher = "rvest", name = "vs-code-prettier-eslint", description = "A Visual Studio Extension to format JavaScript and Typescript code using prettier-eslint package", license = "MIT" }
+
+[franneck94-workspace-formatter]
+src.manual = "0.1.5"
+fetch.url = "https://open-vsx.org/api/franneck94/workspace-formatter/0.1.5/file/franneck94.workspace-formatter-0.1.5.vsix"
+passthru = { publisher = "franneck94", name = "workspace-formatter", description = "🔧 Format all your files in a workspace with one click. 🔧", license = "MIT" }
 
 [pokey-talon]
 src.manual = "0.2.0"
@@ -6755,15 +6755,15 @@ src.manual = "0.0.4"
 fetch.url = "https://open-vsx.org/api/muchiros/attention-theme/0.0.4/file/muchiros.attention-theme-0.0.4.vsix"
 passthru = { publisher = "muchiros", name = "attention-theme", description = "Attention theme!", license = "MIT" }
 
-[misodee-vscode-nbt]
-src.manual = "0.6.7"
-fetch.url = "https://open-vsx.org/api/misodee/vscode-nbt/0.6.7/file/misodee.vscode-nbt-0.6.7.vsix"
-passthru = { publisher = "misodee", name = "vscode-nbt", description = "View Minecraft NBT and 3D structures", license = "MIT" }
-
 [jacobjohnston-encounterplus-markdown]
 src.manual = "1.0.61"
 fetch.url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.61/file/jacobjohnston.encounterplus-markdown-1.0.61.vsix"
 passthru = { publisher = "jacobjohnston", name = "encounterplus-markdown", description = "Renders markdown as it would appear in EncounterPlus", license = "CC0-1.0" }
+
+[misodee-vscode-nbt]
+src.manual = "0.6.7"
+fetch.url = "https://open-vsx.org/api/misodee/vscode-nbt/0.6.7/file/misodee.vscode-nbt-0.6.7.vsix"
+passthru = { publisher = "misodee", name = "vscode-nbt", description = "View Minecraft NBT and 3D structures", license = "MIT" }
 
 [ply-ct-vscode-ply]
 src.manual = "2.1.2"
@@ -6855,15 +6855,15 @@ src.manual = "1.2.17"
 fetch.url = "https://open-vsx.org/api/adhamu/history-in-sublime-merge/1.2.17/file/adhamu.history-in-sublime-merge-1.2.17.vsix"
 passthru = { publisher = "adhamu", name = "history-in-sublime-merge", description = "Open files in Sublime Merge", license = "MIT" }
 
-[huacat-office-theme]
-src.manual = "1.1.3"
-fetch.url = "https://open-vsx.org/api/huacat/office-theme/1.1.3/file/huacat.office-theme-1.1.3.vsix"
-passthru = { publisher = "huacat", name = "office-theme", description = "Microsoft Office(like) theme for VScode", license = "MIT" }
-
 [DrMerfy-overtype]
 src.manual = "0.4.6"
 fetch.url = "https://open-vsx.org/api/DrMerfy/overtype/0.4.6/file/DrMerfy.overtype-0.4.6.vsix"
 passthru = { publisher = "DrMerfy", name = "overtype", description = "Provides insert/overtype mode.", license = "BSD-2-Clause" }
+
+[huacat-office-theme]
+src.manual = "1.1.3"
+fetch.url = "https://open-vsx.org/api/huacat/office-theme/1.1.3/file/huacat.office-theme-1.1.3.vsix"
+passthru = { publisher = "huacat", name = "office-theme", description = "Microsoft Office(like) theme for VScode", license = "MIT" }
 
 [anweber-dot-icons]
 src.manual = "0.3.0"
@@ -6945,15 +6945,15 @@ src.manual = "0.3.7"
 fetch.url = "https://open-vsx.org/api/millerdev/pyxt/0.3.7/file/millerdev.pyxt-0.3.7.vsix"
 passthru = { publisher = "millerdev", name = "pyxt", description = "Python eXTensions for VS Code", license = "See LICENSE file" }
 
-[kleinesfilmroellchen-serenity-dsl-syntaxhighlight]
-src.manual = "0.1.1"
-fetch.url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.1.vsix"
-passthru = { publisher = "kleinesfilmroellchen", name = "serenity-dsl-syntaxhighlight", description = "Syntax Highlighting for the DSLs in SerenityOS", license = "MIT" }
-
 [allanoricil-nuxt-vscode-extension]
 src.manual = "0.0.21"
 fetch.url = "https://open-vsx.org/api/allanoricil/nuxt-vscode-extension/0.0.21/file/allanoricil.nuxt-vscode-extension-0.0.21.vsix"
 passthru = { publisher = "allanoricil", name = "nuxt-vscode-extension", description = "This extension aims to simplify the workflow when coding with Nuxt in VS Code", license = "MIT" }
+
+[kleinesfilmroellchen-serenity-dsl-syntaxhighlight]
+src.manual = "0.1.1"
+fetch.url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.1.vsix"
+passthru = { publisher = "kleinesfilmroellchen", name = "serenity-dsl-syntaxhighlight", description = "Syntax Highlighting for the DSLs in SerenityOS", license = "MIT" }
 
 [toroxx-tx-neon]
 src.manual = "0.1.3"
@@ -6975,15 +6975,15 @@ src.manual = "1.3.1"
 fetch.url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.1/file/Divlo.vscode-styled-jsx-syntax-1.3.1.vsix"
 passthru = { publisher = "Divlo", name = "vscode-styled-jsx-syntax", description = "Syntax highlighting for styled-jsx", license = "MIT" }
 
-[espressif-esp-idf-extension]
-src.manual = "1.4.0"
-fetch.url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.4.0/file/espressif.esp-idf-extension-1.4.0.vsix"
-passthru = { publisher = "espressif", name = "esp-idf-extension", description = "Develop and debug applications for Espressif ESP32, ESP32-S2 chips with ESP-IDF", license = "Apache-2.0" }
-
 [christian-kohler-path-intellisense]
 src.manual = "2.8.0"
 fetch.url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.8.0/file/christian-kohler.path-intellisense-2.8.0.vsix"
 passthru = { publisher = "christian-kohler", name = "path-intellisense", description = "Visual Studio Code plugin that autocompletes filenames", license = "MIT" }
+
+[espressif-esp-idf-extension]
+src.manual = "1.4.0"
+fetch.url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.4.0/file/espressif.esp-idf-extension-1.4.0.vsix"
+passthru = { publisher = "espressif", name = "esp-idf-extension", description = "Develop and debug applications for Espressif ESP32, ESP32-S2 chips with ESP-IDF", license = "Apache-2.0" }
 
 [Evidence-evidence-vscode]
 src.manual = "0.0.6"
@@ -7115,40 +7115,40 @@ src.manual = "0.1.1"
 fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.1.vsix"
 passthru = { publisher = "halcyontechltd", name = "vscode-ibmi-walkthroughs", description = "Adds walkthroughs for IBM i development in VS Code", license = "Apache-2.0" }
 
-[robole-markdown-shortcuts]
-src.manual = "0.6.0"
-fetch.url = "https://open-vsx.org/api/robole/markdown-shortcuts/0.6.0/file/robole.markdown-shortcuts-0.6.0.vsix"
-passthru = { publisher = "robole", name = "markdown-shortcuts", description = "Keyboard shortcuts for markdown snippets.", license = "MIT" }
-
 [Gruntfuggly-todo-tree]
 src.manual = "0.0.215"
 fetch.url = "https://open-vsx.org/api/Gruntfuggly/todo-tree/0.0.215/file/Gruntfuggly.todo-tree-0.0.215.vsix"
 passthru = { publisher = "Gruntfuggly", name = "todo-tree", description = "Show TODO, FIXME, etc. comment tags in a tree view", license = "MIT" }
+
+[robole-markdown-shortcuts]
+src.manual = "0.6.0"
+fetch.url = "https://open-vsx.org/api/robole/markdown-shortcuts/0.6.0/file/robole.markdown-shortcuts-0.6.0.vsix"
+passthru = { publisher = "robole", name = "markdown-shortcuts", description = "Keyboard shortcuts for markdown snippets.", license = "MIT" }
 
 [thiht-vscode-venom]
 src.manual = "0.0.4"
 fetch.url = "https://open-vsx.org/api/thiht/vscode-venom/0.0.4/file/thiht.vscode-venom-0.0.4.vsix"
 passthru = { publisher = "thiht", name = "vscode-venom", description = "Venom integration with Visual Studio Code", license = "MIT" }
 
-[joaopalmeiro-icons-octicons]
-src.manual = "0.1.0"
-fetch.url = "https://open-vsx.org/api/joaopalmeiro/icons-octicons/0.1.0/file/joaopalmeiro.icons-octicons-0.1.0.vsix"
-passthru = { publisher = "joaopalmeiro", name = "icons-octicons", description = "Octicons Product Icons for VS Code", license = "MIT" }
-
 [robole-markdown-snippets]
 src.manual = "0.7.5"
 fetch.url = "https://open-vsx.org/api/robole/markdown-snippets/0.7.5/file/robole.markdown-snippets-0.7.5.vsix"
 passthru = { publisher = "robole", name = "markdown-snippets", description = "Extended Markdown snippets.", license = "MIT" }
 
-[WyattL-greyscript]
-src.manual = "1.8.1"
-fetch.url = "https://open-vsx.org/api/WyattL/greyscript/1.8.1/file/WyattL.greyscript-1.8.1.vsix"
-passthru = { publisher = "WyattL", name = "greyscript", description = "Syntax highlighting for GreyScript.", license = "Apache-2.0" }
+[joaopalmeiro-icons-octicons]
+src.manual = "0.1.0"
+fetch.url = "https://open-vsx.org/api/joaopalmeiro/icons-octicons/0.1.0/file/joaopalmeiro.icons-octicons-0.1.0.vsix"
+passthru = { publisher = "joaopalmeiro", name = "icons-octicons", description = "Octicons Product Icons for VS Code", license = "MIT" }
 
 [barjo-anirak]
 src.manual = "6.4.3"
 fetch.url = "https://open-vsx.org/api/barjo/anirak/6.4.3/file/barjo.anirak-6.4.3.vsix"
 passthru = { publisher = "barjo", name = "anirak", description = "Anirak is a modern, minimalistic theme, designed to be soothing to the eyes and refreshing to the mind.", license = "Apache-2.0" }
+
+[WyattL-greyscript]
+src.manual = "1.8.1"
+fetch.url = "https://open-vsx.org/api/WyattL/greyscript/1.8.1/file/WyattL.greyscript-1.8.1.vsix"
+passthru = { publisher = "WyattL", name = "greyscript", description = "Syntax highlighting for GreyScript.", license = "Apache-2.0" }
 
 [tgrospic-rholang]
 src.manual = "0.7.0"
@@ -7255,6 +7255,11 @@ src.manual = "2.0.8"
 fetch.url = "https://open-vsx.org/api/IBMBlockchain/ibm-blockchain-platform/2.0.8/file/IBMBlockchain.ibm-blockchain-platform-2.0.8.vsix"
 passthru = { publisher = "IBMBlockchain", name = "ibm-blockchain-platform", description = "End to end extension for Hyperledger Fabric developers. Develop and test your blockchain smart contracts and client applications on your local machine, and package your projects for deployment into IBM Blockchain Platform runtimes.", license = "Apache-2.0" }
 
+[toroxx-vscode-avdmanager]
+src.manual = "1.2.1"
+fetch.url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.2.1/file/toroxx.vscode-avdmanager-1.2.1.vsix"
+passthru = { publisher = "toroxx", name = "vscode-avdmanager", description = "Android Virtual Device Manager for VSCode", license = "MIT" }
+
 [aperricone-harbour]
 src.manual = "1.0.3"
 fetch.url = "https://open-vsx.org/api/aperricone/harbour/1.0.3/file/aperricone.harbour-1.0.3.vsix"
@@ -7269,11 +7274,6 @@ passthru = { publisher = "aperricone", name = "vscode-dbf", description = "DBF t
 src.manual = "0.0.3"
 fetch.url = "https://open-vsx.org/api/aperricone/regexper-unofficial/0.0.3/file/aperricone.regexper-unofficial-0.0.3.vsix"
 passthru = { publisher = "aperricone", name = "regexper-unofficial", description = "Regexper for vscode", license = "MIT" }
-
-[toroxx-vscode-avdmanager]
-src.manual = "1.2.1"
-fetch.url = "https://open-vsx.org/api/toroxx/vscode-avdmanager/1.2.1/file/toroxx.vscode-avdmanager-1.2.1.vsix"
-passthru = { publisher = "toroxx", name = "vscode-avdmanager", description = "Android Virtual Device Manager for VSCode", license = "MIT" }
 
 [BeardedBear-beardedtheme]
 src.manual = "6.0.1"
@@ -7320,15 +7320,15 @@ src.manual = "0.5.0"
 fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.5.0/file/signageos.signageos-vscode-sops-0.5.0.vsix"
 passthru = { publisher = "signageos", name = "signageos-vscode-sops", description = "", license = "MIT" }
 
-[jerrygoyal-shortcut-menu-bar]
-src.manual = "3.0.4"
-fetch.url = "https://open-vsx.org/api/jerrygoyal/shortcut-menu-bar/3.0.4/file/jerrygoyal.shortcut-menu-bar-3.0.4.vsix"
-passthru = { publisher = "jerrygoyal", name = "shortcut-menu-bar", description = "Add handy buttons like beautify, show opened files, save, toggle terminal, activity bar etc to editor menu bar. User-defined buttons are also possible.", license = "GPL-3.0-or-later" }
-
 [mvllow-rose-pine]
 src.manual = "2.2.0"
 fetch.url = "https://open-vsx.org/api/mvllow/rose-pine/2.2.0/file/mvllow.rose-pine-2.2.0.vsix"
 passthru = { publisher = "mvllow", name = "rose-pine", description = "All natural pine, faux fur and a bit of soho vibes for the classy minimalist", license = "MIT" }
+
+[jerrygoyal-shortcut-menu-bar]
+src.manual = "3.0.4"
+fetch.url = "https://open-vsx.org/api/jerrygoyal/shortcut-menu-bar/3.0.4/file/jerrygoyal.shortcut-menu-bar-3.0.4.vsix"
+passthru = { publisher = "jerrygoyal", name = "shortcut-menu-bar", description = "Add handy buttons like beautify, show opened files, save, toggle terminal, activity bar etc to editor menu bar. User-defined buttons are also possible.", license = "GPL-3.0-or-later" }
 
 [qguv-ninja-vscode]
 src.manual = "2.0.0"
@@ -7370,15 +7370,15 @@ src.manual = "0.9.0"
 fetch.url = "https://open-vsx.org/api/anteprimorac/html-end-tag-labels/0.9.0/file/anteprimorac.html-end-tag-labels-0.9.0.vsix"
 passthru = { publisher = "anteprimorac", name = "html-end-tag-labels", description = "Labels HTML end tags in VSCode", license = "MIT" }
 
-[vadimcn-vscode-lldb]
-src.manual = "1.7.0"
-fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.0/file/vadimcn.vscode-lldb-1.7.0.vsix"
-passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
-
 [revng-llvm-ir]
 src.manual = "1.0.3"
 fetch.url = "https://open-vsx.org/api/revng/llvm-ir/1.0.3/file/revng.llvm-ir-1.0.3.vsix"
 passthru = { publisher = "revng", name = "llvm-ir", description = "LLVM IR language support for Visual Studio Code", license = "MIT" }
+
+[vadimcn-vscode-lldb]
+src.manual = "1.7.0"
+fetch.url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.0/file/vadimcn.vscode-lldb-1.7.0.vsix"
+passthru = { publisher = "vadimcn", name = "vscode-lldb", description = "A native debugger powered by LLDB.  Debug C++, Rust and other compiled languages.", license = "MIT" }
 
 [dtsf-octal-back-provider]
 src.manual = "0.1.1"
@@ -7645,15 +7645,15 @@ src.manual = "5.3.1"
 fetch.url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.1/file/PascalReitermann93.vscode-yaml-sort-5.3.1.vsix"
 passthru = { publisher = "PascalReitermann93", name = "vscode-yaml-sort", description = "This VS Code extension exposes the possibility to sort, format and validate yaml files.", license = "MIT" }
 
-[anweber-reveal-button]
-src.manual = "1.1.1"
-fetch.url = "https://open-vsx.org/api/anweber/reveal-button/1.1.1/file/anweber.reveal-button-1.1.1.vsix"
-passthru = { publisher = "anweber", name = "reveal-button", description = "Reveal Button in Sidebar", license = "MIT" }
-
 [redhat-vscode-openshift-connector]
 src.manual = "0.4.0"
 fetch.url = "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.4.0/file/redhat.vscode-openshift-connector-0.4.0.vsix"
 passthru = { publisher = "redhat", name = "vscode-openshift-connector", description = "Simplified app dev for Kubernetes or Red Hat OpenShift", license = "MIT" }
+
+[anweber-reveal-button]
+src.manual = "1.1.1"
+fetch.url = "https://open-vsx.org/api/anweber/reveal-button/1.1.1/file/anweber.reveal-button-1.1.1.vsix"
+passthru = { publisher = "anweber", name = "reveal-button", description = "Reveal Button in Sidebar", license = "MIT" }
 
 [cmoog-sqlnotebook]
 src.manual = "0.5.3"
@@ -7665,15 +7665,15 @@ src.manual = "0.1.6"
 fetch.url = "https://open-vsx.org/api/hbenl/test-adapter-converter/0.1.6/file/hbenl.test-adapter-converter-0.1.6.vsix"
 passthru = { publisher = "hbenl", name = "test-adapter-converter", description = "Converter extension from the Test Adapter UI to native VS Code testing", license = "MIT" }
 
-[muuvmuuv-vscode-sundial]
-src.manual = "3.1.0"
-fetch.url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.1.0/file/muuvmuuv.vscode-sundial-3.1.0.vsix"
-passthru = { publisher = "muuvmuuv", name = "vscode-sundial", description = "Automatically change your theme and settings based on your sunset, sunrise, system appearance or other preferences!", license = "GPLv3" }
-
 [caponetto-vscode-diff-viewer]
 src.manual = "1.2.0"
 fetch.url = "https://open-vsx.org/api/caponetto/vscode-diff-viewer/1.2.0/file/caponetto.vscode-diff-viewer-1.2.0.vsix"
 passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description = "Visualize git diff files in VS Code", license = "MIT" }
+
+[muuvmuuv-vscode-sundial]
+src.manual = "3.1.0"
+fetch.url = "https://open-vsx.org/api/muuvmuuv/vscode-sundial/3.1.0/file/muuvmuuv.vscode-sundial-3.1.0.vsix"
+passthru = { publisher = "muuvmuuv", name = "vscode-sundial", description = "Automatically change your theme and settings based on your sunset, sunrise, system appearance or other preferences!", license = "GPLv3" }
 
 [khan-two-monokai]
 src.manual = "0.1.3"
@@ -7685,15 +7685,20 @@ src.manual = "0.0.4"
 fetch.url = "https://open-vsx.org/api/razetime/bqn-language/0.0.4/file/razetime.bqn-language-0.0.4.vsix"
 passthru = { publisher = "razetime", name = "bqn-language", description = "BQN array programming language support, backslash completion, snippets and code execution", license = "MIT" }
 
+[grammarcraft-epsilon-eag-extension-pack]
+src.manual = "2.1.1"
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
+
 [nicoespeon-abracadabra]
 src.manual = "6.13.0"
 fetch.url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.13.0/file/nicoespeon.abracadabra-6.13.0.vsix"
 passthru = { publisher = "nicoespeon", name = "abracadabra", description = "Automated refactorings for VS Code, in JavaScript and TypeScript.", license = "MIT" }
 
-[grammarcraft-epsilon-eag-extension-pack]
+[grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1"
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
-passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
+passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag]
 src.manual = "2.1.1"
@@ -7704,11 +7709,6 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag", description = "Sp
 src.manual = "1.0.0"
 fetch.url = "https://open-vsx.org/api/BroadcomMFD/ccf/1.0.0/file/BroadcomMFD.ccf-1.0.0.vsix"
 passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical visualization of program flow for COBOL programs", license = "MIT" }
-
-[grammarcraft-epsilon-eag-light-theme]
-src.manual = "2.1.1"
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
-passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1"
@@ -7770,15 +7770,15 @@ src.manual = "0.1.0"
 fetch.url = "https://open-vsx.org/api/halcyontechltd/git-client-ibmi/0.1.0/file/halcyontechltd.git-client-ibmi-0.1.0.vsix"
 passthru = { publisher = "halcyontechltd", name = "git-client-ibmi", description = "A git client that works on a remote IBM i", license = "MIT" }
 
-[tiabeast-vscode-bait]
-src.manual = "0.2.2"
-fetch.url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.2/file/tiabeast.vscode-bait-0.2.2.vsix"
-passthru = { publisher = "tiabeast", name = "vscode-bait", description = "Provides rich language support for the bait programming language.", license = "MIT" }
-
 [mbari-tethysl]
 src.manual = "2.3.5"
 fetch.url = "https://open-vsx.org/api/mbari/tethysl/2.3.5/file/mbari.tethysl-2.3.5.vsix"
 passthru = { publisher = "mbari", name = "tethysl", description = "Plugin for TethysL", license = "Apache-2.0" }
+
+[tiabeast-vscode-bait]
+src.manual = "0.2.2"
+fetch.url = "https://open-vsx.org/api/tiabeast/vscode-bait/0.2.2/file/tiabeast.vscode-bait-0.2.2.vsix"
+passthru = { publisher = "tiabeast", name = "vscode-bait", description = "Provides rich language support for the bait programming language.", license = "MIT" }
 
 [Pivotal-vscode-bosh]
 src.manual = "1.33.0"
@@ -7840,6 +7840,11 @@ src.manual = "1.3.0"
 fetch.url = "https://open-vsx.org/api/PKief/material-product-icons/1.3.0/file/PKief.material-product-icons-1.3.0.vsix"
 passthru = { publisher = "PKief", name = "material-product-icons", description = "Product Icon Theme with Material Icons for VS Code", license = "MIT" }
 
+[lifeart-vscode-ember-unstable]
+src.manual = "3.0.31"
+fetch.url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.31/file/lifeart.vscode-ember-unstable-3.0.31.vsix"
+passthru = { publisher = "lifeart", name = "vscode-ember-unstable", description = "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects", license = "MIT" }
+
 [jetmartin-apicurio]
 src.manual = "0.1.0"
 fetch.url = "https://open-vsx.org/api/jetmartin/apicurio/0.1.0/file/jetmartin.apicurio-0.1.0.vsix"
@@ -7849,11 +7854,6 @@ passthru = { publisher = "jetmartin", name = "apicurio", description = "Explore 
 src.manual = "1.6.1"
 fetch.url = "https://open-vsx.org/api/cvergne/vscode-php-getters-setters-cv/1.6.1/file/cvergne.vscode-php-getters-setters-cv-1.6.1.vsix"
 passthru = { publisher = "cvergne", name = "vscode-php-getters-setters-cv", description = "Create PHP getters and setters from class properties", license = "MIT" }
-
-[lifeart-vscode-ember-unstable]
-src.manual = "3.0.31"
-fetch.url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.31/file/lifeart.vscode-ember-unstable-3.0.31.vsix"
-passthru = { publisher = "lifeart", name = "vscode-ember-unstable", description = "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects", license = "MIT" }
 
 [MarkMcCulloh-vscode-projen]
 src.manual = "0.0.30"
@@ -7875,15 +7875,15 @@ src.manual = "4.9.5"
 fetch.url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.5/file/42Crunch.vscode-openapi-4.9.5.vsix"
 passthru = { publisher = "42Crunch", name = "vscode-openapi", description = "OpenAPI extension for Visual Studio Code", license = "AGPL-3.0-only" }
 
-[BroadcomMFD-data-editor-for-mainframe]
-src.manual = "1.0.0"
-fetch.url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/1.0.0/file/BroadcomMFD.data-editor-for-mainframe-1.0.0.vsix"
-passthru = { publisher = "BroadcomMFD", name = "data-editor-for-mainframe", description = "Browser and editor for mainframe data sets including VSAM data sets", license = "" }
-
 [tomi-xasnippets]
 src.manual = "2.13.1"
 fetch.url = "https://open-vsx.org/api/tomi/xasnippets/2.13.1/file/tomi.xasnippets-2.13.1.vsix"
 passthru = { publisher = "tomi", name = "xasnippets", description = "React-typescript code snippets for XAcademy.", license = "ISC" }
+
+[BroadcomMFD-data-editor-for-mainframe]
+src.manual = "1.0.0"
+fetch.url = "https://open-vsx.org/api/BroadcomMFD/data-editor-for-mainframe/1.0.0/file/BroadcomMFD.data-editor-for-mainframe-1.0.0.vsix"
+passthru = { publisher = "BroadcomMFD", name = "data-editor-for-mainframe", description = "Browser and editor for mainframe data sets including VSAM data sets", license = "" }
 
 [pinage404-bash-extension-pack]
 src.manual = "2.0.0"
@@ -7905,55 +7905,55 @@ src.manual = "0.14.27"
 fetch.url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.27/file/iljapostnovs.ui5plugin-0.14.27.vsix"
 passthru = { publisher = "iljapostnovs", name = "ui5plugin", description = "Extension for working with UI5 projects", license = "Apache-2.0" }
 
-[redhat-mta-vscode-extension]
-src.manual = "0.0.98"
-fetch.url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.98/file/redhat.mta-vscode-extension-0.0.98.vsix"
-passthru = { publisher = "redhat", name = "mta-vscode-extension", description = "Migration Toolkit for Applications (MTA)", license = "MIT" }
-
 [Pivotal-vscode-spring-boot]
 src.manual = "1.33.0"
 fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.33.0/file/Pivotal.vscode-spring-boot-1.33.0.vsix"
 passthru = { publisher = "Pivotal", name = "vscode-spring-boot", description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.", license = "EPL-1.0" }
+
+[redhat-mta-vscode-extension]
+src.manual = "0.0.98"
+fetch.url = "https://open-vsx.org/api/redhat/mta-vscode-extension/0.0.98/file/redhat.mta-vscode-extension-0.0.98.vsix"
+passthru = { publisher = "redhat", name = "mta-vscode-extension", description = "Migration Toolkit for Applications (MTA)", license = "MIT" }
 
 [jaspergeer-docmachine]
 src.manual = "1.1.4"
 fetch.url = "https://open-vsx.org/api/jaspergeer/docmachine/1.1.4/file/jaspergeer.docmachine-1.1.4.vsix"
 passthru = { publisher = "jaspergeer", name = "docmachine", description = "On the fly documentation generator", license = "MIT" }
 
-[vivaxy-vscode-conventional-commits]
-src.manual = "1.24.1"
-fetch.url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.1/file/vivaxy.vscode-conventional-commits-1.24.1.vsix"
-passthru = { publisher = "vivaxy", name = "vscode-conventional-commits", description = "💬Conventional Commits for VSCode.", license = "MIT" }
-
 [hbenl-vscode-mocha-test-adapter]
 src.manual = "2.13.5"
 fetch.url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.5/file/hbenl.vscode-mocha-test-adapter-2.13.5.vsix"
 passthru = { publisher = "hbenl", name = "vscode-mocha-test-adapter", description = "Run your Mocha tests in the Sidebar of Visual Studio Code", license = "MIT" }
 
-[VMSSoftwareInc-vms-ide]
-src.manual = "1.5.54"
-fetch.url = "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.54/file/VMSSoftwareInc.vms-ide-1.5.54.vsix"
-passthru = { publisher = "VMSSoftwareInc", name = "vms-ide", description = "VMS IDE is an extension that enables you to develop applications for OpenVMS.", license = "MIT" }
+[vivaxy-vscode-conventional-commits]
+src.manual = "1.24.1"
+fetch.url = "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.1/file/vivaxy.vscode-conventional-commits-1.24.1.vsix"
+passthru = { publisher = "vivaxy", name = "vscode-conventional-commits", description = "💬Conventional Commits for VSCode.", license = "MIT" }
 
 [jsw-csharpextensions]
 src.manual = "1.7.0"
 fetch.url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.0/file/jsw.csharpextensions-1.7.0.vsix"
 passthru = { publisher = "jsw", name = "csharpextensions", description = "C# IDE Extensions for VSCode", license = "MIT" }
 
+[VMSSoftwareInc-vms-ide]
+src.manual = "1.5.54"
+fetch.url = "https://open-vsx.org/api/VMSSoftwareInc/vms-ide/1.5.54/file/VMSSoftwareInc.vms-ide-1.5.54.vsix"
+passthru = { publisher = "VMSSoftwareInc", name = "vms-ide", description = "VMS IDE is an extension that enables you to develop applications for OpenVMS.", license = "MIT" }
+
 [Gwion-gwion]
 src.manual = "0.2.3"
 fetch.url = "https://open-vsx.org/api/Gwion/gwion/0.2.3/file/Gwion.gwion-0.2.3.vsix"
 passthru = { publisher = "Gwion", name = "gwion", description = "Strongly-timed musical programming language", license = "" }
 
-[yasuyuky-transient-emacs]
-src.manual = "0.21.0"
-fetch.url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.21.0/file/yasuyuky.transient-emacs-0.21.0.vsix"
-passthru = { publisher = "yasuyuky", name = "transient-emacs", description = "Emacs mode using transient mark", license = "MIT" }
-
 [arzg-xcode-theme]
 src.manual = "0.7.9"
 fetch.url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.9/file/arzg.xcode-theme-0.7.9.vsix"
 passthru = { publisher = "arzg", name = "xcode-theme", description = "Xcode’s themes, ported to VS Code", license = "MIT" }
+
+[yasuyuky-transient-emacs]
+src.manual = "0.21.0"
+fetch.url = "https://open-vsx.org/api/yasuyuky/transient-emacs/0.21.0/file/yasuyuky.transient-emacs-0.21.0.vsix"
+passthru = { publisher = "yasuyuky", name = "transient-emacs", description = "Emacs mode using transient mark", license = "MIT" }
 
 [banacorn-agda-mode]
 src.manual = "0.3.9"
@@ -8005,6 +8005,11 @@ src.manual = "1.6.1"
 fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.6.1/file/PrateekMahendrakar.prettyxml-1.6.1.vsix"
 passthru = { publisher = "PrateekMahendrakar", name = "prettyxml", description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.", license = "MIT" }
 
+[ryanluker-vscode-coverage-gutters]
+src.manual = "2.10.1"
+fetch.url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.10.1/file/ryanluker.vscode-coverage-gutters-2.10.1.vsix"
+passthru = { publisher = "ryanluker", name = "vscode-coverage-gutters", description = "Display test coverage generated by lcov or xml - works with many languages", license = "MIT" }
+
 [redhat-vscode-extension-serverless-workflow-editor]
 src.manual = "0.19.0"
 fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.19.0/file/redhat.vscode-extension-serverless-workflow-editor-0.19.0.vsix"
@@ -8019,11 +8024,6 @@ passthru = { publisher = "Slint", name = "slint", description = "Slint Language 
 src.manual = "2.1.10"
 fetch.url = "https://open-vsx.org/api/senx/warpscript-language/2.1.10/file/senx.warpscript-language-2.1.10.vsix"
 passthru = { publisher = "senx", name = "warpscript-language", description = "WarpScript & FLoWS support", license = "Apache-2.0" }
-
-[ryanluker-vscode-coverage-gutters]
-src.manual = "2.10.1"
-fetch.url = "https://open-vsx.org/api/ryanluker/vscode-coverage-gutters/2.10.1/file/ryanluker.vscode-coverage-gutters-2.10.1.vsix"
-passthru = { publisher = "ryanluker", name = "vscode-coverage-gutters", description = "Display test coverage generated by lcov or xml - works with many languages", license = "MIT" }
 
 [gilcu3-tamarin]
 src.manual = "0.1.0"
@@ -8135,15 +8135,15 @@ src.manual = "4.5.1"
 fetch.url = "https://open-vsx.org/api/21zz/vscord/4.5.1/file/21zz.vscord-4.5.1.vsix"
 passthru = { publisher = "21zz", name = "vscord", description = "Discord Rich Presense specifically for VSCodium", license = "MIT" }
 
-[houkanshan-vscode-markdown-footnote]
-src.manual = "1.0.0"
-fetch.url = "https://open-vsx.org/api/houkanshan/vscode-markdown-footnote/1.0.0/file/houkanshan.vscode-markdown-footnote-1.0.0.vsix"
-passthru = { publisher = "houkanshan", name = "vscode-markdown-footnote", description = "Support markdown footnote in VSCode editor", license = "MIT" }
-
 [appliedengdesign-vscode-gcode-syntax]
 src.manual = "0.7.1"
 fetch.url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.1/file/appliedengdesign.vscode-gcode-syntax-0.7.1.vsix"
 passthru = { publisher = "appliedengdesign", name = "vscode-gcode-syntax", description = "Turn VSCode into a fully capable G-Code editor, including language support & more.", license = "MIT" }
+
+[houkanshan-vscode-markdown-footnote]
+src.manual = "1.0.0"
+fetch.url = "https://open-vsx.org/api/houkanshan/vscode-markdown-footnote/1.0.0/file/houkanshan.vscode-markdown-footnote-1.0.0.vsix"
+passthru = { publisher = "houkanshan", name = "vscode-markdown-footnote", description = "Support markdown footnote in VSCode editor", license = "MIT" }
 
 [edukera-archetype]
 src.manual = "0.55.0"
@@ -8210,40 +8210,40 @@ src.manual = "1.2.0"
 fetch.url = "https://open-vsx.org/api/pickoba/satysfi-workshop/1.2.0/file/pickoba.satysfi-workshop-1.2.0.vsix"
 passthru = { publisher = "pickoba", name = "satysfi-workshop", description = "Launguage support for SATySFi", license = "Apache-2.0" }
 
-[oraichain-cosmwasm-ide]
-src.manual = "0.13.53"
-fetch.url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.53/file/oraichain.cosmwasm-ide-0.13.53.vsix"
-passthru = { publisher = "oraichain", name = "cosmwasm-ide", description = "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts", license = "MIT OR Apache-2.0" }
+[redhat-vscode-extension-red-hat-business-automation-bundle]
+src.manual = "0.19.0"
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.19.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.19.0.vsix"
+passthru = { publisher = "redhat", name = "vscode-extension-red-hat-business-automation-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [kie-group-vscode-extension-kogito-bundle]
 src.manual = "0.19.0"
 fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.19.0/file/kie-group.vscode-extension-kogito-bundle-0.19.0.vsix"
 passthru = { publisher = "kie-group", name = "vscode-extension-kogito-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
+[oraichain-cosmwasm-ide]
+src.manual = "0.13.53"
+fetch.url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.53/file/oraichain.cosmwasm-ide-0.13.53.vsix"
+passthru = { publisher = "oraichain", name = "cosmwasm-ide", description = "CosmWasm IDE for developers to build & optimize CosmWasm smart contracts", license = "MIT OR Apache-2.0" }
+
 [redhat-vscode-extension-pmml-editor]
 src.manual = "0.19.0"
 fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.19.0/file/redhat.vscode-extension-pmml-editor-0.19.0.vsix"
 passthru = { publisher = "redhat", name = "vscode-extension-pmml-editor", description = "Edit PMML Scorecards", license = "Apache-2.0" }
-
-[redhat-vscode-extension-red-hat-business-automation-bundle]
-src.manual = "0.19.0"
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.19.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.19.0.vsix"
-passthru = { publisher = "redhat", name = "vscode-extension-red-hat-business-automation-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [redhat-vscode-extension-bpmn-editor]
 src.manual = "0.19.0"
 fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.19.0/file/redhat.vscode-extension-bpmn-editor-0.19.0.vsix"
 passthru = { publisher = "redhat", name = "vscode-extension-bpmn-editor", description = "Edit BPMN files", license = "Apache-2.0" }
 
-[redhat-vscode-extension-dmn-editor]
-src.manual = "0.19.0"
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.19.0/file/redhat.vscode-extension-dmn-editor-0.19.0.vsix"
-passthru = { publisher = "redhat", name = "vscode-extension-dmn-editor", description = "Edit DMN and Test Scenario files", license = "Apache-2.0" }
-
 [rangav-vscode-thunder-client]
 src.manual = "1.16.4"
 fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.4/file/rangav.vscode-thunder-client-1.16.4.vsix"
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
+
+[redhat-vscode-extension-dmn-editor]
+src.manual = "0.19.0"
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.19.0/file/redhat.vscode-extension-dmn-editor-0.19.0.vsix"
+passthru = { publisher = "redhat", name = "vscode-extension-dmn-editor", description = "Edit DMN and Test Scenario files", license = "Apache-2.0" }
 
 [nimsaem-nimvscode]
 src.manual = "0.1.26"
@@ -8305,15 +8305,15 @@ src.manual = "1.1.1"
 fetch.url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.1.1/file/BroadcomMFD.explorer-for-endevor-1.1.1.vsix"
 passthru = { publisher = "BroadcomMFD", name = "explorer-for-endevor", description = "Explorer for Endevor", license = "EPL-2.0" }
 
-[quick-lint-quick-lint-js]
-src.manual = "2.5.0"
-fetch.url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.5.0/file/quick-lint.quick-lint-js-2.5.0.vsix"
-passthru = { publisher = "quick-lint", name = "quick-lint-js", description = "Find JavaScript bugs with quick-lint-js", license = "GPL-3.0" }
-
 [alphabotsec-vscode-eclipse-keybindings]
 src.manual = "0.16.1"
 fetch.url = "https://open-vsx.org/api/alphabotsec/vscode-eclipse-keybindings/0.16.1/file/alphabotsec.vscode-eclipse-keybindings-0.16.1.vsix"
 passthru = { publisher = "alphabotsec", name = "vscode-eclipse-keybindings", description = "Eclipse keybindings for Visual Studio Code", license = "MIT" }
+
+[quick-lint-quick-lint-js]
+src.manual = "2.5.0"
+fetch.url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.5.0/file/quick-lint.quick-lint-js-2.5.0.vsix"
+passthru = { publisher = "quick-lint", name = "quick-lint-js", description = "Find JavaScript bugs with quick-lint-js", license = "GPL-3.0" }
 
 [sasjs-sasjs-for-vscode]
 src.manual = "1.16.2"
@@ -8325,15 +8325,15 @@ src.manual = "0.13.1"
 fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.1/file/d-biehl.robotcode-0.13.1.vsix"
 passthru = { publisher = "d-biehl", name = "robotcode", description = "RobotFramework support for Visual Studio Code", license = "Apache-2.0" }
 
-[bmcsoftware-jobs-as-code]
-src.manual = "0.2.3"
-fetch.url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix"
-passthru = { publisher = "bmcsoftware", name = "jobs-as-code", description = "All snippets and tools you need for Control-M Workflow development", license = "BSD-3-Clause" }
-
 [ocamllabs-ocaml-platform]
 src.manual = "1.10.4"
 fetch.url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.4/file/ocamllabs.ocaml-platform-1.10.4.vsix"
 passthru = { publisher = "ocamllabs", name = "ocaml-platform", description = "Official OCaml language extension for VSCode", license = "MIT" }
+
+[bmcsoftware-jobs-as-code]
+src.manual = "0.2.3"
+fetch.url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix"
+passthru = { publisher = "bmcsoftware", name = "jobs-as-code", description = "All snippets and tools you need for Control-M Workflow development", license = "BSD-3-Clause" }
 
 [LuqueDaniel-languague-renpy]
 src.manual = "2.0.10"
@@ -8400,15 +8400,15 @@ src.manual = "2022.5.2815"
 fetch.url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix"
 passthru = { publisher = "alygin", name = "vscode-tlaplus-nightly", description = "TLA+ language support (Nightly)", license = "MIT" }
 
-[idleberg-haskell-nsis]
-src.manual = "1.1.0"
-fetch.url = "https://open-vsx.org/api/idleberg/haskell-nsis/1.1.0/file/idleberg.haskell-nsis-1.1.0.vsix"
-passthru = { publisher = "idleberg", name = "haskell-nsis", description = "Haskell snippets for NSIS", license = "MIT OR GPL-2.0" }
-
 [RomainMenke-csstools-design-tokens]
 src.manual = "1.0.2"
 fetch.url = "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.0.2/file/RomainMenke.csstools-design-tokens-1.0.2.vsix"
 passthru = { publisher = "RomainMenke", name = "csstools-design-tokens", description = "Beta extension to enable auto complete and IDE support for CSSTools Design Tokens", license = "MIT" }
+
+[idleberg-haskell-nsis]
+src.manual = "1.1.0"
+fetch.url = "https://open-vsx.org/api/idleberg/haskell-nsis/1.1.0/file/idleberg.haskell-nsis-1.1.0.vsix"
+passthru = { publisher = "idleberg", name = "haskell-nsis", description = "Haskell snippets for NSIS", license = "MIT OR GPL-2.0" }
 
 [usernamehw-errorlens]
 src.manual = "3.5.1"
@@ -8425,15 +8425,15 @@ src.manual = "0.8.2"
 fetch.url = "https://open-vsx.org/api/Lencerf/beancount/0.8.2/file/Lencerf.beancount-0.8.2.vsix"
 passthru = { publisher = "Lencerf", name = "beancount", description = "VSCode extension for Beancount", license = "MIT" }
 
-[entan-gl-cc65-vice]
-src.manual = "6.3.2"
-fetch.url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.3.2/file/entan-gl.cc65-vice-6.3.2.vsix"
-passthru = { publisher = "entan-gl", name = "cc65-vice", description = "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators.", license = "MIT" }
-
 [mechatroner-rainbow-csv]
 src.manual = "2.4.0"
 fetch.url = "https://open-vsx.org/api/mechatroner/rainbow-csv/2.4.0/file/mechatroner.rainbow-csv-2.4.0.vsix"
 passthru = { publisher = "mechatroner", name = "rainbow-csv", description = "Highlight CSV and TSV files, Run SQL-like queries", license = "MIT" }
+
+[entan-gl-cc65-vice]
+src.manual = "6.3.2"
+fetch.url = "https://open-vsx.org/api/entan-gl/cc65-vice/6.3.2/file/entan-gl.cc65-vice-6.3.2.vsix"
+passthru = { publisher = "entan-gl", name = "cc65-vice", description = "An extension to debug CC65 running in VICE (Commodore) or Mesen (Nintendo) emulators.", license = "MIT" }
 
 [marcinbar-vscode-squirrel-linter]
 src.manual = "0.0.13"
@@ -8470,6 +8470,11 @@ src.manual = "0.23.6"
 fetch.url = "https://open-vsx.org/api/znck/grammarly/0.23.6/file/znck.grammarly-0.23.6.vsix"
 passthru = { publisher = "znck", name = "grammarly", description = "A grammar checking for Visual Studio Code using Grammarly.", license = "MIT" }
 
+[bilelmoussaoui-flatpak-vscode]
+src.manual = "0.0.28"
+fetch.url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix"
+passthru = { publisher = "bilelmoussaoui", name = "flatpak-vscode", description = "Provides Flatpak manifest integration for building & running your application", license = "MIT" }
+
 [idleberg-nsis]
 src.manual = "3.50.0"
 fetch.url = "https://open-vsx.org/api/idleberg/nsis/3.50.0/file/idleberg.nsis-3.50.0.vsix"
@@ -8480,25 +8485,20 @@ src.manual = "1.1.0"
 fetch.url = "https://open-vsx.org/api/pilotkid/lodash-import-what-you-need/1.1.0/file/pilotkid.lodash-import-what-you-need-1.1.0.vsix"
 passthru = { publisher = "pilotkid", name = "lodash-import-what-you-need", description = "Changes ES6 lodash imports to only import what is used in your code", license = "GPLv3" }
 
-[bilelmoussaoui-flatpak-vscode]
-src.manual = "0.0.28"
-fetch.url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix"
-passthru = { publisher = "bilelmoussaoui", name = "flatpak-vscode", description = "Provides Flatpak manifest integration for building & running your application", license = "MIT" }
-
 [learnpack-learnpack-vscode]
 src.manual = "0.0.7"
 fetch.url = "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.7/file/learnpack.learnpack-vscode-0.0.7.vsix"
 passthru = { publisher = "learnpack", name = "learnpack-vscode", description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.", license = "MIT" }
 
-[piousdeer-adwaita-theme]
-src.manual = "1.0.7"
-fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix"
-passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
-
 [betterthantomorrow-paste-replaced]
 src.manual = "1.1.3"
 fetch.url = "https://open-vsx.org/api/betterthantomorrow/paste-replaced/1.1.3/file/betterthantomorrow.paste-replaced-1.1.3.vsix"
 passthru = { publisher = "betterthantomorrow", name = "paste-replaced", description = "Paste text replaced using regular expressions that you configure, optionally simulating that you are typing it. Works anywhere in VS Code, not just the editors. E.g. ood for fast typing canned text in your presentations and a lot of other cases.", license = "MIT" }
+
+[piousdeer-adwaita-theme]
+src.manual = "1.0.7"
+fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix"
+passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [solidjs-community-solid-snippets]
 src.manual = "0.1.2"
@@ -8595,6 +8595,11 @@ src.manual = "0.8.0"
 fetch.url = "https://open-vsx.org/api/mtsmfm/vscode-k8s-quick-attach/0.8.0/file/mtsmfm.vscode-k8s-quick-attach-0.8.0.vsix"
 passthru = { publisher = "mtsmfm", name = "vscode-k8s-quick-attach", description = "This extension provide a quick way to attach VSCode to k8s Pod", license = "MIT" }
 
+[kodetech-kha-extension-pack]
+src.manual = "22.6.0"
+fetch.url = "https://open-vsx.org/api/kodetech/kha-extension-pack/22.6.0/file/kodetech.kha-extension-pack-22.6.0.vsix"
+passthru = { publisher = "kodetech", name = "kha-extension-pack", description = "Everything you need for Kha development", license = "" }
+
 [kodetech-krom]
 src.manual = "22.6.0"
 fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
@@ -8604,11 +8609,6 @@ passthru = { publisher = "kodetech", name = "krom", description = "Krom support"
 src.manual = "20.6.0"
 fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
-
-[kodetech-kha-extension-pack]
-src.manual = "22.6.0"
-fetch.url = "https://open-vsx.org/api/kodetech/kha-extension-pack/22.6.0/file/kodetech.kha-extension-pack-22.6.0.vsix"
-passthru = { publisher = "kodetech", name = "kha-extension-pack", description = "Everything you need for Kha development", license = "" }
 
 [phil294-git-log--graph]
 src.manual = "0.0.2"
@@ -8675,6 +8675,16 @@ src.manual = "2.0.3"
 fetch.url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.3/file/Zowe.vscode-extension-for-zowe-2.0.3.vsix"
 passthru = { publisher = "Zowe", name = "vscode-extension-for-zowe", description = "VS Code extension, powered by Zowe CLI, that streamlines interaction with mainframe data sets, USS files, and jobs", license = "EPL-2.0" }
 
+[SPGoding-datapack-language-server]
+src.manual = "3.3.32"
+fetch.url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.32/file/SPGoding.datapack-language-server-3.3.32.vsix"
+passthru = { publisher = "SPGoding", name = "datapack-language-server", description = "Heavy language features for Minecraft: Java Edition data pack files", license = "MIT" }
+
+[smapiot-vscode-piral]
+src.manual = "0.2.92"
+fetch.url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.92/file/smapiot.vscode-piral-0.2.92.vsix"
+passthru = { publisher = "smapiot", name = "vscode-piral", description = "Makes it easy to create, manage, and debug microfrontends using Pirals.", license = "MIT" }
+
 [Leathong-openscad-language-support]
 src.manual = "1.1.5"
 fetch.url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.5/file/Leathong.openscad-language-support-1.1.5.vsix"
@@ -8685,25 +8695,15 @@ src.manual = "1.9.2"
 fetch.url = "https://open-vsx.org/api/hilleer/yaml-plus-json/1.9.2/file/hilleer.yaml-plus-json-1.9.2.vsix"
 passthru = { publisher = "hilleer", name = "yaml-plus-json", description = "Easily convert yaml to json and json to yaml", license = "MIT" }
 
-[SPGoding-datapack-language-server]
-src.manual = "3.3.32"
-fetch.url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.32/file/SPGoding.datapack-language-server-3.3.32.vsix"
-passthru = { publisher = "SPGoding", name = "datapack-language-server", description = "Heavy language features for Minecraft: Java Edition data pack files", license = "MIT" }
+[FelixAngelov-bloc]
+src.manual = "6.6.0"
+fetch.url = "https://open-vsx.org/api/FelixAngelov/bloc/6.6.0/file/FelixAngelov.bloc-6.6.0.vsix"
+passthru = { publisher = "FelixAngelov", name = "bloc", description = "Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.", license = "MIT" }
 
 [astro-build-astro-vscode]
 src.manual = "0.19.2"
 fetch.url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.2/file/astro-build.astro-vscode-0.19.2.vsix"
 passthru = { publisher = "astro-build", name = "astro-vscode", description = "Language support for Astro", license = "MIT" }
-
-[smapiot-vscode-piral]
-src.manual = "0.2.92"
-fetch.url = "https://open-vsx.org/api/smapiot/vscode-piral/0.2.92/file/smapiot.vscode-piral-0.2.92.vsix"
-passthru = { publisher = "smapiot", name = "vscode-piral", description = "Makes it easy to create, manage, and debug microfrontends using Pirals.", license = "MIT" }
-
-[FelixAngelov-bloc]
-src.manual = "6.6.0"
-fetch.url = "https://open-vsx.org/api/FelixAngelov/bloc/6.6.0/file/FelixAngelov.bloc-6.6.0.vsix"
-passthru = { publisher = "FelixAngelov", name = "bloc", description = "Support for the bloc library and provides tools for effectively creating blocs for both Flutter and AngularDart apps.", license = "MIT" }
 
 [robocorp-robocorp-code]
 src.manual = "0.34.0"
@@ -8755,6 +8755,11 @@ src.manual = "0.7.2"
 fetch.url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.2/file/halcyontechltd.vscode-rpgle-0.7.2.vsix"
 passthru = { publisher = "halcyontechltd", name = "vscode-rpgle", description = "RPGLE content assist and linter for VS Code", license = "MIT" }
 
+[llvm-vs-code-extensions-vscode-clangd]
+src.manual = "0.1.17"
+fetch.url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.17/file/llvm-vs-code-extensions.vscode-clangd-0.1.17.vsix"
+passthru = { publisher = "llvm-vs-code-extensions", name = "vscode-clangd", description = "C/C++ completion, navigation, and insights", license = "MIT" }
+
 [anweber-vscode-httpyac]
 src.manual = "5.4.2"
 fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.2/file/anweber.vscode-httpyac-5.4.2.vsix"
@@ -8764,11 +8769,6 @@ passthru = { publisher = "anweber", name = "vscode-httpyac", description = "Quic
 src.manual = "0.0.8"
 fetch.url = "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.8/file/t-codespaces.test-vscode-web-state-0.0.8.vsix"
 passthru = { publisher = "t-codespaces", name = "test-vscode-web-state", description = "111", license = "" }
-
-[llvm-vs-code-extensions-vscode-clangd]
-src.manual = "0.1.17"
-fetch.url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.17/file/llvm-vs-code-extensions.vscode-clangd-0.1.17.vsix"
-passthru = { publisher = "llvm-vs-code-extensions", name = "vscode-clangd", description = "C/C++ completion, navigation, and insights", license = "MIT" }
 
 [alexcvzz-vscode-sqlite]
 src.manual = "0.14.1"
@@ -8790,6 +8790,11 @@ src.manual = "0.0.17"
 fetch.url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.17/file/marcinbar.vscode-squirrel-0.0.17.vsix"
 passthru = { publisher = "marcinbar", name = "vscode-squirrel", description = "Squirrel Language Supports", license = "MIT" }
 
+[Betajob-modulestf]
+src.manual = "0.0.9"
+fetch.url = "https://open-vsx.org/api/Betajob/modulestf/0.0.9/file/Betajob.modulestf-0.0.9.vsix"
+passthru = { publisher = "Betajob", name = "modulestf", description = "Semantic highlighting support for Terraform, and more to come...", license = "PROPRIETARY" }
+
 [CodeStream-codestream]
 src.manual = "13.1.0"
 fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.1.0/file/CodeStream.codestream-13.1.0.vsix"
@@ -8805,10 +8810,20 @@ src.manual = "0.1.12"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-catalan/0.1.12/file/streetsidesoftware.code-spell-checker-catalan-0.1.12.vsix"
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-catalan", description = "Catalan dictionary extension for VS Code.", license = "MIT" }
 
+[streetsidesoftware-code-spell-checker-ukrainian]
+src.manual = "0.1.13"
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-ukrainian/0.1.13/file/streetsidesoftware.code-spell-checker-ukrainian-0.1.13.vsix"
+passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-ukrainian", description = "Ukrainian dictionary extension for VS Code.", license = "MIT" }
+
 [streetsidesoftware-code-spell-checker-scientific-terms]
 src.manual = "0.1.5"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-scientific-terms/0.1.5/file/streetsidesoftware.code-spell-checker-scientific-terms-0.1.5.vsix"
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-scientific-terms", description = "Scientific Terms dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
+
+[streetsidesoftware-code-spell-checker-french-reforme]
+src.manual = "2.0.5"
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french-reforme/2.0.5/file/streetsidesoftware.code-spell-checker-french-reforme-2.0.5.vsix"
+passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-french-reforme", description = "French Réforme 90 dictionary extension for VS Code.", license = "MIT" }
 
 [streetsidesoftware-code-spell-checker-slovenian]
 src.manual = "0.1.2"
@@ -8825,11 +8840,6 @@ src.manual = "2.1.0"
 fetch.url = "https://open-vsx.org/api/networkteam/neos-fusion/2.1.0/file/networkteam.neos-fusion-2.1.0.vsix"
 passthru = { publisher = "networkteam", name = "neos-fusion", description = "Fusion and Eel language support for Neos CMS", license = "MIT" }
 
-[Betajob-modulestf]
-src.manual = "0.0.9"
-fetch.url = "https://open-vsx.org/api/Betajob/modulestf/0.0.9/file/Betajob.modulestf-0.0.9.vsix"
-passthru = { publisher = "Betajob", name = "modulestf", description = "Semantic highlighting support for Terraform, and more to come...", license = "PROPRIETARY" }
-
 [streetsidesoftware-code-spell-checker-dutch]
 src.manual = "0.3.2"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-dutch/0.3.2/file/streetsidesoftware.code-spell-checker-dutch-0.3.2.vsix"
@@ -8844,11 +8854,6 @@ passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-espera
 src.manual = "1.0.8"
 fetch.url = "https://open-vsx.org/api/zobo/php-intellisense/1.0.8/file/zobo.php-intellisense-1.0.8.vsix"
 passthru = { publisher = "zobo", name = "php-intellisense", description = "Advanced Autocompletion and Refactoring support for PHP", license = "MIT" }
-
-[streetsidesoftware-code-spell-checker-french-reforme]
-src.manual = "2.0.5"
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french-reforme/2.0.5/file/streetsidesoftware.code-spell-checker-french-reforme-2.0.5.vsix"
-passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-french-reforme", description = "French Réforme 90 dictionary extension for VS Code.", license = "MIT" }
 
 [mathiassoeholm-markdown-link-updater]
 src.manual = "2.1.3"
@@ -8905,11 +8910,6 @@ src.manual = "0.1.12"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-greek/0.1.12/file/streetsidesoftware.code-spell-checker-greek-0.1.12.vsix"
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-greek", description = "Greek dictionary extension for VS Code.", license = "MIT" }
 
-[streetsidesoftware-code-spell-checker-ukrainian]
-src.manual = "0.1.13"
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-ukrainian/0.1.13/file/streetsidesoftware.code-spell-checker-ukrainian-0.1.13.vsix"
-passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-ukrainian", description = "Ukrainian dictionary extension for VS Code.", license = "MIT" }
-
 [streetsidesoftware-code-spell-checker-danish]
 src.manual = "0.2.13"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-danish/0.2.13/file/streetsidesoftware.code-spell-checker-danish-0.2.13.vsix"
@@ -8960,6 +8960,11 @@ src.manual = "2.33.1"
 fetch.url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.33.1/file/RokuCommunity.brightscript-2.33.1.vsix"
 passthru = { publisher = "RokuCommunity", name = "brightscript", description = "Language support for Roku's BrightScript language.", license = "MIT" }
 
+[streetsidesoftware-code-spell-checker-russian]
+src.manual = "2.0.5"
+fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-russian/2.0.5/file/streetsidesoftware.code-spell-checker-russian-2.0.5.vsix"
+passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-russian", description = "Russian dictionary extension for VS Code.", license = "MIT" }
+
 [iterative-dvc]
 src.manual = "0.3.0"
 fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.0/file/iterative.dvc-0.3.0.vsix"
@@ -8980,20 +8985,15 @@ src.manual = "0.2.1"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-french/0.2.1/file/streetsidesoftware.code-spell-checker-french-0.2.1.vsix"
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-french", description = "French dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
-[streetsidesoftware-code-spell-checker-russian]
-src.manual = "2.0.5"
-fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-russian/2.0.5/file/streetsidesoftware.code-spell-checker-russian-2.0.5.vsix"
-passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-russian", description = "Russian dictionary extension for VS Code.", license = "MIT" }
+[Slint-slint-nightly]
+src.manual = "2022.6.1008"
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1008/file/Slint.slint-nightly-2022.6.1008.vsix"
+passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [marcinbar-vscode-gothiconline]
 src.manual = "0.0.35"
 fetch.url = "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.35/file/marcinbar.vscode-gothiconline-0.0.35.vsix"
 passthru = { publisher = "marcinbar", name = "vscode-gothiconline", description = "IntelliSense for Gothic Online", license = "MIT" }
-
-[Slint-slint-nightly]
-src.manual = "2022.6.1008"
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1008/file/Slint.slint-nightly-2022.6.1008.vsix"
-passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [marp-team-marp-vscode]
 src.manual = "2.1.0"
@@ -9010,6 +9010,11 @@ src.manual = "2.0.4"
 fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-german/2.0.4/file/streetsidesoftware.code-spell-checker-german-2.0.4.vsix"
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-german", description = "German dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
+[emroussel-atomize-atom-one-dark-theme]
+src.manual = "2.0.2"
+fetch.url = "https://open-vsx.org/api/emroussel/atomize-atom-one-dark-theme/2.0.2/file/emroussel.atomize-atom-one-dark-theme-2.0.2.vsix"
+passthru = { publisher = "emroussel", name = "atomize-atom-one-dark-theme", description = "A detailed and accurate Atom One Dark Theme", license = "MIT" }
+
 [zenclabs-previewjs]
 src.manual = "1.9.0"
 fetch.url = "https://open-vsx.org/api/zenclabs/previewjs/1.9.0/file/zenclabs.previewjs-1.9.0.vsix"
@@ -9019,6 +9024,11 @@ passthru = { publisher = "zenclabs", name = "previewjs", description = "Get inst
 src.manual = "0.0.2"
 fetch.url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.2/file/t-codespaces.ide-code-status-0.0.2.vsix"
 passthru = { publisher = "t-codespaces", name = "ide-code-status", description = "工作空间内代码状态相关的行为管理、注册、上报插件（非 scm 类型）。", license = "" }
+
+[antfu-icons-carbon]
+src.manual = "0.2.5"
+fetch.url = "https://open-vsx.org/api/antfu/icons-carbon/0.2.5/file/antfu.icons-carbon-0.2.5.vsix"
+passthru = { publisher = "antfu", name = "icons-carbon", description = "Carbon Product Icons for VS Code", license = "MIT" }
 
 [eliostruyf-vscode-front-matter-beta]
 src.manual = "8.0.2475396"
@@ -9039,16 +9049,6 @@ passthru = { publisher = "a5hk", name = "paper", description = "Light theme with
 src.manual = "0.4.12"
 fetch.url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.12/file/ligolang-publish.ligo-vscode-0.4.12.vsix"
 passthru = { publisher = "ligolang-publish", name = "ligo-vscode", description = "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO.", license = "MIT" }
-
-[emroussel-atomize-atom-one-dark-theme]
-src.manual = "2.0.2"
-fetch.url = "https://open-vsx.org/api/emroussel/atomize-atom-one-dark-theme/2.0.2/file/emroussel.atomize-atom-one-dark-theme-2.0.2.vsix"
-passthru = { publisher = "emroussel", name = "atomize-atom-one-dark-theme", description = "A detailed and accurate Atom One Dark Theme", license = "MIT" }
-
-[antfu-icons-carbon]
-src.manual = "0.2.5"
-fetch.url = "https://open-vsx.org/api/antfu/icons-carbon/0.2.5/file/antfu.icons-carbon-0.2.5.vsix"
-passthru = { publisher = "antfu", name = "icons-carbon", description = "Carbon Product Icons for VS Code", license = "MIT" }
 
 [halcyontechltd-code-for-ibmi]
 src.manual = "1.3.6"
@@ -9085,30 +9085,30 @@ src.manual = "0.0.1"
 fetch.url = "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.1/file/Snickerdoodle.snickerdoodle-light-0.0.1.vsix"
 passthru = { publisher = "Snickerdoodle", name = "snickerdoodle-light", description = "Snickerdoodle Labs light VSCode theme", license = "MIT" }
 
-[waderyan-gitblame]
-src.manual = "8.2.2"
-fetch.url = "https://open-vsx.org/api/waderyan/gitblame/8.2.2/file/waderyan.gitblame-8.2.2.vsix"
-passthru = { publisher = "waderyan", name = "gitblame", description = "See git blame information in the status bar.", license = "MIT" }
-
 [Kelvin-vscode-sshfs]
 src.manual = "1.25.0"
 fetch.url = "https://open-vsx.org/api/Kelvin/vscode-sshfs/1.25.0/file/Kelvin.vscode-sshfs-1.25.0.vsix"
 passthru = { publisher = "Kelvin", name = "vscode-sshfs", description = "File system, terminal and task provider using SSH", license = "GPL-3.0" }
+
+[waderyan-gitblame]
+src.manual = "8.2.2"
+fetch.url = "https://open-vsx.org/api/waderyan/gitblame/8.2.2/file/waderyan.gitblame-8.2.2.vsix"
+passthru = { publisher = "waderyan", name = "gitblame", description = "See git blame information in the status bar.", license = "MIT" }
 
 [SonarSource-sonarlint-vscode]
 src.manual = "3.5.4"
 fetch.url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.4/file/SonarSource.sonarlint-vscode-3.5.4.vsix"
 passthru = { publisher = "SonarSource", name = "sonarlint-vscode", description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.", license = "LGPL-3.0" }
 
-[YXL-cloudmusic]
-src.manual = "9.10.2"
-fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.2/file/YXL.cloudmusic-9.10.2.vsix"
-passthru = { publisher = "YXL", name = "cloudmusic", description = "Netease Music for VS Code", license = "MIT" }
-
 [foam-foam-vscode]
 src.manual = "0.18.4"
 fetch.url = "https://open-vsx.org/api/foam/foam-vscode/0.18.4/file/foam.foam-vscode-0.18.4.vsix"
 passthru = { publisher = "foam", name = "foam-vscode", description = "VS Code + Markdown + Wikilinks for your note taking and knowledge base", license = "MIT" }
+
+[YXL-cloudmusic]
+src.manual = "9.10.2"
+fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.2/file/YXL.cloudmusic-9.10.2.vsix"
+passthru = { publisher = "YXL", name = "cloudmusic", description = "Netease Music for VS Code", license = "MIT" }
 
 [cyrilletuzi-angular-schematics]
 src.manual = "5.2.3"
