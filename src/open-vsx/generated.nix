@@ -9745,6 +9745,18 @@
     description = "Run your tests in the Sidebar of Visual Studio Code";
     publisher = "hbenl";
   };
+  hc-wallace-corporation = {
+    pname = "hc-wallace-corporation";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.0.2/file/hc.wallace-corporation-0.0.2.vsix";
+      sha256 = "sha256-yrOFAwDkVLk8Hy+iMl2h2Hh4sPGdj0rziZTSGarM6uM=";
+    };
+    license = "MIT";
+    name = "wallace-corporation";
+    description = "Human action resounds in the heavens.";
+    publisher = "hc";
+  };
   hcl-hcl-ztools = {
     pname = "hcl-hcl-ztools";
     version = "0.0.13";
@@ -15288,6 +15300,18 @@
     name = "openapi-designer";
     description = "Live Preview of OpenApi Schema in VS Code.";
     publisher = "philosowaffle";
+  };
+  philschatz-vscode-xslt = {
+    pname = "philschatz-vscode-xslt";
+    version = "1.4.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/philschatz/vscode-xslt/1.4.1/file/philschatz.vscode-xslt-1.4.1.vsix";
+      sha256 = "sha256-rDoZLfbjv6sEJQqDL1gzbmg86BOfSFq7CgDXDMzL0/Y=";
+    };
+    license = "AGPL-3.0";
+    name = "vscode-xslt";
+    description = "Interactively step through your XSLT transformation by setting breakpoints and using the Debugger.";
+    publisher = "philschatz";
   };
   pickoba-satysfi-workshop = {
     pname = "pickoba-satysfi-workshop";

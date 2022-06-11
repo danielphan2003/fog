@@ -15427,6 +15427,25 @@
         },
         "version": "2.21.1"
     },
+    "hc-wallace-corporation": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "hc-wallace-corporation",
+        "passthru": {
+            "description": "Human action resounds in the heavens.",
+            "license": "MIT",
+            "name": "wallace-corporation",
+            "publisher": "hc"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-yrOFAwDkVLk8Hy+iMl2h2Hh4sPGdj0rziZTSGarM6uM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.0.2/file/hc.wallace-corporation-0.0.2.vsix"
+        },
+        "version": "0.0.2"
+    },
     "hcl-hcl-ztools": {
         "cargoLocks": null,
         "extract": null,
@@ -24204,6 +24223,25 @@
             "url": "https://open-vsx.org/api/philosowaffle/openapi-designer/0.3.0/file/philosowaffle.openapi-designer-0.3.0.vsix"
         },
         "version": "0.3.0"
+    },
+    "philschatz-vscode-xslt": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "philschatz-vscode-xslt",
+        "passthru": {
+            "description": "Interactively step through your XSLT transformation by setting breakpoints and using the Debugger.",
+            "license": "AGPL-3.0",
+            "name": "vscode-xslt",
+            "publisher": "philschatz"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-rDoZLfbjv6sEJQqDL1gzbmg86BOfSFq7CgDXDMzL0/Y=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/philschatz/vscode-xslt/1.4.1/file/philschatz.vscode-xslt-1.4.1.vsix"
+        },
+        "version": "1.4.1"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
