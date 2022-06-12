@@ -12337,6 +12337,18 @@
     description = "Format ,prettify and beautify JS, CSS, HTML code by using shortcuts, context menu or CLI";
     publisher = "lonefy";
   };
+  lukas-tr-materialdesignicons-intellisense = {
+    pname = "lukas-tr-materialdesignicons-intellisense";
+    version = "4.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lukas-tr/materialdesignicons-intellisense/4.1.0/file/lukas-tr.materialdesignicons-intellisense-4.1.0.vsix";
+      sha256 = "sha256-dq4HhXC90t6Z+UdJwkn2H7O+MABLueKNiEqGGiQOEOk=";
+    };
+    license = "MIT";
+    name = "materialdesignicons-intellisense";
+    description = "Provides intellisense for Material Design Icons";
+    publisher = "lukas-tr";
+  };
   lukashass-volar = {
     pname = "lukashass-volar";
     version = "0.34.13";
@@ -14331,10 +14343,10 @@
   };
   nasmevka-regard = {
     pname = "nasmevka-regard";
-    version = "1.3.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nasmevka/regard/1.3.0/file/nasmevka.regard-1.3.0.vsix";
-      sha256 = "sha256-giHEO+FMPkF6JjxrVtlqDu6bsgqdRbMWIJ3gX+rBJJQ=";
+      url = "https://open-vsx.org/api/nasmevka/regard/1.5.0/file/nasmevka.regard-1.5.0.vsix";
+      sha256 = "sha256-PRfpkbC6yb2Qy17MMD0AjvcKA1yVtTBrhLYRZi+E3to=";
     };
     license = "MIT";
     name = "regard";
@@ -19764,6 +19776,66 @@
     name = "vscode-conventional-commits";
     description = "\128172Conventional Commits for VSCode.";
     publisher = "vivaxy";
+  };
+  vknabel-vscode-apple-swift-format = {
+    pname = "vknabel-vscode-apple-swift-format";
+    version = "1.3.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vknabel/vscode-apple-swift-format/1.3.1/file/vknabel.vscode-apple-swift-format-1.3.1.vsix";
+      sha256 = "sha256-N8ON1Ql9O0NmU8O/9e9AmuV01JCzZ+Y+/lvT14zZ+T0=";
+    };
+    license = "MIT";
+    name = "vscode-apple-swift-format";
+    description = "Formatting Swift code with apple/swift-format.";
+    publisher = "vknabel";
+  };
+  vknabel-vscode-lithia = {
+    pname = "vknabel-vscode-lithia";
+    version = "0.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vknabel/vscode-lithia/0.0.5/file/vknabel.vscode-lithia-0.0.5.vsix";
+      sha256 = "sha256-p0oOI8nHr0ySBgWT5AOtN9eISv6LnEi8nSpGjeH0+aw=";
+    };
+    license = "MIT";
+    name = "vscode-lithia";
+    description = "Experimental language support for Lithia";
+    publisher = "vknabel";
+  };
+  vknabel-vscode-swift-development-environment = {
+    pname = "vknabel-vscode-swift-development-environment";
+    version = "2.12.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vknabel/vscode-swift-development-environment/2.12.2/file/vknabel.vscode-swift-development-environment-2.12.2.vsix";
+      sha256 = "sha256-4019MyhOrQ4zUNzUToTzDnyEeogUuBXmn+xPLFnmAcc=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-swift-development-environment";
+    description = "New home of Swift Development Environment for VS Code";
+    publisher = "vknabel";
+  };
+  vknabel-vscode-swiftformat = {
+    pname = "vknabel-vscode-swiftformat";
+    version = "1.5.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vknabel/vscode-swiftformat/1.5.1/file/vknabel.vscode-swiftformat-1.5.1.vsix";
+      sha256 = "sha256-GLWlWGXc3KkpXLQSbHZ22mtB42Gwgd/v9yCXbvp55lA=";
+    };
+    license = "MIT";
+    name = "vscode-swiftformat";
+    description = "Formatting Swift code with nicklockwood/SwiftFormat.";
+    publisher = "vknabel";
+  };
+  vknabel-vscode-swiftlint = {
+    pname = "vknabel-vscode-swiftlint";
+    version = "1.7.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vknabel/vscode-swiftlint/1.7.1/file/vknabel.vscode-swiftlint-1.7.1.vsix";
+      sha256 = "sha256-rPhLfTtFp0ELVOUd0NePpZ2okaer4m2Azgc9pEGg8NY=";
+    };
+    license = "MIT";
+    name = "vscode-swiftlint";
+    description = "VS Code extension to enforce Swift style and conventions via SwiftLint";
+    publisher = "vknabel";
   };
   vlanguage-vscode-vlang = {
     pname = "vlanguage-vscode-vlang";

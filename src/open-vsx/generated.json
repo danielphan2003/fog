@@ -19531,6 +19531,25 @@
         },
         "version": "0.2.3"
     },
+    "lukas-tr-materialdesignicons-intellisense": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "lukas-tr-materialdesignicons-intellisense",
+        "passthru": {
+            "description": "Provides intellisense for Material Design Icons",
+            "license": "MIT",
+            "name": "materialdesignicons-intellisense",
+            "publisher": "lukas-tr"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dq4HhXC90t6Z+UdJwkn2H7O+MABLueKNiEqGGiQOEOk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/lukas-tr/materialdesignicons-intellisense/4.1.0/file/lukas-tr.materialdesignicons-intellisense-4.1.0.vsix"
+        },
+        "version": "4.1.0"
+    },
     "lukashass-volar": {
         "cargoLocks": null,
         "extract": null,
@@ -22698,11 +22717,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-giHEO+FMPkF6JjxrVtlqDu6bsgqdRbMWIJ3gX+rBJJQ=",
+            "sha256": "sha256-PRfpkbC6yb2Qy17MMD0AjvcKA1yVtTBrhLYRZi+E3to=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nasmevka/regard/1.3.0/file/nasmevka.regard-1.3.0.vsix"
+            "url": "https://open-vsx.org/api/nasmevka/regard/1.5.0/file/nasmevka.regard-1.5.0.vsix"
         },
-        "version": "1.3.0"
+        "version": "1.5.0"
     },
     "naumovs-color-highlight": {
         "cargoLocks": null,
@@ -31291,6 +31310,101 @@
             "url": "https://open-vsx.org/api/vivaxy/vscode-conventional-commits/1.24.1/file/vivaxy.vscode-conventional-commits-1.24.1.vsix"
         },
         "version": "1.24.1"
+    },
+    "vknabel-vscode-apple-swift-format": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vknabel-vscode-apple-swift-format",
+        "passthru": {
+            "description": "Formatting Swift code with apple/swift-format.",
+            "license": "MIT",
+            "name": "vscode-apple-swift-format",
+            "publisher": "vknabel"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-N8ON1Ql9O0NmU8O/9e9AmuV01JCzZ+Y+/lvT14zZ+T0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vknabel/vscode-apple-swift-format/1.3.1/file/vknabel.vscode-apple-swift-format-1.3.1.vsix"
+        },
+        "version": "1.3.1"
+    },
+    "vknabel-vscode-lithia": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vknabel-vscode-lithia",
+        "passthru": {
+            "description": "Experimental language support for Lithia",
+            "license": "MIT",
+            "name": "vscode-lithia",
+            "publisher": "vknabel"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-p0oOI8nHr0ySBgWT5AOtN9eISv6LnEi8nSpGjeH0+aw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vknabel/vscode-lithia/0.0.5/file/vknabel.vscode-lithia-0.0.5.vsix"
+        },
+        "version": "0.0.5"
+    },
+    "vknabel-vscode-swift-development-environment": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vknabel-vscode-swift-development-environment",
+        "passthru": {
+            "description": "New home of Swift Development Environment for VS Code",
+            "license": "Apache-2.0",
+            "name": "vscode-swift-development-environment",
+            "publisher": "vknabel"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-4019MyhOrQ4zUNzUToTzDnyEeogUuBXmn+xPLFnmAcc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vknabel/vscode-swift-development-environment/2.12.2/file/vknabel.vscode-swift-development-environment-2.12.2.vsix"
+        },
+        "version": "2.12.2"
+    },
+    "vknabel-vscode-swiftformat": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vknabel-vscode-swiftformat",
+        "passthru": {
+            "description": "Formatting Swift code with nicklockwood/SwiftFormat.",
+            "license": "MIT",
+            "name": "vscode-swiftformat",
+            "publisher": "vknabel"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-GLWlWGXc3KkpXLQSbHZ22mtB42Gwgd/v9yCXbvp55lA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vknabel/vscode-swiftformat/1.5.1/file/vknabel.vscode-swiftformat-1.5.1.vsix"
+        },
+        "version": "1.5.1"
+    },
+    "vknabel-vscode-swiftlint": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vknabel-vscode-swiftlint",
+        "passthru": {
+            "description": "VS Code extension to enforce Swift style and conventions via SwiftLint",
+            "license": "MIT",
+            "name": "vscode-swiftlint",
+            "publisher": "vknabel"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-rPhLfTtFp0ELVOUd0NePpZ2okaer4m2Azgc9pEGg8NY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vknabel/vscode-swiftlint/1.7.1/file/vknabel.vscode-swiftlint-1.7.1.vsix"
+        },
+        "version": "1.7.1"
     },
     "vlanguage-vscode-vlang": {
         "cargoLocks": null,
