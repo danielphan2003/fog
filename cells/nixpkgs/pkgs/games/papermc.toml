@@ -145,4 +145,9 @@ src.cmd = " nixpkgs papermc-updater 1.18.2 "
 fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/$ver/downloads/paper-1.18.2-$ver.jar"
 passthru = { mcVer = "1.18.2" }
 
+[papermc-1_19]
+src.cmd = " nixpkgs papermc-updater 1.19 "
+fetch.url = "https://papermc.io/api/v2/projects/paper/versions/1.19/builds/$ver/downloads/paper-1.19-$ver.jar"
+passthru = { mcVer = "1.19" }
+
 ## papermc
