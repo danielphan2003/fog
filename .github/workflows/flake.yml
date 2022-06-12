@@ -12,6 +12,11 @@ jobs:
     steps:
     - uses: actions/checkout@v3.0.2
 
+    - name: Setup git cred for github actor
+      run: |
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name github-actions
+
     - name: Install latest nix
       uses: cachix/install-nix-action@v17
       with:
@@ -28,12 +33,6 @@ jobs:
 
     - name: Quick eval
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command evalnix
-
-    - name: Setup git cred for github actor
-      uses: EndBug/add-and-commit@v9
-      with:
-        default_author: github_actions
-        push: false
 
     - name: Update flake.lock
       run: nix flake update --commit-lock-file

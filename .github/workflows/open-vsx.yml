@@ -15,6 +15,11 @@ jobs:
     steps:
     - uses: actions/checkout@v3.0.2
 
+    - name: Setup git cred for github actor
+      run: |
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name github-actions
+
     - name: Cache nvfetcher
       uses: actions/cache@v3
       with:
@@ -46,12 +51,6 @@ jobs:
 
     - name: Update open-vsx extension sources
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs openvsx-updater
-
-    - name: Setup git cred for github actor
-      uses: EndBug/add-and-commit@v9
-      with:
-        default_author: github_actions
-        push: false
 
     - name: Update all open-vsx extensions (except matklad.rust-analyzer)
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command nixpkgs updateSources misc/vscode-extensions/open-vsx
