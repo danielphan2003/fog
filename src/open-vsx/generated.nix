@@ -7419,10 +7419,10 @@
   };
   deepakgupta191199-save-commands = {
     pname = "deepakgupta191199-save-commands";
-    version = "0.0.2";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.0.2/file/deepakgupta191199.save-commands-0.0.2.vsix";
-      sha256 = "sha256-H2t1nvc0vO0pGVIswNaSYLaNNqjuuFsac1swzIRVMRU=";
+      url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.1.0/file/deepakgupta191199.save-commands-0.1.0.vsix";
+      sha256 = "sha256-I5u/W7fpph7aAf4GPz0IUlxXqt2VAatM/M63U51T9Rw=";
     };
     license = "MIT";
     name = "save-commands";
@@ -12099,10 +12099,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.77";
+    version = "0.0.78";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.77/file/leanprover.lean4-0.0.77.vsix";
-      sha256 = "sha256-ZjAZqD544EHr+RCUnLmxi6GosxqQQ+GjX58Ye1nPPFA=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.78/file/leanprover.lean4-0.0.78.vsix";
+      sha256 = "sha256-MCryB5cMqAmMgu8MhrGMmtxFlTmEQYWC+9m55tZotqg=";
     };
     license = "Apache-2.0";
     name = "lean4";
