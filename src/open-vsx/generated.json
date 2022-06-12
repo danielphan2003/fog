@@ -16637,11 +16637,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C8gjsGHlbzFWuTGQ7/zc+HDFN0I6Cxt1BTOcSzBDjeA=",
+            "sha256": "sha256-XzCxcW/7eGgpDqaMRNBI00Gg3OimI3auQ3VILPNa0Jw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.16/file/innoverio.vscode-dbt-power-user-0.5.16.vsix"
+            "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.17/file/innoverio.vscode-dbt-power-user-0.5.17.vsix"
         },
-        "version": "0.5.16"
+        "version": "0.5.17"
     },
     "intersystems-community-servermanager": {
         "cargoLocks": null,
@@ -26612,11 +26612,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PqglNxVgKt/D8KtwHl77GcWAIpRGljGJE7pvenqDXeY=",
+            "sha256": "sha256-4CsahS7hA73ZEafQiSixb2BtBwtH37g2+a/hHp1lDRA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/snippets-ranger/0.21.0/file/robole.snippets-ranger-0.21.0.vsix"
+            "url": "https://open-vsx.org/api/robole/snippets-ranger/0.21.2/file/robole.snippets-ranger-0.21.2.vsix"
         },
-        "version": "0.21.0"
+        "version": "0.21.2"
     },
     "rogalmic-bash-debug": {
         "cargoLocks": null,

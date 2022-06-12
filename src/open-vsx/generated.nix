@@ -10503,10 +10503,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.5.16";
+    version = "0.5.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.16/file/innoverio.vscode-dbt-power-user-0.5.16.vsix";
-      sha256 = "sha256-C8gjsGHlbzFWuTGQ7/zc+HDFN0I6Cxt1BTOcSzBDjeA=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.17/file/innoverio.vscode-dbt-power-user-0.5.17.vsix";
+      sha256 = "sha256-XzCxcW/7eGgpDqaMRNBI00Gg3OimI3auQ3VILPNa0Jw=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
@@ -16803,10 +16803,10 @@
   };
   robole-snippets-ranger = {
     pname = "robole-snippets-ranger";
-    version = "0.21.0";
+    version = "0.21.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/snippets-ranger/0.21.0/file/robole.snippets-ranger-0.21.0.vsix";
-      sha256 = "sha256-PqglNxVgKt/D8KtwHl77GcWAIpRGljGJE7pvenqDXeY=";
+      url = "https://open-vsx.org/api/robole/snippets-ranger/0.21.2/file/robole.snippets-ranger-0.21.2.vsix";
+      sha256 = "sha256-4CsahS7hA73ZEafQiSixb2BtBwtH37g2+a/hHp1lDRA=";
     };
     license = "MIT";
     name = "snippets-ranger";
