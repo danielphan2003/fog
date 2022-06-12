@@ -15987,10 +15987,10 @@
   };
   raer0-codium-dark-syntax = {
     pname = "raer0-codium-dark-syntax";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/raer0/codium-dark-syntax/1.1.0/file/raer0.codium-dark-syntax-1.1.0.vsix";
-      sha256 = "sha256-519dKwLsLy10zjXo4AZm871AV87TNIyZ/54cRI9LsLs=";
+      url = "https://open-vsx.org/api/raer0/codium-dark-syntax/1.1.1/file/raer0.codium-dark-syntax-1.1.1.vsix";
+      sha256 = "sha256-LByL3ldO4bxgUJ3MgGMDpFMatPjdpwabKTin5l+rMOY=";
     };
     license = "BSD-3-Clause";
     name = "codium-dark-syntax";
