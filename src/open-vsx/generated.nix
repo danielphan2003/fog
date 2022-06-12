@@ -16803,10 +16803,10 @@
   };
   robole-snippets-ranger = {
     pname = "robole-snippets-ranger";
-    version = "0.20.2";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/snippets-ranger/0.20.2/file/robole.snippets-ranger-0.20.2.vsix";
-      sha256 = "sha256-X/U09z91xdtxbYGFZSCDtq5DUwj4oEdW4dXueIGsVJg=";
+      url = "https://open-vsx.org/api/robole/snippets-ranger/0.21.0/file/robole.snippets-ranger-0.21.0.vsix";
+      sha256 = "sha256-PqglNxVgKt/D8KtwHl77GcWAIpRGljGJE7pvenqDXeY=";
     };
     license = "MIT";
     name = "snippets-ranger";
