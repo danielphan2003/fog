@@ -8089,6 +8089,18 @@
     description = "Elixir support with debugger, autocomplete, and more. Powered by ElixirLS.";
     publisher = "elixir-lsp";
   };
+  elves-elvish = {
+    pname = "elves-elvish";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/elves/elvish/0.1.1/file/elves.elvish-0.1.1.vsix";
+      sha256 = "sha256-7MwKY3gpxV8/7Ixgna1GX1S+Lo8LEcveheeaKjMOFLA=";
+    };
+    license = "BSD-2-Clause";
+    name = "elvish";
+    description = "Elvish language support for Visual Studio Code";
+    publisher = "elves";
+  };
   emattiza-ide-purescript = {
     pname = "emattiza-ide-purescript";
     version = "0.25.5";
@@ -12135,10 +12147,10 @@
   };
   leodevbro-blockman = {
     pname = "leodevbro-blockman";
-    version = "1.5.8";
+    version = "1.5.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.8/file/leodevbro.blockman-1.5.8.vsix";
-      sha256 = "sha256-cc5GUq7h8MJBRoVnGmMJot1qyTWjNfeJHphdqYZx/zg=";
+      url = "https://open-vsx.org/api/leodevbro/blockman/1.5.9/file/leodevbro.blockman-1.5.9.vsix";
+      sha256 = "sha256-f4UmLD7wzpfzDYk4+RBFvjvijZYi157iICJ9bU7EGaY=";
     };
     license = "MIT";
     name = "blockman";
