@@ -15,11 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v3.0.2
 
-    - name: Setup git cred for github actor
-      run: |
-        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --global user.name github-actions
-
     - name: Cache nvfetcher
       uses: actions/cache@v3
       with:
