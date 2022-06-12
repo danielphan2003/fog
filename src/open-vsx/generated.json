@@ -3109,11 +3109,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xVqlU/oiRSgAzP+tqCRjW3cSvboCfWU5lraSDl1TdzU=",
+            "sha256": "sha256-GQIxwKEvaftjXJxF9Hap1ikxPbrYXPfTOrg+BsST3ho=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Lencerf/beancount/0.8.2/file/Lencerf.beancount-0.8.2.vsix"
+            "url": "https://open-vsx.org/api/Lencerf/beancount/0.9.0/file/Lencerf.beancount-0.9.0.vsix"
         },
-        "version": "0.8.2"
+        "version": "0.9.0"
     },
     "LeonardSSH-vscord": {
         "cargoLocks": null,
@@ -34915,11 +34915,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BJjQM70SRa0PNi30rfR1tp1cWL15gIi8623I/khnOjY=",
+            "sha256": "sha256-xWyClz2hB2cO+T7//IwLiEi8EvzLxB2AV2QIyFSK3Fk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.29/file/zhuangtongfa.material-theme-3.13.29.vsix"
+            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.14.3/file/zhuangtongfa.material-theme-3.14.3.vsix"
         },
-        "version": "3.13.29"
+        "version": "3.14.3"
     },
     "ziyasal-vscode-open-in-github": {
         "cargoLocks": null,

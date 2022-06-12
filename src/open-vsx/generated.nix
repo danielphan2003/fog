@@ -1959,10 +1959,10 @@
   };
   Lencerf-beancount = {
     pname = "Lencerf-beancount";
-    version = "0.8.2";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Lencerf/beancount/0.8.2/file/Lencerf.beancount-0.8.2.vsix";
-      sha256 = "sha256-xVqlU/oiRSgAzP+tqCRjW3cSvboCfWU5lraSDl1TdzU=";
+      url = "https://open-vsx.org/api/Lencerf/beancount/0.9.0/file/Lencerf.beancount-0.9.0.vsix";
+      sha256 = "sha256-GQIxwKEvaftjXJxF9Hap1ikxPbrYXPfTOrg+BsST3ho=";
     };
     license = "MIT";
     name = "beancount";
@@ -22047,10 +22047,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.13.29";
+    version = "3.14.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.13.29/file/zhuangtongfa.material-theme-3.13.29.vsix";
-      sha256 = "sha256-BJjQM70SRa0PNi30rfR1tp1cWL15gIi8623I/khnOjY=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.14.3/file/zhuangtongfa.material-theme-3.14.3.vsix";
+      sha256 = "sha256-xWyClz2hB2cO+T7//IwLiEi8EvzLxB2AV2QIyFSK3Fk=";
     };
     license = "MIT";
     name = "material-theme";
