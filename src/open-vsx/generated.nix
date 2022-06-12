@@ -9207,10 +9207,10 @@
   };
   gera2ld-markmap-vscode = {
     pname = "gera2ld-markmap-vscode";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.14/file/gera2ld.markmap-vscode-0.0.14.vsix";
-      sha256 = "sha256-uCbX1Fv4ngF5bm1vQurRzSxy0R94Fhv5pSkU7FzTgCU=";
+      url = "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.15/file/gera2ld.markmap-vscode-0.0.15.vsix";
+      sha256 = "sha256-o1ISQp4vbeanhzphAhUOKvpHMDh/16DNcUeemB+6914=";
     };
     license = "MIT";
     name = "markmap-vscode";
@@ -14616,6 +14616,18 @@
     name = "nocalhost";
     description = "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development";
     publisher = "nocalhost";
+  };
+  nokxs-iobroker-javascript = {
+    pname = "nokxs-iobroker-javascript";
+    version = "0.13.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/0.13.4/file/nokxs.iobroker-javascript-0.13.4.vsix";
+      sha256 = "sha256-VNPs0VB/QgRu1sKZnIXmMNCtOLXG1eqFBVK5ZlbQBII=";
+    };
+    license = "MIT";
+    name = "iobroker-javascript";
+    description = "Enables you to develop ioBroker scripts completely in Visual Studio Code, without the need of the web interface.";
+    publisher = "nokxs";
   };
   nonoroazoro-syncing = {
     pname = "nonoroazoro-syncing";
@@ -21289,6 +21301,18 @@
     description = "Status indicator and unlocker for GPG signing key";
     publisher = "wdhongtw";
   };
+  wdhongtw-otp-toolbox = {
+    pname = "wdhongtw-otp-toolbox";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wdhongtw/otp-toolbox/0.1.2/file/wdhongtw.otp-toolbox-0.1.2.vsix";
+      sha256 = "sha256-xGyAZP1T47cVKpROJPiIQzrIkbilCRQv8RPuXjjsCcY=";
+    };
+    license = "MIT";
+    name = "otp-toolbox";
+    description = "Generate TOTP tokens.";
+    publisher = "wdhongtw";
+  };
   webfreak-code-d = {
     pname = "webfreak-code-d";
     version = "0.23.2";
@@ -21540,6 +21564,18 @@
     name = "better-align";
     description = "Align code without selecting them first.";
     publisher = "wwm";
+  };
+  xaberus-remote-oss = {
+    pname = "xaberus-remote-oss";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/xaberus/remote-oss/0.0.1/file/xaberus.remote-oss-0.0.1.vsix";
+      sha256 = "sha256-9yZTymxQUcg+94auQDkLSYnUQ/elebRlTe9+VRlqJFo=";
+    };
+    license = "MIT";
+    name = "remote-oss";
+    description = "Remote (OSS)";
+    publisher = "xaberus";
   };
   xabikos-JavaScriptSnippets = {
     pname = "xabikos-JavaScriptSnippets";

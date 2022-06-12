@@ -14585,11 +14585,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uCbX1Fv4ngF5bm1vQurRzSxy0R94Fhv5pSkU7FzTgCU=",
+            "sha256": "sha256-o1ISQp4vbeanhzphAhUOKvpHMDh/16DNcUeemB+6914=",
             "type": "url",
-            "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.14/file/gera2ld.markmap-vscode-0.0.14.vsix"
+            "url": "https://open-vsx.org/api/gera2ld/markmap-vscode/0.0.15/file/gera2ld.markmap-vscode-0.0.15.vsix"
         },
-        "version": "0.0.14"
+        "version": "0.0.15"
     },
     "getpsalm-psalm-vscode-plugin": {
         "cargoLocks": null,
@@ -23140,6 +23140,25 @@
             "url": "https://open-vsx.org/api/nocalhost/nocalhost/0.6.18/file/nocalhost.nocalhost-0.6.18.vsix"
         },
         "version": "0.6.18"
+    },
+    "nokxs-iobroker-javascript": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "nokxs-iobroker-javascript",
+        "passthru": {
+            "description": "Enables you to develop ioBroker scripts completely in Visual Studio Code, without the need of the web interface.",
+            "license": "MIT",
+            "name": "iobroker-javascript",
+            "publisher": "nokxs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-VNPs0VB/QgRu1sKZnIXmMNCtOLXG1eqFBVK5ZlbQBII=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/0.13.4/file/nokxs.iobroker-javascript-0.13.4.vsix"
+        },
+        "version": "0.13.4"
     },
     "nonoroazoro-syncing": {
         "cargoLocks": null,
@@ -33705,6 +33724,25 @@
         },
         "version": "0.6.1"
     },
+    "wdhongtw-otp-toolbox": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wdhongtw-otp-toolbox",
+        "passthru": {
+            "description": "Generate TOTP tokens.",
+            "license": "MIT",
+            "name": "otp-toolbox",
+            "publisher": "wdhongtw"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-xGyAZP1T47cVKpROJPiIQzrIkbilCRQv8RPuXjjsCcY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wdhongtw/otp-toolbox/0.1.2/file/wdhongtw.otp-toolbox-0.1.2.vsix"
+        },
+        "version": "0.1.2"
+    },
     "webfreak-code-d": {
         "cargoLocks": null,
         "extract": null,
@@ -34103,6 +34141,25 @@
             "url": "https://open-vsx.org/api/wwm/better-align/1.1.7/file/wwm.better-align-1.1.7.vsix"
         },
         "version": "1.1.7"
+    },
+    "xaberus-remote-oss": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "xaberus-remote-oss",
+        "passthru": {
+            "description": "Remote (OSS)",
+            "license": "MIT",
+            "name": "remote-oss",
+            "publisher": "xaberus"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-9yZTymxQUcg+94auQDkLSYnUQ/elebRlTe9+VRlqJFo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/xaberus/remote-oss/0.0.1/file/xaberus.remote-oss-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "xabikos-JavaScriptSnippets": {
         "cargoLocks": null,
