@@ -459,10 +459,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.9";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.9/file/CloudStudio-Team.metawork-0.0.9.vsix";
-      sha256 = "sha256-GZEeMzKQJ1o1FTYfrjr18YqKHjb5OmXzI/yvUgYP23E=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.14/file/CloudStudio-Team.metawork-0.0.14.vsix";
+      sha256 = "sha256-iBKGyFHl+GC6DrW4p+VPXPN6LHiRwhgYmaDfy3vWmCo=";
     };
     license = "MIT";
     name = "metawork";
@@ -3399,10 +3399,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.55";
+    version = "3.5.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.55/file/TabNine.tabnine-vscode-3.5.55.vsix";
-      sha256 = "sha256-NpNXkHs15NWy3t1nP6E6MBslYchUg43G0zRLJjELgH4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.56/file/TabNine.tabnine-vscode-3.5.56.vsix";
+      sha256 = "sha256-AdOv3A1GQ9yGcKfUPtz9dta268c5CKnh735oX4OIS0I=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -6543,10 +6543,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.4";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.4/file/cloudstudio.common-0.0.4.vsix";
-      sha256 = "sha256-IhMx6idT6OlJwmood5dufRyT25PEhos89mFPRoeY80U=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.6/file/cloudstudio.common-0.0.6.vsix";
+      sha256 = "sha256-1FJqCdSM0IVh0T3cmFofcmFZS/nJk35TjjKbt0DlqbM=";
     };
     license = "MIT";
     name = "common";
@@ -6603,10 +6603,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.2/file/cloudstudio.workspaces-0.0.2.vsix";
-      sha256 = "sha256-Tb1WHZLE4UEQeS4U683D4aYOCaOKhla686ssPwwmBWo=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.3/file/cloudstudio.workspaces-0.0.3.vsix";
+      sha256 = "sha256-XahxeTyqdswS6FytHc9YAqyzly/HDfbWwfwwneN3HCc=";
     };
     license = "MIT";
     name = "workspaces";
@@ -21276,6 +21276,18 @@
     name = "flowistry";
     description = "Information Flow in the IDE for Rust";
     publisher = "wcrichton";
+  };
+  wdhongtw-gpg-indicator = {
+    pname = "wdhongtw-gpg-indicator";
+    version = "0.6.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wdhongtw/gpg-indicator/0.6.1/file/wdhongtw.gpg-indicator-0.6.1.vsix";
+      sha256 = "sha256-g4a/MDy/O8EvEqdOsHAL1uU8tWEaJuXFWXh8krowHnM=";
+    };
+    license = "MIT";
+    name = "gpg-indicator";
+    description = "Status indicator and unlocker for GPG signing key";
+    publisher = "wdhongtw";
   };
   webfreak-code-d = {
     pname = "webfreak-code-d";

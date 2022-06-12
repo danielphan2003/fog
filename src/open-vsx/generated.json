@@ -734,11 +734,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GZEeMzKQJ1o1FTYfrjr18YqKHjb5OmXzI/yvUgYP23E=",
+            "sha256": "sha256-iBKGyFHl+GC6DrW4p+VPXPN6LHiRwhgYmaDfy3vWmCo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.9/file/CloudStudio-Team.metawork-0.0.9.vsix"
+            "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.14/file/CloudStudio-Team.metawork-0.0.14.vsix"
         },
-        "version": "0.0.9"
+        "version": "0.0.14"
     },
     "CocaineJohnsson-nihil": {
         "cargoLocks": null,
@@ -5389,11 +5389,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NpNXkHs15NWy3t1nP6E6MBslYchUg43G0zRLJjELgH4=",
+            "sha256": "sha256-AdOv3A1GQ9yGcKfUPtz9dta268c5CKnh735oX4OIS0I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.55/file/TabNine.tabnine-vscode-3.5.55.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.56/file/TabNine.tabnine-vscode-3.5.56.vsix"
         },
-        "version": "3.5.55"
+        "version": "3.5.56"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -10367,11 +10367,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IhMx6idT6OlJwmood5dufRyT25PEhos89mFPRoeY80U=",
+            "sha256": "sha256-1FJqCdSM0IVh0T3cmFofcmFZS/nJk35TjjKbt0DlqbM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.4/file/cloudstudio.common-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.6/file/cloudstudio.common-0.0.6.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.6"
     },
     "cloudstudio-custom-template": {
         "cargoLocks": null,
@@ -10462,11 +10462,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Tb1WHZLE4UEQeS4U683D4aYOCaOKhla686ssPwwmBWo=",
+            "sha256": "sha256-XahxeTyqdswS6FytHc9YAqyzly/HDfbWwfwwneN3HCc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.2/file/cloudstudio.workspaces-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.3/file/cloudstudio.workspaces-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -33685,6 +33685,25 @@
             "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.26/file/wcrichton.flowistry-0.5.26.vsix"
         },
         "version": "0.5.26"
+    },
+    "wdhongtw-gpg-indicator": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wdhongtw-gpg-indicator",
+        "passthru": {
+            "description": "Status indicator and unlocker for GPG signing key",
+            "license": "MIT",
+            "name": "gpg-indicator",
+            "publisher": "wdhongtw"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-g4a/MDy/O8EvEqdOsHAL1uU8tWEaJuXFWXh8krowHnM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wdhongtw/gpg-indicator/0.6.1/file/wdhongtw.gpg-indicator-0.6.1.vsix"
+        },
+        "version": "0.6.1"
     },
     "webfreak-code-d": {
         "cargoLocks": null,
