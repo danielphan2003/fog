@@ -12109,6 +12109,18 @@
     description = "Lean 4 language support for VS Code";
     publisher = "leanprover";
   };
+  learn-pack-learnpack-vscode = {
+    pname = "learn-pack-learnpack-vscode";
+    version = "1.0.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.6/file/learn-pack.learnpack-vscode-1.0.6.vsix";
+      sha256 = "sha256-tf/w3Cnymc3ASOi41S6rhcRPglosw6gkNmAr65moN/w=";
+    };
+    license = "MIT";
+    name = "learnpack-vscode";
+    description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.";
+    publisher = "learn-pack";
+  };
   learnpack-learnpack-vscode = {
     pname = "learnpack-learnpack-vscode";
     version = "0.0.7";
