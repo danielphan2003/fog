@@ -723,11 +723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CcCAx5Sadsd+6XBDY/C/UDY7n1UwD4C+Fxup+4XfecM=",
+            "sha256": "sha256-tAuWhu1DdasOuLIz9/Ox1n1XcFWm5qnTVr6FpdKpwbE=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-899-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-900-1_all.deb"
         },
-        "version": "1.0-899"
+        "version": "1.0-900"
     },
     "jitsi-meet": {
         "cargoLocks": null,
