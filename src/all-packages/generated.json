@@ -438,11 +438,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "8d737a69f550158ed6a08aef46bdb975ac6e47cb",
-            "sha256": "sha256-J2/vbhIMabTL6Nfq2YV4f+Po59hO6L4VFQRL7om3jO4=",
+            "rev": "6916c047e112beaa9656f35782b1d8c0dbd09e66",
+            "sha256": "sha256-eA8zto6HukhUWGvzGajnichCDsstKXqoFEiP10thk9U=",
             "type": "github"
         },
-        "version": "8d737a69f550158ed6a08aef46bdb975ac6e47cb"
+        "version": "6916c047e112beaa9656f35782b1d8c0dbd09e66"
     },
     "doggo": {
         "cargoLocks": null,
@@ -576,11 +576,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "e9c349b3273d44482b4994fe77e000de4472a62b",
-            "sha256": "sha256-ZEjEL2FD17Vi/pCMgap2DvbveQCnzG6Xdp8i6+n2GgU=",
+            "rev": "6f6a8dded9c1454d4852f4f9cd8f2aab88c30111",
+            "sha256": "sha256-5qToziPc46BO0I3OLGKhC+8lWPnsg2SWVNa5WDQmOU8=",
             "type": "github"
         },
-        "version": "e9c349b3273d44482b4994fe77e000de4472a62b"
+        "version": "6f6a8dded9c1454d4852f4f9cd8f2aab88c30111"
     },
     "flyingfox": {
         "cargoLocks": null,
