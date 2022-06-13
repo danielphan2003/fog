@@ -9459,10 +9459,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.16.0";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.16.0/file/grain-lang.vscode-grain-0.16.0.vsix";
-      sha256 = "sha256-geA5RpVH6Qmg3JTA1TMUtg0lX2cyq3z8vWZw2WbNIU0=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.16.1/file/grain-lang.vscode-grain-0.16.1.vsix";
+      sha256 = "sha256-nxobYXy6wvNTyOGYNaaGRkrLLk3jV605W/38OaIRQPc=";
     };
     license = "MIT";
     name = "vscode-grain";
@@ -18087,10 +18087,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.2.3";
+    version = "2.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.3/file/streetsidesoftware.code-spell-checker-2.2.3.vsix";
-      sha256 = "sha256-9zMnfOVSlZD9AR3vrNLxg7Fn7SHBV7MeGQhMhozUksU=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.4/file/streetsidesoftware.code-spell-checker-2.2.4.vsix";
+      sha256 = "sha256-rbaiiANJ5RKEfoP4vQ1OGGImUTjpF5qjdwQWzQkCmq8=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";
