@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1042";
+    version = "31.0.1043";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1042/file/Prisma.prisma-insider-31.0.1042.vsix";
-      sha256 = "sha256-MCHtM8SszMXOlQKI1S1vlBuNN/xa9KQ+zvTBlCg5juE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1043/file/Prisma.prisma-insider-31.0.1043.vsix";
+      sha256 = "sha256-7gIKD16R66boio7yZHWd98Voi7jDv3Iui5tct2fWT7Q=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12975,10 +12975,10 @@
   };
   meraymond-idris-vscode = {
     pname = "meraymond-idris-vscode";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meraymond/idris-vscode/0.0.12/file/meraymond.idris-vscode-0.0.12.vsix";
-      sha256 = "sha256-kRGXcb/WrPbjOgzGrqojkuR3nl5OeC1x6IqaPpHvHsM=";
+      url = "https://open-vsx.org/api/meraymond/idris-vscode/0.0.13/file/meraymond.idris-vscode-0.0.13.vsix";
+      sha256 = "sha256-9Qoln/u/FeM68nFPOBywaJz8+LuNtpMEfUUqBUWo77M=";
     };
     license = "MIT";
     name = "idris-vscode";

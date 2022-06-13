@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MCHtM8SszMXOlQKI1S1vlBuNN/xa9KQ+zvTBlCg5juE=",
+            "sha256": "sha256-7gIKD16R66boio7yZHWd98Voi7jDv3Iui5tct2fWT7Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1042/file/Prisma.prisma-insider-31.0.1042.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1043/file/Prisma.prisma-insider-31.0.1043.vsix"
         },
-        "version": "31.0.1042"
+        "version": "31.0.1043"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -20551,11 +20551,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kRGXcb/WrPbjOgzGrqojkuR3nl5OeC1x6IqaPpHvHsM=",
+            "sha256": "sha256-9Qoln/u/FeM68nFPOBywaJz8+LuNtpMEfUUqBUWo77M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/meraymond/idris-vscode/0.0.12/file/meraymond.idris-vscode-0.0.12.vsix"
+            "url": "https://open-vsx.org/api/meraymond/idris-vscode/0.0.13/file/meraymond.idris-vscode-0.0.13.vsix"
         },
-        "version": "0.0.12"
+        "version": "0.0.13"
     },
     "mercedes-benz-sechub": {
         "cargoLocks": null,
