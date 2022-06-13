@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1040";
+    version = "31.0.1042";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1040/file/Prisma.prisma-insider-31.0.1040.vsix";
-      sha256 = "sha256-11FNBPVKUPN0gTzDM+ET+HL8GK+jZ+BOCphbxB8rHKg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1042/file/Prisma.prisma-insider-31.0.1042.vsix";
+      sha256 = "sha256-MCHtM8SszMXOlQKI1S1vlBuNN/xa9KQ+zvTBlCg5juE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3027,10 +3027,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.33.1";
+    version = "2.33.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.33.1/file/RokuCommunity.brightscript-2.33.1.vsix";
-      sha256 = "sha256-gyTWaaKOGzYovLpDvqCC+FsVuX3e9bTv5IAqngXFLRQ=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.33.2/file/RokuCommunity.brightscript-2.33.2.vsix";
+      sha256 = "sha256-n/QQS9oO8KvhIoP78vhCEAgKHYTBKkBZ4ZVCA0HJi+4=";
     };
     license = "MIT";
     name = "brightscript";
