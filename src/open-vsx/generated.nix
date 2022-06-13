@@ -18915,10 +18915,10 @@
   };
   time-master-time-master = {
     pname = "time-master-time-master";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/time-master/time-master/0.0.1/file/time-master.time-master-0.0.1.vsix";
-      sha256 = "sha256-CW4oNKelL0kT4vs3qVmE7XqW/pQkWzWuk06N1wwv2E0=";
+      url = "https://open-vsx.org/api/time-master/time-master/0.0.2/file/time-master.time-master-0.0.2.vsix";
+      sha256 = "sha256-Zyy5Zl2o/AaOzxAQx81RnchJzqNE/dpTuJkoyUjBApw=";
     };
     license = "";
     name = "time-master";

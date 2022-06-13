@@ -29956,11 +29956,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CW4oNKelL0kT4vs3qVmE7XqW/pQkWzWuk06N1wwv2E0=",
+            "sha256": "sha256-Zyy5Zl2o/AaOzxAQx81RnchJzqNE/dpTuJkoyUjBApw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/time-master/time-master/0.0.1/file/time-master.time-master-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/time-master/time-master/0.0.2/file/time-master.time-master-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "timonwong-shellcheck": {
         "cargoLocks": null,
