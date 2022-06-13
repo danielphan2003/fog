@@ -3219,10 +3219,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.1115";
+    version = "2022.6.1210";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1115/file/Slint.slint-nightly-2022.6.1115.vsix";
-      sha256 = "sha256-ojitvsB/HtRCqLHvYeEQk/HsSqtryomHlVh5TbQQJrs=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1210/file/Slint.slint-nightly-2022.6.1210.vsix";
+      sha256 = "sha256-iKLy+dOfdhtbLQqBRaXvC5kxONBKpMwrUElbSUWRTZ0=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -8007,10 +8007,10 @@
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
-    version = "4.0.0";
+    version = "4.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/efoerster/texlab/4.0.0/file/efoerster.texlab-4.0.0.vsix";
-      sha256 = "sha256-hFLtv3YmV7kjm8sYDxqzdyKizZd+mw9XnQUGpJ/uu8w=";
+      url = "https://open-vsx.org/api/efoerster/texlab/4.1.0/file/efoerster.texlab-4.1.0.vsix";
+      sha256 = "sha256-aQXLfMdx1usorNlRVkRETU4dUdw8/roLC1Rv6ZipSRM=";
     };
     license = "MIT";
     name = "texlab";
@@ -8847,14 +8847,14 @@
   };
   formulahendry-code-runner = {
     pname = "formulahendry-code-runner";
-    version = "0.11.7";
+    version = "0.11.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.7/file/formulahendry.code-runner-0.11.7.vsix";
-      sha256 = "sha256-S8tBf4UycpcOG8Dv96iDaLcxHe5R+shQB2QJU+ZM2L8=";
+      url = "https://open-vsx.org/api/formulahendry/code-runner/0.11.8/file/formulahendry.code-runner-0.11.8.vsix";
+      sha256 = "sha256-3teab5VqBhXuovm/HDpk0ob4tboc+TaIVk07vmsXVwc=";
     };
     license = "MIT";
     name = "code-runner";
-    description = "Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring";
+    description = "Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring, Standard ML";
     publisher = "formulahendry";
   };
   formulahendry-vscode-mysql = {
