@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Z0O8xG9OMZ/KSyIEEVYY0XdKm+MHk3QFOoUHDx3H0oY=",
+            "sha256": "sha256-PgK+tCaMnl9q7UoJocBHSpr/XSEdsimFuuABbBhDS7k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.0/file/AvengaGermanyGmbH.couper-1.4.0.vsix"
+            "url": "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.1/file/AvengaGermanyGmbH.couper-1.4.1.vsix"
         },
-        "version": "1.4.0"
+        "version": "1.4.1"
     },
     "Avoonix-furry-language": {
         "cargoLocks": null,
@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m+sWt7jivdIsjU4Y+baAwoXjJ9Be6gMniISVpztx22g=",
+            "sha256": "sha256-11FNBPVKUPN0gTzDM+ET+HL8GK+jZ+BOCphbxB8rHKg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1037/file/Prisma.prisma-insider-31.0.1037.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1040/file/Prisma.prisma-insider-31.0.1040.vsix"
         },
-        "version": "31.0.1037"
+        "version": "31.0.1040"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5104,11 +5104,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iKLy+dOfdhtbLQqBRaXvC5kxONBKpMwrUElbSUWRTZ0=",
+            "sha256": "sha256-zk5AED3GVFMBG7K6hdqrb6FlYvoiWXXBjWsJGmjBhUI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1210/file/Slint.slint-nightly-2022.6.1210.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1315/file/Slint.slint-nightly-2022.6.1315.vsix"
         },
-        "version": "2022.6.1210"
+        "version": "2022.6.1315"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,

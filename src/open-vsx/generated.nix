@@ -147,10 +147,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.4.0";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.0/file/AvengaGermanyGmbH.couper-1.4.0.vsix";
-      sha256 = "sha256-Z0O8xG9OMZ/KSyIEEVYY0XdKm+MHk3QFOoUHDx3H0oY=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.1/file/AvengaGermanyGmbH.couper-1.4.1.vsix";
+      sha256 = "sha256-PgK+tCaMnl9q7UoJocBHSpr/XSEdsimFuuABbBhDS7k=";
     };
     license = "MIT";
     name = "couper";
@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1037";
+    version = "31.0.1040";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1037/file/Prisma.prisma-insider-31.0.1037.vsix";
-      sha256 = "sha256-m+sWt7jivdIsjU4Y+baAwoXjJ9Be6gMniISVpztx22g=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1040/file/Prisma.prisma-insider-31.0.1040.vsix";
+      sha256 = "sha256-11FNBPVKUPN0gTzDM+ET+HL8GK+jZ+BOCphbxB8rHKg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3219,10 +3219,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.1210";
+    version = "2022.6.1315";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1210/file/Slint.slint-nightly-2022.6.1210.vsix";
-      sha256 = "sha256-iKLy+dOfdhtbLQqBRaXvC5kxONBKpMwrUElbSUWRTZ0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1315/file/Slint.slint-nightly-2022.6.1315.vsix";
+      sha256 = "sha256-zk5AED3GVFMBG7K6hdqrb6FlYvoiWXXBjWsJGmjBhUI=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
