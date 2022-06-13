@@ -3399,10 +3399,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.56";
+    version = "3.5.57";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.56/file/TabNine.tabnine-vscode-3.5.56.vsix";
-      sha256 = "sha256-AdOv3A1GQ9yGcKfUPtz9dta268c5CKnh735oX4OIS0I=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.57/file/TabNine.tabnine-vscode-3.5.57.vsix";
+      sha256 = "sha256-mNnSu4ilwQ3pDzfmHyUeyPAHV6F+pyhb+Bo5aBcsU6k=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -8055,10 +8055,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2486999";
+    version = "8.0.2487056";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2486999/file/eliostruyf.vscode-front-matter-beta-8.0.2486999.vsix";
-      sha256 = "sha256-alSpzxm6glAIDBekCNXsL4TX2RZv29h2FaBosoI5U/o=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2487056/file/eliostruyf.vscode-front-matter-beta-8.0.2487056.vsix";
+      sha256 = "sha256-1owhoMZSFhJCK0fdSW6eIiOmdBw4mtYZfTNTkO9N4tc=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -18912,6 +18912,18 @@
     name = "mechanic-liquid";
     description = "Provides syntax highlighting and code snippets for Mechanic-flavored Liquid";
     publisher = "timdmackey";
+  };
+  time-master-time-master = {
+    pname = "time-master-time-master";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/time-master/time-master/0.0.1/file/time-master.time-master-0.0.1.vsix";
+      sha256 = "sha256-CW4oNKelL0kT4vs3qVmE7XqW/pQkWzWuk06N1wwv2E0=";
+    };
+    license = "";
+    name = "time-master";
+    description = "time-master \26159\19968\20010\25928\29575\32479\35745\21069\31471\24037\20855";
+    publisher = "time-master";
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
