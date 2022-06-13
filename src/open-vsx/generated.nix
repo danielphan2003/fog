@@ -7551,10 +7551,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.98.4";
+    version = "0.98.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.98.4/file/dendron.nightly-0.98.4.vsix";
-      sha256 = "sha256-2wV1OIWZkhNMTXfioo8JHUvppatPxffT26EUd1vYKVY=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.98.5/file/dendron.nightly-0.98.5.vsix";
+      sha256 = "sha256-jiCMZUsaapFDLbIRY5y7NHUFyCBcIQwfFkVmxWCU4tk=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8043,10 +8043,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.3.3";
+    version = "7.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.3/file/eliostruyf.vscode-front-matter-7.3.3.vsix";
-      sha256 = "sha256-mbn4ZPgM4Gy41IAIXgmHjE2HxQAbVghK6CH7OVPwTbU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.4/file/eliostruyf.vscode-front-matter-7.3.4.vsix";
+      sha256 = "sha256-YaIRl+rkWlFgra3tN7OGdQ+l2qWTi+BxGaGvXTN3tHs=";
     };
     license = "MIT";
     name = "vscode-front-matter";
@@ -8055,10 +8055,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2480812";
+    version = "8.0.2486999";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2480812/file/eliostruyf.vscode-front-matter-beta-8.0.2480812.vsix";
-      sha256 = "sha256-6it4oe8LfAA4s4+tLlIKaaH/TkfgrK5ItMK7SQYXBzw=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2486999/file/eliostruyf.vscode-front-matter-beta-8.0.2486999.vsix";
+      sha256 = "sha256-alSpzxm6glAIDBekCNXsL4TX2RZv29h2FaBosoI5U/o=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
