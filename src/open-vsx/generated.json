@@ -620,11 +620,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-t1Fg/TJt61vG3vkdq6L1sGZGRuaKDowpFsrtyeknE24=",
+            "sha256": "sha256-XMS3H4fCzS89MPoOWuoBrr2wd0loQvZ1jEGh8xFwmJU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.7.1/file/CL.eide-3.7.1.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.7.2/file/CL.eide-3.7.2.vsix"
         },
-        "version": "3.7.1"
+        "version": "3.7.2"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -2501,11 +2501,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QG0nokZVf7THHHabxTnPbyc2NFAvvZ+kVtJBqi1DI1s=",
+            "sha256": "sha256-kXWqUxcRGH/Z7kU5e7ew5ukSV5qZ+FG6nxURuNWZrLk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/IBM/zopeneditor/2.0.3/file/IBM.zopeneditor-2.0.3.vsix"
+            "url": "https://open-vsx.org/api/IBM/zopeneditor/2.1.0/file/IBM.zopeneditor-2.1.0.vsix"
         },
-        "version": "2.0.3"
+        "version": "2.1.0"
     },
     "IBMBlockchain-ibm-blockchain-platform": {
         "cargoLocks": null,
@@ -16865,11 +16865,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aQNAQj8ww4GIMoj937xQ1njlEgeC2ElGg1gHBOeg5fU=",
+            "sha256": "sha256-yX/7LDbLCSw2M/g1oeQpdbGGD/+w90/1acbPZX5J8KM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.1/file/iterative.dvc-0.3.1.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.2/file/iterative.dvc-0.3.2.vsix"
         },
-        "version": "0.3.1"
+        "version": "0.3.2"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -24750,11 +24750,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/fOvg1ghQF3GOTUUUgyw3j+d1PvOntmdf2T6LPpSlRI=",
+            "sha256": "sha256-rlyE9Bo1ixkEeqAGphpCLzpVVFTThN+/Pwrz3dguxWw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.346/file/pokey.cursorless-0.26.346.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.347/file/pokey.cursorless-0.26.347.vsix"
         },
-        "version": "0.26.346"
+        "version": "0.26.347"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -31348,6 +31348,44 @@
             "url": "https://open-vsx.org/api/viper-admin/viper/2.4.2/file/viper-admin.viper-2.4.2.vsix"
         },
         "version": "2.4.2"
+    },
+    "virgilsisoe-hammerspoon": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "virgilsisoe-hammerspoon",
+        "passthru": {
+            "description": "Autocomplete, hover and function signature helper for the Hammerspoon framework.",
+            "license": "MIT",
+            "name": "hammerspoon",
+            "publisher": "virgilsisoe"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-63KX4YpXeb0h/viiVd1J2Wbs3f5bkj5lHzFgPxWLc6k=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/virgilsisoe/hammerspoon/0.3.5/file/virgilsisoe.hammerspoon-0.3.5.vsix"
+        },
+        "version": "0.3.5"
+    },
+    "virgilsisoe-python-easy-print": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "virgilsisoe-python-easy-print",
+        "passthru": {
+            "description": "Easy commands for some of Python most useful prints.",
+            "license": "MIT",
+            "name": "python-easy-print",
+            "publisher": "virgilsisoe"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-mFERCvY/oMiZwu8purHlO35cJT7LCIE4vqz4EBtZLg8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.3/file/virgilsisoe.python-easy-print-0.5.3.vsix"
+        },
+        "version": "0.5.3"
     },
     "virtual-whirlwind-vscode-povray2": {
         "cargoLocks": null,

@@ -387,10 +387,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.7.1";
+    version = "3.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.7.1/file/CL.eide-3.7.1.vsix";
-      sha256 = "sha256-t1Fg/TJt61vG3vkdq6L1sGZGRuaKDowpFsrtyeknE24=";
+      url = "https://open-vsx.org/api/CL/eide/3.7.2/file/CL.eide-3.7.2.vsix";
+      sha256 = "sha256-XMS3H4fCzS89MPoOWuoBrr2wd0loQvZ1jEGh8xFwmJU=";
     };
     license = "MIT";
     name = "eide";
@@ -1575,10 +1575,10 @@
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
-    version = "2.0.3";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBM/zopeneditor/2.0.3/file/IBM.zopeneditor-2.0.3.vsix";
-      sha256 = "sha256-QG0nokZVf7THHHabxTnPbyc2NFAvvZ+kVtJBqi1DI1s=";
+      url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.0/file/IBM.zopeneditor-2.1.0.vsix";
+      sha256 = "sha256-kXWqUxcRGH/Z7kU5e7ew5ukSV5qZ+FG6nxURuNWZrLk=";
     };
     license = "";
     name = "zopeneditor";
@@ -10647,10 +10647,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.1/file/iterative.dvc-0.3.1.vsix";
-      sha256 = "sha256-aQNAQj8ww4GIMoj937xQ1njlEgeC2ElGg1gHBOeg5fU=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.2/file/iterative.dvc-0.3.2.vsix";
+      sha256 = "sha256-yX/7LDbLCSw2M/g1oeQpdbGGD/+w90/1acbPZX5J8KM=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -15627,10 +15627,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.346";
+    version = "0.26.347";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.346/file/pokey.cursorless-0.26.346.vsix";
-      sha256 = "sha256-/fOvg1ghQF3GOTUUUgyw3j+d1PvOntmdf2T6LPpSlRI=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.347/file/pokey.cursorless-0.26.347.vsix";
+      sha256 = "sha256-rlyE9Bo1ixkEeqAGphpCLzpVVFTThN+/Pwrz3dguxWw=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19800,6 +19800,30 @@
     name = "viper";
     description = "This extension provides interactive IDE features for verifying programs in Viper (Verification Infrastructure for Permission-based Reasoning).";
     publisher = "viper-admin";
+  };
+  virgilsisoe-hammerspoon = {
+    pname = "virgilsisoe-hammerspoon";
+    version = "0.3.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/virgilsisoe/hammerspoon/0.3.5/file/virgilsisoe.hammerspoon-0.3.5.vsix";
+      sha256 = "sha256-63KX4YpXeb0h/viiVd1J2Wbs3f5bkj5lHzFgPxWLc6k=";
+    };
+    license = "MIT";
+    name = "hammerspoon";
+    description = "Autocomplete, hover and function signature helper for the Hammerspoon framework.";
+    publisher = "virgilsisoe";
+  };
+  virgilsisoe-python-easy-print = {
+    pname = "virgilsisoe-python-easy-print";
+    version = "0.5.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.3/file/virgilsisoe.python-easy-print-0.5.3.vsix";
+      sha256 = "sha256-mFERCvY/oMiZwu8purHlO35cJT7LCIE4vqz4EBtZLg8=";
+    };
+    license = "MIT";
+    name = "python-easy-print";
+    description = "Easy commands for some of Python most useful prints.";
+    publisher = "virgilsisoe";
   };
   virtual-whirlwind-vscode-povray2 = {
     pname = "virtual-whirlwind-vscode-povray2";
