@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1043";
+    version = "31.0.1045";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1043/file/Prisma.prisma-insider-31.0.1043.vsix";
-      sha256 = "sha256-7gIKD16R66boio7yZHWd98Voi7jDv3Iui5tct2fWT7Q=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1045/file/Prisma.prisma-insider-31.0.1045.vsix";
+      sha256 = "sha256-R5/VqMynxyTkTBSjeqH1ESovpVS9vghu55SdJzBM8mA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5895,10 +5895,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix";
-      sha256 = "sha256-1M2L+SoKAi9zd4K451584QmLxpbxGIJ+Rk6gZQJ+Ih8=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.4/file/bmcsoftware.jobs-as-code-0.2.4.vsix";
+      sha256 = "sha256-ye3l88EBIQKvtiWVMo3FPXKvEOboZX6FdqqlfwbI8bY=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
@@ -6507,14 +6507,14 @@
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix";
-      sha256 = "sha256-2ewUdI5xh3RCqafMfOXyZQiIYIR7xrpu+fRY1vCf3t8=";
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.2/file/cloudstudio.browser-preview-lite-0.0.2.vsix";
+      sha256 = "sha256-rCcwe4TEkal7PdrrhLBsvyor7ZzJcPu6kJNSeRhnmVA=";
     };
     license = "MIT";
     name = "browser-preview-lite";
-    description = "";
+    description = "Browser preview extension";
     publisher = "cloudstudio";
   };
   cloudstudio-coding = {
@@ -7551,10 +7551,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.98.5";
+    version = "0.98.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.98.5/file/dendron.nightly-0.98.5.vsix";
-      sha256 = "sha256-jiCMZUsaapFDLbIRY5y7NHUFyCBcIQwfFkVmxWCU4tk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.98.6/file/dendron.nightly-0.98.6.vsix";
+      sha256 = "sha256-mSIknbli57jZuUo3P2oLtpJ0ZSKrLVvv+IgOG95P7lI=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -16896,6 +16896,18 @@
     name = "rubdoo-theme";
     description = "rubdoo-theme";
     publisher = "rubdoo";
+  };
+  rubjo-ultimate-dark-neo = {
+    pname = "rubjo-ultimate-dark-neo";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/rubjo/ultimate-dark-neo/0.1.0/file/rubjo.ultimate-dark-neo-0.1.0.vsix";
+      sha256 = "sha256-4UZw7FJRHnCPgGfpNU+HiMjBsh7lRhSCfq3rGM7cJWM=";
+    };
+    license = "MIT";
+    name = "ultimate-dark-neo";
+    description = "Beautiful bluish dark theme with italics.";
+    publisher = "rubjo";
   };
   ruby0b-pride-themes = {
     pname = "ruby0b-pride-themes";

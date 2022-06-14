@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7gIKD16R66boio7yZHWd98Voi7jDv3Iui5tct2fWT7Q=",
+            "sha256": "sha256-R5/VqMynxyTkTBSjeqH1ESovpVS9vghu55SdJzBM8mA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1043/file/Prisma.prisma-insider-31.0.1043.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1045/file/Prisma.prisma-insider-31.0.1045.vsix"
         },
-        "version": "31.0.1043"
+        "version": "31.0.1045"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9341,11 +9341,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1M2L+SoKAi9zd4K451584QmLxpbxGIJ+Rk6gZQJ+Ih8=",
+            "sha256": "sha256-ye3l88EBIQKvtiWVMo3FPXKvEOboZX6FdqqlfwbI8bY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.3/file/bmcsoftware.jobs-as-code-0.2.3.vsix"
+            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.4/file/bmcsoftware.jobs-as-code-0.2.4.vsix"
         },
-        "version": "0.2.3"
+        "version": "0.2.4"
     },
     "bmd-stm32-for-vscode": {
         "cargoLocks": null,
@@ -10302,7 +10302,7 @@
         "extract": null,
         "name": "cloudstudio-browser-preview-lite",
         "passthru": {
-            "description": "",
+            "description": "Browser preview extension",
             "license": "MIT",
             "name": "browser-preview-lite",
             "publisher": "cloudstudio"
@@ -10310,11 +10310,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2ewUdI5xh3RCqafMfOXyZQiIYIR7xrpu+fRY1vCf3t8=",
+            "sha256": "sha256-rCcwe4TEkal7PdrrhLBsvyor7ZzJcPu6kJNSeRhnmVA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.1/file/cloudstudio.browser-preview-lite-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.2/file/cloudstudio.browser-preview-lite-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "cloudstudio-coding": {
         "cargoLocks": null,
@@ -11963,11 +11963,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jiCMZUsaapFDLbIRY5y7NHUFyCBcIQwfFkVmxWCU4tk=",
+            "sha256": "sha256-mSIknbli57jZuUo3P2oLtpJ0ZSKrLVvv+IgOG95P7lI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.98.5/file/dendron.nightly-0.98.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.98.6/file/dendron.nightly-0.98.6.vsix"
         },
-        "version": "0.98.5"
+        "version": "0.98.6"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -26750,6 +26750,25 @@
             "url": "https://open-vsx.org/api/rubdoo/rubdoo-theme/0.0.5/file/rubdoo.rubdoo-theme-0.0.5.vsix"
         },
         "version": "0.0.5"
+    },
+    "rubjo-ultimate-dark-neo": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "rubjo-ultimate-dark-neo",
+        "passthru": {
+            "description": "Beautiful bluish dark theme with italics.",
+            "license": "MIT",
+            "name": "ultimate-dark-neo",
+            "publisher": "rubjo"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-4UZw7FJRHnCPgGfpNU+HiMjBsh7lRhSCfq3rGM7cJWM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/rubjo/ultimate-dark-neo/0.1.0/file/rubjo.ultimate-dark-neo-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "ruby0b-pride-themes": {
         "cargoLocks": null,
