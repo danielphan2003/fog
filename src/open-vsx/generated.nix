@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1045";
+    version = "31.0.1047";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1045/file/Prisma.prisma-insider-31.0.1045.vsix";
-      sha256 = "sha256-R5/VqMynxyTkTBSjeqH1ESovpVS9vghu55SdJzBM8mA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1047/file/Prisma.prisma-insider-31.0.1047.vsix";
+      sha256 = "sha256-aC2KpyJdjWX8aRdI5Ra1+Rk/3q50GVBR5ir4TtogL/c=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3843,10 +3843,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.10.2";
+    version = "9.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.2/file/YXL.cloudmusic-9.10.2.vsix";
-      sha256 = "sha256-xyJ+0q93WD64RyDvt1XT7Q+QrmRHUY/jQll2Rrat+K4=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.3/file/YXL.cloudmusic-9.10.3.vsix";
+      sha256 = "sha256-WWO9WCbSeY9D+nmlddCs8I5G/QhtF1hXFS3XDOZBpm4=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -7467,10 +7467,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.98.0";
+    version = "0.99.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.98.0/file/dendron.dendron-0.98.0.vsix";
-      sha256 = "sha256-WkzxwxkqzdEQOuWksER2nBj5yNubsOFXW1OyAMh0ZYw=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.99.0/file/dendron.dendron-0.99.0.vsix";
+      sha256 = "sha256-UpizlcpNNx81+0MSCwO42srRPI2EhZDpa0ly3rdARzE=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -10647,10 +10647,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.0/file/iterative.dvc-0.3.0.vsix";
-      sha256 = "sha256-jRzNUUoqiyr6VaELGpZplBNqT9RX+z8VyiPiOah9h0E=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.1/file/iterative.dvc-0.3.1.vsix";
+      sha256 = "sha256-aQNAQj8ww4GIMoj937xQ1njlEgeC2ElGg1gHBOeg5fU=";
     };
     license = "Apache-2.0";
     name = "dvc";
