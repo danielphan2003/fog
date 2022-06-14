@@ -445,18 +445,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6245";
+    version = "1.0.6246";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6245.tar.bz2";
-      sha256 = "sha256-szqIV0msMbhq5q8qfD0ibV1D99iQnNi5sfqzhcGUvgw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6246.tar.bz2";
+      sha256 = "sha256-gUQP/x0NfOutIZ15U2dMVwLwqiqAcuGq0X5VlEsRwr4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6245";
+    version = "1.0.6246";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6245-1_all.deb";
-      sha256 = "sha256-vBGBEdsF87npN8MeS1GhgAPAkKFPSesuT0LxQwTl6Y8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6246-1_all.deb";
+      sha256 = "sha256-SItuPImY73E1XOuz8raVFXjrdHLxPbwvOcEgWWl1FtM=";
     };
   };
   jitsi-videobridge2 = {
@@ -1071,13 +1071,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "36e46281c050804f6eee71de189d3e189320cd8c";
+    version = "3188e7a92afed6e3ccd5678529bbe951af02e760";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "36e46281c050804f6eee71de189d3e189320cd8c";
+      rev = "3188e7a92afed6e3ccd5678529bbe951af02e760";
       fetchSubmodules = false;
-      sha256 = "sha256-eoaOG9HJy2evBENCUSclNqkC05BjrVPjT9sXSbZsJGo=";
+      sha256 = "sha256-UFpr+CKUxL5jcTV5mmMfHnrxSHd15SQmTNiAc3Ye8oc=";
     });
   };
   ultimmc = {
