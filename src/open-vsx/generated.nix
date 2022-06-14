@@ -12111,10 +12111,10 @@
   };
   learn-pack-learnpack-vscode = {
     pname = "learn-pack-learnpack-vscode";
-    version = "1.0.6";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.6/file/learn-pack.learnpack-vscode-1.0.6.vsix";
-      sha256 = "sha256-tf/w3Cnymc3ASOi41S6rhcRPglosw6gkNmAr65moN/w=";
+      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.9/file/learn-pack.learnpack-vscode-1.0.9.vsix";
+      sha256 = "sha256-ShClLRUAkoujmz+lO4ZsM+mU6tQEosn7Y7dQg9QVJUA=";
     };
     license = "MIT";
     name = "learnpack-vscode";
@@ -14547,10 +14547,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.13.0";
+    version = "6.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.13.0/file/nicoespeon.abracadabra-6.13.0.vsix";
-      sha256 = "sha256-/EM8oVXhFb7m/Ebw6sccqzKjR+eU33E8zBTUaah3sw8=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.1/file/nicoespeon.abracadabra-6.14.1.vsix";
+      sha256 = "sha256-a+xMKpsZRLIy7oRmrC3D+FolAUcS6keTT1+udrO6GmI=";
     };
     license = "MIT";
     name = "abracadabra";
