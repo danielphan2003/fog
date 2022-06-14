@@ -10011,10 +10011,10 @@
   };
   hugogranstrom-nimiboost = {
     pname = "hugogranstrom-nimiboost";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.0/file/hugogranstrom.nimiboost-0.4.0.vsix";
-      sha256 = "sha256-4G/YxUFghdlAY5sJBIlEht3kfGfERpFfLvN1X56EAVA=";
+      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.1/file/hugogranstrom.nimiboost-0.4.1.vsix";
+      sha256 = "sha256-l4FDd0Pd8LyHwaB+O4tlpoNi7GsYLZJuBZlli9sh8zo=";
     };
     license = "MIT";
     name = "nimiboost";
@@ -15627,10 +15627,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.347";
+    version = "0.26.349";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.347/file/pokey.cursorless-0.26.347.vsix";
-      sha256 = "sha256-rlyE9Bo1ixkEeqAGphpCLzpVVFTThN+/Pwrz3dguxWw=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.349/file/pokey.cursorless-0.26.349.vsix";
+      sha256 = "sha256-Jbr9Fp4vZGTytE1p14adu4bcQ84vqZVK7vpEpld8CHc=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19801,6 +19801,18 @@
     description = "This extension provides interactive IDE features for verifying programs in Viper (Verification Infrastructure for Permission-based Reasoning).";
     publisher = "viper-admin";
   };
+  virgilsisoe-execute-in-iterm2 = {
+    pname = "virgilsisoe-execute-in-iterm2";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/virgilsisoe/execute-in-iterm2/0.2.1/file/virgilsisoe.execute-in-iterm2-0.2.1.vsix";
+      sha256 = "sha256-+P9pSwXrZbqYrnOIgEO9xkwgCX5XvCw0LLaN9pjvgOE=";
+    };
+    license = "MIT";
+    name = "execute-in-iterm2";
+    description = "Execute the current active file inside iTerm2.";
+    publisher = "virgilsisoe";
+  };
   virgilsisoe-hammerspoon = {
     pname = "virgilsisoe-hammerspoon";
     version = "0.3.5";
@@ -19811,6 +19823,30 @@
     license = "MIT";
     name = "hammerspoon";
     description = "Autocomplete, hover and function signature helper for the Hammerspoon framework.";
+    publisher = "virgilsisoe";
+  };
+  virgilsisoe-nuke-tools = {
+    pname = "virgilsisoe-nuke-tools";
+    version = "0.6.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/virgilsisoe/nuke-tools/0.6.2/file/virgilsisoe.nuke-tools-0.6.2.vsix";
+      sha256 = "sha256-91yjpfOSUg1g3DYAIeWBpkPd0QVa9NVXOgNcAUCYYgg=";
+    };
+    license = "MIT";
+    name = "nuke-tools";
+    description = "A bunch of Nuke related tools that will facilitate writing code for it.";
+    publisher = "virgilsisoe";
+  };
+  virgilsisoe-python-auto-import = {
+    pname = "virgilsisoe-python-auto-import";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.0/file/virgilsisoe.python-auto-import-0.1.0.vsix";
+      sha256 = "sha256-eLlsarvFh+VzOPRetLunu7l5bGpsxIu9ESE5o5G5G+A=";
+    };
+    license = "MIT";
+    name = "python-auto-import";
+    description = "Suggest Auto-import for third-party modules based on modules already imported.";
     publisher = "virgilsisoe";
   };
   virgilsisoe-python-easy-print = {
