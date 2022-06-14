@@ -3399,10 +3399,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.57";
+    version = "3.5.58";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.57/file/TabNine.tabnine-vscode-3.5.57.vsix";
-      sha256 = "sha256-mNnSu4ilwQ3pDzfmHyUeyPAHV6F+pyhb+Bo5aBcsU6k=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.58/file/TabNine.tabnine-vscode-3.5.58.vsix";
+      sha256 = "sha256-jbzlNeAMzYRj20EltX9Cd7TEFdYi/x8vPFCaT5NRpLQ=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -18603,10 +18603,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.2/file/t-codespaces.ide-code-status-0.0.2.vsix";
-      sha256 = "sha256-1FbCFocIwvxmJJ5tzJj8cMdwLnhs6dBfS01ME90Qg3k=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.3/file/t-codespaces.ide-code-status-0.0.3.vsix";
+      sha256 = "sha256-WCJX+5a8gNzaAXgsU3VPzKzb5jmtoxZQSV+fDsxe1eY=";
     };
     license = "";
     name = "ide-code-status";
