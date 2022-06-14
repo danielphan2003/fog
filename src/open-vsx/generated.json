@@ -1532,11 +1532,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-byF1iY4+PNxx/BIKK/fWcV6ODYe/lmRIMKUXRmnbKDI=",
+            "sha256": "sha256-tIpboAzN295lXPvP1GBe14biRKJMTCe946LcmnRoahU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.4.0/file/Equinusocio.vsc-material-theme-33.4.0.vsix"
+            "url": "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.5.0/file/Equinusocio.vsc-material-theme-33.5.0.vsix"
         },
-        "version": "33.4.0"
+        "version": "33.5.0"
     },
     "Equinusocio-vsc-material-theme-icons": {
         "cargoLocks": null,
@@ -1912,11 +1912,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uMfCPk3ZwNCiHLVle7Slxw6n/FiIrlMR2T/jCggtK+s=",
+            "sha256": "sha256-yHl6ZTGIKOEsqmyeYtgDUhNAN9uRpoFApA7FKkPWW3E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.54/file/GrapeCity.gc-excelviewer-4.2.54.vsix"
+            "url": "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.55/file/GrapeCity.gc-excelviewer-4.2.55.vsix"
         },
-        "version": "4.2.54"
+        "version": "4.2.55"
     },
     "GraphQL-vscode-graphql": {
         "cargoLocks": null,
@@ -10443,11 +10443,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FmCPqQCbaR5UNnVOu2L3rE8GpMwdtgFA6n8FsQ0NU3s=",
+            "sha256": "sha256-s9preRo2GHLeIBgyHRb/ForDuzLzPIYJsLZNEmhI4OM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.1/file/cloudstudio.memory-cue-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.2/file/cloudstudio.memory-cue-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "cloudstudio-workspaces": {
         "cargoLocks": null,
@@ -10462,11 +10462,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XahxeTyqdswS6FytHc9YAqyzly/HDfbWwfwwneN3HCc=",
+            "sha256": "sha256-pbMvHJe1iJ/su6v1BAhfSBA5suqPBj/DuhIw0qn0sQQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.3/file/cloudstudio.workspaces-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.4/file/cloudstudio.workspaces-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -12628,11 +12628,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zkmd3c0qcaix8UpGgvjM3TaVC+lMcuh0y6u4e5q+xMk=",
+            "sha256": "sha256-lAhJxI8mVik7vmfUmJHE8Ce26jC1/SbFnr4TvH4JEj8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ecmel/vscode-html-css/1.12.2/file/ecmel.vscode-html-css-1.12.2.vsix"
+            "url": "https://open-vsx.org/api/ecmel/vscode-html-css/1.13.0/file/ecmel.vscode-html-css-1.13.0.vsix"
         },
-        "version": "1.12.2"
+        "version": "1.13.0"
     },
     "ecrax-emoji-toolbox": {
         "cargoLocks": null,
@@ -15288,11 +15288,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TUlmz2C53OPoIWMCljBDwTEbZb+uqj9bo9Eegf+Y6EI=",
+            "sha256": "sha256-M2cIxMgHLj3fsia+qUSHhoEW+WEWvvqEs40He3TVlb8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hall/draw/0.1.17/file/hall.draw-0.1.17.vsix"
+            "url": "https://open-vsx.org/api/hall/draw/0.1.18/file/hall.draw-0.1.18.vsix"
         },
-        "version": "0.1.17"
+        "version": "0.1.18"
     },
     "harehare-textusm": {
         "cargoLocks": null,
@@ -21767,11 +21767,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T57uCK1rGe3dBnYbK7QhN2NG3NwTEZm0/EY8S1Pyf7I=",
+            "sha256": "sha256-v/15e86uGtciX19LpUNkVSi72EnIMwMMxVeyZ5sQGb0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.5/file/ms-vscode.cmake-tools-1.10.5.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/cmake-tools/1.11.25/file/ms-vscode.cmake-tools-1.11.25.vsix"
         },
-        "version": "1.10.5"
+        "version": "1.11.25"
     },
     "ms-vscode-cpptools-themes": {
         "cargoLocks": null,
@@ -23040,11 +23040,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a+xMKpsZRLIy7oRmrC3D+FolAUcS6keTT1+udrO6GmI=",
+            "sha256": "sha256-NJdy43l2ujDQOflNapMaUAFr4nr2MznvnILzuodUrPk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.1/file/nicoespeon.abracadabra-6.14.1.vsix"
+            "url": "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.4/file/nicoespeon.abracadabra-6.14.4.vsix"
         },
-        "version": "6.14.1"
+        "version": "6.14.4"
     },
     "nimsaem-nimvscode": {
         "cargoLocks": null,

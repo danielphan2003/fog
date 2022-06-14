@@ -963,10 +963,10 @@
   };
   Equinusocio-vsc-material-theme = {
     pname = "Equinusocio-vsc-material-theme";
-    version = "33.4.0";
+    version = "33.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.4.0/file/Equinusocio.vsc-material-theme-33.4.0.vsix";
-      sha256 = "sha256-byF1iY4+PNxx/BIKK/fWcV6ODYe/lmRIMKUXRmnbKDI=";
+      url = "https://open-vsx.org/api/Equinusocio/vsc-material-theme/33.5.0/file/Equinusocio.vsc-material-theme-33.5.0.vsix";
+      sha256 = "sha256-tIpboAzN295lXPvP1GBe14biRKJMTCe946LcmnRoahU=";
     };
     license = "Apache-2.0";
     name = "vsc-material-theme";
@@ -1203,10 +1203,10 @@
   };
   GrapeCity-gc-excelviewer = {
     pname = "GrapeCity-gc-excelviewer";
-    version = "4.2.54";
+    version = "4.2.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.54/file/GrapeCity.gc-excelviewer-4.2.54.vsix";
-      sha256 = "sha256-uMfCPk3ZwNCiHLVle7Slxw6n/FiIrlMR2T/jCggtK+s=";
+      url = "https://open-vsx.org/api/GrapeCity/gc-excelviewer/4.2.55/file/GrapeCity.gc-excelviewer-4.2.55.vsix";
+      sha256 = "sha256-yHl6ZTGIKOEsqmyeYtgDUhNAN9uRpoFApA7FKkPWW3E=";
     };
     license = "MIT";
     name = "gc-excelviewer";
@@ -6591,10 +6591,10 @@
   };
   cloudstudio-memory-cue = {
     pname = "cloudstudio-memory-cue";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.1/file/cloudstudio.memory-cue-0.0.1.vsix";
-      sha256 = "sha256-FmCPqQCbaR5UNnVOu2L3rE8GpMwdtgFA6n8FsQ0NU3s=";
+      url = "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.2/file/cloudstudio.memory-cue-0.0.2.vsix";
+      sha256 = "sha256-s9preRo2GHLeIBgyHRb/ForDuzLzPIYJsLZNEmhI4OM=";
     };
     license = "MIT";
     name = "memory-cue";
@@ -6603,10 +6603,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.3/file/cloudstudio.workspaces-0.0.3.vsix";
-      sha256 = "sha256-XahxeTyqdswS6FytHc9YAqyzly/HDfbWwfwwneN3HCc=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.4/file/cloudstudio.workspaces-0.0.4.vsix";
+      sha256 = "sha256-pbMvHJe1iJ/su6v1BAhfSBA5suqPBj/DuhIw0qn0sQQ=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7971,10 +7971,10 @@
   };
   ecmel-vscode-html-css = {
     pname = "ecmel-vscode-html-css";
-    version = "1.12.2";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.12.2/file/ecmel.vscode-html-css-1.12.2.vsix";
-      sha256 = "sha256-zkmd3c0qcaix8UpGgvjM3TaVC+lMcuh0y6u4e5q+xMk=";
+      url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.13.0/file/ecmel.vscode-html-css-1.13.0.vsix";
+      sha256 = "sha256-lAhJxI8mVik7vmfUmJHE8Ce26jC1/SbFnr4TvH4JEj8=";
     };
     license = "MIT";
     name = "vscode-html-css";
@@ -9651,10 +9651,10 @@
   };
   hall-draw = {
     pname = "hall-draw";
-    version = "0.1.17";
+    version = "0.1.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hall/draw/0.1.17/file/hall.draw-0.1.17.vsix";
-      sha256 = "sha256-TUlmz2C53OPoIWMCljBDwTEbZb+uqj9bo9Eegf+Y6EI=";
+      url = "https://open-vsx.org/api/hall/draw/0.1.18/file/hall.draw-0.1.18.vsix";
+      sha256 = "sha256-M2cIxMgHLj3fsia+qUSHhoEW+WEWvvqEs40He3TVlb8=";
     };
     license = "Apache-2.0";
     name = "draw";
@@ -13743,10 +13743,10 @@
   };
   ms-vscode-cmake-tools = {
     pname = "ms-vscode-cmake-tools";
-    version = "1.10.5";
+    version = "1.11.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.10.5/file/ms-vscode.cmake-tools-1.10.5.vsix";
-      sha256 = "sha256-T57uCK1rGe3dBnYbK7QhN2NG3NwTEZm0/EY8S1Pyf7I=";
+      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.11.25/file/ms-vscode.cmake-tools-1.11.25.vsix";
+      sha256 = "sha256-v/15e86uGtciX19LpUNkVSi72EnIMwMMxVeyZ5sQGb0=";
     };
     license = "MIT";
     name = "cmake-tools";
@@ -14547,10 +14547,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.14.1";
+    version = "6.14.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.1/file/nicoespeon.abracadabra-6.14.1.vsix";
-      sha256 = "sha256-a+xMKpsZRLIy7oRmrC3D+FolAUcS6keTT1+udrO6GmI=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.4/file/nicoespeon.abracadabra-6.14.4.vsix";
+      sha256 = "sha256-NJdy43l2ujDQOflNapMaUAFr4nr2MznvnILzuodUrPk=";
     };
     license = "MIT";
     name = "abracadabra";
