@@ -180,13 +180,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "1c3848b066097e528bb6944c81ec4617162bcbea";
+    version = "07fbfec8e915c474d11c1e2b293be1e71a44193b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "1c3848b066097e528bb6944c81ec4617162bcbea";
+      rev = "07fbfec8e915c474d11c1e2b293be1e71a44193b";
       fetchSubmodules = false;
-      sha256 = "sha256-4Z4M9RjAfZT7v+0sxeViZTE0zXuYXHBr5fEv/SoPccE=";
+      sha256 = "sha256-GPY4heLuU9aeolFl/IhM26rJVMgxwExcdeFDelFdSog=";
     });
   };
   caddy = {
@@ -263,13 +263,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "6916c047e112beaa9656f35782b1d8c0dbd09e66";
+    version = "0a0b69d93d00b4f15ea20e96a0bfda2f6ca6fdea";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "6916c047e112beaa9656f35782b1d8c0dbd09e66";
+      rev = "0a0b69d93d00b4f15ea20e96a0bfda2f6ca6fdea";
       fetchSubmodules = false;
-      sha256 = "sha256-eA8zto6HukhUWGvzGajnichCDsstKXqoFEiP10thk9U=";
+      sha256 = "sha256-mNMpPaUHB4Vw869stChemcc82jlI/55bHTXAf0k7gsA=";
     });
   };
   doggo = {
@@ -445,18 +445,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6244";
+    version = "1.0.6245";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6244.tar.bz2";
-      sha256 = "sha256-t96tSmCcIoMn6NrJE1ypndn2BoaRYB0WV4bTNoMK0bg=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6245.tar.bz2";
+      sha256 = "sha256-szqIV0msMbhq5q8qfD0ibV1D99iQnNi5sfqzhcGUvgw=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6244";
+    version = "1.0.6245";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6244-1_all.deb";
-      sha256 = "sha256-nesurSAJcGNkXJBiU3+I2m7ZfLtgl1ES+09os8eUfns=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6245-1_all.deb";
+      sha256 = "sha256-vBGBEdsF87npN8MeS1GhgAPAkKFPSesuT0LxQwTl6Y8=";
     };
   };
   jitsi-videobridge2 = {
@@ -810,13 +810,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "844d27c3154e7028ef8f15b94421182c7874bf7f";
+    version = "a5d145e211fc5d6a00205ad8532e8f9d65f8c189";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "844d27c3154e7028ef8f15b94421182c7874bf7f";
+      rev = "a5d145e211fc5d6a00205ad8532e8f9d65f8c189";
       fetchSubmodules = false;
-      sha256 = "sha256-bIlZkP9wE84QSxCsIyrLCMJno1phUGi0Qa1HYminN4U=";
+      sha256 = "sha256-+WcqCkk4TLFXjcAq1iqUYF4eZ/a4EhFHuzUEtxCBsMs=";
     });
   };
   rofi-wayland = {
@@ -1071,13 +1071,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "77acc703bafb3c79f1bc051b670990bb7df8e2b9";
+    version = "36e46281c050804f6eee71de189d3e189320cd8c";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "77acc703bafb3c79f1bc051b670990bb7df8e2b9";
+      rev = "36e46281c050804f6eee71de189d3e189320cd8c";
       fetchSubmodules = false;
-      sha256 = "sha256-hO09t9E8L4Zzvdq94JoMJsJus9aPgHGncbVXujXjOZQ=";
+      sha256 = "sha256-eoaOG9HJy2evBENCUSclNqkC05BjrVPjT9sXSbZsJGo=";
     });
   };
   ultimmc = {
