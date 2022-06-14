@@ -12761,11 +12761,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1owhoMZSFhJCK0fdSW6eIiOmdBw4mtYZfTNTkO9N4tc=",
+            "sha256": "sha256-eO/1UWrp552raP+O0qjED1FXvO/cDMy1Y76ojxSZnZo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2487056/file/eliostruyf.vscode-front-matter-beta-8.0.2487056.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2495002/file/eliostruyf.vscode-front-matter-beta-8.0.2495002.vsix"
         },
-        "version": "8.0.2487056"
+        "version": "8.0.2495002"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -21558,11 +21558,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8Ef0qgoroQUz4yEBnPMwd0fPwejE7coEitlTVQTfMlY=",
+            "sha256": "sha256-+JQvacbawYmTdjP3GDIHsk/d9KW8824bEhnkK5Hl+zY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-python/python/2022.8.0/file/ms-python.python-2022.8.0.vsix"
+            "url": "https://open-vsx.org/api/ms-python/python/2022.6.3/file/ms-python.python-2022.6.3.vsix"
         },
-        "version": "2022.8.0"
+        "version": "2022.6.3"
     },
     "ms-toolsai-jupyter": {
         "cargoLocks": null,

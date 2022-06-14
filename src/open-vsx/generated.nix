@@ -8055,10 +8055,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2487056";
+    version = "8.0.2495002";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2487056/file/eliostruyf.vscode-front-matter-beta-8.0.2487056.vsix";
-      sha256 = "sha256-1owhoMZSFhJCK0fdSW6eIiOmdBw4mtYZfTNTkO9N4tc=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2495002/file/eliostruyf.vscode-front-matter-beta-8.0.2495002.vsix";
+      sha256 = "sha256-eO/1UWrp552raP+O0qjED1FXvO/cDMy1Y76ojxSZnZo=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13611,10 +13611,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.8.0";
+    version = "2022.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.8.0/file/ms-python.python-2022.8.0.vsix";
-      sha256 = "sha256-8Ef0qgoroQUz4yEBnPMwd0fPwejE7coEitlTVQTfMlY=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.6.3/file/ms-python.python-2022.6.3.vsix";
+      sha256 = "sha256-+JQvacbawYmTdjP3GDIHsk/d9KW8824bEhnkK5Hl+zY=";
     };
     license = "MIT";
     name = "python";
