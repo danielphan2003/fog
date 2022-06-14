@@ -459,10 +459,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.14/file/CloudStudio-Team.metawork-0.0.14.vsix";
-      sha256 = "sha256-iBKGyFHl+GC6DrW4p+VPXPN6LHiRwhgYmaDfy3vWmCo=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.15/file/CloudStudio-Team.metawork-0.0.15.vsix";
+      sha256 = "sha256-Nku6fuPjI28NQmxU/KFKbzVbzMt5M3IedpXbqXGdwm4=";
     };
     license = "MIT";
     name = "metawork";
@@ -10503,10 +10503,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.5.17";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.5.17/file/innoverio.vscode-dbt-power-user-0.5.17.vsix";
-      sha256 = "sha256-XzCxcW/7eGgpDqaMRNBI00Gg3OimI3auQ3VILPNa0Jw=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.0/file/innoverio.vscode-dbt-power-user-0.6.0.vsix";
+      sha256 = "sha256-PuZH9ITbp70Yvj0vCtVur3Kpg/U1akDB+4JGx2sjUC0=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
