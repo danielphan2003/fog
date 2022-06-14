@@ -107,13 +107,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "1a899966a911dc2b69a808095ac7836bef5e214b";
+    version = "c21b9faefc0d99ab4f91836ceddc68a2a52ff9cb";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "1a899966a911dc2b69a808095ac7836bef5e214b";
+      rev = "c21b9faefc0d99ab4f91836ceddc68a2a52ff9cb";
       fetchSubmodules = false;
-      sha256 = "sha256-lGRqHEL9I8VgvSiUjT1DngFCsmEzM8n5J7vIfRj6TZM=";
+      sha256 = "sha256-3bN/T4vCaIqkoz1AfZvczTXQup9B4Myq1cIRy/CyCgo=";
     });
   };
   asusctl = {
