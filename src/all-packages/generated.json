@@ -576,11 +576,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "6f6a8dded9c1454d4852f4f9cd8f2aab88c30111",
-            "sha256": "sha256-5qToziPc46BO0I3OLGKhC+8lWPnsg2SWVNa5WDQmOU8=",
+            "rev": "b036e5313204da28c68143030477955daf7d52c4",
+            "sha256": "sha256-YTMR+xP8VusGa4Kzt10SY1NwKFSAoAI9oLfWzREmDOs=",
             "type": "github"
         },
-        "version": "6f6a8dded9c1454d4852f4f9cd8f2aab88c30111"
+        "version": "b036e5313204da28c68143030477955daf7d52c4"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1361,11 +1361,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "56ca328d958bc41a1fb4cf44a325bd335a454d2b",
-            "sha256": "sha256-8xW1wjNPvn144aHemU8iFrA5g6oIbYElPyd8xcpDg6Y=",
+            "rev": "ff2d6f65d8afc813c373c24d6801e4569083cff9",
+            "sha256": "sha256-sU3Jpo4Iwt7EAkYtI3bddkyDEPdEsyvo070xEoDCkW0=",
             "type": "github"
         },
-        "version": "56ca328d958bc41a1fb4cf44a325bd335a454d2b"
+        "version": "ff2d6f65d8afc813c373c24d6801e4569083cff9"
     },
     "rofi-wayland": {
         "cargoLocks": null,
