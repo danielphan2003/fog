@@ -3073,6 +3073,18 @@
     description = "Wikitext is a document written in a wiki markup language. This extension provides functional support for the Wikitext language with MediaWiki such as Wikipedia.";
     publisher = "RoweWilsonFrederiskHolme";
   };
+  RustedTurnip-nightfi = {
+    pname = "RustedTurnip-nightfi";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/RustedTurnip/nightfi/0.0.3/file/RustedTurnip.nightfi-0.0.3.vsix";
+      sha256 = "sha256-D2UjcT70YVM7YueGLDh0X8GA5QdnbwtPJfnpOlU2xHY=";
+    };
+    license = "MIT";
+    name = "nightfi";
+    description = "";
+    publisher = "RustedTurnip";
+  };
   SDTTTTT-bangumiopen = {
     pname = "SDTTTTT-bangumiopen";
     version = "2.2.7";
@@ -5907,10 +5919,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.4/file/bmcsoftware.jobs-as-code-0.2.4.vsix";
-      sha256 = "sha256-ye3l88EBIQKvtiWVMo3FPXKvEOboZX6FdqqlfwbI8bY=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.5/file/bmcsoftware.jobs-as-code-0.2.5.vsix";
+      sha256 = "sha256-kjm1nPHEhj/QYAmHhduMnFySZMASxQcl+0jNqp1YhNg=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
@@ -10659,10 +10671,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.2";
+    version = "0.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.2/file/iterative.dvc-0.3.2.vsix";
-      sha256 = "sha256-yX/7LDbLCSw2M/g1oeQpdbGGD/+w90/1acbPZX5J8KM=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.3/file/iterative.dvc-0.3.3.vsix";
+      sha256 = "sha256-kWOI01zoWgNN2cEYReKWAc9pWzLavcGaNXShidX7g98=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -15639,10 +15651,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.351";
+    version = "0.26.352";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.351/file/pokey.cursorless-0.26.351.vsix";
-      sha256 = "sha256-E4qITG1UwwdvGNtNRErHczboWtDab9w/GT8IYtEe32U=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.352/file/pokey.cursorless-0.26.352.vsix";
+      sha256 = "sha256-dOUNKomdLcsSotqX2T39+AuGaX7aLYe9eXqHchWsv+U=";
     };
     license = "MIT";
     name = "cursorless";

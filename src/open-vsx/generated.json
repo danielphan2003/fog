@@ -4863,6 +4863,25 @@
         },
         "version": "3.6.4"
     },
+    "RustedTurnip-nightfi": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "RustedTurnip-nightfi",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "nightfi",
+            "publisher": "RustedTurnip"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-D2UjcT70YVM7YueGLDh0X8GA5QdnbwtPJfnpOlU2xHY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/RustedTurnip/nightfi/0.0.3/file/RustedTurnip.nightfi-0.0.3.vsix"
+        },
+        "version": "0.0.3"
+    },
     "SDTTTTT-bangumiopen": {
         "cargoLocks": null,
         "extract": null,
@@ -9360,11 +9379,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ye3l88EBIQKvtiWVMo3FPXKvEOboZX6FdqqlfwbI8bY=",
+            "sha256": "sha256-kjm1nPHEhj/QYAmHhduMnFySZMASxQcl+0jNqp1YhNg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.4/file/bmcsoftware.jobs-as-code-0.2.4.vsix"
+            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.5/file/bmcsoftware.jobs-as-code-0.2.5.vsix"
         },
-        "version": "0.2.4"
+        "version": "0.2.5"
     },
     "bmd-stm32-for-vscode": {
         "cargoLocks": null,
@@ -16884,11 +16903,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yX/7LDbLCSw2M/g1oeQpdbGGD/+w90/1acbPZX5J8KM=",
+            "sha256": "sha256-kWOI01zoWgNN2cEYReKWAc9pWzLavcGaNXShidX7g98=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.2/file/iterative.dvc-0.3.2.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.3/file/iterative.dvc-0.3.3.vsix"
         },
-        "version": "0.3.2"
+        "version": "0.3.3"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -24769,11 +24788,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-E4qITG1UwwdvGNtNRErHczboWtDab9w/GT8IYtEe32U=",
+            "sha256": "sha256-dOUNKomdLcsSotqX2T39+AuGaX7aLYe9eXqHchWsv+U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.351/file/pokey.cursorless-0.26.351.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.352/file/pokey.cursorless-0.26.352.vsix"
         },
-        "version": "0.26.351"
+        "version": "0.26.352"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
