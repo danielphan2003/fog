@@ -6519,10 +6519,10 @@
   };
   cloudstudio-coding = {
     pname = "cloudstudio-coding";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.3/file/cloudstudio.coding-0.0.3.vsix";
-      sha256 = "sha256-DVVItz/1fzaUASa4oqcqvfyuSkfVJHrjQ4sucFLzI9M=";
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.4/file/cloudstudio.coding-0.0.4.vsix";
+      sha256 = "sha256-YDH+KbicDACY6V1DYu5e52i7VvSJKXTuGwO3cIYZTkE=";
     };
     license = "MIT";
     name = "coding";
@@ -6543,10 +6543,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.7/file/cloudstudio.common-0.0.7.vsix";
-      sha256 = "sha256-3LMfjD10Y0AQyuBS1UUtfP1K5zvMXbjRqeruQ/JbD4g=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.8/file/cloudstudio.common-0.0.8.vsix";
+      sha256 = "sha256-JF/iOyD+gKPI1eaFsYq/jNcZw5sfcxJLi03Lxklluck=";
     };
     license = "MIT";
     name = "common";
@@ -8055,10 +8055,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2495002";
+    version = "8.0.2503116";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2495002/file/eliostruyf.vscode-front-matter-beta-8.0.2495002.vsix";
-      sha256 = "sha256-eO/1UWrp552raP+O0qjED1FXvO/cDMy1Y76ojxSZnZo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2503116/file/eliostruyf.vscode-front-matter-beta-8.0.2503116.vsix";
+      sha256 = "sha256-2x3GiI053FxVhHBilP8ZNdUJ7+yfbbDyc/tTPAgBs04=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -17617,6 +17617,18 @@
     description = "Slim language support based on https://github.com/slim-template/ruby-slim.tmbundle";
     publisher = "sianglim-slim";
   };
+  sigbots-pros = {
+    pname = "sigbots-pros";
+    version = "0.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/sigbots/pros/0.4.0/file/sigbots.pros-0.4.0.vsix";
+      sha256 = "sha256-iCdS56a2CHlsPFn3AIV42ZDYxqKWGmRiVLFb53/U8FU=";
+    };
+    license = "";
+    name = "pros";
+    description = "PROS Extension that allows for C/C++ Development for VEX V5 and VEX Cortex";
+    publisher = "sigbots";
+  };
   signageos-signageos-vscode-sops = {
     pname = "signageos-signageos-vscode-sops";
     version = "0.5.0";
@@ -18611,6 +18623,18 @@
     license = "";
     name = "ide-code-status";
     description = "\24037\20316\31354\38388\20869\20195\30721\29366\24577\30456\20851\30340\34892\20026\31649\29702\12289\27880\20876\12289\19978\25253\25554\20214\65288\38750 scm \31867\22411\65289\12290";
+    publisher = "t-codespaces";
+  };
+  t-codespaces-ide-data-sync = {
+    pname = "t-codespaces-ide-data-sync";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.4/file/t-codespaces.ide-data-sync-0.0.4.vsix";
+      sha256 = "sha256-U+9uLWLjnXX3cH1BwxD8uZJhAaIWNvE/oyKmWxkfEn0=";
+    };
+    license = "";
+    name = "ide-data-sync";
+    description = "sync ide settings and other data to cloud";
     publisher = "t-codespaces";
   };
   t-codespaces-install-extensions = {

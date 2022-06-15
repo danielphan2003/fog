@@ -10329,11 +10329,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DVVItz/1fzaUASa4oqcqvfyuSkfVJHrjQ4sucFLzI9M=",
+            "sha256": "sha256-YDH+KbicDACY6V1DYu5e52i7VvSJKXTuGwO3cIYZTkE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/coding/0.0.3/file/cloudstudio.coding-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/coding/0.0.4/file/cloudstudio.coding-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "cloudstudio-coding-repositories": {
         "cargoLocks": null,
@@ -10367,11 +10367,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3LMfjD10Y0AQyuBS1UUtfP1K5zvMXbjRqeruQ/JbD4g=",
+            "sha256": "sha256-JF/iOyD+gKPI1eaFsYq/jNcZw5sfcxJLi03Lxklluck=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.7/file/cloudstudio.common-0.0.7.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.8/file/cloudstudio.common-0.0.8.vsix"
         },
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "cloudstudio-custom-template": {
         "cargoLocks": null,
@@ -12761,11 +12761,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eO/1UWrp552raP+O0qjED1FXvO/cDMy1Y76ojxSZnZo=",
+            "sha256": "sha256-2x3GiI053FxVhHBilP8ZNdUJ7+yfbbDyc/tTPAgBs04=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2495002/file/eliostruyf.vscode-front-matter-beta-8.0.2495002.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2503116/file/eliostruyf.vscode-front-matter-beta-8.0.2503116.vsix"
         },
-        "version": "8.0.2495002"
+        "version": "8.0.2503116"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -27891,6 +27891,25 @@
         },
         "version": "0.1.1"
     },
+    "sigbots-pros": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "sigbots-pros",
+        "passthru": {
+            "description": "PROS Extension that allows for C/C++ Development for VEX V5 and VEX Cortex",
+            "license": "",
+            "name": "pros",
+            "publisher": "sigbots"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-iCdS56a2CHlsPFn3AIV42ZDYxqKWGmRiVLFb53/U8FU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/sigbots/pros/0.4.0/file/sigbots.pros-0.4.0.vsix"
+        },
+        "version": "0.4.0"
+    },
     "signageos-signageos-vscode-sops": {
         "cargoLocks": null,
         "extract": null,
@@ -29467,6 +29486,25 @@
             "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.3/file/t-codespaces.ide-code-status-0.0.3.vsix"
         },
         "version": "0.0.3"
+    },
+    "t-codespaces-ide-data-sync": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "t-codespaces-ide-data-sync",
+        "passthru": {
+            "description": "sync ide settings and other data to cloud",
+            "license": "",
+            "name": "ide-data-sync",
+            "publisher": "t-codespaces"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-U+9uLWLjnXX3cH1BwxD8uZJhAaIWNvE/oyKmWxkfEn0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.4/file/t-codespaces.ide-data-sync-0.0.4.vsix"
+        },
+        "version": "0.0.4"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,
