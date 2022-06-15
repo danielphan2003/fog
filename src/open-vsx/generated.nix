@@ -7875,10 +7875,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.0.7";
+    version = "12.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.0.7/file/eamodio.gitlens-12.0.7.vsix";
-      sha256 = "sha256-gPhiytthf35eDhtzkSK2JZjtj4877la3hB1Cswbrszw=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.1.0/file/eamodio.gitlens-12.1.0.vsix";
+      sha256 = "sha256-A25ObMt9gB9I/sH6SNhDSDhaRwzzWgjxk8VLe6QQ6y4=";
     };
     license = "MIT";
     name = "gitlens";
@@ -8271,10 +8271,10 @@
   };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
-    version = "0.0.34";
+    version = "0.0.35";
     src = fetchurl {
-      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.34/file/erlang-ls.erlang-ls-0.0.34.vsix";
-      sha256 = "sha256-D9ao/g86hZ4owmNVsaCwMJwvOPDl6VHd88ofoBSUCjY=";
+      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.35/file/erlang-ls.erlang-ls-0.0.35.vsix";
+      sha256 = "sha256-4F1WylgEs3M3qQToLF0AP2N3v1KqU/2Q0zpQrSu4Ybo=";
     };
     license = "Apache-2.0";
     name = "erlang-ls";
@@ -9603,10 +9603,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.6";
+    version = "1.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.6/file/halcyontechltd.code-for-ibmi-1.3.6.vsix";
-      sha256 = "sha256-Q0hmc6Ds7v7kdsDsBXDsF+OmQHo9VsgUYdPzX+OIchQ=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.7/file/halcyontechltd.code-for-ibmi-1.3.7.vsix";
+      sha256 = "sha256-pM2zsSvp2tcWVFtm9IXCmxbcsn3ouzbT30AYFkh3SGY=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -13743,10 +13743,10 @@
   };
   ms-vscode-cmake-tools = {
     pname = "ms-vscode-cmake-tools";
-    version = "1.11.25";
+    version = "1.11.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.11.25/file/ms-vscode.cmake-tools-1.11.25.vsix";
-      sha256 = "sha256-v/15e86uGtciX19LpUNkVSi72EnIMwMMxVeyZ5sQGb0=";
+      url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.11.26/file/ms-vscode.cmake-tools-1.11.26.vsix";
+      sha256 = "sha256-wnR+C8h78JoCAR99i+pOX3v9wQxBjC9UJr+tou1RzMk=";
     };
     license = "MIT";
     name = "cmake-tools";
@@ -18627,10 +18627,10 @@
   };
   t-codespaces-test-vscode-web-state = {
     pname = "t-codespaces-test-vscode-web-state";
-    version = "0.0.8";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.8/file/t-codespaces.test-vscode-web-state-0.0.8.vsix";
-      sha256 = "sha256-k2dRJ0cyNzKwe3kvWPWoGjZRz91JLHIQc4JHmLhiKF8=";
+      url = "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.10/file/t-codespaces.test-vscode-web-state-0.0.10.vsix";
+      sha256 = "sha256-QvswWA9sFitezTvRx93OOhBHiXub7/wNhdNQhZkAaR4=";
     };
     license = "";
     name = "test-vscode-web-state";
