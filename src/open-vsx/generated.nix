@@ -3843,10 +3843,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.10.3";
+    version = "9.10.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.3/file/YXL.cloudmusic-9.10.3.vsix";
-      sha256 = "sha256-WWO9WCbSeY9D+nmlddCs8I5G/QhtF1hXFS3XDOZBpm4=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.4/file/YXL.cloudmusic-9.10.4.vsix";
+      sha256 = "sha256-G3vdqKtXzmToibnBsuoLySPeLprHlLfPV29BkwZalVg=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -18015,10 +18015,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.8.2";
+    version = "1.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.2/file/statelyai.stately-vscode-1.8.2.vsix";
-      sha256 = "sha256-hN8teJ+kpyU+x01Cz/UmXK4CyqIeJLX14bLsuqlU6iM=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.3/file/statelyai.stately-vscode-1.8.3.vsix";
+      sha256 = "sha256-HyvPjdEf6vgwpv9YL+tq9nAUXhpCOT4rhS1S3C2QPOo=";
     };
     license = "MIT";
     name = "stately-vscode";
