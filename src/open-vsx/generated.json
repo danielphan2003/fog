@@ -29639,6 +29639,25 @@
         },
         "version": "1.0.3"
     },
+    "techer-open-in-browser": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "techer-open-in-browser",
+        "passthru": {
+            "description": "This allows you to open the current file in your default browser or application.",
+            "license": "MIT",
+            "name": "open-in-browser",
+            "publisher": "techer"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-tpY1MAerqlhcmhM6TQ3DnLtzWSJPo5vTExROH4Liq4I=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/techer/open-in-browser/2.0.0/file/techer.open-in-browser-2.0.0.vsix"
+        },
+        "version": "2.0.0"
+    },
     "technicolor-creamsicle-deepdark-material": {
         "cargoLocks": null,
         "extract": null,

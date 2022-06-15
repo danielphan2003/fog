@@ -18721,6 +18721,18 @@
     description = "A simple theme with bright colors and comes in three versions \8212 dark, light and mirage for all day long comfortable work.";
     publisher = "teabyii";
   };
+  techer-open-in-browser = {
+    pname = "techer-open-in-browser";
+    version = "2.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/techer/open-in-browser/2.0.0/file/techer.open-in-browser-2.0.0.vsix";
+      sha256 = "sha256-tpY1MAerqlhcmhM6TQ3DnLtzWSJPo5vTExROH4Liq4I=";
+    };
+    license = "MIT";
+    name = "open-in-browser";
+    description = "This allows you to open the current file in your default browser or application.";
+    publisher = "techer";
+  };
   technicolor-creamsicle-deepdark-material = {
     pname = "technicolor-creamsicle-deepdark-material";
     version = "3.3.0";
