@@ -3,11 +3,11 @@ name: Auto update flake.lock
 on:
   workflow_dispatch:
   schedule:
-    # Update every 1 hour
-    - cron: "0 * * * *"
+    # Update every 6 hour
+    - cron: "0 */6 * * *"
 
 jobs:
-  update_pkgs:
+  update_flake:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3.0.2
@@ -28,6 +28,11 @@ jobs:
 
     - name: Quick eval
       run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command evalnix
+
+    - name: Setup github action git cred
+      run: |
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name github-actions
 
     - name: Update flake.lock
       run: nix flake update --commit-lock-file
