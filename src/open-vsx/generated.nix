@@ -1167,10 +1167,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.6";
+    version = "1.6.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.6/file/GitHub.vscode-codeql-1.6.6.vsix";
-      sha256 = "sha256-gHZQv33IK6Sz5CTe9kdnLvmcAtanCZHn8qQo2GNrfmI=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.7/file/GitHub.vscode-codeql-1.6.7.vsix";
+      sha256 = "sha256-aO7hKsvJHV/oClSz1NSskNde1jGZgpNrvlpiAP/QKWU=";
     };
     license = "MIT";
     name = "vscode-codeql";
