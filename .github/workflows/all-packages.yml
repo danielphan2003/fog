@@ -3,7 +3,7 @@ name: Auto update all packages
 on:
   push:
     paths:
-      - cell/nixpkgs/pkgs/all-packages.toml
+      - cells/nixpkgs/pkgs/all-packages.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour

@@ -3,7 +3,7 @@ name: Auto update vsmarketplace extensions
 on:
   push:
     paths:
-      - cell/nixpkgs/pkgs/misc/vscode-extensions/vsmarketplace.toml
+      - cells/nixpkgs/pkgs/misc/vscode-extensions/vsmarketplace.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour

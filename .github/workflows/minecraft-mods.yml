@@ -3,7 +3,7 @@ name: Auto update minecraft mods
 on:
   push:
     paths:
-      - cell/nixpkgs/pkgs/misc/minecraft-mods.toml
+      - cells/nixpkgs/pkgs/misc/minecraft-mods.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour
