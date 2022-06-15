@@ -146,6 +146,10 @@ src.git = "https://github.com/YodaEmbedding/frece"
 fetch.github = "YodaEmbedding/frece"
 cargo_locks = [ "Cargo.lock" ]
 
+[fx_cast]
+src.git = "https://github.com/hensm/fx_cast"
+fetch.github = "hensm/fx_cast"
+
 [guiscrcpy]
 src.git = "https://github.com/srevinsaju/guiscrcpy"
 fetch.github = "srevinsaju/guiscrcpy"
