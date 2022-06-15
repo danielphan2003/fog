@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aC2KpyJdjWX8aRdI5Ra1+Rk/3q50GVBR5ir4TtogL/c=",
+            "sha256": "sha256-XkMyETKNnysMxNQU+gRbqj4+V6c+MsrJ+V34hMb/OYE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1047/file/Prisma.prisma-insider-31.0.1047.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1054/file/Prisma.prisma-insider-31.0.1054.vsix"
         },
-        "version": "31.0.1047"
+        "version": "31.0.1054"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -4539,6 +4539,25 @@
             "url": "https://open-vsx.org/api/Prisma/vscode-graphql/0.3.7/file/Prisma.vscode-graphql-0.3.7.vsix"
         },
         "version": "0.3.7"
+    },
+    "Procker-codeshare": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Procker-codeshare",
+        "passthru": {
+            "description": "Share your code with others",
+            "license": "MIT",
+            "name": "codeshare",
+            "publisher": "Procker"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-daBo3c7VXM5EdNsIo+NPROrED1qSr8HocBxoYYisePs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Procker/codeshare/1.0.8/file/Procker.codeshare-1.0.8.vsix"
+        },
+        "version": "1.0.8"
     },
     "Qeenon-hot-emo-theme": {
         "cargoLocks": null,
@@ -15858,11 +15877,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-l4FDd0Pd8LyHwaB+O4tlpoNi7GsYLZJuBZlli9sh8zo=",
+            "sha256": "sha256-b/ir2MeT6Zn8MDiVVBD5Lo36xjD9PulkKNZmTLAMUv8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.1/file/hugogranstrom.nimiboost-0.4.1.vsix"
+            "url": "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.2/file/hugogranstrom.nimiboost-0.4.2.vsix"
         },
-        "version": "0.4.1"
+        "version": "0.4.2"
     },
     "humao-rest-client": {
         "cargoLocks": null,
@@ -25491,11 +25510,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CwB+uh0WcYnktafGlyM68lteYPfTat8v/A1RSZh+K3Q=",
+            "sha256": "sha256-lweobY8WDT1BbRU9Leuzu0KPH+AyzB/nZEV7qGxtLk4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.4/file/rangav.vscode-thunder-client-1.16.4.vsix"
+            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.5/file/rangav.vscode-thunder-client-1.16.5.vsix"
         },
-        "version": "1.16.4"
+        "version": "1.16.5"
     },
     "razetime-bqn-language": {
         "cargoLocks": null,

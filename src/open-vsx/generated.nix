@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1047";
+    version = "31.0.1054";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1047/file/Prisma.prisma-insider-31.0.1047.vsix";
-      sha256 = "sha256-aC2KpyJdjWX8aRdI5Ra1+Rk/3q50GVBR5ir4TtogL/c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1054/file/Prisma.prisma-insider-31.0.1054.vsix";
+      sha256 = "sha256-XkMyETKNnysMxNQU+gRbqj4+V6c+MsrJ+V34hMb/OYE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -2868,6 +2868,18 @@
     name = "vscode-graphql";
     description = "GraphQL extension for VSCode adds syntax highlighting, validation, and language features like go to definition, hover information and autocompletion for graphql projects. This extension also works with queries annotated with gql tag.";
     publisher = "Prisma";
+  };
+  Procker-codeshare = {
+    pname = "Procker-codeshare";
+    version = "1.0.8";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Procker/codeshare/1.0.8/file/Procker.codeshare-1.0.8.vsix";
+      sha256 = "sha256-daBo3c7VXM5EdNsIo+NPROrED1qSr8HocBxoYYisePs=";
+    };
+    license = "MIT";
+    name = "codeshare";
+    description = "Share your code with others";
+    publisher = "Procker";
   };
   Qeenon-hot-emo-theme = {
     pname = "Qeenon-hot-emo-theme";
@@ -10011,10 +10023,10 @@
   };
   hugogranstrom-nimiboost = {
     pname = "hugogranstrom-nimiboost";
-    version = "0.4.1";
+    version = "0.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.1/file/hugogranstrom.nimiboost-0.4.1.vsix";
-      sha256 = "sha256-l4FDd0Pd8LyHwaB+O4tlpoNi7GsYLZJuBZlli9sh8zo=";
+      url = "https://open-vsx.org/api/hugogranstrom/nimiboost/0.4.2/file/hugogranstrom.nimiboost-0.4.2.vsix";
+      sha256 = "sha256-b/ir2MeT6Zn8MDiVVBD5Lo36xjD9PulkKNZmTLAMUv8=";
     };
     license = "MIT";
     name = "nimiboost";
@@ -16095,10 +16107,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.4";
+    version = "1.16.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.4/file/rangav.vscode-thunder-client-1.16.4.vsix";
-      sha256 = "sha256-CwB+uh0WcYnktafGlyM68lteYPfTat8v/A1RSZh+K3Q=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.5/file/rangav.vscode-thunder-client-1.16.5.vsix";
+      sha256 = "sha256-lweobY8WDT1BbRU9Leuzu0KPH+AyzB/nZEV7qGxtLk4=";
     };
     license = "";
     name = "vscode-thunder-client";
