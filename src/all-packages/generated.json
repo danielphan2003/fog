@@ -625,6 +625,25 @@
         },
         "version": "d4071c6c852e68dda82b7ab0bfb0f141b39d4484"
     },
+    "fx_cast": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "fx_cast",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "hensm",
+            "repo": "fx_cast",
+            "rev": "c6d32293de552c66f4af0576a746720e9ef12c31",
+            "sha256": "sha256-YzImmunlOeHJ5CaP8LE6lXR6v+hDJHvexWJYzi8Z1KU=",
+            "type": "github"
+        },
+        "version": "c6d32293de552c66f4af0576a746720e9ef12c31"
+    },
     "guiscrcpy": {
         "cargoLocks": null,
         "extract": null,

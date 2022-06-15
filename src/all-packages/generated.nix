@@ -383,6 +383,17 @@
       };
     };
   };
+  fx_cast = {
+    pname = "fx_cast";
+    version = "c6d32293de552c66f4af0576a746720e9ef12c31";
+    src = fetchFromGitHub ({
+      owner = "hensm";
+      repo = "fx_cast";
+      rev = "c6d32293de552c66f4af0576a746720e9ef12c31";
+      fetchSubmodules = false;
+      sha256 = "sha256-YzImmunlOeHJ5CaP8LE6lXR6v+hDJHvexWJYzi8Z1KU=";
+    });
+  };
   guiscrcpy = {
     pname = "guiscrcpy";
     version = "97c0bcdb1d8c9e56609036fc5b9a36136aa433c8";
