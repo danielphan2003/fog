@@ -180,13 +180,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "24cc908adc6a389c7a8af1027fd97f6932238711";
+    version = "d395683a01ae7521cc9797c92bc9d9b68ed9812d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "24cc908adc6a389c7a8af1027fd97f6932238711";
+      rev = "d395683a01ae7521cc9797c92bc9d9b68ed9812d";
       fetchSubmodules = false;
-      sha256 = "sha256-VUDfaAURH4JG1A6kR9CzAxeVWIK3TTmoBDT0bMtO2qQ=";
+      sha256 = "sha256-CPVxs85dUxo1THNs9NrkhhrdsrqhDYEvg3if4gFUIWs=";
     });
   };
   caddy = {
@@ -346,13 +346,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "b036e5313204da28c68143030477955daf7d52c4";
+    version = "55ba195fa35bce7296e63b7e4a3a1f792659e3b9";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "b036e5313204da28c68143030477955daf7d52c4";
+      rev = "55ba195fa35bce7296e63b7e4a3a1f792659e3b9";
       fetchSubmodules = false;
-      sha256 = "sha256-YTMR+xP8VusGa4Kzt10SY1NwKFSAoAI9oLfWzREmDOs=";
+      sha256 = "sha256-F2tjgW/3gHCpyvQVXmK/umioDrsWeXR7qYAJQ1VoYwA=";
     });
   };
   flyingfox = {
@@ -832,16 +832,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "2a5b5393808fe5edf5adcc0cfbf9f01677443e19";
+    version = "05e269a0bb0f6f67e63c33d1aadaf9cb875af7d1";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "2a5b5393808fe5edf5adcc0cfbf9f01677443e19";
+      rev = "05e269a0bb0f6f67e63c33d1aadaf9cb875af7d1";
       fetchSubmodules = false;
-      sha256 = "sha256-Zbm2oMHppLJucWBW+AsnuLtjMHwz/49S3m1J3KOOQ6Q=";
+      sha256 = "sha256-Xg4EPnhYc5aBGSUgS2/wfoYc83qaKm9r0qwmnWopQes=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-2a5b5393808fe5edf5adcc0cfbf9f01677443e19/Cargo.lock;
+      lockFile = ./rustdesk-05e269a0bb0f6f67e63c33d1aadaf9cb875af7d1/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
