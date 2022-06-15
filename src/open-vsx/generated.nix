@@ -6543,10 +6543,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.6/file/cloudstudio.common-0.0.6.vsix";
-      sha256 = "sha256-1FJqCdSM0IVh0T3cmFofcmFZS/nJk35TjjKbt0DlqbM=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.7/file/cloudstudio.common-0.0.7.vsix";
+      sha256 = "sha256-3LMfjD10Y0AQyuBS1UUtfP1K5zvMXbjRqeruQ/JbD4g=";
     };
     license = "MIT";
     name = "common";
@@ -6567,10 +6567,10 @@
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix";
-      sha256 = "sha256-RutrneL4G0JYR/E/KSVyH3nHsKPTF1mty3bMrJ+88pI=";
+      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.2/file/cloudstudio.deploykit-0.0.2.vsix";
+      sha256 = "sha256-+eWpTML3+wjHD48XNwgXxO7cLkuLkXjeeP1EZ4bD/5A=";
     };
     license = "MIT";
     name = "deploykit";
@@ -19680,6 +19680,18 @@
     name = "circleci-config-validator";
     description = "Validate your CircleCI config.yml";
     publisher = "valmack";
+  };
+  varunkumar-google-input-tools = {
+    pname = "varunkumar-google-input-tools";
+    version = "0.0.20";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.20/file/varunkumar.google-input-tools-0.0.20.vsix";
+      sha256 = "sha256-dk1PlKw7OdsoUTDG6XXCC8G1sBYzK1j8n8A8aiOJrUc=";
+    };
+    license = "";
+    name = "google-input-tools";
+    description = "Google Input Tools for Code";
+    publisher = "varunkumar";
   };
   vemonet-stardog-rdf-grammars = {
     pname = "vemonet-stardog-rdf-grammars";

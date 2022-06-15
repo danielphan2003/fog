@@ -10367,11 +10367,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1FJqCdSM0IVh0T3cmFofcmFZS/nJk35TjjKbt0DlqbM=",
+            "sha256": "sha256-3LMfjD10Y0AQyuBS1UUtfP1K5zvMXbjRqeruQ/JbD4g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.6/file/cloudstudio.common-0.0.6.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.7/file/cloudstudio.common-0.0.7.vsix"
         },
-        "version": "0.0.6"
+        "version": "0.0.7"
     },
     "cloudstudio-custom-template": {
         "cargoLocks": null,
@@ -10405,11 +10405,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RutrneL4G0JYR/E/KSVyH3nHsKPTF1mty3bMrJ+88pI=",
+            "sha256": "sha256-+eWpTML3+wjHD48XNwgXxO7cLkuLkXjeeP1EZ4bD/5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/deploykit/0.0.1/file/cloudstudio.deploykit-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/deploykit/0.0.2/file/cloudstudio.deploykit-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "cloudstudio-init-workspace": {
         "cargoLocks": null,
@@ -31158,6 +31158,25 @@
             "url": "https://open-vsx.org/api/valmack/circleci-config-validator/0.0.1/file/valmack.circleci-config-validator-0.0.1.vsix"
         },
         "version": "0.0.1"
+    },
+    "varunkumar-google-input-tools": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "varunkumar-google-input-tools",
+        "passthru": {
+            "description": "Google Input Tools for Code",
+            "license": "",
+            "name": "google-input-tools",
+            "publisher": "varunkumar"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dk1PlKw7OdsoUTDG6XXCC8G1sBYzK1j8n8A8aiOJrUc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.20/file/varunkumar.google-input-tools-0.0.20.vsix"
+        },
+        "version": "0.0.20"
     },
     "vemonet-stardog-rdf-grammars": {
         "cargoLocks": null,
