@@ -2751,10 +2751,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.33.0";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.33.0/file/Pivotal.vscode-bosh-1.33.0.vsix";
-      sha256 = "sha256-T4rrpswPet9qgaxEQobOrCr1aLA+JNoat23mLUrXJOk=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.35.0/file/Pivotal.vscode-bosh-1.35.0.vsix";
+      sha256 = "sha256-zBsh9ZjkdaX0crXbJ2zeqdFiPELaF7mkt0ZgddFFL7o=";
     };
     license = "EPL-1.0";
     name = "vscode-bosh";
@@ -2763,10 +2763,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.33.0";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.33.0/file/Pivotal.vscode-concourse-1.33.0.vsix";
-      sha256 = "sha256-X2Ws3JcsFijYZkxJipMWqyHmEqRRI2HfKLJWH3Vd+fE=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.35.0/file/Pivotal.vscode-concourse-1.35.0.vsix";
+      sha256 = "sha256-ZJNfdgqDzI7Q/AABXWMwuYirSV4HNgt5l/6X/uRcZ/Y=";
     };
     license = "EPL-1.0";
     name = "vscode-concourse";
@@ -2775,10 +2775,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.33.0";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.33.0/file/Pivotal.vscode-manifest-yaml-1.33.0.vsix";
-      sha256 = "sha256-xtpK+yuel47XYqcYp4SpGDqXznnF5EG8BvTcOLcVSD4=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.35.0/file/Pivotal.vscode-manifest-yaml-1.35.0.vsix";
+      sha256 = "sha256-6bR4gppc0iD4lILZ501425Cc3wb1VfaVG6UXyt/ywDc=";
     };
     license = "EPL-1.0";
     name = "vscode-manifest-yaml";
@@ -2787,10 +2787,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.33.0";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.33.0/file/Pivotal.vscode-spring-boot-1.33.0.vsix";
-      sha256 = "sha256-4o9EvLboeVeXoYmVyzCFKpgkuFZi4ND8BYkGe9wBW5U=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.35.0/file/Pivotal.vscode-spring-boot-1.35.0.vsix";
+      sha256 = "sha256-fKjCBT+iRJa9mxH0nn3SODJLgGJQ3OFp83q6aLNIDWI=";
     };
     license = "EPL-1.0";
     name = "vscode-spring-boot";
@@ -7551,10 +7551,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.98.6";
+    version = "0.99.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.98.6/file/dendron.nightly-0.98.6.vsix";
-      sha256 = "sha256-mSIknbli57jZuUo3P2oLtpJ0ZSKrLVvv+IgOG95P7lI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.99.1/file/dendron.nightly-0.99.1.vsix";
+      sha256 = "sha256-tYOM/oKOsUQBBQtEO/MzB/9lCkRYKAoGlhMLPwi91V8=";
     };
     license = "AGPL-3.0";
     name = "nightly";

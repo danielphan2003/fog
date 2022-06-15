@@ -4363,11 +4363,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T4rrpswPet9qgaxEQobOrCr1aLA+JNoat23mLUrXJOk=",
+            "sha256": "sha256-zBsh9ZjkdaX0crXbJ2zeqdFiPELaF7mkt0ZgddFFL7o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.33.0/file/Pivotal.vscode-bosh-1.33.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.35.0/file/Pivotal.vscode-bosh-1.35.0.vsix"
         },
-        "version": "1.33.0"
+        "version": "1.35.0"
     },
     "Pivotal-vscode-concourse": {
         "cargoLocks": null,
@@ -4382,11 +4382,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-X2Ws3JcsFijYZkxJipMWqyHmEqRRI2HfKLJWH3Vd+fE=",
+            "sha256": "sha256-ZJNfdgqDzI7Q/AABXWMwuYirSV4HNgt5l/6X/uRcZ/Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.33.0/file/Pivotal.vscode-concourse-1.33.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.35.0/file/Pivotal.vscode-concourse-1.35.0.vsix"
         },
-        "version": "1.33.0"
+        "version": "1.35.0"
     },
     "Pivotal-vscode-manifest-yaml": {
         "cargoLocks": null,
@@ -4401,11 +4401,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xtpK+yuel47XYqcYp4SpGDqXznnF5EG8BvTcOLcVSD4=",
+            "sha256": "sha256-6bR4gppc0iD4lILZ501425Cc3wb1VfaVG6UXyt/ywDc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.33.0/file/Pivotal.vscode-manifest-yaml-1.33.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.35.0/file/Pivotal.vscode-manifest-yaml-1.35.0.vsix"
         },
-        "version": "1.33.0"
+        "version": "1.35.0"
     },
     "Pivotal-vscode-spring-boot": {
         "cargoLocks": null,
@@ -4420,11 +4420,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4o9EvLboeVeXoYmVyzCFKpgkuFZi4ND8BYkGe9wBW5U=",
+            "sha256": "sha256-fKjCBT+iRJa9mxH0nn3SODJLgGJQ3OFp83q6aLNIDWI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.33.0/file/Pivotal.vscode-spring-boot-1.33.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.35.0/file/Pivotal.vscode-spring-boot-1.35.0.vsix"
         },
-        "version": "1.33.0"
+        "version": "1.35.0"
     },
     "PolyMeilex-wgsl": {
         "cargoLocks": null,
@@ -11963,11 +11963,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mSIknbli57jZuUo3P2oLtpJ0ZSKrLVvv+IgOG95P7lI=",
+            "sha256": "sha256-tYOM/oKOsUQBBQtEO/MzB/9lCkRYKAoGlhMLPwi91V8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.98.6/file/dendron.nightly-0.98.6.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.99.1/file/dendron.nightly-0.99.1.vsix"
         },
-        "version": "0.98.6"
+        "version": "0.99.1"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
