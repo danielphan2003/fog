@@ -305,11 +305,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "30049f02b24ef72a34e99a8b98f8c7f1f2f719bd",
-            "sha256": "sha256-cTipk4XHgrjW0wHobG2kIX+IiN2QKPT4bLBV9s0sPnQ=",
+            "rev": "73f8f22ca93738fd3431635d5172a6cf6fca4d86",
+            "sha256": "sha256-FAtRVaGm7/M2Dn2dF2OWCqh1rQB007Ag4r8dT6hD5wI=",
             "type": "github"
         },
-        "version": "30049f02b24ef72a34e99a8b98f8c7f1f2f719bd"
+        "version": "73f8f22ca93738fd3431635d5172a6cf6fca4d86"
     },
     "caddy": {
         "cargoLocks": null,
@@ -657,11 +657,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "fa6530c7e8f5f79041a28456ca91d4641c7ad354",
-            "sha256": "sha256-yjVNcLIqUkyhHbOS9lSWFurQx/qKD9YMPpQJpX5nqq4=",
+            "rev": "36ea12b315c86e3a1448fe3e695bc5e8bca385a7",
+            "sha256": "sha256-u7WGmNBExPaND/GZUp5YUustKurDEfxQnra+AeAXAJo=",
             "type": "github"
         },
-        "version": "fa6530c7e8f5f79041a28456ca91d4641c7ad354"
+        "version": "36ea12b315c86e3a1448fe3e695bc5e8bca385a7"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2101,12 +2101,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "83d0d911069d502232d719882cd1c5cd090defa1",
-            "sha256": "sha256-55IfjPtWICPe2rtt4uChK/s3p+ylGSmwPKg24KtlhYo=",
+            "rev": "f40610e0b4f2b4ae54ef6bbff756cb4a60e17e3b",
+            "sha256": "sha256-2D8LWS2AJ3MsC6WzphsiRjo2HogCmnioHD+Rv3j41zQ=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
-        "version": "83d0d911069d502232d719882cd1c5cd090defa1"
+        "version": "f40610e0b4f2b4ae54ef6bbff756cb4a60e17e3b"
     },
     "ydotool": {
         "cargoLocks": null,
