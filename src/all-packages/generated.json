@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "3522e9f6cbae18925db7a037cbd89660140cc9ea",
-            "sha256": "sha256-yUC3gufnpTvahbhpzZ64xmGNrt4PRqsGb7QMuKgYcNA=",
+            "rev": "6950318469470c4e05bcd87d5204c4b2a341349c",
+            "sha256": "sha256-jcuiugVCiH76M7HKBWSElOavhiObn9+cCvhGc4uRRwU=",
             "type": "github"
         },
-        "version": "3522e9f6cbae18925db7a037cbd89660140cc9ea"
+        "version": "6950318469470c4e05bcd87d5204c4b2a341349c"
     },
     "caddy": {
         "cargoLocks": null,
@@ -789,11 +789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j/eu8VDbTIHybaM7lIHAC+IexGp/fsg+oLPUNFgbjUU=",
+            "sha256": "sha256-42STuVN9By6wOuDyeiny55GWUWouDXgW+MVtTiGAJQ0=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6257.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6258.tar.bz2"
         },
-        "version": "1.0.6257"
+        "version": "1.0.6258"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -803,11 +803,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-szoKyoNXWqP0ALq1b75xIjKX28WSsU1PBDAcaysLZSM=",
+            "sha256": "sha256-d6DvVSAMKq/IkkCweNWod6x8+3b4RtCEwh85UKTtCrg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6257-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6258-1_all.deb"
         },
-        "version": "1.0.6257"
+        "version": "1.0.6258"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
