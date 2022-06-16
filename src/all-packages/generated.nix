@@ -188,13 +188,13 @@
   };
   bling = {
     pname = "bling";
-    version = "c4051032628ff6d5186c684e6248c47e1c4defe1";
+    version = "e384951c321420dcaada7ad4381a644f2c7eea83";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "c4051032628ff6d5186c684e6248c47e1c4defe1";
+      rev = "e384951c321420dcaada7ad4381a644f2c7eea83";
       fetchSubmodules = false;
-      sha256 = "sha256-XBGjJUoZrq8N3ATVl6WLpscUX44uo49TH3+HzoTNF38=";
+      sha256 = "sha256-P725jMxPK7TOhLvvwQyyJBSOU48EDQeXIfcuweq6TUw=";
     });
   };
   bottles = {
