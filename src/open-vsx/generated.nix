@@ -5919,10 +5919,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.6";
+    version = "0.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.6/file/bmcsoftware.jobs-as-code-0.2.6.vsix";
-      sha256 = "sha256-XqC0KCWeCPjhitOkLy5M+o8LHGT88JUMNd+7jNgjhN0=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.7/file/bmcsoftware.jobs-as-code-0.2.7.vsix";
+      sha256 = "sha256-q5JNueau+g/BYWt1zQBbIRvmmSMXeA08OrJQU0Vq98I=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
@@ -7575,10 +7575,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.99.1";
+    version = "0.99.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.99.1/file/dendron.nightly-0.99.1.vsix";
-      sha256 = "sha256-tYOM/oKOsUQBBQtEO/MzB/9lCkRYKAoGlhMLPwi91V8=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.99.2/file/dendron.nightly-0.99.2.vsix";
+      sha256 = "sha256-mCRv+8e37fKpTdfb+zDIln64t8hm1d8GCYtWfD5TKb8=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -14076,6 +14076,18 @@
     name = "vscode-react-native";
     description = "Debugging and integrated commands for React Native";
     publisher = "msjsdiag";
+  };
+  msnilshartmann-blue-light = {
+    pname = "msnilshartmann-blue-light";
+    version = "0.6.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/msnilshartmann/blue-light/0.6.3/file/msnilshartmann.blue-light-0.6.3.vsix";
+      sha256 = "sha256-yYmLW7V6NzyymFCsJo901GX3VqioifrOV4e4WZKbqlQ=";
+    };
+    license = "MIT";
+    name = "blue-light";
+    description = "Light theme with blue colors";
+    publisher = "msnilshartmann";
   };
   mtayllan-moonokai = {
     pname = "mtayllan-moonokai";

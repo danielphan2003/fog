@@ -9379,11 +9379,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XqC0KCWeCPjhitOkLy5M+o8LHGT88JUMNd+7jNgjhN0=",
+            "sha256": "sha256-q5JNueau+g/BYWt1zQBbIRvmmSMXeA08OrJQU0Vq98I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.6/file/bmcsoftware.jobs-as-code-0.2.6.vsix"
+            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.7/file/bmcsoftware.jobs-as-code-0.2.7.vsix"
         },
-        "version": "0.2.6"
+        "version": "0.2.7"
     },
     "bmd-stm32-for-vscode": {
         "cargoLocks": null,
@@ -12001,11 +12001,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tYOM/oKOsUQBBQtEO/MzB/9lCkRYKAoGlhMLPwi91V8=",
+            "sha256": "sha256-mCRv+8e37fKpTdfb+zDIln64t8hm1d8GCYtWfD5TKb8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.99.1/file/dendron.nightly-0.99.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.99.2/file/dendron.nightly-0.99.2.vsix"
         },
-        "version": "0.99.1"
+        "version": "0.99.2"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -22285,6 +22285,25 @@
             "url": "https://open-vsx.org/api/msjsdiag/vscode-react-native/1.9.2/file/msjsdiag.vscode-react-native-1.9.2.vsix"
         },
         "version": "1.9.2"
+    },
+    "msnilshartmann-blue-light": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "msnilshartmann-blue-light",
+        "passthru": {
+            "description": "Light theme with blue colors",
+            "license": "MIT",
+            "name": "blue-light",
+            "publisher": "msnilshartmann"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-yYmLW7V6NzyymFCsJo901GX3VqioifrOV4e4WZKbqlQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/msnilshartmann/blue-light/0.6.3/file/msnilshartmann.blue-light-0.6.3.vsix"
+        },
+        "version": "0.6.3"
     },
     "mtayllan-moonokai": {
         "cargoLocks": null,
