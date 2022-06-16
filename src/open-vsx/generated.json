@@ -24807,11 +24807,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3rETxmC7M1T0yOx69lMovEQCoPuvzidEhBcfgfVIwjM=",
+            "sha256": "sha256-59ehdi1x/ouuwyr/+mXyDBA84fh8fXwuLp7SVEkqSiI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.354/file/pokey.cursorless-0.26.354.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.355/file/pokey.cursorless-0.26.355.vsix"
         },
-        "version": "0.26.354"
+        "version": "0.26.355"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -29652,11 +29652,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-s9aRdMm/1P7kZElgP6RPAKrpMYwRksJWkNzWVD8dC1Q=",
+            "sha256": "sha256-JivLiTn4JnhRaTX/MHOETaKvds6/r8GGHYN5O2BpSBs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.14.2/file/tamasfe.even-better-toml-0.14.2.vsix"
+            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.1/file/tamasfe.even-better-toml-0.15.1.vsix"
         },
-        "version": "0.14.2"
+        "version": "0.15.1"
     },
     "tanhakabir-rest-book": {
         "cargoLocks": null,
@@ -33908,11 +33908,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jt+6nsxr0LaxMY4zRlBWwQro/tfhh3aZTniOOQj8Ggg=",
+            "sha256": "sha256-1tJ+Mb0qAve0GGG075A5WTpwICg74bRcksP/0SsNQtE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/waderyan/gitblame/8.2.2/file/waderyan.gitblame-8.2.2.vsix"
+            "url": "https://open-vsx.org/api/waderyan/gitblame/8.2.3/file/waderyan.gitblame-8.2.3.vsix"
         },
-        "version": "8.2.2"
+        "version": "8.2.3"
     },
     "warpnet-salt-lint": {
         "cargoLocks": null,

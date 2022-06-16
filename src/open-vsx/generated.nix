@@ -15663,10 +15663,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.354";
+    version = "0.26.355";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.354/file/pokey.cursorless-0.26.354.vsix";
-      sha256 = "sha256-3rETxmC7M1T0yOx69lMovEQCoPuvzidEhBcfgfVIwjM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.355/file/pokey.cursorless-0.26.355.vsix";
+      sha256 = "sha256-59ehdi1x/ouuwyr/+mXyDBA84fh8fXwuLp7SVEkqSiI=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18723,10 +18723,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.14.2";
+    version = "0.15.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.14.2/file/tamasfe.even-better-toml-0.14.2.vsix";
-      sha256 = "sha256-s9aRdMm/1P7kZElgP6RPAKrpMYwRksJWkNzWVD8dC1Q=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.1/file/tamasfe.even-better-toml-0.15.1.vsix";
+      sha256 = "sha256-JivLiTn4JnhRaTX/MHOETaKvds6/r8GGHYN5O2BpSBs=";
     };
     license = "MIT";
     name = "even-better-toml";
@@ -21411,10 +21411,10 @@
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
-    version = "8.2.2";
+    version = "8.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.2/file/waderyan.gitblame-8.2.2.vsix";
-      sha256 = "sha256-jt+6nsxr0LaxMY4zRlBWwQro/tfhh3aZTniOOQj8Ggg=";
+      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.3/file/waderyan.gitblame-8.2.3.vsix";
+      sha256 = "sha256-1tJ+Mb0qAve0GGG075A5WTpwICg74bRcksP/0SsNQtE=";
     };
     license = "MIT";
     name = "gitblame";
