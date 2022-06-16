@@ -5919,10 +5919,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.5/file/bmcsoftware.jobs-as-code-0.2.5.vsix";
-      sha256 = "sha256-kjm1nPHEhj/QYAmHhduMnFySZMASxQcl+0jNqp1YhNg=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.6/file/bmcsoftware.jobs-as-code-0.2.6.vsix";
+      sha256 = "sha256-XqC0KCWeCPjhitOkLy5M+o8LHGT88JUMNd+7jNgjhN0=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
@@ -6543,10 +6543,10 @@
   };
   cloudstudio-coding = {
     pname = "cloudstudio-coding";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.4/file/cloudstudio.coding-0.0.4.vsix";
-      sha256 = "sha256-YDH+KbicDACY6V1DYu5e52i7VvSJKXTuGwO3cIYZTkE=";
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.5/file/cloudstudio.coding-0.0.5.vsix";
+      sha256 = "sha256-i7RuTu9xpMjwGja6uTqb+Jl2lS9ubYSLNxcpsMAeUeI=";
     };
     license = "MIT";
     name = "coding";
@@ -12135,10 +12135,10 @@
   };
   learn-pack-learnpack-vscode = {
     pname = "learn-pack-learnpack-vscode";
-    version = "1.0.9";
+    version = "1.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.9/file/learn-pack.learnpack-vscode-1.0.9.vsix";
-      sha256 = "sha256-ShClLRUAkoujmz+lO4ZsM+mU6tQEosn7Y7dQg9QVJUA=";
+      url = "https://open-vsx.org/api/learn-pack/learnpack-vscode/1.0.12/file/learn-pack.learnpack-vscode-1.0.12.vsix";
+      sha256 = "sha256-gBrPw2VWirUGyIKruBKhWvpwTUd3h/uqU4FL0ivARfA=";
     };
     license = "MIT";
     name = "learnpack-vscode";
@@ -15999,10 +15999,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.5.0";
+    version = "2.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.5.0/file/quick-lint.quick-lint-js-2.5.0.vsix";
-      sha256 = "sha256-6qT4Ry9DBNUMO1ceNWQ9j2KAjh1o9McNiyUQkeOck1A=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.6.0/file/quick-lint.quick-lint-js-2.6.0.vsix";
+      sha256 = "sha256-yTIQuYvUfqMb9H45ekE/BCQ+RGx/YHph8gIS5fVnON8=";
     };
     license = "GPL-3.0";
     name = "quick-lint-js";
@@ -17571,10 +17571,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.14.7";
+    version = "0.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.14.7/file/shufo.vscode-blade-formatter-0.14.7.vsix";
-      sha256 = "sha256-0rHSNWXZZioKI8I8YjK2+9Z4zYdpJjsWZV38gcrsp40=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.0/file/shufo.vscode-blade-formatter-0.15.0.vsix";
+      sha256 = "sha256-nOSR47ajquERrqStF1yZaknCbht/eY+/BTZxkXqOx44=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
