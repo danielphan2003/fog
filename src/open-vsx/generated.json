@@ -12704,11 +12704,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CHIT/80CIWR2E+tE6iCxXpepDmC/t+xr293gYnuBl5I=",
+            "sha256": "sha256-Wc4lX5LjImtR0QF/6eciKo7TFN+1Ifwtu7JtvGGk1Nw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/edukera/archetype/0.55.0/file/edukera.archetype-0.55.0.vsix"
+            "url": "https://open-vsx.org/api/edukera/archetype/0.56.0/file/edukera.archetype-0.56.0.vsix"
         },
-        "version": "0.55.0"
+        "version": "0.56.0"
     },
     "efoerster-texlab": {
         "cargoLocks": null,
@@ -25073,11 +25073,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YDxgU1Zdka8N7z567X9rECMb40cgzKNVo+niniLp/xU=",
+            "sha256": "sha256-Ys89guhfOStxZQ96or/8Yz+kpjLmuJOrggukI3c0f1Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/prince781/vala/1.0.7/file/prince781.vala-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/prince781/vala/1.0.8/file/prince781.vala-1.0.8.vsix"
         },
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     "projektanker-code-butler": {
         "cargoLocks": null,
@@ -29595,11 +29595,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QvswWA9sFitezTvRx93OOhBHiXub7/wNhdNQhZkAaR4=",
+            "sha256": "sha256-kj0u52LkRrnnNWqO6UupZq6iBBN6thqZR5p40pbkSL4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.10/file/t-codespaces.test-vscode-web-state-0.0.10.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.12/file/t-codespaces.test-vscode-web-state-0.0.12.vsix"
         },
-        "version": "0.0.10"
+        "version": "0.0.12"
     },
     "tachish-webview-test": {
         "cargoLocks": null,
@@ -34920,6 +34920,25 @@
             "url": "https://open-vsx.org/api/ydz/var-fast/0.0.4/file/ydz.var-fast-0.0.4.vsix"
         },
         "version": "0.0.4"
+    },
+    "yogesh-ti-web-ext": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "yogesh-ti-web-ext",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "web-ext",
+            "publisher": "yogesh-ti"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2OGCsMz8IqTqsWtDRXO2dzevCLidqSsb664+kwzLb1Q=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/yogesh-ti/web-ext/0.0.1/file/yogesh-ti.web-ext-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "yurihs-sublime-vscode-theme": {
         "cargoLocks": null,

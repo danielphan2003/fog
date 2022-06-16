@@ -8019,10 +8019,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.55.0";
+    version = "0.56.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.55.0/file/edukera.archetype-0.55.0.vsix";
-      sha256 = "sha256-CHIT/80CIWR2E+tE6iCxXpepDmC/t+xr293gYnuBl5I=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.56.0/file/edukera.archetype-0.56.0.vsix";
+      sha256 = "sha256-Wc4lX5LjImtR0QF/6eciKo7TFN+1Ifwtu7JtvGGk1Nw=";
     };
     license = "MIT";
     name = "archetype";
@@ -15831,10 +15831,10 @@
   };
   prince781-vala = {
     pname = "prince781-vala";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prince781/vala/1.0.7/file/prince781.vala-1.0.7.vsix";
-      sha256 = "sha256-YDxgU1Zdka8N7z567X9rECMb40cgzKNVo+niniLp/xU=";
+      url = "https://open-vsx.org/api/prince781/vala/1.0.8/file/prince781.vala-1.0.8.vsix";
+      sha256 = "sha256-Ys89guhfOStxZQ96or/8Yz+kpjLmuJOrggukI3c0f1Y=";
     };
     license = "MIT";
     name = "vala";
@@ -18687,10 +18687,10 @@
   };
   t-codespaces-test-vscode-web-state = {
     pname = "t-codespaces-test-vscode-web-state";
-    version = "0.0.10";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.10/file/t-codespaces.test-vscode-web-state-0.0.10.vsix";
-      sha256 = "sha256-QvswWA9sFitezTvRx93OOhBHiXub7/wNhdNQhZkAaR4=";
+      url = "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.12/file/t-codespaces.test-vscode-web-state-0.0.12.vsix";
+      sha256 = "sha256-kj0u52LkRrnnNWqO6UupZq6iBBN6thqZR5p40pbkSL4=";
     };
     license = "";
     name = "test-vscode-web-state";
@@ -22056,6 +22056,18 @@
     name = "var-fast";
     description = "\24555\36895\32763\35793\21464\37327";
     publisher = "ydz";
+  };
+  yogesh-ti-web-ext = {
+    pname = "yogesh-ti-web-ext";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/yogesh-ti/web-ext/0.0.1/file/yogesh-ti.web-ext-0.0.1.vsix";
+      sha256 = "sha256-2OGCsMz8IqTqsWtDRXO2dzevCLidqSsb664+kwzLb1Q=";
+    };
+    license = "MIT";
+    name = "web-ext";
+    description = "";
+    publisher = "yogesh-ti";
   };
   yurihs-sublime-vscode-theme = {
     pname = "yurihs-sublime-vscode-theme";
