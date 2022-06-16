@@ -67,6 +67,15 @@ fetch.github = "awesomeWM/awesome"
 src.git = "https://github.com/K4rakara/awestore"
 fetch.github = "K4rakara/awestore"
 
+[betterdiscord-installer]
+src.github = "BetterDiscord/Installer"
+src.prefix = "v"
+fetch.url = "https://github.com/BetterDiscord/Installer/releases/download/v$ver/BetterDiscord-Linux.AppImage"
+
+[betterdiscordctl]
+src.git = "https://github.com/bb010g/betterdiscordctl"
+fetch.github = "bb010g/betterdiscordctl"
+
 [bling]
 src.git = "https://github.com/BlingCorp/bling"
 fetch.github = "BlingCorp/bling"
