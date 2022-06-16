@@ -273,6 +273,39 @@
         },
         "version": "5509786a1d5bc538dcdde027bd07b35bc29b0df1"
     },
+    "betterdiscord-installer": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "betterdiscord-installer",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EZj8vRyWbEfCagy/x3QTFADvE6Z76fqnDVRQZhD0S2k=",
+            "type": "url",
+            "url": "https://github.com/BetterDiscord/Installer/releases/download/v1.1.1/BetterDiscord-Linux.AppImage"
+        },
+        "version": "1.1.1"
+    },
+    "betterdiscordctl": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "betterdiscordctl",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "bb010g",
+            "repo": "betterdiscordctl",
+            "rev": "49a26fe82d441fbb8e51b0511969929f05cb2057",
+            "sha256": "sha256-aBJDQAKmsBGoFaurADBTDqL9L/4+bWBk2y26vQ0LFx4=",
+            "type": "github"
+        },
+        "version": "49a26fe82d441fbb8e51b0511969929f05cb2057"
+    },
     "bling": {
         "cargoLocks": null,
         "extract": null,

@@ -167,6 +167,25 @@
       sha256 = "sha256-VuMmEf5bCifXKHerTyFOYW4w4fXA83HM02Oj4VmQOeo=";
     });
   };
+  betterdiscord-installer = {
+    pname = "betterdiscord-installer";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://github.com/BetterDiscord/Installer/releases/download/v1.1.1/BetterDiscord-Linux.AppImage";
+      sha256 = "sha256-EZj8vRyWbEfCagy/x3QTFADvE6Z76fqnDVRQZhD0S2k=";
+    };
+  };
+  betterdiscordctl = {
+    pname = "betterdiscordctl";
+    version = "49a26fe82d441fbb8e51b0511969929f05cb2057";
+    src = fetchFromGitHub ({
+      owner = "bb010g";
+      repo = "betterdiscordctl";
+      rev = "49a26fe82d441fbb8e51b0511969929f05cb2057";
+      fetchSubmodules = false;
+      sha256 = "sha256-aBJDQAKmsBGoFaurADBTDqL9L/4+bWBk2y26vQ0LFx4=";
+    });
+  };
   bling = {
     pname = "bling";
     version = "4d2d8e5e27fb46e2b581b90d3a5362f4543eefc2";
