@@ -5142,11 +5142,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zk5AED3GVFMBG7K6hdqrb6FlYvoiWXXBjWsJGmjBhUI=",
+            "sha256": "sha256-PaJlYb7Ml4PbMEkEr0BMHehhlMqR95vesRoWM63Tse8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1315/file/Slint.slint-nightly-2022.6.1315.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1518/file/Slint.slint-nightly-2022.6.1518.vsix"
         },
-        "version": "2022.6.1315"
+        "version": "2022.6.1518"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -10405,11 +10405,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jFxZVcdUpm/Au0POf/o7ffCThBekolAvhZDhkx1ws2o=",
+            "sha256": "sha256-avOtCDJIfAbAeEffqwhpHLRoabVe5f2L4+HybZvMrVg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.9/file/cloudstudio.common-0.0.9.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.10/file/cloudstudio.common-0.0.10.vsix"
         },
-        "version": "0.0.9"
+        "version": "0.0.10"
     },
     "cloudstudio-custom-template": {
         "cargoLocks": null,
@@ -21843,11 +21843,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9mskyUgEF3UUe7F8OoD3UKyo+OGUa2RcEZTOXACkuLw=",
+            "sha256": "sha256-1ZWzk1pYy6sDiffostdtHZPsiPNH25nuU0BdLG8zUsA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.6/file/ms-vscode.hexeditor-1.9.6.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.7/file/ms-vscode.hexeditor-1.9.7.vsix"
         },
-        "version": "1.9.6"
+        "version": "1.9.7"
     },
     "ms-vscode-js-debug": {
         "cargoLocks": null,
@@ -35390,11 +35390,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xWyClz2hB2cO+T7//IwLiEi8EvzLxB2AV2QIyFSK3Fk=",
+            "sha256": "sha256-WTILBKv2kxa+rm9Uy/qVKP5GRnsuY6Ecymf0VTC/hLQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.14.3/file/zhuangtongfa.material-theme-3.14.3.vsix"
+            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.0/file/zhuangtongfa.material-theme-3.15.0.vsix"
         },
-        "version": "3.14.3"
+        "version": "3.15.0"
     },
     "ziyasal-vscode-open-in-github": {
         "cargoLocks": null,

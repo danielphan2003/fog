@@ -3243,10 +3243,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.1315";
+    version = "2022.6.1518";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1315/file/Slint.slint-nightly-2022.6.1315.vsix";
-      sha256 = "sha256-zk5AED3GVFMBG7K6hdqrb6FlYvoiWXXBjWsJGmjBhUI=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1518/file/Slint.slint-nightly-2022.6.1518.vsix";
+      sha256 = "sha256-PaJlYb7Ml4PbMEkEr0BMHehhlMqR95vesRoWM63Tse8=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -6567,10 +6567,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.9/file/cloudstudio.common-0.0.9.vsix";
-      sha256 = "sha256-jFxZVcdUpm/Au0POf/o7ffCThBekolAvhZDhkx1ws2o=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.10/file/cloudstudio.common-0.0.10.vsix";
+      sha256 = "sha256-avOtCDJIfAbAeEffqwhpHLRoabVe5f2L4+HybZvMrVg=";
     };
     license = "MIT";
     name = "common";
@@ -13791,10 +13791,10 @@
   };
   ms-vscode-hexeditor = {
     pname = "ms-vscode-hexeditor";
-    version = "1.9.6";
+    version = "1.9.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.6/file/ms-vscode.hexeditor-1.9.6.vsix";
-      sha256 = "sha256-9mskyUgEF3UUe7F8OoD3UKyo+OGUa2RcEZTOXACkuLw=";
+      url = "https://open-vsx.org/api/ms-vscode/hexeditor/1.9.7/file/ms-vscode.hexeditor-1.9.7.vsix";
+      sha256 = "sha256-1ZWzk1pYy6sDiffostdtHZPsiPNH25nuU0BdLG8zUsA=";
     };
     license = "MIT";
     name = "hexeditor";
@@ -22347,10 +22347,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.14.3";
+    version = "3.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.14.3/file/zhuangtongfa.material-theme-3.14.3.vsix";
-      sha256 = "sha256-xWyClz2hB2cO+T7//IwLiEi8EvzLxB2AV2QIyFSK3Fk=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.0/file/zhuangtongfa.material-theme-3.15.0.vsix";
+      sha256 = "sha256-WTILBKv2kxa+rm9Uy/qVKP5GRnsuY6Ecymf0VTC/hLQ=";
     };
     license = "MIT";
     name = "material-theme";
