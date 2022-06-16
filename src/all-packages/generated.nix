@@ -840,13 +840,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e759f8114921a9d41d4eb527225f5e5a431ad0a8";
+    version = "50f65a893fe2e6cd0bd954cc205c8fd0ec78d7b7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e759f8114921a9d41d4eb527225f5e5a431ad0a8";
+      rev = "50f65a893fe2e6cd0bd954cc205c8fd0ec78d7b7";
       fetchSubmodules = false;
-      sha256 = "sha256-g/F95AnPPCawbDvv42IoAB0Zp0Gj6eULN/PQfL4sWIk=";
+      sha256 = "sha256-tldp4lzvogzAvN91El5Y5j3Z8y3qCdYuf5feP8zSzm0=";
     });
   };
   rofi-wayland = {
@@ -1286,14 +1286,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "f40610e0b4f2b4ae54ef6bbff756cb4a60e17e3b";
+    version = "4532b696c644cb7f21e96cf76d3e6b21ccc0e309";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "f40610e0b4f2b4ae54ef6bbff756cb4a60e17e3b";
+      rev = "4532b696c644cb7f21e96cf76d3e6b21ccc0e309";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2D8LWS2AJ3MsC6WzphsiRjo2HogCmnioHD+Rv3j41zQ=";
+      sha256 = "sha256-xKYg6DiL9aaH0B2l1a+a5kEj3WyRyNwBU/XUTcScT4o=";
     };
   };
   ydotool = {
