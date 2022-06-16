@@ -733,14 +733,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "22117de4bd8ace060d0847a851635131eee70ce1";
+    version = "c0cec06df85a17dcbadcadda83c2866865167c79";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "22117de4bd8ace060d0847a851635131eee70ce1";
+      rev = "c0cec06df85a17dcbadcadda83c2866865167c79";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-6XTjxYgZ2Zw0MOM0TihVnYRwyifQrPgE7ZkCnmr3rxo=";
+      sha256 = "sha256-QjAeFqBrvgAlCZ5e7RQIYomiSdcWCsvuw4SR9zoPkMM=";
     };
   };
   polymc-cracked = {
