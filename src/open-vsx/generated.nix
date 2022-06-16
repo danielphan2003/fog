@@ -7899,10 +7899,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.1.0";
+    version = "12.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.1.0/file/eamodio.gitlens-12.1.0.vsix";
-      sha256 = "sha256-A25ObMt9gB9I/sH6SNhDSDhaRwzzWgjxk8VLe6QQ6y4=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.1.1/file/eamodio.gitlens-12.1.1.vsix";
+      sha256 = "sha256-kp3cFYDUuOfFsqjz+2zYlQqdXguIAOd+CC7nYNjrPEQ=";
     };
     license = "MIT";
     name = "gitlens";
@@ -12171,10 +12171,10 @@
   };
   lefebsy-vskubi-lite = {
     pname = "lefebsy-vskubi-lite";
-    version = "1.4.5";
+    version = "1.4.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.5/file/lefebsy.vskubi-lite-1.4.5.vsix";
-      sha256 = "sha256-YNLD5EFvnFk17PSA8zghIeVDoc7uqGF8vrfyqGIuung=";
+      url = "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.7/file/lefebsy.vskubi-lite-1.4.7.vsix";
+      sha256 = "sha256-mmZv73DswbOG6EUJf53lc4CrXtpVBwrM56oaT7Vvafk=";
     };
     license = "MIT";
     name = "vskubi-lite";

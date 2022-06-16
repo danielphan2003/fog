@@ -12514,11 +12514,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-A25ObMt9gB9I/sH6SNhDSDhaRwzzWgjxk8VLe6QQ6y4=",
+            "sha256": "sha256-kp3cFYDUuOfFsqjz+2zYlQqdXguIAOd+CC7nYNjrPEQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eamodio/gitlens/12.1.0/file/eamodio.gitlens-12.1.0.vsix"
+            "url": "https://open-vsx.org/api/eamodio/gitlens/12.1.1/file/eamodio.gitlens-12.1.1.vsix"
         },
-        "version": "12.1.0"
+        "version": "12.1.1"
     },
     "eamodio-tsl-problem-matcher": {
         "cargoLocks": null,
@@ -19278,11 +19278,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YNLD5EFvnFk17PSA8zghIeVDoc7uqGF8vrfyqGIuung=",
+            "sha256": "sha256-mmZv73DswbOG6EUJf53lc4CrXtpVBwrM56oaT7Vvafk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.5/file/lefebsy.vskubi-lite-1.4.5.vsix"
+            "url": "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.7/file/lefebsy.vskubi-lite-1.4.7.vsix"
         },
-        "version": "1.4.5"
+        "version": "1.4.7"
     },
     "leodevbro-blockman": {
         "cargoLocks": null,
