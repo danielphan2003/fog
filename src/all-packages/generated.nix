@@ -821,13 +821,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "109b6f9781456d342f375b33369860ff74d8e093";
+    version = "702a7b37adeef005a6e9a3d9b1517f3e605e522d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "109b6f9781456d342f375b33369860ff74d8e093";
+      rev = "702a7b37adeef005a6e9a3d9b1517f3e605e522d";
       fetchSubmodules = false;
-      sha256 = "sha256-CefgfXf0R+q2cnFxDU9gpEiMZLiwqD4BkSzA+ZCKliU=";
+      sha256 = "sha256-C3Xgi+daaeKIHCTtf/pFALM0RJ2+d/O2FRLN7eW4pcg=";
     });
   };
   rofi-wayland = {
@@ -1082,13 +1082,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "6d1eb63a1e8e2f9e2f97cbaeae81213fb734a719";
+    version = "a8f76745b77f929902c265defc7c3d98fece19e1";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "6d1eb63a1e8e2f9e2f97cbaeae81213fb734a719";
+      rev = "a8f76745b77f929902c265defc7c3d98fece19e1";
       fetchSubmodules = false;
-      sha256 = "sha256-KLI7/Ew71cCPmdqpMQO3/vypOk0uk5IT5nT6fDPcH9w=";
+      sha256 = "sha256-/BakV6LEe537h1eKVQjGI9ztowANeDt+rUVcRTJlPwo=";
     });
   };
   ultimmc = {
