@@ -188,24 +188,24 @@
   };
   bling = {
     pname = "bling";
-    version = "4d2d8e5e27fb46e2b581b90d3a5362f4543eefc2";
+    version = "c4051032628ff6d5186c684e6248c47e1c4defe1";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "4d2d8e5e27fb46e2b581b90d3a5362f4543eefc2";
+      rev = "c4051032628ff6d5186c684e6248c47e1c4defe1";
       fetchSubmodules = false;
-      sha256 = "sha256-fMPg23lyL1nsL7LkKkDuQwMdZ51jSv+QSoFCS+w+mPc=";
+      sha256 = "sha256-XBGjJUoZrq8N3ATVl6WLpscUX44uo49TH3+HzoTNF38=";
     });
   };
   bottles = {
     pname = "bottles";
-    version = "4e702f930246878c76092e19f175f6ec0cd8446d";
+    version = "8102f92bac4470c7520ef041ac022ef10dd1a09f";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4e702f930246878c76092e19f175f6ec0cd8446d";
+      rev = "8102f92bac4470c7520ef041ac022ef10dd1a09f";
       fetchSubmodules = false;
-      sha256 = "sha256-nXh827uA9HI2B/KACoqdFh7i2nsatRfoYi4KoShCRpQ=";
+      sha256 = "sha256-9VnH6E4IV8unImfx9wABiwwjX2xaWLSKSs7CpbGkkzk=";
     });
   };
   caddy = {
