@@ -3291,10 +3291,10 @@
   };
   SonatypeCommunity-vscode-iq-plugin = {
     pname = "SonatypeCommunity-vscode-iq-plugin";
-    version = "1.2.3";
+    version = "1.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.3/file/SonatypeCommunity.vscode-iq-plugin-1.2.3.vsix";
-      sha256 = "sha256-Ac7TAL60E/BiuTobX/DgVWZnK0JPIX/1Nhx3jHa6pCE=";
+      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.4/file/SonatypeCommunity.vscode-iq-plugin-1.2.4.vsix";
+      sha256 = "sha256-hY667Vg02HLD2QVl0mTEoxnCU6XM2/gQZcgZbHJBYbU=";
     };
     license = "MIT";
     name = "vscode-iq-plugin";
@@ -9219,10 +9219,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.1.6";
+    version = "2022.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.1.6/file/genuitecllc.codetogether-2022.1.6.vsix";
-      sha256 = "sha256-lNfRBm7kSFJf7Mo2U0nirR2HIK+zys2SzHGT5JsqmaA=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.0/file/genuitecllc.codetogether-2022.2.0.vsix";
+      sha256 = "sha256-/ZdA0kkNOlWxM+eyyiSdvYXWJ3D3Xw69T6vpvf3UVzU=";
     };
     license = "";
     name = "codetogether";
