@@ -7403,11 +7403,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-goZEr8/8C04N2uR71Ffc/Gkr0AwWuqC4q69Zlw8t+G0=",
+            "sha256": "sha256-GqD02hSm/oXCIgkVcyHcEKI9KqGq9K+879IemrhRg7s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.2/file/andrewdavidblum.drupal-smart-snippets-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.1.0/file/andrewdavidblum.drupal-smart-snippets-1.1.0.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.1.0"
     },
     "andreweinand-mock-debug": {
         "cargoLocks": null,
@@ -21653,11 +21653,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hXbPC6FVkWigCUkv/P8cX0d7ZMNSdkp/Brbif3GMUUQ=",
+            "sha256": "sha256-plOQmS0Ul0IYSrcRw5STFqh8BMiRO6KnusUbWtj7iZ8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.6/file/ms-toolsai.jupyter-renderers-1.0.6.vsix"
+            "url": "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.8/file/ms-toolsai.jupyter-renderers-1.0.8.vsix"
         },
-        "version": "1.0.6"
+        "version": "1.0.8"
     },
     "ms-toolsai-vscode-jupyter-powertoys": {
         "cargoLocks": null,
@@ -24807,11 +24807,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8olshGwFyQqLDRFeHWfmWnucoX4nxS1UDWpdlFKhYhA=",
+            "sha256": "sha256-3rETxmC7M1T0yOx69lMovEQCoPuvzidEhBcfgfVIwjM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.353/file/pokey.cursorless-0.26.353.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.354/file/pokey.cursorless-0.26.354.vsix"
         },
-        "version": "0.26.353"
+        "version": "0.26.354"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28455,11 +28455,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-r10Ktbj3wAY+i+nBFjYrT4PBPCoATWETmtcGsOmG2zI=",
+            "sha256": "sha256-w+26dLVR21dQ2o1vQJDnfNq9I7WioZA7aGu6jF2qh8M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sourcery/sourcery/0.12.0/file/sourcery.sourcery-0.12.0.vsix"
+            "url": "https://open-vsx.org/api/sourcery/sourcery/0.12.1/file/sourcery.sourcery-0.12.1.vsix"
         },
-        "version": "0.12.0"
+        "version": "0.12.1"
     },
     "southclaws-vscode-pawn": {
         "cargoLocks": null,

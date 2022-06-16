@@ -4671,10 +4671,10 @@
   };
   andrewdavidblum-drupal-smart-snippets = {
     pname = "andrewdavidblum-drupal-smart-snippets";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.0.2/file/andrewdavidblum.drupal-smart-snippets-1.0.2.vsix";
-      sha256 = "sha256-goZEr8/8C04N2uR71Ffc/Gkr0AwWuqC4q69Zlw8t+G0=";
+      url = "https://open-vsx.org/api/andrewdavidblum/drupal-smart-snippets/1.1.0/file/andrewdavidblum.drupal-smart-snippets-1.1.0.vsix";
+      sha256 = "sha256-GqD02hSm/oXCIgkVcyHcEKI9KqGq9K+879IemrhRg7s=";
     };
     license = "MIT";
     name = "drupal-smart-snippets";
@@ -13671,10 +13671,10 @@
   };
   ms-toolsai-jupyter-renderers = {
     pname = "ms-toolsai-jupyter-renderers";
-    version = "1.0.6";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.6/file/ms-toolsai.jupyter-renderers-1.0.6.vsix";
-      sha256 = "sha256-hXbPC6FVkWigCUkv/P8cX0d7ZMNSdkp/Brbif3GMUUQ=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.8/file/ms-toolsai.jupyter-renderers-1.0.8.vsix";
+      sha256 = "sha256-plOQmS0Ul0IYSrcRw5STFqh8BMiRO6KnusUbWtj7iZ8=";
     };
     license = "MIT";
     name = "jupyter-renderers";
@@ -15663,10 +15663,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.353";
+    version = "0.26.354";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.353/file/pokey.cursorless-0.26.353.vsix";
-      sha256 = "sha256-8olshGwFyQqLDRFeHWfmWnucoX4nxS1UDWpdlFKhYhA=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.354/file/pokey.cursorless-0.26.354.vsix";
+      sha256 = "sha256-3rETxmC7M1T0yOx69lMovEQCoPuvzidEhBcfgfVIwjM=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17967,10 +17967,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.12.0";
+    version = "0.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.0/file/sourcery.sourcery-0.12.0.vsix";
-      sha256 = "sha256-r10Ktbj3wAY+i+nBFjYrT4PBPCoATWETmtcGsOmG2zI=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.1/file/sourcery.sourcery-0.12.1.vsix";
+      sha256 = "sha256-w+26dLVR21dQ2o1vQJDnfNq9I7WioZA7aGu6jF2qh8M=";
     };
     license = "MIT";
     name = "sourcery";
