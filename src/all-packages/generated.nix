@@ -499,13 +499,13 @@
   };
   layout-machi = {
     pname = "layout-machi";
-    version = "7b472770eec28abc11ca00b7bb3a5edb4801a83f";
+    version = "3b3fcd82d7758f92acc601ed5e0b9d7612e318c7";
     src = fetchFromGitHub ({
       owner = "xinhaoyuan";
       repo = "layout-machi";
-      rev = "7b472770eec28abc11ca00b7bb3a5edb4801a83f";
+      rev = "3b3fcd82d7758f92acc601ed5e0b9d7612e318c7";
       fetchSubmodules = false;
-      sha256 = "sha256-M6sbixiqUlwe6sKeUFoKEE5wSzjLL3OD71rOaqpJynw=";
+      sha256 = "sha256-7FbO6iPi+h2dKOHqldHa8ZcAH4zI48BVgcq1/Mza+T8=";
     });
   };
   leonflix = {
