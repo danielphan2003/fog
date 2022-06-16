@@ -12799,11 +12799,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2x3GiI053FxVhHBilP8ZNdUJ7+yfbbDyc/tTPAgBs04=",
+            "sha256": "sha256-RCrJby4u3KTgFYrY3FuWljGIuqgLCgoOw07gILOdSU0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2503116/file/eliostruyf.vscode-front-matter-beta-8.0.2503116.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2508196/file/eliostruyf.vscode-front-matter-beta-8.0.2508196.vsix"
         },
-        "version": "8.0.2503116"
+        "version": "8.0.2508196"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -24807,11 +24807,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dOUNKomdLcsSotqX2T39+AuGaX7aLYe9eXqHchWsv+U=",
+            "sha256": "sha256-8olshGwFyQqLDRFeHWfmWnucoX4nxS1UDWpdlFKhYhA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.352/file/pokey.cursorless-0.26.352.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.353/file/pokey.cursorless-0.26.353.vsix"
         },
-        "version": "0.26.352"
+        "version": "0.26.353"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

@@ -8079,10 +8079,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2503116";
+    version = "8.0.2508196";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2503116/file/eliostruyf.vscode-front-matter-beta-8.0.2503116.vsix";
-      sha256 = "sha256-2x3GiI053FxVhHBilP8ZNdUJ7+yfbbDyc/tTPAgBs04=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2508196/file/eliostruyf.vscode-front-matter-beta-8.0.2508196.vsix";
+      sha256 = "sha256-RCrJby4u3KTgFYrY3FuWljGIuqgLCgoOw07gILOdSU0=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -15663,10 +15663,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.352";
+    version = "0.26.353";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.352/file/pokey.cursorless-0.26.352.vsix";
-      sha256 = "sha256-dOUNKomdLcsSotqX2T39+AuGaX7aLYe9eXqHchWsv+U=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.353/file/pokey.cursorless-0.26.353.vsix";
+      sha256 = "sha256-8olshGwFyQqLDRFeHWfmWnucoX4nxS1UDWpdlFKhYhA=";
     };
     license = "MIT";
     name = "cursorless";
