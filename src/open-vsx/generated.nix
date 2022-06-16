@@ -6567,10 +6567,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.8/file/cloudstudio.common-0.0.8.vsix";
-      sha256 = "sha256-JF/iOyD+gKPI1eaFsYq/jNcZw5sfcxJLi03Lxklluck=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.9/file/cloudstudio.common-0.0.9.vsix";
+      sha256 = "sha256-jFxZVcdUpm/Au0POf/o7ffCThBekolAvhZDhkx1ws2o=";
     };
     license = "MIT";
     name = "common";
@@ -6627,10 +6627,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.4/file/cloudstudio.workspaces-0.0.4.vsix";
-      sha256 = "sha256-pbMvHJe1iJ/su6v1BAhfSBA5suqPBj/DuhIw0qn0sQQ=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.5/file/cloudstudio.workspaces-0.0.5.vsix";
+      sha256 = "sha256-2+FB7F5/6/JHa/e6Be5CSOsXDhk4FrKZaQUfg6I1b5g=";
     };
     license = "MIT";
     name = "workspaces";
@@ -9315,10 +9315,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.6.0";
+    version = "2.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.6.0/file/giscafer.leek-fund-2.6.0.vsix";
-      sha256 = "sha256-nZF/RPycMBPL/0lSzFDZ6Li8xh3v2Nq70eBIV6qaMXU=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.0/file/giscafer.leek-fund-2.7.0.vsix";
+      sha256 = "sha256-cRngCAFgbB3cEgFIyJSNwb56B8ZQOtwgievGAAYHHyk=";
     };
     license = "BSD-3-Clause";
     name = "leek-fund";
@@ -10671,10 +10671,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.3";
+    version = "0.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.3/file/iterative.dvc-0.3.3.vsix";
-      sha256 = "sha256-kWOI01zoWgNN2cEYReKWAc9pWzLavcGaNXShidX7g98=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.4/file/iterative.dvc-0.3.4.vsix";
+      sha256 = "sha256-lqSMjpLh4mXGt7PrAcg7xheEV7ducojmdlAGhApC8uw=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -13635,10 +13635,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.6.3";
+    version = "2022.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.6.3/file/ms-python.python-2022.6.3.vsix";
-      sha256 = "sha256-+JQvacbawYmTdjP3GDIHsk/d9KW8824bEhnkK5Hl+zY=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.8.0/file/ms-python.python-2022.8.0.vsix";
+      sha256 = "sha256-mszJqaYB8BMqaFnroYrOxCAtvqivJ50GKSlf762Z0KI=";
     };
     license = "MIT";
     name = "python";
@@ -18639,10 +18639,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.3/file/t-codespaces.ide-code-status-0.0.3.vsix";
-      sha256 = "sha256-WCJX+5a8gNzaAXgsU3VPzKzb5jmtoxZQSV+fDsxe1eY=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.4/file/t-codespaces.ide-code-status-0.0.4.vsix";
+      sha256 = "sha256-pe0I4bwpY0UZDlxntN0XbdmFI4IVQa3bzPdjxPn1DOk=";
     };
     license = "";
     name = "ide-code-status";
