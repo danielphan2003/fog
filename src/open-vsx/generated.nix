@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1054";
+    version = "31.0.1058";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1054/file/Prisma.prisma-insider-31.0.1054.vsix";
-      sha256 = "sha256-XkMyETKNnysMxNQU+gRbqj4+V6c+MsrJ+V34hMb/OYE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1058/file/Prisma.prisma-insider-31.0.1058.vsix";
+      sha256 = "sha256-t51jD1IBjbsnD/z4i7y03R5As5AX4lRpXgqLzFHacAw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11319,10 +11319,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.17";
+    version = "1.6.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.17/file/julialang.language-julia-1.6.17.vsix";
-      sha256 = "sha256-qhstJtS+lW36JQ+R4Ec+qNhlWYIHG207/ZeZ9cWJZrY=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.24/file/julialang.language-julia-1.6.24.vsix";
+      sha256 = "sha256-q0iNNOCIlV5eIsgtvjVPQXGUhjZCes0u7ZGUvX1YkCQ=";
     };
     license = "MIT";
     name = "language-julia";
