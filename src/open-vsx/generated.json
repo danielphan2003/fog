@@ -4477,11 +4477,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5yRT3H08tPyE1jz69vrCOE4S0gxuMyDEHJ25ewTD5ns=",
+            "sha256": "sha256-5ZpR0YiVipc6PBqXQ4oxFt9IcRnhWYkyselAiDAjyKQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.5.0/file/PrateekMahendrakar.resxpress-4.5.0.vsix"
+            "url": "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.6.0/file/PrateekMahendrakar.resxpress-4.6.0.vsix"
         },
-        "version": "4.5.0"
+        "version": "4.6.0"
     },
     "Prisma-prisma": {
         "cargoLocks": null,
@@ -10405,11 +10405,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-avOtCDJIfAbAeEffqwhpHLRoabVe5f2L4+HybZvMrVg=",
+            "sha256": "sha256-LuSkZ2qNn883p8CJfddYdlQ1YgK7wW/Gwwh9LhHmLzM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.10/file/cloudstudio.common-0.0.10.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/common/0.0.11/file/cloudstudio.common-0.0.11.vsix"
         },
-        "version": "0.0.10"
+        "version": "0.0.11"
     },
     "cloudstudio-custom-template": {
         "cargoLocks": null,
@@ -10500,11 +10500,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2+FB7F5/6/JHa/e6Be5CSOsXDhk4FrKZaQUfg6I1b5g=",
+            "sha256": "sha256-jga2+l0QmjRPU99xBxxqALsECJ2tlW2DaoHH/wHqIcM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.5/file/cloudstudio.workspaces-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.6/file/cloudstudio.workspaces-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -12001,11 +12001,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mCRv+8e37fKpTdfb+zDIln64t8hm1d8GCYtWfD5TKb8=",
+            "sha256": "sha256-FGQKoDN2dujOMBK2mC3Nv3YOeIu58InuNtyOXLTGAao=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.99.2/file/dendron.nightly-0.99.2.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.99.3/file/dendron.nightly-0.99.3.vsix"
         },
-        "version": "0.99.2"
+        "version": "0.99.3"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,

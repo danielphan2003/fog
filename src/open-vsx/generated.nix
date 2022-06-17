@@ -2823,10 +2823,10 @@
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
-    version = "4.5.0";
+    version = "4.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.5.0/file/PrateekMahendrakar.resxpress-4.5.0.vsix";
-      sha256 = "sha256-5yRT3H08tPyE1jz69vrCOE4S0gxuMyDEHJ25ewTD5ns=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.6.0/file/PrateekMahendrakar.resxpress-4.6.0.vsix";
+      sha256 = "sha256-5ZpR0YiVipc6PBqXQ4oxFt9IcRnhWYkyselAiDAjyKQ=";
     };
     license = "MIT";
     name = "resxpress";
@@ -6567,10 +6567,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.10/file/cloudstudio.common-0.0.10.vsix";
-      sha256 = "sha256-avOtCDJIfAbAeEffqwhpHLRoabVe5f2L4+HybZvMrVg=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.11/file/cloudstudio.common-0.0.11.vsix";
+      sha256 = "sha256-LuSkZ2qNn883p8CJfddYdlQ1YgK7wW/Gwwh9LhHmLzM=";
     };
     license = "MIT";
     name = "common";
@@ -6627,10 +6627,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.5/file/cloudstudio.workspaces-0.0.5.vsix";
-      sha256 = "sha256-2+FB7F5/6/JHa/e6Be5CSOsXDhk4FrKZaQUfg6I1b5g=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.6/file/cloudstudio.workspaces-0.0.6.vsix";
+      sha256 = "sha256-jga2+l0QmjRPU99xBxxqALsECJ2tlW2DaoHH/wHqIcM=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7575,10 +7575,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.99.2";
+    version = "0.99.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.99.2/file/dendron.nightly-0.99.2.vsix";
-      sha256 = "sha256-mCRv+8e37fKpTdfb+zDIln64t8hm1d8GCYtWfD5TKb8=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.99.3/file/dendron.nightly-0.99.3.vsix";
+      sha256 = "sha256-FGQKoDN2dujOMBK2mC3Nv3YOeIu58InuNtyOXLTGAao=";
     };
     license = "AGPL-3.0";
     name = "nightly";
