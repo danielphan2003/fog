@@ -9493,11 +9493,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ipdqVglcifFl3FZnWcBt9Hxr385JFJAVc1LdAru9Mjk=",
+            "sha256": "sha256-ZdWzXFtgBrlnHw4XkW34ID935a1sof+pHDH/W4Ric6o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.4/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.4.vsix"
+            "url": "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.3.0/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.3.0.vsix"
         },
-        "version": "1.2.4"
+        "version": "1.3.0"
     },
     "bradlc-vscode-tailwindcss": {
         "cargoLocks": null,

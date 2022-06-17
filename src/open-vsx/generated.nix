@@ -5991,10 +5991,10 @@
   };
   bpruitt-goddard-mermaid-markdown-syntax-highlighting = {
     pname = "bpruitt-goddard-mermaid-markdown-syntax-highlighting";
-    version = "1.2.4";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.2.4/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.2.4.vsix";
-      sha256 = "sha256-ipdqVglcifFl3FZnWcBt9Hxr385JFJAVc1LdAru9Mjk=";
+      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.3.0/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.3.0.vsix";
+      sha256 = "sha256-ZdWzXFtgBrlnHw4XkW34ID935a1sof+pHDH/W4Ric6o=";
     };
     license = "MIT";
     name = "mermaid-markdown-syntax-highlighting";
