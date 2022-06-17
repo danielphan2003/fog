@@ -29557,11 +29557,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-U+9uLWLjnXX3cH1BwxD8uZJhAaIWNvE/oyKmWxkfEn0=",
+            "sha256": "sha256-1rbOt2E7YsKNP2swxusOlBKZeJt4FfFpVKirD7Pb1tA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.4/file/t-codespaces.ide-data-sync-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.6/file/t-codespaces.ide-data-sync-0.0.6.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.6"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,
@@ -29652,11 +29652,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jNjguvL3nFEHM0EPhpd5kiOhYA9oNi28Jd2QfAJ6Q7w=",
+            "sha256": "sha256-PogIUEEAhuSZShUc5KllZIxrEdo83Q+eOUnyXZQQxIM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.2/file/tamasfe.even-better-toml-0.15.2.vsix"
+            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.1/file/tamasfe.even-better-toml-0.16.1.vsix"
         },
-        "version": "0.15.2"
+        "version": "0.16.1"
     },
     "tanhakabir-rest-book": {
         "cargoLocks": null,

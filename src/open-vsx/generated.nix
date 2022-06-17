@@ -18663,10 +18663,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.4";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.4/file/t-codespaces.ide-data-sync-0.0.4.vsix";
-      sha256 = "sha256-U+9uLWLjnXX3cH1BwxD8uZJhAaIWNvE/oyKmWxkfEn0=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.6/file/t-codespaces.ide-data-sync-0.0.6.vsix";
+      sha256 = "sha256-1rbOt2E7YsKNP2swxusOlBKZeJt4FfFpVKirD7Pb1tA=";
     };
     license = "";
     name = "ide-data-sync";
@@ -18723,10 +18723,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.15.2";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.2/file/tamasfe.even-better-toml-0.15.2.vsix";
-      sha256 = "sha256-jNjguvL3nFEHM0EPhpd5kiOhYA9oNi28Jd2QfAJ6Q7w=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.1/file/tamasfe.even-better-toml-0.16.1.vsix";
+      sha256 = "sha256-PogIUEEAhuSZShUc5KllZIxrEdo83Q+eOUnyXZQQxIM=";
     };
     license = "MIT";
     name = "even-better-toml";
