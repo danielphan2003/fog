@@ -18723,10 +18723,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.16.2";
+    version = "0.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.2/file/tamasfe.even-better-toml-0.16.2.vsix";
-      sha256 = "sha256-lhnfuz8oefE+Np8rUXhGORVnqkI6JG9N0paiXEQ1q+8=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.3/file/tamasfe.even-better-toml-0.16.3.vsix";
+      sha256 = "sha256-QX6c54l6nwAuftjmgXNre9/aQpcHMeR6wHmijIhpx7c=";
     };
     license = "MIT";
     name = "even-better-toml";
