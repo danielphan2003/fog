@@ -1413,11 +1413,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "a69387089cbf0b2b3865ea0d44f3f24a37f63764",
-            "sha256": "sha256-yFoE9lY18efpjnwOruWbVZAnYVxwj6KygYevTReXjo8=",
+            "rev": "0fe694665ccc750b21344b4565429cca1ec0943d",
+            "sha256": "sha256-fede0e12ewH4ioTFqTkuYKd6cERWRbdn3bnQ8IFacb8=",
             "type": "github"
         },
-        "version": "a69387089cbf0b2b3865ea0d44f3f24a37f63764"
+        "version": "0fe694665ccc750b21344b4565429cca1ec0943d"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1841,11 +1841,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "f7c0fffdfd6de06112f2b83c8c091b8154352600",
-            "sha256": "sha256-ErxBoGRwFbXPWAiZdJIxpwF/PKTurT7zBxNp+l+0j1Q=",
+            "rev": "9cedb6fd42e4b07f83aa278c83fdb50f52c30e63",
+            "sha256": "sha256-dIso85Kvf7HUsDa7ypfU7WYPGrS/qZb8coNlUcB4MD0=",
             "type": "github"
         },
-        "version": "f7c0fffdfd6de06112f2b83c8c091b8154352600"
+        "version": "9cedb6fd42e4b07f83aa278c83fdb50f52c30e63"
     },
     "ultimmc": {
         "cargoLocks": null,
