@@ -16903,11 +16903,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lqSMjpLh4mXGt7PrAcg7xheEV7ducojmdlAGhApC8uw=",
+            "sha256": "sha256-0RhCxbQnHFyg72Gm1PwFRVkBLzC6yECVCEg9YLww5ng=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.4/file/iterative.dvc-0.3.4.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.5/file/iterative.dvc-0.3.5.vsix"
         },
-        "version": "0.3.4"
+        "version": "0.3.5"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -19278,11 +19278,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mmZv73DswbOG6EUJf53lc4CrXtpVBwrM56oaT7Vvafk=",
+            "sha256": "sha256-WPWFJudlUuBtRR74QloYEUYUdwVWDS8KOdoCEOFJJwo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.7/file/lefebsy.vskubi-lite-1.4.7.vsix"
+            "url": "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.8/file/lefebsy.vskubi-lite-1.4.8.vsix"
         },
-        "version": "1.4.7"
+        "version": "1.4.8"
     },
     "leodevbro-blockman": {
         "cargoLocks": null,
@@ -22660,11 +22660,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L/uCe7aqVKWXcmtLqdtGI2B0K3E/GrklgIQxa8LOb1o=",
+            "sha256": "sha256-hFxAm0wXwVV6W5dxTfwtFHy7KRRxNcCA3h1t5LdpZ/Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mvllow/rose-pine/2.2.0/file/mvllow.rose-pine-2.2.0.vsix"
+            "url": "https://open-vsx.org/api/mvllow/rose-pine/2.2.1/file/mvllow.rose-pine-2.2.1.vsix"
         },
-        "version": "2.2.0"
+        "version": "2.2.1"
     },
     "mysticcoders-kandavu-vscode-extension": {
         "cargoLocks": null,
@@ -29652,11 +29652,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JivLiTn4JnhRaTX/MHOETaKvds6/r8GGHYN5O2BpSBs=",
+            "sha256": "sha256-jNjguvL3nFEHM0EPhpd5kiOhYA9oNi28Jd2QfAJ6Q7w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.1/file/tamasfe.even-better-toml-0.15.1.vsix"
+            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.2/file/tamasfe.even-better-toml-0.15.2.vsix"
         },
-        "version": "0.15.1"
+        "version": "0.15.2"
     },
     "tanhakabir-rest-book": {
         "cargoLocks": null,

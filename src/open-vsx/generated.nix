@@ -10671,10 +10671,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.4";
+    version = "0.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.4/file/iterative.dvc-0.3.4.vsix";
-      sha256 = "sha256-lqSMjpLh4mXGt7PrAcg7xheEV7ducojmdlAGhApC8uw=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.5/file/iterative.dvc-0.3.5.vsix";
+      sha256 = "sha256-0RhCxbQnHFyg72Gm1PwFRVkBLzC6yECVCEg9YLww5ng=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -12171,10 +12171,10 @@
   };
   lefebsy-vskubi-lite = {
     pname = "lefebsy-vskubi-lite";
-    version = "1.4.7";
+    version = "1.4.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.7/file/lefebsy.vskubi-lite-1.4.7.vsix";
-      sha256 = "sha256-mmZv73DswbOG6EUJf53lc4CrXtpVBwrM56oaT7Vvafk=";
+      url = "https://open-vsx.org/api/lefebsy/vskubi-lite/1.4.8/file/lefebsy.vskubi-lite-1.4.8.vsix";
+      sha256 = "sha256-WPWFJudlUuBtRR74QloYEUYUdwVWDS8KOdoCEOFJJwo=";
     };
     license = "MIT";
     name = "vskubi-lite";
@@ -14307,10 +14307,10 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/2.2.0/file/mvllow.rose-pine-2.2.0.vsix";
-      sha256 = "sha256-L/uCe7aqVKWXcmtLqdtGI2B0K3E/GrklgIQxa8LOb1o=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.2.1/file/mvllow.rose-pine-2.2.1.vsix";
+      sha256 = "sha256-hFxAm0wXwVV6W5dxTfwtFHy7KRRxNcCA3h1t5LdpZ/Y=";
     };
     license = "MIT";
     name = "rose-pine";
@@ -18723,10 +18723,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.15.1";
+    version = "0.15.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.1/file/tamasfe.even-better-toml-0.15.1.vsix";
-      sha256 = "sha256-JivLiTn4JnhRaTX/MHOETaKvds6/r8GGHYN5O2BpSBs=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.15.2/file/tamasfe.even-better-toml-0.15.2.vsix";
+      sha256 = "sha256-jNjguvL3nFEHM0EPhpd5kiOhYA9oNi28Jd2QfAJ6Q7w=";
     };
     license = "MIT";
     name = "even-better-toml";
