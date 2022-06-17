@@ -365,13 +365,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "230ff1a110752be29b21f33a46bf5a5055d58cc9";
+    version = "e3adc295e25835331c528a3da7e9cdf43ea32181";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "230ff1a110752be29b21f33a46bf5a5055d58cc9";
+      rev = "e3adc295e25835331c528a3da7e9cdf43ea32181";
       fetchSubmodules = false;
-      sha256 = "sha256-K3kZB1R2mT0hKqewg1nycBBtEgWqy8tKtSzFz5SZoxQ=";
+      sha256 = "sha256-cxEZq7MH/MteZ/yoGnWHcVjY/0CfC0JoGv8GNzpIy5c=";
     });
   };
   flyingfox = {
@@ -426,13 +426,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "837d4af8f6b282ecac42a8228aaa527bc19fb989";
+    version = "f428604b6fd97d94fbce0943be0c2d4fd5cb7158";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "837d4af8f6b282ecac42a8228aaa527bc19fb989";
+      rev = "f428604b6fd97d94fbce0943be0c2d4fd5cb7158";
       fetchSubmodules = false;
-      sha256 = "sha256-yl+f6IS0RmbVaR6if70K85eETjYtZVWC0BklHn02RtQ=";
+      sha256 = "sha256-2Mzrl6FWL6w5w7zVD9MTdFy5lY6QLaEkNZ1x7Y2trW4=";
     });
   };
   ibus = {
@@ -840,13 +840,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f24ced37e82a27710496bb30f42e4da269d2678e";
+    version = "244ace9c9de139cfd6e73fbc3a442369173765f3";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f24ced37e82a27710496bb30f42e4da269d2678e";
+      rev = "244ace9c9de139cfd6e73fbc3a442369173765f3";
       fetchSubmodules = false;
-      sha256 = "sha256-geTvhZoJLn2GzI1W9YQjhpKofDOWgD4lX5brbQJ4hS8=";
+      sha256 = "sha256-JqgidGXS9wl+99s0GV8/mELz6arNhhIKEcLJPshJchA=";
     });
   };
   rofi-wayland = {
@@ -1241,13 +1241,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "fe9c5a11a199c966b32f6b7327136782544b845e";
+    version = "13e8307791bbd549cc882b4e368032ad8f53536d";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "fe9c5a11a199c966b32f6b7327136782544b845e";
+      rev = "13e8307791bbd549cc882b4e368032ad8f53536d";
       fetchSubmodules = false;
-      sha256 = "sha256-b4hgu2HhAmKOXYw/S6pNESuTp2TKDQsw3K9MwAh8vWs=";
+      sha256 = "sha256-vz7ow6BTmCwawHgjZ0itk8u9OfTqgpeChZKLfkQ1Uic=";
     });
   };
   xdg-desktop-portal-gtk = {
