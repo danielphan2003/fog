@@ -2811,10 +2811,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "1.6.1";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.6.1/file/PrateekMahendrakar.prettyxml-1.6.1.vsix";
-      sha256 = "sha256-O9IJJUg3Ewc6N1duK3BzhU4e9nWD6q0UELC4M4I4PU0=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.0.0/file/PrateekMahendrakar.prettyxml-2.0.0.vsix";
+      sha256 = "sha256-77OEaAKE2lZAGg+Umh0dtvARehtndIHNPB/wxHwJ2GQ=";
     };
     license = "MIT";
     name = "prettyxml";
@@ -3243,10 +3243,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.1518";
+    version = "2022.6.1621";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1518/file/Slint.slint-nightly-2022.6.1518.vsix";
-      sha256 = "sha256-PaJlYb7Ml4PbMEkEr0BMHehhlMqR95vesRoWM63Tse8=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1621/file/Slint.slint-nightly-2022.6.1621.vsix";
+      sha256 = "sha256-QdnNq09HAiNXFliBgyvzGoxN9ICrZ2sGBWB+3RflIFw=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";

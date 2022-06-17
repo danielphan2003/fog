@@ -4458,11 +4458,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-O9IJJUg3Ewc6N1duK3BzhU4e9nWD6q0UELC4M4I4PU0=",
+            "sha256": "sha256-77OEaAKE2lZAGg+Umh0dtvARehtndIHNPB/wxHwJ2GQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/1.6.1/file/PrateekMahendrakar.prettyxml-1.6.1.vsix"
+            "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.0.0/file/PrateekMahendrakar.prettyxml-2.0.0.vsix"
         },
-        "version": "1.6.1"
+        "version": "2.0.0"
     },
     "PrateekMahendrakar-resxpress": {
         "cargoLocks": null,
@@ -5142,11 +5142,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PaJlYb7Ml4PbMEkEr0BMHehhlMqR95vesRoWM63Tse8=",
+            "sha256": "sha256-QdnNq09HAiNXFliBgyvzGoxN9ICrZ2sGBWB+3RflIFw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1518/file/Slint.slint-nightly-2022.6.1518.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1621/file/Slint.slint-nightly-2022.6.1621.vsix"
         },
-        "version": "2022.6.1518"
+        "version": "2022.6.1621"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
