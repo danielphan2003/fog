@@ -29557,11 +29557,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1rbOt2E7YsKNP2swxusOlBKZeJt4FfFpVKirD7Pb1tA=",
+            "sha256": "sha256-rORdge/mCTg+baepl1j3FYUS+Tf9SbZPq4OAh9JsbGA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.6/file/t-codespaces.ide-data-sync-0.0.6.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.9/file/t-codespaces.ide-data-sync-0.0.9.vsix"
         },
-        "version": "0.0.6"
+        "version": "0.0.9"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,
