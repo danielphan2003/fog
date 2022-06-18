@@ -1413,11 +1413,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "838e5117d04d35059bad1fcf8b6f613048d383df",
-            "sha256": "sha256-Y/bbVyKGyAUeFPsvTq9m2BsdbZxNpKW59E4cYuLm7Ss=",
+            "rev": "1dc748113999713668348170d694a82598b14707",
+            "sha256": "sha256-UrV8psJhQZ6BqQax1ZO5cPaRFigmwYVISdsmzvdqO84=",
             "type": "github"
         },
-        "version": "838e5117d04d35059bad1fcf8b6f613048d383df"
+        "version": "1dc748113999713668348170d694a82598b14707"
     },
     "rofi-wayland": {
         "cargoLocks": null,
