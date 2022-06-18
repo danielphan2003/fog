@@ -5977,6 +5977,18 @@
     description = "Test extension";
     publisher = "bmo-test";
   };
+  bodak-fluorescence = {
+    pname = "bodak-fluorescence";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bodak/fluorescence/1.0.2/file/bodak.fluorescence-1.0.2.vsix";
+      sha256 = "sha256-WWWrzt/V1X9jy3XAi9G4XZMTUbcTdE5SM4mzCnfDXIs=";
+    };
+    license = "MIT";
+    name = "fluorescence";
+    description = "";
+    publisher = "bodak";
+  };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
     version = "2022.5.31";
@@ -11823,10 +11835,10 @@
   };
   koog1000-fossil = {
     pname = "koog1000-fossil";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/koog1000/fossil/0.1.2/file/koog1000.fossil-0.1.2.vsix";
-      sha256 = "sha256-MOK6Pif8MudYZ2wnk1lrCddGqEaqOA95oiZReuMi2XM=";
+      url = "https://open-vsx.org/api/koog1000/fossil/0.1.3/file/koog1000.fossil-0.1.3.vsix";
+      sha256 = "sha256-Duh1g2aMZtOrhHn3ZYCUHIJh/nhYqGEhgHblU9yOXRE=";
     };
     license = "MIT";
     name = "fossil";

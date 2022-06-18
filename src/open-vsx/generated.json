@@ -9461,6 +9461,25 @@
         },
         "version": "0.0.5"
     },
+    "bodak-fluorescence": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "bodak-fluorescence",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "fluorescence",
+            "publisher": "bodak"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-WWWrzt/V1X9jy3XAi9G4XZMTUbcTdE5SM4mzCnfDXIs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/bodak/fluorescence/1.0.2/file/bodak.fluorescence-1.0.2.vsix"
+        },
+        "version": "1.0.2"
+    },
     "borkdude-clj-kondo": {
         "cargoLocks": null,
         "extract": null,
@@ -18727,11 +18746,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MOK6Pif8MudYZ2wnk1lrCddGqEaqOA95oiZReuMi2XM=",
+            "sha256": "sha256-Duh1g2aMZtOrhHn3ZYCUHIJh/nhYqGEhgHblU9yOXRE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.2/file/koog1000.fossil-0.1.2.vsix"
+            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.3/file/koog1000.fossil-0.1.3.vsix"
         },
-        "version": "0.1.2"
+        "version": "0.1.3"
     },
     "korekontrol-saltstack": {
         "cargoLocks": null,
