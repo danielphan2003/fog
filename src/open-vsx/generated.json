@@ -13369,11 +13369,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VhMP5iTiJgnk6SxGuvwJkjrbLK7WSWOnK6aMLVx3rno=",
+            "sha256": "sha256-TiIl4GIbLAvADJyYp5a1vVX3LfBpMRqcQ2Hff5D6/h4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.42/file/everscale.solidity-support-1.3.42.vsix"
+            "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.43/file/everscale.solidity-support-1.3.43.vsix"
         },
-        "version": "1.3.42"
+        "version": "1.3.43"
     },
     "evgeniypeshkov-syntax-highlighter": {
         "cargoLocks": null,
@@ -13792,6 +13792,25 @@
             "url": "https://open-vsx.org/api/filiptronicek/open-in-gitpod/1.0.0/file/filiptronicek.open-in-gitpod-1.0.0.vsix"
         },
         "version": "1.0.0"
+    },
+    "filtered-vscode-filtered-interview-tool": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "filtered-vscode-filtered-interview-tool",
+        "passthru": {
+            "description": "",
+            "license": "UNLICENSED",
+            "name": "filtered-interview-tool",
+            "publisher": "filtered-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-u72mogwDmprHnYAOcLHzVDml+vZltA4vFtWZpbcDlEs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.0.4/file/filtered-vscode.filtered-interview-tool-0.0.4.vsix"
+        },
+        "version": "0.0.4"
     },
     "fire-fire-s-extension-pack": {
         "cargoLocks": null,

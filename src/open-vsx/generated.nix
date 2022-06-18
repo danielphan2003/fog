@@ -8439,10 +8439,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.42";
+    version = "1.3.43";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.42/file/everscale.solidity-support-1.3.42.vsix";
-      sha256 = "sha256-VhMP5iTiJgnk6SxGuvwJkjrbLK7WSWOnK6aMLVx3rno=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.43/file/everscale.solidity-support-1.3.43.vsix";
+      sha256 = "sha256-TiIl4GIbLAvADJyYp5a1vVX3LfBpMRqcQ2Hff5D6/h4=";
     };
     license = "Apache-2.0";
     name = "solidity-support";
@@ -8712,6 +8712,18 @@
     name = "open-in-gitpod";
     description = "An extension for opening Gitpod from your current workspace";
     publisher = "filiptronicek";
+  };
+  filtered-vscode-filtered-interview-tool = {
+    pname = "filtered-vscode-filtered-interview-tool";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.0.4/file/filtered-vscode.filtered-interview-tool-0.0.4.vsix";
+      sha256 = "sha256-u72mogwDmprHnYAOcLHzVDml+vZltA4vFtWZpbcDlEs=";
+    };
+    license = "UNLICENSED";
+    name = "filtered-interview-tool";
+    description = "";
+    publisher = "filtered-vscode";
   };
   fire-fire-s-extension-pack = {
     pname = "fire-fire-s-extension-pack";
