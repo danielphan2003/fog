@@ -8439,10 +8439,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.41";
+    version = "1.3.42";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.41/file/everscale.solidity-support-1.3.41.vsix";
-      sha256 = "sha256-WHfexMHnvnq8urlLzciZRtABUb2EkJu7aTHPses94UE=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.42/file/everscale.solidity-support-1.3.42.vsix";
+      sha256 = "sha256-VhMP5iTiJgnk6SxGuvwJkjrbLK7WSWOnK6aMLVx3rno=";
     };
     license = "Apache-2.0";
     name = "solidity-support";
