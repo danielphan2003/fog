@@ -5180,11 +5180,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-K6KJ4tm+GKLgZ2aXzVvpYw3p4i4NtIuQJBIP+9tacdk=",
+            "sha256": "sha256-gMFngbpOrVBpOLS9oFkJmSc/0nvxT6L/UM3aH9Zw+qk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.1/file/Snickerdoodle.snickerdoodle-light-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.3/file/Snickerdoodle.snickerdoodle-light-0.0.3.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.3"
     },
     "SonarSource-sonarlint-vscode": {
         "cargoLocks": null,

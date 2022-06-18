@@ -3267,10 +3267,10 @@
   };
   Snickerdoodle-snickerdoodle-light = {
     pname = "Snickerdoodle-snickerdoodle-light";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.1/file/Snickerdoodle.snickerdoodle-light-0.0.1.vsix";
-      sha256 = "sha256-K6KJ4tm+GKLgZ2aXzVvpYw3p4i4NtIuQJBIP+9tacdk=";
+      url = "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.3/file/Snickerdoodle.snickerdoodle-light-0.0.3.vsix";
+      sha256 = "sha256-gMFngbpOrVBpOLS9oFkJmSc/0nvxT6L/UM3aH9Zw+qk=";
     };
     license = "MIT";
     name = "snickerdoodle-light";
