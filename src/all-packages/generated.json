@@ -380,7 +380,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-e70cff196b9d05d43eacbf1b6763a81ecbbbefb4/Cargo.lock",
+                "./conduit-f8547ecba4502c1070fdba66b3ab7272a3c2da71/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -397,12 +397,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e70cff196b9d05d43eacbf1b6763a81ecbbbefb4",
-            "sha256": "sha256-fZ4y5/9a8HDRhU/gI35RHBDq09AnnyFbxagcOMCvhPM=",
+            "rev": "f8547ecba4502c1070fdba66b3ab7272a3c2da71",
+            "sha256": "sha256-yY4qdsKtOJsGIzOllueVnI0BASNdO8sDYPZUxs5F31Y=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "e70cff196b9d05d43eacbf1b6763a81ecbbbefb4"
+        "version": "f8547ecba4502c1070fdba66b3ab7272a3c2da71"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1599,12 +1599,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f0bfd13b73dc4fdc76a35083b08299a7267c0e10",
-            "sha256": "sha256-4ffkLAvUzXmSo9LdN/GUP1WVyQ0YyAEbi1ULiI++KqA=",
+            "rev": "b85a3df5d594604cab9e1f9076099fed07b2f3da",
+            "sha256": "sha256-N39istaLI5ihvyaaqtj2XgwNAuaznK4tO4md4ZD0BVg=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "f0bfd13b73dc4fdc76a35083b08299a7267c0e10"
+        "version": "b85a3df5d594604cab9e1f9076099fed07b2f3da"
     },
     "spicetify-cli": {
         "cargoLocks": null,

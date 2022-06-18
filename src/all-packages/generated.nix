@@ -229,17 +229,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "e70cff196b9d05d43eacbf1b6763a81ecbbbefb4";
+    version = "f8547ecba4502c1070fdba66b3ab7272a3c2da71";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "e70cff196b9d05d43eacbf1b6763a81ecbbbefb4";
+      rev = "f8547ecba4502c1070fdba66b3ab7272a3c2da71";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-fZ4y5/9a8HDRhU/gI35RHBDq09AnnyFbxagcOMCvhPM=";
+      sha256 = "sha256-yY4qdsKtOJsGIzOllueVnI0BASNdO8sDYPZUxs5F31Y=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-e70cff196b9d05d43eacbf1b6763a81ecbbbefb4/Cargo.lock;
+      lockFile = ./conduit-f8547ecba4502c1070fdba66b3ab7272a3c2da71/Cargo.lock;
       outputHashes = {
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -953,14 +953,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f0bfd13b73dc4fdc76a35083b08299a7267c0e10";
+    version = "b85a3df5d594604cab9e1f9076099fed07b2f3da";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f0bfd13b73dc4fdc76a35083b08299a7267c0e10";
+      rev = "b85a3df5d594604cab9e1f9076099fed07b2f3da";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4ffkLAvUzXmSo9LdN/GUP1WVyQ0YyAEbi1ULiI++KqA=";
+      sha256 = "sha256-N39istaLI5ihvyaaqtj2XgwNAuaznK4tO4md4ZD0BVg=";
     };
   };
   spicetify-cli = {
