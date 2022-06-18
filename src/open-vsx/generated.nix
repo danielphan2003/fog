@@ -2751,10 +2751,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.35.0";
+    version = "1.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.35.0/file/Pivotal.vscode-bosh-1.35.0.vsix";
-      sha256 = "sha256-zBsh9ZjkdaX0crXbJ2zeqdFiPELaF7mkt0ZgddFFL7o=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.36.0/file/Pivotal.vscode-bosh-1.36.0.vsix";
+      sha256 = "sha256-HUlhWJ4GbZcifepC64t+4Ap593Cg1ZpN3JSZbvKEjS8=";
     };
     license = "EPL-1.0";
     name = "vscode-bosh";
@@ -2763,10 +2763,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.35.0";
+    version = "1.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.35.0/file/Pivotal.vscode-concourse-1.35.0.vsix";
-      sha256 = "sha256-ZJNfdgqDzI7Q/AABXWMwuYirSV4HNgt5l/6X/uRcZ/Y=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.36.0/file/Pivotal.vscode-concourse-1.36.0.vsix";
+      sha256 = "sha256-rJRrYCIHB+7aZ3+LbEQmmFuMjgZdrFdYZ1fhXcaSYlU=";
     };
     license = "EPL-1.0";
     name = "vscode-concourse";
@@ -2775,10 +2775,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.35.0";
+    version = "1.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.35.0/file/Pivotal.vscode-manifest-yaml-1.35.0.vsix";
-      sha256 = "sha256-6bR4gppc0iD4lILZ501425Cc3wb1VfaVG6UXyt/ywDc=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.36.0/file/Pivotal.vscode-manifest-yaml-1.36.0.vsix";
+      sha256 = "sha256-+HHuEs+AtyUCwZ6i5y9e8fJE64EoiCFMGYCHK+MIkzQ=";
     };
     license = "EPL-1.0";
     name = "vscode-manifest-yaml";
@@ -3243,10 +3243,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.1621";
+    version = "2022.6.1718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1621/file/Slint.slint-nightly-2022.6.1621.vsix";
-      sha256 = "sha256-QdnNq09HAiNXFliBgyvzGoxN9ICrZ2sGBWB+3RflIFw=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1718/file/Slint.slint-nightly-2022.6.1718.vsix";
+      sha256 = "sha256-OnI3vNSD0ouvD71kFx4keE5k6ot+Q3VzSf4HEy99zI0=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";

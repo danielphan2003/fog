@@ -4363,11 +4363,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zBsh9ZjkdaX0crXbJ2zeqdFiPELaF7mkt0ZgddFFL7o=",
+            "sha256": "sha256-HUlhWJ4GbZcifepC64t+4Ap593Cg1ZpN3JSZbvKEjS8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.35.0/file/Pivotal.vscode-bosh-1.35.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.36.0/file/Pivotal.vscode-bosh-1.36.0.vsix"
         },
-        "version": "1.35.0"
+        "version": "1.36.0"
     },
     "Pivotal-vscode-concourse": {
         "cargoLocks": null,
@@ -4382,11 +4382,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZJNfdgqDzI7Q/AABXWMwuYirSV4HNgt5l/6X/uRcZ/Y=",
+            "sha256": "sha256-rJRrYCIHB+7aZ3+LbEQmmFuMjgZdrFdYZ1fhXcaSYlU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.35.0/file/Pivotal.vscode-concourse-1.35.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.36.0/file/Pivotal.vscode-concourse-1.36.0.vsix"
         },
-        "version": "1.35.0"
+        "version": "1.36.0"
     },
     "Pivotal-vscode-manifest-yaml": {
         "cargoLocks": null,
@@ -4401,11 +4401,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6bR4gppc0iD4lILZ501425Cc3wb1VfaVG6UXyt/ywDc=",
+            "sha256": "sha256-+HHuEs+AtyUCwZ6i5y9e8fJE64EoiCFMGYCHK+MIkzQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.35.0/file/Pivotal.vscode-manifest-yaml-1.35.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.36.0/file/Pivotal.vscode-manifest-yaml-1.36.0.vsix"
         },
-        "version": "1.35.0"
+        "version": "1.36.0"
     },
     "Pivotal-vscode-spring-boot": {
         "cargoLocks": null,
@@ -5142,11 +5142,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QdnNq09HAiNXFliBgyvzGoxN9ICrZ2sGBWB+3RflIFw=",
+            "sha256": "sha256-OnI3vNSD0ouvD71kFx4keE5k6ot+Q3VzSf4HEy99zI0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1621/file/Slint.slint-nightly-2022.6.1621.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1718/file/Slint.slint-nightly-2022.6.1718.vsix"
         },
-        "version": "2022.6.1621"
+        "version": "2022.6.1718"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
