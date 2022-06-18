@@ -13825,11 +13825,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u72mogwDmprHnYAOcLHzVDml+vZltA4vFtWZpbcDlEs=",
+            "sha256": "sha256-TZAuuwUdcoC1OyLrSkM17t9xTACJsHODVCsZZ6FwKN4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.0.4/file/filtered-vscode.filtered-interview-tool-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.0.7/file/filtered-vscode.filtered-interview-tool-0.0.7.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.7"
     },
     "fire-fire-s-extension-pack": {
         "cargoLocks": null,
