@@ -2787,10 +2787,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.35.0";
+    version = "1.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.35.0/file/Pivotal.vscode-spring-boot-1.35.0.vsix";
-      sha256 = "sha256-fKjCBT+iRJa9mxH0nn3SODJLgGJQ3OFp83q6aLNIDWI=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.36.0/file/Pivotal.vscode-spring-boot-1.36.0.vsix";
+      sha256 = "sha256-nU2ZX72XaR8YUxswfXZCMiPG++ZeMazV5wMsK5TMJbA=";
     };
     license = "EPL-1.0";
     name = "vscode-spring-boot";
@@ -7575,10 +7575,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.99.3";
+    version = "0.99.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.99.3/file/dendron.nightly-0.99.3.vsix";
-      sha256 = "sha256-FGQKoDN2dujOMBK2mC3Nv3YOeIu58InuNtyOXLTGAao=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.99.4/file/dendron.nightly-0.99.4.vsix";
+      sha256 = "sha256-Tdluqka/YI1udJpvjDJxgXR5576jasV4iUsQKAVE/Ls=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -16719,10 +16719,10 @@
   };
   robert-brunhage-flutter-riverpod-snippets = {
     pname = "robert-brunhage-flutter-riverpod-snippets";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robert-brunhage/flutter-riverpod-snippets/1.1.0/file/robert-brunhage.flutter-riverpod-snippets-1.1.0.vsix";
-      sha256 = "sha256-bpvSIr6jk8irj0JlEWuuOu88fIv2wzLjAPASw6H+Mss=";
+      url = "https://open-vsx.org/api/robert-brunhage/flutter-riverpod-snippets/1.1.1/file/robert-brunhage.flutter-riverpod-snippets-1.1.1.vsix";
+      sha256 = "sha256-XoRcpX7vqek5kWroFgaHGQZB+U3pzQ3DGaQg2Bg3rO8=";
     };
     license = "MIT";
     name = "flutter-riverpod-snippets";
