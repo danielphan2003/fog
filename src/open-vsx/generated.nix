@@ -17583,10 +17583,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.15.0";
+    version = "0.15.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.0/file/shufo.vscode-blade-formatter-0.15.0.vsix";
-      sha256 = "sha256-nOSR47ajquERrqStF1yZaknCbht/eY+/BTZxkXqOx44=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.2/file/shufo.vscode-blade-formatter-0.15.2.vsix";
+      sha256 = "sha256-ClKwdhymPjDIZqrFT8290zoh+z0vmf+0ggjRZBCj7ZI=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -22275,10 +22275,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.61";
+    version = "0.0.62";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.61/file/zardoy.zardoy-experiments-0.0.61.vsix";
-      sha256 = "sha256-W7OG2IZ5eHAFAE6CPRZuHbRXuUf+RQJl9aQ7mNigbqc=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.62/file/zardoy.zardoy-experiments-0.0.62.vsix";
+      sha256 = "sha256-IM4DZxyzgLr5zax0VuuzvtHuu7tT8FXfs+DZ/LoWIWw=";
     };
     license = "MIT";
     name = "zardoy-experiments";
