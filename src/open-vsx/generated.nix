@@ -3099,10 +3099,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.32";
+    version = "3.3.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.32/file/SPGoding.datapack-language-server-3.3.32.vsix";
-      sha256 = "sha256-i2z7P/YLes3mV33ldr2JM5Cwgsp+ZIvmg3M6YDU+tuk=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.33/file/SPGoding.datapack-language-server-3.3.33.vsix";
+      sha256 = "sha256-hb+fGufDSscSziCmAbPzdysTX1aISZOZVhvvhfEP7Cs=";
     };
     license = "MIT";
     name = "datapack-language-server";
@@ -13563,10 +13563,10 @@
   };
   ms-kubernetes-tools-vscode-kubernetes-tools = {
     pname = "ms-kubernetes-tools-vscode-kubernetes-tools";
-    version = "1.3.9";
+    version = "1.3.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.9/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.9.vsix";
-      sha256 = "sha256-wcnVaJmRDLtTWaSujzBkOOCTwEM+6bENLNx4pM6Qbfo=";
+      url = "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.10/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.10.vsix";
+      sha256 = "sha256-Km5CJqBAT6UBRFfhrGUKmx/ZUBA+Jd/kN6Pqu19luks=";
     };
     license = "MIT";
     name = "vscode-kubernetes-tools";

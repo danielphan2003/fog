@@ -4914,11 +4914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i2z7P/YLes3mV33ldr2JM5Cwgsp+ZIvmg3M6YDU+tuk=",
+            "sha256": "sha256-hb+fGufDSscSziCmAbPzdysTX1aISZOZVhvvhfEP7Cs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.32/file/SPGoding.datapack-language-server-3.3.32.vsix"
+            "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.33/file/SPGoding.datapack-language-server-3.3.33.vsix"
         },
-        "version": "3.3.32"
+        "version": "3.3.33"
     },
     "STNE-stnescript-support": {
         "cargoLocks": null,
@@ -21482,11 +21482,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wcnVaJmRDLtTWaSujzBkOOCTwEM+6bENLNx4pM6Qbfo=",
+            "sha256": "sha256-Km5CJqBAT6UBRFfhrGUKmx/ZUBA+Jd/kN6Pqu19luks=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.9/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.9.vsix"
+            "url": "https://open-vsx.org/api/ms-kubernetes-tools/vscode-kubernetes-tools/1.3.10/file/ms-kubernetes-tools.vscode-kubernetes-tools-1.3.10.vsix"
         },
-        "version": "1.3.9"
+        "version": "1.3.10"
     },
     "ms-mssql-mssql": {
         "cargoLocks": null,
