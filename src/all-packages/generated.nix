@@ -229,17 +229,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "2ecbcdda4248ef3d77bae158f964ffcb4b4c762a";
+    version = "9ee199b0c3562b71d19067746bd122c333443ebf";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "2ecbcdda4248ef3d77bae158f964ffcb4b4c762a";
+      rev = "9ee199b0c3562b71d19067746bd122c333443ebf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8pKE91F43Nmk6hrrhnEuC1Ly34cX5sBIKCH/MKsDJso=";
+      sha256 = "sha256-kKAEzlbUGyKEOF+ElzYly2YNDBXl9UBRyC7ylpYn5lk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-2ecbcdda4248ef3d77bae158f964ffcb4b4c762a/Cargo.lock;
+      lockFile = ./conduit-9ee199b0c3562b71d19067746bd122c333443ebf/Cargo.lock;
       outputHashes = {
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -840,13 +840,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e954a69708101979e0ce474d63b4697987842dbd";
+    version = "a0bfdcce3be3eb779121d72ad6c814094959d5ed";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e954a69708101979e0ce474d63b4697987842dbd";
+      rev = "a0bfdcce3be3eb779121d72ad6c814094959d5ed";
       fetchSubmodules = false;
-      sha256 = "sha256-IHh9FtNlCjHKnAdw9ZHV2kyvbwNO1ZZJkdubSjN1ydU=";
+      sha256 = "sha256-jd2P9LsF2TaHn25dAWItuIAmaV+ZOcLYVDg7kj+yaWo=";
     });
   };
   rofi-wayland = {
@@ -1101,13 +1101,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "899efe50cf74e726f0c7e934820f6ac26490cab1";
+    version = "e3d5d68ec2dfd702cac1ab95d47118e48d5e24a5";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "899efe50cf74e726f0c7e934820f6ac26490cab1";
+      rev = "e3d5d68ec2dfd702cac1ab95d47118e48d5e24a5";
       fetchSubmodules = false;
-      sha256 = "sha256-5ygZuLn3w3f5PDpPpVUeQ/+8Ju+DqWUAa4fPxoITjnA=";
+      sha256 = "sha256-ABK3Tr/X7u9s4eS8tEdIHTLrqvWR3M2OOZs+R/BK8Cg=";
     });
   };
   ultimmc = {
