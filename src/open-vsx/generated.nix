@@ -8727,10 +8727,10 @@
   };
   filtered-vscode-filtered-interview-tool = {
     pname = "filtered-vscode-filtered-interview-tool";
-    version = "0.0.7";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.0.7/file/filtered-vscode.filtered-interview-tool-0.0.7.vsix";
-      sha256 = "sha256-TZAuuwUdcoC1OyLrSkM17t9xTACJsHODVCsZZ6FwKN4=";
+      url = "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.1.1/file/filtered-vscode.filtered-interview-tool-0.1.1.vsix";
+      sha256 = "sha256-IJ6ayR+H+sNuhYI9EpSE0fEQKGf3gBC5Bx6vYvCIsa0=";
     };
     license = "UNLICENSED";
     name = "filtered-interview-tool";
