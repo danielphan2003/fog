@@ -11703,10 +11703,10 @@
   };
   kleinesfilmroellchen-serenity-dsl-syntaxhighlight = {
     pname = "kleinesfilmroellchen-serenity-dsl-syntaxhighlight";
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.1.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.1.1.vsix";
-      sha256 = "sha256-mERPCCEKRlpKSLL7+33unlT1JAqvCYY5Xo9YtC1x25w=";
+      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.2.0/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.2.0.vsix";
+      sha256 = "sha256-AscqiKzFBiotDq9+owKZrUokMJHjxVROnfmPoBchvV8=";
     };
     license = "MIT";
     name = "serenity-dsl-syntaxhighlight";
