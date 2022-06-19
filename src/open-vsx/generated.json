@@ -5142,11 +5142,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OnI3vNSD0ouvD71kFx4keE5k6ot+Q3VzSf4HEy99zI0=",
+            "sha256": "sha256-WkM+mRpbt8eUPPWWG2nYvr/waN8nVGUVS1rMqOCTAWw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1718/file/Slint.slint-nightly-2022.6.1718.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1822/file/Slint.slint-nightly-2022.6.1822.vsix"
         },
-        "version": "2022.6.1718"
+        "version": "2022.6.1822"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
