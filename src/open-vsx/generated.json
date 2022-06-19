@@ -7954,11 +7954,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ghx+IHVrlQAKTCpM62XXZUzg04pRBXDSD2MMt7YiD7o=",
+            "sha256": "sha256-B5AM0S1mp8mmL9eEOI+FOPs9RlhisSNP4TgWG6hcICA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.4.2/file/anweber.vscode-httpyac-5.4.2.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.0/file/anweber.vscode-httpyac-5.5.0.vsix"
         },
-        "version": "5.4.2"
+        "version": "5.5.0"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
