@@ -6130,11 +6130,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G3vdqKtXzmToibnBsuoLySPeLprHlLfPV29BkwZalVg=",
+            "sha256": "sha256-ESPNwGng/dxHbiVRzc+oFoYMEnqlw1AMKqEjzR0mW1c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.10.4/file/YXL.cloudmusic-9.10.4.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.10.5/file/YXL.cloudmusic-9.10.5.vsix"
         },
-        "version": "9.10.4"
+        "version": "9.10.5"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
