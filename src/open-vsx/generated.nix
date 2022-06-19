@@ -18687,10 +18687,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.18/file/t-codespaces.ide-data-sync-0.0.18.vsix";
-      sha256 = "sha256-geLLgmQEtdcFTV/RXTgRiW4WCgVYrEjK/Aw4AJyckps=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.19/file/t-codespaces.ide-data-sync-0.0.19.vsix";
+      sha256 = "sha256-0siHkqvFWIJ9184Ktp9dwBprjfhN0G+LKm2UiHaI+8Q=";
     };
     license = "";
     name = "ide-data-sync";
