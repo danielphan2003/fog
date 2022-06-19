@@ -471,11 +471,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "7177a0ec744ad5f6faeb69cf278fe99473350d71",
-            "sha256": "sha256-fBSp6wj2/R4zNaep8d21UflpVtSwiaxwcYU1AXc2olo=",
+            "rev": "8c43118b03ef74f6d8301bfd16381257ab3ab7ce",
+            "sha256": "sha256-Liircnsx4otqGssWvNfxEfLLxLGYTCrAKJSZhHvq0Gs=",
             "type": "github"
         },
-        "version": "7177a0ec744ad5f6faeb69cf278fe99473350d71"
+        "version": "8c43118b03ef74f6d8301bfd16381257ab3ab7ce"
     },
     "doggo": {
         "cargoLocks": null,
