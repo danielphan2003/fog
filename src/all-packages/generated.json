@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "750fd368dd248a67e509a9649bcf5edbb19009d5",
-            "sha256": "sha256-/WzqArgFUAo6jvXGrDx5VncwY6OflvwH1UWExrY6NCo=",
+            "rev": "26cde4d5d6ed8774b466513cd0f0bc6128d3d625",
+            "sha256": "sha256-d/KZHdRcS9vTlRW35VnnAU6FI/ynv1aZ/1F4EqeNxN4=",
             "type": "github"
         },
-        "version": "750fd368dd248a67e509a9649bcf5edbb19009d5"
+        "version": "26cde4d5d6ed8774b466513cd0f0bc6128d3d625"
     },
     "caddy": {
         "cargoLocks": null,
