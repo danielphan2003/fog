@@ -17703,10 +17703,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.0/file/signageos.signageos-vscode-sops-beta-0.6.0.vsix";
-      sha256 = "sha256-SnBzRUXMJLjmWofBfPl14j0r7NWol/Lbn4x8TCp6V9w=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.1/file/signageos.signageos-vscode-sops-beta-0.6.1.vsix";
+      sha256 = "sha256-z+OhIqSP0AffNKje7oVNFn6IcMvNyegqaZlk6fejFKg=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -18687,10 +18687,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.13";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.13/file/t-codespaces.ide-data-sync-0.0.13.vsix";
-      sha256 = "sha256-OoJcms1Oc4bAQQVPojU0tugMQpz/NhtqCaxPbpc4pQA=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.18/file/t-codespaces.ide-data-sync-0.0.18.vsix";
+      sha256 = "sha256-geLLgmQEtdcFTV/RXTgRiW4WCgVYrEjK/Aw4AJyckps=";
     };
     license = "";
     name = "ide-data-sync";
@@ -22251,10 +22251,10 @@
   };
   zardoy-ts-essential-plugins = {
     pname = "zardoy-ts-essential-plugins";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.7/file/zardoy.ts-essential-plugins-0.0.7.vsix";
-      sha256 = "sha256-GeyLrTDLKJPPg6YrqGJ89/uTPnsSWr5BJ3Mg92AcLds=";
+      url = "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.8/file/zardoy.ts-essential-plugins-0.0.8.vsix";
+      sha256 = "sha256-kOLyVZ5tmEN1XHU9gj+K7ekghaN92Y1E8jXwUTNr6O4=";
     };
     license = "MIT";
     name = "ts-essential-plugins";
@@ -22299,10 +22299,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.62";
+    version = "0.0.63";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.62/file/zardoy.zardoy-experiments-0.0.62.vsix";
-      sha256 = "sha256-IM4DZxyzgLr5zax0VuuzvtHuu7tT8FXfs+DZ/LoWIWw=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.63/file/zardoy.zardoy-experiments-0.0.63.vsix";
+      sha256 = "sha256-b0MLQd/ActaJQZl0MUnqaOHx4+1oCMARB4egOSPX+00=";
     };
     license = "MIT";
     name = "zardoy-experiments";
