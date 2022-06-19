@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1058";
+    version = "31.0.1062";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1058/file/Prisma.prisma-insider-31.0.1058.vsix";
-      sha256 = "sha256-t51jD1IBjbsnD/z4i7y03R5As5AX4lRpXgqLzFHacAw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1062/file/Prisma.prisma-insider-31.0.1062.vsix";
+      sha256 = "sha256-Q2eE07Sd2loCPet+kJ3144hRrVgMw19byadrnvkmvGg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -17691,10 +17691,10 @@
   };
   signageos-signageos-vscode-sops = {
     pname = "signageos-signageos-vscode-sops";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.5.0/file/signageos.signageos-vscode-sops-0.5.0.vsix";
-      sha256 = "sha256-8nMWuJcBGB+A64V+ePKerZNJBIOKrrwCAbxG97FEEYU=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.0/file/signageos.signageos-vscode-sops-0.6.0.vsix";
+      sha256 = "sha256-N1XkJ8PCwzgH5yAPKYJ+f6HaOr4dkMX8pBRhUh26b2E=";
     };
     license = "MIT";
     name = "signageos-vscode-sops";
@@ -22503,10 +22503,10 @@
   };
   zobo-php-intellisense = {
     pname = "zobo-php-intellisense";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zobo/php-intellisense/1.0.8/file/zobo.php-intellisense-1.0.8.vsix";
-      sha256 = "sha256-1cgYSNKXRG+MiVbExy+MpKPevDAV+WjX3/nwurcor3k=";
+      url = "https://open-vsx.org/api/zobo/php-intellisense/1.0.9/file/zobo.php-intellisense-1.0.9.vsix";
+      sha256 = "sha256-ER/ob7lA3l3UzV8bLNA/xREYHKuv1ryFmHHaedpDxF0=";
     };
     license = "MIT";
     name = "php-intellisense";
