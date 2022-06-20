@@ -709,11 +709,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "f7bdc2e87020ea7308035bceaa2ab659af91d2de",
-            "sha256": "sha256-B1P/EDJvho3lBxqtGAXKBlPDXlF/7bLHeC+h2aTPkWc=",
+            "rev": "f5f531562bdd2e935017b5400bd3b4ae5f89b54b",
+            "sha256": "sha256-E3ZadsNwbtvoSqaMmDOpmfb8hTX/R1/VKw1e521FwD0=",
             "type": "github"
         },
-        "version": "f7bdc2e87020ea7308035bceaa2ab659af91d2de"
+        "version": "f5f531562bdd2e935017b5400bd3b4ae5f89b54b"
     },
     "ibus": {
         "cargoLocks": null,
