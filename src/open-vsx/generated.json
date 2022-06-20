@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L9j3qjrS8H1kK5dKpTTDh6jGxF39Wjc18ye24mjZWwA=",
+            "sha256": "sha256-7kNVhYiQ2T8iCbymj2MSsvCYZjaonNpZQtvs/xJpYLA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1071/file/Prisma.prisma-insider-31.0.1071.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1073/file/Prisma.prisma-insider-31.0.1073.vsix"
         },
-        "version": "31.0.1071"
+        "version": "31.0.1073"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -23344,11 +23344,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ilWX5dWS36rftUXqoi1BmP2p5FQS6HDBwK+OR1Sps1M=",
+            "sha256": "sha256-4Il/pHVDzmRC+EdlF3VaFpNxNqdMrz66jE3eO7ibSVM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nrwl/angular-console/17.18.2/file/nrwl.angular-console-17.18.2.vsix"
+            "url": "https://open-vsx.org/api/nrwl/angular-console/17.18.3/file/nrwl.angular-console-17.18.3.vsix"
         },
-        "version": "17.18.2"
+        "version": "17.18.3"
     },
     "nullxception-cherry-theme": {
         "cargoLocks": null,
@@ -28726,6 +28726,25 @@
             "url": "https://open-vsx.org/api/stefanjarina/vscode-eex-snippets/0.0.7/file/stefanjarina.vscode-eex-snippets-0.0.7.vsix"
         },
         "version": "0.0.7"
+    },
+    "steffo-steffula-code": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "steffo-steffula-code",
+        "passthru": {
+            "description": "Steffula theme for Visual Studio Code.",
+            "license": "AGPL-3.0-or-later",
+            "name": "steffula-code",
+            "publisher": "steffo"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-0SUh1pZOyPvkAn5ksc/SMUQTJcSpcL+74wlomgAnX/8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/steffo/steffula-code/0.7.0/file/steffo.steffula-code-0.7.0.vsix"
+        },
+        "version": "0.7.0"
     },
     "steoates-autoimport": {
         "cargoLocks": null,

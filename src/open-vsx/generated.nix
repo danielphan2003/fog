@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1071";
+    version = "31.0.1073";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1071/file/Prisma.prisma-insider-31.0.1071.vsix";
-      sha256 = "sha256-L9j3qjrS8H1kK5dKpTTDh6jGxF39Wjc18ye24mjZWwA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1073/file/Prisma.prisma-insider-31.0.1073.vsix";
+      sha256 = "sha256-7kNVhYiQ2T8iCbymj2MSsvCYZjaonNpZQtvs/xJpYLA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -14739,10 +14739,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.18.2";
+    version = "17.18.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.2/file/nrwl.angular-console-17.18.2.vsix";
-      sha256 = "sha256-ilWX5dWS36rftUXqoi1BmP2p5FQS6HDBwK+OR1Sps1M=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.3/file/nrwl.angular-console-17.18.3.vsix";
+      sha256 = "sha256-4Il/pHVDzmRC+EdlF3VaFpNxNqdMrz66jE3eO7ibSVM=";
     };
     license = "MIT";
     name = "angular-console";
@@ -18144,6 +18144,18 @@
     name = "vscode-eex-snippets";
     description = "Elixir EEx and HTML (EEx) code snippets.";
     publisher = "stefanjarina";
+  };
+  steffo-steffula-code = {
+    pname = "steffo-steffula-code";
+    version = "0.7.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/steffo/steffula-code/0.7.0/file/steffo.steffula-code-0.7.0.vsix";
+      sha256 = "sha256-0SUh1pZOyPvkAn5ksc/SMUQTJcSpcL+74wlomgAnX/8=";
+    };
+    license = "AGPL-3.0-or-later";
+    name = "steffula-code";
+    description = "Steffula theme for Visual Studio Code.";
+    publisher = "steffo";
   };
   steoates-autoimport = {
     pname = "steoates-autoimport";
