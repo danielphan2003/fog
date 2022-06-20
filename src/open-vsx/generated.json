@@ -29595,11 +29595,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0siHkqvFWIJ9184Ktp9dwBprjfhN0G+LKm2UiHaI+8Q=",
+            "sha256": "sha256-nNa8Dir6VMDwx0PKEwsMDQi6tCl0aA+BsY8ANKkTTjA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.19/file/t-codespaces.ide-data-sync-0.0.19.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.21/file/t-codespaces.ide-data-sync-0.0.21.vsix"
         },
-        "version": "0.0.19"
+        "version": "0.0.21"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,
