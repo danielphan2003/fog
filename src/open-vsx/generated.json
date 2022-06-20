@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Uu1Hlk5TD1vT0wIQnA4/BFO9/kVhodj+3HYsbygLbxE=",
+            "sha256": "sha256-TsXaGY/smyOw51HrnkdBWnqDAOMLdTQCSg7Uu2Wv/Gw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1066/file/Prisma.prisma-insider-31.0.1066.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1068/file/Prisma.prisma-insider-31.0.1068.vsix"
         },
-        "version": "31.0.1066"
+        "version": "31.0.1068"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -35238,11 +35238,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kOLyVZ5tmEN1XHU9gj+K7ekghaN92Y1E8jXwUTNr6O4=",
+            "sha256": "sha256-5QKOOZ8AjZE3zxrsV/azA0Y7kMQisZ6ZqPa5JugHJmA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.8/file/zardoy.ts-essential-plugins-0.0.8.vsix"
+            "url": "https://open-vsx.org/api/zardoy/ts-essential-plugins/0.0.9/file/zardoy.ts-essential-plugins-0.0.9.vsix"
         },
-        "version": "0.0.8"
+        "version": "0.0.9"
     },
     "zardoy-typescript-server-logger": {
         "cargoLocks": null,
