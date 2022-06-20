@@ -26042,11 +26042,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e2ZGFItHCKuo+qWCxJ+eQYmOTUMfQojmE/moo0jyanI=",
+            "sha256": "sha256-GGPUmLYGkjGy06efzWKXNtnq/TKQ+zogV3vjkXWOsMc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.19.0/file/redhat.vscode-extension-pmml-editor-0.19.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.20.0/file/redhat.vscode-extension-pmml-editor-0.20.0.vsix"
         },
-        "version": "0.19.0"
+        "version": "0.20.0"
     },
     "redhat-vscode-extension-red-hat-business-automation-bundle": {
         "cargoLocks": null,
@@ -26061,11 +26061,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Fcvzx5XdsRg4Bp+fqE+su3nt87SXjVkidgj0J1slnBs=",
+            "sha256": "sha256-iEywF4LBStBqP8OF5KH5YJTgXxN+furj+gDIrG4BvV4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.19.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.19.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.20.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.20.0.vsix"
         },
-        "version": "0.19.0"
+        "version": "0.20.0"
     },
     "redhat-vscode-extension-serverless-workflow-editor": {
         "cargoLocks": null,
@@ -26080,11 +26080,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q+ljQnEQW9TknWUzw7+1HVwpg3pYaKFbj3OBgZTDHec=",
+            "sha256": "sha256-t2N2yedtc/V6hi3NH4amjVMuJ9SS1cHzL7CZQsPrrN4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.19.0/file/redhat.vscode-extension-serverless-workflow-editor-0.19.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.20.0/file/redhat.vscode-extension-serverless-workflow-editor-0.20.0.vsix"
         },
-        "version": "0.19.0"
+        "version": "0.20.0"
     },
     "redhat-vscode-microprofile": {
         "cargoLocks": null,

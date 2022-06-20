@@ -16443,10 +16443,10 @@
   };
   redhat-vscode-extension-pmml-editor = {
     pname = "redhat-vscode-extension-pmml-editor";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.19.0/file/redhat.vscode-extension-pmml-editor-0.19.0.vsix";
-      sha256 = "sha256-e2ZGFItHCKuo+qWCxJ+eQYmOTUMfQojmE/moo0jyanI=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.20.0/file/redhat.vscode-extension-pmml-editor-0.20.0.vsix";
+      sha256 = "sha256-GGPUmLYGkjGy06efzWKXNtnq/TKQ+zogV3vjkXWOsMc=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-pmml-editor";
@@ -16455,10 +16455,10 @@
   };
   redhat-vscode-extension-red-hat-business-automation-bundle = {
     pname = "redhat-vscode-extension-red-hat-business-automation-bundle";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.19.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.19.0.vsix";
-      sha256 = "sha256-Fcvzx5XdsRg4Bp+fqE+su3nt87SXjVkidgj0J1slnBs=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.20.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.20.0.vsix";
+      sha256 = "sha256-iEywF4LBStBqP8OF5KH5YJTgXxN+furj+gDIrG4BvV4=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-red-hat-business-automation-bundle";
@@ -16467,10 +16467,10 @@
   };
   redhat-vscode-extension-serverless-workflow-editor = {
     pname = "redhat-vscode-extension-serverless-workflow-editor";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.19.0/file/redhat.vscode-extension-serverless-workflow-editor-0.19.0.vsix";
-      sha256 = "sha256-Q+ljQnEQW9TknWUzw7+1HVwpg3pYaKFbj3OBgZTDHec=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.20.0/file/redhat.vscode-extension-serverless-workflow-editor-0.20.0.vsix";
+      sha256 = "sha256-t2N2yedtc/V6hi3NH4amjVMuJ9SS1cHzL7CZQsPrrN4=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-serverless-workflow-editor";
