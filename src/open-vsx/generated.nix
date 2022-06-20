@@ -15687,10 +15687,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.355";
+    version = "0.26.356";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.355/file/pokey.cursorless-0.26.355.vsix";
-      sha256 = "sha256-59ehdi1x/ouuwyr/+mXyDBA84fh8fXwuLp7SVEkqSiI=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.356/file/pokey.cursorless-0.26.356.vsix";
+      sha256 = "sha256-MxJzi47eeObMJVJIeAV8dMASdh9DfN76VIzpT1cjmdg=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18147,10 +18147,10 @@
   };
   steffo-steffula-code = {
     pname = "steffo-steffula-code";
-    version = "0.7.0";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steffo/steffula-code/0.7.0/file/steffo.steffula-code-0.7.0.vsix";
-      sha256 = "sha256-0SUh1pZOyPvkAn5ksc/SMUQTJcSpcL+74wlomgAnX/8=";
+      url = "https://open-vsx.org/api/steffo/steffula-code/0.7.1/file/steffo.steffula-code-0.7.1.vsix";
+      sha256 = "sha256-TEU52tSynfgd2+zoFGhnysaFUvDwaLocOBlzR7zJUCA=";
     };
     license = "AGPL-3.0-or-later";
     name = "steffula-code";

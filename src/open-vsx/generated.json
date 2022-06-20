@@ -24845,11 +24845,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-59ehdi1x/ouuwyr/+mXyDBA84fh8fXwuLp7SVEkqSiI=",
+            "sha256": "sha256-MxJzi47eeObMJVJIeAV8dMASdh9DfN76VIzpT1cjmdg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.355/file/pokey.cursorless-0.26.355.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.356/file/pokey.cursorless-0.26.356.vsix"
         },
-        "version": "0.26.355"
+        "version": "0.26.356"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28740,11 +28740,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0SUh1pZOyPvkAn5ksc/SMUQTJcSpcL+74wlomgAnX/8=",
+            "sha256": "sha256-TEU52tSynfgd2+zoFGhnysaFUvDwaLocOBlzR7zJUCA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steffo/steffula-code/0.7.0/file/steffo.steffula-code-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/steffo/steffula-code/0.7.1/file/steffo.steffula-code-0.7.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.7.1"
     },
     "steoates-autoimport": {
         "cargoLocks": null,
