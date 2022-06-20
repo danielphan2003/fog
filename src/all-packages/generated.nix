@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "2ee7fc9910fd4adccfa68adc415ffff5b6bd4b5c";
+    version = "5403c5fb4f491c34d75a3fb3197b8396ff22700a";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "2ee7fc9910fd4adccfa68adc415ffff5b6bd4b5c";
+      rev = "5403c5fb4f491c34d75a3fb3197b8396ff22700a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-iJemXIiBL91QxDCtUcwazGeB0/1aBYr1ySJcITTErfc=";
+      sha256 = "sha256-opRi7v2ZnJq0hOV/4k9tFwxyipf8amCP1gEz20/mPmk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-2ee7fc9910fd4adccfa68adc415ffff5b6bd4b5c/Cargo.lock;
+      lockFile = ./asusctl-5403c5fb4f491c34d75a3fb3197b8396ff22700a/Cargo.lock;
       outputHashes = {
         
       };
@@ -437,13 +437,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "9f62a40b0ddf4413c4e2d5f7346a6ef09bc2f44e";
+    version = "ff99828cb60915318ed0f40998a1a23d5dea42c7";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "9f62a40b0ddf4413c4e2d5f7346a6ef09bc2f44e";
+      rev = "ff99828cb60915318ed0f40998a1a23d5dea42c7";
       fetchSubmodules = false;
-      sha256 = "sha256-1t5iSuCE8AbNlEBkti7LHtyvyy4LwtCy+6CXrAe4tqg=";
+      sha256 = "sha256-ohDzVrn4P1nqVznZn9TiD3ELKZ8FVkEywV+/xwNwSXU=";
     });
   };
   ibus-bamboo = {
