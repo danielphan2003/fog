@@ -789,11 +789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+/ZD/cTeFktx/VOns0Vgd7De8rQ9sswLERZadhWjn9k=",
+            "sha256": "sha256-Qdkm7gb9Hpj0XCHJE+PnLVs1cNcNT8XpEP0dtdyPetE=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6264.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6265.tar.bz2"
         },
-        "version": "1.0.6264"
+        "version": "1.0.6265"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -803,11 +803,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LMu0CIt0Q7tKq0JasMSLm5T/epdh4zbCPR+U9vcVa94=",
+            "sha256": "sha256-hoek6NfH8qfnaWnbaA2h28PXf07EmclJAixmon/9a7E=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6264-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6265-1_all.deb"
         },
-        "version": "1.0.6264"
+        "version": "1.0.6265"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1413,11 +1413,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3c8917251684b3f062d0247f400ee07a6b68fe5f",
-            "sha256": "sha256-zVi6q+Lu67oZBlqjr1NsRjEdL3h7MtmTPSkjaQEX00A=",
+            "rev": "2ff77a363ef1f063702b3df87d978146a6521837",
+            "sha256": "sha256-sSueTIYo+tXMK4h11MtdaVReoWLOsSzBz1PPVErufZ8=",
             "type": "github"
         },
-        "version": "3c8917251684b3f062d0247f400ee07a6b68fe5f"
+        "version": "2ff77a363ef1f063702b3df87d978146a6521837"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1599,12 +1599,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b85a3df5d594604cab9e1f9076099fed07b2f3da",
-            "sha256": "sha256-N39istaLI5ihvyaaqtj2XgwNAuaznK4tO4md4ZD0BVg=",
+            "rev": "108fc0684763dc67442968bfa7e5bf55188e31cd",
+            "sha256": "sha256-R5AyaK08IZEDhm3GifBa8FsibiUqsN117PpZocmR5MY=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "b85a3df5d594604cab9e1f9076099fed07b2f3da"
+        "version": "108fc0684763dc67442968bfa7e5bf55188e31cd"
     },
     "spicetify-cli": {
         "cargoLocks": null,

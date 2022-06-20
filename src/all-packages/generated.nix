@@ -475,18 +475,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6264";
+    version = "1.0.6265";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6264.tar.bz2";
-      sha256 = "sha256-+/ZD/cTeFktx/VOns0Vgd7De8rQ9sswLERZadhWjn9k=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6265.tar.bz2";
+      sha256 = "sha256-Qdkm7gb9Hpj0XCHJE+PnLVs1cNcNT8XpEP0dtdyPetE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6264";
+    version = "1.0.6265";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6264-1_all.deb";
-      sha256 = "sha256-LMu0CIt0Q7tKq0JasMSLm5T/epdh4zbCPR+U9vcVa94=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6265-1_all.deb";
+      sha256 = "sha256-hoek6NfH8qfnaWnbaA2h28PXf07EmclJAixmon/9a7E=";
     };
   };
   jitsi-videobridge2 = {
@@ -840,13 +840,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3c8917251684b3f062d0247f400ee07a6b68fe5f";
+    version = "2ff77a363ef1f063702b3df87d978146a6521837";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3c8917251684b3f062d0247f400ee07a6b68fe5f";
+      rev = "2ff77a363ef1f063702b3df87d978146a6521837";
       fetchSubmodules = false;
-      sha256 = "sha256-zVi6q+Lu67oZBlqjr1NsRjEdL3h7MtmTPSkjaQEX00A=";
+      sha256 = "sha256-sSueTIYo+tXMK4h11MtdaVReoWLOsSzBz1PPVErufZ8=";
     });
   };
   rofi-wayland = {
@@ -953,14 +953,14 @@
   };
   snui = {
     pname = "snui";
-    version = "b85a3df5d594604cab9e1f9076099fed07b2f3da";
+    version = "108fc0684763dc67442968bfa7e5bf55188e31cd";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "b85a3df5d594604cab9e1f9076099fed07b2f3da";
+      rev = "108fc0684763dc67442968bfa7e5bf55188e31cd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-N39istaLI5ihvyaaqtj2XgwNAuaznK4tO4md4ZD0BVg=";
+      sha256 = "sha256-R5AyaK08IZEDhm3GifBa8FsibiUqsN117PpZocmR5MY=";
     };
   };
   spicetify-cli = {
