@@ -1704,7 +1704,7 @@
     "supergfxctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./supergfxctl-de0f8219c245708d472f4a77dcb4ddd574060a9e/Cargo.lock",
+                "./supergfxctl-715716cfd924dc2105b377d3f4cc437593f47fc6/Cargo.lock",
                 {}
             ]
         },
@@ -1717,12 +1717,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "de0f8219c245708d472f4a77dcb4ddd574060a9e",
-            "sha256": "sha256-nr4KvI4hfyRTqyOjaeBcL22HqH5Dw3YX5I/ZVaApUiM=",
+            "rev": "715716cfd924dc2105b377d3f4cc437593f47fc6",
+            "sha256": "sha256-hdHZ1GNhEotyOOPW3PJMe4+sdTqwic7iCnVsA5a1F1c=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
-        "version": "de0f8219c245708d472f4a77dcb4ddd574060a9e"
+        "version": "715716cfd924dc2105b377d3f4cc437593f47fc6"
     },
     "sway-borders": {
         "cargoLocks": null,
