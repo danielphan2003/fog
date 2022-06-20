@@ -11631,10 +11631,10 @@
   };
   kie-group-vscode-extension-kogito-bundle = {
     pname = "kie-group-vscode-extension-kogito-bundle";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.19.0/file/kie-group.vscode-extension-kogito-bundle-0.19.0.vsix";
-      sha256 = "sha256-AHkTHWNWCTfPzzAJhKHQnCBk8gmuzXvUD7sAvbRt0Hg=";
+      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.20.0/file/kie-group.vscode-extension-kogito-bundle-0.20.0.vsix";
+      sha256 = "sha256-++Z5l36raUz2zqDytoSj238I2XZPQze/ggd+ZT9hgio=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-kogito-bundle";
@@ -14739,10 +14739,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.18.3";
+    version = "17.18.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.3/file/nrwl.angular-console-17.18.3.vsix";
-      sha256 = "sha256-4Il/pHVDzmRC+EdlF3VaFpNxNqdMrz66jE3eO7ibSVM=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.4/file/nrwl.angular-console-17.18.4.vsix";
+      sha256 = "sha256-36yPkgQzgituZZMrELZEtpzQCLWuzbeZ7/FxcK+CD0s=";
     };
     license = "MIT";
     name = "angular-console";
@@ -16419,10 +16419,10 @@
   };
   redhat-vscode-extension-bpmn-editor = {
     pname = "redhat-vscode-extension-bpmn-editor";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.19.0/file/redhat.vscode-extension-bpmn-editor-0.19.0.vsix";
-      sha256 = "sha256-J1AT6/S2XOY8A/ARdb3996CIKRFM7rN2/hdscm3EDWw=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.20.0/file/redhat.vscode-extension-bpmn-editor-0.20.0.vsix";
+      sha256 = "sha256-DY2QLRjEXCwS5QidQEMDk+P0sNTuL5lRcZUrDWYyBMU=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-bpmn-editor";
@@ -16431,10 +16431,10 @@
   };
   redhat-vscode-extension-dmn-editor = {
     pname = "redhat-vscode-extension-dmn-editor";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.19.0/file/redhat.vscode-extension-dmn-editor-0.19.0.vsix";
-      sha256 = "sha256-ylbkvGXTnu+GuAX6qmZ9/Dc+ZnXXhNF7gOOdkrz2GIw=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.20.0/file/redhat.vscode-extension-dmn-editor-0.20.0.vsix";
+      sha256 = "sha256-Gmp5Bl+o+7aHGBM7Fi9HG5UAbHOFzoQd5zlpOLRuXS8=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-dmn-editor";
