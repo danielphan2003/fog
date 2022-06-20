@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "c7c61da3bf2aeccbcb4d8c1e49abbb906cf31d38",
-            "sha256": "sha256-Y2r/fh7++TPmeAYEY8A9BWyd4hXaMOh1wOLK9lKPDYQ=",
+            "rev": "d944a15c057ae71dc03df49442b9ab57ff63fd52",
+            "sha256": "sha256-6uLCPhd8/AnX+oKf+U1hBk7qupd/7Q5W6gszgmGrsmc=",
             "type": "github"
         },
-        "version": "c7c61da3bf2aeccbcb4d8c1e49abbb906cf31d38"
+        "version": "d944a15c057ae71dc03df49442b9ab57ff63fd52"
     },
     "caddy": {
         "cargoLocks": null,
@@ -609,11 +609,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "37c4ab4f2a72a244f40426ab72a7fa4c75534a40",
-            "sha256": "sha256-98+iDyfRWRJqGcXauVKWTUe4CuAFb7+iVWlhY03aXbk=",
+            "rev": "10a8c318cfd08a029a8cca184e78c9f627a5421b",
+            "sha256": "sha256-OiTyqfHvvTMcO4n/unL82bp9BrcVJNWJBIe1vVgnjsQ=",
             "type": "github"
         },
-        "version": "37c4ab4f2a72a244f40426ab72a7fa4c75534a40"
+        "version": "10a8c318cfd08a029a8cca184e78c9f627a5421b"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -789,11 +789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Qdkm7gb9Hpj0XCHJE+PnLVs1cNcNT8XpEP0dtdyPetE=",
+            "sha256": "sha256-8IOdKOkQSuV7M1FtDKNI6cg1rHTpfn5EXf0OBaajltE=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6265.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6266.tar.bz2"
         },
-        "version": "1.0.6265"
+        "version": "1.0.6266"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -803,11 +803,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hoek6NfH8qfnaWnbaA2h28PXf07EmclJAixmon/9a7E=",
+            "sha256": "sha256-Esx6EoHRA/BsyaYOUUWPFZD2zbz1vh/z4SqCRfSZSW4=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6265-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6266-1_all.deb"
         },
-        "version": "1.0.6265"
+        "version": "1.0.6266"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1413,11 +1413,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "2ff77a363ef1f063702b3df87d978146a6521837",
-            "sha256": "sha256-sSueTIYo+tXMK4h11MtdaVReoWLOsSzBz1PPVErufZ8=",
+            "rev": "44a52b46173dfa5696be53fd12d3214036729459",
+            "sha256": "sha256-8iKstQc1h7H7GOnI7fJbKYD9IgjaLkhhz77dCkyhPQI=",
             "type": "github"
         },
-        "version": "2ff77a363ef1f063702b3df87d978146a6521837"
+        "version": "44a52b46173dfa5696be53fd12d3214036729459"
     },
     "rofi-wayland": {
         "cargoLocks": null,
