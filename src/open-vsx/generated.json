@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fdEgjcpbX3ZaywYxByKspJS4ZroVP0kp6+Lw4SbA4zg=",
+            "sha256": "sha256-Uu1Hlk5TD1vT0wIQnA4/BFO9/kVhodj+3HYsbygLbxE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1063/file/Prisma.prisma-insider-31.0.1063.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1066/file/Prisma.prisma-insider-31.0.1066.vsix"
         },
-        "version": "31.0.1063"
+        "version": "31.0.1066"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -10386,11 +10386,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i7RuTu9xpMjwGja6uTqb+Jl2lS9ubYSLNxcpsMAeUeI=",
+            "sha256": "sha256-wyu8a8NTHYcd/kKs4qYU/c5nURUZMUizloWOtiJs7pU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/coding/0.0.5/file/cloudstudio.coding-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/coding/0.0.6/file/cloudstudio.coding-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "cloudstudio-coding-repositories": {
         "cargoLocks": null,
@@ -10519,11 +10519,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jga2+l0QmjRPU99xBxxqALsECJ2tlW2DaoHH/wHqIcM=",
+            "sha256": "sha256-KXj6dT7pFkcSpvALsbWMgoDqChXyhMw0a6akV+Or7KU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.6/file/cloudstudio.workspaces-0.0.6.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.7/file/cloudstudio.workspaces-0.0.7.vsix"
         },
-        "version": "0.0.6"
+        "version": "0.0.7"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -12153,11 +12153,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Txwx98GX+Xwnq8lJOJYIWcVN4UyXqT4TkWyHdRm3JyA=",
+            "sha256": "sha256-ELiJzlxX/wn+MgHwTOIbRB+lRU5FH9xGFQIp7aQqA1s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.25/file/digma.digma-0.5.25.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.26/file/digma.digma-0.5.26.vsix"
         },
-        "version": "0.5.25"
+        "version": "0.5.26"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,

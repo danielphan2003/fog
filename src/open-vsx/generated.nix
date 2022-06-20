@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1063";
+    version = "31.0.1066";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1063/file/Prisma.prisma-insider-31.0.1063.vsix";
-      sha256 = "sha256-fdEgjcpbX3ZaywYxByKspJS4ZroVP0kp6+Lw4SbA4zg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1066/file/Prisma.prisma-insider-31.0.1066.vsix";
+      sha256 = "sha256-Uu1Hlk5TD1vT0wIQnA4/BFO9/kVhodj+3HYsbygLbxE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -6555,10 +6555,10 @@
   };
   cloudstudio-coding = {
     pname = "cloudstudio-coding";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.5/file/cloudstudio.coding-0.0.5.vsix";
-      sha256 = "sha256-i7RuTu9xpMjwGja6uTqb+Jl2lS9ubYSLNxcpsMAeUeI=";
+      url = "https://open-vsx.org/api/cloudstudio/coding/0.0.6/file/cloudstudio.coding-0.0.6.vsix";
+      sha256 = "sha256-wyu8a8NTHYcd/kKs4qYU/c5nURUZMUizloWOtiJs7pU=";
     };
     license = "MIT";
     name = "coding";
@@ -6639,10 +6639,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.6/file/cloudstudio.workspaces-0.0.6.vsix";
-      sha256 = "sha256-jga2+l0QmjRPU99xBxxqALsECJ2tlW2DaoHH/wHqIcM=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.7/file/cloudstudio.workspaces-0.0.7.vsix";
+      sha256 = "sha256-KXj6dT7pFkcSpvALsbWMgoDqChXyhMw0a6akV+Or7KU=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7671,10 +7671,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.25";
+    version = "0.5.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.25/file/digma.digma-0.5.25.vsix";
-      sha256 = "sha256-Txwx98GX+Xwnq8lJOJYIWcVN4UyXqT4TkWyHdRm3JyA=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.26/file/digma.digma-0.5.26.vsix";
+      sha256 = "sha256-ELiJzlxX/wn+MgHwTOIbRB+lRU5FH9xGFQIp7aQqA1s=";
     };
     license = "MIT";
     name = "digma";
