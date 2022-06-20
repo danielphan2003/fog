@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1068";
+    version = "31.0.1071";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1068/file/Prisma.prisma-insider-31.0.1068.vsix";
-      sha256 = "sha256-TsXaGY/smyOw51HrnkdBWnqDAOMLdTQCSg7Uu2Wv/Gw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1071/file/Prisma.prisma-insider-31.0.1071.vsix";
+      sha256 = "sha256-L9j3qjrS8H1kK5dKpTTDh6jGxF39Wjc18ye24mjZWwA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10695,10 +10695,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.5/file/iterative.dvc-0.3.5.vsix";
-      sha256 = "sha256-0RhCxbQnHFyg72Gm1PwFRVkBLzC6yECVCEg9YLww5ng=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.6/file/iterative.dvc-0.3.6.vsix";
+      sha256 = "sha256-flOPQrL4qutjMwrFQ/KoDmNUB9AH9PtC4/Hphnx/qmQ=";
     };
     license = "Apache-2.0";
     name = "dvc";

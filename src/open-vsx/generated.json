@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TsXaGY/smyOw51HrnkdBWnqDAOMLdTQCSg7Uu2Wv/Gw=",
+            "sha256": "sha256-L9j3qjrS8H1kK5dKpTTDh6jGxF39Wjc18ye24mjZWwA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1068/file/Prisma.prisma-insider-31.0.1068.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1071/file/Prisma.prisma-insider-31.0.1071.vsix"
         },
-        "version": "31.0.1068"
+        "version": "31.0.1071"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -16941,11 +16941,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0RhCxbQnHFyg72Gm1PwFRVkBLzC6yECVCEg9YLww5ng=",
+            "sha256": "sha256-flOPQrL4qutjMwrFQ/KoDmNUB9AH9PtC4/Hphnx/qmQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.5/file/iterative.dvc-0.3.5.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.6/file/iterative.dvc-0.3.6.vsix"
         },
-        "version": "0.3.5"
+        "version": "0.3.6"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
