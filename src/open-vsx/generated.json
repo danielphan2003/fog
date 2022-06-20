@@ -17017,11 +17017,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-glb3KVeBpb6JR2LAT1cwoR0hdAU+5CYlCNLwEMnH/m0=",
+            "sha256": "sha256-h7efsKUskG35gfvSTk5KjYo5+Y5WxHRAi1Be8jGpfs4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.61/file/jacobjohnston.encounterplus-markdown-1.0.61.vsix"
+            "url": "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.62/file/jacobjohnston.encounterplus-markdown-1.0.62.vsix"
         },
-        "version": "1.0.61"
+        "version": "1.0.62"
     },
     "jallen7usa-vscode-cue-fmt": {
         "cargoLocks": null,

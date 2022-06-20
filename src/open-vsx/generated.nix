@@ -10743,10 +10743,10 @@
   };
   jacobjohnston-encounterplus-markdown = {
     pname = "jacobjohnston-encounterplus-markdown";
-    version = "1.0.61";
+    version = "1.0.62";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.61/file/jacobjohnston.encounterplus-markdown-1.0.61.vsix";
-      sha256 = "sha256-glb3KVeBpb6JR2LAT1cwoR0hdAU+5CYlCNLwEMnH/m0=";
+      url = "https://open-vsx.org/api/jacobjohnston/encounterplus-markdown/1.0.62/file/jacobjohnston.encounterplus-markdown-1.0.62.vsix";
+      sha256 = "sha256-h7efsKUskG35gfvSTk5KjYo5+Y5WxHRAi1Be8jGpfs4=";
     };
     license = "CC0-1.0";
     name = "encounterplus-markdown";
