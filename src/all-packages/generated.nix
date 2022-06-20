@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "26cde4d5d6ed8774b466513cd0f0bc6128d3d625";
+    version = "a166a9d16a7e55b431c782298f32f9f3f7320dbc";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "26cde4d5d6ed8774b466513cd0f0bc6128d3d625";
+      rev = "a166a9d16a7e55b431c782298f32f9f3f7320dbc";
       fetchSubmodules = false;
-      sha256 = "sha256-d/KZHdRcS9vTlRW35VnnAU6FI/ynv1aZ/1F4EqeNxN4=";
+      sha256 = "sha256-C9iBDt1cir79QGrPqABReeID5+vZhoCPivPuDOUOA90=";
     });
   };
   caddy = {
@@ -1286,14 +1286,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "4532b696c644cb7f21e96cf76d3e6b21ccc0e309";
+    version = "4f5999826aa478ba5f138e74cfccdf3b854c8e54";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "4532b696c644cb7f21e96cf76d3e6b21ccc0e309";
+      rev = "4f5999826aa478ba5f138e74cfccdf3b854c8e54";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xKYg6DiL9aaH0B2l1a+a5kEj3WyRyNwBU/XUTcScT4o=";
+      sha256 = "sha256-NVXa43HBgTXIBPynwG/gPjiUQ6ltVVj1sjMC7t0jY6A=";
     };
   };
   ydotool = {
