@@ -426,13 +426,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f5f531562bdd2e935017b5400bd3b4ae5f89b54b";
+    version = "f58bb0187b60e4d7055527d1bf8e4b3bc6dfee91";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "f5f531562bdd2e935017b5400bd3b4ae5f89b54b";
+      rev = "f58bb0187b60e4d7055527d1bf8e4b3bc6dfee91";
       fetchSubmodules = false;
-      sha256 = "sha256-E3ZadsNwbtvoSqaMmDOpmfb8hTX/R1/VKw1e521FwD0=";
+      sha256 = "sha256-j70HXVbpG1N5IAZCNf/vULi+NADfjaBYUI/bWzHi5wA=";
     });
   };
   ibus = {
@@ -475,18 +475,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6269";
+    version = "1.0.6270";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6269.tar.bz2";
-      sha256 = "sha256-22tAzA3/n8lO73f+pjPXmofsroeCjSXY7QkO8RlMtGU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6270.tar.bz2";
+      sha256 = "sha256-qa8rsDmmtTj+Zfw+LeRnqprtDyFZvhkK3vBy0irGJf8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6269";
+    version = "1.0.6270";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6269-1_all.deb";
-      sha256 = "sha256-/BP5lLb+tpmwoyzHt5NE9H17hORgH1GRmLypHDrxipU=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6270-1_all.deb";
+      sha256 = "sha256-N8hCr51TT91bNDC+h3Q23EihrEkctdQegLGC/BSGY1M=";
     };
   };
   jitsi-videobridge2 = {
@@ -1286,14 +1286,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "8cd0397e5b4c1f0e0add1fea67f82b811214bf3e";
+    version = "b9b33d88ede76f0eec5055320e1cb27b37bade15";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "8cd0397e5b4c1f0e0add1fea67f82b811214bf3e";
+      rev = "b9b33d88ede76f0eec5055320e1cb27b37bade15";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-oTQj93tYIzFleRZwUThqg1cEDcf86XLpPTPYN2+0+jA=";
+      sha256 = "sha256-qB4s2mXVAnpIpuGVeVgMadb8mL93QhVujDoaH+kaZ8s=";
     };
   };
   ydotool = {

@@ -709,11 +709,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "f5f531562bdd2e935017b5400bd3b4ae5f89b54b",
-            "sha256": "sha256-E3ZadsNwbtvoSqaMmDOpmfb8hTX/R1/VKw1e521FwD0=",
+            "rev": "f58bb0187b60e4d7055527d1bf8e4b3bc6dfee91",
+            "sha256": "sha256-j70HXVbpG1N5IAZCNf/vULi+NADfjaBYUI/bWzHi5wA=",
             "type": "github"
         },
-        "version": "f5f531562bdd2e935017b5400bd3b4ae5f89b54b"
+        "version": "f58bb0187b60e4d7055527d1bf8e4b3bc6dfee91"
     },
     "ibus": {
         "cargoLocks": null,
@@ -789,11 +789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-22tAzA3/n8lO73f+pjPXmofsroeCjSXY7QkO8RlMtGU=",
+            "sha256": "sha256-qa8rsDmmtTj+Zfw+LeRnqprtDyFZvhkK3vBy0irGJf8=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6269.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6270.tar.bz2"
         },
-        "version": "1.0.6269"
+        "version": "1.0.6270"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -803,11 +803,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/BP5lLb+tpmwoyzHt5NE9H17hORgH1GRmLypHDrxipU=",
+            "sha256": "sha256-N8hCr51TT91bNDC+h3Q23EihrEkctdQegLGC/BSGY1M=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6269-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6270-1_all.deb"
         },
-        "version": "1.0.6269"
+        "version": "1.0.6270"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2153,12 +2153,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "8cd0397e5b4c1f0e0add1fea67f82b811214bf3e",
-            "sha256": "sha256-oTQj93tYIzFleRZwUThqg1cEDcf86XLpPTPYN2+0+jA=",
+            "rev": "b9b33d88ede76f0eec5055320e1cb27b37bade15",
+            "sha256": "sha256-qB4s2mXVAnpIpuGVeVgMadb8mL93QhVujDoaH+kaZ8s=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
-        "version": "8cd0397e5b4c1f0e0add1fea67f82b811214bf3e"
+        "version": "b9b33d88ede76f0eec5055320e1cb27b37bade15"
     },
     "ydotool": {
         "cargoLocks": null,
