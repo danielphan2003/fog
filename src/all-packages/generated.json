@@ -609,11 +609,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "10a8c318cfd08a029a8cca184e78c9f627a5421b",
-            "sha256": "sha256-OiTyqfHvvTMcO4n/unL82bp9BrcVJNWJBIe1vVgnjsQ=",
+            "rev": "b8e6b896d96ac782b5b3270fbded141ffb258c33",
+            "sha256": "sha256-N2WSu6fo4U/QSaSqob/svaaDUXW8N0f51jpvxGCmFVE=",
             "type": "github"
         },
-        "version": "10a8c318cfd08a029a8cca184e78c9f627a5421b"
+        "version": "b8e6b896d96ac782b5b3270fbded141ffb258c33"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -789,11 +789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OVqtaU+Ky6BATx//Ddq5K0tOejm07rfLNmtTlzs1P4g=",
+            "sha256": "sha256-XF5QIgzQhDXZmMUm3+nNosEGSnpaiK3WLBVcuVRdtow=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6275.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6276.tar.bz2"
         },
-        "version": "1.0.6275"
+        "version": "1.0.6276"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -803,11 +803,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lzDs26+ho8yxn9YcjzFzHxXZfAO9Q7oaLID0it1B380=",
+            "sha256": "sha256-faM/cxGryLvg3fLJrD5MQXeKB4VpSbkxxwWNdT9X4MY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6275-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6276-1_all.deb"
         },
-        "version": "1.0.6275"
+        "version": "1.0.6276"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
