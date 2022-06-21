@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dw0DpMdhYs5dQek/wk7QORenSP5WttevsyYju9EL1/w=",
+            "sha256": "sha256-O0WSglscEedg1uRk+pZM2E/jToUDbpbF6tvjR9bxjbc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1076/file/Prisma.prisma-insider-31.0.1076.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1078/file/Prisma.prisma-insider-31.0.1078.vsix"
         },
-        "version": "31.0.1076"
+        "version": "31.0.1078"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8600,11 +8600,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7smuG7meCSW2WPUymP8pNOmmXv9PhySk+5T5NfqkxGM=",
+            "sha256": "sha256-ZrHoig5GQ8cor5vGB3F3Y5G+Jp+OJDHetXI4f++aeq8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.2/file/astro-build.astro-vscode-0.19.2.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.3/file/astro-build.astro-vscode-0.19.3.vsix"
         },
-        "version": "0.19.2"
+        "version": "0.19.3"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -29728,11 +29728,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QX6c54l6nwAuftjmgXNre9/aQpcHMeR6wHmijIhpx7c=",
+            "sha256": "sha256-CvNQFoZL+c3bqjVwPjZpytVn/pCK1enQoChtBtGao+k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.3/file/tamasfe.even-better-toml-0.16.3.vsix"
+            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.4/file/tamasfe.even-better-toml-0.16.4.vsix"
         },
-        "version": "0.16.3"
+        "version": "0.16.4"
     },
     "tanhakabir-rest-book": {
         "cargoLocks": null,

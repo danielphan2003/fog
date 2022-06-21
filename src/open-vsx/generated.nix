@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1076";
+    version = "31.0.1078";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1076/file/Prisma.prisma-insider-31.0.1076.vsix";
-      sha256 = "sha256-dw0DpMdhYs5dQek/wk7QORenSP5WttevsyYju9EL1/w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1078/file/Prisma.prisma-insider-31.0.1078.vsix";
+      sha256 = "sha256-O0WSglscEedg1uRk+pZM2E/jToUDbpbF6tvjR9bxjbc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5427,10 +5427,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.19.2";
+    version = "0.19.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.2/file/astro-build.astro-vscode-0.19.2.vsix";
-      sha256 = "sha256-7smuG7meCSW2WPUymP8pNOmmXv9PhySk+5T5NfqkxGM=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.3/file/astro-build.astro-vscode-0.19.3.vsix";
+      sha256 = "sha256-ZrHoig5GQ8cor5vGB3F3Y5G+Jp+OJDHetXI4f++aeq8=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -18771,10 +18771,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.16.3";
+    version = "0.16.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.3/file/tamasfe.even-better-toml-0.16.3.vsix";
-      sha256 = "sha256-QX6c54l6nwAuftjmgXNre9/aQpcHMeR6wHmijIhpx7c=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.4/file/tamasfe.even-better-toml-0.16.4.vsix";
+      sha256 = "sha256-CvNQFoZL+c3bqjVwPjZpytVn/pCK1enQoChtBtGao+k=";
     };
     license = "MIT";
     name = "even-better-toml";
