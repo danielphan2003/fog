@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1078";
+    version = "31.0.1081";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1078/file/Prisma.prisma-insider-31.0.1078.vsix";
-      sha256 = "sha256-O0WSglscEedg1uRk+pZM2E/jToUDbpbF6tvjR9bxjbc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1081/file/Prisma.prisma-insider-31.0.1081.vsix";
+      sha256 = "sha256-qZC9eYDuVrP41scSY4900IyZ1zMLDUKAkTSu5wN7ovg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3171,10 +3171,10 @@
   };
   Shelex-vscode-cy-helper = {
     pname = "Shelex-vscode-cy-helper";
-    version = "2.4.0";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.4.0/file/Shelex.vscode-cy-helper-2.4.0.vsix";
-      sha256 = "sha256-ObgahcD4ojMrv1qshPNWs/rVyAIVcJ9YGYygYZRudFc=";
+      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.0/file/Shelex.vscode-cy-helper-2.5.0.vsix";
+      sha256 = "sha256-k6js0401rGrNpN8KXrsfEqpT0qqHsTJF4Zb8eoXmIXY=";
     };
     license = "Apache-2.0";
     name = "vscode-cy-helper";
@@ -15687,10 +15687,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.358";
+    version = "0.26.359";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.358/file/pokey.cursorless-0.26.358.vsix";
-      sha256 = "sha256-27w12xjhXZN7bs/lKNwRz8p9UlvjAeftjCMtm2rdSgk=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.359/file/pokey.cursorless-0.26.359.vsix";
+      sha256 = "sha256-CY05TU2LMoaurSZKYn50yXEMicjSctU4J21Wr9m3Y8Q=";
     };
     license = "MIT";
     name = "cursorless";
