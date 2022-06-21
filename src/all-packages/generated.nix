@@ -840,13 +840,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "961357137f205a5516d305c6aba5056cd47beb84";
+    version = "fae8d7e38fd1eac88fe69e690460ef4c10b7b788";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "961357137f205a5516d305c6aba5056cd47beb84";
+      rev = "fae8d7e38fd1eac88fe69e690460ef4c10b7b788";
       fetchSubmodules = false;
-      sha256 = "sha256-O+mOFj6Qug3bBt86bf/QwTUQu1cj5m3VRH9szbA4TjA=";
+      sha256 = "sha256-RmtubgO4Y2vMDetX5exDmE0UGAfhA7NvL3FUtiYJ5SU=";
     });
   };
   rofi-wayland = {
@@ -1263,14 +1263,14 @@
   };
   xorg-libxcvt = {
     pname = "xorg-libxcvt";
-    version = "d3468537b9748756350c9ab89d2b639cebeeccbc";
+    version = "db5ff12110994dc9010d44f981399e796917a845";
     src = fetchgit {
       url = "https://gitlab.freedesktop.org/xorg/lib/libxcvt";
-      rev = "d3468537b9748756350c9ab89d2b639cebeeccbc";
+      rev = "db5ff12110994dc9010d44f981399e796917a845";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-wK0+asG9oOuZmDn2EIvL/EBcazHG05KgoUGUHPju+sk=";
+      sha256 = "sha256-fLR1xisiJhLGUaSXJci19Ut6Ro6k0OnnIC/5VZjlsB8=";
     };
   };
   xorgproto = {
