@@ -9727,6 +9727,44 @@
         },
         "version": "0.13.3"
     },
+    "bscan-perlnavigator": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "bscan-perlnavigator",
+        "passthru": {
+            "description": "Code navigation, autocompletion, syntax checking, and linting for Perl",
+            "license": "MIT",
+            "name": "perlnavigator",
+            "publisher": "bscan"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dt8feY1UNpZNEaeLCL1TioDzr8HUbk1+d3/ay2RDi7k=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/bscan/perlnavigator/0.3.0/file/bscan.perlnavigator-0.3.0.vsix"
+        },
+        "version": "0.3.0"
+    },
+    "bscan-raku-navigator": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "bscan-raku-navigator",
+        "passthru": {
+            "description": "Language support for Raku including syntax highlighting and error checking.",
+            "license": "MIT",
+            "name": "raku-navigator",
+            "publisher": "bscan"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-sIzGpcRFj92KuHpVgXRNNzw2VvaP0psOmMT+mMlfsxk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/bscan/raku-navigator/0.1.0/file/bscan.raku-navigator-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "budparr-language-hugo-vscode": {
         "cargoLocks": null,
         "extract": null,
@@ -14946,11 +14984,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zZ8EZh69Dqt2IywIs1KnO5LdiYAm7P5goUJCBv3cSI8=",
+            "sha256": "sha256-8QhCIXbUs0XMM0lFB2D5s1raIuLJEMl2m5kGZZYniQc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golang/Go/0.33.1/file/golang.Go-0.33.1.vsix"
+            "url": "https://open-vsx.org/api/golang/Go/0.34.0/file/golang.Go-0.34.0.vsix"
         },
-        "version": "0.33.1"
+        "version": "0.34.0"
     },
     "golf1052-base16-generator": {
         "cargoLocks": null,
@@ -15288,11 +15326,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b1xJj/3Rx3fN9eyAVmHdqz4PO50SpDt9Lqerv1Wb3Tw=",
+            "sha256": "sha256-2kyxQfNcnv0lk+e+RPffuUUpHvVyxqaC1uZ1Dij/AEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.8/file/halcyontechltd.code-for-ibmi-1.3.8.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.9/file/halcyontechltd.code-for-ibmi-1.3.9.vsix"
         },
-        "version": "1.3.8"
+        "version": "1.3.9"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -15953,11 +15991,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rtKfCn5QW74f5YM3zOg/sxU6gX2PLFYmItdwjSMizRU=",
+            "sha256": "sha256-AMs9bEQWh7NS6HR6lb9G6YxCEHp79Yot8Gx+Ve0tj70=",
             "type": "url",
-            "url": "https://open-vsx.org/api/humao/rest-client/0.24.6/file/humao.rest-client-0.24.6.vsix"
+            "url": "https://open-vsx.org/api/humao/rest-client/0.25.0/file/humao.rest-client-0.25.0.vsix"
         },
-        "version": "0.24.6"
+        "version": "0.25.0"
     },
     "huntertran-auto-markdown-toc": {
         "cargoLocks": null,
@@ -27011,11 +27049,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Bpfr3CH9lh8zAX6XiNg0yXQ6bV8WOudru9XoccAbFhg=",
+            "sha256": "sha256-5QGav0yrw7134W6fEhkZdgTw7KoGXQqzoYoviB+jl68=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/3.1.0/file/rvest.vs-code-prettier-eslint-3.1.0.vsix"
+            "url": "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.2/file/rvest.vs-code-prettier-eslint-5.0.2.vsix"
         },
-        "version": "3.1.0"
+        "version": "5.0.2"
     },
     "ryanluker-vscode-coverage-gutters": {
         "cargoLocks": null,

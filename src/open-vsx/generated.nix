@@ -6145,6 +6145,30 @@
     description = "Search for unicode characters and insert them into documents.";
     publisher = "brunnerh";
   };
+  bscan-perlnavigator = {
+    pname = "bscan-perlnavigator";
+    version = "0.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bscan/perlnavigator/0.3.0/file/bscan.perlnavigator-0.3.0.vsix";
+      sha256 = "sha256-dt8feY1UNpZNEaeLCL1TioDzr8HUbk1+d3/ay2RDi7k=";
+    };
+    license = "MIT";
+    name = "perlnavigator";
+    description = "Code navigation, autocompletion, syntax checking, and linting for Perl";
+    publisher = "bscan";
+  };
+  bscan-raku-navigator = {
+    pname = "bscan-raku-navigator";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/bscan/raku-navigator/0.1.0/file/bscan.raku-navigator-0.1.0.vsix";
+      sha256 = "sha256-sIzGpcRFj92KuHpVgXRNNzw2VvaP0psOmMT+mMlfsxk=";
+    };
+    license = "MIT";
+    name = "raku-navigator";
+    description = "Language support for Raku including syntax highlighting and error checking.";
+    publisher = "bscan";
+  };
   budparr-language-hugo-vscode = {
     pname = "budparr-language-hugo-vscode";
     version = "1.2.0";
@@ -9435,10 +9459,10 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.33.1";
+    version = "0.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.33.1/file/golang.Go-0.33.1.vsix";
-      sha256 = "sha256-zZ8EZh69Dqt2IywIs1KnO5LdiYAm7P5goUJCBv3cSI8=";
+      url = "https://open-vsx.org/api/golang/Go/0.34.0/file/golang.Go-0.34.0.vsix";
+      sha256 = "sha256-8QhCIXbUs0XMM0lFB2D5s1raIuLJEMl2m5kGZZYniQc=";
     };
     license = "MIT";
     name = "Go";
@@ -9651,10 +9675,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.8";
+    version = "1.3.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.8/file/halcyontechltd.code-for-ibmi-1.3.8.vsix";
-      sha256 = "sha256-b1xJj/3Rx3fN9eyAVmHdqz4PO50SpDt9Lqerv1Wb3Tw=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.9/file/halcyontechltd.code-for-ibmi-1.3.9.vsix";
+      sha256 = "sha256-2kyxQfNcnv0lk+e+RPffuUUpHvVyxqaC1uZ1Dij/AEk=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -10071,10 +10095,10 @@
   };
   humao-rest-client = {
     pname = "humao-rest-client";
-    version = "0.24.6";
+    version = "0.25.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/humao/rest-client/0.24.6/file/humao.rest-client-0.24.6.vsix";
-      sha256 = "sha256-rtKfCn5QW74f5YM3zOg/sxU6gX2PLFYmItdwjSMizRU=";
+      url = "https://open-vsx.org/api/humao/rest-client/0.25.0/file/humao.rest-client-0.25.0.vsix";
+      sha256 = "sha256-AMs9bEQWh7NS6HR6lb9G6YxCEHp79Yot8Gx+Ve0tj70=";
     };
     license = "MIT";
     name = "rest-client";
@@ -17055,10 +17079,10 @@
   };
   rvest-vs-code-prettier-eslint = {
     pname = "rvest-vs-code-prettier-eslint";
-    version = "3.1.0";
+    version = "5.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/3.1.0/file/rvest.vs-code-prettier-eslint-3.1.0.vsix";
-      sha256 = "sha256-Bpfr3CH9lh8zAX6XiNg0yXQ6bV8WOudru9XoccAbFhg=";
+      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.2/file/rvest.vs-code-prettier-eslint-5.0.2.vsix";
+      sha256 = "sha256-5QGav0yrw7134W6fEhkZdgTw7KoGXQqzoYoviB+jl68=";
     };
     license = "MIT";
     name = "vs-code-prettier-eslint";
