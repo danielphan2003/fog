@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1073";
+    version = "31.0.1076";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1073/file/Prisma.prisma-insider-31.0.1073.vsix";
-      sha256 = "sha256-7kNVhYiQ2T8iCbymj2MSsvCYZjaonNpZQtvs/xJpYLA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1076/file/Prisma.prisma-insider-31.0.1076.vsix";
+      sha256 = "sha256-dw0DpMdhYs5dQek/wk7QORenSP5WttevsyYju9EL1/w=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5883,10 +5883,10 @@
   };
   bilelmoussaoui-flatpak-vscode = {
     pname = "bilelmoussaoui-flatpak-vscode";
-    version = "0.0.28";
+    version = "0.0.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix";
-      sha256 = "sha256-xgQiViyh4GQVWwTQSPspxg9f2/SbCl1WxlgC3CXMl0A=";
+      url = "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.29/file/bilelmoussaoui.flatpak-vscode-0.0.29.vsix";
+      sha256 = "sha256-+3mfJGYy3RXsHUmF/7gAspK2ylssi+5wjGgYavJlRFE=";
     };
     license = "MIT";
     name = "flatpak-vscode";
@@ -7671,10 +7671,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.26";
+    version = "0.5.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.26/file/digma.digma-0.5.26.vsix";
-      sha256 = "sha256-ELiJzlxX/wn+MgHwTOIbRB+lRU5FH9xGFQIp7aQqA1s=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.27/file/digma.digma-0.5.27.vsix";
+      sha256 = "sha256-yb93eVnewbk1R91m71sx/uZAaGOhBCkckH/hYCUAQH8=";
     };
     license = "MIT";
     name = "digma";

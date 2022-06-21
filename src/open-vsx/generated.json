@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7kNVhYiQ2T8iCbymj2MSsvCYZjaonNpZQtvs/xJpYLA=",
+            "sha256": "sha256-dw0DpMdhYs5dQek/wk7QORenSP5WttevsyYju9EL1/w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1073/file/Prisma.prisma-insider-31.0.1073.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1076/file/Prisma.prisma-insider-31.0.1076.vsix"
         },
-        "version": "31.0.1073"
+        "version": "31.0.1076"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9322,11 +9322,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xgQiViyh4GQVWwTQSPspxg9f2/SbCl1WxlgC3CXMl0A=",
+            "sha256": "sha256-+3mfJGYy3RXsHUmF/7gAspK2ylssi+5wjGgYavJlRFE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.28/file/bilelmoussaoui.flatpak-vscode-0.0.28.vsix"
+            "url": "https://open-vsx.org/api/bilelmoussaoui/flatpak-vscode/0.0.29/file/bilelmoussaoui.flatpak-vscode-0.0.29.vsix"
         },
-        "version": "0.0.28"
+        "version": "0.0.29"
     },
     "bmalehorn-vscode-fish": {
         "cargoLocks": null,
@@ -12153,11 +12153,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ELiJzlxX/wn+MgHwTOIbRB+lRU5FH9xGFQIp7aQqA1s=",
+            "sha256": "sha256-yb93eVnewbk1R91m71sx/uZAaGOhBCkckH/hYCUAQH8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.26/file/digma.digma-0.5.26.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.27/file/digma.digma-0.5.27.vsix"
         },
-        "version": "0.5.26"
+        "version": "0.5.27"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
