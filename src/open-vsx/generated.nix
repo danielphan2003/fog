@@ -3123,10 +3123,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "3.1.0";
+    version = "4.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/3.1.0/file/Sarrus.sourcepawn-vscode-3.1.0.vsix";
-      sha256 = "sha256-3BzdbIkLRgi1fxaL0BVu8az+oDufEkhQfOSMff98X5k=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.0/file/Sarrus.sourcepawn-vscode-4.0.0.vsix";
+      sha256 = "sha256-GH4n8c3PJAV9nw9d0n1KJVSh/FQ6MDy/qLdk/egWTFE=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -17079,10 +17079,10 @@
   };
   rvest-vs-code-prettier-eslint = {
     pname = "rvest-vs-code-prettier-eslint";
-    version = "5.0.2";
+    version = "5.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.2/file/rvest.vs-code-prettier-eslint-5.0.2.vsix";
-      sha256 = "sha256-5QGav0yrw7134W6fEhkZdgTw7KoGXQqzoYoviB+jl68=";
+      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.3/file/rvest.vs-code-prettier-eslint-5.0.3.vsix";
+      sha256 = "sha256-54jTRh2yhB/OpmPS5yOqziI31JXoWKbZ1HNyzmYXmmI=";
     };
     license = "MIT";
     name = "vs-code-prettier-eslint";
