@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "842fc6fd63411fd876298ab84f49237c8915faae",
-            "sha256": "sha256-X3omzunVSYvJ22dLquRr82vAKZYEjrCBXW0ni+p9HJk=",
+            "rev": "f527765db94c09b47370d6aa3aa53485cdc7fc12",
+            "sha256": "sha256-Bm1re9AWb4XLksK8LixRv6wOigr5Zo/HXErkCEnOJuc=",
             "type": "github"
         },
-        "version": "842fc6fd63411fd876298ab84f49237c8915faae"
+        "version": "f527765db94c09b47370d6aa3aa53485cdc7fc12"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1619,11 +1619,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "5e1384abfa7b2d06704d9057ea98c9f39a2be92c",
-            "sha256": "sha256-ky2GpG6CyjdMevT12VgJzR6XOGgMdPNKLqeIUj8wFJQ=",
+            "rev": "15572fe496c01d63d5c25a5b6cb50c66a826e5ab",
+            "sha256": "sha256-cdNusmDXQkdCfSWZS6Ue04a/FoBzlSmSYR8xM2ZVanQ=",
             "type": "github"
         },
-        "version": "5e1384abfa7b2d06704d9057ea98c9f39a2be92c"
+        "version": "15572fe496c01d63d5c25a5b6cb50c66a826e5ab"
     },
     "spicetify-themes": {
         "cargoLocks": null,
