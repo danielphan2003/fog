@@ -5979,14 +5979,14 @@
   };
   bodak-fluorescence = {
     pname = "bodak-fluorescence";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bodak/fluorescence/1.0.2/file/bodak.fluorescence-1.0.2.vsix";
-      sha256 = "sha256-WWWrzt/V1X9jy3XAi9G4XZMTUbcTdE5SM4mzCnfDXIs=";
+      url = "https://open-vsx.org/api/bodak/fluorescence/1.0.3/file/bodak.fluorescence-1.0.3.vsix";
+      sha256 = "sha256-yAq7UhYd62dfBXARQvwyIt5i94LQtHYelde///VAJLM=";
     };
     license = "MIT";
     name = "fluorescence";
-    description = "";
+    description = "Fluorescence inspired theme for Visual Studio Code";
     publisher = "bodak";
   };
   borkdude-clj-kondo = {
@@ -6639,10 +6639,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.7/file/cloudstudio.workspaces-0.0.7.vsix";
-      sha256 = "sha256-KXj6dT7pFkcSpvALsbWMgoDqChXyhMw0a6akV+Or7KU=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.8/file/cloudstudio.workspaces-0.0.8.vsix";
+      sha256 = "sha256-GFLMnBatFFW9uV+CN9Y65YeftvrbgBfqGOVl81wnbdY=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7503,10 +7503,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.99.0";
+    version = "0.100.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.99.0/file/dendron.dendron-0.99.0.vsix";
-      sha256 = "sha256-UpizlcpNNx81+0MSCwO42srRPI2EhZDpa0ly3rdARzE=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.100.0/file/dendron.dendron-0.100.0.vsix";
+      sha256 = "sha256-poxOZ8/jfWbd4CPu2paSJOtPkkoIN+7JVhBmRNCy0MU=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -15687,10 +15687,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.356";
+    version = "0.26.358";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.356/file/pokey.cursorless-0.26.356.vsix";
-      sha256 = "sha256-MxJzi47eeObMJVJIeAV8dMASdh9DfN76VIzpT1cjmdg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.358/file/pokey.cursorless-0.26.358.vsix";
+      sha256 = "sha256-27w12xjhXZN7bs/lKNwRz8p9UlvjAeftjCMtm2rdSgk=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18891,10 +18891,10 @@
   };
   tensorchord-vscode-envd = {
     pname = "tensorchord-vscode-envd";
-    version = "0.0.1";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tensorchord/vscode-envd/0.0.1/file/tensorchord.vscode-envd-0.0.1.vsix";
-      sha256 = "sha256-7y4ePtlkUP3Eqq8/7M70pBNckDmnMljewaL8nJIu5z8=";
+      url = "https://open-vsx.org/api/tensorchord/vscode-envd/0.0.4/file/tensorchord.vscode-envd-0.0.4.vsix";
+      sha256 = "sha256-Ldds90CLSadVkFiETsmM59y9yojzugRUzYMcMI0RNJc=";
     };
     license = "Apache-2.0";
     name = "vscode-envd";
@@ -22311,10 +22311,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.16/file/zardoy.vetur-extended-0.0.16.vsix";
-      sha256 = "sha256-7x7bBQQjXwR/AmcflJH4Hn9H4yxJt7v1zPCmIxFwk2s=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.17/file/zardoy.vetur-extended-0.0.17.vsix";
+      sha256 = "sha256-3yMnrZQipN/b3KvHutdbqTKvMfiQakc7bTptrt5fRQc=";
     };
     license = "MIT";
     name = "vetur-extended";

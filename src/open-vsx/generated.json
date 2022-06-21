@@ -9466,7 +9466,7 @@
         "extract": null,
         "name": "bodak-fluorescence",
         "passthru": {
-            "description": "",
+            "description": "Fluorescence inspired theme for Visual Studio Code",
             "license": "MIT",
             "name": "fluorescence",
             "publisher": "bodak"
@@ -9474,11 +9474,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WWWrzt/V1X9jy3XAi9G4XZMTUbcTdE5SM4mzCnfDXIs=",
+            "sha256": "sha256-yAq7UhYd62dfBXARQvwyIt5i94LQtHYelde///VAJLM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bodak/fluorescence/1.0.2/file/bodak.fluorescence-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/bodak/fluorescence/1.0.3/file/bodak.fluorescence-1.0.3.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.0.3"
     },
     "borkdude-clj-kondo": {
         "cargoLocks": null,
@@ -10519,11 +10519,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KXj6dT7pFkcSpvALsbWMgoDqChXyhMw0a6akV+Or7KU=",
+            "sha256": "sha256-GFLMnBatFFW9uV+CN9Y65YeftvrbgBfqGOVl81wnbdY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.7/file/cloudstudio.workspaces-0.0.7.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.8/file/cloudstudio.workspaces-0.0.8.vsix"
         },
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -11887,11 +11887,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UpizlcpNNx81+0MSCwO42srRPI2EhZDpa0ly3rdARzE=",
+            "sha256": "sha256-poxOZ8/jfWbd4CPu2paSJOtPkkoIN+7JVhBmRNCy0MU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.99.0/file/dendron.dendron-0.99.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.100.0/file/dendron.dendron-0.100.0.vsix"
         },
-        "version": "0.99.0"
+        "version": "0.100.0"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -24845,11 +24845,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MxJzi47eeObMJVJIeAV8dMASdh9DfN76VIzpT1cjmdg=",
+            "sha256": "sha256-27w12xjhXZN7bs/lKNwRz8p9UlvjAeftjCMtm2rdSgk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.356/file/pokey.cursorless-0.26.356.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.358/file/pokey.cursorless-0.26.358.vsix"
         },
-        "version": "0.26.356"
+        "version": "0.26.358"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -29918,11 +29918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7y4ePtlkUP3Eqq8/7M70pBNckDmnMljewaL8nJIu5z8=",
+            "sha256": "sha256-Ldds90CLSadVkFiETsmM59y9yojzugRUzYMcMI0RNJc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tensorchord/vscode-envd/0.0.1/file/tensorchord.vscode-envd-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/tensorchord/vscode-envd/0.0.4/file/tensorchord.vscode-envd-0.0.4.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.4"
     },
     "teros-technology-teroshdl": {
         "cargoLocks": null,
@@ -35333,11 +35333,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7x7bBQQjXwR/AmcflJH4Hn9H4yxJt7v1zPCmIxFwk2s=",
+            "sha256": "sha256-3yMnrZQipN/b3KvHutdbqTKvMfiQakc7bTptrt5fRQc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.16/file/zardoy.vetur-extended-0.0.16.vsix"
+            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.17/file/zardoy.vetur-extended-0.0.17.vsix"
         },
-        "version": "0.0.16"
+        "version": "0.0.17"
     },
     "zardoy-vscode-terminal-code-runner": {
         "cargoLocks": null,
