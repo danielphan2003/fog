@@ -82,12 +82,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "astro-vscode-0.19.2.zip",
-            "sha256": "sha256-n12615cNwkXQsMuT0IUln+QvIGTX1kvwtBS2Ams5QUc=",
+            "name": "astro-vscode-0.19.3.zip",
+            "sha256": "sha256-NaJ4iJKJFgd7BgiRtsQQZ0wiUjz2a3CQLnH4hIIMgBM=",
             "type": "url",
-            "url": "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.19.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+            "url": "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.19.3/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
         },
-        "version": "0.19.2"
+        "version": "0.19.3"
     },
     "dzhavat-css-initial-value": {
         "cargoLocks": null,
