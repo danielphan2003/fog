@@ -138,12 +138,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "cpptools-1.10.7.zip",
-            "sha256": "sha256-iPer4VWHmPclp5sdbn6i3urN59AwuCvSJP/VTGNyHMk=",
+            "name": "cpptools-1.11.0.zip",
+            "sha256": "sha256-JGgX2fB07OWZDeTs4lwl90aJOweUlylRy2iAubfouG0=",
             "type": "url",
-            "url": "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.10.7/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
+            "url": "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.11.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage"
         },
-        "version": "1.10.7"
+        "version": "1.11.0"
     },
     "msjsdiag-react-native": {
         "cargoLocks": null,
