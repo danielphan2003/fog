@@ -4914,11 +4914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hb+fGufDSscSziCmAbPzdysTX1aISZOZVhvvhfEP7Cs=",
+            "sha256": "sha256-J0p7qzxCaTGjClmDLJVULWlNdTQM+b3N3adxkXwcVZg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.33/file/SPGoding.datapack-language-server-3.3.33.vsix"
+            "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.34/file/SPGoding.datapack-language-server-3.3.34.vsix"
         },
-        "version": "3.3.33"
+        "version": "3.3.34"
     },
     "STNE-stnescript-support": {
         "cargoLocks": null,
@@ -23895,11 +23895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xmp6kitOcJ6hwo6r3e/FUP+jrq1amJJeEfk8ruRLwFI=",
+            "sha256": "sha256-howxDyKLjw/0QFvSjjB7kGMZurNoOMkuF77rziR3sL8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/oscarlevin/pretext-tools/0.4.1/file/oscarlevin.pretext-tools-0.4.1.vsix"
+            "url": "https://open-vsx.org/api/oscarlevin/pretext-tools/0.5.0/file/oscarlevin.pretext-tools-0.5.0.vsix"
         },
-        "version": "0.4.1"
+        "version": "0.5.0"
     },
     "ovly-ovly-ui5-snippets": {
         "cargoLocks": null,
@@ -28726,6 +28726,25 @@
             "url": "https://open-vsx.org/api/stefanjarina/vscode-eex-snippets/0.0.7/file/stefanjarina.vscode-eex-snippets-0.0.7.vsix"
         },
         "version": "0.0.7"
+    },
+    "steffo-riscv-plus": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "steffo-riscv-plus",
+        "passthru": {
+            "description": "RISC-V Syntax Highlighting.",
+            "license": "MIT",
+            "name": "riscv-plus",
+            "publisher": "steffo"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Pwo6XTwGXhIOn2jPBolMq17vz8j0wsSe2JSRO/PwEpo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/steffo/riscv-plus/0.1.0/file/steffo.riscv-plus-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "steffo-steffula-code": {
         "cargoLocks": null,

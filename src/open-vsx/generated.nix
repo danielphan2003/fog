@@ -3099,10 +3099,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.33";
+    version = "3.3.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.33/file/SPGoding.datapack-language-server-3.3.33.vsix";
-      sha256 = "sha256-hb+fGufDSscSziCmAbPzdysTX1aISZOZVhvvhfEP7Cs=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.34/file/SPGoding.datapack-language-server-3.3.34.vsix";
+      sha256 = "sha256-J0p7qzxCaTGjClmDLJVULWlNdTQM+b3N3adxkXwcVZg=";
     };
     license = "MIT";
     name = "datapack-language-server";
@@ -15087,10 +15087,10 @@
   };
   oscarlevin-pretext-tools = {
     pname = "oscarlevin-pretext-tools";
-    version = "0.4.1";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oscarlevin/pretext-tools/0.4.1/file/oscarlevin.pretext-tools-0.4.1.vsix";
-      sha256 = "sha256-xmp6kitOcJ6hwo6r3e/FUP+jrq1amJJeEfk8ruRLwFI=";
+      url = "https://open-vsx.org/api/oscarlevin/pretext-tools/0.5.0/file/oscarlevin.pretext-tools-0.5.0.vsix";
+      sha256 = "sha256-howxDyKLjw/0QFvSjjB7kGMZurNoOMkuF77rziR3sL8=";
     };
     license = "See license in LICENSE";
     name = "pretext-tools";
@@ -18144,6 +18144,18 @@
     name = "vscode-eex-snippets";
     description = "Elixir EEx and HTML (EEx) code snippets.";
     publisher = "stefanjarina";
+  };
+  steffo-riscv-plus = {
+    pname = "steffo-riscv-plus";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/steffo/riscv-plus/0.1.0/file/steffo.riscv-plus-0.1.0.vsix";
+      sha256 = "sha256-Pwo6XTwGXhIOn2jPBolMq17vz8j0wsSe2JSRO/PwEpo=";
+    };
+    license = "MIT";
+    name = "riscv-plus";
+    description = "RISC-V Syntax Highlighting.";
+    publisher = "steffo";
   };
   steffo-steffula-code = {
     pname = "steffo-steffula-code";
