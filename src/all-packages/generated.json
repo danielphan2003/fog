@@ -2153,12 +2153,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4f5999826aa478ba5f138e74cfccdf3b854c8e54",
-            "sha256": "sha256-NVXa43HBgTXIBPynwG/gPjiUQ6ltVVj1sjMC7t0jY6A=",
+            "rev": "8cd0397e5b4c1f0e0add1fea67f82b811214bf3e",
+            "sha256": "sha256-oTQj93tYIzFleRZwUThqg1cEDcf86XLpPTPYN2+0+jA=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
-        "version": "4f5999826aa478ba5f138e74cfccdf3b854c8e54"
+        "version": "8cd0397e5b4c1f0e0add1fea67f82b811214bf3e"
     },
     "ydotool": {
         "cargoLocks": null,
