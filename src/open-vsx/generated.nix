@@ -2811,10 +2811,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "2.0.0";
+    version = "2.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.0.0/file/PrateekMahendrakar.prettyxml-2.0.0.vsix";
-      sha256 = "sha256-77OEaAKE2lZAGg+Umh0dtvARehtndIHNPB/wxHwJ2GQ=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.0.1/file/PrateekMahendrakar.prettyxml-2.0.1.vsix";
+      sha256 = "sha256-Uis3a0JkLp8pG8T7EIEQnzNfqBX0qA2+HBZYBrCphIM=";
     };
     license = "MIT";
     name = "prettyxml";
@@ -3243,10 +3243,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.1822";
+    version = "2022.6.2018";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.1822/file/Slint.slint-nightly-2022.6.1822.vsix";
-      sha256 = "sha256-WkM+mRpbt8eUPPWWG2nYvr/waN8nVGUVS1rMqOCTAWw=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2018/file/Slint.slint-nightly-2022.6.2018.vsix";
+      sha256 = "sha256-u2TnSXgR5vPYR+pQ/tg/l5V3b6IPwcodIUOF3b/8dMM=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -4635,10 +4635,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.39.0";
+    version = "1.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.39.0/file/amazonwebservices.aws-toolkit-vscode-1.39.0.vsix";
-      sha256 = "sha256-oxeAIXW9hDK93kILoe1ARQhAFJOPM+im0RjvThlB7Xw=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.40.0/file/amazonwebservices.aws-toolkit-vscode-1.40.0.vsix";
+      sha256 = "sha256-aNCwrJwLtVShY6cix+9lQmiy2xnjNFBabuSf6FOm3uQ=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -9651,10 +9651,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.7";
+    version = "1.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.7/file/halcyontechltd.code-for-ibmi-1.3.7.vsix";
-      sha256 = "sha256-pM2zsSvp2tcWVFtm9IXCmxbcsn3ouzbT30AYFkh3SGY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.8/file/halcyontechltd.code-for-ibmi-1.3.8.vsix";
+      sha256 = "sha256-b1xJj/3Rx3fN9eyAVmHdqz4PO50SpDt9Lqerv1Wb3Tw=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -14703,10 +14703,10 @@
   };
   nonoroazoro-syncing = {
     pname = "nonoroazoro-syncing";
-    version = "3.2.0";
+    version = "3.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nonoroazoro/syncing/3.2.0/file/nonoroazoro.syncing-3.2.0.vsix";
-      sha256 = "sha256-aHh53PeqOgfae2UdXpbzQ0EJfm2YsnlPzaPyrkeAXsk=";
+      url = "https://open-vsx.org/api/nonoroazoro/syncing/3.3.0/file/nonoroazoro.syncing-3.3.0.vsix";
+      sha256 = "sha256-Bxdx67DPmJS+5EkbjTqyWIK4H0/BhcScyg5GAb4UE70=";
     };
     license = "(MIT AND 996ICU)";
     name = "syncing";
@@ -18888,6 +18888,18 @@
     name = "vscode-koverage";
     description = "View the code coverage per folder/file in the test view";
     publisher = "tenninebt";
+  };
+  tensorchord-vscode-envd = {
+    pname = "tensorchord-vscode-envd";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tensorchord/vscode-envd/0.0.1/file/tensorchord.vscode-envd-0.0.1.vsix";
+      sha256 = "sha256-7y4ePtlkUP3Eqq8/7M70pBNckDmnMljewaL8nJIu5z8=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-envd";
+    description = "envd extension for visual studio code";
+    publisher = "tensorchord";
   };
   teros-technology-teroshdl = {
     pname = "teros-technology-teroshdl";
