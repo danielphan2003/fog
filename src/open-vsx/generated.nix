@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1081";
+    version = "31.0.1082";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1081/file/Prisma.prisma-insider-31.0.1081.vsix";
-      sha256 = "sha256-qZC9eYDuVrP41scSY4900IyZ1zMLDUKAkTSu5wN7ovg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1082/file/Prisma.prisma-insider-31.0.1082.vsix";
+      sha256 = "sha256-LJ68NqLj4e91V0moYWQe9OTSQmXnL6dhA5WLQY4jm/c=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10323,10 +10323,10 @@
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
-    version = "3.50.0";
+    version = "3.50.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.50.0/file/idleberg.nsis-3.50.0.vsix";
-      sha256 = "sha256-GEf8Dph7l1jlxBevHMRH/InIDkhJbAFKSwrNwbxjLJU=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.50.1/file/idleberg.nsis-3.50.1.vsix";
+      sha256 = "sha256-Pu984XAdFaql9EfRoX/DwD0lNACY2rtEvuvRwGq9ydc=";
     };
     license = "MIT OR GPL-2.0";
     name = "nsis";
@@ -19719,14 +19719,26 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.12.0";
+    version = "2.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.12.0/file/usernamehw.todo-md-2.12.0.vsix";
-      sha256 = "sha256-0Uk+v/sdMIp+2eG9e30DI0P8wj/J88PQDORlo9rGDrE=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.12.1/file/usernamehw.todo-md-2.12.1.vsix";
+      sha256 = "sha256-Fq5XjWUjh/XRX6pDW63BhQ8pFEVmHEQP6kgnfPVHlEc=";
     };
     license = "MIT";
     name = "todo-md";
     description = "Todo tracking based on `todo.txt` format.";
+    publisher = "usernamehw";
+  };
+  usernamehw-url-title = {
+    pname = "usernamehw-url-title";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/usernamehw/url-title/0.1.0/file/usernamehw.url-title-0.1.0.vsix";
+      sha256 = "sha256-stQ9LC8p6eh82pPU53FOLOewQNoNCHzsrIZT99lO2ig=";
+    };
+    license = "MIT";
+    name = "url-title";
+    description = "Fetch html page title from url and make a markdown link out of it.";
     publisher = "usernamehw";
   };
   usernamehw-vscode-join-lines = {
@@ -21519,10 +21531,10 @@
   };
   wcrichton-flowistry = {
     pname = "wcrichton-flowistry";
-    version = "0.5.26";
+    version = "0.5.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.26/file/wcrichton.flowistry-0.5.26.vsix";
-      sha256 = "sha256-A+WryIW10JhykbarstrnsZ3Jswz7XwcOfYHD6EZTpBw=";
+      url = "https://open-vsx.org/api/wcrichton/flowistry/0.5.27/file/wcrichton.flowistry-0.5.27.vsix";
+      sha256 = "sha256-oJlgpijORdMs6qQU4jxCnnOIYrb9LSUSNguXCbO/te8=";
     };
     license = "MIT";
     name = "flowistry";

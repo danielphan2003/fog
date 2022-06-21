@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qZC9eYDuVrP41scSY4900IyZ1zMLDUKAkTSu5wN7ovg=",
+            "sha256": "sha256-LJ68NqLj4e91V0moYWQe9OTSQmXnL6dhA5WLQY4jm/c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1081/file/Prisma.prisma-insider-31.0.1081.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1082/file/Prisma.prisma-insider-31.0.1082.vsix"
         },
-        "version": "31.0.1081"
+        "version": "31.0.1082"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -16352,11 +16352,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GEf8Dph7l1jlxBevHMRH/InIDkhJbAFKSwrNwbxjLJU=",
+            "sha256": "sha256-Pu984XAdFaql9EfRoX/DwD0lNACY2rtEvuvRwGq9ydc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/idleberg/nsis/3.50.0/file/idleberg.nsis-3.50.0.vsix"
+            "url": "https://open-vsx.org/api/idleberg/nsis/3.50.1/file/idleberg.nsis-3.50.1.vsix"
         },
-        "version": "3.50.0"
+        "version": "3.50.1"
     },
     "idleberg-nsis-plugins": {
         "cargoLocks": null,
@@ -31229,11 +31229,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0Uk+v/sdMIp+2eG9e30DI0P8wj/J88PQDORlo9rGDrE=",
+            "sha256": "sha256-Fq5XjWUjh/XRX6pDW63BhQ8pFEVmHEQP6kgnfPVHlEc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.12.0/file/usernamehw.todo-md-2.12.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.12.1/file/usernamehw.todo-md-2.12.1.vsix"
         },
-        "version": "2.12.0"
+        "version": "2.12.1"
+    },
+    "usernamehw-url-title": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "usernamehw-url-title",
+        "passthru": {
+            "description": "Fetch html page title from url and make a markdown link out of it.",
+            "license": "MIT",
+            "name": "url-title",
+            "publisher": "usernamehw"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-stQ9LC8p6eh82pPU53FOLOewQNoNCHzsrIZT99lO2ig=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/usernamehw/url-title/0.1.0/file/usernamehw.url-title-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "usernamehw-vscode-join-lines": {
         "cargoLocks": null,
@@ -34079,11 +34098,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-A+WryIW10JhykbarstrnsZ3Jswz7XwcOfYHD6EZTpBw=",
+            "sha256": "sha256-oJlgpijORdMs6qQU4jxCnnOIYrb9LSUSNguXCbO/te8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.26/file/wcrichton.flowistry-0.5.26.vsix"
+            "url": "https://open-vsx.org/api/wcrichton/flowistry/0.5.27/file/wcrichton.flowistry-0.5.27.vsix"
         },
-        "version": "0.5.26"
+        "version": "0.5.27"
     },
     "wdhongtw-gpg-indicator": {
         "cargoLocks": null,
