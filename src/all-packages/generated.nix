@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "5403c5fb4f491c34d75a3fb3197b8396ff22700a";
+    version = "967295fba7faf66f5b76c25056fbb2b42f605665";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "5403c5fb4f491c34d75a3fb3197b8396ff22700a";
+      rev = "967295fba7faf66f5b76c25056fbb2b42f605665";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-opRi7v2ZnJq0hOV/4k9tFwxyipf8amCP1gEz20/mPmk=";
+      sha256 = "sha256-NWL6BwL112w1Gmzly/PjUtRbzbAwQTMEUESCT5UZjck=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-5403c5fb4f491c34d75a3fb3197b8396ff22700a/Cargo.lock;
+      lockFile = ./asusctl-967295fba7faf66f5b76c25056fbb2b42f605665/Cargo.lock;
       outputHashes = {
         
       };
@@ -326,13 +326,13 @@
   };
   duf = {
     pname = "duf";
-    version = "4f4bce983562c3edc40161a44de19a2e258e38b1";
+    version = "052fb2661d9f2c78eb9dfae09c01ea85c83009ed";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "4f4bce983562c3edc40161a44de19a2e258e38b1";
+      rev = "052fb2661d9f2c78eb9dfae09c01ea85c83009ed";
       fetchSubmodules = false;
-      sha256 = "sha256-Wg7b31nm/p/0rHYwLKoI6/1iQH2qmWWKX9knFxf5T3Q=";
+      sha256 = "sha256-eOd9h8f6yp3ju5MGMdAuBQnYPVZk0Jj/DaXJGM5HqCs=";
     });
   };
   eww = {
@@ -475,18 +475,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6270";
+    version = "1.0.6272";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6270.tar.bz2";
-      sha256 = "sha256-qa8rsDmmtTj+Zfw+LeRnqprtDyFZvhkK3vBy0irGJf8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6272.tar.bz2";
+      sha256 = "sha256-rIvUx0ZrSfcWzFkm7qBFCnJfVCBKXqo+FrMiJXMrS2g=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6270";
+    version = "1.0.6272";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6270-1_all.deb";
-      sha256 = "sha256-N8hCr51TT91bNDC+h3Q23EihrEkctdQegLGC/BSGY1M=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6272-1_all.deb";
+      sha256 = "sha256-X5aQ91MvetE30ishfDOUgOF/hQ6xDlTTIbfupyHvm4E=";
     };
   };
   jitsi-videobridge2 = {

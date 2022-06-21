@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-5403c5fb4f491c34d75a3fb3197b8396ff22700a/Cargo.lock",
+                "./asusctl-967295fba7faf66f5b76c25056fbb2b42f605665/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5403c5fb4f491c34d75a3fb3197b8396ff22700a",
-            "sha256": "sha256-opRi7v2ZnJq0hOV/4k9tFwxyipf8amCP1gEz20/mPmk=",
+            "rev": "967295fba7faf66f5b76c25056fbb2b42f605665",
+            "sha256": "sha256-NWL6BwL112w1Gmzly/PjUtRbzbAwQTMEUESCT5UZjck=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "5403c5fb4f491c34d75a3fb3197b8396ff22700a"
+        "version": "967295fba7faf66f5b76c25056fbb2b42f605665"
     },
     "avizo": {
         "cargoLocks": null,
@@ -547,11 +547,11 @@
             "name": null,
             "owner": "muesli",
             "repo": "duf",
-            "rev": "4f4bce983562c3edc40161a44de19a2e258e38b1",
-            "sha256": "sha256-Wg7b31nm/p/0rHYwLKoI6/1iQH2qmWWKX9knFxf5T3Q=",
+            "rev": "052fb2661d9f2c78eb9dfae09c01ea85c83009ed",
+            "sha256": "sha256-eOd9h8f6yp3ju5MGMdAuBQnYPVZk0Jj/DaXJGM5HqCs=",
             "type": "github"
         },
-        "version": "4f4bce983562c3edc40161a44de19a2e258e38b1"
+        "version": "052fb2661d9f2c78eb9dfae09c01ea85c83009ed"
     },
     "eww": {
         "cargoLocks": {
@@ -789,11 +789,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qa8rsDmmtTj+Zfw+LeRnqprtDyFZvhkK3vBy0irGJf8=",
+            "sha256": "sha256-rIvUx0ZrSfcWzFkm7qBFCnJfVCBKXqo+FrMiJXMrS2g=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6270.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6272.tar.bz2"
         },
-        "version": "1.0.6270"
+        "version": "1.0.6272"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -803,11 +803,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-N8hCr51TT91bNDC+h3Q23EihrEkctdQegLGC/BSGY1M=",
+            "sha256": "sha256-X5aQ91MvetE30ishfDOUgOF/hQ6xDlTTIbfupyHvm4E=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6270-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6272-1_all.deb"
         },
-        "version": "1.0.6270"
+        "version": "1.0.6272"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
