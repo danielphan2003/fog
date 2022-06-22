@@ -7611,10 +7611,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.99.5";
+    version = "0.100.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.99.5/file/dendron.nightly-0.99.5.vsix";
-      sha256 = "sha256-5Rn1XWfy9ZHhpUJvQDuC0pkprAkMuwP8DsLPl8WR1cg=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.100.1/file/dendron.nightly-0.100.1.vsix";
+      sha256 = "sha256-7utwqdOsuUZER/fQuheWMAfbqSakqjDOze9dbDtyqSU=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -7695,10 +7695,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.27";
+    version = "0.5.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.27/file/digma.digma-0.5.27.vsix";
-      sha256 = "sha256-yb93eVnewbk1R91m71sx/uZAaGOhBCkckH/hYCUAQH8=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.28/file/digma.digma-0.5.28.vsix";
+      sha256 = "sha256-eiYLU2KY+/JGNmuQ25vOmomr+Bjhx9NTCHr6D0N1Ut8=";
     };
     license = "MIT";
     name = "digma";
@@ -22176,6 +22176,18 @@
     name = "web-ext";
     description = "";
     publisher = "yogesh-ti";
+  };
+  yogesh-web-ext = {
+    pname = "yogesh-web-ext";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/yogesh/web-ext/0.0.1/file/yogesh.web-ext-0.0.1.vsix";
+      sha256 = "sha256-Wwni1jg5wEg9FGI0ngvBSdgrWHAqUwfgkCyrf8NS8sM=";
+    };
+    license = "MIT";
+    name = "web-ext";
+    description = "";
+    publisher = "yogesh";
   };
   yurihs-sublime-vscode-theme = {
     pname = "yurihs-sublime-vscode-theme";

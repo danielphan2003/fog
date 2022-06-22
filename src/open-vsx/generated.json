@@ -12058,11 +12058,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5Rn1XWfy9ZHhpUJvQDuC0pkprAkMuwP8DsLPl8WR1cg=",
+            "sha256": "sha256-7utwqdOsuUZER/fQuheWMAfbqSakqjDOze9dbDtyqSU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.99.5/file/dendron.nightly-0.99.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.100.1/file/dendron.nightly-0.100.1.vsix"
         },
-        "version": "0.99.5"
+        "version": "0.100.1"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -12191,11 +12191,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yb93eVnewbk1R91m71sx/uZAaGOhBCkckH/hYCUAQH8=",
+            "sha256": "sha256-eiYLU2KY+/JGNmuQ25vOmomr+Bjhx9NTCHr6D0N1Ut8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.27/file/digma.digma-0.5.27.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.28/file/digma.digma-0.5.28.vsix"
         },
-        "version": "0.5.27"
+        "version": "0.5.28"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
@@ -35108,6 +35108,25 @@
             "sha256": "sha256-2OGCsMz8IqTqsWtDRXO2dzevCLidqSsb664+kwzLb1Q=",
             "type": "url",
             "url": "https://open-vsx.org/api/yogesh-ti/web-ext/0.0.1/file/yogesh-ti.web-ext-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
+    "yogesh-web-ext": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "yogesh-web-ext",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "web-ext",
+            "publisher": "yogesh"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Wwni1jg5wEg9FGI0ngvBSdgrWHAqUwfgkCyrf8NS8sM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/yogesh/web-ext/0.0.1/file/yogesh.web-ext-0.0.1.vsix"
         },
         "version": "0.0.1"
     },
