@@ -709,11 +709,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "606f4b07940fe66d072e3dbe899c4ba13e057a99",
-            "sha256": "sha256-VxnJnhSCLPK9Z8+MLkpnIkXg/QPWZhSxfe+1eHuV5QM=",
+            "rev": "11a5e6bcbfad9d35b843f928145ba698684b427d",
+            "sha256": "sha256-98uRfCaNiufMQh56ujixV9WEd+YdjWKCTgkebtRPeaA=",
             "type": "github"
         },
-        "version": "606f4b07940fe66d072e3dbe899c4ba13e057a99"
+        "version": "11a5e6bcbfad9d35b843f928145ba698684b427d"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1413,11 +1413,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "28a41ad1b1ac935665f00d12658d3bf9715c57a1",
-            "sha256": "sha256-8hPeXIm4xm90VdXC6UdUqUmhhlmea0GIM8pPAFpf8Bc=",
+            "rev": "745652bbbf0d41edcbad1b4b8273c3b854af8264",
+            "sha256": "sha256-B+1YhXYlRH8YV6619/JCIu1DBukMH43YU8zVbOLj4n0=",
             "type": "github"
         },
-        "version": "28a41ad1b1ac935665f00d12658d3bf9715c57a1"
+        "version": "745652bbbf0d41edcbad1b4b8273c3b854af8264"
     },
     "rofi-wayland": {
         "cargoLocks": null,
