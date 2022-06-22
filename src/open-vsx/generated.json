@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G6w0w/LcHF7ZmGn8kGGOYAilIf0ld4NSFQ48tcVpSGA=",
+            "sha256": "sha256-cVXFXzTbpOfP6f9T6aMSnYIU8Xsq4WOrdNAoGuzwsxE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1094/file/Prisma.prisma-insider-31.0.1094.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1096/file/Prisma.prisma-insider-31.0.1096.vsix"
         },
-        "version": "31.0.1094"
+        "version": "31.0.1096"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
