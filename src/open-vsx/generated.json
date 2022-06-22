@@ -17359,11 +17359,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0jEd1qcOIIM7eDYUVLM6+tnZtgjpZVr9iFznJO1dfEA=",
+            "sha256": "sha256-2nkAerRdo482+N53dNLkG3q2UZzrrGGaMFyRkYo/1og=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jebbs/plantuml/2.17.2/file/jebbs.plantuml-2.17.2.vsix"
+            "url": "https://open-vsx.org/api/jebbs/plantuml/2.17.3/file/jebbs.plantuml-2.17.3.vsix"
         },
-        "version": "2.17.2"
+        "version": "2.17.3"
     },
     "jeff-hykin-better-dockerfile-syntax": {
         "cargoLocks": null,
@@ -22090,11 +22090,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SY6otM+g4ITOwTqb4N/aMkGrbuoNG1q4CS2BSvS88VE=",
+            "sha256": "sha256-6JmqIPhObqgT9q14tuTZ0WETnTtbC9A0PyBt6Ka3G3Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.5.1/file/ms-vscode.powershell-2022.5.1.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.6.1/file/ms-vscode.powershell-2022.6.1.vsix"
         },
-        "version": "2022.5.1"
+        "version": "2022.6.1"
     },
     "ms-vscode-powershell-preview": {
         "cargoLocks": null,
@@ -22703,6 +22703,25 @@
             "url": "https://open-vsx.org/api/mushan/vscode-paste-image/1.0.4/file/mushan.vscode-paste-image-1.0.4.vsix"
         },
         "version": "1.0.4"
+    },
+    "mutable-ai-mutable-ai": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mutable-ai-mutable-ai",
+        "passthru": {
+            "description": "An AI code suggestion tool",
+            "license": "",
+            "name": "mutable-ai",
+            "publisher": "mutable-ai"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-QZZZtuxMx9ksiTcfdE/tk4BXVKmxzqEJAHjQbjWq21A=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.14.0/file/mutable-ai.mutable-ai-0.14.0.vsix"
+        },
+        "version": "0.14.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -27847,11 +27866,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a8OWu4merpe0SggtrVfbHyPQrlo6uOwvM5DeVEvRFkU=",
+            "sha256": "sha256-VwF4qBfpGfG2uAhLV7E88sMXTOhjTTKEuQbqMzxOLCo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.49/file/shivaprasanth.dothttp-code-0.0.49.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.50/file/shivaprasanth.dothttp-code-0.0.50.vsix"
         },
-        "version": "0.0.49"
+        "version": "0.0.50"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,
@@ -27923,11 +27942,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ClKwdhymPjDIZqrFT8290zoh+z0vmf+0ggjRZBCj7ZI=",
+            "sha256": "sha256-EqObG+9s8GI2isVd+5xWvvaECy9xEBBNZtNnt/DaKPc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.2/file/shufo.vscode-blade-formatter-0.15.2.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.3/file/shufo.vscode-blade-formatter-0.15.3.vsix"
         },
-        "version": "0.15.2"
+        "version": "0.15.3"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,

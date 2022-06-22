@@ -10959,10 +10959,10 @@
   };
   jebbs-plantuml = {
     pname = "jebbs-plantuml";
-    version = "2.17.2";
+    version = "2.17.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jebbs/plantuml/2.17.2/file/jebbs.plantuml-2.17.2.vsix";
-      sha256 = "sha256-0jEd1qcOIIM7eDYUVLM6+tnZtgjpZVr9iFznJO1dfEA=";
+      url = "https://open-vsx.org/api/jebbs/plantuml/2.17.3/file/jebbs.plantuml-2.17.3.vsix";
+      sha256 = "sha256-2nkAerRdo482+N53dNLkG3q2UZzrrGGaMFyRkYo/1og=";
     };
     license = "MIT";
     name = "plantuml";
@@ -13947,10 +13947,10 @@
   };
   ms-vscode-powershell = {
     pname = "ms-vscode-powershell";
-    version = "2022.5.1";
+    version = "2022.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.5.1/file/ms-vscode.powershell-2022.5.1.vsix";
-      sha256 = "sha256-SY6otM+g4ITOwTqb4N/aMkGrbuoNG1q4CS2BSvS88VE=";
+      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.6.1/file/ms-vscode.powershell-2022.6.1.vsix";
+      sha256 = "sha256-6JmqIPhObqgT9q14tuTZ0WETnTtbC9A0PyBt6Ka3G3Y=";
     };
     license = "MIT";
     name = "powershell";
@@ -14340,6 +14340,18 @@
     name = "vscode-paste-image";
     description = "paste image from clipboard directly";
     publisher = "mushan";
+  };
+  mutable-ai-mutable-ai = {
+    pname = "mutable-ai-mutable-ai";
+    version = "0.14.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.14.0/file/mutable-ai.mutable-ai-0.14.0.vsix";
+      sha256 = "sha256-QZZZtuxMx9ksiTcfdE/tk4BXVKmxzqEJAHjQbjWq21A=";
+    };
+    license = "";
+    name = "mutable-ai";
+    description = "An AI code suggestion tool";
+    publisher = "mutable-ai";
   };
   muuvmuuv-vscode-sundial = {
     pname = "muuvmuuv-vscode-sundial";
@@ -17583,10 +17595,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.49";
+    version = "0.0.50";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.49/file/shivaprasanth.dothttp-code-0.0.49.vsix";
-      sha256 = "sha256-a8OWu4merpe0SggtrVfbHyPQrlo6uOwvM5DeVEvRFkU=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.50/file/shivaprasanth.dothttp-code-0.0.50.vsix";
+      sha256 = "sha256-VwF4qBfpGfG2uAhLV7E88sMXTOhjTTKEuQbqMzxOLCo=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
@@ -17631,10 +17643,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.15.2";
+    version = "0.15.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.2/file/shufo.vscode-blade-formatter-0.15.2.vsix";
-      sha256 = "sha256-ClKwdhymPjDIZqrFT8290zoh+z0vmf+0ggjRZBCj7ZI=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.3/file/shufo.vscode-blade-formatter-0.15.3.vsix";
+      sha256 = "sha256-EqObG+9s8GI2isVd+5xWvvaECy9xEBBNZtNnt/DaKPc=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
