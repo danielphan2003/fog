@@ -229,17 +229,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "9ee199b0c3562b71d19067746bd122c333443ebf";
+    version = "02f82188679301648362fad6995bde8ee7c2dc0e";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "9ee199b0c3562b71d19067746bd122c333443ebf";
+      rev = "02f82188679301648362fad6995bde8ee7c2dc0e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-kKAEzlbUGyKEOF+ElzYly2YNDBXl9UBRyC7ylpYn5lk=";
+      sha256 = "sha256-kL3a+Oz+q39qJ3ZwmK80UIwKdt24zUCYaYTfK268uKU=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-9ee199b0c3562b71d19067746bd122c333443ebf/Cargo.lock;
+      lockFile = ./conduit-02f82188679301648362fad6995bde8ee7c2dc0e/Cargo.lock;
       outputHashes = {
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -426,13 +426,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5614f28dfd11da7f19ed05a63510e65f1afb2f63";
+    version = "64f6818a134057b84eb1aac473567b90a75d75d0";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "5614f28dfd11da7f19ed05a63510e65f1afb2f63";
+      rev = "64f6818a134057b84eb1aac473567b90a75d75d0";
       fetchSubmodules = false;
-      sha256 = "sha256-SVO/L45kQxxlBMwc2/yvRvZlZN6uiVJWQV3yDF50SPE=";
+      sha256 = "sha256-SHElAr8ZnLirEX8qd4vRyNaorUMi0lAEn/v5+GIlA5c=";
     });
   };
   ibus = {
@@ -1063,13 +1063,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8c5c87be26082a921fd705e1e16b883dc92cdfa2";
+    version = "76256d22d865b6d003147af275e8c3973091901f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8c5c87be26082a921fd705e1e16b883dc92cdfa2";
+      rev = "76256d22d865b6d003147af275e8c3973091901f";
       fetchSubmodules = false;
-      sha256 = "sha256-6gc5YdvRJdBN+LGhZyfHARF3ktssct16mquGjD51Tpc=";
+      sha256 = "sha256-67QMG2YzJJgfRKLD3lg6U0O0PhfoDpyVdHVpCd31uyU=";
     });
   };
   tailscale-systray = {
