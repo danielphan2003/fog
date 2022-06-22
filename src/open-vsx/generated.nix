@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1082";
+    version = "31.0.1093";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1082/file/Prisma.prisma-insider-31.0.1082.vsix";
-      sha256 = "sha256-LJ68NqLj4e91V0moYWQe9OTSQmXnL6dhA5WLQY4jm/c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1093/file/Prisma.prisma-insider-31.0.1093.vsix";
+      sha256 = "sha256-EAhA2Z/W1zycyMorSI4K+yHVDa2u2nYzGhvtYShF/EA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8151,10 +8151,10 @@
   };
   elixir-lsp-elixir-ls = {
     pname = "elixir-lsp-elixir-ls";
-    version = "0.9.0";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.9.0/file/elixir-lsp.elixir-ls-0.9.0.vsix";
-      sha256 = "sha256-At03wB7kriJWpvbmfwqnayscmn0L15H+yANYmx44/7A=";
+      url = "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.10.0/file/elixir-lsp.elixir-ls-0.10.0.vsix";
+      sha256 = "sha256-Sn8bX+vcHWvy5p/yKdD//hZ+F+tR0yPM8Onf7ggX4uc=";
     };
     license = "MIT";
     name = "elixir-ls";

@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LJ68NqLj4e91V0moYWQe9OTSQmXnL6dhA5WLQY4jm/c=",
+            "sha256": "sha256-EAhA2Z/W1zycyMorSI4K+yHVDa2u2nYzGhvtYShF/EA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1082/file/Prisma.prisma-insider-31.0.1082.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1093/file/Prisma.prisma-insider-31.0.1093.vsix"
         },
-        "version": "31.0.1082"
+        "version": "31.0.1093"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12913,11 +12913,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-At03wB7kriJWpvbmfwqnayscmn0L15H+yANYmx44/7A=",
+            "sha256": "sha256-Sn8bX+vcHWvy5p/yKdD//hZ+F+tR0yPM8Onf7ggX4uc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.9.0/file/elixir-lsp.elixir-ls-0.9.0.vsix"
+            "url": "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.10.0/file/elixir-lsp.elixir-ls-0.10.0.vsix"
         },
-        "version": "0.9.0"
+        "version": "0.10.0"
     },
     "elves-elvish": {
         "cargoLocks": null,
