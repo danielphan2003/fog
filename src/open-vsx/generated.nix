@@ -19779,10 +19779,10 @@
   };
   usernamehw-vscode-join-lines = {
     pname = "usernamehw-vscode-join-lines";
-    version = "0.1.1";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.1.1/file/usernamehw.vscode-join-lines-0.1.1.vsix";
-      sha256 = "sha256-12pgXwXklrx8X770M39KO2QDo8J8dNG88YDhMRksEvs=";
+      url = "https://open-vsx.org/api/usernamehw/vscode-join-lines/0.2.0/file/usernamehw.vscode-join-lines-0.2.0.vsix";
+      sha256 = "sha256-RXZtJ9qXWeNJSL1EbxDB+fAKItzOZd7qj8Fu/dkmJ8w=";
     };
     license = "MIT";
     name = "vscode-join-lines";
