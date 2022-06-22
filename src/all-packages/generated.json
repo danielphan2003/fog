@@ -2099,11 +2099,11 @@
             "name": null,
             "owner": "flatpak",
             "repo": "xdg-desktop-portal-gtk",
-            "rev": "7c7bbf922b63b9d536a2293c0587cb20df01eb2d",
-            "sha256": "sha256-I9xQgiE3lNb2vRodO5R1y40lqoOKzALskrVePidant4=",
+            "rev": "948cc12b124818bd5329ccd5a331a9d0324734e0",
+            "sha256": "sha256-yeO/v0p3cu88Shuv7C7wjUnpcP1Z3Xan1rjuNlq/rQ0=",
             "type": "github"
         },
-        "version": "7c7bbf922b63b9d536a2293c0587cb20df01eb2d"
+        "version": "948cc12b124818bd5329ccd5a331a9d0324734e0"
     },
     "xorg-libxcvt": {
         "cargoLocks": null,
