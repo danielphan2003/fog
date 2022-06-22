@@ -709,11 +709,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "69d08cb3fc1962caf57f560243be34c0120b065d",
-            "sha256": "sha256-raScD51RCurs+MNykqAO1At+VDo3iiajE/sLLZgMubI=",
+            "rev": "606f4b07940fe66d072e3dbe899c4ba13e057a99",
+            "sha256": "sha256-VxnJnhSCLPK9Z8+MLkpnIkXg/QPWZhSxfe+1eHuV5QM=",
             "type": "github"
         },
-        "version": "69d08cb3fc1962caf57f560243be34c0120b065d"
+        "version": "606f4b07940fe66d072e3dbe899c4ba13e057a99"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1841,11 +1841,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "02790a94798e48b656c7c453a5a8cd30bfb50ddc",
-            "sha256": "sha256-KweO7jmktBzNpMv6OKCt924o3/EfNmCYpDuviE2DGLA=",
+            "rev": "3f987d0b7d5ffd982ad1d29ccc35c88e6ab1d42a",
+            "sha256": "sha256-1idQonc8IWqtBhFm7hwhVSdlh3wRq31CBDVF5/VIJn8=",
             "type": "github"
         },
-        "version": "02790a94798e48b656c7c453a5a8cd30bfb50ddc"
+        "version": "3f987d0b7d5ffd982ad1d29ccc35c88e6ab1d42a"
     },
     "ultimmc": {
         "cargoLocks": null,
