@@ -1191,10 +1191,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.47.1";
+    version = "3.47.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.47.1/file/GitLab.gitlab-workflow-3.47.1.vsix";
-      sha256 = "sha256-qEj49bjb/FU0uVo0XTM9wlZRfX2EgSgl5EGnSeT2OIU=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.47.2/file/GitLab.gitlab-workflow-3.47.2.vsix";
+      sha256 = "sha256-VeL3yvfaNIHUPaZHDxSE8pbdh4c93uMjhSMv2PWR6ts=";
     };
     license = "MIT";
     name = "gitlab-workflow";
@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1093";
+    version = "31.0.1094";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1093/file/Prisma.prisma-insider-31.0.1093.vsix";
-      sha256 = "sha256-EAhA2Z/W1zycyMorSI4K+yHVDa2u2nYzGhvtYShF/EA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1094/file/Prisma.prisma-insider-31.0.1094.vsix";
+      sha256 = "sha256-G6w0w/LcHF7ZmGn8kGGOYAilIf0ld4NSFQ48tcVpSGA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13659,10 +13659,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.239";
+    version = "1.1.255";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.239/file/ms-pyright.pyright-1.1.239.vsix";
-      sha256 = "sha256-38HfJl8I+bhXAa9IP6/14u86RIcs++KPcUYXIHnY3xA=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.255/file/ms-pyright.pyright-1.1.255.vsix";
+      sha256 = "sha256-KJ9mU3tO3zrrxQ8X5C/wjpiMEztIcYMlktmdSemeflM=";
     };
     license = "MIT";
     name = "pyright";
@@ -15735,10 +15735,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.359";
+    version = "0.26.360";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.359/file/pokey.cursorless-0.26.359.vsix";
-      sha256 = "sha256-CY05TU2LMoaurSZKYn50yXEMicjSctU4J21Wr9m3Y8Q=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.360/file/pokey.cursorless-0.26.360.vsix";
+      sha256 = "sha256-X8BQnE+qjAKCwAlLnS52niukURONvzP+nS3pPccSLoc=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18037,6 +18037,18 @@
     description = "VSCode extension with helpful code snippets for SolidJS.";
     publisher = "solidjs-community";
   };
+  sourcegraph-sourcegraph = {
+    pname = "sourcegraph-sourcegraph";
+    version = "2.2.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.4/file/sourcegraph.sourcegraph-2.2.4.vsix";
+      sha256 = "sha256-gap12P5yvzWLaHGvhsEgAEXev9lzP6c4lg3wtSIL28E=";
+    };
+    license = "Apache-2.0";
+    name = "sourcegraph";
+    description = "Sourcegraph for VS Code";
+    publisher = "sourcegraph";
+  };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
     version = "0.12.1";
@@ -18255,10 +18267,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.2.4";
+    version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.4/file/streetsidesoftware.code-spell-checker-2.2.4.vsix";
-      sha256 = "sha256-rbaiiANJ5RKEfoP4vQ1OGGImUTjpF5qjdwQWzQkCmq8=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.5/file/streetsidesoftware.code-spell-checker-2.2.5.vsix";
+      sha256 = "sha256-QDLK99ja1Bb3Lxhde12O1ezdMfEAyFZNb6yKNeCn0Cs=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";
