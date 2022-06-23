@@ -10500,11 +10500,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1TkUrcBYr4Z/IlJ0Afh7m9bD5qXAXfw8fYU31SIIPlM=",
+            "sha256": "sha256-TmOrbSbUmTg9/3ZCJ0KnXgSq2RoUsm9/DKd7O3weVws=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/custom-template/0.0.1/file/cloudstudio.custom-template-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/custom-template/0.0.2/file/cloudstudio.custom-template-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "cloudstudio-deploykit": {
         "cargoLocks": null,
@@ -10576,11 +10576,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GFLMnBatFFW9uV+CN9Y65YeftvrbgBfqGOVl81wnbdY=",
+            "sha256": "sha256-zrG2kmgSKnCba7JN0X0GnR5e5YQDLOEavLxa3XfrQFU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.8/file/cloudstudio.workspaces-0.0.8.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.9/file/cloudstudio.workspaces-0.0.9.vsix"
         },
-        "version": "0.0.8"
+        "version": "0.0.9"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -11944,11 +11944,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-poxOZ8/jfWbd4CPu2paSJOtPkkoIN+7JVhBmRNCy0MU=",
+            "sha256": "sha256-pBs9VukqCuzzcMcnP2D0eIQtioxYef5dpXYrJrpFU7A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.100.0/file/dendron.dendron-0.100.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.100.1/file/dendron.dendron-0.100.1.vsix"
         },
-        "version": "0.100.0"
+        "version": "0.100.1"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,

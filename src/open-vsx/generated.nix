@@ -6627,10 +6627,10 @@
   };
   cloudstudio-custom-template = {
     pname = "cloudstudio-custom-template";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.1/file/cloudstudio.custom-template-0.0.1.vsix";
-      sha256 = "sha256-1TkUrcBYr4Z/IlJ0Afh7m9bD5qXAXfw8fYU31SIIPlM=";
+      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.2/file/cloudstudio.custom-template-0.0.2.vsix";
+      sha256 = "sha256-TmOrbSbUmTg9/3ZCJ0KnXgSq2RoUsm9/DKd7O3weVws=";
     };
     license = "MIT";
     name = "custom-template";
@@ -6675,10 +6675,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.8";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.8/file/cloudstudio.workspaces-0.0.8.vsix";
-      sha256 = "sha256-GFLMnBatFFW9uV+CN9Y65YeftvrbgBfqGOVl81wnbdY=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.9/file/cloudstudio.workspaces-0.0.9.vsix";
+      sha256 = "sha256-zrG2kmgSKnCba7JN0X0GnR5e5YQDLOEavLxa3XfrQFU=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7539,10 +7539,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.100.0";
+    version = "0.100.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.100.0/file/dendron.dendron-0.100.0.vsix";
-      sha256 = "sha256-poxOZ8/jfWbd4CPu2paSJOtPkkoIN+7JVhBmRNCy0MU=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.100.1/file/dendron.dendron-0.100.1.vsix";
+      sha256 = "sha256-pBs9VukqCuzzcMcnP2D0eIQtioxYef5dpXYrJrpFU7A=";
     };
     license = "AGPL-3.0";
     name = "dendron";
