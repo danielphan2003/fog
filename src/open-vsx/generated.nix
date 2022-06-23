@@ -4551,10 +4551,10 @@
   };
   alfish-godot-files = {
     pname = "alfish-godot-files";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alfish/godot-files/0.0.1/file/alfish.godot-files-0.0.1.vsix";
-      sha256 = "sha256-a8E+iPjQxxTQa8RbVKLvVWfYPUDN4Xkwr/CF330QFsk=";
+      url = "https://open-vsx.org/api/alfish/godot-files/0.0.2/file/alfish.godot-files-0.0.2.vsix";
+      sha256 = "sha256-j5Tg1yJXM9CaKMnwG7+tte4pn6yPn5c1I7m8i7Vhl/I=";
     };
     license = "0BSD";
     name = "godot-files";

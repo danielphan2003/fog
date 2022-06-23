@@ -7213,11 +7213,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a8E+iPjQxxTQa8RbVKLvVWfYPUDN4Xkwr/CF330QFsk=",
+            "sha256": "sha256-j5Tg1yJXM9CaKMnwG7+tte4pn6yPn5c1I7m8i7Vhl/I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/alfish/godot-files/0.0.1/file/alfish.godot-files-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/alfish/godot-files/0.0.2/file/alfish.godot-files-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "aliariff-vscode-erb-beautify": {
         "cargoLocks": null,
