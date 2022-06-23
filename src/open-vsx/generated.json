@@ -12077,11 +12077,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7utwqdOsuUZER/fQuheWMAfbqSakqjDOze9dbDtyqSU=",
+            "sha256": "sha256-6Z02PQHX8e/80jM7xZtbJifBg1tH3KHsM0sydNNJfYQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.100.1/file/dendron.nightly-0.100.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.100.2/file/dendron.nightly-0.100.2.vsix"
         },
-        "version": "0.100.1"
+        "version": "0.100.2"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -29671,11 +29671,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-U1G6cqSWVGf9vS55YADH63ekWNuAQNLbA6FQhvhrcAo=",
+            "sha256": "sha256-r+TVy82IOFO/dYqbHqIjmlMD0WglRwamtwaG3Hvjtg8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/syler/sass-indented/1.8.20/file/syler.sass-indented-1.8.20.vsix"
+            "url": "https://open-vsx.org/api/syler/sass-indented/1.8.21/file/syler.sass-indented-1.8.21.vsix"
         },
-        "version": "1.8.20"
+        "version": "1.8.21"
     },
     "synedra-auto-run-command": {
         "cargoLocks": null,

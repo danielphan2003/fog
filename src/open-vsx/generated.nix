@@ -7623,10 +7623,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.100.1";
+    version = "0.100.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.100.1/file/dendron.nightly-0.100.1.vsix";
-      sha256 = "sha256-7utwqdOsuUZER/fQuheWMAfbqSakqjDOze9dbDtyqSU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.100.2/file/dendron.nightly-0.100.2.vsix";
+      sha256 = "sha256-6Z02PQHX8e/80jM7xZtbJifBg1tH3KHsM0sydNNJfYQ=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -18735,10 +18735,10 @@
   };
   syler-sass-indented = {
     pname = "syler-sass-indented";
-    version = "1.8.20";
+    version = "1.8.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/syler/sass-indented/1.8.20/file/syler.sass-indented-1.8.20.vsix";
-      sha256 = "sha256-U1G6cqSWVGf9vS55YADH63ekWNuAQNLbA6FQhvhrcAo=";
+      url = "https://open-vsx.org/api/syler/sass-indented/1.8.21/file/syler.sass-indented-1.8.21.vsix";
+      sha256 = "sha256-r+TVy82IOFO/dYqbHqIjmlMD0WglRwamtwaG3Hvjtg8=";
     };
     license = "MIT";
     name = "sass-indented";
