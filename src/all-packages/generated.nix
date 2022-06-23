@@ -229,6 +229,23 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
+    version = "800ad4e486f3c81f2de9298328fa394e85bc23f7";
+    src = fetchFromGitHub ({
+      owner = "cinnyapp";
+      repo = "cinny-desktop";
+      rev = "800ad4e486f3c81f2de9298328fa394e85bc23f7";
+      fetchSubmodules = true;
+      sha256 = "sha256-L9RSVv7KXL1VwWPMN7NVcFSPP+L6EWwxdIIZVyVG1ZI=";
+    });
+    cargoLock."src-tauri/Cargo.lock" = {
+      lockFile = ./cinny-desktop-800ad4e486f3c81f2de9298328fa394e85bc23f7/src-tauri/Cargo.lock;
+      outputHashes = {
+        
+      };
+    };
+  };
+  cinny-desktop-bin = {
+    pname = "cinny-desktop-bin";
     version = "2.0.4";
     src = fetchurl {
       url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.0.4/cinny_2.0.4_amd64.AppImage";

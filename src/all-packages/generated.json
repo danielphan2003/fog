@@ -378,9 +378,33 @@
         "version": "2.0.4"
     },
     "cinny-desktop": {
-        "cargoLocks": null,
+        "cargoLocks": {
+            "src-tauri/Cargo.lock": [
+                "./cinny-desktop-800ad4e486f3c81f2de9298328fa394e85bc23f7/src-tauri/Cargo.lock",
+                {}
+            ]
+        },
         "extract": null,
         "name": "cinny-desktop",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": true,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "cinnyapp",
+            "repo": "cinny-desktop",
+            "rev": "800ad4e486f3c81f2de9298328fa394e85bc23f7",
+            "sha256": "sha256-L9RSVv7KXL1VwWPMN7NVcFSPP+L6EWwxdIIZVyVG1ZI=",
+            "type": "github"
+        },
+        "version": "800ad4e486f3c81f2de9298328fa394e85bc23f7"
+    },
+    "cinny-desktop-bin": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cinny-desktop-bin",
         "passthru": null,
         "pinned": false,
         "src": {
