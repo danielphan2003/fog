@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "46931354d47750c1b0521f3ba69f88cac950b515",
-            "sha256": "sha256-7EZF/P/Vz3ZAuduA9HAh+YgMDJkmYS4fxC5clD/VjzI=",
+            "rev": "c23bb5fafe83d7de2d7fb4035f4f0b7c8b1828c9",
+            "sha256": "sha256-exRZAsMqlFvxFn1cQLuEC3NOxr5pB16ZmNh23uxw50w=",
             "type": "github"
         },
-        "version": "46931354d47750c1b0521f3ba69f88cac950b515"
+        "version": "c23bb5fafe83d7de2d7fb4035f4f0b7c8b1828c9"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1775,11 +1775,11 @@
             "name": null,
             "owner": "fluix-dev",
             "repo": "sway-borders",
-            "rev": "55702663b87499096c02a6586217b2447e5bcfce",
-            "sha256": "sha256-g1spYIb23DWhyfqvIujHW+FBaqlmvNkV72cGklT4vWo=",
+            "rev": "3890d2a2fb255276993891e2da5f6cb33670efcd",
+            "sha256": "sha256-esMruivwq6XPPYJWaW825+d8rD8NOxbJQqVfAeBtXe0=",
             "type": "github"
         },
-        "version": "55702663b87499096c02a6586217b2447e5bcfce"
+        "version": "3890d2a2fb255276993891e2da5f6cb33670efcd"
     },
     "swaylock-effects": {
         "cargoLocks": null,

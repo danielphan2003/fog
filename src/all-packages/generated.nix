@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "46931354d47750c1b0521f3ba69f88cac950b515";
+    version = "c23bb5fafe83d7de2d7fb4035f4f0b7c8b1828c9";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "46931354d47750c1b0521f3ba69f88cac950b515";
+      rev = "c23bb5fafe83d7de2d7fb4035f4f0b7c8b1828c9";
       fetchSubmodules = false;
-      sha256 = "sha256-7EZF/P/Vz3ZAuduA9HAh+YgMDJkmYS4fxC5clD/VjzI=";
+      sha256 = "sha256-exRZAsMqlFvxFn1cQLuEC3NOxr5pB16ZmNh23uxw50w=";
     });
   };
   caddy = {
@@ -1066,13 +1066,13 @@
   };
   sway-borders = {
     pname = "sway-borders";
-    version = "55702663b87499096c02a6586217b2447e5bcfce";
+    version = "3890d2a2fb255276993891e2da5f6cb33670efcd";
     src = fetchFromGitHub ({
       owner = "fluix-dev";
       repo = "sway-borders";
-      rev = "55702663b87499096c02a6586217b2447e5bcfce";
+      rev = "3890d2a2fb255276993891e2da5f6cb33670efcd";
       fetchSubmodules = false;
-      sha256 = "sha256-g1spYIb23DWhyfqvIujHW+FBaqlmvNkV72cGklT4vWo=";
+      sha256 = "sha256-esMruivwq6XPPYJWaW825+d8rD8NOxbJQqVfAeBtXe0=";
     });
   };
   swaylock-effects = {
