@@ -89,9 +89,14 @@ src.manual = "741b0502ee7cb0ecbd6dd0517c4f186729f52718"
 fetch.github = "caddyserver/caddy"
 
 [cinny]
-src.github_tag = "ajbura/cinny"
+src.github_tag = "cinnyapp/cinny"
 src.prefix = "v"
-fetch.url = "https://github.com/ajbura/cinny/releases/download/v$ver/cinny-v$ver.tar.gz"
+fetch.url = "https://github.com/cinnyapp/cinny/releases/download/v$ver/cinny-v$ver.tar.gz"
+
+[cinny-desktop]
+src.github_tag = "cinnyapp/cinny-desktop"
+src.prefix = "v"
+fetch.url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v$ver/cinny_$ver_amd64.AppImage"
 
 [conduit]
 src.git = "https://gitlab.com/famedly/conduit"
