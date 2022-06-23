@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xuUkb1h9vBTbXqXip8kpVttfMDdUuxBhpSMrtTRgZbU=",
+            "sha256": "sha256-L5tARJQ1+yXlUCqa7+nW9IZ07NFQFSbfJ8XRPQ7LsnE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1103/file/Prisma.prisma-insider-31.0.1103.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1104/file/Prisma.prisma-insider-31.0.1104.vsix"
         },
-        "version": "31.0.1103"
+        "version": "31.0.1104"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5926,6 +5926,25 @@
             "url": "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.8/file/WakaTime.vscode-wakatime-18.0.8.vsix"
         },
         "version": "18.0.8"
+    },
+    "WatermelonTools-watermelon-tools": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "WatermelonTools-watermelon-tools",
+        "passthru": {
+            "description": "Watermelon, find all the historical context of your code",
+            "license": "See license.md (Apache)",
+            "name": "watermelon-tools",
+            "publisher": "WatermelonTools"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-BGN5A5T0qrGBOjLd4FWoig/MFwS3STkFSNENIifKACg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.3.6/file/WatermelonTools.watermelon-tools-1.3.6.vsix"
+        },
+        "version": "1.3.6"
     },
     "Wattenberger-footsteps": {
         "cargoLocks": null,
@@ -7973,11 +7992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gh7p+NgCX0fEB1/nBRpj5hjkHrE/BGfxM4OaBB4nTK8=",
+            "sha256": "sha256-1twJrqYnLl7fdGS1JbPflQZKApCdu9/9RNYmUoQBI4k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.1/file/anweber.vscode-httpyac-5.5.1.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.2/file/anweber.vscode-httpyac-5.5.2.vsix"
         },
-        "version": "5.5.1"
+        "version": "5.5.2"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
@@ -24959,11 +24978,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yyPviSNDpgwGLIsEKMbOq3r1cs+mZuxyJXr0tMzPhas=",
+            "sha256": "sha256-Yzl5ILSfZdNdyyOTaWCJPjgBpVuqbWjxzfvRre/oKIk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/parse-tree/0.18.0/file/pokey.parse-tree-0.18.0.vsix"
+            "url": "https://open-vsx.org/api/pokey/parse-tree/0.18.1/file/pokey.parse-tree-0.18.1.vsix"
         },
-        "version": "0.18.0"
+        "version": "0.18.1"
     },
     "pokey-talon": {
         "cargoLocks": null,
@@ -26446,6 +26465,25 @@
             "url": "https://open-vsx.org/api/revng/llvm-ir/1.0.3/file/revng.llvm-ir-1.0.3.vsix"
         },
         "version": "1.0.3"
+    },
+    "rgherdt-scheme-lsp": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "rgherdt-scheme-lsp",
+        "passthru": {
+            "description": "A LSP-based extension for Scheme",
+            "license": "GPL-3.0",
+            "name": "scheme-lsp",
+            "publisher": "rgherdt"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-NcD9jzkTdlRhy9fNx3oHl32glXr11fytE8ooaKnL398=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.0/file/rgherdt.scheme-lsp-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "ria-elastic": {
         "cargoLocks": null,

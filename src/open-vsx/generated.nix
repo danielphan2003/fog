@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1103";
+    version = "31.0.1104";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1103/file/Prisma.prisma-insider-31.0.1103.vsix";
-      sha256 = "sha256-xuUkb1h9vBTbXqXip8kpVttfMDdUuxBhpSMrtTRgZbU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1104/file/Prisma.prisma-insider-31.0.1104.vsix";
+      sha256 = "sha256-L5tARJQ1+yXlUCqa7+nW9IZ07NFQFSbfJ8XRPQ7LsnE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3744,6 +3744,18 @@
     name = "vscode-wakatime";
     description = "Metrics, insights, and time tracking automatically generated from your programming activity.";
     publisher = "WakaTime";
+  };
+  WatermelonTools-watermelon-tools = {
+    pname = "WatermelonTools-watermelon-tools";
+    version = "1.3.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.3.6/file/WatermelonTools.watermelon-tools-1.3.6.vsix";
+      sha256 = "sha256-BGN5A5T0qrGBOjLd4FWoig/MFwS3STkFSNENIifKACg=";
+    };
+    license = "See license.md (Apache)";
+    name = "watermelon-tools";
+    description = "Watermelon, find all the historical context of your code";
+    publisher = "WatermelonTools";
   };
   Wattenberger-footsteps = {
     pname = "Wattenberger-footsteps";
@@ -5031,10 +5043,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.5.1";
+    version = "5.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.1/file/anweber.vscode-httpyac-5.5.1.vsix";
-      sha256 = "sha256-gh7p+NgCX0fEB1/nBRpj5hjkHrE/BGfxM4OaBB4nTK8=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.2/file/anweber.vscode-httpyac-5.5.2.vsix";
+      sha256 = "sha256-1twJrqYnLl7fdGS1JbPflQZKApCdu9/9RNYmUoQBI4k=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -15759,10 +15771,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.18.0";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.18.0/file/pokey.parse-tree-0.18.0.vsix";
-      sha256 = "sha256-yyPviSNDpgwGLIsEKMbOq3r1cs+mZuxyJXr0tMzPhas=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.18.1/file/pokey.parse-tree-0.18.1.vsix";
+      sha256 = "sha256-Yzl5ILSfZdNdyyOTaWCJPjgBpVuqbWjxzfvRre/oKIk=";
     };
     license = "MIT";
     name = "parse-tree";
@@ -16704,6 +16716,18 @@
     name = "llvm-ir";
     description = "LLVM IR language support for Visual Studio Code";
     publisher = "revng";
+  };
+  rgherdt-scheme-lsp = {
+    pname = "rgherdt-scheme-lsp";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.0/file/rgherdt.scheme-lsp-0.1.0.vsix";
+      sha256 = "sha256-NcD9jzkTdlRhy9fNx3oHl32glXr11fytE8ooaKnL398=";
+    };
+    license = "GPL-3.0";
+    name = "scheme-lsp";
+    description = "A LSP-based extension for Scheme";
+    publisher = "rgherdt";
   };
   ria-elastic = {
     pname = "ria-elastic";
