@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1102";
+    version = "31.0.1103";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1102/file/Prisma.prisma-insider-31.0.1102.vsix";
-      sha256 = "sha256-kkY7Qk4uPj8w5fCLAe5S44MR7RKamZdiKW5DMp5tJoA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1103/file/Prisma.prisma-insider-31.0.1103.vsix";
+      sha256 = "sha256-xuUkb1h9vBTbXqXip8kpVttfMDdUuxBhpSMrtTRgZbU=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3963,10 +3963,10 @@
   };
   Zowe-vscode-extension-for-zowe = {
     pname = "Zowe-vscode-extension-for-zowe";
-    version = "2.0.3";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.0.3/file/Zowe.vscode-extension-for-zowe-2.0.3.vsix";
-      sha256 = "sha256-Wr9J9CH6aZZ9J6zkYRyLJbM2O7HxfG8XpjHEFFzYQMI=";
+      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.1.0/file/Zowe.vscode-extension-for-zowe-2.1.0.vsix";
+      sha256 = "sha256-cqOCCjbGrq13ZaR9su0LF9VBZaPEAk0bSS63Ztt4mkI=";
     };
     license = "EPL-2.0";
     name = "vscode-extension-for-zowe";
@@ -3975,10 +3975,10 @@
   };
   Zowe-zowe-explorer-ftp-extension = {
     pname = "Zowe-zowe-explorer-ftp-extension";
-    version = "2.0.3";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.0.3/file/Zowe.zowe-explorer-ftp-extension-2.0.3.vsix";
-      sha256 = "sha256-9YmyLJ8Hh6stFClolnkz5Ge1uiBmvR6sLn1U/8iXdA8=";
+      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.1.0/file/Zowe.zowe-explorer-ftp-extension-2.1.0.vsix";
+      sha256 = "sha256-SCs1FIaTUC0bkI21VUcO9V2rHfUyLVsHBvmOvreocQI=";
     };
     license = "EPL-2.0";
     name = "zowe-explorer-ftp-extension";
@@ -9771,10 +9771,10 @@
   };
   hashicorp-terraform = {
     pname = "hashicorp-terraform";
-    version = "2.21.1";
+    version = "2.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hashicorp/terraform/2.21.1/file/hashicorp.terraform-2.21.1.vsix";
-      sha256 = "sha256-L0cMZZxf+1muLwV9axMGD55Htb5Gt4c8WrI7Amf7sts=";
+      url = "https://open-vsx.org/api/hashicorp/terraform/2.20.0/file/hashicorp.terraform-2.20.0.vsix";
+      sha256 = "sha256-Sk1efoEM8rapMcDM82C8+pCSJQo9MPrX5cELZmU6yDI=";
     };
     license = "MPL-2.0";
     name = "terraform";
@@ -15747,10 +15747,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.360";
+    version = "0.26.361";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.360/file/pokey.cursorless-0.26.360.vsix";
-      sha256 = "sha256-X8BQnE+qjAKCwAlLnS52niukURONvzP+nS3pPccSLoc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.361/file/pokey.cursorless-0.26.361.vsix";
+      sha256 = "sha256-1sNEp4lBnTd/p8/YUhrFpw9xdrDBC7KbqLM/MzNBrlM=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19215,10 +19215,10 @@
   };
   toit-toit = {
     pname = "toit-toit";
-    version = "1.6.0";
+    version = "1.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toit/toit/1.6.0/file/toit.toit-1.6.0.vsix";
-      sha256 = "sha256-pSk5LkmflkRvyX5A+XzFtWLSHwq7E/vfFBhgV0VdA+c=";
+      url = "https://open-vsx.org/api/toit/toit/1.6.3/file/toit.toit-1.6.3.vsix";
+      sha256 = "sha256-ZZnPn5Pr0GwgCAxsSqVSPXCoFXeYBOIACyMbu0w6mMs=";
     };
     license = "MIT";
     name = "toit";
