@@ -94,6 +94,12 @@ src.prefix = "v"
 fetch.url = "https://github.com/cinnyapp/cinny/releases/download/v$ver/cinny-v$ver.tar.gz"
 
 [cinny-desktop]
+src.git = "https://github.com/cinnyapp/cinny-desktop"
+fetch.github = "cinnyapp/cinny-desktop"
+git.fetchSubmodules = true
+cargo_locks = [ "src-tauri/Cargo.lock" ]
+
+[cinny-desktop-bin]
 src.github_tag = "cinnyapp/cinny-desktop"
 src.prefix = "v"
 fetch.url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v$ver/cinny_$ver_amd64.AppImage"
