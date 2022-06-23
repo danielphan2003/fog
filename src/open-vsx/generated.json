@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ykBvoPG5Crz+OFK9jO0wNR7pyLyUIBJmGipqRHCE3mg=",
+            "sha256": "sha256-XUrifSwXffguHhiCyEvuvL6UdxWiQPJuxBkXCeceyns=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1097/file/Prisma.prisma-insider-31.0.1097.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1100/file/Prisma.prisma-insider-31.0.1100.vsix"
         },
-        "version": "31.0.1097"
+        "version": "31.0.1100"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -28759,11 +28759,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-d8E0UBKxFe7/XgDD392n3MYBH9AU8ZjTcXj15GjL+20=",
+            "sha256": "sha256-V0PJ79PJCWhPngBCQwbJpCoVRpZk0Sl1qhCiWnQ/9JI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.3/file/steedos.steedosdx-vscode-2.2.3.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.4/file/steedos.steedosdx-vscode-2.2.4.vsix"
         },
-        "version": "2.2.3"
+        "version": "2.2.4"
     },
     "steedos-steedosdx-vscode-core": {
         "cargoLocks": null,
@@ -28778,11 +28778,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6l+65mOxof0TqZyZwZJP/B8qS/P2FLLNtGnyvkuYpTM=",
+            "sha256": "sha256-GP3dZdfAxZi/Ct4Si4qiGGKCTIXf2vU4dDZKAPeLKHE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.3/file/steedos.steedosdx-vscode-core-2.2.3.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.4/file/steedos.steedosdx-vscode-core-2.2.4.vsix"
         },
-        "version": "2.2.3"
+        "version": "2.2.4"
     },
     "stef-k-laravel-goto-controller": {
         "cargoLocks": null,
