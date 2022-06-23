@@ -373,7 +373,21 @@
             "name": null,
             "sha256": "sha256-D4vA4Fldg+/TicuaXUlwxW50KqDzMBMUCSVpOW0Rulw=",
             "type": "url",
-            "url": "https://github.com/ajbura/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz"
+            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz"
+        },
+        "version": "2.0.4"
+    },
+    "cinny-desktop": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cinny-desktop",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-9ZQyVcTsHja67DhuIyniTK/xr0C6qN7fiCmjt8enUd8=",
+            "type": "url",
+            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.0.4/cinny_2.0.4_amd64.AppImage"
         },
         "version": "2.0.4"
     },
@@ -1441,7 +1455,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c1906914a0f8e3089c8cec3e4eb644af91302bc7/Cargo.lock",
+                "./rustdesk-ad2c8921923da578865f5c16ae25b4f3d9b78640/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
@@ -1464,11 +1478,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c1906914a0f8e3089c8cec3e4eb644af91302bc7",
-            "sha256": "sha256-Xpnsr56DQtq79TKobLXYXiAAxobz1AyPRP7u+r85vk4=",
+            "rev": "ad2c8921923da578865f5c16ae25b4f3d9b78640",
+            "sha256": "sha256-gQ9Pd5/Vbt7bOI650/h7hs34wlZON/Bx1oHRHC0CbtA=",
             "type": "github"
         },
-        "version": "c1906914a0f8e3089c8cec3e4eb644af91302bc7"
+        "version": "ad2c8921923da578865f5c16ae25b4f3d9b78640"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,

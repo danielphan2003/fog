@@ -223,8 +223,16 @@
     pname = "cinny";
     version = "2.0.4";
     src = fetchurl {
-      url = "https://github.com/ajbura/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz";
+      url = "https://github.com/cinnyapp/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz";
       sha256 = "sha256-D4vA4Fldg+/TicuaXUlwxW50KqDzMBMUCSVpOW0Rulw=";
+    };
+  };
+  cinny-desktop = {
+    pname = "cinny-desktop";
+    version = "2.0.4";
+    src = fetchurl {
+      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.0.4/cinny_2.0.4_amd64.AppImage";
+      sha256 = "sha256-9ZQyVcTsHja67DhuIyniTK/xr0C6qN7fiCmjt8enUd8=";
     };
   };
   conduit = {
@@ -862,16 +870,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c1906914a0f8e3089c8cec3e4eb644af91302bc7";
+    version = "ad2c8921923da578865f5c16ae25b4f3d9b78640";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c1906914a0f8e3089c8cec3e4eb644af91302bc7";
+      rev = "ad2c8921923da578865f5c16ae25b4f3d9b78640";
       fetchSubmodules = false;
-      sha256 = "sha256-Xpnsr56DQtq79TKobLXYXiAAxobz1AyPRP7u+r85vk4=";
+      sha256 = "sha256-gQ9Pd5/Vbt7bOI650/h7hs34wlZON/Bx1oHRHC0CbtA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-c1906914a0f8e3089c8cec3e4eb644af91302bc7/Cargo.lock;
+      lockFile = ./rustdesk-ad2c8921923da578865f5c16ae25b4f3d9b78640/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
