@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1100";
+    version = "31.0.1102";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1100/file/Prisma.prisma-insider-31.0.1100.vsix";
-      sha256 = "sha256-XUrifSwXffguHhiCyEvuvL6UdxWiQPJuxBkXCeceyns=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1102/file/Prisma.prisma-insider-31.0.1102.vsix";
+      sha256 = "sha256-kkY7Qk4uPj8w5fCLAe5S44MR7RKamZdiKW5DMp5tJoA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7668,6 +7668,18 @@
     name = "theme-newton-next";
     description = "The next version of the low eyestrain syntax theme. Again, apple not included.";
     publisher = "devberto";
+  };
+  dez64ru-macos-modern-theme = {
+    pname = "dez64ru-macos-modern-theme";
+    version = "2.1.8";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dez64ru/macos-modern-theme/2.1.8/file/dez64ru.macos-modern-theme-2.1.8.vsix";
+      sha256 = "sha256-ra4UfCAhzk/dBaezRVB0xWW9AACyj8/bMQAPut8O3pA=";
+    };
+    license = "MIT";
+    name = "macos-modern-theme";
+    description = "Fork of https://github.com/davidbwaters/macos-modern-vscode-theme for open-vsx";
+    publisher = "dez64ru";
   };
   dhall-dhall-lang = {
     pname = "dhall-dhall-lang";

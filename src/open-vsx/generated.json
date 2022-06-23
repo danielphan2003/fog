@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XUrifSwXffguHhiCyEvuvL6UdxWiQPJuxBkXCeceyns=",
+            "sha256": "sha256-kkY7Qk4uPj8w5fCLAe5S44MR7RKamZdiKW5DMp5tJoA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1100/file/Prisma.prisma-insider-31.0.1100.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1102/file/Prisma.prisma-insider-31.0.1102.vsix"
         },
-        "version": "31.0.1100"
+        "version": "31.0.1102"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12139,6 +12139,25 @@
             "url": "https://open-vsx.org/api/devberto/theme-newton-next/3.0.4/file/devberto.theme-newton-next-3.0.4.vsix"
         },
         "version": "3.0.4"
+    },
+    "dez64ru-macos-modern-theme": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dez64ru-macos-modern-theme",
+        "passthru": {
+            "description": "Fork of https://github.com/davidbwaters/macos-modern-vscode-theme for open-vsx",
+            "license": "MIT",
+            "name": "macos-modern-theme",
+            "publisher": "dez64ru"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ra4UfCAhzk/dBaezRVB0xWW9AACyj8/bMQAPut8O3pA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dez64ru/macos-modern-theme/2.1.8/file/dez64ru.macos-modern-theme-2.1.8.vsix"
+        },
+        "version": "2.1.8"
     },
     "dhall-dhall-lang": {
         "cargoLocks": null,
