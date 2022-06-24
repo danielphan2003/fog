@@ -210,13 +210,24 @@
   };
   caddy = {
     pname = "caddy";
-    version = "741b0502ee7cb0ecbd6dd0517c4f186729f52718";
+    version = "v2.5.1";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "741b0502ee7cb0ecbd6dd0517c4f186729f52718";
+      rev = "v2.5.1";
       fetchSubmodules = false;
-      sha256 = "sha256-4hNQ2z31nLY4RNPX1GX9QOFSYPGU358RfcWrTVujSXM=";
+      sha256 = "sha256-Y4GAx/8XcW7+6eXCQ6k4e/3WZ/6MkTr5za1AXp6El9o=";
+    });
+  };
+  caddy-git = {
+    pname = "caddy-git";
+    version = "10f85558ead15e119f8e9abd81c8ad55eb865f8b";
+    src = fetchFromGitHub ({
+      owner = "caddyserver";
+      repo = "caddy";
+      rev = "10f85558ead15e119f8e9abd81c8ad55eb865f8b";
+      fetchSubmodules = false;
+      sha256 = "sha256-kWmvhTDcVVORCvZO/5oY260Bix8sZIy+BY7mHW9uBGk=";
     });
   };
   cinny = {
@@ -451,13 +462,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "3e8842e1f8d50263d56b0df3ae37708b4be428d6";
+    version = "e7467c60f9fe9e66c74dd8dc7c752a73ed4bc4db";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "3e8842e1f8d50263d56b0df3ae37708b4be428d6";
+      rev = "e7467c60f9fe9e66c74dd8dc7c752a73ed4bc4db";
       fetchSubmodules = false;
-      sha256 = "sha256-/Z4sx/tjFHwRI4YaeSHXMS6aCI0cFPZ//m8HsNHyl7s=";
+      sha256 = "sha256-PkkM8hTGXCmI/lT+bCyyTUxJ/7VDChb/nyWNz8/wiIA=";
     });
   };
   ibus = {
@@ -1266,13 +1277,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "9f03bab1d96a0e87fecd68f24a7045e62e02c0c1";
+    version = "1b6c3a8246dd04e73495f11dbc7544b402ac39ed";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "9f03bab1d96a0e87fecd68f24a7045e62e02c0c1";
+      rev = "1b6c3a8246dd04e73495f11dbc7544b402ac39ed";
       fetchSubmodules = false;
-      sha256 = "sha256-kH8FZ9eJnOo4kTJwqsK2b1hlDsUdO8D97spLjja+H4M=";
+      sha256 = "sha256-08j9rJh0RtvVy2Wma7lVOqhEbs4OVgYJSM65ZmG97Es=";
     });
   };
   xdg-desktop-portal-gtk = {
