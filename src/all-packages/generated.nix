@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "967295fba7faf66f5b76c25056fbb2b42f605665";
+    version = "e95986b83093c9049bbcc1ddb8578d8adb6a07d4";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "967295fba7faf66f5b76c25056fbb2b42f605665";
+      rev = "e95986b83093c9049bbcc1ddb8578d8adb6a07d4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-NWL6BwL112w1Gmzly/PjUtRbzbAwQTMEUESCT5UZjck=";
+      sha256 = "sha256-60s1pxgmcBfoOl/66xiF3OvdLI5Qq0ch4ea/9f8W6kc=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-967295fba7faf66f5b76c25056fbb2b42f605665/Cargo.lock;
+      lockFile = ./asusctl-e95986b83093c9049bbcc1ddb8578d8adb6a07d4/Cargo.lock;
       outputHashes = {
         
       };
@@ -990,13 +990,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "15572fe496c01d63d5c25a5b6cb50c66a826e5ab";
+    version = "2722c2997ade49ec78c7dcf080cf4b1d5c87b71c";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "15572fe496c01d63d5c25a5b6cb50c66a826e5ab";
+      rev = "2722c2997ade49ec78c7dcf080cf4b1d5c87b71c";
       fetchSubmodules = false;
-      sha256 = "sha256-cdNusmDXQkdCfSWZS6Ue04a/FoBzlSmSYR8xM2ZVanQ=";
+      sha256 = "sha256-Oyq3QElHKjITGmJ4/3FPmlbETHZW/oHObcOEdgvhZEA=";
     });
   };
   spicetify-themes = {

@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-967295fba7faf66f5b76c25056fbb2b42f605665/Cargo.lock",
+                "./asusctl-e95986b83093c9049bbcc1ddb8578d8adb6a07d4/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "967295fba7faf66f5b76c25056fbb2b42f605665",
-            "sha256": "sha256-NWL6BwL112w1Gmzly/PjUtRbzbAwQTMEUESCT5UZjck=",
+            "rev": "e95986b83093c9049bbcc1ddb8578d8adb6a07d4",
+            "sha256": "sha256-60s1pxgmcBfoOl/66xiF3OvdLI5Qq0ch4ea/9f8W6kc=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "967295fba7faf66f5b76c25056fbb2b42f605665"
+        "version": "e95986b83093c9049bbcc1ddb8578d8adb6a07d4"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1657,11 +1657,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "15572fe496c01d63d5c25a5b6cb50c66a826e5ab",
-            "sha256": "sha256-cdNusmDXQkdCfSWZS6Ue04a/FoBzlSmSYR8xM2ZVanQ=",
+            "rev": "2722c2997ade49ec78c7dcf080cf4b1d5c87b71c",
+            "sha256": "sha256-Oyq3QElHKjITGmJ4/3FPmlbETHZW/oHObcOEdgvhZEA=",
             "type": "github"
         },
-        "version": "15572fe496c01d63d5c25a5b6cb50c66a826e5ab"
+        "version": "2722c2997ade49ec78c7dcf080cf4b1d5c87b71c"
     },
     "spicetify-themes": {
         "cargoLocks": null,
