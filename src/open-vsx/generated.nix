@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1104";
+    version = "31.0.1105";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1104/file/Prisma.prisma-insider-31.0.1104.vsix";
-      sha256 = "sha256-L5tARJQ1+yXlUCqa7+nW9IZ07NFQFSbfJ8XRPQ7LsnE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1105/file/Prisma.prisma-insider-31.0.1105.vsix";
+      sha256 = "sha256-S1yMcdfFWmQSV24NToojdpR+gsA/XYXz+sRepOGH7Ow=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -18843,10 +18843,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.21";
+    version = "0.0.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.21/file/t-codespaces.ide-data-sync-0.0.21.vsix";
-      sha256 = "sha256-nNa8Dir6VMDwx0PKEwsMDQi6tCl0aA+BsY8ANKkTTjA=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.25/file/t-codespaces.ide-data-sync-0.0.25.vsix";
+      sha256 = "sha256-VEOPTwb8spC4wJXoUZwXEY860o5d+++WWd89evaywBo=";
     };
     license = "";
     name = "ide-data-sync";

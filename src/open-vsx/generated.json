@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L5tARJQ1+yXlUCqa7+nW9IZ07NFQFSbfJ8XRPQ7LsnE=",
+            "sha256": "sha256-S1yMcdfFWmQSV24NToojdpR+gsA/XYXz+sRepOGH7Ow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1104/file/Prisma.prisma-insider-31.0.1104.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1105/file/Prisma.prisma-insider-31.0.1105.vsix"
         },
-        "version": "31.0.1104"
+        "version": "31.0.1105"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -29842,11 +29842,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nNa8Dir6VMDwx0PKEwsMDQi6tCl0aA+BsY8ANKkTTjA=",
+            "sha256": "sha256-VEOPTwb8spC4wJXoUZwXEY860o5d+++WWd89evaywBo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.21/file/t-codespaces.ide-data-sync-0.0.21.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.25/file/t-codespaces.ide-data-sync-0.0.25.vsix"
         },
-        "version": "0.0.21"
+        "version": "0.0.25"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,
