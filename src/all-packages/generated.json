@@ -672,6 +672,24 @@
         },
         "version": "b4737f8ac65083c084696811c021bcb61fa750ac"
     },
+    "fluffychat": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "fluffychat",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "rev": "ed2d208339c159e57447fdb4b3e2d10d5bc3fb0a",
+            "sha256": "sha256-vaQ3kvZ8RvtP3gxJWrAMqfZzTtnr92Arx1vfbRWP0ak=",
+            "type": "git",
+            "url": "https://gitlab.com/famedly/fluffychat"
+        },
+        "version": "ed2d208339c159e57447fdb4b3e2d10d5bc3fb0a"
+    },
     "flyingfox": {
         "cargoLocks": null,
         "extract": null,
