@@ -10164,6 +10164,25 @@
         },
         "version": "2.4.0"
     },
+    "carroted-sour-theme": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "carroted-sour-theme",
+        "passthru": {
+            "description": "A nice theme with colors picked for a great programming experience.",
+            "license": "MIT",
+            "name": "sour-theme",
+            "publisher": "carroted"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-NEfDasgNDuN5iVcBFuNOl6TINOtagc7Ab7SzNTjdpXA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/carroted/sour-theme/1.0.0/file/carroted.sour-theme-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "castwide-solargraph": {
         "cargoLocks": null,
         "extract": null,
@@ -12248,11 +12267,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eiYLU2KY+/JGNmuQ25vOmomr+Bjhx9NTCHr6D0N1Ut8=",
+            "sha256": "sha256-rmYi8kSYi+1jrSErjmVa6UXMPQ0vgXg+l2NrABwQpns=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.28/file/digma.digma-0.5.28.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.29/file/digma.digma-0.5.29.vsix"
         },
-        "version": "0.5.28"
+        "version": "0.5.29"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
@@ -16447,11 +16466,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Pu984XAdFaql9EfRoX/DwD0lNACY2rtEvuvRwGq9ydc=",
+            "sha256": "sha256-t76aEs8B3ibtesN94W8cUFIqYSvz8Tc4dTtP6AxysZ4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/idleberg/nsis/3.50.1/file/idleberg.nsis-3.50.1.vsix"
+            "url": "https://open-vsx.org/api/idleberg/nsis/3.51.0/file/idleberg.nsis-3.51.0.vsix"
         },
-        "version": "3.50.1"
+        "version": "3.51.0"
     },
     "idleberg-nsis-plugins": {
         "cargoLocks": null,
@@ -17535,6 +17554,25 @@
             "url": "https://open-vsx.org/api/jetmartin/bats/0.1.9/file/jetmartin.bats-0.1.9.vsix"
         },
         "version": "0.1.9"
+    },
+    "jgtest-wc": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jgtest-wc",
+        "passthru": {
+            "description": "Test for feasibility",
+            "license": "MIT",
+            "name": "wc",
+            "publisher": "jgtest"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Hx7spcS4ywazmOl62+GzD2GLTjeOnN9ad8zytvmLQAY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jgtest/wc/0.0.1/file/jgtest.wc-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "jianbingfang-dupchecker": {
         "cargoLocks": null,
@@ -24959,11 +24997,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1sNEp4lBnTd/p8/YUhrFpw9xdrDBC7KbqLM/MzNBrlM=",
+            "sha256": "sha256-J2+ZvYQvf3iS+/YdeANFr0OAQUBlkiD3P9DrVbX2XIo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.361/file/pokey.cursorless-0.26.361.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.362/file/pokey.cursorless-0.26.362.vsix"
         },
-        "version": "0.26.361"
+        "version": "0.26.362"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -26471,7 +26509,7 @@
         "extract": null,
         "name": "rgherdt-scheme-lsp",
         "passthru": {
-            "description": "A LSP-based extension for Scheme",
+            "description": "An LSP-based extension for Scheme",
             "license": "GPL-3.0",
             "name": "scheme-lsp",
             "publisher": "rgherdt"
@@ -26479,11 +26517,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NcD9jzkTdlRhy9fNx3oHl32glXr11fytE8ooaKnL398=",
+            "sha256": "sha256-sgdVLVMy+IvvXVcgZLz8w4wM8kGmsKeXZBB/GLxPx8k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.0/file/rgherdt.scheme-lsp-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.1/file/rgherdt.scheme-lsp-0.1.1.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.1.1"
     },
     "ria-elastic": {
         "cargoLocks": null,

@@ -6421,6 +6421,18 @@
     description = "Collection of tools for text manipulation, filtering, sorting etc...";
     publisher = "carlocardella";
   };
+  carroted-sour-theme = {
+    pname = "carroted-sour-theme";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/carroted/sour-theme/1.0.0/file/carroted.sour-theme-1.0.0.vsix";
+      sha256 = "sha256-NEfDasgNDuN5iVcBFuNOl6TINOtagc7Ab7SzNTjdpXA=";
+    };
+    license = "MIT";
+    name = "sour-theme";
+    description = "A nice theme with colors picked for a great programming experience.";
+    publisher = "carroted";
+  };
   castwide-solargraph = {
     pname = "castwide-solargraph";
     version = "0.24.0";
@@ -7731,10 +7743,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.28";
+    version = "0.5.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.28/file/digma.digma-0.5.28.vsix";
-      sha256 = "sha256-eiYLU2KY+/JGNmuQ25vOmomr+Bjhx9NTCHr6D0N1Ut8=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.29/file/digma.digma-0.5.29.vsix";
+      sha256 = "sha256-rmYi8kSYi+1jrSErjmVa6UXMPQ0vgXg+l2NrABwQpns=";
     };
     license = "MIT";
     name = "digma";
@@ -10383,10 +10395,10 @@
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
-    version = "3.50.1";
+    version = "3.51.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.50.1/file/idleberg.nsis-3.50.1.vsix";
-      sha256 = "sha256-Pu984XAdFaql9EfRoX/DwD0lNACY2rtEvuvRwGq9ydc=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.51.0/file/idleberg.nsis-3.51.0.vsix";
+      sha256 = "sha256-t76aEs8B3ibtesN94W8cUFIqYSvz8Tc4dTtP6AxysZ4=";
     };
     license = "MIT OR GPL-2.0";
     name = "nsis";
@@ -11076,6 +11088,18 @@
     name = "bats";
     description = "Bats (Bash Automated Testing System) language support for VSCode.";
     publisher = "jetmartin";
+  };
+  jgtest-wc = {
+    pname = "jgtest-wc";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jgtest/wc/0.0.1/file/jgtest.wc-0.0.1.vsix";
+      sha256 = "sha256-Hx7spcS4ywazmOl62+GzD2GLTjeOnN9ad8zytvmLQAY=";
+    };
+    license = "MIT";
+    name = "wc";
+    description = "Test for feasibility";
+    publisher = "jgtest";
   };
   jianbingfang-dupchecker = {
     pname = "jianbingfang-dupchecker";
@@ -15759,10 +15783,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.361";
+    version = "0.26.362";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.361/file/pokey.cursorless-0.26.361.vsix";
-      sha256 = "sha256-1sNEp4lBnTd/p8/YUhrFpw9xdrDBC7KbqLM/MzNBrlM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.362/file/pokey.cursorless-0.26.362.vsix";
+      sha256 = "sha256-J2+ZvYQvf3iS+/YdeANFr0OAQUBlkiD3P9DrVbX2XIo=";
     };
     license = "MIT";
     name = "cursorless";
@@ -16719,14 +16743,14 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.0/file/rgherdt.scheme-lsp-0.1.0.vsix";
-      sha256 = "sha256-NcD9jzkTdlRhy9fNx3oHl32glXr11fytE8ooaKnL398=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.1/file/rgherdt.scheme-lsp-0.1.1.vsix";
+      sha256 = "sha256-sgdVLVMy+IvvXVcgZLz8w4wM8kGmsKeXZBB/GLxPx8k=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
-    description = "A LSP-based extension for Scheme";
+    description = "An LSP-based extension for Scheme";
     publisher = "rgherdt";
   };
   ria-elastic = {
