@@ -1047,10 +1047,10 @@
   };
   FelixAngelov-mason = {
     pname = "FelixAngelov-mason";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.2/file/FelixAngelov.mason-0.1.2.vsix";
-      sha256 = "sha256-pnkeWCYsPh+yW3T3NklpbpZ3i8aVuHONN/SYEC/bzIg=";
+      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.3/file/FelixAngelov.mason-0.1.3.vsix";
+      sha256 = "sha256-Ia4NRR96TtrolMjh4Lx3HlaDE9DBrjyineKrIJefBnw=";
     };
     license = "MIT";
     name = "mason";
@@ -10395,10 +10395,10 @@
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
-    version = "3.51.0";
+    version = "3.51.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.51.0/file/idleberg.nsis-3.51.0.vsix";
-      sha256 = "sha256-t76aEs8B3ibtesN94W8cUFIqYSvz8Tc4dTtP6AxysZ4=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.51.1/file/idleberg.nsis-3.51.1.vsix";
+      sha256 = "sha256-SMGz6SPddgXekWUy+iICG6ThX2OxWsWkYpGycHT23Kg=";
     };
     license = "MIT OR GPL-2.0";
     name = "nsis";
