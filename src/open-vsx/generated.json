@@ -8657,11 +8657,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZrHoig5GQ8cor5vGB3F3Y5G+Jp+OJDHetXI4f++aeq8=",
+            "sha256": "sha256-FjZR8PVARgx2qKrO2VQpT7cDlpC2zBSVUw7MhmGc1co=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.3/file/astro-build.astro-vscode-0.19.3.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.4/file/astro-build.astro-vscode-0.19.4.vsix"
         },
-        "version": "0.19.3"
+        "version": "0.19.4"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
