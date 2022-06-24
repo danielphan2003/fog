@@ -7384,11 +7384,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aNCwrJwLtVShY6cix+9lQmiy2xnjNFBabuSf6FOm3uQ=",
+            "sha256": "sha256-e1RJyQ3qKulhWVBdUqTbaeuJOnpGBJkdKCjpI0VUDQY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.40.0/file/amazonwebservices.aws-toolkit-vscode-1.40.0.vsix"
+            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.42.0/file/amazonwebservices.aws-toolkit-vscode-1.42.0.vsix"
         },
-        "version": "1.40.0"
+        "version": "1.42.0"
     },
     "amiralizadeh9480-laravel-extra-intellisense": {
         "cargoLocks": null,
@@ -35751,11 +35751,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WTILBKv2kxa+rm9Uy/qVKP5GRnsuY6Ecymf0VTC/hLQ=",
+            "sha256": "sha256-Dkdg3FJu1wcr9vu9Kg07Yr9T8qxp2Ek2f1UkWX6hOuU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.0/file/zhuangtongfa.material-theme-3.15.0.vsix"
+            "url": "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.1/file/zhuangtongfa.material-theme-3.15.1.vsix"
         },
-        "version": "3.15.0"
+        "version": "3.15.1"
     },
     "ziyasal-vscode-open-in-github": {
         "cargoLocks": null,

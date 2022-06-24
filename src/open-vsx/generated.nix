@@ -4659,10 +4659,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.40.0";
+    version = "1.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.40.0/file/amazonwebservices.aws-toolkit-vscode-1.40.0.vsix";
-      sha256 = "sha256-aNCwrJwLtVShY6cix+9lQmiy2xnjNFBabuSf6FOm3uQ=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.42.0/file/amazonwebservices.aws-toolkit-vscode-1.42.0.vsix";
+      sha256 = "sha256-e1RJyQ3qKulhWVBdUqTbaeuJOnpGBJkdKCjpI0VUDQY=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -22575,10 +22575,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.15.0";
+    version = "3.15.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.0/file/zhuangtongfa.material-theme-3.15.0.vsix";
-      sha256 = "sha256-WTILBKv2kxa+rm9Uy/qVKP5GRnsuY6Ecymf0VTC/hLQ=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.1/file/zhuangtongfa.material-theme-3.15.1.vsix";
+      sha256 = "sha256-Dkdg3FJu1wcr9vu9Kg07Yr9T8qxp2Ek2f1UkWX6hOuU=";
     };
     license = "MIT";
     name = "material-theme";
