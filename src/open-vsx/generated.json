@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S1yMcdfFWmQSV24NToojdpR+gsA/XYXz+sRepOGH7Ow=",
+            "sha256": "sha256-zC0fiefQeN0OhYgfNQVhsMiP6xxusUmVMGTUo97KC1Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1105/file/Prisma.prisma-insider-31.0.1105.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1107/file/Prisma.prisma-insider-31.0.1107.vsix"
         },
-        "version": "31.0.1105"
+        "version": "31.0.1107"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -10600,6 +10600,25 @@
             "url": "https://open-vsx.org/api/cloudstudio/memory-cue/0.0.2/file/cloudstudio.memory-cue-0.0.2.vsix"
         },
         "version": "0.0.2"
+    },
+    "cloudstudio-metawork": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cloudstudio-metawork",
+        "passthru": {
+            "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective.",
+            "license": "MIT",
+            "name": "metawork",
+            "publisher": "cloudstudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-9VKvb4BS6zNnYBym0mZ+k0rGJ3Y4Oh8tbnhbQmdD+uk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.1/file/cloudstudio.metawork-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "cloudstudio-workspaces": {
         "cargoLocks": null,

@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1105";
+    version = "31.0.1107";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1105/file/Prisma.prisma-insider-31.0.1105.vsix";
-      sha256 = "sha256-S1yMcdfFWmQSV24NToojdpR+gsA/XYXz+sRepOGH7Ow=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1107/file/Prisma.prisma-insider-31.0.1107.vsix";
+      sha256 = "sha256-zC0fiefQeN0OhYgfNQVhsMiP6xxusUmVMGTUo97KC1Q=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -6695,6 +6695,18 @@
     license = "MIT";
     name = "memory-cue";
     description = "Workspace memory cue extension";
+    publisher = "cloudstudio";
+  };
+  cloudstudio-metawork = {
+    pname = "cloudstudio-metawork";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.1/file/cloudstudio.metawork-0.0.1.vsix";
+      sha256 = "sha256-9VKvb4BS6zNnYBym0mZ+k0rGJ3Y4Oh8tbnhbQmdD+uk=";
+    };
+    license = "MIT";
+    name = "metawork";
+    description = "Cloud Studio \22810\20154\21327\20316\22871\20214\65292\35753\24320\21457\26356\39640\25928\65281Cloud Studio MetaWork makes development more effective.";
     publisher = "cloudstudio";
   };
   cloudstudio-workspaces = {
