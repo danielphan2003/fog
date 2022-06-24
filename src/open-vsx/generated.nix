@@ -3135,10 +3135,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.1";
+    version = "4.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.1/file/Sarrus.sourcepawn-vscode-4.0.1.vsix";
-      sha256 = "sha256-9N0KMR1XKRZceLU2M0iSDrdzBqxjjW+kCPIPXlpwfW0=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.4/file/Sarrus.sourcepawn-vscode-4.0.4.vsix";
+      sha256 = "sha256-7KiOUX9eZF9ciXyLrIXMXaERjOUTYrkjm29do517e1w=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -5955,10 +5955,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.7";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.7/file/bmcsoftware.jobs-as-code-0.2.7.vsix";
-      sha256 = "sha256-q5JNueau+g/BYWt1zQBbIRvmmSMXeA08OrJQU0Vq98I=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.8/file/bmcsoftware.jobs-as-code-0.2.8.vsix";
+      sha256 = "sha256-/ZovLxQfvMmGvj95uxMjA/alQUbZpEc93ABUFZPbX6M=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
