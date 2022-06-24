@@ -163,7 +163,7 @@ fetch.github = "flameshot-org/flameshot"
 
 [fluffychat]
 src.git = "https://gitlab.org/famedly/fluffychat"
-fetch.github = "famedly/fluffychat"
+fetch.git = "https://gitlab.org/famedly/fluffychat"
 
 [flyingfox]
 src.git = "https://github.com/akshat46/FlyingFox"
