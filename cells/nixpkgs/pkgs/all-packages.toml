@@ -85,7 +85,11 @@ src.git = "https://github.com/bottlesdevs/Bottles"
 fetch.github = "bottlesdevs/Bottles"
 
 [caddy]
-src.manual = "741b0502ee7cb0ecbd6dd0517c4f186729f52718"
+src.github_tag = "caddyserver/caddy"
+fetch.github = "caddyserver/caddy"
+
+[caddy-git]
+src.git = "https://github.com/caddyserver/caddy"
 fetch.github = "caddyserver/caddy"
 
 [cinny]
