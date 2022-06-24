@@ -161,6 +161,10 @@ fetch.github = "fangfufu/Linux-Fake-Background-Webcam"
 src.git = "https://github.com/flameshot-org/flameshot"
 fetch.github = "flameshot-org/flameshot"
 
+[fluffychat]
+src.git = "https://gitlab.org/famedly/fluffychat"
+fetch.github = "famedly/fluffychat"
+
 [flyingfox]
 src.git = "https://github.com/akshat46/FlyingFox"
 fetch.github = "akshat46/FlyingFox"
