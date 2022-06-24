@@ -1266,12 +1266,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c0cec06df85a17dcbadcadda83c2866865167c79",
-            "sha256": "sha256-QjAeFqBrvgAlCZ5e7RQIYomiSdcWCsvuw4SR9zoPkMM=",
+            "rev": "87f7520e51aa697c185f8b6f826c331106258a03",
+            "sha256": "sha256-c413VWfoQ9yWzXbYqCVxqBAPUznihqwEQuaU6sKBljU=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "c0cec06df85a17dcbadcadda83c2866865167c79"
+        "version": "87f7520e51aa697c185f8b6f826c331106258a03"
     },
     "polymc-cracked": {
         "cargoLocks": null,
