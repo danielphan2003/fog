@@ -3073,6 +3073,18 @@
     description = "Wikitext is a document written in a wiki markup language. This extension provides functional support for the Wikitext language with MediaWiki such as Wikipedia.";
     publisher = "RoweWilsonFrederiskHolme";
   };
+  RustedTurnip-night-blossom = {
+    pname = "RustedTurnip-night-blossom";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/RustedTurnip/night-blossom/0.1.0/file/RustedTurnip.night-blossom-0.1.0.vsix";
+      sha256 = "sha256-3/Mla9u2Q/bZ3LJ0xV3S5gnqp8wfkoBC/kEz6YoTyBg=";
+    };
+    license = "MIT";
+    name = "night-blossom";
+    description = "Bring the brightness of spring to your editor!";
+    publisher = "RustedTurnip";
+  };
   RustedTurnip-nightfi = {
     pname = "RustedTurnip-nightfi";
     version = "0.0.3";
@@ -15687,10 +15699,10 @@
   };
   pinage404-rust-extension-pack = {
     pname = "pinage404-rust-extension-pack";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pinage404/rust-extension-pack/0.1.0/file/pinage404.rust-extension-pack-0.1.0.vsix";
-      sha256 = "sha256-aLBVpGFzyUP4AeSSBmHIsMuLmgbUwjjP1q7FP7THeWI=";
+      url = "https://open-vsx.org/api/pinage404/rust-extension-pack/0.2.0/file/pinage404.rust-extension-pack-0.2.0.vsix";
+      sha256 = "sha256-5ahScrohfK/Yv86tUYKJOnEkvVzCqH9ksZOVyfs4RqM=";
     };
     license = "MIT";
     name = "rust-extension-pack";

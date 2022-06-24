@@ -4863,6 +4863,25 @@
         },
         "version": "3.6.4"
     },
+    "RustedTurnip-night-blossom": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "RustedTurnip-night-blossom",
+        "passthru": {
+            "description": "Bring the brightness of spring to your editor!",
+            "license": "MIT",
+            "name": "night-blossom",
+            "publisher": "RustedTurnip"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-3/Mla9u2Q/bZ3LJ0xV3S5gnqp8wfkoBC/kEz6YoTyBg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/RustedTurnip/night-blossom/0.1.0/file/RustedTurnip.night-blossom-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "RustedTurnip-nightfi": {
         "cargoLocks": null,
         "extract": null,
@@ -24845,11 +24864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aLBVpGFzyUP4AeSSBmHIsMuLmgbUwjjP1q7FP7THeWI=",
+            "sha256": "sha256-5ahScrohfK/Yv86tUYKJOnEkvVzCqH9ksZOVyfs4RqM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pinage404/rust-extension-pack/0.1.0/file/pinage404.rust-extension-pack-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/pinage404/rust-extension-pack/0.2.0/file/pinage404.rust-extension-pack-0.2.0.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.2.0"
     },
     "pinage404-user-interface-extension-pack": {
         "cargoLocks": null,
