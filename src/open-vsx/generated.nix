@@ -459,10 +459,10 @@
   };
   CloudStudio-Team-metawork = {
     pname = "CloudStudio-Team-metawork";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.16/file/CloudStudio-Team.metawork-0.0.16.vsix";
-      sha256 = "sha256-W6NVnvMHG1yPj3aleb4X+nE8goNIVbOWQjGcYi8czPM=";
+      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.17/file/CloudStudio-Team.metawork-0.0.17.vsix";
+      sha256 = "sha256-6rG+K11y0THGCMwxkDQKSw7rU/jhj4JdBd1VZptphH4=";
     };
     license = "MIT";
     name = "metawork";
@@ -7647,10 +7647,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.100.2";
+    version = "0.100.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.100.2/file/dendron.nightly-0.100.2.vsix";
-      sha256 = "sha256-6Z02PQHX8e/80jM7xZtbJifBg1tH3KHsM0sydNNJfYQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.100.3/file/dendron.nightly-0.100.3.vsix";
+      sha256 = "sha256-STwLujXn1QoJoN0GQwo4BFPHx087OcTKnDnQY9KxlRo=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -15783,10 +15783,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.362";
+    version = "0.26.363";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.362/file/pokey.cursorless-0.26.362.vsix";
-      sha256 = "sha256-J2+ZvYQvf3iS+/YdeANFr0OAQUBlkiD3P9DrVbX2XIo=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.363/file/pokey.cursorless-0.26.363.vsix";
+      sha256 = "sha256-UDqk73ufW8aTrgQJD/n7OfvIJk/+uyN8V9/+fKNrxT4=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18816,6 +18816,18 @@
     name = "auto-run-command";
     description = "Run a vscode command on project init. Made to run wallaby.js automatically when a project is opened";
     publisher = "synedra";
+  };
+  t-codespaces-fiber-ifttt-starlark = {
+    pname = "t-codespaces-fiber-ifttt-starlark";
+    version = "0.0.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/t-codespaces/fiber-ifttt-starlark/0.0.7/file/t-codespaces.fiber-ifttt-starlark-0.0.7.vsix";
+      sha256 = "sha256-Yv3vPrexO2MlW/KFf3hvgSxiweauesq+ekHaeAtRXs8=";
+    };
+    license = "";
+    name = "fiber-ifttt-starlark";
+    description = "LSP extension for fiberNG ifttt editing.";
+    publisher = "t-codespaces";
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";

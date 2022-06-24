@@ -734,11 +734,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W6NVnvMHG1yPj3aleb4X+nE8goNIVbOWQjGcYi8czPM=",
+            "sha256": "sha256-6rG+K11y0THGCMwxkDQKSw7rU/jhj4JdBd1VZptphH4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.16/file/CloudStudio-Team.metawork-0.0.16.vsix"
+            "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.17/file/CloudStudio-Team.metawork-0.0.17.vsix"
         },
-        "version": "0.0.16"
+        "version": "0.0.17"
     },
     "CocaineJohnsson-nihil": {
         "cargoLocks": null,
@@ -12115,11 +12115,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6Z02PQHX8e/80jM7xZtbJifBg1tH3KHsM0sydNNJfYQ=",
+            "sha256": "sha256-STwLujXn1QoJoN0GQwo4BFPHx087OcTKnDnQY9KxlRo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.100.2/file/dendron.nightly-0.100.2.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.100.3/file/dendron.nightly-0.100.3.vsix"
         },
-        "version": "0.100.2"
+        "version": "0.100.3"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -24997,11 +24997,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-J2+ZvYQvf3iS+/YdeANFr0OAQUBlkiD3P9DrVbX2XIo=",
+            "sha256": "sha256-UDqk73ufW8aTrgQJD/n7OfvIJk/+uyN8V9/+fKNrxT4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.362/file/pokey.cursorless-0.26.362.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.363/file/pokey.cursorless-0.26.363.vsix"
         },
-        "version": "0.26.362"
+        "version": "0.26.363"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -29790,6 +29790,25 @@
             "url": "https://open-vsx.org/api/synedra/auto-run-command/1.6.1/file/synedra.auto-run-command-1.6.1.vsix"
         },
         "version": "1.6.1"
+    },
+    "t-codespaces-fiber-ifttt-starlark": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "t-codespaces-fiber-ifttt-starlark",
+        "passthru": {
+            "description": "LSP extension for fiberNG ifttt editing.",
+            "license": "",
+            "name": "fiber-ifttt-starlark",
+            "publisher": "t-codespaces"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Yv3vPrexO2MlW/KFf3hvgSxiweauesq+ekHaeAtRXs8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/t-codespaces/fiber-ifttt-starlark/0.0.7/file/t-codespaces.fiber-ifttt-starlark-0.0.7.vsix"
+        },
+        "version": "0.0.7"
     },
     "t-codespaces-ide-code-status": {
         "cargoLocks": null,
