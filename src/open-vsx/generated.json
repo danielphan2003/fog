@@ -18062,11 +18062,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yKpyALgwIkVb91fkQ8KgG6GV90S2B+lKAzG8so0hUJY=",
+            "sha256": "sha256-xPIa34FOrsRUVOEIF9LYFTLOUW38vOSinoFlOcqJaBg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jroesch/lean/0.16.52/file/jroesch.lean-0.16.52.vsix"
+            "url": "https://open-vsx.org/api/jroesch/lean/0.16.53/file/jroesch.lean-0.16.53.vsix"
         },
-        "version": "0.16.52"
+        "version": "0.16.53"
     },
     "jsDelivr-jsdelivr": {
         "cargoLocks": null,
