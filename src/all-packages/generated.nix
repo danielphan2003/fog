@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "e8cd85fee41c5f0d92b674fd30f62b6485dd146f";
+    version = "0b926c2a31deff57a3526dd75d8c08775b02241a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "e8cd85fee41c5f0d92b674fd30f62b6485dd146f";
+      rev = "0b926c2a31deff57a3526dd75d8c08775b02241a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QTXDIvGz12ZxsWmPiMiJ8mBUWoJ2wnaeTZdXcwBh35o=";
+      sha256 = "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-e8cd85fee41c5f0d92b674fd30f62b6485dd146f/Cargo.lock;
+      lockFile = ./conduit-0b926c2a31deff57a3526dd75d8c08775b02241a/Cargo.lock;
       outputHashes = {
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "45898a57c846527f942ee346682911056eec7336";
+    version = "29aab210333d69fb94cf8ec4a0f60582bc336721";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "45898a57c846527f942ee346682911056eec7336";
+      rev = "29aab210333d69fb94cf8ec4a0f60582bc336721";
       fetchSubmodules = false;
-      sha256 = "sha256-uXbeIgMWnl+xCMCoAjP0aNkUczD+PncbcDa0VoW52s8=";
+      sha256 = "sha256-QW0W6xPZOZytiHX6puLRlP+zHdZX3qkI8PlASmaQ/Go=";
     });
   };
   ibus = {

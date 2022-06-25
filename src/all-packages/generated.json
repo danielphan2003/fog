@@ -437,7 +437,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-e8cd85fee41c5f0d92b674fd30f62b6485dd146f/Cargo.lock",
+                "./conduit-0b926c2a31deff57a3526dd75d8c08775b02241a/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -454,12 +454,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e8cd85fee41c5f0d92b674fd30f62b6485dd146f",
-            "sha256": "sha256-QTXDIvGz12ZxsWmPiMiJ8mBUWoJ2wnaeTZdXcwBh35o=",
+            "rev": "0b926c2a31deff57a3526dd75d8c08775b02241a",
+            "sha256": "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "e8cd85fee41c5f0d92b674fd30f62b6485dd146f"
+        "version": "0b926c2a31deff57a3526dd75d8c08775b02241a"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "45898a57c846527f942ee346682911056eec7336",
-            "sha256": "sha256-uXbeIgMWnl+xCMCoAjP0aNkUczD+PncbcDa0VoW52s8=",
+            "rev": "29aab210333d69fb94cf8ec4a0f60582bc336721",
+            "sha256": "sha256-QW0W6xPZOZytiHX6puLRlP+zHdZX3qkI8PlASmaQ/Go=",
             "type": "github"
         },
-        "version": "45898a57c846527f942ee346682911056eec7336"
+        "version": "29aab210333d69fb94cf8ec4a0f60582bc336721"
     },
     "ibus": {
         "cargoLocks": null,
