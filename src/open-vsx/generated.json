@@ -5712,11 +5712,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XJgdIqEU1NXxpLz+kavGQzNDRu2d0bETfeGX852JXhk=",
+            "sha256": "sha256-rfnnvKdO5jefvA4iprrjEV/fQO8svjrRUAqWxclbYGw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.10/file/Turiiya.keyword-o-mat-0.2.10.vsix"
+            "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.11/file/Turiiya.keyword-o-mat-0.2.11.vsix"
         },
-        "version": "0.2.10"
+        "version": "0.2.11"
     },
     "Tyriar-sort-lines": {
         "cargoLocks": null,

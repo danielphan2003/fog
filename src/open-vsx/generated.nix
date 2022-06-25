@@ -3603,10 +3603,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.2.10";
+    version = "0.2.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.10/file/Turiiya.keyword-o-mat-0.2.10.vsix";
-      sha256 = "sha256-XJgdIqEU1NXxpLz+kavGQzNDRu2d0bETfeGX852JXhk=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.11/file/Turiiya.keyword-o-mat-0.2.11.vsix";
+      sha256 = "sha256-rfnnvKdO5jefvA4iprrjEV/fQO8svjrRUAqWxclbYGw=";
     };
     license = "MIT";
     name = "keyword-o-mat";
