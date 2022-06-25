@@ -1047,10 +1047,10 @@
   };
   FelixAngelov-mason = {
     pname = "FelixAngelov-mason";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.3/file/FelixAngelov.mason-0.1.3.vsix";
-      sha256 = "sha256-Ia4NRR96TtrolMjh4Lx3HlaDE9DBrjyineKrIJefBnw=";
+      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.4/file/FelixAngelov.mason-0.1.4.vsix";
+      sha256 = "sha256-sWoXggK6qfUcYgmypA5JmcxJR9730FdCtmg1iBcYyD0=";
     };
     license = "MIT";
     name = "mason";
@@ -18937,6 +18937,18 @@
     description = "A language server for displaying the baseline ground truth in TaintBench.";
     publisher = "taintbench";
   };
+  takkaO-open-window-tab-context = {
+    pname = "takkaO-open-window-tab-context";
+    version = "1.11.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/takkaO/open-window-tab-context/1.11.0/file/takkaO.open-window-tab-context-1.11.0.vsix";
+      sha256 = "sha256-Wxv3uYVvf/iVW4dTv0fHjSn5t1FrREv4XmqTxHa0AMY=";
+    };
+    license = "MIT";
+    name = "open-window-tab-context";
+    description = "Add an \"Open in new window\" option to tab context menu in editor.";
+    publisher = "takkaO";
+  };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
     version = "0.16.4";
@@ -19755,10 +19767,10 @@
   };
   ultram4rine-vscode-choosealicense = {
     pname = "ultram4rine-vscode-choosealicense";
-    version = "0.6.2";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.6.2/file/ultram4rine.vscode-choosealicense-0.6.2.vsix";
-      sha256 = "sha256-eGMbw6mT8WI2wuPRta4ZP8Ker2eql3IzFMe4UB5JYm8=";
+      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.7.0/file/ultram4rine.vscode-choosealicense-0.7.0.vsix";
+      sha256 = "sha256-jliA/HOSE4yNDzqOi2wpwOAEIe759UCCkKptF4KzNCQ=";
     };
     license = "MIT";
     name = "vscode-choosealicense";
@@ -19899,10 +19911,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.12.1";
+    version = "2.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.12.1/file/usernamehw.todo-md-2.12.1.vsix";
-      sha256 = "sha256-Fq5XjWUjh/XRX6pDW63BhQ8pFEVmHEQP6kgnfPVHlEc=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.13.0/file/usernamehw.todo-md-2.13.0.vsix";
+      sha256 = "sha256-gnt85tmo1C2YfrtDPijYl0pWOxfuRBCChFX6pXY3Ygg=";
     };
     license = "MIT";
     name = "todo-md";
