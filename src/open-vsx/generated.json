@@ -9170,11 +9170,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2N+QhKO2KQNAlOSmXsfXGGX5xAvUGiv7bp+PL//kesk=",
+            "sha256": "sha256-AweIsNm0tTGAtDx23qAeQb6j/G74MCG5PyXlMLVG+58=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.286/file/betterthantomorrow.calva-2.0.286.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.287/file/betterthantomorrow.calva-2.0.287.vsix"
         },
-        "version": "2.0.286"
+        "version": "2.0.287"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -16447,11 +16447,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iYzFr7trF5uXpse2yX/2FI6ZvhLHyNjQ9gRg7x8nOj4=",
+            "sha256": "sha256-JrOKPTWyfWeOs99VGnFY0fU+8x9MShJ/mUNpJ+Wf9Wc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/idleberg/icon-fonts/2.5.3/file/idleberg.icon-fonts-2.5.3.vsix"
+            "url": "https://open-vsx.org/api/idleberg/icon-fonts/2.5.4/file/idleberg.icon-fonts-2.5.4.vsix"
         },
-        "version": "2.5.3"
+        "version": "2.5.4"
     },
     "idleberg-icon-fonts-legacy": {
         "cargoLocks": null,

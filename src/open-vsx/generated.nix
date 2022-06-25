@@ -5787,10 +5787,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.286";
+    version = "2.0.287";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.286/file/betterthantomorrow.calva-2.0.286.vsix";
-      sha256 = "sha256-2N+QhKO2KQNAlOSmXsfXGGX5xAvUGiv7bp+PL//kesk=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.287/file/betterthantomorrow.calva-2.0.287.vsix";
+      sha256 = "sha256-AweIsNm0tTGAtDx23qAeQb6j/G74MCG5PyXlMLVG+58=";
     };
     license = "MIT";
     name = "calva";
@@ -10383,10 +10383,10 @@
   };
   idleberg-icon-fonts = {
     pname = "idleberg-icon-fonts";
-    version = "2.5.3";
+    version = "2.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/icon-fonts/2.5.3/file/idleberg.icon-fonts-2.5.3.vsix";
-      sha256 = "sha256-iYzFr7trF5uXpse2yX/2FI6ZvhLHyNjQ9gRg7x8nOj4=";
+      url = "https://open-vsx.org/api/idleberg/icon-fonts/2.5.4/file/idleberg.icon-fonts-2.5.4.vsix";
+      sha256 = "sha256-JrOKPTWyfWeOs99VGnFY0fU+8x9MShJ/mUNpJ+Wf9Wc=";
     };
     license = "MIT";
     name = "icon-fonts";
