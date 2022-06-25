@@ -17156,6 +17156,25 @@
         },
         "version": "2.1.1"
     },
+    "jacobdeuchert-wintry": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jacobdeuchert-wintry",
+        "passthru": {
+            "description": "Minimal Dark Theme with a blueish and purple touch",
+            "license": "MIT",
+            "name": "wintry",
+            "publisher": "jacobdeuchert"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-mD5W/upATwFH3hgA2EXKJf4nxPY/sOzFSO7o8AGKw4s=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jacobdeuchert/wintry/0.0.3/file/jacobdeuchert.wintry-0.0.3.vsix"
+        },
+        "version": "0.0.3"
+    },
     "jacobjohnston-encounterplus-markdown": {
         "cargoLocks": null,
         "extract": null,

@@ -10837,6 +10837,18 @@
     description = "Automate your commit messages & your Git workflow.";
     publisher = "ivangabriele";
   };
+  jacobdeuchert-wintry = {
+    pname = "jacobdeuchert-wintry";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jacobdeuchert/wintry/0.0.3/file/jacobdeuchert.wintry-0.0.3.vsix";
+      sha256 = "sha256-mD5W/upATwFH3hgA2EXKJf4nxPY/sOzFSO7o8AGKw4s=";
+    };
+    license = "MIT";
+    name = "wintry";
+    description = "Minimal Dark Theme with a blueish and purple touch";
+    publisher = "jacobdeuchert";
+  };
   jacobjohnston-encounterplus-markdown = {
     pname = "jacobjohnston-encounterplus-markdown";
     version = "1.0.62";
