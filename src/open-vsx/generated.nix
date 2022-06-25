@@ -3399,10 +3399,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.1/file/TI.devspacesplus-0.0.1.vsix";
-      sha256 = "sha256-gC/MU91bWnaLdRxwdmB+7XsSZHol4aW0r+qgJXJQ2qc=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.2/file/TI.devspacesplus-0.0.2.vsix";
+      sha256 = "sha256-UuvJPaEQ7Fitd83BCKWzZdZ9/ITl07/Ar3Fvggyay6U=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -12435,10 +12435,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.12";
+    version = "0.4.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.12/file/ligolang-publish.ligo-vscode-0.4.12.vsix";
-      sha256 = "sha256-ATh69KHJm8SWHtB1G5jkSvC+0OOUhyKuQ9cssZSvdL4=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.13/file/ligolang-publish.ligo-vscode-0.4.13.vsix";
+      sha256 = "sha256-HUAItJ4kCvCoPv7/4ntcARAdah37ZTBgYr8MqZ9b3vI=";
     };
     license = "MIT";
     name = "ligo-vscode";
@@ -14427,10 +14427,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.15.0";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.15.0/file/mutable-ai.mutable-ai-0.15.0.vsix";
-      sha256 = "sha256-d7aXq+IR//9VM6Vt3VT4zxZq+/k3Tr8gL2uICXMv7yo=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.16.0/file/mutable-ai.mutable-ai-0.16.0.vsix";
+      sha256 = "sha256-i6D6hDBjC9cf0HxmQ/xcptJsWdKq35o5CRgpJmWN5yg=";
     };
     license = "";
     name = "mutable-ai";
