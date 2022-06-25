@@ -3255,10 +3255,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.2217";
+    version = "2022.6.2417";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2217/file/Slint.slint-nightly-2022.6.2217.vsix";
-      sha256 = "sha256-vX8lvBdhadSEZEu7CtxHzyKTSHMKYdHqH4R62vEu+eE=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2417/file/Slint.slint-nightly-2022.6.2417.vsix";
+      sha256 = "sha256-8a5NLWSv2zQ1mekSJtcj6PNyCW+OOyPq+gDdTM+vfRE=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13719,10 +13719,10 @@
   };
   ms-playwright-playwright = {
     pname = "ms-playwright-playwright";
-    version = "0.2.3";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.3/file/ms-playwright.playwright-0.2.3.vsix";
-      sha256 = "sha256-nu2Y+TjtKeISBLRJX867VBqGNniKU98vsR3wdrYzn6Y=";
+      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.5/file/ms-playwright.playwright-0.2.5.vsix";
+      sha256 = "sha256-GtDRwSynPbBewM+UsYIO73qTIUiMaxcVrtVirMLTeVg=";
     };
     license = "Apache-2.0";
     name = "playwright";

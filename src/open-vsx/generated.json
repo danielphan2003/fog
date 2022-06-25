@@ -5161,11 +5161,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vX8lvBdhadSEZEu7CtxHzyKTSHMKYdHqH4R62vEu+eE=",
+            "sha256": "sha256-8a5NLWSv2zQ1mekSJtcj6PNyCW+OOyPq+gDdTM+vfRE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2217/file/Slint.slint-nightly-2022.6.2217.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2417/file/Slint.slint-nightly-2022.6.2417.vsix"
         },
-        "version": "2022.6.2217"
+        "version": "2022.6.2417"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -21729,11 +21729,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nu2Y+TjtKeISBLRJX867VBqGNniKU98vsR3wdrYzn6Y=",
+            "sha256": "sha256-GtDRwSynPbBewM+UsYIO73qTIUiMaxcVrtVirMLTeVg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.3/file/ms-playwright.playwright-0.2.3.vsix"
+            "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.5/file/ms-playwright.playwright-0.2.5.vsix"
         },
-        "version": "0.2.3"
+        "version": "0.2.5"
     },
     "ms-pyright-pyright": {
         "cargoLocks": null,
