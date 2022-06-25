@@ -3603,10 +3603,10 @@
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
-    version = "0.2.9";
+    version = "0.2.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.9/file/Turiiya.keyword-o-mat-0.2.9.vsix";
-      sha256 = "sha256-0cu6ZJHL0inUcp2Uxs41R1VrvR14eOWHHo0hAt+VlAo=";
+      url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.10/file/Turiiya.keyword-o-mat-0.2.10.vsix";
+      sha256 = "sha256-XJgdIqEU1NXxpLz+kavGQzNDRu2d0bETfeGX852JXhk=";
     };
     license = "MIT";
     name = "keyword-o-mat";
@@ -19464,6 +19464,18 @@
     name = "theme-alabaster";
     description = "";
     publisher = "tonsky";
+  };
+  tonwhales-func-vscode = {
+    pname = "tonwhales-func-vscode";
+    version = "0.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tonwhales/func-vscode/0.2.2/file/tonwhales.func-vscode-0.2.2.vsix";
+      sha256 = "sha256-D2WkZe2Au26igeCYlOV+B2Mbdmhqn0OkPvgpQ6a766c=";
+    };
+    license = "GPL-3.0";
+    name = "func-vscode";
+    description = "This extension enables support for FunC in VS Code.";
+    publisher = "tonwhales";
   };
   tonybaloney-vscode-pets = {
     pname = "tonybaloney-vscode-pets";

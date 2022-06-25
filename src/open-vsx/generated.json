@@ -5712,11 +5712,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0cu6ZJHL0inUcp2Uxs41R1VrvR14eOWHHo0hAt+VlAo=",
+            "sha256": "sha256-XJgdIqEU1NXxpLz+kavGQzNDRu2d0bETfeGX852JXhk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.9/file/Turiiya.keyword-o-mat-0.2.9.vsix"
+            "url": "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.10/file/Turiiya.keyword-o-mat-0.2.10.vsix"
         },
-        "version": "0.2.9"
+        "version": "0.2.10"
     },
     "Tyriar-sort-lines": {
         "cargoLocks": null,
@@ -30816,6 +30816,25 @@
             "url": "https://open-vsx.org/api/tonsky/theme-alabaster/0.2.9/file/tonsky.theme-alabaster-0.2.9.vsix"
         },
         "version": "0.2.9"
+    },
+    "tonwhales-func-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "tonwhales-func-vscode",
+        "passthru": {
+            "description": "This extension enables support for FunC in VS Code.",
+            "license": "GPL-3.0",
+            "name": "func-vscode",
+            "publisher": "tonwhales"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-D2WkZe2Au26igeCYlOV+B2Mbdmhqn0OkPvgpQ6a766c=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/tonwhales/func-vscode/0.2.2/file/tonwhales.func-vscode-0.2.2.vsix"
+        },
+        "version": "0.2.2"
     },
     "tonybaloney-vscode-pets": {
         "cargoLocks": null,
