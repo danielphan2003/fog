@@ -16095,10 +16095,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.33.0";
+    version = "1.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.33.0/file/qcz.text-power-tools-1.33.0.vsix";
-      sha256 = "sha256-THOV//vRWUp5qrZibmcuo6s2SiBB7P2SnYHf7Pajf/4=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.34.0/file/qcz.text-power-tools-1.34.0.vsix";
+      sha256 = "sha256-rqVNgddFns64hAPr9tCdLqv2TkBpkQE7axNRs6peRxw=";
     };
     license = "MIT";
     name = "text-power-tools";
@@ -16779,10 +16779,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.1/file/rgherdt.scheme-lsp-0.1.1.vsix";
-      sha256 = "sha256-sgdVLVMy+IvvXVcgZLz8w4wM8kGmsKeXZBB/GLxPx8k=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.2/file/rgherdt.scheme-lsp-0.1.2.vsix";
+      sha256 = "sha256-fiYsFLacfTT94ET+WduHrQGMOi8rjw7tBj2hWXEFBcQ=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";

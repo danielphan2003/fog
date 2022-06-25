@@ -25491,11 +25491,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-THOV//vRWUp5qrZibmcuo6s2SiBB7P2SnYHf7Pajf/4=",
+            "sha256": "sha256-rqVNgddFns64hAPr9tCdLqv2TkBpkQE7axNRs6peRxw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/qcz/text-power-tools/1.33.0/file/qcz.text-power-tools-1.33.0.vsix"
+            "url": "https://open-vsx.org/api/qcz/text-power-tools/1.34.0/file/qcz.text-power-tools-1.34.0.vsix"
         },
-        "version": "1.33.0"
+        "version": "1.34.0"
     },
     "qguv-ninja-vscode": {
         "cargoLocks": null,
@@ -26574,11 +26574,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sgdVLVMy+IvvXVcgZLz8w4wM8kGmsKeXZBB/GLxPx8k=",
+            "sha256": "sha256-fiYsFLacfTT94ET+WduHrQGMOi8rjw7tBj2hWXEFBcQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.1/file/rgherdt.scheme-lsp-0.1.1.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.2/file/rgherdt.scheme-lsp-0.1.2.vsix"
         },
-        "version": "0.1.1"
+        "version": "0.1.2"
     },
     "ria-elastic": {
         "cargoLocks": null,
