@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "e95986b83093c9049bbcc1ddb8578d8adb6a07d4";
+    version = "51174271439d19fae649d5c16293a9ee432748b1";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "e95986b83093c9049bbcc1ddb8578d8adb6a07d4";
+      rev = "51174271439d19fae649d5c16293a9ee432748b1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-60s1pxgmcBfoOl/66xiF3OvdLI5Qq0ch4ea/9f8W6kc=";
+      sha256 = "sha256-SLXsVRKMmsJnAn8UCyOGvF7xwD99WmtfpEoS/QNMs5w=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-e95986b83093c9049bbcc1ddb8578d8adb6a07d4/Cargo.lock;
+      lockFile = ./asusctl-51174271439d19fae649d5c16293a9ee432748b1/Cargo.lock;
       outputHashes = {
         
       };
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "bc78e423ee7611fb489dae43184918e328a688f2";
+    version = "a6538d0d9c4f7bd580ef0c27712103995a61456f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "bc78e423ee7611fb489dae43184918e328a688f2";
+      rev = "a6538d0d9c4f7bd580ef0c27712103995a61456f";
       fetchSubmodules = false;
-      sha256 = "sha256-wcP4BWtIgp7xqIiAbGfhjUjdk8k/WOOvFiEwhyqEIkU=";
+      sha256 = "sha256-b66uFOzwyzE7YCpVr3APdAok4Q0HU3EkOedUUJPK7S0=";
     });
   };
   rofi-wayland = {
@@ -1013,13 +1013,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "a065382413df9a27699212bf90fadbf40c06a93d";
+    version = "99341542724075533b85d84e98422902bbde0e81";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "a065382413df9a27699212bf90fadbf40c06a93d";
+      rev = "99341542724075533b85d84e98422902bbde0e81";
       fetchSubmodules = false;
-      sha256 = "sha256-eIbHafd/fk3VkLSu9U5Q3Z5W27CDQELgZwXRbfZ2QFE=";
+      sha256 = "sha256-KZBWLkjgosceyl2x7FZy1ViTvvapR7PaVNlD7I9ds6U=";
     });
   };
   spicetify-themes = {
