@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "800ad4e486f3c81f2de9298328fa394e85bc23f7";
+    version = "671ff5f4c1530a9ecef755aab1780b4444907af5";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "800ad4e486f3c81f2de9298328fa394e85bc23f7";
+      rev = "671ff5f4c1530a9ecef755aab1780b4444907af5";
       fetchSubmodules = true;
-      sha256 = "sha256-L9RSVv7KXL1VwWPMN7NVcFSPP+L6EWwxdIIZVyVG1ZI=";
+      sha256 = "sha256-Z0tfKkjuoxE6wu1HXqtfFrvz7B3qkzhihs966G+wP6I=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-800ad4e486f3c81f2de9298328fa394e85bc23f7/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-671ff5f4c1530a9ecef755aab1780b4444907af5/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -1111,13 +1111,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "35782f891d52e2661a76b6632aacde2402fd753c";
+    version = "9294a14a376e44d68087af40c97918431073276a";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "35782f891d52e2661a76b6632aacde2402fd753c";
+      rev = "9294a14a376e44d68087af40c97918431073276a";
       fetchSubmodules = false;
-      sha256 = "sha256-smpKOVhm+CFzD7CudbPzGIxTLYnCAVHQXg8JZxsIgpc=";
+      sha256 = "sha256-ew7hhhchqxKPVvpSeORCy7tEZJiONo+6V3G3OtnLyWw=";
     });
   };
   tailscale-systray = {
