@@ -18783,10 +18783,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.17.0";
+    version = "105.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.17.0/file/svelte.svelte-vscode-105.17.0.vsix";
-      sha256 = "sha256-tp7sTxBZURrQXQtTuc/u3kgesmhZ0M7c8is+ckyowsY=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.18.0/file/svelte.svelte-vscode-105.18.0.vsix";
+      sha256 = "sha256-c9IKtAupuXM5NuvWKlgNLZDCm32Ok/3+aiAGi2IhSTo=";
     };
     license = "MIT";
     name = "svelte-vscode";

@@ -29747,11 +29747,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tp7sTxBZURrQXQtTuc/u3kgesmhZ0M7c8is+ckyowsY=",
+            "sha256": "sha256-c9IKtAupuXM5NuvWKlgNLZDCm32Ok/3+aiAGi2IhSTo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.17.0/file/svelte.svelte-vscode-105.17.0.vsix"
+            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.18.0/file/svelte.svelte-vscode-105.18.0.vsix"
         },
-        "version": "105.17.0"
+        "version": "105.18.0"
     },
     "svelte-svelte-vscode-nightly": {
         "cargoLocks": null,
