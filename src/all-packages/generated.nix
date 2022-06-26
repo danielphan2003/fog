@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "2ac6d36af4ec18c502d9bc8af2a6ca76810a8a7d";
+    version = "5cfa73c2d35f56af5c460e151d7d05ddd567c15c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "2ac6d36af4ec18c502d9bc8af2a6ca76810a8a7d";
+      rev = "5cfa73c2d35f56af5c460e151d7d05ddd567c15c";
       fetchSubmodules = false;
-      sha256 = "sha256-erUbs+X4MqXh/Obt6ceyagqTjRWJu9SB42wBAhquU8Y=";
+      sha256 = "sha256-gyWhxgOloUsWs5M6nK0UVlwY5eRm3nIwOQyOGPkKLGI=";
     });
   };
   caddy = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0d6e248f154720581a0e4d5c760acbdcbe51acf0";
+    version = "44aeb1fc909ec9cb3e6b82a5397e9eec8839192b";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "0d6e248f154720581a0e4d5c760acbdcbe51acf0";
+      rev = "44aeb1fc909ec9cb3e6b82a5397e9eec8839192b";
       fetchSubmodules = false;
-      sha256 = "sha256-0Kz3P+OhNnmR770qsabWpW6e/gq6itgHTm146wDvo0Q=";
+      sha256 = "sha256-j7BSl8dXgc7fEHNpQ+bC/t5659vrbNImQvbN8fMJ/NU=";
     });
   };
   ibus = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "128753c81dabb66c1958b80ba77034e9d4125ce5";
+    version = "f2b3948b398c9796a9f5ec02022a24514077f469";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "128753c81dabb66c1958b80ba77034e9d4125ce5";
+      rev = "f2b3948b398c9796a9f5ec02022a24514077f469";
       fetchSubmodules = false;
-      sha256 = "sha256-H8lwAA3ptIRQ6MQirL8I7ZnUGUjv2s5XpECU7xY7RBg=";
+      sha256 = "sha256-gYer3hcBiii39qsjVfFiXSKqpqg0QEEF6+r+BlMR8XA=";
     });
   };
   rofi-wayland = {
@@ -1013,13 +1013,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "99341542724075533b85d84e98422902bbde0e81";
+    version = "ecb3ca7418aa5ed2fa9a568c1c6893120fd7a42c";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "99341542724075533b85d84e98422902bbde0e81";
+      rev = "ecb3ca7418aa5ed2fa9a568c1c6893120fd7a42c";
       fetchSubmodules = false;
-      sha256 = "sha256-KZBWLkjgosceyl2x7FZy1ViTvvapR7PaVNlD7I9ds6U=";
+      sha256 = "sha256-19BtDp4CpIMBwg7lclW1zkwm0JpKMMgkkRP4Q+YVqas=";
     });
   };
   spicetify-themes = {
@@ -1199,10 +1199,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.05.0";
+    version = "2022.5.2";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.05.0/bw_web_v2022.05.0.tar.gz";
-      sha256 = "sha256-YbEnPh7eaGCs9Ly5fUccRQeCohjr06vGKocFQkbyJiA=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.5.2/bw_web_v2022.5.2.tar.gz";
+      sha256 = "sha256-clsiEC9nwfrGMIBwT95G3tR3KLxMvMM553s8it/3JtM=";
     };
   };
   ventoy = {
