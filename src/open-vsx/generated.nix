@@ -22647,10 +22647,10 @@
   };
   zhuangtongfa-material-theme = {
     pname = "zhuangtongfa-material-theme";
-    version = "3.15.1";
+    version = "3.15.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.1/file/zhuangtongfa.material-theme-3.15.1.vsix";
-      sha256 = "sha256-Dkdg3FJu1wcr9vu9Kg07Yr9T8qxp2Ek2f1UkWX6hOuU=";
+      url = "https://open-vsx.org/api/zhuangtongfa/material-theme/3.15.2/file/zhuangtongfa.material-theme-3.15.2.vsix";
+      sha256 = "sha256-gq0Qtj6oyHYTkHAHtU8qtbFMnxJk8hfXxhOzApYDcxs=";
     };
     license = "MIT";
     name = "material-theme";
