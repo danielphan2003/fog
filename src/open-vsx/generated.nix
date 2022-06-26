@@ -11533,6 +11533,18 @@
     description = "Port of IntelliJ IDEA Keybindings, including for WebStorm, PyCharm, PHP Storm, etc.";
     publisher = "k--kato";
   };
+  k4ustu3h-theme-jamt = {
+    pname = "k4ustu3h-theme-jamt";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/k4ustu3h/theme-jamt/1.0.0/file/k4ustu3h.theme-jamt-1.0.0.vsix";
+      sha256 = "sha256-nTQMboUH8d3OaCQcFap8BEX4GvE7az5gz3ropbwb5kY=";
+    };
+    license = "MIT";
+    name = "theme-jamt";
+    description = "Just Another Material Theme";
+    publisher = "k4ustu3h";
+  };
   kahole-magit = {
     pname = "kahole-magit";
     version = "0.6.29";

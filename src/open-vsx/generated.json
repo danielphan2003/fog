@@ -18258,6 +18258,25 @@
         },
         "version": "1.5.1"
     },
+    "k4ustu3h-theme-jamt": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "k4ustu3h-theme-jamt",
+        "passthru": {
+            "description": "Just Another Material Theme",
+            "license": "MIT",
+            "name": "theme-jamt",
+            "publisher": "k4ustu3h"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-nTQMboUH8d3OaCQcFap8BEX4GvE7az5gz3ropbwb5kY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/k4ustu3h/theme-jamt/1.0.0/file/k4ustu3h.theme-jamt-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "kahole-magit": {
         "cargoLocks": null,
         "extract": null,
