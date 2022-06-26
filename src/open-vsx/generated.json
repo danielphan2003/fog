@@ -25130,11 +25130,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tT8kRJ2hFWvAlbJMLoA7QjdfHUXGgHq6q7ZGrWfJkqg=",
+            "sha256": "sha256-umAp+nDhib/L2Va6aSSum4RUcagOtSRWA9iSbVkVR28=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.0.10/file/pomdtr.excalidraw-editor-3.0.10.vsix"
+            "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.1.0/file/pomdtr.excalidraw-editor-3.1.0.vsix"
         },
-        "version": "3.0.10"
+        "version": "3.1.0"
     },
     "pouya-comment": {
         "cargoLocks": null,

@@ -15867,10 +15867,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "3.0.10";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.0.10/file/pomdtr.excalidraw-editor-3.0.10.vsix";
-      sha256 = "sha256-tT8kRJ2hFWvAlbJMLoA7QjdfHUXGgHq6q7ZGrWfJkqg=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.1.0/file/pomdtr.excalidraw-editor-3.1.0.vsix";
+      sha256 = "sha256-umAp+nDhib/L2Va6aSSum4RUcagOtSRWA9iSbVkVR28=";
     };
     license = "MIT";
     name = "excalidraw-editor";
