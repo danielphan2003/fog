@@ -147,13 +147,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "29c0057795efcd52616e97a8f61c98a4660ae2af";
+    version = "02fa372d9e6e692b608cb2e1b46df45984830df1";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "29c0057795efcd52616e97a8f61c98a4660ae2af";
+      rev = "02fa372d9e6e692b608cb2e1b46df45984830df1";
       fetchSubmodules = false;
-      sha256 = "sha256-2YK5IPxpvDyoGcxpvqjiYhgHNQTXzRDRGj6IoyYjLBE=";
+      sha256 = "sha256-65fwx5IlnMO0mSkWG4Z8JmKMnCHS5fk5d4BzGYJVH8Y=";
     });
   };
   awestore = {
@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5cfa73c2d35f56af5c460e151d7d05ddd567c15c";
+    version = "ea366c7b28fd15e332f1d8755a23bf6296d1c285";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "5cfa73c2d35f56af5c460e151d7d05ddd567c15c";
+      rev = "ea366c7b28fd15e332f1d8755a23bf6296d1c285";
       fetchSubmodules = false;
-      sha256 = "sha256-gyWhxgOloUsWs5M6nK0UVlwY5eRm3nIwOQyOGPkKLGI=";
+      sha256 = "sha256-5XO2lRkAG+pOYR5c0MIggT3EMz7yFSfrOFMf833y15g=";
     });
   };
   caddy = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6288";
+    version = "1.0.6289";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6288.tar.bz2";
-      sha256 = "sha256-zTvVmUgeLrDz3Li2Kd2yjyizbPVPFW4pGZRRuBcJwUM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6289.tar.bz2";
+      sha256 = "sha256-VzQyRhTTVzFNMtQ/MvG/0TriIfmzaJHTPYv3wMGEkJI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6288";
+    version = "1.0.6289";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6288-1_all.deb";
-      sha256 = "sha256-sC3bKdl7Zy+1fhVcxhm6ewtHwW3NpUVu5sjrrj7JcpQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6289-1_all.deb";
+      sha256 = "sha256-qzC1cUqDxjeAz8l2CYNgMmVpjxZklNL8ex0qvu/bVKg=";
     };
   };
   jitsi-videobridge2 = {
@@ -781,14 +781,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "87f7520e51aa697c185f8b6f826c331106258a03";
+    version = "58c39f2cb2fbf31087396322e128b97f6db63ec6";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "87f7520e51aa697c185f8b6f826c331106258a03";
+      rev = "58c39f2cb2fbf31087396322e128b97f6db63ec6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-c413VWfoQ9yWzXbYqCVxqBAPUznihqwEQuaU6sKBljU=";
+      sha256 = "sha256-JN03MBfIR15xaPfzNaRD/cDGQJJC1mv059F9BvCEkVM=";
     };
   };
   polymc-cracked = {
