@@ -5161,11 +5161,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8a5NLWSv2zQ1mekSJtcj6PNyCW+OOyPq+gDdTM+vfRE=",
+            "sha256": "sha256-Sw2zlKpxRbUg9nlLu571LoYUHmY4I7ZIF2zumTi/RA4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2417/file/Slint.slint-nightly-2022.6.2417.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2611/file/Slint.slint-nightly-2022.6.2611.vsix"
         },
-        "version": "2022.6.2417"
+        "version": "2022.6.2611"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -8676,11 +8676,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dxPyjLWY2IVNpbwyAxyZYtFUDrV3DG/HJsOzsRVSJ8w=",
+            "sha256": "sha256-3SCRLJogDu2RENPOFHqE47oetJsBqS+BgMAvggnMPig=",
             "type": "url",
-            "url": "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.85/file/asvetliakov.vscode-neovim-0.0.85.vsix"
+            "url": "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.86/file/asvetliakov.vscode-neovim-0.0.86.vsix"
         },
-        "version": "0.0.85"
+        "version": "0.0.86"
     },
     "atishay-jain-All-Autocomplete": {
         "cargoLocks": null,
@@ -25795,11 +25795,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PrHGTlxadn/45cIlDJQbjk5RrHu8QehEumVVfF8Q7Nk=",
+            "sha256": "sha256-CWbNjwKBpq6eJvry4L2cUm7gd5A7RP5EKtv5hB14GEY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/raidou/calc/2.1.0/file/raidou.calc-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/raidou/calc/2.2.0/file/raidou.calc-2.2.0.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.2.0"
     },
     "rangav-vscode-thunder-client": {
         "cargoLocks": null,
@@ -28132,11 +28132,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EqObG+9s8GI2isVd+5xWvvaECy9xEBBNZtNnt/DaKPc=",
+            "sha256": "sha256-m5ZXMTJ9L72bGRkByqTHxO02Kv/Ig1ochoQ2Ah1W5qk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.3/file/shufo.vscode-blade-formatter-0.15.3.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.0/file/shufo.vscode-blade-formatter-0.16.0.vsix"
         },
-        "version": "0.15.3"
+        "version": "0.16.0"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
@@ -29918,11 +29918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VEOPTwb8spC4wJXoUZwXEY860o5d+++WWd89evaywBo=",
+            "sha256": "sha256-bZEeqk8LKRUHwYwuLBfxEmKebHjpESfaBQLRndz1FBU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.25/file/t-codespaces.ide-data-sync-0.0.25.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.28/file/t-codespaces.ide-data-sync-0.0.28.vsix"
         },
-        "version": "0.0.25"
+        "version": "0.0.28"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,

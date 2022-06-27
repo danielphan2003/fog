@@ -3255,10 +3255,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.2417";
+    version = "2022.6.2611";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2417/file/Slint.slint-nightly-2022.6.2417.vsix";
-      sha256 = "sha256-8a5NLWSv2zQ1mekSJtcj6PNyCW+OOyPq+gDdTM+vfRE=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2611/file/Slint.slint-nightly-2022.6.2611.vsix";
+      sha256 = "sha256-Sw2zlKpxRbUg9nlLu571LoYUHmY4I7ZIF2zumTi/RA4=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5475,10 +5475,10 @@
   };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
-    version = "0.0.85";
+    version = "0.0.86";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.85/file/asvetliakov.vscode-neovim-0.0.85.vsix";
-      sha256 = "sha256-dxPyjLWY2IVNpbwyAxyZYtFUDrV3DG/HJsOzsRVSJ8w=";
+      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.86/file/asvetliakov.vscode-neovim-0.0.86.vsix";
+      sha256 = "sha256-3SCRLJogDu2RENPOFHqE47oetJsBqS+BgMAvggnMPig=";
     };
     license = "MIT";
     name = "vscode-neovim";
@@ -16287,10 +16287,10 @@
   };
   raidou-calc = {
     pname = "raidou-calc";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/raidou/calc/2.1.0/file/raidou.calc-2.1.0.vsix";
-      sha256 = "sha256-PrHGTlxadn/45cIlDJQbjk5RrHu8QehEumVVfF8Q7Nk=";
+      url = "https://open-vsx.org/api/raidou/calc/2.2.0/file/raidou.calc-2.2.0.vsix";
+      sha256 = "sha256-CWbNjwKBpq6eJvry4L2cUm7gd5A7RP5EKtv5hB14GEY=";
     };
     license = "MIT";
     name = "calc";
@@ -17763,10 +17763,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.15.3";
+    version = "0.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.15.3/file/shufo.vscode-blade-formatter-0.15.3.vsix";
-      sha256 = "sha256-EqObG+9s8GI2isVd+5xWvvaECy9xEBBNZtNnt/DaKPc=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.0/file/shufo.vscode-blade-formatter-0.16.0.vsix";
+      sha256 = "sha256-m5ZXMTJ9L72bGRkByqTHxO02Kv/Ig1ochoQ2Ah1W5qk=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -18891,10 +18891,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.25";
+    version = "0.0.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.25/file/t-codespaces.ide-data-sync-0.0.25.vsix";
-      sha256 = "sha256-VEOPTwb8spC4wJXoUZwXEY860o5d+++WWd89evaywBo=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.28/file/t-codespaces.ide-data-sync-0.0.28.vsix";
+      sha256 = "sha256-bZEeqk8LKRUHwYwuLBfxEmKebHjpESfaBQLRndz1FBU=";
     };
     license = "";
     name = "ide-data-sync";
