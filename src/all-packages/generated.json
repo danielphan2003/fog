@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "036f1f16d2c7c059287779e3e3a88b3a2192ad80",
-            "sha256": "sha256-3inEvO9fxolAboKa01kRwUgxp4frsBgSYkhzrh0afic=",
+            "rev": "84e931fc61dc9afa88890bd7ec84433da9a311b3",
+            "sha256": "sha256-CdI8++wCimUkW+ZEZTezlg2hUDXuFY79JS6XnTgwjCE=",
             "type": "github"
         },
-        "version": "036f1f16d2c7c059287779e3e3a88b3a2192ad80"
+        "version": "84e931fc61dc9afa88890bd7ec84433da9a311b3"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1916,11 +1916,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "fc7836ae95a4cb17c08e0ffdf10e1599d413361c",
-            "sha256": "sha256-f4sp1X+HfCflXb1vJFB+M0tcnUa/EqPgn8JgF2GBCpc=",
+            "rev": "a8ab00902ec3c5eb049bad78a5d252fa72c229e9",
+            "sha256": "sha256-QP4MnvBtSCCEB+rDxn1Rh3OysqIo6RJUWJWUOnJtZFA=",
             "type": "github"
         },
-        "version": "fc7836ae95a4cb17c08e0ffdf10e1599d413361c"
+        "version": "a8ab00902ec3c5eb049bad78a5d252fa72c229e9"
     },
     "ultimmc": {
         "cargoLocks": null,
@@ -2155,11 +2155,11 @@
             "name": null,
             "owner": "flatpak",
             "repo": "xdg-desktop-portal",
-            "rev": "f7756ed62a7b09c9ed7ca9368d105c2661929531",
-            "sha256": "sha256-pioA2if2uD4UeLg/cvDsAlMcNUAfLdNC7CIKgiSjz0o=",
+            "rev": "d0db4be371de4a3a9ff58584feb8c06cb08ef79a",
+            "sha256": "sha256-9SxeCpOF58tyFmtTA1gheUzoIV1UBYoPJ+42Ps9sax0=",
             "type": "github"
         },
-        "version": "f7756ed62a7b09c9ed7ca9368d105c2661929531"
+        "version": "d0db4be371de4a3a9ff58584feb8c06cb08ef79a"
     },
     "xdg-desktop-portal-gtk": {
         "cargoLocks": null,
@@ -2228,12 +2228,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9ce7264889e36fddbdf6bac332225ad6f628ad5d",
-            "sha256": "sha256-7HVVv7Ui0napdC/MBN8cvdnyN5nwYg2ocFF2r1BtjkA=",
+            "rev": "92a00f52217b71107dcdc39cfaf56f77a41b42b1",
+            "sha256": "sha256-gn0z4/r95T5fqZ91LYCzZgTus/2Toz3YB8lXjkP/57M=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
-        "version": "9ce7264889e36fddbdf6bac332225ad6f628ad5d"
+        "version": "92a00f52217b71107dcdc39cfaf56f77a41b42b1"
     },
     "ydotool": {
         "cargoLocks": null,

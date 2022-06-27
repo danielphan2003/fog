@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "036f1f16d2c7c059287779e3e3a88b3a2192ad80";
+    version = "84e931fc61dc9afa88890bd7ec84433da9a311b3";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "036f1f16d2c7c059287779e3e3a88b3a2192ad80";
+      rev = "84e931fc61dc9afa88890bd7ec84433da9a311b3";
       fetchSubmodules = false;
-      sha256 = "sha256-3inEvO9fxolAboKa01kRwUgxp4frsBgSYkhzrh0afic=";
+      sha256 = "sha256-CdI8++wCimUkW+ZEZTezlg2hUDXuFY79JS6XnTgwjCE=";
     });
   };
   caddy = {
@@ -1149,13 +1149,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "fc7836ae95a4cb17c08e0ffdf10e1599d413361c";
+    version = "a8ab00902ec3c5eb049bad78a5d252fa72c229e9";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "fc7836ae95a4cb17c08e0ffdf10e1599d413361c";
+      rev = "a8ab00902ec3c5eb049bad78a5d252fa72c229e9";
       fetchSubmodules = false;
-      sha256 = "sha256-f4sp1X+HfCflXb1vJFB+M0tcnUa/EqPgn8JgF2GBCpc=";
+      sha256 = "sha256-QP4MnvBtSCCEB+rDxn1Rh3OysqIo6RJUWJWUOnJtZFA=";
     });
   };
   ultimmc = {
@@ -1289,13 +1289,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "f7756ed62a7b09c9ed7ca9368d105c2661929531";
+    version = "d0db4be371de4a3a9ff58584feb8c06cb08ef79a";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "f7756ed62a7b09c9ed7ca9368d105c2661929531";
+      rev = "d0db4be371de4a3a9ff58584feb8c06cb08ef79a";
       fetchSubmodules = false;
-      sha256 = "sha256-pioA2if2uD4UeLg/cvDsAlMcNUAfLdNC7CIKgiSjz0o=";
+      sha256 = "sha256-9SxeCpOF58tyFmtTA1gheUzoIV1UBYoPJ+42Ps9sax0=";
     });
   };
   xdg-desktop-portal-gtk = {
@@ -1334,14 +1334,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "9ce7264889e36fddbdf6bac332225ad6f628ad5d";
+    version = "92a00f52217b71107dcdc39cfaf56f77a41b42b1";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "9ce7264889e36fddbdf6bac332225ad6f628ad5d";
+      rev = "92a00f52217b71107dcdc39cfaf56f77a41b42b1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7HVVv7Ui0napdC/MBN8cvdnyN5nwYg2ocFF2r1BtjkA=";
+      sha256 = "sha256-gn0z4/r95T5fqZ91LYCzZgTus/2Toz3YB8lXjkP/57M=";
     };
   };
   ydotool = {
