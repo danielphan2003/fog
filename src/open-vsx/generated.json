@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uDWBgodHBVkTj/5oGJbabwEFXKzQ1Ts9nufl2xmhyEc=",
+            "sha256": "sha256-vwGvchy8NOE1nJWP/fo/SB5x4ZcVXOY6GPr7yZfB1qA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1113/file/Prisma.prisma-insider-31.0.1113.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1115/file/Prisma.prisma-insider-31.0.1115.vsix"
         },
-        "version": "31.0.1113"
+        "version": "31.0.1115"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -19468,11 +19468,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MCryB5cMqAmMgu8MhrGMmtxFlTmEQYWC+9m55tZotqg=",
+            "sha256": "sha256-y9YXH1x/aXX0meYZEZnRNmQhfU6bMxFMsWDJBDax4m4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.78/file/leanprover.lean4-0.0.78.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.79/file/leanprover.lean4-0.0.79.vsix"
         },
-        "version": "0.0.78"
+        "version": "0.0.79"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,

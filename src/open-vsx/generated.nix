@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1113";
+    version = "31.0.1115";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1113/file/Prisma.prisma-insider-31.0.1113.vsix";
-      sha256 = "sha256-uDWBgodHBVkTj/5oGJbabwEFXKzQ1Ts9nufl2xmhyEc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1115/file/Prisma.prisma-insider-31.0.1115.vsix";
+      sha256 = "sha256-vwGvchy8NOE1nJWP/fo/SB5x4ZcVXOY6GPr7yZfB1qA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12291,10 +12291,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.78";
+    version = "0.0.79";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.78/file/leanprover.lean4-0.0.78.vsix";
-      sha256 = "sha256-MCryB5cMqAmMgu8MhrGMmtxFlTmEQYWC+9m55tZotqg=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.79/file/leanprover.lean4-0.0.79.vsix";
+      sha256 = "sha256-y9YXH1x/aXX0meYZEZnRNmQhfU6bMxFMsWDJBDax4m4=";
     };
     license = "Apache-2.0";
     name = "lean4";
