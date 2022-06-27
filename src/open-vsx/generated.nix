@@ -529,6 +529,18 @@
     description = "Add annotations, hereso unto for known as \\\"Biscuits\\\", to the end of the line of closing brackets and parentheses. Such Biscuits could include function/object names or even types. Make callback soup digestible!";
     publisher = "CodeBiscuits";
   };
+  CodeChat-codechat = {
+    pname = "CodeChat-codechat";
+    version = "0.2.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/CodeChat/codechat/0.2.5/file/CodeChat.codechat-0.2.5.vsix";
+      sha256 = "sha256-JXnukNGibZNUmRgIQFuTx9tBcpM69U85HemJgYOYt/I=";
+    };
+    license = "";
+    name = "codechat";
+    description = "This embeds CodeChat in the Visual Studio Code Editor.";
+    publisher = "CodeChat";
+  };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
     version = "13.1.0";
@@ -18159,10 +18171,10 @@
   };
   sourcegraph-sourcegraph = {
     pname = "sourcegraph-sourcegraph";
-    version = "2.2.4";
+    version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.4/file/sourcegraph.sourcegraph-2.2.4.vsix";
-      sha256 = "sha256-gap12P5yvzWLaHGvhsEgAEXev9lzP6c4lg3wtSIL28E=";
+      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.5/file/sourcegraph.sourcegraph-2.2.5.vsix";
+      sha256 = "sha256-RzAOlcmZEIssFvu+K3Bg7LzDIw60+HhPcFlvCscOvnY=";
     };
     license = "Apache-2.0";
     name = "sourcegraph";

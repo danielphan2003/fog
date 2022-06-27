@@ -835,6 +835,25 @@
         },
         "version": "0.0.14"
     },
+    "CodeChat-codechat": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "CodeChat-codechat",
+        "passthru": {
+            "description": "This embeds CodeChat in the Visual Studio Code Editor.",
+            "license": "",
+            "name": "codechat",
+            "publisher": "CodeChat"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-JXnukNGibZNUmRgIQFuTx9tBcpM69U85HemJgYOYt/I=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/CodeChat/codechat/0.2.5/file/CodeChat.codechat-0.2.5.vsix"
+        },
+        "version": "0.2.5"
+    },
     "CodeStream-codestream": {
         "cargoLocks": null,
         "extract": null,
@@ -28759,11 +28778,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gap12P5yvzWLaHGvhsEgAEXev9lzP6c4lg3wtSIL28E=",
+            "sha256": "sha256-RzAOlcmZEIssFvu+K3Bg7LzDIw60+HhPcFlvCscOvnY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.4/file/sourcegraph.sourcegraph-2.2.4.vsix"
+            "url": "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.5/file/sourcegraph.sourcegraph-2.2.5.vsix"
         },
-        "version": "2.2.4"
+        "version": "2.2.5"
     },
     "sourcery-sourcery": {
         "cargoLocks": null,
