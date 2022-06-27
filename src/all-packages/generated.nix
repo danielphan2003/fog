@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "73d0259210bd70889f8e169455110177efdd0da3";
+    version = "1fc1fc9d3babbe3e21b77d6176529103672274a2";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "73d0259210bd70889f8e169455110177efdd0da3";
+      rev = "1fc1fc9d3babbe3e21b77d6176529103672274a2";
       fetchSubmodules = false;
-      sha256 = "sha256-ZIgi4lnYv561mDoDppgtlmeuGNnwncIFekpGyT3i19s=";
+      sha256 = "sha256-0XzBvkzzfnelOw2u5iz8kz8b1nV3Vzpu77HMrTzNM8c=";
     });
   };
   ibus = {
@@ -1111,13 +1111,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "412c4c55e2d64b59da57f069a157a125a6295136";
+    version = "40503ef07a0b45230fd24ef37707ed579c565327";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "412c4c55e2d64b59da57f069a157a125a6295136";
+      rev = "40503ef07a0b45230fd24ef37707ed579c565327";
       fetchSubmodules = false;
-      sha256 = "sha256-b6edFBHQUp2sVFkxlANw/qbD1oLaGe2Ut3aV51QK8Zs=";
+      sha256 = "sha256-aK6+a1r8Sj70dZFoix3Ve54jbEeF6qV1sc3RpJ5/X30=";
     });
   };
   tailscale-systray = {
@@ -1149,13 +1149,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "b5701cf87fcc20d15896ca7d046fac80c12593a8";
+    version = "2e39f78e6465906d5925cf97a95e6049ef6ebb7c";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "b5701cf87fcc20d15896ca7d046fac80c12593a8";
+      rev = "2e39f78e6465906d5925cf97a95e6049ef6ebb7c";
       fetchSubmodules = false;
-      sha256 = "sha256-WQ11Y2O5gRoGPcGy8951rZey4TIc8xgzaFoRDqMoFDg=";
+      sha256 = "sha256-qzqH5NjhYvoOZOqum5RJ/ljkfPajYYx+CNa3xRn00Ho=";
     });
   };
   ultimmc = {
@@ -1334,14 +1334,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "92a00f52217b71107dcdc39cfaf56f77a41b42b1";
+    version = "cf30498fb8f1da11912e7abc4e44975cd2f4c61b";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "92a00f52217b71107dcdc39cfaf56f77a41b42b1";
+      rev = "cf30498fb8f1da11912e7abc4e44975cd2f4c61b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gn0z4/r95T5fqZ91LYCzZgTus/2Toz3YB8lXjkP/57M=";
+      sha256 = "sha256-SbOtCufDBwVal18cZpB8wV7Q8ialSCPiaKEWiC9w8/E=";
     };
   };
   ydotool = {
