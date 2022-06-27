@@ -910,16 +910,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e670b7e0594749a12375e9725eddf777560c14af";
+    version = "8d0b49d36f5d450f9688a2980d06774076408f02";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e670b7e0594749a12375e9725eddf777560c14af";
+      rev = "8d0b49d36f5d450f9688a2980d06774076408f02";
       fetchSubmodules = false;
-      sha256 = "sha256-BVcTzhYpnS6OeHT4Ytey/Ky0MTdNzH9GZzH3RACJZq0=";
+      sha256 = "sha256-FUM/rIT3gvzTy6WF2CrQdkox3vJ/157EVW+wFM1RdZs=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e670b7e0594749a12375e9725eddf777560c14af/Cargo.lock;
+      lockFile = ./rustdesk-8d0b49d36f5d450f9688a2980d06774076408f02/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1289,13 +1289,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "1b6c3a8246dd04e73495f11dbc7544b402ac39ed";
+    version = "f7756ed62a7b09c9ed7ca9368d105c2661929531";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "1b6c3a8246dd04e73495f11dbc7544b402ac39ed";
+      rev = "f7756ed62a7b09c9ed7ca9368d105c2661929531";
       fetchSubmodules = false;
-      sha256 = "sha256-08j9rJh0RtvVy2Wma7lVOqhEbs4OVgYJSM65ZmG97Es=";
+      sha256 = "sha256-pioA2if2uD4UeLg/cvDsAlMcNUAfLdNC7CIKgiSjz0o=";
     });
   };
   xdg-desktop-portal-gtk = {
