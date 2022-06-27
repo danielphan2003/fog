@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1111";
+    version = "31.0.1113";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1111/file/Prisma.prisma-insider-31.0.1111.vsix";
-      sha256 = "sha256-z6nQdaJ4+quozxOLVOFekNmtv7kRhQLMT+0WTh3WG/I=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1113/file/Prisma.prisma-insider-31.0.1113.vsix";
+      sha256 = "sha256-uDWBgodHBVkTj/5oGJbabwEFXKzQ1Ts9nufl2xmhyEc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3135,10 +3135,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.4";
+    version = "4.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.4/file/Sarrus.sourcepawn-vscode-4.0.4.vsix";
-      sha256 = "sha256-7KiOUX9eZF9ciXyLrIXMXaERjOUTYrkjm29do517e1w=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.5/file/Sarrus.sourcepawn-vscode-4.0.5.vsix";
+      sha256 = "sha256-APbjZ4suwnA5ed7MKveFJbWNLXN1qwkcH4p45V+qsB8=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -18891,10 +18891,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.29";
+    version = "0.0.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.29/file/t-codespaces.ide-data-sync-0.0.29.vsix";
-      sha256 = "sha256-VUjFV0QKjUEa3J9WSi5W0sT1V2ks4jUYCD4ev5XzyQ4=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.30/file/t-codespaces.ide-data-sync-0.0.30.vsix";
+      sha256 = "sha256-rYBJcujqJHeZSGVocbqeH7C5kX+6GHlSmWhh4m6RWow=";
     };
     license = "";
     name = "ide-data-sync";
