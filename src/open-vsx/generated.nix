@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1110";
+    version = "31.0.1111";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1110/file/Prisma.prisma-insider-31.0.1110.vsix";
-      sha256 = "sha256-Nq2tc1n6Ag8O3p6Q9LHknF48VEhXhweD1MlBywHYtcs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1111/file/Prisma.prisma-insider-31.0.1111.vsix";
+      sha256 = "sha256-z6nQdaJ4+quozxOLVOFekNmtv7kRhQLMT+0WTh3WG/I=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7767,10 +7767,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.29";
+    version = "0.5.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.29/file/digma.digma-0.5.29.vsix";
-      sha256 = "sha256-rmYi8kSYi+1jrSErjmVa6UXMPQ0vgXg+l2NrABwQpns=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.30/file/digma.digma-0.5.30.vsix";
+      sha256 = "sha256-HXITHp9FzFczVyXZ5PiGqGSEQ24yh2/vegvg9tVhDgE=";
     };
     license = "MIT";
     name = "digma";
@@ -15831,10 +15831,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.363";
+    version = "0.26.364";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.363/file/pokey.cursorless-0.26.363.vsix";
-      sha256 = "sha256-UDqk73ufW8aTrgQJD/n7OfvIJk/+uyN8V9/+fKNrxT4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.364/file/pokey.cursorless-0.26.364.vsix";
+      sha256 = "sha256-ktubj48CjcT4rn8J1tTV2rk6V8F4XcMD6MwpfCT+4wQ=";
     };
     license = "MIT";
     name = "cursorless";
