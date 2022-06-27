@@ -12153,11 +12153,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aHdRl4vrUrieWxNxKRxXgP59X5mVkqh2ZOQ5ePvR79M=",
+            "sha256": "sha256-37WqsN1z8c0EeYygwNKciYRTnwDLbJJuExF/xIRCbSo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.100.4/file/dendron.nightly-0.100.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.100.5/file/dendron.nightly-0.100.5.vsix"
         },
-        "version": "0.100.4"
+        "version": "0.100.5"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -25795,11 +25795,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CWbNjwKBpq6eJvry4L2cUm7gd5A7RP5EKtv5hB14GEY=",
+            "sha256": "sha256-syvRbj6sqj5EohueR4qacrUIiLZML5dZBw/zQjPQD/A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/raidou/calc/2.2.0/file/raidou.calc-2.2.0.vsix"
+            "url": "https://open-vsx.org/api/raidou/calc/2.3.1/file/raidou.calc-2.3.1.vsix"
         },
-        "version": "2.2.0"
+        "version": "2.3.1"
     },
     "rangav-vscode-thunder-client": {
         "cargoLocks": null,

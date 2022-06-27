@@ -7671,10 +7671,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.100.4";
+    version = "0.100.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.100.4/file/dendron.nightly-0.100.4.vsix";
-      sha256 = "sha256-aHdRl4vrUrieWxNxKRxXgP59X5mVkqh2ZOQ5ePvR79M=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.100.5/file/dendron.nightly-0.100.5.vsix";
+      sha256 = "sha256-37WqsN1z8c0EeYygwNKciYRTnwDLbJJuExF/xIRCbSo=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -16287,10 +16287,10 @@
   };
   raidou-calc = {
     pname = "raidou-calc";
-    version = "2.2.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/raidou/calc/2.2.0/file/raidou.calc-2.2.0.vsix";
-      sha256 = "sha256-CWbNjwKBpq6eJvry4L2cUm7gd5A7RP5EKtv5hB14GEY=";
+      url = "https://open-vsx.org/api/raidou/calc/2.3.1/file/raidou.calc-2.3.1.vsix";
+      sha256 = "sha256-syvRbj6sqj5EohueR4qacrUIiLZML5dZBw/zQjPQD/A=";
     };
     license = "MIT";
     name = "calc";
