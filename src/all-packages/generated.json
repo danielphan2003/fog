@@ -1694,11 +1694,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "b6bd8a8482af3d84faabb2c4f2cdf3cac018cb90",
-            "sha256": "sha256-na550iNcRwUoIvqt9rPjZ/lM0lvjvdVSLmm1WWQ7vRM=",
+            "rev": "5b1410e3805e75ebbc7c7b3f4c07f06c602df9d1",
+            "sha256": "sha256-chaCz4+RXPUP/MZymxA0h1ATuWYRgru3JMELiWPEBcE=",
             "type": "github"
         },
-        "version": "b6bd8a8482af3d84faabb2c4f2cdf3cac018cb90"
+        "version": "5b1410e3805e75ebbc7c7b3f4c07f06c602df9d1"
     },
     "spicetify-themes": {
         "cargoLocks": null,
