@@ -15199,6 +15199,25 @@
         },
         "version": "1.1.0"
     },
+    "gpoore-codebraid-preview": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "gpoore-codebraid-preview",
+        "passthru": {
+            "description": "Preview Markdown documents with Pandoc.  Optionally execute code blocks and inline code with Codebraid, using Jupyter kernels or its built-in code execution system.",
+            "license": "See license in LICENSE.txt (BSD 3-Clause except as noted otherwise)",
+            "name": "codebraid-preview",
+            "publisher": "gpoore"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dEgKcdq9NVRjSiKD4ImnWR19p8TfcXnDYADZ9Id6bAg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/gpoore/codebraid-preview/0.6.0/file/gpoore.codebraid-preview-0.6.0.vsix"
+        },
+        "version": "0.6.0"
+    },
     "grain-lang-vscode-grain": {
         "cargoLocks": null,
         "extract": null,
@@ -25073,11 +25092,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ktubj48CjcT4rn8J1tTV2rk6V8F4XcMD6MwpfCT+4wQ=",
+            "sha256": "sha256-xO/cebkJxwTkZdVHmqMtl+qqeGM3UCgMz+9Gd7vkDNs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.364/file/pokey.cursorless-0.26.364.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.366/file/pokey.cursorless-0.26.366.vsix"
         },
-        "version": "0.26.364"
+        "version": "0.26.366"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -29766,11 +29785,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-c9IKtAupuXM5NuvWKlgNLZDCm32Ok/3+aiAGi2IhSTo=",
+            "sha256": "sha256-BAmz1z8aWIoIkdadKvqGUniIaMh2Ceey0jnSgAVDOp8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.18.0/file/svelte.svelte-vscode-105.18.0.vsix"
+            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.18.1/file/svelte.svelte-vscode-105.18.1.vsix"
         },
-        "version": "105.18.0"
+        "version": "105.18.1"
     },
     "svelte-svelte-vscode-nightly": {
         "cargoLocks": null,
@@ -36055,11 +36074,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-n3rkLlBlCQ9qVerhzj5GatPelgmvLbBLKpau8pZW9s0=",
+            "sha256": "sha256-EvPBwE+SrJP4AUQXeWRm8iqAzKydjRFooDWRfwxAu/o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zobo/php-intellisense/1.0.10/file/zobo.php-intellisense-1.0.10.vsix"
+            "url": "https://open-vsx.org/api/zobo/php-intellisense/1.0.11/file/zobo.php-intellisense-1.0.11.vsix"
         },
-        "version": "1.0.10"
+        "version": "1.0.11"
     },
     "zokugun-cobol-folding": {
         "cargoLocks": null,

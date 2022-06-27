@@ -9601,6 +9601,18 @@
     description = "";
     publisher = "goodbaikin";
   };
+  gpoore-codebraid-preview = {
+    pname = "gpoore-codebraid-preview";
+    version = "0.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.6.0/file/gpoore.codebraid-preview-0.6.0.vsix";
+      sha256 = "sha256-dEgKcdq9NVRjSiKD4ImnWR19p8TfcXnDYADZ9Id6bAg=";
+    };
+    license = "See license in LICENSE.txt (BSD 3-Clause except as noted otherwise)";
+    name = "codebraid-preview";
+    description = "Preview Markdown documents with Pandoc.  Optionally execute code blocks and inline code with Codebraid, using Jupyter kernels or its built-in code execution system.";
+    publisher = "gpoore";
+  };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
     version = "0.16.1";
@@ -15831,10 +15843,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.364";
+    version = "0.26.366";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.364/file/pokey.cursorless-0.26.364.vsix";
-      sha256 = "sha256-ktubj48CjcT4rn8J1tTV2rk6V8F4XcMD6MwpfCT+4wQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.366/file/pokey.cursorless-0.26.366.vsix";
+      sha256 = "sha256-xO/cebkJxwTkZdVHmqMtl+qqeGM3UCgMz+9Gd7vkDNs=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18795,10 +18807,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.18.0";
+    version = "105.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.18.0/file/svelte.svelte-vscode-105.18.0.vsix";
-      sha256 = "sha256-c9IKtAupuXM5NuvWKlgNLZDCm32Ok/3+aiAGi2IhSTo=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.18.1/file/svelte.svelte-vscode-105.18.1.vsix";
+      sha256 = "sha256-BAmz1z8aWIoIkdadKvqGUniIaMh2Ceey0jnSgAVDOp8=";
     };
     license = "MIT";
     name = "svelte-vscode";
@@ -22767,10 +22779,10 @@
   };
   zobo-php-intellisense = {
     pname = "zobo-php-intellisense";
-    version = "1.0.10";
+    version = "1.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zobo/php-intellisense/1.0.10/file/zobo.php-intellisense-1.0.10.vsix";
-      sha256 = "sha256-n3rkLlBlCQ9qVerhzj5GatPelgmvLbBLKpau8pZW9s0=";
+      url = "https://open-vsx.org/api/zobo/php-intellisense/1.0.11/file/zobo.php-intellisense-1.0.11.vsix";
+      sha256 = "sha256-EvPBwE+SrJP4AUQXeWRm8iqAzKydjRFooDWRfwxAu/o=";
     };
     license = "MIT";
     name = "php-intellisense";
