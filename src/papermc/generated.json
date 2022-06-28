@@ -399,6 +399,54 @@
         },
         "version": "66"
     },
+    "papermc-1_18_1": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "papermc-1_18_1",
+        "passthru": {
+            "mcVer": "1.18.1"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-qUkXpEcsLLyZB6FcZmu7eE+V7Ne1PHe8CP5xED5Uh/U=",
+            "type": "url",
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/216/downloads/paper-1.18.1-216.jar"
+        },
+        "version": "216"
+    },
+    "papermc-1_18_2": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "papermc-1_18_2",
+        "passthru": {
+            "mcVer": "1.18.2"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2pu7UMUlieUlAJI3FhHFAxbCHZkhlYMY9KeQ4E5sl3M=",
+            "type": "url",
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/386/downloads/paper-1.18.2-386.jar"
+        },
+        "version": "386"
+    },
+    "papermc-1_19": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "papermc-1_19",
+        "passthru": {
+            "mcVer": "1.19"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2VZgl0I8y23cXYHCidP9LiOeKKf7uFIZoIK5esUlHyo=",
+            "type": "url",
+            "url": "https://papermc.io/api/v2/projects/paper/versions/1.19/builds/40/downloads/paper-1.19-40.jar"
+        },
+        "version": "40"
+    },
     "papermc-1_8_8": {
         "cargoLocks": null,
         "extract": null,
