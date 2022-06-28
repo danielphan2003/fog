@@ -666,11 +666,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "b4737f8ac65083c084696811c021bcb61fa750ac",
-            "sha256": "sha256-ByW+XYTaeBTTbOaxNeF367nqgnBM+EC8jm+PmwHcVGQ=",
+            "rev": "a2d5bb29096aa77134ecba6165f1e1b49e1df399",
+            "sha256": "sha256-6326OQKcYTVym90/I5kPPUkk8Id9FkIo8N4YBjyFLXE=",
             "type": "github"
         },
-        "version": "b4737f8ac65083c084696811c021bcb61fa750ac"
+        "version": "a2d5bb29096aa77134ecba6165f1e1b49e1df399"
     },
     "fluffychat": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "fc5cd49795fd412be89b536bd90073dacdd5b7d8",
-            "sha256": "sha256-lCjC5oeD1yclAgxlHSr/r505ojXSg3jafsuiy2FCobM=",
+            "rev": "3832720273ac1390faf3df52af6d00c09c370919",
+            "sha256": "sha256-b9yzVR28ODI3KiEjZoNIR2kdV2cZznVsYrG3QKHhcFw=",
             "type": "github"
         },
-        "version": "fc5cd49795fd412be89b536bd90073dacdd5b7d8"
+        "version": "3832720273ac1390faf3df52af6d00c09c370919"
     },
     "ibus": {
         "cargoLocks": null,

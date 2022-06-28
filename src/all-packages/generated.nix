@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "b4737f8ac65083c084696811c021bcb61fa750ac";
+    version = "a2d5bb29096aa77134ecba6165f1e1b49e1df399";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "b4737f8ac65083c084696811c021bcb61fa750ac";
+      rev = "a2d5bb29096aa77134ecba6165f1e1b49e1df399";
       fetchSubmodules = false;
-      sha256 = "sha256-ByW+XYTaeBTTbOaxNeF367nqgnBM+EC8jm+PmwHcVGQ=";
+      sha256 = "sha256-6326OQKcYTVym90/I5kPPUkk8Id9FkIo8N4YBjyFLXE=";
     });
   };
   fluffychat = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fc5cd49795fd412be89b536bd90073dacdd5b7d8";
+    version = "3832720273ac1390faf3df52af6d00c09c370919";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "fc5cd49795fd412be89b536bd90073dacdd5b7d8";
+      rev = "3832720273ac1390faf3df52af6d00c09c370919";
       fetchSubmodules = false;
-      sha256 = "sha256-lCjC5oeD1yclAgxlHSr/r505ojXSg3jafsuiy2FCobM=";
+      sha256 = "sha256-b9yzVR28ODI3KiEjZoNIR2kdV2cZznVsYrG3QKHhcFw=";
     });
   };
   ibus = {
