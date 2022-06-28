@@ -240,11 +240,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PgK+tCaMnl9q7UoJocBHSpr/XSEdsimFuuABbBhDS7k=",
+            "sha256": "sha256-p4k25TcyoMFwrCYcgHDUInNc8e0PCc9HQTCzlG50w+M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.1/file/AvengaGermanyGmbH.couper-1.4.1.vsix"
+            "url": "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.2/file/AvengaGermanyGmbH.couper-1.4.2.vsix"
         },
-        "version": "1.4.1"
+        "version": "1.4.2"
     },
     "Avoonix-furry-language": {
         "cargoLocks": null,
@@ -5408,11 +5408,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zM31KaEktJ6WwvQBvXdB19w1mOWTazQChSy/OU4JFto=",
+            "sha256": "sha256-P//ZIH7JRUdUcVY2SBjpbgYjdVNSoeU5THiALj6RSYc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.3/file/TI.devspacesplus-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.7/file/TI.devspacesplus-0.0.7.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.7"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -25225,11 +25225,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4gB9AssuvpiBDQ8mKxdfNC/sZGjPJ/3b6CnyD0nM/vI=",
+            "sha256": "sha256-LmtiRb7HWxZ8kcLq5dBmC42HWBs7KN5ReaNF8b1ob90=",
             "type": "url",
-            "url": "https://open-vsx.org/api/potigol/potigol-language/1.0.0/file/potigol.potigol-language-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/potigol/potigol-language/1.1.0/file/potigol.potigol-language-1.1.0.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "pouya-comment": {
         "cargoLocks": null,
@@ -29999,6 +29999,25 @@
             "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.30/file/t-codespaces.ide-data-sync-0.0.30.vsix"
         },
         "version": "0.0.30"
+    },
+    "t-codespaces-initx-common": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "t-codespaces-initx-common",
+        "passthru": {
+            "description": "InitX ide extension base dependency.",
+            "license": "",
+            "name": "initx-common",
+            "publisher": "t-codespaces"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-wsAAOSPqlephmbef7a1O0xovaIZ/Uvdimx3j5Kzaoig=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/t-codespaces/initx-common/0.0.1/file/t-codespaces.initx-common-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,

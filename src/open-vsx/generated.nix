@@ -147,10 +147,10 @@
   };
   AvengaGermanyGmbH-couper = {
     pname = "AvengaGermanyGmbH-couper";
-    version = "1.4.1";
+    version = "1.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.1/file/AvengaGermanyGmbH.couper-1.4.1.vsix";
-      sha256 = "sha256-PgK+tCaMnl9q7UoJocBHSpr/XSEdsimFuuABbBhDS7k=";
+      url = "https://open-vsx.org/api/AvengaGermanyGmbH/couper/1.4.2/file/AvengaGermanyGmbH.couper-1.4.2.vsix";
+      sha256 = "sha256-p4k25TcyoMFwrCYcgHDUInNc8e0PCc9HQTCzlG50w+M=";
     };
     license = "MIT";
     name = "couper";
@@ -3411,10 +3411,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.3";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.3/file/TI.devspacesplus-0.0.3.vsix";
-      sha256 = "sha256-zM31KaEktJ6WwvQBvXdB19w1mOWTazQChSy/OU4JFto=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.7/file/TI.devspacesplus-0.0.7.vsix";
+      sha256 = "sha256-P//ZIH7JRUdUcVY2SBjpbgYjdVNSoeU5THiALj6RSYc=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -15927,10 +15927,10 @@
   };
   potigol-potigol-language = {
     pname = "potigol-potigol-language";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/potigol/potigol-language/1.0.0/file/potigol.potigol-language-1.0.0.vsix";
-      sha256 = "sha256-4gB9AssuvpiBDQ8mKxdfNC/sZGjPJ/3b6CnyD0nM/vI=";
+      url = "https://open-vsx.org/api/potigol/potigol-language/1.1.0/file/potigol.potigol-language-1.1.0.vsix";
+      sha256 = "sha256-LmtiRb7HWxZ8kcLq5dBmC42HWBs7KN5ReaNF8b1ob90=";
     };
     license = "MIT";
     name = "potigol-language";
@@ -18947,6 +18947,18 @@
     license = "";
     name = "ide-data-sync";
     description = "sync ide settings and other data to cloud";
+    publisher = "t-codespaces";
+  };
+  t-codespaces-initx-common = {
+    pname = "t-codespaces-initx-common";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/t-codespaces/initx-common/0.0.1/file/t-codespaces.initx-common-0.0.1.vsix";
+      sha256 = "sha256-wsAAOSPqlephmbef7a1O0xovaIZ/Uvdimx3j5Kzaoig=";
+    };
+    license = "";
+    name = "initx-common";
+    description = "InitX ide extension base dependency.";
     publisher = "t-codespaces";
   };
   t-codespaces-install-extensions = {
