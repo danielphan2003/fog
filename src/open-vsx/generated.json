@@ -4515,11 +4515,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hgzml2DQKArfaDOcd9T5ulYU+x2x3GOkjnXXhR/amm8=",
+            "sha256": "sha256-FL1NQd0Tt5OeQv7tcnB8b+XfLuoRJDPZeH1aq/CMh5M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma/3.15.0/file/Prisma.prisma-3.15.0.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma/4.0.0/file/Prisma.prisma-4.0.0.vsix"
         },
-        "version": "3.15.0"
+        "version": "4.0.0"
     },
     "Prisma-prisma-insider": {
         "cargoLocks": null,
@@ -12058,11 +12058,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pBs9VukqCuzzcMcnP2D0eIQtioxYef5dpXYrJrpFU7A=",
+            "sha256": "sha256-x238NRW1KHLFXKPKUZXD8deoKrj+FgmE8gN08g9jeks=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.100.1/file/dendron.dendron-0.100.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.101.0/file/dendron.dendron-0.101.0.vsix"
         },
-        "version": "0.100.1"
+        "version": "0.101.0"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -13008,11 +13008,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xfMZSEJCU/QdIrL9vDfB/u4hRt7EkmSFhpDjdAMh88A=",
+            "sha256": "sha256-7MjWQRkwk++iV4Npe/2O5udAcu+SkuexPrIQiULnNkI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2574453/file/eliostruyf.vscode-front-matter-beta-8.0.2574453.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2576484/file/eliostruyf.vscode-front-matter-beta-8.0.2576484.vsix"
         },
-        "version": "8.0.2574453"
+        "version": "8.0.2576484"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -26118,11 +26118,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-D96ADlqjQMhXLaVLTHmpPrIqgy1FGt0QZTPBo90DF30=",
+            "sha256": "sha256-UdRjk+sAAvfQLzNYkiGNbZLKAX+lnzWDAb4MnLNdGUk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/fabric8-analytics/0.3.5/file/redhat.fabric8-analytics-0.3.5.vsix"
+            "url": "https://open-vsx.org/api/redhat/fabric8-analytics/0.3.6/file/redhat.fabric8-analytics-0.3.6.vsix"
         },
-        "version": "0.3.5"
+        "version": "0.3.6"
     },
     "redhat-java": {
         "cargoLocks": null,

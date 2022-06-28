@@ -2847,10 +2847,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "3.15.0";
+    version = "4.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/3.15.0/file/Prisma.prisma-3.15.0.vsix";
-      sha256 = "sha256-hgzml2DQKArfaDOcd9T5ulYU+x2x3GOkjnXXhR/amm8=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.0.0/file/Prisma.prisma-4.0.0.vsix";
+      sha256 = "sha256-FL1NQd0Tt5OeQv7tcnB8b+XfLuoRJDPZeH1aq/CMh5M=";
     };
     license = "Apache-2.0";
     name = "prisma";
@@ -7611,10 +7611,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.100.1";
+    version = "0.101.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.100.1/file/dendron.dendron-0.100.1.vsix";
-      sha256 = "sha256-pBs9VukqCuzzcMcnP2D0eIQtioxYef5dpXYrJrpFU7A=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.101.0/file/dendron.dendron-0.101.0.vsix";
+      sha256 = "sha256-x238NRW1KHLFXKPKUZXD8deoKrj+FgmE8gN08g9jeks=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -8211,10 +8211,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2574453";
+    version = "8.0.2576484";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2574453/file/eliostruyf.vscode-front-matter-beta-8.0.2574453.vsix";
-      sha256 = "sha256-xfMZSEJCU/QdIrL9vDfB/u4hRt7EkmSFhpDjdAMh88A=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2576484/file/eliostruyf.vscode-front-matter-beta-8.0.2576484.vsix";
+      sha256 = "sha256-7MjWQRkwk++iV4Npe/2O5udAcu+SkuexPrIQiULnNkI=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -16491,10 +16491,10 @@
   };
   redhat-fabric8-analytics = {
     pname = "redhat-fabric8-analytics";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/fabric8-analytics/0.3.5/file/redhat.fabric8-analytics-0.3.5.vsix";
-      sha256 = "sha256-D96ADlqjQMhXLaVLTHmpPrIqgy1FGt0QZTPBo90DF30=";
+      url = "https://open-vsx.org/api/redhat/fabric8-analytics/0.3.6/file/redhat.fabric8-analytics-0.3.6.vsix";
+      sha256 = "sha256-UdRjk+sAAvfQLzNYkiGNbZLKAX+lnzWDAb4MnLNdGUk=";
     };
     license = "Apache-2.0";
     name = "fabric8-analytics";
