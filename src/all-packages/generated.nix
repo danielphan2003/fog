@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "671ff5f4c1530a9ecef755aab1780b4444907af5";
+    version = "747666fa4276b4500f414e62aba9ab04077d040d";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "671ff5f4c1530a9ecef755aab1780b4444907af5";
+      rev = "747666fa4276b4500f414e62aba9ab04077d040d";
       fetchSubmodules = true;
-      sha256 = "sha256-Z0tfKkjuoxE6wu1HXqtfFrvz7B3qkzhihs966G+wP6I=";
+      sha256 = "sha256-Jri3/5E/b4YAxx36MBjXBV2f446kL24luuUm9N4MHJM=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-671ff5f4c1530a9ecef755aab1780b4444907af5/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-747666fa4276b4500f414e62aba9ab04077d040d/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "9f5a553c1b077fbe43dfa403557007d67ff1f211";
+    version = "efa99be3b20ecce19ffe3815cf2b6536cda40e8c";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "9f5a553c1b077fbe43dfa403557007d67ff1f211";
+      rev = "efa99be3b20ecce19ffe3815cf2b6536cda40e8c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-A86JA4hC6Hvbr+u5YQ6Z6dXpTFVYqHAXpx6+FPv9CRA=";
+      sha256 = "sha256-rg146seqLVCI8qZZh+ZKMr5gwl1mvyVU8RTyK7HGdoo=";
     };
   };
   flyingfox = {

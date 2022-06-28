@@ -399,7 +399,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-671ff5f4c1530a9ecef755aab1780b4444907af5/src-tauri/Cargo.lock",
+                "./cinny-desktop-747666fa4276b4500f414e62aba9ab04077d040d/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -414,11 +414,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "671ff5f4c1530a9ecef755aab1780b4444907af5",
-            "sha256": "sha256-Z0tfKkjuoxE6wu1HXqtfFrvz7B3qkzhihs966G+wP6I=",
+            "rev": "747666fa4276b4500f414e62aba9ab04077d040d",
+            "sha256": "sha256-Jri3/5E/b4YAxx36MBjXBV2f446kL24luuUm9N4MHJM=",
             "type": "github"
         },
-        "version": "671ff5f4c1530a9ecef755aab1780b4444907af5"
+        "version": "747666fa4276b4500f414e62aba9ab04077d040d"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -683,12 +683,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9f5a553c1b077fbe43dfa403557007d67ff1f211",
-            "sha256": "sha256-A86JA4hC6Hvbr+u5YQ6Z6dXpTFVYqHAXpx6+FPv9CRA=",
+            "rev": "efa99be3b20ecce19ffe3815cf2b6536cda40e8c",
+            "sha256": "sha256-rg146seqLVCI8qZZh+ZKMr5gwl1mvyVU8RTyK7HGdoo=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "9f5a553c1b077fbe43dfa403557007d67ff1f211"
+        "version": "efa99be3b20ecce19ffe3815cf2b6536cda40e8c"
     },
     "flyingfox": {
         "cargoLocks": null,
