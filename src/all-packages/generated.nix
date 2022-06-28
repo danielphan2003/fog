@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "441735c260253e4bb67f5baebb599aa6de3bc8fb";
+    version = "13c034c1e485769d743e791bd9ed68486d43f147";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "441735c260253e4bb67f5baebb599aa6de3bc8fb";
+      rev = "13c034c1e485769d743e791bd9ed68486d43f147";
       fetchSubmodules = false;
-      sha256 = "sha256-MpuiyqHpC2Q2uxcDQwRx+CrUqCFHrkVaPFMigb0k8sg=";
+      sha256 = "sha256-RJosFD1aVg7aN4NdPVPzIB6JDq9gwevQW5kJPpEwiEk=";
     });
   };
   fluffychat = {
@@ -539,10 +539,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-9-g8cded16e";
+    version = "2.2-11-g20f6f30d";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-9-g8cded16e-1_all.deb";
-      sha256 = "sha256-L9h+qYV/W2wPzycfDGC4AXpTl7wlulyt2KryA+Tb/YU=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-11-g20f6f30d-1_all.deb";
+      sha256 = "sha256-xAC7H5SceNEYS6F8H+A02qyXIv6zz7EFRhpk3IsaeTo=";
     };
   };
   layout-machi = {
@@ -1001,14 +1001,14 @@
   };
   snui = {
     pname = "snui";
-    version = "6797a1f1ccf2ae7ace8afef3dc589ea9a85b06d6";
+    version = "0a01a19df3aac2474fe8e231b3e3206b990a3ff4";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "6797a1f1ccf2ae7ace8afef3dc589ea9a85b06d6";
+      rev = "0a01a19df3aac2474fe8e231b3e3206b990a3ff4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Q7Amx5nQEmEiuINwfFbV1rsKrLJeRtDe4LNJxu5OPV4=";
+      sha256 = "sha256-bmjdgCgIPaouEywrN5LyyT4TXTFhZSHJwjfOyZ5R4L8=";
     };
   };
   spicetify-cli = {
@@ -1111,13 +1111,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d7f452c0a1fc1b131254f72ee3c803e88a49b00f";
+    version = "3b1f99ded1d1162b07122ba3ae04201f0493cfe8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d7f452c0a1fc1b131254f72ee3c803e88a49b00f";
+      rev = "3b1f99ded1d1162b07122ba3ae04201f0493cfe8";
       fetchSubmodules = false;
-      sha256 = "sha256-UcSgUx7plB5Zv3UCb219anTFIFuvleGNJ+QmMFgvyxw=";
+      sha256 = "sha256-DJzXDLUFnDkrMMcMHVqmyCDSxhnfqAUa69OCuQBUKmY=";
     });
   };
   tailscale-systray = {
