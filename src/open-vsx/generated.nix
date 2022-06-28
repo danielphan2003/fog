@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1115";
+    version = "31.0.1116";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1115/file/Prisma.prisma-insider-31.0.1115.vsix";
-      sha256 = "sha256-vwGvchy8NOE1nJWP/fo/SB5x4ZcVXOY6GPr7yZfB1qA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1116/file/Prisma.prisma-insider-31.0.1116.vsix";
+      sha256 = "sha256-TeqqoNJJ9NzRbBTS54opL5p3sPUg9ELMU2wxPpBDO9c=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3459,10 +3459,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.58";
+    version = "3.5.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.58/file/TabNine.tabnine-vscode-3.5.58.vsix";
-      sha256 = "sha256-jbzlNeAMzYRj20EltX9Cd7TEFdYi/x8vPFCaT5NRpLQ=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.59/file/TabNine.tabnine-vscode-3.5.59.vsix";
+      sha256 = "sha256-6aaJEp4Dfz9TKZRljIN8gXdv3rjv4IZLuwyNG1McjA4=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -7695,10 +7695,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.100.5";
+    version = "0.100.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.100.5/file/dendron.nightly-0.100.5.vsix";
-      sha256 = "sha256-37WqsN1z8c0EeYygwNKciYRTnwDLbJJuExF/xIRCbSo=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.100.6/file/dendron.nightly-0.100.6.vsix";
+      sha256 = "sha256-CvXEq9gI/L5K9PB4ucrqbg1F+nLuXBlPy1Zn3FyU68Y=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8211,10 +8211,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2508196";
+    version = "8.0.2574453";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2508196/file/eliostruyf.vscode-front-matter-beta-8.0.2508196.vsix";
-      sha256 = "sha256-RCrJby4u3KTgFYrY3FuWljGIuqgLCgoOw07gILOdSU0=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2574453/file/eliostruyf.vscode-front-matter-beta-8.0.2574453.vsix";
+      sha256 = "sha256-xfMZSEJCU/QdIrL9vDfB/u4hRt7EkmSFhpDjdAMh88A=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -19971,10 +19971,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.13.0";
+    version = "2.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.13.0/file/usernamehw.todo-md-2.13.0.vsix";
-      sha256 = "sha256-gnt85tmo1C2YfrtDPijYl0pWOxfuRBCChFX6pXY3Ygg=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.14.0/file/usernamehw.todo-md-2.14.0.vsix";
+      sha256 = "sha256-b2I7JXbOu/OtmzjINSdhFavryCtWeFgeVyVBQsHVkX4=";
     };
     license = "MIT";
     name = "todo-md";

@@ -4534,11 +4534,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vwGvchy8NOE1nJWP/fo/SB5x4ZcVXOY6GPr7yZfB1qA=",
+            "sha256": "sha256-TeqqoNJJ9NzRbBTS54opL5p3sPUg9ELMU2wxPpBDO9c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1115/file/Prisma.prisma-insider-31.0.1115.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1116/file/Prisma.prisma-insider-31.0.1116.vsix"
         },
-        "version": "31.0.1115"
+        "version": "31.0.1116"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5484,11 +5484,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jbzlNeAMzYRj20EltX9Cd7TEFdYi/x8vPFCaT5NRpLQ=",
+            "sha256": "sha256-6aaJEp4Dfz9TKZRljIN8gXdv3rjv4IZLuwyNG1McjA4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.58/file/TabNine.tabnine-vscode-3.5.58.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.59/file/TabNine.tabnine-vscode-3.5.59.vsix"
         },
-        "version": "3.5.58"
+        "version": "3.5.59"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -12191,11 +12191,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-37WqsN1z8c0EeYygwNKciYRTnwDLbJJuExF/xIRCbSo=",
+            "sha256": "sha256-CvXEq9gI/L5K9PB4ucrqbg1F+nLuXBlPy1Zn3FyU68Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.100.5/file/dendron.nightly-0.100.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.100.6/file/dendron.nightly-0.100.6.vsix"
         },
-        "version": "0.100.5"
+        "version": "0.100.6"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -13008,11 +13008,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RCrJby4u3KTgFYrY3FuWljGIuqgLCgoOw07gILOdSU0=",
+            "sha256": "sha256-xfMZSEJCU/QdIrL9vDfB/u4hRt7EkmSFhpDjdAMh88A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2508196/file/eliostruyf.vscode-front-matter-beta-8.0.2508196.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2574453/file/eliostruyf.vscode-front-matter-beta-8.0.2574453.vsix"
         },
-        "version": "8.0.2508196"
+        "version": "8.0.2574453"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -31628,11 +31628,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gnt85tmo1C2YfrtDPijYl0pWOxfuRBCChFX6pXY3Ygg=",
+            "sha256": "sha256-b2I7JXbOu/OtmzjINSdhFavryCtWeFgeVyVBQsHVkX4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.13.0/file/usernamehw.todo-md-2.13.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.14.0/file/usernamehw.todo-md-2.14.0.vsix"
         },
-        "version": "2.13.0"
+        "version": "2.14.0"
     },
     "usernamehw-url-title": {
         "cargoLocks": null,
