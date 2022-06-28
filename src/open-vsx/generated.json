@@ -5408,11 +5408,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UuvJPaEQ7Fitd83BCKWzZdZ9/ITl07/Ar3Fvggyay6U=",
+            "sha256": "sha256-zM31KaEktJ6WwvQBvXdB19w1mOWTazQChSy/OU4JFto=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.2/file/TI.devspacesplus-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.3/file/TI.devspacesplus-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -25192,6 +25192,25 @@
             "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.1.0/file/pomdtr.excalidraw-editor-3.1.0.vsix"
         },
         "version": "3.1.0"
+    },
+    "potigol-potigol-language": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "potigol-potigol-language",
+        "passthru": {
+            "description": "Syntax highlighting for Potigol language",
+            "license": "MIT",
+            "name": "potigol-language",
+            "publisher": "potigol"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-4gB9AssuvpiBDQ8mKxdfNC/sZGjPJ/3b6CnyD0nM/vI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/potigol/potigol-language/1.0.0/file/potigol.potigol-language-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "pouya-comment": {
         "cargoLocks": null,

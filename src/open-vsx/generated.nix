@@ -3411,10 +3411,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.2/file/TI.devspacesplus-0.0.2.vsix";
-      sha256 = "sha256-UuvJPaEQ7Fitd83BCKWzZdZ9/ITl07/Ar3Fvggyay6U=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.3/file/TI.devspacesplus-0.0.3.vsix";
+      sha256 = "sha256-zM31KaEktJ6WwvQBvXdB19w1mOWTazQChSy/OU4JFto=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -15912,6 +15912,18 @@
     name = "excalidraw-editor";
     description = "Draw schemas in VS Code using Excalidraw";
     publisher = "pomdtr";
+  };
+  potigol-potigol-language = {
+    pname = "potigol-potigol-language";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/potigol/potigol-language/1.0.0/file/potigol.potigol-language-1.0.0.vsix";
+      sha256 = "sha256-4gB9AssuvpiBDQ8mKxdfNC/sZGjPJ/3b6CnyD0nM/vI=";
+    };
+    license = "MIT";
+    name = "potigol-language";
+    description = "Syntax highlighting for Potigol language";
+    publisher = "potigol";
   };
   pouya-comment = {
     pname = "pouya-comment";
