@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1117";
+    version = "31.0.1118";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1117/file/Prisma.prisma-insider-31.0.1117.vsix";
-      sha256 = "sha256-Td7awWC1Z+t/vn+VZ/Cu1EplAT72VWkFLFj+lKDSKe0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1118/file/Prisma.prisma-insider-31.0.1118.vsix";
+      sha256 = "sha256-xT9IayD7Tey/ONkPi/fwUHBxnH1ewg9fdDsRz3zm0jE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3411,10 +3411,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.7";
+    version = "0.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.7/file/TI.devspacesplus-0.0.7.vsix";
-      sha256 = "sha256-P//ZIH7JRUdUcVY2SBjpbgYjdVNSoeU5THiALj6RSYc=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.9/file/TI.devspacesplus-0.0.9.vsix";
+      sha256 = "sha256-oW5d1rd6Kh8L6tYMYQAI7EooQ6wyvbEQ9SdV0CANfp4=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5967,10 +5967,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.8";
+    version = "0.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.8/file/bmcsoftware.jobs-as-code-0.2.8.vsix";
-      sha256 = "sha256-/ZovLxQfvMmGvj95uxMjA/alQUbZpEc93ABUFZPbX6M=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.9/file/bmcsoftware.jobs-as-code-0.2.9.vsix";
+      sha256 = "sha256-In0Qzdp53NoQUXimfXVnTSFx8ghCZij11BEuHcn4gmg=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
@@ -8211,10 +8211,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2576484";
+    version = "8.0.2577249";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2576484/file/eliostruyf.vscode-front-matter-beta-8.0.2576484.vsix";
-      sha256 = "sha256-7MjWQRkwk++iV4Npe/2O5udAcu+SkuexPrIQiULnNkI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2577249/file/eliostruyf.vscode-front-matter-beta-8.0.2577249.vsix";
+      sha256 = "sha256-W9+oXx9zwLKQJLMNzx0cF9liXniAQHEDePbNJ9KZCSI=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -8847,10 +8847,10 @@
   };
   filtered-vscode-filtered-interview-tool = {
     pname = "filtered-vscode-filtered-interview-tool";
-    version = "0.1.1";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.1.1/file/filtered-vscode.filtered-interview-tool-0.1.1.vsix";
-      sha256 = "sha256-IJ6ayR+H+sNuhYI9EpSE0fEQKGf3gBC5Bx6vYvCIsa0=";
+      url = "https://open-vsx.org/api/filtered-vscode/filtered-interview-tool/0.1.3/file/filtered-vscode.filtered-interview-tool-0.1.3.vsix";
+      sha256 = "sha256-55mHo1hL1nrKnjzQAx2uxzIIS6qwIbqZuOO8ZhD63Lc=";
     };
     license = "UNLICENSED";
     name = "filtered-interview-tool";
@@ -14919,10 +14919,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.18.5";
+    version = "17.18.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.5/file/nrwl.angular-console-17.18.5.vsix";
-      sha256 = "sha256-Ro/Cgcg8lvPER9F0n2BxrY96k+i9eQjKYSb+NsygQiw=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.6/file/nrwl.angular-console-17.18.6.vsix";
+      sha256 = "sha256-7I+FweYKEbZqKhR6e+XpPiaVBN1NTSuT5lm4PA5fb0o=";
     };
     license = "MIT";
     name = "angular-console";
