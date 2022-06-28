@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1119";
+    version = "31.0.1120";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1119/file/Prisma.prisma-insider-31.0.1119.vsix";
-      sha256 = "sha256-d7+jzVnfwPAVr3LIDXU05DcSZuoCvrQXrW6+dDJ2ri0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1120/file/Prisma.prisma-insider-31.0.1120.vsix";
+      sha256 = "sha256-poVnr91Ux8m1+jIt9DKsp6LP7vJzG9mFHk5IMshemUA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10683,10 +10683,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.0/file/innoverio.vscode-dbt-power-user-0.6.0.vsix";
-      sha256 = "sha256-PuZH9ITbp70Yvj0vCtVur3Kpg/U1akDB+4JGx2sjUC0=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.1/file/innoverio.vscode-dbt-power-user-0.6.1.vsix";
+      sha256 = "sha256-qMzjSUb85bOr1cTKK8mDziCjET/1v4mynBwub8aEmHg=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
@@ -15915,10 +15915,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "3.1.0";
+    version = "3.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.1.0/file/pomdtr.excalidraw-editor-3.1.0.vsix";
-      sha256 = "sha256-umAp+nDhib/L2Va6aSSum4RUcagOtSRWA9iSbVkVR28=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.1.2/file/pomdtr.excalidraw-editor-3.1.2.vsix";
+      sha256 = "sha256-vSycw3u1VxGPNlz/mxnmRpmFDidpfRWr9owt2i/hr98=";
     };
     license = "MIT";
     name = "excalidraw-editor";
