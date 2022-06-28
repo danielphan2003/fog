@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1116";
+    version = "31.0.1117";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1116/file/Prisma.prisma-insider-31.0.1116.vsix";
-      sha256 = "sha256-TeqqoNJJ9NzRbBTS54opL5p3sPUg9ELMU2wxPpBDO9c=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1117/file/Prisma.prisma-insider-31.0.1117.vsix";
+      sha256 = "sha256-Td7awWC1Z+t/vn+VZ/Cu1EplAT72VWkFLFj+lKDSKe0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -6735,10 +6735,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.1/file/cloudstudio.metawork-0.0.1.vsix";
-      sha256 = "sha256-9VKvb4BS6zNnYBym0mZ+k0rGJ3Y4Oh8tbnhbQmdD+uk=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.2/file/cloudstudio.metawork-0.0.2.vsix";
+      sha256 = "sha256-CqE8x/hZUFy61bCIv7QGiAc8XKtUCJa/uvBA/yCzGh0=";
     };
     license = "MIT";
     name = "metawork";
