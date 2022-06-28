@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1118";
+    version = "31.0.1119";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1118/file/Prisma.prisma-insider-31.0.1118.vsix";
-      sha256 = "sha256-xT9IayD7Tey/ONkPi/fwUHBxnH1ewg9fdDsRz3zm0jE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1119/file/Prisma.prisma-insider-31.0.1119.vsix";
+      sha256 = "sha256-d7+jzVnfwPAVr3LIDXU05DcSZuoCvrQXrW6+dDJ2ri0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3411,10 +3411,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.9/file/TI.devspacesplus-0.0.9.vsix";
-      sha256 = "sha256-oW5d1rd6Kh8L6tYMYQAI7EooQ6wyvbEQ9SdV0CANfp4=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.10/file/TI.devspacesplus-0.0.10.vsix";
+      sha256 = "sha256-kAgDhqeL6PMfpx/qerK+I566iiGTqz4smaLgGsXTKJA=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -3771,10 +3771,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.3.6";
+    version = "1.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.3.6/file/WatermelonTools.watermelon-tools-1.3.6.vsix";
-      sha256 = "sha256-BGN5A5T0qrGBOjLd4FWoig/MFwS3STkFSNENIifKACg=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.3.7/file/WatermelonTools.watermelon-tools-1.3.7.vsix";
+      sha256 = "sha256-uxzwscStn2GWBkf/iG9oUH01esPJtpyW+ga5bNfBEK0=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -8151,10 +8151,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.57.0";
+    version = "0.58.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.57.0/file/edukera.archetype-0.57.0.vsix";
-      sha256 = "sha256-/vWJud3TI7pZWGW5FlEROKRy6753WPVUqyFwSnm7Isw=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.58.0/file/edukera.archetype-0.58.0.vsix";
+      sha256 = "sha256-qxn0aRsc8Y4y54RfDl74i3MFXxmr9DXRrGlS6FEjrXg=";
     };
     license = "MIT";
     name = "archetype";
