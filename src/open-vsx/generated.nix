@@ -3459,10 +3459,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.59";
+    version = "3.5.60";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.59/file/TabNine.tabnine-vscode-3.5.59.vsix";
-      sha256 = "sha256-6aaJEp4Dfz9TKZRljIN8gXdv3rjv4IZLuwyNG1McjA4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.60/file/TabNine.tabnine-vscode-3.5.60.vsix";
+      sha256 = "sha256-5lyHS8IH9KyBu/mzTAfZcboKvcaUX6f8OwzJY6SjPC8=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -9639,10 +9639,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.16.1";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.16.1/file/grain-lang.vscode-grain-0.16.1.vsix";
-      sha256 = "sha256-nxobYXy6wvNTyOGYNaaGRkrLLk3jV605W/38OaIRQPc=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.0/file/grain-lang.vscode-grain-0.17.0.vsix";
+      sha256 = "sha256-FmD3xQZzsC/E6y/JnQ8zYKwzWIhVzgegsl75udB9t5Q=";
     };
     license = "MIT";
     name = "vscode-grain";
@@ -15867,10 +15867,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.367";
+    version = "0.26.369";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.367/file/pokey.cursorless-0.26.367.vsix";
-      sha256 = "sha256-93KKSQgimt4LyLI1KdxGo4r7m4rXWYOMQ0wJnoGmNpc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.369/file/pokey.cursorless-0.26.369.vsix";
+      sha256 = "sha256-BDPiC/xxhA3HM9MVTqSPynJ8luzJmrVVatb4otCTuCQ=";
     };
     license = "MIT";
     name = "cursorless";
@@ -21591,10 +21591,10 @@
   };
   vscodevim-vim = {
     pname = "vscodevim-vim";
-    version = "1.23.0";
+    version = "1.23.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscodevim/vim/1.23.0/file/vscodevim.vim-1.23.0.vsix";
-      sha256 = "sha256-qqxH/euZX4J0PCrgoKKYHcFmVcEVUVFcJT3NyyjCMGU=";
+      url = "https://open-vsx.org/api/vscodevim/vim/1.23.1/file/vscodevim.vim-1.23.1.vsix";
+      sha256 = "sha256-MbLotaMisBMdDqnhQ1QhTrgzoczVZtwIcX5YLhwYUFg=";
     };
     license = "MIT";
     name = "vim";

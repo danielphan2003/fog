@@ -5484,11 +5484,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6aaJEp4Dfz9TKZRljIN8gXdv3rjv4IZLuwyNG1McjA4=",
+            "sha256": "sha256-5lyHS8IH9KyBu/mzTAfZcboKvcaUX6f8OwzJY6SjPC8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.59/file/TabNine.tabnine-vscode-3.5.59.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.60/file/TabNine.tabnine-vscode-3.5.60.vsix"
         },
-        "version": "3.5.59"
+        "version": "3.5.60"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -15269,11 +15269,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nxobYXy6wvNTyOGYNaaGRkrLLk3jV605W/38OaIRQPc=",
+            "sha256": "sha256-FmD3xQZzsC/E6y/JnQ8zYKwzWIhVzgegsl75udB9t5Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.16.1/file/grain-lang.vscode-grain-0.16.1.vsix"
+            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.0/file/grain-lang.vscode-grain-0.17.0.vsix"
         },
-        "version": "0.16.1"
+        "version": "0.17.0"
     },
     "grammarcraft-epsilon-eag": {
         "cargoLocks": null,
@@ -25130,11 +25130,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-93KKSQgimt4LyLI1KdxGo4r7m4rXWYOMQ0wJnoGmNpc=",
+            "sha256": "sha256-BDPiC/xxhA3HM9MVTqSPynJ8luzJmrVVatb4otCTuCQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.367/file/pokey.cursorless-0.26.367.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.369/file/pokey.cursorless-0.26.369.vsix"
         },
-        "version": "0.26.367"
+        "version": "0.26.369"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -34193,11 +34193,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qqxH/euZX4J0PCrgoKKYHcFmVcEVUVFcJT3NyyjCMGU=",
+            "sha256": "sha256-MbLotaMisBMdDqnhQ1QhTrgzoczVZtwIcX5YLhwYUFg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscodevim/vim/1.23.0/file/vscodevim.vim-1.23.0.vsix"
+            "url": "https://open-vsx.org/api/vscodevim/vim/1.23.1/file/vscodevim.vim-1.23.1.vsix"
         },
-        "version": "1.23.0"
+        "version": "1.23.1"
     },
     "vshaxe-haxe-checkstyle": {
         "cargoLocks": null,
