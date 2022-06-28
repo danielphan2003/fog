@@ -10525,6 +10525,25 @@
         },
         "version": "0.0.6"
     },
+    "cloudstudio-coding-authentication": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cloudstudio-coding-authentication",
+        "passthru": {
+            "description": "CODING èº«ä»½éªè¯æä¾ç¨åº",
+            "license": "",
+            "name": "coding-authentication",
+            "publisher": "cloudstudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-9L8UyEjpY4SFNBha+IjZ3dcbSCcfrQHRRcJmq89PRSw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.1/file/cloudstudio.coding-authentication-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "cloudstudio-coding-repositories": {
         "cargoLocks": null,
         "extract": null,

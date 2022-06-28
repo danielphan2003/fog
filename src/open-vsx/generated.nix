@@ -6649,6 +6649,18 @@
     description = "Remotely browse and edit any CODING repository";
     publisher = "cloudstudio";
   };
+  cloudstudio-coding-authentication = {
+    pname = "cloudstudio-coding-authentication";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.1/file/cloudstudio.coding-authentication-0.0.1.vsix";
+      sha256 = "sha256-9L8UyEjpY4SFNBha+IjZ3dcbSCcfrQHRRcJmq89PRSw=";
+    };
+    license = "";
+    name = "coding-authentication";
+    description = "CODING \36523\20221\39564\35777\25552\20379\31243\24207";
+    publisher = "cloudstudio";
+  };
   cloudstudio-coding-repositories = {
     pname = "cloudstudio-coding-repositories";
     version = "0.0.10";
