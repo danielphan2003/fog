@@ -5180,11 +5180,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Sw2zlKpxRbUg9nlLu571LoYUHmY4I7ZIF2zumTi/RA4=",
+            "sha256": "sha256-hWsWet/BS48bgDEwx12vF1reZ4l5y524ItiU4Cy2+YM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2611/file/Slint.slint-nightly-2022.6.2611.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2719/file/Slint.slint-nightly-2022.6.2719.vsix"
         },
-        "version": "2022.6.2611"
+        "version": "2022.6.2719"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -11944,11 +11944,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZIv3fhJPi2yM00alS9TdevzZT2tBJfV4adGGptOioCU=",
+            "sha256": "sha256-pbTxPW6XFoqzBSakZbElNWs3MWCvO3ZU5tQ15SdjHL4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/1.10.0/file/dcasella.monokai-plusplus-1.10.0.vsix"
+            "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.0/file/dcasella.monokai-plusplus-2.0.0.vsix"
         },
-        "version": "1.10.0"
+        "version": "2.0.0"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -12191,11 +12191,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0EEH5bQ0tg40A84ndcXEcz57S3GAl0BiUeYaRwmqhhQ=",
+            "sha256": "sha256-3ZT2TDMA5pe6afrfU1zpiUtebcRjW5bUXbUxvFgQpR4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/denoland/vscode-deno/3.12.0/file/denoland.vscode-deno-3.12.0.vsix"
+            "url": "https://open-vsx.org/api/denoland/vscode-deno/3.13.0/file/denoland.vscode-deno-3.13.0.vsix"
         },
-        "version": "3.12.0"
+        "version": "3.13.0"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -32388,11 +32388,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=",
+            "sha256": "sha256-NaAUC7xnAWIMbpj3JR81qvvCw0pCU5bZgf+WffDumDw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix"
         },
-        "version": "0.35.0"
+        "version": "0.35.1"
     },
     "vscjava-vscode-maven": {
         "cargoLocks": null,
@@ -34155,11 +34155,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wl3vc5FK2vSQ7hmXgEo9qiclu5FiaySCNGB0z7OWlYY=",
+            "sha256": "sha256-qqxH/euZX4J0PCrgoKKYHcFmVcEVUVFcJT3NyyjCMGU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscodevim/vim/1.22.2/file/vscodevim.vim-1.22.2.vsix"
+            "url": "https://open-vsx.org/api/vscodevim/vim/1.23.0/file/vscodevim.vim-1.23.0.vsix"
         },
-        "version": "1.22.2"
+        "version": "1.23.0"
     },
     "vshaxe-haxe-checkstyle": {
         "cargoLocks": null,

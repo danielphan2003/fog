@@ -3267,10 +3267,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.2611";
+    version = "2022.6.2719";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2611/file/Slint.slint-nightly-2022.6.2611.vsix";
-      sha256 = "sha256-Sw2zlKpxRbUg9nlLu571LoYUHmY4I7ZIF2zumTi/RA4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2719/file/Slint.slint-nightly-2022.6.2719.vsix";
+      sha256 = "sha256-hWsWet/BS48bgDEwx12vF1reZ4l5y524ItiU4Cy2+YM=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -7539,10 +7539,10 @@
   };
   dcasella-monokai-plusplus = {
     pname = "dcasella-monokai-plusplus";
-    version = "1.10.0";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/1.10.0/file/dcasella.monokai-plusplus-1.10.0.vsix";
-      sha256 = "sha256-ZIv3fhJPi2yM00alS9TdevzZT2tBJfV4adGGptOioCU=";
+      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.0/file/dcasella.monokai-plusplus-2.0.0.vsix";
+      sha256 = "sha256-pbTxPW6XFoqzBSakZbElNWs3MWCvO3ZU5tQ15SdjHL4=";
     };
     license = "MIT";
     name = "monokai-plusplus";
@@ -7695,10 +7695,10 @@
   };
   denoland-vscode-deno = {
     pname = "denoland-vscode-deno";
-    version = "3.12.0";
+    version = "3.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/denoland/vscode-deno/3.12.0/file/denoland.vscode-deno-3.12.0.vsix";
-      sha256 = "sha256-0EEH5bQ0tg40A84ndcXEcz57S3GAl0BiUeYaRwmqhhQ=";
+      url = "https://open-vsx.org/api/denoland/vscode-deno/3.13.0/file/denoland.vscode-deno-3.13.0.vsix";
+      sha256 = "sha256-3ZT2TDMA5pe6afrfU1zpiUtebcRjW5bUXbUxvFgQpR4=";
     };
     license = "MIT";
     name = "vscode-deno";
@@ -20451,10 +20451,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.35.0";
+    version = "0.35.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix";
-      sha256 = "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix";
+      sha256 = "sha256-NaAUC7xnAWIMbpj3JR81qvvCw0pCU5bZgf+WffDumDw=";
     };
     license = "";
     name = "vscode-java-test";
@@ -21567,10 +21567,10 @@
   };
   vscodevim-vim = {
     pname = "vscodevim-vim";
-    version = "1.22.2";
+    version = "1.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscodevim/vim/1.22.2/file/vscodevim.vim-1.22.2.vsix";
-      sha256 = "sha256-wl3vc5FK2vSQ7hmXgEo9qiclu5FiaySCNGB0z7OWlYY=";
+      url = "https://open-vsx.org/api/vscodevim/vim/1.23.0/file/vscodevim.vim-1.23.0.vsix";
+      sha256 = "sha256-qqxH/euZX4J0PCrgoKKYHcFmVcEVUVFcJT3NyyjCMGU=";
     };
     license = "MIT";
     name = "vim";
