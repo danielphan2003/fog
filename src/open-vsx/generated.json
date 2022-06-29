@@ -4534,11 +4534,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-poVnr91Ux8m1+jIt9DKsp6LP7vJzG9mFHk5IMshemUA=",
+            "sha256": "sha256-tANxCVBb0/JNrY8KWtqAfSIbN2M8PPtccchLcJhX+cQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1120/file/Prisma.prisma-insider-31.0.1120.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1121/file/Prisma.prisma-insider-31.0.1121.vsix"
         },
-        "version": "31.0.1120"
+        "version": "31.0.1121"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
