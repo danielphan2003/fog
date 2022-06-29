@@ -279,10 +279,10 @@
   };
   BroadcomMFD-cobol-language-support = {
     pname = "BroadcomMFD-cobol-language-support";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.1/file/BroadcomMFD.cobol-language-support-1.0.1.vsix";
-      sha256 = "sha256-3rTveRVkUXbntL2xzICsgnkHT1PYFXd6LnQy58fnRuc=";
+      url = "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.2/file/BroadcomMFD.cobol-language-support-1.0.2.vsix";
+      sha256 = "sha256-Bp/iPmaRUBl1b9qGn+cLkVvnOdguekcMUK4uKyo79nM=";
     };
     license = "EPL-2.0";
     name = "cobol-language-support";
@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1122";
+    version = "31.0.1123";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1122/file/Prisma.prisma-insider-31.0.1122.vsix";
-      sha256 = "sha256-hjPsQFXWxVZlbfi+z8wnsB5/nfv3peNMjdkhnf0Zc20=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1123/file/Prisma.prisma-insider-31.0.1123.vsix";
+      sha256 = "sha256-3/p7qy1hAd+ko1GAhzBOBmhmJr7YjeAHL+86HIxDXoU=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -17007,10 +17007,10 @@
   };
   robole-file-bunny = {
     pname = "robole-file-bunny";
-    version = "1.1.2";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/file-bunny/1.1.2/file/robole.file-bunny-1.1.2.vsix";
-      sha256 = "sha256-sPiQ1v1QHJYIpPwDV8HYk/4ql31KbHZoamTgtFL+hBk=";
+      url = "https://open-vsx.org/api/robole/file-bunny/1.2.0/file/robole.file-bunny-1.2.0.vsix";
+      sha256 = "sha256-aqd51ih5IUWE4mskJyTzPn7K9gE5ZLzZUBMdmdWpTO4=";
     };
     license = "";
     name = "file-bunny";

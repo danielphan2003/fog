@@ -449,11 +449,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3rTveRVkUXbntL2xzICsgnkHT1PYFXd6LnQy58fnRuc=",
+            "sha256": "sha256-Bp/iPmaRUBl1b9qGn+cLkVvnOdguekcMUK4uKyo79nM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.1/file/BroadcomMFD.cobol-language-support-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/BroadcomMFD/cobol-language-support/1.0.2/file/BroadcomMFD.cobol-language-support-1.0.2.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "BroadcomMFD-code4z-extension-pack": {
         "cargoLocks": null,
@@ -4534,11 +4534,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hjPsQFXWxVZlbfi+z8wnsB5/nfv3peNMjdkhnf0Zc20=",
+            "sha256": "sha256-3/p7qy1hAd+ko1GAhzBOBmhmJr7YjeAHL+86HIxDXoU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1122/file/Prisma.prisma-insider-31.0.1122.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1123/file/Prisma.prisma-insider-31.0.1123.vsix"
         },
-        "version": "31.0.1122"
+        "version": "31.0.1123"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -26935,11 +26935,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sPiQ1v1QHJYIpPwDV8HYk/4ql31KbHZoamTgtFL+hBk=",
+            "sha256": "sha256-aqd51ih5IUWE4mskJyTzPn7K9gE5ZLzZUBMdmdWpTO4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/file-bunny/1.1.2/file/robole.file-bunny-1.1.2.vsix"
+            "url": "https://open-vsx.org/api/robole/file-bunny/1.2.0/file/robole.file-bunny-1.2.0.vsix"
         },
-        "version": "1.1.2"
+        "version": "1.2.0"
     },
     "robole-javascript-snippets": {
         "cargoLocks": null,
