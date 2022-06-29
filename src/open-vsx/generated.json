@@ -1874,11 +1874,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aO7hKsvJHV/oClSz1NSskNde1jGZgpNrvlpiAP/QKWU=",
+            "sha256": "sha256-KVCpUFdBpOCPjpwNtz9yLvCvco6+7AxZpcsas/KENqA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.7/file/GitHub.vscode-codeql-1.6.7.vsix"
+            "url": "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.8/file/GitHub.vscode-codeql-1.6.8.vsix"
         },
-        "version": "1.6.7"
+        "version": "1.6.8"
     },
     "GitHub-vscode-pull-request-github": {
         "cargoLocks": null,
@@ -5408,11 +5408,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kAgDhqeL6PMfpx/qerK+I566iiGTqz4smaLgGsXTKJA=",
+            "sha256": "sha256-xpaybRuEaRlRgsc+a80ilwzZEujgpgzFihQ7PkenUpY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.10/file/TI.devspacesplus-0.0.10.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.12/file/TI.devspacesplus-0.0.12.vsix"
         },
-        "version": "0.0.10"
+        "version": "0.0.12"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -26935,11 +26935,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eBMmzAavvXXckuLOfrjnb5OxjO6jH3xw5rcFHD23hi0=",
+            "sha256": "sha256-sPiQ1v1QHJYIpPwDV8HYk/4ql31KbHZoamTgtFL+hBk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/file-bunny/1.0.0/file/robole.file-bunny-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/robole/file-bunny/1.1.2/file/robole.file-bunny-1.1.2.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.1.2"
     },
     "robole-javascript-snippets": {
         "cargoLocks": null,
@@ -35884,11 +35884,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b0MLQd/ActaJQZl0MUnqaOHx4+1oCMARB4egOSPX+00=",
+            "sha256": "sha256-EWI8vOU3nnfT9zZxqJCz29jTXiqFI85T8aUrRUdn6oA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.63/file/zardoy.zardoy-experiments-0.0.63.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.64/file/zardoy.zardoy-experiments-0.0.64.vsix"
         },
-        "version": "0.0.63"
+        "version": "0.0.64"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
