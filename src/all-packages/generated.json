@@ -376,11 +376,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "10f85558ead15e119f8e9abd81c8ad55eb865f8b",
-            "sha256": "sha256-kWmvhTDcVVORCvZO/5oY260Bix8sZIy+BY7mHW9uBGk=",
+            "rev": "58e05cab155643c6543892855f373ea8755eb094",
+            "sha256": "sha256-LrMTiBv6FHMbu0bvxOYEwhxB+vHa4Jc4QqIIuMqOna0=",
             "type": "github"
         },
-        "version": "10f85558ead15e119f8e9abd81c8ad55eb865f8b"
+        "version": "58e05cab155643c6543892855f373ea8755eb094"
     },
     "cinny": {
         "cargoLocks": null,
@@ -666,11 +666,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "13c034c1e485769d743e791bd9ed68486d43f147",
-            "sha256": "sha256-RJosFD1aVg7aN4NdPVPzIB6JDq9gwevQW5kJPpEwiEk=",
+            "rev": "1f3ca56b977832cbf403a336c51d56a3da55cd8c",
+            "sha256": "sha256-VMz4n9t2/ruIf3pPNfZbLOO7bmgZoyu8nzOoj2EpOnc=",
             "type": "github"
         },
-        "version": "13c034c1e485769d743e791bd9ed68486d43f147"
+        "version": "1f3ca56b977832cbf403a336c51d56a3da55cd8c"
     },
     "fluffychat": {
         "cargoLocks": null,
@@ -1850,11 +1850,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "3b1f99ded1d1162b07122ba3ae04201f0493cfe8",
-            "sha256": "sha256-DJzXDLUFnDkrMMcMHVqmyCDSxhnfqAUa69OCuQBUKmY=",
+            "rev": "06aa1416325424ab2881a9e2442697f9707f363b",
+            "sha256": "sha256-6vIShjF+WHKwA6G86blaflQUyEZ4e9Yzk4SX5H69xoA=",
             "type": "github"
         },
-        "version": "3b1f99ded1d1162b07122ba3ae04201f0493cfe8"
+        "version": "06aa1416325424ab2881a9e2442697f9707f363b"
     },
     "tailscale-systray": {
         "cargoLocks": null,
