@@ -3267,10 +3267,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.2719";
+    version = "2022.6.2818";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2719/file/Slint.slint-nightly-2022.6.2719.vsix";
-      sha256 = "sha256-hWsWet/BS48bgDEwx12vF1reZ4l5y524ItiU4Cy2+YM=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2818/file/Slint.slint-nightly-2022.6.2818.vsix";
+      sha256 = "sha256-3rUtpi1saH7ecIbS0ltxg1MtDBORbMgoSr9secYBjls=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -4683,10 +4683,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.42.0";
+    version = "1.43.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.42.0/file/amazonwebservices.aws-toolkit-vscode-1.42.0.vsix";
-      sha256 = "sha256-e1RJyQ3qKulhWVBdUqTbaeuJOnpGBJkdKCjpI0VUDQY=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.43.0/file/amazonwebservices.aws-toolkit-vscode-1.43.0.vsix";
+      sha256 = "sha256-p5ErHDiy7Zz6uJSxIupY4rBSTGstl1ZTrKw6CtrqDnE=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -7551,10 +7551,10 @@
   };
   dcasella-monokai-plusplus = {
     pname = "dcasella-monokai-plusplus";
-    version = "2.0.0";
+    version = "2.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.0/file/dcasella.monokai-plusplus-2.0.0.vsix";
-      sha256 = "sha256-pbTxPW6XFoqzBSakZbElNWs3MWCvO3ZU5tQ15SdjHL4=";
+      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.2/file/dcasella.monokai-plusplus-2.0.2.vsix";
+      sha256 = "sha256-yXX0H7LW70D25Np+iVuH1jRWweZEKdU0GiwZmXVP2wQ=";
     };
     license = "MIT";
     name = "monokai-plusplus";
@@ -8379,10 +8379,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.8.4";
+    version = "0.8.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.4/file/enkia.tokyo-night-0.8.4.vsix";
-      sha256 = "sha256-N2Mwd4XFHvuEmzvVOZlpRH24ksCV+AhEzfX70QYvDbM=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.6/file/enkia.tokyo-night-0.8.6.vsix";
+      sha256 = "sha256-eS97BOhHL215C1dk91b4mBwBgcXXMdLRcjpmCfX61Ew=";
     };
     license = "MIT";
     name = "tokyo-night";
@@ -13443,10 +13443,10 @@
   };
   mitchdenny-ecdc = {
     pname = "mitchdenny-ecdc";
-    version = "1.7.0";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mitchdenny/ecdc/1.7.0/file/mitchdenny.ecdc-1.7.0.vsix";
-      sha256 = "sha256-U6ixKDujQOZ860w7jzqaioCgLQc33FpP8xnVe3qnA5o=";
+      url = "https://open-vsx.org/api/mitchdenny/ecdc/1.8.0/file/mitchdenny.ecdc-1.8.0.vsix";
+      sha256 = "sha256-PVfK6YGJ0DzLomvAr79RJZ7dQli1BX+iypUWFLgRM+s=";
     };
     license = "Apache-2.0";
     name = "ecdc";
@@ -14535,10 +14535,10 @@
   };
   nadako-vshaxe = {
     pname = "nadako-vshaxe";
-    version = "2.23.3";
+    version = "2.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nadako/vshaxe/2.23.3/file/nadako.vshaxe-2.23.3.vsix";
-      sha256 = "sha256-+JXzXZ/3VpbGxGqoFuEGnhg8wvZntCgIqvL1PFpMrlI=";
+      url = "https://open-vsx.org/api/nadako/vshaxe/2.24.0/file/nadako.vshaxe-2.24.0.vsix";
+      sha256 = "sha256-IOUgilRFsOkqS2uIjfttZNhQEj6YZ1hR7QRhghb/9Xg=";
     };
     license = "MIT";
     name = "vshaxe";

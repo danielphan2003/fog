@@ -5180,11 +5180,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hWsWet/BS48bgDEwx12vF1reZ4l5y524ItiU4Cy2+YM=",
+            "sha256": "sha256-3rUtpi1saH7ecIbS0ltxg1MtDBORbMgoSr9secYBjls=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2719/file/Slint.slint-nightly-2022.6.2719.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2818/file/Slint.slint-nightly-2022.6.2818.vsix"
         },
-        "version": "2022.6.2719"
+        "version": "2022.6.2818"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -7422,11 +7422,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e1RJyQ3qKulhWVBdUqTbaeuJOnpGBJkdKCjpI0VUDQY=",
+            "sha256": "sha256-p5ErHDiy7Zz6uJSxIupY4rBSTGstl1ZTrKw6CtrqDnE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.42.0/file/amazonwebservices.aws-toolkit-vscode-1.42.0.vsix"
+            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.43.0/file/amazonwebservices.aws-toolkit-vscode-1.43.0.vsix"
         },
-        "version": "1.42.0"
+        "version": "1.43.0"
     },
     "amiralizadeh9480-laravel-extra-intellisense": {
         "cargoLocks": null,
@@ -11963,11 +11963,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pbTxPW6XFoqzBSakZbElNWs3MWCvO3ZU5tQ15SdjHL4=",
+            "sha256": "sha256-yXX0H7LW70D25Np+iVuH1jRWweZEKdU0GiwZmXVP2wQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.0/file/dcasella.monokai-plusplus-2.0.0.vsix"
+            "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.2/file/dcasella.monokai-plusplus-2.0.2.vsix"
         },
-        "version": "2.0.0"
+        "version": "2.0.2"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -13274,11 +13274,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-N2Mwd4XFHvuEmzvVOZlpRH24ksCV+AhEzfX70QYvDbM=",
+            "sha256": "sha256-eS97BOhHL215C1dk91b4mBwBgcXXMdLRcjpmCfX61Ew=",
             "type": "url",
-            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.4/file/enkia.tokyo-night-0.8.4.vsix"
+            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.6/file/enkia.tokyo-night-0.8.6.vsix"
         },
-        "version": "0.8.4"
+        "version": "0.8.6"
     },
     "entan-gl-cc65-vice": {
         "cargoLocks": null,
@@ -21292,11 +21292,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-U6ixKDujQOZ860w7jzqaioCgLQc33FpP8xnVe3qnA5o=",
+            "sha256": "sha256-PVfK6YGJ0DzLomvAr79RJZ7dQli1BX+iypUWFLgRM+s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mitchdenny/ecdc/1.7.0/file/mitchdenny.ecdc-1.7.0.vsix"
+            "url": "https://open-vsx.org/api/mitchdenny/ecdc/1.8.0/file/mitchdenny.ecdc-1.8.0.vsix"
         },
-        "version": "1.7.0"
+        "version": "1.8.0"
     },
     "mjcrouch-perforce": {
         "cargoLocks": null,
@@ -23021,11 +23021,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+JXzXZ/3VpbGxGqoFuEGnhg8wvZntCgIqvL1PFpMrlI=",
+            "sha256": "sha256-IOUgilRFsOkqS2uIjfttZNhQEj6YZ1hR7QRhghb/9Xg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nadako/vshaxe/2.23.3/file/nadako.vshaxe-2.23.3.vsix"
+            "url": "https://open-vsx.org/api/nadako/vshaxe/2.24.0/file/nadako.vshaxe-2.24.0.vsix"
         },
-        "version": "2.23.3"
+        "version": "2.24.0"
     },
     "nadim-vscode-html-meta-tags-hero": {
         "cargoLocks": null,
