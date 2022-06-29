@@ -2140,11 +2140,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JsQo22sWijwTIj4LqTLiXGDYAT+DIfwp7ph42ZBkvHE=",
+            "sha256": "sha256-oPPDCj0W4Gwxdm++LHRtgGg7YhFjiwCwdTmDqE+7na0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.2/file/GulajavaMinistudio.mayukaithemevsc-3.2.2.vsix"
+            "url": "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.3/file/GulajavaMinistudio.mayukaithemevsc-3.2.3.vsix"
         },
-        "version": "3.2.2"
+        "version": "3.2.3"
     },
     "GustavoASC-google-drive-vscode": {
         "cargoLocks": null,
@@ -4534,11 +4534,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3/p7qy1hAd+ko1GAhzBOBmhmJr7YjeAHL+86HIxDXoU=",
+            "sha256": "sha256-dg02qc/32QL3WSvK65UZEK2WWQJvauiNn58T2BIP2vs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1123/file/Prisma.prisma-insider-31.0.1123.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1124/file/Prisma.prisma-insider-31.0.1124.vsix"
         },
-        "version": "31.0.1123"
+        "version": "31.0.1124"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -25187,11 +25187,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Yzl5ILSfZdNdyyOTaWCJPjgBpVuqbWjxzfvRre/oKIk=",
+            "sha256": "sha256-hUQd5aVnsy0tt/1WfN00mhNU8l/Nw75HcPVPKNGcLkQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/parse-tree/0.18.1/file/pokey.parse-tree-0.18.1.vsix"
+            "url": "https://open-vsx.org/api/pokey/parse-tree/0.18.2/file/pokey.parse-tree-0.18.2.vsix"
         },
-        "version": "0.18.1"
+        "version": "0.18.2"
     },
     "pokey-talon": {
         "cargoLocks": null,
@@ -26935,11 +26935,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aqd51ih5IUWE4mskJyTzPn7K9gE5ZLzZUBMdmdWpTO4=",
+            "sha256": "sha256-+47c7R0lqWid1AtbQBYdISMDTI56LS8GzJW/ajxJfsM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/file-bunny/1.2.0/file/robole.file-bunny-1.2.0.vsix"
+            "url": "https://open-vsx.org/api/robole/file-bunny/1.2.2/file/robole.file-bunny-1.2.2.vsix"
         },
-        "version": "1.2.0"
+        "version": "1.2.2"
     },
     "robole-javascript-snippets": {
         "cargoLocks": null,
@@ -27030,11 +27030,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Cpd3/3nkq3SfoPyuOw+ZNpsi78gsJ513qPTLG6OwzdQ=",
+            "sha256": "sha256-P8blWSv87H9yVJt9A/5sjBPGkttXJL9nyC5FIWxb08w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/marky-edit/0.5.1/file/robole.marky-edit-0.5.1.vsix"
+            "url": "https://open-vsx.org/api/robole/marky-edit/0.7.0/file/robole.marky-edit-0.7.0.vsix"
         },
-        "version": "0.5.1"
+        "version": "0.7.0"
     },
     "robole-marky-markdown": {
         "cargoLocks": null,
@@ -27087,11 +27087,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4CsahS7hA73ZEafQiSixb2BtBwtH37g2+a/hHp1lDRA=",
+            "sha256": "sha256-Q8GqWiwpPb/RBK0qA5g+lKeH7jAS5FMK/aAtywjjs6Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/snippets-ranger/0.21.2/file/robole.snippets-ranger-0.21.2.vsix"
+            "url": "https://open-vsx.org/api/robole/snippets-ranger/0.22.1/file/robole.snippets-ranger-0.22.1.vsix"
         },
-        "version": "0.21.2"
+        "version": "0.22.1"
     },
     "rogalmic-bash-debug": {
         "cargoLocks": null,
@@ -31652,6 +31652,25 @@
             "url": "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.11/file/usernamehw.remove-empty-lines-0.0.11.vsix"
         },
         "version": "0.0.11"
+    },
+    "usernamehw-snippets-in-markdown": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "usernamehw-snippets-in-markdown",
+        "passthru": {
+            "description": "Keep snippets in Markdown file.",
+            "license": "MIT",
+            "name": "snippets-in-markdown",
+            "publisher": "usernamehw"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-8MkzfNwxVMDcxstQMn3Xax/DIxscNlQCZu5p+EP3lw8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/usernamehw/snippets-in-markdown/0.1.0/file/usernamehw.snippets-in-markdown-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "usernamehw-theme-generator": {
         "cargoLocks": null,

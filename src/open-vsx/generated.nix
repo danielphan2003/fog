@@ -1347,10 +1347,10 @@
   };
   GulajavaMinistudio-mayukaithemevsc = {
     pname = "GulajavaMinistudio-mayukaithemevsc";
-    version = "3.2.2";
+    version = "3.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.2/file/GulajavaMinistudio.mayukaithemevsc-3.2.2.vsix";
-      sha256 = "sha256-JsQo22sWijwTIj4LqTLiXGDYAT+DIfwp7ph42ZBkvHE=";
+      url = "https://open-vsx.org/api/GulajavaMinistudio/mayukaithemevsc/3.2.3/file/GulajavaMinistudio.mayukaithemevsc-3.2.3.vsix";
+      sha256 = "sha256-oPPDCj0W4Gwxdm++LHRtgGg7YhFjiwCwdTmDqE+7na0=";
     };
     license = "MIT";
     name = "mayukaithemevsc";
@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1123";
+    version = "31.0.1124";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1123/file/Prisma.prisma-insider-31.0.1123.vsix";
-      sha256 = "sha256-3/p7qy1hAd+ko1GAhzBOBmhmJr7YjeAHL+86HIxDXoU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1124/file/Prisma.prisma-insider-31.0.1124.vsix";
+      sha256 = "sha256-dg02qc/32QL3WSvK65UZEK2WWQJvauiNn58T2BIP2vs=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -15903,10 +15903,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.18.1";
+    version = "0.18.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.18.1/file/pokey.parse-tree-0.18.1.vsix";
-      sha256 = "sha256-Yzl5ILSfZdNdyyOTaWCJPjgBpVuqbWjxzfvRre/oKIk=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.18.2/file/pokey.parse-tree-0.18.2.vsix";
+      sha256 = "sha256-hUQd5aVnsy0tt/1WfN00mhNU8l/Nw75HcPVPKNGcLkQ=";
     };
     license = "MIT";
     name = "parse-tree";
@@ -17007,10 +17007,10 @@
   };
   robole-file-bunny = {
     pname = "robole-file-bunny";
-    version = "1.2.0";
+    version = "1.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/file-bunny/1.2.0/file/robole.file-bunny-1.2.0.vsix";
-      sha256 = "sha256-aqd51ih5IUWE4mskJyTzPn7K9gE5ZLzZUBMdmdWpTO4=";
+      url = "https://open-vsx.org/api/robole/file-bunny/1.2.2/file/robole.file-bunny-1.2.2.vsix";
+      sha256 = "sha256-+47c7R0lqWid1AtbQBYdISMDTI56LS8GzJW/ajxJfsM=";
     };
     license = "";
     name = "file-bunny";
@@ -17067,10 +17067,10 @@
   };
   robole-marky-edit = {
     pname = "robole-marky-edit";
-    version = "0.5.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/marky-edit/0.5.1/file/robole.marky-edit-0.5.1.vsix";
-      sha256 = "sha256-Cpd3/3nkq3SfoPyuOw+ZNpsi78gsJ513qPTLG6OwzdQ=";
+      url = "https://open-vsx.org/api/robole/marky-edit/0.7.0/file/robole.marky-edit-0.7.0.vsix";
+      sha256 = "sha256-P8blWSv87H9yVJt9A/5sjBPGkttXJL9nyC5FIWxb08w=";
     };
     license = "MIT";
     name = "marky-edit";
@@ -17103,10 +17103,10 @@
   };
   robole-snippets-ranger = {
     pname = "robole-snippets-ranger";
-    version = "0.21.2";
+    version = "0.22.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/snippets-ranger/0.21.2/file/robole.snippets-ranger-0.21.2.vsix";
-      sha256 = "sha256-4CsahS7hA73ZEafQiSixb2BtBwtH37g2+a/hHp1lDRA=";
+      url = "https://open-vsx.org/api/robole/snippets-ranger/0.22.1/file/robole.snippets-ranger-0.22.1.vsix";
+      sha256 = "sha256-Q8GqWiwpPb/RBK0qA5g+lKeH7jAS5FMK/aAtywjjs6Y=";
     };
     license = "MIT";
     name = "snippets-ranger";
@@ -19991,6 +19991,18 @@
     license = "MIT";
     name = "remove-empty-lines";
     description = "Remove blank lines from document or selection.";
+    publisher = "usernamehw";
+  };
+  usernamehw-snippets-in-markdown = {
+    pname = "usernamehw-snippets-in-markdown";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/usernamehw/snippets-in-markdown/0.1.0/file/usernamehw.snippets-in-markdown-0.1.0.vsix";
+      sha256 = "sha256-8MkzfNwxVMDcxstQMn3Xax/DIxscNlQCZu5p+EP3lw8=";
+    };
+    license = "MIT";
+    name = "snippets-in-markdown";
+    description = "Keep snippets in Markdown file.";
     publisher = "usernamehw";
   };
   usernamehw-theme-generator = {
