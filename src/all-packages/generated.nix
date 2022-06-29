@@ -401,11 +401,11 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "1f3ca56b977832cbf403a336c51d56a3da55cd8c";
+    version = "a8c7763d46cca213b9c6d1768d183f5b0b8d02a9";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "1f3ca56b977832cbf403a336c51d56a3da55cd8c";
+      rev = "a8c7763d46cca213b9c6d1768d183f5b0b8d02a9";
       fetchSubmodules = false;
       sha256 = "sha256-VMz4n9t2/ruIf3pPNfZbLOO7bmgZoyu8nzOoj2EpOnc=";
     });
@@ -910,16 +910,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "8d0b49d36f5d450f9688a2980d06774076408f02";
+    version = "397fafb1c15fd130e7f0b969d654a851552135f3";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "8d0b49d36f5d450f9688a2980d06774076408f02";
+      rev = "397fafb1c15fd130e7f0b969d654a851552135f3";
       fetchSubmodules = false;
-      sha256 = "sha256-FUM/rIT3gvzTy6WF2CrQdkox3vJ/157EVW+wFM1RdZs=";
+      sha256 = "sha256-mPXVWx9/xfuPpZOP1KgsiwNy4xwfRn7oVhF63SFxtYo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-8d0b49d36f5d450f9688a2980d06774076408f02/Cargo.lock;
+      lockFile = ./rustdesk-397fafb1c15fd130e7f0b969d654a851552135f3/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
