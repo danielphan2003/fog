@@ -2475,10 +2475,10 @@
   };
   Mineiros-terramate = {
     pname = "Mineiros-terramate";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Mineiros/terramate/0.0.2/file/Mineiros.terramate-0.0.2.vsix";
-      sha256 = "sha256-qoe3s7JLg8sjqqMsFium42Am3cRiMo1nkOnE+uan+fc=";
+      url = "https://open-vsx.org/api/Mineiros/terramate/0.0.3/file/Mineiros.terramate-0.0.3.vsix";
+      sha256 = "sha256-CrFVXrjy0NFARYWKXCUheuYmpZAei9LJqaKjJeRqAWg=";
     };
     license = "Apache";
     name = "terramate";
@@ -6651,14 +6651,26 @@
   };
   cloudstudio-coding-authentication = {
     pname = "cloudstudio-coding-authentication";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.1/file/cloudstudio.coding-authentication-0.0.1.vsix";
-      sha256 = "sha256-9L8UyEjpY4SFNBha+IjZ3dcbSCcfrQHRRcJmq89PRSw=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.2/file/cloudstudio.coding-authentication-0.0.2.vsix";
+      sha256 = "sha256-CeC+A8zGAXcsC2TTZtimnLhF7YH+Hm6uDVWYYjy+B7E=";
     };
-    license = "";
+    license = "MIT";
     name = "coding-authentication";
     description = "CODING \36523\20221\39564\35777\25552\20379\31243\24207";
+    publisher = "cloudstudio";
+  };
+  cloudstudio-coding-publish = {
+    pname = "cloudstudio-coding-publish";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.1/file/cloudstudio.coding-publish-0.0.1.vsix";
+      sha256 = "sha256-Xcweo4/GbU5YHnhlVAVpkAtAHHwMB3NOAteR1drUmF4=";
+    };
+    license = "MIT";
+    name = "coding-publish";
+    description = "\21021\22987\21270\39033\30446\25512\36865\33267 CODING";
     publisher = "cloudstudio";
   };
   cloudstudio-coding-repositories = {
@@ -6709,6 +6721,18 @@
     description = "Cloud Studio \20113\37096\32626\22871\20214";
     publisher = "cloudstudio";
   };
+  cloudstudio-github-authentication = {
+    pname = "cloudstudio-github-authentication";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.1/file/cloudstudio.github-authentication-0.0.1.vsix";
+      sha256 = "sha256-BVPAgjTT+QsNKPeLvyyWHWiybd1t2b2qiXS1dSm56cw=";
+    };
+    license = "MIT";
+    name = "github-authentication";
+    description = "GitHub Authentication Provider";
+    publisher = "cloudstudio";
+  };
   cloudstudio-init-workspace = {
     pname = "cloudstudio-init-workspace";
     version = "0.0.4";
@@ -6747,10 +6771,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.9";
+    version = "0.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.9/file/cloudstudio.workspaces-0.0.9.vsix";
-      sha256 = "sha256-zrG2kmgSKnCba7JN0X0GnR5e5YQDLOEavLxa3XfrQFU=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.10/file/cloudstudio.workspaces-0.0.10.vsix";
+      sha256 = "sha256-PXis6FNp3bYtSZbBvT1ibHpySFzM0UZXpKDeCfWhvqY=";
     };
     license = "MIT";
     name = "workspaces";

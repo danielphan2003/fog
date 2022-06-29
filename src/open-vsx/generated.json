@@ -3926,11 +3926,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qoe3s7JLg8sjqqMsFium42Am3cRiMo1nkOnE+uan+fc=",
+            "sha256": "sha256-CrFVXrjy0NFARYWKXCUheuYmpZAei9LJqaKjJeRqAWg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Mineiros/terramate/0.0.2/file/Mineiros.terramate-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/Mineiros/terramate/0.0.3/file/Mineiros.terramate-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "ModestExtensionTeam-modestextension": {
         "cargoLocks": null,
@@ -10531,16 +10531,35 @@
         "name": "cloudstudio-coding-authentication",
         "passthru": {
             "description": "CODING èº«ä»½éªè¯æä¾ç¨åº",
-            "license": "",
+            "license": "MIT",
             "name": "coding-authentication",
             "publisher": "cloudstudio"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9L8UyEjpY4SFNBha+IjZ3dcbSCcfrQHRRcJmq89PRSw=",
+            "sha256": "sha256-CeC+A8zGAXcsC2TTZtimnLhF7YH+Hm6uDVWYYjy+B7E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.1/file/cloudstudio.coding-authentication-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.2/file/cloudstudio.coding-authentication-0.0.2.vsix"
+        },
+        "version": "0.0.2"
+    },
+    "cloudstudio-coding-publish": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cloudstudio-coding-publish",
+        "passthru": {
+            "description": "åå§åé¡¹ç®æ¨éè³ CODING",
+            "license": "MIT",
+            "name": "coding-publish",
+            "publisher": "cloudstudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Xcweo4/GbU5YHnhlVAVpkAtAHHwMB3NOAteR1drUmF4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.1/file/cloudstudio.coding-publish-0.0.1.vsix"
         },
         "version": "0.0.1"
     },
@@ -10620,6 +10639,25 @@
         },
         "version": "0.0.2"
     },
+    "cloudstudio-github-authentication": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cloudstudio-github-authentication",
+        "passthru": {
+            "description": "GitHub Authentication Provider",
+            "license": "MIT",
+            "name": "github-authentication",
+            "publisher": "cloudstudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-BVPAgjTT+QsNKPeLvyyWHWiybd1t2b2qiXS1dSm56cw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.1/file/cloudstudio.github-authentication-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "cloudstudio-init-workspace": {
         "cargoLocks": null,
         "extract": null,
@@ -10690,11 +10728,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zrG2kmgSKnCba7JN0X0GnR5e5YQDLOEavLxa3XfrQFU=",
+            "sha256": "sha256-PXis6FNp3bYtSZbBvT1ibHpySFzM0UZXpKDeCfWhvqY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.9/file/cloudstudio.workspaces-0.0.9.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.10/file/cloudstudio.workspaces-0.0.10.vsix"
         },
-        "version": "0.0.9"
+        "version": "0.0.10"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
