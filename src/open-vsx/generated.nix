@@ -2859,10 +2859,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1121";
+    version = "31.0.1122";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1121/file/Prisma.prisma-insider-31.0.1121.vsix";
-      sha256 = "sha256-tANxCVBb0/JNrY8KWtqAfSIbN2M8PPtccchLcJhX+cQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1122/file/Prisma.prisma-insider-31.0.1122.vsix";
+      sha256 = "sha256-hjPsQFXWxVZlbfi+z8wnsB5/nfv3peNMjdkhnf0Zc20=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3495,10 +3495,10 @@
   };
   TeamHub-teamhub = {
     pname = "TeamHub-teamhub";
-    version = "15.0.8";
+    version = "15.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.8/file/TeamHub.teamhub-15.0.8.vsix";
-      sha256 = "sha256-4xtLpMJGBJrfO7Qwvxa2ls6f2qkWApBuBhx+D8NocnY=";
+      url = "https://open-vsx.org/api/TeamHub/teamhub/15.0.9/file/TeamHub.teamhub-15.0.9.vsix";
+      sha256 = "sha256-KvkuHLYUVQzEDYq1OKjCopWVfAzGJ1qZIKKqqt9FMaM=";
     };
     license = "";
     name = "teamhub";
@@ -7695,10 +7695,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.100.6";
+    version = "0.101.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.100.6/file/dendron.nightly-0.100.6.vsix";
-      sha256 = "sha256-CvXEq9gI/L5K9PB4ucrqbg1F+nLuXBlPy1Zn3FyU68Y=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.101.1/file/dendron.nightly-0.101.1.vsix";
+      sha256 = "sha256-3R6yUjiIgvt6EUMfimL0EF0Oz/AFbFU1wvTD/fFGAHA=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8211,10 +8211,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2577249";
+    version = "8.0.2581578";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2577249/file/eliostruyf.vscode-front-matter-beta-8.0.2577249.vsix";
-      sha256 = "sha256-W9+oXx9zwLKQJLMNzx0cF9liXniAQHEDePbNJ9KZCSI=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2581578/file/eliostruyf.vscode-front-matter-beta-8.0.2581578.vsix";
+      sha256 = "sha256-zRomEILLPGVlN4ry8VaNlv9tQuB3q8WKmE+hoXweYmY=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -18939,10 +18939,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.30";
+    version = "0.0.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.30/file/t-codespaces.ide-data-sync-0.0.30.vsix";
-      sha256 = "sha256-rYBJcujqJHeZSGVocbqeH7C5kX+6GHlSmWhh4m6RWow=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.31/file/t-codespaces.ide-data-sync-0.0.31.vsix";
+      sha256 = "sha256-4CZs1/Je518jScyBIuhooSofli+M3c0DuM1EorVY1Xw=";
     };
     license = "";
     name = "ide-data-sync";

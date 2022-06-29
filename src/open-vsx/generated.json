@@ -4534,11 +4534,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tANxCVBb0/JNrY8KWtqAfSIbN2M8PPtccchLcJhX+cQ=",
+            "sha256": "sha256-hjPsQFXWxVZlbfi+z8wnsB5/nfv3peNMjdkhnf0Zc20=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1121/file/Prisma.prisma-insider-31.0.1121.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1122/file/Prisma.prisma-insider-31.0.1122.vsix"
         },
-        "version": "31.0.1121"
+        "version": "31.0.1122"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5541,11 +5541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4xtLpMJGBJrfO7Qwvxa2ls6f2qkWApBuBhx+D8NocnY=",
+            "sha256": "sha256-KvkuHLYUVQzEDYq1OKjCopWVfAzGJ1qZIKKqqt9FMaM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.8/file/TeamHub.teamhub-15.0.8.vsix"
+            "url": "https://open-vsx.org/api/TeamHub/teamhub/15.0.9/file/TeamHub.teamhub-15.0.9.vsix"
         },
-        "version": "15.0.8"
+        "version": "15.0.9"
     },
     "Telerik-nativescript": {
         "cargoLocks": null,
@@ -12191,11 +12191,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CvXEq9gI/L5K9PB4ucrqbg1F+nLuXBlPy1Zn3FyU68Y=",
+            "sha256": "sha256-3R6yUjiIgvt6EUMfimL0EF0Oz/AFbFU1wvTD/fFGAHA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.100.6/file/dendron.nightly-0.100.6.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.101.1/file/dendron.nightly-0.101.1.vsix"
         },
-        "version": "0.100.6"
+        "version": "0.101.1"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -13008,11 +13008,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W9+oXx9zwLKQJLMNzx0cF9liXniAQHEDePbNJ9KZCSI=",
+            "sha256": "sha256-zRomEILLPGVlN4ry8VaNlv9tQuB3q8WKmE+hoXweYmY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2577249/file/eliostruyf.vscode-front-matter-beta-8.0.2577249.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2581578/file/eliostruyf.vscode-front-matter-beta-8.0.2581578.vsix"
         },
-        "version": "8.0.2577249"
+        "version": "8.0.2581578"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -29994,11 +29994,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rYBJcujqJHeZSGVocbqeH7C5kX+6GHlSmWhh4m6RWow=",
+            "sha256": "sha256-4CZs1/Je518jScyBIuhooSofli+M3c0DuM1EorVY1Xw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.30/file/t-codespaces.ide-data-sync-0.0.30.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.31/file/t-codespaces.ide-data-sync-0.0.31.vsix"
         },
-        "version": "0.0.30"
+        "version": "0.0.31"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,
