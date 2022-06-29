@@ -9474,11 +9474,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/gDG+Q6kaZZ05oSdPfjvvqV6UaUfmqp6KhclkbwRLCk=",
+            "sha256": "sha256-Wl1vKRzog51tECsqtLSuZUjdge9KAwB2WumISv5S9Jk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.1/file/bmd.stm32-for-vscode-3.2.1.vsix"
+            "url": "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.2/file/bmd.stm32-for-vscode-3.2.2.vsix"
         },
-        "version": "3.2.1"
+        "version": "3.2.2"
     },
     "bmewburn-vscode-intelephense-client": {
         "cargoLocks": null,
@@ -14224,11 +14224,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-c+6o0zxD0l4c28WuaU03pwvsH2qQHBZ0mszfEBOsAGU=",
+            "sha256": "sha256-3S2HAayT6f7vXwc977Nln2mmuDxGkIeBwhyUlO0LLBY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foam/foam-vscode/0.18.4/file/foam.foam-vscode-0.18.4.vsix"
+            "url": "https://open-vsx.org/api/foam/foam-vscode/0.18.5/file/foam.foam-vscode-0.18.5.vsix"
         },
-        "version": "0.18.4"
+        "version": "0.18.5"
     },
     "folke-vscode-monorepo-workspace": {
         "cargoLocks": null,
@@ -34825,6 +34825,25 @@
             "url": "https://open-vsx.org/api/wicked-labs/sequoia/0.10.0/file/wicked-labs.sequoia-0.10.0.vsix"
         },
         "version": "0.10.0"
+    },
+    "wicked-labs-sinequanone-sunset": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wicked-labs-sinequanone-sunset",
+        "passthru": {
+            "description": "A collection of colorful color themes, for colorful people.",
+            "license": "MIT",
+            "name": "sinequanone-sunset",
+            "publisher": "wicked-labs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-8EGlgJM0Kq4zOZuawM6KCKbDDWz7D1LOJc9A6t7665s=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wicked-labs/sinequanone-sunset/0.12.0/file/wicked-labs.sinequanone-sunset-0.12.0.vsix"
+        },
+        "version": "0.12.0"
     },
     "wicked-labs-wvsc-serendipity": {
         "cargoLocks": null,

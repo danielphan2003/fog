@@ -5979,10 +5979,10 @@
   };
   bmd-stm32-for-vscode = {
     pname = "bmd-stm32-for-vscode";
-    version = "3.2.1";
+    version = "3.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.1/file/bmd.stm32-for-vscode-3.2.1.vsix";
-      sha256 = "sha256-/gDG+Q6kaZZ05oSdPfjvvqV6UaUfmqp6KhclkbwRLCk=";
+      url = "https://open-vsx.org/api/bmd/stm32-for-vscode/3.2.2/file/bmd.stm32-for-vscode-3.2.2.vsix";
+      sha256 = "sha256-Wl1vKRzog51tECsqtLSuZUjdge9KAwB2WumISv5S9Jk=";
     };
     license = "MIT";
     name = "stm32-for-vscode";
@@ -8979,10 +8979,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.18.4";
+    version = "0.18.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.4/file/foam.foam-vscode-0.18.4.vsix";
-      sha256 = "sha256-c+6o0zxD0l4c28WuaU03pwvsH2qQHBZ0mszfEBOsAGU=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.5/file/foam.foam-vscode-0.18.5.vsix";
+      sha256 = "sha256-3S2HAayT6f7vXwc977Nln2mmuDxGkIeBwhyUlO0LLBY=";
     };
     license = "MIT";
     name = "foam-vscode";
@@ -21995,6 +21995,18 @@
     license = "MIT";
     name = "sequoia";
     description = "Black, elegant, modern and gentle theme for VS Code. Three states available.";
+    publisher = "wicked-labs";
+  };
+  wicked-labs-sinequanone-sunset = {
+    pname = "wicked-labs-sinequanone-sunset";
+    version = "0.12.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wicked-labs/sinequanone-sunset/0.12.0/file/wicked-labs.sinequanone-sunset-0.12.0.vsix";
+      sha256 = "sha256-8EGlgJM0Kq4zOZuawM6KCKbDDWz7D1LOJc9A6t7665s=";
+    };
+    license = "MIT";
+    name = "sinequanone-sunset";
+    description = "A collection of colorful color themes, for colorful people.";
     publisher = "wicked-labs";
   };
   wicked-labs-wvsc-serendipity = {
