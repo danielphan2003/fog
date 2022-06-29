@@ -589,6 +589,18 @@
     description = "A customizable extension for colorizing matching brackets";
     publisher = "CoenraadS";
   };
+  CompilouIT-xkb = {
+    pname = "CompilouIT-xkb";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/CompilouIT/xkb/0.1.0/file/CompilouIT.xkb-0.1.0.vsix";
+      sha256 = "sha256-/4qred6hB5UqTxY7K5KiA2RiFb+RBSRGRIDA3ZqlMG4=";
+    };
+    license = "";
+    name = "xkb";
+    description = "xkb X Keyboard Symbol declaration.";
+    publisher = "CompilouIT";
+  };
   ComplYue-edh-vscode-formatter = {
     pname = "ComplYue-edh-vscode-formatter";
     version = "1.8.2";
@@ -3411,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.12";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.12/file/TI.devspacesplus-0.0.12.vsix";
-      sha256 = "sha256-xpaybRuEaRlRgsc+a80ilwzZEujgpgzFihQ7PkenUpY=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.15/file/TI.devspacesplus-0.0.15.vsix";
+      sha256 = "sha256-xia0kXO3g/TPhFwpUEBOA25n7SCLl2K6rqmATpHIlPA=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -3612,6 +3624,18 @@
     name = "hy";
     description = "Adds syntax highlighting and bracket matching in Hy files.";
     publisher = "TshakaEricLekholoane";
+  };
+  Turiiya-german-scroll = {
+    pname = "Turiiya-german-scroll";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.1/file/Turiiya.german-scroll-0.1.1.vsix";
+      sha256 = "sha256-TNv+sj1uzmuml6jNf2NVvIigR+xmk+eCPX0ewOzouCc=";
+    };
+    license = "MIT";
+    name = "german-scroll";
+    description = "Vim like scrolling that obeys to the rules. Preserves folds and respects scrollOff.";
+    publisher = "Turiiya";
   };
   Turiiya-keyword-o-mat = {
     pname = "Turiiya-keyword-o-mat";
@@ -9651,10 +9675,10 @@
   };
   gpoore-codebraid-preview = {
     pname = "gpoore-codebraid-preview";
-    version = "0.6.0";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.6.0/file/gpoore.codebraid-preview-0.6.0.vsix";
-      sha256 = "sha256-dEgKcdq9NVRjSiKD4ImnWR19p8TfcXnDYADZ9Id6bAg=";
+      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.7.0/file/gpoore.codebraid-preview-0.7.0.vsix";
+      sha256 = "sha256-SLe9JFEmRTIVAkyVQvCj4WW76NspHiBmHGEoCnWMZp8=";
     };
     license = "See license in LICENSE.txt (BSD 3-Clause except as noted otherwise)";
     name = "codebraid-preview";
@@ -11016,6 +11040,18 @@
     name = "c-cpp-flylint";
     description = "An advanced, modern, static analysis extension for C/C++ that supports a number of back-end analyzer programs.";
     publisher = "jbenden";
+  };
+  jburz2001-vnv-snippets = {
+    pname = "jburz2001-vnv-snippets";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jburz2001/vnv-snippets/0.0.1/file/jburz2001.vnv-snippets-0.0.1.vsix";
+      sha256 = "sha256-3GWhewNASBDzWutxs7t/CU6D0v0qb6NjPo5lqfrKAMA=";
+    };
+    license = "MIT";
+    name = "vnv-snippets";
+    description = "Snippets for VnV software macros.";
+    publisher = "jburz2001";
   };
   jdinhlife-gruvbox = {
     pname = "jdinhlife-gruvbox";

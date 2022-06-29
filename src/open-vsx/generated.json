@@ -930,6 +930,25 @@
         },
         "version": "0.1.4"
     },
+    "CompilouIT-xkb": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "CompilouIT-xkb",
+        "passthru": {
+            "description": "xkb X Keyboard Symbol declaration.",
+            "license": "",
+            "name": "xkb",
+            "publisher": "CompilouIT"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-/4qred6hB5UqTxY7K5KiA2RiFb+RBSRGRIDA3ZqlMG4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/CompilouIT/xkb/0.1.0/file/CompilouIT.xkb-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "ComplYue-edh-vscode-formatter": {
         "cargoLocks": null,
         "extract": null,
@@ -5408,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xpaybRuEaRlRgsc+a80ilwzZEujgpgzFihQ7PkenUpY=",
+            "sha256": "sha256-xia0kXO3g/TPhFwpUEBOA25n7SCLl2K6rqmATpHIlPA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.12/file/TI.devspacesplus-0.0.12.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.15/file/TI.devspacesplus-0.0.15.vsix"
         },
-        "version": "0.0.12"
+        "version": "0.0.15"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -5717,6 +5736,25 @@
             "url": "https://open-vsx.org/api/TshakaEricLekholoane/hy/0.0.17/file/TshakaEricLekholoane.hy-0.0.17.vsix"
         },
         "version": "0.0.17"
+    },
+    "Turiiya-german-scroll": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Turiiya-german-scroll",
+        "passthru": {
+            "description": "Vim like scrolling that obeys to the rules. Preserves folds and respects scrollOff.",
+            "license": "MIT",
+            "name": "german-scroll",
+            "publisher": "Turiiya"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-TNv+sj1uzmuml6jNf2NVvIigR+xmk+eCPX0ewOzouCc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Turiiya/german-scroll/0.1.1/file/Turiiya.german-scroll-0.1.1.vsix"
+        },
+        "version": "0.1.1"
     },
     "Turiiya-keyword-o-mat": {
         "cargoLocks": null,
@@ -15288,11 +15326,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dEgKcdq9NVRjSiKD4ImnWR19p8TfcXnDYADZ9Id6bAg=",
+            "sha256": "sha256-SLe9JFEmRTIVAkyVQvCj4WW76NspHiBmHGEoCnWMZp8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/gpoore/codebraid-preview/0.6.0/file/gpoore.codebraid-preview-0.6.0.vsix"
+            "url": "https://open-vsx.org/api/gpoore/codebraid-preview/0.7.0/file/gpoore.codebraid-preview-0.7.0.vsix"
         },
-        "version": "0.6.0"
+        "version": "0.7.0"
     },
     "grain-lang-vscode-grain": {
         "cargoLocks": null,
@@ -17440,6 +17478,25 @@
             "url": "https://open-vsx.org/api/jbenden/c-cpp-flylint/1.11.0/file/jbenden.c-cpp-flylint-1.11.0.vsix"
         },
         "version": "1.11.0"
+    },
+    "jburz2001-vnv-snippets": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jburz2001-vnv-snippets",
+        "passthru": {
+            "description": "Snippets for VnV software macros.",
+            "license": "MIT",
+            "name": "vnv-snippets",
+            "publisher": "jburz2001"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-3GWhewNASBDzWutxs7t/CU6D0v0qb6NjPo5lqfrKAMA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jburz2001/vnv-snippets/0.0.1/file/jburz2001.vnv-snippets-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "jdinhlife-gruvbox": {
         "cargoLocks": null,
