@@ -13995,10 +13995,10 @@
   };
   ms-vscode-js-debug = {
     pname = "ms-vscode-js-debug";
-    version = "1.68.0";
+    version = "1.69.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.68.0/file/ms-vscode.js-debug-1.68.0.vsix";
-      sha256 = "sha256-B+eJgmwlpVoyPWgQYP8eVuADgIFj1+EGWkMuG3XZ7ks=";
+      url = "https://open-vsx.org/api/ms-vscode/js-debug/1.69.0/file/ms-vscode.js-debug-1.69.0.vsix";
+      sha256 = "sha256-7CnLfQhxIKcOk3kPRl0+halpNCRZdDa2CbISWdfh6/w=";
     };
     license = "MIT";
     name = "js-debug";
@@ -14487,10 +14487,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.16.0";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.16.0/file/mutable-ai.mutable-ai-0.16.0.vsix";
-      sha256 = "sha256-i6D6hDBjC9cf0HxmQ/xcptJsWdKq35o5CRgpJmWN5yg=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.17.0/file/mutable-ai.mutable-ai-0.17.0.vsix";
+      sha256 = "sha256-0R5sdutDxxh2qoSUs9PEcvfrHar75DIkeiDs6TTxOSY=";
     };
     license = "";
     name = "mutable-ai";
@@ -21948,6 +21948,18 @@
     name = "jinja";
     description = "Jinja template language support for Visual Studio Code";
     publisher = "wholroyd";
+  };
+  wicked-labs-sequoia = {
+    pname = "wicked-labs-sequoia";
+    version = "0.10.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wicked-labs/sequoia/0.10.0/file/wicked-labs.sequoia-0.10.0.vsix";
+      sha256 = "sha256-pR/SKSAVKrArs7KAAuJ/ALPr4yO/ZgNzDRoThxhx8ys=";
+    };
+    license = "MIT";
+    name = "sequoia";
+    description = "Black, elegant, modern and gentle theme for VS Code. Three states available.";
+    publisher = "wicked-labs";
   };
   wicked-labs-wvsc-serendipity = {
     pname = "wicked-labs-wvsc-serendipity";

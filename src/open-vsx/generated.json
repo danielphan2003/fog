@@ -22166,11 +22166,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-B+eJgmwlpVoyPWgQYP8eVuADgIFj1+EGWkMuG3XZ7ks=",
+            "sha256": "sha256-7CnLfQhxIKcOk3kPRl0+halpNCRZdDa2CbISWdfh6/w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.68.0/file/ms-vscode.js-debug-1.68.0.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/js-debug/1.69.0/file/ms-vscode.js-debug-1.69.0.vsix"
         },
-        "version": "1.68.0"
+        "version": "1.69.0"
     },
     "ms-vscode-js-debug-companion": {
         "cargoLocks": null,
@@ -22945,11 +22945,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i6D6hDBjC9cf0HxmQ/xcptJsWdKq35o5CRgpJmWN5yg=",
+            "sha256": "sha256-0R5sdutDxxh2qoSUs9PEcvfrHar75DIkeiDs6TTxOSY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.16.0/file/mutable-ai.mutable-ai-0.16.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.17.0/file/mutable-ai.mutable-ai-0.17.0.vsix"
         },
-        "version": "0.16.0"
+        "version": "0.17.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -34749,6 +34749,25 @@
             "url": "https://open-vsx.org/api/wholroyd/jinja/0.0.8/file/wholroyd.jinja-0.0.8.vsix"
         },
         "version": "0.0.8"
+    },
+    "wicked-labs-sequoia": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wicked-labs-sequoia",
+        "passthru": {
+            "description": "Black, elegant, modern and gentle theme for VS Code. Three states available.",
+            "license": "MIT",
+            "name": "sequoia",
+            "publisher": "wicked-labs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-pR/SKSAVKrArs7KAAuJ/ALPr4yO/ZgNzDRoThxhx8ys=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wicked-labs/sequoia/0.10.0/file/wicked-labs.sequoia-0.10.0.vsix"
+        },
+        "version": "0.10.0"
     },
     "wicked-labs-wvsc-serendipity": {
         "cargoLocks": null,
