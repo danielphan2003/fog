@@ -591,10 +591,10 @@
   };
   CompilouIT-xkb = {
     pname = "CompilouIT-xkb";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CompilouIT/xkb/0.1.0/file/CompilouIT.xkb-0.1.0.vsix";
-      sha256 = "sha256-/4qred6hB5UqTxY7K5KiA2RiFb+RBSRGRIDA3ZqlMG4=";
+      url = "https://open-vsx.org/api/CompilouIT/xkb/0.1.1/file/CompilouIT.xkb-0.1.1.vsix";
+      sha256 = "sha256-8M+SR7O1pSSiZ//jnjGbiXp0DL+2JT1lU23JLrPsDPk=";
     };
     license = "";
     name = "xkb";

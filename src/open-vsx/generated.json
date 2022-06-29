@@ -943,11 +943,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/4qred6hB5UqTxY7K5KiA2RiFb+RBSRGRIDA3ZqlMG4=",
+            "sha256": "sha256-8M+SR7O1pSSiZ//jnjGbiXp0DL+2JT1lU23JLrPsDPk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CompilouIT/xkb/0.1.0/file/CompilouIT.xkb-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/CompilouIT/xkb/0.1.1/file/CompilouIT.xkb-0.1.1.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.1.1"
     },
     "ComplYue-edh-vscode-formatter": {
         "cargoLocks": null,
