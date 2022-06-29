@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "be390dacfda20112be5530b9d030ff92e6008cd2";
+    version = "7d20d5c8c3f4014a637f6987985d1cf011327aa1";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "be390dacfda20112be5530b9d030ff92e6008cd2";
+      rev = "7d20d5c8c3f4014a637f6987985d1cf011327aa1";
       fetchSubmodules = false;
-      sha256 = "sha256-8s56Kek6bI9p7vgrv+L4nQeEXrN+kej0Bad3QF+a3BY=";
+      sha256 = "sha256-Vq6rv+UX8lYPgQOKK0r3KtXt+USYfsLLA6ifAfimN3U=";
     });
   };
   ibus = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-901";
+    version = "1.0-902";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-901-1_all.deb";
-      sha256 = "sha256-9l8zDzjx8/w3zmpL7Ol8Z91srpSHt/yloeKOsIxkSuY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-902-1_all.deb";
+      sha256 = "sha256-MOskgWVkNBpD3AMvoSza7LwJ7/U5gngQScL8B3nTrS0=";
     };
   };
   jitsi-meet = {
@@ -1300,13 +1300,13 @@
   };
   xdg-desktop-portal-gtk = {
     pname = "xdg-desktop-portal-gtk";
-    version = "948cc12b124818bd5329ccd5a331a9d0324734e0";
+    version = "79f711940ef6a61e358453305a3cae0f4522d43e";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal-gtk";
-      rev = "948cc12b124818bd5329ccd5a331a9d0324734e0";
+      rev = "79f711940ef6a61e358453305a3cae0f4522d43e";
       fetchSubmodules = false;
-      sha256 = "sha256-yeO/v0p3cu88Shuv7C7wjUnpcP1Z3Xan1rjuNlq/rQ0=";
+      sha256 = "sha256-cLKT5l4rnc7zEZw0+Af6fI9DWq5mv2XqE+7hyS9dtck=";
     });
   };
   xorg-libxcvt = {
