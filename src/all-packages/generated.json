@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "9642ea13dcea9ae0ea13cbc08e5ca28d59027d4c",
-            "sha256": "sha256-P3i1FB+7hd9D/xuhIjXKx9EHjh80XshXsrvQA9iV9Dc=",
+            "rev": "a3d3a7429c1f39ab2e45e6c2e0f7e0ea9d6d9f92",
+            "sha256": "sha256-vfKQHF8MJJ2/wH5PYL9zDgYUPK1Kfywncb30CnOf498=",
             "type": "github"
         },
-        "version": "9642ea13dcea9ae0ea13cbc08e5ca28d59027d4c"
+        "version": "a3d3a7429c1f39ab2e45e6c2e0f7e0ea9d6d9f92"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1516,7 +1516,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-397fafb1c15fd130e7f0b969d654a851552135f3/Cargo.lock",
+                "./rustdesk-89711d452384275e9608896f855c93797d922b9d/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
@@ -1539,11 +1539,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "397fafb1c15fd130e7f0b969d654a851552135f3",
-            "sha256": "sha256-mPXVWx9/xfuPpZOP1KgsiwNy4xwfRn7oVhF63SFxtYo=",
+            "rev": "89711d452384275e9608896f855c93797d922b9d",
+            "sha256": "sha256-x4GtxSOY+1YF3oFVN06POX+W+vT9wIgUFBwZ6awd3RE=",
             "type": "github"
         },
-        "version": "397fafb1c15fd130e7f0b969d654a851552135f3"
+        "version": "89711d452384275e9608896f855c93797d922b9d"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -1850,11 +1850,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "ef351ac0dd37281448361e29413590f33dfc3f57",
-            "sha256": "sha256-FGJx6sJ2u9MgW1H3uz0D2hczcX6PGHHvCZXrH0KhASk=",
+            "rev": "cfa484e1a2dcb40514152d5591df2a3134f9016b",
+            "sha256": "sha256-zHLvI9cgUgUx1tFuB57x55oWMkiFtAAUWTLIPzN13mI=",
             "type": "github"
         },
-        "version": "ef351ac0dd37281448361e29413590f33dfc3f57"
+        "version": "cfa484e1a2dcb40514152d5591df2a3134f9016b"
     },
     "tailscale-systray": {
         "cargoLocks": null,
