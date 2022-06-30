@@ -11163,10 +11163,10 @@
   };
   jeppeandersen-vscode-kafka = {
     pname = "jeppeandersen-vscode-kafka";
-    version = "0.14.0";
+    version = "0.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeppeandersen/vscode-kafka/0.14.0/file/jeppeandersen.vscode-kafka-0.14.0.vsix";
-      sha256 = "sha256-R+7iztnmvnHR3T7nKBxpOF1f7IWt6vbN3yAPgZSUvlc=";
+      url = "https://open-vsx.org/api/jeppeandersen/vscode-kafka/0.15.0/file/jeppeandersen.vscode-kafka-0.15.0.vsix";
+      sha256 = "sha256-96VBPj1A86A4Q2yFZsp6JyI1ddwoLt14k/5ZDhpRxOE=";
     };
     license = "MIT";
     name = "vscode-kafka";

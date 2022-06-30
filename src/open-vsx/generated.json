@@ -17682,11 +17682,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-R+7iztnmvnHR3T7nKBxpOF1f7IWt6vbN3yAPgZSUvlc=",
+            "sha256": "sha256-96VBPj1A86A4Q2yFZsp6JyI1ddwoLt14k/5ZDhpRxOE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeppeandersen/vscode-kafka/0.14.0/file/jeppeandersen.vscode-kafka-0.14.0.vsix"
+            "url": "https://open-vsx.org/api/jeppeandersen/vscode-kafka/0.15.0/file/jeppeandersen.vscode-kafka-0.15.0.vsix"
         },
-        "version": "0.14.0"
+        "version": "0.15.0"
     },
     "jeroen-meijer-pubspec-assist": {
         "cargoLocks": null,
