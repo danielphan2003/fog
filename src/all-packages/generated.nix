@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f4f0b018a12480dd57888ce25de6c60e7c2d8093";
+    version = "3159c03b9e97838564f52083b2d1ddb80db6f946";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f4f0b018a12480dd57888ce25de6c60e7c2d8093";
+      rev = "3159c03b9e97838564f52083b2d1ddb80db6f946";
       fetchSubmodules = false;
-      sha256 = "sha256-X5cho+dMWquT3UoSwDEpAOpg782+Wa4MbDBY9eDY5H8=";
+      sha256 = "sha256-BbYD2zUcfE0e8KtH1b53zNM9wJJ9KdN4whhnSSzcWGE=";
     });
   };
   caddy = {
@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
+      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "4510764f348d1a7c4cca613925ee22acfa38b388";
+    version = "92890d492a2dea43837591de79ffec828b50d6e2";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "4510764f348d1a7c4cca613925ee22acfa38b388";
+      rev = "92890d492a2dea43837591de79ffec828b50d6e2";
       fetchSubmodules = false;
-      sha256 = "sha256-NPiLaoApGbGw3I6Pp4oJnKh/Q64yCSeokLWRWjAmsu4=";
+      sha256 = "sha256-sa7eWkm/0TZVRBIa3dUTqzz73P7+BpvERyMUP0B/5fQ=";
     });
   };
   ibus = {
@@ -1130,13 +1130,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3f4fd64311708ed0c0242a407ca0be9a833acb06";
+    version = "ec649e707f2f111fd01ca649f3e0b5fe867fde99";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3f4fd64311708ed0c0242a407ca0be9a833acb06";
+      rev = "ec649e707f2f111fd01ca649f3e0b5fe867fde99";
       fetchSubmodules = false;
-      sha256 = "sha256-fYFyNL+NuahhR39YCExAq56JrKXre/h61FtQ5FCqZF8=";
+      sha256 = "sha256-DtSjGgUSB0njHi/Gl6Xbj7KUCNZxxWfYGFC5pzPKJvw=";
     });
   };
   tailscale-systray = {
