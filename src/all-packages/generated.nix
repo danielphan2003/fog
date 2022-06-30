@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
+      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e9d67f2bbe01f3fe66de5eda6430bccfba95b663";
+    version = "ab208fca915e07df7197d024b6e291306ea52a9c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e9d67f2bbe01f3fe66de5eda6430bccfba95b663";
+      rev = "ab208fca915e07df7197d024b6e291306ea52a9c";
       fetchSubmodules = false;
-      sha256 = "sha256-bOt13ogBHt85512JEVs5vPFT1dDsPUufr3jp09KcaUY=";
+      sha256 = "sha256-V1rUiVzq2vI6XoGBfgf//0kPjjYPQMQ7ntmm83fh0xA=";
     });
   };
   rofi-wayland = {

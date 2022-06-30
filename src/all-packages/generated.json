@@ -415,7 +415,7 @@
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
             "rev": "d8eacb4673e217bf9edce5c58b60c099fe74c37d",
-            "sha256": "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=",
+            "sha256": "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=",
             "type": "github"
         },
         "version": "d8eacb4673e217bf9edce5c58b60c099fe74c37d"
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "e9d67f2bbe01f3fe66de5eda6430bccfba95b663",
-            "sha256": "sha256-bOt13ogBHt85512JEVs5vPFT1dDsPUufr3jp09KcaUY=",
+            "rev": "ab208fca915e07df7197d024b6e291306ea52a9c",
+            "sha256": "sha256-V1rUiVzq2vI6XoGBfgf//0kPjjYPQMQ7ntmm83fh0xA=",
             "type": "github"
         },
-        "version": "e9d67f2bbe01f3fe66de5eda6430bccfba95b663"
+        "version": "ab208fca915e07df7197d024b6e291306ea52a9c"
     },
     "rofi-wayland": {
         "cargoLocks": null,
