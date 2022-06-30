@@ -391,6 +391,10 @@ fetch.git = "https://gitlab.com/snakedye/snui"
 src.git = "https://github.com/khanhas/spicetify-cli"
 fetch.github = "khanhas/spicetify-cli"
 
+[spicetify-marketplace]
+src.git = "https://github.com/spicetify/spicetify-marketplace"
+fetch.github = "spicetify/spicetify-marketplace"
+
 [spicetify-themes]
 src.git = "https://github.com/morpheusthewhite/spicetify-themes"
 fetch.github = "morpheusthewhite/spicetify-themes"
