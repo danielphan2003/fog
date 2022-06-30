@@ -5199,11 +5199,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3rUtpi1saH7ecIbS0ltxg1MtDBORbMgoSr9secYBjls=",
+            "sha256": "sha256-rbOKvSnuXaoSxdLuwhE7312wxFKo2GSrSWI5GzVBB30=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2818/file/Slint.slint-nightly-2022.6.2818.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2921/file/Slint.slint-nightly-2022.6.2921.vsix"
         },
-        "version": "2022.6.2818"
+        "version": "2022.6.2921"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -22071,11 +22071,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QtWbjzn9MVT8Mw4RjLB1dITYUyuuj/qsIVQ9UFKnHDM=",
+            "sha256": "sha256-ziX80Cmc3xe20c03mLEjYmZ+70qHEtpC6Xqa3lwuqD4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.4/file/ms-toolsai.vscode-jupyter-powertoys-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "ms-vscode-Go": {
         "cargoLocks": null,
@@ -32483,11 +32483,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QSaBXTWXjlIDiw1Uuox8LvSuJ9lwMPNcY3vdcMA5+3g=",
+            "sha256": "sha256-Zk2sPws0LRdBzO1R7C1qp7z9Q3OX702JbpAKhWWO16U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.41.0/file/vscjava.vscode-java-debug-0.41.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.42.0/file/vscjava.vscode-java-debug-0.42.0.vsix"
         },
-        "version": "0.41.0"
+        "version": "0.42.0"
     },
     "vscjava-vscode-java-dependency": {
         "cargoLocks": null,
@@ -32502,11 +32502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zCCmIKdad5wSETEb6WmZ19KLToWiUMzdCpTVMAZRLnk=",
+            "sha256": "sha256-YD+TSpGaLMxLT38Fe/Xa46o+plepKKjYPLsyXBOvM3c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.19.1/file/vscjava.vscode-java-dependency-0.19.1.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.20.0/file/vscjava.vscode-java-dependency-0.20.0.vsix"
         },
-        "version": "0.19.1"
+        "version": "0.20.0"
     },
     "vscjava-vscode-java-pack": {
         "cargoLocks": null,
@@ -32559,11 +32559,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=",
+            "sha256": "sha256-RFE3lY2fmU6ECNtpwXR0fsCQIvt8gHsHyhG3C1n2XYc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-maven/0.36.0/file/vscjava.vscode-maven-0.36.0.vsix"
         },
-        "version": "0.35.2"
+        "version": "0.36.0"
     },
     "vscjava-vscode-spring-boot-dashboard": {
         "cargoLocks": null,
@@ -32597,11 +32597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nZIlzdigBOtq+tu4af+tUjrxk+kTJ8CdI/HSQGtvrS8=",
+            "sha256": "sha256-QHQDDh/a1Oxi5jIKpOVoZiNmKMXPVmLNrXEn/RATogM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.9.0/file/vscjava.vscode-spring-initializr-0.9.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.0/file/vscjava.vscode-spring-initializr-0.10.0.vsix"
         },
-        "version": "0.9.0"
+        "version": "0.10.0"
     },
     "vscode-bat": {
         "cargoLocks": null,

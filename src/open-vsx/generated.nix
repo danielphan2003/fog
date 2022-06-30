@@ -3279,10 +3279,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.2818";
+    version = "2022.6.2921";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2818/file/Slint.slint-nightly-2022.6.2818.vsix";
-      sha256 = "sha256-3rUtpi1saH7ecIbS0ltxg1MtDBORbMgoSr9secYBjls=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2921/file/Slint.slint-nightly-2022.6.2921.vsix";
+      sha256 = "sha256-rbOKvSnuXaoSxdLuwhE7312wxFKo2GSrSWI5GzVBB30=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13935,10 +13935,10 @@
   };
   ms-toolsai-vscode-jupyter-powertoys = {
     pname = "ms-toolsai-vscode-jupyter-powertoys";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.3/file/ms-toolsai.vscode-jupyter-powertoys-0.0.3.vsix";
-      sha256 = "sha256-QtWbjzn9MVT8Mw4RjLB1dITYUyuuj/qsIVQ9UFKnHDM=";
+      url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.4/file/ms-toolsai.vscode-jupyter-powertoys-0.0.4.vsix";
+      sha256 = "sha256-ziX80Cmc3xe20c03mLEjYmZ+70qHEtpC6Xqa3lwuqD4=";
     };
     license = "MIT";
     name = "vscode-jupyter-powertoys";
@@ -20511,10 +20511,10 @@
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
-    version = "0.41.0";
+    version = "0.42.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.41.0/file/vscjava.vscode-java-debug-0.41.0.vsix";
-      sha256 = "sha256-QSaBXTWXjlIDiw1Uuox8LvSuJ9lwMPNcY3vdcMA5+3g=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.42.0/file/vscjava.vscode-java-debug-0.42.0.vsix";
+      sha256 = "sha256-Zk2sPws0LRdBzO1R7C1qp7z9Q3OX702JbpAKhWWO16U=";
     };
     license = "";
     name = "vscode-java-debug";
@@ -20523,10 +20523,10 @@
   };
   vscjava-vscode-java-dependency = {
     pname = "vscjava-vscode-java-dependency";
-    version = "0.19.1";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.19.1/file/vscjava.vscode-java-dependency-0.19.1.vsix";
-      sha256 = "sha256-zCCmIKdad5wSETEb6WmZ19KLToWiUMzdCpTVMAZRLnk=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.20.0/file/vscjava.vscode-java-dependency-0.20.0.vsix";
+      sha256 = "sha256-YD+TSpGaLMxLT38Fe/Xa46o+plepKKjYPLsyXBOvM3c=";
     };
     license = "MIT";
     name = "vscode-java-dependency";
@@ -20559,10 +20559,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.35.2";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix";
-      sha256 = "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.36.0/file/vscjava.vscode-maven-0.36.0.vsix";
+      sha256 = "sha256-RFE3lY2fmU6ECNtpwXR0fsCQIvt8gHsHyhG3C1n2XYc=";
     };
     license = "MIT";
     name = "vscode-maven";
@@ -20583,10 +20583,10 @@
   };
   vscjava-vscode-spring-initializr = {
     pname = "vscjava-vscode-spring-initializr";
-    version = "0.9.0";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.9.0/file/vscjava.vscode-spring-initializr-0.9.0.vsix";
-      sha256 = "sha256-nZIlzdigBOtq+tu4af+tUjrxk+kTJ8CdI/HSQGtvrS8=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.0/file/vscjava.vscode-spring-initializr-0.10.0.vsix";
+      sha256 = "sha256-QHQDDh/a1Oxi5jIKpOVoZiNmKMXPVmLNrXEn/RATogM=";
     };
     license = "MIT";
     name = "vscode-spring-initializr";
