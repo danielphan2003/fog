@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
+      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -1130,13 +1130,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "aa37aece9c007de64042ba2f882b4f0c703b2c1b";
+    version = "3f4fd64311708ed0c0242a407ca0be9a833acb06";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "aa37aece9c007de64042ba2f882b4f0c703b2c1b";
+      rev = "3f4fd64311708ed0c0242a407ca0be9a833acb06";
       fetchSubmodules = false;
-      sha256 = "sha256-I8QOCkLOsitQGb9oppTbp4Zchpu5WxzAbNbpVGcKn3A=";
+      sha256 = "sha256-fYFyNL+NuahhR39YCExAq56JrKXre/h61FtQ5FCqZF8=";
     });
   };
   tailscale-systray = {
