@@ -4553,11 +4553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Oempd5fDrqD93QNWkfCxI2XEac56J5MfWGvkmCsDWtU=",
+            "sha256": "sha256-jBgs/xG3JnwvdQzo3EifGVV6HwcbFtwq3kpUM4oipgQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1126/file/Prisma.prisma-insider-31.0.1126.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1127/file/Prisma.prisma-insider-31.0.1127.vsix"
         },
-        "version": "31.0.1126"
+        "version": "31.0.1127"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vmq1lYDXHqkgdJsKnBxGQtUjNU7wjtTU4X/enHr/yuE=",
+            "sha256": "sha256-+gsigQ6cfiKlCbZ4wmmGagTmsgaekUfrRbrS2IFfxK8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.20/file/TI.devspacesplus-0.0.20.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.24/file/TI.devspacesplus-0.0.24.vsix"
         },
-        "version": "0.0.20"
+        "version": "0.0.24"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -31761,11 +31761,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8MkzfNwxVMDcxstQMn3Xax/DIxscNlQCZu5p+EP3lw8=",
+            "sha256": "sha256-YzksPXQpT5S4WkkkAgZmbtMLFf0HSmdE7WzMGufkOdU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/snippets-in-markdown/0.1.0/file/usernamehw.snippets-in-markdown-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/snippets-in-markdown/0.2.0/file/usernamehw.snippets-in-markdown-0.2.0.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.2.0"
     },
     "usernamehw-theme-generator": {
         "cargoLocks": null,
@@ -36017,11 +36017,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EWI8vOU3nnfT9zZxqJCz29jTXiqFI85T8aUrRUdn6oA=",
+            "sha256": "sha256-LAcMvPatf++uXInoXN1UdpABqyxO36PFQFuAbWXc7Vk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.64/file/zardoy.zardoy-experiments-0.0.64.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.65/file/zardoy.zardoy-experiments-0.0.65.vsix"
         },
-        "version": "0.0.64"
+        "version": "0.0.65"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
