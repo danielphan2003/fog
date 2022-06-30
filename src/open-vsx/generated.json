@@ -3223,11 +3223,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-U7F6CTXfbLA/rOiAGsSRaWDB8xkXno4qg3GKbT/OlTA=",
+            "sha256": "sha256-Tu8cdDhNmFMfRBkdbs5EcnSe3dsA6oPxriOSwF66LII=",
             "type": "url",
-            "url": "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.10/file/LuqueDaniel.languague-renpy-2.0.10.vsix"
+            "url": "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.11/file/LuqueDaniel.languague-renpy-2.0.11.vsix"
         },
-        "version": "2.0.10"
+        "version": "2.0.11"
     },
     "Luxcium-pop-n-lock-theme-vscode": {
         "cargoLocks": null,
@@ -4553,11 +4553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a+RAMchGi3YzOE/XTakuO7+BQofnFPhHMrFZaRXGx4Q=",
+            "sha256": "sha256-Oempd5fDrqD93QNWkfCxI2XEac56J5MfWGvkmCsDWtU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1125/file/Prisma.prisma-insider-31.0.1125.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1126/file/Prisma.prisma-insider-31.0.1126.vsix"
         },
-        "version": "31.0.1125"
+        "version": "31.0.1126"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -17264,11 +17264,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-flOPQrL4qutjMwrFQ/KoDmNUB9AH9PtC4/Hphnx/qmQ=",
+            "sha256": "sha256-oHW5pYXbo7TcGwBL7JDTLig9lxmfFI9i/g48uE7AX6Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.6/file/iterative.dvc-0.3.6.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.7/file/iterative.dvc-0.3.7.vsix"
         },
-        "version": "0.3.6"
+        "version": "0.3.7"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -23078,11 +23078,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8pDbYg9i7yTYZWjd8DzOTUKD/jOu9q0pOH8zwtk1gsQ=",
+            "sha256": "sha256-m5h6SNg4r3kSZd/p48TgUxHGmINpfZaml2zK0yUyV4A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.18.0/file/mutable-ai.mutable-ai-0.18.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.20.0/file/mutable-ai.mutable-ai-0.20.0.vsix"
         },
-        "version": "0.18.0"
+        "version": "0.20.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,

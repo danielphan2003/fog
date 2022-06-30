@@ -2031,10 +2031,10 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.10";
+    version = "2.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.10/file/LuqueDaniel.languague-renpy-2.0.10.vsix";
-      sha256 = "sha256-U7F6CTXfbLA/rOiAGsSRaWDB8xkXno4qg3GKbT/OlTA=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.11/file/LuqueDaniel.languague-renpy-2.0.11.vsix";
+      sha256 = "sha256-Tu8cdDhNmFMfRBkdbs5EcnSe3dsA6oPxriOSwF66LII=";
     };
     license = "MIT";
     name = "languague-renpy";
@@ -2871,10 +2871,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1125";
+    version = "31.0.1126";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1125/file/Prisma.prisma-insider-31.0.1125.vsix";
-      sha256 = "sha256-a+RAMchGi3YzOE/XTakuO7+BQofnFPhHMrFZaRXGx4Q=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1126/file/Prisma.prisma-insider-31.0.1126.vsix";
+      sha256 = "sha256-Oempd5fDrqD93QNWkfCxI2XEac56J5MfWGvkmCsDWtU=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10899,10 +10899,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.6";
+    version = "0.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.6/file/iterative.dvc-0.3.6.vsix";
-      sha256 = "sha256-flOPQrL4qutjMwrFQ/KoDmNUB9AH9PtC4/Hphnx/qmQ=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.7/file/iterative.dvc-0.3.7.vsix";
+      sha256 = "sha256-oHW5pYXbo7TcGwBL7JDTLig9lxmfFI9i/g48uE7AX6Q=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -14571,10 +14571,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.18.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.18.0/file/mutable-ai.mutable-ai-0.18.0.vsix";
-      sha256 = "sha256-8pDbYg9i7yTYZWjd8DzOTUKD/jOu9q0pOH8zwtk1gsQ=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.20.0/file/mutable-ai.mutable-ai-0.20.0.vsix";
+      sha256 = "sha256-m5h6SNg4r3kSZd/p48TgUxHGmINpfZaml2zK0yUyV4A=";
     };
     license = "";
     name = "mutable-ai";
