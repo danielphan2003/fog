@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cFcxBM0wWxUjdgc9Pcme8gEZWRwtpMTPGGNwvEOq6q0=",
+            "sha256": "sha256-F4cazK2adshANzSZ/D/ahdNMmijte2IDOLtZZLG5Emk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.17/file/TI.devspacesplus-0.0.17.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.18/file/TI.devspacesplus-0.0.18.vsix"
         },
-        "version": "0.0.17"
+        "version": "0.0.18"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -32521,11 +32521,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T8E2FG0I3mPgABkoXgJgViVsYH7qDJWQMmbOIBjCF1w=",
+            "sha256": "sha256-3Ekfb+Ri+Y3fLuQepnmXg201XxE+rxTahDGzwjK5h2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.23.0/file/vscjava.vscode-java-pack-0.23.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.24.0/file/vscjava.vscode-java-pack-0.24.0.vsix"
         },
-        "version": "0.23.0"
+        "version": "0.24.0"
     },
     "vscjava-vscode-java-test": {
         "cargoLocks": null,
@@ -32578,11 +32578,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pubPBdUyOEGu4yCNwtHv3DUSvWl6FomUcVhUtqN6hgs=",
+            "sha256": "sha256-wM/PS99bOln4gM+23N0d0CzK/SAJxHA/pbaSBMnMyX4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.4.0/file/vscjava.vscode-spring-boot-dashboard-0.4.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.5.0/file/vscjava.vscode-spring-boot-dashboard-0.5.0.vsix"
         },
-        "version": "0.4.0"
+        "version": "0.5.0"
     },
     "vscjava-vscode-spring-initializr": {
         "cargoLocks": null,

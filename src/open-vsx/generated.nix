@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.17/file/TI.devspacesplus-0.0.17.vsix";
-      sha256 = "sha256-cFcxBM0wWxUjdgc9Pcme8gEZWRwtpMTPGGNwvEOq6q0=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.18/file/TI.devspacesplus-0.0.18.vsix";
+      sha256 = "sha256-F4cazK2adshANzSZ/D/ahdNMmijte2IDOLtZZLG5Emk=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -20535,10 +20535,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.23.0/file/vscjava.vscode-java-pack-0.23.0.vsix";
-      sha256 = "sha256-T8E2FG0I3mPgABkoXgJgViVsYH7qDJWQMmbOIBjCF1w=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.24.0/file/vscjava.vscode-java-pack-0.24.0.vsix";
+      sha256 = "sha256-3Ekfb+Ri+Y3fLuQepnmXg201XxE+rxTahDGzwjK5h2E=";
     };
     license = "MIT";
     name = "vscode-java-pack";
@@ -20571,10 +20571,10 @@
   };
   vscjava-vscode-spring-boot-dashboard = {
     pname = "vscjava-vscode-spring-boot-dashboard";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.4.0/file/vscjava.vscode-spring-boot-dashboard-0.4.0.vsix";
-      sha256 = "sha256-pubPBdUyOEGu4yCNwtHv3DUSvWl6FomUcVhUtqN6hgs=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.5.0/file/vscjava.vscode-spring-boot-dashboard-0.5.0.vsix";
+      sha256 = "sha256-wM/PS99bOln4gM+23N0d0CzK/SAJxHA/pbaSBMnMyX4=";
     };
     license = "MIT";
     name = "vscode-spring-boot-dashboard";
