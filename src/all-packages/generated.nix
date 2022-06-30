@@ -147,13 +147,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "a5c84896efb80fa760ee1f952cb9c0d0fe01c38e";
+    version = "9ca7bb487a5d1d2d5c102f94cd9e8cb5b6e7ffaa";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "a5c84896efb80fa760ee1f952cb9c0d0fe01c38e";
+      rev = "9ca7bb487a5d1d2d5c102f94cd9e8cb5b6e7ffaa";
       fetchSubmodules = false;
-      sha256 = "sha256-SeE0FvICR4bhMynD0tpRrk5J7ReXrPUh1OBwVMTxc1c=";
+      sha256 = "sha256-RRpwAIYNLkovXI0y/eXO9uRDqB4qQcXlnYYUCEmx/EA=";
     });
   };
   awestore = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d1564299d23b52e6297fa4542ce42e4a54c28cbc";
+    version = "ac8a23c3ae6cd06bd26f49c4df1c99d002bef760";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "d1564299d23b52e6297fa4542ce42e4a54c28cbc";
+      rev = "ac8a23c3ae6cd06bd26f49c4df1c99d002bef760";
       fetchSubmodules = false;
-      sha256 = "sha256-TwPUp230vQNow2KvEZDdjXF9QLXCxAxe2ti7Zo0s8Fo=";
+      sha256 = "sha256-RIYI2p7Pf/Ytyo5aFQQ5VZPS4VmM7XJD4d/uf8vs5w8=";
     });
   };
   ibus = {
@@ -667,10 +667,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.32.3";
+    version = "0.33.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.32.3.tar.gz";
-      sha256 = "sha256-GyYNcUXSNOsM+NYgOZxGXlescCUAAZgd6fRpX6XWENA=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.33.0.tar.gz";
+      sha256 = "sha256-yV1UbCqM9JyA0C+cdlOPfWpKrkJdpe0ZMPYjL+94acc=";
     };
   };
   nix-zsh-completions = {
