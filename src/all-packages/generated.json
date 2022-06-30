@@ -210,7 +210,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "51174271439d19fae649d5c16293a9ee432748b1",
-            "sha256": "sha256-SLXsVRKMmsJnAn8UCyOGvF7xwD99WmtfpEoS/QNMs5w=",
+            "sha256": "sha256-EXI1ZCo7wZPIH1T8Kve7pY5z+qGTfjaIh3sNL5de0M0=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "a3d3a7429c1f39ab2e45e6c2e0f7e0ea9d6d9f92",
-            "sha256": "sha256-vfKQHF8MJJ2/wH5PYL9zDgYUPK1Kfywncb30CnOf498=",
+            "rev": "f4f0b018a12480dd57888ce25de6c60e7c2d8093",
+            "sha256": "sha256-X5cho+dMWquT3UoSwDEpAOpg782+Wa4MbDBY9eDY5H8=",
             "type": "github"
         },
-        "version": "a3d3a7429c1f39ab2e45e6c2e0f7e0ea9d6d9f92"
+        "version": "f4f0b018a12480dd57888ce25de6c60e7c2d8093"
     },
     "caddy": {
         "cargoLocks": null,
@@ -399,7 +399,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-747666fa4276b4500f414e62aba9ab04077d040d/src-tauri/Cargo.lock",
+                "./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -414,11 +414,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "747666fa4276b4500f414e62aba9ab04077d040d",
-            "sha256": "sha256-Jri3/5E/b4YAxx36MBjXBV2f446kL24luuUm9N4MHJM=",
+            "rev": "d8eacb4673e217bf9edce5c58b60c099fe74c37d",
+            "sha256": "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=",
             "type": "github"
         },
-        "version": "747666fa4276b4500f414e62aba9ab04077d040d"
+        "version": "d8eacb4673e217bf9edce5c58b60c099fe74c37d"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -455,7 +455,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "0b926c2a31deff57a3526dd75d8c08775b02241a",
-            "sha256": "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=",
+            "sha256": "sha256-sxjzlWEXzwac++f/VSbLHksVutQXj740Mw6Tb5ncwDU=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
@@ -684,7 +684,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "c712644d6482404a709788869fc689b00142aa2d",
-            "sha256": "sha256-ZfQbGt2u7yubPIWS4wSJL9S+wLTslHBbl7VCdetTiVU=",
+            "sha256": "sha256-FXak5MwPpnQn+L7vXxcUBEeo3ZpUJxJrzjhUaaGrpBQ=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
@@ -1304,7 +1304,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "58c39f2cb2fbf31087396322e128b97f6db63ec6",
-            "sha256": "sha256-JN03MBfIR15xaPfzNaRD/cDGQJJC1mv059F9BvCEkVM=",
+            "sha256": "sha256-gFSuUXIteApI3l+Rjr+ko+SCLFAYVj/qGo6px0+ReCo=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
@@ -1520,11 +1520,11 @@
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
-                    "parity-tokio-ipc-0.7.3": "sha256-9m9YQoJ3Vaet25TL40Yb76zHRlnnsreW/EOMb/R7cRk=",
+                    "parity-tokio-ipc-0.7.3": "sha256-BaO/iO1dHkXEsmmUwIkoBlZvkfN/pP5KGo3M8g4C6rM=",
                     "rdev-0.5.0": "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=",
                     "rust-pulsectl-0.2.12": "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=",
                     "sciter-rs-0.5.57": "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=",
-                    "tokio-socks-0.5.1": "sha256-sR3Pa3PIKB+3M8pnC/jzwdR5rsUVOqZbon893G34TUw="
+                    "tokio-socks-0.5.1": "sha256-e81g0H0htsLFBlHCLF/X07vGnfn896gq6FXpr/6h67s="
                 }
             ]
         },
@@ -1675,7 +1675,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "e54eae7f9291cb2588bc67b322f9b1aa09c6ebf4",
-            "sha256": "sha256-F+R/UqUsQSe4HQB7LogdQ3xDrnruFDheClzWIQ2OoHk=",
+            "sha256": "sha256-w6k2AZJ9YNt0Tq0oBcvqgj+FosiZ+HnT7xy0vUL7SRw=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
@@ -1793,7 +1793,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "715716cfd924dc2105b377d3f4cc437593f47fc6",
-            "sha256": "sha256-hdHZ1GNhEotyOOPW3PJMe4+sdTqwic7iCnVsA5a1F1c=",
+            "sha256": "sha256-gb+bQpUkwVdlFoFKdssEwJjxOGMGshhZk18ox4HDx+k=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
@@ -2192,7 +2192,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "db5ff12110994dc9010d44f981399e796917a845",
-            "sha256": "sha256-fLR1xisiJhLGUaSXJci19Ut6Ro6k0OnnIC/5VZjlsB8=",
+            "sha256": "sha256-bq2lOEllWAVXisZZg153PJyUAlt96CYCl3EJacRHz9Q=",
             "type": "git",
             "url": "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
         },
@@ -2229,7 +2229,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "cf30498fb8f1da11912e7abc4e44975cd2f4c61b",
-            "sha256": "sha256-SbOtCufDBwVal18cZpB8wV7Q8ialSCPiaKEWiC9w8/E=",
+            "sha256": "sha256-b8Anmu0XO/84C5DsdhgXKpuSzLgvR1wM0hD/7zaKccs=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
