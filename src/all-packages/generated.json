@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "92890d492a2dea43837591de79ffec828b50d6e2",
-            "sha256": "sha256-sa7eWkm/0TZVRBIa3dUTqzz73P7+BpvERyMUP0B/5fQ=",
+            "rev": "91d68513de5b182103393ee4abd3eb37db905bee",
+            "sha256": "sha256-KEiG3kSzVCvYptZUpavl0Pdqp3JJ9P+DlvKoLBpJinE=",
             "type": "github"
         },
-        "version": "92890d492a2dea43837591de79ffec828b50d6e2"
+        "version": "91d68513de5b182103393ee4abd3eb37db905bee"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1934,7 +1934,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "934c567096bbe5104d6ad7a21014d04b1b198052"
+        "version": "e2ed6e3084ea516b259fca4adaed41268e4e1561"
     },
     "ulauncher": {
         "cargoLocks": null,
