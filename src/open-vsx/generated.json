@@ -6244,11 +6244,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ESPNwGng/dxHbiVRzc+oFoYMEnqlw1AMKqEjzR0mW1c=",
+            "sha256": "sha256-zQzGZCer/kmDRhh3d4yKd6mI3ojCQv4c8QBhjtGg4zM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.10.5/file/YXL.cloudmusic-9.10.5.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.10.6/file/YXL.cloudmusic-9.10.6.vsix"
         },
-        "version": "9.10.5"
+        "version": "9.10.6"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -8733,11 +8733,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3SCRLJogDu2RENPOFHqE47oetJsBqS+BgMAvggnMPig=",
+            "sha256": "sha256-5V2x/RtIcQligGs09o6mgEAS4GW9L/aGI1EsxmrmXbk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.86/file/asvetliakov.vscode-neovim-0.0.86.vsix"
+            "url": "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.87/file/asvetliakov.vscode-neovim-0.0.87.vsix"
         },
-        "version": "0.0.86"
+        "version": "0.0.87"
     },
     "atishay-jain-All-Autocomplete": {
         "cargoLocks": null,
@@ -12039,11 +12039,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yXX0H7LW70D25Np+iVuH1jRWweZEKdU0GiwZmXVP2wQ=",
+            "sha256": "sha256-n/BHVkMrLRKjXWilaeRIWALQvSZq62NGHaJpKlffj3M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.2/file/dcasella.monokai-plusplus-2.0.2.vsix"
+            "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.4/file/dcasella.monokai-plusplus-2.0.4.vsix"
         },
-        "version": "2.0.2"
+        "version": "2.0.4"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -13350,11 +13350,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eS97BOhHL215C1dk91b4mBwBgcXXMdLRcjpmCfX61Ew=",
+            "sha256": "sha256-DKZTmnXnl4m/vBbtoOw+/lK4rfsIq2CSw7Ty8cUivLU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.6/file/enkia.tokyo-night-0.8.6.vsix"
+            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.7/file/enkia.tokyo-night-0.8.7.vsix"
         },
-        "version": "0.8.6"
+        "version": "0.8.7"
     },
     "entan-gl-cc65-vice": {
         "cargoLocks": null,
@@ -21862,11 +21862,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a+brDxqQ7Xqazy+bnqImIXyEX9gNVArUq67TpkBqH4c=",
+            "sha256": "sha256-Xc37AlSrE2ral+paLkcX7zXpm/+kTbNObIaTqp7rdRM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/1.4.6/file/ms-edgedevtools.vscode-edge-devtools-1.4.6.vsix"
+            "url": "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/2.1.0/file/ms-edgedevtools.vscode-edge-devtools-2.1.0.vsix"
         },
-        "version": "1.4.6"
+        "version": "2.1.0"
     },
     "ms-kubernetes-tools-vscode-kubernetes-tools": {
         "cargoLocks": null,
@@ -21995,11 +21995,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mszJqaYB8BMqaFnroYrOxCAtvqivJ50GKSlf762Z0KI=",
+            "sha256": "sha256-84N3kSIenrqMEJlORa87lGMlYRzVHfWoTScnAw6MN/o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-python/python/2022.8.0/file/ms-python.python-2022.8.0.vsix"
+            "url": "https://open-vsx.org/api/ms-python/python/2022.8.1/file/ms-python.python-2022.8.1.vsix"
         },
-        "version": "2022.8.0"
+        "version": "2022.8.1"
     },
     "ms-toolsai-jupyter": {
         "cargoLocks": null,

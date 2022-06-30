@@ -3939,10 +3939,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.10.5";
+    version = "9.10.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.5/file/YXL.cloudmusic-9.10.5.vsix";
-      sha256 = "sha256-ESPNwGng/dxHbiVRzc+oFoYMEnqlw1AMKqEjzR0mW1c=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.6/file/YXL.cloudmusic-9.10.6.vsix";
+      sha256 = "sha256-zQzGZCer/kmDRhh3d4yKd6mI3ojCQv4c8QBhjtGg4zM=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -5511,10 +5511,10 @@
   };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
-    version = "0.0.86";
+    version = "0.0.87";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.86/file/asvetliakov.vscode-neovim-0.0.86.vsix";
-      sha256 = "sha256-3SCRLJogDu2RENPOFHqE47oetJsBqS+BgMAvggnMPig=";
+      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.87/file/asvetliakov.vscode-neovim-0.0.87.vsix";
+      sha256 = "sha256-5V2x/RtIcQligGs09o6mgEAS4GW9L/aGI1EsxmrmXbk=";
     };
     license = "MIT";
     name = "vscode-neovim";
@@ -7599,10 +7599,10 @@
   };
   dcasella-monokai-plusplus = {
     pname = "dcasella-monokai-plusplus";
-    version = "2.0.2";
+    version = "2.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.2/file/dcasella.monokai-plusplus-2.0.2.vsix";
-      sha256 = "sha256-yXX0H7LW70D25Np+iVuH1jRWweZEKdU0GiwZmXVP2wQ=";
+      url = "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.4/file/dcasella.monokai-plusplus-2.0.4.vsix";
+      sha256 = "sha256-n/BHVkMrLRKjXWilaeRIWALQvSZq62NGHaJpKlffj3M=";
     };
     license = "MIT";
     name = "monokai-plusplus";
@@ -8427,10 +8427,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.8.6";
+    version = "0.8.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.6/file/enkia.tokyo-night-0.8.6.vsix";
-      sha256 = "sha256-eS97BOhHL215C1dk91b4mBwBgcXXMdLRcjpmCfX61Ew=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.7/file/enkia.tokyo-night-0.8.7.vsix";
+      sha256 = "sha256-DKZTmnXnl4m/vBbtoOw+/lK4rfsIq2CSw7Ty8cUivLU=";
     };
     license = "MIT";
     name = "tokyo-night";
@@ -13803,10 +13803,10 @@
   };
   ms-edgedevtools-vscode-edge-devtools = {
     pname = "ms-edgedevtools-vscode-edge-devtools";
-    version = "1.4.6";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/1.4.6/file/ms-edgedevtools.vscode-edge-devtools-1.4.6.vsix";
-      sha256 = "sha256-a+brDxqQ7Xqazy+bnqImIXyEX9gNVArUq67TpkBqH4c=";
+      url = "https://open-vsx.org/api/ms-edgedevtools/vscode-edge-devtools/2.1.0/file/ms-edgedevtools.vscode-edge-devtools-2.1.0.vsix";
+      sha256 = "sha256-Xc37AlSrE2ral+paLkcX7zXpm/+kTbNObIaTqp7rdRM=";
     };
     license = "MIT";
     name = "vscode-edge-devtools";
@@ -13887,10 +13887,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.8.0";
+    version = "2022.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.8.0/file/ms-python.python-2022.8.0.vsix";
-      sha256 = "sha256-mszJqaYB8BMqaFnroYrOxCAtvqivJ50GKSlf762Z0KI=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.8.1/file/ms-python.python-2022.8.1.vsix";
+      sha256 = "sha256-84N3kSIenrqMEJlORa87lGMlYRzVHfWoTScnAw6MN/o=";
     };
     license = "MIT";
     name = "python";
