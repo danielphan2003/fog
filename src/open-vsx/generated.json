@@ -4553,11 +4553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dg02qc/32QL3WSvK65UZEK2WWQJvauiNn58T2BIP2vs=",
+            "sha256": "sha256-a+RAMchGi3YzOE/XTakuO7+BQofnFPhHMrFZaRXGx4Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1124/file/Prisma.prisma-insider-31.0.1124.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1125/file/Prisma.prisma-insider-31.0.1125.vsix"
         },
-        "version": "31.0.1124"
+        "version": "31.0.1125"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xia0kXO3g/TPhFwpUEBOA25n7SCLl2K6rqmATpHIlPA=",
+            "sha256": "sha256-cFcxBM0wWxUjdgc9Pcme8gEZWRwtpMTPGGNwvEOq6q0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.15/file/TI.devspacesplus-0.0.15.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.17/file/TI.devspacesplus-0.0.17.vsix"
         },
-        "version": "0.0.15"
+        "version": "0.0.17"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -9056,11 +9056,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Wq+GroEd97iDsTYowB0qsgVSMmq+N90n7oLZQFor/1Q=",
+            "sha256": "sha256-3oOCoI+c4XhFhfRMUzRZCuNwbIszmGKyFDluGM95pP4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.5/file/base9-theme.base9-vscode-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.6/file/base9-theme.base9-vscode-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "batisteo-vscode-django": {
         "cargoLocks": null,
@@ -9493,11 +9493,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-In0Qzdp53NoQUXimfXVnTSFx8ghCZij11BEuHcn4gmg=",
+            "sha256": "sha256-eVUkBMjnWvXIUEOFcn34YzcJdwDJEmmFl6OHtv3X4/U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.9/file/bmcsoftware.jobs-as-code-0.2.9.vsix"
+            "url": "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.3.1/file/bmcsoftware.jobs-as-code-0.3.1.vsix"
         },
-        "version": "0.2.9"
+        "version": "0.3.1"
     },
     "bmd-stm32-for-vscode": {
         "cargoLocks": null,
@@ -12267,11 +12267,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3R6yUjiIgvt6EUMfimL0EF0Oz/AFbFU1wvTD/fFGAHA=",
+            "sha256": "sha256-b8OwK43o8QG3XufnfR+K81Duc2xUcx+9k906hIVRu6g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.101.1/file/dendron.nightly-0.101.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.101.2/file/dendron.nightly-0.101.2.vsix"
         },
-        "version": "0.101.1"
+        "version": "0.101.2"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -16998,11 +16998,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qMzjSUb85bOr1cTKK8mDziCjET/1v4mynBwub8aEmHg=",
+            "sha256": "sha256-AdOaWbAJgUYsR+/nJ66jFrTP62ZRrxUz6UAS8ASUHwE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.1/file/innoverio.vscode-dbt-power-user-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.2/file/innoverio.vscode-dbt-power-user-0.6.2.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.6.2"
     },
     "intersystems-community-servermanager": {
         "cargoLocks": null,

@@ -2871,10 +2871,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1124";
+    version = "31.0.1125";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1124/file/Prisma.prisma-insider-31.0.1124.vsix";
-      sha256 = "sha256-dg02qc/32QL3WSvK65UZEK2WWQJvauiNn58T2BIP2vs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1125/file/Prisma.prisma-insider-31.0.1125.vsix";
+      sha256 = "sha256-a+RAMchGi3YzOE/XTakuO7+BQofnFPhHMrFZaRXGx4Q=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.15";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.15/file/TI.devspacesplus-0.0.15.vsix";
-      sha256 = "sha256-xia0kXO3g/TPhFwpUEBOA25n7SCLl2K6rqmATpHIlPA=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.17/file/TI.devspacesplus-0.0.17.vsix";
+      sha256 = "sha256-cFcxBM0wWxUjdgc9Pcme8gEZWRwtpMTPGGNwvEOq6q0=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5715,10 +5715,10 @@
   };
   base9-theme-base9-vscode = {
     pname = "base9-theme-base9-vscode";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.5/file/base9-theme.base9-vscode-0.0.5.vsix";
-      sha256 = "sha256-Wq+GroEd97iDsTYowB0qsgVSMmq+N90n7oLZQFor/1Q=";
+      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.6/file/base9-theme.base9-vscode-0.0.6.vsix";
+      sha256 = "sha256-3oOCoI+c4XhFhfRMUzRZCuNwbIszmGKyFDluGM95pP4=";
     };
     license = "MIT";
     name = "base9-vscode";
@@ -5991,10 +5991,10 @@
   };
   bmcsoftware-jobs-as-code = {
     pname = "bmcsoftware-jobs-as-code";
-    version = "0.2.9";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.2.9/file/bmcsoftware.jobs-as-code-0.2.9.vsix";
-      sha256 = "sha256-In0Qzdp53NoQUXimfXVnTSFx8ghCZij11BEuHcn4gmg=";
+      url = "https://open-vsx.org/api/bmcsoftware/jobs-as-code/0.3.1/file/bmcsoftware.jobs-as-code-0.3.1.vsix";
+      sha256 = "sha256-eVUkBMjnWvXIUEOFcn34YzcJdwDJEmmFl6OHtv3X4/U=";
     };
     license = "BSD-3-Clause";
     name = "jobs-as-code";
@@ -7743,10 +7743,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.101.1";
+    version = "0.101.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.101.1/file/dendron.nightly-0.101.1.vsix";
-      sha256 = "sha256-3R6yUjiIgvt6EUMfimL0EF0Oz/AFbFU1wvTD/fFGAHA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.101.2/file/dendron.nightly-0.101.2.vsix";
+      sha256 = "sha256-b8OwK43o8QG3XufnfR+K81Duc2xUcx+9k906hIVRu6g=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -10731,10 +10731,10 @@
   };
   innoverio-vscode-dbt-power-user = {
     pname = "innoverio-vscode-dbt-power-user";
-    version = "0.6.1";
+    version = "0.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.1/file/innoverio.vscode-dbt-power-user-0.6.1.vsix";
-      sha256 = "sha256-qMzjSUb85bOr1cTKK8mDziCjET/1v4mynBwub8aEmHg=";
+      url = "https://open-vsx.org/api/innoverio/vscode-dbt-power-user/0.6.2/file/innoverio.vscode-dbt-power-user-0.6.2.vsix";
+      sha256 = "sha256-AdOaWbAJgUYsR+/nJ66jFrTP62ZRrxUz6UAS8ASUHwE=";
     };
     license = "MIT";
     name = "vscode-dbt-power-user";
