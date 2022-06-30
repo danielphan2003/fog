@@ -329,13 +329,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "96e11c01a72f6006e08d8921d79931f40d0f921c";
+    version = "c5d002064523b721d4b7ef9b8c8d146f798a644d";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "96e11c01a72f6006e08d8921d79931f40d0f921c";
+      rev = "c5d002064523b721d4b7ef9b8c8d146f798a644d";
       fetchSubmodules = false;
-      sha256 = "sha256-5QWM0P3tMfJvb3tJr2YUkKf1ATbU/15MVryoT0KAEak=";
+      sha256 = "sha256-RdKvsNJ52Z0e3jpbx/DJf//5CdStxKup4wv4EcpKJZk=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -1111,13 +1111,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "88c2afd1e3c4b672186bbc28b06ba1664ee20e92";
+    version = "aa37aece9c007de64042ba2f882b4f0c703b2c1b";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "88c2afd1e3c4b672186bbc28b06ba1664ee20e92";
+      rev = "aa37aece9c007de64042ba2f882b4f0c703b2c1b";
       fetchSubmodules = false;
-      sha256 = "sha256-yqKWRo2z2TDrihf5wZkTSCgyiDsG4O9WiesUOdxqdDs=";
+      sha256 = "sha256-I8QOCkLOsitQGb9oppTbp4Zchpu5WxzAbNbpVGcKn3A=";
     });
   };
   tailscale-systray = {
