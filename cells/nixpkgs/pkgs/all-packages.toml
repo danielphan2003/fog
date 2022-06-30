@@ -407,6 +407,10 @@ fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoY
 
 ## spotify
 
+[spotify-1_1_83_954_gd226dfe8]
+src.manual = "1.1.83.954.gd226dfe8"
+fetch.url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_59.snap"
+
 [spotifyd]
 src.git = "https://github.com/Spotifyd/spotifyd"
 fetch.github = "Spotifyd/spotifyd"
