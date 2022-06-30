@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "de5241dd4edfdaef6d1e3b270c6d5d4686d46a2a";
+    version = "9a12fcca2441dcc45342d506eb202071b2ffccae";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "de5241dd4edfdaef6d1e3b270c6d5d4686d46a2a";
+      rev = "9a12fcca2441dcc45342d506eb202071b2ffccae";
       fetchSubmodules = false;
-      sha256 = "sha256-XdRhqN6geLLhbvHazR32PfUt6YMzc4dZoO/Bc1XwjuE=";
+      sha256 = "sha256-ffmURVqtd7FdTsHxXRfrCJuckFUubmtQYBIMFTweR/8=";
     });
   };
   fluffychat = {
