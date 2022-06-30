@@ -14547,14 +14547,14 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.17.0";
+    version = "0.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.17.0/file/mutable-ai.mutable-ai-0.17.0.vsix";
-      sha256 = "sha256-0R5sdutDxxh2qoSUs9PEcvfrHar75DIkeiDs6TTxOSY=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.18.0/file/mutable-ai.mutable-ai-0.18.0.vsix";
+      sha256 = "sha256-8pDbYg9i7yTYZWjd8DzOTUKD/jOu9q0pOH8zwtk1gsQ=";
     };
     license = "";
     name = "mutable-ai";
-    description = "An AI code suggestion tool";
+    description = "AI Accelerated Programming";
     publisher = "mutable-ai";
   };
   muuvmuuv-vscode-sundial = {
