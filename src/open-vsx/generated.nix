@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.19";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.19/file/TI.devspacesplus-0.0.19.vsix";
-      sha256 = "sha256-tBuePaIHrP4glIz/R/TeYbgScuUnKBuf/YFKx1IlHJs=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.20/file/TI.devspacesplus-0.0.20.vsix";
+      sha256 = "sha256-vmq1lYDXHqkgdJsKnBxGQtUjNU7wjtTU4X/enHr/yuE=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -4080,6 +4080,18 @@
     name = "notebook-theme";
     description = "a VSCode port of Yorick Peterse's \"Paper\" terminal theme";
     publisher = "18kimn";
+  };
+  _1Password-op-vscode = {
+    pname = "_1Password-op-vscode";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/1Password/op-vscode/1.0.0/file/1Password.op-vscode-1.0.0.vsix";
+      sha256 = "sha256-zPMQ7cg4ng4iE09ht6YgVGfIym/PsV39HWUUN3wwrzc=";
+    };
+    license = "MIT";
+    name = "op-vscode";
+    description = "Say goodbye to plaintext secrets in your code";
+    publisher = "1Password";
   };
   _21zz-vscord = {
     pname = "_21zz-vscord";
@@ -8211,10 +8223,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.58.0";
+    version = "0.59.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.58.0/file/edukera.archetype-0.58.0.vsix";
-      sha256 = "sha256-qxn0aRsc8Y4y54RfDl74i3MFXxmr9DXRrGlS6FEjrXg=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.59.0/file/edukera.archetype-0.59.0.vsix";
+      sha256 = "sha256-5twRrii8PoZOytM8CHeL4J83XOKPr35yCwY+7/kiCCw=";
     };
     license = "MIT";
     name = "archetype";
@@ -15939,10 +15951,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.369";
+    version = "0.26.370";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.369/file/pokey.cursorless-0.26.369.vsix";
-      sha256 = "sha256-BDPiC/xxhA3HM9MVTqSPynJ8luzJmrVVatb4otCTuCQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.370/file/pokey.cursorless-0.26.370.vsix";
+      sha256 = "sha256-6kysYlI+zpLc3WHD5LGuDrzwioMrP/yYJgwfsToCTxE=";
     };
     license = "MIT";
     name = "cursorless";
@@ -16575,10 +16587,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.7.0";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.7.0/file/redhat.java-1.7.0.vsix";
-      sha256 = "sha256-JUjBt4ZCmDG/8jLu6GwrVMptB6bPxAJ3TJr5V2ZY9Cc=";
+      url = "https://open-vsx.org/api/redhat/java/1.8.0/file/redhat.java-1.8.0.vsix";
+      sha256 = "sha256-rywQsVeT3E+KDZZ1N5Ytv01haUp48yTyuQB7e7yXOMo=";
     };
     license = "EPL-2.0";
     name = "java";
@@ -16827,10 +16839,10 @@
   };
   redhat-vscode-xml = {
     pname = "redhat-vscode-xml";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-xml/0.20.0/file/redhat.vscode-xml-0.20.0.vsix";
-      sha256 = "sha256-GKBrf9s8n7Wv14RSfwyDma1dM0fGMvRkU/7v2DAcB9A=";
+      url = "https://open-vsx.org/api/redhat/vscode-xml/0.21.0/file/redhat.vscode-xml-0.21.0.vsix";
+      sha256 = "sha256-/onZ7yzhmcRBrLsZbCFy3O0rSixWDM/HIohRDjvi8a8=";
     };
     license = "EPL-2.0";
     name = "vscode-xml";
@@ -18267,10 +18279,10 @@
   };
   sourcegraph-sourcegraph = {
     pname = "sourcegraph-sourcegraph";
-    version = "2.2.5";
+    version = "2.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.5/file/sourcegraph.sourcegraph-2.2.5.vsix";
-      sha256 = "sha256-RzAOlcmZEIssFvu+K3Bg7LzDIw60+HhPcFlvCscOvnY=";
+      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.6/file/sourcegraph.sourcegraph-2.2.6.vsix";
+      sha256 = "sha256-UaOsFLg3KGFuYqLGwyWM6OpjWuzEJDv5fwggLOe5xcE=";
     };
     license = "Apache-2.0";
     name = "sourcegraph";
