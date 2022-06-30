@@ -415,7 +415,7 @@
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
             "rev": "d8eacb4673e217bf9edce5c58b60c099fe74c37d",
-            "sha256": "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=",
+            "sha256": "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=",
             "type": "github"
         },
         "version": "d8eacb4673e217bf9edce5c58b60c099fe74c37d"
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "ac8a23c3ae6cd06bd26f49c4df1c99d002bef760",
-            "sha256": "sha256-RIYI2p7Pf/Ytyo5aFQQ5VZPS4VmM7XJD4d/uf8vs5w8=",
+            "rev": "96a23eca8168739fd27e14c2b0236a368572535a",
+            "sha256": "sha256-846Ra9pD6yvzKOYOHKtHF53E36+OI/PHU08dlJrulu4=",
             "type": "github"
         },
-        "version": "ac8a23c3ae6cd06bd26f49c4df1c99d002bef760"
+        "version": "96a23eca8168739fd27e14c2b0236a368572535a"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1700,6 +1700,25 @@
         },
         "version": "64bfa38796eb82ea1221c4abf0b3e6c907feba8f"
     },
+    "spicetify-marketplace": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "spicetify-marketplace",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "spicetify",
+            "repo": "spicetify-marketplace",
+            "rev": "da55bc63ce61adc39bd588e1bcd1302041cef343",
+            "sha256": "sha256-2DFz+gatiY8jnhOBc7DXvfvVWczWK3unXfn4B+09Fwk=",
+            "type": "github"
+        },
+        "version": "da55bc63ce61adc39bd588e1bcd1302041cef343"
+    },
     "spicetify-themes": {
         "cargoLocks": null,
         "extract": null,
@@ -1732,6 +1751,20 @@
             "url": "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_60.snap"
         },
         "version": "1.1.84.716.gc5f8b819"
+    },
+    "spotify-1_1_83_954_gd226dfe8": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "spotify-1_1_83_954_gd226dfe8",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-IAktrSHXcoO6MxId4mJphMknOik0NG67Imwy4pLFCk8=",
+            "type": "url",
+            "url": "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_59.snap"
+        },
+        "version": "1.1.83.954.gd226dfe8"
     },
     "spotifyd": {
         "cargoLocks": {

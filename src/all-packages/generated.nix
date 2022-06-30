@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
+      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ac8a23c3ae6cd06bd26f49c4df1c99d002bef760";
+    version = "96a23eca8168739fd27e14c2b0236a368572535a";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "ac8a23c3ae6cd06bd26f49c4df1c99d002bef760";
+      rev = "96a23eca8168739fd27e14c2b0236a368572535a";
       fetchSubmodules = false;
-      sha256 = "sha256-RIYI2p7Pf/Ytyo5aFQQ5VZPS4VmM7XJD4d/uf8vs5w8=";
+      sha256 = "sha256-846Ra9pD6yvzKOYOHKtHF53E36+OI/PHU08dlJrulu4=";
     });
   };
   ibus = {
@@ -1022,6 +1022,17 @@
       sha256 = "sha256-BdJ2xsSCK7uRSR9VYcSz8NFy2nUS0lqSR2gE6aSfF1k=";
     });
   };
+  spicetify-marketplace = {
+    pname = "spicetify-marketplace";
+    version = "da55bc63ce61adc39bd588e1bcd1302041cef343";
+    src = fetchFromGitHub ({
+      owner = "spicetify";
+      repo = "spicetify-marketplace";
+      rev = "da55bc63ce61adc39bd588e1bcd1302041cef343";
+      fetchSubmodules = false;
+      sha256 = "sha256-2DFz+gatiY8jnhOBc7DXvfvVWczWK3unXfn4B+09Fwk=";
+    });
+  };
   spicetify-themes = {
     pname = "spicetify-themes";
     version = "dd7a7e13e0dc7a717cc06bba9ea04ed29d70a30e";
@@ -1039,6 +1050,14 @@
     src = fetchurl {
       url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_60.snap";
       sha256 = "sha256-ho3WjGNjmHsERzC3FLgliuVSQWK2F5ec0ddQSfq6oyI=";
+    };
+  };
+  spotify-1_1_83_954_gd226dfe8 = {
+    pname = "spotify-1_1_83_954_gd226dfe8";
+    version = "1.1.83.954.gd226dfe8";
+    src = fetchurl {
+      url = "https://api.snapcraft.io/api/v1/snaps/download/pOBIoZ2LrCB3rDohMxoYGnbN14EHOgD7_59.snap";
+      sha256 = "sha256-IAktrSHXcoO6MxId4mJphMknOik0NG67Imwy4pLFCk8=";
     };
   };
   spotifyd = {
