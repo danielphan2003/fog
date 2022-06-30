@@ -243,10 +243,10 @@
   };
   BroadcomMFD-abend-analyzer = {
     pname = "BroadcomMFD-abend-analyzer";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/1.0.0/file/BroadcomMFD.abend-analyzer-1.0.0.vsix";
-      sha256 = "sha256-aloWW2j9fWQgK0PkRR2AkUvAwNATIyBLPrTvWum70Iw=";
+      url = "https://open-vsx.org/api/BroadcomMFD/abend-analyzer/1.0.1/file/BroadcomMFD.abend-analyzer-1.0.1.vsix";
+      sha256 = "sha256-Hn58ae0QfU1UJWUMVAsnLAORZM1cuD7CufWK3//ueKw=";
     };
     license = "";
     name = "abend-analyzer";
@@ -3159,10 +3159,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.5";
+    version = "4.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.5/file/Sarrus.sourcepawn-vscode-4.0.5.vsix";
-      sha256 = "sha256-APbjZ4suwnA5ed7MKveFJbWNLXN1qwkcH4p45V+qsB8=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.6/file/Sarrus.sourcepawn-vscode-4.0.6.vsix";
+      sha256 = "sha256-ia2+NJAUu1tgAQ1dwSQhYCUYvl/0b9gR71YFhEnopys=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.18/file/TI.devspacesplus-0.0.18.vsix";
-      sha256 = "sha256-F4cazK2adshANzSZ/D/ahdNMmijte2IDOLtZZLG5Emk=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.19/file/TI.devspacesplus-0.0.19.vsix";
+      sha256 = "sha256-tBuePaIHrP4glIz/R/TeYbgScuUnKBuf/YFKx1IlHJs=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5520,6 +5520,18 @@
     name = "vscode-neovim";
     description = "VSCode Neovim Integration";
     publisher = "asvetliakov";
+  };
+  asyncapi-asyncapi-preview = {
+    pname = "asyncapi-asyncapi-preview";
+    version = "0.3.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.5/file/asyncapi.asyncapi-preview-0.3.5.vsix";
+      sha256 = "sha256-XJi6D4/sjq7o4Ib6kzXgVhdyZD76/8ha/EEc/XUSO/s=";
+    };
+    license = "Apache-2.0";
+    name = "asyncapi-preview";
+    description = "Preview AsyncAPI documents inside VSCode.";
+    publisher = "asyncapi";
   };
   atishay-jain-All-Autocomplete = {
     pname = "atishay-jain-All-Autocomplete";
@@ -8619,10 +8631,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.43";
+    version = "1.3.44";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.43/file/everscale.solidity-support-1.3.43.vsix";
-      sha256 = "sha256-TiIl4GIbLAvADJyYp5a1vVX3LfBpMRqcQ2Hff5D6/h4=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.44/file/everscale.solidity-support-1.3.44.vsix";
+      sha256 = "sha256-loFXrUJ4HYn4fTd4g8CGieu9d4k60XRID5gagfIzuZA=";
     };
     license = "Apache-2.0";
     name = "solidity-support";
