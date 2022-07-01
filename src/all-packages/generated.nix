@@ -362,13 +362,13 @@
   };
   duf = {
     pname = "duf";
-    version = "052fb2661d9f2c78eb9dfae09c01ea85c83009ed";
+    version = "555e94fa40d0410de6245a913d23bc3fd921d0df";
     src = fetchFromGitHub ({
       owner = "muesli";
       repo = "duf";
-      rev = "052fb2661d9f2c78eb9dfae09c01ea85c83009ed";
+      rev = "555e94fa40d0410de6245a913d23bc3fd921d0df";
       fetchSubmodules = false;
-      sha256 = "sha256-eOd9h8f6yp3ju5MGMdAuBQnYPVZk0Jj/DaXJGM5HqCs=";
+      sha256 = "sha256-8rLZiwQEimZMsDjJo+H+6t2MblHmKosF6KgZoRLTGis=";
     });
   };
   eww = {
