@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "20ddb6e68c96bb188a6b767563a41302aa987215";
+    version = "7fd9f8f65e062d2e4d9fd384c836572e05d44c8b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "20ddb6e68c96bb188a6b767563a41302aa987215";
+      rev = "7fd9f8f65e062d2e4d9fd384c836572e05d44c8b";
       fetchSubmodules = false;
-      sha256 = "sha256-GceudGDgFldSBs7NLgNn/CiLkBXTL4R1l6361oOa22U=";
+      sha256 = "sha256-rA3CCVWnH4700EOzr+/TSbGkTpmIW3zw/HF2LLW6lpU=";
     });
   };
   caddy = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ab208fca915e07df7197d024b6e291306ea52a9c";
+    version = "6bc73ed8af0ff48f78893da5933c5430e5884ec9";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ab208fca915e07df7197d024b6e291306ea52a9c";
+      rev = "6bc73ed8af0ff48f78893da5933c5430e5884ec9";
       fetchSubmodules = false;
-      sha256 = "sha256-V1rUiVzq2vI6XoGBfgf//0kPjjYPQMQ7ntmm83fh0xA=";
+      sha256 = "sha256-MMds5vRcqx+Ghyav6iiKC7XfTidn0Rl8y9kYJqco36c=";
     });
   };
   rofi-wayland = {
@@ -910,16 +910,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "89711d452384275e9608896f855c93797d922b9d";
+    version = "b32d643f8cd5a1a64e7210db8b50c60f9da65ee1";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "89711d452384275e9608896f855c93797d922b9d";
+      rev = "b32d643f8cd5a1a64e7210db8b50c60f9da65ee1";
       fetchSubmodules = false;
-      sha256 = "sha256-x4GtxSOY+1YF3oFVN06POX+W+vT9wIgUFBwZ6awd3RE=";
+      sha256 = "sha256-xtAR+6V6oVP0O+Q7bCd5YIZCoD0DuQIvpYS85ZiTSDA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-89711d452384275e9608896f855c93797d922b9d/Cargo.lock;
+      lockFile = ./rustdesk-b32d643f8cd5a1a64e7210db8b50c60f9da65ee1/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
