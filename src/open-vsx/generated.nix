@@ -18279,10 +18279,10 @@
   };
   sourcegraph-sourcegraph = {
     pname = "sourcegraph-sourcegraph";
-    version = "2.2.6";
+    version = "2.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.6/file/sourcegraph.sourcegraph-2.2.6.vsix";
-      sha256 = "sha256-UaOsFLg3KGFuYqLGwyWM6OpjWuzEJDv5fwggLOe5xcE=";
+      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.7/file/sourcegraph.sourcegraph-2.2.7.vsix";
+      sha256 = "sha256-jGsGr/3Chb1L0vWKjy5IBpZrKLwZbtdi2TiyVvaVbEA=";
     };
     license = "Apache-2.0";
     name = "sourcegraph";

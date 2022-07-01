@@ -28949,11 +28949,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UaOsFLg3KGFuYqLGwyWM6OpjWuzEJDv5fwggLOe5xcE=",
+            "sha256": "sha256-jGsGr/3Chb1L0vWKjy5IBpZrKLwZbtdi2TiyVvaVbEA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.6/file/sourcegraph.sourcegraph-2.2.6.vsix"
+            "url": "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.7/file/sourcegraph.sourcegraph-2.2.7.vsix"
         },
-        "version": "2.2.6"
+        "version": "2.2.7"
     },
     "sourcery-sourcery": {
         "cargoLocks": null,
