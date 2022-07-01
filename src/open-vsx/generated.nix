@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.26";
+    version = "0.0.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.26/file/TI.devspacesplus-0.0.26.vsix";
-      sha256 = "sha256-Z9xzbkiC7Zx9EXuMDXusKssxm4mIN4qKBvsRkMN2f4M=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.28/file/TI.devspacesplus-0.0.28.vsix";
+      sha256 = "sha256-GsFM/m5FTL2VuPszV4XuYUBPka6/jpo0lT3DVR+XD+w=";
     };
     license = "MIT";
     name = "devspacesplus";
