@@ -759,10 +759,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.42.1";
+    version = "3.44.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.42.1/file/Dart-Code.dart-code-3.42.1.vsix";
-      sha256 = "sha256-nfHgV6147qSfJjraWAtcJZcVDnO9MWOhWz3G3HJXeFQ=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.44.0/file/Dart-Code.dart-code-3.44.0.vsix";
+      sha256 = "sha256-qJOjgV+3dWnLGp/uvyp4VRdf4uVODV55pIKuEeZxHAk=";
     };
     license = "MIT";
     name = "dart-code";
@@ -771,10 +771,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.42.0";
+    version = "3.44.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.42.0/file/Dart-Code.flutter-3.42.0.vsix";
-      sha256 = "sha256-5bdvtxBg0J0Bjrb3j0syeP8ADywt3mw0030aOS5tUVk=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.44.0/file/Dart-Code.flutter-3.44.0.vsix";
+      sha256 = "sha256-yYYVzMH9IlPC6s2rxxd8A5Xc0iNynjbD+Htd+9AlNss=";
     };
     license = "MIT";
     name = "flutter";
@@ -2871,10 +2871,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1129";
+    version = "31.0.1135";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1129/file/Prisma.prisma-insider-31.0.1129.vsix";
-      sha256 = "sha256-+mAmjsxfYv30rdlRYKpXPisY56UhmDO25UgCzojWbxE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1135/file/Prisma.prisma-insider-31.0.1135.vsix";
+      sha256 = "sha256-Od+ia1ztGISxp9MTVcaCqukB6p2lXhVGMa8SlTdo9vA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3159,10 +3159,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.6";
+    version = "4.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.6/file/Sarrus.sourcepawn-vscode-4.0.6.vsix";
-      sha256 = "sha256-ia2+NJAUu1tgAQ1dwSQhYCUYvl/0b9gR71YFhEnopys=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.8/file/Sarrus.sourcepawn-vscode-4.0.8.vsix";
+      sha256 = "sha256-xK3irRYxC81sNYbnfrIdkI7uRJQvm0ee+L/QYPodhJY=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -6204,6 +6204,18 @@
     name = "postgres";
     description = "PostgreSQL menad\382er [eShell]";
     publisher = "bringout";
+  };
+  brody715-vscode-cuelang = {
+    pname = "brody715-vscode-cuelang";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/brody715/vscode-cuelang/0.0.2/file/brody715.vscode-cuelang-0.0.2.vsix";
+      sha256 = "sha256-dhn+CR5nYPNWE+T908/n3li0yuCrRx2OTsmDP/1A1+Y=";
+    };
+    license = "MIT";
+    name = "vscode-cuelang";
+    description = "Language support for Cue";
+    publisher = "brody715";
   };
   brunnerh-altervista-thesaurus = {
     pname = "brunnerh-altervista-thesaurus";

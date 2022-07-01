@@ -1209,11 +1209,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nfHgV6147qSfJjraWAtcJZcVDnO9MWOhWz3G3HJXeFQ=",
+            "sha256": "sha256-qJOjgV+3dWnLGp/uvyp4VRdf4uVODV55pIKuEeZxHAk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.42.1/file/Dart-Code.dart-code-3.42.1.vsix"
+            "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.44.0/file/Dart-Code.dart-code-3.44.0.vsix"
         },
-        "version": "3.42.1"
+        "version": "3.44.0"
     },
     "Dart-Code-flutter": {
         "cargoLocks": null,
@@ -1228,11 +1228,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5bdvtxBg0J0Bjrb3j0syeP8ADywt3mw0030aOS5tUVk=",
+            "sha256": "sha256-yYYVzMH9IlPC6s2rxxd8A5Xc0iNynjbD+Htd+9AlNss=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Dart-Code/flutter/3.42.0/file/Dart-Code.flutter-3.42.0.vsix"
+            "url": "https://open-vsx.org/api/Dart-Code/flutter/3.44.0/file/Dart-Code.flutter-3.44.0.vsix"
         },
-        "version": "3.42.0"
+        "version": "3.44.0"
     },
     "DavidAnson-vscode-markdownlint": {
         "cargoLocks": null,
@@ -4553,11 +4553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+mAmjsxfYv30rdlRYKpXPisY56UhmDO25UgCzojWbxE=",
+            "sha256": "sha256-Od+ia1ztGISxp9MTVcaCqukB6p2lXhVGMa8SlTdo9vA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1129/file/Prisma.prisma-insider-31.0.1129.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1135/file/Prisma.prisma-insider-31.0.1135.vsix"
         },
-        "version": "31.0.1129"
+        "version": "31.0.1135"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5009,11 +5009,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ia2+NJAUu1tgAQ1dwSQhYCUYvl/0b9gR71YFhEnopys=",
+            "sha256": "sha256-xK3irRYxC81sNYbnfrIdkI7uRJQvm0ee+L/QYPodhJY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.6/file/Sarrus.sourcepawn-vscode-4.0.6.vsix"
+            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.8/file/Sarrus.sourcepawn-vscode-4.0.8.vsix"
         },
-        "version": "4.0.6"
+        "version": "4.0.8"
     },
     "SenseTime-kestrel": {
         "cargoLocks": null,
@@ -9821,6 +9821,25 @@
             "url": "https://open-vsx.org/api/bringout/postgres/2.1.1/file/bringout.postgres-2.1.1.vsix"
         },
         "version": "2.1.1"
+    },
+    "brody715-vscode-cuelang": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "brody715-vscode-cuelang",
+        "passthru": {
+            "description": "Language support for Cue",
+            "license": "MIT",
+            "name": "vscode-cuelang",
+            "publisher": "brody715"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dhn+CR5nYPNWE+T908/n3li0yuCrRx2OTsmDP/1A1+Y=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/brody715/vscode-cuelang/0.0.2/file/brody715.vscode-cuelang-0.0.2.vsix"
+        },
+        "version": "0.0.2"
     },
     "brunnerh-altervista-thesaurus": {
         "cargoLocks": null,
