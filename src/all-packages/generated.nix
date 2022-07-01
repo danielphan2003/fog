@@ -107,13 +107,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "3fcc711c5acc24032fb9ee5d6b104f6dde0a2315";
+    version = "d466cf694e56265a325d3cf6c6248a6e596e60aa";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "3fcc711c5acc24032fb9ee5d6b104f6dde0a2315";
+      rev = "d466cf694e56265a325d3cf6c6248a6e596e60aa";
       fetchSubmodules = false;
-      sha256 = "sha256-6WZz1z+ka71z8okIsFVKFCiM7+VMa0jfL915e4wA340=";
+      sha256 = "sha256-a3+MlR/6Dflfc3G41wB42nSUneYVQgQI1O4yiYE0MJ8=";
     });
   };
   asusctl = {
@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
+      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -1353,14 +1353,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "2ec7c1680a905cbf8ac3744415bc880d31f3f2fc";
+    version = "727507eb31d7206884b7c8c7f8bdd2adfd81b005";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "2ec7c1680a905cbf8ac3744415bc880d31f3f2fc";
+      rev = "727507eb31d7206884b7c8c7f8bdd2adfd81b005";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-BUaPdqWjIyojXxAo2j4lYBzvKIbo2AkhstA+YO2Kbvc=";
+      sha256 = "sha256-RoXgNnEE8pUNCNMyF9qsq5r9buIPWHKPQmcCYRToWm0=";
     };
   };
   ydotool = {
