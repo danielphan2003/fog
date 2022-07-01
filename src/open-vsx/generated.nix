@@ -14607,10 +14607,10 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "2.2.1";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/2.2.1/file/mvllow.rose-pine-2.2.1.vsix";
-      sha256 = "sha256-hFxAm0wXwVV6W5dxTfwtFHy7KRRxNcCA3h1t5LdpZ/Y=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.3.0/file/mvllow.rose-pine-2.3.0.vsix";
+      sha256 = "sha256-ANj6UG0+lGpiDyuC4G2UONmVwBO3fmiTQbVipokozIY=";
     };
     license = "MIT";
     name = "rose-pine";
@@ -22755,10 +22755,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.65";
+    version = "0.0.66";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.65/file/zardoy.zardoy-experiments-0.0.65.vsix";
-      sha256 = "sha256-LAcMvPatf++uXInoXN1UdpABqyxO36PFQFuAbWXc7Vk=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.66/file/zardoy.zardoy-experiments-0.0.66.vsix";
+      sha256 = "sha256-MF0vi6cvD1Ejbb7EmAxqacPWshCntptcrhg34nvczmw=";
     };
     license = "MIT";
     name = "zardoy-experiments";

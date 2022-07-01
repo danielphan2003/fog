@@ -23135,11 +23135,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hFxAm0wXwVV6W5dxTfwtFHy7KRRxNcCA3h1t5LdpZ/Y=",
+            "sha256": "sha256-ANj6UG0+lGpiDyuC4G2UONmVwBO3fmiTQbVipokozIY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mvllow/rose-pine/2.2.1/file/mvllow.rose-pine-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/mvllow/rose-pine/2.3.0/file/mvllow.rose-pine-2.3.0.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.3.0"
     },
     "mysticcoders-kandavu-vscode-extension": {
         "cargoLocks": null,
@@ -36036,11 +36036,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LAcMvPatf++uXInoXN1UdpABqyxO36PFQFuAbWXc7Vk=",
+            "sha256": "sha256-MF0vi6cvD1Ejbb7EmAxqacPWshCntptcrhg34nvczmw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.65/file/zardoy.zardoy-experiments-0.0.65.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.66/file/zardoy.zardoy-experiments-0.0.66.vsix"
         },
-        "version": "0.0.65"
+        "version": "0.0.66"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,
