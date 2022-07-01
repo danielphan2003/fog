@@ -9723,10 +9723,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.17.0";
+    version = "0.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.0/file/grain-lang.vscode-grain-0.17.0.vsix";
-      sha256 = "sha256-FmD3xQZzsC/E6y/JnQ8zYKwzWIhVzgegsl75udB9t5Q=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.1/file/grain-lang.vscode-grain-0.17.1.vsix";
+      sha256 = "sha256-yxKhORnf4vv7GIRSlgYc3cHFEPr213/uSjQPQ8Bj3Tw=";
     };
     license = "MIT";
     name = "vscode-grain";
