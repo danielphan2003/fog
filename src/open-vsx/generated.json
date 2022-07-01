@@ -544,11 +544,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+llP36IAn0FN7klaGuV+a7550nPguwfwdm4IvC82hy4=",
+            "sha256": "sha256-UbrBXc54ka4IsaAp/OiIF0hMMzV06WUn9h7rXV+lXkE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.2.0/file/BroadcomMFD.hlasm-language-support-1.2.0.vsix"
+            "url": "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.3.0/file/BroadcomMFD.hlasm-language-support-1.3.0.vsix"
         },
-        "version": "1.2.0"
+        "version": "1.3.0"
     },
     "BroadcomMFD-jcl-language-support": {
         "cargoLocks": null,
@@ -4553,11 +4553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jBgs/xG3JnwvdQzo3EifGVV6HwcbFtwq3kpUM4oipgQ=",
+            "sha256": "sha256-4WXygAsbQ8p/aM7fT1N/lIs8vhcU/wPnWUy75v86x3I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1127/file/Prisma.prisma-insider-31.0.1127.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1128/file/Prisma.prisma-insider-31.0.1128.vsix"
         },
-        "version": "31.0.1127"
+        "version": "31.0.1128"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DUz+m9q6EZmmjYj8Em91XuKvKeakyrs3tnUF3tkkZck=",
+            "sha256": "sha256-Z9xzbkiC7Zx9EXuMDXusKssxm4mIN4qKBvsRkMN2f4M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.25/file/TI.devspacesplus-0.0.25.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.26/file/TI.devspacesplus-0.0.26.vsix"
         },
-        "version": "0.0.25"
+        "version": "0.0.26"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -12305,11 +12305,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b8OwK43o8QG3XufnfR+K81Duc2xUcx+9k906hIVRu6g=",
+            "sha256": "sha256-BWn0of8pq6cS1O9fUZJcaMHueKjDpg4K3WCekqWT2oI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.101.2/file/dendron.nightly-0.101.2.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.101.3/file/dendron.nightly-0.101.3.vsix"
         },
-        "version": "0.101.2"
+        "version": "0.101.3"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,

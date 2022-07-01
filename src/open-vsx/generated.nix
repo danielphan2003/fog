@@ -339,10 +339,10 @@
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.2.0/file/BroadcomMFD.hlasm-language-support-1.2.0.vsix";
-      sha256 = "sha256-+llP36IAn0FN7klaGuV+a7550nPguwfwdm4IvC82hy4=";
+      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.3.0/file/BroadcomMFD.hlasm-language-support-1.3.0.vsix";
+      sha256 = "sha256-UbrBXc54ka4IsaAp/OiIF0hMMzV06WUn9h7rXV+lXkE=";
     };
     license = "EPL-2.0";
     name = "hlasm-language-support";
@@ -2871,10 +2871,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1127";
+    version = "31.0.1128";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1127/file/Prisma.prisma-insider-31.0.1127.vsix";
-      sha256 = "sha256-jBgs/xG3JnwvdQzo3EifGVV6HwcbFtwq3kpUM4oipgQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1128/file/Prisma.prisma-insider-31.0.1128.vsix";
+      sha256 = "sha256-4WXygAsbQ8p/aM7fT1N/lIs8vhcU/wPnWUy75v86x3I=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.25";
+    version = "0.0.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.25/file/TI.devspacesplus-0.0.25.vsix";
-      sha256 = "sha256-DUz+m9q6EZmmjYj8Em91XuKvKeakyrs3tnUF3tkkZck=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.26/file/TI.devspacesplus-0.0.26.vsix";
+      sha256 = "sha256-Z9xzbkiC7Zx9EXuMDXusKssxm4mIN4qKBvsRkMN2f4M=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -7767,10 +7767,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.101.2";
+    version = "0.101.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.101.2/file/dendron.nightly-0.101.2.vsix";
-      sha256 = "sha256-b8OwK43o8QG3XufnfR+K81Duc2xUcx+9k906hIVRu6g=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.101.3/file/dendron.nightly-0.101.3.vsix";
+      sha256 = "sha256-BWn0of8pq6cS1O9fUZJcaMHueKjDpg4K3WCekqWT2oI=";
     };
     license = "AGPL-3.0";
     name = "nightly";
