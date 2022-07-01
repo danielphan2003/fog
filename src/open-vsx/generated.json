@@ -7479,11 +7479,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-p5ErHDiy7Zz6uJSxIupY4rBSTGstl1ZTrKw6CtrqDnE=",
+            "sha256": "sha256-h2PbmH6a98ErjjCPwU4yRFhJ/g3s4OyXdXJWvGxouFo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.43.0/file/amazonwebservices.aws-toolkit-vscode-1.43.0.vsix"
+            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.44.0/file/amazonwebservices.aws-toolkit-vscode-1.44.0.vsix"
         },
-        "version": "1.43.0"
+        "version": "1.44.0"
     },
     "amiralizadeh9480-laravel-extra-intellisense": {
         "cargoLocks": null,
@@ -8182,11 +8182,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DsH3rg56CyRQqnIHXUrVofdlcuIlVJ6WFLNGpc0SU0U=",
+            "sha256": "sha256-a0Used95TdquUzjIo7g4kgLupIHBoAmtAiyXHBpzIDk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.1/file/appliedengdesign.vscode-gcode-syntax-0.7.1.vsix"
+            "url": "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.2/file/appliedengdesign.vscode-gcode-syntax-0.7.2.vsix"
         },
-        "version": "0.7.1"
+        "version": "0.7.2"
     },
     "appulate-filewatcher": {
         "cargoLocks": null,
@@ -13388,11 +13388,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DKZTmnXnl4m/vBbtoOw+/lK4rfsIq2CSw7Ty8cUivLU=",
+            "sha256": "sha256-nec/06jjiOf65h6N/b88gqclZpawfZsbYGz31/VkMKo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.7/file/enkia.tokyo-night-0.8.7.vsix"
+            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.8/file/enkia.tokyo-night-0.8.8.vsix"
         },
-        "version": "0.8.7"
+        "version": "0.8.8"
     },
     "entan-gl-cc65-vice": {
         "cargoLocks": null,
@@ -15250,11 +15250,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8QhCIXbUs0XMM0lFB2D5s1raIuLJEMl2m5kGZZYniQc=",
+            "sha256": "sha256-UMATqT1zsbWXIj/3MrlUOgLfd+pZNW7aDsbQwhb2IFg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golang/Go/0.34.0/file/golang.Go-0.34.0.vsix"
+            "url": "https://open-vsx.org/api/golang/Go/0.34.1/file/golang.Go-0.34.1.vsix"
         },
-        "version": "0.34.0"
+        "version": "0.34.1"
     },
     "golf1052-base16-generator": {
         "cargoLocks": null,
@@ -22451,11 +22451,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6JmqIPhObqgT9q14tuTZ0WETnTtbC9A0PyBt6Ka3G3Y=",
+            "sha256": "sha256-P8kakmpT3yAkKFroKttiLOV7PneOIoQOEtwImPIDHQY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.6.1/file/ms-vscode.powershell-2022.6.1.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.6.3/file/ms-vscode.powershell-2022.6.3.vsix"
         },
-        "version": "2022.6.1"
+        "version": "2022.6.3"
     },
     "ms-vscode-powershell-preview": {
         "cargoLocks": null,

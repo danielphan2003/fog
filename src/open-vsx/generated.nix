@@ -4719,10 +4719,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.43.0";
+    version = "1.44.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.43.0/file/amazonwebservices.aws-toolkit-vscode-1.43.0.vsix";
-      sha256 = "sha256-p5ErHDiy7Zz6uJSxIupY4rBSTGstl1ZTrKw6CtrqDnE=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.44.0/file/amazonwebservices.aws-toolkit-vscode-1.44.0.vsix";
+      sha256 = "sha256-h2PbmH6a98ErjjCPwU4yRFhJ/g3s4OyXdXJWvGxouFo=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -5163,10 +5163,10 @@
   };
   appliedengdesign-vscode-gcode-syntax = {
     pname = "appliedengdesign-vscode-gcode-syntax";
-    version = "0.7.1";
+    version = "0.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.1/file/appliedengdesign.vscode-gcode-syntax-0.7.1.vsix";
-      sha256 = "sha256-DsH3rg56CyRQqnIHXUrVofdlcuIlVJ6WFLNGpc0SU0U=";
+      url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.2/file/appliedengdesign.vscode-gcode-syntax-0.7.2.vsix";
+      sha256 = "sha256-a0Used95TdquUzjIo7g4kgLupIHBoAmtAiyXHBpzIDk=";
     };
     license = "MIT";
     name = "vscode-gcode-syntax";
@@ -8451,10 +8451,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.8.7";
+    version = "0.8.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.7/file/enkia.tokyo-night-0.8.7.vsix";
-      sha256 = "sha256-DKZTmnXnl4m/vBbtoOw+/lK4rfsIq2CSw7Ty8cUivLU=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.8/file/enkia.tokyo-night-0.8.8.vsix";
+      sha256 = "sha256-nec/06jjiOf65h6N/b88gqclZpawfZsbYGz31/VkMKo=";
     };
     license = "MIT";
     name = "tokyo-night";
@@ -9627,10 +9627,10 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.34.0";
+    version = "0.34.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.34.0/file/golang.Go-0.34.0.vsix";
-      sha256 = "sha256-8QhCIXbUs0XMM0lFB2D5s1raIuLJEMl2m5kGZZYniQc=";
+      url = "https://open-vsx.org/api/golang/Go/0.34.1/file/golang.Go-0.34.1.vsix";
+      sha256 = "sha256-UMATqT1zsbWXIj/3MrlUOgLfd+pZNW7aDsbQwhb2IFg=";
     };
     license = "MIT";
     name = "Go";
@@ -14175,10 +14175,10 @@
   };
   ms-vscode-powershell = {
     pname = "ms-vscode-powershell";
-    version = "2022.6.1";
+    version = "2022.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.6.1/file/ms-vscode.powershell-2022.6.1.vsix";
-      sha256 = "sha256-6JmqIPhObqgT9q14tuTZ0WETnTtbC9A0PyBt6Ka3G3Y=";
+      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.6.3/file/ms-vscode.powershell-2022.6.3.vsix";
+      sha256 = "sha256-P8kakmpT3yAkKFroKttiLOV7PneOIoQOEtwImPIDHQY=";
     };
     license = "MIT";
     name = "powershell";
