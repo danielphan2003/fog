@@ -107,13 +107,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "c21b9faefc0d99ab4f91836ceddc68a2a52ff9cb";
+    version = "3fcc711c5acc24032fb9ee5d6b104f6dde0a2315";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "c21b9faefc0d99ab4f91836ceddc68a2a52ff9cb";
+      rev = "3fcc711c5acc24032fb9ee5d6b104f6dde0a2315";
       fetchSubmodules = false;
-      sha256 = "sha256-3bN/T4vCaIqkoz1AfZvczTXQup9B4Myq1cIRy/CyCgo=";
+      sha256 = "sha256-6WZz1z+ka71z8okIsFVKFCiM7+VMa0jfL915e4wA340=";
     });
   };
   asusctl = {
@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
+      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -1130,13 +1130,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "6b71568eb73104ae13f4660d86cd53ac7583f5a5";
+    version = "ea6e9099b9dc47633555d9983c926a99795af7a8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "6b71568eb73104ae13f4660d86cd53ac7583f5a5";
+      rev = "ea6e9099b9dc47633555d9983c926a99795af7a8";
       fetchSubmodules = false;
-      sha256 = "sha256-P2dotl1rBDmk+k2l9f03S0TbMPA+NrObUHriiykfXDY=";
+      sha256 = "sha256-NIGRE+ZBYpTPiriApjzdlhNzt8G3ryq5oAxwOfe1mP8=";
     });
   };
   tailscale-systray = {
