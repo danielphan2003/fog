@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
+      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -1353,14 +1353,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "aa636b97c66343b25e508b9c73d8505e8c11b1d9";
+    version = "96e682f128a67b633ba4783a722b8972879139ce";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "aa636b97c66343b25e508b9c73d8505e8c11b1d9";
+      rev = "96e682f128a67b633ba4783a722b8972879139ce";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-12weBZVvKg1VdXYIcg5klYk0cEC/+l0JHXxiaarLclg=";
+      sha256 = "sha256-Zg5CsrZBhmq06ytKB2b9huPv+AoJfYlK63uj7rEt/fw=";
     };
   };
   ydotool = {
