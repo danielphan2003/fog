@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.33";
+    version = "0.0.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.33/file/TI.devspacesplus-0.0.33.vsix";
-      sha256 = "sha256-23Dl0PZz0larfUbU6IaB0PDhmoE1U9/17fGswXgbzgE=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.34/file/TI.devspacesplus-0.0.34.vsix";
+      sha256 = "sha256-qLoH9pHT5zDmHq7bRRqKYnceH7o0QKI3/9ZSrltcdQw=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5847,10 +5847,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.287";
+    version = "2.0.288";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.287/file/betterthantomorrow.calva-2.0.287.vsix";
-      sha256 = "sha256-AweIsNm0tTGAtDx23qAeQb6j/G74MCG5PyXlMLVG+58=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.288/file/betterthantomorrow.calva-2.0.288.vsix";
+      sha256 = "sha256-70sPL+7JJv/RKgXbe85hpqzp+vOHB8cVkjrGETieRl0=";
     };
     license = "MIT";
     name = "calva";
