@@ -107,13 +107,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "d466cf694e56265a325d3cf6c6248a6e596e60aa";
+    version = "ceacc9dd74086478d43ccf3a4f0bd5befda53a43";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "d466cf694e56265a325d3cf6c6248a6e596e60aa";
+      rev = "ceacc9dd74086478d43ccf3a4f0bd5befda53a43";
       fetchSubmodules = false;
-      sha256 = "sha256-a3+MlR/6Dflfc3G41wB42nSUneYVQgQI1O4yiYE0MJ8=";
+      sha256 = "sha256-1M1lf3ah4I5KOPlTIZ52uEha8tuQu1wkgkdzEB4iK/0=";
     });
   };
   asusctl = {
@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
+      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e77f451e279a5c418543b1cfa1101cde79f9e503";
+    version = "9ee14eb4452ea166f1b1c8517939388d413387e5";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "e77f451e279a5c418543b1cfa1101cde79f9e503";
+      rev = "9ee14eb4452ea166f1b1c8517939388d413387e5";
       fetchSubmodules = false;
-      sha256 = "sha256-3ZlFg8FZt5uXVFIPRKYda+p7XJTi+m079dU7qm1cQq8=";
+      sha256 = "sha256-wNUwU3xA8nJ/FR5Ko5O2vliMTCkbihzeOsYC8XxG3xY=";
     });
   };
   ibus = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "58decac93576ecc9d4b8a6caa61e9bef31dbff9d";
+    version = "89048993ef2c6149551e5dee2133dba22e00291b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "58decac93576ecc9d4b8a6caa61e9bef31dbff9d";
+      rev = "89048993ef2c6149551e5dee2133dba22e00291b";
       fetchSubmodules = false;
-      sha256 = "sha256-E4G1qCWGvThn0lTViYzb2PW7SkxafH6xO92KpItyYzM=";
+      sha256 = "sha256-a3DOd8NaCAtUG/H9ynAQ+Jlgs4nG58b++OlUf9FEOk8=";
     });
   };
   rofi-wayland = {
