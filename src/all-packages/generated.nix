@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9d6999345e202c785af0f6678986c251e02e4b32";
+    version = "e81de827062958d94d6e2f1e0abc10d39b29e0c4";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "9d6999345e202c785af0f6678986c251e02e4b32";
+      rev = "e81de827062958d94d6e2f1e0abc10d39b29e0c4";
       fetchSubmodules = false;
-      sha256 = "sha256-dE3Oh+OuKPH8HfMABh0JtyqY2JlKx+KhsX46bZxV1YY=";
+      sha256 = "sha256-e3hSaFqeO4FM0/rEjpC/19S3pPlN21ApA9PNluCchuc=";
     });
   };
   ibus = {
@@ -1160,7 +1160,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "e2ed6e3084ea516b259fca4adaed41268e4e1561";
+    version = "b0b5490e30b338de3ba97e41a860e117f92a2dc1";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
