@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.32";
+    version = "0.0.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.32/file/TI.devspacesplus-0.0.32.vsix";
-      sha256 = "sha256-4yO+XQ+0JDPuj4d9S0HYyMpVci0NC6Kr2DMKDXkvhKI=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.33/file/TI.devspacesplus-0.0.33.vsix";
+      sha256 = "sha256-23Dl0PZz0larfUbU6IaB0PDhmoE1U9/17fGswXgbzgE=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -18411,10 +18411,10 @@
   };
   steedos-steedosdx-vscode = {
     pname = "steedos-steedosdx-vscode";
-    version = "2.2.4";
+    version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.4/file/steedos.steedosdx-vscode-2.2.4.vsix";
-      sha256 = "sha256-V0PJ79PJCWhPngBCQwbJpCoVRpZk0Sl1qhCiWnQ/9JI=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode";
@@ -18423,10 +18423,10 @@
   };
   steedos-steedosdx-vscode-core = {
     pname = "steedos-steedosdx-vscode-core";
-    version = "2.2.4";
+    version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.4/file/steedos.steedosdx-vscode-core-2.2.4.vsix";
-      sha256 = "sha256-GP3dZdfAxZi/Ct4Si4qiGGKCTIXf2vU4dDZKAPeLKHE=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

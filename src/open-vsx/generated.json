@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4yO+XQ+0JDPuj4d9S0HYyMpVci0NC6Kr2DMKDXkvhKI=",
+            "sha256": "sha256-23Dl0PZz0larfUbU6IaB0PDhmoE1U9/17fGswXgbzgE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.32/file/TI.devspacesplus-0.0.32.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.33/file/TI.devspacesplus-0.0.33.vsix"
         },
-        "version": "0.0.32"
+        "version": "0.0.33"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -29158,11 +29158,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V0PJ79PJCWhPngBCQwbJpCoVRpZk0Sl1qhCiWnQ/9JI=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.4/file/steedos.steedosdx-vscode-2.2.4.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
-        "version": "2.2.4"
+        "version": "2.2.5"
     },
     "steedos-steedosdx-vscode-core": {
         "cargoLocks": null,
@@ -29177,11 +29177,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GP3dZdfAxZi/Ct4Si4qiGGKCTIXf2vU4dDZKAPeLKHE=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.4/file/steedos.steedosdx-vscode-core-2.2.4.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
-        "version": "2.2.4"
+        "version": "2.2.5"
     },
     "stef-k-laravel-goto-controller": {
         "cargoLocks": null,
