@@ -210,7 +210,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "51174271439d19fae649d5c16293a9ee432748b1",
-            "sha256": "sha256-EXI1ZCo7wZPIH1T8Kve7pY5z+qGTfjaIh3sNL5de0M0=",
+            "sha256": "sha256-SLXsVRKMmsJnAn8UCyOGvF7xwD99WmtfpEoS/QNMs5w=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "3135aa0bcabc434510219efa03896e90790ac28e",
-            "sha256": "sha256-L0sUvVhAK5DRX1n9PitAJ9yUGWVPQssPz7fICAadkDw=",
+            "rev": "c599950f44c63ca6a4bc1c3a7c4d88d484e00e52",
+            "sha256": "sha256-3hMC+t0P5MyF+mBPmBldCBh1qKer0kbVgPX0xmSQdKw=",
             "type": "github"
         },
-        "version": "3135aa0bcabc434510219efa03896e90790ac28e"
+        "version": "c599950f44c63ca6a4bc1c3a7c4d88d484e00e52"
     },
     "caddy": {
         "cargoLocks": null,
@@ -415,7 +415,7 @@
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
             "rev": "d8eacb4673e217bf9edce5c58b60c099fe74c37d",
-            "sha256": "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=",
+            "sha256": "sha256-9n1u0ry4pmlJyeYHKXpuaTon0PT264tcp3DnKHHMDUo=",
             "type": "github"
         },
         "version": "d8eacb4673e217bf9edce5c58b60c099fe74c37d"
@@ -455,7 +455,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "0b926c2a31deff57a3526dd75d8c08775b02241a",
-            "sha256": "sha256-sxjzlWEXzwac++f/VSbLHksVutQXj740Mw6Tb5ncwDU=",
+            "sha256": "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
@@ -684,7 +684,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "6d4588fc3c8afb32ebb6837f696fed5bc78f3137",
-            "sha256": "sha256-K4h42JtM+QWEVCXHrnMoadv+P9Jjcsu3/a9OWKa9uM4=",
+            "sha256": "sha256-+l4z7mHa1VEij2OnMEPKp4fyqPladktvqA5o+eWBR4U=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
@@ -1304,7 +1304,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "58c39f2cb2fbf31087396322e128b97f6db63ec6",
-            "sha256": "sha256-gFSuUXIteApI3l+Rjr+ko+SCLFAYVj/qGo6px0+ReCo=",
+            "sha256": "sha256-JN03MBfIR15xaPfzNaRD/cDGQJJC1mv059F9BvCEkVM=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
@@ -1520,11 +1520,11 @@
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
-                    "parity-tokio-ipc-0.7.3": "sha256-BaO/iO1dHkXEsmmUwIkoBlZvkfN/pP5KGo3M8g4C6rM=",
+                    "parity-tokio-ipc-0.7.3": "sha256-9m9YQoJ3Vaet25TL40Yb76zHRlnnsreW/EOMb/R7cRk=",
                     "rdev-0.5.0": "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=",
                     "rust-pulsectl-0.2.12": "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=",
                     "sciter-rs-0.5.57": "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=",
-                    "tokio-socks-0.5.1": "sha256-e81g0H0htsLFBlHCLF/X07vGnfn896gq6FXpr/6h67s="
+                    "tokio-socks-0.5.1": "sha256-sR3Pa3PIKB+3M8pnC/jzwdR5rsUVOqZbon893G34TUw="
                 }
             ]
         },
@@ -1675,7 +1675,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "a760e33a899afa4aac89d43ca22537b09063ccf8",
-            "sha256": "sha256-8pUnBieLk3KM4d1BEbjpuoxj5kaVc0lcDgSUU7uzfZ0=",
+            "sha256": "sha256-xo0TSKiWJPxjSNEY7VYMLgRKTPrlInox0sqTB2r/AbU=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
@@ -1826,7 +1826,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "715716cfd924dc2105b377d3f4cc437593f47fc6",
-            "sha256": "sha256-gb+bQpUkwVdlFoFKdssEwJjxOGMGshhZk18ox4HDx+k=",
+            "sha256": "sha256-hdHZ1GNhEotyOOPW3PJMe4+sdTqwic7iCnVsA5a1F1c=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/supergfxctl"
         },
@@ -2225,7 +2225,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "db5ff12110994dc9010d44f981399e796917a845",
-            "sha256": "sha256-bq2lOEllWAVXisZZg153PJyUAlt96CYCl3EJacRHz9Q=",
+            "sha256": "sha256-fLR1xisiJhLGUaSXJci19Ut6Ro6k0OnnIC/5VZjlsB8=",
             "type": "git",
             "url": "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
         },
@@ -2262,7 +2262,7 @@
             "leaveDotGit": false,
             "name": null,
             "rev": "96e682f128a67b633ba4783a722b8972879139ce",
-            "sha256": "sha256-Zg5CsrZBhmq06ytKB2b9huPv+AoJfYlK63uj7rEt/fw=",
+            "sha256": "sha256-8jqzBaQVVktRczVju1TGVtRhPxdAZfOP/AOMddz02uA=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },

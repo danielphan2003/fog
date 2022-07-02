@@ -125,7 +125,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-EXI1ZCo7wZPIH1T8Kve7pY5z+qGTfjaIh3sNL5de0M0=";
+      sha256 = "sha256-SLXsVRKMmsJnAn8UCyOGvF7xwD99WmtfpEoS/QNMs5w=";
     };
     cargoLock."Cargo.lock" = {
       lockFile = ./asusctl-51174271439d19fae649d5c16293a9ee432748b1/Cargo.lock;
@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "3135aa0bcabc434510219efa03896e90790ac28e";
+    version = "c599950f44c63ca6a4bc1c3a7c4d88d484e00e52";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "3135aa0bcabc434510219efa03896e90790ac28e";
+      rev = "c599950f44c63ca6a4bc1c3a7c4d88d484e00e52";
       fetchSubmodules = false;
-      sha256 = "sha256-L0sUvVhAK5DRX1n9PitAJ9yUGWVPQssPz7fICAadkDw=";
+      sha256 = "sha256-3hMC+t0P5MyF+mBPmBldCBh1qKer0kbVgPX0xmSQdKw=";
     });
   };
   caddy = {
@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
+      sha256 = "sha256-9n1u0ry4pmlJyeYHKXpuaTon0PT264tcp3DnKHHMDUo=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -272,7 +272,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sxjzlWEXzwac++f/VSbLHksVutQXj740Mw6Tb5ncwDU=";
+      sha256 = "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=";
     };
     cargoLock."Cargo.lock" = {
       lockFile = ./conduit-0b926c2a31deff57a3526dd75d8c08775b02241a/Cargo.lock;
@@ -419,7 +419,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-K4h42JtM+QWEVCXHrnMoadv+P9Jjcsu3/a9OWKa9uM4=";
+      sha256 = "sha256-+l4z7mHa1VEij2OnMEPKp4fyqPladktvqA5o+eWBR4U=";
     };
   };
   flyingfox = {
@@ -788,7 +788,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gFSuUXIteApI3l+Rjr+ko+SCLFAYVj/qGo6px0+ReCo=";
+      sha256 = "sha256-JN03MBfIR15xaPfzNaRD/cDGQJJC1mv059F9BvCEkVM=";
     };
   };
   polymc-cracked = {
@@ -925,8 +925,8 @@
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
-        "parity-tokio-ipc-0.7.3" = "sha256-BaO/iO1dHkXEsmmUwIkoBlZvkfN/pP5KGo3M8g4C6rM=";
-        "tokio-socks-0.5.1" = "sha256-e81g0H0htsLFBlHCLF/X07vGnfn896gq6FXpr/6h67s=";
+        "parity-tokio-ipc-0.7.3" = "sha256-9m9YQoJ3Vaet25TL40Yb76zHRlnnsreW/EOMb/R7cRk=";
+        "tokio-socks-0.5.1" = "sha256-sR3Pa3PIKB+3M8pnC/jzwdR5rsUVOqZbon893G34TUw=";
         "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
       };
     };
@@ -1008,7 +1008,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8pUnBieLk3KM4d1BEbjpuoxj5kaVc0lcDgSUU7uzfZ0=";
+      sha256 = "sha256-xo0TSKiWJPxjSNEY7VYMLgRKTPrlInox0sqTB2r/AbU=";
     };
   };
   spicetify-cli = {
@@ -1097,7 +1097,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gb+bQpUkwVdlFoFKdssEwJjxOGMGshhZk18ox4HDx+k=";
+      sha256 = "sha256-hdHZ1GNhEotyOOPW3PJMe4+sdTqwic7iCnVsA5a1F1c=";
     };
     cargoLock."Cargo.lock" = {
       lockFile = ./supergfxctl-715716cfd924dc2105b377d3f4cc437593f47fc6/Cargo.lock;
@@ -1337,7 +1337,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-bq2lOEllWAVXisZZg153PJyUAlt96CYCl3EJacRHz9Q=";
+      sha256 = "sha256-fLR1xisiJhLGUaSXJci19Ut6Ro6k0OnnIC/5VZjlsB8=";
     };
   };
   xorgproto = {
@@ -1360,7 +1360,7 @@
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Zg5CsrZBhmq06ytKB2b9huPv+AoJfYlK63uj7rEt/fw=";
+      sha256 = "sha256-8jqzBaQVVktRczVju1TGVtRhPxdAZfOP/AOMddz02uA=";
     };
   };
   ydotool = {
