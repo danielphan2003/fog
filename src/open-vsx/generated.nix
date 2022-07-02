@@ -6207,10 +6207,10 @@
   };
   brody715-vscode-cuelang = {
     pname = "brody715-vscode-cuelang";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/brody715/vscode-cuelang/0.0.2/file/brody715.vscode-cuelang-0.0.2.vsix";
-      sha256 = "sha256-dhn+CR5nYPNWE+T908/n3li0yuCrRx2OTsmDP/1A1+Y=";
+      url = "https://open-vsx.org/api/brody715/vscode-cuelang/0.0.3/file/brody715.vscode-cuelang-0.0.3.vsix";
+      sha256 = "sha256-Y3boHxpocQSp/XbfKviHTpQ73XjHg6sUgH2tnXBW7ik=";
     };
     license = "MIT";
     name = "vscode-cuelang";
