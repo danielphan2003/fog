@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "0b0715fd505200db5954432b8a27ed57e3e6a72a";
+    version = "b2f60a1f436567bca7bb4c8edd04096c573c4caa";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "0b0715fd505200db5954432b8a27ed57e3e6a72a";
+      rev = "b2f60a1f436567bca7bb4c8edd04096c573c4caa";
       fetchSubmodules = false;
-      sha256 = "sha256-wtrq8crcN7fdNAkCqKHrPpptP4FOEQwReUnSFcCMQzs=";
+      sha256 = "sha256-z54zjlAamMFg/dnQ8P9lv/OkQTqFlo9e8Z4Tg5uXC7Y=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-0b0715fd505200db5954432b8a27ed57e3e6a72a/Cargo.lock;
+      lockFile = ./eww-b2f60a1f436567bca7bb4c8edd04096c573c4caa/Cargo.lock;
       outputHashes = {
         
       };
@@ -1353,14 +1353,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "96e682f128a67b633ba4783a722b8972879139ce";
+    version = "4cfdc5af31ae8282903d0f65cff858330b9f9d1a";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "96e682f128a67b633ba4783a722b8972879139ce";
+      rev = "4cfdc5af31ae8282903d0f65cff858330b9f9d1a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8jqzBaQVVktRczVju1TGVtRhPxdAZfOP/AOMddz02uA=";
+      sha256 = "sha256-IOKf5G7/PGkvLZ2ztzOxpObS9Vf3wr3ErBMJnFR+P74=";
     };
   };
   ydotool = {
