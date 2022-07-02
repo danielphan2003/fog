@@ -415,7 +415,7 @@
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
             "rev": "d8eacb4673e217bf9edce5c58b60c099fe74c37d",
-            "sha256": "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=",
+            "sha256": "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=",
             "type": "github"
         },
         "version": "d8eacb4673e217bf9edce5c58b60c099fe74c37d"
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "9ee14eb4452ea166f1b1c8517939388d413387e5",
-            "sha256": "sha256-wNUwU3xA8nJ/FR5Ko5O2vliMTCkbihzeOsYC8XxG3xY=",
+            "rev": "80962de2a220dc8a199d21a3e44797c1ad8bc255",
+            "sha256": "sha256-9OBCzpZIsNhokQOTLyeLvc0ViPcNeFDEU8xNUZMouLQ=",
             "type": "github"
         },
-        "version": "9ee14eb4452ea166f1b1c8517939388d413387e5"
+        "version": "80962de2a220dc8a199d21a3e44797c1ad8bc255"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1516,7 +1516,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-759753c000775ba7a3c7b4af8e6ab17c1388ac56/Cargo.lock",
+                "./rustdesk-7842d5b6707dd099bd3c8bd12638cbb47ea03e7a/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
@@ -1539,11 +1539,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "759753c000775ba7a3c7b4af8e6ab17c1388ac56",
-            "sha256": "sha256-nM2eXe4oHtGFNICkm46VwvRKTSNMU+lencTEryZQQdA=",
+            "rev": "7842d5b6707dd099bd3c8bd12638cbb47ea03e7a",
+            "sha256": "sha256-k/k75rHncUWbf7n/XKbTpUWn5PFunCsDMk0qHriEBG4=",
             "type": "github"
         },
-        "version": "759753c000775ba7a3c7b4af8e6ab17c1388ac56"
+        "version": "7842d5b6707dd099bd3c8bd12638cbb47ea03e7a"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
