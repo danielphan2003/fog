@@ -2667,10 +2667,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.18.1";
+    version = "4.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.18.1/file/PKief.material-icon-theme-4.18.1.vsix";
-      sha256 = "sha256-g+741XXYjL0RnrpUquHckK6sf61BpHpAd8S3QiIB5dY=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.19.0/file/PKief.material-icon-theme-4.19.0.vsix";
+      sha256 = "sha256-RBXs7S0iyuutUn11hFqc0VyTs4NFDFLBRvY0u8id86s=";
     };
     license = "MIT";
     name = "material-icon-theme";
@@ -6675,10 +6675,10 @@
   };
   clinyong-vscode-css-modules = {
     pname = "clinyong-vscode-css-modules";
-    version = "0.4.1";
+    version = "0.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/clinyong/vscode-css-modules/0.4.1/file/clinyong.vscode-css-modules-0.4.1.vsix";
-      sha256 = "sha256-kK2Y7Iz6/qwunX5poouzRVNetTy4zvC9U7TGigOV1PI=";
+      url = "https://open-vsx.org/api/clinyong/vscode-css-modules/0.4.2/file/clinyong.vscode-css-modules-0.4.2.vsix";
+      sha256 = "sha256-hGreSkAZ2rJt/UhyHgikiMLLpexG9cngxW+GNoBj8cY=";
     };
     license = "MIT";
     name = "vscode-css-modules";
@@ -7779,10 +7779,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.101.3";
+    version = "0.101.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.101.3/file/dendron.nightly-0.101.3.vsix";
-      sha256 = "sha256-BWn0of8pq6cS1O9fUZJcaMHueKjDpg4K3WCekqWT2oI=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.101.4/file/dendron.nightly-0.101.4.vsix";
+      sha256 = "sha256-sgh+iQnxgZwOaJSCbvyh1HjvGgdtE4tbaMR32EB5SiA=";
     };
     license = "AGPL-3.0";
     name = "nightly";

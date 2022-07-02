@@ -4230,11 +4230,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-g+741XXYjL0RnrpUquHckK6sf61BpHpAd8S3QiIB5dY=",
+            "sha256": "sha256-RBXs7S0iyuutUn11hFqc0VyTs4NFDFLBRvY0u8id86s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.18.1/file/PKief.material-icon-theme-4.18.1.vsix"
+            "url": "https://open-vsx.org/api/PKief/material-icon-theme/4.19.0/file/PKief.material-icon-theme-4.19.0.vsix"
         },
-        "version": "4.18.1"
+        "version": "4.19.0"
     },
     "PKief-material-product-icons": {
         "cargoLocks": null,
@@ -10576,11 +10576,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kK2Y7Iz6/qwunX5poouzRVNetTy4zvC9U7TGigOV1PI=",
+            "sha256": "sha256-hGreSkAZ2rJt/UhyHgikiMLLpexG9cngxW+GNoBj8cY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/clinyong/vscode-css-modules/0.4.1/file/clinyong.vscode-css-modules-0.4.1.vsix"
+            "url": "https://open-vsx.org/api/clinyong/vscode-css-modules/0.4.2/file/clinyong.vscode-css-modules-0.4.2.vsix"
         },
-        "version": "0.4.1"
+        "version": "0.4.2"
     },
     "cloudstudio-browser-preview-lite": {
         "cargoLocks": null,
@@ -12324,11 +12324,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BWn0of8pq6cS1O9fUZJcaMHueKjDpg4K3WCekqWT2oI=",
+            "sha256": "sha256-sgh+iQnxgZwOaJSCbvyh1HjvGgdtE4tbaMR32EB5SiA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.101.3/file/dendron.nightly-0.101.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.101.4/file/dendron.nightly-0.101.4.vsix"
         },
-        "version": "0.101.3"
+        "version": "0.101.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
