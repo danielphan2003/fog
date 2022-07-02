@@ -13383,10 +13383,10 @@
   };
   meteor-toolbox-meteor-toolbox = {
     pname = "meteor-toolbox-meteor-toolbox";
-    version = "1.1.4";
+    version = "1.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.4/file/meteor-toolbox.meteor-toolbox-1.1.4.vsix";
-      sha256 = "sha256-u2diFRFtKYmACuwpXh0xS72OjqdmnGNeTnarPAhouhg=";
+      url = "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.5/file/meteor-toolbox.meteor-toolbox-1.1.5.vsix";
+      sha256 = "sha256-60IHC5hLFCs14VfqzcdBKFFzIn0lZFmD/E5SzMN+NB8=";
     };
     license = "MIT";
     name = "meteor-toolbox";
