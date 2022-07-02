@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
+      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "80962de2a220dc8a199d21a3e44797c1ad8bc255";
+    version = "b7b3344188e3ebd2baed14bc288ee42a1ae8d6f2";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "80962de2a220dc8a199d21a3e44797c1ad8bc255";
+      rev = "b7b3344188e3ebd2baed14bc288ee42a1ae8d6f2";
       fetchSubmodules = false;
-      sha256 = "sha256-9OBCzpZIsNhokQOTLyeLvc0ViPcNeFDEU8xNUZMouLQ=";
+      sha256 = "sha256-m8q2mk5N0fxpWtFvhPnaQ0IvonBj/u2YduA/90iqXCc=";
     });
   };
   ibus = {
