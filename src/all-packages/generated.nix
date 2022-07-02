@@ -246,7 +246,7 @@
       repo = "cinny-desktop";
       rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
       fetchSubmodules = true;
-      sha256 = "sha256-AX6XKPDdgweg+QdGtN0hzpv1yImdQHdA5zb+VMLu8io=";
+      sha256 = "sha256-VVaHvcZIWytQ3vr7I69LwkFnznaVJLkW8cSuWuIvw+c=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
       lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "9a12fcca2441dcc45342d506eb202071b2ffccae";
+    version = "e319beff628ca0cc0bffef4512d6dd205bf984ac";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "9a12fcca2441dcc45342d506eb202071b2ffccae";
+      rev = "e319beff628ca0cc0bffef4512d6dd205bf984ac";
       fetchSubmodules = false;
-      sha256 = "sha256-ffmURVqtd7FdTsHxXRfrCJuckFUubmtQYBIMFTweR/8=";
+      sha256 = "sha256-02GkSsMfKpPnGr5eG5e389XofxLepB7m5k1bJhmpHjk=";
     });
   };
   fluffychat = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b7b3344188e3ebd2baed14bc288ee42a1ae8d6f2";
+    version = "9d6999345e202c785af0f6678986c251e02e4b32";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "b7b3344188e3ebd2baed14bc288ee42a1ae8d6f2";
+      rev = "9d6999345e202c785af0f6678986c251e02e4b32";
       fetchSubmodules = false;
-      sha256 = "sha256-m8q2mk5N0fxpWtFvhPnaQ0IvonBj/u2YduA/90iqXCc=";
+      sha256 = "sha256-dE3Oh+OuKPH8HfMABh0JtyqY2JlKx+KhsX46bZxV1YY=";
     });
   };
   ibus = {
