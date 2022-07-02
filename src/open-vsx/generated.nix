@@ -14583,10 +14583,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.20.0";
+    version = "0.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.20.0/file/mutable-ai.mutable-ai-0.20.0.vsix";
-      sha256 = "sha256-m5h6SNg4r3kSZd/p48TgUxHGmINpfZaml2zK0yUyV4A=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.30.0/file/mutable-ai.mutable-ai-0.30.0.vsix";
+      sha256 = "sha256-938tPWL+nScE/LqbgVbVtwxK8ISBHjuxP2lDZz1AmnM=";
     };
     license = "";
     name = "mutable-ai";
@@ -15099,10 +15099,10 @@
   };
   ocamllabs-ocaml-platform = {
     pname = "ocamllabs-ocaml-platform";
-    version = "1.10.4";
+    version = "1.10.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.4/file/ocamllabs.ocaml-platform-1.10.4.vsix";
-      sha256 = "sha256-Nbl9x41Ufaqfyi+Cykc78VFBtd3zrlAuGbYBjofCePU=";
+      url = "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.7/file/ocamllabs.ocaml-platform-1.10.7.vsix";
+      sha256 = "sha256-dUgMrwzJrFclFx9XwhCdQJpZweE9R5GpfX3DXbjdYhk=";
     };
     license = "MIT";
     name = "ocaml-platform";
@@ -15579,10 +15579,10 @@
   };
   perrinjerome-vscode-zc-buildout = {
     pname = "perrinjerome-vscode-zc-buildout";
-    version = "0.7.1";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.7.1/file/perrinjerome.vscode-zc-buildout-0.7.1.vsix";
-      sha256 = "sha256-8TmCm/bmZZwlhDhhXW/UCo8RHs6vTpdsHo2N5PYaS6w=";
+      url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.8.0/file/perrinjerome.vscode-zc-buildout-0.8.0.vsix";
+      sha256 = "sha256-51oYv0WHReIxHNl40pVdxlQ6yTYcIXwwQ1weghxISpo=";
     };
     license = "MIT";
     name = "vscode-zc-buildout";

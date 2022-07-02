@@ -23097,11 +23097,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m5h6SNg4r3kSZd/p48TgUxHGmINpfZaml2zK0yUyV4A=",
+            "sha256": "sha256-938tPWL+nScE/LqbgVbVtwxK8ISBHjuxP2lDZz1AmnM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.20.0/file/mutable-ai.mutable-ai-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.30.0/file/mutable-ai.mutable-ai-0.30.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.30.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -23914,11 +23914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Nbl9x41Ufaqfyi+Cykc78VFBtd3zrlAuGbYBjofCePU=",
+            "sha256": "sha256-dUgMrwzJrFclFx9XwhCdQJpZweE9R5GpfX3DXbjdYhk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.4/file/ocamllabs.ocaml-platform-1.10.4.vsix"
+            "url": "https://open-vsx.org/api/ocamllabs/ocaml-platform/1.10.7/file/ocamllabs.ocaml-platform-1.10.7.vsix"
         },
-        "version": "1.10.4"
+        "version": "1.10.7"
     },
     "octref-vetur": {
         "cargoLocks": null,
@@ -24674,11 +24674,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8TmCm/bmZZwlhDhhXW/UCo8RHs6vTpdsHo2N5PYaS6w=",
+            "sha256": "sha256-51oYv0WHReIxHNl40pVdxlQ6yTYcIXwwQ1weghxISpo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.7.1/file/perrinjerome.vscode-zc-buildout-0.7.1.vsix"
+            "url": "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.8.0/file/perrinjerome.vscode-zc-buildout-0.8.0.vsix"
         },
-        "version": "0.7.1"
+        "version": "0.8.0"
     },
     "peterj-proto": {
         "cargoLocks": null,
