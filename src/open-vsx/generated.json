@@ -19886,11 +19886,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OImZCXLWU0PpL0oXtH2StZXsLussZcOTB/J22vEcEXM=",
+            "sha256": "sha256-P4C1mPOkmr3epwBFGJasCToIuCOrePXwjzkrByv23N4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.31/file/lifeart.vscode-ember-unstable-3.0.31.vsix"
+            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.32/file/lifeart.vscode-ember-unstable-3.0.32.vsix"
         },
-        "version": "3.0.31"
+        "version": "3.0.32"
     },
     "lifeart-vscode-glimmer-syntax": {
         "cargoLocks": null,
