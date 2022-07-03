@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "6d4588fc3c8afb32ebb6837f696fed5bc78f3137";
+    version = "fc3ac6c8e7dd895fd353dc099c70de1094fca509";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "6d4588fc3c8afb32ebb6837f696fed5bc78f3137";
+      rev = "fc3ac6c8e7dd895fd353dc099c70de1094fca509";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-+l4z7mHa1VEij2OnMEPKp4fyqPladktvqA5o+eWBR4U=";
+      sha256 = "sha256-E/zCTEVDJgY7b5D18A2DeA9tCsFSJYyXDxxCZm/mNic=";
     };
   };
   flyingfox = {
@@ -1160,7 +1160,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "b0b5490e30b338de3ba97e41a860e117f92a2dc1";
+    version = "ae4a48e85ec58e1c4d5d574412ce1389473fbc2c";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
