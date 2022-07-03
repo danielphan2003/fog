@@ -341,10 +341,6 @@ fetch.github = "minus7/redshift"
 src.git = "https://github.com/libretro/retroarch"
 fetch.github = "libretro/retroarch"
 
-[youtube-apk]
-src.manual = "17.25.34"
-fetch.url = "https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=3641698"
-
 [revanced-cli]
 src.github_tag = "revanced/revanced-cli"
 src.prefix = "v"
