@@ -4287,11 +4287,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DBlhkr0O97mg3XJro30Cv308NtsluDK63p2+U946OvM=",
+            "sha256": "sha256-CTIOgrCjICj+P7cEkRHsDjcmU/9HmKjod5hWSmugswE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.1/file/PascalReitermann93.vscode-yaml-sort-5.3.1.vsix"
+            "url": "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.2/file/PascalReitermann93.vscode-yaml-sort-5.3.2.vsix"
         },
-        "version": "5.3.1"
+        "version": "5.3.2"
     },
     "PauloAboimPinto-avalonia-vscode-extension": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hsoqp3+SrecLHiuY4DjNxCNmE8lCiihxiqS8GDF0VWs=",
+            "sha256": "sha256-nQJB+q4G+IAWCR0CZbEnvWUWsb37uGdPdjYlABE5CJ4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.35/file/TI.devspacesplus-0.0.35.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.36/file/TI.devspacesplus-0.0.36.vsix"
         },
-        "version": "0.0.35"
+        "version": "0.0.36"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -25282,11 +25282,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OBsj++lLLJRydoIRFYDPDoH2G0Y6Pc5hbi5b8gh35E0=",
+            "sha256": "sha256-w5e36uav1wI1WKnoq6dOD3d6mVj2y/7dJjpQ82F6URE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.372/file/pokey.cursorless-0.26.372.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.373/file/pokey.cursorless-0.26.373.vsix"
         },
-        "version": "0.26.372"
+        "version": "0.26.373"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

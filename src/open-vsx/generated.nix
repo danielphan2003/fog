@@ -2703,10 +2703,10 @@
   };
   PascalReitermann93-vscode-yaml-sort = {
     pname = "PascalReitermann93-vscode-yaml-sort";
-    version = "5.3.1";
+    version = "5.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.1/file/PascalReitermann93.vscode-yaml-sort-5.3.1.vsix";
-      sha256 = "sha256-DBlhkr0O97mg3XJro30Cv308NtsluDK63p2+U946OvM=";
+      url = "https://open-vsx.org/api/PascalReitermann93/vscode-yaml-sort/5.3.2/file/PascalReitermann93.vscode-yaml-sort-5.3.2.vsix";
+      sha256 = "sha256-CTIOgrCjICj+P7cEkRHsDjcmU/9HmKjod5hWSmugswE=";
     };
     license = "MIT";
     name = "vscode-yaml-sort";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.35";
+    version = "0.0.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.35/file/TI.devspacesplus-0.0.35.vsix";
-      sha256 = "sha256-hsoqp3+SrecLHiuY4DjNxCNmE8lCiihxiqS8GDF0VWs=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.36/file/TI.devspacesplus-0.0.36.vsix";
+      sha256 = "sha256-nQJB+q4G+IAWCR0CZbEnvWUWsb37uGdPdjYlABE5CJ4=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -15963,10 +15963,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.372";
+    version = "0.26.373";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.372/file/pokey.cursorless-0.26.372.vsix";
-      sha256 = "sha256-OBsj++lLLJRydoIRFYDPDoH2G0Y6Pc5hbi5b8gh35E0=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.373/file/pokey.cursorless-0.26.373.vsix";
+      sha256 = "sha256-w5e36uav1wI1WKnoq6dOD3d6mVj2y/7dJjpQ82F6URE=";
     };
     license = "MIT";
     name = "cursorless";
