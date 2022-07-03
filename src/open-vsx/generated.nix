@@ -2427,10 +2427,10 @@
   };
   MehediDracula-php-namespace-resolver = {
     pname = "MehediDracula-php-namespace-resolver";
-    version = "1.1.8";
+    version = "1.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MehediDracula/php-namespace-resolver/1.1.8/file/MehediDracula.php-namespace-resolver-1.1.8.vsix";
-      sha256 = "sha256-Vl8ZSInXZZQYe8Xn73FmcI9OIe6iZb6MfOPL3ZR0jSU=";
+      url = "https://open-vsx.org/api/MehediDracula/php-namespace-resolver/1.1.9/file/MehediDracula.php-namespace-resolver-1.1.9.vsix";
+      sha256 = "sha256-QsuKK7POow+AfYKDY/VIDaViSE8d+IKRWmtqDUSUeXo=";
     };
     license = "MIT";
     name = "php-namespace-resolver";
@@ -3987,10 +3987,10 @@
   };
   ZixuanChen-vitest-explorer = {
     pname = "ZixuanChen-vitest-explorer";
-    version = "0.2.12";
+    version = "0.2.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.12/file/ZixuanChen.vitest-explorer-0.2.12.vsix";
-      sha256 = "sha256-61HztvRmHFAy1N/suT2gvwEzytzsafKaf/yF9Fsr2DU=";
+      url = "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.20/file/ZixuanChen.vitest-explorer-0.2.20.vsix";
+      sha256 = "sha256-nfPzg7zUSsIQtayX3EsnWVVHsO2SUMCWIqvqW3uaSxI=";
     };
     license = "MIT";
     name = "vitest-explorer";
@@ -8463,10 +8463,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.8.8";
+    version = "0.8.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.8/file/enkia.tokyo-night-0.8.8.vsix";
-      sha256 = "sha256-nec/06jjiOf65h6N/b88gqclZpawfZsbYGz31/VkMKo=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.9/file/enkia.tokyo-night-0.8.9.vsix";
+      sha256 = "sha256-++AW2SCagrnt3HmpfooRIJ6bA666IK/Ls03VJOvdh44=";
     };
     license = "MIT";
     name = "tokyo-night";
@@ -11775,10 +11775,10 @@
   };
   karunamurti-haml = {
     pname = "karunamurti-haml";
-    version = "1.4.0";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/karunamurti/haml/1.4.0/file/karunamurti.haml-1.4.0.vsix";
-      sha256 = "sha256-oRP9DVUh1PC7ssyzu1U2w3HGUsDpKoVpzW2Mci6p9bg=";
+      url = "https://open-vsx.org/api/karunamurti/haml/1.4.1/file/karunamurti.haml-1.4.1.vsix";
+      sha256 = "sha256-yRJ8PXVtDwi9rrlrMqeg5wmHEhicrjLpyEM2+yS5mzs=";
     };
     license = "MIT";
     name = "haml";

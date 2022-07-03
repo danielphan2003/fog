@@ -3850,11 +3850,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Vl8ZSInXZZQYe8Xn73FmcI9OIe6iZb6MfOPL3ZR0jSU=",
+            "sha256": "sha256-QsuKK7POow+AfYKDY/VIDaViSE8d+IKRWmtqDUSUeXo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/MehediDracula/php-namespace-resolver/1.1.8/file/MehediDracula.php-namespace-resolver-1.1.8.vsix"
+            "url": "https://open-vsx.org/api/MehediDracula/php-namespace-resolver/1.1.9/file/MehediDracula.php-namespace-resolver-1.1.9.vsix"
         },
-        "version": "1.1.8"
+        "version": "1.1.9"
     },
     "MercierCorentin-lustre": {
         "cargoLocks": null,
@@ -6320,11 +6320,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-61HztvRmHFAy1N/suT2gvwEzytzsafKaf/yF9Fsr2DU=",
+            "sha256": "sha256-nfPzg7zUSsIQtayX3EsnWVVHsO2SUMCWIqvqW3uaSxI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.12/file/ZixuanChen.vitest-explorer-0.2.12.vsix"
+            "url": "https://open-vsx.org/api/ZixuanChen/vitest-explorer/0.2.20/file/ZixuanChen.vitest-explorer-0.2.20.vsix"
         },
-        "version": "0.2.12"
+        "version": "0.2.20"
     },
     "ZixuanWang-linkerscript": {
         "cargoLocks": null,
@@ -13407,11 +13407,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nec/06jjiOf65h6N/b88gqclZpawfZsbYGz31/VkMKo=",
+            "sha256": "sha256-++AW2SCagrnt3HmpfooRIJ6bA666IK/Ls03VJOvdh44=",
             "type": "url",
-            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.8/file/enkia.tokyo-night-0.8.8.vsix"
+            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.8.9/file/enkia.tokyo-night-0.8.9.vsix"
         },
-        "version": "0.8.8"
+        "version": "0.8.9"
     },
     "entan-gl-cc65-vice": {
         "cargoLocks": null,
@@ -18651,11 +18651,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oRP9DVUh1PC7ssyzu1U2w3HGUsDpKoVpzW2Mci6p9bg=",
+            "sha256": "sha256-yRJ8PXVtDwi9rrlrMqeg5wmHEhicrjLpyEM2+yS5mzs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/karunamurti/haml/1.4.0/file/karunamurti.haml-1.4.0.vsix"
+            "url": "https://open-vsx.org/api/karunamurti/haml/1.4.1/file/karunamurti.haml-1.4.1.vsix"
         },
-        "version": "1.4.0"
+        "version": "1.4.1"
     },
     "karunamurti-rspec-snippets": {
         "cargoLocks": null,
