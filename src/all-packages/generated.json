@@ -1286,11 +1286,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8MMKI0XbbURsPF2eQ0M9QiXcdRF9urfqFZCsgoB77kM=",
+            "sha256": "sha256-75ZFzhRsczkwhiUl1upKjSvmqN0RkXaM8cKr4zLgi4w=",
             "type": "url",
-            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.44.1.tar.gz"
+            "url": "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.45.0.tar.gz"
         },
-        "version": "1.44.1"
+        "version": "1.45.0"
     },
     "pmbootstrap-test": {
         "cargoLocks": null,
@@ -1303,12 +1303,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "58c39f2cb2fbf31087396322e128b97f6db63ec6",
-            "sha256": "sha256-JN03MBfIR15xaPfzNaRD/cDGQJJC1mv059F9BvCEkVM=",
+            "rev": "e527a159ade97ab4fa86ffc39bda3c02cb22d61f",
+            "sha256": "sha256-tG1+vUJW9JIdYpcRn8J0fCIZh29hYo8wSlBKwTUxyMU=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "58c39f2cb2fbf31087396322e128b97f6db63ec6"
+        "version": "e527a159ade97ab4fa86ffc39bda3c02cb22d61f"
     },
     "polymc-cracked": {
         "cargoLocks": null,
@@ -1488,11 +1488,67 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "91c8541e204a8879f4ccb586b2df004e58b4293a",
-            "sha256": "sha256-lhyFPm+Ak3fIz4Tz6M80d944vnpwfbKwQoE6yqS6UYU=",
+            "rev": "7043873fbafc075c95cc5780be7d8d7382db9fae",
+            "sha256": "sha256-2qogEruTz9n68j2tM/seOME4m1tT/qIduEHpN5LpzH8=",
             "type": "github"
         },
-        "version": "91c8541e204a8879f4ccb586b2df004e58b4293a"
+        "version": "7043873fbafc075c95cc5780be7d8d7382db9fae"
+    },
+    "revanced-cli": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "revanced-cli",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-SmQfgwHiKNYtCS6KIUfGmOZTGUc+VYeTx8KFKcvThNY=",
+            "type": "url",
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.3.0/revanced-cli-2.3.0-all.jar"
+        },
+        "version": "2.3.0"
+    },
+    "revanced-integrations": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "revanced-integrations",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2QH1QZe51e1HKss/ExQZpGxX4p83p1YtilR1UTTyvMU=",
+            "type": "url",
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.20.0/app-release-unsigned.apk"
+        },
+        "version": "0.20.0"
+    },
+    "revanced-patches-dex": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "revanced-patches-dex",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-RdWtFpTZJTPxE9eMSw59Az7KlPE5FjrOnccR3tQYKCI=",
+            "type": "url",
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.6.0/revanced-patches-2.6.0.dex"
+        },
+        "version": "2.6.0"
+    },
+    "revanced-patches-jar": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "revanced-patches-jar",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ZRryPLuKtIn9REzkNDkWR2kGbXK8kkkPMbAs6gzMhi8=",
+            "type": "url",
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.6.0/revanced-patches-2.6.0.jar"
+        },
+        "version": "2.6.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1674,12 +1730,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a760e33a899afa4aac89d43ca22537b09063ccf8",
-            "sha256": "sha256-xo0TSKiWJPxjSNEY7VYMLgRKTPrlInox0sqTB2r/AbU=",
+            "rev": "8141c8bdcbad55c0cd576285fc667bd3c0579c23",
+            "sha256": "sha256-TibjUaAQgEOXNVyt6nb9sffaV+BFCaLz5bKG+9hMJ+I=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "a760e33a899afa4aac89d43ca22537b09063ccf8"
+        "version": "8141c8bdcbad55c0cd576285fc667bd3c0579c23"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -1713,11 +1769,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "5547d0b669afe99fe616efd858049bccf30990dd",
-            "sha256": "sha256-jEAalwjN9Yd0vnPClrQ37X9G7MkvTnOCzaVjpBaBJuc=",
+            "rev": "b7b82c2b724c096c2b432efa3c826e524d6b4470",
+            "sha256": "sha256-CvMGeJk3McpB/O9gdSSnOlyLvt0WNNRyzk7SyOWxrr0=",
             "type": "github"
         },
-        "version": "5547d0b669afe99fe616efd858049bccf30990dd"
+        "version": "b7b82c2b724c096c2b432efa3c826e524d6b4470"
     },
     "spicetify-themes": {
         "cargoLocks": null,
