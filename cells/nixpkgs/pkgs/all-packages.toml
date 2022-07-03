@@ -344,7 +344,7 @@ fetch.github = "libretro/retroarch"
 [revanced-cli]
 src.github_tag = "revanced/revanced-cli"
 src.prefix = "v"
-fetch.url = "https://github.com/revanced/revanced-cli/releases/download/v$ver/revanced-cli-$ver-all.dex"
+fetch.url = "https://github.com/revanced/revanced-cli/releases/download/v$ver/revanced-cli-$ver-all.jar"
 
 [revanced-integrations]
 src.github_tag = "revanced/revanced-integrations"
