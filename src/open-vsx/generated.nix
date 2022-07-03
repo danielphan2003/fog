@@ -15579,10 +15579,10 @@
   };
   perrinjerome-vscode-zc-buildout = {
     pname = "perrinjerome-vscode-zc-buildout";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.8.0/file/perrinjerome.vscode-zc-buildout-0.8.0.vsix";
-      sha256 = "sha256-51oYv0WHReIxHNl40pVdxlQ6yTYcIXwwQ1weghxISpo=";
+      url = "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.8.1/file/perrinjerome.vscode-zc-buildout-0.8.1.vsix";
+      sha256 = "sha256-uzqPp5bMT1VEoe0fQAq3HtjRScpAooBwZiQFFfT90Qo=";
     };
     license = "MIT";
     name = "vscode-zc-buildout";

@@ -24674,11 +24674,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-51oYv0WHReIxHNl40pVdxlQ6yTYcIXwwQ1weghxISpo=",
+            "sha256": "sha256-uzqPp5bMT1VEoe0fQAq3HtjRScpAooBwZiQFFfT90Qo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.8.0/file/perrinjerome.vscode-zc-buildout-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/perrinjerome/vscode-zc-buildout/0.8.1/file/perrinjerome.vscode-zc-buildout-0.8.1.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.8.1"
     },
     "peterj-proto": {
         "cargoLocks": null,
