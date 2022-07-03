@@ -25282,11 +25282,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-diouu3uzfXe7IW63HsXxb6KinG7kWi/TruMDTdPfG68=",
+            "sha256": "sha256-Bb/gLtIsS2jt+ASF1Bp/bWaPBBVFRtJ90U1P90BEVjc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.374/file/pokey.cursorless-0.26.374.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.376/file/pokey.cursorless-0.26.376.vsix"
         },
-        "version": "0.26.374"
+        "version": "0.26.376"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28271,6 +28271,25 @@
         },
         "version": "1.9.0"
     },
+    "shivaprasanth-dotbook": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "shivaprasanth-dotbook",
+        "passthru": {
+            "description": "Ace editor view for dothttp notebook output renderer",
+            "license": "Apache-2.0",
+            "name": "dotbook",
+            "publisher": "shivaprasanth"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-R7nshom0CgOn0rMrda92okoJQNPowNst8Qtx8A/kG38=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/shivaprasanth/dotbook/0.0.1/file/shivaprasanth.dotbook-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "shivaprasanth-dothttp-code": {
         "cargoLocks": null,
         "extract": null,
@@ -28284,11 +28303,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rYbjkMGhYRYzKI8D0aHCyiCXCL1bzhtWmPZouupNMCg=",
+            "sha256": "sha256-lSxkSGF2CYxO4FlT/ENZQEhlvxHDC5hothu76nVDpfY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.51/file/shivaprasanth.dothttp-code-0.0.51.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.53/file/shivaprasanth.dothttp-code-0.0.53.vsix"
         },
-        "version": "0.0.51"
+        "version": "0.0.53"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,

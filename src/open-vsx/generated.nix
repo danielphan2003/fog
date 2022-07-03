@@ -15963,10 +15963,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.374";
+    version = "0.26.376";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.374/file/pokey.cursorless-0.26.374.vsix";
-      sha256 = "sha256-diouu3uzfXe7IW63HsXxb6KinG7kWi/TruMDTdPfG68=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.376/file/pokey.cursorless-0.26.376.vsix";
+      sha256 = "sha256-Bb/gLtIsS2jt+ASF1Bp/bWaPBBVFRtJ90U1P90BEVjc=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17857,12 +17857,24 @@
     description = "BigQuery SQL language support in Visual Studio Code";
     publisher = "shinichi-takii";
   };
+  shivaprasanth-dotbook = {
+    pname = "shivaprasanth-dotbook";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/shivaprasanth/dotbook/0.0.1/file/shivaprasanth.dotbook-0.0.1.vsix";
+      sha256 = "sha256-R7nshom0CgOn0rMrda92okoJQNPowNst8Qtx8A/kG38=";
+    };
+    license = "Apache-2.0";
+    name = "dotbook";
+    description = "Ace editor view for dothttp notebook output renderer";
+    publisher = "shivaprasanth";
+  };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.51";
+    version = "0.0.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.51/file/shivaprasanth.dothttp-code-0.0.51.vsix";
-      sha256 = "sha256-rYbjkMGhYRYzKI8D0aHCyiCXCL1bzhtWmPZouupNMCg=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.53/file/shivaprasanth.dothttp-code-0.0.53.vsix";
+      sha256 = "sha256-lSxkSGF2CYxO4FlT/ENZQEhlvxHDC5hothu76nVDpfY=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
