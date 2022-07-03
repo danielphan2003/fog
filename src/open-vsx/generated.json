@@ -25282,11 +25282,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-w5e36uav1wI1WKnoq6dOD3d6mVj2y/7dJjpQ82F6URE=",
+            "sha256": "sha256-diouu3uzfXe7IW63HsXxb6KinG7kWi/TruMDTdPfG68=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.373/file/pokey.cursorless-0.26.373.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.374/file/pokey.cursorless-0.26.374.vsix"
         },
-        "version": "0.26.373"
+        "version": "0.26.374"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
