@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "e0f0ed9af428792b6302208299a96ace4b432082",
-            "sha256": "sha256-BrQ/AYz0Qd3JTKgSQYj+JezybrxQO6hrhxWKTkSdDQI=",
+            "rev": "0a01ec9926664e20420beee17e7daefc5e11358a",
+            "sha256": "sha256-V0X/mLiRARDX5ZeRB471XS4/3bpi7bglXLYPGWQeH0Y=",
             "type": "github"
         },
-        "version": "e0f0ed9af428792b6302208299a96ace4b432082"
+        "version": "0a01ec9926664e20420beee17e7daefc5e11358a"
     },
     "ibus": {
         "cargoLocks": null,
