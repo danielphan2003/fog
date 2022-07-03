@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qLoH9pHT5zDmHq7bRRqKYnceH7o0QKI3/9ZSrltcdQw=",
+            "sha256": "sha256-hsoqp3+SrecLHiuY4DjNxCNmE8lCiihxiqS8GDF0VWs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.34/file/TI.devspacesplus-0.0.34.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.35/file/TI.devspacesplus-0.0.35.vsix"
         },
-        "version": "0.0.34"
+        "version": "0.0.35"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -30070,11 +30070,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-r+TVy82IOFO/dYqbHqIjmlMD0WglRwamtwaG3Hvjtg8=",
+            "sha256": "sha256-hfVNx+VqGfJIAlPm/X+40uARH9pB9JTA7xaNWaESV00=",
             "type": "url",
-            "url": "https://open-vsx.org/api/syler/sass-indented/1.8.21/file/syler.sass-indented-1.8.21.vsix"
+            "url": "https://open-vsx.org/api/syler/sass-indented/1.8.22/file/syler.sass-indented-1.8.22.vsix"
         },
-        "version": "1.8.21"
+        "version": "1.8.22"
     },
     "synedra-auto-run-command": {
         "cargoLocks": null,

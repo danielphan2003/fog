@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.34";
+    version = "0.0.35";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.34/file/TI.devspacesplus-0.0.34.vsix";
-      sha256 = "sha256-qLoH9pHT5zDmHq7bRRqKYnceH7o0QKI3/9ZSrltcdQw=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.35/file/TI.devspacesplus-0.0.35.vsix";
+      sha256 = "sha256-hsoqp3+SrecLHiuY4DjNxCNmE8lCiihxiqS8GDF0VWs=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -18987,10 +18987,10 @@
   };
   syler-sass-indented = {
     pname = "syler-sass-indented";
-    version = "1.8.21";
+    version = "1.8.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/syler/sass-indented/1.8.21/file/syler.sass-indented-1.8.21.vsix";
-      sha256 = "sha256-r+TVy82IOFO/dYqbHqIjmlMD0WglRwamtwaG3Hvjtg8=";
+      url = "https://open-vsx.org/api/syler/sass-indented/1.8.22/file/syler.sass-indented-1.8.22.vsix";
+      sha256 = "sha256-hfVNx+VqGfJIAlPm/X+40uARH9pB9JTA7xaNWaESV00=";
     };
     license = "MIT";
     name = "sass-indented";
