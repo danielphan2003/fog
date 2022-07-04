@@ -10911,10 +10911,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.7";
+    version = "0.3.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.7/file/iterative.dvc-0.3.7.vsix";
-      sha256 = "sha256-oHW5pYXbo7TcGwBL7JDTLig9lxmfFI9i/g48uE7AX6Q=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.8/file/iterative.dvc-0.3.8.vsix";
+      sha256 = "sha256-ysPULoy9V++B3bOvdi4tFLF1tiZuXF3hm7A7mB2hB7Y=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -15963,10 +15963,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.376";
+    version = "0.26.377";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.376/file/pokey.cursorless-0.26.376.vsix";
-      sha256 = "sha256-Bb/gLtIsS2jt+ASF1Bp/bWaPBBVFRtJ90U1P90BEVjc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.377/file/pokey.cursorless-0.26.377.vsix";
+      sha256 = "sha256-NRiYytlm6ARI5P0DoINM7SrPH8afhIbD9zhr6ncokfQ=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17919,10 +17919,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.16.0";
+    version = "0.16.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.0/file/shufo.vscode-blade-formatter-0.16.0.vsix";
-      sha256 = "sha256-m5ZXMTJ9L72bGRkByqTHxO02Kv/Ig1ochoQ2Ah1W5qk=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.1/file/shufo.vscode-blade-formatter-0.16.1.vsix";
+      sha256 = "sha256-Lox1NSoVXpPCzOC4WSGzyzTaXHaWyQ0dIUXMfJJ0le4=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";

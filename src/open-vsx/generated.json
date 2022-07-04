@@ -17283,11 +17283,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oHW5pYXbo7TcGwBL7JDTLig9lxmfFI9i/g48uE7AX6Q=",
+            "sha256": "sha256-ysPULoy9V++B3bOvdi4tFLF1tiZuXF3hm7A7mB2hB7Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.7/file/iterative.dvc-0.3.7.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.8/file/iterative.dvc-0.3.8.vsix"
         },
-        "version": "0.3.7"
+        "version": "0.3.8"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -25282,11 +25282,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Bb/gLtIsS2jt+ASF1Bp/bWaPBBVFRtJ90U1P90BEVjc=",
+            "sha256": "sha256-NRiYytlm6ARI5P0DoINM7SrPH8afhIbD9zhr6ncokfQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.376/file/pokey.cursorless-0.26.376.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.377/file/pokey.cursorless-0.26.377.vsix"
         },
-        "version": "0.26.376"
+        "version": "0.26.377"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28379,11 +28379,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m5ZXMTJ9L72bGRkByqTHxO02Kv/Ig1ochoQ2Ah1W5qk=",
+            "sha256": "sha256-Lox1NSoVXpPCzOC4WSGzyzTaXHaWyQ0dIUXMfJJ0le4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.0/file/shufo.vscode-blade-formatter-0.16.0.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.1/file/shufo.vscode-blade-formatter-0.16.1.vsix"
         },
-        "version": "0.16.0"
+        "version": "0.16.1"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
