@@ -746,11 +746,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "243a07e5d49b5fca88016e5f9a78e31ff6d1f8bd",
-            "sha256": "sha256-2En6CB1K6BdD+/eGjKTbbS4IEloHQh1VQVpTtxN86aU=",
+            "rev": "66bbae6eba076130736d4caefc2985859801086c",
+            "sha256": "sha256-+DEcNLpuoE1YPuES3c7GEp8X4zHJ/PirkYasOrIIr+g=",
             "type": "github"
         },
-        "version": "243a07e5d49b5fca88016e5f9a78e31ff6d1f8bd"
+        "version": "66bbae6eba076130736d4caefc2985859801086c"
     },
     "guiscrcpy": {
         "cargoLocks": null,
