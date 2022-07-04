@@ -3135,10 +3135,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.34";
+    version = "3.3.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.34/file/SPGoding.datapack-language-server-3.3.34.vsix";
-      sha256 = "sha256-J0p7qzxCaTGjClmDLJVULWlNdTQM+b3N3adxkXwcVZg=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.36/file/SPGoding.datapack-language-server-3.3.36.vsix";
+      sha256 = "sha256-Wf9mvmuzSK8K+5eluj/YprPFaxEHx7OJQLuLtNnyDxs=";
     };
     license = "MIT";
     name = "datapack-language-server";
@@ -8247,10 +8247,10 @@
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
-    version = "4.1.0";
+    version = "4.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/efoerster/texlab/4.1.0/file/efoerster.texlab-4.1.0.vsix";
-      sha256 = "sha256-aQXLfMdx1usorNlRVkRETU4dUdw8/roLC1Rv6ZipSRM=";
+      url = "https://open-vsx.org/api/efoerster/texlab/4.2.0/file/efoerster.texlab-4.2.0.vsix";
+      sha256 = "sha256-lolNe4L3iiVVVTDKWnmwvE8S3jDvv0ZQWRMZoFb2ILw=";
     };
     license = "MIT";
     name = "texlab";
