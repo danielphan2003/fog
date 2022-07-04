@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "853a33888b85d296d00ab015d4f68431862bae82";
+    version = "c40ef59a3570e2d80a0b15131e6964c3c5e14408";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "853a33888b85d296d00ab015d4f68431862bae82";
+      rev = "c40ef59a3570e2d80a0b15131e6964c3c5e14408";
       fetchSubmodules = false;
-      sha256 = "sha256-1gHdcte39SDZCKfvTbAK2+EfVfHiBnlXOhwo3WlzCrw=";
+      sha256 = "sha256-1L3KQipLgSV52VebYFcxSC39Zh+e+sMdhhTpP8Giq+A=";
     });
   };
   ibus = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6310";
+    version = "1.0.6311";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6310.tar.bz2";
-      sha256 = "sha256-F8G7QCn+0eAdw4RKh+ijrctow6rktDaBhpnLMQufV5Y=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6311.tar.bz2";
+      sha256 = "sha256-8htPgzpSLYTjHluyWmpiu+RShxQ1GIbT5RtHXrCc0CI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6310";
+    version = "1.0.6311";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6310-1_all.deb";
-      sha256 = "sha256-467IAIUKWo8in6lMEOPZS76VdKKnkCwKb6QZqL8/hNQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6311-1_all.deb";
+      sha256 = "sha256-ULKdA9HzwvKnJzvKhHvbv9IvAxkKoQbrcHjRK6dl7wg=";
     };
   };
   jitsi-videobridge2 = {
@@ -1045,13 +1045,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "6b992807504844e91d68d54e76561ee2cff3e66f";
+    version = "555ff42905f7989946d1743b4e978c80eeed2e56";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "6b992807504844e91d68d54e76561ee2cff3e66f";
+      rev = "555ff42905f7989946d1743b4e978c80eeed2e56";
       fetchSubmodules = false;
-      sha256 = "sha256-s1heA16xyqoq/WzbysuQYqbHqasShOEEZ+DvkMVa2lo=";
+      sha256 = "sha256-YnMjich4OTBGXayNGmda/IswBCJG1l1V/ax4cF7XNyM=";
     });
   };
   spicetify-marketplace = {
@@ -1067,13 +1067,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "8410f0a997efd800481e59ac7da4cf2e6abecec9";
+    version = "f98cd839b36e4efa78da51d9e55a9006eb1de5ac";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "8410f0a997efd800481e59ac7da4cf2e6abecec9";
+      rev = "f98cd839b36e4efa78da51d9e55a9006eb1de5ac";
       fetchSubmodules = false;
-      sha256 = "sha256-wmnDzNOH56kunMFEDFtwjbX+2Boaw6V78wz94GzuW10=";
+      sha256 = "sha256-eiPZmUNA60jYq9neI5MzBUhxozJ3MKnkduw54OC2IrU=";
     });
   };
   spotify = {
