@@ -5009,11 +5009,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-v9i7XzOQUyHOAKQat0XPxS1DtYFl7DqZpsySQswjOFw=",
+            "sha256": "sha256-/8UmmE/DUGETo5wskSB239s92uNDHMqSQ8mVP90AcXs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.9/file/Sarrus.sourcepawn-vscode-4.0.9.vsix"
+            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.10/file/Sarrus.sourcepawn-vscode-4.0.10.vsix"
         },
-        "version": "4.0.9"
+        "version": "4.0.10"
     },
     "SenseTime-kestrel": {
         "cargoLocks": null,
@@ -10842,11 +10842,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CqE8x/hZUFy61bCIv7QGiAc8XKtUCJa/uvBA/yCzGh0=",
+            "sha256": "sha256-2Xgb0JGZgj/rzzbG0fPE2tZomWw02VCogesP0zsrb54=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.2/file/cloudstudio.metawork-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.3/file/cloudstudio.metawork-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "cloudstudio-workspaces": {
         "cargoLocks": null,
@@ -25320,11 +25320,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a/RYtSHhiG0sol4Ov7XTtJomkLZc9YdRK8qTtN7XDvg=",
+            "sha256": "sha256-f7Qf6Yx+s6jug0ol5WXWTys+Gr6UzgktGHmQMsW9V0w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.379/file/pokey.cursorless-0.26.379.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.380/file/pokey.cursorless-0.26.380.vsix"
         },
-        "version": "0.26.379"
+        "version": "0.26.380"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

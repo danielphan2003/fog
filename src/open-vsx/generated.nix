@@ -3159,10 +3159,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.9";
+    version = "4.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.9/file/Sarrus.sourcepawn-vscode-4.0.9.vsix";
-      sha256 = "sha256-v9i7XzOQUyHOAKQat0XPxS1DtYFl7DqZpsySQswjOFw=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.10/file/Sarrus.sourcepawn-vscode-4.0.10.vsix";
+      sha256 = "sha256-/8UmmE/DUGETo5wskSB239s92uNDHMqSQ8mVP90AcXs=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -6843,10 +6843,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.2/file/cloudstudio.metawork-0.0.2.vsix";
-      sha256 = "sha256-CqE8x/hZUFy61bCIv7QGiAc8XKtUCJa/uvBA/yCzGh0=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.3/file/cloudstudio.metawork-0.0.3.vsix";
+      sha256 = "sha256-2Xgb0JGZgj/rzzbG0fPE2tZomWw02VCogesP0zsrb54=";
     };
     license = "MIT";
     name = "metawork";
@@ -15987,10 +15987,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.379";
+    version = "0.26.380";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.379/file/pokey.cursorless-0.26.379.vsix";
-      sha256 = "sha256-a/RYtSHhiG0sol4Ov7XTtJomkLZc9YdRK8qTtN7XDvg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.380/file/pokey.cursorless-0.26.380.vsix";
+      sha256 = "sha256-f7Qf6Yx+s6jug0ol5WXWTys+Gr6UzgktGHmQMsW9V0w=";
     };
     license = "MIT";
     name = "cursorless";
