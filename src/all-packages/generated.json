@@ -1750,11 +1750,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "a557cdbf1f2a1e223af57d811946a86bc664d254",
-            "sha256": "sha256-Da3tJH3vjFqQIiZM9jdIFP+adRj9uQfAm033vJKdasI=",
+            "rev": "6b992807504844e91d68d54e76561ee2cff3e66f",
+            "sha256": "sha256-s1heA16xyqoq/WzbysuQYqbHqasShOEEZ+DvkMVa2lo=",
             "type": "github"
         },
-        "version": "a557cdbf1f2a1e223af57d811946a86bc664d254"
+        "version": "6b992807504844e91d68d54e76561ee2cff3e66f"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
