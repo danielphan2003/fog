@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.43";
+    version = "0.0.44";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.43/file/TI.devspacesplus-0.0.43.vsix";
-      sha256 = "sha256-yp5CrETfOlBTV+BDTGeqv+E/F1IsMcLB9PRj7INb4DU=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.44/file/TI.devspacesplus-0.0.44.vsix";
+      sha256 = "sha256-gQGDX+EwirSWmXECTI3vQpuHOX0iIHDsHoM6vIGUdNI=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5859,10 +5859,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.288";
+    version = "2.0.289";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.288/file/betterthantomorrow.calva-2.0.288.vsix";
-      sha256 = "sha256-70sPL+7JJv/RKgXbe85hpqzp+vOHB8cVkjrGETieRl0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.289/file/betterthantomorrow.calva-2.0.289.vsix";
+      sha256 = "sha256-cmMkg+b1rZb+Cigx+sPijhtJhsM9DYNFUcWDjiHKsQI=";
     };
     license = "MIT";
     name = "calva";
@@ -11991,10 +11991,10 @@
   };
   kleinesfilmroellchen-serenity-dsl-syntaxhighlight = {
     pname = "kleinesfilmroellchen-serenity-dsl-syntaxhighlight";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.2.0/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.2.0.vsix";
-      sha256 = "sha256-AscqiKzFBiotDq9+owKZrUokMJHjxVROnfmPoBchvV8=";
+      url = "https://open-vsx.org/api/kleinesfilmroellchen/serenity-dsl-syntaxhighlight/0.2.1/file/kleinesfilmroellchen.serenity-dsl-syntaxhighlight-0.2.1.vsix";
+      sha256 = "sha256-zihCUU/SYliKT4ndGZkoxf9PUHa2dBLCYMeKV6CCfX8=";
     };
     license = "MIT";
     name = "serenity-dsl-syntaxhighlight";
