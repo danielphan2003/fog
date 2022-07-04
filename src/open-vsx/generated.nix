@@ -217,12 +217,24 @@
     description = "Bazel BUILD integration";
     publisher = "BazelBuild";
   };
+  BeardedBear-beardedicons = {
+    pname = "BeardedBear-beardedicons";
+    version = "0.21.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.21.0/file/BeardedBear.beardedicons-0.21.0.vsix";
+      sha256 = "sha256-XF4OyHlTdlOh87UgOSko2hAT7IDZnNswMf8WYTfXFas=";
+    };
+    license = "MIT";
+    name = "beardedicons";
+    description = "The icons with a long beard.";
+    publisher = "BeardedBear";
+  };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "6.0.1";
+    version = "6.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.0.1/file/BeardedBear.beardedtheme-6.0.1.vsix";
-      sha256 = "sha256-wOKijOAMwrkGvHxSBnWy/xg+PDOJrzGF0ExOCkvlauA=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.5.0/file/BeardedBear.beardedtheme-6.5.0.vsix";
+      sha256 = "sha256-o17zBX0x3uIfbrnOJSIFj2CBCzuIKu+f6R1RzG0hC84=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -15039,10 +15051,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.18.6";
+    version = "17.18.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.6/file/nrwl.angular-console-17.18.6.vsix";
-      sha256 = "sha256-7I+FweYKEbZqKhR6e+XpPiaVBN1NTSuT5lm4PA5fb0o=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.7/file/nrwl.angular-console-17.18.7.vsix";
+      sha256 = "sha256-Pvq8+nBiU+8MsNgZmflc0VDYPXO2w+ZGTsJSgSrR7yY=";
     };
     license = "MIT";
     name = "angular-console";
@@ -20619,10 +20631,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.35.1";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix";
-      sha256 = "sha256-NaAUC7xnAWIMbpj3JR81qvvCw0pCU5bZgf+WffDumDw=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix";
+      sha256 = "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=";
     };
     license = "";
     name = "vscode-java-test";
@@ -20631,10 +20643,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.36.0";
+    version = "0.35.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.36.0/file/vscjava.vscode-maven-0.36.0.vsix";
-      sha256 = "sha256-RFE3lY2fmU6ECNtpwXR0fsCQIvt8gHsHyhG3C1n2XYc=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix";
+      sha256 = "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=";
     };
     license = "MIT";
     name = "vscode-maven";

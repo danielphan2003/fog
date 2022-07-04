@@ -341,6 +341,25 @@
         },
         "version": "0.5.0"
     },
+    "BeardedBear-beardedicons": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "BeardedBear-beardedicons",
+        "passthru": {
+            "description": "The icons with a long beard.",
+            "license": "MIT",
+            "name": "beardedicons",
+            "publisher": "BeardedBear"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-XF4OyHlTdlOh87UgOSko2hAT7IDZnNswMf8WYTfXFas=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.21.0/file/BeardedBear.beardedicons-0.21.0.vsix"
+        },
+        "version": "0.21.0"
+    },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
         "extract": null,
@@ -354,11 +373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wOKijOAMwrkGvHxSBnWy/xg+PDOJrzGF0ExOCkvlauA=",
+            "sha256": "sha256-o17zBX0x3uIfbrnOJSIFj2CBCzuIKu+f6R1RzG0hC84=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/6.0.1/file/BeardedBear.beardedtheme-6.0.1.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/6.5.0/file/BeardedBear.beardedtheme-6.5.0.vsix"
         },
-        "version": "6.0.1"
+        "version": "6.5.0"
     },
     "Betajob-modulestf": {
         "cargoLocks": null,
@@ -23819,11 +23838,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7I+FweYKEbZqKhR6e+XpPiaVBN1NTSuT5lm4PA5fb0o=",
+            "sha256": "sha256-Pvq8+nBiU+8MsNgZmflc0VDYPXO2w+ZGTsJSgSrR7yY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nrwl/angular-console/17.18.6/file/nrwl.angular-console-17.18.6.vsix"
+            "url": "https://open-vsx.org/api/nrwl/angular-console/17.18.7/file/nrwl.angular-console-17.18.7.vsix"
         },
-        "version": "17.18.6"
+        "version": "17.18.7"
     },
     "nullxception-cherry-theme": {
         "cargoLocks": null,
@@ -32654,11 +32673,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NaAUC7xnAWIMbpj3JR81qvvCw0pCU5bZgf+WffDumDw=",
+            "sha256": "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix"
         },
-        "version": "0.35.1"
+        "version": "0.35.0"
     },
     "vscjava-vscode-maven": {
         "cargoLocks": null,
@@ -32673,11 +32692,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RFE3lY2fmU6ECNtpwXR0fsCQIvt8gHsHyhG3C1n2XYc=",
+            "sha256": "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-maven/0.36.0/file/vscjava.vscode-maven-0.36.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix"
         },
-        "version": "0.36.0"
+        "version": "0.35.2"
     },
     "vscjava-vscode-spring-boot-dashboard": {
         "cargoLocks": null,
