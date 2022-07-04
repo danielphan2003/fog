@@ -5009,11 +5009,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xK3irRYxC81sNYbnfrIdkI7uRJQvm0ee+L/QYPodhJY=",
+            "sha256": "sha256-v9i7XzOQUyHOAKQat0XPxS1DtYFl7DqZpsySQswjOFw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.8/file/Sarrus.sourcepawn-vscode-4.0.8.vsix"
+            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.9/file/Sarrus.sourcepawn-vscode-4.0.9.vsix"
         },
-        "version": "4.0.8"
+        "version": "4.0.9"
     },
     "SenseTime-kestrel": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eHnavojcJlWg6dA5xLO/yerQxj/LabmDOlNbQkK9lNM=",
+            "sha256": "sha256-tHKlptecwqvuTsf6AeHPiB7RxKclPTzsusvUjrthRdQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.40/file/TI.devspacesplus-0.0.40.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.41/file/TI.devspacesplus-0.0.41.vsix"
         },
-        "version": "0.0.40"
+        "version": "0.0.41"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -25301,11 +25301,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NRiYytlm6ARI5P0DoINM7SrPH8afhIbD9zhr6ncokfQ=",
+            "sha256": "sha256-Y1gvPXOYgaYFDOLR/s0XLlAE3lX9t6GNoOVYPvGRX1Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.377/file/pokey.cursorless-0.26.377.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.378/file/pokey.cursorless-0.26.378.vsix"
         },
-        "version": "0.26.377"
+        "version": "0.26.378"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -26251,11 +26251,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JHoGxTD87rFGLV4mYKwYKTmoYTvcHV0WELlHqMit7Ek=",
+            "sha256": "sha256-FXp1W6qz+Bt4rBgJ4LJVV64KMWM1H/r1WC7/zB+W2Zo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.12/file/redhat.apache-camel-extension-pack-0.0.12.vsix"
+            "url": "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.13/file/redhat.apache-camel-extension-pack-0.0.13.vsix"
         },
-        "version": "0.0.12"
+        "version": "0.0.13"
     },
     "redhat-atlasmap-viewer": {
         "cargoLocks": null,

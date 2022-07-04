@@ -3159,10 +3159,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.8";
+    version = "4.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.8/file/Sarrus.sourcepawn-vscode-4.0.8.vsix";
-      sha256 = "sha256-xK3irRYxC81sNYbnfrIdkI7uRJQvm0ee+L/QYPodhJY=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.9/file/Sarrus.sourcepawn-vscode-4.0.9.vsix";
+      sha256 = "sha256-v9i7XzOQUyHOAKQat0XPxS1DtYFl7DqZpsySQswjOFw=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.40";
+    version = "0.0.41";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.40/file/TI.devspacesplus-0.0.40.vsix";
-      sha256 = "sha256-eHnavojcJlWg6dA5xLO/yerQxj/LabmDOlNbQkK9lNM=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.41/file/TI.devspacesplus-0.0.41.vsix";
+      sha256 = "sha256-tHKlptecwqvuTsf6AeHPiB7RxKclPTzsusvUjrthRdQ=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -15975,10 +15975,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.377";
+    version = "0.26.378";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.377/file/pokey.cursorless-0.26.377.vsix";
-      sha256 = "sha256-NRiYytlm6ARI5P0DoINM7SrPH8afhIbD9zhr6ncokfQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.378/file/pokey.cursorless-0.26.378.vsix";
+      sha256 = "sha256-Y1gvPXOYgaYFDOLR/s0XLlAE3lX9t6GNoOVYPvGRX1Q=";
     };
     license = "MIT";
     name = "cursorless";
@@ -16575,10 +16575,10 @@
   };
   redhat-apache-camel-extension-pack = {
     pname = "redhat-apache-camel-extension-pack";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.12/file/redhat.apache-camel-extension-pack-0.0.12.vsix";
-      sha256 = "sha256-JHoGxTD87rFGLV4mYKwYKTmoYTvcHV0WELlHqMit7Ek=";
+      url = "https://open-vsx.org/api/redhat/apache-camel-extension-pack/0.0.13/file/redhat.apache-camel-extension-pack-0.0.13.vsix";
+      sha256 = "sha256-FXp1W6qz+Bt4rBgJ4LJVV64KMWM1H/r1WC7/zB+W2Zo=";
     };
     license = "Apache-2.0";
     name = "apache-camel-extension-pack";
