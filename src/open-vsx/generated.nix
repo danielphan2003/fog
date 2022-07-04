@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.36";
+    version = "0.0.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.36/file/TI.devspacesplus-0.0.36.vsix";
-      sha256 = "sha256-nQJB+q4G+IAWCR0CZbEnvWUWsb37uGdPdjYlABE5CJ4=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.40/file/TI.devspacesplus-0.0.40.vsix";
+      sha256 = "sha256-eHnavojcJlWg6dA5xLO/yerQxj/LabmDOlNbQkK9lNM=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5112,6 +5112,18 @@
     name = "vscode-httpyac";
     description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code";
     publisher = "anweber";
+  };
+  anyscalecompute-anyscale-workspaces = {
+    pname = "anyscalecompute-anyscale-workspaces";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.1/file/anyscalecompute.anyscale-workspaces-0.1.1.vsix";
+      sha256 = "sha256-0izDUQMnEkgqx5mpzhKVJs7w+R5auJwXqjV15unmIhg=";
+    };
+    license = "Apache-2.0";
+    name = "anyscale-workspaces";
+    description = "";
+    publisher = "anyscalecompute";
   };
   aperricone-harbour = {
     pname = "aperricone-harbour";
@@ -7779,10 +7791,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.101.4";
+    version = "0.101.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.101.4/file/dendron.nightly-0.101.4.vsix";
-      sha256 = "sha256-sgh+iQnxgZwOaJSCbvyh1HjvGgdtE4tbaMR32EB5SiA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.101.5/file/dendron.nightly-0.101.5.vsix";
+      sha256 = "sha256-L8DHubwMrfQ1H76k4aW6MtOgoYoXY8nx6yhmitdY//g=";
     };
     license = "AGPL-3.0";
     name = "nightly";

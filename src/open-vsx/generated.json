@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nQJB+q4G+IAWCR0CZbEnvWUWsb37uGdPdjYlABE5CJ4=",
+            "sha256": "sha256-eHnavojcJlWg6dA5xLO/yerQxj/LabmDOlNbQkK9lNM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.36/file/TI.devspacesplus-0.0.36.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.40/file/TI.devspacesplus-0.0.40.vsix"
         },
-        "version": "0.0.36"
+        "version": "0.0.40"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -8092,6 +8092,25 @@
             "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.2/file/anweber.vscode-httpyac-5.5.2.vsix"
         },
         "version": "5.5.2"
+    },
+    "anyscalecompute-anyscale-workspaces": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "anyscalecompute-anyscale-workspaces",
+        "passthru": {
+            "description": "",
+            "license": "Apache-2.0",
+            "name": "anyscale-workspaces",
+            "publisher": "anyscalecompute"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-0izDUQMnEkgqx5mpzhKVJs7w+R5auJwXqjV15unmIhg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.1/file/anyscalecompute.anyscale-workspaces-0.1.1.vsix"
+        },
+        "version": "0.1.1"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
@@ -12324,11 +12343,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sgh+iQnxgZwOaJSCbvyh1HjvGgdtE4tbaMR32EB5SiA=",
+            "sha256": "sha256-L8DHubwMrfQ1H76k4aW6MtOgoYoXY8nx6yhmitdY//g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.101.4/file/dendron.nightly-0.101.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.101.5/file/dendron.nightly-0.101.5.vsix"
         },
-        "version": "0.101.4"
+        "version": "0.101.5"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
