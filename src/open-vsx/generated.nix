@@ -6699,10 +6699,10 @@
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.2/file/cloudstudio.browser-preview-lite-0.0.2.vsix";
-      sha256 = "sha256-rCcwe4TEkal7PdrrhLBsvyor7ZzJcPu6kJNSeRhnmVA=";
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.3/file/cloudstudio.browser-preview-lite-0.0.3.vsix";
+      sha256 = "sha256-SieHQKj74FOqPjfaH7HZMe/Oc76sFjrKVk/XtqtJL9Y=";
     };
     license = "MIT";
     name = "browser-preview-lite";
@@ -17067,10 +17067,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.34.0";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.34.0/file/robocorp.robocorp-code-0.34.0.vsix";
-      sha256 = "sha256-6Pft8unVgC3wPvOwOGRw73vnFYMPlIMVlZ3YbLK6yq4=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.35.0/file/robocorp.robocorp-code-0.35.0.vsix";
+      sha256 = "sha256-/0a4B3jfJBg+T7t0AcLKK0EhkyvQ2Y5nL1A4hoIiZsM=";
     };
     license = "";
     name = "robocorp-code";
