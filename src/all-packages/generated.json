@@ -666,11 +666,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "f6355949ca63e8d631501dbb644e078b5a5f5985",
-            "sha256": "sha256-cDqRWnDzo3W4dQGh8H0+4+xMdhG2A+xIurb497K66I8=",
+            "rev": "33f48f4a9c3490cff7e08d717ea8852391c55fc7",
+            "sha256": "sha256-QXSjvv0NzItvRgWEu+g+ryv3RVs+ZzOsRtvO/qiIm2Y=",
             "type": "github"
         },
-        "version": "f6355949ca63e8d631501dbb644e078b5a5f5985"
+        "version": "33f48f4a9c3490cff7e08d717ea8852391c55fc7"
     },
     "fluffychat": {
         "cargoLocks": null,
@@ -746,11 +746,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "c6d32293de552c66f4af0576a746720e9ef12c31",
-            "sha256": "sha256-YzImmunlOeHJ5CaP8LE6lXR6v+hDJHvexWJYzi8Z1KU=",
+            "rev": "243a07e5d49b5fca88016e5f9a78e31ff6d1f8bd",
+            "sha256": "sha256-2En6CB1K6BdD+/eGjKTbbS4IEloHQh1VQVpTtxN86aU=",
             "type": "github"
         },
-        "version": "c6d32293de552c66f4af0576a746720e9ef12c31"
+        "version": "243a07e5d49b5fca88016e5f9a78e31ff6d1f8bd"
     },
     "guiscrcpy": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "beef23cee5cdc47142da50bf029f52bdff192025",
-            "sha256": "sha256-FerRg4+W3Xy+MVBmSBBERLFuJ0YWPWKf7fcL3k3TqLE=",
+            "rev": "cc8b8f595fa5c20b394394fe777451d4873608b3",
+            "sha256": "sha256-pdbXjyWo9nkK+Uun6AjwCMPFgfS32pF91bsoD1ebq6I=",
             "type": "github"
         },
-        "version": "beef23cee5cdc47142da50bf029f52bdff192025"
+        "version": "cc8b8f595fa5c20b394394fe777451d4873608b3"
     },
     "ibus": {
         "cargoLocks": null,
@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8htPgzpSLYTjHluyWmpiu+RShxQ1GIbT5RtHXrCc0CI=",
+            "sha256": "sha256-PPJyutqQ9+6AxkNhEGs7qejMUs+87LroS0sVW+/Q+JA=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6311.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6312.tar.bz2"
         },
-        "version": "1.0.6311"
+        "version": "1.0.6312"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ULKdA9HzwvKnJzvKhHvbv9IvAxkKoQbrcHjRK6dl7wg=",
+            "sha256": "sha256-b23Jq6Iwsls6UnmerkQVHqAmRWmerYq0BfAYyMk+ia4=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6311-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6312-1_all.deb"
         },
-        "version": "1.0.6311"
+        "version": "1.0.6312"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
