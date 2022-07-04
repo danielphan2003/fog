@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.42";
+    version = "0.0.43";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.42/file/TI.devspacesplus-0.0.42.vsix";
-      sha256 = "sha256-QeNjKJHnqeKzVOHwZ249BEPSKw3vB0H40zifbo+9lOA=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.43/file/TI.devspacesplus-0.0.43.vsix";
+      sha256 = "sha256-yp5CrETfOlBTV+BDTGeqv+E/F1IsMcLB9PRj7INb4DU=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -9471,10 +9471,10 @@
   };
   genuitecllc-codetogether = {
     pname = "genuitecllc-codetogether";
-    version = "2022.2.0";
+    version = "2022.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.0/file/genuitecllc.codetogether-2022.2.0.vsix";
-      sha256 = "sha256-/ZdA0kkNOlWxM+eyyiSdvYXWJ3D3Xw69T6vpvf3UVzU=";
+      url = "https://open-vsx.org/api/genuitecllc/codetogether/2022.2.1/file/genuitecllc.codetogether-2022.2.1.vsix";
+      sha256 = "sha256-bDJmsXklJGe5ieXAd2Mp63iCBZ2Z0sBXSlb5jPD547w=";
     };
     license = "";
     name = "codetogether";
@@ -17667,10 +17667,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.17.1";
+    version = "1.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.17.1/file/scalameta.metals-1.17.1.vsix";
-      sha256 = "sha256-pubESzF5d3wpPRG/P5mWiPLBDrPrjMIJf2H9MbWMcb8=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.18.0/file/scalameta.metals-1.18.0.vsix";
+      sha256 = "sha256-lKRU4HdXcGSs6Mt8W3S0KL/lBR+o8wGbHwN/QPEqSHA=";
     };
     license = "Apache-2.0";
     name = "metals";
