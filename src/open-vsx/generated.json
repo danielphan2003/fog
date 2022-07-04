@@ -5256,11 +5256,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AXUrduYJ9CEZL41XAUu2Flgn5URoUqOuUEIXv1nwXU0=",
+            "sha256": "sha256-05eEoQsCPbSUPOz7zEtgN7kZoI/1eKIXHmEunJWDfxY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.4/file/SonarSource.sonarlint-vscode-3.5.4.vsix"
+            "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.6.0/file/SonarSource.sonarlint-vscode-3.6.0.vsix"
         },
-        "version": "3.5.4"
+        "version": "3.6.0"
     },
     "SonatypeCommunity-vscode-iq-plugin": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tHKlptecwqvuTsf6AeHPiB7RxKclPTzsusvUjrthRdQ=",
+            "sha256": "sha256-QeNjKJHnqeKzVOHwZ249BEPSKw3vB0H40zifbo+9lOA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.41/file/TI.devspacesplus-0.0.41.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.42/file/TI.devspacesplus-0.0.42.vsix"
         },
-        "version": "0.0.41"
+        "version": "0.0.42"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -10069,6 +10069,25 @@
         },
         "version": "0.5.23"
     },
+    "byCedric-vscode-expo": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "byCedric-vscode-expo",
+        "passthru": {
+            "description": "Expo tools for vscode",
+            "license": "MIT",
+            "name": "vscode-expo",
+            "publisher": "byCedric"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-v+uMbp4m7f7hSUWXPmUr7nMrkTQOB6SbnbIoF1IR0is=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/byCedric/vscode-expo/0.7.4/file/byCedric.vscode-expo-0.7.4.vsix"
+        },
+        "version": "0.7.4"
+    },
     "byi8220-indented-block-highlighting": {
         "cargoLocks": null,
         "extract": null,
@@ -10842,11 +10861,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PXis6FNp3bYtSZbBvT1ibHpySFzM0UZXpKDeCfWhvqY=",
+            "sha256": "sha256-mg7eSoMuBHBWEx4cGMVOP8hyAFhm6QxHveA1oVOfiEg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.10/file/cloudstudio.workspaces-0.0.10.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.11/file/cloudstudio.workspaces-0.0.11.vsix"
         },
-        "version": "0.0.10"
+        "version": "0.0.11"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -25301,11 +25320,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Y1gvPXOYgaYFDOLR/s0XLlAE3lX9t6GNoOVYPvGRX1Q=",
+            "sha256": "sha256-a/RYtSHhiG0sol4Ov7XTtJomkLZc9YdRK8qTtN7XDvg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.378/file/pokey.cursorless-0.26.378.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.379/file/pokey.cursorless-0.26.379.vsix"
         },
-        "version": "0.26.378"
+        "version": "0.26.379"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

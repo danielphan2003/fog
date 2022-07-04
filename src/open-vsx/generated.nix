@@ -3315,10 +3315,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.5.4";
+    version = "3.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.5.4/file/SonarSource.sonarlint-vscode-3.5.4.vsix";
-      sha256 = "sha256-AXUrduYJ9CEZL41XAUu2Flgn5URoUqOuUEIXv1nwXU0=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.6.0/file/SonarSource.sonarlint-vscode-3.6.0.vsix";
+      sha256 = "sha256-05eEoQsCPbSUPOz7zEtgN7kZoI/1eKIXHmEunJWDfxY=";
     };
     license = "LGPL-3.0";
     name = "sonarlint-vscode";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.41";
+    version = "0.0.42";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.41/file/TI.devspacesplus-0.0.41.vsix";
-      sha256 = "sha256-tHKlptecwqvuTsf6AeHPiB7RxKclPTzsusvUjrthRdQ=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.42/file/TI.devspacesplus-0.0.42.vsix";
+      sha256 = "sha256-QeNjKJHnqeKzVOHwZ249BEPSKw3vB0H40zifbo+9lOA=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -6361,6 +6361,18 @@
     description = "This extension makes vscode seamlessly work with dbt and BigQuery";
     publisher = "butchland";
   };
+  byCedric-vscode-expo = {
+    pname = "byCedric-vscode-expo";
+    version = "0.7.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.7.4/file/byCedric.vscode-expo-0.7.4.vsix";
+      sha256 = "sha256-v+uMbp4m7f7hSUWXPmUr7nMrkTQOB6SbnbIoF1IR0is=";
+    };
+    license = "MIT";
+    name = "vscode-expo";
+    description = "Expo tools for vscode";
+    publisher = "byCedric";
+  };
   byi8220-indented-block-highlighting = {
     pname = "byi8220-indented-block-highlighting";
     version = "1.0.7";
@@ -6843,10 +6855,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.10";
+    version = "0.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.10/file/cloudstudio.workspaces-0.0.10.vsix";
-      sha256 = "sha256-PXis6FNp3bYtSZbBvT1ibHpySFzM0UZXpKDeCfWhvqY=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.11/file/cloudstudio.workspaces-0.0.11.vsix";
+      sha256 = "sha256-mg7eSoMuBHBWEx4cGMVOP8hyAFhm6QxHveA1oVOfiEg=";
     };
     license = "MIT";
     name = "workspaces";
@@ -15975,10 +15987,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.378";
+    version = "0.26.379";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.378/file/pokey.cursorless-0.26.378.vsix";
-      sha256 = "sha256-Y1gvPXOYgaYFDOLR/s0XLlAE3lX9t6GNoOVYPvGRX1Q=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.379/file/pokey.cursorless-0.26.379.vsix";
+      sha256 = "sha256-a/RYtSHhiG0sol4Ov7XTtJomkLZc9YdRK8qTtN7XDvg=";
     };
     license = "MIT";
     name = "cursorless";
