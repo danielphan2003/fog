@@ -7743,10 +7743,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.101.0";
+    version = "0.102.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.101.0/file/dendron.dendron-0.101.0.vsix";
-      sha256 = "sha256-x238NRW1KHLFXKPKUZXD8deoKrj+FgmE8gN08g9jeks=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.102.0/file/dendron.dendron-0.102.0.vsix";
+      sha256 = "sha256-bwG/HNF+2FtFKJ5UyJUPCAPH+42kL12B77tF0fkUeYg=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -12459,10 +12459,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.79";
+    version = "0.0.80";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.79/file/leanprover.lean4-0.0.79.vsix";
-      sha256 = "sha256-y9YXH1x/aXX0meYZEZnRNmQhfU6bMxFMsWDJBDax4m4=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.80/file/leanprover.lean4-0.0.80.vsix";
+      sha256 = "sha256-5Z2DP3NcP1hdkjrMrRZ1FdMwKEYw/17Q3CpqS2qASU0=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -16011,10 +16011,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.380";
+    version = "0.26.382";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.380/file/pokey.cursorless-0.26.380.vsix";
-      sha256 = "sha256-f7Qf6Yx+s6jug0ol5WXWTys+Gr6UzgktGHmQMsW9V0w=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.382/file/pokey.cursorless-0.26.382.vsix";
+      sha256 = "sha256-oBKHigYV46HEu6vR9MFXhg1+lZldOQMouV8hELV3T7A=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18399,14 +18399,14 @@
   };
   spoorthi-cosmy-wasmy = {
     pname = "spoorthi-cosmy-wasmy";
-    version = "0.1.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.1.0/file/spoorthi.cosmy-wasmy-0.1.0.vsix";
-      sha256 = "sha256-QaXlPyrkVSm/aZ5Cp0HAD6LKgho63NZvKES+nD0XRZs=";
+      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.4.1/file/spoorthi.cosmy-wasmy-0.4.1.vsix";
+      sha256 = "sha256-XAILhngra8lBGxgzYGmJMrvkPbCIHzetZFSE4WfGlg4=";
     };
     license = "GPL-3.0";
     name = "cosmy-wasmy";
-    description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm contracts";
+    description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm smart contracts";
     publisher = "spoorthi";
   };
   srimukh-slowbug = {
