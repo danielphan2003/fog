@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "fa9558cb43b5da8d5ae6ccd842651a38957d1f3c";
+    version = "97a1643552acd1ddbcc142185cc7a3b49c9eac00";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "fa9558cb43b5da8d5ae6ccd842651a38957d1f3c";
+      rev = "97a1643552acd1ddbcc142185cc7a3b49c9eac00";
       fetchSubmodules = false;
-      sha256 = "sha256-XnUEpFothf1quHw+1IApCfW0NmV8UtnPQaBYLXrhN40=";
+      sha256 = "sha256-RMCIjqpBTbJntlerDd6jVXeodnM1gQSEBCf1hTsKQ8g=";
     });
   };
   caddy = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7ff427c229b22243d3a6507cca3a7df64d31c241";
+    version = "ae096219e83b1a90990f2277b5a9302a3e943d84";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "7ff427c229b22243d3a6507cca3a7df64d31c241";
+      rev = "ae096219e83b1a90990f2277b5a9302a3e943d84";
       fetchSubmodules = false;
-      sha256 = "sha256-fZBn5/2Sg5PfCNHjdLaWuZQEabO69xerkcip6u98CVk=";
+      sha256 = "sha256-qk9uEw3DQnTbbgvQvm/ZAD9uyZYYL8z2/3bghpnZe90=";
     });
   };
   ibus = {
@@ -640,10 +640,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "104.0.1293.5";
+    version = "105.0.1300.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_104.0.1293.5-1_amd64.deb";
-      sha256 = "sha256-gbb1Wn4h26d+HZw7CkI63gHm3idZx00PiZOr8W+TRog=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1300.1-1_amd64.deb";
+      sha256 = "sha256-WZ9GvME9LN6H3/RUvDlPFiS2cPrdo2ghF7y4D07sd0o=";
     };
   };
   minecraft-wayland = {
@@ -907,26 +907,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.20.1";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.20.1/app-release-unsigned.apk";
-      sha256 = "sha256-ZS1klMBYdGrtacGBIrsjA958wEOuzqch0Jwf/LrDc98=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.0/app-release-unsigned.apk";
+      sha256 = "sha256-cunXbCeOjHlm3Us6EYsrz+uYTYNUQegGkMykplGyhnk=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.8.2";
+    version = "2.9.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.8.2/revanced-patches-2.8.2.dex";
-      sha256 = "sha256-rZ2wra7kDd3r/2Ma08bov8Mm2y/cT/mQAJ8Xk0yPPgg=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.0/revanced-patches-2.9.0.dex";
+      sha256 = "sha256-bd5qhja+jBkq1he1rNnmtTkioozM/BLmVoypWDAcAFc=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.8.2";
+    version = "2.9.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.8.2/revanced-patches-2.8.2.jar";
-      sha256 = "sha256-+kFE5Kgulspjvkr8Pr0qdt2LlJcunK0WWFssOOms/3Q=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.0/revanced-patches-2.9.0.jar";
+      sha256 = "sha256-nJNUrAwlK6IxdCTu8WbKI4owLAVbiG+mm/pHR0zPoZs=";
     };
   };
   rofi-wayland = {
