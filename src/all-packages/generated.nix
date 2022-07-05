@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6313";
+    version = "1.0.6314";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6313.tar.bz2";
-      sha256 = "sha256-5+9Sose6t88bZOZuJ061eMyk69WXbG/uLt9YbJP2Hg8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6314.tar.bz2";
+      sha256 = "sha256-hviiN+zKZ9QBLDP1T6IvZzWkcxFz01v9T1ALqBds8bI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6313";
+    version = "1.0.6314";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6313-1_all.deb";
-      sha256 = "sha256-N35S0JjUVCEWZO+Cr8uDvNwaF4DGFtnZacQdD0esvTI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6314-1_all.deb";
+      sha256 = "sha256-1+6GlZUxFWxnB9iHX21hONKl63QH8EMl/HIN5alfZ/4=";
     };
   };
   jitsi-videobridge2 = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.20.0";
+    version = "0.20.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.20.0/app-release-unsigned.apk";
-      sha256 = "sha256-2QH1QZe51e1HKss/ExQZpGxX4p83p1YtilR1UTTyvMU=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.20.1/app-release-unsigned.apk";
+      sha256 = "sha256-ZS1klMBYdGrtacGBIrsjA958wEOuzqch0Jwf/LrDc98=";
     };
   };
   revanced-patches-dex = {
