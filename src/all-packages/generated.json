@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "cf60da03c49059ed08a48b11f314ef4f04c53033",
-            "sha256": "sha256-cmzFlN7RPMg7hg2jcVb0bNqNTxhLUKV0T+S5V9YwZDI=",
+            "rev": "23f368737bca48aed50133385096e9ec3973e2b7",
+            "sha256": "sha256-8/bKE/oO6rh1fDx/4YVq1gS/5HQ5TyTwBPycK2Ay0BE=",
             "type": "github"
         },
-        "version": "cf60da03c49059ed08a48b11f314ef4f04c53033"
+        "version": "23f368737bca48aed50133385096e9ec3973e2b7"
     },
     "caddy": {
         "cargoLocks": null,
@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hviiN+zKZ9QBLDP1T6IvZzWkcxFz01v9T1ALqBds8bI=",
+            "sha256": "sha256-6l87lAXUPHKrIwYCsA9Spoq523dkrzMGgh4q0CGKOhY=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6314.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6315.tar.bz2"
         },
-        "version": "1.0.6314"
+        "version": "1.0.6315"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1+6GlZUxFWxnB9iHX21hONKl63QH8EMl/HIN5alfZ/4=",
+            "sha256": "sha256-cFIg2y76qOIgl+d6rQHaBLOkvn5ndRlmeky420KqSgk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6314-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6315-1_all.deb"
         },
-        "version": "1.0.6314"
+        "version": "1.0.6315"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "9dd1fb895b43b251e7a1488cb2cef5f433f864d9",
-            "sha256": "sha256-l3PnjDSaiQLTtk/GQlnaahZAhS6wtzs0hzGbSu4S/fg=",
+            "rev": "494c93df3eea73b8019931f19138b1f1be05b98c",
+            "sha256": "sha256-B/u2wCMxSlAXx7kyeEwqJau8M1XDCYK4k6lhX6zx61U=",
             "type": "github"
         },
-        "version": "9dd1fb895b43b251e7a1488cb2cef5f433f864d9"
+        "version": "494c93df3eea73b8019931f19138b1f1be05b98c"
     },
     "revanced-cli": {
         "cargoLocks": null,
