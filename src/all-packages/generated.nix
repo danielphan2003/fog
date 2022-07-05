@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
+    version = "b5d8c4d9dbc5589bcd511dba393d8992b299f477";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "d8eacb4673e217bf9edce5c58b60c099fe74c37d";
+      rev = "b5d8c4d9dbc5589bcd511dba393d8992b299f477";
       fetchSubmodules = true;
-      sha256 = "sha256-9n1u0ry4pmlJyeYHKXpuaTon0PT264tcp3DnKHHMDUo=";
+      sha256 = "sha256-mz9AtUsdxHScdjMSOmdF0/ZKFRXVibFqRmSpJ+PV5SQ=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-b5d8c4d9dbc5589bcd511dba393d8992b299f477/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "494c93df3eea73b8019931f19138b1f1be05b98c";
+    version = "1798651041d58bc78ceb61e4a1b1bcd67cccfd73";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "494c93df3eea73b8019931f19138b1f1be05b98c";
+      rev = "1798651041d58bc78ceb61e4a1b1bcd67cccfd73";
       fetchSubmodules = false;
-      sha256 = "sha256-B/u2wCMxSlAXx7kyeEwqJau8M1XDCYK4k6lhX6zx61U=";
+      sha256 = "sha256-SKJX9FFeKOykei92K4PTvEklutpLSjbz3JSAIVmTJVY=";
     });
   };
   revanced-cli = {
@@ -1045,13 +1045,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "9058bf1af9d283ac301a9802cbbe8d0379d6fe7c";
+    version = "8c7239236f0dae02e59154e7854f18cca167020e";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "9058bf1af9d283ac301a9802cbbe8d0379d6fe7c";
+      rev = "8c7239236f0dae02e59154e7854f18cca167020e";
       fetchSubmodules = false;
-      sha256 = "sha256-nnnWSJC5NiS51a+loD/BJoAiixJzTJ7R0P4x8z5O5+s=";
+      sha256 = "sha256-5EpIF/rnRjTN0kx774+SqigsRG4bAIa43BsaSDdP/ro=";
     });
   };
   spicetify-marketplace = {

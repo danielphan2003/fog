@@ -399,7 +399,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-d8eacb4673e217bf9edce5c58b60c099fe74c37d/src-tauri/Cargo.lock",
+                "./cinny-desktop-b5d8c4d9dbc5589bcd511dba393d8992b299f477/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -414,11 +414,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "d8eacb4673e217bf9edce5c58b60c099fe74c37d",
-            "sha256": "sha256-9n1u0ry4pmlJyeYHKXpuaTon0PT264tcp3DnKHHMDUo=",
+            "rev": "b5d8c4d9dbc5589bcd511dba393d8992b299f477",
+            "sha256": "sha256-mz9AtUsdxHScdjMSOmdF0/ZKFRXVibFqRmSpJ+PV5SQ=",
             "type": "github"
         },
-        "version": "d8eacb4673e217bf9edce5c58b60c099fe74c37d"
+        "version": "b5d8c4d9dbc5589bcd511dba393d8992b299f477"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "494c93df3eea73b8019931f19138b1f1be05b98c",
-            "sha256": "sha256-B/u2wCMxSlAXx7kyeEwqJau8M1XDCYK4k6lhX6zx61U=",
+            "rev": "1798651041d58bc78ceb61e4a1b1bcd67cccfd73",
+            "sha256": "sha256-SKJX9FFeKOykei92K4PTvEklutpLSjbz3JSAIVmTJVY=",
             "type": "github"
         },
-        "version": "494c93df3eea73b8019931f19138b1f1be05b98c"
+        "version": "1798651041d58bc78ceb61e4a1b1bcd67cccfd73"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1750,11 +1750,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "9058bf1af9d283ac301a9802cbbe8d0379d6fe7c",
-            "sha256": "sha256-nnnWSJC5NiS51a+loD/BJoAiixJzTJ7R0P4x8z5O5+s=",
+            "rev": "8c7239236f0dae02e59154e7854f18cca167020e",
+            "sha256": "sha256-5EpIF/rnRjTN0kx774+SqigsRG4bAIa43BsaSDdP/ro=",
             "type": "github"
         },
-        "version": "9058bf1af9d283ac301a9802cbbe8d0379d6fe7c"
+        "version": "8c7239236f0dae02e59154e7854f18cca167020e"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
