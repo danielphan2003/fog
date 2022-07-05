@@ -5379,10 +5379,10 @@
   };
   arzg-apprentice = {
     pname = "arzg-apprentice";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/apprentice/1.0.0/file/arzg.apprentice-1.0.0.vsix";
-      sha256 = "sha256-o4RuihYQwQsQB7W7+q6EjOKB59u/RWM4uGKiO9+5x6I=";
+      url = "https://open-vsx.org/api/arzg/apprentice/1.1.0/file/arzg.apprentice-1.1.0.vsix";
+      sha256 = "sha256-gDWI/7qPUx1LsFATfN6ppuIwQzKZkKk2jKzwywrNhtQ=";
     };
     license = "MIT";
     name = "apprentice";
