@@ -5465,11 +5465,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gQGDX+EwirSWmXECTI3vQpuHOX0iIHDsHoM6vIGUdNI=",
+            "sha256": "sha256-0ZfZ6/MOREGKG+CLXZWR0UodUjEwq580g/3OKFNyldI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.44/file/TI.devspacesplus-0.0.44.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.45/file/TI.devspacesplus-0.0.45.vsix"
         },
-        "version": "0.0.44"
+        "version": "0.0.45"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -5541,11 +5541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5lyHS8IH9KyBu/mzTAfZcboKvcaUX6f8OwzJY6SjPC8=",
+            "sha256": "sha256-8ihT8uPbDTvLXPJcv3gVug2VL+9Vnu8cxP4+jhAMw+0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.60/file/TabNine.tabnine-vscode-3.5.60.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.1/file/TabNine.tabnine-vscode-3.6.1.vsix"
         },
-        "version": "3.5.60"
+        "version": "3.6.1"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -7118,11 +7118,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CrjgfCsM7ecPIjc+2guRKYdjjRKgIML9n/sOIgxITFI=",
+            "sha256": "sha256-iF6N/PoH341oRZBBluF2JeltFSwxwl7kR2nGstVQlGA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.2/file/akosyakov.gitpod-monitor-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.3/file/akosyakov.gitpod-monitor-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "akshayganeshen-alt-mode": {
         "cargoLocks": null,
@@ -10899,11 +10899,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hI7r102+8Soln7c3jtc0KeZtek26ZzsCmv4PQ8a8JBI=",
+            "sha256": "sha256-HKYLzABp0Uq6R3KlZTfwxxzhP2NDSZDMhm1dhdRXQ0k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.12/file/cloudstudio.workspaces-0.0.12.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.13/file/cloudstudio.workspaces-0.0.13.vsix"
         },
-        "version": "0.0.12"
+        "version": "0.0.13"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -12400,11 +12400,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L8DHubwMrfQ1H76k4aW6MtOgoYoXY8nx6yhmitdY//g=",
+            "sha256": "sha256-TpHYYJ43w8sMOwELC8BnD/fRgO2POkQQIg/VmEDH+J0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.101.5/file/dendron.nightly-0.101.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.101.6/file/dendron.nightly-0.101.6.vsix"
         },
-        "version": "0.101.5"
+        "version": "0.101.6"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -30260,11 +30260,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wsAAOSPqlephmbef7a1O0xovaIZ/Uvdimx3j5Kzaoig=",
+            "sha256": "sha256-npx4mfwYupGp7ObKO8GVuniqc9azCFYBTsNf7pzWUPw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/initx-common/0.0.1/file/t-codespaces.initx-common-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/initx-common/0.0.4/file/t-codespaces.initx-common-0.0.4.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.4"
     },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,

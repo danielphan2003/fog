@@ -3447,10 +3447,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.44";
+    version = "0.0.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.44/file/TI.devspacesplus-0.0.44.vsix";
-      sha256 = "sha256-gQGDX+EwirSWmXECTI3vQpuHOX0iIHDsHoM6vIGUdNI=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.45/file/TI.devspacesplus-0.0.45.vsix";
+      sha256 = "sha256-0ZfZ6/MOREGKG+CLXZWR0UodUjEwq580g/3OKFNyldI=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -3495,10 +3495,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.5.60";
+    version = "3.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.5.60/file/TabNine.tabnine-vscode-3.5.60.vsix";
-      sha256 = "sha256-5lyHS8IH9KyBu/mzTAfZcboKvcaUX6f8OwzJY6SjPC8=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.1/file/TabNine.tabnine-vscode-3.6.1.vsix";
+      sha256 = "sha256-8ihT8uPbDTvLXPJcv3gVug2VL+9Vnu8cxP4+jhAMw+0=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -4491,10 +4491,10 @@
   };
   akosyakov-gitpod-monitor = {
     pname = "akosyakov-gitpod-monitor";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.2/file/akosyakov.gitpod-monitor-0.0.2.vsix";
-      sha256 = "sha256-CrjgfCsM7ecPIjc+2guRKYdjjRKgIML9n/sOIgxITFI=";
+      url = "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.3/file/akosyakov.gitpod-monitor-0.0.3.vsix";
+      sha256 = "sha256-iF6N/PoH341oRZBBluF2JeltFSwxwl7kR2nGstVQlGA=";
     };
     license = "MIT";
     name = "gitpod-monitor";
@@ -6879,10 +6879,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.12";
+    version = "0.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.12/file/cloudstudio.workspaces-0.0.12.vsix";
-      sha256 = "sha256-hI7r102+8Soln7c3jtc0KeZtek26ZzsCmv4PQ8a8JBI=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.13/file/cloudstudio.workspaces-0.0.13.vsix";
+      sha256 = "sha256-HKYLzABp0Uq6R3KlZTfwxxzhP2NDSZDMhm1dhdRXQ0k=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7827,10 +7827,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.101.5";
+    version = "0.101.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.101.5/file/dendron.nightly-0.101.5.vsix";
-      sha256 = "sha256-L8DHubwMrfQ1H76k4aW6MtOgoYoXY8nx6yhmitdY//g=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.101.6/file/dendron.nightly-0.101.6.vsix";
+      sha256 = "sha256-TpHYYJ43w8sMOwELC8BnD/fRgO2POkQQIg/VmEDH+J0=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -19107,10 +19107,10 @@
   };
   t-codespaces-initx-common = {
     pname = "t-codespaces-initx-common";
-    version = "0.0.1";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/initx-common/0.0.1/file/t-codespaces.initx-common-0.0.1.vsix";
-      sha256 = "sha256-wsAAOSPqlephmbef7a1O0xovaIZ/Uvdimx3j5Kzaoig=";
+      url = "https://open-vsx.org/api/t-codespaces/initx-common/0.0.4/file/t-codespaces.initx-common-0.0.4.vsix";
+      sha256 = "sha256-npx4mfwYupGp7ObKO8GVuniqc9azCFYBTsNf7pzWUPw=";
     };
     license = "";
     name = "initx-common";
