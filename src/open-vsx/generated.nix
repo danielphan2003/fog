@@ -10227,10 +10227,10 @@
   };
   hjdarnel-vscode-change-case = {
     pname = "hjdarnel-vscode-change-case";
-    version = "1.0.0";
+    version = "1.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hjdarnel/vscode-change-case/1.0.0/file/hjdarnel.vscode-change-case-1.0.0.vsix";
-      sha256 = "sha256-0DNW+PXqVzH9QuY+93zVY0Al1sSp6Q5uAJzq8tcJqm4=";
+      url = "https://open-vsx.org/api/hjdarnel/vscode-change-case/1.3.4/file/hjdarnel.vscode-change-case-1.3.4.vsix";
+      sha256 = "sha256-a1t9DhSm9kcdaY9QbjCi3DxC5xFs9a/008GoyWoJt5k=";
     };
     license = "MIT";
     name = "vscode-change-case";
