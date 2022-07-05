@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6l87lAXUPHKrIwYCsA9Spoq523dkrzMGgh4q0CGKOhY=",
+            "sha256": "sha256-C8/VIH3Wib9+ZP3z8iBcBAkJvKflzjpGG+DfoMZnMxY=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6315.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6316.tar.bz2"
         },
-        "version": "1.0.6315"
+        "version": "1.0.6316"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cFIg2y76qOIgl+d6rQHaBLOkvn5ndRlmeky420KqSgk=",
+            "sha256": "sha256-3lD6/Mex4H9+220wS65CHxR1MAE3ZZCv4E0xwAj6fTI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6315-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6316-1_all.deb"
         },
-        "version": "1.0.6315"
+        "version": "1.0.6316"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1788,11 +1788,11 @@
             "name": null,
             "owner": "morpheusthewhite",
             "repo": "spicetify-themes",
-            "rev": "f98cd839b36e4efa78da51d9e55a9006eb1de5ac",
-            "sha256": "sha256-eiPZmUNA60jYq9neI5MzBUhxozJ3MKnkduw54OC2IrU=",
+            "rev": "54e006038c28092aa8b2cc88fad139a8edb3ce6c",
+            "sha256": "sha256-vK5496rGwgCxKjVO8V7CYkXigpKRonidmwWXMOrMN3I=",
             "type": "github"
         },
-        "version": "f98cd839b36e4efa78da51d9e55a9006eb1de5ac"
+        "version": "54e006038c28092aa8b2cc88fad139a8edb3ce6c"
     },
     "spotify": {
         "cargoLocks": null,
