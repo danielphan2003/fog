@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6f5b8425cb7b7304dcce9a48e613d87538bd33d2";
+    version = "7ff427c229b22243d3a6507cca3a7df64d31c241";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "6f5b8425cb7b7304dcce9a48e613d87538bd33d2";
+      rev = "7ff427c229b22243d3a6507cca3a7df64d31c241";
       fetchSubmodules = false;
-      sha256 = "sha256-grWbUmjq0wQk2XwqazXoFsiwTmcSAuiMxm5KHRxYShk=";
+      sha256 = "sha256-fZBn5/2Sg5PfCNHjdLaWuZQEabO69xerkcip6u98CVk=";
     });
   };
   ibus = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-902";
+    version = "1.0-903";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-902-1_all.deb";
-      sha256 = "sha256-MOskgWVkNBpD3AMvoSza7LwJ7/U5gngQScL8B3nTrS0=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-903-1_all.deb";
+      sha256 = "sha256-s7NBG7O3fDQsGdAZxdf96bVmSBC6H60YyZSZ9luxkpU=";
     };
   };
   jitsi-meet = {
@@ -915,18 +915,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.8.1";
+    version = "2.8.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.8.1/revanced-patches-2.8.1.dex";
-      sha256 = "sha256-xoLSYskmi6gdB1Q9DC/Ydp24zjC8dJpEEMPkGKUVjiU=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.8.2/revanced-patches-2.8.2.dex";
+      sha256 = "sha256-rZ2wra7kDd3r/2Ma08bov8Mm2y/cT/mQAJ8Xk0yPPgg=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.8.1";
+    version = "2.8.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.8.1/revanced-patches-2.8.1.jar";
-      sha256 = "sha256-XbVczGS125kZinnOanRGCcre/gdrCGSCw0yRPyteAYg=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.8.2/revanced-patches-2.8.2.jar";
+      sha256 = "sha256-+kFE5Kgulspjvkr8Pr0qdt2LlJcunK0WWFssOOms/3Q=";
     };
   };
   rofi-wayland = {
@@ -942,16 +942,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "e558373b2ff7edcdba5def504aac030cf8c321b7";
+    version = "df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "e558373b2ff7edcdba5def504aac030cf8c321b7";
+      rev = "df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6";
       fetchSubmodules = false;
-      sha256 = "sha256-+PYpNYdNvimk2NtexiimPqfOtJN0290gnH+ddcDRtW8=";
+      sha256 = "sha256-iGbYP8b2ssuMsgGWYfwjLnr/zZ9j1WmGB/aWIFZ2kPg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-e558373b2ff7edcdba5def504aac030cf8c321b7/Cargo.lock;
+      lockFile = ./rustdesk-df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1033,14 +1033,14 @@
   };
   snui = {
     pname = "snui";
-    version = "73d910bbb9d2235873cdaf1fdd7e34c287ab4311";
+    version = "85a8bfd2ee925aaf59d60fdea5fedbd5a937134d";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "73d910bbb9d2235873cdaf1fdd7e34c287ab4311";
+      rev = "85a8bfd2ee925aaf59d60fdea5fedbd5a937134d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-j0qKRKf5Yy7pPGt8YzhfsKSXmVH5OKyx0to2nT8HJlc=";
+      sha256 = "sha256-m2XCRezNcSyDwBBWCOstg0z/NcTpGMjCI9E9N+IC5a4=";
     };
   };
   spicetify-cli = {

@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "6f5b8425cb7b7304dcce9a48e613d87538bd33d2",
-            "sha256": "sha256-grWbUmjq0wQk2XwqazXoFsiwTmcSAuiMxm5KHRxYShk=",
+            "rev": "7ff427c229b22243d3a6507cca3a7df64d31c241",
+            "sha256": "sha256-fZBn5/2Sg5PfCNHjdLaWuZQEabO69xerkcip6u98CVk=",
             "type": "github"
         },
-        "version": "6f5b8425cb7b7304dcce9a48e613d87538bd33d2"
+        "version": "7ff427c229b22243d3a6507cca3a7df64d31c241"
     },
     "ibus": {
         "cargoLocks": null,
@@ -850,11 +850,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MOskgWVkNBpD3AMvoSza7LwJ7/U5gngQScL8B3nTrS0=",
+            "sha256": "sha256-s7NBG7O3fDQsGdAZxdf96bVmSBC6H60YyZSZ9luxkpU=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-902-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-903-1_all.deb"
         },
-        "version": "1.0-902"
+        "version": "1.0-903"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xoLSYskmi6gdB1Q9DC/Ydp24zjC8dJpEEMPkGKUVjiU=",
+            "sha256": "sha256-rZ2wra7kDd3r/2Ma08bov8Mm2y/cT/mQAJ8Xk0yPPgg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.8.1/revanced-patches-2.8.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.8.2/revanced-patches-2.8.2.dex"
         },
-        "version": "2.8.1"
+        "version": "2.8.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1544,11 +1544,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XbVczGS125kZinnOanRGCcre/gdrCGSCw0yRPyteAYg=",
+            "sha256": "sha256-+kFE5Kgulspjvkr8Pr0qdt2LlJcunK0WWFssOOms/3Q=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.8.1/revanced-patches-2.8.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.8.2/revanced-patches-2.8.2.jar"
         },
-        "version": "2.8.1"
+        "version": "2.8.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1572,7 +1572,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-e558373b2ff7edcdba5def504aac030cf8c321b7/Cargo.lock",
+                "./rustdesk-df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
@@ -1595,11 +1595,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "e558373b2ff7edcdba5def504aac030cf8c321b7",
-            "sha256": "sha256-+PYpNYdNvimk2NtexiimPqfOtJN0290gnH+ddcDRtW8=",
+            "rev": "df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6",
+            "sha256": "sha256-iGbYP8b2ssuMsgGWYfwjLnr/zZ9j1WmGB/aWIFZ2kPg=",
             "type": "github"
         },
-        "version": "e558373b2ff7edcdba5def504aac030cf8c321b7"
+        "version": "df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -1730,12 +1730,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "73d910bbb9d2235873cdaf1fdd7e34c287ab4311",
-            "sha256": "sha256-j0qKRKf5Yy7pPGt8YzhfsKSXmVH5OKyx0to2nT8HJlc=",
+            "rev": "85a8bfd2ee925aaf59d60fdea5fedbd5a937134d",
+            "sha256": "sha256-m2XCRezNcSyDwBBWCOstg0z/NcTpGMjCI9E9N+IC5a4=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "73d910bbb9d2235873cdaf1fdd7e34c287ab4311"
+        "version": "85a8bfd2ee925aaf59d60fdea5fedbd5a937134d"
     },
     "spicetify-cli": {
         "cargoLocks": null,
