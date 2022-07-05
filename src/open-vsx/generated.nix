@@ -3447,10 +3447,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.45";
+    version = "0.0.48";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.45/file/TI.devspacesplus-0.0.45.vsix";
-      sha256 = "sha256-0ZfZ6/MOREGKG+CLXZWR0UodUjEwq580g/3OKFNyldI=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.48/file/TI.devspacesplus-0.0.48.vsix";
+      sha256 = "sha256-8nWXrfmQKTTNTXN3mJ6biEOBZlu+dHIpSVaw3liEv54=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -4491,10 +4491,10 @@
   };
   akosyakov-gitpod-monitor = {
     pname = "akosyakov-gitpod-monitor";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.3/file/akosyakov.gitpod-monitor-0.0.3.vsix";
-      sha256 = "sha256-iF6N/PoH341oRZBBluF2JeltFSwxwl7kR2nGstVQlGA=";
+      url = "https://open-vsx.org/api/akosyakov/gitpod-monitor/0.0.4/file/akosyakov.gitpod-monitor-0.0.4.vsix";
+      sha256 = "sha256-9XAppTE23gEbPqXl5JBq6KHwUpyUH4YoCY0W2qHq10k=";
     };
     license = "MIT";
     name = "gitpod-monitor";
