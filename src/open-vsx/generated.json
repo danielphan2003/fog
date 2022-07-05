@@ -12552,11 +12552,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HXITHp9FzFczVyXZ5PiGqGSEQ24yh2/vegvg9tVhDgE=",
+            "sha256": "sha256-VXeRUWTkLI8Cqgsv6TCwnvOIiubX6tKSakHe63kCCEc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.30/file/digma.digma-0.5.30.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.31/file/digma.digma-0.5.31.vsix"
         },
-        "version": "0.5.30"
+        "version": "0.5.31"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
