@@ -452,13 +452,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "66bbae6eba076130736d4caefc2985859801086c";
+    version = "cec6e625cc36e5e5346e1746f511ebd739c75832";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "66bbae6eba076130736d4caefc2985859801086c";
+      rev = "cec6e625cc36e5e5346e1746f511ebd739c75832";
       fetchSubmodules = false;
-      sha256 = "sha256-+DEcNLpuoE1YPuES3c7GEp8X4zHJ/PirkYasOrIIr+g=";
+      sha256 = "sha256-+P7T5+ispMjL+qC1l8P6JAMpIiD+HO7r6aBpdnbP23c=";
     });
   };
   guiscrcpy = {
@@ -899,10 +899,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.3.0/revanced-cli-2.3.0-all.jar";
-      sha256 = "sha256-SmQfgwHiKNYtCS6KIUfGmOZTGUc+VYeTx8KFKcvThNY=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.3.1/revanced-cli-2.3.1-all.jar";
+      sha256 = "sha256-PLPY7HQ/CDb8dTlXMtzg/K0FWGmdP0cErjt2taUX1jg=";
     };
   };
   revanced-integrations = {
@@ -1045,13 +1045,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "555ff42905f7989946d1743b4e978c80eeed2e56";
+    version = "9058bf1af9d283ac301a9802cbbe8d0379d6fe7c";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "555ff42905f7989946d1743b4e978c80eeed2e56";
+      rev = "9058bf1af9d283ac301a9802cbbe8d0379d6fe7c";
       fetchSubmodules = false;
-      sha256 = "sha256-YnMjich4OTBGXayNGmda/IswBCJG1l1V/ax4cF7XNyM=";
+      sha256 = "sha256-nnnWSJC5NiS51a+loD/BJoAiixJzTJ7R0P4x8z5O5+s=";
     });
   };
   spicetify-marketplace = {
