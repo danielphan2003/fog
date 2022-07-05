@@ -1272,6 +1272,25 @@
         },
         "version": "0.47.0"
     },
+    "Desdaemon-vscode-odoo-import": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Desdaemon-vscode-odoo-import",
+        "passthru": {
+            "description": "Adapt Odoo modules to TypeScript conventions",
+            "license": "MIT",
+            "name": "vscode-odoo-import",
+            "publisher": "Desdaemon"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-6h93wXk5IujOpqUVdqxzKDctCyfen23Z99/11rChjvo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Desdaemon/vscode-odoo-import/0.0.1/file/Desdaemon.vscode-odoo-import-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "DigitalBrainstem-javascript-ejs-support": {
         "cargoLocks": null,
         "extract": null,
@@ -5218,11 +5237,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rbOKvSnuXaoSxdLuwhE7312wxFKo2GSrSWI5GzVBB30=",
+            "sha256": "sha256-QcCxUy/tRck67/fCfrUZE2OQE5BZHCsAYFjlGMOo3yM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2921/file/Slint.slint-nightly-2022.6.2921.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.418/file/Slint.slint-nightly-2022.7.418.vsix"
         },
-        "version": "2022.6.2921"
+        "version": "2022.7.418"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -8125,11 +8144,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VE7Bf/fMFKN1C2mZPK6AxOx0pEs2iPRPnEhNXb7zUj4=",
+            "sha256": "sha256-52QzYcqSEpfSNgb4ZDQaqWFb8+QNcCei38QJ65zzDjc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.2/file/anyscalecompute.anyscale-workspaces-0.1.2.vsix"
+            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.3/file/anyscalecompute.anyscale-workspaces-0.1.3.vsix"
         },
-        "version": "0.1.2"
+        "version": "0.1.3"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
@@ -10652,11 +10671,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SieHQKj74FOqPjfaH7HZMe/Oc76sFjrKVk/XtqtJL9Y=",
+            "sha256": "sha256-pjA4F8uhs0rHL5e321++SJ3hrHcJ7GS83wt24FYZTTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.3/file/cloudstudio.browser-preview-lite-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.4/file/cloudstudio.browser-preview-lite-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "cloudstudio-coding": {
         "cargoLocks": null,

@@ -805,6 +805,18 @@
     description = "Markdown linting and style checking for Visual Studio Code";
     publisher = "DavidAnson";
   };
+  Desdaemon-vscode-odoo-import = {
+    pname = "Desdaemon-vscode-odoo-import";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Desdaemon/vscode-odoo-import/0.0.1/file/Desdaemon.vscode-odoo-import-0.0.1.vsix";
+      sha256 = "sha256-6h93wXk5IujOpqUVdqxzKDctCyfen23Z99/11rChjvo=";
+    };
+    license = "MIT";
+    name = "vscode-odoo-import";
+    description = "Adapt Odoo modules to TypeScript conventions";
+    publisher = "Desdaemon";
+  };
   DigitalBrainstem-javascript-ejs-support = {
     pname = "DigitalBrainstem-javascript-ejs-support";
     version = "1.3.1";
@@ -3291,10 +3303,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.6.2921";
+    version = "2022.7.418";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.6.2921/file/Slint.slint-nightly-2022.6.2921.vsix";
-      sha256 = "sha256-rbOKvSnuXaoSxdLuwhE7312wxFKo2GSrSWI5GzVBB30=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.418/file/Slint.slint-nightly-2022.7.418.vsix";
+      sha256 = "sha256-QcCxUy/tRck67/fCfrUZE2OQE5BZHCsAYFjlGMOo3yM=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -5127,10 +5139,10 @@
   };
   anyscalecompute-anyscale-workspaces = {
     pname = "anyscalecompute-anyscale-workspaces";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.2/file/anyscalecompute.anyscale-workspaces-0.1.2.vsix";
-      sha256 = "sha256-VE7Bf/fMFKN1C2mZPK6AxOx0pEs2iPRPnEhNXb7zUj4=";
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.3/file/anyscalecompute.anyscale-workspaces-0.1.3.vsix";
+      sha256 = "sha256-52QzYcqSEpfSNgb4ZDQaqWFb8+QNcCei38QJ65zzDjc=";
     };
     license = "Apache-2.0";
     name = "anyscale-workspaces";
@@ -6723,10 +6735,10 @@
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.3/file/cloudstudio.browser-preview-lite-0.0.3.vsix";
-      sha256 = "sha256-SieHQKj74FOqPjfaH7HZMe/Oc76sFjrKVk/XtqtJL9Y=";
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.4/file/cloudstudio.browser-preview-lite-0.0.4.vsix";
+      sha256 = "sha256-pjA4F8uhs0rHL5e321++SJ3hrHcJ7GS83wt24FYZTTw=";
     };
     license = "MIT";
     name = "browser-preview-lite";
