@@ -5788,11 +5788,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TNv+sj1uzmuml6jNf2NVvIigR+xmk+eCPX0ewOzouCc=",
+            "sha256": "sha256-vQ/3KuxG1TksBPHJhPLlQReF78EgxvBTAFVQpM/kmgA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Turiiya/german-scroll/0.1.1/file/Turiiya.german-scroll-0.1.1.vsix"
+            "url": "https://open-vsx.org/api/Turiiya/german-scroll/0.1.2/file/Turiiya.german-scroll-0.1.2.vsix"
         },
-        "version": "0.1.1"
+        "version": "0.1.2"
     },
     "Turiiya-keyword-o-mat": {
         "cargoLocks": null,
@@ -8125,11 +8125,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1twJrqYnLl7fdGS1JbPflQZKApCdu9/9RNYmUoQBI4k=",
+            "sha256": "sha256-+cE+6pWaPNiVJ/cvorzB0Hmy0sRKELHAsGkOudvCs/w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.2/file/anweber.vscode-httpyac-5.5.2.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.3/file/anweber.vscode-httpyac-5.5.3.vsix"
         },
-        "version": "5.5.2"
+        "version": "5.5.3"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
@@ -16186,6 +16186,25 @@
             "url": "https://open-vsx.org/api/hirosystems/clarity-lsp/0.8.0/file/hirosystems.clarity-lsp-0.8.0.vsix"
         },
         "version": "0.8.0"
+    },
+    "hjdarnel-vscode-change-case": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "hjdarnel-vscode-change-case",
+        "passthru": {
+            "description": "Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word",
+            "license": "MIT",
+            "name": "vscode-change-case",
+            "publisher": "hjdarnel"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-0DNW+PXqVzH9QuY+93zVY0Al1sSp6Q5uAJzq8tcJqm4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/hjdarnel/vscode-change-case/1.0.0/file/hjdarnel.vscode-change-case-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "hollowtree-vue-snippets": {
         "cargoLocks": null,
@@ -29424,11 +29443,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QDLK99ja1Bb3Lxhde12O1ezdMfEAyFZNb6yKNeCn0Cs=",
+            "sha256": "sha256-MsWkZoQV7Dc8a4VYaKxbetdGazfuA3Dwnegul31+7TQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.5/file/streetsidesoftware.code-spell-checker-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.0/file/streetsidesoftware.code-spell-checker-2.3.0.vsix"
         },
-        "version": "2.2.5"
+        "version": "2.3.0"
     },
     "streetsidesoftware-code-spell-checker-bulgarian": {
         "cargoLocks": null,
@@ -31913,11 +31932,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b2I7JXbOu/OtmzjINSdhFavryCtWeFgeVyVBQsHVkX4=",
+            "sha256": "sha256-z+sgME26cacKHyy/TsFfiG/BmoAgMi6GsNzyFm96/7w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.14.0/file/usernamehw.todo-md-2.14.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.15.0/file/usernamehw.todo-md-2.15.0.vsix"
         },
-        "version": "2.14.0"
+        "version": "2.15.0"
     },
     "usernamehw-url-title": {
         "cargoLocks": null,

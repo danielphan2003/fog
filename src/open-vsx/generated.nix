@@ -3651,10 +3651,10 @@
   };
   Turiiya-german-scroll = {
     pname = "Turiiya-german-scroll";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.1/file/Turiiya.german-scroll-0.1.1.vsix";
-      sha256 = "sha256-TNv+sj1uzmuml6jNf2NVvIigR+xmk+eCPX0ewOzouCc=";
+      url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.2/file/Turiiya.german-scroll-0.1.2.vsix";
+      sha256 = "sha256-vQ/3KuxG1TksBPHJhPLlQReF78EgxvBTAFVQpM/kmgA=";
     };
     license = "MIT";
     name = "german-scroll";
@@ -5127,10 +5127,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.5.2";
+    version = "5.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.2/file/anweber.vscode-httpyac-5.5.2.vsix";
-      sha256 = "sha256-1twJrqYnLl7fdGS1JbPflQZKApCdu9/9RNYmUoQBI4k=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.3/file/anweber.vscode-httpyac-5.5.3.vsix";
+      sha256 = "sha256-+cE+6pWaPNiVJ/cvorzB0Hmy0sRKELHAsGkOudvCs/w=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -10224,6 +10224,18 @@
     name = "clarity-lsp";
     description = "Coding assistant for Smart Contracts (Stacks, Bitcoin)";
     publisher = "hirosystems";
+  };
+  hjdarnel-vscode-change-case = {
+    pname = "hjdarnel-vscode-change-case";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/hjdarnel/vscode-change-case/1.0.0/file/hjdarnel.vscode-change-case-1.0.0.vsix";
+      sha256 = "sha256-0DNW+PXqVzH9QuY+93zVY0Al1sSp6Q5uAJzq8tcJqm4=";
+    };
+    license = "MIT";
+    name = "vscode-change-case";
+    description = "Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word";
+    publisher = "hjdarnel";
   };
   hollowtree-vue-snippets = {
     pname = "hollowtree-vue-snippets";
@@ -18579,10 +18591,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.2.5";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.2.5/file/streetsidesoftware.code-spell-checker-2.2.5.vsix";
-      sha256 = "sha256-QDLK99ja1Bb3Lxhde12O1ezdMfEAyFZNb6yKNeCn0Cs=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.0/file/streetsidesoftware.code-spell-checker-2.3.0.vsix";
+      sha256 = "sha256-MsWkZoQV7Dc8a4VYaKxbetdGazfuA3Dwnegul31+7TQ=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";
@@ -20151,10 +20163,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.14.0";
+    version = "2.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.14.0/file/usernamehw.todo-md-2.14.0.vsix";
-      sha256 = "sha256-b2I7JXbOu/OtmzjINSdhFavryCtWeFgeVyVBQsHVkX4=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.15.0/file/usernamehw.todo-md-2.15.0.vsix";
+      sha256 = "sha256-z+sgME26cacKHyy/TsFfiG/BmoAgMi6GsNzyFm96/7w=";
     };
     license = "MIT";
     name = "todo-md";
