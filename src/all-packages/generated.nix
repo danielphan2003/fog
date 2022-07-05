@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "97a1643552acd1ddbcc142185cc7a3b49c9eac00";
+    version = "ddc1a2dcc4437c97319109c4ac322dac4585d0b1";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "97a1643552acd1ddbcc142185cc7a3b49c9eac00";
+      rev = "ddc1a2dcc4437c97319109c4ac322dac4585d0b1";
       fetchSubmodules = false;
-      sha256 = "sha256-RMCIjqpBTbJntlerDd6jVXeodnM1gQSEBCf1hTsKQ8g=";
+      sha256 = "sha256-kPvKliw61A4LtuwW4YnllF/rOvIjiA6/cE9vSfNV4NU=";
     });
   };
   caddy = {
@@ -907,26 +907,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.21.0";
+    version = "0.21.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.0/app-release-unsigned.apk";
-      sha256 = "sha256-cunXbCeOjHlm3Us6EYsrz+uYTYNUQegGkMykplGyhnk=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.1/app-release-unsigned.apk";
+      sha256 = "sha256-Y79yUMmBrLe0lxaBxPlDyaI8EYo/io8IzXINmvE543w=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.9.0";
+    version = "2.9.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.0/revanced-patches-2.9.0.dex";
-      sha256 = "sha256-bd5qhja+jBkq1he1rNnmtTkioozM/BLmVoypWDAcAFc=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.1/revanced-patches-2.9.1.dex";
+      sha256 = "sha256-F8+U/eIM7DzSW+9iYe22jHQSK1i+VzGjkU1sXf9oORY=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.9.0";
+    version = "2.9.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.0/revanced-patches-2.9.0.jar";
-      sha256 = "sha256-nJNUrAwlK6IxdCTu8WbKI4owLAVbiG+mm/pHR0zPoZs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.1/revanced-patches-2.9.1.jar";
+      sha256 = "sha256-PpLF+A2DSUrrHMBj8dKTsgDCvDbXsRePYA5qr8yK/6A=";
     };
   };
   rofi-wayland = {
