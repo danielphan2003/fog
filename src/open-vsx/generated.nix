@@ -5127,10 +5127,10 @@
   };
   anyscalecompute-anyscale-workspaces = {
     pname = "anyscalecompute-anyscale-workspaces";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.1/file/anyscalecompute.anyscale-workspaces-0.1.1.vsix";
-      sha256 = "sha256-0izDUQMnEkgqx5mpzhKVJs7w+R5auJwXqjV15unmIhg=";
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.2/file/anyscalecompute.anyscale-workspaces-0.1.2.vsix";
+      sha256 = "sha256-VE7Bf/fMFKN1C2mZPK6AxOx0pEs2iPRPnEhNXb7zUj4=";
     };
     license = "Apache-2.0";
     name = "anyscale-workspaces";
@@ -5379,10 +5379,10 @@
   };
   arzg-apprentice = {
     pname = "arzg-apprentice";
-    version = "1.1.0";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/apprentice/1.1.0/file/arzg.apprentice-1.1.0.vsix";
-      sha256 = "sha256-gDWI/7qPUx1LsFATfN6ppuIwQzKZkKk2jKzwywrNhtQ=";
+      url = "https://open-vsx.org/api/arzg/apprentice/1.2.0/file/arzg.apprentice-1.2.0.vsix";
+      sha256 = "sha256-P7fZUmAnp/WuUS9PhGa+mHgzPe+N70Levryvs89nsNM=";
     };
     license = "MIT";
     name = "apprentice";
@@ -6795,10 +6795,10 @@
   };
   cloudstudio-custom-template = {
     pname = "cloudstudio-custom-template";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.2/file/cloudstudio.custom-template-0.0.2.vsix";
-      sha256 = "sha256-TmOrbSbUmTg9/3ZCJ0KnXgSq2RoUsm9/DKd7O3weVws=";
+      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.3/file/cloudstudio.custom-template-0.0.3.vsix";
+      sha256 = "sha256-WEq5GJNloR3Zd1+iYSpdlR5NPt1Y3x7qbf8UOtiwTKg=";
     };
     license = "MIT";
     name = "custom-template";
@@ -6807,10 +6807,10 @@
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.2/file/cloudstudio.deploykit-0.0.2.vsix";
-      sha256 = "sha256-+eWpTML3+wjHD48XNwgXxO7cLkuLkXjeeP1EZ4bD/5A=";
+      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.3/file/cloudstudio.deploykit-0.0.3.vsix";
+      sha256 = "sha256-bI04ci7J5to8x6DFZuLZn76/wwYHSeUIiUtZ3bE+p0c=";
     };
     license = "MIT";
     name = "deploykit";
@@ -6867,10 +6867,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.11/file/cloudstudio.workspaces-0.0.11.vsix";
-      sha256 = "sha256-mg7eSoMuBHBWEx4cGMVOP8hyAFhm6QxHveA1oVOfiEg=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.12/file/cloudstudio.workspaces-0.0.12.vsix";
+      sha256 = "sha256-hI7r102+8Soln7c3jtc0KeZtek26ZzsCmv4PQ8a8JBI=";
     };
     license = "MIT";
     name = "workspaces";
@@ -19071,10 +19071,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.0.4";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.0.4/file/t-codespaces.ide-code-status-0.0.4.vsix";
-      sha256 = "sha256-pe0I4bwpY0UZDlxntN0XbdmFI4IVQa3bzPdjxPn1DOk=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.0/file/t-codespaces.ide-code-status-0.1.0.vsix";
+      sha256 = "sha256-PjZq/n8v2d2kovWYNRoaQxTTlciZH4Q9uaEVmcbCN3A=";
     };
     license = "";
     name = "ide-code-status";
@@ -19083,10 +19083,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.31";
+    version = "0.0.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.31/file/t-codespaces.ide-data-sync-0.0.31.vsix";
-      sha256 = "sha256-4CZs1/Je518jScyBIuhooSofli+M3c0DuM1EorVY1Xw=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.33/file/t-codespaces.ide-data-sync-0.0.33.vsix";
+      sha256 = "sha256-I3CACTnN1CpKxvoTm0plL4zp3ot3RML7lAPWmd8UXc8=";
     };
     license = "";
     name = "ide-data-sync";
@@ -20631,10 +20631,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.35.0";
+    version = "0.35.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.0/file/vscjava.vscode-java-test-0.35.0.vsix";
-      sha256 = "sha256-H4OTRhamHrwK4kJ+wbJQYaxqxNncDVZHJsOvhsenUaw=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix";
+      sha256 = "sha256-tHKjSUW2FyQt4A2JbXFJj3MfEeBOLqdEkvXyjoZvlVE=";
     };
     license = "";
     name = "vscode-java-test";
@@ -20643,10 +20643,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.35.2";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.35.2/file/vscjava.vscode-maven-0.35.2.vsix";
-      sha256 = "sha256-qlKqoIj+tEnKPEekupW+oos2IP8yHR3Azu1HEajwHC8=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.36.0/file/vscjava.vscode-maven-0.36.0.vsix";
+      sha256 = "sha256-UAse0bUryXkMz7F+w+VtWa/EXulOgup4XoBQViXfDp4=";
     };
     license = "MIT";
     name = "vscode-maven";
