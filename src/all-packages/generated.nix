@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-903";
+    version = "1.0-904";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-903-1_all.deb";
-      sha256 = "sha256-s7NBG7O3fDQsGdAZxdf96bVmSBC6H60YyZSZ9luxkpU=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-904-1_all.deb";
+      sha256 = "sha256-wVbCgIGi9ksT3Ikb0Sc+vz74SxWkzU7kgRFpw9y7Wds=";
     };
   };
   jitsi-meet = {
@@ -888,21 +888,21 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "95db09d8c519e2e2987a3ee7ee2ab46c76841e9a";
+    version = "6607ff3aaa465c74c897ba2e5472a1a923380936";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "95db09d8c519e2e2987a3ee7ee2ab46c76841e9a";
+      rev = "6607ff3aaa465c74c897ba2e5472a1a923380936";
       fetchSubmodules = false;
-      sha256 = "sha256-NBtTDNq5jWGv/Tvo/Eyj3m5JTd89QSJB/YR0fW48yiU=";
+      sha256 = "sha256-N94j/lVnqRQNif2r0R6MFxHFPpoWIOesSLZ/pynVkGk=";
     });
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.3.1";
+    version = "2.3.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.3.1/revanced-cli-2.3.1-all.jar";
-      sha256 = "sha256-PLPY7HQ/CDb8dTlXMtzg/K0FWGmdP0cErjt2taUX1jg=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.3.2/revanced-cli-2.3.2-all.jar";
+      sha256 = "sha256-IGkJ1nN3j/ejQH+2Srg12a+a8VBb+eUCe/2/bFyZKIc=";
     };
   };
   revanced-integrations = {

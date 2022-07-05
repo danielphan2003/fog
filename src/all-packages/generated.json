@@ -850,11 +850,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-s7NBG7O3fDQsGdAZxdf96bVmSBC6H60YyZSZ9luxkpU=",
+            "sha256": "sha256-wVbCgIGi9ksT3Ikb0Sc+vz74SxWkzU7kgRFpw9y7Wds=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-903-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-904-1_all.deb"
         },
-        "version": "1.0-903"
+        "version": "1.0-904"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "95db09d8c519e2e2987a3ee7ee2ab46c76841e9a",
-            "sha256": "sha256-NBtTDNq5jWGv/Tvo/Eyj3m5JTd89QSJB/YR0fW48yiU=",
+            "rev": "6607ff3aaa465c74c897ba2e5472a1a923380936",
+            "sha256": "sha256-N94j/lVnqRQNif2r0R6MFxHFPpoWIOesSLZ/pynVkGk=",
             "type": "github"
         },
-        "version": "95db09d8c519e2e2987a3ee7ee2ab46c76841e9a"
+        "version": "6607ff3aaa465c74c897ba2e5472a1a923380936"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1502,11 +1502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PLPY7HQ/CDb8dTlXMtzg/K0FWGmdP0cErjt2taUX1jg=",
+            "sha256": "sha256-IGkJ1nN3j/ejQH+2Srg12a+a8VBb+eUCe/2/bFyZKIc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.3.1/revanced-cli-2.3.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.3.2/revanced-cli-2.3.2-all.jar"
         },
-        "version": "2.3.1"
+        "version": "2.3.2"
     },
     "revanced-integrations": {
         "cargoLocks": null,
