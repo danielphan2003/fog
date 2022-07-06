@@ -3291,10 +3291,10 @@
   };
   Slint-slint = {
     pname = "Slint-slint";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint/0.2.4/file/Slint.slint-0.2.4.vsix";
-      sha256 = "sha256-dlVG6GbkX8cYzboXNu4mKLMrJPInc8yFx90rBT21Zcs=";
+      url = "https://open-vsx.org/api/Slint/slint/0.2.5/file/Slint.slint-0.2.5.vsix";
+      sha256 = "sha256-C7aseBdVbgTnzaY32GRPm0oS0rNs9rdCATTPjtBnBOY=";
     };
     license = "GPL-3.0";
     name = "slint";
@@ -3447,10 +3447,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.48";
+    version = "0.0.49";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.48/file/TI.devspacesplus-0.0.48.vsix";
-      sha256 = "sha256-8nWXrfmQKTTNTXN3mJ6biEOBZlu+dHIpSVaw3liEv54=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.49/file/TI.devspacesplus-0.0.49.vsix";
+      sha256 = "sha256-hRVA1jz7piR/xXgGEZ1QacWrMAKv61gsn6l4QxF/dTI=";
     };
     license = "MIT";
     name = "devspacesplus";

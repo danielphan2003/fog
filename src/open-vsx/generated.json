@@ -5218,11 +5218,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dlVG6GbkX8cYzboXNu4mKLMrJPInc8yFx90rBT21Zcs=",
+            "sha256": "sha256-C7aseBdVbgTnzaY32GRPm0oS0rNs9rdCATTPjtBnBOY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint/0.2.4/file/Slint.slint-0.2.4.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint/0.2.5/file/Slint.slint-0.2.5.vsix"
         },
-        "version": "0.2.4"
+        "version": "0.2.5"
     },
     "Slint-slint-nightly": {
         "cargoLocks": null,
@@ -5465,11 +5465,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8nWXrfmQKTTNTXN3mJ6biEOBZlu+dHIpSVaw3liEv54=",
+            "sha256": "sha256-hRVA1jz7piR/xXgGEZ1QacWrMAKv61gsn6l4QxF/dTI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.48/file/TI.devspacesplus-0.0.48.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.49/file/TI.devspacesplus-0.0.49.vsix"
         },
-        "version": "0.0.48"
+        "version": "0.0.49"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
