@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "8bac134f26874b25aa22f8fee325a05d39157a4c";
+    version = "f259ed52bb3764ce4fd5d88f1712cb43247c2639";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "8bac134f26874b25aa22f8fee325a05d39157a4c";
+      rev = "f259ed52bb3764ce4fd5d88f1712cb43247c2639";
       fetchSubmodules = false;
-      sha256 = "sha256-AhuKAoQBh4/0LtKTZUN2w+RFu8z183LCqUml7G0qj/E=";
+      sha256 = "sha256-iNzYATXK7AjYZ0hO9jRyGS/Yzv2KzzKVWT+IigYD+oM=";
     });
   };
   cinny = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f5936f97d6e45f8a17003aea8d8b6514eb666daf";
+    version = "1cf2f378d4a0e5e3da757d90404c2816a6765626";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "f5936f97d6e45f8a17003aea8d8b6514eb666daf";
+      rev = "1cf2f378d4a0e5e3da757d90404c2816a6765626";
       fetchSubmodules = false;
-      sha256 = "sha256-Ug64sAx+Dr1IADfmOiwCal6Aief3PRiPfF4URGS1GFI=";
+      sha256 = "sha256-wd7Ieen+aYu5YpVv4mdzboBCYRpFPbdUa6YcDK0TLsU=";
     });
   };
   ibus = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-904";
+    version = "1.0-905";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-904-1_all.deb";
-      sha256 = "sha256-wVbCgIGi9ksT3Ikb0Sc+vz74SxWkzU7kgRFpw9y7Wds=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-905-1_all.deb";
+      sha256 = "sha256-is3NTZ6lhCIiFMGkQjTfuEZ36khB8CtfsjEGD5qqioo=";
     };
   };
   jitsi-meet = {
@@ -1163,13 +1163,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "e6572a0f088a93767d9d969180090758f57cf7b2";
+    version = "1cfd96cdc247d768e9953b9dd29544dc69aadff7";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "e6572a0f088a93767d9d969180090758f57cf7b2";
+      rev = "1cfd96cdc247d768e9953b9dd29544dc69aadff7";
       fetchSubmodules = false;
-      sha256 = "sha256-R8Ww+1IMw3h+sD6/TV+0Jp4hD+vzx8tImT2qlejsZmU=";
+      sha256 = "sha256-AXQ3y2lMoQVI4+rWiknQwb0nYxLnZPZolo/DUydWRrE=";
     });
   };
   tailscale-systray = {
