@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "fce99b657d6b52a991c02e45908825c3f5b2837b",
-            "sha256": "sha256-KF4eqaLjQoZ8jNwEuykK1nSOEmnkcxXbQ2zR2Wsy4Rw=",
+            "rev": "1d238864b3386a31e6d5df3c1e4da8daa6a71c23",
+            "sha256": "sha256-Ib+a8dfUN5GMapTxJ30LSLYJOxssZl9czgnVQtj8cIg=",
             "type": "github"
         },
-        "version": "fce99b657d6b52a991c02e45908825c3f5b2837b"
+        "version": "1d238864b3386a31e6d5df3c1e4da8daa6a71c23"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1572,9 +1572,10 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6/Cargo.lock",
+                "./rustdesk-49d10c7b87997d786514214fcba62d7aa83ff110/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
+                    "hwcodec-0.1.0": "sha256-tkxs8pjO6vwG4LqVmhTB35kalibD1VbOcDEFxpTb048=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
                     "parity-tokio-ipc-0.7.3": "sha256-9m9YQoJ3Vaet25TL40Yb76zHRlnnsreW/EOMb/R7cRk=",
                     "rdev-0.5.0": "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=",
@@ -1595,11 +1596,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6",
-            "sha256": "sha256-iGbYP8b2ssuMsgGWYfwjLnr/zZ9j1WmGB/aWIFZ2kPg=",
+            "rev": "49d10c7b87997d786514214fcba62d7aa83ff110",
+            "sha256": "sha256-1a7BF2iLGxtL+P43Xk6aTD0N6F8cZBUC7mscG/TnNP4=",
             "type": "github"
         },
-        "version": "df32b8f07bf4fe7a6be34d86bec87ad6f4f6d4a6"
+        "version": "49d10c7b87997d786514214fcba62d7aa83ff110"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
