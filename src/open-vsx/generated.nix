@@ -7659,10 +7659,10 @@
   };
   dbaeumer-vscode-eslint = {
     pname = "dbaeumer-vscode-eslint";
-    version = "2.2.2";
+    version = "2.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.2/file/dbaeumer.vscode-eslint-2.2.2.vsix";
-      sha256 = "sha256-Q6/sRwV3hXQSt0Tj2a1nbi4+EEKM9LMItE+rMmp5GeI=";
+      url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.6/file/dbaeumer.vscode-eslint-2.2.6.vsix";
+      sha256 = "sha256-3Od0Yujoi2x41ENinCOxvGMC5M7jx344axonxbLeWRM=";
     };
     license = "MIT";
     name = "vscode-eslint";
@@ -7923,10 +7923,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.31";
+    version = "0.5.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.31/file/digma.digma-0.5.31.vsix";
-      sha256 = "sha256-VXeRUWTkLI8Cqgsv6TCwnvOIiubX6tKSakHe63kCCEc=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.32/file/digma.digma-0.5.32.vsix";
+      sha256 = "sha256-NtzZACHwnt2YndiYSTY9OzsN3l013P2t9eaOjilotNI=";
     };
     license = "MIT";
     name = "digma";
@@ -9591,10 +9591,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.7.0";
+    version = "2.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.0/file/giscafer.leek-fund-2.7.0.vsix";
-      sha256 = "sha256-cRngCAFgbB3cEgFIyJSNwb56B8ZQOtwgievGAAYHHyk=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.1/file/giscafer.leek-fund-2.7.1.vsix";
+      sha256 = "sha256-mFz2oIxXDLVGX6IbJxFTmjVcUPW1lfU+wmCo9qoTe78=";
     };
     license = "BSD-3-Clause";
     name = "leek-fund";
@@ -13863,10 +13863,10 @@
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
-    version = "1.7.3";
+    version = "1.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.3/file/ms-azuretools.vscode-azurefunctions-1.7.3.vsix";
-      sha256 = "sha256-og0knnoTvkLfuoVxDUhZezzMPGRpQ8Co9du5BJilluw=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.4/file/ms-azuretools.vscode-azurefunctions-1.7.4.vsix";
+      sha256 = "sha256-P/9tniOAskVHCVu0obruCRzGENshTYzlm/JwDY7Q4fo=";
     };
     license = "MIT";
     name = "vscode-azurefunctions";
@@ -13995,10 +13995,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.5.1001610507";
+    version = "2022.7.1001890528";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.5.1001610507/file/ms-toolsai.jupyter-2022.5.1001610507.vsix";
-      sha256 = "sha256-iIE7j0PSREWHT7PprkHzL1/pY4vgb3M7+3ESbCVwYE8=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.7.1001890528/file/ms-toolsai.jupyter-2022.7.1001890528.vsix";
+      sha256 = "sha256-zNmUYqOokHbaWlrmI1EXXvLGt2B7voil8jgp5kWY5bI=";
     };
     license = "MIT";
     name = "jupyter";
@@ -14319,10 +14319,10 @@
   };
   ms-vscode-vscode-js-profile-flame = {
     pname = "ms-vscode-vscode-js-profile-flame";
-    version = "1.0.0";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.0/file/ms-vscode.vscode-js-profile-flame-1.0.0.vsix";
-      sha256 = "sha256-b7zpssfwTFQs/TJA2IyY1Cdwbp7x2SukiGio9dISzvo=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.3/file/ms-vscode.vscode-js-profile-flame-1.0.3.vsix";
+      sha256 = "sha256-5/XLaa6jn8Tk+UbHB+wh1MmmaIbrpzqgK2pn0bUUPPQ=";
     };
     license = "MIT";
     name = "vscode-js-profile-flame";
@@ -14331,10 +14331,10 @@
   };
   ms-vscode-vscode-js-profile-table = {
     pname = "ms-vscode-vscode-js-profile-table";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.2/file/ms-vscode.vscode-js-profile-table-1.0.2.vsix";
-      sha256 = "sha256-55s3FzIHVd0YqcjqLvvkhHtNdVK1vfUQsPMNMmVc1vU=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.3/file/ms-vscode.vscode-js-profile-table-1.0.3.vsix";
+      sha256 = "sha256-udqwF1BtnmpGmg+Cs5Lkyx16JaSEPx24ujlsvuIJz8U=";
     };
     license = "MIT";
     name = "vscode-js-profile-table";
@@ -19095,10 +19095,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.0/file/t-codespaces.ide-code-status-0.1.0.vsix";
-      sha256 = "sha256-PjZq/n8v2d2kovWYNRoaQxTTlciZH4Q9uaEVmcbCN3A=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.1/file/t-codespaces.ide-code-status-0.1.1.vsix";
+      sha256 = "sha256-B8uBx2bABS8qPQR5CMdNNQQxV6IyxKMBJm4XC3JwGZo=";
     };
     license = "";
     name = "ide-code-status";

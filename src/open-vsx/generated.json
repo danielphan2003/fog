@@ -12134,11 +12134,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q6/sRwV3hXQSt0Tj2a1nbi4+EEKM9LMItE+rMmp5GeI=",
+            "sha256": "sha256-3Od0Yujoi2x41ENinCOxvGMC5M7jx344axonxbLeWRM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.2/file/dbaeumer.vscode-eslint-2.2.2.vsix"
+            "url": "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.6/file/dbaeumer.vscode-eslint-2.2.6.vsix"
         },
-        "version": "2.2.2"
+        "version": "2.2.6"
     },
     "dbroemme-yesyoucancoderuby": {
         "cargoLocks": null,
@@ -12552,11 +12552,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VXeRUWTkLI8Cqgsv6TCwnvOIiubX6tKSakHe63kCCEc=",
+            "sha256": "sha256-NtzZACHwnt2YndiYSTY9OzsN3l013P2t9eaOjilotNI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.31/file/digma.digma-0.5.31.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.32/file/digma.digma-0.5.32.vsix"
         },
-        "version": "0.5.31"
+        "version": "0.5.32"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
@@ -15193,11 +15193,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cRngCAFgbB3cEgFIyJSNwb56B8ZQOtwgievGAAYHHyk=",
+            "sha256": "sha256-mFz2oIxXDLVGX6IbJxFTmjVcUPW1lfU+wmCo9qoTe78=",
             "type": "url",
-            "url": "https://open-vsx.org/api/giscafer/leek-fund/2.7.0/file/giscafer.leek-fund-2.7.0.vsix"
+            "url": "https://open-vsx.org/api/giscafer/leek-fund/2.7.1/file/giscafer.leek-fund-2.7.1.vsix"
         },
-        "version": "2.7.0"
+        "version": "2.7.1"
     },
     "gitduck-code-streaming": {
         "cargoLocks": null,
@@ -21957,11 +21957,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-og0knnoTvkLfuoVxDUhZezzMPGRpQ8Co9du5BJilluw=",
+            "sha256": "sha256-P/9tniOAskVHCVu0obruCRzGENshTYzlm/JwDY7Q4fo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.3/file/ms-azuretools.vscode-azurefunctions-1.7.3.vsix"
+            "url": "https://open-vsx.org/api/ms-azuretools/vscode-azurefunctions/1.7.4/file/ms-azuretools.vscode-azurefunctions-1.7.4.vsix"
         },
-        "version": "1.7.3"
+        "version": "1.7.4"
     },
     "ms-azuretools-vscode-docker": {
         "cargoLocks": null,
@@ -22166,11 +22166,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iIE7j0PSREWHT7PprkHzL1/pY4vgb3M7+3ESbCVwYE8=",
+            "sha256": "sha256-zNmUYqOokHbaWlrmI1EXXvLGt2B7voil8jgp5kWY5bI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.5.1001610507/file/ms-toolsai.jupyter-2022.5.1001610507.vsix"
+            "url": "https://open-vsx.org/api/ms-toolsai/jupyter/2022.7.1001890528/file/ms-toolsai.jupyter-2022.7.1001890528.vsix"
         },
-        "version": "2022.5.1001610507"
+        "version": "2022.7.1001890528"
     },
     "ms-toolsai-jupyter-keymap": {
         "cargoLocks": null,
@@ -22679,11 +22679,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b7zpssfwTFQs/TJA2IyY1Cdwbp7x2SukiGio9dISzvo=",
+            "sha256": "sha256-5/XLaa6jn8Tk+UbHB+wh1MmmaIbrpzqgK2pn0bUUPPQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.0/file/ms-vscode.vscode-js-profile-flame-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.3/file/ms-vscode.vscode-js-profile-flame-1.0.3.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.3"
     },
     "ms-vscode-vscode-js-profile-table": {
         "cargoLocks": null,
@@ -22698,11 +22698,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-55s3FzIHVd0YqcjqLvvkhHtNdVK1vfUQsPMNMmVc1vU=",
+            "sha256": "sha256-udqwF1BtnmpGmg+Cs5Lkyx16JaSEPx24ujlsvuIJz8U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.2/file/ms-vscode.vscode-js-profile-table-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-table/1.0.3/file/ms-vscode.vscode-js-profile-table-1.0.3.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.0.3"
     },
     "ms-vscode-vscode-smoketest-check": {
         "cargoLocks": null,
@@ -30241,11 +30241,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PjZq/n8v2d2kovWYNRoaQxTTlciZH4Q9uaEVmcbCN3A=",
+            "sha256": "sha256-B8uBx2bABS8qPQR5CMdNNQQxV6IyxKMBJm4XC3JwGZo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.0/file/t-codespaces.ide-code-status-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.1/file/t-codespaces.ide-code-status-0.1.1.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.1.1"
     },
     "t-codespaces-ide-data-sync": {
         "cargoLocks": null,
