@@ -1995,10 +1995,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.5";
+    version = "1.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.5/file/Leathong.openscad-language-support-1.1.5.vsix";
-      sha256 = "sha256-VKriLfiaeHJjesFftYfjpL6VqiKMr1J93CA0dGY0AA0=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.6/file/Leathong.openscad-language-support-1.1.6.vsix";
+      sha256 = "sha256-hL+vR7HtNYYXGTNcuWyz8XVKhLcj9WXfKFy41xw4Yi8=";
     };
     license = "GPL-3.0";
     name = "openscad-language-support";
@@ -3303,10 +3303,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.418";
+    version = "2022.7.517";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.418/file/Slint.slint-nightly-2022.7.418.vsix";
-      sha256 = "sha256-QcCxUy/tRck67/fCfrUZE2OQE5BZHCsAYFjlGMOo3yM=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.517/file/Slint.slint-nightly-2022.7.517.vsix";
+      sha256 = "sha256-H7mCtvNP7xa5fZcZp7iirnE3aWceJG9jUFXN0P28KcM=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -19107,10 +19107,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.33";
+    version = "0.0.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.33/file/t-codespaces.ide-data-sync-0.0.33.vsix";
-      sha256 = "sha256-I3CACTnN1CpKxvoTm0plL4zp3ot3RML7lAPWmd8UXc8=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.34/file/t-codespaces.ide-data-sync-0.0.34.vsix";
+      sha256 = "sha256-4RQl6Pu/cm1JLtrbxY1rw0w/5P/sb8CfEn/h55tmeaQ=";
     };
     license = "";
     name = "ide-data-sync";
