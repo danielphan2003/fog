@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6318";
+    version = "1.0.6320";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6318.tar.bz2";
-      sha256 = "sha256-shICCJx37+6tDLNediNYWvo2WuVavsb1M51b7Y3xjbk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6320.tar.bz2";
+      sha256 = "sha256-AgKkhMWpqU7A3kysLJD9+qt6t2fYco1FKujl7f1FXSg=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6318";
+    version = "1.0.6320";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6318-1_all.deb";
-      sha256 = "sha256-yNqwrY+LpVU//RV0MkCnfT0y6JZ2kakeuvEkd+cM6Y0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6320-1_all.deb";
+      sha256 = "sha256-GR/47SqdZ4dUKYoiRsOGJUpVwuI/hPS1F082NjmAyQc=";
     };
   };
   jitsi-videobridge2 = {
@@ -1251,10 +1251,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.5.2";
+    version = "2022.6.0";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.5.2/bw_web_v2022.5.2.tar.gz";
-      sha256 = "sha256-clsiEC9nwfrGMIBwT95G3tR3KLxMvMM553s8it/3JtM=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.6.0/bw_web_v2022.6.0.tar.gz";
+      sha256 = "sha256-/ZLxR87iLLw5VlC+0RqaDUcO4aeBT4BjixE3IoRwB7s=";
     };
   };
   ventoy = {
