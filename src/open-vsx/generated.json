@@ -4572,11 +4572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lGhIb7qzBiDoiC40IrFGKLAY4hNNpc+MQKcKz/Z0JRU=",
+            "sha256": "sha256-K/mIb+ivf1JBySYTaH1dyCnePsYfdQd/MyFASpydrFc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1160/file/Prisma.prisma-insider-31.0.1160.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1161/file/Prisma.prisma-insider-31.0.1161.vsix"
         },
-        "version": "31.0.1160"
+        "version": "31.0.1161"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -6035,11 +6035,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uxzwscStn2GWBkf/iG9oUH01esPJtpyW+ga5bNfBEK0=",
+            "sha256": "sha256-2+8Ihw3BBmNZYPbP70nujxLxNkhXBJIY1QVJZLcXHi8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.3.7/file/WatermelonTools.watermelon-tools-1.3.7.vsix"
+            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.0/file/WatermelonTools.watermelon-tools-1.4.0.vsix"
         },
-        "version": "1.3.7"
+        "version": "1.4.0"
     },
     "Wattenberger-footsteps": {
         "cargoLocks": null,
@@ -26118,11 +26118,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lweobY8WDT1BbRU9Leuzu0KPH+AyzB/nZEV7qGxtLk4=",
+            "sha256": "sha256-pl9cuZvaDSwDtAeaRtzwP1PQpqEJkq8oFoZr6BWwyoU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.5/file/rangav.vscode-thunder-client-1.16.5.vsix"
+            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.6/file/rangav.vscode-thunder-client-1.16.6.vsix"
         },
-        "version": "1.16.5"
+        "version": "1.16.6"
     },
     "razetime-bqn-language": {
         "cargoLocks": null,

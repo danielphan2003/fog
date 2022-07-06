@@ -2883,10 +2883,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1160";
+    version = "31.0.1161";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1160/file/Prisma.prisma-insider-31.0.1160.vsix";
-      sha256 = "sha256-lGhIb7qzBiDoiC40IrFGKLAY4hNNpc+MQKcKz/Z0JRU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1161/file/Prisma.prisma-insider-31.0.1161.vsix";
+      sha256 = "sha256-K/mIb+ivf1JBySYTaH1dyCnePsYfdQd/MyFASpydrFc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3807,10 +3807,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.3.7";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.3.7/file/WatermelonTools.watermelon-tools-1.3.7.vsix";
-      sha256 = "sha256-uxzwscStn2GWBkf/iG9oUH01esPJtpyW+ga5bNfBEK0=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.0/file/WatermelonTools.watermelon-tools-1.4.0.vsix";
+      sha256 = "sha256-2+8Ihw3BBmNZYPbP70nujxLxNkhXBJIY1QVJZLcXHi8=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -16491,10 +16491,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.5";
+    version = "1.16.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.5/file/rangav.vscode-thunder-client-1.16.5.vsix";
-      sha256 = "sha256-lweobY8WDT1BbRU9Leuzu0KPH+AyzB/nZEV7qGxtLk4=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.6/file/rangav.vscode-thunder-client-1.16.6.vsix";
+      sha256 = "sha256-pl9cuZvaDSwDtAeaRtzwP1PQpqEJkq8oFoZr6BWwyoU=";
     };
     license = "";
     name = "vscode-thunder-client";
