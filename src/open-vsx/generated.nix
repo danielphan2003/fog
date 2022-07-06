@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "6.5.0";
+    version = "6.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.5.0/file/BeardedBear.beardedtheme-6.5.0.vsix";
-      sha256 = "sha256-o17zBX0x3uIfbrnOJSIFj2CBCzuIKu+f6R1RzG0hC84=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.6.0/file/BeardedBear.beardedtheme-6.6.0.vsix";
+      sha256 = "sha256-0tbU2e1leu5nnmtFLrDDIkY/DyTR9AIAHyZH7BeSnaM=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -6243,10 +6243,10 @@
   };
   brody715-vscode-cuelang = {
     pname = "brody715-vscode-cuelang";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/brody715/vscode-cuelang/0.0.3/file/brody715.vscode-cuelang-0.0.3.vsix";
-      sha256 = "sha256-Y3boHxpocQSp/XbfKviHTpQ73XjHg6sUgH2tnXBW7ik=";
+      url = "https://open-vsx.org/api/brody715/vscode-cuelang/0.0.4/file/brody715.vscode-cuelang-0.0.4.vsix";
+      sha256 = "sha256-g/xYOvo98A5kqDG3hGtfWC+Ap0JULo8I0ruTtNXpt1o=";
     };
     license = "MIT";
     name = "vscode-cuelang";
@@ -7827,10 +7827,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.101.6";
+    version = "0.102.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.101.6/file/dendron.nightly-0.101.6.vsix";
-      sha256 = "sha256-TpHYYJ43w8sMOwELC8BnD/fRgO2POkQQIg/VmEDH+J0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.102.2/file/dendron.nightly-0.102.2.vsix";
+      sha256 = "sha256-1t1XiH2ui4DnlSIpZyh0NLO7ATPf2PpwKHA7jZ4y/QU=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -19095,10 +19095,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.1/file/t-codespaces.ide-code-status-0.1.1.vsix";
-      sha256 = "sha256-B8uBx2bABS8qPQR5CMdNNQQxV6IyxKMBJm4XC3JwGZo=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.2/file/t-codespaces.ide-code-status-0.1.2.vsix";
+      sha256 = "sha256-tXe4H0GmpX7BOl1hSh9b0MwLM7W+gjhQbjINKdJdLn0=";
     };
     license = "";
     name = "ide-code-status";
@@ -19107,10 +19107,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.34";
+    version = "0.0.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.34/file/t-codespaces.ide-data-sync-0.0.34.vsix";
-      sha256 = "sha256-4RQl6Pu/cm1JLtrbxY1rw0w/5P/sb8CfEn/h55tmeaQ=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.37/file/t-codespaces.ide-data-sync-0.0.37.vsix";
+      sha256 = "sha256-aKxeZsD2WMM9KIJfgioOdkuql+0Ct6LuJWnQbqs8a04=";
     };
     license = "";
     name = "ide-data-sync";
