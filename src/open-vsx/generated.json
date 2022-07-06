@@ -5465,11 +5465,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hRVA1jz7piR/xXgGEZ1QacWrMAKv61gsn6l4QxF/dTI=",
+            "sha256": "sha256-3yDCg7qWkjspb9xBmmFdQvJQWOjJ/YtCU3bwMw0zmuo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.49/file/TI.devspacesplus-0.0.49.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.50/file/TI.devspacesplus-0.0.50.vsix"
         },
-        "version": "0.0.49"
+        "version": "0.0.50"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
