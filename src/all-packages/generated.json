@@ -1731,12 +1731,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "85a8bfd2ee925aaf59d60fdea5fedbd5a937134d",
-            "sha256": "sha256-m2XCRezNcSyDwBBWCOstg0z/NcTpGMjCI9E9N+IC5a4=",
+            "rev": "ae578c13f7ba82a618d4a7c07e665526fd22e542",
+            "sha256": "sha256-oQpt8mZniBvzUgUj6kiVYIgVnn8XukjQGoXmA19UtRY=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "85a8bfd2ee925aaf59d60fdea5fedbd5a937134d"
+        "version": "ae578c13f7ba82a618d4a7c07e665526fd22e542"
     },
     "spicetify-cli": {
         "cargoLocks": null,
