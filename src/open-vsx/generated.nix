@@ -3807,10 +3807,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.4.0";
+    version = "1.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.0/file/WatermelonTools.watermelon-tools-1.4.0.vsix";
-      sha256 = "sha256-2+8Ihw3BBmNZYPbP70nujxLxNkhXBJIY1QVJZLcXHi8=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.2/file/WatermelonTools.watermelon-tools-1.4.2.vsix";
+      sha256 = "sha256-wTnpz+NDWsesaE9IGKUSf1OvME/Oovfe0/VsDF9QWoM=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -8727,10 +8727,10 @@
   };
   evilz-vscode-reveal = {
     pname = "evilz-vscode-reveal";
-    version = "4.1.3";
+    version = "4.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.1.3/file/evilz.vscode-reveal-4.1.3.vsix";
-      sha256 = "sha256-IbRq/IiSGYFqd1UDuhKCWZv94OUyOw4IWPvt8lKW68c=";
+      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.3.2/file/evilz.vscode-reveal-4.3.2.vsix";
+      sha256 = "sha256-Y0O/yUAbQH2CQ/8zzfuAlscSTdsIKCFIgcsON4M81v0=";
     };
     license = "MIT";
     name = "vscode-reveal";
