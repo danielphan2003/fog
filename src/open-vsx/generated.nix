@@ -469,18 +469,6 @@
     description = "Texinfo language support for Visual Studio Code";
     publisher = "CismonX";
   };
-  CloudStudio-Team-metawork = {
-    pname = "CloudStudio-Team-metawork";
-    version = "0.0.17";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.17/file/CloudStudio-Team.metawork-0.0.17.vsix";
-      sha256 = "sha256-6rG+K11y0THGCMwxkDQKSw7rU/jhj4JdBd1VZptphH4=";
-    };
-    license = "MIT";
-    name = "metawork";
-    description = "Cloud Studio \22810\20154\21327\20316\22871\20214\65292\35753\24320\21457\26356\39640\25928\65281Cloud Studio MetaWork makes development more effective.";
-    publisher = "CloudStudio-Team";
-  };
   CocaineJohnsson-nihil = {
     pname = "CocaineJohnsson-nihil";
     version = "1.0.2";
@@ -555,10 +543,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "13.1.0";
+    version = "13.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/13.1.0/file/CodeStream.codestream-13.1.0.vsix";
-      sha256 = "sha256-u0uHZvs54gW+fg104z/fIthYJnEkr3v9PwV3rqy640c=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/13.2.0/file/CodeStream.codestream-13.2.0.vsix";
+      sha256 = "sha256-/fuVpaoYTZ6k2J8guXMpo8nhcTstzkv4+kb87WXVwC8=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -2895,10 +2883,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1155";
+    version = "31.0.1160";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1155/file/Prisma.prisma-insider-31.0.1155.vsix";
-      sha256 = "sha256-v9ZMQOnqNDvvuT7BlkEuuPX6qFTTPGrwK43ZfXofmcY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1160/file/Prisma.prisma-insider-31.0.1160.vsix";
+      sha256 = "sha256-lGhIb7qzBiDoiC40IrFGKLAY4hNNpc+MQKcKz/Z0JRU=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";

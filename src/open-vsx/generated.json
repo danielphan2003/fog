@@ -740,25 +740,6 @@
         },
         "version": "0.2.4"
     },
-    "CloudStudio-Team-metawork": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "CloudStudio-Team-metawork",
-        "passthru": {
-            "description": "Cloud Studio å¤äººåä½å¥ä»¶ï¼è®©å¼åæ´é«æï¼Cloud Studio MetaWork makes development more effective.",
-            "license": "MIT",
-            "name": "metawork",
-            "publisher": "CloudStudio-Team"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-6rG+K11y0THGCMwxkDQKSw7rU/jhj4JdBd1VZptphH4=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/CloudStudio-Team/metawork/0.0.17/file/CloudStudio-Team.metawork-0.0.17.vsix"
-        },
-        "version": "0.0.17"
-    },
     "CocaineJohnsson-nihil": {
         "cargoLocks": null,
         "extract": null,
@@ -886,11 +867,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u0uHZvs54gW+fg104z/fIthYJnEkr3v9PwV3rqy640c=",
+            "sha256": "sha256-/fuVpaoYTZ6k2J8guXMpo8nhcTstzkv4+kb87WXVwC8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CodeStream/codestream/13.1.0/file/CodeStream.codestream-13.1.0.vsix"
+            "url": "https://open-vsx.org/api/CodeStream/codestream/13.2.0/file/CodeStream.codestream-13.2.0.vsix"
         },
-        "version": "13.1.0"
+        "version": "13.2.0"
     },
     "CodeStream-github-enterprise": {
         "cargoLocks": null,
@@ -4591,11 +4572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-v9ZMQOnqNDvvuT7BlkEuuPX6qFTTPGrwK43ZfXofmcY=",
+            "sha256": "sha256-lGhIb7qzBiDoiC40IrFGKLAY4hNNpc+MQKcKz/Z0JRU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1155/file/Prisma.prisma-insider-31.0.1155.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1160/file/Prisma.prisma-insider-31.0.1160.vsix"
         },
-        "version": "31.0.1155"
+        "version": "31.0.1160"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
