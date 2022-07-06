@@ -1516,11 +1516,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QsFyabOwy9m3UkLoyqYduz1X0T1e4j4DvguCFEWDeWA=",
+            "sha256": "sha256-W1VSINcsdRCyYjFoSNw0uOQ0UzgOqAp5Ik6MsaS4Yag=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.3/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.4/app-release-unsigned.apk"
         },
-        "version": "0.21.3"
+        "version": "0.21.4"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
