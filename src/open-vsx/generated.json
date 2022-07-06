@@ -5275,11 +5275,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gMFngbpOrVBpOLS9oFkJmSc/0nvxT6L/UM3aH9Zw+qk=",
+            "sha256": "sha256-jlfgyXLiWaX5BRJV7dC4Er1DPFgW48xSBJry7r8qPwM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.3/file/Snickerdoodle.snickerdoodle-light-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.4/file/Snickerdoodle.snickerdoodle-light-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "SonarSource-sonarlint-vscode": {
         "cargoLocks": null,
@@ -17378,11 +17378,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ysPULoy9V++B3bOvdi4tFLF1tiZuXF3hm7A7mB2hB7Y=",
+            "sha256": "sha256-kWztqRSpeHUWT7FSm5xxvUl50cyy5DEwOu3CRLjHMTI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.8/file/iterative.dvc-0.3.8.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.9/file/iterative.dvc-0.3.9.vsix"
         },
-        "version": "0.3.8"
+        "version": "0.3.9"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,

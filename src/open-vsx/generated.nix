@@ -3327,10 +3327,10 @@
   };
   Snickerdoodle-snickerdoodle-light = {
     pname = "Snickerdoodle-snickerdoodle-light";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.3/file/Snickerdoodle.snickerdoodle-light-0.0.3.vsix";
-      sha256 = "sha256-gMFngbpOrVBpOLS9oFkJmSc/0nvxT6L/UM3aH9Zw+qk=";
+      url = "https://open-vsx.org/api/Snickerdoodle/snickerdoodle-light/0.0.4/file/Snickerdoodle.snickerdoodle-light-0.0.4.vsix";
+      sha256 = "sha256-jlfgyXLiWaX5BRJV7dC4Er1DPFgW48xSBJry7r8qPwM=";
     };
     license = "MIT";
     name = "snickerdoodle-light";
@@ -10971,10 +10971,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.8";
+    version = "0.3.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.8/file/iterative.dvc-0.3.8.vsix";
-      sha256 = "sha256-ysPULoy9V++B3bOvdi4tFLF1tiZuXF3hm7A7mB2hB7Y=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.9/file/iterative.dvc-0.3.9.vsix";
+      sha256 = "sha256-kWztqRSpeHUWT7FSm5xxvUl50cyy5DEwOu3CRLjHMTI=";
     };
     license = "Apache-2.0";
     name = "dvc";
