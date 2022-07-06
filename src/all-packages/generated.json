@@ -376,11 +376,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "412dcc07d3201561302bc20b6200d893aee69657",
-            "sha256": "sha256-k7RoiGXkdnWxsYkmve50Al4clcqg7N4O7Q/vTBsPHbQ=",
+            "rev": "8bac134f26874b25aa22f8fee325a05d39157a4c",
+            "sha256": "sha256-AhuKAoQBh4/0LtKTZUN2w+RFu8z183LCqUml7G0qj/E=",
             "type": "github"
         },
-        "version": "412dcc07d3201561302bc20b6200d893aee69657"
+        "version": "8bac134f26874b25aa22f8fee325a05d39157a4c"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "821bb86b37640a61d81d83c0371be7d39221b5f9",
-            "sha256": "sha256-oTcSt5VnIAJ4PCSDr/y3uJhhHy/TpSl8NbutOXn7w5A=",
+            "rev": "92264826debe070887a5b0d3c970db47a31f2105",
+            "sha256": "sha256-HVDffYARCVAoTeKBD3uIYmLAXyhiGBPx+V5ba7qfotA=",
             "type": "github"
         },
-        "version": "821bb86b37640a61d81d83c0371be7d39221b5f9"
+        "version": "92264826debe070887a5b0d3c970db47a31f2105"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1516,11 +1516,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Y79yUMmBrLe0lxaBxPlDyaI8EYo/io8IzXINmvE543w=",
+            "sha256": "sha256-1Ib+6LYElKrwF17LiCnEqsyx4eiMxfZYO3ZdYFQGdAs=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.2/app-release-unsigned.apk"
         },
-        "version": "0.21.1"
+        "version": "0.21.2"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -2136,11 +2136,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "5111dc987b7fc3298934b6c4c3d6b97055583a86",
-            "sha256": "sha256-31ATUoBPuuMRxakevL66Q8bXpFZ7AZWm+HQlkqX3psA=",
+            "rev": "d2c283d7fcd6a1f778d362e7cda73c39988e0d0f",
+            "sha256": "sha256-nA0inqc4pPi6vbTgBJu9oQYSLamMo4VaQYe2BQIcFVw=",
             "type": "github"
         },
-        "version": "5111dc987b7fc3298934b6c4c3d6b97055583a86"
+        "version": "d2c283d7fcd6a1f778d362e7cda73c39988e0d0f"
     },
     "wgcf": {
         "cargoLocks": null,

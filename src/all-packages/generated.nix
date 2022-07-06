@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "412dcc07d3201561302bc20b6200d893aee69657";
+    version = "8bac134f26874b25aa22f8fee325a05d39157a4c";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "412dcc07d3201561302bc20b6200d893aee69657";
+      rev = "8bac134f26874b25aa22f8fee325a05d39157a4c";
       fetchSubmodules = false;
-      sha256 = "sha256-k7RoiGXkdnWxsYkmve50Al4clcqg7N4O7Q/vTBsPHbQ=";
+      sha256 = "sha256-AhuKAoQBh4/0LtKTZUN2w+RFu8z183LCqUml7G0qj/E=";
     });
   };
   cinny = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "821bb86b37640a61d81d83c0371be7d39221b5f9";
+    version = "92264826debe070887a5b0d3c970db47a31f2105";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "821bb86b37640a61d81d83c0371be7d39221b5f9";
+      rev = "92264826debe070887a5b0d3c970db47a31f2105";
       fetchSubmodules = false;
-      sha256 = "sha256-oTcSt5VnIAJ4PCSDr/y3uJhhHy/TpSl8NbutOXn7w5A=";
+      sha256 = "sha256-HVDffYARCVAoTeKBD3uIYmLAXyhiGBPx+V5ba7qfotA=";
     });
   };
   revanced-cli = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.21.1";
+    version = "0.21.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.1/app-release-unsigned.apk";
-      sha256 = "sha256-Y79yUMmBrLe0lxaBxPlDyaI8EYo/io8IzXINmvE543w=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.2/app-release-unsigned.apk";
+      sha256 = "sha256-1Ib+6LYElKrwF17LiCnEqsyx4eiMxfZYO3ZdYFQGdAs=";
     };
   };
   revanced-patches-dex = {
@@ -1278,13 +1278,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "5111dc987b7fc3298934b6c4c3d6b97055583a86";
+    version = "d2c283d7fcd6a1f778d362e7cda73c39988e0d0f";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "5111dc987b7fc3298934b6c4c3d6b97055583a86";
+      rev = "d2c283d7fcd6a1f778d362e7cda73c39988e0d0f";
       fetchSubmodules = false;
-      sha256 = "sha256-31ATUoBPuuMRxakevL66Q8bXpFZ7AZWm+HQlkqX3psA=";
+      sha256 = "sha256-nA0inqc4pPi6vbTgBJu9oQYSLamMo4VaQYe2BQIcFVw=";
     });
   };
   wgcf = {
