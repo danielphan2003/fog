@@ -5218,11 +5218,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-H7mCtvNP7xa5fZcZp7iirnE3aWceJG9jUFXN0P28KcM=",
+            "sha256": "sha256-NHziIoJ4fTIuux9nJ/qZMMq0gSzg6riEVs5yNog+R4M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.517/file/Slint.slint-nightly-2022.7.517.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.621/file/Slint.slint-nightly-2022.7.621.vsix"
         },
-        "version": "2022.7.517"
+        "version": "2022.7.621"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -21088,6 +21088,25 @@
             "url": "https://open-vsx.org/api/meganrogge/template-string-converter/0.5.9/file/meganrogge.template-string-converter-0.5.9.vsix"
         },
         "version": "0.5.9"
+    },
+    "megatank58-oxido-lang": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "megatank58-oxido-lang",
+        "passthru": {
+            "description": "Syntax highlighting for oxido",
+            "license": "MIT",
+            "name": "oxido-lang",
+            "publisher": "megatank58"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-mvFBazbhfAS09vokWD0oFRLXjkj0+eAvA1ANb2OMsFY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/megatank58/oxido-lang/1.1.0/file/megatank58.oxido-lang-1.1.0.vsix"
+        },
+        "version": "1.1.0"
     },
     "melmass-vex": {
         "cargoLocks": null,

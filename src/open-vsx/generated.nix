@@ -3291,10 +3291,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.517";
+    version = "2022.7.621";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.517/file/Slint.slint-nightly-2022.7.517.vsix";
-      sha256 = "sha256-H7mCtvNP7xa5fZcZp7iirnE3aWceJG9jUFXN0P28KcM=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.621/file/Slint.slint-nightly-2022.7.621.vsix";
+      sha256 = "sha256-NHziIoJ4fTIuux9nJ/qZMMq0gSzg6riEVs5yNog+R4M=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13320,6 +13320,18 @@
     name = "template-string-converter";
     description = "Converts a string to a template string when '$'{ is typed";
     publisher = "meganrogge";
+  };
+  megatank58-oxido-lang = {
+    pname = "megatank58-oxido-lang";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/megatank58/oxido-lang/1.1.0/file/megatank58.oxido-lang-1.1.0.vsix";
+      sha256 = "sha256-mvFBazbhfAS09vokWD0oFRLXjkj0+eAvA1ANb2OMsFY=";
+    };
+    license = "MIT";
+    name = "oxido-lang";
+    description = "Syntax highlighting for oxido";
+    publisher = "megatank58";
   };
   melmass-vex = {
     pname = "melmass-vex";
