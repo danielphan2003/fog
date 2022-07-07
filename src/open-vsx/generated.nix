@@ -9075,10 +9075,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.18.5";
+    version = "0.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.18.5/file/foam.foam-vscode-0.18.5.vsix";
-      sha256 = "sha256-3S2HAayT6f7vXwc977Nln2mmuDxGkIeBwhyUlO0LLBY=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.0/file/foam.foam-vscode-0.19.0.vsix";
+      sha256 = "sha256-A/z6lRbNDR2VRb8JJ71uef5ZhFzP9bR5/gjLEvMiKmc=";
     };
     license = "MIT";
     name = "foam-vscode";
@@ -16023,10 +16023,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.382";
+    version = "0.26.385";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.382/file/pokey.cursorless-0.26.382.vsix";
-      sha256 = "sha256-oBKHigYV46HEu6vR9MFXhg1+lZldOQMouV8hELV3T7A=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.385/file/pokey.cursorless-0.26.385.vsix";
+      sha256 = "sha256-hedntvAGeqj/OskJCeSlGLTUP/xpxLvUwBRh+K4N4oE=";
     };
     license = "MIT";
     name = "cursorless";
