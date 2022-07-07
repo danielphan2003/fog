@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "19b2ad56b0c253efe7fb5f6f6397808c8f82f3d9";
+    version = "6318e5da5e1b50d4deeec4f18ffddf66b27ad3b1";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "19b2ad56b0c253efe7fb5f6f6397808c8f82f3d9";
+      rev = "6318e5da5e1b50d4deeec4f18ffddf66b27ad3b1";
       fetchSubmodules = false;
-      sha256 = "sha256-1WK9djZFKrDnbruzR7hvJJ8NqySaoTITVeDV8Ry67Jw=";
+      sha256 = "sha256-o6J7V9rTErhsjow6j8dolC2fpfcxIIeVFL2+f352P/k=";
     });
   };
   revanced-cli = {
@@ -1311,13 +1311,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "330a481f8b06a8e8bca1d3a5ab336fb68782b30a";
+    version = "3a03200c22b515cfa045acafa7a675fc5e806706";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "330a481f8b06a8e8bca1d3a5ab336fb68782b30a";
+      rev = "3a03200c22b515cfa045acafa7a675fc5e806706";
       fetchSubmodules = false;
-      sha256 = "sha256-yh8JeMCNs5mY/AMcGXfrtJvRXUI/9KozXV+CgEVeghE=";
+      sha256 = "sha256-/JEQUmf1LFH1dUHSeRytoCKJZZLpQejawoNGFvGLYmI=";
     });
   };
   widevine-cdm = {
