@@ -3435,10 +3435,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.50";
+    version = "0.0.51";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.50/file/TI.devspacesplus-0.0.50.vsix";
-      sha256 = "sha256-3yDCg7qWkjspb9xBmmFdQvJQWOjJ/YtCU3bwMw0zmuo=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.51/file/TI.devspacesplus-0.0.51.vsix";
+      sha256 = "sha256-xWDB5PDmbD+CyM7wrQ2AhnFmpM6q/txpgAe/bu1Jpxg=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5271,12 +5271,12 @@
   };
   arm-device-manager = {
     pname = "arm-device-manager";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/device-manager/1.0.0/file/arm.device-manager-1.0.0.vsix";
-      sha256 = "sha256-EapHC0vMS4u3RsRIh+eCKrobNU4I38fY9pdwcHDQdzo=";
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.1/file/arm.device-manager-1.0.1.vsix";
+      sha256 = "sha256-g1HfdRG1wGycq73JVTTW4ajppjYyK0Rv+VMjgA9x5kc=";
     };
-    license = "";
+    license = "https://www.keil.arm.com/license-agreement/";
     name = "device-manager";
     description = "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes";
     publisher = "arm";
@@ -8283,10 +8283,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.59.0";
+    version = "0.60.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.59.0/file/edukera.archetype-0.59.0.vsix";
-      sha256 = "sha256-5twRrii8PoZOytM8CHeL4J83XOKPr35yCwY+7/kiCCw=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.60.0/file/edukera.archetype-0.60.0.vsix";
+      sha256 = "sha256-xKqgXVJK2hq8ZAnBGdtGx23PVp9jajvUldOhRMQG8XE=";
     };
     license = "MIT";
     name = "archetype";
@@ -19464,6 +19464,18 @@
     name = "endless-sky-vscode";
     description = "Endless Sky data file support";
     publisher = "thomasballinger";
+  };
+  tht13-python = {
+    pname = "tht13-python";
+    version = "0.2.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tht13/python/0.2.2/file/tht13.python-0.2.2.vsix";
+      sha256 = "sha256-v148P7f0mO6WFBP+fsCIijOwmjbxUy4rfi9zG+7MLsE=";
+    };
+    license = "MIT";
+    name = "python";
+    description = "Python language extension for vscode";
+    publisher = "tht13";
   };
   tiabeast-vscode-bait = {
     pname = "tiabeast-vscode-bait";

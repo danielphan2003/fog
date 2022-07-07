@@ -5446,11 +5446,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3yDCg7qWkjspb9xBmmFdQvJQWOjJ/YtCU3bwMw0zmuo=",
+            "sha256": "sha256-xWDB5PDmbD+CyM7wrQ2AhnFmpM6q/txpgAe/bu1Jpxg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.50/file/TI.devspacesplus-0.0.50.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.51/file/TI.devspacesplus-0.0.51.vsix"
         },
-        "version": "0.0.50"
+        "version": "0.0.51"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -8346,18 +8346,18 @@
         "name": "arm-device-manager",
         "passthru": {
             "description": "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes",
-            "license": "",
+            "license": "https://www.keil.arm.com/license-agreement/",
             "name": "device-manager",
             "publisher": "arm"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EapHC0vMS4u3RsRIh+eCKrobNU4I38fY9pdwcHDQdzo=",
+            "sha256": "sha256-g1HfdRG1wGycq73JVTTW4ajppjYyK0Rv+VMjgA9x5kc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/device-manager/1.0.0/file/arm.device-manager-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/arm/device-manager/1.0.1/file/arm.device-manager-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -13122,11 +13122,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5twRrii8PoZOytM8CHeL4J83XOKPr35yCwY+7/kiCCw=",
+            "sha256": "sha256-xKqgXVJK2hq8ZAnBGdtGx23PVp9jajvUldOhRMQG8XE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/edukera/archetype/0.59.0/file/edukera.archetype-0.59.0.vsix"
+            "url": "https://open-vsx.org/api/edukera/archetype/0.60.0/file/edukera.archetype-0.60.0.vsix"
         },
-        "version": "0.59.0"
+        "version": "0.60.0"
     },
     "efoerster-texlab": {
         "cargoLocks": null,
@@ -30816,6 +30816,25 @@
             "url": "https://open-vsx.org/api/thomasballinger/endless-sky-vscode/0.5.2/file/thomasballinger.endless-sky-vscode-0.5.2.vsix"
         },
         "version": "0.5.2"
+    },
+    "tht13-python": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "tht13-python",
+        "passthru": {
+            "description": "Python language extension for vscode",
+            "license": "MIT",
+            "name": "python",
+            "publisher": "tht13"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-v148P7f0mO6WFBP+fsCIijOwmjbxUy4rfi9zG+7MLsE=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/tht13/python/0.2.2/file/tht13.python-0.2.2.vsix"
+        },
+        "version": "0.2.2"
     },
     "tiabeast-vscode-bait": {
         "cargoLocks": null,
