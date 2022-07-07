@@ -5269,6 +5269,18 @@
     description = "Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code.";
     publisher = "arjun";
   };
+  arm-device-manager = {
+    pname = "arm-device-manager";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.0/file/arm.device-manager-1.0.0.vsix";
+      sha256 = "sha256-EapHC0vMS4u3RsRIh+eCKrobNU4I38fY9pdwcHDQdzo=";
+    };
+    license = "";
+    name = "device-manager";
+    description = "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes";
+    publisher = "arm";
+  };
   armandphilippot-coldark = {
     pname = "armandphilippot-coldark";
     version = "1.2.11";
@@ -20163,10 +20175,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.15.0";
+    version = "2.15.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.15.0/file/usernamehw.todo-md-2.15.0.vsix";
-      sha256 = "sha256-z+sgME26cacKHyy/TsFfiG/BmoAgMi6GsNzyFm96/7w=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.15.1/file/usernamehw.todo-md-2.15.1.vsix";
+      sha256 = "sha256-gC4CJRzhlbRqCzoElwVfhLsG2PSyvkvN1AQidd8HK04=";
     };
     license = "MIT";
     name = "todo-md";

@@ -8340,6 +8340,25 @@
         },
         "version": "3.1.2"
     },
+    "arm-device-manager": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "arm-device-manager",
+        "passthru": {
+            "description": "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes",
+            "license": "",
+            "name": "device-manager",
+            "publisher": "arm"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EapHC0vMS4u3RsRIh+eCKrobNU4I38fY9pdwcHDQdzo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/arm/device-manager/1.0.0/file/arm.device-manager-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "armandphilippot-coldark": {
         "cargoLocks": null,
         "extract": null,
@@ -31932,11 +31951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-z+sgME26cacKHyy/TsFfiG/BmoAgMi6GsNzyFm96/7w=",
+            "sha256": "sha256-gC4CJRzhlbRqCzoElwVfhLsG2PSyvkvN1AQidd8HK04=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.15.0/file/usernamehw.todo-md-2.15.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.15.1/file/usernamehw.todo-md-2.15.1.vsix"
         },
-        "version": "2.15.0"
+        "version": "2.15.1"
     },
     "usernamehw-url-title": {
         "cargoLocks": null,
