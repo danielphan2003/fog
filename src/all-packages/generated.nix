@@ -855,13 +855,13 @@
   };
   quibble = {
     pname = "quibble";
-    version = "eaa8927f84ea70f3aa4fc49da00e018021b71819";
+    version = "2856b096c3136eed67da47ab47a69ce0b0586ae9";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "quibble";
-      rev = "eaa8927f84ea70f3aa4fc49da00e018021b71819";
+      rev = "2856b096c3136eed67da47ab47a69ce0b0586ae9";
       fetchSubmodules = false;
-      sha256 = "sha256-+RF5JqPv9aZ6i9pZtzOChIdnUakRk61FkqiyRZId0Js=";
+      sha256 = "sha256-RTXJtP0cwZmfFpzH62FzOm3Wvh9aFSz9xyS2IYzLQ9w=";
     });
   };
   rainfox = {
@@ -1123,17 +1123,17 @@
   };
   supergfxctl = {
     pname = "supergfxctl";
-    version = "715716cfd924dc2105b377d3f4cc437593f47fc6";
+    version = "46f808da96802b6cc27e1b195bb500889fcf3a49";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/supergfxctl";
-      rev = "715716cfd924dc2105b377d3f4cc437593f47fc6";
+      rev = "46f808da96802b6cc27e1b195bb500889fcf3a49";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-hdHZ1GNhEotyOOPW3PJMe4+sdTqwic7iCnVsA5a1F1c=";
+      sha256 = "sha256-FTDJpmWsgF9CGfnVLYu7UosluQa/I5/omhOil8oEW64=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./supergfxctl-715716cfd924dc2105b377d3f4cc437593f47fc6/Cargo.lock;
+      lockFile = ./supergfxctl-46f808da96802b6cc27e1b195bb500889fcf3a49/Cargo.lock;
       outputHashes = {
         
       };
