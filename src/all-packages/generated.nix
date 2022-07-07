@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "33f48f4a9c3490cff7e08d717ea8852391c55fc7";
+    version = "b73608060130b94379f7707825abb7d9b64f8a01";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "33f48f4a9c3490cff7e08d717ea8852391c55fc7";
+      rev = "b73608060130b94379f7707825abb7d9b64f8a01";
       fetchSubmodules = false;
-      sha256 = "sha256-QXSjvv0NzItvRgWEu+g+ryv3RVs+ZzOsRtvO/qiIm2Y=";
+      sha256 = "sha256-0PWCG1vh5R0SLtrVIpZDGype6FFInkdrDn0si4rjuP8=";
     });
   };
   fluffychat = {
@@ -485,13 +485,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "9ad063746ec3d919217ae18acce2d4768bcfca05";
+    version = "b94f0c1cea5d0e423fef3bcc13b23f212f04c930";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "9ad063746ec3d919217ae18acce2d4768bcfca05";
+      rev = "b94f0c1cea5d0e423fef3bcc13b23f212f04c930";
       fetchSubmodules = false;
-      sha256 = "sha256-o7E69Fx3Hg9JXuM0BVQqXjVPbiSoIKiS98bJR8ZCExc=";
+      sha256 = "sha256-oQW6eWSavMROdtQQBH1gWFher8sTf/fF8sNAAyVRQeo=";
     });
   };
   ibus-bamboo = {
