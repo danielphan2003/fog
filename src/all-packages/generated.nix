@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6327";
+    version = "1.0.6328";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6327.tar.bz2";
-      sha256 = "sha256-yIrQ6OMizFFLBC3KMe3Tt0A1v340Fr5M2UM3QOjnbvY=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6328.tar.bz2";
+      sha256 = "sha256-Dw0uI50fJDyrhsSIkbKJwXBViW7rUFZKu3U6tDhFzyI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6327";
+    version = "1.0.6328";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6327-1_all.deb";
-      sha256 = "sha256-RFipUrHUZbaVFrNv5AxOpoT6J4PIQO2U5D7V7xzWFrs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6328-1_all.deb";
+      sha256 = "sha256-QrvzIeKmmlJZicW2G9P7BKI9pas+eEPIeSV+YnX0MOQ=";
     };
   };
   jitsi-videobridge2 = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a547abbbafbac16a3ca7e57d6eb417882fbb2a44";
+    version = "281a498474966e60cc06a102619c01c03a093b25";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a547abbbafbac16a3ca7e57d6eb417882fbb2a44";
+      rev = "281a498474966e60cc06a102619c01c03a093b25";
       fetchSubmodules = false;
-      sha256 = "sha256-7FFOgptZr8s2dL4XtA9ijW3ZT96mksgDwl95wlMIPS0=";
+      sha256 = "sha256-flWzvFcHOozhnFEwaRe1XYHaDflyveu1YGPaV4QRY+I=";
     });
   };
   revanced-cli = {
@@ -1057,13 +1057,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "a73b49d64362ac7ac6235b9cca8331e6d5c46c28";
+    version = "d0b23ac459b75d9a83249dd2bc870917ad0ef0f3";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "a73b49d64362ac7ac6235b9cca8331e6d5c46c28";
+      rev = "d0b23ac459b75d9a83249dd2bc870917ad0ef0f3";
       fetchSubmodules = false;
-      sha256 = "sha256-VVH9Sz3TBzQfay7dXBAWC1631oKB2+BZneTg4q1swps=";
+      sha256 = "sha256-41WCoXhcUBbUc4L4SlNcyRKnazJMNUPX9E8j0eQC/WY=";
     });
   };
   spicetify-themes = {
