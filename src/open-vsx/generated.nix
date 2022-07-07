@@ -1215,10 +1215,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.44.0";
+    version = "0.46.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.44.0/file/GitHub.vscode-pull-request-github-0.44.0.vsix";
-      sha256 = "sha256-8OYCC9XMcZHkRnRtCyLukA1Vr8m0Iwnovqy1IKk1zOk=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.0/file/GitHub.vscode-pull-request-github-0.46.0.vsix";
+      sha256 = "sha256-DaXwyyhTbUuVOQFdDCGsTDEDi6FL3V6NmsbojwCjlx4=";
     };
     license = "MIT";
     name = "vscode-pull-request-github";
@@ -13923,10 +13923,10 @@
   };
   ms-playwright-playwright = {
     pname = "ms-playwright-playwright";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.5/file/ms-playwright.playwright-0.2.5.vsix";
-      sha256 = "sha256-GtDRwSynPbBewM+UsYIO73qTIUiMaxcVrtVirMLTeVg=";
+      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.6/file/ms-playwright.playwright-0.2.6.vsix";
+      sha256 = "sha256-ASWHxA5Jagukq4e3lhudHD/cFtoQKenBR09PbCOfPuI=";
     };
     license = "Apache-2.0";
     name = "playwright";
@@ -14307,10 +14307,10 @@
   };
   ms-vscode-vscode-js-profile-flame = {
     pname = "ms-vscode-vscode-js-profile-flame";
-    version = "1.0.3";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.3/file/ms-vscode.vscode-js-profile-flame-1.0.3.vsix";
-      sha256 = "sha256-5/XLaa6jn8Tk+UbHB+wh1MmmaIbrpzqgK2pn0bUUPPQ=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.4/file/ms-vscode.vscode-js-profile-flame-1.0.4.vsix";
+      sha256 = "sha256-wrm5/XIxTM4+e8OCSuTTpeTx22nEgzJQyJUhtrDET6E=";
     };
     license = "MIT";
     name = "vscode-js-profile-flame";
@@ -20643,10 +20643,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.35.1";
+    version = "0.35.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix";
-      sha256 = "sha256-tHKjSUW2FyQt4A2JbXFJj3MfEeBOLqdEkvXyjoZvlVE=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.2/file/vscjava.vscode-java-test-0.35.2.vsix";
+      sha256 = "sha256-uSy0Ao1qL3Vi+WRycd7Fw9R52lDjHpXOJFWIpNW1wUo=";
     };
     license = "";
     name = "vscode-java-test";

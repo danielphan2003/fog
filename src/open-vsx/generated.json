@@ -1931,11 +1931,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8OYCC9XMcZHkRnRtCyLukA1Vr8m0Iwnovqy1IKk1zOk=",
+            "sha256": "sha256-DaXwyyhTbUuVOQFdDCGsTDEDi6FL3V6NmsbojwCjlx4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.44.0/file/GitHub.vscode-pull-request-github-0.44.0.vsix"
+            "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.0/file/GitHub.vscode-pull-request-github-0.46.0.vsix"
         },
-        "version": "0.44.0"
+        "version": "0.46.0"
     },
     "GitLab-gitlab-workflow": {
         "cargoLocks": null,
@@ -22052,11 +22052,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GtDRwSynPbBewM+UsYIO73qTIUiMaxcVrtVirMLTeVg=",
+            "sha256": "sha256-ASWHxA5Jagukq4e3lhudHD/cFtoQKenBR09PbCOfPuI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.5/file/ms-playwright.playwright-0.2.5.vsix"
+            "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.6/file/ms-playwright.playwright-0.2.6.vsix"
         },
-        "version": "0.2.5"
+        "version": "0.2.6"
     },
     "ms-pyright-pyright": {
         "cargoLocks": null,
@@ -22660,11 +22660,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5/XLaa6jn8Tk+UbHB+wh1MmmaIbrpzqgK2pn0bUUPPQ=",
+            "sha256": "sha256-wrm5/XIxTM4+e8OCSuTTpeTx22nEgzJQyJUhtrDET6E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.3/file/ms-vscode.vscode-js-profile-flame-1.0.3.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-js-profile-flame/1.0.4/file/ms-vscode.vscode-js-profile-flame-1.0.4.vsix"
         },
-        "version": "1.0.3"
+        "version": "1.0.4"
     },
     "ms-vscode-vscode-js-profile-table": {
         "cargoLocks": null,
@@ -32692,11 +32692,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tHKjSUW2FyQt4A2JbXFJj3MfEeBOLqdEkvXyjoZvlVE=",
+            "sha256": "sha256-uSy0Ao1qL3Vi+WRycd7Fw9R52lDjHpXOJFWIpNW1wUo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.1/file/vscjava.vscode-java-test-0.35.1.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.2/file/vscjava.vscode-java-test-0.35.2.vsix"
         },
-        "version": "0.35.1"
+        "version": "0.35.2"
     },
     "vscjava-vscode-maven": {
         "cargoLocks": null,
