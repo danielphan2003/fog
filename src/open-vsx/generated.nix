@@ -7815,10 +7815,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.102.2";
+    version = "0.102.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.102.2/file/dendron.nightly-0.102.2.vsix";
-      sha256 = "sha256-1t1XiH2ui4DnlSIpZyh0NLO7ATPf2PpwKHA7jZ4y/QU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.102.3/file/dendron.nightly-0.102.3.vsix";
+      sha256 = "sha256-y7j86xdgcmZunOmDjtfXQR5nrW+I4StDzwsFOnl88YA=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8727,10 +8727,10 @@
   };
   evilz-vscode-reveal = {
     pname = "evilz-vscode-reveal";
-    version = "4.3.2";
+    version = "4.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.3.2/file/evilz.vscode-reveal-4.3.2.vsix";
-      sha256 = "sha256-Y0O/yUAbQH2CQ/8zzfuAlscSTdsIKCFIgcsON4M81v0=";
+      url = "https://open-vsx.org/api/evilz/vscode-reveal/4.3.3/file/evilz.vscode-reveal-4.3.3.vsix";
+      sha256 = "sha256-KqvQi0DMfHppX96qKHIkO9zIueBdGGV+6dYkpFEzFBo=";
     };
     license = "MIT";
     name = "vscode-reveal";
