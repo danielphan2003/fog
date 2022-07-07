@@ -873,25 +873,6 @@
         },
         "version": "13.2.0"
     },
-    "CodeStream-github-enterprise": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "CodeStream-github-enterprise",
-        "passthru": {
-            "description": "GitHub pull requests and issues in your IDE. Eliminate context-switching between tools. Also integrates with Slack, MS Teams, Jira, Trello and more.",
-            "license": "UNLICENSED",
-            "name": "github-enterprise",
-            "publisher": "CodeStream"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-A4FwGGJNF4PDJJyaHRSL8maKqmuYkgOqwuNrHQj2z3A=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/CodeStream/github-enterprise/11.0.11/file/CodeStream.github-enterprise-11.0.11.vsix"
-        },
-        "version": "11.0.11"
-    },
     "CoenraadS-bracket-pair-colorizer": {
         "cargoLocks": null,
         "extract": null,
@@ -8353,11 +8334,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-g1HfdRG1wGycq73JVTTW4ajppjYyK0Rv+VMjgA9x5kc=",
+            "sha256": "sha256-EYmhtvdPtNjB2BgTRu6y1pecy2H0fVhKHBLn4T6ZQwo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/device-manager/1.0.1/file/arm.device-manager-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/arm/device-manager/1.0.2/file/arm.device-manager-1.0.2.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -8828,11 +8809,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XJi6D4/sjq7o4Ib6kzXgVhdyZD76/8ha/EEc/XUSO/s=",
+            "sha256": "sha256-DmMFnGhTldQLZI8ifIhr7fBwvyoHGvhVAtgpDjBqneU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.5/file/asyncapi.asyncapi-preview-0.3.5.vsix"
+            "url": "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.6/file/asyncapi.asyncapi-preview-0.3.6.vsix"
         },
-        "version": "0.3.5"
+        "version": "0.3.6"
     },
     "atishay-jain-All-Autocomplete": {
         "cargoLocks": null,
@@ -31647,11 +31628,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1KOBab5Zt8Nb6vyT/+sQnGuhvphuNjf4rVP3lB000WA=",
+            "sha256": "sha256-hwoJ8Kg+tqooIIa+HYXMKcPl1jNqMDAR2hE3B+IA9yA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/typefox/yang-vscode/2.1.0/file/typefox.yang-vscode-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/typefox/yang-vscode/2.2.0/file/typefox.yang-vscode-2.2.0.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.2.0"
     },
     "uloco-theme-bluloco-dark": {
         "cargoLocks": null,

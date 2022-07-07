@@ -553,18 +553,6 @@
     description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.";
     publisher = "CodeStream";
   };
-  CodeStream-github-enterprise = {
-    pname = "CodeStream-github-enterprise";
-    version = "11.0.11";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/github-enterprise/11.0.11/file/CodeStream.github-enterprise-11.0.11.vsix";
-      sha256 = "sha256-A4FwGGJNF4PDJJyaHRSL8maKqmuYkgOqwuNrHQj2z3A=";
-    };
-    license = "UNLICENSED";
-    name = "github-enterprise";
-    description = "GitHub pull requests and issues in your IDE. Eliminate context-switching between tools. Also integrates with Slack, MS Teams, Jira, Trello and more.";
-    publisher = "CodeStream";
-  };
   CoenraadS-bracket-pair-colorizer = {
     pname = "CoenraadS-bracket-pair-colorizer";
     version = "1.0.62";
@@ -5271,10 +5259,10 @@
   };
   arm-device-manager = {
     pname = "arm-device-manager";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/device-manager/1.0.1/file/arm.device-manager-1.0.1.vsix";
-      sha256 = "sha256-g1HfdRG1wGycq73JVTTW4ajppjYyK0Rv+VMjgA9x5kc=";
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.2/file/arm.device-manager-1.0.2.vsix";
+      sha256 = "sha256-EYmhtvdPtNjB2BgTRu6y1pecy2H0fVhKHBLn4T6ZQwo=";
     };
     license = "https://www.keil.arm.com/license-agreement/";
     name = "device-manager";
@@ -5571,10 +5559,10 @@
   };
   asyncapi-asyncapi-preview = {
     pname = "asyncapi-asyncapi-preview";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.5/file/asyncapi.asyncapi-preview-0.3.5.vsix";
-      sha256 = "sha256-XJi6D4/sjq7o4Ib6kzXgVhdyZD76/8ha/EEc/XUSO/s=";
+      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.6/file/asyncapi.asyncapi-preview-0.3.6.vsix";
+      sha256 = "sha256-DmMFnGhTldQLZI8ifIhr7fBwvyoHGvhVAtgpDjBqneU=";
     };
     license = "Apache-2.0";
     name = "asyncapi-preview";
@@ -19983,10 +19971,10 @@
   };
   typefox-yang-vscode = {
     pname = "typefox-yang-vscode";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/typefox/yang-vscode/2.1.0/file/typefox.yang-vscode-2.1.0.vsix";
-      sha256 = "sha256-1KOBab5Zt8Nb6vyT/+sQnGuhvphuNjf4rVP3lB000WA=";
+      url = "https://open-vsx.org/api/typefox/yang-vscode/2.2.0/file/typefox.yang-vscode-2.2.0.vsix";
+      sha256 = "sha256-hwoJ8Kg+tqooIIa+HYXMKcPl1jNqMDAR2hE3B+IA9yA=";
     };
     license = "Apache-2.0";
     name = "yang-vscode";
