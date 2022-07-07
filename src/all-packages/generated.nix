@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "dda35ea33f7d8bd5b4a8366e02c6113074145ae4";
+    version = "6a26ff408d666c66e9ea2e625846f5f535a7a3ab";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "dda35ea33f7d8bd5b4a8366e02c6113074145ae4";
+      rev = "6a26ff408d666c66e9ea2e625846f5f535a7a3ab";
       fetchSubmodules = false;
-      sha256 = "sha256-8kc9oZ4b3rQulWEjSwctzDZ97oWgHRdVBnFRmeCdBmE=";
+      sha256 = "sha256-/ajqJgNaELNp4yqisrATklgl6WPNR2MU4DJF/kH1AdQ=";
     });
   };
   caddy = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6321";
+    version = "1.0.6322";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6321.tar.bz2";
-      sha256 = "sha256-w7BzMLOccP+z6Q40epD9kJeKJqQU9HGm76QYFcjw+uU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6322.tar.bz2";
+      sha256 = "sha256-pTBPlg6Zt032cXxLuZO1l+SJhj3xneuiZelbt5FM9FM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6321";
+    version = "1.0.6322";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6321-1_all.deb";
-      sha256 = "sha256-ytV1PgzRJXT6r5npDGo3bczezUbIcgeX1u1h2bkt2m4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6322-1_all.deb";
+      sha256 = "sha256-mT77nf9gkeAqrZWnrP/HFBg/fLHv8U+Xq7vqWcljrl0=";
     };
   };
   jitsi-videobridge2 = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.21.4";
+    version = "0.21.5";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.4/app-release-unsigned.apk";
-      sha256 = "sha256-W1VSINcsdRCyYjFoSNw0uOQ0UzgOqAp5Ik6MsaS4Yag=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.5/app-release-unsigned.apk";
+      sha256 = "sha256-ej4S0URZgCUx3OAkFxi5B8x6VvTkXG1RwTEaR8aoTtc=";
     };
   };
   revanced-patches-dex = {
@@ -1046,13 +1046,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "8c7239236f0dae02e59154e7854f18cca167020e";
+    version = "2d66cdd0cad932a6e292517ce6ed800758578b70";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "8c7239236f0dae02e59154e7854f18cca167020e";
+      rev = "2d66cdd0cad932a6e292517ce6ed800758578b70";
       fetchSubmodules = false;
-      sha256 = "sha256-5EpIF/rnRjTN0kx774+SqigsRG4bAIa43BsaSDdP/ro=";
+      sha256 = "sha256-W3vbdEw/A31ezCLw8vEt/o0kZ180jFGk2KYI1LhLYPM=";
     });
   };
   spicetify-marketplace = {

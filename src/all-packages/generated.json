@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "dda35ea33f7d8bd5b4a8366e02c6113074145ae4",
-            "sha256": "sha256-8kc9oZ4b3rQulWEjSwctzDZ97oWgHRdVBnFRmeCdBmE=",
+            "rev": "6a26ff408d666c66e9ea2e625846f5f535a7a3ab",
+            "sha256": "sha256-/ajqJgNaELNp4yqisrATklgl6WPNR2MU4DJF/kH1AdQ=",
             "type": "github"
         },
-        "version": "dda35ea33f7d8bd5b4a8366e02c6113074145ae4"
+        "version": "6a26ff408d666c66e9ea2e625846f5f535a7a3ab"
     },
     "caddy": {
         "cargoLocks": null,
@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-w7BzMLOccP+z6Q40epD9kJeKJqQU9HGm76QYFcjw+uU=",
+            "sha256": "sha256-pTBPlg6Zt032cXxLuZO1l+SJhj3xneuiZelbt5FM9FM=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6321.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6322.tar.bz2"
         },
-        "version": "1.0.6321"
+        "version": "1.0.6322"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ytV1PgzRJXT6r5npDGo3bczezUbIcgeX1u1h2bkt2m4=",
+            "sha256": "sha256-mT77nf9gkeAqrZWnrP/HFBg/fLHv8U+Xq7vqWcljrl0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6321-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6322-1_all.deb"
         },
-        "version": "1.0.6321"
+        "version": "1.0.6322"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1516,11 +1516,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W1VSINcsdRCyYjFoSNw0uOQ0UzgOqAp5Ik6MsaS4Yag=",
+            "sha256": "sha256-ej4S0URZgCUx3OAkFxi5B8x6VvTkXG1RwTEaR8aoTtc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.4/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.5/app-release-unsigned.apk"
         },
-        "version": "0.21.4"
+        "version": "0.21.5"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1751,11 +1751,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "8c7239236f0dae02e59154e7854f18cca167020e",
-            "sha256": "sha256-5EpIF/rnRjTN0kx774+SqigsRG4bAIa43BsaSDdP/ro=",
+            "rev": "2d66cdd0cad932a6e292517ce6ed800758578b70",
+            "sha256": "sha256-W3vbdEw/A31ezCLw8vEt/o0kZ180jFGk2KYI1LhLYPM=",
             "type": "github"
         },
-        "version": "8c7239236f0dae02e59154e7854f18cca167020e"
+        "version": "2d66cdd0cad932a6e292517ce6ed800758578b70"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
