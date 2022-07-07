@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xWDB5PDmbD+CyM7wrQ2AhnFmpM6q/txpgAe/bu1Jpxg=",
+            "sha256": "sha256-xjlll2n58gQ6INt3eYknCQG6aTF26VdEGQ3a2EIohvg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.51/file/TI.devspacesplus-0.0.51.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.52/file/TI.devspacesplus-0.0.52.vsix"
         },
-        "version": "0.0.51"
+        "version": "0.0.52"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -19734,11 +19734,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5Z2DP3NcP1hdkjrMrRZ1FdMwKEYw/17Q3CpqS2qASU0=",
+            "sha256": "sha256-itmtfDeD3A8FXjmXT+Pw4LL9K6CIjX22a/68CS02UPo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.80/file/leanprover.lean4-0.0.80.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.82/file/leanprover.lean4-0.0.82.vsix"
         },
-        "version": "0.0.80"
+        "version": "0.0.82"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,

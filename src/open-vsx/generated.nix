@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.51";
+    version = "0.0.52";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.51/file/TI.devspacesplus-0.0.51.vsix";
-      sha256 = "sha256-xWDB5PDmbD+CyM7wrQ2AhnFmpM6q/txpgAe/bu1Jpxg=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.52/file/TI.devspacesplus-0.0.52.vsix";
+      sha256 = "sha256-xjlll2n58gQ6INt3eYknCQG6aTF26VdEGQ3a2EIohvg=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -12459,10 +12459,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.80";
+    version = "0.0.82";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.80/file/leanprover.lean4-0.0.80.vsix";
-      sha256 = "sha256-5Z2DP3NcP1hdkjrMrRZ1FdMwKEYw/17Q3CpqS2qASU0=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.82/file/leanprover.lean4-0.0.82.vsix";
+      sha256 = "sha256-itmtfDeD3A8FXjmXT+Pw4LL9K6CIjX22a/68CS02UPo=";
     };
     license = "Apache-2.0";
     name = "lean4";
