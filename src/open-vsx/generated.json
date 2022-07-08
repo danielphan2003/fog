@@ -5199,11 +5199,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NHziIoJ4fTIuux9nJ/qZMMq0gSzg6riEVs5yNog+R4M=",
+            "sha256": "sha256-cR9cWvD6RXWZD89BChO937dB6bZRr3QPYI5/30mMxws=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.621/file/Slint.slint-nightly-2022.7.621.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.717/file/Slint.slint-nightly-2022.7.717.vsix"
         },
-        "version": "2022.7.621"
+        "version": "2022.7.717"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -11602,11 +11602,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5eHsFybil67ivumnhbV7RH+HH6GavjHAIZ4mdDMkfjI=",
+            "sha256": "sha256-y6h/V6wtNP47+HmVNZaM+MNuuVVhP87uY76OnK3vCpE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.8/file/cweijan.vscode-mysql-client2-5.3.8.vsix"
+            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.5.5/file/cweijan.vscode-mysql-client2-5.5.5.vsix"
         },
-        "version": "5.3.8"
+        "version": "5.5.5"
     },
     "cweijan-vscode-office": {
         "cargoLocks": null,
@@ -20500,6 +20500,25 @@
         },
         "version": "0.0.7"
     },
+    "mark-wiemer-helloworld-2022": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mark-wiemer-helloworld-2022",
+        "passthru": {
+            "description": "Because helloworld was taken??",
+            "license": "MIT",
+            "name": "helloworld-2022",
+            "publisher": "mark-wiemer"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ekLjO1xP8/b7xvjocXk+ouu287t0EoCpJJyTZZzIxME=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/mark-wiemer/helloworld-2022/0.2.1/file/mark-wiemer.helloworld-2022-0.2.1.vsix"
+        },
+        "version": "0.2.1"
+    },
     "markwylde-relative-from-current": {
         "cargoLocks": null,
         "extract": null,
@@ -29068,6 +29087,25 @@
             "url": "https://open-vsx.org/api/solidjs-community/solid-snippets/0.1.2/file/solidjs-community.solid-snippets-0.1.2.vsix"
         },
         "version": "0.1.2"
+    },
+    "sorbet-sorbet-vscode-extension": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "sorbet-sorbet-vscode-extension",
+        "passthru": {
+            "description": "Ruby IDE features, powered by Sorbet.",
+            "license": "Apache-2.0",
+            "name": "sorbet-vscode-extension",
+            "publisher": "sorbet"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-L8fFdHaHBk4FZKi+O6u6XwfM/ozVStajLXWL5SMLcvI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/sorbet/sorbet-vscode-extension/0.3.14/file/sorbet.sorbet-vscode-extension-0.3.14.vsix"
+        },
+        "version": "0.3.14"
     },
     "sourcegraph-sourcegraph": {
         "cargoLocks": null,

@@ -3279,10 +3279,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.621";
+    version = "2022.7.717";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.621/file/Slint.slint-nightly-2022.7.621.vsix";
-      sha256 = "sha256-NHziIoJ4fTIuux9nJ/qZMMq0gSzg6riEVs5yNog+R4M=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.717/file/Slint.slint-nightly-2022.7.717.vsix";
+      sha256 = "sha256-cR9cWvD6RXWZD89BChO937dB6bZRr3QPYI5/30mMxws=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -7323,10 +7323,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.3.8";
+    version = "5.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.3.8/file/cweijan.vscode-mysql-client2-5.3.8.vsix";
-      sha256 = "sha256-5eHsFybil67ivumnhbV7RH+HH6GavjHAIZ4mdDMkfjI=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.5.5/file/cweijan.vscode-mysql-client2-5.5.5.vsix";
+      sha256 = "sha256-y6h/V6wtNP47+HmVNZaM+MNuuVVhP87uY76OnK3vCpE=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
@@ -12949,6 +12949,18 @@
     description = "Language support for HLedger accounting journals.";
     publisher = "mark-hansen";
   };
+  mark-wiemer-helloworld-2022 = {
+    pname = "mark-wiemer-helloworld-2022";
+    version = "0.2.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mark-wiemer/helloworld-2022/0.2.1/file/mark-wiemer.helloworld-2022-0.2.1.vsix";
+      sha256 = "sha256-ekLjO1xP8/b7xvjocXk+ouu287t0EoCpJJyTZZzIxME=";
+    };
+    license = "MIT";
+    name = "helloworld-2022";
+    description = "Because helloworld was taken??";
+    publisher = "mark-wiemer";
+  };
   markwylde-relative-from-current = {
     pname = "markwylde-relative-from-current";
     version = "1.0.6";
@@ -18360,6 +18372,18 @@
     name = "solid-snippets";
     description = "VSCode extension with helpful code snippets for SolidJS.";
     publisher = "solidjs-community";
+  };
+  sorbet-sorbet-vscode-extension = {
+    pname = "sorbet-sorbet-vscode-extension";
+    version = "0.3.14";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/sorbet/sorbet-vscode-extension/0.3.14/file/sorbet.sorbet-vscode-extension-0.3.14.vsix";
+      sha256 = "sha256-L8fFdHaHBk4FZKi+O6u6XwfM/ozVStajLXWL5SMLcvI=";
+    };
+    license = "Apache-2.0";
+    name = "sorbet-vscode-extension";
+    description = "Ruby IDE features, powered by Sorbet.";
+    publisher = "sorbet";
   };
   sourcegraph-sourcegraph = {
     pname = "sourcegraph-sourcegraph";
