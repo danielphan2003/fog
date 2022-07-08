@@ -848,11 +848,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JXnukNGibZNUmRgIQFuTx9tBcpM69U85HemJgYOYt/I=",
+            "sha256": "sha256-ch52OIPhOS3u8MaJfC3lTIsYd3OPxe5Q71MlswxBvDc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CodeChat/codechat/0.2.5/file/CodeChat.codechat-0.2.5.vsix"
+            "url": "https://open-vsx.org/api/CodeChat/codechat/0.2.6/file/CodeChat.codechat-0.2.6.vsix"
         },
-        "version": "0.2.5"
+        "version": "0.2.6"
     },
     "CodeStream-codestream": {
         "cargoLocks": null,
@@ -23192,11 +23192,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iByB1F9IozuQ8AuTXFvHO3Ga7t3WNJ1bRdyAKpgrgW0=",
+            "sha256": "sha256-waCIr40PCuDJSDBN+4dFI2gzq1u2QdQ4IVAKH6NIcSU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.31.0/file/mutable-ai.mutable-ai-0.31.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.32.0/file/mutable-ai.mutable-ai-0.32.0.vsix"
         },
-        "version": "0.31.0"
+        "version": "0.32.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,

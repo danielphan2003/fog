@@ -531,10 +531,10 @@
   };
   CodeChat-codechat = {
     pname = "CodeChat-codechat";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeChat/codechat/0.2.5/file/CodeChat.codechat-0.2.5.vsix";
-      sha256 = "sha256-JXnukNGibZNUmRgIQFuTx9tBcpM69U85HemJgYOYt/I=";
+      url = "https://open-vsx.org/api/CodeChat/codechat/0.2.6/file/CodeChat.codechat-0.2.6.vsix";
+      sha256 = "sha256-ch52OIPhOS3u8MaJfC3lTIsYd3OPxe5Q71MlswxBvDc=";
     };
     license = "";
     name = "codechat";
@@ -14643,10 +14643,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.31.0";
+    version = "0.32.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.31.0/file/mutable-ai.mutable-ai-0.31.0.vsix";
-      sha256 = "sha256-iByB1F9IozuQ8AuTXFvHO3Ga7t3WNJ1bRdyAKpgrgW0=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.32.0/file/mutable-ai.mutable-ai-0.32.0.vsix";
+      sha256 = "sha256-waCIr40PCuDJSDBN+4dFI2gzq1u2QdQ4IVAKH6NIcSU=";
     };
     license = "";
     name = "mutable-ai";
