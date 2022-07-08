@@ -318,13 +318,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "dc2fff05be6a559110136e1bc7f971a528c07ecb";
+    version = "568f54fabbd1766e7eb1026002f57cd437b598ec";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "dc2fff05be6a559110136e1bc7f971a528c07ecb";
+      rev = "568f54fabbd1766e7eb1026002f57cd437b598ec";
       fetchSubmodules = false;
-      sha256 = "sha256-aH4WqznnRoT7oXWoMZonEwAqVaoHwK9XpHh5Ii/cVlA=";
+      sha256 = "sha256-UTBCj6qee1yVnCIrZNefn42Rai22sSeoRqYSIla9Hes=";
     });
   };
   doggo = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "92e17f29256af4db05ebd17b9f2d013ee3ca37ab";
+    version = "84820631579178854db2ed5bce064bcfe8490ed9";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "92e17f29256af4db05ebd17b9f2d013ee3ca37ab";
+      rev = "84820631579178854db2ed5bce064bcfe8490ed9";
       fetchSubmodules = false;
-      sha256 = "sha256-qERQ6WK1nz4yia/Q8jW26qcnDSNq5ebI2JfkKGRFT9E=";
+      sha256 = "sha256-DInDIoMyHqsc8xLOGLltK9aFeeGc3JkZqcY6XMW6Yiw=";
     });
   };
   ibus = {
