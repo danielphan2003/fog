@@ -22083,10 +22083,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/2.0.0/file/webhint.vscode-webhint-2.0.0.vsix";
-      sha256 = "sha256-AI4ApFnLRXmUrpVyk2YORxjJwRNUXIcX6TiM5sLOJfs=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.0/file/webhint.vscode-webhint-2.1.0.vsix";
+      sha256 = "sha256-uEqi+jsu2oTSPnH+HKA3z+83rodX2qanZYsHPY2kEJI=";
     };
     license = "Apache-2.0";
     name = "vscode-webhint";
