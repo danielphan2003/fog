@@ -7815,10 +7815,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.102.3";
+    version = "0.102.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.102.3/file/dendron.nightly-0.102.3.vsix";
-      sha256 = "sha256-y7j86xdgcmZunOmDjtfXQR5nrW+I4StDzwsFOnl88YA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.102.4/file/dendron.nightly-0.102.4.vsix";
+      sha256 = "sha256-zhl0C11BBOsY9wvi1yBqz4iBMh4/YuUfgX6brULKj7A=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -12903,10 +12903,10 @@
   };
   marcinbar-vscode-squirrel = {
     pname = "marcinbar-vscode-squirrel";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.17/file/marcinbar.vscode-squirrel-0.0.17.vsix";
-      sha256 = "sha256-ikAmWjbEK2J1l3Ps7a5lJj6bIuMvG6UYhasN/DSydoQ=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.18/file/marcinbar.vscode-squirrel-0.0.18.vsix";
+      sha256 = "sha256-1Exegap3fICI6FMnICp1ANLuzNrm5iHI9DVtuMr1DeY=";
     };
     license = "MIT";
     name = "vscode-squirrel";
@@ -19131,10 +19131,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.37";
+    version = "0.0.38";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.37/file/t-codespaces.ide-data-sync-0.0.37.vsix";
-      sha256 = "sha256-aKxeZsD2WMM9KIJfgioOdkuql+0Ct6LuJWnQbqs8a04=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.38/file/t-codespaces.ide-data-sync-0.0.38.vsix";
+      sha256 = "sha256-iWhyBJ5QKNtcmxKHXJqE9nVsyNL/NwGnagLgMD2g2R4=";
     };
     license = "";
     name = "ide-data-sync";

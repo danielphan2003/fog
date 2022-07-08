@@ -12381,11 +12381,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-y7j86xdgcmZunOmDjtfXQR5nrW+I4StDzwsFOnl88YA=",
+            "sha256": "sha256-zhl0C11BBOsY9wvi1yBqz4iBMh4/YuUfgX6brULKj7A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.102.3/file/dendron.nightly-0.102.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.102.4/file/dendron.nightly-0.102.4.vsix"
         },
-        "version": "0.102.3"
+        "version": "0.102.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -20437,11 +20437,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ikAmWjbEK2J1l3Ps7a5lJj6bIuMvG6UYhasN/DSydoQ=",
+            "sha256": "sha256-1Exegap3fICI6FMnICp1ANLuzNrm5iHI9DVtuMr1DeY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.17/file/marcinbar.vscode-squirrel-0.0.17.vsix"
+            "url": "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.18/file/marcinbar.vscode-squirrel-0.0.18.vsix"
         },
-        "version": "0.0.17"
+        "version": "0.0.18"
     },
     "marcinbar-vscode-squirrel-linter": {
         "cargoLocks": null,
@@ -30298,11 +30298,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aKxeZsD2WMM9KIJfgioOdkuql+0Ct6LuJWnQbqs8a04=",
+            "sha256": "sha256-iWhyBJ5QKNtcmxKHXJqE9nVsyNL/NwGnagLgMD2g2R4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.37/file/t-codespaces.ide-data-sync-0.0.37.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.38/file/t-codespaces.ide-data-sync-0.0.38.vsix"
         },
-        "version": "0.0.37"
+        "version": "0.0.38"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,
