@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "e129e3ecaf317d0c0b7d246c49290989b2797bce";
+    version = "7ad23592149d4ce791f4da7774f7cd0bfcc3fa83";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "e129e3ecaf317d0c0b7d246c49290989b2797bce";
+      rev = "7ad23592149d4ce791f4da7774f7cd0bfcc3fa83";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-EWtPSsW3mISJ28O4Apw8VLgMw/C/5IOVAtijR9cZrdk=";
+      sha256 = "sha256-pxvv9fwjSB+HXxl+XIuYENQkmbv6vizfgInFSUMGU4w=";
     };
   };
   flyingfox = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "84820631579178854db2ed5bce064bcfe8490ed9";
+    version = "c8c5e0b90a950bb20c5be5b1c1009889d8540529";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "84820631579178854db2ed5bce064bcfe8490ed9";
+      rev = "c8c5e0b90a950bb20c5be5b1c1009889d8540529";
       fetchSubmodules = false;
-      sha256 = "sha256-DInDIoMyHqsc8xLOGLltK9aFeeGc3JkZqcY6XMW6Yiw=";
+      sha256 = "sha256-JvAnoqKCE76296TrHcqKIEbbdCHBubb6QEfpIHcnLHg=";
     });
   };
   ibus = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-905";
+    version = "1.0-906";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-905-1_all.deb";
-      sha256 = "sha256-is3NTZ6lhCIiFMGkQjTfuEZ36khB8CtfsjEGD5qqioo=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-906-1_all.deb";
+      sha256 = "sha256-Q3oo7N0TSvKVyA0r9Rs5l5jQ/o2mKeu1gRfQdOQx3H8=";
     };
   };
   jitsi-meet = {
@@ -1163,13 +1163,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c7993d2b88eaa34ee45a8cf6378c85691c9d65c8";
+    version = "5bb44a4a5c256c0d4052656ede20a3eda6df6066";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c7993d2b88eaa34ee45a8cf6378c85691c9d65c8";
+      rev = "5bb44a4a5c256c0d4052656ede20a3eda6df6066";
       fetchSubmodules = false;
-      sha256 = "sha256-HpFYHSarbP43wYBUZoPBEwhvyZuVH4TNCZ5ciaRpONo=";
+      sha256 = "sha256-7TkIi73G4KEr7+korVKxPq3nOyoH2CVP/Feldgnoww8=";
     });
   };
   tailscale-systray = {
