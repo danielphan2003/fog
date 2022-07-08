@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "4f92d36066ecf6290b1cd8213c1e356ed54ac21c",
-            "sha256": "sha256-KPWokp3HoOHqGVzeQ+MKL9tt1zkN+uW1KVtKyeu+aik=",
+            "rev": "115ce60d6a0857fd5dfbc96e2660042b5e80fc17",
+            "sha256": "sha256-h631eWSY6rl87mtJuN+3+KAE9/MNPe6e/EGAVO5Te+w=",
             "type": "github"
         },
-        "version": "4f92d36066ecf6290b1cd8213c1e356ed54ac21c"
+        "version": "115ce60d6a0857fd5dfbc96e2660042b5e80fc17"
     },
     "caddy": {
         "cargoLocks": null,
@@ -850,11 +850,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Q3oo7N0TSvKVyA0r9Rs5l5jQ/o2mKeu1gRfQdOQx3H8=",
+            "sha256": "sha256-L8AqeYvxzE+RzO8O2fy/pll7vevtnWvAxTQjYQS05QY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-906-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-907-1_all.deb"
         },
-        "version": "1.0-906"
+        "version": "1.0-907"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1770,11 +1770,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "d0b23ac459b75d9a83249dd2bc870917ad0ef0f3",
-            "sha256": "sha256-41WCoXhcUBbUc4L4SlNcyRKnazJMNUPX9E8j0eQC/WY=",
+            "rev": "0bd63c76dfbf5c988c6bbfb8bc1a81991da9f56e",
+            "sha256": "sha256-YvpDWQ6jG/hm4P4OwDtii5J2ETPpvOf2lq+2ZiAYD1g=",
             "type": "github"
         },
-        "version": "d0b23ac459b75d9a83249dd2bc870917ad0ef0f3"
+        "version": "0bd63c76dfbf5c988c6bbfb8bc1a81991da9f56e"
     },
     "spicetify-themes": {
         "cargoLocks": null,

@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "4f92d36066ecf6290b1cd8213c1e356ed54ac21c";
+    version = "115ce60d6a0857fd5dfbc96e2660042b5e80fc17";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "4f92d36066ecf6290b1cd8213c1e356ed54ac21c";
+      rev = "115ce60d6a0857fd5dfbc96e2660042b5e80fc17";
       fetchSubmodules = false;
-      sha256 = "sha256-KPWokp3HoOHqGVzeQ+MKL9tt1zkN+uW1KVtKyeu+aik=";
+      sha256 = "sha256-h631eWSY6rl87mtJuN+3+KAE9/MNPe6e/EGAVO5Te+w=";
     });
   };
   caddy = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-906";
+    version = "1.0-907";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-906-1_all.deb";
-      sha256 = "sha256-Q3oo7N0TSvKVyA0r9Rs5l5jQ/o2mKeu1gRfQdOQx3H8=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-907-1_all.deb";
+      sha256 = "sha256-L8AqeYvxzE+RzO8O2fy/pll7vevtnWvAxTQjYQS05QY=";
     };
   };
   jitsi-meet = {
@@ -1057,13 +1057,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "d0b23ac459b75d9a83249dd2bc870917ad0ef0f3";
+    version = "0bd63c76dfbf5c988c6bbfb8bc1a81991da9f56e";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "d0b23ac459b75d9a83249dd2bc870917ad0ef0f3";
+      rev = "0bd63c76dfbf5c988c6bbfb8bc1a81991da9f56e";
       fetchSubmodules = false;
-      sha256 = "sha256-41WCoXhcUBbUc4L4SlNcyRKnazJMNUPX9E8j0eQC/WY=";
+      sha256 = "sha256-YvpDWQ6jG/hm4P4OwDtii5J2ETPpvOf2lq+2ZiAYD1g=";
     });
   };
   spicetify-themes = {
