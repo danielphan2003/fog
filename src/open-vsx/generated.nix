@@ -4719,10 +4719,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.44.0";
+    version = "1.45.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.44.0/file/amazonwebservices.aws-toolkit-vscode-1.44.0.vsix";
-      sha256 = "sha256-h2PbmH6a98ErjjCPwU4yRFhJ/g3s4OyXdXJWvGxouFo=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.45.0/file/amazonwebservices.aws-toolkit-vscode-1.45.0.vsix";
+      sha256 = "sha256-JduIIch4MGOkyRbv79/UNiBW7RojZAm3XiTse/JbBeA=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -9903,10 +9903,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.9";
+    version = "1.3.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.9/file/halcyontechltd.code-for-ibmi-1.3.9.vsix";
-      sha256 = "sha256-2kyxQfNcnv0lk+e+RPffuUUpHvVyxqaC1uZ1Dij/AEk=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.10/file/halcyontechltd.code-for-ibmi-1.3.10.vsix";
+      sha256 = "sha256-8s76LGF+5Tid93zuSDhlc0Uhu2WyW/EZmC6prP8FSUY=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -13983,10 +13983,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.8.1";
+    version = "2022.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.8.1/file/ms-python.python-2022.8.1.vsix";
-      sha256 = "sha256-84N3kSIenrqMEJlORa87lGMlYRzVHfWoTScnAw6MN/o=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.10.0/file/ms-python.python-2022.10.0.vsix";
+      sha256 = "sha256-GTjuFRDnRnVJ3JF6NEx6Uk/WzZEzmYU5ONLsmpER+VU=";
     };
     license = "MIT";
     name = "python";
@@ -17979,10 +17979,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.16.1";
+    version = "0.16.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.1/file/shufo.vscode-blade-formatter-0.16.1.vsix";
-      sha256 = "sha256-Lox1NSoVXpPCzOC4WSGzyzTaXHaWyQ0dIUXMfJJ0le4=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.2/file/shufo.vscode-blade-formatter-0.16.2.vsix";
+      sha256 = "sha256-C2p74sirfqlgoo9grYEWfIUGJu3dXukkl33zrrIbwN0=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";

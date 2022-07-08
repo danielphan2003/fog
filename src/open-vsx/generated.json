@@ -7479,11 +7479,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-h2PbmH6a98ErjjCPwU4yRFhJ/g3s4OyXdXJWvGxouFo=",
+            "sha256": "sha256-JduIIch4MGOkyRbv79/UNiBW7RojZAm3XiTse/JbBeA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.44.0/file/amazonwebservices.aws-toolkit-vscode-1.44.0.vsix"
+            "url": "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.45.0/file/amazonwebservices.aws-toolkit-vscode-1.45.0.vsix"
         },
-        "version": "1.44.0"
+        "version": "1.45.0"
     },
     "amiralizadeh9480-laravel-extra-intellisense": {
         "cargoLocks": null,
@@ -15687,11 +15687,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2kyxQfNcnv0lk+e+RPffuUUpHvVyxqaC1uZ1Dij/AEk=",
+            "sha256": "sha256-8s76LGF+5Tid93zuSDhlc0Uhu2WyW/EZmC6prP8FSUY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.9/file/halcyontechltd.code-for-ibmi-1.3.9.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.10/file/halcyontechltd.code-for-ibmi-1.3.10.vsix"
         },
-        "version": "1.3.9"
+        "version": "1.3.10"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -22147,11 +22147,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-84N3kSIenrqMEJlORa87lGMlYRzVHfWoTScnAw6MN/o=",
+            "sha256": "sha256-GTjuFRDnRnVJ3JF6NEx6Uk/WzZEzmYU5ONLsmpER+VU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-python/python/2022.8.1/file/ms-python.python-2022.8.1.vsix"
+            "url": "https://open-vsx.org/api/ms-python/python/2022.10.0/file/ms-python.python-2022.10.0.vsix"
         },
-        "version": "2022.8.1"
+        "version": "2022.10.0"
     },
     "ms-toolsai-jupyter": {
         "cargoLocks": null,
@@ -28474,11 +28474,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Lox1NSoVXpPCzOC4WSGzyzTaXHaWyQ0dIUXMfJJ0le4=",
+            "sha256": "sha256-C2p74sirfqlgoo9grYEWfIUGJu3dXukkl33zrrIbwN0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.1/file/shufo.vscode-blade-formatter-0.16.1.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.2/file/shufo.vscode-blade-formatter-0.16.2.vsix"
         },
-        "version": "0.16.1"
+        "version": "0.16.2"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
