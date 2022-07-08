@@ -1665,11 +1665,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i49VPvl94Xek+6+GM2V4NShlKBRu25dDOD864nfd1kg=",
+            "sha256": "sha256-CNg93SpInTElzForTlPLjC/aAGFQUf22d6/vJM/quok=",
             "type": "url",
-            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.3/file/F5DevCentral.vscode-f5-chariot-1.19.3.vsix"
+            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.21.0/file/F5DevCentral.vscode-f5-chariot-1.21.0.vsix"
         },
-        "version": "1.19.3"
+        "version": "1.21.0"
     },
     "FelixAngelov-bloc": {
         "cargoLocks": null,
@@ -25434,11 +25434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FMzPHfgAogU112IAo3PClITXqY3piOWUgXbcgeSHxFE=",
+            "sha256": "sha256-RXI8w6VykaC+Ls86QPEVR3zfDOCN7cVhtVcax9aSwyg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.389/file/pokey.cursorless-0.26.389.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.390/file/pokey.cursorless-0.26.390.vsix"
         },
-        "version": "0.26.389"
+        "version": "0.26.390"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

@@ -1047,10 +1047,10 @@
   };
   F5DevCentral-vscode-f5-chariot = {
     pname = "F5DevCentral-vscode-f5-chariot";
-    version = "1.19.3";
+    version = "1.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.3/file/F5DevCentral.vscode-f5-chariot-1.19.3.vsix";
-      sha256 = "sha256-i49VPvl94Xek+6+GM2V4NShlKBRu25dDOD864nfd1kg=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.21.0/file/F5DevCentral.vscode-f5-chariot-1.21.0.vsix";
+      sha256 = "sha256-CNg93SpInTElzForTlPLjC/aAGFQUf22d6/vJM/quok=";
     };
     license = "Apache-2.0";
     name = "vscode-f5-chariot";
@@ -16059,10 +16059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.389";
+    version = "0.26.390";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.389/file/pokey.cursorless-0.26.389.vsix";
-      sha256 = "sha256-FMzPHfgAogU112IAo3PClITXqY3piOWUgXbcgeSHxFE=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.390/file/pokey.cursorless-0.26.390.vsix";
+      sha256 = "sha256-RXI8w6VykaC+Ls86QPEVR3zfDOCN7cVhtVcax9aSwyg=";
     };
     license = "MIT";
     name = "cursorless";
