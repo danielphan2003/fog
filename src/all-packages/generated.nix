@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c0f76e9ed482b0abde0c3d8f5e26e9f015418ca3";
+    version = "54d1923ccb03299aa92bf0ec3ba255e4c851a69e";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c0f76e9ed482b0abde0c3d8f5e26e9f015418ca3";
+      rev = "54d1923ccb03299aa92bf0ec3ba255e4c851a69e";
       fetchSubmodules = false;
-      sha256 = "sha256-1H07ML+necwy9cdvTWz5bBjdPap+Tor5uDDBEl4maw8=";
+      sha256 = "sha256-Mx7moL9MQTsHjf+QPcFXIw+cZc6QqZc2Nqb2znPkiGs=";
     });
   };
   cinny = {
@@ -686,13 +686,13 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "2ccac2afd1f3b28f573ec314e61be034858fedc2";
+    version = "97987692deb6ab09816f40972fe5b04c1ddebd7e";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "ntfs2btrfs";
-      rev = "2ccac2afd1f3b28f573ec314e61be034858fedc2";
+      rev = "97987692deb6ab09816f40972fe5b04c1ddebd7e";
       fetchSubmodules = false;
-      sha256 = "sha256-v51No7tILsbwj3yMuonjiyw4gxUpdLRh0brADswM3Mk=";
+      sha256 = "sha256-zeQ+ValEtCZjvC9S8hADzigqdzikiXeEEOCUAaXtLXI=";
     });
   };
   nwg-drawer = {
