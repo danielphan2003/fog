@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "491b99c61ea19f2e9048f215eace07e126af890b",
-            "sha256": "sha256-pnDrmLacPplvI1nCFYLkycNRaeaTvzmJN65v9TBAEjU=",
+            "rev": "92e17f29256af4db05ebd17b9f2d013ee3ca37ab",
+            "sha256": "sha256-qERQ6WK1nz4yia/Q8jW26qcnDSNq5ebI2JfkKGRFT9E=",
             "type": "github"
         },
-        "version": "491b99c61ea19f2e9048f215eace07e126af890b"
+        "version": "92e17f29256af4db05ebd17b9f2d013ee3ca37ab"
     },
     "ibus": {
         "cargoLocks": null,
@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Dw0uI50fJDyrhsSIkbKJwXBViW7rUFZKu3U6tDhFzyI=",
+            "sha256": "sha256-6/lQHz7p6jOU62XV0clzSI9tLzKiBVO+Ly/UY4PR+1Y=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6328.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6329.tar.bz2"
         },
-        "version": "1.0.6328"
+        "version": "1.0.6329"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QrvzIeKmmlJZicW2G9P7BKI9pas+eEPIeSV+YnX0MOQ=",
+            "sha256": "sha256-hGu0LBygUofsTs27QXKFh4kolbYLFSG+zPMqam5L5tg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6328-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6329-1_all.deb"
         },
-        "version": "1.0.6328"
+        "version": "1.0.6329"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
