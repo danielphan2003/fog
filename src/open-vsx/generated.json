@@ -3774,11 +3774,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VEoMfqb4VnQOV9kiYYstbtvUBseAEB+5IUu1ZDrcRK4=",
+            "sha256": "sha256-JIhwi7HApGdFBmIc5detgs4bx///d3KkJR2jUKqGZRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.16/file/Marko-JS.marko-vscode-0.17.16.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.19/file/Marko-JS.marko-vscode-0.17.19.vsix"
         },
-        "version": "0.17.16"
+        "version": "0.17.19"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -24161,11 +24161,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fmR4UJ08W6thGgicy4UrgzPtZHoLXmbNX5NirP6eZwI=",
+            "sha256": "sha256-jIAMrto22M/5gb22LHUZAGxaOtwPP80zm4hSDajB8u8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/omBratteng/nftables/0.4.5/file/omBratteng.nftables-0.4.5.vsix"
+            "url": "https://open-vsx.org/api/omBratteng/nftables/0.5.1/file/omBratteng.nftables-0.5.1.vsix"
         },
-        "version": "0.4.5"
+        "version": "0.5.1"
     },
     "onecentlin-laravel-blade": {
         "cargoLocks": null,
@@ -25396,11 +25396,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hInRHsvrR1M+K94N1a47fR2hct+NiUKpc7JQ5TwJY4U=",
+            "sha256": "sha256-mr6WtET0l6Grr8TS3h2EfKWHZ3F2vhQe2UAv69HzzJM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.387/file/pokey.cursorless-0.26.387.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.388/file/pokey.cursorless-0.26.388.vsix"
         },
-        "version": "0.26.387"
+        "version": "0.26.388"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -29139,11 +29139,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-w+26dLVR21dQ2o1vQJDnfNq9I7WioZA7aGu6jF2qh8M=",
+            "sha256": "sha256-CLfgpIjgq/kxrDxFGDcpmbSrwWyJ3LO9epgq4w8st/Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sourcery/sourcery/0.12.1/file/sourcery.sourcery-0.12.1.vsix"
+            "url": "https://open-vsx.org/api/sourcery/sourcery/0.12.3/file/sourcery.sourcery-0.12.3.vsix"
         },
-        "version": "0.12.1"
+        "version": "0.12.3"
     },
     "southclaws-vscode-pawn": {
         "cargoLocks": null,
@@ -30298,11 +30298,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iWhyBJ5QKNtcmxKHXJqE9nVsyNL/NwGnagLgMD2g2R4=",
+            "sha256": "sha256-XtYkuK0j8jaFs5mGSdfjl+JPHw3BsPcrd5Df27BE6QA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.38/file/t-codespaces.ide-data-sync-0.0.38.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.40/file/t-codespaces.ide-data-sync-0.0.40.vsix"
         },
-        "version": "0.0.38"
+        "version": "0.0.40"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,

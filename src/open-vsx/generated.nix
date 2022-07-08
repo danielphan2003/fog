@@ -2379,10 +2379,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.16";
+    version = "0.17.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.16/file/Marko-JS.marko-vscode-0.17.16.vsix";
-      sha256 = "sha256-VEoMfqb4VnQOV9kiYYstbtvUBseAEB+5IUu1ZDrcRK4=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.19/file/Marko-JS.marko-vscode-0.17.19.vsix";
+      sha256 = "sha256-JIhwi7HApGdFBmIc5detgs4bx///d3KkJR2jUKqGZRg=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -15255,10 +15255,10 @@
   };
   omBratteng-nftables = {
     pname = "omBratteng-nftables";
-    version = "0.4.5";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/omBratteng/nftables/0.4.5/file/omBratteng.nftables-0.4.5.vsix";
-      sha256 = "sha256-fmR4UJ08W6thGgicy4UrgzPtZHoLXmbNX5NirP6eZwI=";
+      url = "https://open-vsx.org/api/omBratteng/nftables/0.5.1/file/omBratteng.nftables-0.5.1.vsix";
+      sha256 = "sha256-jIAMrto22M/5gb22LHUZAGxaOtwPP80zm4hSDajB8u8=";
     };
     license = "";
     name = "nftables";
@@ -16035,10 +16035,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.387";
+    version = "0.26.388";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.387/file/pokey.cursorless-0.26.387.vsix";
-      sha256 = "sha256-hInRHsvrR1M+K94N1a47fR2hct+NiUKpc7JQ5TwJY4U=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.388/file/pokey.cursorless-0.26.388.vsix";
+      sha256 = "sha256-mr6WtET0l6Grr8TS3h2EfKWHZ3F2vhQe2UAv69HzzJM=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18399,10 +18399,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.12.1";
+    version = "0.12.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.1/file/sourcery.sourcery-0.12.1.vsix";
-      sha256 = "sha256-w+26dLVR21dQ2o1vQJDnfNq9I7WioZA7aGu6jF2qh8M=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.3/file/sourcery.sourcery-0.12.3.vsix";
+      sha256 = "sha256-CLfgpIjgq/kxrDxFGDcpmbSrwWyJ3LO9epgq4w8st/Q=";
     };
     license = "MIT";
     name = "sourcery";
@@ -19131,10 +19131,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.38";
+    version = "0.0.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.38/file/t-codespaces.ide-data-sync-0.0.38.vsix";
-      sha256 = "sha256-iWhyBJ5QKNtcmxKHXJqE9nVsyNL/NwGnagLgMD2g2R4=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.40/file/t-codespaces.ide-data-sync-0.0.40.vsix";
+      sha256 = "sha256-XtYkuK0j8jaFs5mGSdfjl+JPHw3BsPcrd5Df27BE6QA=";
     };
     license = "";
     name = "ide-data-sync";
