@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "3ace84263d18f9471a02b6a82d6c00386c05eeca";
+    version = "707c955cac6858e74116af8377e59cd8b5ff65cd";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "3ace84263d18f9471a02b6a82d6c00386c05eeca";
+      rev = "707c955cac6858e74116af8377e59cd8b5ff65cd";
       fetchSubmodules = false;
-      sha256 = "sha256-aFpzUBYOjbim5TWn3ERSCp6FZ7D8Zqtq1fZxUB9SUQE=";
+      sha256 = "sha256-mLusLHJetBttou1EFVpG1aQw3sI/X7/RculQcgq5i/w=";
     });
   };
   caddy = {
@@ -915,18 +915,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.10.0";
+    version = "2.10.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.10.0/revanced-patches-2.10.0.dex";
-      sha256 = "sha256-GPzwkLcWzcOQUw3k/6018E4fXSTPdFc9PHWm+694/XI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.10.1/revanced-patches-2.10.1.dex";
+      sha256 = "sha256-lg0kV2x/F6nA5EJuuneFD5eke54j+rztktU3nRF4wSE=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.10.0";
+    version = "2.10.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.10.0/revanced-patches-2.10.0.jar";
-      sha256 = "sha256-6uyaBPy8xI1WUBm8ffEq2ML91/Y2IdnieErFOhnOLyk=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.10.1/revanced-patches-2.10.1.jar";
+      sha256 = "sha256-CZza7YZgFaFIwPM72twdu3Au/HFWTtxq78X3OXvydKw=";
     };
   };
   rofi-wayland = {
