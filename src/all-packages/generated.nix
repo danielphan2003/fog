@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6fadb1bbf02b46a333fab165a89a31fac05224ca";
+    version = "882829cafc678658b5ee647f6ab8920063170c79";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6fadb1bbf02b46a333fab165a89a31fac05224ca";
+      rev = "882829cafc678658b5ee647f6ab8920063170c79";
       fetchSubmodules = false;
-      sha256 = "sha256-Vs5nuxrnq5RcSlw3zrTMXi6xSp+GcxKZLVIrwaRmVXo=";
+      sha256 = "sha256-7tKe/luHKicbCoExkSGi3WYBWjsUNPNXZ0OAZ30LLk0=";
     });
   };
   revanced-cli = {
@@ -915,18 +915,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.9.4";
+    version = "2.10.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.4/revanced-patches-2.9.4.dex";
-      sha256 = "sha256-uTxqvEhwof2tYGTuxlegYSqsTtndD+O1ZlmyG9nb1NM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.10.0/revanced-patches-2.10.0.dex";
+      sha256 = "sha256-GPzwkLcWzcOQUw3k/6018E4fXSTPdFc9PHWm+694/XI=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.9.4";
+    version = "2.10.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.9.4/revanced-patches-2.9.4.jar";
-      sha256 = "sha256-VtO8QkVeer8ZkOtSmSmTeNPQ4xwwgEec04EFSVUoJqs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.10.0/revanced-patches-2.10.0.jar";
+      sha256 = "sha256-6uyaBPy8xI1WUBm8ffEq2ML91/Y2IdnieErFOhnOLyk=";
     };
   };
   rofi-wayland = {
