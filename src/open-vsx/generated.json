@@ -1665,11 +1665,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gqr7Riwv4d0gL18hHwn9x0EV2VacLMFfDDKb2ps7Yrw=",
+            "sha256": "sha256-i49VPvl94Xek+6+GM2V4NShlKBRu25dDOD864nfd1kg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.2/file/F5DevCentral.vscode-f5-chariot-1.19.2.vsix"
+            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.3/file/F5DevCentral.vscode-f5-chariot-1.19.3.vsix"
         },
-        "version": "1.19.2"
+        "version": "1.19.3"
     },
     "FelixAngelov-bloc": {
         "cargoLocks": null,
@@ -3774,11 +3774,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JIhwi7HApGdFBmIc5detgs4bx///d3KkJR2jUKqGZRg=",
+            "sha256": "sha256-Qbom1tGtsvHG6MnKIz4tvIps2lAeW3OTX1qGYo+2ktk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.19/file/Marko-JS.marko-vscode-0.17.19.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.20/file/Marko-JS.marko-vscode-0.17.20.vsix"
         },
-        "version": "0.17.19"
+        "version": "0.17.20"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -5085,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-k6js0401rGrNpN8KXrsfEqpT0qqHsTJF4Zb8eoXmIXY=",
+            "sha256": "sha256-LVC7MA5ccGLHQ+U0jYVGc1ndGMG6jzmcdSrxNbNSL+Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.0/file/Shelex.vscode-cy-helper-2.5.0.vsix"
+            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.1/file/Shelex.vscode-cy-helper-2.5.1.vsix"
         },
-        "version": "2.5.0"
+        "version": "2.5.1"
     },
     "SimplyDanny-modelica": {
         "cargoLocks": null,
@@ -5427,11 +5427,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xjlll2n58gQ6INt3eYknCQG6aTF26VdEGQ3a2EIohvg=",
+            "sha256": "sha256-+lv3LGUoRUtoH3Bi1KMcSgkpufKe+IM49kHUgk7XAG8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.52/file/TI.devspacesplus-0.0.52.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.54/file/TI.devspacesplus-0.0.54.vsix"
         },
-        "version": "0.0.52"
+        "version": "0.0.54"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -8106,11 +8106,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-52QzYcqSEpfSNgb4ZDQaqWFb8+QNcCei38QJ65zzDjc=",
+            "sha256": "sha256-/Vx4ZmDy9x1EBchEgUr6h12sWKiPK9D+FAHJm/3pxRM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.3/file/anyscalecompute.anyscale-workspaces-0.1.3.vsix"
+            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.4/file/anyscalecompute.anyscale-workspaces-0.1.4.vsix"
         },
-        "version": "0.1.3"
+        "version": "0.1.4"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
@@ -15744,11 +15744,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qqs4RR6819/KDdgQjjK0iZfK0MZwiMS6N7NZDoT3h4c=",
+            "sha256": "sha256-uDha2H9EYiDTRphzAzhC2Udq3mrU85GHJ7RAmasVolM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.2/file/halcyontechltd.vscode-rpgle-0.7.2.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.3/file/halcyontechltd.vscode-rpgle-0.7.3.vsix"
         },
-        "version": "0.7.2"
+        "version": "0.7.3"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -17326,6 +17326,25 @@
             "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.2.8/file/isg-cnc.vscode-isg-cnc-0.2.8.vsix"
         },
         "version": "0.2.8"
+    },
+    "itarato-byesig": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "itarato-byesig",
+        "passthru": {
+            "description": "Hide Ruby Sorbet signatures",
+            "license": "MIT",
+            "name": "byesig",
+            "publisher": "itarato"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-VDFFDdYvrkxv2VZ4YSVN9z34Cj4Gc5QQxCLA6ydwzDA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/itarato/byesig/0.0.13/file/itarato.byesig-0.0.13.vsix"
+        },
+        "version": "0.0.13"
     },
     "itemis-xtext-vscode-example": {
         "cargoLocks": null,
@@ -24433,6 +24452,25 @@
         },
         "version": "1.0.2"
     },
+    "ortus-solutions-vscode-commandbox": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ortus-solutions-vscode-commandbox",
+        "passthru": {
+            "description": "Extension to add support for CommandBox",
+            "license": "MIT",
+            "name": "vscode-commandbox",
+            "publisher": "ortus-solutions"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-wVc3mkShOHzRgQper7h/lYJr8CicsW8neDiv138LdM4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ortus-solutions/vscode-commandbox/1.1.0/file/ortus-solutions.vscode-commandbox-1.1.0.vsix"
+        },
+        "version": "1.1.0"
+    },
     "oscarlevin-pretext-tools": {
         "cargoLocks": null,
         "extract": null,
@@ -25396,11 +25434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mr6WtET0l6Grr8TS3h2EfKWHZ3F2vhQe2UAv69HzzJM=",
+            "sha256": "sha256-FMzPHfgAogU112IAo3PClITXqY3piOWUgXbcgeSHxFE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.388/file/pokey.cursorless-0.26.388.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.389/file/pokey.cursorless-0.26.389.vsix"
         },
-        "version": "0.26.388"
+        "version": "0.26.389"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -36454,11 +36492,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LymJsPXVCmC5ZhNxd91XJ3LMr5l6mboGK9gVdX0epHs=",
+            "sha256": "sha256-DbFWkE/SF/dDD3eLyk660PyvqnDCsunJl/5gtMdZt+g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/grammarly/0.23.6/file/znck.grammarly-0.23.6.vsix"
+            "url": "https://open-vsx.org/api/znck/grammarly/0.23.7/file/znck.grammarly-0.23.7.vsix"
         },
-        "version": "0.23.6"
+        "version": "0.23.7"
     },
     "znck-preview": {
         "cargoLocks": null,

@@ -1047,10 +1047,10 @@
   };
   F5DevCentral-vscode-f5-chariot = {
     pname = "F5DevCentral-vscode-f5-chariot";
-    version = "1.19.2";
+    version = "1.19.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.2/file/F5DevCentral.vscode-f5-chariot-1.19.2.vsix";
-      sha256 = "sha256-gqr7Riwv4d0gL18hHwn9x0EV2VacLMFfDDKb2ps7Yrw=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5-chariot/1.19.3/file/F5DevCentral.vscode-f5-chariot-1.19.3.vsix";
+      sha256 = "sha256-i49VPvl94Xek+6+GM2V4NShlKBRu25dDOD864nfd1kg=";
     };
     license = "Apache-2.0";
     name = "vscode-f5-chariot";
@@ -2379,10 +2379,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.19";
+    version = "0.17.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.19/file/Marko-JS.marko-vscode-0.17.19.vsix";
-      sha256 = "sha256-JIhwi7HApGdFBmIc5detgs4bx///d3KkJR2jUKqGZRg=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.20/file/Marko-JS.marko-vscode-0.17.20.vsix";
+      sha256 = "sha256-Qbom1tGtsvHG6MnKIz4tvIps2lAeW3OTX1qGYo+2ktk=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -3207,10 +3207,10 @@
   };
   Shelex-vscode-cy-helper = {
     pname = "Shelex-vscode-cy-helper";
-    version = "2.5.0";
+    version = "2.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.0/file/Shelex.vscode-cy-helper-2.5.0.vsix";
-      sha256 = "sha256-k6js0401rGrNpN8KXrsfEqpT0qqHsTJF4Zb8eoXmIXY=";
+      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.1/file/Shelex.vscode-cy-helper-2.5.1.vsix";
+      sha256 = "sha256-LVC7MA5ccGLHQ+U0jYVGc1ndGMG6jzmcdSrxNbNSL+Y=";
     };
     license = "Apache-2.0";
     name = "vscode-cy-helper";
@@ -3423,10 +3423,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.52";
+    version = "0.0.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.52/file/TI.devspacesplus-0.0.52.vsix";
-      sha256 = "sha256-xjlll2n58gQ6INt3eYknCQG6aTF26VdEGQ3a2EIohvg=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.54/file/TI.devspacesplus-0.0.54.vsix";
+      sha256 = "sha256-+lv3LGUoRUtoH3Bi1KMcSgkpufKe+IM49kHUgk7XAG8=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -5115,10 +5115,10 @@
   };
   anyscalecompute-anyscale-workspaces = {
     pname = "anyscalecompute-anyscale-workspaces";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.3/file/anyscalecompute.anyscale-workspaces-0.1.3.vsix";
-      sha256 = "sha256-52QzYcqSEpfSNgb4ZDQaqWFb8+QNcCei38QJ65zzDjc=";
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.4/file/anyscalecompute.anyscale-workspaces-0.1.4.vsix";
+      sha256 = "sha256-/Vx4ZmDy9x1EBchEgUr6h12sWKiPK9D+FAHJm/3pxRM=";
     };
     license = "Apache-2.0";
     name = "anyscale-workspaces";
@@ -9939,10 +9939,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.7.2";
+    version = "0.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.2/file/halcyontechltd.vscode-rpgle-0.7.2.vsix";
-      sha256 = "sha256-qqs4RR6819/KDdgQjjK0iZfK0MZwiMS6N7NZDoT3h4c=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.3/file/halcyontechltd.vscode-rpgle-0.7.3.vsix";
+      sha256 = "sha256-uDha2H9EYiDTRphzAzhC2Udq3mrU85GHJ7RAmasVolM=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -10944,6 +10944,18 @@
     name = "vscode-isg-cnc";
     description = "Support for ISG-CNC NC-Code";
     publisher = "isg-cnc";
+  };
+  itarato-byesig = {
+    pname = "itarato-byesig";
+    version = "0.0.13";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/itarato/byesig/0.0.13/file/itarato.byesig-0.0.13.vsix";
+      sha256 = "sha256-VDFFDdYvrkxv2VZ4YSVN9z34Cj4Gc5QQxCLA6ydwzDA=";
+    };
+    license = "MIT";
+    name = "byesig";
+    description = "Hide Ruby Sorbet signatures";
+    publisher = "itarato";
   };
   itemis-xtext-vscode-example = {
     pname = "itemis-xtext-vscode-example";
@@ -15433,6 +15445,18 @@
     description = "A wavy dark theme for VSCode";
     publisher = "orhun";
   };
+  ortus-solutions-vscode-commandbox = {
+    pname = "ortus-solutions-vscode-commandbox";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ortus-solutions/vscode-commandbox/1.1.0/file/ortus-solutions.vscode-commandbox-1.1.0.vsix";
+      sha256 = "sha256-wVc3mkShOHzRgQper7h/lYJr8CicsW8neDiv138LdM4=";
+    };
+    license = "MIT";
+    name = "vscode-commandbox";
+    description = "Extension to add support for CommandBox";
+    publisher = "ortus-solutions";
+  };
   oscarlevin-pretext-tools = {
     pname = "oscarlevin-pretext-tools";
     version = "0.5.0";
@@ -16035,10 +16059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.388";
+    version = "0.26.389";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.388/file/pokey.cursorless-0.26.388.vsix";
-      sha256 = "sha256-mr6WtET0l6Grr8TS3h2EfKWHZ3F2vhQe2UAv69HzzJM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.389/file/pokey.cursorless-0.26.389.vsix";
+      sha256 = "sha256-FMzPHfgAogU112IAo3PClITXqY3piOWUgXbcgeSHxFE=";
     };
     license = "MIT";
     name = "cursorless";
@@ -23019,10 +23043,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.6";
+    version = "0.23.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.6/file/znck.grammarly-0.23.6.vsix";
-      sha256 = "sha256-LymJsPXVCmC5ZhNxd91XJ3LMr5l6mboGK9gVdX0epHs=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.7/file/znck.grammarly-0.23.7.vsix";
+      sha256 = "sha256-DbFWkE/SF/dDD3eLyk660PyvqnDCsunJl/5gtMdZt+g=";
     };
     license = "MIT";
     name = "grammarly";
