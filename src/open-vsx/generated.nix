@@ -5259,12 +5259,12 @@
   };
   arm-device-manager = {
     pname = "arm-device-manager";
-    version = "1.0.2";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/device-manager/1.0.2/file/arm.device-manager-1.0.2.vsix";
-      sha256 = "sha256-EYmhtvdPtNjB2BgTRu6y1pecy2H0fVhKHBLn4T6ZQwo=";
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.3/file/arm.device-manager-1.0.3.vsix";
+      sha256 = "sha256-8i2y+Kk+w1QSjvEQF7Ga6qT1lzv8nRcIEzDS7UeKhBA=";
     };
-    license = "https://www.keil.arm.com/license-agreement/";
+    license = "";
     name = "device-manager";
     description = "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes";
     publisher = "arm";
@@ -12639,10 +12639,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.13";
+    version = "0.4.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.13/file/ligolang-publish.ligo-vscode-0.4.13.vsix";
-      sha256 = "sha256-HUAItJ4kCvCoPv7/4ntcARAdah37ZTBgYr8MqZ9b3vI=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.14/file/ligolang-publish.ligo-vscode-0.4.14.vsix";
+      sha256 = "sha256-HXeFVX8yK4WUEPp/+wy9o1HPEH7FKdboEQwcShzji/c=";
     };
     license = "MIT";
     name = "ligo-vscode";
@@ -16035,10 +16035,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.386";
+    version = "0.26.387";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.386/file/pokey.cursorless-0.26.386.vsix";
-      sha256 = "sha256-EoFa1XJKJUFXzUdlYg4BYIfUzvLlj0UJd0J/hnpRdY4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.387/file/pokey.cursorless-0.26.387.vsix";
+      sha256 = "sha256-hInRHsvrR1M+K94N1a47fR2hct+NiUKpc7JQ5TwJY4U=";
     };
     license = "MIT";
     name = "cursorless";
@@ -19383,10 +19383,10 @@
   };
   the-compiler-python-tox = {
     pname = "the-compiler-python-tox";
-    version = "0.1.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/the-compiler/python-tox/0.1.0/file/the-compiler.python-tox-0.1.0.vsix";
-      sha256 = "sha256-iTDCykiQi+E2ip3+EaDnW8giA150qU4Fgwx7Y9XZ3qk=";
+      url = "https://open-vsx.org/api/the-compiler/python-tox/1.0.0/file/the-compiler.python-tox-1.0.0.vsix";
+      sha256 = "sha256-NF1HtDQX+MkVHgGWrJhvVo6u0ZJ7NJl8QMAgeknnwqk=";
     };
     license = "MIT";
     name = "python-tox";

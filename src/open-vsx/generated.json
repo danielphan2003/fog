@@ -8327,18 +8327,18 @@
         "name": "arm-device-manager",
         "passthru": {
             "description": "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes",
-            "license": "https://www.keil.arm.com/license-agreement/",
+            "license": "",
             "name": "device-manager",
             "publisher": "arm"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EYmhtvdPtNjB2BgTRu6y1pecy2H0fVhKHBLn4T6ZQwo=",
+            "sha256": "sha256-8i2y+Kk+w1QSjvEQF7Ga6qT1lzv8nRcIEzDS7UeKhBA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/device-manager/1.0.2/file/arm.device-manager-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/arm/device-manager/1.0.3/file/arm.device-manager-1.0.3.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.0.3"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -20019,11 +20019,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HUAItJ4kCvCoPv7/4ntcARAdah37ZTBgYr8MqZ9b3vI=",
+            "sha256": "sha256-HXeFVX8yK4WUEPp/+wy9o1HPEH7FKdboEQwcShzji/c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.13/file/ligolang-publish.ligo-vscode-0.4.13.vsix"
+            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.14/file/ligolang-publish.ligo-vscode-0.4.14.vsix"
         },
-        "version": "0.4.13"
+        "version": "0.4.14"
     },
     "lintangwisesa-arduino": {
         "cargoLocks": null,
@@ -25396,11 +25396,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EoFa1XJKJUFXzUdlYg4BYIfUzvLlj0UJd0J/hnpRdY4=",
+            "sha256": "sha256-hInRHsvrR1M+K94N1a47fR2hct+NiUKpc7JQ5TwJY4U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.386/file/pokey.cursorless-0.26.386.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.387/file/pokey.cursorless-0.26.387.vsix"
         },
-        "version": "0.26.386"
+        "version": "0.26.387"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -30697,11 +30697,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iTDCykiQi+E2ip3+EaDnW8giA150qU4Fgwx7Y9XZ3qk=",
+            "sha256": "sha256-NF1HtDQX+MkVHgGWrJhvVo6u0ZJ7NJl8QMAgeknnwqk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/the-compiler/python-tox/0.1.0/file/the-compiler.python-tox-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/the-compiler/python-tox/1.0.0/file/the-compiler.python-tox-1.0.0.vsix"
         },
-        "version": "0.1.0"
+        "version": "1.0.0"
     },
     "theangryepicbanana-language-io": {
         "cargoLocks": null,
