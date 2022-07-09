@@ -2379,10 +2379,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.20";
+    version = "0.17.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.20/file/Marko-JS.marko-vscode-0.17.20.vsix";
-      sha256 = "sha256-Qbom1tGtsvHG6MnKIz4tvIps2lAeW3OTX1qGYo+2ktk=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.22/file/Marko-JS.marko-vscode-0.17.22.vsix";
+      sha256 = "sha256-67QhsEBSi/KxwL7lcraGj+ysIT1z5b6SqzrwLQhoWb8=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -14667,10 +14667,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.32.0";
+    version = "0.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.32.0/file/mutable-ai.mutable-ai-0.32.0.vsix";
-      sha256 = "sha256-waCIr40PCuDJSDBN+4dFI2gzq1u2QdQ4IVAKH6NIcSU=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.34.0/file/mutable-ai.mutable-ai-0.34.0.vsix";
+      sha256 = "sha256-fWZBgg4aGYEvj2ZOFKeNr1ETuW3BmdCzbRO+YpkrVuM=";
     };
     license = "";
     name = "mutable-ai";
