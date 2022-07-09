@@ -18459,10 +18459,10 @@
   };
   spoorthi-cosmy-wasmy = {
     pname = "spoorthi-cosmy-wasmy";
-    version = "0.4.1";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.4.1/file/spoorthi.cosmy-wasmy-0.4.1.vsix";
-      sha256 = "sha256-XAILhngra8lBGxgzYGmJMrvkPbCIHzetZFSE4WfGlg4=";
+      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.5.0/file/spoorthi.cosmy-wasmy-0.5.0.vsix";
+      sha256 = "sha256-kLzEahpYZvoqm1Qmp05Z1t7/VV8XkttJmZW0sOSjweI=";
     };
     license = "GPL-3.0";
     name = "cosmy-wasmy";
