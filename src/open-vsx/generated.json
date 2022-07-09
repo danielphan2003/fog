@@ -5199,11 +5199,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cR9cWvD6RXWZD89BChO937dB6bZRr3QPYI5/30mMxws=",
+            "sha256": "sha256-gEYbwJ8sDn8OwnBcQPjwYeMvGinotTdH2Z5Rybg2fP0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.717/file/Slint.slint-nightly-2022.7.717.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.819/file/Slint.slint-nightly-2022.7.819.vsix"
         },
-        "version": "2022.7.717"
+        "version": "2022.7.819"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
