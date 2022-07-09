@@ -28455,11 +28455,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lSxkSGF2CYxO4FlT/ENZQEhlvxHDC5hothu76nVDpfY=",
+            "sha256": "sha256-3qWlz6TB/1wQKF54tvzqAjwrBpXEXNFHfsDmTvSfoFU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.53/file/shivaprasanth.dothttp-code-0.0.53.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.54/file/shivaprasanth.dothttp-code-0.0.54.vsix"
         },
-        "version": "0.0.53"
+        "version": "0.0.54"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,

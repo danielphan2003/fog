@@ -17967,10 +17967,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.53";
+    version = "0.0.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.53/file/shivaprasanth.dothttp-code-0.0.53.vsix";
-      sha256 = "sha256-lSxkSGF2CYxO4FlT/ENZQEhlvxHDC5hothu76nVDpfY=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.54/file/shivaprasanth.dothttp-code-0.0.54.vsix";
+      sha256 = "sha256-3qWlz6TB/1wQKF54tvzqAjwrBpXEXNFHfsDmTvSfoFU=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
