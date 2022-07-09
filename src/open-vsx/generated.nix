@@ -7383,10 +7383,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.2.3";
+    version = "5.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.3/file/cyrilletuzi.angular-schematics-5.2.3.vsix";
-      sha256 = "sha256-OqHSPs2HJ4xhdKLIVrAymyMuBz/srEaqdljPkL99GP0=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.4/file/cyrilletuzi.angular-schematics-5.2.4.vsix";
+      sha256 = "sha256-x+2h+DRtKJT9eTQU56T1MvHbteiQDPIkdfetzdS2vn4=";
     };
     license = "MIT";
     name = "angular-schematics";
@@ -7815,10 +7815,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.102.4";
+    version = "0.102.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.102.4/file/dendron.nightly-0.102.4.vsix";
-      sha256 = "sha256-zhl0C11BBOsY9wvi1yBqz4iBMh4/YuUfgX6brULKj7A=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.102.5/file/dendron.nightly-0.102.5.vsix";
+      sha256 = "sha256-DC2DIYpCNykIogVNf28rJV6Ro9b/vY9sizUnv2kZ6zQ=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -22188,6 +22188,18 @@
     name = "jinja";
     description = "Jinja template language support for Visual Studio Code";
     publisher = "wholroyd";
+  };
+  wicked-labs-malibu = {
+    pname = "wicked-labs-malibu";
+    version = "0.0.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wicked-labs/malibu/0.0.10/file/wicked-labs.malibu-0.0.10.vsix";
+      sha256 = "sha256-yzTdXxZwt2g/oot6/n5LBbF8tf+GQGvwQ+AuVRsZXBs=";
+    };
+    license = "MIT";
+    name = "malibu";
+    description = "A retro theme inspired by the surfing days in Malibu beach";
+    publisher = "wicked-labs";
   };
   wicked-labs-sequoia = {
     pname = "wicked-labs-sequoia";

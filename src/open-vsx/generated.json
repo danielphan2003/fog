@@ -11697,11 +11697,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OqHSPs2HJ4xhdKLIVrAymyMuBz/srEaqdljPkL99GP0=",
+            "sha256": "sha256-x+2h+DRtKJT9eTQU56T1MvHbteiQDPIkdfetzdS2vn4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.3/file/cyrilletuzi.angular-schematics-5.2.3.vsix"
+            "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.4/file/cyrilletuzi.angular-schematics-5.2.4.vsix"
         },
-        "version": "5.2.3"
+        "version": "5.2.4"
     },
     "cyrusfirheir-twee3-language-tools": {
         "cargoLocks": null,
@@ -12381,11 +12381,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zhl0C11BBOsY9wvi1yBqz4iBMh4/YuUfgX6brULKj7A=",
+            "sha256": "sha256-DC2DIYpCNykIogVNf28rJV6Ro9b/vY9sizUnv2kZ6zQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.102.4/file/dendron.nightly-0.102.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.102.5/file/dendron.nightly-0.102.5.vsix"
         },
-        "version": "0.102.4"
+        "version": "0.102.5"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -35129,6 +35129,25 @@
             "url": "https://open-vsx.org/api/wholroyd/jinja/0.0.8/file/wholroyd.jinja-0.0.8.vsix"
         },
         "version": "0.0.8"
+    },
+    "wicked-labs-malibu": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wicked-labs-malibu",
+        "passthru": {
+            "description": "A retro theme inspired by the surfing days in Malibu beach",
+            "license": "MIT",
+            "name": "malibu",
+            "publisher": "wicked-labs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-yzTdXxZwt2g/oot6/n5LBbF8tf+GQGvwQ+AuVRsZXBs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wicked-labs/malibu/0.0.10/file/wicked-labs.malibu-0.0.10.vsix"
+        },
+        "version": "0.0.10"
     },
     "wicked-labs-sequoia": {
         "cargoLocks": null,
