@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "b5d8c4d9dbc5589bcd511dba393d8992b299f477";
+    version = "b190d83911a082fff460b77e7b87b4afd40a01ee";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "b5d8c4d9dbc5589bcd511dba393d8992b299f477";
+      rev = "b190d83911a082fff460b77e7b87b4afd40a01ee";
       fetchSubmodules = true;
-      sha256 = "sha256-mz9AtUsdxHScdjMSOmdF0/ZKFRXVibFqRmSpJ+PV5SQ=";
+      sha256 = "sha256-VVr54O7ZYY09T3RmAus/lq8aiK3lJZZS8zcPnQduMn4=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-b5d8c4d9dbc5589bcd511dba393d8992b299f477/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-b190d83911a082fff460b77e7b87b4afd40a01ee/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "4e73e6d9f4d060243f1cf8927b95dad67f24bd6a";
+    version = "038f0c879dea2c889c0e7673a74bae97c22bc989";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "4e73e6d9f4d060243f1cf8927b95dad67f24bd6a";
+      rev = "038f0c879dea2c889c0e7673a74bae97c22bc989";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4Q5VMjzedfOlsUFuk9JiYX7HQ/QjYAGyRyvv6c+nrkg=";
+      sha256 = "sha256-IcdwkQvjPDhF8w891sjeMBnT9Geoy2jeIEHh+KG9Bls=";
     };
   };
   flyingfox = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c2f618d3947f1f8d023594f394c9fce4a4f65368";
+    version = "aae8c65880dd637bcb5dd58f12afcfc18795ad7d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c2f618d3947f1f8d023594f394c9fce4a4f65368";
+      rev = "aae8c65880dd637bcb5dd58f12afcfc18795ad7d";
       fetchSubmodules = false;
-      sha256 = "sha256-8n6Dukg7k9gQXdPVCSrA6ESe6Zc91prxuOj014apQ7U=";
+      sha256 = "sha256-r4UbQcH1yKSEiNp5PjlBMcPPewlaxyweFoJ0W2y/ou4=";
     });
   };
   revanced-cli = {
