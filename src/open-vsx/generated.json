@@ -25947,11 +25947,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uRT4i5vvIeY9S4w+K21kBwkeIu5isFb73faHf0A/Sms=",
+            "sha256": "sha256-8cKpSnqMGS63VAZn8D7J5KXm8DgHLwPU1mvRpZaiC5w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.25.0/file/quarto.quarto-1.25.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.26.0/file/quarto.quarto-1.26.0.vsix"
         },
-        "version": "1.25.0"
+        "version": "1.26.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,

@@ -16383,10 +16383,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.25.0";
+    version = "1.26.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.25.0/file/quarto.quarto-1.25.0.vsix";
-      sha256 = "sha256-uRT4i5vvIeY9S4w+K21kBwkeIu5isFb73faHf0A/Sms=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.26.0/file/quarto.quarto-1.26.0.vsix";
+      sha256 = "sha256-8cKpSnqMGS63VAZn8D7J5KXm8DgHLwPU1mvRpZaiC5w=";
     };
     license = "MIT";
     name = "quarto";
