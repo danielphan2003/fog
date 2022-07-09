@@ -17883,10 +17883,10 @@
   };
   shardulm94-trailing-spaces = {
     pname = "shardulm94-trailing-spaces";
-    version = "0.3.1";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shardulm94/trailing-spaces/0.3.1/file/shardulm94.trailing-spaces-0.3.1.vsix";
-      sha256 = "sha256-LzSjlbKL6pNenBydwI+x5dXC2R3+goTxp2sI6Ul3BCs=";
+      url = "https://open-vsx.org/api/shardulm94/trailing-spaces/0.4.0/file/shardulm94.trailing-spaces-0.4.0.vsix";
+      sha256 = "sha256-Rg8oiwe8ZoqQlOWoDu3hcJ5VLW3Qud0/NGX73yPfl5M=";
     };
     license = "MIT";
     name = "trailing-spaces";
