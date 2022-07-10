@@ -899,10 +899,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.5.0";
+    version = "2.5.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.0/revanced-cli-2.5.0-all.jar";
-      sha256 = "sha256-Ta/t/FQWC3AZSoEiKJsfbdYZtCxDzRGOfleJY7Bi8lY=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.1/revanced-cli-2.5.1-all.jar";
+      sha256 = "sha256-ICvzRy18AAzukJXicEmrJtGn5occI4W4fIRMrOVNS+M=";
     };
   };
   revanced-integrations = {
@@ -915,18 +915,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.12.1";
+    version = "2.12.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.1/revanced-patches-2.12.1.dex";
-      sha256 = "sha256-/YdGT6uAaE0TX8j5x/NZaWcN98vi+2R2LSz5yKLNH+c=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.2/revanced-patches-2.12.2.dex";
+      sha256 = "sha256-RTdjtag3WLWQEnnMQ7zAPYvvvBwXHjdbEWV1FlOaZXs=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.12.1";
+    version = "2.12.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.1/revanced-patches-2.12.1.jar";
-      sha256 = "sha256-utyXyZFHhVwJ/QcI0whWcIe973WF7WKtVkLl0rxYPWQ=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.2/revanced-patches-2.12.2.jar";
+      sha256 = "sha256-6e2WzzMDIcy/vWW9x9lvMmqL7WYmToCmHkeok9+d9uA=";
     };
   };
   rofi-wayland = {
