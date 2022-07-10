@@ -10587,10 +10587,10 @@
   };
   idleberg-nsis = {
     pname = "idleberg-nsis";
-    version = "3.51.1";
+    version = "3.51.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.51.1/file/idleberg.nsis-3.51.1.vsix";
-      sha256 = "sha256-SMGz6SPddgXekWUy+iICG6ThX2OxWsWkYpGycHT23Kg=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.51.2/file/idleberg.nsis-3.51.2.vsix";
+      sha256 = "sha256-2F5JSoQ3DYMIM0TvuzeXPEn12N7GS7gfwS59zaMC7UU=";
     };
     license = "MIT OR GPL-2.0";
     name = "nsis";
@@ -11100,6 +11100,18 @@
     name = "solarized-sunset";
     description = "A flat theme based on Solarized Dark";
     publisher = "jansim";
+  };
+  jasonlhy-hungry-delete = {
+    pname = "jasonlhy-hungry-delete";
+    version = "1.7.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jasonlhy/hungry-delete/1.7.0/file/jasonlhy.hungry-delete-1.7.0.vsix";
+      sha256 = "sha256-zWvmAmL/HDeIbHVdPq2KS7h+hamiZbIKPjFVBNL9m0Q=";
+    };
+    license = "MIT";
+    name = "hungry-delete";
+    description = "To delete an entire block of whitespace or tab, and reduce the time programmers need to press backspace";
+    publisher = "jasonlhy";
   };
   jaspergeer-docmachine = {
     pname = "jaspergeer-docmachine";
@@ -16223,6 +16235,18 @@
     license = "MIT";
     name = "vscode-oscript";
     description = "Provides syntax checking and fixing, highlighting, autocompletion, hints, symbol outline, identifier recognition and renaming and other features for the OScript language in Visual Studio Code.";
+    publisher = "prantlf";
+  };
+  prantlf-vscode-requirejs = {
+    pname = "prantlf-vscode-requirejs";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.1/file/prantlf.vscode-requirejs-1.0.1.vsix";
+      sha256 = "sha256-CeM360bc1PVgjQVQrpx1dujNBhXsgCQUapWriuM6z34=";
+    };
+    license = "MIT";
+    name = "vscode-requirejs";
+    description = "Looks up modules and identifiers in AMD projects using RequireJS.";
     publisher = "prantlf";
   };
   prime31-zig = {

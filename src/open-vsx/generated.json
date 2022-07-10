@@ -16770,11 +16770,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SMGz6SPddgXekWUy+iICG6ThX2OxWsWkYpGycHT23Kg=",
+            "sha256": "sha256-2F5JSoQ3DYMIM0TvuzeXPEn12N7GS7gfwS59zaMC7UU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/idleberg/nsis/3.51.1/file/idleberg.nsis-3.51.1.vsix"
+            "url": "https://open-vsx.org/api/idleberg/nsis/3.51.2/file/idleberg.nsis-3.51.2.vsix"
         },
-        "version": "3.51.1"
+        "version": "3.51.2"
     },
     "idleberg-nsis-plugins": {
         "cargoLocks": null,
@@ -17573,6 +17573,25 @@
             "url": "https://open-vsx.org/api/jansim/solarized-sunset/1.4.1/file/jansim.solarized-sunset-1.4.1.vsix"
         },
         "version": "1.4.1"
+    },
+    "jasonlhy-hungry-delete": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jasonlhy-hungry-delete",
+        "passthru": {
+            "description": "To delete an entire block of whitespace or tab, and reduce the time programmers need to press backspace",
+            "license": "MIT",
+            "name": "hungry-delete",
+            "publisher": "jasonlhy"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-zWvmAmL/HDeIbHVdPq2KS7h+hamiZbIKPjFVBNL9m0Q=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jasonlhy/hungry-delete/1.7.0/file/jasonlhy.hungry-delete-1.7.0.vsix"
+        },
+        "version": "1.7.0"
     },
     "jaspergeer-docmachine": {
         "cargoLocks": null,
@@ -25686,6 +25705,25 @@
             "url": "https://open-vsx.org/api/prantlf/vscode-oscript/0.3.0/file/prantlf.vscode-oscript-0.3.0.vsix"
         },
         "version": "0.3.0"
+    },
+    "prantlf-vscode-requirejs": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "prantlf-vscode-requirejs",
+        "passthru": {
+            "description": "Looks up modules and identifiers in AMD projects using RequireJS.",
+            "license": "MIT",
+            "name": "vscode-requirejs",
+            "publisher": "prantlf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-CeM360bc1PVgjQVQrpx1dujNBhXsgCQUapWriuM6z34=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.1/file/prantlf.vscode-requirejs-1.0.1.vsix"
+        },
+        "version": "1.0.1"
     },
     "prime31-zig": {
         "cargoLocks": null,
