@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "6f7377f38138af5e41f094fbae90b4f68e94d49b",
-            "sha256": "sha256-AgN9En5WZO5pcYYymQdpqz3ufr/Z9d9TvVNFWZRZOSo=",
+            "rev": "06c0be5ea6e3ed6b7fe7a45a550d42bc646ad6db",
+            "sha256": "sha256-vMjgW66JmbCzgQ0Jq7pjA2YceFGlwcXaU53Wrfmiag4=",
             "type": "github"
         },
-        "version": "6f7377f38138af5e41f094fbae90b4f68e94d49b"
+        "version": "06c0be5ea6e3ed6b7fe7a45a550d42bc646ad6db"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1502,11 +1502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S0Q7VQN9WnIeVSaj/WS1OQAPMVdgHSsF4Tm+Dr/HNjU=",
+            "sha256": "sha256-FnkqF29UpU/NJ5BYIjVIMsF2S1hLsEeQVVyzEVKu3Vw=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.3.3/revanced-cli-2.3.3-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.4.0/revanced-cli-2.4.0-all.jar"
         },
-        "version": "2.3.3"
+        "version": "2.4.0"
     },
     "revanced-integrations": {
         "cargoLocks": null,

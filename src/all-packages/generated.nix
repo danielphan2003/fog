@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6f7377f38138af5e41f094fbae90b4f68e94d49b";
+    version = "06c0be5ea6e3ed6b7fe7a45a550d42bc646ad6db";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "6f7377f38138af5e41f094fbae90b4f68e94d49b";
+      rev = "06c0be5ea6e3ed6b7fe7a45a550d42bc646ad6db";
       fetchSubmodules = false;
-      sha256 = "sha256-AgN9En5WZO5pcYYymQdpqz3ufr/Z9d9TvVNFWZRZOSo=";
+      sha256 = "sha256-vMjgW66JmbCzgQ0Jq7pjA2YceFGlwcXaU53Wrfmiag4=";
     });
   };
   ibus = {
@@ -899,10 +899,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.3.3";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.3.3/revanced-cli-2.3.3-all.jar";
-      sha256 = "sha256-S0Q7VQN9WnIeVSaj/WS1OQAPMVdgHSsF4Tm+Dr/HNjU=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.4.0/revanced-cli-2.4.0-all.jar";
+      sha256 = "sha256-FnkqF29UpU/NJ5BYIjVIMsF2S1hLsEeQVVyzEVKu3Vw=";
     };
   };
   revanced-integrations = {
