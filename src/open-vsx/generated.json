@@ -3774,11 +3774,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-67QhsEBSi/KxwL7lcraGj+ysIT1z5b6SqzrwLQhoWb8=",
+            "sha256": "sha256-JXqsXNHuL3j00xrlREqp4/eoMflyFUhdsANJAdi6qOg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.22/file/Marko-JS.marko-vscode-0.17.22.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.23/file/Marko-JS.marko-vscode-0.17.23.vsix"
         },
-        "version": "0.17.22"
+        "version": "0.17.23"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
