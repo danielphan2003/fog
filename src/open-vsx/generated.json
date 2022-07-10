@@ -28423,6 +28423,25 @@
         },
         "version": "1.9.0"
     },
+    "shivaprasanth-code-notebook-plantuml": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "shivaprasanth-code-notebook-plantuml",
+        "passthru": {
+            "description": "Plantuml support for markdown notebook in vscode",
+            "license": "MIT",
+            "name": "code-notebook-plantuml",
+            "publisher": "shivaprasanth"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-RczdYU/lpFpnejUkK/L5tDgFVhhHzR/PLSC6kosqGzk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/shivaprasanth/code-notebook-plantuml/0.0.1/file/shivaprasanth.code-notebook-plantuml-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "shivaprasanth-dotbook": {
         "cargoLocks": null,
         "extract": null,

@@ -17953,6 +17953,18 @@
     description = "BigQuery SQL language support in Visual Studio Code";
     publisher = "shinichi-takii";
   };
+  shivaprasanth-code-notebook-plantuml = {
+    pname = "shivaprasanth-code-notebook-plantuml";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/shivaprasanth/code-notebook-plantuml/0.0.1/file/shivaprasanth.code-notebook-plantuml-0.0.1.vsix";
+      sha256 = "sha256-RczdYU/lpFpnejUkK/L5tDgFVhhHzR/PLSC6kosqGzk=";
+    };
+    license = "MIT";
+    name = "code-notebook-plantuml";
+    description = "Plantuml support for markdown notebook in vscode";
+    publisher = "shivaprasanth";
+  };
   shivaprasanth-dotbook = {
     pname = "shivaprasanth-dotbook";
     version = "0.0.1";
