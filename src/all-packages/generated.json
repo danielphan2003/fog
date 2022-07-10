@@ -1502,11 +1502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ICvzRy18AAzukJXicEmrJtGn5occI4W4fIRMrOVNS+M=",
+            "sha256": "sha256-KlvpZlAPSeevSHcRjwvE+MIpub21mmcKYywXCpHzAFo=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.5.1/revanced-cli-2.5.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.5.2/revanced-cli-2.5.2-all.jar"
         },
-        "version": "2.5.1"
+        "version": "2.5.2"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -2006,11 +2006,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "8f79282eff0df1143b142ef3ede9ff0910c68cbc",
-            "sha256": "sha256-ZSrDKvKZhB1SSyewQPUw87Fb4OanTFWsnHXTSFmAmbw=",
+            "rev": "ee6a35bd1c114b9f19768b14fcf526e80d89bec2",
+            "sha256": "sha256-m8kqhMe4b4vAMS8X0/HvEgQGxvrfRiuYZEzRAd2Vzm0=",
             "type": "github"
         },
-        "version": "8f79282eff0df1143b142ef3ede9ff0910c68cbc"
+        "version": "ee6a35bd1c114b9f19768b14fcf526e80d89bec2"
     },
     "ultimmc": {
         "cargoLocks": null,
@@ -2318,12 +2318,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "e37eeb7af2a84d32f0a74feb00613efda6bc966e",
-            "sha256": "sha256-fiVQt5y38OqTAZl40KzwQFhM0VNBLJcpis2dXEeoHyc=",
+            "rev": "f1070c01d616c5f21f939d5ebc533738779451ac",
+            "sha256": "sha256-u3FaimBOiOuvcU8o1fKqDgVxp3nIAbliGoFULo37RVo=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
-        "version": "e37eeb7af2a84d32f0a74feb00613efda6bc966e"
+        "version": "f1070c01d616c5f21f939d5ebc533738779451ac"
     },
     "ydotool": {
         "cargoLocks": null,

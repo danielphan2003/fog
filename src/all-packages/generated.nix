@@ -899,10 +899,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.5.1";
+    version = "2.5.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.1/revanced-cli-2.5.1-all.jar";
-      sha256 = "sha256-ICvzRy18AAzukJXicEmrJtGn5occI4W4fIRMrOVNS+M=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.2/revanced-cli-2.5.2-all.jar";
+      sha256 = "sha256-KlvpZlAPSeevSHcRjwvE+MIpub21mmcKYywXCpHzAFo=";
     };
   };
   revanced-integrations = {
@@ -1201,13 +1201,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "8f79282eff0df1143b142ef3ede9ff0910c68cbc";
+    version = "ee6a35bd1c114b9f19768b14fcf526e80d89bec2";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "8f79282eff0df1143b142ef3ede9ff0910c68cbc";
+      rev = "ee6a35bd1c114b9f19768b14fcf526e80d89bec2";
       fetchSubmodules = false;
-      sha256 = "sha256-ZSrDKvKZhB1SSyewQPUw87Fb4OanTFWsnHXTSFmAmbw=";
+      sha256 = "sha256-m8kqhMe4b4vAMS8X0/HvEgQGxvrfRiuYZEzRAd2Vzm0=";
     });
   };
   ultimmc = {
@@ -1386,14 +1386,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "e37eeb7af2a84d32f0a74feb00613efda6bc966e";
+    version = "f1070c01d616c5f21f939d5ebc533738779451ac";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "e37eeb7af2a84d32f0a74feb00613efda6bc966e";
+      rev = "f1070c01d616c5f21f939d5ebc533738779451ac";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-fiVQt5y38OqTAZl40KzwQFhM0VNBLJcpis2dXEeoHyc=";
+      sha256 = "sha256-u3FaimBOiOuvcU8o1fKqDgVxp3nIAbliGoFULo37RVo=";
     };
   };
   ydotool = {
