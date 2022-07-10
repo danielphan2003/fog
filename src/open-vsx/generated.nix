@@ -3471,10 +3471,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.1";
+    version = "3.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.1/file/TabNine.tabnine-vscode-3.6.1.vsix";
-      sha256 = "sha256-8ihT8uPbDTvLXPJcv3gVug2VL+9Vnu8cxP4+jhAMw+0=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.2/file/TabNine.tabnine-vscode-3.6.2.vsix";
+      sha256 = "sha256-Z4uj4/NB7b6qh6DqyG+K8LrXFdGICttJ766TFVWbyX4=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -10035,10 +10035,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.13.5";
+    version = "2.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.5/file/hbenl.vscode-mocha-test-adapter-2.13.5.vsix";
-      sha256 = "sha256-G79ifj669OWYXsYSpSsT/RyMqIzFTMW075ieX5FW5hw=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.14.0/file/hbenl.vscode-mocha-test-adapter-2.14.0.vsix";
+      sha256 = "sha256-T8Xb2bEW6244q5Doybleu0va0e/XTOtvnzO2Y4OWifo=";
     };
     license = "MIT";
     name = "vscode-mocha-test-adapter";
@@ -16059,10 +16059,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.390";
+    version = "0.26.392";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.390/file/pokey.cursorless-0.26.390.vsix";
-      sha256 = "sha256-RXI8w6VykaC+Ls86QPEVR3zfDOCN7cVhtVcax9aSwyg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.392/file/pokey.cursorless-0.26.392.vsix";
+      sha256 = "sha256-ehhXO5bf1A8ByqRcIqrE6qlL0CxOu6lUGRKeKtRbB5I=";
     };
     license = "MIT";
     name = "cursorless";

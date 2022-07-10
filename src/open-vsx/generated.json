@@ -5503,11 +5503,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8ihT8uPbDTvLXPJcv3gVug2VL+9Vnu8cxP4+jhAMw+0=",
+            "sha256": "sha256-Z4uj4/NB7b6qh6DqyG+K8LrXFdGICttJ766TFVWbyX4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.1/file/TabNine.tabnine-vscode-3.6.1.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.2/file/TabNine.tabnine-vscode-3.6.2.vsix"
         },
-        "version": "3.6.1"
+        "version": "3.6.2"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -15896,11 +15896,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G79ifj669OWYXsYSpSsT/RyMqIzFTMW075ieX5FW5hw=",
+            "sha256": "sha256-T8Xb2bEW6244q5Doybleu0va0e/XTOtvnzO2Y4OWifo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.13.5/file/hbenl.vscode-mocha-test-adapter-2.13.5.vsix"
+            "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.14.0/file/hbenl.vscode-mocha-test-adapter-2.14.0.vsix"
         },
-        "version": "2.13.5"
+        "version": "2.14.0"
     },
     "hbenl-vscode-test-explorer": {
         "cargoLocks": null,
@@ -25434,11 +25434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RXI8w6VykaC+Ls86QPEVR3zfDOCN7cVhtVcax9aSwyg=",
+            "sha256": "sha256-ehhXO5bf1A8ByqRcIqrE6qlL0CxOu6lUGRKeKtRbB5I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.390/file/pokey.cursorless-0.26.390.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.392/file/pokey.cursorless-0.26.392.vsix"
         },
-        "version": "0.26.390"
+        "version": "0.26.392"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
