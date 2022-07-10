@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "79fc6d3b50c345722e105cfbdf6818e61fd4ba62";
+    version = "0e85113eb3583a30cb36e21343c79d57029aa933";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "79fc6d3b50c345722e105cfbdf6818e61fd4ba62";
+      rev = "0e85113eb3583a30cb36e21343c79d57029aa933";
       fetchSubmodules = false;
-      sha256 = "sha256-iStFsd6as2qaK/8zVjdzZKqUu+8mnlHaQ+t2Nu4DtAQ=";
+      sha256 = "sha256-GmLf22y/aTy6+wkLEOi58eGUgjxrzzEXosvkpXRsA+o=";
     });
   };
   revanced-cli = {
@@ -915,18 +915,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.12.0";
+    version = "2.12.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.0/revanced-patches-2.12.0.dex";
-      sha256 = "sha256-grB2xhUrabrvSsxW5AKjzR1zDddcHAozItJzUU+paoI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.1/revanced-patches-2.12.1.dex";
+      sha256 = "sha256-/YdGT6uAaE0TX8j5x/NZaWcN98vi+2R2LSz5yKLNH+c=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.12.0";
+    version = "2.12.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.0/revanced-patches-2.12.0.jar";
-      sha256 = "sha256-yy+A1DVVl+MFDgfkrbVA9oZAVrphTuJ65V+YXJxA7Ag=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.1/revanced-patches-2.12.1.jar";
+      sha256 = "sha256-utyXyZFHhVwJ/QcI0whWcIe973WF7WKtVkLl0rxYPWQ=";
     };
   };
   rofi-wayland = {
@@ -942,16 +942,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "afb9707eba05cbcb84e9f75a06a2aafee9e0baa2";
+    version = "1a9b25588d6f7490c77ed6b20c7678f2e2ad44d2";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "afb9707eba05cbcb84e9f75a06a2aafee9e0baa2";
+      rev = "1a9b25588d6f7490c77ed6b20c7678f2e2ad44d2";
       fetchSubmodules = false;
-      sha256 = "sha256-Fc0/9JKTwZMQYAzKTvKoxbsVhXe4YBdjQZYdsWe4v88=";
+      sha256 = "sha256-GVI3B8dsJqugy7CewxbygUbtOJErmeEltWnrrCXXXGM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-afb9707eba05cbcb84e9f75a06a2aafee9e0baa2/Cargo.lock;
+      lockFile = ./rustdesk-1a9b25588d6f7490c77ed6b20c7678f2e2ad44d2/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
