@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "5f0b5784c19c614d7b9b04c2e8e3b808f81c1af4";
+    version = "9e55f6a4d300ff238b25d623696bb2a4d681ec6f";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "5f0b5784c19c614d7b9b04c2e8e3b808f81c1af4";
+      rev = "9e55f6a4d300ff238b25d623696bb2a4d681ec6f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-/guCXa831Kk4imnaA7mt8WBFv57SEUjZIa3Odi/eSCE=";
+      sha256 = "sha256-jCeg6itjVpifD6BTtENEI4jD4gzHkC3vVspO80IBpes=";
     };
   };
   flyingfox = {
@@ -899,10 +899,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.4.0";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.4.0/revanced-cli-2.4.0-all.jar";
-      sha256 = "sha256-FnkqF29UpU/NJ5BYIjVIMsF2S1hLsEeQVVyzEVKu3Vw=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.0/revanced-cli-2.5.0-all.jar";
+      sha256 = "sha256-Ta/t/FQWC3AZSoEiKJsfbdYZtCxDzRGOfleJY7Bi8lY=";
     };
   };
   revanced-integrations = {
@@ -1034,14 +1034,14 @@
   };
   snui = {
     pname = "snui";
-    version = "ee71ca02b52677baeea76aeb948bfb40359920ad";
+    version = "bea053c96e1ba65c798c927995288f79844eeab3";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "ee71ca02b52677baeea76aeb948bfb40359920ad";
+      rev = "bea053c96e1ba65c798c927995288f79844eeab3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-tjrvyK4bzNtbshTughFWMESmEQhOBWz0q2cok4/vmEs=";
+      sha256 = "sha256-d1/6UvNrpAQlL+5HWXdBbSvBbFY0H6M6fcSbz3RGmqc=";
     };
   };
   spicetify-cli = {

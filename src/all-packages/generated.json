@@ -683,12 +683,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5f0b5784c19c614d7b9b04c2e8e3b808f81c1af4",
-            "sha256": "sha256-/guCXa831Kk4imnaA7mt8WBFv57SEUjZIa3Odi/eSCE=",
+            "rev": "9e55f6a4d300ff238b25d623696bb2a4d681ec6f",
+            "sha256": "sha256-jCeg6itjVpifD6BTtENEI4jD4gzHkC3vVspO80IBpes=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "5f0b5784c19c614d7b9b04c2e8e3b808f81c1af4"
+        "version": "9e55f6a4d300ff238b25d623696bb2a4d681ec6f"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1502,11 +1502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FnkqF29UpU/NJ5BYIjVIMsF2S1hLsEeQVVyzEVKu3Vw=",
+            "sha256": "sha256-Ta/t/FQWC3AZSoEiKJsfbdYZtCxDzRGOfleJY7Bi8lY=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.4.0/revanced-cli-2.4.0-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.5.0/revanced-cli-2.5.0-all.jar"
         },
-        "version": "2.4.0"
+        "version": "2.5.0"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1731,12 +1731,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ee71ca02b52677baeea76aeb948bfb40359920ad",
-            "sha256": "sha256-tjrvyK4bzNtbshTughFWMESmEQhOBWz0q2cok4/vmEs=",
+            "rev": "bea053c96e1ba65c798c927995288f79844eeab3",
+            "sha256": "sha256-d1/6UvNrpAQlL+5HWXdBbSvBbFY0H6M6fcSbz3RGmqc=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "ee71ca02b52677baeea76aeb948bfb40359920ad"
+        "version": "bea053c96e1ba65c798c927995288f79844eeab3"
     },
     "spicetify-cli": {
         "cargoLocks": null,
