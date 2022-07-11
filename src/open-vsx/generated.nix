@@ -12711,10 +12711,10 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.17";
+    version = "0.1.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.17/file/llvm-vs-code-extensions.vscode-clangd-0.1.17.vsix";
-      sha256 = "sha256-XIiScz0+Kx5i1FgpUvcXmbx2e4EqgGg9E05jiyL3pV8=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.18/file/llvm-vs-code-extensions.vscode-clangd-0.1.18.vsix";
+      sha256 = "sha256-EzRYgxc/KV38Pu/DvnMlJYL+BRQtwdLooZD4C+NXqDA=";
     };
     license = "MIT";
     name = "vscode-clangd";
