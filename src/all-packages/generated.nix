@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6337";
+    version = "1.0.6338";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6337.tar.bz2";
-      sha256 = "sha256-4MWgnpQReXsLD0jQhJOxtJB5MY0ybzVh5V3o2L0jfHo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6338.tar.bz2";
+      sha256 = "sha256-VIHoyEAM3MCWcxb57sL28aghIoj55F883R3ghhqq5W4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6337";
+    version = "1.0.6338";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6337-1_all.deb";
-      sha256 = "sha256-tMh42nOdKxCld6j0nihoLbYMvdwqWHWOz1ib8MUR+NY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6338-1_all.deb";
+      sha256 = "sha256-mCbQha7OTSbRY4wWSTdn92qQZaKjHv5mAfNUijEY9ic=";
     };
   };
   jitsi-videobridge2 = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "99ac1af9d2e750d5548ea0390818400f0a52aff0";
+    version = "f8d14a0af6af1f5e45339c8cd342296154aa6097";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "99ac1af9d2e750d5548ea0390818400f0a52aff0";
+      rev = "f8d14a0af6af1f5e45339c8cd342296154aa6097";
       fetchSubmodules = false;
-      sha256 = "sha256-uDHl1xw4Vs5x+chnZ5uyTrisqsRU4KoCKkT4jlqDL4o=";
+      sha256 = "sha256-5Gc+pe4kDjq9OWNmdjmbY/YpZAQDTWRmR8BWK/K+ftI=";
     });
   };
   revanced-cli = {
@@ -1163,16 +1163,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "fb342194d30be750b6061355f74b2bb86c31e15a";
+    version = "7655379324d131cb8fead64741efec85fb3305ac";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "fb342194d30be750b6061355f74b2bb86c31e15a";
+      rev = "7655379324d131cb8fead64741efec85fb3305ac";
       fetchSubmodules = false;
-      sha256 = "sha256-b+n5OQ91BfqBIIPdH1txbYTosZCwtkyavsC8+5B02u8=";
+      sha256 = "sha256-+tXtYslYDNMisLAh7e8sJK8eOaAkluZNFFk37YsR9dg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-fb342194d30be750b6061355f74b2bb86c31e15a/Cargo.lock;
+      lockFile = ./swhkd-7655379324d131cb8fead64741efec85fb3305ac/Cargo.lock;
       outputHashes = {
         
       };
