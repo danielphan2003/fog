@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "5eaf93697ad2ee1c594373f68d76f7620eb46712",
-            "sha256": "sha256-L8pFfskMM3hQRZqU7Ysp27rsesFEZRvHdM42QvHx4xY=",
+            "rev": "2936368e8070fc53dd4095a786be4d92d20c4158",
+            "sha256": "sha256-jglwNi70IRAKv9bPdw3S5jq3Rrwe3KdkQJOXJVh8In4=",
             "type": "github"
         },
-        "version": "5eaf93697ad2ee1c594373f68d76f7620eb46712"
+        "version": "2936368e8070fc53dd4095a786be4d92d20c4158"
     },
     "ibus": {
         "cargoLocks": null,
@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aIwklLZUfqG15IDOmQdU9wdvUmYJtz9GlCGi8t1tr64=",
+            "sha256": "sha256-zaiwLvrq/3DAw6JZQ2xh+hyT56CfnR891Jchva/hxcQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6332.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6334.tar.bz2"
         },
-        "version": "1.0.6332"
+        "version": "1.0.6334"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NoIL5tN4LOivFQjruOmlnMQ4y7P7lzMbIGcnze6s1ZE=",
+            "sha256": "sha256-l7QSa5fAsDbqoCxn0bG56BV5qGyYUOm0qRT/AtP/+GY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6332-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6334-1_all.deb"
         },
-        "version": "1.0.6332"
+        "version": "1.0.6334"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "61ba6d06cc7b4ad95bb9effe93f7ccff8bb281b1",
-            "sha256": "sha256-TcEmavYSc5TyH9vSKLSNzQmWXxwS9GbkhLjFKPe09ZM=",
+            "rev": "99ac1af9d2e750d5548ea0390818400f0a52aff0",
+            "sha256": "sha256-uDHl1xw4Vs5x+chnZ5uyTrisqsRU4KoCKkT4jlqDL4o=",
             "type": "github"
         },
-        "version": "61ba6d06cc7b4ad95bb9effe93f7ccff8bb281b1"
+        "version": "99ac1af9d2e750d5548ea0390818400f0a52aff0"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1502,11 +1502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KlvpZlAPSeevSHcRjwvE+MIpub21mmcKYywXCpHzAFo=",
+            "sha256": "sha256-3PJV2vtDPn9n7S5cIlCDLi7N9xIbJ5hVspeVmc+rX5I=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.5.2/revanced-cli-2.5.2-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.5.3/revanced-cli-2.5.3-all.jar"
         },
-        "version": "2.5.2"
+        "version": "2.5.3"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1516,11 +1516,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jPER4hMcr9nnoM3X3TKSnFHot+Y6QkXSA1arxa/1Wa8=",
+            "sha256": "sha256-DMMi0wMEfdE+INW6XrXYJH9/qapy3du562rY8ytYnPI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.21.9/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.22.0/app-release-unsigned.apk"
         },
-        "version": "0.21.9"
+        "version": "0.22.0"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vGF54c1YKS46geVmJNmGL9y346kjHr1x6CL8LSlNYsw=",
+            "sha256": "sha256-6Hzg2V+36JQlw5nZgb+Xg/ftvN3XlzZKn+ALpR8Ccd0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.12.4/revanced-patches-2.12.4.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.0/revanced-patches-2.13.0.dex"
         },
-        "version": "2.12.4"
+        "version": "2.13.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1544,11 +1544,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cOyTpAAwR6aWD2WWocfmXo2XwR/Kva1//hFLFGe9BCg=",
+            "sha256": "sha256-RD0APKqem/caNTFM0ArD+044GjAd6xM33zy1iYos3jU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.12.4/revanced-patches-2.12.4.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.0/revanced-patches-2.13.0.jar"
         },
-        "version": "2.12.4"
+        "version": "2.13.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1731,12 +1731,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1e23991e5f332e038640e37cbd4edeecf95daf9a",
-            "sha256": "sha256-3U3nGKu6KqOmS4JPbR98pI4v+sQm57jrkYPVFQoTN70=",
+            "rev": "a7bcf3ded33b27a6f14bc3abbc98630d48cd8cab",
+            "sha256": "sha256-7Wg9PTcTEsdSxiazHOkHkzZ8P624SwfuGronRhDKT74=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "1e23991e5f332e038640e37cbd4edeecf95daf9a"
+        "version": "a7bcf3ded33b27a6f14bc3abbc98630d48cd8cab"
     },
     "spicetify-cli": {
         "cargoLocks": null,

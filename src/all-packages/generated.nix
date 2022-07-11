@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5eaf93697ad2ee1c594373f68d76f7620eb46712";
+    version = "2936368e8070fc53dd4095a786be4d92d20c4158";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "5eaf93697ad2ee1c594373f68d76f7620eb46712";
+      rev = "2936368e8070fc53dd4095a786be4d92d20c4158";
       fetchSubmodules = false;
-      sha256 = "sha256-L8pFfskMM3hQRZqU7Ysp27rsesFEZRvHdM42QvHx4xY=";
+      sha256 = "sha256-jglwNi70IRAKv9bPdw3S5jq3Rrwe3KdkQJOXJVh8In4=";
     });
   };
   ibus = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6332";
+    version = "1.0.6334";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6332.tar.bz2";
-      sha256 = "sha256-aIwklLZUfqG15IDOmQdU9wdvUmYJtz9GlCGi8t1tr64=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6334.tar.bz2";
+      sha256 = "sha256-zaiwLvrq/3DAw6JZQ2xh+hyT56CfnR891Jchva/hxcQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6332";
+    version = "1.0.6334";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6332-1_all.deb";
-      sha256 = "sha256-NoIL5tN4LOivFQjruOmlnMQ4y7P7lzMbIGcnze6s1ZE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6334-1_all.deb";
+      sha256 = "sha256-l7QSa5fAsDbqoCxn0bG56BV5qGyYUOm0qRT/AtP/+GY=";
     };
   };
   jitsi-videobridge2 = {
@@ -888,45 +888,45 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "61ba6d06cc7b4ad95bb9effe93f7ccff8bb281b1";
+    version = "99ac1af9d2e750d5548ea0390818400f0a52aff0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "61ba6d06cc7b4ad95bb9effe93f7ccff8bb281b1";
+      rev = "99ac1af9d2e750d5548ea0390818400f0a52aff0";
       fetchSubmodules = false;
-      sha256 = "sha256-TcEmavYSc5TyH9vSKLSNzQmWXxwS9GbkhLjFKPe09ZM=";
+      sha256 = "sha256-uDHl1xw4Vs5x+chnZ5uyTrisqsRU4KoCKkT4jlqDL4o=";
     });
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.5.2";
+    version = "2.5.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.2/revanced-cli-2.5.2-all.jar";
-      sha256 = "sha256-KlvpZlAPSeevSHcRjwvE+MIpub21mmcKYywXCpHzAFo=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.5.3/revanced-cli-2.5.3-all.jar";
+      sha256 = "sha256-3PJV2vtDPn9n7S5cIlCDLi7N9xIbJ5hVspeVmc+rX5I=";
     };
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.21.9";
+    version = "0.22.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.21.9/app-release-unsigned.apk";
-      sha256 = "sha256-jPER4hMcr9nnoM3X3TKSnFHot+Y6QkXSA1arxa/1Wa8=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.22.0/app-release-unsigned.apk";
+      sha256 = "sha256-DMMi0wMEfdE+INW6XrXYJH9/qapy3du562rY8ytYnPI=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.12.4";
+    version = "2.13.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.4/revanced-patches-2.12.4.dex";
-      sha256 = "sha256-vGF54c1YKS46geVmJNmGL9y346kjHr1x6CL8LSlNYsw=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.0/revanced-patches-2.13.0.dex";
+      sha256 = "sha256-6Hzg2V+36JQlw5nZgb+Xg/ftvN3XlzZKn+ALpR8Ccd0=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.12.4";
+    version = "2.13.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.12.4/revanced-patches-2.12.4.jar";
-      sha256 = "sha256-cOyTpAAwR6aWD2WWocfmXo2XwR/Kva1//hFLFGe9BCg=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.0/revanced-patches-2.13.0.jar";
+      sha256 = "sha256-RD0APKqem/caNTFM0ArD+044GjAd6xM33zy1iYos3jU=";
     };
   };
   rofi-wayland = {
@@ -1034,14 +1034,14 @@
   };
   snui = {
     pname = "snui";
-    version = "1e23991e5f332e038640e37cbd4edeecf95daf9a";
+    version = "a7bcf3ded33b27a6f14bc3abbc98630d48cd8cab";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "1e23991e5f332e038640e37cbd4edeecf95daf9a";
+      rev = "a7bcf3ded33b27a6f14bc3abbc98630d48cd8cab";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-3U3nGKu6KqOmS4JPbR98pI4v+sQm57jrkYPVFQoTN70=";
+      sha256 = "sha256-7Wg9PTcTEsdSxiazHOkHkzZ8P624SwfuGronRhDKT74=";
     };
   };
   spicetify-cli = {
