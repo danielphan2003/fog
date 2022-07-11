@@ -28360,11 +28360,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Rg8oiwe8ZoqQlOWoDu3hcJ5VLW3Qud0/NGX73yPfl5M=",
+            "sha256": "sha256-01WhLL+UhnDEqAbulD6EtsqDuqn/udlv0crhnZ0WWCA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shardulm94/trailing-spaces/0.4.0/file/shardulm94.trailing-spaces-0.4.0.vsix"
+            "url": "https://open-vsx.org/api/shardulm94/trailing-spaces/0.4.1/file/shardulm94.trailing-spaces-0.4.1.vsix"
         },
-        "version": "0.4.0"
+        "version": "0.4.1"
     },
     "shaunlebron-vscode-parinfer": {
         "cargoLocks": null,
@@ -33509,11 +33509,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7ktT8KtzmEIDe/w/msJf3brNgwoHnFpHNtooKPu1gvI=",
+            "sha256": "sha256-wLVnrWOWQLpvXMAX3UTk+l2oPNjXf3Mhjxy6ScP4U14=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.12.0/file/vscode-icons-team.vscode-icons-11.12.0.vsix"
+            "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.13.0/file/vscode-icons-team.vscode-icons-11.13.0.vsix"
         },
-        "version": "11.12.0"
+        "version": "11.13.0"
     },
     "vscode-image-preview": {
         "cargoLocks": null,

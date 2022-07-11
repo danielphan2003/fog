@@ -17907,10 +17907,10 @@
   };
   shardulm94-trailing-spaces = {
     pname = "shardulm94-trailing-spaces";
-    version = "0.4.0";
+    version = "0.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shardulm94/trailing-spaces/0.4.0/file/shardulm94.trailing-spaces-0.4.0.vsix";
-      sha256 = "sha256-Rg8oiwe8ZoqQlOWoDu3hcJ5VLW3Qud0/NGX73yPfl5M=";
+      url = "https://open-vsx.org/api/shardulm94/trailing-spaces/0.4.1/file/shardulm94.trailing-spaces-0.4.1.vsix";
+      sha256 = "sha256-01WhLL+UhnDEqAbulD6EtsqDuqn/udlv0crhnZ0WWCA=";
     };
     license = "MIT";
     name = "trailing-spaces";
@@ -21159,10 +21159,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.12.0";
+    version = "11.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.12.0/file/vscode-icons-team.vscode-icons-11.12.0.vsix";
-      sha256 = "sha256-7ktT8KtzmEIDe/w/msJf3brNgwoHnFpHNtooKPu1gvI=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.13.0/file/vscode-icons-team.vscode-icons-11.13.0.vsix";
+      sha256 = "sha256-wLVnrWOWQLpvXMAX3UTk+l2oPNjXf3Mhjxy6ScP4U14=";
     };
     license = "MIT";
     name = "vscode-icons";
