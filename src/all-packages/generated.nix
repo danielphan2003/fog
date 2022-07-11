@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6338";
+    version = "1.0.6339";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6338.tar.bz2";
-      sha256 = "sha256-VIHoyEAM3MCWcxb57sL28aghIoj55F883R3ghhqq5W4=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6339.tar.bz2";
+      sha256 = "sha256-HKeHbh2QWgyWY1snhO3pELYMviIx0GAOlQtxhl3ZHBo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6338";
+    version = "1.0.6339";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6338-1_all.deb";
-      sha256 = "sha256-mCbQha7OTSbRY4wWSTdn92qQZaKjHv5mAfNUijEY9ic=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6339-1_all.deb";
+      sha256 = "sha256-EtLp4tqCn/IlTkDVLV7vpgyPRh7IzbeMoUKaPl8t+FM=";
     };
   };
   jitsi-videobridge2 = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f8d14a0af6af1f5e45339c8cd342296154aa6097";
+    version = "7b83636b6472eb24ca73fd641ca700e82cd2e244";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f8d14a0af6af1f5e45339c8cd342296154aa6097";
+      rev = "7b83636b6472eb24ca73fd641ca700e82cd2e244";
       fetchSubmodules = false;
-      sha256 = "sha256-5Gc+pe4kDjq9OWNmdjmbY/YpZAQDTWRmR8BWK/K+ftI=";
+      sha256 = "sha256-wlz6dFMlATHudD4U7D+pybNl8N5Ult6vIAaFBv7ZiJI=";
     });
   };
   revanced-cli = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.22.0";
+    version = "0.22.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.22.0/app-release-unsigned.apk";
-      sha256 = "sha256-DMMi0wMEfdE+INW6XrXYJH9/qapy3du562rY8ytYnPI=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.22.1/app-release-unsigned.apk";
+      sha256 = "sha256-H6p1j+yjzo9LKO2KhIFjD2K9SfdSeMDyElQQgRbdFXg=";
     };
   };
   revanced-patches-dex = {
@@ -1163,16 +1163,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "7655379324d131cb8fead64741efec85fb3305ac";
+    version = "b6cca65e077c3c23ea85744ca964b35f815d8946";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "7655379324d131cb8fead64741efec85fb3305ac";
+      rev = "b6cca65e077c3c23ea85744ca964b35f815d8946";
       fetchSubmodules = false;
-      sha256 = "sha256-+tXtYslYDNMisLAh7e8sJK8eOaAkluZNFFk37YsR9dg=";
+      sha256 = "sha256-yUup8aW2vUTAhEJnOpLdEA/xid7emTzKzS3JpGzJbk0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-7655379324d131cb8fead64741efec85fb3305ac/Cargo.lock;
+      lockFile = ./swhkd-b6cca65e077c3c23ea85744ca964b35f815d8946/Cargo.lock;
       outputHashes = {
         
       };

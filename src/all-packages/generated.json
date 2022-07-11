@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VIHoyEAM3MCWcxb57sL28aghIoj55F883R3ghhqq5W4=",
+            "sha256": "sha256-HKeHbh2QWgyWY1snhO3pELYMviIx0GAOlQtxhl3ZHBo=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6338.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6339.tar.bz2"
         },
-        "version": "1.0.6338"
+        "version": "1.0.6339"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mCbQha7OTSbRY4wWSTdn92qQZaKjHv5mAfNUijEY9ic=",
+            "sha256": "sha256-EtLp4tqCn/IlTkDVLV7vpgyPRh7IzbeMoUKaPl8t+FM=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6338-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6339-1_all.deb"
         },
-        "version": "1.0.6338"
+        "version": "1.0.6339"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "f8d14a0af6af1f5e45339c8cd342296154aa6097",
-            "sha256": "sha256-5Gc+pe4kDjq9OWNmdjmbY/YpZAQDTWRmR8BWK/K+ftI=",
+            "rev": "7b83636b6472eb24ca73fd641ca700e82cd2e244",
+            "sha256": "sha256-wlz6dFMlATHudD4U7D+pybNl8N5Ult6vIAaFBv7ZiJI=",
             "type": "github"
         },
-        "version": "f8d14a0af6af1f5e45339c8cd342296154aa6097"
+        "version": "7b83636b6472eb24ca73fd641ca700e82cd2e244"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1516,11 +1516,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DMMi0wMEfdE+INW6XrXYJH9/qapy3du562rY8ytYnPI=",
+            "sha256": "sha256-H6p1j+yjzo9LKO2KhIFjD2K9SfdSeMDyElQQgRbdFXg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.22.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.22.1/app-release-unsigned.apk"
         },
-        "version": "0.22.0"
+        "version": "0.22.1"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1930,7 +1930,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-7655379324d131cb8fead64741efec85fb3305ac/Cargo.lock",
+                "./swhkd-b6cca65e077c3c23ea85744ca964b35f815d8946/Cargo.lock",
                 {}
             ]
         },
@@ -1945,11 +1945,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "7655379324d131cb8fead64741efec85fb3305ac",
-            "sha256": "sha256-+tXtYslYDNMisLAh7e8sJK8eOaAkluZNFFk37YsR9dg=",
+            "rev": "b6cca65e077c3c23ea85744ca964b35f815d8946",
+            "sha256": "sha256-yUup8aW2vUTAhEJnOpLdEA/xid7emTzKzS3JpGzJbk0=",
             "type": "github"
         },
-        "version": "7655379324d131cb8fead64741efec85fb3305ac"
+        "version": "b6cca65e077c3c23ea85744ca964b35f815d8946"
     },
     "tailscale": {
         "cargoLocks": null,
