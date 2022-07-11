@@ -6759,10 +6759,10 @@
   };
   cloudstudio-coding-publish = {
     pname = "cloudstudio-coding-publish";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.1/file/cloudstudio.coding-publish-0.0.1.vsix";
-      sha256 = "sha256-Xcweo4/GbU5YHnhlVAVpkAtAHHwMB3NOAteR1drUmF4=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.2/file/cloudstudio.coding-publish-0.0.2.vsix";
+      sha256 = "sha256-BPTsICeqHE7QUsLXhrGI1EDdRB+IeHxFQu7qEm5ibPg=";
     };
     license = "MIT";
     name = "coding-publish";
@@ -6867,10 +6867,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.13/file/cloudstudio.workspaces-0.0.13.vsix";
-      sha256 = "sha256-HKYLzABp0Uq6R3KlZTfwxxzhP2NDSZDMhm1dhdRXQ0k=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.14/file/cloudstudio.workspaces-0.0.14.vsix";
+      sha256 = "sha256-i7XZntdJ8iTVlSTQNCVAUmKJB68wUFm7tz9SYWHdFYE=";
     };
     license = "MIT";
     name = "workspaces";

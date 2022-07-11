@@ -10709,11 +10709,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Xcweo4/GbU5YHnhlVAVpkAtAHHwMB3NOAteR1drUmF4=",
+            "sha256": "sha256-BPTsICeqHE7QUsLXhrGI1EDdRB+IeHxFQu7qEm5ibPg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.1/file/cloudstudio.coding-publish-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.2/file/cloudstudio.coding-publish-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "cloudstudio-coding-repositories": {
         "cargoLocks": null,
@@ -10880,11 +10880,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HKYLzABp0Uq6R3KlZTfwxxzhP2NDSZDMhm1dhdRXQ0k=",
+            "sha256": "sha256-i7XZntdJ8iTVlSTQNCVAUmKJB68wUFm7tz9SYWHdFYE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.13/file/cloudstudio.workspaces-0.0.13.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.14/file/cloudstudio.workspaces-0.0.14.vsix"
         },
-        "version": "0.0.13"
+        "version": "0.0.14"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
