@@ -13179,11 +13179,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YaIRl+rkWlFgra3tN7OGdQ+l2qWTi+BxGaGvXTN3tHs=",
+            "sha256": "sha256-W8AicfNdjSh5OQVn7uXjtPMfHW4zv25b5K+zRxQQfAs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.4/file/eliostruyf.vscode-front-matter-7.3.4.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.0.0/file/eliostruyf.vscode-front-matter-8.0.0.vsix"
         },
-        "version": "7.3.4"
+        "version": "8.0.0"
     },
     "eliostruyf-vscode-front-matter-beta": {
         "cargoLocks": null,
@@ -13198,11 +13198,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zRomEILLPGVlN4ry8VaNlv9tQuB3q8WKmE+hoXweYmY=",
+            "sha256": "sha256-dixT9lr++FpLeFR6ColbgeHLgLgpdos8N6jSI+Q5wXc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2581578/file/eliostruyf.vscode-front-matter-beta-8.0.2581578.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2650090/file/eliostruyf.vscode-front-matter-beta-8.0.2650090.vsix"
         },
-        "version": "8.0.2581578"
+        "version": "8.0.2650090"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,

@@ -8319,10 +8319,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "7.3.4";
+    version = "8.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/7.3.4/file/eliostruyf.vscode-front-matter-7.3.4.vsix";
-      sha256 = "sha256-YaIRl+rkWlFgra3tN7OGdQ+l2qWTi+BxGaGvXTN3tHs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.0.0/file/eliostruyf.vscode-front-matter-8.0.0.vsix";
+      sha256 = "sha256-W8AicfNdjSh5OQVn7uXjtPMfHW4zv25b5K+zRxQQfAs=";
     };
     license = "MIT";
     name = "vscode-front-matter";
@@ -8331,10 +8331,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2581578";
+    version = "8.0.2650090";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2581578/file/eliostruyf.vscode-front-matter-beta-8.0.2581578.vsix";
-      sha256 = "sha256-zRomEILLPGVlN4ry8VaNlv9tQuB3q8WKmE+hoXweYmY=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2650090/file/eliostruyf.vscode-front-matter-beta-8.0.2650090.vsix";
+      sha256 = "sha256-dixT9lr++FpLeFR6ColbgeHLgLgpdos8N6jSI+Q5wXc=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
