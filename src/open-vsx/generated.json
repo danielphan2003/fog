@@ -11697,11 +11697,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x+2h+DRtKJT9eTQU56T1MvHbteiQDPIkdfetzdS2vn4=",
+            "sha256": "sha256-9B6rHvacqxOOmmEY498pwWJGyylfrZASd5qDqDtnh5I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.4/file/cyrilletuzi.angular-schematics-5.2.4.vsix"
+            "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.5/file/cyrilletuzi.angular-schematics-5.2.5.vsix"
         },
-        "version": "5.2.4"
+        "version": "5.2.5"
     },
     "cyrusfirheir-twee3-language-tools": {
         "cargoLocks": null,
@@ -25345,6 +25345,25 @@
         },
         "version": "0.2.2"
     },
+    "plorefice-devicetree": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "plorefice-devicetree",
+        "passthru": {
+            "description": "DeviceTree Language Support for Visual Studio Code",
+            "license": "MIT",
+            "name": "devicetree",
+            "publisher": "plorefice"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Gmg8nOJd9D85NZW427T7ULowxDtAKar9Yrcn//dR6zs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/plorefice/devicetree/0.1.1/file/plorefice.devicetree-0.1.1.vsix"
+        },
+        "version": "0.1.1"
+    },
     "plushugh-plus-pro": {
         "cargoLocks": null,
         "extract": null,
@@ -31861,6 +31880,25 @@
             "url": "https://open-vsx.org/api/umbo/vscode-velociraptor/1.1.0/file/umbo.vscode-velociraptor-1.1.0.vsix"
         },
         "version": "1.1.0"
+    },
+    "unifiedjs-vscode-mdx": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "unifiedjs-vscode-mdx",
+        "passthru": {
+            "description": "Visual Studio Code extension for MDX",
+            "license": "MIT",
+            "name": "vscode-mdx",
+            "publisher": "unifiedjs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-uO5Uxa8zgYvb+AqUTQJVIZ+atO5T+McRI6kVJ1akalg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.0/file/unifiedjs.vscode-mdx-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "unoplatform-vscode": {
         "cargoLocks": null,

@@ -7383,10 +7383,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.2.4";
+    version = "5.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.4/file/cyrilletuzi.angular-schematics-5.2.4.vsix";
-      sha256 = "sha256-x+2h+DRtKJT9eTQU56T1MvHbteiQDPIkdfetzdS2vn4=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.5/file/cyrilletuzi.angular-schematics-5.2.5.vsix";
+      sha256 = "sha256-9B6rHvacqxOOmmEY498pwWJGyylfrZASd5qDqDtnh5I=";
     };
     license = "MIT";
     name = "angular-schematics";
@@ -16009,6 +16009,18 @@
     description = "Client for DreamMaker language server";
     publisher = "platymuus";
   };
+  plorefice-devicetree = {
+    pname = "plorefice-devicetree";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/plorefice/devicetree/0.1.1/file/plorefice.devicetree-0.1.1.vsix";
+      sha256 = "sha256-Gmg8nOJd9D85NZW427T7ULowxDtAKar9Yrcn//dR6zs=";
+    };
+    license = "MIT";
+    name = "devicetree";
+    description = "DeviceTree Language Support for Visual Studio Code";
+    publisher = "plorefice";
+  };
   plushugh-plus-pro = {
     pname = "plushugh-plus-pro";
     version = "0.0.1";
@@ -20124,6 +20136,18 @@
     name = "vscode-velociraptor";
     description = "Velociraptor support for VSCode";
     publisher = "umbo";
+  };
+  unifiedjs-vscode-mdx = {
+    pname = "unifiedjs-vscode-mdx";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.0/file/unifiedjs.vscode-mdx-1.0.0.vsix";
+      sha256 = "sha256-uO5Uxa8zgYvb+AqUTQJVIZ+atO5T+McRI6kVJ1akalg=";
+    };
+    license = "MIT";
+    name = "vscode-mdx";
+    description = "Visual Studio Code extension for MDX";
+    publisher = "unifiedjs";
   };
   unoplatform-vscode = {
     pname = "unoplatform-vscode";
