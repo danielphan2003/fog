@@ -73,6 +73,18 @@
     description = "Editor services for Angular templates";
     publisher = "Angular";
   };
+  AnishDe12020-orbi = {
+    pname = "AnishDe12020-orbi";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.0.1/file/AnishDe12020.orbi-1.0.1.vsix";
+      sha256 = "sha256-LkVTbis0LJ2VBfe5WkbAv1dppsn9mpWt8o1tAXyeiOQ=";
+    };
+    license = "MIT";
+    name = "orbi";
+    description = "A black and red VSCode theme";
+    publisher = "AnishDe12020";
+  };
   Antyos-openscad = {
     pname = "Antyos-openscad";
     version = "1.1.1";
@@ -327,10 +339,10 @@
   };
   BroadcomMFD-debugger-for-mainframe = {
     pname = "BroadcomMFD-debugger-for-mainframe";
-    version = "1.5.4";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.5.4/file/BroadcomMFD.debugger-for-mainframe-1.5.4.vsix";
-      sha256 = "sha256-MQveIGux9SKmk/ragOTPzDASnPQcmc58S7VZIfIz+ls=";
+      url = "https://open-vsx.org/api/BroadcomMFD/debugger-for-mainframe/1.6.0/file/BroadcomMFD.debugger-for-mainframe-1.6.0.vsix";
+      sha256 = "sha256-Y6Fs9pTJwbnJsbt8cvL29WL5C0hbb/q2X1+tzx5yHrg=";
     };
     license = "Broadcom";
     name = "debugger-for-mainframe";
@@ -3315,10 +3327,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.6.0";
+    version = "3.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.6.0/file/SonarSource.sonarlint-vscode-3.6.0.vsix";
-      sha256 = "sha256-05eEoQsCPbSUPOz7zEtgN7kZoI/1eKIXHmEunJWDfxY=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.7.0/file/SonarSource.sonarlint-vscode-3.7.0.vsix";
+      sha256 = "sha256-f49Yg//uUAc3k74yvzM9Ee4s+qLbbW5meAq7hqcm63c=";
     };
     license = "LGPL-3.0";
     name = "sonarlint-vscode";
@@ -4107,10 +4119,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.9.5";
+    version = "4.11.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.9.5/file/42Crunch.vscode-openapi-4.9.5.vsix";
-      sha256 = "sha256-s4ItemCwZrTon2OCKXE3xCGcve8tE/QpI0I2ZUFEENk=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.2/file/42Crunch.vscode-openapi-4.11.2.vsix";
+      sha256 = "sha256-fzYnw22NhZBPVmwWdK7mBznBItf4ChCKtoy/X24X++g=";
     };
     license = "AGPL-3.0-only";
     name = "vscode-openapi";
@@ -8017,6 +8029,18 @@
     description = "";
     publisher = "drupal-mentoring";
   };
+  dsrkafuu-vscode-theme-aofuji = {
+    pname = "dsrkafuu-vscode-theme-aofuji";
+    version = "0.3.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dsrkafuu/vscode-theme-aofuji/0.3.6/file/dsrkafuu.vscode-theme-aofuji-0.3.6.vsix";
+      sha256 = "sha256-lTbmBxWbD9dLrYh8JdgaeX+XsRWha/m6jVe09GA5fGg=";
+    };
+    license = "MPL-2.0";
+    name = "vscode-theme-aofuji";
+    description = "A clean light theme extended from Aofuji.";
+    publisher = "dsrkafuu";
+  };
   dsteenman-cdk-snippets = {
     pname = "dsteenman-cdk-snippets";
     version = "1.38.0";
@@ -9075,10 +9099,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.19.0";
+    version = "0.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.0/file/foam.foam-vscode-0.19.0.vsix";
-      sha256 = "sha256-A/z6lRbNDR2VRb8JJ71uef5ZhFzP9bR5/gjLEvMiKmc=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.1/file/foam.foam-vscode-0.19.1.vsix";
+      sha256 = "sha256-ZU7s3MgC+/fUkl6qxSAdyeECOhK9POCaKZJFQbAnNQM=";
     };
     license = "MIT";
     name = "foam-vscode";
@@ -9627,10 +9651,10 @@
   };
   glenn2223-live-sass = {
     pname = "glenn2223-live-sass";
-    version = "5.5.0";
+    version = "5.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/glenn2223/live-sass/5.5.0/file/glenn2223.live-sass-5.5.0.vsix";
-      sha256 = "sha256-Fslept+m94ae4v3cMJpFCBVnsIlEktiqUG6K5f60SZI=";
+      url = "https://open-vsx.org/api/glenn2223/live-sass/5.5.1/file/glenn2223.live-sass-5.5.1.vsix";
+      sha256 = "sha256-T/SxcUUmnhRZyT+jnmPZw6o9wyQ//m3+24+qJ5dTuyE=";
     };
     license = "MIT";
     name = "live-sass";
@@ -9747,10 +9771,10 @@
   };
   gpoore-codebraid-preview = {
     pname = "gpoore-codebraid-preview";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.7.0/file/gpoore.codebraid-preview-0.7.0.vsix";
-      sha256 = "sha256-SLe9JFEmRTIVAkyVQvCj4WW76NspHiBmHGEoCnWMZp8=";
+      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.8.0/file/gpoore.codebraid-preview-0.8.0.vsix";
+      sha256 = "sha256-aV/FouqC6aLtTY2hkaAPukit2e1Y7jenTxv6lMpMDOI=";
     };
     license = "See license in LICENSE.txt (BSD 3-Clause except as noted otherwise)";
     name = "codebraid-preview";
