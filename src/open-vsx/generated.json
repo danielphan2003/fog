@@ -3793,11 +3793,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JXqsXNHuL3j00xrlREqp4/eoMflyFUhdsANJAdi6qOg=",
+            "sha256": "sha256-z9LM0+v0LiGgk5K109Ee08w56ALWgwz/m7Y8RfEbIaA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.23/file/Marko-JS.marko-vscode-0.17.23.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.24/file/Marko-JS.marko-vscode-0.17.24.vsix"
         },
-        "version": "0.17.23"
+        "version": "0.17.24"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -11108,11 +11108,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sCjSzNY1IV1o+c2bcKZpJgzHCygQnvNuCkxXRlxkEIM=",
+            "sha256": "sha256-AkyZDcyWsQSpr091zJU0s6cq6ibAwinSt7pT9JlNl08=",
             "type": "url",
-            "url": "https://open-vsx.org/api/codezombiech/gitignore/0.7.0/file/codezombiech.gitignore-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/codezombiech/gitignore/0.8.0/file/codezombiech.gitignore-0.8.0.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.8.0"
     },
     "codingyu-laravel-goto-view": {
         "cargoLocks": null,
@@ -20171,11 +20171,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EzRYgxc/KV38Pu/DvnMlJYL+BRQtwdLooZD4C+NXqDA=",
+            "sha256": "sha256-fXu+4wFlPNh4q+pbXt7/Ww9D6+XQiEdupTop9Xx5q3M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.18/file/llvm-vs-code-extensions.vscode-clangd-0.1.18.vsix"
+            "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.19/file/llvm-vs-code-extensions.vscode-clangd-0.1.19.vsix"
         },
-        "version": "0.1.18"
+        "version": "0.1.19"
     },
     "lokalise-i18n-ally": {
         "cargoLocks": null,

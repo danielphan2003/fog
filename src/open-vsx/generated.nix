@@ -2391,10 +2391,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.23";
+    version = "0.17.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.23/file/Marko-JS.marko-vscode-0.17.23.vsix";
-      sha256 = "sha256-JXqsXNHuL3j00xrlREqp4/eoMflyFUhdsANJAdi6qOg=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.24/file/Marko-JS.marko-vscode-0.17.24.vsix";
+      sha256 = "sha256-z9LM0+v0LiGgk5K109Ee08w56ALWgwz/m7Y8RfEbIaA=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -7011,10 +7011,10 @@
   };
   codezombiech-gitignore = {
     pname = "codezombiech-gitignore";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codezombiech/gitignore/0.7.0/file/codezombiech.gitignore-0.7.0.vsix";
-      sha256 = "sha256-sCjSzNY1IV1o+c2bcKZpJgzHCygQnvNuCkxXRlxkEIM=";
+      url = "https://open-vsx.org/api/codezombiech/gitignore/0.8.0/file/codezombiech.gitignore-0.8.0.vsix";
+      sha256 = "sha256-AkyZDcyWsQSpr091zJU0s6cq6ibAwinSt7pT9JlNl08=";
     };
     license = "MIT";
     name = "gitignore";
@@ -12735,10 +12735,10 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.18";
+    version = "0.1.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.18/file/llvm-vs-code-extensions.vscode-clangd-0.1.18.vsix";
-      sha256 = "sha256-EzRYgxc/KV38Pu/DvnMlJYL+BRQtwdLooZD4C+NXqDA=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.19/file/llvm-vs-code-extensions.vscode-clangd-0.1.19.vsix";
+      sha256 = "sha256-fXu+4wFlPNh4q+pbXt7/Ww9D6+XQiEdupTop9Xx5q3M=";
     };
     license = "MIT";
     name = "vscode-clangd";
