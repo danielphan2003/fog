@@ -1751,11 +1751,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "77f0801f8ac3d9f8fc8f670b2356a619790fad4e",
-            "sha256": "sha256-7njaXDh4vjqWSes3bMm2TOIbqA4fsLDFos9vqb3YIVY=",
+            "rev": "e99786e480725d07ad8677601f407a1801ccd169",
+            "sha256": "sha256-kOkkZQ5Kff2SHzePHwD6LsV/Djh6KSw/HknttLp06po=",
             "type": "github"
         },
-        "version": "77f0801f8ac3d9f8fc8f670b2356a619790fad4e"
+        "version": "e99786e480725d07ad8677601f407a1801ccd169"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
