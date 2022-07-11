@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "fd75958f57f4ce86acf61b2e70b08667dbd5288d";
+    version = "5c9b0d270f07e6f7ff3d7f02df9a6a163d1def02";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "fd75958f57f4ce86acf61b2e70b08667dbd5288d";
+      rev = "5c9b0d270f07e6f7ff3d7f02df9a6a163d1def02";
       fetchSubmodules = false;
-      sha256 = "sha256-Yd3kIpqzzL3NX+pmjP5byx635kfREjkG2hFMEw6JCK0=";
+      sha256 = "sha256-ssgjnnL8C7e7EjRqhsywwANqVhhAqzCLpIpyDbKCkt4=";
     });
   };
   caddy = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "2936368e8070fc53dd4095a786be4d92d20c4158";
+    version = "4c4c36096ba522a9462cd4dc17156879168a7b50";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "2936368e8070fc53dd4095a786be4d92d20c4158";
+      rev = "4c4c36096ba522a9462cd4dc17156879168a7b50";
       fetchSubmodules = false;
-      sha256 = "sha256-jglwNi70IRAKv9bPdw3S5jq3Rrwe3KdkQJOXJVh8In4=";
+      sha256 = "sha256-DwmD0bXqkXWhDOxTXJc0Ss5lDv+dpyUuk488VmEb63A=";
     });
   };
   ibus = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6334";
+    version = "1.0.6336";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6334.tar.bz2";
-      sha256 = "sha256-zaiwLvrq/3DAw6JZQ2xh+hyT56CfnR891Jchva/hxcQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6336.tar.bz2";
+      sha256 = "sha256-x5DhpXjmP3uOBicvY3Xoq4h1d3z7gF1D3RvqxWFOwBM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6334";
+    version = "1.0.6336";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6334-1_all.deb";
-      sha256 = "sha256-l7QSa5fAsDbqoCxn0bG56BV5qGyYUOm0qRT/AtP/+GY=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6336-1_all.deb";
+      sha256 = "sha256-EnBS10u1Y74qxTAHwtzQszLFRK1P/M+w1nniesIOObU=";
     };
   };
   jitsi-videobridge2 = {
@@ -915,18 +915,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.13.0";
+    version = "2.13.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.0/revanced-patches-2.13.0.dex";
-      sha256 = "sha256-6Hzg2V+36JQlw5nZgb+Xg/ftvN3XlzZKn+ALpR8Ccd0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.1/revanced-patches-2.13.1.dex";
+      sha256 = "sha256-8MMfPPf360OCVGwJlNiQTeUr+GgzRs0sPRTDtXDzIts=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.13.0";
+    version = "2.13.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.0/revanced-patches-2.13.0.jar";
-      sha256 = "sha256-RD0APKqem/caNTFM0ArD+044GjAd6xM33zy1iYos3jU=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.1/revanced-patches-2.13.1.jar";
+      sha256 = "sha256-YCHJfht89HSlvcQiAkmV5rxkRXZ8X/AYB8A4L9vbhV0=";
     };
   };
   rofi-wayland = {
