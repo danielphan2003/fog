@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "4c4c36096ba522a9462cd4dc17156879168a7b50",
-            "sha256": "sha256-DwmD0bXqkXWhDOxTXJc0Ss5lDv+dpyUuk488VmEb63A=",
+            "rev": "ab44aabbd717a23f60f29fbafdaab0226326b814",
+            "sha256": "sha256-HOkRcGWWZCn8ZbR7OHmehnARNuRNkmDpEMVyk+ZnEkM=",
             "type": "github"
         },
-        "version": "4c4c36096ba522a9462cd4dc17156879168a7b50"
+        "version": "ab44aabbd717a23f60f29fbafdaab0226326b814"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "7b83636b6472eb24ca73fd641ca700e82cd2e244",
-            "sha256": "sha256-wlz6dFMlATHudD4U7D+pybNl8N5Ult6vIAaFBv7ZiJI=",
+            "rev": "4bcc4790413e79bd500fb8905269c50c78248bdf",
+            "sha256": "sha256-4YjJtsKF1IeWSkXkXPdGTY6agqiMQ7ce45swuqUu3N8=",
             "type": "github"
         },
-        "version": "7b83636b6472eb24ca73fd641ca700e82cd2e244"
+        "version": "4bcc4790413e79bd500fb8905269c50c78248bdf"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8MMfPPf360OCVGwJlNiQTeUr+GgzRs0sPRTDtXDzIts=",
+            "sha256": "sha256-4LV5X/FDXj2qzo3RQIh01Blz/pDjMDJDFIOyJUJDc9Y=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.1/revanced-patches-2.13.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.2/revanced-patches-2.13.2.dex"
         },
-        "version": "2.13.1"
+        "version": "2.13.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1544,11 +1544,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YCHJfht89HSlvcQiAkmV5rxkRXZ8X/AYB8A4L9vbhV0=",
+            "sha256": "sha256-MTUsCqqNXaRtlAy3KkcDxXEsMNLPbZHXAEF73OUs3V0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.1/revanced-patches-2.13.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.2/revanced-patches-2.13.2.jar"
         },
-        "version": "2.13.1"
+        "version": "2.13.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1731,12 +1731,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "a7bcf3ded33b27a6f14bc3abbc98630d48cd8cab",
-            "sha256": "sha256-7Wg9PTcTEsdSxiazHOkHkzZ8P624SwfuGronRhDKT74=",
+            "rev": "ad03b7e2dafbdb6f6d0f53d3e19d07fc5648bf80",
+            "sha256": "sha256-9Np5TqT4ErjHWSG3Q7ujn9lLpTM5NeTCkktYKuq4BXg=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "a7bcf3ded33b27a6f14bc3abbc98630d48cd8cab"
+        "version": "ad03b7e2dafbdb6f6d0f53d3e19d07fc5648bf80"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -1964,11 +1964,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "d6b8a18b09d2c24111777d51f79fd63680023438",
-            "sha256": "sha256-e4joZc6Qwq9FSAYIpM/9OOLmzw4gRMXPOmQ4A5IaWSA=",
+            "rev": "e37167b3ef6631b589e7751c7db79ff9a747e993",
+            "sha256": "sha256-IT9jGiFZRAcxjsPAHNAnMns2PtUKn5HT55LEfrnG4zM=",
             "type": "github"
         },
-        "version": "d6b8a18b09d2c24111777d51f79fd63680023438"
+        "version": "e37167b3ef6631b589e7751c7db79ff9a747e993"
     },
     "tailscale-systray": {
         "cargoLocks": null,
