@@ -453,6 +453,11 @@ fetch.github = "fluix-dev/sway-borders"
 src.git = "https://github.com/mortie/swaylock-effects"
 fetch.github = "mortie/swaylock-effects"
 
+[swhkd]
+src.git = "https://github.com/waycrate/swhkd"
+fetch.github = "waycrate/swhkd"
+cargo_locks = [ "Cargo.lock" ]
+
 [teams]
 src.webpage = "https://packages.microsoft.com/repos/ms-teams/pool/main/t/teams"
 src.regex = "teams_(.*)_amd64\\.deb\">teams_"
