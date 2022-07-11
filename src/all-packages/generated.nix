@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "513f087f50e984cbd974eef8114b288b6a7e5472";
+    version = "f0d71eb0115963e76bb782a1dcaa58d5c94cff10";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "513f087f50e984cbd974eef8114b288b6a7e5472";
+      rev = "f0d71eb0115963e76bb782a1dcaa58d5c94cff10";
       fetchSubmodules = false;
-      sha256 = "sha256-Lvn83Re7jH7phVGyaHEwt2fnyVkcl26crCCr3H/XIRs=";
+      sha256 = "sha256-03QZq21KnGaTS3tWh5ItHaD8zqSkW1he6bREiJjWC/M=";
     });
   };
   caddy = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ad66c158ba793c424519eaee0a64fb81860f5e3c";
+    version = "668dc9bd9c530757d8bcb308ecdc76bf4f705a88";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "ad66c158ba793c424519eaee0a64fb81860f5e3c";
+      rev = "668dc9bd9c530757d8bcb308ecdc76bf4f705a88";
       fetchSubmodules = false;
-      sha256 = "sha256-MVtfdG70IgREWeWOljpig1FTJQYIzZHMRJxQqGkoRZM=";
+      sha256 = "sha256-skdlKRqcWAMKnLJEm/GQ6Gx0sNdL6IDylfIn8Cr17c8=";
     });
   };
   ibus = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-907";
+    version = "1.0-908";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-907-1_all.deb";
-      sha256 = "sha256-L8AqeYvxzE+RzO8O2fy/pll7vevtnWvAxTQjYQS05QY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-908-1_all.deb";
+      sha256 = "sha256-lnW+G4c9oOE3K886MXVDOQfwn2CXqKPhyaRTUPeBQCY=";
     };
   };
   jitsi-meet = {
