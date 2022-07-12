@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8af6ea3808ae2af6d27aac0ad79520e3598b60d7";
+    version = "7bff056377815992968fed0a2f038cc131e3eb8b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8af6ea3808ae2af6d27aac0ad79520e3598b60d7";
+      rev = "7bff056377815992968fed0a2f038cc131e3eb8b";
       fetchSubmodules = false;
-      sha256 = "sha256-xcyHv0A/jHN+PJJAEim8JEd414+BiTXa52hCWwdeRPw=";
+      sha256 = "sha256-XRAGzgLO/1cuQBlCwyzfLKBDwaDqSTglLjmgVtJuIh4=";
     });
   };
   caddy = {
@@ -751,13 +751,13 @@
   };
   picom = {
     pname = "picom";
-    version = "cd50596f0ed81c0aa28cefed62176bd6f050a1c6";
+    version = "e2ed9125ed1309503a3a901a8b3a47e29a2cbfb5";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "cd50596f0ed81c0aa28cefed62176bd6f050a1c6";
+      rev = "e2ed9125ed1309503a3a901a8b3a47e29a2cbfb5";
       fetchSubmodules = false;
-      sha256 = "sha256-e0Zd/kVqRiYUL6afsp4+JHKSe0qtNLyBE2s6Nem4A1I=";
+      sha256 = "sha256-M9eOV+3RrxMR1b29CV63O2tWZ/iQg2PtXFVsKqr7+d8=";
     });
   };
   plymouth-themes = {
