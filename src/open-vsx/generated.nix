@@ -3435,10 +3435,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.54";
+    version = "0.0.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.54/file/TI.devspacesplus-0.0.54.vsix";
-      sha256 = "sha256-+lv3LGUoRUtoH3Bi1KMcSgkpufKe+IM49kHUgk7XAG8=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.55/file/TI.devspacesplus-0.0.55.vsix";
+      sha256 = "sha256-4dnnyaEtkHvEYy4i/iuNFa9G1AGMfQ91We6QEZBg17Q=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -16119,10 +16119,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.393";
+    version = "0.26.394";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.393/file/pokey.cursorless-0.26.393.vsix";
-      sha256 = "sha256-E4G8c0fVKsR2F01EkY8Nbo/RKhOm5DvirjlzfNNuS84=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.394/file/pokey.cursorless-0.26.394.vsix";
+      sha256 = "sha256-/1vrM3/o5wqiG+DQ0tEopuVUuyK+sakbV0SodBqJKvk=";
     };
     license = "MIT";
     name = "cursorless";

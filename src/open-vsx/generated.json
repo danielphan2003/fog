@@ -5446,11 +5446,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+lv3LGUoRUtoH3Bi1KMcSgkpufKe+IM49kHUgk7XAG8=",
+            "sha256": "sha256-4dnnyaEtkHvEYy4i/iuNFa9G1AGMfQ91We6QEZBg17Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.54/file/TI.devspacesplus-0.0.54.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.55/file/TI.devspacesplus-0.0.55.vsix"
         },
-        "version": "0.0.54"
+        "version": "0.0.55"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -25529,11 +25529,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-E4G8c0fVKsR2F01EkY8Nbo/RKhOm5DvirjlzfNNuS84=",
+            "sha256": "sha256-/1vrM3/o5wqiG+DQ0tEopuVUuyK+sakbV0SodBqJKvk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.393/file/pokey.cursorless-0.26.393.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.394/file/pokey.cursorless-0.26.394.vsix"
         },
-        "version": "0.26.393"
+        "version": "0.26.394"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
