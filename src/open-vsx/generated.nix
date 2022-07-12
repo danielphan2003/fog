@@ -795,10 +795,10 @@
   };
   Desdaemon-vscode-odoo-import = {
     pname = "Desdaemon-vscode-odoo-import";
-    version = "0.0.1";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Desdaemon/vscode-odoo-import/0.0.1/file/Desdaemon.vscode-odoo-import-0.0.1.vsix";
-      sha256 = "sha256-6h93wXk5IujOpqUVdqxzKDctCyfen23Z99/11rChjvo=";
+      url = "https://open-vsx.org/api/Desdaemon/vscode-odoo-import/0.1.0/file/Desdaemon.vscode-odoo-import-0.1.0.vsix";
+      sha256 = "sha256-6rApKNucPK8pfmbKLJJUfrpBa+tHMIDkA3PheSXMOkU=";
     };
     license = "MIT";
     name = "vscode-odoo-import";
