@@ -199,24 +199,24 @@
   };
   bottles = {
     pname = "bottles";
-    version = "671fa6706b8b6c6014b2684089254fc76cf85e6b";
+    version = "0362f8c371f2b3aca7758a173abf07258bc8887a";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "671fa6706b8b6c6014b2684089254fc76cf85e6b";
+      rev = "0362f8c371f2b3aca7758a173abf07258bc8887a";
       fetchSubmodules = false;
-      sha256 = "sha256-FtbodJsfM3A19CCmV96ZXRuw7/OPs0m1ffDTn2eAGXQ=";
+      sha256 = "sha256-8O6dqqlAtbDH/vtmKMwHP6C1PR5FSLtfhsiPgFXNGxU=";
     });
   };
   caddy = {
     pname = "caddy";
-    version = "v2.5.1";
+    version = "v2.5.2";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "v2.5.1";
+      rev = "v2.5.2";
       fetchSubmodules = false;
-      sha256 = "sha256-Y4GAx/8XcW7+6eXCQ6k4e/3WZ/6MkTr5za1AXp6El9o=";
+      sha256 = "sha256-Z9A2DRdX0LWjIKdHAHk2IRxsUzvC90Gf5ohFLXNHcsw=";
     });
   };
   caddy-git = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f7194e167f98812aca7954ee8d880889d42765c9";
+    version = "c4fb055fdb8dab382cc057ddf8804640491979a6";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f7194e167f98812aca7954ee8d880889d42765c9";
+      rev = "c4fb055fdb8dab382cc057ddf8804640491979a6";
       fetchSubmodules = false;
-      sha256 = "sha256-Mj+qbDqgPWX7ixLIS6SeTSZeR+ojqUyesnIYMOm9gLo=";
+      sha256 = "sha256-E9z9ozHHrN98ONXQrH/RVaRgSVhPsyFKmDV4Ol4GUoA=";
     });
   };
   revanced-cli = {
@@ -1180,13 +1180,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "755396d6fe77cbee6a32937fea9e58d5c175d047";
+    version = "96afd1db467d44a7a72328f3e6aecfc0b0ff46bb";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "755396d6fe77cbee6a32937fea9e58d5c175d047";
+      rev = "96afd1db467d44a7a72328f3e6aecfc0b0ff46bb";
       fetchSubmodules = false;
-      sha256 = "sha256-a+QfQwGFlos+PVtODInCEljlGJWgGONABKcOJA7JhSg=";
+      sha256 = "sha256-CK7KZhVqR6E+yGt4L0Jb9lOnOh3lfUYw8+IQQf9UBSw=";
     });
   };
   tailscale-systray = {
