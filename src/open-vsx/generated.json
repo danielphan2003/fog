@@ -3242,11 +3242,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Tu8cdDhNmFMfRBkdbs5EcnSe3dsA6oPxriOSwF66LII=",
+            "sha256": "sha256-aWbTpKMvJwo4UZVRA7bcp40gEQeI6a23eyCeR1O0mG4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.11/file/LuqueDaniel.languague-renpy-2.0.11.vsix"
+            "url": "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.12/file/LuqueDaniel.languague-renpy-2.0.12.vsix"
         },
-        "version": "2.0.11"
+        "version": "2.0.12"
     },
     "Luxcium-pop-n-lock-theme-vscode": {
         "cargoLocks": null,
@@ -6035,11 +6035,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wTnpz+NDWsesaE9IGKUSf1OvME/Oovfe0/VsDF9QWoM=",
+            "sha256": "sha256-+et5IuuGg49x3r1Bx1hxBIY3J+n4/8aSr/SELu4Kyvc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.2/file/WatermelonTools.watermelon-tools-1.4.2.vsix"
+            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.4/file/WatermelonTools.watermelon-tools-1.4.4.vsix"
         },
-        "version": "1.4.2"
+        "version": "1.4.4"
     },
     "Wattenberger-footsteps": {
         "cargoLocks": null,
@@ -8106,11 +8106,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bpWY5S1vKuRx/JTkyCSTsIJoLb4LCe2a6IeEAtw0E6s=",
+            "sha256": "sha256-KLx0PAT11j6m/6uF9OALTHD1jfWlOJhRbr5++yHQayg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.4/file/anweber.vscode-httpyac-5.5.4.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.5/file/anweber.vscode-httpyac-5.5.5.vsix"
         },
-        "version": "5.5.4"
+        "version": "5.5.5"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
@@ -20171,11 +20171,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fXu+4wFlPNh4q+pbXt7/Ww9D6+XQiEdupTop9Xx5q3M=",
+            "sha256": "sha256-Hu05zP6GW0hFrBxJGss1JEe2wS+kn6Qp/PpZe4j/69A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.19/file/llvm-vs-code-extensions.vscode-clangd-0.1.19.vsix"
+            "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.20/file/llvm-vs-code-extensions.vscode-clangd-0.1.20.vsix"
         },
-        "version": "0.1.19"
+        "version": "0.1.20"
     },
     "lokalise-i18n-ally": {
         "cargoLocks": null,

@@ -2043,10 +2043,10 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.11";
+    version = "2.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.11/file/LuqueDaniel.languague-renpy-2.0.11.vsix";
-      sha256 = "sha256-Tu8cdDhNmFMfRBkdbs5EcnSe3dsA6oPxriOSwF66LII=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.12/file/LuqueDaniel.languague-renpy-2.0.12.vsix";
+      sha256 = "sha256-aWbTpKMvJwo4UZVRA7bcp40gEQeI6a23eyCeR1O0mG4=";
     };
     license = "MIT";
     name = "languague-renpy";
@@ -3807,10 +3807,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.4.2";
+    version = "1.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.2/file/WatermelonTools.watermelon-tools-1.4.2.vsix";
-      sha256 = "sha256-wTnpz+NDWsesaE9IGKUSf1OvME/Oovfe0/VsDF9QWoM=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.4/file/WatermelonTools.watermelon-tools-1.4.4.vsix";
+      sha256 = "sha256-+et5IuuGg49x3r1Bx1hxBIY3J+n4/8aSr/SELu4Kyvc=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -5115,10 +5115,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.5.4";
+    version = "5.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.4/file/anweber.vscode-httpyac-5.5.4.vsix";
-      sha256 = "sha256-bpWY5S1vKuRx/JTkyCSTsIJoLb4LCe2a6IeEAtw0E6s=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.5/file/anweber.vscode-httpyac-5.5.5.vsix";
+      sha256 = "sha256-KLx0PAT11j6m/6uF9OALTHD1jfWlOJhRbr5++yHQayg=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -12735,10 +12735,10 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.19";
+    version = "0.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.19/file/llvm-vs-code-extensions.vscode-clangd-0.1.19.vsix";
-      sha256 = "sha256-fXu+4wFlPNh4q+pbXt7/Ww9D6+XQiEdupTop9Xx5q3M=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.20/file/llvm-vs-code-extensions.vscode-clangd-0.1.20.vsix";
+      sha256 = "sha256-Hu05zP6GW0hFrBxJGss1JEe2wS+kn6Qp/PpZe4j/69A=";
     };
     license = "MIT";
     name = "vscode-clangd";
