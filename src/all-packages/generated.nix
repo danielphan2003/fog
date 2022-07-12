@@ -136,13 +136,13 @@
   };
   avizo = {
     pname = "avizo";
-    version = "b1a271d0562c1feadfdd24a9f2fc03634c6eb0de";
+    version = "67af5fd55279c25546d79cebdb4cb73440093082";
     src = fetchFromGitHub ({
       owner = "misterdanb";
       repo = "avizo";
-      rev = "b1a271d0562c1feadfdd24a9f2fc03634c6eb0de";
+      rev = "67af5fd55279c25546d79cebdb4cb73440093082";
       fetchSubmodules = false;
-      sha256 = "sha256-ainU4nXWFp1udVujPHZUeWIfJE4RrjU1hn9J17UuuzU=";
+      sha256 = "sha256-bZE9uTAaKUFP3zw6pJB8xpZjN00vM7lntn5zG3+2CYc=";
     });
   };
   awesome = {
@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "d6bc9e0b5c748c999e30051bf04d622dbbb0a156";
+    version = "ad3a83fb9169899226ce12a61c16b5bf4d03c482";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "d6bc9e0b5c748c999e30051bf04d622dbbb0a156";
+      rev = "ad3a83fb9169899226ce12a61c16b5bf4d03c482";
       fetchSubmodules = false;
-      sha256 = "sha256-Hf1Mgf25MJIQdqnEgA758g42Q5+LFgtUJr21Us3neZk=";
+      sha256 = "sha256-Z9A2DRdX0LWjIKdHAHk2IRxsUzvC90Gf5ohFLXNHcsw=";
     });
   };
   cinny = {
@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "b9e72225f9dd9abf1e6d7ebc37c0952594bbb16a";
+    version = "f39213ca9b0dc70fcba35e7255310afe0640fd6d";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "b9e72225f9dd9abf1e6d7ebc37c0952594bbb16a";
+      rev = "f39213ca9b0dc70fcba35e7255310afe0640fd6d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ABbzHjiMY2IyVh0eNtwQRfc8icZIHGt6ebsMFA8w3ks=";
+      sha256 = "sha256-9P/CghJDU+sLshelGgerNfp+w+RJ/7toxx0iFeE33hI=";
     };
   };
   flyingfox = {
@@ -667,10 +667,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.33.0";
+    version = "0.33.1";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.33.0.tar.gz";
-      sha256 = "sha256-yV1UbCqM9JyA0C+cdlOPfWpKrkJdpe0ZMPYjL+94acc=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.33.1.tar.gz";
+      sha256 = "sha256-1fMvCX+nh8RCZoAqIU/9wTEZw2PzN4BTggug/ejjdjA=";
     };
   };
   nix-zsh-completions = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.23.2";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.23.2/app-release-unsigned.apk";
-      sha256 = "sha256-fbFrxHJp+eV6e3epl8zSe7+dKZr/9wCx7ksA73vaD0k=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.24.0/app-release-unsigned.apk";
+      sha256 = "sha256-RGPR76atonIkEPrEbUslL8pthna50n7w30BoMiIQtwM=";
     };
   };
   revanced-patches-dex = {
