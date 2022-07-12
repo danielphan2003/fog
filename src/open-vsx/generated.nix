@@ -6879,10 +6879,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.14/file/cloudstudio.workspaces-0.0.14.vsix";
-      sha256 = "sha256-i7XZntdJ8iTVlSTQNCVAUmKJB68wUFm7tz9SYWHdFYE=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.15/file/cloudstudio.workspaces-0.0.15.vsix";
+      sha256 = "sha256-7qKIE7t1mbHjthDiBqZHg7SpB/gbEIwv7H7X3GuPxug=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7827,10 +7827,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.102.6";
+    version = "0.102.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.102.6/file/dendron.nightly-0.102.6.vsix";
-      sha256 = "sha256-QHolkqJ6xFsia2Iwc9J4Gho/KV5wBpSWJiGnQsVvWFU=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.102.7/file/dendron.nightly-0.102.7.vsix";
+      sha256 = "sha256-o+Z/1KFm/RwYowZXWEF15JCx2SVcZrK008YSjGIeo/g=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -19239,10 +19239,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.40";
+    version = "0.0.43";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.40/file/t-codespaces.ide-data-sync-0.0.40.vsix";
-      sha256 = "sha256-XtYkuK0j8jaFs5mGSdfjl+JPHw3BsPcrd5Df27BE6QA=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.43/file/t-codespaces.ide-data-sync-0.0.43.vsix";
+      sha256 = "sha256-vayZPo/3PiMTPMbU+WcTQHqu9of4vhwUayQs3qe6Wmk=";
     };
     license = "";
     name = "ide-data-sync";
