@@ -248,11 +248,11 @@
             "name": null,
             "owner": "awesomeWM",
             "repo": "awesome",
-            "rev": "9ca7bb487a5d1d2d5c102f94cd9e8cb5b6e7ffaa",
-            "sha256": "sha256-RRpwAIYNLkovXI0y/eXO9uRDqB4qQcXlnYYUCEmx/EA=",
+            "rev": "b7bac1dc761f7e231355e76351500a97b27b6803",
+            "sha256": "sha256-SxydaQScu0kvBn3VOnT29/Sji0Y+7my+tO46mpMggAQ=",
             "type": "github"
         },
-        "version": "9ca7bb487a5d1d2d5c102f94cd9e8cb5b6e7ffaa"
+        "version": "b7bac1dc761f7e231355e76351500a97b27b6803"
     },
     "awestore": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "83655420f6b1e43f3e430a90e8dc1b9015c7c961",
-            "sha256": "sha256-c3Y+SztopNWDg2i30Nnd8U7SUQtJkABcUHHIaQOA2Cc=",
+            "rev": "69ddf03c9197b1c3293327e1ec024b3ba70bcbaa",
+            "sha256": "sha256-Vyw+e/jM2Kp8KRGdXFQrnCzdL89rFP8umx9tI2dO/a8=",
             "type": "github"
         },
-        "version": "83655420f6b1e43f3e430a90e8dc1b9015c7c961"
+        "version": "69ddf03c9197b1c3293327e1ec024b3ba70bcbaa"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1516,11 +1516,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QatrB6KjYcxQmhkpPf0urQFiAr2g3JRPsXBGf95mc1w=",
+            "sha256": "sha256-fbFrxHJp+eV6e3epl8zSe7+dKZr/9wCx7ksA73vaD0k=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.23.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.23.2/app-release-unsigned.apk"
         },
-        "version": "0.23.0"
+        "version": "0.23.2"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1572,7 +1572,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-7db82a22a9d1712289e760a458d3c76625b596fc/Cargo.lock",
+                "./rustdesk-4e45bc0ee07f97aa538f3e4245f33661bfc88e7f/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "hwcodec-0.1.0": "sha256-tkxs8pjO6vwG4LqVmhTB35kalibD1VbOcDEFxpTb048=",
@@ -1596,11 +1596,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "7db82a22a9d1712289e760a458d3c76625b596fc",
+            "rev": "4e45bc0ee07f97aa538f3e4245f33661bfc88e7f",
             "sha256": "sha256-luDFC1UjibzhDClzf/CqsRU03XPA2GN9iQRdH7d+sLE=",
             "type": "github"
         },
-        "version": "7db82a22a9d1712289e760a458d3c76625b596fc"
+        "version": "4e45bc0ee07f97aa538f3e4245f33661bfc88e7f"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -2030,11 +2030,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "ee6a35bd1c114b9f19768b14fcf526e80d89bec2",
-            "sha256": "sha256-m8kqhMe4b4vAMS8X0/HvEgQGxvrfRiuYZEzRAd2Vzm0=",
+            "rev": "b6c7e6777c891be21cb73de28f9c010c0484e367",
+            "sha256": "sha256-LAa0+Wa4c/VGXUkPf7WhSvKpYqIYMgg7bVuf5XA29tM=",
             "type": "github"
         },
-        "version": "ee6a35bd1c114b9f19768b14fcf526e80d89bec2"
+        "version": "b6c7e6777c891be21cb73de28f9c010c0484e367"
     },
     "ultimmc": {
         "cargoLocks": null,

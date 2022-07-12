@@ -147,13 +147,13 @@
   };
   awesome = {
     pname = "awesome";
-    version = "9ca7bb487a5d1d2d5c102f94cd9e8cb5b6e7ffaa";
+    version = "b7bac1dc761f7e231355e76351500a97b27b6803";
     src = fetchFromGitHub ({
       owner = "awesomeWM";
       repo = "awesome";
-      rev = "9ca7bb487a5d1d2d5c102f94cd9e8cb5b6e7ffaa";
+      rev = "b7bac1dc761f7e231355e76351500a97b27b6803";
       fetchSubmodules = false;
-      sha256 = "sha256-RRpwAIYNLkovXI0y/eXO9uRDqB4qQcXlnYYUCEmx/EA=";
+      sha256 = "sha256-SxydaQScu0kvBn3VOnT29/Sji0Y+7my+tO46mpMggAQ=";
     });
   };
   awestore = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "83655420f6b1e43f3e430a90e8dc1b9015c7c961";
+    version = "69ddf03c9197b1c3293327e1ec024b3ba70bcbaa";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "83655420f6b1e43f3e430a90e8dc1b9015c7c961";
+      rev = "69ddf03c9197b1c3293327e1ec024b3ba70bcbaa";
       fetchSubmodules = false;
-      sha256 = "sha256-c3Y+SztopNWDg2i30Nnd8U7SUQtJkABcUHHIaQOA2Cc=";
+      sha256 = "sha256-Vyw+e/jM2Kp8KRGdXFQrnCzdL89rFP8umx9tI2dO/a8=";
     });
   };
   revanced-cli = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.23.0";
+    version = "0.23.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.23.0/app-release-unsigned.apk";
-      sha256 = "sha256-QatrB6KjYcxQmhkpPf0urQFiAr2g3JRPsXBGf95mc1w=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.23.2/app-release-unsigned.apk";
+      sha256 = "sha256-fbFrxHJp+eV6e3epl8zSe7+dKZr/9wCx7ksA73vaD0k=";
     };
   };
   revanced-patches-dex = {
@@ -942,16 +942,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "7db82a22a9d1712289e760a458d3c76625b596fc";
+    version = "4e45bc0ee07f97aa538f3e4245f33661bfc88e7f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "7db82a22a9d1712289e760a458d3c76625b596fc";
+      rev = "4e45bc0ee07f97aa538f3e4245f33661bfc88e7f";
       fetchSubmodules = false;
       sha256 = "sha256-luDFC1UjibzhDClzf/CqsRU03XPA2GN9iQRdH7d+sLE=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-7db82a22a9d1712289e760a458d3c76625b596fc/Cargo.lock;
+      lockFile = ./rustdesk-4e45bc0ee07f97aa538f3e4245f33661bfc88e7f/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1218,13 +1218,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "ee6a35bd1c114b9f19768b14fcf526e80d89bec2";
+    version = "b6c7e6777c891be21cb73de28f9c010c0484e367";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "ee6a35bd1c114b9f19768b14fcf526e80d89bec2";
+      rev = "b6c7e6777c891be21cb73de28f9c010c0484e367";
       fetchSubmodules = false;
-      sha256 = "sha256-m8kqhMe4b4vAMS8X0/HvEgQGxvrfRiuYZEzRAd2Vzm0=";
+      sha256 = "sha256-LAa0+Wa4c/VGXUkPf7WhSvKpYqIYMgg7bVuf5XA29tM=";
     });
   };
   ultimmc = {
