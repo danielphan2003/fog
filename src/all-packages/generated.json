@@ -1964,11 +1964,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "cca25f610704c9180d6a13e64591a686d4434528",
-            "sha256": "sha256-PnF9iAhCH3HAJDmUdSFDqMhbVXyZYV4VW/2/q0PyzxU=",
+            "rev": "755396d6fe77cbee6a32937fea9e58d5c175d047",
+            "sha256": "sha256-a+QfQwGFlos+PVtODInCEljlGJWgGONABKcOJA7JhSg=",
             "type": "github"
         },
-        "version": "cca25f610704c9180d6a13e64591a686d4434528"
+        "version": "755396d6fe77cbee6a32937fea9e58d5c175d047"
     },
     "tailscale-systray": {
         "cargoLocks": null,
