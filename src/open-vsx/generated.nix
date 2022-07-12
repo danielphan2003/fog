@@ -12507,10 +12507,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.82";
+    version = "0.0.83";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.82/file/leanprover.lean4-0.0.82.vsix";
-      sha256 = "sha256-itmtfDeD3A8FXjmXT+Pw4LL9K6CIjX22a/68CS02UPo=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.83/file/leanprover.lean4-0.0.83.vsix";
+      sha256 = "sha256-AyjsOXL5SXjwXtPSXxL5/4witXdypepCRmxNtdVI+Qw=";
     };
     license = "Apache-2.0";
     name = "lean4";
