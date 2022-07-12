@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "ad03360665809d4cbf433664fe8c3a9aab3dfa3a",
-            "sha256": "sha256-5s5AQaKv8R4Sc7q4iCsqJ6MqXUR9ukLyQXf4bruiDvo=",
+            "rev": "f9985a36b345acf3fd4f6a1ad8170a475658fb60",
+            "sha256": "sha256-PY5dBWvJwwJXoel48+Kw94ie/S+QGRQCbuwn3cc78Z4=",
             "type": "github"
         },
-        "version": "ad03360665809d4cbf433664fe8c3a9aab3dfa3a"
+        "version": "f9985a36b345acf3fd4f6a1ad8170a475658fb60"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1488,11 +1488,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "69ddf03c9197b1c3293327e1ec024b3ba70bcbaa",
-            "sha256": "sha256-Vyw+e/jM2Kp8KRGdXFQrnCzdL89rFP8umx9tI2dO/a8=",
+            "rev": "f7194e167f98812aca7954ee8d880889d42765c9",
+            "sha256": "sha256-Mj+qbDqgPWX7ixLIS6SeTSZeR+ojqUyesnIYMOm9gLo=",
             "type": "github"
         },
-        "version": "69ddf03c9197b1c3293327e1ec024b3ba70bcbaa"
+        "version": "f7194e167f98812aca7954ee8d880889d42765c9"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2030,11 +2030,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "b6c7e6777c891be21cb73de28f9c010c0484e367",
-            "sha256": "sha256-LAa0+Wa4c/VGXUkPf7WhSvKpYqIYMgg7bVuf5XA29tM=",
+            "rev": "5d20a2d2155fd7bc8364eae66b7e5eac3d0cb2f3",
+            "sha256": "sha256-ocRWiYMqhyGLfSE22yDiyq/chpC8EYFbXPyabJ0vFuY=",
             "type": "github"
         },
-        "version": "b6c7e6777c891be21cb73de28f9c010c0484e367"
+        "version": "5d20a2d2155fd7bc8364eae66b7e5eac3d0cb2f3"
     },
     "ultimmc": {
         "cargoLocks": null,
