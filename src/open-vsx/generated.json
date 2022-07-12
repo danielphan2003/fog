@@ -12267,11 +12267,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bwG/HNF+2FtFKJ5UyJUPCAPH+42kL12B77tF0fkUeYg=",
+            "sha256": "sha256-pJ3aZ5Yh/pIBWiHHs1V4JxdYxK+f17xRvPR+DXfHgVM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.102.0/file/dendron.dendron-0.102.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.103.0/file/dendron.dendron-0.103.0.vsix"
         },
-        "version": "0.102.0"
+        "version": "0.103.0"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -25529,11 +25529,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ehhXO5bf1A8ByqRcIqrE6qlL0CxOu6lUGRKeKtRbB5I=",
+            "sha256": "sha256-E4G8c0fVKsR2F01EkY8Nbo/RKhOm5DvirjlzfNNuS84=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.392/file/pokey.cursorless-0.26.392.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.393/file/pokey.cursorless-0.26.393.vsix"
         },
-        "version": "0.26.392"
+        "version": "0.26.393"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
