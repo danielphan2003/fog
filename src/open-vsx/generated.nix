@@ -1191,10 +1191,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "6.0.0";
+    version = "6.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.0.0/file/GitHub.github-vscode-theme-6.0.0.vsix";
-      sha256 = "sha256-GZ29Y3mY6OZl+RSKxjUF69nmYpxn3umykyfwIv2d/gM=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.1.0/file/GitHub.github-vscode-theme-6.1.0.vsix";
+      sha256 = "sha256-/RrjB3Jr0AOEMcBXS254Qoh3XyLv+Q49/dZChSj0lPw=";
     };
     license = "MIT";
     name = "github-vscode-theme";
@@ -2391,10 +2391,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.24";
+    version = "0.17.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.24/file/Marko-JS.marko-vscode-0.17.24.vsix";
-      sha256 = "sha256-z9LM0+v0LiGgk5K109Ee08w56ALWgwz/m7Y8RfEbIaA=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.25/file/Marko-JS.marko-vscode-0.17.25.vsix";
+      sha256 = "sha256-97GDYBbpJdUq97oi6QvFxHS6r47FCaFKlpNCLvs21Cs=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -3291,10 +3291,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.819";
+    version = "2022.7.1123";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.819/file/Slint.slint-nightly-2022.7.819.vsix";
-      sha256 = "sha256-gEYbwJ8sDn8OwnBcQPjwYeMvGinotTdH2Z5Rybg2fP0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1123/file/Slint.slint-nightly-2022.7.1123.vsix";
+      sha256 = "sha256-A/G1cOZPeMya/+54o51w+Bckm13ZNGWhQoqXFv1RB4w=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -9927,10 +9927,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.3.10";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.3.10/file/halcyontechltd.code-for-ibmi-1.3.10.vsix";
-      sha256 = "sha256-8s76LGF+5Tid93zuSDhlc0Uhu2WyW/EZmC6prP8FSUY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.0/file/halcyontechltd.code-for-ibmi-1.4.0.vsix";
+      sha256 = "sha256-KnaKVAoXpS8jeNJ/y/K0edMMKZ9iWleO3GfvbTzW6Kc=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -13935,10 +13935,10 @@
   };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
-    version = "1.22.0";
+    version = "1.22.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.22.0/file/ms-azuretools.vscode-docker-1.22.0.vsix";
-      sha256 = "sha256-+cY9uLQ4oIk7V/4uCNc6BdIAQCXvPPGeqd0apbDjDos=";
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-docker/1.22.1/file/ms-azuretools.vscode-docker-1.22.1.vsix";
+      sha256 = "sha256-okR1mmwg1ZEUfP924LTa98LxCenwDZ1BIS/FLt0wo8c=";
     };
     license = "MIT";
     name = "vscode-docker";
@@ -14399,6 +14399,18 @@
     license = "MIT";
     name = "vscode-js-profile-table";
     description = "Text visualizer for profiles taken from the JavaScript debugger";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-vscode-selfhost-test-provider = {
+    pname = "ms-vscode-vscode-selfhost-test-provider";
+    version = "0.3.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/vscode-selfhost-test-provider/0.3.10/file/ms-vscode.vscode-selfhost-test-provider-0.3.10.vsix";
+      sha256 = "sha256-Q+tW+nJbU517QIwc3XJKsc4rpArJTOg4kyoopyI8mCg=";
+    };
+    license = "MIT";
+    name = "vscode-selfhost-test-provider";
+    description = "Test provider for the VS Code project";
     publisher = "ms-vscode";
   };
   ms-vscode-vscode-smoketest-check = {
