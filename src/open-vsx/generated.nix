@@ -3951,10 +3951,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.10.6";
+    version = "9.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.10.6/file/YXL.cloudmusic-9.10.6.vsix";
-      sha256 = "sha256-zQzGZCer/kmDRhh3d4yKd6mI3ojCQv4c8QBhjtGg4zM=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.11.0/file/YXL.cloudmusic-9.11.0.vsix";
+      sha256 = "sha256-Eh6z4Sb7DqfHTUy/jxe+Sdef9gExzZkwVE8kca5GqM8=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -14703,10 +14703,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.34.0";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.34.0/file/mutable-ai.mutable-ai-0.34.0.vsix";
-      sha256 = "sha256-fWZBgg4aGYEvj2ZOFKeNr1ETuW3BmdCzbRO+YpkrVuM=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.35.0/file/mutable-ai.mutable-ai-0.35.0.vsix";
+      sha256 = "sha256-roFTyHds7yrdye/YcqUCsLNR/F+QiP5jf80uFYQ+g94=";
     };
     license = "";
     name = "mutable-ai";
