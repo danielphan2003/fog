@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "38986365446649f779800411e9653a79f3210cdc";
+    version = "d4b39c2aaa66237630541d9a403e2e402c83e7cc";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "38986365446649f779800411e9653a79f3210cdc";
+      rev = "d4b39c2aaa66237630541d9a403e2e402c83e7cc";
       fetchSubmodules = false;
-      sha256 = "sha256-YgnqJF+BtlfEsIrHjT2SMdVAnI5JCImb1+zsEWCufRQ=";
+      sha256 = "sha256-S6uZLxuZYOgjPBAc/4jZpj7tqLKpxgt5YSQNYitcdIQ=";
     });
   };
   fluffychat = {
@@ -888,13 +888,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "01d68fdb7e7481cbb13165226f0f307b78a4e4f3";
+    version = "06e1b6a68f892bb31bd79e1ebffedb8aba89c58a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "01d68fdb7e7481cbb13165226f0f307b78a4e4f3";
+      rev = "06e1b6a68f892bb31bd79e1ebffedb8aba89c58a";
       fetchSubmodules = false;
-      sha256 = "sha256-af7TiBh7uJxvG3KY8m7yps6Nc3sFE5PTuqzzFWwPQeA=";
+      sha256 = "sha256-WbwxRXmjb83DeYKvEVR18dZpA9HBLzKnljjMWCSEr/8=";
     });
   };
   revanced-cli = {
@@ -907,10 +907,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.22.1";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.22.1/app-release-unsigned.apk";
-      sha256 = "sha256-H6p1j+yjzo9LKO2KhIFjD2K9SfdSeMDyElQQgRbdFXg=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.23.0/app-release-unsigned.apk";
+      sha256 = "sha256-QatrB6KjYcxQmhkpPf0urQFiAr2g3JRPsXBGf95mc1w=";
     };
   };
   revanced-patches-dex = {
