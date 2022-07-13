@@ -2907,10 +2907,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "2.0.1";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.0.1/file/PrateekMahendrakar.prettyxml-2.0.1.vsix";
-      sha256 = "sha256-Uis3a0JkLp8pG8T7EIEQnzNfqBX0qA2+HBZYBrCphIM=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.1.0/file/PrateekMahendrakar.prettyxml-2.1.0.vsix";
+      sha256 = "sha256-zFfdhEUVUWxD7fGf5P9dy7e9XiVbxo83OKeZLcKBoH4=";
     };
     license = "MIT";
     name = "prettyxml";
@@ -15207,10 +15207,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.18.7";
+    version = "17.18.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.7/file/nrwl.angular-console-17.18.7.vsix";
-      sha256 = "sha256-Pvq8+nBiU+8MsNgZmflc0VDYPXO2w+ZGTsJSgSrR7yY=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.8/file/nrwl.angular-console-17.18.8.vsix";
+      sha256 = "sha256-VUyOxF4CNjCaalJBplR/rXNxG72M2rHV8hXskySuufM=";
     };
     license = "MIT";
     name = "angular-console";
@@ -16563,10 +16563,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.6.0";
+    version = "2.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.6.0/file/quick-lint.quick-lint-js-2.6.0.vsix";
-      sha256 = "sha256-yTIQuYvUfqMb9H45ekE/BCQ+RGx/YHph8gIS5fVnON8=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.7.0/file/quick-lint.quick-lint-js-2.7.0.vsix";
+      sha256 = "sha256-SQbJdjsVcRllQDSPuycHKV6Uk/Hq5j48tu7df12sSJc=";
     };
     license = "GPL-3.0";
     name = "quick-lint-js";
@@ -19836,6 +19836,18 @@
     name = "vscode-status-bar-format-toggle";
     description = "A VS Code extension that allows you to toggle formatting settings ON and OFF with a simple click.";
     publisher = "tombonnike";
+  };
+  tomesparon-openvms-syntax = {
+    pname = "tomesparon-openvms-syntax";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tomesparon/openvms-syntax/0.1.2/file/tomesparon.openvms-syntax-0.1.2.vsix";
+      sha256 = "sha256-C7McTUx611p5MOAREZ9tp1lRcdzTxi4OxeaExwD5TJo=";
+    };
+    license = "MIT";
+    name = "openvms-syntax";
+    description = "Digital Command Language syntax support for VS Code based on gnikonorov/OpenVMS-DCL-Sublime-Lang-Support";
+    publisher = "tomesparon";
   };
   tomi-greenblue-theme = {
     pname = "tomi-greenblue-theme";
