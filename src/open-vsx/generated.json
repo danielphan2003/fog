@@ -23306,11 +23306,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-roFTyHds7yrdye/YcqUCsLNR/F+QiP5jf80uFYQ+g94=",
+            "sha256": "sha256-wIUY6F3D+veGcxtbUPltnWN8mD1v67UF7jEWFv0Fz24=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.35.0/file/mutable-ai.mutable-ai-0.35.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.36.0/file/mutable-ai.mutable-ai-0.36.0.vsix"
         },
-        "version": "0.35.0"
+        "version": "0.36.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
