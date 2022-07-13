@@ -329,13 +329,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "218eb0233aa1dd7f5292db7c8f3a262ee7e35d3d";
+    version = "2cf9e7bf2ce445632b68aa47d6e2e5aacea7afc1";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "218eb0233aa1dd7f5292db7c8f3a262ee7e35d3d";
+      rev = "2cf9e7bf2ce445632b68aa47d6e2e5aacea7afc1";
       fetchSubmodules = false;
-      sha256 = "sha256-E1sQUSHlf3aT+KOyTiVDdF72rzmTqsPtW5hN7jMoklE=";
+      sha256 = "sha256-6jNs8vigrwKk47Voe42J9QYMTP7KnNAtJ5vFZTUW680=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -932,18 +932,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.13.3";
+    version = "2.13.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.3/revanced-patches-2.13.3.dex";
-      sha256 = "sha256-y9yR92X03eFhAQiGVtmCFy9WYFMlH3HDSoOEi9Vw+Fk=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.4/revanced-patches-2.13.4.dex";
+      sha256 = "sha256-skvqVULK66HJi9W+wLSfnzrg6fJyFjDyUNCizmaBUUE=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.13.3";
+    version = "2.13.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.3/revanced-patches-2.13.3.jar";
-      sha256 = "sha256-+TuGA6K8CSFp8HYB5TsrRwP0IdLxyw7ujFwcS+yT8VM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.4/revanced-patches-2.13.4.jar";
+      sha256 = "sha256-ImUUOQ5UM6xnBcAVh+f/HDq9saeTYxOsXMjMuFI/JVs=";
     };
   };
   rofi-wayland = {
