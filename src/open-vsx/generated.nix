@@ -3495,10 +3495,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.55";
+    version = "0.0.57";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.55/file/TI.devspacesplus-0.0.55.vsix";
-      sha256 = "sha256-4dnnyaEtkHvEYy4i/iuNFa9G1AGMfQ91We6QEZBg17Q=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.57/file/TI.devspacesplus-0.0.57.vsix";
+      sha256 = "sha256-5/GqXjD1muNErtTV//EFhQH0mAJHJfzauz9l5JGYsJs=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -16191,10 +16191,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.394";
+    version = "0.26.396";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.394/file/pokey.cursorless-0.26.394.vsix";
-      sha256 = "sha256-/1vrM3/o5wqiG+DQ0tEopuVUuyK+sakbV0SodBqJKvk=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.396/file/pokey.cursorless-0.26.396.vsix";
+      sha256 = "sha256-ebZenU20XwvdKT8C68eRMWPimyuOkX3KsumFsXNlzP4=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17043,10 +17043,10 @@
   };
   redhat-vscode-redhat-account = {
     pname = "redhat-vscode-redhat-account";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-redhat-account/0.0.5/file/redhat.vscode-redhat-account-0.0.5.vsix";
-      sha256 = "sha256-afC3A9jPovgL5HR+V6W3J0Puya04uUzdlPrNlN7kXZU=";
+      url = "https://open-vsx.org/api/redhat/vscode-redhat-account/0.0.6/file/redhat.vscode-redhat-account-0.0.6.vsix";
+      sha256 = "sha256-wN2rsAt4k9DpmnCbmyMW7Mrs7ClWhZ3eepbpYPYoA/A=";
     };
     license = "MIT";
     name = "vscode-redhat-account";
@@ -17055,10 +17055,10 @@
   };
   redhat-vscode-rhoas = {
     pname = "redhat-vscode-rhoas";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-rhoas/0.0.5/file/redhat.vscode-rhoas-0.0.5.vsix";
-      sha256 = "sha256-iqtiamgowhFv7FoXobIy/JZDEwgr/HsYPSDnzPvyeV8=";
+      url = "https://open-vsx.org/api/redhat/vscode-rhoas/0.0.6/file/redhat.vscode-rhoas-0.0.6.vsix";
+      sha256 = "sha256-L4BBVBb7eT1y2ENipmnYckIfgTFlEHwGmIQYyRf7+pc=";
     };
     license = "MIT";
     name = "vscode-rhoas";

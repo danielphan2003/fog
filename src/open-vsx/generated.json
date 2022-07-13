@@ -5541,11 +5541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4dnnyaEtkHvEYy4i/iuNFa9G1AGMfQ91We6QEZBg17Q=",
+            "sha256": "sha256-5/GqXjD1muNErtTV//EFhQH0mAJHJfzauz9l5JGYsJs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.55/file/TI.devspacesplus-0.0.55.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.57/file/TI.devspacesplus-0.0.57.vsix"
         },
-        "version": "0.0.55"
+        "version": "0.0.57"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -25643,11 +25643,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/1vrM3/o5wqiG+DQ0tEopuVUuyK+sakbV0SodBqJKvk=",
+            "sha256": "sha256-ebZenU20XwvdKT8C68eRMWPimyuOkX3KsumFsXNlzP4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.394/file/pokey.cursorless-0.26.394.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.396/file/pokey.cursorless-0.26.396.vsix"
         },
-        "version": "0.26.394"
+        "version": "0.26.396"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -26992,11 +26992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-afC3A9jPovgL5HR+V6W3J0Puya04uUzdlPrNlN7kXZU=",
+            "sha256": "sha256-wN2rsAt4k9DpmnCbmyMW7Mrs7ClWhZ3eepbpYPYoA/A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-redhat-account/0.0.5/file/redhat.vscode-redhat-account-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-redhat-account/0.0.6/file/redhat.vscode-redhat-account-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "redhat-vscode-rhoas": {
         "cargoLocks": null,
@@ -27011,11 +27011,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iqtiamgowhFv7FoXobIy/JZDEwgr/HsYPSDnzPvyeV8=",
+            "sha256": "sha256-L4BBVBb7eT1y2ENipmnYckIfgTFlEHwGmIQYyRf7+pc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-rhoas/0.0.5/file/redhat.vscode-rhoas-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-rhoas/0.0.6/file/redhat.vscode-rhoas-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "redhat-vscode-tekton-pipelines": {
         "cargoLocks": null,
