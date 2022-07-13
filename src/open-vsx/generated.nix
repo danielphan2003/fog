@@ -3483,10 +3483,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.2";
+    version = "3.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.2/file/TabNine.tabnine-vscode-3.6.2.vsix";
-      sha256 = "sha256-Z4uj4/NB7b6qh6DqyG+K8LrXFdGICttJ766TFVWbyX4=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.3/file/TabNine.tabnine-vscode-3.6.3.vsix";
+      sha256 = "sha256-mRirgnetr/pys+MLuaezahGxwpbVpbaMU6H4SIDCo4I=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -7923,10 +7923,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.32";
+    version = "0.5.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.32/file/digma.digma-0.5.32.vsix";
-      sha256 = "sha256-NtzZACHwnt2YndiYSTY9OzsN3l013P2t9eaOjilotNI=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.33/file/digma.digma-0.5.33.vsix";
+      sha256 = "sha256-R9pU5twJrPESgEHy/GBvr0gIGHCi1YhKn3MpzWu5/3A=";
     };
     license = "MIT";
     name = "digma";
@@ -8355,10 +8355,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2650090";
+    version = "8.0.2661936";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2650090/file/eliostruyf.vscode-front-matter-beta-8.0.2650090.vsix";
-      sha256 = "sha256-dixT9lr++FpLeFR6ColbgeHLgLgpdos8N6jSI+Q5wXc=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2661936/file/eliostruyf.vscode-front-matter-beta-8.0.2661936.vsix";
+      sha256 = "sha256-Car3Z9Br+Tbo+1H9NdyYavn1+Lvt0cgphPDqw7MjF3Y=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -16179,10 +16179,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "3.1.2";
+    version = "3.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.1.2/file/pomdtr.excalidraw-editor-3.1.2.vsix";
-      sha256 = "sha256-vSycw3u1VxGPNlz/mxnmRpmFDidpfRWr9owt2i/hr98=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.2.0/file/pomdtr.excalidraw-editor-3.2.0.vsix";
+      sha256 = "sha256-b+T9LbFfqIpjoDFEHSkDxxC2yX/bdWkbzJN0j/vwbbA=";
     };
     license = "MIT";
     name = "excalidraw-editor";
@@ -19251,10 +19251,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.43";
+    version = "0.0.44";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.43/file/t-codespaces.ide-data-sync-0.0.43.vsix";
-      sha256 = "sha256-vayZPo/3PiMTPMbU+WcTQHqu9of4vhwUayQs3qe6Wmk=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.44/file/t-codespaces.ide-data-sync-0.0.44.vsix";
+      sha256 = "sha256-xZqNSoTe/Ru+ZjIFWq95ipMascdEjciNfKfvqC1j6dw=";
     };
     license = "";
     name = "ide-data-sync";
