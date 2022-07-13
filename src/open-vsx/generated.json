@@ -8201,11 +8201,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KLx0PAT11j6m/6uF9OALTHD1jfWlOJhRbr5++yHQayg=",
+            "sha256": "sha256-zLBaj7/ukWxCs3kqdH8zwqRqT8ofwzv6kARG1XzaVDA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.5/file/anweber.vscode-httpyac-5.5.5.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.6/file/anweber.vscode-httpyac-5.5.6.vsix"
         },
-        "version": "5.5.5"
+        "version": "5.5.6"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
