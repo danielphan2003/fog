@@ -318,13 +318,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "568f54fabbd1766e7eb1026002f57cd437b598ec";
+    version = "3d641b758a98f712ed95e4ffc89eff327c139679";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "568f54fabbd1766e7eb1026002f57cd437b598ec";
+      rev = "3d641b758a98f712ed95e4ffc89eff327c139679";
       fetchSubmodules = false;
-      sha256 = "sha256-UTBCj6qee1yVnCIrZNefn42Rai22sSeoRqYSIla9Hes=";
+      sha256 = "sha256-SoQwF52QqqXMdMcpzSGA1gDhZ4pLHlLki2Gz/mH9sQ0=";
     });
   };
   doggo = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6708f3b1334e8b6a966f424fe04713a4e74d5fdb";
+    version = "c2215e4efbe4e7351b8ccd12341e3c8dfe23cc39";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "6708f3b1334e8b6a966f424fe04713a4e74d5fdb";
+      rev = "c2215e4efbe4e7351b8ccd12341e3c8dfe23cc39";
       fetchSubmodules = false;
-      sha256 = "sha256-0cSn3axs5FBQzOkwg/0Nip20cfqLdhmtPw8r3d25lf8=";
+      sha256 = "sha256-8y+rYDO7xmKv1sGpW92hsMbjP3ixzvfZfvHbsSxNxY8=";
     });
   };
   ibus = {
@@ -1051,14 +1051,14 @@
   };
   snui = {
     pname = "snui";
-    version = "fa854346065a41c4fbde46549f64c6a4716b1dcb";
+    version = "84242dbc4b1cefefd767e4381ce8da79bf3a4601";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "fa854346065a41c4fbde46549f64c6a4716b1dcb";
+      rev = "84242dbc4b1cefefd767e4381ce8da79bf3a4601";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-6/Pz4pg7h/JRRY5f6Zg+S/273ohB1YZr54Is8FHiCM8=";
+      sha256 = "sha256-u2RPtk71A4M4QCpy0Uye8z4blcWlkdeJ1aebtwbdJC0=";
     };
   };
   spicetify-cli = {
@@ -1197,13 +1197,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "505ca2750dbe46c9ed07a0dbe0230a9e934551e1";
+    version = "ec4f849079ce409bf161f8bc4bce20b171102171";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "505ca2750dbe46c9ed07a0dbe0230a9e934551e1";
+      rev = "ec4f849079ce409bf161f8bc4bce20b171102171";
       fetchSubmodules = false;
-      sha256 = "sha256-szvppGNNW++VTV8f3Xmi08lyG2TBjlMOxunuzqaOp2Q=";
+      sha256 = "sha256-KGitVEorx0xTDL4nLAcbKnNxZs5wzPnQyg08tiKDk48=";
     });
   };
   tailscale-systray = {
@@ -1312,13 +1312,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "d2c283d7fcd6a1f778d362e7cda73c39988e0d0f";
+    version = "fb349c82684dc57fae0f0828b6a55eddf60dc254";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "d2c283d7fcd6a1f778d362e7cda73c39988e0d0f";
+      rev = "fb349c82684dc57fae0f0828b6a55eddf60dc254";
       fetchSubmodules = false;
-      sha256 = "sha256-nA0inqc4pPi6vbTgBJu9oQYSLamMo4VaQYe2BQIcFVw=";
+      sha256 = "sha256-SiHBAJl9R5zcKD8iD1MaBiBSIDYPjcS10yUad0XJnBM=";
     });
   };
   wgcf = {
