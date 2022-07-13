@@ -760,6 +760,23 @@
       sha256 = "sha256-M9eOV+3RrxMR1b29CV63O2tWZ/iQg2PtXFVsKqr7+d8=";
     });
   };
+  playit-agent = {
+    pname = "playit-agent";
+    version = "18e692e513437c792c4b56977b72db33342a22c4";
+    src = fetchFromGitHub ({
+      owner = "playit-cloud";
+      repo = "playit-agent";
+      rev = "18e692e513437c792c4b56977b72db33342a22c4";
+      fetchSubmodules = false;
+      sha256 = "sha256-/7zWL3LNoT99T9o9Ozr07zoFnpjnnXBWJseUUmAx3zw=";
+    });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./playit-agent-18e692e513437c792c4b56977b72db33342a22c4/Cargo.lock;
+      outputHashes = {
+        "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
+      };
+    };
+  };
   plymouth-themes = {
     pname = "plymouth-themes";
     version = "bf2f570bee8e84c5c20caac353cbe1d811a4745f";
@@ -888,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "37bb66ef6e3e31bff59e7b640902cedc9cfe0bcd";
+    version = "c5c5e7539f15eb84cf36f25319b97bfabd4dbc1c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "37bb66ef6e3e31bff59e7b640902cedc9cfe0bcd";
+      rev = "c5c5e7539f15eb84cf36f25319b97bfabd4dbc1c";
       fetchSubmodules = false;
-      sha256 = "sha256-vbTvNTKRTFd08nczz8GDAZ7pI7GQZplG2So4N9lBlmc=";
+      sha256 = "sha256-lZo9bcAMmj0FxXjdzK5BYiEXtnSqfgzxsBdE/qqdYCo=";
     });
   };
   revanced-cli = {
@@ -1034,14 +1051,14 @@
   };
   snui = {
     pname = "snui";
-    version = "fd3a8cfeaaffe4ab87e444e910cdc6143e134c4b";
+    version = "25c27bb76ffe503e53913f7c387debff1b88f28f";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "fd3a8cfeaaffe4ab87e444e910cdc6143e134c4b";
+      rev = "25c27bb76ffe503e53913f7c387debff1b88f28f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-pxi8yH0p4FkqCl0bkfMyg6AWo8Lf0s4le4cS1w8nbaE=";
+      sha256 = "sha256-vhD+8dA6bvKQGNHWFgYI4YBD+1sHe31gsjQuIX6HACM=";
     };
   };
   spicetify-cli = {
