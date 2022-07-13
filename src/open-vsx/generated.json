@@ -3989,6 +3989,101 @@
         },
         "version": "0.0.9"
     },
+    "ModyQyW-vscode-uni-app-schemas": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ModyQyW-vscode-uni-app-schemas",
+        "passthru": {
+            "description": "æ ¡éª `uni-app` ä¸­ç `androidPrivacy.json`ã`pages.json` å `manifest.json` æ ¼å¼ã",
+            "license": "MIT",
+            "name": "vscode-uni-app-schemas",
+            "publisher": "ModyQyW"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-NVgvtQm72BeBJxqCbs3o/CVdC+YHRlibyZ8bimfwlpY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.7.2/file/ModyQyW.vscode-uni-app-schemas-0.7.2.vsix"
+        },
+        "version": "0.7.2"
+    },
+    "ModyQyW-vscode-uni-app-snippets": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ModyQyW-vscode-uni-app-snippets",
+        "passthru": {
+            "description": "`uni-app` åºæ¬è½åä»£ç çæ®µã",
+            "license": "MIT",
+            "name": "vscode-uni-app-snippets",
+            "publisher": "ModyQyW"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-n+lLRmP+kdnAYSoVQ582hDo6ZWkIDbtmsrLHmotyOOA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.1/file/ModyQyW.vscode-uni-app-snippets-0.9.1.vsix"
+        },
+        "version": "0.9.1"
+    },
+    "ModyQyW-vscode-uni-cloud-snippets": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ModyQyW-vscode-uni-cloud-snippets",
+        "passthru": {
+            "description": "`uni-cloud` åºæ¬è½åä»£ç çæ®µã",
+            "license": "MIT",
+            "name": "vscode-uni-cloud-snippets",
+            "publisher": "ModyQyW"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-bgUDsObm93joj3YifEwn7eUAQ51GAa71X8L1rAmLDgc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.6/file/ModyQyW.vscode-uni-cloud-snippets-0.2.6.vsix"
+        },
+        "version": "0.2.6"
+    },
+    "ModyQyW-vscode-uni-helper": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ModyQyW-vscode-uni-helper",
+        "passthru": {
+            "description": "å¢å¼º `uni-app` ç³»åäº§åå¨ `vscode` åçä½éªã",
+            "license": "MIT",
+            "name": "vscode-uni-helper",
+            "publisher": "ModyQyW"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-gu509WNB/4/g+tawb1KYXidiQJDd8gHGtG5246m4FHw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.2/file/ModyQyW.vscode-uni-helper-0.5.2.vsix"
+        },
+        "version": "0.5.2"
+    },
+    "ModyQyW-vscode-uni-ui-snippets": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ModyQyW-vscode-uni-ui-snippets",
+        "passthru": {
+            "description": "`uni-ui` ç»ä»¶ä»£ç çæ®µã",
+            "license": "MIT",
+            "name": "vscode-uni-ui-snippets",
+            "publisher": "ModyQyW"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-K9ZDVAZF5/NbXusWlBXsmL3SyEppz4ZAZf1U3DFjVI8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-ui-snippets/0.6.3/file/ModyQyW.vscode-uni-ui-snippets-0.6.3.vsix"
+        },
+        "version": "0.6.3"
+    },
     "MohammadHemmati-php-auto-var-suggestion": {
         "cargoLocks": null,
         "extract": null,
@@ -8790,11 +8885,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FjZR8PVARgx2qKrO2VQpT7cDlpC2zBSVUw7MhmGc1co=",
+            "sha256": "sha256-N69qbTab2WLXrlgGnZU8YP1PlOaWKoWeOhN8akIeLcQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.19.4/file/astro-build.astro-vscode-0.19.4.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.0/file/astro-build.astro-vscode-0.20.0.vsix"
         },
-        "version": "0.19.4"
+        "version": "0.20.0"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -28683,11 +28778,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C2p74sirfqlgoo9grYEWfIUGJu3dXukkl33zrrIbwN0=",
+            "sha256": "sha256-XqM0OQvkkEKwsbQtbGdGWGOBLpaXamThiYqEPNX6OrA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.2/file/shufo.vscode-blade-formatter-0.16.2.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.3/file/shufo.vscode-blade-formatter-0.16.3.vsix"
         },
-        "version": "0.16.2"
+        "version": "0.16.3"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
@@ -32065,11 +32160,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eRJiCVZTUzy8xnYG7CTFmHxl8TU26lIzvVoeOXWcx68=",
+            "sha256": "sha256-GflHoJMf2fp0eciRnKb9MisgDk7QSYyEIITu1rLPLns=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/errorlens/3.5.1/file/usernamehw.errorlens-3.5.1.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/errorlens/3.5.2/file/usernamehw.errorlens-3.5.2.vsix"
         },
-        "version": "3.5.1"
+        "version": "3.5.2"
     },
     "usernamehw-find-jump": {
         "cargoLocks": null,

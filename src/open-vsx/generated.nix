@@ -2521,6 +2521,66 @@
     description = "Language support for the Modest Toolset";
     publisher = "ModestExtensionTeam";
   };
+  ModyQyW-vscode-uni-app-schemas = {
+    pname = "ModyQyW-vscode-uni-app-schemas";
+    version = "0.7.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.7.2/file/ModyQyW.vscode-uni-app-schemas-0.7.2.vsix";
+      sha256 = "sha256-NVgvtQm72BeBJxqCbs3o/CVdC+YHRlibyZ8bimfwlpY=";
+    };
+    license = "MIT";
+    name = "vscode-uni-app-schemas";
+    description = "\26657\39564 `uni-app` \20013\30340 `androidPrivacy.json`\12289`pages.json` \21644 `manifest.json` \26684\24335\12290";
+    publisher = "ModyQyW";
+  };
+  ModyQyW-vscode-uni-app-snippets = {
+    pname = "ModyQyW-vscode-uni-app-snippets";
+    version = "0.9.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.1/file/ModyQyW.vscode-uni-app-snippets-0.9.1.vsix";
+      sha256 = "sha256-n+lLRmP+kdnAYSoVQ582hDo6ZWkIDbtmsrLHmotyOOA=";
+    };
+    license = "MIT";
+    name = "vscode-uni-app-snippets";
+    description = "`uni-app` \22522\26412\33021\21147\20195\30721\29255\27573\12290";
+    publisher = "ModyQyW";
+  };
+  ModyQyW-vscode-uni-cloud-snippets = {
+    pname = "ModyQyW-vscode-uni-cloud-snippets";
+    version = "0.2.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.6/file/ModyQyW.vscode-uni-cloud-snippets-0.2.6.vsix";
+      sha256 = "sha256-bgUDsObm93joj3YifEwn7eUAQ51GAa71X8L1rAmLDgc=";
+    };
+    license = "MIT";
+    name = "vscode-uni-cloud-snippets";
+    description = "`uni-cloud` \22522\26412\33021\21147\20195\30721\29255\27573\12290";
+    publisher = "ModyQyW";
+  };
+  ModyQyW-vscode-uni-helper = {
+    pname = "ModyQyW-vscode-uni-helper";
+    version = "0.5.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.2/file/ModyQyW.vscode-uni-helper-0.5.2.vsix";
+      sha256 = "sha256-gu509WNB/4/g+tawb1KYXidiQJDd8gHGtG5246m4FHw=";
+    };
+    license = "MIT";
+    name = "vscode-uni-helper";
+    description = "\22686\24378 `uni-app` \31995\21015\20135\21697\22312 `vscode` \20869\30340\20307\39564\12290";
+    publisher = "ModyQyW";
+  };
+  ModyQyW-vscode-uni-ui-snippets = {
+    pname = "ModyQyW-vscode-uni-ui-snippets";
+    version = "0.6.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-ui-snippets/0.6.3/file/ModyQyW.vscode-uni-ui-snippets-0.6.3.vsix";
+      sha256 = "sha256-K9ZDVAZF5/NbXusWlBXsmL3SyEppz4ZAZf1U3DFjVI8=";
+    };
+    license = "MIT";
+    name = "vscode-uni-ui-snippets";
+    description = "`uni-ui` \32452\20214\20195\30721\29255\27573\12290";
+    publisher = "ModyQyW";
+  };
   MohammadHemmati-php-auto-var-suggestion = {
     pname = "MohammadHemmati-php-auto-var-suggestion";
     version = "0.0.4";
@@ -5547,10 +5607,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.19.4";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.19.4/file/astro-build.astro-vscode-0.19.4.vsix";
-      sha256 = "sha256-FjZR8PVARgx2qKrO2VQpT7cDlpC2zBSVUw7MhmGc1co=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.20.0/file/astro-build.astro-vscode-0.20.0.vsix";
+      sha256 = "sha256-N69qbTab2WLXrlgGnZU8YP1PlOaWKoWeOhN8akIeLcQ=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -18111,10 +18171,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.16.2";
+    version = "0.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.2/file/shufo.vscode-blade-formatter-0.16.2.vsix";
-      sha256 = "sha256-C2p74sirfqlgoo9grYEWfIUGJu3dXukkl33zrrIbwN0=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.3/file/shufo.vscode-blade-formatter-0.16.3.vsix";
+      sha256 = "sha256-XqM0OQvkkEKwsbQtbGdGWGOBLpaXamThiYqEPNX6OrA=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -20247,10 +20307,10 @@
   };
   usernamehw-errorlens = {
     pname = "usernamehw-errorlens";
-    version = "3.5.1";
+    version = "3.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.1/file/usernamehw.errorlens-3.5.1.vsix";
-      sha256 = "sha256-eRJiCVZTUzy8xnYG7CTFmHxl8TU26lIzvVoeOXWcx68=";
+      url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.2/file/usernamehw.errorlens-3.5.2.vsix";
+      sha256 = "sha256-GflHoJMf2fp0eciRnKb9MisgDk7QSYyEIITu1rLPLns=";
     };
     license = "MIT";
     name = "errorlens";
