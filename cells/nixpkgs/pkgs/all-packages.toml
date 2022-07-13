@@ -301,6 +301,11 @@ cargo_locks = [ "Cargo.lock" ]
 src.git = "https://github.com/yshui/picom"
 fetch.github = "yshui/picom"
 
+[playit-agent]
+src.git = "https://github.com/playit-cloud/playit-agent"
+fetch.github = "playit-cloud/playit-agent"
+cargo_locks = [ "Cargo.lock" ]
+
 [plymouth-themes]
 src.git = "https://github.com/adi1090x/plymouth-themes"
 fetch.github = "adi1090x/plymouth-themes"
