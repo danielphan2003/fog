@@ -3291,10 +3291,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.1123";
+    version = "2022.7.1220";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1123/file/Slint.slint-nightly-2022.7.1123.vsix";
-      sha256 = "sha256-A/G1cOZPeMya/+54o51w+Bckm13ZNGWhQoqXFv1RB4w=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1220/file/Slint.slint-nightly-2022.7.1220.vsix";
+      sha256 = "sha256-WdlHrEyHcjatSnClz3kBQWcBZp/Epf4td9jMHMK4cVE=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";

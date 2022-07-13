@@ -5218,11 +5218,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-A/G1cOZPeMya/+54o51w+Bckm13ZNGWhQoqXFv1RB4w=",
+            "sha256": "sha256-WdlHrEyHcjatSnClz3kBQWcBZp/Epf4td9jMHMK4cVE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1123/file/Slint.slint-nightly-2022.7.1123.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1220/file/Slint.slint-nightly-2022.7.1220.vsix"
         },
-        "version": "2022.7.1123"
+        "version": "2022.7.1220"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
