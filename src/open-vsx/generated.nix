@@ -4287,10 +4287,10 @@
   };
   actboy168-tasks = {
     pname = "actboy168-tasks";
-    version = "0.9.0";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/actboy168/tasks/0.9.0/file/actboy168.tasks-0.9.0.vsix";
-      sha256 = "sha256-ebEUzuXzQSDbvbb0U1aqi/Q5z8Xt8wiozmDmFlZH+sQ=";
+      url = "https://open-vsx.org/api/actboy168/tasks/0.10.0/file/actboy168.tasks-0.10.0.vsix";
+      sha256 = "sha256-RfR+oBCGG0l/dIqOrdvNmn/xChvME2valz+N6+ffKYQ=";
     };
     license = "MIT";
     name = "tasks";
@@ -9927,10 +9927,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.4.0";
+    version = "1.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.0/file/halcyontechltd.code-for-ibmi-1.4.0.vsix";
-      sha256 = "sha256-KnaKVAoXpS8jeNJ/y/K0edMMKZ9iWleO3GfvbTzW6Kc=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.2/file/halcyontechltd.code-for-ibmi-1.4.2.vsix";
+      sha256 = "sha256-UWwugG2A3D79KJ0/dO2hX5EmSROWqso6GupV2MgNggY=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -14091,10 +14091,10 @@
   };
   ms-toolsai-vscode-jupyter-powertoys = {
     pname = "ms-toolsai-vscode-jupyter-powertoys";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.4/file/ms-toolsai.vscode-jupyter-powertoys-0.0.4.vsix";
-      sha256 = "sha256-ziX80Cmc3xe20c03mLEjYmZ+70qHEtpC6Xqa3lwuqD4=";
+      url = "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.5/file/ms-toolsai.vscode-jupyter-powertoys-0.0.5.vsix";
+      sha256 = "sha256-njBO+0EJT3KMo2AAQzVlhF0bQ3n3aJDIMbzuBY7mVe0=";
     };
     license = "MIT";
     name = "vscode-jupyter-powertoys";
@@ -15840,6 +15840,18 @@
     name = "vscode-xslt";
     description = "Interactively step through your XSLT transformation by setting breakpoints and using the Debugger.";
     publisher = "philschatz";
+  };
+  phoenisx-cssvar = {
+    pname = "phoenisx-cssvar";
+    version = "1.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/phoenisx/cssvar/1.4.0/file/phoenisx.cssvar-1.4.0.vsix";
+      sha256 = "sha256-aTIMgSWAa7YXBICjm6apBXqI1ERoy1jYx1rzugT77o0=";
+    };
+    license = "MIT";
+    name = "cssvar";
+    description = "Intellisense support for CSS Variables";
+    publisher = "phoenisx";
   };
   pickoba-satysfi-workshop = {
     pname = "pickoba-satysfi-workshop";

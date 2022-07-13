@@ -6795,11 +6795,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ebEUzuXzQSDbvbb0U1aqi/Q5z8Xt8wiozmDmFlZH+sQ=",
+            "sha256": "sha256-RfR+oBCGG0l/dIqOrdvNmn/xChvME2valz+N6+ffKYQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/actboy168/tasks/0.9.0/file/actboy168.tasks-0.9.0.vsix"
+            "url": "https://open-vsx.org/api/actboy168/tasks/0.10.0/file/actboy168.tasks-0.10.0.vsix"
         },
-        "version": "0.9.0"
+        "version": "0.10.0"
     },
     "activecove-marquee": {
         "cargoLocks": null,
@@ -15725,11 +15725,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KnaKVAoXpS8jeNJ/y/K0edMMKZ9iWleO3GfvbTzW6Kc=",
+            "sha256": "sha256-UWwugG2A3D79KJ0/dO2hX5EmSROWqso6GupV2MgNggY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.0/file/halcyontechltd.code-for-ibmi-1.4.0.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.2/file/halcyontechltd.code-for-ibmi-1.4.2.vsix"
         },
-        "version": "1.4.0"
+        "version": "1.4.2"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -22318,11 +22318,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ziX80Cmc3xe20c03mLEjYmZ+70qHEtpC6Xqa3lwuqD4=",
+            "sha256": "sha256-njBO+0EJT3KMo2AAQzVlhF0bQ3n3aJDIMbzuBY7mVe0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.4/file/ms-toolsai.vscode-jupyter-powertoys-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/ms-toolsai/vscode-jupyter-powertoys/0.0.5/file/ms-toolsai.vscode-jupyter-powertoys-0.0.5.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.5"
     },
     "ms-vscode-Go": {
         "cargoLocks": null,
@@ -25078,6 +25078,25 @@
             "url": "https://open-vsx.org/api/philschatz/vscode-xslt/1.4.1/file/philschatz.vscode-xslt-1.4.1.vsix"
         },
         "version": "1.4.1"
+    },
+    "phoenisx-cssvar": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "phoenisx-cssvar",
+        "passthru": {
+            "description": "Intellisense support for CSS Variables",
+            "license": "MIT",
+            "name": "cssvar",
+            "publisher": "phoenisx"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-aTIMgSWAa7YXBICjm6apBXqI1ERoy1jYx1rzugT77o0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/1.4.0/file/phoenisx.cssvar-1.4.0.vsix"
+        },
+        "version": "1.4.0"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
