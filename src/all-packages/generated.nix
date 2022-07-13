@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "c2bbe42fc3553f6a5685cdb45453c0950fa614b2";
+    version = "04a14ee37ac6192d734518fa9082d6eb93971bc6";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "c2bbe42fc3553f6a5685cdb45453c0950fa614b2";
+      rev = "04a14ee37ac6192d734518fa9082d6eb93971bc6";
       fetchSubmodules = false;
-      sha256 = "sha256-O8KImpSUGB+VyOS1Fr9bXCd5INlit3NN3AvodIzdicU=";
+      sha256 = "sha256-K7uoX9L4ukL1pfsLvx7pdwdSV2wr01Z1zI/OFeJr7h4=";
     });
   };
   cinny = {
@@ -1051,14 +1051,14 @@
   };
   snui = {
     pname = "snui";
-    version = "84242dbc4b1cefefd767e4381ce8da79bf3a4601";
+    version = "f31427ccf973cd661e13a7cc913f88e571b6beaa";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "84242dbc4b1cefefd767e4381ce8da79bf3a4601";
+      rev = "f31427ccf973cd661e13a7cc913f88e571b6beaa";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-u2RPtk71A4M4QCpy0Uye8z4blcWlkdeJ1aebtwbdJC0=";
+      sha256 = "sha256-D5JS8RRjZR3kbGY58Fdm+1t7dH9feh3qXm1/fpu5RTI=";
     };
   };
   spicetify-cli = {
@@ -1235,13 +1235,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "e4824dfb5c2db480eee65c1850c5a172ad6482af";
+    version = "256a495428e50e2c39184360788c88509d148362";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "e4824dfb5c2db480eee65c1850c5a172ad6482af";
+      rev = "256a495428e50e2c39184360788c88509d148362";
       fetchSubmodules = false;
-      sha256 = "sha256-2Y7isWJkF1ChCzOLpYJJ0bJAb6K6DfKpOAQ6ZOokZd4=";
+      sha256 = "sha256-Anhfdf8NpjLZJsYiyuA1j/I7IBr+WBSEFiBbQXD8B0c=";
     });
   };
   ultimmc = {
@@ -1312,13 +1312,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "fb349c82684dc57fae0f0828b6a55eddf60dc254";
+    version = "7674914195ee988d0274a8ca43f63b73608a227a";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "fb349c82684dc57fae0f0828b6a55eddf60dc254";
+      rev = "7674914195ee988d0274a8ca43f63b73608a227a";
       fetchSubmodules = false;
-      sha256 = "sha256-SiHBAJl9R5zcKD8iD1MaBiBSIDYPjcS10yUad0XJnBM=";
+      sha256 = "sha256-4LkN1D/WJ0BacAYB0Hc0nclLcEGnkLbJDWMPhsaAUBg=";
     });
   };
   wgcf = {
