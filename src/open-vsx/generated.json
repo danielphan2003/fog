@@ -5541,11 +5541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5/GqXjD1muNErtTV//EFhQH0mAJHJfzauz9l5JGYsJs=",
+            "sha256": "sha256-x2Wfdp7zgwbIoQ/VXvqkfSvlHq0ZB1fbWMuu5WHHrBU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.57/file/TI.devspacesplus-0.0.57.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.58/file/TI.devspacesplus-0.0.58.vsix"
         },
-        "version": "0.0.57"
+        "version": "0.0.58"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
