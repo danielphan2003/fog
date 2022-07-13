@@ -2367,10 +2367,10 @@
   };
   MariusvanWijk-JoppeKoers-codam-norminette-3 = {
     pname = "MariusvanWijk-JoppeKoers-codam-norminette-3";
-    version = "4.5.0";
+    version = "4.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.5.0/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.5.0.vsix";
-      sha256 = "sha256-M0PcGVf47e7rbEnqWEoZFfjjhTqbfLCiVDnqdFqhrZw=";
+      url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.5.1/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.5.1.vsix";
+      sha256 = "sha256-P1nCZt+HmmYOK0BP3F4cRxlxWXg5bkMa7Ef4w4mJoHY=";
     };
     license = "MIT";
     name = "codam-norminette-3";
@@ -8343,10 +8343,10 @@
   };
   eliostruyf-vscode-front-matter = {
     pname = "eliostruyf-vscode-front-matter";
-    version = "8.0.0";
+    version = "8.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.0.0/file/eliostruyf.vscode-front-matter-8.0.0.vsix";
-      sha256 = "sha256-W8AicfNdjSh5OQVn7uXjtPMfHW4zv25b5K+zRxQQfAs=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter/8.0.1/file/eliostruyf.vscode-front-matter-8.0.1.vsix";
+      sha256 = "sha256-t1vqWb4VMP1xT58QXEWGXdsHJ9kI5sHIQqTPuVXVDME=";
     };
     license = "MIT";
     name = "vscode-front-matter";
@@ -8355,10 +8355,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2661936";
+    version = "8.0.2663205";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2661936/file/eliostruyf.vscode-front-matter-beta-8.0.2661936.vsix";
-      sha256 = "sha256-Car3Z9Br+Tbo+1H9NdyYavn1+Lvt0cgphPDqw7MjF3Y=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2663205/file/eliostruyf.vscode-front-matter-beta-8.0.2663205.vsix";
+      sha256 = "sha256-VrKEDuDrA7Z3JqU8EE/naCEkXMYsMejvqqjGJevwfZQ=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13827,10 +13827,10 @@
   };
   mrakgr-spiral-lang-vscode = {
     pname = "mrakgr-spiral-lang-vscode";
-    version = "2.1.11";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.1.11/file/mrakgr.spiral-lang-vscode-2.1.11.vsix";
-      sha256 = "sha256-qOgPEe6PsrzWwG2utBolRPavWLOg79aWsdX1QdkCSx8=";
+      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.0/file/mrakgr.spiral-lang-vscode-2.2.0.vsix";
+      sha256 = "sha256-ujDd1YXwayxSuWNP+PSjZ0f/PcGTyPf5UpODisRcGOI=";
     };
     license = "";
     name = "spiral-lang-vscode";
@@ -17043,10 +17043,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.8.0";
+    version = "1.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.8.0/file/redhat.vscode-yaml-1.8.0.vsix";
-      sha256 = "sha256-GwdpuZjFGbffa+G0U7xOQuChPmQ5S5x9fDRnZ3slTbY=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix";
+      sha256 = "sha256-XFg6L+DYhq7cmbnYPkRaZJK5zPTp4yeQR24fCpUGp4I=";
     };
     license = "MIT";
     name = "vscode-yaml";
