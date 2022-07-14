@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "c1e65644373f37fe0d641f542a354e26eba8d22d",
-            "sha256": "sha256-8B1YKw1kIFZVXBS19XKe5VDzD2sBDIVDE9lzxKYHYqE=",
+            "rev": "0af00f4ef4290c42232997337ead07fe998f967c",
+            "sha256": "sha256-YHMMzDRPaDuwwNqfMTy5+j/IaOA8NaqgavViEYyt8cg=",
             "type": "github"
         },
-        "version": "c1e65644373f37fe0d641f542a354e26eba8d22d"
+        "version": "0af00f4ef4290c42232997337ead07fe998f967c"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1542,11 +1542,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RGPR76atonIkEPrEbUslL8pthna50n7w30BoMiIQtwM=",
+            "sha256": "sha256-OnW+hdDYjodINi5bEGqaRe9R3SGXCsri50hJgTlrR7s=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.24.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.24.1/app-release-unsigned.apk"
         },
-        "version": "0.24.0"
+        "version": "0.24.1"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1556,11 +1556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-skvqVULK66HJi9W+wLSfnzrg6fJyFjDyUNCizmaBUUE=",
+            "sha256": "sha256-VnzBX4G8fF89bSuatVvSYjAxt2U5Byawv9zAArF8hGk=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.4/revanced-patches-2.13.4.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.dex"
         },
-        "version": "2.13.4"
+        "version": "2.13.5"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ImUUOQ5UM6xnBcAVh+f/HDq9saeTYxOsXMjMuFI/JVs=",
+            "sha256": "sha256-CALQg6n3amk/1scFpAn7Jyy6DrbLbQKdtT4VLFIQUVI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.4/revanced-patches-2.13.4.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.jar"
         },
-        "version": "2.13.4"
+        "version": "2.13.5"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1598,7 +1598,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-c49bbc261c2c6ff9998882ffb97a9c599648178a/Cargo.lock",
+                "./rustdesk-9498b77c0a6649670519f46b6f266d1ba1d0380a/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "hwcodec-0.1.0": "sha256-tkxs8pjO6vwG4LqVmhTB35kalibD1VbOcDEFxpTb048=",
@@ -1622,11 +1622,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "c49bbc261c2c6ff9998882ffb97a9c599648178a",
-            "sha256": "sha256-LyQwZbLVDsx5y3Dm5Og8Dlc9ELGGwFUyCWVbCL6fTV0=",
+            "rev": "9498b77c0a6649670519f46b6f266d1ba1d0380a",
+            "sha256": "sha256-okD09xzvRWZud1apm4nfeAyrNugpcaljj7/XIhkvHbo=",
             "type": "github"
         },
-        "version": "c49bbc261c2c6ff9998882ffb97a9c599648178a"
+        "version": "9498b77c0a6649670519f46b6f266d1ba1d0380a"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -2056,11 +2056,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "500beddf83ca65a24c3eb2d71c6f029110c0aad8",
-            "sha256": "sha256-r/mEwINSDvfH4GpirWG0rFjRFC6FJmncf78+/zL3stU=",
+            "rev": "44dc2da59e56c403605a368203b3f2efe6926fcb",
+            "sha256": "sha256-NKJx5+M6Le3ez1Eqep0/KFFhZz3f7Lg7vh4S9NyOnAs=",
             "type": "github"
         },
-        "version": "500beddf83ca65a24c3eb2d71c6f029110c0aad8"
+        "version": "44dc2da59e56c403605a368203b3f2efe6926fcb"
     },
     "ultimmc": {
         "cargoLocks": null,

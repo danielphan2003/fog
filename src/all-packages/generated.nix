@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "c1e65644373f37fe0d641f542a354e26eba8d22d";
+    version = "0af00f4ef4290c42232997337ead07fe998f967c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "c1e65644373f37fe0d641f542a354e26eba8d22d";
+      rev = "0af00f4ef4290c42232997337ead07fe998f967c";
       fetchSubmodules = false;
-      sha256 = "sha256-8B1YKw1kIFZVXBS19XKe5VDzD2sBDIVDE9lzxKYHYqE=";
+      sha256 = "sha256-YHMMzDRPaDuwwNqfMTy5+j/IaOA8NaqgavViEYyt8cg=";
     });
   };
   caddy = {
@@ -924,26 +924,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.24.0";
+    version = "0.24.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.24.0/app-release-unsigned.apk";
-      sha256 = "sha256-RGPR76atonIkEPrEbUslL8pthna50n7w30BoMiIQtwM=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.24.1/app-release-unsigned.apk";
+      sha256 = "sha256-OnW+hdDYjodINi5bEGqaRe9R3SGXCsri50hJgTlrR7s=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.13.4";
+    version = "2.13.5";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.4/revanced-patches-2.13.4.dex";
-      sha256 = "sha256-skvqVULK66HJi9W+wLSfnzrg6fJyFjDyUNCizmaBUUE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.dex";
+      sha256 = "sha256-VnzBX4G8fF89bSuatVvSYjAxt2U5Byawv9zAArF8hGk=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.13.4";
+    version = "2.13.5";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.4/revanced-patches-2.13.4.jar";
-      sha256 = "sha256-ImUUOQ5UM6xnBcAVh+f/HDq9saeTYxOsXMjMuFI/JVs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.jar";
+      sha256 = "sha256-CALQg6n3amk/1scFpAn7Jyy6DrbLbQKdtT4VLFIQUVI=";
     };
   };
   rofi-wayland = {
@@ -959,16 +959,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "c49bbc261c2c6ff9998882ffb97a9c599648178a";
+    version = "9498b77c0a6649670519f46b6f266d1ba1d0380a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "c49bbc261c2c6ff9998882ffb97a9c599648178a";
+      rev = "9498b77c0a6649670519f46b6f266d1ba1d0380a";
       fetchSubmodules = false;
-      sha256 = "sha256-LyQwZbLVDsx5y3Dm5Og8Dlc9ELGGwFUyCWVbCL6fTV0=";
+      sha256 = "sha256-okD09xzvRWZud1apm4nfeAyrNugpcaljj7/XIhkvHbo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-c49bbc261c2c6ff9998882ffb97a9c599648178a/Cargo.lock;
+      lockFile = ./rustdesk-9498b77c0a6649670519f46b6f266d1ba1d0380a/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1235,13 +1235,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "500beddf83ca65a24c3eb2d71c6f029110c0aad8";
+    version = "44dc2da59e56c403605a368203b3f2efe6926fcb";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "500beddf83ca65a24c3eb2d71c6f029110c0aad8";
+      rev = "44dc2da59e56c403605a368203b3f2efe6926fcb";
       fetchSubmodules = false;
-      sha256 = "sha256-r/mEwINSDvfH4GpirWG0rFjRFC6FJmncf78+/zL3stU=";
+      sha256 = "sha256-NKJx5+M6Le3ez1Eqep0/KFFhZz3f7Lg7vh4S9NyOnAs=";
     });
   };
   ultimmc = {
