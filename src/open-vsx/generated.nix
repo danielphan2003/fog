@@ -12061,12 +12061,24 @@
     description = "Fork of the One Monokai theme";
     publisher = "khan";
   };
+  kie-group-vscode-extension-kie-ba-bundle = {
+    pname = "kie-group-vscode-extension-kie-ba-bundle";
+    version = "0.21.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.21.0/file/kie-group.vscode-extension-kie-ba-bundle-0.21.0.vsix";
+      sha256 = "sha256-tEYy6KQly1RYwlS0jDP8Z7E/5BiH+Hg+wbd51EVIroE=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-extension-kie-ba-bundle";
+    description = "Edit BPMN, DMN and Test Scenario files";
+    publisher = "kie-group";
+  };
   kie-group-vscode-extension-kogito-bundle = {
     pname = "kie-group-vscode-extension-kogito-bundle";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.20.0/file/kie-group.vscode-extension-kogito-bundle-0.20.0.vsix";
-      sha256 = "sha256-++Z5l36raUz2zqDytoSj238I2XZPQze/ggd+ZT9hgio=";
+      url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.21.0/file/kie-group.vscode-extension-kogito-bundle-0.21.0.vsix";
+      sha256 = "sha256-DSyneNcYj0axHpiTvwXhvqkK6s7FQr3Hb3Mj4RSeEuU=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-kogito-bundle";
@@ -16959,10 +16971,10 @@
   };
   redhat-vscode-extension-bpmn-editor = {
     pname = "redhat-vscode-extension-bpmn-editor";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.20.0/file/redhat.vscode-extension-bpmn-editor-0.20.0.vsix";
-      sha256 = "sha256-DY2QLRjEXCwS5QidQEMDk+P0sNTuL5lRcZUrDWYyBMU=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.21.0/file/redhat.vscode-extension-bpmn-editor-0.21.0.vsix";
+      sha256 = "sha256-SMeErPOhBuNKcr7nA6fet085yZPII0EihIEgkA3GUOU=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-bpmn-editor";
@@ -16971,10 +16983,10 @@
   };
   redhat-vscode-extension-dmn-editor = {
     pname = "redhat-vscode-extension-dmn-editor";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.20.0/file/redhat.vscode-extension-dmn-editor-0.20.0.vsix";
-      sha256 = "sha256-Gmp5Bl+o+7aHGBM7Fi9HG5UAbHOFzoQd5zlpOLRuXS8=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.21.0/file/redhat.vscode-extension-dmn-editor-0.21.0.vsix";
+      sha256 = "sha256-Dukd4M0c3Q4whGFThqt+1i6SZwXkpC9ZM/Luc6npHmk=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-dmn-editor";
@@ -16983,10 +16995,10 @@
   };
   redhat-vscode-extension-pmml-editor = {
     pname = "redhat-vscode-extension-pmml-editor";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.20.0/file/redhat.vscode-extension-pmml-editor-0.20.0.vsix";
-      sha256 = "sha256-GGPUmLYGkjGy06efzWKXNtnq/TKQ+zogV3vjkXWOsMc=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.21.0/file/redhat.vscode-extension-pmml-editor-0.21.0.vsix";
+      sha256 = "sha256-xqhTxQPbR+n9QTYQhYkOJXrug5xj9LYpQpnqRRRxY7E=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-pmml-editor";
@@ -16995,10 +17007,10 @@
   };
   redhat-vscode-extension-red-hat-business-automation-bundle = {
     pname = "redhat-vscode-extension-red-hat-business-automation-bundle";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.20.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.20.0.vsix";
-      sha256 = "sha256-iEywF4LBStBqP8OF5KH5YJTgXxN+furj+gDIrG4BvV4=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.21.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.21.0.vsix";
+      sha256 = "sha256-XUfdfp5vUjvn/lnIImEJ8RtOGXmbTmHBh2KDoZa0GQA=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-red-hat-business-automation-bundle";
@@ -17007,10 +17019,10 @@
   };
   redhat-vscode-extension-serverless-workflow-editor = {
     pname = "redhat-vscode-extension-serverless-workflow-editor";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.20.0/file/redhat.vscode-extension-serverless-workflow-editor-0.20.0.vsix";
-      sha256 = "sha256-t2N2yedtc/V6hi3NH4amjVMuJ9SS1cHzL7CZQsPrrN4=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.21.0/file/redhat.vscode-extension-serverless-workflow-editor-0.21.0.vsix";
+      sha256 = "sha256-CljVfTgIY3D6PGr3/NfKqIs/FYQE1U64UJRUaOsET7g=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-serverless-workflow-editor";

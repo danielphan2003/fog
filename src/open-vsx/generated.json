@@ -19094,6 +19094,25 @@
         },
         "version": "0.1.3"
     },
+    "kie-group-vscode-extension-kie-ba-bundle": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "kie-group-vscode-extension-kie-ba-bundle",
+        "passthru": {
+            "description": "Edit BPMN, DMN and Test Scenario files",
+            "license": "Apache-2.0",
+            "name": "vscode-extension-kie-ba-bundle",
+            "publisher": "kie-group"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-tEYy6KQly1RYwlS0jDP8Z7E/5BiH+Hg+wbd51EVIroE=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.21.0/file/kie-group.vscode-extension-kie-ba-bundle-0.21.0.vsix"
+        },
+        "version": "0.21.0"
+    },
     "kie-group-vscode-extension-kogito-bundle": {
         "cargoLocks": null,
         "extract": null,
@@ -19107,11 +19126,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-++Z5l36raUz2zqDytoSj238I2XZPQze/ggd+ZT9hgio=",
+            "sha256": "sha256-DSyneNcYj0axHpiTvwXhvqkK6s7FQr3Hb3Mj4RSeEuU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.20.0/file/kie-group.vscode-extension-kogito-bundle-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.21.0/file/kie-group.vscode-extension-kogito-bundle-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "kieler-klighd-vscode": {
         "cargoLocks": null,
@@ -26859,11 +26878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DY2QLRjEXCwS5QidQEMDk+P0sNTuL5lRcZUrDWYyBMU=",
+            "sha256": "sha256-SMeErPOhBuNKcr7nA6fet085yZPII0EihIEgkA3GUOU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.20.0/file/redhat.vscode-extension-bpmn-editor-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.21.0/file/redhat.vscode-extension-bpmn-editor-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "redhat-vscode-extension-dmn-editor": {
         "cargoLocks": null,
@@ -26878,11 +26897,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Gmp5Bl+o+7aHGBM7Fi9HG5UAbHOFzoQd5zlpOLRuXS8=",
+            "sha256": "sha256-Dukd4M0c3Q4whGFThqt+1i6SZwXkpC9ZM/Luc6npHmk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.20.0/file/redhat.vscode-extension-dmn-editor-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.21.0/file/redhat.vscode-extension-dmn-editor-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "redhat-vscode-extension-pmml-editor": {
         "cargoLocks": null,
@@ -26897,11 +26916,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GGPUmLYGkjGy06efzWKXNtnq/TKQ+zogV3vjkXWOsMc=",
+            "sha256": "sha256-xqhTxQPbR+n9QTYQhYkOJXrug5xj9LYpQpnqRRRxY7E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.20.0/file/redhat.vscode-extension-pmml-editor-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.21.0/file/redhat.vscode-extension-pmml-editor-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "redhat-vscode-extension-red-hat-business-automation-bundle": {
         "cargoLocks": null,
@@ -26916,11 +26935,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iEywF4LBStBqP8OF5KH5YJTgXxN+furj+gDIrG4BvV4=",
+            "sha256": "sha256-XUfdfp5vUjvn/lnIImEJ8RtOGXmbTmHBh2KDoZa0GQA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.20.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.21.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "redhat-vscode-extension-serverless-workflow-editor": {
         "cargoLocks": null,
@@ -26935,11 +26954,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-t2N2yedtc/V6hi3NH4amjVMuJ9SS1cHzL7CZQsPrrN4=",
+            "sha256": "sha256-CljVfTgIY3D6PGr3/NfKqIs/FYQE1U64UJRUaOsET7g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.20.0/file/redhat.vscode-extension-serverless-workflow-editor-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.21.0/file/redhat.vscode-extension-serverless-workflow-editor-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "redhat-vscode-microprofile": {
         "cargoLocks": null,
