@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "a212f738bd23f6122f15a26b707f8fbd72ffe7b3",
-            "sha256": "sha256-zbr0MtTzKKV/ahTurj37GO9gRW27YUxUpu8RhF8S6Gg=",
+            "rev": "cef93bb79d193d13d417f84b16dff62f0d0d3c20",
+            "sha256": "sha256-0cytqpE4Hzl5ZBP0iigIc4Xy9dADyR2a8Hh1TveTplo=",
             "type": "github"
         },
-        "version": "a212f738bd23f6122f15a26b707f8fbd72ffe7b3"
+        "version": "cef93bb79d193d13d417f84b16dff62f0d0d3c20"
     },
     "caddy": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "642af5395e19d696be0cbf217a92d2a1e723e17a",
-            "sha256": "sha256-yNmlUkzGaaqEW0sPzDaFE79k28uJ5xgQ0MHs4rXQJbk=",
+            "rev": "634970a284146f41ef8eae8b5b1d9a17cce05a4c",
+            "sha256": "sha256-2sIwN3YlnXGRlvDQit7apztpzW+ruBv1m7xbkgmcdv0=",
             "type": "github"
         },
-        "version": "642af5395e19d696be0cbf217a92d2a1e723e17a"
+        "version": "634970a284146f41ef8eae8b5b1d9a17cce05a4c"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1514,11 +1514,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "6c8f649b02606c17a9246f8a6c6d5b9f04e14b19",
-            "sha256": "sha256-fgTj64gfBj/fGaE2X2uxmyPIeJ4p5qLsdgUQXQ3LETw=",
+            "rev": "c7c42409f11e5c5d38d1eb2a9ffcdfcebbd3ebe0",
+            "sha256": "sha256-l63CWzjAvBaRMozT0Xv0H9TzM4NC4CuslvO+WRuzgh0=",
             "type": "github"
         },
-        "version": "6c8f649b02606c17a9246f8a6c6d5b9f04e14b19"
+        "version": "c7c42409f11e5c5d38d1eb2a9ffcdfcebbd3ebe0"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1757,12 +1757,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f386f4c75e267d158d5aedba806c0f39b3f8dc7b",
-            "sha256": "sha256-10qWq5bWvSar5/5EW5b3VfNcLSVm9k8PaRz1+Or3wGo=",
+            "rev": "c93139f352f009bbcc81b528afc3eaae73123310",
+            "sha256": "sha256-I5tzg2c2WlOuJDJmYI5fFKeFdePXZP2SFbzFPMW1ntU=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "f386f4c75e267d158d5aedba806c0f39b3f8dc7b"
+        "version": "c93139f352f009bbcc81b528afc3eaae73123310"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -1956,7 +1956,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-b6cca65e077c3c23ea85744ca964b35f815d8946/Cargo.lock",
+                "./swhkd-484a235e57c5b830bef5c996d128a844c41acd4f/Cargo.lock",
                 {}
             ]
         },
@@ -1971,11 +1971,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "b6cca65e077c3c23ea85744ca964b35f815d8946",
-            "sha256": "sha256-yUup8aW2vUTAhEJnOpLdEA/xid7emTzKzS3JpGzJbk0=",
+            "rev": "484a235e57c5b830bef5c996d128a844c41acd4f",
+            "sha256": "sha256-T6FObP70zV7MfgoSGPYuZeC/+x3JALvki/RZzwlm8xg=",
             "type": "github"
         },
-        "version": "b6cca65e077c3c23ea85744ca964b35f815d8946"
+        "version": "484a235e57c5b830bef5c996d128a844c41acd4f"
     },
     "tailscale": {
         "cargoLocks": null,

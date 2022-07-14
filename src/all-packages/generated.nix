@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "a212f738bd23f6122f15a26b707f8fbd72ffe7b3";
+    version = "cef93bb79d193d13d417f84b16dff62f0d0d3c20";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "a212f738bd23f6122f15a26b707f8fbd72ffe7b3";
+      rev = "cef93bb79d193d13d417f84b16dff62f0d0d3c20";
       fetchSubmodules = false;
-      sha256 = "sha256-zbr0MtTzKKV/ahTurj37GO9gRW27YUxUpu8RhF8S6Gg=";
+      sha256 = "sha256-0cytqpE4Hzl5ZBP0iigIc4Xy9dADyR2a8Hh1TveTplo=";
     });
   };
   caddy = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "642af5395e19d696be0cbf217a92d2a1e723e17a";
+    version = "634970a284146f41ef8eae8b5b1d9a17cce05a4c";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "642af5395e19d696be0cbf217a92d2a1e723e17a";
+      rev = "634970a284146f41ef8eae8b5b1d9a17cce05a4c";
       fetchSubmodules = false;
-      sha256 = "sha256-yNmlUkzGaaqEW0sPzDaFE79k28uJ5xgQ0MHs4rXQJbk=";
+      sha256 = "sha256-2sIwN3YlnXGRlvDQit7apztpzW+ruBv1m7xbkgmcdv0=";
     });
   };
   ibus = {
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6c8f649b02606c17a9246f8a6c6d5b9f04e14b19";
+    version = "c7c42409f11e5c5d38d1eb2a9ffcdfcebbd3ebe0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6c8f649b02606c17a9246f8a6c6d5b9f04e14b19";
+      rev = "c7c42409f11e5c5d38d1eb2a9ffcdfcebbd3ebe0";
       fetchSubmodules = false;
-      sha256 = "sha256-fgTj64gfBj/fGaE2X2uxmyPIeJ4p5qLsdgUQXQ3LETw=";
+      sha256 = "sha256-l63CWzjAvBaRMozT0Xv0H9TzM4NC4CuslvO+WRuzgh0=";
     });
   };
   revanced-cli = {
@@ -1051,14 +1051,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f386f4c75e267d158d5aedba806c0f39b3f8dc7b";
+    version = "c93139f352f009bbcc81b528afc3eaae73123310";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f386f4c75e267d158d5aedba806c0f39b3f8dc7b";
+      rev = "c93139f352f009bbcc81b528afc3eaae73123310";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-10qWq5bWvSar5/5EW5b3VfNcLSVm9k8PaRz1+Or3wGo=";
+      sha256 = "sha256-I5tzg2c2WlOuJDJmYI5fFKeFdePXZP2SFbzFPMW1ntU=";
     };
   };
   spicetify-cli = {
@@ -1180,16 +1180,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "b6cca65e077c3c23ea85744ca964b35f815d8946";
+    version = "484a235e57c5b830bef5c996d128a844c41acd4f";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "b6cca65e077c3c23ea85744ca964b35f815d8946";
+      rev = "484a235e57c5b830bef5c996d128a844c41acd4f";
       fetchSubmodules = false;
-      sha256 = "sha256-yUup8aW2vUTAhEJnOpLdEA/xid7emTzKzS3JpGzJbk0=";
+      sha256 = "sha256-T6FObP70zV7MfgoSGPYuZeC/+x3JALvki/RZzwlm8xg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-b6cca65e077c3c23ea85744ca964b35f815d8946/Cargo.lock;
+      lockFile = ./swhkd-484a235e57c5b830bef5c996d128a844c41acd4f/Cargo.lock;
       outputHashes = {
         
       };
