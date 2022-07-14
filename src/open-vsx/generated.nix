@@ -7573,6 +7573,18 @@
     description = "";
     publisher = "danielgtaylor";
   };
+  danielroedl-meld-diff = {
+    pname = "danielroedl-meld-diff";
+    version = "1.3.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/danielroedl/meld-diff/1.3.3/file/danielroedl.meld-diff-1.3.3.vsix";
+      sha256 = "sha256-5clK2O+Rsmxg6bfiYryen7IagQAb3hRVa5vBCkR6vds=";
+    };
+    license = "MIT";
+    name = "meld-diff";
+    description = "Use meld (or other tools like WinMerge, Beyond Compare, ...) to compare files, folders, clipboard or git changes from visual studio code directly.";
+    publisher = "danielroedl";
+  };
   danielsrothstan-uixninja-theme = {
     pname = "danielsrothstan-uixninja-theme";
     version = "1.14.0";
@@ -19791,14 +19803,14 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.73.0";
+    version = "0.75.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.73.0/file/tokiwa-software.fuzion-lang-0.73.0.vsix";
-      sha256 = "sha256-p9KE6JwVyycLr3Qu2VDN9en0QMdsIKAHrus3XhHnzVg=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.0/file/tokiwa-software.fuzion-lang-0.75.0.vsix";
+      sha256 = "sha256-B+GQRn11STtQeDAHYLM4nbKScHWRgPdLrEJ72WpXU7k=";
     };
     license = "MIT";
     name = "fuzion-lang";
-    description = "Supports the development in the Fuzion programming language";
+    description = "This extension supports development in the Fuzion programming language";
     publisher = "tokiwa-software";
   };
   tomWritesCode-raspberrycandy = {
