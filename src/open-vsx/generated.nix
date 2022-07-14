@@ -9615,10 +9615,10 @@
   };
   ggbecker-content-navigator = {
     pname = "ggbecker-content-navigator";
-    version = "0.0.15";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ggbecker/content-navigator/0.0.15/file/ggbecker.content-navigator-0.0.15.vsix";
-      sha256 = "sha256-ejlrS3c0aL7YMlNXqCxnlfmRRG8lmqceKH+Zqe0MXVU=";
+      url = "https://open-vsx.org/api/ggbecker/content-navigator/1.0.0/file/ggbecker.content-navigator-1.0.0.vsix";
+      sha256 = "sha256-7VAN/qQzT5JVNKijSfqyQKWM/ks3r5pR2Wxp13mL4qM=";
     };
     license = "BSD-3-Clause";
     name = "content-navigator";

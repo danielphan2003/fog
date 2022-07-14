@@ -15231,11 +15231,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ejlrS3c0aL7YMlNXqCxnlfmRRG8lmqceKH+Zqe0MXVU=",
+            "sha256": "sha256-7VAN/qQzT5JVNKijSfqyQKWM/ks3r5pR2Wxp13mL4qM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ggbecker/content-navigator/0.0.15/file/ggbecker.content-navigator-0.0.15.vsix"
+            "url": "https://open-vsx.org/api/ggbecker/content-navigator/1.0.0/file/ggbecker.content-navigator-1.0.0.vsix"
         },
-        "version": "0.0.15"
+        "version": "1.0.0"
     },
     "gharveymn-nightswitch-lite": {
         "cargoLocks": null,
