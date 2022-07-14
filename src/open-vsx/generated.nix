@@ -5187,10 +5187,10 @@
   };
   anyscalecompute-anyscale-workspaces = {
     pname = "anyscalecompute-anyscale-workspaces";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.5/file/anyscalecompute.anyscale-workspaces-0.1.5.vsix";
-      sha256 = "sha256-+eG/77BA1369pJiYVKL2+xt3SBuXrqv518dV9XJvcZo=";
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.6/file/anyscalecompute.anyscale-workspaces-0.1.6.vsix";
+      sha256 = "sha256-ILarky+nJQhhdJm8A5ppoeOSzNc9XwHzswtzfr6eytk=";
     };
     license = "Apache-2.0";
     name = "anyscale-workspaces";

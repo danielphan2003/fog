@@ -8220,11 +8220,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+eG/77BA1369pJiYVKL2+xt3SBuXrqv518dV9XJvcZo=",
+            "sha256": "sha256-ILarky+nJQhhdJm8A5ppoeOSzNc9XwHzswtzfr6eytk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.5/file/anyscalecompute.anyscale-workspaces-0.1.5.vsix"
+            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.6/file/anyscalecompute.anyscale-workspaces-0.1.6.vsix"
         },
-        "version": "0.1.5"
+        "version": "0.1.6"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
