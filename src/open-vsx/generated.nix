@@ -4179,10 +4179,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.11.2";
+    version = "4.11.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.2/file/42Crunch.vscode-openapi-4.11.2.vsix";
-      sha256 = "sha256-fzYnw22NhZBPVmwWdK7mBznBItf4ChCKtoy/X24X++g=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.3/file/42Crunch.vscode-openapi-4.11.3.vsix";
+      sha256 = "sha256-zjnl9IS3kKnsfKaRIEqEtzlavJVpfNHWfH+yAw8rAX4=";
     };
     license = "AGPL-3.0-only";
     name = "vscode-openapi";

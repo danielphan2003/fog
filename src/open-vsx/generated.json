@@ -6624,11 +6624,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fzYnw22NhZBPVmwWdK7mBznBItf4ChCKtoy/X24X++g=",
+            "sha256": "sha256-zjnl9IS3kKnsfKaRIEqEtzlavJVpfNHWfH+yAw8rAX4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.2/file/42Crunch.vscode-openapi-4.11.2.vsix"
+            "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.3/file/42Crunch.vscode-openapi-4.11.3.vsix"
         },
-        "version": "4.11.2"
+        "version": "4.11.3"
     },
     "_4ops-terraform": {
         "cargoLocks": null,
