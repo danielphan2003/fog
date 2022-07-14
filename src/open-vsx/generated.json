@@ -12495,11 +12495,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-o+Z/1KFm/RwYowZXWEF15JCx2SVcZrK008YSjGIeo/g=",
+            "sha256": "sha256-PMNyR0VDpI0BpWiZADnoF8r9tV1uukyvpYQQdxSKWas=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.102.7/file/dendron.nightly-0.102.7.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.103.1/file/dendron.nightly-0.103.1.vsix"
         },
-        "version": "0.102.7"
+        "version": "0.103.1"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
