@@ -959,16 +959,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "dde3e4f994537f31b285562a3e288c1b03014966";
+    version = "c49bbc261c2c6ff9998882ffb97a9c599648178a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "dde3e4f994537f31b285562a3e288c1b03014966";
+      rev = "c49bbc261c2c6ff9998882ffb97a9c599648178a";
       fetchSubmodules = false;
-      sha256 = "sha256-q5BQxQ7W9/bnzRfnx2rhk6rSoReXOeGLUbZ3uHFUK6M=";
+      sha256 = "sha256-LyQwZbLVDsx5y3Dm5Og8Dlc9ELGGwFUyCWVbCL6fTV0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-dde3e4f994537f31b285562a3e288c1b03014966/Cargo.lock;
+      lockFile = ./rustdesk-c49bbc261c2c6ff9998882ffb97a9c599648178a/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1235,13 +1235,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "cbb3b4fd773595cf1493836d2cc0453d170129ca";
+    version = "500beddf83ca65a24c3eb2d71c6f029110c0aad8";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "cbb3b4fd773595cf1493836d2cc0453d170129ca";
+      rev = "500beddf83ca65a24c3eb2d71c6f029110c0aad8";
       fetchSubmodules = false;
-      sha256 = "sha256-E95dD5jWtFLsHaO3zqfa7fXDJS+5t94eW882Hfo85G4=";
+      sha256 = "sha256-r/mEwINSDvfH4GpirWG0rFjRFC6FJmncf78+/zL3stU=";
     });
   };
   ultimmc = {
