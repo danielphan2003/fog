@@ -959,16 +959,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "bb8257b7f29a8a6f3ee7d6f1fd4e7992846a2341";
+    version = "dde3e4f994537f31b285562a3e288c1b03014966";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "bb8257b7f29a8a6f3ee7d6f1fd4e7992846a2341";
+      rev = "dde3e4f994537f31b285562a3e288c1b03014966";
       fetchSubmodules = false;
-      sha256 = "sha256-BoNbeoGyD174kHHQLlg+XnD7wdumXCG9cxDdEIRMsYU=";
+      sha256 = "sha256-q5BQxQ7W9/bnzRfnx2rhk6rSoReXOeGLUbZ3uHFUK6M=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-bb8257b7f29a8a6f3ee7d6f1fd4e7992846a2341/Cargo.lock;
+      lockFile = ./rustdesk-dde3e4f994537f31b285562a3e288c1b03014966/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
@@ -1051,14 +1051,14 @@
   };
   snui = {
     pname = "snui";
-    version = "3b65374f4a39c71683bd7a123f2c8679fa06e81b";
+    version = "73ff0c4182b9f6782628e19f1f23a2a5ccf889ca";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "3b65374f4a39c71683bd7a123f2c8679fa06e81b";
+      rev = "73ff0c4182b9f6782628e19f1f23a2a5ccf889ca";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-mkNCYN2n/2+gPYYJzkPAd6Dx9wkgmyLLt1yLKTDInAA=";
+      sha256 = "sha256-eumt1fNCxhTui6tH6SKnkAclICiLUaRzbB0CQ6xQ1Lk=";
     };
   };
   spicetify-cli = {
