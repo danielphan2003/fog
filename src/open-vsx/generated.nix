@@ -2367,10 +2367,10 @@
   };
   MariusvanWijk-JoppeKoers-codam-norminette-3 = {
     pname = "MariusvanWijk-JoppeKoers-codam-norminette-3";
-    version = "4.5.1";
+    version = "4.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.5.1/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.5.1.vsix";
-      sha256 = "sha256-P1nCZt+HmmYOK0BP3F4cRxlxWXg5bkMa7Ef4w4mJoHY=";
+      url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-3/4.5.3/file/MariusvanWijk-JoppeKoers.codam-norminette-3-4.5.3.vsix";
+      sha256 = "sha256-2T3sEqiSwA4Pbmb9p56cg9il7cknluiyshFPly40fIA=";
     };
     license = "MIT";
     name = "codam-norminette-3";
@@ -3867,10 +3867,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.4.4";
+    version = "1.4.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.4/file/WatermelonTools.watermelon-tools-1.4.4.vsix";
-      sha256 = "sha256-+et5IuuGg49x3r1Bx1hxBIY3J+n4/8aSr/SELu4Kyvc=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.5/file/WatermelonTools.watermelon-tools-1.4.5.vsix";
+      sha256 = "sha256-WvX+vskd2xRwlTeETU8AFfsLJkaKUO7U1A7UkoaQEMk=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
