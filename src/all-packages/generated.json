@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "b0dd37042120f5ddaf210185a6d225fbd61ced4f",
-            "sha256": "sha256-c3YpfRHJ1KF1Jfyo3+xqpiJkp0d8Sk9Ld3owQD4NWlc=",
+            "rev": "0488f179768d01767d47485835fe4a6c21581ca3",
+            "sha256": "sha256-+KPBonK5rlObCVxifAe6WYFp1MU02PsUGSwz/I6dVdY=",
             "type": "github"
         },
-        "version": "b0dd37042120f5ddaf210185a6d225fbd61ced4f"
+        "version": "0488f179768d01767d47485835fe4a6c21581ca3"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1053,11 +1053,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T9MMTFVow1Wcih0neypPd3BiUOgmoyjKYCJh9s8LyOk=",
+            "sha256": "sha256-wB7X97TomedcCcBWRcDJKEAfMDWIkhjCjvrfXaM4f7g=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.14-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.21-1_amd64.deb"
         },
-        "version": "104.0.1293.14"
+        "version": "104.0.1293.21"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1542,11 +1542,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OnW+hdDYjodINi5bEGqaRe9R3SGXCsri50hJgTlrR7s=",
+            "sha256": "sha256-1mdb9DViNWgom6TCo6XJt07GIKDBo6Q5FBBkzqjHFqg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.24.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.24.2/app-release-unsigned.apk"
         },
-        "version": "0.24.1"
+        "version": "0.24.2"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1556,11 +1556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VnzBX4G8fF89bSuatVvSYjAxt2U5Byawv9zAArF8hGk=",
+            "sha256": "sha256-5afI+6ezrJuIvLUpN+Fkoeh51YLkrieoo9HrwrQHWjY=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.6/revanced-patches-2.13.6.dex"
         },
-        "version": "2.13.5"
+        "version": "2.13.6"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CALQg6n3amk/1scFpAn7Jyy6DrbLbQKdtT4VLFIQUVI=",
+            "sha256": "sha256-WhUOPrx74nItEa3580stfQpq5Rcz+uSMGaqJRGe3n28=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.13.6/revanced-patches-2.13.6.jar"
         },
-        "version": "2.13.5"
+        "version": "2.13.6"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1757,12 +1757,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "73ff0c4182b9f6782628e19f1f23a2a5ccf889ca",
-            "sha256": "sha256-eumt1fNCxhTui6tH6SKnkAclICiLUaRzbB0CQ6xQ1Lk=",
+            "rev": "d9e580e57244465c336966053e51667c6eeaa7b5",
+            "sha256": "sha256-A7dl5HG/T6OtF4u1MA4y+D7rlJtyKB8sjQ2Wh5hKmjY=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "73ff0c4182b9f6782628e19f1f23a2a5ccf889ca"
+        "version": "d9e580e57244465c336966053e51667c6eeaa7b5"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -2186,11 +2186,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "7674914195ee988d0274a8ca43f63b73608a227a",
-            "sha256": "sha256-4LkN1D/WJ0BacAYB0Hc0nclLcEGnkLbJDWMPhsaAUBg=",
+            "rev": "7a38305a43f4b4d6f760d08404c40dd1ab66a949",
+            "sha256": "sha256-zhm63tn7u/9zrRbB/dvH5BenMWXgSsDl2W0MKPuyJ30=",
             "type": "github"
         },
-        "version": "7674914195ee988d0274a8ca43f63b73608a227a"
+        "version": "7a38305a43f4b4d6f760d08404c40dd1ab66a949"
     },
     "wgcf": {
         "cargoLocks": null,

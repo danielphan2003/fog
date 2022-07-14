@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b0dd37042120f5ddaf210185a6d225fbd61ced4f";
+    version = "0488f179768d01767d47485835fe4a6c21581ca3";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "b0dd37042120f5ddaf210185a6d225fbd61ced4f";
+      rev = "0488f179768d01767d47485835fe4a6c21581ca3";
       fetchSubmodules = false;
-      sha256 = "sha256-c3YpfRHJ1KF1Jfyo3+xqpiJkp0d8Sk9Ld3owQD4NWlc=";
+      sha256 = "sha256-+KPBonK5rlObCVxifAe6WYFp1MU02PsUGSwz/I6dVdY=";
     });
   };
   ibus = {
@@ -632,10 +632,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "104.0.1293.14";
+    version = "104.0.1293.21";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.14-1_amd64.deb";
-      sha256 = "sha256-T9MMTFVow1Wcih0neypPd3BiUOgmoyjKYCJh9s8LyOk=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.21-1_amd64.deb";
+      sha256 = "sha256-wB7X97TomedcCcBWRcDJKEAfMDWIkhjCjvrfXaM4f7g=";
     };
   };
   microsoft-edge-dev = {
@@ -924,26 +924,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.24.1";
+    version = "0.24.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.24.1/app-release-unsigned.apk";
-      sha256 = "sha256-OnW+hdDYjodINi5bEGqaRe9R3SGXCsri50hJgTlrR7s=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.24.2/app-release-unsigned.apk";
+      sha256 = "sha256-1mdb9DViNWgom6TCo6XJt07GIKDBo6Q5FBBkzqjHFqg=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.13.5";
+    version = "2.13.6";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.dex";
-      sha256 = "sha256-VnzBX4G8fF89bSuatVvSYjAxt2U5Byawv9zAArF8hGk=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.6/revanced-patches-2.13.6.dex";
+      sha256 = "sha256-5afI+6ezrJuIvLUpN+Fkoeh51YLkrieoo9HrwrQHWjY=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.13.5";
+    version = "2.13.6";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.5/revanced-patches-2.13.5.jar";
-      sha256 = "sha256-CALQg6n3amk/1scFpAn7Jyy6DrbLbQKdtT4VLFIQUVI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.6/revanced-patches-2.13.6.jar";
+      sha256 = "sha256-WhUOPrx74nItEa3580stfQpq5Rcz+uSMGaqJRGe3n28=";
     };
   };
   rofi-wayland = {
@@ -1051,14 +1051,14 @@
   };
   snui = {
     pname = "snui";
-    version = "73ff0c4182b9f6782628e19f1f23a2a5ccf889ca";
+    version = "d9e580e57244465c336966053e51667c6eeaa7b5";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "73ff0c4182b9f6782628e19f1f23a2a5ccf889ca";
+      rev = "d9e580e57244465c336966053e51667c6eeaa7b5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-eumt1fNCxhTui6tH6SKnkAclICiLUaRzbB0CQ6xQ1Lk=";
+      sha256 = "sha256-A7dl5HG/T6OtF4u1MA4y+D7rlJtyKB8sjQ2Wh5hKmjY=";
     };
   };
   spicetify-cli = {
@@ -1312,13 +1312,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "7674914195ee988d0274a8ca43f63b73608a227a";
+    version = "7a38305a43f4b4d6f760d08404c40dd1ab66a949";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "7674914195ee988d0274a8ca43f63b73608a227a";
+      rev = "7a38305a43f4b4d6f760d08404c40dd1ab66a949";
       fetchSubmodules = false;
-      sha256 = "sha256-4LkN1D/WJ0BacAYB0Hc0nclLcEGnkLbJDWMPhsaAUBg=";
+      sha256 = "sha256-zhm63tn7u/9zrRbB/dvH5BenMWXgSsDl2W0MKPuyJ30=";
     });
   };
   wgcf = {
