@@ -1191,10 +1191,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "6.1.0";
+    version = "6.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.1.0/file/GitHub.github-vscode-theme-6.1.0.vsix";
-      sha256 = "sha256-/RrjB3Jr0AOEMcBXS254Qoh3XyLv+Q49/dZChSj0lPw=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.2.0/file/GitHub.github-vscode-theme-6.2.0.vsix";
+      sha256 = "sha256-k5ChNRznNild/HSqft8yca9g9uA2lyXSZTsQS5Wbk+s=";
     };
     license = "MIT";
     name = "github-vscode-theme";
@@ -2655,10 +2655,10 @@
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
-    version = "1.5.10";
+    version = "1.5.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.10/file/Nightrains.robloxlsp-1.5.10.vsix";
-      sha256 = "sha256-r/ptiMZfPVGYbrQSSb+1S2okNYme0Plg8LsL6WX5gbY=";
+      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.11/file/Nightrains.robloxlsp-1.5.11.vsix";
+      sha256 = "sha256-FfJPaauq6Nk0zoeFdFXrswyuGj1lPqwzCx/I2Ldh+9Y=";
     };
     license = "MIT";
     name = "robloxlsp";
@@ -5763,10 +5763,10 @@
   };
   ban-spellright = {
     pname = "ban-spellright";
-    version = "3.0.64";
+    version = "3.0.72";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ban/spellright/3.0.64/file/ban.spellright-3.0.64.vsix";
-      sha256 = "sha256-XiHtUOMNTA+ILcWS/HCUDcHWjtKsuUz0JcdLr1BViJ4=";
+      url = "https://open-vsx.org/api/ban/spellright/3.0.72/file/ban.spellright-3.0.72.vsix";
+      sha256 = "sha256-yOgq2s5KKT+kCBcW2p14Nek1uapdHoPt4V2ktEEdbr4=";
     };
     license = "";
     name = "spellright";
@@ -6687,10 +6687,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.3.0/file/chenglou92.rescript-vscode-1.3.0.vsix";
-      sha256 = "sha256-Sgi7FFOpI/XOeyPOrDhwZdZ+43ilUz7oQ49yB7tiMXk=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.0/file/chenglou92.rescript-vscode-1.4.0.vsix";
+      sha256 = "sha256-jDhm3hUAuI65n2alsvbKsLSxSIrW+P8JDx4j6ljTx+E=";
     };
     license = "MIT";
     name = "rescript-vscode";
@@ -8235,10 +8235,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.1.1";
+    version = "12.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.1.1/file/eamodio.gitlens-12.1.1.vsix";
-      sha256 = "sha256-kp3cFYDUuOfFsqjz+2zYlQqdXguIAOd+CC7nYNjrPEQ=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.1.2/file/eamodio.gitlens-12.1.2.vsix";
+      sha256 = "sha256-qclBbZeGH7ODYAruhTi7X5FTRcai29nGTpSbeF129XI=";
     };
     license = "MIT";
     name = "gitlens";
@@ -8583,10 +8583,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.8.9";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.8.9/file/enkia.tokyo-night-0.8.9.vsix";
-      sha256 = "sha256-++AW2SCagrnt3HmpfooRIJ6bA666IK/Ls03VJOvdh44=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.0/file/enkia.tokyo-night-0.9.0.vsix";
+      sha256 = "sha256-dp1khIrsNqf+OwREw8yPA5DfGD4w/S3EzHfylq0B1KY=";
     };
     license = "MIT";
     name = "tokyo-night";
