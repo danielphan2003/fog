@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0af00f4ef4290c42232997337ead07fe998f967c";
+    version = "c31b964027a273903292d1e695f39d48719cc1fc";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0af00f4ef4290c42232997337ead07fe998f967c";
+      rev = "c31b964027a273903292d1e695f39d48719cc1fc";
       fetchSubmodules = false;
-      sha256 = "sha256-YHMMzDRPaDuwwNqfMTy5+j/IaOA8NaqgavViEYyt8cg=";
+      sha256 = "sha256-XzS0erbhsUM2d1fRr8IvTkf1YK+cKpDeccCRJun2Lzo=";
     });
   };
   caddy = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0488f179768d01767d47485835fe4a6c21581ca3";
+    version = "316589406f948c3e4d8a32083600d0b32582a460";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "0488f179768d01767d47485835fe4a6c21581ca3";
+      rev = "316589406f948c3e4d8a32083600d0b32582a460";
       fetchSubmodules = false;
-      sha256 = "sha256-+KPBonK5rlObCVxifAe6WYFp1MU02PsUGSwz/I6dVdY=";
+      sha256 = "sha256-garex4euPzjS9d2vaTi1Ht/1RCusaEkDL35eGuRAcDA=";
     });
   };
   ibus = {
@@ -751,13 +751,13 @@
   };
   picom = {
     pname = "picom";
-    version = "e2ed9125ed1309503a3a901a8b3a47e29a2cbfb5";
+    version = "60c96953940d8035504e5c385b13ef88c46ff41e";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "e2ed9125ed1309503a3a901a8b3a47e29a2cbfb5";
+      rev = "60c96953940d8035504e5c385b13ef88c46ff41e";
       fetchSubmodules = false;
-      sha256 = "sha256-M9eOV+3RrxMR1b29CV63O2tWZ/iQg2PtXFVsKqr7+d8=";
+      sha256 = "sha256-j6yeA6YhtzRCMYTMRUIICKUA/NkASatkTBPXJi95DFE=";
     });
   };
   playit-agent = {
@@ -959,25 +959,25 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9498b77c0a6649670519f46b6f266d1ba1d0380a";
+    version = "d3fc6ccd9ca5412f3d49f5225e35d9e57fc6b891";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9498b77c0a6649670519f46b6f266d1ba1d0380a";
+      rev = "d3fc6ccd9ca5412f3d49f5225e35d9e57fc6b891";
       fetchSubmodules = false;
-      sha256 = "sha256-okD09xzvRWZud1apm4nfeAyrNugpcaljj7/XIhkvHbo=";
+      sha256 = "sha256-Pk9/7CSXm8aRSD2u9paU4pTgrq7UZvUT5cBJwFNOZLk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-9498b77c0a6649670519f46b6f266d1ba1d0380a/Cargo.lock;
+      lockFile = ./rustdesk-d3fc6ccd9ca5412f3d49f5225e35d9e57fc6b891/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
-        "hwcodec-0.1.0" = "sha256-tkxs8pjO6vwG4LqVmhTB35kalibD1VbOcDEFxpTb048=";
+        "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
+        "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
+        "hwcodec-0.1.0" = "sha256-1rReqkHjBB+MVJqq7+NqGcFx8OgKzv582W3GVpErgl4=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
-        "parity-tokio-ipc-0.7.3" = "sha256-9m9YQoJ3Vaet25TL40Yb76zHRlnnsreW/EOMb/R7cRk=";
-        "tokio-socks-0.5.1" = "sha256-sR3Pa3PIKB+3M8pnC/jzwdR5rsUVOqZbon893G34TUw=";
-        "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
+        "rdev-0.5.0-1" = "sha256-aaC2Aq6xBSKV7+eUZWKLSmDBFwNcHWkgw1jJWQXvNqA=";
       };
     };
   };
@@ -1312,13 +1312,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "7a38305a43f4b4d6f760d08404c40dd1ab66a949";
+    version = "5f808b2614592ba7f85acb1b7ff297840b26e674";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "7a38305a43f4b4d6f760d08404c40dd1ab66a949";
+      rev = "5f808b2614592ba7f85acb1b7ff297840b26e674";
       fetchSubmodules = false;
-      sha256 = "sha256-zhm63tn7u/9zrRbB/dvH5BenMWXgSsDl2W0MKPuyJ30=";
+      sha256 = "sha256-UXLoISRJZyGGrnbq/hRssRUb9hkUjrJumOikgKGgnyg=";
     });
   };
   wgcf = {

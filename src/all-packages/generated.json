@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "0af00f4ef4290c42232997337ead07fe998f967c",
-            "sha256": "sha256-YHMMzDRPaDuwwNqfMTy5+j/IaOA8NaqgavViEYyt8cg=",
+            "rev": "c31b964027a273903292d1e695f39d48719cc1fc",
+            "sha256": "sha256-XzS0erbhsUM2d1fRr8IvTkf1YK+cKpDeccCRJun2Lzo=",
             "type": "github"
         },
-        "version": "0af00f4ef4290c42232997337ead07fe998f967c"
+        "version": "c31b964027a273903292d1e695f39d48719cc1fc"
     },
     "caddy": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "0488f179768d01767d47485835fe4a6c21581ca3",
-            "sha256": "sha256-+KPBonK5rlObCVxifAe6WYFp1MU02PsUGSwz/I6dVdY=",
+            "rev": "316589406f948c3e4d8a32083600d0b32582a460",
+            "sha256": "sha256-garex4euPzjS9d2vaTi1Ht/1RCusaEkDL35eGuRAcDA=",
             "type": "github"
         },
-        "version": "0488f179768d01767d47485835fe4a6c21581ca3"
+        "version": "316589406f948c3e4d8a32083600d0b32582a460"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1253,11 +1253,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "e2ed9125ed1309503a3a901a8b3a47e29a2cbfb5",
-            "sha256": "sha256-M9eOV+3RrxMR1b29CV63O2tWZ/iQg2PtXFVsKqr7+d8=",
+            "rev": "60c96953940d8035504e5c385b13ef88c46ff41e",
+            "sha256": "sha256-j6yeA6YhtzRCMYTMRUIICKUA/NkASatkTBPXJi95DFE=",
             "type": "github"
         },
-        "version": "e2ed9125ed1309503a3a901a8b3a47e29a2cbfb5"
+        "version": "60c96953940d8035504e5c385b13ef88c46ff41e"
     },
     "playit-agent": {
         "cargoLocks": {
@@ -1598,16 +1598,16 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-9498b77c0a6649670519f46b6f266d1ba1d0380a/Cargo.lock",
+                "./rustdesk-d3fc6ccd9ca5412f3d49f5225e35d9e57fc6b891/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
-                    "hwcodec-0.1.0": "sha256-tkxs8pjO6vwG4LqVmhTB35kalibD1VbOcDEFxpTb048=",
+                    "hwcodec-0.1.0": "sha256-1rReqkHjBB+MVJqq7+NqGcFx8OgKzv582W3GVpErgl4=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
-                    "parity-tokio-ipc-0.7.3": "sha256-9m9YQoJ3Vaet25TL40Yb76zHRlnnsreW/EOMb/R7cRk=",
-                    "rdev-0.5.0": "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=",
+                    "parity-tokio-ipc-0.7.3-1": "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=",
+                    "rdev-0.5.0-1": "sha256-aaC2Aq6xBSKV7+eUZWKLSmDBFwNcHWkgw1jJWQXvNqA=",
                     "rust-pulsectl-0.2.12": "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=",
                     "sciter-rs-0.5.57": "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=",
-                    "tokio-socks-0.5.1": "sha256-sR3Pa3PIKB+3M8pnC/jzwdR5rsUVOqZbon893G34TUw="
+                    "tokio-socks-0.5.1-1": "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk="
                 }
             ]
         },
@@ -1622,11 +1622,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "9498b77c0a6649670519f46b6f266d1ba1d0380a",
-            "sha256": "sha256-okD09xzvRWZud1apm4nfeAyrNugpcaljj7/XIhkvHbo=",
+            "rev": "d3fc6ccd9ca5412f3d49f5225e35d9e57fc6b891",
+            "sha256": "sha256-Pk9/7CSXm8aRSD2u9paU4pTgrq7UZvUT5cBJwFNOZLk=",
             "type": "github"
         },
-        "version": "9498b77c0a6649670519f46b6f266d1ba1d0380a"
+        "version": "d3fc6ccd9ca5412f3d49f5225e35d9e57fc6b891"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -2186,11 +2186,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "7a38305a43f4b4d6f760d08404c40dd1ab66a949",
-            "sha256": "sha256-zhm63tn7u/9zrRbB/dvH5BenMWXgSsDl2W0MKPuyJ30=",
+            "rev": "5f808b2614592ba7f85acb1b7ff297840b26e674",
+            "sha256": "sha256-UXLoISRJZyGGrnbq/hRssRUb9hkUjrJumOikgKGgnyg=",
             "type": "github"
         },
-        "version": "7a38305a43f4b4d6f760d08404c40dd1ab66a949"
+        "version": "5f808b2614592ba7f85acb1b7ff297840b26e674"
     },
     "wgcf": {
         "cargoLocks": null,
