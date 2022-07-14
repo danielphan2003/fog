@@ -2919,10 +2919,10 @@
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
-    version = "4.6.0";
+    version = "4.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.6.0/file/PrateekMahendrakar.resxpress-4.6.0.vsix";
-      sha256 = "sha256-5ZpR0YiVipc6PBqXQ4oxFt9IcRnhWYkyselAiDAjyKQ=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.7.0/file/PrateekMahendrakar.resxpress-4.7.0.vsix";
+      sha256 = "sha256-8wtwdZz8G19uXIgSbaN3t9QCoa6S/tesCdCNmtIfAn8=";
     };
     license = "MIT";
     name = "resxpress";
@@ -5187,10 +5187,10 @@
   };
   anyscalecompute-anyscale-workspaces = {
     pname = "anyscalecompute-anyscale-workspaces";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.4/file/anyscalecompute.anyscale-workspaces-0.1.4.vsix";
-      sha256 = "sha256-/Vx4ZmDy9x1EBchEgUr6h12sWKiPK9D+FAHJm/3pxRM=";
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.5/file/anyscalecompute.anyscale-workspaces-0.1.5.vsix";
+      sha256 = "sha256-+eG/77BA1369pJiYVKL2+xt3SBuXrqv518dV9XJvcZo=";
     };
     license = "Apache-2.0";
     name = "anyscale-workspaces";
@@ -11055,10 +11055,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.9";
+    version = "0.3.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.9/file/iterative.dvc-0.3.9.vsix";
-      sha256 = "sha256-kWztqRSpeHUWT7FSm5xxvUl50cyy5DEwOu3CRLjHMTI=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.10/file/iterative.dvc-0.3.10.vsix";
+      sha256 = "sha256-AOEHGAE/PeIcXJIoCyFhOk6P288YzLveRpN+k5daXbo=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -14775,10 +14775,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.36.0";
+    version = "0.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.36.0/file/mutable-ai.mutable-ai-0.36.0.vsix";
-      sha256 = "sha256-wIUY6F3D+veGcxtbUPltnWN8mD1v67UF7jEWFv0Fz24=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.37.0/file/mutable-ai.mutable-ai-0.37.0.vsix";
+      sha256 = "sha256-HqyRMvWQDmInyABWf+Hwjk8wx83FIiW9xiVPu3U9rfI=";
     };
     license = "";
     name = "mutable-ai";
