@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "a22808aff37c36c0ba757d11a77c6ab016f1c6ce";
+    version = "6956f7dffc4c2b6c6c407b2008e4bd1da5d65d31";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "a22808aff37c36c0ba757d11a77c6ab016f1c6ce";
+      rev = "6956f7dffc4c2b6c6c407b2008e4bd1da5d65d31";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sHRDSItkJaDBA/uvPJUe5+InEZxGHITDFrVzjS8VqDU=";
+      sha256 = "sha256-6mxWoDrkfSkkHln7uwug3/piLgO5UE1YVjs+ZeWL3H0=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-a22808aff37c36c0ba757d11a77c6ab016f1c6ce/Cargo.lock;
+      lockFile = ./asusctl-6956f7dffc4c2b6c6c407b2008e4bd1da5d65d31/Cargo.lock;
       outputHashes = {
         
       };
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5af26a451a98288178843e5b249694c6ffc41520";
+    version = "6306d4dae3fa221a6099e109c7faef60bac4fac5";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "5af26a451a98288178843e5b249694c6ffc41520";
+      rev = "6306d4dae3fa221a6099e109c7faef60bac4fac5";
       fetchSubmodules = false;
-      sha256 = "sha256-qqsI73/G/DDRUuRv9w5FgETcOVgBBGLkPTEA5cuwEdk=";
+      sha256 = "sha256-HFA6W6gCPNPVYREApW9JkTwl98ixDeugxgytwItwp5Y=";
     });
   };
   ibus = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6355";
+    version = "1.0.6356";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6355.tar.bz2";
-      sha256 = "sha256-Wcg2uVtH9AsOw0MbnEHjurKNfnsxoCuaCYv9DD5VBec=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6356.tar.bz2";
+      sha256 = "sha256-xOerIlkCe46x509v9LhmRk9V4JjSNRfZEy2Jiiur/N8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6355";
+    version = "1.0.6357";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6355-1_all.deb";
-      sha256 = "sha256-XolhPDb9QXaYO7StjRWUKNUhQtVe82uA/HhaASySeZE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6357-1_all.deb";
+      sha256 = "sha256-l5KoAaOM20EBao62i78Y4URuxSSuz3WR3CGginUcA+4=";
     };
   };
   jitsi-videobridge2 = {
@@ -932,18 +932,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.13.6";
+    version = "2.14.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.6/revanced-patches-2.13.6.dex";
-      sha256 = "sha256-5afI+6ezrJuIvLUpN+Fkoeh51YLkrieoo9HrwrQHWjY=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.14.0/revanced-patches-2.14.0.dex";
+      sha256 = "sha256-45hd4emtABmq9vllbyXJd3aKpSLR0E4cAMpA/s3qkbY=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.13.6";
+    version = "2.14.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.13.6/revanced-patches-2.13.6.jar";
-      sha256 = "sha256-WhUOPrx74nItEa3580stfQpq5Rcz+uSMGaqJRGe3n28=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.14.0/revanced-patches-2.14.0.jar";
+      sha256 = "sha256-qYzQYmvdIJ4Dc6NU0fiCVBSWOHD7+4kGdJ55YbtsRgQ=";
     };
   };
   rofi-wayland = {
@@ -1235,13 +1235,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "8faf3f54b77d4848c74fc9715994ae2957f1ff4a";
+    version = "97cf8b69b9796e0ecf871678f666a767c2992709";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "8faf3f54b77d4848c74fc9715994ae2957f1ff4a";
+      rev = "97cf8b69b9796e0ecf871678f666a767c2992709";
       fetchSubmodules = false;
-      sha256 = "sha256-4z2j96BCoHCHkno4sTQVxp+uEtCtwDY8EbQyJvvb17c=";
+      sha256 = "sha256-To0fLZs27Epi0JWeTTnbSkBBmoP/67Ez54CKNCK3/8E=";
     });
   };
   ultimmc = {
