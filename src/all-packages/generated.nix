@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6306d4dae3fa221a6099e109c7faef60bac4fac5";
+    version = "144185681125df1567ada00c301e9ce242909f27";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "6306d4dae3fa221a6099e109c7faef60bac4fac5";
+      rev = "144185681125df1567ada00c301e9ce242909f27";
       fetchSubmodules = false;
-      sha256 = "sha256-HFA6W6gCPNPVYREApW9JkTwl98ixDeugxgytwItwp5Y=";
+      sha256 = "sha256-r90mVgJT4xpZ6Umingi2H6mCu4vPZwKdZV9URELZl4U=";
     });
   };
   ibus = {
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "675ff6b9b629b4b4881db4e380a17cc325f949b3";
+    version = "b56b447f08457a5aac90799c040f066e4e3d7bec";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "675ff6b9b629b4b4881db4e380a17cc325f949b3";
+      rev = "b56b447f08457a5aac90799c040f066e4e3d7bec";
       fetchSubmodules = false;
-      sha256 = "sha256-m5mcNHKueZIZQah/vSASIGOtPtrN4GGWcWpmaeoi6H4=";
+      sha256 = "sha256-nxlTLAOHoArNh972Uy5VkFuc3h64LxPDfwrP20s0yKQ=";
     });
   };
   revanced-cli = {
@@ -1074,13 +1074,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "f82d86b6939681080234dde11ec8b1e7e7adf322";
+    version = "0c20d3b31a158f28c39e8f8b85e892db53754cf4";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "f82d86b6939681080234dde11ec8b1e7e7adf322";
+      rev = "0c20d3b31a158f28c39e8f8b85e892db53754cf4";
       fetchSubmodules = false;
-      sha256 = "sha256-I5dISi5S+CxVilxIWmUmkI3slGzsk1PoXuUDvcNxho0=";
+      sha256 = "sha256-XRoY/tdXfeC2bfrfCDw4QUjdFrXxjKJ0wv9aYaS3nWM=";
     });
   };
   spicetify-themes = {
@@ -1285,10 +1285,10 @@
   };
   vaultwarden-vault = {
     pname = "vaultwarden-vault";
-    version = "2022.6.0";
+    version = "2022.6.2";
     src = fetchurl {
-      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.6.0/bw_web_v2022.6.0.tar.gz";
-      sha256 = "sha256-/ZLxR87iLLw5VlC+0RqaDUcO4aeBT4BjixE3IoRwB7s=";
+      url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v2022.6.2/bw_web_v2022.6.2.tar.gz";
+      sha256 = "sha256-IG/eCBTUa7eKeaelqxCWO+rrXJUuBanhsYwklftxdOE=";
     };
   };
   ventoy = {
@@ -1334,13 +1334,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "49d60ad42f929a77ddbec40cf435272475103ee8";
+    version = "aa1efe3563d62b390a902b9bea4af15a361886c8";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "49d60ad42f929a77ddbec40cf435272475103ee8";
+      rev = "aa1efe3563d62b390a902b9bea4af15a361886c8";
       fetchSubmodules = false;
-      sha256 = "sha256-N0D8Tj9iO8ubTjwJ5AIcKBuSZAL95cK+P+BJMOsfzRE=";
+      sha256 = "sha256-6rxy3vj2ioTjkA2xgYqJx6cdfVskE09JIXrSfPWcAOc=";
     });
   };
   whitesur-icon-theme = {
