@@ -4667,11 +4667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fYWO1iPH4UrCaU/gWfVxoVFS8oEcK2z0cuoq31+aQGg=",
+            "sha256": "sha256-B+i9HgXtYASweC8FEEZ8rgnAvmPO5MKdqSd2PIBrdh8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1199/file/Prisma.prisma-insider-31.0.1199.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1200/file/Prisma.prisma-insider-31.0.1200.vsix"
         },
-        "version": "31.0.1199"
+        "version": "31.0.1200"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5123,11 +5123,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/8UmmE/DUGETo5wskSB239s92uNDHMqSQ8mVP90AcXs=",
+            "sha256": "sha256-A/jLDIVj2QFqNL3ARY3qfqe10xKPqOyQWndSfxv1Bvw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.10/file/Sarrus.sourcepawn-vscode-4.0.10.vsix"
+            "url": "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.11/file/Sarrus.sourcepawn-vscode-4.0.11.vsix"
         },
-        "version": "4.0.10"
+        "version": "4.0.11"
     },
     "SenseTime-kestrel": {
         "cargoLocks": null,
@@ -25681,11 +25681,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ebZenU20XwvdKT8C68eRMWPimyuOkX3KsumFsXNlzP4=",
+            "sha256": "sha256-uAiRRlfGsaMSXMNvXyVJyhwAYSNiBHhxURM7NGq0CTw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.396/file/pokey.cursorless-0.26.396.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.398/file/pokey.cursorless-0.26.398.vsix"
         },
-        "version": "0.26.396"
+        "version": "0.26.398"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

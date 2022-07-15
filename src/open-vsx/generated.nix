@@ -2943,10 +2943,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1199";
+    version = "31.0.1200";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1199/file/Prisma.prisma-insider-31.0.1199.vsix";
-      sha256 = "sha256-fYWO1iPH4UrCaU/gWfVxoVFS8oEcK2z0cuoq31+aQGg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1200/file/Prisma.prisma-insider-31.0.1200.vsix";
+      sha256 = "sha256-B+i9HgXtYASweC8FEEZ8rgnAvmPO5MKdqSd2PIBrdh8=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3231,10 +3231,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.10";
+    version = "4.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.10/file/Sarrus.sourcepawn-vscode-4.0.10.vsix";
-      sha256 = "sha256-/8UmmE/DUGETo5wskSB239s92uNDHMqSQ8mVP90AcXs=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.11/file/Sarrus.sourcepawn-vscode-4.0.11.vsix";
+      sha256 = "sha256-A/jLDIVj2QFqNL3ARY3qfqe10xKPqOyQWndSfxv1Bvw=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -16215,10 +16215,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.396";
+    version = "0.26.398";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.396/file/pokey.cursorless-0.26.396.vsix";
-      sha256 = "sha256-ebZenU20XwvdKT8C68eRMWPimyuOkX3KsumFsXNlzP4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.398/file/pokey.cursorless-0.26.398.vsix";
+      sha256 = "sha256-uAiRRlfGsaMSXMNvXyVJyhwAYSNiBHhxURM7NGq0CTw=";
     };
     license = "MIT";
     name = "cursorless";
