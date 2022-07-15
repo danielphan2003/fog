@@ -2056,11 +2056,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "a0eae77345df2facafa264516d3a84a9894dc571",
-            "sha256": "sha256-JJ35lU2kuCSXd4Mf6cWpe8tOMldfJbCIk0XNwUcrGrw=",
+            "rev": "8faf3f54b77d4848c74fc9715994ae2957f1ff4a",
+            "sha256": "sha256-4z2j96BCoHCHkno4sTQVxp+uEtCtwDY8EbQyJvvb17c=",
             "type": "github"
         },
-        "version": "a0eae77345df2facafa264516d3a84a9894dc571"
+        "version": "8faf3f54b77d4848c74fc9715994ae2957f1ff4a"
     },
     "ultimmc": {
         "cargoLocks": null,
