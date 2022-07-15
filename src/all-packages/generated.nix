@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fbcc6936f4dc676ff2970e44a919ebc6e24627d3";
+    version = "b2650928eac06e3181ad07efe6ec55b2550f89b8";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "fbcc6936f4dc676ff2970e44a919ebc6e24627d3";
+      rev = "b2650928eac06e3181ad07efe6ec55b2550f89b8";
       fetchSubmodules = false;
-      sha256 = "sha256-hZGf5FMG8mrM+DbxqpwyrbzIwJzKsZJwE1aP0kASMJg=";
+      sha256 = "sha256-hnMt/Gp/sjloymbgvp9G8CnHziMi4A1x7g3EroKmPKo=";
     });
   };
   ibus = {
@@ -1235,13 +1235,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "6499a595febab13ac0232d271a95e9ef1dd05c9e";
+    version = "7e2844359b35276f5085c7245169a9ca5f116a73";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "6499a595febab13ac0232d271a95e9ef1dd05c9e";
+      rev = "7e2844359b35276f5085c7245169a9ca5f116a73";
       fetchSubmodules = false;
-      sha256 = "sha256-5+DN2f0xVIx4fCwqYztu82DwNjVzcDbgy2zDA5ojMOo=";
+      sha256 = "sha256-4OAHSKpM4zXMxUisDsNSHEk12jBNFudYyvicpG4kspQ=";
     });
   };
   ultimmc = {
