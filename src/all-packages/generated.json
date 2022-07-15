@@ -892,11 +892,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LAFM79lRlseKCNc8+z64RcEQ0BnDKZ7vOkuqhMkrUQY=",
+            "sha256": "sha256-EuJTXG3CpOa5bd8PgpZzVvsY+nj8FigsNpAClrR6a+E=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-13-gc18c33b7-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-14-g7f69290a-1_all.deb"
         },
-        "version": "2.2-13-gc18c33b7"
+        "version": "2.2-14-g7f69290a"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1514,11 +1514,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "4b1766cf6175b9f47072948824dc165e32126739",
-            "sha256": "sha256-URCwkBaWE90U0ZMsgQkZClwMDpbm+6r/a3rIgRgdqKI=",
+            "rev": "675ff6b9b629b4b4881db4e380a17cc325f949b3",
+            "sha256": "sha256-m5mcNHKueZIZQah/vSASIGOtPtrN4GGWcWpmaeoi6H4=",
             "type": "github"
         },
-        "version": "4b1766cf6175b9f47072948824dc165e32126739"
+        "version": "675ff6b9b629b4b4881db4e380a17cc325f949b3"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1990,11 +1990,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "004f0ca3e019667c484629c7a41f89b53af26763",
-            "sha256": "sha256-iN1iTvVQQKIu9hwiMlCzAXGETcgiLrhIqbCIbcKAWY0=",
+            "rev": "af412e8874e94dc3ac57c37c3ec5e0606aa08fbb",
+            "sha256": "sha256-2tC5nOzZ7ce/DzVtJ1656QQbmQ2m4VJO9JUZKBqtdyU=",
             "type": "github"
         },
-        "version": "004f0ca3e019667c484629c7a41f89b53af26763"
+        "version": "af412e8874e94dc3ac57c37c3ec5e0606aa08fbb"
     },
     "tailscale-systray": {
         "cargoLocks": null,
