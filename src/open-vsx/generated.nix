@@ -2943,10 +2943,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1196";
+    version = "31.0.1197";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1196/file/Prisma.prisma-insider-31.0.1196.vsix";
-      sha256 = "sha256-dGhEoZ6V93TLfaIofOMDQlk2AgHWiN/71sMZwFFqIog=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1197/file/Prisma.prisma-insider-31.0.1197.vsix";
+      sha256 = "sha256-yjALDbFWdWDRIGE8crMlcIQQdFe+dOTw/woo8Jf5f7Q=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3495,10 +3495,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.58";
+    version = "0.0.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.58/file/TI.devspacesplus-0.0.58.vsix";
-      sha256 = "sha256-x2Wfdp7zgwbIoQ/VXvqkfSvlHq0ZB1fbWMuu5WHHrBU=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.59/file/TI.devspacesplus-0.0.59.vsix";
+      sha256 = "sha256-DuUb9H+Hlzx6AVTG7LoI7Kh0Au6GJoIbaUA5n9agMiM=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -9855,10 +9855,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.17.1";
+    version = "0.17.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.1/file/grain-lang.vscode-grain-0.17.1.vsix";
-      sha256 = "sha256-yxKhORnf4vv7GIRSlgYc3cHFEPr213/uSjQPQ8Bj3Tw=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.2/file/grain-lang.vscode-grain-0.17.2.vsix";
+      sha256 = "sha256-nIOnjiQyyMwXfkRdRhi3z9aV7Wd4TbLX6YnQ8slJASQ=";
     };
     license = "MIT";
     name = "vscode-grain";
@@ -12819,10 +12819,10 @@
   };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
-    version = "0.1.20";
+    version = "0.1.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.20/file/llvm-vs-code-extensions.vscode-clangd-0.1.20.vsix";
-      sha256 = "sha256-Hu05zP6GW0hFrBxJGss1JEe2wS+kn6Qp/PpZe4j/69A=";
+      url = "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.21/file/llvm-vs-code-extensions.vscode-clangd-0.1.21.vsix";
+      sha256 = "sha256-vZLApW5487xiVZnvHxzFawwXZltptWK+rEHzCEMIl+k=";
     };
     license = "MIT";
     name = "vscode-clangd";
@@ -17343,10 +17343,10 @@
   };
   robole-file-bunny = {
     pname = "robole-file-bunny";
-    version = "1.2.2";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/file-bunny/1.2.2/file/robole.file-bunny-1.2.2.vsix";
-      sha256 = "sha256-+47c7R0lqWid1AtbQBYdISMDTI56LS8GzJW/ajxJfsM=";
+      url = "https://open-vsx.org/api/robole/file-bunny/1.3.0/file/robole.file-bunny-1.3.0.vsix";
+      sha256 = "sha256-iZ53WcGLOgO7EQoVF6IYDlRWaAQcqpGY4dHzfW24pFI=";
     };
     license = "";
     name = "file-bunny";

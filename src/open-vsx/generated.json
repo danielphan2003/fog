@@ -4667,11 +4667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dGhEoZ6V93TLfaIofOMDQlk2AgHWiN/71sMZwFFqIog=",
+            "sha256": "sha256-yjALDbFWdWDRIGE8crMlcIQQdFe+dOTw/woo8Jf5f7Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1196/file/Prisma.prisma-insider-31.0.1196.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1197/file/Prisma.prisma-insider-31.0.1197.vsix"
         },
-        "version": "31.0.1196"
+        "version": "31.0.1197"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5541,11 +5541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x2Wfdp7zgwbIoQ/VXvqkfSvlHq0ZB1fbWMuu5WHHrBU=",
+            "sha256": "sha256-DuUb9H+Hlzx6AVTG7LoI7Kh0Au6GJoIbaUA5n9agMiM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.58/file/TI.devspacesplus-0.0.58.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.59/file/TI.devspacesplus-0.0.59.vsix"
         },
-        "version": "0.0.58"
+        "version": "0.0.59"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -15611,11 +15611,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yxKhORnf4vv7GIRSlgYc3cHFEPr213/uSjQPQ8Bj3Tw=",
+            "sha256": "sha256-nIOnjiQyyMwXfkRdRhi3z9aV7Wd4TbLX6YnQ8slJASQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.1/file/grain-lang.vscode-grain-0.17.1.vsix"
+            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.2/file/grain-lang.vscode-grain-0.17.2.vsix"
         },
-        "version": "0.17.1"
+        "version": "0.17.2"
     },
     "grammarcraft-epsilon-eag": {
         "cargoLocks": null,
@@ -20304,11 +20304,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Hu05zP6GW0hFrBxJGss1JEe2wS+kn6Qp/PpZe4j/69A=",
+            "sha256": "sha256-vZLApW5487xiVZnvHxzFawwXZltptWK+rEHzCEMIl+k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.20/file/llvm-vs-code-extensions.vscode-clangd-0.1.20.vsix"
+            "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.21/file/llvm-vs-code-extensions.vscode-clangd-0.1.21.vsix"
         },
-        "version": "0.1.20"
+        "version": "0.1.21"
     },
     "lokalise-i18n-ally": {
         "cargoLocks": null,
@@ -27467,11 +27467,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+47c7R0lqWid1AtbQBYdISMDTI56LS8GzJW/ajxJfsM=",
+            "sha256": "sha256-iZ53WcGLOgO7EQoVF6IYDlRWaAQcqpGY4dHzfW24pFI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robole/file-bunny/1.2.2/file/robole.file-bunny-1.2.2.vsix"
+            "url": "https://open-vsx.org/api/robole/file-bunny/1.3.0/file/robole.file-bunny-1.3.0.vsix"
         },
-        "version": "1.2.2"
+        "version": "1.3.0"
     },
     "robole-javascript-snippets": {
         "cargoLocks": null,
