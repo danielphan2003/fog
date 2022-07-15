@@ -14799,10 +14799,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.38.0";
+    version = "0.39.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.38.0/file/mutable-ai.mutable-ai-0.38.0.vsix";
-      sha256 = "sha256-AOxdjCWYxT8PtllfbcKSHccmYKq1BswpiubXGYeEl80=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.39.0/file/mutable-ai.mutable-ai-0.39.0.vsix";
+      sha256 = "sha256-5yxjZ3Us3FDK28jiwIOomIQSVKzAEOIQOni1ckxNY6k=";
     };
     license = "";
     name = "mutable-ai";
@@ -16477,6 +16477,18 @@
     description = "Official Puppet VSCode extension. Provides full Puppet DSL intellisense, syntax highlighting, Puppet command support, Puppet node graphs, and much more";
     publisher = "puppet";
   };
+  pwarchol-vscode-php-file-link = {
+    pname = "pwarchol-vscode-php-file-link";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pwarchol/vscode-php-file-link/1.0.0/file/pwarchol.vscode-php-file-link-1.0.0.vsix";
+      sha256 = "sha256-IeI04PbJzdUtyu60OBNA5b6uaRv3R4zXl1pmipikUY0=";
+    };
+    license = "MIT";
+    name = "vscode-php-file-link";
+    description = "This extension allows to assign links to files declared as strings in the active PHP document.";
+    publisher = "pwarchol";
+  };
   pyxel-flare-theme = {
     pname = "pyxel-flare-theme";
     version = "0.1.0";
@@ -17343,10 +17355,10 @@
   };
   robole-file-bunny = {
     pname = "robole-file-bunny";
-    version = "1.3.0";
+    version = "1.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robole/file-bunny/1.3.0/file/robole.file-bunny-1.3.0.vsix";
-      sha256 = "sha256-iZ53WcGLOgO7EQoVF6IYDlRWaAQcqpGY4dHzfW24pFI=";
+      url = "https://open-vsx.org/api/robole/file-bunny/1.3.1/file/robole.file-bunny-1.3.1.vsix";
+      sha256 = "sha256-+09CSmQiyaJ2ur0mbCGew+mNXGT9I32pdhLt3nyNo1c=";
     };
     license = "";
     name = "file-bunny";
