@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "d55279eebf60a3780b211a24a8c5dfd2c6b84580",
-            "sha256": "sha256-wOv1gyIK/k/z/y/fql4iTl0gc7Ysx8Ty82W5ojtCAvs=",
+            "rev": "ad65410e800c16e70e5a208a04401cc619a55336",
+            "sha256": "sha256-YtKdKC594WEFeEvXJJz/V02qpJt0K0vWvcvEe2CmvO8=",
             "type": "github"
         },
-        "version": "d55279eebf60a3780b211a24a8c5dfd2c6b84580"
+        "version": "ad65410e800c16e70e5a208a04401cc619a55336"
     },
     "caddy": {
         "cargoLocks": null,
@@ -850,11 +850,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lnW+G4c9oOE3K886MXVDOQfwn2CXqKPhyaRTUPeBQCY=",
+            "sha256": "sha256-TU5RqEO45zjKiA1FohThkcINDJInagTzt610M3JQcrw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-908-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-909-1_all.deb"
         },
-        "version": "1.0-908"
+        "version": "1.0-909"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1990,11 +1990,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "4f1374ec9eec11cf474a6c33ff22ee268d9ec136",
-            "sha256": "sha256-UnX2bqqXeh1QkimCWcERNqPMa59mIh2Lqm0/ByjAGEI=",
+            "rev": "931f18b575e0637a25ce2d4a209cbf957d9f4eb5",
+            "sha256": "sha256-+Mr7XbbHKki9GGXjGxUuBVp9vyeJ58xkyh6fkqmXoKM=",
             "type": "github"
         },
-        "version": "4f1374ec9eec11cf474a6c33ff22ee268d9ec136"
+        "version": "931f18b575e0637a25ce2d4a209cbf957d9f4eb5"
     },
     "tailscale-systray": {
         "cargoLocks": null,
