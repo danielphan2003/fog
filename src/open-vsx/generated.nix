@@ -2391,10 +2391,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.25";
+    version = "0.17.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.25/file/Marko-JS.marko-vscode-0.17.25.vsix";
-      sha256 = "sha256-97GDYBbpJdUq97oi6QvFxHS6r47FCaFKlpNCLvs21Cs=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.26/file/Marko-JS.marko-vscode-0.17.26.vsix";
+      sha256 = "sha256-pXikUqK7qVTez64KeqwFwTsjyr8OKqOmc1pRveO/f6U=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -14799,10 +14799,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.39.0";
+    version = "0.40.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.39.0/file/mutable-ai.mutable-ai-0.39.0.vsix";
-      sha256 = "sha256-5yxjZ3Us3FDK28jiwIOomIQSVKzAEOIQOni1ckxNY6k=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.40.0/file/mutable-ai.mutable-ai-0.40.0.vsix";
+      sha256 = "sha256-llSIdB9cojVv8b0QaN1UTJuNF24d2+Da4avtztHDSho=";
     };
     license = "";
     name = "mutable-ai";
@@ -16215,10 +16215,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.398";
+    version = "0.26.399";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.398/file/pokey.cursorless-0.26.398.vsix";
-      sha256 = "sha256-uAiRRlfGsaMSXMNvXyVJyhwAYSNiBHhxURM7NGq0CTw=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.399/file/pokey.cursorless-0.26.399.vsix";
+      sha256 = "sha256-S065oojKOZzl777eVuN63GPElrY52d5JG+lFEI0pbXw=";
     };
     license = "MIT";
     name = "cursorless";
@@ -16227,10 +16227,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.18.2";
+    version = "0.18.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.18.2/file/pokey.parse-tree-0.18.2.vsix";
-      sha256 = "sha256-hUQd5aVnsy0tt/1WfN00mhNU8l/Nw75HcPVPKNGcLkQ=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.18.3/file/pokey.parse-tree-0.18.3.vsix";
+      sha256 = "sha256-R67cz20ThoJsXOWsHe4UwoBoF8B10X65wDWG6Lg1zAs=";
     };
     license = "MIT";
     name = "parse-tree";

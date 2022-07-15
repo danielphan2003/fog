@@ -3793,11 +3793,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-97GDYBbpJdUq97oi6QvFxHS6r47FCaFKlpNCLvs21Cs=",
+            "sha256": "sha256-pXikUqK7qVTez64KeqwFwTsjyr8OKqOmc1pRveO/f6U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.25/file/Marko-JS.marko-vscode-0.17.25.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.26/file/Marko-JS.marko-vscode-0.17.26.vsix"
         },
-        "version": "0.17.25"
+        "version": "0.17.26"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -23439,11 +23439,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5yxjZ3Us3FDK28jiwIOomIQSVKzAEOIQOni1ckxNY6k=",
+            "sha256": "sha256-llSIdB9cojVv8b0QaN1UTJuNF24d2+Da4avtztHDSho=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.39.0/file/mutable-ai.mutable-ai-0.39.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.40.0/file/mutable-ai.mutable-ai-0.40.0.vsix"
         },
-        "version": "0.39.0"
+        "version": "0.40.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -25681,11 +25681,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uAiRRlfGsaMSXMNvXyVJyhwAYSNiBHhxURM7NGq0CTw=",
+            "sha256": "sha256-S065oojKOZzl777eVuN63GPElrY52d5JG+lFEI0pbXw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.398/file/pokey.cursorless-0.26.398.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.399/file/pokey.cursorless-0.26.399.vsix"
         },
-        "version": "0.26.398"
+        "version": "0.26.399"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -25700,11 +25700,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hUQd5aVnsy0tt/1WfN00mhNU8l/Nw75HcPVPKNGcLkQ=",
+            "sha256": "sha256-R67cz20ThoJsXOWsHe4UwoBoF8B10X65wDWG6Lg1zAs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/parse-tree/0.18.2/file/pokey.parse-tree-0.18.2.vsix"
+            "url": "https://open-vsx.org/api/pokey/parse-tree/0.18.3/file/pokey.parse-tree-0.18.3.vsix"
         },
-        "version": "0.18.2"
+        "version": "0.18.3"
     },
     "pokey-talon": {
         "cargoLocks": null,
