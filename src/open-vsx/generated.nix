@@ -2943,10 +2943,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1193";
+    version = "31.0.1196";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1193/file/Prisma.prisma-insider-31.0.1193.vsix";
-      sha256 = "sha256-rSagEFhawAMAf1N6DZ7dF83rQRAhKSY74TWyqjSnqHg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1196/file/Prisma.prisma-insider-31.0.1196.vsix";
+      sha256 = "sha256-dGhEoZ6V93TLfaIofOMDQlk2AgHWiN/71sMZwFFqIog=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13911,10 +13911,10 @@
   };
   mrakgr-spiral-lang-vscode = {
     pname = "mrakgr-spiral-lang-vscode";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.0/file/mrakgr.spiral-lang-vscode-2.2.0.vsix";
-      sha256 = "sha256-ujDd1YXwayxSuWNP+PSjZ0f/PcGTyPf5UpODisRcGOI=";
+      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.1/file/mrakgr.spiral-lang-vscode-2.2.1.vsix";
+      sha256 = "sha256-nzl75V6blL0kjlUP1Dkfjt4YLC57iwZH3mYZkQLdgCE=";
     };
     license = "";
     name = "spiral-lang-vscode";
@@ -20427,10 +20427,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.15.1";
+    version = "2.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.15.1/file/usernamehw.todo-md-2.15.1.vsix";
-      sha256 = "sha256-gC4CJRzhlbRqCzoElwVfhLsG2PSyvkvN1AQidd8HK04=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.16.0/file/usernamehw.todo-md-2.16.0.vsix";
+      sha256 = "sha256-YWdQQhx5Evb0gHbeKpwJvCfbnGFuC6IIeLAl2ADcYbQ=";
     };
     license = "MIT";
     name = "todo-md";
@@ -20463,10 +20463,10 @@
   };
   vadimcn-vscode-lldb = {
     pname = "vadimcn-vscode-lldb";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.0/file/vadimcn.vscode-lldb-1.7.0.vsix";
-      sha256 = "sha256-DuYweIri8NpBHcIG37WyUUc+p4/TaBBHcI6x6YIRvmk=";
+      url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.1/file/vadimcn.vscode-lldb-1.7.1.vsix";
+      sha256 = "sha256-rQpM0h9o5OZdpxBStTs1Ueb1W06RxgEaQj1LaNfF7KE=";
     };
     license = "MIT";
     name = "vscode-lldb";
