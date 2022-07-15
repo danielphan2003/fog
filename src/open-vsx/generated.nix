@@ -14127,10 +14127,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.10.0";
+    version = "2022.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.10.0/file/ms-python.python-2022.10.0.vsix";
-      sha256 = "sha256-GTjuFRDnRnVJ3JF6NEx6Uk/WzZEzmYU5ONLsmpER+VU=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.10.1/file/ms-python.python-2022.10.1.vsix";
+      sha256 = "sha256-4EsIz/2GuENSTeXEx8+tK5QCk1hCgE9kkPDbkry2tuE=";
     };
     license = "MIT";
     name = "python";

@@ -22375,11 +22375,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GTjuFRDnRnVJ3JF6NEx6Uk/WzZEzmYU5ONLsmpER+VU=",
+            "sha256": "sha256-4EsIz/2GuENSTeXEx8+tK5QCk1hCgE9kkPDbkry2tuE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-python/python/2022.10.0/file/ms-python.python-2022.10.0.vsix"
+            "url": "https://open-vsx.org/api/ms-python/python/2022.10.1/file/ms-python.python-2022.10.1.vsix"
         },
-        "version": "2022.10.0"
+        "version": "2022.10.1"
     },
     "ms-toolsai-jupyter": {
         "cargoLocks": null,
