@@ -310,10 +310,10 @@
   };
   discord-canary = {
     pname = "discord-canary";
-    version = "0.0.135";
+    version = "0.0.136";
     src = fetchurl {
-      url = "https://dl-canary.discordapp.net/apps/linux/0.0.135/discord-canary-0.0.135.tar.gz";
-      sha256 = "sha256-dmG+3BWS1BMHHQAv4fsXuObVeAJBeD+TqnyQz69AMac=";
+      url = "https://dl-canary.discordapp.net/apps/linux/0.0.136/discord-canary-0.0.136.tar.gz";
+      sha256 = "sha256-OrGg4jXziesHBhQORxREN/wq776RgNGaTyjJNV4pSAU=";
     };
   };
   dnscrypt-proxy2 = {
