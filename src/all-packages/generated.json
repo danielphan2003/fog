@@ -666,11 +666,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "d4b39c2aaa66237630541d9a403e2e402c83e7cc",
-            "sha256": "sha256-S6uZLxuZYOgjPBAc/4jZpj7tqLKpxgt5YSQNYitcdIQ=",
+            "rev": "bbbbf252b20517710e5707ce7a97d358305d0398",
+            "sha256": "sha256-+3S1xGO4KiXOfj/28qfp62JA1rx466yYHOFdkAAQaiU=",
             "type": "github"
         },
-        "version": "d4b39c2aaa66237630541d9a403e2e402c83e7cc"
+        "version": "bbbbf252b20517710e5707ce7a97d358305d0398"
     },
     "fluffychat": {
         "cargoLocks": null,
@@ -1990,11 +1990,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "7fb6781bdaa4cccb61497ccf061fcd5a525a329e",
-            "sha256": "sha256-tUgUdyFbamApkWHn2obMq0yr9Ef7xhDmqDsDSD2qe64=",
+            "rev": "16c85d0dc5bcae4af0c21269f6a61140fedfd263",
+            "sha256": "sha256-bukN8+ZVcFHBHc2sm9F1DH7zrdXzYAAylqF+j+fYR4s=",
             "type": "github"
         },
-        "version": "7fb6781bdaa4cccb61497ccf061fcd5a525a329e"
+        "version": "16c85d0dc5bcae4af0c21269f6a61140fedfd263"
     },
     "tailscale-systray": {
         "cargoLocks": null,

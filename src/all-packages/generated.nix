@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "d4b39c2aaa66237630541d9a403e2e402c83e7cc";
+    version = "bbbbf252b20517710e5707ce7a97d358305d0398";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "d4b39c2aaa66237630541d9a403e2e402c83e7cc";
+      rev = "bbbbf252b20517710e5707ce7a97d358305d0398";
       fetchSubmodules = false;
-      sha256 = "sha256-S6uZLxuZYOgjPBAc/4jZpj7tqLKpxgt5YSQNYitcdIQ=";
+      sha256 = "sha256-+3S1xGO4KiXOfj/28qfp62JA1rx466yYHOFdkAAQaiU=";
     });
   };
   fluffychat = {
@@ -1197,13 +1197,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "7fb6781bdaa4cccb61497ccf061fcd5a525a329e";
+    version = "16c85d0dc5bcae4af0c21269f6a61140fedfd263";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "7fb6781bdaa4cccb61497ccf061fcd5a525a329e";
+      rev = "16c85d0dc5bcae4af0c21269f6a61140fedfd263";
       fetchSubmodules = false;
-      sha256 = "sha256-tUgUdyFbamApkWHn2obMq0yr9Ef7xhDmqDsDSD2qe64=";
+      sha256 = "sha256-bukN8+ZVcFHBHc2sm9F1DH7zrdXzYAAylqF+j+fYR4s=";
     });
   };
   tailscale-systray = {
