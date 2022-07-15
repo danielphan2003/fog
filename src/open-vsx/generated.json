@@ -4667,11 +4667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yjALDbFWdWDRIGE8crMlcIQQdFe+dOTw/woo8Jf5f7Q=",
+            "sha256": "sha256-fYWO1iPH4UrCaU/gWfVxoVFS8oEcK2z0cuoq31+aQGg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1197/file/Prisma.prisma-insider-31.0.1197.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1199/file/Prisma.prisma-insider-31.0.1199.vsix"
         },
-        "version": "31.0.1197"
+        "version": "31.0.1199"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
