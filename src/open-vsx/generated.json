@@ -4667,11 +4667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-B+i9HgXtYASweC8FEEZ8rgnAvmPO5MKdqSd2PIBrdh8=",
+            "sha256": "sha256-DXhAZLKyI5hZ/Cj/NvyLwkhmh9sHW41ys8Mm6YXcSNM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1200/file/Prisma.prisma-insider-31.0.1200.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1201/file/Prisma.prisma-insider-31.0.1201.vsix"
         },
-        "version": "31.0.1200"
+        "version": "31.0.1201"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -18746,11 +18746,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nTQMboUH8d3OaCQcFap8BEX4GvE7az5gz3ropbwb5kY=",
+            "sha256": "sha256-3bhnCWlohGY3m44oguyLiqqehDKGoYKmaoUARzZLhQk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/k4ustu3h/theme-jamt/1.0.0/file/k4ustu3h.theme-jamt-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/k4ustu3h/theme-jamt/1.1.0/file/k4ustu3h.theme-jamt-1.1.0.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "kahole-magit": {
         "cargoLocks": null,
@@ -28512,11 +28512,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x5nbYhLJLtkLa36Ea6m8PsdMrE7PBEN8mA12YdxxVIk=",
+            "sha256": "sha256-8q5Ttzx3uFzcGgaYNgEXXOfQIRKz3mHPiR7nnZvX2n0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/serokell-io/michelson-debugger/0.2.0/file/serokell-io.michelson-debugger-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/serokell-io/michelson-debugger/0.2.1/file/serokell-io.michelson-debugger-0.2.1.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.2.1"
     },
     "sfodje-perlcritic": {
         "cargoLocks": null,

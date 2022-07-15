@@ -2943,10 +2943,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1200";
+    version = "31.0.1201";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1200/file/Prisma.prisma-insider-31.0.1200.vsix";
-      sha256 = "sha256-B+i9HgXtYASweC8FEEZ8rgnAvmPO5MKdqSd2PIBrdh8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1201/file/Prisma.prisma-insider-31.0.1201.vsix";
+      sha256 = "sha256-DXhAZLKyI5hZ/Cj/NvyLwkhmh9sHW41ys8Mm6YXcSNM=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11835,10 +11835,10 @@
   };
   k4ustu3h-theme-jamt = {
     pname = "k4ustu3h-theme-jamt";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/k4ustu3h/theme-jamt/1.0.0/file/k4ustu3h.theme-jamt-1.0.0.vsix";
-      sha256 = "sha256-nTQMboUH8d3OaCQcFap8BEX4GvE7az5gz3ropbwb5kY=";
+      url = "https://open-vsx.org/api/k4ustu3h/theme-jamt/1.1.0/file/k4ustu3h.theme-jamt-1.1.0.vsix";
+      sha256 = "sha256-3bhnCWlohGY3m44oguyLiqqehDKGoYKmaoUARzZLhQk=";
     };
     license = "MIT";
     name = "theme-jamt";
@@ -18003,10 +18003,10 @@
   };
   serokell-io-michelson-debugger = {
     pname = "serokell-io-michelson-debugger";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/serokell-io/michelson-debugger/0.2.0/file/serokell-io.michelson-debugger-0.2.0.vsix";
-      sha256 = "sha256-x5nbYhLJLtkLa36Ea6m8PsdMrE7PBEN8mA12YdxxVIk=";
+      url = "https://open-vsx.org/api/serokell-io/michelson-debugger/0.2.1/file/serokell-io.michelson-debugger-0.2.1.vsix";
+      sha256 = "sha256-8q5Ttzx3uFzcGgaYNgEXXOfQIRKz3mHPiR7nnZvX2n0=";
     };
     license = "MIT";
     name = "michelson-debugger";
