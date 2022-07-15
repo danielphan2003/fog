@@ -1191,10 +1191,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "6.2.0";
+    version = "6.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.2.0/file/GitHub.github-vscode-theme-6.2.0.vsix";
-      sha256 = "sha256-k5ChNRznNild/HSqft8yca9g9uA2lyXSZTsQS5Wbk+s=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.3.0/file/GitHub.github-vscode-theme-6.3.0.vsix";
+      sha256 = "sha256-KQYdI/D8QQnj900KtAnHTvkiYv4XCoI44Y/KqT471CU=";
     };
     license = "MIT";
     name = "github-vscode-theme";
@@ -6795,10 +6795,10 @@
   };
   cloudstudio-browser-preview-lite = {
     pname = "cloudstudio-browser-preview-lite";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.4/file/cloudstudio.browser-preview-lite-0.0.4.vsix";
-      sha256 = "sha256-pjA4F8uhs0rHL5e321++SJ3hrHcJ7GS83wt24FYZTTw=";
+      url = "https://open-vsx.org/api/cloudstudio/browser-preview-lite/0.0.5/file/cloudstudio.browser-preview-lite-0.0.5.vsix";
+      sha256 = "sha256-Dd9sykSU/mOTjAjrpAlasYNEkzJezQADKCn/zlAAueU=";
     };
     license = "MIT";
     name = "browser-preview-lite";
@@ -6855,10 +6855,10 @@
   };
   cloudstudio-common = {
     pname = "cloudstudio-common";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/common/0.0.11/file/cloudstudio.common-0.0.11.vsix";
-      sha256 = "sha256-LuSkZ2qNn883p8CJfddYdlQ1YgK7wW/Gwwh9LhHmLzM=";
+      url = "https://open-vsx.org/api/cloudstudio/common/0.0.12/file/cloudstudio.common-0.0.12.vsix";
+      sha256 = "sha256-0Hw+3iCWfbZxv5sBPrI0MwA9XCSQIXadpTAXtCzglVI=";
     };
     license = "MIT";
     name = "common";
@@ -6867,10 +6867,10 @@
   };
   cloudstudio-custom-template = {
     pname = "cloudstudio-custom-template";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.3/file/cloudstudio.custom-template-0.0.3.vsix";
-      sha256 = "sha256-WEq5GJNloR3Zd1+iYSpdlR5NPt1Y3x7qbf8UOtiwTKg=";
+      url = "https://open-vsx.org/api/cloudstudio/custom-template/0.0.4/file/cloudstudio.custom-template-0.0.4.vsix";
+      sha256 = "sha256-PrNy2R//hXuj7gq1Ijr2YuYNFREsGw3iKeHLabPxjV8=";
     };
     license = "MIT";
     name = "custom-template";
@@ -6927,10 +6927,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.3/file/cloudstudio.metawork-0.0.3.vsix";
-      sha256 = "sha256-2Xgb0JGZgj/rzzbG0fPE2tZomWw02VCogesP0zsrb54=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.4/file/cloudstudio.metawork-0.0.4.vsix";
+      sha256 = "sha256-VRh1yyzPCRXn6W5LQsnUwpsPIRDsm+6UmoSZSr8SyAE=";
     };
     license = "MIT";
     name = "metawork";
@@ -6939,10 +6939,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.16/file/cloudstudio.workspaces-0.0.16.vsix";
-      sha256 = "sha256-Pam5rb9vu7zasvnhXgvR1wVZPV3SBsZ9Hwu/cswvq3E=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.17/file/cloudstudio.workspaces-0.0.17.vsix";
+      sha256 = "sha256-0DY+PjrVnAjwI/F09W07Zgh1PSp8B0upzJELiehLqSU=";
     };
     license = "MIT";
     name = "workspaces";
