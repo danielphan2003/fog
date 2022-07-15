@@ -523,10 +523,10 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6356";
+    version = "1.0.6357";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6356.tar.bz2";
-      sha256 = "sha256-xOerIlkCe46x509v9LhmRk9V4JjSNRfZEy2Jiiur/N8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6357.tar.bz2";
+      sha256 = "sha256-VzBFqrvBzXF8I+IhFb32AX7AXW9UePfZJ4xtope3Va4=";
     };
   };
   jitsi-meet-prosody = {
@@ -932,18 +932,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.14.0";
+    version = "2.14.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.14.0/revanced-patches-2.14.0.dex";
-      sha256 = "sha256-45hd4emtABmq9vllbyXJd3aKpSLR0E4cAMpA/s3qkbY=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.14.1/revanced-patches-2.14.1.dex";
+      sha256 = "sha256-coG6SKDcrNF9Sap48LUcT+5oJbvKT6GJna/j94M10tQ=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.14.0";
+    version = "2.14.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.14.0/revanced-patches-2.14.0.jar";
-      sha256 = "sha256-qYzQYmvdIJ4Dc6NU0fiCVBSWOHD7+4kGdJ55YbtsRgQ=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.14.1/revanced-patches-2.14.1.jar";
+      sha256 = "sha256-V3DZyDB0E8DKOFw6LLj85s3daqp6Lm5b4fnxpaiEJsM=";
     };
   };
   rofi-wayland = {
