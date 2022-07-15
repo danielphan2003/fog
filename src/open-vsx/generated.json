@@ -4667,11 +4667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-K/mIb+ivf1JBySYTaH1dyCnePsYfdQd/MyFASpydrFc=",
+            "sha256": "sha256-rSagEFhawAMAf1N6DZ7dF83rQRAhKSY74TWyqjSnqHg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1161/file/Prisma.prisma-insider-31.0.1161.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1193/file/Prisma.prisma-insider-31.0.1193.vsix"
         },
-        "version": "31.0.1161"
+        "version": "31.0.1193"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12514,11 +12514,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PMNyR0VDpI0BpWiZADnoF8r9tV1uukyvpYQQdxSKWas=",
+            "sha256": "sha256-TirvCvZlg4hZjRldnuOcS5CtTHTFpeZAXXxfdt7WKeM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.103.1/file/dendron.nightly-0.103.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.103.2/file/dendron.nightly-0.103.2.vsix"
         },
-        "version": "0.103.1"
+        "version": "0.103.2"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
