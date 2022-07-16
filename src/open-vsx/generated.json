@@ -32464,11 +32464,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rQpM0h9o5OZdpxBStTs1Ueb1W06RxgEaQj1LaNfF7KE=",
+            "sha256": "sha256-nap197Mkgc8pmHLhJRpsPymBye0wWqb4s8jtG64RRiI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.1/file/vadimcn.vscode-lldb-1.7.1.vsix"
+            "url": "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.2/file/vadimcn.vscode-lldb-1.7.2.vsix"
         },
-        "version": "1.7.1"
+        "version": "1.7.2"
     },
     "valentjn-vscode-ltex": {
         "cargoLocks": null,

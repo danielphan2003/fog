@@ -20499,10 +20499,10 @@
   };
   vadimcn-vscode-lldb = {
     pname = "vadimcn-vscode-lldb";
-    version = "1.7.1";
+    version = "1.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.1/file/vadimcn.vscode-lldb-1.7.1.vsix";
-      sha256 = "sha256-rQpM0h9o5OZdpxBStTs1Ueb1W06RxgEaQj1LaNfF7KE=";
+      url = "https://open-vsx.org/api/vadimcn/vscode-lldb/1.7.2/file/vadimcn.vscode-lldb-1.7.2.vsix";
+      sha256 = "sha256-nap197Mkgc8pmHLhJRpsPymBye0wWqb4s8jtG64RRiI=";
     };
     license = "MIT";
     name = "vscode-lldb";
