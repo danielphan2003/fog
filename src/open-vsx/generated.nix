@@ -3363,10 +3363,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.1220";
+    version = "2022.7.1510";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1220/file/Slint.slint-nightly-2022.7.1220.vsix";
-      sha256 = "sha256-WdlHrEyHcjatSnClz3kBQWcBZp/Epf4td9jMHMK4cVE=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1510/file/Slint.slint-nightly-2022.7.1510.vsix";
+      sha256 = "sha256-zCAlRIQiJcwBzX5kcvLEzj8GSwreAlb2uupR9/n+icA=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13932,6 +13932,18 @@
     name = "spiral-lang-vscode";
     description = "VS Code editor support plugin + the Spiral language compiler.";
     publisher = "mrakgr";
+  };
+  mrcrowl-easy-less = {
+    pname = "mrcrowl-easy-less";
+    version = "1.7.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mrcrowl/easy-less/1.7.3/file/mrcrowl.easy-less-1.7.3.vsix";
+      sha256 = "sha256-TdqCs+m/nynQZM73JSRMPb2un8+UmrlJu3RU/AtzXB4=";
+    };
+    license = "MIT";
+    name = "easy-less";
+    description = "Auto-compile LESS to CSS on save";
+    publisher = "mrcrowl";
   };
   mrcrowl-hg = {
     pname = "mrcrowl-hg";

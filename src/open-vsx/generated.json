@@ -5332,11 +5332,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WdlHrEyHcjatSnClz3kBQWcBZp/Epf4td9jMHMK4cVE=",
+            "sha256": "sha256-zCAlRIQiJcwBzX5kcvLEzj8GSwreAlb2uupR9/n+icA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1220/file/Slint.slint-nightly-2022.7.1220.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1510/file/Slint.slint-nightly-2022.7.1510.vsix"
         },
-        "version": "2022.7.1220"
+        "version": "2022.7.1510"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -22057,6 +22057,25 @@
             "url": "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.1/file/mrakgr.spiral-lang-vscode-2.2.1.vsix"
         },
         "version": "2.2.1"
+    },
+    "mrcrowl-easy-less": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mrcrowl-easy-less",
+        "passthru": {
+            "description": "Auto-compile LESS to CSS on save",
+            "license": "MIT",
+            "name": "easy-less",
+            "publisher": "mrcrowl"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-TdqCs+m/nynQZM73JSRMPb2un8+UmrlJu3RU/AtzXB4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/mrcrowl/easy-less/1.7.3/file/mrcrowl.easy-less-1.7.3.vsix"
+        },
+        "version": "1.7.3"
     },
     "mrcrowl-hg": {
         "cargoLocks": null,
