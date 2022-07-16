@@ -798,14 +798,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "e527a159ade97ab4fa86ffc39bda3c02cb22d61f";
+    version = "c36e4a43acc5e047e8f9ca9e659db0bd04353078";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "e527a159ade97ab4fa86ffc39bda3c02cb22d61f";
+      rev = "c36e4a43acc5e047e8f9ca9e659db0bd04353078";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-tG1+vUJW9JIdYpcRn8J0fCIZh29hYo8wSlBKwTUxyMU=";
+      sha256 = "sha256-jxQzDl7cSjoEeo3fNLiGPlGfRKXn+ok8JEuN4zXWlIw=";
     };
   };
   polymc-cracked = {
@@ -1180,16 +1180,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "484a235e57c5b830bef5c996d128a844c41acd4f";
+    version = "19db3259a5f24e3c4395bbfeb3cfad8709d14f18";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "484a235e57c5b830bef5c996d128a844c41acd4f";
+      rev = "19db3259a5f24e3c4395bbfeb3cfad8709d14f18";
       fetchSubmodules = false;
-      sha256 = "sha256-T6FObP70zV7MfgoSGPYuZeC/+x3JALvki/RZzwlm8xg=";
+      sha256 = "sha256-VuzdAfu1eN6AsFGFuI95i7KdiqBylVE4b2IVylSTn7w=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-484a235e57c5b830bef5c996d128a844c41acd4f/Cargo.lock;
+      lockFile = ./swhkd-19db3259a5f24e3c4395bbfeb3cfad8709d14f18/Cargo.lock;
       outputHashes = {
         
       };
