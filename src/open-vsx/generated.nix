@@ -1105,6 +1105,18 @@
     description = "Dark theme with a taste of the universe";
     publisher = "FelixIcaza";
   };
+  FernandoUnger-unger-theme = {
+    pname = "FernandoUnger-unger-theme";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/FernandoUnger/unger-theme/0.1.2/file/FernandoUnger.unger-theme-0.1.2.vsix";
+      sha256 = "sha256-dE0dvw6xp4lKA9lEh5r9AxyeuTyj09QZn+OHe5SVC3g=";
+    };
+    license = "MIT";
+    name = "unger-theme";
+    description = "Unger Theme Dark";
+    publisher = "FernandoUnger";
+  };
   FlyIoStaging-fly-extension = {
     pname = "FlyIoStaging-fly-extension";
     version = "0.0.2";
@@ -7479,10 +7491,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.1";
+    version = "0.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.1/file/d-biehl.robotcode-0.13.1.vsix";
-      sha256 = "sha256-6wHktd+cn2C7RVVY8fMZyY6v6TLMd2yML2n1GpmxHkk=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.2/file/d-biehl.robotcode-0.13.2.vsix";
+      sha256 = "sha256-cWB8x7PtgcmcSXIYevtwnnU9kWtwoUjdP22iuyrgpZ8=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -14799,10 +14811,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.40.0";
+    version = "0.43.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.40.0/file/mutable-ai.mutable-ai-0.40.0.vsix";
-      sha256 = "sha256-llSIdB9cojVv8b0QaN1UTJuNF24d2+Da4avtztHDSho=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.43.0/file/mutable-ai.mutable-ai-0.43.0.vsix";
+      sha256 = "sha256-uMc3mhJ+T/Za+daY+4va4jntehTlNv0JiNM3hrPLQSQ=";
     };
     license = "";
     name = "mutable-ai";
