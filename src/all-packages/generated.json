@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "ef24329495d173b195a830727bfe7191c1761d12",
-            "sha256": "sha256-Hi84hP1iITAzTTOFVPJEPdATgxvCgUKhuE+ibBbn92Y=",
+            "rev": "aac546b7710e14397f6986c55ad628fedac2de14",
+            "sha256": "sha256-V7i2qGNX1c5Hme0Y+M0QvzqR/ZyzQnO31Qj8RKmGiY0=",
             "type": "github"
         },
-        "version": "ef24329495d173b195a830727bfe7191c1761d12"
+        "version": "aac546b7710e14397f6986c55ad628fedac2de14"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1253,11 +1253,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "60c96953940d8035504e5c385b13ef88c46ff41e",
-            "sha256": "sha256-j6yeA6YhtzRCMYTMRUIICKUA/NkASatkTBPXJi95DFE=",
+            "rev": "d621f7a3e2e3e8104910d820a89a64905c874c20",
+            "sha256": "sha256-cXbHYKlzhv7JWWmTVwIaGV2oJNZkPBtXJsmaZTBtAH4=",
             "type": "github"
         },
-        "version": "60c96953940d8035504e5c385b13ef88c46ff41e"
+        "version": "d621f7a3e2e3e8104910d820a89a64905c874c20"
     },
     "playit-agent": {
         "cargoLocks": {
@@ -1542,11 +1542,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1mdb9DViNWgom6TCo6XJt07GIKDBo6Q5FBBkzqjHFqg=",
+            "sha256": "sha256-5jG9HxGDA5csm9Wp5tOf64E9gZbULDyLPrfXZdm3MXA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.24.2/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.25.0/app-release-unsigned.apk"
         },
-        "version": "0.24.2"
+        "version": "0.25.0"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1556,11 +1556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-coG6SKDcrNF9Sap48LUcT+5oJbvKT6GJna/j94M10tQ=",
+            "sha256": "sha256-G0StrluCyC/qg3+PfSgouhMbEIDiJsWmHm3MMqEpx0Q=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.14.1/revanced-patches-2.14.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.15.0/revanced-patches-2.15.0.dex"
         },
-        "version": "2.14.1"
+        "version": "2.15.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V3DZyDB0E8DKOFw6LLj85s3daqp6Lm5b4fnxpaiEJsM=",
+            "sha256": "sha256-pqVGWUQ3T2OXqj7iVIdVMkdoHWKJRohu+0FqRXJHxOw=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.14.1/revanced-patches-2.14.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.15.0/revanced-patches-2.15.0.jar"
         },
-        "version": "2.14.1"
+        "version": "2.15.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
