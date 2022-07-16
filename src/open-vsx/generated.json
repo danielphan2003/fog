@@ -3812,11 +3812,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pXikUqK7qVTez64KeqwFwTsjyr8OKqOmc1pRveO/f6U=",
+            "sha256": "sha256-iII62wnoojXwwKUbqM1pXwVooQ/600qT7cE/Bq193dQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.26/file/Marko-JS.marko-vscode-0.17.26.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.27/file/Marko-JS.marko-vscode-0.17.27.vsix"
         },
-        "version": "0.17.26"
+        "version": "0.17.27"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -25719,11 +25719,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S065oojKOZzl777eVuN63GPElrY52d5JG+lFEI0pbXw=",
+            "sha256": "sha256-vKRNa6FBOygWSKBJAte3/U+l7eEfC8yjU7qj5G2QVFQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.399/file/pokey.cursorless-0.26.399.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.400/file/pokey.cursorless-0.26.400.vsix"
         },
-        "version": "0.26.399"
+        "version": "0.26.400"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,

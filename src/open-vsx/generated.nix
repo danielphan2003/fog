@@ -2403,10 +2403,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.26";
+    version = "0.17.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.26/file/Marko-JS.marko-vscode-0.17.26.vsix";
-      sha256 = "sha256-pXikUqK7qVTez64KeqwFwTsjyr8OKqOmc1pRveO/f6U=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.27/file/Marko-JS.marko-vscode-0.17.27.vsix";
+      sha256 = "sha256-iII62wnoojXwwKUbqM1pXwVooQ/600qT7cE/Bq193dQ=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -16239,10 +16239,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.399";
+    version = "0.26.400";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.399/file/pokey.cursorless-0.26.399.vsix";
-      sha256 = "sha256-S065oojKOZzl777eVuN63GPElrY52d5JG+lFEI0pbXw=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.400/file/pokey.cursorless-0.26.400.vsix";
+      sha256 = "sha256-vKRNa6FBOygWSKBJAte3/U+l7eEfC8yjU7qj5G2QVFQ=";
     };
     license = "MIT";
     name = "cursorless";
