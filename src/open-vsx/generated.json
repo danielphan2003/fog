@@ -19962,11 +19962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AyjsOXL5SXjwXtPSXxL5/4witXdypepCRmxNtdVI+Qw=",
+            "sha256": "sha256-yfap8ZT/38U3LJAppKzRjqa/KUPVPPltP88vGhHagOk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.83/file/leanprover.lean4-0.0.83.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.84/file/leanprover.lean4-0.0.84.vsix"
         },
-        "version": "0.0.83"
+        "version": "0.0.84"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,
