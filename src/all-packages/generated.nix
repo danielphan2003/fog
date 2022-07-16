@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "b190d83911a082fff460b77e7b87b4afd40a01ee";
+    version = "86b78d5cdeccd161ca6b11aa36c10ae0bbd09e5a";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "b190d83911a082fff460b77e7b87b4afd40a01ee";
+      rev = "86b78d5cdeccd161ca6b11aa36c10ae0bbd09e5a";
       fetchSubmodules = true;
-      sha256 = "sha256-VVr54O7ZYY09T3RmAus/lq8aiK3lJZZS8zcPnQduMn4=";
+      sha256 = "sha256-uCb1OfPqevvMJxVJMqzvzjVCwN1nqQ/D2RRVNQ2Y+qM=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-b190d83911a082fff460b77e7b87b4afd40a01ee/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-86b78d5cdeccd161ca6b11aa36c10ae0bbd09e5a/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -948,13 +948,13 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "853c8c9af3fbacdea9a576e4c21a49dc753bd07d";
+    version = "6801bd85bbfa59143b8ec443a05b22ef977b4349";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "853c8c9af3fbacdea9a576e4c21a49dc753bd07d";
+      rev = "6801bd85bbfa59143b8ec443a05b22ef977b4349";
       fetchSubmodules = true;
-      sha256 = "sha256-mtxqZD2AunZOVvzX9qow0RGw3kQGE2+04isizDNJaAk=";
+      sha256 = "sha256-3kPzEkljNXOf+4HSCrjXm6BUxusDT9NP2wbxqBRvLRk=";
     });
   };
   rustdesk = {
