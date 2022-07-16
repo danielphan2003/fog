@@ -10823,11 +10823,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CeC+A8zGAXcsC2TTZtimnLhF7YH+Hm6uDVWYYjy+B7E=",
+            "sha256": "sha256-m91rmek9RnZJPP5jL16eu6r14/S6ykbTOXsNobJ0AT4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.2/file/cloudstudio.coding-authentication-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.3/file/cloudstudio.coding-authentication-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "cloudstudio-coding-publish": {
         "cargoLocks": null,
@@ -10842,11 +10842,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BPTsICeqHE7QUsLXhrGI1EDdRB+IeHxFQu7qEm5ibPg=",
+            "sha256": "sha256-MofTWAySkMikpkqzbm3uih0MwZVu+pJakimB8HhjkxU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.2/file/cloudstudio.coding-publish-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.3/file/cloudstudio.coding-publish-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "cloudstudio-coding-repositories": {
         "cargoLocks": null,
@@ -10937,11 +10937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BVPAgjTT+QsNKPeLvyyWHWiybd1t2b2qiXS1dSm56cw=",
+            "sha256": "sha256-NbaUKea/rgajQThG1jMf2bvjakh1WSHjJzEqeFDr2KI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.1/file/cloudstudio.github-authentication-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.3/file/cloudstudio.github-authentication-0.0.3.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.3"
     },
     "cloudstudio-init-workspace": {
         "cargoLocks": null,
@@ -11013,11 +11013,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0DY+PjrVnAjwI/F09W07Zgh1PSp8B0upzJELiehLqSU=",
+            "sha256": "sha256-Co2GaYLDgIsetNny1yJx4sP470oaW3Phf4ZJ3WGofjg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.17/file/cloudstudio.workspaces-0.0.17.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.18/file/cloudstudio.workspaces-0.0.18.vsix"
         },
-        "version": "0.0.17"
+        "version": "0.0.18"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -22071,11 +22071,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TdqCs+m/nynQZM73JSRMPb2un8+UmrlJu3RU/AtzXB4=",
+            "sha256": "sha256-crmJJMxgiD92Nq9UrUNWVYpUX29qCbNmCrU4CTbn650=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mrcrowl/easy-less/1.7.3/file/mrcrowl.easy-less-1.7.3.vsix"
+            "url": "https://open-vsx.org/api/mrcrowl/easy-less/1.7.4/file/mrcrowl.easy-less-1.7.4.vsix"
         },
-        "version": "1.7.3"
+        "version": "1.7.4"
     },
     "mrcrowl-hg": {
         "cargoLocks": null,

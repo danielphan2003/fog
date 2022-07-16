@@ -6831,10 +6831,10 @@
   };
   cloudstudio-coding-authentication = {
     pname = "cloudstudio-coding-authentication";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.2/file/cloudstudio.coding-authentication-0.0.2.vsix";
-      sha256 = "sha256-CeC+A8zGAXcsC2TTZtimnLhF7YH+Hm6uDVWYYjy+B7E=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-authentication/0.0.3/file/cloudstudio.coding-authentication-0.0.3.vsix";
+      sha256 = "sha256-m91rmek9RnZJPP5jL16eu6r14/S6ykbTOXsNobJ0AT4=";
     };
     license = "MIT";
     name = "coding-authentication";
@@ -6843,10 +6843,10 @@
   };
   cloudstudio-coding-publish = {
     pname = "cloudstudio-coding-publish";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.2/file/cloudstudio.coding-publish-0.0.2.vsix";
-      sha256 = "sha256-BPTsICeqHE7QUsLXhrGI1EDdRB+IeHxFQu7qEm5ibPg=";
+      url = "https://open-vsx.org/api/cloudstudio/coding-publish/0.0.3/file/cloudstudio.coding-publish-0.0.3.vsix";
+      sha256 = "sha256-MofTWAySkMikpkqzbm3uih0MwZVu+pJakimB8HhjkxU=";
     };
     license = "MIT";
     name = "coding-publish";
@@ -6903,10 +6903,10 @@
   };
   cloudstudio-github-authentication = {
     pname = "cloudstudio-github-authentication";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.1/file/cloudstudio.github-authentication-0.0.1.vsix";
-      sha256 = "sha256-BVPAgjTT+QsNKPeLvyyWHWiybd1t2b2qiXS1dSm56cw=";
+      url = "https://open-vsx.org/api/cloudstudio/github-authentication/0.0.3/file/cloudstudio.github-authentication-0.0.3.vsix";
+      sha256 = "sha256-NbaUKea/rgajQThG1jMf2bvjakh1WSHjJzEqeFDr2KI=";
     };
     license = "MIT";
     name = "github-authentication";
@@ -6951,10 +6951,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.17/file/cloudstudio.workspaces-0.0.17.vsix";
-      sha256 = "sha256-0DY+PjrVnAjwI/F09W07Zgh1PSp8B0upzJELiehLqSU=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.18/file/cloudstudio.workspaces-0.0.18.vsix";
+      sha256 = "sha256-Co2GaYLDgIsetNny1yJx4sP470oaW3Phf4ZJ3WGofjg=";
     };
     license = "MIT";
     name = "workspaces";
@@ -13935,10 +13935,10 @@
   };
   mrcrowl-easy-less = {
     pname = "mrcrowl-easy-less";
-    version = "1.7.3";
+    version = "1.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mrcrowl/easy-less/1.7.3/file/mrcrowl.easy-less-1.7.3.vsix";
-      sha256 = "sha256-TdqCs+m/nynQZM73JSRMPb2un8+UmrlJu3RU/AtzXB4=";
+      url = "https://open-vsx.org/api/mrcrowl/easy-less/1.7.4/file/mrcrowl.easy-less-1.7.4.vsix";
+      sha256 = "sha256-crmJJMxgiD92Nq9UrUNWVYpUX29qCbNmCrU4CTbn650=";
     };
     license = "MIT";
     name = "easy-less";
