@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-43364398b45ba4a8386f63bbb828ae2e82773d35/Cargo.lock",
+                "./asusctl-84e924f46a28ff983e97b3cac22de87df6b24a2b/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "43364398b45ba4a8386f63bbb828ae2e82773d35",
-            "sha256": "sha256-/IwUwnr6kGXR/PUvAE35S2u27Uon2nGKJ1aqNzT6pyo=",
+            "rev": "84e924f46a28ff983e97b3cac22de87df6b24a2b",
+            "sha256": "sha256-JyWjeNEvTcZlVtFkVzqPNE7fV4xDZd9FDty4AwYrOTc=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "43364398b45ba4a8386f63bbb828ae2e82773d35"
+        "version": "84e924f46a28ff983e97b3cac22de87df6b24a2b"
     },
     "avizo": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "b2650928eac06e3181ad07efe6ec55b2550f89b8",
-            "sha256": "sha256-hnMt/Gp/sjloymbgvp9G8CnHziMi4A1x7g3EroKmPKo=",
+            "rev": "48e5bd96bc71f94f774eb92b00ef560b2f911c73",
+            "sha256": "sha256-uGBoXG9SHntzKPZOYnlQq9oDE2fKrFEhjkoYw1nDI0w=",
             "type": "github"
         },
-        "version": "b2650928eac06e3181ad07efe6ec55b2550f89b8"
+        "version": "48e5bd96bc71f94f774eb92b00ef560b2f911c73"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1589,11 +1589,11 @@
             "name": null,
             "owner": "lbonn",
             "repo": "rofi",
-            "rev": "1e8c22b4a05c7602aa9e51509274ce5ac36a5099",
-            "sha256": "sha256-RcTwv+DGS+niuGYSQWAoTk9HAg/WnFV8r6VM0vEc9h4=",
+            "rev": "853c8c9af3fbacdea9a576e4c21a49dc753bd07d",
+            "sha256": "sha256-mtxqZD2AunZOVvzX9qow0RGw3kQGE2+04isizDNJaAk=",
             "type": "github"
         },
-        "version": "1e8c22b4a05c7602aa9e51509274ce5ac36a5099"
+        "version": "853c8c9af3fbacdea9a576e4c21a49dc753bd07d"
     },
     "rustdesk": {
         "cargoLocks": {
@@ -1757,12 +1757,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c93139f352f009bbcc81b528afc3eaae73123310",
-            "sha256": "sha256-I5tzg2c2WlOuJDJmYI5fFKeFdePXZP2SFbzFPMW1ntU=",
+            "rev": "a7fa760d728a3e4fc4aa5ddfa2f3452c6a4358f3",
+            "sha256": "sha256-uCLSSvHa21TjQYk4KLVmGAIjbD76ermU2Q9JN2EjVh0=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "c93139f352f009bbcc81b528afc3eaae73123310"
+        "version": "a7fa760d728a3e4fc4aa5ddfa2f3452c6a4358f3"
     },
     "spicetify-cli": {
         "cargoLocks": null,
