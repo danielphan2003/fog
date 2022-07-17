@@ -26004,11 +26004,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CeM360bc1PVgjQVQrpx1dujNBhXsgCQUapWriuM6z34=",
+            "sha256": "sha256-alFXVWDQGBYqlvoWEPSBI6ayb74XvK/uEopbcannQ8k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.1/file/prantlf.vscode-requirejs-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.2/file/prantlf.vscode-requirejs-1.0.2.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "prime31-zig": {
         "cargoLocks": null,

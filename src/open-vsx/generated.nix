@@ -16419,10 +16419,10 @@
   };
   prantlf-vscode-requirejs = {
     pname = "prantlf-vscode-requirejs";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.1/file/prantlf.vscode-requirejs-1.0.1.vsix";
-      sha256 = "sha256-CeM360bc1PVgjQVQrpx1dujNBhXsgCQUapWriuM6z34=";
+      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.2/file/prantlf.vscode-requirejs-1.0.2.vsix";
+      sha256 = "sha256-alFXVWDQGBYqlvoWEPSBI6ayb74XvK/uEopbcannQ8k=";
     };
     license = "MIT";
     name = "vscode-requirejs";
