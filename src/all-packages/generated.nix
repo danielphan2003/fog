@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "10523370200818228d3f31523bb729b0e37e8c44";
+    version = "48d5eb451f816eb79f028066f02de3d49d57209d";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "10523370200818228d3f31523bb729b0e37e8c44";
+      rev = "48d5eb451f816eb79f028066f02de3d49d57209d";
       fetchSubmodules = false;
-      sha256 = "sha256-lRWkvl/OpFbLUxGyVo6tes+MXft8PeJwWpAB/LtQBcU=";
+      sha256 = "sha256-szJO2HDNEuVnXl1Nvk006C9gWZTTRf5vzKqqWy0mx1c=";
     });
   };
   fluffychat = {
@@ -924,10 +924,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.26.0";
+    version = "0.27.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.26.0/app-release-unsigned.apk";
-      sha256 = "sha256-SokkWJufYmPxGqR++x1pT7mAJdr2LbX0O2Rl9FbL82M=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.0/app-release-unsigned.apk";
+      sha256 = "sha256-2I1vvPq52sCSG5Fp3fzyQQw7coqzmy3DAIA4kSYvuM4=";
     };
   };
   revanced-patches-dex = {
