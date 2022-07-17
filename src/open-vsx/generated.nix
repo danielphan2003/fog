@@ -3363,10 +3363,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.1510";
+    version = "2022.7.1609";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1510/file/Slint.slint-nightly-2022.7.1510.vsix";
-      sha256 = "sha256-zCAlRIQiJcwBzX5kcvLEzj8GSwreAlb2uupR9/n+icA=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1609/file/Slint.slint-nightly-2022.7.1609.vsix";
+      sha256 = "sha256-QjgjyUfFK08dA9d/1HXvodgZtFokmNTygn8j8PZJuaU=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -4023,10 +4023,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.11.0";
+    version = "9.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.11.0/file/YXL.cloudmusic-9.11.0.vsix";
-      sha256 = "sha256-Eh6z4Sb7DqfHTUy/jxe+Sdef9gExzZkwVE8kca5GqM8=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.12.0/file/YXL.cloudmusic-9.12.0.vsix";
+      sha256 = "sha256-eG2Eot0pW49AYxW2eUz2rWXeuZFPYFGKxmo7+ZzNtpc=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -8439,10 +8439,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2663205";
+    version = "8.0.2684492";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2663205/file/eliostruyf.vscode-front-matter-beta-8.0.2663205.vsix";
-      sha256 = "sha256-VrKEDuDrA7Z3JqU8EE/naCEkXMYsMejvqqjGJevwfZQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2684492/file/eliostruyf.vscode-front-matter-beta-8.0.2684492.vsix";
+      sha256 = "sha256-fGa5OtzIzjb1+jYjklo1qPSQBTrsHbXBLmOU8oxkq38=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -15183,10 +15183,10 @@
   };
   njzy-stats-bar = {
     pname = "njzy-stats-bar";
-    version = "0.5.0";
+    version = "0.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/njzy/stats-bar/0.5.0/file/njzy.stats-bar-0.5.0.vsix";
-      sha256 = "sha256-rsXi9BupoYMzI+U+W6yxvApF6a9DrPmLyVh4Rbo2up0=";
+      url = "https://open-vsx.org/api/njzy/stats-bar/0.5.1/file/njzy.stats-bar-0.5.1.vsix";
+      sha256 = "sha256-fPPM2aHrIiJE6xFWsqxUQHeQN9qwMmkOAmp4Pphcw7Y=";
     };
     license = "MIT";
     name = "stats-bar";
@@ -18855,10 +18855,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.0/file/streetsidesoftware.code-spell-checker-2.3.0.vsix";
-      sha256 = "sha256-MsWkZoQV7Dc8a4VYaKxbetdGazfuA3Dwnegul31+7TQ=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.1/file/streetsidesoftware.code-spell-checker-2.3.1.vsix";
+      sha256 = "sha256-fWjSa0Gs6fhxTjWgxa25h2Zjwl9pfYtZxkQpwv+IqV4=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";
