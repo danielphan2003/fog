@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "84e924f46a28ff983e97b3cac22de87df6b24a2b";
+    version = "39c4253b24fdc08fb3dc305808ea8b45a935aeb5";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "84e924f46a28ff983e97b3cac22de87df6b24a2b";
+      rev = "39c4253b24fdc08fb3dc305808ea8b45a935aeb5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-JyWjeNEvTcZlVtFkVzqPNE7fV4xDZd9FDty4AwYrOTc=";
+      sha256 = "sha256-D0upi9S225O75gJOcStcf+9BlmfQWbxbfpjrGkPj+Fk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-84e924f46a28ff983e97b3cac22de87df6b24a2b/Cargo.lock;
+      lockFile = ./asusctl-39c4253b24fdc08fb3dc305808ea8b45a935aeb5/Cargo.lock;
       outputHashes = {
         
       };
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "dec0ee87d581fb9e27dc7c437a8e2f6bbb22bcda";
+    version = "0a12062e1c23db9b061513c6526675f5b172762d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "dec0ee87d581fb9e27dc7c437a8e2f6bbb22bcda";
+      rev = "0a12062e1c23db9b061513c6526675f5b172762d";
       fetchSubmodules = false;
-      sha256 = "sha256-2/V+hnPagYWT5kwq/ZWYEh4q5MVBblI221k8BnqfEIk=";
+      sha256 = "sha256-DZliBAZT/7Dx+0tQjB6ehPxzG8EBNuvxJWRQuGpxUfk=";
     });
   };
   revanced-cli = {
