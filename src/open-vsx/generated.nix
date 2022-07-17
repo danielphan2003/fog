@@ -10863,10 +10863,10 @@
   };
   ilingu-standup-extension = {
     pname = "ilingu-standup-extension";
-    version = "0.1.0";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.0/file/ilingu.standup-extension-0.1.0.vsix";
-      sha256 = "sha256-UL91lotFVcQt/SiG1rrhVvV5r0Vg/EW3Gcg8WGANrmQ=";
+      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.2/file/ilingu.standup-extension-0.1.2.vsix";
+      sha256 = "sha256-cOM3TBh9xWgz4uZ2gwMZ7iQVFSTZDhLzmxeUMAk9k+4=";
     };
     license = "MIT";
     name = "standup-extension";
