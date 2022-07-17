@@ -1995,14 +1995,14 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.6";
+    version = "1.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.6/file/Leathong.openscad-language-support-1.1.6.vsix";
-      sha256 = "sha256-hL+vR7HtNYYXGTNcuWyz8XVKhLcj9WXfKFy41xw4Yi8=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.8/file/Leathong.openscad-language-support-1.1.8.vsix";
+      sha256 = "sha256-+LPdGVAcwXRI0Lr9JUthJjpckVQUT5QOJNSGoHWsIcE=";
     };
     license = "GPL-3.0";
     name = "openscad-language-support";
-    description = "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more!";
+    description = "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more you need!";
     publisher = "Leathong";
   };
   Lencerf-beancount = {

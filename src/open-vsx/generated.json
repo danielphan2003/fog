@@ -3158,7 +3158,7 @@
         "extract": null,
         "name": "Leathong-openscad-language-support",
         "passthru": {
-            "description": "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more!",
+            "description": "Maybe the best extension for OpenSCAD so far. Provides formatting, auto-completion, document symbols, and more you need!",
             "license": "GPL-3.0",
             "name": "openscad-language-support",
             "publisher": "Leathong"
@@ -3166,11 +3166,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hL+vR7HtNYYXGTNcuWyz8XVKhLcj9WXfKFy41xw4Yi8=",
+            "sha256": "sha256-+LPdGVAcwXRI0Lr9JUthJjpckVQUT5QOJNSGoHWsIcE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.6/file/Leathong.openscad-language-support-1.1.6.vsix"
+            "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.8/file/Leathong.openscad-language-support-1.1.8.vsix"
         },
-        "version": "1.1.6"
+        "version": "1.1.8"
     },
     "Lencerf-beancount": {
         "cargoLocks": null,
