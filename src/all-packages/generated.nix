@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "66d87a618771701073b3f39e6e9aaad303d4b061";
+    version = "3e3858d729d6c042f94fe61085389a3300db0f65";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "66d87a618771701073b3f39e6e9aaad303d4b061";
+      rev = "3e3858d729d6c042f94fe61085389a3300db0f65";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-FQHQyheAL3Kbucyh/1y8aD456MRBwfW6po7C8t6EdMA=";
+      sha256 = "sha256-euZHaSrJTAeLqgM6Tguma7NVP/Vp9fykv46+qT3dYho=";
     };
   };
   flyingfox = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f5bd30569ff16764ade82bdcebb828584318d76a";
+    version = "afeb040684017dfb27ca3cb3823e41dd95310af1";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "f5bd30569ff16764ade82bdcebb828584318d76a";
+      rev = "afeb040684017dfb27ca3cb3823e41dd95310af1";
       fetchSubmodules = false;
-      sha256 = "sha256-nPEYT3MlozHxmQTWrtkcxtwWC/+D1ak47+74wzFO6eo=";
+      sha256 = "sha256-0U06LVCTnB7vkYVfNLnm7Xxu0Q9cPMs30x6uXyN4yX0=";
     });
   };
   ibus = {
@@ -751,13 +751,13 @@
   };
   picom = {
     pname = "picom";
-    version = "7e833744b7083f530afb25f287c929f7edad6701";
+    version = "db6f11624b7752a3067c051bd1fa0dfa5deb20e4";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "7e833744b7083f530afb25f287c929f7edad6701";
+      rev = "db6f11624b7752a3067c051bd1fa0dfa5deb20e4";
       fetchSubmodules = false;
-      sha256 = "sha256-xarw+P5I7hIUleMCLzIxQN8tKxrgtCo3isYOzB1yq08=";
+      sha256 = "sha256-fDl9auyjLxPTJltEmgQZ2Yf+wGhDZKB5dfCuglurOKA=";
     });
   };
   playit-agent = {
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "08cccc811c6cdfa1770d770095ce7e2d62a053fe";
+    version = "a39532f19d5ff86797429763b27257dbf4e74d24";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "08cccc811c6cdfa1770d770095ce7e2d62a053fe";
+      rev = "a39532f19d5ff86797429763b27257dbf4e74d24";
       fetchSubmodules = false;
-      sha256 = "sha256-ITq+7eEK9SZwwfH/RQlH8sfQIflR2G81bpG83+KpTJI=";
+      sha256 = "sha256-+5cJKOZOX7msYYwUAqawagz8GIOCtY8x0mbCHUKs9d0=";
     });
   };
   revanced-cli = {
