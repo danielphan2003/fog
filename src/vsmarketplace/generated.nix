@@ -27,11 +27,11 @@
   };
   alefragnani-pascal = {
     pname = "alefragnani-pascal";
-    version = "9.5.0";
+    version = "9.5.1";
     src = fetchurl {
-      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "pascal-9.5.0.zip";
-      sha256 = "sha256-YS+NvEM83fHlGrVtb8d4JiQ1qUOCIQmwQDK7yJjWGW4=";
+      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal/9.5.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "pascal-9.5.1.zip";
+      sha256 = "sha256-q2Fx7pc66tlREhcDUcIXUWDLW76gwbVBv+NzHOkndjU=";
     };
     license = "MIT";
     name = "pascal";
@@ -39,11 +39,11 @@
   };
   alefragnani-pascal-formatter = {
     pname = "alefragnani-pascal-formatter";
-    version = "2.6.0";
+    version = "2.6.1";
     src = fetchurl {
-      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal-formatter/2.6.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "pascal-formatter-2.6.0.zip";
-      sha256 = "sha256-Hmde76DAiHJSHDN60q6hGs9U6nKTrGdeR+xm4W2kj6g=";
+      url = "https://alefragnani.gallery.vsassets.io/_apis/public/gallery/publisher/alefragnani/extension/pascal-formatter/2.6.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "pascal-formatter-2.6.1.zip";
+      sha256 = "sha256-nUtHkHdHB+DTVfqbhkqTj9ElaR7ip73PpUw5f+nl8dM=";
     };
     license = "MIT";
     name = "pascal-formatter";
@@ -93,7 +93,7 @@
     src = fetchurl {
       url = "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.11.2/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
       name = "cpptools-1.11.2.zip";
-      sha256 = "sha256-iZYEL5e/UyWxwSYkt5sAAjj2Vy/xKfXKCuEI4uOTZXY=";
+      sha256 = "sha256-cvr7Exa00diFqtHOKSv4WHneCS02GTFi4hlOaN4Q5ac=";
     };
     license = "MIT";
     name = "cpptools";
