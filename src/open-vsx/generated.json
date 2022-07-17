@@ -22052,11 +22052,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nzl75V6blL0kjlUP1Dkfjt4YLC57iwZH3mYZkQLdgCE=",
+            "sha256": "sha256-Yqt11dSx15aFCAx7IZhT4KUloFqrkpwkRJzmJjFC0mI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.1/file/mrakgr.spiral-lang-vscode-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.2/file/mrakgr.spiral-lang-vscode-2.2.2.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.2.2"
     },
     "mrcrowl-easy-less": {
         "cargoLocks": null,

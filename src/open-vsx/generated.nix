@@ -13923,10 +13923,10 @@
   };
   mrakgr-spiral-lang-vscode = {
     pname = "mrakgr-spiral-lang-vscode";
-    version = "2.2.1";
+    version = "2.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.1/file/mrakgr.spiral-lang-vscode-2.2.1.vsix";
-      sha256 = "sha256-nzl75V6blL0kjlUP1Dkfjt4YLC57iwZH3mYZkQLdgCE=";
+      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.2/file/mrakgr.spiral-lang-vscode-2.2.2.vsix";
+      sha256 = "sha256-Yqt11dSx15aFCAx7IZhT4KUloFqrkpwkRJzmJjFC0mI=";
     };
     license = "";
     name = "spiral-lang-vscode";
