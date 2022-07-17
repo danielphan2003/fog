@@ -3812,11 +3812,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iII62wnoojXwwKUbqM1pXwVooQ/600qT7cE/Bq193dQ=",
+            "sha256": "sha256-cBgZOAXNPPaKChkd0ePDGDsjCJN2L4ir1klfyhUCfHc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.27/file/Marko-JS.marko-vscode-0.17.27.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.28/file/Marko-JS.marko-vscode-0.17.28.vsix"
         },
-        "version": "0.17.27"
+        "version": "0.17.28"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
