@@ -401,25 +401,25 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "bbbbf252b20517710e5707ce7a97d358305d0398";
+    version = "10523370200818228d3f31523bb729b0e37e8c44";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "bbbbf252b20517710e5707ce7a97d358305d0398";
+      rev = "10523370200818228d3f31523bb729b0e37e8c44";
       fetchSubmodules = false;
-      sha256 = "sha256-+3S1xGO4KiXOfj/28qfp62JA1rx466yYHOFdkAAQaiU=";
+      sha256 = "sha256-lRWkvl/OpFbLUxGyVo6tes+MXft8PeJwWpAB/LtQBcU=";
     });
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "815c7626fcbe40114412d5d9ad73514822fcdb53";
+    version = "66d87a618771701073b3f39e6e9aaad303d4b061";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "815c7626fcbe40114412d5d9ad73514822fcdb53";
+      rev = "66d87a618771701073b3f39e6e9aaad303d4b061";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sO+ClQil6SmjMieU2HjOclQ0mGhpvgItHUQq4kKDJkw=";
+      sha256 = "sha256-FQHQyheAL3Kbucyh/1y8aD456MRBwfW6po7C8t6EdMA=";
     };
   };
   flyingfox = {
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3ebfcbc7c7ea3993132b3c24c0aebead2aa7940c";
+    version = "08cccc811c6cdfa1770d770095ce7e2d62a053fe";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3ebfcbc7c7ea3993132b3c24c0aebead2aa7940c";
+      rev = "08cccc811c6cdfa1770d770095ce7e2d62a053fe";
       fetchSubmodules = false;
-      sha256 = "sha256-eBUB+jFuQTOh8WFod8wBm86zBYgSgT1EED04j7O3db4=";
+      sha256 = "sha256-ITq+7eEK9SZwwfH/RQlH8sfQIflR2G81bpG83+KpTJI=";
     });
   };
   revanced-cli = {
@@ -1112,16 +1112,16 @@
   };
   spotifyd = {
     pname = "spotifyd";
-    version = "ae6dac7a54f899316674ba57ce4a0f9890cd2b1c";
+    version = "993336f74ec89cb6cad23dd009251e70548761b6";
     src = fetchFromGitHub ({
       owner = "Spotifyd";
       repo = "spotifyd";
-      rev = "ae6dac7a54f899316674ba57ce4a0f9890cd2b1c";
+      rev = "993336f74ec89cb6cad23dd009251e70548761b6";
       fetchSubmodules = false;
-      sha256 = "sha256-UYQ5XiG18bQO4UfLDa7Nn2BQGk0jo0+tSP1lL79cY8k=";
+      sha256 = "sha256-IILJCvH+dyKRRUERW9zicsoRoCBiKw03MTnitZb2hp0=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./spotifyd-ae6dac7a54f899316674ba57ce4a0f9890cd2b1c/Cargo.lock;
+      lockFile = ./spotifyd-993336f74ec89cb6cad23dd009251e70548761b6/Cargo.lock;
       outputHashes = {
         
       };

@@ -666,11 +666,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "bbbbf252b20517710e5707ce7a97d358305d0398",
-            "sha256": "sha256-+3S1xGO4KiXOfj/28qfp62JA1rx466yYHOFdkAAQaiU=",
+            "rev": "10523370200818228d3f31523bb729b0e37e8c44",
+            "sha256": "sha256-lRWkvl/OpFbLUxGyVo6tes+MXft8PeJwWpAB/LtQBcU=",
             "type": "github"
         },
-        "version": "bbbbf252b20517710e5707ce7a97d358305d0398"
+        "version": "10523370200818228d3f31523bb729b0e37e8c44"
     },
     "fluffychat": {
         "cargoLocks": null,
@@ -683,12 +683,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "815c7626fcbe40114412d5d9ad73514822fcdb53",
-            "sha256": "sha256-sO+ClQil6SmjMieU2HjOclQ0mGhpvgItHUQq4kKDJkw=",
+            "rev": "66d87a618771701073b3f39e6e9aaad303d4b061",
+            "sha256": "sha256-FQHQyheAL3Kbucyh/1y8aD456MRBwfW6po7C8t6EdMA=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "815c7626fcbe40114412d5d9ad73514822fcdb53"
+        "version": "66d87a618771701073b3f39e6e9aaad303d4b061"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1514,11 +1514,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "3ebfcbc7c7ea3993132b3c24c0aebead2aa7940c",
-            "sha256": "sha256-eBUB+jFuQTOh8WFod8wBm86zBYgSgT1EED04j7O3db4=",
+            "rev": "08cccc811c6cdfa1770d770095ce7e2d62a053fe",
+            "sha256": "sha256-ITq+7eEK9SZwwfH/RQlH8sfQIflR2G81bpG83+KpTJI=",
             "type": "github"
         },
-        "version": "3ebfcbc7c7ea3993132b3c24c0aebead2aa7940c"
+        "version": "08cccc811c6cdfa1770d770095ce7e2d62a053fe"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1852,7 +1852,7 @@
     "spotifyd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./spotifyd-ae6dac7a54f899316674ba57ce4a0f9890cd2b1c/Cargo.lock",
+                "./spotifyd-993336f74ec89cb6cad23dd009251e70548761b6/Cargo.lock",
                 {}
             ]
         },
@@ -1867,11 +1867,11 @@
             "name": null,
             "owner": "Spotifyd",
             "repo": "spotifyd",
-            "rev": "ae6dac7a54f899316674ba57ce4a0f9890cd2b1c",
-            "sha256": "sha256-UYQ5XiG18bQO4UfLDa7Nn2BQGk0jo0+tSP1lL79cY8k=",
+            "rev": "993336f74ec89cb6cad23dd009251e70548761b6",
+            "sha256": "sha256-IILJCvH+dyKRRUERW9zicsoRoCBiKw03MTnitZb2hp0=",
             "type": "github"
         },
-        "version": "ae6dac7a54f899316674ba57ce4a0f9890cd2b1c"
+        "version": "993336f74ec89cb6cad23dd009251e70548761b6"
     },
     "steamcompmgr": {
         "cargoLocks": null,
