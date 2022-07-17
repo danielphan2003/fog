@@ -75,10 +75,10 @@
   };
   AnishDe12020-orbi = {
     pname = "AnishDe12020-orbi";
-    version = "1.0.1";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.0.1/file/AnishDe12020.orbi-1.0.1.vsix";
-      sha256 = "sha256-LkVTbis0LJ2VBfe5WkbAv1dppsn9mpWt8o1tAXyeiOQ=";
+      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.1.0/file/AnishDe12020.orbi-1.1.0.vsix";
+      sha256 = "sha256-BV3cCCH3hVhs3aY2Ljtfa/dDlLO90avMK2eYjEGZyF0=";
     };
     license = "MIT";
     name = "orbi";
@@ -10143,10 +10143,10 @@
   };
   hbenl-vscode-mocha-test-adapter = {
     pname = "hbenl-vscode-mocha-test-adapter";
-    version = "2.14.0";
+    version = "2.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.14.0/file/hbenl.vscode-mocha-test-adapter-2.14.0.vsix";
-      sha256 = "sha256-T8Xb2bEW6244q5Doybleu0va0e/XTOtvnzO2Y4OWifo=";
+      url = "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.14.1/file/hbenl.vscode-mocha-test-adapter-2.14.1.vsix";
+      sha256 = "sha256-qPzU4VwYewkJmcFnG8wqi+2HVhr+d7avEkvtzEAMnSo=";
     };
     license = "MIT";
     name = "vscode-mocha-test-adapter";
@@ -10860,6 +10860,18 @@
     name = "vscode-ansi";
     description = "ANSI color styling for text documents";
     publisher = "iliazeus";
+  };
+  ilingu-standup-extension = {
+    pname = "ilingu-standup-extension";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.0/file/ilingu.standup-extension-0.1.0.vsix";
+      sha256 = "sha256-UL91lotFVcQt/SiG1rrhVvV5r0Vg/EW3Gcg8WGANrmQ=";
+    };
+    license = "MIT";
+    name = "standup-extension";
+    description = "popup an alert that say \"take a break, stand up\" every hour";
+    publisher = "ilingu";
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
@@ -18733,6 +18745,18 @@
     description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.";
     publisher = "standard";
   };
+  standup-extension-standup-extension = {
+    pname = "standup-extension-standup-extension";
+    version = "1.0.0-beta";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/standup-extension/standup-extension/1.0.0-beta/file/standup-extension.standup-extension-1.0.0-beta.vsix";
+      sha256 = "sha256-usUY3K4uq+BacmE3hEMbdAYu1olqfVQ0+ayU1KbUWoM=";
+    };
+    license = "MIT";
+    name = "standup-extension";
+    description = "popup an alert that say \"take a break, stand up\" every hour";
+    publisher = "standup-extension";
+  };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
     version = "1.8.3";
@@ -19455,10 +19479,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.16.4";
+    version = "0.16.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.4/file/tamasfe.even-better-toml-0.16.4.vsix";
-      sha256 = "sha256-CvNQFoZL+c3bqjVwPjZpytVn/pCK1enQoChtBtGao+k=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.5/file/tamasfe.even-better-toml-0.16.5.vsix";
+      sha256 = "sha256-JODf4pTM13OtFgONHouW5FYz1JS8QwnMXSI3IWP69RE=";
     };
     license = "MIT";
     name = "even-better-toml";

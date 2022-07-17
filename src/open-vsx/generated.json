@@ -126,11 +126,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LkVTbis0LJ2VBfe5WkbAv1dppsn9mpWt8o1tAXyeiOQ=",
+            "sha256": "sha256-BV3cCCH3hVhs3aY2Ljtfa/dDlLO90avMK2eYjEGZyF0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AnishDe12020/orbi/1.0.1/file/AnishDe12020.orbi-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/AnishDe12020/orbi/1.1.0/file/AnishDe12020.orbi-1.1.0.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.1.0"
     },
     "Antyos-openscad": {
         "cargoLocks": null,
@@ -16067,11 +16067,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T8Xb2bEW6244q5Doybleu0va0e/XTOtvnzO2Y4OWifo=",
+            "sha256": "sha256-qPzU4VwYewkJmcFnG8wqi+2HVhr+d7avEkvtzEAMnSo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.14.0/file/hbenl.vscode-mocha-test-adapter-2.14.0.vsix"
+            "url": "https://open-vsx.org/api/hbenl/vscode-mocha-test-adapter/2.14.1/file/hbenl.vscode-mocha-test-adapter-2.14.1.vsix"
         },
-        "version": "2.14.0"
+        "version": "2.14.1"
     },
     "hbenl-vscode-test-explorer": {
         "cargoLocks": null,
@@ -17193,6 +17193,25 @@
             "url": "https://open-vsx.org/api/iliazeus/vscode-ansi/1.1.2/file/iliazeus.vscode-ansi-1.1.2.vsix"
         },
         "version": "1.1.2"
+    },
+    "ilingu-standup-extension": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ilingu-standup-extension",
+        "passthru": {
+            "description": "popup an alert that say \"take a break, stand up\" every hour",
+            "license": "MIT",
+            "name": "standup-extension",
+            "publisher": "ilingu"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-UL91lotFVcQt/SiG1rrhVvV5r0Vg/EW3Gcg8WGANrmQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.0/file/ilingu.standup-extension-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "iljapostnovs-ui5plugin": {
         "cargoLocks": null,
@@ -29658,6 +29677,25 @@
         },
         "version": "2.1.0"
     },
+    "standup-extension-standup-extension": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "standup-extension-standup-extension",
+        "passthru": {
+            "description": "popup an alert that say \"take a break, stand up\" every hour",
+            "license": "MIT",
+            "name": "standup-extension",
+            "publisher": "standup-extension"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-usUY3K4uq+BacmE3hEMbdAYu1olqfVQ0+ayU1KbUWoM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/standup-extension/standup-extension/1.0.0-beta/file/standup-extension.standup-extension-1.0.0-beta.vsix"
+        },
+        "version": "1.0.0-beta"
+    },
     "statelyai-stately-vscode": {
         "cargoLocks": null,
         "extract": null,
@@ -30811,11 +30849,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CvNQFoZL+c3bqjVwPjZpytVn/pCK1enQoChtBtGao+k=",
+            "sha256": "sha256-JODf4pTM13OtFgONHouW5FYz1JS8QwnMXSI3IWP69RE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.4/file/tamasfe.even-better-toml-0.16.4.vsix"
+            "url": "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.5/file/tamasfe.even-better-toml-0.16.5.vsix"
         },
-        "version": "0.16.4"
+        "version": "0.16.5"
     },
     "tanhakabir-rest-book": {
         "cargoLocks": null,
