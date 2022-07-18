@@ -5199,10 +5199,10 @@
   };
   anyscalecompute-anyscale-workspaces = {
     pname = "anyscalecompute-anyscale-workspaces";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.6/file/anyscalecompute.anyscale-workspaces-0.1.6.vsix";
-      sha256 = "sha256-ILarky+nJQhhdJm8A5ppoeOSzNc9XwHzswtzfr6eytk=";
+      url = "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.7/file/anyscalecompute.anyscale-workspaces-0.1.7.vsix";
+      sha256 = "sha256-AH6vIJ3kcYJAobKpZUjWVVNB+m1AS6PP30Suy0H2Rq0=";
     };
     license = "Apache-2.0";
     name = "anyscale-workspaces";
@@ -7911,10 +7911,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.103.3";
+    version = "0.103.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.103.3/file/dendron.nightly-0.103.3.vsix";
-      sha256 = "sha256-V/MzlLvugzL1anJ6NiKTss5J0BS7NI70UwmaZoab6d4=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.103.4/file/dendron.nightly-0.103.4.vsix";
+      sha256 = "sha256-ClblD4B1sqGtDTltl9dcaV5D3xtxCg43fgFOZ1TNPrE=";
     };
     license = "AGPL-3.0";
     name = "nightly";

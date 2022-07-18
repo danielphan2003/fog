@@ -8239,11 +8239,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ILarky+nJQhhdJm8A5ppoeOSzNc9XwHzswtzfr6eytk=",
+            "sha256": "sha256-AH6vIJ3kcYJAobKpZUjWVVNB+m1AS6PP30Suy0H2Rq0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.6/file/anyscalecompute.anyscale-workspaces-0.1.6.vsix"
+            "url": "https://open-vsx.org/api/anyscalecompute/anyscale-workspaces/0.1.7/file/anyscalecompute.anyscale-workspaces-0.1.7.vsix"
         },
-        "version": "0.1.6"
+        "version": "0.1.7"
     },
     "aperricone-harbour": {
         "cargoLocks": null,
@@ -12533,11 +12533,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V/MzlLvugzL1anJ6NiKTss5J0BS7NI70UwmaZoab6d4=",
+            "sha256": "sha256-ClblD4B1sqGtDTltl9dcaV5D3xtxCg43fgFOZ1TNPrE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.103.3/file/dendron.nightly-0.103.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.103.4/file/dendron.nightly-0.103.4.vsix"
         },
-        "version": "0.103.3"
+        "version": "0.103.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
