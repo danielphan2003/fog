@@ -463,24 +463,24 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "ab2e8c99b45b74856872879be37a92e8242dd8be";
+    version = "66249d4ec960b8392d75fd2a360975fe51393a46";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "ab2e8c99b45b74856872879be37a92e8242dd8be";
+      rev = "66249d4ec960b8392d75fd2a360975fe51393a46";
       fetchSubmodules = false;
-      sha256 = "sha256-foAiq4Dl2SP+zzght69IMokDD1BM0BTwV479JsZCj+0=";
+      sha256 = "sha256-T+vzpv5uu0ThhHzKlXXNoVj0V7R23EcoxihIY1g1inU=";
     });
   };
   hyprland = {
     pname = "hyprland";
-    version = "afeb040684017dfb27ca3cb3823e41dd95310af1";
+    version = "60cc33a53cd401be92673c144eaa67555525933e";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "afeb040684017dfb27ca3cb3823e41dd95310af1";
+      rev = "60cc33a53cd401be92673c144eaa67555525933e";
       fetchSubmodules = false;
-      sha256 = "sha256-0U06LVCTnB7vkYVfNLnm7Xxu0Q9cPMs30x6uXyN4yX0=";
+      sha256 = "sha256-rFRUnJFvsAIU8sAjed91M2A0Mi08TD8pLHmOkmI30GQ=";
     });
   };
   ibus = {
