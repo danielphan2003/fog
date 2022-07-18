@@ -5560,11 +5560,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DuUb9H+Hlzx6AVTG7LoI7Kh0Au6GJoIbaUA5n9agMiM=",
+            "sha256": "sha256-mQARFOcgc/flLdBOXPf3V3KJMfRBdSeqzwNh27ERSIk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.59/file/TI.devspacesplus-0.0.59.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.60/file/TI.devspacesplus-0.0.60.vsix"
         },
-        "version": "0.0.59"
+        "version": "0.0.60"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -12685,11 +12685,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-R9pU5twJrPESgEHy/GBvr0gIGHCi1YhKn3MpzWu5/3A=",
+            "sha256": "sha256-S6HH2Zx+ebYkddxov5YyVimDu577hBhd22yfmQpDemg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.33/file/digma.digma-0.5.33.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.34/file/digma.digma-0.5.34.vsix"
         },
-        "version": "0.5.33"
+        "version": "0.5.34"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,

@@ -3507,10 +3507,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.59";
+    version = "0.0.60";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.59/file/TI.devspacesplus-0.0.59.vsix";
-      sha256 = "sha256-DuUb9H+Hlzx6AVTG7LoI7Kh0Au6GJoIbaUA5n9agMiM=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.60/file/TI.devspacesplus-0.0.60.vsix";
+      sha256 = "sha256-mQARFOcgc/flLdBOXPf3V3KJMfRBdSeqzwNh27ERSIk=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -8007,10 +8007,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.33";
+    version = "0.5.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.33/file/digma.digma-0.5.33.vsix";
-      sha256 = "sha256-R9pU5twJrPESgEHy/GBvr0gIGHCi1YhKn3MpzWu5/3A=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.34/file/digma.digma-0.5.34.vsix";
+      sha256 = "sha256-S6HH2Zx+ebYkddxov5YyVimDu577hBhd22yfmQpDemg=";
     };
     license = "MIT";
     name = "digma";
