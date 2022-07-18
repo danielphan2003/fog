@@ -1912,11 +1912,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KQYdI/D8QQnj900KtAnHTvkiYv4XCoI44Y/KqT471CU=",
+            "sha256": "sha256-8dDQF7mzNsM/1IfvkH8qD4fXFHAvu5p4YQcU4fuGZ9o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitHub/github-vscode-theme/6.3.0/file/GitHub.github-vscode-theme-6.3.0.vsix"
+            "url": "https://open-vsx.org/api/GitHub/github-vscode-theme/6.3.1/file/GitHub.github-vscode-theme-6.3.1.vsix"
         },
-        "version": "6.3.0"
+        "version": "6.3.1"
     },
     "GitHub-vscode-codeql": {
         "cargoLocks": null,
@@ -15345,11 +15345,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mFz2oIxXDLVGX6IbJxFTmjVcUPW1lfU+wmCo9qoTe78=",
+            "sha256": "sha256-UIK1klGZ0vRnAe99DFNPXrRwJ6aj/CjdbvkKH4gFTvA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/giscafer/leek-fund/2.7.1/file/giscafer.leek-fund-2.7.1.vsix"
+            "url": "https://open-vsx.org/api/giscafer/leek-fund/2.7.2/file/giscafer.leek-fund-2.7.2.vsix"
         },
-        "version": "2.7.1"
+        "version": "2.7.2"
     },
     "gitduck-code-streaming": {
         "cargoLocks": null,
@@ -22552,6 +22552,101 @@
         },
         "version": "0.14.3"
     },
+    "ms-vscode-Theme-1337": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-Theme-1337",
+        "passthru": {
+            "description": "1337 Theme for VS Code based on the TextMate theme.",
+            "license": "MIT",
+            "name": "Theme-1337",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-kicUg2Yt+t6v29RnNuUXPwebv2zSK0tuVOJKeSyhY9s=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/Theme-1337/0.1.4/file/ms-vscode.Theme-1337-0.1.4.vsix"
+        },
+        "version": "0.1.4"
+    },
+    "ms-vscode-Theme-3024Kit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-Theme-3024Kit",
+        "passthru": {
+            "description": "3024 Themes for VS Code based on the TextMate theme.",
+            "license": "MIT",
+            "name": "Theme-3024Kit",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-OeTSc6IuDChMqajB97p3/m5R+DfrS3spCW8dh79s/kM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/Theme-3024Kit/0.1.4/file/ms-vscode.Theme-3024Kit-0.1.4.vsix"
+        },
+        "version": "0.1.4"
+    },
+    "ms-vscode-Theme-MarkdownKit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-Theme-MarkdownKit",
+        "passthru": {
+            "description": "Theme Kit for VS Code optimized for Markdown. Based on the TextMate themes.",
+            "license": "MIT",
+            "name": "Theme-MarkdownKit",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-7mljndbaDc1AIk3DzHqRUfMgjwAONWhmpf2F4jEf3vs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/Theme-MarkdownKit/0.1.4/file/ms-vscode.Theme-MarkdownKit-0.1.4.vsix"
+        },
+        "version": "0.1.4"
+    },
+    "ms-vscode-Theme-MaterialKit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-Theme-MaterialKit",
+        "passthru": {
+            "description": "Material themes for VS Code. Based on the TextMate themes.",
+            "license": "MIT",
+            "name": "Theme-MaterialKit",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-waKM9VLHlSLCkOoDkTH89d/8knr4R8Iq5IelZi2WwzE=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/Theme-MaterialKit/0.1.4/file/ms-vscode.Theme-MaterialKit-0.1.4.vsix"
+        },
+        "version": "0.1.4"
+    },
+    "ms-vscode-Theme-PredawnKit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-Theme-PredawnKit",
+        "passthru": {
+            "description": "Predawn themes for VS Code. Based on the TextMate themes.",
+            "license": "MIT",
+            "name": "Theme-PredawnKit",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-UI6RIcrv45e/beb+6t/ewcQZX2Ccli6aUs9eXr90ghU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/Theme-PredawnKit/0.1.4/file/ms-vscode.Theme-PredawnKit-0.1.4.vsix"
+        },
+        "version": "0.1.4"
+    },
     "ms-vscode-Theme-TomorrowKit": {
         "cargoLocks": null,
         "extract": null,
@@ -22595,7 +22690,7 @@
         "extract": null,
         "name": "ms-vscode-azure-account",
         "passthru": {
-            "description": "A common Sign-In and Subscription management extension for VS Code.",
+            "description": "A common Sign In and Subscription management extension for VS Code.",
             "license": "MIT",
             "name": "azure-account",
             "publisher": "ms-vscode"
@@ -22603,11 +22698,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0Q+99tJz+mqNo7ltCigvhX2YygApXL9TcgXzz3/0ok8=",
+            "sha256": "sha256-71kjFEwqKmlnjQNbeHtMv1QpFJcC25wNdVJxpytz4qc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/azure-account/0.8.9/file/ms-vscode.azure-account-0.8.9.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/azure-account/0.11.0/file/ms-vscode.azure-account-0.11.0.vsix"
         },
-        "version": "0.8.9"
+        "version": "0.11.0"
+    },
+    "ms-vscode-azurecli": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-azurecli",
+        "passthru": {
+            "description": "Tools for developing and running commands of the Azure CLI.",
+            "license": "MIT",
+            "name": "azurecli",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-00sepJ/wY/XuyNdADWT8J32YnHUzgn7dmtJdFM8CAQM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/azurecli/0.5.0/file/ms-vscode.azurecli-0.5.0.vsix"
+        },
+        "version": "0.5.0"
     },
     "ms-vscode-brackets-keybindings": {
         "cargoLocks": null,
@@ -22932,6 +23046,25 @@
         },
         "version": "4.0.10"
     },
+    "ms-vscode-test-adapter-converter": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-test-adapter-converter",
+        "passthru": {
+            "description": "Converter extension from the Test Adapter UI to native VS Code testing",
+            "license": "MIT",
+            "name": "test-adapter-converter",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dBrRNRLfFdsC+0/zG0LRSKQD0N30W/jPR3Gn/M62c68=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/test-adapter-converter/0.1.6/file/ms-vscode.test-adapter-converter-0.1.6.vsix"
+        },
+        "version": "0.1.6"
+    },
     "ms-vscode-vs-keybindings": {
         "cargoLocks": null,
         "extract": null,
@@ -23045,6 +23178,25 @@
             "url": "https://open-vsx.org/api/ms-vscode/vscode-smoketest-check/0.0.1/file/ms-vscode.vscode-smoketest-check-0.0.1.vsix"
         },
         "version": "0.0.1"
+    },
+    "ms-vscode-vscode-typescript-next": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-vscode-vscode-typescript-next",
+        "passthru": {
+            "description": "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support",
+            "license": "MIT",
+            "name": "vscode-typescript-next",
+            "publisher": "ms-vscode"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EykPHrkP9pEBibvPpNGmPe2iK2RETDYSH7LranO3Sxo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220717/file/ms-vscode.vscode-typescript-next-4.8.20220717.vsix"
+        },
+        "version": "4.8.20220717"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,
@@ -31552,11 +31704,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yXCrF1YDQnoiMsVgoARyA/pP5UwoW8r/v82fV2o78M4=",
+            "sha256": "sha256-qPmALZHubhutwCWy6BnJNGG0wwuNDbbkMBzxEqT/+3Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.0.0/file/tombonnike.vscode-status-bar-format-toggle-3.0.0.vsix"
+            "url": "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.1.0/file/tombonnike.vscode-status-bar-format-toggle-3.1.0.vsix"
         },
-        "version": "3.0.0"
+        "version": "3.1.0"
     },
     "tomesparon-openvms-syntax": {
         "cargoLocks": null,

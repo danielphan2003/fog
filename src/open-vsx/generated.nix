@@ -1203,10 +1203,10 @@
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
-    version = "6.3.0";
+    version = "6.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.3.0/file/GitHub.github-vscode-theme-6.3.0.vsix";
-      sha256 = "sha256-KQYdI/D8QQnj900KtAnHTvkiYv4XCoI44Y/KqT471CU=";
+      url = "https://open-vsx.org/api/GitHub/github-vscode-theme/6.3.1/file/GitHub.github-vscode-theme-6.3.1.vsix";
+      sha256 = "sha256-8dDQF7mzNsM/1IfvkH8qD4fXFHAvu5p4YQcU4fuGZ9o=";
     };
     license = "MIT";
     name = "github-vscode-theme";
@@ -9687,10 +9687,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.7.1";
+    version = "2.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.1/file/giscafer.leek-fund-2.7.1.vsix";
-      sha256 = "sha256-mFz2oIxXDLVGX6IbJxFTmjVcUPW1lfU+wmCo9qoTe78=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.2/file/giscafer.leek-fund-2.7.2.vsix";
+      sha256 = "sha256-UIK1klGZ0vRnAe99DFNPXrRwJ6aj/CjdbvkKH4gFTvA=";
     };
     license = "BSD-3-Clause";
     name = "leek-fund";
@@ -14245,6 +14245,66 @@
     description = "Rich Go language support for Visual Studio Code";
     publisher = "ms-vscode";
   };
+  ms-vscode-Theme-1337 = {
+    pname = "ms-vscode-Theme-1337";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/Theme-1337/0.1.4/file/ms-vscode.Theme-1337-0.1.4.vsix";
+      sha256 = "sha256-kicUg2Yt+t6v29RnNuUXPwebv2zSK0tuVOJKeSyhY9s=";
+    };
+    license = "MIT";
+    name = "Theme-1337";
+    description = "1337 Theme for VS Code based on the TextMate theme.";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-Theme-3024Kit = {
+    pname = "ms-vscode-Theme-3024Kit";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/Theme-3024Kit/0.1.4/file/ms-vscode.Theme-3024Kit-0.1.4.vsix";
+      sha256 = "sha256-OeTSc6IuDChMqajB97p3/m5R+DfrS3spCW8dh79s/kM=";
+    };
+    license = "MIT";
+    name = "Theme-3024Kit";
+    description = "3024 Themes for VS Code based on the TextMate theme.";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-Theme-MarkdownKit = {
+    pname = "ms-vscode-Theme-MarkdownKit";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/Theme-MarkdownKit/0.1.4/file/ms-vscode.Theme-MarkdownKit-0.1.4.vsix";
+      sha256 = "sha256-7mljndbaDc1AIk3DzHqRUfMgjwAONWhmpf2F4jEf3vs=";
+    };
+    license = "MIT";
+    name = "Theme-MarkdownKit";
+    description = "Theme Kit for VS Code optimized for Markdown. Based on the TextMate themes.";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-Theme-MaterialKit = {
+    pname = "ms-vscode-Theme-MaterialKit";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/Theme-MaterialKit/0.1.4/file/ms-vscode.Theme-MaterialKit-0.1.4.vsix";
+      sha256 = "sha256-waKM9VLHlSLCkOoDkTH89d/8knr4R8Iq5IelZi2WwzE=";
+    };
+    license = "MIT";
+    name = "Theme-MaterialKit";
+    description = "Material themes for VS Code. Based on the TextMate themes.";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-Theme-PredawnKit = {
+    pname = "ms-vscode-Theme-PredawnKit";
+    version = "0.1.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/Theme-PredawnKit/0.1.4/file/ms-vscode.Theme-PredawnKit-0.1.4.vsix";
+      sha256 = "sha256-UI6RIcrv45e/beb+6t/ewcQZX2Ccli6aUs9eXr90ghU=";
+    };
+    license = "MIT";
+    name = "Theme-PredawnKit";
+    description = "Predawn themes for VS Code. Based on the TextMate themes.";
+    publisher = "ms-vscode";
+  };
   ms-vscode-Theme-TomorrowKit = {
     pname = "ms-vscode-Theme-TomorrowKit";
     version = "0.1.4";
@@ -14271,14 +14331,26 @@
   };
   ms-vscode-azure-account = {
     pname = "ms-vscode-azure-account";
-    version = "0.8.9";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/azure-account/0.8.9/file/ms-vscode.azure-account-0.8.9.vsix";
-      sha256 = "sha256-0Q+99tJz+mqNo7ltCigvhX2YygApXL9TcgXzz3/0ok8=";
+      url = "https://open-vsx.org/api/ms-vscode/azure-account/0.11.0/file/ms-vscode.azure-account-0.11.0.vsix";
+      sha256 = "sha256-71kjFEwqKmlnjQNbeHtMv1QpFJcC25wNdVJxpytz4qc=";
     };
     license = "MIT";
     name = "azure-account";
-    description = "A common Sign-In and Subscription management extension for VS Code.";
+    description = "A common Sign In and Subscription management extension for VS Code.";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-azurecli = {
+    pname = "ms-vscode-azurecli";
+    version = "0.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/azurecli/0.5.0/file/ms-vscode.azurecli-0.5.0.vsix";
+      sha256 = "sha256-00sepJ/wY/XuyNdADWT8J32YnHUzgn7dmtJdFM8CAQM=";
+    };
+    license = "MIT";
+    name = "azurecli";
+    description = "Tools for developing and running commands of the Azure CLI.";
     publisher = "ms-vscode";
   };
   ms-vscode-brackets-keybindings = {
@@ -14485,6 +14557,18 @@
     description = "Import Sublime Text settings and keybindings into VS Code.";
     publisher = "ms-vscode";
   };
+  ms-vscode-test-adapter-converter = {
+    pname = "ms-vscode-test-adapter-converter";
+    version = "0.1.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/test-adapter-converter/0.1.6/file/ms-vscode.test-adapter-converter-0.1.6.vsix";
+      sha256 = "sha256-dBrRNRLfFdsC+0/zG0LRSKQD0N30W/jPR3Gn/M62c68=";
+    };
+    license = "MIT";
+    name = "test-adapter-converter";
+    description = "Converter extension from the Test Adapter UI to native VS Code testing";
+    publisher = "ms-vscode";
+  };
   ms-vscode-vs-keybindings = {
     pname = "ms-vscode-vs-keybindings";
     version = "0.2.1";
@@ -14555,6 +14639,18 @@
     license = "MIT";
     name = "vscode-smoketest-check";
     description = "A test extension used for smoke testing VS Code Extensions UI ";
+    publisher = "ms-vscode";
+  };
+  ms-vscode-vscode-typescript-next = {
+    pname = "ms-vscode-vscode-typescript-next";
+    version = "4.8.20220717";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220717/file/ms-vscode.vscode-typescript-next-4.8.20220717.vsix";
+      sha256 = "sha256-EykPHrkP9pEBibvPpNGmPe2iK2RETDYSH7LranO3Sxo=";
+    };
+    license = "MIT";
+    name = "vscode-typescript-next";
+    description = "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support";
     publisher = "ms-vscode";
   };
   ms-vscode-vscode-typescript-tslint-plugin = {
@@ -19923,10 +20019,10 @@
   };
   tombonnike-vscode-status-bar-format-toggle = {
     pname = "tombonnike-vscode-status-bar-format-toggle";
-    version = "3.0.0";
+    version = "3.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.0.0/file/tombonnike.vscode-status-bar-format-toggle-3.0.0.vsix";
-      sha256 = "sha256-yXCrF1YDQnoiMsVgoARyA/pP5UwoW8r/v82fV2o78M4=";
+      url = "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.1.0/file/tombonnike.vscode-status-bar-format-toggle-3.1.0.vsix";
+      sha256 = "sha256-qPmALZHubhutwCWy6BnJNGG0wwuNDbbkMBzxEqT/+3Y=";
     };
     license = "MIT";
     name = "vscode-status-bar-format-toggle";
