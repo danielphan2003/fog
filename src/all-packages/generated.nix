@@ -932,18 +932,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.17.0";
+    version = "2.18.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.dex";
-      sha256 = "sha256-2Pc3NLbCxdAsGxqzxKE+i8pnVwIVfwrJqN2kgbc6Y34=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.18.0/revanced-patches-2.18.0.dex";
+      sha256 = "sha256-CpMEVt5UMqsxbRQ0+blOBMW2XeKxZaLP0Jb44ECfmzU=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.17.0";
+    version = "2.18.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.jar";
-      sha256 = "sha256-vXMANW5ZNCZZCVztor0TRMcNRi8Nlxo6C+ijUvpnmO0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.18.0/revanced-patches-2.18.0.jar";
+      sha256 = "sha256-EFMbGHh6hrq0EpyWzlTwiBPpNLxInuPbT5/3UwVSlvo=";
     };
   };
   rofi-wayland = {
@@ -959,16 +959,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "2851d71290799034b3c853aa20f21308ba297c31";
+    version = "f1fd09f189aa4d4d332331b19454397fcd8aad0d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "2851d71290799034b3c853aa20f21308ba297c31";
+      rev = "f1fd09f189aa4d4d332331b19454397fcd8aad0d";
       fetchSubmodules = false;
-      sha256 = "sha256-NAiLF/RrTQA+uQDzu9C6P1BcXGONrbJUc0CNmj1MjVg=";
+      sha256 = "sha256-V4uUcs81Lodz22UswphW9+qk1kdjux7JcXU+YKe2Jwo=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-2851d71290799034b3c853aa20f21308ba297c31/Cargo.lock;
+      lockFile = ./rustdesk-f1fd09f189aa4d4d332331b19454397fcd8aad0d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";

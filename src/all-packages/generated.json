@@ -1556,11 +1556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2Pc3NLbCxdAsGxqzxKE+i8pnVwIVfwrJqN2kgbc6Y34=",
+            "sha256": "sha256-CpMEVt5UMqsxbRQ0+blOBMW2XeKxZaLP0Jb44ECfmzU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.18.0/revanced-patches-2.18.0.dex"
         },
-        "version": "2.17.0"
+        "version": "2.18.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vXMANW5ZNCZZCVztor0TRMcNRi8Nlxo6C+ijUvpnmO0=",
+            "sha256": "sha256-EFMbGHh6hrq0EpyWzlTwiBPpNLxInuPbT5/3UwVSlvo=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.18.0/revanced-patches-2.18.0.jar"
         },
-        "version": "2.17.0"
+        "version": "2.18.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1598,7 +1598,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-2851d71290799034b3c853aa20f21308ba297c31/Cargo.lock",
+                "./rustdesk-f1fd09f189aa4d4d332331b19454397fcd8aad0d/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "hwcodec-0.1.0": "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=",
@@ -1623,11 +1623,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "2851d71290799034b3c853aa20f21308ba297c31",
-            "sha256": "sha256-NAiLF/RrTQA+uQDzu9C6P1BcXGONrbJUc0CNmj1MjVg=",
+            "rev": "f1fd09f189aa4d4d332331b19454397fcd8aad0d",
+            "sha256": "sha256-V4uUcs81Lodz22UswphW9+qk1kdjux7JcXU+YKe2Jwo=",
             "type": "github"
         },
-        "version": "2851d71290799034b3c853aa20f21308ba297c31"
+        "version": "f1fd09f189aa4d4d332331b19454397fcd8aad0d"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
