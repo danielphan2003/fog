@@ -11833,6 +11833,18 @@
     description = "Syntax support for the Haskell programming language.";
     publisher = "justusadam";
   };
+  jwevans-jwe-markdown-enhanced = {
+    pname = "jwevans-jwe-markdown-enhanced";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jwevans/jwe-markdown-enhanced/0.1.0/file/jwevans.jwe-markdown-enhanced-0.1.0.vsix";
+      sha256 = "sha256-we0macTlgaxvt3gBQgall0yt3JMGG+lUKPIgEtoCxyU=";
+    };
+    license = "MIT";
+    name = "jwe-markdown-enhanced";
+    description = "An extension to the markdown syntax that allows for easier editing and export of markdown as html and PDFs";
+    publisher = "jwevans";
+  };
   k--kato-docomment = {
     pname = "k--kato-docomment";
     version = "0.1.31";
@@ -13251,10 +13263,10 @@
   };
   matjp-jweb-editor = {
     pname = "matjp-jweb-editor";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matjp/jweb-editor/0.1.4/file/matjp.jweb-editor-0.1.4.vsix";
-      sha256 = "sha256-MuvgMuha6sV+bUq74SHmdeXcaky0hJUGgEWDEaK/V8E=";
+      url = "https://open-vsx.org/api/matjp/jweb-editor/0.1.5/file/matjp.jweb-editor-0.1.5.vsix";
+      sha256 = "sha256-RF7DNed5Dc3Bkf0hrtUXQDDiza3wP9tOB5ecDFUalzc=";
     };
     license = "MIT";
     name = "jweb-editor";

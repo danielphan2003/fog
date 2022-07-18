@@ -18733,6 +18733,25 @@
         },
         "version": "3.6.0"
     },
+    "jwevans-jwe-markdown-enhanced": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jwevans-jwe-markdown-enhanced",
+        "passthru": {
+            "description": "An extension to the markdown syntax that allows for easier editing and export of markdown as html and PDFs",
+            "license": "MIT",
+            "name": "jwe-markdown-enhanced",
+            "publisher": "jwevans"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-we0macTlgaxvt3gBQgall0yt3JMGG+lUKPIgEtoCxyU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jwevans/jwe-markdown-enhanced/0.1.0/file/jwevans.jwe-markdown-enhanced-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "k--kato-docomment": {
         "cargoLocks": null,
         "extract": null,
@@ -20988,11 +21007,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MuvgMuha6sV+bUq74SHmdeXcaky0hJUGgEWDEaK/V8E=",
+            "sha256": "sha256-RF7DNed5Dc3Bkf0hrtUXQDDiza3wP9tOB5ecDFUalzc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/matjp/jweb-editor/0.1.4/file/matjp.jweb-editor-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/matjp/jweb-editor/0.1.5/file/matjp.jweb-editor-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "matt-rudge-auto-open-preview-panel": {
         "cargoLocks": null,
