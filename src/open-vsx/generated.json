@@ -3166,11 +3166,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+LPdGVAcwXRI0Lr9JUthJjpckVQUT5QOJNSGoHWsIcE=",
+            "sha256": "sha256-xHhd4MR5X9aEW81E42kRsIQ2CXf8AbFVrbk+Sb7DMFY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.8/file/Leathong.openscad-language-support-1.1.8.vsix"
+            "url": "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.9/file/Leathong.openscad-language-support-1.1.9.vsix"
         },
-        "version": "1.1.8"
+        "version": "1.1.9"
     },
     "Lencerf-beancount": {
         "cargoLocks": null,
@@ -4686,11 +4686,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DXhAZLKyI5hZ/Cj/NvyLwkhmh9sHW41ys8Mm6YXcSNM=",
+            "sha256": "sha256-HPEfc/6JPfBUX/BU8J2vLAg4DjzVwITOPydG2WwVaao=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1201/file/Prisma.prisma-insider-31.0.1201.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1204/file/Prisma.prisma-insider-31.0.1204.vsix"
         },
-        "version": "31.0.1201"
+        "version": "31.0.1204"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -15958,6 +15958,25 @@
             "url": "https://open-vsx.org/api/harehare/textusm/0.3.1/file/harehare.textusm-0.3.1.vsix"
         },
         "version": "0.3.1"
+    },
+    "harmony-harmony-assist": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "harmony-harmony-assist",
+        "passthru": {
+            "description": "Harmony Assist Plugin",
+            "license": "MIT",
+            "name": "harmony-assist",
+            "publisher": "harmony"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-OF/1SI1iit5sGoeibNhfnYNfh3WKRJ033U4aHZYFpuo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/harmony/harmony-assist/0.0.1/file/harmony.harmony-assist-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "hashicorp-terraform": {
         "cargoLocks": null,

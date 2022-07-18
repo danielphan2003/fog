@@ -1995,10 +1995,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.8";
+    version = "1.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.8/file/Leathong.openscad-language-support-1.1.8.vsix";
-      sha256 = "sha256-+LPdGVAcwXRI0Lr9JUthJjpckVQUT5QOJNSGoHWsIcE=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.9/file/Leathong.openscad-language-support-1.1.9.vsix";
+      sha256 = "sha256-xHhd4MR5X9aEW81E42kRsIQ2CXf8AbFVrbk+Sb7DMFY=";
     };
     license = "GPL-3.0";
     name = "openscad-language-support";
@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1201";
+    version = "31.0.1204";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1201/file/Prisma.prisma-insider-31.0.1201.vsix";
-      sha256 = "sha256-DXhAZLKyI5hZ/Cj/NvyLwkhmh9sHW41ys8Mm6YXcSNM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1204/file/Prisma.prisma-insider-31.0.1204.vsix";
+      sha256 = "sha256-HPEfc/6JPfBUX/BU8J2vLAg4DjzVwITOPydG2WwVaao=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10080,6 +10080,18 @@
     name = "textusm";
     description = "Generate a User Story Map from indented text.";
     publisher = "harehare";
+  };
+  harmony-harmony-assist = {
+    pname = "harmony-harmony-assist";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.1/file/harmony.harmony-assist-0.0.1.vsix";
+      sha256 = "sha256-OF/1SI1iit5sGoeibNhfnYNfh3WKRJ033U4aHZYFpuo=";
+    };
+    license = "MIT";
+    name = "harmony-assist";
+    description = "Harmony Assist Plugin";
+    publisher = "harmony";
   };
   hashicorp-terraform = {
     pname = "hashicorp-terraform";
