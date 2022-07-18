@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1207";
+    version = "31.0.1210";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1207/file/Prisma.prisma-insider-31.0.1207.vsix";
-      sha256 = "sha256-3pem13fibyOqUFWzEatSNM7EdfphUPYQ/RrUo88WLTc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1210/file/Prisma.prisma-insider-31.0.1210.vsix";
+      sha256 = "sha256-/5m7Ud97/3TsPbZEN/28QKoJCq82HqDCPvk6Xr93O2w=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3147,10 +3147,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.33.2";
+    version = "2.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.33.2/file/RokuCommunity.brightscript-2.33.2.vsix";
-      sha256 = "sha256-n/QQS9oO8KvhIoP78vhCEAgKHYTBKkBZ4ZVCA0HJi+4=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.0/file/RokuCommunity.brightscript-2.34.0.vsix";
+      sha256 = "sha256-Q46SZYntM9eIvQI0qMZDo4gFjiih6mIfhsgGD3cHVCs=";
     };
     license = "MIT";
     name = "brightscript";
@@ -6459,10 +6459,10 @@
   };
   byCedric-vscode-expo = {
     pname = "byCedric-vscode-expo";
-    version = "0.7.4";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.7.4/file/byCedric.vscode-expo-0.7.4.vsix";
-      sha256 = "sha256-v+uMbp4m7f7hSUWXPmUr7nMrkTQOB6SbnbIoF1IR0is=";
+      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.8.0/file/byCedric.vscode-expo-0.8.0.vsix";
+      sha256 = "sha256-kNfopBvBnaSfRXq9s9NOFYJSxCfDSgE0VasYqX9yFXg=";
     };
     license = "MIT";
     name = "vscode-expo";
@@ -8439,10 +8439,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2684492";
+    version = "8.0.2691259";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2684492/file/eliostruyf.vscode-front-matter-beta-8.0.2684492.vsix";
-      sha256 = "sha256-fGa5OtzIzjb1+jYjklo1qPSQBTrsHbXBLmOU8oxkq38=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2691259/file/eliostruyf.vscode-front-matter-beta-8.0.2691259.vsix";
+      sha256 = "sha256-Z3MnGlTK/hAH/O1iK+guru9q1zWilQl/eKsc2aqHAfU=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -9627,10 +9627,10 @@
   };
   ggbecker-content-navigator = {
     pname = "ggbecker-content-navigator";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ggbecker/content-navigator/1.0.0/file/ggbecker.content-navigator-1.0.0.vsix";
-      sha256 = "sha256-7VAN/qQzT5JVNKijSfqyQKWM/ks3r5pR2Wxp13mL4qM=";
+      url = "https://open-vsx.org/api/ggbecker/content-navigator/1.0.1/file/ggbecker.content-navigator-1.0.1.vsix";
+      sha256 = "sha256-OwrCoGhbAr7Re0/RE0uX3zt31JU2YYUaJGNfxQ33W38=";
     };
     license = "BSD-3-Clause";
     name = "content-navigator";
@@ -11268,6 +11268,18 @@
     name = "vscode-pigments";
     description = "Previews colors used inside the editor";
     publisher = "jaspernorth";
+  };
+  jbangdev-jbang-vscode = {
+    pname = "jbangdev-jbang-vscode";
+    version = "0.1.2022071815";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022071815/file/jbangdev.jbang-vscode-0.1.2022071815.vsix";
+      sha256 = "sha256-o8J+ttNDZg3OVlc9FAQElVQyYNa+WnmTxmItT/jMFhQ=";
+    };
+    license = "MIT";
+    name = "jbang-vscode";
+    description = "JBang support for VS Code Java";
+    publisher = "jbangdev";
   };
   jbenden-c-cpp-flylint = {
     pname = "jbenden-c-cpp-flylint";
@@ -16371,10 +16383,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.400";
+    version = "0.26.401";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.400/file/pokey.cursorless-0.26.400.vsix";
-      sha256 = "sha256-vKRNa6FBOygWSKBJAte3/U+l7eEfC8yjU7qj5G2QVFQ=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.401/file/pokey.cursorless-0.26.401.vsix";
+      sha256 = "sha256-mncnqTDXlyvx6mMhZf8q4mNfQ79MgVhVI3Bb1va1DXc=";
     };
     license = "MIT";
     name = "cursorless";
