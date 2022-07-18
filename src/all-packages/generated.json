@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iJGl98yTTGKNI73PMj/p9nrYFAVZ49pd/ylU0BzN0Lg=",
+            "sha256": "sha256-KuIv7JOsxKibHM+HaTEAP6WRqLUHWMRgk1SCUSdmq+4=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6359.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6360.tar.bz2"
         },
-        "version": "1.0.6359"
+        "version": "1.0.6360"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -878,11 +878,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TxsCYhrDZxPEZ//USDgqDTJUOCHhvUIOF1PhOpArzes=",
+            "sha256": "sha256-podCR/Ir383Q/nmbrS6y3tM7oFYqiW8Q6ra42FF0Frk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6359-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6360-1_all.deb"
         },
-        "version": "1.0.6359"
+        "version": "1.0.6360"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1542,11 +1542,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2I1vvPq52sCSG5Fp3fzyQQw7coqzmy3DAIA4kSYvuM4=",
+            "sha256": "sha256-JKu1jRNHHljVVXZg3nHKh3YU2Vkp+Ytpe4yvLFgDi70=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.27.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.27.1/app-release-unsigned.apk"
         },
-        "version": "0.27.0"
+        "version": "0.27.1"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1991,11 +1991,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c6648db3336bfe10b40e7cf75d3a94ad1326fcc7",
-            "sha256": "sha256-EolThwfdL2iMDUcbT9awctEKsmLS2ZKBzDnl1Yh22uk=",
+            "rev": "3c892d106c2e184d86c1dc242694f010e1f70a79",
+            "sha256": "sha256-F+6t451IXHrO6EO72HpNjFDWY8k3iRy2f690+umwuqg=",
             "type": "github"
         },
-        "version": "c6648db3336bfe10b40e7cf75d3a94ad1326fcc7"
+        "version": "3c892d106c2e184d86c1dc242694f010e1f70a79"
     },
     "tailscale-systray": {
         "cargoLocks": null,

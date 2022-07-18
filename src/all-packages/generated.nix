@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6359";
+    version = "1.0.6360";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6359.tar.bz2";
-      sha256 = "sha256-iJGl98yTTGKNI73PMj/p9nrYFAVZ49pd/ylU0BzN0Lg=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6360.tar.bz2";
+      sha256 = "sha256-KuIv7JOsxKibHM+HaTEAP6WRqLUHWMRgk1SCUSdmq+4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6359";
+    version = "1.0.6360";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6359-1_all.deb";
-      sha256 = "sha256-TxsCYhrDZxPEZ//USDgqDTJUOCHhvUIOF1PhOpArzes=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6360-1_all.deb";
+      sha256 = "sha256-podCR/Ir383Q/nmbrS6y3tM7oFYqiW8Q6ra42FF0Frk=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,10 +924,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.27.0";
+    version = "0.27.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.0/app-release-unsigned.apk";
-      sha256 = "sha256-2I1vvPq52sCSG5Fp3fzyQQw7coqzmy3DAIA4kSYvuM4=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.1/app-release-unsigned.apk";
+      sha256 = "sha256-JKu1jRNHHljVVXZg3nHKh3YU2Vkp+Ytpe4yvLFgDi70=";
     };
   };
   revanced-patches-dex = {
@@ -1198,13 +1198,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "c6648db3336bfe10b40e7cf75d3a94ad1326fcc7";
+    version = "3c892d106c2e184d86c1dc242694f010e1f70a79";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "c6648db3336bfe10b40e7cf75d3a94ad1326fcc7";
+      rev = "3c892d106c2e184d86c1dc242694f010e1f70a79";
       fetchSubmodules = false;
-      sha256 = "sha256-EolThwfdL2iMDUcbT9awctEKsmLS2ZKBzDnl1Yh22uk=";
+      sha256 = "sha256-F+6t451IXHrO6EO72HpNjFDWY8k3iRy2f690+umwuqg=";
     });
   };
   tailscale-systray = {
