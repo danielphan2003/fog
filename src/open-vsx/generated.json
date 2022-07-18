@@ -3812,11 +3812,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cBgZOAXNPPaKChkd0ePDGDsjCJN2L4ir1klfyhUCfHc=",
+            "sha256": "sha256-j6nEnkXdz2NUWQfFIXW7v3anor87g7kYQJu4W/zr5x0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.28/file/Marko-JS.marko-vscode-0.17.28.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.29/file/Marko-JS.marko-vscode-0.17.29.vsix"
         },
-        "version": "0.17.28"
+        "version": "0.17.29"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -17782,6 +17782,25 @@
             "url": "https://open-vsx.org/api/jansim/solarized-sunset/1.4.1/file/jansim.solarized-sunset-1.4.1.vsix"
         },
         "version": "1.4.1"
+    },
+    "jarusll-class-browser": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jarusll-class-browser",
+        "passthru": {
+            "description": "Class Browser",
+            "license": "MIT",
+            "name": "class-browser",
+            "publisher": "jarusll"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-93F3Aw+oqvdmT8MJs8RqPsJqUO529D+WIXHV1geuHQA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jarusll/class-browser/0.0.3/file/jarusll.class-browser-0.0.3.vsix"
+        },
+        "version": "0.0.3"
     },
     "jasonlhy-hungry-delete": {
         "cargoLocks": null,

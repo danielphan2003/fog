@@ -2403,10 +2403,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.28";
+    version = "0.17.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.28/file/Marko-JS.marko-vscode-0.17.28.vsix";
-      sha256 = "sha256-cBgZOAXNPPaKChkd0ePDGDsjCJN2L4ir1klfyhUCfHc=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.29/file/Marko-JS.marko-vscode-0.17.29.vsix";
+      sha256 = "sha256-j6nEnkXdz2NUWQfFIXW7v3anor87g7kYQJu4W/zr5x0=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -11232,6 +11232,18 @@
     name = "solarized-sunset";
     description = "A flat theme based on Solarized Dark";
     publisher = "jansim";
+  };
+  jarusll-class-browser = {
+    pname = "jarusll-class-browser";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.3/file/jarusll.class-browser-0.0.3.vsix";
+      sha256 = "sha256-93F3Aw+oqvdmT8MJs8RqPsJqUO529D+WIXHV1geuHQA=";
+    };
+    license = "MIT";
+    name = "class-browser";
+    description = "Class Browser";
+    publisher = "jarusll";
   };
   jasonlhy-hungry-delete = {
     pname = "jasonlhy-hungry-delete";
