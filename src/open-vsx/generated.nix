@@ -14979,10 +14979,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.43.0";
+    version = "0.50.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.43.0/file/mutable-ai.mutable-ai-0.43.0.vsix";
-      sha256 = "sha256-uMc3mhJ+T/Za+daY+4va4jntehTlNv0JiNM3hrPLQSQ=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.50.0/file/mutable-ai.mutable-ai-0.50.0.vsix";
+      sha256 = "sha256-5Mbd0lx66yio0atYMSiWYpTsa/1iIaTlrl66WGHGhQc=";
     };
     license = "";
     name = "mutable-ai";
