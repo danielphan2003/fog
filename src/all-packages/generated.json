@@ -1598,16 +1598,17 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-dcf14dbb746f247522ad13798599589fdd3d60dc/Cargo.lock",
+                "./rustdesk-b74a01a3b3180d0e921bd56b27411087cdbebf9e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
-                    "hwcodec-0.1.0": "sha256-1rReqkHjBB+MVJqq7+NqGcFx8OgKzv582W3GVpErgl4=",
+                    "hwcodec-0.1.0": "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
                     "parity-tokio-ipc-0.7.3-1": "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=",
                     "rdev-0.5.0-1": "sha256-aaC2Aq6xBSKV7+eUZWKLSmDBFwNcHWkgw1jJWQXvNqA=",
                     "rust-pulsectl-0.2.12": "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=",
                     "sciter-rs-0.5.57": "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=",
-                    "tokio-socks-0.5.1-1": "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk="
+                    "tokio-socks-0.5.1-1": "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=",
+                    "trayicon-0.1.3-1": "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0="
                 }
             ]
         },
@@ -1622,11 +1623,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "dcf14dbb746f247522ad13798599589fdd3d60dc",
-            "sha256": "sha256-/vFrz8aeJtEf13PEiaXwBlOnqc935KzgozVc4Fj/7Ps=",
+            "rev": "b74a01a3b3180d0e921bd56b27411087cdbebf9e",
+            "sha256": "sha256-NZIPPpHdD9Ez8w85bJGpwc64DorGkoIroQfY+hfcTR4=",
             "type": "github"
         },
-        "version": "dcf14dbb746f247522ad13798599589fdd3d60dc"
+        "version": "b74a01a3b3180d0e921bd56b27411087cdbebf9e"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
