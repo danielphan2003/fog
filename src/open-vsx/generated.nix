@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1210";
+    version = "31.0.1211";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1210/file/Prisma.prisma-insider-31.0.1210.vsix";
-      sha256 = "sha256-/5m7Ud97/3TsPbZEN/28QKoJCq82HqDCPvk6Xr93O2w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1211/file/Prisma.prisma-insider-31.0.1211.vsix";
+      sha256 = "sha256-W84Uj7llR6VSfTlxqG9I2SIo0PnC0jfACwkFQ87k1Pw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -20631,10 +20631,10 @@
   };
   usernamehw-todo-md = {
     pname = "usernamehw-todo-md";
-    version = "2.16.0";
+    version = "2.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/todo-md/2.16.0/file/usernamehw.todo-md-2.16.0.vsix";
-      sha256 = "sha256-YWdQQhx5Evb0gHbeKpwJvCfbnGFuC6IIeLAl2ADcYbQ=";
+      url = "https://open-vsx.org/api/usernamehw/todo-md/2.17.0/file/usernamehw.todo-md-2.17.0.vsix";
+      sha256 = "sha256-OStwUWJSsqFHtqFMSSxA10jckCkOSXFZ9iem3DUeY3c=";
     };
     license = "MIT";
     name = "todo-md";

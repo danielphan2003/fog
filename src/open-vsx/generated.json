@@ -4686,11 +4686,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/5m7Ud97/3TsPbZEN/28QKoJCq82HqDCPvk6Xr93O2w=",
+            "sha256": "sha256-W84Uj7llR6VSfTlxqG9I2SIo0PnC0jfACwkFQ87k1Pw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1210/file/Prisma.prisma-insider-31.0.1210.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1211/file/Prisma.prisma-insider-31.0.1211.vsix"
         },
-        "version": "31.0.1210"
+        "version": "31.0.1211"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -32673,11 +32673,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YWdQQhx5Evb0gHbeKpwJvCfbnGFuC6IIeLAl2ADcYbQ=",
+            "sha256": "sha256-OStwUWJSsqFHtqFMSSxA10jckCkOSXFZ9iem3DUeY3c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.16.0/file/usernamehw.todo-md-2.16.0.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/todo-md/2.17.0/file/usernamehw.todo-md-2.17.0.vsix"
         },
-        "version": "2.16.0"
+        "version": "2.17.0"
     },
     "usernamehw-url-title": {
         "cargoLocks": null,
