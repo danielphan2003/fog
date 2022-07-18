@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "10a83853ac1785d4dabcef3920ebc5a74fc7707f";
+    version = "f35d513bf55d5232936f017aa2697a6b4d64f6e6";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "10a83853ac1785d4dabcef3920ebc5a74fc7707f";
+      rev = "f35d513bf55d5232936f017aa2697a6b4d64f6e6";
       fetchSubmodules = false;
-      sha256 = "sha256-iOY34vzifJ6mj03mu5urXKVHM2wD5DeHSj6CzLrXF34=";
+      sha256 = "sha256-u0ndym55txmD6c1LSgWJea3Epmla+BkR9Sgymiri0GI=";
     });
   };
   ibus = {
@@ -798,14 +798,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "c36e4a43acc5e047e8f9ca9e659db0bd04353078";
+    version = "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "c36e4a43acc5e047e8f9ca9e659db0bd04353078";
+      rev = "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-jxQzDl7cSjoEeo3fNLiGPlGfRKXn+ok8JEuN4zXWlIw=";
+      sha256 = "sha256-2ZOLTzv8/33LoEAdosrOa8rfGolyuP2RUAmtPnaI2T4=";
     };
   };
   polymc-cracked = {

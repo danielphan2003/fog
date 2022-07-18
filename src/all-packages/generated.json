@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "10a83853ac1785d4dabcef3920ebc5a74fc7707f",
-            "sha256": "sha256-iOY34vzifJ6mj03mu5urXKVHM2wD5DeHSj6CzLrXF34=",
+            "rev": "f35d513bf55d5232936f017aa2697a6b4d64f6e6",
+            "sha256": "sha256-u0ndym55txmD6c1LSgWJea3Epmla+BkR9Sgymiri0GI=",
             "type": "github"
         },
-        "version": "10a83853ac1785d4dabcef3920ebc5a74fc7707f"
+        "version": "f35d513bf55d5232936f017aa2697a6b4d64f6e6"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1329,12 +1329,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "c36e4a43acc5e047e8f9ca9e659db0bd04353078",
-            "sha256": "sha256-jxQzDl7cSjoEeo3fNLiGPlGfRKXn+ok8JEuN4zXWlIw=",
+            "rev": "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835",
+            "sha256": "sha256-2ZOLTzv8/33LoEAdosrOa8rfGolyuP2RUAmtPnaI2T4=",
             "type": "git",
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
-        "version": "c36e4a43acc5e047e8f9ca9e659db0bd04353078"
+        "version": "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835"
     },
     "polymc-cracked": {
         "cargoLocks": null,
