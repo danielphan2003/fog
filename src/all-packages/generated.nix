@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "1e10255d012b76daaae5946d9a41eff08e2e2866";
+    version = "42fc5a539249afe902587abe1687ee58e286f4c9";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "1e10255d012b76daaae5946d9a41eff08e2e2866";
+      rev = "42fc5a539249afe902587abe1687ee58e286f4c9";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-T37+NQTn9hUiuVXydR2BC/vFS9tAy7wBsga0QiJ2h+s=";
+      sha256 = "sha256-zopu3oLrEWldJaC3KthSjjNG3ahJ/+a2FD15msyVbMk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-1e10255d012b76daaae5946d9a41eff08e2e2866/Cargo.lock;
+      lockFile = ./asusctl-42fc5a539249afe902587abe1687ee58e286f4c9/Cargo.lock;
       outputHashes = {
         
       };
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "fbd765f1677f0d65af3393a6d8982d7693fbf492";
+    version = "87240556ea884549e04bf5a5531167085a886e0c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "fbd765f1677f0d65af3393a6d8982d7693fbf492";
+      rev = "87240556ea884549e04bf5a5531167085a886e0c";
       fetchSubmodules = false;
-      sha256 = "sha256-fcBPDN4lfsRm7mtEpxOLvgzPlUhzAutsJj04gv0eBtA=";
+      sha256 = "sha256-o3y6nY3qA9vija6+wYQjw94YMUSc5pEvX0E0G4JCRUA=";
     });
   };
   revanced-cli = {
@@ -959,16 +959,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "dadd6673a12414e6c61c044d7a158599e760c8a2";
+    version = "dcf14dbb746f247522ad13798599589fdd3d60dc";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "dadd6673a12414e6c61c044d7a158599e760c8a2";
+      rev = "dcf14dbb746f247522ad13798599589fdd3d60dc";
       fetchSubmodules = false;
-      sha256 = "sha256-XN4qcjb+CJSECJ9TLM+mF15LzeQJ396VS4IJxjSDrik=";
+      sha256 = "sha256-/vFrz8aeJtEf13PEiaXwBlOnqc935KzgozVc4Fj/7Ps=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-dadd6673a12414e6c61c044d7a158599e760c8a2/Cargo.lock;
+      lockFile = ./rustdesk-dcf14dbb746f247522ad13798599589fdd3d60dc/Cargo.lock;
       outputHashes = {
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
