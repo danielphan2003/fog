@@ -1514,11 +1514,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "71eb74d256cb4dc5b8b43991aec74980547c5069",
-            "sha256": "sha256-8KopPq7eHmHLQkMQwzJujOYVUFrXDRcJzmPVxlyLygQ=",
+            "rev": "fbd765f1677f0d65af3393a6d8982d7693fbf492",
+            "sha256": "sha256-fcBPDN4lfsRm7mtEpxOLvgzPlUhzAutsJj04gv0eBtA=",
             "type": "github"
         },
-        "version": "71eb74d256cb4dc5b8b43991aec74980547c5069"
+        "version": "fbd765f1677f0d65af3393a6d8982d7693fbf492"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1556,11 +1556,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-s31LNu2UwKWpjp2WHBcSSF+cnFfMKfH5hQ1e8BsaV90=",
+            "sha256": "sha256-2Pc3NLbCxdAsGxqzxKE+i8pnVwIVfwrJqN2kgbc6Y34=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.16.1/revanced-patches-2.16.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.dex"
         },
-        "version": "2.16.1"
+        "version": "2.17.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jFnuhMfc07isXL3KamjjD8qNTODyWUO0HAdAA+o/M1A=",
+            "sha256": "sha256-vXMANW5ZNCZZCVztor0TRMcNRi8Nlxo6C+ijUvpnmO0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.16.1/revanced-patches-2.16.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.jar"
         },
-        "version": "2.16.1"
+        "version": "2.17.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2184,11 +2184,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "06b1b9426572b34d316d89f5906c574649fd411f",
-            "sha256": "sha256-UNhDQBt2oeuH0OjlPUXqHMfxJoaySdRDMgag2oqIcSA=",
+            "rev": "a2804841ed52f812b1d666cb3df01239ee906f5f",
+            "sha256": "sha256-Z/6jQolyU0z7GvFXXt3SEK8ZV3OB7L9DoM6mXQi+3rI=",
             "type": "github"
         },
-        "version": "06b1b9426572b34d316d89f5906c574649fd411f"
+        "version": "a2804841ed52f812b1d666cb3df01239ee906f5f"
     },
     "wgcf": {
         "cargoLocks": null,

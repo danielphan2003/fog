@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "71eb74d256cb4dc5b8b43991aec74980547c5069";
+    version = "fbd765f1677f0d65af3393a6d8982d7693fbf492";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "71eb74d256cb4dc5b8b43991aec74980547c5069";
+      rev = "fbd765f1677f0d65af3393a6d8982d7693fbf492";
       fetchSubmodules = false;
-      sha256 = "sha256-8KopPq7eHmHLQkMQwzJujOYVUFrXDRcJzmPVxlyLygQ=";
+      sha256 = "sha256-fcBPDN4lfsRm7mtEpxOLvgzPlUhzAutsJj04gv0eBtA=";
     });
   };
   revanced-cli = {
@@ -932,18 +932,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.16.1";
+    version = "2.17.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.16.1/revanced-patches-2.16.1.dex";
-      sha256 = "sha256-s31LNu2UwKWpjp2WHBcSSF+cnFfMKfH5hQ1e8BsaV90=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.dex";
+      sha256 = "sha256-2Pc3NLbCxdAsGxqzxKE+i8pnVwIVfwrJqN2kgbc6Y34=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.16.1";
+    version = "2.17.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.16.1/revanced-patches-2.16.1.jar";
-      sha256 = "sha256-jFnuhMfc07isXL3KamjjD8qNTODyWUO0HAdAA+o/M1A=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.17.0/revanced-patches-2.17.0.jar";
+      sha256 = "sha256-vXMANW5ZNCZZCVztor0TRMcNRi8Nlxo6C+ijUvpnmO0=";
     };
   };
   rofi-wayland = {
@@ -1312,13 +1312,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "06b1b9426572b34d316d89f5906c574649fd411f";
+    version = "a2804841ed52f812b1d666cb3df01239ee906f5f";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "06b1b9426572b34d316d89f5906c574649fd411f";
+      rev = "a2804841ed52f812b1d666cb3df01239ee906f5f";
       fetchSubmodules = false;
-      sha256 = "sha256-UNhDQBt2oeuH0OjlPUXqHMfxJoaySdRDMgag2oqIcSA=";
+      sha256 = "sha256-Z/6jQolyU0z7GvFXXt3SEK8ZV3OB7L9DoM6mXQi+3rI=";
     });
   };
   wgcf = {
