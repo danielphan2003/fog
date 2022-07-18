@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1204";
+    version = "31.0.1207";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1204/file/Prisma.prisma-insider-31.0.1204.vsix";
-      sha256 = "sha256-HPEfc/6JPfBUX/BU8J2vLAg4DjzVwITOPydG2WwVaao=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1207/file/Prisma.prisma-insider-31.0.1207.vsix";
+      sha256 = "sha256-3pem13fibyOqUFWzEatSNM7EdfphUPYQ/RrUo88WLTc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -4191,10 +4191,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.11.3";
+    version = "4.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.3/file/42Crunch.vscode-openapi-4.11.3.vsix";
-      sha256 = "sha256-zjnl9IS3kKnsfKaRIEqEtzlavJVpfNHWfH+yAw8rAX4=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.4/file/42Crunch.vscode-openapi-4.11.4.vsix";
+      sha256 = "sha256-9rAKLbiC9FkuQkkRDe+tVWGB/SPuwTBttigei3roC6U=";
     };
     license = "AGPL-3.0-only";
     name = "vscode-openapi";
@@ -17187,10 +17187,10 @@
   };
   redhat-vscode-extension-serverless-workflow-editor = {
     pname = "redhat-vscode-extension-serverless-workflow-editor";
-    version = "0.21.0";
+    version = "0.21.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.21.0/file/redhat.vscode-extension-serverless-workflow-editor-0.21.0.vsix";
-      sha256 = "sha256-CljVfTgIY3D6PGr3/NfKqIs/FYQE1U64UJRUaOsET7g=";
+      url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.21.1/file/redhat.vscode-extension-serverless-workflow-editor-0.21.1.vsix";
+      sha256 = "sha256-raK/1CSqIYU44bqzhMT0twjLItizv1JXLlDkppnf7mE=";
     };
     license = "Apache-2.0";
     name = "vscode-extension-serverless-workflow-editor";
