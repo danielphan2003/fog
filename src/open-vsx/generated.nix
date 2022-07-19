@@ -7491,10 +7491,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.2";
+    version = "0.13.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.2/file/d-biehl.robotcode-0.13.2.vsix";
-      sha256 = "sha256-cWB8x7PtgcmcSXIYevtwnnU9kWtwoUjdP22iuyrgpZ8=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.3/file/d-biehl.robotcode-0.13.3.vsix";
+      sha256 = "sha256-UwmMC/URPzCYtTCfyckHRpcXpRwuuoatD7iINabis7s=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -11103,10 +11103,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.10";
+    version = "0.3.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.10/file/iterative.dvc-0.3.10.vsix";
-      sha256 = "sha256-AOEHGAE/PeIcXJIoCyFhOk6P288YzLveRpN+k5daXbo=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.11/file/iterative.dvc-0.3.11.vsix";
+      sha256 = "sha256-GtkiPtpwfTNK9YZjPVbb7NLGxtthO1r7r0JSjdjUirE=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -11235,10 +11235,10 @@
   };
   jarusll-class-browser = {
     pname = "jarusll-class-browser";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.3/file/jarusll.class-browser-0.0.3.vsix";
-      sha256 = "sha256-93F3Aw+oqvdmT8MJs8RqPsJqUO529D+WIXHV1geuHQA=";
+      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.4/file/jarusll.class-browser-0.0.4.vsix";
+      sha256 = "sha256-Ox8Q7dCJFJ4LwJP2not+dhPgOPCiIarywTFILUt8BOY=";
     };
     license = "MIT";
     name = "class-browser";
@@ -14979,10 +14979,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.50.0";
+    version = "0.60.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.50.0/file/mutable-ai.mutable-ai-0.50.0.vsix";
-      sha256 = "sha256-5Mbd0lx66yio0atYMSiWYpTsa/1iIaTlrl66WGHGhQc=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.60.0/file/mutable-ai.mutable-ai-0.60.0.vsix";
+      sha256 = "sha256-+8/K2zbpTZBM/pCe76nTEweNXXKAqx8QrSNfpMvn4kI=";
     };
     license = "";
     name = "mutable-ai";
@@ -16395,10 +16395,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.401";
+    version = "0.26.402";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.401/file/pokey.cursorless-0.26.401.vsix";
-      sha256 = "sha256-mncnqTDXlyvx6mMhZf8q4mNfQ79MgVhVI3Bb1va1DXc=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.402/file/pokey.cursorless-0.26.402.vsix";
+      sha256 = "sha256-2qytCqL5+frUXpN5F1nsAWePpmO2KOCPRI0fhfqCdvg=";
     };
     license = "MIT";
     name = "cursorless";
