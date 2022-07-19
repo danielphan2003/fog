@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "48d5eb451f816eb79f028066f02de3d49d57209d";
+    version = "57c8e8d893669cd83d8b279ea3ff6db50b16aa48";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "48d5eb451f816eb79f028066f02de3d49d57209d";
+      rev = "57c8e8d893669cd83d8b279ea3ff6db50b16aa48";
       fetchSubmodules = false;
-      sha256 = "sha256-szJO2HDNEuVnXl1Nvk006C9gWZTTRf5vzKqqWy0mx1c=";
+      sha256 = "sha256-V0taTVCSuVKy0f5gtJ7gRmhkvpZdhLRfoJyTJuk7FFI=";
     });
   };
   fluffychat = {
@@ -924,26 +924,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.27.2";
+    version = "0.27.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.2/app-release-unsigned.apk";
-      sha256 = "sha256-CDJrVAedtcAQhjLqqTti6+K+j2jNMGFVY7iQbzbe5fk=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.3/app-release-unsigned.apk";
+      sha256 = "sha256-+z5vDlMsu11pXUowZlfKbYspcHZLFEvbxqM/+ez9uGo=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.18.2";
+    version = "2.20.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.18.2/revanced-patches-2.18.2.dex";
-      sha256 = "sha256-o6SV9NQf4mbqOtk0gCBhgs8CYkP7e0aI7/u4xmZJ5MA=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.0/revanced-patches-2.20.0.dex";
+      sha256 = "sha256-exYADzN4rf/JMPghDSwRhoMRBhhYs+f6DfQ15sst85I=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.18.2";
+    version = "2.20.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.18.2/revanced-patches-2.18.2.jar";
-      sha256 = "sha256-ZsA6RTpvohendpqC+FHoex9+QR87gbFHfpPQ/3XNZv4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.0/revanced-patches-2.20.0.jar";
+      sha256 = "sha256-JSTNEBkLdhVYQOINujyBgdsIlbRGenXYXsDLaHwSSdo=";
     };
   };
   rofi-wayland = {
@@ -1198,13 +1198,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "4c0feba38ead02c621f475c0311df913b0605dd7";
+    version = "c1cb3efbba1f4bf854110e26df900b102357bd6a";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "4c0feba38ead02c621f475c0311df913b0605dd7";
+      rev = "c1cb3efbba1f4bf854110e26df900b102357bd6a";
       fetchSubmodules = false;
-      sha256 = "sha256-viiMTClIU6HC7Kn/WuusoJpV5OfM9udF/keNejPUUqM=";
+      sha256 = "sha256-kfM9bkkYqTH+ax1ZpcGLYm4ywc47Rw1xyp17Xi44KVs=";
     });
   };
   tailscale-systray = {
