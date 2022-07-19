@@ -9627,10 +9627,10 @@
   };
   ggbecker-content-navigator = {
     pname = "ggbecker-content-navigator";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ggbecker/content-navigator/1.0.1/file/ggbecker.content-navigator-1.0.1.vsix";
-      sha256 = "sha256-OwrCoGhbAr7Re0/RE0uX3zt31JU2YYUaJGNfxQ33W38=";
+      url = "https://open-vsx.org/api/ggbecker/content-navigator/1.0.2/file/ggbecker.content-navigator-1.0.2.vsix";
+      sha256 = "sha256-Ke2lE6m/h0I1/gzHGHU5GSp/OYLRpj2T8GKZeSmhzkg=";
     };
     license = "BSD-3-Clause";
     name = "content-navigator";
@@ -15003,10 +15003,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.60.0";
+    version = "0.61.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.60.0/file/mutable-ai.mutable-ai-0.60.0.vsix";
-      sha256 = "sha256-+8/K2zbpTZBM/pCe76nTEweNXXKAqx8QrSNfpMvn4kI=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.61.0/file/mutable-ai.mutable-ai-0.61.0.vsix";
+      sha256 = "sha256-WRBXXfBLQZMOgIMxa0d7cY3bDquiW5MmOF8y74gkWMs=";
     };
     license = "";
     name = "mutable-ai";
@@ -16419,10 +16419,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.402";
+    version = "0.26.403";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.402/file/pokey.cursorless-0.26.402.vsix";
-      sha256 = "sha256-2qytCqL5+frUXpN5F1nsAWePpmO2KOCPRI0fhfqCdvg=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.403/file/pokey.cursorless-0.26.403.vsix";
+      sha256 = "sha256-DnIi/1Lt/NZMG7pseFq8LJfFq3i9KFJqDY++O3/91a0=";
     };
     license = "MIT";
     name = "cursorless";
@@ -16683,10 +16683,10 @@
   };
   pwarchol-vscode-php-file-link = {
     pname = "pwarchol-vscode-php-file-link";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pwarchol/vscode-php-file-link/1.0.0/file/pwarchol.vscode-php-file-link-1.0.0.vsix";
-      sha256 = "sha256-IeI04PbJzdUtyu60OBNA5b6uaRv3R4zXl1pmipikUY0=";
+      url = "https://open-vsx.org/api/pwarchol/vscode-php-file-link/1.0.1/file/pwarchol.vscode-php-file-link-1.0.1.vsix";
+      sha256 = "sha256-nYXreNEsM/xA1BjTCR+Z2FlD8sK2Q7Z2nn5GOq/VLVo=";
     };
     license = "MIT";
     name = "vscode-php-file-link";
