@@ -4667,11 +4667,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FL1NQd0Tt5OeQv7tcnB8b+XfLuoRJDPZeH1aq/CMh5M=",
+            "sha256": "sha256-YpdxRoeIesx4R2RIpJ8YmmHEmR3lezdN1efhhg14MzI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma/4.0.0/file/Prisma.prisma-4.0.0.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma/4.1.0/file/Prisma.prisma-4.1.0.vsix"
         },
-        "version": "4.0.0"
+        "version": "4.1.0"
     },
     "Prisma-prisma-insider": {
         "cargoLocks": null,
@@ -4686,11 +4686,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NhtDGyC5Tjr6vJFyzbFySb2NOy0FLDZEgQ0ia7MSKuk=",
+            "sha256": "sha256-98s94/ZZ2bNygrgQRpi6iNR8wpxZEHEgZgl1dYX5n98=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1213/file/Prisma.prisma-insider-31.0.1213.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1215/file/Prisma.prisma-insider-31.0.1215.vsix"
         },
-        "version": "31.0.1213"
+        "version": "31.0.1215"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12400,11 +12400,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pJ3aZ5Yh/pIBWiHHs1V4JxdYxK+f17xRvPR+DXfHgVM=",
+            "sha256": "sha256-M8R2POdA+QHTAeAlY76xj9IXdnnz05pXmQzETMggDMM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.103.0/file/dendron.dendron-0.103.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.104.0/file/dendron.dendron-0.104.0.vsix"
         },
-        "version": "0.103.0"
+        "version": "0.104.0"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -16124,11 +16124,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yrOFAwDkVLk8Hy+iMl2h2Hh4sPGdj0rziZTSGarM6uM=",
+            "sha256": "sha256-qtJUbVnY+GfwJw5qVa+ZvajczmYBHVbanLBA3IP7h8g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.0.2/file/hc.wallace-corporation-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.1.5/file/hc.wallace-corporation-0.1.5.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.1.5"
     },
     "hcl-hcl-ztools": {
         "cargoLocks": null,
@@ -17288,6 +17288,25 @@
             "url": "https://open-vsx.org/api/illumincrotty/living-twilight/1.0.0/file/illumincrotty.living-twilight-1.0.0.vsix"
         },
         "version": "1.0.0"
+    },
+    "imagineee-moon-purple": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "imagineee-moon-purple",
+        "passthru": {
+            "description": "Just purple with a hint of rust",
+            "license": "MIT",
+            "name": "moon-purple",
+            "publisher": "imagineee"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-q3HAUQVwPxoAmBEXcAjmacEltGDyeFO/j1/dZTUmdS4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/imagineee/moon-purple/1.0.3/file/imagineee.moon-purple-1.0.3.vsix"
+        },
+        "version": "1.0.3"
     },
     "influrium-haxe-jsx": {
         "cargoLocks": null,
@@ -20328,6 +20347,25 @@
             "url": "https://open-vsx.org/api/lightyen/tailwindcss-intellisense-twin/0.11.7/file/lightyen.tailwindcss-intellisense-twin-0.11.7.vsix"
         },
         "version": "0.11.7"
+    },
+    "ligolang-publish-ligo-debugger-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ligolang-publish-ligo-debugger-vscode",
+        "passthru": {
+            "description": "VSCode debugger extension for LIGO.",
+            "license": "MIT",
+            "name": "ligo-debugger-vscode",
+            "publisher": "ligolang-publish"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-uM6yOn3hq8gTujbtnXDOIu0+Kyk697BSv9552hrI6hY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.1/file/ligolang-publish.ligo-debugger-vscode-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "ligolang-publish-ligo-vscode": {
         "cargoLocks": null,
@@ -27087,11 +27125,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QytYhzPG7AFbni2kLp60thqRRLw2/xsgsSpy1KWBitM=",
+            "sha256": "sha256-aPgPMeusTKH3lAky73m/eyu185F5T3vrc7Nxx32WosU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-apache-camel/0.3.0/file/redhat.vscode-apache-camel-0.3.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-apache-camel/0.4.0/file/redhat.vscode-apache-camel-0.4.0.vsix"
         },
-        "version": "0.3.0"
+        "version": "0.4.0"
     },
     "redhat-vscode-camelk": {
         "cargoLocks": null,

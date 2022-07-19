@@ -2943,10 +2943,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "4.0.0";
+    version = "4.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/4.0.0/file/Prisma.prisma-4.0.0.vsix";
-      sha256 = "sha256-FL1NQd0Tt5OeQv7tcnB8b+XfLuoRJDPZeH1aq/CMh5M=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.1.0/file/Prisma.prisma-4.1.0.vsix";
+      sha256 = "sha256-YpdxRoeIesx4R2RIpJ8YmmHEmR3lezdN1efhhg14MzI=";
     };
     license = "Apache-2.0";
     name = "prisma";
@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1213";
+    version = "31.0.1215";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1213/file/Prisma.prisma-insider-31.0.1213.vsix";
-      sha256 = "sha256-NhtDGyC5Tjr6vJFyzbFySb2NOy0FLDZEgQ0ia7MSKuk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1215/file/Prisma.prisma-insider-31.0.1215.vsix";
+      sha256 = "sha256-98s94/ZZ2bNygrgQRpi6iNR8wpxZEHEgZgl1dYX5n98=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7827,10 +7827,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.103.0";
+    version = "0.104.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.103.0/file/dendron.dendron-0.103.0.vsix";
-      sha256 = "sha256-pJ3aZ5Yh/pIBWiHHs1V4JxdYxK+f17xRvPR+DXfHgVM=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.104.0/file/dendron.dendron-0.104.0.vsix";
+      sha256 = "sha256-M8R2POdA+QHTAeAlY76xj9IXdnnz05pXmQzETMggDMM=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -10179,10 +10179,10 @@
   };
   hc-wallace-corporation = {
     pname = "hc-wallace-corporation";
-    version = "0.0.2";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hc/wallace-corporation/0.0.2/file/hc.wallace-corporation-0.0.2.vsix";
-      sha256 = "sha256-yrOFAwDkVLk8Hy+iMl2h2Hh4sPGdj0rziZTSGarM6uM=";
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.1.5/file/hc.wallace-corporation-0.1.5.vsix";
+      sha256 = "sha256-qtJUbVnY+GfwJw5qVa+ZvajczmYBHVbanLBA3IP7h8g=";
     };
     license = "MIT";
     name = "wallace-corporation";
@@ -10920,6 +10920,18 @@
     name = "living-twilight";
     description = "A theme for the wee hours of the morning and night";
     publisher = "illumincrotty";
+  };
+  imagineee-moon-purple = {
+    pname = "imagineee-moon-purple";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/imagineee/moon-purple/1.0.3/file/imagineee.moon-purple-1.0.3.vsix";
+      sha256 = "sha256-q3HAUQVwPxoAmBEXcAjmacEltGDyeFO/j1/dZTUmdS4=";
+    };
+    license = "MIT";
+    name = "moon-purple";
+    description = "Just purple with a hint of rust";
+    publisher = "imagineee";
   };
   influrium-haxe-jsx = {
     pname = "influrium-haxe-jsx";
@@ -12840,6 +12852,18 @@
     name = "tailwindcss-intellisense-twin";
     description = "";
     publisher = "lightyen";
+  };
+  ligolang-publish-ligo-debugger-vscode = {
+    pname = "ligolang-publish-ligo-debugger-vscode";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.1/file/ligolang-publish.ligo-debugger-vscode-0.0.1.vsix";
+      sha256 = "sha256-uM6yOn3hq8gTujbtnXDOIu0+Kyk697BSv9552hrI6hY=";
+    };
+    license = "MIT";
+    name = "ligo-debugger-vscode";
+    description = "VSCode debugger extension for LIGO.";
+    publisher = "ligolang-publish";
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
@@ -17103,10 +17127,10 @@
   };
   redhat-vscode-apache-camel = {
     pname = "redhat-vscode-apache-camel";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.3.0/file/redhat.vscode-apache-camel-0.3.0.vsix";
-      sha256 = "sha256-QytYhzPG7AFbni2kLp60thqRRLw2/xsgsSpy1KWBitM=";
+      url = "https://open-vsx.org/api/redhat/vscode-apache-camel/0.4.0/file/redhat.vscode-apache-camel-0.4.0.vsix";
+      sha256 = "sha256-aPgPMeusTKH3lAky73m/eyu185F5T3vrc7Nxx32WosU=";
     };
     license = "Apache-2.0";
     name = "vscode-apache-camel";
