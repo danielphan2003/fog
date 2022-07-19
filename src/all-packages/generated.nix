@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f35d513bf55d5232936f017aa2697a6b4d64f6e6";
+    version = "ec2afb563ed804057af38f686c7686c305ffa1d4";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "f35d513bf55d5232936f017aa2697a6b4d64f6e6";
+      rev = "ec2afb563ed804057af38f686c7686c305ffa1d4";
       fetchSubmodules = false;
-      sha256 = "sha256-u0ndym55txmD6c1LSgWJea3Epmla+BkR9Sgymiri0GI=";
+      sha256 = "sha256-J9oIUWwQ0UUE0Ja4VmP6e9+8SZ+ZnfchrpNhbGYRXlc=";
     });
   };
   ibus = {
@@ -1236,13 +1236,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "d096bbb36c61213c7cf8966215e63f356eb5c4b2";
+    version = "c5302368b0873b49e2b4ae635bd713acdfd60d5a";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "d096bbb36c61213c7cf8966215e63f356eb5c4b2";
+      rev = "c5302368b0873b49e2b4ae635bd713acdfd60d5a";
       fetchSubmodules = false;
-      sha256 = "sha256-XkOP03OuO0LvVtNjak0lPZrbfYafZEt3CIGgslvIotM=";
+      sha256 = "sha256-DBiGi5CpPlKRz0w8jwUweC5hASqrDH5N1Ja5fuwEOyE=";
     });
   };
   ultimmc = {
@@ -1466,10 +1466,10 @@
   };
   zoom-us = {
     pname = "zoom-us";
-    version = "5.11.1.3595";
+    version = "5.11.3.3882";
     src = fetchurl {
-      url = "https://cdn.zoom.us/prod/5.11.1.3595/zoom_x86_64.pkg.tar.xz";
-      sha256 = "sha256-TKfz8QM4QDKIdNZlxKnXxG0dcdxCn6HLAuvnTehUJcc=";
+      url = "https://cdn.zoom.us/prod/5.11.3.3882/zoom_x86_64.pkg.tar.xz";
+      sha256 = "sha256-AKW3jQaew3VrMkyfMSEjR86BT6kE3Qe/2Giy7EChoCc=";
     };
   };
 }
