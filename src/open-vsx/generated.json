@@ -5332,11 +5332,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QjgjyUfFK08dA9d/1HXvodgZtFokmNTygn8j8PZJuaU=",
+            "sha256": "sha256-JsukGwiDzZwixqVF2oGhX9OMXmb9HqLUhWaaSDmT5zc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1609/file/Slint.slint-nightly-2022.7.1609.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1816/file/Slint.slint-nightly-2022.7.1816.vsix"
         },
-        "version": "2022.7.1609"
+        "version": "2022.7.1816"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -23249,11 +23249,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EykPHrkP9pEBibvPpNGmPe2iK2RETDYSH7LranO3Sxo=",
+            "sha256": "sha256-NDe/fH5m7Vjb5YRhqzwA6w0RH9pbWp3otNruWzWnMW8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220717/file/ms-vscode.vscode-typescript-next-4.8.20220717.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220718/file/ms-vscode.vscode-typescript-next-4.8.20220718.vsix"
         },
-        "version": "4.8.20220717"
+        "version": "4.8.20220718"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,

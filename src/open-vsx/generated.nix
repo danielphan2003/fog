@@ -3363,10 +3363,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.1609";
+    version = "2022.7.1816";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1609/file/Slint.slint-nightly-2022.7.1609.vsix";
-      sha256 = "sha256-QjgjyUfFK08dA9d/1HXvodgZtFokmNTygn8j8PZJuaU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.1816/file/Slint.slint-nightly-2022.7.1816.vsix";
+      sha256 = "sha256-JsukGwiDzZwixqVF2oGhX9OMXmb9HqLUhWaaSDmT5zc=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -14679,10 +14679,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220717";
+    version = "4.8.20220718";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220717/file/ms-vscode.vscode-typescript-next-4.8.20220717.vsix";
-      sha256 = "sha256-EykPHrkP9pEBibvPpNGmPe2iK2RETDYSH7LranO3Sxo=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220718/file/ms-vscode.vscode-typescript-next-4.8.20220718.vsix";
+      sha256 = "sha256-NDe/fH5m7Vjb5YRhqzwA6w0RH9pbWp3otNruWzWnMW8=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
