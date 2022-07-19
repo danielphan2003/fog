@@ -1995,10 +1995,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.1.9";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.1.9/file/Leathong.openscad-language-support-1.1.9.vsix";
-      sha256 = "sha256-xHhd4MR5X9aEW81E42kRsIQ2CXf8AbFVrbk+Sb7DMFY=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.2.0/file/Leathong.openscad-language-support-1.2.0.vsix";
+      sha256 = "sha256-gBclo2Z4pNGE5UcLCoG5c+7uXY4Tz2dRhBG0tsTKvt8=";
     };
     license = "GPL-3.0";
     name = "openscad-language-support";
@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1211";
+    version = "31.0.1212";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1211/file/Prisma.prisma-insider-31.0.1211.vsix";
-      sha256 = "sha256-W84Uj7llR6VSfTlxqG9I2SIo0PnC0jfACwkFQ87k1Pw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1212/file/Prisma.prisma-insider-31.0.1212.vsix";
+      sha256 = "sha256-Nw4Swe2UcQm3Uyb2WgV/WFfsaaL9nZSmS0hP4244g40=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7911,10 +7911,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.103.4";
+    version = "0.103.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.103.4/file/dendron.nightly-0.103.4.vsix";
-      sha256 = "sha256-ClblD4B1sqGtDTltl9dcaV5D3xtxCg43fgFOZ1TNPrE=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.103.5/file/dendron.nightly-0.103.5.vsix";
+      sha256 = "sha256-stohdRjpWy2Jczbprm1l6sa7XES3YJCcnBgrWgw5ibs=";
     };
     license = "AGPL-3.0";
     name = "nightly";
