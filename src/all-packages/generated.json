@@ -1514,11 +1514,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "a23231525d2591ffe82d5df00b62657de1e31372",
-            "sha256": "sha256-eXmTqNgiYlfkQ7zmWqSmx3k9WGeThaL4i1cNY4OW+EE=",
+            "rev": "f994c0b37172f1f2bd969bf24098b012ca7d14d5",
+            "sha256": "sha256-85FSpPhOKGxHyV1vdoRnwV8IKuO9wiEecF62KxacK1M=",
             "type": "github"
         },
-        "version": "a23231525d2591ffe82d5df00b62657de1e31372"
+        "version": "f994c0b37172f1f2bd969bf24098b012ca7d14d5"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1778,11 +1778,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "b4f5f2002859c8d8eefe16dd9f46ccb394500a83",
-            "sha256": "sha256-zazbSWc55tR6ZJTnV9YiBBXc7MyAL8UrxLnxKQmoC3o=",
+            "rev": "f95c739337bd09172c6d854579b450a37c4a7fcb",
+            "sha256": "sha256-3wfj1d53WO0dQJlTWA+pfdE6jj0UUpTBzExRIRtc7Zo=",
             "type": "github"
         },
-        "version": "b4f5f2002859c8d8eefe16dd9f46ccb394500a83"
+        "version": "f95c739337bd09172c6d854579b450a37c4a7fcb"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -1991,11 +1991,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "393a229de98969d435ea3d403ebb992d3c9f8324",
-            "sha256": "sha256-+0pluFJRdxZsODk7uItFkZBcbwnGxYN1jOAB4IPrz4c=",
+            "rev": "2a22ea3e831a699e89fe9aa379ac0f3fcb177be9",
+            "sha256": "sha256-FusgmSl+us0JVlL98AyaRXbwB0HkFsxb16nxoVOs4vM=",
             "type": "github"
         },
-        "version": "393a229de98969d435ea3d403ebb992d3c9f8324"
+        "version": "2a22ea3e831a699e89fe9aa379ac0f3fcb177be9"
     },
     "tailscale-systray": {
         "cargoLocks": null,
