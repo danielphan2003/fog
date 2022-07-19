@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "a589cb87eff078e4e09475c2236d6573fb35411c",
-            "sha256": "sha256-ChzjAWtIGLHCzqo/IhVxIC5gyU0kOkbSZdh+oyI2Un8=",
+            "rev": "dafcf9b904e9e1a85d2d3bfda214337ed9668d3b",
+            "sha256": "sha256-K6U7Dtjuq9f5eB3LNUGEzovTMG3qkddw5A2h1C9r0sA=",
             "type": "github"
         },
-        "version": "a589cb87eff078e4e09475c2236d6573fb35411c"
+        "version": "dafcf9b904e9e1a85d2d3bfda214337ed9668d3b"
     },
     "caddy": {
         "cargoLocks": null,
@@ -892,11 +892,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EuJTXG3CpOa5bd8PgpZzVvsY+nj8FigsNpAClrR6a+E=",
+            "sha256": "sha256-XLqRxDyOAhV6qoIk5NAHPfXQdZ/so314Rm2CByxyRkY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-14-g7f69290a-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-15-g8161bd29-1_all.deb"
         },
-        "version": "2.2-14-g7f69290a"
+        "version": "2.2-15-g8161bd29"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1991,11 +1991,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "c1cb3efbba1f4bf854110e26df900b102357bd6a",
-            "sha256": "sha256-kfM9bkkYqTH+ax1ZpcGLYm4ywc47Rw1xyp17Xi44KVs=",
+            "rev": "2491fe1afeee55b26063c30ccdd40d84794be3dc",
+            "sha256": "sha256-OF/ZyXABDLM/fcUqELLj5ij6kYNK5qBujKULv/7pn4w=",
             "type": "github"
         },
-        "version": "c1cb3efbba1f4bf854110e26df900b102357bd6a"
+        "version": "2491fe1afeee55b26063c30ccdd40d84794be3dc"
     },
     "tailscale-systray": {
         "cargoLocks": null,
