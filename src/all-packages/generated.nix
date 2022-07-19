@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "29774f5b7a93a590d853c129b1481357096bc31b";
+    version = "a23231525d2591ffe82d5df00b62657de1e31372";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "29774f5b7a93a590d853c129b1481357096bc31b";
+      rev = "a23231525d2591ffe82d5df00b62657de1e31372";
       fetchSubmodules = false;
-      sha256 = "sha256-bQ6E0TQ5fvNhw/9CsqxYgf6W1peJVPOWoDcLTzryYOA=";
+      sha256 = "sha256-eXmTqNgiYlfkQ7zmWqSmx3k9WGeThaL4i1cNY4OW+EE=";
     });
   };
   revanced-cli = {
@@ -1313,13 +1313,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "a2804841ed52f812b1d666cb3df01239ee906f5f";
+    version = "28453601379e7561c0a798b2e3d178a53d3fc346";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "a2804841ed52f812b1d666cb3df01239ee906f5f";
+      rev = "28453601379e7561c0a798b2e3d178a53d3fc346";
       fetchSubmodules = false;
-      sha256 = "sha256-Z/6jQolyU0z7GvFXXt3SEK8ZV3OB7L9DoM6mXQi+3rI=";
+      sha256 = "sha256-UNhDQBt2oeuH0OjlPUXqHMfxJoaySdRDMgag2oqIcSA=";
     });
   };
   wgcf = {
@@ -1398,14 +1398,14 @@
   };
   xorg-libxcvt = {
     pname = "xorg-libxcvt";
-    version = "db5ff12110994dc9010d44f981399e796917a845";
+    version = "d9ca87eea9eecddaccc3a77227bcb3acf84e89df";
     src = fetchgit {
       url = "https://gitlab.freedesktop.org/xorg/lib/libxcvt";
-      rev = "db5ff12110994dc9010d44f981399e796917a845";
+      rev = "d9ca87eea9eecddaccc3a77227bcb3acf84e89df";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-fLR1xisiJhLGUaSXJci19Ut6Ro6k0OnnIC/5VZjlsB8=";
+      sha256 = "sha256-r72BE+WCZngaMutOxidnJyQ1IpXPFH5NXBs/7l5agD4=";
     };
   };
   xorgproto = {
