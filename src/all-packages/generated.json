@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "e842ba54a68561ff9a4aee95c54f15d706d67e49",
-            "sha256": "sha256-w9OI7kL+KV39XvHoy7IJJdHGJd47ViFwN3vPkaWrdgg=",
+            "rev": "a589cb87eff078e4e09475c2236d6573fb35411c",
+            "sha256": "sha256-ChzjAWtIGLHCzqo/IhVxIC5gyU0kOkbSZdh+oyI2Un8=",
             "type": "github"
         },
-        "version": "e842ba54a68561ff9a4aee95c54f15d706d67e49"
+        "version": "a589cb87eff078e4e09475c2236d6573fb35411c"
     },
     "caddy": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "ec2afb563ed804057af38f686c7686c305ffa1d4",
-            "sha256": "sha256-J9oIUWwQ0UUE0Ja4VmP6e9+8SZ+ZnfchrpNhbGYRXlc=",
+            "rev": "ce8d655fadae18cbb8d58679edd7601f76177811",
+            "sha256": "sha256-3vX0JTDyfj/PsyRiShhwpHVLgbizko/XPvIkmgSYXy8=",
             "type": "github"
         },
-        "version": "ec2afb563ed804057af38f686c7686c305ffa1d4"
+        "version": "ce8d655fadae18cbb8d58679edd7601f76177811"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1778,11 +1778,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "7ddc64b2bf4718c455954d237bb712b99d385f12",
-            "sha256": "sha256-Cp5TgRt0i6bFMpfBheNxj23x2jQSerOcgUbfH3T8u68=",
+            "rev": "b4f5f2002859c8d8eefe16dd9f46ccb394500a83",
+            "sha256": "sha256-zazbSWc55tR6ZJTnV9YiBBXc7MyAL8UrxLnxKQmoC3o=",
             "type": "github"
         },
-        "version": "7ddc64b2bf4718c455954d237bb712b99d385f12"
+        "version": "b4f5f2002859c8d8eefe16dd9f46ccb394500a83"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -2294,11 +2294,11 @@
             "name": null,
             "owner": "flatpak",
             "repo": "xdg-desktop-portal",
-            "rev": "0b6909f3f522cc0805551a07fdb8c6a4fbf0b6a2",
-            "sha256": "sha256-7GEao9oglLk560YVODQSSe/he09P9iAOGjGzyW844PE=",
+            "rev": "750b9e5d6d7cdf451bb4f9f4fc97682fafa1a364",
+            "sha256": "sha256-Qz99CfwuyXex+dCwLIBlbQRJcrsxiMrzN4gqXlZU5vM=",
             "type": "github"
         },
-        "version": "0b6909f3f522cc0805551a07fdb8c6a4fbf0b6a2"
+        "version": "750b9e5d6d7cdf451bb4f9f4fc97682fafa1a364"
     },
     "xdg-desktop-portal-gtk": {
         "cargoLocks": null,
