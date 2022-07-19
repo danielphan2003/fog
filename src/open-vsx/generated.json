@@ -3812,11 +3812,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j6nEnkXdz2NUWQfFIXW7v3anor87g7kYQJu4W/zr5x0=",
+            "sha256": "sha256-x9itNlfQ+JHS29CdYsZZhhvocc4VZOrk2G+Nl4ESyZY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.29/file/Marko-JS.marko-vscode-0.17.29.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.30/file/Marko-JS.marko-vscode-0.17.30.vsix"
         },
-        "version": "0.17.29"
+        "version": "0.17.30"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -4686,11 +4686,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-98s94/ZZ2bNygrgQRpi6iNR8wpxZEHEgZgl1dYX5n98=",
+            "sha256": "sha256-4JN8JUDSRQ00Y3ptTX4L6WhOOAD4K8LBkRwW2KGmDng=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1215/file/Prisma.prisma-insider-31.0.1215.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1217/file/Prisma.prisma-insider-31.0.1217.vsix"
         },
-        "version": "31.0.1215"
+        "version": "31.0.1217"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -15915,11 +15915,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uDha2H9EYiDTRphzAzhC2Udq3mrU85GHJ7RAmasVolM=",
+            "sha256": "sha256-HnInsvubn1bozCmCAJkHDO3JkF4grt9Dfa91cFvDbx4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.3/file/halcyontechltd.vscode-rpgle-0.7.3.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.4/file/halcyontechltd.vscode-rpgle-0.7.4.vsix"
         },
-        "version": "0.7.3"
+        "version": "0.7.4"
     },
     "hall-draw": {
         "cargoLocks": null,
