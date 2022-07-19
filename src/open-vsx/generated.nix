@@ -3243,10 +3243,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.11";
+    version = "4.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.11/file/Sarrus.sourcepawn-vscode-4.0.11.vsix";
-      sha256 = "sha256-A/jLDIVj2QFqNL3ARY3qfqe10xKPqOyQWndSfxv1Bvw=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.12/file/Sarrus.sourcepawn-vscode-4.0.12.vsix";
+      sha256 = "sha256-4vKwHm78vV0Nf4+K/e3sEFxMfjzFDOyCOgUnRuXbHzY=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -11235,10 +11235,10 @@
   };
   jarusll-class-browser = {
     pname = "jarusll-class-browser";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.4/file/jarusll.class-browser-0.0.4.vsix";
-      sha256 = "sha256-Ox8Q7dCJFJ4LwJP2not+dhPgOPCiIarywTFILUt8BOY=";
+      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.5/file/jarusll.class-browser-0.0.5.vsix";
+      sha256 = "sha256-1oVBrVvkhYUehHHCJkMlJPeqzpUSugbaFSz8tfE4xOE=";
     };
     license = "MIT";
     name = "class-browser";
@@ -19443,10 +19443,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.18.1";
+    version = "105.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.18.1/file/svelte.svelte-vscode-105.18.1.vsix";
-      sha256 = "sha256-BAmz1z8aWIoIkdadKvqGUniIaMh2Ceey0jnSgAVDOp8=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.19.0/file/svelte.svelte-vscode-105.19.0.vsix";
+      sha256 = "sha256-p7S3bTp0OwRKGlpnsCAABxJLkD28XNYSZA4r95LRmIo=";
     };
     license = "MIT";
     name = "svelte-vscode";
