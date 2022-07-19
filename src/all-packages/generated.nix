@@ -640,10 +640,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "105.0.1300.1";
+    version = "105.0.1321.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1300.1-1_amd64.deb";
-      sha256 = "sha256-WZ9GvME9LN6H3/RUvDlPFiS2cPrdo2ghF7y4D07sd0o=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1321.0-1_amd64.deb";
+      sha256 = "sha256-NHSTUWYZiNvDzMLp8lbh/66hdBWXFwgyqsQyzEqtt8M=";
     };
   };
   minecraft-wayland = {
@@ -905,13 +905,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f994c0b37172f1f2bd969bf24098b012ca7d14d5";
+    version = "7ff58265bf27259e53f8000afa399956d5a5a08a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f994c0b37172f1f2bd969bf24098b012ca7d14d5";
+      rev = "7ff58265bf27259e53f8000afa399956d5a5a08a";
       fetchSubmodules = false;
-      sha256 = "sha256-85FSpPhOKGxHyV1vdoRnwV8IKuO9wiEecF62KxacK1M=";
+      sha256 = "sha256-b3XYl+QY0iRw87GgN74yxlIC7P7kzMX5ej+9y1mz5tQ=";
     });
   };
   revanced-cli = {
@@ -1236,13 +1236,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "c5302368b0873b49e2b4ae635bd713acdfd60d5a";
+    version = "8fd327c0ba8bf33d45ee75607900806728ddd209";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "c5302368b0873b49e2b4ae635bd713acdfd60d5a";
+      rev = "8fd327c0ba8bf33d45ee75607900806728ddd209";
       fetchSubmodules = false;
-      sha256 = "sha256-DBiGi5CpPlKRz0w8jwUweC5hASqrDH5N1Ja5fuwEOyE=";
+      sha256 = "sha256-1sf8QUoZnAm0MTpaNe6/z/gqKdGFuMNapnR1QPQ5Kvc=";
     });
   };
   ultimmc = {
