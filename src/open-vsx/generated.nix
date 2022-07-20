@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1217";
+    version = "31.0.1218";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1217/file/Prisma.prisma-insider-31.0.1217.vsix";
-      sha256 = "sha256-4JN8JUDSRQ00Y3ptTX4L6WhOOAD4K8LBkRwW2KGmDng=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1218/file/Prisma.prisma-insider-31.0.1218.vsix";
+      sha256 = "sha256-IvAiS/RgI9bB9Pqa8Hfs59DSM2vt/3tMKFbfLjvbysc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5631,10 +5631,10 @@
   };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
-    version = "0.0.87";
+    version = "0.0.88";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.87/file/asvetliakov.vscode-neovim-0.0.87.vsix";
-      sha256 = "sha256-5V2x/RtIcQligGs09o6mgEAS4GW9L/aGI1EsxmrmXbk=";
+      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.88/file/asvetliakov.vscode-neovim-0.0.88.vsix";
+      sha256 = "sha256-3xyzCMG2iYQj6snHQUBwzayCB/mtb+KjJceiMF70T28=";
     };
     license = "MIT";
     name = "vscode-neovim";
@@ -6699,10 +6699,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.4.0";
+    version = "1.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.0/file/chenglou92.rescript-vscode-1.4.0.vsix";
-      sha256 = "sha256-jDhm3hUAuI65n2alsvbKsLSxSIrW+P8JDx4j6ljTx+E=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.1/file/chenglou92.rescript-vscode-1.4.1.vsix";
+      sha256 = "sha256-iDGzlPjLU9NIvEeawZdKgwsSyvcfGlHz2tUPwqBJTWc=";
     };
     license = "MIT";
     name = "rescript-vscode";
@@ -12759,10 +12759,10 @@
   };
   lextudio-restructuredtext = {
     pname = "lextudio-restructuredtext";
-    version = "189.0.0";
+    version = "190.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lextudio/restructuredtext/189.0.0/file/lextudio.restructuredtext-189.0.0.vsix";
-      sha256 = "sha256-emX2NmcHo+RVJ+IfLLyKzHcLTrplbZ+OleSolCxfWZk=";
+      url = "https://open-vsx.org/api/lextudio/restructuredtext/190.1.4/file/lextudio.restructuredtext-190.1.4.vsix";
+      sha256 = "sha256-uBZjqFJNhHbUtu24GRfar0JssAA4HRW5CzvZVyJa+HI=";
     };
     license = "MIT";
     name = "restructuredtext";
@@ -13187,6 +13187,18 @@
     license = "MIT";
     name = "helloworld-2022";
     description = "Because helloworld was taken??";
+    publisher = "mark-wiemer";
+  };
+  mark-wiemer-vscode-autohotkey-plus-plus = {
+    pname = "mark-wiemer-vscode-autohotkey-plus-plus";
+    version = "2.8.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mark-wiemer/vscode-autohotkey-plus-plus/2.8.5/file/mark-wiemer.vscode-autohotkey-plus-plus-2.8.5.vsix";
+      sha256 = "sha256-VrcdAZ9tEH2dACUYDcqhzN+RGe7Uca9NRN5Hg2850no=";
+    };
+    license = "MIT";
+    name = "vscode-autohotkey-plus-plus";
+    description = "AutoHotkey IntelliSense, debug, and language support for VS Code, forked from AutoHotkey Plus by cweijan";
     publisher = "mark-wiemer";
   };
   markwylde-relative-from-current = {
@@ -14703,10 +14715,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220718";
+    version = "4.8.20220719";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220718/file/ms-vscode.vscode-typescript-next-4.8.20220718.vsix";
-      sha256 = "sha256-NDe/fH5m7Vjb5YRhqzwA6w0RH9pbWp3otNruWzWnMW8=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220719/file/ms-vscode.vscode-typescript-next-4.8.20220719.vsix";
+      sha256 = "sha256-m5XSWnRZ1r0eQIinIgwDDQW+F1Tx8BcyvuARYvwFJrQ=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -16131,10 +16143,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "1.4.0";
+    version = "1.4.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/1.4.0/file/phoenisx.cssvar-1.4.0.vsix";
-      sha256 = "sha256-aTIMgSWAa7YXBICjm6apBXqI1ERoy1jYx1rzugT77o0=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/1.4.4/file/phoenisx.cssvar-1.4.4.vsix";
+      sha256 = "sha256-Squ2JxxvUvG8m/RvMz2KP9K36VU2sBFMneZw205ZL8c=";
     };
     license = "MIT";
     name = "cssvar";
@@ -18255,10 +18267,10 @@
   };
   shalldie-background = {
     pname = "shalldie-background";
-    version = "1.1.31";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shalldie/background/1.1.31/file/shalldie.background-1.1.31.vsix";
-      sha256 = "sha256-XIY+eB7dqhfBVYbJt8GcFwbvF1z9F+L35+SPEsLtc5E=";
+      url = "https://open-vsx.org/api/shalldie/background/1.2.0/file/shalldie.background-1.2.0.vsix";
+      sha256 = "sha256-fzKq6bgLfLJEzbm9sJu9BMR2aDnGQiSwEzHWSXU0TBg=";
     };
     license = "MIT";
     name = "background";
@@ -18999,10 +19011,10 @@
   };
   steffo-steffula-code = {
     pname = "steffo-steffula-code";
-    version = "0.7.1";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steffo/steffula-code/0.7.1/file/steffo.steffula-code-0.7.1.vsix";
-      sha256 = "sha256-TEU52tSynfgd2+zoFGhnysaFUvDwaLocOBlzR7zJUCA=";
+      url = "https://open-vsx.org/api/steffo/steffula-code/0.8.0/file/steffo.steffula-code-0.8.0.vsix";
+      sha256 = "sha256-izAuNycCK9MBsvcR+qiTT9wYtukxMtLvOZZEbgWTNFk=";
     };
     license = "AGPL-3.0-or-later";
     name = "steffula-code";
@@ -20079,10 +20091,10 @@
   };
   tombonnike-vscode-status-bar-format-toggle = {
     pname = "tombonnike-vscode-status-bar-format-toggle";
-    version = "3.1.0";
+    version = "3.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.1.0/file/tombonnike.vscode-status-bar-format-toggle-3.1.0.vsix";
-      sha256 = "sha256-qPmALZHubhutwCWy6BnJNGG0wwuNDbbkMBzxEqT/+3Y=";
+      url = "https://open-vsx.org/api/tombonnike/vscode-status-bar-format-toggle/3.1.1/file/tombonnike.vscode-status-bar-format-toggle-3.1.1.vsix";
+      sha256 = "sha256-XQzJjOvZT38iS6hUGFmH0/FQ6w5yyA3BA7TJIWwQnFk=";
     };
     license = "MIT";
     name = "vscode-status-bar-format-toggle";
