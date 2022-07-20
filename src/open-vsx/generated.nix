@@ -15003,10 +15003,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.61.0";
+    version = "0.70.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.61.0/file/mutable-ai.mutable-ai-0.61.0.vsix";
-      sha256 = "sha256-WRBXXfBLQZMOgIMxa0d7cY3bDquiW5MmOF8y74gkWMs=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.70.0/file/mutable-ai.mutable-ai-0.70.0.vsix";
+      sha256 = "sha256-dRzesE3yqI8GoGuqFGcIMlPAN+pML3sL5vicBweix4w=";
     };
     license = "";
     name = "mutable-ai";
@@ -18363,10 +18363,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.54";
+    version = "0.0.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.54/file/shivaprasanth.dothttp-code-0.0.54.vsix";
-      sha256 = "sha256-3qWlz6TB/1wQKF54tvzqAjwrBpXEXNFHfsDmTvSfoFU=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.55/file/shivaprasanth.dothttp-code-0.0.55.vsix";
+      sha256 = "sha256-6rdeTnjfe+veaLbzJ3c4uxp1VUQtCEn2RnsLwtIamZo=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";

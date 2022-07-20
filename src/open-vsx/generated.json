@@ -23762,11 +23762,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WRBXXfBLQZMOgIMxa0d7cY3bDquiW5MmOF8y74gkWMs=",
+            "sha256": "sha256-dRzesE3yqI8GoGuqFGcIMlPAN+pML3sL5vicBweix4w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.61.0/file/mutable-ai.mutable-ai-0.61.0.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.70.0/file/mutable-ai.mutable-ai-0.70.0.vsix"
         },
-        "version": "0.61.0"
+        "version": "0.70.0"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -29082,11 +29082,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3qWlz6TB/1wQKF54tvzqAjwrBpXEXNFHfsDmTvSfoFU=",
+            "sha256": "sha256-6rdeTnjfe+veaLbzJ3c4uxp1VUQtCEn2RnsLwtIamZo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.54/file/shivaprasanth.dothttp-code-0.0.54.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.55/file/shivaprasanth.dothttp-code-0.0.55.vsix"
         },
-        "version": "0.0.54"
+        "version": "0.0.55"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,
