@@ -1215,10 +1215,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.8";
+    version = "1.6.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.8/file/GitHub.vscode-codeql-1.6.8.vsix";
-      sha256 = "sha256-KVCpUFdBpOCPjpwNtz9yLvCvco6+7AxZpcsas/KENqA=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.9/file/GitHub.vscode-codeql-1.6.9.vsix";
+      sha256 = "sha256-m1djDossQUZSk/3gI9MRbnJdCBWR3/SB33Eqx9tJIvw=";
     };
     license = "MIT";
     name = "vscode-codeql";
@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1219";
+    version = "31.0.1220";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1219/file/Prisma.prisma-insider-31.0.1219.vsix";
-      sha256 = "sha256-a0xwb2W7GW8U/jvipYvj7l2nPYi959PDJdqJUUdSjxY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1220/file/Prisma.prisma-insider-31.0.1220.vsix";
+      sha256 = "sha256-GjzXMhYjjvRt+PIxzZY1bgB73RjpuCX80fQpNBqauhs=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13143,10 +13143,10 @@
   };
   marcinbar-vscode-squirrel-linter = {
     pname = "marcinbar-vscode-squirrel-linter";
-    version = "0.0.13";
+    version = "0.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel-linter/0.0.13/file/marcinbar.vscode-squirrel-linter-0.0.13.vsix";
-      sha256 = "sha256-gVc77MzJGTNUuzPdmZOQZJBEjlk2Oi4HJjeo5rOldHE=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel-linter/0.0.14/file/marcinbar.vscode-squirrel-linter-0.0.14.vsix";
+      sha256 = "sha256-/IoytHjzhaFuTm6lPOy2tv+YN/WBGHXSQfZMp/RzAKw=";
     };
     license = "MIT";
     name = "vscode-squirrel-linter";
@@ -16935,10 +16935,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.6";
+    version = "1.16.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.6/file/rangav.vscode-thunder-client-1.16.6.vsix";
-      sha256 = "sha256-pl9cuZvaDSwDtAeaRtzwP1PQpqEJkq8oFoZr6BWwyoU=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.7/file/rangav.vscode-thunder-client-1.16.7.vsix";
+      sha256 = "sha256-zGzcTR38+ABUHXxCx7SoJruzUPbHdGwe0vsIOYZxV0w=";
     };
     license = "";
     name = "vscode-thunder-client";
