@@ -485,13 +485,13 @@
   };
   ibus = {
     pname = "ibus";
-    version = "82e38d9e1c06e7fdc0816fe08f4021b8c1cdff10";
+    version = "db2ef5d08ec61df156ca13beb63df7f7fed38829";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "82e38d9e1c06e7fdc0816fe08f4021b8c1cdff10";
+      rev = "db2ef5d08ec61df156ca13beb63df7f7fed38829";
       fetchSubmodules = false;
-      sha256 = "sha256-bDSv8TZGHVEsMYMemxPDnHrjmtz/Ur87f/gZ1OTEr+4=";
+      sha256 = "sha256-Zun2a2OKKhh/6hs6OTXETriDRjfhwHlXlL8RQiqp2RQ=";
     });
   };
   ibus-bamboo = {
