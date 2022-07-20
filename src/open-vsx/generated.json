@@ -4686,11 +4686,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GjzXMhYjjvRt+PIxzZY1bgB73RjpuCX80fQpNBqauhs=",
+            "sha256": "sha256-AIfEsWNkYElj4Zs0GOJ//j38kkARfxoTIrzlhBbE4nc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1220/file/Prisma.prisma-insider-31.0.1220.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1221/file/Prisma.prisma-insider-31.0.1221.vsix"
         },
-        "version": "31.0.1220"
+        "version": "31.0.1221"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -11830,11 +11830,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9B6rHvacqxOOmmEY498pwWJGyylfrZASd5qDqDtnh5I=",
+            "sha256": "sha256-DcYCV6wgcHiKw/5O0UTkaU6l7ZlcMC5uG/h7I06abbs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.5/file/cyrilletuzi.angular-schematics-5.2.5.vsix"
+            "url": "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.6/file/cyrilletuzi.angular-schematics-5.2.6.vsix"
         },
-        "version": "5.2.5"
+        "version": "5.2.6"
     },
     "cyrusfirheir-twee3-language-tools": {
         "cargoLocks": null,
@@ -31647,11 +31647,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4Zq28WUj/ouJ9rChzvWQg0cxexmdN+MuKmRBzD4G3+w=",
+            "sha256": "sha256-2kR/qfVvD0If9TvKEiNfWCdryJ+ptAfL0b8YyxVyPN0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/timonwong/shellcheck/0.19.5/file/timonwong.shellcheck-0.19.5.vsix"
+            "url": "https://open-vsx.org/api/timonwong/shellcheck/0.19.6/file/timonwong.shellcheck-0.19.6.vsix"
         },
-        "version": "0.19.5"
+        "version": "0.19.6"
     },
     "tinkerun-tinkerun-vscode": {
         "cargoLocks": null,

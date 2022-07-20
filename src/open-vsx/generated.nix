@@ -2955,10 +2955,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1220";
+    version = "31.0.1221";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1220/file/Prisma.prisma-insider-31.0.1220.vsix";
-      sha256 = "sha256-GjzXMhYjjvRt+PIxzZY1bgB73RjpuCX80fQpNBqauhs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1221/file/Prisma.prisma-insider-31.0.1221.vsix";
+      sha256 = "sha256-AIfEsWNkYElj4Zs0GOJ//j38kkARfxoTIrzlhBbE4nc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7467,10 +7467,10 @@
   };
   cyrilletuzi-angular-schematics = {
     pname = "cyrilletuzi-angular-schematics";
-    version = "5.2.5";
+    version = "5.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.5/file/cyrilletuzi.angular-schematics-5.2.5.vsix";
-      sha256 = "sha256-9B6rHvacqxOOmmEY498pwWJGyylfrZASd5qDqDtnh5I=";
+      url = "https://open-vsx.org/api/cyrilletuzi/angular-schematics/5.2.6/file/cyrilletuzi.angular-schematics-5.2.6.vsix";
+      sha256 = "sha256-DcYCV6wgcHiKw/5O0UTkaU6l7ZlcMC5uG/h7I06abbs=";
     };
     license = "MIT";
     name = "angular-schematics";
@@ -19983,10 +19983,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.19.5";
+    version = "0.19.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.5/file/timonwong.shellcheck-0.19.5.vsix";
-      sha256 = "sha256-4Zq28WUj/ouJ9rChzvWQg0cxexmdN+MuKmRBzD4G3+w=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.6/file/timonwong.shellcheck-0.19.6.vsix";
+      sha256 = "sha256-2kR/qfVvD0If9TvKEiNfWCdryJ+ptAfL0b8YyxVyPN0=";
     };
     license = "MIT";
     name = "shellcheck";
