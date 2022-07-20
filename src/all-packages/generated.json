@@ -338,11 +338,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "bea5e928cd65c22ad0bbf38b5d1077c5e52db4df",
-            "sha256": "sha256-kApajKvaM5uvQK/exMfFbzAYQszci2hosCRRjYchsx0=",
+            "rev": "b47bd01acba9780ab616bee1626a0745d3c98361",
+            "sha256": "sha256-jyMePGhnvR7svOeaXjrpKDQK4cwxhCDT3EJxEygRD3M=",
             "type": "github"
         },
-        "version": "bea5e928cd65c22ad0bbf38b5d1077c5e52db4df"
+        "version": "b47bd01acba9780ab616bee1626a0745d3c98361"
     },
     "caddy": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "641aaff998d6297831b9b139e5ff8767ab5c0c79",
-            "sha256": "sha256-gu5v69hBAtTlGsWhh2/aSrzH/17mDNzK5nqJ0mLesWo=",
+            "rev": "189cbe9f098816231673e9ebe1ac5fa5872f33e7",
+            "sha256": "sha256-j6zaEtkCqfZKp2bYwSwWketGH8amA+wElWlXy7XIGVo=",
             "type": "github"
         },
-        "version": "641aaff998d6297831b9b139e5ff8767ab5c0c79"
+        "version": "189cbe9f098816231673e9ebe1ac5fa5872f33e7"
     },
     "ibus": {
         "cargoLocks": null,
@@ -836,11 +836,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8uJhVvs3+knhr13hOB+Zjschqm6pW3PNXv4KwV29Uj0=",
+            "sha256": "sha256-jfp8rwVFcbCuVNW/yWcqxLXcn9YG26SYwwfh0JjGgdw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jibri_8.0-136-g80d4340-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jibri_8.0-137-g260cee3-1_all.deb"
         },
-        "version": "8.0-136-g80d4340"
+        "version": "8.0-137-g260cee3"
     },
     "jicofo": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-exYADzN4rf/JMPghDSwRhoMRBhhYs+f6DfQ15sst85I=",
+            "sha256": "sha256-c9iDnwrWuTsR7AsJlKe2c466bwUG+LFNv5hgRKraiPA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.20.0/revanced-patches-2.20.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.20.2/revanced-patches-2.20.2.dex"
         },
-        "version": "2.20.0"
+        "version": "2.20.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1584,11 +1584,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JSTNEBkLdhVYQOINujyBgdsIlbRGenXYXsDLaHwSSdo=",
+            "sha256": "sha256-O1PwoZUGTfWo83UgpkdsDh1/TAl0NJwizTY7q6inMik=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.20.0/revanced-patches-2.20.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.20.2/revanced-patches-2.20.2.jar"
         },
-        "version": "2.20.0"
+        "version": "2.20.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1774,12 +1774,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5823c5e619efb5044b7e8cb0f05720d77219c79e",
-            "sha256": "sha256-HpocPgP4Ji62BWBzVcBgflqVxvtKlUjAE3gbZg48VzU=",
+            "rev": "f22d912707d8072d99a54b366e117ea66bf28610",
+            "sha256": "sha256-KL+5EDy17wLa5ZC8Y9ygF+rIWe12ZbNPlOkZIXUzUSI=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "5823c5e619efb5044b7e8cb0f05720d77219c79e"
+        "version": "f22d912707d8072d99a54b366e117ea66bf28610"
     },
     "spicetify-cli": {
         "cargoLocks": null,
