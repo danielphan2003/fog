@@ -1073,6 +1073,20 @@
         },
         "version": "105.0.1321.0"
     },
+    "microsoft-edge-stable": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "microsoft-edge-stable",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ZAps8/YvvYu1NmRAnwMTvlmj1id6KyeJW5RQuiF/yMA=",
+            "type": "url",
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_103.0.1264.62-1_amd64.deb"
+        },
+        "version": "103.0.1264.62"
+    },
     "minecraft-wayland": {
         "cargoLocks": null,
         "extract": null,
@@ -1598,11 +1612,13 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-6533b30cac6ff62abdc97716988530b19ef2c810/Cargo.lock",
+                "./rustdesk-d65c486b278d8aeb09be99ccce5a69ad846e737e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
+                    "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
                     "hwcodec-0.1.0": "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=",
                     "magnum-opus-0.4.0": "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=",
+                    "mouce-0.2.1": "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=",
                     "parity-tokio-ipc-0.7.3-1": "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=",
                     "rdev-0.5.0-1": "sha256-aaC2Aq6xBSKV7+eUZWKLSmDBFwNcHWkgw1jJWQXvNqA=",
                     "rust-pulsectl-0.2.12": "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=",
@@ -1623,11 +1639,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "6533b30cac6ff62abdc97716988530b19ef2c810",
-            "sha256": "sha256-Z+OKXKqR7p+heRt+YosyrlP2dw1IZH1YqivxbQdJKqI=",
+            "rev": "d65c486b278d8aeb09be99ccce5a69ad846e737e",
+            "sha256": "sha256-n/loSTwCTVNdo+zsmZK4w+gXOp9/xXxG7WWdDuDjFvA=",
             "type": "github"
         },
-        "version": "6533b30cac6ff62abdc97716988530b19ef2c810"
+        "version": "d65c486b278d8aeb09be99ccce5a69ad846e737e"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -2057,11 +2073,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "ddfb4e43fee73adc7d75fe2e1309141376c6e090",
-            "sha256": "sha256-rQUlwf7tCBW3+IcEULoNVkJKLkMxwlshHGJX/jjREoc=",
+            "rev": "ecb038a10a80259e51dbc6d500233a57c37a68f5",
+            "sha256": "sha256-EMHrKcyb1qfV9MlUtICnedlA6feOh7n0Vmrp9aVwRO4=",
             "type": "github"
         },
-        "version": "ddfb4e43fee73adc7d75fe2e1309141376c6e090"
+        "version": "ecb038a10a80259e51dbc6d500233a57c37a68f5"
     },
     "ultimmc": {
         "cargoLocks": null,

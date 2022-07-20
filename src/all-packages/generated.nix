@@ -646,6 +646,14 @@
       sha256 = "sha256-NHSTUWYZiNvDzMLp8lbh/66hdBWXFwgyqsQyzEqtt8M=";
     };
   };
+  microsoft-edge-stable = {
+    pname = "microsoft-edge-stable";
+    version = "103.0.1264.62";
+    src = fetchurl {
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_103.0.1264.62-1_amd64.deb";
+      sha256 = "sha256-ZAps8/YvvYu1NmRAnwMTvlmj1id6KyeJW5RQuiF/yMA=";
+    };
+  };
   minecraft-wayland = {
     pname = "minecraft-wayland";
     version = "086b2457e8b769d6af44917759403f76b8b3b90e";
@@ -959,16 +967,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6533b30cac6ff62abdc97716988530b19ef2c810";
+    version = "d65c486b278d8aeb09be99ccce5a69ad846e737e";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6533b30cac6ff62abdc97716988530b19ef2c810";
+      rev = "d65c486b278d8aeb09be99ccce5a69ad846e737e";
       fetchSubmodules = false;
-      sha256 = "sha256-Z+OKXKqR7p+heRt+YosyrlP2dw1IZH1YqivxbQdJKqI=";
+      sha256 = "sha256-n/loSTwCTVNdo+zsmZK4w+gXOp9/xXxG7WWdDuDjFvA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-6533b30cac6ff62abdc97716988530b19ef2c810/Cargo.lock;
+      lockFile = ./rustdesk-d65c486b278d8aeb09be99ccce5a69ad846e737e/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -976,8 +984,10 @@
         "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
         "hwcodec-0.1.0" = "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=";
+        "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
+        "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
         "rdev-0.5.0-1" = "sha256-aaC2Aq6xBSKV7+eUZWKLSmDBFwNcHWkgw1jJWQXvNqA=";
       };
     };
@@ -1236,13 +1246,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "ddfb4e43fee73adc7d75fe2e1309141376c6e090";
+    version = "ecb038a10a80259e51dbc6d500233a57c37a68f5";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "ddfb4e43fee73adc7d75fe2e1309141376c6e090";
+      rev = "ecb038a10a80259e51dbc6d500233a57c37a68f5";
       fetchSubmodules = false;
-      sha256 = "sha256-rQUlwf7tCBW3+IcEULoNVkJKLkMxwlshHGJX/jjREoc=";
+      sha256 = "sha256-EMHrKcyb1qfV9MlUtICnedlA6feOh7n0Vmrp9aVwRO4=";
     });
   };
   ultimmc = {
