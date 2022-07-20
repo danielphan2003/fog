@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "42fc5a539249afe902587abe1687ee58e286f4c9";
+    version = "bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "42fc5a539249afe902587abe1687ee58e286f4c9";
+      rev = "bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-zopu3oLrEWldJaC3KthSjjNG3ahJ/+a2FD15msyVbMk=";
+      sha256 = "sha256-5Q/2VU+hdUhCYOGrl558PcfwBm++PrVHhT0zmaMG1SQ=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-42fc5a539249afe902587abe1687ee58e286f4c9/Cargo.lock;
+      lockFile = ./asusctl-bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26/Cargo.lock;
       outputHashes = {
         
       };
@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "3e80e3f67e3d1aa6bf27543d0bb6c7ff98ec4aa6";
+    version = "839711bb9bd573fc43426408e0ade62f895537f7";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "3e80e3f67e3d1aa6bf27543d0bb6c7ff98ec4aa6";
+      rev = "839711bb9bd573fc43426408e0ade62f895537f7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Bfp1xDudy96tEqsjrzfS8tQOy61f/vVcB7lLi9XO2z4=";
+      sha256 = "sha256-MwT9einz6sNZ0rNLvULPcDJy6IJ4IG1Ae0651Jx1uig=";
     };
   };
   flyingfox = {
@@ -463,13 +463,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "e1ba62a615dd40d70806780eb2cbb7de34ebdec1";
+    version = "6981a24ead15010f25a8c31e49c862891d9069f5";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "e1ba62a615dd40d70806780eb2cbb7de34ebdec1";
+      rev = "6981a24ead15010f25a8c31e49c862891d9069f5";
       fetchSubmodules = false;
-      sha256 = "sha256-SZsOd0HkB2EB2zk1ucaLAyq56Uv1eXa08/nSr8hyvHY=";
+      sha256 = "sha256-cjDRvzBHA8cUWpuDg5Tnn+6IqPeTriRLEZ5aR6JQFLU=";
     });
   };
   hyprland = {
@@ -523,18 +523,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6365";
+    version = "1.0.6366";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6365.tar.bz2";
-      sha256 = "sha256-WDPLRvscX8+WTxH8zWLqN1zv4511tdWW00nNUskWggM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6366.tar.bz2";
+      sha256 = "sha256-2lL5O5YaQqQaFK1qrEBamL8Sgde4HD4XmleI3mjLcQ8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6365";
+    version = "1.0.6366";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6365-1_all.deb";
-      sha256 = "sha256-WBDKeIHzHugjfz/fLzP7t836hL6rx/mmCFnyZFv5YJM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6366-1_all.deb";
+      sha256 = "sha256-kfsZ6/gx8k2kxSgeyOY/CO59Wt/Nc3V+6wx/3Khhvnc=";
     };
   };
   jitsi-videobridge2 = {
