@@ -15015,10 +15015,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.70.0";
+    version = "0.71.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.70.0/file/mutable-ai.mutable-ai-0.70.0.vsix";
-      sha256 = "sha256-dRzesE3yqI8GoGuqFGcIMlPAN+pML3sL5vicBweix4w=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.71.0/file/mutable-ai.mutable-ai-0.71.0.vsix";
+      sha256 = "sha256-tGxE5giMgID9z7pbf5nZGxPvr3Ns6R9y1R5J7WpJvwQ=";
     };
     license = "";
     name = "mutable-ai";
@@ -20499,10 +20499,10 @@
   };
   ultram4rine-vscode-choosealicense = {
     pname = "ultram4rine-vscode-choosealicense";
-    version = "0.7.0";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.7.0/file/ultram4rine.vscode-choosealicense-0.7.0.vsix";
-      sha256 = "sha256-jliA/HOSE4yNDzqOi2wpwOAEIe759UCCkKptF4KzNCQ=";
+      url = "https://open-vsx.org/api/ultram4rine/vscode-choosealicense/0.8.0/file/ultram4rine.vscode-choosealicense-0.8.0.vsix";
+      sha256 = "sha256-iZFpBRHM6jpJtgbOQN06Hqiudf+eruDInx3KwKN9jI8=";
     };
     license = "MIT";
     name = "vscode-choosealicense";
