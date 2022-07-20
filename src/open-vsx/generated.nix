@@ -3711,10 +3711,10 @@
   };
   Turiiya-german-scroll = {
     pname = "Turiiya-german-scroll";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.2/file/Turiiya.german-scroll-0.1.2.vsix";
-      sha256 = "sha256-vQ/3KuxG1TksBPHJhPLlQReF78EgxvBTAFVQpM/kmgA=";
+      url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.3/file/Turiiya.german-scroll-0.1.3.vsix";
+      sha256 = "sha256-pgILWZ2i43dTXpNZrud41Mp4NoXkb8k3cDzIVik/s3Q=";
     };
     license = "MIT";
     name = "german-scroll";
@@ -12855,10 +12855,10 @@
   };
   ligolang-publish-ligo-debugger-vscode = {
     pname = "ligolang-publish-ligo-debugger-vscode";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.1/file/ligolang-publish.ligo-debugger-vscode-0.0.1.vsix";
-      sha256 = "sha256-uM6yOn3hq8gTujbtnXDOIu0+Kyk697BSv9552hrI6hY=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.2/file/ligolang-publish.ligo-debugger-vscode-0.0.2.vsix";
+      sha256 = "sha256-kXs2yuxFeKRpFAUYQcrSTqRWJHfDrqAp9oRc4AHrCEY=";
     };
     license = "MIT";
     name = "ligo-debugger-vscode";
@@ -12867,10 +12867,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.14";
+    version = "0.4.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.14/file/ligolang-publish.ligo-vscode-0.4.14.vsix";
-      sha256 = "sha256-HXeFVX8yK4WUEPp/+wy9o1HPEH7FKdboEQwcShzji/c=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.15/file/ligolang-publish.ligo-vscode-0.4.15.vsix";
+      sha256 = "sha256-qUE41Oez13ATVA25GPvfE4B4+jEXStwjdz65Bg9Euyg=";
     };
     license = "MIT";
     name = "ligo-vscode";
