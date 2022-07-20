@@ -864,11 +864,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2lL5O5YaQqQaFK1qrEBamL8Sgde4HD4XmleI3mjLcQ8=",
+            "sha256": "sha256-D/iE7/iGiBKyAX1LQQ0K6DAXHythHmruzNYqM0irxSo=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6366.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6367.tar.bz2"
         },
-        "version": "1.0.6366"
+        "version": "1.0.6367"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -1758,12 +1758,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "5f2405303346e4b9f7f6765f58f5b4b7442886bb",
-            "sha256": "sha256-PGVBqhWpLKkzz0m4y3nTcPw2kNP6JU1/YWGAtIxFh18=",
+            "rev": "7100f3654235aa2094740602c0fa0003de3351ba",
+            "sha256": "sha256-xgzQS+W3FHH7j6jb1NJxDGGaIRKGEYyjHvstTPiLTcM=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "5f2405303346e4b9f7f6765f58f5b4b7442886bb"
+        "version": "7100f3654235aa2094740602c0fa0003de3351ba"
     },
     "spicetify-cli": {
         "cargoLocks": null,
