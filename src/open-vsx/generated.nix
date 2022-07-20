@@ -3555,10 +3555,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.3";
+    version = "3.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.3/file/TabNine.tabnine-vscode-3.6.3.vsix";
-      sha256 = "sha256-mRirgnetr/pys+MLuaezahGxwpbVpbaMU6H4SIDCo4I=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.4/file/TabNine.tabnine-vscode-3.6.4.vsix";
+      sha256 = "sha256-JaGX/RcKAEPEYWO1cStc2YskgE5Sjg/IdSQpYhn5nUE=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -8439,10 +8439,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2691259";
+    version = "8.0.2704551";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2691259/file/eliostruyf.vscode-front-matter-beta-8.0.2691259.vsix";
-      sha256 = "sha256-Z3MnGlTK/hAH/O1iK+guru9q1zWilQl/eKsc2aqHAfU=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2704551/file/eliostruyf.vscode-front-matter-beta-8.0.2704551.vsix";
+      sha256 = "sha256-7z/1HybMmagU/CfQdFNSYBnVwlHuGHADJcaZY0RymuQ=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13143,10 +13143,10 @@
   };
   marcinbar-vscode-squirrel-linter = {
     pname = "marcinbar-vscode-squirrel-linter";
-    version = "0.0.14";
+    version = "0.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel-linter/0.0.14/file/marcinbar.vscode-squirrel-linter-0.0.14.vsix";
-      sha256 = "sha256-/IoytHjzhaFuTm6lPOy2tv+YN/WBGHXSQfZMp/RzAKw=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel-linter/0.0.15/file/marcinbar.vscode-squirrel-linter-0.0.15.vsix";
+      sha256 = "sha256-JBR0jGNTQVdxSqRf2iIKf7rEy8ucC0Ucfn74lpFKfN8=";
     };
     license = "MIT";
     name = "vscode-squirrel-linter";
@@ -17175,10 +17175,10 @@
   };
   redhat-vscode-debug-adapter-apache-camel = {
     pname = "redhat-vscode-debug-adapter-apache-camel";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.3.0/file/redhat.vscode-debug-adapter-apache-camel-0.3.0.vsix";
-      sha256 = "sha256-OIRQTrwRlTUWEM3f0THBiv+QrK3nqQcaiL8kpjqEP8I=";
+      url = "https://open-vsx.org/api/redhat/vscode-debug-adapter-apache-camel/0.4.0/file/redhat.vscode-debug-adapter-apache-camel-0.4.0.vsix";
+      sha256 = "sha256-WFagaBgVxEzjwfTUXT7s6q5TBIyX+p2rz54rGvGdnyw=";
     };
     license = "Apache-2.0";
     name = "vscode-debug-adapter-apache-camel";
@@ -17547,10 +17547,10 @@
   };
   robocorp-robocorp-code = {
     pname = "robocorp-robocorp-code";
-    version = "0.35.0";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.35.0/file/robocorp.robocorp-code-0.35.0.vsix";
-      sha256 = "sha256-/0a4B3jfJBg+T7t0AcLKK0EhkyvQ2Y5nL1A4hoIiZsM=";
+      url = "https://open-vsx.org/api/robocorp/robocorp-code/0.36.0/file/robocorp.robocorp-code-0.36.0.vsix";
+      sha256 = "sha256-ErMtv2SEuIW/ZhzxO+gYyf+AjUW6Zji4zfQ48rccSj0=";
     };
     license = "";
     name = "robocorp-code";
@@ -17559,10 +17559,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.48.2";
+    version = "0.49.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.48.2/file/robocorp.robotframework-lsp-0.48.2.vsix";
-      sha256 = "sha256-ZFMRLfPnxe0Mo7eRXrr6HZxyTKs1ijNwg+dBs7ZMSdw=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.49.0/file/robocorp.robotframework-lsp-0.49.0.vsix";
+      sha256 = "sha256-+PdrzlEccqoZa4zNcDUci+4GeSI0RquxSpSLA/yH8UU=";
     };
     license = "Apache 2.0";
     name = "robotframework-lsp";
