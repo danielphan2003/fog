@@ -8904,11 +8904,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-N69qbTab2WLXrlgGnZU8YP1PlOaWKoWeOhN8akIeLcQ=",
+            "sha256": "sha256-qVefJszXuBXE/o64ZXe3DqC05Nf14Ek6YWKgiSI4QjI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.0/file/astro-build.astro-vscode-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.1/file/astro-build.astro-vscode-0.20.1.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.20.1"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
