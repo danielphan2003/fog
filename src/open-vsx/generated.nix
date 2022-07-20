@@ -5847,10 +5847,10 @@
   };
   base9-theme-base9-vscode = {
     pname = "base9-theme-base9-vscode";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.6/file/base9-theme.base9-vscode-0.0.6.vsix";
-      sha256 = "sha256-3oOCoI+c4XhFhfRMUzRZCuNwbIszmGKyFDluGM95pP4=";
+      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.7/file/base9-theme.base9-vscode-0.0.7.vsix";
+      sha256 = "sha256-2qLhZxEwFfWbu6f9Ly8s9wEFwotkujUgxGYYKWR3v3s=";
     };
     license = "MIT";
     name = "base9-vscode";
