@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "8bdee04651d93a5a799f6816ceafaa7ac61fe26d";
+    version = "abad9bc256eea7353b9959d066f5b7ea64990a22";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "8bdee04651d93a5a799f6816ceafaa7ac61fe26d";
+      rev = "abad9bc256eea7353b9959d066f5b7ea64990a22";
       fetchSubmodules = false;
-      sha256 = "sha256-FHx17Hu6GfDzCeDJCOQ27LesHE8bB3Ub0Ii/Jjy6iVM=";
+      sha256 = "sha256-yRLn9RfcD30Wck6ht6pKhNZ+ftnZJKJXL4RtF6OUTBs=";
     });
   };
   cinny = {
@@ -539,10 +539,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-17-gefc1d24f";
+    version = "2.2-18-gade06bf8";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-17-gefc1d24f-1_all.deb";
-      sha256 = "sha256-U1m0/ltlv+zj93Ok0rcKSCV9Gopfhca8JxAEWh+/uTE=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-18-gade06bf8-1_all.deb";
+      sha256 = "sha256-PI5RUXJYTeGXS7/+xHmSgrPm0XyPDAdPv8PIBsm3c+w=";
     };
   };
   layout-machi = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "05622ebe85e1351ee5e0c8540286f12157ecdfdc";
+    version = "2cf6f6ce8fef3426240ab7f2164b8c32b023b60a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "05622ebe85e1351ee5e0c8540286f12157ecdfdc";
+      rev = "2cf6f6ce8fef3426240ab7f2164b8c32b023b60a";
       fetchSubmodules = false;
-      sha256 = "sha256-7QeVTAey1+9h2HlEqv64LOX4YadlzM/5CsZnDRQRi04=";
+      sha256 = "sha256-7T6IT6Qwo7bMEAfU54etEKyoZTFw8RgVLtP9vdS/TdA=";
     });
   };
   revanced-cli = {
@@ -932,26 +932,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.27.3";
+    version = "0.28.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.3/app-release-unsigned.apk";
-      sha256 = "sha256-+z5vDlMsu11pXUowZlfKbYspcHZLFEvbxqM/+ez9uGo=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.28.0/app-release-unsigned.apk";
+      sha256 = "sha256-HOiZ8ItgM576a4O848A0gZQq9ZrpCKcUKuN/adUwecI=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.20.3";
+    version = "2.20.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.3/revanced-patches-2.20.3.dex";
-      sha256 = "sha256-sWiklKd5grxY310II2kb0bTNNXn+p1ppcmcwoxtnNvU=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.4/revanced-patches-2.20.4.dex";
+      sha256 = "sha256-FG+MaYmlIWlei9FYL4SjHbDXmrrWZ2ewfCB4Mu4pyG0=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.20.3";
+    version = "2.20.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.3/revanced-patches-2.20.3.jar";
-      sha256 = "sha256-hBw4YhklRltSnpmSEiIlJ3WAIhtWJ/Kve7DkiPWC1Cg=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.4/revanced-patches-2.20.4.jar";
+      sha256 = "sha256-plboFtBNkaNw7heEaBzxeosEU4duuxFYL4vIiyXv3ZY=";
     };
   };
   rofi-wayland = {
