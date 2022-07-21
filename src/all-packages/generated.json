@@ -399,7 +399,7 @@
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-86b78d5cdeccd161ca6b11aa36c10ae0bbd09e5a/src-tauri/Cargo.lock",
+                "./cinny-desktop-7cc558d82658697153759a144b47c9cd1c22dd25/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -414,11 +414,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "86b78d5cdeccd161ca6b11aa36c10ae0bbd09e5a",
-            "sha256": "sha256-uCb1OfPqevvMJxVJMqzvzjVCwN1nqQ/D2RRVNQ2Y+qM=",
+            "rev": "7cc558d82658697153759a144b47c9cd1c22dd25",
+            "sha256": "sha256-XteKYFJqyxLzii35BL2Tw1C3OEVP4GZ20YRfebODCaY=",
             "type": "github"
         },
-        "version": "86b78d5cdeccd161ca6b11aa36c10ae0bbd09e5a"
+        "version": "7cc558d82658697153759a144b47c9cd1c22dd25"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
