@@ -4705,11 +4705,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u4/+loEw6O1QcrQJ+d1EhCrs/QRrQc0iaJ/V/uF1QSA=",
+            "sha256": "sha256-K3dSF5YAzs15f80xEHQLyKZz1pB9WEx1LQjmBGiPj6s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1223/file/Prisma.prisma-insider-31.0.1223.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1224/file/Prisma.prisma-insider-31.0.1224.vsix"
         },
-        "version": "31.0.1223"
+        "version": "31.0.1224"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -20399,11 +20399,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kXs2yuxFeKRpFAUYQcrSTqRWJHfDrqAp9oRc4AHrCEY=",
+            "sha256": "sha256-s/nJGRLQC6xHXRTl2PIH6H9rcqSWMhSdFfcponI2XL4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.2/file/ligolang-publish.ligo-debugger-vscode-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.3/file/ligolang-publish.ligo-debugger-vscode-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "ligolang-publish-ligo-vscode": {
         "cargoLocks": null,
@@ -20418,11 +20418,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qUE41Oez13ATVA25GPvfE4B4+jEXStwjdz65Bg9Euyg=",
+            "sha256": "sha256-dzpZRToz4DRwZERPMdLqSAo1wd00+4L53haOwNULlWU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.15/file/ligolang-publish.ligo-vscode-0.4.15.vsix"
+            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.16/file/ligolang-publish.ligo-vscode-0.4.16.vsix"
         },
-        "version": "0.4.15"
+        "version": "0.4.16"
     },
     "lintangwisesa-arduino": {
         "cargoLocks": null,

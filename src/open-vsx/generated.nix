@@ -2967,10 +2967,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1223";
+    version = "31.0.1224";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1223/file/Prisma.prisma-insider-31.0.1223.vsix";
-      sha256 = "sha256-u4/+loEw6O1QcrQJ+d1EhCrs/QRrQc0iaJ/V/uF1QSA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1224/file/Prisma.prisma-insider-31.0.1224.vsix";
+      sha256 = "sha256-K3dSF5YAzs15f80xEHQLyKZz1pB9WEx1LQjmBGiPj6s=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12879,10 +12879,10 @@
   };
   ligolang-publish-ligo-debugger-vscode = {
     pname = "ligolang-publish-ligo-debugger-vscode";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.2/file/ligolang-publish.ligo-debugger-vscode-0.0.2.vsix";
-      sha256 = "sha256-kXs2yuxFeKRpFAUYQcrSTqRWJHfDrqAp9oRc4AHrCEY=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-debugger-vscode/0.0.3/file/ligolang-publish.ligo-debugger-vscode-0.0.3.vsix";
+      sha256 = "sha256-s/nJGRLQC6xHXRTl2PIH6H9rcqSWMhSdFfcponI2XL4=";
     };
     license = "MIT";
     name = "ligo-debugger-vscode";
@@ -12891,10 +12891,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.15";
+    version = "0.4.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.15/file/ligolang-publish.ligo-vscode-0.4.15.vsix";
-      sha256 = "sha256-qUE41Oez13ATVA25GPvfE4B4+jEXStwjdz65Bg9Euyg=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.16/file/ligolang-publish.ligo-vscode-0.4.16.vsix";
+      sha256 = "sha256-dzpZRToz4DRwZERPMdLqSAo1wd00+4L53haOwNULlWU=";
     };
     license = "MIT";
     name = "ligo-vscode";
