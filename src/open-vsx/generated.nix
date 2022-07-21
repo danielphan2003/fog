@@ -6951,10 +6951,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.18/file/cloudstudio.workspaces-0.0.18.vsix";
-      sha256 = "sha256-Co2GaYLDgIsetNny1yJx4sP470oaW3Phf4ZJ3WGofjg=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.19/file/cloudstudio.workspaces-0.0.19.vsix";
+      sha256 = "sha256-C16MiWcVShqyUgzYCo3MJiGEF0g0eSElLXLBbssA3hU=";
     };
     license = "MIT";
     name = "workspaces";
@@ -7827,10 +7827,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.104.0";
+    version = "0.104.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.104.0/file/dendron.dendron-0.104.0.vsix";
-      sha256 = "sha256-M8R2POdA+QHTAeAlY76xj9IXdnnz05pXmQzETMggDMM=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.104.1/file/dendron.dendron-0.104.1.vsix";
+      sha256 = "sha256-AmDRXaoTG0Fgn+uEBQeTW5m2ENDe2kX0ByM5hMYj6H0=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -11247,10 +11247,10 @@
   };
   jarusll-class-browser = {
     pname = "jarusll-class-browser";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.5/file/jarusll.class-browser-0.0.5.vsix";
-      sha256 = "sha256-1oVBrVvkhYUehHHCJkMlJPeqzpUSugbaFSz8tfE4xOE=";
+      url = "https://open-vsx.org/api/jarusll/class-browser/0.0.6/file/jarusll.class-browser-0.0.6.vsix";
+      sha256 = "sha256-66jioCuEq0V74QSt+z783Xx3KB6GsWJnB53stNQvrag=";
     };
     license = "MIT";
     name = "class-browser";
