@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0013ef9ef09794d351bd67170dfc720d3070bce3";
+    version = "fa1273f258b9ea8c160033bcf19bb9beafcbb4e1";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "0013ef9ef09794d351bd67170dfc720d3070bce3";
+      rev = "fa1273f258b9ea8c160033bcf19bb9beafcbb4e1";
       fetchSubmodules = false;
-      sha256 = "sha256-hXwlQZRBr1r56D2CT7oqg7FoYrlL9/JVTIqOpppczQY=";
+      sha256 = "sha256-e50KmgGal9EbHYpnroHk+qW5DhU7QTZUgMXsMAwINus=";
     });
   };
   ibus = {
@@ -924,10 +924,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.7.0";
+    version = "2.7.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.7.0/revanced-cli-2.7.0-all.jar";
-      sha256 = "sha256-RKW9R/czgN10tJg47bTQhGnB2ePyugVGH+xJ/kZ/8ig=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.7.1/revanced-cli-2.7.1-all.jar";
+      sha256 = "sha256-XRJBTFNufR08ZuQDAQBPDUxyZOuRql7I6/cQqUQK+YM=";
     };
   };
   revanced-integrations = {
@@ -1140,13 +1140,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "9a30319162be76df69e77787ed3a3ae63144ea04";
+    version = "cb0ecfb19039e2478bd702bfd7d51c6aaf65a3de";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "9a30319162be76df69e77787ed3a3ae63144ea04";
+      rev = "cb0ecfb19039e2478bd702bfd7d51c6aaf65a3de";
       fetchSubmodules = false;
-      sha256 = "sha256-pSB1zJji0aceunueU1shrXhRjKv55kVrVcnQUJeUITM=";
+      sha256 = "sha256-fOVEowRrSv1E3aj1nYmAlmpXYPkYFuwpL9SGyYs8Ri8=";
     });
   };
   supergfxctl = {
