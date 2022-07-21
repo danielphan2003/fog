@@ -1208,13 +1208,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "3e06b9ea7a6ece79a0ee92c1a599991880c5ba32";
+    version = "1d33157ab979395b0278d8cd1fa77f6fa9ce22f1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "3e06b9ea7a6ece79a0ee92c1a599991880c5ba32";
+      rev = "1d33157ab979395b0278d8cd1fa77f6fa9ce22f1";
       fetchSubmodules = false;
-      sha256 = "sha256-Xwor/YokcMZTuK8mAIW8BHHRdh9YGoxZssHsw+0t7Ok=";
+      sha256 = "sha256-Ktp8oXbS6Dm/zywi5MS+E+tAHMOjqvG5ffG0cDfh+Yc=";
     });
   };
   tailscale-systray = {
@@ -1246,13 +1246,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "00a994a6aa6b889a168ed1534918baad45835d3a";
+    version = "73db3b367c9bde339fd1a8b1da4f5c73a1012703";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "00a994a6aa6b889a168ed1534918baad45835d3a";
+      rev = "73db3b367c9bde339fd1a8b1da4f5c73a1012703";
       fetchSubmodules = false;
-      sha256 = "sha256-5nE0DJp+avcvbtqWFYad3B8TkzjGxYezaMBgOFAvESc=";
+      sha256 = "sha256-WbYZF9hUrBLQdmHSS/u7PKOF4U/kvuiTEbNRXgFr6Ho=";
     });
   };
   ultimmc = {
