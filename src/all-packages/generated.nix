@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26";
+    version = "f222eef6b72396a04b7e43e9359e47fd7bc6277c";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26";
+      rev = "f222eef6b72396a04b7e43e9359e47fd7bc6277c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5Q/2VU+hdUhCYOGrl558PcfwBm++PrVHhT0zmaMG1SQ=";
+      sha256 = "sha256-BouInqJpd+nqmH8JlvE9Vwgw51baHFuxnhtUYdapTKs=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26/Cargo.lock;
+      lockFile = ./asusctl-f222eef6b72396a04b7e43e9359e47fd7bc6277c/Cargo.lock;
       outputHashes = {
         
       };
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "2cf6f6ce8fef3426240ab7f2164b8c32b023b60a";
+    version = "3cf7e881ec1c02298ffe1c70e843f235f024d980";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "2cf6f6ce8fef3426240ab7f2164b8c32b023b60a";
+      rev = "3cf7e881ec1c02298ffe1c70e843f235f024d980";
       fetchSubmodules = false;
-      sha256 = "sha256-7T6IT6Qwo7bMEAfU54etEKyoZTFw8RgVLtP9vdS/TdA=";
+      sha256 = "sha256-xQj+7mXvbF9A0mxgToxRNHhUHlxOyMQuT9KudYqpINo=";
     });
   };
   revanced-cli = {
@@ -1062,14 +1062,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f22d912707d8072d99a54b366e117ea66bf28610";
+    version = "677e824521f8fecb592ad4159b7e66031eeccf20";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f22d912707d8072d99a54b366e117ea66bf28610";
+      rev = "677e824521f8fecb592ad4159b7e66031eeccf20";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-KL+5EDy17wLa5ZC8Y9ygF+rIWe12ZbNPlOkZIXUzUSI=";
+      sha256 = "sha256-hAMRr0Jedh1F4GEFOXu4tNTCO8iAt2hUwgTnP5AfLok=";
     };
   };
   spicetify-cli = {

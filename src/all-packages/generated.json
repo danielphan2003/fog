@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26/Cargo.lock",
+                "./asusctl-f222eef6b72396a04b7e43e9359e47fd7bc6277c/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26",
-            "sha256": "sha256-5Q/2VU+hdUhCYOGrl558PcfwBm++PrVHhT0zmaMG1SQ=",
+            "rev": "f222eef6b72396a04b7e43e9359e47fd7bc6277c",
+            "sha256": "sha256-BouInqJpd+nqmH8JlvE9Vwgw51baHFuxnhtUYdapTKs=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "bdbb403a0eb91dfd3c1aaa99e6a0c5a8a94eef26"
+        "version": "f222eef6b72396a04b7e43e9359e47fd7bc6277c"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1528,11 +1528,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "2cf6f6ce8fef3426240ab7f2164b8c32b023b60a",
-            "sha256": "sha256-7T6IT6Qwo7bMEAfU54etEKyoZTFw8RgVLtP9vdS/TdA=",
+            "rev": "3cf7e881ec1c02298ffe1c70e843f235f024d980",
+            "sha256": "sha256-xQj+7mXvbF9A0mxgToxRNHhUHlxOyMQuT9KudYqpINo=",
             "type": "github"
         },
-        "version": "2cf6f6ce8fef3426240ab7f2164b8c32b023b60a"
+        "version": "3cf7e881ec1c02298ffe1c70e843f235f024d980"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1774,12 +1774,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f22d912707d8072d99a54b366e117ea66bf28610",
-            "sha256": "sha256-KL+5EDy17wLa5ZC8Y9ygF+rIWe12ZbNPlOkZIXUzUSI=",
+            "rev": "677e824521f8fecb592ad4159b7e66031eeccf20",
+            "sha256": "sha256-hAMRr0Jedh1F4GEFOXu4tNTCO8iAt2hUwgTnP5AfLok=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "f22d912707d8072d99a54b366e117ea66bf28610"
+        "version": "677e824521f8fecb592ad4159b7e66031eeccf20"
     },
     "spicetify-cli": {
         "cargoLocks": null,
