@@ -11115,10 +11115,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.11";
+    version = "0.3.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.11/file/iterative.dvc-0.3.11.vsix";
-      sha256 = "sha256-GtkiPtpwfTNK9YZjPVbb7NLGxtthO1r7r0JSjdjUirE=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.12/file/iterative.dvc-0.3.12.vsix";
+      sha256 = "sha256-eV7RZLoBKPtv5QsEENHl6Tl6KsZZCxIuq/Yds/l6NE8=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -15015,10 +15015,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.71.0";
+    version = "0.80.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.71.0/file/mutable-ai.mutable-ai-0.71.0.vsix";
-      sha256 = "sha256-tGxE5giMgID9z7pbf5nZGxPvr3Ns6R9y1R5J7WpJvwQ=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.80.1/file/mutable-ai.mutable-ai-0.80.1.vsix";
+      sha256 = "sha256-wmgeJgKksa2uVh6tfyaw5LIOcLchX9SAoALVIpsJnnU=";
     };
     license = "";
     name = "mutable-ai";
@@ -16779,10 +16779,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.27.0";
+    version = "1.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.27.0/file/quarto.quarto-1.27.0.vsix";
-      sha256 = "sha256-mt+Isjvp44uHGMK5uKey50BhC+otI6eKv9JcV2KeyRA=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.28.0/file/quarto.quarto-1.28.0.vsix";
+      sha256 = "sha256-KAolqTtJ/eqcBZ/MHh/BYxhVNi9Spz6BGaeTJvCYNKI=";
     };
     license = "MIT";
     name = "quarto";
