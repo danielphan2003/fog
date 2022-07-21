@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "e6ebf72a111e9374350939af9f6ff0d91e30f3e0";
+    version = "10eaaac54b1b9d01b637f8575df82314e0f73454";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "e6ebf72a111e9374350939af9f6ff0d91e30f3e0";
+      rev = "10eaaac54b1b9d01b637f8575df82314e0f73454";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-TykCdp7AkfJ449ejUpgDClc7FCkXz7gOaNFCX2E/9iQ=";
+      sha256 = "sha256-SwqYCWxR1T6XGlOY2LEQhyUXTj2HObAycsLsL99W/+4=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-e6ebf72a111e9374350939af9f6ff0d91e30f3e0/Cargo.lock;
+      lockFile = ./asusctl-10eaaac54b1b9d01b637f8575df82314e0f73454/Cargo.lock;
       outputHashes = {
         
       };
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "3cf7e881ec1c02298ffe1c70e843f235f024d980";
+    version = "1f244aac01b6e11c936e8586bfc4004e3f4af7b4";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "3cf7e881ec1c02298ffe1c70e843f235f024d980";
+      rev = "1f244aac01b6e11c936e8586bfc4004e3f4af7b4";
       fetchSubmodules = false;
-      sha256 = "sha256-xQj+7mXvbF9A0mxgToxRNHhUHlxOyMQuT9KudYqpINo=";
+      sha256 = "sha256-lX4gwU6G6HjSo+JO47Gtaq74n/PnRSUmKZul/RTvlrk=";
     });
   };
   revanced-cli = {
@@ -1074,13 +1074,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "ba5cef8fd63d2735b55243796896cf71915c8945";
+    version = "487dc7038c6c638ca92cb10a9b17eeb7ee30cd74";
     src = fetchFromGitHub ({
       owner = "khanhas";
       repo = "spicetify-cli";
-      rev = "ba5cef8fd63d2735b55243796896cf71915c8945";
+      rev = "487dc7038c6c638ca92cb10a9b17eeb7ee30cd74";
       fetchSubmodules = false;
-      sha256 = "sha256-lGLe9T6cN600OA8nSklRDpgWLgIvqSHuZ/JLstqqCio=";
+      sha256 = "sha256-NX3qbnnbV2mLxBQCjfl7xNicyir6usi2uYGw6Yij/ho=";
     });
   };
   spicetify-marketplace = {
@@ -1096,13 +1096,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "86f72355ffefe7461ca28edf7f9491b404a7d0d3";
+    version = "0dd8243d4e25f142c3f62a8d3da8f6647dbf64e4";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "86f72355ffefe7461ca28edf7f9491b404a7d0d3";
+      rev = "0dd8243d4e25f142c3f62a8d3da8f6647dbf64e4";
       fetchSubmodules = false;
-      sha256 = "sha256-NBqTfB0IA4ziphEZ+b1CSOf26p+AALWrvrKgWXhv2q0=";
+      sha256 = "sha256-SOD2t7R1o+mWQ/+w/vE5UL/9CfJQOMiY6qdelaTMLUo=";
     });
   };
   spotify = {
