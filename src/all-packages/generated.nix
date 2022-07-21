@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "a2ae2546e137f154ea8f2d3ddb2fe2e0ec52f5db";
+    version = "5cfe7a81351559b0b257b39a3ff6812d7dd87210";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "a2ae2546e137f154ea8f2d3ddb2fe2e0ec52f5db";
+      rev = "5cfe7a81351559b0b257b39a3ff6812d7dd87210";
       fetchSubmodules = false;
-      sha256 = "sha256-s2iw0j2t7mdWWpbW6Us35XBKEqbL/96/wSc81rBEIpE=";
+      sha256 = "sha256-aOZpQsYKQUriCUlDpIt1EtspPTBrriFB12UBH/k/Rl8=";
     });
   };
   caddy = {
@@ -515,10 +515,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-909";
+    version = "1.0-910";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-909-1_all.deb";
-      sha256 = "sha256-TU5RqEO45zjKiA1FohThkcINDJInagTzt610M3JQcrw=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-910-1_all.deb";
+      sha256 = "sha256-u/NTXOuxJkGM7ubS4DB7LuL0KJmmFUexOy7TrLCOC34=";
     };
   };
   jitsi-meet = {
@@ -932,10 +932,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.27.4";
+    version = "0.27.6";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.4/app-release-unsigned.apk";
-      sha256 = "sha256-5K86OYAi9Aw0bB7lExCpvyoQNe/yRrDJ4f9Rj6TgWKY=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.6/app-release-unsigned.apk";
+      sha256 = "sha256-5JGFCXbXKfuFlMwLTsHdHbmKHOlaslofQJCPfzBanHw=";
     };
   };
   revanced-patches-dex = {
@@ -1208,13 +1208,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d8cb5aae1720c3edc5e30f77b5fc7634e940a252";
+    version = "43f3a969ca71c5769aeca6c2ee6bc283a504acd1";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d8cb5aae1720c3edc5e30f77b5fc7634e940a252";
+      rev = "43f3a969ca71c5769aeca6c2ee6bc283a504acd1";
       fetchSubmodules = false;
-      sha256 = "sha256-/jqbvepvA6NkteBMvrZVvntVHdSP9/y0odMLR2/Cruo=";
+      sha256 = "sha256-WL+LiAUctYG1neNsbWJ7hxP9yT2+L3WtC/Bml0sUV08=";
     });
   };
   tailscale-systray = {
