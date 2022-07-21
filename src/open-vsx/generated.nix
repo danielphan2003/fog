@@ -27,10 +27,10 @@
   };
   AdaCore-ada-debug = {
     pname = "AdaCore-ada-debug";
-    version = "23.0.7";
+    version = "23.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.7/file/AdaCore.ada-debug-23.0.7.vsix";
-      sha256 = "sha256-Lhun4GHHxN1FmMz7c0OxyZmWA1PSb2NfVhgHhOysNq8=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.8/file/AdaCore.ada-debug-23.0.8.vsix";
+      sha256 = "sha256-5nVLvx2WOcUQc2V7orxIEvEDGeLXGs4ycw1gLDYGk0I=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -264,6 +264,18 @@
     name = "modulestf";
     description = "Semantic highlighting support for Terraform, and more to come...";
     publisher = "Betajob";
+  };
+  BillDietrich-linkcheckerhtml = {
+    pname = "BillDietrich-linkcheckerhtml";
+    version = "6.3.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/BillDietrich/linkcheckerhtml/6.3.0/file/BillDietrich.linkcheckerhtml-6.3.0.vsix";
+      sha256 = "sha256-8fsgSJX4QtQvRMAKeDZoMCIMTQwsrKwIAogg7R3EsJo=";
+    };
+    license = "MIT";
+    name = "linkcheckerhtml";
+    description = "Alt+H checks for broken links in an HTML, XML, RSS, or PHP file.  Alt+T sends currently-selected URL to browser.  Alt+M sends HTTPS version of currently-selected HTTP URL to browser.  Alt+L clears diagnostic messages.";
+    publisher = "BillDietrich";
   };
   BroadcomMFD-abend-analyzer = {
     pname = "BroadcomMFD-abend-analyzer";
@@ -2955,10 +2967,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1222";
+    version = "31.0.1223";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1222/file/Prisma.prisma-insider-31.0.1222.vsix";
-      sha256 = "sha256-pNtlybkWrCFevQ0ZfVqvM/Oq29kBwalL4viZEcyuOMI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1223/file/Prisma.prisma-insider-31.0.1223.vsix";
+      sha256 = "sha256-u4/+loEw6O1QcrQJ+d1EhCrs/QRrQc0iaJ/V/uF1QSA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8439,10 +8451,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2704551";
+    version = "8.0.2711027";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2704551/file/eliostruyf.vscode-front-matter-beta-8.0.2704551.vsix";
-      sha256 = "sha256-7z/1HybMmagU/CfQdFNSYBnVwlHuGHADJcaZY0RymuQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2711027/file/eliostruyf.vscode-front-matter-beta-8.0.2711027.vsix";
+      sha256 = "sha256-tkLrL4oEHVn9bDWpM2WvS/3aXpLPvKbcF9O1sOobR6M=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -12576,6 +12588,18 @@
     name = "cyberbrain";
     description = "Python debugging, redefined.";
     publisher = "laike9m";
+  };
+  lakshitsomani-best-themes-redefined = {
+    pname = "lakshitsomani-best-themes-redefined";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lakshitsomani/best-themes-redefined/0.1.0/file/lakshitsomani.best-themes-redefined-0.1.0.vsix";
+      sha256 = "sha256-YokvmwPu/i0w+7kb3eQne8IdLpkuBYsPYtGhl+618Vw=";
+    };
+    license = "MIT";
+    name = "best-themes-redefined";
+    description = "Redefined versions of all the popular themes \127879\10024\10084";
+    publisher = "lakshitsomani";
   };
   langium-langium-vscode = {
     pname = "langium-langium-vscode";
