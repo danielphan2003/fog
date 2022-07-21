@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7f660fed0d4a8133ccde21c3e092dbc8c6e08c60";
+    version = "19cd04c85f6c1cf8f4a88f6a1588ff676f1c9779";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "7f660fed0d4a8133ccde21c3e092dbc8c6e08c60";
+      rev = "19cd04c85f6c1cf8f4a88f6a1588ff676f1c9779";
       fetchSubmodules = false;
-      sha256 = "sha256-J4LZ8nH+3riGsU/jcIODkdX7xk8QnapJNBbk+vzsCZM=";
+      sha256 = "sha256-nOKenc4l9e4j5q6vmlISB5z01ETnmCkmcOKgldarXfQ=";
     });
   };
   ibus = {
@@ -967,23 +967,23 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "9ee2d750f82f3e672a9b6374ddfe8f548775c7a6";
+    version = "eda5a94e3319602977073f051736fa707d25a5c5";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "9ee2d750f82f3e672a9b6374ddfe8f548775c7a6";
+      rev = "eda5a94e3319602977073f051736fa707d25a5c5";
       fetchSubmodules = false;
-      sha256 = "sha256-6mvBwJVuHWmVjUzNPhx/jp07bdmubNY25UrrA65/YDc=";
+      sha256 = "sha256-U2Naixs1K49ayQFBfq/kxwUjVrOiaRrZfzi7Ku6jKrw=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-9ee2d750f82f3e672a9b6374ddfe8f548775c7a6/Cargo.lock;
+      lockFile = ./rustdesk-eda5a94e3319602977073f051736fa707d25a5c5/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
-        "hwcodec-0.1.0" = "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=";
+        "hwcodec-0.1.0" = "sha256-VddI5p/Hfa8VhjjhjA4KDDkThFmi8JcH6oeaGG6/dtA=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
@@ -1062,14 +1062,14 @@
   };
   snui = {
     pname = "snui";
-    version = "a1110d268e2d1bef3b838ff282ee07c6afdbf624";
+    version = "393e51c0e9099345ef87c92af921544d49fcc96b";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "a1110d268e2d1bef3b838ff282ee07c6afdbf624";
+      rev = "393e51c0e9099345ef87c92af921544d49fcc96b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-1MaRJDZvMYlefnvVQuazZUz7e4fwqUJCC5U5VSf19m4=";
+      sha256 = "sha256-g9JFJeACQmuj9rgOlmmTHHkek3+HzNqX5MXf9/3mKxQ=";
     };
   };
   spicetify-cli = {
