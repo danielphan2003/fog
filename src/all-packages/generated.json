@@ -1570,7 +1570,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FG+MaYmlIWlei9FYL4SjHbDXmrrWZ2ewfCB4Mu4pyG0=",
+            "sha256": "sha256-N8+AqXVQ9uqXstZ4Qz4FG4hATW8/16xCXTkNJQyWfIQ=",
             "type": "url",
             "url": "https://github.com/revanced/revanced-patches/releases/download/v2.20.4/revanced-patches-2.20.4.dex"
         },
@@ -1584,7 +1584,7 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-plboFtBNkaNw7heEaBzxeosEU4duuxFYL4vIiyXv3ZY=",
+            "sha256": "sha256-pJNFy+CPlFgwGjMFqMl/htL4d+5sfSQyFX1UKHxWe48=",
             "type": "url",
             "url": "https://github.com/revanced/revanced-patches/releases/download/v2.20.4/revanced-patches-2.20.4.jar"
         },
@@ -1612,7 +1612,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-416832a1ed0948833a36b411c3b35658489e13da/Cargo.lock",
+                "./rustdesk-9ee2d750f82f3e672a9b6374ddfe8f548775c7a6/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1639,11 +1639,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "416832a1ed0948833a36b411c3b35658489e13da",
-            "sha256": "sha256-IHKLTuDfN/PJFaCdjn6rHAZgF6HKrLNajz3spl2nHyQ=",
+            "rev": "9ee2d750f82f3e672a9b6374ddfe8f548775c7a6",
+            "sha256": "sha256-6mvBwJVuHWmVjUzNPhx/jp07bdmubNY25UrrA65/YDc=",
             "type": "github"
         },
-        "version": "416832a1ed0948833a36b411c3b35658489e13da"
+        "version": "9ee2d750f82f3e672a9b6374ddfe8f548775c7a6"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,

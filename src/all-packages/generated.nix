@@ -943,7 +943,7 @@
     version = "2.20.4";
     src = fetchurl {
       url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.4/revanced-patches-2.20.4.dex";
-      sha256 = "sha256-FG+MaYmlIWlei9FYL4SjHbDXmrrWZ2ewfCB4Mu4pyG0=";
+      sha256 = "sha256-N8+AqXVQ9uqXstZ4Qz4FG4hATW8/16xCXTkNJQyWfIQ=";
     };
   };
   revanced-patches-jar = {
@@ -951,7 +951,7 @@
     version = "2.20.4";
     src = fetchurl {
       url = "https://github.com/revanced/revanced-patches/releases/download/v2.20.4/revanced-patches-2.20.4.jar";
-      sha256 = "sha256-plboFtBNkaNw7heEaBzxeosEU4duuxFYL4vIiyXv3ZY=";
+      sha256 = "sha256-pJNFy+CPlFgwGjMFqMl/htL4d+5sfSQyFX1UKHxWe48=";
     };
   };
   rofi-wayland = {
@@ -967,16 +967,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "416832a1ed0948833a36b411c3b35658489e13da";
+    version = "9ee2d750f82f3e672a9b6374ddfe8f548775c7a6";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "416832a1ed0948833a36b411c3b35658489e13da";
+      rev = "9ee2d750f82f3e672a9b6374ddfe8f548775c7a6";
       fetchSubmodules = false;
-      sha256 = "sha256-IHKLTuDfN/PJFaCdjn6rHAZgF6HKrLNajz3spl2nHyQ=";
+      sha256 = "sha256-6mvBwJVuHWmVjUzNPhx/jp07bdmubNY25UrrA65/YDc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-416832a1ed0948833a36b411c3b35658489e13da/Cargo.lock;
+      lockFile = ./rustdesk-9ee2d750f82f3e672a9b6374ddfe8f548775c7a6/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
