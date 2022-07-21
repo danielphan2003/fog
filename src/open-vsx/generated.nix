@@ -15,10 +15,10 @@
   };
   AdaCore-ada = {
     pname = "AdaCore-ada";
-    version = "23.0.7";
+    version = "23.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.7/file/AdaCore.ada-23.0.7.vsix";
-      sha256 = "sha256-2nOMTyXpDMHlp6VjlH2OgBik5cvVhRsrdx3vDmFqrvI=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.8/file/AdaCore.ada-23.0.8.vsix";
+      sha256 = "sha256-ISG2dzmODOnTn2onpUmr8uID+hb2Y710ST6zFkutbII=";
     };
     license = "GPL-3.0";
     name = "ada";
@@ -7911,10 +7911,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.104.1";
+    version = "0.104.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.104.1/file/dendron.nightly-0.104.1.vsix";
-      sha256 = "sha256-3dX5q4aPC+jZXULuLPDF7L38TFNy3CfISWiqLdMkY2k=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.104.2/file/dendron.nightly-0.104.2.vsix";
+      sha256 = "sha256-Gx/xGyyf2wCcgSXxk5IFsXUhtMFGDqbrsIGPpP2P+/c=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -16431,10 +16431,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.403";
+    version = "0.26.404";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.403/file/pokey.cursorless-0.26.403.vsix";
-      sha256 = "sha256-DnIi/1Lt/NZMG7pseFq8LJfFq3i9KFJqDY++O3/91a0=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.404/file/pokey.cursorless-0.26.404.vsix";
+      sha256 = "sha256-Wm4Oxjk0DA9svb6O/cQ/8z1GF8R+qATTql27iVlkaWs=";
     };
     license = "MIT";
     name = "cursorless";
