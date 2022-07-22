@@ -2007,11 +2007,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "92357a54ec8fd8e39a71281d0c882ee11750feeb",
-            "sha256": "sha256-ElHRFO4lXv6LVPYMlmZSS3/bHZa37ix1q/UEZVpi7P4=",
+            "rev": "898695e312ddbe670ac9e35c5b1ea0f4df6ab797",
+            "sha256": "sha256-4S1vYNcczDYp+KO4AjJhImTtLRp5GVbsSwp2tfP7qmo=",
             "type": "github"
         },
-        "version": "92357a54ec8fd8e39a71281d0c882ee11750feeb"
+        "version": "898695e312ddbe670ac9e35c5b1ea0f4df6ab797"
     },
     "tailscale-systray": {
         "cargoLocks": null,
