@@ -6168,11 +6168,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WvX+vskd2xRwlTeETU8AFfsLJkaKUO7U1A7UkoaQEMk=",
+            "sha256": "sha256-N9qckB6RlY7UIKTDPjQ4hmv5Kz8DIpLf6Kx1doKXQBU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.5/file/WatermelonTools.watermelon-tools-1.4.5.vsix"
+            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.6/file/WatermelonTools.watermelon-tools-1.4.6.vsix"
         },
-        "version": "1.4.5"
+        "version": "1.4.6"
     },
     "Wattenberger-footsteps": {
         "cargoLocks": null,
@@ -16143,11 +16143,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qtJUbVnY+GfwJw5qVa+ZvajczmYBHVbanLBA3IP7h8g=",
+            "sha256": "sha256-JAVPuewkrWZItmqY4V6IpI3v/0n1BDPTHFYqvbpxtMQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.1.5/file/hc.wallace-corporation-0.1.5.vsix"
+            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.1.7/file/hc.wallace-corporation-0.1.7.vsix"
         },
-        "version": "0.1.5"
+        "version": "0.1.7"
     },
     "hcl-hcl-ztools": {
         "cargoLocks": null,

@@ -3891,10 +3891,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.4.5";
+    version = "1.4.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.5/file/WatermelonTools.watermelon-tools-1.4.5.vsix";
-      sha256 = "sha256-WvX+vskd2xRwlTeETU8AFfsLJkaKUO7U1A7UkoaQEMk=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.6/file/WatermelonTools.watermelon-tools-1.4.6.vsix";
+      sha256 = "sha256-N9qckB6RlY7UIKTDPjQ4hmv5Kz8DIpLf6Kx1doKXQBU=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -10191,10 +10191,10 @@
   };
   hc-wallace-corporation = {
     pname = "hc-wallace-corporation";
-    version = "0.1.5";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hc/wallace-corporation/0.1.5/file/hc.wallace-corporation-0.1.5.vsix";
-      sha256 = "sha256-qtJUbVnY+GfwJw5qVa+ZvajczmYBHVbanLBA3IP7h8g=";
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.1.7/file/hc.wallace-corporation-0.1.7.vsix";
+      sha256 = "sha256-JAVPuewkrWZItmqY4V6IpI3v/0n1BDPTHFYqvbpxtMQ=";
     };
     license = "MIT";
     name = "wallace-corporation";
