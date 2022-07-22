@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "d9b0edb786bb34413558d70eadce10e9d7c47389",
-            "sha256": "sha256-RtsQlDnBCurOnr82h0eeTK3dYc/s4cHF7Jo2LlxMrRI=",
+            "rev": "616ec22735659ab26169c65f20ee1b174cd84e34",
+            "sha256": "sha256-fh3c3LtrutPnkasI4kVIHmsJpkefks6A53PfrrlRXoM=",
             "type": "github"
         },
-        "version": "d9b0edb786bb34413558d70eadce10e9d7c47389"
+        "version": "616ec22735659ab26169c65f20ee1b174cd84e34"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1794,11 +1794,11 @@
             "name": null,
             "owner": "khanhas",
             "repo": "spicetify-cli",
-            "rev": "487dc7038c6c638ca92cb10a9b17eeb7ee30cd74",
-            "sha256": "sha256-NX3qbnnbV2mLxBQCjfl7xNicyir6usi2uYGw6Yij/ho=",
+            "rev": "2b712f50da37485e19f8dbc235d0912c44f47c90",
+            "sha256": "sha256-APJFXTf3DpJICnbVyeqDTOYzdU/36Kh+ANo+ianKYxk=",
             "type": "github"
         },
-        "version": "487dc7038c6c638ca92cb10a9b17eeb7ee30cd74"
+        "version": "2b712f50da37485e19f8dbc235d0912c44f47c90"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -2383,12 +2383,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "6907b6ea2b4ce949cb07271f5b678d5966d9df42",
-            "sha256": "sha256-AmW4hpFHkSVUc4P+0Y82Xig3GprVpicpdRGS7OL25VE=",
+            "rev": "11beef0b7f1ed290348e45618e5fa0d2bffcb72e",
+            "sha256": "sha256-pDWXTEYQO6tuiVeSDEtUKJZDTyPTktj0ay/mPRF8jb4=",
             "type": "git",
             "url": "git://anongit.freedesktop.org/xorg/xserver"
         },
-        "version": "6907b6ea2b4ce949cb07271f5b678d5966d9df42"
+        "version": "11beef0b7f1ed290348e45618e5fa0d2bffcb72e"
     },
     "ydotool": {
         "cargoLocks": null,
