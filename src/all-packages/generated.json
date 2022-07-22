@@ -683,12 +683,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4a7b980aea352ed3b7f03814e87e833f31df7b9d",
-            "sha256": "sha256-fygHSntwRpB4QXSGQwg2KRjIr97cwB5keJ02YR4/Fag=",
+            "rev": "8306b3d272d13903971217ffcfc14b84c1186cbc",
+            "sha256": "sha256-FAGnRQ6hMxxKIe7cuhEDroRS8Fw1feVxEZkscIvZlQs=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "4a7b980aea352ed3b7f03814e87e833f31df7b9d"
+        "version": "8306b3d272d13903971217ffcfc14b84c1186cbc"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "616ec22735659ab26169c65f20ee1b174cd84e34",
-            "sha256": "sha256-fh3c3LtrutPnkasI4kVIHmsJpkefks6A53PfrrlRXoM=",
+            "rev": "72700bf9dc17d1d145130bd53b436a80e1c971d2",
+            "sha256": "sha256-ILsoRKvtc8FAmYcb9JD9ASHVVJfjwG87tflt0cmtimo=",
             "type": "github"
         },
-        "version": "616ec22735659ab26169c65f20ee1b174cd84e34"
+        "version": "72700bf9dc17d1d145130bd53b436a80e1c971d2"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1528,11 +1528,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "1245cbc63bae62d473aa9365844747306fc6dc17",
-            "sha256": "sha256-6v+rNnWx9PDbvPAHCoXstaJ/RDxlfaoDe4rjUk+HfeU=",
+            "rev": "8d12918243f90d03a5cc06bd14d3dd4b05dede01",
+            "sha256": "sha256-dbzSKGSOXDCXgJ7+yZW+eEixF7GpOzWslJeEe8PNe8I=",
             "type": "github"
         },
-        "version": "1245cbc63bae62d473aa9365844747306fc6dc17"
+        "version": "8d12918243f90d03a5cc06bd14d3dd4b05dede01"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2007,11 +2007,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "227c6b2a5390892e26394b54b053be605d7e5aa7",
-            "sha256": "sha256-FmM6beRb60uR0jpiFlRUwN4xKEGsw912apsQ4WTwLns=",
+            "rev": "92357a54ec8fd8e39a71281d0c882ee11750feeb",
+            "sha256": "sha256-ElHRFO4lXv6LVPYMlmZSS3/bHZa37ix1q/UEZVpi7P4=",
             "type": "github"
         },
-        "version": "227c6b2a5390892e26394b54b053be605d7e5aa7"
+        "version": "92357a54ec8fd8e39a71281d0c882ee11750feeb"
     },
     "tailscale-systray": {
         "cargoLocks": null,
