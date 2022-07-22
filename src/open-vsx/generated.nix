@@ -6711,10 +6711,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.4.1";
+    version = "1.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.1/file/chenglou92.rescript-vscode-1.4.1.vsix";
-      sha256 = "sha256-iDGzlPjLU9NIvEeawZdKgwsSyvcfGlHz2tUPwqBJTWc=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.2/file/chenglou92.rescript-vscode-1.4.2.vsix";
+      sha256 = "sha256-bPTo1HYJWut16J2p7EyY3O0C5HXOxZAqlqeOHb+xLi0=";
     };
     license = "MIT";
     name = "rescript-vscode";
@@ -8619,10 +8619,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.9.0";
+    version = "0.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.0/file/enkia.tokyo-night-0.9.0.vsix";
-      sha256 = "sha256-dp1khIrsNqf+OwREw8yPA5DfGD4w/S3EzHfylq0B1KY=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.1/file/enkia.tokyo-night-0.9.1.vsix";
+      sha256 = "sha256-chOR7W6tD5UTfshVbUh8e63aLgaS8cYoypBM4ZHOiKs=";
     };
     license = "MIT";
     name = "tokyo-night";

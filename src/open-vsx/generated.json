@@ -10633,11 +10633,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iDGzlPjLU9NIvEeawZdKgwsSyvcfGlHz2tUPwqBJTWc=",
+            "sha256": "sha256-bPTo1HYJWut16J2p7EyY3O0C5HXOxZAqlqeOHb+xLi0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.1/file/chenglou92.rescript-vscode-1.4.1.vsix"
+            "url": "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.2/file/chenglou92.rescript-vscode-1.4.2.vsix"
         },
-        "version": "1.4.1"
+        "version": "1.4.2"
     },
     "cheshirekow-cmake-format": {
         "cargoLocks": null,
@@ -13654,11 +13654,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dp1khIrsNqf+OwREw8yPA5DfGD4w/S3EzHfylq0B1KY=",
+            "sha256": "sha256-chOR7W6tD5UTfshVbUh8e63aLgaS8cYoypBM4ZHOiKs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.9.0/file/enkia.tokyo-night-0.9.0.vsix"
+            "url": "https://open-vsx.org/api/enkia/tokyo-night/0.9.1/file/enkia.tokyo-night-0.9.1.vsix"
         },
-        "version": "0.9.0"
+        "version": "0.9.1"
     },
     "entan-gl-cc65-vice": {
         "cargoLocks": null,
