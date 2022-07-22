@@ -12795,10 +12795,10 @@
   };
   lf-lang-vscode-lingua-franca = {
     pname = "lf-lang-vscode-lingua-franca";
-    version = "0.2.1";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.1/file/lf-lang.vscode-lingua-franca-0.2.1.vsix";
-      sha256 = "sha256-o1ydbdUyI5JsMMiHYdAbTWgJv92YHFyPDii1IKSCpxo=";
+      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.3.0/file/lf-lang.vscode-lingua-franca-0.3.0.vsix";
+      sha256 = "sha256-beGUAYvmjY8Snd+3gVtJhATVeX8J0/DjuxR4URN4Xv8=";
     };
     license = "BSD-2-Clause";
     name = "vscode-lingua-franca";
@@ -12843,10 +12843,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.32";
+    version = "3.0.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.32/file/lifeart.vscode-ember-unstable-3.0.32.vsix";
-      sha256 = "sha256-P4C1mPOkmr3epwBFGJasCToIuCOrePXwjzkrByv23N4=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.34/file/lifeart.vscode-ember-unstable-3.0.34.vsix";
+      sha256 = "sha256-Svu1HKCwT75l8+pJe6N6F1/xzaOmaJ7Mj0C4y8Yda/E=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";

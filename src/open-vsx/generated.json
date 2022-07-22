@@ -20266,11 +20266,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-o1ydbdUyI5JsMMiHYdAbTWgJv92YHFyPDii1IKSCpxo=",
+            "sha256": "sha256-beGUAYvmjY8Snd+3gVtJhATVeX8J0/DjuxR4URN4Xv8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.2.1/file/lf-lang.vscode-lingua-franca-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.3.0/file/lf-lang.vscode-lingua-franca-0.3.0.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.3.0"
     },
     "lgalabru-clarity-lsp": {
         "cargoLocks": null,
@@ -20342,11 +20342,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P4C1mPOkmr3epwBFGJasCToIuCOrePXwjzkrByv23N4=",
+            "sha256": "sha256-Svu1HKCwT75l8+pJe6N6F1/xzaOmaJ7Mj0C4y8Yda/E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.32/file/lifeart.vscode-ember-unstable-3.0.32.vsix"
+            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.34/file/lifeart.vscode-ember-unstable-3.0.34.vsix"
         },
-        "version": "3.0.32"
+        "version": "3.0.34"
     },
     "lifeart-vscode-glimmer-syntax": {
         "cargoLocks": null,
