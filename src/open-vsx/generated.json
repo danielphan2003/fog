@@ -32711,11 +32711,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GflHoJMf2fp0eciRnKb9MisgDk7QSYyEIITu1rLPLns=",
+            "sha256": "sha256-O+Q0P4TmM2U+OAJykmLp1i1doSaIG5xbztbh0zVdcUE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/errorlens/3.5.2/file/usernamehw.errorlens-3.5.2.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/errorlens/3.6.0/file/usernamehw.errorlens-3.6.0.vsix"
         },
-        "version": "3.5.2"
+        "version": "3.6.0"
     },
     "usernamehw-find-jump": {
         "cargoLocks": null,

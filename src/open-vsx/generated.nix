@@ -20655,10 +20655,10 @@
   };
   usernamehw-errorlens = {
     pname = "usernamehw-errorlens";
-    version = "3.5.2";
+    version = "3.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/errorlens/3.5.2/file/usernamehw.errorlens-3.5.2.vsix";
-      sha256 = "sha256-GflHoJMf2fp0eciRnKb9MisgDk7QSYyEIITu1rLPLns=";
+      url = "https://open-vsx.org/api/usernamehw/errorlens/3.6.0/file/usernamehw.errorlens-3.6.0.vsix";
+      sha256 = "sha256-O+Q0P4TmM2U+OAJykmLp1i1doSaIG5xbztbh0zVdcUE=";
     };
     license = "MIT";
     name = "errorlens";
