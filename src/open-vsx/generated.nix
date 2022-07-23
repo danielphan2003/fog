@@ -493,6 +493,18 @@
     description = "Texinfo language support for Visual Studio Code";
     publisher = "CismonX";
   };
+  Cloud-pipelines-pipeline-editor-vscode = {
+    pname = "Cloud-pipelines-pipeline-editor-vscode";
+    version = "0.1.20220718";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Cloud-pipelines/pipeline-editor-vscode/0.1.20220718/file/Cloud-pipelines.pipeline-editor-vscode-0.1.20220718.vsix";
+      sha256 = "sha256-VNGe4qg3gY4YCJiSlRmbFNqyO+kij7To1Tw8txz9Usg=";
+    };
+    license = "Apache-2.0";
+    name = "pipeline-editor-vscode";
+    description = "Cloud Pipelines Editor is a web app that allows the users to build and run Machine Learning pipelines using drag and drop without having to set up development environment.";
+    publisher = "Cloud-pipelines";
+  };
   CocaineJohnsson-nihil = {
     pname = "CocaineJohnsson-nihil";
     version = "1.0.2";
@@ -16851,14 +16863,14 @@
   };
   qux-bbb-text-utils = {
     pname = "qux-bbb-text-utils";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.3/file/qux-bbb.text-utils-0.1.3.vsix";
-      sha256 = "sha256-YnZVHHR+dSbTIjX6mGectk7OheH3f37Otn02e1yZLJM=";
+      url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.4/file/qux-bbb.text-utils-0.1.4.vsix";
+      sha256 = "sha256-YFAzaEk03uymWlFcfeHPapy2hJ7EOoOQScRsm9KdGGM=";
     };
     license = "GPL-3.0";
     name = "text-utils";
-    description = "Simple Text Utils";
+    description = "Simple Text Utils. TODO, String Reverse/Lowercase/Uppercase/Titlecase, List generate, Base64, AES, URI, Unicode, Hex, Sort lines, Deduplicate...";
     publisher = "qux-bbb";
   };
   radiolevity-Neofloss = {
@@ -22575,10 +22587,10 @@
   };
   webhint-vscode-webhint = {
     pname = "webhint-vscode-webhint";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.0/file/webhint.vscode-webhint-2.1.0.vsix";
-      sha256 = "sha256-uEqi+jsu2oTSPnH+HKA3z+83rodX2qanZYsHPY2kEJI=";
+      url = "https://open-vsx.org/api/webhint/vscode-webhint/2.1.1/file/webhint.vscode-webhint-2.1.1.vsix";
+      sha256 = "sha256-4j+6rX23MJ/EH0rjH1THDK5GwVkdkqKjqKDnjg84w14=";
     };
     license = "Apache-2.0";
     name = "vscode-webhint";
