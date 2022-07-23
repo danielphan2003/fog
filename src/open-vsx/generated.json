@@ -18068,6 +18068,25 @@
         },
         "version": "0.2.0"
     },
+    "jeanp413-open-remote-ssh": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jeanp413-open-remote-ssh",
+        "passthru": {
+            "description": "Use any remote machine with a SSH server as your development environment.",
+            "license": "MIT",
+            "name": "open-remote-ssh",
+            "publisher": "jeanp413"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-xvuADj0Ur690kXLxW01DGuaHg3sbWYQD3WAI7cesaOA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.1/file/jeanp413.open-remote-ssh-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
         "extract": null,

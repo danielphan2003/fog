@@ -11413,6 +11413,18 @@
     description = "Adds support for Scheme syntax highlighting.";
     publisher = "jeandeaual";
   };
+  jeanp413-open-remote-ssh = {
+    pname = "jeanp413-open-remote-ssh";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.1/file/jeanp413.open-remote-ssh-0.0.1.vsix";
+      sha256 = "sha256-xvuADj0Ur690kXLxW01DGuaHg3sbWYQD3WAI7cesaOA=";
+    };
+    license = "MIT";
+    name = "open-remote-ssh";
+    description = "Use any remote machine with a SSH server as your development environment.";
+    publisher = "jeanp413";
+  };
   jeanp413-smoketest-check-web = {
     pname = "jeanp413-smoketest-check-web";
     version = "0.0.3";
