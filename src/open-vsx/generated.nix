@@ -9819,10 +9819,10 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.34.1";
+    version = "0.35.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.34.1/file/golang.Go-0.34.1.vsix";
-      sha256 = "sha256-UMATqT1zsbWXIj/3MrlUOgLfd+pZNW7aDsbQwhb2IFg=";
+      url = "https://open-vsx.org/api/golang/Go/0.35.1/file/golang.Go-0.35.1.vsix";
+      sha256 = "sha256-SqAjL1t4nMKJOKXKIxGl5xhPFNKovZsHNU/lJPUejQI=";
     };
     license = "MIT";
     name = "Go";
@@ -23415,10 +23415,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.67";
+    version = "0.0.68";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.67/file/zardoy.zardoy-experiments-0.0.67.vsix";
-      sha256 = "sha256-9SpePaz5+gvimvsnYOYpFh18RirNId3/PARePwGLKwM=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.68/file/zardoy.zardoy-experiments-0.0.68.vsix";
+      sha256 = "sha256-VLAXtKg/KZBA+MP/aXuatraFow78QYZSGlUYsjz5NQU=";
     };
     license = "MIT";
     name = "zardoy-experiments";
