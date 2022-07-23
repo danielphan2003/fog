@@ -1455,10 +1455,10 @@
   };
   HaaLeo-timing = {
     pname = "HaaLeo-timing";
-    version = "2.7.1";
+    version = "2.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/HaaLeo/timing/2.7.1/file/HaaLeo.timing-2.7.1.vsix";
-      sha256 = "sha256-h7jXeXeg4jpqnlX/bPrLgntZbuYC6B2Nj0ZvLc2HZE0=";
+      url = "https://open-vsx.org/api/HaaLeo/timing/2.7.2/file/HaaLeo.timing-2.7.2.vsix";
+      sha256 = "sha256-TxJ7p0I8nyjoQrhFwttbAd0i1RAErA2q0pCenGlvp44=";
     };
     license = "MIT";
     name = "timing";
@@ -16503,10 +16503,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.19.0";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.19.0/file/pokey.parse-tree-0.19.0.vsix";
-      sha256 = "sha256-GK64EqC1MhYuDPNmXV2CkTDTUFwHk/m/ancIRiA9ofI=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.20.0/file/pokey.parse-tree-0.20.0.vsix";
+      sha256 = "sha256-MX3GnNUKo6xUT/UYDgJA9Y0BwWOfPUqECDZ9XkA0tY0=";
     };
     license = "MIT";
     name = "parse-tree";
@@ -20591,6 +20591,18 @@
     license = "MIT";
     name = "vscode-mdx";
     description = "Visual Studio Code extension for MDX";
+    publisher = "unifiedjs";
+  };
+  unifiedjs-vscode-remark = {
+    pname = "unifiedjs-vscode-remark";
+    version = "2.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/unifiedjs/vscode-remark/2.0.0/file/unifiedjs.vscode-remark-2.0.0.vsix";
+      sha256 = "sha256-EOII1D1NHZKoV4ybrZgAE1eYCthpRFh2hTfNP72NiJ4=";
+    };
+    license = "MIT";
+    name = "vscode-remark";
+    description = "Lint and format markdown code with remark";
     publisher = "unifiedjs";
   };
   unoplatform-vscode = {

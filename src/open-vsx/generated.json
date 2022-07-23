@@ -2311,11 +2311,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-h7jXeXeg4jpqnlX/bPrLgntZbuYC6B2Nj0ZvLc2HZE0=",
+            "sha256": "sha256-TxJ7p0I8nyjoQrhFwttbAd0i1RAErA2q0pCenGlvp44=",
             "type": "url",
-            "url": "https://open-vsx.org/api/HaaLeo/timing/2.7.1/file/HaaLeo.timing-2.7.1.vsix"
+            "url": "https://open-vsx.org/api/HaaLeo/timing/2.7.2/file/HaaLeo.timing-2.7.2.vsix"
         },
-        "version": "2.7.1"
+        "version": "2.7.2"
     },
     "HaaLeo-vscode-extension-test": {
         "cargoLocks": null,
@@ -26137,11 +26137,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GK64EqC1MhYuDPNmXV2CkTDTUFwHk/m/ancIRiA9ofI=",
+            "sha256": "sha256-MX3GnNUKo6xUT/UYDgJA9Y0BwWOfPUqECDZ9XkA0tY0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/parse-tree/0.19.0/file/pokey.parse-tree-0.19.0.vsix"
+            "url": "https://open-vsx.org/api/pokey/parse-tree/0.20.0/file/pokey.parse-tree-0.20.0.vsix"
         },
-        "version": "0.19.0"
+        "version": "0.20.0"
     },
     "pokey-talon": {
         "cargoLocks": null,
@@ -32602,6 +32602,25 @@
             "url": "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.0/file/unifiedjs.vscode-mdx-1.0.0.vsix"
         },
         "version": "1.0.0"
+    },
+    "unifiedjs-vscode-remark": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "unifiedjs-vscode-remark",
+        "passthru": {
+            "description": "Lint and format markdown code with remark",
+            "license": "MIT",
+            "name": "vscode-remark",
+            "publisher": "unifiedjs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-EOII1D1NHZKoV4ybrZgAE1eYCthpRFh2hTfNP72NiJ4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/unifiedjs/vscode-remark/2.0.0/file/unifiedjs.vscode-remark-2.0.0.vsix"
+        },
+        "version": "2.0.0"
     },
     "unoplatform-vscode": {
         "cargoLocks": null,
