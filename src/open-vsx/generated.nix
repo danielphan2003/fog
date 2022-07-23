@@ -6841,6 +6841,18 @@
     description = "Browser preview extension";
     publisher = "cloudstudio";
   };
+  cloudstudio-cloud-debug = {
+    pname = "cloudstudio-cloud-debug";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.1/file/cloudstudio.cloud-debug-0.0.1.vsix";
+      sha256 = "sha256-x85eMRRPHNAEZZe4GV4PS8sP3s5Jx4QtKe64Duhuygo=";
+    };
+    license = "Apache-2.0";
+    name = "cloud-debug";
+    description = "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development";
+    publisher = "cloudstudio";
+  };
   cloudstudio-coding = {
     pname = "cloudstudio-coding";
     version = "0.0.6";
@@ -7935,10 +7947,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.104.2";
+    version = "0.104.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.104.2/file/dendron.nightly-0.104.2.vsix";
-      sha256 = "sha256-Gx/xGyyf2wCcgSXxk5IFsXUhtMFGDqbrsIGPpP2P+/c=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.104.4/file/dendron.nightly-0.104.4.vsix";
+      sha256 = "sha256-HIwn7ZKsL7OkAKChhYjq8Yfpj0Ywk0AtrY6k+AySdwo=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -12807,10 +12819,10 @@
   };
   lf-lang-vscode-lingua-franca = {
     pname = "lf-lang-vscode-lingua-franca";
-    version = "0.3.0";
+    version = "0.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.3.0/file/lf-lang.vscode-lingua-franca-0.3.0.vsix";
-      sha256 = "sha256-beGUAYvmjY8Snd+3gVtJhATVeX8J0/DjuxR4URN4Xv8=";
+      url = "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.3.1/file/lf-lang.vscode-lingua-franca-0.3.1.vsix";
+      sha256 = "sha256-pf7Qx/QCDxCuz+DpNtI7/zwR+VIX/jxjvRfG7W2ltc8=";
     };
     license = "BSD-2-Clause";
     name = "vscode-lingua-franca";
@@ -14055,10 +14067,10 @@
   };
   mrakgr-spiral-lang-vscode = {
     pname = "mrakgr-spiral-lang-vscode";
-    version = "2.2.2";
+    version = "2.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.2/file/mrakgr.spiral-lang-vscode-2.2.2.vsix";
-      sha256 = "sha256-Yqt11dSx15aFCAx7IZhT4KUloFqrkpwkRJzmJjFC0mI=";
+      url = "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.3/file/mrakgr.spiral-lang-vscode-2.2.3.vsix";
+      sha256 = "sha256-mpjPzRFdgXFaIpwWzL0C/0QTyanERN8VAG9Op3pbGQA=";
     };
     license = "";
     name = "spiral-lang-vscode";

@@ -10829,6 +10829,25 @@
         },
         "version": "0.0.5"
     },
+    "cloudstudio-cloud-debug": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cloudstudio-cloud-debug",
+        "passthru": {
+            "description": "Makes developing with Kubernetes feel like on local. IDE tool for cloud-native development",
+            "license": "Apache-2.0",
+            "name": "cloud-debug",
+            "publisher": "cloudstudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-x85eMRRPHNAEZZe4GV4PS8sP3s5Jx4QtKe64Duhuygo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.1/file/cloudstudio.cloud-debug-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "cloudstudio-coding": {
         "cargoLocks": null,
         "extract": null,
@@ -12571,11 +12590,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Gx/xGyyf2wCcgSXxk5IFsXUhtMFGDqbrsIGPpP2P+/c=",
+            "sha256": "sha256-HIwn7ZKsL7OkAKChhYjq8Yfpj0Ywk0AtrY6k+AySdwo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.104.2/file/dendron.nightly-0.104.2.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.104.4/file/dendron.nightly-0.104.4.vsix"
         },
-        "version": "0.104.2"
+        "version": "0.104.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -20285,11 +20304,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-beGUAYvmjY8Snd+3gVtJhATVeX8J0/DjuxR4URN4Xv8=",
+            "sha256": "sha256-pf7Qx/QCDxCuz+DpNtI7/zwR+VIX/jxjvRfG7W2ltc8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.3.0/file/lf-lang.vscode-lingua-franca-0.3.0.vsix"
+            "url": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.3.1/file/lf-lang.vscode-lingua-franca-0.3.1.vsix"
         },
-        "version": "0.3.0"
+        "version": "0.3.1"
     },
     "lgalabru-clarity-lsp": {
         "cargoLocks": null,
@@ -22261,11 +22280,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Yqt11dSx15aFCAx7IZhT4KUloFqrkpwkRJzmJjFC0mI=",
+            "sha256": "sha256-mpjPzRFdgXFaIpwWzL0C/0QTyanERN8VAG9Op3pbGQA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.2/file/mrakgr.spiral-lang-vscode-2.2.2.vsix"
+            "url": "https://open-vsx.org/api/mrakgr/spiral-lang-vscode/2.2.3/file/mrakgr.spiral-lang-vscode-2.2.3.vsix"
         },
-        "version": "2.2.2"
+        "version": "2.2.3"
     },
     "mrcrowl-easy-less": {
         "cargoLocks": null,
