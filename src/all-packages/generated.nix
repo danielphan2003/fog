@@ -188,13 +188,13 @@
   };
   bling = {
     pname = "bling";
-    version = "e384951c321420dcaada7ad4381a644f2c7eea83";
+    version = "70c894e58bb88dea55e9799ad373fdaea309da9e";
     src = fetchFromGitHub ({
       owner = "BlingCorp";
       repo = "bling";
-      rev = "e384951c321420dcaada7ad4381a644f2c7eea83";
+      rev = "70c894e58bb88dea55e9799ad373fdaea309da9e";
       fetchSubmodules = false;
-      sha256 = "sha256-P725jMxPK7TOhLvvwQyyJBSOU48EDQeXIfcuweq6TUw=";
+      sha256 = "sha256-sUUMgdAmXAB/2ocwoo2OTZlWRbSRLdKi1oZB20qRNWU=";
     });
   };
   bottles = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "eb36c35ebf8bc5c0a7cded50d532a007182f0f48";
+    version = "34a18f64e87869da5863d624b2d4d6dc884c1b78";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "eb36c35ebf8bc5c0a7cded50d532a007182f0f48";
+      rev = "34a18f64e87869da5863d624b2d4d6dc884c1b78";
       fetchSubmodules = false;
-      sha256 = "sha256-GyS7aMihIFD6cadLfursDG7k0FRxI5ApWzeVT0f+Jr4=";
+      sha256 = "sha256-IsFNBIKIiAC929+O28Yf7wGfPLfdTOhgh9AZeXBtrmE=";
     });
   };
   revanced-cli = {
