@@ -1707,10 +1707,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "6.0.6";
+    version = "7.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.6/file/Ionide.Ionide-fsharp-6.0.6.vsix";
-      sha256 = "sha256-hOs4uOCeiYFGjR7bxcpTeYxNNgDfZFKvjATcLnsfvo4=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.0.0/file/Ionide.Ionide-fsharp-7.0.0.vsix";
+      sha256 = "sha256-QrWYprB9Rf1umu6asuaFRHM5mDKogc/mNNN8TMeNIOY=";
     };
     license = "MIT";
     name = "Ionide-fsharp";
@@ -11415,10 +11415,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.1/file/jeanp413.open-remote-ssh-0.0.1.vsix";
-      sha256 = "sha256-xvuADj0Ur690kXLxW01DGuaHg3sbWYQD3WAI7cesaOA=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.2/file/jeanp413.open-remote-ssh-0.0.2.vsix";
+      sha256 = "sha256-gaZMdrlihqfDt/YShPeV4Ic9SdJwDA6o3AxjwioIxVk=";
     };
     license = "MIT";
     name = "open-remote-ssh";

@@ -2710,11 +2710,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hOs4uOCeiYFGjR7bxcpTeYxNNgDfZFKvjATcLnsfvo4=",
+            "sha256": "sha256-QrWYprB9Rf1umu6asuaFRHM5mDKogc/mNNN8TMeNIOY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/6.0.6/file/Ionide.Ionide-fsharp-6.0.6.vsix"
+            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.0.0/file/Ionide.Ionide-fsharp-7.0.0.vsix"
         },
-        "version": "6.0.6"
+        "version": "7.0.0"
     },
     "IronGeek-vscode-darklight": {
         "cargoLocks": null,
@@ -18081,11 +18081,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xvuADj0Ur690kXLxW01DGuaHg3sbWYQD3WAI7cesaOA=",
+            "sha256": "sha256-gaZMdrlihqfDt/YShPeV4Ic9SdJwDA6o3AxjwioIxVk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.1/file/jeanp413.open-remote-ssh-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.2/file/jeanp413.open-remote-ssh-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
