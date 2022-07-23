@@ -940,18 +940,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.21.1";
+    version = "2.21.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.dex";
-      sha256 = "sha256-t2sPi1P3OxAfEH2O+I286thdsY16CCGWvTHk9Q3OdIo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.2/revanced-patches-2.21.2.dex";
+      sha256 = "sha256-z0oZ5NDD/rLYUeafi4Ecj/QBwX7Kz8vvTpnBqS7gZ4o=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.21.1";
+    version = "2.21.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.jar";
-      sha256 = "sha256-JxzT3R1nWhsyOsaGNQWZq0Bt3fDV4XRzP60hQvj+1/M=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.2/revanced-patches-2.21.2.jar";
+      sha256 = "sha256-zA5HUrEFfFRbEdc2mOJElv2E7EhPuXlNOLdw8Iqr7Oo=";
     };
   };
   rofi-wayland = {
@@ -1191,16 +1191,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "7628ad2d9030287f1590e087b892f96ef3794333";
+    version = "19d6395cb9e0e20aea5bf938f0330fa890acd906";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "7628ad2d9030287f1590e087b892f96ef3794333";
+      rev = "19d6395cb9e0e20aea5bf938f0330fa890acd906";
       fetchSubmodules = false;
-      sha256 = "sha256-VQW01j2RxhLUx59LAopZEdA7TyZBsJrF1Ym3LumvFqA=";
+      sha256 = "sha256-Q9aIwATmZNOaskosdXgUlmZMIr/V/dxd8H16B4CtPt4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-7628ad2d9030287f1590e087b892f96ef3794333/Cargo.lock;
+      lockFile = ./swhkd-19d6395cb9e0e20aea5bf938f0330fa890acd906/Cargo.lock;
       outputHashes = {
         
       };

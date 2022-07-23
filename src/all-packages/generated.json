@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-t2sPi1P3OxAfEH2O+I286thdsY16CCGWvTHk9Q3OdIo=",
+            "sha256": "sha256-z0oZ5NDD/rLYUeafi4Ecj/QBwX7Kz8vvTpnBqS7gZ4o=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.2/revanced-patches-2.21.2.dex"
         },
-        "version": "2.21.1"
+        "version": "2.21.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1584,11 +1584,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JxzT3R1nWhsyOsaGNQWZq0Bt3fDV4XRzP60hQvj+1/M=",
+            "sha256": "sha256-zA5HUrEFfFRbEdc2mOJElv2E7EhPuXlNOLdw8Iqr7Oo=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.2/revanced-patches-2.21.2.jar"
         },
-        "version": "2.21.1"
+        "version": "2.21.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1973,7 +1973,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-7628ad2d9030287f1590e087b892f96ef3794333/Cargo.lock",
+                "./swhkd-19d6395cb9e0e20aea5bf938f0330fa890acd906/Cargo.lock",
                 {}
             ]
         },
@@ -1988,11 +1988,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "7628ad2d9030287f1590e087b892f96ef3794333",
-            "sha256": "sha256-VQW01j2RxhLUx59LAopZEdA7TyZBsJrF1Ym3LumvFqA=",
+            "rev": "19d6395cb9e0e20aea5bf938f0330fa890acd906",
+            "sha256": "sha256-Q9aIwATmZNOaskosdXgUlmZMIr/V/dxd8H16B4CtPt4=",
             "type": "github"
         },
-        "version": "7628ad2d9030287f1590e087b892f96ef3794333"
+        "version": "19d6395cb9e0e20aea5bf938f0330fa890acd906"
     },
     "tailscale": {
         "cargoLocks": null,
