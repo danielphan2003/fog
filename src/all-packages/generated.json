@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-23f9af35bf4e7d125e7fedc1539ba01320dc7f52/Cargo.lock",
+                "./asusctl-1fc12d98557781e3355c5fc822d825af21f4e0e1/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "23f9af35bf4e7d125e7fedc1539ba01320dc7f52",
-            "sha256": "sha256-CJogEtFBu0s4/HY6cjWRHmmnp/LLwowF325DS6Qr8Ms=",
+            "rev": "1fc12d98557781e3355c5fc822d825af21f4e0e1",
+            "sha256": "sha256-sgwMcE98FEEp9qGeCRH+Z+IItgohph19fZ8UpJhrx6A=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "23f9af35bf4e7d125e7fedc1539ba01320dc7f52"
+        "version": "1fc12d98557781e3355c5fc822d825af21f4e0e1"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1774,12 +1774,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f13f4e590370317f4f3a16f128ad4b94f8d43f2f",
-            "sha256": "sha256-vX8wIOO23Ec+Z+ws66ZbZHgopZliq/MJt18/FQKcLSQ=",
+            "rev": "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d",
+            "sha256": "sha256-mJnIdFaRCQdsRNyR1QJ/ZZJ3xhrBzbWPcPSFk+g1XIQ=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "f13f4e590370317f4f3a16f128ad4b94f8d43f2f"
+        "version": "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d"
     },
     "spicetify-cli": {
         "cargoLocks": null,

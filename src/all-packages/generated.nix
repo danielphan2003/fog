@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "23f9af35bf4e7d125e7fedc1539ba01320dc7f52";
+    version = "1fc12d98557781e3355c5fc822d825af21f4e0e1";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "23f9af35bf4e7d125e7fedc1539ba01320dc7f52";
+      rev = "1fc12d98557781e3355c5fc822d825af21f4e0e1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-CJogEtFBu0s4/HY6cjWRHmmnp/LLwowF325DS6Qr8Ms=";
+      sha256 = "sha256-sgwMcE98FEEp9qGeCRH+Z+IItgohph19fZ8UpJhrx6A=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-23f9af35bf4e7d125e7fedc1539ba01320dc7f52/Cargo.lock;
+      lockFile = ./asusctl-1fc12d98557781e3355c5fc822d825af21f4e0e1/Cargo.lock;
       outputHashes = {
         
       };
@@ -1062,14 +1062,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f13f4e590370317f4f3a16f128ad4b94f8d43f2f";
+    version = "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f13f4e590370317f4f3a16f128ad4b94f8d43f2f";
+      rev = "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-vX8wIOO23Ec+Z+ws66ZbZHgopZliq/MJt18/FQKcLSQ=";
+      sha256 = "sha256-mJnIdFaRCQdsRNyR1QJ/ZZJ3xhrBzbWPcPSFk+g1XIQ=";
     };
   };
   spicetify-cli = {
