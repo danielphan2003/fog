@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qAR/jVD+Wi+G9GXBksv7RkedmDLD6vu0XSzqDu2zg+Q=",
+            "sha256": "sha256-t2sPi1P3OxAfEH2O+I286thdsY16CCGWvTHk9Q3OdIo=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.0/revanced-patches-2.21.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.dex"
         },
-        "version": "2.21.0"
+        "version": "2.21.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1584,11 +1584,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WTPpqEo06VmfEAZV91pHsVWsFRSutEGys/zsfYemgX8=",
+            "sha256": "sha256-JxzT3R1nWhsyOsaGNQWZq0Bt3fDV4XRzP60hQvj+1/M=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.0/revanced-patches-2.21.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.jar"
         },
-        "version": "2.21.0"
+        "version": "2.21.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1774,12 +1774,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "22747fc3dcbfba1b131672bf48c4db21099bc5b9",
-            "sha256": "sha256-6FvqDU8oqOrRepXPMCualPMjiNzlcSsPddQAwAl0Hx4=",
+            "rev": "2c59d0ee47e27335a449ec28d726afb1e92e44ff",
+            "sha256": "sha256-ye7r3Fuu/hKpw+nmjCdPrSQFtqvSOWx9TgRaL5CCvLE=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "22747fc3dcbfba1b131672bf48c4db21099bc5b9"
+        "version": "2c59d0ee47e27335a449ec28d726afb1e92e44ff"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -2073,11 +2073,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "bb2ebc1fa5092fb97ae8fa11b26b76198942bd07",
-            "sha256": "sha256-a1QJeKuXbM2U/5sp7eujiEAnBnIO9GHhbF1pFlseo3Q=",
+            "rev": "503a70b9ec1ef0ca913a1d028a2660e921cee0d6",
+            "sha256": "sha256-2MHcRS8ubPR60KtWDMPG04yY0dd12n5xa3qBUD2IuDY=",
             "type": "github"
         },
-        "version": "bb2ebc1fa5092fb97ae8fa11b26b76198942bd07"
+        "version": "503a70b9ec1ef0ca913a1d028a2660e921cee0d6"
     },
     "ultimmc": {
         "cargoLocks": null,

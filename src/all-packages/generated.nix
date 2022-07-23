@@ -940,18 +940,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.21.0";
+    version = "2.21.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.0/revanced-patches-2.21.0.dex";
-      sha256 = "sha256-qAR/jVD+Wi+G9GXBksv7RkedmDLD6vu0XSzqDu2zg+Q=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.dex";
+      sha256 = "sha256-t2sPi1P3OxAfEH2O+I286thdsY16CCGWvTHk9Q3OdIo=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.21.0";
+    version = "2.21.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.0/revanced-patches-2.21.0.jar";
-      sha256 = "sha256-WTPpqEo06VmfEAZV91pHsVWsFRSutEGys/zsfYemgX8=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.1/revanced-patches-2.21.1.jar";
+      sha256 = "sha256-JxzT3R1nWhsyOsaGNQWZq0Bt3fDV4XRzP60hQvj+1/M=";
     };
   };
   rofi-wayland = {
@@ -1062,14 +1062,14 @@
   };
   snui = {
     pname = "snui";
-    version = "22747fc3dcbfba1b131672bf48c4db21099bc5b9";
+    version = "2c59d0ee47e27335a449ec28d726afb1e92e44ff";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "22747fc3dcbfba1b131672bf48c4db21099bc5b9";
+      rev = "2c59d0ee47e27335a449ec28d726afb1e92e44ff";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-6FvqDU8oqOrRepXPMCualPMjiNzlcSsPddQAwAl0Hx4=";
+      sha256 = "sha256-ye7r3Fuu/hKpw+nmjCdPrSQFtqvSOWx9TgRaL5CCvLE=";
     };
   };
   spicetify-cli = {
@@ -1246,13 +1246,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "bb2ebc1fa5092fb97ae8fa11b26b76198942bd07";
+    version = "503a70b9ec1ef0ca913a1d028a2660e921cee0d6";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "bb2ebc1fa5092fb97ae8fa11b26b76198942bd07";
+      rev = "503a70b9ec1ef0ca913a1d028a2660e921cee0d6";
       fetchSubmodules = false;
-      sha256 = "sha256-a1QJeKuXbM2U/5sp7eujiEAnBnIO9GHhbF1pFlseo3Q=";
+      sha256 = "sha256-2MHcRS8ubPR60KtWDMPG04yY0dd12n5xa3qBUD2IuDY=";
     });
   };
   ultimmc = {
