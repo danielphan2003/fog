@@ -20559,10 +20559,10 @@
   };
   ultram4rine-sqltools-clickhouse-driver = {
     pname = "ultram4rine-sqltools-clickhouse-driver";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.2/file/ultram4rine.sqltools-clickhouse-driver-0.2.2.vsix";
-      sha256 = "sha256-dvJl+KXd/gxD9SRDSqSS6+NfoEWbwrKQ+cA0mDwOxqM=";
+      url = "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.3/file/ultram4rine.sqltools-clickhouse-driver-0.2.3.vsix";
+      sha256 = "sha256-OUT80weVkCmlam/o5w79Vw/k/LBP6Bq5pVn2M0ajv5Q=";
     };
     license = "MIT";
     name = "sqltools-clickhouse-driver";

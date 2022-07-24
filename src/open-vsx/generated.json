@@ -32559,11 +32559,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dvJl+KXd/gxD9SRDSqSS6+NfoEWbwrKQ+cA0mDwOxqM=",
+            "sha256": "sha256-OUT80weVkCmlam/o5w79Vw/k/LBP6Bq5pVn2M0ajv5Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.2/file/ultram4rine.sqltools-clickhouse-driver-0.2.2.vsix"
+            "url": "https://open-vsx.org/api/ultram4rine/sqltools-clickhouse-driver/0.2.3/file/ultram4rine.sqltools-clickhouse-driver-0.2.3.vsix"
         },
-        "version": "0.2.2"
+        "version": "0.2.3"
     },
     "ultram4rine-vscode-choosealicense": {
         "cargoLocks": null,
