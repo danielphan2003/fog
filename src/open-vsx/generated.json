@@ -5598,11 +5598,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mQARFOcgc/flLdBOXPf3V3KJMfRBdSeqzwNh27ERSIk=",
+            "sha256": "sha256-fIw+8PKaOej1Fygkr0J7xt90iedwoEbSKXoH+K7MKTM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.60/file/TI.devspacesplus-0.0.60.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.64/file/TI.devspacesplus-0.0.64.vsix"
         },
-        "version": "0.0.60"
+        "version": "0.0.64"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -18841,11 +18841,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-q0iNNOCIlV5eIsgtvjVPQXGUhjZCes0u7ZGUvX1YkCQ=",
+            "sha256": "sha256-axchmTLGOEy/Fu8gO+y6p/gjj9m6+H1V9znzCdZsvxA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/julialang/language-julia/1.6.24/file/julialang.language-julia-1.6.24.vsix"
+            "url": "https://open-vsx.org/api/julialang/language-julia/1.6.28/file/julialang.language-julia-1.6.28.vsix"
         },
-        "version": "1.6.24"
+        "version": "1.6.28"
     },
     "julialang-language-julia-insider": {
         "cargoLocks": null,
@@ -37062,11 +37062,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3yMnrZQipN/b3KvHutdbqTKvMfiQakc7bTptrt5fRQc=",
+            "sha256": "sha256-8tCMvl3FIos6VuD/pUu63UKBWP5BAKV//3PyfeI9ANQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.17/file/zardoy.vetur-extended-0.0.17.vsix"
+            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.18/file/zardoy.vetur-extended-0.0.18.vsix"
         },
-        "version": "0.0.17"
+        "version": "0.0.18"
     },
     "zardoy-vscode-terminal-code-runner": {
         "cargoLocks": null,

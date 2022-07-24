@@ -3531,10 +3531,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.60";
+    version = "0.0.64";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.60/file/TI.devspacesplus-0.0.60.vsix";
-      sha256 = "sha256-mQARFOcgc/flLdBOXPf3V3KJMfRBdSeqzwNh27ERSIk=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.64/file/TI.devspacesplus-0.0.64.vsix";
+      sha256 = "sha256-fIw+8PKaOej1Fygkr0J7xt90iedwoEbSKXoH+K7MKTM=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -11895,10 +11895,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.24";
+    version = "1.6.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.24/file/julialang.language-julia-1.6.24.vsix";
-      sha256 = "sha256-q0iNNOCIlV5eIsgtvjVPQXGUhjZCes0u7ZGUvX1YkCQ=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.28/file/julialang.language-julia-1.6.28.vsix";
+      sha256 = "sha256-axchmTLGOEy/Fu8gO+y6p/gjj9m6+H1V9znzCdZsvxA=";
     };
     license = "MIT";
     name = "language-julia";
@@ -23403,10 +23403,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.17";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.17/file/zardoy.vetur-extended-0.0.17.vsix";
-      sha256 = "sha256-3yMnrZQipN/b3KvHutdbqTKvMfiQakc7bTptrt5fRQc=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.18/file/zardoy.vetur-extended-0.0.18.vsix";
+      sha256 = "sha256-8tCMvl3FIos6VuD/pUu63UKBWP5BAKV//3PyfeI9ANQ=";
     };
     license = "MIT";
     name = "vetur-extended";
