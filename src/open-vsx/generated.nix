@@ -5485,6 +5485,18 @@
     description = "Give extra stash abilities to Code. Visually browse stashes, review and extract changes. Get all stash commands and more.";
     publisher = "arturock";
   };
+  aryan02420-debugadapter-evaluate = {
+    pname = "aryan02420-debugadapter-evaluate";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/aryan02420/debugadapter-evaluate/0.0.1/file/aryan02420.debugadapter-evaluate-0.0.1.vsix";
+      sha256 = "sha256-Q0eZQBFUQi8txpz9zB9J2/GoHjB4gSckSXzpKC9vnho=";
+    };
+    license = "MIT";
+    name = "debugadapter-evaluate";
+    description = "Run commands and evaluate expressions in Debug Console from tasks.json";
+    publisher = "aryan02420";
+  };
   arzg-apprentice = {
     pname = "arzg-apprentice";
     version = "1.2.0";
@@ -20643,14 +20655,14 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.2.2";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.2.2/file/usernamehw.commands-1.2.2.vsix";
-      sha256 = "sha256-hwYc171ceejp3eaZHtTgC65vtfsp0JjZ09THZJMey9I=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.3.0/file/usernamehw.commands-1.3.0.vsix";
+      sha256 = "sha256-5PFWqwNLoW4KuTBvjoVdqsPlkD4mmL0A7rUdK3TeKNs=";
     };
     license = "MIT";
     name = "commands";
-    description = "Run commands from Tree View / Status Bar / Quick Pick.";
+    description = "Run one/multiple commands with arguments from Tree View / Status Bar / Quick Pick.";
     publisher = "usernamehw";
   };
   usernamehw-errorlens = {

@@ -8682,6 +8682,25 @@
         },
         "version": "5.1.0"
     },
+    "aryan02420-debugadapter-evaluate": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "aryan02420-debugadapter-evaluate",
+        "passthru": {
+            "description": "Run commands and evaluate expressions in Debug Console from tasks.json",
+            "license": "MIT",
+            "name": "debugadapter-evaluate",
+            "publisher": "aryan02420"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Q0eZQBFUQi8txpz9zB9J2/GoHjB4gSckSXzpKC9vnho=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/aryan02420/debugadapter-evaluate/0.0.1/file/aryan02420.debugadapter-evaluate-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "arzg-apprentice": {
         "cargoLocks": null,
         "extract": null,
@@ -32684,7 +32703,7 @@
         "extract": null,
         "name": "usernamehw-commands",
         "passthru": {
-            "description": "Run commands from Tree View / Status Bar / Quick Pick.",
+            "description": "Run one/multiple commands with arguments from Tree View / Status Bar / Quick Pick.",
             "license": "MIT",
             "name": "commands",
             "publisher": "usernamehw"
@@ -32692,11 +32711,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hwYc171ceejp3eaZHtTgC65vtfsp0JjZ09THZJMey9I=",
+            "sha256": "sha256-5PFWqwNLoW4KuTBvjoVdqsPlkD4mmL0A7rUdK3TeKNs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/commands/1.2.2/file/usernamehw.commands-1.2.2.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/commands/1.3.0/file/usernamehw.commands-1.3.0.vsix"
         },
-        "version": "1.2.2"
+        "version": "1.3.0"
     },
     "usernamehw-errorlens": {
         "cargoLocks": null,
