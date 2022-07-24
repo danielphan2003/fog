@@ -5674,11 +5674,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JaGX/RcKAEPEYWO1cStc2YskgE5Sjg/IdSQpYhn5nUE=",
+            "sha256": "sha256-tbJswd2U8b8iJLeIYbPPGaFJuYdraHbdUuz5x8h78gs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.4/file/TabNine.tabnine-vscode-3.6.4.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.5/file/TabNine.tabnine-vscode-3.6.5.vsix"
         },
-        "version": "3.6.4"
+        "version": "3.6.5"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
