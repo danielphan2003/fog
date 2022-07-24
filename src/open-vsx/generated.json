@@ -17872,11 +17872,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-66jioCuEq0V74QSt+z783Xx3KB6GsWJnB53stNQvrag=",
+            "sha256": "sha256-CX4l2/t5pgfnKE7GgLmaxnH5XDegZXa9N9W19Ev2YX8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jarusll/class-browser/0.0.6/file/jarusll.class-browser-0.0.6.vsix"
+            "url": "https://open-vsx.org/api/jarusll/class-browser/1.0.0/file/jarusll.class-browser-1.0.0.vsix"
         },
-        "version": "0.0.6"
+        "version": "1.0.0"
     },
     "jasonlhy-hungry-delete": {
         "cargoLocks": null,
