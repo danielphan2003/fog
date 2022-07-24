@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "b93a799031f45cd66897807eb7286b6922014f3a";
+    version = "6419f85bba1b482b81f25ff7bdf566caf50028f6";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "b93a799031f45cd66897807eb7286b6922014f3a";
+      rev = "6419f85bba1b482b81f25ff7bdf566caf50028f6";
       fetchSubmodules = false;
-      sha256 = "sha256-p+awmRIVXTXIR2SdmrUGgnLA7xMQgg9uT4dCgaTkG/A=";
+      sha256 = "sha256-wmWjBxWh+OeJqBcMl3PqCSfvemgqZyZdjekBEJiBRFk=";
     });
   };
   caddy = {
@@ -932,26 +932,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.27.6";
+    version = "0.28.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.27.6/app-release-unsigned.apk";
-      sha256 = "sha256-5JGFCXbXKfuFlMwLTsHdHbmKHOlaslofQJCPfzBanHw=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.28.0/app-release-unsigned.apk";
+      sha256 = "sha256-oMq3r+x3hoXuB/OMet0lAMNMJTNWFEpvJ5KF1QY5wWA=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.21.3";
+    version = "2.22.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.3/revanced-patches-2.21.3.dex";
-      sha256 = "sha256-SEu3WzvLpBCkBOisuSpBciBPMrpnqcNJHvAxMIeNkj4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.0/revanced-patches-2.22.0.dex";
+      sha256 = "sha256-6IXM5zUYP/RU6eQGSwSA/Jsjj80Qxc9K5a7+13EIjq4=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.21.3";
+    version = "2.22.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.21.3/revanced-patches-2.21.3.jar";
-      sha256 = "sha256-+F/EYUQOeaZ2gWwzw9SRl2Z1EKu8C/fgAnpfoVGPXfY=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.0/revanced-patches-2.22.0.jar";
+      sha256 = "sha256-5D/7mTta6xTFg9ywVyfosr42aIZzuP+7IZ+xkoa5b2c=";
     };
   };
   rofi-wayland = {
