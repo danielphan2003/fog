@@ -7527,10 +7527,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.18.3";
+    version = "0.18.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.3/file/cyrusfirheir.twee3-language-tools-0.18.3.vsix";
-      sha256 = "sha256-fg97cYkw1DVtAQKADvwzo2mGfRcg2wOcwxVD8NGzfP4=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.4/file/cyrusfirheir.twee3-language-tools-0.18.4.vsix";
+      sha256 = "sha256-v4VXP7vVOyH6XhRTv8Gz/YWsrBZtnDXU7avnvC61bck=";
     };
     license = "MIT";
     name = "twee3-language-tools";
@@ -10923,10 +10923,10 @@
   };
   ilingu-standup-extension = {
     pname = "ilingu-standup-extension";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.2/file/ilingu.standup-extension-0.1.2.vsix";
-      sha256 = "sha256-cOM3TBh9xWgz4uZ2gwMZ7iQVFSTZDhLzmxeUMAk9k+4=";
+      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.3/file/ilingu.standup-extension-0.1.3.vsix";
+      sha256 = "sha256-h9f+upFiHibW41AhCjP2UVtIX+YFrpBHfe/33fmxbAc=";
     };
     license = "MIT";
     name = "standup-extension";
@@ -11295,10 +11295,10 @@
   };
   jarusll-class-browser = {
     pname = "jarusll-class-browser";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jarusll/class-browser/1.0.0/file/jarusll.class-browser-1.0.0.vsix";
-      sha256 = "sha256-CX4l2/t5pgfnKE7GgLmaxnH5XDegZXa9N9W19Ev2YX8=";
+      url = "https://open-vsx.org/api/jarusll/class-browser/1.0.1/file/jarusll.class-browser-1.0.1.vsix";
+      sha256 = "sha256-BZ68ohct508AzZUhJsDYIQdWmVxMkBGRcQ/YVdKtowo=";
     };
     license = "MIT";
     name = "class-browser";
@@ -15471,10 +15471,10 @@
   };
   nokxs-iobroker-javascript = {
     pname = "nokxs-iobroker-javascript";
-    version = "0.13.4";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/0.13.4/file/nokxs.iobroker-javascript-0.13.4.vsix";
-      sha256 = "sha256-VNPs0VB/QgRu1sKZnIXmMNCtOLXG1eqFBVK5ZlbQBII=";
+      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.0.2/file/nokxs.iobroker-javascript-1.0.2.vsix";
+      sha256 = "sha256-gZW546bCHhwF1WBcX7bdQyaQ3fXwAWa1sEoJrHY3d2I=";
     };
     license = "MIT";
     name = "iobroker-javascript";

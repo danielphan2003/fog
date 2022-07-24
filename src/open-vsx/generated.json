@@ -11925,11 +11925,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fg97cYkw1DVtAQKADvwzo2mGfRcg2wOcwxVD8NGzfP4=",
+            "sha256": "sha256-v4VXP7vVOyH6XhRTv8Gz/YWsrBZtnDXU7avnvC61bck=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.3/file/cyrusfirheir.twee3-language-tools-0.18.3.vsix"
+            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.4/file/cyrusfirheir.twee3-language-tools-0.18.4.vsix"
         },
-        "version": "0.18.3"
+        "version": "0.18.4"
     },
     "d-biehl-robotcode": {
         "cargoLocks": null,
@@ -17302,11 +17302,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cOM3TBh9xWgz4uZ2gwMZ7iQVFSTZDhLzmxeUMAk9k+4=",
+            "sha256": "sha256-h9f+upFiHibW41AhCjP2UVtIX+YFrpBHfe/33fmxbAc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.2/file/ilingu.standup-extension-0.1.2.vsix"
+            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.3/file/ilingu.standup-extension-0.1.3.vsix"
         },
-        "version": "0.1.2"
+        "version": "0.1.3"
     },
     "iljapostnovs-ui5plugin": {
         "cargoLocks": null,
@@ -17891,11 +17891,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CX4l2/t5pgfnKE7GgLmaxnH5XDegZXa9N9W19Ev2YX8=",
+            "sha256": "sha256-BZ68ohct508AzZUhJsDYIQdWmVxMkBGRcQ/YVdKtowo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jarusll/class-browser/1.0.0/file/jarusll.class-browser-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/jarusll/class-browser/1.0.1/file/jarusll.class-browser-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "jasonlhy-hungry-delete": {
         "cargoLocks": null,
@@ -24503,11 +24503,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VNPs0VB/QgRu1sKZnIXmMNCtOLXG1eqFBVK5ZlbQBII=",
+            "sha256": "sha256-gZW546bCHhwF1WBcX7bdQyaQ3fXwAWa1sEoJrHY3d2I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/0.13.4/file/nokxs.iobroker-javascript-0.13.4.vsix"
+            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.0.2/file/nokxs.iobroker-javascript-1.0.2.vsix"
         },
-        "version": "0.13.4"
+        "version": "1.0.2"
     },
     "nonoroazoro-syncing": {
         "cargoLocks": null,
