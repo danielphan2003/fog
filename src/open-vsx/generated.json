@@ -1703,11 +1703,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1odR9V3VN1a3dxwzysp/co5TI+4mIBHXQK5j/GTT75Q=",
+            "sha256": "sha256-ILhhHY7Y/kQDJ5HW57sbTlyibdKPVRCZQEgv4NPtYZE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.1/file/F5DevCentral.vscode-f5-3.7.1.vsix"
+            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.2/file/F5DevCentral.vscode-f5-3.8.2.vsix"
         },
-        "version": "3.7.1"
+        "version": "3.8.2"
     },
     "F5DevCentral-vscode-f5-chariot": {
         "cargoLocks": null,
@@ -5598,11 +5598,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fIw+8PKaOej1Fygkr0J7xt90iedwoEbSKXoH+K7MKTM=",
+            "sha256": "sha256-t36c5C37AqXSnbxyP+732qAKAI52ypQXBhda6qERT8s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.64/file/TI.devspacesplus-0.0.64.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.66/file/TI.devspacesplus-0.0.66.vsix"
         },
-        "version": "0.0.64"
+        "version": "0.0.66"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -36041,6 +36041,25 @@
             "url": "https://open-vsx.org/api/wicked-labs/wvsc-serendipity/0.101.0/file/wicked-labs.wvsc-serendipity-0.101.0.vsix"
         },
         "version": "0.101.0"
+    },
+    "wildberries-theme-wildberries": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wildberries-theme-wildberries",
+        "passthru": {
+            "description": "A dark theme for purple lovers",
+            "license": "MIT",
+            "name": "wildberries",
+            "publisher": "wildberries-theme"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2ZWsUBY/f0TDRWIuhAAZL1eZTdheH6i4YozgJlH0+mM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wildberries-theme/wildberries/0.0.1/file/wildberries-theme.wildberries-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "wingrunr21-vscode-ruby": {
         "cargoLocks": null,

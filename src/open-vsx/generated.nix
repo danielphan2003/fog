@@ -1071,10 +1071,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.7.1";
+    version = "3.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.7.1/file/F5DevCentral.vscode-f5-3.7.1.vsix";
-      sha256 = "sha256-1odR9V3VN1a3dxwzysp/co5TI+4mIBHXQK5j/GTT75Q=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.2/file/F5DevCentral.vscode-f5-3.8.2.vsix";
+      sha256 = "sha256-ILhhHY7Y/kQDJ5HW57sbTlyibdKPVRCZQEgv4NPtYZE=";
     };
     license = "Apache-2.0";
     name = "vscode-f5";
@@ -3531,10 +3531,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.64";
+    version = "0.0.66";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.64/file/TI.devspacesplus-0.0.64.vsix";
-      sha256 = "sha256-fIw+8PKaOej1Fygkr0J7xt90iedwoEbSKXoH+K7MKTM=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.66/file/TI.devspacesplus-0.0.66.vsix";
+      sha256 = "sha256-t36c5C37AqXSnbxyP+732qAKAI52ypQXBhda6qERT8s=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -22764,6 +22764,18 @@
     name = "wvsc-serendipity";
     description = "Elegant, minimal, and clean color palette to give your eyes rest on different interfaces.";
     publisher = "wicked-labs";
+  };
+  wildberries-theme-wildberries = {
+    pname = "wildberries-theme-wildberries";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wildberries-theme/wildberries/0.0.1/file/wildberries-theme.wildberries-0.0.1.vsix";
+      sha256 = "sha256-2ZWsUBY/f0TDRWIuhAAZL1eZTdheH6i4YozgJlH0+mM=";
+    };
+    license = "MIT";
+    name = "wildberries";
+    description = "A dark theme for purple lovers";
+    publisher = "wildberries-theme";
   };
   wingrunr21-vscode-ruby = {
     pname = "wingrunr21-vscode-ruby";
