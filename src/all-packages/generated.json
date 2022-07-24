@@ -683,12 +683,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "9f3754fc2fb75f6a9d8243560945fdb35c03b45d",
-            "sha256": "sha256-Rp1t2XDYukixPPDUnsp0EmuO+iq4Ot2hgMnqEhgVFgI=",
+            "rev": "80f650567134fb6a3169a7dabc02ef269d24bbab",
+            "sha256": "sha256-Be3hfVD7/n8RqqGW+2AyG16SBV0YYJAktVcJJgVKNsw=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "9f3754fc2fb75f6a9d8243560945fdb35c03b45d"
+        "version": "80f650567134fb6a3169a7dabc02ef269d24bbab"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -784,11 +784,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "92d1d21a3d2c5027cb8702274006c24f70df13c6",
-            "sha256": "sha256-HWwPRNwQcNndJ0Dzd8DvXelnA8wmCLqueCSDJNlnVx0=",
+            "rev": "1ddd7ee713cb67459eba9d78f6f2061995ec1f76",
+            "sha256": "sha256-T6ai0xlVbUV7zbbFik6uc0QVSAq1Hy1hYVrXOOkyPsU=",
             "type": "github"
         },
-        "version": "92d1d21a3d2c5027cb8702274006c24f70df13c6"
+        "version": "1ddd7ee713cb67459eba9d78f6f2061995ec1f76"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1774,12 +1774,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d",
-            "sha256": "sha256-mJnIdFaRCQdsRNyR1QJ/ZZJ3xhrBzbWPcPSFk+g1XIQ=",
+            "rev": "87bd5c65761c3899ac2d575701590b17f4653ebe",
+            "sha256": "sha256-9bQ06thoTdi+JZusqCUWhhP0tYQwxm6wWrZ0Z+umnaQ=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d"
+        "version": "87bd5c65761c3899ac2d575701590b17f4653ebe"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -2073,11 +2073,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "503a70b9ec1ef0ca913a1d028a2660e921cee0d6",
-            "sha256": "sha256-2MHcRS8ubPR60KtWDMPG04yY0dd12n5xa3qBUD2IuDY=",
+            "rev": "dce3bb13ea0e7c03242dc40f067e1f3cb1b28180",
+            "sha256": "sha256-mwawTdzdRIRWpThRwu7eHJRBTOyJD7yoWYMIFpA9iEc=",
             "type": "github"
         },
-        "version": "503a70b9ec1ef0ca913a1d028a2660e921cee0d6"
+        "version": "dce3bb13ea0e7c03242dc40f067e1f3cb1b28180"
     },
     "ultimmc": {
         "cargoLocks": null,

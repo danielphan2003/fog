@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "9f3754fc2fb75f6a9d8243560945fdb35c03b45d";
+    version = "80f650567134fb6a3169a7dabc02ef269d24bbab";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "9f3754fc2fb75f6a9d8243560945fdb35c03b45d";
+      rev = "80f650567134fb6a3169a7dabc02ef269d24bbab";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Rp1t2XDYukixPPDUnsp0EmuO+iq4Ot2hgMnqEhgVFgI=";
+      sha256 = "sha256-Be3hfVD7/n8RqqGW+2AyG16SBV0YYJAktVcJJgVKNsw=";
     };
   };
   flyingfox = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "92d1d21a3d2c5027cb8702274006c24f70df13c6";
+    version = "1ddd7ee713cb67459eba9d78f6f2061995ec1f76";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "92d1d21a3d2c5027cb8702274006c24f70df13c6";
+      rev = "1ddd7ee713cb67459eba9d78f6f2061995ec1f76";
       fetchSubmodules = false;
-      sha256 = "sha256-HWwPRNwQcNndJ0Dzd8DvXelnA8wmCLqueCSDJNlnVx0=";
+      sha256 = "sha256-T6ai0xlVbUV7zbbFik6uc0QVSAq1Hy1hYVrXOOkyPsU=";
     });
   };
   ibus = {
@@ -1062,14 +1062,14 @@
   };
   snui = {
     pname = "snui";
-    version = "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d";
+    version = "87bd5c65761c3899ac2d575701590b17f4653ebe";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "1f1d5484145a7ca0b67e8b544dcba1dc44b3a01d";
+      rev = "87bd5c65761c3899ac2d575701590b17f4653ebe";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-mJnIdFaRCQdsRNyR1QJ/ZZJ3xhrBzbWPcPSFk+g1XIQ=";
+      sha256 = "sha256-9bQ06thoTdi+JZusqCUWhhP0tYQwxm6wWrZ0Z+umnaQ=";
     };
   };
   spicetify-cli = {
@@ -1246,13 +1246,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "503a70b9ec1ef0ca913a1d028a2660e921cee0d6";
+    version = "dce3bb13ea0e7c03242dc40f067e1f3cb1b28180";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "503a70b9ec1ef0ca913a1d028a2660e921cee0d6";
+      rev = "dce3bb13ea0e7c03242dc40f067e1f3cb1b28180";
       fetchSubmodules = false;
-      sha256 = "sha256-2MHcRS8ubPR60KtWDMPG04yY0dd12n5xa3qBUD2IuDY=";
+      sha256 = "sha256-mwawTdzdRIRWpThRwu7eHJRBTOyJD7yoWYMIFpA9iEc=";
     });
   };
   ultimmc = {
