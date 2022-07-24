@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-19370215c0235c65b7ba1c5c6f8981ecb666db64/Cargo.lock",
+                "./asusctl-79a45c4f10ee32ec26280d60e66a8bade6dbff4b/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "19370215c0235c65b7ba1c5c6f8981ecb666db64",
-            "sha256": "sha256-v1i7iSro5bUBYfFrVMtgUgpwuh7lzQu3a+H/TT+Fk1o=",
+            "rev": "79a45c4f10ee32ec26280d60e66a8bade6dbff4b",
+            "sha256": "sha256-auaRUiPQXQNAkBlxEEKrx+fX9/VqgevjDz/4Tq4QOXc=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "19370215c0235c65b7ba1c5c6f8981ecb666db64"
+        "version": "79a45c4f10ee32ec26280d60e66a8bade6dbff4b"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1570,11 +1570,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6IXM5zUYP/RU6eQGSwSA/Jsjj80Qxc9K5a7+13EIjq4=",
+            "sha256": "sha256-AcwDoBrS060V+eBtcuBQe7vKGZvvCvWWqBciU4a2Gig=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.0/revanced-patches-2.22.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.1/revanced-patches-2.22.1.dex"
         },
-        "version": "2.22.0"
+        "version": "2.22.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1584,11 +1584,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5D/7mTta6xTFg9ywVyfosr42aIZzuP+7IZ+xkoa5b2c=",
+            "sha256": "sha256-MlGzC15tE/QG+oLHQHhCOotEVESZrp1Y4Hb6zn9u1N8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.0/revanced-patches-2.22.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.1/revanced-patches-2.22.1.jar"
         },
-        "version": "2.22.0"
+        "version": "2.22.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1813,11 +1813,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "a5ac394c9ec062eb58c9f016148f7047c5b96b4f",
-            "sha256": "sha256-Pbi8ookq2HmYoTSkBKdbjJKZZnddLSBF1vpH0XOAweQ=",
+            "rev": "0379732b5f6a5cc688b5198336169c8d9c3b143a",
+            "sha256": "sha256-5qhiDOFflkriRbJoQrhDpClBjVZvhVeS5tSZMBiyONI=",
             "type": "github"
         },
-        "version": "a5ac394c9ec062eb58c9f016148f7047c5b96b4f"
+        "version": "0379732b5f6a5cc688b5198336169c8d9c3b143a"
     },
     "spicetify-themes": {
         "cargoLocks": null,
