@@ -1528,11 +1528,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "34a18f64e87869da5863d624b2d4d6dc884c1b78",
-            "sha256": "sha256-IsFNBIKIiAC929+O28Yf7wGfPLfdTOhgh9AZeXBtrmE=",
+            "rev": "83a7c0d798f51ca4a62d2f6f0a503f919599a8f2",
+            "sha256": "sha256-2LEPPk8cZDicwBVJnqaHkSBTO3XVgipIX156vDOhQGE=",
             "type": "github"
         },
-        "version": "34a18f64e87869da5863d624b2d4d6dc884c1b78"
+        "version": "83a7c0d798f51ca4a62d2f6f0a503f919599a8f2"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2366,11 +2366,11 @@
             "name": null,
             "owner": "freedesktop",
             "repo": "xorg-xorgproto",
-            "rev": "912e050d8df0fc3d034c8b03d8afe37b9ce15402",
-            "sha256": "sha256-vlmrIM9iloxXJFefN1ErsML6AeRWLc/pW9TvFcR3O2w=",
+            "rev": "ede86501a4e051690f698de24a5140fa3a3c0762",
+            "sha256": "sha256-rQnvKs697deIhFW/NRDgMOlFiM4kW1YEBY3+g3mgfck=",
             "type": "github"
         },
-        "version": "912e050d8df0fc3d034c8b03d8afe37b9ce15402"
+        "version": "ede86501a4e051690f698de24a5140fa3a3c0762"
     },
     "xwayland": {
         "cargoLocks": null,
