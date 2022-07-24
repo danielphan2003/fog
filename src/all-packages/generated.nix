@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "1fc12d98557781e3355c5fc822d825af21f4e0e1";
+    version = "19370215c0235c65b7ba1c5c6f8981ecb666db64";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "1fc12d98557781e3355c5fc822d825af21f4e0e1";
+      rev = "19370215c0235c65b7ba1c5c6f8981ecb666db64";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-sgwMcE98FEEp9qGeCRH+Z+IItgohph19fZ8UpJhrx6A=";
+      sha256 = "sha256-v1i7iSro5bUBYfFrVMtgUgpwuh7lzQu3a+H/TT+Fk1o=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-1fc12d98557781e3355c5fc822d825af21f4e0e1/Cargo.lock;
+      lockFile = ./asusctl-19370215c0235c65b7ba1c5c6f8981ecb666db64/Cargo.lock;
       outputHashes = {
         
       };
@@ -463,13 +463,13 @@
   };
   guiscrcpy = {
     pname = "guiscrcpy";
-    version = "d561bd43775250e15e022d043c4e34095a6f572f";
+    version = "e5cdd414655e5bf0eaf2511c9da215b70572957f";
     src = fetchFromGitHub ({
       owner = "srevinsaju";
       repo = "guiscrcpy";
-      rev = "d561bd43775250e15e022d043c4e34095a6f572f";
+      rev = "e5cdd414655e5bf0eaf2511c9da215b70572957f";
       fetchSubmodules = false;
-      sha256 = "sha256-xKlOOXFQOB4Z/E6yJjSwGn9c1v/SD+VBGKvjCUbRaJg=";
+      sha256 = "sha256-27cBznQSxL/uKXbxDPFH0RHYqXm9xq9l3/tkE2ZrhUs=";
     });
   };
   hyprland = {
