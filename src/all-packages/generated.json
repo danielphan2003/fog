@@ -528,11 +528,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "35063a1eece7888ecbd9c4145b9e826c889ec0c8",
-            "sha256": "sha256-RTdQHrcc/fOfIN8XpMKeS3ZPfuoHHQROOaC0nF33HSU=",
+            "rev": "442f2e15cbf58a94ccbebd4299a3b5c3d57f11d3",
+            "sha256": "sha256-s3711Bbnj7AzgqP1HaVy3IvO9T2d/l6UFjCjbY1KTb4=",
             "type": "github"
         },
-        "version": "35063a1eece7888ecbd9c4145b9e826c889ec0c8"
+        "version": "442f2e15cbf58a94ccbebd4299a3b5c3d57f11d3"
     },
     "doggo": {
         "cargoLocks": null,
@@ -666,11 +666,11 @@
             "name": null,
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "rev": "57c8e8d893669cd83d8b279ea3ff6db50b16aa48",
-            "sha256": "sha256-V0taTVCSuVKy0f5gtJ7gRmhkvpZdhLRfoJyTJuk7FFI=",
+            "rev": "3464da752b546b60e5581475dd9bb2f3376f0a20",
+            "sha256": "sha256-Fg1nQ8MVZSpxYSmxtujLaVkbojbz6pd26iLA4G+D9YI=",
             "type": "github"
         },
-        "version": "57c8e8d893669cd83d8b279ea3ff6db50b16aa48"
+        "version": "3464da752b546b60e5581475dd9bb2f3376f0a20"
     },
     "fluffychat": {
         "cargoLocks": null,

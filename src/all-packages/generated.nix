@@ -318,13 +318,13 @@
   };
   dnscrypt-proxy2 = {
     pname = "dnscrypt-proxy2";
-    version = "35063a1eece7888ecbd9c4145b9e826c889ec0c8";
+    version = "442f2e15cbf58a94ccbebd4299a3b5c3d57f11d3";
     src = fetchFromGitHub ({
       owner = "DNSCrypt";
       repo = "dnscrypt-proxy";
-      rev = "35063a1eece7888ecbd9c4145b9e826c889ec0c8";
+      rev = "442f2e15cbf58a94ccbebd4299a3b5c3d57f11d3";
       fetchSubmodules = false;
-      sha256 = "sha256-RTdQHrcc/fOfIN8XpMKeS3ZPfuoHHQROOaC0nF33HSU=";
+      sha256 = "sha256-s3711Bbnj7AzgqP1HaVy3IvO9T2d/l6UFjCjbY1KTb4=";
     });
   };
   doggo = {
@@ -401,13 +401,13 @@
   };
   flameshot = {
     pname = "flameshot";
-    version = "57c8e8d893669cd83d8b279ea3ff6db50b16aa48";
+    version = "3464da752b546b60e5581475dd9bb2f3376f0a20";
     src = fetchFromGitHub ({
       owner = "flameshot-org";
       repo = "flameshot";
-      rev = "57c8e8d893669cd83d8b279ea3ff6db50b16aa48";
+      rev = "3464da752b546b60e5581475dd9bb2f3376f0a20";
       fetchSubmodules = false;
-      sha256 = "sha256-V0taTVCSuVKy0f5gtJ7gRmhkvpZdhLRfoJyTJuk7FFI=";
+      sha256 = "sha256-Fg1nQ8MVZSpxYSmxtujLaVkbojbz6pd26iLA4G+D9YI=";
     });
   };
   fluffychat = {
