@@ -1420,13 +1420,13 @@
   };
   xorgproto = {
     pname = "xorgproto";
-    version = "ede86501a4e051690f698de24a5140fa3a3c0762";
+    version = "a3f847b75025a57b64967d08a299bc752c488aee";
     src = fetchFromGitHub ({
       owner = "freedesktop";
       repo = "xorg-xorgproto";
-      rev = "ede86501a4e051690f698de24a5140fa3a3c0762";
+      rev = "a3f847b75025a57b64967d08a299bc752c488aee";
       fetchSubmodules = false;
-      sha256 = "sha256-rQnvKs697deIhFW/NRDgMOlFiM4kW1YEBY3+g3mgfck=";
+      sha256 = "sha256-wQVBfrcgKSCeEb5hecIbK27qdUBVGZ+dpJNEi6x2DD0=";
     });
   };
   xwayland = {

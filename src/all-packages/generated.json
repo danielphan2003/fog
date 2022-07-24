@@ -2366,11 +2366,11 @@
             "name": null,
             "owner": "freedesktop",
             "repo": "xorg-xorgproto",
-            "rev": "ede86501a4e051690f698de24a5140fa3a3c0762",
-            "sha256": "sha256-rQnvKs697deIhFW/NRDgMOlFiM4kW1YEBY3+g3mgfck=",
+            "rev": "a3f847b75025a57b64967d08a299bc752c488aee",
+            "sha256": "sha256-wQVBfrcgKSCeEb5hecIbK27qdUBVGZ+dpJNEi6x2DD0=",
             "type": "github"
         },
-        "version": "ede86501a4e051690f698de24a5140fa3a3c0762"
+        "version": "a3f847b75025a57b64967d08a299bc752c488aee"
     },
     "xwayland": {
         "cargoLocks": null,
