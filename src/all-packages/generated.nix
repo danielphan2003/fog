@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5441aefb44e08512d6f05d351728c62f36095378";
+    version = "b93a799031f45cd66897807eb7286b6922014f3a";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "5441aefb44e08512d6f05d351728c62f36095378";
+      rev = "b93a799031f45cd66897807eb7286b6922014f3a";
       fetchSubmodules = false;
-      sha256 = "sha256-b5dtrIcuIzH3CmQhr5BKLAcPT0yiRi3ZwMJCfNN0fZY=";
+      sha256 = "sha256-p+awmRIVXTXIR2SdmrUGgnLA7xMQgg9uT4dCgaTkG/A=";
     });
   };
   caddy = {
@@ -412,14 +412,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "48a7cfa2057091bcb0579b3471ef8257b13d3bfc";
+    version = "9f3754fc2fb75f6a9d8243560945fdb35c03b45d";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "48a7cfa2057091bcb0579b3471ef8257b13d3bfc";
+      rev = "9f3754fc2fb75f6a9d8243560945fdb35c03b45d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-47b2iwg9NdnPzLnXg3oFkWbduc04mbkL51ki+gyk5Ko=";
+      sha256 = "sha256-Rp1t2XDYukixPPDUnsp0EmuO+iq4Ot2hgMnqEhgVFgI=";
     };
   };
   flyingfox = {
