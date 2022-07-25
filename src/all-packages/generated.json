@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-409528b2867f700efcb3bbece8244124e2e45b90/Cargo.lock",
+                "./asusctl-2584d69930e615482a756000dd77ab5ff821f6f5/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-s1bntFVDdGqm7V50OsI4V5SXlHfu3ybPWtyBX7yyuWY="
                 }
@@ -211,12 +211,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "409528b2867f700efcb3bbece8244124e2e45b90",
-            "sha256": "sha256-CQa4/+mlfIxXPSkirbJ+llvGY6BCWVILfnVQKAKh5rY=",
+            "rev": "2584d69930e615482a756000dd77ab5ff821f6f5",
+            "sha256": "sha256-H0EvH/UAllMdYXj6P3BJIEmEAdyaIhGYguP9BPv8GsQ=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "409528b2867f700efcb3bbece8244124e2e45b90"
+        "version": "2584d69930e615482a756000dd77ab5ff821f6f5"
     },
     "avizo": {
         "cargoLocks": null,
@@ -340,11 +340,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "d4816d706ae670851e8aff820f2a42d15c7260bb",
-            "sha256": "sha256-eklz9WUxa/AMI3pX8mmmMNzz9vs2Lx0kPQSDAzNDi30=",
+            "rev": "3bb2fa8f72e9d137a81cb9e3e4f704a39470ccee",
+            "sha256": "sha256-qR9fXN/8f5yFmmNkaloVpO5qO6zicpU7T7Ub6vBGJaY=",
             "type": "github"
         },
-        "version": "d4816d706ae670851e8aff820f2a42d15c7260bb"
+        "version": "3bb2fa8f72e9d137a81cb9e3e4f704a39470ccee"
     },
     "caddy": {
         "cargoLocks": null,
@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-b2f60a1f436567bca7bb4c8edd04096c573c4caa/Cargo.lock",
+                "./eww-962c06c0ee33e968c60ef7b1682e9d365a72e74f/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "b2f60a1f436567bca7bb4c8edd04096c573c4caa",
-            "sha256": "sha256-z54zjlAamMFg/dnQ8P9lv/OkQTqFlo9e8Z4Tg5uXC7Y=",
+            "rev": "962c06c0ee33e968c60ef7b1682e9d365a72e74f",
+            "sha256": "sha256-35ao8Xc1mEt8pPs6a0iI2NfKO7Dawq7+ZQ1jS64b1mU=",
             "type": "github"
         },
-        "version": "b2f60a1f436567bca7bb4c8edd04096c573c4caa"
+        "version": "962c06c0ee33e968c60ef7b1682e9d365a72e74f"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
