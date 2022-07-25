@@ -12231,10 +12231,10 @@
   };
   kieler-klighd-vscode = {
     pname = "kieler-klighd-vscode";
-    version = "0.2.1";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kieler/klighd-vscode/0.2.1/file/kieler.klighd-vscode-0.2.1.vsix";
-      sha256 = "sha256-ZOSJPiIn+5LGVtVArOosnoz2vvMoaDuwkCbSvboSeTo=";
+      url = "https://open-vsx.org/api/kieler/klighd-vscode/0.3.0/file/kieler.klighd-vscode-0.3.0.vsix";
+      sha256 = "sha256-lK+wBLIopKv0ggUFdO2T+AjhrBBct2zOvJ2+xJsYe40=";
     };
     license = "EPL-2.0";
     name = "klighd-vscode";
@@ -19635,10 +19635,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.2/file/t-codespaces.ide-code-status-0.1.2.vsix";
-      sha256 = "sha256-tXe4H0GmpX7BOl1hSh9b0MwLM7W+gjhQbjINKdJdLn0=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.3/file/t-codespaces.ide-code-status-0.1.3.vsix";
+      sha256 = "sha256-PNATIo9hnqsFpvqYv1JAkQxEL/MMAqVZs7awymOEQiA=";
     };
     license = "";
     name = "ide-code-status";
