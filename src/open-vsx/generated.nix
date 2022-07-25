@@ -819,10 +819,10 @@
   };
   Desdaemon-vscode-odoo-import = {
     pname = "Desdaemon-vscode-odoo-import";
-    version = "0.1.0";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Desdaemon/vscode-odoo-import/0.1.0/file/Desdaemon.vscode-odoo-import-0.1.0.vsix";
-      sha256 = "sha256-6rApKNucPK8pfmbKLJJUfrpBa+tHMIDkA3PheSXMOkU=";
+      url = "https://open-vsx.org/api/Desdaemon/vscode-odoo-import/0.1.3/file/Desdaemon.vscode-odoo-import-0.1.3.vsix";
+      sha256 = "sha256-UpCjVm2hFssQnKajApH3oLcbkY4axdVwmNcprDocXz0=";
     };
     license = "MIT";
     name = "vscode-odoo-import";
@@ -11043,10 +11043,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.8.0/file/intersystems-community.vscode-objectscript-1.8.0.vsix";
-      sha256 = "sha256-KLVawyy0oJN9Vc1QsS2YNkCNrjrKw8CI+1S00pKo3F0=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.8.1/file/intersystems-community.vscode-objectscript-1.8.1.vsix";
+      sha256 = "sha256-uCkRmgud55NG7sk7o/xFCsdXi5WVFGSAXNDTOGSEp98=";
     };
     license = "MIT";
     name = "vscode-objectscript";
@@ -12747,10 +12747,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.84";
+    version = "0.0.86";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.84/file/leanprover.lean4-0.0.84.vsix";
-      sha256 = "sha256-yfap8ZT/38U3LJAppKzRjqa/KUPVPPltP88vGhHagOk=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.86/file/leanprover.lean4-0.0.86.vsix";
+      sha256 = "sha256-pvwLprKsHU0vKneDMDU94unR1sPQqObq2J9E5qt75hc=";
     };
     license = "Apache-2.0";
     name = "lean4";
