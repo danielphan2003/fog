@@ -221,13 +221,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "a379fa4c6c5d58aa6b812bb21a879ce0944c1ccb";
+    version = "0bebea0d4c0321b9cd59be4b355020a3e28c0bcd";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "a379fa4c6c5d58aa6b812bb21a879ce0944c1ccb";
+      rev = "0bebea0d4c0321b9cd59be4b355020a3e28c0bcd";
       fetchSubmodules = false;
-      sha256 = "sha256-fjdQ6GTiD+hw1jmcMg+0KAmS89rnnwu2ZDyKj2ZFmqo=";
+      sha256 = "sha256-E15ptQoBATGIRjuyPcQ+OagZA3aOJ1MYMImMDq5n1XA=";
     });
   };
   cinny = {
@@ -474,13 +474,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "a0be6e19d8b381d93cfcc614cfa93fb2f6a8e615";
+    version = "b1d3a1deeaabe7b8de7f6fe908b0d57934f3dfeb";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "a0be6e19d8b381d93cfcc614cfa93fb2f6a8e615";
+      rev = "b1d3a1deeaabe7b8de7f6fe908b0d57934f3dfeb";
       fetchSubmodules = false;
-      sha256 = "sha256-9Yea1D3taa+rV755EaI+Nz2ZGB2R9Ot3ZQ0saBEXLFk=";
+      sha256 = "sha256-3eSHLdRmst9OVl7EaVB9GY+a4RFxWxAUrOuF3pPy7jQ=";
     });
   };
   ibus = {
@@ -967,16 +967,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "435ff56e6cb7b66a830a0f033a944d30eaf099ec";
+    version = "4d1d90a09038da9c5003f6c1d59cd27edecb8a4c";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "435ff56e6cb7b66a830a0f033a944d30eaf099ec";
+      rev = "4d1d90a09038da9c5003f6c1d59cd27edecb8a4c";
       fetchSubmodules = false;
-      sha256 = "sha256-m6VJUrZlPux82wEKNtr0ExgikTRWMpuSFKYm1Y5P0QE=";
+      sha256 = "sha256-N1fhZPTvFDMNLeYQbcekoKP/p59k4F3E5deSbvJ9grQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-435ff56e6cb7b66a830a0f033a944d30eaf099ec/Cargo.lock;
+      lockFile = ./rustdesk-4d1d90a09038da9c5003f6c1d59cd27edecb8a4c/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1208,13 +1208,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "904723691bafd15f32c0b998e4e8c8ef908ac516";
+    version = "7fd03ad4b433530d0c15cafa2c9d432a5bc71eb8";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "904723691bafd15f32c0b998e4e8c8ef908ac516";
+      rev = "7fd03ad4b433530d0c15cafa2c9d432a5bc71eb8";
       fetchSubmodules = false;
-      sha256 = "sha256-5UJ5sz6FnCAjBhPi/KJiwPQfWzTBY6oyQTeG9RTx7jI=";
+      sha256 = "sha256-d5DXinJeFBdYGVnFCdLdyhUwr5HCIZco3TDCuJo1b/k=";
     });
   };
   tailscale-systray = {
