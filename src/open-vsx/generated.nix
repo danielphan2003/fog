@@ -5595,10 +5595,10 @@
   };
   arzg-xcode-theme = {
     pname = "arzg-xcode-theme";
-    version = "0.7.9";
+    version = "0.7.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.9/file/arzg.xcode-theme-0.7.9.vsix";
-      sha256 = "sha256-ILUlxmmTrggUG0IMU/L/RezUoUwohx9jmufcFDRuPRQ=";
+      url = "https://open-vsx.org/api/arzg/xcode-theme/0.7.10/file/arzg.xcode-theme-0.7.10.vsix";
+      sha256 = "sha256-Dj4tKBUpcWJHUwu3BwL3POgljW/Yd9no/h/TyrAEq2U=";
     };
     license = "MIT";
     name = "xcode-theme";
@@ -14787,10 +14787,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220720";
+    version = "4.8.20220723";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220720/file/ms-vscode.vscode-typescript-next-4.8.20220720.vsix";
-      sha256 = "sha256-xw75FQOi5i6VCCqHni6mqfGJKpYJG9XNbaV65cNcNdI=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220723/file/ms-vscode.vscode-typescript-next-4.8.20220723.vsix";
+      sha256 = "sha256-Wap9Svnzg9ejEQyQFxCsI25BiwRzuLAu6mG9oFOitBo=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -16215,10 +16215,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "1.5.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/1.5.0/file/phoenisx.cssvar-1.5.0.vsix";
-      sha256 = "sha256-VNdbWillNzmHCadhqOlFN96VWF+aX8kBha80UbBDfrg=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/1.7.0/file/phoenisx.cssvar-1.7.0.vsix";
+      sha256 = "sha256-oD2xRzwxtkjfnkSSNhW5yksKkveB5gkLLMIUlZkWvMk=";
     };
     license = "MIT";
     name = "cssvar";
@@ -21279,10 +21279,10 @@
   };
   vscjava-vscode-spring-initializr = {
     pname = "vscjava-vscode-spring-initializr";
-    version = "0.10.0";
+    version = "0.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.0/file/vscjava.vscode-spring-initializr-0.10.0.vsix";
-      sha256 = "sha256-QHQDDh/a1Oxi5jIKpOVoZiNmKMXPVmLNrXEn/RATogM=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.1/file/vscjava.vscode-spring-initializr-0.10.1.vsix";
+      sha256 = "sha256-Mq7WtVzZgZf7k6tHtWS7TJNuKTsZH3xZ7oRGtQzluyM=";
     };
     license = "MIT";
     name = "vscode-spring-initializr";
