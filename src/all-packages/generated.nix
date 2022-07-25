@@ -1062,14 +1062,14 @@
   };
   snui = {
     pname = "snui";
-    version = "0c590e36cd05b692816c96e5270d689367669211";
+    version = "fac16704aba8a3e521a872dad9922fc60a692231";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "0c590e36cd05b692816c96e5270d689367669211";
+      rev = "fac16704aba8a3e521a872dad9922fc60a692231";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ifZug5LI3RLWY8UpnSoHcBjLPvprqBjOSqQ3PU9Plr8=";
+      sha256 = "sha256-r83dIkocoJL2bPmdRVlDl7A7xd/QaE9KnjhKpVUAUik=";
     };
   };
   spicetify-cli = {
@@ -1191,16 +1191,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "19d6395cb9e0e20aea5bf938f0330fa890acd906";
+    version = "d0f2b4daa153f0169ba46873576ecb98be4e5a7a";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "19d6395cb9e0e20aea5bf938f0330fa890acd906";
+      rev = "d0f2b4daa153f0169ba46873576ecb98be4e5a7a";
       fetchSubmodules = false;
-      sha256 = "sha256-Q9aIwATmZNOaskosdXgUlmZMIr/V/dxd8H16B4CtPt4=";
+      sha256 = "sha256-nlMH4r616+xkGhOqgtCMEJVrSNQMhWHaex+qptT05cM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-19d6395cb9e0e20aea5bf938f0330fa890acd906/Cargo.lock;
+      lockFile = ./swhkd-d0f2b4daa153f0169ba46873576ecb98be4e5a7a/Cargo.lock;
       outputHashes = {
         
       };
