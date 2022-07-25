@@ -88,6 +88,10 @@ fetch.github = "bottlesdevs/Bottles"
 src.github_tag = "caddyserver/caddy"
 fetch.github = "caddyserver/caddy"
 
+[caddy-dist]
+src.github_tag = "caddyserver/dist"
+fetch.github = "caddyserver/dist"
+
 [caddy-git]
 src.git = "https://github.com/caddyserver/caddy"
 fetch.github = "caddyserver/caddy"
