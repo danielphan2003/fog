@@ -12609,11 +12609,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HIwn7ZKsL7OkAKChhYjq8Yfpj0Ywk0AtrY6k+AySdwo=",
+            "sha256": "sha256-ZtbjmFHxnjkEspDxhOA2noGpj2T5QhPQ7h96clqio7E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.104.4/file/dendron.nightly-0.104.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.104.5/file/dendron.nightly-0.104.5.vsix"
         },
-        "version": "0.104.4"
+        "version": "0.104.5"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
