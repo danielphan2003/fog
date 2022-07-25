@@ -12761,11 +12761,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S6HH2Zx+ebYkddxov5YyVimDu577hBhd22yfmQpDemg=",
+            "sha256": "sha256-5hTLSxnJKI4HtJ7613SomXsf2Rp+oRUMhp5iM290ALw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/digma/digma/0.5.34/file/digma.digma-0.5.34.vsix"
+            "url": "https://open-vsx.org/api/digma/digma/0.5.35/file/digma.digma-0.5.35.vsix"
         },
-        "version": "0.5.34"
+        "version": "0.5.35"
     },
     "dineug-vuerd-vscode": {
         "cargoLocks": null,
@@ -31875,11 +31875,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-B+GQRn11STtQeDAHYLM4nbKScHWRgPdLrEJ72WpXU7k=",
+            "sha256": "sha256-Y41JMBHccloFNQzGfs94tI+FBAEUBs1dEE+yLtWlBeE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.0/file/tokiwa-software.fuzion-lang-0.75.0.vsix"
+            "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.1/file/tokiwa-software.fuzion-lang-0.75.1.vsix"
         },
-        "version": "0.75.0"
+        "version": "0.75.1"
     },
     "tomWritesCode-raspberrycandy": {
         "cargoLocks": null,

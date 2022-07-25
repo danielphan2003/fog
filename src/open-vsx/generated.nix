@@ -8055,10 +8055,10 @@
   };
   digma-digma = {
     pname = "digma-digma";
-    version = "0.5.34";
+    version = "0.5.35";
     src = fetchurl {
-      url = "https://open-vsx.org/api/digma/digma/0.5.34/file/digma.digma-0.5.34.vsix";
-      sha256 = "sha256-S6HH2Zx+ebYkddxov5YyVimDu577hBhd22yfmQpDemg=";
+      url = "https://open-vsx.org/api/digma/digma/0.5.35/file/digma.digma-0.5.35.vsix";
+      sha256 = "sha256-5hTLSxnJKI4HtJ7613SomXsf2Rp+oRUMhp5iM290ALw=";
     };
     license = "MIT";
     name = "digma";
@@ -20127,10 +20127,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.75.0";
+    version = "0.75.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.0/file/tokiwa-software.fuzion-lang-0.75.0.vsix";
-      sha256 = "sha256-B+GQRn11STtQeDAHYLM4nbKScHWRgPdLrEJ72WpXU7k=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.1/file/tokiwa-software.fuzion-lang-0.75.1.vsix";
+      sha256 = "sha256-Y41JMBHccloFNQzGfs94tI+FBAEUBs1dEE+yLtWlBeE=";
     };
     license = "MIT";
     name = "fuzion-lang";
