@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "42dc360d161a863fd3256c9909e91272635356ff";
+    version = "808a1d2470376cd60c6092348157eeb97c35c33d";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "42dc360d161a863fd3256c9909e91272635356ff";
+      rev = "808a1d2470376cd60c6092348157eeb97c35c33d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-IeJkVbEbzzupD4V5qkNbws/91J5+gR1MiqXxmfLc5ak=";
+      sha256 = "sha256-s/Gq3RbWXXpaBmjs/Sp2Mh+ah0dUZl+QzutxpluN+tI=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-42dc360d161a863fd3256c9909e91272635356ff/Cargo.lock;
+      lockFile = ./asusctl-808a1d2470376cd60c6092348157eeb97c35c33d/Cargo.lock;
       outputHashes = {
         
       };
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ddd9544a4fb1b88dbe2162f27b22576a656804a0";
+    version = "a6a4b845a4eb9f281a40c24812faf0172a33f982";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ddd9544a4fb1b88dbe2162f27b22576a656804a0";
+      rev = "a6a4b845a4eb9f281a40c24812faf0172a33f982";
       fetchSubmodules = false;
-      sha256 = "sha256-BAtFVBG1161McQ3bufoLFP0gV9qPaDU4lJftq+3m3y4=";
+      sha256 = "sha256-eA5eakQ2AFjmtAABPqx719G9J0x3g24NwqAkXf7WHGQ=";
     });
   };
   revanced-cli = {
@@ -1096,13 +1096,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "e466bf82db281ccd4ef9691fcc47a1f61de77d12";
+    version = "b5ac54f5f793c4a9a4b2d5185fe4b75a2872a684";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "e466bf82db281ccd4ef9691fcc47a1f61de77d12";
+      rev = "b5ac54f5f793c4a9a4b2d5185fe4b75a2872a684";
       fetchSubmodules = false;
-      sha256 = "sha256-72ag8DB8TpR9zdpj5vBlAyrhDHwu4Ti25BxqNCNoWEw=";
+      sha256 = "sha256-KPpuoj5/sdHgnzKHBWt6RIDvaPbiotYZNLbKYgODL/E=";
     });
   };
   spotify = {
