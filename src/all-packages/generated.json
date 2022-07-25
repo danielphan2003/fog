@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-f6183597c9a8ae03a1e492bfc5db3133252df8c4/Cargo.lock",
+                "./asusctl-42dc360d161a863fd3256c9909e91272635356ff/Cargo.lock",
                 {}
             ]
         },
@@ -209,12 +209,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f6183597c9a8ae03a1e492bfc5db3133252df8c4",
-            "sha256": "sha256-0PJMQrqoFAZHcD+KNv0DOaGBN1jpyyXgSLgEBwnDUlo=",
+            "rev": "42dc360d161a863fd3256c9909e91272635356ff",
+            "sha256": "sha256-IeJkVbEbzzupD4V5qkNbws/91J5+gR1MiqXxmfLc5ak=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "f6183597c9a8ae03a1e492bfc5db3133252df8c4"
+        "version": "42dc360d161a863fd3256c9909e91272635356ff"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1528,11 +1528,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "54d0d8469603a77b19b1634fb90cccbd67d68ce8",
-            "sha256": "sha256-+RqjYWCXNVwsd6y/Ng5H8sM3A2SgPurqr3uBweyVowk=",
+            "rev": "ddd9544a4fb1b88dbe2162f27b22576a656804a0",
+            "sha256": "sha256-BAtFVBG1161McQ3bufoLFP0gV9qPaDU4lJftq+3m3y4=",
             "type": "github"
         },
-        "version": "54d0d8469603a77b19b1634fb90cccbd67d68ce8"
+        "version": "ddd9544a4fb1b88dbe2162f27b22576a656804a0"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1813,11 +1813,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "0379732b5f6a5cc688b5198336169c8d9c3b143a",
-            "sha256": "sha256-5qhiDOFflkriRbJoQrhDpClBjVZvhVeS5tSZMBiyONI=",
+            "rev": "19747bd4c94085f3dc974c908d1e81c37ed02c26",
+            "sha256": "sha256-wVd/TdoMUmLayl/prHYq16bCE9K5iJafNaEhzpr8BAE=",
             "type": "github"
         },
-        "version": "0379732b5f6a5cc688b5198336169c8d9c3b143a"
+        "version": "19747bd4c94085f3dc974c908d1e81c37ed02c26"
     },
     "spicetify-themes": {
         "cargoLocks": null,

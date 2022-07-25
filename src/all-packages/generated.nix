@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "f6183597c9a8ae03a1e492bfc5db3133252df8c4";
+    version = "42dc360d161a863fd3256c9909e91272635356ff";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "f6183597c9a8ae03a1e492bfc5db3133252df8c4";
+      rev = "42dc360d161a863fd3256c9909e91272635356ff";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-0PJMQrqoFAZHcD+KNv0DOaGBN1jpyyXgSLgEBwnDUlo=";
+      sha256 = "sha256-IeJkVbEbzzupD4V5qkNbws/91J5+gR1MiqXxmfLc5ak=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-f6183597c9a8ae03a1e492bfc5db3133252df8c4/Cargo.lock;
+      lockFile = ./asusctl-42dc360d161a863fd3256c9909e91272635356ff/Cargo.lock;
       outputHashes = {
         
       };
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "54d0d8469603a77b19b1634fb90cccbd67d68ce8";
+    version = "ddd9544a4fb1b88dbe2162f27b22576a656804a0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "54d0d8469603a77b19b1634fb90cccbd67d68ce8";
+      rev = "ddd9544a4fb1b88dbe2162f27b22576a656804a0";
       fetchSubmodules = false;
-      sha256 = "sha256-+RqjYWCXNVwsd6y/Ng5H8sM3A2SgPurqr3uBweyVowk=";
+      sha256 = "sha256-BAtFVBG1161McQ3bufoLFP0gV9qPaDU4lJftq+3m3y4=";
     });
   };
   revanced-cli = {
@@ -1085,13 +1085,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "0379732b5f6a5cc688b5198336169c8d9c3b143a";
+    version = "19747bd4c94085f3dc974c908d1e81c37ed02c26";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "0379732b5f6a5cc688b5198336169c8d9c3b143a";
+      rev = "19747bd4c94085f3dc974c908d1e81c37ed02c26";
       fetchSubmodules = false;
-      sha256 = "sha256-5qhiDOFflkriRbJoQrhDpClBjVZvhVeS5tSZMBiyONI=";
+      sha256 = "sha256-wVd/TdoMUmLayl/prHYq16bCE9K5iJafNaEhzpr8BAE=";
     });
   };
   spicetify-themes = {
