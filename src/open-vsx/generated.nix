@@ -16515,10 +16515,10 @@
   };
   pokey-parse-tree = {
     pname = "pokey-parse-tree";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/parse-tree/0.20.0/file/pokey.parse-tree-0.20.0.vsix";
-      sha256 = "sha256-MX3GnNUKo6xUT/UYDgJA9Y0BwWOfPUqECDZ9XkA0tY0=";
+      url = "https://open-vsx.org/api/pokey/parse-tree/0.21.0/file/pokey.parse-tree-0.21.0.vsix";
+      sha256 = "sha256-WWdhGzOaxd02a6AwFee8neBohdxtq295zUox58EUnAA=";
     };
     license = "MIT";
     name = "parse-tree";

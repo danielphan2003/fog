@@ -26156,11 +26156,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MX3GnNUKo6xUT/UYDgJA9Y0BwWOfPUqECDZ9XkA0tY0=",
+            "sha256": "sha256-WWdhGzOaxd02a6AwFee8neBohdxtq295zUox58EUnAA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/parse-tree/0.20.0/file/pokey.parse-tree-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/pokey/parse-tree/0.21.0/file/pokey.parse-tree-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "pokey-talon": {
         "cargoLocks": null,
