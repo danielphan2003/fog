@@ -6735,10 +6735,10 @@
   };
   chenglou92-rescript-vscode = {
     pname = "chenglou92-rescript-vscode";
-    version = "1.4.1";
+    version = "1.4.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.1/file/chenglou92.rescript-vscode-1.4.1.vsix";
-      sha256 = "sha256-iDGzlPjLU9NIvEeawZdKgwsSyvcfGlHz2tUPwqBJTWc=";
+      url = "https://open-vsx.org/api/chenglou92/rescript-vscode/1.4.2/file/chenglou92.rescript-vscode-1.4.2.vsix";
+      sha256 = "sha256-bPTo1HYJWut16J2p7EyY3O0C5HXOxZAqlqeOHb+xLi0=";
     };
     license = "MIT";
     name = "rescript-vscode";
@@ -7971,10 +7971,10 @@
   };
   denoland-vscode-deno = {
     pname = "denoland-vscode-deno";
-    version = "3.13.0";
+    version = "3.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/denoland/vscode-deno/3.13.0/file/denoland.vscode-deno-3.13.0.vsix";
-      sha256 = "sha256-3ZT2TDMA5pe6afrfU1zpiUtebcRjW5bUXbUxvFgQpR4=";
+      url = "https://open-vsx.org/api/denoland/vscode-deno/3.13.1/file/denoland.vscode-deno-3.13.1.vsix";
+      sha256 = "sha256-GqUTuEOGNJTefKrGgyqQBVX2YQN5vopPAOPqxKSXuTk=";
     };
     license = "MIT";
     name = "vscode-deno";
@@ -8655,10 +8655,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.9.0";
+    version = "0.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.0/file/enkia.tokyo-night-0.9.0.vsix";
-      sha256 = "sha256-dp1khIrsNqf+OwREw8yPA5DfGD4w/S3EzHfylq0B1KY=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.2/file/enkia.tokyo-night-0.9.2.vsix";
+      sha256 = "sha256-2rQmpcEAaPm6hM7ArBR4iUSpaG++U7lswKSW9A2YtHE=";
     };
     license = "MIT";
     name = "tokyo-night";
@@ -10083,10 +10083,10 @@
   };
   halcyontechltd-vscode-ibmi-walkthroughs = {
     pname = "halcyontechltd-vscode-ibmi-walkthroughs";
-    version = "0.1.1";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.1.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.1.1.vsix";
-      sha256 = "sha256-zCVZgtkAwutBE7sOp5RRjS5MY7t6ypk9fVUri63cq5A=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.1.vsix";
+      sha256 = "sha256-98+mt1lOUXq/nsh0YjSqDueS/OLnqmDr1ZvaiIrYH20=";
     };
     license = "Apache-2.0";
     name = "vscode-ibmi-walkthroughs";
@@ -13359,10 +13359,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.2.2";
+    version = "4.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.2/file/matepek.vscode-catch2-test-adapter-4.2.2.vsix";
-      sha256 = "sha256-pdwDTy929liXVykX7UOleMqIT6hVLogk7PD7xDxBS2U=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.3/file/matepek.vscode-catch2-test-adapter-4.2.3.vsix";
+      sha256 = "sha256-+TCMVK3bfFzMLQN6Gq+Lx+ERhed62Zl1tnsLEbY01FQ=";
     };
     license = "MIT";
     name = "vscode-catch2-test-adapter";
@@ -13935,10 +13935,10 @@
   };
   mjcrouch-perforce = {
     pname = "mjcrouch-perforce";
-    version = "4.15.2";
+    version = "4.15.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.2/file/mjcrouch.perforce-4.15.2.vsix";
-      sha256 = "sha256-146PLSlarzJfD5A9EWesQoyRrV7ucBS/uivx2tfN6Js=";
+      url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.3/file/mjcrouch.perforce-4.15.3.vsix";
+      sha256 = "sha256-uyIf9TcHw42CxCJvO5o03MOyex0hWbWOwlGoobPgjbM=";
     };
     license = "MIT";
     name = "perforce";
