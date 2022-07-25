@@ -786,11 +786,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "6dc8c4b31048d225e20008553a3998b543399c49",
-            "sha256": "sha256-BlFKveoEgOBwLAEaWEi3a0WPi0K48aAjMBTjXDeZEnU=",
+            "rev": "067e2d39f61324b3e04e63370d41142bf9355b5f",
+            "sha256": "sha256-JxCdFpA0Q8Az05LYy1NLAsxqgWowqT9cjhdx9i42cU8=",
             "type": "github"
         },
-        "version": "6dc8c4b31048d225e20008553a3998b543399c49"
+        "version": "067e2d39f61324b3e04e63370d41142bf9355b5f"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "566b4b45201c0cfda650d204d7732254266debdb",
-            "sha256": "sha256-PbJLVwBrUl/uC0tZeGPcDyAfGPJh+ikWzazoPmVbomU=",
+            "rev": "cedbcb10c6de93875832e3b3464abad929b59a6f",
+            "sha256": "sha256-9h4URzYEZ1igfh4I9zVc2LqG1hDSW7YUfqBTp1LvVes=",
             "type": "github"
         },
-        "version": "566b4b45201c0cfda650d204d7732254266debdb"
+        "version": "cedbcb10c6de93875832e3b3464abad929b59a6f"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1776,12 +1776,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bf46f95eb06d35fa6d55ec6c2e6bcfcc333c42e2",
-            "sha256": "sha256-B3ibXuJLE3mLtVr/c5A52kcct8lie71ZFv1ZacGAFrg=",
+            "rev": "0c590e36cd05b692816c96e5270d689367669211",
+            "sha256": "sha256-ifZug5LI3RLWY8UpnSoHcBjLPvprqBjOSqQ3PU9Plr8=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "bf46f95eb06d35fa6d55ec6c2e6bcfcc333c42e2"
+        "version": "0c590e36cd05b692816c96e5270d689367669211"
     },
     "spicetify-cli": {
         "cargoLocks": null,
