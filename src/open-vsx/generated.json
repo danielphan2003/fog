@@ -11298,11 +11298,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AkyZDcyWsQSpr091zJU0s6cq6ibAwinSt7pT9JlNl08=",
+            "sha256": "sha256-3ujrVsLGzqnVFnvrw1tYf1sRf7MpWqEaw4cbkmtAqXw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/codezombiech/gitignore/0.8.0/file/codezombiech.gitignore-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/codezombiech/gitignore/0.9.0/file/codezombiech.gitignore-0.9.0.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.9.0"
     },
     "codingyu-laravel-goto-view": {
         "cargoLocks": null,
@@ -20190,11 +20190,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pvwLprKsHU0vKneDMDU94unR1sPQqObq2J9E5qt75hc=",
+            "sha256": "sha256-5Fz+MkipHcN2EeOKZsIpV/A8e1ccS/JH3104p0KjY60=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.86/file/leanprover.lean4-0.0.86.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.87/file/leanprover.lean4-0.0.87.vsix"
         },
-        "version": "0.0.86"
+        "version": "0.0.87"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,
@@ -27448,11 +27448,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eoBXzJHA0fyYrAjanDdZM3K1UGCxbBvrccmWMVNUBSE=",
+            "sha256": "sha256-76CRxjgBUZk7wc/0UUw75+tMv7brKYSMGrY0iDr29lY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-microprofile/0.4.0/file/redhat.vscode-microprofile-0.4.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-microprofile/0.5.0/file/redhat.vscode-microprofile-0.5.0.vsix"
         },
-        "version": "0.4.0"
+        "version": "0.5.0"
     },
     "redhat-vscode-openshift-connector": {
         "cargoLocks": null,
@@ -27486,11 +27486,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W37vCMDhfOtF0TnFTpphHQLnconYOymZDV8qC5m5NDk=",
+            "sha256": "sha256-jOHu+bKCWYmAqc0h7FhqbFtxj6scNUNjBPNt1j5Bu1c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-quarkus/1.10.0/file/redhat.vscode-quarkus-1.10.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-quarkus/1.11.0/file/redhat.vscode-quarkus-1.11.0.vsix"
         },
-        "version": "1.10.0"
+        "version": "1.11.0"
     },
     "redhat-vscode-redhat-account": {
         "cargoLocks": null,
@@ -28379,11 +28379,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-54jTRh2yhB/OpmPS5yOqziI31JXoWKbZ1HNyzmYXmmI=",
+            "sha256": "sha256-CtwIPVBIigkeafECaANJuU/5J4+Kzlkkw1Gfhtg62pY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.3/file/rvest.vs-code-prettier-eslint-5.0.3.vsix"
+            "url": "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.4/file/rvest.vs-code-prettier-eslint-5.0.4.vsix"
         },
-        "version": "5.0.3"
+        "version": "5.0.4"
     },
     "ryanluker-vscode-coverage-gutters": {
         "cargoLocks": null,

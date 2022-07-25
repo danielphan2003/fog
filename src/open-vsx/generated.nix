@@ -7131,10 +7131,10 @@
   };
   codezombiech-gitignore = {
     pname = "codezombiech-gitignore";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/codezombiech/gitignore/0.8.0/file/codezombiech.gitignore-0.8.0.vsix";
-      sha256 = "sha256-AkyZDcyWsQSpr091zJU0s6cq6ibAwinSt7pT9JlNl08=";
+      url = "https://open-vsx.org/api/codezombiech/gitignore/0.9.0/file/codezombiech.gitignore-0.9.0.vsix";
+      sha256 = "sha256-3ujrVsLGzqnVFnvrw1tYf1sRf7MpWqEaw4cbkmtAqXw=";
     };
     license = "MIT";
     name = "gitignore";
@@ -12747,10 +12747,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.86";
+    version = "0.0.87";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.86/file/leanprover.lean4-0.0.86.vsix";
-      sha256 = "sha256-pvwLprKsHU0vKneDMDU94unR1sPQqObq2J9E5qt75hc=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.87/file/leanprover.lean4-0.0.87.vsix";
+      sha256 = "sha256-5Fz+MkipHcN2EeOKZsIpV/A8e1ccS/JH3104p0KjY60=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -17331,10 +17331,10 @@
   };
   redhat-vscode-microprofile = {
     pname = "redhat-vscode-microprofile";
-    version = "0.4.0";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-microprofile/0.4.0/file/redhat.vscode-microprofile-0.4.0.vsix";
-      sha256 = "sha256-eoBXzJHA0fyYrAjanDdZM3K1UGCxbBvrccmWMVNUBSE=";
+      url = "https://open-vsx.org/api/redhat/vscode-microprofile/0.5.0/file/redhat.vscode-microprofile-0.5.0.vsix";
+      sha256 = "sha256-76CRxjgBUZk7wc/0UUw75+tMv7brKYSMGrY0iDr29lY=";
     };
     license = "Apache-2.0";
     name = "vscode-microprofile";
@@ -17355,10 +17355,10 @@
   };
   redhat-vscode-quarkus = {
     pname = "redhat-vscode-quarkus";
-    version = "1.10.0";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-quarkus/1.10.0/file/redhat.vscode-quarkus-1.10.0.vsix";
-      sha256 = "sha256-W37vCMDhfOtF0TnFTpphHQLnconYOymZDV8qC5m5NDk=";
+      url = "https://open-vsx.org/api/redhat/vscode-quarkus/1.11.0/file/redhat.vscode-quarkus-1.11.0.vsix";
+      sha256 = "sha256-jOHu+bKCWYmAqc0h7FhqbFtxj6scNUNjBPNt1j5Bu1c=";
     };
     license = "Apache-2.0";
     name = "vscode-quarkus";
@@ -17919,10 +17919,10 @@
   };
   rvest-vs-code-prettier-eslint = {
     pname = "rvest-vs-code-prettier-eslint";
-    version = "5.0.3";
+    version = "5.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.3/file/rvest.vs-code-prettier-eslint-5.0.3.vsix";
-      sha256 = "sha256-54jTRh2yhB/OpmPS5yOqziI31JXoWKbZ1HNyzmYXmmI=";
+      url = "https://open-vsx.org/api/rvest/vs-code-prettier-eslint/5.0.4/file/rvest.vs-code-prettier-eslint-5.0.4.vsix";
+      sha256 = "sha256-CtwIPVBIigkeafECaANJuU/5J4+Kzlkkw1Gfhtg62pY=";
     };
     license = "MIT";
     name = "vs-code-prettier-eslint";
