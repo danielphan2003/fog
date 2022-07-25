@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0476a579a52aa52e6240e66301b03c166f2ad18b";
+    version = "c1370f3c5971e6332099b00bc9db9e990e44375b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0476a579a52aa52e6240e66301b03c166f2ad18b";
+      rev = "c1370f3c5971e6332099b00bc9db9e990e44375b";
       fetchSubmodules = false;
-      sha256 = "sha256-XysK2ULwsBIoVL/iR2P/raI+r8jiVZF/FF+JNe/Ptu0=";
+      sha256 = "sha256-wwNpvlPiL4Z17AQAzGRI4jspvmSuoAMmqswfEDz8aik=";
     });
   };
   caddy = {
@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b1d3a1deeaabe7b8de7f6fe908b0d57934f3dfeb";
+    version = "c998e946aae7e4633def6e3c7a925d828fbc7fea";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "b1d3a1deeaabe7b8de7f6fe908b0d57934f3dfeb";
+      rev = "c998e946aae7e4633def6e3c7a925d828fbc7fea";
       fetchSubmodules = false;
-      sha256 = "sha256-3eSHLdRmst9OVl7EaVB9GY+a4RFxWxAUrOuF3pPy7jQ=";
+      sha256 = "sha256-q2+sgmz1hiue0EVKCnWi8k+XZQaB2IDtWSJtRfrcwlI=";
     });
   };
   ibus = {
@@ -643,10 +643,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "104.0.1293.25";
+    version = "104.0.1293.35";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.25-1_amd64.deb";
-      sha256 = "sha256-MmJp38SEHxzFKL1VkGq6EJ9iWemAZ8hJwecDhTxJxoc=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.35-1_amd64.deb";
+      sha256 = "sha256-YHrA0YuxEv0Ymx1kTU8TR+xwKIJYxn8AjAh+AGHQ0Rg=";
     };
   };
   microsoft-edge-dev = {
@@ -1107,13 +1107,13 @@
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "b5ac54f5f793c4a9a4b2d5185fe4b75a2872a684";
+    version = "813084b1119370fcee945f3b6e64634d685476bc";
     src = fetchFromGitHub ({
       owner = "morpheusthewhite";
       repo = "spicetify-themes";
-      rev = "b5ac54f5f793c4a9a4b2d5185fe4b75a2872a684";
+      rev = "813084b1119370fcee945f3b6e64634d685476bc";
       fetchSubmodules = false;
-      sha256 = "sha256-KPpuoj5/sdHgnzKHBWt6RIDvaPbiotYZNLbKYgODL/E=";
+      sha256 = "sha256-I2U5yy/nRA0vV5JI8paHFkbZ33A3DtzQYsUlwNjaa04=";
     });
   };
   spotify = {
@@ -1257,13 +1257,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "4fc7694c13710dead5fcaa16e85e837ca4c07c78";
+    version = "05f91d9bfbe9e8f9757c99e56836ef68e43dff93";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "4fc7694c13710dead5fcaa16e85e837ca4c07c78";
+      rev = "05f91d9bfbe9e8f9757c99e56836ef68e43dff93";
       fetchSubmodules = false;
-      sha256 = "sha256-TRygcLrgGkz0XfeQB3r2kqGz2QbFHhSQrwyUiQsNYGQ=";
+      sha256 = "sha256-gvNPl3J+DesiHOnMLD2MdOrk4YxKjRZA+Db8GWhKS8o=";
     });
   };
   ultimmc = {

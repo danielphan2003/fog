@@ -340,11 +340,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "0476a579a52aa52e6240e66301b03c166f2ad18b",
-            "sha256": "sha256-XysK2ULwsBIoVL/iR2P/raI+r8jiVZF/FF+JNe/Ptu0=",
+            "rev": "c1370f3c5971e6332099b00bc9db9e990e44375b",
+            "sha256": "sha256-wwNpvlPiL4Z17AQAzGRI4jspvmSuoAMmqswfEDz8aik=",
             "type": "github"
         },
-        "version": "0476a579a52aa52e6240e66301b03c166f2ad18b"
+        "version": "c1370f3c5971e6332099b00bc9db9e990e44375b"
     },
     "caddy": {
         "cargoLocks": null,
@@ -805,11 +805,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "b1d3a1deeaabe7b8de7f6fe908b0d57934f3dfeb",
-            "sha256": "sha256-3eSHLdRmst9OVl7EaVB9GY+a4RFxWxAUrOuF3pPy7jQ=",
+            "rev": "c998e946aae7e4633def6e3c7a925d828fbc7fea",
+            "sha256": "sha256-q2+sgmz1hiue0EVKCnWi8k+XZQaB2IDtWSJtRfrcwlI=",
             "type": "github"
         },
-        "version": "b1d3a1deeaabe7b8de7f6fe908b0d57934f3dfeb"
+        "version": "c998e946aae7e4633def6e3c7a925d828fbc7fea"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1074,11 +1074,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MmJp38SEHxzFKL1VkGq6EJ9iWemAZ8hJwecDhTxJxoc=",
+            "sha256": "sha256-YHrA0YuxEv0Ymx1kTU8TR+xwKIJYxn8AjAh+AGHQ0Rg=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.25-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.35-1_amd64.deb"
         },
-        "version": "104.0.1293.25"
+        "version": "104.0.1293.35"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
@@ -1853,11 +1853,11 @@
             "name": null,
             "owner": "morpheusthewhite",
             "repo": "spicetify-themes",
-            "rev": "b5ac54f5f793c4a9a4b2d5185fe4b75a2872a684",
-            "sha256": "sha256-KPpuoj5/sdHgnzKHBWt6RIDvaPbiotYZNLbKYgODL/E=",
+            "rev": "813084b1119370fcee945f3b6e64634d685476bc",
+            "sha256": "sha256-I2U5yy/nRA0vV5JI8paHFkbZ33A3DtzQYsUlwNjaa04=",
             "type": "github"
         },
-        "version": "b5ac54f5f793c4a9a4b2d5185fe4b75a2872a684"
+        "version": "813084b1119370fcee945f3b6e64634d685476bc"
     },
     "spotify": {
         "cargoLocks": null,
@@ -2094,11 +2094,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "4fc7694c13710dead5fcaa16e85e837ca4c07c78",
-            "sha256": "sha256-TRygcLrgGkz0XfeQB3r2kqGz2QbFHhSQrwyUiQsNYGQ=",
+            "rev": "05f91d9bfbe9e8f9757c99e56836ef68e43dff93",
+            "sha256": "sha256-gvNPl3J+DesiHOnMLD2MdOrk4YxKjRZA+Db8GWhKS8o=",
             "type": "github"
         },
-        "version": "4fc7694c13710dead5fcaa16e85e837ca4c07c78"
+        "version": "05f91d9bfbe9e8f9757c99e56836ef68e43dff93"
     },
     "ultimmc": {
         "cargoLocks": null,
