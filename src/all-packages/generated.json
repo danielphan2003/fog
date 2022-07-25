@@ -340,11 +340,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "3bb2fa8f72e9d137a81cb9e3e4f704a39470ccee",
-            "sha256": "sha256-qR9fXN/8f5yFmmNkaloVpO5qO6zicpU7T7Ub6vBGJaY=",
+            "rev": "0476a579a52aa52e6240e66301b03c166f2ad18b",
+            "sha256": "sha256-XysK2ULwsBIoVL/iR2P/raI+r8jiVZF/FF+JNe/Ptu0=",
             "type": "github"
         },
-        "version": "3bb2fa8f72e9d137a81cb9e3e4f704a39470ccee"
+        "version": "0476a579a52aa52e6240e66301b03c166f2ad18b"
     },
     "caddy": {
         "cargoLocks": null,
@@ -361,6 +361,25 @@
             "repo": "caddy",
             "rev": "v2.5.2",
             "sha256": "sha256-Z9A2DRdX0LWjIKdHAHk2IRxsUzvC90Gf5ohFLXNHcsw=",
+            "type": "github"
+        },
+        "version": "v2.5.2"
+    },
+    "caddy-dist": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "caddy-dist",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "caddyserver",
+            "repo": "dist",
+            "rev": "v2.5.2",
+            "sha256": "sha256-wzW0eb+O7JqQJkWtpMwV4G56uqLd1U2NduNAMPGvD3o=",
             "type": "github"
         },
         "version": "v2.5.2"
