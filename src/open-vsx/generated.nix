@@ -2979,10 +2979,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1224";
+    version = "31.0.1229";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1224/file/Prisma.prisma-insider-31.0.1224.vsix";
-      sha256 = "sha256-K3dSF5YAzs15f80xEHQLyKZz1pB9WEx1LQjmBGiPj6s=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1229/file/Prisma.prisma-insider-31.0.1229.vsix";
+      sha256 = "sha256-Zc2efZjTsTRY0db4Q81FxPrSzzJ9ScyDQj/2tLGh7Vw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10923,10 +10923,10 @@
   };
   ilingu-standup-extension = {
     pname = "ilingu-standup-extension";
-    version = "0.1.3";
+    version = "0.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.3/file/ilingu.standup-extension-0.1.3.vsix";
-      sha256 = "sha256-h9f+upFiHibW41AhCjP2UVtIX+YFrpBHfe/33fmxbAc=";
+      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.4/file/ilingu.standup-extension-0.1.4.vsix";
+      sha256 = "sha256-fQzcCI5Z/5e4H+9yOim7m41tg4qOjbXgd7kvUZfpDOQ=";
     };
     license = "MIT";
     name = "standup-extension";
@@ -17115,10 +17115,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.10.0";
+    version = "0.11.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.10.0/file/redhat.ansible-0.10.0.vsix";
-      sha256 = "sha256-cXDr0vNDjn3HZdKdFhE0yXo8dLS78LIqhZ5tY//2EDo=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.11.10/file/redhat.ansible-0.11.10.vsix";
+      sha256 = "sha256-JfyU/L/Sv+U5fNcBq223qsHPl59LyOumC7aJCUL169Q=";
     };
     license = "MIT";
     name = "ansible";

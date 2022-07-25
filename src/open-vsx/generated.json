@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-K3dSF5YAzs15f80xEHQLyKZz1pB9WEx1LQjmBGiPj6s=",
+            "sha256": "sha256-Zc2efZjTsTRY0db4Q81FxPrSzzJ9ScyDQj/2tLGh7Vw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1224/file/Prisma.prisma-insider-31.0.1224.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1229/file/Prisma.prisma-insider-31.0.1229.vsix"
         },
-        "version": "31.0.1224"
+        "version": "31.0.1229"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -17302,11 +17302,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-h9f+upFiHibW41AhCjP2UVtIX+YFrpBHfe/33fmxbAc=",
+            "sha256": "sha256-fQzcCI5Z/5e4H+9yOim7m41tg4qOjbXgd7kvUZfpDOQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.3/file/ilingu.standup-extension-0.1.3.vsix"
+            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.4/file/ilingu.standup-extension-0.1.4.vsix"
         },
-        "version": "0.1.3"
+        "version": "0.1.4"
     },
     "iljapostnovs-ui5plugin": {
         "cargoLocks": null,
@@ -27106,11 +27106,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cXDr0vNDjn3HZdKdFhE0yXo8dLS78LIqhZ5tY//2EDo=",
+            "sha256": "sha256-JfyU/L/Sv+U5fNcBq223qsHPl59LyOumC7aJCUL169Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.10.0/file/redhat.ansible-0.10.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.11.10/file/redhat.ansible-0.11.10.vsix"
         },
-        "version": "0.10.0"
+        "version": "0.11.10"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,
