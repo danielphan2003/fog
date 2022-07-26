@@ -15991,11 +15991,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zLtpCH2go8sNx1Gk0I2kfq5YF01xjSrlNSG+EEoomFY=",
+            "sha256": "sha256-nhItRroOymiPfdfdHEf08o/dNFBcdNNJfiNgN/fJRrs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.5/file/halcyontechltd.vscode-rpgle-0.7.5.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.6/file/halcyontechltd.vscode-rpgle-0.7.6.vsix"
         },
-        "version": "0.7.5"
+        "version": "0.7.6"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -26707,11 +26707,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KAolqTtJ/eqcBZ/MHh/BYxhVNi9Spz6BGaeTJvCYNKI=",
+            "sha256": "sha256-ifcf89VBMERDi8r23ewwFqsE9Sm+Cx6iiaxKc6gibac=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.28.0/file/quarto.quarto-1.28.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.29.0/file/quarto.quarto-1.29.0.vsix"
         },
-        "version": "1.28.0"
+        "version": "1.29.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,
@@ -29348,11 +29348,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mtJJNCTciqQGhuIy2MH5B7Rh55KxOG9Jszuz+3oiPYQ=",
+            "sha256": "sha256-qYKkrTzy1a/KK+imssaF1WvcPI9ugXdGF6c4HlBsD/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.4/file/shufo.vscode-blade-formatter-0.16.4.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.5/file/shufo.vscode-blade-formatter-0.16.5.vsix"
         },
-        "version": "0.16.4"
+        "version": "0.16.5"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,

@@ -10095,10 +10095,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.7.5";
+    version = "0.7.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.5/file/halcyontechltd.vscode-rpgle-0.7.5.vsix";
-      sha256 = "sha256-zLtpCH2go8sNx1Gk0I2kfq5YF01xjSrlNSG+EEoomFY=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.6/file/halcyontechltd.vscode-rpgle-0.7.6.vsix";
+      sha256 = "sha256-nhItRroOymiPfdfdHEf08o/dNFBcdNNJfiNgN/fJRrs=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -16863,10 +16863,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.28.0";
+    version = "1.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.28.0/file/quarto.quarto-1.28.0.vsix";
-      sha256 = "sha256-KAolqTtJ/eqcBZ/MHh/BYxhVNi9Spz6BGaeTJvCYNKI=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.29.0/file/quarto.quarto-1.29.0.vsix";
+      sha256 = "sha256-ifcf89VBMERDi8r23ewwFqsE9Sm+Cx6iiaxKc6gibac=";
     };
     license = "MIT";
     name = "quarto";
@@ -18531,10 +18531,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.16.4";
+    version = "0.16.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.4/file/shufo.vscode-blade-formatter-0.16.4.vsix";
-      sha256 = "sha256-mtJJNCTciqQGhuIy2MH5B7Rh55KxOG9Jszuz+3oiPYQ=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.5/file/shufo.vscode-blade-formatter-0.16.5.vsix";
+      sha256 = "sha256-qYKkrTzy1a/KK+imssaF1WvcPI9ugXdGF6c4HlBsD/k=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
