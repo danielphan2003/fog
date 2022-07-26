@@ -27125,11 +27125,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JfyU/L/Sv+U5fNcBq223qsHPl59LyOumC7aJCUL169Q=",
+            "sha256": "sha256-l6gZ2urI0XuokbJhtcIedHC8ccR300UNaexJQAoFMF8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.11.10/file/redhat.ansible-0.11.10.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.11.11/file/redhat.ansible-0.11.11.vsix"
         },
-        "version": "0.11.10"
+        "version": "0.11.11"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,

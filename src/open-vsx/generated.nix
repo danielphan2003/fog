@@ -17127,10 +17127,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.11.10";
+    version = "0.11.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.11.10/file/redhat.ansible-0.11.10.vsix";
-      sha256 = "sha256-JfyU/L/Sv+U5fNcBq223qsHPl59LyOumC7aJCUL169Q=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.11.11/file/redhat.ansible-0.11.11.vsix";
+      sha256 = "sha256-l6gZ2urI0XuokbJhtcIedHC8ccR300UNaexJQAoFMF8=";
     };
     license = "MIT";
     name = "ansible";
