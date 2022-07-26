@@ -2427,10 +2427,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.30";
+    version = "0.17.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.30/file/Marko-JS.marko-vscode-0.17.30.vsix";
-      sha256 = "sha256-x9itNlfQ+JHS29CdYsZZhhvocc4VZOrk2G+Nl4ESyZY=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.31/file/Marko-JS.marko-vscode-0.17.31.vsix";
+      sha256 = "sha256-P9oZ3GcSY/80UUG/NNOrUJkhOK3tG838zU7k4bTd4FA=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -3315,10 +3315,10 @@
   };
   Shelex-vscode-cy-helper = {
     pname = "Shelex-vscode-cy-helper";
-    version = "2.5.1";
+    version = "2.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.1/file/Shelex.vscode-cy-helper-2.5.1.vsix";
-      sha256 = "sha256-LVC7MA5ccGLHQ+U0jYVGc1ndGMG6jzmcdSrxNbNSL+Y=";
+      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.6.0/file/Shelex.vscode-cy-helper-2.6.0.vsix";
+      sha256 = "sha256-sLUP1j5sdkNU95BWfDb1bSF0uu4X6Ppdmckhuxjjfrw=";
     };
     license = "Apache-2.0";
     name = "vscode-cy-helper";
@@ -9915,10 +9915,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.17.2";
+    version = "0.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.2/file/grain-lang.vscode-grain-0.17.2.vsix";
-      sha256 = "sha256-nIOnjiQyyMwXfkRdRhi3z9aV7Wd4TbLX6YnQ8slJASQ=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.18.1/file/grain-lang.vscode-grain-0.18.1.vsix";
+      sha256 = "sha256-FzOxIkBQwIAib7LQgb7mzHYNSDJoG3CgmsUiIhWovrc=";
     };
     license = "MIT";
     name = "vscode-grain";
@@ -17857,6 +17857,18 @@
     description = "Themes based on pride flags";
     publisher = "ruby0b";
   };
+  ruiferreira-autoi18n = {
+    pname = "ruiferreira-autoi18n";
+    version = "0.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ruiferreira/autoi18n/0.0.5/file/ruiferreira.autoi18n-0.0.5.vsix";
+      sha256 = "sha256-5e6BahTm0aiwW4cmFvEN2kmYpdYZcaV4dQS4JJFveA8=";
+    };
+    license = "Apache-2.0";
+    name = "autoi18n";
+    description = "Auto I18N";
+    publisher = "ruiferreira";
+  };
   runem-lit-plugin = {
     pname = "runem-lit-plugin";
     version = "1.2.1";
@@ -22176,6 +22188,18 @@
     name = "smali";
     description = "";
     publisher = "vscode";
+  };
+  vscode-snippet-snippet = {
+    pname = "vscode-snippet-snippet";
+    version = "0.9.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vscode-snippet/snippet/0.9.0/file/vscode-snippet.snippet-0.9.0.vsix";
+      sha256 = "sha256-+HinNeALaLL6LP1JJk6LJSyqFpLAlssByJiLCFsmg2c=";
+    };
+    license = "MIT";
+    name = "snippet";
+    description = "Insert a snippet from cht.sh for Python, JavaScript, Ruby, C#, Go, Rust (and any other language)";
+    publisher = "vscode-snippet";
   };
   vscode-sql = {
     pname = "vscode-sql";

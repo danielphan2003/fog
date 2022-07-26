@@ -3850,11 +3850,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x9itNlfQ+JHS29CdYsZZhhvocc4VZOrk2G+Nl4ESyZY=",
+            "sha256": "sha256-P9oZ3GcSY/80UUG/NNOrUJkhOK3tG838zU7k4bTd4FA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.30/file/Marko-JS.marko-vscode-0.17.30.vsix"
+            "url": "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.31/file/Marko-JS.marko-vscode-0.17.31.vsix"
         },
-        "version": "0.17.30"
+        "version": "0.17.31"
     },
     "Matronator-haxeui": {
         "cargoLocks": null,
@@ -5256,11 +5256,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LVC7MA5ccGLHQ+U0jYVGc1ndGMG6jzmcdSrxNbNSL+Y=",
+            "sha256": "sha256-sLUP1j5sdkNU95BWfDb1bSF0uu4X6Ppdmckhuxjjfrw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.5.1/file/Shelex.vscode-cy-helper-2.5.1.vsix"
+            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.6.0/file/Shelex.vscode-cy-helper-2.6.0.vsix"
         },
-        "version": "2.5.1"
+        "version": "2.6.0"
     },
     "SimplyDanny-modelica": {
         "cargoLocks": null,
@@ -15706,11 +15706,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nIOnjiQyyMwXfkRdRhi3z9aV7Wd4TbLX6YnQ8slJASQ=",
+            "sha256": "sha256-FzOxIkBQwIAib7LQgb7mzHYNSDJoG3CgmsUiIhWovrc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.17.2/file/grain-lang.vscode-grain-0.17.2.vsix"
+            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.18.1/file/grain-lang.vscode-grain-0.18.1.vsix"
         },
-        "version": "0.17.2"
+        "version": "0.18.1"
     },
     "grammarcraft-epsilon-eag": {
         "cargoLocks": null,
@@ -28271,6 +28271,25 @@
         },
         "version": "0.4.1"
     },
+    "ruiferreira-autoi18n": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ruiferreira-autoi18n",
+        "passthru": {
+            "description": "Auto I18N",
+            "license": "Apache-2.0",
+            "name": "autoi18n",
+            "publisher": "ruiferreira"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-5e6BahTm0aiwW4cmFvEN2kmYpdYZcaV4dQS4JJFveA8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ruiferreira/autoi18n/0.0.5/file/ruiferreira.autoi18n-0.0.5.vsix"
+        },
+        "version": "0.0.5"
+    },
     "runem-lit-plugin": {
         "cargoLocks": null,
         "extract": null,
@@ -35110,6 +35129,25 @@
             "url": "https://open-vsx.org/api/vscode/smali/1.0.0/file/vscode.smali-1.0.0.vsix"
         },
         "version": "1.0.0"
+    },
+    "vscode-snippet-snippet": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vscode-snippet-snippet",
+        "passthru": {
+            "description": "Insert a snippet from cht.sh for Python, JavaScript, Ruby, C#, Go, Rust (and any other language)",
+            "license": "MIT",
+            "name": "snippet",
+            "publisher": "vscode-snippet"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-+HinNeALaLL6LP1JJk6LJSyqFpLAlssByJiLCFsmg2c=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vscode-snippet/snippet/0.9.0/file/vscode-snippet.snippet-0.9.0.vsix"
+        },
+        "version": "0.9.0"
     },
     "vscode-sql": {
         "cargoLocks": null,
