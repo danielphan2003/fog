@@ -534,18 +534,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6384";
+    version = "1.0.6385";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6384.tar.bz2";
-      sha256 = "sha256-JF/OjmE1VfDSakiEblnN4oAinHnOyDWY4UwazKIxMWA=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6385.tar.bz2";
+      sha256 = "sha256-/m4ALhT9dwYShKvMwdjWjfinFVNt853AOlK9QfSoabE=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6384";
+    version = "1.0.6385";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6384-1_all.deb";
-      sha256 = "sha256-fVbo5CZGnXOiFHXtNoJfkPvR1lSsVL6Gd9P6FgIYF+s=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6385-1_all.deb";
+      sha256 = "sha256-V+433eFGIZE2DbqTSWNgoXk2qo0W7b9hTAF1OI2N0a4=";
     };
   };
   jitsi-videobridge2 = {
@@ -951,18 +951,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.22.1";
+    version = "2.22.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.1/revanced-patches-2.22.1.dex";
-      sha256 = "sha256-AcwDoBrS060V+eBtcuBQe7vKGZvvCvWWqBciU4a2Gig=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.2/revanced-patches-2.22.2.dex";
+      sha256 = "sha256-IUzbZ1CqjruPMcxKVswOBztEYBZlOwGQ9bh4RwAQfHo=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.22.1";
+    version = "2.22.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.1/revanced-patches-2.22.1.jar";
-      sha256 = "sha256-MlGzC15tE/QG+oLHQHhCOotEVESZrp1Y4Hb6zn9u1N8=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.2/revanced-patches-2.22.2.jar";
+      sha256 = "sha256-SuQT5aAWKNbfTY1M9tWcn/gTtWElWBk/EtDQXlDZVn8=";
     };
   };
   rofi-wayland = {

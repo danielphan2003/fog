@@ -885,11 +885,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JF/OjmE1VfDSakiEblnN4oAinHnOyDWY4UwazKIxMWA=",
+            "sha256": "sha256-/m4ALhT9dwYShKvMwdjWjfinFVNt853AOlK9QfSoabE=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6384.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6385.tar.bz2"
         },
-        "version": "1.0.6384"
+        "version": "1.0.6385"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -899,11 +899,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fVbo5CZGnXOiFHXtNoJfkPvR1lSsVL6Gd9P6FgIYF+s=",
+            "sha256": "sha256-V+433eFGIZE2DbqTSWNgoXk2qo0W7b9hTAF1OI2N0a4=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6384-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6385-1_all.deb"
         },
-        "version": "1.0.6384"
+        "version": "1.0.6385"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AcwDoBrS060V+eBtcuBQe7vKGZvvCvWWqBciU4a2Gig=",
+            "sha256": "sha256-IUzbZ1CqjruPMcxKVswOBztEYBZlOwGQ9bh4RwAQfHo=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.1/revanced-patches-2.22.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.2/revanced-patches-2.22.2.dex"
         },
-        "version": "2.22.1"
+        "version": "2.22.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1605,11 +1605,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MlGzC15tE/QG+oLHQHhCOotEVESZrp1Y4Hb6zn9u1N8=",
+            "sha256": "sha256-SuQT5aAWKNbfTY1M9tWcn/gTtWElWBk/EtDQXlDZVn8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.1/revanced-patches-2.22.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.22.2/revanced-patches-2.22.2.jar"
         },
-        "version": "2.22.1"
+        "version": "2.22.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
