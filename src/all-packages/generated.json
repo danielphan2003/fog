@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oMq3r+x3hoXuB/OMet0lAMNMJTNWFEpvJ5KF1QY5wWA=",
+            "sha256": "sha256-/OY6Xys3Ooo5kz+xvasFdsrqDT/3zIH6xFj7Pr/BK8g=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.28.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.28.1/app-release-unsigned.apk"
         },
-        "version": "0.28.0"
+        "version": "0.28.1"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/22m3gWpcL4avrcVW4TqJl8yYq6vajub9TMz1FAi6ew=",
+            "sha256": "sha256-Z+hdlOqfp3sYqtBu5hbpKyP4sHTC7vQxpGoqdVtRpyY=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.0/revanced-patches-2.25.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.1/revanced-patches-2.25.1.dex"
         },
-        "version": "2.25.0"
+        "version": "2.25.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1605,11 +1605,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-131VShYOiDQl4PrPVi+z546/1lDPPSYUy5LiQd7kgVo=",
+            "sha256": "sha256-VSEKQQfha/Tf27wb+AABr1CDomEBXkJ8hvID+mFeAO4=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.0/revanced-patches-2.25.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.1/revanced-patches-2.25.1.jar"
         },
-        "version": "2.25.0"
+        "version": "2.25.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,

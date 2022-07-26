@@ -943,26 +943,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.28.0";
+    version = "0.28.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.28.0/app-release-unsigned.apk";
-      sha256 = "sha256-oMq3r+x3hoXuB/OMet0lAMNMJTNWFEpvJ5KF1QY5wWA=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.28.1/app-release-unsigned.apk";
+      sha256 = "sha256-/OY6Xys3Ooo5kz+xvasFdsrqDT/3zIH6xFj7Pr/BK8g=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.25.0";
+    version = "2.25.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.0/revanced-patches-2.25.0.dex";
-      sha256 = "sha256-/22m3gWpcL4avrcVW4TqJl8yYq6vajub9TMz1FAi6ew=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.1/revanced-patches-2.25.1.dex";
+      sha256 = "sha256-Z+hdlOqfp3sYqtBu5hbpKyP4sHTC7vQxpGoqdVtRpyY=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.25.0";
+    version = "2.25.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.0/revanced-patches-2.25.0.jar";
-      sha256 = "sha256-131VShYOiDQl4PrPVi+z546/1lDPPSYUy5LiQd7kgVo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.1/revanced-patches-2.25.1.jar";
+      sha256 = "sha256-VSEKQQfha/Tf27wb+AABr1CDomEBXkJ8hvID+mFeAO4=";
     };
   };
   rofi-wayland = {
