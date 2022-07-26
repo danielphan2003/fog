@@ -35738,6 +35738,25 @@
         },
         "version": "8.2.3"
     },
+    "wadoon-jml-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "wadoon-jml-vscode",
+        "passthru": {
+            "description": "VS Code support for Java Modelling Language",
+            "license": "GPL-2-later",
+            "name": "jml-vscode",
+            "publisher": "wadoon"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-0h/QeRyNg8rnjf65nQ5SrXiyFRxFhun+7gPDPI+RP9E=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/wadoon/jml-vscode/0.2.0/file/wadoon.jml-vscode-0.2.0.vsix"
+        },
+        "version": "0.2.0"
+    },
     "warpnet-salt-lint": {
         "cargoLocks": null,
         "extract": null,

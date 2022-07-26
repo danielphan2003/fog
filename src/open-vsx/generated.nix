@@ -22573,6 +22573,18 @@
     description = "See git blame information in the status bar.";
     publisher = "waderyan";
   };
+  wadoon-jml-vscode = {
+    pname = "wadoon-jml-vscode";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/wadoon/jml-vscode/0.2.0/file/wadoon.jml-vscode-0.2.0.vsix";
+      sha256 = "sha256-0h/QeRyNg8rnjf65nQ5SrXiyFRxFhun+7gPDPI+RP9E=";
+    };
+    license = "GPL-2-later";
+    name = "jml-vscode";
+    description = "VS Code support for Java Modelling Language";
+    publisher = "wadoon";
+  };
   warpnet-salt-lint = {
     pname = "warpnet-salt-lint";
     version = "0.1.0";
