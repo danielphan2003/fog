@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Zc2efZjTsTRY0db4Q81FxPrSzzJ9ScyDQj/2tLGh7Vw=",
+            "sha256": "sha256-P4KsKd/HgC9U/LrlyyvoxDitzOZUu9TaOk3LdMGjpwg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1229/file/Prisma.prisma-insider-31.0.1229.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1230/file/Prisma.prisma-insider-31.0.1230.vsix"
         },
-        "version": "31.0.1229"
+        "version": "31.0.1230"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12476,11 +12476,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AmDRXaoTG0Fgn+uEBQeTW5m2ENDe2kX0ByM5hMYj6H0=",
+            "sha256": "sha256-Jd1x5aFpDbGUWOiXsSuVwFhiJEsY1eRzTGSdJUI8ihA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.104.1/file/dendron.dendron-0.104.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.105.0/file/dendron.dendron-0.105.0.vsix"
         },
-        "version": "0.104.1"
+        "version": "0.105.0"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -16200,11 +16200,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-JAVPuewkrWZItmqY4V6IpI3v/0n1BDPTHFYqvbpxtMQ=",
+            "sha256": "sha256-zZNXV2rNJuQZum1TTREXIV0fxG03SY6geXj9xXjb8Mg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.1.7/file/hc.wallace-corporation-0.1.7.vsix"
+            "url": "https://open-vsx.org/api/hc/wallace-corporation/0.1.8/file/hc.wallace-corporation-0.1.8.vsix"
         },
-        "version": "0.1.7"
+        "version": "0.1.8"
     },
     "hcl-hcl-ztools": {
         "cargoLocks": null,

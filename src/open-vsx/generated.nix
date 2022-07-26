@@ -2979,10 +2979,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1229";
+    version = "31.0.1230";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1229/file/Prisma.prisma-insider-31.0.1229.vsix";
-      sha256 = "sha256-Zc2efZjTsTRY0db4Q81FxPrSzzJ9ScyDQj/2tLGh7Vw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1230/file/Prisma.prisma-insider-31.0.1230.vsix";
+      sha256 = "sha256-P4KsKd/HgC9U/LrlyyvoxDitzOZUu9TaOk3LdMGjpwg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7875,10 +7875,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.104.1";
+    version = "0.105.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.104.1/file/dendron.dendron-0.104.1.vsix";
-      sha256 = "sha256-AmDRXaoTG0Fgn+uEBQeTW5m2ENDe2kX0ByM5hMYj6H0=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.105.0/file/dendron.dendron-0.105.0.vsix";
+      sha256 = "sha256-Jd1x5aFpDbGUWOiXsSuVwFhiJEsY1eRzTGSdJUI8ihA=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -10227,10 +10227,10 @@
   };
   hc-wallace-corporation = {
     pname = "hc-wallace-corporation";
-    version = "0.1.7";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hc/wallace-corporation/0.1.7/file/hc.wallace-corporation-0.1.7.vsix";
-      sha256 = "sha256-JAVPuewkrWZItmqY4V6IpI3v/0n1BDPTHFYqvbpxtMQ=";
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.1.8/file/hc.wallace-corporation-0.1.8.vsix";
+      sha256 = "sha256-zZNXV2rNJuQZum1TTREXIV0fxG03SY6geXj9xXjb8Mg=";
     };
     license = "MIT";
     name = "wallace-corporation";
