@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "85e08510f7d8f258833456366403fec9426d860a";
+    version = "5a54b830bfde79120b78b8e623c4bf05c7aa103e";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "85e08510f7d8f258833456366403fec9426d860a";
+      rev = "5a54b830bfde79120b78b8e623c4bf05c7aa103e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-jbpTOwAWF0zC+6DQBohgomEZV+TXSdgfnrV96Vg8Yzc=";
+      sha256 = "sha256-TqGL8nvppepIaKRbjo6LHEwmiCj0ftle/tqMJaJ+f70=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-85e08510f7d8f258833456366403fec9426d860a/Cargo.lock;
+      lockFile = ./asusctl-5a54b830bfde79120b78b8e623c4bf05c7aa103e/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "57bbe195fb3569de35a7e9092a2bbb9d466b2474";
+    version = "a7a96296302da6bcbab3b6617845b37ed6e98681";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "57bbe195fb3569de35a7e9092a2bbb9d466b2474";
+      rev = "a7a96296302da6bcbab3b6617845b37ed6e98681";
       fetchSubmodules = false;
-      sha256 = "sha256-CiEoP6tUbKjK5/fNWzAerf707lCY6NMzYBnWVlQZU+A=";
+      sha256 = "sha256-+bStvA3O7EjmnDyKYLKVdMt6iOeC5JSeu9wZamdDf7g=";
     });
   };
   caddy = {
@@ -534,18 +534,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6381";
+    version = "1.0.6383";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6381.tar.bz2";
-      sha256 = "sha256-h5DRh25lEJBKjrK+vVZcBJ2lkeuFrXuaUgfTqIQED9A=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6383.tar.bz2";
+      sha256 = "sha256-WisZgk+7BFtFnm93/oJNH6iPLmuIEJwpj7X1ClR53NU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6381";
+    version = "1.0.6383";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6381-1_all.deb";
-      sha256 = "sha256-VkWMqZX3HSqqLJPdaKemPP6Tvr4vfrAzPvRVhoGUtM8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6383-1_all.deb";
+      sha256 = "sha256-Rurz7Dr0CBg37QQzt3h+hcBKbEOsyVqkI/dYfyrw23A=";
     };
   };
   jitsi-videobridge2 = {
@@ -1257,13 +1257,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "1228b2aa67a7cbf4418fa5b1d6bfe54f9685d004";
+    version = "0b803b2e3214ad3ea62f12ea60d99d85ed20349f";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "1228b2aa67a7cbf4418fa5b1d6bfe54f9685d004";
+      rev = "0b803b2e3214ad3ea62f12ea60d99d85ed20349f";
       fetchSubmodules = false;
-      sha256 = "sha256-HG2OsTkh5/oSkIeSXM4WlhYX+aBlrA/7Shi6kUtc+OE=";
+      sha256 = "sha256-Zrv+B6fSuV+NfWZjQQlRr2FV4kJaXWMnww7442qb0q8=";
     });
   };
   ultimmc = {
