@@ -13045,6 +13045,18 @@
     description = "Language support for Vue 3";
     publisher = "lukashass";
   };
+  lukepearson-cidr-ip-range = {
+    pname = "lukepearson-cidr-ip-range";
+    version = "0.0.8";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/lukepearson/cidr-ip-range/0.0.8/file/lukepearson.cidr-ip-range-0.0.8.vsix";
+      sha256 = "sha256-f1Pg0aFW8F26OCx6k/5Tm+uBPF3O1RVmF040krFNp+A=";
+    };
+    license = "GPL-3.0";
+    name = "cidr-ip-range";
+    description = "Shows the ip range covered by a cidr block";
+    publisher = "lukepearson";
+  };
   lukinco-lukin-vscode-theme = {
     pname = "lukinco-lukin-vscode-theme";
     version = "0.1.5";
@@ -18217,6 +18229,30 @@
     description = "Scala language server with rich IDE features";
     publisher = "scalameta";
   };
+  scheiblingco-code-netpack = {
+    pname = "scheiblingco-code-netpack";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/scheiblingco/code-netpack/0.0.1/file/scheiblingco.code-netpack-0.0.1.vsix";
+      sha256 = "sha256-ap4kv0GXWFfoI/q9gRXiTURiGNZSKERyL7fxcmcl1ZQ=";
+    };
+    license = "AGPL-3.0";
+    name = "code-netpack";
+    description = "VS Code extension packages for .NET development";
+    publisher = "scheiblingco";
+  };
+  scheiblingco-code-pypack = {
+    pname = "scheiblingco-code-pypack";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/scheiblingco/code-pypack/0.0.2/file/scheiblingco.code-pypack-0.0.2.vsix";
+      sha256 = "sha256-qObQqNwLv20wcY8ue45qeWlHXjf2UB8FGmdM6aHHvic=";
+    };
+    license = "AGPL-3.0";
+    name = "code-pypack";
+    description = "VS Code extension package for Python development.";
+    publisher = "scheiblingco";
+  };
   sdras-night-owl = {
     pname = "sdras-night-owl";
     version = "2.0.1";
@@ -19647,10 +19683,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.1.5";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.5/file/t-codespaces.ide-code-status-0.1.5.vsix";
-      sha256 = "sha256-mwzEfm175rQhkEow/xBh3NXz0od/fmh20hRiORZPgRU=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.0/file/t-codespaces.ide-code-status-0.2.0.vsix";
+      sha256 = "sha256-OrhoNlpr/hsSrtbXN3A24lcAkdLtsottxqMFkOCvCUc=";
     };
     license = "";
     name = "ide-code-status";

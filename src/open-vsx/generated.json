@@ -20652,6 +20652,25 @@
         },
         "version": "0.34.13"
     },
+    "lukepearson-cidr-ip-range": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "lukepearson-cidr-ip-range",
+        "passthru": {
+            "description": "Shows the ip range covered by a cidr block",
+            "license": "GPL-3.0",
+            "name": "cidr-ip-range",
+            "publisher": "lukepearson"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-f1Pg0aFW8F26OCx6k/5Tm+uBPF3O1RVmF040krFNp+A=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/lukepearson/cidr-ip-range/0.0.8/file/lukepearson.cidr-ip-range-0.0.8.vsix"
+        },
+        "version": "0.0.8"
+    },
     "lukinco-lukin-vscode-theme": {
         "cargoLocks": null,
         "extract": null,
@@ -28841,6 +28860,44 @@
         },
         "version": "1.18.0"
     },
+    "scheiblingco-code-netpack": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "scheiblingco-code-netpack",
+        "passthru": {
+            "description": "VS Code extension packages for .NET development",
+            "license": "AGPL-3.0",
+            "name": "code-netpack",
+            "publisher": "scheiblingco"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ap4kv0GXWFfoI/q9gRXiTURiGNZSKERyL7fxcmcl1ZQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/scheiblingco/code-netpack/0.0.1/file/scheiblingco.code-netpack-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
+    "scheiblingco-code-pypack": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "scheiblingco-code-pypack",
+        "passthru": {
+            "description": "VS Code extension package for Python development.",
+            "license": "AGPL-3.0",
+            "name": "code-pypack",
+            "publisher": "scheiblingco"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-qObQqNwLv20wcY8ue45qeWlHXjf2UB8FGmdM6aHHvic=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/scheiblingco/code-pypack/0.0.2/file/scheiblingco.code-pypack-0.0.2.vsix"
+        },
+        "version": "0.0.2"
+    },
     "sdras-night-owl": {
         "cargoLocks": null,
         "extract": null,
@@ -31115,11 +31172,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mwzEfm175rQhkEow/xBh3NXz0od/fmh20hRiORZPgRU=",
+            "sha256": "sha256-OrhoNlpr/hsSrtbXN3A24lcAkdLtsottxqMFkOCvCUc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.5/file/t-codespaces.ide-code-status-0.1.5.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.0/file/t-codespaces.ide-code-status-0.2.0.vsix"
         },
-        "version": "0.1.5"
+        "version": "0.2.0"
     },
     "t-codespaces-ide-data-sync": {
         "cargoLocks": null,
