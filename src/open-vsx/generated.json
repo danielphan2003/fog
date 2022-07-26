@@ -30304,6 +30304,25 @@
         },
         "version": "2.3.1"
     },
+    "streetsidesoftware-code-spell-checker-arabic": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "streetsidesoftware-code-spell-checker-arabic",
+        "passthru": {
+            "description": "Arabic dictionary extension for VS Code.",
+            "license": "GPL-3.0-or-later",
+            "name": "code-spell-checker-arabic",
+            "publisher": "streetsidesoftware"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-wEnPvTxsa9n4wI8Ldb73WPL4D5WG3QxpP8dbB4+v/4w=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-arabic/0.1.0/file/streetsidesoftware.code-spell-checker-arabic-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "streetsidesoftware-code-spell-checker-bulgarian": {
         "cargoLocks": null,
         "extract": null,
@@ -33623,11 +33642,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3Ekfb+Ri+Y3fLuQepnmXg201XxE+rxTahDGzwjK5h2E=",
+            "sha256": "sha256-jH7lndA+BbrJGkRioHuNpkJgxy9Cd/sy28Y31m88/U0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.24.0/file/vscjava.vscode-java-pack-0.24.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.0/file/vscjava.vscode-java-pack-0.25.0.vsix"
         },
-        "version": "0.24.0"
+        "version": "0.25.0"
     },
     "vscjava-vscode-java-test": {
         "cargoLocks": null,

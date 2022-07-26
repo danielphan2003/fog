@@ -19141,6 +19141,18 @@
     description = "Spelling checker for source code";
     publisher = "streetsidesoftware";
   };
+  streetsidesoftware-code-spell-checker-arabic = {
+    pname = "streetsidesoftware-code-spell-checker-arabic";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-arabic/0.1.0/file/streetsidesoftware.code-spell-checker-arabic-0.1.0.vsix";
+      sha256 = "sha256-wEnPvTxsa9n4wI8Ldb73WPL4D5WG3QxpP8dbB4+v/4w=";
+    };
+    license = "GPL-3.0-or-later";
+    name = "code-spell-checker-arabic";
+    description = "Arabic dictionary extension for VS Code.";
+    publisher = "streetsidesoftware";
+  };
   streetsidesoftware-code-spell-checker-bulgarian = {
     pname = "streetsidesoftware-code-spell-checker-bulgarian";
     version = "0.1.5";
@@ -21231,10 +21243,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.24.0";
+    version = "0.25.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.24.0/file/vscjava.vscode-java-pack-0.24.0.vsix";
-      sha256 = "sha256-3Ekfb+Ri+Y3fLuQepnmXg201XxE+rxTahDGzwjK5h2E=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.0/file/vscjava.vscode-java-pack-0.25.0.vsix";
+      sha256 = "sha256-jH7lndA+BbrJGkRioHuNpkJgxy9Cd/sy28Y31m88/U0=";
     };
     license = "MIT";
     name = "vscode-java-pack";
