@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "80f650567134fb6a3169a7dabc02ef269d24bbab";
+    version = "6e0610dfdc178081b5630d8e168a7c66c99963b6";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "80f650567134fb6a3169a7dabc02ef269d24bbab";
+      rev = "6e0610dfdc178081b5630d8e168a7c66c99963b6";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Be3hfVD7/n8RqqGW+2AyG16SBV0YYJAktVcJJgVKNsw=";
+      sha256 = "sha256-mQVCuciZbRaBQNkrsnyCyq7MxNXK1JFIlbXnJUB+0S4=";
     };
   };
   flyingfox = {
@@ -534,18 +534,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6383";
+    version = "1.0.6384";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6383.tar.bz2";
-      sha256 = "sha256-WisZgk+7BFtFnm93/oJNH6iPLmuIEJwpj7X1ClR53NU=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6384.tar.bz2";
+      sha256 = "sha256-JF/OjmE1VfDSakiEblnN4oAinHnOyDWY4UwazKIxMWA=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6383";
+    version = "1.0.6384";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6383-1_all.deb";
-      sha256 = "sha256-Rurz7Dr0CBg37QQzt3h+hcBKbEOsyVqkI/dYfyrw23A=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6384-1_all.deb";
+      sha256 = "sha256-fVbo5CZGnXOiFHXtNoJfkPvR1lSsVL6Gd9P6FgIYF+s=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "acfe990ec6e322377936fe06d7dd29274c23bbd3";
+    version = "eb4440fafae113dd9604612ecc777117b8cb3baf";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "acfe990ec6e322377936fe06d7dd29274c23bbd3";
+      rev = "eb4440fafae113dd9604612ecc777117b8cb3baf";
       fetchSubmodules = false;
-      sha256 = "sha256-QtO5t4U1PwyLcXZlJiWecE9r1l7j2p8G29zkWReSg94=";
+      sha256 = "sha256-XX9GeLEYUJQy1BakRUaGBgSotWyFVrfEIQzT/cJA3Gw=";
     });
   };
   revanced-cli = {
@@ -1257,13 +1257,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "0b803b2e3214ad3ea62f12ea60d99d85ed20349f";
+    version = "7c8fe393d65aa5511a45d406a1144aad4e8d9a77";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "0b803b2e3214ad3ea62f12ea60d99d85ed20349f";
+      rev = "7c8fe393d65aa5511a45d406a1144aad4e8d9a77";
       fetchSubmodules = false;
-      sha256 = "sha256-Zrv+B6fSuV+NfWZjQQlRr2FV4kJaXWMnww7442qb0q8=";
+      sha256 = "sha256-Is4MBQu3uJvgm7awdNroP4oiY1P/gsmgRBb9T+VadME=";
     });
   };
   ultimmc = {
@@ -1442,14 +1442,14 @@
   };
   xwayland = {
     pname = "xwayland";
-    version = "11beef0b7f1ed290348e45618e5fa0d2bffcb72e";
+    version = "24d7d93ff2dc0ef4a0517734f0aae01cd7d57bba";
     src = fetchgit {
       url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "11beef0b7f1ed290348e45618e5fa0d2bffcb72e";
+      rev = "24d7d93ff2dc0ef4a0517734f0aae01cd7d57bba";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-pDWXTEYQO6tuiVeSDEtUKJZDTyPTktj0ay/mPRF8jb4=";
+      sha256 = "sha256-tNKDwS6nxQfE4DLPk3MSjUCJIDucTMDJiHaUxjXhu+k=";
     };
   };
   ydotool = {
