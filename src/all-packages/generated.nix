@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "66eac124e263073d3f6f7afdd3a5bfc35eb15353";
+    version = "7dc014e967260ce576eaa5d4b0775a2a03bee969";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "66eac124e263073d3f6f7afdd3a5bfc35eb15353";
+      rev = "7dc014e967260ce576eaa5d4b0775a2a03bee969";
       fetchSubmodules = false;
-      sha256 = "sha256-5GR2tcp36Wemv+qF/0Abo9pXcXsZNpRdMeqro32yChc=";
+      sha256 = "sha256-8ySZosiTdSP1y+hAhOI4zjHhrtI5LoN2VJGOMgv9Ixk=";
     });
   };
   ibus = {
@@ -534,18 +534,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6385";
+    version = "1.0.6386";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6385.tar.bz2";
-      sha256 = "sha256-/m4ALhT9dwYShKvMwdjWjfinFVNt853AOlK9QfSoabE=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6386.tar.bz2";
+      sha256 = "sha256-nqBDrphvPmvfnnG96WhwtEMZrv6GWhTWxZTPmtQNcLk=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6385";
+    version = "1.0.6386";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6385-1_all.deb";
-      sha256 = "sha256-V+433eFGIZE2DbqTSWNgoXk2qo0W7b9hTAF1OI2N0a4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6386-1_all.deb";
+      sha256 = "sha256-VmKQN3yu27+keKnvhID8nGyT6ANMa2MTCIk88VPcl8M=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "eb4440fafae113dd9604612ecc777117b8cb3baf";
+    version = "29f0ba2e714eaa02a9f111a68c20e6e121b5fc2e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "eb4440fafae113dd9604612ecc777117b8cb3baf";
+      rev = "29f0ba2e714eaa02a9f111a68c20e6e121b5fc2e";
       fetchSubmodules = false;
-      sha256 = "sha256-XX9GeLEYUJQy1BakRUaGBgSotWyFVrfEIQzT/cJA3Gw=";
+      sha256 = "sha256-LOL/kXFZndv9O0T4Wt7+6vxu4y/GZHSgFEuCyc9lBuQ=";
     });
   };
   revanced-cli = {
@@ -951,18 +951,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.22.2";
+    version = "2.23.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.2/revanced-patches-2.22.2.dex";
-      sha256 = "sha256-IUzbZ1CqjruPMcxKVswOBztEYBZlOwGQ9bh4RwAQfHo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.23.0/revanced-patches-2.23.0.dex";
+      sha256 = "sha256-6IMPe26eKLQaUrRVX1lzz20haKWlzX4docQc77CjmcQ=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.22.2";
+    version = "2.23.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.22.2/revanced-patches-2.22.2.jar";
-      sha256 = "sha256-SuQT5aAWKNbfTY1M9tWcn/gTtWElWBk/EtDQXlDZVn8=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.23.0/revanced-patches-2.23.0.jar";
+      sha256 = "sha256-BiVylfdxjN02b/KPiQg6p/CW972bLVPPvPbkl6qpRiM=";
     };
   };
   rofi-wayland = {
@@ -978,16 +978,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "4d1d90a09038da9c5003f6c1d59cd27edecb8a4c";
+    version = "6981ae1c20c65381761927bff25040173c2924b5";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "4d1d90a09038da9c5003f6c1d59cd27edecb8a4c";
+      rev = "6981ae1c20c65381761927bff25040173c2924b5";
       fetchSubmodules = false;
-      sha256 = "sha256-N1fhZPTvFDMNLeYQbcekoKP/p59k4F3E5deSbvJ9grQ=";
+      sha256 = "sha256-EJV2zvbgjlkZ0WwjgcmPg1NXiNL7bhTPVAYXhFmRfMA=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-4d1d90a09038da9c5003f6c1d59cd27edecb8a4c/Cargo.lock;
+      lockFile = ./rustdesk-6981ae1c20c65381761927bff25040173c2924b5/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
