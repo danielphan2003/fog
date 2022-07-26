@@ -711,10 +711,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.4.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.4.0/file/DCsunset.vscode-modal-editor-1.4.0.vsix";
-      sha256 = "sha256-bQ+KkJq+zZBfpIJ9QEwtYAGm/90dEQGZ682YdEgXapY=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.0/file/DCsunset.vscode-modal-editor-1.5.0.vsix";
+      sha256 = "sha256-6ElDg/o/AdYRm+NGESmao4Ttt/JtGu72e5XaG3oDlzo=";
     };
     license = "AGPL-3.0";
     name = "vscode-modal-editor";
@@ -1071,10 +1071,10 @@
   };
   F5DevCentral-vscode-f5 = {
     pname = "F5DevCentral-vscode-f5";
-    version = "3.8.2";
+    version = "3.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.2/file/F5DevCentral.vscode-f5-3.8.2.vsix";
-      sha256 = "sha256-ILhhHY7Y/kQDJ5HW57sbTlyibdKPVRCZQEgv4NPtYZE=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.3/file/F5DevCentral.vscode-f5-3.8.3.vsix";
+      sha256 = "sha256-nWDVstLcN5AlStn73fhng/gc9sWONLlPOKeqVBG0g88=";
     };
     license = "Apache-2.0";
     name = "vscode-f5";
@@ -9663,10 +9663,10 @@
   };
   getpsalm-psalm-vscode-plugin = {
     pname = "getpsalm-psalm-vscode-plugin";
-    version = "2.6.0";
+    version = "2.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.6.0/file/getpsalm.psalm-vscode-plugin-2.6.0.vsix";
-      sha256 = "sha256-1q0B0+8jPQBhKNxrT8TiGvEEt8+GMU4ANUx6tSaDgio=";
+      url = "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.7.0/file/getpsalm.psalm-vscode-plugin-2.7.0.vsix";
+      sha256 = "sha256-G9cuk2L9imGZ3lEYJtsrDYT3+b3t11gqsegpoNYLsTA=";
     };
     license = "MIT";
     name = "psalm-vscode-plugin";
@@ -13515,10 +13515,10 @@
   };
   mbari-tethysl = {
     pname = "mbari-tethysl";
-    version = "2.3.5";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mbari/tethysl/2.3.5/file/mbari.tethysl-2.3.5.vsix";
-      sha256 = "sha256-22TppjKWuKDbuXQkNtHRWJjwg4SjJv0kkxD/nPBExQg=";
+      url = "https://open-vsx.org/api/mbari/tethysl/2.4.0/file/mbari.tethysl-2.4.0.vsix";
+      sha256 = "sha256-sdsf84LHpbpSao/E1R0rELnDWjVQ+rp/qUTog0pI9cU=";
     };
     license = "Apache-2.0";
     name = "tethysl";
@@ -15087,10 +15087,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.80.1";
+    version = "0.90.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.80.1/file/mutable-ai.mutable-ai-0.80.1.vsix";
-      sha256 = "sha256-wmgeJgKksa2uVh6tfyaw5LIOcLchX9SAoALVIpsJnnU=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.2/file/mutable-ai.mutable-ai-0.90.2.vsix";
+      sha256 = "sha256-VbmLoT0APQdBUmZcv91tydME0QesNzTi2Q+p621Mwfs=";
     };
     license = "";
     name = "mutable-ai";
@@ -16887,10 +16887,10 @@
   };
   quick-lint-quick-lint-js = {
     pname = "quick-lint-quick-lint-js";
-    version = "2.7.0";
+    version = "2.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.7.0/file/quick-lint.quick-lint-js-2.7.0.vsix";
-      sha256 = "sha256-SQbJdjsVcRllQDSPuycHKV6Uk/Hq5j48tu7df12sSJc=";
+      url = "https://open-vsx.org/api/quick-lint/quick-lint-js/2.8.0/file/quick-lint.quick-lint-js-2.8.0.vsix";
+      sha256 = "sha256-qrO1JuRQJszaOgzvfsQrrVMEwROLZ5xsTtcdQiy3wz0=";
     };
     license = "GPL-3.0";
     name = "quick-lint-js";
@@ -19635,10 +19635,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.1.3";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.3/file/t-codespaces.ide-code-status-0.1.3.vsix";
-      sha256 = "sha256-PNATIo9hnqsFpvqYv1JAkQxEL/MMAqVZs7awymOEQiA=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.5/file/t-codespaces.ide-code-status-0.1.5.vsix";
+      sha256 = "sha256-mwzEfm175rQhkEow/xBh3NXz0od/fmh20hRiORZPgRU=";
     };
     license = "";
     name = "ide-code-status";

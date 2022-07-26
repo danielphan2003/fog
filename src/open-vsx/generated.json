@@ -1133,11 +1133,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bQ+KkJq+zZBfpIJ9QEwtYAGm/90dEQGZ682YdEgXapY=",
+            "sha256": "sha256-6ElDg/o/AdYRm+NGESmao4Ttt/JtGu72e5XaG3oDlzo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.4.0/file/DCsunset.vscode-modal-editor-1.4.0.vsix"
+            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.0/file/DCsunset.vscode-modal-editor-1.5.0.vsix"
         },
-        "version": "1.4.0"
+        "version": "1.5.0"
     },
     "Daimler-sechub": {
         "cargoLocks": null,
@@ -1703,11 +1703,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ILhhHY7Y/kQDJ5HW57sbTlyibdKPVRCZQEgv4NPtYZE=",
+            "sha256": "sha256-nWDVstLcN5AlStn73fhng/gc9sWONLlPOKeqVBG0g88=",
             "type": "url",
-            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.2/file/F5DevCentral.vscode-f5-3.8.2.vsix"
+            "url": "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.3/file/F5DevCentral.vscode-f5-3.8.3.vsix"
         },
-        "version": "3.8.2"
+        "version": "3.8.3"
     },
     "F5DevCentral-vscode-f5-chariot": {
         "cargoLocks": null,
@@ -15307,11 +15307,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1q0B0+8jPQBhKNxrT8TiGvEEt8+GMU4ANUx6tSaDgio=",
+            "sha256": "sha256-G9cuk2L9imGZ3lEYJtsrDYT3+b3t11gqsegpoNYLsTA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.6.0/file/getpsalm.psalm-vscode-plugin-2.6.0.vsix"
+            "url": "https://open-vsx.org/api/getpsalm/psalm-vscode-plugin/2.7.0/file/getpsalm.psalm-vscode-plugin-2.7.0.vsix"
         },
-        "version": "2.6.0"
+        "version": "2.7.0"
     },
     "ggbecker-content-navigator": {
         "cargoLocks": null,
@@ -21406,11 +21406,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-22TppjKWuKDbuXQkNtHRWJjwg4SjJv0kkxD/nPBExQg=",
+            "sha256": "sha256-sdsf84LHpbpSao/E1R0rELnDWjVQ+rp/qUTog0pI9cU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mbari/tethysl/2.3.5/file/mbari.tethysl-2.3.5.vsix"
+            "url": "https://open-vsx.org/api/mbari/tethysl/2.4.0/file/mbari.tethysl-2.4.0.vsix"
         },
-        "version": "2.3.5"
+        "version": "2.4.0"
     },
     "mbari-tethysltest": {
         "cargoLocks": null,
@@ -23895,11 +23895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wmgeJgKksa2uVh6tfyaw5LIOcLchX9SAoALVIpsJnnU=",
+            "sha256": "sha256-VbmLoT0APQdBUmZcv91tydME0QesNzTi2Q+p621Mwfs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.80.1/file/mutable-ai.mutable-ai-0.80.1.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.2/file/mutable-ai.mutable-ai-0.90.2.vsix"
         },
-        "version": "0.80.1"
+        "version": "0.90.2"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -26745,11 +26745,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SQbJdjsVcRllQDSPuycHKV6Uk/Hq5j48tu7df12sSJc=",
+            "sha256": "sha256-qrO1JuRQJszaOgzvfsQrrVMEwROLZ5xsTtcdQiy3wz0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.7.0/file/quick-lint.quick-lint-js-2.7.0.vsix"
+            "url": "https://open-vsx.org/api/quick-lint/quick-lint-js/2.8.0/file/quick-lint.quick-lint-js-2.8.0.vsix"
         },
-        "version": "2.7.0"
+        "version": "2.8.0"
     },
     "qux-bbb-text-utils": {
         "cargoLocks": null,
@@ -31096,11 +31096,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PNATIo9hnqsFpvqYv1JAkQxEL/MMAqVZs7awymOEQiA=",
+            "sha256": "sha256-mwzEfm175rQhkEow/xBh3NXz0od/fmh20hRiORZPgRU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.3/file/t-codespaces.ide-code-status-0.1.3.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.1.5/file/t-codespaces.ide-code-status-0.1.5.vsix"
         },
-        "version": "0.1.3"
+        "version": "0.1.5"
     },
     "t-codespaces-ide-data-sync": {
         "cargoLocks": null,
