@@ -1791,10 +1791,10 @@
   };
   James-Yu-latex-workshop = {
     pname = "James-Yu-latex-workshop";
-    version = "8.27.2";
+    version = "8.28.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.27.2/file/James-Yu.latex-workshop-8.27.2.vsix";
-      sha256 = "sha256-4Z7EN56U7TTIESfwv7BRztYZtQwrVry9dMdlVAFjVgk=";
+      url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.28.0/file/James-Yu.latex-workshop-8.28.0.vsix";
+      sha256 = "sha256-XvadO+nsRRaEiCC9+4BPurLhcFs4LHrQ8oDINfdaCcY=";
     };
     license = "MIT";
     name = "latex-workshop";
@@ -3387,10 +3387,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.2313";
+    version = "2022.7.2517";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2313/file/Slint.slint-nightly-2022.7.2313.vsix";
-      sha256 = "sha256-JIT+4OveeLjUTnIRs0y4a6Oz9Rife5kZci2Vx7c6bXo=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2517/file/Slint.slint-nightly-2022.7.2517.vsix";
+      sha256 = "sha256-pVzvPTYehSkTA1oZ5soMYSbhUgEtRLdXYbs4bKJTQTU=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -4827,10 +4827,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.45.0";
+    version = "1.46.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.45.0/file/amazonwebservices.aws-toolkit-vscode-1.45.0.vsix";
-      sha256 = "sha256-JduIIch4MGOkyRbv79/UNiBW7RojZAm3XiTse/JbBeA=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.46.0/file/amazonwebservices.aws-toolkit-vscode-1.46.0.vsix";
+      sha256 = "sha256-8rst7q5bYXLzd/yIvh5GCoGT3eVPjK8oZGPL4JM462c=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -10095,10 +10095,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.7.4";
+    version = "0.7.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.4/file/halcyontechltd.vscode-rpgle-0.7.4.vsix";
-      sha256 = "sha256-HnInsvubn1bozCmCAJkHDO3JkF4grt9Dfa91cFvDbx4=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.5/file/halcyontechltd.vscode-rpgle-0.7.5.vsix";
+      sha256 = "sha256-zLtpCH2go8sNx1Gk0I2kfq5YF01xjSrlNSG+EEoomFY=";
     };
     license = "MIT";
     name = "vscode-rpgle";
