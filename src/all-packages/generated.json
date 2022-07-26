@@ -196,9 +196,9 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-2584d69930e615482a756000dd77ab5ff821f6f5/Cargo.lock",
+                "./asusctl-38be25174a3413d34ab5dadaece24b226bc913a7/Cargo.lock",
                 {
-                    "eframe-0.18.0": "sha256-s1bntFVDdGqm7V50OsI4V5SXlHfu3ybPWtyBX7yyuWY="
+                    "eframe-0.18.0": "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ="
                 }
             ]
         },
@@ -211,12 +211,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "2584d69930e615482a756000dd77ab5ff821f6f5",
-            "sha256": "sha256-H0EvH/UAllMdYXj6P3BJIEmEAdyaIhGYguP9BPv8GsQ=",
+            "rev": "38be25174a3413d34ab5dadaece24b226bc913a7",
+            "sha256": "sha256-oXd6K27V5J9KY9ON8N1ws6Jbrs1+fm7nXXceG/1s7Q0=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "2584d69930e615482a756000dd77ab5ff821f6f5"
+        "version": "38be25174a3413d34ab5dadaece24b226bc913a7"
     },
     "avizo": {
         "cargoLocks": null,
@@ -340,11 +340,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "f81e2e73904bf2fb4f5f8933fb6469bad4317477",
-            "sha256": "sha256-ZxC3yAD+R+uFV8IO7jpIWBibgW18onZeoTUWMGgMroM=",
+            "rev": "57bbe195fb3569de35a7e9092a2bbb9d466b2474",
+            "sha256": "sha256-CiEoP6tUbKjK5/fNWzAerf707lCY6NMzYBnWVlQZU+A=",
             "type": "github"
         },
-        "version": "f81e2e73904bf2fb4f5f8933fb6469bad4317477"
+        "version": "57bbe195fb3569de35a7e9092a2bbb9d466b2474"
     },
     "caddy": {
         "cargoLocks": null,
