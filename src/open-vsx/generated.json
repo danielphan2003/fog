@@ -17682,11 +17682,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eV7RZLoBKPtv5QsEENHl6Tl6KsZZCxIuq/Yds/l6NE8=",
+            "sha256": "sha256-0L994y/x8YsmIEZd/r4vHFTFMZKdwovE/1LTYadXF2M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.12/file/iterative.dvc-0.3.12.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.13/file/iterative.dvc-0.3.13.vsix"
         },
-        "version": "0.3.12"
+        "version": "0.3.13"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
