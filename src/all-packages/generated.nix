@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "7dc014e967260ce576eaa5d4b0775a2a03bee969";
+    version = "71c1ff8ee381de129ca8b35336343243ef03b77c";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "7dc014e967260ce576eaa5d4b0775a2a03bee969";
+      rev = "71c1ff8ee381de129ca8b35336343243ef03b77c";
       fetchSubmodules = false;
-      sha256 = "sha256-8ySZosiTdSP1y+hAhOI4zjHhrtI5LoN2VJGOMgv9Ixk=";
+      sha256 = "sha256-YRxw24HtVdYlaA9CItnplknMNGZ0xEedC4yoi1QhWkE=";
     });
   };
   ibus = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "29f0ba2e714eaa02a9f111a68c20e6e121b5fc2e";
+    version = "83ac65d855484abab8cca9f0a81269b60f39937f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "29f0ba2e714eaa02a9f111a68c20e6e121b5fc2e";
+      rev = "83ac65d855484abab8cca9f0a81269b60f39937f";
       fetchSubmodules = false;
-      sha256 = "sha256-LOL/kXFZndv9O0T4Wt7+6vxu4y/GZHSgFEuCyc9lBuQ=";
+      sha256 = "sha256-3ssH1drrkjI7v+QbiqmfwMN0bSfCdBuvTzTFReQUvTE=";
     });
   };
   revanced-cli = {
@@ -951,18 +951,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.23.0";
+    version = "2.25.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.23.0/revanced-patches-2.23.0.dex";
-      sha256 = "sha256-6IMPe26eKLQaUrRVX1lzz20haKWlzX4docQc77CjmcQ=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.0/revanced-patches-2.25.0.dex";
+      sha256 = "sha256-/22m3gWpcL4avrcVW4TqJl8yYq6vajub9TMz1FAi6ew=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.23.0";
+    version = "2.25.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.23.0/revanced-patches-2.23.0.jar";
-      sha256 = "sha256-BiVylfdxjN02b/KPiQg6p/CW972bLVPPvPbkl6qpRiM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.0/revanced-patches-2.25.0.jar";
+      sha256 = "sha256-131VShYOiDQl4PrPVi+z546/1lDPPSYUy5LiQd7kgVo=";
     };
   };
   rofi-wayland = {
