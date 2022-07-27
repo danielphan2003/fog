@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bdLB1kw/O8wzXkRbkoec3DmXbA+82hHZwiiKSH9sAsc=",
+            "sha256": "sha256-Omd56CSkr0g1BBSXjA/vdVl9+Bt3CpS/PWKz/nn0YLg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1234/file/Prisma.prisma-insider-31.0.1234.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1235/file/Prisma.prisma-insider-31.0.1235.vsix"
         },
-        "version": "31.0.1234"
+        "version": "31.0.1235"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8961,11 +8961,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qVefJszXuBXE/o64ZXe3DqC05Nf14Ek6YWKgiSI4QjI=",
+            "sha256": "sha256-p333J6DRt95UWWZRnlaW7qAXDvCe7eoHYyXZXqys8DU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.1/file/astro-build.astro-vscode-0.20.1.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.3/file/astro-build.astro-vscode-0.20.3.vsix"
         },
-        "version": "0.20.1"
+        "version": "0.20.3"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -22660,11 +22660,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KJ9mU3tO3zrrxQ8X5C/wjpiMEztIcYMlktmdSemeflM=",
+            "sha256": "sha256-rnPXXmKUscm1nFBAcoTl+Vz9Cw3ODbCy1e4RY96Po2M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.255/file/ms-pyright.pyright-1.1.255.vsix"
+            "url": "https://open-vsx.org/api/ms-pyright/pyright/1.1.264/file/ms-pyright.pyright-1.1.264.vsix"
         },
-        "version": "1.1.255"
+        "version": "1.1.264"
     },
     "ms-python-anaconda-extension-pack": {
         "cargoLocks": null,
@@ -31970,11 +31970,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZZnPn5Pr0GwgCAxsSqVSPXCoFXeYBOIACyMbu0w6mMs=",
+            "sha256": "sha256-bwPQJ0lfU66ERmOMFQQQFDoR70YC/pQgfCMeadwLbQ4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/toit/toit/1.6.3/file/toit.toit-1.6.3.vsix"
+            "url": "https://open-vsx.org/api/toit/toit/1.6.4/file/toit.toit-1.6.4.vsix"
         },
-        "version": "1.6.3"
+        "version": "1.6.4"
     },
     "tokiwa-software-fuzion-lang": {
         "cargoLocks": null,

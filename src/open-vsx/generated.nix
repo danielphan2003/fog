@@ -2979,10 +2979,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1234";
+    version = "31.0.1235";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1234/file/Prisma.prisma-insider-31.0.1234.vsix";
-      sha256 = "sha256-bdLB1kw/O8wzXkRbkoec3DmXbA+82hHZwiiKSH9sAsc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1235/file/Prisma.prisma-insider-31.0.1235.vsix";
+      sha256 = "sha256-Omd56CSkr0g1BBSXjA/vdVl9+Bt3CpS/PWKz/nn0YLg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5655,10 +5655,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.20.1";
+    version = "0.20.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.20.1/file/astro-build.astro-vscode-0.20.1.vsix";
-      sha256 = "sha256-qVefJszXuBXE/o64ZXe3DqC05Nf14Ek6YWKgiSI4QjI=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.20.3/file/astro-build.astro-vscode-0.20.3.vsix";
+      sha256 = "sha256-p333J6DRt95UWWZRnlaW7qAXDvCe7eoHYyXZXqys8DU=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -14307,10 +14307,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.255";
+    version = "1.1.264";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.255/file/ms-pyright.pyright-1.1.255.vsix";
-      sha256 = "sha256-KJ9mU3tO3zrrxQ8X5C/wjpiMEztIcYMlktmdSemeflM=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.264/file/ms-pyright.pyright-1.1.264.vsix";
+      sha256 = "sha256-rnPXXmKUscm1nFBAcoTl+Vz9Cw3ODbCy1e4RY96Po2M=";
     };
     license = "MIT";
     name = "pyright";
@@ -20187,10 +20187,10 @@
   };
   toit-toit = {
     pname = "toit-toit";
-    version = "1.6.3";
+    version = "1.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/toit/toit/1.6.3/file/toit.toit-1.6.3.vsix";
-      sha256 = "sha256-ZZnPn5Pr0GwgCAxsSqVSPXCoFXeYBOIACyMbu0w6mMs=";
+      url = "https://open-vsx.org/api/toit/toit/1.6.4/file/toit.toit-1.6.4.vsix";
+      sha256 = "sha256-bwPQJ0lfU66ERmOMFQQQFDoR70YC/pQgfCMeadwLbQ4=";
     };
     license = "MIT";
     name = "toit";
