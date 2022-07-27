@@ -1836,11 +1836,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gXe3zVToph0gtcaDOfKt6YFYYbA5cq5sJLGY/i+rNXw=",
+            "sha256": "sha256-KWncDYFataTcMo89uYaKuuD9aOuCxFBOP3SvrUCBp88=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Fr43nk/seito-openfile/1.8.8/file/Fr43nk.seito-openfile-1.8.8.vsix"
+            "url": "https://open-vsx.org/api/Fr43nk/seito-openfile/1.8.9/file/Fr43nk.seito-openfile-1.8.9.vsix"
         },
-        "version": "1.8.8"
+        "version": "1.8.9"
     },
     "FreeFlyingSheep-loongarch-assembly": {
         "cargoLocks": null,
@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P4KsKd/HgC9U/LrlyyvoxDitzOZUu9TaOk3LdMGjpwg=",
+            "sha256": "sha256-A1qbcS3CbP0R+LvZHy5zm64JJGMdb0RiTtJtbsleiPc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1230/file/Prisma.prisma-insider-31.0.1230.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1231/file/Prisma.prisma-insider-31.0.1231.vsix"
         },
-        "version": "31.0.1230"
+        "version": "31.0.1231"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5370,11 +5370,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pVzvPTYehSkTA1oZ5soMYSbhUgEtRLdXYbs4bKJTQTU=",
+            "sha256": "sha256-h9bUAlD8XWoZ4+rawM4N8n3D5tC7pe3kHT8dzCCWMi0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2517/file/Slint.slint-nightly-2022.7.2517.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2617/file/Slint.slint-nightly-2022.7.2617.vsix"
         },
-        "version": "2022.7.2517"
+        "version": "2022.7.2617"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -15991,11 +15991,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nhItRroOymiPfdfdHEf08o/dNFBcdNNJfiNgN/fJRrs=",
+            "sha256": "sha256-A0muPpULOa2Ns0N8DhnWpRwoBoCny06PAVXoHjqY1QU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.6/file/halcyontechltd.vscode-rpgle-0.7.6.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.0/file/halcyontechltd.vscode-rpgle-0.8.0.vsix"
         },
-        "version": "0.7.6"
+        "version": "0.8.0"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -33680,11 +33680,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Zk2sPws0LRdBzO1R7C1qp7z9Q3OX702JbpAKhWWO16U=",
+            "sha256": "sha256-XfOJ0kiwuYj++lWNnw9DqTo8BTuZkqPhMFeyvEZbp/Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.42.0/file/vscjava.vscode-java-debug-0.42.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-debug/0.43.0/file/vscjava.vscode-java-debug-0.43.0.vsix"
         },
-        "version": "0.42.0"
+        "version": "0.43.0"
     },
     "vscjava-vscode-java-dependency": {
         "cargoLocks": null,
@@ -33699,11 +33699,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YD+TSpGaLMxLT38Fe/Xa46o+plepKKjYPLsyXBOvM3c=",
+            "sha256": "sha256-ptav3KR4Tu/P2kEJLq7Y/PUiFJBk79ptSDbjM4KTXWY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.20.0/file/vscjava.vscode-java-dependency-0.20.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.21.0/file/vscjava.vscode-java-dependency-0.21.0.vsix"
         },
-        "version": "0.20.0"
+        "version": "0.21.0"
     },
     "vscjava-vscode-java-pack": {
         "cargoLocks": null,

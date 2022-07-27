@@ -1155,10 +1155,10 @@
   };
   Fr43nk-seito-openfile = {
     pname = "Fr43nk-seito-openfile";
-    version = "1.8.8";
+    version = "1.8.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Fr43nk/seito-openfile/1.8.8/file/Fr43nk.seito-openfile-1.8.8.vsix";
-      sha256 = "sha256-gXe3zVToph0gtcaDOfKt6YFYYbA5cq5sJLGY/i+rNXw=";
+      url = "https://open-vsx.org/api/Fr43nk/seito-openfile/1.8.9/file/Fr43nk.seito-openfile-1.8.9.vsix";
+      sha256 = "sha256-KWncDYFataTcMo89uYaKuuD9aOuCxFBOP3SvrUCBp88=";
     };
     license = "MIT";
     name = "seito-openfile";
@@ -2979,10 +2979,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1230";
+    version = "31.0.1231";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1230/file/Prisma.prisma-insider-31.0.1230.vsix";
-      sha256 = "sha256-P4KsKd/HgC9U/LrlyyvoxDitzOZUu9TaOk3LdMGjpwg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1231/file/Prisma.prisma-insider-31.0.1231.vsix";
+      sha256 = "sha256-A1qbcS3CbP0R+LvZHy5zm64JJGMdb0RiTtJtbsleiPc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3387,10 +3387,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.2517";
+    version = "2022.7.2617";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2517/file/Slint.slint-nightly-2022.7.2517.vsix";
-      sha256 = "sha256-pVzvPTYehSkTA1oZ5soMYSbhUgEtRLdXYbs4bKJTQTU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2617/file/Slint.slint-nightly-2022.7.2617.vsix";
+      sha256 = "sha256-h9bUAlD8XWoZ4+rawM4N8n3D5tC7pe3kHT8dzCCWMi0=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -10095,10 +10095,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.7.6";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.7.6/file/halcyontechltd.vscode-rpgle-0.7.6.vsix";
-      sha256 = "sha256-nhItRroOymiPfdfdHEf08o/dNFBcdNNJfiNgN/fJRrs=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.0/file/halcyontechltd.vscode-rpgle-0.8.0.vsix";
+      sha256 = "sha256-A0muPpULOa2Ns0N8DhnWpRwoBoCny06PAVXoHjqY1QU=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -21267,10 +21267,10 @@
   };
   vscjava-vscode-java-debug = {
     pname = "vscjava-vscode-java-debug";
-    version = "0.42.0";
+    version = "0.43.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.42.0/file/vscjava.vscode-java-debug-0.42.0.vsix";
-      sha256 = "sha256-Zk2sPws0LRdBzO1R7C1qp7z9Q3OX702JbpAKhWWO16U=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-debug/0.43.0/file/vscjava.vscode-java-debug-0.43.0.vsix";
+      sha256 = "sha256-XfOJ0kiwuYj++lWNnw9DqTo8BTuZkqPhMFeyvEZbp/Y=";
     };
     license = "";
     name = "vscode-java-debug";
@@ -21279,10 +21279,10 @@
   };
   vscjava-vscode-java-dependency = {
     pname = "vscjava-vscode-java-dependency";
-    version = "0.20.0";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.20.0/file/vscjava.vscode-java-dependency-0.20.0.vsix";
-      sha256 = "sha256-YD+TSpGaLMxLT38Fe/Xa46o+plepKKjYPLsyXBOvM3c=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.21.0/file/vscjava.vscode-java-dependency-0.21.0.vsix";
+      sha256 = "sha256-ptav3KR4Tu/P2kEJLq7Y/PUiFJBk79ptSDbjM4KTXWY=";
     };
     license = "MIT";
     name = "vscode-java-dependency";
