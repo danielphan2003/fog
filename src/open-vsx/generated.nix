@@ -75,10 +75,10 @@
   };
   AnishDe12020-orbi = {
     pname = "AnishDe12020-orbi";
-    version = "1.1.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.1.0/file/AnishDe12020.orbi-1.1.0.vsix";
-      sha256 = "sha256-BV3cCCH3hVhs3aY2Ljtfa/dDlLO90avMK2eYjEGZyF0=";
+      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.2.1/file/AnishDe12020.orbi-1.2.1.vsix";
+      sha256 = "sha256-5+OQ98sbak4riVUMkSG50iFHY42voVfFATJNzmZCi3Q=";
     };
     license = "MIT";
     name = "orbi";
@@ -2979,10 +2979,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1232";
+    version = "31.0.1234";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1232/file/Prisma.prisma-insider-31.0.1232.vsix";
-      sha256 = "sha256-Brg6OEoBPYi/PUN83wnk4G7tf0x8hOM5/HlpFReh7f0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1234/file/Prisma.prisma-insider-31.0.1234.vsix";
+      sha256 = "sha256-bdLB1kw/O8wzXkRbkoec3DmXbA+82hHZwiiKSH9sAsc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -12435,10 +12435,10 @@
   };
   koog1000-fossil = {
     pname = "koog1000-fossil";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/koog1000/fossil/0.1.4/file/koog1000.fossil-0.1.4.vsix";
-      sha256 = "sha256-S6x8geXNEVhk1OydDuHBvFFpDiwlvtCwWYeIli5Se+A=";
+      url = "https://open-vsx.org/api/koog1000/fossil/0.1.5/file/koog1000.fossil-0.1.5.vsix";
+      sha256 = "sha256-1g1xc59NNWOO5AU9jIXV5qySdjSZ3w0x0MDFK26lRHA=";
     };
     license = "MIT";
     name = "fossil";

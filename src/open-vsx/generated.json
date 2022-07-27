@@ -126,11 +126,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BV3cCCH3hVhs3aY2Ljtfa/dDlLO90avMK2eYjEGZyF0=",
+            "sha256": "sha256-5+OQ98sbak4riVUMkSG50iFHY42voVfFATJNzmZCi3Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AnishDe12020/orbi/1.1.0/file/AnishDe12020.orbi-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/AnishDe12020/orbi/1.2.1/file/AnishDe12020.orbi-1.2.1.vsix"
         },
-        "version": "1.1.0"
+        "version": "1.2.1"
     },
     "Antyos-openscad": {
         "cargoLocks": null,
@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Brg6OEoBPYi/PUN83wnk4G7tf0x8hOM5/HlpFReh7f0=",
+            "sha256": "sha256-bdLB1kw/O8wzXkRbkoec3DmXbA+82hHZwiiKSH9sAsc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1232/file/Prisma.prisma-insider-31.0.1232.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1234/file/Prisma.prisma-insider-31.0.1234.vsix"
         },
-        "version": "31.0.1232"
+        "version": "31.0.1234"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -19696,11 +19696,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S6x8geXNEVhk1OydDuHBvFFpDiwlvtCwWYeIli5Se+A=",
+            "sha256": "sha256-1g1xc59NNWOO5AU9jIXV5qySdjSZ3w0x0MDFK26lRHA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.4/file/koog1000.fossil-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.5/file/koog1000.fossil-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "korekontrol-saltstack": {
         "cargoLocks": null,
