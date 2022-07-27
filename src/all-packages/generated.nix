@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "5a54b830bfde79120b78b8e623c4bf05c7aa103e";
+    version = "8f65b7e334e1eca038d4d97fbdcda1119e1799d2";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "5a54b830bfde79120b78b8e623c4bf05c7aa103e";
+      rev = "8f65b7e334e1eca038d4d97fbdcda1119e1799d2";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-TqGL8nvppepIaKRbjo6LHEwmiCj0ftle/tqMJaJ+f70=";
+      sha256 = "sha256-dM/rq8Y/uXdx/M3NMM4+cLzsm/NxCTU/tJd+JLYKk10=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-5a54b830bfde79120b78b8e623c4bf05c7aa103e/Cargo.lock;
+      lockFile = ./asusctl-8f65b7e334e1eca038d4d97fbdcda1119e1799d2/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "51f5515c63595313574462f795db5b2834e43eae";
+    version = "9f218f923c7a8fd6bc54010204dcb4b43214517e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "51f5515c63595313574462f795db5b2834e43eae";
+      rev = "9f218f923c7a8fd6bc54010204dcb4b43214517e";
       fetchSubmodules = false;
-      sha256 = "sha256-T7NWCzSvSDIv2YVbOtXdyPduj0NWw41jLKJ+/JZQwVM=";
+      sha256 = "sha256-3MS4VWNfxviwt+PvYWeV6reiVES4/jF1ZPM8EWg8GFk=";
     });
   };
   revanced-cli = {
@@ -1073,14 +1073,14 @@
   };
   snui = {
     pname = "snui";
-    version = "abc5e6b8c649653196b87fbf86cf49c93d817746";
+    version = "33dc357c8c5b25eb36ff9a6bd297df1e18f8fd27";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "abc5e6b8c649653196b87fbf86cf49c93d817746";
+      rev = "33dc357c8c5b25eb36ff9a6bd297df1e18f8fd27";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-cBPfen41DTO169RE084bdhgRkA0eeN31GCkx3b3l5u0=";
+      sha256 = "sha256-ShfVYu+OljR7C2QtJ3TVmi0eYBZnuzAcVQjJmW1xvnQ=";
     };
   };
   spicetify-cli = {
