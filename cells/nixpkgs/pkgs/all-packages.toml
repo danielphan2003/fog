@@ -464,8 +464,8 @@ src.git = "https://github.com/fluix-dev/sway-borders"
 fetch.github = "fluix-dev/sway-borders"
 
 [swaylock-effects]
-src.git = "https://github.com/mortie/swaylock-effects"
-fetch.github = "mortie/swaylock-effects"
+src.git = "https://github.com/jirutka/swaylock-effects"
+fetch.github = "jirutka/swaylock-effects"
 
 [swhkd]
 src.git = "https://github.com/waycrate/swhkd"
