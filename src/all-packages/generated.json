@@ -634,7 +634,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-962c06c0ee33e968c60ef7b1682e9d365a72e74f/Cargo.lock",
+                "./eww-d8bb8c41426aa71d511a3f323a8f33792795a914/Cargo.lock",
                 {}
             ]
         },
@@ -649,11 +649,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "962c06c0ee33e968c60ef7b1682e9d365a72e74f",
-            "sha256": "sha256-35ao8Xc1mEt8pPs6a0iI2NfKO7Dawq7+ZQ1jS64b1mU=",
+            "rev": "d8bb8c41426aa71d511a3f323a8f33792795a914",
+            "sha256": "sha256-q3L15ohjj6snxv7q4J12LHAkg7ABx6GnYrJARZFjEkg=",
             "type": "github"
         },
-        "version": "962c06c0ee33e968c60ef7b1682e9d365a72e74f"
+        "version": "d8bb8c41426aa71d511a3f323a8f33792795a914"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -805,11 +805,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "1d3e1472f2073b53d2906dc7b15275e8f233c265",
-            "sha256": "sha256-jzHj4ZwmWdkrNMzEzyYrnzvFv0ia3nPjTUzaoJYgtTA=",
+            "rev": "ee15ad12154fc5c33e725a0f46d72bdef5945906",
+            "sha256": "sha256-p4aVTTkVj68bvZof774hRjCGtfDBI3O2Rn5ng7REhzw=",
             "type": "github"
         },
-        "version": "1d3e1472f2073b53d2906dc7b15275e8f233c265"
+        "version": "ee15ad12154fc5c33e725a0f46d72bdef5945906"
     },
     "ibus": {
         "cargoLocks": null,
