@@ -8005,6 +8005,18 @@
     description = "The next version of the low eyestrain syntax theme. Again, apple not included.";
     publisher = "devberto";
   };
+  devsense-phptools-vscode = {
+    pname = "devsense-phptools-vscode";
+    version = "1.12.10053";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/devsense/phptools-vscode/1.12.10053/file/devsense.phptools-vscode-1.12.10053.vsix";
+      sha256 = "sha256-it7jBkNadhFDUJCe0C/iuf4EkgMbf61UlJHjnOPnGno=";
+    };
+    license = "LicenseRef-LICENSE";
+    name = "phptools-vscode";
+    description = "PHP IntelliSense, Debug (Xdebug), Code Actions, Linting, Refactoring, Formatter, PHPUnit tests debugging, Server, and more.";
+    publisher = "devsense";
+  };
   dez64ru-macos-modern-theme = {
     pname = "dez64ru-macos-modern-theme";
     version = "2.1.8";
@@ -8487,10 +8499,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2711027";
+    version = "8.0.2745852";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2711027/file/eliostruyf.vscode-front-matter-beta-8.0.2711027.vsix";
-      sha256 = "sha256-tkLrL4oEHVn9bDWpM2WvS/3aXpLPvKbcF9O1sOobR6M=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2745852/file/eliostruyf.vscode-front-matter-beta-8.0.2745852.vsix";
+      sha256 = "sha256-sv0Dn85Ku0wajQB+YCHD+Y8YcE0XczK0dbChgDOCqsk=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -13203,10 +13215,10 @@
   };
   marcinbar-vscode-gothiconline = {
     pname = "marcinbar-vscode-gothiconline";
-    version = "0.0.35";
+    version = "0.0.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.35/file/marcinbar.vscode-gothiconline-0.0.35.vsix";
-      sha256 = "sha256-p/XT7s3IjCnXMX4lCABr7PsqWrIBl7BySEZID+PHL6E=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.37/file/marcinbar.vscode-gothiconline-0.0.37.vsix";
+      sha256 = "sha256-5ndI8AzW17O83vD/jGzgPTsrPzWPW123Pq5a1tfoseU=";
     };
     license = "MIT";
     name = "vscode-gothiconline";
@@ -19059,10 +19071,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.8.3";
+    version = "1.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.8.3/file/statelyai.stately-vscode-1.8.3.vsix";
-      sha256 = "sha256-HyvPjdEf6vgwpv9YL+tq9nAUXhpCOT4rhS1S3C2QPOo=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.0/file/statelyai.stately-vscode-1.9.0.vsix";
+      sha256 = "sha256-VgpZ/W+bMGepdG2SWckAE5O6KZcDiB+5T6TXrcnj81c=";
     };
     license = "MIT";
     name = "stately-vscode";
@@ -20187,10 +20199,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.75.1";
+    version = "0.76.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.1/file/tokiwa-software.fuzion-lang-0.75.1.vsix";
-      sha256 = "sha256-Y41JMBHccloFNQzGfs94tI+FBAEUBs1dEE+yLtWlBeE=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.76.0/file/tokiwa-software.fuzion-lang-0.76.0.vsix";
+      sha256 = "sha256-0Lcph5hKX1MbrUOYOvHJ1oYPdaHQyjNbD/q2bWkycvs=";
     };
     license = "MIT";
     name = "fuzion-lang";

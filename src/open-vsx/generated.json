@@ -12672,6 +12672,25 @@
         },
         "version": "3.0.4"
     },
+    "devsense-phptools-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "devsense-phptools-vscode",
+        "passthru": {
+            "description": "PHP IntelliSense, Debug (Xdebug), Code Actions, Linting, Refactoring, Formatter, PHPUnit tests debugging, Server, and more.",
+            "license": "LicenseRef-LICENSE",
+            "name": "phptools-vscode",
+            "publisher": "devsense"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-it7jBkNadhFDUJCe0C/iuf4EkgMbf61UlJHjnOPnGno=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/devsense/phptools-vscode/1.12.10053/file/devsense.phptools-vscode-1.12.10053.vsix"
+        },
+        "version": "1.12.10053"
+    },
     "dez64ru-macos-modern-theme": {
         "cargoLocks": null,
         "extract": null,
@@ -13445,11 +13464,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tkLrL4oEHVn9bDWpM2WvS/3aXpLPvKbcF9O1sOobR6M=",
+            "sha256": "sha256-sv0Dn85Ku0wajQB+YCHD+Y8YcE0XczK0dbChgDOCqsk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2711027/file/eliostruyf.vscode-front-matter-beta-8.0.2711027.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2745852/file/eliostruyf.vscode-front-matter-beta-8.0.2745852.vsix"
         },
-        "version": "8.0.2711027"
+        "version": "8.0.2745852"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -20912,11 +20931,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-p/XT7s3IjCnXMX4lCABr7PsqWrIBl7BySEZID+PHL6E=",
+            "sha256": "sha256-5ndI8AzW17O83vD/jGzgPTsrPzWPW123Pq5a1tfoseU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.35/file/marcinbar.vscode-gothiconline-0.0.35.vsix"
+            "url": "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.37/file/marcinbar.vscode-gothiconline-0.0.37.vsix"
         },
-        "version": "0.0.35"
+        "version": "0.0.37"
     },
     "marcinbar-vscode-squirrel": {
         "cargoLocks": null,
@@ -30184,11 +30203,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HyvPjdEf6vgwpv9YL+tq9nAUXhpCOT4rhS1S3C2QPOo=",
+            "sha256": "sha256-VgpZ/W+bMGepdG2SWckAE5O6KZcDiB+5T6TXrcnj81c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.8.3/file/statelyai.stately-vscode-1.8.3.vsix"
+            "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.9.0/file/statelyai.stately-vscode-1.9.0.vsix"
         },
-        "version": "1.8.3"
+        "version": "1.9.0"
     },
     "steedos-steedosdx-vscode": {
         "cargoLocks": null,
@@ -31970,11 +31989,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Y41JMBHccloFNQzGfs94tI+FBAEUBs1dEE+yLtWlBeE=",
+            "sha256": "sha256-0Lcph5hKX1MbrUOYOvHJ1oYPdaHQyjNbD/q2bWkycvs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.75.1/file/tokiwa-software.fuzion-lang-0.75.1.vsix"
+            "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.76.0/file/tokiwa-software.fuzion-lang-0.76.0.vsix"
         },
-        "version": "0.75.1"
+        "version": "0.76.0"
     },
     "tomWritesCode-raspberrycandy": {
         "cargoLocks": null,
