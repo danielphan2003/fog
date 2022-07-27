@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-A1qbcS3CbP0R+LvZHy5zm64JJGMdb0RiTtJtbsleiPc=",
+            "sha256": "sha256-Brg6OEoBPYi/PUN83wnk4G7tf0x8hOM5/HlpFReh7f0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1231/file/Prisma.prisma-insider-31.0.1231.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1232/file/Prisma.prisma-insider-31.0.1232.vsix"
         },
-        "version": "31.0.1231"
+        "version": "31.0.1232"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -10861,11 +10861,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x85eMRRPHNAEZZe4GV4PS8sP3s5Jx4QtKe64Duhuygo=",
+            "sha256": "sha256-0QU541WOY3tQ0WpPvEntCOWcaJCOofRVU7BHtzrKvZY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.1/file/cloudstudio.cloud-debug-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.3/file/cloudstudio.cloud-debug-0.0.3.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.3"
     },
     "cloudstudio-coding": {
         "cargoLocks": null,
@@ -12609,11 +12609,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-SgQ0O3tHr7IpTnD3te0O07qAogNliYGQuJ6MchIbFNY=",
+            "sha256": "sha256-kN4oyWyVDBebpj4GS+xCed5Yl3Uakv4QaiHEsVvL8kE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.104.6/file/dendron.nightly-0.104.6.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.105.1/file/dendron.nightly-0.105.1.vsix"
         },
-        "version": "0.104.6"
+        "version": "0.105.1"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -31058,11 +31058,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-p7S3bTp0OwRKGlpnsCAABxJLkD28XNYSZA4r95LRmIo=",
+            "sha256": "sha256-EigEizIDIrXLC9+G/1VF2R/rprRj6w2NlrXf08FDcHg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.19.0/file/svelte.svelte-vscode-105.19.0.vsix"
+            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.20.0/file/svelte.svelte-vscode-105.20.0.vsix"
         },
-        "version": "105.19.0"
+        "version": "105.20.0"
     },
     "svelte-svelte-vscode-nightly": {
         "cargoLocks": null,
@@ -32165,6 +32165,25 @@
             "url": "https://open-vsx.org/api/tomoki1207/pdf/1.1.0/file/tomoki1207.pdf-1.1.0.vsix"
         },
         "version": "1.1.0"
+    },
+    "tomtung-vscode-markdown-linkify": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "tomtung-vscode-markdown-linkify",
+        "passthru": {
+            "description": "Customize linkification for Markdown preview.",
+            "license": "Apache-2.0",
+            "name": "vscode-markdown-linkify",
+            "publisher": "tomtung"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-r5VUH5vt1vDQAcjuIlZnP7/A1C1mtCoXvnJ6ysUhmB0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/tomtung/vscode-markdown-linkify/0.0.1/file/tomtung.vscode-markdown-linkify-0.0.1.vsix"
+        },
+        "version": "0.0.1"
     },
     "tonka3000-qtvsctools": {
         "cargoLocks": null,

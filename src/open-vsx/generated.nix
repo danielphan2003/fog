@@ -2979,10 +2979,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1231";
+    version = "31.0.1232";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1231/file/Prisma.prisma-insider-31.0.1231.vsix";
-      sha256 = "sha256-A1qbcS3CbP0R+LvZHy5zm64JJGMdb0RiTtJtbsleiPc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1232/file/Prisma.prisma-insider-31.0.1232.vsix";
+      sha256 = "sha256-Brg6OEoBPYi/PUN83wnk4G7tf0x8hOM5/HlpFReh7f0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -6855,10 +6855,10 @@
   };
   cloudstudio-cloud-debug = {
     pname = "cloudstudio-cloud-debug";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.1/file/cloudstudio.cloud-debug-0.0.1.vsix";
-      sha256 = "sha256-x85eMRRPHNAEZZe4GV4PS8sP3s5Jx4QtKe64Duhuygo=";
+      url = "https://open-vsx.org/api/cloudstudio/cloud-debug/0.0.3/file/cloudstudio.cloud-debug-0.0.3.vsix";
+      sha256 = "sha256-0QU541WOY3tQ0WpPvEntCOWcaJCOofRVU7BHtzrKvZY=";
     };
     license = "Apache-2.0";
     name = "cloud-debug";
@@ -7959,10 +7959,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.104.6";
+    version = "0.105.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.104.6/file/dendron.nightly-0.104.6.vsix";
-      sha256 = "sha256-SgQ0O3tHr7IpTnD3te0O07qAogNliYGQuJ6MchIbFNY=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.105.1/file/dendron.nightly-0.105.1.vsix";
+      sha256 = "sha256-kN4oyWyVDBebpj4GS+xCed5Yl3Uakv4QaiHEsVvL8kE=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -19611,10 +19611,10 @@
   };
   svelte-svelte-vscode = {
     pname = "svelte-svelte-vscode";
-    version = "105.19.0";
+    version = "105.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.19.0/file/svelte.svelte-vscode-105.19.0.vsix";
-      sha256 = "sha256-p7S3bTp0OwRKGlpnsCAABxJLkD28XNYSZA4r95LRmIo=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.20.0/file/svelte.svelte-vscode-105.20.0.vsix";
+      sha256 = "sha256-EigEizIDIrXLC9+G/1VF2R/rprRj6w2NlrXf08FDcHg=";
     };
     license = "MIT";
     name = "svelte-vscode";
@@ -20316,6 +20316,18 @@
     name = "pdf";
     description = "Display pdf file in VSCode.";
     publisher = "tomoki1207";
+  };
+  tomtung-vscode-markdown-linkify = {
+    pname = "tomtung-vscode-markdown-linkify";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/tomtung/vscode-markdown-linkify/0.0.1/file/tomtung.vscode-markdown-linkify-0.0.1.vsix";
+      sha256 = "sha256-r5VUH5vt1vDQAcjuIlZnP7/A1C1mtCoXvnJ6ysUhmB0=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-markdown-linkify";
+    description = "Customize linkification for Markdown preview.";
+    publisher = "tomtung";
   };
   tonka3000-qtvsctools = {
     pname = "tonka3000-qtvsctools";
