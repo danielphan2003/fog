@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f6c51ac2d77658897bef59fcd66317c331e02423";
+    version = "e3c63165bb5450ef9a96564a0c96263c317b6326";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f6c51ac2d77658897bef59fcd66317c331e02423";
+      rev = "e3c63165bb5450ef9a96564a0c96263c317b6326";
       fetchSubmodules = false;
-      sha256 = "sha256-gB/YfOJGJ3POhjz6Z6xQJPSgPfDr86qJPz3NqLUSxq0=";
+      sha256 = "sha256-SfKndLvvpJta/jO2NPgJ194QlGSTjo3SRRXgXnsO3VQ=";
     });
   };
   caddy = {
@@ -651,10 +651,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "105.0.1321.0";
+    version = "105.0.1329.1";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1321.0-1_amd64.deb";
-      sha256 = "sha256-NHSTUWYZiNvDzMLp8lbh/66hdBWXFwgyqsQyzEqtt8M=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1329.1-1_amd64.deb";
+      sha256 = "sha256-i6bsGfvbF0+Ax4D02oPz0Kdo8PD7kn2ht0EEem5HIvE=";
     };
   };
   microsoft-edge-stable = {
@@ -1257,13 +1257,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "7c8fe393d65aa5511a45d406a1144aad4e8d9a77";
+    version = "665769d4fb1457757d455c5cb4e58dfed46bb36e";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "7c8fe393d65aa5511a45d406a1144aad4e8d9a77";
+      rev = "665769d4fb1457757d455c5cb4e58dfed46bb36e";
       fetchSubmodules = false;
-      sha256 = "sha256-Is4MBQu3uJvgm7awdNroP4oiY1P/gsmgRBb9T+VadME=";
+      sha256 = "sha256-MrM/od7Kao/l+ziGajPg7aVhYHr2AuJQcw4dnQF8Qrg=";
     });
   };
   ultimmc = {
@@ -1290,16 +1290,16 @@
   };
   vaultwarden = {
     pname = "vaultwarden";
-    version = "1.25.1";
+    version = "1.25.2";
     src = fetchFromGitHub ({
       owner = "dani-garcia";
       repo = "vaultwarden";
-      rev = "1.25.1";
+      rev = "1.25.2";
       fetchSubmodules = false;
-      sha256 = "sha256-oX1P0YsBhjk/0xcG4RbZ5aFfbJcYEVhV9jSQ1270N9M=";
+      sha256 = "sha256-6CpdvLCw7SUmWm9NHAxFAo454Rrp1FloDp67YAr0pjQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./vaultwarden-1.25.1/Cargo.lock;
+      lockFile = ./vaultwarden-1.25.2/Cargo.lock;
       outputHashes = {
         
       };
