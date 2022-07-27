@@ -251,16 +251,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "97db98a6306c51ddb45160b08a224bcf526ccb9d";
+    version = "53cbd144a7bc3a5e2c1b44c50df3657e744b012b";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "97db98a6306c51ddb45160b08a224bcf526ccb9d";
+      rev = "53cbd144a7bc3a5e2c1b44c50df3657e744b012b";
       fetchSubmodules = true;
-      sha256 = "sha256-R7NrjGrJZrIL+3WdlcpOYJ2xR3/aGJltQq5H3SxsndA=";
+      sha256 = "sha256-jleSNR97CGJ+2hQBCW8Txs8TDZwPYUp/yT6RGZxKShM=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-97db98a6306c51ddb45160b08a224bcf526ccb9d/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-53cbd144a7bc3a5e2c1b44c50df3657e744b012b/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
