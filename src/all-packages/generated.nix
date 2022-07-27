@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "ba752b6364b212161da61dfeea20605eaab103e6";
+    version = "2c3c9e1e71775cc568a3ac3d3f2ab7667193badb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "ba752b6364b212161da61dfeea20605eaab103e6";
+      rev = "2c3c9e1e71775cc568a3ac3d3f2ab7667193badb";
       fetchSubmodules = false;
-      sha256 = "sha256-wH5pv8nEpEhPQXo5U8wNLBnvftakpv/ZyyaIjcQSgxQ=";
+      sha256 = "sha256-E/Vg7jzpLl1ZVOfkF9T3fuTFyq3/x6CYCXiaSqdKjbg=";
     });
   };
   revanced-cli = {
@@ -978,23 +978,23 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "a29203c9fe573b5273e895568f5ddad1c45113c5";
+    version = "6bbfe130284b5b5235ec11deefaf5c1f9b504b91";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "a29203c9fe573b5273e895568f5ddad1c45113c5";
+      rev = "6bbfe130284b5b5235ec11deefaf5c1f9b504b91";
       fetchSubmodules = false;
-      sha256 = "sha256-sGm9DGMy2GIGoM10MV6+PPu3NCO/i4MwUky1yWxAzcM=";
+      sha256 = "sha256-zoGPWMt55Pp2Z2Wst1rRhxR13QNuvESVIeOjhf9QJ2A=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-a29203c9fe573b5273e895568f5ddad1c45113c5/Cargo.lock;
+      lockFile = ./rustdesk-6bbfe130284b5b5235ec11deefaf5c1f9b504b91/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
         "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
-        "hwcodec-0.1.0" = "sha256-VddI5p/Hfa8VhjjhjA4KDDkThFmi8JcH6oeaGG6/dtA=";
+        "hwcodec-0.1.0" = "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
         "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
