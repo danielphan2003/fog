@@ -19179,10 +19179,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.3.1";
+    version = "2.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.1/file/streetsidesoftware.code-spell-checker-2.3.1.vsix";
-      sha256 = "sha256-fWjSa0Gs6fhxTjWgxa25h2Zjwl9pfYtZxkQpwv+IqV4=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.2/file/streetsidesoftware.code-spell-checker-2.3.2.vsix";
+      sha256 = "sha256-mx39E+EsUV8b/KZ4S8VRrEpSSfzJhP61uP9I/UpkBBM=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";
@@ -21315,10 +21315,10 @@
   };
   vscjava-vscode-maven = {
     pname = "vscjava-vscode-maven";
-    version = "0.36.0";
+    version = "0.37.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.36.0/file/vscjava.vscode-maven-0.36.0.vsix";
-      sha256 = "sha256-UAse0bUryXkMz7F+w+VtWa/EXulOgup4XoBQViXfDp4=";
+      url = "https://open-vsx.org/api/vscjava/vscode-maven/0.37.0/file/vscjava.vscode-maven-0.37.0.vsix";
+      sha256 = "sha256-Ihr0Tz6N2kFFcGGXt0xTFSXh2ShUOv/q2qdKCJNPChY=";
     };
     license = "MIT";
     name = "vscode-maven";
