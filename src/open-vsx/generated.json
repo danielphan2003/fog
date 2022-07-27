@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Omd56CSkr0g1BBSXjA/vdVl9+Bt3CpS/PWKz/nn0YLg=",
+            "sha256": "sha256-oCjCRUzv8x0GIJd1ij4wtnFwC7HqDTJn+X5unCVG4ys=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1235/file/Prisma.prisma-insider-31.0.1235.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1237/file/Prisma.prisma-insider-31.0.1237.vsix"
         },
-        "version": "31.0.1235"
+        "version": "31.0.1237"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5256,11 +5256,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sLUP1j5sdkNU95BWfDb1bSF0uu4X6Ppdmckhuxjjfrw=",
+            "sha256": "sha256-OpBgoh1uuHmuNeWx+gNEmLSbib3D3oDa83v+jpjpmbI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.6.0/file/Shelex.vscode-cy-helper-2.6.0.vsix"
+            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.7.0/file/Shelex.vscode-cy-helper-2.7.0.vsix"
         },
-        "version": "2.6.0"
+        "version": "2.7.0"
     },
     "SimplyDanny-modelica": {
         "cargoLocks": null,
@@ -30165,11 +30165,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZrHjSTPV/kLkawxxFsc7JweIKVt6K0qnmHr8Q/a6Z1E=",
+            "sha256": "sha256-JDr3cVzS6PilRWXtXExvJZZTmJQtVxvpAb92Mc3GonU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/standard/vscode-standard/2.1.0/file/standard.vscode-standard-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/standard/vscode-standard/2.1.1/file/standard.vscode-standard-2.1.1.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.1.1"
     },
     "standup-extension-standup-extension": {
         "cargoLocks": null,
