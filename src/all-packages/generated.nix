@@ -1191,13 +1191,13 @@
   };
   swaylock-effects = {
     pname = "swaylock-effects";
-    version = "a8fc557b86e70f2f7a30ca9ff9b3124f89e7f204";
+    version = "4b54b85d964243eef8d77ea0505eed728c62387f";
     src = fetchFromGitHub ({
-      owner = "mortie";
+      owner = "jirutka";
       repo = "swaylock-effects";
-      rev = "a8fc557b86e70f2f7a30ca9ff9b3124f89e7f204";
+      rev = "4b54b85d964243eef8d77ea0505eed728c62387f";
       fetchSubmodules = false;
-      sha256 = "sha256-GN+cxzC11Dk1nN9wVWIyv+rCrg4yaHnCePRYS1c4JTk=";
+      sha256 = "sha256-QvMnJ5/uL/DvBhP9kagZJh9vwXBF2sCw3HWkfI4FDH0=";
     });
   };
   swhkd = {
@@ -1219,13 +1219,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "51c3d7409503dca472f7848f968c83654317689a";
+    version = "04cf46a762442dfc430f1706141f693341052c03";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "51c3d7409503dca472f7848f968c83654317689a";
+      rev = "04cf46a762442dfc430f1706141f693341052c03";
       fetchSubmodules = false;
-      sha256 = "sha256-Y2ybOrhHlQfiE0l6S1qPVO01CRCgB2+lgcsctzDINIY=";
+      sha256 = "sha256-ZJVU6c2OskjRljdgrIjULLh71e4Ne070SFT4rN/yFDk=";
     });
   };
   tailscale-systray = {
