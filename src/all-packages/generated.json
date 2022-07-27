@@ -340,11 +340,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "1b25a151e76fd40a9f9f4de450ec63c86094b2ae",
-            "sha256": "sha256-z+2TxIg8Hd9KgbONr0j6YrbE7w+lfxL//0DnYDncLl8=",
+            "rev": "5b4d42f53ffe1e6fc709c36e70bd56dd4da5a64e",
+            "sha256": "sha256-JQ0/XXq/hXsdASHrY8cqoSVwVeUrQChoZCL3j7WXu9A=",
             "type": "github"
         },
-        "version": "1b25a151e76fd40a9f9f4de450ec63c86094b2ae"
+        "version": "5b4d42f53ffe1e6fc709c36e70bd56dd4da5a64e"
     },
     "caddy": {
         "cargoLocks": null,
@@ -767,11 +767,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "acc9fb25e1b6247b7e392051934dde65ebfe1c51",
-            "sha256": "sha256-GOOSmUJSbLcZkLlrjB8F7Ea6whLRwvLbfoC1aR8pg1s=",
+            "rev": "7e754ace396b4056aa9be5d21383835e61a55ee5",
+            "sha256": "sha256-QCP/8oRiJtImxerEGcs2rQoUxAelqHLDCBR8svfGSN8=",
             "type": "github"
         },
-        "version": "acc9fb25e1b6247b7e392051934dde65ebfe1c51"
+        "version": "7e754ace396b4056aa9be5d21383835e61a55ee5"
     },
     "guiscrcpy": {
         "cargoLocks": null,
@@ -805,11 +805,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "50b991674b6d6607477232a774d5f730789d18a8",
-            "sha256": "sha256-rxK5r220E95JV5qebcSEXFEWwqiiksdCfoasaZ9DUEM=",
+            "rev": "cb1a36faf0e93ee4595fe8424420b99014fdbf69",
+            "sha256": "sha256-5y4B6v93T8c/VBFvKZPr/5BBkVjnV8jBJY/42nJbWQA=",
             "type": "github"
         },
-        "version": "50b991674b6d6607477232a774d5f730789d18a8"
+        "version": "cb1a36faf0e93ee4595fe8424420b99014fdbf69"
     },
     "ibus": {
         "cargoLocks": null,
@@ -885,11 +885,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pVrQ/LyW42+y982wNkuyR0dt+IuaEYVqCdVNOKNZn50=",
+            "sha256": "sha256-8RIXn9sbWmPvK/EYYXb498fR6taOJC7HKeYX+8bbomg=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6390.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6391.tar.bz2"
         },
-        "version": "1.0.6390"
+        "version": "1.0.6391"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -899,11 +899,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G+V8o+pSUiw8IUagEuD+DeyY2nooAvnAYayqgiUD5tI=",
+            "sha256": "sha256-s4QxlcGThQnwoOGBDejtDpVEiEoadctXb/XYNou9Kbg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6390-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6391-1_all.deb"
         },
-        "version": "1.0.6390"
+        "version": "1.0.6391"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
