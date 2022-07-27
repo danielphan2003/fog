@@ -1133,11 +1133,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6ElDg/o/AdYRm+NGESmao4Ttt/JtGu72e5XaG3oDlzo=",
+            "sha256": "sha256-5VoZgpMZ9FZLm3mEjGYSjpv93std5tDbMMhCUaAd5Ko=",
             "type": "url",
-            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.0/file/DCsunset.vscode-modal-editor-1.5.0.vsix"
+            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.1/file/DCsunset.vscode-modal-editor-1.5.1.vsix"
         },
-        "version": "1.5.0"
+        "version": "1.5.1"
     },
     "Daimler-sechub": {
         "cargoLocks": null,
@@ -23914,11 +23914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VbmLoT0APQdBUmZcv91tydME0QesNzTi2Q+p621Mwfs=",
+            "sha256": "sha256-dtOXUuLVcLrpbL58Gg9o/eNBC1Pm23aktfGuHaqGGWg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.2/file/mutable-ai.mutable-ai-0.90.2.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.3/file/mutable-ai.mutable-ai-0.90.3.vsix"
         },
-        "version": "0.90.2"
+        "version": "0.90.3"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -37081,11 +37081,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tttv4OQ7gMdEFuPnBf5RiCJy5C5a1QDtYlgc6t2SXdY=",
+            "sha256": "sha256-xxVBcduPMtjUMKiASyhZ62t1gh6v7+5yaYtIjOBMV4M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/fix-all-json/0.0.6/file/zardoy.fix-all-json-0.0.6.vsix"
+            "url": "https://open-vsx.org/api/zardoy/fix-all-json/0.0.8/file/zardoy.fix-all-json-0.0.8.vsix"
         },
-        "version": "0.0.6"
+        "version": "0.0.8"
     },
     "zardoy-github-manager": {
         "cargoLocks": null,

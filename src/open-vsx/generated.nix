@@ -711,10 +711,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.5.0";
+    version = "1.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.0/file/DCsunset.vscode-modal-editor-1.5.0.vsix";
-      sha256 = "sha256-6ElDg/o/AdYRm+NGESmao4Ttt/JtGu72e5XaG3oDlzo=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.1/file/DCsunset.vscode-modal-editor-1.5.1.vsix";
+      sha256 = "sha256-5VoZgpMZ9FZLm3mEjGYSjpv93std5tDbMMhCUaAd5Ko=";
     };
     license = "AGPL-3.0";
     name = "vscode-modal-editor";
@@ -15099,10 +15099,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.90.2";
+    version = "0.90.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.2/file/mutable-ai.mutable-ai-0.90.2.vsix";
-      sha256 = "sha256-VbmLoT0APQdBUmZcv91tydME0QesNzTi2Q+p621Mwfs=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.3/file/mutable-ai.mutable-ai-0.90.3.vsix";
+      sha256 = "sha256-dtOXUuLVcLrpbL58Gg9o/eNBC1Pm23aktfGuHaqGGWg=";
     };
     license = "";
     name = "mutable-ai";
@@ -23415,10 +23415,10 @@
   };
   zardoy-fix-all-json = {
     pname = "zardoy-fix-all-json";
-    version = "0.0.6";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.6/file/zardoy.fix-all-json-0.0.6.vsix";
-      sha256 = "sha256-tttv4OQ7gMdEFuPnBf5RiCJy5C5a1QDtYlgc6t2SXdY=";
+      url = "https://open-vsx.org/api/zardoy/fix-all-json/0.0.8/file/zardoy.fix-all-json-0.0.8.vsix";
+      sha256 = "sha256-xxVBcduPMtjUMKiASyhZ62t1gh6v7+5yaYtIjOBMV4M=";
     };
     license = "MIT";
     name = "fix-all-json";
