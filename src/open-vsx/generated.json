@@ -12476,11 +12476,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Jd1x5aFpDbGUWOiXsSuVwFhiJEsY1eRzTGSdJUI8ihA=",
+            "sha256": "sha256-yF3CbovlI/ITukpxzUR9rpMT5i6L8ce2I4KqlM2z4vw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.105.0/file/dendron.dendron-0.105.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.105.2/file/dendron.dendron-0.105.2.vsix"
         },
-        "version": "0.105.0"
+        "version": "0.105.2"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -13817,7 +13817,7 @@
         "extract": null,
         "name": "errata-ai-vale-server",
         "passthru": {
-            "description": "The official Visual Studio Code extension for Vale and Vale Server.",
+            "description": "The official Visual Studio Code extension for Vale.",
             "license": "MIT",
             "name": "vale-server",
             "publisher": "errata-ai"
@@ -13825,11 +13825,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vWJNjdx7SE93YD5jJs4CnDYXIcGPoCPOKFbUsx70r24=",
+            "sha256": "sha256-wXwkbFDbr0jdgmWcHi5Sf6+2DpBGDWrm+LYslQ4g/Sg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/errata-ai/vale-server/0.12.0/file/errata-ai.vale-server-0.12.0.vsix"
+            "url": "https://open-vsx.org/api/errata-ai/vale-server/0.15.0/file/errata-ai.vale-server-0.15.0.vsix"
         },
-        "version": "0.12.0"
+        "version": "0.15.0"
     },
     "esbenp-prettier-vscode": {
         "cargoLocks": null,

@@ -7875,10 +7875,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.105.0";
+    version = "0.105.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.105.0/file/dendron.dendron-0.105.0.vsix";
-      sha256 = "sha256-Jd1x5aFpDbGUWOiXsSuVwFhiJEsY1eRzTGSdJUI8ihA=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.105.2/file/dendron.dendron-0.105.2.vsix";
+      sha256 = "sha256-yF3CbovlI/ITukpxzUR9rpMT5i6L8ce2I4KqlM2z4vw=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -8727,14 +8727,14 @@
   };
   errata-ai-vale-server = {
     pname = "errata-ai-vale-server";
-    version = "0.12.0";
+    version = "0.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/errata-ai/vale-server/0.12.0/file/errata-ai.vale-server-0.12.0.vsix";
-      sha256 = "sha256-vWJNjdx7SE93YD5jJs4CnDYXIcGPoCPOKFbUsx70r24=";
+      url = "https://open-vsx.org/api/errata-ai/vale-server/0.15.0/file/errata-ai.vale-server-0.15.0.vsix";
+      sha256 = "sha256-wXwkbFDbr0jdgmWcHi5Sf6+2DpBGDWrm+LYslQ4g/Sg=";
     };
     license = "MIT";
     name = "vale-server";
-    description = "The official Visual Studio Code extension for Vale and Vale Server.";
+    description = "The official Visual Studio Code extension for Vale.";
     publisher = "errata-ai";
   };
   esbenp-prettier-vscode = {
