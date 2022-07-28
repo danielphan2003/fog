@@ -277,6 +277,18 @@
     description = "Alt+H checks for broken links in an HTML, XML, RSS, or PHP file.  Alt+T sends currently-selected URL to browser.  Alt+M sends HTTPS version of currently-selected HTTP URL to browser.  Alt+L clears diagnostic messages.";
     publisher = "BillDietrich";
   };
+  Brenek-kotlin-for-frc = {
+    pname = "Brenek-kotlin-for-frc";
+    version = "2022.7.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/Brenek/kotlin-for-frc/2022.7.1/file/Brenek.kotlin-for-frc-2022.7.1.vsix";
+      sha256 = "sha256-s0F37bK37Z416NMYkKjovuv5udOeD4SKObccdfWFzpw=";
+    };
+    license = "MIT";
+    name = "kotlin-for-frc";
+    description = "Kotlin for FRC is an unofficial companion extension to the WPILib extension which adds support for Kotlin";
+    publisher = "Brenek";
+  };
   BroadcomMFD-abend-analyzer = {
     pname = "BroadcomMFD-abend-analyzer";
     version = "1.0.1";
@@ -3195,10 +3207,10 @@
   };
   RoweWilsonFrederiskHolme-wikitext = {
     pname = "RoweWilsonFrederiskHolme-wikitext";
-    version = "3.6.4";
+    version = "3.6.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.4/file/RoweWilsonFrederiskHolme.wikitext-3.6.4.vsix";
-      sha256 = "sha256-J02kLQrQR+OGF/GXtqVl6S8W/Hf++Um0v7b9JkFcXVE=";
+      url = "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.5/file/RoweWilsonFrederiskHolme.wikitext-3.6.5.vsix";
+      sha256 = "sha256-k/5uYwqGmavq3nBrH+61Z7CRR+ycPSjsdub3mvkwVV4=";
     };
     license = "MIT";
     name = "wikitext";
@@ -3315,10 +3327,10 @@
   };
   Shelex-vscode-cy-helper = {
     pname = "Shelex-vscode-cy-helper";
-    version = "2.7.0";
+    version = "3.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.7.0/file/Shelex.vscode-cy-helper-2.7.0.vsix";
-      sha256 = "sha256-OpBgoh1uuHmuNeWx+gNEmLSbib3D3oDa83v+jpjpmbI=";
+      url = "https://open-vsx.org/api/Shelex/vscode-cy-helper/3.0.0/file/Shelex.vscode-cy-helper-3.0.0.vsix";
+      sha256 = "sha256-Jwj3lr8gWEHBtfio8HVWSUIgdoMnTSpbpg1mwPIUow4=";
     };
     license = "Apache-2.0";
     name = "vscode-cy-helper";

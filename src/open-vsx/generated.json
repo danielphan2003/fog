@@ -436,6 +436,25 @@
         },
         "version": "6.3.0"
     },
+    "Brenek-kotlin-for-frc": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "Brenek-kotlin-for-frc",
+        "passthru": {
+            "description": "Kotlin for FRC is an unofficial companion extension to the WPILib extension which adds support for Kotlin",
+            "license": "MIT",
+            "name": "kotlin-for-frc",
+            "publisher": "Brenek"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-s0F37bK37Z416NMYkKjovuv5udOeD4SKObccdfWFzpw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/Brenek/kotlin-for-frc/2022.7.1/file/Brenek.kotlin-for-frc-2022.7.1.vsix"
+        },
+        "version": "2022.7.1"
+    },
     "BroadcomMFD-abend-analyzer": {
         "cargoLocks": null,
         "extract": null,
@@ -5066,11 +5085,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-J02kLQrQR+OGF/GXtqVl6S8W/Hf++Um0v7b9JkFcXVE=",
+            "sha256": "sha256-k/5uYwqGmavq3nBrH+61Z7CRR+ycPSjsdub3mvkwVV4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.4/file/RoweWilsonFrederiskHolme.wikitext-3.6.4.vsix"
+            "url": "https://open-vsx.org/api/RoweWilsonFrederiskHolme/wikitext/3.6.5/file/RoweWilsonFrederiskHolme.wikitext-3.6.5.vsix"
         },
-        "version": "3.6.4"
+        "version": "3.6.5"
     },
     "RustedTurnip-night-blossom": {
         "cargoLocks": null,
@@ -5256,11 +5275,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OpBgoh1uuHmuNeWx+gNEmLSbib3D3oDa83v+jpjpmbI=",
+            "sha256": "sha256-Jwj3lr8gWEHBtfio8HVWSUIgdoMnTSpbpg1mwPIUow4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/2.7.0/file/Shelex.vscode-cy-helper-2.7.0.vsix"
+            "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/3.0.0/file/Shelex.vscode-cy-helper-3.0.0.vsix"
         },
-        "version": "2.7.0"
+        "version": "3.0.0"
     },
     "SimplyDanny-modelica": {
         "cargoLocks": null,
