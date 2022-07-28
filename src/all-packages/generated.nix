@@ -659,10 +659,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "103.0.1264.71";
+    version = "103.0.1264.77";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_103.0.1264.71-1_amd64.deb";
-      sha256 = "sha256-EVQRFQWrKCN0/orbpvAic3LWvVXY7gdwuvJgu45aRec=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_103.0.1264.77-1_amd64.deb";
+      sha256 = "sha256-vA4dXcNPm4gZGMEmy8KDpynZGOg/2ejnhZj8TE1HYqk=";
     };
   };
   minecraft-wayland = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.28.1";
+    version = "0.29.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.28.1/app-release-unsigned.apk";
-      sha256 = "sha256-/OY6Xys3Ooo5kz+xvasFdsrqDT/3zIH6xFj7Pr/BK8g=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.29.0/app-release-unsigned.apk";
+      sha256 = "sha256-TIdv7uhziC5YGPygrxEKaZVLeH1iMm1zzT/q+cJw1xg=";
     };
   };
   revanced-patches-dex = {
@@ -1202,16 +1202,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "d0f2b4daa153f0169ba46873576ecb98be4e5a7a";
+    version = "ee6387ce07162f7874c6966cc93d22a142be0201";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "d0f2b4daa153f0169ba46873576ecb98be4e5a7a";
+      rev = "ee6387ce07162f7874c6966cc93d22a142be0201";
       fetchSubmodules = false;
-      sha256 = "sha256-nlMH4r616+xkGhOqgtCMEJVrSNQMhWHaex+qptT05cM=";
+      sha256 = "sha256-b6675OqsUr1IuvSRSR60nQ3E1eq2uzRncj5OFAyeTxI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-d0f2b4daa153f0169ba46873576ecb98be4e5a7a/Cargo.lock;
+      lockFile = ./swhkd-ee6387ce07162f7874c6966cc93d22a142be0201/Cargo.lock;
       outputHashes = {
         
       };
@@ -1219,13 +1219,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "48e73e147a89b5ab57650f0751e2494b71f613b2";
+    version = "eae003e56f0906d1c9a864085b939192cfc92fe6";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "48e73e147a89b5ab57650f0751e2494b71f613b2";
+      rev = "eae003e56f0906d1c9a864085b939192cfc92fe6";
       fetchSubmodules = false;
-      sha256 = "sha256-R4OYmFJ9Q58Mnzr3HJvetYjgn7ODEaqc64OCx4GbChw=";
+      sha256 = "sha256-JQ+0ScfIYL1bj/6mUqgZOVWQFF/HwW36OZfI3ZrshmI=";
     });
   };
   tailscale-systray = {

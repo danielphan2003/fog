@@ -1102,11 +1102,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EVQRFQWrKCN0/orbpvAic3LWvVXY7gdwuvJgu45aRec=",
+            "sha256": "sha256-vA4dXcNPm4gZGMEmy8KDpynZGOg/2ejnhZj8TE1HYqk=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_103.0.1264.71-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_103.0.1264.77-1_amd64.deb"
         },
-        "version": "103.0.1264.71"
+        "version": "103.0.1264.77"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/OY6Xys3Ooo5kz+xvasFdsrqDT/3zIH6xFj7Pr/BK8g=",
+            "sha256": "sha256-TIdv7uhziC5YGPygrxEKaZVLeH1iMm1zzT/q+cJw1xg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.28.1/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.29.0/app-release-unsigned.apk"
         },
-        "version": "0.28.1"
+        "version": "0.29.0"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1994,7 +1994,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-d0f2b4daa153f0169ba46873576ecb98be4e5a7a/Cargo.lock",
+                "./swhkd-ee6387ce07162f7874c6966cc93d22a142be0201/Cargo.lock",
                 {}
             ]
         },
@@ -2009,11 +2009,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "d0f2b4daa153f0169ba46873576ecb98be4e5a7a",
-            "sha256": "sha256-nlMH4r616+xkGhOqgtCMEJVrSNQMhWHaex+qptT05cM=",
+            "rev": "ee6387ce07162f7874c6966cc93d22a142be0201",
+            "sha256": "sha256-b6675OqsUr1IuvSRSR60nQ3E1eq2uzRncj5OFAyeTxI=",
             "type": "github"
         },
-        "version": "d0f2b4daa153f0169ba46873576ecb98be4e5a7a"
+        "version": "ee6387ce07162f7874c6966cc93d22a142be0201"
     },
     "tailscale": {
         "cargoLocks": null,
@@ -2028,11 +2028,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "48e73e147a89b5ab57650f0751e2494b71f613b2",
-            "sha256": "sha256-R4OYmFJ9Q58Mnzr3HJvetYjgn7ODEaqc64OCx4GbChw=",
+            "rev": "eae003e56f0906d1c9a864085b939192cfc92fe6",
+            "sha256": "sha256-JQ+0ScfIYL1bj/6mUqgZOVWQFF/HwW36OZfI3ZrshmI=",
             "type": "github"
         },
-        "version": "48e73e147a89b5ab57650f0751e2494b71f613b2"
+        "version": "eae003e56f0906d1c9a864085b939192cfc92fe6"
     },
     "tailscale-systray": {
         "cargoLocks": null,
