@@ -4047,10 +4047,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.12.0";
+    version = "9.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.12.0/file/YXL.cloudmusic-9.12.0.vsix";
-      sha256 = "sha256-eG2Eot0pW49AYxW2eUz2rWXeuZFPYFGKxmo7+ZzNtpc=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.12.1/file/YXL.cloudmusic-9.12.1.vsix";
+      sha256 = "sha256-eZ3OZeqmJUt8Z6mLpjhNwAAgryP6c79ZH/tNRmFUK2g=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -10143,10 +10143,10 @@
   };
   harmony-harmony-assist = {
     pname = "harmony-harmony-assist";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.1/file/harmony.harmony-assist-0.0.1.vsix";
-      sha256 = "sha256-OF/1SI1iit5sGoeibNhfnYNfh3WKRJ033U4aHZYFpuo=";
+      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.2/file/harmony.harmony-assist-0.0.2.vsix";
+      sha256 = "sha256-fv3JgZu/VZMmkKhgfNDhbpoIsVGd71xf3XbUm6iU5u0=";
     };
     license = "MIT";
     name = "harmony-assist";
