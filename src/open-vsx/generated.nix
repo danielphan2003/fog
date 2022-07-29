@@ -75,10 +75,10 @@
   };
   AnishDe12020-orbi = {
     pname = "AnishDe12020-orbi";
-    version = "1.2.1";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.2.1/file/AnishDe12020.orbi-1.2.1.vsix";
-      sha256 = "sha256-5+OQ98sbak4riVUMkSG50iFHY42voVfFATJNzmZCi3Q=";
+      url = "https://open-vsx.org/api/AnishDe12020/orbi/1.3.0/file/AnishDe12020.orbi-1.3.0.vsix";
+      sha256 = "sha256-xrrSRDFJ4TiXzugLCMZBmQtcdzJs1VYlNp8kfUVfMi4=";
     };
     license = "MIT";
     name = "orbi";
@@ -16983,10 +16983,10 @@
   };
   radiolevity-search-lights = {
     pname = "radiolevity-search-lights";
-    version = "1.10.1";
+    version = "1.10.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/radiolevity/search-lights/1.10.1/file/radiolevity.search-lights-1.10.1.vsix";
-      sha256 = "sha256-CZYLrupBpiU68XuIfgayITgoI9zpEd3OBzyYtuNXZW4=";
+      url = "https://open-vsx.org/api/radiolevity/search-lights/1.10.3/file/radiolevity.search-lights-1.10.3.vsix";
+      sha256 = "sha256-o+6WI+M8EEQT+uhVrx1f/YjfOCZmHTjL+2D/1CniqE4=";
     };
     license = "MIT";
     name = "search-lights";
