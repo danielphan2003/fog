@@ -824,11 +824,11 @@
             "name": null,
             "owner": "vaxerski",
             "repo": "hyprland",
-            "rev": "233bad5011830923bd4fa72926415d0e5c7a2298",
-            "sha256": "sha256-bpwkMH95VgFUEhfFrS3vsF9wrrKkE1M1r7W+JC1gl+U=",
+            "rev": "0eebf3ab1614a34433cc4d208be84b930b88e25c",
+            "sha256": "sha256-+fAMVcHoTZDE2papoPxBeXwopivhzijCnGTazbWshFI=",
             "type": "github"
         },
-        "version": "233bad5011830923bd4fa72926415d0e5c7a2298"
+        "version": "0eebf3ab1614a34433cc4d208be84b930b88e25c"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1853,11 +1853,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "7dd51d5c0853b66c4644f2b200df3faf6acb5ee3",
-            "sha256": "sha256-K3HQhXnfgb9z+U0sb3uPDTCJ4zCzP547XdqXxkn20LU=",
+            "rev": "7faf66c689fbfc901ef4ce9b80bf4a4d115bd4ff",
+            "sha256": "sha256-3lLqjWyxR7vfgNgzjcIaagrpaqy48qUwRdN7YtmmjFo=",
             "type": "github"
         },
-        "version": "7dd51d5c0853b66c4644f2b200df3faf6acb5ee3"
+        "version": "7faf66c689fbfc901ef4ce9b80bf4a4d115bd4ff"
     },
     "spicetify-themes": {
         "cargoLocks": null,
