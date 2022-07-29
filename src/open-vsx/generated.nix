@@ -8523,10 +8523,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2745852";
+    version = "8.0.2761217";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2745852/file/eliostruyf.vscode-front-matter-beta-8.0.2745852.vsix";
-      sha256 = "sha256-sv0Dn85Ku0wajQB+YCHD+Y8YcE0XczK0dbChgDOCqsk=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2761217/file/eliostruyf.vscode-front-matter-beta-8.0.2761217.vsix";
+      sha256 = "sha256-EXbbCJquu08gn/OIbfrs9aDj7x5sJVOjMMCyWB84xK4=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -9939,10 +9939,10 @@
   };
   gpoore-codebraid-preview = {
     pname = "gpoore-codebraid-preview";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.8.0/file/gpoore.codebraid-preview-0.8.0.vsix";
-      sha256 = "sha256-aV/FouqC6aLtTY2hkaAPukit2e1Y7jenTxv6lMpMDOI=";
+      url = "https://open-vsx.org/api/gpoore/codebraid-preview/0.9.0/file/gpoore.codebraid-preview-0.9.0.vsix";
+      sha256 = "sha256-5H381BYTwncDfigaY2/YktUPh4JmEAowYduWG7MrqCQ=";
     };
     license = "See license in LICENSE.txt (BSD 3-Clause except as noted otherwise)";
     name = "codebraid-preview";
@@ -16023,10 +16023,10 @@
   };
   pantajoe-vscode-elixir-credo = {
     pname = "pantajoe-vscode-elixir-credo";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.0/file/pantajoe.vscode-elixir-credo-0.8.0.vsix";
-      sha256 = "sha256-oIlqfhqpfnKJWY60IVwPHC3TmlXL48BUz4Rjb1FY1PA=";
+      url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.1/file/pantajoe.vscode-elixir-credo-0.8.1.vsix";
+      sha256 = "sha256-N58+C+OMwFexdat6lddImQc4C3xJ6uDoK16ylPW0+Gk=";
     };
     license = "MIT";
     name = "vscode-elixir-credo";

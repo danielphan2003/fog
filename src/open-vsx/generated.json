@@ -13502,11 +13502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sv0Dn85Ku0wajQB+YCHD+Y8YcE0XczK0dbChgDOCqsk=",
+            "sha256": "sha256-EXbbCJquu08gn/OIbfrs9aDj7x5sJVOjMMCyWB84xK4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2745852/file/eliostruyf.vscode-front-matter-beta-8.0.2745852.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2761217/file/eliostruyf.vscode-front-matter-beta-8.0.2761217.vsix"
         },
-        "version": "8.0.2745852"
+        "version": "8.0.2761217"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -15744,11 +15744,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aV/FouqC6aLtTY2hkaAPukit2e1Y7jenTxv6lMpMDOI=",
+            "sha256": "sha256-5H381BYTwncDfigaY2/YktUPh4JmEAowYduWG7MrqCQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/gpoore/codebraid-preview/0.8.0/file/gpoore.codebraid-preview-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/gpoore/codebraid-preview/0.9.0/file/gpoore.codebraid-preview-0.9.0.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.9.0"
     },
     "grain-lang-vscode-grain": {
         "cargoLocks": null,
@@ -25377,11 +25377,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oIlqfhqpfnKJWY60IVwPHC3TmlXL48BUz4Rjb1FY1PA=",
+            "sha256": "sha256-N58+C+OMwFexdat6lddImQc4C3xJ6uDoK16ylPW0+Gk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.0/file/pantajoe.vscode-elixir-credo-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.1/file/pantajoe.vscode-elixir-credo-0.8.1.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.8.1"
     },
     "paragdiwan-gitpatch": {
         "cargoLocks": null,
