@@ -1568,11 +1568,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "79e736093829848dfdf44fee94b0a2f17c96a15d",
-            "sha256": "sha256-IbejCz7eBMdhFROq+4zizCuBfqVPHu8LvochMuYG1QY=",
+            "rev": "bcd921b0125bb9f3bec1b11fa842066ead748dcd",
+            "sha256": "sha256-WJSb2VTXAcF51WieIhMSYWL+8m9usQCEU7lq46BQ4BM=",
             "type": "github"
         },
-        "version": "79e736093829848dfdf44fee94b0a2f17c96a15d"
+        "version": "bcd921b0125bb9f3bec1b11fa842066ead748dcd"
     },
     "revanced-cli": {
         "cargoLocks": null,
