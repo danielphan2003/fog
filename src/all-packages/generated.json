@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-3330e4973f4b55a5cd87b7a3a4a27f6b81622026/Cargo.lock",
+                "./asusctl-0ec15742192d62ec853b7066a3257fc4635432d8/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ="
                 }
@@ -211,12 +211,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3330e4973f4b55a5cd87b7a3a4a27f6b81622026",
-            "sha256": "sha256-t9ViQVruwlgKBLQA0xMxmU53DDgviSFZzP+kstYmC/8=",
+            "rev": "0ec15742192d62ec853b7066a3257fc4635432d8",
+            "sha256": "sha256-0iWAWeHRyKE6qHPanLG8LZahVYxVKbOnOmrciOMM3vo=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "3330e4973f4b55a5cd87b7a3a4a27f6b81622026"
+        "version": "0ec15742192d62ec853b7066a3257fc4635432d8"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "b999eaa4c9c3dc703f30edccb071effa445f1469",
-            "sha256": "sha256-AKiefNLAe0OmfPDxn70gob9orYj5J08FKQFtFaH+Sfo=",
+            "rev": "79e736093829848dfdf44fee94b0a2f17c96a15d",
+            "sha256": "sha256-IbejCz7eBMdhFROq+4zizCuBfqVPHu8LvochMuYG1QY=",
             "type": "github"
         },
-        "version": "b999eaa4c9c3dc703f30edccb071effa445f1469"
+        "version": "79e736093829848dfdf44fee94b0a2f17c96a15d"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pUv1N8p3GFDN8kOxhsDwK2x7C0kCqfutafqh4VAFJTo=",
+            "sha256": "sha256-l3CM+vdD45cKGMeciiJamCs6K0VIUHwRva7gNVQA3IM=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.2/revanced-patches-2.25.2.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.dex"
         },
-        "version": "2.25.2"
+        "version": "2.25.3"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1605,11 +1605,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0yverTLauJdKplIe0/gjquBvJ7T1fe5JRRtd6n2AZyo=",
+            "sha256": "sha256-ANn4oRaKXja7vUTZRG+UzMvIt3kg0pzOEyKhwm/qT9Y=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.2/revanced-patches-2.25.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.jar"
         },
-        "version": "2.25.2"
+        "version": "2.25.3"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1633,7 +1633,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-03e8bcca81748d1568027380536514fb29aa8873/Cargo.lock",
+                "./rustdesk-ddf0a312c1130acd612f38962773d13fb50e6f7d/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1660,11 +1660,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "03e8bcca81748d1568027380536514fb29aa8873",
-            "sha256": "sha256-2ycTMIgxE9yxFLvI5x0QRabLBs51fhvtRrFRaQwr+LU=",
+            "rev": "ddf0a312c1130acd612f38962773d13fb50e6f7d",
+            "sha256": "sha256-NXaBnS1Hwv6OYnbGJprUdkIIuVXs/0uxtYXipqSLvxQ=",
             "type": "github"
         },
-        "version": "03e8bcca81748d1568027380536514fb29aa8873"
+        "version": "ddf0a312c1130acd612f38962773d13fb50e6f7d"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,

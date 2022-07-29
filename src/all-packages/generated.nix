@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "3330e4973f4b55a5cd87b7a3a4a27f6b81622026";
+    version = "0ec15742192d62ec853b7066a3257fc4635432d8";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "3330e4973f4b55a5cd87b7a3a4a27f6b81622026";
+      rev = "0ec15742192d62ec853b7066a3257fc4635432d8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-t9ViQVruwlgKBLQA0xMxmU53DDgviSFZzP+kstYmC/8=";
+      sha256 = "sha256-0iWAWeHRyKE6qHPanLG8LZahVYxVKbOnOmrciOMM3vo=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-3330e4973f4b55a5cd87b7a3a4a27f6b81622026/Cargo.lock;
+      lockFile = ./asusctl-0ec15742192d62ec853b7066a3257fc4635432d8/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b999eaa4c9c3dc703f30edccb071effa445f1469";
+    version = "79e736093829848dfdf44fee94b0a2f17c96a15d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b999eaa4c9c3dc703f30edccb071effa445f1469";
+      rev = "79e736093829848dfdf44fee94b0a2f17c96a15d";
       fetchSubmodules = false;
-      sha256 = "sha256-AKiefNLAe0OmfPDxn70gob9orYj5J08FKQFtFaH+Sfo=";
+      sha256 = "sha256-IbejCz7eBMdhFROq+4zizCuBfqVPHu8LvochMuYG1QY=";
     });
   };
   revanced-cli = {
@@ -951,18 +951,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.25.2";
+    version = "2.25.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.2/revanced-patches-2.25.2.dex";
-      sha256 = "sha256-pUv1N8p3GFDN8kOxhsDwK2x7C0kCqfutafqh4VAFJTo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.dex";
+      sha256 = "sha256-l3CM+vdD45cKGMeciiJamCs6K0VIUHwRva7gNVQA3IM=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.25.2";
+    version = "2.25.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.2/revanced-patches-2.25.2.jar";
-      sha256 = "sha256-0yverTLauJdKplIe0/gjquBvJ7T1fe5JRRtd6n2AZyo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.jar";
+      sha256 = "sha256-ANn4oRaKXja7vUTZRG+UzMvIt3kg0pzOEyKhwm/qT9Y=";
     };
   };
   rofi-wayland = {
@@ -978,16 +978,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "03e8bcca81748d1568027380536514fb29aa8873";
+    version = "ddf0a312c1130acd612f38962773d13fb50e6f7d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "03e8bcca81748d1568027380536514fb29aa8873";
+      rev = "ddf0a312c1130acd612f38962773d13fb50e6f7d";
       fetchSubmodules = false;
-      sha256 = "sha256-2ycTMIgxE9yxFLvI5x0QRabLBs51fhvtRrFRaQwr+LU=";
+      sha256 = "sha256-NXaBnS1Hwv6OYnbGJprUdkIIuVXs/0uxtYXipqSLvxQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-03e8bcca81748d1568027380536514fb29aa8873/Cargo.lock;
+      lockFile = ./rustdesk-ddf0a312c1130acd612f38962773d13fb50e6f7d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
