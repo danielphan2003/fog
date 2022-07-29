@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "0ec15742192d62ec853b7066a3257fc4635432d8";
+    version = "7abad979c817bd5a1f13481485162ca1dd34a2cd";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "0ec15742192d62ec853b7066a3257fc4635432d8";
+      rev = "7abad979c817bd5a1f13481485162ca1dd34a2cd";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-0iWAWeHRyKE6qHPanLG8LZahVYxVKbOnOmrciOMM3vo=";
+      sha256 = "sha256-raM3F0GjFab6a7OxzHbPRuoumQf6A114VK0FB2HXf3g=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-0ec15742192d62ec853b7066a3257fc4635432d8/Cargo.lock;
+      lockFile = ./asusctl-7abad979c817bd5a1f13481485162ca1dd34a2cd/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -978,16 +978,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "ddf0a312c1130acd612f38962773d13fb50e6f7d";
+    version = "7983c93be048679acd20dc4f69d111709781c09f";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "ddf0a312c1130acd612f38962773d13fb50e6f7d";
+      rev = "7983c93be048679acd20dc4f69d111709781c09f";
       fetchSubmodules = false;
-      sha256 = "sha256-NXaBnS1Hwv6OYnbGJprUdkIIuVXs/0uxtYXipqSLvxQ=";
+      sha256 = "sha256-Nl3JYVuBu3O+LxnMZNcOr4VOgW5JcFnDibmKOIJzrwc=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-ddf0a312c1130acd612f38962773d13fb50e6f7d/Cargo.lock;
+      lockFile = ./rustdesk-7983c93be048679acd20dc4f69d111709781c09f/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1096,13 +1096,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "17b2a166b9fd485eaefcd3307ad7cdd91fa14623";
+    version = "cdf59c24e438bf5260045a0f2da2a0084650d62b";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "17b2a166b9fd485eaefcd3307ad7cdd91fa14623";
+      rev = "cdf59c24e438bf5260045a0f2da2a0084650d62b";
       fetchSubmodules = false;
-      sha256 = "sha256-Nk7CgDk9qW9R9oUfytRqAa74DkqmPJ9klWloRp++/3M=";
+      sha256 = "sha256-vRrxHhLOJfC8skQXbl/ru6QC0Ds7IDcX/7a8K4v4NGA=";
     });
   };
   spicetify-themes = {

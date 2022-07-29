@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-0ec15742192d62ec853b7066a3257fc4635432d8/Cargo.lock",
+                "./asusctl-7abad979c817bd5a1f13481485162ca1dd34a2cd/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ="
                 }
@@ -211,12 +211,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0ec15742192d62ec853b7066a3257fc4635432d8",
-            "sha256": "sha256-0iWAWeHRyKE6qHPanLG8LZahVYxVKbOnOmrciOMM3vo=",
+            "rev": "7abad979c817bd5a1f13481485162ca1dd34a2cd",
+            "sha256": "sha256-raM3F0GjFab6a7OxzHbPRuoumQf6A114VK0FB2HXf3g=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "0ec15742192d62ec853b7066a3257fc4635432d8"
+        "version": "7abad979c817bd5a1f13481485162ca1dd34a2cd"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1633,7 +1633,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-ddf0a312c1130acd612f38962773d13fb50e6f7d/Cargo.lock",
+                "./rustdesk-7983c93be048679acd20dc4f69d111709781c09f/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1660,11 +1660,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "ddf0a312c1130acd612f38962773d13fb50e6f7d",
-            "sha256": "sha256-NXaBnS1Hwv6OYnbGJprUdkIIuVXs/0uxtYXipqSLvxQ=",
+            "rev": "7983c93be048679acd20dc4f69d111709781c09f",
+            "sha256": "sha256-Nl3JYVuBu3O+LxnMZNcOr4VOgW5JcFnDibmKOIJzrwc=",
             "type": "github"
         },
-        "version": "ddf0a312c1130acd612f38962773d13fb50e6f7d"
+        "version": "7983c93be048679acd20dc4f69d111709781c09f"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -1834,11 +1834,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "17b2a166b9fd485eaefcd3307ad7cdd91fa14623",
-            "sha256": "sha256-Nk7CgDk9qW9R9oUfytRqAa74DkqmPJ9klWloRp++/3M=",
+            "rev": "cdf59c24e438bf5260045a0f2da2a0084650d62b",
+            "sha256": "sha256-vRrxHhLOJfC8skQXbl/ru6QC0Ds7IDcX/7a8K4v4NGA=",
             "type": "github"
         },
-        "version": "17b2a166b9fd485eaefcd3307ad7cdd91fa14623"
+        "version": "cdf59c24e438bf5260045a0f2da2a0084650d62b"
     },
     "spicetify-themes": {
         "cargoLocks": null,
