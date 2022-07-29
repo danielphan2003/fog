@@ -7971,10 +7971,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.105.1";
+    version = "0.105.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.105.1/file/dendron.nightly-0.105.1.vsix";
-      sha256 = "sha256-kN4oyWyVDBebpj4GS+xCed5Yl3Uakv4QaiHEsVvL8kE=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.105.3/file/dendron.nightly-0.105.3.vsix";
+      sha256 = "sha256-9xtulbwcuG02skCLFcIHi/psRKOZoFglKdId9YFnQFA=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -16011,10 +16011,10 @@
   };
   pantajoe-vscode-elixir-credo = {
     pname = "pantajoe-vscode-elixir-credo";
-    version = "0.7.2";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.7.2/file/pantajoe.vscode-elixir-credo-0.7.2.vsix";
-      sha256 = "sha256-6J4FeQrrtc2ms7GGBLd+ELJpxnfvQtEaNdNAc3J8z5E=";
+      url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.0/file/pantajoe.vscode-elixir-credo-0.8.0.vsix";
+      sha256 = "sha256-oIlqfhqpfnKJWY60IVwPHC3TmlXL48BUz4Rjb1FY1PA=";
     };
     license = "MIT";
     name = "vscode-elixir-credo";
