@@ -9,18 +9,18 @@
 
   pkgWithCategory = category: package: cmdWithCategory category {inherit package;};
 
-  withCategory = category: attrs:
-    let
-      mapWith =
-        if l.isDerivation attrs
-        then pkgWithCategory
-        else cmdWithCategory;
-    in mapWith category attrs;
+  withCategory = category: attrs: let
+    mapWith =
+      if l.isDerivation attrs
+      then pkgWithCategory
+      else cmdWithCategory;
+  in
+    mapWith category attrs;
 
-  mkCategories = categories: attrs:
-    let
-      withCategories = l.genAttrs categories (category: withCategory category);
-    in withCategories // attrs;
+  mkCategories = categories: attrs: let
+    withCategories = l.genAttrs categories (category: withCategory category);
+  in
+    withCategories // attrs;
 
   categories = [
     "cli-dev"
@@ -32,7 +32,7 @@
   ];
 in {
   callSource = path: override:
-    import path ({ inherit (nixpkgs) fetchgit fetchurl fetchFromGitHub; } // override);
+    import path ({inherit (nixpkgs) fetchgit fetchurl fetchFromGitHub;} // override);
 
   categories = mkCategories categories {
     inherit cmdWithCategory pkgWithCategory withCategory categories;

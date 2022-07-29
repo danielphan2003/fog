@@ -161,6 +161,10 @@ cargo_locks = [ "Cargo.lock" ]
 src.git = "https://github.com/fangfufu/Linux-Fake-Background-Webcam"
 fetch.github = "fangfufu/Linux-Fake-Background-Webcam"
 
+[firefox-sidebar]
+src.git = "https://github.com/drannex42/FirefoxSidebar"
+fetch.github = "drannex42/FirefoxSidebar"
+
 [flameshot]
 src.git = "https://github.com/flameshot-org/flameshot"
 fetch.github = "flameshot-org/flameshot"

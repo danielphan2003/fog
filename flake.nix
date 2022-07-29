@@ -5,11 +5,11 @@
   inputs.std.url = "github:divnix/std";
   inputs.std.inputs.nixpkgs.follows = "nixpkgs";
 
-  outputs =
-    { self
-    , std
-    , ...
-    } @ inputs:
+  outputs = {
+    self,
+    std,
+    ...
+  } @ inputs:
     std.growOn {
       inherit inputs;
       cellsFrom = ./cells;
@@ -31,8 +31,7 @@
       ];
     } {
       devShells = std.harvest self ["nixpkgs" "devshells"];
-    }
-  ;
+    };
 
   # --- Flake Local Nix Configuration ----------------------------
   # TODO: adopt spongix
