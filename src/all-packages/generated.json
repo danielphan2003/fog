@@ -397,11 +397,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "2f43aa062925e0e8ff114e6035f3bc1b2f7b8e4a",
-            "sha256": "sha256-dVPLI+xmbbRfm9ZYWq7+hs9t2LVIiNaMZXXp+6uu89A=",
+            "rev": "1e0cdc54f86cb29eca14af13aaa3ccfb07d46a20",
+            "sha256": "sha256-+4xCUr8gVcXjt8xEMvdUWs2oR9150WuHZXUKd5oeWNQ=",
             "type": "github"
         },
-        "version": "2f43aa062925e0e8ff114e6035f3bc1b2f7b8e4a"
+        "version": "1e0cdc54f86cb29eca14af13aaa3ccfb07d46a20"
     },
     "cinny": {
         "cargoLocks": null,
@@ -723,12 +723,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0eee5f70ea65b8abbc594a0b22e51ad4db4ca72c",
-            "sha256": "sha256-8j9CGCKjclxpirvmR2omepeU7rUWWFpsiOJiOAutME8=",
+            "rev": "7d96fe7224ab9ff597d1882044c51c1c18a2d4ae",
+            "sha256": "sha256-MkI571gfHi6y3j0WbJP7qE1VvJAEXTJCgZuENREQSSU=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "0eee5f70ea65b8abbc594a0b22e51ad4db4ca72c"
+        "version": "7d96fe7224ab9ff597d1882044c51c1c18a2d4ae"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -2047,11 +2047,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "7a744669982668ac83d45a26a39b4f447a85050c",
-            "sha256": "sha256-bnDC69xBqVOUlCuPfnq0XEOQwY1G+eoDMvSHuYomN/Q=",
+            "rev": "47f91dd7323fad42bd6c5a96c890a9eedec7a5f4",
+            "sha256": "sha256-6UpyIVO4Ponmpi2ZHrrwLQHpfielmxVv+OEVN63BI1E=",
             "type": "github"
         },
-        "version": "7a744669982668ac83d45a26a39b4f447a85050c"
+        "version": "47f91dd7323fad42bd6c5a96c890a9eedec7a5f4"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2098,7 +2098,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "022524d4cabae6278b9b35b05b2e4ffca84ef9d3"
+        "version": "52e22e5bae715be7544eaa3502d6cf9c0017c510"
     },
     "ulauncher": {
         "cargoLocks": null,

@@ -232,13 +232,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "2f43aa062925e0e8ff114e6035f3bc1b2f7b8e4a";
+    version = "1e0cdc54f86cb29eca14af13aaa3ccfb07d46a20";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "2f43aa062925e0e8ff114e6035f3bc1b2f7b8e4a";
+      rev = "1e0cdc54f86cb29eca14af13aaa3ccfb07d46a20";
       fetchSubmodules = false;
-      sha256 = "sha256-dVPLI+xmbbRfm9ZYWq7+hs9t2LVIiNaMZXXp+6uu89A=";
+      sha256 = "sha256-+4xCUr8gVcXjt8xEMvdUWs2oR9150WuHZXUKd5oeWNQ=";
     });
   };
   cinny = {
@@ -434,14 +434,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "0eee5f70ea65b8abbc594a0b22e51ad4db4ca72c";
+    version = "7d96fe7224ab9ff597d1882044c51c1c18a2d4ae";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "0eee5f70ea65b8abbc594a0b22e51ad4db4ca72c";
+      rev = "7d96fe7224ab9ff597d1882044c51c1c18a2d4ae";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8j9CGCKjclxpirvmR2omepeU7rUWWFpsiOJiOAutME8=";
+      sha256 = "sha256-MkI571gfHi6y3j0WbJP7qE1VvJAEXTJCgZuENREQSSU=";
     };
   };
   flyingfox = {
@@ -1230,13 +1230,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "7a744669982668ac83d45a26a39b4f447a85050c";
+    version = "47f91dd7323fad42bd6c5a96c890a9eedec7a5f4";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "7a744669982668ac83d45a26a39b4f447a85050c";
+      rev = "47f91dd7323fad42bd6c5a96c890a9eedec7a5f4";
       fetchSubmodules = false;
-      sha256 = "sha256-bnDC69xBqVOUlCuPfnq0XEOQwY1G+eoDMvSHuYomN/Q=";
+      sha256 = "sha256-6UpyIVO4Ponmpi2ZHrrwLQHpfielmxVv+OEVN63BI1E=";
     });
   };
   tailscale-systray = {
@@ -1260,7 +1260,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "022524d4cabae6278b9b35b05b2e4ffca84ef9d3";
+    version = "52e22e5bae715be7544eaa3502d6cf9c0017c510";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
