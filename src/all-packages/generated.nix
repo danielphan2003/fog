@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "de7fb4a942d3d3d23e7fa232db6dcb8d75717614";
+    version = "14f06935119fd361b180a9afaa910daf9c0317e8";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "de7fb4a942d3d3d23e7fa232db6dcb8d75717614";
+      rev = "14f06935119fd361b180a9afaa910daf9c0317e8";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lcP40zfPGKPY1RRj4REQVh0WrkMTyjf/oMSOhlKNt38=";
+      sha256 = "sha256-PNC58UAbdI0PGWhmcEbkgUx3nOVHzIW+Zu7Fk1bJ3KU=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-de7fb4a942d3d3d23e7fa232db6dcb8d75717614/Cargo.lock;
+      lockFile = ./asusctl-14f06935119fd361b180a9afaa910daf9c0317e8/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6395";
+    version = "1.0.6396";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6395.tar.bz2";
-      sha256 = "sha256-FKpYmbrnF0vZccBe1saZREf4tZ9XJEpKmNdOet73J5s=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6396.tar.bz2";
+      sha256 = "sha256-PPBJrNbUSKM1GQfWj9GtI8K41Pd6Hc0L5jbnZYF2Bps=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6395";
+    version = "1.0.6396";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6395-1_all.deb";
-      sha256 = "sha256-5Utjy/AyMbsGttfXb93TMBA6JK4NQZr35xunnABWSeI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6396-1_all.deb";
+      sha256 = "sha256-cKOTofIVde/PuXgvEN2Q0DAaenqn0w1KTbaubih3Ufg=";
     };
   };
   jitsi-videobridge2 = {
@@ -643,13 +643,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "v0.5.2";
+    version = "v1.0.0";
     src = fetchFromGitHub ({
       owner = "Half-Shot";
       repo = "matrix-appservice-discord";
-      rev = "v0.5.2";
+      rev = "v1.0.0";
       fetchSubmodules = false;
-      sha256 = "sha256-aaRpeN+5AHcWRGB2NIpQZ/Yi2XDxq5QXeYUyNFMD5VE=";
+      sha256 = "sha256-hZQ+3FDRWNGsnaHblnB2p6Inf9ZMrbB2jmgR2rskil0=";
     });
   };
   microsoft-edge-beta = {
@@ -935,13 +935,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "592f9384b077e605769fab813bcaa5a916bf3774";
+    version = "24a2f1e7c343d44866c7c1b8a9bacaf3338cb4c7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "592f9384b077e605769fab813bcaa5a916bf3774";
+      rev = "24a2f1e7c343d44866c7c1b8a9bacaf3338cb4c7";
       fetchSubmodules = false;
-      sha256 = "sha256-4InmVtoWskNvCeVdhEOje5rh1AmRO0aeFdRjVwHt2L0=";
+      sha256 = "sha256-gr113Umj+6PLupD0b/vQItYBSOi4U1USsQhAyKxC/64=";
     });
   };
   revanced-cli = {
