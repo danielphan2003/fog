@@ -2043,10 +2043,10 @@
   };
   Leathong-openscad-language-support = {
     pname = "Leathong-openscad-language-support";
-    version = "1.2.0";
+    version = "1.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.2.0/file/Leathong.openscad-language-support-1.2.0.vsix";
-      sha256 = "sha256-gBclo2Z4pNGE5UcLCoG5c+7uXY4Tz2dRhBG0tsTKvt8=";
+      url = "https://open-vsx.org/api/Leathong/openscad-language-support/1.2.1/file/Leathong.openscad-language-support-1.2.1.vsix";
+      sha256 = "sha256-aSQ9D9r7J2Gbirr5HyC+Mm6e+bZA+MfZeiY94uYAiHo=";
     };
     license = "GPL-3.0";
     name = "openscad-language-support";
@@ -3003,10 +3003,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1238";
+    version = "31.0.1239";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1238/file/Prisma.prisma-insider-31.0.1238.vsix";
-      sha256 = "sha256-p4mOWFASSbrsWQFkeS1CoqUOFiFt3ZajWHROQ/Uya1g=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1239/file/Prisma.prisma-insider-31.0.1239.vsix";
+      sha256 = "sha256-/02YquJ+mAOaYMVHaMqaYyhg7WvFl/738ZxNqefLCMg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -16023,10 +16023,10 @@
   };
   pantajoe-vscode-elixir-credo = {
     pname = "pantajoe-vscode-elixir-credo";
-    version = "0.8.1";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.1/file/pantajoe.vscode-elixir-credo-0.8.1.vsix";
-      sha256 = "sha256-N58+C+OMwFexdat6lddImQc4C3xJ6uDoK16ylPW0+Gk=";
+      url = "https://open-vsx.org/api/pantajoe/vscode-elixir-credo/0.8.2/file/pantajoe.vscode-elixir-credo-0.8.2.vsix";
+      sha256 = "sha256-NEdg48d5a//Nd+bDhLUbfoN1YA7Ab8iXNEYCnoo+T/0=";
     };
     license = "MIT";
     name = "vscode-elixir-credo";
@@ -18543,10 +18543,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.55";
+    version = "0.0.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.55/file/shivaprasanth.dothttp-code-0.0.55.vsix";
-      sha256 = "sha256-6rdeTnjfe+veaLbzJ3c4uxp1VUQtCEn2RnsLwtIamZo=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.56/file/shivaprasanth.dothttp-code-0.0.56.vsix";
+      sha256 = "sha256-cPdztEyOWnWFeV4aCxNpFZkRdDFzEQCLFx2Dv0eIk2U=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
