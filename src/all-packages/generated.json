@@ -397,11 +397,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "1e0cdc54f86cb29eca14af13aaa3ccfb07d46a20",
-            "sha256": "sha256-+4xCUr8gVcXjt8xEMvdUWs2oR9150WuHZXUKd5oeWNQ=",
+            "rev": "07ed3e7c3078723b55687bf4b262d24ef1645c7d",
+            "sha256": "sha256-m5ur+agXkot6wM3vFHGMy7YvyJAbwUtEUGJhmfQdY9M=",
             "type": "github"
         },
-        "version": "1e0cdc54f86cb29eca14af13aaa3ccfb07d46a20"
+        "version": "07ed3e7c3078723b55687bf4b262d24ef1645c7d"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1814,12 +1814,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "b4bcb7af84e3d837a9aaefac0b5533d8f7ee7f48",
-            "sha256": "sha256-q+q3uxJ1aX/gJI4cu21fjCUzlCW22sP0CUlaimU47Dg=",
+            "rev": "4e99f82b2b21613ef2a8caff861386dfdcf1dc1f",
+            "sha256": "sha256-ITnG7KGJn+AfkYm/qdKRXPWmMiC5aJX22JA6iBXLWZA=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "b4bcb7af84e3d837a9aaefac0b5533d8f7ee7f48"
+        "version": "4e99f82b2b21613ef2a8caff861386dfdcf1dc1f"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -2013,7 +2013,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-6bac416be0451b68a0a62fae413e0a5f78fc2a48/Cargo.lock",
+                "./swhkd-1b6cf273c2a899defa87106dbb9b87c8e8c28eb9/Cargo.lock",
                 {}
             ]
         },
@@ -2028,11 +2028,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "6bac416be0451b68a0a62fae413e0a5f78fc2a48",
-            "sha256": "sha256-xUMuDsAYDx6+7RBNdkj95051zTb5sGQj61evexpns5I=",
+            "rev": "1b6cf273c2a899defa87106dbb9b87c8e8c28eb9",
+            "sha256": "sha256-ozYvEE9WP7tqofX7IuYujDJrZ7QgoFbFgfJ09qpHziQ=",
             "type": "github"
         },
-        "version": "6bac416be0451b68a0a62fae413e0a5f78fc2a48"
+        "version": "1b6cf273c2a899defa87106dbb9b87c8e8c28eb9"
     },
     "tailscale": {
         "cargoLocks": null,
@@ -2047,11 +2047,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "47f91dd7323fad42bd6c5a96c890a9eedec7a5f4",
-            "sha256": "sha256-6UpyIVO4Ponmpi2ZHrrwLQHpfielmxVv+OEVN63BI1E=",
+            "rev": "c06758c83b23de3a45d0b441221fedc0a73a3f4e",
+            "sha256": "sha256-LFcWUoaMtB0lGEvldSrMHKBWhU36+70G8fqMdyWh4fI=",
             "type": "github"
         },
-        "version": "47f91dd7323fad42bd6c5a96c890a9eedec7a5f4"
+        "version": "c06758c83b23de3a45d0b441221fedc0a73a3f4e"
     },
     "tailscale-systray": {
         "cargoLocks": null,
