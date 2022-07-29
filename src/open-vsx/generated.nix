@@ -3291,10 +3291,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.12";
+    version = "4.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.12/file/Sarrus.sourcepawn-vscode-4.0.12.vsix";
-      sha256 = "sha256-4vKwHm78vV0Nf4+K/e3sEFxMfjzFDOyCOgUnRuXbHzY=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.13/file/Sarrus.sourcepawn-vscode-4.0.13.vsix";
+      sha256 = "sha256-RC39A78sKrEH9/8Mjvxw0O3OPJy5zZFSqeh1y73pDCg=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -12279,10 +12279,10 @@
   };
   kieler-klighd-vscode = {
     pname = "kieler-klighd-vscode";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kieler/klighd-vscode/0.3.0/file/kieler.klighd-vscode-0.3.0.vsix";
-      sha256 = "sha256-lK+wBLIopKv0ggUFdO2T+AjhrBBct2zOvJ2+xJsYe40=";
+      url = "https://open-vsx.org/api/kieler/klighd-vscode/0.4.0/file/kieler.klighd-vscode-0.4.0.vsix";
+      sha256 = "sha256-EdafstSfCFrm9OzeXifQRFjJHBswgXkP7ntl3OxDP6g=";
     };
     license = "EPL-2.0";
     name = "klighd-vscode";
