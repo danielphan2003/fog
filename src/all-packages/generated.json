@@ -196,7 +196,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-4164b4645dcf0bfe89aa2490522e32dd2f776172/Cargo.lock",
+                "./asusctl-de7fb4a942d3d3d23e7fa232db6dcb8d75717614/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ="
                 }
@@ -211,12 +211,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4164b4645dcf0bfe89aa2490522e32dd2f776172",
-            "sha256": "sha256-MUXrOvL5A2AM672a1L4944vRk5Ygv9xzkFcpuforn88=",
+            "rev": "de7fb4a942d3d3d23e7fa232db6dcb8d75717614",
+            "sha256": "sha256-lcP40zfPGKPY1RRj4REQVh0WrkMTyjf/oMSOhlKNt38=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "4164b4645dcf0bfe89aa2490522e32dd2f776172"
+        "version": "de7fb4a942d3d3d23e7fa232db6dcb8d75717614"
     },
     "avizo": {
         "cargoLocks": null,
@@ -340,11 +340,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "cb5321b7f1d47462b91193387b999fdbf4d0610b",
-            "sha256": "sha256-MjdXxkRZrd31nuA+wMXFf5SdPkPQn5nvTGcKuN2ol6I=",
+            "rev": "b039692e5ab1b58f40cd7d00844813bb86105701",
+            "sha256": "sha256-PVJCjNSzgu43TDHxjjHilonkuNdasnQLTORXb74uOrM=",
             "type": "github"
         },
-        "version": "cb5321b7f1d47462b91193387b999fdbf4d0610b"
+        "version": "b039692e5ab1b58f40cd7d00844813bb86105701"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1079,11 +1079,11 @@
             "name": null,
             "owner": "Half-Shot",
             "repo": "matrix-appservice-discord",
-            "rev": "v1.0.0",
-            "sha256": "sha256-hZQ+3FDRWNGsnaHblnB2p6Inf9ZMrbB2jmgR2rskil0=",
+            "rev": "v0.5.2",
+            "sha256": "sha256-aaRpeN+5AHcWRGB2NIpQZ/Yi2XDxq5QXeYUyNFMD5VE=",
             "type": "github"
         },
-        "version": "v1.0.0"
+        "version": "v0.5.2"
     },
     "microsoft-edge-beta": {
         "cargoLocks": null,
@@ -1568,11 +1568,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "bcd921b0125bb9f3bec1b11fa842066ead748dcd",
-            "sha256": "sha256-WJSb2VTXAcF51WieIhMSYWL+8m9usQCEU7lq46BQ4BM=",
+            "rev": "592f9384b077e605769fab813bcaa5a916bf3774",
+            "sha256": "sha256-4InmVtoWskNvCeVdhEOje5rh1AmRO0aeFdRjVwHt2L0=",
             "type": "github"
         },
-        "version": "bcd921b0125bb9f3bec1b11fa842066ead748dcd"
+        "version": "592f9384b077e605769fab813bcaa5a916bf3774"
     },
     "revanced-cli": {
         "cargoLocks": null,

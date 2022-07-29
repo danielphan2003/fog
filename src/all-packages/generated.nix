@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "4164b4645dcf0bfe89aa2490522e32dd2f776172";
+    version = "de7fb4a942d3d3d23e7fa232db6dcb8d75717614";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "4164b4645dcf0bfe89aa2490522e32dd2f776172";
+      rev = "de7fb4a942d3d3d23e7fa232db6dcb8d75717614";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-MUXrOvL5A2AM672a1L4944vRk5Ygv9xzkFcpuforn88=";
+      sha256 = "sha256-lcP40zfPGKPY1RRj4REQVh0WrkMTyjf/oMSOhlKNt38=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-4164b4645dcf0bfe89aa2490522e32dd2f776172/Cargo.lock;
+      lockFile = ./asusctl-de7fb4a942d3d3d23e7fa232db6dcb8d75717614/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "cb5321b7f1d47462b91193387b999fdbf4d0610b";
+    version = "b039692e5ab1b58f40cd7d00844813bb86105701";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "cb5321b7f1d47462b91193387b999fdbf4d0610b";
+      rev = "b039692e5ab1b58f40cd7d00844813bb86105701";
       fetchSubmodules = false;
-      sha256 = "sha256-MjdXxkRZrd31nuA+wMXFf5SdPkPQn5nvTGcKuN2ol6I=";
+      sha256 = "sha256-PVJCjNSzgu43TDHxjjHilonkuNdasnQLTORXb74uOrM=";
     });
   };
   caddy = {
@@ -643,13 +643,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "v1.0.0";
+    version = "v0.5.2";
     src = fetchFromGitHub ({
       owner = "Half-Shot";
       repo = "matrix-appservice-discord";
-      rev = "v1.0.0";
+      rev = "v0.5.2";
       fetchSubmodules = false;
-      sha256 = "sha256-hZQ+3FDRWNGsnaHblnB2p6Inf9ZMrbB2jmgR2rskil0=";
+      sha256 = "sha256-aaRpeN+5AHcWRGB2NIpQZ/Yi2XDxq5QXeYUyNFMD5VE=";
     });
   };
   microsoft-edge-beta = {
@@ -935,13 +935,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "bcd921b0125bb9f3bec1b11fa842066ead748dcd";
+    version = "592f9384b077e605769fab813bcaa5a916bf3774";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "bcd921b0125bb9f3bec1b11fa842066ead748dcd";
+      rev = "592f9384b077e605769fab813bcaa5a916bf3774";
       fetchSubmodules = false;
-      sha256 = "sha256-WJSb2VTXAcF51WieIhMSYWL+8m9usQCEU7lq46BQ4BM=";
+      sha256 = "sha256-4InmVtoWskNvCeVdhEOje5rh1AmRO0aeFdRjVwHt2L0=";
     });
   };
   revanced-cli = {
