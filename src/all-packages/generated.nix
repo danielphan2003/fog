@@ -935,13 +935,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "aca51694164d3fe3593aa5ecf89ab0e902bc072a";
+    version = "6b9a2b4bb076ad40f62c9921a9a0e476aa200110";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "aca51694164d3fe3593aa5ecf89ab0e902bc072a";
+      rev = "6b9a2b4bb076ad40f62c9921a9a0e476aa200110";
       fetchSubmodules = false;
-      sha256 = "sha256-9TEKUPDBWZXhL9I5Mt07LDINaYWfVSOlqoojVUHNf7M=";
+      sha256 = "sha256-BJN8OtQ7LbnyZN9HHjFbwQ5UVDQhyhQV9M+rcr7ZW5k=";
     });
   };
   revanced-cli = {
@@ -1408,13 +1408,13 @@
   };
   xdg-desktop-portal = {
     pname = "xdg-desktop-portal";
-    version = "bb937ad9fa872aa721e2eeed9f38ca1e062018c3";
+    version = "9f4c4c2a15efc28ed30a40d5caf80c5d016a566f";
     src = fetchFromGitHub ({
       owner = "flatpak";
       repo = "xdg-desktop-portal";
-      rev = "bb937ad9fa872aa721e2eeed9f38ca1e062018c3";
+      rev = "9f4c4c2a15efc28ed30a40d5caf80c5d016a566f";
       fetchSubmodules = false;
-      sha256 = "sha256-FtKXXmGcCcAY34g74Pii1LslirNKIv9iympNXaD2Chg=";
+      sha256 = "sha256-3SMi0LbxCDeEVaUVE0EDdk4xl0TFH02Z1QeqA5Qgtis=";
     });
   };
   xdg-desktop-portal-gtk = {
