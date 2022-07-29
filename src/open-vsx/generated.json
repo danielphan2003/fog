@@ -1671,6 +1671,25 @@
         },
         "version": "2.3.1"
     },
+    "EventHorizon-ax-theme": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "EventHorizon-ax-theme",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "ax-theme",
+            "publisher": "EventHorizon"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-BaPa9PLAY3Frqeih2W9IkWkkaENaxitd0ABR5BcBDbU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/EventHorizon/ax-theme/0.0.1/file/EventHorizon.ax-theme-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "Evidence-evidence-vscode": {
         "cargoLocks": null,
         "extract": null,
@@ -27182,11 +27201,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-l6gZ2urI0XuokbJhtcIedHC8ccR300UNaexJQAoFMF8=",
+            "sha256": "sha256-mLcZmrDIbhYzI5vBujZCQwjnn3Tc9CgJDtpsqgcdtjI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.11.11/file/redhat.ansible-0.11.11.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.11.12/file/redhat.ansible-0.11.12.vsix"
         },
-        "version": "0.11.11"
+        "version": "0.11.12"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,
@@ -35846,11 +35865,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1tJ+Mb0qAve0GGG075A5WTpwICg74bRcksP/0SsNQtE=",
+            "sha256": "sha256-bB8U1uyQpyq9F+UehzwDBcHoMKD3VQBPD2Zr2LrciOw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/waderyan/gitblame/8.2.3/file/waderyan.gitblame-8.2.3.vsix"
+            "url": "https://open-vsx.org/api/waderyan/gitblame/9.0.0/file/waderyan.gitblame-9.0.0.vsix"
         },
-        "version": "8.2.3"
+        "version": "9.0.0"
     },
     "wadoon-jml-vscode": {
         "cargoLocks": null,

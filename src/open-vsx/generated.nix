@@ -1057,6 +1057,18 @@
     description = "Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.";
     publisher = "Equinusocio";
   };
+  EventHorizon-ax-theme = {
+    pname = "EventHorizon-ax-theme";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/EventHorizon/ax-theme/0.0.1/file/EventHorizon.ax-theme-0.0.1.vsix";
+      sha256 = "sha256-BaPa9PLAY3Frqeih2W9IkWkkaENaxitd0ABR5BcBDbU=";
+    };
+    license = "MIT";
+    name = "ax-theme";
+    description = "";
+    publisher = "EventHorizon";
+  };
   Evidence-evidence-vscode = {
     pname = "Evidence-evidence-vscode";
     version = "0.0.6";
@@ -17163,10 +17175,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.11.11";
+    version = "0.11.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.11.11/file/redhat.ansible-0.11.11.vsix";
-      sha256 = "sha256-l6gZ2urI0XuokbJhtcIedHC8ccR300UNaexJQAoFMF8=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.11.12/file/redhat.ansible-0.11.12.vsix";
+      sha256 = "sha256-mLcZmrDIbhYzI5vBujZCQwjnn3Tc9CgJDtpsqgcdtjI=";
     };
     license = "MIT";
     name = "ansible";
@@ -22635,10 +22647,10 @@
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
-    version = "8.2.3";
+    version = "9.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/waderyan/gitblame/8.2.3/file/waderyan.gitblame-8.2.3.vsix";
-      sha256 = "sha256-1tJ+Mb0qAve0GGG075A5WTpwICg74bRcksP/0SsNQtE=";
+      url = "https://open-vsx.org/api/waderyan/gitblame/9.0.0/file/waderyan.gitblame-9.0.0.vsix";
+      sha256 = "sha256-bB8U1uyQpyq9F+UehzwDBcHoMKD3VQBPD2Zr2LrciOw=";
     };
     license = "MIT";
     name = "gitblame";
