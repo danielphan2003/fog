@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "14f06935119fd361b180a9afaa910daf9c0317e8";
+    version = "3e94ef05fbeff93fb835b435814f5e6571eb4634";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "14f06935119fd361b180a9afaa910daf9c0317e8";
+      rev = "3e94ef05fbeff93fb835b435814f5e6571eb4634";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-PNC58UAbdI0PGWhmcEbkgUx3nOVHzIW+Zu7Fk1bJ3KU=";
+      sha256 = "sha256-CmLJIqaPVvDDVTv7MzkMojOhHshwUm3A2xjv6od8xgA=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-14f06935119fd361b180a9afaa910daf9c0317e8/Cargo.lock;
+      lockFile = ./asusctl-3e94ef05fbeff93fb835b435814f5e6571eb4634/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -199,13 +199,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "43fb03b7d08ece3b24ab23ec19c86fb89fd8439c";
+    version = "1a3ab630d133dc59bb11a6d1d94c04981bf6cde8";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "43fb03b7d08ece3b24ab23ec19c86fb89fd8439c";
+      rev = "1a3ab630d133dc59bb11a6d1d94c04981bf6cde8";
       fetchSubmodules = false;
-      sha256 = "sha256-bS7Krlouo+ZensoJ6z8OoQOBb5mQwA9ieMPhWrfEt4A=";
+      sha256 = "sha256-Fu7+rZgkmdeV6dXXSN1qlRhIbT10YDMmRNv7WC95avQ=";
     });
   };
   caddy = {
