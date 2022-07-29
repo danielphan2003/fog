@@ -29367,11 +29367,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cPdztEyOWnWFeV4aCxNpFZkRdDFzEQCLFx2Dv0eIk2U=",
+            "sha256": "sha256-RNRqeukEPZOBWw0scfNeISKmViIExqLdvFLVGrwgJL0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.56/file/shivaprasanth.dothttp-code-0.0.56.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.57/file/shivaprasanth.dothttp-code-0.0.57.vsix"
         },
-        "version": "0.0.56"
+        "version": "0.0.57"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,
