@@ -23043,10 +23043,10 @@
   };
   xaberus-remote-oss = {
     pname = "xaberus-remote-oss";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/xaberus/remote-oss/0.0.1/file/xaberus.remote-oss-0.0.1.vsix";
-      sha256 = "sha256-9yZTymxQUcg+94auQDkLSYnUQ/elebRlTe9+VRlqJFo=";
+      url = "https://open-vsx.org/api/xaberus/remote-oss/0.0.2/file/xaberus.remote-oss-0.0.2.vsix";
+      sha256 = "sha256-sDUUFVCWsRhunFYTIa6SvgLZwNLRn/B2hAQ2Emvb7VI=";
     };
     license = "MIT";
     name = "remote-oss";

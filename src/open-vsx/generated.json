@@ -36492,11 +36492,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9yZTymxQUcg+94auQDkLSYnUQ/elebRlTe9+VRlqJFo=",
+            "sha256": "sha256-sDUUFVCWsRhunFYTIa6SvgLZwNLRn/B2hAQ2Emvb7VI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/xaberus/remote-oss/0.0.1/file/xaberus.remote-oss-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/xaberus/remote-oss/0.0.2/file/xaberus.remote-oss-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "xabikos-JavaScriptSnippets": {
         "cargoLocks": null,
