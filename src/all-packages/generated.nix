@@ -935,13 +935,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6b9a2b4bb076ad40f62c9921a9a0e476aa200110";
+    version = "9906d2dacab4f484a0a8f4be2a48ea2a1cbe96ce";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6b9a2b4bb076ad40f62c9921a9a0e476aa200110";
+      rev = "9906d2dacab4f484a0a8f4be2a48ea2a1cbe96ce";
       fetchSubmodules = false;
-      sha256 = "sha256-BJN8OtQ7LbnyZN9HHjFbwQ5UVDQhyhQV9M+rcr7ZW5k=";
+      sha256 = "sha256-ct2CEgeSt6FI04fcFe77m6F+0L2IrxCAPt89vt7VXv0=";
     });
   };
   revanced-cli = {
@@ -989,16 +989,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "040267e7f281667679dcaf5cd188f0af2f8603ba";
+    version = "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "040267e7f281667679dcaf5cd188f0af2f8603ba";
+      rev = "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7";
       fetchSubmodules = false;
-      sha256 = "sha256-o9qIrJjvIew9c7tRgz5v0hkkjF1PNCKRY1GStzNxZJw=";
+      sha256 = "sha256-ciyR/XoJ2JWyl5vNt5zmWYba1Ky8IQCa8zzl699jyPk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-040267e7f281667679dcaf5cd188f0af2f8603ba/Cargo.lock;
+      lockFile = ./rustdesk-1a4f0507a2f19d1319442ca81c7220c9fcedcfa7/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1213,16 +1213,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "1b6cf273c2a899defa87106dbb9b87c8e8c28eb9";
+    version = "d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "1b6cf273c2a899defa87106dbb9b87c8e8c28eb9";
+      rev = "d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b";
       fetchSubmodules = false;
-      sha256 = "sha256-ozYvEE9WP7tqofX7IuYujDJrZ7QgoFbFgfJ09qpHziQ=";
+      sha256 = "sha256-iENd2343e8W1AFgMj/x8LU8IqYmtmJw3fkXiEgPKz6I=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-1b6cf273c2a899defa87106dbb9b87c8e8c28eb9/Cargo.lock;
+      lockFile = ./swhkd-d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b/Cargo.lock;
       outputHashes = {
         
       };

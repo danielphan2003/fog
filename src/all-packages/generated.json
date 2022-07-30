@@ -1568,11 +1568,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "6b9a2b4bb076ad40f62c9921a9a0e476aa200110",
-            "sha256": "sha256-BJN8OtQ7LbnyZN9HHjFbwQ5UVDQhyhQV9M+rcr7ZW5k=",
+            "rev": "9906d2dacab4f484a0a8f4be2a48ea2a1cbe96ce",
+            "sha256": "sha256-ct2CEgeSt6FI04fcFe77m6F+0L2IrxCAPt89vt7VXv0=",
             "type": "github"
         },
-        "version": "6b9a2b4bb076ad40f62c9921a9a0e476aa200110"
+        "version": "9906d2dacab4f484a0a8f4be2a48ea2a1cbe96ce"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1652,7 +1652,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-040267e7f281667679dcaf5cd188f0af2f8603ba/Cargo.lock",
+                "./rustdesk-1a4f0507a2f19d1319442ca81c7220c9fcedcfa7/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1679,11 +1679,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "040267e7f281667679dcaf5cd188f0af2f8603ba",
-            "sha256": "sha256-o9qIrJjvIew9c7tRgz5v0hkkjF1PNCKRY1GStzNxZJw=",
+            "rev": "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7",
+            "sha256": "sha256-ciyR/XoJ2JWyl5vNt5zmWYba1Ky8IQCa8zzl699jyPk=",
             "type": "github"
         },
-        "version": "040267e7f281667679dcaf5cd188f0af2f8603ba"
+        "version": "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7"
     },
     "rustdesk-server-oss": {
         "cargoLocks": null,
@@ -2013,7 +2013,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-1b6cf273c2a899defa87106dbb9b87c8e8c28eb9/Cargo.lock",
+                "./swhkd-d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b/Cargo.lock",
                 {}
             ]
         },
@@ -2028,11 +2028,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "1b6cf273c2a899defa87106dbb9b87c8e8c28eb9",
-            "sha256": "sha256-ozYvEE9WP7tqofX7IuYujDJrZ7QgoFbFgfJ09qpHziQ=",
+            "rev": "d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b",
+            "sha256": "sha256-iENd2343e8W1AFgMj/x8LU8IqYmtmJw3fkXiEgPKz6I=",
             "type": "github"
         },
-        "version": "1b6cf273c2a899defa87106dbb9b87c8e8c28eb9"
+        "version": "d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b"
     },
     "tailscale": {
         "cargoLocks": null,
