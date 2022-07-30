@@ -12647,11 +12647,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9xtulbwcuG02skCLFcIHi/psRKOZoFglKdId9YFnQFA=",
+            "sha256": "sha256-iliAZf2u0WpUctm+3dbnzczR//DdoOfagaiHDTKywek=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.105.3/file/dendron.nightly-0.105.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.105.4/file/dendron.nightly-0.105.4.vsix"
         },
-        "version": "0.105.3"
+        "version": "0.105.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
