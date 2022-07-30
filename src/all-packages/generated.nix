@@ -118,17 +118,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "d0b9aee85a60f0d0a1afb4cb6e3da802cddb1344";
+    version = "eb78fb613c7b8e0b7ef1e142cfee45fd3a2e0e60";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "d0b9aee85a60f0d0a1afb4cb6e3da802cddb1344";
+      rev = "eb78fb613c7b8e0b7ef1e142cfee45fd3a2e0e60";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-A+9N+8TdkajDAVsyZQuWqulhXrzoVDHFGoVIlOKRkxw=";
+      sha256 = "sha256-Ed1EACLUNSphTj+4lSVl20VBEBB+8V9tIOYlwweOGyg=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-d0b9aee85a60f0d0a1afb4cb6e3da802cddb1344/Cargo.lock;
+      lockFile = ./asusctl-eb78fb613c7b8e0b7ef1e142cfee45fd3a2e0e60/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
       };
@@ -434,14 +434,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "06d3a3a4c82e4374201a6196e372c3016bbe7e4e";
+    version = "8c9bda338b38b322c809d7f6d7488d44659855b4";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "06d3a3a4c82e4374201a6196e372c3016bbe7e4e";
+      rev = "8c9bda338b38b322c809d7f6d7488d44659855b4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7bIp5f0DsmTP68qp3TCAO67AYm53p9MnoEO98FS4Nrs=";
+      sha256 = "sha256-nBi2NI7WbjtXlRr50o+Exz2Jsq5HXaMegzwmspE0yhY=";
     };
   };
   flyingfox = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "66680a1149be22d36cfd623cf5bbb7f9746e3fa6";
+    version = "7c7690eb08ccdf899bfcf2166096745614f2c9a4";
     src = fetchFromGitHub ({
       owner = "vaxerski";
       repo = "hyprland";
-      rev = "66680a1149be22d36cfd623cf5bbb7f9746e3fa6";
+      rev = "7c7690eb08ccdf899bfcf2166096745614f2c9a4";
       fetchSubmodules = false;
-      sha256 = "sha256-XDSEinneNtgJ7hbcysteuOqpw0y6tqrDOWX2ENp2oEw=";
+      sha256 = "sha256-40vdPT72u2wO53eQQavYObYbmPgJ95WERNRXdKiBN9w=";
     });
   };
   ibus = {
@@ -935,13 +935,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "40c974a19c966508705f354ef8aa95ecab8d3001";
+    version = "19e4b8c0ca76e516b5c90040edad549d3cd75d6e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "40c974a19c966508705f354ef8aa95ecab8d3001";
+      rev = "19e4b8c0ca76e516b5c90040edad549d3cd75d6e";
       fetchSubmodules = false;
-      sha256 = "sha256-WY87CKz4mRudrXxIfp3kb1WluIhF7Eecj/pkE9WOS5M=";
+      sha256 = "sha256-8Rd3gULWKW87dtqMHFLoaL0lXbxsJIv+vXn4b1NzCQ8=";
     });
   };
   revanced-cli = {
