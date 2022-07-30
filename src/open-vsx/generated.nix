@@ -5175,10 +5175,10 @@
   };
   anweber-httpbook = {
     pname = "anweber-httpbook";
-    version = "3.1.1";
+    version = "3.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/httpbook/3.1.1/file/anweber.httpbook-3.1.1.vsix";
-      sha256 = "sha256-GBiPP4ns4RVTB62Mbc7XVQslM+XKhYncsF3xJKN5FfI=";
+      url = "https://open-vsx.org/api/anweber/httpbook/3.1.3/file/anweber.httpbook-3.1.3.vsix";
+      sha256 = "sha256-8Mi/WohPmKTDY0plHh0Xc9tHTbJbfJrXsY8QiAE7HXw=";
     };
     license = "MIT";
     name = "httpbook";
@@ -18687,10 +18687,10 @@
   };
   signageos-signageos-vscode-sops = {
     pname = "signageos-signageos-vscode-sops";
-    version = "0.6.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.0/file/signageos.signageos-vscode-sops-0.6.0.vsix";
-      sha256 = "sha256-N1XkJ8PCwzgH5yAPKYJ+f6HaOr4dkMX8pBRhUh26b2E=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops";
@@ -18699,10 +18699,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.1/file/signageos.signageos-vscode-sops-beta-0.6.1.vsix";
-      sha256 = "sha256-z+OhIqSP0AffNKje7oVNFn6IcMvNyegqaZlk6fejFKg=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";

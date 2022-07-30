@@ -8201,11 +8201,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GBiPP4ns4RVTB62Mbc7XVQslM+XKhYncsF3xJKN5FfI=",
+            "sha256": "sha256-8Mi/WohPmKTDY0plHh0Xc9tHTbJbfJrXsY8QiAE7HXw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/httpbook/3.1.1/file/anweber.httpbook-3.1.1.vsix"
+            "url": "https://open-vsx.org/api/anweber/httpbook/3.1.3/file/anweber.httpbook-3.1.3.vsix"
         },
-        "version": "3.1.1"
+        "version": "3.1.3"
     },
     "anweber-httpbook-grid": {
         "cargoLocks": null,
@@ -29595,11 +29595,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-N1XkJ8PCwzgH5yAPKYJ+f6HaOr4dkMX8pBRhUh26b2E=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.0/file/signageos.signageos-vscode-sops-0.6.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.6.0"
+        "version": "0.6.1"
     },
     "signageos-signageos-vscode-sops-beta": {
         "cargoLocks": null,
@@ -29614,11 +29614,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-z+OhIqSP0AffNKje7oVNFn6IcMvNyegqaZlk6fejFKg=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.6.1/file/signageos.signageos-vscode-sops-beta-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
