@@ -107,13 +107,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "996881aef184246a011ac29382e91d634cda7b65";
+    version = "ecb63e82c9e6ec1d0b027e9b3d583b3ab3a5e368";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "996881aef184246a011ac29382e91d634cda7b65";
+      rev = "ecb63e82c9e6ec1d0b027e9b3d583b3ab3a5e368";
       fetchSubmodules = false;
-      sha256 = "sha256-wfds6xSgYLUgFcHfKyCybgTD93Qi9CqssPUeAV5gnmE=";
+      sha256 = "sha256-IBXXzpFOGUGJo5oZo6sesxPKU7wtyPcSwmi+TSVGmxg=";
     });
   };
   asusctl = {
@@ -434,14 +434,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "8c9bda338b38b322c809d7f6d7488d44659855b4";
+    version = "6011e9b3c41597862cd1a3d9649cca19e2089d47";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "8c9bda338b38b322c809d7f6d7488d44659855b4";
+      rev = "6011e9b3c41597862cd1a3d9649cca19e2089d47";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-nBi2NI7WbjtXlRr50o+Exz2Jsq5HXaMegzwmspE0yhY=";
+      sha256 = "sha256-7gmim2o66U1mrW8MssFDZUrIF6gdm+1T0tgvO2yeP/I=";
     };
   };
   flyingfox = {
@@ -1084,14 +1084,14 @@
   };
   snui = {
     pname = "snui";
-    version = "4e99f82b2b21613ef2a8caff861386dfdcf1dc1f";
+    version = "626ae8d4bec4fe3d51d350b2ec3e0d36d747fd1b";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "4e99f82b2b21613ef2a8caff861386dfdcf1dc1f";
+      rev = "626ae8d4bec4fe3d51d350b2ec3e0d36d747fd1b";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ITnG7KGJn+AfkYm/qdKRXPWmMiC5aJX22JA6iBXLWZA=";
+      sha256 = "sha256-KQy0a/lUIoUA35TS/KNW9Fnil8qAj/BOIfjV5Iktapk=";
     };
   };
   spicetify-cli = {
@@ -1213,16 +1213,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b";
+    version = "2997d94b6dc6b460abc1131f17113e9e543c869e";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b";
+      rev = "2997d94b6dc6b460abc1131f17113e9e543c869e";
       fetchSubmodules = false;
-      sha256 = "sha256-iENd2343e8W1AFgMj/x8LU8IqYmtmJw3fkXiEgPKz6I=";
+      sha256 = "sha256-Mbh0Yx/v9l/kuXP2hUpEjs9orZhBI9ciytoxBUrUVkI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-d32a9a3495c240e7d9d9e7513fb2cf6874fa1d7b/Cargo.lock;
+      lockFile = ./swhkd-2997d94b6dc6b460abc1131f17113e9e543c869e/Cargo.lock;
       outputHashes = {
         
       };
