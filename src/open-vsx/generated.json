@@ -13502,11 +13502,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EXbbCJquu08gn/OIbfrs9aDj7x5sJVOjMMCyWB84xK4=",
+            "sha256": "sha256-IEBdipkF1zmhBglLU37NNhexHcF3a7UD5SSZxT5+SJM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2761217/file/eliostruyf.vscode-front-matter-beta-8.0.2761217.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2765794/file/eliostruyf.vscode-front-matter-beta-8.0.2765794.vsix"
         },
-        "version": "8.0.2761217"
+        "version": "8.0.2765794"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -27776,6 +27776,25 @@
             "url": "https://open-vsx.org/api/redwan-hossain/skillavid-pure-black/5.0.0/file/redwan-hossain.skillavid-pure-black-5.0.0.vsix"
         },
         "version": "5.0.0"
+    },
+    "remcohaszing-schemastore": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "remcohaszing-schemastore",
+        "passthru": {
+            "description": "Use the JSON Schema Store catalog for JSON schema validation.",
+            "license": "MIT",
+            "name": "schemastore",
+            "publisher": "remcohaszing"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-gry6Vo0ncUBk1URQGXE0qzdil3N0cJHvMJZphtVODCc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.2/file/remcohaszing.schemastore-1.0.2.vsix"
+        },
+        "version": "1.0.2"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,

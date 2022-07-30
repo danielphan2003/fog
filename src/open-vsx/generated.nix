@@ -8523,10 +8523,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2761217";
+    version = "8.0.2765794";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2761217/file/eliostruyf.vscode-front-matter-beta-8.0.2761217.vsix";
-      sha256 = "sha256-EXbbCJquu08gn/OIbfrs9aDj7x5sJVOjMMCyWB84xK4=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2765794/file/eliostruyf.vscode-front-matter-beta-8.0.2765794.vsix";
+      sha256 = "sha256-IEBdipkF1zmhBglLU37NNhexHcF3a7UD5SSZxT5+SJM=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -17544,6 +17544,18 @@
     name = "skillavid-pure-black";
     description = "Pure black theme with vibrant hand picked colors that ensures peace of your eyes.";
     publisher = "redwan-hossain";
+  };
+  remcohaszing-schemastore = {
+    pname = "remcohaszing-schemastore";
+    version = "1.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.2/file/remcohaszing.schemastore-1.0.2.vsix";
+      sha256 = "sha256-gry6Vo0ncUBk1URQGXE0qzdil3N0cJHvMJZphtVODCc=";
+    };
+    license = "MIT";
+    name = "schemastore";
+    description = "Use the JSON Schema Store catalog for JSON schema validation.";
+    publisher = "remcohaszing";
   };
   revng-llvm-ir = {
     pname = "revng-llvm-ir";
