@@ -19069,11 +19069,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CAjevLtDqVs1QzCZDt651X/ONjW7Nz+7/gSNHxhKzhI=",
+            "sha256": "sha256-492xPIc3MBvtI9jO7xr6p6WLyOAdhD3l2MT7Seyxm2g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kahole/magit/0.6.29/file/kahole.magit-0.6.29.vsix"
+            "url": "https://open-vsx.org/api/kahole/magit/0.6.30/file/kahole.magit-0.6.30.vsix"
         },
-        "version": "0.6.29"
+        "version": "0.6.30"
     },
     "kahve-viz": {
         "cargoLocks": null,
@@ -31210,11 +31210,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HlHPG49glkB7Vkv+P7A5+1s047Q+VbRM7updy3bccbU=",
+            "sha256": "sha256-Mr3MGfXdmQl9zyeFzq7BYmhQQ2O2AVY6WQKN62I6Lic=",
             "type": "url",
-            "url": "https://open-vsx.org/api/svsool/markdown-memo/0.3.18/file/svsool.markdown-memo-0.3.18.vsix"
+            "url": "https://open-vsx.org/api/svsool/markdown-memo/0.3.19/file/svsool.markdown-memo-0.3.19.vsix"
         },
-        "version": "0.3.18"
+        "version": "0.3.19"
     },
     "syler-sass-indented": {
         "cargoLocks": null,

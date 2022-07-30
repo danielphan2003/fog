@@ -12039,10 +12039,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.29";
+    version = "0.6.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.29/file/kahole.magit-0.6.29.vsix";
-      sha256 = "sha256-CAjevLtDqVs1QzCZDt651X/ONjW7Nz+7/gSNHxhKzhI=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.30/file/kahole.magit-0.6.30.vsix";
+      sha256 = "sha256-492xPIc3MBvtI9jO7xr6p6WLyOAdhD3l2MT7Seyxm2g=";
     };
     license = "MIT";
     name = "magit";
@@ -19707,10 +19707,10 @@
   };
   svsool-markdown-memo = {
     pname = "svsool-markdown-memo";
-    version = "0.3.18";
+    version = "0.3.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.18/file/svsool.markdown-memo-0.3.18.vsix";
-      sha256 = "sha256-HlHPG49glkB7Vkv+P7A5+1s047Q+VbRM7updy3bccbU=";
+      url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.19/file/svsool.markdown-memo-0.3.19.vsix";
+      sha256 = "sha256-Mr3MGfXdmQl9zyeFzq7BYmhQQ2O2AVY6WQKN62I6Lic=";
     };
     license = "MIT";
     name = "markdown-memo";
