@@ -2451,10 +2451,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.32";
+    version = "0.17.33";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.32/file/Marko-JS.marko-vscode-0.17.32.vsix";
-      sha256 = "sha256-WcArn8RzE6k/FdjZ9kUQkk+Vs1mTMhJro4ZEHRLc5/M=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.33/file/Marko-JS.marko-vscode-0.17.33.vsix";
+      sha256 = "sha256-7/ciqn4lfT5DeyVq8JY8ipf79rdE4T8dtV/iUNg0OiE=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -5391,10 +5391,10 @@
   };
   arm-device-manager = {
     pname = "arm-device-manager";
-    version = "1.0.3";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/device-manager/1.0.3/file/arm.device-manager-1.0.3.vsix";
-      sha256 = "sha256-8i2y+Kk+w1QSjvEQF7Ga6qT1lzv8nRcIEzDS7UeKhBA=";
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.4/file/arm.device-manager-1.0.4.vsix";
+      sha256 = "sha256-CZUJ53IODKnw2QbP24ceH3rPQbaBv+Qza9ys9LuxODQ=";
     };
     license = "";
     name = "device-manager";
