@@ -23990,11 +23990,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-abK41p6w7tC0uA5GzrG3uiydzLdhhSeMeE3PQ3ajf60=",
+            "sha256": "sha256-V0XHWuym0LL/VRW4FXyEE26R18mPDwMlhVP4E55aYRc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.5/file/mutable-ai.mutable-ai-0.90.5.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.0.1/file/mutable-ai.mutable-ai-1.0.1.vsix"
         },
-        "version": "0.90.5"
+        "version": "1.0.1"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -26859,11 +26859,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YFAzaEk03uymWlFcfeHPapy2hJ7EOoOQScRsm9KdGGM=",
+            "sha256": "sha256-B7tmsCBGm+Js7slBO5jG07w+HMWrRlyWcPtmZ2eVbbY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/qux-bbb/text-utils/0.1.4/file/qux-bbb.text-utils-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/qux-bbb/text-utils/0.1.5/file/qux-bbb.text-utils-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "radiolevity-Neofloss": {
         "cargoLocks": null,
@@ -30374,11 +30374,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-izAuNycCK9MBsvcR+qiTT9wYtukxMtLvOZZEbgWTNFk=",
+            "sha256": "sha256-18MomdKKMRJsUplQFnOBTL1sokZ3PulDDEQfBHwfDOY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steffo/steffula-code/0.8.0/file/steffo.steffula-code-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/steffo/steffula-code/0.9.0/file/steffo.steffula-code-0.9.0.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.9.0"
     },
     "steoates-autoimport": {
         "cargoLocks": null,
@@ -35775,6 +35775,25 @@
             "url": "https://open-vsx.org/api/vsrs/cross-rust-analyzer/0.0.2/file/vsrs.cross-rust-analyzer-0.0.2.vsix"
         },
         "version": "0.0.2"
+    },
+    "vunguyentuan-vscode-css-variables": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vunguyentuan-vscode-css-variables",
+        "passthru": {
+            "description": "Autocomplete CSS Variable support CSS, SCSS, LESS, PostCSS, VueJS, ReactJS and more",
+            "license": "MIT",
+            "name": "vscode-css-variables",
+            "publisher": "vunguyentuan"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2ygcQoaPbWFaahi/AT9GF3vfs16bseonKL7NaCYf6Kw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.10/file/vunguyentuan.vscode-css-variables-2.3.10.vsix"
+        },
+        "version": "2.3.10"
     },
     "vymarkov-add-gitlab-npm-token": {
         "cargoLocks": null,

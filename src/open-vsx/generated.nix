@@ -15147,10 +15147,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "0.90.5";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/0.90.5/file/mutable-ai.mutable-ai-0.90.5.vsix";
-      sha256 = "sha256-abK41p6w7tC0uA5GzrG3uiydzLdhhSeMeE3PQ3ajf60=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.0.1/file/mutable-ai.mutable-ai-1.0.1.vsix";
+      sha256 = "sha256-V0XHWuym0LL/VRW4FXyEE26R18mPDwMlhVP4E55aYRc=";
     };
     license = "";
     name = "mutable-ai";
@@ -16959,10 +16959,10 @@
   };
   qux-bbb-text-utils = {
     pname = "qux-bbb-text-utils";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.4/file/qux-bbb.text-utils-0.1.4.vsix";
-      sha256 = "sha256-YFAzaEk03uymWlFcfeHPapy2hJ7EOoOQScRsm9KdGGM=";
+      url = "https://open-vsx.org/api/qux-bbb/text-utils/0.1.5/file/qux-bbb.text-utils-0.1.5.vsix";
+      sha256 = "sha256-B7tmsCBGm+Js7slBO5jG07w+HMWrRlyWcPtmZ2eVbbY=";
     };
     license = "GPL-3.0";
     name = "text-utils";
@@ -19179,10 +19179,10 @@
   };
   steffo-steffula-code = {
     pname = "steffo-steffula-code";
-    version = "0.8.0";
+    version = "0.9.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steffo/steffula-code/0.8.0/file/steffo.steffula-code-0.8.0.vsix";
-      sha256 = "sha256-izAuNycCK9MBsvcR+qiTT9wYtukxMtLvOZZEbgWTNFk=";
+      url = "https://open-vsx.org/api/steffo/steffula-code/0.9.0/file/steffo.steffula-code-0.9.0.vsix";
+      sha256 = "sha256-18MomdKKMRJsUplQFnOBTL1sokZ3PulDDEQfBHwfDOY=";
     };
     license = "AGPL-3.0-or-later";
     name = "steffula-code";
@@ -22596,6 +22596,18 @@
     name = "cross-rust-analyzer";
     description = "cross support for the rust-analyzer";
     publisher = "vsrs";
+  };
+  vunguyentuan-vscode-css-variables = {
+    pname = "vunguyentuan-vscode-css-variables";
+    version = "2.3.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.10/file/vunguyentuan.vscode-css-variables-2.3.10.vsix";
+      sha256 = "sha256-2ygcQoaPbWFaahi/AT9GF3vfs16bseonKL7NaCYf6Kw=";
+    };
+    license = "MIT";
+    name = "vscode-css-variables";
+    description = "Autocomplete CSS Variable support CSS, SCSS, LESS, PostCSS, VueJS, ReactJS and more";
+    publisher = "vunguyentuan";
   };
   vymarkov-add-gitlab-npm-token = {
     pname = "vymarkov-add-gitlab-npm-token";
