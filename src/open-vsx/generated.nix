@@ -435,10 +435,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.7.2";
+    version = "3.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.7.2/file/CL.eide-3.7.2.vsix";
-      sha256 = "sha256-XMS3H4fCzS89MPoOWuoBrr2wd0loQvZ1jEGh8xFwmJU=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.0/file/CL.eide-3.8.0.vsix";
+      sha256 = "sha256-fkcMVk6QWgzI3kiCDj4afl6Z9iQ3T5tz4vjrhwzUQKw=";
     };
     license = "MIT";
     name = "eide";
@@ -20727,10 +20727,10 @@
   };
   unifiedjs-vscode-remark = {
     pname = "unifiedjs-vscode-remark";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unifiedjs/vscode-remark/2.0.0/file/unifiedjs.vscode-remark-2.0.0.vsix";
-      sha256 = "sha256-EOII1D1NHZKoV4ybrZgAE1eYCthpRFh2hTfNP72NiJ4=";
+      url = "https://open-vsx.org/api/unifiedjs/vscode-remark/2.1.0/file/unifiedjs.vscode-remark-2.1.0.vsix";
+      sha256 = "sha256-cWs2ROtprz+0ncInqldxTVv5aW2PnHwQdh4+cVigUUg=";
     };
     license = "MIT";
     name = "vscode-remark";
