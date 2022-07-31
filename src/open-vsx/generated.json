@@ -5712,11 +5712,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZDayuXHEbNnpWw076Bf9QGo0JNnkvGEcqLJeekeM1jg=",
+            "sha256": "sha256-FyWRXuSCYqXLCrNQaiKyEyxxlCEtZOurwUAbzuOVit4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.7/file/TabNine.tabnine-vscode-3.6.7.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.8/file/TabNine.tabnine-vscode-3.6.8.vsix"
         },
-        "version": "3.6.7"
+        "version": "3.6.8"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
