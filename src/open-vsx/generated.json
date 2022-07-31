@@ -11963,11 +11963,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-v4VXP7vVOyH6XhRTv8Gz/YWsrBZtnDXU7avnvC61bck=",
+            "sha256": "sha256-iQqzKiGZtP7uTAqZ04eRZn/yEWUq5ZQRKjPplMQbPRE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.4/file/cyrusfirheir.twee3-language-tools-0.18.4.vsix"
+            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.5/file/cyrusfirheir.twee3-language-tools-0.18.5.vsix"
         },
-        "version": "0.18.4"
+        "version": "0.18.5"
     },
     "d-biehl-robotcode": {
         "cargoLocks": null,
@@ -17617,7 +17617,7 @@
         "extract": null,
         "name": "ionutvmi-path-autocomplete",
         "passthru": {
-            "description": "Provides path completion for visual studio code.",
+            "description": "Provides path completion for visual studio code and VS Code for Web.",
             "license": "MIT",
             "name": "path-autocomplete",
             "publisher": "ionutvmi"
@@ -17625,11 +17625,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sHuuqfD33j/FZlfWrS/9ENtbCFzCj1jtFe4W8XLMqPs=",
+            "sha256": "sha256-syBsOOGX9ABSDezw6RHOmB8EiJ1Xs0VYMQgc6y45Ugk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.1/file/ionutvmi.path-autocomplete-1.19.1.vsix"
+            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.0/file/ionutvmi.path-autocomplete-1.20.0.vsix"
         },
-        "version": "1.19.1"
+        "version": "1.20.0"
     },
     "ionutvmi-reg": {
         "cargoLocks": null,

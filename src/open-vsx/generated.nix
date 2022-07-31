@@ -7551,10 +7551,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.18.4";
+    version = "0.18.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.4/file/cyrusfirheir.twee3-language-tools-0.18.4.vsix";
-      sha256 = "sha256-v4VXP7vVOyH6XhRTv8Gz/YWsrBZtnDXU7avnvC61bck=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.5/file/cyrusfirheir.twee3-language-tools-0.18.5.vsix";
+      sha256 = "sha256-iQqzKiGZtP7uTAqZ04eRZn/yEWUq5ZQRKjPplMQbPRE=";
     };
     license = "MIT";
     name = "twee3-language-tools";
@@ -11127,14 +11127,14 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.19.1";
+    version = "1.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.19.1/file/ionutvmi.path-autocomplete-1.19.1.vsix";
-      sha256 = "sha256-sHuuqfD33j/FZlfWrS/9ENtbCFzCj1jtFe4W8XLMqPs=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.0/file/ionutvmi.path-autocomplete-1.20.0.vsix";
+      sha256 = "sha256-syBsOOGX9ABSDezw6RHOmB8EiJ1Xs0VYMQgc6y45Ugk=";
     };
     license = "MIT";
     name = "path-autocomplete";
-    description = "Provides path completion for visual studio code.";
+    description = "Provides path completion for visual studio code and VS Code for Web.";
     publisher = "ionutvmi";
   };
   ionutvmi-reg = {
