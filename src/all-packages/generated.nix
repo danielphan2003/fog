@@ -61,17 +61,6 @@
       };
     };
   };
-  anbox = {
-    pname = "anbox";
-    version = "84f0268012cbe322ad858d76613f4182074510ac";
-    src = fetchFromGitHub ({
-      owner = "anbox";
-      repo = "anbox";
-      rev = "84f0268012cbe322ad858d76613f4182074510ac";
-      fetchSubmodules = true;
-      sha256 = "sha256-QXWhatewiUDQ93cH1UZsYgbjUxpgB1ajtGFYZnKmabc=";
-    });
-  };
   anime-downloader = {
     pname = "anime-downloader";
     version = "941eef9d5435b38775911d5c773a7dfda8adfea8";
@@ -92,17 +81,6 @@
       rev = "67d8b02e605684c46a12445e689cda0c88fe278e";
       fetchSubmodules = false;
       sha256 = "sha256-y9oOn1pDVPcY1ttWlTBZVptavgTwGQbADWpwe4yZG04=";
-    });
-  };
-  argonone-fancontrold = {
-    pname = "argonone-fancontrold";
-    version = "b6b960eb492224012680f56e3c6fba13502e542c";
-    src = fetchFromGitHub ({
-      owner = "mgdm";
-      repo = "argonone-utils";
-      rev = "b6b960eb492224012680f56e3c6fba13502e542c";
-      fetchSubmodules = false;
-      sha256 = "sha256-v098KH8TgzGgCc7+59SVWy19xW456eXX/BDdt9zzVhk=";
     });
   };
   arkenfox-userjs = {
@@ -199,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "777d8fdda2a3be6d111e67ccb1134c45621bfc94";
+    version = "9abd770fd70216abb49d8bfaec7c1fb9597e5a60";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "777d8fdda2a3be6d111e67ccb1134c45621bfc94";
+      rev = "9abd770fd70216abb49d8bfaec7c1fb9597e5a60";
       fetchSubmodules = false;
-      sha256 = "sha256-4wXlGmwNBxHRgkfhd03vhTSBG8eilY2sJ/2Rafm89hI=";
+      sha256 = "sha256-m2stYHhI2qbxB9Ac/DhoRHWEWD4fPq6MB3GtTLhfLJI=";
     });
   };
   caddy = {
@@ -232,17 +210,28 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "07ed3e7c3078723b55687bf4b262d24ef1645c7d";
+    version = "6668271661857b2cc43143ff65edf1071013e67e";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "07ed3e7c3078723b55687bf4b262d24ef1645c7d";
+      rev = "6668271661857b2cc43143ff65edf1071013e67e";
       fetchSubmodules = false;
-      sha256 = "sha256-m5ur+agXkot6wM3vFHGMy7YvyJAbwUtEUGJhmfQdY9M=";
+      sha256 = "sha256-wZTf6+ecN/zDBdSkD3bIFMXYgePzad868pVwFfdlBEk=";
     });
   };
   cinny = {
     pname = "cinny";
+    version = "48793f3a9501c83ce1d9f87fc46090ac82a9f264";
+    src = fetchFromGitHub ({
+      owner = "cinnyapp";
+      repo = "cinny";
+      rev = "48793f3a9501c83ce1d9f87fc46090ac82a9f264";
+      fetchSubmodules = false;
+      sha256 = "sha256-/F3JSPxAXRLtI73M3eAsaVGNUZxvQqIOhv15jTXG5Ac=";
+    });
+  };
+  cinny-bin = {
+    pname = "cinny-bin";
     version = "2.0.4";
     src = fetchurl {
       url = "https://github.com/cinnyapp/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz";
@@ -434,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "6011e9b3c41597862cd1a3d9649cca19e2089d47";
+    version = "d4040f6c8f593958c3334a6db8875a70e2d0110a";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "6011e9b3c41597862cd1a3d9649cca19e2089d47";
+      rev = "d4040f6c8f593958c3334a6db8875a70e2d0110a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-7gmim2o66U1mrW8MssFDZUrIF6gdm+1T0tgvO2yeP/I=";
+      sha256 = "sha256-9UThepSEYt5Oxq31usaf/BOhM7HCZU8B47PMVpwpHsU=";
     };
   };
   flyingfox = {
@@ -496,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "036be18bf5f69735cba40f8727a8ea9dd333be86";
+    version = "20cba2d70775207da09e218852a6fd1266fedd21";
     src = fetchFromGitHub ({
-      owner = "vaxerski";
+      owner = "hyprwm";
       repo = "hyprland";
-      rev = "036be18bf5f69735cba40f8727a8ea9dd333be86";
+      rev = "20cba2d70775207da09e218852a6fd1266fedd21";
       fetchSubmodules = false;
-      sha256 = "sha256-OW8JHp2o/W5auZZWQ08C5Kbg0/ebLJXaOkaw6+WOPNs=";
+      sha256 = "sha256-BZpp5cEkK3iBqv2PiQNn0fHiDaXg9RNkH2kCYNqPJvY=";
     });
   };
   ibus = {
@@ -525,6 +514,17 @@
       rev = "3380c09d5812cec18ff7ed80e7e6d69d6afd3ab2";
       fetchSubmodules = false;
       sha256 = "sha256-IkmNNYyV3eRAqTdh19d1hgNWtENmlMD5qYAGs34T3ZU=";
+    });
+  };
+  inih = {
+    pname = "inih";
+    version = "r56";
+    src = fetchFromGitHub ({
+      owner = "benhoyt";
+      repo = "inih";
+      rev = "r56";
+      fetchSubmodules = false;
+      sha256 = "sha256-7k3i3pElihastUDrdf9DyRZMe2UNFckfLUFGb4rbWLo=";
     });
   };
   jibri = {
@@ -580,22 +580,11 @@
   };
   leonflix = {
     pname = "leonflix";
-    version = "1.5.50";
+    version = "0.7.0";
     src = fetchurl {
       url = "https://leonflix.net/downloads/Leonflix.AppImage";
       sha256 = "sha256-Fok8OPP9dWjFyIVWUud+UDLiG/lUBNisuCcI0ipjHi4=";
     };
-  };
-  libinih = {
-    pname = "libinih";
-    version = "r53";
-    src = fetchFromGitHub ({
-      owner = "benhoyt";
-      repo = "inih";
-      rev = "r53";
-      fetchSubmodules = false;
-      sha256 = "sha256-hi29V40q3c3IvPH7eH3q3z1PiNN59Y0zMhgSroUsDjc=";
-    });
   };
   light = {
     pname = "light";
@@ -606,17 +595,6 @@
       rev = "c5fb45423ec1ee1080e442e061ccfcdb98b32e4a";
       fetchSubmodules = false;
       sha256 = "sha256-8v9ytywv2+/qqN94g44vHMGsbKueYSDXq76wo95pSFE=";
-    });
-  };
-  lightcord = {
-    pname = "lightcord";
-    version = "39fc7f28937029dc7270c0ec2bac11c0b467113c";
-    src = fetchFromGitHub ({
-      owner = "Lightcord";
-      repo = "Lightcord";
-      rev = "39fc7f28937029dc7270c0ec2bac11c0b467113c";
-      fetchSubmodules = false;
-      sha256 = "sha256-BXf8HDzEcTnExwAW6ddjyDc+G0iDitvXV7kVp0Btbg0=";
     });
   };
   lua-pam = {
@@ -643,13 +621,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "v1.0.0";
+    version = "3026264a408d9d6e10bad6b5b91ccc013810df0a";
     src = fetchFromGitHub ({
-      owner = "Half-Shot";
+      owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "v1.0.0";
+      rev = "3026264a408d9d6e10bad6b5b91ccc013810df0a";
       fetchSubmodules = false;
-      sha256 = "sha256-hZQ+3FDRWNGsnaHblnB2p6Inf9ZMrbB2jmgR2rskil0=";
+      sha256 = "sha256-XJoCoa1TimPT2S5/s1QbRuSBeGKVqfzXVjRf3eyWKbk=";
     });
   };
   microsoft-edge-beta = {
@@ -707,7 +685,7 @@
     pname = "nix-zsh-completions";
     version = "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f";
     src = fetchFromGitHub ({
-      owner = "Ma27";
+      owner = "spwhitt";
       repo = "nix-zsh-completions";
       rev = "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f";
       fetchSubmodules = false;
@@ -838,17 +816,6 @@
       sha256 = "sha256-2ZOLTzv8/33LoEAdosrOa8rfGolyuP2RUAmtPnaI2T4=";
     };
   };
-  polymc-cracked = {
-    pname = "polymc-cracked";
-    version = "6000f5de6742bf825ed56477b16be559f5cfe227";
-    src = fetchFromGitHub ({
-      owner = "thecountrox";
-      repo = "PolyMC-Cracked";
-      rev = "6000f5de6742bf825ed56477b16be559f5cfe227";
-      fetchSubmodules = false;
-      sha256 = "sha256-7N/H+mpYl/v522b+D3HI8zw9oLqj2yFJ0WGVDzLQC4w=";
-    });
-  };
   pure = {
     pname = "pure";
     version = "3b2606db2e7eb6f05c67b229b5e3c68a1c3947a6";
@@ -935,45 +902,45 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f7119403394e33deac5d8847fb1fb075aadbd3fa";
+    version = "fca6015011fbf7ce523836273a228d18e6e1fd75";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f7119403394e33deac5d8847fb1fb075aadbd3fa";
+      rev = "fca6015011fbf7ce523836273a228d18e6e1fd75";
       fetchSubmodules = false;
-      sha256 = "sha256-5BOUD2+WTJOTHvlN8ihXU45wr2OPoxMWVi914GUQLjM=";
+      sha256 = "sha256-TsjSenbrz1BUzESCkx66A049eo3pQ3dQUW7AegpqIC8=";
     });
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.7.1";
+    version = "2.8.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.7.1/revanced-cli-2.7.1-all.jar";
-      sha256 = "sha256-XRJBTFNufR08ZuQDAQBPDUxyZOuRql7I6/cQqUQK+YM=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.8.0/revanced-cli-2.8.0-all.jar";
+      sha256 = "sha256-EEz4Bt4SHw77KHpJKdfeUhRWP9RtF5e/ZInKexaMiTU=";
     };
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.29.0";
+    version = "0.30.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.29.0/app-release-unsigned.apk";
-      sha256 = "sha256-TIdv7uhziC5YGPygrxEKaZVLeH1iMm1zzT/q+cJw1xg=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.30.0/app-release-unsigned.apk";
+      sha256 = "sha256-nWScjH7hvFOz+9laypvxQh3Q3+z8ai47cx94EogwhSk=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.25.3";
+    version = "2.28.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.dex";
-      sha256 = "sha256-l3CM+vdD45cKGMeciiJamCs6K0VIUHwRva7gNVQA3IM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.0/revanced-patches-2.28.0.dex";
+      sha256 = "sha256-TSDnEKzFC76HiPhddStpiuqzOc9X2U8WBpUivZdqBXU=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.25.3";
+    version = "2.28.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.jar";
-      sha256 = "sha256-ANn4oRaKXja7vUTZRG+UzMvIt3kg0pzOEyKhwm/qT9Y=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.0/revanced-patches-2.28.0.jar";
+      sha256 = "sha256-qNsNr8ZzI2EyoYe4/lrP6jXucmNJfN7E2Tpht/xZwkA=";
     };
   };
   rofi-wayland = {
@@ -989,16 +956,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7";
+    version = "1ad1480cfcbe252e054e1234cead860dc06720d5";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7";
+      rev = "1ad1480cfcbe252e054e1234cead860dc06720d5";
       fetchSubmodules = false;
-      sha256 = "sha256-ciyR/XoJ2JWyl5vNt5zmWYba1Ky8IQCa8zzl699jyPk=";
+      sha256 = "sha256-RduOzcPE/PS7B3yii93f5UVxYhCXPg6+JFJc+9+oV0c=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-1a4f0507a2f19d1319442ca81c7220c9fcedcfa7/Cargo.lock;
+      lockFile = ./rustdesk-1ad1480cfcbe252e054e1234cead860dc06720d5/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1014,16 +981,24 @@
       };
     };
   };
-  rustdesk-server-oss = {
-    pname = "rustdesk-server-oss";
-    version = "2e539cf5bfc60b1463519de2566422464877992d";
+  rustdesk-server = {
+    pname = "rustdesk-server";
+    version = "848b5aedb7e8bda0f582706c792ffbab2d657a39";
     src = fetchFromGitHub ({
       owner = "rustdesk";
-      repo = "rustdesk-server-demo";
-      rev = "2e539cf5bfc60b1463519de2566422464877992d";
+      repo = "rustdesk-server";
+      rev = "848b5aedb7e8bda0f582706c792ffbab2d657a39";
       fetchSubmodules = false;
-      sha256 = "sha256-MMPmTEMYghf2A+rQF5pJaLTb2NyXpV3HKx20g7o/deg=";
+      sha256 = "sha256-5LsnT6NI5JmcRnIirn3YNOQU+Y8Bjpg+/FC+bx16LcI=";
     });
+    cargoLock."Cargo.lock" = {
+      lockFile = ./rustdesk-server-848b5aedb7e8bda0f582706c792ffbab2d657a39/Cargo.lock;
+      outputHashes = {
+        "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
+        "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
+        "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
+      };
+    };
   };
   sddm = {
     pname = "sddm";
@@ -1084,25 +1059,25 @@
   };
   snui = {
     pname = "snui";
-    version = "626ae8d4bec4fe3d51d350b2ec3e0d36d747fd1b";
+    version = "281944ed182bc71eb038b77e8aaeafac15233895";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "626ae8d4bec4fe3d51d350b2ec3e0d36d747fd1b";
+      rev = "281944ed182bc71eb038b77e8aaeafac15233895";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-KQy0a/lUIoUA35TS/KNW9Fnil8qAj/BOIfjV5Iktapk=";
+      sha256 = "sha256-MXAhrqH1CWJsE5jRtdmpx2czy+TTv8ymEGjts8cjBaw=";
     };
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "396d701adc915a853e0a94e3fa4a34293d9d3933";
+    version = "531542daefa615c63515ba2d57c86f2391c49701";
     src = fetchFromGitHub ({
-      owner = "khanhas";
+      owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "396d701adc915a853e0a94e3fa4a34293d9d3933";
+      rev = "531542daefa615c63515ba2d57c86f2391c49701";
       fetchSubmodules = false;
-      sha256 = "sha256-O9+GyN6a06pz7I2wY8NoEZ2Mu3ffDe9WSjlJ/XSDCtQ=";
+      sha256 = "sha256-2TW2tBuB3C/bJP3ylfvAo1YuFvWKgBdf3DfA+/Sgres=";
     });
   };
   spicetify-marketplace = {
@@ -1120,7 +1095,7 @@
     pname = "spicetify-themes";
     version = "02572216ba80979a15f9d65d80fb9888208f2666";
     src = fetchFromGitHub ({
-      owner = "morpheusthewhite";
+      owner = "spicetify";
       repo = "spicetify-themes";
       rev = "02572216ba80979a15f9d65d80fb9888208f2666";
       fetchSubmodules = false;
@@ -1268,24 +1243,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "665769d4fb1457757d455c5cb4e58dfed46bb36e";
+    version = "e828cffb929cf8917f5d4de3d77b6d3632f1b572";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "665769d4fb1457757d455c5cb4e58dfed46bb36e";
+      rev = "e828cffb929cf8917f5d4de3d77b6d3632f1b572";
       fetchSubmodules = false;
-      sha256 = "sha256-MrM/od7Kao/l+ziGajPg7aVhYHr2AuJQcw4dnQF8Qrg=";
-    });
-  };
-  ultimmc = {
-    pname = "ultimmc";
-    version = "66bb7105db93e0977bb64a59a12b001f780e0566";
-    src = fetchFromGitHub ({
-      owner = "AfoninZ";
-      repo = "MultiMC5-Cracked";
-      rev = "66bb7105db93e0977bb64a59a12b001f780e0566";
-      fetchSubmodules = true;
-      sha256 = "sha256-t/R3BBRy2orzUuh537xMPwORHmhQy4aGe96e77CVzZs=";
+      sha256 = "sha256-W0Z5sUOxbjYNtHB+yhvoMQwgDV2q2d/EXZtYHhtGp1M=";
     });
   };
   uniemoji = {
@@ -1326,10 +1290,10 @@
   };
   ventoy = {
     pname = "ventoy";
-    version = "1.0.46";
+    version = "1.0.79";
     src = fetchurl {
-      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.46/ventoy-1.0.46-linux.tar.gz";
-      sha256 = "sha256-FxQy6ZBBjvmce7bCDLKpOs4ZTq37bO3U0Iu7U2RRxL4=";
+      url = "https://github.com/ventoy/Ventoy/releases/download/v1.0.79/ventoy-1.0.79-linux.tar.gz";
+      sha256 = "sha256-azkoDquN/i01QHsd1wJG79kdhHhBvXzPXIRnjKHAHNE=";
     };
   };
   vimPlugins-yuck = {
@@ -1405,63 +1369,6 @@
       fetchSubmodules = false;
       sha256 = "sha256-wm0vDU7QckFvpgI50PG4/elgPEkfr8xTmroz8kE6QMo=";
     });
-  };
-  xdg-desktop-portal = {
-    pname = "xdg-desktop-portal";
-    version = "9f4c4c2a15efc28ed30a40d5caf80c5d016a566f";
-    src = fetchFromGitHub ({
-      owner = "flatpak";
-      repo = "xdg-desktop-portal";
-      rev = "9f4c4c2a15efc28ed30a40d5caf80c5d016a566f";
-      fetchSubmodules = false;
-      sha256 = "sha256-3SMi0LbxCDeEVaUVE0EDdk4xl0TFH02Z1QeqA5Qgtis=";
-    });
-  };
-  xdg-desktop-portal-gtk = {
-    pname = "xdg-desktop-portal-gtk";
-    version = "93e50a2cf6a4b8b1a6ba30fbb2215bc497347a70";
-    src = fetchFromGitHub ({
-      owner = "flatpak";
-      repo = "xdg-desktop-portal-gtk";
-      rev = "93e50a2cf6a4b8b1a6ba30fbb2215bc497347a70";
-      fetchSubmodules = false;
-      sha256 = "sha256-F7PYlOPP8KoZuYU3KvHvGAbr5vvXv8ww8hNypwp/zRU=";
-    });
-  };
-  xorg-libxcvt = {
-    pname = "xorg-libxcvt";
-    version = "d9ca87eea9eecddaccc3a77227bcb3acf84e89df";
-    src = fetchgit {
-      url = "https://gitlab.freedesktop.org/xorg/lib/libxcvt";
-      rev = "d9ca87eea9eecddaccc3a77227bcb3acf84e89df";
-      fetchSubmodules = false;
-      deepClone = false;
-      leaveDotGit = false;
-      sha256 = "sha256-r72BE+WCZngaMutOxidnJyQ1IpXPFH5NXBs/7l5agD4=";
-    };
-  };
-  xorgproto = {
-    pname = "xorgproto";
-    version = "a3f847b75025a57b64967d08a299bc752c488aee";
-    src = fetchFromGitHub ({
-      owner = "freedesktop";
-      repo = "xorg-xorgproto";
-      rev = "a3f847b75025a57b64967d08a299bc752c488aee";
-      fetchSubmodules = false;
-      sha256 = "sha256-wQVBfrcgKSCeEb5hecIbK27qdUBVGZ+dpJNEi6x2DD0=";
-    });
-  };
-  xwayland = {
-    pname = "xwayland";
-    version = "2efa6d659508346358a1ef27b2393e18843f66a3";
-    src = fetchgit {
-      url = "git://anongit.freedesktop.org/xorg/xserver";
-      rev = "2efa6d659508346358a1ef27b2393e18843f66a3";
-      fetchSubmodules = false;
-      deepClone = false;
-      leaveDotGit = false;
-      sha256 = "sha256-Il8Y2sQQMMzVeIv7utMwxjSkypKGvKYzIh2CW2tTP3U=";
-    };
   };
   ydotool = {
     pname = "ydotool";

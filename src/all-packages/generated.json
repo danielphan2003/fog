@@ -98,25 +98,6 @@
         },
         "version": "08ba0aa1ec3ced531dcb16a9db1795d6ee9b52cb"
     },
-    "anbox": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "anbox",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": true,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "anbox",
-            "repo": "anbox",
-            "rev": "84f0268012cbe322ad858d76613f4182074510ac",
-            "sha256": "sha256-QXWhatewiUDQ93cH1UZsYgbjUxpgB1ajtGFYZnKmabc=",
-            "type": "github"
-        },
-        "version": "84f0268012cbe322ad858d76613f4182074510ac"
-    },
     "anime-downloader": {
         "cargoLocks": null,
         "extract": null,
@@ -154,25 +135,6 @@
             "type": "github"
         },
         "version": "67d8b02e605684c46a12445e689cda0c88fe278e"
-    },
-    "argonone-fancontrold": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "argonone-fancontrold",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "mgdm",
-            "repo": "argonone-utils",
-            "rev": "b6b960eb492224012680f56e3c6fba13502e542c",
-            "sha256": "sha256-v098KH8TgzGgCc7+59SVWy19xW456eXX/BDdt9zzVhk=",
-            "type": "github"
-        },
-        "version": "b6b960eb492224012680f56e3c6fba13502e542c"
     },
     "arkenfox-userjs": {
         "cargoLocks": null,
@@ -340,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "777d8fdda2a3be6d111e67ccb1134c45621bfc94",
-            "sha256": "sha256-4wXlGmwNBxHRgkfhd03vhTSBG8eilY2sJ/2Rafm89hI=",
+            "rev": "9abd770fd70216abb49d8bfaec7c1fb9597e5a60",
+            "sha256": "sha256-m2stYHhI2qbxB9Ac/DhoRHWEWD4fPq6MB3GtTLhfLJI=",
             "type": "github"
         },
-        "version": "777d8fdda2a3be6d111e67ccb1134c45621bfc94"
+        "version": "9abd770fd70216abb49d8bfaec7c1fb9597e5a60"
     },
     "caddy": {
         "cargoLocks": null,
@@ -397,16 +359,35 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "07ed3e7c3078723b55687bf4b262d24ef1645c7d",
-            "sha256": "sha256-m5ur+agXkot6wM3vFHGMy7YvyJAbwUtEUGJhmfQdY9M=",
+            "rev": "6668271661857b2cc43143ff65edf1071013e67e",
+            "sha256": "sha256-wZTf6+ecN/zDBdSkD3bIFMXYgePzad868pVwFfdlBEk=",
             "type": "github"
         },
-        "version": "07ed3e7c3078723b55687bf4b262d24ef1645c7d"
+        "version": "6668271661857b2cc43143ff65edf1071013e67e"
     },
     "cinny": {
         "cargoLocks": null,
         "extract": null,
         "name": "cinny",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "cinnyapp",
+            "repo": "cinny",
+            "rev": "48793f3a9501c83ce1d9f87fc46090ac82a9f264",
+            "sha256": "sha256-/F3JSPxAXRLtI73M3eAsaVGNUZxvQqIOhv15jTXG5Ac=",
+            "type": "github"
+        },
+        "version": "48793f3a9501c83ce1d9f87fc46090ac82a9f264"
+    },
+    "cinny-bin": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cinny-bin",
         "passthru": null,
         "pinned": false,
         "src": {
@@ -723,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "6011e9b3c41597862cd1a3d9649cca19e2089d47",
-            "sha256": "sha256-7gmim2o66U1mrW8MssFDZUrIF6gdm+1T0tgvO2yeP/I=",
+            "rev": "d4040f6c8f593958c3334a6db8875a70e2d0110a",
+            "sha256": "sha256-9UThepSEYt5Oxq31usaf/BOhM7HCZU8B47PMVpwpHsU=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "6011e9b3c41597862cd1a3d9649cca19e2089d47"
+        "version": "d4040f6c8f593958c3334a6db8875a70e2d0110a"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -822,13 +803,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "owner": "vaxerski",
+            "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "036be18bf5f69735cba40f8727a8ea9dd333be86",
-            "sha256": "sha256-OW8JHp2o/W5auZZWQ08C5Kbg0/ebLJXaOkaw6+WOPNs=",
+            "rev": "20cba2d70775207da09e218852a6fd1266fedd21",
+            "sha256": "sha256-BZpp5cEkK3iBqv2PiQNn0fHiDaXg9RNkH2kCYNqPJvY=",
             "type": "github"
         },
-        "version": "036be18bf5f69735cba40f8727a8ea9dd333be86"
+        "version": "20cba2d70775207da09e218852a6fd1266fedd21"
     },
     "ibus": {
         "cargoLocks": null,
@@ -867,6 +848,25 @@
             "type": "github"
         },
         "version": "3380c09d5812cec18ff7ed80e7e6d69d6afd3ab2"
+    },
+    "inih": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "inih",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "benhoyt",
+            "repo": "inih",
+            "rev": "r56",
+            "sha256": "sha256-7k3i3pElihastUDrdf9DyRZMe2UNFckfLUFGb4rbWLo=",
+            "type": "github"
+        },
+        "version": "r56"
     },
     "jibri": {
         "cargoLocks": null,
@@ -969,26 +969,7 @@
             "type": "url",
             "url": "https://leonflix.net/downloads/Leonflix.AppImage"
         },
-        "version": "1.5.50"
-    },
-    "libinih": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "libinih",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "benhoyt",
-            "repo": "inih",
-            "rev": "r53",
-            "sha256": "sha256-hi29V40q3c3IvPH7eH3q3z1PiNN59Y0zMhgSroUsDjc=",
-            "type": "github"
-        },
-        "version": "r53"
+        "version": "0.7.0"
     },
     "light": {
         "cargoLocks": null,
@@ -1008,25 +989,6 @@
             "type": "github"
         },
         "version": "c5fb45423ec1ee1080e442e061ccfcdb98b32e4a"
-    },
-    "lightcord": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "lightcord",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "Lightcord",
-            "repo": "Lightcord",
-            "rev": "39fc7f28937029dc7270c0ec2bac11c0b467113c",
-            "sha256": "sha256-BXf8HDzEcTnExwAW6ddjyDc+G0iDitvXV7kVp0Btbg0=",
-            "type": "github"
-        },
-        "version": "39fc7f28937029dc7270c0ec2bac11c0b467113c"
     },
     "lua-pam": {
         "cargoLocks": null,
@@ -1077,13 +1039,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "owner": "Half-Shot",
+            "owner": "matrix-org",
             "repo": "matrix-appservice-discord",
-            "rev": "v1.0.0",
-            "sha256": "sha256-hZQ+3FDRWNGsnaHblnB2p6Inf9ZMrbB2jmgR2rskil0=",
+            "rev": "3026264a408d9d6e10bad6b5b91ccc013810df0a",
+            "sha256": "sha256-XJoCoa1TimPT2S5/s1QbRuSBeGKVqfzXVjRf3eyWKbk=",
             "type": "github"
         },
-        "version": "v1.0.0"
+        "version": "3026264a408d9d6e10bad6b5b91ccc013810df0a"
     },
     "microsoft-edge-beta": {
         "cargoLocks": null,
@@ -1185,7 +1147,7 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "owner": "Ma27",
+            "owner": "spwhitt",
             "repo": "nix-zsh-completions",
             "rev": "468d8cf752a62b877eba1a196fbbebb4ce4ebb6f",
             "sha256": "sha256-TWgo56l+FBXssOYWlAfJ5j4pOHNmontOEolcGdihIJs=",
@@ -1281,7 +1243,7 @@
         "extract": null,
         "name": "paper",
         "passthru": null,
-        "pinned": false,
+        "pinned": true,
         "src": {
             "deepClone": false,
             "fetchSubmodules": false,
@@ -1389,25 +1351,6 @@
             "url": "https://gitlab.com/postmarketOS/pmbootstrap"
         },
         "version": "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835"
-    },
-    "polymc-cracked": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "polymc-cracked",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "thecountrox",
-            "repo": "PolyMC-Cracked",
-            "rev": "6000f5de6742bf825ed56477b16be559f5cfe227",
-            "sha256": "sha256-7N/H+mpYl/v522b+D3HI8zw9oLqj2yFJ0WGVDzLQC4w=",
-            "type": "github"
-        },
-        "version": "6000f5de6742bf825ed56477b16be559f5cfe227"
     },
     "pure": {
         "cargoLocks": null,
@@ -1568,11 +1511,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "f7119403394e33deac5d8847fb1fb075aadbd3fa",
-            "sha256": "sha256-5BOUD2+WTJOTHvlN8ihXU45wr2OPoxMWVi914GUQLjM=",
+            "rev": "fca6015011fbf7ce523836273a228d18e6e1fd75",
+            "sha256": "sha256-TsjSenbrz1BUzESCkx66A049eo3pQ3dQUW7AegpqIC8=",
             "type": "github"
         },
-        "version": "f7119403394e33deac5d8847fb1fb075aadbd3fa"
+        "version": "fca6015011fbf7ce523836273a228d18e6e1fd75"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1582,11 +1525,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XRJBTFNufR08ZuQDAQBPDUxyZOuRql7I6/cQqUQK+YM=",
+            "sha256": "sha256-EEz4Bt4SHw77KHpJKdfeUhRWP9RtF5e/ZInKexaMiTU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.7.1/revanced-cli-2.7.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.8.0/revanced-cli-2.8.0-all.jar"
         },
-        "version": "2.7.1"
+        "version": "2.8.0"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1596,11 +1539,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TIdv7uhziC5YGPygrxEKaZVLeH1iMm1zzT/q+cJw1xg=",
+            "sha256": "sha256-nWScjH7hvFOz+9laypvxQh3Q3+z8ai47cx94EogwhSk=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.29.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.30.0/app-release-unsigned.apk"
         },
-        "version": "0.29.0"
+        "version": "0.30.0"
     },
     "revanced-patches-dex": {
         "cargoLocks": null,
@@ -1610,11 +1553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-l3CM+vdD45cKGMeciiJamCs6K0VIUHwRva7gNVQA3IM=",
+            "sha256": "sha256-TSDnEKzFC76HiPhddStpiuqzOc9X2U8WBpUivZdqBXU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.28.0/revanced-patches-2.28.0.dex"
         },
-        "version": "2.25.3"
+        "version": "2.28.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1624,11 +1567,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ANn4oRaKXja7vUTZRG+UzMvIt3kg0pzOEyKhwm/qT9Y=",
+            "sha256": "sha256-qNsNr8ZzI2EyoYe4/lrP6jXucmNJfN7E2Tpht/xZwkA=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.25.3/revanced-patches-2.25.3.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.28.0/revanced-patches-2.28.0.jar"
         },
-        "version": "2.25.3"
+        "version": "2.28.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1652,7 +1595,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-1a4f0507a2f19d1319442ca81c7220c9fcedcfa7/Cargo.lock",
+                "./rustdesk-1ad1480cfcbe252e054e1234cead860dc06720d5/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1679,16 +1622,25 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7",
-            "sha256": "sha256-ciyR/XoJ2JWyl5vNt5zmWYba1Ky8IQCa8zzl699jyPk=",
+            "rev": "1ad1480cfcbe252e054e1234cead860dc06720d5",
+            "sha256": "sha256-RduOzcPE/PS7B3yii93f5UVxYhCXPg6+JFJc+9+oV0c=",
             "type": "github"
         },
-        "version": "1a4f0507a2f19d1319442ca81c7220c9fcedcfa7"
+        "version": "1ad1480cfcbe252e054e1234cead860dc06720d5"
     },
-    "rustdesk-server-oss": {
-        "cargoLocks": null,
+    "rustdesk-server": {
+        "cargoLocks": {
+            "Cargo.lock": [
+                "./rustdesk-server-848b5aedb7e8bda0f582706c792ffbab2d657a39/Cargo.lock",
+                {
+                    "async-speed-limit-0.3.1": "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=",
+                    "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
+                    "tokio-socks-0.5.1": "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI="
+                }
+            ]
+        },
         "extract": null,
-        "name": "rustdesk-server-oss",
+        "name": "rustdesk-server",
         "passthru": null,
         "pinned": false,
         "src": {
@@ -1697,12 +1649,12 @@
             "leaveDotGit": false,
             "name": null,
             "owner": "rustdesk",
-            "repo": "rustdesk-server-demo",
-            "rev": "2e539cf5bfc60b1463519de2566422464877992d",
-            "sha256": "sha256-MMPmTEMYghf2A+rQF5pJaLTb2NyXpV3HKx20g7o/deg=",
+            "repo": "rustdesk-server",
+            "rev": "848b5aedb7e8bda0f582706c792ffbab2d657a39",
+            "sha256": "sha256-5LsnT6NI5JmcRnIirn3YNOQU+Y8Bjpg+/FC+bx16LcI=",
             "type": "github"
         },
-        "version": "2e539cf5bfc60b1463519de2566422464877992d"
+        "version": "848b5aedb7e8bda0f582706c792ffbab2d657a39"
     },
     "sddm": {
         "cargoLocks": null,
@@ -1814,12 +1766,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "626ae8d4bec4fe3d51d350b2ec3e0d36d747fd1b",
-            "sha256": "sha256-KQy0a/lUIoUA35TS/KNW9Fnil8qAj/BOIfjV5Iktapk=",
+            "rev": "281944ed182bc71eb038b77e8aaeafac15233895",
+            "sha256": "sha256-MXAhrqH1CWJsE5jRtdmpx2czy+TTv8ymEGjts8cjBaw=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "626ae8d4bec4fe3d51d350b2ec3e0d36d747fd1b"
+        "version": "281944ed182bc71eb038b77e8aaeafac15233895"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -1832,13 +1784,13 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "owner": "khanhas",
+            "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "396d701adc915a853e0a94e3fa4a34293d9d3933",
-            "sha256": "sha256-O9+GyN6a06pz7I2wY8NoEZ2Mu3ffDe9WSjlJ/XSDCtQ=",
+            "rev": "531542daefa615c63515ba2d57c86f2391c49701",
+            "sha256": "sha256-2TW2tBuB3C/bJP3ylfvAo1YuFvWKgBdf3DfA+/Sgres=",
             "type": "github"
         },
-        "version": "396d701adc915a853e0a94e3fa4a34293d9d3933"
+        "version": "531542daefa615c63515ba2d57c86f2391c49701"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -1870,7 +1822,7 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "owner": "morpheusthewhite",
+            "owner": "spicetify",
             "repo": "spicetify-themes",
             "rev": "02572216ba80979a15f9d65d80fb9888208f2666",
             "sha256": "sha256-i0Xt8EOCNl6/ei32Gf94Fp8km+U8Y/sPEv0gHfq/mO0=",
@@ -2113,30 +2065,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "665769d4fb1457757d455c5cb4e58dfed46bb36e",
-            "sha256": "sha256-MrM/od7Kao/l+ziGajPg7aVhYHr2AuJQcw4dnQF8Qrg=",
+            "rev": "e828cffb929cf8917f5d4de3d77b6d3632f1b572",
+            "sha256": "sha256-W0Z5sUOxbjYNtHB+yhvoMQwgDV2q2d/EXZtYHhtGp1M=",
             "type": "github"
         },
-        "version": "665769d4fb1457757d455c5cb4e58dfed46bb36e"
-    },
-    "ultimmc": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "ultimmc",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": true,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "AfoninZ",
-            "repo": "MultiMC5-Cracked",
-            "rev": "66bb7105db93e0977bb64a59a12b001f780e0566",
-            "sha256": "sha256-t/R3BBRy2orzUuh537xMPwORHmhQy4aGe96e77CVzZs=",
-            "type": "github"
-        },
-        "version": "66bb7105db93e0977bb64a59a12b001f780e0566"
+        "version": "e828cffb929cf8917f5d4de3d77b6d3632f1b572"
     },
     "uniemoji": {
         "cargoLocks": null,
@@ -2203,11 +2136,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FxQy6ZBBjvmce7bCDLKpOs4ZTq37bO3U0Iu7U2RRxL4=",
+            "sha256": "sha256-azkoDquN/i01QHsd1wJG79kdhHhBvXzPXIRnjKHAHNE=",
             "type": "url",
-            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.46/ventoy-1.0.46-linux.tar.gz"
+            "url": "https://github.com/ventoy/Ventoy/releases/download/v1.0.79/ventoy-1.0.79-linux.tar.gz"
         },
-        "version": "1.0.46"
+        "version": "1.0.79"
     },
     "vimPlugins-yuck": {
         "cargoLocks": null,
@@ -2336,99 +2269,6 @@
             "type": "github"
         },
         "version": "fa098efa7f6b34f8cd82e2c249c81c629901976c"
-    },
-    "xdg-desktop-portal": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "xdg-desktop-portal",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "flatpak",
-            "repo": "xdg-desktop-portal",
-            "rev": "9f4c4c2a15efc28ed30a40d5caf80c5d016a566f",
-            "sha256": "sha256-3SMi0LbxCDeEVaUVE0EDdk4xl0TFH02Z1QeqA5Qgtis=",
-            "type": "github"
-        },
-        "version": "9f4c4c2a15efc28ed30a40d5caf80c5d016a566f"
-    },
-    "xdg-desktop-portal-gtk": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "xdg-desktop-portal-gtk",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "flatpak",
-            "repo": "xdg-desktop-portal-gtk",
-            "rev": "93e50a2cf6a4b8b1a6ba30fbb2215bc497347a70",
-            "sha256": "sha256-F7PYlOPP8KoZuYU3KvHvGAbr5vvXv8ww8hNypwp/zRU=",
-            "type": "github"
-        },
-        "version": "93e50a2cf6a4b8b1a6ba30fbb2215bc497347a70"
-    },
-    "xorg-libxcvt": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "xorg-libxcvt",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "d9ca87eea9eecddaccc3a77227bcb3acf84e89df",
-            "sha256": "sha256-r72BE+WCZngaMutOxidnJyQ1IpXPFH5NXBs/7l5agD4=",
-            "type": "git",
-            "url": "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
-        },
-        "version": "d9ca87eea9eecddaccc3a77227bcb3acf84e89df"
-    },
-    "xorgproto": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "xorgproto",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "owner": "freedesktop",
-            "repo": "xorg-xorgproto",
-            "rev": "a3f847b75025a57b64967d08a299bc752c488aee",
-            "sha256": "sha256-wQVBfrcgKSCeEb5hecIbK27qdUBVGZ+dpJNEi6x2DD0=",
-            "type": "github"
-        },
-        "version": "a3f847b75025a57b64967d08a299bc752c488aee"
-    },
-    "xwayland": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "xwayland",
-        "passthru": null,
-        "pinned": false,
-        "src": {
-            "deepClone": false,
-            "fetchSubmodules": false,
-            "leaveDotGit": false,
-            "name": null,
-            "rev": "2efa6d659508346358a1ef27b2393e18843f66a3",
-            "sha256": "sha256-Il8Y2sQQMMzVeIv7utMwxjSkypKGvKYzIh2CW2tTP3U=",
-            "type": "git",
-            "url": "git://anongit.freedesktop.org/xorg/xserver"
-        },
-        "version": "2efa6d659508346358a1ef27b2393e18843f66a3"
     },
     "ydotool": {
         "cargoLocks": null,
