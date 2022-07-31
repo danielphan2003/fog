@@ -501,7 +501,7 @@ src.prefix = "v"
 fetch.url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v$ver/bw_web_v$ver.tar.gz"
 
 [ventoy]
-src.github_tab = "ventoy/Ventoy"
+src.github_tag = "ventoy/Ventoy"
 src.prefix = "v"
 fetch.url = "https://github.com/ventoy/Ventoy/releases/download/v$ver/ventoy-$ver-linux.tar.gz"
 
