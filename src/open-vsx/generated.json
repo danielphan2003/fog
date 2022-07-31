@@ -17625,11 +17625,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-syBsOOGX9ABSDezw6RHOmB8EiJ1Xs0VYMQgc6y45Ugk=",
+            "sha256": "sha256-6AVyLwpcicl1HxP8VcABhLmpJnEPuCb1Ia2HzDbkyoo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.0/file/ionutvmi.path-autocomplete-1.20.0.vsix"
+            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.1/file/ionutvmi.path-autocomplete-1.20.1.vsix"
         },
-        "version": "1.20.0"
+        "version": "1.20.1"
     },
     "ionutvmi-reg": {
         "cargoLocks": null,
@@ -35808,11 +35808,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2ygcQoaPbWFaahi/AT9GF3vfs16bseonKL7NaCYf6Kw=",
+            "sha256": "sha256-33zw9vTLlDCRqBTDb+dwQdMh36xBmYaB++SrZu59jZ0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.10/file/vunguyentuan.vscode-css-variables-2.3.10.vsix"
+            "url": "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.11/file/vunguyentuan.vscode-css-variables-2.3.11.vsix"
         },
-        "version": "2.3.10"
+        "version": "2.3.11"
+    },
+    "vunguyentuan-vscode-postcss": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "vunguyentuan-vscode-postcss",
+        "passthru": {
+            "description": "Syntax highlighting and intellisense for PostCSS",
+            "license": "MIT",
+            "name": "vscode-postcss",
+            "publisher": "vunguyentuan"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-HyAv9BXBZGMNya6tG/KrBfikqpPmIUv7EpaCs11AzuQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/vunguyentuan/vscode-postcss/0.2.0/file/vunguyentuan.vscode-postcss-0.2.0.vsix"
+        },
+        "version": "0.2.0"
     },
     "vymarkov-add-gitlab-npm-token": {
         "cargoLocks": null,

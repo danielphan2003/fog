@@ -11127,10 +11127,10 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.20.0";
+    version = "1.20.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.0/file/ionutvmi.path-autocomplete-1.20.0.vsix";
-      sha256 = "sha256-syBsOOGX9ABSDezw6RHOmB8EiJ1Xs0VYMQgc6y45Ugk=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.1/file/ionutvmi.path-autocomplete-1.20.1.vsix";
+      sha256 = "sha256-6AVyLwpcicl1HxP8VcABhLmpJnEPuCb1Ia2HzDbkyoo=";
     };
     license = "MIT";
     name = "path-autocomplete";
@@ -22611,14 +22611,26 @@
   };
   vunguyentuan-vscode-css-variables = {
     pname = "vunguyentuan-vscode-css-variables";
-    version = "2.3.10";
+    version = "2.3.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.10/file/vunguyentuan.vscode-css-variables-2.3.10.vsix";
-      sha256 = "sha256-2ygcQoaPbWFaahi/AT9GF3vfs16bseonKL7NaCYf6Kw=";
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.11/file/vunguyentuan.vscode-css-variables-2.3.11.vsix";
+      sha256 = "sha256-33zw9vTLlDCRqBTDb+dwQdMh36xBmYaB++SrZu59jZ0=";
     };
     license = "MIT";
     name = "vscode-css-variables";
     description = "Autocomplete CSS Variable support CSS, SCSS, LESS, PostCSS, VueJS, ReactJS and more";
+    publisher = "vunguyentuan";
+  };
+  vunguyentuan-vscode-postcss = {
+    pname = "vunguyentuan-vscode-postcss";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-postcss/0.2.0/file/vunguyentuan.vscode-postcss-0.2.0.vsix";
+      sha256 = "sha256-HyAv9BXBZGMNya6tG/KrBfikqpPmIUv7EpaCs11AzuQ=";
+    };
+    license = "MIT";
+    name = "vscode-postcss";
+    description = "Syntax highlighting and intellisense for PostCSS";
     publisher = "vunguyentuan";
   };
   vymarkov-add-gitlab-npm-token = {
