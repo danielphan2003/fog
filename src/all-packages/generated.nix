@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "5d3da25e3792dcff71afeb37dcec6af43656ac5a";
+    version = "00055137c5811363fa76e0a66f9d6ec2a29b942b";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "5d3da25e3792dcff71afeb37dcec6af43656ac5a";
+      rev = "00055137c5811363fa76e0a66f9d6ec2a29b942b";
       fetchSubmodules = false;
-      sha256 = "sha256-OyH96smFT5M6gLPuFVqwQTt2RE8EL21wD/DvrC9o0OI=";
+      sha256 = "sha256-/gLPOrOdExd9qgnFBxqxRJUYbJXW800nzCd3Hrhkeh8=";
     });
   };
   caddy = {
@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d9687c93ee9fe627bcda3a01b80ecf9faf9ddc65";
+    version = "a1d1ec4c4696b5e44c7d7135c4191aa795811bee";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d9687c93ee9fe627bcda3a01b80ecf9faf9ddc65";
+      rev = "a1d1ec4c4696b5e44c7d7135c4191aa795811bee";
       fetchSubmodules = false;
-      sha256 = "sha256-Y8bSMI8p2CD9Y8dWCajBbv94WtLjZlRwfYXrrMSVcbY=";
+      sha256 = "sha256-tyUpqrjfU1fAANpTGNKcOyXXoRyPdy1ElK+RVh/yFzc=";
     });
   };
   ibus = {
