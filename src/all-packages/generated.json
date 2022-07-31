@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "46e18e08d1a624100e0778d31132ba3f72c1f289",
-            "sha256": "sha256-5bGcOGcPPpA/Vr33omvZLGa16Sd7Vxy0MI9GZxLWDls=",
+            "rev": "8a4e04d789eda386b17d396c742f9ad30a3d35f7",
+            "sha256": "sha256-dozwPIc6Wc/YqSIXKyuKwvew8+cnKKMm/MeTC6J1kFc=",
             "type": "github"
         },
-        "version": "46e18e08d1a624100e0778d31132ba3f72c1f289"
+        "version": "8a4e04d789eda386b17d396c742f9ad30a3d35f7"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1511,11 +1511,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "4b8d3ab8a0f9642cb1679295755f4822d02971ea",
-            "sha256": "sha256-//iJ8Pqf9SUI5jKQ1qPpqAPTEZzXu1Kfz9eknMXEbLw=",
+            "rev": "e9a6252fc77a41566ab4d49d44a9812d72553083",
+            "sha256": "sha256-w0f8PSErw7BygXhGUKF8w47dIP8yPUryClptYWCM+00=",
             "type": "github"
         },
-        "version": "4b8d3ab8a0f9642cb1679295755f4822d02971ea"
+        "version": "e9a6252fc77a41566ab4d49d44a9812d72553083"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2050,7 +2050,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "52e22e5bae715be7544eaa3502d6cf9c0017c510"
+        "version": "5c32e365d2af51b083ab966133306d75e0fec65d"
     },
     "ulauncher": {
         "cargoLocks": null,
