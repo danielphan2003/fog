@@ -3531,10 +3531,10 @@
   };
   Surendrajat-apklab = {
     pname = "Surendrajat-apklab";
-    version = "1.6.0";
+    version = "1.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Surendrajat/apklab/1.6.0/file/Surendrajat.apklab-1.6.0.vsix";
-      sha256 = "sha256-mF5kIpE4H7K2Kfyj6HTw3yFl81rnes888pa5P288AsE=";
+      url = "https://open-vsx.org/api/Surendrajat/apklab/1.6.1/file/Surendrajat.apklab-1.6.1.vsix";
+      sha256 = "sha256-DGIAd1iL4ZZEgUo4hJZJHdIClEnuAuUYHlctl95UOo8=";
     };
     license = "AGPL-3.0";
     name = "apklab";
@@ -16731,10 +16731,10 @@
   };
   prantlf-vscode-requirejs = {
     pname = "prantlf-vscode-requirejs";
-    version = "1.0.2";
+    version = "2.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/1.0.2/file/prantlf.vscode-requirejs-1.0.2.vsix";
-      sha256 = "sha256-alFXVWDQGBYqlvoWEPSBI6ayb74XvK/uEopbcannQ8k=";
+      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.0.0/file/prantlf.vscode-requirejs-2.0.0.vsix";
+      sha256 = "sha256-/RFxAgJ2BjOEYjtkBDaG5fXIAxFN9cH3Tdg6XgWxOMw=";
     };
     license = "MIT";
     name = "vscode-requirejs";
@@ -19047,10 +19047,10 @@
   };
   spoorthi-cosmy-wasmy = {
     pname = "spoorthi-cosmy-wasmy";
-    version = "0.5.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/0.5.0/file/spoorthi.cosmy-wasmy-0.5.0.vsix";
-      sha256 = "sha256-kLzEahpYZvoqm1Qmp05Z1t7/VV8XkttJmZW0sOSjweI=";
+      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.0.0/file/spoorthi.cosmy-wasmy-1.0.0.vsix";
+      sha256 = "sha256-Mir5qL6+9RuRJtnWHyvWnLGIa0Puq6D8S5GiMiiTqcI=";
     };
     license = "GPL-3.0";
     name = "cosmy-wasmy";
@@ -22611,10 +22611,10 @@
   };
   vunguyentuan-vscode-css-variables = {
     pname = "vunguyentuan-vscode-css-variables";
-    version = "2.3.11";
+    version = "2.3.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.11/file/vunguyentuan.vscode-css-variables-2.3.11.vsix";
-      sha256 = "sha256-33zw9vTLlDCRqBTDb+dwQdMh36xBmYaB++SrZu59jZ0=";
+      url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.3.12/file/vunguyentuan.vscode-css-variables-2.3.12.vsix";
+      sha256 = "sha256-jJA0QIeK2s6M62trAuB9IT7VdrWfYUObzJZpPmun9O4=";
     };
     license = "MIT";
     name = "vscode-css-variables";
