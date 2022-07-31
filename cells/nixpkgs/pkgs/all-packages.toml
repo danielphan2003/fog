@@ -1,4 +1,4 @@
-# nvfetcher.toml
+# ./cells/nixpkgs/pkgs/all-packages.toml
 
 [adguardhome-darwin-amd64]
 src.github_tag = "AdguardTeam/AdGuardHome"
@@ -29,11 +29,6 @@ src.git = "https://github.com/str4d/age-plugin-yubikey"
 fetch.github = "str4d/age-plugin-yubikey"
 cargo_locks = [ "Cargo.lock" ]
 
-[anbox]
-src.git = "https://github.com/anbox/anbox"
-fetch.github = "anbox/anbox"
-git.fetchSubmodules = true
-
 [anime-downloader]
 src.git = "https://github.com/anime-dl/anime-downloader"
 fetch.github = "anime-dl/anime-downloader"
@@ -41,10 +36,6 @@ fetch.github = "anime-dl/anime-downloader"
 [any-nix-shell]
 src.git = "https://github.com/haslersn/any-nix-shell"
 fetch.github = "haslersn/any-nix-shell"
-
-[argonone-fancontrold]
-src.git = "https://github.com/mgdm/argonone-utils"
-fetch.github = "mgdm/argonone-utils"
 
 [arkenfox-userjs]
 src.git = "https://github.com/arkenfox/user.js"
@@ -97,6 +88,10 @@ src.git = "https://github.com/caddyserver/caddy"
 fetch.github = "caddyserver/caddy"
 
 [cinny]
+src.git = "https://github.com/cinnyapp/cinny"
+fetch.github = "cinnyapp/cinny"
+
+[cinny-bin]
 src.github_tag = "cinnyapp/cinny"
 src.prefix = "v"
 fetch.url = "https://github.com/cinnyapp/cinny/releases/download/v$ver/cinny-v$ver.tar.gz"
@@ -191,16 +186,20 @@ src.git = "https://github.com/srevinsaju/guiscrcpy"
 fetch.github = "srevinsaju/guiscrcpy"
 
 [hyprland]
-src.git = "https://github.com/vaxerski/hyprland"
-fetch.github = "vaxerski/hyprland"
+src.git = "https://github.com/hyprwm/hyprland"
+fetch.github = "hyprwm/hyprland"
 
 [ibus]
-src.git = "https://github.com/ibus/ibus/"
+src.git = "https://github.com/ibus/ibus"
 fetch.github = "ibus/ibus"
 
 [ibus-bamboo]
 src.git = "https://github.com/BambooEngine/ibus-bamboo"
 fetch.github = "BambooEngine/ibus-bamboo"
+
+[inih]
+src.github_tag = "benhoyt/inih"
+fetch.github = "benhoyt/inih"
 
 [jibri]
 src.webpage = "https://download.jitsi.org/unstable"
@@ -232,20 +231,12 @@ src.git = "https://github.com/xinhaoyuan/layout-machi"
 fetch.github = "xinhaoyuan/layout-machi"
 
 [leonflix]
-src.manual = "1.5.50"
+src.manual = "0.7.0"
 fetch.url = "https://leonflix.net/downloads/Leonflix.AppImage"
-
-[libinih]
-src.manual = "r53"
-fetch.github = "benhoyt/inih"
 
 [light]
 src.git = "https://github.com/haikarainen/light"
 fetch.github = "haikarainen/light"
-
-[lightcord]
-src.git = "https://github.com/Lightcord/Lightcord"
-fetch.github = "Lightcord/Lightcord"
 
 [lua-pam]
 src.git = "https://github.com/RMTT/lua-pam"
@@ -256,8 +247,8 @@ src.git = "https://github.com/mlvzk/manix"
 fetch.github = "mlvzk/manix"
 
 [matrix-appservice-discord]
-src.github = "Half-Shot/matrix-appservice-discord"
-fetch.github = "Half-Shot/matrix-appservice-discord"
+src.git = "https://github.com/matrix-org/matrix-appservice-discord"
+fetch.github = "matrix-org/matrix-appservice-discord"
 
 [microsoft-edge-stable]
 src.webpage = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable"
@@ -289,8 +280,8 @@ src.prefix = "v"
 fetch.url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v$ver.tar.gz"
 
 [nix-zsh-completions]
-src.git = "https://github.com/Ma27/nix-zsh-completions"
-fetch.github = "Ma27/nix-zsh-completions"
+src.git = "https://github.com/spwhitt/nix-zsh-completions"
+fetch.github = "spwhitt/nix-zsh-completions"
 
 [ntfs2btrfs]
 src.git = "https://github.com/maharmstone/ntfs2btrfs"
@@ -309,6 +300,7 @@ cargo_locks = [ "Cargo.lock" ]
 src.git = "https://gitlab.com/snakedye/paper"
 fetch.git = "https://gitlab.com/snakedye/paper"
 cargo_locks = [ "Cargo.lock" ]
+pinned = true
 
 [picom]
 src.git = "https://github.com/yshui/picom"
@@ -330,10 +322,6 @@ fetch.pypi = "pmbootstrap"
 [pmbootstrap-test]
 src.git = "https://gitlab.com/postmarketOS/pmbootstrap"
 fetch.git = "https://gitlab.com/postmarketOS/pmbootstrap"
-
-[polymc-cracked]
-src.git = "https://github.com/thecountrox/PolyMC-Cracked"
-fetch.github = "thecountrox/PolyMC-Cracked"
 
 [pure]
 src.git = "https://github.com/sindresorhus/pure"
@@ -389,9 +377,10 @@ src.git = "https://github.com/rustdesk/rustdesk"
 fetch.github = "rustdesk/rustdesk"
 cargo_locks = [ "Cargo.lock" ]
 
-[rustdesk-server-oss]
-src.git = "https://github.com/rustdesk/rustdesk-server-demo"
-fetch.github = "rustdesk/rustdesk-server-demo"
+[rustdesk-server]
+src.git = "https://github.com/rustdesk/rustdesk-server"
+fetch.github = "rustdesk/rustdesk-server"
+cargo_locks = [ "Cargo.lock" ]
 
 [sddm]
 src.git = "https://github.com/sddm/sddm"
@@ -426,16 +415,16 @@ src.git = "https://gitlab.com/snakedye/snui"
 fetch.git = "https://gitlab.com/snakedye/snui"
 
 [spicetify-cli]
-src.git = "https://github.com/khanhas/spicetify-cli"
-fetch.github = "khanhas/spicetify-cli"
+src.git = "https://github.com/spicetify/spicetify-cli"
+fetch.github = "spicetify/spicetify-cli"
 
 [spicetify-marketplace]
 src.git = "https://github.com/spicetify/spicetify-marketplace"
 fetch.github = "spicetify/spicetify-marketplace"
 
 [spicetify-themes]
-src.git = "https://github.com/morpheusthewhite/spicetify-themes"
-fetch.github = "morpheusthewhite/spicetify-themes"
+src.git = "https://github.com/spicetify/spicetify-themes"
+fetch.github = "spicetify/spicetify-themes"
 
 ## spotify
 
@@ -497,11 +486,6 @@ fetch.url = "https://github.com/z411/trackma/archive/master.tar.gz"
 src.git = "https://github.com/Ulauncher/Ulauncher"
 fetch.github = "Ulauncher/Ulauncher"
 
-[ultimmc]
-src.manual = "66bb7105db93e0977bb64a59a12b001f780e0566"
-fetch.github = "AfoninZ/MultiMC5-Cracked"
-git.fetchSubmodules = true
-
 [uniemoji]
 src.git = "https://github.com/salty-horse/ibus-uniemoji"
 fetch.github = "salty-horse/ibus-uniemoji"
@@ -517,7 +501,8 @@ src.prefix = "v"
 fetch.url = "https://github.com/dani-garcia/bw_web_builds/releases/download/v$ver/bw_web_v$ver.tar.gz"
 
 [ventoy]
-src.manual = "1.0.46"
+src.github_tab = "ventoy/Ventoy"
+src.prefix = "v"
 fetch.url = "https://github.com/ventoy/Ventoy/releases/download/v$ver/ventoy-$ver-linux.tar.gz"
 
 [waydroid]
@@ -545,26 +530,6 @@ fetch.url = "https://dl.google.com/widevine-cdm/$ver-linux-x64.zip"
 src.git = "https://github.com/ToadKing/wii-u-gc-adapter"
 fetch.github = "ToadKing/wii-u-gc-adapter"
 
-[xdg-desktop-portal]
-src.git = "https://github.com/flatpak/xdg-desktop-portal"
-fetch.github = "flatpak/xdg-desktop-portal"
-
-[xdg-desktop-portal-gtk]
-src.git = "https://github.com/flatpak/xdg-desktop-portal-gtk"
-fetch.github = "flatpak/xdg-desktop-portal-gtk"
-
-[xorg-libxcvt]
-src.git = "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
-fetch.git = "https://gitlab.freedesktop.org/xorg/lib/libxcvt"
-
-[xorgproto]
-src.git = "https://github.com/freedesktop/xorg-xorgproto"
-fetch.github = "freedesktop/xorg-xorgproto"
-
-[xwayland]
-src.git = "git://anongit.freedesktop.org/xorg/xserver"
-fetch.git = "git://anongit.freedesktop.org/xorg/xserver"
-
 [ydotool]
 src.git = "https://github.com/ReimuNotMoe/ydotool"
 fetch.github = "ReimuNotMoe/ydotool"
@@ -578,10 +543,8 @@ src.git = "https://github.com/drduh/YubiKey-Guide"
 fetch.github = "drduh/YubiKey-Guide"
 
 [zoom-us]
-src.webpage = "https://zoom.us/download?os=linux"
-src.regex = "Version (.*)<.*"
-src.from_pattern = "(.*) \\((.*)\\)"
-src.to_pattern = "\\1.\\2"
+src.httpheader = "https://zoom.us/client/latest/zoom_x86_64.pkg.tar.xz"
+src.regex = "https://cdn.zoom.us/prod/(.*)/zoom_x86_64.pkg.tar.xz"
 fetch.url = "https://cdn.zoom.us/prod/$ver/zoom_x86_64.pkg.tar.xz"
 
 ### Python extensions
