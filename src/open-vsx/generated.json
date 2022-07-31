@@ -5704,7 +5704,7 @@
         "extract": null,
         "name": "TabNine-tabnine-vscode",
         "passthru": {
-            "description": "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.",
+            "description": "cript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.",
             "license": "License at https://tabnine.com/eula",
             "name": "tabnine-vscode",
             "publisher": "TabNine"
@@ -5712,11 +5712,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8o9N2UBOdh+D24euUzRxkjdjUx9vjkKPp/s5mHpEaR8=",
+            "sha256": "sha256-ZDayuXHEbNnpWw076Bf9QGo0JNnkvGEcqLJeekeM1jg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.6/file/TabNine.tabnine-vscode-3.6.6.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.7/file/TabNine.tabnine-vscode-3.6.7.vsix"
         },
-        "version": "3.6.6"
+        "version": "3.6.7"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,

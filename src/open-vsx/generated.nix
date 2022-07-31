@@ -3603,14 +3603,14 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.6";
+    version = "3.6.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.6/file/TabNine.tabnine-vscode-3.6.6.vsix";
-      sha256 = "sha256-8o9N2UBOdh+D24euUzRxkjdjUx9vjkKPp/s5mHpEaR8=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.7/file/TabNine.tabnine-vscode-3.6.7.vsix";
+      sha256 = "sha256-ZDayuXHEbNnpWw076Bf9QGo0JNnkvGEcqLJeekeM1jg=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
-    description = "JavaScript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.";
+    description = "cript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.";
     publisher = "TabNine";
   };
   TakumiI-markdowntable = {
