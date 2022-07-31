@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "04f8029fccacedf542d06cba94b073277d7610d1";
+    version = "d9687c93ee9fe627bcda3a01b80ecf9faf9ddc65";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "04f8029fccacedf542d06cba94b073277d7610d1";
+      rev = "d9687c93ee9fe627bcda3a01b80ecf9faf9ddc65";
       fetchSubmodules = false;
-      sha256 = "sha256-41S98UVgr/2QfCPi1oyV/1+QR08eaaTtic8Riv2ZSxk=";
+      sha256 = "sha256-Y8bSMI8p2CD9Y8dWCajBbv94WtLjZlRwfYXrrMSVcbY=";
     });
   };
   ibus = {
@@ -818,13 +818,13 @@
   };
   pure = {
     pname = "pure";
-    version = "3b2606db2e7eb6f05c67b229b5e3c68a1c3947a6";
+    version = "2d89ef1d06f76997790b45df5ac447f0c3ffd34c";
     src = fetchFromGitHub ({
       owner = "sindresorhus";
       repo = "pure";
-      rev = "3b2606db2e7eb6f05c67b229b5e3c68a1c3947a6";
+      rev = "2d89ef1d06f76997790b45df5ac447f0c3ffd34c";
       fetchSubmodules = false;
-      sha256 = "sha256-shiBRF2DeLVWFcla6DuATtmc4vc+xoChzOS70Rd8NAM=";
+      sha256 = "sha256-KO1z5/9vRh4JNNawbUhy9Zgr3ywGfpSEMx/4N0V+vmw=";
     });
   };
   pythonPackages-cfscrape = {
@@ -921,10 +921,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.30.0";
+    version = "0.30.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.30.0/app-release-unsigned.apk";
-      sha256 = "sha256-nWScjH7hvFOz+9laypvxQh3Q3+z8ai47cx94EogwhSk=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.30.1/app-release-unsigned.apk";
+      sha256 = "sha256-cGyjB/DND1owphNIINQCa+bwc1KqD65gjr52hyZFkyc=";
     };
   };
   revanced-patches-dex = {
@@ -1243,13 +1243,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "e828cffb929cf8917f5d4de3d77b6d3632f1b572";
+    version = "c43f1e7856152bcfc849da96cdecc862fb8dd33f";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "e828cffb929cf8917f5d4de3d77b6d3632f1b572";
+      rev = "c43f1e7856152bcfc849da96cdecc862fb8dd33f";
       fetchSubmodules = false;
-      sha256 = "sha256-W0Z5sUOxbjYNtHB+yhvoMQwgDV2q2d/EXZtYHhtGp1M=";
+      sha256 = "sha256-PELegT9A9hQbLVVIvRmbt5f6Wa/ig8jb/7W+7NnXj3k=";
     });
   };
   uniemoji = {
