@@ -18176,11 +18176,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gaZMdrlihqfDt/YShPeV4Ic9SdJwDA6o3AxjwioIxVk=",
+            "sha256": "sha256-0MOGMhy9ODB5ewhjnS2tG47THVKHjpiCLHC6QCb7UVc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.2/file/jeanp413.open-remote-ssh-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.3/file/jeanp413.open-remote-ssh-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
