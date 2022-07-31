@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "575c3e071a5e016d13a8899fe63f41385ca0e1c7";
+    version = "d44adb1beac8b8cfe27df86e2234347dfb07ebe6";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "575c3e071a5e016d13a8899fe63f41385ca0e1c7";
+      rev = "d44adb1beac8b8cfe27df86e2234347dfb07ebe6";
       fetchSubmodules = false;
-      sha256 = "sha256-hb4BmPXUZaarEqcuZM3D5UBh1qp2Ocs4s2UoHf1oUEc=";
+      sha256 = "sha256-wC7If8JeBDL/PuKumgkgqqHI/w5+gcngLQ2ZEZpXQzk=";
     });
   };
   ibus = {
@@ -921,26 +921,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.30.1";
+    version = "0.30.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.30.1/app-release-unsigned.apk";
-      sha256 = "sha256-cGyjB/DND1owphNIINQCa+bwc1KqD65gjr52hyZFkyc=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.30.3/app-release-unsigned.apk";
+      sha256 = "sha256-9rsT/J81FNzRwlWSADQ7aeZhAFOydcK3IK11wv1lQ4M=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.28.0";
+    version = "2.28.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.0/revanced-patches-2.28.0.dex";
-      sha256 = "sha256-TSDnEKzFC76HiPhddStpiuqzOc9X2U8WBpUivZdqBXU=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.1/revanced-patches-2.28.1.dex";
+      sha256 = "sha256-ydp9xSzkmvJ5J3pbFdao6WiDN+f2dx9BgABBQ2DFguE=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.28.0";
+    version = "2.28.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.0/revanced-patches-2.28.0.jar";
-      sha256 = "sha256-qNsNr8ZzI2EyoYe4/lrP6jXucmNJfN7E2Tpht/xZwkA=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.1/revanced-patches-2.28.1.jar";
+      sha256 = "sha256-05lzGkJiwznxn+LiZUgPJMW5uK+ppnK2mh3/lgTMmak=";
     };
   };
   rofi-wayland = {
