@@ -61,6 +61,18 @@
     description = "Detects when a change is made in package.lock every time you pull or checkout another git branch, and reminds you to run npm install.";
     publisher = "AdrianCuadrado";
   };
+  AlekseyNagovitsyn-autocomplete-line = {
+    pname = "AlekseyNagovitsyn-autocomplete-line";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/AlekseyNagovitsyn/autocomplete-line/0.0.1/file/AlekseyNagovitsyn.autocomplete-line-0.0.1.vsix";
+      sha256 = "sha256-RD1DIoetUkMnV7o0yFLoB7ZA5EgISu8PUUtJyPeJHrw=";
+    };
+    license = "MIT";
+    name = "autocomplete-line";
+    description = "Auto complete lines by grepping the project";
+    publisher = "AlekseyNagovitsyn";
+  };
   Angular-ng-template = {
     pname = "Angular-ng-template";
     version = "14.1.0";

@@ -94,6 +94,25 @@
         },
         "version": "0.0.3"
     },
+    "AlekseyNagovitsyn-autocomplete-line": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "AlekseyNagovitsyn-autocomplete-line",
+        "passthru": {
+            "description": "Auto complete lines by grepping the project",
+            "license": "MIT",
+            "name": "autocomplete-line",
+            "publisher": "AlekseyNagovitsyn"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-RD1DIoetUkMnV7o0yFLoB7ZA5EgISu8PUUtJyPeJHrw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/AlekseyNagovitsyn/autocomplete-line/0.0.1/file/AlekseyNagovitsyn.autocomplete-line-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "Angular-ng-template": {
         "cargoLocks": null,
         "extract": null,
