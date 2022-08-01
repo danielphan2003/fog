@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "ebd6abcbd5f6b31b7b4cadca0a546d9f0eab9ad3";
+    version = "db1aa5b5bc174e5a5df39a277f737b304e1e2350";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "ebd6abcbd5f6b31b7b4cadca0a546d9f0eab9ad3";
+      rev = "db1aa5b5bc174e5a5df39a277f737b304e1e2350";
       fetchSubmodules = false;
-      sha256 = "sha256-0ycNTc3Jgd6oc1zOq/wxci4ooaeVLphkGV2e2pJ1pL0=";
+      sha256 = "sha256-lnK/gQyvAGZmOMvJh/aSGEHbd7rS71QffKuGhc27M0A=";
     });
   };
   cinny = {
@@ -902,13 +902,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e4bff7c12c7ae0e8b1c41ce1648f0bd0619d40cd";
+    version = "605c4608d94da06a4a5225e461da30f47adf2d9f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e4bff7c12c7ae0e8b1c41ce1648f0bd0619d40cd";
+      rev = "605c4608d94da06a4a5225e461da30f47adf2d9f";
       fetchSubmodules = false;
-      sha256 = "sha256-vz3p+8PRFrkeTCXo+CG9TgcoljnYxXj0lIJQa/xdYEE=";
+      sha256 = "sha256-9pBTvI1GHe3J2QTL71LDsI2R+PFc+U5XNbQrlTNY5xE=";
     });
   };
   revanced-cli = {
