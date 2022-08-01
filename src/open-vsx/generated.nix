@@ -2595,10 +2595,10 @@
   };
   ModyQyW-vscode-uni-app-schemas = {
     pname = "ModyQyW-vscode-uni-app-schemas";
-    version = "0.7.2";
+    version = "0.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.7.2/file/ModyQyW.vscode-uni-app-schemas-0.7.2.vsix";
-      sha256 = "sha256-NVgvtQm72BeBJxqCbs3o/CVdC+YHRlibyZ8bimfwlpY=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.0/file/ModyQyW.vscode-uni-app-schemas-0.8.0.vsix";
+      sha256 = "sha256-qijDWa3DeKY7DE+rowfb+iiAmiTb3BNRNVjf9STEL3w=";
     };
     license = "MIT";
     name = "vscode-uni-app-schemas";
@@ -10143,10 +10143,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.0/file/halcyontechltd.vscode-rpgle-0.8.0.vsix";
-      sha256 = "sha256-A0muPpULOa2Ns0N8DhnWpRwoBoCny06PAVXoHjqY1QU=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.1/file/halcyontechltd.vscode-rpgle-0.8.1.vsix";
+      sha256 = "sha256-OFmzIyXjrN9wc+Qfg8Br48OY4sbDpVcZFzp7IIht8gA=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -11544,6 +11544,18 @@
     name = "plantuml";
     description = "Rich PlantUML support for Visual Studio Code.";
     publisher = "jebbs";
+  };
+  jeff-hykin-better-cpp-syntax = {
+    pname = "jeff-hykin-better-cpp-syntax";
+    version = "1.15.19";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jeff-hykin/better-cpp-syntax/1.15.19/file/jeff-hykin.better-cpp-syntax-1.15.19.vsix";
+      sha256 = "sha256-DEvnF7dzIBHPbNFrbCsowxdKAnUFIGMXcWuQnA/KSmM=";
+    };
+    license = "MIT";
+    name = "better-cpp-syntax";
+    description = "The bleeding edge of the C++ syntax";
+    publisher = "jeff-hykin";
   };
   jeff-hykin-better-dockerfile-syntax = {
     pname = "jeff-hykin-better-dockerfile-syntax";

@@ -4116,11 +4116,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NVgvtQm72BeBJxqCbs3o/CVdC+YHRlibyZ8bimfwlpY=",
+            "sha256": "sha256-qijDWa3DeKY7DE+rowfb+iiAmiTb3BNRNVjf9STEL3w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.7.2/file/ModyQyW.vscode-uni-app-schemas-0.7.2.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.0/file/ModyQyW.vscode-uni-app-schemas-0.8.0.vsix"
         },
-        "version": "0.7.2"
+        "version": "0.8.0"
     },
     "ModyQyW-vscode-uni-app-snippets": {
         "cargoLocks": null,
@@ -16067,11 +16067,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-A0muPpULOa2Ns0N8DhnWpRwoBoCny06PAVXoHjqY1QU=",
+            "sha256": "sha256-OFmzIyXjrN9wc+Qfg8Br48OY4sbDpVcZFzp7IIht8gA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.0/file/halcyontechltd.vscode-rpgle-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.1/file/halcyontechltd.vscode-rpgle-0.8.1.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.8.1"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -18276,6 +18276,25 @@
             "url": "https://open-vsx.org/api/jebbs/plantuml/2.17.3/file/jebbs.plantuml-2.17.3.vsix"
         },
         "version": "2.17.3"
+    },
+    "jeff-hykin-better-cpp-syntax": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jeff-hykin-better-cpp-syntax",
+        "passthru": {
+            "description": "The bleeding edge of the C++ syntax",
+            "license": "MIT",
+            "name": "better-cpp-syntax",
+            "publisher": "jeff-hykin"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-DEvnF7dzIBHPbNFrbCsowxdKAnUFIGMXcWuQnA/KSmM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jeff-hykin/better-cpp-syntax/1.15.19/file/jeff-hykin.better-cpp-syntax-1.15.19.vsix"
+        },
+        "version": "1.15.19"
     },
     "jeff-hykin-better-dockerfile-syntax": {
         "cargoLocks": null,
