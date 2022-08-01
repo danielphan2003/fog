@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "1edd66618f45a2e042260e4af81933d532e82394";
+    version = "024752bbe30aed16fddfb3a2c86d63c3eab7e4dc";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "1edd66618f45a2e042260e4af81933d532e82394";
+      rev = "024752bbe30aed16fddfb3a2c86d63c3eab7e4dc";
       fetchSubmodules = false;
-      sha256 = "sha256-aGlQNdBJlOEysPEPsFC37cGD9MiSfQ4jOrZ4vEUkxt4=";
+      sha256 = "sha256-vyOsrpnWpOQjvtltfP6kqOIGX22I8LLA/iX6EQH57d4=";
     });
   };
   ibus = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6407";
+    version = "1.0.6408";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6407.tar.bz2";
-      sha256 = "sha256-OC0f9KHx8lMdyFbqGY4CCus26mea7VC784DAMT3pwUM=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6408.tar.bz2";
+      sha256 = "sha256-0YH6F5KU24SxgRJ5cqMSoTBKKq48jVv6CSJq+9CfoaA=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6407";
+    version = "1.0.6408";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6407-1_all.deb";
-      sha256 = "sha256-zSj4HU6ULDunyVzVabzIQO/Qmta58hkwfvPLgZA20Nc=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6408-1_all.deb";
+      sha256 = "sha256-fXxtW9mM8bkYMeqvTlEnFkIsdaz3JZs/rFIh2jEGbUY=";
     };
   };
   jitsi-videobridge2 = {
@@ -632,10 +632,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "104.0.1293.35";
+    version = "104.0.1293.41";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.35-1_amd64.deb";
-      sha256 = "sha256-YHrA0YuxEv0Ymx1kTU8TR+xwKIJYxn8AjAh+AGHQ0Rg=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.41-1_amd64.deb";
+      sha256 = "sha256-Fr7PoljH+YjztTHUnX66GS7Yv0D46lb9jN/h6xV+FAc=";
     };
   };
   microsoft-edge-dev = {
@@ -1342,13 +1342,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "ed3a930badf94a0d4faa0b22233536dcacad4859";
+    version = "ee243fe41b215fa4016c89dd9510b5f1be7871c8";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "ed3a930badf94a0d4faa0b22233536dcacad4859";
+      rev = "ee243fe41b215fa4016c89dd9510b5f1be7871c8";
       fetchSubmodules = false;
-      sha256 = "sha256-48EciNqGuv7xabxEn4kPmJ1wtP9fn3Kw2+0wAxP0Ayg=";
+      sha256 = "sha256-rk2XYoHsI8ulfwcpNKEJHSVwA2xLQLi/4xT4e9fFWLY=";
     });
   };
   widevine-cdm = {
