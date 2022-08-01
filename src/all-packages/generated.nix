@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "6668271661857b2cc43143ff65edf1071013e67e";
+    version = "ebd6abcbd5f6b31b7b4cadca0a546d9f0eab9ad3";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "6668271661857b2cc43143ff65edf1071013e67e";
+      rev = "ebd6abcbd5f6b31b7b4cadca0a546d9f0eab9ad3";
       fetchSubmodules = false;
-      sha256 = "sha256-wZTf6+ecN/zDBdSkD3bIFMXYgePzad868pVwFfdlBEk=";
+      sha256 = "sha256-0ycNTc3Jgd6oc1zOq/wxci4ooaeVLphkGV2e2pJ1pL0=";
     });
   };
   cinny = {
@@ -956,16 +956,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "aabe08d657fc28d7b6229b48dbdc2b6639d5bedc";
+    version = "2762f541e26cdc2153a937b5af02024cb5bbcf24";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "aabe08d657fc28d7b6229b48dbdc2b6639d5bedc";
+      rev = "2762f541e26cdc2153a937b5af02024cb5bbcf24";
       fetchSubmodules = false;
-      sha256 = "sha256-z8RRXWXRokm4tk1BSkt1ESL/IEZ7CRc1QZJTnJB4GeY=";
+      sha256 = "sha256-I+Us39+oBcvGTVJ7KVLX/w6C/cLqPsAtdExdvp79978=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-aabe08d657fc28d7b6229b48dbdc2b6639d5bedc/Cargo.lock;
+      lockFile = ./rustdesk-2762f541e26cdc2153a937b5af02024cb5bbcf24/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1235,7 +1235,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "5c32e365d2af51b083ab966133306d75e0fec65d";
+    version = "6d3ae2906d384a32ad2ae27afbaab2c1e4105d49";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
