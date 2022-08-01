@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "100d29d34dbc4fb4223d771cd1ec8c14cd64357c",
-            "sha256": "sha256-zaJqcPP/NIb2IxPEmrrZ3lM0HyqFNaWbP/DWXxt35gA=",
+            "rev": "a71f4114b05607778cbcc8c8cb4c0e0386cc7aea",
+            "sha256": "sha256-H8PZ46oOnhkjuhBvbTPAo+GZ4cQmhyyspvI0/vC3Hxw=",
             "type": "github"
         },
-        "version": "100d29d34dbc4fb4223d771cd1ec8c14cd64357c"
+        "version": "a71f4114b05607778cbcc8c8cb4c0e0386cc7aea"
     },
     "ibus": {
         "cargoLocks": null,
@@ -890,11 +890,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u/NTXOuxJkGM7ubS4DB7LuL0KJmmFUexOy7TrLCOC34=",
+            "sha256": "sha256-YB66NYmonbVgKpzv2pyQv7r0hYKDeBAngxrE4yWPp0o=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jicofo_1.0-910-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jicofo_1.0-911-1_all.deb"
         },
-        "version": "1.0-910"
+        "version": "1.0-911"
     },
     "jitsi-meet": {
         "cargoLocks": null,
@@ -1999,11 +1999,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "357fd85ecf41787231a621c26715b0de90c90b95",
-            "sha256": "sha256-2YSa6jEI68iu+MmA9a/4ZxqPY4Hpv5ta2TyzbMK52KY=",
+            "rev": "b905db7a56dfd750899fb7128306e9561e13b1b6",
+            "sha256": "sha256-OlKa7CBs61I0jN5ZqfGpvIiOPPjysQJhSX5Eu1IheUI=",
             "type": "github"
         },
-        "version": "357fd85ecf41787231a621c26715b0de90c90b95"
+        "version": "b905db7a56dfd750899fb7128306e9561e13b1b6"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2050,7 +2050,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "6d3ae2906d384a32ad2ae27afbaab2c1e4105d49"
+        "version": "68fd22ef02d6b310e3cf47b2af1aa041b01c2a43"
     },
     "ulauncher": {
         "cargoLocks": null,

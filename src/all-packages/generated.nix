@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "100d29d34dbc4fb4223d771cd1ec8c14cd64357c";
+    version = "a71f4114b05607778cbcc8c8cb4c0e0386cc7aea";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "100d29d34dbc4fb4223d771cd1ec8c14cd64357c";
+      rev = "a71f4114b05607778cbcc8c8cb4c0e0386cc7aea";
       fetchSubmodules = false;
-      sha256 = "sha256-zaJqcPP/NIb2IxPEmrrZ3lM0HyqFNaWbP/DWXxt35gA=";
+      sha256 = "sha256-H8PZ46oOnhkjuhBvbTPAo+GZ4cQmhyyspvI0/vC3Hxw=";
     });
   };
   ibus = {
@@ -537,10 +537,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-910";
+    version = "1.0-911";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-910-1_all.deb";
-      sha256 = "sha256-u/NTXOuxJkGM7ubS4DB7LuL0KJmmFUexOy7TrLCOC34=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-911-1_all.deb";
+      sha256 = "sha256-YB66NYmonbVgKpzv2pyQv7r0hYKDeBAngxrE4yWPp0o=";
     };
   };
   jitsi-meet = {
@@ -1205,13 +1205,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "357fd85ecf41787231a621c26715b0de90c90b95";
+    version = "b905db7a56dfd750899fb7128306e9561e13b1b6";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "357fd85ecf41787231a621c26715b0de90c90b95";
+      rev = "b905db7a56dfd750899fb7128306e9561e13b1b6";
       fetchSubmodules = false;
-      sha256 = "sha256-2YSa6jEI68iu+MmA9a/4ZxqPY4Hpv5ta2TyzbMK52KY=";
+      sha256 = "sha256-OlKa7CBs61I0jN5ZqfGpvIiOPPjysQJhSX5Eu1IheUI=";
     });
   };
   tailscale-systray = {
@@ -1235,7 +1235,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "6d3ae2906d384a32ad2ae27afbaab2c1e4105d49";
+    version = "68fd22ef02d6b310e3cf47b2af1aa041b01c2a43";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
