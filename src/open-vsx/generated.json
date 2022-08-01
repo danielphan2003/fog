@@ -392,11 +392,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XF4OyHlTdlOh87UgOSko2hAT7IDZnNswMf8WYTfXFas=",
+            "sha256": "sha256-rpzeJ134tAscl2J1T59y/CokmpCzN2tVLMgAmw5XzPs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.21.0/file/BeardedBear.beardedicons-0.21.0.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.0/file/BeardedBear.beardedicons-0.23.0.vsix"
         },
-        "version": "0.21.0"
+        "version": "0.23.0"
     },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
@@ -12666,11 +12666,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iliAZf2u0WpUctm+3dbnzczR//DdoOfagaiHDTKywek=",
+            "sha256": "sha256-ns8Jjf4Zl0AMf4OOn/WqccP1eQ3++NjTy0ZQ2VwLO1U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.105.4/file/dendron.nightly-0.105.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.105.5/file/dendron.nightly-0.105.5.vsix"
         },
-        "version": "0.105.4"
+        "version": "0.105.5"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -17416,11 +17416,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BmaC4YOSo1yZFZd5cmuY6C1f8Nr5AhWlAjTLLRxFp/U=",
+            "sha256": "sha256-Y8KddkhmIVq1xHKkk2EzofRSjzaTzdKw4HmKdV28mZg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.27/file/iljapostnovs.ui5plugin-0.14.27.vsix"
+            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.28/file/iljapostnovs.ui5plugin-0.14.28.vsix"
         },
-        "version": "0.14.27"
+        "version": "0.14.28"
     },
     "ilkka-google-java-format": {
         "cargoLocks": null,
@@ -31324,11 +31324,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xZqNSoTe/Ru+ZjIFWq95ipMascdEjciNfKfvqC1j6dw=",
+            "sha256": "sha256-UtEgdTs48t5dsN0F91HvX3mVS0vMeIhekBmLClEdbes=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.44/file/t-codespaces.ide-data-sync-0.0.44.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.45/file/t-codespaces.ide-data-sync-0.0.45.vsix"
         },
-        "version": "0.0.44"
+        "version": "0.0.45"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,

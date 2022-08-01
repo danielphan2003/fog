@@ -243,10 +243,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.21.0";
+    version = "0.23.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.21.0/file/BeardedBear.beardedicons-0.21.0.vsix";
-      sha256 = "sha256-XF4OyHlTdlOh87UgOSko2hAT7IDZnNswMf8WYTfXFas=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.0/file/BeardedBear.beardedicons-0.23.0.vsix";
+      sha256 = "sha256-rpzeJ134tAscl2J1T59y/CokmpCzN2tVLMgAmw5XzPs=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -7995,10 +7995,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.105.4";
+    version = "0.105.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.105.4/file/dendron.nightly-0.105.4.vsix";
-      sha256 = "sha256-iliAZf2u0WpUctm+3dbnzczR//DdoOfagaiHDTKywek=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.105.5/file/dendron.nightly-0.105.5.vsix";
+      sha256 = "sha256-ns8Jjf4Zl0AMf4OOn/WqccP1eQ3++NjTy0ZQ2VwLO1U=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -10995,10 +10995,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.27";
+    version = "0.14.28";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.27/file/iljapostnovs.ui5plugin-0.14.27.vsix";
-      sha256 = "sha256-BmaC4YOSo1yZFZd5cmuY6C1f8Nr5AhWlAjTLLRxFp/U=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.28/file/iljapostnovs.ui5plugin-0.14.28.vsix";
+      sha256 = "sha256-Y8KddkhmIVq1xHKkk2EzofRSjzaTzdKw4HmKdV28mZg=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -19779,10 +19779,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.0.44";
+    version = "0.0.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.44/file/t-codespaces.ide-data-sync-0.0.44.vsix";
-      sha256 = "sha256-xZqNSoTe/Ru+ZjIFWq95ipMascdEjciNfKfvqC1j6dw=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.0.45/file/t-codespaces.ide-data-sync-0.0.45.vsix";
+      sha256 = "sha256-UtEgdTs48t5dsN0F91HvX3mVS0vMeIhekBmLClEdbes=";
     };
     license = "";
     name = "ide-data-sync";
