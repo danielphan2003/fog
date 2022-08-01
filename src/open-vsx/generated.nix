@@ -447,10 +447,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.0";
+    version = "3.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.0/file/CL.eide-3.8.0.vsix";
-      sha256 = "sha256-fkcMVk6QWgzI3kiCDj4afl6Z9iQ3T5tz4vjrhwzUQKw=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.1/file/CL.eide-3.8.1.vsix";
+      sha256 = "sha256-LtvYFOfQSM82laDp2oIqS68t1Fj4IwsVjuZRs53aNQw=";
     };
     license = "MIT";
     name = "eide";
@@ -1260,6 +1260,18 @@
     name = "vscode-rescript-relay";
     description = "Improve quality-of-life of using RescriptRelay with VSCode.";
     publisher = "GabrielNordeborn";
+  };
+  GenieBuilder-geniebuilder = {
+    pname = "GenieBuilder-geniebuilder";
+    version = "0.1.9";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.9/file/GenieBuilder.geniebuilder-0.1.9.vsix";
+      sha256 = "sha256-VN+ADy6f+V/mh6F6yPro5sP+BdLvOA4Gasit3zBHJcQ=";
+    };
+    license = "";
+    name = "geniebuilder";
+    description = "No-code UI builder for Genie/Julia applications";
+    publisher = "GenieBuilder";
   };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
@@ -2991,10 +3003,10 @@
   };
   PrateekMahendrakar-resxpress = {
     pname = "PrateekMahendrakar-resxpress";
-    version = "4.7.0";
+    version = "4.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.7.0/file/PrateekMahendrakar.resxpress-4.7.0.vsix";
-      sha256 = "sha256-8wtwdZz8G19uXIgSbaN3t9QCoa6S/tesCdCNmtIfAn8=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.8.0/file/PrateekMahendrakar.resxpress-4.8.0.vsix";
+      sha256 = "sha256-iNZXwPDe2kHW52/mCA4r1r5M3V16X/4NQiUfW4cxkGI=";
     };
     license = "MIT";
     name = "resxpress";
@@ -3015,10 +3027,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1239";
+    version = "31.0.1240";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1239/file/Prisma.prisma-insider-31.0.1239.vsix";
-      sha256 = "sha256-/02YquJ+mAOaYMVHaMqaYyhg7WvFl/738ZxNqefLCMg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1240/file/Prisma.prisma-insider-31.0.1240.vsix";
+      sha256 = "sha256-elsnvzJAqCNVgNziAUeRzuzVXUkc7XaFPPDp0HIhGLc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7563,10 +7575,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.18.5";
+    version = "0.18.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.5/file/cyrusfirheir.twee3-language-tools-0.18.5.vsix";
-      sha256 = "sha256-iQqzKiGZtP7uTAqZ04eRZn/yEWUq5ZQRKjPplMQbPRE=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.7/file/cyrusfirheir.twee3-language-tools-0.18.7.vsix";
+      sha256 = "sha256-gnflA/VPvPsrVSyrL38ig1QNrsv9oHaT7OMQN16INwQ=";
     };
     license = "MIT";
     name = "twee3-language-tools";
@@ -9963,10 +9975,10 @@
   };
   grain-lang-vscode-grain = {
     pname = "grain-lang-vscode-grain";
-    version = "0.18.1";
+    version = "0.18.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.18.1/file/grain-lang.vscode-grain-0.18.1.vsix";
-      sha256 = "sha256-FzOxIkBQwIAib7LQgb7mzHYNSDJoG3CgmsUiIhWovrc=";
+      url = "https://open-vsx.org/api/grain-lang/vscode-grain/0.18.2/file/grain-lang.vscode-grain-0.18.2.vsix";
+      sha256 = "sha256-KqRIHy9HRtSx0MI8RUsIlbuNrHSj0w7x5Vib4wGC5yg=";
     };
     license = "MIT";
     name = "vscode-grain";
@@ -11567,6 +11579,18 @@
     license = "MIT";
     name = "better-dockerfile-syntax";
     description = "An update to the syntax of Dockerfile";
+    publisher = "jeff-hykin";
+  };
+  jeff-hykin-simple-csv-syntax = {
+    pname = "jeff-hykin-simple-csv-syntax";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jeff-hykin/simple-csv-syntax/0.0.2/file/jeff-hykin.simple-csv-syntax-0.0.2.vsix";
+      sha256 = "sha256-MicXLVnwA0eazRZSF62XlHm7Ps3DmtBq0BXGADEkknw=";
+    };
+    license = "MIT";
+    name = "simple-csv-syntax";
+    description = "";
     publisher = "jeff-hykin";
   };
   jeppeandersen-vscode-kafka = {
@@ -14293,6 +14317,18 @@
     description = "An Azure Functions extension for Visual Studio Code.";
     publisher = "ms-azuretools";
   };
+  ms-azuretools-vscode-azureresourcegroups = {
+    pname = "ms-azuretools-vscode-azureresourcegroups";
+    version = "0.5.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azureresourcegroups/0.5.5/file/ms-azuretools.vscode-azureresourcegroups-0.5.5.vsix";
+      sha256 = "sha256-5j/rZEnnJFbwUuqzVXUT9HiYElG/6BM6sGND40i5grk=";
+    };
+    license = "MIT";
+    name = "vscode-azureresourcegroups";
+    description = "An extension for viewing and managing Azure resources.";
+    publisher = "ms-azuretools";
+  };
   ms-azuretools-vscode-docker = {
     pname = "ms-azuretools-vscode-docker";
     version = "1.22.1";
@@ -15471,10 +15507,10 @@
   };
   nicoespeon-abracadabra = {
     pname = "nicoespeon-abracadabra";
-    version = "6.14.4";
+    version = "6.15.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.4/file/nicoespeon.abracadabra-6.14.4.vsix";
-      sha256 = "sha256-NJdy43l2ujDQOflNapMaUAFr4nr2MznvnILzuodUrPk=";
+      url = "https://open-vsx.org/api/nicoespeon/abracadabra/6.15.3/file/nicoespeon.abracadabra-6.15.3.vsix";
+      sha256 = "sha256-VhorGQ6jYcRX+x80opfm+2Ypi5hdRrVkQnk5AVhiT2g=";
     };
     license = "MIT";
     name = "abracadabra";

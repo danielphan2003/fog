@@ -715,11 +715,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fkcMVk6QWgzI3kiCDj4afl6Z9iQ3T5tz4vjrhwzUQKw=",
+            "sha256": "sha256-LtvYFOfQSM82laDp2oIqS68t1Fj4IwsVjuZRs53aNQw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.8.0/file/CL.eide-3.8.0.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.8.1/file/CL.eide-3.8.1.vsix"
         },
-        "version": "3.8.0"
+        "version": "3.8.1"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -1993,6 +1993,25 @@
             "url": "https://open-vsx.org/api/GabrielNordeborn/vscode-rescript-relay/0.10.0/file/GabrielNordeborn.vscode-rescript-relay-0.10.0.vsix"
         },
         "version": "0.10.0"
+    },
+    "GenieBuilder-geniebuilder": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "GenieBuilder-geniebuilder",
+        "passthru": {
+            "description": "No-code UI builder for Genie/Julia applications",
+            "license": "",
+            "name": "geniebuilder",
+            "publisher": "GenieBuilder"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-VN+ADy6f+V/mh6F6yPro5sP+BdLvOA4Gasit3zBHJcQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.9/file/GenieBuilder.geniebuilder-0.1.9.vsix"
+        },
+        "version": "0.1.9"
     },
     "GitHub-github-vscode-theme": {
         "cargoLocks": null,
@@ -4743,11 +4762,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8wtwdZz8G19uXIgSbaN3t9QCoa6S/tesCdCNmtIfAn8=",
+            "sha256": "sha256-iNZXwPDe2kHW52/mCA4r1r5M3V16X/4NQiUfW4cxkGI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.7.0/file/PrateekMahendrakar.resxpress-4.7.0.vsix"
+            "url": "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.8.0/file/PrateekMahendrakar.resxpress-4.8.0.vsix"
         },
-        "version": "4.7.0"
+        "version": "4.8.0"
     },
     "Prisma-prisma": {
         "cargoLocks": null,
@@ -4781,11 +4800,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/02YquJ+mAOaYMVHaMqaYyhg7WvFl/738ZxNqefLCMg=",
+            "sha256": "sha256-elsnvzJAqCNVgNziAUeRzuzVXUkc7XaFPPDp0HIhGLc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1239/file/Prisma.prisma-insider-31.0.1239.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1240/file/Prisma.prisma-insider-31.0.1240.vsix"
         },
-        "version": "31.0.1239"
+        "version": "31.0.1240"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -11982,11 +12001,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iQqzKiGZtP7uTAqZ04eRZn/yEWUq5ZQRKjPplMQbPRE=",
+            "sha256": "sha256-gnflA/VPvPsrVSyrL38ig1QNrsv9oHaT7OMQN16INwQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.5/file/cyrusfirheir.twee3-language-tools-0.18.5.vsix"
+            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.7/file/cyrusfirheir.twee3-language-tools-0.18.7.vsix"
         },
-        "version": "0.18.5"
+        "version": "0.18.7"
     },
     "d-biehl-robotcode": {
         "cargoLocks": null,
@@ -15782,11 +15801,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FzOxIkBQwIAib7LQgb7mzHYNSDJoG3CgmsUiIhWovrc=",
+            "sha256": "sha256-KqRIHy9HRtSx0MI8RUsIlbuNrHSj0w7x5Vib4wGC5yg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.18.1/file/grain-lang.vscode-grain-0.18.1.vsix"
+            "url": "https://open-vsx.org/api/grain-lang/vscode-grain/0.18.2/file/grain-lang.vscode-grain-0.18.2.vsix"
         },
-        "version": "0.18.1"
+        "version": "0.18.2"
     },
     "grammarcraft-epsilon-eag": {
         "cargoLocks": null,
@@ -18314,6 +18333,25 @@
             "url": "https://open-vsx.org/api/jeff-hykin/better-dockerfile-syntax/1.0.2/file/jeff-hykin.better-dockerfile-syntax-1.0.2.vsix"
         },
         "version": "1.0.2"
+    },
+    "jeff-hykin-simple-csv-syntax": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jeff-hykin-simple-csv-syntax",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "simple-csv-syntax",
+            "publisher": "jeff-hykin"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-MicXLVnwA0eazRZSF62XlHm7Ps3DmtBq0BXGADEkknw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jeff-hykin/simple-csv-syntax/0.0.2/file/jeff-hykin.simple-csv-syntax-0.0.2.vsix"
+        },
+        "version": "0.0.2"
     },
     "jeppeandersen-vscode-kafka": {
         "cargoLocks": null,
@@ -22628,6 +22666,25 @@
         },
         "version": "1.7.4"
     },
+    "ms-azuretools-vscode-azureresourcegroups": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-azuretools-vscode-azureresourcegroups",
+        "passthru": {
+            "description": "An extension for viewing and managing Azure resources.",
+            "license": "MIT",
+            "name": "vscode-azureresourcegroups",
+            "publisher": "ms-azuretools"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-5j/rZEnnJFbwUuqzVXUT9HiYElG/6BM6sGND40i5grk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-azuretools/vscode-azureresourcegroups/0.5.5/file/ms-azuretools.vscode-azureresourcegroups-0.5.5.vsix"
+        },
+        "version": "0.5.5"
+    },
     "ms-azuretools-vscode-docker": {
         "cargoLocks": null,
         "extract": null,
@@ -24503,11 +24560,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NJdy43l2ujDQOflNapMaUAFr4nr2MznvnILzuodUrPk=",
+            "sha256": "sha256-VhorGQ6jYcRX+x80opfm+2Ypi5hdRrVkQnk5AVhiT2g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nicoespeon/abracadabra/6.14.4/file/nicoespeon.abracadabra-6.14.4.vsix"
+            "url": "https://open-vsx.org/api/nicoespeon/abracadabra/6.15.3/file/nicoespeon.abracadabra-6.15.3.vsix"
         },
-        "version": "6.14.4"
+        "version": "6.15.3"
     },
     "nimsaem-nimvscode": {
         "cargoLocks": null,
