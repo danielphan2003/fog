@@ -4383,10 +4383,10 @@
   };
   aaron-bond-better-comments = {
     pname = "aaron-bond-better-comments";
-    version = "3.0.0";
+    version = "3.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/aaron-bond/better-comments/3.0.0/file/aaron-bond.better-comments-3.0.0.vsix";
-      sha256 = "sha256-gZDsUXFM7BENAK7sNDdke+FmXWGJezL7nDslPUTeD80=";
+      url = "https://open-vsx.org/api/aaron-bond/better-comments/3.0.2/file/aaron-bond.better-comments-3.0.2.vsix";
+      sha256 = "sha256-Eesevmmz2FnJ7NQCbYOrK320EGnm3UDa++EvVDSNeBc=";
     };
     license = "MIT";
     name = "better-comments";
@@ -5703,10 +5703,10 @@
   };
   asvetliakov-vscode-neovim = {
     pname = "asvetliakov-vscode-neovim";
-    version = "0.0.88";
+    version = "0.0.89";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.88/file/asvetliakov.vscode-neovim-0.0.88.vsix";
-      sha256 = "sha256-3xyzCMG2iYQj6snHQUBwzayCB/mtb+KjJceiMF70T28=";
+      url = "https://open-vsx.org/api/asvetliakov/vscode-neovim/0.0.89/file/asvetliakov.vscode-neovim-0.0.89.vsix";
+      sha256 = "sha256-4GJ9MK322M+u4Jn5+ptWaqKf05bYAxqFKc3bs195MXs=";
     };
     license = "MIT";
     name = "vscode-neovim";
@@ -6687,10 +6687,10 @@
   };
   carlocardella-vscode-texttoolbox = {
     pname = "carlocardella-vscode-texttoolbox";
-    version = "2.4.0";
+    version = "2.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.4.0/file/carlocardella.vscode-texttoolbox-2.4.0.vsix";
-      sha256 = "sha256-AXv54wE9PQn3E48yTEtd1sgWum4mLaGV6ZOJonbpoU8=";
+      url = "https://open-vsx.org/api/carlocardella/vscode-texttoolbox/2.6.0/file/carlocardella.vscode-texttoolbox-2.6.0.vsix";
+      sha256 = "sha256-cE9hLsMdsfrnh5IqUJFxj+0ZVgstrsJ1T9+A85lyKM4=";
     };
     license = "MIT";
     name = "vscode-texttoolbox";
@@ -8451,10 +8451,10 @@
   };
   ecmel-vscode-html-css = {
     pname = "ecmel-vscode-html-css";
-    version = "1.13.0";
+    version = "1.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.13.0/file/ecmel.vscode-html-css-1.13.0.vsix";
-      sha256 = "sha256-lAhJxI8mVik7vmfUmJHE8Ce26jC1/SbFnr4TvH4JEj8=";
+      url = "https://open-vsx.org/api/ecmel/vscode-html-css/1.13.1/file/ecmel.vscode-html-css-1.13.1.vsix";
+      sha256 = "sha256-QAeFAxv6aCFIEFtPzcllQyg27xIMSZbssZfPmDVQ/mw=";
     };
     license = "MIT";
     name = "vscode-html-css";
@@ -13431,10 +13431,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.2.3";
+    version = "4.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.3/file/matepek.vscode-catch2-test-adapter-4.2.3.vsix";
-      sha256 = "sha256-+TCMVK3bfFzMLQN6Gq+Lx+ERhed62Zl1tnsLEbY01FQ=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.5/file/matepek.vscode-catch2-test-adapter-4.2.5.vsix";
+      sha256 = "sha256-/KPXHCPV3XHtvtfBQkoAsMlMeKNNwHvLC0LyucHCluA=";
     };
     license = "MIT";
     name = "vscode-catch2-test-adapter";
@@ -14859,10 +14859,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220728";
+    version = "4.8.20220731";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220728/file/ms-vscode.vscode-typescript-next-4.8.20220728.vsix";
-      sha256 = "sha256-fV52MJZb8cfEuVRLnNbsdV9S1Zhjuab2d3s/VXnPdnw=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220731/file/ms-vscode.vscode-typescript-next-4.8.20220731.vsix";
+      sha256 = "sha256-xPn1vLTBCKGUwQOJ8nnVbAfcWVuwRO3eHgUpk2X3Fjc=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -21795,10 +21795,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.13.0";
+    version = "11.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.13.0/file/vscode-icons-team.vscode-icons-11.13.0.vsix";
-      sha256 = "sha256-wLVnrWOWQLpvXMAX3UTk+l2oPNjXf3Mhjxy6ScP4U14=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.14.0/file/vscode-icons-team.vscode-icons-11.14.0.vsix";
+      sha256 = "sha256-VePm35QEd8wHNBC1AbmIB7h0dKeyzgENySaC5/jWTZs=";
     };
     license = "MIT";
     name = "vscode-icons";
