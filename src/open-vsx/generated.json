@@ -15668,11 +15668,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uHPiubMcKFqikbSt85VgRBi1CbEK0E7K/ZAKvlAB82M=",
+            "sha256": "sha256-6MgywAAMHycZJ5ApiE4nLLYe3pyUyiQys3ADDBn5ZpA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.15.0/file/golf1052.base16-generator-1.15.0.vsix"
+            "url": "https://open-vsx.org/api/golf1052/base16-generator/1.16.0/file/golf1052.base16-generator-1.16.0.vsix"
         },
-        "version": "1.15.0"
+        "version": "1.16.0"
     },
     "golf1052-code-sync": {
         "cargoLocks": null,
@@ -29158,11 +29158,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+t9hpPdhIZe2No4nNeOlb4tokR5ys35v1JhV6H3rup4=",
+            "sha256": "sha256-cu5G4ivlhglNbZBCjk59cE/jvQrAxJB6SmgT08L7c5Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/serkonda7/vscode-vba/0.3.0/file/serkonda7.vscode-vba-0.3.0.vsix"
+            "url": "https://open-vsx.org/api/serkonda7/vscode-vba/0.4.0/file/serkonda7.vscode-vba-0.4.0.vsix"
         },
-        "version": "0.3.0"
+        "version": "0.4.0"
     },
     "serokell-io-michelson-debugger": {
         "cargoLocks": null,
@@ -30127,11 +30127,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CLfgpIjgq/kxrDxFGDcpmbSrwWyJ3LO9epgq4w8st/Q=",
+            "sha256": "sha256-1bc5895epT15KaatQyFJnTDozgkGKY/HQFNTboUmTNc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sourcery/sourcery/0.12.3/file/sourcery.sourcery-0.12.3.vsix"
+            "url": "https://open-vsx.org/api/sourcery/sourcery/0.12.6/file/sourcery.sourcery-0.12.6.vsix"
         },
-        "version": "0.12.3"
+        "version": "0.12.6"
     },
     "southclaws-vscode-pawn": {
         "cargoLocks": null,

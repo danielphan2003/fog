@@ -9891,10 +9891,10 @@
   };
   golf1052-base16-generator = {
     pname = "golf1052-base16-generator";
-    version = "1.15.0";
+    version = "1.16.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golf1052/base16-generator/1.15.0/file/golf1052.base16-generator-1.15.0.vsix";
-      sha256 = "sha256-uHPiubMcKFqikbSt85VgRBi1CbEK0E7K/ZAKvlAB82M=";
+      url = "https://open-vsx.org/api/golf1052/base16-generator/1.16.0/file/golf1052.base16-generator-1.16.0.vsix";
+      sha256 = "sha256-6MgywAAMHycZJ5ApiE4nLLYe3pyUyiQys3ADDBn5ZpA=";
     };
     license = "See license in LICENSE";
     name = "base16-generator";
@@ -18411,10 +18411,10 @@
   };
   serkonda7-vscode-vba = {
     pname = "serkonda7-vscode-vba";
-    version = "0.3.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.3.0/file/serkonda7.vscode-vba-0.3.0.vsix";
-      sha256 = "sha256-+t9hpPdhIZe2No4nNeOlb4tokR5ys35v1JhV6H3rup4=";
+      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.4.0/file/serkonda7.vscode-vba-0.4.0.vsix";
+      sha256 = "sha256-cu5G4ivlhglNbZBCjk59cE/jvQrAxJB6SmgT08L7c5Q=";
     };
     license = "MIT";
     name = "vscode-vba";
@@ -19023,10 +19023,10 @@
   };
   sourcery-sourcery = {
     pname = "sourcery-sourcery";
-    version = "0.12.3";
+    version = "0.12.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.3/file/sourcery.sourcery-0.12.3.vsix";
-      sha256 = "sha256-CLfgpIjgq/kxrDxFGDcpmbSrwWyJ3LO9epgq4w8st/Q=";
+      url = "https://open-vsx.org/api/sourcery/sourcery/0.12.6/file/sourcery.sourcery-0.12.6.vsix";
+      sha256 = "sha256-1bc5895epT15KaatQyFJnTDozgkGKY/HQFNTboUmTNc=";
     };
     license = "MIT";
     name = "sourcery";
