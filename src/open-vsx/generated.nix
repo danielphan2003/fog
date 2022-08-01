@@ -2809,12 +2809,24 @@
     description = "Helper to extract components from templates in Angular";
     publisher = "PKief";
   };
+  PKief-copy-branch-name = {
+    pname = "PKief-copy-branch-name";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/PKief/copy-branch-name/0.0.1/file/PKief.copy-branch-name-0.0.1.vsix";
+      sha256 = "sha256-f4zInd2/YUUtW5ONgKGp34h6dEB1k5rNCF2BwJDCDNY=";
+    };
+    license = "MIT";
+    name = "copy-branch-name";
+    description = "Extension to copy the current branch name";
+    publisher = "PKief";
+  };
   PKief-markdown-checkbox = {
     pname = "PKief-markdown-checkbox";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.0/file/PKief.markdown-checkbox-1.8.0.vsix";
-      sha256 = "sha256-e0lku9cGgfSMCk2mgowsPPtCVmkE92fgC3AZWYW87qc=";
+      url = "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.1/file/PKief.markdown-checkbox-1.8.1.vsix";
+      sha256 = "sha256-5fPG1uG2FqYbA17WWL2ovejJISu02RUYiYsxteTD3Qc=";
     };
     license = "MIT";
     name = "markdown-checkbox";
@@ -6039,10 +6051,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.290";
+    version = "2.0.291";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.290/file/betterthantomorrow.calva-2.0.290.vsix";
-      sha256 = "sha256-QArhOq39Fyyguf/wXOhUmcsTjGzycZBI2ugQoEXHj2Q=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.291/file/betterthantomorrow.calva-2.0.291.vsix";
+      sha256 = "sha256-3nOa9SdKZYH2yzhbYC9X8hRtCA2eXovSX7LRXUdPduA=";
     };
     license = "MIT";
     name = "calva";
@@ -10155,10 +10167,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.8.1";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.1/file/halcyontechltd.vscode-rpgle-0.8.1.vsix";
-      sha256 = "sha256-OFmzIyXjrN9wc+Qfg8Br48OY4sbDpVcZFzp7IIht8gA=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.2/file/halcyontechltd.vscode-rpgle-0.8.2.vsix";
+      sha256 = "sha256-a4UA2+hMh2aNPjxlZLhnND+gM4jNRjBH/Rs47c7BGNs=";
     };
     license = "MIT";
     name = "vscode-rpgle";

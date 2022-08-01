@@ -4445,6 +4445,25 @@
         },
         "version": "0.1.0"
     },
+    "PKief-copy-branch-name": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "PKief-copy-branch-name",
+        "passthru": {
+            "description": "Extension to copy the current branch name",
+            "license": "MIT",
+            "name": "copy-branch-name",
+            "publisher": "PKief"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-f4zInd2/YUUtW5ONgKGp34h6dEB1k5rNCF2BwJDCDNY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/PKief/copy-branch-name/0.0.1/file/PKief.copy-branch-name-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "PKief-markdown-checkbox": {
         "cargoLocks": null,
         "extract": null,
@@ -4458,11 +4477,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e0lku9cGgfSMCk2mgowsPPtCVmkE92fgC3AZWYW87qc=",
+            "sha256": "sha256-5fPG1uG2FqYbA17WWL2ovejJISu02RUYiYsxteTD3Qc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.0/file/PKief.markdown-checkbox-1.8.0.vsix"
+            "url": "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.1/file/PKief.markdown-checkbox-1.8.1.vsix"
         },
-        "version": "1.8.0"
+        "version": "1.8.1"
     },
     "PKief-material-icon-theme": {
         "cargoLocks": null,
@@ -9569,11 +9588,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QArhOq39Fyyguf/wXOhUmcsTjGzycZBI2ugQoEXHj2Q=",
+            "sha256": "sha256-3nOa9SdKZYH2yzhbYC9X8hRtCA2eXovSX7LRXUdPduA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.290/file/betterthantomorrow.calva-2.0.290.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.291/file/betterthantomorrow.calva-2.0.291.vsix"
         },
-        "version": "2.0.290"
+        "version": "2.0.291"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -16086,11 +16105,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OFmzIyXjrN9wc+Qfg8Br48OY4sbDpVcZFzp7IIht8gA=",
+            "sha256": "sha256-a4UA2+hMh2aNPjxlZLhnND+gM4jNRjBH/Rs47c7BGNs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.1/file/halcyontechltd.vscode-rpgle-0.8.1.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.2/file/halcyontechltd.vscode-rpgle-0.8.2.vsix"
         },
-        "version": "0.8.1"
+        "version": "0.8.2"
     },
     "hall-draw": {
         "cargoLocks": null,
