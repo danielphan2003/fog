@@ -11139,10 +11139,10 @@
   };
   ionutvmi-path-autocomplete = {
     pname = "ionutvmi-path-autocomplete";
-    version = "1.20.1";
+    version = "1.20.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.1/file/ionutvmi.path-autocomplete-1.20.1.vsix";
-      sha256 = "sha256-6AVyLwpcicl1HxP8VcABhLmpJnEPuCb1Ia2HzDbkyoo=";
+      url = "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.2/file/ionutvmi.path-autocomplete-1.20.2.vsix";
+      sha256 = "sha256-3e5R2jLi6Bze/zsidjsCIGQf1OuTSaoLYu/dLyZfN1U=";
     };
     license = "MIT";
     name = "path-autocomplete";

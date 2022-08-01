@@ -17644,11 +17644,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6AVyLwpcicl1HxP8VcABhLmpJnEPuCb1Ia2HzDbkyoo=",
+            "sha256": "sha256-3e5R2jLi6Bze/zsidjsCIGQf1OuTSaoLYu/dLyZfN1U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.1/file/ionutvmi.path-autocomplete-1.20.1.vsix"
+            "url": "https://open-vsx.org/api/ionutvmi/path-autocomplete/1.20.2/file/ionutvmi.path-autocomplete-1.20.2.vsix"
         },
-        "version": "1.20.1"
+        "version": "1.20.2"
     },
     "ionutvmi-reg": {
         "cargoLocks": null,
