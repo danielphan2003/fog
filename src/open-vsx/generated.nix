@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1241";
+    version = "31.0.1242";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1241/file/Prisma.prisma-insider-31.0.1241.vsix";
-      sha256 = "sha256-TN45m4X2NxGbkfyn5yTUd59vH/BWAiCe1o3FJJjRau8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1242/file/Prisma.prisma-insider-31.0.1242.vsix";
+      sha256 = "sha256-KlSVC0MCHPjGFDNGvT6qnkX+CHVYiP3OLXWNKx2sAmk=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8019,10 +8019,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.105.5";
+    version = "0.105.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.105.5/file/dendron.nightly-0.105.5.vsix";
-      sha256 = "sha256-ns8Jjf4Zl0AMf4OOn/WqccP1eQ3++NjTy0ZQ2VwLO1U=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.105.6/file/dendron.nightly-0.105.6.vsix";
+      sha256 = "sha256-hFyCNJa9LVbrHm7WUlB+1gFAZVPv1QuJvZhwAdifHKA=";
     };
     license = "AGPL-3.0";
     name = "nightly";
