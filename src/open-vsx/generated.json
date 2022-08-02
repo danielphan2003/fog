@@ -10791,6 +10791,25 @@
         },
         "version": "0.6.13"
     },
+    "chouzz-vscode-innosetup": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "chouzz-vscode-innosetup",
+        "passthru": {
+            "description": "Language syntax, snippets and build system for Inno Setup",
+            "license": "MIT",
+            "name": "vscode-innosetup",
+            "publisher": "chouzz"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-vFY5TtBSSNQB88KceIcYDfh5X+v4zBNT9S3Fe+WmWhk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/chouzz/vscode-innosetup/1.8.0/file/chouzz.vscode-innosetup-1.8.0.vsix"
+        },
+        "version": "1.8.0"
+    },
     "chriscamicas-openedge-abl": {
         "cargoLocks": null,
         "extract": null,
@@ -12571,11 +12590,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yF3CbovlI/ITukpxzUR9rpMT5i6L8ce2I4KqlM2z4vw=",
+            "sha256": "sha256-q0XPXuH+csCVVtipW3kusSAVLEHcdf2aIeMZMqSKVCE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.105.2/file/dendron.dendron-0.105.2.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.106.0/file/dendron.dendron-0.106.0.vsix"
         },
-        "version": "0.105.2"
+        "version": "0.106.0"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -26916,11 +26935,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ifcf89VBMERDi8r23ewwFqsE9Sm+Cx6iiaxKc6gibac=",
+            "sha256": "sha256-KbzJ1kQBf6EMsUaU/YGB64KU8eW6vFDGYYwwTP84MTQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.29.0/file/quarto.quarto-1.29.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.30.0/file/quarto.quarto-1.30.0.vsix"
         },
-        "version": "1.29.0"
+        "version": "1.30.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,

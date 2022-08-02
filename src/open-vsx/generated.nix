@@ -6817,6 +6817,18 @@
     description = "Format listfiles so they don't look like crap";
     publisher = "cheshirekow";
   };
+  chouzz-vscode-innosetup = {
+    pname = "chouzz-vscode-innosetup";
+    version = "1.8.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/chouzz/vscode-innosetup/1.8.0/file/chouzz.vscode-innosetup-1.8.0.vsix";
+      sha256 = "sha256-vFY5TtBSSNQB88KceIcYDfh5X+v4zBNT9S3Fe+WmWhk=";
+    };
+    license = "MIT";
+    name = "vscode-innosetup";
+    description = "Language syntax, snippets and build system for Inno Setup";
+    publisher = "chouzz";
+  };
   chriscamicas-openedge-abl = {
     pname = "chriscamicas-openedge-abl";
     version = "1.2.1";
@@ -7935,10 +7947,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.105.2";
+    version = "0.106.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.105.2/file/dendron.dendron-0.105.2.vsix";
-      sha256 = "sha256-yF3CbovlI/ITukpxzUR9rpMT5i6L8ce2I4KqlM2z4vw=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.106.0/file/dendron.dendron-0.106.0.vsix";
+      sha256 = "sha256-q0XPXuH+csCVVtipW3kusSAVLEHcdf2aIeMZMqSKVCE=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -16995,10 +17007,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.29.0";
+    version = "1.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.29.0/file/quarto.quarto-1.29.0.vsix";
-      sha256 = "sha256-ifcf89VBMERDi8r23ewwFqsE9Sm+Cx6iiaxKc6gibac=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.30.0/file/quarto.quarto-1.30.0.vsix";
+      sha256 = "sha256-KbzJ1kQBf6EMsUaU/YGB64KU8eW6vFDGYYwwTP84MTQ=";
     };
     license = "MIT";
     name = "quarto";
