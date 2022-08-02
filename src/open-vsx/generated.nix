@@ -2475,10 +2475,10 @@
   };
   Marko-JS-marko-vscode = {
     pname = "Marko-JS-marko-vscode";
-    version = "0.17.33";
+    version = "0.17.34";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.33/file/Marko-JS.marko-vscode-0.17.33.vsix";
-      sha256 = "sha256-7/ciqn4lfT5DeyVq8JY8ipf79rdE4T8dtV/iUNg0OiE=";
+      url = "https://open-vsx.org/api/Marko-JS/marko-vscode/0.17.34/file/Marko-JS.marko-vscode-0.17.34.vsix";
+      sha256 = "sha256-BEG4SWJxTCsScThwh9HxOEq1FmbL/7ugBtiCZJoFbrg=";
     };
     license = "MIT";
     name = "marko-vscode";
@@ -9927,10 +9927,10 @@
   };
   golf1052-base16-generator = {
     pname = "golf1052-base16-generator";
-    version = "1.16.0";
+    version = "1.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golf1052/base16-generator/1.16.0/file/golf1052.base16-generator-1.16.0.vsix";
-      sha256 = "sha256-6MgywAAMHycZJ5ApiE4nLLYe3pyUyiQys3ADDBn5ZpA=";
+      url = "https://open-vsx.org/api/golf1052/base16-generator/1.17.0/file/golf1052.base16-generator-1.17.0.vsix";
+      sha256 = "sha256-UoyTZM3ymku/NIkYLaid4PIi0HOyQrNLSOc3MJleNw8=";
     };
     license = "See license in LICENSE";
     name = "base16-generator";
@@ -10311,10 +10311,10 @@
   };
   hc-wallace-corporation = {
     pname = "hc-wallace-corporation";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hc/wallace-corporation/0.2.0/file/hc.wallace-corporation-0.2.0.vsix";
-      sha256 = "sha256-jwq1oEnQqJOrH5xirlmk9P9JbOTQuQluEzHmX1ZHFek=";
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.2.1/file/hc.wallace-corporation-0.2.1.vsix";
+      sha256 = "sha256-VDKKXthCBU1d1LdaEPJ3n8Jfx5sUerm3gZdjvHNiisk=";
     };
     license = "MIT";
     name = "wallace-corporation";
@@ -11259,10 +11259,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.13";
+    version = "0.3.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.13/file/iterative.dvc-0.3.13.vsix";
-      sha256 = "sha256-0L994y/x8YsmIEZd/r4vHFTFMZKdwovE/1LTYadXF2M=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.14/file/iterative.dvc-0.3.14.vsix";
+      sha256 = "sha256-vXw78Z2qKDmN1Sy9jpyGgEOMrxmBzWunfi4KfeHrZok=";
     };
     license = "Apache-2.0";
     name = "dvc";
