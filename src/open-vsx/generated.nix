@@ -1299,10 +1299,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.46.0";
+    version = "0.46.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.0/file/GitHub.vscode-pull-request-github-0.46.0.vsix";
-      sha256 = "sha256-DaXwyyhTbUuVOQFdDCGsTDEDi6FL3V6NmsbojwCjlx4=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.1/file/GitHub.vscode-pull-request-github-0.46.1.vsix";
+      sha256 = "sha256-Jm6ODjNyAIn/phkQFDcg1b/ja4ok6rmtm6LMEuL2J/U=";
     };
     license = "MIT";
     name = "vscode-pull-request-github";
@@ -5343,10 +5343,10 @@
   };
   appliedengdesign-vscode-gcode-syntax = {
     pname = "appliedengdesign-vscode-gcode-syntax";
-    version = "0.7.2";
+    version = "0.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.2/file/appliedengdesign.vscode-gcode-syntax-0.7.2.vsix";
-      sha256 = "sha256-a0Used95TdquUzjIo7g4kgLupIHBoAmtAiyXHBpzIDk=";
+      url = "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.4/file/appliedengdesign.vscode-gcode-syntax-0.7.4.vsix";
+      sha256 = "sha256-IRzGhB9hDqd8kr1PAYKso4aSwJJSm+0v22zm5iViftw=";
     };
     license = "MIT";
     name = "vscode-gcode-syntax";
@@ -6159,10 +6159,10 @@
   };
   bierner-markdown-mermaid = {
     pname = "bierner-markdown-mermaid";
-    version = "1.14.2";
+    version = "1.14.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.2/file/bierner.markdown-mermaid-1.14.2.vsix";
-      sha256 = "sha256-m+mFOsBvkzmPBXrIoEOa4tJn1vW641PUimERgPXs/yQ=";
+      url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.3/file/bierner.markdown-mermaid-1.14.3.vsix";
+      sha256 = "sha256-nPA2IlhtrIMvaCcKIC4UTPHIY2V52cn+GfJNf6vui9c=";
     };
     license = "MIT";
     name = "markdown-mermaid";
@@ -7359,10 +7359,10 @@
   };
   cschleiden-vscode-github-actions = {
     pname = "cschleiden-vscode-github-actions";
-    version = "0.24.1";
+    version = "0.24.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.1/file/cschleiden.vscode-github-actions-0.24.1.vsix";
-      sha256 = "sha256-hXUaCjHz4iZLrnFs5d/Onrh7Zcm9QvrtOuGkDRjb8uA=";
+      url = "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.2/file/cschleiden.vscode-github-actions-0.24.2.vsix";
+      sha256 = "sha256-ZLy/0ftGKVzMZD64uY99Gt8EL7HRewhpxpkNg3qpasg=";
     };
     license = "MIT";
     name = "vscode-github-actions";
@@ -10131,10 +10131,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.4.2";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.2/file/halcyontechltd.code-for-ibmi-1.4.2.vsix";
-      sha256 = "sha256-UWwugG2A3D79KJ0/dO2hX5EmSROWqso6GupV2MgNggY=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.2/file/halcyontechltd.code-for-ibmi-1.5.2.vsix";
+      sha256 = "sha256-Spxt3EqkJK3EzD0KYNq5GX3lMR9YVIhzRTjiWoXjl2Y=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -14055,10 +14055,10 @@
   };
   mjcrouch-perforce = {
     pname = "mjcrouch-perforce";
-    version = "4.15.3";
+    version = "4.15.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.3/file/mjcrouch.perforce-4.15.3.vsix";
-      sha256 = "sha256-uyIf9TcHw42CxCJvO5o03MOyex0hWbWOwlGoobPgjbM=";
+      url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.4/file/mjcrouch.perforce-4.15.4.vsix";
+      sha256 = "sha256-5X+s9R0cXWi2lNFBEzM1y8Bd2PLvh0F/Dgt82OTDeYo=";
     };
     license = "MIT";
     name = "perforce";
@@ -14316,6 +14316,18 @@
     name = "papercolor-vscode-redux";
     description = "Updated papercolor theme for vscode.";
     publisher = "mrworkman";
+  };
+  ms-azuretools-vscode-azureappservice = {
+    pname = "ms-azuretools-vscode-azureappservice";
+    version = "0.24.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ms-azuretools/vscode-azureappservice/0.24.3/file/ms-azuretools.vscode-azureappservice-0.24.3.vsix";
+      sha256 = "sha256-yB10x56dcmsDHSRlevXu50JgtxkOHu6gJJ8NAjUTJFM=";
+    };
+    license = "MIT";
+    name = "vscode-azureappservice";
+    description = "An Azure App Service management extension for Visual Studio Code.";
+    publisher = "ms-azuretools";
   };
   ms-azuretools-vscode-azurefunctions = {
     pname = "ms-azuretools-vscode-azurefunctions";
@@ -18675,10 +18687,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.16.5";
+    version = "0.16.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.5/file/shufo.vscode-blade-formatter-0.16.5.vsix";
-      sha256 = "sha256-qYKkrTzy1a/KK+imssaF1WvcPI9ugXdGF6c4HlBsD/k=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.6/file/shufo.vscode-blade-formatter-0.16.6.vsix";
+      sha256 = "sha256-VDomRxKBEIvgS5Cb/ICoP2XhCXnalJfyw/6pyAvoWnI=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -22575,10 +22587,10 @@
   };
   vscodevim-vim = {
     pname = "vscodevim-vim";
-    version = "1.23.1";
+    version = "1.23.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscodevim/vim/1.23.1/file/vscodevim.vim-1.23.1.vsix";
-      sha256 = "sha256-MbLotaMisBMdDqnhQ1QhTrgzoczVZtwIcX5YLhwYUFg=";
+      url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.23.2.vsix";
+      sha256 = "sha256-kFspWt2hoTTMoat1eGXaT11z1IVS2lTgRYUjFHD6Eys=";
     };
     license = "MIT";
     name = "vim";

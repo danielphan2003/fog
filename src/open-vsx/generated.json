@@ -2064,11 +2064,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DaXwyyhTbUuVOQFdDCGsTDEDi6FL3V6NmsbojwCjlx4=",
+            "sha256": "sha256-Jm6ODjNyAIn/phkQFDcg1b/ja4ok6rmtm6LMEuL2J/U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.0/file/GitHub.vscode-pull-request-github-0.46.0.vsix"
+            "url": "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.1/file/GitHub.vscode-pull-request-github-0.46.1.vsix"
         },
-        "version": "0.46.0"
+        "version": "0.46.1"
     },
     "GitLab-gitlab-workflow": {
         "cargoLocks": null,
@@ -8467,11 +8467,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a0Used95TdquUzjIo7g4kgLupIHBoAmtAiyXHBpzIDk=",
+            "sha256": "sha256-IRzGhB9hDqd8kr1PAYKso4aSwJJSm+0v22zm5iViftw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.2/file/appliedengdesign.vscode-gcode-syntax-0.7.2.vsix"
+            "url": "https://open-vsx.org/api/appliedengdesign/vscode-gcode-syntax/0.7.4/file/appliedengdesign.vscode-gcode-syntax-0.7.4.vsix"
         },
-        "version": "0.7.2"
+        "version": "0.7.4"
     },
     "appulate-filewatcher": {
         "cargoLocks": null,
@@ -9759,11 +9759,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m+mFOsBvkzmPBXrIoEOa4tJn1vW641PUimERgPXs/yQ=",
+            "sha256": "sha256-nPA2IlhtrIMvaCcKIC4UTPHIY2V52cn+GfJNf6vui9c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.2/file/bierner.markdown-mermaid-1.14.2.vsix"
+            "url": "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.3/file/bierner.markdown-mermaid-1.14.3.vsix"
         },
-        "version": "1.14.2"
+        "version": "1.14.3"
     },
     "bierner-markdown-preview-github-styles": {
         "cargoLocks": null,
@@ -11659,11 +11659,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hXUaCjHz4iZLrnFs5d/Onrh7Zcm9QvrtOuGkDRjb8uA=",
+            "sha256": "sha256-ZLy/0ftGKVzMZD64uY99Gt8EL7HRewhpxpkNg3qpasg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.1/file/cschleiden.vscode-github-actions-0.24.1.vsix"
+            "url": "https://open-vsx.org/api/cschleiden/vscode-github-actions/0.24.2/file/cschleiden.vscode-github-actions-0.24.2.vsix"
         },
-        "version": "0.24.1"
+        "version": "0.24.2"
     },
     "cschlosser-doxdocgen": {
         "cargoLocks": null,
@@ -16048,11 +16048,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UWwugG2A3D79KJ0/dO2hX5EmSROWqso6GupV2MgNggY=",
+            "sha256": "sha256-Spxt3EqkJK3EzD0KYNq5GX3lMR9YVIhzRTjiWoXjl2Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.4.2/file/halcyontechltd.code-for-ibmi-1.4.2.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.2/file/halcyontechltd.code-for-ibmi-1.5.2.vsix"
         },
-        "version": "1.4.2"
+        "version": "1.5.2"
     },
     "halcyontechltd-git-client-ibmi": {
         "cargoLocks": null,
@@ -22261,11 +22261,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uyIf9TcHw42CxCJvO5o03MOyex0hWbWOwlGoobPgjbM=",
+            "sha256": "sha256-5X+s9R0cXWi2lNFBEzM1y8Bd2PLvh0F/Dgt82OTDeYo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mjcrouch/perforce/4.15.3/file/mjcrouch.perforce-4.15.3.vsix"
+            "url": "https://open-vsx.org/api/mjcrouch/perforce/4.15.4/file/mjcrouch.perforce-4.15.4.vsix"
         },
-        "version": "4.15.3"
+        "version": "4.15.4"
     },
     "mjmlio-vscode-mjml": {
         "cargoLocks": null,
@@ -22665,6 +22665,25 @@
             "url": "https://open-vsx.org/api/mrworkman/papercolor-vscode-redux/0.10.0/file/mrworkman.papercolor-vscode-redux-0.10.0.vsix"
         },
         "version": "0.10.0"
+    },
+    "ms-azuretools-vscode-azureappservice": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ms-azuretools-vscode-azureappservice",
+        "passthru": {
+            "description": "An Azure App Service management extension for Visual Studio Code.",
+            "license": "MIT",
+            "name": "vscode-azureappservice",
+            "publisher": "ms-azuretools"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-yB10x56dcmsDHSRlevXu50JgtxkOHu6gJJ8NAjUTJFM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ms-azuretools/vscode-azureappservice/0.24.3/file/ms-azuretools.vscode-azureappservice-0.24.3.vsix"
+        },
+        "version": "0.24.3"
     },
     "ms-azuretools-vscode-azurefunctions": {
         "cargoLocks": null,
@@ -29576,11 +29595,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qYKkrTzy1a/KK+imssaF1WvcPI9ugXdGF6c4HlBsD/k=",
+            "sha256": "sha256-VDomRxKBEIvgS5Cb/ICoP2XhCXnalJfyw/6pyAvoWnI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.5/file/shufo.vscode-blade-formatter-0.16.5.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.6/file/shufo.vscode-blade-formatter-0.16.6.vsix"
         },
-        "version": "0.16.5"
+        "version": "0.16.6"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
@@ -35751,11 +35770,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MbLotaMisBMdDqnhQ1QhTrgzoczVZtwIcX5YLhwYUFg=",
+            "sha256": "sha256-kFspWt2hoTTMoat1eGXaT11z1IVS2lTgRYUjFHD6Eys=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscodevim/vim/1.23.1/file/vscodevim.vim-1.23.1.vsix"
+            "url": "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.23.2.vsix"
         },
-        "version": "1.23.1"
+        "version": "1.23.2"
     },
     "vshaxe-haxe-checkstyle": {
         "cargoLocks": null,
