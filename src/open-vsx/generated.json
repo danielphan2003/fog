@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KlSVC0MCHPjGFDNGvT6qnkX+CHVYiP3OLXWNKx2sAmk=",
+            "sha256": "sha256-ky4I2uHhhVdM+vVFSEsGZL+m3KCyyv+3Q83hxD4ORC4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1242/file/Prisma.prisma-insider-31.0.1242.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1244/file/Prisma.prisma-insider-31.0.1244.vsix"
         },
-        "version": "31.0.1242"
+        "version": "31.0.1244"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
