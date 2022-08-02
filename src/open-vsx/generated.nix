@@ -14799,10 +14799,10 @@
   };
   ms-vscode-powershell = {
     pname = "ms-vscode-powershell";
-    version = "2022.6.3";
+    version = "2022.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.6.3/file/ms-vscode.powershell-2022.6.3.vsix";
-      sha256 = "sha256-P8kakmpT3yAkKFroKttiLOV7PneOIoQOEtwImPIDHQY=";
+      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.7.2/file/ms-vscode.powershell-2022.7.2.vsix";
+      sha256 = "sha256-YL90dRmOvfbizT+hfkNu267JtG122LTMS9MHCfaMzkk=";
     };
     license = "MIT";
     name = "powershell";
@@ -14931,10 +14931,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220731";
+    version = "4.8.20220801";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220731/file/ms-vscode.vscode-typescript-next-4.8.20220731.vsix";
-      sha256 = "sha256-xPn1vLTBCKGUwQOJ8nnVbAfcWVuwRO3eHgUpk2X3Fjc=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220801/file/ms-vscode.vscode-typescript-next-4.8.20220801.vsix";
+      sha256 = "sha256-rUNZqTAZha6MMlRUQC1BHKJf0SXW02YG6pOoZwCFZTA=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -16359,10 +16359,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "1.7.1";
+    version = "1.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/1.7.1/file/phoenisx.cssvar-1.7.1.vsix";
-      sha256 = "sha256-sOf+pZgddmWKdmVEq1PS/ckmWIDgNTHPcncUHlBlhhY=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/1.8.0/file/phoenisx.cssvar-1.8.0.vsix";
+      sha256 = "sha256-zEiIxpev2Fd9AEI4VjjxrBMjH2zyrhDiE4pwMTFxkoY=";
     };
     license = "MIT";
     name = "cssvar";
@@ -21459,10 +21459,10 @@
   };
   vscjava-vscode-java-test = {
     pname = "vscjava-vscode-java-test";
-    version = "0.35.2";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.2/file/vscjava.vscode-java-test-0.35.2.vsix";
-      sha256 = "sha256-uSy0Ao1qL3Vi+WRycd7Fw9R52lDjHpXOJFWIpNW1wUo=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.36.0/file/vscjava.vscode-java-test-0.36.0.vsix";
+      sha256 = "sha256-QjysfuQBXRuYf0kbKv6/ByuqF0Z/t1UVfzgsu3gGHNs=";
     };
     license = "";
     name = "vscode-java-test";
@@ -21483,10 +21483,10 @@
   };
   vscjava-vscode-spring-boot-dashboard = {
     pname = "vscjava-vscode-spring-boot-dashboard";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.5.0/file/vscjava.vscode-spring-boot-dashboard-0.5.0.vsix";
-      sha256 = "sha256-wM/PS99bOln4gM+23N0d0CzK/SAJxHA/pbaSBMnMyX4=";
+      url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.6.0/file/vscjava.vscode-spring-boot-dashboard-0.6.0.vsix";
+      sha256 = "sha256-h2F1VQbaOr5KVJJuapgQyUmoWPxIA6IY5IT0bUNpqB0=";
     };
     license = "MIT";
     name = "vscode-spring-boot-dashboard";

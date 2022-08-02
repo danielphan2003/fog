@@ -23439,11 +23439,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P8kakmpT3yAkKFroKttiLOV7PneOIoQOEtwImPIDHQY=",
+            "sha256": "sha256-YL90dRmOvfbizT+hfkNu267JtG122LTMS9MHCfaMzkk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.6.3/file/ms-vscode.powershell-2022.6.3.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/powershell/2022.7.2/file/ms-vscode.powershell-2022.7.2.vsix"
         },
-        "version": "2022.6.3"
+        "version": "2022.7.2"
     },
     "ms-vscode-powershell-preview": {
         "cargoLocks": null,
@@ -23648,11 +23648,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xPn1vLTBCKGUwQOJ8nnVbAfcWVuwRO3eHgUpk2X3Fjc=",
+            "sha256": "sha256-rUNZqTAZha6MMlRUQC1BHKJf0SXW02YG6pOoZwCFZTA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220731/file/ms-vscode.vscode-typescript-next-4.8.20220731.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220801/file/ms-vscode.vscode-typescript-next-4.8.20220801.vsix"
         },
-        "version": "4.8.20220731"
+        "version": "4.8.20220801"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,
@@ -25909,11 +25909,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sOf+pZgddmWKdmVEq1PS/ckmWIDgNTHPcncUHlBlhhY=",
+            "sha256": "sha256-zEiIxpev2Fd9AEI4VjjxrBMjH2zyrhDiE4pwMTFxkoY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phoenisx/cssvar/1.7.1/file/phoenisx.cssvar-1.7.1.vsix"
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/1.8.0/file/phoenisx.cssvar-1.8.0.vsix"
         },
-        "version": "1.7.1"
+        "version": "1.8.0"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
@@ -33984,11 +33984,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uSy0Ao1qL3Vi+WRycd7Fw9R52lDjHpXOJFWIpNW1wUo=",
+            "sha256": "sha256-QjysfuQBXRuYf0kbKv6/ByuqF0Z/t1UVfzgsu3gGHNs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.35.2/file/vscjava.vscode-java-test-0.35.2.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-test/0.36.0/file/vscjava.vscode-java-test-0.36.0.vsix"
         },
-        "version": "0.35.2"
+        "version": "0.36.0"
     },
     "vscjava-vscode-maven": {
         "cargoLocks": null,
@@ -34022,11 +34022,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wM/PS99bOln4gM+23N0d0CzK/SAJxHA/pbaSBMnMyX4=",
+            "sha256": "sha256-h2F1VQbaOr5KVJJuapgQyUmoWPxIA6IY5IT0bUNpqB0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.5.0/file/vscjava.vscode-spring-boot-dashboard-0.5.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.6.0/file/vscjava.vscode-spring-boot-dashboard-0.6.0.vsix"
         },
-        "version": "0.5.0"
+        "version": "0.6.0"
     },
     "vscjava-vscode-spring-initializr": {
         "cargoLocks": null,
