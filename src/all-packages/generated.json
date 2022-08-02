@@ -904,11 +904,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MpP84TnR8LE4kWy3im4O0tvAOWDn/RS66MkW2X8PKco=",
+            "sha256": "sha256-zg9P/FYR4tO2iBstmlYRRLsYkJabSQf54stbqBX9WPc=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6416.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6417.tar.bz2"
         },
-        "version": "1.0.6416"
+        "version": "1.0.6417"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -918,11 +918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-F9AfWHtmDjhVyHG+Zb1m2bWAa4KEWV6EDIdMIE+ZdBI=",
+            "sha256": "sha256-y5a6NXTMbspGapQlkE+UovH6DEmYBLUgMDFumnQ1CQ4=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6416-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6417-1_all.deb"
         },
-        "version": "1.0.6416"
+        "version": "1.0.6417"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1511,11 +1511,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "7a993a5951b08a70c570c5734092be4b5e997fce",
-            "sha256": "sha256-WBbwmLErwQv4DYYZRbJYwB1cQ1S3v8xBm0Nu4wnsYuw=",
+            "rev": "6dd52d9bb1bcf209d759d256666ea02c9a36bc63",
+            "sha256": "sha256-Q2SRtfrd7vfERSkgHD2gR0hZRBhzzBlWBAY28OSI+30=",
             "type": "github"
         },
-        "version": "7a993a5951b08a70c570c5734092be4b5e997fce"
+        "version": "6dd52d9bb1bcf209d759d256666ea02c9a36bc63"
     },
     "revanced-cli": {
         "cargoLocks": null,
