@@ -8931,10 +8931,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.44";
+    version = "1.3.46";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.44/file/everscale.solidity-support-1.3.44.vsix";
-      sha256 = "sha256-loFXrUJ4HYn4fTd4g8CGieu9d4k60XRID5gagfIzuZA=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.46/file/everscale.solidity-support-1.3.46.vsix";
+      sha256 = "sha256-PR04x0iXxJR50Vl0mSFjZVhsOz5C9nzAnS0JA/Y7zT4=";
     };
     license = "Apache-2.0";
     name = "solidity-support";
@@ -16659,10 +16659,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.407";
+    version = "0.26.408";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.407/file/pokey.cursorless-0.26.407.vsix";
-      sha256 = "sha256-0elIlqsfCuD4O8EKfD3QFdWM6gO3GVP3uscv92T/gd4=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.408/file/pokey.cursorless-0.26.408.vsix";
+      sha256 = "sha256-nD429Uw5QVOBtAO6Lg/J1XferuMdYQqOralpSfDqSnw=";
     };
     license = "MIT";
     name = "cursorless";
@@ -22779,10 +22779,10 @@
   };
   waderyan-gitblame = {
     pname = "waderyan-gitblame";
-    version = "9.0.0";
+    version = "9.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/waderyan/gitblame/9.0.0/file/waderyan.gitblame-9.0.0.vsix";
-      sha256 = "sha256-bB8U1uyQpyq9F+UehzwDBcHoMKD3VQBPD2Zr2LrciOw=";
+      url = "https://open-vsx.org/api/waderyan/gitblame/9.0.1/file/waderyan.gitblame-9.0.1.vsix";
+      sha256 = "sha256-n20NLETXCJyp6x0pOSZg9RWIfLIlmpIOhZWbzM9njX8=";
     };
     license = "MIT";
     name = "gitblame";
