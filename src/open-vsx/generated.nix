@@ -2811,10 +2811,10 @@
   };
   PKief-copy-branch-name = {
     pname = "PKief-copy-branch-name";
-    version = "0.0.1";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/copy-branch-name/0.0.1/file/PKief.copy-branch-name-0.0.1.vsix";
-      sha256 = "sha256-f4zInd2/YUUtW5ONgKGp34h6dEB1k5rNCF2BwJDCDNY=";
+      url = "https://open-vsx.org/api/PKief/copy-branch-name/1.0.1/file/PKief.copy-branch-name-1.0.1.vsix";
+      sha256 = "sha256-Yog3ZP5+Y8cnkNrtIIpidK7VepB9eaonrgcCDjJzRG0=";
     };
     license = "MIT";
     name = "copy-branch-name";
@@ -10311,10 +10311,10 @@
   };
   hc-wallace-corporation = {
     pname = "hc-wallace-corporation";
-    version = "0.2.1";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hc/wallace-corporation/0.2.1/file/hc.wallace-corporation-0.2.1.vsix";
-      sha256 = "sha256-VDKKXthCBU1d1LdaEPJ3n8Jfx5sUerm3gZdjvHNiisk=";
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.2.3/file/hc.wallace-corporation-0.2.3.vsix";
+      sha256 = "sha256-HNlYX06S3TsE913/jGtLlpER+4AFFmDNpGkzV8B18n0=";
     };
     license = "MIT";
     name = "wallace-corporation";
@@ -15675,10 +15675,10 @@
   };
   nrwl-angular-console = {
     pname = "nrwl-angular-console";
-    version = "17.18.8";
+    version = "17.19.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nrwl/angular-console/17.18.8/file/nrwl.angular-console-17.18.8.vsix";
-      sha256 = "sha256-VUyOxF4CNjCaalJBplR/rXNxG72M2rHV8hXskySuufM=";
+      url = "https://open-vsx.org/api/nrwl/angular-console/17.19.1/file/nrwl.angular-console-17.19.1.vsix";
+      sha256 = "sha256-n/Yf967XaNt/P96vHA3rAi/6IiqHQv9eSZp5I4lN5c8=";
     };
     license = "MIT";
     name = "angular-console";
@@ -16827,10 +16827,10 @@
   };
   prantlf-vscode-requirejs = {
     pname = "prantlf-vscode-requirejs";
-    version = "2.0.0";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.0.0/file/prantlf.vscode-requirejs-2.0.0.vsix";
-      sha256 = "sha256-/RFxAgJ2BjOEYjtkBDaG5fXIAxFN9cH3Tdg6XgWxOMw=";
+      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.0/file/prantlf.vscode-requirejs-2.1.0.vsix";
+      sha256 = "sha256-eRrOFlcX7tBdjQP8bY+uUgi9bitndjX/lCw1r/LXshg=";
     };
     license = "MIT";
     name = "vscode-requirejs";
@@ -20091,10 +20091,10 @@
   };
   tfsec-tfsec = {
     pname = "tfsec-tfsec";
-    version = "1.10.1";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tfsec/tfsec/1.10.1/file/tfsec.tfsec-1.10.1.vsix";
-      sha256 = "sha256-meHXbEsYEStLcvAgXRtyt53EtQp0AtYDLUwEyZPKoDg=";
+      url = "https://open-vsx.org/api/tfsec/tfsec/1.11.0/file/tfsec.tfsec-1.11.0.vsix";
+      sha256 = "sha256-rLpUqbsrvgxkaN6bHCWzrq8P9xgjk0PJDqq1ikEYkqY=";
     };
     license = "MIT";
     name = "tfsec";
