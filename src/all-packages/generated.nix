@@ -640,10 +640,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "105.0.1329.1";
+    version = "105.0.1336.2";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1329.1-1_amd64.deb";
-      sha256 = "sha256-i6bsGfvbF0+Ax4D02oPz0Kdo8PD7kn2ht0EEem5HIvE=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1336.2-1_amd64.deb";
+      sha256 = "sha256-Sm8j41poy1iXfov5vvlrEcK0FZ8KWvlN6G1ADUjfJUE=";
     };
   };
   microsoft-edge-stable = {
@@ -902,13 +902,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "bde84b926f77d7ac14732e52ba686480e984b1d0";
+    version = "08cc1c986adfb8204ff2db6e917ff03280b7a40f";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "bde84b926f77d7ac14732e52ba686480e984b1d0";
+      rev = "08cc1c986adfb8204ff2db6e917ff03280b7a40f";
       fetchSubmodules = false;
-      sha256 = "sha256-GaTteCZ2jnnZsz3vsHz143Xd9RTgY8x/QQs2IiwTN8Y=";
+      sha256 = "sha256-kQ+8NT3n4udF7Q1YGq5vyDgi9qko1zShU/+Y6BR0MOg=";
     });
   };
   revanced-cli = {
@@ -1205,13 +1205,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "116f55ff6647d88f7f4a16237e28eda8d0e5b82f";
+    version = "e1309e132388e7a3434d547bcfcd52a550712059";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "116f55ff6647d88f7f4a16237e28eda8d0e5b82f";
+      rev = "e1309e132388e7a3434d547bcfcd52a550712059";
       fetchSubmodules = false;
-      sha256 = "sha256-7X5sw2l9iSVVZ6ld24EGBZ+HMOo05GCNTlAbe4j1twQ=";
+      sha256 = "sha256-9HuknAB7fygTG8MKCt/ZX2zV/qTiJI7ZkvPybv65wYg=";
     });
   };
   tailscale-systray = {

@@ -1069,11 +1069,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-i6bsGfvbF0+Ax4D02oPz0Kdo8PD7kn2ht0EEem5HIvE=",
+            "sha256": "sha256-Sm8j41poy1iXfov5vvlrEcK0FZ8KWvlN6G1ADUjfJUE=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1329.1-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1336.2-1_amd64.deb"
         },
-        "version": "105.0.1329.1"
+        "version": "105.0.1336.2"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -1511,11 +1511,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "bde84b926f77d7ac14732e52ba686480e984b1d0",
-            "sha256": "sha256-GaTteCZ2jnnZsz3vsHz143Xd9RTgY8x/QQs2IiwTN8Y=",
+            "rev": "08cc1c986adfb8204ff2db6e917ff03280b7a40f",
+            "sha256": "sha256-kQ+8NT3n4udF7Q1YGq5vyDgi9qko1zShU/+Y6BR0MOg=",
             "type": "github"
         },
-        "version": "bde84b926f77d7ac14732e52ba686480e984b1d0"
+        "version": "08cc1c986adfb8204ff2db6e917ff03280b7a40f"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1999,11 +1999,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "116f55ff6647d88f7f4a16237e28eda8d0e5b82f",
-            "sha256": "sha256-7X5sw2l9iSVVZ6ld24EGBZ+HMOo05GCNTlAbe4j1twQ=",
+            "rev": "e1309e132388e7a3434d547bcfcd52a550712059",
+            "sha256": "sha256-9HuknAB7fygTG8MKCt/ZX2zV/qTiJI7ZkvPybv65wYg=",
             "type": "github"
         },
-        "version": "116f55ff6647d88f7f4a16237e28eda8d0e5b82f"
+        "version": "e1309e132388e7a3434d547bcfcd52a550712059"
     },
     "tailscale-systray": {
         "cargoLocks": null,
