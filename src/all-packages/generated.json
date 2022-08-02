@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "9c8d32d1c2a7009b22b96bca95b8adf589e8c63d",
-            "sha256": "sha256-SpAEpRIVnR06oGsd8+cN21ptH3WLWIZMYqVrSYZe6Hw=",
+            "rev": "02fbb3a41736c4fcb962f60c7992c5370050ac26",
+            "sha256": "sha256-rFI6fvMh5DlYGI8gA+M9PEvnMwSTeIajzsx5R+KG8SY=",
             "type": "github"
         },
-        "version": "9c8d32d1c2a7009b22b96bca95b8adf589e8c63d"
+        "version": "02fbb3a41736c4fcb962f60c7992c5370050ac26"
     },
     "ibus": {
         "cargoLocks": null,
@@ -904,11 +904,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zg9P/FYR4tO2iBstmlYRRLsYkJabSQf54stbqBX9WPc=",
+            "sha256": "sha256-DvUomEvXVo11T/PrUHfFOxVOBzg4mDbcwxv71e9VM8w=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6417.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6418.tar.bz2"
         },
-        "version": "1.0.6417"
+        "version": "1.0.6418"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -918,11 +918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-y5a6NXTMbspGapQlkE+UovH6DEmYBLUgMDFumnQ1CQ4=",
+            "sha256": "sha256-5hvu/9cEMRFvnmvsKycw+uk9xw3qJrDc/V/O5/b9qtY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6417-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6418-1_all.deb"
         },
-        "version": "1.0.6417"
+        "version": "1.0.6418"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1999,11 +1999,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "e1309e132388e7a3434d547bcfcd52a550712059",
-            "sha256": "sha256-9HuknAB7fygTG8MKCt/ZX2zV/qTiJI7ZkvPybv65wYg=",
+            "rev": "9dfcdbf478a3aaa7fe68f863102922bb2e01e2f5",
+            "sha256": "sha256-z1jsLWm+YiuSt/MzM283lXcYMFyjjxbXlo4MZLaL/D0=",
             "type": "github"
         },
-        "version": "e1309e132388e7a3434d547bcfcd52a550712059"
+        "version": "9dfcdbf478a3aaa7fe68f863102922bb2e01e2f5"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2065,11 +2065,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "5e9e65ac639a959a0d43110d12bea76100f7cf0f",
-            "sha256": "sha256-pOicKr83lzGPlpi+oTOxYT7jlBDuubbIikXe5C7M6tk=",
+            "rev": "76857e5a9309bbbdaf8669a8dd25701a3fb17abf",
+            "sha256": "sha256-8jURPLmIpUWCYcstdHZKyRcXq3hIITBNIgLbyOzxpeI=",
             "type": "github"
         },
-        "version": "5e9e65ac639a959a0d43110d12bea76100f7cf0f"
+        "version": "76857e5a9309bbbdaf8669a8dd25701a3fb17abf"
     },
     "uniemoji": {
         "cargoLocks": null,

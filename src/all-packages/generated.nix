@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9c8d32d1c2a7009b22b96bca95b8adf589e8c63d";
+    version = "02fbb3a41736c4fcb962f60c7992c5370050ac26";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "9c8d32d1c2a7009b22b96bca95b8adf589e8c63d";
+      rev = "02fbb3a41736c4fcb962f60c7992c5370050ac26";
       fetchSubmodules = false;
-      sha256 = "sha256-SpAEpRIVnR06oGsd8+cN21ptH3WLWIZMYqVrSYZe6Hw=";
+      sha256 = "sha256-rFI6fvMh5DlYGI8gA+M9PEvnMwSTeIajzsx5R+KG8SY=";
     });
   };
   ibus = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6417";
+    version = "1.0.6418";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6417.tar.bz2";
-      sha256 = "sha256-zg9P/FYR4tO2iBstmlYRRLsYkJabSQf54stbqBX9WPc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6418.tar.bz2";
+      sha256 = "sha256-DvUomEvXVo11T/PrUHfFOxVOBzg4mDbcwxv71e9VM8w=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6417";
+    version = "1.0.6418";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6417-1_all.deb";
-      sha256 = "sha256-y5a6NXTMbspGapQlkE+UovH6DEmYBLUgMDFumnQ1CQ4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6418-1_all.deb";
+      sha256 = "sha256-5hvu/9cEMRFvnmvsKycw+uk9xw3qJrDc/V/O5/b9qtY=";
     };
   };
   jitsi-videobridge2 = {
@@ -1205,13 +1205,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "e1309e132388e7a3434d547bcfcd52a550712059";
+    version = "9dfcdbf478a3aaa7fe68f863102922bb2e01e2f5";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "e1309e132388e7a3434d547bcfcd52a550712059";
+      rev = "9dfcdbf478a3aaa7fe68f863102922bb2e01e2f5";
       fetchSubmodules = false;
-      sha256 = "sha256-9HuknAB7fygTG8MKCt/ZX2zV/qTiJI7ZkvPybv65wYg=";
+      sha256 = "sha256-z1jsLWm+YiuSt/MzM283lXcYMFyjjxbXlo4MZLaL/D0=";
     });
   };
   tailscale-systray = {
@@ -1243,13 +1243,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "5e9e65ac639a959a0d43110d12bea76100f7cf0f";
+    version = "76857e5a9309bbbdaf8669a8dd25701a3fb17abf";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "5e9e65ac639a959a0d43110d12bea76100f7cf0f";
+      rev = "76857e5a9309bbbdaf8669a8dd25701a3fb17abf";
       fetchSubmodules = false;
-      sha256 = "sha256-pOicKr83lzGPlpi+oTOxYT7jlBDuubbIikXe5C7M6tk=";
+      sha256 = "sha256-8jURPLmIpUWCYcstdHZKyRcXq3hIITBNIgLbyOzxpeI=";
     });
   };
   uniemoji = {
