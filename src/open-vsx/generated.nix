@@ -807,10 +807,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.44.0";
+    version = "3.46.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.44.0/file/Dart-Code.dart-code-3.44.0.vsix";
-      sha256 = "sha256-qJOjgV+3dWnLGp/uvyp4VRdf4uVODV55pIKuEeZxHAk=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.46.0/file/Dart-Code.dart-code-3.46.0.vsix";
+      sha256 = "sha256-H+dUr+c2x0D6pyFqlZrDSYKUq7MoLmi7EPmSfzIv6iw=";
     };
     license = "MIT";
     name = "dart-code";
@@ -819,10 +819,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.44.0";
+    version = "3.46.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.44.0/file/Dart-Code.flutter-3.44.0.vsix";
-      sha256 = "sha256-yYYVzMH9IlPC6s2rxxd8A5Xc0iNynjbD+Htd+9AlNss=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.46.0/file/Dart-Code.flutter-3.46.0.vsix";
+      sha256 = "sha256-8TDGtSrMy93kjyG/EoUppxo9SiMbqLD9+iWNtcz/rc8=";
     };
     license = "MIT";
     name = "flutter";
@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1244";
+    version = "31.0.1246";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1244/file/Prisma.prisma-insider-31.0.1244.vsix";
-      sha256 = "sha256-ky4I2uHhhVdM+vVFSEsGZL+m3KCyyv+3Q83hxD4ORC4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1246/file/Prisma.prisma-insider-31.0.1246.vsix";
+      sha256 = "sha256-2Fz9OAVZyx/Ez+Ja+EyImPMRH7NWRPGklsO7z19WGnY=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10299,10 +10299,10 @@
   };
   hc-wallace-corporation = {
     pname = "hc-wallace-corporation";
-    version = "0.1.8";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hc/wallace-corporation/0.1.8/file/hc.wallace-corporation-0.1.8.vsix";
-      sha256 = "sha256-zZNXV2rNJuQZum1TTREXIV0fxG03SY6geXj9xXjb8Mg=";
+      url = "https://open-vsx.org/api/hc/wallace-corporation/0.2.0/file/hc.wallace-corporation-0.2.0.vsix";
+      sha256 = "sha256-jwq1oEnQqJOrH5xirlmk9P9JbOTQuQluEzHmX1ZHFek=";
     };
     license = "MIT";
     name = "wallace-corporation";
