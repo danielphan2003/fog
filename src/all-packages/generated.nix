@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "53cbd144a7bc3a5e2c1b44c50df3657e744b012b";
+    version = "84826aec5e6b692083eb376d5f76749d3c195263";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "53cbd144a7bc3a5e2c1b44c50df3657e744b012b";
+      rev = "84826aec5e6b692083eb376d5f76749d3c195263";
       fetchSubmodules = true;
-      sha256 = "sha256-jleSNR97CGJ+2hQBCW8Txs8TDZwPYUp/yT6RGZxKShM=";
+      sha256 = "sha256-cpQzEIqZpYsgWS1cUvqxlVZetw+bOJgHGBlsGhtIGCE=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-53cbd144a7bc3a5e2c1b44c50df3657e744b012b/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-84826aec5e6b692083eb376d5f76749d3c195263/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -913,10 +913,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.8.0";
+    version = "2.8.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.8.0/revanced-cli-2.8.0-all.jar";
-      sha256 = "sha256-EEz4Bt4SHw77KHpJKdfeUhRWP9RtF5e/ZInKexaMiTU=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.8.1/revanced-cli-2.8.1-all.jar";
+      sha256 = "sha256-4xlhzkh95IgvrlstqeYvafQNOB0I1jDEWtwp94eU/6M=";
     };
   };
   revanced-integrations = {
@@ -929,18 +929,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.28.1";
+    version = "2.28.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.1/revanced-patches-2.28.1.dex";
-      sha256 = "sha256-ydp9xSzkmvJ5J3pbFdao6WiDN+f2dx9BgABBQ2DFguE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.2/revanced-patches-2.28.2.dex";
+      sha256 = "sha256-rrBJw5BnVWRQPW5k9yubu7s1J9A+zusizGjQVzpPjHc=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.28.1";
+    version = "2.28.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.1/revanced-patches-2.28.1.jar";
-      sha256 = "sha256-05lzGkJiwznxn+LiZUgPJMW5uK+ppnK2mh3/lgTMmak=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.28.2/revanced-patches-2.28.2.jar";
+      sha256 = "sha256-8rDpxMnhJeu4N9t/XNZsPPvxM+AP+fQi+CfjLVb5bZQ=";
     };
   };
   rofi-wayland = {
@@ -1059,14 +1059,14 @@
   };
   snui = {
     pname = "snui";
-    version = "281944ed182bc71eb038b77e8aaeafac15233895";
+    version = "53097fbea4e6416a7d097b609564568d5e03369f";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "281944ed182bc71eb038b77e8aaeafac15233895";
+      rev = "53097fbea4e6416a7d097b609564568d5e03369f";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-MXAhrqH1CWJsE5jRtdmpx2czy+TTv8ymEGjts8cjBaw=";
+      sha256 = "sha256-2svkwEUGtsH/3acTcun5vDEtg8Gyve9IckNAhakxWIk=";
     };
   };
   spicetify-cli = {
@@ -1205,13 +1205,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b905db7a56dfd750899fb7128306e9561e13b1b6";
+    version = "5d0e3d379c39991fb470bca143e6076d0fe278a9";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b905db7a56dfd750899fb7128306e9561e13b1b6";
+      rev = "5d0e3d379c39991fb470bca143e6076d0fe278a9";
       fetchSubmodules = false;
-      sha256 = "sha256-OlKa7CBs61I0jN5ZqfGpvIiOPPjysQJhSX5Eu1IheUI=";
+      sha256 = "sha256-glLmNPvCpM4C7rv6Qa+Ttd63cFC9LXR/aOVylZtqLSI=";
     });
   };
   tailscale-systray = {
