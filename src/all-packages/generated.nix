@@ -913,10 +913,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.8.1";
+    version = "2.8.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.8.1/revanced-cli-2.8.1-all.jar";
-      sha256 = "sha256-4xlhzkh95IgvrlstqeYvafQNOB0I1jDEWtwp94eU/6M=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.8.2/revanced-cli-2.8.2-all.jar";
+      sha256 = "sha256-YWnEibPs7UR+JkPqfTttmtzshnWDBvSq9QBZVIacoV8=";
     };
   };
   revanced-integrations = {
@@ -1205,13 +1205,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8725b1405626bdec4d8693c9900992a5f4f00680";
+    version = "9a2171e4eaba2972928ee6743e0fdcbfb4cb0e46";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8725b1405626bdec4d8693c9900992a5f4f00680";
+      rev = "9a2171e4eaba2972928ee6743e0fdcbfb4cb0e46";
       fetchSubmodules = false;
-      sha256 = "sha256-i6svGQ/9TWmF7+oPc8UfvUwYVaZOHcAHQAvIwgMul4c=";
+      sha256 = "sha256-0ygj1MkAzQXwfA5oJrgZS+KWppczm7wWMGNzLTQN9WE=";
     });
   };
   tailscale-systray = {

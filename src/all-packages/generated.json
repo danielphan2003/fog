@@ -1525,11 +1525,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4xlhzkh95IgvrlstqeYvafQNOB0I1jDEWtwp94eU/6M=",
+            "sha256": "sha256-YWnEibPs7UR+JkPqfTttmtzshnWDBvSq9QBZVIacoV8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.8.1/revanced-cli-2.8.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.8.2/revanced-cli-2.8.2-all.jar"
         },
-        "version": "2.8.1"
+        "version": "2.8.2"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1999,11 +1999,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "8725b1405626bdec4d8693c9900992a5f4f00680",
-            "sha256": "sha256-i6svGQ/9TWmF7+oPc8UfvUwYVaZOHcAHQAvIwgMul4c=",
+            "rev": "9a2171e4eaba2972928ee6743e0fdcbfb4cb0e46",
+            "sha256": "sha256-0ygj1MkAzQXwfA5oJrgZS+KWppczm7wWMGNzLTQN9WE=",
             "type": "github"
         },
-        "version": "8725b1405626bdec4d8693c9900992a5f4f00680"
+        "version": "9a2171e4eaba2972928ee6743e0fdcbfb4cb0e46"
     },
     "tailscale-systray": {
         "cargoLocks": null,
