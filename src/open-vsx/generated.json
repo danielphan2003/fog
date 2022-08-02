@@ -4135,11 +4135,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qijDWa3DeKY7DE+rowfb+iiAmiTb3BNRNVjf9STEL3w=",
+            "sha256": "sha256-nfbm1gveI/JxdnO8s9rwR5OI6juwFaJeGYZCluk6R4M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.0/file/ModyQyW.vscode-uni-app-schemas-0.8.0.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.1/file/ModyQyW.vscode-uni-app-schemas-0.8.1.vsix"
         },
-        "version": "0.8.0"
+        "version": "0.8.1"
     },
     "ModyQyW-vscode-uni-app-snippets": {
         "cargoLocks": null,
@@ -4184,7 +4184,7 @@
         "extract": null,
         "name": "ModyQyW-vscode-uni-helper",
         "passthru": {
-            "description": "å¢å¼º `uni-app` ç³»åäº§åå¨ `vscode` åçä½éªã",
+            "description": "å¢å¼º uni-app ç³»åäº§åå¨ VSCode åçä½éªã",
             "license": "MIT",
             "name": "vscode-uni-helper",
             "publisher": "ModyQyW"
@@ -4192,11 +4192,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gu509WNB/4/g+tawb1KYXidiQJDd8gHGtG5246m4FHw=",
+            "sha256": "sha256-DHzVTj6xRuq5OCG6MUu8mKMjH6GHx5LsIEPrC85HjtI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.2/file/ModyQyW.vscode-uni-helper-0.5.2.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.3/file/ModyQyW.vscode-uni-helper-0.5.3.vsix"
         },
-        "version": "0.5.2"
+        "version": "0.5.3"
     },
     "ModyQyW-vscode-uni-ui-snippets": {
         "cargoLocks": null,

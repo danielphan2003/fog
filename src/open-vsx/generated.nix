@@ -2607,10 +2607,10 @@
   };
   ModyQyW-vscode-uni-app-schemas = {
     pname = "ModyQyW-vscode-uni-app-schemas";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.0/file/ModyQyW.vscode-uni-app-schemas-0.8.0.vsix";
-      sha256 = "sha256-qijDWa3DeKY7DE+rowfb+iiAmiTb3BNRNVjf9STEL3w=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.1/file/ModyQyW.vscode-uni-app-schemas-0.8.1.vsix";
+      sha256 = "sha256-nfbm1gveI/JxdnO8s9rwR5OI6juwFaJeGYZCluk6R4M=";
     };
     license = "MIT";
     name = "vscode-uni-app-schemas";
@@ -2643,14 +2643,14 @@
   };
   ModyQyW-vscode-uni-helper = {
     pname = "ModyQyW-vscode-uni-helper";
-    version = "0.5.2";
+    version = "0.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.2/file/ModyQyW.vscode-uni-helper-0.5.2.vsix";
-      sha256 = "sha256-gu509WNB/4/g+tawb1KYXidiQJDd8gHGtG5246m4FHw=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.3/file/ModyQyW.vscode-uni-helper-0.5.3.vsix";
+      sha256 = "sha256-DHzVTj6xRuq5OCG6MUu8mKMjH6GHx5LsIEPrC85HjtI=";
     };
     license = "MIT";
     name = "vscode-uni-helper";
-    description = "\22686\24378 `uni-app` \31995\21015\20135\21697\22312 `vscode` \20869\30340\20307\39564\12290";
+    description = "\22686\24378 uni-app \31995\21015\20135\21697\22312 VSCode \20869\30340\20307\39564\12290";
     publisher = "ModyQyW";
   };
   ModyQyW-vscode-uni-ui-snippets = {
