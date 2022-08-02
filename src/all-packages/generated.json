@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-773c9902a578af7d32090571a44a57641b9b4f8a/Cargo.lock",
+                "./asusctl-5ab24a624eb6d01432643f0458def2e8827bf192/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "773c9902a578af7d32090571a44a57641b9b4f8a",
-            "sha256": "sha256-lMKXRFrcq6oNnmwXKU142U48a+6UaXmjrjlKq2ycXmo=",
+            "rev": "5ab24a624eb6d01432643f0458def2e8827bf192",
+            "sha256": "sha256-L1h47yaSiyrpRrJ3E/un7ywpo82VLVsoiJaAoeRBJug=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "773c9902a578af7d32090571a44a57641b9b4f8a"
+        "version": "5ab24a624eb6d01432643f0458def2e8827bf192"
     },
     "avizo": {
         "cargoLocks": null,
@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "141872ed80d6323505e7543628c259fdae8506d3",
-            "sha256": "sha256-DSmxaiNkSx7woph5AcgKYInQaHd7N5ZIIyHx2uV9Ueo=",
+            "rev": "63c7720e84176184698730fed0ca7c402c53481a",
+            "sha256": "sha256-UsUKhCCv24o5UI+QD1+rxk/8Jc6uvOt0R3xZ4bqQf6U=",
             "type": "github"
         },
-        "version": "141872ed80d6323505e7543628c259fdae8506d3"
+        "version": "63c7720e84176184698730fed0ca7c402c53481a"
     },
     "cinny": {
         "cargoLocks": null,
@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "02fbb3a41736c4fcb962f60c7992c5370050ac26",
-            "sha256": "sha256-rFI6fvMh5DlYGI8gA+M9PEvnMwSTeIajzsx5R+KG8SY=",
+            "rev": "d3c96c248cb556f51f89420aa46e8242746b9a29",
+            "sha256": "sha256-ceVRZAq625ZHB3TUXfO5UxYjm0VC61azTb5eocbfcCo=",
             "type": "github"
         },
-        "version": "02fbb3a41736c4fcb962f60c7992c5370050ac26"
+        "version": "d3c96c248cb556f51f89420aa46e8242746b9a29"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1511,11 +1511,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "08cc1c986adfb8204ff2db6e917ff03280b7a40f",
-            "sha256": "sha256-kQ+8NT3n4udF7Q1YGq5vyDgi9qko1zShU/+Y6BR0MOg=",
+            "rev": "01a7f2010d8627cfa4fcfd65acc12c2cd09782fc",
+            "sha256": "sha256-EN5iLFCaCKWB3glUM67S/UslXMh9dUKvheFW/VJp/zc=",
             "type": "github"
         },
-        "version": "08cc1c986adfb8204ff2db6e917ff03280b7a40f"
+        "version": "01a7f2010d8627cfa4fcfd65acc12c2cd09782fc"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1553,11 +1553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rrBJw5BnVWRQPW5k9yubu7s1J9A+zusizGjQVzpPjHc=",
+            "sha256": "sha256-GcBMA5/eWxspw3zS0IkjGiysXSHlH+5ywGJKrnF/E1M=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.28.2/revanced-patches-2.28.2.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.29.0/revanced-patches-2.29.0.dex"
         },
-        "version": "2.28.2"
+        "version": "2.29.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1567,11 +1567,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8rDpxMnhJeu4N9t/XNZsPPvxM+AP+fQi+CfjLVb5bZQ=",
+            "sha256": "sha256-8bBs8iSNkHzmo17BK/xuh+EJlulZT3luYgtt1XWXvig=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.28.2/revanced-patches-2.28.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.29.0/revanced-patches-2.29.0.jar"
         },
-        "version": "2.28.2"
+        "version": "2.29.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
