@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1249";
+    version = "31.0.1252";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1249/file/Prisma.prisma-insider-31.0.1249.vsix";
-      sha256 = "sha256-oS8PW/npktIM+wGOeJ1NbEFUfvvwfGYkov8VnEYXmmI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1252/file/Prisma.prisma-insider-31.0.1252.vsix";
+      sha256 = "sha256-ZT2yreXcpZ/myWRCvtLljdYPP5MKpoct1TgyqhEIWBc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11019,10 +11019,10 @@
   };
   ilingu-standup-extension = {
     pname = "ilingu-standup-extension";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.4/file/ilingu.standup-extension-0.1.4.vsix";
-      sha256 = "sha256-fQzcCI5Z/5e4H+9yOim7m41tg4qOjbXgd7kvUZfpDOQ=";
+      url = "https://open-vsx.org/api/ilingu/standup-extension/0.1.5/file/ilingu.standup-extension-0.1.5.vsix";
+      sha256 = "sha256-satG44qZkXN4GZX8wtRCVMYNXKwm653nlE7NG1rKOjc=";
     };
     license = "MIT";
     name = "standup-extension";
@@ -21207,10 +21207,10 @@
   };
   viper-admin-viper = {
     pname = "viper-admin-viper";
-    version = "2.4.2";
+    version = "2.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/viper-admin/viper/2.4.2/file/viper-admin.viper-2.4.2.vsix";
-      sha256 = "sha256-oSBoTf5QBHb29v7+ox4O1gvm/LiJ1JDIF4n4OFOp2Lg=";
+      url = "https://open-vsx.org/api/viper-admin/viper/2.5.0/file/viper-admin.viper-2.5.0.vsix";
+      sha256 = "sha256-P1DJdHQTEBzjW23dbmCpKlPO0QZqEsPW/A1oyPLd6tU=";
     };
     license = "";
     name = "viper";

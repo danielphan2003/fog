@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oS8PW/npktIM+wGOeJ1NbEFUfvvwfGYkov8VnEYXmmI=",
+            "sha256": "sha256-ZT2yreXcpZ/myWRCvtLljdYPP5MKpoct1TgyqhEIWBc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1249/file/Prisma.prisma-insider-31.0.1249.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1252/file/Prisma.prisma-insider-31.0.1252.vsix"
         },
-        "version": "31.0.1249"
+        "version": "31.0.1252"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -17454,11 +17454,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fQzcCI5Z/5e4H+9yOim7m41tg4qOjbXgd7kvUZfpDOQ=",
+            "sha256": "sha256-satG44qZkXN4GZX8wtRCVMYNXKwm653nlE7NG1rKOjc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.4/file/ilingu.standup-extension-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/ilingu/standup-extension/0.1.5/file/ilingu.standup-extension-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "iljapostnovs-ui5plugin": {
         "cargoLocks": null,
@@ -33585,11 +33585,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oSBoTf5QBHb29v7+ox4O1gvm/LiJ1JDIF4n4OFOp2Lg=",
+            "sha256": "sha256-P1DJdHQTEBzjW23dbmCpKlPO0QZqEsPW/A1oyPLd6tU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/viper-admin/viper/2.4.2/file/viper-admin.viper-2.4.2.vsix"
+            "url": "https://open-vsx.org/api/viper-admin/viper/2.5.0/file/viper-admin.viper-2.5.0.vsix"
         },
-        "version": "2.4.2"
+        "version": "2.5.0"
     },
     "virgilsisoe-execute-in-iterm2": {
         "cargoLocks": null,
