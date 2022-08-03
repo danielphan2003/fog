@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1253";
+    version = "31.0.1254";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1253/file/Prisma.prisma-insider-31.0.1253.vsix";
-      sha256 = "sha256-RfXKk89KDgkXQKXn403n7Gq5F3VsO/34z6ZgVUsnjmQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1254/file/Prisma.prisma-insider-31.0.1254.vsix";
+      sha256 = "sha256-Eg8ShNmKhF/U5ki0oY2hDtmWEtxUPRbd7Aj26k0QlEk=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -15255,10 +15255,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.1/file/mutable-ai.mutable-ai-1.1.1.vsix";
-      sha256 = "sha256-cLPEv/6vK7GGduG64Q2qNb2dWu11krZVo/VYwHNw+JA=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.2/file/mutable-ai.mutable-ai-1.1.2.vsix";
+      sha256 = "sha256-JzDj9cDovuAugbZttMw7CDlhemnKAkOyUs4mSMhWobk=";
     };
     license = "";
     name = "mutable-ai";

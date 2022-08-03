@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RfXKk89KDgkXQKXn403n7Gq5F3VsO/34z6ZgVUsnjmQ=",
+            "sha256": "sha256-Eg8ShNmKhF/U5ki0oY2hDtmWEtxUPRbd7Aj26k0QlEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1253/file/Prisma.prisma-insider-31.0.1253.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1254/file/Prisma.prisma-insider-31.0.1254.vsix"
         },
-        "version": "31.0.1253"
+        "version": "31.0.1254"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -24161,11 +24161,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cLPEv/6vK7GGduG64Q2qNb2dWu11krZVo/VYwHNw+JA=",
+            "sha256": "sha256-JzDj9cDovuAugbZttMw7CDlhemnKAkOyUs4mSMhWobk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.1/file/mutable-ai.mutable-ai-1.1.1.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.2/file/mutable-ai.mutable-ai-1.1.2.vsix"
         },
-        "version": "1.1.1"
+        "version": "1.1.2"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
