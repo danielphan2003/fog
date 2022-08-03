@@ -3,34 +3,34 @@
 {
   adguardhome-darwin-amd64 = {
     pname = "adguardhome-darwin-amd64";
-    version = "0.108.0-b.10";
+    version = "0.108.0-b.11";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.10/AdGuardHome_darwin_amd64.zip";
-      sha256 = "sha256-V8DML1NpVFRbVqITJZiU8UNBR4c4oZk6zfLNt+KBGVs=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.11/AdGuardHome_darwin_amd64.zip";
+      sha256 = "sha256-39GkJYPqvZXw+Esrmu1VvncwX6PAAGtdNTlXxRu001Y=";
     };
   };
   adguardhome-linux-386 = {
     pname = "adguardhome-linux-386";
-    version = "0.108.0-b.10";
+    version = "0.108.0-b.11";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.10/AdGuardHome_linux_386.tar.gz";
-      sha256 = "sha256-Lv8d9jXzcbmg9GvRhF1igRbF19CdQKNOkUE71xRNeMQ=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.11/AdGuardHome_linux_386.tar.gz";
+      sha256 = "sha256-6sl+Wn87qEji9n8n3JbEsYvkVsofKLz82k3i5wY1mq8=";
     };
   };
   adguardhome-linux-amd64 = {
     pname = "adguardhome-linux-amd64";
-    version = "0.108.0-b.10";
+    version = "0.108.0-b.11";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.10/AdGuardHome_linux_amd64.tar.gz";
-      sha256 = "sha256-ga5aC7M4J8zqfWyDOIHT11fNw+mqMVYWm5pG65MLyX8=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.11/AdGuardHome_linux_amd64.tar.gz";
+      sha256 = "sha256-COknfV9Kk7VkKgUNfIgrrLg536w8jCfht+8eh93lU7Y=";
     };
   };
   adguardhome-linux-arm64 = {
     pname = "adguardhome-linux-arm64";
-    version = "0.108.0-b.10";
+    version = "0.108.0-b.11";
     src = fetchurl {
-      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.10/AdGuardHome_linux_arm64.tar.gz";
-      sha256 = "sha256-eMFvEtrWcVPTNjWgqEtnQ6MrRxb/Q8UzpWCG05SRF7E=";
+      url = "https://github.com/AdguardTeam/AdGuardHome/releases/download/v0.108.0-b.11/AdGuardHome_linux_arm64.tar.gz";
+      sha256 = "sha256-AD8Cxx4jGP6dQ/oGVBLR0si/Sc3EE0rmeUi3uXMWSmE=";
     };
   };
   adl = {
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "fa4c95a9b6249f6cc54f5fbd89f58290f0a23c7b";
+    version = "1d90f7588b0f1be90b13584ee91e8b079bd9793b";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "fa4c95a9b6249f6cc54f5fbd89f58290f0a23c7b";
+      rev = "1d90f7588b0f1be90b13584ee91e8b079bd9793b";
       fetchSubmodules = false;
-      sha256 = "sha256-uGBwKcnI0nWhKa8FcorEEUKegeoUWCJH4y8m+QlBzLo=";
+      sha256 = "sha256-A1sjJPfrgexwKElgavtG+h8YbM6NJLyERsfmO962NBk=";
     });
   };
   cinny-bin = {
@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "b9be405d326697df81f5bafd736b817b47aea3a1";
+    version = "69365c7609fbbafe52387fd81f79c945b4649fa3";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "b9be405d326697df81f5bafd736b817b47aea3a1";
+      rev = "69365c7609fbbafe52387fd81f79c945b4649fa3";
       fetchSubmodules = false;
-      sha256 = "sha256-LaIvfwtPr8HbAmOpdJ3UwC0O93MzM5b1/LA04K7pZMo=";
+      sha256 = "sha256-sNh0v2Og+egBolKZdQ3nALztMzkiX+GFTiiRJ9621m8=";
     });
   };
   ibus = {
