@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1252";
+    version = "31.0.1253";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1252/file/Prisma.prisma-insider-31.0.1252.vsix";
-      sha256 = "sha256-ZT2yreXcpZ/myWRCvtLljdYPP5MKpoct1TgyqhEIWBc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1253/file/Prisma.prisma-insider-31.0.1253.vsix";
+      sha256 = "sha256-RfXKk89KDgkXQKXn403n7Gq5F3VsO/34z6ZgVUsnjmQ=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -6291,10 +6291,10 @@
   };
   borkdude-clj-kondo = {
     pname = "borkdude-clj-kondo";
-    version = "2022.6.22";
+    version = "2022.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.6.22/file/borkdude.clj-kondo-2022.6.22.vsix";
-      sha256 = "sha256-7O/C1MOwz/NwfNhBZn7lyHwRv6SKiU+rn+j0sv66TUw=";
+      url = "https://open-vsx.org/api/borkdude/clj-kondo/2022.8.3/file/borkdude.clj-kondo-2022.8.3.vsix";
+      sha256 = "sha256-phUSUoV9yIZZjlbbJulJ9owzK+ypk3KlEkMyJFBh4fw=";
     };
     license = "EPL-1";
     name = "clj-kondo";
@@ -7896,6 +7896,18 @@
     name = "monokai-plusplus";
     description = "A modern Monokai theme for Sublime Text 3 and Visual Studio Code";
     publisher = "dcasella";
+  };
+  deadlock-deadlock-gitpod = {
+    pname = "deadlock-deadlock-gitpod";
+    version = "0.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.3/file/deadlock.deadlock-gitpod-0.0.3.vsix";
+      sha256 = "sha256-qzmWbvoOQXIhRj50CA9jIqApubtwGt3reCnMdXIbtZw=";
+    };
+    license = "MIT";
+    name = "deadlock-gitpod";
+    description = "Deadlock integration with gitpod";
+    publisher = "deadlock";
   };
   deepakgupta191199-save-commands = {
     pname = "deepakgupta191199-save-commands";
@@ -11259,10 +11271,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.14";
+    version = "0.3.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.14/file/iterative.dvc-0.3.14.vsix";
-      sha256 = "sha256-vXw78Z2qKDmN1Sy9jpyGgEOMrxmBzWunfi4KfeHrZok=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.15/file/iterative.dvc-0.3.15.vsix";
+      sha256 = "sha256-rkrY2ekrM8BZVjKYJDOpRYN/SYc8aKCKtvrVsSdT664=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -16659,10 +16671,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.408";
+    version = "0.26.409";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.408/file/pokey.cursorless-0.26.408.vsix";
-      sha256 = "sha256-nD429Uw5QVOBtAO6Lg/J1XferuMdYQqOralpSfDqSnw=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.409/file/pokey.cursorless-0.26.409.vsix";
+      sha256 = "sha256-/yeTkkoz4bfzX89105218McRYElne28/EExIo+B0IlA=";
     };
     license = "MIT";
     name = "cursorless";
@@ -17163,10 +17175,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.16.7";
+    version = "1.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.7/file/rangav.vscode-thunder-client-1.16.7.vsix";
-      sha256 = "sha256-zGzcTR38+ABUHXxCx7SoJruzUPbHdGwe0vsIOYZxV0w=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.17.1/file/rangav.vscode-thunder-client-1.17.1.vsix";
+      sha256 = "sha256-npklkmrnAVQoEzF4FYbvzWG4U04k0/sJFfHanFegWDQ=";
     };
     license = "";
     name = "vscode-thunder-client";

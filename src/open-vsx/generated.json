@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZT2yreXcpZ/myWRCvtLljdYPP5MKpoct1TgyqhEIWBc=",
+            "sha256": "sha256-RfXKk89KDgkXQKXn403n7Gq5F3VsO/34z6ZgVUsnjmQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1252/file/Prisma.prisma-insider-31.0.1252.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1253/file/Prisma.prisma-insider-31.0.1253.vsix"
         },
-        "version": "31.0.1252"
+        "version": "31.0.1253"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9968,11 +9968,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7O/C1MOwz/NwfNhBZn7lyHwRv6SKiU+rn+j0sv66TUw=",
+            "sha256": "sha256-phUSUoV9yIZZjlbbJulJ9owzK+ypk3KlEkMyJFBh4fw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.6.22/file/borkdude.clj-kondo-2022.6.22.vsix"
+            "url": "https://open-vsx.org/api/borkdude/clj-kondo/2022.8.3/file/borkdude.clj-kondo-2022.8.3.vsix"
         },
-        "version": "2022.6.22"
+        "version": "2022.8.3"
     },
     "bpruitt-goddard-mermaid-markdown-syntax-highlighting": {
         "cargoLocks": null,
@@ -12500,6 +12500,25 @@
             "url": "https://open-vsx.org/api/dcasella/monokai-plusplus/2.0.4/file/dcasella.monokai-plusplus-2.0.4.vsix"
         },
         "version": "2.0.4"
+    },
+    "deadlock-deadlock-gitpod": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "deadlock-deadlock-gitpod",
+        "passthru": {
+            "description": "Deadlock integration with gitpod",
+            "license": "MIT",
+            "name": "deadlock-gitpod",
+            "publisher": "deadlock"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-qzmWbvoOQXIhRj50CA9jIqApubtwGt3reCnMdXIbtZw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.3/file/deadlock.deadlock-gitpod-0.0.3.vsix"
+        },
+        "version": "0.0.3"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -17834,11 +17853,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vXw78Z2qKDmN1Sy9jpyGgEOMrxmBzWunfi4KfeHrZok=",
+            "sha256": "sha256-rkrY2ekrM8BZVjKYJDOpRYN/SYc8aKCKtvrVsSdT664=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.14/file/iterative.dvc-0.3.14.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.15/file/iterative.dvc-0.3.15.vsix"
         },
-        "version": "0.3.14"
+        "version": "0.3.15"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -26384,11 +26403,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nD429Uw5QVOBtAO6Lg/J1XferuMdYQqOralpSfDqSnw=",
+            "sha256": "sha256-/yeTkkoz4bfzX89105218McRYElne28/EExIo+B0IlA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.408/file/pokey.cursorless-0.26.408.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.409/file/pokey.cursorless-0.26.409.vsix"
         },
-        "version": "0.26.408"
+        "version": "0.26.409"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -27182,11 +27201,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zGzcTR38+ABUHXxCx7SoJruzUPbHdGwe0vsIOYZxV0w=",
+            "sha256": "sha256-npklkmrnAVQoEzF4FYbvzWG4U04k0/sJFfHanFegWDQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.16.7/file/rangav.vscode-thunder-client-1.16.7.vsix"
+            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.17.1/file/rangav.vscode-thunder-client-1.17.1.vsix"
         },
-        "version": "1.16.7"
+        "version": "1.17.1"
     },
     "razetime-bqn-language": {
         "cargoLocks": null,
