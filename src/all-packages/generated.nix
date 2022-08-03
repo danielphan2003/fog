@@ -619,6 +619,17 @@
       sha256 = "sha256-GqPuYscLhkR5E2HnSFV4R48hCWvtM3C++3zlJhiK/aw=";
     });
   };
+  mapcidr = {
+    pname = "mapcidr";
+    version = "v1.0.1";
+    src = fetchFromGitHub ({
+      owner = "projectdiscovery";
+      repo = "mapcidr";
+      rev = "v1.0.1";
+      fetchSubmodules = false;
+      sha256 = "sha256-lSAA1lWHGQr1tguBdBePdkN+CNKkxmLweI6oqzzOG6A=";
+    });
+  };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
     version = "3026264a408d9d6e10bad6b5b91ccc013810df0a";
@@ -1205,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "52d769d35c971bae39ee2bbbd27b130382555489";
+    version = "7c7e23d87a23144fa71e83ee0e7566ac52f8f4e6";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "52d769d35c971bae39ee2bbbd27b130382555489";
+      rev = "7c7e23d87a23144fa71e83ee0e7566ac52f8f4e6";
       fetchSubmodules = false;
-      sha256 = "sha256-biniUPYMwi70dGUSW8gdo1paC1THewov5ttF/Ft2U1s=";
+      sha256 = "sha256-qYpoW/GEfX2evMwEExqS/Mff0ryNYWs5XsalNbsC4DM=";
     });
   };
   tailscale-systray = {

@@ -1028,6 +1028,25 @@
         },
         "version": "d08e7ca185445b929f097f8bfb1243a8ef3e10e4"
     },
+    "mapcidr": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mapcidr",
+        "passthru": null,
+        "pinned": false,
+        "src": {
+            "deepClone": false,
+            "fetchSubmodules": false,
+            "leaveDotGit": false,
+            "name": null,
+            "owner": "projectdiscovery",
+            "repo": "mapcidr",
+            "rev": "v1.0.1",
+            "sha256": "sha256-lSAA1lWHGQr1tguBdBePdkN+CNKkxmLweI6oqzzOG6A=",
+            "type": "github"
+        },
+        "version": "v1.0.1"
+    },
     "matrix-appservice-discord": {
         "cargoLocks": null,
         "extract": null,
@@ -1999,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "52d769d35c971bae39ee2bbbd27b130382555489",
-            "sha256": "sha256-biniUPYMwi70dGUSW8gdo1paC1THewov5ttF/Ft2U1s=",
+            "rev": "7c7e23d87a23144fa71e83ee0e7566ac52f8f4e6",
+            "sha256": "sha256-qYpoW/GEfX2evMwEExqS/Mff0ryNYWs5XsalNbsC4DM=",
             "type": "github"
         },
-        "version": "52d769d35c971bae39ee2bbbd27b130382555489"
+        "version": "7c7e23d87a23144fa71e83ee0e7566ac52f8f4e6"
     },
     "tailscale-systray": {
         "cargoLocks": null,
