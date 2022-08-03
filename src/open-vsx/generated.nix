@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1254";
+    version = "31.0.1255";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1254/file/Prisma.prisma-insider-31.0.1254.vsix";
-      sha256 = "sha256-Eg8ShNmKhF/U5ki0oY2hDtmWEtxUPRbd7Aj26k0QlEk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1255/file/Prisma.prisma-insider-31.0.1255.vsix";
+      sha256 = "sha256-RI4gLSvhS3L1zMyCXcORN+XDH1N7fmw+irslfcmx5mo=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5715,10 +5715,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.20.3";
+    version = "0.20.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.20.3/file/astro-build.astro-vscode-0.20.3.vsix";
-      sha256 = "sha256-p333J6DRt95UWWZRnlaW7qAXDvCe7eoHYyXZXqys8DU=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.20.4/file/astro-build.astro-vscode-0.20.4.vsix";
+      sha256 = "sha256-1YzcxUdjcVtcDMmH8WGqT+MJ6Ewt6crW9OWjNGAR10U=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -10191,10 +10191,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.8.2";
+    version = "0.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.2/file/halcyontechltd.vscode-rpgle-0.8.2.vsix";
-      sha256 = "sha256-a4UA2+hMh2aNPjxlZLhnND+gM4jNRjBH/Rs47c7BGNs=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.2/file/halcyontechltd.vscode-rpgle-0.9.2.vsix";
+      sha256 = "sha256-L/XkgQjshxQgQX2F7QWmUIP2CCZOh2rUVMhMQubWcyY=";
     };
     license = "MIT";
     name = "vscode-rpgle";

@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Eg8ShNmKhF/U5ki0oY2hDtmWEtxUPRbd7Aj26k0QlEk=",
+            "sha256": "sha256-RI4gLSvhS3L1zMyCXcORN+XDH1N7fmw+irslfcmx5mo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1254/file/Prisma.prisma-insider-31.0.1254.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1255/file/Prisma.prisma-insider-31.0.1255.vsix"
         },
-        "version": "31.0.1254"
+        "version": "31.0.1255"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9056,11 +9056,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-p333J6DRt95UWWZRnlaW7qAXDvCe7eoHYyXZXqys8DU=",
+            "sha256": "sha256-1YzcxUdjcVtcDMmH8WGqT+MJ6Ewt6crW9OWjNGAR10U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.3/file/astro-build.astro-vscode-0.20.3.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.4/file/astro-build.astro-vscode-0.20.4.vsix"
         },
-        "version": "0.20.3"
+        "version": "0.20.4"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -16143,11 +16143,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a4UA2+hMh2aNPjxlZLhnND+gM4jNRjBH/Rs47c7BGNs=",
+            "sha256": "sha256-L/XkgQjshxQgQX2F7QWmUIP2CCZOh2rUVMhMQubWcyY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.8.2/file/halcyontechltd.vscode-rpgle-0.8.2.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.2/file/halcyontechltd.vscode-rpgle-0.9.2.vsix"
         },
-        "version": "0.8.2"
+        "version": "0.9.2"
     },
     "hall-draw": {
         "cargoLocks": null,
