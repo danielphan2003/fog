@@ -24142,11 +24142,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V0XHWuym0LL/VRW4FXyEE26R18mPDwMlhVP4E55aYRc=",
+            "sha256": "sha256-cLPEv/6vK7GGduG64Q2qNb2dWu11krZVo/VYwHNw+JA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.0.1/file/mutable-ai.mutable-ai-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.1/file/mutable-ai.mutable-ai-1.1.1.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.1.1"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -33604,11 +33604,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+P9pSwXrZbqYrnOIgEO9xkwgCX5XvCw0LLaN9pjvgOE=",
+            "sha256": "sha256-SGXLZ8+kJAnkDPudlnlRO/GJl1mHQcPvV89uMXCRfTo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/virgilsisoe/execute-in-iterm2/0.2.1/file/virgilsisoe.execute-in-iterm2-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/virgilsisoe/execute-in-iterm2/0.2.2/file/virgilsisoe.execute-in-iterm2-0.2.2.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.2.2"
     },
     "virgilsisoe-hammerspoon": {
         "cargoLocks": null,
@@ -33623,11 +33623,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-63KX4YpXeb0h/viiVd1J2Wbs3f5bkj5lHzFgPxWLc6k=",
+            "sha256": "sha256-7SaAEMtE15TyUUwwuKd6FkviZtvjBbLXIPvm1kTsEFU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/virgilsisoe/hammerspoon/0.3.5/file/virgilsisoe.hammerspoon-0.3.5.vsix"
+            "url": "https://open-vsx.org/api/virgilsisoe/hammerspoon/0.3.6/file/virgilsisoe.hammerspoon-0.3.6.vsix"
         },
-        "version": "0.3.5"
+        "version": "0.3.6"
     },
     "virgilsisoe-nuke-tools": {
         "cargoLocks": null,
@@ -33642,11 +33642,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-91yjpfOSUg1g3DYAIeWBpkPd0QVa9NVXOgNcAUCYYgg=",
+            "sha256": "sha256-PJyEA+MA2vAMWHOqY+/B+sMQP4RqRHOO8k/Q3wQFSTI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/virgilsisoe/nuke-tools/0.6.2/file/virgilsisoe.nuke-tools-0.6.2.vsix"
+            "url": "https://open-vsx.org/api/virgilsisoe/nuke-tools/0.7.1/file/virgilsisoe.nuke-tools-0.7.1.vsix"
         },
-        "version": "0.6.2"
+        "version": "0.7.1"
     },
     "virgilsisoe-python-auto-import": {
         "cargoLocks": null,
@@ -33661,11 +33661,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eLlsarvFh+VzOPRetLunu7l5bGpsxIu9ESE5o5G5G+A=",
+            "sha256": "sha256-HflNsZLOhZhSyf+zXCiGf7vBson9Oy2uxvKeWZOZOEk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.0/file/virgilsisoe.python-auto-import-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.1/file/virgilsisoe.python-auto-import-0.1.1.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.1.1"
     },
     "virgilsisoe-python-easy-print": {
         "cargoLocks": null,
@@ -33680,11 +33680,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mFERCvY/oMiZwu8purHlO35cJT7LCIE4vqz4EBtZLg8=",
+            "sha256": "sha256-l/92W59e+tDSi2oOcXLRIt7pzVfk397Y1qglpZopmLI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.3/file/virgilsisoe.python-easy-print-0.5.3.vsix"
+            "url": "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.4/file/virgilsisoe.python-easy-print-0.5.4.vsix"
         },
-        "version": "0.5.3"
+        "version": "0.5.4"
     },
     "virtual-whirlwind-vscode-povray2": {
         "cargoLocks": null,

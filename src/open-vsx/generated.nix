@@ -15243,10 +15243,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.0.1";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.0.1/file/mutable-ai.mutable-ai-1.0.1.vsix";
-      sha256 = "sha256-V0XHWuym0LL/VRW4FXyEE26R18mPDwMlhVP4E55aYRc=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.1/file/mutable-ai.mutable-ai-1.1.1.vsix";
+      sha256 = "sha256-cLPEv/6vK7GGduG64Q2qNb2dWu11krZVo/VYwHNw+JA=";
     };
     license = "";
     name = "mutable-ai";
@@ -21219,10 +21219,10 @@
   };
   virgilsisoe-execute-in-iterm2 = {
     pname = "virgilsisoe-execute-in-iterm2";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/virgilsisoe/execute-in-iterm2/0.2.1/file/virgilsisoe.execute-in-iterm2-0.2.1.vsix";
-      sha256 = "sha256-+P9pSwXrZbqYrnOIgEO9xkwgCX5XvCw0LLaN9pjvgOE=";
+      url = "https://open-vsx.org/api/virgilsisoe/execute-in-iterm2/0.2.2/file/virgilsisoe.execute-in-iterm2-0.2.2.vsix";
+      sha256 = "sha256-SGXLZ8+kJAnkDPudlnlRO/GJl1mHQcPvV89uMXCRfTo=";
     };
     license = "MIT";
     name = "execute-in-iterm2";
@@ -21231,10 +21231,10 @@
   };
   virgilsisoe-hammerspoon = {
     pname = "virgilsisoe-hammerspoon";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/virgilsisoe/hammerspoon/0.3.5/file/virgilsisoe.hammerspoon-0.3.5.vsix";
-      sha256 = "sha256-63KX4YpXeb0h/viiVd1J2Wbs3f5bkj5lHzFgPxWLc6k=";
+      url = "https://open-vsx.org/api/virgilsisoe/hammerspoon/0.3.6/file/virgilsisoe.hammerspoon-0.3.6.vsix";
+      sha256 = "sha256-7SaAEMtE15TyUUwwuKd6FkviZtvjBbLXIPvm1kTsEFU=";
     };
     license = "MIT";
     name = "hammerspoon";
@@ -21243,10 +21243,10 @@
   };
   virgilsisoe-nuke-tools = {
     pname = "virgilsisoe-nuke-tools";
-    version = "0.6.2";
+    version = "0.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/virgilsisoe/nuke-tools/0.6.2/file/virgilsisoe.nuke-tools-0.6.2.vsix";
-      sha256 = "sha256-91yjpfOSUg1g3DYAIeWBpkPd0QVa9NVXOgNcAUCYYgg=";
+      url = "https://open-vsx.org/api/virgilsisoe/nuke-tools/0.7.1/file/virgilsisoe.nuke-tools-0.7.1.vsix";
+      sha256 = "sha256-PJyEA+MA2vAMWHOqY+/B+sMQP4RqRHOO8k/Q3wQFSTI=";
     };
     license = "MIT";
     name = "nuke-tools";
@@ -21255,10 +21255,10 @@
   };
   virgilsisoe-python-auto-import = {
     pname = "virgilsisoe-python-auto-import";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.0/file/virgilsisoe.python-auto-import-0.1.0.vsix";
-      sha256 = "sha256-eLlsarvFh+VzOPRetLunu7l5bGpsxIu9ESE5o5G5G+A=";
+      url = "https://open-vsx.org/api/virgilsisoe/python-auto-import/0.1.1/file/virgilsisoe.python-auto-import-0.1.1.vsix";
+      sha256 = "sha256-HflNsZLOhZhSyf+zXCiGf7vBson9Oy2uxvKeWZOZOEk=";
     };
     license = "MIT";
     name = "python-auto-import";
@@ -21267,10 +21267,10 @@
   };
   virgilsisoe-python-easy-print = {
     pname = "virgilsisoe-python-easy-print";
-    version = "0.5.3";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.3/file/virgilsisoe.python-easy-print-0.5.3.vsix";
-      sha256 = "sha256-mFERCvY/oMiZwu8purHlO35cJT7LCIE4vqz4EBtZLg8=";
+      url = "https://open-vsx.org/api/virgilsisoe/python-easy-print/0.5.4/file/virgilsisoe.python-easy-print-0.5.4.vsix";
+      sha256 = "sha256-l/92W59e+tDSi2oOcXLRIt7pzVfk397Y1qglpZopmLI=";
     };
     license = "MIT";
     name = "python-easy-print";
