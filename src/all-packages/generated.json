@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "4001d0bf2567832ef729b9b39dded95a1fa04b72",
-            "sha256": "sha256-d8/XmFyGK/01hDswCQpQ2bq8S0Tclu6rr78B5Hd8BEY=",
+            "rev": "8cfd7758858ae665af4cf89a1bdefc9586443de3",
+            "sha256": "sha256-IGRFaPekWGl1leAakU/ZS/PG4V3pp8ZfT5VFNKoEc1c=",
             "type": "github"
         },
-        "version": "4001d0bf2567832ef729b9b39dded95a1fa04b72"
+        "version": "8cfd7758858ae665af4cf89a1bdefc9586443de3"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2084,11 +2084,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "4d6858327ee590078497e7b9e894410fedce355e",
-            "sha256": "sha256-VmmWpsfqtLxm49sQmr8l8GDN7eaAcGHrxH2Hhyxfj1U=",
+            "rev": "64572c92c6f2f104d090263b6d70ac9a85ebbec4",
+            "sha256": "sha256-MrOjx60Vj+bqF8OSazRppXlQ29LN6mOr3+Z6/K9CqII=",
             "type": "github"
         },
-        "version": "4d6858327ee590078497e7b9e894410fedce355e"
+        "version": "64572c92c6f2f104d090263b6d70ac9a85ebbec4"
     },
     "uniemoji": {
         "cargoLocks": null,
