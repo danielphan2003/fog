@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kHWBo928AuZTVIUsDe2T9Wj9iVax60H5fDHYSrEBK9E=",
+            "sha256": "sha256-oS8PW/npktIM+wGOeJ1NbEFUfvvwfGYkov8VnEYXmmI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1247/file/Prisma.prisma-insider-31.0.1247.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1249/file/Prisma.prisma-insider-31.0.1249.vsix"
         },
-        "version": "31.0.1247"
+        "version": "31.0.1249"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -30431,11 +30431,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VgpZ/W+bMGepdG2SWckAE5O6KZcDiB+5T6TXrcnj81c=",
+            "sha256": "sha256-EstLASLQMizRmfvF7FsQg1Bu/MVL3nkwsWGW0CbyINk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.9.0/file/statelyai.stately-vscode-1.9.0.vsix"
+            "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.9.1/file/statelyai.stately-vscode-1.9.1.vsix"
         },
-        "version": "1.9.0"
+        "version": "1.9.1"
     },
     "steedos-steedosdx-vscode": {
         "cargoLocks": null,

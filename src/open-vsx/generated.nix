@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1247";
+    version = "31.0.1249";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1247/file/Prisma.prisma-insider-31.0.1247.vsix";
-      sha256 = "sha256-kHWBo928AuZTVIUsDe2T9Wj9iVax60H5fDHYSrEBK9E=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1249/file/Prisma.prisma-insider-31.0.1249.vsix";
+      sha256 = "sha256-oS8PW/npktIM+wGOeJ1NbEFUfvvwfGYkov8VnEYXmmI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -19215,10 +19215,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.9.0";
+    version = "1.9.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.0/file/statelyai.stately-vscode-1.9.0.vsix";
-      sha256 = "sha256-VgpZ/W+bMGepdG2SWckAE5O6KZcDiB+5T6TXrcnj81c=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.1/file/statelyai.stately-vscode-1.9.1.vsix";
+      sha256 = "sha256-EstLASLQMizRmfvF7FsQg1Bu/MVL3nkwsWGW0CbyINk=";
     };
     license = "MIT";
     name = "stately-vscode";
