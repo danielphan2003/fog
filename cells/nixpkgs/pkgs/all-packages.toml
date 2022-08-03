@@ -246,6 +246,10 @@ fetch.github = "RMTT/lua-pam"
 src.git = "https://github.com/mlvzk/manix"
 fetch.github = "mlvzk/manix"
 
+[mapcidr]
+src.github_tag = "projectdiscovery/mapcidr"
+fetch.github = "projectdiscovery/mapcidr"
+
 [matrix-appservice-discord]
 src.git = "https://github.com/matrix-org/matrix-appservice-discord"
 fetch.github = "matrix-org/matrix-appservice-discord"
