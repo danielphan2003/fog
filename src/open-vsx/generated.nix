@@ -6375,10 +6375,10 @@
   };
   bringout-f18-klijent = {
     pname = "bringout-f18-klijent";
-    version = "5.6.31";
+    version = "5.6.32";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.31/file/bringout.f18-klijent-5.6.31.vsix";
-      sha256 = "sha256-bN2SqYI7Fb2XxjK5ulbhSGW4CaZ+pN2PTb08AycUKDc=";
+      url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.32/file/bringout.f18-klijent-5.6.32.vsix";
+      sha256 = "sha256-fDktbGg9avXmNrObp90YiZf3TyEbkT40U6dMYcD9De8=";
     };
     license = "MIT";
     name = "f18-klijent";
@@ -8031,10 +8031,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.105.6";
+    version = "0.106.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.105.6/file/dendron.nightly-0.105.6.vsix";
-      sha256 = "sha256-hFyCNJa9LVbrHm7WUlB+1gFAZVPv1QuJvZhwAdifHKA=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.106.1/file/dendron.nightly-0.106.1.vsix";
+      sha256 = "sha256-bp+h6gcp5sm6QDCwEM37uwDry8Z1sb5IW2zwN9ALfQU=";
     };
     license = "AGPL-3.0";
     name = "nightly";
