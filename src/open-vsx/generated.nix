@@ -10191,10 +10191,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.9.2";
+    version = "0.9.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.2/file/halcyontechltd.vscode-rpgle-0.9.2.vsix";
-      sha256 = "sha256-L/XkgQjshxQgQX2F7QWmUIP2CCZOh2rUVMhMQubWcyY=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.4/file/halcyontechltd.vscode-rpgle-0.9.4.vsix";
+      sha256 = "sha256-J4pThZI9rbSE2VUtAggMKoNUYTEar6koSBk8MABFzTg=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -17679,10 +17679,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.1.2";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.2/file/rgherdt.scheme-lsp-0.1.2.vsix";
-      sha256 = "sha256-fiYsFLacfTT94ET+WduHrQGMOi8rjw7tBj2hWXEFBcQ=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.1/file/rgherdt.scheme-lsp-0.2.1.vsix";
+      sha256 = "sha256-TkyNWbB1jCAM1uiNPv2CdZ+CcDQu+JhOgbEwiAqBqkI=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";

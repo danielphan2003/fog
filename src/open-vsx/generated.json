@@ -16143,11 +16143,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L/XkgQjshxQgQX2F7QWmUIP2CCZOh2rUVMhMQubWcyY=",
+            "sha256": "sha256-J4pThZI9rbSE2VUtAggMKoNUYTEar6koSBk8MABFzTg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.2/file/halcyontechltd.vscode-rpgle-0.9.2.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.4/file/halcyontechltd.vscode-rpgle-0.9.4.vsix"
         },
-        "version": "0.9.2"
+        "version": "0.9.4"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -27999,11 +27999,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fiYsFLacfTT94ET+WduHrQGMOi8rjw7tBj2hWXEFBcQ=",
+            "sha256": "sha256-TkyNWbB1jCAM1uiNPv2CdZ+CcDQu+JhOgbEwiAqBqkI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.1.2/file/rgherdt.scheme-lsp-0.1.2.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.1/file/rgherdt.scheme-lsp-0.2.1.vsix"
         },
-        "version": "0.1.2"
+        "version": "0.2.1"
     },
     "ria-elastic": {
         "cargoLocks": null,
