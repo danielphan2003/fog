@@ -3447,10 +3447,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.7.2819";
+    version = "2022.8.213";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.7.2819/file/Slint.slint-nightly-2022.7.2819.vsix";
-      sha256 = "sha256-iUXBQ7jGiBmc8322CI7ldaM4KbXEv+npdf7P63dFmhU=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.213/file/Slint.slint-nightly-2022.8.213.vsix";
+      sha256 = "sha256-/F9UsoXHdoLt8f1L45NSCFqK4IPMB337GN5LZFjlEpQ=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -10143,10 +10143,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.5.2";
+    version = "1.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.2/file/halcyontechltd.code-for-ibmi-1.5.2.vsix";
-      sha256 = "sha256-Spxt3EqkJK3EzD0KYNq5GX3lMR9YVIhzRTjiWoXjl2Y=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.3/file/halcyontechltd.code-for-ibmi-1.5.3.vsix";
+      sha256 = "sha256-2LpWWbbFqukX88AQRFJ737DWuRF0TDW5fR0W8A/TEIc=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -14439,10 +14439,10 @@
   };
   ms-pyright-pyright = {
     pname = "ms-pyright-pyright";
-    version = "1.1.264";
+    version = "1.1.265";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.264/file/ms-pyright.pyright-1.1.264.vsix";
-      sha256 = "sha256-rnPXXmKUscm1nFBAcoTl+Vz9Cw3ODbCy1e4RY96Po2M=";
+      url = "https://open-vsx.org/api/ms-pyright/pyright/1.1.265/file/ms-pyright.pyright-1.1.265.vsix";
+      sha256 = "sha256-ChFKHZix1WfOJE8q+G4qC+2xNozctef8I+y7u7JpqOs=";
     };
     license = "MIT";
     name = "pyright";
@@ -14487,10 +14487,10 @@
   };
   ms-toolsai-jupyter = {
     pname = "ms-toolsai-jupyter";
-    version = "2022.7.1001890528";
+    version = "2022.8.1002170547";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.7.1001890528/file/ms-toolsai.jupyter-2022.7.1001890528.vsix";
-      sha256 = "sha256-zNmUYqOokHbaWlrmI1EXXvLGt2B7voil8jgp5kWY5bI=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.8.1002170547/file/ms-toolsai.jupyter-2022.8.1002170547.vsix";
+      sha256 = "sha256-+Hh0SpPVt8/aF72pfS1FPGlr5+8QuP9TQL6oF4SGTUs=";
     };
     license = "MIT";
     name = "jupyter";
@@ -14943,10 +14943,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220801";
+    version = "4.8.20220802";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220801/file/ms-vscode.vscode-typescript-next-4.8.20220801.vsix";
-      sha256 = "sha256-rUNZqTAZha6MMlRUQC1BHKJf0SXW02YG6pOoZwCFZTA=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220802/file/ms-vscode.vscode-typescript-next-4.8.20220802.vsix";
+      sha256 = "sha256-jJuWEDZ8JPRb148tkQuXQDwdf/Fl51LeVw3TD+3bJXE=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
