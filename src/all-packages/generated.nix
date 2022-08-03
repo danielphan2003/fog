@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c779a7c03bef72aff78c14a29f5ba106de50b8d6";
+    version = "e13f2480ff0f28279d254d25711fe7d55015706f";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c779a7c03bef72aff78c14a29f5ba106de50b8d6";
+      rev = "e13f2480ff0f28279d254d25711fe7d55015706f";
       fetchSubmodules = false;
-      sha256 = "sha256-I223PMD84gxDdQRLjHlsc8wEAgSvSfRPEKUTz/JYjIk=";
+      sha256 = "sha256-jvgef0i8gS865aELsKSk+8gjdjbtzwb6Icc/ufiQJcA=";
     });
   };
   ibus = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6420";
+    version = "1.0.6423";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6420.tar.bz2";
-      sha256 = "sha256-dxxEd+rBmhVObUbX7iFs44rAN1P2vKYYOnOvF4gmeKs=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6423.tar.bz2";
+      sha256 = "sha256-FMS6e69VV0lGwYIFCL9QU16NROPUh07dDA21VQdTV1E=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6420";
+    version = "1.0.6423";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6420-1_all.deb";
-      sha256 = "sha256-XD0E0kRMnkcOcbCQB5ecAUpyYU7Us/P3C+YuMAg2DdE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6423-1_all.deb";
+      sha256 = "sha256-grB9swy9zHIsI1L+wp7tdPdywJdbKi5WPYw9AAejdfY=";
     };
   };
   jitsi-videobridge2 = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "16930150f8a2ef7ef785d74bf341569910c232a2";
+    version = "02df727cb2bbc89514435f7a00a323942a6ff8a7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "16930150f8a2ef7ef785d74bf341569910c232a2";
+      rev = "02df727cb2bbc89514435f7a00a323942a6ff8a7";
       fetchSubmodules = false;
-      sha256 = "sha256-5NDGwExsQjQsy367OSAAp0vi52zZ0Qd7epWfq1iHSs4=";
+      sha256 = "sha256-Lyt5WjpbfZCVevbGpovk4M+i6ulWgQBmAq/vd3qxL3M=";
     });
   };
   revanced-cli = {
