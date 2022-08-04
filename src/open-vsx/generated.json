@@ -962,11 +962,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/fuVpaoYTZ6k2J8guXMpo8nhcTstzkv4+kb87WXVwC8=",
+            "sha256": "sha256-S0lNHhkYiidTbZheZBCoYomutUb/gk+NNrlzYN2xZe0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CodeStream/codestream/13.2.0/file/CodeStream.codestream-13.2.0.vsix"
+            "url": "https://open-vsx.org/api/CodeStream/codestream/13.4.0/file/CodeStream.codestream-13.4.0.vsix"
         },
-        "version": "13.2.0"
+        "version": "13.4.0"
     },
     "CoenraadS-bracket-pair-colorizer": {
         "cargoLocks": null,
@@ -8353,11 +8353,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zLBaj7/ukWxCs3kqdH8zwqRqT8ofwzv6kARG1XzaVDA=",
+            "sha256": "sha256-mDdT+7+RlvEY5VNkCLqwHb7AF8kxOP0v5tHCwzAfBzo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.6/file/anweber.vscode-httpyac-5.5.6.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.0/file/anweber.vscode-httpyac-5.6.0.vsix"
         },
-        "version": "5.5.6"
+        "version": "5.6.0"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
@@ -13597,11 +13597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Kf2moqTJAVgTMWuGiZKwii7BHi0o7+09pwQ/1Nb2Ykg=",
+            "sha256": "sha256-m+bvyLxZpf0vhOU2Stz9oQoIW2imz/B75cWEfPX1HOo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2796961/file/eliostruyf.vscode-front-matter-beta-8.0.2796961.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2799136/file/eliostruyf.vscode-front-matter-beta-8.0.2799136.vsix"
         },
-        "version": "8.0.2796961"
+        "version": "8.0.2799136"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -16200,11 +16200,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fv3JgZu/VZMmkKhgfNDhbpoIsVGd71xf3XbUm6iU5u0=",
+            "sha256": "sha256-P9Z7ZKgm1cBfAFzaUBlqABnanOl5l5/2y4ymVlywxEw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/harmony/harmony-assist/0.0.2/file/harmony.harmony-assist-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/harmony/harmony-assist/0.0.5/file/harmony.harmony-assist-0.0.5.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.5"
     },
     "hashicorp-terraform": {
         "cargoLocks": null,
@@ -20784,6 +20784,25 @@
             "url": "https://open-vsx.org/api/llvm-vs-code-extensions/vscode-clangd/0.1.21/file/llvm-vs-code-extensions.vscode-clangd-0.1.21.vsix"
         },
         "version": "0.1.21"
+    },
+    "localizely-flutter-intl": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "localizely-flutter-intl",
+        "passthru": {
+            "description": "Flutter localization binding from .arb files with official Intl library",
+            "license": "https://github.com/localizely/flutter-intl-vscode/blob/master/LICENSE",
+            "name": "flutter-intl",
+            "publisher": "localizely"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-g8jQ0V7bQWrR9xDYQ5uevkP6sr0zsdBaypq+oQrFfaA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/localizely/flutter-intl/1.18.2/file/localizely.flutter-intl-1.18.2.vsix"
+        },
+        "version": "1.18.2"
     },
     "lokalise-i18n-ally": {
         "cargoLocks": null,

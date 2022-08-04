@@ -603,10 +603,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "13.2.0";
+    version = "13.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/13.2.0/file/CodeStream.codestream-13.2.0.vsix";
-      sha256 = "sha256-/fuVpaoYTZ6k2J8guXMpo8nhcTstzkv4+kb87WXVwC8=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/13.4.0/file/CodeStream.codestream-13.4.0.vsix";
+      sha256 = "sha256-S0lNHhkYiidTbZheZBCoYomutUb/gk+NNrlzYN2xZe0=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -5271,10 +5271,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.5.6";
+    version = "5.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.5.6/file/anweber.vscode-httpyac-5.5.6.vsix";
-      sha256 = "sha256-zLBaj7/ukWxCs3kqdH8zwqRqT8ofwzv6kARG1XzaVDA=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.0/file/anweber.vscode-httpyac-5.6.0.vsix";
+      sha256 = "sha256-mDdT+7+RlvEY5VNkCLqwHb7AF8kxOP0v5tHCwzAfBzo=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -8583,10 +8583,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2796961";
+    version = "8.0.2799136";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2796961/file/eliostruyf.vscode-front-matter-beta-8.0.2796961.vsix";
-      sha256 = "sha256-Kf2moqTJAVgTMWuGiZKwii7BHi0o7+09pwQ/1Nb2Ykg=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2799136/file/eliostruyf.vscode-front-matter-beta-8.0.2799136.vsix";
+      sha256 = "sha256-m+bvyLxZpf0vhOU2Stz9oQoIW2imz/B75cWEfPX1HOo=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -10227,10 +10227,10 @@
   };
   harmony-harmony-assist = {
     pname = "harmony-harmony-assist";
-    version = "0.0.2";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.2/file/harmony.harmony-assist-0.0.2.vsix";
-      sha256 = "sha256-fv3JgZu/VZMmkKhgfNDhbpoIsVGd71xf3XbUm6iU5u0=";
+      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.5/file/harmony.harmony-assist-0.0.5.vsix";
+      sha256 = "sha256-P9Z7ZKgm1cBfAFzaUBlqABnanOl5l5/2y4ymVlywxEw=";
     };
     license = "MIT";
     name = "harmony-assist";
@@ -13128,6 +13128,18 @@
     name = "vscode-clangd";
     description = "C/C++ completion, navigation, and insights";
     publisher = "llvm-vs-code-extensions";
+  };
+  localizely-flutter-intl = {
+    pname = "localizely-flutter-intl";
+    version = "1.18.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/localizely/flutter-intl/1.18.2/file/localizely.flutter-intl-1.18.2.vsix";
+      sha256 = "sha256-g8jQ0V7bQWrR9xDYQ5uevkP6sr0zsdBaypq+oQrFfaA=";
+    };
+    license = "https://github.com/localizely/flutter-intl-vscode/blob/master/LICENSE";
+    name = "flutter-intl";
+    description = "Flutter localization binding from .arb files with official Intl library";
+    publisher = "localizely";
   };
   lokalise-i18n-ally = {
     pname = "lokalise-i18n-ally";
