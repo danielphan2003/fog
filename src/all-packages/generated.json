@@ -1060,11 +1060,11 @@
             "name": null,
             "owner": "matrix-org",
             "repo": "matrix-appservice-discord",
-            "rev": "3026264a408d9d6e10bad6b5b91ccc013810df0a",
-            "sha256": "sha256-XJoCoa1TimPT2S5/s1QbRuSBeGKVqfzXVjRf3eyWKbk=",
+            "rev": "57583ea03023637f1ea66414802f69a283d49a41",
+            "sha256": "sha256-N7VFdDLcasSoD9NFe+FpugrRD8vJSgmpNEB7NCt7LrI=",
             "type": "github"
         },
-        "version": "3026264a408d9d6e10bad6b5b91ccc013810df0a"
+        "version": "57583ea03023637f1ea66414802f69a283d49a41"
     },
     "microsoft-edge-beta": {
         "cargoLocks": null,
@@ -1572,11 +1572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sZJMU2DDo2gytUtMn275MZ1kgQJxdWFe1eS+KxLGwBw=",
+            "sha256": "sha256-FrGxN2hCTojmN0ww5YWMWDl3QYzrd5a2umnZKx4mDQM=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.32.0/revanced-patches-2.32.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.32.1/revanced-patches-2.32.1.dex"
         },
-        "version": "2.32.0"
+        "version": "2.32.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1586,11 +1586,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9wJPZEPem0UmGC/bmVVbfCqJdtdhwgqei73/1lhXKvo=",
+            "sha256": "sha256-f6h0Z6DUZCcUyy27FFZbZxYv3GxDHrS9qWYN+mGfqOU=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.32.0/revanced-patches-2.32.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.32.1/revanced-patches-2.32.1.jar"
         },
-        "version": "2.32.0"
+        "version": "2.32.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "a9f6cd41fdf82f55ed1f0e99291175fbd9a8d915",
-            "sha256": "sha256-c+EH5zf/UEk4pbMY0FY/eKMaE34VosPfyoi79Sx4kCU=",
+            "rev": "f50043f6cbda2fcefb1dc10efca656890e5eb76b",
+            "sha256": "sha256-NREDLikfxNihIvz62aOy6Z9pR/E4db4kk8mgkbYWwJs=",
             "type": "github"
         },
-        "version": "a9f6cd41fdf82f55ed1f0e99291175fbd9a8d915"
+        "version": "f50043f6cbda2fcefb1dc10efca656890e5eb76b"
     },
     "tailscale-systray": {
         "cargoLocks": null,
