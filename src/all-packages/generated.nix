@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "1960a0dc117dd30fb507b390ddf93b2ef371b9ad";
+    version = "2642bd72b7ca35b8622824fdffced2aefe1aaf11";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "1960a0dc117dd30fb507b390ddf93b2ef371b9ad";
+      rev = "2642bd72b7ca35b8622824fdffced2aefe1aaf11";
       fetchSubmodules = false;
-      sha256 = "sha256-Klc7xf9um0lQsLZ1l5vk0vXISFkEgK2z5as9wmm3PSk=";
+      sha256 = "sha256-KGoOfpn7H+FPtJUk6zVC0SqB/F0NlU86vogHhXTRIBk=";
     });
   };
   cinny = {
@@ -924,10 +924,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.0";
+    version = "2.9.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.0/revanced-cli-2.9.0-all.jar";
-      sha256 = "sha256-T9NusQ85v6qhcr2EBFYTKO1eA8UlAqpn4kBD4nD91U8=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.1/revanced-cli-2.9.1-all.jar";
+      sha256 = "sha256-tAENQVL2ha0p2jNoB8DzYRgPZaIcaNmRj7xedrlPtJY=";
     };
   };
   revanced-integrations = {
@@ -940,18 +940,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.31.0";
+    version = "2.32.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.31.0/revanced-patches-2.31.0.dex";
-      sha256 = "sha256-m/byFdooGsZ1jZcuiVGZXMrnrJqBntSx/5neQj6aLLs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.32.0/revanced-patches-2.32.0.dex";
+      sha256 = "sha256-sZJMU2DDo2gytUtMn275MZ1kgQJxdWFe1eS+KxLGwBw=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.31.0";
+    version = "2.32.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.31.0/revanced-patches-2.31.0.jar";
-      sha256 = "sha256-BQCjer1Qe9aSjncG9ZrOK3MFjLtgpluiSMNAH8TQGAs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.32.0/revanced-patches-2.32.0.jar";
+      sha256 = "sha256-9wJPZEPem0UmGC/bmVVbfCqJdtdhwgqei73/1lhXKvo=";
     };
   };
   rofi-wayland = {
