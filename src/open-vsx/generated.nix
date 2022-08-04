@@ -447,10 +447,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.1";
+    version = "3.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.1/file/CL.eide-3.8.1.vsix";
-      sha256 = "sha256-LtvYFOfQSM82laDp2oIqS68t1Fj4IwsVjuZRs53aNQw=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.2/file/CL.eide-3.8.2.vsix";
+      sha256 = "sha256-Em1Y2Fw9bA0DPc2ZiLanTib5yKugD/XMDLOfkm2vJMc=";
     };
     license = "MIT";
     name = "eide";
@@ -5043,10 +5043,10 @@
   };
   antfu-iconify = {
     pname = "antfu-iconify";
-    version = "0.3.3";
+    version = "0.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/antfu/iconify/0.3.3/file/antfu.iconify-0.3.3.vsix";
-      sha256 = "sha256-N+PrWQwj81MBkYFy9A8cVxHyiWjzL/DF52O5I2rKJSg=";
+      url = "https://open-vsx.org/api/antfu/iconify/0.3.4/file/antfu.iconify-0.3.4.vsix";
+      sha256 = "sha256-THHvQnTU3BKCA/tJa6uANyi8NkKTkfRWuQEIZ/AezAY=";
     };
     license = "MIT";
     name = "iconify";
@@ -5427,10 +5427,10 @@
   };
   arm-device-manager = {
     pname = "arm-device-manager";
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/device-manager/1.0.4/file/arm.device-manager-1.0.4.vsix";
-      sha256 = "sha256-CZUJ53IODKnw2QbP24ceH3rPQbaBv+Qza9ys9LuxODQ=";
+      url = "https://open-vsx.org/api/arm/device-manager/1.0.5/file/arm.device-manager-1.0.5.vsix";
+      sha256 = "sha256-fd4Zi4bFcbN6RZaSVnVFb+VWtCOUZLl3a8hcM3dQxUY=";
     };
     license = "";
     name = "device-manager";
@@ -8583,10 +8583,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2765794";
+    version = "8.0.2796961";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2765794/file/eliostruyf.vscode-front-matter-beta-8.0.2765794.vsix";
-      sha256 = "sha256-IEBdipkF1zmhBglLU37NNhexHcF3a7UD5SSZxT5+SJM=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2796961/file/eliostruyf.vscode-front-matter-beta-8.0.2796961.vsix";
+      sha256 = "sha256-Kf2moqTJAVgTMWuGiZKwii7BHi0o7+09pwQ/1Nb2Ykg=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -9327,10 +9327,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.19.1";
+    version = "0.19.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.1/file/foam.foam-vscode-0.19.1.vsix";
-      sha256 = "sha256-ZU7s3MgC+/fUkl6qxSAdyeECOhK9POCaKZJFQbAnNQM=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.2/file/foam.foam-vscode-0.19.2.vsix";
+      sha256 = "sha256-ELqcvJUwZvuWw7CopW7vpV87QGVfSUMMEk+dl8IiNlE=";
     };
     license = "MIT";
     name = "foam-vscode";

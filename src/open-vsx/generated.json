@@ -715,11 +715,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LtvYFOfQSM82laDp2oIqS68t1Fj4IwsVjuZRs53aNQw=",
+            "sha256": "sha256-Em1Y2Fw9bA0DPc2ZiLanTib5yKugD/XMDLOfkm2vJMc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.8.1/file/CL.eide-3.8.1.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.8.2/file/CL.eide-3.8.2.vsix"
         },
-        "version": "3.8.1"
+        "version": "3.8.2"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -7992,11 +7992,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-N+PrWQwj81MBkYFy9A8cVxHyiWjzL/DF52O5I2rKJSg=",
+            "sha256": "sha256-THHvQnTU3BKCA/tJa6uANyi8NkKTkfRWuQEIZ/AezAY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/antfu/iconify/0.3.3/file/antfu.iconify-0.3.3.vsix"
+            "url": "https://open-vsx.org/api/antfu/iconify/0.3.4/file/antfu.iconify-0.3.4.vsix"
         },
-        "version": "0.3.3"
+        "version": "0.3.4"
     },
     "antfu-icons-carbon": {
         "cargoLocks": null,
@@ -8600,11 +8600,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CZUJ53IODKnw2QbP24ceH3rPQbaBv+Qza9ys9LuxODQ=",
+            "sha256": "sha256-fd4Zi4bFcbN6RZaSVnVFb+VWtCOUZLl3a8hcM3dQxUY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/device-manager/1.0.4/file/arm.device-manager-1.0.4.vsix"
+            "url": "https://open-vsx.org/api/arm/device-manager/1.0.5/file/arm.device-manager-1.0.5.vsix"
         },
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -13597,11 +13597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IEBdipkF1zmhBglLU37NNhexHcF3a7UD5SSZxT5+SJM=",
+            "sha256": "sha256-Kf2moqTJAVgTMWuGiZKwii7BHi0o7+09pwQ/1Nb2Ykg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2765794/file/eliostruyf.vscode-front-matter-beta-8.0.2765794.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2796961/file/eliostruyf.vscode-front-matter-beta-8.0.2796961.vsix"
         },
-        "version": "8.0.2765794"
+        "version": "8.0.2796961"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
@@ -14775,11 +14775,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZU7s3MgC+/fUkl6qxSAdyeECOhK9POCaKZJFQbAnNQM=",
+            "sha256": "sha256-ELqcvJUwZvuWw7CopW7vpV87QGVfSUMMEk+dl8IiNlE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foam/foam-vscode/0.19.1/file/foam.foam-vscode-0.19.1.vsix"
+            "url": "https://open-vsx.org/api/foam/foam-vscode/0.19.2/file/foam.foam-vscode-0.19.2.vsix"
         },
-        "version": "0.19.1"
+        "version": "0.19.2"
     },
     "folke-vscode-monorepo-workspace": {
         "cargoLocks": null,
