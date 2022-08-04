@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "07f68bf72a5e0ac217e6de8b8061ae25d12d861c";
+    version = "c7c0149c082714901697483669c8b382865885cf";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "07f68bf72a5e0ac217e6de8b8061ae25d12d861c";
+      rev = "c7c0149c082714901697483669c8b382865885cf";
       fetchSubmodules = false;
-      sha256 = "sha256-yv4hxH/U1NWABzbh+JA15Wt5QhgnH2YyelDDacVAmSg=";
+      sha256 = "sha256-g8fzn4Yis0YnDWPC04Qr+kuWn2dub5W8S6FOtOTWtqo=";
     });
   };
   ibus = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6430";
+    version = "1.0.6431";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6430.tar.bz2";
-      sha256 = "sha256-tWmN3uNYRWe8B7V1U93eA70JlbY2xPQgpTtiw8/gv94=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6431.tar.bz2";
+      sha256 = "sha256-R1UcPVrrBKFAl5ElDIh8fXlfj7NNcvnlqL0xW39LmN4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6430";
+    version = "1.0.6431";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6430-1_all.deb";
-      sha256 = "sha256-wJzqdQzTp6Wbil1XDOA8Qk7K/bVisIWd+ko33sLC6OU=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6431-1_all.deb";
+      sha256 = "sha256-xqrTP91vxRW08Og2QQEV0V47f4RNgB5t4/TWunVa90I=";
     };
   };
   jitsi-videobridge2 = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "6ad88b080ec9f8bf776109f5f06d3d9242c4481e";
+    version = "7068eebe0c59fea26a4fc176c769ef46fd3ad718";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "6ad88b080ec9f8bf776109f5f06d3d9242c4481e";
+      rev = "7068eebe0c59fea26a4fc176c769ef46fd3ad718";
       fetchSubmodules = false;
-      sha256 = "sha256-uPjOsRJoZRkBXHyJd89IDT1v4N6TupScA646wz4B2Yo=";
+      sha256 = "sha256-JBj5iXH19dyCKMrLRXXSN+YWp1xBy3A2bUSAiAzTK7U=";
     });
   };
   revanced-cli = {
@@ -1070,14 +1070,14 @@
   };
   snui = {
     pname = "snui";
-    version = "53097fbea4e6416a7d097b609564568d5e03369f";
+    version = "20029335123d320d1ea68935653c99758e66bf60";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "53097fbea4e6416a7d097b609564568d5e03369f";
+      rev = "20029335123d320d1ea68935653c99758e66bf60";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2svkwEUGtsH/3acTcun5vDEtg8Gyve9IckNAhakxWIk=";
+      sha256 = "sha256-sWHHpeq0ZyvMpX8P2sLwRC3YD59iw7p5YS5kSK6tR9s=";
     };
   };
   spicetify-cli = {
