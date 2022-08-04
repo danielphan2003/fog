@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1256";
+    version = "31.0.1257";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1256/file/Prisma.prisma-insider-31.0.1256.vsix";
-      sha256 = "sha256-/hr0CJ9SlpfMSZ9+T8zA8wZFVZtUQQ0ZwUND1xM8aM0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1257/file/Prisma.prisma-insider-31.0.1257.vsix";
+      sha256 = "sha256-QKL7+unLS1C7uk/9ApM6+r4CFxn/Ou6iVUoi07acJtw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -4527,10 +4527,10 @@
   };
   adotinthevoid-hare-highlighting = {
     pname = "adotinthevoid-hare-highlighting";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.3/file/adotinthevoid.hare-highlighting-0.0.3.vsix";
-      sha256 = "sha256-sF7Vt+M+6i3ogjcu+kjuGyucSTd5jswNi2UqHJLSMKU=";
+      url = "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.4/file/adotinthevoid.hare-highlighting-0.0.4.vsix";
+      sha256 = "sha256-oZo4bwmQ9BU+ufLrpayXnbbpJDTIfwtlHFz0gjkW4ZQ=";
     };
     license = "MIT OR Apache-2.0";
     name = "hare-highlighting";
@@ -7899,10 +7899,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.0.12";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.12/file/deadlock.deadlock-gitpod-0.0.12.vsix";
-      sha256 = "sha256-/mNyXRWBJfqUf45sIUCyZWvZYVPbQFra1t6+NE56GAU=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.17/file/deadlock.deadlock-gitpod-0.0.17.vsix";
+      sha256 = "sha256-7pS3BlNyEopx9/dhS5/PKDPY2+EQtwLbw+GtDuitFts=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -17679,10 +17679,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.1";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.1/file/rgherdt.scheme-lsp-0.2.1.vsix";
-      sha256 = "sha256-TkyNWbB1jCAM1uiNPv2CdZ+CcDQu+JhOgbEwiAqBqkI=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.3/file/rgherdt.scheme-lsp-0.2.3.vsix";
+      sha256 = "sha256-sl5xjZ/wBTPS4V4yHP6dUvubw6e/MDd+Z5nwEpQUYqI=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -22884,6 +22884,18 @@
     name = "otp-toolbox";
     description = "Generate TOTP tokens.";
     publisher = "wdhongtw";
+  };
+  weaveworks-vscode-gitops-tools = {
+    pname = "weaveworks-vscode-gitops-tools";
+    version = "0.20.9";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.9/file/weaveworks.vscode-gitops-tools-0.20.9.vsix";
+      sha256 = "sha256-+z78lHLpo8NA3/IYWMD6zoizUuZLMk4igHjr+gOkdRM=";
+    };
+    license = "MPL-2.0";
+    name = "vscode-gitops-tools";
+    description = "GitOps automation tools for continuous delivery of Kubernetes and Cloud Native applications";
+    publisher = "weaveworks";
   };
   webfreak-code-d = {
     pname = "webfreak-code-d";

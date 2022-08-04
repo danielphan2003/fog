@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/hr0CJ9SlpfMSZ9+T8zA8wZFVZtUQQ0ZwUND1xM8aM0=",
+            "sha256": "sha256-QKL7+unLS1C7uk/9ApM6+r4CFxn/Ou6iVUoi07acJtw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1256/file/Prisma.prisma-insider-31.0.1256.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1257/file/Prisma.prisma-insider-31.0.1257.vsix"
         },
-        "version": "31.0.1256"
+        "version": "31.0.1257"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -7175,11 +7175,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sF7Vt+M+6i3ogjcu+kjuGyucSTd5jswNi2UqHJLSMKU=",
+            "sha256": "sha256-oZo4bwmQ9BU+ufLrpayXnbbpJDTIfwtlHFz0gjkW4ZQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.3/file/adotinthevoid.hare-highlighting-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/adotinthevoid/hare-highlighting/0.0.4/file/adotinthevoid.hare-highlighting-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "adpyke-codesnap": {
         "cargoLocks": null,
@@ -12514,11 +12514,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/mNyXRWBJfqUf45sIUCyZWvZYVPbQFra1t6+NE56GAU=",
+            "sha256": "sha256-7pS3BlNyEopx9/dhS5/PKDPY2+EQtwLbw+GtDuitFts=",
             "type": "url",
-            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.12/file/deadlock.deadlock-gitpod-0.0.12.vsix"
+            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.17/file/deadlock.deadlock-gitpod-0.0.17.vsix"
         },
-        "version": "0.0.12"
+        "version": "0.0.17"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -27999,11 +27999,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TkyNWbB1jCAM1uiNPv2CdZ+CcDQu+JhOgbEwiAqBqkI=",
+            "sha256": "sha256-sl5xjZ/wBTPS4V4yHP6dUvubw6e/MDd+Z5nwEpQUYqI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.1/file/rgherdt.scheme-lsp-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.3/file/rgherdt.scheme-lsp-0.2.3.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.2.3"
     },
     "ria-elastic": {
         "cargoLocks": null,
@@ -36231,6 +36231,25 @@
             "url": "https://open-vsx.org/api/wdhongtw/otp-toolbox/0.1.2/file/wdhongtw.otp-toolbox-0.1.2.vsix"
         },
         "version": "0.1.2"
+    },
+    "weaveworks-vscode-gitops-tools": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "weaveworks-vscode-gitops-tools",
+        "passthru": {
+            "description": "GitOps automation tools for continuous delivery of Kubernetes and Cloud Native applications",
+            "license": "MPL-2.0",
+            "name": "vscode-gitops-tools",
+            "publisher": "weaveworks"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-+z78lHLpo8NA3/IYWMD6zoizUuZLMk4igHjr+gOkdRM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.9/file/weaveworks.vscode-gitops-tools-0.20.9.vsix"
+        },
+        "version": "0.20.9"
     },
     "webfreak-code-d": {
         "cargoLocks": null,
