@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1255";
+    version = "31.0.1256";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1255/file/Prisma.prisma-insider-31.0.1255.vsix";
-      sha256 = "sha256-RI4gLSvhS3L1zMyCXcORN+XDH1N7fmw+irslfcmx5mo=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1256/file/Prisma.prisma-insider-31.0.1256.vsix";
+      sha256 = "sha256-/hr0CJ9SlpfMSZ9+T8zA8wZFVZtUQQ0ZwUND1xM8aM0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3447,10 +3447,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.213";
+    version = "2022.8.318";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.213/file/Slint.slint-nightly-2022.8.213.vsix";
-      sha256 = "sha256-/F9UsoXHdoLt8f1L45NSCFqK4IPMB337GN5LZFjlEpQ=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.318/file/Slint.slint-nightly-2022.8.318.vsix";
+      sha256 = "sha256-Vn6sgU2wr0Sk5zGlqmDa2yWj7JGrA5V3bTBRJCNH0e0=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -14643,10 +14643,10 @@
   };
   ms-vscode-azure-account = {
     pname = "ms-vscode-azure-account";
-    version = "0.11.0";
+    version = "0.11.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/azure-account/0.11.0/file/ms-vscode.azure-account-0.11.0.vsix";
-      sha256 = "sha256-71kjFEwqKmlnjQNbeHtMv1QpFJcC25wNdVJxpytz4qc=";
+      url = "https://open-vsx.org/api/ms-vscode/azure-account/0.11.1/file/ms-vscode.azure-account-0.11.1.vsix";
+      sha256 = "sha256-TpQjFeI76BC/t2cPR1xa/DXbMFoeVAusnOGLx71B6IM=";
     };
     license = "MIT";
     name = "azure-account";
@@ -14955,10 +14955,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220802";
+    version = "4.8.20220803";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220802/file/ms-vscode.vscode-typescript-next-4.8.20220802.vsix";
-      sha256 = "sha256-jJuWEDZ8JPRb148tkQuXQDwdf/Fl51LeVw3TD+3bJXE=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220803/file/ms-vscode.vscode-typescript-next-4.8.20220803.vsix";
+      sha256 = "sha256-To6TjjAAe9uzLgYrmzYQ84VLMJmjIOLBIeCfAfXNp3Y=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -16083,14 +16083,14 @@
   };
   paiqo-databricks-vscode = {
     pname = "paiqo-databricks-vscode";
-    version = "0.9.4";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/paiqo/databricks-vscode/0.9.4/file/paiqo.databricks-vscode-0.9.4.vsix";
-      sha256 = "sha256-nLMXrTD6sDA6rmtCB4dkOsiVjz2Al2ff0z46qU4ARQY=";
+      url = "https://open-vsx.org/api/paiqo/databricks-vscode/1.0.0/file/paiqo.databricks-vscode-1.0.0.vsix";
+      sha256 = "sha256-Ef3TOMA/Z7dyevN58K1cs+2zJ25HUtzpdlybnmcM9ao=";
     };
     license = "GPL-3.0-or-later";
     name = "databricks-vscode";
-    description = "Databricks Extension for VSCode";
+    description = "Extension to manage your Databricks workspace and ease local development";
     publisher = "paiqo";
   };
   panaeon-vscode-dhall-lsp-server = {
@@ -18387,10 +18387,10 @@
   };
   scala-lang-scala = {
     pname = "scala-lang-scala";
-    version = "0.5.5";
+    version = "0.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scala-lang/scala/0.5.5/file/scala-lang.scala-0.5.5.vsix";
-      sha256 = "sha256-QRtYgxSH2rj7bN4uiiArhQ81bBLla7qHTAoNT2+tQps=";
+      url = "https://open-vsx.org/api/scala-lang/scala/0.5.6/file/scala-lang.scala-0.5.6.vsix";
+      sha256 = "sha256-hr5qaca3b9pkdsgW9yP1MNtI9BIx/FcgnkHL0+ISZgU=";
     };
     license = "MIT";
     name = "scala";
