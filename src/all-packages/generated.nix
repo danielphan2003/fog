@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e1caf32817df57895f43b8667e7072790659e48d";
+    version = "c6b99a5df00fff52735300a04d2c553e47c6fd39";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e1caf32817df57895f43b8667e7072790659e48d";
+      rev = "c6b99a5df00fff52735300a04d2c553e47c6fd39";
       fetchSubmodules = false;
-      sha256 = "sha256-8tO/eG+DOywZVsArwFa7cK2pR8TIqY595UBGTxqZ5Bs=";
+      sha256 = "sha256-73BfQULQhx6+bKhP2jH9uZvhRwt/NgzD7vhK7Il0N3s=";
     });
   };
   revanced-cli = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f50043f6cbda2fcefb1dc10efca656890e5eb76b";
+    version = "f0d6f173c919fdccf726f6984891d2c702c74111";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f50043f6cbda2fcefb1dc10efca656890e5eb76b";
+      rev = "f0d6f173c919fdccf726f6984891d2c702c74111";
       fetchSubmodules = false;
-      sha256 = "sha256-NREDLikfxNihIvz62aOy6Z9pR/E4db4kk8mgkbYWwJs=";
+      sha256 = "sha256-oTzmvs/DZDN9SeqfBGL0bfJ/2TlrBz7MzAoSnkUqMjk=";
     });
   };
   tailscale-systray = {
@@ -1246,7 +1246,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "68fd22ef02d6b310e3cf47b2af1aa041b01c2a43";
+    version = "145f651d2a2e507879b0163e46c590b01185839e";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";

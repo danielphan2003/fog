@@ -1530,11 +1530,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "e1caf32817df57895f43b8667e7072790659e48d",
-            "sha256": "sha256-8tO/eG+DOywZVsArwFa7cK2pR8TIqY595UBGTxqZ5Bs=",
+            "rev": "c6b99a5df00fff52735300a04d2c553e47c6fd39",
+            "sha256": "sha256-73BfQULQhx6+bKhP2jH9uZvhRwt/NgzD7vhK7Il0N3s=",
             "type": "github"
         },
-        "version": "e1caf32817df57895f43b8667e7072790659e48d"
+        "version": "c6b99a5df00fff52735300a04d2c553e47c6fd39"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "f50043f6cbda2fcefb1dc10efca656890e5eb76b",
-            "sha256": "sha256-NREDLikfxNihIvz62aOy6Z9pR/E4db4kk8mgkbYWwJs=",
+            "rev": "f0d6f173c919fdccf726f6984891d2c702c74111",
+            "sha256": "sha256-oTzmvs/DZDN9SeqfBGL0bfJ/2TlrBz7MzAoSnkUqMjk=",
             "type": "github"
         },
-        "version": "f50043f6cbda2fcefb1dc10efca656890e5eb76b"
+        "version": "f0d6f173c919fdccf726f6984891d2c702c74111"
     },
     "tailscale-systray": {
         "cargoLocks": null,
@@ -2069,7 +2069,7 @@
             "type": "url",
             "url": "https://github.com/z411/trackma/archive/master.tar.gz"
         },
-        "version": "68fd22ef02d6b310e3cf47b2af1aa041b01c2a43"
+        "version": "145f651d2a2e507879b0163e46c590b01185839e"
     },
     "ulauncher": {
         "cargoLocks": null,
