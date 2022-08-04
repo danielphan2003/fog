@@ -10191,10 +10191,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.9.4";
+    version = "0.9.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.4/file/halcyontechltd.vscode-rpgle-0.9.4.vsix";
-      sha256 = "sha256-J4pThZI9rbSE2VUtAggMKoNUYTEar6koSBk8MABFzTg=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.5/file/halcyontechltd.vscode-rpgle-0.9.5.vsix";
+      sha256 = "sha256-0Ba7REyzcWSDqhCo+5yiTwmnrW5LXkSHZwf1Go4aqDA=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -17655,10 +17655,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.2";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.2/file/remcohaszing.schemastore-1.0.2.vsix";
-      sha256 = "sha256-gry6Vo0ncUBk1URQGXE0qzdil3N0cJHvMJZphtVODCc=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.4/file/remcohaszing.schemastore-1.0.4.vsix";
+      sha256 = "sha256-I2Z3sNF6PtOu2pzBAZYeXJhsOtO8c36VCuMt/naXgZ0=";
     };
     license = "MIT";
     name = "schemastore";
@@ -18219,10 +18219,10 @@
   };
   sainnhe-everforest = {
     pname = "sainnhe-everforest";
-    version = "0.2.0";
+    version = "0.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sainnhe/everforest/0.2.0/file/sainnhe.everforest-0.2.0.vsix";
-      sha256 = "sha256-mHEkpieuF5CYSFH+6i4gTFonD8jwdkLycClc5evYzLc=";
+      url = "https://open-vsx.org/api/sainnhe/everforest/0.2.1/file/sainnhe.everforest-0.2.1.vsix";
+      sha256 = "sha256-Cu+pypSKNVr3Hd+X4llhraALSTQu2xNJbph9tP3JOa8=";
     };
     license = "MIT";
     name = "everforest";
@@ -18231,10 +18231,10 @@
   };
   sainnhe-gruvbox-material = {
     pname = "sainnhe-gruvbox-material";
-    version = "6.5.0";
+    version = "6.5.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sainnhe/gruvbox-material/6.5.0/file/sainnhe.gruvbox-material-6.5.0.vsix";
-      sha256 = "sha256-HLVFzOoAXFPubs2ntUYub1wFQwZ8Ez+qByg5QFf1t+M=";
+      url = "https://open-vsx.org/api/sainnhe/gruvbox-material/6.5.1/file/sainnhe.gruvbox-material-6.5.1.vsix";
+      sha256 = "sha256-HmLKZPUez4Ot4c4f6EvDaQbhcJuvbBelqf+woqVbatw=";
     };
     license = "MIT";
     name = "gruvbox-material";

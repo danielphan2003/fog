@@ -16143,11 +16143,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-J4pThZI9rbSE2VUtAggMKoNUYTEar6koSBk8MABFzTg=",
+            "sha256": "sha256-0Ba7REyzcWSDqhCo+5yiTwmnrW5LXkSHZwf1Go4aqDA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.4/file/halcyontechltd.vscode-rpgle-0.9.4.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.5/file/halcyontechltd.vscode-rpgle-0.9.5.vsix"
         },
-        "version": "0.9.4"
+        "version": "0.9.5"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -27961,11 +27961,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gry6Vo0ncUBk1URQGXE0qzdil3N0cJHvMJZphtVODCc=",
+            "sha256": "sha256-I2Z3sNF6PtOu2pzBAZYeXJhsOtO8c36VCuMt/naXgZ0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.2/file/remcohaszing.schemastore-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.4/file/remcohaszing.schemastore-1.0.4.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.0.4"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,
@@ -28854,11 +28854,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mHEkpieuF5CYSFH+6i4gTFonD8jwdkLycClc5evYzLc=",
+            "sha256": "sha256-Cu+pypSKNVr3Hd+X4llhraALSTQu2xNJbph9tP3JOa8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sainnhe/everforest/0.2.0/file/sainnhe.everforest-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/sainnhe/everforest/0.2.1/file/sainnhe.everforest-0.2.1.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.2.1"
     },
     "sainnhe-gruvbox-material": {
         "cargoLocks": null,
@@ -28873,11 +28873,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HLVFzOoAXFPubs2ntUYub1wFQwZ8Ez+qByg5QFf1t+M=",
+            "sha256": "sha256-HmLKZPUez4Ot4c4f6EvDaQbhcJuvbBelqf+woqVbatw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sainnhe/gruvbox-material/6.5.0/file/sainnhe.gruvbox-material-6.5.0.vsix"
+            "url": "https://open-vsx.org/api/sainnhe/gruvbox-material/6.5.1/file/sainnhe.gruvbox-material-6.5.1.vsix"
         },
-        "version": "6.5.0"
+        "version": "6.5.1"
     },
     "sainnhe-soft-material": {
         "cargoLocks": null,
