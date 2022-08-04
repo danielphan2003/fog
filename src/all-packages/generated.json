@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "5e97fe8fcd0f87899fdb00050a8b4a0aeac69080",
-            "sha256": "sha256-xxDeALIJTY4eDaU2rtnQbOO0xpTJzpDPegvlTH8ring=",
+            "rev": "07f68bf72a5e0ac217e6de8b8061ae25d12d861c",
+            "sha256": "sha256-yv4hxH/U1NWABzbh+JA15Wt5QhgnH2YyelDDacVAmSg=",
             "type": "github"
         },
-        "version": "5e97fe8fcd0f87899fdb00050a8b4a0aeac69080"
+        "version": "07f68bf72a5e0ac217e6de8b8061ae25d12d861c"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1149,11 +1149,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1fMvCX+nh8RCZoAqIU/9wTEZw2PzN4BTggug/ejjdjA=",
+            "sha256": "sha256-+i4MgMDunCoJjDLLdp1r0y2CxVuDqw/Ed7aNg0+FtmA=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.33.1.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.34.0.tar.gz"
         },
-        "version": "0.33.1"
+        "version": "0.34.0"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,

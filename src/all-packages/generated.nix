@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "5e97fe8fcd0f87899fdb00050a8b4a0aeac69080";
+    version = "07f68bf72a5e0ac217e6de8b8061ae25d12d861c";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "5e97fe8fcd0f87899fdb00050a8b4a0aeac69080";
+      rev = "07f68bf72a5e0ac217e6de8b8061ae25d12d861c";
       fetchSubmodules = false;
-      sha256 = "sha256-xxDeALIJTY4eDaU2rtnQbOO0xpTJzpDPegvlTH8ring=";
+      sha256 = "sha256-yv4hxH/U1NWABzbh+JA15Wt5QhgnH2YyelDDacVAmSg=";
     });
   };
   ibus = {
@@ -686,10 +686,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.33.1";
+    version = "0.34.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.33.1.tar.gz";
-      sha256 = "sha256-1fMvCX+nh8RCZoAqIU/9wTEZw2PzN4BTggug/ejjdjA=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.34.0.tar.gz";
+      sha256 = "sha256-+i4MgMDunCoJjDLLdp1r0y2CxVuDqw/Ed7aNg0+FtmA=";
     };
   };
   nix-zsh-completions = {
