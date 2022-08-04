@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "5055e00cf1e119e8242d655e48a5a9ba18136910",
-            "sha256": "sha256-GsJ3tuNgW7f16LvCprJ+y3zs6SwFNILwrU+mgcM+tDA=",
+            "rev": "a9f6cd41fdf82f55ed1f0e99291175fbd9a8d915",
+            "sha256": "sha256-c+EH5zf/UEk4pbMY0FY/eKMaE34VosPfyoi79Sx4kCU=",
             "type": "github"
         },
-        "version": "5055e00cf1e119e8242d655e48a5a9ba18136910"
+        "version": "a9f6cd41fdf82f55ed1f0e99291175fbd9a8d915"
     },
     "tailscale-systray": {
         "cargoLocks": null,
