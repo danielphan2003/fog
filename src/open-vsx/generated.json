@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QKL7+unLS1C7uk/9ApM6+r4CFxn/Ou6iVUoi07acJtw=",
+            "sha256": "sha256-x340knu7cXwSegOlVTZZeiWgs+9IDTaKAeCDI6FYrAQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1257/file/Prisma.prisma-insider-31.0.1257.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1258/file/Prisma.prisma-insider-31.0.1258.vsix"
         },
-        "version": "31.0.1257"
+        "version": "31.0.1258"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -15478,11 +15478,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ke2lE6m/h0I1/gzHGHU5GSp/OYLRpj2T8GKZeSmhzkg=",
+            "sha256": "sha256-SXklo4kbb2y3XclsMMXFFQzebjEfNbE49CV/EXxkvEU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ggbecker/content-navigator/1.0.2/file/ggbecker.content-navigator-1.0.2.vsix"
+            "url": "https://open-vsx.org/api/ggbecker/content-navigator/1.0.4/file/ggbecker.content-navigator-1.0.4.vsix"
         },
-        "version": "1.0.2"
+        "version": "1.0.4"
     },
     "gharveymn-nightswitch-lite": {
         "cargoLocks": null,
@@ -27999,11 +27999,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sl5xjZ/wBTPS4V4yHP6dUvubw6e/MDd+Z5nwEpQUYqI=",
+            "sha256": "sha256-dS82X749DM/NsWpaNQewGIyXOqmVZSUZjErY+dSoO1g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.3/file/rgherdt.scheme-lsp-0.2.3.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.4/file/rgherdt.scheme-lsp-0.2.4.vsix"
         },
-        "version": "0.2.3"
+        "version": "0.2.4"
     },
     "ria-elastic": {
         "cargoLocks": null,
