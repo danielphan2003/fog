@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6429";
+    version = "1.0.6430";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6429.tar.bz2";
-      sha256 = "sha256-5g1QRRsrCWzFaTWhRP0qKkpirFTcVlDLiJ7xBoQ17x0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6430.tar.bz2";
+      sha256 = "sha256-tWmN3uNYRWe8B7V1U93eA70JlbY2xPQgpTtiw8/gv94=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6429";
+    version = "1.0.6430";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6429-1_all.deb";
-      sha256 = "sha256-fElCpnwMPQHpG15A2yMq4OuVpw9G3r/+cyq4GdpNbG8=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6430-1_all.deb";
+      sha256 = "sha256-wJzqdQzTp6Wbil1XDOA8Qk7K/bVisIWd+ko33sLC6OU=";
     };
   };
   jitsi-videobridge2 = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "b2634ea5885b6f09697c4b0d13e8d9c93ca381ea";
+    version = "6ad88b080ec9f8bf776109f5f06d3d9242c4481e";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "b2634ea5885b6f09697c4b0d13e8d9c93ca381ea";
+      rev = "6ad88b080ec9f8bf776109f5f06d3d9242c4481e";
       fetchSubmodules = false;
-      sha256 = "sha256-5iO0vYj4UkWWatTwasj54m5F9OiBr5kQ/hMJCqbAlgU=";
+      sha256 = "sha256-uPjOsRJoZRkBXHyJd89IDT1v4N6TupScA646wz4B2Yo=";
     });
   };
   revanced-cli = {
