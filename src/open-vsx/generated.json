@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xdAXtMTgVG8eiKDYpBdfW84BB0hbMXrWvlFCkeb8Xy4=",
+            "sha256": "sha256-fq1worcb/r2jrxwJSDU9heedP/suN3oNbsQqPXNWU84=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1261/file/Prisma.prisma-insider-31.0.1261.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1262/file/Prisma.prisma-insider-31.0.1262.vsix"
         },
-        "version": "31.0.1261"
+        "version": "31.0.1262"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -28037,11 +28037,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dS82X749DM/NsWpaNQewGIyXOqmVZSUZjErY+dSoO1g=",
+            "sha256": "sha256-dXbNewxwd8rwK217gtBJbvJ630b8ZBuJCOZiUm8cXF4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.4/file/rgherdt.scheme-lsp-0.2.4.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.5/file/rgherdt.scheme-lsp-0.2.5.vsix"
         },
-        "version": "0.2.4"
+        "version": "0.2.5"
     },
     "ria-elastic": {
         "cargoLocks": null,

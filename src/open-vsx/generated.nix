@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1261";
+    version = "31.0.1262";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1261/file/Prisma.prisma-insider-31.0.1261.vsix";
-      sha256 = "sha256-xdAXtMTgVG8eiKDYpBdfW84BB0hbMXrWvlFCkeb8Xy4=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1262/file/Prisma.prisma-insider-31.0.1262.vsix";
+      sha256 = "sha256-fq1worcb/r2jrxwJSDU9heedP/suN3oNbsQqPXNWU84=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -17703,10 +17703,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.4";
+    version = "0.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.4/file/rgherdt.scheme-lsp-0.2.4.vsix";
-      sha256 = "sha256-dS82X749DM/NsWpaNQewGIyXOqmVZSUZjErY+dSoO1g=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.5/file/rgherdt.scheme-lsp-0.2.5.vsix";
+      sha256 = "sha256-dXbNewxwd8rwK217gtBJbvJ630b8ZBuJCOZiUm8cXF4=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
