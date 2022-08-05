@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "ad423928564126f586ea689c151bdbe164ea101e",
-            "sha256": "sha256-jifXsazUwgnPggxC+aw5TuAl3Bq6Xk896FQGfOl1T24=",
+            "rev": "cd37a1533e0e86fffdd333e18bab0bb730c1dc25",
+            "sha256": "sha256-XemItgbWiOUTKdYEaNTR91UWQ4Omcz8Zak7/bfaHO7c=",
             "type": "github"
         },
-        "version": "ad423928564126f586ea689c151bdbe164ea101e"
+        "version": "cd37a1533e0e86fffdd333e18bab0bb730c1dc25"
     },
     "ibus": {
         "cargoLocks": null,
@@ -904,11 +904,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L6QRzU2M7EtBMnGgtx2Q4sYFAgJ/UO/2F3sopJQUTGI=",
+            "sha256": "sha256-lldviHZi4M9lTTLlgHrBS7BSl1Pz+f+7lnTMYk3VGzs=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6434.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6435.tar.bz2"
         },
-        "version": "1.0.6434"
+        "version": "1.0.6435"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -918,11 +918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4xEc6AWYaKo+Yj3CSxB7UI5cWwvUYgKLJ20T9Oqt9cQ=",
+            "sha256": "sha256-3RvR6+EMFZ9r1fx2rdgHalmlW7BCNYnbuUMshCSEpPw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6434-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6435-1_all.deb"
         },
-        "version": "1.0.6434"
+        "version": "1.0.6435"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "0ed18d16c445cbae9a24a8fbf27da8a7e1cd404a",
-            "sha256": "sha256-CiJYzNdvJR3u4E3JU2NSVr1M42uR9FMVMmKD1WmRgHY=",
+            "rev": "5739c537a24b9554ad28c81d47952a8a5482f001",
+            "sha256": "sha256-dH4z9WoyzK3hsdIAe9ue8wCW3jYl5TnI8jF56pBgOmU=",
             "type": "github"
         },
-        "version": "0ed18d16c445cbae9a24a8fbf27da8a7e1cd404a"
+        "version": "5739c537a24b9554ad28c81d47952a8a5482f001"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1614,7 +1614,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-7aaf17ceda361bcb897e11bc610c226a82afe628/Cargo.lock",
+                "./rustdesk-e5e57943cb31ad6937d8b9d153e1ee73c6f6458a/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1641,11 +1641,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "7aaf17ceda361bcb897e11bc610c226a82afe628",
-            "sha256": "sha256-5VDFMY9Vggwl4RJQ5DnTXaKGWPHxlbe5emoqHF/iiGg=",
+            "rev": "e5e57943cb31ad6937d8b9d153e1ee73c6f6458a",
+            "sha256": "sha256-UCSjjUW0OyOl6snEfSJqEA4r9RVSBvSqwIS0NEicL7A=",
             "type": "github"
         },
-        "version": "7aaf17ceda361bcb897e11bc610c226a82afe628"
+        "version": "e5e57943cb31ad6937d8b9d153e1ee73c6f6458a"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "b1fff4499f40cdcfa8630638156adeb6f0ebd954",
-            "sha256": "sha256-NGeuT9EyVFfDpRdi4O//lrNiRu9YRAoc1WB0IEdpHRE=",
+            "rev": "18109c63b081c5b06d9df9b924f9ef5980742054",
+            "sha256": "sha256-JtZa6oTkP7pAdlJqYHJgcUXDfKRzvrQgmb9F8TglYnM=",
             "type": "github"
         },
-        "version": "b1fff4499f40cdcfa8630638156adeb6f0ebd954"
+        "version": "18109c63b081c5b06d9df9b924f9ef5980742054"
     },
     "tailscale-systray": {
         "cargoLocks": null,

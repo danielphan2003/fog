@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "ad423928564126f586ea689c151bdbe164ea101e";
+    version = "cd37a1533e0e86fffdd333e18bab0bb730c1dc25";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "ad423928564126f586ea689c151bdbe164ea101e";
+      rev = "cd37a1533e0e86fffdd333e18bab0bb730c1dc25";
       fetchSubmodules = false;
-      sha256 = "sha256-jifXsazUwgnPggxC+aw5TuAl3Bq6Xk896FQGfOl1T24=";
+      sha256 = "sha256-XemItgbWiOUTKdYEaNTR91UWQ4Omcz8Zak7/bfaHO7c=";
     });
   };
   ibus = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6434";
+    version = "1.0.6435";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6434.tar.bz2";
-      sha256 = "sha256-L6QRzU2M7EtBMnGgtx2Q4sYFAgJ/UO/2F3sopJQUTGI=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6435.tar.bz2";
+      sha256 = "sha256-lldviHZi4M9lTTLlgHrBS7BSl1Pz+f+7lnTMYk3VGzs=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6434";
+    version = "1.0.6435";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6434-1_all.deb";
-      sha256 = "sha256-4xEc6AWYaKo+Yj3CSxB7UI5cWwvUYgKLJ20T9Oqt9cQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6435-1_all.deb";
+      sha256 = "sha256-3RvR6+EMFZ9r1fx2rdgHalmlW7BCNYnbuUMshCSEpPw=";
     };
   };
   jitsi-videobridge2 = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "0ed18d16c445cbae9a24a8fbf27da8a7e1cd404a";
+    version = "5739c537a24b9554ad28c81d47952a8a5482f001";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "0ed18d16c445cbae9a24a8fbf27da8a7e1cd404a";
+      rev = "5739c537a24b9554ad28c81d47952a8a5482f001";
       fetchSubmodules = false;
-      sha256 = "sha256-CiJYzNdvJR3u4E3JU2NSVr1M42uR9FMVMmKD1WmRgHY=";
+      sha256 = "sha256-dH4z9WoyzK3hsdIAe9ue8wCW3jYl5TnI8jF56pBgOmU=";
     });
   };
   revanced-cli = {
@@ -967,16 +967,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "7aaf17ceda361bcb897e11bc610c226a82afe628";
+    version = "e5e57943cb31ad6937d8b9d153e1ee73c6f6458a";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "7aaf17ceda361bcb897e11bc610c226a82afe628";
+      rev = "e5e57943cb31ad6937d8b9d153e1ee73c6f6458a";
       fetchSubmodules = false;
-      sha256 = "sha256-5VDFMY9Vggwl4RJQ5DnTXaKGWPHxlbe5emoqHF/iiGg=";
+      sha256 = "sha256-UCSjjUW0OyOl6snEfSJqEA4r9RVSBvSqwIS0NEicL7A=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-7aaf17ceda361bcb897e11bc610c226a82afe628/Cargo.lock;
+      lockFile = ./rustdesk-e5e57943cb31ad6937d8b9d153e1ee73c6f6458a/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b1fff4499f40cdcfa8630638156adeb6f0ebd954";
+    version = "18109c63b081c5b06d9df9b924f9ef5980742054";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b1fff4499f40cdcfa8630638156adeb6f0ebd954";
+      rev = "18109c63b081c5b06d9df9b924f9ef5980742054";
       fetchSubmodules = false;
-      sha256 = "sha256-NGeuT9EyVFfDpRdi4O//lrNiRu9YRAoc1WB0IEdpHRE=";
+      sha256 = "sha256-JtZa6oTkP7pAdlJqYHJgcUXDfKRzvrQgmb9F8TglYnM=";
     });
   };
   tailscale-systray = {
