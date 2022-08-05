@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c77b571fa7fe6076ba6322f804f2c43091522fd0";
+    version = "ccd68049f727a52b59f8a432b132a16e683986e4";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c77b571fa7fe6076ba6322f804f2c43091522fd0";
+      rev = "ccd68049f727a52b59f8a432b132a16e683986e4";
       fetchSubmodules = false;
-      sha256 = "sha256-et8Lvkv8DV9EiZhmN1GLSDva6OpPV36rVLv75xR27pg=";
+      sha256 = "sha256-EiUkmG+6iwab3UEMcMBgd90OAsqk28vOdn/U0wUcElk=";
     });
   };
   ibus = {
@@ -1070,14 +1070,14 @@
   };
   snui = {
     pname = "snui";
-    version = "f234439086b1c0994e08e4ec263400fb3d631922";
+    version = "ea6268e8f0520a7d88c35aae92ece7ce74bc0ecf";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "f234439086b1c0994e08e4ec263400fb3d631922";
+      rev = "ea6268e8f0520a7d88c35aae92ece7ce74bc0ecf";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-gXqzpM95Eh7ZHGgvyH/pe14mbrZvnnVEngwZoQmS9xU=";
+      sha256 = "sha256-nJemF3FPba51eTVA8ZKEk2uYXZyG0ffGJg8dDRDRZPM=";
     };
   };
   spicetify-cli = {
