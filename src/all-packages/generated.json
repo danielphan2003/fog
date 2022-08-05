@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "44446db5be5e6c02e921d37e8fd8ffb9c459e25e",
-            "sha256": "sha256-eZzAS4M57y0Wuq63NTmflyVlxC7rwAUfYcytZzJDmP4=",
+            "rev": "79a625a25f966aad84ce4d0533d60fb0c5f03ead",
+            "sha256": "sha256-wH4xF2cIxnk7qbpxmpqae/jgaDQxADfMJH5zllcYU7w=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "44446db5be5e6c02e921d37e8fd8ffb9c459e25e"
+        "version": "79a625a25f966aad84ce4d0533d60fb0c5f03ead"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -904,11 +904,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lldviHZi4M9lTTLlgHrBS7BSl1Pz+f+7lnTMYk3VGzs=",
+            "sha256": "sha256-Ht2PBmUxmlU6jNWKiyTrt9aoTOely+w8/1Yj6MMWoHQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6435.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6436.tar.bz2"
         },
-        "version": "1.0.6435"
+        "version": "1.0.6436"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -918,11 +918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3RvR6+EMFZ9r1fx2rdgHalmlW7BCNYnbuUMshCSEpPw=",
+            "sha256": "sha256-57zDcH7w937fMKDtSbm+fWAA+gZ3aok7WU25+lGOnXE=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6435-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6436-1_all.deb"
         },
-        "version": "1.0.6435"
+        "version": "1.0.6436"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "18109c63b081c5b06d9df9b924f9ef5980742054",
-            "sha256": "sha256-JtZa6oTkP7pAdlJqYHJgcUXDfKRzvrQgmb9F8TglYnM=",
+            "rev": "486cc9393c26ba3ab97d4de59052c58d0d0f2c2b",
+            "sha256": "sha256-a/CvnKcXqYAaH6kWmZnusS9Ct6PBSbrHXLmEaXH93No=",
             "type": "github"
         },
-        "version": "18109c63b081c5b06d9df9b924f9ef5980742054"
+        "version": "486cc9393c26ba3ab97d4de59052c58d0d0f2c2b"
     },
     "tailscale-systray": {
         "cargoLocks": null,
