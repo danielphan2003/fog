@@ -20741,11 +20741,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fWE8vq66PqGJwHTqN5x6Jve1CrMvx83x38uN4/WnuCo=",
+            "sha256": "sha256-yLspgnOqfgLESVa083FALBgcXISDAAPIKsZggCar4UM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.17/file/ligolang-publish.ligo-vscode-0.4.17.vsix"
+            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.18/file/ligolang-publish.ligo-vscode-0.4.18.vsix"
         },
-        "version": "0.4.17"
+        "version": "0.4.18"
     },
     "lintangwisesa-arduino": {
         "cargoLocks": null,

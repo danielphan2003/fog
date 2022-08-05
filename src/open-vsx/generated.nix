@@ -13095,10 +13095,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.17";
+    version = "0.4.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.17/file/ligolang-publish.ligo-vscode-0.4.17.vsix";
-      sha256 = "sha256-fWE8vq66PqGJwHTqN5x6Jve1CrMvx83x38uN4/WnuCo=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.18/file/ligolang-publish.ligo-vscode-0.4.18.vsix";
+      sha256 = "sha256-yLspgnOqfgLESVa083FALBgcXISDAAPIKsZggCar4UM=";
     };
     license = "MIT";
     name = "ligo-vscode";
