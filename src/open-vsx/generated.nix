@@ -1695,10 +1695,10 @@
   };
   IBM-zopeneditor = {
     pname = "IBM-zopeneditor";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.0/file/IBM.zopeneditor-2.1.0.vsix";
-      sha256 = "sha256-kXWqUxcRGH/Z7kU5e7ew5ukSV5qZ+FG6nxURuNWZrLk=";
+      url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor-2.1.1.vsix";
+      sha256 = "sha256-kA0onMF4/VsLrS5so3v8xKw2VGxcaq1twnEIR6nfbTU=";
     };
     license = "";
     name = "zopeneditor";
@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1259";
+    version = "31.0.1260";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1259/file/Prisma.prisma-insider-31.0.1259.vsix";
-      sha256 = "sha256-nMGDnbKbAumDHeeQRsQaKe5DW65Og8u8aT1jV68j7NA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1260/file/Prisma.prisma-insider-31.0.1260.vsix";
+      sha256 = "sha256-OrnfbfyjhtH5oaGH/zabislmcCJUheEs4xksuMMfSzE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13887,10 +13887,10 @@
   };
   mesonbuild-mesonbuild = {
     pname = "mesonbuild-mesonbuild";
-    version = "1.6.0";
+    version = "1.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.6.0/file/mesonbuild.mesonbuild-1.6.0.vsix";
-      sha256 = "sha256-JwY4wrA9XzUaLgB5aN5NCdMLZx5DMikJx43bJtUAqpI=";
+      url = "https://open-vsx.org/api/mesonbuild/mesonbuild/1.7.0/file/mesonbuild.mesonbuild-1.7.0.vsix";
+      sha256 = "sha256-pHHPHF+y5tu0IG6hbdM1LJLlDia0cnRLLWDBBP81TnU=";
     };
     license = "Apache-2.0";
     name = "mesonbuild";
@@ -15267,10 +15267,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.2";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.2/file/mutable-ai.mutable-ai-1.1.2.vsix";
-      sha256 = "sha256-JzDj9cDovuAugbZttMw7CDlhemnKAkOyUs4mSMhWobk=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.4/file/mutable-ai.mutable-ai-1.1.4.vsix";
+      sha256 = "sha256-y5eONSCdRClxqjQ2D1t7Ja3QVD6OO/HmrBdMZi/f4R8=";
     };
     license = "";
     name = "mutable-ai";
