@@ -12903,10 +12903,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.87";
+    version = "0.0.88";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.87/file/leanprover.lean4-0.0.87.vsix";
-      sha256 = "sha256-5Fz+MkipHcN2EeOKZsIpV/A8e1ccS/JH3104p0KjY60=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.88/file/leanprover.lean4-0.0.88.vsix";
+      sha256 = "sha256-Bg5WuaedNgrMnaPHL60W5QRWzDlxZjoa5C8I/Kp8tW0=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -17727,10 +17727,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.6";
+    version = "0.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.6/file/rgherdt.scheme-lsp-0.2.6.vsix";
-      sha256 = "sha256-RCYCyEJBc5rzODqMDy/PpsmJIns8HKtYRGY/eU0MOmY=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.7/file/rgherdt.scheme-lsp-0.2.7.vsix";
+      sha256 = "sha256-VXX0bg8INVe/M7bKWbQQfMZNCbf++MRbOJjYD9/pSLo=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -22935,10 +22935,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.20.1659709903";
+    version = "0.20.1659723293";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659709903/file/weaveworks.vscode-gitops-tools-0.20.1659709903.vsix";
-      sha256 = "sha256-cvTE4N6nwOEgPQ2s7jOpZAGJAuO3S0bijgDLAZUqtaI=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659723293/file/weaveworks.vscode-gitops-tools-0.20.1659723293.vsix";
+      sha256 = "sha256-UoScmwiCX20D41bNbF173ugJXHHjrXrWz5SmClvjQ74=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";
