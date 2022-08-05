@@ -8353,11 +8353,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mDdT+7+RlvEY5VNkCLqwHb7AF8kxOP0v5tHCwzAfBzo=",
+            "sha256": "sha256-6TcwBmdv4eXVOE0KclVeExISy5uFNcS66KDl1FynztI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.0/file/anweber.vscode-httpyac-5.6.0.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.1/file/anweber.vscode-httpyac-5.6.1.vsix"
         },
-        "version": "5.6.0"
+        "version": "5.6.1"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
@@ -28075,11 +28075,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VXX0bg8INVe/M7bKWbQQfMZNCbf++MRbOJjYD9/pSLo=",
+            "sha256": "sha256-0jdD5aNIMJwD1h1MfpE1fXLiPYwxupVSw8IrChImdOw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.7/file/rgherdt.scheme-lsp-0.2.7.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.10/file/rgherdt.scheme-lsp-0.2.10.vsix"
         },
-        "version": "0.2.7"
+        "version": "0.2.10"
     },
     "ria-elastic": {
         "cargoLocks": null,
