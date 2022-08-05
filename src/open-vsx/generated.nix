@@ -1299,10 +1299,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.46.1";
+    version = "0.48.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.46.1/file/GitHub.vscode-pull-request-github-0.46.1.vsix";
-      sha256 = "sha256-Jm6ODjNyAIn/phkQFDcg1b/ja4ok6rmtm6LMEuL2J/U=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.48.0/file/GitHub.vscode-pull-request-github-0.48.0.vsix";
+      sha256 = "sha256-nAKX98Ytg2KrIHzm6h9L4cMff/DS6KWGeM2wWB9jSiU=";
     };
     license = "MIT";
     name = "vscode-pull-request-github";
@@ -3447,10 +3447,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.318";
+    version = "2022.8.416";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.318/file/Slint.slint-nightly-2022.8.318.vsix";
-      sha256 = "sha256-Vn6sgU2wr0Sk5zGlqmDa2yWj7JGrA5V3bTBRJCNH0e0=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.416/file/Slint.slint-nightly-2022.8.416.vsix";
+      sha256 = "sha256-cOTir/bIj7wkZvg5BH9ogfmCPr4/YEDYGAc0/+iMgbg=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -9831,10 +9831,10 @@
   };
   giscafer-leek-fund = {
     pname = "giscafer-leek-fund";
-    version = "2.7.2";
+    version = "2.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.2/file/giscafer.leek-fund-2.7.2.vsix";
-      sha256 = "sha256-UIK1klGZ0vRnAe99DFNPXrRwJ6aj/CjdbvkKH4gFTvA=";
+      url = "https://open-vsx.org/api/giscafer/leek-fund/2.7.3/file/giscafer.leek-fund-2.7.3.vsix";
+      sha256 = "sha256-bA/8/0tJ3USBDLYyHiFUTL7SgFo54lSH3CxZpdaw4dQ=";
     };
     license = "BSD-3-Clause";
     name = "leek-fund";
@@ -14499,10 +14499,10 @@
   };
   ms-python-python = {
     pname = "ms-python-python";
-    version = "2022.10.1";
+    version = "2022.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-python/python/2022.10.1/file/ms-python.python-2022.10.1.vsix";
-      sha256 = "sha256-4EsIz/2GuENSTeXEx8+tK5QCk1hCgE9kkPDbkry2tuE=";
+      url = "https://open-vsx.org/api/ms-python/python/2022.12.0/file/ms-python.python-2022.12.0.vsix";
+      sha256 = "sha256-51ntwF0r75PfARiXAJy7qwC3X/9NFI4uxbz0loY0OpU=";
     };
     license = "MIT";
     name = "python";
@@ -23787,10 +23787,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.9.0";
+    version = "1.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.9.0/file/zenclabs.previewjs-1.9.0.vsix";
-      sha256 = "sha256-baMek7Z8ncciOfe7DsJMlPNE0LxcJPRa8xjuXAWUb/k=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.11.0/file/zenclabs.previewjs-1.11.0.vsix";
+      sha256 = "sha256-/iujhJ8OOuFeX+MjMtYuYGeYFWdUIkP2OEWUitsduqo=";
     };
     license = "https://previewjs.com/eula";
     name = "previewjs";
