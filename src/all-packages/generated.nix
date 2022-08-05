@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "1d90f7588b0f1be90b13584ee91e8b079bd9793b";
+    version = "5e527e434a3b2af531d581563b9e744b189a7786";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "1d90f7588b0f1be90b13584ee91e8b079bd9793b";
+      rev = "5e527e434a3b2af531d581563b9e744b189a7786";
       fetchSubmodules = false;
-      sha256 = "sha256-A1sjJPfrgexwKElgavtG+h8YbM6NJLyERsfmO962NBk=";
+      sha256 = "sha256-GU+2c08lfDfcgxUFjce/br68edUsIdyyvQ1Iiv30fX0=";
     });
   };
   cinny-bin = {
@@ -561,10 +561,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-20-g0a2decd6";
+    version = "2.2-21-g915593c5";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-20-g0a2decd6-1_all.deb";
-      sha256 = "sha256-3W0qHbOKs91fFgmQayfV1ZWx7/liyAEu2b4Jmjks3c4=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-21-g915593c5-1_all.deb";
+      sha256 = "sha256-7B6010G1S8Tsqog4HeNlEyAjcXhMbzpZJx+Ot9XuAtA=";
     };
   };
   layout-machi = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "dab528ca114d32262cc51dc0137cd268f91f041e";
+    version = "03971308a3acb8c422b416b2e100d0e03bd14c86";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "dab528ca114d32262cc51dc0137cd268f91f041e";
+      rev = "03971308a3acb8c422b416b2e100d0e03bd14c86";
       fetchSubmodules = false;
-      sha256 = "sha256-zpzp5nuTNGHbqiW2y/hSGFTye6BltwV9WzpwB6N7voE=";
+      sha256 = "sha256-a32v6rA0XERmc76wIW/bgne4rcfEmsLfo52VGK6QkRk=";
     });
   };
   revanced-cli = {
