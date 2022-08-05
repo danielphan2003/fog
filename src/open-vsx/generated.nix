@@ -15999,10 +15999,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.55";
+    version = "0.13.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.55/file/oraichain.cosmwasm-ide-0.13.55.vsix";
-      sha256 = "sha256-I3UV7RNKTcpadXrJJsAfygL8q7V3iEZxUW9O9Khog1Q=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.56/file/oraichain.cosmwasm-ide-0.13.56.vsix";
+      sha256 = "sha256-/2dKsZLCZAgDt3LRucXmpv0wOWYBwfD+XP9Pp03ZCXY=";
     };
     license = "MIT OR Apache-2.0";
     name = "cosmwasm-ide";
@@ -16788,6 +16788,18 @@
     name = "procolors";
     description = "A suite of carefully harmonized themes with a professional feel";
     publisher = "pouya";
+  };
+  pranayagarwal-vscode-hack = {
+    pname = "pranayagarwal-vscode-hack";
+    version = "2.13.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pranayagarwal/vscode-hack/2.13.0/file/pranayagarwal.vscode-hack-2.13.0.vsix";
+      sha256 = "sha256-zgs+iy8DynclxIh8TDOFAyPUSxq6/ozy26L7FrigsKM=";
+    };
+    license = "MIT";
+    name = "vscode-hack";
+    description = "Hack language & HHVM debugger support for Visual Studio Code";
+    publisher = "pranayagarwal";
   };
   pranaygp-vscode-css-peek = {
     pname = "pranaygp-vscode-css-peek";
@@ -23667,10 +23679,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.1/file/zardoy.npm-rapid-ready-0.2.1.vsix";
-      sha256 = "sha256-thcOdPPoE5lgdUCICxILTFd0Xh4XEQjABUqu3HFDipk=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.2/file/zardoy.npm-rapid-ready-0.2.2.vsix";
+      sha256 = "sha256-ewg+gOj7MNVqLZBDtkV3eoifGc1/qdW9RMCrnH3ok54=";
     };
     license = "MIT";
     name = "npm-rapid-ready";

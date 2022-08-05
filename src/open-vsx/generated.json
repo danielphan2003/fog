@@ -25339,11 +25339,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-I3UV7RNKTcpadXrJJsAfygL8q7V3iEZxUW9O9Khog1Q=",
+            "sha256": "sha256-/2dKsZLCZAgDt3LRucXmpv0wOWYBwfD+XP9Pp03ZCXY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.55/file/oraichain.cosmwasm-ide-0.13.55.vsix"
+            "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.56/file/oraichain.cosmwasm-ide-0.13.56.vsix"
         },
-        "version": "0.13.55"
+        "version": "0.13.56"
     },
     "orellabacCR-mobilize-codeundestand": {
         "cargoLocks": null,
@@ -26579,6 +26579,25 @@
             "url": "https://open-vsx.org/api/pouya/procolors/25.0.1/file/pouya.procolors-25.0.1.vsix"
         },
         "version": "25.0.1"
+    },
+    "pranayagarwal-vscode-hack": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "pranayagarwal-vscode-hack",
+        "passthru": {
+            "description": "Hack language & HHVM debugger support for Visual Studio Code",
+            "license": "MIT",
+            "name": "vscode-hack",
+            "publisher": "pranayagarwal"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-zgs+iy8DynclxIh8TDOFAyPUSxq6/ozy26L7FrigsKM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/pranayagarwal/vscode-hack/2.13.0/file/pranayagarwal.vscode-hack-2.13.0.vsix"
+        },
+        "version": "2.13.0"
     },
     "pranaygp-vscode-css-peek": {
         "cargoLocks": null,
@@ -37480,11 +37499,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-thcOdPPoE5lgdUCICxILTFd0Xh4XEQjABUqu3HFDipk=",
+            "sha256": "sha256-ewg+gOj7MNVqLZBDtkV3eoifGc1/qdW9RMCrnH3ok54=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.1/file/zardoy.npm-rapid-ready-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.2/file/zardoy.npm-rapid-ready-0.2.2.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.2.2"
     },
     "zardoy-npm-the-fastest": {
         "cargoLocks": null,
