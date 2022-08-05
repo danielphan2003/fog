@@ -23705,11 +23705,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-To6TjjAAe9uzLgYrmzYQ84VLMJmjIOLBIeCfAfXNp3Y=",
+            "sha256": "sha256-iio4wGLdavkLeDMPFBkLbb/n0L4jlAxzYo8Hurfc1D8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220803/file/ms-vscode.vscode-typescript-next-4.8.20220803.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220804/file/ms-vscode.vscode-typescript-next-4.8.20220804.vsix"
         },
-        "version": "4.8.20220803"
+        "version": "4.8.20220804"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,

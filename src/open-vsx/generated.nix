@@ -14967,10 +14967,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220803";
+    version = "4.8.20220804";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220803/file/ms-vscode.vscode-typescript-next-4.8.20220803.vsix";
-      sha256 = "sha256-To6TjjAAe9uzLgYrmzYQ84VLMJmjIOLBIeCfAfXNp3Y=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220804/file/ms-vscode.vscode-typescript-next-4.8.20220804.vsix";
+      sha256 = "sha256-iio4wGLdavkLeDMPFBkLbb/n0L4jlAxzYo8Hurfc1D8=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
