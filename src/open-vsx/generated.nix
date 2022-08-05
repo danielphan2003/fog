@@ -2811,10 +2811,10 @@
   };
   PKief-copy-branch-name = {
     pname = "PKief-copy-branch-name";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/copy-branch-name/1.0.1/file/PKief.copy-branch-name-1.0.1.vsix";
-      sha256 = "sha256-Yog3ZP5+Y8cnkNrtIIpidK7VepB9eaonrgcCDjJzRG0=";
+      url = "https://open-vsx.org/api/PKief/copy-branch-name/1.0.2/file/PKief.copy-branch-name-1.0.2.vsix";
+      sha256 = "sha256-VWWCrPMKsfA3z2XU8LMxP5BRlsgnOzqaYa4yagLKEmo=";
     };
     license = "MIT";
     name = "copy-branch-name";
@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1262";
+    version = "31.0.1265";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1262/file/Prisma.prisma-insider-31.0.1262.vsix";
-      sha256 = "sha256-fq1worcb/r2jrxwJSDU9heedP/suN3oNbsQqPXNWU84=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1265/file/Prisma.prisma-insider-31.0.1265.vsix";
+      sha256 = "sha256-0avzW+h+N3zHVsEWKP+gZMDBLxTiska4BennrWOprrc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8233,6 +8233,30 @@
     description = "Over 130 jQuery Code Snippets";
     publisher = "donjayamanne";
   };
+  donjayamanne-python-environment-manager = {
+    pname = "donjayamanne-python-environment-manager";
+    version = "1.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/donjayamanne/python-environment-manager/1.0.4/file/donjayamanne.python-environment-manager-1.0.4.vsix";
+      sha256 = "sha256-1pnEy9bcly+7+Rpc2jOYxESt0Vjb3PsGxEERY+Y7fso=";
+    };
+    license = "MIT";
+    name = "python-environment-manager";
+    description = "View and manage Python environments & packages.";
+    publisher = "donjayamanne";
+  };
+  donjayamanne-python-extension-pack = {
+    pname = "donjayamanne-python-extension-pack";
+    version = "1.7.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/donjayamanne/python-extension-pack/1.7.0/file/donjayamanne.python-extension-pack-1.7.0.vsix";
+      sha256 = "sha256-ntnFdunaFBZKjcKp1Jo9ESlXSQ7K0C+em5aOi4RvYCg=";
+    };
+    license = "MIT";
+    name = "python-extension-pack";
+    description = "Popular Visual Studio Code extensions for Python";
+    publisher = "donjayamanne";
+  };
   dracula-theme-theme-dracula = {
     pname = "dracula-theme-theme-dracula";
     version = "2.24.2";
@@ -11535,10 +11559,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.3/file/jeanp413.open-remote-ssh-0.0.3.vsix";
-      sha256 = "sha256-0MOGMhy9ODB5ewhjnS2tG47THVKHjpiCLHC6QCb7UVc=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.4/file/jeanp413.open-remote-ssh-0.0.4.vsix";
+      sha256 = "sha256-63sDOF0ia4Eky+E3uJ1K9wZuBHJg58ygU5cygfU/qQ0=";
     };
     license = "MIT";
     name = "open-remote-ssh";
@@ -12051,10 +12075,10 @@
   };
   junstyle-php-cs-fixer = {
     pname = "junstyle-php-cs-fixer";
-    version = "0.2.12";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.2.12/file/junstyle.php-cs-fixer-0.2.12.vsix";
-      sha256 = "sha256-lhHiMQ5lEZdBoX7C5j9iHgY4X04YkJaDHXlHerkmkec=";
+      url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.2/file/junstyle.php-cs-fixer-0.3.2.vsix";
+      sha256 = "sha256-N1FjszlqEmUlRTM9o/wXmuVruw3GlWInMgAvaaXZEOo=";
     };
     license = "ISC";
     name = "php-cs-fixer";
@@ -13515,10 +13539,10 @@
   };
   matepek-vscode-catch2-test-adapter = {
     pname = "matepek-vscode-catch2-test-adapter";
-    version = "4.2.5";
+    version = "4.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.5/file/matepek.vscode-catch2-test-adapter-4.2.5.vsix";
-      sha256 = "sha256-/KPXHCPV3XHtvtfBQkoAsMlMeKNNwHvLC0LyucHCluA=";
+      url = "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.3.0/file/matepek.vscode-catch2-test-adapter-4.3.0.vsix";
+      sha256 = "sha256-k38vmSLU+Fe2Wlsz5L84C5eKSknWzsK75xD6Jq//DRw=";
     };
     license = "MIT";
     name = "vscode-catch2-test-adapter";
@@ -17703,10 +17727,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.5";
+    version = "0.2.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.5/file/rgherdt.scheme-lsp-0.2.5.vsix";
-      sha256 = "sha256-dXbNewxwd8rwK217gtBJbvJ630b8ZBuJCOZiUm8cXF4=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.6/file/rgherdt.scheme-lsp-0.2.6.vsix";
+      sha256 = "sha256-RCYCyEJBc5rzODqMDy/PpsmJIns8HKtYRGY/eU0MOmY=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -20859,10 +20883,10 @@
   };
   unifiedjs-vscode-mdx = {
     pname = "unifiedjs-vscode-mdx";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.0/file/unifiedjs.vscode-mdx-1.0.0.vsix";
-      sha256 = "sha256-uO5Uxa8zgYvb+AqUTQJVIZ+atO5T+McRI6kVJ1akalg=";
+      url = "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.1/file/unifiedjs.vscode-mdx-1.0.1.vsix";
+      sha256 = "sha256-xH2lfuERUHesMxNSTaJN1FWNGsHdWOfRVXTgRwi8fRM=";
     };
     license = "MIT";
     name = "vscode-mdx";
@@ -22911,10 +22935,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.20.9";
+    version = "0.20.1659709903";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.9/file/weaveworks.vscode-gitops-tools-0.20.9.vsix";
-      sha256 = "sha256-+z78lHLpo8NA3/IYWMD6zoizUuZLMk4igHjr+gOkdRM=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659709903/file/weaveworks.vscode-gitops-tools-0.20.1659709903.vsix";
+      sha256 = "sha256-cvTE4N6nwOEgPQ2s7jOpZAGJAuO3S0bijgDLAZUqtaI=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";

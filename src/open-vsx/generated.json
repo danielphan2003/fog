@@ -4458,11 +4458,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Yog3ZP5+Y8cnkNrtIIpidK7VepB9eaonrgcCDjJzRG0=",
+            "sha256": "sha256-VWWCrPMKsfA3z2XU8LMxP5BRlsgnOzqaYa4yagLKEmo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PKief/copy-branch-name/1.0.1/file/PKief.copy-branch-name-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/PKief/copy-branch-name/1.0.2/file/PKief.copy-branch-name-1.0.2.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "PKief-markdown-checkbox": {
         "cargoLocks": null,
@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fq1worcb/r2jrxwJSDU9heedP/suN3oNbsQqPXNWU84=",
+            "sha256": "sha256-0avzW+h+N3zHVsEWKP+gZMDBLxTiska4BennrWOprrc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1262/file/Prisma.prisma-insider-31.0.1262.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1265/file/Prisma.prisma-insider-31.0.1265.vsix"
         },
-        "version": "31.0.1262"
+        "version": "31.0.1265"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -13033,6 +13033,44 @@
         },
         "version": "0.0.1"
     },
+    "donjayamanne-python-environment-manager": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "donjayamanne-python-environment-manager",
+        "passthru": {
+            "description": "View and manage Python environments & packages.",
+            "license": "MIT",
+            "name": "python-environment-manager",
+            "publisher": "donjayamanne"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-1pnEy9bcly+7+Rpc2jOYxESt0Vjb3PsGxEERY+Y7fso=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/donjayamanne/python-environment-manager/1.0.4/file/donjayamanne.python-environment-manager-1.0.4.vsix"
+        },
+        "version": "1.0.4"
+    },
+    "donjayamanne-python-extension-pack": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "donjayamanne-python-extension-pack",
+        "passthru": {
+            "description": "Popular Visual Studio Code extensions for Python",
+            "license": "MIT",
+            "name": "python-extension-pack",
+            "publisher": "donjayamanne"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ntnFdunaFBZKjcKp1Jo9ESlXSQ7K0C+em5aOi4RvYCg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/donjayamanne/python-extension-pack/1.7.0/file/donjayamanne.python-extension-pack-1.7.0.vsix"
+        },
+        "version": "1.7.0"
+    },
     "dracula-theme-theme-dracula": {
         "cargoLocks": null,
         "extract": null,
@@ -18271,11 +18309,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0MOGMhy9ODB5ewhjnS2tG47THVKHjpiCLHC6QCb7UVc=",
+            "sha256": "sha256-63sDOF0ia4Eky+E3uJ1K9wZuBHJg58ygU5cygfU/qQ0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.3/file/jeanp413.open-remote-ssh-0.0.3.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.4/file/jeanp413.open-remote-ssh-0.0.4.vsix"
         },
-        "version": "0.0.3"
+        "version": "0.0.4"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
@@ -19088,11 +19126,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lhHiMQ5lEZdBoX7C5j9iHgY4X04YkJaDHXlHerkmkec=",
+            "sha256": "sha256-N1FjszlqEmUlRTM9o/wXmuVruw3GlWInMgAvaaXZEOo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/junstyle/php-cs-fixer/0.2.12/file/junstyle.php-cs-fixer-0.2.12.vsix"
+            "url": "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.2/file/junstyle.php-cs-fixer-0.3.2.vsix"
         },
-        "version": "0.2.12"
+        "version": "0.3.2"
     },
     "justusadam-language-haskell": {
         "cargoLocks": null,
@@ -21406,11 +21444,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/KPXHCPV3XHtvtfBQkoAsMlMeKNNwHvLC0LyucHCluA=",
+            "sha256": "sha256-k38vmSLU+Fe2Wlsz5L84C5eKSknWzsK75xD6Jq//DRw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.2.5/file/matepek.vscode-catch2-test-adapter-4.2.5.vsix"
+            "url": "https://open-vsx.org/api/matepek/vscode-catch2-test-adapter/4.3.0/file/matepek.vscode-catch2-test-adapter-4.3.0.vsix"
         },
-        "version": "4.2.5"
+        "version": "4.3.0"
     },
     "mathiasfrohlich-Kotlin": {
         "cargoLocks": null,
@@ -28037,11 +28075,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dXbNewxwd8rwK217gtBJbvJ630b8ZBuJCOZiUm8cXF4=",
+            "sha256": "sha256-RCYCyEJBc5rzODqMDy/PpsmJIns8HKtYRGY/eU0MOmY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.5/file/rgherdt.scheme-lsp-0.2.5.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.6/file/rgherdt.scheme-lsp-0.2.6.vsix"
         },
-        "version": "0.2.5"
+        "version": "0.2.6"
     },
     "ria-elastic": {
         "cargoLocks": null,
@@ -33034,11 +33072,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uO5Uxa8zgYvb+AqUTQJVIZ+atO5T+McRI6kVJ1akalg=",
+            "sha256": "sha256-xH2lfuERUHesMxNSTaJN1FWNGsHdWOfRVXTgRwi8fRM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.0/file/unifiedjs.vscode-mdx-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/unifiedjs/vscode-mdx/1.0.1/file/unifiedjs.vscode-mdx-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "unifiedjs-vscode-remark": {
         "cargoLocks": null,
@@ -36283,11 +36321,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+z78lHLpo8NA3/IYWMD6zoizUuZLMk4igHjr+gOkdRM=",
+            "sha256": "sha256-cvTE4N6nwOEgPQ2s7jOpZAGJAuO3S0bijgDLAZUqtaI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.9/file/weaveworks.vscode-gitops-tools-0.20.9.vsix"
+            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659709903/file/weaveworks.vscode-gitops-tools-0.20.1659709903.vsix"
         },
-        "version": "0.20.9"
+        "version": "0.20.1659709903"
     },
     "webfreak-code-d": {
         "cargoLocks": null,
