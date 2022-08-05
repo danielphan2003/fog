@@ -8043,10 +8043,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.106.2";
+    version = "0.106.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.106.2/file/dendron.nightly-0.106.2.vsix";
-      sha256 = "sha256-eEqwa9xpewGhufQpUlo/SGEgr2ttpOtIyT2brc52X+Q=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.106.3/file/dendron.nightly-0.106.3.vsix";
+      sha256 = "sha256-u5ycoZu9Wq/WNfUadc+UXV6/J/uSTK+b2MNPXBxra3U=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -15999,10 +15999,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.53";
+    version = "0.13.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.53/file/oraichain.cosmwasm-ide-0.13.53.vsix";
-      sha256 = "sha256-672oYzOQqE4a46BV3k7IV+VdS6RPKNxo4ThsoIfimyQ=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.55/file/oraichain.cosmwasm-ide-0.13.55.vsix";
+      sha256 = "sha256-I3UV7RNKTcpadXrJJsAfygL8q7V3iEZxUW9O9Khog1Q=";
     };
     license = "MIT OR Apache-2.0";
     name = "cosmwasm-ide";
@@ -19875,10 +19875,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.1/file/t-codespaces.ide-code-status-0.2.1.vsix";
-      sha256 = "sha256-tcL7V/JdLv0EDFtZtzpUYoRdhg1pVUoqmftfnAQtj9U=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.2/file/t-codespaces.ide-code-status-0.2.2.vsix";
+      sha256 = "sha256-0oqtWwXNsffRL6W/vIoQCl/uEgjBoF0uQaTMuyBXZ7U=";
     };
     license = "";
     name = "ide-code-status";
