@@ -632,13 +632,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "57583ea03023637f1ea66414802f69a283d49a41";
+    version = "7d77e6d6080ecd31aba9f2f6098b388eea771685";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "57583ea03023637f1ea66414802f69a283d49a41";
+      rev = "7d77e6d6080ecd31aba9f2f6098b388eea771685";
       fetchSubmodules = false;
-      sha256 = "sha256-N7VFdDLcasSoD9NFe+FpugrRD8vJSgmpNEB7NCt7LrI=";
+      sha256 = "sha256-RbyVtI33ofeQ195JOO8TutrgZ3hzLlP30Xvevd0MwdE=";
     });
   };
   microsoft-edge-beta = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "c6b99a5df00fff52735300a04d2c553e47c6fd39";
+    version = "e3b82184a705ac8e4a9b426210b89199c570dc3a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "c6b99a5df00fff52735300a04d2c553e47c6fd39";
+      rev = "e3b82184a705ac8e4a9b426210b89199c570dc3a";
       fetchSubmodules = false;
-      sha256 = "sha256-73BfQULQhx6+bKhP2jH9uZvhRwt/NgzD7vhK7Il0N3s=";
+      sha256 = "sha256-kQgSxS7nDB835CpJynzY0P79mhsUuEq5pkV6uXKwjak=";
     });
   };
   revanced-cli = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f0d6f173c919fdccf726f6984891d2c702c74111";
+    version = "b1fff4499f40cdcfa8630638156adeb6f0ebd954";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f0d6f173c919fdccf726f6984891d2c702c74111";
+      rev = "b1fff4499f40cdcfa8630638156adeb6f0ebd954";
       fetchSubmodules = false;
-      sha256 = "sha256-oTzmvs/DZDN9SeqfBGL0bfJ/2TlrBz7MzAoSnkUqMjk=";
+      sha256 = "sha256-NGeuT9EyVFfDpRdi4O//lrNiRu9YRAoc1WB0IEdpHRE=";
     });
   };
   tailscale-systray = {
