@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1260";
+    version = "31.0.1261";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1260/file/Prisma.prisma-insider-31.0.1260.vsix";
-      sha256 = "sha256-OrnfbfyjhtH5oaGH/zabislmcCJUheEs4xksuMMfSzE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1261/file/Prisma.prisma-insider-31.0.1261.vsix";
+      sha256 = "sha256-xdAXtMTgVG8eiKDYpBdfW84BB0hbMXrWvlFCkeb8Xy4=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -14535,10 +14535,10 @@
   };
   ms-toolsai-jupyter-renderers = {
     pname = "ms-toolsai-jupyter-renderers";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.8/file/ms-toolsai.jupyter-renderers-1.0.8.vsix";
-      sha256 = "sha256-plOQmS0Ul0IYSrcRw5STFqh8BMiRO6KnusUbWtj7iZ8=";
+      url = "https://open-vsx.org/api/ms-toolsai/jupyter-renderers/1.0.9/file/ms-toolsai.jupyter-renderers-1.0.9.vsix";
+      sha256 = "sha256-ZuhwNRRrRhjfTruT3g6KtDEY9skji5GNzaPoIF9Ygng=";
     };
     license = "MIT";
     name = "jupyter-renderers";
@@ -17307,10 +17307,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.11.12";
+    version = "0.11.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.11.12/file/redhat.ansible-0.11.12.vsix";
-      sha256 = "sha256-mLcZmrDIbhYzI5vBujZCQwjnn3Tc9CgJDtpsqgcdtjI=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.11.29/file/redhat.ansible-0.11.29.vsix";
+      sha256 = "sha256-tnQlHqUSJluEJ7JX7R1R8iNZUcllLJ9PLoA6oU7GE2I=";
     };
     license = "MIT";
     name = "ansible";
@@ -19251,10 +19251,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.9.1";
+    version = "1.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.1/file/statelyai.stately-vscode-1.9.1.vsix";
-      sha256 = "sha256-EstLASLQMizRmfvF7FsQg1Bu/MVL3nkwsWGW0CbyINk=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.2/file/statelyai.stately-vscode-1.9.2.vsix";
+      sha256 = "sha256-YNxi6CDHghfDyyisRlD+BOuVDRvrvgLH+JT7mxeY9Dk=";
     };
     license = "MIT";
     name = "stately-vscode";
