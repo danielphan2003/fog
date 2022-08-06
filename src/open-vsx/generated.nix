@@ -13575,10 +13575,10 @@
   };
   mathiassoeholm-markdown-link-updater = {
     pname = "mathiassoeholm-markdown-link-updater";
-    version = "2.1.3";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.1.3/file/mathiassoeholm.markdown-link-updater-2.1.3.vsix";
-      sha256 = "sha256-7dR1Em3LnwcggBUCKfxPi64vPrW2vjMlucZ27LKGWEc=";
+      url = "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.2.0/file/mathiassoeholm.markdown-link-updater-2.2.0.vsix";
+      sha256 = "sha256-gOjWK7L/EKuu930iwEKwXQtJYasVSXRIdxkfY9WBU3w=";
     };
     license = "MIT";
     name = "markdown-link-updater";
@@ -19407,10 +19407,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.3.4";
+    version = "2.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.4/file/streetsidesoftware.code-spell-checker-2.3.4.vsix";
-      sha256 = "sha256-cskaopS1a8Xhtbtqo2+6Ul0j39NfyY0NlGDME8CQKUA=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.5/file/streetsidesoftware.code-spell-checker-2.3.5.vsix";
+      sha256 = "sha256-FUDcCEFgQpJ3V82afYgqt8pFpYkRYTfzw+2yo2NfZjE=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";
