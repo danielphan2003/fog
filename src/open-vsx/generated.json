@@ -9322,11 +9322,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QmA8A4jVJc5EI/MneLFA6A05E9YN1ah2uBOyOTjhrzA=",
+            "sha256": "sha256-yuGUWLOVLGQwhgys8EMjqqQnlQpMmyns6eUC9njI+Ko=",
             "type": "url",
-            "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.9/file/banacorn.agda-mode-0.3.9.vsix"
+            "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.10/file/banacorn.agda-mode-0.3.10.vsix"
         },
-        "version": "0.3.9"
+        "version": "0.3.10"
     },
     "bar9-stories": {
         "cargoLocks": null,
@@ -20456,11 +20456,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Bg5WuaedNgrMnaPHL60W5QRWzDlxZjoa5C8I/Kp8tW0=",
+            "sha256": "sha256-YxSRiXhct4hiwOm7yo6hwn/lbBj9XbkvSwe4151OEoA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.88/file/leanprover.lean4-0.0.88.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.89/file/leanprover.lean4-0.0.89.vsix"
         },
-        "version": "0.0.88"
+        "version": "0.0.89"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,

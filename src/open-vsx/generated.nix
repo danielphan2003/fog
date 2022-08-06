@@ -5883,10 +5883,10 @@
   };
   banacorn-agda-mode = {
     pname = "banacorn-agda-mode";
-    version = "0.3.9";
+    version = "0.3.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.9/file/banacorn.agda-mode-0.3.9.vsix";
-      sha256 = "sha256-QmA8A4jVJc5EI/MneLFA6A05E9YN1ah2uBOyOTjhrzA=";
+      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.10/file/banacorn.agda-mode-0.3.10.vsix";
+      sha256 = "sha256-yuGUWLOVLGQwhgys8EMjqqQnlQpMmyns6eUC9njI+Ko=";
     };
     license = "MIT";
     name = "agda-mode";
@@ -12915,10 +12915,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.88";
+    version = "0.0.89";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.88/file/leanprover.lean4-0.0.88.vsix";
-      sha256 = "sha256-Bg5WuaedNgrMnaPHL60W5QRWzDlxZjoa5C8I/Kp8tW0=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.89/file/leanprover.lean4-0.0.89.vsix";
+      sha256 = "sha256-YxSRiXhct4hiwOm7yo6hwn/lbBj9XbkvSwe4151OEoA=";
     };
     license = "Apache-2.0";
     name = "lean4";
