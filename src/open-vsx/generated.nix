@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1265";
+    version = "31.0.1266";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1265/file/Prisma.prisma-insider-31.0.1265.vsix";
-      sha256 = "sha256-0avzW+h+N3zHVsEWKP+gZMDBLxTiska4BennrWOprrc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1266/file/Prisma.prisma-insider-31.0.1266.vsix";
+      sha256 = "sha256-Xl+5uRxUV1P6uZiUYtLQuZZpoKg8NeuL1VGqDDc+tWI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -15291,10 +15291,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.4";
+    version = "1.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.4/file/mutable-ai.mutable-ai-1.1.4.vsix";
-      sha256 = "sha256-y5eONSCdRClxqjQ2D1t7Ja3QVD6OO/HmrBdMZi/f4R8=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.5/file/mutable-ai.mutable-ai-1.1.5.vsix";
+      sha256 = "sha256-28P2BKyhZkpl/5QDXoMvXarRic/Va5YsHmXgqJyxMT8=";
     };
     license = "";
     name = "mutable-ai";
@@ -17703,10 +17703,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.4";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.4/file/remcohaszing.schemastore-1.0.4.vsix";
-      sha256 = "sha256-I2Z3sNF6PtOu2pzBAZYeXJhsOtO8c36VCuMt/naXgZ0=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.5/file/remcohaszing.schemastore-1.0.5.vsix";
+      sha256 = "sha256-kyO9o3Db34fa0A7wgr758gmQXb/W24O8oL/kgK33ji8=";
     };
     license = "MIT";
     name = "schemastore";
