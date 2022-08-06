@@ -10791,6 +10791,25 @@
         },
         "version": "0.6.13"
     },
+    "chouzz-vscode-better-align": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "chouzz-vscode-better-align",
+        "passthru": {
+            "description": "Better vertical alignment with/without selection in any language for any characters or words.",
+            "license": "Apache-2.0",
+            "name": "vscode-better-align",
+            "publisher": "chouzz"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-XikmrotTuqHQx9K9yyKt0RwkcU1i2W2pr+POv7bdhnw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/chouzz/vscode-better-align/1.2.0/file/chouzz.vscode-better-align-1.2.0.vsix"
+        },
+        "version": "1.2.0"
+    },
     "chouzz-vscode-innosetup": {
         "cargoLocks": null,
         "extract": null,

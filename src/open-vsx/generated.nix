@@ -6817,6 +6817,18 @@
     description = "Format listfiles so they don't look like crap";
     publisher = "cheshirekow";
   };
+  chouzz-vscode-better-align = {
+    pname = "chouzz-vscode-better-align";
+    version = "1.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/chouzz/vscode-better-align/1.2.0/file/chouzz.vscode-better-align-1.2.0.vsix";
+      sha256 = "sha256-XikmrotTuqHQx9K9yyKt0RwkcU1i2W2pr+POv7bdhnw=";
+    };
+    license = "Apache-2.0";
+    name = "vscode-better-align";
+    description = "Better vertical alignment with/without selection in any language for any characters or words.";
+    publisher = "chouzz";
+  };
   chouzz-vscode-innosetup = {
     pname = "chouzz-vscode-innosetup";
     version = "1.8.0";
