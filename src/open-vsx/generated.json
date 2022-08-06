@@ -19943,11 +19943,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1g1xc59NNWOO5AU9jIXV5qySdjSZ3w0x0MDFK26lRHA=",
+            "sha256": "sha256-GKAJWo9/2yaWVn49TqAWmV0GT0g23bsrzztecqPX8IQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.5/file/koog1000.fossil-0.1.5.vsix"
+            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.6/file/koog1000.fossil-0.1.6.vsix"
         },
-        "version": "0.1.5"
+        "version": "0.1.6"
     },
     "korekontrol-saltstack": {
         "cargoLocks": null,

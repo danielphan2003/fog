@@ -12591,10 +12591,10 @@
   };
   koog1000-fossil = {
     pname = "koog1000-fossil";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/koog1000/fossil/0.1.5/file/koog1000.fossil-0.1.5.vsix";
-      sha256 = "sha256-1g1xc59NNWOO5AU9jIXV5qySdjSZ3w0x0MDFK26lRHA=";
+      url = "https://open-vsx.org/api/koog1000/fossil/0.1.6/file/koog1000.fossil-0.1.6.vsix";
+      sha256 = "sha256-GKAJWo9/2yaWVn49TqAWmV0GT0g23bsrzztecqPX8IQ=";
     };
     license = "MIT";
     name = "fossil";
