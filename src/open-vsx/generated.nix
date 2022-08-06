@@ -7923,10 +7923,10 @@
   };
   deepakgupta191199-save-commands = {
     pname = "deepakgupta191199-save-commands";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.1.0/file/deepakgupta191199.save-commands-0.1.0.vsix";
-      sha256 = "sha256-I5u/W7fpph7aAf4GPz0IUlxXqt2VAatM/M63U51T9Rw=";
+      url = "https://open-vsx.org/api/deepakgupta191199/save-commands/0.2.0/file/deepakgupta191199.save-commands-0.2.0.vsix";
+      sha256 = "sha256-H+dyuuUxG6GM11NQ08ONzxRX5GXfX/G97ypxTUUQEcM=";
     };
     license = "MIT";
     name = "save-commands";
