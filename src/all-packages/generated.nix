@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "84826aec5e6b692083eb376d5f76749d3c195263";
+    version = "5f2c45f305196d9b2b639d63f7d3575cff3c55fb";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "84826aec5e6b692083eb376d5f76749d3c195263";
+      rev = "5f2c45f305196d9b2b639d63f7d3575cff3c55fb";
       fetchSubmodules = true;
-      sha256 = "sha256-cpQzEIqZpYsgWS1cUvqxlVZetw+bOJgHGBlsGhtIGCE=";
+      sha256 = "sha256-DqFR366Bb9u90U6mUfzOtprzKUc88vBYMvrl4x8nUIs=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-84826aec5e6b692083eb376d5f76749d3c195263/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-5f2c45f305196d9b2b639d63f7d3575cff3c55fb/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "94ed25be56e1bdbbc5510c6cbb9132f73d5841a0";
+    version = "c7786a45e1ac5dec26390a100139187be3a46f87";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "94ed25be56e1bdbbc5510c6cbb9132f73d5841a0";
+      rev = "c7786a45e1ac5dec26390a100139187be3a46f87";
       fetchSubmodules = false;
-      sha256 = "sha256-BRslciagiPUg5B2LUH0V1hw++LgglqNeCM5tuTHgZYE=";
+      sha256 = "sha256-ETqXa5L6IqAyT1zxBplxocwQ9BYBMQsw8JhZhoBkQ0A=";
     });
   };
   revanced-cli = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "ec9d13bce56ddb01f127f44e7d79503069f76bbf";
+    version = "40ec8617ace095632aa2930aa51b09042c966d52";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "ec9d13bce56ddb01f127f44e7d79503069f76bbf";
+      rev = "40ec8617ace095632aa2930aa51b09042c966d52";
       fetchSubmodules = false;
-      sha256 = "sha256-mUtWbn2uV6/11pzZ5hkZ7K3WVhvPCCEXCaPoi3gM6ro=";
+      sha256 = "sha256-k+pNwZq/ny8N2pnnQQtU3pIWFVAtHZE0ugwJ5PYDzBI=";
     });
   };
   tailscale-systray = {
