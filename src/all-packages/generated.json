@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0ce1d197ceb3378e2b67430f2c3dea7ed0b35acd",
-            "sha256": "sha256-K7NF1hzyImlMTWCpCPsB5i+IfWSnUEWDqj/4ZOVnWqo=",
+            "rev": "1077883bdaeb40503f902f9024a37e09c0e56862",
+            "sha256": "sha256-Yhisem6gF/p65yVELzbS3mjSGDJVMQ5rExSZQOSXUMo=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "0ce1d197ceb3378e2b67430f2c3dea7ed0b35acd"
+        "version": "1077883bdaeb40503f902f9024a37e09c0e56862"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "879674d4c3fda2f1cacd3c83df022114ad0e6cdd",
-            "sha256": "sha256-2xbupZYmt9V9F+xcDR3Lbf9N3co/uhxneku+udm4aPo=",
+            "rev": "5b09b6614b8697f0086d1bc800835b411bd0cb07",
+            "sha256": "sha256-itAmRlSDi15X983lrxIs5cqhx5SIwXsec6LRCO70SV0=",
             "type": "github"
         },
-        "version": "879674d4c3fda2f1cacd3c83df022114ad0e6cdd"
+        "version": "5b09b6614b8697f0086d1bc800835b411bd0cb07"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1785,12 +1785,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "ea6268e8f0520a7d88c35aae92ece7ce74bc0ecf",
-            "sha256": "sha256-nJemF3FPba51eTVA8ZKEk2uYXZyG0ffGJg8dDRDRZPM=",
+            "rev": "16eec0248b673620030ab8da849ad938202be73a",
+            "sha256": "sha256-Ag+kbbmUgoZsN3IpFCp9UsE/pzjTe/btUhGWtfacG8U=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "ea6268e8f0520a7d88c35aae92ece7ce74bc0ecf"
+        "version": "16eec0248b673620030ab8da849ad938202be73a"
     },
     "spicetify-cli": {
         "cargoLocks": null,
