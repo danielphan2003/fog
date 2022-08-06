@@ -12761,11 +12761,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u5ycoZu9Wq/WNfUadc+UXV6/J/uSTK+b2MNPXBxra3U=",
+            "sha256": "sha256-mqFPMOifUccNP9GYlIQ/OEOMQP/1liCelmcmMGyih6c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.106.3/file/dendron.nightly-0.106.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.106.4/file/dendron.nightly-0.106.4.vsix"
         },
-        "version": "0.106.3"
+        "version": "0.106.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
