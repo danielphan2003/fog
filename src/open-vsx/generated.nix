@@ -15663,10 +15663,10 @@
   };
   njzy-stats-bar = {
     pname = "njzy-stats-bar";
-    version = "0.5.1";
+    version = "0.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/njzy/stats-bar/0.5.1/file/njzy.stats-bar-0.5.1.vsix";
-      sha256 = "sha256-fPPM2aHrIiJE6xFWsqxUQHeQN9qwMmkOAmp4Pphcw7Y=";
+      url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0.5.2.vsix";
+      sha256 = "sha256-iP5C6tPm7KBiVJYUEJuBN8HYF+ailyDpvWmT6t5JiIA=";
     };
     license = "MIT";
     name = "stats-bar";

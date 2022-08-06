@@ -24807,11 +24807,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fPPM2aHrIiJE6xFWsqxUQHeQN9qwMmkOAmp4Pphcw7Y=",
+            "sha256": "sha256-iP5C6tPm7KBiVJYUEJuBN8HYF+ailyDpvWmT6t5JiIA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/njzy/stats-bar/0.5.1/file/njzy.stats-bar-0.5.1.vsix"
+            "url": "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0.5.2.vsix"
         },
-        "version": "0.5.1"
+        "version": "0.5.2"
     },
     "nocalhost-nocalhost": {
         "cargoLocks": null,
