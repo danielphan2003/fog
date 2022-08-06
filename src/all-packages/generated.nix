@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "20596a2c5d17e3d7c7e1f70174297080790190f6";
+    version = "319434895896aa1154835aa1724f5bbfd8fde9b1";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "20596a2c5d17e3d7c7e1f70174297080790190f6";
+      rev = "319434895896aa1154835aa1724f5bbfd8fde9b1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-V5bHa8B6Fn+WFomaSVd/0yLRLJlNO6+1HTuooXVcotQ=";
+      sha256 = "sha256-wT4ybYTWhxHB8jtkXFIx/mrRFdpNbfpm3p7BoQ4S1Xk=";
     };
   };
   flyingfox = {
@@ -1320,13 +1320,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "c90b59266a3bd21c637c9123aeaadd7b955cce80";
+    version = "a6747e250f10b55153035efd1cd15dda089e077b";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "c90b59266a3bd21c637c9123aeaadd7b955cce80";
+      rev = "a6747e250f10b55153035efd1cd15dda089e077b";
       fetchSubmodules = false;
-      sha256 = "sha256-foGYEbjiMpdQpqBkr+ivY9GWAi/yS8rEGtPQb/RApnQ=";
+      sha256 = "sha256-lkBT2VXClTfSIpE7Nn1lFLNxTeoPSTwGkjcN4YycYVE=";
     });
   };
   wgcf = {

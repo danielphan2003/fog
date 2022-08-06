@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "20596a2c5d17e3d7c7e1f70174297080790190f6",
-            "sha256": "sha256-V5bHa8B6Fn+WFomaSVd/0yLRLJlNO6+1HTuooXVcotQ=",
+            "rev": "319434895896aa1154835aa1724f5bbfd8fde9b1",
+            "sha256": "sha256-wT4ybYTWhxHB8jtkXFIx/mrRFdpNbfpm3p7BoQ4S1Xk=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "20596a2c5d17e3d7c7e1f70174297080790190f6"
+        "version": "319434895896aa1154835aa1724f5bbfd8fde9b1"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -2193,11 +2193,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "c90b59266a3bd21c637c9123aeaadd7b955cce80",
-            "sha256": "sha256-foGYEbjiMpdQpqBkr+ivY9GWAi/yS8rEGtPQb/RApnQ=",
+            "rev": "a6747e250f10b55153035efd1cd15dda089e077b",
+            "sha256": "sha256-lkBT2VXClTfSIpE7Nn1lFLNxTeoPSTwGkjcN4YycYVE=",
             "type": "github"
         },
-        "version": "c90b59266a3bd21c637c9123aeaadd7b955cce80"
+        "version": "a6747e250f10b55153035efd1cd15dda089e077b"
     },
     "wgcf": {
         "cargoLocks": null,
