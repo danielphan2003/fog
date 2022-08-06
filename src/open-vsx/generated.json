@@ -5465,11 +5465,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cOTir/bIj7wkZvg5BH9ogfmCPr4/YEDYGAc0/+iMgbg=",
+            "sha256": "sha256-wYYlbb7f6b5gi2ocXZ/1RxPddHZ93z7vo5c3b03//G0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.416/file/Slint.slint-nightly-2022.8.416.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.510/file/Slint.slint-nightly-2022.8.510.vsix"
         },
-        "version": "2022.8.416"
+        "version": "2022.8.510"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
