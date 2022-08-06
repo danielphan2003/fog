@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "8461496c083e0848815d3ab20185bf07a70c1d62";
+    version = "28b6935c12e5ab614f4397cfacf1f2b6af87a164";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "8461496c083e0848815d3ab20185bf07a70c1d62";
+      rev = "28b6935c12e5ab614f4397cfacf1f2b6af87a164";
       fetchSubmodules = false;
-      sha256 = "sha256-fU8ZbQUNU9JfcgWIQPl9SHUjmJ/lAEr/IcqBPLkmugs=";
+      sha256 = "sha256-Rvf3wqw8pBfWddP/sw7HBZIwLj2NO3iJ1t8m+7SIREY=";
     });
   };
   caddy = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "72b4cf914e6481b013afd57af5777efd3c7a0fa8";
+    version = "94ed25be56e1bdbbc5510c6cbb9132f73d5841a0";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "72b4cf914e6481b013afd57af5777efd3c7a0fa8";
+      rev = "94ed25be56e1bdbbc5510c6cbb9132f73d5841a0";
       fetchSubmodules = false;
-      sha256 = "sha256-59EudsSM8FWosQ04zBT8Ppjm7ICTVpe8Qs65CiWaSlk=";
+      sha256 = "sha256-BRslciagiPUg5B2LUH0V1hw++LgglqNeCM5tuTHgZYE=";
     });
   };
   revanced-cli = {
@@ -1070,14 +1070,14 @@
   };
   snui = {
     pname = "snui";
-    version = "3448023f543001c5b1bb58296a203322d2325eb2";
+    version = "9c02fb870b3c9da07db56b43a6787badf4b87ffb";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "3448023f543001c5b1bb58296a203322d2325eb2";
+      rev = "9c02fb870b3c9da07db56b43a6787badf4b87ffb";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-BHpQKAu6q9WQprseqG3dDPqiFRnDBpAINa+aKgs0BYo=";
+      sha256 = "sha256-Y6UEzHgK5uZ8uaZswLZiQTPoQRnmwPb3PKcc1IZ4iXU=";
     };
   };
   spicetify-cli = {
