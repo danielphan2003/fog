@@ -13059,10 +13059,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.34";
+    version = "3.0.35";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.34/file/lifeart.vscode-ember-unstable-3.0.34.vsix";
-      sha256 = "sha256-Svu1HKCwT75l8+pJe6N6F1/xzaOmaJ7Mj0C4y8Yda/E=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.35/file/lifeart.vscode-ember-unstable-3.0.35.vsix";
+      sha256 = "sha256-GcgfOxvfBnZwhrdSuXMRHkAOb8R3UKWUSP1ivwZaEDE=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";

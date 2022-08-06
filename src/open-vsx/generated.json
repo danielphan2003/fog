@@ -20684,11 +20684,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Svu1HKCwT75l8+pJe6N6F1/xzaOmaJ7Mj0C4y8Yda/E=",
+            "sha256": "sha256-GcgfOxvfBnZwhrdSuXMRHkAOb8R3UKWUSP1ivwZaEDE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.34/file/lifeart.vscode-ember-unstable-3.0.34.vsix"
+            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.35/file/lifeart.vscode-ember-unstable-3.0.35.vsix"
         },
-        "version": "3.0.34"
+        "version": "3.0.35"
     },
     "lifeart-vscode-glimmer-syntax": {
         "cargoLocks": null,
