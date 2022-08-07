@@ -4107,10 +4107,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.13.1";
+    version = "9.13.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.1/file/YXL.cloudmusic-9.13.1.vsix";
-      sha256 = "sha256-NAWE6tVnB5iHShcX7cx1D0zVAzpcb1njr5rehwcWqpI=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.2/file/YXL.cloudmusic-9.13.2.vsix";
+      sha256 = "sha256-aXWuw4jul4rXznqC1+cSXo2U6GSttS6RZs1RNySpE1w=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -7611,10 +7611,10 @@
   };
   cyrusfirheir-twee3-language-tools = {
     pname = "cyrusfirheir-twee3-language-tools";
-    version = "0.18.7";
+    version = "0.18.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.7/file/cyrusfirheir.twee3-language-tools-0.18.7.vsix";
-      sha256 = "sha256-gnflA/VPvPsrVSyrL38ig1QNrsv9oHaT7OMQN16INwQ=";
+      url = "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.8/file/cyrusfirheir.twee3-language-tools-0.18.8.vsix";
+      sha256 = "sha256-G6ma40h+ztNxi9zTUfIUVyIOHKGMpiggDEt5LaCKUy8=";
     };
     license = "MIT";
     name = "twee3-language-tools";
@@ -13968,6 +13968,18 @@
     name = "meteor-toolbox";
     description = "Easily set up your Meteor environment (intelisense, run options and many other things).";
     publisher = "meteor-toolbox";
+  };
+  mfederczuk-w3c-ebnf = {
+    pname = "mfederczuk-w3c-ebnf";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mfederczuk/w3c-ebnf/0.2.0/file/mfederczuk.w3c-ebnf-0.2.0.vsix";
+      sha256 = "sha256-v5Ytjua5OWjjEvZvHpigjCwWPxjRA1d+ow+giy2M+Qo=";
+    };
+    license = "MLP-2.0 AND Apache-2.0";
+    name = "w3c-ebnf";
+    description = "Language support for W3C's EBNF notation";
+    publisher = "mfederczuk";
   };
   mgmcdermott-vscode-language-babel = {
     pname = "mgmcdermott-vscode-language-babel";

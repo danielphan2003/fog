@@ -6510,11 +6510,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NAWE6tVnB5iHShcX7cx1D0zVAzpcb1njr5rehwcWqpI=",
+            "sha256": "sha256-aXWuw4jul4rXznqC1+cSXo2U6GSttS6RZs1RNySpE1w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.13.1/file/YXL.cloudmusic-9.13.1.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.13.2/file/YXL.cloudmusic-9.13.2.vsix"
         },
-        "version": "9.13.1"
+        "version": "9.13.2"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -12058,11 +12058,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gnflA/VPvPsrVSyrL38ig1QNrsv9oHaT7OMQN16INwQ=",
+            "sha256": "sha256-G6ma40h+ztNxi9zTUfIUVyIOHKGMpiggDEt5LaCKUy8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.7/file/cyrusfirheir.twee3-language-tools-0.18.7.vsix"
+            "url": "https://open-vsx.org/api/cyrusfirheir/twee3-language-tools/0.18.8/file/cyrusfirheir.twee3-language-tools-0.18.8.vsix"
         },
-        "version": "0.18.7"
+        "version": "0.18.8"
     },
     "d-biehl-robotcode": {
         "cargoLocks": null,
@@ -22114,6 +22114,25 @@
             "url": "https://open-vsx.org/api/meteor-toolbox/meteor-toolbox/1.1.5/file/meteor-toolbox.meteor-toolbox-1.1.5.vsix"
         },
         "version": "1.1.5"
+    },
+    "mfederczuk-w3c-ebnf": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mfederczuk-w3c-ebnf",
+        "passthru": {
+            "description": "Language support for W3C's EBNF notation",
+            "license": "MLP-2.0 AND Apache-2.0",
+            "name": "w3c-ebnf",
+            "publisher": "mfederczuk"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-v5Ytjua5OWjjEvZvHpigjCwWPxjRA1d+ow+giy2M+Qo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/mfederczuk/w3c-ebnf/0.2.0/file/mfederczuk.w3c-ebnf-0.2.0.vsix"
+        },
+        "version": "0.2.0"
     },
     "mgmcdermott-vscode-language-babel": {
         "cargoLocks": null,
