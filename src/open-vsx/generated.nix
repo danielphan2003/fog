@@ -4107,10 +4107,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.12.1";
+    version = "9.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.12.1/file/YXL.cloudmusic-9.12.1.vsix";
-      sha256 = "sha256-eZ3OZeqmJUt8Z6mLpjhNwAAgryP6c79ZH/tNRmFUK2g=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.0/file/YXL.cloudmusic-9.13.0.vsix";
+      sha256 = "sha256-zuDzoSJ5PVQKxwdRmDP5i5tMAEM6wJJuAM6MpJTXwOw=";
     };
     license = "MIT";
     name = "cloudmusic";
