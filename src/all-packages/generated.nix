@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "96b22eb55714e29f939589813361f8b28e487b0d";
+    version = "4ff3e47d54405396e76505cae62394aacebaa766";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "96b22eb55714e29f939589813361f8b28e487b0d";
+      rev = "4ff3e47d54405396e76505cae62394aacebaa766";
       fetchSubmodules = false;
-      sha256 = "sha256-qHlg0ss77brxb3U3MJEv/06FndBOa7Bfc1+OV5Z87fQ=";
+      sha256 = "sha256-Mh/5sOj+JC3awXC93crfxRz4jPOjk8yA0ePI5uH6od8=";
     });
   };
   cinny-bin = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6436";
+    version = "1.0.6437";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6436.tar.bz2";
-      sha256 = "sha256-Ht2PBmUxmlU6jNWKiyTrt9aoTOely+w8/1Yj6MMWoHQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6437.tar.bz2";
+      sha256 = "sha256-QJBVNI+cx0S8qOh+L8tZjCzKFyUuf4kJ1tj9iL1FzZo=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6436";
+    version = "1.0.6437";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6436-1_all.deb";
-      sha256 = "sha256-57zDcH7w937fMKDtSbm+fWAA+gZ3aok7WU25+lGOnXE=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6437-1_all.deb";
+      sha256 = "sha256-MEPwuEiY7HYC2g3SRJYNrVZxfWqPLVdh74aHwFu4Jrg=";
     };
   };
   jitsi-videobridge2 = {
