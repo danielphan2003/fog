@@ -3003,10 +3003,10 @@
   };
   PrateekMahendrakar-prettyxml = {
     pname = "PrateekMahendrakar-prettyxml";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.1.0/file/PrateekMahendrakar.prettyxml-2.1.0.vsix";
-      sha256 = "sha256-zFfdhEUVUWxD7fGf5P9dy7e9XiVbxo83OKeZLcKBoH4=";
+      url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/PrateekMahendrakar.prettyxml-2.2.0.vsix";
+      sha256 = "sha256-ASh99E5P+4/uPiauOihf/fvdi97lWhLcJAvHOzwtxto=";
     };
     license = "MIT";
     name = "prettyxml";
@@ -9363,10 +9363,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.19.2";
+    version = "0.19.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.2/file/foam.foam-vscode-0.19.2.vsix";
-      sha256 = "sha256-ELqcvJUwZvuWw7CopW7vpV87QGVfSUMMEk+dl8IiNlE=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.4/file/foam.foam-vscode-0.19.4.vsix";
+      sha256 = "sha256-m6b9MyoWH+JY8iS6+XcA5C0PAphzrINSGl9AykUCKnY=";
     };
     license = "MIT";
     name = "foam-vscode";
@@ -10263,10 +10263,10 @@
   };
   harmony-harmony-assist = {
     pname = "harmony-harmony-assist";
-    version = "0.0.5";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.5/file/harmony.harmony-assist-0.0.5.vsix";
-      sha256 = "sha256-P9Z7ZKgm1cBfAFzaUBlqABnanOl5l5/2y4ymVlywxEw=";
+      url = "https://open-vsx.org/api/harmony/harmony-assist/0.0.7/file/harmony.harmony-assist-0.0.7.vsix";
+      sha256 = "sha256-Z2KHSZI7S2N2Gj9gNQ9n1NTVgaAso0AhoKVgKRriAbg=";
     };
     license = "MIT";
     name = "harmony-assist";
@@ -19419,10 +19419,10 @@
   };
   streetsidesoftware-code-spell-checker = {
     pname = "streetsidesoftware-code-spell-checker";
-    version = "2.3.5";
+    version = "2.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.5/file/streetsidesoftware.code-spell-checker-2.3.5.vsix";
-      sha256 = "sha256-FUDcCEFgQpJ3V82afYgqt8pFpYkRYTfzw+2yo2NfZjE=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.5.4/file/streetsidesoftware.code-spell-checker-2.5.4.vsix";
+      sha256 = "sha256-DBEKbdLY5YNQqZjHc8vS8ruBPFJuYAnsR0vj89PED2U=";
     };
     license = "GPL-3.0-or-later";
     name = "code-spell-checker";

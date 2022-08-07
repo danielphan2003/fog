@@ -4762,11 +4762,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zFfdhEUVUWxD7fGf5P9dy7e9XiVbxo83OKeZLcKBoH4=",
+            "sha256": "sha256-ASh99E5P+4/uPiauOihf/fvdi97lWhLcJAvHOzwtxto=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.1.0/file/PrateekMahendrakar.prettyxml-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/PrateekMahendrakar.prettyxml-2.2.0.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.2.0"
     },
     "PrateekMahendrakar-resxpress": {
         "cargoLocks": null,
@@ -14832,11 +14832,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ELqcvJUwZvuWw7CopW7vpV87QGVfSUMMEk+dl8IiNlE=",
+            "sha256": "sha256-m6b9MyoWH+JY8iS6+XcA5C0PAphzrINSGl9AykUCKnY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/foam/foam-vscode/0.19.2/file/foam.foam-vscode-0.19.2.vsix"
+            "url": "https://open-vsx.org/api/foam/foam-vscode/0.19.4/file/foam.foam-vscode-0.19.4.vsix"
         },
-        "version": "0.19.2"
+        "version": "0.19.4"
     },
     "folke-vscode-monorepo-workspace": {
         "cargoLocks": null,
@@ -16257,11 +16257,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P9Z7ZKgm1cBfAFzaUBlqABnanOl5l5/2y4ymVlywxEw=",
+            "sha256": "sha256-Z2KHSZI7S2N2Gj9gNQ9n1NTVgaAso0AhoKVgKRriAbg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/harmony/harmony-assist/0.0.5/file/harmony.harmony-assist-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/harmony/harmony-assist/0.0.7/file/harmony.harmony-assist-0.0.7.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.7"
     },
     "hashicorp-terraform": {
         "cargoLocks": null,
@@ -30754,11 +30754,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FUDcCEFgQpJ3V82afYgqt8pFpYkRYTfzw+2yo2NfZjE=",
+            "sha256": "sha256-DBEKbdLY5YNQqZjHc8vS8ruBPFJuYAnsR0vj89PED2U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.3.5/file/streetsidesoftware.code-spell-checker-2.3.5.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.5.4/file/streetsidesoftware.code-spell-checker-2.5.4.vsix"
         },
-        "version": "2.3.5"
+        "version": "2.5.4"
     },
     "streetsidesoftware-code-spell-checker-arabic": {
         "cargoLocks": null,
