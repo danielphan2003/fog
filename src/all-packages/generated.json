@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "f7b7c7add432504b419792c3bc78ffbc3a4cb9e7",
-            "sha256": "sha256-qmBiB/FhF6trSaaxYIeBYKfowFZr6zp4p4G2W5hSQv4=",
+            "rev": "236c5b16489adaf497469f62fd15afcb7ff9b01e",
+            "sha256": "sha256-QLI6DhuWa5mJ3snUazVc08GXhTu9HaXZsJJz4G7hTqg=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "f7b7c7add432504b419792c3bc78ffbc3a4cb9e7"
+        "version": "236c5b16489adaf497469f62fd15afcb7ff9b01e"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1572,11 +1572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-V0/Veioox6rbJRfmRd0G9mknPZi7qhcCvhka1knChms=",
+            "sha256": "sha256-f1TF34z3mgfpkFZUrzMeEPi9P+48Id09lp6deHGCl20=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.0/revanced-patches-2.33.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.1/revanced-patches-2.33.1.dex"
         },
-        "version": "2.33.0"
+        "version": "2.33.1"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1586,11 +1586,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-18FfNVozU5rk04OnP7yf5SWv7lO5PWmheVU0AoNcaM0=",
+            "sha256": "sha256-x1lSclW7EL+FYXjb3gchO4zs+eDT4oKrqwH9lTdU/Ko=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.0/revanced-patches-2.33.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.1/revanced-patches-2.33.1.jar"
         },
-        "version": "2.33.0"
+        "version": "2.33.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
