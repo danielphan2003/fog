@@ -4107,10 +4107,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.13.0";
+    version = "9.13.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.0/file/YXL.cloudmusic-9.13.0.vsix";
-      sha256 = "sha256-zuDzoSJ5PVQKxwdRmDP5i5tMAEM6wJJuAM6MpJTXwOw=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.1/file/YXL.cloudmusic-9.13.1.vsix";
+      sha256 = "sha256-NAWE6tVnB5iHShcX7cx1D0zVAzpcb1njr5rehwcWqpI=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -22947,10 +22947,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.20.1659723293";
+    version = "0.20.1659880172";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659723293/file/weaveworks.vscode-gitops-tools-0.20.1659723293.vsix";
-      sha256 = "sha256-UoScmwiCX20D41bNbF173ugJXHHjrXrWz5SmClvjQ74=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659880172/file/weaveworks.vscode-gitops-tools-0.20.1659880172.vsix";
+      sha256 = "sha256-IC2Gi18Z47T2mGNgCY+3nznv/lADPcMXN6w35lFnbeQ=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";
