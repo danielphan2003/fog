@@ -12063,10 +12063,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.28";
+    version = "1.6.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.28/file/julialang.language-julia-1.6.28.vsix";
-      sha256 = "sha256-axchmTLGOEy/Fu8gO+y6p/gjj9m6+H1V9znzCdZsvxA=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.29/file/julialang.language-julia-1.6.29.vsix";
+      sha256 = "sha256-XHlxMmmf1+4QD9BT6V88AdkSlhYSbvIFhyGU1ksXnow=";
     };
     license = "MIT";
     name = "language-julia";
@@ -15699,10 +15699,10 @@
   };
   nokxs-iobroker-javascript = {
     pname = "nokxs-iobroker-javascript";
-    version = "1.0.2";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.0.2/file/nokxs.iobroker-javascript-1.0.2.vsix";
-      sha256 = "sha256-gZW546bCHhwF1WBcX7bdQyaQ3fXwAWa1sEoJrHY3d2I=";
+      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.0/file/nokxs.iobroker-javascript-1.1.0.vsix";
+      sha256 = "sha256-P5xcnnlADV3X0Z8qLNss0CzoYQ6AbYniH6vxG/M9r3A=";
     };
     license = "MIT";
     name = "iobroker-javascript";
