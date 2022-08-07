@@ -5769,11 +5769,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kfWvZcQeRYSg/Xj+qSINsV9+UTdTTFYJ2H1rXHkV5M0=",
+            "sha256": "sha256-zzPcvT+S8oiEPBWk7yjkYoA6Yq1OXafUJBheoDytTxY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.9/file/TabNine.tabnine-vscode-3.6.9.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.10/file/TabNine.tabnine-vscode-3.6.10.vsix"
         },
-        "version": "3.6.9"
+        "version": "3.6.10"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -18119,11 +18119,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BZ68ohct508AzZUhJsDYIQdWmVxMkBGRcQ/YVdKtowo=",
+            "sha256": "sha256-GDWyRWR/Dhsv+9jZ0cJv7jCJqxdxXui4fUZLV5XysLA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jarusll/class-browser/1.0.1/file/jarusll.class-browser-1.0.1.vsix"
+            "url": "https://open-vsx.org/api/jarusll/class-browser/1.0.2/file/jarusll.class-browser-1.0.2.vsix"
         },
-        "version": "1.0.1"
+        "version": "1.0.2"
     },
     "jasonlhy-hungry-delete": {
         "cargoLocks": null,

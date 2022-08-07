@@ -3639,10 +3639,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.9";
+    version = "3.6.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.9/file/TabNine.tabnine-vscode-3.6.9.vsix";
-      sha256 = "sha256-kfWvZcQeRYSg/Xj+qSINsV9+UTdTTFYJ2H1rXHkV5M0=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.10/file/TabNine.tabnine-vscode-3.6.10.vsix";
+      sha256 = "sha256-zzPcvT+S8oiEPBWk7yjkYoA6Yq1OXafUJBheoDytTxY=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -11439,10 +11439,10 @@
   };
   jarusll-class-browser = {
     pname = "jarusll-class-browser";
-    version = "1.0.1";
+    version = "1.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jarusll/class-browser/1.0.1/file/jarusll.class-browser-1.0.1.vsix";
-      sha256 = "sha256-BZ68ohct508AzZUhJsDYIQdWmVxMkBGRcQ/YVdKtowo=";
+      url = "https://open-vsx.org/api/jarusll/class-browser/1.0.2/file/jarusll.class-browser-1.0.2.vsix";
+      sha256 = "sha256-GDWyRWR/Dhsv+9jZ0cJv7jCJqxdxXui4fUZLV5XysLA=";
     };
     license = "MIT";
     name = "class-browser";
