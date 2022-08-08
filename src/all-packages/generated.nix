@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "70fd86e9c13356c623df95685e36e65f76f1334d";
+    version = "23a8c0b62f2c1f8faa13a4fe0a38245a3b1524c3";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "70fd86e9c13356c623df95685e36e65f76f1334d";
+      rev = "23a8c0b62f2c1f8faa13a4fe0a38245a3b1524c3";
       fetchSubmodules = false;
-      sha256 = "sha256-g2LmdDdwrJXhgdBTdD8vGhJIvfTy8bVW1lsL2O6m17M=";
+      sha256 = "sha256-w7Yfg4xpmcWMm7mcf/oQClwQRBlw0Ci+M48U6pGn0PE=";
     });
   };
   guiscrcpy = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d3f3c58e61ecc3be19eed95d67104dcdffabf418";
+    version = "a9157f975e044d5136f74d88cedd1bd10e66825a";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d3f3c58e61ecc3be19eed95d67104dcdffabf418";
+      rev = "a9157f975e044d5136f74d88cedd1bd10e66825a";
       fetchSubmodules = false;
-      sha256 = "sha256-XEsBlbQ/p+iPfCDB/M+/7Z9473p9Rba87LV1gdElqLM=";
+      sha256 = "sha256-naTR3ktdQD6wFrXyV4TSl1VV+4sjHGRuOtpvW5jN2Is=";
     });
   };
   revanced-cli = {
@@ -932,10 +932,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.31.1";
+    version = "0.31.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.31.1/app-release-unsigned.apk";
-      sha256 = "sha256-lO2AUp1pLzar71DhpBrrvHQCn8iBz2mnSJvcSJWm3CY=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.31.2/app-release-unsigned.apk";
+      sha256 = "sha256-3BfOVVN9oYyP3PxvAovZ2ApydMQoDOyEouIm/SYhLMI=";
     };
   };
   revanced-patches-dex = {
