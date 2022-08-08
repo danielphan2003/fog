@@ -4616,6 +4616,25 @@
         },
         "version": "2.2.0"
     },
+    "PenumbraTheme-penumbra": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "PenumbraTheme-penumbra",
+        "passthru": {
+            "description": "Perceptually uniform color theme, inspired by sun and shade in nature",
+            "license": "MIT",
+            "name": "penumbra",
+            "publisher": "PenumbraTheme"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-9JEU1DqwNXxcu6ZpCQGDc4L/sPLdjfDDKLz5M8kBFHY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/PenumbraTheme/penumbra/0.4.0/file/PenumbraTheme.penumbra-0.4.0.vsix"
+        },
+        "version": "0.4.0"
+    },
     "PereLabat-make-lldb-config": {
         "cargoLocks": null,
         "extract": null,
@@ -4838,11 +4857,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5qsZBsK3CS2GdBOWpnENA1113B/pRvYdCvRnGdR0CaE=",
+            "sha256": "sha256-05th7oOUgTvu4ZoG+9vSsdwmdNnxo8riWl2/dgKDYcI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1272/file/Prisma.prisma-insider-31.0.1272.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1273/file/Prisma.prisma-insider-31.0.1273.vsix"
         },
-        "version": "31.0.1272"
+        "version": "31.0.1273"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,

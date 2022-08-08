@@ -2917,6 +2917,18 @@
     description = "Syntax highlighting and error reporting for Peggy";
     publisher = "PeggyJS";
   };
+  PenumbraTheme-penumbra = {
+    pname = "PenumbraTheme-penumbra";
+    version = "0.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/PenumbraTheme/penumbra/0.4.0/file/PenumbraTheme.penumbra-0.4.0.vsix";
+      sha256 = "sha256-9JEU1DqwNXxcu6ZpCQGDc4L/sPLdjfDDKLz5M8kBFHY=";
+    };
+    license = "MIT";
+    name = "penumbra";
+    description = "Perceptually uniform color theme, inspired by sun and shade in nature";
+    publisher = "PenumbraTheme";
+  };
   PereLabat-make-lldb-config = {
     pname = "PereLabat-make-lldb-config";
     version = "0.4.0";
@@ -3051,10 +3063,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1272";
+    version = "31.0.1273";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1272/file/Prisma.prisma-insider-31.0.1272.vsix";
-      sha256 = "sha256-5qsZBsK3CS2GdBOWpnENA1113B/pRvYdCvRnGdR0CaE=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1273/file/Prisma.prisma-insider-31.0.1273.vsix";
+      sha256 = "sha256-05th7oOUgTvu4ZoG+9vSsdwmdNnxo8riWl2/dgKDYcI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
