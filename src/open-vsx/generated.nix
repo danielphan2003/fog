@@ -4107,10 +4107,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.13.2";
+    version = "9.13.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.2/file/YXL.cloudmusic-9.13.2.vsix";
-      sha256 = "sha256-aXWuw4jul4rXznqC1+cSXo2U6GSttS6RZs1RNySpE1w=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.3/file/YXL.cloudmusic-9.13.3.vsix";
+      sha256 = "sha256-gWjsAlArIReFaYNDdv5UuSh2Q37f4cVvXIkkBrOw7ZI=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -17727,10 +17727,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.5/file/remcohaszing.schemastore-1.0.5.vsix";
-      sha256 = "sha256-kyO9o3Db34fa0A7wgr758gmQXb/W24O8oL/kgK33ji8=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.6/file/remcohaszing.schemastore-1.0.6.vsix";
+      sha256 = "sha256-tA/ZohTZz/RNm0IpGDAszVO6MOyn8c+LJYmzEa2oJlg=";
     };
     license = "MIT";
     name = "schemastore";
@@ -20115,10 +20115,10 @@
   };
   techygrrrl-techygrrrl-cmyk-colourrrs = {
     pname = "techygrrrl-techygrrrl-cmyk-colourrrs";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/techygrrrl/techygrrrl-cmyk-colourrrs/0.2.1/file/techygrrrl.techygrrrl-cmyk-colourrrs-0.2.1.vsix";
-      sha256 = "sha256-WRdX4aR1+70/xb1wPrwEzez7kYKGCZCavgEStOt6hZ4=";
+      url = "https://open-vsx.org/api/techygrrrl/techygrrrl-cmyk-colourrrs/0.2.2/file/techygrrrl.techygrrrl-cmyk-colourrrs-0.2.2.vsix";
+      sha256 = "sha256-rPJhqDoCh2lOQatDqeByJ0fsgVAFs+5Hkq4kPK2/j8k=";
     };
     license = "MIT";
     name = "techygrrrl-cmyk-colourrrs";

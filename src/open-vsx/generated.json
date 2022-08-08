@@ -6510,11 +6510,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aXWuw4jul4rXznqC1+cSXo2U6GSttS6RZs1RNySpE1w=",
+            "sha256": "sha256-gWjsAlArIReFaYNDdv5UuSh2Q37f4cVvXIkkBrOw7ZI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.13.2/file/YXL.cloudmusic-9.13.2.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.13.3/file/YXL.cloudmusic-9.13.3.vsix"
         },
-        "version": "9.13.2"
+        "version": "9.13.3"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -28075,11 +28075,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kyO9o3Db34fa0A7wgr758gmQXb/W24O8oL/kgK33ji8=",
+            "sha256": "sha256-tA/ZohTZz/RNm0IpGDAszVO6MOyn8c+LJYmzEa2oJlg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.5/file/remcohaszing.schemastore-1.0.5.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.6/file/remcohaszing.schemastore-1.0.6.vsix"
         },
-        "version": "1.0.5"
+        "version": "1.0.6"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,
@@ -31856,11 +31856,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WRdX4aR1+70/xb1wPrwEzez7kYKGCZCavgEStOt6hZ4=",
+            "sha256": "sha256-rPJhqDoCh2lOQatDqeByJ0fsgVAFs+5Hkq4kPK2/j8k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/techygrrrl/techygrrrl-cmyk-colourrrs/0.2.1/file/techygrrrl.techygrrrl-cmyk-colourrrs-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/techygrrrl/techygrrrl-cmyk-colourrrs/0.2.2/file/techygrrrl.techygrrrl-cmyk-colourrrs-0.2.2.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.2.2"
     },
     "telesoho-vscode-markdown-paste-image": {
         "cargoLocks": null,
