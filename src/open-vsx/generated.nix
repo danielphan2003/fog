@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1267";
+    version = "31.0.1270";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1267/file/Prisma.prisma-insider-31.0.1267.vsix";
-      sha256 = "sha256-T8exmhOy7id5TX8hP/i/yCq1pNbeaw+qgQhvcnL4IlY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1270/file/Prisma.prisma-insider-31.0.1270.vsix";
+      sha256 = "sha256-iWHT5w3Md6vO6Hrea5IrbPSsHexdu35yzaU32qOSTLY=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8173,6 +8173,18 @@
     description = "Encrypt/decrypt ansible-vault file";
     publisher = "dhoeric";
   };
+  digitalspacestudio-digitalspacestdio-darkness = {
+    pname = "digitalspacestudio-digitalspacestdio-darkness";
+    version = "0.0.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/digitalspacestudio/digitalspacestdio-darkness/0.0.7/file/digitalspacestudio.digitalspacestdio-darkness-0.0.7.vsix";
+      sha256 = "sha256-WkwwD9EB1h6lN6Z+jCKBoB/D+8iLZDsbt4aBngcCmUo=";
+    };
+    license = "MIT";
+    name = "digitalspacestdio-darkness";
+    description = "Dark Theme by DigitalSpaceStudio";
+    publisher = "digitalspacestudio";
+  };
   digma-digma = {
     pname = "digma-digma";
     version = "0.5.35";
@@ -10239,10 +10251,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.9.5";
+    version = "0.9.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.5/file/halcyontechltd.vscode-rpgle-0.9.5.vsix";
-      sha256 = "sha256-0Ba7REyzcWSDqhCo+5yiTwmnrW5LXkSHZwf1Go4aqDA=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.6/file/halcyontechltd.vscode-rpgle-0.9.6.vsix";
+      sha256 = "sha256-GAAl+gLR2h30tC1ITQc167l9Sr+UmB1f2Eu4F0QIrY0=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -16128,6 +16140,18 @@
     name = "pretext-tools";
     description = "Language support and more for PreTeXt";
     publisher = "oscarlevin";
+  };
+  ost-fh-visual-oo-debugger = {
+    pname = "ost-fh-visual-oo-debugger";
+    version = "0.9.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ost-fh/visual-oo-debugger/0.9.1/file/ost-fh.visual-oo-debugger-0.9.1.vsix";
+      sha256 = "sha256-8iN1l9/GRpqWVuzDH+P0dc7ePQ2Zzt4QtscEFDrrqBU=";
+    };
+    license = "Apache-2.0";
+    name = "visual-oo-debugger";
+    description = "A visual debugger for Java for teaching object-oriented programming. The extension visualizes objects and variables graphically and can run a program step by step to facilitate a better understanding of how objects and variables change over the course of a program.";
+    publisher = "ost-fh";
   };
   ovly-ovly-ui5-snippets = {
     pname = "ovly-ovly-ui5-snippets";

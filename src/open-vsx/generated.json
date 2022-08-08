@@ -4819,11 +4819,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T8exmhOy7id5TX8hP/i/yCq1pNbeaw+qgQhvcnL4IlY=",
+            "sha256": "sha256-iWHT5w3Md6vO6Hrea5IrbPSsHexdu35yzaU32qOSTLY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1267/file/Prisma.prisma-insider-31.0.1267.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1270/file/Prisma.prisma-insider-31.0.1270.vsix"
         },
-        "version": "31.0.1267"
+        "version": "31.0.1270"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12938,6 +12938,25 @@
         },
         "version": "0.1.3"
     },
+    "digitalspacestudio-digitalspacestdio-darkness": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "digitalspacestudio-digitalspacestdio-darkness",
+        "passthru": {
+            "description": "Dark Theme by DigitalSpaceStudio",
+            "license": "MIT",
+            "name": "digitalspacestdio-darkness",
+            "publisher": "digitalspacestudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-WkwwD9EB1h6lN6Z+jCKBoB/D+8iLZDsbt4aBngcCmUo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/digitalspacestudio/digitalspacestdio-darkness/0.0.7/file/digitalspacestudio.digitalspacestdio-darkness-0.0.7.vsix"
+        },
+        "version": "0.0.7"
+    },
     "digma-digma": {
         "cargoLocks": null,
         "extract": null,
@@ -16219,11 +16238,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0Ba7REyzcWSDqhCo+5yiTwmnrW5LXkSHZwf1Go4aqDA=",
+            "sha256": "sha256-GAAl+gLR2h30tC1ITQc167l9Sr+UmB1f2Eu4F0QIrY0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.5/file/halcyontechltd.vscode-rpgle-0.9.5.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.6/file/halcyontechltd.vscode-rpgle-0.9.6.vsix"
         },
-        "version": "0.9.5"
+        "version": "0.9.6"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -25534,6 +25553,25 @@
             "url": "https://open-vsx.org/api/oscarlevin/pretext-tools/0.5.0/file/oscarlevin.pretext-tools-0.5.0.vsix"
         },
         "version": "0.5.0"
+    },
+    "ost-fh-visual-oo-debugger": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ost-fh-visual-oo-debugger",
+        "passthru": {
+            "description": "A visual debugger for Java for teaching object-oriented programming. The extension visualizes objects and variables graphically and can run a program step by step to facilitate a better understanding of how objects and variables change over the course of a program.",
+            "license": "Apache-2.0",
+            "name": "visual-oo-debugger",
+            "publisher": "ost-fh"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-8iN1l9/GRpqWVuzDH+P0dc7ePQ2Zzt4QtscEFDrrqBU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ost-fh/visual-oo-debugger/0.9.1/file/ost-fh.visual-oo-debugger-0.9.1.vsix"
+        },
+        "version": "0.9.1"
     },
     "ovly-ovly-ui5-snippets": {
         "cargoLocks": null,
