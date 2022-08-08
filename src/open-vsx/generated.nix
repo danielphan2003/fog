@@ -1177,6 +1177,18 @@
     description = "Unger Theme Dark";
     publisher = "FernandoUnger";
   };
+  FinancialForce-lana = {
+    pname = "FinancialForce-lana";
+    version = "1.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/FinancialForce/lana/1.5.0/file/FinancialForce.lana-1.5.0.vsix";
+      sha256 = "sha256-xzjr0Bm4PS/pN0DAKaQgp/uoIgtmxiVBkx1YutaC4uM=";
+    };
+    license = "";
+    name = "lana";
+    description = "Analyzer for Salesforce debug logs - Visualize code execution via a Flame graph and identify performance and SOQL/DML problems via Method and Database analysis";
+    publisher = "FinancialForce";
+  };
   FlyIoStaging-fly-extension = {
     pname = "FlyIoStaging-fly-extension";
     version = "0.0.2";
@@ -3039,10 +3051,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1270";
+    version = "31.0.1272";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1270/file/Prisma.prisma-insider-31.0.1270.vsix";
-      sha256 = "sha256-iWHT5w3Md6vO6Hrea5IrbPSsHexdu35yzaU32qOSTLY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1272/file/Prisma.prisma-insider-31.0.1272.vsix";
+      sha256 = "sha256-5qsZBsK3CS2GdBOWpnENA1113B/pRvYdCvRnGdR0CaE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11211,10 +11223,10 @@
   };
   intersystems-community-vscode-objectscript = {
     pname = "intersystems-community-vscode-objectscript";
-    version = "1.8.1";
+    version = "1.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.8.1/file/intersystems-community.vscode-objectscript-1.8.1.vsix";
-      sha256 = "sha256-uCkRmgud55NG7sk7o/xFCsdXi5WVFGSAXNDTOGSEp98=";
+      url = "https://open-vsx.org/api/intersystems-community/vscode-objectscript/1.8.2/file/intersystems-community.vscode-objectscript-1.8.2.vsix";
+      sha256 = "sha256-WCkBKF5708H3cVOZMX45SV1nGsHoUbFrK60ga/btxjQ=";
     };
     license = "MIT";
     name = "vscode-objectscript";
@@ -22995,10 +23007,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.20.1659880172";
+    version = "0.20.1659974179";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659880172/file/weaveworks.vscode-gitops-tools-0.20.1659880172.vsix";
-      sha256 = "sha256-IC2Gi18Z47T2mGNgCY+3nznv/lADPcMXN6w35lFnbeQ=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659974179/file/weaveworks.vscode-gitops-tools-0.20.1659974179.vsix";
+      sha256 = "sha256-xm3qiKRQu3wg/kovJineeDA9EWz5t53LHDyLE3poos4=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";
