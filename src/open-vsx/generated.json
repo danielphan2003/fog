@@ -411,11 +411,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0tbU2e1leu5nnmtFLrDDIkY/DyTR9AIAHyZH7BeSnaM=",
+            "sha256": "sha256-ZijSsTrJ/yQiNugIbqFAh2bDyEnHP6R4gqxYo5pzxMA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/6.6.0/file/BeardedBear.beardedtheme-6.6.0.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/7.0.0/file/BeardedBear.beardedtheme-7.0.0.vsix"
         },
-        "version": "6.6.0"
+        "version": "7.0.0"
     },
     "Betajob-modulestf": {
         "cargoLocks": null,
@@ -5522,11 +5522,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-f49Yg//uUAc3k74yvzM9Ee4s+qLbbW5meAq7hqcm63c=",
+            "sha256": "sha256-rWYwbN9m3ioQVZR6EqvL3Ma6HeqjVNzOmLHtErTbnFE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.7.0/file/SonarSource.sonarlint-vscode-3.7.0.vsix"
+            "url": "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.8.0/file/SonarSource.sonarlint-vscode-3.8.0.vsix"
         },
-        "version": "3.7.0"
+        "version": "3.8.0"
     },
     "SonatypeCommunity-vscode-iq-plugin": {
         "cargoLocks": null,
@@ -18214,11 +18214,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zu16uMj0lz+9IGwbafpZouduIeYM3rJv3/qYAld4sAA=",
+            "sha256": "sha256-0kEewQWkCQhpfP7cRfa9QNznoWtfnE2h6NKpOHSKSaE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080808/file/jbangdev.jbang-vscode-0.1.2022080808.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080809/file/jbangdev.jbang-vscode-0.1.2022080809.vsix"
         },
-        "version": "0.1.2022080808"
+        "version": "0.1.2022080809"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -26802,11 +26802,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0W2QJT+nis4iv1vZjJF8m7Fm6fLq7i8ZrpIr8NaJzGc=",
+            "sha256": "sha256-hG8R7EhtZmsE+/Dfc8c0LRQi1zfCaRlIr8wOHr0U/D8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.1/file/prantlf.vscode-requirejs-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.2/file/prantlf.vscode-requirejs-2.1.2.vsix"
         },
-        "version": "2.1.1"
+        "version": "2.1.2"
     },
     "prime31-zig": {
         "cargoLocks": null,

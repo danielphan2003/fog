@@ -255,10 +255,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "6.6.0";
+    version = "7.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/6.6.0/file/BeardedBear.beardedtheme-6.6.0.vsix";
-      sha256 = "sha256-0tbU2e1leu5nnmtFLrDDIkY/DyTR9AIAHyZH7BeSnaM=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.0.0/file/BeardedBear.beardedtheme-7.0.0.vsix";
+      sha256 = "sha256-ZijSsTrJ/yQiNugIbqFAh2bDyEnHP6R4gqxYo5pzxMA=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -3483,10 +3483,10 @@
   };
   SonarSource-sonarlint-vscode = {
     pname = "SonarSource-sonarlint-vscode";
-    version = "3.7.0";
+    version = "3.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.7.0/file/SonarSource.sonarlint-vscode-3.7.0.vsix";
-      sha256 = "sha256-f49Yg//uUAc3k74yvzM9Ee4s+qLbbW5meAq7hqcm63c=";
+      url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.8.0/file/SonarSource.sonarlint-vscode-3.8.0.vsix";
+      sha256 = "sha256-rWYwbN9m3ioQVZR6EqvL3Ma6HeqjVNzOmLHtErTbnFE=";
     };
     license = "LGPL-3.0";
     name = "sonarlint-vscode";
@@ -11499,10 +11499,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022080808";
+    version = "0.1.2022080809";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080808/file/jbangdev.jbang-vscode-0.1.2022080808.vsix";
-      sha256 = "sha256-zu16uMj0lz+9IGwbafpZouduIeYM3rJv3/qYAld4sAA=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080809/file/jbangdev.jbang-vscode-0.1.2022080809.vsix";
+      sha256 = "sha256-0kEewQWkCQhpfP7cRfa9QNznoWtfnE2h6NKpOHSKSaE=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -16923,10 +16923,10 @@
   };
   prantlf-vscode-requirejs = {
     pname = "prantlf-vscode-requirejs";
-    version = "2.1.1";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.1/file/prantlf.vscode-requirejs-2.1.1.vsix";
-      sha256 = "sha256-0W2QJT+nis4iv1vZjJF8m7Fm6fLq7i8ZrpIr8NaJzGc=";
+      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.2/file/prantlf.vscode-requirejs-2.1.2.vsix";
+      sha256 = "sha256-hG8R7EhtZmsE+/Dfc8c0LRQi1zfCaRlIr8wOHr0U/D8=";
     };
     license = "MIT";
     name = "vscode-requirejs";
