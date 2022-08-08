@@ -3039,10 +3039,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1266";
+    version = "31.0.1267";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1266/file/Prisma.prisma-insider-31.0.1266.vsix";
-      sha256 = "sha256-Xl+5uRxUV1P6uZiUYtLQuZZpoKg8NeuL1VGqDDc+tWI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1267/file/Prisma.prisma-insider-31.0.1267.vsix";
+      sha256 = "sha256-T8exmhOy7id5TX8hP/i/yCq1pNbeaw+qgQhvcnL4IlY=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3915,10 +3915,10 @@
   };
   Vladeeg-vscode-theme-vlight = {
     pname = "Vladeeg-vscode-theme-vlight";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Vladeeg/vscode-theme-vlight/2.1.0/file/Vladeeg.vscode-theme-vlight-2.1.0.vsix";
-      sha256 = "sha256-WrVdEOWLr3WDik7ihczo58NaafYlE1nm6ODeBO1awSU=";
+      url = "https://open-vsx.org/api/Vladeeg/vscode-theme-vlight/2.2.0/file/Vladeeg.vscode-theme-vlight-2.2.0.vsix";
+      sha256 = "sha256-3bkheCU4RG4Slsjikf5nMQEEZSURG7GqXDPu6kaQclg=";
     };
     license = "MIT";
     name = "vscode-theme-vlight";
@@ -12075,10 +12075,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.29";
+    version = "1.6.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.29/file/julialang.language-julia-1.6.29.vsix";
-      sha256 = "sha256-XHlxMmmf1+4QD9BT6V88AdkSlhYSbvIFhyGU1ksXnow=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.30/file/julialang.language-julia-1.6.30.vsix";
+      sha256 = "sha256-HZaltck0cKSBSPGCByLaIgui2tUf+aLmR56vyi60YUQ=";
     };
     license = "MIT";
     name = "language-julia";
@@ -13407,10 +13407,10 @@
   };
   marcinbar-vscode-squirrel = {
     pname = "marcinbar-vscode-squirrel";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.18/file/marcinbar.vscode-squirrel-0.0.18.vsix";
-      sha256 = "sha256-1Exegap3fICI6FMnICp1ANLuzNrm5iHI9DVtuMr1DeY=";
+      url = "https://open-vsx.org/api/marcinbar/vscode-squirrel/0.0.19/file/marcinbar.vscode-squirrel-0.0.19.vsix";
+      sha256 = "sha256-4X0g4s14FEzRbUYdwJvFKaLOjYFv+EQTrlzvMiijy1k=";
     };
     license = "MIT";
     name = "vscode-squirrel";
