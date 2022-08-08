@@ -1817,11 +1817,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sWoXggK6qfUcYgmypA5JmcxJR9730FdCtmg1iBcYyD0=",
+            "sha256": "sha256-rWmxka2U0GiT8TxpjI+m0eJnfsK1Wb7aCSEMMh+g3ZQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/FelixAngelov/mason/0.1.4/file/FelixAngelov.mason-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov.mason-0.1.5.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.5"
     },
     "FelixIcaza-andromeda": {
         "cargoLocks": null,
@@ -12824,6 +12824,25 @@
         },
         "version": "3.0.4"
     },
+    "devfactory-cloudfix-linter": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "devfactory-cloudfix-linter",
+        "passthru": {
+            "description": "Brings Cloudfix recommendations into your IDE for terraform",
+            "license": "MIT",
+            "name": "cloudfix-linter",
+            "publisher": "devfactory"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ZCtwhQbu3Sh+hrFYnUSp5R/tQuMrnRNshGMD1x8gZRg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.4/file/devfactory.cloudfix-linter-0.0.4.vsix"
+        },
+        "version": "0.0.4"
+    },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
         "extract": null,
@@ -13578,11 +13597,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lolNe4L3iiVVVTDKWnmwvE8S3jDvv0ZQWRMZoFb2ILw=",
+            "sha256": "sha256-ZqVmtN8khvU/1J8jXFf2cysCsuX2mj8LqDRuMagqvCo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/efoerster/texlab/4.2.0/file/efoerster.texlab-4.2.0.vsix"
+            "url": "https://open-vsx.org/api/efoerster/texlab/4.2.1/file/efoerster.texlab-4.2.1.vsix"
         },
-        "version": "4.2.0"
+        "version": "4.2.1"
     },
     "eg2-vscode-npm-script": {
         "cargoLocks": null,
@@ -14319,11 +14338,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vWGv2AuULSAtZwFPdQYcgOndOTIFH0dS6s7oCmwEvG8=",
+            "sha256": "sha256-Z+DOk0ucgc9l/DEHutuggReiRhQu/hREQ3yc9IZMFpc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/exiasr/hadolint/1.1.1/file/exiasr.hadolint-1.1.1.vsix"
+            "url": "https://open-vsx.org/api/exiasr/hadolint/1.1.2/file/exiasr.hadolint-1.1.2.vsix"
         },
-        "version": "1.1.1"
+        "version": "1.1.2"
     },
     "fabiospampinato-vscode-highlight": {
         "cargoLocks": null,
@@ -17739,11 +17758,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C8VoUgUtpS3BaO+y4Scc1hEC1oISx662lnwobknno3I=",
+            "sha256": "sha256-HNmRWwO5n4cK5VA1zvX+5Sapsxq0ITxC+GSi8EMB9vM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.61/file/iocave.customize-ui-0.1.61.vsix"
+            "url": "https://open-vsx.org/api/iocave/customize-ui/0.1.62/file/iocave.customize-ui-0.1.62.vsix"
         },
-        "version": "0.1.61"
+        "version": "0.1.62"
     },
     "iocave-monkey-patch": {
         "cargoLocks": null,
@@ -23781,11 +23800,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iio4wGLdavkLeDMPFBkLbb/n0L4jlAxzYo8Hurfc1D8=",
+            "sha256": "sha256-kwdW3JwMvMZPP9wh/6k4QbGFjr4hYGT/cfh0lnPQrsA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220804/file/ms-vscode.vscode-typescript-next-4.8.20220804.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220807/file/ms-vscode.vscode-typescript-next-4.8.20220807.vsix"
         },
-        "version": "4.8.20220804"
+        "version": "4.8.20220807"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,
@@ -25092,11 +25111,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T0tqX78bW6w23HzkMBFzJFhT83pABiM/paXyOVTa/c4=",
+            "sha256": "sha256-xgYEAqKIKmLGSrLqYaCc+BIcarcUfNnqrP1lDTVPwag=",
             "type": "url",
-            "url": "https://open-vsx.org/api/octref/vetur/0.35.0/file/octref.vetur-0.35.0.vsix"
+            "url": "https://open-vsx.org/api/octref/vetur/0.36.0/file/octref.vetur-0.36.0.vsix"
         },
-        "version": "0.35.0"
+        "version": "0.36.0"
     },
     "oderwat-indent-rainbow": {
         "cargoLocks": null,
@@ -26042,11 +26061,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zEiIxpev2Fd9AEI4VjjxrBMjH2zyrhDiE4pwMTFxkoY=",
+            "sha256": "sha256-L4G4Ip84mIsnintftVnYxcD1SMTxhi2txz/r5zuDZiM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phoenisx/cssvar/1.8.0/file/phoenisx.cssvar-1.8.0.vsix"
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/1.8.1/file/phoenisx.cssvar-1.8.1.vsix"
         },
-        "version": "1.8.0"
+        "version": "1.8.1"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
@@ -26783,11 +26802,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-eRrOFlcX7tBdjQP8bY+uUgi9bitndjX/lCw1r/LXshg=",
+            "sha256": "sha256-0W2QJT+nis4iv1vZjJF8m7Fm6fLq7i8ZrpIr8NaJzGc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.0/file/prantlf.vscode-requirejs-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.1/file/prantlf.vscode-requirejs-2.1.1.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.1.1"
     },
     "prime31-zig": {
         "cargoLocks": null,
@@ -34782,11 +34801,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VePm35QEd8wHNBC1AbmIB7h0dKeyzgENySaC5/jWTZs=",
+            "sha256": "sha256-nBgH58PdMNuYyp+LKhZ8JJzgiKEHSKWW10qjmAa0+kw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.14.0/file/vscode-icons-team.vscode-icons-11.14.0.vsix"
+            "url": "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.15.0/file/vscode-icons-team.vscode-icons-11.15.0.vsix"
         },
-        "version": "11.14.0"
+        "version": "11.15.0"
     },
     "vscode-image-preview": {
         "cargoLocks": null,

@@ -1143,10 +1143,10 @@
   };
   FelixAngelov-mason = {
     pname = "FelixAngelov-mason";
-    version = "0.1.4";
+    version = "0.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.4/file/FelixAngelov.mason-0.1.4.vsix";
-      sha256 = "sha256-sWoXggK6qfUcYgmypA5JmcxJR9730FdCtmg1iBcYyD0=";
+      url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov.mason-0.1.5.vsix";
+      sha256 = "sha256-rWmxka2U0GiT8TxpjI+m0eJnfsK1Wb7aCSEMMh+g3ZQ=";
     };
     license = "MIT";
     name = "mason";
@@ -8101,6 +8101,18 @@
     description = "The next version of the low eyestrain syntax theme. Again, apple not included.";
     publisher = "devberto";
   };
+  devfactory-cloudfix-linter = {
+    pname = "devfactory-cloudfix-linter";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.4/file/devfactory.cloudfix-linter-0.0.4.vsix";
+      sha256 = "sha256-ZCtwhQbu3Sh+hrFYnUSp5R/tQuMrnRNshGMD1x8gZRg=";
+    };
+    license = "MIT";
+    name = "cloudfix-linter";
+    description = "Brings Cloudfix recommendations into your IDE for terraform";
+    publisher = "devfactory";
+  };
   devsense-phptools-vscode = {
     pname = "devsense-phptools-vscode";
     version = "1.12.10053";
@@ -8571,10 +8583,10 @@
   };
   efoerster-texlab = {
     pname = "efoerster-texlab";
-    version = "4.2.0";
+    version = "4.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/efoerster/texlab/4.2.0/file/efoerster.texlab-4.2.0.vsix";
-      sha256 = "sha256-lolNe4L3iiVVVTDKWnmwvE8S3jDvv0ZQWRMZoFb2ILw=";
+      url = "https://open-vsx.org/api/efoerster/texlab/4.2.1/file/efoerster.texlab-4.2.1.vsix";
+      sha256 = "sha256-ZqVmtN8khvU/1J8jXFf2cysCsuX2mj8LqDRuMagqvCo=";
     };
     license = "MIT";
     name = "texlab";
@@ -9039,10 +9051,10 @@
   };
   exiasr-hadolint = {
     pname = "exiasr-hadolint";
-    version = "1.1.1";
+    version = "1.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/exiasr/hadolint/1.1.1/file/exiasr.hadolint-1.1.1.vsix";
-      sha256 = "sha256-vWGv2AuULSAtZwFPdQYcgOndOTIFH0dS6s7oCmwEvG8=";
+      url = "https://open-vsx.org/api/exiasr/hadolint/1.1.2/file/exiasr.hadolint-1.1.2.vsix";
+      sha256 = "sha256-Z+DOk0ucgc9l/DEHutuggReiRhQu/hREQ3yc9IZMFpc=";
     };
     license = "MIT";
     name = "hadolint";
@@ -11199,10 +11211,10 @@
   };
   iocave-customize-ui = {
     pname = "iocave-customize-ui";
-    version = "0.1.61";
+    version = "0.1.62";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.61/file/iocave.customize-ui-0.1.61.vsix";
-      sha256 = "sha256-C8VoUgUtpS3BaO+y4Scc1hEC1oISx662lnwobknno3I=";
+      url = "https://open-vsx.org/api/iocave/customize-ui/0.1.62/file/iocave.customize-ui-0.1.62.vsix";
+      sha256 = "sha256-HNmRWwO5n4cK5VA1zvX+5Sapsxq0ITxC+GSi8EMB9vM=";
     };
     license = "MIT";
     name = "customize-ui";
@@ -15015,10 +15027,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220804";
+    version = "4.8.20220807";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220804/file/ms-vscode.vscode-typescript-next-4.8.20220804.vsix";
-      sha256 = "sha256-iio4wGLdavkLeDMPFBkLbb/n0L4jlAxzYo8Hurfc1D8=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220807/file/ms-vscode.vscode-typescript-next-4.8.20220807.vsix";
+      sha256 = "sha256-kwdW3JwMvMZPP9wh/6k4QbGFjr4hYGT/cfh0lnPQrsA=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -15843,10 +15855,10 @@
   };
   octref-vetur = {
     pname = "octref-vetur";
-    version = "0.35.0";
+    version = "0.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/octref/vetur/0.35.0/file/octref.vetur-0.35.0.vsix";
-      sha256 = "sha256-T0tqX78bW6w23HzkMBFzJFhT83pABiM/paXyOVTa/c4=";
+      url = "https://open-vsx.org/api/octref/vetur/0.36.0/file/octref.vetur-0.36.0.vsix";
+      sha256 = "sha256-xgYEAqKIKmLGSrLqYaCc+BIcarcUfNnqrP1lDTVPwag=";
     };
     license = "MIT";
     name = "vetur";
@@ -16443,10 +16455,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "1.8.0";
+    version = "1.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/1.8.0/file/phoenisx.cssvar-1.8.0.vsix";
-      sha256 = "sha256-zEiIxpev2Fd9AEI4VjjxrBMjH2zyrhDiE4pwMTFxkoY=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/1.8.1/file/phoenisx.cssvar-1.8.1.vsix";
+      sha256 = "sha256-L4G4Ip84mIsnintftVnYxcD1SMTxhi2txz/r5zuDZiM=";
     };
     license = "MIT";
     name = "cssvar";
@@ -16911,10 +16923,10 @@
   };
   prantlf-vscode-requirejs = {
     pname = "prantlf-vscode-requirejs";
-    version = "2.1.0";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.0/file/prantlf.vscode-requirejs-2.1.0.vsix";
-      sha256 = "sha256-eRrOFlcX7tBdjQP8bY+uUgi9bitndjX/lCw1r/LXshg=";
+      url = "https://open-vsx.org/api/prantlf/vscode-requirejs/2.1.1/file/prantlf.vscode-requirejs-2.1.1.vsix";
+      sha256 = "sha256-0W2QJT+nis4iv1vZjJF8m7Fm6fLq7i8ZrpIr8NaJzGc=";
     };
     license = "MIT";
     name = "vscode-requirejs";
@@ -21963,10 +21975,10 @@
   };
   vscode-icons-team-vscode-icons = {
     pname = "vscode-icons-team-vscode-icons";
-    version = "11.14.0";
+    version = "11.15.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.14.0/file/vscode-icons-team.vscode-icons-11.14.0.vsix";
-      sha256 = "sha256-VePm35QEd8wHNBC1AbmIB7h0dKeyzgENySaC5/jWTZs=";
+      url = "https://open-vsx.org/api/vscode-icons-team/vscode-icons/11.15.0/file/vscode-icons-team.vscode-icons-11.15.0.vsix";
+      sha256 = "sha256-nBgH58PdMNuYyp+LKhZ8JJzgiKEHSKWW10qjmAa0+kw=";
     };
     license = "MIT";
     name = "vscode-icons";
