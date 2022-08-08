@@ -8055,10 +8055,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.106.4";
+    version = "0.106.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.106.4/file/dendron.nightly-0.106.4.vsix";
-      sha256 = "sha256-mqFPMOifUccNP9GYlIQ/OEOMQP/1liCelmcmMGyih6c=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.106.5/file/dendron.nightly-0.106.5.vsix";
+      sha256 = "sha256-auy9FTKrQkfHnLInrHyUSWDuImen2Nm5V/Of5Dx7SCg=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -11499,10 +11499,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022071815";
+    version = "0.1.2022080808";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022071815/file/jbangdev.jbang-vscode-0.1.2022071815.vsix";
-      sha256 = "sha256-o8J+ttNDZg3OVlc9FAQElVQyYNa+WnmTxmItT/jMFhQ=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080808/file/jbangdev.jbang-vscode-0.1.2022080808.vsix";
+      sha256 = "sha256-zu16uMj0lz+9IGwbafpZouduIeYM3rJv3/qYAld4sAA=";
     };
     license = "MIT";
     name = "jbang-vscode";
