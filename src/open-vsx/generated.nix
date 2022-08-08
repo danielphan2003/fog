@@ -12087,10 +12087,10 @@
   };
   jsw-csharpextensions = {
     pname = "jsw-csharpextensions";
-    version = "1.7.0";
+    version = "1.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.0/file/jsw.csharpextensions-1.7.0.vsix";
-      sha256 = "sha256-2v7Np1lXCdzi3Im8HJp80psRI0ymzCr2vHtqiPHcbNs=";
+      url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.1/file/jsw.csharpextensions-1.7.1.vsix";
+      sha256 = "sha256-uuHq2qsZwjCmgDOWLsU69OQoOD6xIlN7/q1YPUrhF+A=";
     };
     license = "MIT";
     name = "csharpextensions";
