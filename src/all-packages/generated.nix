@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "28b6935c12e5ab614f4397cfacf1f2b6af87a164";
+    version = "f21d777603c623b2e78c5a666265646050565e9d";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "28b6935c12e5ab614f4397cfacf1f2b6af87a164";
+      rev = "f21d777603c623b2e78c5a666265646050565e9d";
       fetchSubmodules = false;
-      sha256 = "sha256-Rvf3wqw8pBfWddP/sw7HBZIwLj2NO3iJ1t8m+7SIREY=";
+      sha256 = "sha256-bSPWzgo2ar0eoYElsQOQOBPUTC0+hKMUkFp0midJ/dc=";
     });
   };
   caddy = {
@@ -221,35 +221,35 @@
   };
   cinny = {
     pname = "cinny";
-    version = "4ff3e47d54405396e76505cae62394aacebaa766";
+    version = "20e1df43d02d0089f7fe46dbd6e4bf84d8d6e2a3";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "4ff3e47d54405396e76505cae62394aacebaa766";
+      rev = "20e1df43d02d0089f7fe46dbd6e4bf84d8d6e2a3";
       fetchSubmodules = false;
-      sha256 = "sha256-Mh/5sOj+JC3awXC93crfxRz4jPOjk8yA0ePI5uH6od8=";
+      sha256 = "sha256-/6bMNo8DpG79piZ3S1ws9YsToEIimoQDPmmsmXO2Hp8=";
     });
   };
   cinny-bin = {
     pname = "cinny-bin";
-    version = "2.0.4";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz";
-      sha256 = "sha256-D4vA4Fldg+/TicuaXUlwxW50KqDzMBMUCSVpOW0Rulw=";
+      url = "https://github.com/cinnyapp/cinny/releases/download/v2.1.1/cinny-v2.1.1.tar.gz";
+      sha256 = "sha256-1Ra+6UWOD7bvRL7Vlw/cu7S3CwLqCXTUUHKI5kE672M=";
     };
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "5f2c45f305196d9b2b639d63f7d3575cff3c55fb";
+    version = "c98cb286b759b5f00c91240dbe0cf50ec988fb03";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "5f2c45f305196d9b2b639d63f7d3575cff3c55fb";
+      rev = "c98cb286b759b5f00c91240dbe0cf50ec988fb03";
       fetchSubmodules = true;
-      sha256 = "sha256-DqFR366Bb9u90U6mUfzOtprzKUc88vBYMvrl4x8nUIs=";
+      sha256 = "sha256-fG/RiVRriPe65R7v2Sepn/plctHkVdTzhnTTKrljLp8=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-5f2c45f305196d9b2b639d63f7d3575cff3c55fb/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-c98cb286b759b5f00c91240dbe0cf50ec988fb03/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -257,10 +257,10 @@
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
-    version = "2.0.4";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.0.4/cinny_2.0.4_amd64.AppImage";
-      sha256 = "sha256-9ZQyVcTsHja67DhuIyniTK/xr0C6qN7fiCmjt8enUd8=";
+      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.1.1/Cinny_desktop-x86_64.AppImage";
+      sha256 = "sha256-pSaYyf2EQ+jb4uvr4DiFSjdmdHJP2IIOE1iqeZy7FEw=";
     };
   };
   conduit = {
@@ -329,13 +329,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "711cb96d9dbd5c79ea35e83cc1a75aa36125b841";
+    version = "5e611d9706ec6a2b5b9ee5cbec4cbee21f5c4632";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "711cb96d9dbd5c79ea35e83cc1a75aa36125b841";
+      rev = "5e611d9706ec6a2b5b9ee5cbec4cbee21f5c4632";
       fetchSubmodules = false;
-      sha256 = "sha256-Ir5uTB4ko6fdEGH2WiQHdA3dxiUbq1YsCF2vLz9Vyy4=";
+      sha256 = "sha256-ZdLlib0xheh8R2MddyOf/srcbaf5xG2823rvOW553Sk=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "236c5b16489adaf497469f62fd15afcb7ff9b01e";
+    version = "63aaaaaaa6a729e93c21a4061a26c83059555323";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "236c5b16489adaf497469f62fd15afcb7ff9b01e";
+      rev = "63aaaaaaa6a729e93c21a4061a26c83059555323";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QLI6DhuWa5mJ3snUazVc08GXhTu9HaXZsJJz4G7hTqg=";
+      sha256 = "sha256-qgADfKqbUdeZQ2DBmBTH7pObDLcLqFAK6SzLsD9Rg4c=";
     };
   };
   flyingfox = {
@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9fcfaaadb609344d24349c525cf0945f3110717a";
+    version = "9532ff42871615d3293f5fb679282e3423ff380d";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "9fcfaaadb609344d24349c525cf0945f3110717a";
+      rev = "9532ff42871615d3293f5fb679282e3423ff380d";
       fetchSubmodules = false;
-      sha256 = "sha256-Yu/5YqKikcUaFMZEmILVsSMhT7F+ZC399R+h2f1PrWI=";
+      sha256 = "sha256-0gdviZ46VCUAOA0PJNvddgQJQqKnm5theFftSux6L04=";
     });
   };
   ibus = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6437";
+    version = "1.0.6439";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6437.tar.bz2";
-      sha256 = "sha256-QJBVNI+cx0S8qOh+L8tZjCzKFyUuf4kJ1tj9iL1FzZo=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6439.tar.bz2";
+      sha256 = "sha256-ahFq6Ha1f3ZuF6Y3L3pm2J3XzVcn8sLcE7oWzhet2H0=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6437";
+    version = "1.0.6439";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6437-1_all.deb";
-      sha256 = "sha256-MEPwuEiY7HYC2g3SRJYNrVZxfWqPLVdh74aHwFu4Jrg=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6439-1_all.deb";
+      sha256 = "sha256-LH9GVrsHIZcoHttjK4ryTUj+HLvajlTic332gxWJFQs=";
     };
   };
   jitsi-videobridge2 = {
@@ -686,10 +686,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.34.0";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.34.0.tar.gz";
-      sha256 = "sha256-+i4MgMDunCoJjDLLdp1r0y2CxVuDqw/Ed7aNg0+FtmA=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.35.0.tar.gz";
+      sha256 = "sha256-5FLdYGp6UNhbz7exK99vNgEAtP70wfJ8aor+g1H+uA0=";
     };
   };
   nix-zsh-completions = {
@@ -705,13 +705,13 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "97987692deb6ab09816f40972fe5b04c1ddebd7e";
+    version = "51681bac58380502fde082708e5f4ab5add876ef";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "ntfs2btrfs";
-      rev = "97987692deb6ab09816f40972fe5b04c1ddebd7e";
+      rev = "51681bac58380502fde082708e5f4ab5add876ef";
       fetchSubmodules = false;
-      sha256 = "sha256-zeQ+ValEtCZjvC9S8hADzigqdzikiXeEEOCUAaXtLXI=";
+      sha256 = "sha256-zB9D12QU3lgfwnEnroN/jp89a7LsWrGKo3Ez3HYSdR0=";
     });
   };
   nwg-drawer = {
@@ -913,21 +913,21 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "976a49ad2b1c0fab06117cf7129d9a10acdf7d74";
+    version = "5ffe62a52b341d1a474194a86dd88fbe727d42ac";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "976a49ad2b1c0fab06117cf7129d9a10acdf7d74";
+      rev = "5ffe62a52b341d1a474194a86dd88fbe727d42ac";
       fetchSubmodules = false;
-      sha256 = "sha256-IhYt3VqvJmxCE5pEwD497ZHZAYaOSrUSL4pATEiP0iE=";
+      sha256 = "sha256-rr7zjxKP5hcEIWGOlQvCkIGPbpC3nakJl1Iex3oyRhI=";
     });
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.1";
+    version = "2.9.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.1/revanced-cli-2.9.1-all.jar";
-      sha256 = "sha256-tAENQVL2ha0p2jNoB8DzYRgPZaIcaNmRj7xedrlPtJY=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.2/revanced-cli-2.9.2-all.jar";
+      sha256 = "sha256-kinbycE0hB4rnTkrOFQ4mG59vuIIZSFNM+3NEA7PEVc=";
     };
   };
   revanced-integrations = {
@@ -940,18 +940,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.33.1";
+    version = "2.33.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.33.1/revanced-patches-2.33.1.dex";
-      sha256 = "sha256-f1TF34z3mgfpkFZUrzMeEPi9P+48Id09lp6deHGCl20=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.33.2/revanced-patches-2.33.2.dex";
+      sha256 = "sha256-zxRpkN3wHHAnYf21lT6AHYu429u4cNM3IzpjkiRTz38=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.33.1";
+    version = "2.33.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.33.1/revanced-patches-2.33.1.jar";
-      sha256 = "sha256-x1lSclW7EL+FYXjb3gchO4zs+eDT4oKrqwH9lTdU/Ko=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.33.2/revanced-patches-2.33.2.jar";
+      sha256 = "sha256-Ki1rD11PW6/vgm/x0uRtuY2oEIkbhYM/GSC3dPsWBag=";
     };
   };
   rofi-wayland = {
@@ -994,16 +994,16 @@
   };
   rustdesk-server = {
     pname = "rustdesk-server";
-    version = "848b5aedb7e8bda0f582706c792ffbab2d657a39";
+    version = "4bdc205fca189e2d3e8207d2a68c0dd9c166429d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk-server";
-      rev = "848b5aedb7e8bda0f582706c792ffbab2d657a39";
+      rev = "4bdc205fca189e2d3e8207d2a68c0dd9c166429d";
       fetchSubmodules = false;
-      sha256 = "sha256-5LsnT6NI5JmcRnIirn3YNOQU+Y8Bjpg+/FC+bx16LcI=";
+      sha256 = "sha256-21PHplA0PGdXXakyt+50KFJHLpMvSBUqHnIxdYNnaB4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-server-848b5aedb7e8bda0f582706c792ffbab2d657a39/Cargo.lock;
+      lockFile = ./rustdesk-server-4bdc205fca189e2d3e8207d2a68c0dd9c166429d/Cargo.lock;
       outputHashes = {
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
         "async-speed-limit-0.3.1" = "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=";
@@ -1254,13 +1254,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "54ae1e71f34a18e858167319ca046e5ccf742eeb";
+    version = "3f0420a84dde64545f4ca0dc90e3ed7b93284a67";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "54ae1e71f34a18e858167319ca046e5ccf742eeb";
+      rev = "3f0420a84dde64545f4ca0dc90e3ed7b93284a67";
       fetchSubmodules = false;
-      sha256 = "sha256-9+q5rGAQjWw9ZYss6ijX+y76anACWpfNSBraZ/OV9oY=";
+      sha256 = "sha256-cVSzP/kXf4hWLmSHCN8MXioKgcXEpS/4NGbyg7rqlVI=";
     });
   };
   uniemoji = {

@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "28b6935c12e5ab614f4397cfacf1f2b6af87a164",
-            "sha256": "sha256-Rvf3wqw8pBfWddP/sw7HBZIwLj2NO3iJ1t8m+7SIREY=",
+            "rev": "f21d777603c623b2e78c5a666265646050565e9d",
+            "sha256": "sha256-bSPWzgo2ar0eoYElsQOQOBPUTC0+hKMUkFp0midJ/dc=",
             "type": "github"
         },
-        "version": "28b6935c12e5ab614f4397cfacf1f2b6af87a164"
+        "version": "f21d777603c623b2e78c5a666265646050565e9d"
     },
     "caddy": {
         "cargoLocks": null,
@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "4ff3e47d54405396e76505cae62394aacebaa766",
-            "sha256": "sha256-Mh/5sOj+JC3awXC93crfxRz4jPOjk8yA0ePI5uH6od8=",
+            "rev": "20e1df43d02d0089f7fe46dbd6e4bf84d8d6e2a3",
+            "sha256": "sha256-/6bMNo8DpG79piZ3S1ws9YsToEIimoQDPmmsmXO2Hp8=",
             "type": "github"
         },
-        "version": "4ff3e47d54405396e76505cae62394aacebaa766"
+        "version": "20e1df43d02d0089f7fe46dbd6e4bf84d8d6e2a3"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -392,16 +392,16 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-D4vA4Fldg+/TicuaXUlwxW50KqDzMBMUCSVpOW0Rulw=",
+            "sha256": "sha256-1Ra+6UWOD7bvRL7Vlw/cu7S3CwLqCXTUUHKI5kE672M=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.0.4/cinny-v2.0.4.tar.gz"
+            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.1.1/cinny-v2.1.1.tar.gz"
         },
-        "version": "2.0.4"
+        "version": "2.1.1"
     },
     "cinny-desktop": {
         "cargoLocks": {
             "src-tauri/Cargo.lock": [
-                "./cinny-desktop-5f2c45f305196d9b2b639d63f7d3575cff3c55fb/src-tauri/Cargo.lock",
+                "./cinny-desktop-c98cb286b759b5f00c91240dbe0cf50ec988fb03/src-tauri/Cargo.lock",
                 {}
             ]
         },
@@ -416,11 +416,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny-desktop",
-            "rev": "5f2c45f305196d9b2b639d63f7d3575cff3c55fb",
-            "sha256": "sha256-DqFR366Bb9u90U6mUfzOtprzKUc88vBYMvrl4x8nUIs=",
+            "rev": "c98cb286b759b5f00c91240dbe0cf50ec988fb03",
+            "sha256": "sha256-fG/RiVRriPe65R7v2Sepn/plctHkVdTzhnTTKrljLp8=",
             "type": "github"
         },
-        "version": "5f2c45f305196d9b2b639d63f7d3575cff3c55fb"
+        "version": "c98cb286b759b5f00c91240dbe0cf50ec988fb03"
     },
     "cinny-desktop-bin": {
         "cargoLocks": null,
@@ -430,11 +430,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9ZQyVcTsHja67DhuIyniTK/xr0C6qN7fiCmjt8enUd8=",
+            "sha256": "sha256-pSaYyf2EQ+jb4uvr4DiFSjdmdHJP2IIOE1iqeZy7FEw=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.0.4/cinny_2.0.4_amd64.AppImage"
+            "url": "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.1.1/Cinny_desktop-x86_64.AppImage"
         },
-        "version": "2.0.4"
+        "version": "2.1.1"
     },
     "conduit": {
         "cargoLocks": {
@@ -549,11 +549,11 @@
             "name": null,
             "owner": "mr-karan",
             "repo": "doggo",
-            "rev": "711cb96d9dbd5c79ea35e83cc1a75aa36125b841",
-            "sha256": "sha256-Ir5uTB4ko6fdEGH2WiQHdA3dxiUbq1YsCF2vLz9Vyy4=",
+            "rev": "5e611d9706ec6a2b5b9ee5cbec4cbee21f5c4632",
+            "sha256": "sha256-ZdLlib0xheh8R2MddyOf/srcbaf5xG2823rvOW553Sk=",
             "type": "github"
         },
-        "version": "711cb96d9dbd5c79ea35e83cc1a75aa36125b841"
+        "version": "5e611d9706ec6a2b5b9ee5cbec4cbee21f5c4632"
     },
     "dribbblish-dynamic-theme": {
         "cargoLocks": null,
@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "236c5b16489adaf497469f62fd15afcb7ff9b01e",
-            "sha256": "sha256-QLI6DhuWa5mJ3snUazVc08GXhTu9HaXZsJJz4G7hTqg=",
+            "rev": "63aaaaaaa6a729e93c21a4061a26c83059555323",
+            "sha256": "sha256-qgADfKqbUdeZQ2DBmBTH7pObDLcLqFAK6SzLsD9Rg4c=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "236c5b16489adaf497469f62fd15afcb7ff9b01e"
+        "version": "63aaaaaaa6a729e93c21a4061a26c83059555323"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "9fcfaaadb609344d24349c525cf0945f3110717a",
-            "sha256": "sha256-Yu/5YqKikcUaFMZEmILVsSMhT7F+ZC399R+h2f1PrWI=",
+            "rev": "9532ff42871615d3293f5fb679282e3423ff380d",
+            "sha256": "sha256-0gdviZ46VCUAOA0PJNvddgQJQqKnm5theFftSux6L04=",
             "type": "github"
         },
-        "version": "9fcfaaadb609344d24349c525cf0945f3110717a"
+        "version": "9532ff42871615d3293f5fb679282e3423ff380d"
     },
     "ibus": {
         "cargoLocks": null,
@@ -904,11 +904,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QJBVNI+cx0S8qOh+L8tZjCzKFyUuf4kJ1tj9iL1FzZo=",
+            "sha256": "sha256-ahFq6Ha1f3ZuF6Y3L3pm2J3XzVcn8sLcE7oWzhet2H0=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6437.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6439.tar.bz2"
         },
-        "version": "1.0.6437"
+        "version": "1.0.6439"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -918,11 +918,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MEPwuEiY7HYC2g3SRJYNrVZxfWqPLVdh74aHwFu4Jrg=",
+            "sha256": "sha256-LH9GVrsHIZcoHttjK4ryTUj+HLvajlTic332gxWJFQs=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6437-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6439-1_all.deb"
         },
-        "version": "1.0.6437"
+        "version": "1.0.6439"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1149,11 +1149,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+i4MgMDunCoJjDLLdp1r0y2CxVuDqw/Ed7aNg0+FtmA=",
+            "sha256": "sha256-5FLdYGp6UNhbz7exK99vNgEAtP70wfJ8aor+g1H+uA0=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.34.0.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.35.0.tar.gz"
         },
-        "version": "0.34.0"
+        "version": "0.35.0"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
@@ -1187,11 +1187,11 @@
             "name": null,
             "owner": "maharmstone",
             "repo": "ntfs2btrfs",
-            "rev": "97987692deb6ab09816f40972fe5b04c1ddebd7e",
-            "sha256": "sha256-zeQ+ValEtCZjvC9S8hADzigqdzikiXeEEOCUAaXtLXI=",
+            "rev": "51681bac58380502fde082708e5f4ab5add876ef",
+            "sha256": "sha256-zB9D12QU3lgfwnEnroN/jp89a7LsWrGKo3Ez3HYSdR0=",
             "type": "github"
         },
-        "version": "97987692deb6ab09816f40972fe5b04c1ddebd7e"
+        "version": "51681bac58380502fde082708e5f4ab5add876ef"
     },
     "nwg-drawer": {
         "cargoLocks": null,
@@ -1530,11 +1530,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "976a49ad2b1c0fab06117cf7129d9a10acdf7d74",
-            "sha256": "sha256-IhYt3VqvJmxCE5pEwD497ZHZAYaOSrUSL4pATEiP0iE=",
+            "rev": "5ffe62a52b341d1a474194a86dd88fbe727d42ac",
+            "sha256": "sha256-rr7zjxKP5hcEIWGOlQvCkIGPbpC3nakJl1Iex3oyRhI=",
             "type": "github"
         },
-        "version": "976a49ad2b1c0fab06117cf7129d9a10acdf7d74"
+        "version": "5ffe62a52b341d1a474194a86dd88fbe727d42ac"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1544,11 +1544,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tAENQVL2ha0p2jNoB8DzYRgPZaIcaNmRj7xedrlPtJY=",
+            "sha256": "sha256-kinbycE0hB4rnTkrOFQ4mG59vuIIZSFNM+3NEA7PEVc=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.1/revanced-cli-2.9.1-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.2/revanced-cli-2.9.2-all.jar"
         },
-        "version": "2.9.1"
+        "version": "2.9.2"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1572,11 +1572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-f1TF34z3mgfpkFZUrzMeEPi9P+48Id09lp6deHGCl20=",
+            "sha256": "sha256-zxRpkN3wHHAnYf21lT6AHYu429u4cNM3IzpjkiRTz38=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.1/revanced-patches-2.33.1.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.2/revanced-patches-2.33.2.dex"
         },
-        "version": "2.33.1"
+        "version": "2.33.2"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1586,11 +1586,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-x1lSclW7EL+FYXjb3gchO4zs+eDT4oKrqwH9lTdU/Ko=",
+            "sha256": "sha256-Ki1rD11PW6/vgm/x0uRtuY2oEIkbhYM/GSC3dPsWBag=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.1/revanced-patches-2.33.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.33.2/revanced-patches-2.33.2.jar"
         },
-        "version": "2.33.1"
+        "version": "2.33.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -1650,7 +1650,7 @@
     "rustdesk-server": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-server-848b5aedb7e8bda0f582706c792ffbab2d657a39/Cargo.lock",
+                "./rustdesk-server-4bdc205fca189e2d3e8207d2a68c0dd9c166429d/Cargo.lock",
                 {
                     "async-speed-limit-0.3.1": "sha256-iOel6XA07RPrBjQAFLnxXX4VBpDrYZaqQc9clnsOorI=",
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
@@ -1669,11 +1669,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk-server",
-            "rev": "848b5aedb7e8bda0f582706c792ffbab2d657a39",
-            "sha256": "sha256-5LsnT6NI5JmcRnIirn3YNOQU+Y8Bjpg+/FC+bx16LcI=",
+            "rev": "4bdc205fca189e2d3e8207d2a68c0dd9c166429d",
+            "sha256": "sha256-21PHplA0PGdXXakyt+50KFJHLpMvSBUqHnIxdYNnaB4=",
             "type": "github"
         },
-        "version": "848b5aedb7e8bda0f582706c792ffbab2d657a39"
+        "version": "4bdc205fca189e2d3e8207d2a68c0dd9c166429d"
     },
     "sddm": {
         "cargoLocks": null,
@@ -2084,11 +2084,11 @@
             "name": null,
             "owner": "Ulauncher",
             "repo": "Ulauncher",
-            "rev": "54ae1e71f34a18e858167319ca046e5ccf742eeb",
-            "sha256": "sha256-9+q5rGAQjWw9ZYss6ijX+y76anACWpfNSBraZ/OV9oY=",
+            "rev": "3f0420a84dde64545f4ca0dc90e3ed7b93284a67",
+            "sha256": "sha256-cVSzP/kXf4hWLmSHCN8MXioKgcXEpS/4NGbyg7rqlVI=",
             "type": "github"
         },
-        "version": "54ae1e71f34a18e858167319ca046e5ccf742eeb"
+        "version": "3f0420a84dde64545f4ca0dc90e3ed7b93284a67"
     },
     "uniemoji": {
         "cargoLocks": null,
