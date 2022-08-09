@@ -322,25 +322,6 @@
         },
         "version": "1.8.1"
     },
-    "Axway-vscode-titanium": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "Axway-vscode-titanium",
-        "passthru": {
-            "description": "Intellisense, snippets, and integrated build tools for Titanium",
-            "license": "Apache 2.0",
-            "name": "vscode-titanium",
-            "publisher": "Axway"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-3BI9G8eDZWiR2UAbg+IooG+nnGLNBmFCxAayjTlZDMI=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/Axway/vscode-titanium/0.14.0/file/Axway.vscode-titanium-0.14.0.vsix"
-        },
-        "version": "0.14.0"
-    },
     "Ayushh-vscode-anchor": {
         "cargoLocks": null,
         "extract": null,
@@ -4572,11 +4553,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-c8DENIYvNQNA8ORGkz87LKiq75MWiheoDMbmvf3Owtc=",
+            "sha256": "sha256-p/140fo1QfJoQjWYeBjrKx9klTYkfq+EV9Zo8B/sbd8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/PKief/material-product-icons/1.3.0/file/PKief.material-product-icons-1.3.0.vsix"
+            "url": "https://open-vsx.org/api/PKief/material-product-icons/1.4.0/file/PKief.material-product-icons-1.4.0.vsix"
         },
-        "version": "1.3.0"
+        "version": "1.4.0"
     },
     "PROxZIMA-sweetdracula": {
         "cargoLocks": null,
@@ -4895,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mex3flw/bP61P+mrxJJzAtRS95/P+VHdw4lPLkWRP78=",
+            "sha256": "sha256-B3C7R5It1qS8Ze3u9d5GNS0yVP4fPNxbO2+9n4fPyKE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1277/file/Prisma.prisma-insider-31.0.1277.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1278/file/Prisma.prisma-insider-31.0.1278.vsix"
         },
-        "version": "31.0.1277"
+        "version": "31.0.1278"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -6002,6 +5983,25 @@
             "url": "https://open-vsx.org/api/TheaFlowers/witch-hazel/2021.10.16/file/TheaFlowers.witch-hazel-2021.10.16.vsix"
         },
         "version": "2021.10.16"
+    },
+    "TiDev-titanium-sdk": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "TiDev-titanium-sdk",
+        "passthru": {
+            "description": "Intellisense, snippets, and integrated build tools for Titanium",
+            "license": "Apache 2.0",
+            "name": "titanium-sdk",
+            "publisher": "TiDev"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-olp7tBoxSEViqqSzXV1VQggKKKaW3Q+HH43YmNHFSmM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/TiDev/titanium-sdk/1.0.1/file/TiDev.titanium-sdk-1.0.1.vsix"
+        },
+        "version": "1.0.1"
     },
     "Tobermory-es6-string-html": {
         "cargoLocks": null,
@@ -11355,11 +11355,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-J87Ls+NIzgU2KbDHGyq0TVb+LicJU6dPQxFOVTUw2K0=",
+            "sha256": "sha256-FZEDhcUAm7Coh6zZ7Seh3qmzvCyNKsxrPbP345eJjcI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.6.0/file/cnshenj.vscode-task-manager-0.6.0.vsix"
+            "url": "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.7.0/file/cnshenj.vscode-task-manager-0.7.0.vsix"
         },
-        "version": "0.6.0"
+        "version": "0.7.0"
     },
     "codeandstuff-package-json-upgrade": {
         "cargoLocks": null,
@@ -12723,11 +12723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WG8MF+lhHIzcKhP9IPgsuH0S1Kpkgz8o6CWcWE0BeZM=",
+            "sha256": "sha256-rZcefpWxVmDIyiInJ2XDH6Dn91RcawHEJ2vA7jfQQ8I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.107.0/file/dendron.dendron-0.107.0.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.107.1/file/dendron.dendron-0.107.1.vsix"
         },
-        "version": "0.107.0"
+        "version": "0.107.1"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -24997,11 +24997,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-P5xcnnlADV3X0Z8qLNss0CzoYQ6AbYniH6vxG/M9r3A=",
+            "sha256": "sha256-CdUHdNW5xjUXLSXglJaISB0l74TGpMlwKw75YYgUDH8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.0/file/nokxs.iobroker-javascript-1.1.0.vsix"
+            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.1/file/nokxs.iobroker-javascript-1.1.1.vsix"
         },
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     "nonoroazoro-syncing": {
         "cargoLocks": null,
@@ -26194,11 +26194,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-L4G4Ip84mIsnintftVnYxcD1SMTxhi2txz/r5zuDZiM=",
+            "sha256": "sha256-AnbyD7siKAbrS3QZVxzIF/kkcM70IB0zveioPuE2sWc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/phoenisx/cssvar/1.8.1/file/phoenisx.cssvar-1.8.1.vsix"
+            "url": "https://open-vsx.org/api/phoenisx/cssvar/2.1.0/file/phoenisx.cssvar-2.1.0.vsix"
         },
-        "version": "1.8.1"
+        "version": "2.1.0"
     },
     "pickoba-satysfi-workshop": {
         "cargoLocks": null,
@@ -28474,11 +28474,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+PdrzlEccqoZa4zNcDUci+4GeSI0RquxSpSLA/yH8UU=",
+            "sha256": "sha256-bfQX5CumDC0HPG+diJDjYkcJFPDQA9x966EZhzEbM88=",
             "type": "url",
-            "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/0.49.0/file/robocorp.robotframework-lsp-0.49.0.vsix"
+            "url": "https://open-vsx.org/api/robocorp/robotframework-lsp/1.0.0/file/robocorp.robotframework-lsp-1.0.0.vsix"
         },
-        "version": "0.49.0"
+        "version": "1.0.0"
     },
     "robole-file-bunny": {
         "cargoLocks": null,
@@ -30683,25 +30683,6 @@
             "url": "https://open-vsx.org/api/standard/vscode-standard/2.1.1/file/standard.vscode-standard-2.1.1.vsix"
         },
         "version": "2.1.1"
-    },
-    "standup-extension-standup-extension": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "standup-extension-standup-extension",
-        "passthru": {
-            "description": "popup an alert that say \"take a break, stand up\" every hour",
-            "license": "MIT",
-            "name": "standup-extension",
-            "publisher": "standup-extension"
-        },
-        "pinned": false,
-        "src": {
-            "name": null,
-            "sha256": "sha256-usUY3K4uq+BacmE3hEMbdAYu1olqfVQ0+ayU1KbUWoM=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/standup-extension/standup-extension/1.0.0-beta/file/standup-extension.standup-extension-1.0.0-beta.vsix"
-        },
-        "version": "1.0.0-beta"
     },
     "statelyai-stately-vscode": {
         "cargoLocks": null,

@@ -205,18 +205,6 @@
     description = "A black/pink theme :3";
     publisher = "Avoonix";
   };
-  Axway-vscode-titanium = {
-    pname = "Axway-vscode-titanium";
-    version = "0.14.0";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/Axway/vscode-titanium/0.14.0/file/Axway.vscode-titanium-0.14.0.vsix";
-      sha256 = "sha256-3BI9G8eDZWiR2UAbg+IooG+nnGLNBmFCxAayjTlZDMI=";
-    };
-    license = "Apache 2.0";
-    name = "vscode-titanium";
-    description = "Intellisense, snippets, and integrated build tools for Titanium";
-    publisher = "Axway";
-  };
   Ayushh-vscode-anchor = {
     pname = "Ayushh-vscode-anchor";
     version = "0.2.6";
@@ -2883,10 +2871,10 @@
   };
   PKief-material-product-icons = {
     pname = "PKief-material-product-icons";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-product-icons/1.3.0/file/PKief.material-product-icons-1.3.0.vsix";
-      sha256 = "sha256-c8DENIYvNQNA8ORGkz87LKiq75MWiheoDMbmvf3Owtc=";
+      url = "https://open-vsx.org/api/PKief/material-product-icons/1.4.0/file/PKief.material-product-icons-1.4.0.vsix";
+      sha256 = "sha256-p/140fo1QfJoQjWYeBjrKx9klTYkfq+EV9Zo8B/sbd8=";
     };
     license = "MIT";
     name = "material-product-icons";
@@ -3087,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1277";
+    version = "31.0.1278";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1277/file/Prisma.prisma-insider-31.0.1277.vsix";
-      sha256 = "sha256-mex3flw/bP61P+mrxJJzAtRS95/P+VHdw4lPLkWRP78=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1278/file/Prisma.prisma-insider-31.0.1278.vsix";
+      sha256 = "sha256-B3C7R5It1qS8Ze3u9d5GNS0yVP4fPNxbO2+9n4fPyKE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3792,6 +3780,18 @@
     name = "witch-hazel";
     description = "A dark and feminine color scheme";
     publisher = "TheaFlowers";
+  };
+  TiDev-titanium-sdk = {
+    pname = "TiDev-titanium-sdk";
+    version = "1.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/TiDev/titanium-sdk/1.0.1/file/TiDev.titanium-sdk-1.0.1.vsix";
+      sha256 = "sha256-olp7tBoxSEViqqSzXV1VQggKKKaW3Q+HH43YmNHFSmM=";
+    };
+    license = "Apache 2.0";
+    name = "titanium-sdk";
+    description = "Intellisense, snippets, and integrated build tools for Titanium";
+    publisher = "TiDev";
   };
   Tobermory-es6-string-html = {
     pname = "Tobermory-es6-string-html";
@@ -7167,10 +7167,10 @@
   };
   cnshenj-vscode-task-manager = {
     pname = "cnshenj-vscode-task-manager";
-    version = "0.6.0";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.6.0/file/cnshenj.vscode-task-manager-0.6.0.vsix";
-      sha256 = "sha256-J87Ls+NIzgU2KbDHGyq0TVb+LicJU6dPQxFOVTUw2K0=";
+      url = "https://open-vsx.org/api/cnshenj/vscode-task-manager/0.7.0/file/cnshenj.vscode-task-manager-0.7.0.vsix";
+      sha256 = "sha256-FZEDhcUAm7Coh6zZ7Seh3qmzvCyNKsxrPbP345eJjcI=";
     };
     license = "MIT";
     name = "vscode-task-manager";
@@ -8031,10 +8031,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.107.0";
+    version = "0.107.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.107.0/file/dendron.dendron-0.107.0.vsix";
-      sha256 = "sha256-WG8MF+lhHIzcKhP9IPgsuH0S1Kpkgz8o6CWcWE0BeZM=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.107.1/file/dendron.dendron-0.107.1.vsix";
+      sha256 = "sha256-rZcefpWxVmDIyiInJ2XDH6Dn91RcawHEJ2vA7jfQQ8I=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -15783,10 +15783,10 @@
   };
   nokxs-iobroker-javascript = {
     pname = "nokxs-iobroker-javascript";
-    version = "1.1.0";
+    version = "1.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.0/file/nokxs.iobroker-javascript-1.1.0.vsix";
-      sha256 = "sha256-P5xcnnlADV3X0Z8qLNss0CzoYQ6AbYniH6vxG/M9r3A=";
+      url = "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.1/file/nokxs.iobroker-javascript-1.1.1.vsix";
+      sha256 = "sha256-CdUHdNW5xjUXLSXglJaISB0l74TGpMlwKw75YYgUDH8=";
     };
     license = "MIT";
     name = "iobroker-javascript";
@@ -16539,10 +16539,10 @@
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
-    version = "1.8.1";
+    version = "2.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/phoenisx/cssvar/1.8.1/file/phoenisx.cssvar-1.8.1.vsix";
-      sha256 = "sha256-L4G4Ip84mIsnintftVnYxcD1SMTxhi2txz/r5zuDZiM=";
+      url = "https://open-vsx.org/api/phoenisx/cssvar/2.1.0/file/phoenisx.cssvar-2.1.0.vsix";
+      sha256 = "sha256-AnbyD7siKAbrS3QZVxzIF/kkcM70IB0zveioPuE2sWc=";
     };
     license = "MIT";
     name = "cssvar";
@@ -17979,10 +17979,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "0.49.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/0.49.0/file/robocorp.robotframework-lsp-0.49.0.vsix";
-      sha256 = "sha256-+PdrzlEccqoZa4zNcDUci+4GeSI0RquxSpSLA/yH8UU=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.0.0/file/robocorp.robotframework-lsp-1.0.0.vsix";
+      sha256 = "sha256-bfQX5CumDC0HPG+diJDjYkcJFPDQA9x966EZhzEbM88=";
     };
     license = "Apache 2.0";
     name = "robotframework-lsp";
@@ -19380,18 +19380,6 @@
     name = "vscode-standard";
     description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.";
     publisher = "standard";
-  };
-  standup-extension-standup-extension = {
-    pname = "standup-extension-standup-extension";
-    version = "1.0.0-beta";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/standup-extension/standup-extension/1.0.0-beta/file/standup-extension.standup-extension-1.0.0-beta.vsix";
-      sha256 = "sha256-usUY3K4uq+BacmE3hEMbdAYu1olqfVQ0+ayU1KbUWoM=";
-    };
-    license = "MIT";
-    name = "standup-extension";
-    description = "popup an alert that say \"take a break, stand up\" every hour";
-    publisher = "standup-extension";
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
