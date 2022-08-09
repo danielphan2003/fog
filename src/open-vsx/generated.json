@@ -3210,6 +3210,25 @@
         },
         "version": "1.17.0"
     },
+    "KidkArolis-vscode-healthier": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "KidkArolis-vscode-healthier",
+        "passthru": {
+            "description": "An opinionated code style agnostic linter â a friendly companion to Prettier.",
+            "license": "MIT",
+            "name": "vscode-healthier",
+            "publisher": "KidkArolis"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-zNCGgOtqtRpoReTdHC5vd/9AvsorF4XKsCgtS7gCPd4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/KidkArolis/vscode-healthier/4.0.0/file/KidkArolis.vscode-healthier-4.0.0.vsix"
+        },
+        "version": "4.0.0"
+    },
     "KnisterPeter-vscode-github": {
         "cargoLocks": null,
         "extract": null,
@@ -26441,11 +26460,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9VmjQOY5Y2+gNp/0lqBM5odc8nPKc979kL2O103TdXI=",
+            "sha256": "sha256-gItT+pPD3Pba/kr2XBUshg6jVDmceMPuL+xKF4e1VdU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousdeer.adwaita-theme-1.0.8.vsix"
         },
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     "platymuus-dm-langclient": {
         "cargoLocks": null,
@@ -29519,11 +29538,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-AIpLaWRc5dGAbrHZajihZ1hb01AaPhKGMTRKTArsI+w=",
+            "sha256": "sha256-LR4aP1c4TO3kbhjD3jh49vk7Za5m/jlNadKmEDObkcQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/serkonda7/vscode-vba/0.5.0/file/serkonda7.vscode-vba-0.5.0.vsix"
+            "url": "https://open-vsx.org/api/serkonda7/vscode-vba/0.6.0/file/serkonda7.vscode-vba-0.6.0.vsix"
         },
-        "version": "0.5.0"
+        "version": "0.6.0"
     },
     "serokell-io-michelson-debugger": {
         "cargoLocks": null,

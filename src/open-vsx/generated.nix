@@ -2029,6 +2029,18 @@
     description = "Correct Python indentation";
     publisher = "KevinRose";
   };
+  KidkArolis-vscode-healthier = {
+    pname = "KidkArolis-vscode-healthier";
+    version = "4.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/KidkArolis/vscode-healthier/4.0.0/file/KidkArolis.vscode-healthier-4.0.0.vsix";
+      sha256 = "sha256-zNCGgOtqtRpoReTdHC5vd/9AvsorF4XKsCgtS7gCPd4=";
+    };
+    license = "MIT";
+    name = "vscode-healthier";
+    description = "An opinionated code style agnostic linter \8211 a friendly companion to Prettier.";
+    publisher = "KidkArolis";
+  };
   KnisterPeter-vscode-github = {
     pname = "KnisterPeter-vscode-github";
     version = "0.30.7";
@@ -16695,10 +16707,10 @@
   };
   piousdeer-adwaita-theme = {
     pname = "piousdeer-adwaita-theme";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.7/file/piousdeer.adwaita-theme-1.0.7.vsix";
-      sha256 = "sha256-9VmjQOY5Y2+gNp/0lqBM5odc8nPKc979kL2O103TdXI=";
+      url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousdeer.adwaita-theme-1.0.8.vsix";
+      sha256 = "sha256-gItT+pPD3Pba/kr2XBUshg6jVDmceMPuL+xKF4e1VdU=";
     };
     license = "GPL-3.0-only";
     name = "adwaita-theme";
@@ -18639,10 +18651,10 @@
   };
   serkonda7-vscode-vba = {
     pname = "serkonda7-vscode-vba";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.5.0/file/serkonda7.vscode-vba-0.5.0.vsix";
-      sha256 = "sha256-AIpLaWRc5dGAbrHZajihZ1hb01AaPhKGMTRKTArsI+w=";
+      url = "https://open-vsx.org/api/serkonda7/vscode-vba/0.6.0/file/serkonda7.vscode-vba-0.6.0.vsix";
+      sha256 = "sha256-LR4aP1c4TO3kbhjD3jh49vk7Za5m/jlNadKmEDObkcQ=";
     };
     license = "MIT";
     name = "vscode-vba";
