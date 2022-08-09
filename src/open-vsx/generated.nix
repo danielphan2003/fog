@@ -15363,10 +15363,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.5";
+    version = "1.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.5/file/mutable-ai.mutable-ai-1.1.5.vsix";
-      sha256 = "sha256-28P2BKyhZkpl/5QDXoMvXarRic/Va5YsHmXgqJyxMT8=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.6/file/mutable-ai.mutable-ai-1.1.6.vsix";
+      sha256 = "sha256-FUCYN/swCc0L21KL1cTreByrRLpNMiFR9AEsAGpSSOw=";
     };
     license = "";
     name = "mutable-ai";
@@ -17787,10 +17787,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.6";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.6/file/remcohaszing.schemastore-1.0.6.vsix";
-      sha256 = "sha256-tA/ZohTZz/RNm0IpGDAszVO6MOyn8c+LJYmzEa2oJlg=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.7/file/remcohaszing.schemastore-1.0.7.vsix";
+      sha256 = "sha256-9o5fv4gfkBOhRftkMSKpiidzb9r8eqUiIIbocoxTyxQ=";
     };
     license = "MIT";
     name = "schemastore";
@@ -20091,10 +20091,10 @@
   };
   tamasfe-even-better-toml = {
     pname = "tamasfe-even-better-toml";
-    version = "0.16.5";
+    version = "0.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.16.5/file/tamasfe.even-better-toml-0.16.5.vsix";
-      sha256 = "sha256-JODf4pTM13OtFgONHouW5FYz1JS8QwnMXSI3IWP69RE=";
+      url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.17.1/file/tamasfe.even-better-toml-0.17.1.vsix";
+      sha256 = "sha256-zhMnaBMoxk1B5I9JTuHxE97XUmkA+btDHFoLHqYaZz4=";
     };
     license = "MIT";
     name = "even-better-toml";
