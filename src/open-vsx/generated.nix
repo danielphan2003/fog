@@ -1299,10 +1299,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.9";
+    version = "1.6.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.9/file/GitHub.vscode-codeql-1.6.9.vsix";
-      sha256 = "sha256-m1djDossQUZSk/3gI9MRbnJdCBWR3/SB33Eqx9tJIvw=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.10/file/GitHub.vscode-codeql-1.6.10.vsix";
+      sha256 = "sha256-80pPZKDkWnHof1DQKC7oiujE6bTwy81/lJP6IgkL7NI=";
     };
     license = "MIT";
     name = "vscode-codeql";
@@ -2772,6 +2772,18 @@
     name = "robloxlsp";
     description = "Roblox Luau Language Server.";
     publisher = "Nightrains";
+  };
+  NomicFoundation-hardhat-solidity = {
+    pname = "NomicFoundation-hardhat-solidity";
+    version = "0.4.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.4.6/file/NomicFoundation.hardhat-solidity-0.4.6.vsix";
+      sha256 = "sha256-32S5w1O0NV6B/E3zWYcx+bKHK0xWB2OyJxSi80ExMHs=";
+    };
+    license = "MIT";
+    name = "hardhat-solidity";
+    description = "Solidity and Hardhat support for Visual Studio Code";
+    publisher = "NomicFoundation";
   };
   OBKoro1-autoCommit = {
     pname = "OBKoro1-autoCommit";
@@ -5869,6 +5881,18 @@
     description = "Simple IntelliSense & Snippets for Blade UI Kit (blade-ui-kit.com)";
     publisher = "aurorabiz";
   };
+  avast-threatlabs-yara-vscode-yls = {
+    pname = "avast-threatlabs-yara-vscode-yls";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/avast-threatlabs-yara/vscode-yls/0.1.0/file/avast-threatlabs-yara.vscode-yls-0.1.0.vsix";
+      sha256 = "sha256-wetBj6cMAii4nR5ksYUUkW0L0SUXLwKGUv3vslcNWtc=";
+    };
+    license = "MIT";
+    name = "vscode-yls";
+    description = "A Visual Studio Code extension for YARA based on YLS (Yara Language Server).";
+    publisher = "avast-threatlabs-yara";
+  };
   bach-bahk-vs-code-snippets = {
     pname = "bach-bahk-vs-code-snippets";
     version = "0.0.2";
@@ -8007,10 +8031,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.106.0";
+    version = "0.107.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.106.0/file/dendron.dendron-0.106.0.vsix";
-      sha256 = "sha256-q0XPXuH+csCVVtipW3kusSAVLEHcdf2aIeMZMqSKVCE=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.107.0/file/dendron.dendron-0.107.0.vsix";
+      sha256 = "sha256-WG8MF+lhHIzcKhP9IPgsuH0S1Kpkgz8o6CWcWE0BeZM=";
     };
     license = "AGPL-3.0";
     name = "dendron";
