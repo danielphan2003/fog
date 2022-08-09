@@ -3063,10 +3063,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1274";
+    version = "31.0.1276";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1274/file/Prisma.prisma-insider-31.0.1274.vsix";
-      sha256 = "sha256-BNAD6gsusDNxfAeEOtVAiJU+pn0wFK7JvSOa8y+XBM8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1276/file/Prisma.prisma-insider-31.0.1276.vsix";
+      sha256 = "sha256-rD+y4zyIglelA5vE9BNStKUvZATw1nhVz4shgXroL/s=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3663,10 +3663,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.10";
+    version = "3.6.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.10/file/TabNine.tabnine-vscode-3.6.10.vsix";
-      sha256 = "sha256-zzPcvT+S8oiEPBWk7yjkYoA6Yq1OXafUJBheoDytTxY=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.11/file/TabNine.tabnine-vscode-3.6.11.vsix";
+      sha256 = "sha256-kKijTNvyOLiT8NgGq673L0TE5g9Hm5Q7pOSTOQi7Nv0=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -8079,10 +8079,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.106.5";
+    version = "0.106.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.106.5/file/dendron.nightly-0.106.5.vsix";
-      sha256 = "sha256-auy9FTKrQkfHnLInrHyUSWDuImen2Nm5V/Of5Dx7SCg=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.106.6/file/dendron.nightly-0.106.6.vsix";
+      sha256 = "sha256-nuznoNQN4zja7BAs6IaOxnT/Y/jQ5r4XtSjh4cTleAQ=";
     };
     license = "AGPL-3.0";
     name = "nightly";

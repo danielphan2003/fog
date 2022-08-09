@@ -4857,11 +4857,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BNAD6gsusDNxfAeEOtVAiJU+pn0wFK7JvSOa8y+XBM8=",
+            "sha256": "sha256-rD+y4zyIglelA5vE9BNStKUvZATw1nhVz4shgXroL/s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1274/file/Prisma.prisma-insider-31.0.1274.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1276/file/Prisma.prisma-insider-31.0.1276.vsix"
         },
-        "version": "31.0.1274"
+        "version": "31.0.1276"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5807,11 +5807,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zzPcvT+S8oiEPBWk7yjkYoA6Yq1OXafUJBheoDytTxY=",
+            "sha256": "sha256-kKijTNvyOLiT8NgGq673L0TE5g9Hm5Q7pOSTOQi7Nv0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.10/file/TabNine.tabnine-vscode-3.6.10.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.11/file/TabNine.tabnine-vscode-3.6.11.vsix"
         },
-        "version": "3.6.10"
+        "version": "3.6.11"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -12799,11 +12799,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-auy9FTKrQkfHnLInrHyUSWDuImen2Nm5V/Of5Dx7SCg=",
+            "sha256": "sha256-nuznoNQN4zja7BAs6IaOxnT/Y/jQ5r4XtSjh4cTleAQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.106.5/file/dendron.nightly-0.106.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.106.6/file/dendron.nightly-0.106.6.vsix"
         },
-        "version": "0.106.5"
+        "version": "0.106.6"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
