@@ -3051,10 +3051,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "4.1.0";
+    version = "4.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/4.1.0/file/Prisma.prisma-4.1.0.vsix";
-      sha256 = "sha256-YpdxRoeIesx4R2RIpJ8YmmHEmR3lezdN1efhhg14MzI=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.2.0/file/Prisma.prisma-4.2.0.vsix";
+      sha256 = "sha256-1U3JlWfIlTt0AMPsiP3vD2ZEzD2oUsYsqRRwBQeoLIA=";
     };
     license = "Apache-2.0";
     name = "prisma";
