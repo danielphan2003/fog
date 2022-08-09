@@ -932,11 +932,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7B6010G1S8Tsqog4HeNlEyAjcXhMbzpZJx+Ot9XuAtA=",
+            "sha256": "sha256-ZiIeD5NXHMurcoyVnD8RCGuOKRiUDU1AMH57A0s4tAs=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-21-g915593c5-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-22-g42bc1b99-1_all.deb"
         },
-        "version": "2.2-21-g915593c5"
+        "version": "2.2-22-g42bc1b99"
     },
     "layout-machi": {
         "cargoLocks": null,
