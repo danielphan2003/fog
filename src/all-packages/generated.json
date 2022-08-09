@@ -1229,7 +1229,7 @@
     "ouch": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./ouch-f6a4c9ffbe4f5761202a1678720323c72adfed2b/Cargo.lock",
+                "./ouch-aed93d940645760bd96a82acd487d9729d1477d3/Cargo.lock",
                 {}
             ]
         },
@@ -1244,11 +1244,11 @@
             "name": null,
             "owner": "ouch-org",
             "repo": "ouch",
-            "rev": "f6a4c9ffbe4f5761202a1678720323c72adfed2b",
-            "sha256": "sha256-nrVeuEERRxTk/ATCd0x371RVFxY9BxbHFOHMDO+bpzI=",
+            "rev": "aed93d940645760bd96a82acd487d9729d1477d3",
+            "sha256": "sha256-dlYOWiTNaAgsArA/IJoH6MAVxtwLCtq6hhyRL9awejQ=",
             "type": "github"
         },
-        "version": "f6a4c9ffbe4f5761202a1678720323c72adfed2b"
+        "version": "aed93d940645760bd96a82acd487d9729d1477d3"
     },
     "paper": {
         "cargoLocks": {
