@@ -4911,10 +4911,10 @@
   };
   amazonwebservices-aws-toolkit-vscode = {
     pname = "amazonwebservices-aws-toolkit-vscode";
-    version = "1.46.0";
+    version = "1.47.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.46.0/file/amazonwebservices.aws-toolkit-vscode-1.46.0.vsix";
-      sha256 = "sha256-8rst7q5bYXLzd/yIvh5GCoGT3eVPjK8oZGPL4JM462c=";
+      url = "https://open-vsx.org/api/amazonwebservices/aws-toolkit-vscode/1.47.0/file/amazonwebservices.aws-toolkit-vscode-1.47.0.vsix";
+      sha256 = "sha256-kxEyZYsespjxTSF+DVbUmlNWQUJRV6MqZ7z67tDrUBk=";
     };
     license = "Apache-2.0";
     name = "aws-toolkit-vscode";
@@ -6327,10 +6327,10 @@
   };
   bpruitt-goddard-mermaid-markdown-syntax-highlighting = {
     pname = "bpruitt-goddard-mermaid-markdown-syntax-highlighting";
-    version = "1.3.2";
+    version = "1.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.3.2/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.3.2.vsix";
-      sha256 = "sha256-KyJPnEPL5kpIfNRpzxP57EXm9nctOxJ/1bOxGDivBRk=";
+      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.3.4/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.3.4.vsix";
+      sha256 = "sha256-F6kZO21ylbbIPmxRf59s3RMh9lAc6MiubZoU/rH+FoA=";
     };
     license = "MIT";
     name = "mermaid-markdown-syntax-highlighting";
@@ -15063,10 +15063,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220807";
+    version = "4.8.20220808";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220807/file/ms-vscode.vscode-typescript-next-4.8.20220807.vsix";
-      sha256 = "sha256-kwdW3JwMvMZPP9wh/6k4QbGFjr4hYGT/cfh0lnPQrsA=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220808/file/ms-vscode.vscode-typescript-next-4.8.20220808.vsix";
+      sha256 = "sha256-Dpk4Alsamwgc2vKZmS7G7sm/aLJfG+EXrPbOxZbnRV8=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
