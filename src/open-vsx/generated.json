@@ -392,11 +392,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rpzeJ134tAscl2J1T59y/CokmpCzN2tVLMgAmw5XzPs=",
+            "sha256": "sha256-hRn3bxD5YYWlInKaVd3Q6phKYekwpxpgkGkTBXiT56E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.0/file/BeardedBear.beardedicons-0.23.0.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.1/file/BeardedBear.beardedicons-0.23.1.vsix"
         },
-        "version": "0.23.0"
+        "version": "0.23.1"
     },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
@@ -411,11 +411,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZijSsTrJ/yQiNugIbqFAh2bDyEnHP6R4gqxYo5pzxMA=",
+            "sha256": "sha256-vmrmZS95yliLgF0rPuguITqStPDSYyvQJItPV7gMits=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/7.0.0/file/BeardedBear.beardedtheme-7.0.0.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedtheme/7.1.0/file/BeardedBear.beardedtheme-7.1.0.vsix"
         },
-        "version": "7.0.0"
+        "version": "7.1.0"
     },
     "Betajob-modulestf": {
         "cargoLocks": null,
@@ -14091,11 +14091,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wXwkbFDbr0jdgmWcHi5Sf6+2DpBGDWrm+LYslQ4g/Sg=",
+            "sha256": "sha256-WwVHz+5k1WX5aZ9hihNOgVBBqfAvKFJTMS2kz9dq7Mg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/errata-ai/vale-server/0.15.0/file/errata-ai.vale-server-0.15.0.vsix"
+            "url": "https://open-vsx.org/api/errata-ai/vale-server/0.15.1/file/errata-ai.vale-server-0.15.1.vsix"
         },
-        "version": "0.15.0"
+        "version": "0.15.1"
     },
     "esbenp-prettier-vscode": {
         "cargoLocks": null,
@@ -29842,11 +29842,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VDomRxKBEIvgS5Cb/ICoP2XhCXnalJfyw/6pyAvoWnI=",
+            "sha256": "sha256-67MfKzABI6Lc+HK0MeE/tVqL0TPTn19eIMKketiv0k4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.6/file/shufo.vscode-blade-formatter-0.16.6.vsix"
+            "url": "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.0/file/shufo.vscode-blade-formatter-0.17.0.vsix"
         },
-        "version": "0.16.6"
+        "version": "0.17.0"
     },
     "shuworks-vscode-table-formatter": {
         "cargoLocks": null,
@@ -30032,11 +30032,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+G6ilF+M6C3+EeCgp58lyvBfJkjMgggfUleAQF07sUw=",
+            "sha256": "sha256-Cc3yx80qXEYm6BCd+faEckwZMAVbk2VcKn6GPxRPR+U=",
             "type": "url",
-            "url": "https://open-vsx.org/api/silvenon/mdx/0.1.0/file/silvenon.mdx-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/silvenon/mdx/0.1.1/file/silvenon.mdx-0.1.1.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.1.1"
     },
     "simontegg-slime": {
         "cargoLocks": null,

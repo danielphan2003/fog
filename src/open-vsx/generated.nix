@@ -243,10 +243,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.23.0";
+    version = "0.23.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.0/file/BeardedBear.beardedicons-0.23.0.vsix";
-      sha256 = "sha256-rpzeJ134tAscl2J1T59y/CokmpCzN2tVLMgAmw5XzPs=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.1/file/BeardedBear.beardedicons-0.23.1.vsix";
+      sha256 = "sha256-hRn3bxD5YYWlInKaVd3Q6phKYekwpxpgkGkTBXiT56E=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -255,10 +255,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "7.0.0";
+    version = "7.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.0.0/file/BeardedBear.beardedtheme-7.0.0.vsix";
-      sha256 = "sha256-ZijSsTrJ/yQiNugIbqFAh2bDyEnHP6R4gqxYo5pzxMA=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.1.0/file/BeardedBear.beardedtheme-7.1.0.vsix";
+      sha256 = "sha256-vmrmZS95yliLgF0rPuguITqStPDSYyvQJItPV7gMits=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -8895,10 +8895,10 @@
   };
   errata-ai-vale-server = {
     pname = "errata-ai-vale-server";
-    version = "0.15.0";
+    version = "0.15.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/errata-ai/vale-server/0.15.0/file/errata-ai.vale-server-0.15.0.vsix";
-      sha256 = "sha256-wXwkbFDbr0jdgmWcHi5Sf6+2DpBGDWrm+LYslQ4g/Sg=";
+      url = "https://open-vsx.org/api/errata-ai/vale-server/0.15.1/file/errata-ai.vale-server-0.15.1.vsix";
+      sha256 = "sha256-WwVHz+5k1WX5aZ9hihNOgVBBqfAvKFJTMS2kz9dq7Mg=";
     };
     license = "MIT";
     name = "vale-server";
@@ -18843,10 +18843,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.16.6";
+    version = "0.17.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.16.6/file/shufo.vscode-blade-formatter-0.16.6.vsix";
-      sha256 = "sha256-VDomRxKBEIvgS5Cb/ICoP2XhCXnalJfyw/6pyAvoWnI=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.0/file/shufo.vscode-blade-formatter-0.17.0.vsix";
+      sha256 = "sha256-67MfKzABI6Lc+HK0MeE/tVqL0TPTn19eIMKketiv0k4=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -18963,10 +18963,10 @@
   };
   silvenon-mdx = {
     pname = "silvenon-mdx";
-    version = "0.1.0";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/silvenon/mdx/0.1.0/file/silvenon.mdx-0.1.0.vsix";
-      sha256 = "sha256-+G6ilF+M6C3+EeCgp58lyvBfJkjMgggfUleAQF07sUw=";
+      url = "https://open-vsx.org/api/silvenon/mdx/0.1.1/file/silvenon.mdx-0.1.1.vsix";
+      sha256 = "sha256-Cc3yx80qXEYm6BCd+faEckwZMAVbk2VcKn6GPxRPR+U=";
     };
     license = "MIT";
     name = "mdx";
