@@ -8031,10 +8031,10 @@
   };
   dendron-dendron = {
     pname = "dendron-dendron";
-    version = "0.107.1";
+    version = "0.107.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.107.1/file/dendron.dendron-0.107.1.vsix";
-      sha256 = "sha256-rZcefpWxVmDIyiInJ2XDH6Dn91RcawHEJ2vA7jfQQ8I=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.107.2/file/dendron.dendron-0.107.2.vsix";
+      sha256 = "sha256-Cy91HpnRPIJVyD2FxBpUQjJK8wF12oD/YrcqPDzU2hc=";
     };
     license = "AGPL-3.0";
     name = "dendron";
@@ -12387,10 +12387,10 @@
   };
   kdarkhan-mips = {
     pname = "kdarkhan-mips";
-    version = "0.0.9";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kdarkhan/mips/0.0.9/file/kdarkhan.mips-0.0.9.vsix";
-      sha256 = "sha256-aeCMCLxTKslaKRKleYirEhfohXNvflPoh+GvzXGQpkw=";
+      url = "https://open-vsx.org/api/kdarkhan/mips/0.1.0/file/kdarkhan.mips-0.1.0.vsix";
+      sha256 = "sha256-p6fMF5FK3Q6epf2/3cy7lvlzUg6afkfm6C7g75iSpUE=";
     };
     license = "MIT";
     name = "mips";

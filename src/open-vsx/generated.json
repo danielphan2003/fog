@@ -12723,11 +12723,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rZcefpWxVmDIyiInJ2XDH6Dn91RcawHEJ2vA7jfQQ8I=",
+            "sha256": "sha256-Cy91HpnRPIJVyD2FxBpUQjJK8wF12oD/YrcqPDzU2hc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/dendron/0.107.1/file/dendron.dendron-0.107.1.vsix"
+            "url": "https://open-vsx.org/api/dendron/dendron/0.107.2/file/dendron.dendron-0.107.2.vsix"
         },
-        "version": "0.107.1"
+        "version": "0.107.2"
     },
     "dendron-dendron-markdown-links": {
         "cargoLocks": null,
@@ -19620,11 +19620,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aeCMCLxTKslaKRKleYirEhfohXNvflPoh+GvzXGQpkw=",
+            "sha256": "sha256-p6fMF5FK3Q6epf2/3cy7lvlzUg6afkfm6C7g75iSpUE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kdarkhan/mips/0.0.9/file/kdarkhan.mips-0.0.9.vsix"
+            "url": "https://open-vsx.org/api/kdarkhan/mips/0.1.0/file/kdarkhan.mips-0.1.0.vsix"
         },
-        "version": "0.0.9"
+        "version": "0.1.0"
     },
     "keesschollaart-vscode-home-assistant": {
         "cargoLocks": null,
