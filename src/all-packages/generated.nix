@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "aac4c3aef4fa7dd42b3464be86d26debad66d7c1";
+    version = "9da37b8bd0795d92c3adb1ee123a29facefee99a";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "aac4c3aef4fa7dd42b3464be86d26debad66d7c1";
+      rev = "9da37b8bd0795d92c3adb1ee123a29facefee99a";
       fetchSubmodules = false;
-      sha256 = "sha256-h5NoiiLolTjpeX73qU1j5fxscTIjN+BIo2bsaJY+Pts=";
+      sha256 = "sha256-7M062v8uJHNYfJPehaG3r9JeaToumr+q012v/R2+Ld4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-aac4c3aef4fa7dd42b3464be86d26debad66d7c1/Cargo.lock;
+      lockFile = ./eww-9da37b8bd0795d92c3adb1ee123a29facefee99a/Cargo.lock;
       outputHashes = {
         
       };
@@ -632,13 +632,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "7d77e6d6080ecd31aba9f2f6098b388eea771685";
+    version = "b39cc356ff87c168c1058e4784cded7ab09bb393";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "7d77e6d6080ecd31aba9f2f6098b388eea771685";
+      rev = "b39cc356ff87c168c1058e4784cded7ab09bb393";
       fetchSubmodules = false;
-      sha256 = "sha256-RbyVtI33ofeQ195JOO8TutrgZ3hzLlP30Xvevd0MwdE=";
+      sha256 = "sha256-w+cl1AfJ3A98RVg6AZ+zailyW2qEp3yLIBGm9CD05EA=";
     });
   };
   microsoft-edge-beta = {
@@ -967,16 +967,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "6c9e1e966b118c03299ca2859d573111527b2bb4";
+    version = "694578d2f4674ce4c3c762463ce5ffdd10bb07c9";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "6c9e1e966b118c03299ca2859d573111527b2bb4";
+      rev = "694578d2f4674ce4c3c762463ce5ffdd10bb07c9";
       fetchSubmodules = false;
-      sha256 = "sha256-r0LfUJVU98YAZRxNZNmfeghRdZT3UM5NSYFlO+anBgI=";
+      sha256 = "sha256-WOx/9CzyiqBrlK1bkliMVCCvQ754R4ktBGXGLFimA9U=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-6c9e1e966b118c03299ca2859d573111527b2bb4/Cargo.lock;
+      lockFile = ./rustdesk-694578d2f4674ce4c3c762463ce5ffdd10bb07c9/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
