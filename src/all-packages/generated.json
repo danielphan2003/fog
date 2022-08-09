@@ -1297,7 +1297,7 @@
     "playit-agent": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./playit-agent-18e692e513437c792c4b56977b72db33342a22c4/Cargo.lock",
+                "./playit-agent-24e2ca0ddc1866cecf36144103483813996b029e/Cargo.lock",
                 {
                     "webbrowser-0.5.5": "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M="
                 }
@@ -1314,11 +1314,11 @@
             "name": null,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "rev": "18e692e513437c792c4b56977b72db33342a22c4",
-            "sha256": "sha256-/7zWL3LNoT99T9o9Ozr07zoFnpjnnXBWJseUUmAx3zw=",
+            "rev": "24e2ca0ddc1866cecf36144103483813996b029e",
+            "sha256": "sha256-73m7QsEtNhNdGmcESgQ61TDVPBzeso/cwvo+zgsqX/o=",
             "type": "github"
         },
-        "version": "18e692e513437c792c4b56977b72db33342a22c4"
+        "version": "24e2ca0ddc1866cecf36144103483813996b029e"
     },
     "plymouth-themes": {
         "cargoLocks": null,
