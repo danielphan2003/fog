@@ -23043,10 +23043,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.20.1659974179";
+    version = "0.20.1660098061";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659974179/file/weaveworks.vscode-gitops-tools-0.20.1659974179.vsix";
-      sha256 = "sha256-xm3qiKRQu3wg/kovJineeDA9EWz5t53LHDyLE3poos4=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1660098061/file/weaveworks.vscode-gitops-tools-0.20.1660098061.vsix";
+      sha256 = "sha256-JysNDEVJmhAD6/QpmEEllyeDgdDwitFL9KiCjMOBRk8=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";

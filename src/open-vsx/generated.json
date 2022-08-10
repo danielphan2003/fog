@@ -36492,11 +36492,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xm3qiKRQu3wg/kovJineeDA9EWz5t53LHDyLE3poos4=",
+            "sha256": "sha256-JysNDEVJmhAD6/QpmEEllyeDgdDwitFL9KiCjMOBRk8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1659974179/file/weaveworks.vscode-gitops-tools-0.20.1659974179.vsix"
+            "url": "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1660098061/file/weaveworks.vscode-gitops-tools-0.20.1660098061.vsix"
         },
-        "version": "0.20.1659974179"
+        "version": "0.20.1660098061"
     },
     "webfreak-code-d": {
         "cargoLocks": null,
