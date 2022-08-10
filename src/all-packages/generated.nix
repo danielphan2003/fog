@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "d5cc01c5745c4865b380c218c4cad3fd38fbab96";
+    version = "4c4bec11f7a469ed560b729d56df2d7bdcb4a032";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "d5cc01c5745c4865b380c218c4cad3fd38fbab96";
+      rev = "4c4bec11f7a469ed560b729d56df2d7bdcb4a032";
       fetchSubmodules = false;
-      sha256 = "sha256-BE2UvvEt+nZjBd36AusT33EZDRunFNAkKh316yWcKQ4=";
+      sha256 = "sha256-D1Kx+vs+12Ere/bBsn5M6kaGRYYNF3Rhq+/qLI7mBSc=";
     });
   };
   revanced-cli = {
