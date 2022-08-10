@@ -2751,10 +2751,10 @@
   };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
-    version = "1.5.11";
+    version = "1.5.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.11/file/Nightrains.robloxlsp-1.5.11.vsix";
-      sha256 = "sha256-FfJPaauq6Nk0zoeFdFXrswyuGj1lPqwzCx/I2Ldh+9Y=";
+      url = "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.12/file/Nightrains.robloxlsp-1.5.12.vsix";
+      sha256 = "sha256-TTK5RnxGPrkzwi9ACzwa+0NM7Wdf+um3meBEMi+VXPY=";
     };
     license = "MIT";
     name = "robloxlsp";
@@ -10299,10 +10299,10 @@
   };
   halcyontechltd-vscode-ibmi-walkthroughs = {
     pname = "halcyontechltd-vscode-ibmi-walkthroughs";
-    version = "0.2.1";
+    version = "0.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.1.vsix";
-      sha256 = "sha256-98+mt1lOUXq/nsh0YjSqDueS/OLnqmDr1ZvaiIrYH20=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.2/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.2.vsix";
+      sha256 = "sha256-n4km2PW2Vdge5ye08Z4dpyolhuhisdMaiyzIgPRKFjI=";
     };
     license = "Apache-2.0";
     name = "vscode-ibmi-walkthroughs";
@@ -11391,10 +11391,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.15";
+    version = "0.3.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.15/file/iterative.dvc-0.3.15.vsix";
-      sha256 = "sha256-rkrY2ekrM8BZVjKYJDOpRYN/SYc8aKCKtvrVsSdT664=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.16/file/iterative.dvc-0.3.16.vsix";
+      sha256 = "sha256-bZ5EzCWmN86fXIp6H5I1GGHqgPZV/Jm2chbodyOl7nk=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -14919,10 +14919,10 @@
   };
   ms-vscode-mono-debug = {
     pname = "ms-vscode-mono-debug";
-    version = "0.16.2";
+    version = "0.16.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/mono-debug/0.16.2/file/ms-vscode.mono-debug-0.16.2.vsix";
-      sha256 = "sha256-yaz1MrOs0kSAcVd2kj6HWvzLmt9SL9+JMbGno1SYHho=";
+      url = "https://open-vsx.org/api/ms-vscode/mono-debug/0.16.3/file/ms-vscode.mono-debug-0.16.3.vsix";
+      sha256 = "sha256-qaa0YFg/gflgd73sY2ZxBYyon9S0sH/sPHeivPYN6s4=";
     };
     license = "MIT";
     name = "mono-debug";
@@ -15099,10 +15099,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220808";
+    version = "4.8.20220809";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220808/file/ms-vscode.vscode-typescript-next-4.8.20220808.vsix";
-      sha256 = "sha256-Dpk4Alsamwgc2vKZmS7G7sm/aLJfG+EXrPbOxZbnRV8=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220809/file/ms-vscode.vscode-typescript-next-4.8.20220809.vsix";
+      sha256 = "sha256-ss7YsSosubeRerVQvdoMpAW6E2Kc6UPemZQRN8JuQyk=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -18567,10 +18567,10 @@
   };
   scalameta-metals = {
     pname = "scalameta-metals";
-    version = "1.18.0";
+    version = "1.19.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/scalameta/metals/1.18.0/file/scalameta.metals-1.18.0.vsix";
-      sha256 = "sha256-lKRU4HdXcGSs6Mt8W3S0KL/lBR+o8wGbHwN/QPEqSHA=";
+      url = "https://open-vsx.org/api/scalameta/metals/1.19.0/file/scalameta.metals-1.19.0.vsix";
+      sha256 = "sha256-LB1zsDZaC6L02ppQd0JQs/gmcMWEWtEVnmYQOjT2L9M=";
     };
     license = "Apache-2.0";
     name = "metals";

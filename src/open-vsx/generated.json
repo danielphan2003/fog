@@ -4363,11 +4363,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FfJPaauq6Nk0zoeFdFXrswyuGj1lPqwzCx/I2Ldh+9Y=",
+            "sha256": "sha256-TTK5RnxGPrkzwi9ACzwa+0NM7Wdf+um3meBEMi+VXPY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.11/file/Nightrains.robloxlsp-1.5.11.vsix"
+            "url": "https://open-vsx.org/api/Nightrains/robloxlsp/1.5.12/file/Nightrains.robloxlsp-1.5.12.vsix"
         },
-        "version": "1.5.11"
+        "version": "1.5.12"
     },
     "NomicFoundation-hardhat-solidity": {
         "cargoLocks": null,
@@ -16314,11 +16314,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-98+mt1lOUXq/nsh0YjSqDueS/OLnqmDr1ZvaiIrYH20=",
+            "sha256": "sha256-n4km2PW2Vdge5ye08Z4dpyolhuhisdMaiyzIgPRKFjI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.1/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.1.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-ibmi-walkthroughs/0.2.2/file/halcyontechltd.vscode-ibmi-walkthroughs-0.2.2.vsix"
         },
-        "version": "0.2.1"
+        "version": "0.2.2"
     },
     "halcyontechltd-vscode-rpgle": {
         "cargoLocks": null,
@@ -18043,11 +18043,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rkrY2ekrM8BZVjKYJDOpRYN/SYc8aKCKtvrVsSdT664=",
+            "sha256": "sha256-bZ5EzCWmN86fXIp6H5I1GGHqgPZV/Jm2chbodyOl7nk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.15/file/iterative.dvc-0.3.15.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.16/file/iterative.dvc-0.3.16.vsix"
         },
-        "version": "0.3.15"
+        "version": "0.3.16"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -23629,11 +23629,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yaz1MrOs0kSAcVd2kj6HWvzLmt9SL9+JMbGno1SYHho=",
+            "sha256": "sha256-qaa0YFg/gflgd73sY2ZxBYyon9S0sH/sPHeivPYN6s4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/mono-debug/0.16.2/file/ms-vscode.mono-debug-0.16.2.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/mono-debug/0.16.3/file/ms-vscode.mono-debug-0.16.3.vsix"
         },
-        "version": "0.16.2"
+        "version": "0.16.3"
     },
     "ms-vscode-node-debug": {
         "cargoLocks": null,
@@ -23914,11 +23914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Dpk4Alsamwgc2vKZmS7G7sm/aLJfG+EXrPbOxZbnRV8=",
+            "sha256": "sha256-ss7YsSosubeRerVQvdoMpAW6E2Kc6UPemZQRN8JuQyk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220808/file/ms-vscode.vscode-typescript-next-4.8.20220808.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220809/file/ms-vscode.vscode-typescript-next-4.8.20220809.vsix"
         },
-        "version": "4.8.20220808"
+        "version": "4.8.20220809"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,
@@ -29405,11 +29405,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lKRU4HdXcGSs6Mt8W3S0KL/lBR+o8wGbHwN/QPEqSHA=",
+            "sha256": "sha256-LB1zsDZaC6L02ppQd0JQs/gmcMWEWtEVnmYQOjT2L9M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/scalameta/metals/1.18.0/file/scalameta.metals-1.18.0.vsix"
+            "url": "https://open-vsx.org/api/scalameta/metals/1.19.0/file/scalameta.metals-1.19.0.vsix"
         },
-        "version": "1.18.0"
+        "version": "1.19.0"
     },
     "scheiblingco-code-netpack": {
         "cargoLocks": null,
