@@ -13787,11 +13787,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m+bvyLxZpf0vhOU2Stz9oQoIW2imz/B75cWEfPX1HOo=",
+            "sha256": "sha256-YTOoYbqK/CALHw/nSp7OaVGrUfPBr2scBC4znoE6IHQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2799136/file/eliostruyf.vscode-front-matter-beta-8.0.2799136.vsix"
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2833268/file/eliostruyf.vscode-front-matter-beta-8.0.2833268.vsix"
         },
-        "version": "8.0.2799136"
+        "version": "8.0.2833268"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,

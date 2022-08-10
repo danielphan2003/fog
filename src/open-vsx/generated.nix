@@ -8703,10 +8703,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2799136";
+    version = "8.0.2833268";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2799136/file/eliostruyf.vscode-front-matter-beta-8.0.2799136.vsix";
-      sha256 = "sha256-m+bvyLxZpf0vhOU2Stz9oQoIW2imz/B75cWEfPX1HOo=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2833268/file/eliostruyf.vscode-front-matter-beta-8.0.2833268.vsix";
+      sha256 = "sha256-YTOoYbqK/CALHw/nSp7OaVGrUfPBr2scBC4znoE6IHQ=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
