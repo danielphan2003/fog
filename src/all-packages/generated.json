@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "69db6207c0b307a4ce911b7ba232ea1d5ac1806c",
-            "sha256": "sha256-KJ/eSBaiHgRq91aX7tLBY4V4toScVctTlIVtC15nRCA=",
+            "rev": "cd75606f4232787a9faf55db0835b29e3bb45ae9",
+            "sha256": "sha256-dBfG89ugpHbWwqSexCtGqpHs4lZxO5zXWHAT5P2v06I=",
             "type": "github"
         },
-        "version": "69db6207c0b307a4ce911b7ba232ea1d5ac1806c"
+        "version": "cd75606f4232787a9faf55db0835b29e3bb45ae9"
     },
     "ibus": {
         "cargoLocks": null,
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "9996d94b3c281e537bc3ef51a694c43ebee79c2c",
-            "sha256": "sha256-aZBEW0XtzW/NVm8T/2Xr4bc/80salHncgpe8WCF6vjE=",
+            "rev": "090033ede57d86241e975eac4cb9cbd7fe491031",
+            "sha256": "sha256-Qywz6nEdMy0EEskiva696b+sqqE43F37OGR6p7T9M+c=",
             "type": "github"
         },
-        "version": "9996d94b3c281e537bc3ef51a694c43ebee79c2c"
+        "version": "090033ede57d86241e975eac4cb9cbd7fe491031"
     },
     "tailscale-systray": {
         "cargoLocks": null,
