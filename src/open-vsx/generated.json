@@ -28227,11 +28227,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9o5fv4gfkBOhRftkMSKpiidzb9r8eqUiIIbocoxTyxQ=",
+            "sha256": "sha256-Fa3byTI4L+fMZG1nPb8/3mdDzcVUZbS6pD3nNp6cHzQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.7/file/remcohaszing.schemastore-1.0.7.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.8/file/remcohaszing.schemastore-1.0.8.vsix"
         },
-        "version": "1.0.7"
+        "version": "1.0.8"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,
@@ -33300,11 +33300,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zu+xh2whU2Z5nTjPmHo+1A3LoWNu+7IHBJwTfd2lP6k=",
+            "sha256": "sha256-TSiKndDFeeALVOqxAoIGPn5KVwuqRhq4yNDRCi1B2e8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/unthrottled/doki-theme/78.1.2/file/unthrottled.doki-theme-78.1.2.vsix"
+            "url": "https://open-vsx.org/api/unthrottled/doki-theme/88.1.7/file/unthrottled.doki-theme-88.1.7.vsix"
         },
-        "version": "78.1.2"
+        "version": "88.1.7"
     },
     "usernamehw-autolink": {
         "cargoLocks": null,

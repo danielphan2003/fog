@@ -17823,10 +17823,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.7";
+    version = "1.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.7/file/remcohaszing.schemastore-1.0.7.vsix";
-      sha256 = "sha256-9o5fv4gfkBOhRftkMSKpiidzb9r8eqUiIIbocoxTyxQ=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.8/file/remcohaszing.schemastore-1.0.8.vsix";
+      sha256 = "sha256-Fa3byTI4L+fMZG1nPb8/3mdDzcVUZbS6pD3nNp6cHzQ=";
     };
     license = "MIT";
     name = "schemastore";
@@ -21027,10 +21027,10 @@
   };
   unthrottled-doki-theme = {
     pname = "unthrottled-doki-theme";
-    version = "78.1.2";
+    version = "88.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/unthrottled/doki-theme/78.1.2/file/unthrottled.doki-theme-78.1.2.vsix";
-      sha256 = "sha256-zu+xh2whU2Z5nTjPmHo+1A3LoWNu+7IHBJwTfd2lP6k=";
+      url = "https://open-vsx.org/api/unthrottled/doki-theme/88.1.7/file/unthrottled.doki-theme-88.1.7.vsix";
+      sha256 = "sha256-TSiKndDFeeALVOqxAoIGPn5KVwuqRhq4yNDRCi1B2e8=";
     };
     license = "MIT";
     name = "doki-theme";
