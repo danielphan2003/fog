@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1281";
+    version = "31.0.1283";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1281/file/Prisma.prisma-insider-31.0.1281.vsix";
-      sha256 = "sha256-fsGjzP4moh2KqYPjNDuToQ07ldTosjdEMpJ6NB8Lftw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1283/file/Prisma.prisma-insider-31.0.1283.vsix";
+      sha256 = "sha256-XNZwxNGSnAtR2oYOACdF+k8O4iscvG4gt70blPAo/t0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3627,10 +3627,10 @@
   };
   TI-devspacesplus = {
     pname = "TI-devspacesplus";
-    version = "0.0.68";
+    version = "0.0.69";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.68/file/TI.devspacesplus-0.0.68.vsix";
-      sha256 = "sha256-IGka5kd2JEV2k3hO9mOQc+2Sgjq2YA4k6s2ryWTPz48=";
+      url = "https://open-vsx.org/api/TI/devspacesplus/0.0.69/file/TI.devspacesplus-0.0.69.vsix";
+      sha256 = "sha256-d7RQVmJCmRZpCYPMbBu1RsJFKguYjIs1uoo1aFv6SLg=";
     };
     license = "MIT";
     name = "devspacesplus";
@@ -11545,6 +11545,18 @@
     description = "To delete an entire block of whitespace or tab, and reduce the time programmers need to press backspace";
     publisher = "jasonlhy";
   };
+  jasonnutter-vscode-codeowners = {
+    pname = "jasonnutter-vscode-codeowners";
+    version = "1.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/jasonnutter/vscode-codeowners/1.1.1/file/jasonnutter.vscode-codeowners-1.1.1.vsix";
+      sha256 = "sha256-rRNe4k537HQp+XLy7HogdOS9O1N97ta283myw718FzE=";
+    };
+    license = "MIT";
+    name = "vscode-codeowners";
+    description = "VS Code extension for CODEOWNERS file";
+    publisher = "jasonnutter";
+  };
   jaspergeer-docmachine = {
     pname = "jaspergeer-docmachine";
     version = "1.1.4";
@@ -12999,10 +13011,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.89";
+    version = "0.0.91";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.89/file/leanprover.lean4-0.0.89.vsix";
-      sha256 = "sha256-YxSRiXhct4hiwOm7yo6hwn/lbBj9XbkvSwe4151OEoA=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.91/file/leanprover.lean4-0.0.91.vsix";
+      sha256 = "sha256-ePmXvN5hYTvgNiUpJjf1OtUsIMeAVZfwKfDWpH02vA0=";
     };
     license = "Apache-2.0";
     name = "lean4";

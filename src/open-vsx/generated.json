@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsGjzP4moh2KqYPjNDuToQ07ldTosjdEMpJ6NB8Lftw=",
+            "sha256": "sha256-XNZwxNGSnAtR2oYOACdF+k8O4iscvG4gt70blPAo/t0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1281/file/Prisma.prisma-insider-31.0.1281.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1283/file/Prisma.prisma-insider-31.0.1283.vsix"
         },
-        "version": "31.0.1281"
+        "version": "31.0.1283"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5750,11 +5750,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IGka5kd2JEV2k3hO9mOQc+2Sgjq2YA4k6s2ryWTPz48=",
+            "sha256": "sha256-d7RQVmJCmRZpCYPMbBu1RsJFKguYjIs1uoo1aFv6SLg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.68/file/TI.devspacesplus-0.0.68.vsix"
+            "url": "https://open-vsx.org/api/TI/devspacesplus/0.0.69/file/TI.devspacesplus-0.0.69.vsix"
         },
-        "version": "0.0.68"
+        "version": "0.0.69"
     },
     "TOBESOFT-tobesoft-generator-pilot": {
         "cargoLocks": null,
@@ -18277,6 +18277,25 @@
         },
         "version": "1.7.0"
     },
+    "jasonnutter-vscode-codeowners": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "jasonnutter-vscode-codeowners",
+        "passthru": {
+            "description": "VS Code extension for CODEOWNERS file",
+            "license": "MIT",
+            "name": "vscode-codeowners",
+            "publisher": "jasonnutter"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-rRNe4k537HQp+XLy7HogdOS9O1N97ta283myw718FzE=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/jasonnutter/vscode-codeowners/1.1.1/file/jasonnutter.vscode-codeowners-1.1.1.vsix"
+        },
+        "version": "1.1.1"
+    },
     "jaspergeer-docmachine": {
         "cargoLocks": null,
         "extract": null,
@@ -20589,11 +20608,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YxSRiXhct4hiwOm7yo6hwn/lbBj9XbkvSwe4151OEoA=",
+            "sha256": "sha256-ePmXvN5hYTvgNiUpJjf1OtUsIMeAVZfwKfDWpH02vA0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.89/file/leanprover.lean4-0.0.89.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.91/file/leanprover.lean4-0.0.91.vsix"
         },
-        "version": "0.0.89"
+        "version": "0.0.91"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,
