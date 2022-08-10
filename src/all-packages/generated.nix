@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "5b96bfd83a59966eaad1afc7612c893b84409517";
+    version = "9d5949820d15efc2e296e0e28e7261f5a39587cc";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "5b96bfd83a59966eaad1afc7612c893b84409517";
+      rev = "9d5949820d15efc2e296e0e28e7261f5a39587cc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Ru1apT3lml/wViXugA2CgnZNVFsi7pPmTIjTWyGd5ZQ=";
+      sha256 = "sha256-julxKft8h0CmgNLX4KJcVBVbDjFqz5O52JtbskKjqpY=";
     };
   };
   flyingfox = {
@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f64f94ca565a2ec9f174f57a20fcfbfddb762cb8";
+    version = "58ff04fdf3124fbe739193cb1a8070c85bec166b";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "f64f94ca565a2ec9f174f57a20fcfbfddb762cb8";
+      rev = "58ff04fdf3124fbe739193cb1a8070c85bec166b";
       fetchSubmodules = false;
-      sha256 = "sha256-eR/qlC8eDY7A+bkkiF28xCG0cPJr4HilMcD3/QJ05TQ=";
+      sha256 = "sha256-N/ZiAl5jhL26KA67toay/7BeThsy3FWQ5iPfAbPkMlc=";
     });
   };
   ibus = {
@@ -537,10 +537,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-911";
+    version = "1.0-913";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-911-1_all.deb";
-      sha256 = "sha256-YB66NYmonbVgKpzv2pyQv7r0hYKDeBAngxrE4yWPp0o=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-913-1_all.deb";
+      sha256 = "sha256-iLSdkC5q9x7gZAZTem9m2kNZKaLoKurQT7VXg9qgN3c=";
     };
   };
   jitsi-meet = {
@@ -1254,13 +1254,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "f1d170e32fde719ce61a6485edcaaa6363e3ac2a";
+    version = "39b9e8404cd3ccab8236951c21309865a4f7dfa2";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "f1d170e32fde719ce61a6485edcaaa6363e3ac2a";
+      rev = "39b9e8404cd3ccab8236951c21309865a4f7dfa2";
       fetchSubmodules = false;
-      sha256 = "sha256-VC1umBP+NUJv6VsNQRfebXmnJLEIQMZuGbIgk0R1wN4=";
+      sha256 = "sha256-euco9x5PRbX3SJjQ08XWCj+XAvL91JwnfoXcnLio0s4=";
     });
   };
   uniemoji = {
