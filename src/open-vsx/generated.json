@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-B3C7R5It1qS8Ze3u9d5GNS0yVP4fPNxbO2+9n4fPyKE=",
+            "sha256": "sha256-Pp8dh7kHIkxbgdmvRGSjJgeMgMAzZq76kI4l3NQ6cI8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1278/file/Prisma.prisma-insider-31.0.1278.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1279/file/Prisma.prisma-insider-31.0.1279.vsix"
         },
-        "version": "31.0.1278"
+        "version": "31.0.1279"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5522,11 +5522,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YfEy51THCk0vov9nFK/dosvJ+BFJfwwx47DARka2/rY=",
+            "sha256": "sha256-grgpqcWNZ78kDt2pVJXlwZHJFuCXefx+NNuvQNb5Rnk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.720/file/Slint.slint-nightly-2022.8.720.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.916/file/Slint.slint-nightly-2022.8.916.vsix"
         },
-        "version": "2022.8.720"
+        "version": "2022.8.916"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
