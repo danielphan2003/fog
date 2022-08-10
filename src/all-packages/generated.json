@@ -1297,7 +1297,7 @@
     "playit-agent": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./playit-agent-24e2ca0ddc1866cecf36144103483813996b029e/Cargo.lock",
+                "./playit-agent-d07a302a2164f59505f5c862be9760d9442dddfc/Cargo.lock",
                 {
                     "webbrowser-0.5.5": "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M="
                 }
@@ -1314,11 +1314,11 @@
             "name": null,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "rev": "24e2ca0ddc1866cecf36144103483813996b029e",
-            "sha256": "sha256-73m7QsEtNhNdGmcESgQ61TDVPBzeso/cwvo+zgsqX/o=",
+            "rev": "d07a302a2164f59505f5c862be9760d9442dddfc",
+            "sha256": "sha256-Q/UlWDBg/pGWeaiwzPQPrnio6uahsfWUcmIc45t9aXM=",
             "type": "github"
         },
-        "version": "24e2ca0ddc1866cecf36144103483813996b029e"
+        "version": "d07a302a2164f59505f5c862be9760d9442dddfc"
     },
     "plymouth-themes": {
         "cargoLocks": null,
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "090033ede57d86241e975eac4cb9cbd7fe491031",
-            "sha256": "sha256-Qywz6nEdMy0EEskiva696b+sqqE43F37OGR6p7T9M+c=",
+            "rev": "76b0e578c5193a96636f821aa3702796ac17f9b5",
+            "sha256": "sha256-CGsjm2JUuMGWftF0nr+RfdcTjZj5wx4cTYkg7m56HNI=",
             "type": "github"
         },
-        "version": "090033ede57d86241e975eac4cb9cbd7fe491031"
+        "version": "76b0e578c5193a96636f821aa3702796ac17f9b5"
     },
     "tailscale-systray": {
         "cargoLocks": null,

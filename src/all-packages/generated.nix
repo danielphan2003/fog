@@ -781,16 +781,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "24e2ca0ddc1866cecf36144103483813996b029e";
+    version = "d07a302a2164f59505f5c862be9760d9442dddfc";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "24e2ca0ddc1866cecf36144103483813996b029e";
+      rev = "d07a302a2164f59505f5c862be9760d9442dddfc";
       fetchSubmodules = false;
-      sha256 = "sha256-73m7QsEtNhNdGmcESgQ61TDVPBzeso/cwvo+zgsqX/o=";
+      sha256 = "sha256-Q/UlWDBg/pGWeaiwzPQPrnio6uahsfWUcmIc45t9aXM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-24e2ca0ddc1866cecf36144103483813996b029e/Cargo.lock;
+      lockFile = ./playit-agent-d07a302a2164f59505f5c862be9760d9442dddfc/Cargo.lock;
       outputHashes = {
         "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
       };
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "090033ede57d86241e975eac4cb9cbd7fe491031";
+    version = "76b0e578c5193a96636f821aa3702796ac17f9b5";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "090033ede57d86241e975eac4cb9cbd7fe491031";
+      rev = "76b0e578c5193a96636f821aa3702796ac17f9b5";
       fetchSubmodules = false;
-      sha256 = "sha256-Qywz6nEdMy0EEskiva696b+sqqE43F37OGR6p7T9M+c=";
+      sha256 = "sha256-CGsjm2JUuMGWftF0nr+RfdcTjZj5wx4cTYkg7m56HNI=";
     });
   };
   tailscale-systray = {
