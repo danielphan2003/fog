@@ -9132,11 +9132,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1YzcxUdjcVtcDMmH8WGqT+MJ6Ewt6crW9OWjNGAR10U=",
+            "sha256": "sha256-+aRehog4d99AWHA3s8XAkY19LG/G4VMr9XWDnFogihc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.20.4/file/astro-build.astro-vscode-0.20.4.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.21.0/file/astro-build.astro-vscode-0.21.0.vsix"
         },
-        "version": "0.20.4"
+        "version": "0.21.0"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -17682,11 +17682,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Y8KddkhmIVq1xHKkk2EzofRSjzaTzdKw4HmKdV28mZg=",
+            "sha256": "sha256-oA2rESkZ+E9H2x+cejnX82nlCqDYNz5YM3s2E4s0Wlo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.28/file/iljapostnovs.ui5plugin-0.14.28.vsix"
+            "url": "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.29/file/iljapostnovs.ui5plugin-0.14.29.vsix"
         },
-        "version": "0.14.28"
+        "version": "0.14.29"
     },
     "ilkka-google-java-format": {
         "cargoLocks": null,
@@ -26997,6 +26997,25 @@
             "url": "https://open-vsx.org/api/prince781/vala/1.0.8/file/prince781.vala-1.0.8.vsix"
         },
         "version": "1.0.8"
+    },
+    "programmiri-dracula-programmiri": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "programmiri-dracula-programmiri",
+        "passthru": {
+            "description": "Dracula theme, but a bit darker with more contrast.",
+            "license": "MIT",
+            "name": "dracula-programmiri",
+            "publisher": "programmiri"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Jjv3BvXbo4eEI6bIlxK47gERgX10LCaLTnupE0lCmK4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/programmiri/dracula-programmiri/1.0.0/file/programmiri.dracula-programmiri-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "projektanker-code-butler": {
         "cargoLocks": null,

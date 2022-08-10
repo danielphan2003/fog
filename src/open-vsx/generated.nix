@@ -5763,10 +5763,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.20.4";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.20.4/file/astro-build.astro-vscode-0.20.4.vsix";
-      sha256 = "sha256-1YzcxUdjcVtcDMmH8WGqT+MJ6Ewt6crW9OWjNGAR10U=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.21.0/file/astro-build.astro-vscode-0.21.0.vsix";
+      sha256 = "sha256-+aRehog4d99AWHA3s8XAkY19LG/G4VMr9XWDnFogihc=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -11163,10 +11163,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.28";
+    version = "0.14.29";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.28/file/iljapostnovs.ui5plugin-0.14.28.vsix";
-      sha256 = "sha256-Y8KddkhmIVq1xHKkk2EzofRSjzaTzdKw4HmKdV28mZg=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.29/file/iljapostnovs.ui5plugin-0.14.29.vsix";
+      sha256 = "sha256-oA2rESkZ+E9H2x+cejnX82nlCqDYNz5YM3s2E4s0Wlo=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -17052,6 +17052,18 @@
     name = "vala";
     description = "Syntax highlighting and language support for the Vala / Genie languages";
     publisher = "prince781";
+  };
+  programmiri-dracula-programmiri = {
+    pname = "programmiri-dracula-programmiri";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/programmiri/dracula-programmiri/1.0.0/file/programmiri.dracula-programmiri-1.0.0.vsix";
+      sha256 = "sha256-Jjv3BvXbo4eEI6bIlxK47gERgX10LCaLTnupE0lCmK4=";
+    };
+    license = "MIT";
+    name = "dracula-programmiri";
+    description = "Dracula theme, but a bit darker with more contrast.";
+    publisher = "programmiri";
   };
   projektanker-code-butler = {
     pname = "projektanker-code-butler";
