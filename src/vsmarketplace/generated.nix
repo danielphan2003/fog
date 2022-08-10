@@ -51,11 +51,11 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.20.4";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.20.4/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
-      name = "astro-vscode-0.20.4.zip";
-      sha256 = "sha256-4PXaTaJ0y5qfdHy9sSzviubQ/pTw1M034NJnI4p/1iE=";
+      url = "https://astro-build.gallery.vsassets.io/_apis/public/gallery/publisher/astro-build/extension/astro-vscode/0.21.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
+      name = "astro-vscode-0.21.0.zip";
+      sha256 = "sha256-lG3H7o5gHOdoMzDKU9Uzkb8/0cAhtZPDVOESRKuGz3Y=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -93,7 +93,7 @@
     src = fetchurl {
       url = "https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools/1.12.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage";
       name = "cpptools-1.12.0.zip";
-      sha256 = "sha256-0ksKpnKh1ri6ngLtPXGX9Nqt2bj3MNj6iR6Oz2D/DV0=";
+      sha256 = "sha256-np63SFENSBrjiNsDk6mkKgQBTd4vmtqHUYdkdj+EVc0=";
     };
     license = "MIT";
     name = "cpptools";
