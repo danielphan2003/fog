@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1279";
+    version = "31.0.1281";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1279/file/Prisma.prisma-insider-31.0.1279.vsix";
-      sha256 = "sha256-Pp8dh7kHIkxbgdmvRGSjJgeMgMAzZq76kI4l3NQ6cI8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1281/file/Prisma.prisma-insider-31.0.1281.vsix";
+      sha256 = "sha256-fsGjzP4moh2KqYPjNDuToQ07ldTosjdEMpJ6NB8Lftw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7131,10 +7131,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.4/file/cloudstudio.metawork-0.0.4.vsix";
-      sha256 = "sha256-VRh1yyzPCRXn6W5LQsnUwpsPIRDsm+6UmoSZSr8SyAE=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.5/file/cloudstudio.metawork-0.0.5.vsix";
+      sha256 = "sha256-v1MZpFK9e9oVBvMCU3fW2kRafavIu1KFV3vD5yMoTF0=";
     };
     license = "MIT";
     name = "metawork";
@@ -8115,10 +8115,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.106.6";
+    version = "0.107.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.106.6/file/dendron.nightly-0.106.6.vsix";
-      sha256 = "sha256-nuznoNQN4zja7BAs6IaOxnT/Y/jQ5r4XtSjh4cTleAQ=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.107.1/file/dendron.nightly-0.107.1.vsix";
+      sha256 = "sha256-IJ35ym9n5vi0j1eaRRYNG23ddsKdPgl4h0+hMyP7c1w=";
     };
     license = "AGPL-3.0";
     name = "nightly";
