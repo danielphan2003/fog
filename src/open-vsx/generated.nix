@@ -8739,10 +8739,10 @@
   };
   elves-elvish = {
     pname = "elves-elvish";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/elves/elvish/0.1.1/file/elves.elvish-0.1.1.vsix";
-      sha256 = "sha256-7MwKY3gpxV8/7Ixgna1GX1S+Lo8LEcveheeaKjMOFLA=";
+      url = "https://open-vsx.org/api/elves/elvish/0.1.2/file/elves.elvish-0.1.2.vsix";
+      sha256 = "sha256-i2BkA96MP8nSoYDRbwbdLDuf7fJ0/rCweqM30cPUL1w=";
     };
     license = "BSD-2-Clause";
     name = "elvish";
@@ -14076,6 +14076,30 @@
     name = "w3c-ebnf";
     description = "Language support for W3C's EBNF notation";
     publisher = "mfederczuk";
+  };
+  mgesbert-indent-nested-dictionary = {
+    pname = "mgesbert-indent-nested-dictionary";
+    version = "0.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mgesbert/indent-nested-dictionary/0.0.4/file/mgesbert.indent-nested-dictionary-0.0.4.vsix";
+      sha256 = "sha256-2RlPKK+NXlmks+9sZFiiZE9ockOZNlQ/vkWIW3mU4gA=";
+    };
+    license = "MIT";
+    name = "indent-nested-dictionary";
+    description = "This extension will try its best to indent JSONs and Python dictionary, even incomplete.";
+    publisher = "mgesbert";
+  };
+  mgesbert-python-path = {
+    pname = "mgesbert-python-path";
+    version = "0.0.14";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/mgesbert/python-path/0.0.14/file/mgesbert.python-path-0.0.14.vsix";
+      sha256 = "sha256-ghdBFaQenzd/PKQThcczynfbS8itb42qOgK2LfRh6oQ=";
+    };
+    license = "MIT";
+    name = "python-path";
+    description = "Python imports utils.";
+    publisher = "mgesbert";
   };
   mgmcdermott-vscode-language-babel = {
     pname = "mgmcdermott-vscode-language-babel";

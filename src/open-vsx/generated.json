@@ -13844,11 +13844,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7MwKY3gpxV8/7Ixgna1GX1S+Lo8LEcveheeaKjMOFLA=",
+            "sha256": "sha256-i2BkA96MP8nSoYDRbwbdLDuf7fJ0/rCweqM30cPUL1w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/elves/elvish/0.1.1/file/elves.elvish-0.1.1.vsix"
+            "url": "https://open-vsx.org/api/elves/elvish/0.1.2/file/elves.elvish-0.1.2.vsix"
         },
-        "version": "0.1.1"
+        "version": "0.1.2"
     },
     "emattiza-ide-purescript": {
         "cargoLocks": null,
@@ -22285,6 +22285,44 @@
             "url": "https://open-vsx.org/api/mfederczuk/w3c-ebnf/0.2.0/file/mfederczuk.w3c-ebnf-0.2.0.vsix"
         },
         "version": "0.2.0"
+    },
+    "mgesbert-indent-nested-dictionary": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mgesbert-indent-nested-dictionary",
+        "passthru": {
+            "description": "This extension will try its best to indent JSONs and Python dictionary, even incomplete.",
+            "license": "MIT",
+            "name": "indent-nested-dictionary",
+            "publisher": "mgesbert"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2RlPKK+NXlmks+9sZFiiZE9ockOZNlQ/vkWIW3mU4gA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/mgesbert/indent-nested-dictionary/0.0.4/file/mgesbert.indent-nested-dictionary-0.0.4.vsix"
+        },
+        "version": "0.0.4"
+    },
+    "mgesbert-python-path": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "mgesbert-python-path",
+        "passthru": {
+            "description": "Python imports utils.",
+            "license": "MIT",
+            "name": "python-path",
+            "publisher": "mgesbert"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ghdBFaQenzd/PKQThcczynfbS8itb42qOgK2LfRh6oQ=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/mgesbert/python-path/0.0.14/file/mgesbert.python-path-0.0.14.vsix"
+        },
+        "version": "0.0.14"
     },
     "mgmcdermott-vscode-language-babel": {
         "cargoLocks": null,
