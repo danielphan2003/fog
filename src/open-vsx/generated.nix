@@ -8115,10 +8115,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.107.2";
+    version = "0.107.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.107.2/file/dendron.nightly-0.107.2.vsix";
-      sha256 = "sha256-utLY5zWP4WA5HoYcMfFMECwavhU+9xYyh/V83ru0RTk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.107.3/file/dendron.nightly-0.107.3.vsix";
+      sha256 = "sha256-TYtL+RSYPN2s5xEYevTB7PBRqd9XBIOsNhnbYH+9uYY=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8739,10 +8739,10 @@
   };
   elves-elvish = {
     pname = "elves-elvish";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/elves/elvish/0.1.2/file/elves.elvish-0.1.2.vsix";
-      sha256 = "sha256-i2BkA96MP8nSoYDRbwbdLDuf7fJ0/rCweqM30cPUL1w=";
+      url = "https://open-vsx.org/api/elves/elvish/0.1.3/file/elves.elvish-0.1.3.vsix";
+      sha256 = "sha256-pl6o+H/hXYzdcYRl4gctAV3c+YqAMAMR1e2TWD/UN0s=";
     };
     license = "BSD-2-Clause";
     name = "elvish";
@@ -10371,10 +10371,10 @@
   };
   haskell-haskell = {
     pname = "haskell-haskell";
-    version = "2.2.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/haskell/haskell/2.2.0/file/haskell.haskell-2.2.0.vsix";
-      sha256 = "sha256-YGPytmI4PgH6GQuWaRF5quiKGoOabkv7On+WVupI92E=";
+      url = "https://open-vsx.org/api/haskell/haskell/2.2.1/file/haskell.haskell-2.2.1.vsix";
+      sha256 = "sha256-06H4RUmsTOM0ZBFl7NV3T/EBd9NPK0UjUW0s/Q946ZI=";
     };
     license = "MIT";
     name = "haskell";
@@ -17871,10 +17871,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.8";
+    version = "1.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.8/file/remcohaszing.schemastore-1.0.8.vsix";
-      sha256 = "sha256-Fa3byTI4L+fMZG1nPb8/3mdDzcVUZbS6pD3nNp6cHzQ=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.9/file/remcohaszing.schemastore-1.0.9.vsix";
+      sha256 = "sha256-cjI+HZ8XUEmscKNMDEBF/XhPwG5M4KqL2qeBJ7mPhus=";
     };
     license = "MIT";
     name = "schemastore";
