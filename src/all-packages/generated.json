@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "0879fd3ffc61f0825641a367e36a240c8fdb569f",
-            "sha256": "sha256-oXRqN3IuVouSA65NQhP5g9t66j0rM75y8BFN71edW4g=",
+            "rev": "8e9fc768f3fb4eba5ee03d5147f8d7070fe2e0c1",
+            "sha256": "sha256-FUr4CSUqdM/XYyRnv4uiFZlvkfUmNx6w7BGD+3fjJNM=",
             "type": "github"
         },
-        "version": "0879fd3ffc61f0825641a367e36a240c8fdb569f"
+        "version": "8e9fc768f3fb4eba5ee03d5147f8d7070fe2e0c1"
     },
     "caddy": {
         "cargoLocks": null,
@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "008cc63dc03a31797142772885129fd32c964776",
-            "sha256": "sha256-WNjPn8mZ3s9GDXz2cWi2avVP9drTkMMIpRMTiZOYG1s=",
+            "rev": "f85c7656342d2b9d515e364de5dff4662ec6865d",
+            "sha256": "sha256-0/5CDe68CDA/hD3Mt0wiz9XME8/3GgCjm8VoANvUo8s=",
             "type": "github"
         },
-        "version": "008cc63dc03a31797142772885129fd32c964776"
+        "version": "f85c7656342d2b9d515e364de5dff4662ec6865d"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1102,11 +1102,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lhvuzwz1Fqsrtzw3yigwD7HPu+wGFLVX2G4/bh+0pnI=",
+            "sha256": "sha256-kWsFZHNiKGEs+I7Z7jhgeXu4ujKGfIuNnrSN3pIHsMQ=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.47-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.54-1_amd64.deb"
         },
-        "version": "104.0.1293.47"
+        "version": "104.0.1293.54"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
