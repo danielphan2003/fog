@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1289";
+    version = "31.0.1290";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1289/file/Prisma.prisma-insider-31.0.1289.vsix";
-      sha256 = "sha256-YVZ2TGKhXlhEr9fmtZB0Rx0jhveuLCf5kRzQKa6cGQw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1290/file/Prisma.prisma-insider-31.0.1290.vsix";
+      sha256 = "sha256-BlNLOks5saT5xw5d+Z5z5fNoEr9zMVx3Jvy1Sg66xac=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -4239,10 +4239,10 @@
   };
   Zowe-vscode-extension-for-zowe = {
     pname = "Zowe-vscode-extension-for-zowe";
-    version = "2.1.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.1.0/file/Zowe.vscode-extension-for-zowe-2.1.0.vsix";
-      sha256 = "sha256-cqOCCjbGrq13ZaR9su0LF9VBZaPEAk0bSS63Ztt4mkI=";
+      url = "https://open-vsx.org/api/Zowe/vscode-extension-for-zowe/2.2.1/file/Zowe.vscode-extension-for-zowe-2.2.1.vsix";
+      sha256 = "sha256-7B+7TUoqeHE8xFso7ivOxBmfjR0NnF1Qut4+LQnvBII=";
     };
     license = "EPL-2.0";
     name = "vscode-extension-for-zowe";
@@ -4251,10 +4251,10 @@
   };
   Zowe-zowe-explorer-ftp-extension = {
     pname = "Zowe-zowe-explorer-ftp-extension";
-    version = "2.1.0";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.1.0/file/Zowe.zowe-explorer-ftp-extension-2.1.0.vsix";
-      sha256 = "sha256-SCs1FIaTUC0bkI21VUcO9V2rHfUyLVsHBvmOvreocQI=";
+      url = "https://open-vsx.org/api/Zowe/zowe-explorer-ftp-extension/2.2.1/file/Zowe.zowe-explorer-ftp-extension-2.2.1.vsix";
+      sha256 = "sha256-9VNHVd8q5JxwKnDqSQUdj3DWU2BJNpNsS4biuLlbI/0=";
     };
     license = "EPL-2.0";
     name = "zowe-explorer-ftp-extension";
@@ -8715,10 +8715,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2833268";
+    version = "8.0.2841099";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2833268/file/eliostruyf.vscode-front-matter-beta-8.0.2833268.vsix";
-      sha256 = "sha256-YTOoYbqK/CALHw/nSp7OaVGrUfPBr2scBC4znoE6IHQ=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2841099/file/eliostruyf.vscode-front-matter-beta-8.0.2841099.vsix";
+      sha256 = "sha256-esTbVrk+sHMdodXM26p4VbIrDmsB5x7koTHyTaA5f6M=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -17259,10 +17259,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.30.0";
+    version = "1.31.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.30.0/file/quarto.quarto-1.30.0.vsix";
-      sha256 = "sha256-KbzJ1kQBf6EMsUaU/YGB64KU8eW6vFDGYYwwTP84MTQ=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.31.0/file/quarto.quarto-1.31.0.vsix";
+      sha256 = "sha256-k8w0zv8aHCUNoUPvvKhrv1nFnzpmqk9BIJpMIrr7dow=";
     };
     license = "MIT";
     name = "quarto";
@@ -17415,10 +17415,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.17.1";
+    version = "1.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.17.1/file/rangav.vscode-thunder-client-1.17.1.vsix";
-      sha256 = "sha256-npklkmrnAVQoEzF4FYbvzWG4U04k0/sJFfHanFegWDQ=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.0/file/rangav.vscode-thunder-client-1.18.0.vsix";
+      sha256 = "sha256-vtV2nxxv56MVeK5kGSypfZ719KhjZAZFhn887MxhZZs=";
     };
     license = "";
     name = "vscode-thunder-client";
