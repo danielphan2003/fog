@@ -805,11 +805,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "f85c7656342d2b9d515e364de5dff4662ec6865d",
-            "sha256": "sha256-0/5CDe68CDA/hD3Mt0wiz9XME8/3GgCjm8VoANvUo8s=",
+            "rev": "e5ab9643be8a5c4e04b2809ac2c66abf0e87d608",
+            "sha256": "sha256-a9bmjNyoajH4yoORq+z/z/z8DabUIM7Ij4Bl38nz1ec=",
             "type": "github"
         },
-        "version": "f85c7656342d2b9d515e364de5dff4662ec6865d"
+        "version": "e5ab9643be8a5c4e04b2809ac2c66abf0e87d608"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1060,11 +1060,11 @@
             "name": null,
             "owner": "matrix-org",
             "repo": "matrix-appservice-discord",
-            "rev": "f8aea64d5a660ce02c7d4ec27cedf73b9c80fc22",
-            "sha256": "sha256-+rsdsdHSZA/SrGeMSZvXbi6pF9QSH5DMEeWHpqSsweo=",
+            "rev": "de0066d6892aa1aad27c08a71f52e3bab8cc1acf",
+            "sha256": "sha256-asB1724FOx1Mv72SO+9kc9X4nENB7MtN1CGthhygjh8=",
             "type": "github"
         },
-        "version": "f8aea64d5a660ce02c7d4ec27cedf73b9c80fc22"
+        "version": "de0066d6892aa1aad27c08a71f52e3bab8cc1acf"
     },
     "microsoft-edge-beta": {
         "cargoLocks": null,

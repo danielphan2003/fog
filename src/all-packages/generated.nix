@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "f85c7656342d2b9d515e364de5dff4662ec6865d";
+    version = "e5ab9643be8a5c4e04b2809ac2c66abf0e87d608";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "f85c7656342d2b9d515e364de5dff4662ec6865d";
+      rev = "e5ab9643be8a5c4e04b2809ac2c66abf0e87d608";
       fetchSubmodules = false;
-      sha256 = "sha256-0/5CDe68CDA/hD3Mt0wiz9XME8/3GgCjm8VoANvUo8s=";
+      sha256 = "sha256-a9bmjNyoajH4yoORq+z/z/z8DabUIM7Ij4Bl38nz1ec=";
     });
   };
   ibus = {
@@ -632,13 +632,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "f8aea64d5a660ce02c7d4ec27cedf73b9c80fc22";
+    version = "de0066d6892aa1aad27c08a71f52e3bab8cc1acf";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "f8aea64d5a660ce02c7d4ec27cedf73b9c80fc22";
+      rev = "de0066d6892aa1aad27c08a71f52e3bab8cc1acf";
       fetchSubmodules = false;
-      sha256 = "sha256-+rsdsdHSZA/SrGeMSZvXbi6pF9QSH5DMEeWHpqSsweo=";
+      sha256 = "sha256-asB1724FOx1Mv72SO+9kc9X4nENB7MtN1CGthhygjh8=";
     });
   };
   microsoft-edge-beta = {
