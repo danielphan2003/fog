@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "9f99320fdad1a89387057dcd6ddb9b995a65d3dd";
+    version = "1692098d5d8254eb9241527f23673762586e72e9";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "9f99320fdad1a89387057dcd6ddb9b995a65d3dd";
+      rev = "1692098d5d8254eb9241527f23673762586e72e9";
       fetchSubmodules = false;
-      sha256 = "sha256-3sIecNd4AUrDyGo7g442KgAwbbi98druhLnCEMpW9B8=";
+      sha256 = "sha256-WrzTNoAGLiO4FBPjmhPYUSzbRzz3lZqcYHjd+fyCWoc=";
     });
   };
   cinny-bin = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "5d731ca13fb55c97cd07352710e8e6b6ce08b81b";
+    version = "77a92f326d3cd82334c5fb1aabf777303254c0b4";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "5d731ca13fb55c97cd07352710e8e6b6ce08b81b";
+      rev = "77a92f326d3cd82334c5fb1aabf777303254c0b4";
       fetchSubmodules = false;
-      sha256 = "sha256-kXEuu5gQa85yHVocJIu+xCjUl8ftJkc2eJwicS8c+3g=";
+      sha256 = "sha256-CSIFactywMCqimpHS5Jbj89NAnyRlxS0yrkhLOl9UPs=";
     });
   };
   tailscale-systray = {
