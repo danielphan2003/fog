@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "258afec39134e33319a68c7839fe2248c6b58465";
+    version = "c4e36a1f9745173cd41b5368dbef888f06dddf38";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "258afec39134e33319a68c7839fe2248c6b58465";
+      rev = "c4e36a1f9745173cd41b5368dbef888f06dddf38";
       fetchSubmodules = false;
-      sha256 = "sha256-Hc0Hk4iemFhzJpZTAPNf4oFf3KITWxs0PDExEYVjN7E=";
+      sha256 = "sha256-pHLlkVOjQJA9U61gKW+7XVj94/CwCFymOO9AUvV15Xc=";
     });
   };
   cinny-bin = {
@@ -545,26 +545,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6453";
+    version = "1.0.6454";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6453.tar.bz2";
-      sha256 = "sha256-NP0a95sMGSXjPuFbvteojsMm/QydwZTFHdUStcAlLyQ=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6454.tar.bz2";
+      sha256 = "sha256-SlQgaEm4yUtGgL4e3txVl/rOIz5UJkBNfgaqfufihDc=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6453";
+    version = "1.0.6454";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6453-1_all.deb";
-      sha256 = "sha256-TtijrtAD2BE4HC/bTwNWJfTTc2FHHjx3hcZbaIlVQb0=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6454-1_all.deb";
+      sha256 = "sha256-4JUEdRchlRwpKfQa68urMLhwNKHaZldxuviGb3skVDU=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-26-g20507e0d";
+    version = "2.2-27-gd8362097";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-26-g20507e0d-1_all.deb";
-      sha256 = "sha256-bwl3Dd5vkBqWel8szUBbq7ZzrvEcRy4yk+LhsF6U+Yg=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-27-gd8362097-1_all.deb";
+      sha256 = "sha256-ClHEYSGyMUMmKFL//oVH+bcGZVCsP+2M1nNq2zoRGV4=";
     };
   };
   layout-machi = {
