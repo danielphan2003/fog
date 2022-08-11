@@ -6901,6 +6901,18 @@
     description = "Language syntax, snippets and build system for Inno Setup";
     publisher = "chouzz";
   };
+  chrisbibby-hide-node-modules = {
+    pname = "chrisbibby-hide-node-modules";
+    version = "1.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/chrisbibby/hide-node-modules/1.1.0/file/chrisbibby.hide-node-modules-1.1.0.vsix";
+      sha256 = "sha256-E4OuB5CbbKnhi1M/HpJJNPwVqHJzgvc462nYN5NkNIE=";
+    };
+    license = "MIT";
+    name = "hide-node-modules";
+    description = "Show/Hide Node Modules within the Explorer view";
+    publisher = "chrisbibby";
+  };
   chriscamicas-openedge-abl = {
     pname = "chriscamicas-openedge-abl";
     version = "1.2.1";
@@ -7599,10 +7611,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.5.5";
+    version = "5.6.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.5.5/file/cweijan.vscode-mysql-client2-5.5.5.vsix";
-      sha256 = "sha256-y6h/V6wtNP47+HmVNZaM+MNuuVVhP87uY76OnK3vCpE=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.6.10/file/cweijan.vscode-mysql-client2-5.6.10.vsix";
+      sha256 = "sha256-Fwy9dsaI6N1liT9HfguBe3/7IP/ldTSJbndlM7b6qJM=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
@@ -12603,10 +12615,10 @@
   };
   kodetech-kha = {
     pname = "kodetech-kha";
-    version = "22.6.5";
+    version = "22.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/kha/22.6.5/file/kodetech.kha-22.6.5.vsix";
-      sha256 = "sha256-ts36I42uYZTjvyR2nRnqwyN5nqxEjGWrbKlfNP0ZDR0=";
+      url = "https://open-vsx.org/api/kodetech/kha/22.8.0/file/kodetech.kha-22.8.0.vsix";
+      sha256 = "sha256-EWi2CZptm9go8fOw7eFmo4ZfBshwkgooSWGS23OQ2gQ=";
     };
     license = "";
     name = "kha";
@@ -17415,10 +17427,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.18.0";
+    version = "1.18.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.0/file/rangav.vscode-thunder-client-1.18.0.vsix";
-      sha256 = "sha256-vtV2nxxv56MVeK5kGSypfZ719KhjZAZFhn887MxhZZs=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.1/file/rangav.vscode-thunder-client-1.18.1.vsix";
+      sha256 = "sha256-zPvIbRTRD3MAyJdG077LZrMprUhLg7nChsej5mogrBU=";
     };
     license = "";
     name = "vscode-thunder-client";
@@ -23115,10 +23127,10 @@
   };
   weaveworks-vscode-gitops-tools = {
     pname = "weaveworks-vscode-gitops-tools";
-    version = "0.20.1660098061";
+    version = "0.21.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.20.1660098061/file/weaveworks.vscode-gitops-tools-0.20.1660098061.vsix";
-      sha256 = "sha256-JysNDEVJmhAD6/QpmEEllyeDgdDwitFL9KiCjMOBRk8=";
+      url = "https://open-vsx.org/api/weaveworks/vscode-gitops-tools/0.21.0/file/weaveworks.vscode-gitops-tools-0.21.0.vsix";
+      sha256 = "sha256-vHzZh/GlTp7f8kObI0Qo1yOF/wkkJe6cbuMnxtL5syA=";
     };
     license = "MPL-2.0";
     name = "vscode-gitops-tools";
