@@ -1530,11 +1530,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "4c4bec11f7a469ed560b729d56df2d7bdcb4a032",
-            "sha256": "sha256-D1Kx+vs+12Ere/bBsn5M6kaGRYYNF3Rhq+/qLI7mBSc=",
+            "rev": "908667d97ac1ad370ee61665f777cd996e6ba2aa",
+            "sha256": "sha256-gjandhdNOk3+OVplfwtMSWL2EPq/D/4anyvTBQ8LZDg=",
             "type": "github"
         },
-        "version": "4c4bec11f7a469ed560b729d56df2d7bdcb4a032"
+        "version": "908667d97ac1ad370ee61665f777cd996e6ba2aa"
     },
     "revanced-cli": {
         "cargoLocks": null,
