@@ -221,35 +221,35 @@
   };
   cinny = {
     pname = "cinny";
-    version = "c4e36a1f9745173cd41b5368dbef888f06dddf38";
+    version = "214d49f1d973814a2a9f29378232aae7027832b6";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "c4e36a1f9745173cd41b5368dbef888f06dddf38";
+      rev = "214d49f1d973814a2a9f29378232aae7027832b6";
       fetchSubmodules = false;
-      sha256 = "sha256-pHLlkVOjQJA9U61gKW+7XVj94/CwCFymOO9AUvV15Xc=";
+      sha256 = "sha256-byfK7H/Z85ANvMGVaEtTNkcS/W3ASlk2iXA5JHnYgKs=";
     });
   };
   cinny-bin = {
     pname = "cinny-bin";
-    version = "2.1.1";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny/releases/download/v2.1.1/cinny-v2.1.1.tar.gz";
-      sha256 = "sha256-1Ra+6UWOD7bvRL7Vlw/cu7S3CwLqCXTUUHKI5kE672M=";
+      url = "https://github.com/cinnyapp/cinny/releases/download/v2.1.2/cinny-v2.1.2.tar.gz";
+      sha256 = "sha256-UbL9HP90zfsoj/ClUoBF27n5zkvvN4UU4pxQu8QsoUA=";
     };
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "c98cb286b759b5f00c91240dbe0cf50ec988fb03";
+    version = "6352516b3ba241b3f4f25a289b9edaf3eefe18de";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "c98cb286b759b5f00c91240dbe0cf50ec988fb03";
+      rev = "6352516b3ba241b3f4f25a289b9edaf3eefe18de";
       fetchSubmodules = true;
-      sha256 = "sha256-fG/RiVRriPe65R7v2Sepn/plctHkVdTzhnTTKrljLp8=";
+      sha256 = "sha256-HAATUfBV6CTf5qwTcKlA3iHqrJSaT78ZDJ4ldHUncQc=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-c98cb286b759b5f00c91240dbe0cf50ec988fb03/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-6352516b3ba241b3f4f25a289b9edaf3eefe18de/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -257,10 +257,10 @@
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
-    version = "2.1.1";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.1.1/Cinny_desktop-x86_64.AppImage";
-      sha256 = "sha256-pSaYyf2EQ+jb4uvr4DiFSjdmdHJP2IIOE1iqeZy7FEw=";
+      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.1.2/Cinny_desktop-x86_64.AppImage";
+      sha256 = "sha256-3S6mx+Nt/eonjY6rAnOIZwdZ6NyJ2vJ1os0ll+lD0ow=";
     };
   };
   conduit = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6454";
+    version = "1.0.6455";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6454.tar.bz2";
-      sha256 = "sha256-SlQgaEm4yUtGgL4e3txVl/rOIz5UJkBNfgaqfufihDc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6455.tar.bz2";
+      sha256 = "sha256-4agP4C6r7FB4yvo8FpLNhmY9M36hrxMqPewBBOfDEnI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6454";
+    version = "1.0.6455";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6454-1_all.deb";
-      sha256 = "sha256-4JUEdRchlRwpKfQa68urMLhwNKHaZldxuviGb3skVDU=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6455-1_all.deb";
+      sha256 = "sha256-K1QsYiPzHF6E8Xpa7Wq7ZkQqEAkja2HWTYxuPQlGdy8=";
     };
   };
   jitsi-videobridge2 = {
