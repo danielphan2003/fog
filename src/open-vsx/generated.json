@@ -12856,11 +12856,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TYtL+RSYPN2s5xEYevTB7PBRqd9XBIOsNhnbYH+9uYY=",
+            "sha256": "sha256-/s57RxaJCCnByMvBLGQ61TKWKjqZPoqaBIIt8wbMf8k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.107.3/file/dendron.nightly-0.107.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.107.4/file/dendron.nightly-0.107.4.vsix"
         },
-        "version": "0.107.3"
+        "version": "0.107.4"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -20975,6 +20975,25 @@
         },
         "version": "0.7.1"
     },
+    "llc-vscode-dlt": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "llc-vscode-dlt",
+        "passthru": {
+            "description": "",
+            "license": "MIT",
+            "name": "vscode-dlt",
+            "publisher": "llc"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Lf4YlrgmSkUdzA7059O16+l3W8xQ9HRt2u+z8KudCDY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/llc/vscode-dlt/1.0.0/file/llc.vscode-dlt-1.0.0.vsix"
+        },
+        "version": "1.0.0"
+    },
     "llvm-vs-code-extensions-vscode-clangd": {
         "cargoLocks": null,
         "extract": null,
@@ -21539,11 +21558,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YJxu7T10UkLRIyMthsRTHIIff5R2HMSThj9kerxXCFA=",
+            "sha256": "sha256-Eh2e3ugLPvNc/uc4HAm35nSCxTyOSEmo5+JtnkuU/kE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/marp-team/marp-vscode/2.1.0/file/marp-team.marp-vscode-2.1.0.vsix"
+            "url": "https://open-vsx.org/api/marp-team/marp-vscode/2.2.0/file/marp-team.marp-vscode-2.2.0.vsix"
         },
-        "version": "2.1.0"
+        "version": "2.2.0"
     },
     "marus25-cortex-debug": {
         "cargoLocks": null,
@@ -31780,11 +31799,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0oqtWwXNsffRL6W/vIoQCl/uEgjBoF0uQaTMuyBXZ7U=",
+            "sha256": "sha256-VDGi07BXl0d3U1xVa9/JGBCNYsOp50c286DLkDYRnFc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.2/file/t-codespaces.ide-code-status-0.2.2.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.3/file/t-codespaces.ide-code-status-0.2.3.vsix"
         },
-        "version": "0.2.2"
+        "version": "0.2.3"
     },
     "t-codespaces-ide-data-sync": {
         "cargoLocks": null,

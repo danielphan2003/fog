@@ -8115,10 +8115,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.107.3";
+    version = "0.107.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.107.3/file/dendron.nightly-0.107.3.vsix";
-      sha256 = "sha256-TYtL+RSYPN2s5xEYevTB7PBRqd9XBIOsNhnbYH+9uYY=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.107.4/file/dendron.nightly-0.107.4.vsix";
+      sha256 = "sha256-/s57RxaJCCnByMvBLGQ61TKWKjqZPoqaBIIt8wbMf8k=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -13249,6 +13249,18 @@
     description = "Run your Python tests in the Sidebar of Visual Studio Code";
     publisher = "littlefoxteam";
   };
+  llc-vscode-dlt = {
+    pname = "llc-vscode-dlt";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/llc/vscode-dlt/1.0.0/file/llc.vscode-dlt-1.0.0.vsix";
+      sha256 = "sha256-Lf4YlrgmSkUdzA7059O16+l3W8xQ9HRt2u+z8KudCDY=";
+    };
+    license = "MIT";
+    name = "vscode-dlt";
+    description = "";
+    publisher = "llc";
+  };
   llvm-vs-code-extensions-vscode-clangd = {
     pname = "llvm-vs-code-extensions-vscode-clangd";
     version = "0.1.21";
@@ -13599,10 +13611,10 @@
   };
   marp-team-marp-vscode = {
     pname = "marp-team-marp-vscode";
-    version = "2.1.0";
+    version = "2.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marp-team/marp-vscode/2.1.0/file/marp-team.marp-vscode-2.1.0.vsix";
-      sha256 = "sha256-YJxu7T10UkLRIyMthsRTHIIff5R2HMSThj9kerxXCFA=";
+      url = "https://open-vsx.org/api/marp-team/marp-vscode/2.2.0/file/marp-team.marp-vscode-2.2.0.vsix";
+      sha256 = "sha256-Eh2e3ugLPvNc/uc4HAm35nSCxTyOSEmo5+JtnkuU/kE=";
     };
     license = "MIT";
     name = "marp-vscode";
@@ -20067,10 +20079,10 @@
   };
   t-codespaces-ide-code-status = {
     pname = "t-codespaces-ide-code-status";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.2/file/t-codespaces.ide-code-status-0.2.2.vsix";
-      sha256 = "sha256-0oqtWwXNsffRL6W/vIoQCl/uEgjBoF0uQaTMuyBXZ7U=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-code-status/0.2.3/file/t-codespaces.ide-code-status-0.2.3.vsix";
+      sha256 = "sha256-VDGi07BXl0d3U1xVa9/JGBCNYsOp50c286DLkDYRnFc=";
     };
     license = "";
     name = "ide-code-status";
