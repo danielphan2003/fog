@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1288";
+    version = "31.0.1289";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1288/file/Prisma.prisma-insider-31.0.1288.vsix";
-      sha256 = "sha256-YwJEq1WZ2VQwUsfy7HvusvZrYCA4mQsxEFjbH+WGVNw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1289/file/Prisma.prisma-insider-31.0.1289.vsix";
+      sha256 = "sha256-YVZ2TGKhXlhEr9fmtZB0Rx0jhveuLCf5kRzQKa6cGQw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5943,10 +5943,10 @@
   };
   banacorn-agda-mode = {
     pname = "banacorn-agda-mode";
-    version = "0.3.10";
+    version = "0.3.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.10/file/banacorn.agda-mode-0.3.10.vsix";
-      sha256 = "sha256-yuGUWLOVLGQwhgys8EMjqqQnlQpMmyns6eUC9njI+Ko=";
+      url = "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.agda-mode-0.3.11.vsix";
+      sha256 = "sha256-RiOJWDsAR+5GGHcJK2L34BeUo1P8Sat9QEtKpZj9BGo=";
     };
     license = "MIT";
     name = "agda-mode";
@@ -8175,10 +8175,10 @@
   };
   devfactory-multispace = {
     pname = "devfactory-multispace";
-    version = "0.0.70";
+    version = "0.0.73";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devfactory/multispace/0.0.70/file/devfactory.multispace-0.0.70.vsix";
-      sha256 = "sha256-hYvgZhmRcamEwRTIM1pjy2qElGf70ViONle9bGt40Zk=";
+      url = "https://open-vsx.org/api/devfactory/multispace/0.0.73/file/devfactory.multispace-0.0.73.vsix";
+      sha256 = "sha256-J7y4Ab15TUCKDQufNuXVMGdewYViupBxG8kAQ11NZYc=";
     };
     license = "MIT";
     name = "multispace";

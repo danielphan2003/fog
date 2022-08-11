@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YwJEq1WZ2VQwUsfy7HvusvZrYCA4mQsxEFjbH+WGVNw=",
+            "sha256": "sha256-YVZ2TGKhXlhEr9fmtZB0Rx0jhveuLCf5kRzQKa6cGQw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1288/file/Prisma.prisma-insider-31.0.1288.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1289/file/Prisma.prisma-insider-31.0.1289.vsix"
         },
-        "version": "31.0.1288"
+        "version": "31.0.1289"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9417,11 +9417,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yuGUWLOVLGQwhgys8EMjqqQnlQpMmyns6eUC9njI+Ko=",
+            "sha256": "sha256-RiOJWDsAR+5GGHcJK2L34BeUo1P8Sat9QEtKpZj9BGo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.10/file/banacorn.agda-mode-0.3.10.vsix"
+            "url": "https://open-vsx.org/api/banacorn/agda-mode/0.3.11/file/banacorn.agda-mode-0.3.11.vsix"
         },
-        "version": "0.3.10"
+        "version": "0.3.11"
     },
     "bar9-stories": {
         "cargoLocks": null,
@@ -12951,11 +12951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hYvgZhmRcamEwRTIM1pjy2qElGf70ViONle9bGt40Zk=",
+            "sha256": "sha256-J7y4Ab15TUCKDQufNuXVMGdewYViupBxG8kAQ11NZYc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.70/file/devfactory.multispace-0.0.70.vsix"
+            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.73/file/devfactory.multispace-0.0.73.vsix"
         },
-        "version": "0.0.70"
+        "version": "0.0.73"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
