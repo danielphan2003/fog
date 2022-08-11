@@ -1263,10 +1263,10 @@
   };
   GenieBuilder-geniebuilder = {
     pname = "GenieBuilder-geniebuilder";
-    version = "0.1.9";
+    version = "0.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.9/file/GenieBuilder.geniebuilder-0.1.9.vsix";
-      sha256 = "sha256-VN+ADy6f+V/mh6F6yPro5sP+BdLvOA4Gasit3zBHJcQ=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.12/file/GenieBuilder.geniebuilder-0.1.12.vsix";
+      sha256 = "sha256-VBY+w/p6ZVMlOrjyHO0mO9ggjxlpEy8qN99x5bvks7o=";
     };
     license = "";
     name = "geniebuilder";
@@ -3363,10 +3363,10 @@
   };
   Sarrus-sourcepawn-vscode = {
     pname = "Sarrus-sourcepawn-vscode";
-    version = "4.0.13";
+    version = "4.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.13/file/Sarrus.sourcepawn-vscode-4.0.13.vsix";
-      sha256 = "sha256-RC39A78sKrEH9/8Mjvxw0O3OPJy5zZFSqeh1y73pDCg=";
+      url = "https://open-vsx.org/api/Sarrus/sourcepawn-vscode/4.0.14/file/Sarrus.sourcepawn-vscode-4.0.14.vsix";
+      sha256 = "sha256-kDsiwoK/Aw53jU43WX0oBL8laN/MmhQ+YM/54jIQDF4=";
     };
     license = "MIT";
     name = "sourcepawn-vscode";
@@ -3483,10 +3483,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.1017";
+    version = "2022.8.1110";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1017/file/Slint.slint-nightly-2022.8.1017.vsix";
-      sha256 = "sha256-maiTACG6XpEnhUI+nuMgM67Pltn3+FXUTIFa2/gDvS4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1110/file/Slint.slint-nightly-2022.8.1110.vsix";
+      sha256 = "sha256-AFISjfOi6xacqf7XbjBstzQDNThYvTdsK5OUIQFuTpM=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13155,10 +13155,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.35";
+    version = "3.0.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.35/file/lifeart.vscode-ember-unstable-3.0.35.vsix";
-      sha256 = "sha256-GcgfOxvfBnZwhrdSuXMRHkAOb8R3UKWUSP1ivwZaEDE=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.36/file/lifeart.vscode-ember-unstable-3.0.36.vsix";
+      sha256 = "sha256-HcFAixxFsGcwLEQ/2uIwMBEAqrUhwYWYQtJAFMwkbwI=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";
