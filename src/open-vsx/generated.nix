@@ -8727,10 +8727,10 @@
   };
   eliostruyf-vscode-front-matter-beta = {
     pname = "eliostruyf-vscode-front-matter-beta";
-    version = "8.0.2841099";
+    version = "8.0.2842141";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2841099/file/eliostruyf.vscode-front-matter-beta-8.0.2841099.vsix";
-      sha256 = "sha256-esTbVrk+sHMdodXM26p4VbIrDmsB5x7koTHyTaA5f6M=";
+      url = "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2842141/file/eliostruyf.vscode-front-matter-beta-8.0.2842141.vsix";
+      sha256 = "sha256-SIMl6EpdxEv3FGwrkIuhTWzaJJi5CW0hPhX801nEcJE=";
     };
     license = "MIT";
     name = "vscode-front-matter-beta";
@@ -8820,6 +8820,18 @@
     name = "prettier-for-handlebars-vscode";
     description = "Prettier formatting for Handlebars files - Clone of handlebars-formatter";
     publisher = "embertooling";
+  };
+  emeraldwalk-RunOnSave = {
+    pname = "emeraldwalk-RunOnSave";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/emeraldwalk/RunOnSave/0.1.0/file/emeraldwalk.RunOnSave-0.1.0.vsix";
+      sha256 = "sha256-71PIItwmlP4jjiRucSEz3FKLobmKPucC1wx4zyMDuv8=";
+    };
+    license = "Apache-2.0";
+    name = "RunOnSave";
+    description = "Run commands when a file is saved in vscode.";
+    publisher = "emeraldwalk";
   };
   emilast-LogFileHighlighter = {
     pname = "emilast-LogFileHighlighter";
