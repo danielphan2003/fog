@@ -4382,11 +4382,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-32S5w1O0NV6B/E3zWYcx+bKHK0xWB2OyJxSi80ExMHs=",
+            "sha256": "sha256-4LiZwz6ODJ0xlzZ9+0DohqHkqYDqNGGPtBVZmZpG9lA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.4.6/file/NomicFoundation.hardhat-solidity-0.4.6.vsix"
+            "url": "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.0/file/NomicFoundation.hardhat-solidity-0.5.0.vsix"
         },
-        "version": "0.4.6"
+        "version": "0.5.0"
     },
     "OBKoro1-autoCommit": {
         "cargoLocks": null,
@@ -12937,6 +12937,25 @@
             "url": "https://open-vsx.org/api/devfactory/cloudfix-linter/0.0.4/file/devfactory.cloudfix-linter-0.0.4.vsix"
         },
         "version": "0.0.4"
+    },
+    "devfactory-multispace": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "devfactory-multispace",
+        "passthru": {
+            "description": "Take Devspaces to the next level with Multispace that allows multiple services each running in a different Devspace to act as a single dev environment",
+            "license": "MIT",
+            "name": "multispace",
+            "publisher": "devfactory"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-hYvgZhmRcamEwRTIM1pjy2qElGf70ViONle9bGt40Zk=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.70/file/devfactory.multispace-0.0.70.vsix"
+        },
+        "version": "0.0.70"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -30792,11 +30811,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YNxi6CDHghfDyyisRlD+BOuVDRvrvgLH+JT7mxeY9Dk=",
+            "sha256": "sha256-BvuliNjmfrdYoJQu4wSFSOoXo0AtLWC0Io8tWIUnmdA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.9.2/file/statelyai.stately-vscode-1.9.2.vsix"
+            "url": "https://open-vsx.org/api/statelyai/stately-vscode/1.9.3/file/statelyai.stately-vscode-1.9.3.vsix"
         },
-        "version": "1.9.2"
+        "version": "1.9.3"
     },
     "steedos-steedosdx-vscode": {
         "cargoLocks": null,

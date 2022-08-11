@@ -2763,10 +2763,10 @@
   };
   NomicFoundation-hardhat-solidity = {
     pname = "NomicFoundation-hardhat-solidity";
-    version = "0.4.6";
+    version = "0.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.4.6/file/NomicFoundation.hardhat-solidity-0.4.6.vsix";
-      sha256 = "sha256-32S5w1O0NV6B/E3zWYcx+bKHK0xWB2OyJxSi80ExMHs=";
+      url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.0/file/NomicFoundation.hardhat-solidity-0.5.0.vsix";
+      sha256 = "sha256-4LiZwz6ODJ0xlzZ9+0DohqHkqYDqNGGPtBVZmZpG9lA=";
     };
     license = "MIT";
     name = "hardhat-solidity";
@@ -8171,6 +8171,18 @@
     license = "MIT";
     name = "cloudfix-linter";
     description = "Brings Cloudfix recommendations into your IDE for terraform";
+    publisher = "devfactory";
+  };
+  devfactory-multispace = {
+    pname = "devfactory-multispace";
+    version = "0.0.70";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/devfactory/multispace/0.0.70/file/devfactory.multispace-0.0.70.vsix";
+      sha256 = "sha256-hYvgZhmRcamEwRTIM1pjy2qElGf70ViONle9bGt40Zk=";
+    };
+    license = "MIT";
+    name = "multispace";
+    description = "Take Devspaces to the next level with Multispace that allows multiple services each running in a different Devspace to act as a single dev environment";
     publisher = "devfactory";
   };
   devsense-phptools-vscode = {
@@ -19443,10 +19455,10 @@
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
-    version = "1.9.2";
+    version = "1.9.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.2/file/statelyai.stately-vscode-1.9.2.vsix";
-      sha256 = "sha256-YNxi6CDHghfDyyisRlD+BOuVDRvrvgLH+JT7mxeY9Dk=";
+      url = "https://open-vsx.org/api/statelyai/stately-vscode/1.9.3/file/statelyai.stately-vscode-1.9.3.vsix";
+      sha256 = "sha256-BvuliNjmfrdYoJQu4wSFSOoXo0AtLWC0Io8tWIUnmdA=";
     };
     license = "MIT";
     name = "stately-vscode";
