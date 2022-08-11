@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1290";
+    version = "31.0.1291";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1290/file/Prisma.prisma-insider-31.0.1290.vsix";
-      sha256 = "sha256-BlNLOks5saT5xw5d+Z5z5fNoEr9zMVx3Jvy1Sg66xac=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1291/file/Prisma.prisma-insider-31.0.1291.vsix";
+      sha256 = "sha256-KfboVZ6d890FXe6q+hE77aOEAaDdto5y5QjczGWnufs=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -4323,10 +4323,10 @@
   };
   _42Crunch-vscode-openapi = {
     pname = "_42Crunch-vscode-openapi";
-    version = "4.11.4";
+    version = "4.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.4/file/42Crunch.vscode-openapi-4.11.4.vsix";
-      sha256 = "sha256-9rAKLbiC9FkuQkkRDe+tVWGB/SPuwTBttigei3roC6U=";
+      url = "https://open-vsx.org/api/42Crunch/vscode-openapi/4.12.0/file/42Crunch.vscode-openapi-4.12.0.vsix";
+      sha256 = "sha256-LQiBjvkFVWfrJjKHgT5z4Q4Oo9exFhEzU6qCCSRFAcw=";
     };
     license = "AGPL-3.0-only";
     name = "vscode-openapi";
@@ -8967,10 +8967,10 @@
   };
   errata-ai-vale-server = {
     pname = "errata-ai-vale-server";
-    version = "0.15.1";
+    version = "0.15.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/errata-ai/vale-server/0.15.1/file/errata-ai.vale-server-0.15.1.vsix";
-      sha256 = "sha256-WwVHz+5k1WX5aZ9hihNOgVBBqfAvKFJTMS2kz9dq7Mg=";
+      url = "https://open-vsx.org/api/errata-ai/vale-server/0.15.2/file/errata-ai.vale-server-0.15.2.vsix";
+      sha256 = "sha256-Va9RNXoWGBWCVvNPzuZuYmU8Z3unVJBX5EGPsEprJkQ=";
     };
     license = "MIT";
     name = "vale-server";

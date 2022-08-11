@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BlNLOks5saT5xw5d+Z5z5fNoEr9zMVx3Jvy1Sg66xac=",
+            "sha256": "sha256-KfboVZ6d890FXe6q+hE77aOEAaDdto5y5QjczGWnufs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1290/file/Prisma.prisma-insider-31.0.1290.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1291/file/Prisma.prisma-insider-31.0.1291.vsix"
         },
-        "version": "31.0.1290"
+        "version": "31.0.1291"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -6852,11 +6852,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9rAKLbiC9FkuQkkRDe+tVWGB/SPuwTBttigei3roC6U=",
+            "sha256": "sha256-LQiBjvkFVWfrJjKHgT5z4Q4Oo9exFhEzU6qCCSRFAcw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.11.4/file/42Crunch.vscode-openapi-4.11.4.vsix"
+            "url": "https://open-vsx.org/api/42Crunch/vscode-openapi/4.12.0/file/42Crunch.vscode-openapi-4.12.0.vsix"
         },
-        "version": "4.11.4"
+        "version": "4.12.0"
     },
     "_4ops-terraform": {
         "cargoLocks": null,
@@ -14205,11 +14205,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WwVHz+5k1WX5aZ9hihNOgVBBqfAvKFJTMS2kz9dq7Mg=",
+            "sha256": "sha256-Va9RNXoWGBWCVvNPzuZuYmU8Z3unVJBX5EGPsEprJkQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/errata-ai/vale-server/0.15.1/file/errata-ai.vale-server-0.15.1.vsix"
+            "url": "https://open-vsx.org/api/errata-ai/vale-server/0.15.2/file/errata-ai.vale-server-0.15.2.vsix"
         },
-        "version": "0.15.1"
+        "version": "0.15.2"
     },
     "esbenp-prettier-vscode": {
         "cargoLocks": null,
