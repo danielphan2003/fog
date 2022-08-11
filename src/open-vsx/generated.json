@@ -5522,11 +5522,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-v8nMWhz/HNCC2uQ9CDaNIxTE+amGLiJ/H8AbI1NzxCk=",
+            "sha256": "sha256-maiTACG6XpEnhUI+nuMgM67Pltn3+FXUTIFa2/gDvS4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1011/file/Slint.slint-nightly-2022.8.1011.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1017/file/Slint.slint-nightly-2022.8.1017.vsix"
         },
-        "version": "2022.8.1011"
+        "version": "2022.8.1017"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
