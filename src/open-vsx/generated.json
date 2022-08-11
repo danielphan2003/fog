@@ -23154,11 +23154,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ASWHxA5Jagukq4e3lhudHD/cFtoQKenBR09PbCOfPuI=",
+            "sha256": "sha256-9NRdnQU5UDb+ChV7+KuQRwJVxVb0gYzfY7ve4fgDfSw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.6/file/ms-playwright.playwright-0.2.6.vsix"
+            "url": "https://open-vsx.org/api/ms-playwright/playwright/0.2.7/file/ms-playwright.playwright-0.2.7.vsix"
         },
-        "version": "0.2.6"
+        "version": "0.2.7"
     },
     "ms-pyright-pyright": {
         "cargoLocks": null,
@@ -24446,11 +24446,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FUCYN/swCc0L21KL1cTreByrRLpNMiFR9AEsAGpSSOw=",
+            "sha256": "sha256-QEYV3uzhL5tyrtpgGEVTU7urYb+cZ3OuvsEo//lzYTg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.6/file/mutable-ai.mutable-ai-1.1.6.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.9/file/mutable-ai.mutable-ai-1.1.9.vsix"
         },
-        "version": "1.1.6"
+        "version": "1.1.9"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -36264,11 +36264,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yCmXoZBAGc1ZDfp/OrANlkKtRStcfPR+EygkpgwY+nY=",
+            "sha256": "sha256-NCB4hhtFIu588f/Msq03miNMTAMWYZmE8/r9okcRE2s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vsls-contrib/gitdoc/0.0.8/file/vsls-contrib.gitdoc-0.0.8.vsix"
+            "url": "https://open-vsx.org/api/vsls-contrib/gitdoc/0.1.0/file/vsls-contrib.gitdoc-0.1.0.vsix"
         },
-        "version": "0.0.8"
+        "version": "0.1.0"
     },
     "vsrs-cross-rust-analyzer": {
         "cargoLocks": null,

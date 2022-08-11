@@ -14619,10 +14619,10 @@
   };
   ms-playwright-playwright = {
     pname = "ms-playwright-playwright";
-    version = "0.2.6";
+    version = "0.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.6/file/ms-playwright.playwright-0.2.6.vsix";
-      sha256 = "sha256-ASWHxA5Jagukq4e3lhudHD/cFtoQKenBR09PbCOfPuI=";
+      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.7/file/ms-playwright.playwright-0.2.7.vsix";
+      sha256 = "sha256-9NRdnQU5UDb+ChV7+KuQRwJVxVb0gYzfY7ve4fgDfSw=";
     };
     license = "Apache-2.0";
     name = "playwright";
@@ -15435,10 +15435,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.6";
+    version = "1.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.6/file/mutable-ai.mutable-ai-1.1.6.vsix";
-      sha256 = "sha256-FUCYN/swCc0L21KL1cTreByrRLpNMiFR9AEsAGpSSOw=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.9/file/mutable-ai.mutable-ai-1.1.9.vsix";
+      sha256 = "sha256-QEYV3uzhL5tyrtpgGEVTU7urYb+cZ3OuvsEo//lzYTg=";
     };
     license = "";
     name = "mutable-ai";
@@ -22899,10 +22899,10 @@
   };
   vsls-contrib-gitdoc = {
     pname = "vsls-contrib-gitdoc";
-    version = "0.0.8";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vsls-contrib/gitdoc/0.0.8/file/vsls-contrib.gitdoc-0.0.8.vsix";
-      sha256 = "sha256-yCmXoZBAGc1ZDfp/OrANlkKtRStcfPR+EygkpgwY+nY=";
+      url = "https://open-vsx.org/api/vsls-contrib/gitdoc/0.1.0/file/vsls-contrib.gitdoc-0.1.0.vsix";
+      sha256 = "sha256-NCB4hhtFIu588f/Msq03miNMTAMWYZmE8/r9okcRE2s=";
     };
     license = "MIT";
     name = "gitdoc";
