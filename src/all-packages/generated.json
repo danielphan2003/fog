@@ -1297,7 +1297,7 @@
     "playit-agent": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./playit-agent-d07a302a2164f59505f5c862be9760d9442dddfc/Cargo.lock",
+                "./playit-agent-6da18954c4b8b0cd122756c34e55a3a923278a8c/Cargo.lock",
                 {
                     "webbrowser-0.5.5": "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M="
                 }
@@ -1314,11 +1314,11 @@
             "name": null,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "rev": "d07a302a2164f59505f5c862be9760d9442dddfc",
-            "sha256": "sha256-Q/UlWDBg/pGWeaiwzPQPrnio6uahsfWUcmIc45t9aXM=",
+            "rev": "6da18954c4b8b0cd122756c34e55a3a923278a8c",
+            "sha256": "sha256-mWOmVI9GGYRI4jvHNgEfggZtn3FGUPbxN91D94Jmias=",
             "type": "github"
         },
-        "version": "d07a302a2164f59505f5c862be9760d9442dddfc"
+        "version": "6da18954c4b8b0cd122756c34e55a3a923278a8c"
     },
     "plymouth-themes": {
         "cargoLocks": null,
@@ -1805,11 +1805,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "2ed19a358cb8cec8a78945bb1fbce70bbae8c298",
-            "sha256": "sha256-U8hIBPmpLY4hiT24Snf95lXsCw3/NPfytzfZvPlPk2g=",
+            "rev": "040676649b544e1fb61491f6f361ea93ececb81a",
+            "sha256": "sha256-RfU5BmXoGHXQNLvvdE8pPWnpZ4NTwQIpPMzxi+cQcLc=",
             "type": "github"
         },
-        "version": "2ed19a358cb8cec8a78945bb1fbce70bbae8c298"
+        "version": "040676649b544e1fb61491f6f361ea93ececb81a"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "76b0e578c5193a96636f821aa3702796ac17f9b5",
-            "sha256": "sha256-CGsjm2JUuMGWftF0nr+RfdcTjZj5wx4cTYkg7m56HNI=",
+            "rev": "1c3c6b538214ea57193af01eac29c76a5ad53a10",
+            "sha256": "sha256-AMnWkRWjBYCAT6eXeARyKXiBJoOEEcjUtOvGdE3V/KU=",
             "type": "github"
         },
-        "version": "76b0e578c5193a96636f821aa3702796ac17f9b5"
+        "version": "1c3c6b538214ea57193af01eac29c76a5ad53a10"
     },
     "tailscale-systray": {
         "cargoLocks": null,

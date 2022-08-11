@@ -781,16 +781,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "d07a302a2164f59505f5c862be9760d9442dddfc";
+    version = "6da18954c4b8b0cd122756c34e55a3a923278a8c";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "d07a302a2164f59505f5c862be9760d9442dddfc";
+      rev = "6da18954c4b8b0cd122756c34e55a3a923278a8c";
       fetchSubmodules = false;
-      sha256 = "sha256-Q/UlWDBg/pGWeaiwzPQPrnio6uahsfWUcmIc45t9aXM=";
+      sha256 = "sha256-mWOmVI9GGYRI4jvHNgEfggZtn3FGUPbxN91D94Jmias=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-d07a302a2164f59505f5c862be9760d9442dddfc/Cargo.lock;
+      lockFile = ./playit-agent-6da18954c4b8b0cd122756c34e55a3a923278a8c/Cargo.lock;
       outputHashes = {
         "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
       };
@@ -1082,13 +1082,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "2ed19a358cb8cec8a78945bb1fbce70bbae8c298";
+    version = "040676649b544e1fb61491f6f361ea93ececb81a";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "2ed19a358cb8cec8a78945bb1fbce70bbae8c298";
+      rev = "040676649b544e1fb61491f6f361ea93ececb81a";
       fetchSubmodules = false;
-      sha256 = "sha256-U8hIBPmpLY4hiT24Snf95lXsCw3/NPfytzfZvPlPk2g=";
+      sha256 = "sha256-RfU5BmXoGHXQNLvvdE8pPWnpZ4NTwQIpPMzxi+cQcLc=";
     });
   };
   spicetify-marketplace = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "76b0e578c5193a96636f821aa3702796ac17f9b5";
+    version = "1c3c6b538214ea57193af01eac29c76a5ad53a10";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "76b0e578c5193a96636f821aa3702796ac17f9b5";
+      rev = "1c3c6b538214ea57193af01eac29c76a5ad53a10";
       fetchSubmodules = false;
-      sha256 = "sha256-CGsjm2JUuMGWftF0nr+RfdcTjZj5wx4cTYkg7m56HNI=";
+      sha256 = "sha256-AMnWkRWjBYCAT6eXeARyKXiBJoOEEcjUtOvGdE3V/KU=";
     });
   };
   tailscale-systray = {
