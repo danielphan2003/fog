@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "3c1cc59d599bb5dcb2adf327d059601ada5bb5e4",
-            "sha256": "sha256-7A4mpFHdKj+0MnZGw6MeIwe4lBYCZwby2yFGWpC9PIs=",
+            "rev": "0cf5aac591028ccb5ed760bd25853e7ad7dd023c",
+            "sha256": "sha256-id8feRgyrT1kOap8Noa+j2g4c4haJsMF3EXtuKAs3kA=",
             "type": "github"
         },
-        "version": "3c1cc59d599bb5dcb2adf327d059601ada5bb5e4"
+        "version": "0cf5aac591028ccb5ed760bd25853e7ad7dd023c"
     },
     "cinny-bin": {
         "cargoLocks": null,
