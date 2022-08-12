@@ -15483,10 +15483,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.9";
+    version = "1.1.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.9/file/mutable-ai.mutable-ai-1.1.9.vsix";
-      sha256 = "sha256-QEYV3uzhL5tyrtpgGEVTU7urYb+cZ3OuvsEo//lzYTg=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.10/file/mutable-ai.mutable-ai-1.1.10.vsix";
+      sha256 = "sha256-3fjrbtxITYyEdmcHS+huGDChlcGk2OFnyQVMRxbNh/A=";
     };
     license = "";
     name = "mutable-ai";
@@ -17919,10 +17919,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.9";
+    version = "1.0.10";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.9/file/remcohaszing.schemastore-1.0.9.vsix";
-      sha256 = "sha256-cjI+HZ8XUEmscKNMDEBF/XhPwG5M4KqL2qeBJ7mPhus=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.10/file/remcohaszing.schemastore-1.0.10.vsix";
+      sha256 = "sha256-vTbinRcGEkT4MxmVguoJjRe+Tu+qGBi6Gm/SHoflTig=";
     };
     license = "MIT";
     name = "schemastore";
