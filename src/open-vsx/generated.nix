@@ -375,10 +375,10 @@
   };
   BroadcomMFD-explorer-for-endevor = {
     pname = "BroadcomMFD-explorer-for-endevor";
-    version = "1.1.1";
+    version = "1.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.1.1/file/BroadcomMFD.explorer-for-endevor-1.1.1.vsix";
-      sha256 = "sha256-B57+ocBLYBeF/muCIye6HOFLkSOtc+VBP+nckBNyEKs=";
+      url = "https://open-vsx.org/api/BroadcomMFD/explorer-for-endevor/1.2.0/file/BroadcomMFD.explorer-for-endevor-1.2.0.vsix";
+      sha256 = "sha256-cKWCAryGJlvGRjae7HLtaJuhOzex+ZPgavcpKSrp0BE=";
     };
     license = "EPL-2.0";
     name = "explorer-for-endevor";
@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1293";
+    version = "31.0.1294";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1293/file/Prisma.prisma-insider-31.0.1293.vsix";
-      sha256 = "sha256-h9em+Kibte72K+gxkd+JtQLi0N3FA4IRgtAqMCWaayQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1294/file/Prisma.prisma-insider-31.0.1294.vsix";
+      sha256 = "sha256-3Rd3kqcaOR4cXJls2pD0fuOYRPX4EJvlSwISHMkPb1E=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5763,10 +5763,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.21.0";
+    version = "0.21.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.21.0/file/astro-build.astro-vscode-0.21.0.vsix";
-      sha256 = "sha256-+aRehog4d99AWHA3s8XAkY19LG/G4VMr9XWDnFogihc=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.21.1/file/astro-build.astro-vscode-0.21.1.vsix";
+      sha256 = "sha256-UfpJ1hEdsNCYRn2iUe0OjJvK3Z12TudGydRx/Na7n5Q=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -19875,10 +19875,10 @@
   };
   streetsidesoftware-code-spell-checker-portuguese = {
     pname = "streetsidesoftware-code-spell-checker-portuguese";
-    version = "0.1.13";
+    version = "1.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-portuguese/0.1.13/file/streetsidesoftware.code-spell-checker-portuguese-0.1.13.vsix";
-      sha256 = "sha256-6NeNXrfmE/oFGw6IVR59fmqMIACn1XoZjqngwFJzs0s=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-portuguese/1.0.3/file/streetsidesoftware.code-spell-checker-portuguese-1.0.3.vsix";
+      sha256 = "sha256-1WYWqCQKP0YmpLRMxyNq4zL+iXRFz44HqlZDlcfoEw0=";
     };
     license = "MIT";
     name = "code-spell-checker-portuguese";
@@ -23943,10 +23943,10 @@
   };
   zardoy-npm-rapid-ready = {
     pname = "zardoy-npm-rapid-ready";
-    version = "0.2.2";
+    version = "0.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.2/file/zardoy.npm-rapid-ready-0.2.2.vsix";
-      sha256 = "sha256-ewg+gOj7MNVqLZBDtkV3eoifGc1/qdW9RMCrnH3ok54=";
+      url = "https://open-vsx.org/api/zardoy/npm-rapid-ready/0.2.3/file/zardoy.npm-rapid-ready-0.2.3.vsix";
+      sha256 = "sha256-XF5td+bCHkO6VoEbjzpeyhLE4AB++ZZNwWKQm6pF5Rw=";
     };
     license = "MIT";
     name = "npm-rapid-ready";
