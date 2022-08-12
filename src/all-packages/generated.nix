@@ -96,19 +96,19 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "45268bfb2bdabca8f1262b323047677135c4123f";
+    version = "b20bde811697e37f9abd4281795081f5a5429ea4";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "45268bfb2bdabca8f1262b323047677135c4123f";
+      rev = "b20bde811697e37f9abd4281795081f5a5429ea4";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-xSEMmcTCnUGmb1QJm924eOiS1aPj9LK0nwI1H1SELuE=";
+      sha256 = "sha256-DmGB9k6n+wgg28E0gEWhsbjj8rFKcBhmet2h64AQhmM=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-45268bfb2bdabca8f1262b323047677135c4123f/Cargo.lock;
+      lockFile = ./asusctl-b20bde811697e37f9abd4281795081f5a5429ea4/Cargo.lock;
       outputHashes = {
-        "eframe-0.18.0" = "sha256-7tRHLzUN78YA861slm3QfOluO8OXEyrNRkW4UZzn1kQ=";
+        "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
     };
   };
