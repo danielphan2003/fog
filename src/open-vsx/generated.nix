@@ -7155,10 +7155,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.19";
+    version = "0.0.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.19/file/cloudstudio.workspaces-0.0.19.vsix";
-      sha256 = "sha256-C16MiWcVShqyUgzYCo3MJiGEF0g0eSElLXLBbssA3hU=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.20/file/cloudstudio.workspaces-0.0.20.vsix";
+      sha256 = "sha256-XJiNP7xPFKkt3Z9X+oE8R5PAuygNqxQR1nNJNOrX4fw=";
     };
     license = "MIT";
     name = "workspaces";
@@ -8127,10 +8127,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.107.4";
+    version = "0.107.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.107.4/file/dendron.nightly-0.107.4.vsix";
-      sha256 = "sha256-/s57RxaJCCnByMvBLGQ61TKWKjqZPoqaBIIt8wbMf8k=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.107.5/file/dendron.nightly-0.107.5.vsix";
+      sha256 = "sha256-mswG382E9u9o9N+1VIa8dOmG57befTSUtqr8I65/yTw=";
     };
     license = "AGPL-3.0";
     name = "nightly";
