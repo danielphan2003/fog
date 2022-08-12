@@ -1311,10 +1311,10 @@
   };
   GitLab-gitlab-workflow = {
     pname = "GitLab-gitlab-workflow";
-    version = "3.48.0";
+    version = "3.48.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.48.0/file/GitLab.gitlab-workflow-3.48.0.vsix";
-      sha256 = "sha256-CpaB+PmOP2QQYQuO+/7wGkKOONfDviSTtn8k0K8pPWk=";
+      url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.48.1/file/GitLab.gitlab-workflow-3.48.1.vsix";
+      sha256 = "sha256-N7irpTBAqxH2KbsjOTyGhr70CtZVXnY1MW0CIQ4Qzjc=";
     };
     license = "MIT";
     name = "gitlab-workflow";
@@ -2979,10 +2979,10 @@
   };
   Pivotal-vscode-bosh = {
     pname = "Pivotal-vscode-bosh";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.37.0/file/Pivotal.vscode-bosh-1.37.0.vsix";
-      sha256 = "sha256-jSGv+hXvJpWrWXYCGfD93XCypEQXi0UTmHv33TYFO7c=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-bosh/1.38.0/file/Pivotal.vscode-bosh-1.38.0.vsix";
+      sha256 = "sha256-3GjfNvLYjBdTa7BTPG0EkB1AWGNjWWL9Q91KoaZwSRQ=";
     };
     license = "EPL-1.0";
     name = "vscode-bosh";
@@ -2991,10 +2991,10 @@
   };
   Pivotal-vscode-concourse = {
     pname = "Pivotal-vscode-concourse";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.37.0/file/Pivotal.vscode-concourse-1.37.0.vsix";
-      sha256 = "sha256-71PFW2qsWLcQQZ1veOquEeVmA6dda0PCp9whB/qMLrg=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-concourse/1.38.0/file/Pivotal.vscode-concourse-1.38.0.vsix";
+      sha256 = "sha256-GzrM9xLvO32e9ODx+/hzMu1iBSLyoEBLnc+J6G4jGpc=";
     };
     license = "EPL-1.0";
     name = "vscode-concourse";
@@ -3003,10 +3003,10 @@
   };
   Pivotal-vscode-manifest-yaml = {
     pname = "Pivotal-vscode-manifest-yaml";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.37.0/file/Pivotal.vscode-manifest-yaml-1.37.0.vsix";
-      sha256 = "sha256-DCQHmiDnKiRe/P7h/renGFH/X5SlSjrcsNSBjOpbogc=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.38.0/file/Pivotal.vscode-manifest-yaml-1.38.0.vsix";
+      sha256 = "sha256-pkkyvQgmuOatlBOLDWtFaT6clSlmGEg+nATP5KN9Elg=";
     };
     license = "EPL-1.0";
     name = "vscode-manifest-yaml";
@@ -3015,10 +3015,10 @@
   };
   Pivotal-vscode-spring-boot = {
     pname = "Pivotal-vscode-spring-boot";
-    version = "1.37.0";
+    version = "1.38.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.37.0/file/Pivotal.vscode-spring-boot-1.37.0.vsix";
-      sha256 = "sha256-Nq7cxHR91OhZxQmkxDAC+VxbkQcIYv6rIAsH4gd2ocY=";
+      url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Pivotal.vscode-spring-boot-1.38.0.vsix";
+      sha256 = "sha256-ZiKmt2VaVHNHgPkjWBCWCFS/VVfaqukS6NfX21u4f44=";
     };
     license = "EPL-1.0";
     name = "vscode-spring-boot";
@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1291";
+    version = "31.0.1292";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1291/file/Prisma.prisma-insider-31.0.1291.vsix";
-      sha256 = "sha256-KfboVZ6d890FXe6q+hE77aOEAaDdto5y5QjczGWnufs=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1292/file/Prisma.prisma-insider-31.0.1292.vsix";
+      sha256 = "sha256-KmJj1oYuNhF1EmTTBoWnIK52VTo5tVhGi3nIKmYVhkc=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8735,6 +8735,42 @@
     license = "MIT";
     name = "vscode-front-matter-beta";
     description = "BETA Version of Front Matter. Front Matter is a CMS that runs within Visual Studio Code. It gives you the power and control of a full-blown CMS while also providing you the flexibility and speed of the static site generator of your choice like: Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...";
+    publisher = "eliostruyf";
+  };
+  eliostruyf-vscode-hide-comments = {
+    pname = "eliostruyf-vscode-hide-comments";
+    version = "1.6.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/eliostruyf/vscode-hide-comments/1.6.0/file/eliostruyf.vscode-hide-comments-1.6.0.vsix";
+      sha256 = "sha256-dHIHhl3A0l5dH6IPA4mHWf6gPA7aqG+uIFdB0uzV/SM=";
+    };
+    license = "MIT";
+    name = "vscode-hide-comments";
+    description = "VSCode extension for people that do not like to see comments in the code. It allows you to hide/show comments in the code.";
+    publisher = "eliostruyf";
+  };
+  eliostruyf-vscode-typescript-exportallmodules = {
+    pname = "eliostruyf-vscode-typescript-exportallmodules";
+    version = "2.5.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/eliostruyf/vscode-typescript-exportallmodules/2.5.0/file/eliostruyf.vscode-typescript-exportallmodules-2.5.0.vsix";
+      sha256 = "sha256-LMOrYfFWs13Ss44iPKNhpQ1Gr24LqtQlkF5s2dluCJ4=";
+    };
+    license = "MIT";
+    name = "vscode-typescript-exportallmodules";
+    description = "VSCode extension which generates a barrel `index.ts` file with all the module exports from the current directory.";
+    publisher = "eliostruyf";
+  };
+  eliostruyf-vscode-unnamed-theme = {
+    pname = "eliostruyf-vscode-unnamed-theme";
+    version = "1.12.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/eliostruyf/vscode-unnamed-theme/1.12.0/file/eliostruyf.vscode-unnamed-theme-1.12.0.vsix";
+      sha256 = "sha256-JiLxE/Agj5GxeM6MH4f1x56caIHnbtgZKNpsNZo4A6k=";
+    };
+    license = "MIT";
+    name = "vscode-unnamed-theme";
+    description = "A VSCode dark theme with vivid colors. Made for developers that want to spice up their editor.";
     publisher = "eliostruyf";
   };
   eliutdev-bulma-css-class-completion = {

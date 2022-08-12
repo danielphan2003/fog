@@ -2083,11 +2083,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CpaB+PmOP2QQYQuO+/7wGkKOONfDviSTtn8k0K8pPWk=",
+            "sha256": "sha256-N7irpTBAqxH2KbsjOTyGhr70CtZVXnY1MW0CIQ4Qzjc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.48.0/file/GitLab.gitlab-workflow-3.48.0.vsix"
+            "url": "https://open-vsx.org/api/GitLab/gitlab-workflow/3.48.1/file/GitLab.gitlab-workflow-3.48.1.vsix"
         },
-        "version": "3.48.0"
+        "version": "3.48.1"
     },
     "GrapeCity-gc-excelviewer": {
         "cargoLocks": null,
@@ -4724,11 +4724,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jSGv+hXvJpWrWXYCGfD93XCypEQXi0UTmHv33TYFO7c=",
+            "sha256": "sha256-3GjfNvLYjBdTa7BTPG0EkB1AWGNjWWL9Q91KoaZwSRQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.37.0/file/Pivotal.vscode-bosh-1.37.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-bosh/1.38.0/file/Pivotal.vscode-bosh-1.38.0.vsix"
         },
-        "version": "1.37.0"
+        "version": "1.38.0"
     },
     "Pivotal-vscode-concourse": {
         "cargoLocks": null,
@@ -4743,11 +4743,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-71PFW2qsWLcQQZ1veOquEeVmA6dda0PCp9whB/qMLrg=",
+            "sha256": "sha256-GzrM9xLvO32e9ODx+/hzMu1iBSLyoEBLnc+J6G4jGpc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.37.0/file/Pivotal.vscode-concourse-1.37.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-concourse/1.38.0/file/Pivotal.vscode-concourse-1.38.0.vsix"
         },
-        "version": "1.37.0"
+        "version": "1.38.0"
     },
     "Pivotal-vscode-manifest-yaml": {
         "cargoLocks": null,
@@ -4762,11 +4762,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DCQHmiDnKiRe/P7h/renGFH/X5SlSjrcsNSBjOpbogc=",
+            "sha256": "sha256-pkkyvQgmuOatlBOLDWtFaT6clSlmGEg+nATP5KN9Elg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.37.0/file/Pivotal.vscode-manifest-yaml-1.37.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-manifest-yaml/1.38.0/file/Pivotal.vscode-manifest-yaml-1.38.0.vsix"
         },
-        "version": "1.37.0"
+        "version": "1.38.0"
     },
     "Pivotal-vscode-spring-boot": {
         "cargoLocks": null,
@@ -4781,11 +4781,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Nq7cxHR91OhZxQmkxDAC+VxbkQcIYv6rIAsH4gd2ocY=",
+            "sha256": "sha256-ZiKmt2VaVHNHgPkjWBCWCFS/VVfaqukS6NfX21u4f44=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.37.0/file/Pivotal.vscode-spring-boot-1.37.0.vsix"
+            "url": "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Pivotal.vscode-spring-boot-1.38.0.vsix"
         },
-        "version": "1.37.0"
+        "version": "1.38.0"
     },
     "PolyMeilex-wgsl": {
         "cargoLocks": null,
@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KfboVZ6d890FXe6q+hE77aOEAaDdto5y5QjczGWnufs=",
+            "sha256": "sha256-KmJj1oYuNhF1EmTTBoWnIK52VTo5tVhGi3nIKmYVhkc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1291/file/Prisma.prisma-insider-31.0.1291.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1292/file/Prisma.prisma-insider-31.0.1292.vsix"
         },
-        "version": "31.0.1291"
+        "version": "31.0.1292"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -13830,6 +13830,63 @@
             "url": "https://open-vsx.org/api/eliostruyf/vscode-front-matter-beta/8.0.2842141/file/eliostruyf.vscode-front-matter-beta-8.0.2842141.vsix"
         },
         "version": "8.0.2842141"
+    },
+    "eliostruyf-vscode-hide-comments": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "eliostruyf-vscode-hide-comments",
+        "passthru": {
+            "description": "VSCode extension for people that do not like to see comments in the code. It allows you to hide/show comments in the code.",
+            "license": "MIT",
+            "name": "vscode-hide-comments",
+            "publisher": "eliostruyf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-dHIHhl3A0l5dH6IPA4mHWf6gPA7aqG+uIFdB0uzV/SM=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-hide-comments/1.6.0/file/eliostruyf.vscode-hide-comments-1.6.0.vsix"
+        },
+        "version": "1.6.0"
+    },
+    "eliostruyf-vscode-typescript-exportallmodules": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "eliostruyf-vscode-typescript-exportallmodules",
+        "passthru": {
+            "description": "VSCode extension which generates a barrel `index.ts` file with all the module exports from the current directory.",
+            "license": "MIT",
+            "name": "vscode-typescript-exportallmodules",
+            "publisher": "eliostruyf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-LMOrYfFWs13Ss44iPKNhpQ1Gr24LqtQlkF5s2dluCJ4=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-typescript-exportallmodules/2.5.0/file/eliostruyf.vscode-typescript-exportallmodules-2.5.0.vsix"
+        },
+        "version": "2.5.0"
+    },
+    "eliostruyf-vscode-unnamed-theme": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "eliostruyf-vscode-unnamed-theme",
+        "passthru": {
+            "description": "A VSCode dark theme with vivid colors. Made for developers that want to spice up their editor.",
+            "license": "MIT",
+            "name": "vscode-unnamed-theme",
+            "publisher": "eliostruyf"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-JiLxE/Agj5GxeM6MH4f1x56caIHnbtgZKNpsNZo4A6k=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/eliostruyf/vscode-unnamed-theme/1.12.0/file/eliostruyf.vscode-unnamed-theme-1.12.0.vsix"
+        },
+        "version": "1.12.0"
     },
     "eliutdev-bulma-css-class-completion": {
         "cargoLocks": null,
