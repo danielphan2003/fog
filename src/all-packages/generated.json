@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "214d49f1d973814a2a9f29378232aae7027832b6",
-            "sha256": "sha256-byfK7H/Z85ANvMGVaEtTNkcS/W3ASlk2iXA5JHnYgKs=",
+            "rev": "af6995580179275f8969a6fec4f8ccc37bcc2a17",
+            "sha256": "sha256-uHMBgHPdc106rHXRcpIyltV0u/lZVf+65AV+2fMbfL8=",
             "type": "github"
         },
-        "version": "214d49f1d973814a2a9f29378232aae7027832b6"
+        "version": "af6995580179275f8969a6fec4f8ccc37bcc2a17"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -1614,7 +1614,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-fcfa9c8b9dce1a8e802ba819d9915cb15a5e61bb/Cargo.lock",
+                "./rustdesk-458b3619ca0075ffb2c515b91bd354e9bfb2aa7e/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1641,11 +1641,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "fcfa9c8b9dce1a8e802ba819d9915cb15a5e61bb",
-            "sha256": "sha256-OWNGMjO1wlEHkZwYHZGnyR69pMUHrp8kK6L5Ttwgocc=",
+            "rev": "458b3619ca0075ffb2c515b91bd354e9bfb2aa7e",
+            "sha256": "sha256-aG03SHQPCUeFpBrs2lFiQfs2PyBdyJWVD6dHARRMIdo=",
             "type": "github"
         },
-        "version": "fcfa9c8b9dce1a8e802ba819d9915cb15a5e61bb"
+        "version": "458b3619ca0075ffb2c515b91bd354e9bfb2aa7e"
     },
     "rustdesk-server": {
         "cargoLocks": {
