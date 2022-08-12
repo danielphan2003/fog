@@ -632,13 +632,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "e2bc480cc39cfd8436aa1bc08cd510eef96956df";
+    version = "7961ce0fa5d4534af2f963abecbc1cc65ed38a51";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "e2bc480cc39cfd8436aa1bc08cd510eef96956df";
+      rev = "7961ce0fa5d4534af2f963abecbc1cc65ed38a51";
       fetchSubmodules = false;
-      sha256 = "sha256-SEbrVXoMPxhfjT2GR2gzuqx1ks1+yrX6lVWiUNF7oX8=";
+      sha256 = "sha256-tSH8UfjfubIQupSZ9T9SbbKnJcFfGDj4DLDkOpKtGMs=";
     });
   };
   microsoft-edge-beta = {
@@ -705,13 +705,13 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "51681bac58380502fde082708e5f4ab5add876ef";
+    version = "540df1c7654aa98d2748c7afbe87179d3b84977a";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "ntfs2btrfs";
-      rev = "51681bac58380502fde082708e5f4ab5add876ef";
+      rev = "540df1c7654aa98d2748c7afbe87179d3b84977a";
       fetchSubmodules = false;
-      sha256 = "sha256-zB9D12QU3lgfwnEnroN/jp89a7LsWrGKo3Ez3HYSdR0=";
+      sha256 = "sha256-YFJAku4tfUP4BGgdJ/4l07tPDGRp7JEi6Qq8V1JdtnE=";
     });
   };
   nwg-drawer = {
@@ -913,13 +913,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "908667d97ac1ad370ee61665f777cd996e6ba2aa";
+    version = "1920430539fe5854c3f53ccc9abd1316144afa8b";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "908667d97ac1ad370ee61665f777cd996e6ba2aa";
+      rev = "1920430539fe5854c3f53ccc9abd1316144afa8b";
       fetchSubmodules = false;
-      sha256 = "sha256-gjandhdNOk3+OVplfwtMSWL2EPq/D/4anyvTBQ8LZDg=";
+      sha256 = "sha256-GtdNF8kfLI8Lv/KO52CYdoasstHKB86LnISwvqwINtc=";
     });
   };
   revanced-cli = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "d942a2ff56d8cc8db275d2ea6e9c179d6d86b2a0";
+    version = "1f7479466ef21396ee569d89c23c30f25cc9c84f";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "d942a2ff56d8cc8db275d2ea6e9c179d6d86b2a0";
+      rev = "1f7479466ef21396ee569d89c23c30f25cc9c84f";
       fetchSubmodules = false;
-      sha256 = "sha256-a+KstNj5CWBc9qB4AINvVhfmXcV1UxWmLAUGwvpq8zc=";
+      sha256 = "sha256-EuOOcHASmenQJ3G2fjC4Jf5x5SIUy52eQCZdXFMEn00=";
     });
   };
   tailscale-systray = {
