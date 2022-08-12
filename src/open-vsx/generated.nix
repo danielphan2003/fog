@@ -1299,10 +1299,10 @@
   };
   GitHub-vscode-pull-request-github = {
     pname = "GitHub-vscode-pull-request-github";
-    version = "0.48.0";
+    version = "0.48.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.48.0/file/GitHub.vscode-pull-request-github-0.48.0.vsix";
-      sha256 = "sha256-nAKX98Ytg2KrIHzm6h9L4cMff/DS6KWGeM2wWB9jSiU=";
+      url = "https://open-vsx.org/api/GitHub/vscode-pull-request-github/0.48.1/file/GitHub.vscode-pull-request-github-0.48.1.vsix";
+      sha256 = "sha256-ZjoipXl68fKyGbW98jYS0Ro70etuSh7GjiOyWyVATzE=";
     };
     license = "MIT";
     name = "vscode-pull-request-github";
@@ -14667,10 +14667,10 @@
   };
   ms-playwright-playwright = {
     pname = "ms-playwright-playwright";
-    version = "0.2.7";
+    version = "0.2.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.7/file/ms-playwright.playwright-0.2.7.vsix";
-      sha256 = "sha256-9NRdnQU5UDb+ChV7+KuQRwJVxVb0gYzfY7ve4fgDfSw=";
+      url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.8/file/ms-playwright.playwright-0.2.8.vsix";
+      sha256 = "sha256-UEV1NYyxy/tKlBFsMdheO1YtzrxVfItS6YaxsdlMkKY=";
     };
     license = "Apache-2.0";
     name = "playwright";
@@ -15183,10 +15183,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.8.20220809";
+    version = "4.9.20220811";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.8.20220809/file/ms-vscode.vscode-typescript-next-4.8.20220809.vsix";
-      sha256 = "sha256-ss7YsSosubeRerVQvdoMpAW6E2Kc6UPemZQRN8JuQyk=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220811/file/ms-vscode.vscode-typescript-next-4.9.20220811.vsix";
+      sha256 = "sha256-u0KWJ5J53QqYRIM+v2KN8QoiC0FOLaZ4z+gbTv5FzqQ=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
