@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "d35707f2e44b40345929ab2d59e587f3a48a0c59";
+    version = "a0f7cf3acd89318ceeb73de7dfacab131f0d97e3";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "d35707f2e44b40345929ab2d59e587f3a48a0c59";
+      rev = "a0f7cf3acd89318ceeb73de7dfacab131f0d97e3";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-CGk9Lgtras0VWQUKEYroyiWf3Tw+JGIe4e7gJt2l6/Y=";
+      sha256 = "sha256-ZioFuUM8SXkK6kHh40ySqf+chujZey5nS03uLB3vufk=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-d35707f2e44b40345929ab2d59e587f3a48a0c59/Cargo.lock;
+      lockFile = ./asusctl-a0f7cf3acd89318ceeb73de7dfacab131f0d97e3/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -770,13 +770,13 @@
   };
   picom = {
     pname = "picom";
-    version = "896acabab11e977a5a07e2a59d9b35bfeb167263";
+    version = "ec9243cf3c824ce6f910ef5800c4af185f12721b";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "896acabab11e977a5a07e2a59d9b35bfeb167263";
+      rev = "ec9243cf3c824ce6f910ef5800c4af185f12721b";
       fetchSubmodules = false;
-      sha256 = "sha256-QaEuewhAbaBW+rYt0eFwV1hD466ydI6ihGWasFICurI=";
+      sha256 = "sha256-0eq9gYKn54E9tI1HoyNeztHk4v2v6d9fQomReMRSN+E=";
     });
   };
   playit-agent = {

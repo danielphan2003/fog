@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-d35707f2e44b40345929ab2d59e587f3a48a0c59/Cargo.lock",
+                "./asusctl-a0f7cf3acd89318ceeb73de7dfacab131f0d97e3/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d35707f2e44b40345929ab2d59e587f3a48a0c59",
-            "sha256": "sha256-CGk9Lgtras0VWQUKEYroyiWf3Tw+JGIe4e7gJt2l6/Y=",
+            "rev": "a0f7cf3acd89318ceeb73de7dfacab131f0d97e3",
+            "sha256": "sha256-ZioFuUM8SXkK6kHh40ySqf+chujZey5nS03uLB3vufk=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "d35707f2e44b40345929ab2d59e587f3a48a0c59"
+        "version": "a0f7cf3acd89318ceeb73de7dfacab131f0d97e3"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1288,11 +1288,11 @@
             "name": null,
             "owner": "yshui",
             "repo": "picom",
-            "rev": "896acabab11e977a5a07e2a59d9b35bfeb167263",
-            "sha256": "sha256-QaEuewhAbaBW+rYt0eFwV1hD466ydI6ihGWasFICurI=",
+            "rev": "ec9243cf3c824ce6f910ef5800c4af185f12721b",
+            "sha256": "sha256-0eq9gYKn54E9tI1HoyNeztHk4v2v6d9fQomReMRSN+E=",
             "type": "github"
         },
-        "version": "896acabab11e977a5a07e2a59d9b35bfeb167263"
+        "version": "ec9243cf3c824ce6f910ef5800c4af185f12721b"
     },
     "playit-agent": {
         "cargoLocks": {
