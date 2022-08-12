@@ -4876,11 +4876,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KmJj1oYuNhF1EmTTBoWnIK52VTo5tVhGi3nIKmYVhkc=",
+            "sha256": "sha256-h9em+Kibte72K+gxkd+JtQLi0N3FA4IRgtAqMCWaayQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1292/file/Prisma.prisma-insider-31.0.1292.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1293/file/Prisma.prisma-insider-31.0.1293.vsix"
         },
-        "version": "31.0.1292"
+        "version": "31.0.1293"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -31210,11 +31210,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-st8asmIt/ac/JftFY9AOpGOmjegtYFu6216IaRVucH8=",
+            "sha256": "sha256-Wg0mXV4+1QQ4rJbIxVeMvtxrDK+Vemu8nXmszxL2jrw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-danish/0.2.14/file/streetsidesoftware.code-spell-checker-danish-0.2.14.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-danish/1.0.0/file/streetsidesoftware.code-spell-checker-danish-1.0.0.vsix"
         },
-        "version": "0.2.14"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-dutch": {
         "cargoLocks": null,
@@ -38107,11 +38107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/iujhJ8OOuFeX+MjMtYuYGeYFWdUIkP2OEWUitsduqo=",
+            "sha256": "sha256-xr+zVXeSaLgsejHEVnn/UtAk3TJ3WP5SCP5YhvaBiv4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zenclabs/previewjs/1.11.0/file/zenclabs.previewjs-1.11.0.vsix"
+            "url": "https://open-vsx.org/api/zenclabs/previewjs/1.12.0/file/zenclabs.previewjs-1.12.0.vsix"
         },
-        "version": "1.11.0"
+        "version": "1.12.0"
     },
     "zerodind-familiar-java-themes": {
         "cargoLocks": null,

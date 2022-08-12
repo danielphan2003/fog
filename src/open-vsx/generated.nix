@@ -3075,10 +3075,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1292";
+    version = "31.0.1293";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1292/file/Prisma.prisma-insider-31.0.1292.vsix";
-      sha256 = "sha256-KmJj1oYuNhF1EmTTBoWnIK52VTo5tVhGi3nIKmYVhkc=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1293/file/Prisma.prisma-insider-31.0.1293.vsix";
+      sha256 = "sha256-h9em+Kibte72K+gxkd+JtQLi0N3FA4IRgtAqMCWaayQ=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -19707,10 +19707,10 @@
   };
   streetsidesoftware-code-spell-checker-danish = {
     pname = "streetsidesoftware-code-spell-checker-danish";
-    version = "0.2.14";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-danish/0.2.14/file/streetsidesoftware.code-spell-checker-danish-0.2.14.vsix";
-      sha256 = "sha256-st8asmIt/ac/JftFY9AOpGOmjegtYFu6216IaRVucH8=";
+      url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-danish/1.0.0/file/streetsidesoftware.code-spell-checker-danish-1.0.0.vsix";
+      sha256 = "sha256-Wg0mXV4+1QQ4rJbIxVeMvtxrDK+Vemu8nXmszxL2jrw=";
     };
     license = "MIT";
     name = "code-spell-checker-danish";
@@ -24063,10 +24063,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.11.0";
+    version = "1.12.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.11.0/file/zenclabs.previewjs-1.11.0.vsix";
-      sha256 = "sha256-/iujhJ8OOuFeX+MjMtYuYGeYFWdUIkP2OEWUitsduqo=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.0/file/zenclabs.previewjs-1.12.0.vsix";
+      sha256 = "sha256-xr+zVXeSaLgsejHEVnn/UtAk3TJ3WP5SCP5YhvaBiv4=";
     };
     license = "https://previewjs.com/eula";
     name = "previewjs";
