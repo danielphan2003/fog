@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "91ab0e60669b84b7c09189a06de0d6a9771bf950";
+    version = "f5dce84a7028d1b116db7fead27ff8b2506baf78";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "91ab0e60669b84b7c09189a06de0d6a9771bf950";
+      rev = "f5dce84a7028d1b116db7fead27ff8b2506baf78";
       fetchSubmodules = false;
-      sha256 = "sha256-JqoDyTmKCXaN6DmpFiHKeaUWW3trHCCprOiGRFspsEQ=";
+      sha256 = "sha256-00K+jfoyZOSob1PpowJgTh4h6x3Dpid86sLlMzhr/Qc=";
     });
   };
   cinny = {
@@ -545,18 +545,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6458";
+    version = "1.0.6459";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6458.tar.bz2";
-      sha256 = "sha256-qqVrMePt9YXZXpysXTn1HxyhvQXwVLKRfUlaOmrRyj8=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6459.tar.bz2";
+      sha256 = "sha256-GFFa4wvSik5FSrOALte2K2SxQG4fQS/cZ1S8snBSxEI=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6458";
+    version = "1.0.6459";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6458-1_all.deb";
-      sha256 = "sha256-P8u/MT5zt2E0hunADojpxdWOoaLkF9oQBQaXFnwUsdQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6459-1_all.deb";
+      sha256 = "sha256-gMC9Ov7d3Jew4avLk9oAQsOxDug926le6PQcj6fdAZ4=";
     };
   };
   jitsi-videobridge2 = {
@@ -651,10 +651,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "105.0.1336.2";
+    version = "105.0.1343.4";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1336.2-1_amd64.deb";
-      sha256 = "sha256-Sm8j41poy1iXfov5vvlrEcK0FZ8KWvlN6G1ADUjfJUE=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_105.0.1343.4-1_amd64.deb";
+      sha256 = "sha256-areYSQPP8AtefY/AY/Lgv0p1rQQEG6fF/lGUHUL/4i8=";
     };
   };
   microsoft-edge-stable = {
