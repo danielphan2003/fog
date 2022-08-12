@@ -561,10 +561,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-27-gd8362097";
+    version = "2.2-29-g135ef9fb";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-27-gd8362097-1_all.deb";
-      sha256 = "sha256-ClHEYSGyMUMmKFL//oVH+bcGZVCsP+2M1nNq2zoRGV4=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-29-g135ef9fb-1_all.deb";
+      sha256 = "sha256-lfStASHfvKAvBZO8PWINPlK/stf7bFHCryIyxjX34WQ=";
     };
   };
   layout-machi = {
@@ -735,16 +735,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "aed93d940645760bd96a82acd487d9729d1477d3";
+    version = "72295d872cb0346cdcb122c8473687407cafbe0d";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "aed93d940645760bd96a82acd487d9729d1477d3";
+      rev = "72295d872cb0346cdcb122c8473687407cafbe0d";
       fetchSubmodules = false;
-      sha256 = "sha256-dlYOWiTNaAgsArA/IJoH6MAVxtwLCtq6hhyRL9awejQ=";
+      sha256 = "sha256-d9wH/x75/TxvfgH0ELirpxOoKxblB/1ENusveWRfaHk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-aed93d940645760bd96a82acd487d9729d1477d3/Cargo.lock;
+      lockFile = ./ouch-72295d872cb0346cdcb122c8473687407cafbe0d/Cargo.lock;
       outputHashes = {
         
       };
