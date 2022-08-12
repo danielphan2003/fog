@@ -7983,10 +7983,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.0.17";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.0.17/file/deadlock.deadlock-gitpod-0.0.17.vsix";
-      sha256 = "sha256-7pS3BlNyEopx9/dhS5/PKDPY2+EQtwLbw+GtDuitFts=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.2/file/deadlock.deadlock-gitpod-0.1.2.vsix";
+      sha256 = "sha256-etQX92obnGyVM8sFcMPRFwlvD86WAApVQKhCx03pBTo=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
