@@ -2749,6 +2749,18 @@
     description = "SFTP/FTP sync";
     publisher = "Natizyskunk";
   };
+  NicolasVuillamy-vscode-groovy-lint = {
+    pname = "NicolasVuillamy-vscode-groovy-lint";
+    version = "2.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/NicolasVuillamy/vscode-groovy-lint/2.0.0/file/NicolasVuillamy.vscode-groovy-lint-2.0.0.vsix";
+      sha256 = "sha256-ApiQYFCId+KBhSBORbRYiIPhtTHNpW/Sepc0Y5YO1bI=";
+    };
+    license = "GPL-3.0-only";
+    name = "vscode-groovy-lint";
+    description = "Lint, format and auto-fix groovy and Jenkinsfile";
+    publisher = "NicolasVuillamy";
+  };
   Nightrains-robloxlsp = {
     pname = "Nightrains-robloxlsp";
     version = "1.5.12";
@@ -19011,10 +19023,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.57";
+    version = "0.0.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.57/file/shivaprasanth.dothttp-code-0.0.57.vsix";
-      sha256 = "sha256-RNRqeukEPZOBWw0scfNeISKmViIExqLdvFLVGrwgJL0=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.59/file/shivaprasanth.dothttp-code-0.0.59.vsix";
+      sha256 = "sha256-GGEHtKSkn4yKeMUVYiQub7/5kAp4eSwiM+y4JTUPs0c=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";

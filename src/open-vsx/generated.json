@@ -4350,6 +4350,25 @@
         },
         "version": "1.15.14"
     },
+    "NicolasVuillamy-vscode-groovy-lint": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "NicolasVuillamy-vscode-groovy-lint",
+        "passthru": {
+            "description": "Lint, format and auto-fix groovy and Jenkinsfile",
+            "license": "GPL-3.0-only",
+            "name": "vscode-groovy-lint",
+            "publisher": "NicolasVuillamy"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ApiQYFCId+KBhSBORbRYiIPhtTHNpW/Sepc0Y5YO1bI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/NicolasVuillamy/vscode-groovy-lint/2.0.0/file/NicolasVuillamy.vscode-groovy-lint-2.0.0.vsix"
+        },
+        "version": "2.0.0"
+    },
     "Nightrains-robloxlsp": {
         "cargoLocks": null,
         "extract": null,
@@ -30108,11 +30127,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RNRqeukEPZOBWw0scfNeISKmViIExqLdvFLVGrwgJL0=",
+            "sha256": "sha256-GGEHtKSkn4yKeMUVYiQub7/5kAp4eSwiM+y4JTUPs0c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.57/file/shivaprasanth.dothttp-code-0.0.57.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.59/file/shivaprasanth.dothttp-code-0.0.59.vsix"
         },
-        "version": "0.0.57"
+        "version": "0.0.59"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,
