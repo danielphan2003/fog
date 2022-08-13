@@ -16447,11 +16447,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GAAl+gLR2h30tC1ITQc167l9Sr+UmB1f2Eu4F0QIrY0=",
+            "sha256": "sha256-wERQSBClpfisEVx8GIzCt9IwpgIHh4j8D8NdyNpC5m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.6/file/halcyontechltd.vscode-rpgle-0.9.6.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.7/file/halcyontechltd.vscode-rpgle-0.9.7.vsix"
         },
-        "version": "0.9.6"
+        "version": "0.9.7"
     },
     "hall-draw": {
         "cargoLocks": null,
