@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "8e9fc768f3fb4eba5ee03d5147f8d7070fe2e0c1",
-            "sha256": "sha256-FUr4CSUqdM/XYyRnv4uiFZlvkfUmNx6w7BGD+3fjJNM=",
+            "rev": "cc73f992d10d7e37bed3d891febb9a62a152b975",
+            "sha256": "sha256-G7yetaQtsVEmKtUnU2U3njCvAA8ym0qbimCWY6CV/bg=",
             "type": "github"
         },
-        "version": "8e9fc768f3fb4eba5ee03d5147f8d7070fe2e0c1"
+        "version": "cc73f992d10d7e37bed3d891febb9a62a152b975"
     },
     "caddy": {
         "cargoLocks": null,
@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "636f0ac8624f2efaa7caee5ac186716b48abc89c",
-            "sha256": "sha256-5V+LCSrMTUk0dc67EcBJIb7sjeum20bhSudrEJYkBJU=",
+            "rev": "e137ce56d9b912fc644379dddc3443b15389e759",
+            "sha256": "sha256-soeW6Vwii8bTDoyS91gFCIPGlQKR2oQc/QtSRhbKqQw=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "636f0ac8624f2efaa7caee5ac186716b48abc89c"
+        "version": "e137ce56d9b912fc644379dddc3443b15389e759"
     },
     "flyingfox": {
         "cargoLocks": null,
