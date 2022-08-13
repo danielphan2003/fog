@@ -696,11 +696,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Em1Y2Fw9bA0DPc2ZiLanTib5yKugD/XMDLOfkm2vJMc=",
+            "sha256": "sha256-3ozon7UrGfI+MBpKNISMXOGxcXKK8FDokUB/N+vK2OU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.8.2/file/CL.eide-3.8.2.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.8.3/file/CL.eide-3.8.3.vsix"
         },
-        "version": "3.8.2"
+        "version": "3.8.3"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -12058,11 +12058,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Fwy9dsaI6N1liT9HfguBe3/7IP/ldTSJbndlM7b6qJM=",
+            "sha256": "sha256-m/AnJ07pZQ5gf5VNjdX18DaH1iKHPtZhi71XmbZkAMc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.6.10/file/cweijan.vscode-mysql-client2-5.6.10.vsix"
+            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.0/file/cweijan.vscode-mysql-client2-5.7.0.vsix"
         },
-        "version": "5.6.10"
+        "version": "5.7.0"
     },
     "cweijan-vscode-office": {
         "cargoLocks": null,

@@ -435,10 +435,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.2";
+    version = "3.8.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.2/file/CL.eide-3.8.2.vsix";
-      sha256 = "sha256-Em1Y2Fw9bA0DPc2ZiLanTib5yKugD/XMDLOfkm2vJMc=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.3/file/CL.eide-3.8.3.vsix";
+      sha256 = "sha256-3ozon7UrGfI+MBpKNISMXOGxcXKK8FDokUB/N+vK2OU=";
     };
     license = "MIT";
     name = "eide";
@@ -7611,10 +7611,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.6.10";
+    version = "5.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.6.10/file/cweijan.vscode-mysql-client2-5.6.10.vsix";
-      sha256 = "sha256-Fwy9dsaI6N1liT9HfguBe3/7IP/ldTSJbndlM7b6qJM=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.0/file/cweijan.vscode-mysql-client2-5.7.0.vsix";
+      sha256 = "sha256-m/AnJ07pZQ5gf5VNjdX18DaH1iKHPtZhi71XmbZkAMc=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
