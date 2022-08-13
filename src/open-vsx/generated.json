@@ -12875,11 +12875,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-mswG382E9u9o9N+1VIa8dOmG57befTSUtqr8I65/yTw=",
+            "sha256": "sha256-rOZnan+MrW/662JCaKApgK0ntCH+XZQcmSTYlrPEYgc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.107.5/file/dendron.nightly-0.107.5.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.107.6/file/dendron.nightly-0.107.6.vsix"
         },
-        "version": "0.107.5"
+        "version": "0.107.6"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -17036,11 +17036,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nhuyKI/7de0pJXROG81vV9RadvxMPYtc06IGbkg2s28=",
+            "sha256": "sha256-a1iUtYY5cbY8WCv3vKWVDMoUajLGI9p7Oe82no+/m+Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/html-validate/vscode-html-validate/2.3.1/file/html-validate.vscode-html-validate-2.3.1.vsix"
+            "url": "https://open-vsx.org/api/html-validate/vscode-html-validate/2.4.0/file/html-validate.vscode-html-validate-2.4.0.vsix"
         },
-        "version": "2.3.1"
+        "version": "2.4.0"
     },
     "huacat-office-theme": {
         "cargoLocks": null,
@@ -31153,11 +31153,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-djyvFT1v4dSOs4d18BxlUWTfh5HE2sX9Zz850VL1Cqk=",
+            "sha256": "sha256-8rynISAzmRuVvPGY782HF7Cki2Nju+t1K0CGWK0Zrig=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-catalan/0.1.13/file/streetsidesoftware.code-spell-checker-catalan-0.1.13.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-catalan/1.0.0/file/streetsidesoftware.code-spell-checker-catalan-1.0.0.vsix"
         },
-        "version": "0.1.13"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-croatian": {
         "cargoLocks": null,
@@ -31191,11 +31191,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BHuYhyNWTJ7oLZ/oU0OdCNYed5oUHP0i+fRIvkhhma8=",
+            "sha256": "sha256-I7mOYnQiGQBu0+WcGaWh6qOnjR0seGqLHaCwgaU5d6Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-czech/0.1.13/file/streetsidesoftware.code-spell-checker-czech-0.1.13.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-czech/1.0.0/file/streetsidesoftware.code-spell-checker-czech-1.0.0.vsix"
         },
-        "version": "0.1.13"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-danish": {
         "cargoLocks": null,
@@ -31248,11 +31248,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hTvH35T4BDUAXdGuof71NuEgwcB/AuwsAM7dhsZM/Fs=",
+            "sha256": "sha256-50NPABU+MIp2wdGF2Av7s80PRb3wmKjOyS3Cg80T+BU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-esperanto/0.1.11/file/streetsidesoftware.code-spell-checker-esperanto-0.1.11.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-esperanto/1.0.0/file/streetsidesoftware.code-spell-checker-esperanto-1.0.0.vsix"
         },
-        "version": "0.1.11"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-estonian": {
         "cargoLocks": null,
@@ -31336,18 +31336,18 @@
         "name": "streetsidesoftware-code-spell-checker-greek",
         "passthru": {
             "description": "Greek dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-greek",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DeI3zSnR9CngDQk5oFlOWTUC/wQNCPx2Wbhih92WsNo=",
+            "sha256": "sha256-bI/9VyMxAE2DyTIDpidUosjFJzAssJTOk0zx5yB6108=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-greek/0.1.13/file/streetsidesoftware.code-spell-checker-greek-0.1.13.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-greek/1.0.0/file/streetsidesoftware.code-spell-checker-greek-1.0.0.vsix"
         },
-        "version": "0.1.13"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-hebrew": {
         "cargoLocks": null,
@@ -31355,18 +31355,18 @@
         "name": "streetsidesoftware-code-spell-checker-hebrew",
         "passthru": {
             "description": "Hebrew dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-hebrew",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ig7QMgP9rAHqYGc0xodQgow6GqnAW35JfPVKYicTMe8=",
+            "sha256": "sha256-MIeXY7UpAWERbq13ee5DwSZPf+SGKQ3xL3rBLQII5gk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-hebrew/0.1.12/file/streetsidesoftware.code-spell-checker-hebrew-0.1.12.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-hebrew/1.0.0/file/streetsidesoftware.code-spell-checker-hebrew-1.0.0.vsix"
         },
-        "version": "0.1.12"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-italian": {
         "cargoLocks": null,
@@ -31374,18 +31374,18 @@
         "name": "streetsidesoftware-code-spell-checker-italian",
         "passthru": {
             "description": "Italian dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-italian",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5CQpxQdjYVPc0uJ/pbQDd0TUdfGpn/RfeXR2m9O9PCo=",
+            "sha256": "sha256-dN5+tUqQm+D6B/uKJvQDc4eY6osJallMEE6vy4xW5AA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-italian/0.1.13/file/streetsidesoftware.code-spell-checker-italian-0.1.13.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-italian/1.0.0/file/streetsidesoftware.code-spell-checker-italian-1.0.0.vsix"
         },
-        "version": "0.1.13"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-medical-terms": {
         "cargoLocks": null,
@@ -31400,11 +31400,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pVe2UXKTd29pWvT8+im4+JGws56/I2oFT5lx5JvGsGI=",
+            "sha256": "sha256-7EAY+r/zzGh9RhAFccGwQQ+EU1fhL+Fv/ETrKcwvkHg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-medical-terms/1.0.16/file/streetsidesoftware.code-spell-checker-medical-terms-1.0.16.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-medical-terms/2.0.0/file/streetsidesoftware.code-spell-checker-medical-terms-2.0.0.vsix"
         },
-        "version": "1.0.16"
+        "version": "2.0.0"
     },
     "streetsidesoftware-code-spell-checker-norwegian-bokmal": {
         "cargoLocks": null,
@@ -31431,18 +31431,18 @@
         "name": "streetsidesoftware-code-spell-checker-persian",
         "passthru": {
             "description": "Persian dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-persian",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1r4kbGF2Sc2nlmO+PZV8F/3a3dD29LYK5dgIaypoirs=",
+            "sha256": "sha256-PPl4gli74WMje4KzuVlp5gVFLhHKsp1/mvQhBVwX08o=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-persian/0.1.13/file/streetsidesoftware.code-spell-checker-persian-0.1.13.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-persian/1.0.0/file/streetsidesoftware.code-spell-checker-persian-1.0.0.vsix"
         },
-        "version": "0.1.13"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-polish": {
         "cargoLocks": null,
@@ -31450,18 +31450,18 @@
         "name": "streetsidesoftware-code-spell-checker-polish",
         "passthru": {
             "description": "Polish dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-polish",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jZyAWq05OkGL8eUtS3J8Ye9bVGr0ls+CRQkRGzsa9ik=",
+            "sha256": "sha256-ZuY0MqeadUBRSECBKgBZ0hxs5ACFJZG+8QXSk17vZ10=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-polish/1.0.13/file/streetsidesoftware.code-spell-checker-polish-1.0.13.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-polish/2.0.0/file/streetsidesoftware.code-spell-checker-polish-2.0.0.vsix"
         },
-        "version": "1.0.13"
+        "version": "2.0.0"
     },
     "streetsidesoftware-code-spell-checker-portuguese": {
         "cargoLocks": null,
@@ -31621,18 +31621,18 @@
         "name": "streetsidesoftware-code-spell-checker-ukrainian",
         "passthru": {
             "description": "Ukrainian dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-ukrainian",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-O3VOFEkrtfwc4+Kr9U6SX4cRAIJGNanTn8RHuXbxYQc=",
+            "sha256": "sha256-p832YRQOvlpHgDFKkrow3ulxI6Ky7yamVFBRgT4iM+0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-ukrainian/0.1.14/file/streetsidesoftware.code-spell-checker-ukrainian-0.1.14.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-ukrainian/1.0.0/file/streetsidesoftware.code-spell-checker-ukrainian-1.0.0.vsix"
         },
-        "version": "0.1.14"
+        "version": "1.0.0"
     },
     "streetsidesoftware-code-spell-checker-vietnamese": {
         "cargoLocks": null,
@@ -31640,18 +31640,18 @@
         "name": "streetsidesoftware-code-spell-checker-vietnamese",
         "passthru": {
             "description": "Vietnamese dictionary extension for VS Code.",
-            "license": "MIT",
+            "license": "GPL-3.0-or-later",
             "name": "code-spell-checker-vietnamese",
             "publisher": "streetsidesoftware"
         },
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uIjw+qeujaiaD0AkRBPklEU//fVxMbY7edMlPD2zJGQ=",
+            "sha256": "sha256-qUdk6RM0fRh9GSBiwQ2tTYUoMIZeEDbDY1z5mFJJNB4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-vietnamese/0.1.10/file/streetsidesoftware.code-spell-checker-vietnamese-0.1.10.vsix"
+            "url": "https://open-vsx.org/api/streetsidesoftware/code-spell-checker-vietnamese/1.0.0/file/streetsidesoftware.code-spell-checker-vietnamese-1.0.0.vsix"
         },
-        "version": "0.1.10"
+        "version": "1.0.0"
     },
     "stripe-vscode-stripe": {
         "cargoLocks": null,
