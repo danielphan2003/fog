@@ -7095,10 +7095,10 @@
   };
   cloudstudio-deploykit = {
     pname = "cloudstudio-deploykit";
-    version = "0.0.3";
+    version = "0.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.3/file/cloudstudio.deploykit-0.0.3.vsix";
-      sha256 = "sha256-bI04ci7J5to8x6DFZuLZn76/wwYHSeUIiUtZ3bE+p0c=";
+      url = "https://open-vsx.org/api/cloudstudio/deploykit/0.0.4/file/cloudstudio.deploykit-0.0.4.vsix";
+      sha256 = "sha256-Kaea9XzEpxkbT1sNJdpt2utuMDdoMIKyAJtsT/QQOXk=";
     };
     license = "MIT";
     name = "deploykit";
