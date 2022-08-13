@@ -15603,10 +15603,10 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "2.3.0";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/2.3.0/file/mvllow.rose-pine-2.3.0.vsix";
-      sha256 = "sha256-ANj6UG0+lGpiDyuC4G2UONmVwBO3fmiTQbVipokozIY=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.4.0/file/mvllow.rose-pine-2.4.0.vsix";
+      sha256 = "sha256-i+mZOkfOqMI/aDDQKtPg245mSs5p3PYhiO1oTzvut9w=";
     };
     license = "MIT";
     name = "rose-pine";
