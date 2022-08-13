@@ -7717,6 +7717,54 @@
     description = "Create expert reviews / code reviews for a workspace that can be exported as a document for handing over to customers";
     publisher = "d-koppenhagen";
   };
+  dalirnet-doctypes = {
+    pname = "dalirnet-doctypes";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dalirnet/doctypes/1.0.3/file/dalirnet.doctypes-1.0.3.vsix";
+      sha256 = "sha256-ciRI4lY5jk3L2wvt34rbz4kjtOFjOeoOxYjMv2ivJ7I=";
+    };
+    license = "MIT";
+    name = "doctypes";
+    description = "JSDoc generator for JavaScript, TypeScript using AI.";
+    publisher = "dalirnet";
+  };
+  dalirnet-mongod-config = {
+    pname = "dalirnet-mongod-config";
+    version = "0.0.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dalirnet/mongod-config/0.0.2/file/dalirnet.mongod-config-0.0.2.vsix";
+      sha256 = "sha256-ZACgV4HSTVdCxFaoBYq8QU9iG85LkjN2c0Xi+XQGTgI=";
+    };
+    license = "MIT";
+    name = "mongod-config";
+    description = "Syntax highlight, autocomplete and formatter for Mongod config files";
+    publisher = "dalirnet";
+  };
+  dalirnet-rtl-markdown = {
+    pname = "dalirnet-rtl-markdown";
+    version = "0.0.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dalirnet/rtl-markdown/0.0.10/file/dalirnet.rtl-markdown-0.0.10.vsix";
+      sha256 = "sha256-Dg1FbDbptB45HinndaR+88gSaV1jMtADxXoLizTaPeo=";
+    };
+    license = "MIT";
+    name = "rtl-markdown";
+    description = "Markdown Right-to-Left support";
+    publisher = "dalirnet";
+  };
+  dalirnet-vue-sort = {
+    pname = "dalirnet-vue-sort";
+    version = "0.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dalirnet/vue-sort/0.0.5/file/dalirnet.vue-sort-0.0.5.vsix";
+      sha256 = "sha256-bq9wLLDeCEHzTDCF1Pefuu+yj/bRSHRBE6UqVMaq2KY=";
+    };
+    license = "MIT";
+    name = "vue-sort";
+    description = "Sort vue component";
+    publisher = "dalirnet";
+  };
   damc-textpad-color-theme = {
     pname = "damc-textpad-color-theme";
     version = "1.19.22";

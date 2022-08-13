@@ -12216,6 +12216,82 @@
         },
         "version": "1.32.1"
     },
+    "dalirnet-doctypes": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dalirnet-doctypes",
+        "passthru": {
+            "description": "JSDoc generator for JavaScript, TypeScript using AI.",
+            "license": "MIT",
+            "name": "doctypes",
+            "publisher": "dalirnet"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ciRI4lY5jk3L2wvt34rbz4kjtOFjOeoOxYjMv2ivJ7I=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dalirnet/doctypes/1.0.3/file/dalirnet.doctypes-1.0.3.vsix"
+        },
+        "version": "1.0.3"
+    },
+    "dalirnet-mongod-config": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dalirnet-mongod-config",
+        "passthru": {
+            "description": "Syntax highlight, autocomplete and formatter for Mongod config files",
+            "license": "MIT",
+            "name": "mongod-config",
+            "publisher": "dalirnet"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ZACgV4HSTVdCxFaoBYq8QU9iG85LkjN2c0Xi+XQGTgI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dalirnet/mongod-config/0.0.2/file/dalirnet.mongod-config-0.0.2.vsix"
+        },
+        "version": "0.0.2"
+    },
+    "dalirnet-rtl-markdown": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dalirnet-rtl-markdown",
+        "passthru": {
+            "description": "Markdown Right-to-Left support",
+            "license": "MIT",
+            "name": "rtl-markdown",
+            "publisher": "dalirnet"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Dg1FbDbptB45HinndaR+88gSaV1jMtADxXoLizTaPeo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dalirnet/rtl-markdown/0.0.10/file/dalirnet.rtl-markdown-0.0.10.vsix"
+        },
+        "version": "0.0.10"
+    },
+    "dalirnet-vue-sort": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "dalirnet-vue-sort",
+        "passthru": {
+            "description": "Sort vue component",
+            "license": "MIT",
+            "name": "vue-sort",
+            "publisher": "dalirnet"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-bq9wLLDeCEHzTDCF1Pefuu+yj/bRSHRBE6UqVMaq2KY=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/dalirnet/vue-sort/0.0.5/file/dalirnet.vue-sort-0.0.5.vsix"
+        },
+        "version": "0.0.5"
+    },
     "damc-textpad-color-theme": {
         "cargoLocks": null,
         "extract": null,
