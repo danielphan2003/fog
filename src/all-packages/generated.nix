@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "e137ce56d9b912fc644379dddc3443b15389e759";
+    version = "e2a422c422131e44713e6816cf7a96e8ea220a8e";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "e137ce56d9b912fc644379dddc3443b15389e759";
+      rev = "e2a422c422131e44713e6816cf7a96e8ea220a8e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-soeW6Vwii8bTDoyS91gFCIPGlQKR2oQc/QtSRhbKqQw=";
+      sha256 = "sha256-yS2Eht0jl5lXwBryOKktCyzdYemd2f1nwFfnVXrJG9c=";
     };
   };
   flyingfox = {
@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9136783e9ceb10834a0da33f25d20eaca8591f6b";
+    version = "214c2c7b1c0182594a07a2c5ac7d99e9d7b5fcb3";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "9136783e9ceb10834a0da33f25d20eaca8591f6b";
+      rev = "214c2c7b1c0182594a07a2c5ac7d99e9d7b5fcb3";
       fetchSubmodules = false;
-      sha256 = "sha256-jyOuMnKUn6ywTgFxo7fZ9nkSnbXX/CuvPwwL0UF5WIk=";
+      sha256 = "sha256-8EE7BQvnWaFq1eb6EpLyUrfwzyFDs0N7PYZ/IyhUoDc=";
     });
   };
   ibus = {
