@@ -2497,6 +2497,30 @@
     description = "Marko Tooling for VSCode";
     publisher = "Marko-JS";
   };
+  MateuszDrewniak-ruby-runner = {
+    pname = "MateuszDrewniak-ruby-runner";
+    version = "0.2.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/MateuszDrewniak/ruby-runner/0.2.0/file/MateuszDrewniak.ruby-runner-0.2.0.vsix";
+      sha256 = "sha256-PD8JemdVnaJVQDv3QxSt+8uH5W8qaBA+CvOHy6i0eMw=";
+    };
+    license = "GPL-3.0";
+    name = "ruby-runner";
+    description = "Run the current Ruby file with one click!";
+    publisher = "MateuszDrewniak";
+  };
+  MateuszDrewniak-ruby-test-runner = {
+    pname = "MateuszDrewniak-ruby-test-runner";
+    version = "0.3.7";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/MateuszDrewniak/ruby-test-runner/0.3.7/file/MateuszDrewniak.ruby-test-runner-0.3.7.vsix";
+      sha256 = "sha256-Xtkp39iuTP0wvEnYbJIOEmjrSFuyFRSMuw4v/nv4HCg=";
+    };
+    license = "GPL-3.0";
+    name = "ruby-test-runner";
+    description = "Run unit-test and rspec tests with one click!";
+    publisher = "MateuszDrewniak";
+  };
   Matronator-haxeui = {
     pname = "Matronator-haxeui";
     version = "0.0.3";
@@ -9507,10 +9531,10 @@
   };
   firsttris-vscode-jest-runner = {
     pname = "firsttris-vscode-jest-runner";
-    version = "0.4.47";
+    version = "0.4.53";
     src = fetchurl {
-      url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.47/file/firsttris.vscode-jest-runner-0.4.47.vsix";
-      sha256 = "sha256-e0zTKsC/+119d8aZ/3c3RMMOUezn+XYwZ9EvxZD1P/k=";
+      url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.53/file/firsttris.vscode-jest-runner-0.4.53.vsix";
+      sha256 = "sha256-ZKFwyJR7AWiKPlpWIynWBkGUl1MGy1KHyURI+FgYKT8=";
     };
     license = "MIT";
     name = "vscode-jest-runner";

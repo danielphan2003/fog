@@ -3951,6 +3951,44 @@
         },
         "version": "0.17.34"
     },
+    "MateuszDrewniak-ruby-runner": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "MateuszDrewniak-ruby-runner",
+        "passthru": {
+            "description": "Run the current Ruby file with one click!",
+            "license": "GPL-3.0",
+            "name": "ruby-runner",
+            "publisher": "MateuszDrewniak"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-PD8JemdVnaJVQDv3QxSt+8uH5W8qaBA+CvOHy6i0eMw=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/MateuszDrewniak/ruby-runner/0.2.0/file/MateuszDrewniak.ruby-runner-0.2.0.vsix"
+        },
+        "version": "0.2.0"
+    },
+    "MateuszDrewniak-ruby-test-runner": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "MateuszDrewniak-ruby-test-runner",
+        "passthru": {
+            "description": "Run unit-test and rspec tests with one click!",
+            "license": "GPL-3.0",
+            "name": "ruby-test-runner",
+            "publisher": "MateuszDrewniak"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Xtkp39iuTP0wvEnYbJIOEmjrSFuyFRSMuw4v/nv4HCg=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/MateuszDrewniak/ruby-test-runner/0.3.7/file/MateuszDrewniak.ruby-test-runner-0.3.7.vsix"
+        },
+        "version": "0.3.7"
+    },
     "Matronator-haxeui": {
         "cargoLocks": null,
         "extract": null,
@@ -15060,11 +15098,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e0zTKsC/+119d8aZ/3c3RMMOUezn+XYwZ9EvxZD1P/k=",
+            "sha256": "sha256-ZKFwyJR7AWiKPlpWIynWBkGUl1MGy1KHyURI+FgYKT8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.47/file/firsttris.vscode-jest-runner-0.4.47.vsix"
+            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.53/file/firsttris.vscode-jest-runner-0.4.53.vsix"
         },
-        "version": "0.4.47"
+        "version": "0.4.53"
     },
     "fivethree-vscode-hugo-snippets": {
         "cargoLocks": null,
