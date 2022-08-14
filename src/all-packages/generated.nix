@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "28867758c486b12ebe387d72bba2be67a7dc8a2a";
+    version = "d906617fb681bd665d6ede26ba27f51046496e8e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "28867758c486b12ebe387d72bba2be67a7dc8a2a";
+      rev = "d906617fb681bd665d6ede26ba27f51046496e8e";
       fetchSubmodules = false;
-      sha256 = "sha256-rutEC/em1AdCjkzbHd2nvFJgmjBUzM7k9MVq7nLp4DE=";
+      sha256 = "sha256-uXyWw3zGiuOF1rfCHkxc4Y/zDy49XCkILaerdwyhqJE=";
     });
   };
   ibus = {
@@ -735,16 +735,16 @@
   };
   ouch = {
     pname = "ouch";
-    version = "72295d872cb0346cdcb122c8473687407cafbe0d";
+    version = "e377dd3a3a181545eed84229e8bdaba8687b76d6";
     src = fetchFromGitHub ({
       owner = "ouch-org";
       repo = "ouch";
-      rev = "72295d872cb0346cdcb122c8473687407cafbe0d";
+      rev = "e377dd3a3a181545eed84229e8bdaba8687b76d6";
       fetchSubmodules = false;
-      sha256 = "sha256-d9wH/x75/TxvfgH0ELirpxOoKxblB/1ENusveWRfaHk=";
+      sha256 = "sha256-2uJUwB6gYXPCMrmSrGEAmZGWhjAPPS1oi6Rn39l2ybk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./ouch-72295d872cb0346cdcb122c8473687407cafbe0d/Cargo.lock;
+      lockFile = ./ouch-e377dd3a3a181545eed84229e8bdaba8687b76d6/Cargo.lock;
       outputHashes = {
         
       };
@@ -932,26 +932,26 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.32.0";
+    version = "0.33.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.32.0/app-release-unsigned.apk";
-      sha256 = "sha256-eD5ftwOGRT0fUoEA0t3zphLXe8go/y4x94LYIYJGxeA=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.33.0/app-release-unsigned.apk";
+      sha256 = "sha256-f5U5xKSutmWSYMkWuiVeq75k2mIX61Apfzv+yJksgRM=";
     };
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.35.0";
+    version = "2.36.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.35.0/revanced-patches-2.35.0.dex";
-      sha256 = "sha256-Dh0QQQSWVjxsEv3tESDT5TrXdRs6+sZ7dwcX4HQePa0=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.36.2/revanced-patches-2.36.2.dex";
+      sha256 = "sha256-MLrxM0LE6av0Jj3YiLGkM3a89CFt6uK1yybI6jCsnPM=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.35.0";
+    version = "2.36.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.35.0/revanced-patches-2.35.0.jar";
-      sha256 = "sha256-JBkSVm/senZAl7Brz5Oknb3p7HAqNO0DdOZ64IcdCdI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.36.2/revanced-patches-2.36.2.jar";
+      sha256 = "sha256-Ydqyl2xCQ613nUQfYroPxP574eTH6hZH12bUgeZ+dmc=";
     };
   };
   rofi-wayland = {
