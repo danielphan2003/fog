@@ -5367,10 +5367,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.6.1";
+    version = "5.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.1/file/anweber.vscode-httpyac-5.6.1.vsix";
-      sha256 = "sha256-6TcwBmdv4eXVOE0KclVeExISy5uFNcS66KDl1FynztI=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.2/file/anweber.vscode-httpyac-5.6.2.vsix";
+      sha256 = "sha256-tMAhTI0VbgpeG365anCkQPcDxZpjTJwDVIkrMIq9S/E=";
     };
     license = "MIT";
     name = "vscode-httpyac";
