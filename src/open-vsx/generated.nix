@@ -12327,10 +12327,10 @@
   };
   julialang-language-julia = {
     pname = "julialang-language-julia";
-    version = "1.6.30";
+    version = "1.6.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.6.30/file/julialang.language-julia-1.6.30.vsix";
-      sha256 = "sha256-HZaltck0cKSBSPGCByLaIgui2tUf+aLmR56vyi60YUQ=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.6.31/file/julialang.language-julia-1.6.31.vsix";
+      sha256 = "sha256-pKLnIx2GAMwPPpjmU0xz0NTO6ykhisHIoYpyt8QuhhA=";
     };
     license = "MIT";
     name = "language-julia";
@@ -24180,6 +24180,18 @@
     name = "expressive-rdf-mapper";
     description = "DSL to generate R2RML, RML, CARML mappings";
     publisher = "zazuko-gmbh";
+  };
+  zed-nait-kaolin-vscode-themes = {
+    pname = "zed-nait-kaolin-vscode-themes";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/zed-nait/kaolin-vscode-themes/0.1.0/file/zed-nait.kaolin-vscode-themes-0.1.0.vsix";
+      sha256 = "sha256-qSlfIQWXqMsIq97hCrIdvpOaOLkEQ/LFtqv4gaRYJAQ=";
+    };
+    license = "GPL-3.0";
+    name = "kaolin-vscode-themes";
+    description = "Kaolin-inspiried themes for VS Code/Codium";
+    publisher = "zed-nait";
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
