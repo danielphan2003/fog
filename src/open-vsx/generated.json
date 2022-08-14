@@ -3989,6 +3989,25 @@
         },
         "version": "0.3.7"
     },
+    "MateuszDrewniak-theme-dracula-dark-plus": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "MateuszDrewniak-theme-dracula-dark-plus",
+        "passthru": {
+            "description": "Yet another Dracula Official Theme fork, but with colors switched to resemble Dark+",
+            "license": "MIT",
+            "name": "theme-dracula-dark-plus",
+            "publisher": "MateuszDrewniak"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-H5rCxu+aA2Dwsp7oaVj/UIQDH/Oqo0BEGh+TCh6I0co=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/MateuszDrewniak/theme-dracula-dark-plus/2.24.4/file/MateuszDrewniak.theme-dracula-dark-plus-2.24.4.vsix"
+        },
+        "version": "2.24.4"
+    },
     "Matronator-haxeui": {
         "cargoLocks": null,
         "extract": null,
@@ -38183,11 +38202,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1xkPnHTDR98hqWIfgWtvA9YyvYFvagFkBmjDJQWEXGk=",
+            "sha256": "sha256-EIp2Xvf5eGfpchKjz91xpT49pir4ctTf3yZRpCPPFow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.69/file/zardoy.zardoy-experiments-0.0.69.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.70/file/zardoy.zardoy-experiments-0.0.70.vsix"
         },
-        "version": "0.0.69"
+        "version": "0.0.70"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,

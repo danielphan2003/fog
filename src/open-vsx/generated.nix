@@ -2521,6 +2521,18 @@
     description = "Run unit-test and rspec tests with one click!";
     publisher = "MateuszDrewniak";
   };
+  MateuszDrewniak-theme-dracula-dark-plus = {
+    pname = "MateuszDrewniak-theme-dracula-dark-plus";
+    version = "2.24.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/MateuszDrewniak/theme-dracula-dark-plus/2.24.4/file/MateuszDrewniak.theme-dracula-dark-plus-2.24.4.vsix";
+      sha256 = "sha256-H5rCxu+aA2Dwsp7oaVj/UIQDH/Oqo0BEGh+TCh6I0co=";
+    };
+    license = "MIT";
+    name = "theme-dracula-dark-plus";
+    description = "Yet another Dracula Official Theme fork, but with colors switched to resemble Dark+";
+    publisher = "MateuszDrewniak";
+  };
   Matronator-haxeui = {
     pname = "Matronator-haxeui";
     version = "0.0.3";
@@ -24111,10 +24123,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.69";
+    version = "0.0.70";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.69/file/zardoy.zardoy-experiments-0.0.69.vsix";
-      sha256 = "sha256-1xkPnHTDR98hqWIfgWtvA9YyvYFvagFkBmjDJQWEXGk=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.70/file/zardoy.zardoy-experiments-0.0.70.vsix";
+      sha256 = "sha256-EIp2Xvf5eGfpchKjz91xpT49pir4ctTf3yZRpCPPFow=";
     };
     license = "MIT";
     name = "zardoy-experiments";
