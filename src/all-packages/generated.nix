@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "af6995580179275f8969a6fec4f8ccc37bcc2a17";
+    version = "a417980a81c1b0ec97a0891e11b5b893c9dcce55";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "af6995580179275f8969a6fec4f8ccc37bcc2a17";
+      rev = "a417980a81c1b0ec97a0891e11b5b893c9dcce55";
       fetchSubmodules = false;
-      sha256 = "sha256-uHMBgHPdc106rHXRcpIyltV0u/lZVf+65AV+2fMbfL8=";
+      sha256 = "sha256-qIHpDaEUgFfwC9O5K3s9iAl7u+j82g5R5Kq1qxO9q+c=";
     });
   };
   cinny-bin = {
@@ -1070,14 +1070,14 @@
   };
   snui = {
     pname = "snui";
-    version = "8b15e501aba4584eb511bc389fd1986dd1dfab1b";
+    version = "57ab7c419c42c68ffad0435f9a087a6d5903d537";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "8b15e501aba4584eb511bc389fd1986dd1dfab1b";
+      rev = "57ab7c419c42c68ffad0435f9a087a6d5903d537";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-lX2xScD7AyPg/udKWw6JhMO8sZWJ+pkhLz5jdXNwIHg=";
+      sha256 = "sha256-sr91IgW5+sV590fZaMCc2RpLp0U4dWDbwr3ASGvJxgs=";
     };
   };
   spicetify-cli = {
