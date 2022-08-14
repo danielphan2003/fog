@@ -14072,11 +14072,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Sn8bX+vcHWvy5p/yKdD//hZ+F+tR0yPM8Onf7ggX4uc=",
+            "sha256": "sha256-hAk/yonyKA2Esb+kH6VJhroQ4iFL/v50YQeuGYuUw9k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.10.0/file/elixir-lsp.elixir-ls-0.10.0.vsix"
+            "url": "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.11.0/file/elixir-lsp.elixir-ls-0.11.0.vsix"
         },
-        "version": "0.10.0"
+        "version": "0.11.0"
     },
     "elves-elvish": {
         "cargoLocks": null,
@@ -27866,11 +27866,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zPvIbRTRD3MAyJdG077LZrMprUhLg7nChsej5mogrBU=",
+            "sha256": "sha256-Tg/5btyWu8DUJtLfY0XDUFi2jIKcorEhZaMISL56xRo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.1/file/rangav.vscode-thunder-client-1.18.1.vsix"
+            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.4/file/rangav.vscode-thunder-client-1.18.4.vsix"
         },
-        "version": "1.18.1"
+        "version": "1.18.4"
     },
     "razetime-bqn-language": {
         "cargoLocks": null,

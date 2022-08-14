@@ -8883,10 +8883,10 @@
   };
   elixir-lsp-elixir-ls = {
     pname = "elixir-lsp-elixir-ls";
-    version = "0.10.0";
+    version = "0.11.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.10.0/file/elixir-lsp.elixir-ls-0.10.0.vsix";
-      sha256 = "sha256-Sn8bX+vcHWvy5p/yKdD//hZ+F+tR0yPM8Onf7ggX4uc=";
+      url = "https://open-vsx.org/api/elixir-lsp/elixir-ls/0.11.0/file/elixir-lsp.elixir-ls-0.11.0.vsix";
+      sha256 = "sha256-hAk/yonyKA2Esb+kH6VJhroQ4iFL/v50YQeuGYuUw9k=";
     };
     license = "MIT";
     name = "elixir-ls";
@@ -17595,10 +17595,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.18.1";
+    version = "1.18.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.1/file/rangav.vscode-thunder-client-1.18.1.vsix";
-      sha256 = "sha256-zPvIbRTRD3MAyJdG077LZrMprUhLg7nChsej5mogrBU=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.4/file/rangav.vscode-thunder-client-1.18.4.vsix";
+      sha256 = "sha256-Tg/5btyWu8DUJtLfY0XDUFi2jIKcorEhZaMISL56xRo=";
     };
     license = "";
     name = "vscode-thunder-client";
