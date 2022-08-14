@@ -4268,11 +4268,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DHzVTj6xRuq5OCG6MUu8mKMjH6GHx5LsIEPrC85HjtI=",
+            "sha256": "sha256-4xyJMXxn0ursQnPr4XoG2IbNCRj8AQuv4MEbPa8UfCs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.3/file/ModyQyW.vscode-uni-helper-0.5.3.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.4/file/ModyQyW.vscode-uni-helper-0.5.4.vsix"
         },
-        "version": "0.5.3"
+        "version": "0.5.4"
     },
     "ModyQyW-vscode-uni-ui-snippets": {
         "cargoLocks": null,
@@ -12609,11 +12609,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VjAVy3DEEGtsJKbh9TWNYRvyiyveLBC5GkLHPnIY4M0=",
+            "sha256": "sha256-dcSVCDmucyrJGjookKQy9NYLJZQxlgqtxJpM6K/bsC0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.1/file/davelopez.galaxy-tools-0.7.1.vsix"
+            "url": "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.2/file/davelopez.galaxy-tools-0.7.2.vsix"
         },
-        "version": "0.7.1"
+        "version": "0.7.2"
     },
     "davidlday-languagetool-linter": {
         "cargoLocks": null,
@@ -24889,6 +24889,25 @@
         },
         "version": "1.1.0"
     },
+    "namespacelabs-namespace-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "namespacelabs-namespace-vscode",
+        "passthru": {
+            "description": "Language server and tools to support Namespace workflows (Early Access).",
+            "license": "EARLY ACCESS SOFTWARE LICENSE AGREEMENT",
+            "name": "namespace-vscode",
+            "publisher": "namespacelabs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-TntucpiAhNqivlqOe2GVLF03qmuzizVNwijnBhZKhJE=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/namespacelabs/namespace-vscode/0.1.6/file/namespacelabs.namespace-vscode-0.1.6.vsix"
+        },
+        "version": "0.1.6"
+    },
     "nanaian-vscode-star-rod": {
         "cargoLocks": null,
         "extract": null,
@@ -26256,6 +26275,25 @@
             "url": "https://open-vsx.org/api/pavlitsky/yard/0.4.0/file/pavlitsky.yard-0.4.0.vsix"
         },
         "version": "0.4.0"
+    },
+    "pbkit-vscode-pbkit": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "pbkit-vscode-pbkit",
+        "passthru": {
+            "description": "Syntax highlight, Go to definition and Auto completion.",
+            "license": "(MIT OR Apache-2.0)",
+            "name": "vscode-pbkit",
+            "publisher": "pbkit"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-0v+H/UTuR0Movk2m1aeliujUFuBwSRTwd9XP/7YMrWU=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/pbkit/vscode-pbkit/0.0.5/file/pbkit.vscode-pbkit-0.0.5.vsix"
+        },
+        "version": "0.0.5"
     },
     "pdesaulniers-vscode-teal": {
         "cargoLocks": null,

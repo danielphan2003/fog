@@ -2691,10 +2691,10 @@
   };
   ModyQyW-vscode-uni-helper = {
     pname = "ModyQyW-vscode-uni-helper";
-    version = "0.5.3";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.3/file/ModyQyW.vscode-uni-helper-0.5.3.vsix";
-      sha256 = "sha256-DHzVTj6xRuq5OCG6MUu8mKMjH6GHx5LsIEPrC85HjtI=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.4/file/ModyQyW.vscode-uni-helper-0.5.4.vsix";
+      sha256 = "sha256-4xyJMXxn0ursQnPr4XoG2IbNCRj8AQuv4MEbPa8UfCs=";
     };
     license = "MIT";
     name = "vscode-uni-helper";
@@ -7959,10 +7959,10 @@
   };
   davelopez-galaxy-tools = {
     pname = "davelopez-galaxy-tools";
-    version = "0.7.1";
+    version = "0.7.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.1/file/davelopez.galaxy-tools-0.7.1.vsix";
-      sha256 = "sha256-VjAVy3DEEGtsJKbh9TWNYRvyiyveLBC5GkLHPnIY4M0=";
+      url = "https://open-vsx.org/api/davelopez/galaxy-tools/0.7.2/file/davelopez.galaxy-tools-0.7.2.vsix";
+      sha256 = "sha256-dcSVCDmucyrJGjookKQy9NYLJZQxlgqtxJpM6K/bsC0=";
     };
     license = "Apache-2.0";
     name = "galaxy-tools";
@@ -15721,6 +15721,18 @@
     description = "Run all Symfony commands from VsCode UI without writing any line.";
     publisher = "nadim-vscode";
   };
+  namespacelabs-namespace-vscode = {
+    pname = "namespacelabs-namespace-vscode";
+    version = "0.1.6";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/namespacelabs/namespace-vscode/0.1.6/file/namespacelabs.namespace-vscode-0.1.6.vsix";
+      sha256 = "sha256-TntucpiAhNqivlqOe2GVLF03qmuzizVNwijnBhZKhJE=";
+    };
+    license = "EARLY ACCESS SOFTWARE LICENSE AGREEMENT";
+    name = "namespace-vscode";
+    description = "Language server and tools to support Namespace workflows (Early Access).";
+    publisher = "namespacelabs";
+  };
   nanaian-vscode-star-rod = {
     pname = "nanaian-vscode-star-rod";
     version = "1.6.3";
@@ -16584,6 +16596,18 @@
     name = "yard";
     description = "Document Ruby source code with YARD";
     publisher = "pavlitsky";
+  };
+  pbkit-vscode-pbkit = {
+    pname = "pbkit-vscode-pbkit";
+    version = "0.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/pbkit/vscode-pbkit/0.0.5/file/pbkit.vscode-pbkit-0.0.5.vsix";
+      sha256 = "sha256-0v+H/UTuR0Movk2m1aeliujUFuBwSRTwd9XP/7YMrWU=";
+    };
+    license = "(MIT OR Apache-2.0)";
+    name = "vscode-pbkit";
+    description = "Syntax highlight, Go to definition and Auto completion.";
+    publisher = "pbkit";
   };
   pdesaulniers-vscode-teal = {
     pname = "pdesaulniers-vscode-teal";
