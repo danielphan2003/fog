@@ -3723,10 +3723,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.11";
+    version = "3.6.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.11/file/TabNine.tabnine-vscode-3.6.11.vsix";
-      sha256 = "sha256-kKijTNvyOLiT8NgGq673L0TE5g9Hm5Q7pOSTOQi7Nv0=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.12/file/TabNine.tabnine-vscode-3.6.12.vsix";
+      sha256 = "sha256-DF5KWFLsKmDiFYfF/cwh5dqYQlhEbK/pjIaeQjWXml0=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -4047,10 +4047,10 @@
   };
   WakaTime-vscode-wakatime = {
     pname = "WakaTime-vscode-wakatime";
-    version = "18.0.8";
+    version = "19.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.8/file/WakaTime.vscode-wakatime-18.0.8.vsix";
-      sha256 = "sha256-XwzoSWaNJ8u+5wfFkXw6KWUHCHTMJVfiixrf+WGhPoo=";
+      url = "https://open-vsx.org/api/WakaTime/vscode-wakatime/19.0.0/file/WakaTime.vscode-wakatime-19.0.0.vsix";
+      sha256 = "sha256-vuVd97Ig6z45Vtaob6675rt7MUuKbZusS6s7tqrYYBA=";
     };
     license = "BSD-3-Clause";
     name = "vscode-wakatime";
@@ -10575,10 +10575,10 @@
   };
   hbenl-vscode-jasmine-test-adapter = {
     pname = "hbenl-vscode-jasmine-test-adapter";
-    version = "1.8.1";
+    version = "1.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.1/file/hbenl.vscode-jasmine-test-adapter-1.8.1.vsix";
-      sha256 = "sha256-3u1azOyPfk8MNyuewX90f9kb80cScYvnH9P8y+1rrCs=";
+      url = "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.2/file/hbenl.vscode-jasmine-test-adapter-1.8.2.vsix";
+      sha256 = "sha256-SyKvAezAlxz16JmIZW7Ag9gJ1vK08kBamoT8T5oROdQ=";
     };
     license = "MIT";
     name = "vscode-jasmine-test-adapter";
@@ -12051,10 +12051,10 @@
   };
   jnoortheen-nix-ide = {
     pname = "jnoortheen-nix-ide";
-    version = "0.1.20";
+    version = "0.1.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.20/file/jnoortheen.nix-ide-0.1.20.vsix";
-      sha256 = "sha256-GIoklDi0XVZ6rUdIhi7MTX1lCQdx0wpZx7gcCGoIizE=";
+      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.22/file/jnoortheen.nix-ide-0.1.22.vsix";
+      sha256 = "sha256-HjdkdIsdlateU81eTl8vjt0ewBhNhQVYfziyrl+ZSOs=";
     };
     license = "MIT";
     name = "nix-ide";

@@ -5902,11 +5902,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kKijTNvyOLiT8NgGq673L0TE5g9Hm5Q7pOSTOQi7Nv0=",
+            "sha256": "sha256-DF5KWFLsKmDiFYfF/cwh5dqYQlhEbK/pjIaeQjWXml0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.11/file/TabNine.tabnine-vscode-3.6.11.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.12/file/TabNine.tabnine-vscode-3.6.12.vsix"
         },
-        "version": "3.6.11"
+        "version": "3.6.12"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -6415,11 +6415,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XwzoSWaNJ8u+5wfFkXw6KWUHCHTMJVfiixrf+WGhPoo=",
+            "sha256": "sha256-vuVd97Ig6z45Vtaob6675rt7MUuKbZusS6s7tqrYYBA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WakaTime/vscode-wakatime/18.0.8/file/WakaTime.vscode-wakatime-18.0.8.vsix"
+            "url": "https://open-vsx.org/api/WakaTime/vscode-wakatime/19.0.0/file/WakaTime.vscode-wakatime-19.0.0.vsix"
         },
-        "version": "18.0.8"
+        "version": "19.0.0"
     },
     "WatermelonTools-watermelon-tools": {
         "cargoLocks": null,
@@ -16751,11 +16751,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3u1azOyPfk8MNyuewX90f9kb80cScYvnH9P8y+1rrCs=",
+            "sha256": "sha256-SyKvAezAlxz16JmIZW7Ag9gJ1vK08kBamoT8T5oROdQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.1/file/hbenl.vscode-jasmine-test-adapter-1.8.1.vsix"
+            "url": "https://open-vsx.org/api/hbenl/vscode-jasmine-test-adapter/1.8.2/file/hbenl.vscode-jasmine-test-adapter-1.8.2.vsix"
         },
-        "version": "1.8.1"
+        "version": "1.8.2"
     },
     "hbenl-vscode-mocha-test-adapter": {
         "cargoLocks": null,
@@ -19088,11 +19088,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GIoklDi0XVZ6rUdIhi7MTX1lCQdx0wpZx7gcCGoIizE=",
+            "sha256": "sha256-HjdkdIsdlateU81eTl8vjt0ewBhNhQVYfziyrl+ZSOs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.20/file/jnoortheen.nix-ide-0.1.20.vsix"
+            "url": "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.22/file/jnoortheen.nix-ide-0.1.22.vsix"
         },
-        "version": "0.1.20"
+        "version": "0.1.22"
     },
     "jnoortheen-xonsh": {
         "cargoLocks": null,
