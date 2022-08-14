@@ -439,7 +439,7 @@
     "conduit": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./conduit-0b926c2a31deff57a3526dd75d8c08775b02241a/Cargo.lock",
+                "./conduit-147f27521c0d7dbc32d39ec1d8da6cd00008f23c/Cargo.lock",
                 {
                     "heed-0.10.6": "sha256-rm02pJ6wGYN4SsAbp85jBVHDQ5ITjZZd+79EC2ubRsY=",
                     "reqwest-0.11.9": "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=",
@@ -456,12 +456,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "0b926c2a31deff57a3526dd75d8c08775b02241a",
-            "sha256": "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=",
+            "rev": "147f27521c0d7dbc32d39ec1d8da6cd00008f23c",
+            "sha256": "sha256-j469Zh8zyqJNWz7q6gjRu1Khk9y6Xbb52SpxzNjADW8=",
             "type": "git",
             "url": "https://gitlab.com/famedly/conduit"
         },
-        "version": "0b926c2a31deff57a3526dd75d8c08775b02241a"
+        "version": "147f27521c0d7dbc32d39ec1d8da6cd00008f23c"
     },
     "conduit-toolbox": {
         "cargoLocks": {
@@ -1572,11 +1572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yOJHgPynNgcllWI+wcIpTiohzUPdTz8jJYc0ryp4aNM=",
+            "sha256": "sha256-Dh0QQQSWVjxsEv3tESDT5TrXdRs6+sZ7dwcX4HQePa0=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.34.0/revanced-patches-2.34.0.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.35.0/revanced-patches-2.35.0.dex"
         },
-        "version": "2.34.0"
+        "version": "2.35.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1586,11 +1586,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aVQL2JhOxb4wYK1nvNlZQE47Z3zbDv7ANgXmqG8d53U=",
+            "sha256": "sha256-JBkSVm/senZAl7Brz5Oknb3p7HAqNO0DdOZ64IcdCdI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.34.0/revanced-patches-2.34.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.35.0/revanced-patches-2.35.0.jar"
         },
-        "version": "2.34.0"
+        "version": "2.35.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,

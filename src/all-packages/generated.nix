@@ -265,17 +265,17 @@
   };
   conduit = {
     pname = "conduit";
-    version = "0b926c2a31deff57a3526dd75d8c08775b02241a";
+    version = "147f27521c0d7dbc32d39ec1d8da6cd00008f23c";
     src = fetchgit {
       url = "https://gitlab.com/famedly/conduit";
-      rev = "0b926c2a31deff57a3526dd75d8c08775b02241a";
+      rev = "147f27521c0d7dbc32d39ec1d8da6cd00008f23c";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-UQpMM4GDNcRKaYime1VyzyeTiAwvFDn79So1XibdD7U=";
+      sha256 = "sha256-j469Zh8zyqJNWz7q6gjRu1Khk9y6Xbb52SpxzNjADW8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./conduit-0b926c2a31deff57a3526dd75d8c08775b02241a/Cargo.lock;
+      lockFile = ./conduit-147f27521c0d7dbc32d39ec1d8da6cd00008f23c/Cargo.lock;
       outputHashes = {
         "ruma-0.5.0" = "sha256-srmybII7j3xkSDVFvIiWUQnZsW+vEKKagSZhA5MRRQc=";
         "reqwest-0.11.9" = "sha256-wH/q7REnkz30ENBIK5Rlxnc1F6vOyuEANMHFmiVPaGw=";
@@ -940,18 +940,18 @@
   };
   revanced-patches-dex = {
     pname = "revanced-patches-dex";
-    version = "2.34.0";
+    version = "2.35.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.34.0/revanced-patches-2.34.0.dex";
-      sha256 = "sha256-yOJHgPynNgcllWI+wcIpTiohzUPdTz8jJYc0ryp4aNM=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.35.0/revanced-patches-2.35.0.dex";
+      sha256 = "sha256-Dh0QQQSWVjxsEv3tESDT5TrXdRs6+sZ7dwcX4HQePa0=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.34.0";
+    version = "2.35.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.34.0/revanced-patches-2.34.0.jar";
-      sha256 = "sha256-aVQL2JhOxb4wYK1nvNlZQE47Z3zbDv7ANgXmqG8d53U=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.35.0/revanced-patches-2.35.0.jar";
+      sha256 = "sha256-JBkSVm/senZAl7Brz5Oknb3p7HAqNO0DdOZ64IcdCdI=";
     };
   };
   rofi-wayland = {
