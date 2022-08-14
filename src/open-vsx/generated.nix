@@ -7167,10 +7167,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.20";
+    version = "0.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.20/file/cloudstudio.workspaces-0.0.20.vsix";
-      sha256 = "sha256-XJiNP7xPFKkt3Z9X+oE8R5PAuygNqxQR1nNJNOrX4fw=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.21/file/cloudstudio.workspaces-0.0.21.vsix";
+      sha256 = "sha256-tdrTOgBw1VKsup44qwFiodju8hK3pJqfH4jZeZ3Ies8=";
     };
     license = "MIT";
     name = "workspaces";
@@ -17343,10 +17343,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.34.0";
+    version = "1.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.34.0/file/qcz.text-power-tools-1.34.0.vsix";
-      sha256 = "sha256-rqVNgddFns64hAPr9tCdLqv2TkBpkQE7axNRs6peRxw=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.35.0/file/qcz.text-power-tools-1.35.0.vsix";
+      sha256 = "sha256-x9wIOMI/8MIwr1qxi0IGLH0rgc+khMJdWICEiDq7zgE=";
     };
     license = "MIT";
     name = "text-power-tools";
