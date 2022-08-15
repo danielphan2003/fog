@@ -27068,11 +27068,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0PH9dV3vy5tdxkua0DxJNlq5MK7LBxZRGKimLDRiYsU=",
+            "sha256": "sha256-/PMdmObxZo4vt9UpDxOyRBZ7+IfGykbBE8DX70nXjTc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.413/file/pokey.cursorless-0.26.413.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.414/file/pokey.cursorless-0.26.414.vsix"
         },
-        "version": "0.26.413"
+        "version": "0.26.414"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
