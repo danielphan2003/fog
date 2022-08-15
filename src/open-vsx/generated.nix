@@ -1273,6 +1273,18 @@
     description = "No-code UI builder for Genie/Julia applications";
     publisher = "GenieBuilder";
   };
+  GenieBuilder-geniebuilder-insider = {
+    pname = "GenieBuilder-geniebuilder-insider";
+    version = "0.1.17";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.17/file/GenieBuilder.geniebuilder-insider-0.1.17.vsix";
+      sha256 = "sha256-QPcHMsUYtwIXdHGDoAJwH4b03erQPPFwh+Uo3V2cw7w=";
+    };
+    license = "";
+    name = "geniebuilder-insider";
+    description = "No-code UI builder for Genie/Julia applications";
+    publisher = "GenieBuilder";
+  };
   GitHub-github-vscode-theme = {
     pname = "GitHub-github-vscode-theme";
     version = "6.3.1";
@@ -3123,10 +3135,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1296";
+    version = "31.0.1298";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1296/file/Prisma.prisma-insider-31.0.1296.vsix";
-      sha256 = "sha256-6k8+vIU3Rp1YRCwx34zgQmQsU2LuAPUUgH2EW6dBQXM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1298/file/Prisma.prisma-insider-31.0.1298.vsix";
+      sha256 = "sha256-WLEmqpC1f1rP62V9H8Ou8s2Nf/qO6Yz2y8t+0ixuBho=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5655,10 +5667,10 @@
   };
   arzg-apprentice = {
     pname = "arzg-apprentice";
-    version = "1.2.1";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arzg/apprentice/1.2.1/file/arzg.apprentice-1.2.1.vsix";
-      sha256 = "sha256-eWjPn1w99+45L9TEsemMMjyMMCVGxO2FW/fnDBRGvY8=";
+      url = "https://open-vsx.org/api/arzg/apprentice/1.3.0/file/arzg.apprentice-1.3.0.vsix";
+      sha256 = "sha256-xGOg11gWCCUeRoBeMa/dPmbJ3JZDI7xrzyBAgDR5E30=";
     };
     license = "MIT";
     name = "apprentice";
@@ -8283,10 +8295,10 @@
   };
   devfactory-multispace = {
     pname = "devfactory-multispace";
-    version = "0.0.73";
+    version = "0.0.74";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devfactory/multispace/0.0.73/file/devfactory.multispace-0.0.73.vsix";
-      sha256 = "sha256-J7y4Ab15TUCKDQufNuXVMGdewYViupBxG8kAQ11NZYc=";
+      url = "https://open-vsx.org/api/devfactory/multispace/0.0.74/file/devfactory.multispace-0.0.74.vsix";
+      sha256 = "sha256-9KVL4G42eHhFGrCbTqc0TklcAvRf3YCkp+FECdUhrFQ=";
     };
     license = "MIT";
     name = "multispace";
@@ -12097,6 +12109,18 @@
     description = "SVG Coding, Minify, Pretty, Preview All-In-One";
     publisher = "jock";
   };
+  joedevivo-vscode-circuitpython = {
+    pname = "joedevivo-vscode-circuitpython";
+    version = "0.1.19";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/joedevivo/vscode-circuitpython/0.1.19/file/joedevivo.vscode-circuitpython-0.1.19.vsix";
+      sha256 = "sha256-v+eqIBjoiSBZSKPTyhWpXXqulmvMGWAyyAdYMWVt78s=";
+    };
+    license = "MIT";
+    name = "vscode-circuitpython";
+    description = "CircuitPython for Visual Studio Code";
+    publisher = "joedevivo";
+  };
   joelday-docthis = {
     pname = "joelday-docthis";
     version = "0.8.2";
@@ -13179,10 +13203,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.91";
+    version = "0.0.92";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.91/file/leanprover.lean4-0.0.91.vsix";
-      sha256 = "sha256-ePmXvN5hYTvgNiUpJjf1OtUsIMeAVZfwKfDWpH02vA0=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.92/file/leanprover.lean4-0.0.92.vsix";
+      sha256 = "sha256-bm6U/fMu6JKKWm3inxQNJDtMvgXZKIdl5OKBqRkKxEQ=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -24315,10 +24339,10 @@
   };
   znck-grammarly = {
     pname = "znck-grammarly";
-    version = "0.23.7";
+    version = "0.23.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/grammarly/0.23.7/file/znck.grammarly-0.23.7.vsix";
-      sha256 = "sha256-DbFWkE/SF/dDD3eLyk660PyvqnDCsunJl/5gtMdZt+g=";
+      url = "https://open-vsx.org/api/znck/grammarly/0.23.9/file/znck.grammarly-0.23.9.vsix";
+      sha256 = "sha256-82xo8saq1vyMUyr1VDlEOqi4QY2rYlhGgCpka5zhkJo=";
     };
     license = "MIT";
     name = "grammarly";
