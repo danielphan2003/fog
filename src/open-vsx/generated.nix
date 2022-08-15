@@ -1275,10 +1275,10 @@
   };
   GenieBuilder-geniebuilder-insider = {
     pname = "GenieBuilder-geniebuilder-insider";
-    version = "0.1.17";
+    version = "0.1.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.17/file/GenieBuilder.geniebuilder-insider-0.1.17.vsix";
-      sha256 = "sha256-QPcHMsUYtwIXdHGDoAJwH4b03erQPPFwh+Uo3V2cw7w=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.18/file/GenieBuilder.geniebuilder-insider-0.1.18.vsix";
+      sha256 = "sha256-kaF5xk3VJmvrRngsV0sKzrncQzc2Z9G6Chm3ynlyltU=";
     };
     license = "";
     name = "geniebuilder-insider";

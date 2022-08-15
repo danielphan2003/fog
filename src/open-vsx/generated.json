@@ -2026,11 +2026,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QPcHMsUYtwIXdHGDoAJwH4b03erQPPFwh+Uo3V2cw7w=",
+            "sha256": "sha256-kaF5xk3VJmvrRngsV0sKzrncQzc2Z9G6Chm3ynlyltU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.17/file/GenieBuilder.geniebuilder-insider-0.1.17.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.18/file/GenieBuilder.geniebuilder-insider-0.1.18.vsix"
         },
-        "version": "0.1.17"
+        "version": "0.1.18"
     },
     "GitHub-github-vscode-theme": {
         "cargoLocks": null,
