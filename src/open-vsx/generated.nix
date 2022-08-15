@@ -3327,10 +3327,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.34.0";
+    version = "2.34.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.0/file/RokuCommunity.brightscript-2.34.0.vsix";
-      sha256 = "sha256-Q46SZYntM9eIvQI0qMZDo4gFjiih6mIfhsgGD3cHVCs=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.1/file/RokuCommunity.brightscript-2.34.1.vsix";
+      sha256 = "sha256-zE+IRLBrF28xf13j371QgqHKP8n5zkQRoAeAZI2jtEA=";
     };
     license = "MIT";
     name = "brightscript";
@@ -12447,10 +12447,10 @@
   };
   kahole-magit = {
     pname = "kahole-magit";
-    version = "0.6.30";
+    version = "0.6.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kahole/magit/0.6.30/file/kahole.magit-0.6.30.vsix";
-      sha256 = "sha256-492xPIc3MBvtI9jO7xr6p6WLyOAdhD3l2MT7Seyxm2g=";
+      url = "https://open-vsx.org/api/kahole/magit/0.6.31/file/kahole.magit-0.6.31.vsix";
+      sha256 = "sha256-IIRYEYnA9ipwpDeW7aq+uhURm/FDlaqbqffVppeEE9k=";
     };
     license = "MIT";
     name = "magit";
@@ -12879,10 +12879,10 @@
   };
   koog1000-fossil = {
     pname = "koog1000-fossil";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/koog1000/fossil/0.1.6/file/koog1000.fossil-0.1.6.vsix";
-      sha256 = "sha256-GKAJWo9/2yaWVn49TqAWmV0GT0g23bsrzztecqPX8IQ=";
+      url = "https://open-vsx.org/api/koog1000/fossil/0.1.7/file/koog1000.fossil-0.1.7.vsix";
+      sha256 = "sha256-mpJkeqgVL2GCnTG+SXJ02pTdxyog6CIWMLUcdyb7/AM=";
     };
     license = "MIT";
     name = "fossil";
@@ -16443,10 +16443,10 @@
   };
   oscarlevin-pretext-tools = {
     pname = "oscarlevin-pretext-tools";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oscarlevin/pretext-tools/0.5.0/file/oscarlevin.pretext-tools-0.5.0.vsix";
-      sha256 = "sha256-howxDyKLjw/0QFvSjjB7kGMZurNoOMkuF77rziR3sL8=";
+      url = "https://open-vsx.org/api/oscarlevin/pretext-tools/0.6.0/file/oscarlevin.pretext-tools-0.6.0.vsix";
+      sha256 = "sha256-mBwsGR1mEbpyS5yNaeEx+yLCBBWw6wZuqyiqRjq26oY=";
     };
     license = "See license in LICENSE";
     name = "pretext-tools";
