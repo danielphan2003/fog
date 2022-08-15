@@ -4203,7 +4203,7 @@
         "extract": null,
         "name": "ModyQyW-vscode-uni-app-schemas",
         "passthru": {
-            "description": "æ ¡éª `uni-app` ä¸­ç `androidPrivacy.json`ã`pages.json` å `manifest.json` æ ¼å¼ã",
+            "description": "æ ¡éª uni-app ä¸­ç androidPrivacy.jsonãpages.json å manifest.json æ ¼å¼ã",
             "license": "MIT",
             "name": "vscode-uni-app-schemas",
             "publisher": "ModyQyW"
@@ -4211,18 +4211,18 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nfbm1gveI/JxdnO8s9rwR5OI6juwFaJeGYZCluk6R4M=",
+            "sha256": "sha256-cw56Q5y0C4JnFyd+etCS6MdlemMc0Bp4h2DisVhVBPc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.1/file/ModyQyW.vscode-uni-app-schemas-0.8.1.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.2/file/ModyQyW.vscode-uni-app-schemas-0.8.2.vsix"
         },
-        "version": "0.8.1"
+        "version": "0.8.2"
     },
     "ModyQyW-vscode-uni-app-snippets": {
         "cargoLocks": null,
         "extract": null,
         "name": "ModyQyW-vscode-uni-app-snippets",
         "passthru": {
-            "description": "`uni-app` åºæ¬è½åä»£ç çæ®µã",
+            "description": "uni-app åºæ¬è½åä»£ç çæ®µã",
             "license": "MIT",
             "name": "vscode-uni-app-snippets",
             "publisher": "ModyQyW"
@@ -4230,18 +4230,18 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-n+lLRmP+kdnAYSoVQ582hDo6ZWkIDbtmsrLHmotyOOA=",
+            "sha256": "sha256-fU0KPm2mYmzg/dVmEKWT8v31YOOJyJYM4J3TUUewyUE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.1/file/ModyQyW.vscode-uni-app-snippets-0.9.1.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file/ModyQyW.vscode-uni-app-snippets-0.9.2.vsix"
         },
-        "version": "0.9.1"
+        "version": "0.9.2"
     },
     "ModyQyW-vscode-uni-cloud-snippets": {
         "cargoLocks": null,
         "extract": null,
         "name": "ModyQyW-vscode-uni-cloud-snippets",
         "passthru": {
-            "description": "`uni-cloud` åºæ¬è½åä»£ç çæ®µã",
+            "description": "uni-cloud åºæ¬è½åä»£ç çæ®µã",
             "license": "MIT",
             "name": "vscode-uni-cloud-snippets",
             "publisher": "ModyQyW"
@@ -4249,11 +4249,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bgUDsObm93joj3YifEwn7eUAQ51GAa71X8L1rAmLDgc=",
+            "sha256": "sha256-G9ZhIZRm5shvu+wLjGatLM1B8HFWMRLZSMd1vnIB6mU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.6/file/ModyQyW.vscode-uni-cloud-snippets-0.2.6.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.7/file/ModyQyW.vscode-uni-cloud-snippets-0.2.7.vsix"
         },
-        "version": "0.2.6"
+        "version": "0.2.7"
     },
     "ModyQyW-vscode-uni-helper": {
         "cargoLocks": null,
@@ -4268,18 +4268,18 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-4xyJMXxn0ursQnPr4XoG2IbNCRj8AQuv4MEbPa8UfCs=",
+            "sha256": "sha256-uBigLRmoH0sr41f194toQWg8b7DJZOX0Z/oUQWbi3ZA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.4/file/ModyQyW.vscode-uni-helper-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.5/file/ModyQyW.vscode-uni-helper-0.5.5.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.5.5"
     },
     "ModyQyW-vscode-uni-ui-snippets": {
         "cargoLocks": null,
         "extract": null,
         "name": "ModyQyW-vscode-uni-ui-snippets",
         "passthru": {
-            "description": "`uni-ui` ç»ä»¶ä»£ç çæ®µã",
+            "description": "uni-ui ç»ä»¶ä»£ç çæ®µã",
             "license": "MIT",
             "name": "vscode-uni-ui-snippets",
             "publisher": "ModyQyW"
@@ -4287,11 +4287,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-K9ZDVAZF5/NbXusWlBXsmL3SyEppz4ZAZf1U3DFjVI8=",
+            "sha256": "sha256-fdZCz87e7GUBSRnhp2w3MZiHf/gmhgCmdXKHA+6XOkw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-ui-snippets/0.6.3/file/ModyQyW.vscode-uni-ui-snippets-0.6.3.vsix"
+            "url": "https://open-vsx.org/api/ModyQyW/vscode-uni-ui-snippets/0.6.4/file/ModyQyW.vscode-uni-ui-snippets-0.6.4.vsix"
         },
-        "version": "0.6.3"
+        "version": "0.6.4"
     },
     "MohammadHemmati-php-auto-var-suggestion": {
         "cargoLocks": null,
@@ -18309,11 +18309,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bZ5EzCWmN86fXIp6H5I1GGHqgPZV/Jm2chbodyOl7nk=",
+            "sha256": "sha256-EzRaUmPvTX+M0T4XdI4JaZ593cHhRFzXFXwyuq4Mx+g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.16/file/iterative.dvc-0.3.16.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.17/file/iterative.dvc-0.3.17.vsix"
         },
-        "version": "0.3.16"
+        "version": "0.3.17"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -28626,11 +28626,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-vTbinRcGEkT4MxmVguoJjRe+Tu+qGBi6Gm/SHoflTig=",
+            "sha256": "sha256-r1Wsn8dw7+YLFeo6tzoShs8hfPgeWkQIUktiRkDjO6w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.10/file/remcohaszing.schemastore-1.0.10.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.11/file/remcohaszing.schemastore-1.0.11.vsix"
         },
-        "version": "1.0.10"
+        "version": "1.0.11"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,
@@ -32768,11 +32768,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2kR/qfVvD0If9TvKEiNfWCdryJ+ptAfL0b8YyxVyPN0=",
+            "sha256": "sha256-ub7Sp3a+P9K46GpjEtEaZiXrGT7wIPMwHWrk2jVinDg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/timonwong/shellcheck/0.19.6/file/timonwong.shellcheck-0.19.6.vsix"
+            "url": "https://open-vsx.org/api/timonwong/shellcheck/0.20.0/file/timonwong.shellcheck-0.20.0.vsix"
         },
-        "version": "0.19.6"
+        "version": "0.20.0"
     },
     "tinkerun-tinkerun-vscode": {
         "cargoLocks": null,

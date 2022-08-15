@@ -2655,46 +2655,46 @@
   };
   ModyQyW-vscode-uni-app-schemas = {
     pname = "ModyQyW-vscode-uni-app-schemas";
-    version = "0.8.1";
+    version = "0.8.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.1/file/ModyQyW.vscode-uni-app-schemas-0.8.1.vsix";
-      sha256 = "sha256-nfbm1gveI/JxdnO8s9rwR5OI6juwFaJeGYZCluk6R4M=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-schemas/0.8.2/file/ModyQyW.vscode-uni-app-schemas-0.8.2.vsix";
+      sha256 = "sha256-cw56Q5y0C4JnFyd+etCS6MdlemMc0Bp4h2DisVhVBPc=";
     };
     license = "MIT";
     name = "vscode-uni-app-schemas";
-    description = "\26657\39564 `uni-app` \20013\30340 `androidPrivacy.json`\12289`pages.json` \21644 `manifest.json` \26684\24335\12290";
+    description = "\26657\39564 uni-app \20013\30340 androidPrivacy.json\12289pages.json \21644 manifest.json \26684\24335\12290";
     publisher = "ModyQyW";
   };
   ModyQyW-vscode-uni-app-snippets = {
     pname = "ModyQyW-vscode-uni-app-snippets";
-    version = "0.9.1";
+    version = "0.9.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.1/file/ModyQyW.vscode-uni-app-snippets-0.9.1.vsix";
-      sha256 = "sha256-n+lLRmP+kdnAYSoVQ582hDo6ZWkIDbtmsrLHmotyOOA=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file/ModyQyW.vscode-uni-app-snippets-0.9.2.vsix";
+      sha256 = "sha256-fU0KPm2mYmzg/dVmEKWT8v31YOOJyJYM4J3TUUewyUE=";
     };
     license = "MIT";
     name = "vscode-uni-app-snippets";
-    description = "`uni-app` \22522\26412\33021\21147\20195\30721\29255\27573\12290";
+    description = "uni-app \22522\26412\33021\21147\20195\30721\29255\27573\12290";
     publisher = "ModyQyW";
   };
   ModyQyW-vscode-uni-cloud-snippets = {
     pname = "ModyQyW-vscode-uni-cloud-snippets";
-    version = "0.2.6";
+    version = "0.2.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.6/file/ModyQyW.vscode-uni-cloud-snippets-0.2.6.vsix";
-      sha256 = "sha256-bgUDsObm93joj3YifEwn7eUAQ51GAa71X8L1rAmLDgc=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-cloud-snippets/0.2.7/file/ModyQyW.vscode-uni-cloud-snippets-0.2.7.vsix";
+      sha256 = "sha256-G9ZhIZRm5shvu+wLjGatLM1B8HFWMRLZSMd1vnIB6mU=";
     };
     license = "MIT";
     name = "vscode-uni-cloud-snippets";
-    description = "`uni-cloud` \22522\26412\33021\21147\20195\30721\29255\27573\12290";
+    description = "uni-cloud \22522\26412\33021\21147\20195\30721\29255\27573\12290";
     publisher = "ModyQyW";
   };
   ModyQyW-vscode-uni-helper = {
     pname = "ModyQyW-vscode-uni-helper";
-    version = "0.5.4";
+    version = "0.5.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.4/file/ModyQyW.vscode-uni-helper-0.5.4.vsix";
-      sha256 = "sha256-4xyJMXxn0ursQnPr4XoG2IbNCRj8AQuv4MEbPa8UfCs=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-helper/0.5.5/file/ModyQyW.vscode-uni-helper-0.5.5.vsix";
+      sha256 = "sha256-uBigLRmoH0sr41f194toQWg8b7DJZOX0Z/oUQWbi3ZA=";
     };
     license = "MIT";
     name = "vscode-uni-helper";
@@ -2703,14 +2703,14 @@
   };
   ModyQyW-vscode-uni-ui-snippets = {
     pname = "ModyQyW-vscode-uni-ui-snippets";
-    version = "0.6.3";
+    version = "0.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-ui-snippets/0.6.3/file/ModyQyW.vscode-uni-ui-snippets-0.6.3.vsix";
-      sha256 = "sha256-K9ZDVAZF5/NbXusWlBXsmL3SyEppz4ZAZf1U3DFjVI8=";
+      url = "https://open-vsx.org/api/ModyQyW/vscode-uni-ui-snippets/0.6.4/file/ModyQyW.vscode-uni-ui-snippets-0.6.4.vsix";
+      sha256 = "sha256-fdZCz87e7GUBSRnhp2w3MZiHf/gmhgCmdXKHA+6XOkw=";
     };
     license = "MIT";
     name = "vscode-uni-ui-snippets";
-    description = "`uni-ui` \32452\20214\20195\30721\29255\27573\12290";
+    description = "uni-ui \32452\20214\20195\30721\29255\27573\12290";
     publisher = "ModyQyW";
   };
   MohammadHemmati-php-auto-var-suggestion = {
@@ -11559,10 +11559,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.16";
+    version = "0.3.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.16/file/iterative.dvc-0.3.16.vsix";
-      sha256 = "sha256-bZ5EzCWmN86fXIp6H5I1GGHqgPZV/Jm2chbodyOl7nk=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.17/file/iterative.dvc-0.3.17.vsix";
+      sha256 = "sha256-EzRaUmPvTX+M0T4XdI4JaZ593cHhRFzXFXwyuq4Mx+g=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -18075,10 +18075,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.10";
+    version = "1.0.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.10/file/remcohaszing.schemastore-1.0.10.vsix";
-      sha256 = "sha256-vTbinRcGEkT4MxmVguoJjRe+Tu+qGBi6Gm/SHoflTig=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.11/file/remcohaszing.schemastore-1.0.11.vsix";
+      sha256 = "sha256-r1Wsn8dw7+YLFeo6tzoShs8hfPgeWkQIUktiRkDjO6w=";
     };
     license = "MIT";
     name = "schemastore";
@@ -20691,10 +20691,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.19.6";
+    version = "0.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.19.6/file/timonwong.shellcheck-0.19.6.vsix";
-      sha256 = "sha256-2kR/qfVvD0If9TvKEiNfWCdryJ+ptAfL0b8YyxVyPN0=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.20.0/file/timonwong.shellcheck-0.20.0.vsix";
+      sha256 = "sha256-ub7Sp3a+P9K46GpjEtEaZiXrGT7wIPMwHWrk2jVinDg=";
     };
     license = "MIT";
     name = "shellcheck";
