@@ -485,13 +485,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "d47bfe6af1d040f5c5feb607cf24ea0947a4c8e8";
+    version = "d2011a4ba9ff73e69e8560fab3b2be989eca1429";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "d47bfe6af1d040f5c5feb607cf24ea0947a4c8e8";
+      rev = "d2011a4ba9ff73e69e8560fab3b2be989eca1429";
       fetchSubmodules = false;
-      sha256 = "sha256-vOM1Szg3jeoYe95tGdTAjGyG5NxtyxkVfPxAGm6RP40=";
+      sha256 = "sha256-+sIDy3tU+mZqNY17iDtotsi6Q+KKrvk67VCkMBBwmO0=";
     });
   };
   ibus = {
@@ -678,10 +678,10 @@
   };
   netdata = {
     pname = "netdata";
-    version = "1.36.0";
+    version = "1.36.1";
     src = fetchurl {
-      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.36.0.tar.gz";
-      sha256 = "sha256-56rDtYRZrUCI+BnzLusxUoJrSgsfZjBBt7E66/xxAH8=";
+      url = "https://github.com/netdata/netdata/archive/refs/tags/v1.36.1.tar.gz";
+      sha256 = "sha256-mDSBDmSqANx5ELFf60kM8vPkx4fCGN6j0yrPGDRHnSg=";
     };
   };
   netdata-go-d-plugin = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "25865f81ee80384840f0f510ce8cfb568b637497";
+    version = "64d482ff482b6a616d7f24f939dbc5093d93909b";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "25865f81ee80384840f0f510ce8cfb568b637497";
+      rev = "64d482ff482b6a616d7f24f939dbc5093d93909b";
       fetchSubmodules = false;
-      sha256 = "sha256-HJxLsB2ie1k8TGng7pUyVHhHvcLfcQFHW0H4HKJP+Gw=";
+      sha256 = "sha256-Gbuz3iF8pElJgXOns6XE9CL2zHcp6x1pER84NkcWtQU=";
     });
   };
   tailscale-systray = {
