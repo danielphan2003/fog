@@ -3279,10 +3279,10 @@
   };
   RobbOwen-synthwave-vscode = {
     pname = "RobbOwen-synthwave-vscode";
-    version = "0.1.11";
+    version = "0.1.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.11/file/RobbOwen.synthwave-vscode-0.1.11.vsix";
-      sha256 = "sha256-hcPkTww7mwM+KL+rBjqfu7hD/DwX1/mTXp5srkY0pfk=";
+      url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.14/file/RobbOwen.synthwave-vscode-0.1.14.vsix";
+      sha256 = "sha256-AtrrQCQRvBqG4YTas5wuEjPEhQlBxWvypSxwDbPF6V8=";
     };
     license = "MIT";
     name = "synthwave-vscode";
@@ -6411,10 +6411,10 @@
   };
   bpruitt-goddard-mermaid-markdown-syntax-highlighting = {
     pname = "bpruitt-goddard-mermaid-markdown-syntax-highlighting";
-    version = "1.3.4";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.3.4/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.3.4.vsix";
-      sha256 = "sha256-F6kZO21ylbbIPmxRf59s3RMh9lAc6MiubZoU/rH+FoA=";
+      url = "https://open-vsx.org/api/bpruitt-goddard/mermaid-markdown-syntax-highlighting/1.4.0/file/bpruitt-goddard.mermaid-markdown-syntax-highlighting-1.4.0.vsix";
+      sha256 = "sha256-3xfB56u2FAwAuqhmwLMnBTyjjaWxiFrLZ3uu9k07kvo=";
     };
     license = "MIT";
     name = "mermaid-markdown-syntax-highlighting";
@@ -9039,10 +9039,10 @@
   };
   enkia-tokyo-night = {
     pname = "enkia-tokyo-night";
-    version = "0.9.2";
+    version = "0.9.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.2/file/enkia.tokyo-night-0.9.2.vsix";
-      sha256 = "sha256-2rQmpcEAaPm6hM7ArBR4iUSpaG++U7lswKSW9A2YtHE=";
+      url = "https://open-vsx.org/api/enkia/tokyo-night/0.9.4/file/enkia.tokyo-night-0.9.4.vsix";
+      sha256 = "sha256-B5tBCasToeLzAkQWxyG0EGR7i4Gep3LVSQ/wPcrPqDw=";
     };
     license = "MIT";
     name = "tokyo-night";
@@ -9207,14 +9207,14 @@
   };
   evaera-vscode-rojo = {
     pname = "evaera-vscode-rojo";
-    version = "1.13.4";
+    version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evaera/vscode-rojo/1.13.4/file/evaera.vscode-rojo-1.13.4.vsix";
-      sha256 = "sha256-FBNbhK6R4v2JS5O3/PMNnHFExCYFZCQ2sgtLyoVVISo=";
+      url = "https://open-vsx.org/api/evaera/vscode-rojo/2.1.1/file/evaera.vscode-rojo-2.1.1.vsix";
+      sha256 = "sha256-6wad7xE2pXQn5AdAXF/mDvZRPNI5oGSxqcLzw3mfsZw=";
     };
     license = "";
     name = "vscode-rojo";
-    description = "Build robust Roblox games using Rojo directly from VS Code to sync your scripts into Roblox Studio.";
+    description = "Rojo for VS Code";
     publisher = "evaera";
   };
   eventyret-bootstrap-4-cdn-snippet = {
@@ -12135,10 +12135,10 @@
   };
   johnpapa-vscode-peacock = {
     pname = "johnpapa-vscode-peacock";
-    version = "4.0.1";
+    version = "4.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.0.1/file/johnpapa.vscode-peacock-4.0.1.vsix";
-      sha256 = "sha256-8QDFKe+cKJfSgZrsn5r5LjPzqeV+tKC74xI83hhxYrQ=";
+      url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.1.0/file/johnpapa.vscode-peacock-4.1.0.vsix";
+      sha256 = "sha256-Jl+5LiYQ3hzlLbkYu8CYdXhvvrPa6AuHNrV3pCGjubA=";
     };
     license = "MIT";
     name = "vscode-peacock";
@@ -14439,10 +14439,10 @@
   };
   mjcrouch-perforce = {
     pname = "mjcrouch-perforce";
-    version = "4.15.4";
+    version = "4.15.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.4/file/mjcrouch.perforce-4.15.4.vsix";
-      sha256 = "sha256-5X+s9R0cXWi2lNFBEzM1y8Bd2PLvh0F/Dgt82OTDeYo=";
+      url = "https://open-vsx.org/api/mjcrouch/perforce/4.15.5/file/mjcrouch.perforce-4.15.5.vsix";
+      sha256 = "sha256-ETgEXi0JBF1rHsKrBTg5drPLlJp90WuzGflZHf2/XQ4=";
     };
     license = "MIT";
     name = "perforce";
@@ -15315,10 +15315,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.9.20220811";
+    version = "4.9.20220814";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220811/file/ms-vscode.vscode-typescript-next-4.9.20220811.vsix";
-      sha256 = "sha256-u0KWJ5J53QqYRIM+v2KN8QoiC0FOLaZ4z+gbTv5FzqQ=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220814/file/ms-vscode.vscode-typescript-next-4.9.20220814.vsix";
+      sha256 = "sha256-qFMFWZAUKoccjUs1U0jZdhYn50fx/tvMqKRL3V3zQwc=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -19131,10 +19131,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.17.0";
+    version = "0.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.0/file/shufo.vscode-blade-formatter-0.17.0.vsix";
-      sha256 = "sha256-67MfKzABI6Lc+HK0MeE/tVqL0TPTn19eIMKketiv0k4=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.1/file/shufo.vscode-blade-formatter-0.17.1.vsix";
+      sha256 = "sha256-nhDWRg/h+2SicSLFLiUQ1v7N03YxeEChqyT4B3LD5pQ=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
