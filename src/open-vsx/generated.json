@@ -373,11 +373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hRn3bxD5YYWlInKaVd3Q6phKYekwpxpgkGkTBXiT56E=",
+            "sha256": "sha256-tpDqHSDNY8JlDAbnDgLAZ0yIzbMhKiMswAO+k+rZmzA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.1/file/BeardedBear.beardedicons-0.23.1.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.24.0/file/BeardedBear.beardedicons-0.24.0.vsix"
         },
-        "version": "0.23.1"
+        "version": "0.24.0"
     },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
@@ -4952,11 +4952,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FowV8ifoQDCVqCTmmxVBlv/wD6hsvqJnpQEBbORj6uY=",
+            "sha256": "sha256-6k8+vIU3Rp1YRCwx34zgQmQsU2LuAPUUgH2EW6dBQXM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1295/file/Prisma.prisma-insider-31.0.1295.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1296/file/Prisma.prisma-insider-31.0.1296.vsix"
         },
-        "version": "31.0.1295"
+        "version": "31.0.1296"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,

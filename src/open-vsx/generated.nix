@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.23.1";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.23.1/file/BeardedBear.beardedicons-0.23.1.vsix";
-      sha256 = "sha256-hRn3bxD5YYWlInKaVd3Q6phKYekwpxpgkGkTBXiT56E=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.24.0/file/BeardedBear.beardedicons-0.24.0.vsix";
+      sha256 = "sha256-tpDqHSDNY8JlDAbnDgLAZ0yIzbMhKiMswAO+k+rZmzA=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -3123,10 +3123,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1295";
+    version = "31.0.1296";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1295/file/Prisma.prisma-insider-31.0.1295.vsix";
-      sha256 = "sha256-FowV8ifoQDCVqCTmmxVBlv/wD6hsvqJnpQEBbORj6uY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1296/file/Prisma.prisma-insider-31.0.1296.vsix";
+      sha256 = "sha256-6k8+vIU3Rp1YRCwx34zgQmQsU2LuAPUUgH2EW6dBQXM=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
