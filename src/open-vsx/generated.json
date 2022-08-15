@@ -13027,11 +13027,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rOZnan+MrW/662JCaKApgK0ntCH+XZQcmSTYlrPEYgc=",
+            "sha256": "sha256-a9vfJD2RSK/jHoFZ2FeWqqE8RGqFRTx189RyM/qnZa0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.107.6/file/dendron.nightly-0.107.6.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.107.7/file/dendron.nightly-0.107.7.vsix"
         },
-        "version": "0.107.6"
+        "version": "0.107.7"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -27866,11 +27866,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Tg/5btyWu8DUJtLfY0XDUFi2jIKcorEhZaMISL56xRo=",
+            "sha256": "sha256-MXuSz6UghGW9AVl73gfj5UC5+Slg8dVJ3u0L7ARcpPM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.4/file/rangav.vscode-thunder-client-1.18.4.vsix"
+            "url": "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.6/file/rangav.vscode-thunder-client-1.18.6.vsix"
         },
-        "version": "1.18.4"
+        "version": "1.18.6"
     },
     "razetime-bqn-language": {
         "cargoLocks": null,

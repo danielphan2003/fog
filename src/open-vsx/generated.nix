@@ -8223,10 +8223,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.107.6";
+    version = "0.107.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.107.6/file/dendron.nightly-0.107.6.vsix";
-      sha256 = "sha256-rOZnan+MrW/662JCaKApgK0ntCH+XZQcmSTYlrPEYgc=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.107.7/file/dendron.nightly-0.107.7.vsix";
+      sha256 = "sha256-a9vfJD2RSK/jHoFZ2FeWqqE8RGqFRTx189RyM/qnZa0=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -17595,10 +17595,10 @@
   };
   rangav-vscode-thunder-client = {
     pname = "rangav-vscode-thunder-client";
-    version = "1.18.4";
+    version = "1.18.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.4/file/rangav.vscode-thunder-client-1.18.4.vsix";
-      sha256 = "sha256-Tg/5btyWu8DUJtLfY0XDUFi2jIKcorEhZaMISL56xRo=";
+      url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.6/file/rangav.vscode-thunder-client-1.18.6.vsix";
+      sha256 = "sha256-MXuSz6UghGW9AVl73gfj5UC5+Slg8dVJ3u0L7ARcpPM=";
     };
     license = "";
     name = "vscode-thunder-client";
