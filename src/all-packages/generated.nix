@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e2a5e2293ab0b06e33445a1243f36cd5def1de42";
+    version = "c79c08627d36e9871dedd3c7d8889d7d710134c2";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e2a5e2293ab0b06e33445a1243f36cd5def1de42";
+      rev = "c79c08627d36e9871dedd3c7d8889d7d710134c2";
       fetchSubmodules = false;
-      sha256 = "sha256-kXJ0KHf0EF9Lf3gcNjAazaiYVcQjQ9OLpCOmpmBcSs4=";
+      sha256 = "sha256-KqbeCENwQIf3UsgjsFNkXj8dr1ci3Ng4VT6i9x3/Rpc=";
     });
   };
   cinny = {
@@ -809,22 +809,22 @@
   };
   pmbootstrap = {
     pname = "pmbootstrap";
-    version = "1.45.0";
+    version = "1.46.0";
     src = fetchurl {
-      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.45.0.tar.gz";
-      sha256 = "sha256-75ZFzhRsczkwhiUl1upKjSvmqN0RkXaM8cKr4zLgi4w=";
+      url = "https://pypi.io/packages/source/p/pmbootstrap/pmbootstrap-1.46.0.tar.gz";
+      sha256 = "sha256-azr2B8ng8aJJlv4tqozup20iWeogqbZbzdMXS/9PoQQ=";
     };
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835";
+    version = "8d736c5fcc64edc63bd581c3f45738541558b102";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "bd4a7d5d3f2c6fcdc7d42abeee1fd69d505db835";
+      rev = "8d736c5fcc64edc63bd581c3f45738541558b102";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-2ZOLTzv8/33LoEAdosrOa8rfGolyuP2RUAmtPnaI2T4=";
+      sha256 = "sha256-ox8zwr5kRSXm7rrO8n7oVBswV8ZCs9MyExou0tPp5rI=";
     };
   };
   pure = {
@@ -1216,13 +1216,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "8f38afbf8e2ac0e6b516c99150bb5253012017de";
+    version = "32a1a3d1c03de7c7a036ce7eefc0ac0599325bb4";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "8f38afbf8e2ac0e6b516c99150bb5253012017de";
+      rev = "32a1a3d1c03de7c7a036ce7eefc0ac0599325bb4";
       fetchSubmodules = false;
-      sha256 = "sha256-cCVDCvMVgTU4Vu3Z8iAiINi16AXiHRlE0RJHBj/lYMo=";
+      sha256 = "sha256-A5hl52Od0+TjlCL82FyfbMGoOZMcitncwJM6zVcvbPY=";
     });
   };
   tailscale-systray = {
@@ -1246,7 +1246,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "e5669b2ef2f2adc12a7278bb24e0727187327bd4";
+    version = "3610b9d3cec6b667432a1d7cbfb4eec2954c3d74";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
