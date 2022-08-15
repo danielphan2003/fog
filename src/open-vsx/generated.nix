@@ -7203,10 +7203,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.21";
+    version = "0.0.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.21/file/cloudstudio.workspaces-0.0.21.vsix";
-      sha256 = "sha256-tdrTOgBw1VKsup44qwFiodju8hK3pJqfH4jZeZ3Ies8=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.22/file/cloudstudio.workspaces-0.0.22.vsix";
+      sha256 = "sha256-9k3FnqT5mFEp4nMUr44tA7wRnO1mFnhHs9xluZL5H+E=";
     };
     license = "MIT";
     name = "workspaces";
