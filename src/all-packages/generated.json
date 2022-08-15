@@ -1572,11 +1572,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MLrxM0LE6av0Jj3YiLGkM3a89CFt6uK1yybI6jCsnPM=",
+            "sha256": "sha256-S2SVlsiqMYPOfMpKarKj5djp7jkzLMZkOr54iEs3RKg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.36.2/revanced-patches-2.36.2.dex"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.37.0/revanced-patches-2.37.0.dex"
         },
-        "version": "2.36.2"
+        "version": "2.37.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -1586,11 +1586,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ydqyl2xCQ613nUQfYroPxP574eTH6hZH12bUgeZ+dmc=",
+            "sha256": "sha256-s5i+uGfShkprAudK6j/2ZyjZhc8gtQLUQc6fq53A1/g=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.36.2/revanced-patches-2.36.2.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.37.0/revanced-patches-2.37.0.jar"
         },
-        "version": "2.36.2"
+        "version": "2.37.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
