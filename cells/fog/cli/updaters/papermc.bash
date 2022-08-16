@@ -1,6 +1,6 @@
 version="$1"
 
-meta_file="$NIXPKGS_CACHE/papermc-$version.json"
+meta_file="$FOG_CACHE/papermc-$version.json"
 
 if [ ! -s "$meta_file" ]; then
   curl -s "https://papermc.io/api/v2/projects/paper/versions/$version" --output "$meta_file"

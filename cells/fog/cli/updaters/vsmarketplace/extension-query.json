@@ -1,0 +1,27 @@
+{
+  "assetTypes": [
+    "Microsoft.VisualStudio.Services.VSIXPackage"
+  ],
+  "filters": [
+    {
+      "criteria": [
+        {
+          "filterType": 8,
+          "value": "Microsoft.VisualStudio.Code"
+        },
+        {
+          "filterType": 10,
+          "value": "target:\"Microsoft.VisualStudio.Code\" "
+        },
+        {
+          "filterType": 12,
+          "value": "37888"
+        }
+      ],
+      "sortBy": 0,
+      "pageSize": 1000,
+      "pageNumber": 1
+    }
+  ],
+  "flags": 914
+}

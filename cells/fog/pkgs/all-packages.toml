@@ -1,4 +1,4 @@
-# ./cells/nixpkgs/pkgs/all-packages.toml
+# ./cells/fog/pkgs/all-packages.toml
 
 [adguardhome-darwin-amd64]
 src.github_tag = "AdguardTeam/AdGuardHome"

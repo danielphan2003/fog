@@ -16,7 +16,7 @@
       source ${path}
     '';
 
-  writeBashWithNixpkgsPaths = {
+  writeBashWithFogPaths = {
     packages ? [],
     path,
     name,
@@ -24,9 +24,9 @@
   } @ args:
     nixpkgs.writeShellScript name ''
       export PATH="$PATH:${l.makeBinPath (packages ++ ["$DEVSHELL_DIR"])}"
-      nixpkgs makeNixpkgsCache
-      export NIXPKGS_CACHE=''${NIXPKGS_CACHE:-/tmp/nixpkgs}
-      mkdir -p $NIXPKGS_CACHE
+      nixpkgs makeFogCache
+      export FOG_CACHE=''${FOG_CACHE:-/tmp/fog}
+      mkdir -p $FOG_CACHE
       source ${path}
     '';
 
@@ -108,7 +108,7 @@
                   "\e[4mDescription\e[0m:\n$description"
             ;;
           *)
-            PRJ_ROOT="$PRJ_ROOT" NIXPKGS_CACHE="$NIXPKGS_CACHE" SRC_PATH="$PRJ_ROOT/src" PKGS_PATH="$PRJ_ROOT/cells/nixpkgs/pkgs" exec $default "$@"
+            PRJ_ROOT="$PRJ_ROOT" FOG_CACHE="$FOG_CACHE" SRC_PATH="$PRJ_ROOT/src" CELL_PATH="$PRJ_ROOT/cells/fog" PKGS_PATH="$CELL_PATH/pkgs" exec $default "$@"
             ;;
         esac
       }
@@ -132,11 +132,11 @@
       esac
     '';
 in {
-  default = mkCli "nixpkgs" ({
-      makeNixpkgsCache = {
+  default = mkCli "fog" ({
+      makeFogCache = {
         packages = [nixpkgs.coreutils];
-        help = "Create nixpkgs cache directory to avoid excessive API requests";
-        path = ./cli/utils/make-nixpkgs-cache.bash;
+        help = "Create fog cache directory to avoid excessive API requests";
+        path = ./cli/utils/make-fog-cache.bash;
         writer = writeBashWithPaths;
       };
       nvfetcher-cleanup = {
@@ -166,13 +166,13 @@ in {
         ];
         help = "Update source";
         path = ./cli/utils/update-sources.bash;
-        writer = writeBashWithNixpkgsPaths;
+        writer = writeBashWithFogPaths;
       };
     }
     // (l.mapAttrs
       (name: path: {
         inherit name path;
-        writer = writeBashWithNixpkgsPaths;
+        writer = writeBashWithFogPaths;
         help = "Script to update ${l.removeSuffix "-updater" name}";
         packages = [nixpkgs.coreutils nixpkgs.curl nixpkgs.jq];
       })

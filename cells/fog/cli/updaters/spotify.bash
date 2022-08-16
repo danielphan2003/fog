@@ -1,4 +1,4 @@
-meta_file="$NIXPKGS_CACHE/spotify.json"
+meta_file="$FOG_CACHE/spotify.json"
 
 if [ ! -s "$meta_file" ]; then
   curl -s -H 'X-Ubuntu-Series: 16' 'https://api.snapcraft.io/api/v1/snaps/details/spotify?channel=candidate' --output "$meta_file"

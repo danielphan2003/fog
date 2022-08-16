@@ -15,7 +15,7 @@ case $operation in
 
 esac
 
-meta_file="$NIXPKGS_CACHE/$modId.json"
+meta_file="$FOG_CACHE/$modId.json"
 
 if [ ! -s "$meta_file" ]; then
   curl -s "https://api.modrinth.com/api/v1/mod/$modId/version" --output "$meta_file"

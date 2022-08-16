@@ -1,5 +1,5 @@
 pname="VS Code extensions - OpenVSX"
-export pname
+package_meta_file="$PKGS_PATH/${1:-"misc/vscode-extensions/open-vsx"}.toml"
 
 function parseMeta() {
   function reqUrl() {
@@ -8,23 +8,30 @@ function parseMeta() {
 
   totalSize=$( curl -s "$(reqUrl)" | jq -r '.totalSize' )
 
-  meta_file="$NIXPKGS_CACHE/openvsx.json"
+  meta_file="$FOG_CACHE/openvsx.json"
 
   if [ ! -s "$meta_file" ]; then
     curl -s "$(reqUrl $totalSize)" --output "$meta_file"
   fi
 
-  echo "## $pname"
-
   jq -M -r '
-    .extensions[] | .namespace, .name, (.version | tojson), (.files.download | tojson), (.description // "" | tojson)
+    .extensions[] | .namespace, .name, (.description // "" | tojson)
   ' "$meta_file" | \
-  while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
-    meta_file="$NIXPKGS_CACHE/openvsx-$namespace.$name.json"
+  while read -r namespace; read -r name; read -r description; do
+    namespace_cleaned="$namespace"
+    if [[ $namespace =~ ^[[:digit:]] ]]; then
+      namespace_cleaned="_$namespace"
+    fi
 
-    if [ "$namespace.$name" = "matklad.rust-analyzer" ]; then
+    id="$namespace_cleaned-$name"
+
+    # skip added packages
+    found="$( rg --quiet "$id" "$package_meta_file" )"
+    if [ "$found" -eq 0 ]; then
       continue
     fi
+
+    meta_file="$FOG_CACHE/openvsx-$namespace.$name.json"
 
     if [ ! -s "$meta_file" ]; then
       curl -s "https://open-vsx.org/api/$namespace/$name" --output "$meta_file"
@@ -32,22 +39,14 @@ function parseMeta() {
 
     license="$(jq -r '.license // "" | tojson' "$meta_file")"
 
-    namespace_cleaned="$namespace"
-    if [[ $namespace =~ ^[[:digit:]] ]]; then
-      namespace_cleaned="_$namespace"
-    fi
-
     description="${description//'$'/"'$'"}"
 
     echo
-    echo "[$namespace_cleaned-$name]"
-    echo "src.manual = $version"
-    echo "fetch.url = $downloadUrl"
+    echo "[$id]"
+    echo "src.openvsx = \"$namespace.$name\""
+    echo "fetch.openvsx = \"$namespace.$name\""
     echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = $license }"
   done
-
-  echo
-  echo "## $pname"
 }
 
-parseMeta > "$PKGS_PATH/${1:-"misc/vscode-extensions/open-vsx"}.toml"
+parseMeta >> "$package_meta_file"
