@@ -3327,10 +3327,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.34.1";
+    version = "2.34.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.1/file/RokuCommunity.brightscript-2.34.1.vsix";
-      sha256 = "sha256-zE+IRLBrF28xf13j371QgqHKP8n5zkQRoAeAZI2jtEA=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.2/file/RokuCommunity.brightscript-2.34.2.vsix";
+      sha256 = "sha256-+ebIcPccNQ0t5uNM5cVJTmtjLgDyoXXcYgX0uvHJ9oc=";
     };
     license = "MIT";
     name = "brightscript";
@@ -11571,10 +11571,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.17";
+    version = "0.3.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.17/file/iterative.dvc-0.3.17.vsix";
-      sha256 = "sha256-EzRaUmPvTX+M0T4XdI4JaZ593cHhRFzXFXwyuq4Mx+g=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.18/file/iterative.dvc-0.3.18.vsix";
+      sha256 = "sha256-J8eY9Ii32JaF4ZKqwBF4wJ6Ls1kPZOcUv9z4j0GhJDY=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -15639,10 +15639,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.10";
+    version = "1.1.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.10/file/mutable-ai.mutable-ai-1.1.10.vsix";
-      sha256 = "sha256-3fjrbtxITYyEdmcHS+huGDChlcGk2OFnyQVMRxbNh/A=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.12/file/mutable-ai.mutable-ai-1.1.12.vsix";
+      sha256 = "sha256-efJ6kpsafmmzZEGNmY3UMt0pENrQ82x+A60UhLGYF7c=";
     };
     license = "";
     name = "mutable-ai";

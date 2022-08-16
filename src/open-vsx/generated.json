@@ -5275,11 +5275,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zE+IRLBrF28xf13j371QgqHKP8n5zkQRoAeAZI2jtEA=",
+            "sha256": "sha256-+ebIcPccNQ0t5uNM5cVJTmtjLgDyoXXcYgX0uvHJ9oc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.1/file/RokuCommunity.brightscript-2.34.1.vsix"
+            "url": "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.2/file/RokuCommunity.brightscript-2.34.2.vsix"
         },
-        "version": "2.34.1"
+        "version": "2.34.2"
     },
     "RomainMenke-csstools-design-tokens": {
         "cargoLocks": null,
@@ -18328,11 +18328,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EzRaUmPvTX+M0T4XdI4JaZ593cHhRFzXFXwyuq4Mx+g=",
+            "sha256": "sha256-J8eY9Ii32JaF4ZKqwBF4wJ6Ls1kPZOcUv9z4j0GhJDY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.17/file/iterative.dvc-0.3.17.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.18/file/iterative.dvc-0.3.18.vsix"
         },
-        "version": "0.3.17"
+        "version": "0.3.18"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -24769,11 +24769,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3fjrbtxITYyEdmcHS+huGDChlcGk2OFnyQVMRxbNh/A=",
+            "sha256": "sha256-efJ6kpsafmmzZEGNmY3UMt0pENrQ82x+A60UhLGYF7c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.10/file/mutable-ai.mutable-ai-1.1.10.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.12/file/mutable-ai.mutable-ai-1.1.12.vsix"
         },
-        "version": "1.1.10"
+        "version": "1.1.12"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
