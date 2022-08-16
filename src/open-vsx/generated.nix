@@ -14810,11 +14810,11 @@
   };
   mathiassoeholm-markdown-link-updater = {
     pname = "mathiassoeholm-markdown-link-updater";
-    version = "2.2.0";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.2.0/file/mathiassoeholm.markdown-link-updater-2.2.0.vsix";
-      name = "markdown-link-updater-2.2.0.zip";
-      sha256 = "sha256-gOjWK7L/EKuu930iwEKwXQtJYasVSXRIdxkfY9WBU3w=";
+      url = "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.3.0/file/mathiassoeholm.markdown-link-updater-2.3.0.vsix";
+      name = "markdown-link-updater-2.3.0.zip";
+      sha256 = "sha256-l2oJs4c1PgzMA0bxQUO2MaqXbBfYA16jYZD/i6luvtk=";
     };
     license = "MIT";
     name = "markdown-link-updater";
@@ -22831,11 +22831,11 @@
   };
   usernamehw-remove-empty-lines = {
     pname = "usernamehw-remove-empty-lines";
-    version = "0.0.11";
+    version = "0.0.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.11/file/usernamehw.remove-empty-lines-0.0.11.vsix";
-      name = "remove-empty-lines-0.0.11.zip";
-      sha256 = "sha256-thXqD6WvEJ3l3jWWWtVq5qtACO/upT7bEkQd7dy3V6M=";
+      url = "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.12/file/usernamehw.remove-empty-lines-0.0.12.vsix";
+      name = "remove-empty-lines-0.0.12.zip";
+      sha256 = "sha256-Cu5eOmsxpH+jS1kPkB3HWnHQsqcnKEuzwHpw0FrEySE=";
     };
     license = "MIT";
     name = "remove-empty-lines";

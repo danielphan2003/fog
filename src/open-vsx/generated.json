@@ -21652,12 +21652,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "markdown-link-updater-2.2.0.zip",
-            "sha256": "sha256-gOjWK7L/EKuu930iwEKwXQtJYasVSXRIdxkfY9WBU3w=",
+            "name": "markdown-link-updater-2.3.0.zip",
+            "sha256": "sha256-l2oJs4c1PgzMA0bxQUO2MaqXbBfYA16jYZD/i6luvtk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.2.0/file/mathiassoeholm.markdown-link-updater-2.2.0.vsix"
+            "url": "https://open-vsx.org/api/mathiassoeholm/markdown-link-updater/2.3.0/file/mathiassoeholm.markdown-link-updater-2.3.0.vsix"
         },
-        "version": "2.2.0"
+        "version": "2.3.0"
     },
     "mathpix-vscode-mathpix-markdown": {
         "cargoLocks": null,
@@ -33375,12 +33375,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "remove-empty-lines-0.0.11.zip",
-            "sha256": "sha256-thXqD6WvEJ3l3jWWWtVq5qtACO/upT7bEkQd7dy3V6M=",
+            "name": "remove-empty-lines-0.0.12.zip",
+            "sha256": "sha256-Cu5eOmsxpH+jS1kPkB3HWnHQsqcnKEuzwHpw0FrEySE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.11/file/usernamehw.remove-empty-lines-0.0.11.vsix"
+            "url": "https://open-vsx.org/api/usernamehw/remove-empty-lines/0.0.12/file/usernamehw.remove-empty-lines-0.0.12.vsix"
         },
-        "version": "0.0.11"
+        "version": "0.0.12"
     },
     "usernamehw-snippets-in-markdown": {
         "cargoLocks": null,
