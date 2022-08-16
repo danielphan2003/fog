@@ -14251,11 +14251,11 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.36";
+    version = "3.0.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.36/file/lifeart.vscode-ember-unstable-3.0.36.vsix";
-      name = "vscode-ember-unstable-3.0.36.zip";
-      sha256 = "sha256-HcFAixxFsGcwLEQ/2uIwMBEAqrUhwYWYQtJAFMwkbwI=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.37/file/lifeart.vscode-ember-unstable-3.0.37.vsix";
+      name = "vscode-ember-unstable-3.0.37.zip";
+      sha256 = "sha256-PaqXCL38eagKx/Jn3YMt5IKK5BVbF+rbCX5dn39qlzE=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";
@@ -25678,11 +25678,11 @@
   };
   zerodind-familiar-java-themes = {
     pname = "zerodind-familiar-java-themes";
-    version = "0.1.5";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zerodind/familiar-java-themes/0.1.5/file/zerodind.familiar-java-themes-0.1.5.vsix";
-      name = "familiar-java-themes-0.1.5.zip";
-      sha256 = "sha256-sRY5usTQnkcmT0pZLGGQyJpSuXhUb3u7H4A7nD11GXw=";
+      url = "https://open-vsx.org/api/zerodind/familiar-java-themes/0.1.6/file/zerodind.familiar-java-themes-0.1.6.vsix";
+      name = "familiar-java-themes-0.1.6.zip";
+      sha256 = "sha256-NLm7c9xQafch/Gg2XXlQj7nug/uVQojq+7foZXxfBM0=";
     };
     license = "MIT";
     name = "familiar-java-themes";
