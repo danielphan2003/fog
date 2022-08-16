@@ -26,8 +26,8 @@ function parseMeta() {
     id="$namespace_cleaned-$name"
 
     # skip added packages
-    found="$( rg --quiet "$id" "$package_meta_file" )"
-    if [ "$found" -eq 0 ]; then
+    rg --quiet "$id" "$package_meta_file"
+    if [ "$?" -eq 0 ]; then
       continue
     fi
 
