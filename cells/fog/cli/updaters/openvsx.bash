@@ -49,4 +49,5 @@ function parseMeta() {
   done
 }
 
+touch "$package_meta_file"
 parseMeta >> "$package_meta_file"
