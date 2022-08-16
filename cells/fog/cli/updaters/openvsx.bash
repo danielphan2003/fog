@@ -1,5 +1,6 @@
 pname="VS Code extensions - OpenVSX"
 package_meta_file="$PKGS_PATH/${1:-"misc/vscode-extensions/open-vsx"}.toml"
+package_meta_basename="$(basename $package_meta_file)"
 count=0
 
 function parseMeta() {
