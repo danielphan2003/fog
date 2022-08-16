@@ -24,9 +24,10 @@
   } @ args:
     nixpkgs.writeShellScript name ''
       export PATH="$PATH:${l.makeBinPath (packages ++ ["$DEVSHELL_DIR"])}"
-      ${name} makeFogCache
-      export FOG_CACHE=''${FOG_CACHE:-/tmp/${name}}
+      fog makeFogCache
+      FOG_CACHE=''${FOG_CACHE:-/tmp/fog}
       mkdir -p $FOG_CACHE
+      export FOG_CACHE
       source ${path}
     '';
 
