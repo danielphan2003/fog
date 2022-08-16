@@ -71,7 +71,8 @@
         deps ? [],
         ...
       } @ cmd:
-        cmd // {inherit packages help synopsis description enable name deps;}) cmds;
+        cmd // {inherit packages help synopsis description enable name deps;})
+    cmds;
   in
     nixpkgs.writeShellScriptBin name ''
       export PATH="${l.makeBinPath [nixpkgs.coreutils]}"

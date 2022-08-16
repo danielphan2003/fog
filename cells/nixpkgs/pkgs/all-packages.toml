@@ -181,6 +181,10 @@ cargo_locks = [ "Cargo.lock" ]
 src.git = "https://github.com/hensm/fx_cast"
 fetch.github = "hensm/fx_cast"
 
+[godu]
+src.git = "https://github.com/viktomas/godu"
+fetch.github = "viktomas/godu"
+
 [guiscrcpy]
 src.git = "https://github.com/srevinsaju/guiscrcpy"
 fetch.github = "srevinsaju/guiscrcpy"
