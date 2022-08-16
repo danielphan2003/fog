@@ -31,9 +31,6 @@
     "utils"
   ];
 in {
-  callSource = path: override:
-    import path ({inherit (nixpkgs) fetchgit fetchurl fetchFromGitHub;} // override);
-
   categories = mkCategories categories {
     inherit cmdWithCategory pkgWithCategory withCategory categories;
   };

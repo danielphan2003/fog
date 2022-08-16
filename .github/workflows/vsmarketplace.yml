@@ -37,19 +37,19 @@ jobs:
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
 
     - name: Quick eval
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command evalnix
+      run: nix develop --show-trace --print-build-logs --command evalnix
 
     - name: Create fog cache
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog makeNixpkgsCache
+      run: nix develop --show-trace --print-build-logs --command fog makeFogCache
 
     - name: Clean up old Cargo.lock and extracts
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog nvfetcher-cleanup vsmarketplace
+      run: nix develop --show-trace --print-build-logs --command fog nvfetcher-cleanup vsmarketplace
 
     - name: Update vsmarketplace extension sources
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog vsmarketplace-updater
+      run: nix develop --show-trace --print-build-logs --command fog vsmarketplace-updater
 
     - name: Update all vsmarketplace extensions
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog updateSources misc/vscode-extensions/vsmarketplace
+      run: nix develop --show-trace --print-build-logs --command fog updateSources misc/vscode-extensions/vsmarketplace
 
     - name: Push changes to main
       run: git pull --rebase --autostash && git push

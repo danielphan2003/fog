@@ -27,10 +27,11 @@
         (std.functions "vsmarketplace")
         (std.functions "vscode-extensions")
 
+        (std.functions "devshellProfiles")
         (std.devshells "devshells")
       ];
     } {
-      devShells = std.harvest self ["nixpkgs" "devshells"];
+      devShells = std.harvest self ["automation" "devshells"];
     };
 
   # --- Flake Local Nix Configuration ----------------------------

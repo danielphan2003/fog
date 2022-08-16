@@ -36,19 +36,19 @@ jobs:
         authToken: '${{ secrets.CACHIX_AUTH_TOKEN }}'
 
     - name: Quick eval
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command evalnix
+      run: nix develop --show-trace --print-build-logs --command evalnix
 
     - name: Create fog cache
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog makeNixpkgsCache
+      run: nix develop --show-trace --print-build-logs --command fog makeFogCache
 
     - name: Clean up old Cargo.lock and extracts
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog nvfetcher-cleanup papermc
+      run: nix develop --show-trace --print-build-logs --command fog nvfetcher-cleanup papermc
 
     - name: Update papermc sources
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog papermc-versions-updater
+      run: nix develop --show-trace --print-build-logs --command fog papermc-versions-updater
 
     - name: Update all papermc packages
-      run: nix develop --show-trace --print-build-logs .#x86_64-linux.nixpkgs.devshells.default --command fog updateSources games/papermc
+      run: nix develop --show-trace --print-build-logs --command fog updateSources games/papermc
 
     - name: Push changes to main
       run: git pull --rebase --autostash && git push
