@@ -7203,10 +7203,10 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.5";
+    version = "0.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.5/file/cloudstudio.metawork-0.0.5.vsix";
-      sha256 = "sha256-v1MZpFK9e9oVBvMCU3fW2kRafavIu1KFV3vD5yMoTF0=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.6/file/cloudstudio.metawork-0.0.6.vsix";
+      sha256 = "sha256-/0tKl+fOSITX3U8UWIEeFqYiTmKMQYPCK6WSt4utgQg=";
     };
     license = "MIT";
     name = "metawork";
@@ -8235,10 +8235,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.107.7";
+    version = "0.107.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.107.7/file/dendron.nightly-0.107.7.vsix";
-      sha256 = "sha256-a9vfJD2RSK/jHoFZ2FeWqqE8RGqFRTx189RyM/qnZa0=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.107.8/file/dendron.nightly-0.107.8.vsix";
+      sha256 = "sha256-nVEileDaNa520/yFmp6VffK1bFohUPBimEI6vIsBZD8=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -12063,10 +12063,10 @@
   };
   jnoortheen-nix-ide = {
     pname = "jnoortheen-nix-ide";
-    version = "0.1.22";
+    version = "0.1.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.22/file/jnoortheen.nix-ide-0.1.22.vsix";
-      sha256 = "sha256-HjdkdIsdlateU81eTl8vjt0ewBhNhQVYfziyrl+ZSOs=";
+      url = "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.23/file/jnoortheen.nix-ide-0.1.23.vsix";
+      sha256 = "sha256-R86OFz1DXivO2rez3R2NtGZIzdnE346aO5b5iCrvWgQ=";
     };
     license = "MIT";
     name = "nix-ide";

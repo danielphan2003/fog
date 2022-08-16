@@ -11412,11 +11412,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-v1MZpFK9e9oVBvMCU3fW2kRafavIu1KFV3vD5yMoTF0=",
+            "sha256": "sha256-/0tKl+fOSITX3U8UWIEeFqYiTmKMQYPCK6WSt4utgQg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.5/file/cloudstudio.metawork-0.0.5.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.6/file/cloudstudio.metawork-0.0.6.vsix"
         },
-        "version": "0.0.5"
+        "version": "0.0.6"
     },
     "cloudstudio-workspaces": {
         "cargoLocks": null,
@@ -13046,11 +13046,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-a9vfJD2RSK/jHoFZ2FeWqqE8RGqFRTx189RyM/qnZa0=",
+            "sha256": "sha256-nVEileDaNa520/yFmp6VffK1bFohUPBimEI6vIsBZD8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.107.7/file/dendron.nightly-0.107.7.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.107.8/file/dendron.nightly-0.107.8.vsix"
         },
-        "version": "0.107.7"
+        "version": "0.107.8"
     },
     "denoland-vscode-deno": {
         "cargoLocks": null,
@@ -19107,11 +19107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HjdkdIsdlateU81eTl8vjt0ewBhNhQVYfziyrl+ZSOs=",
+            "sha256": "sha256-R86OFz1DXivO2rez3R2NtGZIzdnE346aO5b5iCrvWgQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.22/file/jnoortheen.nix-ide-0.1.22.vsix"
+            "url": "https://open-vsx.org/api/jnoortheen/nix-ide/0.1.23/file/jnoortheen.nix-ide-0.1.23.vsix"
         },
-        "version": "0.1.22"
+        "version": "0.1.23"
     },
     "jnoortheen-xonsh": {
         "cargoLocks": null,
