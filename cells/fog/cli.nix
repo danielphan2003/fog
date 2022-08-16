@@ -16,6 +16,18 @@
       source ${path}
     '';
 
+  writeBashWithGumPaths = {
+    packages ? [],
+    path,
+    name,
+    ...
+  } @ args:
+    nixpkgs.writeShellScript name ''
+      export PATH="$PATH:${l.makeBinPath (packages ++ ["$DEVSHELL_DIR" nixpkgs.gum])}"
+      source "$CELL_PATH/cli/utils/gum-fmt.bash"
+      source ${path}
+    '';
+
   writeBashWithFogPaths = {
     packages ? [],
     path,
@@ -174,7 +186,9 @@ in {
     // (l.mapAttrs
       (name: path: {
         inherit name path;
-        writer = writeBashWithFogPaths;
+        writer = args: writeBashWithFogPaths (args // {
+          path = writeBashWithGumPaths args;
+        });
         help = "Script to update ${l.removeSuffix "-updater" name}";
         packages = [nixpkgs.coreutils nixpkgs.curl nixpkgs.jq nixpkgs.ripgrep];
       })

@@ -6,13 +6,14 @@ fi
 
 readarray -t meta <<< "$( jq -r '.package_name,.revision,.snap_id,.version' $meta_file )"
 pname="${meta[0]}"
+rev="${meta[1]}"
+snapId="${meta[2]}"
+version="${meta[3]}"
 export pname
 
-fog patchSources all-packages "$pname" "$({
-  rev="${meta[1]}"
-  snapId="${meta[2]}"
-  version="${meta[3]}"
+trace "spotify" "updating Spotify $(fg_blue $version), rev: $(fg_blue $rev)..."
 
+fog patchSources all-packages "$pname" "$({
   echo "## $pname"
 
   echo
@@ -22,4 +23,6 @@ fog patchSources all-packages "$pname" "$({
 
   echo
   echo "## $pname"
-})"
+})" \
+  && trace "spotify" "updated Spotify." \
+  || error "spotify" "failed to update Spotify $(bold $version), rev: $(bold $rev)"

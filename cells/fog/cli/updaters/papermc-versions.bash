@@ -1,8 +1,9 @@
 pname="papermc"
+package_meta_file="$PKGS_PATH/${1:-"games/$pname"}.toml"
 export pname
 
 function parseMeta() {
-  echo "## $pname"
+  echo "## $pname" > "$package_meta_file"
 
   meta_file="$FOG_CACHE/papermc-versions.json"
 
@@ -12,18 +13,31 @@ function parseMeta() {
 
   for version in $(jq -r '.versions[]' $meta_file); do
     if [[ "$(fog papermc-updater $version)" -eq "null" ]]; then
-      break
+      trace "papermc" "papermc $(fg_blue $version) is null when using `fog papermc-updater`"
+      continue
     fi
 
-    echo
-    echo "[$pname-${version//\./_}]" # replace . with _
-    echo "src.cmd = \" fog $pname-updater $version \""
-    echo "fetch.url = \"https://papermc.io/api/v2/projects/paper/versions/$version/builds/\$ver/downloads/paper-$version-\$ver.jar\""
-    echo "passthru = { mcVer = \"$version\" }"
+    trace "papermc" "updating papermc $(fg_blue $version)..."
+
+    function meta() {
+      echo
+      echo "[$pname-${version//\./_}]" # replace . with _
+      echo "src.cmd = \" fog $pname-updater $version \""
+      echo "fetch.url = \"https://papermc.io/api/v2/projects/paper/versions/$version/builds/\$ver/downloads/paper-$version-\$ver.jar\""
+      echo "passthru = { mcVer = \"$version\" }"
+    }
+
+    meta >> "$package_meta_file" \
+      && trace "papermc" "updated papermc $(fg_blue $version)." \
+      || error "papermc" "failed to update papermc $(fg_blue $version)."
   done
 
-  echo
-  echo "## $pname"
+  {
+    echo
+    echo "## $pname"
+  } >> "$package_meta_file"
 }
 
-parseMeta > "$PKGS_PATH/${1:-"games/$pname"}.toml"
+parseMeta \
+  && trace "papermc" "generated all papermc versions!" \
+  || error "papermc" "some errors has been thrown. See logs above."

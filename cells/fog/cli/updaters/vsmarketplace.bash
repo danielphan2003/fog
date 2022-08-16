@@ -1,5 +1,6 @@
 pname="VS Code extensions - Visual Studio Marketplace"
 package_meta_file="$PKGS_PATH/${1:-"misc/vscode-extensions/vsmarketplace"}.toml"
+package_meta_basename="$(basename $package_meta_file)"
 
 function parseMeta() {
   meta_file="$FOG_CACHE/vsmarketplace.json"
@@ -47,28 +48,42 @@ function parseMeta() {
         namespace_cleaned="_$namespace"
       fi
       
-      id="$namespace_cleaned-$name"
+      id_cleaned="$namespace_cleaned-$name"
+      id="$namespace.$name"
+
+      trace "vsmarketplace" "updating $(fg_blue "$id")..."
 
       # skip added packages
-      rg --quiet "$id" "$package_meta_file"
+      rg --quiet "$id_cleaned" "$package_meta_file"
       if [ "$?" -eq 0 ]; then
+        trace "vsmarketplace" "$(fg_blue "$id") is already in $package_meta_basename. Skipping..."
         continue
       fi
+
+      trace "vsmarketplace" "$(fg_blue "$id") is a new extension. Adding to $package_meta_basename..."
 
       # License is a URL, instead of an identifier
       license="https://marketplace.visualstudio.com/items/$namespace.$name/license"
 
       description="${description//'$'/"'$'"}"
 
-      echo
-      echo "[$id]"
-      echo "src.vsmarketplace = \"$namespace.$name\""
-      echo "fetch.vsmarketplace = \"$namespace.$name\""
-      echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = \"$license\" }"
+      function meta() {
+        echo
+        echo "[$id_cleaned]"
+        echo "src.vsmarketplace = \"$namespace.$name\""
+        echo "fetch.vsmarketplace = \"$namespace.$name\""
+        echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = \"$license\" }"
+      }
+
+      meta >> "$package_meta_file" \
+        && trace "vsmarketplace" "added $(fg_blue "$id") to $package_meta_basename." \
+        || error "vsmarketplace" "failed to add $(bold "$id"). In: $meta"
     done
 
     getPage "$pageNumber"
   done
 }
 
-parseMeta >> "$package_meta_file"
+parseMeta \
+  && trace "vsmarketplace" "generated all vsmarketplace extensions!" \
+  || error "vsmarketplace" "some errors has been thrown. See logs above."
