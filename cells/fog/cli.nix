@@ -109,7 +109,8 @@
                   "\e[4mDescription\e[0m:\n$description"
             ;;
           *)
-            PRJ_ROOT="$PRJ_ROOT" FOG_CACHE="$FOG_CACHE" SRC_PATH="$PRJ_ROOT/src" CELL_PATH="$PRJ_ROOT/cells/fog" PKGS_PATH="$CELL_PATH/pkgs" exec $default "$@"
+            CELL_PATH="$PRJ_ROOT/cells/fog"
+            PRJ_ROOT="$PRJ_ROOT" FOG_CACHE="$FOG_CACHE" SRC_PATH="$PRJ_ROOT/src" CELL_PATH="$CELL_PATH" PKGS_PATH="$CELL_PATH/pkgs" exec $default "$@"
             ;;
         esac
       }
