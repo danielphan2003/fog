@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "a479943acd70068c4b80d3a8f4b8dd7ab93ca2ba";
+    version = "a944de4ab7acfdd114d11a2ca0d267110ba9c152";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "a479943acd70068c4b80d3a8f4b8dd7ab93ca2ba";
+      rev = "a944de4ab7acfdd114d11a2ca0d267110ba9c152";
       fetchSubmodules = false;
-      sha256 = "sha256-HpQjl7lQEpFS1EA9HMHUoqI3KZviADdmCaGw2AWR454=";
+      sha256 = "sha256-/52ylXaiiZC2gsTkaN3015/qgpyZ16HSXb0VLdaaZV4=";
     });
   };
   cinny = {
@@ -556,26 +556,26 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6462";
+    version = "1.0.6463";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6462.tar.bz2";
-      sha256 = "sha256-GAH2pSjvkkaLpm+fKsm+t/piaktXplECePXDU8/Bllk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6463.tar.bz2";
+      sha256 = "sha256-4uDSr3gQbOT05+Zj3RFrSQDeQhy75FxTE//yu/LKjwQ=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6462";
+    version = "1.0.6463";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6462-1_all.deb";
-      sha256 = "sha256-1gPEGaGKGoEohZscTtmcXHbb2j5XRmj0toVacOt9RjI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6463-1_all.deb";
+      sha256 = "sha256-S6CRyU5zbRqKTT/ZrooqAPmyXmOBWEUUV8Ae0w642sA=";
     };
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-29-g135ef9fb";
+    version = "2.2-30-g4f833d3d";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-29-g135ef9fb-1_all.deb";
-      sha256 = "sha256-lfStASHfvKAvBZO8PWINPlK/stf7bFHCryIyxjX34WQ=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-30-g4f833d3d-1_all.deb";
+      sha256 = "sha256-oeYOEUHXbN9XinAGxJIgMdFYshSGGB5/05jdz4LVpag=";
     };
   };
   layout-machi = {

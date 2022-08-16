@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "a479943acd70068c4b80d3a8f4b8dd7ab93ca2ba",
-            "sha256": "sha256-HpQjl7lQEpFS1EA9HMHUoqI3KZviADdmCaGw2AWR454=",
+            "rev": "a944de4ab7acfdd114d11a2ca0d267110ba9c152",
+            "sha256": "sha256-/52ylXaiiZC2gsTkaN3015/qgpyZ16HSXb0VLdaaZV4=",
             "type": "github"
         },
-        "version": "a479943acd70068c4b80d3a8f4b8dd7ab93ca2ba"
+        "version": "a944de4ab7acfdd114d11a2ca0d267110ba9c152"
     },
     "cinny": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GAH2pSjvkkaLpm+fKsm+t/piaktXplECePXDU8/Bllk=",
+            "sha256": "sha256-4uDSr3gQbOT05+Zj3RFrSQDeQhy75FxTE//yu/LKjwQ=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6462.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6463.tar.bz2"
         },
-        "version": "1.0.6462"
+        "version": "1.0.6463"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-1gPEGaGKGoEohZscTtmcXHbb2j5XRmj0toVacOt9RjI=",
+            "sha256": "sha256-S6CRyU5zbRqKTT/ZrooqAPmyXmOBWEUUV8Ae0w642sA=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6462-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6463-1_all.deb"
         },
-        "version": "1.0.6462"
+        "version": "1.0.6463"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lfStASHfvKAvBZO8PWINPlK/stf7bFHCryIyxjX34WQ=",
+            "sha256": "sha256-oeYOEUHXbN9XinAGxJIgMdFYshSGGB5/05jdz4LVpag=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-29-g135ef9fb-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-30-g4f833d3d-1_all.deb"
         },
-        "version": "2.2-29-g135ef9fb"
+        "version": "2.2-30-g4f833d3d"
     },
     "layout-machi": {
         "cargoLocks": null,
