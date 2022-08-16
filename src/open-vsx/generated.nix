@@ -13690,19 +13690,6 @@
     description = "krafix support";
     publisher = "kodetech";
   };
-  kodetech-krom = {
-    pname = "kodetech-krom";
-    version = "22.6.0";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      name = "krom-22.6.0.zip";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
-    };
-    license = "MIT";
-    name = "krom";
-    description = "Krom support";
-    publisher = "kodetech";
-  };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
     version = "20.6.0";
@@ -13757,11 +13744,11 @@
   };
   koog1000-fossil = {
     pname = "koog1000-fossil";
-    version = "0.1.7";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/koog1000/fossil/0.1.7/file/koog1000.fossil-0.1.7.vsix";
-      name = "fossil-0.1.7.zip";
-      sha256 = "sha256-mpJkeqgVL2GCnTG+SXJ02pTdxyog6CIWMLUcdyb7/AM=";
+      url = "https://open-vsx.org/api/koog1000/fossil/0.1.8/file/koog1000.fossil-0.1.8.vsix";
+      name = "fossil-0.1.8.zip";
+      sha256 = "sha256-xJ4RyIHwF/SbyByQe3uft0m7/SwyNQ8NBL1MUiiJh+Q=";
     };
     license = "MIT";
     name = "fossil";

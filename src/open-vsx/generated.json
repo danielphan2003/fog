@@ -20006,25 +20006,6 @@
         },
         "version": "18.7.1"
     },
-    "kodetech-krom": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "kodetech-krom",
-        "passthru": {
-            "description": "Krom support",
-            "license": "MIT",
-            "name": "krom",
-            "publisher": "kodetech"
-        },
-        "pinned": false,
-        "src": {
-            "name": "krom-22.6.0.zip",
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
-        },
-        "version": "22.6.0"
-    },
     "kodetech-krom-debug": {
         "cargoLocks": null,
         "extract": null,
@@ -20113,12 +20094,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "fossil-0.1.7.zip",
-            "sha256": "sha256-mpJkeqgVL2GCnTG+SXJ02pTdxyog6CIWMLUcdyb7/AM=",
+            "name": "fossil-0.1.8.zip",
+            "sha256": "sha256-xJ4RyIHwF/SbyByQe3uft0m7/SwyNQ8NBL1MUiiJh+Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.7/file/koog1000.fossil-0.1.7.vsix"
+            "url": "https://open-vsx.org/api/koog1000/fossil/0.1.8/file/koog1000.fossil-0.1.8.vsix"
         },
-        "version": "0.1.7"
+        "version": "0.1.8"
     },
     "korekontrol-saltstack": {
         "cargoLocks": null,
