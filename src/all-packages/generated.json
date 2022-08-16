@@ -1093,11 +1093,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m1zktD5oxGLdlCk2GzNItmYbeOm0WJ220DrpaadmTAU=",
+            "sha256": "sha256-pAblo+LqQqmvmtcd5sGgg3IgDuoKzS04dbfirxLcSNk=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_104.0.1293.44-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.7-1_amd64.deb"
         },
-        "version": "104.0.1293.44"
+        "version": "105.0.1343.7"
     },
     "microsoft-edge-dev": {
         "cargoLocks": null,
