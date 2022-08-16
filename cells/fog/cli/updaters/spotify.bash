@@ -8,7 +8,7 @@ readarray -t meta <<< "$( jq -r '.package_name,.revision,.snap_id,.version' $met
 pname="${meta[0]}"
 export pname
 
-nixpkgs patchSources all-packages "$pname" "$({
+fog patchSources all-packages "$pname" "$({
   rev="${meta[1]}"
   snapId="${meta[2]}"
   version="${meta[3]}"
