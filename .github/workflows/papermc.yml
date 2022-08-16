@@ -3,7 +3,7 @@ name: Auto update papermc packages
 on:
   push:
     paths:
-      - cells/fogfog/pkgs/games/papermc.toml
+      - cells/fog/pkgs/games/papermc.toml
   workflow_dispatch:
   schedule:
     # Update every 1 hour
