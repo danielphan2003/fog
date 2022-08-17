@@ -190,7 +190,7 @@ in {
           path = writeBashWithGumPaths args;
         });
         help = "Script to update ${l.removeSuffix "-updater" name}";
-        packages = [nixpkgs.coreutils nixpkgs.curl nixpkgs.jq nixpkgs.ripgrep];
+        packages = [nixpkgs.coreutils nixpkgs.curl nixpkgs.jq nixpkgs.ripgrep nixpkgs.nvchecker];
       })
       updaters));
 }
