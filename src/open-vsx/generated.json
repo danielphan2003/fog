@@ -4894,12 +4894,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "prisma-insider-31.0.1303.zip",
-            "sha256": "sha256-Lr3xXFFGRmi2ef8QaYFXN2TIiHglAPxIBumpCwAAzQk=",
+            "name": "prisma-insider-31.0.1304.zip",
+            "sha256": "sha256-Vx3BA9hKxlElDfAR/UpZ8UmKA23SiVQoJjPNuQ2kpjY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1303/file/Prisma.prisma-insider-31.0.1303.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1304/file/Prisma.prisma-insider-31.0.1304.vsix"
         },
-        "version": "31.0.1303"
+        "version": "31.0.1304"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5540,12 +5540,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "slint-nightly-2022.8.1512.zip",
-            "sha256": "sha256-pFi7I+DkHko5DNXy5FRaT8qbXEwCVjO4oKTe6fv3x08=",
+            "name": "slint-nightly-2022.8.1612.zip",
+            "sha256": "sha256-zGhwAahs2FB0kJwNecnaLmecJ7JIJFJCjNf/lq9hvUg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1512/file/Slint.slint-nightly-2022.8.1512.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1612/file/Slint.slint-nightly-2022.8.1612.vsix"
         },
-        "version": "2022.8.1512"
+        "version": "2022.8.1612"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -9378,12 +9378,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "spellright-3.0.72.zip",
-            "sha256": "sha256-yOgq2s5KKT+kCBcW2p14Nek1uapdHoPt4V2ktEEdbr4=",
+            "name": "spellright-3.0.78.zip",
+            "sha256": "sha256-d+Ousy4bIwk9AEl5rwSr9JwNgzPcPGWRRsiInf7zAWk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ban/spellright/3.0.72/file/ban.spellright-3.0.72.vsix"
+            "url": "https://open-vsx.org/api/ban/spellright/3.0.78/file/ban.spellright-3.0.78.vsix"
         },
-        "version": "3.0.72"
+        "version": "3.0.78"
     },
     "banacorn-agda-mode": {
         "cargoLocks": null,
@@ -11278,12 +11278,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "metawork-0.0.7.zip",
-            "sha256": "sha256-43W1uWjh8ZMfLMIiuguHDO4QrLLQUuCDtO24SFy710E=",
+            "name": "metawork-0.0.8.zip",
+            "sha256": "sha256-2yEaCPorKG0A/2s52p673eL8XfLh7chA5h+e0p6Ypv0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.7/file/cloudstudio.metawork-0.0.7.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/metawork/0.0.8/file/cloudstudio.metawork-0.0.8.vsix"
         },
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "cloudstudio-workspaces": {
         "cargoLocks": null,
@@ -16009,12 +16009,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "Go-0.35.1.zip",
-            "sha256": "sha256-SqAjL1t4nMKJOKXKIxGl5xhPFNKovZsHNU/lJPUejQI=",
+            "name": "Go-0.35.2.zip",
+            "sha256": "sha256-j6CijIMThvoOkQRiWNzg/bhEv1avNfSVLmq/BcaJ15s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/golang/Go/0.35.1/file/golang.Go-0.35.1.vsix"
+            "url": "https://open-vsx.org/api/golang/Go/0.35.2/file/golang.Go-0.35.2.vsix"
         },
-        "version": "0.35.1"
+        "version": "0.35.2"
     },
     "golf1052-base16-generator": {
         "cargoLocks": null,
@@ -23913,12 +23913,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "vscode-typescript-next-4.9.20220815.zip",
-            "sha256": "sha256-B6D9+0Qn1DyNuMBzazBkmm+vXQIEFPEn1/N+ubmCzcY=",
+            "name": "vscode-typescript-next-4.9.20220816.zip",
+            "sha256": "sha256-nrp/WjXk+4BEypCi0GBNjlvEjZwOSCsQ38nwVFZoavo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220815/file/ms-vscode.vscode-typescript-next-4.9.20220815.vsix"
+            "url": "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220816/file/ms-vscode.vscode-typescript-next-4.9.20220816.vsix"
         },
-        "version": "4.9.20220815"
+        "version": "4.9.20220816"
     },
     "ms-vscode-vscode-typescript-tslint-plugin": {
         "cargoLocks": null,
@@ -30018,25 +30018,6 @@
             "url": "https://open-vsx.org/api/sigbots/pros/0.4.0/file/sigbots.pros-0.4.0.vsix"
         },
         "version": "0.4.0"
-    },
-    "signageos-signageos-vscode-sops": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "signageos-signageos-vscode-sops",
-        "passthru": {
-            "description": "",
-            "license": "MIT",
-            "name": "signageos-vscode-sops",
-            "publisher": "signageos"
-        },
-        "pinned": false,
-        "src": {
-            "name": "signageos-vscode-sops-0.6.1.zip",
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
-        },
-        "version": "0.6.1"
     },
     "signageos-signageos-vscode-sops-beta": {
         "cargoLocks": null,

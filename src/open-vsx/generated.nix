@@ -3344,11 +3344,11 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1303";
+    version = "31.0.1304";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1303/file/Prisma.prisma-insider-31.0.1303.vsix";
-      name = "prisma-insider-31.0.1303.zip";
-      sha256 = "sha256-Lr3xXFFGRmi2ef8QaYFXN2TIiHglAPxIBumpCwAAzQk=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1304/file/Prisma.prisma-insider-31.0.1304.vsix";
+      name = "prisma-insider-31.0.1304.zip";
+      sha256 = "sha256-Vx3BA9hKxlElDfAR/UpZ8UmKA23SiVQoJjPNuQ2kpjY=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3786,11 +3786,11 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.1512";
+    version = "2022.8.1612";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1512/file/Slint.slint-nightly-2022.8.1512.vsix";
-      name = "slint-nightly-2022.8.1512.zip";
-      sha256 = "sha256-pFi7I+DkHko5DNXy5FRaT8qbXEwCVjO4oKTe6fv3x08=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1612/file/Slint.slint-nightly-2022.8.1612.vsix";
+      name = "slint-nightly-2022.8.1612.zip";
+      sha256 = "sha256-zGhwAahs2FB0kJwNecnaLmecJ7JIJFJCjNf/lq9hvUg=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -6412,11 +6412,11 @@
   };
   ban-spellright = {
     pname = "ban-spellright";
-    version = "3.0.72";
+    version = "3.0.78";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ban/spellright/3.0.72/file/ban.spellright-3.0.72.vsix";
-      name = "spellright-3.0.72.zip";
-      sha256 = "sha256-yOgq2s5KKT+kCBcW2p14Nek1uapdHoPt4V2ktEEdbr4=";
+      url = "https://open-vsx.org/api/ban/spellright/3.0.78/file/ban.spellright-3.0.78.vsix";
+      name = "spellright-3.0.78.zip";
+      sha256 = "sha256-d+Ousy4bIwk9AEl5rwSr9JwNgzPcPGWRRsiInf7zAWk=";
     };
     license = "";
     name = "spellright";
@@ -7712,11 +7712,11 @@
   };
   cloudstudio-metawork = {
     pname = "cloudstudio-metawork";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.7/file/cloudstudio.metawork-0.0.7.vsix";
-      name = "metawork-0.0.7.zip";
-      sha256 = "sha256-43W1uWjh8ZMfLMIiuguHDO4QrLLQUuCDtO24SFy710E=";
+      url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.8/file/cloudstudio.metawork-0.0.8.vsix";
+      name = "metawork-0.0.8.zip";
+      sha256 = "sha256-2yEaCPorKG0A/2s52p673eL8XfLh7chA5h+e0p6Ypv0=";
     };
     license = "MIT";
     name = "metawork";
@@ -10949,11 +10949,11 @@
   };
   golang-Go = {
     pname = "golang-Go";
-    version = "0.35.1";
+    version = "0.35.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/golang/Go/0.35.1/file/golang.Go-0.35.1.vsix";
-      name = "Go-0.35.1.zip";
-      sha256 = "sha256-SqAjL1t4nMKJOKXKIxGl5xhPFNKovZsHNU/lJPUejQI=";
+      url = "https://open-vsx.org/api/golang/Go/0.35.2/file/golang.Go-0.35.2.vsix";
+      name = "Go-0.35.2.zip";
+      sha256 = "sha256-j6CijIMThvoOkQRiWNzg/bhEv1avNfSVLmq/BcaJ15s=";
     };
     license = "MIT";
     name = "Go";
@@ -16357,11 +16357,11 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.9.20220815";
+    version = "4.9.20220816";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220815/file/ms-vscode.vscode-typescript-next-4.9.20220815.vsix";
-      name = "vscode-typescript-next-4.9.20220815.zip";
-      sha256 = "sha256-B6D9+0Qn1DyNuMBzazBkmm+vXQIEFPEn1/N+ubmCzcY=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220816/file/ms-vscode.vscode-typescript-next-4.9.20220816.vsix";
+      name = "vscode-typescript-next-4.9.20220816.zip";
+      sha256 = "sha256-nrp/WjXk+4BEypCi0GBNjlvEjZwOSCsQ38nwVFZoavo=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -20540,19 +20540,6 @@
     name = "pros";
     description = "PROS Extension that allows for C/C++ Development for VEX V5 and VEX Cortex";
     publisher = "sigbots";
-  };
-  signageos-signageos-vscode-sops = {
-    pname = "signageos-signageos-vscode-sops";
-    version = "0.6.1";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      name = "signageos-vscode-sops-0.6.1.zip";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
-    };
-    license = "MIT";
-    name = "signageos-vscode-sops";
-    description = "";
-    publisher = "signageos";
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
