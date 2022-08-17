@@ -3344,11 +3344,11 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1304";
+    version = "31.0.1307";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1304/file/Prisma.prisma-insider-31.0.1304.vsix";
-      name = "prisma-insider-31.0.1304.zip";
-      sha256 = "sha256-Vx3BA9hKxlElDfAR/UpZ8UmKA23SiVQoJjPNuQ2kpjY=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1307/file/Prisma.prisma-insider-31.0.1307.vsix";
+      name = "prisma-insider-31.0.1307.zip";
+      sha256 = "sha256-k5lNK5tAhlftc8o0t2aAfy18xGa9NjFXRMp9jyBtH9s=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3786,11 +3786,11 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.1612";
+    version = "2022.8.1709";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1612/file/Slint.slint-nightly-2022.8.1612.vsix";
-      name = "slint-nightly-2022.8.1612.zip";
-      sha256 = "sha256-zGhwAahs2FB0kJwNecnaLmecJ7JIJFJCjNf/lq9hvUg=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1709/file/Slint.slint-nightly-2022.8.1709.vsix";
+      name = "slint-nightly-2022.8.1709.zip";
+      sha256 = "sha256-uojudFQchOHPRaj90PPyTW7A3UH6HSSWma/87qPUvFY=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -18931,11 +18931,11 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.11.29";
+    version = "0.12.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.11.29/file/redhat.ansible-0.11.29.vsix";
-      name = "ansible-0.11.29.zip";
-      sha256 = "sha256-tnQlHqUSJluEJ7JX7R1R8iNZUcllLJ9PLoA6oU7GE2I=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.12.30/file/redhat.ansible-0.12.30.vsix";
+      name = "ansible-0.12.30.zip";
+      sha256 = "sha256-W0aKjL18wFE8zf664cqesiiC3dXi8IJZQFheVv+6ce0=";
     };
     license = "MIT";
     name = "ansible";
@@ -20995,6 +20995,19 @@
     name = "vscode-standard";
     description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.";
     publisher = "standard";
+  };
+  stateful-issue-explorer = {
+    pname = "stateful-issue-explorer";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/stateful/issue-explorer/1.0.3/file/stateful.issue-explorer-1.0.3.vsix";
+      name = "issue-explorer-1.0.3.zip";
+      sha256 = "sha256-s0z9PtGjKIPM3q1HMB7mwLkjfU5TwuY/dSw3rUr8tto=";
+    };
+    license = "MIT";
+    name = "issue-explorer";
+    description = "A VS Code extension that helps to create and explore GitHub issues within your IDE.";
+    publisher = "stateful";
   };
   statelyai-stately-vscode = {
     pname = "statelyai-stately-vscode";
