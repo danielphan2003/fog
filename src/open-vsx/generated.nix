@@ -8869,11 +8869,11 @@
   };
   devfactory-multispace = {
     pname = "devfactory-multispace";
-    version = "0.0.74";
+    version = "0.0.77";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devfactory/multispace/0.0.74/file/devfactory.multispace-0.0.74.vsix";
-      name = "multispace-0.0.74.zip";
-      sha256 = "sha256-9KVL4G42eHhFGrCbTqc0TklcAvRf3YCkp+FECdUhrFQ=";
+      url = "https://open-vsx.org/api/devfactory/multispace/0.0.77/file/devfactory.multispace-0.0.77.vsix";
+      name = "multispace-0.0.77.zip";
+      sha256 = "sha256-41jRA5s4DSc7kQIkvBrlKz9t+Jxd2SsQ+xQCXTkb/6A=";
     };
     license = "MIT";
     name = "multispace";
@@ -11222,11 +11222,11 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.9.7";
+    version = "0.9.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.7/file/halcyontechltd.vscode-rpgle-0.9.7.vsix";
-      name = "vscode-rpgle-0.9.7.zip";
-      sha256 = "sha256-wERQSBClpfisEVx8GIzCt9IwpgIHh4j8D8NdyNpC5m8=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.8/file/halcyontechltd.vscode-rpgle-0.9.8.vsix";
+      name = "vscode-rpgle-0.9.8.zip";
+      sha256 = "sha256-ZQxAKDbhDtZyTYJe1EVuOPfhp1dJWRbJuItBfg+QtB0=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -16669,11 +16669,11 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.12";
+    version = "1.1.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.12/file/mutable-ai.mutable-ai-1.1.12.vsix";
-      name = "mutable-ai-1.1.12.zip";
-      sha256 = "sha256-efJ6kpsafmmzZEGNmY3UMt0pENrQ82x+A60UhLGYF7c=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.13/file/mutable-ai.mutable-ai-1.1.13.vsix";
+      name = "mutable-ai-1.1.13.zip";
+      sha256 = "sha256-jZY95c3iE1t0VmWN1ee5qALye5yuMNgnva+PTnJlGvY=";
     };
     license = "";
     name = "mutable-ai";
@@ -21687,11 +21687,11 @@
   };
   t-codespaces-workspace-manager = {
     pname = "t-codespaces-workspace-manager";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.1/file/t-codespaces.workspace-manager-0.0.1.vsix";
-      name = "workspace-manager-0.0.1.zip";
-      sha256 = "sha256-P5Izi4MVqCzgdGMFw45TGyTaI8r4nf9PEude5nafDhw=";
+      url = "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.2/file/t-codespaces.workspace-manager-0.0.2.vsix";
+      name = "workspace-manager-0.0.2.zip";
+      sha256 = "sha256-6CWFnXaG1wK8Ib0VHiPxu61b48xCc2WSsc5LSp4IRcA=";
     };
     license = "";
     name = "workspace-manager";
@@ -25804,19 +25804,6 @@
     license = "MIT";
     name = "preview";
     description = "A storyboarding and prototyping tool for Vue.";
-    publisher = "znck";
-  };
-  znck-vue = {
-    pname = "znck-vue";
-    version = "0.11.4";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      name = "vue-0.11.4.zip";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
-    };
-    license = "MIT";
-    name = "vue";
-    description = "Syntax Highlight";
     publisher = "znck";
   };
   znck-vue-language-features = {

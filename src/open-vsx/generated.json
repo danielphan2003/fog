@@ -12969,12 +12969,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "multispace-0.0.74.zip",
-            "sha256": "sha256-9KVL4G42eHhFGrCbTqc0TklcAvRf3YCkp+FECdUhrFQ=",
+            "name": "multispace-0.0.77.zip",
+            "sha256": "sha256-41jRA5s4DSc7kQIkvBrlKz9t+Jxd2SsQ+xQCXTkb/6A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.74/file/devfactory.multispace-0.0.74.vsix"
+            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.77/file/devfactory.multispace-0.0.77.vsix"
         },
-        "version": "0.0.74"
+        "version": "0.0.77"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -16408,12 +16408,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "vscode-rpgle-0.9.7.zip",
-            "sha256": "sha256-wERQSBClpfisEVx8GIzCt9IwpgIHh4j8D8NdyNpC5m8=",
+            "name": "vscode-rpgle-0.9.8.zip",
+            "sha256": "sha256-ZQxAKDbhDtZyTYJe1EVuOPfhp1dJWRbJuItBfg+QtB0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.7/file/halcyontechltd.vscode-rpgle-0.9.7.vsix"
+            "url": "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.8/file/halcyontechltd.vscode-rpgle-0.9.8.vsix"
         },
-        "version": "0.9.7"
+        "version": "0.9.8"
     },
     "hall-draw": {
         "cargoLocks": null,
@@ -24369,12 +24369,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "mutable-ai-1.1.12.zip",
-            "sha256": "sha256-efJ6kpsafmmzZEGNmY3UMt0pENrQ82x+A60UhLGYF7c=",
+            "name": "mutable-ai-1.1.13.zip",
+            "sha256": "sha256-jZY95c3iE1t0VmWN1ee5qALye5yuMNgnva+PTnJlGvY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.12/file/mutable-ai.mutable-ai-1.1.12.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.13/file/mutable-ai.mutable-ai-1.1.13.vsix"
         },
-        "version": "1.1.12"
+        "version": "1.1.13"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -31703,12 +31703,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "workspace-manager-0.0.1.zip",
-            "sha256": "sha256-P5Izi4MVqCzgdGMFw45TGyTaI8r4nf9PEude5nafDhw=",
+            "name": "workspace-manager-0.0.2.zip",
+            "sha256": "sha256-6CWFnXaG1wK8Ib0VHiPxu61b48xCc2WSsc5LSp4IRcA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.1/file/t-codespaces.workspace-manager-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.2/file/t-codespaces.workspace-manager-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "tachish-webview-test": {
         "cargoLocks": null,
@@ -37713,25 +37713,6 @@
             "url": "https://open-vsx.org/api/znck/preview/0.4.1/file/znck.preview-0.4.1.vsix"
         },
         "version": "0.4.1"
-    },
-    "znck-vue": {
-        "cargoLocks": null,
-        "extract": null,
-        "name": "znck-vue",
-        "passthru": {
-            "description": "Syntax Highlight",
-            "license": "MIT",
-            "name": "vue",
-            "publisher": "znck"
-        },
-        "pinned": false,
-        "src": {
-            "name": "vue-0.11.4.zip",
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
-            "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
-        },
-        "version": "0.11.4"
     },
     "znck-vue-language-features": {
         "cargoLocks": null,
