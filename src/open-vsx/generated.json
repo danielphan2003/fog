@@ -9682,12 +9682,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "joyride-0.0.16.zip",
-            "sha256": "sha256-aFyf8DLP8Tl40yBShmQoq9gu3xxyt5l6dapnFxlAve0=",
+            "name": "joyride-0.0.17.zip",
+            "sha256": "sha256-WsTa7H1/tiODe8VZDvi+3wHmNyaUyiMJCADJUCNdLIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.16/file/betterthantomorrow.joyride-0.0.16.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.17/file/betterthantomorrow.joyride-0.0.17.vsix"
         },
-        "version": "0.0.16"
+        "version": "0.0.17"
     },
     "betterthantomorrow-paste-replaced": {
         "cargoLocks": null,
@@ -12893,12 +12893,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "nightly-0.107.8.zip",
-            "sha256": "sha256-nVEileDaNa520/yFmp6VffK1bFohUPBimEI6vIsBZD8=",
+            "name": "nightly-0.108.1.zip",
+            "sha256": "sha256-C8mk8lYnGE59IxBel0DzQDn9g8zYj8ESTS629zG/7rM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.107.8/file/dendron.nightly-0.107.8.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.108.1/file/dendron.nightly-0.108.1.vsix"
         },
-        "version": "0.107.8"
+        "version": "0.108.1"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -12969,12 +12969,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "multispace-0.0.79.zip",
-            "sha256": "sha256-ax5PYdqk1+G17UDi38s2/Fc0hFRfQNfUhvxyqPuhVRk=",
+            "name": "multispace-0.0.80.zip",
+            "sha256": "sha256-FO9Q8UhAsgyhQLwJYYTJAhItjjJVe8mlu1JMCWJLshU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.79/file/devfactory.multispace-0.0.79.vsix"
+            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.80/file/devfactory.multispace-0.0.80.vsix"
         },
-        "version": "0.0.79"
+        "version": "0.0.80"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,

@@ -6620,11 +6620,11 @@
   };
   betterthantomorrow-joyride = {
     pname = "betterthantomorrow-joyride";
-    version = "0.0.16";
+    version = "0.0.17";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.16/file/betterthantomorrow.joyride-0.0.16.vsix";
-      name = "joyride-0.0.16.zip";
-      sha256 = "sha256-aFyf8DLP8Tl40yBShmQoq9gu3xxyt5l6dapnFxlAve0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/joyride/0.0.17/file/betterthantomorrow.joyride-0.0.17.vsix";
+      name = "joyride-0.0.17.zip";
+      sha256 = "sha256-WsTa7H1/tiODe8VZDvi+3wHmNyaUyiMJCADJUCNdLIs=";
     };
     license = "MIT";
     name = "joyride";
@@ -8817,11 +8817,11 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.107.8";
+    version = "0.108.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.107.8/file/dendron.nightly-0.107.8.vsix";
-      name = "nightly-0.107.8.zip";
-      sha256 = "sha256-nVEileDaNa520/yFmp6VffK1bFohUPBimEI6vIsBZD8=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.108.1/file/dendron.nightly-0.108.1.vsix";
+      name = "nightly-0.108.1.zip";
+      sha256 = "sha256-C8mk8lYnGE59IxBel0DzQDn9g8zYj8ESTS629zG/7rM=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -8869,11 +8869,11 @@
   };
   devfactory-multispace = {
     pname = "devfactory-multispace";
-    version = "0.0.79";
+    version = "0.0.80";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devfactory/multispace/0.0.79/file/devfactory.multispace-0.0.79.vsix";
-      name = "multispace-0.0.79.zip";
-      sha256 = "sha256-ax5PYdqk1+G17UDi38s2/Fc0hFRfQNfUhvxyqPuhVRk=";
+      url = "https://open-vsx.org/api/devfactory/multispace/0.0.80/file/devfactory.multispace-0.0.80.vsix";
+      name = "multispace-0.0.80.zip";
+      sha256 = "sha256-FO9Q8UhAsgyhQLwJYYTJAhItjjJVe8mlu1JMCWJLshU=";
     };
     license = "MIT";
     name = "multispace";
