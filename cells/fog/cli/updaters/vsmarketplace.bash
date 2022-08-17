@@ -7,6 +7,7 @@ function parseMeta() {
   meta_file="$FOG_CACHE/vsmarketplace.json"
   query_template_file="$CELL_PATH/cli/updaters/vsmarketplace/extension-query.json"
   query_file="$FOG_CACHE/vsmarketplace-extension-query.json"
+  nvchecker_file="$FOG_CACHE/vsmarketplace-nvchecker.toml"
 
   function reqUrl() {
     echo "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery"
@@ -54,12 +55,19 @@ function parseMeta() {
       id_cleaned="$namespace_cleaned-$name"
       id="$namespace.$name"
 
+      pushd "$FOG_CACHE"
       # skip non-existent packages
-      statusCode="$(curl -sI "https://marketplace.visualstudio.com/items?itemName=$id" | head -n 1 | cut -d$' ' -f2)"
-      if [ "$statusCode" -eq 404 ]; then
+      {
+        echo "[$id_cleaned]"
+        echo "source = "vsmarketplace"
+        echo "vsmarketplace = \"$id\""
+      } > "$nvchecker_file"
+      nvchecker -c "$nvchecker_file"
+      if [ ! "$?" -eq 0 ]; then
         warn "vsmarketplace[$count]" "Cannot find $(bold "$id") on vsmarketplace!"
         continue
       fi
+      popd
 
       # skip added packages
       rg --quiet "$id_cleaned" "$package_meta_file"
