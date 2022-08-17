@@ -37821,12 +37821,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "sync-settings-0.12.1.zip",
-            "sha256": "sha256-HpT7LkzrEb+1h6DEiHJE9Tjh4HaqZGaOYDh9OFjKrog=",
+            "name": "sync-settings-0.12.2.zip",
+            "sha256": "sha256-BW3vuRf/YXVOZcxmK2Oq1jf0Ito2AIFM9XgYCQnicDs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zokugun/sync-settings/0.12.1/file/zokugun.sync-settings-0.12.1.vsix"
+            "url": "https://open-vsx.org/api/zokugun/sync-settings/0.12.2/file/zokugun.sync-settings-0.12.2.vsix"
         },
-        "version": "0.12.1"
+        "version": "0.12.2"
     },
     "zokugun-zokugun-theme": {
         "cargoLocks": null,
