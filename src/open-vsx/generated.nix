@@ -8869,11 +8869,11 @@
   };
   devfactory-multispace = {
     pname = "devfactory-multispace";
-    version = "0.0.77";
+    version = "0.0.79";
     src = fetchurl {
-      url = "https://open-vsx.org/api/devfactory/multispace/0.0.77/file/devfactory.multispace-0.0.77.vsix";
-      name = "multispace-0.0.77.zip";
-      sha256 = "sha256-41jRA5s4DSc7kQIkvBrlKz9t+Jxd2SsQ+xQCXTkb/6A=";
+      url = "https://open-vsx.org/api/devfactory/multispace/0.0.79/file/devfactory.multispace-0.0.79.vsix";
+      name = "multispace-0.0.79.zip";
+      sha256 = "sha256-ax5PYdqk1+G17UDi38s2/Fc0hFRfQNfUhvxyqPuhVRk=";
     };
     license = "MIT";
     name = "multispace";
@@ -18630,6 +18630,19 @@
     description = "Qore language support for VS Code";
     publisher = "qoretechnologies";
   };
+  quanzhuo-test-openvsx = {
+    pname = "quanzhuo-test-openvsx";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.1/file/quanzhuo.test-openvsx-0.0.1.vsix";
+      name = "test-openvsx-0.0.1.zip";
+      sha256 = "sha256-DoM7mZELQuO6yOppNZsNNYedc7xnX9wHHjnotAYZYqA=";
+    };
+    license = "MIT";
+    name = "test-openvsx";
+    description = "Test the steps involved to publish a extension to openvsx";
+    publisher = "quanzhuo";
+  };
   quarto-quarto = {
     pname = "quarto-quarto";
     version = "1.32.0";
@@ -21674,11 +21687,11 @@
   };
   t-codespaces-workspace-manager = {
     pname = "t-codespaces-workspace-manager";
-    version = "0.0.2";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.2/file/t-codespaces.workspace-manager-0.0.2.vsix";
-      name = "workspace-manager-0.0.2.zip";
-      sha256 = "sha256-6CWFnXaG1wK8Ib0VHiPxu61b48xCc2WSsc5LSp4IRcA=";
+      url = "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.3/file/t-codespaces.workspace-manager-0.0.3.vsix";
+      name = "workspace-manager-0.0.3.zip";
+      sha256 = "sha256-Vs5M4fUEL9A9+luUa9WqYypclt+Gh8KJ6sGicx5rDkQ=";
     };
     license = "";
     name = "workspace-manager";

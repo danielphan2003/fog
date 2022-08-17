@@ -12969,12 +12969,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "multispace-0.0.77.zip",
-            "sha256": "sha256-41jRA5s4DSc7kQIkvBrlKz9t+Jxd2SsQ+xQCXTkb/6A=",
+            "name": "multispace-0.0.79.zip",
+            "sha256": "sha256-ax5PYdqk1+G17UDi38s2/Fc0hFRfQNfUhvxyqPuhVRk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.77/file/devfactory.multispace-0.0.77.vsix"
+            "url": "https://open-vsx.org/api/devfactory/multispace/0.0.79/file/devfactory.multispace-0.0.79.vsix"
         },
-        "version": "0.0.77"
+        "version": "0.0.79"
     },
     "devsense-phptools-vscode": {
         "cargoLocks": null,
@@ -27226,6 +27226,25 @@
         },
         "version": "0.7.4"
     },
+    "quanzhuo-test-openvsx": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "quanzhuo-test-openvsx",
+        "passthru": {
+            "description": "Test the steps involved to publish a extension to openvsx",
+            "license": "MIT",
+            "name": "test-openvsx",
+            "publisher": "quanzhuo"
+        },
+        "pinned": false,
+        "src": {
+            "name": "test-openvsx-0.0.1.zip",
+            "sha256": "sha256-DoM7mZELQuO6yOppNZsNNYedc7xnX9wHHjnotAYZYqA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.1/file/quanzhuo.test-openvsx-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "quarto-quarto": {
         "cargoLocks": null,
         "extract": null,
@@ -31684,12 +31703,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "workspace-manager-0.0.2.zip",
-            "sha256": "sha256-6CWFnXaG1wK8Ib0VHiPxu61b48xCc2WSsc5LSp4IRcA=",
+            "name": "workspace-manager-0.0.3.zip",
+            "sha256": "sha256-Vs5M4fUEL9A9+luUa9WqYypclt+Gh8KJ6sGicx5rDkQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.2/file/t-codespaces.workspace-manager-0.0.2.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/workspace-manager/0.0.3/file/t-codespaces.workspace-manager-0.0.3.vsix"
         },
-        "version": "0.0.2"
+        "version": "0.0.3"
     },
     "tachish-webview-test": {
         "cargoLocks": null,
