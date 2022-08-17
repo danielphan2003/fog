@@ -6,8 +6,8 @@ on:
       - cells/fog/pkgs/misc/vscode-extensions/vsmarketplace.toml
   workflow_dispatch:
   schedule:
-    # Update every 3 hour
-    - cron: "0 */3 * * *"
+    # Update every 24 hours
+    - cron: "0 0 */1 * *"
 
 jobs:
   update_pkgs:
