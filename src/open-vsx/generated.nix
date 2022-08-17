@@ -1329,11 +1329,11 @@
   };
   GenieBuilder-geniebuilder-insider = {
     pname = "GenieBuilder-geniebuilder-insider";
-    version = "0.1.19";
+    version = "0.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.19/file/GenieBuilder.geniebuilder-insider-0.1.19.vsix";
-      name = "geniebuilder-insider-0.1.19.zip";
-      sha256 = "sha256-bSBerwlKw8nYZXYCp2+4pCBajHIstJhaRG6cqC1BN/k=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.20/file/GenieBuilder.geniebuilder-insider-0.1.20.vsix";
+      name = "geniebuilder-insider-0.1.20.zip";
+      sha256 = "sha256-Ljlu/DTOFTa4myDOGQQMK3uCeDRys0UPr/p4EFzGJCQ=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -3344,11 +3344,11 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1308";
+    version = "31.0.1309";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1308/file/Prisma.prisma-insider-31.0.1308.vsix";
-      name = "prisma-insider-31.0.1308.zip";
-      sha256 = "sha256-JbLQrdxt/KfToz8cCl4qmnbYBmWaqh4WSviHolmOzrw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1309/file/Prisma.prisma-insider-31.0.1309.vsix";
+      name = "prisma-insider-31.0.1309.zip";
+      sha256 = "sha256-flk390RbXZmDWuK6uHhaGO21mt3ZGx4CRjhdEN2xRKk=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -7439,11 +7439,11 @@
   };
   chouzz-vscode-better-align = {
     pname = "chouzz-vscode-better-align";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/chouzz/vscode-better-align/1.2.0/file/chouzz.vscode-better-align-1.2.0.vsix";
-      name = "vscode-better-align-1.2.0.zip";
-      sha256 = "sha256-XikmrotTuqHQx9K9yyKt0RwkcU1i2W2pr+POv7bdhnw=";
+      url = "https://open-vsx.org/api/chouzz/vscode-better-align/1.3.0/file/chouzz.vscode-better-align-1.3.0.vsix";
+      name = "vscode-better-align-1.3.0.zip";
+      sha256 = "sha256-l3LmZK9U+JejBnSLOxw6TEvGJqXylvoe0VGhM9YwivY=";
     };
     license = "Apache-2.0";
     name = "vscode-better-align";
@@ -9792,11 +9792,11 @@
   };
   espressif-esp-idf-extension = {
     pname = "espressif-esp-idf-extension";
-    version = "1.4.0";
+    version = "1.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.4.0/file/espressif.esp-idf-extension-1.4.0.vsix";
-      name = "esp-idf-extension-1.4.0.zip";
-      sha256 = "sha256-p010yC9Pr3zHOhcVTANVgk6GzsSsXfp7Id5obnsbYz0=";
+      url = "https://open-vsx.org/api/espressif/esp-idf-extension/1.5.0/file/espressif.esp-idf-extension-1.5.0.vsix";
+      name = "esp-idf-extension-1.5.0.zip";
+      sha256 = "sha256-fWcTRFR1CUYO8eOAgaK2D0zZdTEeWPU4/fXY2ZQPyhs=";
     };
     license = "Apache-2.0";
     name = "esp-idf-extension";
@@ -18229,11 +18229,11 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.415";
+    version = "0.26.416";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.415/file/pokey.cursorless-0.26.415.vsix";
-      name = "cursorless-0.26.415.zip";
-      sha256 = "sha256-dXYwQXz+YTpW8sgPv7YvH4uq8jK15253VGcEDHoQj00=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.416/file/pokey.cursorless-0.26.416.vsix";
+      name = "cursorless-0.26.416.zip";
+      sha256 = "sha256-/tqMwShDUdZEAaBXklxCORfjm7MCX+7KAWcb0HhDBts=";
     };
     license = "MIT";
     name = "cursorless";

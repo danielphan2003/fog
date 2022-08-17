@@ -1949,12 +1949,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "geniebuilder-insider-0.1.19.zip",
-            "sha256": "sha256-bSBerwlKw8nYZXYCp2+4pCBajHIstJhaRG6cqC1BN/k=",
+            "name": "geniebuilder-insider-0.1.20.zip",
+            "sha256": "sha256-Ljlu/DTOFTa4myDOGQQMK3uCeDRys0UPr/p4EFzGJCQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.19/file/GenieBuilder.geniebuilder-insider-0.1.19.vsix"
+            "url": "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.20/file/GenieBuilder.geniebuilder-insider-0.1.20.vsix"
         },
-        "version": "0.1.19"
+        "version": "0.1.20"
     },
     "GitHub-github-vscode-theme": {
         "cargoLocks": null,
@@ -4894,12 +4894,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "prisma-insider-31.0.1308.zip",
-            "sha256": "sha256-JbLQrdxt/KfToz8cCl4qmnbYBmWaqh4WSviHolmOzrw=",
+            "name": "prisma-insider-31.0.1309.zip",
+            "sha256": "sha256-flk390RbXZmDWuK6uHhaGO21mt3ZGx4CRjhdEN2xRKk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1308/file/Prisma.prisma-insider-31.0.1308.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1309/file/Prisma.prisma-insider-31.0.1309.vsix"
         },
-        "version": "31.0.1308"
+        "version": "31.0.1309"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -10879,12 +10879,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "vscode-better-align-1.2.0.zip",
-            "sha256": "sha256-XikmrotTuqHQx9K9yyKt0RwkcU1i2W2pr+POv7bdhnw=",
+            "name": "vscode-better-align-1.3.0.zip",
+            "sha256": "sha256-l3LmZK9U+JejBnSLOxw6TEvGJqXylvoe0VGhM9YwivY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/chouzz/vscode-better-align/1.2.0/file/chouzz.vscode-better-align-1.2.0.vsix"
+            "url": "https://open-vsx.org/api/chouzz/vscode-better-align/1.3.0/file/chouzz.vscode-better-align-1.3.0.vsix"
         },
-        "version": "1.2.0"
+        "version": "1.3.0"
     },
     "chouzz-vscode-innosetup": {
         "cargoLocks": null,
@@ -14318,12 +14318,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "esp-idf-extension-1.4.0.zip",
-            "sha256": "sha256-p010yC9Pr3zHOhcVTANVgk6GzsSsXfp7Id5obnsbYz0=",
+            "name": "esp-idf-extension-1.5.0.zip",
+            "sha256": "sha256-fWcTRFR1CUYO8eOAgaK2D0zZdTEeWPU4/fXY2ZQPyhs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/espressif/esp-idf-extension/1.4.0/file/espressif.esp-idf-extension-1.4.0.vsix"
+            "url": "https://open-vsx.org/api/espressif/esp-idf-extension/1.5.0/file/espressif.esp-idf-extension-1.5.0.vsix"
         },
-        "version": "1.4.0"
+        "version": "1.5.0"
     },
     "ethan-reesor-go-notebook-kernel": {
         "cargoLocks": null,
@@ -26649,12 +26649,12 @@
         },
         "pinned": false,
         "src": {
-            "name": "cursorless-0.26.415.zip",
-            "sha256": "sha256-dXYwQXz+YTpW8sgPv7YvH4uq8jK15253VGcEDHoQj00=",
+            "name": "cursorless-0.26.416.zip",
+            "sha256": "sha256-/tqMwShDUdZEAaBXklxCORfjm7MCX+7KAWcb0HhDBts=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.415/file/pokey.cursorless-0.26.415.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.416/file/pokey.cursorless-0.26.416.vsix"
         },
-        "version": "0.26.415"
+        "version": "0.26.416"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
