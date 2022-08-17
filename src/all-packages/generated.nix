@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "4951bce96184968479b2e493ffd26071b6eb874e";
+    version = "033f2141efe825dc45d62e2f1bc950f08d353b4e";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "4951bce96184968479b2e493ffd26071b6eb874e";
+      rev = "033f2141efe825dc45d62e2f1bc950f08d353b4e";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-HkPzyLBxpfiOSDBDHBgqK6xv0qLtAwmShr//Ev0RzXI=";
+      sha256 = "sha256-CUHyuE5zQZ5PSZ/Y0TVukfHG8Fccv9N9/2Fj2VKdyzE=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-4951bce96184968479b2e493ffd26071b6eb874e/Cargo.lock;
+      lockFile = ./asusctl-033f2141efe825dc45d62e2f1bc950f08d353b4e/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "093432d6c4191e2521a87d6397d9c3626f49a687";
+    version = "b55e6d10c734d9cb06df7c8a0a6b688589abc614";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "093432d6c4191e2521a87d6397d9c3626f49a687";
+      rev = "b55e6d10c734d9cb06df7c8a0a6b688589abc614";
       fetchSubmodules = false;
-      sha256 = "sha256-eLTx/UinI4fIEBQDL9XPfv/wtIs4vKCDA4cEwe2turQ=";
+      sha256 = "sha256-kKeoWng4sj+Va7MTHYLGuqOIABx0f7tvKpErmNuOE74=";
     });
   };
   revanced-cli = {
@@ -1081,14 +1081,14 @@
   };
   snui = {
     pname = "snui";
-    version = "cb54cde335ed95982d4b167d4148aba33ee77684";
+    version = "9893f7c1986ada43151a77aadc2d79a6a56f627d";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "cb54cde335ed95982d4b167d4148aba33ee77684";
+      rev = "9893f7c1986ada43151a77aadc2d79a6a56f627d";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Y8L6XiTlpZ23efSPOMum5QMitRJS8U0Ro+/Xp16sTgY=";
+      sha256 = "sha256-0lWMRLs/J/18Hf30dmbjLn96SjyRKO4Utv//IaOgt10=";
     };
   };
   spicetify-cli = {
