@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KFjX0SUuOWgCGszDuyN3cwiO3UsAy6r+jt8kGy2MdS4=",
+            "sha256": "sha256-CILSW2O2olixnk1GOb+gVV+IWEGJfBWtaLLzY6qGoz4=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6466.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6467.tar.bz2"
         },
-        "version": "1.0.6466"
+        "version": "1.0.6467"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Fum9O2VqO7IJrucKL5sTRFnOEiYKLRN+imIMqN/SjMY=",
+            "sha256": "sha256-BuUJjPyYyXjIwk3vi1KI2rVQgHfVsmju3BAqmjWy2dk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6466-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6467-1_all.deb"
         },
-        "version": "1.0.6466"
+        "version": "1.0.6467"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -2003,7 +2003,7 @@
     "swhkd": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./swhkd-a2cdceedbaaa301433f153b2dd948a3c3fb049fc/Cargo.lock",
+                "./swhkd-33c05a05c4b83d1dc6b322c908e5675f655d4f6b/Cargo.lock",
                 {}
             ]
         },
@@ -2018,11 +2018,11 @@
             "name": null,
             "owner": "waycrate",
             "repo": "swhkd",
-            "rev": "a2cdceedbaaa301433f153b2dd948a3c3fb049fc",
-            "sha256": "sha256-KNu6NCPI0dsvjYAd4EZQfq2Wuz5Q0mOkrNmvWqV7mMY=",
+            "rev": "33c05a05c4b83d1dc6b322c908e5675f655d4f6b",
+            "sha256": "sha256-fFWlcGTyszh8Q73y9AapM/LXgIVzUeICkP8xqi1tEfg=",
             "type": "github"
         },
-        "version": "a2cdceedbaaa301433f153b2dd948a3c3fb049fc"
+        "version": "33c05a05c4b83d1dc6b322c908e5675f655d4f6b"
     },
     "tailscale": {
         "cargoLocks": null,
