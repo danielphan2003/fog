@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "ec9243cf3c824ce6f910ef5800c4af185f12721b";
+    version = "affe408d76548d0df523f6b197072fea33c3c041";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "ec9243cf3c824ce6f910ef5800c4af185f12721b";
+      rev = "affe408d76548d0df523f6b197072fea33c3c041";
       fetchSubmodules = false;
-      sha256 = "sha256-0eq9gYKn54E9tI1HoyNeztHk4v2v6d9fQomReMRSN+E=";
+      sha256 = "sha256-zQ6vkHCxt/IUFZEqYNO2PWle7YfqWBtI7GmGtzOSau4=";
     });
   };
   playit-agent = {
@@ -1227,13 +1227,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "03f7e4e57735fd598c8e119e031369bfa69cee87";
+    version = "9ae1161e853436a329f3c747761f1f5d2902761c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "03f7e4e57735fd598c8e119e031369bfa69cee87";
+      rev = "9ae1161e853436a329f3c747761f1f5d2902761c";
       fetchSubmodules = false;
-      sha256 = "sha256-o1yj6SFIL+aEMfxKZN1PlMNQk4diHx/DeQt4Wo6FB3c=";
+      sha256 = "sha256-zOnOfHSmhyrRnaBkUnGpaeQgw4ei2KcUsnkujaym+w0=";
     });
   };
   tailscale-systray = {
