@@ -59,7 +59,7 @@ function parseMeta() {
       # skip non-existent packages
       {
         echo "[$id_cleaned]"
-        echo "source = "vsmarketplace"
+        echo "source = \"vsmarketplace\""
         echo "vsmarketplace = \"$id\""
       } > "$nvchecker_file"
       nvchecker -c "$nvchecker_file"
