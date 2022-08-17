@@ -16,11 +16,11 @@
   };
   AdaCore-ada-debug = {
     pname = "AdaCore-ada-debug";
-    version = "23.0.8";
+    version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.8/file/AdaCore.ada-debug-23.0.8.vsix";
-      name = "ada-debug-23.0.8.zip";
-      sha256 = "sha256-5nVLvx2WOcUQc2V7orxIEvEDGeLXGs4ycw1gLDYGk0I=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      name = "ada-debug-23.0.9.zip";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -3344,11 +3344,11 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1307";
+    version = "31.0.1308";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1307/file/Prisma.prisma-insider-31.0.1307.vsix";
-      name = "prisma-insider-31.0.1307.zip";
-      sha256 = "sha256-k5lNK5tAhlftc8o0t2aAfy18xGa9NjFXRMp9jyBtH9s=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1308/file/Prisma.prisma-insider-31.0.1308.vsix";
+      name = "prisma-insider-31.0.1308.zip";
+      sha256 = "sha256-JbLQrdxt/KfToz8cCl4qmnbYBmWaqh4WSviHolmOzrw=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -20998,11 +20998,11 @@
   };
   stateful-issue-explorer = {
     pname = "stateful-issue-explorer";
-    version = "1.0.3";
+    version = "1.0.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/stateful/issue-explorer/1.0.3/file/stateful.issue-explorer-1.0.3.vsix";
-      name = "issue-explorer-1.0.3.zip";
-      sha256 = "sha256-s0z9PtGjKIPM3q1HMB7mwLkjfU5TwuY/dSw3rUr8tto=";
+      url = "https://open-vsx.org/api/stateful/issue-explorer/1.0.4/file/stateful.issue-explorer-1.0.4.vsix";
+      name = "issue-explorer-1.0.4.zip";
+      sha256 = "sha256-OCsUVS1u3TDocGW8ajY0SjrLcFAF9tZKt1ZP9urC66Y=";
     };
     license = "MIT";
     name = "issue-explorer";
@@ -25873,11 +25873,11 @@
   };
   zokugun-sync-settings = {
     pname = "zokugun-sync-settings";
-    version = "0.12.0";
+    version = "0.12.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zokugun/sync-settings/0.12.0/file/zokugun.sync-settings-0.12.0.vsix";
-      name = "sync-settings-0.12.0.zip";
-      sha256 = "sha256-/pmB7OZePKYiExBRkvjzp23nIUdEP0QEcQM02DpY4DA=";
+      url = "https://open-vsx.org/api/zokugun/sync-settings/0.12.1/file/zokugun.sync-settings-0.12.1.vsix";
+      name = "sync-settings-0.12.1.zip";
+      sha256 = "sha256-HpT7LkzrEb+1h6DEiHJE9Tjh4HaqZGaOYDh9OFjKrog=";
     };
     license = "MIT";
     name = "sync-settings";
