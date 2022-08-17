@@ -64,15 +64,15 @@ function parseMeta() {
       trace "vsmarketplace[$count]" "$(fg_blue "$id") is a new extension. Adding to $package_meta_basename..."
 
       # License is a URL, instead of an identifier
-      license="https://marketplace.visualstudio.com/items/$namespace.$name/license"
+      license="https://marketplace.visualstudio.com/items/$id/license"
 
       description="${description//'$'/"'$'"}"
 
       function meta() {
         echo
         echo "[$id_cleaned]"
-        echo "src.vsmarketplace = \"$namespace.$name\""
-        echo "fetch.vsmarketplace = \"$namespace.$name\""
+        echo "src.vsmarketplace = \"$id\""
+        echo "fetch.vsmarketplace = \"$id\""
         echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = \"$license\" }"
       }
 

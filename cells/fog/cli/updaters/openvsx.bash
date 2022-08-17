@@ -39,7 +39,7 @@ function parseMeta() {
 
     trace "open-vsx[$count]" "$(fg_blue "$id") is a new extension. Adding to $package_meta_basename..."
 
-    meta_file="$FOG_CACHE/openvsx-$namespace.$name.json"
+    meta_file="$FOG_CACHE/openvsx-$id_cleaned.json"
 
     if [ ! -s "$meta_file" ]; then
       curl -s "https://open-vsx.org/api/$namespace/$name" --output "$meta_file"
@@ -52,8 +52,8 @@ function parseMeta() {
     function meta() {
       echo
       echo "[$id_cleaned]"
-      echo "src.openvsx = \"$namespace.$name\""
-      echo "fetch.openvsx = \"$namespace.$name\""
+      echo "src.openvsx = \"$id\""
+      echo "fetch.openvsx = \"$id\""
       echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = $license }"
     }
 

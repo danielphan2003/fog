@@ -16,6 +16,8 @@ git config --global user.email "41898282+github-actions[bot]@users.noreply.githu
 git config --global user.name github-actions
 
 nvfetcher \
-  -o "$sourceDir" \
+  --verbose \
+  --retry 5 \
+  --build-dir "$sourceDir" \
   "${args[@]}" \
-  -c "$file"
+  --config "$file"
