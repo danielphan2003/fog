@@ -54,6 +54,13 @@ function parseMeta() {
       id_cleaned="$namespace_cleaned-$name"
       id="$namespace.$name"
 
+      # skip non-existent packages
+      statusCode="$(curl -sI "https://marketplace.visualstudio.com/items?itemName=$id" | head -n 1 | cut -d$' ' -f2)"
+      if [ "$statusCode" -eq 404 ]; then
+        warn "vsmarketplace[$count]" "Cannot find $(bold "$id") on vsmarketplace!"
+        continue
+      fi
+
       # skip added packages
       rg --quiet "$id_cleaned" "$package_meta_file"
       if [ "$?" -eq 0 ]; then
