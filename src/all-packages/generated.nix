@@ -85,13 +85,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "6e53e841f78c512f4d1eedb6a2409df746eea979";
+    version = "0dba33688fe468aca9b58c60910201afb3b89f60";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "6e53e841f78c512f4d1eedb6a2409df746eea979";
+      rev = "0dba33688fe468aca9b58c60910201afb3b89f60";
       fetchSubmodules = false;
-      sha256 = "sha256-iONF1YbWlW99k71lIUA/hw5+Rv1kf5M3mCItW6JmjbI=";
+      sha256 = "sha256-MhlZav86gz8bH1aEWyNFNLnc6T7MBU1d3dGHtG2lEnA=";
     });
   };
   asusctl = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6470";
+    version = "1.0.6471";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6470.tar.bz2";
-      sha256 = "sha256-tW+PKmRHteR73Z4DAcbZTsRuNGcSZpKQz8gGnxqBD1k=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6471.tar.bz2";
+      sha256 = "sha256-unWHukq7V12Tb/3JEz1Eo72A8lLtt3HoLoi7Swd6byA=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6470";
+    version = "1.0.6471";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6470-1_all.deb";
-      sha256 = "sha256-bpAt1dbgpVWmV2f8nLDsY544FJ/YEcECORlNIVgPUQI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6471-1_all.deb";
+      sha256 = "sha256-8FDi1kVmO+8K3RxW1kq1m4X32AplXLz+B092exZgjA0=";
     };
   };
   jitsi-videobridge2 = {
@@ -1331,13 +1331,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "1eba5463d904e3e87cc237627d96727a90960624";
+    version = "45ef65001760f3f89849b799ac2d8b62958e5d43";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "1eba5463d904e3e87cc237627d96727a90960624";
+      rev = "45ef65001760f3f89849b799ac2d8b62958e5d43";
       fetchSubmodules = false;
-      sha256 = "sha256-6osDGYyFuyPDeK1QFowh414j3laD8i4bqPgCeJmsszE=";
+      sha256 = "sha256-upwh3UguT4XNDSfIMRUhJ8TSvrBBukAWCgbqHvTWCZ8=";
     });
   };
   wgcf = {
