@@ -17,9 +17,9 @@ function parseMeta() {
   fi
 
   jq -M -r '
-    .extensions[] | .namespace, .name, (.description // "" | tojson)
+    .extensions[] | .namespace, .name, .version, .files.download, (.description // "" | tojson)
   ' "$meta_file" | \
-  while read -r namespace; read -r name; read -r description; do
+  while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
     count="$(( count + 1 ))"
 
     namespace_cleaned="$namespace"
@@ -56,8 +56,8 @@ function parseMeta() {
     function meta() {
       echo
       echo "[$id_cleaned]"
-      echo "src.manual = \"$id\" # $id"
-      echo "fetch.url = \"$id\" # $id"
+      echo "src.manual = \"$version\" # $id"
+      echo "fetch.url = \"$downloadUrl\" # $id"
       echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = $license }"
     }
 
