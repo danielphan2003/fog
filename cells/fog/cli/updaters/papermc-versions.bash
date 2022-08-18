@@ -1,6 +1,6 @@
 pname="papermc"
 package_meta_file="$PKGS_PATH/${1:-"games/$pname"}.toml"
-export pname
+package_meta_dirname="$(dirname $package_meta_file)"
 
 function parseMeta() {
   echo "## $pname" > "$package_meta_file"
@@ -11,13 +11,16 @@ function parseMeta() {
     curl -s "https://$pname.io/api/v2/projects/paper" --output "$meta_file"
   fi
 
+  mkdir -p "$package_meta_dirname"
+  touch "$package_meta_file"
+
   for version in $(jq -r '.versions[]' $meta_file); do
     if [[ "$(fog papermc-updater $version)" -eq "null" ]]; then
       traceMsg "papermc $(fg_blue $version) is null when using `fog papermc-updater`"
       continue
     fi
 
-    traceMsg "updating papermc $(fg_blue $version)..."
+    traceMsg "adding papermc $(fg_blue $version)..."
 
     function meta() {
       echo
