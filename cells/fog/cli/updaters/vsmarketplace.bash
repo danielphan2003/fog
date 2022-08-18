@@ -55,24 +55,19 @@ function parseMeta() {
       id_cleaned="$namespace_cleaned-$name"
       id="$namespace.$name"
 
-      pushd "$FOG_CACHE"
-      # skip non-existent packages
-      {
-        echo "[$id_cleaned]"
-        echo "source = \"vsmarketplace\""
-        echo "vsmarketplace = \"$id\""
-      } > "$nvchecker_file"
-      nvchecker -c "$nvchecker_file"
-      if [ ! "$?" -eq 0 ]; then
+      if [ "$downloadUrl" = "" ] || [ "$downloadUrl" = "null" ]; then
         warn "vsmarketplace[$count]" "Cannot find $(bold "$id") on vsmarketplace!"
         continue
       fi
-      popd
 
-      # skip added packages
+      # patch added packages
       rg --quiet "$id_cleaned" "$package_meta_file"
       if [ "$?" -eq 0 ]; then
-        trace "vsmarketplace[$count]" "$(fg_blue "$id") is already in $package_meta_basename. Skipping..."
+        trace "vsmarketplace[$count]" "$(fg_blue "$id") is already in $package_meta_basename. Patching version instead..."
+        sed -i \
+          -e 's,src.manual = ".*" # '$id',src.manual = "'$version'" # '$id',g' \
+          -e 's,fetch.url = ".*" # '$id',fetch.url = "'$downloadUrl'" # '$id',g' \
+          "$package_meta_file"
         continue
       fi
 
@@ -86,8 +81,8 @@ function parseMeta() {
       function meta() {
         echo
         echo "[$id_cleaned]"
-        echo "src.vsmarketplace = \"$id\""
-        echo "fetch.vsmarketplace = \"$id\""
+        echo "src.manual = \"$version\" # $id"
+        echo "fetch.url = \"$downloadUrl\" # $id"
         echo "passthru = { publisher = \"$namespace\", name = \"$name\", description = $description, license = \"$license\" }"
       }
 
