@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "39eeeff7cf961dc32a9eec72d775a5632e3d73e3";
+    version = "d814edd0d5c6f846853bf44e2c4c47506e0c3436";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "39eeeff7cf961dc32a9eec72d775a5632e3d73e3";
+      rev = "d814edd0d5c6f846853bf44e2c4c47506e0c3436";
       fetchSubmodules = false;
-      sha256 = "sha256-kAUTneNRb1OdKr30jnS5fzq6zZszwiI4D+XnEy3Nb+Y=";
+      sha256 = "sha256-E0YR7x75aeufZeWBwzW6PNBLUgfDV83ffv8zcUr4GSI=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-39eeeff7cf961dc32a9eec72d775a5632e3d73e3/Cargo.lock;
+      lockFile = ./eww-d814edd0d5c6f846853bf44e2c4c47506e0c3436/Cargo.lock;
       outputHashes = {
         
       };
@@ -1331,13 +1331,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "45ef65001760f3f89849b799ac2d8b62958e5d43";
+    version = "13bac362006b7e8d0f2985bd6e161f72889bb4a7";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "45ef65001760f3f89849b799ac2d8b62958e5d43";
+      rev = "13bac362006b7e8d0f2985bd6e161f72889bb4a7";
       fetchSubmodules = false;
-      sha256 = "sha256-upwh3UguT4XNDSfIMRUhJ8TSvrBBukAWCgbqHvTWCZ8=";
+      sha256 = "sha256-wHWYmNBXLXH7sl3JtT+2sq40X1fOnwi3CvfAXlSvWWw=";
     });
   };
   wgcf = {
