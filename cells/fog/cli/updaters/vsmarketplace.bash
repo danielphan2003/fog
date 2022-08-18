@@ -65,8 +65,8 @@ function parseMeta() {
       if [ "$?" -eq 0 ]; then
         trace "vsmarketplace[$count]" "$(fg_blue "$id") is already in $package_meta_basename. Patching version instead..."
         sed -i \
-          -e 's,src.manual = ".*" # '$id',src.manual = '$version' # '$id',g' \
-          -e 's,fetch.url = ".*" # '$id',fetch.url = '$downloadUrl' # '$id',g' \
+          -e 's,src.manual = ".*" # '$id',src.manual = "'$version'" # '$id',g' \
+          -e 's,fetch.url = ".*" # '$id',fetch.url = "'$downloadUrl'" # '$id',g' \
           "$package_meta_file"
         continue
       fi
