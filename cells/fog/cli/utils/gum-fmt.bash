@@ -1,3 +1,5 @@
+pname="${1:-"$(basename $0)"}"
+
 function fg_blue() {
   echo -n '{{ Foreground "#4688c4" "'"$@"'" }}'
 }
@@ -26,10 +28,22 @@ function error() {
   debug_type "$(fg_red "error")" "$1" "${@: 2}"
 }
 
+function errorMsg() {
+  error "$pname" "$@"
+}
+
 function trace() {
   debug_type "$(fg_blue "trace")" "$1" "${@: 2}"
 }
 
+function traceMsg() {
+  trace "$pname" "$@"
+}
+
 function warn() {
   debug_type "$(fg_yellow "warn")" "$1" "${@: 2}"
+}
+
+function warnMsg() {
+  warn "$pname" "$@"
 }

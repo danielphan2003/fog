@@ -1,14 +1,15 @@
-pname="VS Code extensions - Visual Studio Marketplace"
-package_meta_file="$PKGS_PATH/${1:-"misc/vscode-extensions/vsmarketplace"}.toml"
+pname="vsmarketplace"
+desc="VS Code extensions - Visual Studio Marketplace"
+package_meta_file="${1:-"$PKGS_PATH/misc/vscode-extensions/$pname"}.toml"
 package_meta_basename="$(basename $package_meta_file)"
 package_meta_dirname="$(dirname $package_meta_file)"
 count=0
 
 function parseMeta() {
-  meta_file="$FOG_CACHE/vsmarketplace.json"
-  query_template_file="$CELL_PATH/cli/updaters/vsmarketplace/extension-query.json"
-  query_file="$FOG_CACHE/vsmarketplace-extension-query.json"
-  nvchecker_file="$FOG_CACHE/vsmarketplace-nvchecker.toml"
+  meta_file="$FOG_CACHE/$pname.json"
+  query_template_file="$CELL_PATH/cli/updaters/$pname/extension-query.json"
+  query_file="$FOG_CACHE/$pname-extension-query.json"
+  nvchecker_file="$FOG_CACHE/$pname-nvchecker.toml"
 
   function reqUrl() {
     echo "https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery"
@@ -42,6 +43,7 @@ function parseMeta() {
   fi
 
   mkdir -p "$package_meta_dirname"
+  touch "$package_meta_file"
 
   for pageNumber in $(seq 1 $pageNumbers); do
     jq -M -r '
@@ -59,14 +61,14 @@ function parseMeta() {
       id="$namespace.$name"
 
       if [ "$downloadUrl" = "" ] || [ "$downloadUrl" = "null" ]; then
-        warn "vsmarketplace[$count]" "Cannot find $(bold "$id") on vsmarketplace!"
+        warn "$pname[$count]" "Cannot find $(bold "$id") on $pname!"
         continue
       fi
 
       # patch added packages
       rg --quiet "$id_cleaned" "$package_meta_file"
       if [ "$?" -eq 0 ]; then
-        trace "vsmarketplace[$count]" "$(fg_blue "$id") is already in $package_meta_basename. Patching version instead..."
+        trace "$pname[$count]" "$(fg_blue "$id") is already in $package_meta_basename. Patching version instead..."
         sed -i \
           -e 's,src.manual = ".*" # '$id',src.manual = "'$version'" # '$id',g' \
           -e 's,fetch.url = ".*" # '$id',fetch.url = "'$downloadUrl'" # '$id',g' \
@@ -74,7 +76,7 @@ function parseMeta() {
         continue
       fi
 
-      trace "vsmarketplace[$count]" "$(fg_blue "$id") is a new extension. Adding to $package_meta_basename..."
+      trace "$pname[$count]" "$(fg_blue "$id") is a new extension. Adding to $package_meta_basename..."
 
       # License is a URL, instead of an identifier
       license="https://marketplace.visualstudio.com/items/$id/license"
@@ -90,8 +92,8 @@ function parseMeta() {
       }
 
       meta >> "$package_meta_file" \
-        && trace "vsmarketplace[$count]" "added $(fg_blue "$id") to $package_meta_basename." \
-        || error "vsmarketplace[$count]" "failed to add $(bold "$id"). In: $meta"
+        && trace "$pname[$count]" "added $(fg_blue "$id") to $package_meta_basename." \
+        || error "$pname[$count]" "failed to add $(bold "$id"). In: $meta"
     done
 
     getPage "$pageNumber"
@@ -101,7 +103,7 @@ function parseMeta() {
 }
 
 parseMeta \
-  && trace "vsmarketplace" "generated all vsmarketplace extensions! Processed $count extensions." \
-  || error "vsmarketplace" "some errors has been thrown. See logs above."
+  && traceMsg "generated $count extensions." \
+  || errorMsg "some errors has been thrown. See logs above."
 
 git add "$package_meta_file"

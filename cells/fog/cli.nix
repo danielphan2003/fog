@@ -9,44 +9,29 @@
     packages ? [],
     path,
     name,
+    preCommand ? "",
+    postCommand ? "",
     ...
   } @ args:
-    nixpkgs.writeShellScript name ''
-      export PATH="$PATH:${l.makeBinPath (packages ++ ["$DEVSHELL_DIR"])}"
+    nixpkgs.writeShellScriptBin name ''
+      export PATH="$PATH:${l.makeBinPath ["$DEVSHELL_DIR"]}"
+
+      ${preCommand}
+
+      export PATH="$PATH:${l.makeBinPath (["$DEVSHELL_DIR"] ++ packages)}"
+      export FOG_CACHE="/tmp/fog"
+
+      mkdir -p "$FOG_CACHE"
+
       source ${path}
+
+      ${postCommand}
     '';
 
-  writeBashWithGumPaths = {
-    packages ? [],
-    path,
-    name,
-    ...
-  } @ args:
-    nixpkgs.writeShellScript name ''
-      export PATH="$PATH:${l.makeBinPath (packages ++ ["$DEVSHELL_DIR" nixpkgs.gum])}"
-      source "$CELL_PATH/cli/utils/gum-fmt.bash"
-      source ${path}
-    '';
-
-  writeBashWithFogPaths = {
-    packages ? [],
-    path,
-    name,
-    ...
-  } @ args:
-    nixpkgs.writeShellScript name ''
-      export PATH="$PATH:${l.makeBinPath (packages ++ ["$DEVSHELL_DIR"])}"
-      fog makeFogCache
-      FOG_CACHE=''${FOG_CACHE:-/tmp/fog}
-      mkdir -p $FOG_CACHE
-      export FOG_CACHE
-      source ${path}
-    '';
-
-  getBashFiles = folder: let
-    toImport = name: type: l.nameValuePair "${l.removeSuffix ".bash" name}-updater" (folder + ("/" + name));
-    filterPatches = path: type: type == "regular" && l.hasSuffix ".bash" path;
-    bashFiles = l.mapAttrs' toImport (l.filterAttrs filterPatches (l.readDir folder));
+  getBashFiles = src: let
+    toImport = name: type: l.nameValuePair (l.removeSuffix ".bash" name) (src + ("/" + name));
+    filterBashFiles = path: type: type == "regular" && l.hasSuffix ".bash" path;
+    bashFiles = l.mapAttrs' toImport (l.filterAttrs filterBashFiles (l.readDir src));
   in
     bashFiles;
 
@@ -63,12 +48,12 @@
     l.removeAttrs v ["path" "enable" "synopsis" "help" "description"]
     // {
       text = let
-        default = v.writer v;
+        cmd = v.writer v;
       in ''
-        # ${k} subcommand
-        "${k}")
+        # ${v.name} subcommand
+        "${v.name}")
           shift 1;
-          mkcmd "${v.synopsis}" "${v.help}" "${v.description}" "${default}" "$@"
+          mkcmd "${v.synopsis}" "${v.help}" "${v.description}" ${v.type} "${cmd}/bin/${cmd.name}" "$@"
           ;;
       '';
     });
@@ -82,9 +67,11 @@
         enable ? true,
         name ? name',
         deps ? [],
+        writer ? writeBashWithPaths,
+        type ? "exec",
         ...
       } @ cmd:
-        cmd // {inherit packages help synopsis description enable name deps;})
+        cmd // {inherit packages help synopsis description enable name deps writer type;})
     cmds;
   in
     nixpkgs.writeShellScriptBin name ''
@@ -111,8 +98,9 @@
         synopsis=$1
         help=$2
         description=$3
-        default=$4
-        shift 4;
+        type=$4
+        cmd=$5
+        shift 5;
         case "$1" in
           "-h"|"help"|"--help")
             printf "%b\n" \
@@ -122,7 +110,7 @@
             ;;
           *)
             CELL_PATH="$PRJ_ROOT/cells/fog"
-            PRJ_ROOT="$PRJ_ROOT" FOG_CACHE="$FOG_CACHE" SRC_PATH="$PRJ_ROOT/src" CELL_PATH="$CELL_PATH" PKGS_PATH="$CELL_PATH/pkgs" exec $default "$@"
+            PRJ_ROOT="$PRJ_ROOT" SRC_PATH="$PRJ_ROOT/src" CELL_PATH="$CELL_PATH" PKGS_PATH="$CELL_PATH/pkgs" $type "$cmd" "$@"
             ;;
         esac
       }
@@ -147,23 +135,24 @@
     '';
 in {
   default = mkCli "fog" ({
-      makeFogCache = {
-        packages = [nixpkgs.coreutils];
-        help = "Create fog cache directory to avoid excessive API requests";
-        path = ./cli/utils/make-fog-cache.bash;
-        writer = writeBashWithPaths;
+      gum-fmt = {
+        packages = [nixpkgs.gum];
+        help = "Helpers to format template strings with gum.";
+        path = ./cli/utils/gum-fmt.bash;
+        type = "source";
       };
       nvfetcher-cleanup = {
         packages = [nixpkgs.coreutils nixpkgs.fd];
-        help = "Clean up nvfetcher on github action";
+        help = "Clean up nvfetcher on github action.";
         path = ./cli/utils/nvfetcher-cleanup.bash;
-        writer = writeBashWithPaths;
+        preCommand = ''
+          source fog gum-fmt "$(basename $0)"
+        '';
       };
       patchSources = {
         packages = [nixpkgs.coreutils nixpkgs.sd];
         help = "Replace source template with up-to-date one.";
         path = ./cli/utils/patch-sources.bash;
-        writer = writeBashWithPaths;
       };
       updateSources = {
         packages = [
@@ -175,22 +164,28 @@ in {
           nixpkgs.xz
           nixpkgs.git
           nixpkgs.bash
-          nixpkgs.gnupg
           nixpkgs.nix
         ];
-        help = "Update source";
+        help = "Update source.";
         path = ./cli/utils/update-sources.bash;
-        writer = writeBashWithFogPaths;
       };
     }
     // (l.mapAttrs
       (name: path: {
-        inherit name path;
-        writer = args: writeBashWithFogPaths (args // {
-          path = writeBashWithGumPaths args;
-        });
-        help = "Script to update ${l.removeSuffix "-updater" name}";
-        packages = [nixpkgs.coreutils nixpkgs.curl nixpkgs.jq nixpkgs.ripgrep nixpkgs.nvchecker nixpkgs.gnused];
+        name = (if name == "open-vsx" then "openvsx" else name) + "-updater";
+        packages = [
+          nixpkgs.coreutils
+          nixpkgs.curl
+          nixpkgs.jq
+          nixpkgs.ripgrep
+          nixpkgs.gnused
+          nixpkgs.git
+        ];
+        help = "Script to update ${name} packages.";
+        preCommand = ''
+          source fog gum-fmt ${name}
+        '';
+        inherit path;
       })
       updaters));
 }

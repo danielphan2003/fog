@@ -13,11 +13,11 @@ function parseMeta() {
 
   for version in $(jq -r '.versions[]' $meta_file); do
     if [[ "$(fog papermc-updater $version)" -eq "null" ]]; then
-      trace "papermc" "papermc $(fg_blue $version) is null when using `fog papermc-updater`"
+      traceMsg "papermc $(fg_blue $version) is null when using `fog papermc-updater`"
       continue
     fi
 
-    trace "papermc" "updating papermc $(fg_blue $version)..."
+    traceMsg "updating papermc $(fg_blue $version)..."
 
     function meta() {
       echo
@@ -28,8 +28,8 @@ function parseMeta() {
     }
 
     meta >> "$package_meta_file" \
-      && trace "papermc" "updated papermc $(fg_blue $version)." \
-      || error "papermc" "failed to update papermc $(fg_blue $version)."
+      && traceMsg "updated papermc $(fg_blue $version)." \
+      || errorMsg "failed to update papermc $(fg_blue $version)."
   done
 
   {
@@ -39,5 +39,5 @@ function parseMeta() {
 }
 
 parseMeta \
-  && trace "papermc" "generated all papermc versions!" \
-  || error "papermc" "some errors has been thrown. See logs above."
+  && traceMsg "generated all papermc versions!" \
+  || errorMsg "some errors has been thrown. See logs above."

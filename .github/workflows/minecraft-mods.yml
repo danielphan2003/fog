@@ -41,7 +41,7 @@ jobs:
     - name: Create fog cache
       run: nix develop --show-trace --print-build-logs --command fog makeFogCache
 
-    - name: Clean up old Cargo.lock and extracts
+    - name: Clean up old nvfetcher extracts
       run: nix develop --show-trace --print-build-logs --command fog nvfetcher-cleanup minecraft-mods
 
     - name: Update all minecraft-mods extensions
