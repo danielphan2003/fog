@@ -47,7 +47,7 @@ function parseMeta() {
 
   for pageNumber in $(seq 1 $pageNumbers); do
     jq -M -r '
-      .results[0].extensions[] | .publisher.publisherName, .extensionName, (.versions[0].version | tojson), (.versions[0].files[0].source | tojson), (.shortDescription // "" | tojson)
+      .results[0].extensions[] | .publisher.publisherName, .extensionName, .versions[0].version, .versions[0].files[0].source, (.shortDescription // "" | tojson)
     ' "$meta_file" | \
     while read -r namespace; read -r name; read -r version; read -r downloadUrl; read -r description; do
       count="$(( count + 1 ))"
