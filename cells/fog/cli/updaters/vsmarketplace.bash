@@ -1,6 +1,7 @@
 pname="VS Code extensions - Visual Studio Marketplace"
 package_meta_file="$PKGS_PATH/${1:-"misc/vscode-extensions/vsmarketplace"}.toml"
 package_meta_basename="$(basename $package_meta_file)"
+package_meta_dirname="$(dirname $package_meta_file)"
 count=0
 
 function parseMeta() {
@@ -39,6 +40,8 @@ function parseMeta() {
   if [ "$(( totalSize % 1000 ))" -gt 0 ]; then
     totalSize="$(( totalSize + 1 ))"
   fi
+
+  mkdir -p "$package_meta_dirname"
 
   for pageNumber in $(seq 1 $pageNumbers); do
     jq -M -r '
@@ -93,8 +96,12 @@ function parseMeta() {
 
     getPage "$pageNumber"
   done
+
+  echo >> "$package_meta_file"
 }
 
 parseMeta \
   && trace "vsmarketplace" "generated all vsmarketplace extensions! Processed $count extensions." \
   || error "vsmarketplace" "some errors has been thrown. See logs above."
+
+git add "$package_meta_file"

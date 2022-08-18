@@ -1,6 +1,7 @@
 pname="VS Code extensions - OpenVSX"
 package_meta_file="$PKGS_PATH/${1:-"misc/vscode-extensions/open-vsx"}.toml"
 package_meta_basename="$(basename $package_meta_file)"
+package_meta_dirname="$(dirname $package_meta_file)"
 count=0
 
 function parseMeta() {
@@ -15,6 +16,8 @@ function parseMeta() {
   if [ ! -s "$meta_file" ]; then
     curl -s "$(reqUrl $totalSize)" --output "$meta_file"
   fi
+
+  mkdir -p "$package_meta_dirname"
 
   jq -M -r '
     .extensions[] | .namespace, .name, .version, .files.download, (.description // "" | tojson)
@@ -65,8 +68,12 @@ function parseMeta() {
       && trace "open-vsx[$count]" "added $(fg_blue "$id") to $package_meta_basename." \
       || error "open-vsx[$count]" "failed to add $(bold "$id"). In: $meta"
   done
+
+  echo >> "$package_meta_file"
 }
 
 parseMeta \
   && trace "open-vsx" "generated all open-vsx extensions! Processed $count extensions." \
   || error "open-vsx" "some errors has been thrown. See logs above."
+
+git add "$package_meta_file"
