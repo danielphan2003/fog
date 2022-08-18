@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7830,8 +7830,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/kha/22.8.0/file/kodetech.kha-22.8
 passthru = { publisher = "kodetech", name = "kha-extension-pack", description = "Everything you need for Kha development", license = "" }
 
 [a5hk-ice]
-src.manual = "0.7.3" # a5hk.ice
-fetch.url = "https://open-vsx.org/api/a5hk/ice/0.7.3/file/a5hk.ice-0.7.3.vsix" # a5hk.ice
+src.manual = "1.0.0" # a5hk.ice
+fetch.url = "https://open-vsx.org/api/a5hk/ice/1.0.0/file/a5hk.ice-1.0.0.vsix" # a5hk.ice
 passthru = { publisher = "a5hk", name = "ice", description = "Cold as Ice", license = "MIT" }
 
 [JulianGmp-openscad-formatter]
@@ -7840,8 +7840,8 @@ fetch.url = "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.2.1/file/Ju
 passthru = { publisher = "JulianGmp", name = "openscad-formatter", description = "Simple formatter for OpenSCAD files using clang-format.", license = "MIT" }
 
 [a5hk-night-coder]
-src.manual = "4.2.2" # a5hk.night-coder
-fetch.url = "https://open-vsx.org/api/a5hk/night-coder/4.2.2/file/a5hk.night-coder-4.2.2.vsix" # a5hk.night-coder
+src.manual = "4.3.1" # a5hk.night-coder
+fetch.url = "https://open-vsx.org/api/a5hk/night-coder/4.3.1/file/a5hk.night-coder-4.3.1.vsix" # a5hk.night-coder
 passthru = { publisher = "a5hk", name = "night-coder", description = "A dark theme for Night Coders", license = "MIT" }
 
 [wtho-vscode-commit-pro-extension]
@@ -7910,8 +7910,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-german", description = "German dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [a5hk-paper]
-src.manual = "0.7.0" # a5hk.paper
-fetch.url = "https://open-vsx.org/api/a5hk/paper/0.7.0/file/a5hk.paper-0.7.0.vsix" # a5hk.paper
+src.manual = "1.0.0" # a5hk.paper
+fetch.url = "https://open-vsx.org/api/a5hk/paper/1.0.0/file/a5hk.paper-1.0.0.vsix" # a5hk.paper
 passthru = { publisher = "a5hk", name = "paper", description = "Light theme with good contrast", license = "MIT" }
 
 [emroussel-atomize-atom-one-dark-theme]
@@ -9085,8 +9085,8 @@ fetch.url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor
 passthru = { publisher = "IBM", name = "zopeneditor", description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.", license = "" }
 
 [CodeStream-codestream]
-src.manual = "13.4.0" # CodeStream.codestream
-fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.4.0/file/CodeStream.codestream-13.4.0.vsix" # CodeStream.codestream
+src.manual = "13.5.0" # CodeStream.codestream
+fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.5.0/file/CodeStream.codestream-13.5.0.vsix" # CodeStream.codestream
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
@@ -9665,8 +9665,8 @@ fetch.url = "https://open-vsx.org/api/devfactory/multispace/0.0.80/file/devfacto
 passthru = { publisher = "devfactory", name = "multispace", description = "Take Devspaces to the next level with Multispace that allows multiple services each running in a different Devspace to act as a single dev environment", license = "MIT" }
 
 [mutable-ai-mutable-ai]
-src.manual = "1.1.15" # mutable-ai.mutable-ai
-fetch.url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.15/file/mutable-ai.mutable-ai-1.1.15.vsix" # mutable-ai.mutable-ai
+src.manual = "1.1.16" # mutable-ai.mutable-ai
+fetch.url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.16/file/mutable-ai.mutable-ai-1.1.16.vsix" # mutable-ai.mutable-ai
 passthru = { publisher = "mutable-ai", name = "mutable-ai", description = "AI Accelerated Programming", license = "" }
 
 [stateful-issue-explorer]
@@ -9691,7 +9691,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9978,5 +9978,6 @@ passthru = { publisher = "redhat", name = "java", description = "Java Linting, I
 src.manual = "1.9.1" # redhat.vscode-yaml
 fetch.url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix" # redhat.vscode-yaml
 passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support", license = "MIT" }
+
 
 

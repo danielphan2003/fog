@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
+            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -943,11 +943,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-S0lNHhkYiidTbZheZBCoYomutUb/gk+NNrlzYN2xZe0=",
+            "sha256": "sha256-Z/J8ZuNHh4pI/A7F0/hvmp83c5puuiEmr63jBUnucf4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CodeStream/codestream/13.4.0/file/CodeStream.codestream-13.4.0.vsix"
+            "url": "https://open-vsx.org/api/CodeStream/codestream/13.5.0/file/CodeStream.codestream-13.5.0.vsix"
         },
-        "version": "13.4.0"
+        "version": "13.5.0"
     },
     "CoenraadS-bracket-pair-colorizer-2": {
         "cargoLocks": null,
@@ -6947,11 +6947,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xmCEHu3mfs4rxzprwCN5txRgeA8NZON6Zfz3LjbLzFU=",
+            "sha256": "sha256-y+HAVfhldkNDcz/5WAK5g3F5wTSOg3gMYJqg3PvOZa0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/a5hk/ice/0.7.3/file/a5hk.ice-0.7.3.vsix"
+            "url": "https://open-vsx.org/api/a5hk/ice/1.0.0/file/a5hk.ice-1.0.0.vsix"
         },
-        "version": "0.7.3"
+        "version": "1.0.0"
     },
     "a5hk-night-coder": {
         "cargoLocks": null,
@@ -6966,11 +6966,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RCs8JQ0AgRyKyvqOMcUGsWNiflyVgAasXm7JQwi7M1A=",
+            "sha256": "sha256-Et0ksDuNySEZYkajHKt3d3zM/nzhC01zn2XYsElkMIw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/a5hk/night-coder/4.2.2/file/a5hk.night-coder-4.2.2.vsix"
+            "url": "https://open-vsx.org/api/a5hk/night-coder/4.3.1/file/a5hk.night-coder-4.3.1.vsix"
         },
-        "version": "4.2.2"
+        "version": "4.3.1"
     },
     "a5hk-paper": {
         "cargoLocks": null,
@@ -6985,11 +6985,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tZ2raVqn519f4ZBd586PgrcD4UOPOsYjl9AEDBpU+Jo=",
+            "sha256": "sha256-XBUENG5F9AuayCKJdxvQo3Y5/FoK14GC1hrN1WIVsw8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/a5hk/paper/0.7.0/file/a5hk.paper-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/a5hk/paper/1.0.0/file/a5hk.paper-1.0.0.vsix"
         },
-        "version": "0.7.0"
+        "version": "1.0.0"
     },
     "a5hk-tabulate": {
         "cargoLocks": null,
@@ -16200,9 +16200,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -24408,11 +24408,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G1aVhPbZwY6hf5v+s3nj9MwAoQkyhITsk6P/qyA+/go=",
+            "sha256": "sha256-Phr8apC4EipM4jFI1UL10B8gvfTUzIMCvtFa6/dYSYI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.15/file/mutable-ai.mutable-ai-1.1.15.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.16/file/mutable-ai.mutable-ai-1.1.16.vsix"
         },
-        "version": "1.1.15"
+        "version": "1.1.16"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -30773,9 +30773,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },

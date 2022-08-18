@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
-      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
+      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -591,10 +591,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "13.4.0";
+    version = "13.5.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/13.4.0/file/CodeStream.codestream-13.4.0.vsix";
-      sha256 = "sha256-S0lNHhkYiidTbZheZBCoYomutUb/gk+NNrlzYN2xZe0=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/13.5.0/file/CodeStream.codestream-13.5.0.vsix";
+      sha256 = "sha256-Z/J8ZuNHh4pI/A7F0/hvmp83c5puuiEmr63jBUnucf4=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -4383,10 +4383,10 @@
   };
   a5hk-ice = {
     pname = "a5hk-ice";
-    version = "0.7.3";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/ice/0.7.3/file/a5hk.ice-0.7.3.vsix";
-      sha256 = "sha256-xmCEHu3mfs4rxzprwCN5txRgeA8NZON6Zfz3LjbLzFU=";
+      url = "https://open-vsx.org/api/a5hk/ice/1.0.0/file/a5hk.ice-1.0.0.vsix";
+      sha256 = "sha256-y+HAVfhldkNDcz/5WAK5g3F5wTSOg3gMYJqg3PvOZa0=";
     };
     license = "MIT";
     name = "ice";
@@ -4395,10 +4395,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "4.2.2";
+    version = "4.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/4.2.2/file/a5hk.night-coder-4.2.2.vsix";
-      sha256 = "sha256-RCs8JQ0AgRyKyvqOMcUGsWNiflyVgAasXm7JQwi7M1A=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/4.3.1/file/a5hk.night-coder-4.3.1.vsix";
+      sha256 = "sha256-Et0ksDuNySEZYkajHKt3d3zM/nzhC01zn2XYsElkMIw=";
     };
     license = "MIT";
     name = "night-coder";
@@ -4407,10 +4407,10 @@
   };
   a5hk-paper = {
     pname = "a5hk-paper";
-    version = "0.7.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/paper/0.7.0/file/a5hk.paper-0.7.0.vsix";
-      sha256 = "sha256-tZ2raVqn519f4ZBd586PgrcD4UOPOsYjl9AEDBpU+Jo=";
+      url = "https://open-vsx.org/api/a5hk/paper/1.0.0/file/a5hk.paper-1.0.0.vsix";
+      sha256 = "sha256-XBUENG5F9AuayCKJdxvQo3Y5/FoK14GC1hrN1WIVsw8=";
     };
     license = "MIT";
     name = "paper";
@@ -10229,8 +10229,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -15411,10 +15411,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.15";
+    version = "1.1.16";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.15/file/mutable-ai.mutable-ai-1.1.15.vsix";
-      sha256 = "sha256-G1aVhPbZwY6hf5v+s3nj9MwAoQkyhITsk6P/qyA+/go=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.16/file/mutable-ai.mutable-ai-1.1.16.vsix";
+      sha256 = "sha256-Phr8apC4EipM4jFI1UL10B8gvfTUzIMCvtFa6/dYSYI=";
     };
     license = "";
     name = "mutable-ai";
@@ -19433,8 +19433,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
