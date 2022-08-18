@@ -20,3 +20,5 @@ multilineBound="$bound$multilineRegex$bound"
 sd --flags m \
   "$multilineBound" "$patchContent" \
   "$sourceFile"
+
+git add "$sourceFile"

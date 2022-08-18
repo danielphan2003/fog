@@ -41,3 +41,5 @@ function parseMeta() {
 parseMeta \
   && traceMsg "generated all papermc versions!" \
   || errorMsg "some errors has been thrown. See logs above."
+
+git add "$package_meta_file"
