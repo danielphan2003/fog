@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1318";
+    version = "31.0.1319";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1318/file/Prisma.prisma-insider-31.0.1318.vsix";
-      sha256 = "sha256-LiKWUYU58jV0m5NjWSgs1lXR+N6i9E64W2KZL9Bcb/w=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1319/file/Prisma.prisma-insider-31.0.1319.vsix";
+      sha256 = "sha256-9ZTmVJ3BUF3NY5GtUMHMw4OE71qIxWnMA0RqEHfMla0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5460,6 +5460,18 @@
     name = "swagger-viewer";
     description = "Swagger Viewer lets you preview and validate Swagger 2.0 and OpenAPI files as you type in Visual Studio Code.";
     publisher = "arjun";
+  };
+  arm-cmsis-csolution = {
+    pname = "arm-cmsis-csolution";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.1.0/file/arm.cmsis-csolution-0.1.0.vsix";
+      sha256 = "sha256-W6Pa9oZd0ZNIQEx7GUi3j49wwuXxuk8OlshOzgjmUC8=";
+    };
+    license = "";
+    name = "cmsis-csolution";
+    description = "CMSIS csolution support";
+    publisher = "arm";
   };
   arm-device-manager = {
     pname = "arm-device-manager";
@@ -13167,10 +13179,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.39";
+    version = "3.0.40";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.39/file/lifeart.vscode-ember-unstable-3.0.39.vsix";
-      sha256 = "sha256-DUDhXjR9xgRPR5396qA04m1NOGl8J0ZgLF5tkYT4LSg=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.40/file/lifeart.vscode-ember-unstable-3.0.40.vsix";
+      sha256 = "sha256-j9s7eWbj9MqLN/UlKahvITH6RnHchsvhq6m9899bzoo=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";

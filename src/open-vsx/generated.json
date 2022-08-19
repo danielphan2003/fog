@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LiKWUYU58jV0m5NjWSgs1lXR+N6i9E64W2KZL9Bcb/w=",
+            "sha256": "sha256-9ZTmVJ3BUF3NY5GtUMHMw4OE71qIxWnMA0RqEHfMla0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1318/file/Prisma.prisma-insider-31.0.1318.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1319/file/Prisma.prisma-insider-31.0.1319.vsix"
         },
-        "version": "31.0.1318"
+        "version": "31.0.1319"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8643,6 +8643,25 @@
             "url": "https://open-vsx.org/api/arjun/swagger-viewer/3.1.2/file/arjun.swagger-viewer-3.1.2.vsix"
         },
         "version": "3.1.2"
+    },
+    "arm-cmsis-csolution": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "arm-cmsis-csolution",
+        "passthru": {
+            "description": "CMSIS csolution support",
+            "license": "",
+            "name": "cmsis-csolution",
+            "publisher": "arm"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-W6Pa9oZd0ZNIQEx7GUi3j49wwuXxuk8OlshOzgjmUC8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.1.0/file/arm.cmsis-csolution-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "arm-device-manager": {
         "cargoLocks": null,
@@ -20855,11 +20874,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DUDhXjR9xgRPR5396qA04m1NOGl8J0ZgLF5tkYT4LSg=",
+            "sha256": "sha256-j9s7eWbj9MqLN/UlKahvITH6RnHchsvhq6m9899bzoo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.39/file/lifeart.vscode-ember-unstable-3.0.39.vsix"
+            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.40/file/lifeart.vscode-ember-unstable-3.0.40.vsix"
         },
-        "version": "3.0.39"
+        "version": "3.0.40"
     },
     "lifeart-vscode-glimmer-syntax": {
         "cargoLocks": null,

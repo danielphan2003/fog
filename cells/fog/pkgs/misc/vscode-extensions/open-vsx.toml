@@ -9645,8 +9645,8 @@ fetch.url = "https://open-vsx.org/api/koog1000/fossil/0.1.8/file/koog1000.fossil
 passthru = { publisher = "koog1000", name = "fossil", description = "Integrated Fossil source control", license = "MIT" }
 
 [lifeart-vscode-ember-unstable]
-src.manual = "3.0.39" # lifeart.vscode-ember-unstable
-fetch.url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.39/file/lifeart.vscode-ember-unstable-3.0.39.vsix" # lifeart.vscode-ember-unstable
+src.manual = "3.0.40" # lifeart.vscode-ember-unstable
+fetch.url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.40/file/lifeart.vscode-ember-unstable-3.0.40.vsix" # lifeart.vscode-ember-unstable
 passthru = { publisher = "lifeart", name = "vscode-ember-unstable", description = "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects", license = "MIT" }
 
 [t-codespaces-workspace-manager]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1318" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1318/file/Prisma.prisma-insider-31.0.1318.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1319" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1319/file/Prisma.prisma-insider-31.0.1319.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9985,4 +9985,10 @@ passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Lan
 
 
 
+
+
+[arm-cmsis-csolution]
+src.manual = "0.1.0" # arm.cmsis-csolution
+fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.1.0/file/arm.cmsis-csolution-0.1.0.vsix" # arm.cmsis-csolution
+passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS csolution support", license = "" }
 
