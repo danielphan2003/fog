@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KBthZwGpDJZBWwPopykM20cF6cxSTBBiGg4gJ0phjdM=",
+            "sha256": "sha256-BXYBEpZhnXI377hsz0UN6Dq/RvM++SIyVzkmgZbK++0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1313/file/Prisma.prisma-insider-31.0.1313.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1314/file/Prisma.prisma-insider-31.0.1314.vsix"
         },
-        "version": "31.0.1313"
+        "version": "31.0.1314"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -16200,9 +16200,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -24408,11 +24408,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Phr8apC4EipM4jFI1UL10B8gvfTUzIMCvtFa6/dYSYI=",
+            "sha256": "sha256-ZImq9p0K62KwJNgTryTiUzKLYb03HNf3OfxJUJlFpqA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.16/file/mutable-ai.mutable-ai-1.1.16.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.20/file/mutable-ai.mutable-ai-1.1.20.vsix"
         },
-        "version": "1.1.16"
+        "version": "1.1.20"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -27277,11 +27277,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DoM7mZELQuO6yOppNZsNNYedc7xnX9wHHjnotAYZYqA=",
+            "sha256": "sha256-mvWcCV7tkvdFkFi2cGMi8O5XiuTg9zVdQLTw6mXCYtc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.1/file/quanzhuo.test-openvsx-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.3/file/quanzhuo.test-openvsx-0.0.3.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.3"
     },
     "quarto-quarto": {
         "cargoLocks": null,

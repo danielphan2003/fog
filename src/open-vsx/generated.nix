@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1313";
+    version = "31.0.1314";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1313/file/Prisma.prisma-insider-31.0.1313.vsix";
-      sha256 = "sha256-KBthZwGpDJZBWwPopykM20cF6cxSTBBiGg4gJ0phjdM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1314/file/Prisma.prisma-insider-31.0.1314.vsix";
+      sha256 = "sha256-BXYBEpZhnXI377hsz0UN6Dq/RvM++SIyVzkmgZbK++0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10229,8 +10229,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -15411,10 +15411,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.16";
+    version = "1.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.16/file/mutable-ai.mutable-ai-1.1.16.vsix";
-      sha256 = "sha256-Phr8apC4EipM4jFI1UL10B8gvfTUzIMCvtFa6/dYSYI=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.20/file/mutable-ai.mutable-ai-1.1.20.vsix";
+      sha256 = "sha256-ZImq9p0K62KwJNgTryTiUzKLYb03HNf3OfxJUJlFpqA=";
     };
     license = "";
     name = "mutable-ai";
@@ -17223,10 +17223,10 @@
   };
   quanzhuo-test-openvsx = {
     pname = "quanzhuo-test-openvsx";
-    version = "0.0.1";
+    version = "0.0.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.1/file/quanzhuo.test-openvsx-0.0.1.vsix";
-      sha256 = "sha256-DoM7mZELQuO6yOppNZsNNYedc7xnX9wHHjnotAYZYqA=";
+      url = "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.3/file/quanzhuo.test-openvsx-0.0.3.vsix";
+      sha256 = "sha256-mvWcCV7tkvdFkFi2cGMi8O5XiuTg9zVdQLTw6mXCYtc=";
     };
     license = "MIT";
     name = "test-openvsx";

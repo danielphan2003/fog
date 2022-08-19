@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9620,8 +9620,8 @@ fetch.url = "https://open-vsx.org/api/mfederczuk/smart-indent-align/0.1.0/file/m
 passthru = { publisher = "mfederczuk", name = "smart-indent-align", description = "Support for smart indentation and alignment", license = "MPL-2.0 AND Apache-2.0" }
 
 [quanzhuo-test-openvsx]
-src.manual = "0.0.1" # quanzhuo.test-openvsx
-fetch.url = "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.1/file/quanzhuo.test-openvsx-0.0.1.vsix" # quanzhuo.test-openvsx
+src.manual = "0.0.3" # quanzhuo.test-openvsx
+fetch.url = "https://open-vsx.org/api/quanzhuo/test-openvsx/0.0.3/file/quanzhuo.test-openvsx-0.0.3.vsix" # quanzhuo.test-openvsx
 passthru = { publisher = "quanzhuo", name = "test-openvsx", description = "Test the steps involved to publish a extension to openvsx", license = "MIT" }
 
 [mathiassoeholm-markdown-link-updater]
@@ -9665,8 +9665,8 @@ fetch.url = "https://open-vsx.org/api/devfactory/multispace/0.0.80/file/devfacto
 passthru = { publisher = "devfactory", name = "multispace", description = "Take Devspaces to the next level with Multispace that allows multiple services each running in a different Devspace to act as a single dev environment", license = "MIT" }
 
 [mutable-ai-mutable-ai]
-src.manual = "1.1.16" # mutable-ai.mutable-ai
-fetch.url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.16/file/mutable-ai.mutable-ai-1.1.16.vsix" # mutable-ai.mutable-ai
+src.manual = "1.1.20" # mutable-ai.mutable-ai
+fetch.url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.20/file/mutable-ai.mutable-ai-1.1.20.vsix" # mutable-ai.mutable-ai
 passthru = { publisher = "mutable-ai", name = "mutable-ai", description = "AI Accelerated Programming", license = "" }
 
 [stateful-issue-explorer]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1313" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1313/file/Prisma.prisma-insider-31.0.1313.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1314" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1314/file/Prisma.prisma-insider-31.0.1314.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9978,6 +9978,7 @@ passthru = { publisher = "redhat", name = "java", description = "Java Linting, I
 src.manual = "1.9.1" # redhat.vscode-yaml
 fetch.url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix" # redhat.vscode-yaml
 passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support", license = "MIT" }
+
 
 
 
