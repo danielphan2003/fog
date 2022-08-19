@@ -373,11 +373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FxFcBD+9eEvdcsgHB2LyfVMkv08OvK6JnAtoebEtBno=",
+            "sha256": "sha256-3tCf3EKOgu47L13qwaar/IqVw4E33VFWpxuCMgVZ5I4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.0/file/BeardedBear.beardedicons-0.27.0.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.1/file/BeardedBear.beardedicons-0.27.1.vsix"
         },
-        "version": "0.27.0"
+        "version": "0.27.1"
     },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9ZTmVJ3BUF3NY5GtUMHMw4OE71qIxWnMA0RqEHfMla0=",
+            "sha256": "sha256-QQsXBPnSWB8TEXPA/VqdZlmEJ03Vs+rYEJ29Ol0qI9w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1319/file/Prisma.prisma-insider-31.0.1319.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1320/file/Prisma.prisma-insider-31.0.1320.vsix"
         },
-        "version": "31.0.1319"
+        "version": "31.0.1320"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8681,6 +8681,25 @@
             "url": "https://open-vsx.org/api/arm/device-manager/1.0.5/file/arm.device-manager-1.0.5.vsix"
         },
         "version": "1.0.5"
+    },
+    "arm-embedded-debug": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "arm-embedded-debug",
+        "passthru": {
+            "description": "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)",
+            "license": "",
+            "name": "embedded-debug",
+            "publisher": "arm"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-TvGJu6/9/Jx4lNcKSKMZdJATIHSTp39O8kZWy1q6kpI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix"
+        },
+        "version": "0.1.0"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,

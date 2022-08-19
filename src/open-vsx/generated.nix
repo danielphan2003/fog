@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.27.0";
+    version = "0.27.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.0/file/BeardedBear.beardedicons-0.27.0.vsix";
-      sha256 = "sha256-FxFcBD+9eEvdcsgHB2LyfVMkv08OvK6JnAtoebEtBno=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.1/file/BeardedBear.beardedicons-0.27.1.vsix";
+      sha256 = "sha256-3tCf3EKOgu47L13qwaar/IqVw4E33VFWpxuCMgVZ5I4=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1319";
+    version = "31.0.1320";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1319/file/Prisma.prisma-insider-31.0.1319.vsix";
-      sha256 = "sha256-9ZTmVJ3BUF3NY5GtUMHMw4OE71qIxWnMA0RqEHfMla0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1320/file/Prisma.prisma-insider-31.0.1320.vsix";
+      sha256 = "sha256-QQsXBPnSWB8TEXPA/VqdZlmEJ03Vs+rYEJ29Ol0qI9w=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5483,6 +5483,18 @@
     license = "";
     name = "device-manager";
     description = "Manages device connections and configuration for Arm Cortex-M based microcontrollers, development boards and debug probes";
+    publisher = "arm";
+  };
+  arm-embedded-debug = {
+    pname = "arm-embedded-debug";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix";
+      sha256 = "sha256-TvGJu6/9/Jx4lNcKSKMZdJATIHSTp39O8kZWy1q6kpI=";
+    };
+    license = "";
+    name = "embedded-debug";
+    description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)";
     publisher = "arm";
   };
   armandphilippot-coldark = {
