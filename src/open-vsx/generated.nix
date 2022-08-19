@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1315";
+    version = "31.0.1318";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1315/file/Prisma.prisma-insider-31.0.1315.vsix";
-      sha256 = "sha256-/5Ms/uRlLakEEFZKfMopuFs2CiTjYoRUIi6RqWMULzg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1318/file/Prisma.prisma-insider-31.0.1318.vsix";
+      sha256 = "sha256-LiKWUYU58jV0m5NjWSgs1lXR+N6i9E64W2KZL9Bcb/w=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8007,10 +8007,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.2/file/deadlock.deadlock-gitpod-0.1.2.vsix";
-      sha256 = "sha256-etQX92obnGyVM8sFcMPRFwlvD86WAApVQKhCx03pBTo=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.3/file/deadlock.deadlock-gitpod-0.1.3.vsix";
+      sha256 = "sha256-emtq+LHXoWDgyimUAS2LuYrI8ckMrVyI5HlMuzrTEvA=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -13167,10 +13167,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.38";
+    version = "3.0.39";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.38/file/lifeart.vscode-ember-unstable-3.0.38.vsix";
-      sha256 = "sha256-TCEzNjH70tKcldHddZAZhLoZ+sel771lZZQqaWd4OJw=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.39/file/lifeart.vscode-ember-unstable-3.0.39.vsix";
+      sha256 = "sha256-DUDhXjR9xgRPR5396qA04m1NOGl8J0ZgLF5tkYT4LSg=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";

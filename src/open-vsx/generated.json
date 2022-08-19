@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/5Ms/uRlLakEEFZKfMopuFs2CiTjYoRUIi6RqWMULzg=",
+            "sha256": "sha256-LiKWUYU58jV0m5NjWSgs1lXR+N6i9E64W2KZL9Bcb/w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1315/file/Prisma.prisma-insider-31.0.1315.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1318/file/Prisma.prisma-insider-31.0.1318.vsix"
         },
-        "version": "31.0.1315"
+        "version": "31.0.1318"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12685,11 +12685,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-etQX92obnGyVM8sFcMPRFwlvD86WAApVQKhCx03pBTo=",
+            "sha256": "sha256-emtq+LHXoWDgyimUAS2LuYrI8ckMrVyI5HlMuzrTEvA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.2/file/deadlock.deadlock-gitpod-0.1.2.vsix"
+            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.3/file/deadlock.deadlock-gitpod-0.1.3.vsix"
         },
-        "version": "0.1.2"
+        "version": "0.1.3"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -20855,11 +20855,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-TCEzNjH70tKcldHddZAZhLoZ+sel771lZZQqaWd4OJw=",
+            "sha256": "sha256-DUDhXjR9xgRPR5396qA04m1NOGl8J0ZgLF5tkYT4LSg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.38/file/lifeart.vscode-ember-unstable-3.0.38.vsix"
+            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.39/file/lifeart.vscode-ember-unstable-3.0.39.vsix"
         },
-        "version": "3.0.38"
+        "version": "3.0.39"
     },
     "lifeart-vscode-glimmer-syntax": {
         "cargoLocks": null,
