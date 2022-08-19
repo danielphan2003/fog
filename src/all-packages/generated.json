@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "572556b912e3ec233d331dd6c1d80b71bd9f9af1",
-            "sha256": "sha256-XmBN7VX90WPkDmzRRErP/KLZNiLvTkXz1nUWUy0YoZA=",
+            "rev": "fafcd8a2bcc65a770f65e7b81f9915acad4edb54",
+            "sha256": "sha256-/x/5q6x/LTCVRmnwO6qv5X9wkYE6lO0usZqscQhqiAk=",
             "type": "github"
         },
-        "version": "572556b912e3ec233d331dd6c1d80b71bd9f9af1"
+        "version": "fafcd8a2bcc65a770f65e7b81f9915acad4edb54"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kWsFZHNiKGEs+I7Z7jhgeXu4ujKGfIuNnrSN3pIHsMQ=",
+            "sha256": "sha256-en/2hEoPPN7+JEA8TK15dgaLBA0QcoIvPeMq2b0yzgA=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.54-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.63-1_amd64.deb"
         },
-        "version": "104.0.1293.54"
+        "version": "104.0.1293.63"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
@@ -2037,11 +2037,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "3c8d257b3e61eecf1d5760af5449096f9b7f4e75",
-            "sha256": "sha256-fMvQ4oUxVJDF796gTPYppaLABC2WdI2oIub8qxgZ+5w=",
+            "rev": "9197dd14cc2439d8e3daa4fac5b3a3d293dffd27",
+            "sha256": "sha256-KcHLWlL8iy84d0s4i80Yoy0j7zOaqqQx4rpY+zhDz3Q=",
             "type": "github"
         },
-        "version": "3c8d257b3e61eecf1d5760af5449096f9b7f4e75"
+        "version": "9197dd14cc2439d8e3daa4fac5b3a3d293dffd27"
     },
     "tailscale-systray": {
         "cargoLocks": null,
