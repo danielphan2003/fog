@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "08bf3706a6ca27b23cedce85ecaecf68421e75a2";
+    version = "9836e05f7fb573c9e384c8046229960c9f904982";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "08bf3706a6ca27b23cedce85ecaecf68421e75a2";
+      rev = "9836e05f7fb573c9e384c8046229960c9f904982";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-ecZ9ny35iLkyfAcsrOoFvQhf3oVNfh7pdvOxH0TGBcY=";
+      sha256 = "sha256-Z7dS0RPBw8/xivmjb8Wqw2Uqps6PZ2rhsiVAGgk6OQc=";
     };
   };
   flyingfox = {
@@ -978,16 +978,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f323cd458b5424440f23539f1289d361703dd561";
+    version = "0b9fcc729091433cf3446af3c7871cefb9979210";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f323cd458b5424440f23539f1289d361703dd561";
+      rev = "0b9fcc729091433cf3446af3c7871cefb9979210";
       fetchSubmodules = false;
-      sha256 = "sha256-V/+RFsRR74BlVV3W+lN7xLCj7LAHdBcV1KG662vs0Y0=";
+      sha256 = "sha256-kObD7AUGlzZF+chN7fgU/Z84tJo1r56sE0+00fN1Yjg=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f323cd458b5424440f23539f1289d361703dd561/Cargo.lock;
+      lockFile = ./rustdesk-0b9fcc729091433cf3446af3c7871cefb9979210/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1104,13 +1104,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "7d90469934316b00c58661b591e2d21e01d6f709";
+    version = "2554b46e6470ce08a6c4290d6f7fee3b4dba2070";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "7d90469934316b00c58661b591e2d21e01d6f709";
+      rev = "2554b46e6470ce08a6c4290d6f7fee3b4dba2070";
       fetchSubmodules = false;
-      sha256 = "sha256-erhKM+acbMRixWA9J7E1clz70DaFXXGHkoDcEGvSN4U=";
+      sha256 = "sha256-Rbv4yvEPP74g5ASHXGHm7WPeFPtv2jk6i570mcxUYJM=";
     });
   };
   spicetify-themes = {

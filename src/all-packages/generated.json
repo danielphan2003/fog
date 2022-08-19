@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "08bf3706a6ca27b23cedce85ecaecf68421e75a2",
-            "sha256": "sha256-ecZ9ny35iLkyfAcsrOoFvQhf3oVNfh7pdvOxH0TGBcY=",
+            "rev": "9836e05f7fb573c9e384c8046229960c9f904982",
+            "sha256": "sha256-Z7dS0RPBw8/xivmjb8Wqw2Uqps6PZ2rhsiVAGgk6OQc=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "08bf3706a6ca27b23cedce85ecaecf68421e75a2"
+        "version": "9836e05f7fb573c9e384c8046229960c9f904982"
     },
     "flyingfox": {
         "cargoLocks": null,
@@ -1633,7 +1633,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-f323cd458b5424440f23539f1289d361703dd561/Cargo.lock",
+                "./rustdesk-0b9fcc729091433cf3446af3c7871cefb9979210/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1660,11 +1660,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "f323cd458b5424440f23539f1289d361703dd561",
-            "sha256": "sha256-V/+RFsRR74BlVV3W+lN7xLCj7LAHdBcV1KG662vs0Y0=",
+            "rev": "0b9fcc729091433cf3446af3c7871cefb9979210",
+            "sha256": "sha256-kObD7AUGlzZF+chN7fgU/Z84tJo1r56sE0+00fN1Yjg=",
             "type": "github"
         },
-        "version": "f323cd458b5424440f23539f1289d361703dd561"
+        "version": "0b9fcc729091433cf3446af3c7871cefb9979210"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -1843,11 +1843,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "7d90469934316b00c58661b591e2d21e01d6f709",
-            "sha256": "sha256-erhKM+acbMRixWA9J7E1clz70DaFXXGHkoDcEGvSN4U=",
+            "rev": "2554b46e6470ce08a6c4290d6f7fee3b4dba2070",
+            "sha256": "sha256-Rbv4yvEPP74g5ASHXGHm7WPeFPtv2jk6i570mcxUYJM=",
             "type": "github"
         },
-        "version": "7d90469934316b00c58661b591e2d21e01d6f709"
+        "version": "2554b46e6470ce08a6c4290d6f7fee3b4dba2070"
     },
     "spicetify-themes": {
         "cargoLocks": null,
