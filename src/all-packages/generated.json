@@ -1316,7 +1316,7 @@
     "playit-agent": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./playit-agent-4d610ac3e6d25f17146d3a18170291b3d26d7a78/Cargo.lock",
+                "./playit-agent-6273120f04b5005b9043a7d0e705990e7c75485b/Cargo.lock",
                 {
                     "webbrowser-0.5.5": "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M="
                 }
@@ -1333,11 +1333,11 @@
             "name": null,
             "owner": "playit-cloud",
             "repo": "playit-agent",
-            "rev": "4d610ac3e6d25f17146d3a18170291b3d26d7a78",
-            "sha256": "sha256-jlM4SOoSrxsfbNHljHjEJbOzFBCb6xv4hdaI3P2Pm5E=",
+            "rev": "6273120f04b5005b9043a7d0e705990e7c75485b",
+            "sha256": "sha256-iiz+zRAXp7qsoLHLwMPolXSCX6CT1oV+X8cFyVEppoY=",
             "type": "github"
         },
-        "version": "4d610ac3e6d25f17146d3a18170291b3d26d7a78"
+        "version": "6273120f04b5005b9043a7d0e705990e7c75485b"
     },
     "plymouth-themes": {
         "cargoLocks": null,
@@ -2212,11 +2212,11 @@
             "name": null,
             "owner": "waydroid",
             "repo": "waydroid",
-            "rev": "13bac362006b7e8d0f2985bd6e161f72889bb4a7",
-            "sha256": "sha256-wHWYmNBXLXH7sl3JtT+2sq40X1fOnwi3CvfAXlSvWWw=",
+            "rev": "de52643d5b8efa93d2994b760905a1f47d7c31b3",
+            "sha256": "sha256-Qyp4BxtN8lVap3b1rFa2T17J7SOGh3n1HmGL1oNITt8=",
             "type": "github"
         },
-        "version": "13bac362006b7e8d0f2985bd6e161f72889bb4a7"
+        "version": "de52643d5b8efa93d2994b760905a1f47d7c31b3"
     },
     "wgcf": {
         "cargoLocks": null,

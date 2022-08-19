@@ -792,16 +792,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "4d610ac3e6d25f17146d3a18170291b3d26d7a78";
+    version = "6273120f04b5005b9043a7d0e705990e7c75485b";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "4d610ac3e6d25f17146d3a18170291b3d26d7a78";
+      rev = "6273120f04b5005b9043a7d0e705990e7c75485b";
       fetchSubmodules = false;
-      sha256 = "sha256-jlM4SOoSrxsfbNHljHjEJbOzFBCb6xv4hdaI3P2Pm5E=";
+      sha256 = "sha256-iiz+zRAXp7qsoLHLwMPolXSCX6CT1oV+X8cFyVEppoY=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-4d610ac3e6d25f17146d3a18170291b3d26d7a78/Cargo.lock;
+      lockFile = ./playit-agent-6273120f04b5005b9043a7d0e705990e7c75485b/Cargo.lock;
       outputHashes = {
         "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
       };
@@ -1331,13 +1331,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "13bac362006b7e8d0f2985bd6e161f72889bb4a7";
+    version = "de52643d5b8efa93d2994b760905a1f47d7c31b3";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "13bac362006b7e8d0f2985bd6e161f72889bb4a7";
+      rev = "de52643d5b8efa93d2994b760905a1f47d7c31b3";
       fetchSubmodules = false;
-      sha256 = "sha256-wHWYmNBXLXH7sl3JtT+2sq40X1fOnwi3CvfAXlSvWWw=";
+      sha256 = "sha256-Qyp4BxtN8lVap3b1rFa2T17J7SOGh3n1HmGL1oNITt8=";
     });
   };
   wgcf = {
