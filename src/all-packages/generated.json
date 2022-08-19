@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-d814edd0d5c6f846853bf44e2c4c47506e0c3436/Cargo.lock",
+                "./eww-25105c7c4f50d4f65ab0fd8a56e00941bc077efa/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "d814edd0d5c6f846853bf44e2c4c47506e0c3436",
-            "sha256": "sha256-E0YR7x75aeufZeWBwzW6PNBLUgfDV83ffv8zcUr4GSI=",
+            "rev": "25105c7c4f50d4f65ab0fd8a56e00941bc077efa",
+            "sha256": "sha256-K8v4f0RInKTgPg6cEjDko7cZqi8mWWLRZN98w8HUG2c=",
             "type": "github"
         },
-        "version": "d814edd0d5c6f846853bf44e2c4c47506e0c3436"
+        "version": "25105c7c4f50d4f65ab0fd8a56e00941bc077efa"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -704,12 +704,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "22eda121d81644c91e9df52753efba5e05de8f55",
-            "sha256": "sha256-YNpUkfd9ifqGFaWfBe3tbem26BVuW9MmQJuJuty5wbM=",
+            "rev": "084e545d41783ae38fe4689b8af51935e07aff21",
+            "sha256": "sha256-mtCMVO416zsfuClZngtGpWe0xa0WDjH5Fq6rZ9ntGtM=",
             "type": "git",
             "url": "https://gitlab.com/famedly/fluffychat"
         },
-        "version": "22eda121d81644c91e9df52753efba5e05de8f55"
+        "version": "084e545d41783ae38fe4689b8af51935e07aff21"
     },
     "flyingfox": {
         "cargoLocks": null,

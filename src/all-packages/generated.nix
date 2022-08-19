@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "d814edd0d5c6f846853bf44e2c4c47506e0c3436";
+    version = "25105c7c4f50d4f65ab0fd8a56e00941bc077efa";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "d814edd0d5c6f846853bf44e2c4c47506e0c3436";
+      rev = "25105c7c4f50d4f65ab0fd8a56e00941bc077efa";
       fetchSubmodules = false;
-      sha256 = "sha256-E0YR7x75aeufZeWBwzW6PNBLUgfDV83ffv8zcUr4GSI=";
+      sha256 = "sha256-K8v4f0RInKTgPg6cEjDko7cZqi8mWWLRZN98w8HUG2c=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-d814edd0d5c6f846853bf44e2c4c47506e0c3436/Cargo.lock;
+      lockFile = ./eww-25105c7c4f50d4f65ab0fd8a56e00941bc077efa/Cargo.lock;
       outputHashes = {
         
       };
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "22eda121d81644c91e9df52753efba5e05de8f55";
+    version = "084e545d41783ae38fe4689b8af51935e07aff21";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "22eda121d81644c91e9df52753efba5e05de8f55";
+      rev = "084e545d41783ae38fe4689b8af51935e07aff21";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-YNpUkfd9ifqGFaWfBe3tbem26BVuW9MmQJuJuty5wbM=";
+      sha256 = "sha256-mtCMVO416zsfuClZngtGpWe0xa0WDjH5Fq6rZ9ntGtM=";
     };
   };
   flyingfox = {
