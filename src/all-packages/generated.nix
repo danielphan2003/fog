@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "9836e05f7fb573c9e384c8046229960c9f904982";
+    version = "033057270c79fd67bb25e72d361565185a77d367";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "9836e05f7fb573c9e384c8046229960c9f904982";
+      rev = "033057270c79fd67bb25e72d361565185a77d367";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-Z7dS0RPBw8/xivmjb8Wqw2Uqps6PZ2rhsiVAGgk6OQc=";
+      sha256 = "sha256-4+F355fTuUL1eFWbJ4UP++nRjeJlsWeNbqB+0imZxdA=";
     };
   };
   flyingfox = {
@@ -792,16 +792,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "94fc89674d48c0f8b5d03e51b734c8a4fa6e2504";
+    version = "2c32794acf17eb76b0c4a1d7d7b4da6e2d7dd32c";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "94fc89674d48c0f8b5d03e51b734c8a4fa6e2504";
+      rev = "2c32794acf17eb76b0c4a1d7d7b4da6e2d7dd32c";
       fetchSubmodules = false;
-      sha256 = "sha256-VxIDtBBjgCfl09tWQIIJHpTWArVHEW8wW//cps1lOyA=";
+      sha256 = "sha256-huyZHATcnPO4SOH5VJGlPnwtbsoRQbsFO1u/GXFypAM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-94fc89674d48c0f8b5d03e51b734c8a4fa6e2504/Cargo.lock;
+      lockFile = ./playit-agent-2c32794acf17eb76b0c4a1d7d7b4da6e2d7dd32c/Cargo.lock;
       outputHashes = {
         "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
       };
@@ -1227,13 +1227,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "0de66386d46c10ab5a7e57432dfa00e6558658f1";
+    version = "d32700c7b2d7637b4c6ba8838d9300b221f87942";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "0de66386d46c10ab5a7e57432dfa00e6558658f1";
+      rev = "d32700c7b2d7637b4c6ba8838d9300b221f87942";
       fetchSubmodules = false;
-      sha256 = "sha256-2aFTsbieeyOwnWCOy9FdamHk32jb+m0KBmU071/dcps=";
+      sha256 = "sha256-SBQjmU75jgxTIRbp4ax+yar3zlhzr/e93fQ2iBpIa6k=";
     });
   };
   tailscale-systray = {
