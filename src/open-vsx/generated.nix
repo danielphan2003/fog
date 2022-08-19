@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.24.0";
+    version = "0.27.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.24.0/file/BeardedBear.beardedicons-0.24.0.vsix";
-      sha256 = "sha256-tpDqHSDNY8JlDAbnDgLAZ0yIzbMhKiMswAO+k+rZmzA=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.0/file/BeardedBear.beardedicons-0.27.0.vsix";
+      sha256 = "sha256-FxFcBD+9eEvdcsgHB2LyfVMkv08OvK6JnAtoebEtBno=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1314";
+    version = "31.0.1315";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1314/file/Prisma.prisma-insider-31.0.1314.vsix";
-      sha256 = "sha256-BXYBEpZhnXI377hsz0UN6Dq/RvM++SIyVzkmgZbK++0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1315/file/Prisma.prisma-insider-31.0.1315.vsix";
+      sha256 = "sha256-/5Ms/uRlLakEEFZKfMopuFs2CiTjYoRUIi6RqWMULzg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -18999,10 +18999,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";

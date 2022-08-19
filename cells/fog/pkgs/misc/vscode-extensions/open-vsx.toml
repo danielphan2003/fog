@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9550,8 +9550,8 @@ fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file
 passthru = { publisher = "ModyQyW", name = "vscode-uni-app-snippets", description = "uni-app 基本能力代码片段。", license = "MIT" }
 
 [BeardedBear-beardedicons]
-src.manual = "0.24.0" # BeardedBear.beardedicons
-fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.24.0/file/BeardedBear.beardedicons-0.24.0.vsix" # BeardedBear.beardedicons
+src.manual = "0.27.0" # BeardedBear.beardedicons
+fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.0/file/BeardedBear.beardedicons-0.27.0.vsix" # BeardedBear.beardedicons
 passthru = { publisher = "BeardedBear", name = "beardedicons", description = "The icons with a long beard.", license = "MIT" }
 
 [ModyQyW-vscode-uni-ui-snippets]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1314" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1314/file/Prisma.prisma-insider-31.0.1314.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1315" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1315/file/Prisma.prisma-insider-31.0.1315.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9978,6 +9978,7 @@ passthru = { publisher = "redhat", name = "java", description = "Java Linting, I
 src.manual = "1.9.1" # redhat.vscode-yaml
 fetch.url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix" # redhat.vscode-yaml
 passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support", license = "MIT" }
+
 
 
 
