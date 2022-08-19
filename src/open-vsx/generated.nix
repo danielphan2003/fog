@@ -3543,10 +3543,10 @@
   };
   SonatypeCommunity-vscode-iq-plugin = {
     pname = "SonatypeCommunity-vscode-iq-plugin";
-    version = "1.2.4";
+    version = "1.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.4/file/SonatypeCommunity.vscode-iq-plugin-1.2.4.vsix";
-      sha256 = "sha256-hY667Vg02HLD2QVl0mTEoxnCU6XM2/gQZcgZbHJBYbU=";
+      url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.5/file/SonatypeCommunity.vscode-iq-plugin-1.2.5.vsix";
+      sha256 = "sha256-rJqZxPOMKBtsief1W0utmhKC4OLMj9fmagCtjmIiKYQ=";
     };
     license = "MIT";
     name = "vscode-iq-plugin";
@@ -4383,10 +4383,10 @@
   };
   a5hk-ice = {
     pname = "a5hk-ice";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/ice/1.0.0/file/a5hk.ice-1.0.0.vsix";
-      sha256 = "sha256-y+HAVfhldkNDcz/5WAK5g3F5wTSOg3gMYJqg3PvOZa0=";
+      url = "https://open-vsx.org/api/a5hk/ice/1.0.1/file/a5hk.ice-1.0.1.vsix";
+      sha256 = "sha256-i3wCZ1N3d2IcGnxx/9LSGtcKe2G6d0lhnhAsaIToqsw=";
     };
     license = "MIT";
     name = "ice";
@@ -4395,10 +4395,10 @@
   };
   a5hk-night-coder = {
     pname = "a5hk-night-coder";
-    version = "4.3.1";
+    version = "4.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/night-coder/4.3.1/file/a5hk.night-coder-4.3.1.vsix";
-      sha256 = "sha256-Et0ksDuNySEZYkajHKt3d3zM/nzhC01zn2XYsElkMIw=";
+      url = "https://open-vsx.org/api/a5hk/night-coder/4.3.2/file/a5hk.night-coder-4.3.2.vsix";
+      sha256 = "sha256-pDKp7tN1Q8fKpqgCasTncvN44A8BkZ2zuvaoYCu+tts=";
     };
     license = "MIT";
     name = "night-coder";
@@ -4407,10 +4407,10 @@
   };
   a5hk-paper = {
     pname = "a5hk-paper";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/a5hk/paper/1.0.0/file/a5hk.paper-1.0.0.vsix";
-      sha256 = "sha256-XBUENG5F9AuayCKJdxvQo3Y5/FoK14GC1hrN1WIVsw8=";
+      url = "https://open-vsx.org/api/a5hk/paper/1.0.1/file/a5hk.paper-1.0.1.vsix";
+      sha256 = "sha256-B5kBqj5oweIXXZBHD9eVivWHM11E3hWqjW+duxTzt/I=";
     };
     license = "MIT";
     name = "paper";
@@ -8139,10 +8139,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.108.3";
+    version = "0.108.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.108.3/file/dendron.nightly-0.108.3.vsix";
-      sha256 = "sha256-nY6s0XpksJX1TCvhJPVakyjDYgbNnzrOt23XrelnKjo=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.108.4/file/dendron.nightly-0.108.4.vsix";
+      sha256 = "sha256-pszgilsSAedurFgY1g6Gm0n1QTgl6WGinuyMmFaFFvc=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -12663,10 +12663,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -12963,10 +12963,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19433,8 +19433,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

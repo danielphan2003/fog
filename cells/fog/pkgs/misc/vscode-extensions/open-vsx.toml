@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7820,8 +7820,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -7830,8 +7830,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/kha/22.8.0/file/kodetech.kha-22.8
 passthru = { publisher = "kodetech", name = "kha-extension-pack", description = "Everything you need for Kha development", license = "" }
 
 [a5hk-ice]
-src.manual = "1.0.0" # a5hk.ice
-fetch.url = "https://open-vsx.org/api/a5hk/ice/1.0.0/file/a5hk.ice-1.0.0.vsix" # a5hk.ice
+src.manual = "1.0.1" # a5hk.ice
+fetch.url = "https://open-vsx.org/api/a5hk/ice/1.0.1/file/a5hk.ice-1.0.1.vsix" # a5hk.ice
 passthru = { publisher = "a5hk", name = "ice", description = "Cold as Ice", license = "MIT" }
 
 [JulianGmp-openscad-formatter]
@@ -7840,8 +7840,8 @@ fetch.url = "https://open-vsx.org/api/JulianGmp/openscad-formatter/1.2.1/file/Ju
 passthru = { publisher = "JulianGmp", name = "openscad-formatter", description = "Simple formatter for OpenSCAD files using clang-format.", license = "MIT" }
 
 [a5hk-night-coder]
-src.manual = "4.3.1" # a5hk.night-coder
-fetch.url = "https://open-vsx.org/api/a5hk/night-coder/4.3.1/file/a5hk.night-coder-4.3.1.vsix" # a5hk.night-coder
+src.manual = "4.3.2" # a5hk.night-coder
+fetch.url = "https://open-vsx.org/api/a5hk/night-coder/4.3.2/file/a5hk.night-coder-4.3.2.vsix" # a5hk.night-coder
 passthru = { publisher = "a5hk", name = "night-coder", description = "A dark theme for Night Coders", license = "MIT" }
 
 [wtho-vscode-commit-pro-extension]
@@ -7910,8 +7910,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-german", description = "German dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [a5hk-paper]
-src.manual = "1.0.0" # a5hk.paper
-fetch.url = "https://open-vsx.org/api/a5hk/paper/1.0.0/file/a5hk.paper-1.0.0.vsix" # a5hk.paper
+src.manual = "1.0.1" # a5hk.paper
+fetch.url = "https://open-vsx.org/api/a5hk/paper/1.0.1/file/a5hk.paper-1.0.1.vsix" # a5hk.paper
 passthru = { publisher = "a5hk", name = "paper", description = "Light theme with good contrast", license = "MIT" }
 
 [emroussel-atomize-atom-one-dark-theme]
@@ -8030,8 +8030,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/test-vscode-web-state/0.0.12/
 passthru = { publisher = "t-codespaces", name = "test-vscode-web-state", description = "111", license = "" }
 
 [SonatypeCommunity-vscode-iq-plugin]
-src.manual = "1.2.4" # SonatypeCommunity.vscode-iq-plugin
-fetch.url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.4/file/SonatypeCommunity.vscode-iq-plugin-1.2.4.vsix" # SonatypeCommunity.vscode-iq-plugin
+src.manual = "1.2.5" # SonatypeCommunity.vscode-iq-plugin
+fetch.url = "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.5/file/SonatypeCommunity.vscode-iq-plugin-1.2.5.vsix" # SonatypeCommunity.vscode-iq-plugin
 passthru = { publisher = "SonatypeCommunity", name = "vscode-iq-plugin", description = "Sonatype Nexus IQ Extension for VSCode", license = "MIT" }
 
 [lefebsy-vskubi-lite]
@@ -9720,8 +9720,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.108.3" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.108.3/file/dendron.nightly-0.108.3.vsix" # dendron.nightly
+src.manual = "0.108.4" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.108.4/file/dendron.nightly-0.108.4.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -9978,6 +9978,7 @@ passthru = { publisher = "redhat", name = "java", description = "Java Linting, I
 src.manual = "1.9.1" # redhat.vscode-yaml
 fetch.url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix" # redhat.vscode-yaml
 passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support", license = "MIT" }
+
 
 
 

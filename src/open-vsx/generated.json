@@ -5617,11 +5617,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hY667Vg02HLD2QVl0mTEoxnCU6XM2/gQZcgZbHJBYbU=",
+            "sha256": "sha256-rJqZxPOMKBtsief1W0utmhKC4OLMj9fmagCtjmIiKYQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.4/file/SonatypeCommunity.vscode-iq-plugin-1.2.4.vsix"
+            "url": "https://open-vsx.org/api/SonatypeCommunity/vscode-iq-plugin/1.2.5/file/SonatypeCommunity.vscode-iq-plugin-1.2.5.vsix"
         },
-        "version": "1.2.4"
+        "version": "1.2.5"
     },
     "SpiralP-classicube-script": {
         "cargoLocks": null,
@@ -6947,11 +6947,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-y+HAVfhldkNDcz/5WAK5g3F5wTSOg3gMYJqg3PvOZa0=",
+            "sha256": "sha256-i3wCZ1N3d2IcGnxx/9LSGtcKe2G6d0lhnhAsaIToqsw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/a5hk/ice/1.0.0/file/a5hk.ice-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/a5hk/ice/1.0.1/file/a5hk.ice-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "a5hk-night-coder": {
         "cargoLocks": null,
@@ -6966,11 +6966,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Et0ksDuNySEZYkajHKt3d3zM/nzhC01zn2XYsElkMIw=",
+            "sha256": "sha256-pDKp7tN1Q8fKpqgCasTncvN44A8BkZ2zuvaoYCu+tts=",
             "type": "url",
-            "url": "https://open-vsx.org/api/a5hk/night-coder/4.3.1/file/a5hk.night-coder-4.3.1.vsix"
+            "url": "https://open-vsx.org/api/a5hk/night-coder/4.3.2/file/a5hk.night-coder-4.3.2.vsix"
         },
-        "version": "4.3.1"
+        "version": "4.3.2"
     },
     "a5hk-paper": {
         "cargoLocks": null,
@@ -6985,11 +6985,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XBUENG5F9AuayCKJdxvQo3Y5/FoK14GC1hrN1WIVsw8=",
+            "sha256": "sha256-B5kBqj5oweIXXZBHD9eVivWHM11E3hWqjW+duxTzt/I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/a5hk/paper/1.0.0/file/a5hk.paper-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/a5hk/paper/1.0.1/file/a5hk.paper-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "a5hk-tabulate": {
         "cargoLocks": null,
@@ -12894,11 +12894,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nY6s0XpksJX1TCvhJPVakyjDYgbNnzrOt23XrelnKjo=",
+            "sha256": "sha256-pszgilsSAedurFgY1g6Gm0n1QTgl6WGinuyMmFaFFvc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.108.3/file/dendron.nightly-0.108.3.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.108.4/file/dendron.nightly-0.108.4.vsix"
         },
-        "version": "0.108.3"
+        "version": "0.108.4"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -20057,11 +20057,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20532,11 +20532,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -30773,9 +30773,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
