@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "4cd8f4a94cad5bc5e8fe8c456c87eefbcf692a84";
+    version = "2f2680be3ccf90171dfcaec4f0aefed6ab45059f";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "4cd8f4a94cad5bc5e8fe8c456c87eefbcf692a84";
+      rev = "2f2680be3ccf90171dfcaec4f0aefed6ab45059f";
       fetchSubmodules = false;
-      sha256 = "sha256-e8kyRLhS1LAsrCBk0gI1UCDPnO+jwgq5oPIWtZgMRE8=";
+      sha256 = "sha256-p/d0ISLn5wVD9Glh4BS2zAPdZWRLG0NnRUjiCI6tOEM=";
     });
   };
   cinny-bin = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a510fb5d207eb9dde0f4aad77df252199cd2c717";
+    version = "90e0d0bb7079ec9159fc471a04fccc8af059cd7c";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a510fb5d207eb9dde0f4aad77df252199cd2c717";
+      rev = "90e0d0bb7079ec9159fc471a04fccc8af059cd7c";
       fetchSubmodules = false;
-      sha256 = "sha256-l7TCF1Xj8DGCPdIcsyuqGy/hI0kvIFSC83C/M1FG5xc=";
+      sha256 = "sha256-70Wd1CCcClNOzlJuzIBLXhvRqJcjE05m4RWu18p0S0g=";
     });
   };
   revanced-cli = {
