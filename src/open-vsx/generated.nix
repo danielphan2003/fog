@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1321";
+    version = "31.0.1322";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1321/file/Prisma.prisma-insider-31.0.1321.vsix";
-      sha256 = "sha256-w4Q5sI3aF51w0mmRXgNzEQi5kz+yopAKHDHGLIsASX8=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1322/file/Prisma.prisma-insider-31.0.1322.vsix";
+      sha256 = "sha256-5bXTHNxUHc3IlQtUm2iDCc+nC92mVRNs4cGclEOS/FA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11055,10 +11055,10 @@
   };
   idleberg-nsis-plugins = {
     pname = "idleberg-nsis-plugins";
-    version = "3.51.2";
+    version = "3.51.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/idleberg/nsis/3.51.2/file/idleberg.nsis-3.51.2.vsix";
-      sha256 = "sha256-2F5JSoQ3DYMIM0TvuzeXPEn12N7GS7gfwS59zaMC7UU=";
+      url = "https://open-vsx.org/api/idleberg/nsis/3.51.3/file/idleberg.nsis-3.51.3.vsix";
+      sha256 = "sha256-2QP8YxRE5+wHIHiFrGvJfQ1IKkvp6k+rZG1fcNAmHLU=";
     };
     license = "MIT OR GPL-2.0";
     name = "nsis-plugins";
@@ -13191,10 +13191,10 @@
   };
   lifeart-vscode-ember-unstable = {
     pname = "lifeart-vscode-ember-unstable";
-    version = "3.0.44";
+    version = "3.0.45";
     src = fetchurl {
-      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.44/file/lifeart.vscode-ember-unstable-3.0.44.vsix";
-      sha256 = "sha256-OOTNNEhQRyLE7tyBNsvnhZ6INB5DZIyX9zDu0EqlytI=";
+      url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.45/file/lifeart.vscode-ember-unstable-3.0.45.vsix";
+      sha256 = "sha256-xMAz8XqqIlwx83KzmMK01X85QG2CTkUUuSttq1vbCRA=";
     };
     license = "MIT";
     name = "vscode-ember-unstable";
@@ -19457,8 +19457,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
