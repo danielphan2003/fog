@@ -3495,10 +3495,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.1719";
+    version = "2022.8.1817";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1719/file/Slint.slint-nightly-2022.8.1719.vsix";
-      sha256 = "sha256-sYcmNdM/JA6JzxbKpmH/bByNai4pSmU34Yht+fZzFnM=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1817/file/Slint.slint-nightly-2022.8.1817.vsix";
+      sha256 = "sha256-qrjD2iOWZbnsJ5E0LgBRv15cDWUPzPDPhlUM3iFGrd8=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -10229,8 +10229,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -10335,10 +10335,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.5.5";
+    version = "1.5.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.5/file/halcyontechltd.code-for-ibmi-1.5.5.vsix";
-      sha256 = "sha256-b0iBosfbO3OWFkl4r11hL8sMcFADM48K6H04C+Rrlqw=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.6/file/halcyontechltd.code-for-ibmi-1.5.6.vsix";
+      sha256 = "sha256-R7XX/PADappFtDafp3W4+OfX424n6/NU/jiyd7vGP4U=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -15123,10 +15123,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.9.20220817";
+    version = "4.9.20220818";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220817/file/ms-vscode.vscode-typescript-next-4.9.20220817.vsix";
-      sha256 = "sha256-gk0YdJaPG4NA6gWd8hl7jPWssBcg6KY/eOceWW+Tv/k=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220818/file/ms-vscode.vscode-typescript-next-4.9.20220818.vsix";
+      sha256 = "sha256-i0KHCVnSx7ke5yuOfKtxdKGA6ugx2JpfSOnVxpoN3JY=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -15411,10 +15411,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.20";
+    version = "1.1.22";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.20/file/mutable-ai.mutable-ai-1.1.20.vsix";
-      sha256 = "sha256-ZImq9p0K62KwJNgTryTiUzKLYb03HNf3OfxJUJlFpqA=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.22/file/mutable-ai.mutable-ai-1.1.22.vsix";
+      sha256 = "sha256-05ZNY6l0uAyUtwNfei5+cz6Hcd8RLCecAl58KUPaBkc=";
     };
     license = "";
     name = "mutable-ai";
@@ -18999,10 +18999,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
