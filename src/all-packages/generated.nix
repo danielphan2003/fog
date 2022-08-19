@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "a417980a81c1b0ec97a0891e11b5b893c9dcce55";
+    version = "4cd8f4a94cad5bc5e8fe8c456c87eefbcf692a84";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "a417980a81c1b0ec97a0891e11b5b893c9dcce55";
+      rev = "4cd8f4a94cad5bc5e8fe8c456c87eefbcf692a84";
       fetchSubmodules = false;
-      sha256 = "sha256-qIHpDaEUgFfwC9O5K3s9iAl7u+j82g5R5Kq1qxO9q+c=";
+      sha256 = "sha256-e8kyRLhS1LAsrCBk0gI1UCDPnO+jwgq5oPIWtZgMRE8=";
     });
   };
   cinny-bin = {
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "033057270c79fd67bb25e72d361565185a77d367";
+    version = "700715be4ec563a6ca7a194647092494d29fb438";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "033057270c79fd67bb25e72d361565185a77d367";
+      rev = "700715be4ec563a6ca7a194647092494d29fb438";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-4+F355fTuUL1eFWbJ4UP++nRjeJlsWeNbqB+0imZxdA=";
+      sha256 = "sha256-hzWhgwFUYrYQEqsYH6OZH7X5VyV6b7ol9065Gqt0+BY=";
     };
   };
   flyingfox = {
@@ -792,16 +792,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "2c32794acf17eb76b0c4a1d7d7b4da6e2d7dd32c";
+    version = "4d610ac3e6d25f17146d3a18170291b3d26d7a78";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "2c32794acf17eb76b0c4a1d7d7b4da6e2d7dd32c";
+      rev = "4d610ac3e6d25f17146d3a18170291b3d26d7a78";
       fetchSubmodules = false;
-      sha256 = "sha256-huyZHATcnPO4SOH5VJGlPnwtbsoRQbsFO1u/GXFypAM=";
+      sha256 = "sha256-jlM4SOoSrxsfbNHljHjEJbOzFBCb6xv4hdaI3P2Pm5E=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-2c32794acf17eb76b0c4a1d7d7b4da6e2d7dd32c/Cargo.lock;
+      lockFile = ./playit-agent-4d610ac3e6d25f17146d3a18170291b3d26d7a78/Cargo.lock;
       outputHashes = {
         "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
       };
