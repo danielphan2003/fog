@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -9930,8 +9930,8 @@ fetch.url = "https://open-vsx.org/api/Dart-Code/flutter/3.46.0/file/Dart-Code.fl
 passthru = { publisher = "Dart-Code", name = "flutter", description = "Flutter support and debugger for Visual Studio Code.", license = "MIT" }
 
 [PKief-material-icon-theme]
-src.manual = "4.19.0" # PKief.material-icon-theme
-fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.19.0/file/PKief.material-icon-theme-4.19.0.vsix" # PKief.material-icon-theme
+src.manual = "4.20.0" # PKief.material-icon-theme
+fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKief.material-icon-theme-4.20.0.vsix" # PKief.material-icon-theme
 passthru = { publisher = "PKief", name = "material-icon-theme", description = "Material Design Icons for Visual Studio Code", license = "MIT" }
 
 [redhat-ansible]
@@ -9997,6 +9997,7 @@ passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS c
 src.manual = "0.1.0" # arm.embedded-debug
 fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix" # arm.embedded-debug
 passthru = { publisher = "arm", name = "embedded-debug", description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)", license = "" }
+
 
 
 

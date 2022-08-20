@@ -2871,10 +2871,10 @@
   };
   PKief-material-icon-theme = {
     pname = "PKief-material-icon-theme";
-    version = "4.19.0";
+    version = "4.20.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.19.0/file/PKief.material-icon-theme-4.19.0.vsix";
-      sha256 = "sha256-RBXs7S0iyuutUn11hFqc0VyTs4NFDFLBRvY0u8id86s=";
+      url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKief.material-icon-theme-4.20.0.vsix";
+      sha256 = "sha256-OfFN//lnRPouREucEJKpKfXcyCN/nnZtH5oD23B4YX0=";
     };
     license = "MIT";
     name = "material-icon-theme";
@@ -19457,8 +19457,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
