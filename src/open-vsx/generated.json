@@ -373,11 +373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3tCf3EKOgu47L13qwaar/IqVw4E33VFWpxuCMgVZ5I4=",
+            "sha256": "sha256-E/4G8Er9kPJGH+01zMTfl7yusKOg6Za7LWS3uwVAu0s=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.1/file/BeardedBear.beardedicons-0.27.1.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.28.0/file/BeardedBear.beardedicons-0.28.0.vsix"
         },
-        "version": "0.27.1"
+        "version": "0.28.0"
     },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
@@ -12932,11 +12932,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pszgilsSAedurFgY1g6Gm0n1QTgl6WGinuyMmFaFFvc=",
+            "sha256": "sha256-xV90dW/bMnL53sA8oieRUYuIG3J3s8pCtiXWO7YJ3gk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/dendron/nightly/0.108.4/file/dendron.nightly-0.108.4.vsix"
+            "url": "https://open-vsx.org/api/dendron/nightly/0.108.5/file/dendron.nightly-0.108.5.vsix"
         },
-        "version": "0.108.4"
+        "version": "0.108.5"
     },
     "denoland-vscode-deno-canary": {
         "cargoLocks": null,
@@ -20893,11 +20893,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xMAz8XqqIlwx83KzmMK01X85QG2CTkUUuSttq1vbCRA=",
+            "sha256": "sha256-HvAytyVbd2SbJ0ywKQOzSW4miJadfzWto3LZnStEu58=",
             "type": "url",
-            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.45/file/lifeart.vscode-ember-unstable-3.0.45.vsix"
+            "url": "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.46/file/lifeart.vscode-ember-unstable-3.0.46.vsix"
         },
-        "version": "3.0.45"
+        "version": "3.0.46"
     },
     "lifeart-vscode-glimmer-syntax": {
         "cargoLocks": null,

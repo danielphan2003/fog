@@ -9550,8 +9550,8 @@ fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file
 passthru = { publisher = "ModyQyW", name = "vscode-uni-app-snippets", description = "uni-app 基本能力代码片段。", license = "MIT" }
 
 [BeardedBear-beardedicons]
-src.manual = "0.27.1" # BeardedBear.beardedicons
-fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.27.1/file/BeardedBear.beardedicons-0.27.1.vsix" # BeardedBear.beardedicons
+src.manual = "0.28.0" # BeardedBear.beardedicons
+fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.28.0/file/BeardedBear.beardedicons-0.28.0.vsix" # BeardedBear.beardedicons
 passthru = { publisher = "BeardedBear", name = "beardedicons", description = "The icons with a long beard.", license = "MIT" }
 
 [ModyQyW-vscode-uni-ui-snippets]
@@ -9645,8 +9645,8 @@ fetch.url = "https://open-vsx.org/api/koog1000/fossil/0.1.8/file/koog1000.fossil
 passthru = { publisher = "koog1000", name = "fossil", description = "Integrated Fossil source control", license = "MIT" }
 
 [lifeart-vscode-ember-unstable]
-src.manual = "3.0.45" # lifeart.vscode-ember-unstable
-fetch.url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.45/file/lifeart.vscode-ember-unstable-3.0.45.vsix" # lifeart.vscode-ember-unstable
+src.manual = "3.0.46" # lifeart.vscode-ember-unstable
+fetch.url = "https://open-vsx.org/api/lifeart/vscode-ember-unstable/3.0.46/file/lifeart.vscode-ember-unstable-3.0.46.vsix" # lifeart.vscode-ember-unstable
 passthru = { publisher = "lifeart", name = "vscode-ember-unstable", description = "(aka uELS, Unstable Ember Language Server), Provides features like auto complete, goto definition and diagnostics for Ember.js projects", license = "MIT" }
 
 [t-codespaces-workspace-manager]
@@ -9720,8 +9720,8 @@ fetch.url = "https://open-vsx.org/api/njzy/stats-bar/0.5.2/file/njzy.stats-bar-0
 passthru = { publisher = "njzy", name = "stats-bar", description = "A status bar to show system stats", license = "MIT" }
 
 [dendron-nightly]
-src.manual = "0.108.4" # dendron.nightly
-fetch.url = "https://open-vsx.org/api/dendron/nightly/0.108.4/file/dendron.nightly-0.108.4.vsix" # dendron.nightly
+src.manual = "0.108.5" # dendron.nightly
+fetch.url = "https://open-vsx.org/api/dendron/nightly/0.108.5/file/dendron.nightly-0.108.5.vsix" # dendron.nightly
 passthru = { publisher = "dendron", name = "nightly", description = "This is a prerelease version of Dendron that may be unstable. Please install the main dendron extension instead.", license = "AGPL-3.0" }
 
 [rangav-vscode-thunder-client]
@@ -9997,6 +9997,7 @@ passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS c
 src.manual = "0.1.0" # arm.embedded-debug
 fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix" # arm.embedded-debug
 passthru = { publisher = "arm", name = "embedded-debug", description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)", license = "" }
+
 
 
 
