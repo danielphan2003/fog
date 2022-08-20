@@ -5200,8 +5200,8 @@ fetch.url = "https://open-vsx.org/api/dbaeumer/vscode-eslint/2.2.6/file/dbaeumer
 passthru = { publisher = "dbaeumer", name = "vscode-eslint", description = "Integrates ESLint JavaScript into VS Code.", license = "MIT" }
 
 [julialang-language-julia-insider]
-src.manual = "1.7.4" # julialang.language-julia-insider
-fetch.url = "https://open-vsx.org/api/julialang/language-julia/1.7.4/file/julialang.language-julia-1.7.4.vsix" # julialang.language-julia-insider
+src.manual = "1.7.5" # julialang.language-julia-insider
+fetch.url = "https://open-vsx.org/api/julialang/language-julia/1.7.5/file/julialang.language-julia-1.7.5.vsix" # julialang.language-julia-insider
 passthru = { publisher = "julialang", name = "language-julia-insider", description = "Julia Language Support (Insider)", license = "MIT" }
 
 [Gruntfuggly-triggertaskonsave]
@@ -9997,6 +9997,7 @@ passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS c
 src.manual = "0.1.0" # arm.embedded-debug
 fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix" # arm.embedded-debug
 passthru = { publisher = "arm", name = "embedded-debug", description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)", license = "" }
+
 
 
 
