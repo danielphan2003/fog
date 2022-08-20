@@ -7685,8 +7685,8 @@ fetch.url = "https://open-vsx.org/api/RomainMenke/csstools-design-tokens/1.0.2/f
 passthru = { publisher = "RomainMenke", name = "csstools-design-tokens", description = "Beta extension to enable auto complete and IDE support for CSSTools Design Tokens", license = "MIT" }
 
 [alygin-vscode-tlaplus-nightly]
-src.manual = "2022.5.2815" # alygin.vscode-tlaplus-nightly
-fetch.url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix" # alygin.vscode-tlaplus-nightly
+src.manual = "2022.8.1917" # alygin.vscode-tlaplus-nightly
+fetch.url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.8.1917/file/alygin.vscode-tlaplus-nightly-2022.8.1917.vsix" # alygin.vscode-tlaplus-nightly
 passthru = { publisher = "alygin", name = "vscode-tlaplus-nightly", description = "TLA+ language support (Nightly)", license = "MIT" }
 
 [idleberg-haskell-nsis]
@@ -8820,8 +8820,8 @@ fetch.url = "https://open-vsx.org/api/hideoo/trailing/0.1.0/file/hideoo.trailing
 passthru = { publisher = "hideoo", name = "trailing", description = "Toggle trailing symbols: commas, semicolons and colons.", license = "MIT" }
 
 [nickmillerdev-pytest-fixtures]
-src.manual = "0.2.3" # nickmillerdev.pytest-fixtures
-fetch.url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.3/file/nickmillerdev.pytest-fixtures-0.2.3.vsix" # nickmillerdev.pytest-fixtures
+src.manual = "0.2.4" # nickmillerdev.pytest-fixtures
+fetch.url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.4/file/nickmillerdev.pytest-fixtures-0.2.4.vsix" # nickmillerdev.pytest-fixtures
 passthru = { publisher = "nickmillerdev", name = "pytest-fixtures", description = "Pytest fixtures support for vscode", license = "MIT" }
 
 [Brenek-kotlin-for-frc]
@@ -9070,8 +9070,8 @@ fetch.url = "https://open-vsx.org/api/antfu/iconify/0.3.4/file/antfu.iconify-0.3
 passthru = { publisher = "antfu", name = "iconify", description = "Intelligent Iconify previewing and searching for VS Code", license = "MIT" }
 
 [Ionide-Ionide-fsharp]
-src.manual = "7.0.0" # Ionide.Ionide-fsharp
-fetch.url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.0.0/file/Ionide.Ionide-fsharp-7.0.0.vsix" # Ionide.Ionide-fsharp
+src.manual = "7.1.0" # Ionide.Ionide-fsharp
+fetch.url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.1.0/file/Ionide.Ionide-fsharp-7.1.0.vsix" # Ionide.Ionide-fsharp
 passthru = { publisher = "Ionide", name = "Ionide-fsharp", description = "F# Language Support, powered by FsAutoComplete", license = "MIT" }
 
 [ggbecker-content-navigator]
@@ -9997,6 +9997,7 @@ passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS c
 src.manual = "0.1.0" # arm.embedded-debug
 fetch.url = "https://open-vsx.org/api/arm/embedded-debug/0.1.0/file/arm.embedded-debug-0.1.0.vsix" # arm.embedded-debug
 passthru = { publisher = "arm", name = "embedded-debug", description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)", license = "" }
+
 
 
 

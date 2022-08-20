@@ -2729,11 +2729,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-QrWYprB9Rf1umu6asuaFRHM5mDKogc/mNNN8TMeNIOY=",
+            "sha256": "sha256-atwoJsfB9chtb7Ho1Hj5tGIkEzek3WvDJ96ZdBhCn7w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.0.0/file/Ionide.Ionide-fsharp-7.0.0.vsix"
+            "url": "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.1.0/file/Ionide.Ionide-fsharp-7.1.0.vsix"
         },
-        "version": "7.0.0"
+        "version": "7.1.0"
     },
     "IronGeek-vscode-darklight": {
         "cargoLocks": null,
@@ -7821,11 +7821,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-j3inzI5Sp038Yc3gAhBlOKTJcVAU/kAPf6FeemkMZuI=",
+            "sha256": "sha256-iGmg7qmUpwNkI8kYkxNoDFaMHx59ORovjWXDlk1nscg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix"
+            "url": "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.8.1917/file/alygin.vscode-tlaplus-nightly-2022.8.1917.vsix"
         },
-        "version": "2022.5.2815"
+        "version": "2022.8.1917"
     },
     "amazonwebservices-aws-toolkit-vscode": {
         "cargoLocks": null,
@@ -24902,11 +24902,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Xy4euqz43whReUSaEriDSxIbHHs3VGISF+e3IZz+Pns=",
+            "sha256": "sha256-Nf93H1/NsHdCWmdPc0S+imud+mdmE3PLinOln6FyGZM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.3/file/nickmillerdev.pytest-fixtures-0.2.3.vsix"
+            "url": "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.4/file/nickmillerdev.pytest-fixtures-0.2.4.vsix"
         },
-        "version": "0.2.3"
+        "version": "0.2.4"
     },
     "nico-castell-linux-desktop-file": {
         "cargoLocks": null,

@@ -1719,10 +1719,10 @@
   };
   Ionide-Ionide-fsharp = {
     pname = "Ionide-Ionide-fsharp";
-    version = "7.0.0";
+    version = "7.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.0.0/file/Ionide.Ionide-fsharp-7.0.0.vsix";
-      sha256 = "sha256-QrWYprB9Rf1umu6asuaFRHM5mDKogc/mNNN8TMeNIOY=";
+      url = "https://open-vsx.org/api/Ionide/Ionide-fsharp/7.1.0/file/Ionide.Ionide-fsharp-7.1.0.vsix";
+      sha256 = "sha256-atwoJsfB9chtb7Ho1Hj5tGIkEzek3WvDJ96ZdBhCn7w=";
     };
     license = "MIT";
     name = "Ionide-fsharp";
@@ -4935,10 +4935,10 @@
   };
   alygin-vscode-tlaplus-nightly = {
     pname = "alygin-vscode-tlaplus-nightly";
-    version = "2022.5.2815";
+    version = "2022.8.1917";
     src = fetchurl {
-      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.5.2815/file/alygin.vscode-tlaplus-nightly-2022.5.2815.vsix";
-      sha256 = "sha256-j3inzI5Sp038Yc3gAhBlOKTJcVAU/kAPf6FeemkMZuI=";
+      url = "https://open-vsx.org/api/alygin/vscode-tlaplus-nightly/2022.8.1917/file/alygin.vscode-tlaplus-nightly-2022.8.1917.vsix";
+      sha256 = "sha256-iGmg7qmUpwNkI8kYkxNoDFaMHx59ORovjWXDlk1nscg=";
     };
     license = "MIT";
     name = "vscode-tlaplus-nightly";
@@ -15723,10 +15723,10 @@
   };
   nickmillerdev-pytest-fixtures = {
     pname = "nickmillerdev-pytest-fixtures";
-    version = "0.2.3";
+    version = "0.2.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.3/file/nickmillerdev.pytest-fixtures-0.2.3.vsix";
-      sha256 = "sha256-Xy4euqz43whReUSaEriDSxIbHHs3VGISF+e3IZz+Pns=";
+      url = "https://open-vsx.org/api/nickmillerdev/pytest-fixtures/0.2.4/file/nickmillerdev.pytest-fixtures-0.2.4.vsix";
+      sha256 = "sha256-Nf93H1/NsHdCWmdPc0S+imud+mdmE3PLinOln6FyGZM=";
     };
     license = "MIT";
     name = "pytest-fixtures";
