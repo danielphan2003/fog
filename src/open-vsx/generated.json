@@ -5541,11 +5541,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qrjD2iOWZbnsJ5E0LgBRv15cDWUPzPDPhlUM3iFGrd8=",
+            "sha256": "sha256-pCGJOCVIzK+NB6tPz8R1B8HnZmF9y5nKTh64LUh0uRo=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1817/file/Slint.slint-nightly-2022.8.1817.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.1917/file/Slint.slint-nightly-2022.8.1917.vsix"
         },
-        "version": "2022.8.1817"
+        "version": "2022.8.1917"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
