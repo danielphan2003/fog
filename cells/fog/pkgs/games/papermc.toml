@@ -1,3 +1,4 @@
+## papermc
 
 [papermc-1_8_8]
 src.cmd = " fog papermc-updater 1.8.8 "
