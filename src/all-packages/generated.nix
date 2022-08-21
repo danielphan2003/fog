@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "1f697b5ff1be14387a5dad137b16b0f1bf23802c";
+    version = "a32527d1df71caf08ab251b0533863a634164448";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "1f697b5ff1be14387a5dad137b16b0f1bf23802c";
+      rev = "a32527d1df71caf08ab251b0533863a634164448";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-QFo6n5v1VMd+HSi3+wFyXZG72NIy2mZRZ9AxziTPlHM=";
+      sha256 = "sha256-fi6+7/0QQvSVAWyExSJ6orf7Dzd27y0XAV8/W11pq8w=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-1f697b5ff1be14387a5dad137b16b0f1bf23802c/Cargo.lock;
+      lockFile = ./asusctl-a32527d1df71caf08ab251b0533863a634164448/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "67f5a76f166a6cf8a5984c4956f89badbd05a376";
+    version = "959f901c45b26aa813f7a891b12dfb2700d618d7";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "67f5a76f166a6cf8a5984c4956f89badbd05a376";
+      rev = "959f901c45b26aa813f7a891b12dfb2700d618d7";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-uPC/XKTZSMlPD4gX6psxTmSD+UEaz4stJw/n0EnJbdc=";
+      sha256 = "sha256-e6/JXynl/FBgvMu8l0fHFn4FdlY7Vv/SiqiNR0LD2Gg=";
     };
   };
   flyingfox = {
