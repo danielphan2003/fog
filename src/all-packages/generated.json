@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-45641c928d15cff618fb7b496cab73aecc80d316/Cargo.lock",
+                "./asusctl-fa1feaf9d938c21c12c2cbf3ba428d80c9fc0678/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "45641c928d15cff618fb7b496cab73aecc80d316",
-            "sha256": "sha256-8ug9+oBHyB7AUUJKfdVmHMVKU4G2xq1hNtR4UuCQbOM=",
+            "rev": "fa1feaf9d938c21c12c2cbf3ba428d80c9fc0678",
+            "sha256": "sha256-MVPbVSGY3OMfIfb4WOfJe90Io0cFn1b9uyl6m/2g6sg=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "45641c928d15cff618fb7b496cab73aecc80d316"
+        "version": "fa1feaf9d938c21c12c2cbf3ba428d80c9fc0678"
     },
     "avizo": {
         "cargoLocks": null,
@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "494f383f1a8ba750dbe0089c2fa7b55130efd66c",
-            "sha256": "sha256-EFuXze5yqIS2ujDD3f4OE2xK8vsjTFOTwrAFiwUOE+Y=",
+            "rev": "9bdbc1b27714af96f351df59a3fea95472b8a97f",
+            "sha256": "sha256-OIMDutCWbpcrKkD7z00WvyXh9hvhjN6GJR9ZD5cvXiw=",
             "type": "github"
         },
-        "version": "494f383f1a8ba750dbe0089c2fa7b55130efd66c"
+        "version": "9bdbc1b27714af96f351df59a3fea95472b8a97f"
     },
     "caddy": {
         "cargoLocks": null,
@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-25105c7c4f50d4f65ab0fd8a56e00941bc077efa/Cargo.lock",
+                "./eww-6657ef493efe5268e45103eb1a250b66d088e2b3/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "25105c7c4f50d4f65ab0fd8a56e00941bc077efa",
-            "sha256": "sha256-K8v4f0RInKTgPg6cEjDko7cZqi8mWWLRZN98w8HUG2c=",
+            "rev": "6657ef493efe5268e45103eb1a250b66d088e2b3",
+            "sha256": "sha256-nnqipai8+bpAciwJayFVOCENMngJp99fiAHMzOpKSEc=",
             "type": "github"
         },
-        "version": "25105c7c4f50d4f65ab0fd8a56e00941bc077efa"
+        "version": "6657ef493efe5268e45103eb1a250b66d088e2b3"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "ebe07c66567eae0f564288296f7d2f0f6b92e1f8",
-            "sha256": "sha256-InrlPDyM6HIM5UjeZgCwOm5OP2HS9hCemhZgsXmr+rs=",
+            "rev": "3e9a8a7bc8952c086f41eb4ecf6d031368ad2487",
+            "sha256": "sha256-8xT0dZBaBN9sg0uQ/TzJHL7tdaXUwJxOWAGT6z9pWj8=",
             "type": "github"
         },
-        "version": "ebe07c66567eae0f564288296f7d2f0f6b92e1f8"
+        "version": "3e9a8a7bc8952c086f41eb4ecf6d031368ad2487"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1140,11 +1140,11 @@
             "name": null,
             "owner": "Admicos",
             "repo": "minecraft-wayland",
-            "rev": "086b2457e8b769d6af44917759403f76b8b3b90e",
-            "sha256": "sha256-WvDS1z33/j8uXMNFGqZ8D0kRnCqhKzgtXdMVOoo9vxg=",
+            "rev": "370ce5b95e3ae9bc4618fb45113bc641fbb13867",
+            "sha256": "sha256-RPRg6Gd7N8yyb305V607NTC1kUzvyKiWsh6QlfHW+JE=",
             "type": "github"
         },
-        "version": "086b2457e8b769d6af44917759403f76b8b3b90e"
+        "version": "370ce5b95e3ae9bc4618fb45113bc641fbb13867"
     },
     "netdata": {
         "cargoLocks": null,
