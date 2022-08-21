@@ -696,11 +696,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3ozon7UrGfI+MBpKNISMXOGxcXKK8FDokUB/N+vK2OU=",
+            "sha256": "sha256-jl6CzLcvNthW8uLLBvqj3JZ3Eu0nm0RovxV7MIsRckY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.8.3/file/CL.eide-3.8.3.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.8.4/file/CL.eide-3.8.4.vsix"
         },
-        "version": "3.8.3"
+        "version": "3.8.4"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -20608,11 +20608,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -32255,11 +32255,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-t2qhJhrR7VJdYv2ZM+9YxmJ6sboj6hP5AbYGshftC30=",
+            "sha256": "sha256-18yT17MxqmgOSmOgzTD5/BnRorS3IU31uRULkeYgM70=",
             "type": "url",
-            "url": "https://open-vsx.org/api/thiht/vscode-venom/0.0.4/file/thiht.vscode-venom-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/thiht/vscode-venom/1.0.0/file/thiht.vscode-venom-1.0.0.vsix"
         },
-        "version": "0.0.4"
+        "version": "1.0.0"
     },
     "thingalon-pony-ssh": {
         "cargoLocks": null,

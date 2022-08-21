@@ -435,10 +435,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.3";
+    version = "3.8.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.3/file/CL.eide-3.8.3.vsix";
-      sha256 = "sha256-3ozon7UrGfI+MBpKNISMXOGxcXKK8FDokUB/N+vK2OU=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.4/file/CL.eide-3.8.4.vsix";
+      sha256 = "sha256-jl6CzLcvNthW8uLLBvqj3JZ3Eu0nm0RovxV7MIsRckY=";
     };
     license = "MIT";
     name = "eide";
@@ -13011,10 +13011,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -20367,10 +20367,10 @@
   };
   thiht-vscode-venom = {
     pname = "thiht-vscode-venom";
-    version = "0.0.4";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/thiht/vscode-venom/0.0.4/file/thiht.vscode-venom-0.0.4.vsix";
-      sha256 = "sha256-t2qhJhrR7VJdYv2ZM+9YxmJ6sboj6hP5AbYGshftC30=";
+      url = "https://open-vsx.org/api/thiht/vscode-venom/1.0.0/file/thiht.vscode-venom-1.0.0.vsix";
+      sha256 = "sha256-18yT17MxqmgOSmOgzTD5/BnRorS3IU31uRULkeYgM70=";
     };
     license = "MIT";
     name = "vscode-venom";
