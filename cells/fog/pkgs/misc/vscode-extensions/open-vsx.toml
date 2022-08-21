@@ -9090,8 +9090,8 @@ fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.5.0/file/CodeStre
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
-src.manual = "0.0.4" # jeanp413.open-remote-ssh
-fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.4/file/jeanp413.open-remote-ssh-0.0.4.vsix" # jeanp413.open-remote-ssh
+src.manual = "0.0.5" # jeanp413.open-remote-ssh
+fetch.url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.5/file/jeanp413.open-remote-ssh-0.0.5.vsix" # jeanp413.open-remote-ssh
 passthru = { publisher = "jeanp413", name = "open-remote-ssh", description = "Use any remote machine with a SSH server as your development environment.", license = "MIT" }
 
 [oraichain-cosmwasm-ide]
@@ -10021,4 +10021,5 @@ passthru = { publisher = "foretag", name = "development-toolkit", description = 
 src.manual = "1.2.3" # dev01d.devoid-theme
 fetch.url = "https://open-vsx.org/api/dev01d/devoid-theme/1.2.3/file/dev01d.devoid-theme-1.2.3.vsix" # dev01d.devoid-theme
 passthru = { publisher = "dev01d", name = "devoid-theme", description = "A dark theme for VS Code with italics support", license = "MIT" }
+
 

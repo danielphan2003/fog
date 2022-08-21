@@ -11751,10 +11751,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.4";
+    version = "0.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.4/file/jeanp413.open-remote-ssh-0.0.4.vsix";
-      sha256 = "sha256-63sDOF0ia4Eky+E3uJ1K9wZuBHJg58ygU5cygfU/qQ0=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.5/file/jeanp413.open-remote-ssh-0.0.5.vsix";
+      sha256 = "sha256-j8nu0vvdLgIvxVOc7D9pC7kPPOEFuDTzPQ+CG/scqrA=";
     };
     license = "MIT";
     name = "open-remote-ssh";

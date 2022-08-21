@@ -18613,11 +18613,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-63sDOF0ia4Eky+E3uJ1K9wZuBHJg58ygU5cygfU/qQ0=",
+            "sha256": "sha256-j8nu0vvdLgIvxVOc7D9pC7kPPOEFuDTzPQ+CG/scqrA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.4/file/jeanp413.open-remote-ssh-0.0.4.vsix"
+            "url": "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.5/file/jeanp413.open-remote-ssh-0.0.5.vsix"
         },
-        "version": "0.0.4"
+        "version": "0.0.5"
     },
     "jeanp413-smoketest-check-web": {
         "cargoLocks": null,
