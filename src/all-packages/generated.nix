@@ -716,13 +716,13 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "e6799ae026108580a52762ba23800c259a299752";
+    version = "d92502d8d25bdd25d0c0c203880432c43f49b3ab";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "ntfs2btrfs";
-      rev = "e6799ae026108580a52762ba23800c259a299752";
+      rev = "d92502d8d25bdd25d0c0c203880432c43f49b3ab";
       fetchSubmodules = false;
-      sha256 = "sha256-NCk1fd5OK4+uEVtBnkMEnl625IFZouL98jQmtZ2PJx0=";
+      sha256 = "sha256-b7J27+7fhLcSoyO3D3NhTaUIr0uRiOM3fOotrq3KfNc=";
     });
   };
   nwg-drawer = {
@@ -1408,13 +1408,13 @@
   };
   yubikey-guide = {
     pname = "yubikey-guide";
-    version = "dc29279197bbf866b63976395d2c69b1a95ad088";
+    version = "52d128789563f997d117f0fcc855b366d89a47a6";
     src = fetchFromGitHub ({
       owner = "drduh";
       repo = "YubiKey-Guide";
-      rev = "dc29279197bbf866b63976395d2c69b1a95ad088";
+      rev = "52d128789563f997d117f0fcc855b366d89a47a6";
       fetchSubmodules = false;
-      sha256 = "sha256-MMcfiJ31SsrJdPCYn+5MuUxqLJzhY4VeqOS02T9AlL8=";
+      sha256 = "sha256-zP9PIcheOKYbGG8X6EZeeQVIccERz1Gp+mK0b1XueSc=";
     });
   };
   zoom-us = {
