@@ -365,11 +365,6 @@ src.github_tag = "revanced/revanced-integrations"
 src.prefix = "v"
 fetch.url = "https://github.com/revanced/revanced-integrations/releases/download/v$ver/app-release-unsigned.apk"
 
-[revanced-patches-dex]
-src.github_tag = "revanced/revanced-patches"
-src.prefix = "v"
-fetch.url = "https://github.com/revanced/revanced-patches/releases/download/v$ver/revanced-patches-$ver.dex"
-
 [revanced-patches-jar]
 src.github_tag = "revanced/revanced-patches"
 src.prefix = "v"
