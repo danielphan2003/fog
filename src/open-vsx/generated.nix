@@ -9553,6 +9553,18 @@
     description = "Manage monorepos with multi-root workspaces. Supports Lerna, Yarn, Pnpm, Rushjs and recursive package directories";
     publisher = "folke";
   };
+  foretag-development-toolkit = {
+    pname = "foretag-development-toolkit";
+    version = "0.1.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.1/file/foretag.development-toolkit-0.1.1.vsix";
+      sha256 = "sha256-onw3WpzYmfqBYAtT0igGSELW+9hr/NBMO3BHhJimHI8=";
+    };
+    license = "";
+    name = "development-toolkit";
+    description = "Foretag themes, tools & extensions for VS Code";
+    publisher = "foretag";
+  };
   formulahendry-auto-close-tag = {
     pname = "formulahendry-auto-close-tag";
     version = "0.5.14";
@@ -19457,8 +19469,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
