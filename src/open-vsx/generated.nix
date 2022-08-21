@@ -16947,10 +16947,10 @@
   };
   pomdtr-excalidraw-editor = {
     pname = "pomdtr-excalidraw-editor";
-    version = "3.2.0";
+    version = "3.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.2.0/file/pomdtr.excalidraw-editor-3.2.0.vsix";
-      sha256 = "sha256-b+T9LbFfqIpjoDFEHSkDxxC2yX/bdWkbzJN0j/vwbbA=";
+      url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.3.0/file/pomdtr.excalidraw-editor-3.3.0.vsix";
+      sha256 = "sha256-57sG5J2BKmv70TG0M+sZbeDT8JndmO4gHJdi+pxmkwU=";
     };
     license = "MIT";
     name = "excalidraw-editor";
@@ -17943,10 +17943,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.11";
+    version = "0.2.12";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.11/file/rgherdt.scheme-lsp-0.2.11.vsix";
-      sha256 = "sha256-zXd/LZkanE2tyjEHxx7prpMHhkRAMzvDH9xlaHKlc/4=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.12/file/rgherdt.scheme-lsp-0.2.12.vsix";
+      sha256 = "sha256-4hKBXwebW5jrzS65YVEtUZ8KV4bODbIVaI6woSjT5sc=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";

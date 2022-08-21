@@ -4295,8 +4295,8 @@ fetch.url = "https://open-vsx.org/api/actboy168/tasks/0.10.0/file/actboy168.task
 passthru = { publisher = "actboy168", name = "tasks", description = "Load VSCode Tasks into Status Bar.", license = "MIT" }
 
 [pomdtr-excalidraw-editor]
-src.manual = "3.2.0" # pomdtr.excalidraw-editor
-fetch.url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.2.0/file/pomdtr.excalidraw-editor-3.2.0.vsix" # pomdtr.excalidraw-editor
+src.manual = "3.3.0" # pomdtr.excalidraw-editor
+fetch.url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.3.0/file/pomdtr.excalidraw-editor-3.3.0.vsix" # pomdtr.excalidraw-editor
 passthru = { publisher = "pomdtr", name = "excalidraw-editor", description = "Draw schemas in VS Code using Excalidraw", license = "MIT" }
 
 [cloudstudio-browser-preview-lite]
@@ -9185,8 +9185,8 @@ fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousde
 passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [rgherdt-scheme-lsp]
-src.manual = "0.2.11" # rgherdt.scheme-lsp
-fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.11/file/rgherdt.scheme-lsp-0.2.11.vsix" # rgherdt.scheme-lsp
+src.manual = "0.2.12" # rgherdt.scheme-lsp
+fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.12/file/rgherdt.scheme-lsp-0.2.12.vsix" # rgherdt.scheme-lsp
 passthru = { publisher = "rgherdt", name = "scheme-lsp", description = "An LSP-based extension for Scheme", license = "GPL-3.0" }
 
 [avast-threatlabs-yara-vscode-yls]
@@ -10021,6 +10021,7 @@ passthru = { publisher = "foretag", name = "development-toolkit", description = 
 src.manual = "1.2.3" # dev01d.devoid-theme
 fetch.url = "https://open-vsx.org/api/dev01d/devoid-theme/1.2.3/file/dev01d.devoid-theme-1.2.3.vsix" # dev01d.devoid-theme
 passthru = { publisher = "dev01d", name = "devoid-theme", description = "A dark theme for VS Code with italics support", license = "MIT" }
+
 
 
 

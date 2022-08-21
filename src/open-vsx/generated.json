@@ -26840,11 +26840,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b+T9LbFfqIpjoDFEHSkDxxC2yX/bdWkbzJN0j/vwbbA=",
+            "sha256": "sha256-57sG5J2BKmv70TG0M+sZbeDT8JndmO4gHJdi+pxmkwU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.2.0/file/pomdtr.excalidraw-editor-3.2.0.vsix"
+            "url": "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.3.0/file/pomdtr.excalidraw-editor-3.3.0.vsix"
         },
-        "version": "3.2.0"
+        "version": "3.3.0"
     },
     "potigol-potigol-language": {
         "cargoLocks": null,
@@ -28417,11 +28417,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zXd/LZkanE2tyjEHxx7prpMHhkRAMzvDH9xlaHKlc/4=",
+            "sha256": "sha256-4hKBXwebW5jrzS65YVEtUZ8KV4bODbIVaI6woSjT5sc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.11/file/rgherdt.scheme-lsp-0.2.11.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.12/file/rgherdt.scheme-lsp-0.2.12.vsix"
         },
-        "version": "0.2.11"
+        "version": "0.2.12"
     },
     "ria-elastic": {
         "cargoLocks": null,
