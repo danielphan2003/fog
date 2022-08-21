@@ -8185,6 +8185,18 @@
     description = "A beta language server client for Deno. Requires Deno 1.6 or better.";
     publisher = "denoland";
   };
+  dev01d-devoid-theme = {
+    pname = "dev01d-devoid-theme";
+    version = "1.2.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/dev01d/devoid-theme/1.2.3/file/dev01d.devoid-theme-1.2.3.vsix";
+      sha256 = "sha256-Xt2P9SUGHBSK40rlTQA8gnrcDXq50uZ8ZQfTB+KPlm8=";
+    };
+    license = "MIT";
+    name = "devoid-theme";
+    description = "A dark theme for VS Code with italics support";
+    publisher = "dev01d";
+  };
   devberto-theme-newton-next = {
     pname = "devberto-theme-newton-next";
     version = "3.0.4";
@@ -9555,10 +9567,10 @@
   };
   foretag-development-toolkit = {
     pname = "foretag-development-toolkit";
-    version = "0.1.1";
+    version = "0.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.1/file/foretag.development-toolkit-0.1.1.vsix";
-      sha256 = "sha256-onw3WpzYmfqBYAtT0igGSELW+9hr/NBMO3BHhJimHI8=";
+      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.2/file/foretag.development-toolkit-0.1.2.vsix";
+      sha256 = "sha256-oV7xI0y0GR7PCyFUrPcuzyRKYURARYz92cRl8OAKcp8=";
     };
     license = "";
     name = "development-toolkit";
@@ -10265,8 +10277,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12999,10 +13011,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19035,10 +19047,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
