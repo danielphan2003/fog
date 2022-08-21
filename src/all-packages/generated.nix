@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "033f2141efe825dc45d62e2f1bc950f08d353b4e";
+    version = "92009ef96c545d378248f75c91abd5917a7514e1";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "033f2141efe825dc45d62e2f1bc950f08d353b4e";
+      rev = "92009ef96c545d378248f75c91abd5917a7514e1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-CUHyuE5zQZ5PSZ/Y0TVukfHG8Fccv9N9/2Fj2VKdyzE=";
+      sha256 = "sha256-RmKXwPz7QTrMaoQO5LXCbNObqCAXgvLP+sJhUKM1xNA=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-033f2141efe825dc45d62e2f1bc950f08d353b4e/Cargo.lock;
+      lockFile = ./asusctl-92009ef96c545d378248f75c91abd5917a7514e1/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "fafcd8a2bcc65a770f65e7b81f9915acad4edb54";
+    version = "d48c0eb0c421c63cb7ad5fdf6c65f5b2e98fd852";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "fafcd8a2bcc65a770f65e7b81f9915acad4edb54";
+      rev = "d48c0eb0c421c63cb7ad5fdf6c65f5b2e98fd852";
       fetchSubmodules = false;
-      sha256 = "sha256-/x/5q6x/LTCVRmnwO6qv5X9wkYE6lO0usZqscQhqiAk=";
+      sha256 = "sha256-xp3zjbCeU/z5n0gszg6xq1e62n+8tn3GT2DWOsf/0ic=";
     });
   };
   caddy = {
@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "6f7934badc2f2e25ed681fea3523d6a0244dca1b";
+    version = "984fad811cec6252ad199ceac065e9576084ff79";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "6f7934badc2f2e25ed681fea3523d6a0244dca1b";
+      rev = "984fad811cec6252ad199ceac065e9576084ff79";
       fetchSubmodules = false;
-      sha256 = "sha256-htZz5PKc55d4BlxMIj7QtEkKyPnIe87OQVMOov/u0NY=";
+      sha256 = "sha256-N/8DxKSugmohnH/ST9QSJQiGZqNPev5UEB1mKaP8iLA=";
     });
   };
   cinny-bin = {
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "43429979820fe7a3e427e5415a3ad1ac36dc108d";
+    version = "e1769d8654b892a50561de3c40434b78cb115e75";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "43429979820fe7a3e427e5415a3ad1ac36dc108d";
+      rev = "e1769d8654b892a50561de3c40434b78cb115e75";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-b5+iy9H5TZswA2hkOeSBzkBBY98H19cK1tc1Qi6HZGY=";
+      sha256 = "sha256-h9CactMpRtYDxptWgaYzav/mPBcKGv0dP5wqqJyIx4E=";
     };
   };
   flyingfox = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "1b1a0259a856892c136d03fe210151b0cdeda91c";
+    version = "9513031da30861b6ab593625aebe88b811758427";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "1b1a0259a856892c136d03fe210151b0cdeda91c";
+      rev = "9513031da30861b6ab593625aebe88b811758427";
       fetchSubmodules = false;
-      sha256 = "sha256-53IFNLDXHrApH4RLjDtIzkgWxCVBpCuVrepZZJVGqeM=";
+      sha256 = "sha256-bG/bmkc23TTLzmP1WLmSpr3s5blwxysqV2m9x7gihYQ=";
     });
   };
   ibus = {
@@ -716,13 +716,13 @@
   };
   ntfs2btrfs = {
     pname = "ntfs2btrfs";
-    version = "540df1c7654aa98d2748c7afbe87179d3b84977a";
+    version = "be933ee5f3a007e49a3b632f3dc18ef1f0c2efd8";
     src = fetchFromGitHub ({
       owner = "maharmstone";
       repo = "ntfs2btrfs";
-      rev = "540df1c7654aa98d2748c7afbe87179d3b84977a";
+      rev = "be933ee5f3a007e49a3b632f3dc18ef1f0c2efd8";
       fetchSubmodules = false;
-      sha256 = "sha256-YFJAku4tfUP4BGgdJ/4l07tPDGRp7JEi6Qq8V1JdtnE=";
+      sha256 = "sha256-ecXYr4k/GkevKia1cHids5QKonznLM1/duXjXkp3Vw4=";
     });
   };
   nwg-drawer = {
@@ -792,16 +792,16 @@
   };
   playit-agent = {
     pname = "playit-agent";
-    version = "6273120f04b5005b9043a7d0e705990e7c75485b";
+    version = "94712eea624b609e7b97829262b53a0e589e527a";
     src = fetchFromGitHub ({
       owner = "playit-cloud";
       repo = "playit-agent";
-      rev = "6273120f04b5005b9043a7d0e705990e7c75485b";
+      rev = "94712eea624b609e7b97829262b53a0e589e527a";
       fetchSubmodules = false;
-      sha256 = "sha256-iiz+zRAXp7qsoLHLwMPolXSCX6CT1oV+X8cFyVEppoY=";
+      sha256 = "sha256-oWdVT2ae8n28GSk8K3zcHdTwh+nF6ZUyCFCMNUDOgbU=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./playit-agent-6273120f04b5005b9043a7d0e705990e7c75485b/Cargo.lock;
+      lockFile = ./playit-agent-94712eea624b609e7b97829262b53a0e589e527a/Cargo.lock;
       outputHashes = {
         "webbrowser-0.5.5" = "sha256-9LhheWDmQKUdKLsYo5Uo+Z3PlKeMMnZvfWyXOMvEf7M=";
       };
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "597c33fa940f3a4db6018d0e4af4ef6a5b15f139";
+    version = "278baf212b52c972b8b3ab27a635a1e1fc859812";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "597c33fa940f3a4db6018d0e4af4ef6a5b15f139";
+      rev = "278baf212b52c972b8b3ab27a635a1e1fc859812";
       fetchSubmodules = false;
-      sha256 = "sha256-A8KReUwq/nDpdaHP/Ac3p71FbWRlrXwbgxexBZ/Ai7c=";
+      sha256 = "sha256-MMH1FbJWTnWr46gfdQ8Bm4RJKQ620vEt2kYBhXvraXw=";
     });
   };
   revanced-cli = {
@@ -949,20 +949,12 @@
       sha256 = "sha256-11xFl0Z6tNW0noTNuK/QMKddsIl7JEqVQ+LpoTQ7buA=";
     };
   };
-  revanced-patches-dex = {
-    pname = "revanced-patches-dex";
-    version = "2.38.0";
-    src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.38.0/revanced-patches-2.38.0.dex";
-      sha256 = "sha256-i+Q45YA57OB0Su1xIUYA/nz8HtKIQEdUSEs72KnvMac=";
-    };
-  };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.38.0";
+    version = "2.39.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.38.0/revanced-patches-2.38.0.jar";
-      sha256 = "sha256-uVWDMhprSouXeG6qzzmkQlYRMWSNkMdk0o3Y/M8YPXQ=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.39.1/revanced-patches-2.39.1.jar";
+      sha256 = "sha256-wxchYF0JVs4IwBdItBLA5L4U65xFPulbJOESBBSKeU0=";
     };
   };
   rofi-wayland = {
@@ -978,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "0b9fcc729091433cf3446af3c7871cefb9979210";
+    version = "3394975aa2d7a8381fabbab65beea9332248061d";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "0b9fcc729091433cf3446af3c7871cefb9979210";
+      rev = "3394975aa2d7a8381fabbab65beea9332248061d";
       fetchSubmodules = false;
-      sha256 = "sha256-kObD7AUGlzZF+chN7fgU/Z84tJo1r56sE0+00fN1Yjg=";
+      sha256 = "sha256-DpymANubuaqaX+96ebQe/+xFmSNYtpj95pIUDvqbkhM=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-0b9fcc729091433cf3446af3c7871cefb9979210/Cargo.lock;
+      lockFile = ./rustdesk-3394975aa2d7a8381fabbab65beea9332248061d/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1093,35 +1085,35 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "7116b00d7cc1d06c1eca01cd7d953590a358bcb4";
+    version = "5a8a4ae048d1962a2c3663f26a161fec88ebcc49";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "7116b00d7cc1d06c1eca01cd7d953590a358bcb4";
+      rev = "5a8a4ae048d1962a2c3663f26a161fec88ebcc49";
       fetchSubmodules = false;
-      sha256 = "sha256-29F0G4VaGsfAV4Xj8xW94c98xe8ekLwdA1qgDb7lhUI=";
+      sha256 = "sha256-YnV8XdElYHccXLugdLA68nqjpl5QwWZZtLLy0pb0sk4=";
     });
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "2554b46e6470ce08a6c4290d6f7fee3b4dba2070";
+    version = "61290de448e7a6991c07a106c42107de0b922980";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "2554b46e6470ce08a6c4290d6f7fee3b4dba2070";
+      rev = "61290de448e7a6991c07a106c42107de0b922980";
       fetchSubmodules = false;
-      sha256 = "sha256-Rbv4yvEPP74g5ASHXGHm7WPeFPtv2jk6i570mcxUYJM=";
+      sha256 = "sha256-erYXKZPNRMxDXe6ERyPcbmhbhXqMtj3AXH9oIibIJQc=";
     });
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "51d96a1c64573ebdefa646d67452efd587a6dc23";
+    version = "dcf9a4d805ec6cdc9b6ee70d908b04879aea8207";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "51d96a1c64573ebdefa646d67452efd587a6dc23";
+      rev = "dcf9a4d805ec6cdc9b6ee70d908b04879aea8207";
       fetchSubmodules = false;
-      sha256 = "sha256-qaBagVwd4Y4tCvg8P7jEr6LSxtvQ/Kx4amRYU5CtxmU=";
+      sha256 = "sha256-ZdaC0N1/douZmJkzyIX/ONB1TUJt9FXkr8wXTAEyt7Q=";
     });
   };
   spotify = {
@@ -1159,13 +1151,13 @@
   };
   steamcompmgr = {
     pname = "steamcompmgr";
-    version = "cb0ecfb19039e2478bd702bfd7d51c6aaf65a3de";
+    version = "f49432f14b296f3a84a265e4f138252875798a8d";
     src = fetchFromGitHub ({
       owner = "ChimeraOS";
       repo = "steamos-compositor-plus";
-      rev = "cb0ecfb19039e2478bd702bfd7d51c6aaf65a3de";
+      rev = "f49432f14b296f3a84a265e4f138252875798a8d";
       fetchSubmodules = false;
-      sha256 = "sha256-fOVEowRrSv1E3aj1nYmAlmpXYPkYFuwpL9SGyYs8Ri8=";
+      sha256 = "sha256-0X3M/GkWSHsmNMo65uxbnOEM9rzUZeukYEQBPXElUEU=";
     });
   };
   supergfxctl = {
@@ -1227,13 +1219,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b997304bf6eec22d174f66561ec7fe0400c5ec63";
+    version = "f983962fc62368808ff3375c2b65af9ed7e4d77d";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b997304bf6eec22d174f66561ec7fe0400c5ec63";
+      rev = "f983962fc62368808ff3375c2b65af9ed7e4d77d";
       fetchSubmodules = false;
-      sha256 = "sha256-GplXM59UI2kM71RvcmnpJOQ0aKm7nR28DOmUFN8uWl0=";
+      sha256 = "sha256-i3QkCTnJwCJHy5b181jt4cHy+8/GPFr0dJTZK7ZRaBg=";
     });
   };
   tailscale-systray = {
@@ -1257,7 +1249,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "3610b9d3cec6b667432a1d7cbfb4eec2954c3d74";
+    version = "3d3ff440aaa7697ee57b7cf00dc1477c2d4fbad4";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
@@ -1265,13 +1257,13 @@
   };
   ulauncher = {
     pname = "ulauncher";
-    version = "18401b2e0a4313b48dfd93a4bba9aa5b791d34e2";
+    version = "60e8c683abd34e6075335ccfe2db431acb4a8743";
     src = fetchFromGitHub ({
       owner = "Ulauncher";
       repo = "Ulauncher";
-      rev = "18401b2e0a4313b48dfd93a4bba9aa5b791d34e2";
+      rev = "60e8c683abd34e6075335ccfe2db431acb4a8743";
       fetchSubmodules = false;
-      sha256 = "sha256-VZ06rCbNa4xpT2qxM+qmwPnbR8lFRO5zD0VfGb+cpbM=";
+      sha256 = "sha256-7B9kM3SybWJCDdiIpldolWVYTnWGm9Wml1auFfqlfrQ=";
     });
   };
   uniemoji = {
@@ -1353,13 +1345,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "55b836f1c726969505aa3436e68df96c5d735a55";
+    version = "29b5231db8a5ffab8205d33a355f9dd0b477f3ea";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "55b836f1c726969505aa3436e68df96c5d735a55";
+      rev = "29b5231db8a5ffab8205d33a355f9dd0b477f3ea";
       fetchSubmodules = false;
-      sha256 = "sha256-Vl+OxT0xmb6o0Za++xT0vS0X2JiFWm+F/sr2lG2c7rE=";
+      sha256 = "sha256-V1Vi/rsjkyOala64aRgrIq/CJaU4AEnue+oR+SsqX/Q=";
     });
   };
   whitesur-icon-theme = {
