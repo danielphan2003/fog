@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -6860,8 +6860,8 @@ fetch.url = "https://open-vsx.org/api/christian-kohler/path-intellisense/2.8.0/f
 passthru = { publisher = "christian-kohler", name = "path-intellisense", description = "Visual Studio Code plugin that autocompletes filenames", license = "MIT" }
 
 [thiht-vscode-venom]
-src.manual = "1.0.0" # thiht.vscode-venom
-fetch.url = "https://open-vsx.org/api/thiht/vscode-venom/1.0.0/file/thiht.vscode-venom-1.0.0.vsix" # thiht.vscode-venom
+src.manual = "1.1.0" # thiht.vscode-venom
+fetch.url = "https://open-vsx.org/api/thiht/vscode-venom/1.1.0/file/thiht.vscode-venom-1.1.0.vsix" # thiht.vscode-venom
 passthru = { publisher = "thiht", name = "vscode-venom", description = "Venom integration with Visual Studio Code", license = "MIT" }
 
 [robole-markdown-shortcuts]
@@ -9691,7 +9691,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.0/file/t-co
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
-src.manual = "0.3.20" # iterative.dvc
-fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.20/file/iterative.dvc-0.3.20.vsix" # iterative.dvc
+src.manual = "0.3.21" # iterative.dvc
+fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.21/file/iterative.dvc-0.3.21.vsix" # iterative.dvc
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
@@ -10034,4 +10034,10 @@ passthru = { publisher = "dev01d", name = "devoid-theme", description = "A dark 
 src.manual = "0.4.0" # chalet-org.vscode-chalet
 fetch.url = "https://open-vsx.org/api/chalet-org/vscode-chalet/0.4.0/file/chalet-org.vscode-chalet-0.4.0.vsix" # chalet-org.vscode-chalet
 passthru = { publisher = "chalet-org", name = "vscode-chalet", description = "Support for Chalet projects in Visual Studio Code", license = "BSD-3-Clause" }
+
+
+[phisch-phocus-vscode]
+src.manual = "1.0.0" # phisch.phocus-vscode
+fetch.url = "https://open-vsx.org/api/phisch/phocus-vscode/1.0.0/file/phisch.phocus-vscode-1.0.0.vsix" # phisch.phocus-vscode
+passthru = { publisher = "phisch", name = "phocus-vscode", description = "VSCode implementation of the phocus color scheme.", license = "MIT" }
 

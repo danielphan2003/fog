@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -11487,10 +11487,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.20";
+    version = "0.3.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.20/file/iterative.dvc-0.3.20.vsix";
-      sha256 = "sha256-qDDw5/LCxdrOzpcTtNaW4HXND7IAzcttC2d1stTcMr4=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.21/file/iterative.dvc-0.3.21.vsix";
+      sha256 = "sha256-b6bV8jjA3G5RD6i9l5QLdrPelw0nTLdcwKFRg+yyBsk=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -13023,10 +13023,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -16620,6 +16620,18 @@
     name = "vscode-xslt";
     description = "Interactively step through your XSLT transformation by setting breakpoints and using the Debugger.";
     publisher = "philschatz";
+  };
+  phisch-phocus-vscode = {
+    pname = "phisch-phocus-vscode";
+    version = "1.0.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/phisch/phocus-vscode/1.0.0/file/phisch.phocus-vscode-1.0.0.vsix";
+      sha256 = "sha256-5KnACoP2hTdS5CJPOJjdN30gD2CepWxGOkpzdusswX0=";
+    };
+    license = "MIT";
+    name = "phocus-vscode";
+    description = "VSCode implementation of the phocus color scheme.";
+    publisher = "phisch";
   };
   phoenisx-cssvar = {
     pname = "phoenisx-cssvar";
@@ -20379,10 +20391,10 @@
   };
   thiht-vscode-venom = {
     pname = "thiht-vscode-venom";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/thiht/vscode-venom/1.0.0/file/thiht.vscode-venom-1.0.0.vsix";
-      sha256 = "sha256-18yT17MxqmgOSmOgzTD5/BnRorS3IU31uRULkeYgM70=";
+      url = "https://open-vsx.org/api/thiht/vscode-venom/1.1.0/file/thiht.vscode-venom-1.1.0.vsix";
+      sha256 = "sha256-HkLEHFGR04CyAEp43OKarvpiGWh82X+HvwlyoHudwO0=";
     };
     license = "MIT";
     name = "vscode-venom";

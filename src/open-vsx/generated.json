@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
+            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -18195,11 +18195,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-qDDw5/LCxdrOzpcTtNaW4HXND7IAzcttC2d1stTcMr4=",
+            "sha256": "sha256-b6bV8jjA3G5RD6i9l5QLdrPelw0nTLdcwKFRg+yyBsk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/iterative/dvc/0.3.20/file/iterative.dvc-0.3.20.vsix"
+            "url": "https://open-vsx.org/api/iterative/dvc/0.3.21/file/iterative.dvc-0.3.21.vsix"
         },
-        "version": "0.3.20"
+        "version": "0.3.21"
     },
     "itsjonq-owlet": {
         "cargoLocks": null,
@@ -20627,11 +20627,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -26313,6 +26313,25 @@
             "url": "https://open-vsx.org/api/philschatz/vscode-xslt/1.4.1/file/philschatz.vscode-xslt-1.4.1.vsix"
         },
         "version": "1.4.1"
+    },
+    "phisch-phocus-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "phisch-phocus-vscode",
+        "passthru": {
+            "description": "VSCode implementation of the phocus color scheme.",
+            "license": "MIT",
+            "name": "phocus-vscode",
+            "publisher": "phisch"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-5KnACoP2hTdS5CJPOJjdN30gD2CepWxGOkpzdusswX0=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/phisch/phocus-vscode/1.0.0/file/phisch.phocus-vscode-1.0.0.vsix"
+        },
+        "version": "1.0.0"
     },
     "phoenisx-cssvar": {
         "cargoLocks": null,
@@ -32274,11 +32293,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-18yT17MxqmgOSmOgzTD5/BnRorS3IU31uRULkeYgM70=",
+            "sha256": "sha256-HkLEHFGR04CyAEp43OKarvpiGWh82X+HvwlyoHudwO0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/thiht/vscode-venom/1.0.0/file/thiht.vscode-venom-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/thiht/vscode-venom/1.1.0/file/thiht.vscode-venom-1.1.0.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "thingalon-pony-ssh": {
         "cargoLocks": null,
