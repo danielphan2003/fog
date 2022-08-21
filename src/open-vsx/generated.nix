@@ -3687,10 +3687,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.12";
+    version = "3.6.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.12/file/TabNine.tabnine-vscode-3.6.12.vsix";
-      sha256 = "sha256-DF5KWFLsKmDiFYfF/cwh5dqYQlhEbK/pjIaeQjWXml0=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.13/file/TabNine.tabnine-vscode-3.6.13.vsix";
+      sha256 = "sha256-iQ8nT3tYbjqarIyOF8O9li/oLlJ+KH3ecji15q77PqY=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -12711,10 +12711,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -19047,10 +19047,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
