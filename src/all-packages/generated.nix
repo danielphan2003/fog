@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "984fad811cec6252ad199ceac065e9576084ff79";
+    version = "76c16ce294b78a8935c4853d29b964d8e24e5c97";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "984fad811cec6252ad199ceac065e9576084ff79";
+      rev = "76c16ce294b78a8935c4853d29b964d8e24e5c97";
       fetchSubmodules = false;
-      sha256 = "sha256-N/8DxKSugmohnH/ST9QSJQiGZqNPev5UEB1mKaP8iLA=";
+      sha256 = "sha256-ujyyclrpW46I9QK2AqL1aBoWdSAm9R7WAzKs9OADSEk=";
     });
   };
   cinny-bin = {
