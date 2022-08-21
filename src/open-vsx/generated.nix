@@ -6841,6 +6841,18 @@
     description = "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlight";
     publisher = "ccls-project";
   };
+  chalet-org-vscode-chalet = {
+    pname = "chalet-org-vscode-chalet";
+    version = "0.4.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/chalet-org/vscode-chalet/0.4.0/file/chalet-org.vscode-chalet-0.4.0.vsix";
+      sha256 = "sha256-cV3tNivKhWKsDiwOJJn/O/1DTeWpn6ajr7T7B+I0kKc=";
+    };
+    license = "BSD-3-Clause";
+    name = "vscode-chalet";
+    description = "Support for Chalet projects in Visual Studio Code";
+    publisher = "chalet-org";
+  };
   chee-cheemaps = {
     pname = "chee-cheemaps";
     version = "0.1.1";
@@ -23715,10 +23727,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.70";
+    version = "0.0.71";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.70/file/zardoy.zardoy-experiments-0.0.70.vsix";
-      sha256 = "sha256-EIp2Xvf5eGfpchKjz91xpT49pir4ctTf3yZRpCPPFow=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.71/file/zardoy.zardoy-experiments-0.0.71.vsix";
+      sha256 = "sha256-X+37M7dcNhzgfZBPGeqdFlyP4tAdPxoySuc2MXWVRIc=";
     };
     license = "MIT";
     name = "zardoy-experiments";

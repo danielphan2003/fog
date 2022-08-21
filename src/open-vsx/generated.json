@@ -10829,6 +10829,25 @@
         },
         "version": "0.1.29"
     },
+    "chalet-org-vscode-chalet": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "chalet-org-vscode-chalet",
+        "passthru": {
+            "description": "Support for Chalet projects in Visual Studio Code",
+            "license": "BSD-3-Clause",
+            "name": "vscode-chalet",
+            "publisher": "chalet-org"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-cV3tNivKhWKsDiwOJJn/O/1DTeWpn6ajr7T7B+I0kKc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/chalet-org/vscode-chalet/0.4.0/file/chalet-org.vscode-chalet-0.4.0.vsix"
+        },
+        "version": "0.4.0"
+    },
     "chee-cheemaps": {
         "cargoLocks": null,
         "extract": null,
@@ -37556,11 +37575,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EIp2Xvf5eGfpchKjz91xpT49pir4ctTf3yZRpCPPFow=",
+            "sha256": "sha256-X+37M7dcNhzgfZBPGeqdFlyP4tAdPxoySuc2MXWVRIc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.70/file/zardoy.zardoy-experiments-0.0.70.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.71/file/zardoy.zardoy-experiments-0.0.71.vsix"
         },
-        "version": "0.0.70"
+        "version": "0.0.71"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,

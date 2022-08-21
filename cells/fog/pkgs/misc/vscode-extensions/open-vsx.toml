@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.70" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.70/file/zardoy.zardoy-experiments-0.0.70.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.71" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.71/file/zardoy.zardoy-experiments-0.0.71.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -10028,4 +10028,10 @@ passthru = { publisher = "dev01d", name = "devoid-theme", description = "A dark 
 
 
 
+
+
+[chalet-org-vscode-chalet]
+src.manual = "0.4.0" # chalet-org.vscode-chalet
+fetch.url = "https://open-vsx.org/api/chalet-org/vscode-chalet/0.4.0/file/chalet-org.vscode-chalet-0.4.0.vsix" # chalet-org.vscode-chalet
+passthru = { publisher = "chalet-org", name = "vscode-chalet", description = "Support for Chalet projects in Visual Studio Code", license = "BSD-3-Clause" }
 
