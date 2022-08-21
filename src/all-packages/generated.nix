@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.36.0";
+    version = "0.37.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.36.0.tar.gz";
-      sha256 = "sha256-86Lkytk2psN8W0M1PGWRUMOSJWn/uZEE/8zsHn047tE=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.37.0.tar.gz";
+      sha256 = "sha256-w9pWrf+o1T2muYUEd5M/CXNf0e1b1eCe37PorHYaeyM=";
     };
   };
   nix-zsh-completions = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "278baf212b52c972b8b3ab27a635a1e1fc859812";
+    version = "30977a260336a60a5cf9a582866aa083f1df885d";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "278baf212b52c972b8b3ab27a635a1e1fc859812";
+      rev = "30977a260336a60a5cf9a582866aa083f1df885d";
       fetchSubmodules = false;
-      sha256 = "sha256-MMH1FbJWTnWr46gfdQ8Bm4RJKQ620vEt2kYBhXvraXw=";
+      sha256 = "sha256-02s/fByJ66HlZgvHqRG8CM73FgTaDPwANo7BiLGRRlE=";
     });
   };
   revanced-cli = {
@@ -1408,13 +1408,13 @@
   };
   yubikey-guide = {
     pname = "yubikey-guide";
-    version = "52d128789563f997d117f0fcc855b366d89a47a6";
+    version = "5eeae2be7e988871c8db8a54f4ae7f393c9317ae";
     src = fetchFromGitHub ({
       owner = "drduh";
       repo = "YubiKey-Guide";
-      rev = "52d128789563f997d117f0fcc855b366d89a47a6";
+      rev = "5eeae2be7e988871c8db8a54f4ae7f393c9317ae";
       fetchSubmodules = false;
-      sha256 = "sha256-zP9PIcheOKYbGG8X6EZeeQVIccERz1Gp+mK0b1XueSc=";
+      sha256 = "sha256-QuTBK2FpAXiF2IPoD4CeQ1/UZZ8KwAJ2H8Pl668iMfY=";
     });
   };
   zoom-us = {
