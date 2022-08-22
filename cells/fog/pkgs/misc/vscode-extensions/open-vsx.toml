@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4295,8 +4295,8 @@ fetch.url = "https://open-vsx.org/api/actboy168/tasks/0.10.0/file/actboy168.task
 passthru = { publisher = "actboy168", name = "tasks", description = "Load VSCode Tasks into Status Bar.", license = "MIT" }
 
 [pomdtr-excalidraw-editor]
-src.manual = "3.3.0" # pomdtr.excalidraw-editor
-fetch.url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.3.0/file/pomdtr.excalidraw-editor-3.3.0.vsix" # pomdtr.excalidraw-editor
+src.manual = "3.3.1" # pomdtr.excalidraw-editor
+fetch.url = "https://open-vsx.org/api/pomdtr/excalidraw-editor/3.3.1/file/pomdtr.excalidraw-editor-3.3.1.vsix" # pomdtr.excalidraw-editor
 passthru = { publisher = "pomdtr", name = "excalidraw-editor", description = "Draw schemas in VS Code using Excalidraw", license = "MIT" }
 
 [cloudstudio-browser-preview-lite]
@@ -8475,8 +8475,8 @@ fetch.url = "https://open-vsx.org/api/danielroedl/meld-diff/1.3.3/file/danielroe
 passthru = { publisher = "danielroedl", name = "meld-diff", description = "Use meld (or other tools like WinMerge, Beyond Compare, ...) to compare files, folders, clipboard or git changes from visual studio code directly.", license = "MIT" }
 
 [kie-group-vscode-extension-kie-ba-bundle]
-src.manual = "0.21.0" # kie-group.vscode-extension-kie-ba-bundle
-fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.21.0/file/kie-group.vscode-extension-kie-ba-bundle-0.21.0.vsix" # kie-group.vscode-extension-kie-ba-bundle
+src.manual = "0.22.0" # kie-group.vscode-extension-kie-ba-bundle
+fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kie-ba-bundle/0.22.0/file/kie-group.vscode-extension-kie-ba-bundle-0.22.0.vsix" # kie-group.vscode-extension-kie-ba-bundle
 passthru = { publisher = "kie-group", name = "vscode-extension-kie-ba-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [PascalReitermann93-vscode-yaml-sort]
@@ -8525,8 +8525,8 @@ fetch.url = "https://open-vsx.org/api/byCedric/vscode-expo/0.8.0/file/byCedric.v
 passthru = { publisher = "byCedric", name = "vscode-expo", description = "Expo tools for vscode", license = "MIT" }
 
 [redhat-vscode-extension-serverless-workflow-editor]
-src.manual = "0.21.1" # redhat.vscode-extension-serverless-workflow-editor
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.21.1/file/redhat.vscode-extension-serverless-workflow-editor-0.21.1.vsix" # redhat.vscode-extension-serverless-workflow-editor
+src.manual = "0.22.0" # redhat.vscode-extension-serverless-workflow-editor
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-serverless-workflow-editor/0.22.0/file/redhat.vscode-extension-serverless-workflow-editor-0.22.0.vsix" # redhat.vscode-extension-serverless-workflow-editor
 passthru = { publisher = "redhat", name = "vscode-extension-serverless-workflow-editor", description = "Edit Serverless Workflow definitions", license = "Apache-2.0" }
 
 [hbenl-vscode-mocha-test-adapter]
@@ -8685,8 +8685,8 @@ fetch.url = "https://open-vsx.org/api/redhat/vscode-quarkus/1.11.0/file/redhat.v
 passthru = { publisher = "redhat", name = "vscode-quarkus", description = "Quarkus Tools for Visual Studio Code", license = "Apache-2.0" }
 
 [redhat-vscode-extension-bpmn-editor]
-src.manual = "0.21.0" # redhat.vscode-extension-bpmn-editor
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.21.0/file/redhat.vscode-extension-bpmn-editor-0.21.0.vsix" # redhat.vscode-extension-bpmn-editor
+src.manual = "0.22.0" # redhat.vscode-extension-bpmn-editor
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-bpmn-editor/0.22.0/file/redhat.vscode-extension-bpmn-editor-0.22.0.vsix" # redhat.vscode-extension-bpmn-editor
 passthru = { publisher = "redhat", name = "vscode-extension-bpmn-editor", description = "Edit BPMN files", license = "Apache-2.0" }
 
 [streetsidesoftware-code-spell-checker-slovenian]
@@ -8745,18 +8745,18 @@ fetch.url = "https://open-vsx.org/api/MariusvanWijk-JoppeKoers/codam-norminette-
 passthru = { publisher = "MariusvanWijk-JoppeKoers", name = "codam-norminette-3", description = "42 Norminette decorator for VSCode", license = "MIT" }
 
 [redhat-vscode-extension-pmml-editor]
-src.manual = "0.21.0" # redhat.vscode-extension-pmml-editor
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.21.0/file/redhat.vscode-extension-pmml-editor-0.21.0.vsix" # redhat.vscode-extension-pmml-editor
+src.manual = "0.22.0" # redhat.vscode-extension-pmml-editor
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-pmml-editor/0.22.0/file/redhat.vscode-extension-pmml-editor-0.22.0.vsix" # redhat.vscode-extension-pmml-editor
 passthru = { publisher = "redhat", name = "vscode-extension-pmml-editor", description = "Edit PMML Scorecards", license = "Apache-2.0" }
 
 [redhat-vscode-extension-red-hat-business-automation-bundle]
-src.manual = "0.21.0" # redhat.vscode-extension-red-hat-business-automation-bundle
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.21.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.21.0.vsix" # redhat.vscode-extension-red-hat-business-automation-bundle
+src.manual = "0.22.0" # redhat.vscode-extension-red-hat-business-automation-bundle
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-red-hat-business-automation-bundle/0.22.0/file/redhat.vscode-extension-red-hat-business-automation-bundle-0.22.0.vsix" # redhat.vscode-extension-red-hat-business-automation-bundle
 passthru = { publisher = "redhat", name = "vscode-extension-red-hat-business-automation-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [kie-group-vscode-extension-kogito-bundle]
-src.manual = "0.21.0" # kie-group.vscode-extension-kogito-bundle
-fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.21.0/file/kie-group.vscode-extension-kogito-bundle-0.21.0.vsix" # kie-group.vscode-extension-kogito-bundle
+src.manual = "0.22.0" # kie-group.vscode-extension-kogito-bundle
+fetch.url = "https://open-vsx.org/api/kie-group/vscode-extension-kogito-bundle/0.22.0/file/kie-group.vscode-extension-kogito-bundle-0.22.0.vsix" # kie-group.vscode-extension-kogito-bundle
 passthru = { publisher = "kie-group", name = "vscode-extension-kogito-bundle", description = "Edit BPMN, DMN and Test Scenario files", license = "Apache-2.0" }
 
 [streetsidesoftware-code-spell-checker-spanish]
@@ -8765,8 +8765,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-spanish", description = "Spanish Add-On for Code Spell Checker", license = "MIT" }
 
 [redhat-vscode-extension-dmn-editor]
-src.manual = "0.21.0" # redhat.vscode-extension-dmn-editor
-fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.21.0/file/redhat.vscode-extension-dmn-editor-0.21.0.vsix" # redhat.vscode-extension-dmn-editor
+src.manual = "0.22.0" # redhat.vscode-extension-dmn-editor
+fetch.url = "https://open-vsx.org/api/redhat/vscode-extension-dmn-editor/0.22.0/file/redhat.vscode-extension-dmn-editor-0.22.0.vsix" # redhat.vscode-extension-dmn-editor
 passthru = { publisher = "redhat", name = "vscode-extension-dmn-editor", description = "Edit DMN and Test Scenario files", license = "Apache-2.0" }
 
 [rvest-vs-code-prettier-eslint]
@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -8970,8 +8970,8 @@ fetch.url = "https://open-vsx.org/api/PKief/markdown-checkbox/1.8.1/file/PKief.m
 passthru = { publisher = "PKief", name = "markdown-checkbox", description = "With this extension you can create checkboxes in markdown and mark them quickly.", license = "MIT" }
 
 [sourcery-sourcery]
-src.manual = "0.12.6" # sourcery.sourcery
-fetch.url = "https://open-vsx.org/api/sourcery/sourcery/0.12.6/file/sourcery.sourcery-0.12.6.vsix" # sourcery.sourcery
+src.manual = "0.12.7" # sourcery.sourcery
+fetch.url = "https://open-vsx.org/api/sourcery/sourcery/0.12.7/file/sourcery.sourcery-0.12.7.vsix" # sourcery.sourcery
 passthru = { publisher = "sourcery", name = "sourcery", description = "Refactor Python instantly with Sourcery", license = "MIT" }
 
 [nicoespeon-abracadabra]
@@ -10050,4 +10050,5 @@ passthru = { publisher = "phisch", name = "phocus-vscode", description = "VSCode
 src.manual = "0.0.1" # t-codespaces.inix-common-worker
 fetch.url = "https://open-vsx.org/api/t-codespaces/inix-common-worker/0.0.1/file/t-codespaces.inix-common-worker-0.0.1.vsix" # t-codespaces.inix-common-worker
 passthru = { publisher = "t-codespaces", name = "inix-common-worker", description = "inix-common-worker extension", license = "" }
+
 
