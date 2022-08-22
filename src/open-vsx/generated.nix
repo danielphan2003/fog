@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
-      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
+      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
+      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.28.0";
+    version = "0.29.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.28.0/file/BeardedBear.beardedicons-0.28.0.vsix";
-      sha256 = "sha256-E/4G8Er9kPJGH+01zMTfl7yusKOg6Za7LWS3uwVAu0s=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.0/file/BeardedBear.beardedicons-0.29.0.vsix";
+      sha256 = "sha256-r0tyu7vPehOnDxVl2l3PPIjkQwfrnOnnrJQPf3h6fGg=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -435,10 +435,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.5";
+    version = "3.8.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.5/file/CL.eide-3.8.5.vsix";
-      sha256 = "sha256-od5SCwXhcgkkYn1erQSEfWMuCTI0S47wfS9iyXN8XNk=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.6/file/CL.eide-3.8.6.vsix";
+      sha256 = "sha256-002RyRiQdFzwX459m3eFvrI5OArMhPFLM1JDNLBQTPA=";
     };
     license = "MIT";
     name = "eide";
@@ -9039,10 +9039,10 @@
   };
   erlang-ls-erlang-ls = {
     pname = "erlang-ls-erlang-ls";
-    version = "0.0.35";
+    version = "0.0.36";
     src = fetchurl {
-      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.35/file/erlang-ls.erlang-ls-0.0.35.vsix";
-      sha256 = "sha256-4F1WylgEs3M3qQToLF0AP2N3v1KqU/2Q0zpQrSu4Ybo=";
+      url = "https://open-vsx.org/api/erlang-ls/erlang-ls/0.0.36/file/erlang-ls.erlang-ls-0.0.36.vsix";
+      sha256 = "sha256-VbkIJDaeaiBJFv54s8Y6i3hzxB+iV9+bEbWmdSrcI8Q=";
     };
     license = "Apache-2.0";
     name = "erlang-ls";
@@ -9063,10 +9063,10 @@
   };
   esbenp-prettier-vscode = {
     pname = "esbenp-prettier-vscode";
-    version = "9.5.0";
+    version = "9.8.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.5.0/file/esbenp.prettier-vscode-9.5.0.vsix";
-      sha256 = "sha256-E6p38Z0X4teI7BCdtezljjQesYkq9rKcfR+gq8ydM7k=";
+      url = "https://open-vsx.org/api/esbenp/prettier-vscode/9.8.0/file/esbenp.prettier-vscode-9.8.0.vsix";
+      sha256 = "sha256-bzCxOuwdRos0zp/aksV4/oMRnRacHyho7OM2ddZ2mw8=";
     };
     license = "MIT";
     name = "prettier-vscode";
@@ -10395,10 +10395,10 @@
   };
   halcyontechltd-code-for-ibmi = {
     pname = "halcyontechltd-code-for-ibmi";
-    version = "1.5.6";
+    version = "1.5.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.6/file/halcyontechltd.code-for-ibmi-1.5.6.vsix";
-      sha256 = "sha256-R7XX/PADappFtDafp3W4+OfX424n6/NU/jiyd7vGP4U=";
+      url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.7/file/halcyontechltd.code-for-ibmi-1.5.7.vsix";
+      sha256 = "sha256-W+ulFuLngFJZ3LAKDUegX99/Yl9YU+dzLyP7N2MmwgA=";
     };
     license = "MIT";
     name = "code-for-ibmi";
@@ -12279,10 +12279,10 @@
   };
   junstyle-php-cs-fixer = {
     pname = "junstyle-php-cs-fixer";
-    version = "0.3.2";
+    version = "0.3.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.2/file/junstyle.php-cs-fixer-0.3.2.vsix";
-      sha256 = "sha256-N1FjszlqEmUlRTM9o/wXmuVruw3GlWInMgAvaaXZEOo=";
+      url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.5/file/junstyle.php-cs-fixer-0.3.5.vsix";
+      sha256 = "sha256-AIKniqDt6JIK0LzPgkrt5GeuXp5VR5xHQNblaCLVol8=";
     };
     license = "ISC";
     name = "php-cs-fixer";
@@ -12723,10 +12723,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13527,10 +13527,10 @@
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
-    version = "0.0.11";
+    version = "0.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/malipetek/liquivelte/0.0.11/file/malipetek.liquivelte-0.0.11.vsix";
-      sha256 = "sha256-dlSL2Ob1eTHek+qjkba6KCxY3AN6/Cr8D4mfqnq/Pm0=";
+      url = "https://open-vsx.org/api/malipetek/liquivelte/0.1.0/file/malipetek.liquivelte-0.1.0.vsix";
+      sha256 = "sha256-VS5DbqlZ2/iHL/xyq9NOJIQ4q1T3/OAN77nWULoy/xo=";
     };
     license = "MIT";
     name = "liquivelte";
@@ -15183,10 +15183,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.9.20220818";
+    version = "4.9.20220821";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220818/file/ms-vscode.vscode-typescript-next-4.9.20220818.vsix";
-      sha256 = "sha256-i0KHCVnSx7ke5yuOfKtxdKGA6ugx2JpfSOnVxpoN3JY=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220821/file/ms-vscode.vscode-typescript-next-4.9.20220821.vsix";
+      sha256 = "sha256-zmAdG5CkLkB62pvnpVzGLQhCrzqwFkFl+0KHJBPfFvE=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -15327,10 +15327,10 @@
   };
   mtxr-sqltools-driver-mssql = {
     pname = "mtxr-sqltools-driver-mssql";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtxr/sqltools/0.23.0/file/mtxr.sqltools-0.23.0.vsix";
-      sha256 = "sha256-Obo/u2shO6UkOG9V6LDOHrLFFapMGSiu8EVoLU8NdT4=";
+      url = "https://open-vsx.org/api/mtxr/sqltools/0.24.0/file/mtxr.sqltools-0.24.0.vsix";
+      sha256 = "sha256-Fd6TRpJSvlGXauKtOufI1GEB9gyPIkm3PGv69jNId8Q=";
     };
     license = "MIT";
     name = "sqltools-driver-mssql";
@@ -15339,10 +15339,10 @@
   };
   mtxr-sqltools-driver-mysql = {
     pname = "mtxr-sqltools-driver-mysql";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtxr/sqltools/0.23.0/file/mtxr.sqltools-0.23.0.vsix";
-      sha256 = "sha256-Obo/u2shO6UkOG9V6LDOHrLFFapMGSiu8EVoLU8NdT4=";
+      url = "https://open-vsx.org/api/mtxr/sqltools/0.24.0/file/mtxr.sqltools-0.24.0.vsix";
+      sha256 = "sha256-Fd6TRpJSvlGXauKtOufI1GEB9gyPIkm3PGv69jNId8Q=";
     };
     license = "MIT";
     name = "sqltools-driver-mysql";
@@ -15351,10 +15351,10 @@
   };
   mtxr-sqltools-driver-pg = {
     pname = "mtxr-sqltools-driver-pg";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtxr/sqltools/0.23.0/file/mtxr.sqltools-0.23.0.vsix";
-      sha256 = "sha256-Obo/u2shO6UkOG9V6LDOHrLFFapMGSiu8EVoLU8NdT4=";
+      url = "https://open-vsx.org/api/mtxr/sqltools/0.24.0/file/mtxr.sqltools-0.24.0.vsix";
+      sha256 = "sha256-Fd6TRpJSvlGXauKtOufI1GEB9gyPIkm3PGv69jNId8Q=";
     };
     license = "MIT";
     name = "sqltools-driver-pg";
@@ -15363,10 +15363,10 @@
   };
   mtxr-sqltools-driver-sqlite = {
     pname = "mtxr-sqltools-driver-sqlite";
-    version = "0.23.0";
+    version = "0.24.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mtxr/sqltools/0.23.0/file/mtxr.sqltools-0.23.0.vsix";
-      sha256 = "sha256-Obo/u2shO6UkOG9V6LDOHrLFFapMGSiu8EVoLU8NdT4=";
+      url = "https://open-vsx.org/api/mtxr/sqltools/0.24.0/file/mtxr.sqltools-0.24.0.vsix";
+      sha256 = "sha256-Fd6TRpJSvlGXauKtOufI1GEB9gyPIkm3PGv69jNId8Q=";
     };
     license = "MIT";
     name = "sqltools-driver-sqlite";
@@ -19071,10 +19071,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -23931,10 +23931,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
