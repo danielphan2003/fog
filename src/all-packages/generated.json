@@ -1577,11 +1577,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-zsjsppplnc7lHy+QMO6qu5GxfiugNnvvmGoA/ElW7Xw=",
+            "sha256": "sha256-6ExstlVU39stxsK5/4+AKanG5lbTjbx4bIahLto7if8=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.35.0/app-release-unsigned.apk"
+            "url": "https://github.com/revanced/revanced-integrations/releases/download/v0.36.0/app-release-unsigned.apk"
         },
-        "version": "0.35.0"
+        "version": "0.36.0"
     },
     "revanced-patches-jar": {
         "cargoLocks": null,
@@ -2023,11 +2023,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "5d559141d53c0f8941759f9e9f2b319a84b24177",
-            "sha256": "sha256-Wd9fK3X4cR857DPxHIdfD4hxkrZUYwN7EFOk0rMFPQA=",
+            "rev": "facafd88190ed9b7bc6fc1977ffc52c5d3fe8545",
+            "sha256": "sha256-pmuhzK6OzR+ckGUSOhl+OdkUGOACRXaFdqE9B/EO9PU=",
             "type": "github"
         },
-        "version": "5d559141d53c0f8941759f9e9f2b319a84b24177"
+        "version": "facafd88190ed9b7bc6fc1977ffc52c5d3fe8545"
     },
     "tailscale-systray": {
         "cargoLocks": null,
