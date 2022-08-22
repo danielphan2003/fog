@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "575bfa40e5db57944e7d38e8561c17270ef9a635";
+    version = "fb0e81c18ee58a92dc109d6023677463d859523e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "575bfa40e5db57944e7d38e8561c17270ef9a635";
+      rev = "fb0e81c18ee58a92dc109d6023677463d859523e";
       fetchSubmodules = false;
-      sha256 = "sha256-bA3GU1r+gNd/Lv1PAfNrPydWXY4x8JfZMiJjpc3JCcs=";
+      sha256 = "sha256-RLSoyPJCr5PL1racremeNB05WACRMDrU2nTQ0T5+3cY=";
     });
   };
   ibus = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.41.0";
+    version = "2.42.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.41.0/revanced-patches-2.41.0.jar";
-      sha256 = "sha256-fTf0wxJ2mAZiximGVwhfrXUnVgPJYnq7ELK1/AiR+1E=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.42.0/revanced-patches-2.42.0.jar";
+      sha256 = "sha256-cOuswO6O4OrAw/cqGXJR4JMrbKSm8zGxqhQLorbAGFE=";
     };
   };
   rofi-wayland = {
