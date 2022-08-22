@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "8a6e29974b4339abc868af80761849b52c98cc40";
+    version = "c83948ea9aa53e893ef3e98f1c84426aced422fd";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "8a6e29974b4339abc868af80761849b52c98cc40";
+      rev = "c83948ea9aa53e893ef3e98f1c84426aced422fd";
       fetchSubmodules = false;
-      sha256 = "sha256-UPbLGQ9s3ZJoskz/9FDs1ORdRyAJFiLDAHrcT4yrJus=";
+      sha256 = "sha256-9j+A7AU5j4KsZsnmmDTGL0yMRtsMGxUTo8ycTUKJBBM=";
     });
   };
   ibus = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-31-g490f9f1e";
+    version = "2.2-32-g2402987b";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-31-g490f9f1e-1_all.deb";
-      sha256 = "sha256-EUK9RfQBUBi3CH/4h7eyk25o4JdGJ3X5S3U16HxieJ4=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-32-g2402987b-1_all.deb";
+      sha256 = "sha256-n3QCqQ57Sn1AsBn+obQm6srLzt8SunC8MGcFOUKdcoY=";
     };
   };
   layout-machi = {
@@ -1073,25 +1073,25 @@
   };
   snui = {
     pname = "snui";
-    version = "851745deade32d1c5252dcb8f508a25f7d8e3894";
+    version = "d2fd7b46c66e9212de7f78bfb1cd0a862f2c5a65";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "851745deade32d1c5252dcb8f508a25f7d8e3894";
+      rev = "d2fd7b46c66e9212de7f78bfb1cd0a862f2c5a65";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-J6lkWvDd5jJ83pZsJYXhJYzxF1Sa3DKjawXsZSmpYAs=";
+      sha256 = "sha256-KAGhfaHQJeX+BRrMfmZOyV3spGErwig45nIeTNYG7Mg=";
     };
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "5a8a4ae048d1962a2c3663f26a161fec88ebcc49";
+    version = "955f969a41c5510a74c7a4e35070636b6ad69957";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "5a8a4ae048d1962a2c3663f26a161fec88ebcc49";
+      rev = "955f969a41c5510a74c7a4e35070636b6ad69957";
       fetchSubmodules = false;
-      sha256 = "sha256-YnV8XdElYHccXLugdLA68nqjpl5QwWZZtLLy0pb0sk4=";
+      sha256 = "sha256-QJfR6DtsblNCTssT2tvli6FNFzK9+lqyRLSTQXOH4Ok=";
     });
   };
   spicetify-marketplace = {

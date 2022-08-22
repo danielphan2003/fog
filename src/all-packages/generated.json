@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "8a6e29974b4339abc868af80761849b52c98cc40",
-            "sha256": "sha256-UPbLGQ9s3ZJoskz/9FDs1ORdRyAJFiLDAHrcT4yrJus=",
+            "rev": "c83948ea9aa53e893ef3e98f1c84426aced422fd",
+            "sha256": "sha256-9j+A7AU5j4KsZsnmmDTGL0yMRtsMGxUTo8ycTUKJBBM=",
             "type": "github"
         },
-        "version": "8a6e29974b4339abc868af80761849b52c98cc40"
+        "version": "c83948ea9aa53e893ef3e98f1c84426aced422fd"
     },
     "ibus": {
         "cargoLocks": null,
@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-EUK9RfQBUBi3CH/4h7eyk25o4JdGJ3X5S3U16HxieJ4=",
+            "sha256": "sha256-n3QCqQ57Sn1AsBn+obQm6srLzt8SunC8MGcFOUKdcoY=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-31-g490f9f1e-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-32-g2402987b-1_all.deb"
         },
-        "version": "2.2-31-g490f9f1e"
+        "version": "2.2-32-g2402987b"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -1790,12 +1790,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "851745deade32d1c5252dcb8f508a25f7d8e3894",
-            "sha256": "sha256-J6lkWvDd5jJ83pZsJYXhJYzxF1Sa3DKjawXsZSmpYAs=",
+            "rev": "d2fd7b46c66e9212de7f78bfb1cd0a862f2c5a65",
+            "sha256": "sha256-KAGhfaHQJeX+BRrMfmZOyV3spGErwig45nIeTNYG7Mg=",
             "type": "git",
             "url": "https://gitlab.com/snakedye/snui"
         },
-        "version": "851745deade32d1c5252dcb8f508a25f7d8e3894"
+        "version": "d2fd7b46c66e9212de7f78bfb1cd0a862f2c5a65"
     },
     "spicetify-cli": {
         "cargoLocks": null,
@@ -1810,11 +1810,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-cli",
-            "rev": "5a8a4ae048d1962a2c3663f26a161fec88ebcc49",
-            "sha256": "sha256-YnV8XdElYHccXLugdLA68nqjpl5QwWZZtLLy0pb0sk4=",
+            "rev": "955f969a41c5510a74c7a4e35070636b6ad69957",
+            "sha256": "sha256-QJfR6DtsblNCTssT2tvli6FNFzK9+lqyRLSTQXOH4Ok=",
             "type": "github"
         },
-        "version": "5a8a4ae048d1962a2c3663f26a161fec88ebcc49"
+        "version": "955f969a41c5510a74c7a4e35070636b6ad69957"
     },
     "spicetify-marketplace": {
         "cargoLocks": null,
