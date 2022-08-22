@@ -50,9 +50,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=",
+            "sha256": "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix"
+            "url": "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix"
         },
         "version": "23.0.9"
     },
@@ -696,11 +696,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hKtq3+yDTw2AUfqBgW+TvFcXZ4MYCepwhj7ElIhgtIs=",
+            "sha256": "sha256-4l3fcVJhVJGDjLwzFVCvgk3K36P3HhS7IddMT6aaGOA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/CL/eide/3.8.7/file/CL.eide-3.8.7.vsix"
+            "url": "https://open-vsx.org/api/CL/eide/3.8.8/file/CL.eide-3.8.8.vsix"
         },
-        "version": "3.8.7"
+        "version": "3.8.8"
     },
     "Carmen-philodendron-insider": {
         "cargoLocks": null,
@@ -2786,11 +2786,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Y1saGbo5msvkQeMjOWtJ4WTtKc33YjZQZPrydzLrIR8=",
+            "sha256": "sha256-TLINU73quwpgzuRJLTFMiY9j7PAABMNUztXzpW5+xlk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.13.0/file/JFrog.jfrog-vscode-extension-1.13.0.vsix"
+            "url": "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.14.0/file/JFrog.jfrog-vscode-extension-1.14.0.vsix"
         },
-        "version": "1.13.0"
+        "version": "1.14.0"
     },
     "Jaakko-black": {
         "cargoLocks": null,
@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UpNWVwyv2Nl5EqYDpyxY0h7COXRVn8Jbly4yYoqR21c=",
+            "sha256": "sha256-tBNnQ6VK5FExL9NEbEYvSOFQoMEMXn5QPFq2peHC5Nw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1326/file/Prisma.prisma-insider-31.0.1326.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1328/file/Prisma.prisma-insider-31.0.1328.vsix"
         },
-        "version": "31.0.1326"
+        "version": "31.0.1328"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12742,11 +12742,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-emtq+LHXoWDgyimUAS2LuYrI8ckMrVyI5HlMuzrTEvA=",
+            "sha256": "sha256-wF9tIdfxDyeqd3+kvbLikNA8QS5Rw+QwXcGJBJ/vA5Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.3/file/deadlock.deadlock-gitpod-0.1.3.vsix"
+            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.4/file/deadlock.deadlock-gitpod-0.1.4.vsix"
         },
-        "version": "0.1.3"
+        "version": "0.1.4"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -15807,6 +15807,25 @@
         },
         "version": "2022.2.1"
     },
+    "gera2ld-ipfs-editor-vscode": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "gera2ld-ipfs-editor-vscode",
+        "passthru": {
+            "description": "IPFS Editor for VSCode",
+            "license": "MIT",
+            "name": "ipfs-editor-vscode",
+            "publisher": "gera2ld"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-3gPymkVLCWf75k+GS872u/FE2v9jeGdvDdkevhzjmfc=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.1/file/gera2ld.ipfs-editor-vscode-0.1.1.vsix"
+        },
+        "version": "0.1.1"
+    },
     "gera2ld-markmap-vscode": {
         "cargoLocks": null,
         "extract": null,
@@ -16314,9 +16333,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -19962,11 +19981,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cgVgyHyH/Rs02KNUTt0pauV2vYzPDxgq1urorP86D8w=",
+            "sha256": "sha256-BIYYCJHn+pxuiHNEf6lXmiX2VwlQ0KgFyxV0InUeADg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kieler/osgiviz/0.0.1/file/kieler.osgiviz-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/kieler/osgiviz/0.3.0/file/kieler.osgiviz-0.3.0.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.3.0"
     },
     "kimlimjustin-jsdoc-generator": {
         "cargoLocks": null,
@@ -20627,11 +20646,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -30203,11 +30222,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -30887,9 +30906,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -37917,11 +37936,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
