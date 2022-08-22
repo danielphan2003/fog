@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9440,8 +9440,8 @@ fetch.url = "https://open-vsx.org/api/dalirnet/vue-sort/0.0.5/file/dalirnet.vue-
 passthru = { publisher = "dalirnet", name = "vue-sort", description = "Sort vue component", license = "MIT" }
 
 [CL-eide]
-src.manual = "3.8.4" # CL.eide
-fetch.url = "https://open-vsx.org/api/CL/eide/3.8.4/file/CL.eide-3.8.4.vsix" # CL.eide
+src.manual = "3.8.5" # CL.eide
+fetch.url = "https://open-vsx.org/api/CL/eide/3.8.5/file/CL.eide-3.8.5.vsix" # CL.eide
 passthru = { publisher = "CL", name = "eide", description = "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V", license = "MIT" }
 
 [dalirnet-doctypes]
@@ -10040,4 +10040,5 @@ passthru = { publisher = "chalet-org", name = "vscode-chalet", description = "Su
 src.manual = "1.0.0" # phisch.phocus-vscode
 fetch.url = "https://open-vsx.org/api/phisch/phocus-vscode/1.0.0/file/phisch.phocus-vscode-1.0.0.vsix" # phisch.phocus-vscode
 passthru = { publisher = "phisch", name = "phocus-vscode", description = "VSCode implementation of the phocus color scheme.", license = "MIT" }
+
 

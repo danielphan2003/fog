@@ -435,10 +435,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.4";
+    version = "3.8.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.4/file/CL.eide-3.8.4.vsix";
-      sha256 = "sha256-jl6CzLcvNthW8uLLBvqj3JZ3Eu0nm0RovxV7MIsRckY=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.5/file/CL.eide-3.8.5.vsix";
+      sha256 = "sha256-od5SCwXhcgkkYn1erQSEfWMuCTI0S47wfS9iyXN8XNk=";
     };
     license = "MIT";
     name = "eide";
@@ -23931,10 +23931,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
