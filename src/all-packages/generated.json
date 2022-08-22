@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "c83948ea9aa53e893ef3e98f1c84426aced422fd",
-            "sha256": "sha256-9j+A7AU5j4KsZsnmmDTGL0yMRtsMGxUTo8ycTUKJBBM=",
+            "rev": "575bfa40e5db57944e7d38e8561c17270ef9a635",
+            "sha256": "sha256-bA3GU1r+gNd/Lv1PAfNrPydWXY4x8JfZMiJjpc3JCcs=",
             "type": "github"
         },
-        "version": "c83948ea9aa53e893ef3e98f1c84426aced422fd"
+        "version": "575bfa40e5db57944e7d38e8561c17270ef9a635"
     },
     "ibus": {
         "cargoLocks": null,
@@ -843,11 +843,11 @@
             "name": null,
             "owner": "ibus",
             "repo": "ibus",
-            "rev": "1520c39d0d6036da725fcecd932883be3f3d3575",
-            "sha256": "sha256-B0e+rOsga6YAefMQWaxLq+0c9i2n66XgmgSKLbJ6Wjg=",
+            "rev": "e144b12c1f18ec91ddcbb5d491387d78075318f4",
+            "sha256": "sha256-DwX7SYRb18C0Lz2ySPS3yV99Q1xQezs0Ls2P7Rbtk5Q=",
             "type": "github"
         },
-        "version": "1520c39d0d6036da725fcecd932883be3f3d3575"
+        "version": "e144b12c1f18ec91ddcbb5d491387d78075318f4"
     },
     "ibus-bamboo": {
         "cargoLocks": null,
@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-n3QCqQ57Sn1AsBn+obQm6srLzt8SunC8MGcFOUKdcoY=",
+            "sha256": "sha256-1kvzaHCEZnGSw8hlCWdwqmfDzFPBi6OjYeaUnrU+rMw=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-32-g2402987b-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-33-g26bbe31f-1_all.deb"
         },
-        "version": "2.2-32-g2402987b"
+        "version": "2.2-33-g26bbe31f"
     },
     "layout-machi": {
         "cargoLocks": null,
@@ -2023,11 +2023,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "f983962fc62368808ff3375c2b65af9ed7e4d77d",
-            "sha256": "sha256-i3QkCTnJwCJHy5b181jt4cHy+8/GPFr0dJTZK7ZRaBg=",
+            "rev": "5d559141d53c0f8941759f9e9f2b319a84b24177",
+            "sha256": "sha256-Wd9fK3X4cR857DPxHIdfD4hxkrZUYwN7EFOk0rMFPQA=",
             "type": "github"
         },
-        "version": "f983962fc62368808ff3375c2b65af9ed7e4d77d"
+        "version": "5d559141d53c0f8941759f9e9f2b319a84b24177"
     },
     "tailscale-systray": {
         "cargoLocks": null,

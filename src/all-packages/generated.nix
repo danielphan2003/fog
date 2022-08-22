@@ -496,24 +496,24 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "c83948ea9aa53e893ef3e98f1c84426aced422fd";
+    version = "575bfa40e5db57944e7d38e8561c17270ef9a635";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "c83948ea9aa53e893ef3e98f1c84426aced422fd";
+      rev = "575bfa40e5db57944e7d38e8561c17270ef9a635";
       fetchSubmodules = false;
-      sha256 = "sha256-9j+A7AU5j4KsZsnmmDTGL0yMRtsMGxUTo8ycTUKJBBM=";
+      sha256 = "sha256-bA3GU1r+gNd/Lv1PAfNrPydWXY4x8JfZMiJjpc3JCcs=";
     });
   };
   ibus = {
     pname = "ibus";
-    version = "1520c39d0d6036da725fcecd932883be3f3d3575";
+    version = "e144b12c1f18ec91ddcbb5d491387d78075318f4";
     src = fetchFromGitHub ({
       owner = "ibus";
       repo = "ibus";
-      rev = "1520c39d0d6036da725fcecd932883be3f3d3575";
+      rev = "e144b12c1f18ec91ddcbb5d491387d78075318f4";
       fetchSubmodules = false;
-      sha256 = "sha256-B0e+rOsga6YAefMQWaxLq+0c9i2n66XgmgSKLbJ6Wjg=";
+      sha256 = "sha256-DwX7SYRb18C0Lz2ySPS3yV99Q1xQezs0Ls2P7Rbtk5Q=";
     });
   };
   ibus-bamboo = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-32-g2402987b";
+    version = "2.2-33-g26bbe31f";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-32-g2402987b-1_all.deb";
-      sha256 = "sha256-n3QCqQ57Sn1AsBn+obQm6srLzt8SunC8MGcFOUKdcoY=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-33-g26bbe31f-1_all.deb";
+      sha256 = "sha256-1kvzaHCEZnGSw8hlCWdwqmfDzFPBi6OjYeaUnrU+rMw=";
     };
   };
   layout-machi = {
@@ -1219,13 +1219,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "f983962fc62368808ff3375c2b65af9ed7e4d77d";
+    version = "5d559141d53c0f8941759f9e9f2b319a84b24177";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "f983962fc62368808ff3375c2b65af9ed7e4d77d";
+      rev = "5d559141d53c0f8941759f9e9f2b319a84b24177";
       fetchSubmodules = false;
-      sha256 = "sha256-i3QkCTnJwCJHy5b181jt4cHy+8/GPFr0dJTZK7ZRaBg=";
+      sha256 = "sha256-Wd9fK3X4cR857DPxHIdfD4hxkrZUYwN7EFOk0rMFPQA=";
     });
   };
   tailscale-systray = {
