@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -8150,8 +8150,8 @@ fetch.url = "https://open-vsx.org/api/pinage404/rust-extension-pack/0.2.0/file/p
 passthru = { publisher = "pinage404", name = "rust-extension-pack", description = "Collection of extensions for Rust ecosystem (Rust, Cargo ...)", license = "MIT" }
 
 [jroesch-lean]
-src.manual = "0.16.53" # jroesch.lean
-fetch.url = "https://open-vsx.org/api/jroesch/lean/0.16.53/file/jroesch.lean-0.16.53.vsix" # jroesch.lean
+src.manual = "0.16.54" # jroesch.lean
+fetch.url = "https://open-vsx.org/api/jroesch/lean/0.16.54/file/jroesch.lean-0.16.54.vsix" # jroesch.lean
 passthru = { publisher = "jroesch", name = "lean", description = "Lean 3 language support for VS Code", license = "Apache-2.0" }
 
 [jdinhlife-gruvbox]
@@ -8170,8 +8170,8 @@ fetch.url = "https://open-vsx.org/api/raidou/calc/2.3.1/file/raidou.calc-2.3.1.v
 passthru = { publisher = "raidou", name = "calc", description = "Calculate extension for vscode", license = "MIT" }
 
 [Procker-codeshare]
-src.manual = "1.0.8" # Procker.codeshare
-fetch.url = "https://open-vsx.org/api/Procker/codeshare/1.0.8/file/Procker.codeshare-1.0.8.vsix" # Procker.codeshare
+src.manual = "1.1.0" # Procker.codeshare
+fetch.url = "https://open-vsx.org/api/Procker/codeshare/1.1.0/file/Procker.codeshare-1.1.0.vsix" # Procker.codeshare
 passthru = { publisher = "Procker", name = "codeshare", description = "Share your code with others", license = "MIT" }
 
 [christian-kohler-npm-intellisense]
@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9185,8 +9185,8 @@ fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousde
 passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [rgherdt-scheme-lsp]
-src.manual = "0.2.12" # rgherdt.scheme-lsp
-fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.12/file/rgherdt.scheme-lsp-0.2.12.vsix" # rgherdt.scheme-lsp
+src.manual = "0.2.13" # rgherdt.scheme-lsp
+fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.13/file/rgherdt.scheme-lsp-0.2.13.vsix" # rgherdt.scheme-lsp
 passthru = { publisher = "rgherdt", name = "scheme-lsp", description = "An LSP-based extension for Scheme", license = "GPL-3.0" }
 
 [avast-threatlabs-yara-vscode-yls]
@@ -9575,8 +9575,8 @@ fetch.url = "https://open-vsx.org/api/waderyan/gitblame/9.0.1/file/waderyan.gitb
 passthru = { publisher = "waderyan", name = "gitblame", description = "See git blame information in the status bar.", license = "MIT" }
 
 [leanprover-lean4]
-src.manual = "0.0.92" # leanprover.lean4
-fetch.url = "https://open-vsx.org/api/leanprover/lean4/0.0.92/file/leanprover.lean4-0.0.92.vsix" # leanprover.lean4
+src.manual = "0.0.93" # leanprover.lean4
+fetch.url = "https://open-vsx.org/api/leanprover/lean4/0.0.93/file/leanprover.lean4-0.0.93.vsix" # leanprover.lean4
 passthru = { publisher = "leanprover", name = "lean4", description = "Lean 4 language support for VS Code", license = "Apache-2.0" }
 
 [arzg-apprentice]
@@ -9880,8 +9880,8 @@ fetch.url = "https://open-vsx.org/api/NomicFoundation/hardhat-solidity/0.5.1/fil
 passthru = { publisher = "NomicFoundation", name = "hardhat-solidity", description = "Solidity and Hardhat support for Visual Studio Code", license = "MIT" }
 
 [shufo-vscode-blade-formatter]
-src.manual = "0.17.1" # shufo.vscode-blade-formatter
-fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.1/file/shufo.vscode-blade-formatter-0.17.1.vsix" # shufo.vscode-blade-formatter
+src.manual = "0.17.2" # shufo.vscode-blade-formatter
+fetch.url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.2/file/shufo.vscode-blade-formatter-0.17.2.vsix" # shufo.vscode-blade-formatter
 passthru = { publisher = "shufo", name = "vscode-blade-formatter", description = "Laravel Blade formatter for VSCode", license = "MIT" }
 
 [Catppuccin-catppuccin-vsc]
@@ -10058,4 +10058,5 @@ passthru = { publisher = "t-codespaces", name = "inix-common-worker", descriptio
 src.manual = "0.1.1" # gera2ld.ipfs-editor-vscode
 fetch.url = "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.1/file/gera2ld.ipfs-editor-vscode-0.1.1.vsix" # gera2ld.ipfs-editor-vscode
 passthru = { publisher = "gera2ld", name = "ipfs-editor-vscode", description = "IPFS Editor for VSCode", license = "MIT" }
+
 

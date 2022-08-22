@@ -3111,10 +3111,10 @@
   };
   Procker-codeshare = {
     pname = "Procker-codeshare";
-    version = "1.0.8";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Procker/codeshare/1.0.8/file/Procker.codeshare-1.0.8.vsix";
-      sha256 = "sha256-daBo3c7VXM5EdNsIo+NPROrED1qSr8HocBxoYYisePs=";
+      url = "https://open-vsx.org/api/Procker/codeshare/1.1.0/file/Procker.codeshare-1.1.0.vsix";
+      sha256 = "sha256-hpypWL4IkFJkdCN+ti36N0xFKPdDrO0gGqu+YOoF318=";
     };
     license = "MIT";
     name = "codeshare";
@@ -12231,10 +12231,10 @@
   };
   jroesch-lean = {
     pname = "jroesch-lean";
-    version = "0.16.53";
+    version = "0.16.54";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jroesch/lean/0.16.53/file/jroesch.lean-0.16.53.vsix";
-      sha256 = "sha256-xPIa34FOrsRUVOEIF9LYFTLOUW38vOSinoFlOcqJaBg=";
+      url = "https://open-vsx.org/api/jroesch/lean/0.16.54/file/jroesch.lean-0.16.54.vsix";
+      sha256 = "sha256-aNAo0Cqgoggz+7EhtExxufZuPkqZU1ktbrv4Yk9oKh0=";
     };
     license = "Apache-2.0";
     name = "lean";
@@ -13095,10 +13095,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.92";
+    version = "0.0.93";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.92/file/leanprover.lean4-0.0.92.vsix";
-      sha256 = "sha256-bm6U/fMu6JKKWm3inxQNJDtMvgXZKIdl5OKBqRkKxEQ=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.93/file/leanprover.lean4-0.0.93.vsix";
+      sha256 = "sha256-AWQtMX8dvmjbkBa6QaG1GeHgF8V8BGVat+qXI/75bHQ=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -17979,10 +17979,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.12";
+    version = "0.2.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.12/file/rgherdt.scheme-lsp-0.2.12.vsix";
-      sha256 = "sha256-4hKBXwebW5jrzS65YVEtUZ8KV4bODbIVaI6woSjT5sc=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.13/file/rgherdt.scheme-lsp-0.2.13.vsix";
+      sha256 = "sha256-ps661YyLTikjW+FJ5aQD8X+VBFCcr0ydfBESiQesvAI=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";
@@ -19011,10 +19011,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.17.1";
+    version = "0.17.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.1/file/shufo.vscode-blade-formatter-0.17.1.vsix";
-      sha256 = "sha256-nhDWRg/h+2SicSLFLiUQ1v7N03YxeEChqyT4B3LD5pQ=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.2/file/shufo.vscode-blade-formatter-0.17.2.vsix";
+      sha256 = "sha256-MkkPo1HDWs5kviVU5MDoTUTioNky/0INT1EKizewax4=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -19083,10 +19083,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19517,8 +19517,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
