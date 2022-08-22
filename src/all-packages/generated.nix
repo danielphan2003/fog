@@ -221,13 +221,13 @@
   };
   cinny = {
     pname = "cinny";
-    version = "b3bff6b43ff964a88e185fb50ddb4dc74ac93cfa";
+    version = "fd79ea4b9bb750453ff1ef5607d7b2eb8f0522ee";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny";
-      rev = "b3bff6b43ff964a88e185fb50ddb4dc74ac93cfa";
+      rev = "fd79ea4b9bb750453ff1ef5607d7b2eb8f0522ee";
       fetchSubmodules = false;
-      sha256 = "sha256-qWINzk8WmeVvvIN0uh5c50SBtax2bMl637uAiPVeFKM=";
+      sha256 = "sha256-wuVgi9kP70AKn9NsAc+AeJ6zpSEJi+YDuUXB32wIByU=";
     });
   };
   cinny-bin = {
@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "6352516b3ba241b3f4f25a289b9edaf3eefe18de";
+    version = "ac9bd402f98827a394382115f2ad04d68c4138f6";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "6352516b3ba241b3f4f25a289b9edaf3eefe18de";
+      rev = "ac9bd402f98827a394382115f2ad04d68c4138f6";
       fetchSubmodules = true;
-      sha256 = "sha256-HAATUfBV6CTf5qwTcKlA3iHqrJSaT78ZDJ4ldHUncQc=";
+      sha256 = "sha256-9JMOMOs7nulTcZaNIKwyjZPEvBKk1OKM1KpOwqjsofg=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-6352516b3ba241b3f4f25a289b9edaf3eefe18de/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-ac9bd402f98827a394382115f2ad04d68c4138f6/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.34.0";
+    version = "0.35.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.34.0/app-release-unsigned.apk";
-      sha256 = "sha256-FbCK+p6Ci9w+Yth6mqMT4bEI/2yj7eHxXrtD0uyPD2k=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.35.0/app-release-unsigned.apk";
+      sha256 = "sha256-zsjsppplnc7lHy+QMO6qu5GxfiugNnvvmGoA/ElW7Xw=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.40.0";
+    version = "2.41.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.40.0/revanced-patches-2.40.0.jar";
-      sha256 = "sha256-bqcJeBAQJZXWxHL6qshsXfZwnnsWtwou7aZIAbDg4hI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.41.0/revanced-patches-2.41.0.jar";
+      sha256 = "sha256-fTf0wxJ2mAZiximGVwhfrXUnVgPJYnq7ELK1/AiR+1E=";
     };
   };
   rofi-wayland = {
