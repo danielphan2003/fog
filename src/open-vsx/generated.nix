@@ -435,10 +435,10 @@
   };
   CL-eide = {
     pname = "CL-eide";
-    version = "3.8.6";
+    version = "3.8.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CL/eide/3.8.6/file/CL.eide-3.8.6.vsix";
-      sha256 = "sha256-002RyRiQdFzwX459m3eFvrI5OArMhPFLM1JDNLBQTPA=";
+      url = "https://open-vsx.org/api/CL/eide/3.8.7/file/CL.eide-3.8.7.vsix";
+      sha256 = "sha256-hKtq3+yDTw2AUfqBgW+TvFcXZ4MYCepwhj7ElIhgtIs=";
     };
     license = "MIT";
     name = "eide";
@@ -23787,10 +23787,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.12.1";
+    version = "1.12.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.1/file/zenclabs.previewjs-1.12.1.vsix";
-      sha256 = "sha256-BMyzjmlopFWmDYNKJXNtGwok6FkrVEQs2ssF0AuxhxE=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.2/file/zenclabs.previewjs-1.12.2.vsix";
+      sha256 = "sha256-EKZW+NHM+FXfy/J4hfubmKIR0kJuzvFij66RZnrb5io=";
     };
     license = "https://previewjs.com/eula";
     name = "previewjs";

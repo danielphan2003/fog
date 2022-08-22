@@ -9440,8 +9440,8 @@ fetch.url = "https://open-vsx.org/api/dalirnet/vue-sort/0.0.5/file/dalirnet.vue-
 passthru = { publisher = "dalirnet", name = "vue-sort", description = "Sort vue component", license = "MIT" }
 
 [CL-eide]
-src.manual = "3.8.6" # CL.eide
-fetch.url = "https://open-vsx.org/api/CL/eide/3.8.6/file/CL.eide-3.8.6.vsix" # CL.eide
+src.manual = "3.8.7" # CL.eide
+fetch.url = "https://open-vsx.org/api/CL/eide/3.8.7/file/CL.eide-3.8.7.vsix" # CL.eide
 passthru = { publisher = "CL", name = "eide", description = "A mcu development environment for 8051/AVR/STM8/Cortex-M/RISC-V", license = "MIT" }
 
 [dalirnet-doctypes]
@@ -9705,8 +9705,8 @@ fetch.url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.8/file/sourceg
 passthru = { publisher = "sourcegraph", name = "sourcegraph", description = "Sourcegraph for VS Code", license = "Apache-2.0" }
 
 [zenclabs-previewjs]
-src.manual = "1.12.1" # zenclabs.previewjs
-fetch.url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.1/file/zenclabs.previewjs-1.12.1.vsix" # zenclabs.previewjs
+src.manual = "1.12.2" # zenclabs.previewjs
+fetch.url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.2/file/zenclabs.previewjs-1.12.2.vsix" # zenclabs.previewjs
 passthru = { publisher = "zenclabs", name = "previewjs", description = "Get instant previews of your UI components, directly in your IDE", license = "https://previewjs.com/eula" }
 
 [halcyontechltd-code-for-ibmi]
@@ -10040,6 +10040,7 @@ passthru = { publisher = "chalet-org", name = "vscode-chalet", description = "Su
 src.manual = "1.0.0" # phisch.phocus-vscode
 fetch.url = "https://open-vsx.org/api/phisch/phocus-vscode/1.0.0/file/phisch.phocus-vscode-1.0.0.vsix" # phisch.phocus-vscode
 passthru = { publisher = "phisch", name = "phocus-vscode", description = "VSCode implementation of the phocus color scheme.", license = "MIT" }
+
 
 
 
