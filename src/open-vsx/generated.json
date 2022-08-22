@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RJDrgGWu2Ybq9OMWmP1R95jHvUvYuid8XVgf7p8N758=",
+            "sha256": "sha256-UpNWVwyv2Nl5EqYDpyxY0h7COXRVn8Jbly4yYoqR21c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1324/file/Prisma.prisma-insider-31.0.1324.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1326/file/Prisma.prisma-insider-31.0.1326.vsix"
         },
-        "version": "31.0.1324"
+        "version": "31.0.1326"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -31824,6 +31824,25 @@
         },
         "version": "0.0.4"
     },
+    "t-codespaces-inix-common-worker": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "t-codespaces-inix-common-worker",
+        "passthru": {
+            "description": "inix-common-worker extension",
+            "license": "",
+            "name": "inix-common-worker",
+            "publisher": "t-codespaces"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-RXDazTf3JUSZteHcCekho7+dJSeLPyiDUy5esEJMq7c=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/t-codespaces/inix-common-worker/0.0.1/file/t-codespaces.inix-common-worker-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "t-codespaces-install-extensions": {
         "cargoLocks": null,
         "extract": null,
@@ -37898,11 +37917,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

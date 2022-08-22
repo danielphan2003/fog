@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1324" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1324/file/Prisma.prisma-insider-31.0.1324.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1326" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1326/file/Prisma.prisma-insider-31.0.1326.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10044,4 +10044,10 @@ passthru = { publisher = "phisch", name = "phocus-vscode", description = "VSCode
 
 
 
+
+
+[t-codespaces-inix-common-worker]
+src.manual = "0.0.1" # t-codespaces.inix-common-worker
+fetch.url = "https://open-vsx.org/api/t-codespaces/inix-common-worker/0.0.1/file/t-codespaces.inix-common-worker-0.0.1.vsix" # t-codespaces.inix-common-worker
+passthru = { publisher = "t-codespaces", name = "inix-common-worker", description = "inix-common-worker extension", license = "" }
 

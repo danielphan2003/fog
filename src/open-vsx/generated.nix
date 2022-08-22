@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1324";
+    version = "31.0.1326";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1324/file/Prisma.prisma-insider-31.0.1324.vsix";
-      sha256 = "sha256-RJDrgGWu2Ybq9OMWmP1R95jHvUvYuid8XVgf7p8N758=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1326/file/Prisma.prisma-insider-31.0.1326.vsix";
+      sha256 = "sha256-UpNWVwyv2Nl5EqYDpyxY0h7COXRVn8Jbly4yYoqR21c=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -20101,6 +20101,18 @@
     description = "InitX ide extension base dependency.";
     publisher = "t-codespaces";
   };
+  t-codespaces-inix-common-worker = {
+    pname = "t-codespaces-inix-common-worker";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/t-codespaces/inix-common-worker/0.0.1/file/t-codespaces.inix-common-worker-0.0.1.vsix";
+      sha256 = "sha256-RXDazTf3JUSZteHcCekho7+dJSeLPyiDUy5esEJMq7c=";
+    };
+    license = "";
+    name = "inix-common-worker";
+    description = "inix-common-worker extension";
+    publisher = "t-codespaces";
+  };
   t-codespaces-install-extensions = {
     pname = "t-codespaces-install-extensions";
     version = "1.0.2";
@@ -23931,10 +23943,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
