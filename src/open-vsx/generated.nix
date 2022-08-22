@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.29.0";
+    version = "0.29.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.0/file/BeardedBear.beardedicons-0.29.0.vsix";
-      sha256 = "sha256-r0tyu7vPehOnDxVl2l3PPIjkQwfrnOnnrJQPf3h6fGg=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.1/file/BeardedBear.beardedicons-0.29.1.vsix";
+      sha256 = "sha256-q/jbDynYXF0kuneopjfgzPdJgqH2z4sF07RrgUUTkYs=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -3351,10 +3351,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.36";
+    version = "3.3.37";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.36/file/SPGoding.datapack-language-server-3.3.36.vsix";
-      sha256 = "sha256-Wf9mvmuzSK8K+5eluj/YprPFaxEHx7OJQLuLtNnyDxs=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.37/file/SPGoding.datapack-language-server-3.3.37.vsix";
+      sha256 = "sha256-G4KJkBiPyLOcbkewVM5P/LAfJegwWkeGj35uMlP+riA=";
     };
     license = "MIT";
     name = "datapack-language-server";
@@ -12735,10 +12735,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";

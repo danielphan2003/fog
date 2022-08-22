@@ -7820,8 +7820,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8285,8 +8285,8 @@ fetch.url = "https://open-vsx.org/api/shivaprasanth/dotbook/0.0.1/file/shivapras
 passthru = { publisher = "shivaprasanth", name = "dotbook", description = "Ace editor view for dothttp notebook output renderer", license = "Apache-2.0" }
 
 [SPGoding-datapack-language-server]
-src.manual = "3.3.36" # SPGoding.datapack-language-server
-fetch.url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.36/file/SPGoding.datapack-language-server-3.3.36.vsix" # SPGoding.datapack-language-server
+src.manual = "3.3.37" # SPGoding.datapack-language-server
+fetch.url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.37/file/SPGoding.datapack-language-server-3.3.37.vsix" # SPGoding.datapack-language-server
 passthru = { publisher = "SPGoding", name = "datapack-language-server", description = "Heavy language features for Minecraft: Java Edition data pack files", license = "MIT" }
 
 [redhat-apache-camel-extension-pack]
@@ -9550,8 +9550,8 @@ fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file
 passthru = { publisher = "ModyQyW", name = "vscode-uni-app-snippets", description = "uni-app 基本能力代码片段。", license = "MIT" }
 
 [BeardedBear-beardedicons]
-src.manual = "0.29.0" # BeardedBear.beardedicons
-fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.0/file/BeardedBear.beardedicons-0.29.0.vsix" # BeardedBear.beardedicons
+src.manual = "0.29.1" # BeardedBear.beardedicons
+fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.1/file/BeardedBear.beardedicons-0.29.1.vsix" # BeardedBear.beardedicons
 passthru = { publisher = "BeardedBear", name = "beardedicons", description = "The icons with a long beard.", license = "MIT" }
 
 [ModyQyW-vscode-uni-ui-snippets]
@@ -10058,5 +10058,6 @@ passthru = { publisher = "t-codespaces", name = "inix-common-worker", descriptio
 src.manual = "0.1.1" # gera2ld.ipfs-editor-vscode
 fetch.url = "https://open-vsx.org/api/gera2ld/ipfs-editor-vscode/0.1.1/file/gera2ld.ipfs-editor-vscode-0.1.1.vsix" # gera2ld.ipfs-editor-vscode
 passthru = { publisher = "gera2ld", name = "ipfs-editor-vscode", description = "IPFS Editor for VSCode", license = "MIT" }
+
 
 
