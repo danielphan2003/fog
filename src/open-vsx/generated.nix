@@ -8715,10 +8715,10 @@
   };
   edukera-archetype = {
     pname = "edukera-archetype";
-    version = "0.61.0";
+    version = "0.62.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/edukera/archetype/0.61.0/file/edukera.archetype-0.61.0.vsix";
-      sha256 = "sha256-1lU6pTFcySRdM4/BM9TaMmjpz5cD5ZFn0yFbteH6+YI=";
+      url = "https://open-vsx.org/api/edukera/archetype/0.62.0/file/edukera.archetype-0.62.0.vsix";
+      sha256 = "sha256-APk4vDB2k1aF3jzuzdqpy9WtEY/zoIhQw1YquzAYko8=";
     };
     license = "MIT";
     name = "archetype";
@@ -9579,10 +9579,10 @@
   };
   foretag-development-toolkit = {
     pname = "foretag-development-toolkit";
-    version = "0.1.2";
+    version = "0.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.2/file/foretag.development-toolkit-0.1.2.vsix";
-      sha256 = "sha256-oV7xI0y0GR7PCyFUrPcuzyRKYURARYz92cRl8OAKcp8=";
+      url = "https://open-vsx.org/api/foretag/development-toolkit/0.1.3/file/foretag.development-toolkit-0.1.3.vsix";
+      sha256 = "sha256-9sqpwBi0ZkXC/6W2s9VBw8vnmXLFIZypah7OyK3gWnE=";
     };
     license = "";
     name = "development-toolkit";
@@ -10289,8 +10289,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
