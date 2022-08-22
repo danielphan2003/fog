@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1323";
+    version = "31.0.1324";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1323/file/Prisma.prisma-insider-31.0.1323.vsix";
-      sha256 = "sha256-kCDnWMNt3441wLSA33MndPTW0SvW2G3qVJAGLkneSgw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1324/file/Prisma.prisma-insider-31.0.1324.vsix";
+      sha256 = "sha256-RJDrgGWu2Ybq9OMWmP1R95jHvUvYuid8XVgf7p8N758=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8175,10 +8175,10 @@
   };
   dendron-nightly = {
     pname = "dendron-nightly";
-    version = "0.108.5";
+    version = "0.108.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/nightly/0.108.5/file/dendron.nightly-0.108.5.vsix";
-      sha256 = "sha256-xV90dW/bMnL53sA8oieRUYuIG3J3s8pCtiXWO7YJ3gk=";
+      url = "https://open-vsx.org/api/dendron/nightly/0.108.6/file/dendron.nightly-0.108.6.vsix";
+      sha256 = "sha256-XywRVhEWMTv2Xc8JeAnK1dsMi3ypR43gQV5rYnQoDpE=";
     };
     license = "AGPL-3.0";
     name = "nightly";
@@ -10289,8 +10289,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -19071,10 +19071,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19371,10 +19371,10 @@
   };
   sourcegraph-sourcegraph = {
     pname = "sourcegraph-sourcegraph";
-    version = "2.2.8";
+    version = "2.2.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.8/file/sourcegraph.sourcegraph-2.2.8.vsix";
-      sha256 = "sha256-G1gFle57RLPeMbWKK6JugwTiwhOvsmjRdC0GAO79jSA=";
+      url = "https://open-vsx.org/api/sourcegraph/sourcegraph/2.2.9/file/sourcegraph.sourcegraph-2.2.9.vsix";
+      sha256 = "sha256-GifLnIJS430ub4qos2wMJDCM4vxiXS+BogqCpyxH3KI=";
     };
     license = "Apache-2.0";
     name = "sourcegraph";
