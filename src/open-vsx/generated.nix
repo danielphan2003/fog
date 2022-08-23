@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1335";
+    version = "31.0.1336";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1335/file/Prisma.prisma-insider-31.0.1335.vsix";
-      sha256 = "sha256-I+8BMTXH7+oa8P9sEVw3LBbs9Dd5tWK/TGg8VvUldoQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1336/file/Prisma.prisma-insider-31.0.1336.vsix";
+      sha256 = "sha256-ndysmM881VgCNormVJ68GHowcgq5s7fOMgMPMTNBWWE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11283,10 +11283,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.29";
+    version = "0.14.30";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.29/file/iljapostnovs.ui5plugin-0.14.29.vsix";
-      sha256 = "sha256-oA2rESkZ+E9H2x+cejnX82nlCqDYNz5YM3s2E4s0Wlo=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.30/file/iljapostnovs.ui5plugin-0.14.30.vsix";
+      sha256 = "sha256-DMrVmAHB84v7QDcF6TyYawkwxHxlfM66peLGlsqDYd0=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -13047,10 +13047,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -20547,10 +20547,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.20.0";
+    version = "0.21.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.20.0/file/timonwong.shellcheck-0.20.0.vsix";
-      sha256 = "sha256-ub7Sp3a+P9K46GpjEtEaZiXrGT7wIPMwHWrk2jVinDg=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.1/file/timonwong.shellcheck-0.21.1.vsix";
+      sha256 = "sha256-nrl6b/DrLdPjOL2CBLaAd/laDmq6nzf9xsEJIQynz60=";
     };
     license = "MIT";
     name = "shellcheck";
