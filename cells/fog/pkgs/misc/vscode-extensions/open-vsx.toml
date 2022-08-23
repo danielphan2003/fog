@@ -7820,8 +7820,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9691,7 +9691,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -10073,6 +10073,7 @@ passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", descriptio
 src.manual = "0.0.1" # cloudstudio.gitcommits
 fetch.url = "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix" # cloudstudio.gitcommits
 passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Cloud Studio Git Commits", license = "MIT" }
+
 
 
 
