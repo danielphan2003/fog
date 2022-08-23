@@ -85,13 +85,13 @@
   };
   arkenfox-userjs = {
     pname = "arkenfox-userjs";
-    version = "0dba33688fe468aca9b58c60910201afb3b89f60";
+    version = "2b2e151f45b372bc99ef7cdffe86fa1fe6f24298";
     src = fetchFromGitHub ({
       owner = "arkenfox";
       repo = "user.js";
-      rev = "0dba33688fe468aca9b58c60910201afb3b89f60";
+      rev = "2b2e151f45b372bc99ef7cdffe86fa1fe6f24298";
       fetchSubmodules = false;
-      sha256 = "sha256-MhlZav86gz8bH1aEWyNFNLnc6T7MBU1d3dGHtG2lEnA=";
+      sha256 = "sha256-0KVTqScGFGRYC7e/CbNOhI0rdwd2XjK6EFZ8hY6a+I8=";
     });
   };
   asusctl = {
@@ -474,13 +474,13 @@
   };
   godu = {
     pname = "godu";
-    version = "d8b1fe469c7257a33d59d478ec82fc701da7380e";
+    version = "56dff7ee254e3770a2f9bd100f78671dc16862d6";
     src = fetchFromGitHub ({
       owner = "viktomas";
       repo = "godu";
-      rev = "d8b1fe469c7257a33d59d478ec82fc701da7380e";
+      rev = "56dff7ee254e3770a2f9bd100f78671dc16862d6";
       fetchSubmodules = false;
-      sha256 = "sha256-JUsBxr5J12BdYEHWfzJmnIDuugzIHtAnwDF9isuQ12o=";
+      sha256 = "sha256-P6X/LiU3XPm25BlvQ6ENe/MFoNhGzfUvAUcgPA8+fQ4=";
     });
   };
   guiscrcpy = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e2450247c0ca58b8ebc510074bcb11df8c6072e7";
+    version = "0a9ac4703019298787de6ff20b228f5f3e2f3bdc";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "e2450247c0ca58b8ebc510074bcb11df8c6072e7";
+      rev = "0a9ac4703019298787de6ff20b228f5f3e2f3bdc";
       fetchSubmodules = false;
-      sha256 = "sha256-c58lo57SWUjBPjc7WktnRA786q3bajVSaBlh07RgAJ0=";
+      sha256 = "sha256-6gRCOjclEcFV0kybiiEIM9Li+/PolRjCrQDYWQjyT5Y=";
     });
   };
   ibus = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "e769436876a4af3eb83f255777b837094d066e17";
+    version = "c22c69e792dd9e69c8112912158cc2c142e2e8f2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "e769436876a4af3eb83f255777b837094d066e17";
+      rev = "c22c69e792dd9e69c8112912158cc2c142e2e8f2";
       fetchSubmodules = false;
-      sha256 = "sha256-+BvKu8ncegT8vrkxHmhkDDpJIrWMmhCXCdcYHIHWqho=";
+      sha256 = "sha256-lfrc1ya4sdRm7lwW4Pyig8PASp8CSBgTGS8XGxhoxZk=";
     });
   };
   revanced-cli = {
