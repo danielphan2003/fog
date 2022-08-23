@@ -959,13 +959,13 @@
   };
   rofi-wayland = {
     pname = "rofi-wayland";
-    version = "6801bd85bbfa59143b8ec443a05b22ef977b4349";
+    version = "9ec86220d55a72e89a60f357a71d3572f130f885";
     src = fetchFromGitHub ({
       owner = "lbonn";
       repo = "rofi";
-      rev = "6801bd85bbfa59143b8ec443a05b22ef977b4349";
+      rev = "9ec86220d55a72e89a60f357a71d3572f130f885";
       fetchSubmodules = true;
-      sha256 = "sha256-3kPzEkljNXOf+4HSCrjXm6BUxusDT9NP2wbxqBRvLRk=";
+      sha256 = "sha256-ddKLV7NvqgTQl5YlAEyBK0oalcJsLASK4z3qArQPUDQ=";
     });
   };
   rustdesk = {
@@ -1219,13 +1219,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "facafd88190ed9b7bc6fc1977ffc52c5d3fe8545";
+    version = "78b90c368520d21fec59afa2b6dda01e2f2a5f7b";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "facafd88190ed9b7bc6fc1977ffc52c5d3fe8545";
+      rev = "78b90c368520d21fec59afa2b6dda01e2f2a5f7b";
       fetchSubmodules = false;
-      sha256 = "sha256-pmuhzK6OzR+ckGUSOhl+OdkUGOACRXaFdqE9B/EO9PU=";
+      sha256 = "sha256-9a+WYRSTAHbFPfDVVUcpesVudhzWDf5+3qljGRUm8bU=";
     });
   };
   tailscale-systray = {
