@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -9950,8 +9950,8 @@ fetch.url = "https://open-vsx.org/api/Dart-Code/dart-code/3.46.0/file/Dart-Code.
 passthru = { publisher = "Dart-Code", name = "dart-code", description = "Dart language support and debugger for Visual Studio Code.", license = "MIT" }
 
 [cweijan-vscode-mysql-client2]
-src.manual = "5.7.0" # cweijan.vscode-mysql-client2
-fetch.url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.0/file/cweijan.vscode-mysql-client2-5.7.0.vsix" # cweijan.vscode-mysql-client2
+src.manual = "5.7.3" # cweijan.vscode-mysql-client2
+fetch.url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.3/file/cweijan.vscode-mysql-client2-5.7.3.vsix" # cweijan.vscode-mysql-client2
 passthru = { publisher = "cweijan", name = "vscode-mysql-client2", description = "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch.", license = "MIT" }
 
 [redhat-vscode-xml]
@@ -10073,4 +10073,5 @@ passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", descriptio
 src.manual = "0.0.1" # cloudstudio.gitcommits
 fetch.url = "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix" # cloudstudio.gitcommits
 passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Cloud Studio Git Commits", license = "MIT" }
+
 

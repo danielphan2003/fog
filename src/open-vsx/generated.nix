@@ -7635,10 +7635,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.7.0";
+    version = "5.7.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.0/file/cweijan.vscode-mysql-client2-5.7.0.vsix";
-      sha256 = "sha256-m/AnJ07pZQ5gf5VNjdX18DaH1iKHPtZhi71XmbZkAMc=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.3/file/cweijan.vscode-mysql-client2-5.7.3.vsix";
+      sha256 = "sha256-fCw6hghvGMMeY0M8C6tu0ZQFW96CP+Sxf+oA+1RfVJ4=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
@@ -13047,10 +13047,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";

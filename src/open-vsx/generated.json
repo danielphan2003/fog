@@ -12096,11 +12096,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m/AnJ07pZQ5gf5VNjdX18DaH1iKHPtZhi71XmbZkAMc=",
+            "sha256": "sha256-fCw6hghvGMMeY0M8C6tu0ZQFW96CP+Sxf+oA+1RfVJ4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.0/file/cweijan.vscode-mysql-client2-5.7.0.vsix"
+            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.3/file/cweijan.vscode-mysql-client2-5.7.3.vsix"
         },
-        "version": "5.7.0"
+        "version": "5.7.3"
     },
     "cweijan-vscode-office": {
         "cargoLocks": null,
@@ -20665,11 +20665,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
