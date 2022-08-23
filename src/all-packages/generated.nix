@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "fa1feaf9d938c21c12c2cbf3ba428d80c9fc0678";
+    version = "f3876100ae268e38613c287a74e8f0bd96f19890";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "fa1feaf9d938c21c12c2cbf3ba428d80c9fc0678";
+      rev = "f3876100ae268e38613c287a74e8f0bd96f19890";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-MVPbVSGY3OMfIfb4WOfJe90Io0cFn1b9uyl6m/2g6sg=";
+      sha256 = "sha256-GuXdMSgq5Pbn+dd2Zst+M3x9cvawdL03zQplG5e88b8=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-fa1feaf9d938c21c12c2cbf3ba428d80c9fc0678/Cargo.lock;
+      lockFile = ./asusctl-f3876100ae268e38613c287a74e8f0bd96f19890/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "fba7ed97fbb3dfe7c2a9ac45ceef2243624eaa04";
+    version = "09f3999b1e2ad6033c93ed84849188839e335c7f";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "fba7ed97fbb3dfe7c2a9ac45ceef2243624eaa04";
+      rev = "09f3999b1e2ad6033c93ed84849188839e335c7f";
       fetchSubmodules = false;
-      sha256 = "sha256-QdIU4+drxhkpKknlBM3Qo9VJU65E2ssWs/QkN+6t5kI=";
+      sha256 = "sha256-5YhujCogSI+eekjoybByNQVQzzHigYZiGmKFivCAfe4=";
     });
   };
   ibus = {
@@ -1073,14 +1073,14 @@
   };
   snui = {
     pname = "snui";
-    version = "b1984c03ba6c530ed595876dbdb56da510da696d";
+    version = "ef52445f1c630baf144f246a95bc892288d4c92a";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "b1984c03ba6c530ed595876dbdb56da510da696d";
+      rev = "ef52445f1c630baf144f246a95bc892288d4c92a";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-zmrYVD71WPwsY3uOOCZA7dLHH8++O6WrbGdS7vPYBHk=";
+      sha256 = "sha256-TG4boO95Nt4bIy7pNldMsWBqeLsyS4bdctqZsZ8Aros=";
     };
   };
   spicetify-cli = {
