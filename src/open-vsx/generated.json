@@ -16314,9 +16314,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20703,11 +20703,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ue1KnKdqh99Tmz3os8NgoRSZX4F0E4UyJmQaxZn4sUE=",
+            "sha256": "sha256-ySBUCVgP5+oQny0EHVmYWO8Hdidqnyuy/1LqM02lca8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.4.1649700976/file/launchdarklyofficial.launchdarkly-beta-2022.4.1649700976.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661288102/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661288102.vsix"
         },
-        "version": "2022.4.1649700976"
+        "version": "2022.8.1661288102"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -25168,11 +25168,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-CdUHdNW5xjUXLSXglJaISB0l74TGpMlwKw75YYgUDH8=",
+            "sha256": "sha256-BMiLMFvjYL8q09NZG134//Zgl6Q3ciFQUUUwUPgSmCY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.1/file/nokxs.iobroker-javascript-1.1.1.vsix"
+            "url": "https://open-vsx.org/api/nokxs/iobroker-javascript/1.1.2/file/nokxs.iobroker-javascript-1.1.2.vsix"
         },
-        "version": "1.1.1"
+        "version": "1.1.2"
     },
     "nonoroazoro-syncing": {
         "cargoLocks": null,
