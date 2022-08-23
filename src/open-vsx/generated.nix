@@ -243,10 +243,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "7.2.1";
+    version = "7.2.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.2.1/file/BeardedBear.beardedtheme-7.2.1.vsix";
-      sha256 = "sha256-oU10qwZ7mq7hRbzWxe1d6+z8caTJeQCkHAIgqMjp6qA=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.2.2/file/BeardedBear.beardedtheme-7.2.2.vsix";
+      sha256 = "sha256-e69op4U0uKIT1FDi1Evy33UnWCdMF0NzDWiijl6H9oo=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1334";
+    version = "31.0.1335";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1334/file/Prisma.prisma-insider-31.0.1334.vsix";
-      sha256 = "sha256-9tR+TSBfZ7LHfNFup5inqlbwNlg35FkOvaxuE5Rw7i0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1335/file/Prisma.prisma-insider-31.0.1335.vsix";
+      sha256 = "sha256-I+8BMTXH7+oa8P9sEVw3LBbs9Dd5tWK/TGg8VvUldoQ=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -11475,10 +11475,10 @@
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
-    version = "0.3.1";
+    version = "0.3.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.1/file/isg-cnc.vscode-isg-cnc-0.3.1.vsix";
-      sha256 = "sha256-3AK85p4kcMs/+8z3azfagc2WI8TBCvfdry7t4JIh8PU=";
+      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.2/file/isg-cnc.vscode-isg-cnc-0.3.2.vsix";
+      sha256 = "sha256-IPCVv3OP5eyUPEWdI+/c3XJLxD81wsMzdgPJfzDY95Q=";
     };
     license = "MIT";
     name = "vscode-isg-cnc";
@@ -12747,10 +12747,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -19529,8 +19529,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
