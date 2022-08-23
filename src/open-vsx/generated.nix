@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1328";
+    version = "31.0.1329";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1328/file/Prisma.prisma-insider-31.0.1328.vsix";
-      sha256 = "sha256-tBNnQ6VK5FExL9NEbEYvSOFQoMEMXn5QPFq2peHC5Nw=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1329/file/Prisma.prisma-insider-31.0.1329.vsix";
+      sha256 = "sha256-HhzBcFAJblfMdHg3gnWWO17WoNxFyr1wFS0vJswubLE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3687,10 +3687,10 @@
   };
   TabNine-tabnine-vscode = {
     pname = "TabNine-tabnine-vscode";
-    version = "3.6.13";
+    version = "3.6.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.13/file/TabNine.tabnine-vscode-3.6.13.vsix";
-      sha256 = "sha256-iQ8nT3tYbjqarIyOF8O9li/oLlJ+KH3ecji15q77PqY=";
+      url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.14/file/TabNine.tabnine-vscode-3.6.14.vsix";
+      sha256 = "sha256-aYrnMaycz0tU34uxq1ORXCIes/dxxa01NC5lmssqy8A=";
     };
     license = "License at https://tabnine.com/eula";
     name = "tabnine-vscode";
@@ -6015,10 +6015,10 @@
   };
   base9-theme-base9-vscode = {
     pname = "base9-theme-base9-vscode";
-    version = "0.0.7";
+    version = "0.0.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.7/file/base9-theme.base9-vscode-0.0.7.vsix";
-      sha256 = "sha256-2qLhZxEwFfWbu6f9Ly8s9wEFwotkujUgxGYYKWR3v3s=";
+      url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.8/file/base9-theme.base9-vscode-0.0.8.vsix";
+      sha256 = "sha256-lsg5XlWAMB4RYsWgwj9Vj+L5r6UuZV9nW/yCzZwfWeg=";
     };
     license = "MIT";
     name = "base9-vscode";
@@ -7117,6 +7117,18 @@
     description = "Cloud Studio \20113\37096\32626\22871\20214";
     publisher = "cloudstudio";
   };
+  cloudstudio-gitcommits = {
+    pname = "cloudstudio-gitcommits";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix";
+      sha256 = "sha256-ICpkHnSMNSK4cwVyKv6ALFztpJWH2x3hgSOECWh0liI=";
+    };
+    license = "MIT";
+    name = "gitcommits";
+    description = "Cloud Studio Git Commits";
+    publisher = "cloudstudio";
+  };
   cloudstudio-github-authentication = {
     pname = "cloudstudio-github-authentication";
     version = "0.0.3";
@@ -7167,10 +7179,10 @@
   };
   cloudstudio-workspaces = {
     pname = "cloudstudio-workspaces";
-    version = "0.0.22";
+    version = "0.0.23";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.22/file/cloudstudio.workspaces-0.0.22.vsix";
-      sha256 = "sha256-9k3FnqT5mFEp4nMUr44tA7wRnO1mFnhHs9xluZL5H+E=";
+      url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.23/file/cloudstudio.workspaces-0.0.23.vsix";
+      sha256 = "sha256-khyZGHArFmWNsTTg+jHrATppHQsE4Jl0ZsZbes49yAA=";
     };
     license = "MIT";
     name = "workspaces";
@@ -10301,8 +10313,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12735,10 +12747,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13035,10 +13047,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";

@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tBNnQ6VK5FExL9NEbEYvSOFQoMEMXn5QPFq2peHC5Nw=",
+            "sha256": "sha256-HhzBcFAJblfMdHg3gnWWO17WoNxFyr1wFS0vJswubLE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1328/file/Prisma.prisma-insider-31.0.1328.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1329/file/Prisma.prisma-insider-31.0.1329.vsix"
         },
-        "version": "31.0.1328"
+        "version": "31.0.1329"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5845,11 +5845,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-iQ8nT3tYbjqarIyOF8O9li/oLlJ+KH3ecji15q77PqY=",
+            "sha256": "sha256-aYrnMaycz0tU34uxq1ORXCIes/dxxa01NC5lmssqy8A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.13/file/TabNine.tabnine-vscode-3.6.13.vsix"
+            "url": "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.14/file/TabNine.tabnine-vscode-3.6.14.vsix"
         },
-        "version": "3.6.13"
+        "version": "3.6.14"
     },
     "TakumiI-markdowntable": {
         "cargoLocks": null,
@@ -9531,11 +9531,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2qLhZxEwFfWbu6f9Ly8s9wEFwotkujUgxGYYKWR3v3s=",
+            "sha256": "sha256-lsg5XlWAMB4RYsWgwj9Vj+L5r6UuZV9nW/yCzZwfWeg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.7/file/base9-theme.base9-vscode-0.0.7.vsix"
+            "url": "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.8/file/base9-theme.base9-vscode-0.0.8.vsix"
         },
-        "version": "0.0.7"
+        "version": "0.0.8"
     },
     "batisteo-vscode-django": {
         "cargoLocks": null,
@@ -11266,6 +11266,25 @@
         },
         "version": "0.0.4"
     },
+    "cloudstudio-gitcommits": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "cloudstudio-gitcommits",
+        "passthru": {
+            "description": "Cloud Studio Git Commits",
+            "license": "MIT",
+            "name": "gitcommits",
+            "publisher": "cloudstudio"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-ICpkHnSMNSK4cwVyKv6ALFztpJWH2x3hgSOECWh0liI=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "cloudstudio-github-authentication": {
         "cargoLocks": null,
         "extract": null,
@@ -11355,11 +11374,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9k3FnqT5mFEp4nMUr44tA7wRnO1mFnhHs9xluZL5H+E=",
+            "sha256": "sha256-khyZGHArFmWNsTTg+jHrATppHQsE4Jl0ZsZbes49yAA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.22/file/cloudstudio.workspaces-0.0.22.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/workspaces/0.0.23/file/cloudstudio.workspaces-0.0.23.vsix"
         },
-        "version": "0.0.22"
+        "version": "0.0.23"
     },
     "cmoog-sqlnotebook": {
         "cargoLocks": null,
@@ -16314,9 +16333,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20171,11 +20190,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20646,11 +20665,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,

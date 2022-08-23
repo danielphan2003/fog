@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4400,8 +4400,8 @@ fetch.url = "https://open-vsx.org/api/pranaygp/vscode-css-peek/4.2.0/file/pranay
 passthru = { publisher = "pranaygp", name = "vscode-css-peek", description = "Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.", license = "MIT" }
 
 [base9-theme-base9-vscode]
-src.manual = "0.0.7" # base9-theme.base9-vscode
-fetch.url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.7/file/base9-theme.base9-vscode-0.0.7.vsix" # base9-theme.base9-vscode
+src.manual = "0.0.8" # base9-theme.base9-vscode
+fetch.url = "https://open-vsx.org/api/base9-theme/base9-vscode/0.0.8/file/base9-theme.base9-vscode-0.0.8.vsix" # base9-theme.base9-vscode
 passthru = { publisher = "base9-theme", name = "base9-vscode", description = "", license = "MIT" }
 
 [Fushra-meml]
@@ -4810,8 +4810,8 @@ fetch.url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.14.3/file/biern
 passthru = { publisher = "bierner", name = "markdown-mermaid", description = "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview", license = "MIT" }
 
 [cloudstudio-workspaces]
-src.manual = "0.0.22" # cloudstudio.workspaces
-fetch.url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.22/file/cloudstudio.workspaces-0.0.22.vsix" # cloudstudio.workspaces
+src.manual = "0.0.23" # cloudstudio.workspaces
+fetch.url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.23/file/cloudstudio.workspaces-0.0.23.vsix" # cloudstudio.workspaces
 passthru = { publisher = "cloudstudio", name = "workspaces", description = "User workspace common function", license = "MIT" }
 
 [vscjava-vscode-maven]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7820,8 +7820,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1328" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1328/file/Prisma.prisma-insider-31.0.1328.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1329" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1329/file/Prisma.prisma-insider-31.0.1329.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9965,8 +9965,8 @@ fetch.url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.48.1/file/GitLab.
 passthru = { publisher = "GitLab", name = "gitlab-workflow", description = "Official GitLab-maintained extension for Visual Studio Code.", license = "MIT" }
 
 [TabNine-tabnine-vscode]
-src.manual = "3.6.13" # TabNine.tabnine-vscode
-fetch.url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.13/file/TabNine.tabnine-vscode-3.6.13.vsix" # TabNine.tabnine-vscode
+src.manual = "3.6.14" # TabNine.tabnine-vscode
+fetch.url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.14/file/TabNine.tabnine-vscode-3.6.14.vsix" # TabNine.tabnine-vscode
 passthru = { publisher = "TabNine", name = "tabnine-vscode", description = "cript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.", license = "License at https://tabnine.com/eula" }
 
 [redhat-java]
@@ -10067,4 +10067,10 @@ src.manual = "0.1.6" # t-codespaces.ide-data-sync-node
 fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix" # t-codespaces.ide-data-sync-node
 passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", description = "端云一体 vscode-remote node 端消费插件", license = "" }
 
+
+
+[cloudstudio-gitcommits]
+src.manual = "0.0.1" # cloudstudio.gitcommits
+fetch.url = "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix" # cloudstudio.gitcommits
+passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Cloud Studio Git Commits", license = "MIT" }
 
