@@ -243,10 +243,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "7.1.0";
+    version = "7.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.1.0/file/BeardedBear.beardedtheme-7.1.0.vsix";
-      sha256 = "sha256-vmrmZS95yliLgF0rPuguITqStPDSYyvQJItPV7gMits=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.2.0/file/BeardedBear.beardedtheme-7.2.0.vsix";
+      sha256 = "sha256-mR/sXqsAeXLodlK7O4vKfmrSeIVz0znP1AYQt13aAQk=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -10301,8 +10301,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12291,10 +12291,10 @@
   };
   junstyle-php-cs-fixer = {
     pname = "junstyle-php-cs-fixer";
-    version = "0.3.5";
+    version = "0.3.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.5/file/junstyle.php-cs-fixer-0.3.5.vsix";
-      sha256 = "sha256-AIKniqDt6JIK0LzPgkrt5GeuXp5VR5xHQNblaCLVol8=";
+      url = "https://open-vsx.org/api/junstyle/php-cs-fixer/0.3.6/file/junstyle.php-cs-fixer-0.3.6.vsix";
+      sha256 = "sha256-cyf1CTRwCfaaAVIExs+ZMPD6jw0hMLBi4N93M+OL19Y=";
     };
     license = "ISC";
     name = "php-cs-fixer";
@@ -12735,10 +12735,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13035,10 +13035,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -13695,10 +13695,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "1.4.4";
+    version = "1.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/1.4.4/file/marus25.cortex-debug-1.4.4.vsix";
-      sha256 = "sha256-z48E/wwoeEaAXRK3NhDV+KHsHnncFgecEn6x0xCQC8A=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.0/file/marus25.cortex-debug-1.6.0.vsix";
+      sha256 = "sha256-4DQux5vPlX7mQfR0uRlLiQXdrc1YRfW27dMPq+E9y1I=";
     };
     license = "MIT";
     name = "cortex-debug";
@@ -20091,10 +20091,10 @@
   };
   t-codespaces-ide-data-sync = {
     pname = "t-codespaces-ide-data-sync";
-    version = "0.1.0";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.0/file/t-codespaces.ide-data-sync-0.1.0.vsix";
-      sha256 = "sha256-XfUFxH6TlvCUVflUo0aafti6ki2a2bI0/AIRjjEVjnE=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix";
+      sha256 = "sha256-cYxhqrdyDsEELoEofcEhn2coaOkHr1c+ZNlAlgHbPvU=";
     };
     license = "";
     name = "ide-data-sync";
@@ -20103,10 +20103,10 @@
   };
   t-codespaces-ide-data-sync-node = {
     pname = "t-codespaces-ide-data-sync-node";
-    version = "0.0.1";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.1/file/t-codespaces.ide-data-sync-node-0.0.1.vsix";
-      sha256 = "sha256-VlsjoUk9Shk02SF/t29dlEwJRK8Wvr/uE3008JSAhWg=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix";
+      sha256 = "sha256-cYxhqrdyDsEELoEofcEhn2coaOkHr1c+ZNlAlgHbPvU=";
     };
     license = "";
     name = "ide-data-sync-node";
@@ -23967,10 +23967,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
