@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "9bfa3ebc50f503f3eaa43dcad44a976e8ee14c73";
+    version = "23c5760538c8db68c0b0d3b170c6e812f50a1bb4";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "9bfa3ebc50f503f3eaa43dcad44a976e8ee14c73";
+      rev = "23c5760538c8db68c0b0d3b170c6e812f50a1bb4";
       fetchSubmodules = false;
-      sha256 = "sha256-CJy9fu741eQDgLEnNbOqEjbrWV95WtHzN4Epp7odHIQ=";
+      sha256 = "sha256-b4HqrJhH9e/XqYukO8m2z+d0+YdUYTyIPLAg5e23xyE=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6478";
+    version = "1.0.6479";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6478.tar.bz2";
-      sha256 = "sha256-2ecJbS0oqO9rX8it43Y/XEM8T6t/bzCiWB81c6yVN+E=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6479.tar.bz2";
+      sha256 = "sha256-KUbvSEvWwvcwg7OTOlMkIos7pP9qjSaazXpQ6bYrhpM=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6478";
+    version = "1.0.6479";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6478-1_all.deb";
-      sha256 = "sha256-XvOfjT81DzqgImb+EV9BlKsARpGUSSlT//4Byh+D8Jk=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6479-1_all.deb";
+      sha256 = "sha256-msbsvnrJ8vQaKcjCzMNSk4lUCM/ySeQBpOzw2R2v0tQ=";
     };
   };
   jitsi-videobridge2 = {
@@ -781,13 +781,13 @@
   };
   picom = {
     pname = "picom";
-    version = "a252cbf0283475ea40251d9abc9feec1722620f9";
+    version = "e0758eb5e572d5d7cf28f28e5e409f20e0bd2ded";
     src = fetchFromGitHub ({
       owner = "yshui";
       repo = "picom";
-      rev = "a252cbf0283475ea40251d9abc9feec1722620f9";
+      rev = "e0758eb5e572d5d7cf28f28e5e409f20e0bd2ded";
       fetchSubmodules = false;
-      sha256 = "sha256-W9B6CP2CVUoHG2I3N3P3n1RgFYvNJjHSCFC5HCSZT+o=";
+      sha256 = "sha256-L0cFkKPFw92dx3P9jlkwgw7/otjUVkVZbOE0UT6gF+I=";
     });
   };
   playit-agent = {
