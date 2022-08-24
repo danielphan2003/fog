@@ -1229,8 +1229,8 @@
     pname = "GenieBuilder-geniebuilder-insider";
     version = "0.1.20";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.20/file/GenieBuilder.geniebuilder-0.1.20.vsix";
-      sha256 = "sha256-5ngYSt1Z/hfZ2dfhKBFHYMKTWsUdWybJN7bqf5rYK/0=";
+      url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.20/file/GenieBuilder.geniebuilder-insider-0.1.20.vsix";
+      sha256 = "sha256-Ljlu/DTOFTa4myDOGQQMK3uCeDRys0UPr/p4EFzGJCQ=";
     };
     license = "";
     name = "geniebuilder-insider";
@@ -10301,8 +10301,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10313,8 +10313,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -15495,10 +15495,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.23";
+    version = "1.1.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.23/file/mutable-ai.mutable-ai-1.1.23.vsix";
-      sha256 = "sha256-Q0cYQpdakcH7f/8GJEtFBPpbK52mSkO1tFoRt3Gq1Fw=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.24/file/mutable-ai.mutable-ai-1.1.24.vsix";
+      sha256 = "sha256-YP1qr/0qLdxjxhZu/H6ZgHQGLd/Jn7kOT0PrFGtPAiQ=";
     };
     license = "";
     name = "mutable-ai";
@@ -15519,10 +15519,10 @@
   };
   mvllow-rose-pine = {
     pname = "mvllow-rose-pine";
-    version = "2.4.0";
+    version = "2.4.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mvllow/rose-pine/2.4.0/file/mvllow.rose-pine-2.4.0.vsix";
-      sha256 = "sha256-i+mZOkfOqMI/aDDQKtPg245mSs5p3PYhiO1oTzvut9w=";
+      url = "https://open-vsx.org/api/mvllow/rose-pine/2.4.1/file/mvllow.rose-pine-2.4.1.vsix";
+      sha256 = "sha256-4nVlqhefe/S2sJ9hRlI4ss8FbFU6NFJ2MD+uietVmi0=";
     };
     license = "MIT";
     name = "rose-pine";
@@ -19095,10 +19095,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19529,8 +19529,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -20115,10 +20115,10 @@
   };
   t-codespaces-ide-data-sync-node = {
     pname = "t-codespaces-ide-data-sync-node";
-    version = "0.0.2";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.2/file/t-codespaces.ide-data-sync-node-0.0.2.vsix";
-      sha256 = "sha256-+bgoDOlqFfJPCXFxypbeZVmNHVtCtqlo/rCZI1tWRdw=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix";
+      sha256 = "sha256-cYxhqrdyDsEELoEofcEhn2coaOkHr1c+ZNlAlgHbPvU=";
     };
     license = "";
     name = "ide-data-sync-node";
@@ -23787,10 +23787,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.71";
+    version = "0.0.72";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.71/file/zardoy.zardoy-experiments-0.0.71.vsix";
-      sha256 = "sha256-X+37M7dcNhzgfZBPGeqdFlyP4tAdPxoySuc2MXWVRIc=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.72/file/zardoy.zardoy-experiments-0.0.72.vsix";
+      sha256 = "sha256-KjlaICWNOuEOsIZgUs0XjPCTAhKqIzMi5BXdLnrjqkw=";
     };
     license = "MIT";
     name = "zardoy-experiments";
