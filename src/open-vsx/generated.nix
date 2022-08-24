@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1339";
+    version = "31.0.1340";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1339/file/Prisma.prisma-insider-31.0.1339.vsix";
-      sha256 = "sha256-M8hlzvcMlYHM66x2THtg0IworRa4gaHaLEYdmmen8Ow=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1340/file/Prisma.prisma-insider-31.0.1340.vsix";
+      sha256 = "sha256-KIP+y/eScGHmqMIMLb2CfnbGCNGvfklE15mw7/khrd0=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3279,10 +3279,10 @@
   };
   RokuCommunity-brightscript = {
     pname = "RokuCommunity-brightscript";
-    version = "2.34.2";
+    version = "2.35.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.34.2/file/RokuCommunity.brightscript-2.34.2.vsix";
-      sha256 = "sha256-+ebIcPccNQ0t5uNM5cVJTmtjLgDyoXXcYgX0uvHJ9oc=";
+      url = "https://open-vsx.org/api/RokuCommunity/brightscript/2.35.0/file/RokuCommunity.brightscript-2.35.0.vsix";
+      sha256 = "sha256-1o+XQf/BprOMtxcbG77dhT1S89rSuimMZru3g8WLfJg=";
     };
     license = "MIT";
     name = "brightscript";
@@ -3495,10 +3495,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.2410";
+    version = "2022.8.2414";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2410/file/Slint.slint-nightly-2022.8.2410.vsix";
-      sha256 = "sha256-HdqCOHnlqhi5FKcvFX3BeMPgQUdCBfIiXupQP0PLp6Q=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2414/file/Slint.slint-nightly-2022.8.2414.vsix";
+      sha256 = "sha256-tTKkSWZmksWIXEoB1itTjOTH5PbryodDiN86Zyf4+z8=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -10325,8 +10325,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -19541,8 +19541,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
