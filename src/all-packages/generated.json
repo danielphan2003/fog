@@ -530,11 +530,11 @@
             "name": null,
             "owner": "DNSCrypt",
             "repo": "dnscrypt-proxy",
-            "rev": "937c1e63e25b1a5fe9216c7f9309aac75a88fe57",
-            "sha256": "sha256-Gw7IA8bIpLfRAXeh42ERwpbi4AC3eU+E+NqZJoqjtLo=",
+            "rev": "41f192a907ddfd2ea4660b1003cd415fc5a403e2",
+            "sha256": "sha256-ja96BJ053CEqsFpKxt0ZDMABAtHAZrB3Dum/ltmOlx0=",
             "type": "github"
         },
-        "version": "937c1e63e25b1a5fe9216c7f9309aac75a88fe57"
+        "version": "41f192a907ddfd2ea4660b1003cd415fc5a403e2"
     },
     "doggo": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "b59624adc86bdd33be747c20074d8e2affa266e7",
-            "sha256": "sha256-3Xi6pT4Ke8jAaQ9bSjTVCBctZj1qXQDYug5bxRVG4q8=",
+            "rev": "72cc98e9bd253e3c3bf861897f72b7b399f086fe",
+            "sha256": "sha256-E7/IO5AJ+6YXXIrXhBbXKc/NEjX3b/jRSQ/Qj6kKph4=",
             "type": "github"
         },
-        "version": "b59624adc86bdd33be747c20074d8e2affa266e7"
+        "version": "72cc98e9bd253e3c3bf861897f72b7b399f086fe"
     },
     "revanced-cli": {
         "cargoLocks": null,
