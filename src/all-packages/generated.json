@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "3aabbc49a2eccc66a20d3223e9fb2925cbbdd0d4",
-            "sha256": "sha256-e9c2FTynPvjaKRk+CisKH6LTzv6luzejNpxp/0Qv5ko=",
+            "rev": "b540f195b1bdf5ea8b869e43431a3f1d64810753",
+            "sha256": "sha256-NB2tMsNSbFsBGZj/Mqv2acaQ/TwYsnSD6MESuUCZTJQ=",
             "type": "github"
         },
-        "version": "3aabbc49a2eccc66a20d3223e9fb2925cbbdd0d4"
+        "version": "b540f195b1bdf5ea8b869e43431a3f1d64810753"
     },
     "cinny": {
         "cargoLocks": null,
@@ -767,11 +767,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3",
-            "sha256": "sha256-pY6WzKU1qfefL8jzFrJZFUacDopfvISwyYRvP1pou8E=",
+            "rev": "33eb76b84dba8b0ee79b0af6370d157caff544a4",
+            "sha256": "sha256-NpPZDX514KlTA+HhMeqQnizO08vFzotsK2W27i8qSWA=",
             "type": "github"
         },
-        "version": "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3"
+        "version": "33eb76b84dba8b0ee79b0af6370d157caff544a4"
     },
     "godu": {
         "cargoLocks": null,
@@ -1107,11 +1107,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BSNvnvHP1sNU/9GJ5ytaFk/RlAkdHSUBdSfysBFsdXA=",
+            "sha256": "sha256-PlqyhzDQ4s7Ub1Cgt/plVG3C3CJpYmnDo5DFoZyoIss=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1349.1-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1356.0-1_amd64.deb"
         },
-        "version": "106.0.1349.1"
+        "version": "106.0.1356.0"
     },
     "microsoft-edge-stable": {
         "cargoLocks": null,
@@ -2023,11 +2023,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "b3cc719add220f08cfb7664be9a24024ad7020db",
-            "sha256": "sha256-mh8YXNfi5ZCeBqKvRmZu4Ew80g+JMWzjmCe/R+3oECw=",
+            "rev": "a78f8fa70165b4072357149186ac844c1b494445",
+            "sha256": "sha256-xhH1UGLq5VnHsmClD/D6UnRVa915jXU58OP7Ce8U9LE=",
             "type": "github"
         },
-        "version": "b3cc719add220f08cfb7664be9a24024ad7020db"
+        "version": "a78f8fa70165b4072357149186ac844c1b494445"
     },
     "tailscale-systray": {
         "cargoLocks": null,

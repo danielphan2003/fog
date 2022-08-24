@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "3aabbc49a2eccc66a20d3223e9fb2925cbbdd0d4";
+    version = "b540f195b1bdf5ea8b869e43431a3f1d64810753";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "3aabbc49a2eccc66a20d3223e9fb2925cbbdd0d4";
+      rev = "b540f195b1bdf5ea8b869e43431a3f1d64810753";
       fetchSubmodules = false;
-      sha256 = "sha256-e9c2FTynPvjaKRk+CisKH6LTzv6luzejNpxp/0Qv5ko=";
+      sha256 = "sha256-NB2tMsNSbFsBGZj/Mqv2acaQ/TwYsnSD6MESuUCZTJQ=";
     });
   };
   cinny = {
@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3";
+    version = "33eb76b84dba8b0ee79b0af6370d157caff544a4";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3";
+      rev = "33eb76b84dba8b0ee79b0af6370d157caff544a4";
       fetchSubmodules = false;
-      sha256 = "sha256-pY6WzKU1qfefL8jzFrJZFUacDopfvISwyYRvP1pou8E=";
+      sha256 = "sha256-NpPZDX514KlTA+HhMeqQnizO08vFzotsK2W27i8qSWA=";
     });
   };
   godu = {
@@ -662,10 +662,10 @@
   };
   microsoft-edge-dev = {
     pname = "microsoft-edge-dev";
-    version = "106.0.1349.1";
+    version = "106.0.1356.0";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1349.1-1_amd64.deb";
-      sha256 = "sha256-BSNvnvHP1sNU/9GJ5ytaFk/RlAkdHSUBdSfysBFsdXA=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-dev/microsoft-edge-dev_106.0.1356.0-1_amd64.deb";
+      sha256 = "sha256-PlqyhzDQ4s7Ub1Cgt/plVG3C3CJpYmnDo5DFoZyoIss=";
     };
   };
   microsoft-edge-stable = {
@@ -1219,13 +1219,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "b3cc719add220f08cfb7664be9a24024ad7020db";
+    version = "a78f8fa70165b4072357149186ac844c1b494445";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "b3cc719add220f08cfb7664be9a24024ad7020db";
+      rev = "a78f8fa70165b4072357149186ac844c1b494445";
       fetchSubmodules = false;
-      sha256 = "sha256-mh8YXNfi5ZCeBqKvRmZu4Ew80g+JMWzjmCe/R+3oECw=";
+      sha256 = "sha256-xhH1UGLq5VnHsmClD/D6UnRVa915jXU58OP7Ce8U9LE=";
     });
   };
   tailscale-systray = {
