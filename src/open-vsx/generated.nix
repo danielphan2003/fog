@@ -4059,10 +4059,10 @@
   };
   WongYAQi-vscode-plugin-backend-helper = {
     pname = "WongYAQi-vscode-plugin-backend-helper";
-    version = "0.0.15";
+    version = "0.0.18";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.15/file/WongYAQi.vscode-plugin-backend-helper-0.0.15.vsix";
-      sha256 = "sha256-ficQbJCZ1iQivWbvFzkPeT8Lka6ahOdtRys2wAiLe5Y=";
+      url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.18/file/WongYAQi.vscode-plugin-backend-helper-0.0.18.vsix";
+      sha256 = "sha256-tXvg9ZVNgz+X6jprMfPFJop74jmfl17vzIvXYn9tklQ=";
     };
     license = "MIT";
     name = "vscode-plugin-backend-helper";
@@ -5475,10 +5475,10 @@
   };
   arm-cmsis-csolution = {
     pname = "arm-cmsis-csolution";
-    version = "0.1.0";
+    version = "0.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.1.0/file/arm.cmsis-csolution-0.1.0.vsix";
-      sha256 = "sha256-W6Pa9oZd0ZNIQEx7GUi3j49wwuXxuk8OlshOzgjmUC8=";
+      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.2.0/file/arm.cmsis-csolution-0.2.0.vsix";
+      sha256 = "sha256-8KfqzIFnm5mPL1C/H0K2rsi17vY71dNF+mzt2DHDW4c=";
     };
     license = "";
     name = "cmsis-csolution";
@@ -23991,10 +23991,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";

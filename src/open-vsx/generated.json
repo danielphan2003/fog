@@ -6434,11 +6434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ficQbJCZ1iQivWbvFzkPeT8Lka6ahOdtRys2wAiLe5Y=",
+            "sha256": "sha256-tXvg9ZVNgz+X6jprMfPFJop74jmfl17vzIvXYn9tklQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.15/file/WongYAQi.vscode-plugin-backend-helper-0.0.15.vsix"
+            "url": "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.18/file/WongYAQi.vscode-plugin-backend-helper-0.0.18.vsix"
         },
-        "version": "0.0.15"
+        "version": "0.0.18"
     },
     "Wscats-eno": {
         "cargoLocks": null,
@@ -8676,11 +8676,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W6Pa9oZd0ZNIQEx7GUi3j49wwuXxuk8OlshOzgjmUC8=",
+            "sha256": "sha256-8KfqzIFnm5mPL1C/H0K2rsi17vY71dNF+mzt2DHDW4c=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.1.0/file/arm.cmsis-csolution-0.1.0.vsix"
+            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.2.0/file/arm.cmsis-csolution-0.2.0.vsix"
         },
-        "version": "0.1.0"
+        "version": "0.2.0"
     },
     "arm-device-manager": {
         "cargoLocks": null,
@@ -37993,11 +37993,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
+            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
+            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
         },
-        "version": "0.11.5"
+        "version": "0.11.4"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

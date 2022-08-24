@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -9988,8 +9988,8 @@ passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Lan
 
 
 [arm-cmsis-csolution]
-src.manual = "0.1.0" # arm.cmsis-csolution
-fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.1.0/file/arm.cmsis-csolution-0.1.0.vsix" # arm.cmsis-csolution
+src.manual = "0.2.0" # arm.cmsis-csolution
+fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.2.0/file/arm.cmsis-csolution-0.2.0.vsix" # arm.cmsis-csolution
 passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS csolution support", license = "" }
 
 
@@ -10084,9 +10084,10 @@ passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Clou
 
 
 [WongYAQi-vscode-plugin-backend-helper]
-src.manual = "0.0.15" # WongYAQi.vscode-plugin-backend-helper
-fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.15/file/WongYAQi.vscode-plugin-backend-helper-0.0.15.vsix" # WongYAQi.vscode-plugin-backend-helper
+src.manual = "0.0.18" # WongYAQi.vscode-plugin-backend-helper
+fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.18/file/WongYAQi.vscode-plugin-backend-helper-0.0.18.vsix" # WongYAQi.vscode-plugin-backend-helper
 passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", description = "", license = "MIT" }
+
 
 
 
