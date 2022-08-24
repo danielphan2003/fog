@@ -423,10 +423,10 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "86e060a4d0e57513fdb7a0defe708521778d8d4b";
+    version = "ea96bce1bc8af20ac3d14122fe0628703d815e20";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "86e060a4d0e57513fdb7a0defe708521778d8d4b";
+      rev = "ea96bce1bc8af20ac3d14122fe0628703d815e20";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f2d8b67f2390889ff18bac1405c6bf866e192221";
+    version = "b59624adc86bdd33be747c20074d8e2affa266e7";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f2d8b67f2390889ff18bac1405c6bf866e192221";
+      rev = "b59624adc86bdd33be747c20074d8e2affa266e7";
       fetchSubmodules = false;
-      sha256 = "sha256-2j/TPPL6CxGwnUFHs1dFq3dGMphYUEOPQ2lCeVYHM80=";
+      sha256 = "sha256-3Xi6pT4Ke8jAaQ9bSjTVCBctZj1qXQDYug5bxRVG4q8=";
     });
   };
   revanced-cli = {
@@ -1096,13 +1096,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "61290de448e7a6991c07a106c42107de0b922980";
+    version = "e4cc79459245cebb4817f33e702ae135a9165a1b";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "61290de448e7a6991c07a106c42107de0b922980";
+      rev = "e4cc79459245cebb4817f33e702ae135a9165a1b";
       fetchSubmodules = false;
-      sha256 = "sha256-erYXKZPNRMxDXe6ERyPcbmhbhXqMtj3AXH9oIibIJQc=";
+      sha256 = "sha256-B5ceTi8jX+ESuHPxLQqalre7G6AsVd8bNTK8bqtcTzc=";
     });
   };
   spicetify-themes = {
