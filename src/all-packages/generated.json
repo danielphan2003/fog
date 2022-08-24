@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "ac1da5d92c2e7c579232783e56ec5d66379712ad",
-            "sha256": "sha256-/X+7G8eei49AZn20iSwVCmfZBGHpmZc9h7IddvduVlo=",
+            "rev": "f6cf3a54c296778b11b28ce4b0855751e399fa9c",
+            "sha256": "sha256-uE4DCi8CESD1YR4XACWzjYshReM8uN6e5nETbGMfEmY=",
             "type": "github"
         },
-        "version": "ac1da5d92c2e7c579232783e56ec5d66379712ad"
+        "version": "f6cf3a54c296778b11b28ce4b0855751e399fa9c"
     },
     "caddy": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "ffaf14c19ecc324693315b5334025e055022ad36",
-            "sha256": "sha256-P7aNBDKAEb3oxmkWwsbAY6nQ0VSgkm27bmhjcDNm0IA=",
+            "rev": "e92469121d37af387cb7fa507ae6ac6225cb9ebc",
+            "sha256": "sha256-gOfHnXvncOW3+zTAMFFMgVqFOBcTaI4gdiKBd7gN7go=",
             "type": "github"
         },
-        "version": "ffaf14c19ecc324693315b5334025e055022ad36"
+        "version": "e92469121d37af387cb7fa507ae6ac6225cb9ebc"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "72cc98e9bd253e3c3bf861897f72b7b399f086fe",
-            "sha256": "sha256-E7/IO5AJ+6YXXIrXhBbXKc/NEjX3b/jRSQ/Qj6kKph4=",
+            "rev": "ea9dd022d60e642091ccad1e15f131b5b71400a1",
+            "sha256": "sha256-tcvMnvy1NamhrVSjIQ98ZYaF/PUl4UH3tTrh3I4p2WI=",
             "type": "github"
         },
-        "version": "72cc98e9bd253e3c3bf861897f72b7b399f086fe"
+        "version": "ea9dd022d60e642091ccad1e15f131b5b71400a1"
     },
     "revanced-cli": {
         "cargoLocks": null,
