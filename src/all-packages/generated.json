@@ -767,11 +767,11 @@
             "name": null,
             "owner": "hensm",
             "repo": "fx_cast",
-            "rev": "cbc039a355846255829e034600bf14ecac94e137",
-            "sha256": "sha256-R4Z9DH8F8hofKXUXJI/ogbrvH2/sv/WaH0vdveEoRQ8=",
+            "rev": "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3",
+            "sha256": "sha256-pY6WzKU1qfefL8jzFrJZFUacDopfvISwyYRvP1pou8E=",
             "type": "github"
         },
-        "version": "cbc039a355846255829e034600bf14ecac94e137"
+        "version": "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3"
     },
     "godu": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "fc861c167c1250b155cf2e604fadec532b1a4eeb",
-            "sha256": "sha256-xM+K+y2EX5rY9t/+NsmKDLyjKRCkCV4BUotVry9tdsY=",
+            "rev": "620e048c52348a0461e395c62d06aedfec8544be",
+            "sha256": "sha256-OOPnQFOOwIub4F1gXPFlTFZ6b+Ra7V2IooB6gDA+OqI=",
             "type": "github"
         },
-        "version": "fc861c167c1250b155cf2e604fadec532b1a4eeb"
+        "version": "620e048c52348a0461e395c62d06aedfec8544be"
     },
     "revanced-cli": {
         "cargoLocks": null,

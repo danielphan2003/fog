@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "cbc039a355846255829e034600bf14ecac94e137";
+    version = "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "cbc039a355846255829e034600bf14ecac94e137";
+      rev = "c720eaf4b2cdc833cb9c3ed9fde23ce1200679e3";
       fetchSubmodules = false;
-      sha256 = "sha256-R4Z9DH8F8hofKXUXJI/ogbrvH2/sv/WaH0vdveEoRQ8=";
+      sha256 = "sha256-pY6WzKU1qfefL8jzFrJZFUacDopfvISwyYRvP1pou8E=";
     });
   };
   godu = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "fc861c167c1250b155cf2e604fadec532b1a4eeb";
+    version = "620e048c52348a0461e395c62d06aedfec8544be";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "fc861c167c1250b155cf2e604fadec532b1a4eeb";
+      rev = "620e048c52348a0461e395c62d06aedfec8544be";
       fetchSubmodules = false;
-      sha256 = "sha256-xM+K+y2EX5rY9t/+NsmKDLyjKRCkCV4BUotVry9tdsY=";
+      sha256 = "sha256-OOPnQFOOwIub4F1gXPFlTFZ6b+Ra7V2IooB6gDA+OqI=";
     });
   };
   revanced-cli = {
