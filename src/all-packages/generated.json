@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "9366c187dce5ed5104f85898c8d3a8531f221e3e",
-            "sha256": "sha256-Ikd8XUJ3rQLYz6z+OMrecpXD2CvrPHM3VIfadkpxGTI=",
+            "rev": "ffaf14c19ecc324693315b5334025e055022ad36",
+            "sha256": "sha256-P7aNBDKAEb3oxmkWwsbAY6nQ0VSgkm27bmhjcDNm0IA=",
             "type": "github"
         },
-        "version": "9366c187dce5ed5104f85898c8d3a8531f221e3e"
+        "version": "ffaf14c19ecc324693315b5334025e055022ad36"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "a147cb09d9ac5ba1d431b4b704b10d9a0757a497",
-            "sha256": "sha256-+wfztWOXTeqSi1MttG2wqRiGONjDlAGkDTXwbk81N/0=",
+            "rev": "6126a86259e9339c765b72b1076ae6e67e437e12",
+            "sha256": "sha256-0xNJCU5xJz7NlVolHz6fp+GbLYlkNYqkdF9c/i6m/cc=",
             "type": "github"
         },
-        "version": "a147cb09d9ac5ba1d431b4b704b10d9a0757a497"
+        "version": "6126a86259e9339c765b72b1076ae6e67e437e12"
     },
     "revanced-cli": {
         "cargoLocks": null,
