@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1340";
+    version = "31.0.1341";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1340/file/Prisma.prisma-insider-31.0.1340.vsix";
-      sha256 = "sha256-KIP+y/eScGHmqMIMLb2CfnbGCNGvfklE15mw7/khrd0=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1341/file/Prisma.prisma-insider-31.0.1341.vsix";
+      sha256 = "sha256-kTu9KebXBfvYObn2tF7PAneMIOyAcen0KOSCo8I1nTM=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3495,10 +3495,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.2416";
+    version = "2022.8.2418";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2416/file/Slint.slint-nightly-2022.8.2416.vsix";
-      sha256 = "sha256-X2D3JQ0SZrE6RzXc+cVoNwog0z4X9GmvnPpOflWawvI=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2418/file/Slint.slint-nightly-2022.8.2418.vsix";
+      sha256 = "sha256-3HzZEX48qprOUWObNVfKgnezdNG1Fe3+vgKfYy946c4=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -13059,10 +13059,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -17343,10 +17343,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.32.0";
+    version = "1.33.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.32.0/file/quarto.quarto-1.32.0.vsix";
-      sha256 = "sha256-X+YjV9iHrQW7Yr0UcNjsTiCH1RBaOlq0xQooC7Ms+TQ=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.33.0/file/quarto.quarto-1.33.0.vsix";
+      sha256 = "sha256-+9vRzn03nIuH7JaN8vB5kNQlMpveyx2fRH4nrQIfWEc=";
     };
     license = "MIT";
     name = "quarto";
@@ -18135,10 +18135,10 @@
   };
   robocorp-robotframework-lsp = {
     pname = "robocorp-robotframework-lsp";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.0.0/file/robocorp.robotframework-lsp-1.0.0.vsix";
-      sha256 = "sha256-bfQX5CumDC0HPG+diJDjYkcJFPDQA9x966EZhzEbM88=";
+      url = "https://open-vsx.org/api/robocorp/robotframework-lsp/1.1.0/file/robocorp.robotframework-lsp-1.1.0.vsix";
+      sha256 = "sha256-DNHfZfO4N2Z658W2X4AY8RQ4WUYhlphvSwxLi7vWqhE=";
     };
     license = "Apache 2.0";
     name = "robotframework-lsp";
