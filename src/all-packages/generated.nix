@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f6cf3a54c296778b11b28ce4b0855751e399fa9c";
+    version = "f5b3e7607a7d3be57bb515088bbebd4fe8a505fb";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f6cf3a54c296778b11b28ce4b0855751e399fa9c";
+      rev = "f5b3e7607a7d3be57bb515088bbebd4fe8a505fb";
       fetchSubmodules = false;
-      sha256 = "sha256-uE4DCi8CESD1YR4XACWzjYshReM8uN6e5nETbGMfEmY=";
+      sha256 = "sha256-hlsEPwZ7/G2kbNhd6xuKIgCz9h7DOB1cWDzddlXijZQ=";
     });
   };
   caddy = {
@@ -1249,7 +1249,7 @@
   };
   trackma = {
     pname = "trackma";
-    version = "3d3ff440aaa7697ee57b7cf00dc1477c2d4fbad4";
+    version = "16c1551916ae5567cb2635cb0d1bfb5de9373957";
     src = fetchurl {
       url = "https://github.com/z411/trackma/archive/master.tar.gz";
       sha256 = "sha256-x8D5XrvMjNV2R5CXs/ficOhwXNTRglsQxPhfvuUF4nM=";
