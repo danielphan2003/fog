@@ -6434,11 +6434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NB0JsZAgvH0z/ekCiGcxiY6aQuJZlNDMA14iguGbnG0=",
+            "sha256": "sha256-c3zRfUqzVw2LrQ+YiSR8gU4QNCe25jFX7blTeQx9KVE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.1/file/WongYAQi.vscode-plugin-backend-helper-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.2/file/WongYAQi.vscode-plugin-backend-helper-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "Wscats-eno": {
         "cargoLocks": null,
@@ -16352,9 +16352,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -18195,11 +18195,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IPCVv3OP5eyUPEWdI+/c3XJLxD81wsMzdgPJfzDY95Q=",
+            "sha256": "sha256-nRtgnUuoh1NKQlGxemat0/mHDCiNE4nN9bgBB3dpm2k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.2/file/isg-cnc.vscode-isg-cnc-0.3.2.vsix"
+            "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.3/file/isg-cnc.vscode-isg-cnc-0.3.3.vsix"
         },
-        "version": "0.3.2"
+        "version": "0.3.3"
     },
     "itarato-byesig": {
         "cargoLocks": null,

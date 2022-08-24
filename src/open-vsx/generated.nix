@@ -4059,10 +4059,10 @@
   };
   WongYAQi-vscode-plugin-backend-helper = {
     pname = "WongYAQi-vscode-plugin-backend-helper";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.1/file/WongYAQi.vscode-plugin-backend-helper-0.0.1.vsix";
-      sha256 = "sha256-NB0JsZAgvH0z/ekCiGcxiY6aQuJZlNDMA14iguGbnG0=";
+      url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.2/file/WongYAQi.vscode-plugin-backend-helper-0.0.2.vsix";
+      sha256 = "sha256-c3zRfUqzVw2LrQ+YiSR8gU4QNCe25jFX7blTeQx9KVE=";
     };
     license = "MIT";
     name = "vscode-plugin-backend-helper";
@@ -10325,8 +10325,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11487,10 +11487,10 @@
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
-    version = "0.3.2";
+    version = "0.3.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.2/file/isg-cnc.vscode-isg-cnc-0.3.2.vsix";
-      sha256 = "sha256-IPCVv3OP5eyUPEWdI+/c3XJLxD81wsMzdgPJfzDY95Q=";
+      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.3/file/isg-cnc.vscode-isg-cnc-0.3.3.vsix";
+      sha256 = "sha256-nRtgnUuoh1NKQlGxemat0/mHDCiNE4nN9bgBB3dpm2k=";
     };
     license = "MIT";
     name = "vscode-isg-cnc";

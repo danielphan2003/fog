@@ -6920,8 +6920,8 @@ fetch.url = "https://open-vsx.org/api/XadillaX/mir2/1.0.0/file/XadillaX.mir2-1.0
 passthru = { publisher = "XadillaX", name = "mir2", description = "The Legend of Mir2 Theme", license = "MIT" }
 
 [isg-cnc-vscode-isg-cnc]
-src.manual = "0.3.2" # isg-cnc.vscode-isg-cnc
-fetch.url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.2/file/isg-cnc.vscode-isg-cnc-0.3.2.vsix" # isg-cnc.vscode-isg-cnc
+src.manual = "0.3.3" # isg-cnc.vscode-isg-cnc
+fetch.url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.3/file/isg-cnc.vscode-isg-cnc-0.3.3.vsix" # isg-cnc.vscode-isg-cnc
 passthru = { publisher = "isg-cnc", name = "vscode-isg-cnc", description = "Support for ISG-CNC NC-Code", license = "MIT" }
 
 [hediet-vscode-drawio-insiders-build]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -10084,7 +10084,8 @@ passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Clou
 
 
 [WongYAQi-vscode-plugin-backend-helper]
-src.manual = "0.0.1" # WongYAQi.vscode-plugin-backend-helper
-fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.1/file/WongYAQi.vscode-plugin-backend-helper-0.0.1.vsix" # WongYAQi.vscode-plugin-backend-helper
+src.manual = "0.0.2" # WongYAQi.vscode-plugin-backend-helper
+fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.2/file/WongYAQi.vscode-plugin-backend-helper-0.0.2.vsix" # WongYAQi.vscode-plugin-backend-helper
 passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", description = "", license = "MIT" }
+
 
