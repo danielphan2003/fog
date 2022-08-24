@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kTu9KebXBfvYObn2tF7PAneMIOyAcen0KOSCo8I1nTM=",
+            "sha256": "sha256-Unjiy7WWslGExT0p5D3K+zD7b36Xov0A6MKKaLlIcjM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1341/file/Prisma.prisma-insider-31.0.1341.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1342/file/Prisma.prisma-insider-31.0.1342.vsix"
         },
-        "version": "31.0.1341"
+        "version": "31.0.1342"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -8410,11 +8410,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-W/+z1IfQ+goOOWMdz+YsoL6MZsGeLyIMnn7VN/M+3Ks=",
+            "sha256": "sha256-x4Ohyx+xeBm+lICXy8Zo6IheLRKLlxP7DcAWr3DYM60=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/statusbar-commands/2.2.1/file/anweber.statusbar-commands-2.2.1.vsix"
+            "url": "https://open-vsx.org/api/anweber/statusbar-commands/2.3.0/file/anweber.statusbar-commands-2.3.0.vsix"
         },
-        "version": "2.2.1"
+        "version": "2.3.0"
     },
     "anweber-vscode-httpyac": {
         "cargoLocks": null,
@@ -8429,11 +8429,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tMAhTI0VbgpeG365anCkQPcDxZpjTJwDVIkrMIq9S/E=",
+            "sha256": "sha256-wHYS+V0DQKKYPOXVZSzGRIx/9OvSDUkwCWYuSJ3l8Ds=",
             "type": "url",
-            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.2/file/anweber.vscode-httpyac-5.6.2.vsix"
+            "url": "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.3/file/anweber.vscode-httpyac-5.6.3.vsix"
         },
-        "version": "5.6.2"
+        "version": "5.6.3"
     },
     "anyscalecompute-anyscale-workspaces": {
         "cargoLocks": null,
@@ -29557,11 +29557,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7ddgNLFyFSAFGUjsyFyW8deP6VzPp3M8WCgce5X68dg=",
+            "sha256": "sha256-k5zD9kn0zIFdiXxzqE4AuXWCskEtqWYFQ0PvFZ8Tj90=",
             "type": "url",
-            "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.0/file/sasjs.sasjs-for-vscode-1.17.0.vsix"
+            "url": "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.1/file/sasjs.sasjs-for-vscode-1.17.1.vsix"
         },
-        "version": "1.17.0"
+        "version": "1.17.1"
     },
     "satoqz-yet-another-discord-presence": {
         "cargoLocks": null,
@@ -37689,11 +37689,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-KjlaICWNOuEOsIZgUs0XjPCTAhKqIzMi5BXdLnrjqkw=",
+            "sha256": "sha256-SdCNIrP7q4S40B/0BiQBjUzWglGK5wiUZxTvc6x+XHk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.72/file/zardoy.zardoy-experiments-0.0.72.vsix"
+            "url": "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.73/file/zardoy.zardoy-experiments-0.0.73.vsix"
         },
-        "version": "0.0.72"
+        "version": "0.0.73"
     },
     "zardoy-zardoy-internals": {
         "cargoLocks": null,

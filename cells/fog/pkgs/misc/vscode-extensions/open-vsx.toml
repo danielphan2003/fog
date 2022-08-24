@@ -4795,8 +4795,8 @@ fetch.url = "https://open-vsx.org/api/Angular/ng-template/14.1.0/file/Angular.ng
 passthru = { publisher = "Angular", name = "ng-template", description = "Editor services for Angular templates", license = "MIT" }
 
 [zardoy-zardoy-experiments]
-src.manual = "0.0.72" # zardoy.zardoy-experiments
-fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.72/file/zardoy.zardoy-experiments-0.0.72.vsix" # zardoy.zardoy-experiments
+src.manual = "0.0.73" # zardoy.zardoy-experiments
+fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.73/file/zardoy.zardoy-experiments-0.0.73.vsix" # zardoy.zardoy-experiments
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
@@ -6275,8 +6275,8 @@ fetch.url = "https://open-vsx.org/api/franneck94/c-cpp-runner/3.0.0/file/frannec
 passthru = { publisher = "franneck94", name = "c-cpp-runner", description = "🚀 Compile, run and debug single or multiple C/C++ files with ease. 🚀", license = "MIT" }
 
 [anweber-statusbar-commands]
-src.manual = "2.2.1" # anweber.statusbar-commands
-fetch.url = "https://open-vsx.org/api/anweber/statusbar-commands/2.2.1/file/anweber.statusbar-commands-2.2.1.vsix" # anweber.statusbar-commands
+src.manual = "2.3.0" # anweber.statusbar-commands
+fetch.url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.0/file/anweber.statusbar-commands-2.3.0.vsix" # anweber.statusbar-commands
 passthru = { publisher = "anweber", name = "statusbar-commands", description = "extend the statusbar with own commands", license = "ISC" }
 
 [maximedenes-vscoq]
@@ -9850,8 +9850,8 @@ fetch.url = "https://open-vsx.org/api/haskell/haskell/2.2.1/file/haskell.haskell
 passthru = { publisher = "haskell", name = "haskell", description = "Haskell language support powered by the Haskell Language Server", license = "MIT" }
 
 [anweber-vscode-httpyac]
-src.manual = "5.6.2" # anweber.vscode-httpyac
-fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.2/file/anweber.vscode-httpyac-5.6.2.vsix" # anweber.vscode-httpyac
+src.manual = "5.6.3" # anweber.vscode-httpyac
+fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.3/file/anweber.vscode-httpyac-5.6.3.vsix" # anweber.vscode-httpyac
 passthru = { publisher = "anweber", name = "vscode-httpyac", description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code", license = "MIT" }
 
 [PrateekMahendrakar-prettyxml]
@@ -9860,8 +9860,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/prettyxml/2.2.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "prettyxml", description = "XML formatter extension for Visual Studio Code. Formats XML documents just like Visual Studio.", license = "MIT" }
 
 [sasjs-sasjs-for-vscode]
-src.manual = "1.17.0" # sasjs.sasjs-for-vscode
-fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.0/file/sasjs.sasjs-for-vscode-1.17.0.vsix" # sasjs.sasjs-for-vscode
+src.manual = "1.17.1" # sasjs.sasjs-for-vscode
+fetch.url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.1/file/sasjs.sasjs-for-vscode-1.17.1.vsix" # sasjs.sasjs-for-vscode
 passthru = { publisher = "sasjs", name = "sasjs-for-vscode", description = "Execute code on any SAS server, plus SAS Linting and Syntax Highlighting", license = "MIT" }
 
 [betterthantomorrow-joyride]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1341" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1341/file/Prisma.prisma-insider-31.0.1341.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1342" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1342/file/Prisma.prisma-insider-31.0.1342.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10087,6 +10087,7 @@ passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Clou
 src.manual = "0.0.18" # WongYAQi.vscode-plugin-backend-helper
 fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.18/file/WongYAQi.vscode-plugin-backend-helper-0.0.18.vsix" # WongYAQi.vscode-plugin-backend-helper
 passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", description = "", license = "MIT" }
+
 
 
 

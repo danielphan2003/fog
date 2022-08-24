@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1341";
+    version = "31.0.1342";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1341/file/Prisma.prisma-insider-31.0.1341.vsix";
-      sha256 = "sha256-kTu9KebXBfvYObn2tF7PAneMIOyAcen0KOSCo8I1nTM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1342/file/Prisma.prisma-insider-31.0.1342.vsix";
+      sha256 = "sha256-Unjiy7WWslGExT0p5D3K+zD7b36Xov0A6MKKaLlIcjM=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5307,10 +5307,10 @@
   };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
-    version = "2.2.1";
+    version = "2.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.2.1/file/anweber.statusbar-commands-2.2.1.vsix";
-      sha256 = "sha256-W/+z1IfQ+goOOWMdz+YsoL6MZsGeLyIMnn7VN/M+3Ks=";
+      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.0/file/anweber.statusbar-commands-2.3.0.vsix";
+      sha256 = "sha256-x4Ohyx+xeBm+lICXy8Zo6IheLRKLlxP7DcAWr3DYM60=";
     };
     license = "ISC";
     name = "statusbar-commands";
@@ -5319,10 +5319,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.6.2";
+    version = "5.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.2/file/anweber.vscode-httpyac-5.6.2.vsix";
-      sha256 = "sha256-tMAhTI0VbgpeG365anCkQPcDxZpjTJwDVIkrMIq9S/E=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.3/file/anweber.vscode-httpyac-5.6.3.vsix";
+      sha256 = "sha256-wHYS+V0DQKKYPOXVZSzGRIx/9OvSDUkwCWYuSJ3l8Ds=";
     };
     license = "MIT";
     name = "vscode-httpyac";
@@ -18663,10 +18663,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.17.0";
+    version = "1.17.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.0/file/sasjs.sasjs-for-vscode-1.17.0.vsix";
-      sha256 = "sha256-7ddgNLFyFSAFGUjsyFyW8deP6VzPp3M8WCgce5X68dg=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.1/file/sasjs.sasjs-for-vscode-1.17.1.vsix";
+      sha256 = "sha256-k5zD9kn0zIFdiXxzqE4AuXWCskEtqWYFQ0PvFZ8Tj90=";
     };
     license = "MIT";
     name = "sasjs-for-vscode";
@@ -23799,10 +23799,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.72";
+    version = "0.0.73";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.72/file/zardoy.zardoy-experiments-0.0.72.vsix";
-      sha256 = "sha256-KjlaICWNOuEOsIZgUs0XjPCTAhKqIzMi5BXdLnrjqkw=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.73/file/zardoy.zardoy-experiments-0.0.73.vsix";
+      sha256 = "sha256-SdCNIrP7q4S40B/0BiQBjUzWglGK5wiUZxTvc6x+XHk=";
     };
     license = "MIT";
     name = "zardoy-experiments";
