@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "0ef524a94b3445ebed1cd631cc0a4be2cdc74752";
+    version = "3fc839820efcc21fa11cfafde306dbd1557f7169";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "0ef524a94b3445ebed1cd631cc0a4be2cdc74752";
+      rev = "3fc839820efcc21fa11cfafde306dbd1557f7169";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-orEjQqzvzo1V/X4X0R6zhOIMqeXyUMJxQuVvBP1b3+c=";
+      sha256 = "sha256-oPhJoeiyndUMgbQFoSKpFq/4x/KKb8oMzDyU+f5nQ0c=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-0ef524a94b3445ebed1cd631cc0a4be2cdc74752/Cargo.lock;
+      lockFile = ./asusctl-3fc839820efcc21fa11cfafde306dbd1557f7169/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6486";
+    version = "1.0.6487";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6486.tar.bz2";
-      sha256 = "sha256-K9UJevtfBK9y5CarySmsZ9YEL0QmD+ccgP3XSMYWZK4=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6487.tar.bz2";
+      sha256 = "sha256-zlVH6oG52WjT0nQ5hRbr8g6kNhHHo5/UwpYlHYVWdBY=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6486";
+    version = "1.0.6487";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6486-1_all.deb";
-      sha256 = "sha256-fwvQJePTib76XZTuTpgxU824Dxs+vPzNJXfzLHpCPik=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6487-1_all.deb";
+      sha256 = "sha256-GlcvGSAT8SWvGdQad6MGp9g67plvGIeJaI2Nvd3+YW4=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8776c79a601a401109be8f9f9ba5ebec51600329";
+    version = "a147cb09d9ac5ba1d431b4b704b10d9a0757a497";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8776c79a601a401109be8f9f9ba5ebec51600329";
+      rev = "a147cb09d9ac5ba1d431b4b704b10d9a0757a497";
       fetchSubmodules = false;
-      sha256 = "sha256-f0Ka+DP+LfEdgOURQBAt480IJ/pJnDVLsyZrqjdR18c=";
+      sha256 = "sha256-+wfztWOXTeqSi1MttG2wqRiGONjDlAGkDTXwbk81N/0=";
     });
   };
   revanced-cli = {
