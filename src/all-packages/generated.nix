@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "f378c54815eb8770f1086de04617d0c9bc8b4a16";
+    version = "40987ecd5deb5c5acc982863695e87e2ce19e9bc";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "f378c54815eb8770f1086de04617d0c9bc8b4a16";
+      rev = "40987ecd5deb5c5acc982863695e87e2ce19e9bc";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-74ija3oD4c2nBo6duR9AlBcRScf8kPWsXoCkd7QBAfM=";
+      sha256 = "sha256-oHj11ZcsJUfD/p9KB8de3l4KQVZ0CMTEgXH5/lIBSDU=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-f378c54815eb8770f1086de04617d0c9bc8b4a16/Cargo.lock;
+      lockFile = ./asusctl-40987ecd5deb5c5acc982863695e87e2ce19e9bc/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -329,13 +329,13 @@
   };
   doggo = {
     pname = "doggo";
-    version = "5e611d9706ec6a2b5b9ee5cbec4cbee21f5c4632";
+    version = "0da9178683b435abf80d5e2a229cd8d30a0f64fc";
     src = fetchFromGitHub ({
       owner = "mr-karan";
       repo = "doggo";
-      rev = "5e611d9706ec6a2b5b9ee5cbec4cbee21f5c4632";
+      rev = "0da9178683b435abf80d5e2a229cd8d30a0f64fc";
       fetchSubmodules = false;
-      sha256 = "sha256-ZdLlib0xheh8R2MddyOf/srcbaf5xG2823rvOW553Sk=";
+      sha256 = "sha256-LGxu4A8s12/OgAMZ5Ua8mbXbnjk9WbzlDk4AtRbr//4=";
     });
   };
   dribbblish-dynamic-theme = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6489";
+    version = "1.0.6490";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6489.tar.bz2";
-      sha256 = "sha256-fK6QJwJSvf2imeK4i0nALOqVy9kVD+Ag3jG0SuTsGr0=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6490.tar.bz2";
+      sha256 = "sha256-0mkqxwJLFwlyhOK/SqMPcnf/Q9j2wX8+PPA7yzPyZx4=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6489";
+    version = "1.0.6490";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6489-1_all.deb";
-      sha256 = "sha256-7rqCUvp8xJxOfvQJiPLSBXvxv5rwPWeg1HI72F/RftA=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6490-1_all.deb";
+      sha256 = "sha256-MS2uz4Uyemgo8OB/KLFBjPfXylKvruEB8+JQQ2qWyvM=";
     };
   };
   jitsi-videobridge2 = {
@@ -970,16 +970,16 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "f6f7ce1f2fed0d993ed64150e448ad90bc005cea";
+    version = "5e9a31340b899822090a3731769ae79c6bf5f3e5";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "f6f7ce1f2fed0d993ed64150e448ad90bc005cea";
+      rev = "5e9a31340b899822090a3731769ae79c6bf5f3e5";
       fetchSubmodules = false;
-      sha256 = "sha256-UyTDU+CLEll+tmJ+qNMn0mLZAleZ2MbdDrO0gf7YJ9Y=";
+      sha256 = "sha256-crbNXE5iUX4V4mzzSDdPNIKhU6B+jOuf08C43+oFyMk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-f6f7ce1f2fed0d993ed64150e448ad90bc005cea/Cargo.lock;
+      lockFile = ./rustdesk-5e9a31340b899822090a3731769ae79c6bf5f3e5/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
@@ -1324,13 +1324,13 @@
   };
   waydroid = {
     pname = "waydroid";
-    version = "de52643d5b8efa93d2994b760905a1f47d7c31b3";
+    version = "0506acadcf33bf0abc98f4ace5fb8da0d456620d";
     src = fetchFromGitHub ({
       owner = "waydroid";
       repo = "waydroid";
-      rev = "de52643d5b8efa93d2994b760905a1f47d7c31b3";
+      rev = "0506acadcf33bf0abc98f4ace5fb8da0d456620d";
       fetchSubmodules = false;
-      sha256 = "sha256-Qyp4BxtN8lVap3b1rFa2T17J7SOGh3n1HmGL1oNITt8=";
+      sha256 = "sha256-2acfPPaOotGNvhra/Lf4MMpWzmRe9EM9Hm7Wf/j7jmM=";
     });
   };
   wgcf = {
