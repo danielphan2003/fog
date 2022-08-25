@@ -670,10 +670,10 @@
   };
   microsoft-edge-stable = {
     pname = "microsoft-edge-stable";
-    version = "104.0.1293.63";
+    version = "104.0.1293.70";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.63-1_amd64.deb";
-      sha256 = "sha256-en/2hEoPPN7+JEA8TK15dgaLBA0QcoIvPeMq2b0yzgA=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.70-1_amd64.deb";
+      sha256 = "sha256-b7DAkgTrzPyikoqmHPJfbnH4CyPxwh5WEDyVVdx0H68=";
     };
   };
   minecraft-wayland = {
@@ -1346,13 +1346,13 @@
   };
   whitesur-gtk-theme = {
     pname = "whitesur-gtk-theme";
-    version = "46eabd03616f3747164a22611160820dc5e5fa00";
+    version = "5b10cf31b79eba5b598e3664a7a69d155ffcd396";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-gtk-theme";
-      rev = "46eabd03616f3747164a22611160820dc5e5fa00";
+      rev = "5b10cf31b79eba5b598e3664a7a69d155ffcd396";
       fetchSubmodules = false;
-      sha256 = "sha256-kvu6Zv5vmyDasBt6eOBqexv0n5vi6OzpG5We1eSbW0o=";
+      sha256 = "sha256-A73PCry5B3irwcpO5f43IYRLZ5zdI4o5mvbxkAuBOaA=";
     });
   };
   whitesur-icon-theme = {
