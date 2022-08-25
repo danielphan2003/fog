@@ -5509,6 +5509,18 @@
     description = "Debugger for Arm Cortex-M based microcontrollers, development boards and debug probes, implementing the Microsoft Debug Adapter Protocol (DAP)";
     publisher = "arm";
   };
+  arm-keil-studio-pack = {
+    pname = "arm-keil-studio-pack";
+    version = "1.0.3";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.3/file/arm.keil-studio-pack-1.0.3.vsix";
+      sha256 = "sha256-3aJ37OIpIYjhutuGP/B1WE0j+ePml+4O3Mq2COjIIZo=";
+    };
+    license = "MIT";
+    name = "keil-studio-pack";
+    description = "Extension pack for Keil Studio development";
+    publisher = "arm";
+  };
   armandphilippot-coldark = {
     pname = "armandphilippot-coldark";
     version = "1.2.11";
@@ -10325,8 +10337,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -11487,10 +11499,10 @@
   };
   isg-cnc-vscode-isg-cnc = {
     pname = "isg-cnc-vscode-isg-cnc";
-    version = "0.3.3";
+    version = "0.3.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.3/file/isg-cnc.vscode-isg-cnc-0.3.3.vsix";
-      sha256 = "sha256-nRtgnUuoh1NKQlGxemat0/mHDCiNE4nN9bgBB3dpm2k=";
+      url = "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.4/file/isg-cnc.vscode-isg-cnc-0.3.4.vsix";
+      sha256 = "sha256-5Cq/tteD+mOhvI9YdHPorz4JZfcTeCgOHfKroEc3rYI=";
     };
     license = "MIT";
     name = "vscode-isg-cnc";
@@ -13059,10 +13071,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -13083,10 +13095,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.8.1661430156";
+    version = "2022.8.1661435685";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661430156/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661430156.vsix";
-      sha256 = "sha256-oKmbQMTYK24I88Y+ABVtKng8163xIUQybgYsxH2JeYM=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661435685/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661435685.vsix";
+      sha256 = "sha256-F6nOB3qqriEmzYrykolO3febfanj1f9k9fPAPJY9QhQ=";
     };
     license = "";
     name = "launchdarkly-beta";

@@ -8720,6 +8720,25 @@
         },
         "version": "0.1.0"
     },
+    "arm-keil-studio-pack": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "arm-keil-studio-pack",
+        "passthru": {
+            "description": "Extension pack for Keil Studio development",
+            "license": "MIT",
+            "name": "keil-studio-pack",
+            "publisher": "arm"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-3aJ37OIpIYjhutuGP/B1WE0j+ePml+4O3Mq2COjIIZo=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.3/file/arm.keil-studio-pack-1.0.3.vsix"
+        },
+        "version": "1.0.3"
+    },
     "armandphilippot-coldark": {
         "cargoLocks": null,
         "extract": null,
@@ -16352,9 +16371,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -18195,11 +18214,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nRtgnUuoh1NKQlGxemat0/mHDCiNE4nN9bgBB3dpm2k=",
+            "sha256": "sha256-5Cq/tteD+mOhvI9YdHPorz4JZfcTeCgOHfKroEc3rYI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.3/file/isg-cnc.vscode-isg-cnc-0.3.3.vsix"
+            "url": "https://open-vsx.org/api/isg-cnc/vscode-isg-cnc/0.3.4/file/isg-cnc.vscode-isg-cnc-0.3.4.vsix"
         },
-        "version": "0.3.3"
+        "version": "0.3.4"
     },
     "itarato-byesig": {
         "cargoLocks": null,
@@ -20684,11 +20703,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -20722,11 +20741,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-oKmbQMTYK24I88Y+ABVtKng8163xIUQybgYsxH2JeYM=",
+            "sha256": "sha256-F6nOB3qqriEmzYrykolO3febfanj1f9k9fPAPJY9QhQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661430156/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661430156.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661435685/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661435685.vsix"
         },
-        "version": "2022.8.1661430156"
+        "version": "2022.8.1661435685"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
