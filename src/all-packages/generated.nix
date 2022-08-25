@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "503aa20257785c47e1c5b723398bffe41dcce3fb";
+    version = "f378c54815eb8770f1086de04617d0c9bc8b4a16";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "503aa20257785c47e1c5b723398bffe41dcce3fb";
+      rev = "f378c54815eb8770f1086de04617d0c9bc8b4a16";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-JEwawue9adWlobINMmsLqzflSQkcSsYS0G4tFZWmrxY=";
+      sha256 = "sha256-74ija3oD4c2nBo6duR9AlBcRScf8kPWsXoCkd7QBAfM=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-503aa20257785c47e1c5b723398bffe41dcce3fb/Cargo.lock;
+      lockFile = ./asusctl-f378c54815eb8770f1086de04617d0c9bc8b4a16/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "f5b3e7607a7d3be57bb515088bbebd4fe8a505fb";
+    version = "6eddd19692452503dced106f5f53a5cfd3fcaa2c";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "f5b3e7607a7d3be57bb515088bbebd4fe8a505fb";
+      rev = "6eddd19692452503dced106f5f53a5cfd3fcaa2c";
       fetchSubmodules = false;
-      sha256 = "sha256-hlsEPwZ7/G2kbNhd6xuKIgCz9h7DOB1cWDzddlXijZQ=";
+      sha256 = "sha256-imc4AjCXVhhvBkYsDTOibWh5v7lRlaiEfOVP0C3x12Q=";
     });
   };
   caddy = {
@@ -828,14 +828,14 @@
   };
   pmbootstrap-test = {
     pname = "pmbootstrap-test";
-    version = "e5d580e98a96da7a59e47f34028e5f9082236fd6";
+    version = "0132af72b5ed2ac4f292ed2569baf4c9b37e3e42";
     src = fetchgit {
       url = "https://gitlab.com/postmarketOS/pmbootstrap";
-      rev = "e5d580e98a96da7a59e47f34028e5f9082236fd6";
+      rev = "0132af72b5ed2ac4f292ed2569baf4c9b37e3e42";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-T1SxTqF6lScxAyV8Gg7PZnv91uvVlJfsK4LSRow270g=";
+      sha256 = "sha256-L4QC44P02OASs/JzN1UigdoJNcv7tgL4IaEQJqw0MwU=";
     };
   };
   pure = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f5ac33c0b6c7ab742839a15b38deaf97911ba267";
+    version = "1b181185c2791cea17a62bb3ad39dd57c8ac8648";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f5ac33c0b6c7ab742839a15b38deaf97911ba267";
+      rev = "1b181185c2791cea17a62bb3ad39dd57c8ac8648";
       fetchSubmodules = false;
-      sha256 = "sha256-4cFlJNHSjyC9ykqtIwQkRPVPMVsLp8iklZ0I1lL7vYc=";
+      sha256 = "sha256-LHZSrFcwXShVf35RayR+h6RVfuMyGfmU6a3PwnAB6s0=";
     });
   };
   revanced-cli = {
@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.36.1";
+    version = "0.36.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.36.1/app-release-unsigned.apk";
-      sha256 = "sha256-gqL+Rj2sgeVsSd7n8P+rczoK9AyRH7wa5U+F7lKjaq4=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.36.2/app-release-unsigned.apk";
+      sha256 = "sha256-QQpVZ5x9GWvxOkBvifL6Zc9UjUN32RprsUKnnst0bfU=";
     };
   };
   revanced-patches-jar = {
@@ -970,28 +970,29 @@
   };
   rustdesk = {
     pname = "rustdesk";
-    version = "3b3d34fabf0e1329408c88a2a357b1888e4ca162";
+    version = "f6f7ce1f2fed0d993ed64150e448ad90bc005cea";
     src = fetchFromGitHub ({
       owner = "rustdesk";
       repo = "rustdesk";
-      rev = "3b3d34fabf0e1329408c88a2a357b1888e4ca162";
+      rev = "f6f7ce1f2fed0d993ed64150e448ad90bc005cea";
       fetchSubmodules = false;
-      sha256 = "sha256-6VA2gqbRJkqJsUxmeqR24xIWuGOxVjiitcK9BVQfBmw=";
+      sha256 = "sha256-UyTDU+CLEll+tmJ+qNMn0mLZAleZ2MbdDrO0gf7YJ9Y=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./rustdesk-3b3d34fabf0e1329408c88a2a357b1888e4ca162/Cargo.lock;
+      lockFile = ./rustdesk-f6f7ce1f2fed0d993ed64150e448ad90bc005cea/Cargo.lock;
       outputHashes = {
         "trayicon-0.1.3-1" = "sha256-shLsOncL3ySRN/m9SjvjurneMaXhGDWks0QF3pVz6J0=";
         "rust-pulsectl-0.2.12" = "sha256-8jXTspWvjONFcvw9/Z8C43g4BuGZ3rsG32tvLMQbtbM=";
         "confy-0.4.0" = "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=";
-        "parity-tokio-ipc-0.7.3-1" = "sha256-eULJePtBu0iBI3It/bPH0h82Obsb1PJALgwYwrnCFYI=";
-        "tokio-socks-0.5.1-1" = "sha256-45QQ6FrhGU9uEhbKXTKd/mY6MDumO6p46NmlakdyDQk=";
-        "hwcodec-0.1.0" = "sha256-RRiEfz0cO8d50ADwn4PfLlQSAssqyNnL6K7yADkrzcM=";
+        "hwcodec-0.1.0" = "sha256-VddI5p/Hfa8VhjjhjA4KDDkThFmi8JcH6oeaGG6/dtA=";
         "mouce-0.2.1" = "sha256-YcS7rn3eWmFWIq3X6ytwPRp3eWuXjJwseqsMoA6k7/w=";
         "sciter-rs-0.5.57" = "sha256-ZZnZDhMjK0LjgmK0da1yvB0uoKueLhhhQtzmjoN+1R0=";
-        "magnum-opus-0.4.0" = "sha256-GoCuStsQW/M6PEfdtbJ69ePNAL8bQ9HIJVopv+k93nY=";
+        "magnum-opus-0.4.0" = "sha256-jNscS3DNJuoZE0+s4RFDCIuL/xo9uUzBiDvTcXKcoNM=";
         "evdev-0.11.5" = "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=";
-        "rdev-0.5.0-1" = "sha256-aaC2Aq6xBSKV7+eUZWKLSmDBFwNcHWkgw1jJWQXvNqA=";
+        "flutter_rust_bridge-1.32.0" = "sha256-LE5KHzP/zy4zeGiyFx+kDitP3LC2tiPGN5mp0/urPQs=";
+        "parity-tokio-ipc-0.7.3" = "sha256-Ji/q7RQDznFs+m4AHH1IEL1TMqqCtH4Z5DY6sjcu/T0=";
+        "tokio-socks-0.5.1" = "sha256-inmAJk0fAlsVNIwfD/M+htwIdQHwGSTRrEy6N/mspMI=";
+        "rdev-0.5.0" = "sha256-O+jbA8GS9KVZR/i840+mfQ9LZ3Qtf/XBbV/Mkqn5C/g=";
       };
     };
   };
