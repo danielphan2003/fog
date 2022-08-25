@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-40987ecd5deb5c5acc982863695e87e2ce19e9bc/Cargo.lock",
+                "./asusctl-4f39c0113908cb4556ad56e98cf07956bdca7ade/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "40987ecd5deb5c5acc982863695e87e2ce19e9bc",
-            "sha256": "sha256-oHj11ZcsJUfD/p9KB8de3l4KQVZ0CMTEgXH5/lIBSDU=",
+            "rev": "4f39c0113908cb4556ad56e98cf07956bdca7ade",
+            "sha256": "sha256-ileI3WjC0GFjbyIt3NZTMKBMbqU6kPb1OzpHGrgN2BI=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "40987ecd5deb5c5acc982863695e87e2ce19e9bc"
+        "version": "4f39c0113908cb4556ad56e98cf07956bdca7ade"
     },
     "avizo": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "89018bfa954e038050e47a399d88e8a8b34dc481",
-            "sha256": "sha256-GlQhRojFpPvkuCPM0Tt3B+EsHIUKU06KJBYzU4bI1L8=",
+            "rev": "7b01c3d028ee5e6423b65388966162a50813b83b",
+            "sha256": "sha256-BiiNwrdbua1C+ZEafVXr+LGvvOevcW4Dh9wA4zRB1uA=",
             "type": "github"
         },
-        "version": "89018bfa954e038050e47a399d88e8a8b34dc481"
+        "version": "7b01c3d028ee5e6423b65388966162a50813b83b"
     },
     "ibus": {
         "cargoLocks": null,
@@ -951,11 +951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ZvID13WaB+clQJAG80yK+sTOOpOn5nD0iOTC9FkWepo=",
+            "sha256": "sha256-FmFfek4kfgqUmm3t1qePKlkPlGxl0yQtnXeHm/D9ZnI=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-35-g80b88b04-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-36-g8d45c2e1-1_all.deb"
         },
-        "version": "2.2-35-g80b88b04"
+        "version": "2.2-36-g8d45c2e1"
     },
     "layout-machi": {
         "cargoLocks": null,

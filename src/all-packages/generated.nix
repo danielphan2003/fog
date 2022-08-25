@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "40987ecd5deb5c5acc982863695e87e2ce19e9bc";
+    version = "4f39c0113908cb4556ad56e98cf07956bdca7ade";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "40987ecd5deb5c5acc982863695e87e2ce19e9bc";
+      rev = "4f39c0113908cb4556ad56e98cf07956bdca7ade";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-oHj11ZcsJUfD/p9KB8de3l4KQVZ0CMTEgXH5/lIBSDU=";
+      sha256 = "sha256-ileI3WjC0GFjbyIt3NZTMKBMbqU6kPb1OzpHGrgN2BI=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-40987ecd5deb5c5acc982863695e87e2ce19e9bc/Cargo.lock;
+      lockFile = ./asusctl-4f39c0113908cb4556ad56e98cf07956bdca7ade/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "89018bfa954e038050e47a399d88e8a8b34dc481";
+    version = "7b01c3d028ee5e6423b65388966162a50813b83b";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "89018bfa954e038050e47a399d88e8a8b34dc481";
+      rev = "7b01c3d028ee5e6423b65388966162a50813b83b";
       fetchSubmodules = false;
-      sha256 = "sha256-GlQhRojFpPvkuCPM0Tt3B+EsHIUKU06KJBYzU4bI1L8=";
+      sha256 = "sha256-BiiNwrdbua1C+ZEafVXr+LGvvOevcW4Dh9wA4zRB1uA=";
     });
   };
   ibus = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-35-g80b88b04";
+    version = "2.2-36-g8d45c2e1";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-35-g80b88b04-1_all.deb";
-      sha256 = "sha256-ZvID13WaB+clQJAG80yK+sTOOpOn5nD0iOTC9FkWepo=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-36-g8d45c2e1-1_all.deb";
+      sha256 = "sha256-FmFfek4kfgqUmm3t1qePKlkPlGxl0yQtnXeHm/D9ZnI=";
     };
   };
   layout-machi = {
