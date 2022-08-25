@@ -591,10 +591,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "13.5.0";
+    version = "13.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/13.5.0/file/CodeStream.codestream-13.5.0.vsix";
-      sha256 = "sha256-Z/J8ZuNHh4pI/A7F0/hvmp83c5puuiEmr63jBUnucf4=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/13.6.0/file/CodeStream.codestream-13.6.0.vsix";
+      sha256 = "sha256-n5/hH/zoYba++Fr+WS43tKlCGQH2rShZ3mh32Gzt4/g=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -12795,10 +12795,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13095,10 +13095,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
