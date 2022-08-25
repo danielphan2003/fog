@@ -10491,10 +10491,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.9.8";
+    version = "0.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.9.8/file/halcyontechltd.vscode-rpgle-0.9.8.vsix";
-      sha256 = "sha256-ZQxAKDbhDtZyTYJe1EVuOPfhp1dJWRbJuItBfg+QtB0=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.0/file/halcyontechltd.vscode-rpgle-0.10.0.vsix";
+      sha256 = "sha256-H6uzTej/SuvXTjFhSL4E2N4B87mXt8BP/g6otTwPhyQ=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -11319,10 +11319,10 @@
   };
   iljapostnovs-ui5plugin = {
     pname = "iljapostnovs-ui5plugin";
-    version = "0.14.30";
+    version = "0.14.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.30/file/iljapostnovs.ui5plugin-0.14.30.vsix";
-      sha256 = "sha256-DMrVmAHB84v7QDcF6TyYawkwxHxlfM66peLGlsqDYd0=";
+      url = "https://open-vsx.org/api/iljapostnovs/ui5plugin/0.14.31/file/iljapostnovs.ui5plugin-0.14.31.vsix";
+      sha256 = "sha256-dxbSrPN1jZCzhtmcc7W3Sb6WsAiFvCTWBVot5OIOZRY=";
     };
     license = "Apache-2.0";
     name = "ui5plugin";
@@ -12327,10 +12327,10 @@
   };
   julialang-language-julia-insider = {
     pname = "julialang-language-julia-insider";
-    version = "1.7.5";
+    version = "1.7.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/julialang/language-julia/1.7.5/file/julialang.language-julia-1.7.5.vsix";
-      sha256 = "sha256-VcNXv8uVx6hmYZ0a41Bmr52oL8YMg+RZffN6+yDfBFQ=";
+      url = "https://open-vsx.org/api/julialang/language-julia/1.7.6/file/julialang.language-julia-1.7.6.vsix";
+      sha256 = "sha256-AQtKRsBbSbAO1jphs3ytFI4MnbafWSX2RxJtI89Z6dU=";
     };
     license = "MIT";
     name = "language-julia-insider";
@@ -19143,10 +19143,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
