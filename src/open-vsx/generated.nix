@@ -6135,10 +6135,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.293";
+    version = "2.0.294";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.293/file/betterthantomorrow.calva-2.0.293.vsix";
-      sha256 = "sha256-SWX4M7XJT6axfDyWxy3cSd2mO1EYmlUqwUS6py7aUvE=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.294/file/betterthantomorrow.calva-2.0.294.vsix";
+      sha256 = "sha256-ylKuJ2BpvyoiOjtkIiG1u3Q1rXQCcXI2ljg/BEmSaa0=";
     };
     license = "MIT";
     name = "calva";
@@ -10325,8 +10325,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12759,10 +12759,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
