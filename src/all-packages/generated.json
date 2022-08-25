@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-3fc839820efcc21fa11cfafde306dbd1557f7169/Cargo.lock",
+                "./asusctl-503aa20257785c47e1c5b723398bffe41dcce3fb/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "3fc839820efcc21fa11cfafde306dbd1557f7169",
-            "sha256": "sha256-oPhJoeiyndUMgbQFoSKpFq/4x/KKb8oMzDyU+f5nQ0c=",
+            "rev": "503aa20257785c47e1c5b723398bffe41dcce3fb",
+            "sha256": "sha256-JEwawue9adWlobINMmsLqzflSQkcSsYS0G4tFZWmrxY=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "3fc839820efcc21fa11cfafde306dbd1557f7169"
+        "version": "503aa20257785c47e1c5b723398bffe41dcce3fb"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "23f649b05021e367665a3fefbae65d48600fc22d",
-            "sha256": "sha256-/0WVh1GjolMOF1lIQBOAjqb970PYDtO8QvcaKlotl1Y=",
+            "rev": "801741009854b098f58da7ddc347f9829c36d35c",
+            "sha256": "sha256-rsI5VqYA4Yk6IuYAl50V4Rdh8auX61sC2IJOAu5Z0Bo=",
             "type": "github"
         },
-        "version": "23f649b05021e367665a3fefbae65d48600fc22d"
+        "version": "801741009854b098f58da7ddc347f9829c36d35c"
     },
     "revanced-cli": {
         "cargoLocks": null,
