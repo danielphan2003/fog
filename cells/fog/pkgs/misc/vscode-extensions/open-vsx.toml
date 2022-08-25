@@ -10084,9 +10084,10 @@ passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Clou
 
 
 [WongYAQi-vscode-plugin-backend-helper]
-src.manual = "0.0.29" # WongYAQi.vscode-plugin-backend-helper
-fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.29/file/WongYAQi.vscode-plugin-backend-helper-0.0.29.vsix" # WongYAQi.vscode-plugin-backend-helper
+src.manual = "0.1.1" # WongYAQi.vscode-plugin-backend-helper
+fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.1.1/file/WongYAQi.vscode-plugin-backend-helper-0.1.1.vsix" # WongYAQi.vscode-plugin-backend-helper
 passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", description = "", license = "MIT" }
+
 
 
 

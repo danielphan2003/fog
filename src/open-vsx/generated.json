@@ -6434,11 +6434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9CGXJHEnoizIU/oWGrQWD1PxCPtLKo/aDg5EEbVOoVc=",
+            "sha256": "sha256-enJ1oBkCkkpJbiBx4L/H0Y4H4QbHPHcGIfxpeDR7QfY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.29/file/WongYAQi.vscode-plugin-backend-helper-0.0.29.vsix"
+            "url": "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.1.1/file/WongYAQi.vscode-plugin-backend-helper-0.1.1.vsix"
         },
-        "version": "0.0.29"
+        "version": "0.1.1"
     },
     "Wscats-eno": {
         "cargoLocks": null,

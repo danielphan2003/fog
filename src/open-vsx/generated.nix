@@ -4059,10 +4059,10 @@
   };
   WongYAQi-vscode-plugin-backend-helper = {
     pname = "WongYAQi-vscode-plugin-backend-helper";
-    version = "0.0.29";
+    version = "0.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.29/file/WongYAQi.vscode-plugin-backend-helper-0.0.29.vsix";
-      sha256 = "sha256-9CGXJHEnoizIU/oWGrQWD1PxCPtLKo/aDg5EEbVOoVc=";
+      url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.1.1/file/WongYAQi.vscode-plugin-backend-helper-0.1.1.vsix";
+      sha256 = "sha256-enJ1oBkCkkpJbiBx4L/H0Y4H4QbHPHcGIfxpeDR7QfY=";
     };
     license = "MIT";
     name = "vscode-plugin-backend-helper";
