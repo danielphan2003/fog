@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1342";
+    version = "31.0.1343";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1342/file/Prisma.prisma-insider-31.0.1342.vsix";
-      sha256 = "sha256-Unjiy7WWslGExT0p5D3K+zD7b36Xov0A6MKKaLlIcjM=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1343/file/Prisma.prisma-insider-31.0.1343.vsix";
+      sha256 = "sha256-4DJlHarJJkGaJhSJvITUXcsZEnxiWl83ejrQvoze878=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13119,10 +13119,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.93";
+    version = "0.0.94";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.93/file/leanprover.lean4-0.0.93.vsix";
-      sha256 = "sha256-AWQtMX8dvmjbkBa6QaG1GeHgF8V8BGVat+qXI/75bHQ=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.94/file/leanprover.lean4-0.0.94.vsix";
+      sha256 = "sha256-WMXmDNQJhP1w00HyY1PMT/TmyDmKa5TT2hLCUMpVuVQ=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -14331,10 +14331,10 @@
   };
   mintlify-document = {
     pname = "mintlify-document";
-    version = "2.1.21";
+    version = "2.2.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mintlify/document/2.1.21/file/mintlify.document-2.1.21.vsix";
-      sha256 = "sha256-haqhgpDS+hHNRQ0P0plMneDHD0Hf+iFtFoZgEo/Al6w=";
+      url = "https://open-vsx.org/api/mintlify/document/2.2.1/file/mintlify.document-2.2.1.vsix";
+      sha256 = "sha256-0rRBX1gIzszJBMHS/fU2YX6fN9vKuKAxqKjHuEuYkDo=";
     };
     license = "Expat";
     name = "document";
@@ -17607,10 +17607,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.12.30";
+    version = "0.12.56";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.12.30/file/redhat.ansible-0.12.30.vsix";
-      sha256 = "sha256-W0aKjL18wFE8zf664cqesiiC3dXi8IJZQFheVv+6ce0=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.12.56/file/redhat.ansible-0.12.56.vsix";
+      sha256 = "sha256-UGbPKXOR1rE+YUHaQmbPf1ATkA+NdeZy5SYecxXhduw=";
     };
     license = "MIT";
     name = "ansible";

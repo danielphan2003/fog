@@ -7630,8 +7630,8 @@ fetch.url = "https://open-vsx.org/api/ZixuanWang/linkerscript/1.0.2/file/ZixuanW
 passthru = { publisher = "ZixuanWang", name = "linkerscript", description = "Language support for GNU linker script", license = "MIT" }
 
 [mintlify-document]
-src.manual = "2.1.21" # mintlify.document
-fetch.url = "https://open-vsx.org/api/mintlify/document/2.1.21/file/mintlify.document-2.1.21.vsix" # mintlify.document
+src.manual = "2.2.1" # mintlify.document
+fetch.url = "https://open-vsx.org/api/mintlify/document/2.2.1/file/mintlify.document-2.2.1.vsix" # mintlify.document
 passthru = { publisher = "mintlify", name = "document", description = "AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages", license = "Expat" }
 
 [butchland-vscode-dbt-bigquery-power-user]
@@ -9575,8 +9575,8 @@ fetch.url = "https://open-vsx.org/api/waderyan/gitblame/9.0.1/file/waderyan.gitb
 passthru = { publisher = "waderyan", name = "gitblame", description = "See git blame information in the status bar.", license = "MIT" }
 
 [leanprover-lean4]
-src.manual = "0.0.93" # leanprover.lean4
-fetch.url = "https://open-vsx.org/api/leanprover/lean4/0.0.93/file/leanprover.lean4-0.0.93.vsix" # leanprover.lean4
+src.manual = "0.0.94" # leanprover.lean4
+fetch.url = "https://open-vsx.org/api/leanprover/lean4/0.0.94/file/leanprover.lean4-0.0.94.vsix" # leanprover.lean4
 passthru = { publisher = "leanprover", name = "lean4", description = "Lean 4 language support for VS Code", license = "Apache-2.0" }
 
 [arzg-apprentice]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1342" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1342/file/Prisma.prisma-insider-31.0.1342.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1343" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1343/file/Prisma.prisma-insider-31.0.1343.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9935,8 +9935,8 @@ fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKie
 passthru = { publisher = "PKief", name = "material-icon-theme", description = "Material Design Icons for Visual Studio Code", license = "MIT" }
 
 [redhat-ansible]
-src.manual = "0.12.30" # redhat.ansible
-fetch.url = "https://open-vsx.org/api/redhat/ansible/0.12.30/file/redhat.ansible-0.12.30.vsix" # redhat.ansible
+src.manual = "0.12.56" # redhat.ansible
+fetch.url = "https://open-vsx.org/api/redhat/ansible/0.12.56/file/redhat.ansible-0.12.56.vsix" # redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
@@ -10087,6 +10087,7 @@ passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Clou
 src.manual = "0.0.29" # WongYAQi.vscode-plugin-backend-helper
 fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.29/file/WongYAQi.vscode-plugin-backend-helper-0.0.29.vsix" # WongYAQi.vscode-plugin-backend-helper
 passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", description = "", license = "MIT" }
+
 
 
 
