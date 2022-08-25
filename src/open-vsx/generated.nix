@@ -5319,10 +5319,10 @@
   };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
-    version = "2.3.0";
+    version = "2.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.0/file/anweber.statusbar-commands-2.3.0.vsix";
-      sha256 = "sha256-x4Ohyx+xeBm+lICXy8Zo6IheLRKLlxP7DcAWr3DYM60=";
+      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.1/file/anweber.statusbar-commands-2.3.1.vsix";
+      sha256 = "sha256-UoGe0jYlOMe1RUb7hZD2z19SnUTdT9ryExU46JTUggc=";
     };
     license = "ISC";
     name = "statusbar-commands";
@@ -5331,10 +5331,10 @@
   };
   anweber-vscode-httpyac = {
     pname = "anweber-vscode-httpyac";
-    version = "5.6.3";
+    version = "5.6.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.3/file/anweber.vscode-httpyac-5.6.3.vsix";
-      sha256 = "sha256-wHYS+V0DQKKYPOXVZSzGRIx/9OvSDUkwCWYuSJ3l8Ds=";
+      url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.4/file/anweber.vscode-httpyac-5.6.4.vsix";
+      sha256 = "sha256-8FL56Bbq8ICkDPB2lxBGN4fDVefEYExyCwqfiisxTec=";
     };
     license = "MIT";
     name = "vscode-httpyac";

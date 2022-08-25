@@ -6275,8 +6275,8 @@ fetch.url = "https://open-vsx.org/api/franneck94/c-cpp-runner/3.0.0/file/frannec
 passthru = { publisher = "franneck94", name = "c-cpp-runner", description = "🚀 Compile, run and debug single or multiple C/C++ files with ease. 🚀", license = "MIT" }
 
 [anweber-statusbar-commands]
-src.manual = "2.3.0" # anweber.statusbar-commands
-fetch.url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.0/file/anweber.statusbar-commands-2.3.0.vsix" # anweber.statusbar-commands
+src.manual = "2.3.1" # anweber.statusbar-commands
+fetch.url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.1/file/anweber.statusbar-commands-2.3.1.vsix" # anweber.statusbar-commands
 passthru = { publisher = "anweber", name = "statusbar-commands", description = "extend the statusbar with own commands", license = "ISC" }
 
 [maximedenes-vscoq]
@@ -9850,8 +9850,8 @@ fetch.url = "https://open-vsx.org/api/haskell/haskell/2.2.1/file/haskell.haskell
 passthru = { publisher = "haskell", name = "haskell", description = "Haskell language support powered by the Haskell Language Server", license = "MIT" }
 
 [anweber-vscode-httpyac]
-src.manual = "5.6.3" # anweber.vscode-httpyac
-fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.3/file/anweber.vscode-httpyac-5.6.3.vsix" # anweber.vscode-httpyac
+src.manual = "5.6.4" # anweber.vscode-httpyac
+fetch.url = "https://open-vsx.org/api/anweber/vscode-httpyac/5.6.4/file/anweber.vscode-httpyac-5.6.4.vsix" # anweber.vscode-httpyac
 passthru = { publisher = "anweber", name = "vscode-httpyac", description = "Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code", license = "MIT" }
 
 [PrateekMahendrakar-prettyxml]
@@ -10118,5 +10118,6 @@ passthru = { publisher = "ShishirSingh", name = "easy-react-snippet", descriptio
 src.manual = "0.1.0" # karatelabs.karate
 fetch.url = "https://open-vsx.org/api/karatelabs/karate/0.1.0/file/karatelabs.karate-0.1.0.vsix" # karatelabs.karate
 passthru = { publisher = "karatelabs", name = "karate", description = "Test Automation Made Simple", license = "" }
+
 
 
