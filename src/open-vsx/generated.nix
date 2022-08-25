@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1345";
+    version = "31.0.1348";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1345/file/Prisma.prisma-insider-31.0.1345.vsix";
-      sha256 = "sha256-HF32iQhXMzR9kVvDChkuud6F8aRTwFNoy/iUHsoCsbA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1348/file/Prisma.prisma-insider-31.0.1348.vsix";
+      sha256 = "sha256-SaRxjB2EKGE3g4o/lwKQlJcKcU0sdPOuhGEoQoqElXg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -3432,6 +3432,18 @@
     name = "vscode-cy-helper";
     description = "Extension for cypress.io testing tool";
     publisher = "Shelex";
+  };
+  ShishirSingh-easy-react-snippet = {
+    pname = "ShishirSingh-easy-react-snippet";
+    version = "0.1.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/ShishirSingh/easy-react-snippet/0.1.2/file/ShishirSingh.easy-react-snippet-0.1.2.vsix";
+      sha256 = "sha256-02b5V0BUK2Ukso1S9p11P2wThuC+FWcEX3kmfz8z1Ds=";
+    };
+    license = "BSD-3-Clause";
+    name = "easy-react-snippet";
+    description = "Intuitive React Snippet that are easy to recall and use";
+    publisher = "ShishirSingh";
   };
   SimplyDanny-modelica = {
     pname = "SimplyDanny-modelica";
@@ -12469,6 +12481,18 @@
     description = "GZDoom's multiple scripting languages support (with a focus on ZScript) for VSCode (and compatible editors)";
     publisher = "kaptainmicila";
   };
+  karatelabs-karate = {
+    pname = "karatelabs-karate";
+    version = "0.1.0";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/karatelabs/karate/0.1.0/file/karatelabs.karate-0.1.0.vsix";
+      sha256 = "sha256-5JbEuKoSKU3GooKLuOSfapcaESbHgcwnMezuvIw6Gvs=";
+    };
+    license = "";
+    name = "karate";
+    description = "Test Automation Made Simple";
+    publisher = "karatelabs";
+  };
   karolis2011-dm-langclient = {
     pname = "karolis2011-dm-langclient";
     version = "0.2.2";
@@ -19119,10 +19143,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19467,10 +19491,10 @@
   };
   spoorthi-cosmy-wasmy = {
     pname = "spoorthi-cosmy-wasmy";
-    version = "1.0.0";
+    version = "1.1.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.0.0/file/spoorthi.cosmy-wasmy-1.0.0.vsix";
-      sha256 = "sha256-Mir5qL6+9RuRJtnWHyvWnLGIa0Puq6D8S5GiMiiTqcI=";
+      url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.1.0/file/spoorthi.cosmy-wasmy-1.1.0.vsix";
+      sha256 = "sha256-nhLbM3+YkHvXrGBJjBO4hpTAV+xbj1AjEYy93YOtyhk=";
     };
     license = "GPL-3.0";
     name = "cosmy-wasmy";
@@ -24003,10 +24027,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

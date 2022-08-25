@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -8915,8 +8915,8 @@ fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.3/file/d-biehl.robo
 passthru = { publisher = "d-biehl", name = "robotcode", description = "RobotFramework support for Visual Studio Code", license = "Apache-2.0" }
 
 [spoorthi-cosmy-wasmy]
-src.manual = "1.0.0" # spoorthi.cosmy-wasmy
-fetch.url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.0.0/file/spoorthi.cosmy-wasmy-1.0.0.vsix" # spoorthi.cosmy-wasmy
+src.manual = "1.1.0" # spoorthi.cosmy-wasmy
+fetch.url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.1.0/file/spoorthi.cosmy-wasmy-1.1.0.vsix" # spoorthi.cosmy-wasmy
 passthru = { publisher = "spoorthi", name = "cosmy-wasmy", description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm smart contracts", license = "GPL-3.0" }
 
 [vunguyentuan-vscode-css-variables]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1345" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1345/file/Prisma.prisma-insider-31.0.1345.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1348" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1348/file/Prisma.prisma-insider-31.0.1348.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10107,4 +10107,15 @@ passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", desc
 src.manual = "1.0.3" # arm.keil-studio-pack
 fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.3/file/arm.keil-studio-pack-1.0.3.vsix" # arm.keil-studio-pack
 passthru = { publisher = "arm", name = "keil-studio-pack", description = "Extension pack for Keil Studio development", license = "MIT" }
+
+
+[ShishirSingh-easy-react-snippet]
+src.manual = "0.1.2" # ShishirSingh.easy-react-snippet
+fetch.url = "https://open-vsx.org/api/ShishirSingh/easy-react-snippet/0.1.2/file/ShishirSingh.easy-react-snippet-0.1.2.vsix" # ShishirSingh.easy-react-snippet
+passthru = { publisher = "ShishirSingh", name = "easy-react-snippet", description = "Intuitive React Snippet that are easy to recall and use", license = "BSD-3-Clause" }
+
+[karatelabs-karate]
+src.manual = "0.1.0" # karatelabs.karate
+fetch.url = "https://open-vsx.org/api/karatelabs/karate/0.1.0/file/karatelabs.karate-0.1.0.vsix" # karatelabs.karate
+passthru = { publisher = "karatelabs", name = "karate", description = "Test Automation Made Simple", license = "" }
 

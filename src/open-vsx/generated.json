@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-HF32iQhXMzR9kVvDChkuud6F8aRTwFNoy/iUHsoCsbA=",
+            "sha256": "sha256-SaRxjB2EKGE3g4o/lwKQlJcKcU0sdPOuhGEoQoqElXg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1345/file/Prisma.prisma-insider-31.0.1345.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1348/file/Prisma.prisma-insider-31.0.1348.vsix"
         },
-        "version": "31.0.1345"
+        "version": "31.0.1348"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -5432,6 +5432,25 @@
             "url": "https://open-vsx.org/api/Shelex/vscode-cy-helper/3.0.0/file/Shelex.vscode-cy-helper-3.0.0.vsix"
         },
         "version": "3.0.0"
+    },
+    "ShishirSingh-easy-react-snippet": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "ShishirSingh-easy-react-snippet",
+        "passthru": {
+            "description": "Intuitive React Snippet that are easy to recall and use",
+            "license": "BSD-3-Clause",
+            "name": "easy-react-snippet",
+            "publisher": "ShishirSingh"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-02b5V0BUK2Ukso1S9p11P2wThuC+FWcEX3kmfz8z1Ds=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/ShishirSingh/easy-react-snippet/0.1.2/file/ShishirSingh.easy-react-snippet-0.1.2.vsix"
+        },
+        "version": "0.1.2"
     },
     "SimplyDanny-modelica": {
         "cargoLocks": null,
@@ -19740,6 +19759,25 @@
         },
         "version": "1.9.1"
     },
+    "karatelabs-karate": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "karatelabs-karate",
+        "passthru": {
+            "description": "Test Automation Made Simple",
+            "license": "",
+            "name": "karate",
+            "publisher": "karatelabs"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-5JbEuKoSKU3GooKLuOSfapcaESbHgcwnMezuvIw6Gvs=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/karatelabs/karate/0.1.0/file/karatelabs.karate-0.1.0.vsix"
+        },
+        "version": "0.1.0"
+    },
     "karolis2011-dm-langclient": {
         "cargoLocks": null,
         "extract": null,
@@ -30279,11 +30317,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -30830,11 +30868,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Mir5qL6+9RuRJtnWHyvWnLGIa0Puq6D8S5GiMiiTqcI=",
+            "sha256": "sha256-nhLbM3+YkHvXrGBJjBO4hpTAV+xbj1AjEYy93YOtyhk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.0.0/file/spoorthi.cosmy-wasmy-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.1.0/file/spoorthi.cosmy-wasmy-1.1.0.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.1.0"
     },
     "srimukh-slowbug": {
         "cargoLocks": null,
@@ -38012,11 +38050,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,
