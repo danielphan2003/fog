@@ -243,10 +243,10 @@
   };
   BeardedBear-beardedtheme = {
     pname = "BeardedBear-beardedtheme";
-    version = "7.2.2";
+    version = "7.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.2.2/file/BeardedBear.beardedtheme-7.2.2.vsix";
-      sha256 = "sha256-e69op4U0uKIT1FDi1Evy33UnWCdMF0NzDWiijl6H9oo=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedtheme/7.3.0/file/BeardedBear.beardedtheme-7.3.0.vsix";
+      sha256 = "sha256-3OQW0k4FJ1UUHYrtS8mhnraLOiSTio3CPxKgjcTfJ9Y=";
     };
     license = "MIT";
     name = "beardedtheme";
@@ -1755,10 +1755,10 @@
   };
   JFrog-jfrog-vscode-extension = {
     pname = "JFrog-jfrog-vscode-extension";
-    version = "1.14.0";
+    version = "1.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.14.0/file/JFrog.jfrog-vscode-extension-1.14.0.vsix";
-      sha256 = "sha256-TLINU73quwpgzuRJLTFMiY9j7PAABMNUztXzpW5+xlk=";
+      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.14.1/file/JFrog.jfrog-vscode-extension-1.14.1.vsix";
+      sha256 = "sha256-4k1DzROuL/sPjM6CFx68Fyb0mbpEzcet/YYSHJ7c8mQ=";
     };
     license = "Apache-2.0";
     name = "jfrog-vscode-extension";
@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1343";
+    version = "31.0.1345";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1343/file/Prisma.prisma-insider-31.0.1343.vsix";
-      sha256 = "sha256-4DJlHarJJkGaJhSJvITUXcsZEnxiWl83ejrQvoze878=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1345/file/Prisma.prisma-insider-31.0.1345.vsix";
+      sha256 = "sha256-HF32iQhXMzR9kVvDChkuud6F8aRTwFNoy/iUHsoCsbA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10325,8 +10325,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -12759,10 +12759,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13083,10 +13083,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.8.1661288102";
+    version = "2022.8.1661430156";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661288102/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661288102.vsix";
-      sha256 = "sha256-ySBUCVgP5+oQny0EHVmYWO8Hdidqnyuy/1LqM02lca8=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661430156/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661430156.vsix";
+      sha256 = "sha256-oKmbQMTYK24I88Y+ABVtKng8163xIUQybgYsxH2JeYM=";
     };
     license = "";
     name = "launchdarkly-beta";
