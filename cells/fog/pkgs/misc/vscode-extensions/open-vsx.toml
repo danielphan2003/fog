@@ -750,8 +750,8 @@ fetch.url = "https://open-vsx.org/api/ria/elastic/0.13.2/file/ria.elastic-0.13.2
 passthru = { publisher = "ria", name = "elastic", description = "Elasticsearch client like Kibana console for vscode", license = "" }
 
 [vshaxe-haxe-checkstyle]
-src.manual = "1.7.0" # vshaxe.haxe-checkstyle
-fetch.url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.7.0/file/vshaxe.haxe-checkstyle-1.7.0.vsix" # vshaxe.haxe-checkstyle
+src.manual = "1.8.0" # vshaxe.haxe-checkstyle
+fetch.url = "https://open-vsx.org/api/vshaxe/haxe-checkstyle/1.8.0/file/vshaxe.haxe-checkstyle-1.8.0.vsix" # vshaxe.haxe-checkstyle
 passthru = { publisher = "vshaxe", name = "haxe-checkstyle", description = "Linter for Haxe files", license = "MIT" }
 
 [vymarkov-add-gitlab-npm-token]
@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -2940,8 +2940,8 @@ fetch.url = "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.15.0/file/o
 passthru = { publisher = "onecentlin", name = "laravel5-snippets", description = "Laravel snippets for Visual Studio Code  (Support Laravel 5 and above)", license = "MIT" }
 
 [vshaxe-haxe-test-adapter]
-src.manual = "2.0.1" # vshaxe.haxe-test-adapter
-fetch.url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.1/file/vshaxe.haxe-test-adapter-2.0.1.vsix" # vshaxe.haxe-test-adapter
+src.manual = "2.0.2" # vshaxe.haxe-test-adapter
+fetch.url = "https://open-vsx.org/api/vshaxe/haxe-test-adapter/2.0.2/file/vshaxe.haxe-test-adapter-2.0.2.vsix" # vshaxe.haxe-test-adapter
 passthru = { publisher = "vshaxe", name = "haxe-test-adapter", description = "Run your Haxe tests in the Sidebar of Visual Studio Code", license = "MIT" }
 
 [krishnaVamsi-filesystem-watchers]
@@ -3805,8 +3805,8 @@ fetch.url = "https://open-vsx.org/api/vlanguage/vscode-vlang/0.1.13/file/vlangua
 passthru = { publisher = "vlanguage", name = "vscode-vlang", description = "V language support (syntax highlighting, formatter, snippets) for Visual Studio Code.", license = "MIT" }
 
 [ms-vscode-js-debug-companion]
-src.manual = "1.70.0" # ms-vscode.js-debug-companion
-fetch.url = "https://open-vsx.org/api/ms-vscode/js-debug/1.70.0/file/ms-vscode.js-debug-1.70.0.vsix" # ms-vscode.js-debug-companion
+src.manual = "1.71.0" # ms-vscode.js-debug-companion
+fetch.url = "https://open-vsx.org/api/ms-vscode/js-debug/1.71.0/file/ms-vscode.js-debug-1.71.0.vsix" # ms-vscode.js-debug-companion
 passthru = { publisher = "ms-vscode", name = "js-debug-companion", description = "Companion extension to js-debug that provides capability for remote debugging", license = "MIT" }
 
 [GNVageesh-codel]
@@ -4805,8 +4805,8 @@ fetch.url = "https://open-vsx.org/api/evaera/vscode-rojo/2.1.1/file/evaera.vscod
 passthru = { publisher = "evaera", name = "vscode-rojo", description = "Rojo for VS Code", license = "" }
 
 [bierner-markdown-mermaid]
-src.manual = "1.15.1" # bierner.markdown-mermaid
-fetch.url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.15.1/file/bierner.markdown-mermaid-1.15.1.vsix" # bierner.markdown-mermaid
+src.manual = "1.15.2" # bierner.markdown-mermaid
+fetch.url = "https://open-vsx.org/api/bierner/markdown-mermaid/1.15.2/file/bierner.markdown-mermaid-1.15.2.vsix" # bierner.markdown-mermaid
 passthru = { publisher = "bierner", name = "markdown-mermaid", description = "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview", license = "MIT" }
 
 [cloudstudio-workspaces]
@@ -4875,8 +4875,8 @@ fetch.url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.9/file/ms-pla
 passthru = { publisher = "ms-playwright", name = "playwright", description = "Run Playwright Test tests in Visual Studio Code.", license = "Apache-2.0" }
 
 [ms-vscode-vscode-typescript-next]
-src.manual = "4.9.20220823" # ms-vscode.vscode-typescript-next
-fetch.url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220823/file/ms-vscode.vscode-typescript-next-4.9.20220823.vsix" # ms-vscode.vscode-typescript-next
+src.manual = "4.9.20220824" # ms-vscode.vscode-typescript-next
+fetch.url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220824/file/ms-vscode.vscode-typescript-next-4.9.20220824.vsix" # ms-vscode.vscode-typescript-next
 passthru = { publisher = "ms-vscode", name = "vscode-typescript-next", description = "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support", license = "MIT" }
 
 [MS-CEINTL-vscode-language-pack-qps-ploc]
@@ -4975,8 +4975,8 @@ fetch.url = "https://open-vsx.org/api/MS-CEINTL/vscode-language-pack-de/1.71.0/f
 passthru = { publisher = "MS-CEINTL", name = "vscode-language-pack-de", description = "Language pack extension for German", license = "MIT" }
 
 [James-Yu-latex-workshop]
-src.manual = "8.28.0" # James-Yu.latex-workshop
-fetch.url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.28.0/file/James-Yu.latex-workshop-8.28.0.vsix" # James-Yu.latex-workshop
+src.manual = "8.29.0" # James-Yu.latex-workshop
+fetch.url = "https://open-vsx.org/api/James-Yu/latex-workshop/8.29.0/file/James-Yu.latex-workshop-8.29.0.vsix" # James-Yu.latex-workshop
 passthru = { publisher = "James-Yu", name = "latex-workshop", description = "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.", license = "MIT" }
 
 [antfu-vite]
@@ -5021,7 +5021,7 @@ passthru = { publisher = "bpruitt-goddard", name = "mermaid-markdown-syntax-high
 
 [GenieBuilder-geniebuilder-insider]
 src.manual = "0.1.20" # GenieBuilder.geniebuilder-insider
-fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder-insider/0.1.20/file/GenieBuilder.geniebuilder-insider-0.1.20.vsix" # GenieBuilder.geniebuilder-insider
+fetch.url = "https://open-vsx.org/api/GenieBuilder/geniebuilder/0.1.20/file/GenieBuilder.geniebuilder-0.1.20.vsix" # GenieBuilder.geniebuilder-insider
 passthru = { publisher = "GenieBuilder", name = "geniebuilder-insider", description = "No-code UI builder for Genie/Julia applications", license = "" }
 
 [Gruntfuggly-activitusbar]
@@ -7250,8 +7250,8 @@ fetch.url = "https://open-vsx.org/api/yandeu/five-server/0.1.4/file/yandeu.five-
 passthru = { publisher = "yandeu", name = "five-server", description = "A better Live Server with instant updates, highlights and PHP support.", license = "" }
 
 [redhat-vscode-openshift-connector]
-src.manual = "0.4.0" # redhat.vscode-openshift-connector
-fetch.url = "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.4.0/file/redhat.vscode-openshift-connector-0.4.0.vsix" # redhat.vscode-openshift-connector
+src.manual = "0.6.0" # redhat.vscode-openshift-connector
+fetch.url = "https://open-vsx.org/api/redhat/vscode-openshift-connector/0.6.0/file/redhat.vscode-openshift-connector-0.6.0.vsix" # redhat.vscode-openshift-connector
 passthru = { publisher = "redhat", name = "vscode-openshift-connector", description = "Simplified app dev for Kubernetes or Red Hat OpenShift", license = "MIT" }
 
 [anweber-reveal-button]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -10084,9 +10084,10 @@ passthru = { publisher = "cloudstudio", name = "gitcommits", description = "Clou
 
 
 [WongYAQi-vscode-plugin-backend-helper]
-src.manual = "0.0.24" # WongYAQi.vscode-plugin-backend-helper
-fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.24/file/WongYAQi.vscode-plugin-backend-helper-0.0.24.vsix" # WongYAQi.vscode-plugin-backend-helper
+src.manual = "0.0.29" # WongYAQi.vscode-plugin-backend-helper
+fetch.url = "https://open-vsx.org/api/WongYAQi/vscode-plugin-backend-helper/0.0.29/file/WongYAQi.vscode-plugin-backend-helper-0.0.29.vsix" # WongYAQi.vscode-plugin-backend-helper
 passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", description = "", license = "MIT" }
+
 
 
 
