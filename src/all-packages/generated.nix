@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "e92469121d37af387cb7fa507ae6ac6225cb9ebc";
+    version = "de477a6ff589479e6ae8773ea5da097d7d0fdce5";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "e92469121d37af387cb7fa507ae6ac6225cb9ebc";
+      rev = "de477a6ff589479e6ae8773ea5da097d7d0fdce5";
       fetchSubmodules = false;
-      sha256 = "sha256-gOfHnXvncOW3+zTAMFFMgVqFOBcTaI4gdiKBd7gN7go=";
+      sha256 = "sha256-Ji56lWqndO5AD59u7e7KVDmhNveyulp13cSh+u3QXaI=";
     });
   };
   ibus = {
@@ -572,10 +572,10 @@
   };
   jitsi-videobridge2 = {
     pname = "jitsi-videobridge2";
-    version = "2.2-34-gc7f9b9b1";
+    version = "2.2-35-g80b88b04";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-34-gc7f9b9b1-1_all.deb";
-      sha256 = "sha256-KxUOVXZmzPHyYTpOgjiJJY49FO82nTLW9kxa6Mz6hz4=";
+      url = "https://download.jitsi.org/unstable/jitsi-videobridge2_2.2-35-g80b88b04-1_all.deb";
+      sha256 = "sha256-ZvID13WaB+clQJAG80yK+sTOOpOn5nD0iOTC9FkWepo=";
     };
   };
   layout-machi = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "5bb3fbab93603af3de6a12487b2e9d018f1cb4e6";
+    version = "ee16c4558d5f7b60566536843fe0096f0a070293";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "5bb3fbab93603af3de6a12487b2e9d018f1cb4e6";
+      rev = "ee16c4558d5f7b60566536843fe0096f0a070293";
       fetchSubmodules = false;
-      sha256 = "sha256-PCMrBF4d4/Tfu2SMzdvzTXi1rxsuJxSEOSoHtRBDLjQ=";
+      sha256 = "sha256-I1x8xWFFefAIJBOZYaow6sVUp2hWj9AOjN58xD204wU=";
     });
   };
   revanced-cli = {
