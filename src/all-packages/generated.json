@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-4f39c0113908cb4556ad56e98cf07956bdca7ade/Cargo.lock",
+                "./asusctl-97481cd45ef846a6c92cf8e8ef97e0e5f8d705a6/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "4f39c0113908cb4556ad56e98cf07956bdca7ade",
-            "sha256": "sha256-ileI3WjC0GFjbyIt3NZTMKBMbqU6kPb1OzpHGrgN2BI=",
+            "rev": "97481cd45ef846a6c92cf8e8ef97e0e5f8d705a6",
+            "sha256": "sha256-3xcouJB8Ki071wzcorHh7j7B3pmTbJHQgoJkaNcSQDs=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "4f39c0113908cb4556ad56e98cf07956bdca7ade"
+        "version": "97481cd45ef846a6c92cf8e8ef97e0e5f8d705a6"
     },
     "avizo": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-C9XkQEY2Nnf/rBMq3wosiG9aZ36eWt9ZBEExCx8cLUs=",
+            "sha256": "sha256-4by8qurcvW6GiXJ4suCMBErC2b95EjWpqwN/R1nQGj4=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6494.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6495.tar.bz2"
         },
-        "version": "1.0.6494"
+        "version": "1.0.6495"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-hjGu/uusVpqofhdDeMkdNb++Zs0K5jFrlIb6p56ks9c=",
+            "sha256": "sha256-NB4yBufZeovZAC87f6JMftwkOs19fEbGOwBfK49INSg=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6494-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6495-1_all.deb"
         },
-        "version": "1.0.6494"
+        "version": "1.0.6495"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "9535c5c0ad0d5a63734f0393a68ae84f766f99b7",
-            "sha256": "sha256-DBxvq0apRYVzhdku7hce/wtx+tTw2DnKF5mG1TnVnWA=",
+            "rev": "de67f174bfa8a38a88cdf473e4069ca10eb066ff",
+            "sha256": "sha256-o/A7oVCSAHZxNU+qJPil+HPCrrV0GbVC4RDvscJQPWo=",
             "type": "github"
         },
-        "version": "9535c5c0ad0d5a63734f0393a68ae84f766f99b7"
+        "version": "de67f174bfa8a38a88cdf473e4069ca10eb066ff"
     },
     "revanced-cli": {
         "cargoLocks": null,
