@@ -1251,10 +1251,10 @@
   };
   GitHub-vscode-codeql = {
     pname = "GitHub-vscode-codeql";
-    version = "1.6.10";
+    version = "1.6.11";
     src = fetchurl {
-      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.10/file/GitHub.vscode-codeql-1.6.10.vsix";
-      sha256 = "sha256-80pPZKDkWnHof1DQKC7oiujE6bTwy81/lJP6IgkL7NI=";
+      url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.11/file/GitHub.vscode-codeql-1.6.11.vsix";
+      sha256 = "sha256-rC3RIHasniIwj0T9M8S5D64GYPMYHUxs8KLyKZrAzqc=";
     };
     license = "MIT";
     name = "vscode-codeql";
@@ -10337,8 +10337,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -11547,10 +11547,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.23";
+    version = "0.3.24";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.23/file/iterative.dvc-0.3.23.vsix";
-      sha256 = "sha256-fTRdsA0ItRUBDXie8hjjOW0ozDXsE34tNXQe21NCR6E=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.24/file/iterative.dvc-0.3.24.vsix";
+      sha256 = "sha256-OGqGM+DHDTygaKtiM8AsrgvpBLePkUaE8EZZWcwpsTg=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -13095,10 +13095,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -14499,10 +14499,10 @@
   };
   moocfi-test-my-code = {
     pname = "moocfi-test-my-code";
-    version = "2.1.2";
+    version = "2.1.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.2/file/moocfi.test-my-code-2.1.2.vsix";
-      sha256 = "sha256-RwQnbdySyvO2sAGVXTT45f8jnONvx5dcsOpWGLizrYM=";
+      url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.3/file/moocfi.test-my-code-2.1.3.vsix";
+      sha256 = "sha256-bYwip4tXVjjyq5H+Wbb/4oRE5IvXziy5E6j1KIrjaAU=";
     };
     license = "MIT";
     name = "test-my-code";
