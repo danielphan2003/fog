@@ -7155,10 +7155,10 @@
   };
   cloudstudio-gitcommits = {
     pname = "cloudstudio-gitcommits";
-    version = "0.0.1";
+    version = "0.0.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix";
-      sha256 = "sha256-ICpkHnSMNSK4cwVyKv6ALFztpJWH2x3hgSOECWh0liI=";
+      url = "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.2/file/cloudstudio.gitcommits-0.0.2.vsix";
+      sha256 = "sha256-niEVXfRz9cZ60TOAnxdkoTY24hVgq32mQDe2ERRT38Q=";
     };
     license = "MIT";
     name = "gitcommits";
@@ -7671,10 +7671,10 @@
   };
   cweijan-vscode-mysql-client2 = {
     pname = "cweijan-vscode-mysql-client2";
-    version = "5.7.3";
+    version = "5.7.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.3/file/cweijan.vscode-mysql-client2-5.7.3.vsix";
-      sha256 = "sha256-fCw6hghvGMMeY0M8C6tu0ZQFW96CP+Sxf+oA+1RfVJ4=";
+      url = "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.4/file/cweijan.vscode-mysql-client2-5.7.4.vsix";
+      sha256 = "sha256-yRinVCj1+m+hcu2gzk32kkPDnanvku5mAw0aQwOwXSs=";
     };
     license = "MIT";
     name = "vscode-mysql-client2";
@@ -16287,10 +16287,10 @@
   };
   oraichain-cosmwasm-ide = {
     pname = "oraichain-cosmwasm-ide";
-    version = "0.13.56";
+    version = "0.13.57";
     src = fetchurl {
-      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.56/file/oraichain.cosmwasm-ide-0.13.56.vsix";
-      sha256 = "sha256-/2dKsZLCZAgDt3LRucXmpv0wOWYBwfD+XP9Pp03ZCXY=";
+      url = "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.57/file/oraichain.cosmwasm-ide-0.13.57.vsix";
+      sha256 = "sha256-x4n9J0JVbJoYXlMR7X4vpgOVeCZrp8D1ONAmyKwepSA=";
     };
     license = "MIT OR Apache-2.0";
     name = "cosmwasm-ide";
@@ -19143,10 +19143,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";

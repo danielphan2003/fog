@@ -11336,11 +11336,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ICpkHnSMNSK4cwVyKv6ALFztpJWH2x3hgSOECWh0liI=",
+            "sha256": "sha256-niEVXfRz9cZ60TOAnxdkoTY24hVgq32mQDe2ERRT38Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.1/file/cloudstudio.gitcommits-0.0.1.vsix"
+            "url": "https://open-vsx.org/api/cloudstudio/gitcommits/0.0.2/file/cloudstudio.gitcommits-0.0.2.vsix"
         },
-        "version": "0.0.1"
+        "version": "0.0.2"
     },
     "cloudstudio-github-authentication": {
         "cargoLocks": null,
@@ -12153,11 +12153,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fCw6hghvGMMeY0M8C6tu0ZQFW96CP+Sxf+oA+1RfVJ4=",
+            "sha256": "sha256-yRinVCj1+m+hcu2gzk32kkPDnanvku5mAw0aQwOwXSs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.3/file/cweijan.vscode-mysql-client2-5.7.3.vsix"
+            "url": "https://open-vsx.org/api/cweijan/vscode-mysql-client2/5.7.4/file/cweijan.vscode-mysql-client2-5.7.4.vsix"
         },
-        "version": "5.7.3"
+        "version": "5.7.4"
     },
     "cweijan-vscode-office": {
         "cargoLocks": null,
@@ -25795,11 +25795,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/2dKsZLCZAgDt3LRucXmpv0wOWYBwfD+XP9Pp03ZCXY=",
+            "sha256": "sha256-x4n9J0JVbJoYXlMR7X4vpgOVeCZrp8D1ONAmyKwepSA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.56/file/oraichain.cosmwasm-ide-0.13.56.vsix"
+            "url": "https://open-vsx.org/api/oraichain/cosmwasm-ide/0.13.57/file/oraichain.cosmwasm-ide-0.13.57.vsix"
         },
-        "version": "0.13.56"
+        "version": "0.13.57"
     },
     "orellabacCR-mobilize-codeundestand": {
         "cargoLocks": null,
@@ -30317,11 +30317,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
