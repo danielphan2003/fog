@@ -29,8 +29,8 @@
     pname = "AdaCore-ada-debug";
     version = "23.0.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix";
-      sha256 = "sha256-81BhHBzkqBPRSRG0H+YmFNvVWvy9lsQ0zIT0xRR73iE=";
+      url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix";
+      sha256 = "sha256-dwGjbCmp6/9rcKmlDjF0nzgTHneNpHjo4r42x4mC6LQ=";
     };
     license = "GPL-3.0";
     name = "ada-debug";
@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1354";
+    version = "31.0.1355";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1354/file/Prisma.prisma-insider-31.0.1354.vsix";
-      sha256 = "sha256-dDkpsw0X358lgZkMoCa1CsBCeXFNQDOQxS/uo+Hc2xI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1355/file/Prisma.prisma-insider-31.0.1355.vsix";
+      sha256 = "sha256-NpPCWSudu+P1yWI6soYp/C15PGEN/Atj69WSF3/4UpQ=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -10349,8 +10349,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -10361,8 +10361,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -13095,10 +13095,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19143,10 +19143,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
