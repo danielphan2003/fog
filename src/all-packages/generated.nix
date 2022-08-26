@@ -943,18 +943,18 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.36.2";
+    version = "0.36.3";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.36.2/app-release-unsigned.apk";
-      sha256 = "sha256-QQpVZ5x9GWvxOkBvifL6Zc9UjUN32RprsUKnnst0bfU=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.36.3/app-release-unsigned.apk";
+      sha256 = "sha256-TSYH/KA7gCWvBXPQ9WUdudPlQRzQpkbHYOQhM0HBgxU=";
     };
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.42.0";
+    version = "2.42.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.42.0/revanced-patches-2.42.0.jar";
-      sha256 = "sha256-cOuswO6O4OrAw/cqGXJR4JMrbKSm8zGxqhQLorbAGFE=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.42.1/revanced-patches-2.42.1.jar";
+      sha256 = "sha256-LjjKyd7sEPfbJekUT+mB4suVVoAt/BhVMSkCWa8CnDo=";
     };
   };
   rofi-wayland = {
@@ -1097,24 +1097,24 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "e4cc79459245cebb4817f33e702ae135a9165a1b";
+    version = "27684681a576cef23a2a0d11e066d69aa56413b0";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "e4cc79459245cebb4817f33e702ae135a9165a1b";
+      rev = "27684681a576cef23a2a0d11e066d69aa56413b0";
       fetchSubmodules = false;
-      sha256 = "sha256-B5ceTi8jX+ESuHPxLQqalre7G6AsVd8bNTK8bqtcTzc=";
+      sha256 = "sha256-fuSrDW5yuVlu9ZHdzU1ApERyzMNA2SGhj5LZdtpt4lI=";
     });
   };
   spicetify-themes = {
     pname = "spicetify-themes";
-    version = "4e9d9e8aa8370d9bab4f934debc0bd2596a339eb";
+    version = "0f7a687e76c525e4013a7f82ccb15e11cc30475a";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-themes";
-      rev = "4e9d9e8aa8370d9bab4f934debc0bd2596a339eb";
+      rev = "0f7a687e76c525e4013a7f82ccb15e11cc30475a";
       fetchSubmodules = false;
-      sha256 = "sha256-Um90GS1ZWqb9fky/CCGkPax6C6xZEB4xuhsHEOnxQQI=";
+      sha256 = "sha256-OI0CiZE9GKaXVa5I8kCXlrfjX8izynKi5sJxPQK0Zd8=";
     });
   };
   spotify = {
