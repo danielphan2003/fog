@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "90b00c0ce459439343fbfa3c1831e0178d8f9b1b";
+    version = "fa953dda6312a21c04101d4006d72770bb4fc0cf";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "90b00c0ce459439343fbfa3c1831e0178d8f9b1b";
+      rev = "fa953dda6312a21c04101d4006d72770bb4fc0cf";
       fetchSubmodules = false;
-      sha256 = "sha256-OW6IVzLsZIAueph+FTorYuALe3BUkZN1jtCj8fIqHrw=";
+      sha256 = "sha256-H7eu8XQOXz+kC9Uy89MhgbbexvgtogvW4MYufic91Gg=";
     });
   };
   godu = {
@@ -1220,13 +1220,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "79905a11626b495e58ae6b707230736f1945e3f0";
+    version = "ceb8c5d1e9accbe087203b719fb06073ef2c4e9c";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "79905a11626b495e58ae6b707230736f1945e3f0";
+      rev = "ceb8c5d1e9accbe087203b719fb06073ef2c4e9c";
       fetchSubmodules = false;
-      sha256 = "sha256-gsM+8w1TexJUhVbw4Yw2QHSUR9THKTzW/W9kZXO5B/g=";
+      sha256 = "sha256-4qAoC2/Z2hzuwBGoUyKf7TKXd9Woo1oQB1UI7bJ9NqY=";
     });
   };
   tailscale-systray = {
