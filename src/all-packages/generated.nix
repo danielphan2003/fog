@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "cb2584628ec0c5643e334afdf16f74da8f3c20db";
+    version = "5b7a3da83f1fc7dd85dd88449c57649cfeb5a611";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "cb2584628ec0c5643e334afdf16f74da8f3c20db";
+      rev = "5b7a3da83f1fc7dd85dd88449c57649cfeb5a611";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-RnKABakf8QrFBHtVdgSyh0lr8VI6m0NGc5+zektR2CQ=";
+      sha256 = "sha256-4VLEp/yNViHk04fiTANw/iD0sVb7ZlrdHMG0MIOlqxA=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-cb2584628ec0c5643e334afdf16f74da8f3c20db/Cargo.lock;
+      lockFile = ./asusctl-5b7a3da83f1fc7dd85dd88449c57649cfeb5a611/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "8f47621857eedb8776d0facb0b6a6c873e6300d2";
+    version = "f3c13cf6693e9ab3b5da20cf1567e67dc96e82bb";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "8f47621857eedb8776d0facb0b6a6c873e6300d2";
+      rev = "f3c13cf6693e9ab3b5da20cf1567e67dc96e82bb";
       fetchSubmodules = false;
-      sha256 = "sha256-c6YHlffbgOgzllTn2pTOPQ98J9xH1eT2iQCzhar9c3o=";
+      sha256 = "sha256-ecgFTPbk/Bsbg8o4HxR8lrQUT859vz1nf68dRHUw6Ss=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.42.1";
+    version = "2.43.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.42.1/revanced-patches-2.42.1.jar";
-      sha256 = "sha256-LjjKyd7sEPfbJekUT+mB4suVVoAt/BhVMSkCWa8CnDo=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.43.0/revanced-patches-2.43.0.jar";
+      sha256 = "sha256-ceFi8X5MgHgVOVOJPWguaqjSAwf85HvBuu3NE4/RVog=";
     };
   };
   rofi-wayland = {

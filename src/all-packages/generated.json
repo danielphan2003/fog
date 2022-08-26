@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-cb2584628ec0c5643e334afdf16f74da8f3c20db/Cargo.lock",
+                "./asusctl-5b7a3da83f1fc7dd85dd88449c57649cfeb5a611/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "cb2584628ec0c5643e334afdf16f74da8f3c20db",
-            "sha256": "sha256-RnKABakf8QrFBHtVdgSyh0lr8VI6m0NGc5+zektR2CQ=",
+            "rev": "5b7a3da83f1fc7dd85dd88449c57649cfeb5a611",
+            "sha256": "sha256-4VLEp/yNViHk04fiTANw/iD0sVb7ZlrdHMG0MIOlqxA=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "cb2584628ec0c5643e334afdf16f74da8f3c20db"
+        "version": "5b7a3da83f1fc7dd85dd88449c57649cfeb5a611"
     },
     "avizo": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "8f47621857eedb8776d0facb0b6a6c873e6300d2",
-            "sha256": "sha256-c6YHlffbgOgzllTn2pTOPQ98J9xH1eT2iQCzhar9c3o=",
+            "rev": "f3c13cf6693e9ab3b5da20cf1567e67dc96e82bb",
+            "sha256": "sha256-ecgFTPbk/Bsbg8o4HxR8lrQUT859vz1nf68dRHUw6Ss=",
             "type": "github"
         },
-        "version": "8f47621857eedb8776d0facb0b6a6c873e6300d2"
+        "version": "f3c13cf6693e9ab3b5da20cf1567e67dc96e82bb"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LjjKyd7sEPfbJekUT+mB4suVVoAt/BhVMSkCWa8CnDo=",
+            "sha256": "sha256-ceFi8X5MgHgVOVOJPWguaqjSAwf85HvBuu3NE4/RVog=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.42.1/revanced-patches-2.42.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.43.0/revanced-patches-2.43.0.jar"
         },
-        "version": "2.42.1"
+        "version": "2.43.0"
     },
     "rofi-wayland": {
         "cargoLocks": null,
