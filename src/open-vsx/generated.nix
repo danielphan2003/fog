@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.29.1";
+    version = "0.30.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.1/file/BeardedBear.beardedicons-0.29.1.vsix";
-      sha256 = "sha256-q/jbDynYXF0kuneopjfgzPdJgqH2z4sF07RrgUUTkYs=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.30.0/file/BeardedBear.beardedicons-0.30.0.vsix";
+      sha256 = "sha256-r/uFWypn/8v4TpbPNV8PwvKf8lfqxpIi/3ZY13UIHeY=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -3507,10 +3507,10 @@
   };
   Slint-slint-nightly = {
     pname = "Slint-slint-nightly";
-    version = "2022.8.2418";
+    version = "2022.8.2522";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2418/file/Slint.slint-nightly-2022.8.2418.vsix";
-      sha256 = "sha256-3HzZEX48qprOUWObNVfKgnezdNG1Fe3+vgKfYy946c4=";
+      url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2522/file/Slint.slint-nightly-2022.8.2522.vsix";
+      sha256 = "sha256-6InnijR2fHoAI2cjDlBUSK1xOYZkYE/slwRbshnsE7E=";
     };
     license = "GPL-3.0";
     name = "slint-nightly";
@@ -9207,10 +9207,10 @@
   };
   evaera-vscode-rojo = {
     pname = "evaera-vscode-rojo";
-    version = "2.1.1";
+    version = "2.1.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/evaera/vscode-rojo/2.1.1/file/evaera.vscode-rojo-2.1.1.vsix";
-      sha256 = "sha256-6wad7xE2pXQn5AdAXF/mDvZRPNI5oGSxqcLzw3mfsZw=";
+      url = "https://open-vsx.org/api/evaera/vscode-rojo/2.1.2/file/evaera.vscode-rojo-2.1.2.vsix";
+      sha256 = "sha256-b+19R62ONpAdWw84ln1uCs5WpiLqjjrxh91uUkjTOtw=";
     };
     license = "";
     name = "vscode-rojo";
@@ -9435,10 +9435,10 @@
   };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.5.0/file/fernandoescolar.vscode-solution-explorer-0.5.0.vsix";
-      sha256 = "sha256-kTiY3+andTuCO5DBPTtsQ/89mcbdsE+0iQvB/dp9N/U=";
+      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.0/file/fernandoescolar.vscode-solution-explorer-0.6.0.vsix";
+      sha256 = "sha256-Nw1kduOhhywxrPwUydq/FhbpGOw1wmCbXu62rBgCzoY=";
     };
     license = "MIT";
     name = "vscode-solution-explorer";
@@ -10349,8 +10349,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13095,10 +13095,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -15255,10 +15255,10 @@
   };
   ms-vscode-vscode-typescript-next = {
     pname = "ms-vscode-vscode-typescript-next";
-    version = "4.9.20220824";
+    version = "4.9.20220825";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220824/file/ms-vscode.vscode-typescript-next-4.9.20220824.vsix";
-      sha256 = "sha256-hA6UVWHkJLJ+fzo+1GdM+yNovZApiIfa9lI2sHrHAT4=";
+      url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220825/file/ms-vscode.vscode-typescript-next-4.9.20220825.vsix";
+      sha256 = "sha256-iUOxHxrImP+XSF+dd/lLiiKskGoCVqhqQ9ARNvIphXw=";
     };
     license = "MIT";
     name = "vscode-typescript-next";
@@ -17103,10 +17103,10 @@
   };
   pranayagarwal-vscode-hack = {
     pname = "pranayagarwal-vscode-hack";
-    version = "2.13.0";
+    version = "2.14.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pranayagarwal/vscode-hack/2.13.0/file/pranayagarwal.vscode-hack-2.13.0.vsix";
-      sha256 = "sha256-zgs+iy8DynclxIh8TDOFAyPUSxq6/ozy26L7FrigsKM=";
+      url = "https://open-vsx.org/api/pranayagarwal/vscode-hack/2.14.0/file/pranayagarwal.vscode-hack-2.14.0.vsix";
+      sha256 = "sha256-txSoWKuLOUXZz00odednGbQAUbptgqzmtt1jG++k0Sc=";
     };
     license = "MIT";
     name = "vscode-hack";

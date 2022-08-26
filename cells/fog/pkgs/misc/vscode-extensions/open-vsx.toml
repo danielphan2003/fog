@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4535,8 +4535,8 @@ fetch.url = "https://open-vsx.org/api/vscjava/vscode-spring-initializr/0.10.1/fi
 passthru = { publisher = "vscjava", name = "vscode-spring-initializr", description = "A lightweight extension based on Spring Initializr to generate quick start Spring Boot Java projects.", license = "MIT" }
 
 [fernandoescolar-vscode-solution-explorer]
-src.manual = "0.5.0" # fernandoescolar.vscode-solution-explorer
-fetch.url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.5.0/file/fernandoescolar.vscode-solution-explorer-0.5.0.vsix" # fernandoescolar.vscode-solution-explorer
+src.manual = "0.6.0" # fernandoescolar.vscode-solution-explorer
+fetch.url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.0/file/fernandoescolar.vscode-solution-explorer-0.6.0.vsix" # fernandoescolar.vscode-solution-explorer
 passthru = { publisher = "fernandoescolar", name = "vscode-solution-explorer", description = "Visual Studio .sln file explorer for Visual Studio Code", license = "MIT" }
 
 [EventHorizon-ax-theme]
@@ -4655,8 +4655,8 @@ fetch.url = "https://open-vsx.org/api/ms-vscode/azure-account/0.11.1/file/ms-vsc
 passthru = { publisher = "ms-vscode", name = "azure-account", description = "A common Sign In and Subscription management extension for VS Code.", license = "MIT" }
 
 [pranayagarwal-vscode-hack]
-src.manual = "2.13.0" # pranayagarwal.vscode-hack
-fetch.url = "https://open-vsx.org/api/pranayagarwal/vscode-hack/2.13.0/file/pranayagarwal.vscode-hack-2.13.0.vsix" # pranayagarwal.vscode-hack
+src.manual = "2.14.0" # pranayagarwal.vscode-hack
+fetch.url = "https://open-vsx.org/api/pranayagarwal/vscode-hack/2.14.0/file/pranayagarwal.vscode-hack-2.14.0.vsix" # pranayagarwal.vscode-hack
 passthru = { publisher = "pranayagarwal", name = "vscode-hack", description = "Hack language & HHVM debugger support for Visual Studio Code", license = "MIT" }
 
 [donjayamanne-python-extension-pack]
@@ -4800,8 +4800,8 @@ fetch.url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.75/file/zard
 passthru = { publisher = "zardoy", name = "zardoy-experiments", description = "Highly experimental features and commands", license = "MIT" }
 
 [evaera-vscode-rojo]
-src.manual = "2.1.1" # evaera.vscode-rojo
-fetch.url = "https://open-vsx.org/api/evaera/vscode-rojo/2.1.1/file/evaera.vscode-rojo-2.1.1.vsix" # evaera.vscode-rojo
+src.manual = "2.1.2" # evaera.vscode-rojo
+fetch.url = "https://open-vsx.org/api/evaera/vscode-rojo/2.1.2/file/evaera.vscode-rojo-2.1.2.vsix" # evaera.vscode-rojo
 passthru = { publisher = "evaera", name = "vscode-rojo", description = "Rojo for VS Code", license = "" }
 
 [bierner-markdown-mermaid]
@@ -4875,8 +4875,8 @@ fetch.url = "https://open-vsx.org/api/ms-playwright/playwright/0.2.9/file/ms-pla
 passthru = { publisher = "ms-playwright", name = "playwright", description = "Run Playwright Test tests in Visual Studio Code.", license = "Apache-2.0" }
 
 [ms-vscode-vscode-typescript-next]
-src.manual = "4.9.20220824" # ms-vscode.vscode-typescript-next
-fetch.url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220824/file/ms-vscode.vscode-typescript-next-4.9.20220824.vsix" # ms-vscode.vscode-typescript-next
+src.manual = "4.9.20220825" # ms-vscode.vscode-typescript-next
+fetch.url = "https://open-vsx.org/api/ms-vscode/vscode-typescript-next/4.9.20220825/file/ms-vscode.vscode-typescript-next-4.9.20220825.vsix" # ms-vscode.vscode-typescript-next
 passthru = { publisher = "ms-vscode", name = "vscode-typescript-next", description = "Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support", license = "MIT" }
 
 [MS-CEINTL-vscode-language-pack-qps-ploc]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9550,8 +9550,8 @@ fetch.url = "https://open-vsx.org/api/ModyQyW/vscode-uni-app-snippets/0.9.2/file
 passthru = { publisher = "ModyQyW", name = "vscode-uni-app-snippets", description = "uni-app 基本能力代码片段。", license = "MIT" }
 
 [BeardedBear-beardedicons]
-src.manual = "0.29.1" # BeardedBear.beardedicons
-fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.29.1/file/BeardedBear.beardedicons-0.29.1.vsix" # BeardedBear.beardedicons
+src.manual = "0.30.0" # BeardedBear.beardedicons
+fetch.url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.30.0/file/BeardedBear.beardedicons-0.30.0.vsix" # BeardedBear.beardedicons
 passthru = { publisher = "BeardedBear", name = "beardedicons", description = "The icons with a long beard.", license = "MIT" }
 
 [ModyQyW-vscode-uni-ui-snippets]
@@ -9740,8 +9740,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.23/file/iterative.dvc-0.
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.8.2418" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2418/file/Slint.slint-nightly-2022.8.2418.vsix" # Slint.slint-nightly
+src.manual = "2022.8.2522" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2522/file/Slint.slint-nightly-2022.8.2522.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10118,6 +10118,7 @@ passthru = { publisher = "ShishirSingh", name = "easy-react-snippet", descriptio
 src.manual = "0.1.0" # karatelabs.karate
 fetch.url = "https://open-vsx.org/api/karatelabs/karate/0.1.0/file/karatelabs.karate-0.1.0.vsix" # karatelabs.karate
 passthru = { publisher = "karatelabs", name = "karate", description = "Test Automation Made Simple", license = "" }
+
 
 
 
