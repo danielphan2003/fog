@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-bff98ddf7b9ab6c523e8988adb6f2468d3223a2e/Cargo.lock",
+                "./asusctl-cb2584628ec0c5643e334afdf16f74da8f3c20db/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "bff98ddf7b9ab6c523e8988adb6f2468d3223a2e",
-            "sha256": "sha256-1c2sb4JkybxyIu1RqFR9GVjbLEk7ieYp9FiNE0wlKGs=",
+            "rev": "cb2584628ec0c5643e334afdf16f74da8f3c20db",
+            "sha256": "sha256-RnKABakf8QrFBHtVdgSyh0lr8VI6m0NGc5+zektR2CQ=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "bff98ddf7b9ab6c523e8988adb6f2468d3223a2e"
+        "version": "cb2584628ec0c5643e334afdf16f74da8f3c20db"
     },
     "avizo": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "f7c741317fc2084cd63d007292066292585422ad",
-            "sha256": "sha256-Tal4fn731Eh0rlen50SP2mRRTic03KwOqJSMxYvWXVw=",
+            "rev": "56caba5f019c9869594bbae32e693d0a59eaf41e",
+            "sha256": "sha256-b8B+V88OjYIWkDrLgEcoMtX/0lWGPQQ3u3ZAg/Y9Vhs=",
             "type": "github"
         },
-        "version": "f7c741317fc2084cd63d007292066292585422ad"
+        "version": "56caba5f019c9869594bbae32e693d0a59eaf41e"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1168,11 +1168,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WrK306QyxxMB2sN+R467oUUnmisNTA3cyPGEtYtO/Vc=",
+            "sha256": "sha256-zsSP34Y+44zHRpjT/eLtErpDL3Tb6R9/F7XgPBNjScs=",
             "type": "url",
-            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.37.1.tar.gz"
+            "url": "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.37.2.tar.gz"
         },
-        "version": "0.37.1"
+        "version": "0.37.2"
     },
     "nix-zsh-completions": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "29caa95f7e0ade7623d9a1e395df1ba9f56a602e",
-            "sha256": "sha256-yhPviforA5+Mqzwg+h4dPPJEmLlP8tdmONeeqPx/8qA=",
+            "rev": "205b9f862fa3586bbd16d373c3d0e80931f2fdf0",
+            "sha256": "sha256-bZztyp/yHvJ9bmrXuUQ5fIFwHpHT1Sn4ScwJm2ydw8o=",
             "type": "github"
         },
-        "version": "29caa95f7e0ade7623d9a1e395df1ba9f56a602e"
+        "version": "205b9f862fa3586bbd16d373c3d0e80931f2fdf0"
     },
     "revanced-cli": {
         "cargoLocks": null,
