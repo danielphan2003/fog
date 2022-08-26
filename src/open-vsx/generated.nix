@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1351";
+    version = "31.0.1353";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1351/file/Prisma.prisma-insider-31.0.1351.vsix";
-      sha256 = "sha256-nyJT7JmPQPLr+dkGF//U3NiifkR949KSG9IXbSEhPhU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1353/file/Prisma.prisma-insider-31.0.1353.vsix";
+      sha256 = "sha256-KmUuVgz43Luzy/8OdieTnASQYRvEHND86hTISHvXRdg=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8091,10 +8091,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.1.4";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.4/file/deadlock.deadlock-gitpod-0.1.4.vsix";
-      sha256 = "sha256-wF9tIdfxDyeqd3+kvbLikNA8QS5Rw+QwXcGJBJ/vA5Q=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.6/file/deadlock.deadlock-gitpod-0.1.6.vsix";
+      sha256 = "sha256-avxsHo+Z+cJbq/g2fwQkC4zT35IX6PiXsqTiNI5qhsY=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -10337,8 +10337,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10349,8 +10349,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -19023,10 +19023,10 @@
   };
   shivaprasanth-dothttp-code = {
     pname = "shivaprasanth-dothttp-code";
-    version = "0.0.59";
+    version = "0.0.60";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.59/file/shivaprasanth.dothttp-code-0.0.59.vsix";
-      sha256 = "sha256-GGEHtKSkn4yKeMUVYiQub7/5kAp4eSwiM+y4JTUPs0c=";
+      url = "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.60/file/shivaprasanth.dothttp-code-0.0.60.vsix";
+      sha256 = "sha256-QK0Xj19EPkevR/O9fB+C8+LPhU/NpJkVH8eeQA2+u3Q=";
     };
     license = "Apache-2.0";
     name = "dothttp-code";
@@ -19577,8 +19577,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

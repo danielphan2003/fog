@@ -4895,11 +4895,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-nyJT7JmPQPLr+dkGF//U3NiifkR949KSG9IXbSEhPhU=",
+            "sha256": "sha256-KmUuVgz43Luzy/8OdieTnASQYRvEHND86hTISHvXRdg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1351/file/Prisma.prisma-insider-31.0.1351.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1353/file/Prisma.prisma-insider-31.0.1353.vsix"
         },
-        "version": "31.0.1351"
+        "version": "31.0.1353"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -12818,11 +12818,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wF9tIdfxDyeqd3+kvbLikNA8QS5Rw+QwXcGJBJ/vA5Q=",
+            "sha256": "sha256-avxsHo+Z+cJbq/g2fwQkC4zT35IX6PiXsqTiNI5qhsY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.4/file/deadlock.deadlock-gitpod-0.1.4.vsix"
+            "url": "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.6/file/deadlock.deadlock-gitpod-0.1.6.vsix"
         },
-        "version": "0.1.4"
+        "version": "0.1.6"
     },
     "deepakgupta191199-save-commands": {
         "cargoLocks": null,
@@ -16371,9 +16371,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -16390,9 +16390,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -30127,11 +30127,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-GGEHtKSkn4yKeMUVYiQub7/5kAp4eSwiM+y4JTUPs0c=",
+            "sha256": "sha256-QK0Xj19EPkevR/O9fB+C8+LPhU/NpJkVH8eeQA2+u3Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.59/file/shivaprasanth.dothttp-code-0.0.59.vsix"
+            "url": "https://open-vsx.org/api/shivaprasanth/dothttp-code/0.0.60/file/shivaprasanth.dothttp-code-0.0.60.vsix"
         },
-        "version": "0.0.59"
+        "version": "0.0.60"
     },
     "shoobah-pinkasheck": {
         "cargoLocks": null,
@@ -31001,9 +31001,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
