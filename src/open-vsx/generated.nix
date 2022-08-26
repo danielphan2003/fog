@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1353";
+    version = "31.0.1354";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1353/file/Prisma.prisma-insider-31.0.1353.vsix";
-      sha256 = "sha256-KmUuVgz43Luzy/8OdieTnASQYRvEHND86hTISHvXRdg=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1354/file/Prisma.prisma-insider-31.0.1354.vsix";
+      sha256 = "sha256-dDkpsw0X358lgZkMoCa1CsBCeXFNQDOQxS/uo+Hc2xI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -19577,8 +19577,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
