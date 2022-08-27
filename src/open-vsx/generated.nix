@@ -697,6 +697,18 @@
     description = "Support CodeLens to run in GHCi as integrated terminal sessions";
     publisher = "ComplYue";
   };
+  CucumberOpen-cucumber-official = {
+    pname = "CucumberOpen-cucumber-official";
+    version = "1.2.10";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.10/file/CucumberOpen.cucumber-official-1.2.10.vsix";
+      sha256 = "sha256-YRk+ksa0gkcCCz6ESiFPlUcG9KcNW4wGFud7PJ49TVI=";
+    };
+    license = "MIT";
+    name = "cucumber-official";
+    description = "Cucumber for Visual Studio Code";
+    publisher = "CucumberOpen";
+  };
   DAXaholic-vscode-edifact = {
     pname = "DAXaholic-vscode-edifact";
     version = "0.8.0";
@@ -13095,10 +13107,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19143,10 +19155,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -20595,10 +20607,10 @@
   };
   timonwong-shellcheck = {
     pname = "timonwong-shellcheck";
-    version = "0.21.1";
+    version = "0.21.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.1/file/timonwong.shellcheck-0.21.1.vsix";
-      sha256 = "sha256-nrl6b/DrLdPjOL2CBLaAd/laDmq6nzf9xsEJIQynz60=";
+      url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.2/file/timonwong.shellcheck-0.21.2.vsix";
+      sha256 = "sha256-oacD8gtpT8pN6U6sL8b3A0IP1EctDcu3QR73mExfzf4=";
     };
     license = "MIT";
     name = "shellcheck";

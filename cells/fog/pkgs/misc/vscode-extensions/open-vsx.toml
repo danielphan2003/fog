@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -8895,8 +8895,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.6.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9940,8 +9940,8 @@ fetch.url = "https://open-vsx.org/api/redhat/ansible/0.12.56/file/redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
-src.manual = "0.21.1" # timonwong.shellcheck
-fetch.url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.1/file/timonwong.shellcheck-0.21.1.vsix" # timonwong.shellcheck
+src.manual = "0.21.2" # timonwong.shellcheck
+fetch.url = "https://open-vsx.org/api/timonwong/shellcheck/0.21.2/file/timonwong.shellcheck-0.21.2.vsix" # timonwong.shellcheck
 passthru = { publisher = "timonwong", name = "shellcheck", description = "Integrates ShellCheck into VS Code, a linter for Shell scripts.", license = "MIT" }
 
 [Dart-Code-dart-code]
@@ -10138,4 +10138,10 @@ passthru = { publisher = "karatelabs", name = "karate", description = "Test Auto
 
 
 
+
+
+[CucumberOpen-cucumber-official]
+src.manual = "1.2.10" # CucumberOpen.cucumber-official
+fetch.url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.10/file/CucumberOpen.cucumber-official-1.2.10.vsix" # CucumberOpen.cucumber-official
+passthru = { publisher = "CucumberOpen", name = "cucumber-official", description = "Cucumber for Visual Studio Code", license = "MIT" }
 
