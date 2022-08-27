@@ -943,10 +943,10 @@
   };
   revanced-integrations = {
     pname = "revanced-integrations";
-    version = "0.36.3";
+    version = "0.36.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.36.3/app-release-unsigned.apk";
-      sha256 = "sha256-TSYH/KA7gCWvBXPQ9WUdudPlQRzQpkbHYOQhM0HBgxU=";
+      url = "https://github.com/revanced/revanced-integrations/releases/download/v0.36.4/app-release-unsigned.apk";
+      sha256 = "sha256-CXf9I1LVtVjy6mzayDzcdXGqGmA/mxV7WGjY+1/D14w=";
     };
   };
   revanced-patches-jar = {
@@ -1220,13 +1220,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "31bf3874d6f793943d63ffa2cf0440c57108b338";
+    version = "ab7e6f3f116abe4eeff0ae2b661dc02ef8a18d29";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "31bf3874d6f793943d63ffa2cf0440c57108b338";
+      rev = "ab7e6f3f116abe4eeff0ae2b661dc02ef8a18d29";
       fetchSubmodules = false;
-      sha256 = "sha256-SHftcund5yCZXxUMMKoTGKugPoU6cDdJEckatxT6NZ0=";
+      sha256 = "sha256-nHmSUIgDCi3yqPXKEZEGx1bYEHVOeEapF160XMRlRZI=";
     });
   };
   tailscale-systray = {
