@@ -231,10 +231,10 @@
   };
   BeardedBear-beardedicons = {
     pname = "BeardedBear-beardedicons";
-    version = "0.30.0";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BeardedBear/beardedicons/0.30.0/file/BeardedBear.beardedicons-0.30.0.vsix";
-      sha256 = "sha256-r/uFWypn/8v4TpbPNV8PwvKf8lfqxpIi/3ZY13UIHeY=";
+      url = "https://open-vsx.org/api/BeardedBear/beardedicons/1.0.0/file/BeardedBear.beardedicons-1.0.0.vsix";
+      sha256 = "sha256-up0LMmNr2SdRMUcGqzbSTycJPc7/hnTYYtcnFNBIZ2w=";
     };
     license = "MIT";
     name = "beardedicons";
@@ -13095,10 +13095,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -19577,8 +19577,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -20835,10 +20835,10 @@
   };
   tonwhales-func-vscode = {
     pname = "tonwhales-func-vscode";
-    version = "0.2.2";
+    version = "1.0.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tonwhales/func-vscode/0.2.2/file/tonwhales.func-vscode-0.2.2.vsix";
-      sha256 = "sha256-D2WkZe2Au26igeCYlOV+B2Mbdmhqn0OkPvgpQ6a766c=";
+      url = "https://open-vsx.org/api/tonwhales/func-vscode/1.0.0/file/tonwhales.func-vscode-1.0.0.vsix";
+      sha256 = "sha256-rVG/RreLlatXxeYOxuas2mG9nBXAv+zClM61TbSu9q8=";
     };
     license = "GPL-3.0";
     name = "func-vscode";

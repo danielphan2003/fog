@@ -373,11 +373,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-r/uFWypn/8v4TpbPNV8PwvKf8lfqxpIi/3ZY13UIHeY=",
+            "sha256": "sha256-up0LMmNr2SdRMUcGqzbSTycJPc7/hnTYYtcnFNBIZ2w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/0.30.0/file/BeardedBear.beardedicons-0.30.0.vsix"
+            "url": "https://open-vsx.org/api/BeardedBear/beardedicons/1.0.0/file/BeardedBear.beardedicons-1.0.0.vsix"
         },
-        "version": "0.30.0"
+        "version": "1.0.0"
     },
     "BeardedBear-beardedtheme": {
         "cargoLocks": null,
@@ -20741,11 +20741,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -31001,9 +31001,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -32996,11 +32996,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-D2WkZe2Au26igeCYlOV+B2Mbdmhqn0OkPvgpQ6a766c=",
+            "sha256": "sha256-rVG/RreLlatXxeYOxuas2mG9nBXAv+zClM61TbSu9q8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tonwhales/func-vscode/0.2.2/file/tonwhales.func-vscode-0.2.2.vsix"
+            "url": "https://open-vsx.org/api/tonwhales/func-vscode/1.0.0/file/tonwhales.func-vscode-1.0.0.vsix"
         },
-        "version": "0.2.2"
+        "version": "1.0.0"
     },
     "tonybaloney-vscode-pets": {
         "cargoLocks": null,
