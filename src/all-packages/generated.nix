@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "0cbfdd4dbd92c3865b109d5f2db20f8c5e3185d5";
+    version = "666a3701986a530d9fceeee06d1ed863a5f6eda6";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "0cbfdd4dbd92c3865b109d5f2db20f8c5e3185d5";
+      rev = "666a3701986a530d9fceeee06d1ed863a5f6eda6";
       fetchSubmodules = false;
-      sha256 = "sha256-5MASlJVZeHY4Z7EVrmy/oln8HKF7XbcWvUrwWlnpavY=";
+      sha256 = "sha256-uyDTtwDdl9M0gg5fXdys5rf2IjxdZMKWYfmH4TGL59w=";
     });
   };
   caddy = {
@@ -390,13 +390,13 @@
   };
   fake-background-webcam = {
     pname = "fake-background-webcam";
-    version = "29d4c43dc9d827a11be724b867d23be35dba30ec";
+    version = "d222c2c7e9a8dad20cc5960caa88bef70e4c23ca";
     src = fetchFromGitHub ({
       owner = "fangfufu";
       repo = "Linux-Fake-Background-Webcam";
-      rev = "29d4c43dc9d827a11be724b867d23be35dba30ec";
+      rev = "d222c2c7e9a8dad20cc5960caa88bef70e4c23ca";
       fetchSubmodules = false;
-      sha256 = "sha256-Jlfb9gL2yJgNq862Vcr35b+Rl6qYU5pupG7C7+bqC2I=";
+      sha256 = "sha256-sxw93NQznc6QmHHN4eStIYzTYb9yremVOCNcb+Ut3gQ=";
     });
   };
   firefox-sidebar = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "f34f4d060c864730887cc7289710d6d35a5b895b";
+    version = "25b76fdb5453ad60a14a1194d5ecc3f604ef3b74";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "f34f4d060c864730887cc7289710d6d35a5b895b";
+      rev = "25b76fdb5453ad60a14a1194d5ecc3f604ef3b74";
       fetchSubmodules = false;
-      sha256 = "sha256-+WCoZnaXrgux0hWEg694AXLbx+JsOUNcqvV87a4OyAs=";
+      sha256 = "sha256-juLfJ4TveOtVug+ylYFQikt0nmbxZVNX4sCyTqkNzl8=";
     });
   };
   revanced-cli = {
