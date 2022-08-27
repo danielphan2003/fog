@@ -96,17 +96,17 @@
   };
   asusctl = {
     pname = "asusctl";
-    version = "414d610bd242d97d9a0d1e36a02624bab3f29206";
+    version = "1a132d847fb7be345e4c045a3b2b374736592ee5";
     src = fetchgit {
       url = "https://gitlab.com/asus-linux/asusctl";
-      rev = "414d610bd242d97d9a0d1e36a02624bab3f29206";
+      rev = "1a132d847fb7be345e4c045a3b2b374736592ee5";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-8E5WLuSohg/KuQcMG33cEiNQEECiIhRtAONX5xTAbgo=";
+      sha256 = "sha256-ho5vaWFRD/Ct0NTUnYeaS5Ala6wrtqsN/ykIO8SJ0RM=";
     };
     cargoLock."Cargo.lock" = {
-      lockFile = ./asusctl-414d610bd242d97d9a0d1e36a02624bab3f29206/Cargo.lock;
+      lockFile = ./asusctl-1a132d847fb7be345e4c045a3b2b374736592ee5/Cargo.lock;
       outputHashes = {
         "eframe-0.18.0" = "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E=";
       };
@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "9977384b06c19cc78fd370603a351682373acff6";
+    version = "3ab53b0323460d586fb54125e06583486890ef8e";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "9977384b06c19cc78fd370603a351682373acff6";
+      rev = "3ab53b0323460d586fb54125e06583486890ef8e";
       fetchSubmodules = false;
-      sha256 = "sha256-36HFiuG6xwfYvDncUkqi5gwk1SNnLFme9yzJjeFXWAs=";
+      sha256 = "sha256-JFai5b6bAr86s4oPjxGR8jviqAEBt21LgWjX0ff9KHk=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-9977384b06c19cc78fd370603a351682373acff6/Cargo.lock;
+      lockFile = ./eww-3ab53b0323460d586fb54125e06583486890ef8e/Cargo.lock;
       outputHashes = {
         
       };

@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-414d610bd242d97d9a0d1e36a02624bab3f29206/Cargo.lock",
+                "./asusctl-1a132d847fb7be345e4c045a3b2b374736592ee5/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "414d610bd242d97d9a0d1e36a02624bab3f29206",
-            "sha256": "sha256-8E5WLuSohg/KuQcMG33cEiNQEECiIhRtAONX5xTAbgo=",
+            "rev": "1a132d847fb7be345e4c045a3b2b374736592ee5",
+            "sha256": "sha256-ho5vaWFRD/Ct0NTUnYeaS5Ala6wrtqsN/ykIO8SJ0RM=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "414d610bd242d97d9a0d1e36a02624bab3f29206"
+        "version": "1a132d847fb7be345e4c045a3b2b374736592ee5"
     },
     "avizo": {
         "cargoLocks": null,
@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-9977384b06c19cc78fd370603a351682373acff6/Cargo.lock",
+                "./eww-3ab53b0323460d586fb54125e06583486890ef8e/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "9977384b06c19cc78fd370603a351682373acff6",
-            "sha256": "sha256-36HFiuG6xwfYvDncUkqi5gwk1SNnLFme9yzJjeFXWAs=",
+            "rev": "3ab53b0323460d586fb54125e06583486890ef8e",
+            "sha256": "sha256-JFai5b6bAr86s4oPjxGR8jviqAEBt21LgWjX0ff9KHk=",
             "type": "github"
         },
-        "version": "9977384b06c19cc78fd370603a351682373acff6"
+        "version": "3ab53b0323460d586fb54125e06583486890ef8e"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
