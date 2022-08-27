@@ -6433,6 +6433,18 @@
     description = "Markdown syntax support for the Mermaid charting language";
     publisher = "bpruitt-goddard";
   };
+  br4ch1st0chr0n3-purs-hotkeys = {
+    pname = "br4ch1st0chr0n3-purs-hotkeys";
+    version = "0.0.1";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix";
+      sha256 = "sha256-3g2gXqrIiXp3SvA0XA9Mm1tBp1eBBipyPqSPPlSYkQ8=";
+    };
+    license = "MIT";
+    name = "purs-hotkeys";
+    description = "Hotkeys for getting expression types";
+    publisher = "br4ch1st0chr0n3";
+  };
   bradlc-vscode-tailwindcss = {
     pname = "bradlc-vscode-tailwindcss";
     version = "0.8.6";
@@ -7479,10 +7491,10 @@
   };
   croccifixio-blackboard-pro = {
     pname = "croccifixio-blackboard-pro";
-    version = "1.1.3";
+    version = "1.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.3/file/croccifixio.blackboard-pro-1.1.3.vsix";
-      sha256 = "sha256-Kwabhv8A7uhwE+mPCuMut+9ZRdjiUoa5lFO8Za5/1oc=";
+      url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.4/file/croccifixio.blackboard-pro-1.1.4.vsix";
+      sha256 = "sha256-VoVTgbqpqArR09TXK5MxWw2ozXdQig2/DgBlnnud0EU=";
     };
     license = "Unlicense";
     name = "blackboard-pro";
@@ -23823,10 +23835,10 @@
   };
   zardoy-vetur-extended = {
     pname = "zardoy-vetur-extended";
-    version = "0.0.18";
+    version = "0.0.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.18/file/zardoy.vetur-extended-0.0.18.vsix";
-      sha256 = "sha256-8tCMvl3FIos6VuD/pUu63UKBWP5BAKV//3PyfeI9ANQ=";
+      url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.19/file/zardoy.vetur-extended-0.0.19.vsix";
+      sha256 = "sha256-4P7k+TtlEMUbBJs2Lg4r1bghNrL0WS9e0ODAMMjs6wU=";
     };
     license = "MIT";
     name = "vetur-extended";

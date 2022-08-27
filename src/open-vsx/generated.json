@@ -10183,6 +10183,25 @@
         },
         "version": "1.4.1"
     },
+    "br4ch1st0chr0n3-purs-hotkeys": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "br4ch1st0chr0n3-purs-hotkeys",
+        "passthru": {
+            "description": "Hotkeys for getting expression types",
+            "license": "MIT",
+            "name": "purs-hotkeys",
+            "publisher": "br4ch1st0chr0n3"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-3g2gXqrIiXp3SvA0XA9Mm1tBp1eBBipyPqSPPlSYkQ8=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix"
+        },
+        "version": "0.0.1"
+    },
     "bradlc-vscode-tailwindcss": {
         "cargoLocks": null,
         "extract": null,
@@ -11849,11 +11868,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Kwabhv8A7uhwE+mPCuMut+9ZRdjiUoa5lFO8Za5/1oc=",
+            "sha256": "sha256-VoVTgbqpqArR09TXK5MxWw2ozXdQig2/DgBlnnud0EU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.3/file/croccifixio.blackboard-pro-1.1.3.vsix"
+            "url": "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.4/file/croccifixio.blackboard-pro-1.1.4.vsix"
         },
-        "version": "1.1.3"
+        "version": "1.1.4"
     },
     "crossjs-vscode-restman": {
         "cargoLocks": null,
@@ -37727,11 +37746,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8tCMvl3FIos6VuD/pUu63UKBWP5BAKV//3PyfeI9ANQ=",
+            "sha256": "sha256-4P7k+TtlEMUbBJs2Lg4r1bghNrL0WS9e0ODAMMjs6wU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.18/file/zardoy.vetur-extended-0.0.18.vsix"
+            "url": "https://open-vsx.org/api/zardoy/vetur-extended/0.0.19/file/zardoy.vetur-extended-0.0.19.vsix"
         },
-        "version": "0.0.18"
+        "version": "0.0.19"
     },
     "zardoy-vscode-terminal-code-runner": {
         "cargoLocks": null,

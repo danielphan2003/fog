@@ -4460,8 +4460,8 @@ fetch.url = "https://open-vsx.org/api/robole/marky-dynamic/0.3.0/file/robole.mar
 passthru = { publisher = "robole", name = "marky-dynamic", description = "Automate updating dynamic content e.g. Table of Contents.", license = "MIT" }
 
 [zardoy-vetur-extended]
-src.manual = "0.0.18" # zardoy.vetur-extended
-fetch.url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.18/file/zardoy.vetur-extended-0.0.18.vsix" # zardoy.vetur-extended
+src.manual = "0.0.19" # zardoy.vetur-extended
+fetch.url = "https://open-vsx.org/api/zardoy/vetur-extended/0.0.19/file/zardoy.vetur-extended-0.0.19.vsix" # zardoy.vetur-extended
 passthru = { publisher = "zardoy", name = "vetur-extended", description = "", license = "MIT" }
 
 [wildberries-theme-wildberries]
@@ -7410,8 +7410,8 @@ fetch.url = "https://open-vsx.org/api/tomi/xasnippets/2.13.1/file/tomi.xasnippet
 passthru = { publisher = "tomi", name = "xasnippets", description = "React-typescript code snippets for XAcademy.", license = "ISC" }
 
 [croccifixio-blackboard-pro]
-src.manual = "1.1.3" # croccifixio.blackboard-pro
-fetch.url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.3/file/croccifixio.blackboard-pro-1.1.3.vsix" # croccifixio.blackboard-pro
+src.manual = "1.1.4" # croccifixio.blackboard-pro
+fetch.url = "https://open-vsx.org/api/croccifixio/blackboard-pro/1.1.4/file/croccifixio.blackboard-pro-1.1.4.vsix" # croccifixio.blackboard-pro
 passthru = { publisher = "croccifixio", name = "blackboard-pro", description = "An extension of the default Blackboard theme including a themed workbench and more colorisation of snippets", license = "Unlicense" }
 
 [BroadcomMFD-data-editor-for-mainframe]
@@ -10145,4 +10145,10 @@ src.manual = "1.2.10" # CucumberOpen.cucumber-official
 fetch.url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.10/file/CucumberOpen.cucumber-official-1.2.10.vsix" # CucumberOpen.cucumber-official
 passthru = { publisher = "CucumberOpen", name = "cucumber-official", description = "Cucumber for Visual Studio Code", license = "MIT" }
 
+
+
+[br4ch1st0chr0n3-purs-hotkeys]
+src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
+fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
+passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
 
