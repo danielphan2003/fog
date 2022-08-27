@@ -20379,10 +20379,10 @@
   };
   tenninebt-vscode-koverage = {
     pname = "tenninebt-vscode-koverage";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tenninebt/vscode-koverage/0.0.6/file/tenninebt.vscode-koverage-0.0.6.vsix";
-      sha256 = "sha256-D8N/A8wpCy/G4M+YHSlXrNTFifVfnzI7/ZxVvTmiaAc=";
+      url = "https://open-vsx.org/api/tenninebt/vscode-koverage/0.0.7/file/tenninebt.vscode-koverage-0.0.7.vsix";
+      sha256 = "sha256-tn9yyUP63O+k79a+0cYenB1O5eKqycL9tMtzonMre/w=";
     };
     license = "Apache-2.0";
     name = "vscode-koverage";
