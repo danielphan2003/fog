@@ -6759,10 +6759,10 @@
   };
   caponetto-vscode-diff-viewer = {
     pname = "caponetto-vscode-diff-viewer";
-    version = "1.2.0";
+    version = "1.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/caponetto/vscode-diff-viewer/1.2.0/file/caponetto.vscode-diff-viewer-1.2.0.vsix";
-      sha256 = "sha256-TZvbDmgj5GyrXida0IiK5Z/mbtk4zNGirKoJVMl3TXk=";
+      url = "https://open-vsx.org/api/caponetto/vscode-diff-viewer/1.3.0/file/caponetto.vscode-diff-viewer-1.3.0.vsix";
+      sha256 = "sha256-TQthZoYZ2kgF+J+WZfH8hwbF6Ztl0u07oYLahrVcjvM=";
     };
     license = "MIT";
     name = "vscode-diff-viewer";
@@ -20163,10 +20163,10 @@
   };
   t-codespaces-ide-data-sync-node = {
     pname = "t-codespaces-ide-data-sync-node";
-    version = "0.0.2";
+    version = "0.1.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.2/file/t-codespaces.ide-data-sync-node-0.0.2.vsix";
-      sha256 = "sha256-+bgoDOlqFfJPCXFxypbeZVmNHVtCtqlo/rCZI1tWRdw=";
+      url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix";
+      sha256 = "sha256-cYxhqrdyDsEELoEofcEhn2coaOkHr1c+ZNlAlgHbPvU=";
     };
     license = "";
     name = "ide-data-sync-node";
