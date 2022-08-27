@@ -31951,11 +31951,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-cYxhqrdyDsEELoEofcEhn2coaOkHr1c+ZNlAlgHbPvU=",
+            "sha256": "sha256-+bgoDOlqFfJPCXFxypbeZVmNHVtCtqlo/rCZI1tWRdw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix"
+            "url": "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.2/file/t-codespaces.ide-data-sync-node-0.0.2.vsix"
         },
-        "version": "0.1.6"
+        "version": "0.0.2"
     },
     "t-codespaces-initx-common": {
         "cargoLocks": null,

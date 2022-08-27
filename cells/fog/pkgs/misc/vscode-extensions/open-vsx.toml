@@ -10063,8 +10063,8 @@ passthru = { publisher = "gera2ld", name = "ipfs-editor-vscode", description = "
 
 
 [t-codespaces-ide-data-sync-node]
-src.manual = "0.1.6" # t-codespaces.ide-data-sync-node
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix" # t-codespaces.ide-data-sync-node
+src.manual = "0.0.2" # t-codespaces.ide-data-sync-node
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.2/file/t-codespaces.ide-data-sync-node-0.0.2.vsix" # t-codespaces.ide-data-sync-node
 passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", description = "端云一体 vscode-remote node 端消费插件", license = "" }
 
 
@@ -10144,4 +10144,5 @@ passthru = { publisher = "karatelabs", name = "karate", description = "Test Auto
 src.manual = "1.2.10" # CucumberOpen.cucumber-official
 fetch.url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.10/file/CucumberOpen.cucumber-official-1.2.10.vsix" # CucumberOpen.cucumber-official
 passthru = { publisher = "CucumberOpen", name = "cucumber-official", description = "Cucumber for Visual Studio Code", license = "MIT" }
+
 
