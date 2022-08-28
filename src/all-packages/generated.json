@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "5da114477fdb1c806f5ad6f6fbb22903481f24c1",
-            "sha256": "sha256-OzKf29vnA+7UneyDuPw9lyjJhEWd9MWqcmPc32oya3o=",
+            "rev": "3c20ecb04d043013b559ec50fba4f816f05f0025",
+            "sha256": "sha256-88FEC20p5UwRAS5gDDyi+WHRQRyeELt3If3tRZ8vFak=",
             "type": "github"
         },
-        "version": "5da114477fdb1c806f5ad6f6fbb22903481f24c1"
+        "version": "3c20ecb04d043013b559ec50fba4f816f05f0025"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aIhWxk/TT7KbX9ESGKFyY7nZ6rmtvu1YaB0ZL9q3Fxg=",
+            "sha256": "sha256-xYFVwnqzUSTKx1glfBYeFfW/wRBNAv32o1AGC9jZOVg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.44.0/revanced-patches-2.44.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.45.1/revanced-patches-2.45.1.jar"
         },
-        "version": "2.44.0"
+        "version": "2.45.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
