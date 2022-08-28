@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "17d91f8a44293721d0d84bd4070002fe3b29edaf";
+    version = "4061c059ac5b9357fc360421ff010c7d13ed375d";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "17d91f8a44293721d0d84bd4070002fe3b29edaf";
+      rev = "4061c059ac5b9357fc360421ff010c7d13ed375d";
       fetchSubmodules = false;
-      sha256 = "sha256-bTN8kS+OCrVCAc8BOppy4lbIEehB3I+QCsbSKLgAE6k=";
+      sha256 = "sha256-Z7XzHvAhMW3tex/s0YOk3wCprnOopTDtBVms0xN35ic=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-17d91f8a44293721d0d84bd4070002fe3b29edaf/Cargo.lock;
+      lockFile = ./eww-4061c059ac5b9357fc360421ff010c7d13ed375d/Cargo.lock;
       outputHashes = {
         
       };
@@ -423,14 +423,14 @@
   };
   fluffychat = {
     pname = "fluffychat";
-    version = "8e04f4cc73d81f966e4e0fceac2d564fce8e7361";
+    version = "c40bdc3a6d63298a3bc063c08d8fa68dc8126fb1";
     src = fetchgit {
       url = "https://gitlab.com/famedly/fluffychat";
-      rev = "8e04f4cc73d81f966e4e0fceac2d564fce8e7361";
+      rev = "c40bdc3a6d63298a3bc063c08d8fa68dc8126fb1";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-5FWLuM7SQVQulclWKQX1nMABHZZm8MmAGbtzxrxfGWs=";
+      sha256 = "sha256-Zd1jUFH/8wk9bEzlUhDwe6KLJeRrcI2BL0i9qauzYmY=";
     };
   };
   flyingfox = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "cfa6c01df088b93d5ae6042e56740c437516fca5";
+    version = "f5f99c67007e5a7e48480e2f3551e200aea78842";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "cfa6c01df088b93d5ae6042e56740c437516fca5";
+      rev = "f5f99c67007e5a7e48480e2f3551e200aea78842";
       fetchSubmodules = false;
-      sha256 = "sha256-K3AFucmZhI3h5QXMDl7aRS+UaYgimMwpKBEedP6iodk=";
+      sha256 = "sha256-gBASJv6XRxMrtBpX//Xwf5dVyeV1kzwksj+qqLWtGlQ=";
     });
   };
   ibus = {
@@ -643,13 +643,13 @@
   };
   matrix-appservice-discord = {
     pname = "matrix-appservice-discord";
-    version = "7961ce0fa5d4534af2f963abecbc1cc65ed38a51";
+    version = "13e857dda642c45b4ee58c2767a52973c8788986";
     src = fetchFromGitHub ({
       owner = "matrix-org";
       repo = "matrix-appservice-discord";
-      rev = "7961ce0fa5d4534af2f963abecbc1cc65ed38a51";
+      rev = "13e857dda642c45b4ee58c2767a52973c8788986";
       fetchSubmodules = false;
-      sha256 = "sha256-tSH8UfjfubIQupSZ9T9SbbKnJcFfGDj4DLDkOpKtGMs=";
+      sha256 = "sha256-1t6vva9mIutLsmSvH6AKkpo5326Q+CJfjHWgnnNrQCA=";
     });
   };
   microsoft-edge-beta = {
