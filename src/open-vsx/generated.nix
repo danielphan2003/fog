@@ -6171,10 +6171,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.294";
+    version = "2.0.295";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.294/file/betterthantomorrow.calva-2.0.294.vsix";
-      sha256 = "sha256-ylKuJ2BpvyoiOjtkIiG1u3Q1rXQCcXI2ljg/BEmSaa0=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.295/file/betterthantomorrow.calva-2.0.295.vsix";
+      sha256 = "sha256-dMiuFUr57dyWfH2AOjUmZGmiS1Hc2O/AyFdcFgT1Uzc=";
     };
     license = "MIT";
     name = "calva";
@@ -10373,8 +10373,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
-      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -17355,10 +17355,10 @@
   };
   qcz-text-power-tools = {
     pname = "qcz-text-power-tools";
-    version = "1.36.0";
+    version = "1.36.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.0/file/qcz.text-power-tools-1.36.0.vsix";
-      sha256 = "sha256-FLIeX+ib65VIOIm3zzhfREiG0kiWjIgHQdX7ouWugfk=";
+      url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.1/file/qcz.text-power-tools-1.36.1.vsix";
+      sha256 = "sha256-OZhiM3b9nEJmOdq5coFV5IGNIr6hfE+EvJp76uqSoSs=";
     };
     license = "MIT";
     name = "text-power-tools";
@@ -19095,10 +19095,10 @@
   };
   shufo-vscode-blade-formatter = {
     pname = "shufo-vscode-blade-formatter";
-    version = "0.17.2";
+    version = "0.17.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.2/file/shufo.vscode-blade-formatter-0.17.2.vsix";
-      sha256 = "sha256-MkkPo1HDWs5kviVU5MDoTUTioNky/0INT1EKizewax4=";
+      url = "https://open-vsx.org/api/shufo/vscode-blade-formatter/0.17.3/file/shufo.vscode-blade-formatter-0.17.3.vsix";
+      sha256 = "sha256-hKObLTlQiyJihIrjX2hkKBAfrFqQ1u0epntgvSlEg1k=";
     };
     license = "MIT";
     name = "vscode-blade-formatter";
@@ -19167,10 +19167,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
