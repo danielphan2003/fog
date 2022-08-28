@@ -723,10 +723,10 @@
   };
   DCsunset-vscode-modal-editor = {
     pname = "DCsunset-vscode-modal-editor";
-    version = "1.5.1";
+    version = "1.5.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.1/file/DCsunset.vscode-modal-editor-1.5.1.vsix";
-      sha256 = "sha256-5VoZgpMZ9FZLm3mEjGYSjpv93std5tDbMMhCUaAd5Ko=";
+      url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.2/file/DCsunset.vscode-modal-editor-1.5.2.vsix";
+      sha256 = "sha256-kORhSXbGFq2HJbK6aZ6PBiUzgpNH/dBvoqs7Eoka9ag=";
     };
     license = "AGPL-3.0";
     name = "vscode-modal-editor";
@@ -903,10 +903,10 @@
   };
   DontShaveTheYak-groovy-guru = {
     pname = "DontShaveTheYak-groovy-guru";
-    version = "0.5.0";
+    version = "0.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.5.0/file/DontShaveTheYak.groovy-guru-0.5.0.vsix";
-      sha256 = "sha256-e6fkdiz+1velQbJFQxAwbHwTYvd92g5+vxx4NVbA0iM=";
+      url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.6.0/file/DontShaveTheYak.groovy-guru-0.6.0.vsix";
+      sha256 = "sha256-lArz2i4paRLHf9ubt9rHpODaZqs2rz5KbQ9BEs/3bQs=";
     };
     license = "Apache-2.0";
     name = "groovy-guru";
@@ -3363,10 +3363,10 @@
   };
   SPGoding-datapack-language-server = {
     pname = "SPGoding-datapack-language-server";
-    version = "3.3.37";
+    version = "3.3.38";
     src = fetchurl {
-      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.37/file/SPGoding.datapack-language-server-3.3.37.vsix";
-      sha256 = "sha256-G4KJkBiPyLOcbkewVM5P/LAfJegwWkeGj35uMlP+riA=";
+      url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.38/file/SPGoding.datapack-language-server-3.3.38.vsix";
+      sha256 = "sha256-DgixbqjzxWbzXjpyINNupW6ts7A5z08SYPYKHygkOlk=";
     };
     license = "MIT";
     name = "datapack-language-server";
@@ -24051,10 +24051,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";

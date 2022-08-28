@@ -1152,11 +1152,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5VoZgpMZ9FZLm3mEjGYSjpv93std5tDbMMhCUaAd5Ko=",
+            "sha256": "sha256-kORhSXbGFq2HJbK6aZ6PBiUzgpNH/dBvoqs7Eoka9ag=",
             "type": "url",
-            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.1/file/DCsunset.vscode-modal-editor-1.5.1.vsix"
+            "url": "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.2/file/DCsunset.vscode-modal-editor-1.5.2.vsix"
         },
-        "version": "1.5.1"
+        "version": "1.5.2"
     },
     "Daimler-sechub": {
         "cargoLocks": null,
@@ -1437,11 +1437,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e6fkdiz+1velQbJFQxAwbHwTYvd92g5+vxx4NVbA0iM=",
+            "sha256": "sha256-lArz2i4paRLHf9ubt9rHpODaZqs2rz5KbQ9BEs/3bQs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.5.0/file/DontShaveTheYak.groovy-guru-0.5.0.vsix"
+            "url": "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.6.0/file/DontShaveTheYak.groovy-guru-0.6.0.vsix"
         },
-        "version": "0.5.0"
+        "version": "0.6.0"
     },
     "DotJoshJohnson-xml": {
         "cargoLocks": null,
@@ -5332,11 +5332,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-G4KJkBiPyLOcbkewVM5P/LAfJegwWkeGj35uMlP+riA=",
+            "sha256": "sha256-DgixbqjzxWbzXjpyINNupW6ts7A5z08SYPYKHygkOlk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.37/file/SPGoding.datapack-language-server-3.3.37.vsix"
+            "url": "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.38/file/SPGoding.datapack-language-server-3.3.38.vsix"
         },
-        "version": "3.3.37"
+        "version": "3.3.38"
     },
     "STNE-stnescript-support": {
         "cargoLocks": null,
@@ -38088,11 +38088,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

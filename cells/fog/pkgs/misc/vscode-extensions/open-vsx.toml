@@ -7190,8 +7190,8 @@ fetch.url = "https://open-vsx.org/api/gitduck/code-streaming/0.4.11/file/gitduck
 passthru = { publisher = "gitduck", name = "code-streaming", description = "Video chat with real-time collaborative code sharing for remote teams. Code together with IntelliJ, WebStorm, PyCharm, PhpStorm and other IDEs.", license = "Custom" }
 
 [DontShaveTheYak-groovy-guru]
-src.manual = "0.5.0" # DontShaveTheYak.groovy-guru
-fetch.url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.5.0/file/DontShaveTheYak.groovy-guru-0.5.0.vsix" # DontShaveTheYak.groovy-guru
+src.manual = "0.6.0" # DontShaveTheYak.groovy-guru
+fetch.url = "https://open-vsx.org/api/DontShaveTheYak/groovy-guru/0.6.0/file/DontShaveTheYak.groovy-guru-0.6.0.vsix" # DontShaveTheYak.groovy-guru
 passthru = { publisher = "DontShaveTheYak", name = "groovy-guru", description = "Groovy Intellisense for Visual Studio Code", license = "Apache-2.0" }
 
 [KDJFS-three-snippets]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.4" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
+src.manual = "0.11.5" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -8285,8 +8285,8 @@ fetch.url = "https://open-vsx.org/api/shivaprasanth/dotbook/0.0.1/file/shivapras
 passthru = { publisher = "shivaprasanth", name = "dotbook", description = "Ace editor view for dothttp notebook output renderer", license = "Apache-2.0" }
 
 [SPGoding-datapack-language-server]
-src.manual = "3.3.37" # SPGoding.datapack-language-server
-fetch.url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.37/file/SPGoding.datapack-language-server-3.3.37.vsix" # SPGoding.datapack-language-server
+src.manual = "3.3.38" # SPGoding.datapack-language-server
+fetch.url = "https://open-vsx.org/api/SPGoding/datapack-language-server/3.3.38/file/SPGoding.datapack-language-server-3.3.38.vsix" # SPGoding.datapack-language-server
 passthru = { publisher = "SPGoding", name = "datapack-language-server", description = "Heavy language features for Minecraft: Java Edition data pack files", license = "MIT" }
 
 [redhat-apache-camel-extension-pack]
@@ -8790,8 +8790,8 @@ fetch.url = "https://open-vsx.org/api/codezombiech/gitignore/0.9.0/file/codezomb
 passthru = { publisher = "codezombiech", name = "gitignore", description = "Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files.", license = "MIT" }
 
 [DCsunset-vscode-modal-editor]
-src.manual = "1.5.1" # DCsunset.vscode-modal-editor
-fetch.url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.1/file/DCsunset.vscode-modal-editor-1.5.1.vsix" # DCsunset.vscode-modal-editor
+src.manual = "1.5.2" # DCsunset.vscode-modal-editor
+fetch.url = "https://open-vsx.org/api/DCsunset/vscode-modal-editor/1.5.2/file/DCsunset.vscode-modal-editor-1.5.2.vsix" # DCsunset.vscode-modal-editor
 passthru = { publisher = "DCsunset", name = "vscode-modal-editor", description = "Customizable extension to turn VS Code into a modal editor", license = "AGPL-3.0" }
 
 [toit-toit]
@@ -10151,6 +10151,7 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
+
 
 
 
