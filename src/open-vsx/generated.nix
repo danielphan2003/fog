@@ -4203,10 +4203,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.14.0";
+    version = "9.14.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.0/file/YXL.cloudmusic-9.14.0.vsix";
-      sha256 = "sha256-utZCS1Icaz9246P9GHKt92mQ4xqd93W8EZixrYBGWsE=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.1/file/YXL.cloudmusic-9.14.1.vsix";
+      sha256 = "sha256-pKhmVc6w3OtgMTpNdiTnT81okFukHkQqST79clGmLGE=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -24051,10 +24051,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.5";
+    version = "0.11.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
-      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
+      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
+      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
     };
     license = "MIT";
     name = "vue-language-features";
