@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9765,8 +9765,8 @@ fetch.url = "https://open-vsx.org/api/Pivotal/vscode-spring-boot/1.38.0/file/Piv
 passthru = { publisher = "Pivotal", name = "vscode-spring-boot", description = "Provides validation and content assist for Spring Boot `application.properties`, `application.yml` properties files. As well as Boot-specific support for `.java` files.", license = "EPL-1.0" }
 
 [YXL-cloudmusic]
-src.manual = "9.13.3" # YXL.cloudmusic
-fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.13.3/file/YXL.cloudmusic-9.13.3.vsix" # YXL.cloudmusic
+src.manual = "9.14.0" # YXL.cloudmusic
+fetch.url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.0/file/YXL.cloudmusic-9.14.0.vsix" # YXL.cloudmusic
 passthru = { publisher = "YXL", name = "cloudmusic", description = "Netease Music for VS Code", license = "MIT" }
 
 [_42Crunch-vscode-openapi]
@@ -10151,6 +10151,7 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
+
 
 
 
