@@ -5579,11 +5579,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-/3+MXqSJnBVSw1+pQD+On+ijte/zMECAWLjbCO77LSs=",
+            "sha256": "sha256-B2riexcyaCLXJhYJfRY9UID4U0dzNlhQGqHhkdunMFM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2616/file/Slint.slint-nightly-2022.8.2616.vsix"
+            "url": "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2715/file/Slint.slint-nightly-2022.8.2715.vsix"
         },
-        "version": "2022.8.2616"
+        "version": "2022.8.2715"
     },
     "SlySherZ-comment-box": {
         "cargoLocks": null,
@@ -12210,11 +12210,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-BAG2u8tKTthkY08iVB1mUFbdB4wv1YiybZWN7suwf4c=",
+            "sha256": "sha256-SYAbtvQeoUyRvuBIq3lz2dvpnFSj+j3R3TSJtPRi+9g=",
             "type": "url",
-            "url": "https://open-vsx.org/api/cweijan/vscode-office/2.5.8/file/cweijan.vscode-office-2.5.8.vsix"
+            "url": "https://open-vsx.org/api/cweijan/vscode-office/2.6.8/file/cweijan.vscode-office-2.6.8.vsix"
         },
-        "version": "2.5.8"
+        "version": "2.6.8"
     },
     "cweijan-vscode-postgresql-client2": {
         "cargoLocks": null,
@@ -16428,9 +16428,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
+            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -20304,11 +20304,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
+            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
         },
-        "version": "22.6.0"
+        "version": "20.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20779,11 +20779,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -30355,11 +30355,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
+            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
         },
-        "version": "0.7.0"
+        "version": "0.6.1"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
