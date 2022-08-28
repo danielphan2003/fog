@@ -7525,8 +7525,8 @@ fetch.url = "https://open-vsx.org/api/zjffun/snippetsmanager/0.1.5/file/zjffun.s
 passthru = { publisher = "zjffun", name = "snippetsmanager", description = "Create and edit snippets easily.", license = "MIT" }
 
 [tuttieee-emacs-mcx]
-src.manual = "0.44.0" # tuttieee.emacs-mcx
-fetch.url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.0/file/tuttieee.emacs-mcx-0.44.0.vsix" # tuttieee.emacs-mcx
+src.manual = "0.44.1" # tuttieee.emacs-mcx
+fetch.url = "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.1/file/tuttieee.emacs-mcx-0.44.1.vsix" # tuttieee.emacs-mcx
 passthru = { publisher = "tuttieee", name = "emacs-mcx", description = "Emacs Friendly Keymap with multi cursor support, improved mark-mode experience, clipboard and kill-ring integration, and lots of improvements and bug fixes.", license = "MIT" }
 
 [carlocardella-vscode-filesystemtoolbox]
@@ -10151,5 +10151,6 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
+
 
 

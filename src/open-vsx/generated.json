@@ -33281,11 +33281,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+oVFJFnyhTExAuCKf84CifPygyuu+HOFX5FMGD76Sk0=",
+            "sha256": "sha256-qSu5wmX1uIPvZSVb4URylDHBQo6mHwEuHrFMMn+uD1w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.0/file/tuttieee.emacs-mcx-0.44.0.vsix"
+            "url": "https://open-vsx.org/api/tuttieee/emacs-mcx/0.44.1/file/tuttieee.emacs-mcx-0.44.1.vsix"
         },
-        "version": "0.44.0"
+        "version": "0.44.1"
     },
     "tuxtina-json2yaml": {
         "cargoLocks": null,
