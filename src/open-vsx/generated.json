@@ -4914,11 +4914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-o7X8KsUmuYrAvRSDmkjgAPACD1J2UxqrIctUAvnmxxI=",
+            "sha256": "sha256-K+XFDHOLo44FP3q6cu8xEOn+emg/Mk5BuSyaK129ggE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1361/file/Prisma.prisma-insider-31.0.1361.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1362/file/Prisma.prisma-insider-31.0.1362.vsix"
         },
-        "version": "31.0.1361"
+        "version": "31.0.1362"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -6662,11 +6662,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-pKhmVc6w3OtgMTpNdiTnT81okFukHkQqST79clGmLGE=",
+            "sha256": "sha256-sK+FGpM5PQUu3cYMzcYTFGcDWGHRRvQTbhXIY431ek8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.14.1/file/YXL.cloudmusic-9.14.1.vsix"
+            "url": "https://open-vsx.org/api/YXL/cloudmusic/9.14.2/file/YXL.cloudmusic-9.14.2.vsix"
         },
-        "version": "9.14.1"
+        "version": "9.14.2"
     },
     "YoussefBouzekri-spaceduck": {
         "cargoLocks": null,
@@ -9778,11 +9778,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dMiuFUr57dyWfH2AOjUmZGmiS1Hc2O/AyFdcFgT1Uzc=",
+            "sha256": "sha256-/NSUq9rG09FZTkElCOarVlJaX9cuJujlG+iXO5VzfDA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.295/file/betterthantomorrow.calva-2.0.295.vsix"
+            "url": "https://open-vsx.org/api/betterthantomorrow/calva/2.0.296/file/betterthantomorrow.calva-2.0.296.vsix"
         },
-        "version": "2.0.295"
+        "version": "2.0.296"
     },
     "betterthantomorrow-joyride": {
         "cargoLocks": null,
@@ -14661,11 +14661,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-PR04x0iXxJR50Vl0mSFjZVhsOz5C9nzAnS0JA/Y7zT4=",
+            "sha256": "sha256-MjBQG3A6U9ETOIc/1RzFSMh5tqk9yQkRON+owzh0vDY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.46/file/everscale.solidity-support-1.3.46.vsix"
+            "url": "https://open-vsx.org/api/everscale/solidity-support/1.3.51/file/everscale.solidity-support-1.3.51.vsix"
         },
-        "version": "1.3.46"
+        "version": "1.3.51"
     },
     "evgeniypeshkov-syntax-highlighter": {
         "cargoLocks": null,
@@ -30355,11 +30355,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
@@ -33034,11 +33034,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rVG/RreLlatXxeYOxuas2mG9nBXAv+zClM61TbSu9q8=",
+            "sha256": "sha256-H5CtrCCdla1CDpR+MHFzQYgrqtPK9wpHCet3da4sQ8Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tonwhales/func-vscode/1.0.0/file/tonwhales.func-vscode-1.0.0.vsix"
+            "url": "https://open-vsx.org/api/tonwhales/func-vscode/1.0.1/file/tonwhales.func-vscode-1.0.1.vsix"
         },
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     "tonybaloney-vscode-pets": {
         "cargoLocks": null,
@@ -34535,11 +34535,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-jH7lndA+BbrJGkRioHuNpkJgxy9Cd/sy28Y31m88/U0=",
+            "sha256": "sha256-LotR6aKSBE39cUVXVAbKWUsNAXoV93a6ZUyaKjsMe4A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.0/file/vscjava.vscode-java-pack-0.25.0.vsix"
+            "url": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.1/file/vscjava.vscode-java-pack-0.25.1.vsix"
         },
-        "version": "0.25.0"
+        "version": "0.25.1"
     },
     "vscjava-vscode-java-test": {
         "cargoLocks": null,
@@ -38088,11 +38088,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=",
+            "sha256": "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix"
+            "url": "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix"
         },
-        "version": "0.11.4"
+        "version": "0.11.5"
     },
     "zobo-php-intellisense": {
         "cargoLocks": null,

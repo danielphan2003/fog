@@ -3099,10 +3099,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1361";
+    version = "31.0.1362";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1361/file/Prisma.prisma-insider-31.0.1361.vsix";
-      sha256 = "sha256-o7X8KsUmuYrAvRSDmkjgAPACD1J2UxqrIctUAvnmxxI=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1362/file/Prisma.prisma-insider-31.0.1362.vsix";
+      sha256 = "sha256-K+XFDHOLo44FP3q6cu8xEOn+emg/Mk5BuSyaK129ggE=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -4203,10 +4203,10 @@
   };
   YXL-cloudmusic = {
     pname = "YXL-cloudmusic";
-    version = "9.14.1";
+    version = "9.14.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.1/file/YXL.cloudmusic-9.14.1.vsix";
-      sha256 = "sha256-pKhmVc6w3OtgMTpNdiTnT81okFukHkQqST79clGmLGE=";
+      url = "https://open-vsx.org/api/YXL/cloudmusic/9.14.2/file/YXL.cloudmusic-9.14.2.vsix";
+      sha256 = "sha256-sK+FGpM5PQUu3cYMzcYTFGcDWGHRRvQTbhXIY431ek8=";
     };
     license = "MIT";
     name = "cloudmusic";
@@ -6171,10 +6171,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.295";
+    version = "2.0.296";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.295/file/betterthantomorrow.calva-2.0.295.vsix";
-      sha256 = "sha256-dMiuFUr57dyWfH2AOjUmZGmiS1Hc2O/AyFdcFgT1Uzc=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.296/file/betterthantomorrow.calva-2.0.296.vsix";
+      sha256 = "sha256-/NSUq9rG09FZTkElCOarVlJaX9cuJujlG+iXO5VzfDA=";
     };
     license = "MIT";
     name = "calva";
@@ -9255,10 +9255,10 @@
   };
   everscale-solidity-support = {
     pname = "everscale-solidity-support";
-    version = "1.3.46";
+    version = "1.3.51";
     src = fetchurl {
-      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.46/file/everscale.solidity-support-1.3.46.vsix";
-      sha256 = "sha256-PR04x0iXxJR50Vl0mSFjZVhsOz5C9nzAnS0JA/Y7zT4=";
+      url = "https://open-vsx.org/api/everscale/solidity-support/1.3.51/file/everscale.solidity-support-1.3.51.vsix";
+      sha256 = "sha256-MjBQG3A6U9ETOIc/1RzFSMh5tqk9yQkRON+owzh0vDY=";
     };
     license = "Apache-2.0";
     name = "solidity-support";
@@ -19167,10 +19167,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -20859,10 +20859,10 @@
   };
   tonwhales-func-vscode = {
     pname = "tonwhales-func-vscode";
-    version = "1.0.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tonwhales/func-vscode/1.0.0/file/tonwhales.func-vscode-1.0.0.vsix";
-      sha256 = "sha256-rVG/RreLlatXxeYOxuas2mG9nBXAv+zClM61TbSu9q8=";
+      url = "https://open-vsx.org/api/tonwhales/func-vscode/1.0.1/file/tonwhales.func-vscode-1.0.1.vsix";
+      sha256 = "sha256-H5CtrCCdla1CDpR+MHFzQYgrqtPK9wpHCet3da4sQ8Q=";
     };
     license = "GPL-3.0";
     name = "func-vscode";
@@ -21807,10 +21807,10 @@
   };
   vscjava-vscode-java-pack = {
     pname = "vscjava-vscode-java-pack";
-    version = "0.25.0";
+    version = "0.25.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.0/file/vscjava.vscode-java-pack-0.25.0.vsix";
-      sha256 = "sha256-jH7lndA+BbrJGkRioHuNpkJgxy9Cd/sy28Y31m88/U0=";
+      url = "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.1/file/vscjava.vscode-java-pack-0.25.1.vsix";
+      sha256 = "sha256-LotR6aKSBE39cUVXVAbKWUsNAXoV93a6ZUyaKjsMe4A=";
     };
     license = "MIT";
     name = "vscode-java-pack";
@@ -24051,10 +24051,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
