@@ -158,9 +158,9 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-1f85e30e42c3829ec590c92a18cf44e358755e10/Cargo.lock",
+                "./asusctl-e38ab624e98d9e08f683f73bf27112464da043bd/Cargo.lock",
                 {
-                    "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
+                    "eframe-0.19.0": "sha256-+5J4JmoVNir8GMb3Gz4xap9uvMQlvIJKJNsvxEQnRUk="
                 }
             ]
         },
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "1f85e30e42c3829ec590c92a18cf44e358755e10",
-            "sha256": "sha256-OBaPEH+RYcuvTgIdEzf2G9stVUUmRaAVxBJM63AkZH8=",
+            "rev": "e38ab624e98d9e08f683f73bf27112464da043bd",
+            "sha256": "sha256-a4INmbu+g93bhjfoIfmtiCzfMWvD+si/olH2dctJjiI=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "1f85e30e42c3829ec590c92a18cf44e358755e10"
+        "version": "e38ab624e98d9e08f683f73bf27112464da043bd"
     },
     "avizo": {
         "cargoLocks": null,
@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-4061c059ac5b9357fc360421ff010c7d13ed375d/Cargo.lock",
+                "./eww-e09c7364a516e2930bbf1cfea84538b0cf12315b/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "4061c059ac5b9357fc360421ff010c7d13ed375d",
-            "sha256": "sha256-Z7XzHvAhMW3tex/s0YOk3wCprnOopTDtBVms0xN35ic=",
+            "rev": "e09c7364a516e2930bbf1cfea84538b0cf12315b",
+            "sha256": "sha256-ytZDDyhsVKyo23PHmk2ppRGrWDCzE2ISwty+ashtEQ0=",
             "type": "github"
         },
-        "version": "4061c059ac5b9357fc360421ff010c7d13ed375d"
+        "version": "e09c7364a516e2930bbf1cfea84538b0cf12315b"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
