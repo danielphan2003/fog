@@ -158,7 +158,7 @@
     "asusctl": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./asusctl-d1bdf4dc7eae165670ecab81abf0587a0e0793fc/Cargo.lock",
+                "./asusctl-1f85e30e42c3829ec590c92a18cf44e358755e10/Cargo.lock",
                 {
                     "eframe-0.18.0": "sha256-srcJKc7qD8uvSkzTndqIomkFJZAaXlzbmSuNTa3g06E="
                 }
@@ -173,12 +173,12 @@
             "fetchSubmodules": false,
             "leaveDotGit": false,
             "name": null,
-            "rev": "d1bdf4dc7eae165670ecab81abf0587a0e0793fc",
-            "sha256": "sha256-XeynlBRJ3gmkLZtToe7Ga+XdQt3lIy2nWbzoeo/JVwI=",
+            "rev": "1f85e30e42c3829ec590c92a18cf44e358755e10",
+            "sha256": "sha256-OBaPEH+RYcuvTgIdEzf2G9stVUUmRaAVxBJM63AkZH8=",
             "type": "git",
             "url": "https://gitlab.com/asus-linux/asusctl"
         },
-        "version": "d1bdf4dc7eae165670ecab81abf0587a0e0793fc"
+        "version": "1f85e30e42c3829ec590c92a18cf44e358755e10"
     },
     "avizo": {
         "cargoLocks": null,
