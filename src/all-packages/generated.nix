@@ -373,16 +373,16 @@
   };
   eww = {
     pname = "eww";
-    version = "abb7315215558e7101d00b99934cd6fa993c0ac3";
+    version = "3c57ca59bf53f10db0716448fccc98af3c92de65";
     src = fetchFromGitHub ({
       owner = "elkowar";
       repo = "eww";
-      rev = "abb7315215558e7101d00b99934cd6fa993c0ac3";
+      rev = "3c57ca59bf53f10db0716448fccc98af3c92de65";
       fetchSubmodules = false;
-      sha256 = "sha256-CXyrctX1k1pHogLhDejBKfZIkDyUrhkkmFhr+hprBaQ=";
+      sha256 = "sha256-yR5KBKQyLeu9wOaSbrAvZ/tPR8TWBJXLay77TN8+TwQ=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./eww-abb7315215558e7101d00b99934cd6fa993c0ac3/Cargo.lock;
+      lockFile = ./eww-3c57ca59bf53f10db0716448fccc98af3c92de65/Cargo.lock;
       outputHashes = {
         
       };
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6504";
+    version = "1.0.6505";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6504.tar.bz2";
-      sha256 = "sha256-9W5Ono4teByA+D1T6HzhDkLVHRvIMNHz7p/jiQM5jrk=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6505.tar.bz2";
+      sha256 = "sha256-MWlqPcgUFcMnnM0f7y/W51NWy1mQnfjbEnVvXHNg474=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6504";
+    version = "1.0.6505";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6504-1_all.deb";
-      sha256 = "sha256-YRiJmOj8b1OKi0RFgvLbPWEHIqtMPN/6CgOToFZUmAM=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6505-1_all.deb";
+      sha256 = "sha256-DwK5qNq/tnwTCmVG01i087qHQlCZVUIrsdN4SdiNSYk=";
     };
   };
   jitsi-videobridge2 = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "22a12c98613a2bec5a03791bd146390f435d6aed";
+    version = "200897f61e88f8f2fc6e0f5f9215f9a33efed970";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "22a12c98613a2bec5a03791bd146390f435d6aed";
+      rev = "200897f61e88f8f2fc6e0f5f9215f9a33efed970";
       fetchSubmodules = false;
-      sha256 = "sha256-HnG+XwMwcgMbrMc1YVLhn+Y/FV39u9DymwoGpGBsAHs=";
+      sha256 = "sha256-AzO1xo0gHy4MHeK9wQXut0zNbt1iQpi4K8z/QNOh9Gg=";
     });
   };
   revanced-cli = {

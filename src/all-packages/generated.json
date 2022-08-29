@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-abb7315215558e7101d00b99934cd6fa993c0ac3/Cargo.lock",
+                "./eww-3c57ca59bf53f10db0716448fccc98af3c92de65/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "abb7315215558e7101d00b99934cd6fa993c0ac3",
-            "sha256": "sha256-CXyrctX1k1pHogLhDejBKfZIkDyUrhkkmFhr+hprBaQ=",
+            "rev": "3c57ca59bf53f10db0716448fccc98af3c92de65",
+            "sha256": "sha256-yR5KBKQyLeu9wOaSbrAvZ/tPR8TWBJXLay77TN8+TwQ=",
             "type": "github"
         },
-        "version": "abb7315215558e7101d00b99934cd6fa993c0ac3"
+        "version": "3c57ca59bf53f10db0716448fccc98af3c92de65"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9W5Ono4teByA+D1T6HzhDkLVHRvIMNHz7p/jiQM5jrk=",
+            "sha256": "sha256-MWlqPcgUFcMnnM0f7y/W51NWy1mQnfjbEnVvXHNg474=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6504.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6505.tar.bz2"
         },
-        "version": "1.0.6504"
+        "version": "1.0.6505"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-YRiJmOj8b1OKi0RFgvLbPWEHIqtMPN/6CgOToFZUmAM=",
+            "sha256": "sha256-DwK5qNq/tnwTCmVG01i087qHQlCZVUIrsdN4SdiNSYk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6504-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6505-1_all.deb"
         },
-        "version": "1.0.6504"
+        "version": "1.0.6505"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "22a12c98613a2bec5a03791bd146390f435d6aed",
-            "sha256": "sha256-HnG+XwMwcgMbrMc1YVLhn+Y/FV39u9DymwoGpGBsAHs=",
+            "rev": "200897f61e88f8f2fc6e0f5f9215f9a33efed970",
+            "sha256": "sha256-AzO1xo0gHy4MHeK9wQXut0zNbt1iQpi4K8z/QNOh9Gg=",
             "type": "github"
         },
-        "version": "22a12c98613a2bec5a03791bd146390f435d6aed"
+        "version": "200897f61e88f8f2fc6e0f5f9215f9a33efed970"
     },
     "revanced-cli": {
         "cargoLocks": null,
