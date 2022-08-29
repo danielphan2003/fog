@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "54c14b3b78a70f3351ce355611bd74630e0f386c";
+    version = "6642b55a7145d9d6cb26a44a9c5ae664f21d99f4";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "54c14b3b78a70f3351ce355611bd74630e0f386c";
+      rev = "6642b55a7145d9d6cb26a44a9c5ae664f21d99f4";
       fetchSubmodules = false;
-      sha256 = "sha256-vDS3KH8vLrkQ4swpcMjsH/nNHQTjGTIAwxJP1od/p4c=";
+      sha256 = "sha256-sLYvAOmQkBBo/HBtXAU6jxDyJOPd/5vmxFhKqjTw+cs=";
     });
   };
   caddy = {
@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "6865660e51a3e26ac4dc8a308b8e43781e30a841";
+    version = "bdd20c401d5269b6d665c5c3f0de1ab333d07d07";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "6865660e51a3e26ac4dc8a308b8e43781e30a841";
+      rev = "bdd20c401d5269b6d665c5c3f0de1ab333d07d07";
       fetchSubmodules = false;
-      sha256 = "sha256-jw2YJxcXbzSGRNszwXilsxIheGKYX/vCbhk2/9jykI0=";
+      sha256 = "sha256-XZLz4ps7SEy6e2Y0wlLfxBUOuFz/5j0gEr5fzQvAy1Y=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6508";
+    version = "1.0.6509";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6508.tar.bz2";
-      sha256 = "sha256-pRs1LK3Ou6jUMe2cZ12ZZNH/IRgyHzGHYF/xciSugrE=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6509.tar.bz2";
+      sha256 = "sha256-VJ5wcFfASIkPAtKuJVD3AtVfhHVHOD3q/p6lgAIVZA8=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6508";
+    version = "1.0.6509";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6508-1_all.deb";
-      sha256 = "sha256-xSyTOpZfB2F+CqLCwFbKHrkvo/qoU+9T50UgHWpA/aI=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6509-1_all.deb";
+      sha256 = "sha256-reuNBoDe1uzFbBslxSQjnauLTfhVeMKg0kAyBPIKn4w=";
     };
   };
   jitsi-videobridge2 = {
@@ -654,10 +654,10 @@
   };
   microsoft-edge-beta = {
     pname = "microsoft-edge-beta";
-    version = "105.0.1343.10";
+    version = "105.0.1343.17";
     src = fetchurl {
-      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.10-1_amd64.deb";
-      sha256 = "sha256-Li7sNA/yNWnLTgFQVsvp6tsZ0lR+1Z45NEfkqsx7Qwc=";
+      url = "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-beta/microsoft-edge-beta_105.0.1343.17-1_amd64.deb";
+      sha256 = "sha256-4uMPzMVpVI8WhNiWFhnlbvDJNJ4qQg6MZxl0q5+dGak=";
     };
   };
   microsoft-edge-dev = {
@@ -1203,16 +1203,16 @@
   };
   swhkd = {
     pname = "swhkd";
-    version = "d25721020d494701236c99869f4abb85346caba3";
+    version = "d21e613d83a6049f3856a50d5f8eff8bcc29e91f";
     src = fetchFromGitHub ({
       owner = "waycrate";
       repo = "swhkd";
-      rev = "d25721020d494701236c99869f4abb85346caba3";
+      rev = "d21e613d83a6049f3856a50d5f8eff8bcc29e91f";
       fetchSubmodules = false;
-      sha256 = "sha256-IquKXZXT0hUoEwDf7cC6J3IgzzeptPAKgJFznzlP0vU=";
+      sha256 = "sha256-zfDtwa6+eDGY90EBKk+oqSyHwp4G98DAqKLMS7IPpB4=";
     });
     cargoLock."Cargo.lock" = {
-      lockFile = ./swhkd-d25721020d494701236c99869f4abb85346caba3/Cargo.lock;
+      lockFile = ./swhkd-d21e613d83a6049f3856a50d5f8eff8bcc29e91f/Cargo.lock;
       outputHashes = {
         
       };
