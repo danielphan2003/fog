@@ -2115,10 +2115,10 @@
   };
   LuqueDaniel-languague-renpy = {
     pname = "LuqueDaniel-languague-renpy";
-    version = "2.0.12";
+    version = "2.0.13";
     src = fetchurl {
-      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.12/file/LuqueDaniel.languague-renpy-2.0.12.vsix";
-      sha256 = "sha256-aWbTpKMvJwo4UZVRA7bcp40gEQeI6a23eyCeR1O0mG4=";
+      url = "https://open-vsx.org/api/LuqueDaniel/languague-renpy/2.0.13/file/LuqueDaniel.languague-renpy-2.0.13.vsix";
+      sha256 = "sha256-5z74/RAsvIKGjI6ZTzsRhxe+AsKgfpREiFolR5vVGLg=";
     };
     license = "MIT";
     name = "languague-renpy";
@@ -3099,10 +3099,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1359";
+    version = "31.0.1360";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1359/file/Prisma.prisma-insider-31.0.1359.vsix";
-      sha256 = "sha256-sF8haD8RePkbY+1wqIAUj5UAHRlPf0tQykUxglNRbJU=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1360/file/Prisma.prisma-insider-31.0.1360.vsix";
+      sha256 = "sha256-lm6x/i+IWB3RsL0GiMoMGoHs9QlgXF6kVPdZ3Mnt+bA=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -14523,10 +14523,10 @@
   };
   moocfi-test-my-code = {
     pname = "moocfi-test-my-code";
-    version = "2.1.4";
+    version = "2.1.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.4/file/moocfi.test-my-code-2.1.4.vsix";
-      sha256 = "sha256-nxookZHFZBVfJewK6Tse2IpOL3vohCJmEyevP3558wQ=";
+      url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.5/file/moocfi.test-my-code-2.1.5.vsix";
+      sha256 = "sha256-UNHloab3AEbUZ6XTfL7TlwJbeT+PcjEOFiZOLaRoGrc=";
     };
     license = "MIT";
     name = "test-my-code";
@@ -19167,10 +19167,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
