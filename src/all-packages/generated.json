@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-3c57ca59bf53f10db0716448fccc98af3c92de65/Cargo.lock",
+                "./eww-e1d9e5cfffc22525a1c1aee5ee5d94d63dc361ce/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "3c57ca59bf53f10db0716448fccc98af3c92de65",
-            "sha256": "sha256-yR5KBKQyLeu9wOaSbrAvZ/tPR8TWBJXLay77TN8+TwQ=",
+            "rev": "e1d9e5cfffc22525a1c1aee5ee5d94d63dc361ce",
+            "sha256": "sha256-9eC16gm7ANYPrvqBSRXZBLzxScOIoDEFX/8B9blXsDI=",
             "type": "github"
         },
-        "version": "3c57ca59bf53f10db0716448fccc98af3c92de65"
+        "version": "e1d9e5cfffc22525a1c1aee5ee5d94d63dc361ce"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-MWlqPcgUFcMnnM0f7y/W51NWy1mQnfjbEnVvXHNg474=",
+            "sha256": "sha256-u/st0V63nYRxHsBelC7Ezz2O0hroEldC1XNpduF5Wcg=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6505.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6506.tar.bz2"
         },
-        "version": "1.0.6505"
+        "version": "1.0.6506"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DwK5qNq/tnwTCmVG01i087qHQlCZVUIrsdN4SdiNSYk=",
+            "sha256": "sha256-fNVsVrnGRCG0zEyB20X7Spt6B/07UpZP183cq8oK+v0=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6505-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6506-1_all.deb"
         },
-        "version": "1.0.6505"
+        "version": "1.0.6506"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "200897f61e88f8f2fc6e0f5f9215f9a33efed970",
-            "sha256": "sha256-AzO1xo0gHy4MHeK9wQXut0zNbt1iQpi4K8z/QNOh9Gg=",
+            "rev": "08154e265623ef8261d1e013cd59f4eb66ce5d2a",
+            "sha256": "sha256-PloYbeMUyOnYlyELtJHeUOWHz+vJZW1KoxAh0Wmt4TE=",
             "type": "github"
         },
-        "version": "200897f61e88f8f2fc6e0f5f9215f9a33efed970"
+        "version": "08154e265623ef8261d1e013cd59f4eb66ce5d2a"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1619,7 +1619,7 @@
     "rustdesk": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./rustdesk-560c03e99c67f4e128ea04302ee77fdb8ad04aa4/Cargo.lock",
+                "./rustdesk-8858d0342d525b2cb6758fb802070fdfad1ad53b/Cargo.lock",
                 {
                     "confy-0.4.0": "sha256-e91cvEixhpPzIthAxzTa3fDY6eCsHUy/eZQAqs7QTDo=",
                     "evdev-0.11.5": "sha256-aoPmjGi/PftnH6ClEWXHvIj0X3oh15ZC1q7wPC1XPr0=",
@@ -1647,11 +1647,11 @@
             "name": null,
             "owner": "rustdesk",
             "repo": "rustdesk",
-            "rev": "560c03e99c67f4e128ea04302ee77fdb8ad04aa4",
-            "sha256": "sha256-HUcabkCtAh3sr4Wt4aPpQOp3IAVehP2VFlLC26vI/9s=",
+            "rev": "8858d0342d525b2cb6758fb802070fdfad1ad53b",
+            "sha256": "sha256-cuEmSQf0wn2h0MkiRSr5kNrK6suRCyaoQtd/93LWUno=",
             "type": "github"
         },
-        "version": "560c03e99c67f4e128ea04302ee77fdb8ad04aa4"
+        "version": "8858d0342d525b2cb6758fb802070fdfad1ad53b"
     },
     "rustdesk-server": {
         "cargoLocks": {
@@ -2360,10 +2360,10 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-RZ23qt35fbeDrs63eldjPo3wBADJvQn8zC5stvtJ2/Y=",
+            "sha256": "sha256-Pi1MtuCHzkQACamsNOIS6pbM03L1CmyosbpdrYVNCkQ=",
             "type": "url",
-            "url": "https://cdn.zoom.us/prod/5.11.9.4300/zoom_x86_64.pkg.tar.xz"
+            "url": "https://cdn.zoom.us/prod/5.11.10.4400/zoom_x86_64.pkg.tar.xz"
         },
-        "version": "5.11.9.4300"
+        "version": "5.11.10.4400"
     }
 }
