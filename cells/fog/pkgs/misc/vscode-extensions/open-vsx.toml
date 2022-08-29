@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -3315,8 +3315,8 @@ fetch.url = "https://open-vsx.org/api/dracula-theme/theme-dracula/2.24.2/file/dr
 passthru = { publisher = "dracula-theme", name = "theme-dracula", description = "Official Dracula Theme. A dark theme for many editors, shells, and more.", license = "MIT" }
 
 [svelte-svelte-vscode-nightly]
-src.manual = "105.21.0" # svelte.svelte-vscode-nightly
-fetch.url = "https://open-vsx.org/api/svelte/svelte-vscode/105.21.0/file/svelte.svelte-vscode-105.21.0.vsix" # svelte.svelte-vscode-nightly
+src.manual = "105.22.0" # svelte.svelte-vscode-nightly
+fetch.url = "https://open-vsx.org/api/svelte/svelte-vscode/105.22.0/file/svelte.svelte-vscode-105.22.0.vsix" # svelte.svelte-vscode-nightly
 passthru = { publisher = "svelte", name = "svelte-vscode-nightly", description = "Svelte language support for VS Code", license = "MIT" }
 
 [s0kil-vscode-hsx]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -10141,8 +10141,8 @@ passthru = { publisher = "karatelabs", name = "karate", description = "Test Auto
 
 
 [CucumberOpen-cucumber-official]
-src.manual = "1.2.10" # CucumberOpen.cucumber-official
-fetch.url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.10/file/CucumberOpen.cucumber-official-1.2.10.vsix" # CucumberOpen.cucumber-official
+src.manual = "1.2.11" # CucumberOpen.cucumber-official
+fetch.url = "https://open-vsx.org/api/CucumberOpen/cucumber-official/1.2.11/file/CucumberOpen.cucumber-official-1.2.11.vsix" # CucumberOpen.cucumber-official
 passthru = { publisher = "CucumberOpen", name = "cucumber-official", description = "Cucumber for Visual Studio Code", license = "MIT" }
 
 
@@ -10151,6 +10151,7 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
+
 
 
 
