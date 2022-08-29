@@ -3525,8 +3525,8 @@ fetch.url = "https://open-vsx.org/api/neikeq/godot-csharp-vscode/0.2.1/file/neik
 passthru = { publisher = "neikeq", name = "godot-csharp-vscode", description = "Debugger and utilities for working with Godot C# projects", license = "MIT" }
 
 [marus25-cortex-debug]
-src.manual = "1.6.1" # marus25.cortex-debug
-fetch.url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.1/file/marus25.cortex-debug-1.6.1.vsix" # marus25.cortex-debug
+src.manual = "1.6.2" # marus25.cortex-debug
+fetch.url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.2/file/marus25.cortex-debug-1.6.2.vsix" # marus25.cortex-debug
 passthru = { publisher = "marus25", name = "cortex-debug", description = "ARM Cortex-M GDB Debugger support for VSCode", license = "MIT" }
 
 [RandomFractalsInc-snippets-viewer]
@@ -6405,8 +6405,8 @@ fetch.url = "https://open-vsx.org/api/voorjaar/windicss-intellisense/0.21.6/file
 passthru = { publisher = "voorjaar", name = "windicss-intellisense", description = "Intelligent WindiCSS tooling for VS Code", license = "MIT" }
 
 [spnda-nml-language]
-src.manual = "1.2.2" # spnda.nml-language
-fetch.url = "https://open-vsx.org/api/spnda/nml-language/1.2.2/file/spnda.nml-language-1.2.2.vsix" # spnda.nml-language
+src.manual = "1.2.3" # spnda.nml-language
+fetch.url = "https://open-vsx.org/api/spnda/nml-language/1.2.3/file/spnda.nml-language-1.2.3.vsix" # spnda.nml-language
 passthru = { publisher = "spnda", name = "nml-language", description = "Adds the NewGRF Meta Language", license = "GPLv2" }
 
 [graphman-tengo]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -8330,8 +8330,8 @@ fetch.url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.11/file/Turiiya.
 passthru = { publisher = "Turiiya", name = "keyword-o-mat", description = "Quickly swap related keywords.", license = "MIT" }
 
 [asyncapi-asyncapi-preview]
-src.manual = "0.3.6" # asyncapi.asyncapi-preview
-fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.6/file/asyncapi.asyncapi-preview-0.3.6.vsix" # asyncapi.asyncapi-preview
+src.manual = "0.3.7" # asyncapi.asyncapi-preview
+fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.7/file/asyncapi.asyncapi-preview-0.3.7.vsix" # asyncapi.asyncapi-preview
 passthru = { publisher = "asyncapi", name = "asyncapi-preview", description = "Preview AsyncAPI documents inside VSCode.", license = "Apache-2.0" }
 
 [CodeChat-codechat]
@@ -8810,8 +8810,8 @@ fetch.url = "https://open-vsx.org/api/marcinbar/vscode-gothiconline/0.0.37/file/
 passthru = { publisher = "marcinbar", name = "vscode-gothiconline", description = "IntelliSense for Gothic Online", license = "MIT" }
 
 [tokiwa-software-fuzion-lang]
-src.manual = "0.76.0" # tokiwa-software.fuzion-lang
-fetch.url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.76.0/file/tokiwa-software.fuzion-lang-0.76.0.vsix" # tokiwa-software.fuzion-lang
+src.manual = "0.78.0" # tokiwa-software.fuzion-lang
+fetch.url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.78.0/file/tokiwa-software.fuzion-lang-0.78.0.vsix" # tokiwa-software.fuzion-lang
 passthru = { publisher = "tokiwa-software", name = "fuzion-lang", description = "This extension supports development in the Fuzion programming language", license = "MIT" }
 
 [hideoo-trailing]
@@ -9900,8 +9900,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "31.0.1360" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1360/file/Prisma.prisma-insider-31.0.1360.vsix" # Prisma.prisma-insider
+src.manual = "31.0.1361" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1361/file/Prisma.prisma-insider-31.0.1361.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -9975,8 +9975,8 @@ fetch.url = "https://open-vsx.org/api/redhat/java/1.9.0/file/redhat.java-1.9.0.v
 passthru = { publisher = "redhat", name = "java", description = "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...", license = "EPL-2.0" }
 
 [redhat-vscode-yaml]
-src.manual = "1.9.1" # redhat.vscode-yaml
-fetch.url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix" # redhat.vscode-yaml
+src.manual = "1.10.1" # redhat.vscode-yaml
+fetch.url = "https://open-vsx.org/api/redhat/vscode-yaml/1.10.1/file/redhat.vscode-yaml-1.10.1.vsix" # redhat.vscode-yaml
 passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Language Support by Red Hat, with built-in Kubernetes syntax support", license = "MIT" }
 
 
@@ -10151,6 +10151,7 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
+
 
 
 

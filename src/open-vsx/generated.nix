@@ -3099,10 +3099,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1360";
+    version = "31.0.1361";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1360/file/Prisma.prisma-insider-31.0.1360.vsix";
-      sha256 = "sha256-lm6x/i+IWB3RsL0GiMoMGoHs9QlgXF6kVPdZ3Mnt+bA=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1361/file/Prisma.prisma-insider-31.0.1361.vsix";
+      sha256 = "sha256-o7X8KsUmuYrAvRSDmkjgAPACD1J2UxqrIctUAvnmxxI=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5847,10 +5847,10 @@
   };
   asyncapi-asyncapi-preview = {
     pname = "asyncapi-asyncapi-preview";
-    version = "0.3.6";
+    version = "0.3.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.6/file/asyncapi.asyncapi-preview-0.3.6.vsix";
-      sha256 = "sha256-DmMFnGhTldQLZI8ifIhr7fBwvyoHGvhVAtgpDjBqneU=";
+      url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.7/file/asyncapi.asyncapi-preview-0.3.7.vsix";
+      sha256 = "sha256-U0nOHNNDKVTbJg9ZWZN+jkDSMrqXJTfcHWhrVuC7+JI=";
     };
     license = "Apache-2.0";
     name = "asyncapi-preview";
@@ -10361,8 +10361,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
+      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10373,8 +10373,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -13779,10 +13779,10 @@
   };
   marus25-cortex-debug = {
     pname = "marus25-cortex-debug";
-    version = "1.6.1";
+    version = "1.6.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.1/file/marus25.cortex-debug-1.6.1.vsix";
-      sha256 = "sha256-0nIRzad958x3kO0VMm5lRVv4gEvI8grbcHBDTN4dmsA=";
+      url = "https://open-vsx.org/api/marus25/cortex-debug/1.6.2/file/marus25.cortex-debug-1.6.2.vsix";
+      sha256 = "sha256-uSzokJD3lVgJQ5/P5YAZJS5hnL52snWS45R8x0C6dFs=";
     };
     license = "MIT";
     name = "cortex-debug";
@@ -17979,10 +17979,10 @@
   };
   redhat-vscode-yaml = {
     pname = "redhat-vscode-yaml";
-    version = "1.9.1";
+    version = "1.10.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix";
-      sha256 = "sha256-XFg6L+DYhq7cmbnYPkRaZJK5zPTp4yeQR24fCpUGp4I=";
+      url = "https://open-vsx.org/api/redhat/vscode-yaml/1.10.1/file/redhat.vscode-yaml-1.10.1.vsix";
+      sha256 = "sha256-BZHU9FrFqsO09fllMF3+vszrGnPrfQmhVgpcNQhPv/w=";
     };
     license = "MIT";
     name = "vscode-yaml";
@@ -19503,10 +19503,10 @@
   };
   spnda-nml-language = {
     pname = "spnda-nml-language";
-    version = "1.2.2";
+    version = "1.2.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/spnda/nml-language/1.2.2/file/spnda.nml-language-1.2.2.vsix";
-      sha256 = "sha256-5Ec1VfAj2IRQiKDb9Sl19ToieIr6LoD1Wz6A7bHWe/k=";
+      url = "https://open-vsx.org/api/spnda/nml-language/1.2.3/file/spnda.nml-language-1.2.3.vsix";
+      sha256 = "sha256-WvlUw6RuVaDJNQ+QlnF4MdmKAlBHWXqvwR/HuVXAA/Q=";
     };
     license = "GPLv2";
     name = "nml-language";
@@ -20691,10 +20691,10 @@
   };
   tokiwa-software-fuzion-lang = {
     pname = "tokiwa-software-fuzion-lang";
-    version = "0.76.0";
+    version = "0.78.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.76.0/file/tokiwa-software.fuzion-lang-0.76.0.vsix";
-      sha256 = "sha256-0Lcph5hKX1MbrUOYOvHJ1oYPdaHQyjNbD/q2bWkycvs=";
+      url = "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.78.0/file/tokiwa-software.fuzion-lang-0.78.0.vsix";
+      sha256 = "sha256-DnFRJA1GSGzV0Ox5tquXXtIw/KDYX8K9+uqzW1uNoX0=";
     };
     license = "MIT";
     name = "fuzion-lang";

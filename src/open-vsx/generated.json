@@ -4914,11 +4914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-lm6x/i+IWB3RsL0GiMoMGoHs9QlgXF6kVPdZ3Mnt+bA=",
+            "sha256": "sha256-o7X8KsUmuYrAvRSDmkjgAPACD1J2UxqrIctUAvnmxxI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1360/file/Prisma.prisma-insider-31.0.1360.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1361/file/Prisma.prisma-insider-31.0.1361.vsix"
         },
-        "version": "31.0.1360"
+        "version": "31.0.1361"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -9265,11 +9265,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DmMFnGhTldQLZI8ifIhr7fBwvyoHGvhVAtgpDjBqneU=",
+            "sha256": "sha256-U0nOHNNDKVTbJg9ZWZN+jkDSMrqXJTfcHWhrVuC7+JI=",
             "type": "url",
-            "url": "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.6/file/asyncapi.asyncapi-preview-0.3.6.vsix"
+            "url": "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.7/file/asyncapi.asyncapi-preview-0.3.7.vsix"
         },
-        "version": "0.3.6"
+        "version": "0.3.7"
     },
     "atishay-jain-All-Autocomplete": {
         "cargoLocks": null,
@@ -16409,9 +16409,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -16428,9 +16428,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -21824,11 +21824,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0nIRzad958x3kO0VMm5lRVv4gEvI8grbcHBDTN4dmsA=",
+            "sha256": "sha256-uSzokJD3lVgJQ5/P5YAZJS5hnL52snWS45R8x0C6dFs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/marus25/cortex-debug/1.6.1/file/marus25.cortex-debug-1.6.1.vsix"
+            "url": "https://open-vsx.org/api/marus25/cortex-debug/1.6.2/file/marus25.cortex-debug-1.6.2.vsix"
         },
-        "version": "1.6.1"
+        "version": "1.6.2"
     },
     "masonliu-exercism": {
         "cargoLocks": null,
@@ -28474,11 +28474,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-XFg6L+DYhq7cmbnYPkRaZJK5zPTp4yeQR24fCpUGp4I=",
+            "sha256": "sha256-BZHU9FrFqsO09fllMF3+vszrGnPrfQmhVgpcNQhPv/w=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/vscode-yaml/1.9.1/file/redhat.vscode-yaml-1.9.1.vsix"
+            "url": "https://open-vsx.org/api/redhat/vscode-yaml/1.10.1/file/redhat.vscode-yaml-1.10.1.vsix"
         },
-        "version": "1.9.1"
+        "version": "1.10.1"
     },
     "redlin-remove-tabs-on-save": {
         "cargoLocks": null,
@@ -30887,11 +30887,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-5Ec1VfAj2IRQiKDb9Sl19ToieIr6LoD1Wz6A7bHWe/k=",
+            "sha256": "sha256-WvlUw6RuVaDJNQ+QlnF4MdmKAlBHWXqvwR/HuVXAA/Q=",
             "type": "url",
-            "url": "https://open-vsx.org/api/spnda/nml-language/1.2.2/file/spnda.nml-language-1.2.2.vsix"
+            "url": "https://open-vsx.org/api/spnda/nml-language/1.2.3/file/spnda.nml-language-1.2.3.vsix"
         },
-        "version": "1.2.2"
+        "version": "1.2.3"
     },
     "spoorthi-cosmy-wasmy": {
         "cargoLocks": null,
@@ -32768,11 +32768,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0Lcph5hKX1MbrUOYOvHJ1oYPdaHQyjNbD/q2bWkycvs=",
+            "sha256": "sha256-DnFRJA1GSGzV0Ox5tquXXtIw/KDYX8K9+uqzW1uNoX0=",
             "type": "url",
-            "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.76.0/file/tokiwa-software.fuzion-lang-0.76.0.vsix"
+            "url": "https://open-vsx.org/api/tokiwa-software/fuzion-lang/0.78.0/file/tokiwa-software.fuzion-lang-0.78.0.vsix"
         },
-        "version": "0.76.0"
+        "version": "0.78.0"
     },
     "tomWritesCode-raspberrycandy": {
         "cargoLocks": null,
