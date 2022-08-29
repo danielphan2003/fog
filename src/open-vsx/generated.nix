@@ -3099,10 +3099,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1355";
+    version = "31.0.1359";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1355/file/Prisma.prisma-insider-31.0.1355.vsix";
-      sha256 = "sha256-NpPCWSudu+P1yWI6soYp/C15PGEN/Atj69WSF3/4UpQ=";
+      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1359/file/Prisma.prisma-insider-31.0.1359.vsix";
+      sha256 = "sha256-sF8haD8RePkbY+1wqIAUj5UAHRlPf0tQykUxglNRbJU=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -8115,10 +8115,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.1.6";
+    version = "0.1.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.6/file/deadlock.deadlock-gitpod-0.1.6.vsix";
-      sha256 = "sha256-avxsHo+Z+cJbq/g2fwQkC4zT35IX6PiXsqTiNI5qhsY=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.7/file/deadlock.deadlock-gitpod-0.1.7.vsix";
+      sha256 = "sha256-vrdU545km7cdU+I+u5dojtMzasFEYVcQq92ZMb7pKcM=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -14523,10 +14523,10 @@
   };
   moocfi-test-my-code = {
     pname = "moocfi-test-my-code";
-    version = "2.1.3";
+    version = "2.1.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.3/file/moocfi.test-my-code-2.1.3.vsix";
-      sha256 = "sha256-bYwip4tXVjjyq5H+Wbb/4oRE5IvXziy5E6j1KIrjaAU=";
+      url = "https://open-vsx.org/api/moocfi/test-my-code/2.1.4/file/moocfi.test-my-code-2.1.4.vsix";
+      sha256 = "sha256-nxookZHFZBVfJewK6Tse2IpOL3vohCJmEyevP3558wQ=";
     };
     license = "MIT";
     name = "test-my-code";
@@ -19167,10 +19167,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
