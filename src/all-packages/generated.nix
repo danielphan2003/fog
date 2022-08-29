@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "20c050e890e3d58ac661a27716874e8d650f08b3";
+    version = "179562b646851c06ee79fa4a5e2e7386885cee0e";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "20c050e890e3d58ac661a27716874e8d650f08b3";
+      rev = "179562b646851c06ee79fa4a5e2e7386885cee0e";
       fetchSubmodules = false;
-      sha256 = "sha256-8/ua22bfgSybtvKmz/Sx84iYCcbmScWd7rRrK5aA9qk=";
+      sha256 = "sha256-yxLzay3tCwqoUPEi5oZLz+bHGAVEh303iQjyizztmfA=";
     });
   };
   ibus = {
@@ -1357,13 +1357,13 @@
   };
   whitesur-icon-theme = {
     pname = "whitesur-icon-theme";
-    version = "7bd131fb805549681c44128956fc0e29e655bb1e";
+    version = "1fc9d502bd2941d04fec66c4e10372a7978b5c98";
     src = fetchFromGitHub ({
       owner = "vinceliuice";
       repo = "whitesur-icon-theme";
-      rev = "7bd131fb805549681c44128956fc0e29e655bb1e";
+      rev = "1fc9d502bd2941d04fec66c4e10372a7978b5c98";
       fetchSubmodules = false;
-      sha256 = "sha256-kmvqzVJ/vrFySaWqZMIgesSu6CQu+ZpEvXIK4NNsrCc=";
+      sha256 = "sha256-pcvRD4CUwUT46/kmMbnerj5mqPCcHIRreVIh9wz6Kfg=";
     });
   };
   widevine-cdm = {
