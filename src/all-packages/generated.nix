@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "e1801fdb19988a319fdc174ad39391e1a1c12f54";
+    version = "8cb3cf540c2d083721a1717b9ddf2657b7eb5102";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "e1801fdb19988a319fdc174ad39391e1a1c12f54";
+      rev = "8cb3cf540c2d083721a1717b9ddf2657b7eb5102";
       fetchSubmodules = false;
-      sha256 = "sha256-EtpD4AwFqXIgOkB/Gsvg0Ocs7hmm6UgtmfauGd2Zetc=";
+      sha256 = "sha256-PUrjaSDFRTD6yDyvB9ltXGkNGfuY4sBnzRCwoNgdL/c=";
     });
   };
   cinny = {
@@ -548,10 +548,10 @@
   };
   jicofo = {
     pname = "jicofo";
-    version = "1.0-914";
+    version = "1.0-915";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jicofo_1.0-914-1_all.deb";
-      sha256 = "sha256-bC0J8REofZFUow1ziOgFv0owjKxcGAE1S1w938sDsDY=";
+      url = "https://download.jitsi.org/unstable/jicofo_1.0-915-1_all.deb";
+      sha256 = "sha256-eJwZSwLMxnBXcaBlsZ7IBepkfuzqk1XWr22tX+3PPEw=";
     };
   };
   jitsi-meet = {
@@ -1074,14 +1074,14 @@
   };
   snui = {
     pname = "snui";
-    version = "b760cf8798c3394deb26e6933e718b1b2a67e17f";
+    version = "302b915fa624253ac19ba278282ea19698aa32ab";
     src = fetchgit {
       url = "https://gitlab.com/snakedye/snui";
-      rev = "b760cf8798c3394deb26e6933e718b1b2a67e17f";
+      rev = "302b915fa624253ac19ba278282ea19698aa32ab";
       fetchSubmodules = false;
       deepClone = false;
       leaveDotGit = false;
-      sha256 = "sha256-K6kAGiTG4TpAUX8aPOZFWWLB3xBdIV08d7VB+QJIf+E=";
+      sha256 = "sha256-dSzUBNeuV5x5FMGSJoPe4K7nRJo9tYLW3MWFx4xph0M=";
     };
   };
   spicetify-cli = {
