@@ -615,7 +615,7 @@
     "eww": {
         "cargoLocks": {
             "Cargo.lock": [
-                "./eww-e09c7364a516e2930bbf1cfea84538b0cf12315b/Cargo.lock",
+                "./eww-abb7315215558e7101d00b99934cd6fa993c0ac3/Cargo.lock",
                 {}
             ]
         },
@@ -630,11 +630,11 @@
             "name": null,
             "owner": "elkowar",
             "repo": "eww",
-            "rev": "e09c7364a516e2930bbf1cfea84538b0cf12315b",
-            "sha256": "sha256-ytZDDyhsVKyo23PHmk2ppRGrWDCzE2ISwty+ashtEQ0=",
+            "rev": "abb7315215558e7101d00b99934cd6fa993c0ac3",
+            "sha256": "sha256-CXyrctX1k1pHogLhDejBKfZIkDyUrhkkmFhr+hprBaQ=",
             "type": "github"
         },
-        "version": "e09c7364a516e2930bbf1cfea84538b0cf12315b"
+        "version": "abb7315215558e7101d00b99934cd6fa993c0ac3"
     },
     "fake-background-webcam": {
         "cargoLocks": null,
@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "09495375b52de47ddd97a46be1159721d207c862",
-            "sha256": "sha256-oKw0t+Qtav+i8/I1CzIV3+f1ptDEq6pMVjjsQenTsNU=",
+            "rev": "6c8ce734fb8e487add1c28efc2f86ff075f8d679",
+            "sha256": "sha256-iY7p3aL+6cht4WUQ8UgMYHTfMXPQiTXNG+WnAX3WewQ=",
             "type": "github"
         },
-        "version": "09495375b52de47ddd97a46be1159721d207c862"
+        "version": "6c8ce734fb8e487add1c28efc2f86ff075f8d679"
     },
     "ibus": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "fcbc71fef88037bc7bbb6fed02fe2b5fc6efb2a0",
-            "sha256": "sha256-KkeclXaKZyxzj2Y9APlQnNfYLXf8MH+KAFtba65DA1Y=",
+            "rev": "22a12c98613a2bec5a03791bd146390f435d6aed",
+            "sha256": "sha256-HnG+XwMwcgMbrMc1YVLhn+Y/FV39u9DymwoGpGBsAHs=",
             "type": "github"
         },
-        "version": "fcbc71fef88037bc7bbb6fed02fe2b5fc6efb2a0"
+        "version": "22a12c98613a2bec5a03791bd146390f435d6aed"
     },
     "revanced-cli": {
         "cargoLocks": null,
