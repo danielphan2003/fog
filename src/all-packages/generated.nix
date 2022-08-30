@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "dd6aba07e94cc784752719da5d7ce51a571677f4";
+    version = "195ec2b092742671dbdb567cbab42b2d1efe2b65";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "dd6aba07e94cc784752719da5d7ce51a571677f4";
+      rev = "195ec2b092742671dbdb567cbab42b2d1efe2b65";
       fetchSubmodules = false;
-      sha256 = "sha256-Iuw5avSNrk58MDQuDCs0UzkvwxzSnBzvL79A/U7MxpI=";
+      sha256 = "sha256-enZdk2Ca7hxTZr9jU+BRCWOsEnIQ97so6+Z6V4bjx1Q=";
     });
   };
   ibus = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6514";
+    version = "1.0.6515";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6514.tar.bz2";
-      sha256 = "sha256-LwpwyjFppUZLyifI5iJCsvh5C1n5B72pntjKsxCaWdw=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6515.tar.bz2";
+      sha256 = "sha256-KOe+uv7aueoPExilrlEvsQQOHhbXnZda1z49dAStcIU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6514";
+    version = "1.0.6515";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6514-1_all.deb";
-      sha256 = "sha256-wO4/b9CANVuFIiinX+VvSNIw01foXiEc3+fbGKt5AYs=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6515-1_all.deb";
+      sha256 = "sha256-rKtuOvYqoVHio2f4TIIissRB69Ss+7McTKkb5UmcdZA=";
     };
   };
   jitsi-videobridge2 = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.48.0";
+    version = "2.48.1";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.48.0/revanced-patches-2.48.0.jar";
-      sha256 = "sha256-IUcA9SNDPzbTiuwxCe8iomwqZpTL5iY/Iube+OxdQcs=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.48.1/revanced-patches-2.48.1.jar";
+      sha256 = "sha256-ftq+spT3ihLcTVO/E6jalZxqp2CABfmw9YXUeOqAbB4=";
     };
   };
   rofi-wayland = {

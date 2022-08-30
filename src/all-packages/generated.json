@@ -824,11 +824,11 @@
             "name": null,
             "owner": "hyprwm",
             "repo": "hyprland",
-            "rev": "dd6aba07e94cc784752719da5d7ce51a571677f4",
-            "sha256": "sha256-Iuw5avSNrk58MDQuDCs0UzkvwxzSnBzvL79A/U7MxpI=",
+            "rev": "195ec2b092742671dbdb567cbab42b2d1efe2b65",
+            "sha256": "sha256-enZdk2Ca7hxTZr9jU+BRCWOsEnIQ97so6+Z6V4bjx1Q=",
             "type": "github"
         },
-        "version": "dd6aba07e94cc784752719da5d7ce51a571677f4"
+        "version": "195ec2b092742671dbdb567cbab42b2d1efe2b65"
     },
     "ibus": {
         "cargoLocks": null,
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-LwpwyjFppUZLyifI5iJCsvh5C1n5B72pntjKsxCaWdw=",
+            "sha256": "sha256-KOe+uv7aueoPExilrlEvsQQOHhbXnZda1z49dAStcIU=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6514.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6515.tar.bz2"
         },
-        "version": "1.0.6514"
+        "version": "1.0.6515"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wO4/b9CANVuFIiinX+VvSNIw01foXiEc3+fbGKt5AYs=",
+            "sha256": "sha256-rKtuOvYqoVHio2f4TIIissRB69Ss+7McTKkb5UmcdZA=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6514-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6515-1_all.deb"
         },
-        "version": "1.0.6514"
+        "version": "1.0.6515"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IUcA9SNDPzbTiuwxCe8iomwqZpTL5iY/Iube+OxdQcs=",
+            "sha256": "sha256-ftq+spT3ihLcTVO/E6jalZxqp2CABfmw9YXUeOqAbB4=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.48.0/revanced-patches-2.48.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.48.1/revanced-patches-2.48.1.jar"
         },
-        "version": "2.48.0"
+        "version": "2.48.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
