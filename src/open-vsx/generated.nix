@@ -1767,10 +1767,10 @@
   };
   JFrog-jfrog-vscode-extension = {
     pname = "JFrog-jfrog-vscode-extension";
-    version = "1.14.1";
+    version = "1.14.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.14.1/file/JFrog.jfrog-vscode-extension-1.14.1.vsix";
-      sha256 = "sha256-4k1DzROuL/sPjM6CFx68Fyb0mbpEzcet/YYSHJ7c8mQ=";
+      url = "https://open-vsx.org/api/JFrog/jfrog-vscode-extension/1.14.2/file/JFrog.jfrog-vscode-extension-1.14.2.vsix";
+      sha256 = "sha256-TNFiYLXQObyRqZtQT63fSzvtHLKXMksyhlxcfSSAPrE=";
     };
     license = "Apache-2.0";
     name = "jfrog-vscode-extension";
@@ -8115,10 +8115,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.1.7";
+    version = "0.1.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.7/file/deadlock.deadlock-gitpod-0.1.7.vsix";
-      sha256 = "sha256-vrdU545km7cdU+I+u5dojtMzasFEYVcQq92ZMb7pKcM=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.8/file/deadlock.deadlock-gitpod-0.1.8.vsix";
+      sha256 = "sha256-9T+4QqKrkl/e6M3sudcr4JnP9w7Nvi6iB/qXhMUR5a4=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -21231,10 +21231,10 @@
   };
   usernamehw-commands = {
     pname = "usernamehw-commands";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/usernamehw/commands/1.3.0/file/usernamehw.commands-1.3.0.vsix";
-      sha256 = "sha256-5PFWqwNLoW4KuTBvjoVdqsPlkD4mmL0A7rUdK3TeKNs=";
+      url = "https://open-vsx.org/api/usernamehw/commands/1.4.0/file/usernamehw.commands-1.4.0.vsix";
+      sha256 = "sha256-zPdnSmb6NUDfOsv8ZwFBXw0sM/qHAtE0T4cCab61zZM=";
     };
     license = "MIT";
     name = "commands";
