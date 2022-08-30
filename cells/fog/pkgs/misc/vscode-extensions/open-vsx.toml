@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4635,8 +4635,8 @@ fetch.url = "https://open-vsx.org/api/benspaulding/procfile/1.1.7/file/benspauld
 passthru = { publisher = "benspaulding", name = "procfile", description = "Grammar & features for Procfiles", license = "BSD-3-Clause" }
 
 [bringout-f18-klijent]
-src.manual = "5.6.32" # bringout.f18-klijent
-fetch.url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.32/file/bringout.f18-klijent-5.6.32.vsix" # bringout.f18-klijent
+src.manual = "5.6.33" # bringout.f18-klijent
+fetch.url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.33/file/bringout.f18-klijent-5.6.33.vsix" # bringout.f18-klijent
 passthru = { publisher = "bringout", name = "f18-klijent", description = "F18 klijent host eShell", license = "MIT" }
 
 [vscjava-vscode-spring-boot-dashboard]
@@ -7820,8 +7820,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -8330,8 +8330,8 @@ fetch.url = "https://open-vsx.org/api/Turiiya/keyword-o-mat/0.2.11/file/Turiiya.
 passthru = { publisher = "Turiiya", name = "keyword-o-mat", description = "Quickly swap related keywords.", license = "MIT" }
 
 [asyncapi-asyncapi-preview]
-src.manual = "0.3.7" # asyncapi.asyncapi-preview
-fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.7/file/asyncapi.asyncapi-preview-0.3.7.vsix" # asyncapi.asyncapi-preview
+src.manual = "0.3.8" # asyncapi.asyncapi-preview
+fetch.url = "https://open-vsx.org/api/asyncapi/asyncapi-preview/0.3.8/file/asyncapi.asyncapi-preview-0.3.8.vsix" # asyncapi.asyncapi-preview
 passthru = { publisher = "asyncapi", name = "asyncapi-preview", description = "Preview AsyncAPI documents inside VSCode.", license = "Apache-2.0" }
 
 [CodeChat-codechat]
@@ -9960,8 +9960,8 @@ fetch.url = "https://open-vsx.org/api/redhat/vscode-xml/0.21.0/file/redhat.vscod
 passthru = { publisher = "redhat", name = "vscode-xml", description = "XML Language Support by Red Hat", license = "EPL-2.0" }
 
 [GitLab-gitlab-workflow]
-src.manual = "3.48.1" # GitLab.gitlab-workflow
-fetch.url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.48.1/file/GitLab.gitlab-workflow-3.48.1.vsix" # GitLab.gitlab-workflow
+src.manual = "3.49.0" # GitLab.gitlab-workflow
+fetch.url = "https://open-vsx.org/api/GitLab/gitlab-workflow/3.49.0/file/GitLab.gitlab-workflow-3.49.0.vsix" # GitLab.gitlab-workflow
 passthru = { publisher = "GitLab", name = "gitlab-workflow", description = "Official GitLab-maintained extension for Visual Studio Code.", license = "MIT" }
 
 [TabNine-tabnine-vscode]
@@ -10151,6 +10151,7 @@ passthru = { publisher = "CucumberOpen", name = "cucumber-official", description
 src.manual = "0.0.1" # br4ch1st0chr0n3.purs-hotkeys
 fetch.url = "https://open-vsx.org/api/br4ch1st0chr0n3/purs-hotkeys/0.0.1/file/br4ch1st0chr0n3.purs-hotkeys-0.0.1.vsix" # br4ch1st0chr0n3.purs-hotkeys
 passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description = "Hotkeys for getting expression types", license = "MIT" }
+
 
 
 
