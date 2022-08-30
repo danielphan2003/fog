@@ -20779,11 +20779,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -24655,11 +24655,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-IAoX9X6PojQkIF2Mz5omLDHK2gBEiefqpo95tSKrb2w=",
+            "sha256": "sha256-3MMb0Whh7ZigkTeiDKj9AQJdYkNJC2KXpYwXmxKJyaE=",
             "type": "url",
-            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.26/file/mutable-ai.mutable-ai-1.1.26.vsix"
+            "url": "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.27/file/mutable-ai.mutable-ai-1.1.27.vsix"
         },
-        "version": "1.1.26"
+        "version": "1.1.27"
     },
     "muuvmuuv-vscode-sundial": {
         "cargoLocks": null,
@@ -26954,11 +26954,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-uQtuKBoNj5EX5r01fHZfqmX8ECFKiujP6AywryLesTM=",
+            "sha256": "sha256-rRRW61QDXJuegQcqNaEd+6ErTprYBsDy2RbhfU6t0mY=",
             "type": "url",
-            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.418/file/pokey.cursorless-0.26.418.vsix"
+            "url": "https://open-vsx.org/api/pokey/cursorless/0.26.419/file/pokey.cursorless-0.26.419.vsix"
         },
-        "version": "0.26.418"
+        "version": "0.26.419"
     },
     "pokey-parse-tree": {
         "cargoLocks": null,
@@ -28569,11 +28569,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-T2oFJwZ2n4gouuRype9c9uosDzyK49Ut7rmYfJTzzhQ=",
+            "sha256": "sha256-TjsFyR49GiIVmdtwMAOaZ/4o449oRU7tH6g4EBZFUMg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.13/file/remcohaszing.schemastore-1.0.13.vsix"
+            "url": "https://open-vsx.org/api/remcohaszing/schemastore/1.0.14/file/remcohaszing.schemastore-1.0.14.vsix"
         },
-        "version": "1.0.13"
+        "version": "1.0.14"
     },
     "revng-llvm-ir": {
         "cargoLocks": null,
@@ -31039,9 +31039,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -31818,11 +31818,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-FfKhaI6urz0e6kqNqwSZhwgyGd2ZFv4s6VSP9ONmIcQ=",
+            "sha256": "sha256-ENyrFgSY3kKfjHU5PCjzVZLrf3zFRmUBslhz5tXiwgQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.22.0/file/svelte.svelte-vscode-105.22.0.vsix"
+            "url": "https://open-vsx.org/api/svelte/svelte-vscode/105.22.1/file/svelte.svelte-vscode-105.22.1.vsix"
         },
-        "version": "105.22.0"
+        "version": "105.22.1"
     },
     "svipas-control-snippets": {
         "cargoLocks": null,

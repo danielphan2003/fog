@@ -13119,10 +13119,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -15567,10 +15567,10 @@
   };
   mutable-ai-mutable-ai = {
     pname = "mutable-ai-mutable-ai";
-    version = "1.1.26";
+    version = "1.1.27";
     src = fetchurl {
-      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.26/file/mutable-ai.mutable-ai-1.1.26.vsix";
-      sha256 = "sha256-IAoX9X6PojQkIF2Mz5omLDHK2gBEiefqpo95tSKrb2w=";
+      url = "https://open-vsx.org/api/mutable-ai/mutable-ai/1.1.27/file/mutable-ai.mutable-ai-1.1.27.vsix";
+      sha256 = "sha256-3MMb0Whh7ZigkTeiDKj9AQJdYkNJC2KXpYwXmxKJyaE=";
     };
     license = "";
     name = "mutable-ai";
@@ -17019,10 +17019,10 @@
   };
   pokey-cursorless = {
     pname = "pokey-cursorless";
-    version = "0.26.418";
+    version = "0.26.419";
     src = fetchurl {
-      url = "https://open-vsx.org/api/pokey/cursorless/0.26.418/file/pokey.cursorless-0.26.418.vsix";
-      sha256 = "sha256-uQtuKBoNj5EX5r01fHZfqmX8ECFKiujP6AywryLesTM=";
+      url = "https://open-vsx.org/api/pokey/cursorless/0.26.419/file/pokey.cursorless-0.26.419.vsix";
+      sha256 = "sha256-rRRW61QDXJuegQcqNaEd+6ErTprYBsDy2RbhfU6t0mY=";
     };
     license = "MIT";
     name = "cursorless";
@@ -18039,10 +18039,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.13";
+    version = "1.0.14";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.13/file/remcohaszing.schemastore-1.0.13.vsix";
-      sha256 = "sha256-T2oFJwZ2n4gouuRype9c9uosDzyK49Ut7rmYfJTzzhQ=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.14/file/remcohaszing.schemastore-1.0.14.vsix";
+      sha256 = "sha256-TjsFyR49GiIVmdtwMAOaZ/4o449oRU7tH6g4EBZFUMg=";
     };
     license = "MIT";
     name = "schemastore";
@@ -19601,8 +19601,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -20091,10 +20091,10 @@
   };
   svelte-svelte-vscode-nightly = {
     pname = "svelte-svelte-vscode-nightly";
-    version = "105.22.0";
+    version = "105.22.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.22.0/file/svelte.svelte-vscode-105.22.0.vsix";
-      sha256 = "sha256-FfKhaI6urz0e6kqNqwSZhwgyGd2ZFv4s6VSP9ONmIcQ=";
+      url = "https://open-vsx.org/api/svelte/svelte-vscode/105.22.1/file/svelte.svelte-vscode-105.22.1.vsix";
+      sha256 = "sha256-ENyrFgSY3kKfjHU5PCjzVZLrf3zFRmUBslhz5tXiwgQ=";
     };
     license = "MIT";
     name = "svelte-vscode-nightly";
