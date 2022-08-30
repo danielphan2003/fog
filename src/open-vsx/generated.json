@@ -8771,11 +8771,30 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-3aJ37OIpIYjhutuGP/B1WE0j+ePml+4O3Mq2COjIIZo=",
+            "sha256": "sha256-2flNLBWKbCFDwCqr5qeUjzEPb+FSyCJB058B0blpkkA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.3/file/arm.keil-studio-pack-1.0.3.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix"
         },
-        "version": "1.0.3"
+        "version": "1.0.5"
+    },
+    "arm-keil-studio-pack-web": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "arm-keil-studio-pack-web",
+        "passthru": {
+            "description": "Extension pack for Keil Studio development",
+            "license": "MIT",
+            "name": "keil-studio-pack-web",
+            "publisher": "arm"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-2flNLBWKbCFDwCqr5qeUjzEPb+FSyCJB058B0blpkkA=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix"
+        },
+        "version": "1.0.5"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -18632,11 +18651,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-0kEewQWkCQhpfP7cRfa9QNznoWtfnE2h6NKpOHSKSaE=",
+            "sha256": "sha256-h0H2uLxWqg352fXrT5Kv7oOr480EuMOO6pIHCQp/Ccs=",
             "type": "url",
-            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080809/file/jbangdev.jbang-vscode-0.1.2022080809.vsix"
+            "url": "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022083013/file/jbangdev.jbang-vscode-0.1.2022083013.vsix"
         },
-        "version": "0.1.2022080809"
+        "version": "0.1.2022083013"
     },
     "jbenden-c-cpp-flylint": {
         "cargoLocks": null,
@@ -20779,11 +20798,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
+            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
         },
-        "version": "0.4.178"
+        "version": "0.5.4"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -20874,11 +20893,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-WMXmDNQJhP1w00HyY1PMT/TmyDmKa5TT2hLCUMpVuVQ=",
+            "sha256": "sha256-UzR1JVnTWHgHHCMSSHKi8o+u6XlwtPog1yY3m81Lswk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.94/file/leanprover.lean4-0.0.94.vsix"
+            "url": "https://open-vsx.org/api/leanprover/lean4/0.0.95/file/leanprover.lean4-0.0.95.vsix"
         },
-        "version": "0.0.94"
+        "version": "0.0.95"
     },
     "learn-pack-learnpack-vscode": {
         "cargoLocks": null,
@@ -31039,9 +31058,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
+            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
         },
         "version": "2.2.5"
     },
@@ -37100,11 +37119,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-kHOfuKH2qx+LKrx9byCZSIDoPdD+y6ErmNV6QfXh7Ho=",
+            "sha256": "sha256-6F2lxHbXJ3+YVLooLJ4/rttCxPoDEUoI/jS6voyJfBA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/xoronic/pestfile/0.3.0/file/xoronic.pestfile-0.3.0.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.3.0"
     },
     "xotm-my-extension-xotm-22-5-25": {
         "cargoLocks": null,

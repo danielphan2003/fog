@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -3335,8 +3335,8 @@ fetch.url = "https://open-vsx.org/api/victorbjorklund/phoenix/0.1.0/file/victorb
 passthru = { publisher = "victorbjorklund", name = "phoenix", description = "Syntax highlighting support for HEEx", license = "MIT" }
 
 [xoronic-pestfile]
-src.manual = "0.2.0" # xoronic.pestfile
-fetch.url = "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix" # xoronic.pestfile
+src.manual = "0.3.0" # xoronic.pestfile
+fetch.url = "https://open-vsx.org/api/xoronic/pestfile/0.3.0/file/xoronic.pestfile-0.3.0.vsix" # xoronic.pestfile
 passthru = { publisher = "xoronic", name = "pestfile", description = "pestfile Syntax Highlighting", license = "MIT" }
 
 [wmaurer-change-case]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -9150,8 +9150,8 @@ fetch.url = "https://open-vsx.org/api/FelixAngelov/mason/0.1.5/file/FelixAngelov
 passthru = { publisher = "FelixAngelov", name = "mason", description = "Mason support for Visual Studio Code.", license = "MIT" }
 
 [jbangdev-jbang-vscode]
-src.manual = "0.1.2022080809" # jbangdev.jbang-vscode
-fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080809/file/jbangdev.jbang-vscode-0.1.2022080809.vsix" # jbangdev.jbang-vscode
+src.manual = "0.1.2022083013" # jbangdev.jbang-vscode
+fetch.url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022083013/file/jbangdev.jbang-vscode-0.1.2022083013.vsix" # jbangdev.jbang-vscode
 passthru = { publisher = "jbangdev", name = "jbang-vscode", description = "JBang support for VS Code Java", license = "MIT" }
 
 [prantlf-vscode-requirejs]
@@ -9575,8 +9575,8 @@ fetch.url = "https://open-vsx.org/api/waderyan/gitblame/9.0.1/file/waderyan.gitb
 passthru = { publisher = "waderyan", name = "gitblame", description = "See git blame information in the status bar.", license = "MIT" }
 
 [leanprover-lean4]
-src.manual = "0.0.94" # leanprover.lean4
-fetch.url = "https://open-vsx.org/api/leanprover/lean4/0.0.94/file/leanprover.lean4-0.0.94.vsix" # leanprover.lean4
+src.manual = "0.0.95" # leanprover.lean4
+fetch.url = "https://open-vsx.org/api/leanprover/lean4/0.0.95/file/leanprover.lean4-0.0.95.vsix" # leanprover.lean4
 passthru = { publisher = "leanprover", name = "lean4", description = "Lean 4 language support for VS Code", license = "Apache-2.0" }
 
 [arzg-apprentice]
@@ -10104,8 +10104,8 @@ passthru = { publisher = "WongYAQi", name = "vscode-plugin-backend-helper", desc
 
 
 [arm-keil-studio-pack]
-src.manual = "1.0.3" # arm.keil-studio-pack
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.3/file/arm.keil-studio-pack-1.0.3.vsix" # arm.keil-studio-pack
+src.manual = "1.0.5" # arm.keil-studio-pack
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix" # arm.keil-studio-pack
 passthru = { publisher = "arm", name = "keil-studio-pack", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10175,4 +10175,10 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 
 
+
+
+[arm-keil-studio-pack-web]
+src.manual = "1.0.5" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix" # arm.keil-studio-pack-web
+passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 

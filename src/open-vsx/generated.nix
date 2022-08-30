@@ -5535,13 +5535,25 @@
   };
   arm-keil-studio-pack = {
     pname = "arm-keil-studio-pack";
-    version = "1.0.3";
+    version = "1.0.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.3/file/arm.keil-studio-pack-1.0.3.vsix";
-      sha256 = "sha256-3aJ37OIpIYjhutuGP/B1WE0j+ePml+4O3Mq2COjIIZo=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix";
+      sha256 = "sha256-2flNLBWKbCFDwCqr5qeUjzEPb+FSyCJB058B0blpkkA=";
     };
     license = "MIT";
     name = "keil-studio-pack";
+    description = "Extension pack for Keil Studio development";
+    publisher = "arm";
+  };
+  arm-keil-studio-pack-web = {
+    pname = "arm-keil-studio-pack-web";
+    version = "1.0.5";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix";
+      sha256 = "sha256-2flNLBWKbCFDwCqr5qeUjzEPb+FSyCJB058B0blpkkA=";
+    };
+    license = "MIT";
+    name = "keil-studio-pack-web";
     description = "Extension pack for Keil Studio development";
     publisher = "arm";
   };
@@ -11763,10 +11775,10 @@
   };
   jbangdev-jbang-vscode = {
     pname = "jbangdev-jbang-vscode";
-    version = "0.1.2022080809";
+    version = "0.1.2022083013";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022080809/file/jbangdev.jbang-vscode-0.1.2022080809.vsix";
-      sha256 = "sha256-0kEewQWkCQhpfP7cRfa9QNznoWtfnE2h6NKpOHSKSaE=";
+      url = "https://open-vsx.org/api/jbangdev/jbang-vscode/0.1.2022083013/file/jbangdev.jbang-vscode-0.1.2022083013.vsix";
+      sha256 = "sha256-h0H2uLxWqg352fXrT5Kv7oOr480EuMOO6pIHCQp/Ccs=";
     };
     license = "MIT";
     name = "jbang-vscode";
@@ -13119,10 +13131,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.4.178";
+    version = "0.5.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
-      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
+      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
+      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -13179,10 +13191,10 @@
   };
   leanprover-lean4 = {
     pname = "leanprover-lean4";
-    version = "0.0.94";
+    version = "0.0.95";
     src = fetchurl {
-      url = "https://open-vsx.org/api/leanprover/lean4/0.0.94/file/leanprover.lean4-0.0.94.vsix";
-      sha256 = "sha256-WMXmDNQJhP1w00HyY1PMT/TmyDmKa5TT2hLCUMpVuVQ=";
+      url = "https://open-vsx.org/api/leanprover/lean4/0.0.95/file/leanprover.lean4-0.0.95.vsix";
+      sha256 = "sha256-UzR1JVnTWHgHHCMSSHKi8o+u6XlwtPog1yY3m81Lswk=";
     };
     license = "Apache-2.0";
     name = "lean4";
@@ -19601,8 +19613,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
-      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
+      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -23427,10 +23439,10 @@
   };
   xoronic-pestfile = {
     pname = "xoronic-pestfile";
-    version = "0.2.0";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/xoronic/pestfile/0.2.0/file/xoronic.pestfile-0.2.0.vsix";
-      sha256 = "sha256-kHOfuKH2qx+LKrx9byCZSIDoPdD+y6ErmNV6QfXh7Ho=";
+      url = "https://open-vsx.org/api/xoronic/pestfile/0.3.0/file/xoronic.pestfile-0.3.0.vsix";
+      sha256 = "sha256-6F2lxHbXJ3+YVLooLJ4/rttCxPoDEUoI/jS6voyJfBA=";
     };
     license = "MIT";
     name = "pestfile";
