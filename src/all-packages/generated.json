@@ -302,11 +302,11 @@
             "name": null,
             "owner": "bottlesdevs",
             "repo": "Bottles",
-            "rev": "d13eedc4e85584abddbf2e713d98fd8f637a87c4",
-            "sha256": "sha256-BwV1zZAtd3e5L5XsAdJ9VVJ//wxE+frtkSD10SRaAwE=",
+            "rev": "092963925bcb5bde632124457ad8e9686af5c512",
+            "sha256": "sha256-TnddMCXog00RfbZcZ+qEM8jLJ0O7Hl3pDGZ4oqbGTTE=",
             "type": "github"
         },
-        "version": "d13eedc4e85584abddbf2e713d98fd8f637a87c4"
+        "version": "092963925bcb5bde632124457ad8e9686af5c512"
     },
     "caddy": {
         "cargoLocks": null,
@@ -1549,11 +1549,11 @@
             "name": null,
             "owner": "libretro",
             "repo": "retroarch",
-            "rev": "fd41b0f90ccbb0b418082bf44e5ac9f62dd547e2",
-            "sha256": "sha256-pRcMOJLnYVoGm/3lJwzyYkOPVrc8CFGc+iryYmEaX1A=",
+            "rev": "06ab11d3e5be6d8f9558aaf46e20377e840c3422",
+            "sha256": "sha256-gQ81pYc7ewhxBgWRWOekloEQMVz2dGbXsMe/oeaAX2k=",
             "type": "github"
         },
-        "version": "fd41b0f90ccbb0b418082bf44e5ac9f62dd547e2"
+        "version": "06ab11d3e5be6d8f9558aaf46e20377e840c3422"
     },
     "revanced-cli": {
         "cargoLocks": null,
@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-aaSShWalQvLATloRFTNAIOfKPvTrZ1Kb/ihhCj8/6sw=",
+            "sha256": "sha256-Mo5bq7hgbmFsoZndPiWQ18c0RKxAot8E+dizAJXcICQ=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.3/revanced-cli-2.9.3-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.4/revanced-cli-2.9.4-all.jar"
         },
-        "version": "2.9.3"
+        "version": "2.9.4"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Ro6OpD/QwxFWFmviWx0nFiFOAPrInsKsKhl182A65fI=",
+            "sha256": "sha256-enws2Oamccc6DiN2hWfM+ENsBq+hpMMfokq9F6JePac=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.50.1/revanced-patches-2.50.1.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.50.2/revanced-patches-2.50.2.jar"
         },
-        "version": "2.50.1"
+        "version": "2.50.2"
     },
     "rofi-wayland": {
         "cargoLocks": null,

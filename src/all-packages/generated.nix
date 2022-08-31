@@ -177,13 +177,13 @@
   };
   bottles = {
     pname = "bottles";
-    version = "d13eedc4e85584abddbf2e713d98fd8f637a87c4";
+    version = "092963925bcb5bde632124457ad8e9686af5c512";
     src = fetchFromGitHub ({
       owner = "bottlesdevs";
       repo = "Bottles";
-      rev = "d13eedc4e85584abddbf2e713d98fd8f637a87c4";
+      rev = "092963925bcb5bde632124457ad8e9686af5c512";
       fetchSubmodules = false;
-      sha256 = "sha256-BwV1zZAtd3e5L5XsAdJ9VVJ//wxE+frtkSD10SRaAwE=";
+      sha256 = "sha256-TnddMCXog00RfbZcZ+qEM8jLJ0O7Hl3pDGZ4oqbGTTE=";
     });
   };
   caddy = {
@@ -924,21 +924,21 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "fd41b0f90ccbb0b418082bf44e5ac9f62dd547e2";
+    version = "06ab11d3e5be6d8f9558aaf46e20377e840c3422";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "fd41b0f90ccbb0b418082bf44e5ac9f62dd547e2";
+      rev = "06ab11d3e5be6d8f9558aaf46e20377e840c3422";
       fetchSubmodules = false;
-      sha256 = "sha256-pRcMOJLnYVoGm/3lJwzyYkOPVrc8CFGc+iryYmEaX1A=";
+      sha256 = "sha256-gQ81pYc7ewhxBgWRWOekloEQMVz2dGbXsMe/oeaAX2k=";
     });
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.3";
+    version = "2.9.4";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.3/revanced-cli-2.9.3-all.jar";
-      sha256 = "sha256-aaSShWalQvLATloRFTNAIOfKPvTrZ1Kb/ihhCj8/6sw=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.4/revanced-cli-2.9.4-all.jar";
+      sha256 = "sha256-Mo5bq7hgbmFsoZndPiWQ18c0RKxAot8E+dizAJXcICQ=";
     };
   };
   revanced-integrations = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.50.1";
+    version = "2.50.2";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.1/revanced-patches-2.50.1.jar";
-      sha256 = "sha256-Ro6OpD/QwxFWFmviWx0nFiFOAPrInsKsKhl182A65fI=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.50.2/revanced-patches-2.50.2.jar";
+      sha256 = "sha256-enws2Oamccc6DiN2hWfM+ENsBq+hpMMfokq9F6JePac=";
     };
   };
   rofi-wayland = {
