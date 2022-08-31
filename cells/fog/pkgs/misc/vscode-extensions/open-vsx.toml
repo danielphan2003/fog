@@ -3545,8 +3545,8 @@ fetch.url = "https://open-vsx.org/api/johnsoncodehk/vscode-typescript-vue-plugin
 passthru = { publisher = "johnsoncodehk", name = "vscode-typescript-vue-plugin", description = "Vue Plugin for TypeScript server", license = "MIT" }
 
 [ritwickdey-LiveServer]
-src.manual = "5.7.8" # ritwickdey.LiveServer
-fetch.url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.8/file/ritwickdey.LiveServer-5.7.8.vsix" # ritwickdey.LiveServer
+src.manual = "5.7.9" # ritwickdey.LiveServer
+fetch.url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.9/file/ritwickdey.LiveServer-5.7.9.vsix" # ritwickdey.LiveServer
 passthru = { publisher = "ritwickdey", name = "LiveServer", description = "Launch a development local Server with live reload feature for static & dynamic pages", license = "MIT" }
 
 [ms-vscode-makefile-tools]
@@ -4815,8 +4815,8 @@ fetch.url = "https://open-vsx.org/api/cloudstudio/workspaces/0.0.23/file/cloudst
 passthru = { publisher = "cloudstudio", name = "workspaces", description = "User workspace common function", license = "MIT" }
 
 [vscjava-vscode-maven]
-src.manual = "0.37.0" # vscjava.vscode-maven
-fetch.url = "https://open-vsx.org/api/vscjava/vscode-maven/0.37.0/file/vscjava.vscode-maven-0.37.0.vsix" # vscjava.vscode-maven
+src.manual = "0.38.0" # vscjava.vscode-maven
+fetch.url = "https://open-vsx.org/api/vscjava/vscode-maven/0.38.0/file/vscjava.vscode-maven-0.38.0.vsix" # vscjava.vscode-maven
 passthru = { publisher = "vscjava", name = "vscode-maven", description = "Manage Maven projects, execute goals, generate project from archetype, improve user experience for Java developers.", license = "MIT" }
 
 [mjcrouch-perforce]
@@ -5115,8 +5115,8 @@ fetch.url = "https://open-vsx.org/api/octref/vetur/0.36.0/file/octref.vetur-0.36
 passthru = { publisher = "octref", name = "vetur", description = "Vue tooling for VS Code", license = "MIT" }
 
 [vscjava-vscode-java-test]
-src.manual = "0.36.0" # vscjava.vscode-java-test
-fetch.url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.36.0/file/vscjava.vscode-java-test-0.36.0.vsix" # vscjava.vscode-java-test
+src.manual = "0.37.0" # vscjava.vscode-java-test
+fetch.url = "https://open-vsx.org/api/vscjava/vscode-java-test/0.37.0/file/vscjava.vscode-java-test-0.37.0.vsix" # vscjava.vscode-java-test
 passthru = { publisher = "vscjava", name = "vscode-java-test", description = "Run and debug JUnit or TestNG test cases", license = "" }
 
 [ms-azuretools-vscode-docker]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "22.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
+src.manual = "20.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.25/file/iterative.dvc-0.
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.8.2919" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.2919/file/Slint.slint-nightly-2022.8.2919.vsix" # Slint.slint-nightly
+src.manual = "2022.8.3022" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.3022/file/Slint.slint-nightly-2022.8.3022.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10042,8 +10042,8 @@ passthru = { publisher = "phisch", name = "phocus-vscode", description = "VSCode
 
 
 [t-codespaces-inix-common-worker]
-src.manual = "0.0.1" # t-codespaces.inix-common-worker
-fetch.url = "https://open-vsx.org/api/t-codespaces/inix-common-worker/0.0.1/file/t-codespaces.inix-common-worker-0.0.1.vsix" # t-codespaces.inix-common-worker
+src.manual = "0.0.3" # t-codespaces.inix-common-worker
+fetch.url = "https://open-vsx.org/api/t-codespaces/inix-common-worker/0.0.3/file/t-codespaces.inix-common-worker-0.0.3.vsix" # t-codespaces.inix-common-worker
 passthru = { publisher = "t-codespaces", name = "inix-common-worker", description = "inix-common-worker extension", license = "" }
 
 
@@ -10174,8 +10174,9 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.0.6" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.6/file/arm.keil-studio-pack-web-1.0.6.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
+
 
 
 
