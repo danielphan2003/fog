@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "687a4b9e81c7b0b08c760ec33808c721d6775e0e",
-            "sha256": "sha256-hVONJMAA44r2Vu/vwGB4tAYvYjIlg9+piGr4kkvxPQ0=",
+            "rev": "68d8ac9802c5e7bf5bf55d1a3c1db634edc93999",
+            "sha256": "sha256-Xy6iZ370iSrPdHuYkIFLvP/ndfNMdVJ8+cdyYQDdFi0=",
             "type": "github"
         },
-        "version": "687a4b9e81c7b0b08c760ec33808c721d6775e0e"
+        "version": "68d8ac9802c5e7bf5bf55d1a3c1db634edc93999"
     },
     "cinny": {
         "cargoLocks": null,
@@ -378,11 +378,11 @@
             "name": null,
             "owner": "cinnyapp",
             "repo": "cinny",
-            "rev": "33949dbdb13068fef4a9b90216986595ee04aaa5",
-            "sha256": "sha256-w+TSkyp2n42DY2Jz9ksLJVIc4JzTcT/gKAFCSElOZVo=",
+            "rev": "292eee33b9b9b8f8805c9c50f3bde8c018eb49a5",
+            "sha256": "sha256-8d7751Os61cnSx1ZwOlcUV4DnBWbhefe7rDm/PK55i8=",
             "type": "github"
         },
-        "version": "33949dbdb13068fef4a9b90216986595ee04aaa5"
+        "version": "292eee33b9b9b8f8805c9c50f3bde8c018eb49a5"
     },
     "cinny-bin": {
         "cargoLocks": null,
@@ -392,11 +392,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UbL9HP90zfsoj/ClUoBF27n5zkvvN4UU4pxQu8QsoUA=",
+            "sha256": "sha256-Tn8pT0tppBEQtLdwQf0edUBe3dkK7fedunnNYIld/SQ=",
             "type": "url",
-            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.1.2/cinny-v2.1.2.tar.gz"
+            "url": "https://github.com/cinnyapp/cinny/releases/download/v2.1.3/cinny-v2.1.3.tar.gz"
         },
-        "version": "2.1.2"
+        "version": "2.1.3"
     },
     "cinny-desktop": {
         "cargoLocks": {
@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dqhIEHarwyk1Jezuq3dGCVOEWPct3YjLXPcBoh5WiMQ=",
+            "sha256": "sha256-4UXSAyu3wOUhvjN/DDAuubPlX0eEK/ZuHl3HMvdLQSk=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6516.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6517.tar.bz2"
         },
-        "version": "1.0.6516"
+        "version": "1.0.6517"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-7ha7RHS+wiTnWFx0LNgRaQsGqT142UHEW862tGZa0Jc=",
+            "sha256": "sha256-FGdHS0l0ru8OkL7Lh97FEn7RAmFF5adkiR3UPbHZB50=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6516-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6517-1_all.deb"
         },
-        "version": "1.0.6516"
+        "version": "1.0.6517"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1591,11 +1591,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8dpgI4B7lv53LBtszudDkK9bM7xme0a+eVZ04ypvs3U=",
+            "sha256": "sha256-Ro6OpD/QwxFWFmviWx0nFiFOAPrInsKsKhl182A65fI=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.49.0/revanced-patches-2.49.0.jar"
+            "url": "https://github.com/revanced/revanced-patches/releases/download/v2.50.1/revanced-patches-2.50.1.jar"
         },
-        "version": "2.49.0"
+        "version": "2.50.1"
     },
     "rofi-wayland": {
         "cargoLocks": null,
@@ -2024,11 +2024,11 @@
             "name": null,
             "owner": "tailscale",
             "repo": "tailscale",
-            "rev": "185f2e4768a8df56037793d5b190d8e0176ca2a4",
-            "sha256": "sha256-GRSgLmb+oKu8+W1jY68CBHEgXiMHGOZEbpyU46dtE/o=",
+            "rev": "84b74825f000fa74ce3c884bf51a9a8416a294dc",
+            "sha256": "sha256-fAE7mmLufNO4y+MKEMGPxMBcIa56OL+CY7gKS/f/rPQ=",
             "type": "github"
         },
-        "version": "185f2e4768a8df56037793d5b190d8e0176ca2a4"
+        "version": "84b74825f000fa74ce3c884bf51a9a8416a294dc"
     },
     "tailscale-systray": {
         "cargoLocks": null,
