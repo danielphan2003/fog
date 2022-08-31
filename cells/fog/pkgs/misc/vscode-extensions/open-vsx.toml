@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -9630,8 +9630,8 @@ fetch.url = "https://open-vsx.org/api/oscarlevin/pretext-tools/0.6.1/file/oscarl
 passthru = { publisher = "oscarlevin", name = "pretext-tools", description = "Language support and more for PreTeXt", license = "See license in LICENSE" }
 
 [standard-vscode-standard]
-src.manual = "2.1.1" # standard.vscode-standard
-fetch.url = "https://open-vsx.org/api/standard/vscode-standard/2.1.1/file/standard.vscode-standard-2.1.1.vsix" # standard.vscode-standard
+src.manual = "2.1.2" # standard.vscode-standard
+fetch.url = "https://open-vsx.org/api/standard/vscode-standard/2.1.2/file/standard.vscode-standard-2.1.2.vsix" # standard.vscode-standard
 passthru = { publisher = "standard", name = "vscode-standard", description = "Visual Studio Code extension for JavaScript Standard Style with automatic fixing.", license = "MIT" }
 
 [koog1000-fossil]
@@ -9725,8 +9725,8 @@ fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.7/file/r
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
-src.manual = "0.1.6" # t-codespaces.ide-data-sync
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.6/file/t-codespaces.ide-data-sync-0.1.6.vsix" # t-codespaces.ide-data-sync
+src.manual = "0.1.7" # t-codespaces.ide-data-sync
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.7/file/t-codespaces.ide-data-sync-0.1.7.vsix" # t-codespaces.ide-data-sync
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
@@ -10058,8 +10058,8 @@ passthru = { publisher = "gera2ld", name = "ipfs-editor-vscode", description = "
 
 
 [t-codespaces-ide-data-sync-node]
-src.manual = "0.0.2" # t-codespaces.ide-data-sync-node
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync-node/0.0.2/file/t-codespaces.ide-data-sync-node-0.0.2.vsix" # t-codespaces.ide-data-sync-node
+src.manual = "0.1.7" # t-codespaces.ide-data-sync-node
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.7/file/t-codespaces.ide-data-sync-0.1.7.vsix" # t-codespaces.ide-data-sync-node
 passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", description = "端云一体 vscode-remote node 端消费插件", license = "" }
 
 
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.0.6" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.6/file/arm.keil-studio-pack-web-1.0.6.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10185,6 +10185,7 @@ passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Ex
 src.manual = "1.1.21" # monokai.theme-monokai-pro-vscode
 fetch.url = "https://open-vsx.org/api/monokai/theme-monokai-pro-vscode/1.1.21/file/monokai.theme-monokai-pro-vscode-1.1.21.vsix" # monokai.theme-monokai-pro-vscode
 passthru = { publisher = "monokai", name = "theme-monokai-pro-vscode", description = "Professional theme and matching icons, from the author of the original Monokai color scheme.", license = "" }
+
 
 
 
