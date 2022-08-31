@@ -7734,11 +7734,6 @@ src.manual = "0.5.11" # gregoire.dance
 fetch.url = "https://open-vsx.org/api/gregoire/dance/0.5.11/file/gregoire.dance-0.5.11.vsix" # gregoire.dance
 passthru = { publisher = "gregoire", name = "dance", description = "Kakoune-inspired key bindings, modes, menus and scripting.", license = "ISC" }
 
-[learnpack-learnpack-vscode]
-src.manual = "0.0.7" # learnpack.learnpack-vscode
-fetch.url = "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.7/file/learnpack.learnpack-vscode-0.0.7.vsix" # learnpack.learnpack-vscode
-passthru = { publisher = "learnpack", name = "learnpack-vscode", description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.", license = "MIT" }
-
 [hashicorp-terraform]
 src.manual = "2.20.0" # hashicorp.terraform
 fetch.url = "https://open-vsx.org/api/hashicorp/terraform/2.20.0/file/hashicorp.terraform-2.20.0.vsix" # hashicorp.terraform
