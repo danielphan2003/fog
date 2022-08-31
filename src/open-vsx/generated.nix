@@ -5343,10 +5343,10 @@
   };
   anweber-statusbar-commands = {
     pname = "anweber-statusbar-commands";
-    version = "2.3.1";
+    version = "2.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.3.1/file/anweber.statusbar-commands-2.3.1.vsix";
-      sha256 = "sha256-UoGe0jYlOMe1RUb7hZD2z19SnUTdT9ryExU46JTUggc=";
+      url = "https://open-vsx.org/api/anweber/statusbar-commands/2.4.0/file/anweber.statusbar-commands-2.4.0.vsix";
+      sha256 = "sha256-zDoWY7D1+QmU07K4Ql5hZL93BjKD1huY5XjztO7rzkU=";
     };
     license = "ISC";
     name = "statusbar-commands";
@@ -10385,8 +10385,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
