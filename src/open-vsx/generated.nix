@@ -5549,8 +5549,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.6/file/arm.keil-studio-pack-web-1.0.6.vsix";
-      sha256 = "sha256-UdNP1kIHW4000hV5qmrsazzEclk9fxTJMwVLzaaIGbA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
+      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -6183,10 +6183,10 @@
   };
   betterthantomorrow-calva = {
     pname = "betterthantomorrow-calva";
-    version = "2.0.297";
+    version = "2.0.298";
     src = fetchurl {
-      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.297/file/betterthantomorrow.calva-2.0.297.vsix";
-      sha256 = "sha256-0hpslSJBiB6rFV5Ismnt7oNKcVbplkSmc5FzAUj5p5g=";
+      url = "https://open-vsx.org/api/betterthantomorrow/calva/2.0.298/file/betterthantomorrow.calva-2.0.298.vsix";
+      sha256 = "sha256-krBpCPcVW4l0uyAgJ4UOv3J/1wBZzau+VftZH1JfjWE=";
     };
     license = "MIT";
     name = "calva";
@@ -7791,10 +7791,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.3";
+    version = "0.13.4";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.3/file/d-biehl.robotcode-0.13.3.vsix";
-      sha256 = "sha256-UwmMC/URPzCYtTCfyckHRpcXpRwuuoatD7iINabis7s=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.4/file/d-biehl.robotcode-0.13.4.vsix";
+      sha256 = "sha256-tI65WKM64Y5GZp5uGfy9m81EwXJNfRkHAjaOIHLcQZY=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -8127,10 +8127,10 @@
   };
   deadlock-deadlock-gitpod = {
     pname = "deadlock-deadlock-gitpod";
-    version = "0.1.8";
+    version = "0.1.9";
     src = fetchurl {
-      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.8/file/deadlock.deadlock-gitpod-0.1.8.vsix";
-      sha256 = "sha256-9T+4QqKrkl/e6M3sudcr4JnP9w7Nvi6iB/qXhMUR5a4=";
+      url = "https://open-vsx.org/api/deadlock/deadlock-gitpod/0.1.9/file/deadlock.deadlock-gitpod-0.1.9.vsix";
+      sha256 = "sha256-Au56j5YlO65aWVaUrA+3yi4zrTPhN/nChnh5gdhvltE=";
     };
     license = "MIT";
     name = "deadlock-gitpod";
@@ -18735,10 +18735,10 @@
   };
   sasjs-sasjs-for-vscode = {
     pname = "sasjs-sasjs-for-vscode";
-    version = "1.17.1";
+    version = "1.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.17.1/file/sasjs.sasjs-for-vscode-1.17.1.vsix";
-      sha256 = "sha256-k5zD9kn0zIFdiXxzqE4AuXWCskEtqWYFQ0PvFZ8Tj90=";
+      url = "https://open-vsx.org/api/sasjs/sasjs-for-vscode/1.18.0/file/sasjs.sasjs-for-vscode-1.18.0.vsix";
+      sha256 = "sha256-ABMewGG5/FRn4wFxh4ijOJkpERGvK7e7uDqMEFpSaIY=";
     };
     license = "MIT";
     name = "sasjs-for-vscode";
@@ -19179,10 +19179,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.7.0";
+    version = "0.6.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
-      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
+      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -19613,8 +19613,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -24063,10 +24063,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
