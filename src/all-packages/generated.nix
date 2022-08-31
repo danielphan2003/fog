@@ -240,16 +240,16 @@
   };
   cinny-desktop = {
     pname = "cinny-desktop";
-    version = "ac9bd402f98827a394382115f2ad04d68c4138f6";
+    version = "3cce94ed3c15376eef1bc37ce70b4033d2ecb3f2";
     src = fetchFromGitHub ({
       owner = "cinnyapp";
       repo = "cinny-desktop";
-      rev = "ac9bd402f98827a394382115f2ad04d68c4138f6";
+      rev = "3cce94ed3c15376eef1bc37ce70b4033d2ecb3f2";
       fetchSubmodules = true;
-      sha256 = "sha256-9JMOMOs7nulTcZaNIKwyjZPEvBKk1OKM1KpOwqjsofg=";
+      sha256 = "sha256-csefCD02t++t5k7oY5kBwl2MvXSUB1oSkWjsscnRLo0=";
     });
     cargoLock."src-tauri/Cargo.lock" = {
-      lockFile = ./cinny-desktop-ac9bd402f98827a394382115f2ad04d68c4138f6/src-tauri/Cargo.lock;
+      lockFile = ./cinny-desktop-3cce94ed3c15376eef1bc37ce70b4033d2ecb3f2/src-tauri/Cargo.lock;
       outputHashes = {
         
       };
@@ -257,10 +257,10 @@
   };
   cinny-desktop-bin = {
     pname = "cinny-desktop-bin";
-    version = "2.1.2";
+    version = "2.1.3";
     src = fetchurl {
-      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.1.2/Cinny_desktop-x86_64.AppImage";
-      sha256 = "sha256-3S6mx+Nt/eonjY6rAnOIZwdZ6NyJ2vJ1os0ll+lD0ow=";
+      url = "https://github.com/cinnyapp/cinny-desktop/releases/download/v2.1.3/Cinny_desktop-x86_64.AppImage";
+      sha256 = "sha256-lIiRhS3jwhjIpX4f3ofo5pEXpGdCMsPFroBNvXmyIxU=";
     };
   };
   conduit = {
@@ -351,13 +351,13 @@
   };
   droidcam = {
     pname = "droidcam";
-    version = "71a74d22ed700650a83b7cb653bd92b0ed3cd01a";
+    version = "d1c3206306f948a8e86c7a256f1ca1be09b114b1";
     src = fetchFromGitHub ({
       owner = "aramg";
       repo = "droidcam";
-      rev = "71a74d22ed700650a83b7cb653bd92b0ed3cd01a";
+      rev = "d1c3206306f948a8e86c7a256f1ca1be09b114b1";
       fetchSubmodules = false;
-      sha256 = "sha256-5m+btrwhlk/nIZSasu+fTK1NhK0KdugVeD0KYOt0vE4=";
+      sha256 = "sha256-a6pB4WgRWbJCseRWlMFLrTURFX6c/lfsuBfIiTmaDPA=";
     });
   };
   duf = {
@@ -1220,13 +1220,13 @@
   };
   tailscale = {
     pname = "tailscale";
-    version = "84b74825f000fa74ce3c884bf51a9a8416a294dc";
+    version = "be95aebabd96843cc8ae174b2935c5f6064157fd";
     src = fetchFromGitHub ({
       owner = "tailscale";
       repo = "tailscale";
-      rev = "84b74825f000fa74ce3c884bf51a9a8416a294dc";
+      rev = "be95aebabd96843cc8ae174b2935c5f6064157fd";
       fetchSubmodules = false;
-      sha256 = "sha256-fAE7mmLufNO4y+MKEMGPxMBcIa56OL+CY7gKS/f/rPQ=";
+      sha256 = "sha256-5nBt0HntkGTeGKi+NkzSNm9YtNpE1+/pTOem/tMhc84=";
     });
   };
   tailscale-systray = {
