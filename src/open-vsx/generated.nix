@@ -387,10 +387,10 @@
   };
   BroadcomMFD-hlasm-language-support = {
     pname = "BroadcomMFD-hlasm-language-support";
-    version = "1.3.0";
+    version = "1.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.3.0/file/BroadcomMFD.hlasm-language-support-1.3.0.vsix";
-      sha256 = "sha256-UbrBXc54ka4IsaAp/OiIF0hMMzV06WUn9h7rXV+lXkE=";
+      url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.4.0/file/BroadcomMFD.hlasm-language-support-1.4.0.vsix";
+      sha256 = "sha256-xt3zFT5aNqqdApigiVk35ZkC9wbLhlefg2z66I2z2YA=";
     };
     license = "EPL-2.0";
     name = "hlasm-language-support";
@@ -14508,6 +14508,18 @@
     name = "mongodb-vscode";
     description = "Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.";
     publisher = "mongodb";
+  };
+  monokai-theme-monokai-pro-vscode = {
+    pname = "monokai-theme-monokai-pro-vscode";
+    version = "1.1.21";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/monokai/theme-monokai-pro-vscode/1.1.21/file/monokai.theme-monokai-pro-vscode-1.1.21.vsix";
+      sha256 = "sha256-pKDwULN70MlNYsHBNCyx0iLXglhESwn7Ly+Qcd2Kf74=";
+    };
+    license = "";
+    name = "theme-monokai-pro-vscode";
+    description = "Professional theme and matching icons, from the author of the original Monokai color scheme.";
+    publisher = "monokai";
   };
   monovaldes-linter-codeclimate = {
     pname = "monovaldes-linter-codeclimate";

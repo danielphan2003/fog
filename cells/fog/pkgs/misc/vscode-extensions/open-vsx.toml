@@ -8245,8 +8245,8 @@ fetch.url = "https://open-vsx.org/api/redhat/fabric8-analytics/0.3.6/file/redhat
 passthru = { publisher = "redhat", name = "fabric8-analytics", description = "Insights about your application dependencies: Security, License compatibility and AI based guidance to choose appropriate dependencies for your application.", license = "Apache-2.0" }
 
 [BroadcomMFD-hlasm-language-support]
-src.manual = "1.3.0" # BroadcomMFD.hlasm-language-support
-fetch.url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.3.0/file/BroadcomMFD.hlasm-language-support-1.3.0.vsix" # BroadcomMFD.hlasm-language-support
+src.manual = "1.4.0" # BroadcomMFD.hlasm-language-support
+fetch.url = "https://open-vsx.org/api/BroadcomMFD/hlasm-language-support/1.4.0/file/BroadcomMFD.hlasm-language-support-1.4.0.vsix" # BroadcomMFD.hlasm-language-support
 passthru = { publisher = "BroadcomMFD", name = "hlasm-language-support", description = "Code completion, highlighting, browsing and validation for High Level Assembler.", license = "EPL-2.0" }
 
 [BroadcomMFD-cobol-language-support]
@@ -10179,4 +10179,10 @@ passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Ex
 
 
 
+
+
+[monokai-theme-monokai-pro-vscode]
+src.manual = "1.1.21" # monokai.theme-monokai-pro-vscode
+fetch.url = "https://open-vsx.org/api/monokai/theme-monokai-pro-vscode/1.1.21/file/monokai.theme-monokai-pro-vscode-1.1.21.vsix" # monokai.theme-monokai-pro-vscode
+passthru = { publisher = "monokai", name = "theme-monokai-pro-vscode", description = "Professional theme and matching icons, from the author of the original Monokai color scheme.", license = "" }
 
