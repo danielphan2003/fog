@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "258bc82b69ccb0f514fc62ec8ecd7273458ab2e4";
+    version = "687a4b9e81c7b0b08c760ec33808c721d6775e0e";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "258bc82b69ccb0f514fc62ec8ecd7273458ab2e4";
+      rev = "687a4b9e81c7b0b08c760ec33808c721d6775e0e";
       fetchSubmodules = false;
-      sha256 = "sha256-Ujav4pvacp6IN0uVbT6j0CKSxQIyoHgOJ1P54YYIrLE=";
+      sha256 = "sha256-hVONJMAA44r2Vu/vwGB4tAYvYjIlg9+piGr4kkvxPQ0=";
     });
   };
   cinny = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "56f66f68e246d0ff69b7132511ddfd5c57715736";
+    version = "08fe9be7d1bebc48ea685b35b645fc18208b6170";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "56f66f68e246d0ff69b7132511ddfd5c57715736";
+      rev = "08fe9be7d1bebc48ea685b35b645fc18208b6170";
       fetchSubmodules = false;
-      sha256 = "sha256-uHVflk29d4ZAbMYSTaGGGKJ1X1LxCDZ/qrp9CBetTpA=";
+      sha256 = "sha256-s/ZB+gSryUANqbdXZDhBQ/3TF50ZW5PKPfJby+F1+rM=";
     });
   };
   revanced-cli = {
@@ -951,10 +951,10 @@
   };
   revanced-patches-jar = {
     pname = "revanced-patches-jar";
-    version = "2.48.1";
+    version = "2.49.0";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-patches/releases/download/v2.48.1/revanced-patches-2.48.1.jar";
-      sha256 = "sha256-ftq+spT3ihLcTVO/E6jalZxqp2CABfmw9YXUeOqAbB4=";
+      url = "https://github.com/revanced/revanced-patches/releases/download/v2.49.0/revanced-patches-2.49.0.jar";
+      sha256 = "sha256-8dpgI4B7lv53LBtszudDkK9bM7xme0a+eVZ04ypvs3U=";
     };
   };
   rofi-wayland = {
