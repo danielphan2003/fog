@@ -6711,10 +6711,10 @@
   };
   byCedric-vscode-expo = {
     pname = "byCedric-vscode-expo";
-    version = "0.8.0";
+    version = "0.8.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.8.0/file/byCedric.vscode-expo-0.8.0.vsix";
-      sha256 = "sha256-kNfopBvBnaSfRXq9s9NOFYJSxCfDSgE0VasYqX9yFXg=";
+      url = "https://open-vsx.org/api/byCedric/vscode-expo/0.8.1/file/byCedric.vscode-expo-0.8.1.vsix";
+      sha256 = "sha256-GQIH6iNnZvfBqiZKFxFHX8n3EeGCSkRKeJYBNxg8mv0=";
     };
     license = "MIT";
     name = "vscode-expo";
@@ -11595,10 +11595,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.25";
+    version = "0.3.26";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.25/file/iterative.dvc-0.3.25.vsix";
-      sha256 = "sha256-vURQ/Ek2NNdaQ1CfPlJEXKmxLBxOVFyP6BcR+0JOoxE=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.26/file/iterative.dvc-0.3.26.vsix";
+      sha256 = "sha256-fxyfJkdaUnhb4BhqJn6v9M9Q69QZboUqolDVknT/Mys=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -12843,10 +12843,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -17691,10 +17691,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.12.57";
+    version = "0.13.59";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.12.57/file/redhat.ansible-0.12.57.vsix";
-      sha256 = "sha256-qwfw4NT6a8ekRALoxkwiu46aQ3h7+dtUmniXTQBxoUM=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.13.59/file/redhat.ansible-0.13.59.vsix";
+      sha256 = "sha256-2tP3YmGARGRLykcXlg6DjIO9QgAlger0uHwSczGZp4c=";
     };
     license = "MIT";
     name = "ansible";
@@ -19191,10 +19191,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";
@@ -24075,10 +24075,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
