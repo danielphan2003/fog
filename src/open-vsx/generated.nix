@@ -1083,10 +1083,10 @@
   };
   F5DevCentral-vscode-f5-chariot = {
     pname = "F5DevCentral-vscode-f5-chariot";
-    version = "3.8.3";
+    version = "3.8.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.3/file/F5DevCentral.vscode-f5-3.8.3.vsix";
-      sha256 = "sha256-nWDVstLcN5AlStn73fhng/gc9sWONLlPOKeqVBG0g88=";
+      url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.5/file/F5DevCentral.vscode-f5-3.8.5.vsix";
+      sha256 = "sha256-ge9fGv7r7gvuEyMWt6WnCMe6ET4ug0RMVUpxNCO1huI=";
     };
     license = "Apache-2.0";
     name = "vscode-f5-chariot";
@@ -3087,10 +3087,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "4.2.0";
+    version = "4.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/4.2.0/file/Prisma.prisma-4.2.0.vsix";
-      sha256 = "sha256-1U3JlWfIlTt0AMPsiP3vD2ZEzD2oUsYsqRRwBQeoLIA=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix";
+      sha256 = "sha256-NrFYZ4jB2KJp9Kn3p41R5+rlbhi46eV4PdlQ+BwJl+E=";
     };
     license = "Apache-2.0";
     name = "prisma";
@@ -3099,10 +3099,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "31.0.1362";
+    version = "4.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma-insider/31.0.1362/file/Prisma.prisma-insider-31.0.1362.vsix";
-      sha256 = "sha256-K+XFDHOLo44FP3q6cu8xEOn+emg/Mk5BuSyaK129ggE=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix";
+      sha256 = "sha256-NrFYZ4jB2KJp9Kn3p41R5+rlbhi46eV4PdlQ+BwJl+E=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -5535,10 +5535,10 @@
   };
   arm-keil-studio-pack = {
     pname = "arm-keil-studio-pack";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix";
-      sha256 = "sha256-2flNLBWKbCFDwCqr5qeUjzEPb+FSyCJB058B0blpkkA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
+      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
     };
     license = "MIT";
     name = "keil-studio-pack";
@@ -5547,10 +5547,10 @@
   };
   arm-keil-studio-pack-web = {
     pname = "arm-keil-studio-pack-web";
-    version = "1.0.5";
+    version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.5/file/arm.keil-studio-pack-1.0.5.vsix";
-      sha256 = "sha256-2flNLBWKbCFDwCqr5qeUjzEPb+FSyCJB058B0blpkkA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
+      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -6327,10 +6327,10 @@
   };
   bmalehorn-vscode-fish = {
     pname = "bmalehorn-vscode-fish";
-    version = "1.0.29";
+    version = "1.0.31";
     src = fetchurl {
-      url = "https://open-vsx.org/api/bmalehorn/vscode-fish/1.0.29/file/bmalehorn.vscode-fish-1.0.29.vsix";
-      sha256 = "sha256-H1/gjQPWXuiFu68aoO4i3YE1wFHnl2ELTzMDG8QnQvw=";
+      url = "https://open-vsx.org/api/bmalehorn/vscode-fish/1.0.31/file/bmalehorn.vscode-fish-1.0.31.vsix";
+      sha256 = "sha256-fGA1cwA+12Pp8y6d6VWyLcZS9dQBOP7VXcK9T4RPZ9U=";
     };
     license = "MIT";
     name = "vscode-fish";
@@ -8187,10 +8187,10 @@
   };
   dendron-dendron-markdown-links = {
     pname = "dendron-dendron-markdown-links";
-    version = "0.109.0";
+    version = "0.110.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.109.0/file/dendron.dendron-0.109.0.vsix";
-      sha256 = "sha256-TowkpY6mVuNUnBcM852X1VVAtxwf0XIH+xPC19lbQ2s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
+      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
     };
     license = "MIT";
     name = "dendron-markdown-links";
@@ -8199,10 +8199,10 @@
   };
   dendron-dendron-markdown-notes = {
     pname = "dendron-dendron-markdown-notes";
-    version = "0.109.0";
+    version = "0.110.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.109.0/file/dendron.dendron-0.109.0.vsix";
-      sha256 = "sha256-TowkpY6mVuNUnBcM852X1VVAtxwf0XIH+xPC19lbQ2s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
+      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
     };
     license = "GPL-3.0";
     name = "dendron-markdown-notes";
@@ -8211,10 +8211,10 @@
   };
   dendron-dendron-markdown-preview-enhanced = {
     pname = "dendron-dendron-markdown-preview-enhanced";
-    version = "0.109.0";
+    version = "0.110.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.109.0/file/dendron.dendron-0.109.0.vsix";
-      sha256 = "sha256-TowkpY6mVuNUnBcM852X1VVAtxwf0XIH+xPC19lbQ2s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
+      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
     };
     license = "NCSA";
     name = "dendron-markdown-preview-enhanced";
@@ -8223,10 +8223,10 @@
   };
   dendron-dendron-markdown-shortcuts = {
     pname = "dendron-dendron-markdown-shortcuts";
-    version = "0.109.0";
+    version = "0.110.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.109.0/file/dendron.dendron-0.109.0.vsix";
-      sha256 = "sha256-TowkpY6mVuNUnBcM852X1VVAtxwf0XIH+xPC19lbQ2s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
+      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
     };
     license = "MIT";
     name = "dendron-markdown-shortcuts";
@@ -8235,10 +8235,10 @@
   };
   dendron-dendron-paste-image = {
     pname = "dendron-dendron-paste-image";
-    version = "0.109.0";
+    version = "0.110.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.109.0/file/dendron.dendron-0.109.0.vsix";
-      sha256 = "sha256-TowkpY6mVuNUnBcM852X1VVAtxwf0XIH+xPC19lbQ2s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
+      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
     };
     license = "MIT";
     name = "dendron-paste-image";
@@ -8247,10 +8247,10 @@
   };
   dendron-dendron-snippet-maker = {
     pname = "dendron-dendron-snippet-maker";
-    version = "0.109.0";
+    version = "0.110.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/dendron/dendron/0.109.0/file/dendron.dendron-0.109.0.vsix";
-      sha256 = "sha256-TowkpY6mVuNUnBcM852X1VVAtxwf0XIH+xPC19lbQ2s=";
+      url = "https://open-vsx.org/api/dendron/dendron/0.110.0/file/dendron.dendron-0.110.0.vsix";
+      sha256 = "sha256-rb/zUOqCI6i4Z5v8rTfAmApOBfExu5OByr5Ncl/elE8=";
     };
     license = "MIT";
     name = "dendron-snippet-maker";
@@ -8679,10 +8679,10 @@
   };
   eamodio-gitlens = {
     pname = "eamodio-gitlens";
-    version = "12.1.2";
+    version = "12.2.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/eamodio/gitlens/12.1.2/file/eamodio.gitlens-12.1.2.vsix";
-      sha256 = "sha256-qclBbZeGH7ODYAruhTi7X5FTRcai29nGTpSbeF129XI=";
+      url = "https://open-vsx.org/api/eamodio/gitlens/12.2.0/file/eamodio.gitlens-12.2.0.vsix";
+      sha256 = "sha256-ZEqk3BMEjigIQkay6bP+DK1y4McpG2uvUeI0duIRGxw=";
     };
     license = "MIT";
     name = "gitlens";
@@ -9471,10 +9471,10 @@
   };
   fernandoescolar-vscode-solution-explorer = {
     pname = "fernandoescolar-vscode-solution-explorer";
-    version = "0.6.2";
+    version = "0.6.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.2/file/fernandoescolar.vscode-solution-explorer-0.6.2.vsix";
-      sha256 = "sha256-sTITQXzW6239FGBLiIjsiFFTHUJsdixpjfRks6xf+1o=";
+      url = "https://open-vsx.org/api/fernandoescolar/vscode-solution-explorer/0.6.3/file/fernandoescolar.vscode-solution-explorer-0.6.3.vsix";
+      sha256 = "sha256-qtWwIaSWyNiJ+J+5g81C+ELcIcsgswoTRQMbdms0PZM=";
     };
     license = "MIT";
     name = "vscode-solution-explorer";
@@ -10373,8 +10373,8 @@
     pname = "grammarcraft-epsilon-eag-dark-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix";
-      sha256 = "sha256-CzjjddQiYLNKMQ75cmlkwADdBAOiUgcfXBgvnOVpvKw=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-dark-theme";
@@ -10527,10 +10527,10 @@
   };
   halcyontechltd-vscode-rpgle = {
     pname = "halcyontechltd-vscode-rpgle";
-    version = "0.10.1";
+    version = "0.10.2";
     src = fetchurl {
-      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.1/file/halcyontechltd.vscode-rpgle-0.10.1.vsix";
-      sha256 = "sha256-iQshSLgXhezLbYSYAKIV89APElh7eCDO9WRZrheHlDI=";
+      url = "https://open-vsx.org/api/halcyontechltd/vscode-rpgle/0.10.2/file/halcyontechltd.vscode-rpgle-0.10.2.vsix";
+      sha256 = "sha256-gEBH5fQCUN6wpOLzAPfEdQv8a0SLuTSvEYmxgCA+pv0=";
     };
     license = "MIT";
     name = "vscode-rpgle";
@@ -11583,10 +11583,10 @@
   };
   iterative-dvc = {
     pname = "iterative-dvc";
-    version = "0.3.24";
+    version = "0.3.25";
     src = fetchurl {
-      url = "https://open-vsx.org/api/iterative/dvc/0.3.24/file/iterative.dvc-0.3.24.vsix";
-      sha256 = "sha256-OGqGM+DHDTygaKtiM8AsrgvpBLePkUaE8EZZWcwpsTg=";
+      url = "https://open-vsx.org/api/iterative/dvc/0.3.25/file/iterative.dvc-0.3.25.vsix";
+      sha256 = "sha256-vURQ/Ek2NNdaQ1CfPlJEXKmxLBxOVFyP6BcR+0JOoxE=";
     };
     license = "Apache-2.0";
     name = "dvc";
@@ -11859,10 +11859,10 @@
   };
   jeanp413-open-remote-ssh = {
     pname = "jeanp413-open-remote-ssh";
-    version = "0.0.6";
+    version = "0.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.6/file/jeanp413.open-remote-ssh-0.0.6.vsix";
-      sha256 = "sha256-z8bg/00cWn0EKDzFDvrfq82f1pHx6hS/8JMXiYUb1+0=";
+      url = "https://open-vsx.org/api/jeanp413/open-remote-ssh/0.0.7/file/jeanp413.open-remote-ssh-0.0.7.vsix";
+      sha256 = "sha256-XyrHED6L64gabLxuvsT/hCN+gPqxTy5JlWbjSA9Qvwc=";
     };
     license = "MIT";
     name = "open-remote-ssh";
@@ -13155,10 +13155,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.8.1661435685";
+    version = "2022.8.1661891737";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661435685/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661435685.vsix";
-      sha256 = "sha256-F6nOB3qqriEmzYrykolO3febfanj1f9k9fPAPJY9QhQ=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661891737/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661891737.vsix";
+      sha256 = "sha256-+NvdDJUJNjaaHL9wIeDjLv/EGVwlDnLRYfLf+oXPFwI=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -13212,18 +13212,6 @@
     name = "learnpack-vscode";
     description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.";
     publisher = "learn-pack";
-  };
-  learnpack-learnpack-vscode = {
-    pname = "learnpack-learnpack-vscode";
-    version = "0.0.7";
-    src = fetchurl {
-      url = "https://open-vsx.org/api/learnpack/learnpack-vscode/0.0.7/file/learnpack.learnpack-vscode-0.0.7.vsix";
-      sha256 = "sha256-sxk1MD3j1E0iOxXNEqx5jwfQSRkRtEzU4fWupOCxjhA=";
-    };
-    license = "MIT";
-    name = "learnpack-vscode";
-    description = "Seamlessly build or take interactive & auto-graded tutorials, start learning now or build a tutorial.";
-    publisher = "learnpack";
   };
   lefd-sweetdracula-monokai = {
     pname = "lefd-sweetdracula-monokai";
@@ -13635,10 +13623,10 @@
   };
   malipetek-liquivelte = {
     pname = "malipetek-liquivelte";
-    version = "0.1.0";
+    version = "1.0.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/malipetek/liquivelte/0.1.0/file/malipetek.liquivelte-0.1.0.vsix";
-      sha256 = "sha256-VS5DbqlZ2/iHL/xyq9NOJIQ4q1T3/OAN77nWULoy/xo=";
+      url = "https://open-vsx.org/api/malipetek/liquivelte/1.0.1/file/malipetek.liquivelte-1.0.1.vsix";
+      sha256 = "sha256-LgIbqKGX/ngcITuokmlsX53EiJpAQQtMxUt5IzQZGPY=";
     };
     license = "MIT";
     name = "liquivelte";
@@ -15099,10 +15087,10 @@
   };
   ms-vscode-live-server = {
     pname = "ms-vscode-live-server";
-    version = "0.2.13";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/live-server/0.2.13/file/ms-vscode.live-server-0.2.13.vsix";
-      sha256 = "sha256-QAX6GATHVu6umnbGULLnH8Qlo6gATtlKRkrPcBqxp2w=";
+      url = "https://open-vsx.org/api/ms-vscode/live-server/0.4.0/file/ms-vscode.live-server-0.4.0.vsix";
+      sha256 = "sha256-TKPf/sGgusXpxYN+jXitY7TeBdEqsk7kj7Qm9AOgIy8=";
     };
     license = "MIT";
     name = "live-server";
@@ -15171,10 +15159,10 @@
   };
   ms-vscode-powershell-preview = {
     pname = "ms-vscode-powershell-preview";
-    version = "2022.7.2";
+    version = "2022.8.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.7.2/file/ms-vscode.powershell-2022.7.2.vsix";
-      sha256 = "sha256-YL90dRmOvfbizT+hfkNu267JtG122LTMS9MHCfaMzkk=";
+      url = "https://open-vsx.org/api/ms-vscode/powershell/2022.8.5/file/ms-vscode.powershell-2022.8.5.vsix";
+      sha256 = "sha256-QwsVUakeSsdxiYdS1Z2+9jnPEyp0MeXNaaN038wJGCU=";
     };
     license = "MIT";
     name = "powershell-preview";
@@ -17415,10 +17403,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.33.0";
+    version = "1.34.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.33.0/file/quarto.quarto-1.33.0.vsix";
-      sha256 = "sha256-+9vRzn03nIuH7JaN8vB5kNQlMpveyx2fRH4nrQIfWEc=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.34.0/file/quarto.quarto-1.34.0.vsix";
+      sha256 = "sha256-POiqsn0N+tLnM0QwUIZnbTDR1YWowrCKl4AMSst8Okw=";
     };
     license = "MIT";
     name = "quarto";
@@ -18051,10 +18039,10 @@
   };
   remcohaszing-schemastore = {
     pname = "remcohaszing-schemastore";
-    version = "1.0.14";
+    version = "1.0.15";
     src = fetchurl {
-      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.14/file/remcohaszing.schemastore-1.0.14.vsix";
-      sha256 = "sha256-TjsFyR49GiIVmdtwMAOaZ/4o449oRU7tH6g4EBZFUMg=";
+      url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.15/file/remcohaszing.schemastore-1.0.15.vsix";
+      sha256 = "sha256-pyfL9Qg8jsFEyOpUGMBIp+ttjph26QPwPObigqz7U5E=";
     };
     license = "MIT";
     name = "schemastore";
@@ -18159,10 +18147,10 @@
   };
   ritwickdey-LiveServer = {
     pname = "ritwickdey-LiveServer";
-    version = "5.7.5";
+    version = "5.7.8";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.5/file/ritwickdey.LiveServer-5.7.5.vsix";
-      sha256 = "sha256-masfEbq+dAVO3JOJyMZ9TwHzULaK3KYJQrnmFbCPZ6U=";
+      url = "https://open-vsx.org/api/ritwickdey/LiveServer/5.7.8/file/ritwickdey.LiveServer-5.7.8.vsix";
+      sha256 = "sha256-GTYZcYqPygL9at28J0Fww4rr5Gq4c3IhynMVA8l+y4o=";
     };
     license = "MIT";
     name = "LiveServer";
@@ -18675,10 +18663,10 @@
   };
   samuelcolvin-jinjahtml = {
     pname = "samuelcolvin-jinjahtml";
-    version = "0.17.0";
+    version = "0.18.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.17.0/file/samuelcolvin.jinjahtml-0.17.0.vsix";
-      sha256 = "sha256-vvNuK9apNl0OgpAsYiL3ITSyYiwylVQVhbo1jw88+6k=";
+      url = "https://open-vsx.org/api/samuelcolvin/jinjahtml/0.18.0/file/samuelcolvin.jinjahtml-0.18.0.vsix";
+      sha256 = "sha256-rGjIzCcJ+lR74cC3U5v4jfKEOI9sGfDSAjyowKq5Q1A=";
     };
     license = "MIT";
     name = "jinjahtml";
@@ -19613,8 +19601,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";
@@ -23871,10 +23859,10 @@
   };
   zardoy-zardoy-experiments = {
     pname = "zardoy-zardoy-experiments";
-    version = "0.0.75";
+    version = "0.0.77";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.75/file/zardoy.zardoy-experiments-0.0.75.vsix";
-      sha256 = "sha256-vH/ZrNil11J+lTl3yOZsO7hVlg3I3b9Z8VLSEKwDTc8=";
+      url = "https://open-vsx.org/api/zardoy/zardoy-experiments/0.0.77/file/zardoy.zardoy-experiments-0.0.77.vsix";
+      sha256 = "sha256-mXxMzMqhbfnYlSiBGz0PPZ07kEyRgAPw9zslXl/MxSQ=";
     };
     license = "MIT";
     name = "zardoy-experiments";
