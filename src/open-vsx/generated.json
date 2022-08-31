@@ -8733,11 +8733,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8KfqzIFnm5mPL1C/H0K2rsi17vY71dNF+mzt2DHDW4c=",
+            "sha256": "sha256-8UjZNyu87Bbvpy8tU2cizogiS8sM7/zgxhi/ZfuHmxg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.2.0/file/arm.cmsis-csolution-0.2.0.vsix"
+            "url": "https://open-vsx.org/api/arm/cmsis-csolution/0.4.0/file/arm.cmsis-csolution-0.4.0.vsix"
         },
-        "version": "0.2.0"
+        "version": "0.4.0"
     },
     "arm-device-manager": {
         "cargoLocks": null,
@@ -9265,11 +9265,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-+hPb9nieqV7Tjkw/ITnYHofLKGqXNKy7OniStlVJLqg=",
+            "sha256": "sha256-BYy8PWrkegUg6WC1F8a1vUjKQOwsB+GujswZWYZi66Y=",
             "type": "url",
-            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.23.0/file/astro-build.astro-vscode-0.23.0.vsix"
+            "url": "https://open-vsx.org/api/astro-build/astro-vscode/0.23.1/file/astro-build.astro-vscode-0.23.1.vsix"
         },
-        "version": "0.23.0"
+        "version": "0.23.1"
     },
     "asvetliakov-vscode-neovim": {
         "cargoLocks": null,
@@ -15174,11 +15174,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-DhOCeFCOi6vKURrtaqm4kTZI1NTtsScmBdvXKi0xoS0=",
+            "sha256": "sha256-GLeibGPI/9xbfiUMijFcHOKTaUWHvCM6GInlZ+OrWDU=",
             "type": "url",
-            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.54/file/firsttris.vscode-jest-runner-0.4.54.vsix"
+            "url": "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.55/file/firsttris.vscode-jest-runner-0.4.55.vsix"
         },
-        "version": "0.4.54"
+        "version": "0.4.55"
     },
     "fivethree-vscode-hugo-snippets": {
         "cargoLocks": null,
@@ -20342,11 +20342,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=",
+            "sha256": "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=",
             "type": "url",
-            "url": "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix"
+            "url": "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix"
         },
-        "version": "20.6.0"
+        "version": "22.6.0"
     },
     "kokakiwi-vscode-capnproto": {
         "cargoLocks": null,
@@ -20817,11 +20817,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=",
+            "sha256": "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix"
+            "url": "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix"
         },
-        "version": "0.5.4"
+        "version": "0.4.178"
     },
     "launchdarklyofficial-launchdarkly": {
         "cargoLocks": null,
@@ -28018,11 +28018,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UGbPKXOR1rE+YUHaQmbPf1ATkA+NdeZy5SYecxXhduw=",
+            "sha256": "sha256-qwfw4NT6a8ekRALoxkwiu46aQ3h7+dtUmniXTQBxoUM=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.12.56/file/redhat.ansible-0.12.56.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.12.57/file/redhat.ansible-0.12.57.vsix"
         },
-        "version": "0.12.56"
+        "version": "0.12.57"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,
@@ -28094,11 +28094,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-wMI2Db2wx8MR6Jrcx46C3lMruwUaGs7Fpg1K6lGvuiQ=",
+            "sha256": "sha256-Ra2flTEcJ56GIIrjbPk59DZ0b5F9zIcoK3eV+TzSrxw=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/java/1.9.0/file/redhat.java-1.9.0.vsix"
+            "url": "https://open-vsx.org/api/redhat/java/1.10.0/file/redhat.java-1.10.0.vsix"
         },
-        "version": "1.9.0"
+        "version": "1.10.0"
     },
     "redhat-mta-vscode-extension": {
         "cargoLocks": null,
@@ -31077,9 +31077,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=",
+            "sha256": "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix"
+            "url": "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix"
         },
         "version": "2.2.5"
     },

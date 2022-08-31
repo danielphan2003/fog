@@ -5511,10 +5511,10 @@
   };
   arm-cmsis-csolution = {
     pname = "arm-cmsis-csolution";
-    version = "0.2.0";
+    version = "0.4.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.2.0/file/arm.cmsis-csolution-0.2.0.vsix";
-      sha256 = "sha256-8KfqzIFnm5mPL1C/H0K2rsi17vY71dNF+mzt2DHDW4c=";
+      url = "https://open-vsx.org/api/arm/cmsis-csolution/0.4.0/file/arm.cmsis-csolution-0.4.0.vsix";
+      sha256 = "sha256-8UjZNyu87Bbvpy8tU2cizogiS8sM7/zgxhi/ZfuHmxg=";
     };
     license = "";
     name = "cmsis-csolution";
@@ -5847,10 +5847,10 @@
   };
   astro-build-astro-vscode = {
     pname = "astro-build-astro-vscode";
-    version = "0.23.0";
+    version = "0.23.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.23.0/file/astro-build.astro-vscode-0.23.0.vsix";
-      sha256 = "sha256-+hPb9nieqV7Tjkw/ITnYHofLKGqXNKy7OniStlVJLqg=";
+      url = "https://open-vsx.org/api/astro-build/astro-vscode/0.23.1/file/astro-build.astro-vscode-0.23.1.vsix";
+      sha256 = "sha256-BYy8PWrkegUg6WC1F8a1vUjKQOwsB+GujswZWYZi66Y=";
     };
     license = "MIT";
     name = "astro-vscode";
@@ -9579,10 +9579,10 @@
   };
   firsttris-vscode-jest-runner = {
     pname = "firsttris-vscode-jest-runner";
-    version = "0.4.54";
+    version = "0.4.55";
     src = fetchurl {
-      url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.54/file/firsttris.vscode-jest-runner-0.4.54.vsix";
-      sha256 = "sha256-DhOCeFCOi6vKURrtaqm4kTZI1NTtsScmBdvXKi0xoS0=";
+      url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.55/file/firsttris.vscode-jest-runner-0.4.55.vsix";
+      sha256 = "sha256-GLeibGPI/9xbfiUMijFcHOKTaUWHvCM6GInlZ+OrWDU=";
     };
     license = "MIT";
     name = "vscode-jest-runner";
@@ -12843,10 +12843,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
@@ -13143,10 +13143,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -17691,10 +17691,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.12.56";
+    version = "0.12.57";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.12.56/file/redhat.ansible-0.12.56.vsix";
-      sha256 = "sha256-UGbPKXOR1rE+YUHaQmbPf1ATkA+NdeZy5SYecxXhduw=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.12.57/file/redhat.ansible-0.12.57.vsix";
+      sha256 = "sha256-qwfw4NT6a8ekRALoxkwiu46aQ3h7+dtUmniXTQBxoUM=";
     };
     license = "MIT";
     name = "ansible";
@@ -17739,10 +17739,10 @@
   };
   redhat-java = {
     pname = "redhat-java";
-    version = "1.9.0";
+    version = "1.10.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/java/1.9.0/file/redhat.java-1.9.0.vsix";
-      sha256 = "sha256-wMI2Db2wx8MR6Jrcx46C3lMruwUaGs7Fpg1K6lGvuiQ=";
+      url = "https://open-vsx.org/api/redhat/java/1.10.0/file/redhat.java-1.10.0.vsix";
+      sha256 = "sha256-Ra2flTEcJ56GIIrjbPk59DZ0b5F9zIcoK3eV+TzSrxw=";
     };
     license = "EPL-2.0";
     name = "java";
@@ -19625,8 +19625,8 @@
     pname = "steedos-steedosdx-vscode-core";
     version = "2.2.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix";
-      sha256 = "sha256-ySTt2GFAHwC8k2thI4+GdSn87QnewCWEwpK8llcx4m8=";
+      url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix";
+      sha256 = "sha256-9IDxf9LbQPO74G4x7aGSXIBNiQZoqgexdqA0HW7Jq/k=";
     };
     license = "MIT";
     name = "steedosdx-vscode-core";

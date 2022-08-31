@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -4860,8 +4860,8 @@ fetch.url = "https://open-vsx.org/api/cloudstudio/metawork/0.0.8/file/cloudstudi
 passthru = { publisher = "cloudstudio", name = "metawork", description = "Cloud Studio 多人协作套件，让开发更高效！Cloud Studio MetaWork makes development more effective.", license = "MIT" }
 
 [firsttris-vscode-jest-runner]
-src.manual = "0.4.54" # firsttris.vscode-jest-runner
-fetch.url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.54/file/firsttris.vscode-jest-runner-0.4.54.vsix" # firsttris.vscode-jest-runner
+src.manual = "0.4.55" # firsttris.vscode-jest-runner
+fetch.url = "https://open-vsx.org/api/firsttris/vscode-jest-runner/0.4.55/file/firsttris.vscode-jest-runner-0.4.55.vsix" # firsttris.vscode-jest-runner
 passthru = { publisher = "firsttris", name = "vscode-jest-runner", description = "Simple way to run or debug a single (or multiple) tests from context-menu", license = "MIT" }
 
 [ms-toolsai-vscode-jupyter-powertoys]
@@ -7815,8 +7815,8 @@ fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22
 passthru = { publisher = "kodetech", name = "krom", description = "Krom support", license = "MIT" }
 
 [kodetech-krom-debug]
-src.manual = "20.6.0" # kodetech.krom-debug
-fetch.url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix" # kodetech.krom-debug
+src.manual = "22.6.0" # kodetech.krom-debug
+fetch.url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix" # kodetech.krom-debug
 passthru = { publisher = "kodetech", name = "krom-debug", description = "Debug your JavaScript code in Krom.", license = "" }
 
 [kodetech-kha-extension-pack]
@@ -9805,8 +9805,8 @@ fetch.url = "https://open-vsx.org/api/SonarSource/sonarlint-vscode/3.8.0/file/So
 passthru = { publisher = "SonarSource", name = "sonarlint-vscode", description = "SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.", license = "LGPL-3.0" }
 
 [astro-build-astro-vscode]
-src.manual = "0.23.0" # astro-build.astro-vscode
-fetch.url = "https://open-vsx.org/api/astro-build/astro-vscode/0.23.0/file/astro-build.astro-vscode-0.23.0.vsix" # astro-build.astro-vscode
+src.manual = "0.23.1" # astro-build.astro-vscode
+fetch.url = "https://open-vsx.org/api/astro-build/astro-vscode/0.23.1/file/astro-build.astro-vscode-0.23.1.vsix" # astro-build.astro-vscode
 passthru = { publisher = "astro-build", name = "astro-vscode", description = "Language support for Astro", license = "MIT" }
 
 [Prisma-prisma]
@@ -9930,8 +9930,8 @@ fetch.url = "https://open-vsx.org/api/PKief/material-icon-theme/4.20.0/file/PKie
 passthru = { publisher = "PKief", name = "material-icon-theme", description = "Material Design Icons for Visual Studio Code", license = "MIT" }
 
 [redhat-ansible]
-src.manual = "0.12.56" # redhat.ansible
-fetch.url = "https://open-vsx.org/api/redhat/ansible/0.12.56/file/redhat.ansible-0.12.56.vsix" # redhat.ansible
+src.manual = "0.12.57" # redhat.ansible
+fetch.url = "https://open-vsx.org/api/redhat/ansible/0.12.57/file/redhat.ansible-0.12.57.vsix" # redhat.ansible
 passthru = { publisher = "redhat", name = "ansible", description = "Ansible language support", license = "MIT" }
 
 [timonwong-shellcheck]
@@ -9965,8 +9965,8 @@ fetch.url = "https://open-vsx.org/api/TabNine/tabnine-vscode/3.6.14/file/TabNine
 passthru = { publisher = "TabNine", name = "tabnine-vscode", description = "cript, Python, Java, Typescript & all other languages - AI Code completion plugin. Tabnine makes developers more productive by auto-completing their code.", license = "License at https://tabnine.com/eula" }
 
 [redhat-java]
-src.manual = "1.9.0" # redhat.java
-fetch.url = "https://open-vsx.org/api/redhat/java/1.9.0/file/redhat.java-1.9.0.vsix" # redhat.java
+src.manual = "1.10.0" # redhat.java
+fetch.url = "https://open-vsx.org/api/redhat/java/1.10.0/file/redhat.java-1.10.0.vsix" # redhat.java
 passthru = { publisher = "redhat", name = "java", description = "Java Linting, Intellisense, formatting, refactoring, Maven/Gradle support and more...", license = "EPL-2.0" }
 
 [redhat-vscode-yaml]
@@ -9983,8 +9983,8 @@ passthru = { publisher = "redhat", name = "vscode-yaml", description = "YAML Lan
 
 
 [arm-cmsis-csolution]
-src.manual = "0.2.0" # arm.cmsis-csolution
-fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.2.0/file/arm.cmsis-csolution-0.2.0.vsix" # arm.cmsis-csolution
+src.manual = "0.4.0" # arm.cmsis-csolution
+fetch.url = "https://open-vsx.org/api/arm/cmsis-csolution/0.4.0/file/arm.cmsis-csolution-0.4.0.vsix" # arm.cmsis-csolution
 passthru = { publisher = "arm", name = "cmsis-csolution", description = "CMSIS csolution support", license = "" }
 
 
@@ -10194,4 +10194,5 @@ passthru = { publisher = "monokai", name = "theme-monokai-pro-vscode", descripti
 src.manual = "0.3.1" # Grafana.vscode-jsonnet
 fetch.url = "https://open-vsx.org/api/Grafana/vscode-jsonnet/0.3.1/file/Grafana.vscode-jsonnet-0.3.1.vsix" # Grafana.vscode-jsonnet
 passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full code support (formatting, highlighting, navigation, etc) for Jsonnet", license = "Apache License Version 2.0" }
+
 
