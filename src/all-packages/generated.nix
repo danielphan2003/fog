@@ -496,13 +496,13 @@
   };
   hyprland = {
     pname = "hyprland";
-    version = "0ad261aa9c408aa43b8ff846acf9dab97e29b927";
+    version = "dacaf72e02b8d1819135f6aef3911e8211e98630";
     src = fetchFromGitHub ({
       owner = "hyprwm";
       repo = "hyprland";
-      rev = "0ad261aa9c408aa43b8ff846acf9dab97e29b927";
+      rev = "dacaf72e02b8d1819135f6aef3911e8211e98630";
       fetchSubmodules = false;
-      sha256 = "sha256-/qMWX2/jplrtMoh1/6saFjNzU84IVTDV0iEXZ1y0UM0=";
+      sha256 = "sha256-nXicce3x3QL2k9D6heDx0sO/8I6aIcKqA4DcDN7QHC4=";
     });
   };
   ibus = {
@@ -697,10 +697,10 @@
   };
   netdata-go-d-plugin = {
     pname = "netdata-go-d-plugin";
-    version = "0.37.2";
+    version = "0.38.0";
     src = fetchurl {
-      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.37.2.tar.gz";
-      sha256 = "sha256-zsSP34Y+44zHRpjT/eLtErpDL3Tb6R9/F7XgPBNjScs=";
+      url = "https://github.com/netdata/go.d.plugin/archive/refs/tags/v0.38.0.tar.gz";
+      sha256 = "sha256-yhU7g7cuqTLpPhb85+2/NIgH/Xf2BeN1z7T3Sf5TNWs=";
     };
   };
   nix-zsh-completions = {
@@ -924,13 +924,13 @@
   };
   retroarch = {
     pname = "retroarch";
-    version = "a96c5f77c8b9b07e3623723f023161e80eaa79ac";
+    version = "fd41b0f90ccbb0b418082bf44e5ac9f62dd547e2";
     src = fetchFromGitHub ({
       owner = "libretro";
       repo = "retroarch";
-      rev = "a96c5f77c8b9b07e3623723f023161e80eaa79ac";
+      rev = "fd41b0f90ccbb0b418082bf44e5ac9f62dd547e2";
       fetchSubmodules = false;
-      sha256 = "sha256-kAiWgwplyPuFEXR9DFZyDHBGk6nnFBd8DRS1E+CRfI0=";
+      sha256 = "sha256-pRcMOJLnYVoGm/3lJwzyYkOPVrc8CFGc+iryYmEaX1A=";
     });
   };
   revanced-cli = {
