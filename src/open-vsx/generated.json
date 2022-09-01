@@ -6434,11 +6434,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-N9qckB6RlY7UIKTDPjQ4hmv5Kz8DIpLf6Kx1doKXQBU=",
+            "sha256": "sha256-/hOPYbx/HEv0EJGUKzlLiZ5QleaF5do9TEz0ZyyZFvQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.6/file/WatermelonTools.watermelon-tools-1.4.6.vsix"
+            "url": "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/file/WatermelonTools.watermelon-tools-1.5.3.vsix"
         },
-        "version": "1.4.6"
+        "version": "1.5.3"
     },
     "Wattenberger-footsteps": {
         "cargoLocks": null,
@@ -20855,11 +20855,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-UKDgg0zFu17VofNneQZUCOPJDz2hsAqahV1b+ANSo5I=",
+            "sha256": "sha256-V+QccNb9UjQpRLhgxPLrJQe9mMveVd+I3qyx5DZxHp4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662054814/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662054814.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662063621/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662063621.vsix"
         },
-        "version": "2022.9.1662054814"
+        "version": "2022.9.1662063621"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -21197,11 +21197,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-yLspgnOqfgLESVa083FALBgcXISDAAPIKsZggCar4UM=",
+            "sha256": "sha256-J3p+qR21xa34TBU+a39EnsGgJZWW78buN0dUgdFk9xg=",
             "type": "url",
-            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.18/file/ligolang-publish.ligo-vscode-0.4.18.vsix"
+            "url": "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.19/file/ligolang-publish.ligo-vscode-0.4.19.vsix"
         },
-        "version": "0.4.18"
+        "version": "0.4.19"
     },
     "lintangwisesa-arduino": {
         "cargoLocks": null,
@@ -27619,11 +27619,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6PIHfJXNbArYmYOULuoyhYKQDnayYrcV9TqIZMG/Rcw=",
+            "sha256": "sha256-bCIbdoQ60iLwDeHTXeRxaBE4PXxLGEU2hpaaU6XNric=",
             "type": "url",
-            "url": "https://open-vsx.org/api/quarto/quarto/1.35.0/file/quarto.quarto-1.35.0.vsix"
+            "url": "https://open-vsx.org/api/quarto/quarto/1.36.0/file/quarto.quarto-1.36.0.vsix"
         },
-        "version": "1.35.0"
+        "version": "1.36.0"
     },
     "quentinguidee-gitignore-ultimate": {
         "cargoLocks": null,
@@ -28664,11 +28664,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-u1W4yTZwXaIPKI77Kc4Ae4+TS5YHnd3jvRmrwdwQdlU=",
+            "sha256": "sha256-tpPBcHx4bEoCII96Acdld9hqkZ1a9PnmJ4Dm4EIM8C4=",
             "type": "url",
-            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.14/file/rgherdt.scheme-lsp-0.2.14.vsix"
+            "url": "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.0/file/rgherdt.scheme-lsp-0.3.0.vsix"
         },
-        "version": "0.2.14"
+        "version": "0.3.0"
     },
     "ria-elastic": {
         "cargoLocks": null,

@@ -4059,10 +4059,10 @@
   };
   WatermelonTools-watermelon-tools = {
     pname = "WatermelonTools-watermelon-tools";
-    version = "1.4.6";
+    version = "1.5.3";
     src = fetchurl {
-      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.6/file/WatermelonTools.watermelon-tools-1.4.6.vsix";
-      sha256 = "sha256-N9qckB6RlY7UIKTDPjQ4hmv5Kz8DIpLf6Kx1doKXQBU=";
+      url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/file/WatermelonTools.watermelon-tools-1.5.3.vsix";
+      sha256 = "sha256-/hOPYbx/HEv0EJGUKzlLiZ5QleaF5do9TEz0ZyyZFvQ=";
     };
     license = "See license.md (Apache)";
     name = "watermelon-tools";
@@ -13167,10 +13167,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662054814";
+    version = "2022.9.1662063621";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662054814/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662054814.vsix";
-      sha256 = "sha256-UKDgg0zFu17VofNneQZUCOPJDz2hsAqahV1b+ANSo5I=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662063621/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662063621.vsix";
+      sha256 = "sha256-V+QccNb9UjQpRLhgxPLrJQe9mMveVd+I3qyx5DZxHp4=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -13383,10 +13383,10 @@
   };
   ligolang-publish-ligo-vscode = {
     pname = "ligolang-publish-ligo-vscode";
-    version = "0.4.18";
+    version = "0.4.19";
     src = fetchurl {
-      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.18/file/ligolang-publish.ligo-vscode-0.4.18.vsix";
-      sha256 = "sha256-yLspgnOqfgLESVa083FALBgcXISDAAPIKsZggCar4UM=";
+      url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.19/file/ligolang-publish.ligo-vscode-0.4.19.vsix";
+      sha256 = "sha256-J3p+qR21xa34TBU+a39EnsGgJZWW78buN0dUgdFk9xg=";
     };
     license = "MIT";
     name = "ligo-vscode";
@@ -17439,10 +17439,10 @@
   };
   quarto-quarto = {
     pname = "quarto-quarto";
-    version = "1.35.0";
+    version = "1.36.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/quarto/quarto/1.35.0/file/quarto.quarto-1.35.0.vsix";
-      sha256 = "sha256-6PIHfJXNbArYmYOULuoyhYKQDnayYrcV9TqIZMG/Rcw=";
+      url = "https://open-vsx.org/api/quarto/quarto/1.36.0/file/quarto.quarto-1.36.0.vsix";
+      sha256 = "sha256-bCIbdoQ60iLwDeHTXeRxaBE4PXxLGEU2hpaaU6XNric=";
     };
     license = "MIT";
     name = "quarto";
@@ -18099,10 +18099,10 @@
   };
   rgherdt-scheme-lsp = {
     pname = "rgherdt-scheme-lsp";
-    version = "0.2.14";
+    version = "0.3.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.14/file/rgherdt.scheme-lsp-0.2.14.vsix";
-      sha256 = "sha256-u1W4yTZwXaIPKI77Kc4Ae4+TS5YHnd3jvRmrwdwQdlU=";
+      url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.0/file/rgherdt.scheme-lsp-0.3.0.vsix";
+      sha256 = "sha256-tpPBcHx4bEoCII96Acdld9hqkZ1a9PnmJ4Dm4EIM8C4=";
     };
     license = "GPL-3.0";
     name = "scheme-lsp";

@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1662054814" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662054814/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662054814.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1662063621" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662063621/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662063621.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -8585,8 +8585,8 @@ fetch.url = "https://open-vsx.org/api/Turiiya/german-scroll/0.1.4/file/Turiiya.g
 passthru = { publisher = "Turiiya", name = "german-scroll", description = "Vim like scrolling that obeys to the rules. Preserves folds and respects scrollOff.", license = "MIT" }
 
 [WatermelonTools-watermelon-tools]
-src.manual = "1.4.6" # WatermelonTools.watermelon-tools
-fetch.url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.4.6/file/WatermelonTools.watermelon-tools-1.4.6.vsix" # WatermelonTools.watermelon-tools
+src.manual = "1.5.3" # WatermelonTools.watermelon-tools
+fetch.url = "https://open-vsx.org/api/WatermelonTools/watermelon-tools/1.5.3/file/WatermelonTools.watermelon-tools-1.5.3.vsix" # WatermelonTools.watermelon-tools
 passthru = { publisher = "WatermelonTools", name = "watermelon-tools", description = "Watermelon, find all the historical context of your code", license = "See license.md (Apache)" }
 
 [webhint-vscode-webhint]
@@ -9100,8 +9100,8 @@ fetch.url = "https://open-vsx.org/api/PKief/copy-branch-name/1.0.2/file/PKief.co
 passthru = { publisher = "PKief", name = "copy-branch-name", description = "Extension to copy the current branch name", license = "MIT" }
 
 [ligolang-publish-ligo-vscode]
-src.manual = "0.4.18" # ligolang-publish.ligo-vscode
-fetch.url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.18/file/ligolang-publish.ligo-vscode-0.4.18.vsix" # ligolang-publish.ligo-vscode
+src.manual = "0.4.19" # ligolang-publish.ligo-vscode
+fetch.url = "https://open-vsx.org/api/ligolang-publish/ligo-vscode/0.4.19/file/ligolang-publish.ligo-vscode-0.4.19.vsix" # ligolang-publish.ligo-vscode
 passthru = { publisher = "ligolang-publish", name = "ligo-vscode", description = "LIGO VSCode extension includes syntax highlighting, and a language server for LIGO.", license = "MIT" }
 
 [mfederczuk-w3c-ebnf]
@@ -9180,8 +9180,8 @@ fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousde
 passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [rgherdt-scheme-lsp]
-src.manual = "0.2.14" # rgherdt.scheme-lsp
-fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.2.14/file/rgherdt.scheme-lsp-0.2.14.vsix" # rgherdt.scheme-lsp
+src.manual = "0.3.0" # rgherdt.scheme-lsp
+fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.0/file/rgherdt.scheme-lsp-0.3.0.vsix" # rgherdt.scheme-lsp
 passthru = { publisher = "rgherdt", name = "scheme-lsp", description = "An LSP-based extension for Scheme", license = "GPL-3.0" }
 
 [avast-threatlabs-yara-vscode-yls]
@@ -9455,8 +9455,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.8.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "resxpress", description = "Resx editor, previewer and sorting extension", license = "MIT" }
 
 [quarto-quarto]
-src.manual = "1.35.0" # quarto.quarto
-fetch.url = "https://open-vsx.org/api/quarto/quarto/1.35.0/file/quarto.quarto-1.35.0.vsix" # quarto.quarto
+src.manual = "1.36.0" # quarto.quarto
+fetch.url = "https://open-vsx.org/api/quarto/quarto/1.36.0/file/quarto.quarto-1.36.0.vsix" # quarto.quarto
 passthru = { publisher = "quarto", name = "quarto", description = "Extension for the Quarto scientific and technical publishing system.", license = "MIT" }
 
 [NicolasVuillamy-vscode-groovy-lint]
@@ -10210,4 +10210,5 @@ passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full
 src.manual = "1.0.4" # onflow.cadence
 fetch.url = "https://open-vsx.org/api/onflow/cadence/1.0.4/file/onflow.cadence-1.0.4.vsix" # onflow.cadence
 passthru = { publisher = "onflow", name = "cadence", description = "This extension integrates Cadence, the resource-oriented smart contract programming language of Flow, into Visual Studio Code.", license = "Apache-2.0" }
+
 
