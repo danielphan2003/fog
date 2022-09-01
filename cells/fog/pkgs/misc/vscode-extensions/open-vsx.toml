@@ -4186,7 +4186,7 @@ passthru = { publisher = "tuto193", name = "monokai-vibrant", description = "A v
 
 [steedos-steedosdx-vscode-core]
 src.manual = "2.2.5" # steedos.steedosdx-vscode-core
-fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode/2.2.5/file/steedos.steedosdx-vscode-2.2.5.vsix" # steedos.steedosdx-vscode-core
+fetch.url = "https://open-vsx.org/api/steedos/steedosdx-vscode-core/2.2.5/file/steedos.steedosdx-vscode-core-2.2.5.vsix" # steedos.steedosdx-vscode-core
 passthru = { publisher = "steedos", name = "steedosdx-vscode-core", description = "Provides integration with the Steedos CLI", license = "MIT" }
 
 [ZixuanChen-vitest-explorer]
@@ -6745,8 +6745,8 @@ fetch.url = "https://open-vsx.org/api/Divlo/vscode-styled-jsx-syntax/1.3.1/file/
 passthru = { publisher = "Divlo", name = "vscode-styled-jsx-syntax", description = "Syntax highlighting for styled-jsx", license = "MIT" }
 
 [Evidence-evidence-vscode]
-src.manual = "0.0.6" # Evidence.evidence-vscode
-fetch.url = "https://open-vsx.org/api/Evidence/evidence-vscode/0.0.6/file/Evidence.evidence-vscode-0.0.6.vsix" # Evidence.evidence-vscode
+src.manual = "0.0.8" # Evidence.evidence-vscode
+fetch.url = "https://open-vsx.org/api/Evidence/evidence-vscode/0.0.8/file/Evidence.evidence-vscode-0.0.8.vsix" # Evidence.evidence-vscode
 passthru = { publisher = "Evidence", name = "evidence-vscode", description = "Evidence language support for VS Code", license = "MIT" }
 
 [PolyMeilex-wgsl]
@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -8890,8 +8890,8 @@ fetch.url = "https://open-vsx.org/api/streetsidesoftware/code-spell-checker/2.7.
 passthru = { publisher = "streetsidesoftware", name = "code-spell-checker-arabic", description = "Arabic dictionary extension for VS Code.", license = "GPL-3.0-or-later" }
 
 [signageos-signageos-vscode-sops-beta]
-src.manual = "0.7.0" # signageos.signageos-vscode-sops-beta
-fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix" # signageos.signageos-vscode-sops-beta
+src.manual = "0.6.1" # signageos.signageos-vscode-sops-beta
+fetch.url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix" # signageos.signageos-vscode-sops-beta
 passthru = { publisher = "signageos", name = "signageos-vscode-sops-beta", description = "", license = "MIT" }
 
 [vunguyentuan-vscode-postcss]
@@ -9080,8 +9080,8 @@ fetch.url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor
 passthru = { publisher = "IBM", name = "zopeneditor", description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.", license = "" }
 
 [CodeStream-codestream]
-src.manual = "13.6.0" # CodeStream.codestream
-fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.6.0/file/CodeStream.codestream-13.6.0.vsix" # CodeStream.codestream
+src.manual = "13.7.0" # CodeStream.codestream
+fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.7.0/file/CodeStream.codestream-13.7.0.vsix" # CodeStream.codestream
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
@@ -9180,8 +9180,8 @@ fetch.url = "https://open-vsx.org/api/piousdeer/adwaita-theme/1.0.8/file/piousde
 passthru = { publisher = "piousdeer", name = "adwaita-theme", description = "Theme for the GNOME desktop", license = "GPL-3.0-only" }
 
 [rgherdt-scheme-lsp]
-src.manual = "0.3.0" # rgherdt.scheme-lsp
-fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.0/file/rgherdt.scheme-lsp-0.3.0.vsix" # rgherdt.scheme-lsp
+src.manual = "0.3.1" # rgherdt.scheme-lsp
+fetch.url = "https://open-vsx.org/api/rgherdt/scheme-lsp/0.3.1/file/rgherdt.scheme-lsp-0.3.1.vsix" # rgherdt.scheme-lsp
 passthru = { publisher = "rgherdt", name = "scheme-lsp", description = "An LSP-based extension for Scheme", license = "GPL-3.0" }
 
 [avast-threatlabs-yara-vscode-yls]
@@ -9220,8 +9220,8 @@ fetch.url = "https://open-vsx.org/api/jsw/csharpextensions/1.7.1/file/jsw.csharp
 passthru = { publisher = "jsw", name = "csharpextensions", description = "C# IDE Extensions for VSCode", license = "MIT" }
 
 [GitHub-vscode-codeql]
-src.manual = "1.6.11" # GitHub.vscode-codeql
-fetch.url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.11/file/GitHub.vscode-codeql-1.6.11.vsix" # GitHub.vscode-codeql
+src.manual = "1.6.12" # GitHub.vscode-codeql
+fetch.url = "https://open-vsx.org/api/GitHub/vscode-codeql/1.6.12/file/GitHub.vscode-codeql-1.6.12.vsix" # GitHub.vscode-codeql
 passthru = { publisher = "GitHub", name = "vscode-codeql", description = "CodeQL for Visual Studio Code", license = "MIT" }
 
 [kdarkhan-mips]
@@ -9255,8 +9255,8 @@ fetch.url = "https://open-vsx.org/api/elves/elvish/0.1.3/file/elves.elvish-0.1.3
 passthru = { publisher = "elves", name = "elvish", description = "Elvish language support for Visual Studio Code", license = "BSD-2-Clause" }
 
 [tamasfe-even-better-toml]
-src.manual = "0.17.1" # tamasfe.even-better-toml
-fetch.url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.17.1/file/tamasfe.even-better-toml-0.17.1.vsix" # tamasfe.even-better-toml
+src.manual = "0.18.0" # tamasfe.even-better-toml
+fetch.url = "https://open-vsx.org/api/tamasfe/even-better-toml/0.18.0/file/tamasfe.even-better-toml-0.18.0.vsix" # tamasfe.even-better-toml
 passthru = { publisher = "tamasfe", name = "even-better-toml", description = "Fully-featured TOML support", license = "MIT" }
 
 [mgesbert-indent-nested-dictionary]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -10174,7 +10174,7 @@ passthru = { publisher = "br4ch1st0chr0n3", name = "purs-hotkeys", description =
 
 [arm-keil-studio-pack-web]
 src.manual = "1.0.7" # arm.keil-studio-pack-web
-fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix" # arm.keil-studio-pack-web
+fetch.url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.7/file/arm.keil-studio-pack-web-1.0.7.vsix" # arm.keil-studio-pack-web
 passthru = { publisher = "arm", name = "keil-studio-pack-web", description = "Extension pack for Keil Studio development", license = "MIT" }
 
 
@@ -10210,5 +10210,6 @@ passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full
 src.manual = "1.0.4" # onflow.cadence
 fetch.url = "https://open-vsx.org/api/onflow/cadence/1.0.4/file/onflow.cadence-1.0.4.vsix" # onflow.cadence
 passthru = { publisher = "onflow", name = "cadence", description = "This extension integrates Cadence, the resource-oriented smart contract programming language of Flow, into Visual Studio Code.", license = "Apache-2.0" }
+
 
 
