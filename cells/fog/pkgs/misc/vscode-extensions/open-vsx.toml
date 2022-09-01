@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1662047922" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662047922/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662047922.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1662054814" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662054814/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662054814.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -9810,8 +9810,8 @@ fetch.url = "https://open-vsx.org/api/astro-build/astro-vscode/0.23.1/file/astro
 passthru = { publisher = "astro-build", name = "astro-vscode", description = "Language support for Astro", license = "MIT" }
 
 [Prisma-prisma]
-src.manual = "4.3.0" # Prisma.prisma
-fetch.url = "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix" # Prisma.prisma
+src.manual = "4.3.1" # Prisma.prisma
+fetch.url = "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix" # Prisma.prisma
 passthru = { publisher = "Prisma", name = "prisma", description = "Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.", license = "Apache-2.0" }
 
 [shivaprasanth-dothttp-code]
@@ -9895,8 +9895,8 @@ fetch.url = "https://open-vsx.org/api/vscodevim/vim/1.23.2/file/vscodevim.vim-1.
 passthru = { publisher = "vscodevim", name = "vim", description = "Vim emulation for Visual Studio Code", license = "MIT" }
 
 [Prisma-prisma-insider]
-src.manual = "4.3.0" # Prisma.prisma-insider
-fetch.url = "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix" # Prisma.prisma-insider
+src.manual = "4.3.1" # Prisma.prisma-insider
+fetch.url = "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix" # Prisma.prisma-insider
 passthru = { publisher = "Prisma", name = "prisma-insider", description = "This is the Insider Build of the Prisma VSCode extension (only use it if you are also using the dev version of the CLI).", license = "Apache-2.0" }
 
 [vadimcn-vscode-lldb]
@@ -10204,4 +10204,10 @@ passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full
 
 
 
+
+
+[onflow-cadence]
+src.manual = "1.0.4" # onflow.cadence
+fetch.url = "https://open-vsx.org/api/onflow/cadence/1.0.4/file/onflow.cadence-1.0.4.vsix" # onflow.cadence
+passthru = { publisher = "onflow", name = "cadence", description = "This extension integrates Cadence, the resource-oriented smart contract programming language of Flow, into Visual Studio Code.", license = "Apache-2.0" }
 

@@ -4914,11 +4914,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NrFYZ4jB2KJp9Kn3p41R5+rlbhi46eV4PdlQ+BwJl+E=",
+            "sha256": "sha256-IccK7cdW2KjEKlgCC/K7zzs09VvS0fr2TBhR178VX1k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix"
         },
-        "version": "4.3.0"
+        "version": "4.3.1"
     },
     "Prisma-prisma-insider": {
         "cargoLocks": null,
@@ -4933,11 +4933,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-NrFYZ4jB2KJp9Kn3p41R5+rlbhi46eV4PdlQ+BwJl+E=",
+            "sha256": "sha256-IccK7cdW2KjEKlgCC/K7zzs09VvS0fr2TBhR178VX1k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix"
+            "url": "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix"
         },
-        "version": "4.3.0"
+        "version": "4.3.1"
     },
     "Prisma-vscode-graphql": {
         "cargoLocks": null,
@@ -20855,11 +20855,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-sMQ9pwriw3EGgtC9eYJVE/FOJ5pNZnrNCen+ktODDAQ=",
+            "sha256": "sha256-UKDgg0zFu17VofNneQZUCOPJDz2hsAqahV1b+ANSo5I=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662047922/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662047922.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662054814/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662054814.vsix"
         },
-        "version": "2022.9.1662047922"
+        "version": "2022.9.1662054814"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -25705,6 +25705,25 @@
             "url": "https://open-vsx.org/api/onecentlin/laravel5-snippets/1.15.0/file/onecentlin.laravel5-snippets-1.15.0.vsix"
         },
         "version": "1.15.0"
+    },
+    "onflow-cadence": {
+        "cargoLocks": null,
+        "extract": null,
+        "name": "onflow-cadence",
+        "passthru": {
+            "description": "This extension integrates Cadence, the resource-oriented smart contract programming language of Flow, into Visual Studio Code.",
+            "license": "Apache-2.0",
+            "name": "cadence",
+            "publisher": "onflow"
+        },
+        "pinned": false,
+        "src": {
+            "name": null,
+            "sha256": "sha256-Uy7xq5nFIZjVhidSRGpa2x+dgnPcpTdKMggRccjhsIE=",
+            "type": "url",
+            "url": "https://open-vsx.org/api/onflow/cadence/1.0.4/file/onflow.cadence-1.0.4.vsix"
+        },
+        "version": "1.0.4"
     },
     "oouo-diogo-perdigao-docthis": {
         "cargoLocks": null,

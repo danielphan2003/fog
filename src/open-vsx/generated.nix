@@ -3099,10 +3099,10 @@
   };
   Prisma-prisma = {
     pname = "Prisma-prisma";
-    version = "4.3.0";
+    version = "4.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix";
-      sha256 = "sha256-NrFYZ4jB2KJp9Kn3p41R5+rlbhi46eV4PdlQ+BwJl+E=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix";
+      sha256 = "sha256-IccK7cdW2KjEKlgCC/K7zzs09VvS0fr2TBhR178VX1k=";
     };
     license = "Apache-2.0";
     name = "prisma";
@@ -3111,10 +3111,10 @@
   };
   Prisma-prisma-insider = {
     pname = "Prisma-prisma-insider";
-    version = "4.3.0";
+    version = "4.3.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Prisma/prisma/4.3.0/file/Prisma.prisma-4.3.0.vsix";
-      sha256 = "sha256-NrFYZ4jB2KJp9Kn3p41R5+rlbhi46eV4PdlQ+BwJl+E=";
+      url = "https://open-vsx.org/api/Prisma/prisma/4.3.1/file/Prisma.prisma-4.3.1.vsix";
+      sha256 = "sha256-IccK7cdW2KjEKlgCC/K7zzs09VvS0fr2TBhR178VX1k=";
     };
     license = "Apache-2.0";
     name = "prisma-insider";
@@ -13167,10 +13167,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662047922";
+    version = "2022.9.1662054814";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662047922/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662047922.vsix";
-      sha256 = "sha256-sMQ9pwriw3EGgtC9eYJVE/FOJ5pNZnrNCen+ktODDAQ=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662054814/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662054814.vsix";
+      sha256 = "sha256-UKDgg0zFu17VofNneQZUCOPJDz2hsAqahV1b+ANSo5I=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -16236,6 +16236,18 @@
     name = "laravel5-snippets";
     description = "Laravel snippets for Visual Studio Code  (Support Laravel 5 and above)";
     publisher = "onecentlin";
+  };
+  onflow-cadence = {
+    pname = "onflow-cadence";
+    version = "1.0.4";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/onflow/cadence/1.0.4/file/onflow.cadence-1.0.4.vsix";
+      sha256 = "sha256-Uy7xq5nFIZjVhidSRGpa2x+dgnPcpTdKMggRccjhsIE=";
+    };
+    license = "Apache-2.0";
+    name = "cadence";
+    description = "This extension integrates Cadence, the resource-oriented smart contract programming language of Flow, into Visual Studio Code.";
+    publisher = "onflow";
   };
   oouo-diogo-perdigao-docthis = {
     pname = "oouo-diogo-perdigao-docthis";
