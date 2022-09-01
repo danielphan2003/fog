@@ -923,11 +923,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-n11hJymLetXav7v03049ASEyLZA4GIDibqTkigIEm3k=",
+            "sha256": "sha256-ISe0qBTOO/pbVGXEYK1acBivQSgt7eQp/2pZuA0s/sc=",
             "type": "url",
-            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6524.tar.bz2"
+            "url": "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6525.tar.bz2"
         },
-        "version": "1.0.6524"
+        "version": "1.0.6525"
     },
     "jitsi-meet-prosody": {
         "cargoLocks": null,
@@ -937,11 +937,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-rZW00xiyVb9dnxv8OjB14+8q3Rrq+1V8vso5E6w9R6I=",
+            "sha256": "sha256-+FNXLHZCqN0sJGPUkqT4X6shPQPLYqIl+w6woVOW9Lk=",
             "type": "url",
-            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6524-1_all.deb"
+            "url": "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6525-1_all.deb"
         },
-        "version": "1.0.6524"
+        "version": "1.0.6525"
     },
     "jitsi-videobridge2": {
         "cargoLocks": null,
@@ -1121,11 +1121,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-b7DAkgTrzPyikoqmHPJfbnH4CyPxwh5WEDyVVdx0H68=",
+            "sha256": "sha256-pEr34TXpWuZpoY6A5IISJFlGFzZOe20bSXYam2/9WF0=",
             "type": "url",
-            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_104.0.1293.70-1_amd64.deb"
+            "url": "https://packages.microsoft.com/repos/edge/pool/main/m/microsoft-edge-stable/microsoft-edge-stable_105.0.1343.25-1_amd64.deb"
         },
-        "version": "104.0.1293.70"
+        "version": "105.0.1343.25"
     },
     "minecraft-wayland": {
         "cargoLocks": null,
