@@ -7296,7 +7296,7 @@ passthru = { publisher = "BroadcomMFD", name = "ccf", description = "Graphical v
 
 [grammarcraft-epsilon-eag-extension-pack]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-extension-pack
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix" # grammarcraft.epsilon-eag-extension-pack
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-extension-pack", description = "Installs the EAG language extension and specialized themes for EAG grammar specification coloring.", license = "EPL-2.0" }
 
 [caponetto-vscode-diff-viewer]
@@ -7995,8 +7995,8 @@ fetch.url = "https://open-vsx.org/api/rubjo/ultimate-dark-neo/0.1.0/file/rubjo.u
 passthru = { publisher = "rubjo", name = "ultimate-dark-neo", description = "Beautiful bluish dark theme with italics.", license = "MIT" }
 
 [varunkumar-google-input-tools]
-src.manual = "0.0.20" # varunkumar.google-input-tools
-fetch.url = "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.20/file/varunkumar.google-input-tools-0.0.20.vsix" # varunkumar.google-input-tools
+src.manual = "0.0.21" # varunkumar.google-input-tools
+fetch.url = "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.21/file/varunkumar.google-input-tools-0.0.21.vsix" # varunkumar.google-input-tools
 passthru = { publisher = "varunkumar", name = "google-input-tools", description = "Google Input Tools for Code", license = "" }
 
 [sigbots-pros]
@@ -10194,6 +10194,7 @@ passthru = { publisher = "monokai", name = "theme-monokai-pro-vscode", descripti
 src.manual = "0.3.1" # Grafana.vscode-jsonnet
 fetch.url = "https://open-vsx.org/api/Grafana/vscode-jsonnet/0.3.1/file/Grafana.vscode-jsonnet-0.3.1.vsix" # Grafana.vscode-jsonnet
 passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full code support (formatting, highlighting, navigation, etc) for Jsonnet", license = "Apache License Version 2.0" }
+
 
 
 

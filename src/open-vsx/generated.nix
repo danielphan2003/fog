@@ -10397,8 +10397,8 @@
     pname = "grammarcraft-epsilon-eag-extension-pack";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
-      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix";
+      sha256 = "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-extension-pack";
@@ -21447,10 +21447,10 @@
   };
   varunkumar-google-input-tools = {
     pname = "varunkumar-google-input-tools";
-    version = "0.0.20";
+    version = "0.0.21";
     src = fetchurl {
-      url = "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.20/file/varunkumar.google-input-tools-0.0.20.vsix";
-      sha256 = "sha256-dk1PlKw7OdsoUTDG6XXCC8G1sBYzK1j8n8A8aiOJrUc=";
+      url = "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.21/file/varunkumar.google-input-tools-0.0.21.vsix";
+      sha256 = "sha256-nwtjuzAwhO9bOlmzxw7GmPlROBmHLb1Dlg0Cib7QeWc=";
     };
     license = "";
     name = "google-input-tools";

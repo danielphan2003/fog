@@ -16466,9 +16466,9 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=",
+            "sha256": "sha256-bYxfM3SZJdpqiTywk351l22ukZVMNfnDLnzQxP5tx5k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix"
+            "url": "https://open-vsx.org/api/grammarcraft/epsilon-eag-extension-pack/2.1.1/file/grammarcraft.epsilon-eag-extension-pack-2.1.1.vsix"
         },
         "version": "2.1.1"
     },
@@ -33965,11 +33965,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-dk1PlKw7OdsoUTDG6XXCC8G1sBYzK1j8n8A8aiOJrUc=",
+            "sha256": "sha256-nwtjuzAwhO9bOlmzxw7GmPlROBmHLb1Dlg0Cib7QeWc=",
             "type": "url",
-            "url": "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.20/file/varunkumar.google-input-tools-0.0.20.vsix"
+            "url": "https://open-vsx.org/api/varunkumar/google-input-tools/0.0.21/file/varunkumar.google-input-tools-0.0.21.vsix"
         },
-        "version": "0.0.20"
+        "version": "0.0.21"
     },
     "vemonet-stardog-rdf-grammars": {
         "cargoLocks": null,
