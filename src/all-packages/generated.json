@@ -359,11 +359,11 @@
             "name": null,
             "owner": "caddyserver",
             "repo": "caddy",
-            "rev": "d4d8bbcfc64d1194079cae35697709f6d267d02f",
-            "sha256": "sha256-NaUi1brFjP7HY7q7S1rRj0nrqyjfmyxb4EWAmkFGzd0=",
+            "rev": "cb849bd6648294feb42eac1081aece589f20eaf6",
+            "sha256": "sha256-KVhhJm/jQANMkV7nw+rrJJZhzLwNk+i9hamOe9rS/+g=",
             "type": "github"
         },
-        "version": "d4d8bbcfc64d1194079cae35697709f6d267d02f"
+        "version": "cb849bd6648294feb42eac1081aece589f20eaf6"
     },
     "cinny": {
         "cargoLocks": null,
@@ -1563,11 +1563,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-Mo5bq7hgbmFsoZndPiWQ18c0RKxAot8E+dizAJXcICQ=",
+            "sha256": "sha256-5HbPIENlUSG7GeoJDtZ+Y9mqd6KN2ZSjQWbJ9iFC5tg=",
             "type": "url",
-            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.4/revanced-cli-2.9.4-all.jar"
+            "url": "https://github.com/revanced/revanced-cli/releases/download/v2.9.5/revanced-cli-2.9.5-all.jar"
         },
-        "version": "2.9.4"
+        "version": "2.9.5"
     },
     "revanced-integrations": {
         "cargoLocks": null,
@@ -1830,11 +1830,11 @@
             "name": null,
             "owner": "spicetify",
             "repo": "spicetify-marketplace",
-            "rev": "27684681a576cef23a2a0d11e066d69aa56413b0",
-            "sha256": "sha256-fuSrDW5yuVlu9ZHdzU1ApERyzMNA2SGhj5LZdtpt4lI=",
+            "rev": "61513ca53c7179721cf418b9ed09aa0cf5b9e08f",
+            "sha256": "sha256-v9Glys7+Lu9gR65cprmrb8Bnd1xp/cf+GEwaNeVuEfU=",
             "type": "github"
         },
-        "version": "27684681a576cef23a2a0d11e066d69aa56413b0"
+        "version": "61513ca53c7179721cf418b9ed09aa0cf5b9e08f"
     },
     "spicetify-themes": {
         "cargoLocks": null,

@@ -210,13 +210,13 @@
   };
   caddy-git = {
     pname = "caddy-git";
-    version = "d4d8bbcfc64d1194079cae35697709f6d267d02f";
+    version = "cb849bd6648294feb42eac1081aece589f20eaf6";
     src = fetchFromGitHub ({
       owner = "caddyserver";
       repo = "caddy";
-      rev = "d4d8bbcfc64d1194079cae35697709f6d267d02f";
+      rev = "cb849bd6648294feb42eac1081aece589f20eaf6";
       fetchSubmodules = false;
-      sha256 = "sha256-NaUi1brFjP7HY7q7S1rRj0nrqyjfmyxb4EWAmkFGzd0=";
+      sha256 = "sha256-KVhhJm/jQANMkV7nw+rrJJZhzLwNk+i9hamOe9rS/+g=";
     });
   };
   cinny = {
@@ -935,10 +935,10 @@
   };
   revanced-cli = {
     pname = "revanced-cli";
-    version = "2.9.4";
+    version = "2.9.5";
     src = fetchurl {
-      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.4/revanced-cli-2.9.4-all.jar";
-      sha256 = "sha256-Mo5bq7hgbmFsoZndPiWQ18c0RKxAot8E+dizAJXcICQ=";
+      url = "https://github.com/revanced/revanced-cli/releases/download/v2.9.5/revanced-cli-2.9.5-all.jar";
+      sha256 = "sha256-5HbPIENlUSG7GeoJDtZ+Y9mqd6KN2ZSjQWbJ9iFC5tg=";
     };
   };
   revanced-integrations = {
@@ -1097,13 +1097,13 @@
   };
   spicetify-marketplace = {
     pname = "spicetify-marketplace";
-    version = "27684681a576cef23a2a0d11e066d69aa56413b0";
+    version = "61513ca53c7179721cf418b9ed09aa0cf5b9e08f";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-marketplace";
-      rev = "27684681a576cef23a2a0d11e066d69aa56413b0";
+      rev = "61513ca53c7179721cf418b9ed09aa0cf5b9e08f";
       fetchSubmodules = false;
-      sha256 = "sha256-fuSrDW5yuVlu9ZHdzU1ApERyzMNA2SGhj5LZdtpt4lI=";
+      sha256 = "sha256-v9Glys7+Lu9gR65cprmrb8Bnd1xp/cf+GEwaNeVuEfU=";
     });
   };
   spicetify-themes = {
