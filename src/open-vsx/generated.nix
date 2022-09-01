@@ -795,10 +795,10 @@
   };
   Dart-Code-dart-code = {
     pname = "Dart-Code-dart-code";
-    version = "3.46.0";
+    version = "3.48.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.46.0/file/Dart-Code.dart-code-3.46.0.vsix";
-      sha256 = "sha256-H+dUr+c2x0D6pyFqlZrDSYKUq7MoLmi7EPmSfzIv6iw=";
+      url = "https://open-vsx.org/api/Dart-Code/dart-code/3.48.0/file/Dart-Code.dart-code-3.48.0.vsix";
+      sha256 = "sha256-8kV1dAC2V6Lzw307W4nBFAhM22Tdts2LwvPyNmxzG4k=";
     };
     license = "MIT";
     name = "dart-code";
@@ -807,10 +807,10 @@
   };
   Dart-Code-flutter = {
     pname = "Dart-Code-flutter";
-    version = "3.46.0";
+    version = "3.48.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/Dart-Code/flutter/3.46.0/file/Dart-Code.flutter-3.46.0.vsix";
-      sha256 = "sha256-8TDGtSrMy93kjyG/EoUppxo9SiMbqLD9+iWNtcz/rc8=";
+      url = "https://open-vsx.org/api/Dart-Code/flutter/3.48.0/file/Dart-Code.flutter-3.48.0.vsix";
+      sha256 = "sha256-0cwXJbXNKozygWVh2nydU2SgiqNsjwGKvkcaQlfQx40=";
     };
     license = "MIT";
     name = "flutter";
@@ -5547,10 +5547,10 @@
   };
   arm-keil-studio-pack = {
     pname = "arm-keil-studio-pack";
-    version = "1.0.6";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
-      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix";
+      sha256 = "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=";
     };
     license = "MIT";
     name = "keil-studio-pack";
@@ -5559,10 +5559,10 @@
   };
   arm-keil-studio-pack-web = {
     pname = "arm-keil-studio-pack-web";
-    version = "1.0.6";
+    version = "1.0.7";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
-      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix";
+      sha256 = "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -13167,10 +13167,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662042067";
+    version = "2022.9.1662047922";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662042067/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662042067.vsix";
-      sha256 = "sha256-6I8EJy9JQ4aKNCQDv778mxXOLrbZwus4prEbdw1Tyrk=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662047922/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662047922.vsix";
+      sha256 = "sha256-sMQ9pwriw3EGgtC9eYJVE/FOJ5pNZnrNCen+ktODDAQ=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -17691,10 +17691,10 @@
   };
   redhat-ansible = {
     pname = "redhat-ansible";
-    version = "0.13.59";
+    version = "0.13.60";
     src = fetchurl {
-      url = "https://open-vsx.org/api/redhat/ansible/0.13.59/file/redhat.ansible-0.13.59.vsix";
-      sha256 = "sha256-2tP3YmGARGRLykcXlg6DjIO9QgAlger0uHwSczGZp4c=";
+      url = "https://open-vsx.org/api/redhat/ansible/0.13.60/file/redhat.ansible-0.13.60.vsix";
+      sha256 = "sha256-R+gbBGDZARkf8vQAwlCvjw+jZHAexYxH/P96pL2FMCA=";
     };
     license = "MIT";
     name = "ansible";
@@ -19191,10 +19191,10 @@
   };
   signageos-signageos-vscode-sops-beta = {
     pname = "signageos-signageos-vscode-sops-beta";
-    version = "0.6.1";
+    version = "0.7.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix";
-      sha256 = "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=";
+      url = "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix";
+      sha256 = "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=";
     };
     license = "MIT";
     name = "signageos-vscode-sops-beta";

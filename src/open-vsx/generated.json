@@ -1266,11 +1266,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-H+dUr+c2x0D6pyFqlZrDSYKUq7MoLmi7EPmSfzIv6iw=",
+            "sha256": "sha256-8kV1dAC2V6Lzw307W4nBFAhM22Tdts2LwvPyNmxzG4k=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.46.0/file/Dart-Code.dart-code-3.46.0.vsix"
+            "url": "https://open-vsx.org/api/Dart-Code/dart-code/3.48.0/file/Dart-Code.dart-code-3.48.0.vsix"
         },
-        "version": "3.46.0"
+        "version": "3.48.0"
     },
     "Dart-Code-flutter": {
         "cargoLocks": null,
@@ -1285,11 +1285,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-8TDGtSrMy93kjyG/EoUppxo9SiMbqLD9+iWNtcz/rc8=",
+            "sha256": "sha256-0cwXJbXNKozygWVh2nydU2SgiqNsjwGKvkcaQlfQx40=",
             "type": "url",
-            "url": "https://open-vsx.org/api/Dart-Code/flutter/3.46.0/file/Dart-Code.flutter-3.46.0.vsix"
+            "url": "https://open-vsx.org/api/Dart-Code/flutter/3.48.0/file/Dart-Code.flutter-3.48.0.vsix"
         },
-        "version": "3.46.0"
+        "version": "3.48.0"
     },
     "DavidAnson-vscode-markdownlint": {
         "cargoLocks": null,
@@ -8790,11 +8790,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=",
+            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
         },
-        "version": "1.0.6"
+        "version": "1.0.7"
     },
     "arm-keil-studio-pack-web": {
         "cargoLocks": null,
@@ -8809,11 +8809,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=",
+            "sha256": "sha256-Q4x9EYEbiuT0ppNkpeEXlYpt7olXZG8Q/qf1EVUYWzQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix"
+            "url": "https://open-vsx.org/api/arm/keil-studio-pack/1.0.7/file/arm.keil-studio-pack-1.0.7.vsix"
         },
-        "version": "1.0.6"
+        "version": "1.0.7"
     },
     "armandphilippot-coldark": {
         "cargoLocks": null,
@@ -20855,11 +20855,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-6I8EJy9JQ4aKNCQDv778mxXOLrbZwus4prEbdw1Tyrk=",
+            "sha256": "sha256-sMQ9pwriw3EGgtC9eYJVE/FOJ5pNZnrNCen+ktODDAQ=",
             "type": "url",
-            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662042067/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662042067.vsix"
+            "url": "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662047922/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662047922.vsix"
         },
-        "version": "2022.9.1662042067"
+        "version": "2022.9.1662047922"
     },
     "leading-works-eml2html": {
         "cargoLocks": null,
@@ -28018,11 +28018,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-2tP3YmGARGRLykcXlg6DjIO9QgAlger0uHwSczGZp4c=",
+            "sha256": "sha256-R+gbBGDZARkf8vQAwlCvjw+jZHAexYxH/P96pL2FMCA=",
             "type": "url",
-            "url": "https://open-vsx.org/api/redhat/ansible/0.13.59/file/redhat.ansible-0.13.59.vsix"
+            "url": "https://open-vsx.org/api/redhat/ansible/0.13.60/file/redhat.ansible-0.13.60.vsix"
         },
-        "version": "0.13.59"
+        "version": "0.13.60"
     },
     "redhat-apache-camel-extension-pack": {
         "cargoLocks": null,
@@ -30393,11 +30393,11 @@
         "pinned": false,
         "src": {
             "name": null,
-            "sha256": "sha256-e3lER75AClupsR4uI7TOMjiQpRkNa6PTdie5t0rn9Y4=",
+            "sha256": "sha256-XPZaC+uLelukEbjoNnfusHEWMMkxTT4NqFV6Ksh/u5A=",
             "type": "url",
-            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops/0.6.1/file/signageos.signageos-vscode-sops-0.6.1.vsix"
+            "url": "https://open-vsx.org/api/signageos/signageos-vscode-sops-beta/0.7.0/file/signageos.signageos-vscode-sops-beta-0.7.0.vsix"
         },
-        "version": "0.6.1"
+        "version": "0.7.0"
     },
     "silofy-hackthebox": {
         "cargoLocks": null,
