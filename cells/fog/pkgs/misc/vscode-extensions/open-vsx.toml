@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.4.178" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
+src.manual = "0.5.4" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -3485,8 +3485,8 @@ fetch.url = "https://open-vsx.org/api/vshaxe/hxcpp-debugger/1.2.4/file/vshaxe.hx
 passthru = { publisher = "vshaxe", name = "hxcpp-debugger", description = "Debugger for Haxe/HXCPP applications", license = "MIT" }
 
 [ms-toolsai-jupyter-keymap]
-src.manual = "2022.8.1002170547" # ms-toolsai.jupyter-keymap
-fetch.url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.8.1002170547/file/ms-toolsai.jupyter-2022.8.1002170547.vsix" # ms-toolsai.jupyter-keymap
+src.manual = "2022.8.1002460559" # ms-toolsai.jupyter-keymap
+fetch.url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.8.1002460559/file/ms-toolsai.jupyter-2022.8.1002460559.vsix" # ms-toolsai.jupyter-keymap
 passthru = { publisher = "ms-toolsai", name = "jupyter-keymap", description = "Jupyter keymaps for notebooks", license = "MIT" }
 
 [iocave-monkey-patch]
@@ -4120,8 +4120,8 @@ fetch.url = "https://open-vsx.org/api/pyxel/runic-theme/1.2.0/file/pyxel.runic-t
 passthru = { publisher = "pyxel", name = "runic-theme", description = "A minimal dark theme based on the sitruuna vim theme", license = "MIT" }
 
 [ms-vscode-cmake-tools]
-src.manual = "1.11.26" # ms-vscode.cmake-tools
-fetch.url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.11.26/file/ms-vscode.cmake-tools-1.11.26.vsix" # ms-vscode.cmake-tools
+src.manual = "1.12.26" # ms-vscode.cmake-tools
+fetch.url = "https://open-vsx.org/api/ms-vscode/cmake-tools/1.12.26/file/ms-vscode.cmake-tools-1.12.26.vsix" # ms-vscode.cmake-tools
 passthru = { publisher = "ms-vscode", name = "cmake-tools", description = "Extended CMake support in Visual Studio Code", license = "MIT" }
 
 [cweijan-vscode-postgresql-client2]
@@ -4640,8 +4640,8 @@ fetch.url = "https://open-vsx.org/api/bringout/f18-klijent/5.6.33/file/bringout.
 passthru = { publisher = "bringout", name = "f18-klijent", description = "F18 klijent host eShell", license = "MIT" }
 
 [vscjava-vscode-spring-boot-dashboard]
-src.manual = "0.6.0" # vscjava.vscode-spring-boot-dashboard
-fetch.url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.6.0/file/vscjava.vscode-spring-boot-dashboard-0.6.0.vsix" # vscjava.vscode-spring-boot-dashboard
+src.manual = "0.7.0" # vscjava.vscode-spring-boot-dashboard
+fetch.url = "https://open-vsx.org/api/vscjava/vscode-spring-boot-dashboard/0.7.0/file/vscjava.vscode-spring-boot-dashboard-0.7.0.vsix" # vscjava.vscode-spring-boot-dashboard
 passthru = { publisher = "vscjava", name = "vscode-spring-boot-dashboard", description = "Spring Boot Dashboard for VS Code", license = "MIT" }
 
 [mesonbuild-mesonbuild]
@@ -4850,8 +4850,8 @@ fetch.url = "https://open-vsx.org/api/RobbOwen/synthwave-vscode/0.1.14/file/Robb
 passthru = { publisher = "RobbOwen", name = "synthwave-vscode", description = "A Synthwave-inspired colour theme to satisfy your neon dreams", license = "MIT" }
 
 [johnpapa-vscode-peacock]
-src.manual = "4.1.0" # johnpapa.vscode-peacock
-fetch.url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.1.0/file/johnpapa.vscode-peacock-4.1.0.vsix" # johnpapa.vscode-peacock
+src.manual = "4.2.0" # johnpapa.vscode-peacock
+fetch.url = "https://open-vsx.org/api/johnpapa/vscode-peacock/4.2.0/file/johnpapa.vscode-peacock-4.2.0.vsix" # johnpapa.vscode-peacock
 passthru = { publisher = "johnpapa", name = "vscode-peacock", description = "Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.", license = "MIT" }
 
 [cloudstudio-metawork]
@@ -5035,8 +5035,8 @@ fetch.url = "https://open-vsx.org/api/mhkb/vscode-theme-darcula-stormy/0.7.0/fil
 passthru = { publisher = "mhkb", name = "vscode-theme-darcula-stormy", description = "A theme extension for VS Code based on Darcula theme from Jetbrains IDEs", license = "MIT" }
 
 [ms-toolsai-jupyter-renderers]
-src.manual = "2022.8.1002170547" # ms-toolsai.jupyter-renderers
-fetch.url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.8.1002170547/file/ms-toolsai.jupyter-2022.8.1002170547.vsix" # ms-toolsai.jupyter-renderers
+src.manual = "2022.8.1002460559" # ms-toolsai.jupyter-renderers
+fetch.url = "https://open-vsx.org/api/ms-toolsai/jupyter/2022.8.1002460559/file/ms-toolsai.jupyter-2022.8.1002460559.vsix" # ms-toolsai.jupyter-renderers
 passthru = { publisher = "ms-toolsai", name = "jupyter-renderers", description = "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)", license = "MIT" }
 
 [vscjava-vscode-java-debug]
@@ -6930,8 +6930,8 @@ fetch.url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.50
 passthru = { publisher = "hediet", name = "vscode-drawio-insiders-build", description = "This is the unstable Insiders Build", license = "GPL-3.0" }
 
 [malipetek-liquivelte]
-src.manual = "1.0.3" # malipetek.liquivelte
-fetch.url = "https://open-vsx.org/api/malipetek/liquivelte/1.0.3/file/malipetek.liquivelte-1.0.3.vsix" # malipetek.liquivelte
+src.manual = "1.0.4" # malipetek.liquivelte
+fetch.url = "https://open-vsx.org/api/malipetek/liquivelte/1.0.4/file/malipetek.liquivelte-1.0.4.vsix" # malipetek.liquivelte
 passthru = { publisher = "malipetek", name = "liquivelte", description = "Write Shopify Themes With Svelte like syntax!", license = "MIT" }
 
 [XadillaX-van-gogh-paintings]
@@ -7311,7 +7311,7 @@ passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", descr
 
 [grammarcraft-epsilon-eag-dark-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-dark-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-dark-theme/2.1.1/file/grammarcraft.epsilon-eag-dark-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-dark-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-dark-theme", description = "Dark Theme for Extended Affix Grammars (based on Dark+)", license = "EPL-2.0" }
 
 [frenya-vscode-recall]
@@ -7350,8 +7350,8 @@ fetch.url = "https://open-vsx.org/api/dsteenman/cloudformation-yaml-snippets/3.5
 passthru = { publisher = "dsteenman", name = "cloudformation-yaml-snippets", description = "This extension adds snippets for all the AWS CloudFormation resources into Visual Studio Code.", license = "MIT" }
 
 [znck-vue-language-features]
-src.manual = "0.11.5" # znck.vue-language-features
-fetch.url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix" # znck.vue-language-features
+src.manual = "0.11.4" # znck.vue-language-features
+fetch.url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix" # znck.vue-language-features
 passthru = { publisher = "znck", name = "vue-language-features", description = "Advanced TypeScript/JavaScript support for Vue", license = "MIT" }
 
 [antfu-browse-lite]
@@ -8375,8 +8375,8 @@ fetch.url = "https://open-vsx.org/api/typefox/yang-vscode/2.2.0/file/typefox.yan
 passthru = { publisher = "typefox", name = "yang-vscode", description = "Yang editor support and diagrams for VS Code", license = "Apache-2.0" }
 
 [F5DevCentral-vscode-f5-chariot]
-src.manual = "3.8.5" # F5DevCentral.vscode-f5-chariot
-fetch.url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.5/file/F5DevCentral.vscode-f5-3.8.5.vsix" # F5DevCentral.vscode-f5-chariot
+src.manual = "3.8.6" # F5DevCentral.vscode-f5-chariot
+fetch.url = "https://open-vsx.org/api/F5DevCentral/vscode-f5/3.8.6/file/F5DevCentral.vscode-f5-3.8.6.vsix" # F5DevCentral.vscode-f5-chariot
 passthru = { publisher = "F5DevCentral", name = "vscode-f5-chariot", description = "(ACC) AS3 Configuration Converter integration", license = "Apache-2.0" }
 
 [muhammad-sammy-csharp]
@@ -9686,7 +9686,7 @@ passthru = { publisher = "AdaCore", name = "ada", description = "A Language Serv
 
 [AdaCore-ada-debug]
 src.manual = "23.0.9" # AdaCore.ada-debug
-fetch.url = "https://open-vsx.org/api/AdaCore/ada-debug/23.0.9/file/AdaCore.ada-debug-23.0.9.vsix" # AdaCore.ada-debug
+fetch.url = "https://open-vsx.org/api/AdaCore/ada/23.0.9/file/AdaCore.ada-23.0.9.vsix" # AdaCore.ada-debug
 passthru = { publisher = "AdaCore", name = "ada-debug", description = "A Language Server providing Ada and SPARK support in Visual Studio Code", license = "GPL-3.0" }
 
 [zerodind-familiar-java-themes]
@@ -9705,8 +9705,8 @@ fetch.url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.2/file/zenclabs.pr
 passthru = { publisher = "zenclabs", name = "previewjs", description = "Get instant previews of your UI components, directly in your IDE", license = "https://previewjs.com/eula" }
 
 [halcyontechltd-code-for-ibmi]
-src.manual = "1.5.9" # halcyontechltd.code-for-ibmi
-fetch.url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.9/file/halcyontechltd.code-for-ibmi-1.5.9.vsix" # halcyontechltd.code-for-ibmi
+src.manual = "1.5.10" # halcyontechltd.code-for-ibmi
+fetch.url = "https://open-vsx.org/api/halcyontechltd/code-for-ibmi/1.5.10/file/halcyontechltd.code-for-ibmi-1.5.10.vsix" # halcyontechltd.code-for-ibmi
 passthru = { publisher = "halcyontechltd", name = "code-for-ibmi", description = "Maintain your RPGLE, CL, COBOL, C/CPP on IBM i right from Visual Studio Code.", license = "MIT" }
 
 [njzy-stats-bar]
@@ -9725,8 +9725,8 @@ fetch.url = "https://open-vsx.org/api/rangav/vscode-thunder-client/1.18.7/file/r
 passthru = { publisher = "rangav", name = "vscode-thunder-client", description = "Lightweight Rest API Client for VS Code", license = "" }
 
 [t-codespaces-ide-data-sync]
-src.manual = "0.1.7" # t-codespaces.ide-data-sync
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.7/file/t-codespaces.ide-data-sync-0.1.7.vsix" # t-codespaces.ide-data-sync
+src.manual = "0.1.8" # t-codespaces.ide-data-sync
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-codespaces.ide-data-sync-0.1.8.vsix" # t-codespaces.ide-data-sync
 passthru = { publisher = "t-codespaces", name = "ide-data-sync", description = "sync ide settings and other data to cloud", license = "" }
 
 [iterative-dvc]
@@ -9735,8 +9735,8 @@ fetch.url = "https://open-vsx.org/api/iterative/dvc/0.3.26/file/iterative.dvc-0.
 passthru = { publisher = "iterative", name = "dvc", description = "Machine learning experiment management with tracking, plots, and data versioning.", license = "Apache-2.0" }
 
 [Slint-slint-nightly]
-src.manual = "2022.8.3022" # Slint.slint-nightly
-fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.3022/file/Slint.slint-nightly-2022.8.3022.vsix" # Slint.slint-nightly
+src.manual = "2022.8.3121" # Slint.slint-nightly
+fetch.url = "https://open-vsx.org/api/Slint/slint-nightly/2022.8.3121/file/Slint.slint-nightly-2022.8.3121.vsix" # Slint.slint-nightly
 passthru = { publisher = "Slint", name = "slint-nightly", description = "Slint Language extension (Nightly)", license = "GPL-3.0" }
 
 [pokey-cursorless]
@@ -10058,8 +10058,8 @@ passthru = { publisher = "gera2ld", name = "ipfs-editor-vscode", description = "
 
 
 [t-codespaces-ide-data-sync-node]
-src.manual = "0.1.7" # t-codespaces.ide-data-sync-node
-fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.7/file/t-codespaces.ide-data-sync-0.1.7.vsix" # t-codespaces.ide-data-sync-node
+src.manual = "0.1.8" # t-codespaces.ide-data-sync-node
+fetch.url = "https://open-vsx.org/api/t-codespaces/ide-data-sync/0.1.8/file/t-codespaces.ide-data-sync-0.1.8.vsix" # t-codespaces.ide-data-sync-node
 passthru = { publisher = "t-codespaces", name = "ide-data-sync-node", description = "端云一体 vscode-remote node 端消费插件", license = "" }
 
 
@@ -10194,6 +10194,7 @@ passthru = { publisher = "monokai", name = "theme-monokai-pro-vscode", descripti
 src.manual = "0.3.1" # Grafana.vscode-jsonnet
 fetch.url = "https://open-vsx.org/api/Grafana/vscode-jsonnet/0.3.1/file/Grafana.vscode-jsonnet-0.3.1.vsix" # Grafana.vscode-jsonnet
 passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full code support (formatting, highlighting, navigation, etc) for Jsonnet", license = "Apache License Version 2.0" }
+
 
 
 
