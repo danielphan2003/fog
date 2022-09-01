@@ -463,13 +463,13 @@
   };
   fx_cast = {
     pname = "fx_cast";
-    version = "78e936195c24aa04c30afdde7899c4b8b81c2917";
+    version = "50ed7ca500b2cf23740ecb47c3332c50145cc72c";
     src = fetchFromGitHub ({
       owner = "hensm";
       repo = "fx_cast";
-      rev = "78e936195c24aa04c30afdde7899c4b8b81c2917";
+      rev = "50ed7ca500b2cf23740ecb47c3332c50145cc72c";
       fetchSubmodules = false;
-      sha256 = "sha256-xEilaUY8Gg88UEzUinu6dbMJcqnK6b2kkEeOgIjl5Vw=";
+      sha256 = "sha256-nT3zxFFqV16u8VxKgrP08A+BwUk2zPbfZZM82b0u/Zc=";
     });
   };
   godu = {
@@ -556,18 +556,18 @@
   };
   jitsi-meet = {
     pname = "jitsi-meet";
-    version = "1.0.6521";
+    version = "1.0.6522";
     src = fetchurl {
-      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6521.tar.bz2";
-      sha256 = "sha256-kuqSIQC8kxJkunuG3XdgfKlPnJzZ84hOIWw5D+7Plzc=";
+      url = "https://download.jitsi.org/jitsi-meet/src/jitsi-meet-1.0.6522.tar.bz2";
+      sha256 = "sha256-z1q7wNVWxY7iviOM1pIGgcwFRK8XqzvDHizl4MwR9cU=";
     };
   };
   jitsi-meet-prosody = {
     pname = "jitsi-meet-prosody";
-    version = "1.0.6521";
+    version = "1.0.6522";
     src = fetchurl {
-      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6521-1_all.deb";
-      sha256 = "sha256-pq6v9Ulfnn2qPzEZdVrWiY4cGr2HE/FD3RlwnHmOnV4=";
+      url = "https://download.jitsi.org/unstable/jitsi-meet-prosody_1.0.6522-1_all.deb";
+      sha256 = "sha256-CSCryMbGkcAw0FOmKn2TEWfdbD3CRdPw6UwgYtJjQIg=";
     };
   };
   jitsi-videobridge2 = {
@@ -1086,13 +1086,13 @@
   };
   spicetify-cli = {
     pname = "spicetify-cli";
-    version = "6c756a6de8037a4b89a4367c966ae3ea40cc1bbf";
+    version = "811877be58b90543e57995daf2a659b6d605fc57";
     src = fetchFromGitHub ({
       owner = "spicetify";
       repo = "spicetify-cli";
-      rev = "6c756a6de8037a4b89a4367c966ae3ea40cc1bbf";
+      rev = "811877be58b90543e57995daf2a659b6d605fc57";
       fetchSubmodules = false;
-      sha256 = "sha256-ka+T5l7jfcme2ekot9TXalqtmy3mZ0B5nkHpysP6lPQ=";
+      sha256 = "sha256-XsYZoJDSaAp+oMTy5YWM9aM+TCNkqF5WXBhU/axcEVk=";
     });
   };
   spicetify-marketplace = {
