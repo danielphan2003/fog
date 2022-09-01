@@ -1900,8 +1900,8 @@ fetch.url = "https://open-vsx.org/api/wendreof/ufo/0.0.12/file/wendreof.ufo-0.0.
 passthru = { publisher = "wendreof", name = "ufo", description = "Ufo-based color theme to improve your VS Code | The Truth is Out There", license = "MIT" }
 
 [larshp-vscode-abaplint]
-src.manual = "0.5.4" # larshp.vscode-abaplint
-fetch.url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix" # larshp.vscode-abaplint
+src.manual = "0.4.178" # larshp.vscode-abaplint
+fetch.url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix" # larshp.vscode-abaplint
 passthru = { publisher = "larshp", name = "vscode-abaplint", description = "ABAP linting, problems view, go to definition, find references, and quick fixes.", license = "MIT" }
 
 [auchenberg-vscode-browser-preview]
@@ -6930,8 +6930,8 @@ fetch.url = "https://open-vsx.org/api/hediet/vscode-drawio-insiders-build/1.6.50
 passthru = { publisher = "hediet", name = "vscode-drawio-insiders-build", description = "This is the unstable Insiders Build", license = "GPL-3.0" }
 
 [malipetek-liquivelte]
-src.manual = "1.0.2" # malipetek.liquivelte
-fetch.url = "https://open-vsx.org/api/malipetek/liquivelte/1.0.2/file/malipetek.liquivelte-1.0.2.vsix" # malipetek.liquivelte
+src.manual = "1.0.3" # malipetek.liquivelte
+fetch.url = "https://open-vsx.org/api/malipetek/liquivelte/1.0.3/file/malipetek.liquivelte-1.0.3.vsix" # malipetek.liquivelte
 passthru = { publisher = "malipetek", name = "liquivelte", description = "Write Shopify Themes With Svelte like syntax!", license = "MIT" }
 
 [XadillaX-van-gogh-paintings]
@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.8.1661891737" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.8.1661891737/file/launchdarklyofficial.launchdarkly-beta-2022.8.1661891737.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1661995806" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1661995806/file/launchdarklyofficial.launchdarkly-beta-2022.9.1661995806.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -8915,8 +8915,8 @@ fetch.url = "https://open-vsx.org/api/spoorthi/cosmy-wasmy/1.1.0/file/spoorthi.c
 passthru = { publisher = "spoorthi", name = "cosmy-wasmy", description = "wibbly wobbly cosmy wasmy tool to interact with cosmwasm smart contracts", license = "GPL-3.0" }
 
 [vunguyentuan-vscode-css-variables]
-src.manual = "2.4.2" # vunguyentuan.vscode-css-variables
-fetch.url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.4.2/file/vunguyentuan.vscode-css-variables-2.4.2.vsix" # vunguyentuan.vscode-css-variables
+src.manual = "2.6.0" # vunguyentuan.vscode-css-variables
+fetch.url = "https://open-vsx.org/api/vunguyentuan/vscode-css-variables/2.6.0/file/vunguyentuan.vscode-css-variables-2.6.0.vsix" # vunguyentuan.vscode-css-variables
 passthru = { publisher = "vunguyentuan", name = "vscode-css-variables", description = "Autocomplete CSS Variable support CSS, SCSS, LESS, PostCSS, VueJS, ReactJS and more", license = "MIT" }
 
 [redhat-vscode-apache-camel]
@@ -9455,8 +9455,8 @@ fetch.url = "https://open-vsx.org/api/PrateekMahendrakar/resxpress/4.8.0/file/Pr
 passthru = { publisher = "PrateekMahendrakar", name = "resxpress", description = "Resx editor, previewer and sorting extension", license = "MIT" }
 
 [quarto-quarto]
-src.manual = "1.34.0" # quarto.quarto
-fetch.url = "https://open-vsx.org/api/quarto/quarto/1.34.0/file/quarto.quarto-1.34.0.vsix" # quarto.quarto
+src.manual = "1.35.0" # quarto.quarto
+fetch.url = "https://open-vsx.org/api/quarto/quarto/1.35.0/file/quarto.quarto-1.35.0.vsix" # quarto.quarto
 passthru = { publisher = "quarto", name = "quarto", description = "Extension for the Quarto scientific and technical publishing system.", license = "MIT" }
 
 [NicolasVuillamy-vscode-groovy-lint]
@@ -9830,8 +9830,8 @@ fetch.url = "https://open-vsx.org/api/qcz/text-power-tools/1.36.1/file/qcz.text-
 passthru = { publisher = "qcz", name = "text-power-tools", description = "All-in-one solution with 150+ commands for text manipulation: filter lines (grep), remove lines, insert number sequences and GUIDs, sorting, change case, converting numbers, generating fake data and more. Great for finding information in logs.", license = "MIT" }
 
 [remcohaszing-schemastore]
-src.manual = "1.0.15" # remcohaszing.schemastore
-fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.15/file/remcohaszing.schemastore-1.0.15.vsix" # remcohaszing.schemastore
+src.manual = "1.0.16" # remcohaszing.schemastore
+fetch.url = "https://open-vsx.org/api/remcohaszing/schemastore/1.0.16/file/remcohaszing.schemastore-1.0.16.vsix" # remcohaszing.schemastore
 passthru = { publisher = "remcohaszing", name = "schemastore", description = "Use the JSON Schema Store catalog for JSON schema validation.", license = "MIT" }
 
 [elixir-lsp-elixir-ls]
@@ -10194,6 +10194,7 @@ passthru = { publisher = "monokai", name = "theme-monokai-pro-vscode", descripti
 src.manual = "0.3.1" # Grafana.vscode-jsonnet
 fetch.url = "https://open-vsx.org/api/Grafana/vscode-jsonnet/0.3.1/file/Grafana.vscode-jsonnet-0.3.1.vsix" # Grafana.vscode-jsonnet
 passthru = { publisher = "Grafana", name = "vscode-jsonnet", description = "Full code support (formatting, highlighting, navigation, etc) for Jsonnet", license = "Apache License Version 2.0" }
+
 
 
 
