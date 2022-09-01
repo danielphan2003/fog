@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
-      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.6/file/arm.keil-studio-pack-web-1.0.6.vsix";
+      sha256 = "sha256-UdNP1kIHW4000hV5qmrsazzEclk9fxTJMwVLzaaIGbA=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -7803,10 +7803,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.4";
+    version = "0.13.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.4/file/d-biehl.robotcode-0.13.4.vsix";
-      sha256 = "sha256-tI65WKM64Y5GZp5uGfy9m81EwXJNfRkHAjaOIHLcQZY=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.5/file/d-biehl.robotcode-0.13.5.vsix";
+      sha256 = "sha256-eG1ikTdjUf3jt2QCfxyru9WvGQJppUshn4fuC5oNHDE=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -9651,10 +9651,10 @@
   };
   foam-foam-vscode = {
     pname = "foam-foam-vscode";
-    version = "0.19.4";
+    version = "0.19.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.4/file/foam.foam-vscode-0.19.4.vsix";
-      sha256 = "sha256-m6b9MyoWH+JY8iS6+XcA5C0PAphzrINSGl9AykUCKnY=";
+      url = "https://open-vsx.org/api/foam/foam-vscode/0.19.5/file/foam.foam-vscode-0.19.5.vsix";
+      sha256 = "sha256-pVCqOjAhN5gNndD+xHvniImN1WBD8jR+Cvg57EDyyrs=";
     };
     license = "MIT";
     name = "foam-vscode";
@@ -12843,10 +12843,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "20.6.0";
+    version = "22.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
-      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
+      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
+      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
     };
     license = "";
     name = "krom-debug";
