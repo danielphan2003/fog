@@ -5561,8 +5561,8 @@
     pname = "arm-keil-studio-pack-web";
     version = "1.0.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/arm/keil-studio-pack-web/1.0.6/file/arm.keil-studio-pack-web-1.0.6.vsix";
-      sha256 = "sha256-UdNP1kIHW4000hV5qmrsazzEclk9fxTJMwVLzaaIGbA=";
+      url = "https://open-vsx.org/api/arm/keil-studio-pack/1.0.6/file/arm.keil-studio-pack-1.0.6.vsix";
+      sha256 = "sha256-m3i8so8QSGRSzSo1dLbdJFPcDA8wEUDc5Er8pKyXyhs=";
     };
     license = "MIT";
     name = "keil-studio-pack-web";
@@ -12843,10 +12843,10 @@
   };
   kodetech-krom-debug = {
     pname = "kodetech-krom-debug";
-    version = "22.6.0";
+    version = "20.6.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/kodetech/krom/22.6.0/file/kodetech.krom-22.6.0.vsix";
-      sha256 = "sha256-+Y2fKsSoEpzcWctOufs8sawnGzj0Luiv3SAtrpQV3uk=";
+      url = "https://open-vsx.org/api/kodetech/krom-debug/20.6.0/file/kodetech.krom-debug-20.6.0.vsix";
+      sha256 = "sha256-fsz2Qv2oKyUZqy0r+FwRyy9IjjFC4CWXz2cMvJAdyRg=";
     };
     license = "";
     name = "krom-debug";
@@ -13143,10 +13143,10 @@
   };
   larshp-vscode-abaplint = {
     pname = "larshp-vscode-abaplint";
-    version = "0.5.4";
+    version = "0.4.178";
     src = fetchurl {
-      url = "https://open-vsx.org/api/larshp/vscode-abap/0.5.4/file/larshp.vscode-abap-0.5.4.vsix";
-      sha256 = "sha256-gWvry1z7qSw/1Xo7WPpHZ1es2UJ71GY4D3g6du2093M=";
+      url = "https://open-vsx.org/api/larshp/vscode-abaplint/0.4.178/file/larshp.vscode-abaplint-0.4.178.vsix";
+      sha256 = "sha256-VoDu1YvVqK4Q99gXfxgo9/CLWmZYKqlqnuGbXYnlFyQ=";
     };
     license = "MIT";
     name = "vscode-abaplint";
@@ -13167,10 +13167,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1661995806";
+    version = "2022.9.1662042067";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1661995806/file/launchdarklyofficial.launchdarkly-beta-2022.9.1661995806.vsix";
-      sha256 = "sha256-pUpnEi94NYnNT+4vo/IgY/7ht3FAPN8g7rnlnyGlmMI=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662042067/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662042067.vsix";
+      sha256 = "sha256-6I8EJy9JQ4aKNCQDv778mxXOLrbZwus4prEbdw1Tyrk=";
     };
     license = "";
     name = "launchdarkly-beta";
@@ -23931,10 +23931,10 @@
   };
   zenclabs-previewjs = {
     pname = "zenclabs-previewjs";
-    version = "1.12.2";
+    version = "1.13.0";
     src = fetchurl {
-      url = "https://open-vsx.org/api/zenclabs/previewjs/1.12.2/file/zenclabs.previewjs-1.12.2.vsix";
-      sha256 = "sha256-EKZW+NHM+FXfy/J4hfubmKIR0kJuzvFij66RZnrb5io=";
+      url = "https://open-vsx.org/api/zenclabs/previewjs/1.13.0/file/zenclabs.previewjs-1.13.0.vsix";
+      sha256 = "sha256-Uj5GpRUV27sHWUztR3/mzaIu6LYdfXKJwqtZM5RSJ3I=";
     };
     license = "https://previewjs.com/eula";
     name = "previewjs";
@@ -24075,10 +24075,10 @@
   };
   znck-vue-language-features = {
     pname = "znck-vue-language-features";
-    version = "0.11.4";
+    version = "0.11.5";
     src = fetchurl {
-      url = "https://open-vsx.org/api/znck/vue/0.11.4/file/znck.vue-0.11.4.vsix";
-      sha256 = "sha256-xwm+6qLuLmiHUfuA7RaplWAXyNKmAGEIADaPTYiGOow=";
+      url = "https://open-vsx.org/api/znck/vue-language-features/0.11.5/file/znck.vue-language-features-0.11.5.vsix";
+      sha256 = "sha256-OtvsQjhs2UcoWAG7dAui+dJlR4i0YiocdLBX0fu0oIs=";
     };
     license = "MIT";
     name = "vue-language-features";
