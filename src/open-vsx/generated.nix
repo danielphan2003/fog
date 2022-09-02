@@ -591,10 +591,10 @@
   };
   CodeStream-codestream = {
     pname = "CodeStream-codestream";
-    version = "13.7.0";
+    version = "13.7.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/CodeStream/codestream/13.7.0/file/CodeStream.codestream-13.7.0.vsix";
-      sha256 = "sha256-7CuYIbLurIGOjeC+DxIGNCFxgiHqh/JOdQcvsW7UFGI=";
+      url = "https://open-vsx.org/api/CodeStream/codestream/13.7.1/file/CodeStream.codestream-13.7.1.vsix";
+      sha256 = "sha256-0SLNPjPIjTlfjMfHh3eSni36IUSt6Ny0bLfb7xljCvU=";
     };
     license = "UNLICENSED";
     name = "codestream";
@@ -7815,10 +7815,10 @@
   };
   d-biehl-robotcode = {
     pname = "d-biehl-robotcode";
-    version = "0.13.5";
+    version = "0.13.6";
     src = fetchurl {
-      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.5/file/d-biehl.robotcode-0.13.5.vsix";
-      sha256 = "sha256-eG1ikTdjUf3jt2QCfxyru9WvGQJppUshn4fuC5oNHDE=";
+      url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.6/file/d-biehl.robotcode-0.13.6.vsix";
+      sha256 = "sha256-RY1C2TZ5YsTcesGahbSrzKu1PTm3d3EfM7BWJmVDHnE=";
     };
     license = "Apache-2.0";
     name = "robotcode";
@@ -8316,6 +8316,18 @@
     name = "devoid-theme";
     description = "A dark theme for VS Code with italics support";
     publisher = "dev01d";
+  };
+  devMikeUA-mikrotik-routeros-script = {
+    pname = "devMikeUA-mikrotik-routeros-script";
+    version = "2022.9.2";
+    src = fetchurl {
+      url = "https://open-vsx.org/api/devMikeUA/mikrotik-routeros-script/2022.9.2/file/devMikeUA.mikrotik-routeros-script-2022.9.2.vsix";
+      sha256 = "sha256-4P/5hpJaBVuzh9VmfxJBF8mpINlmRo6dtemIaySS/3c=";
+    };
+    license = "MIT";
+    name = "mikrotik-routeros-script";
+    description = "Provides snippets, syntax highlighting, bracket matching for Mikrotik RouterOS script.";
+    publisher = "devMikeUA";
   };
   devberto-theme-newton-next = {
     pname = "devberto-theme-newton-next";
@@ -10421,8 +10433,8 @@
     pname = "grammarcraft-epsilon-eag-light-theme";
     version = "2.1.1";
     src = fetchurl {
-      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix";
-      sha256 = "sha256-8wFP+6fV+eZshHNygOJza2/ycjughcQQL1LRm0gyZf4=";
+      url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix";
+      sha256 = "sha256-tzUx2CjwcRGlx1pzeMiJ2aYSb+4nsCdWZa7ra1Mv/2E=";
     };
     license = "EPL-2.0";
     name = "epsilon-eag-light-theme";
@@ -13179,10 +13191,10 @@
   };
   launchdarklyofficial-launchdarkly-beta = {
     pname = "launchdarklyofficial-launchdarkly-beta";
-    version = "2022.9.1662150115";
+    version = "2022.9.1662152828";
     src = fetchurl {
-      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662150115/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662150115.vsix";
-      sha256 = "sha256-ttAMvIP/HXVvvPSGUy2lt89JBgnBry20tNyo5UWf8S8=";
+      url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662152828/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662152828.vsix";
+      sha256 = "sha256-nBM5hYfZrIxOv4MXCTdNl9EMWDVMTWCHXx3gMcJmPjw=";
     };
     license = "";
     name = "launchdarkly-beta";

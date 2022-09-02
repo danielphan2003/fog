@@ -7170,8 +7170,8 @@ fetch.url = "https://open-vsx.org/api/biao1010/ai-js/0.0.1/file/biao1010.ai-js-0
 passthru = { publisher = "biao1010", name = "ai-js", description = "同步脚本到服务器", license = "MIT" }
 
 [launchdarklyofficial-launchdarkly-beta]
-src.manual = "2022.9.1662150115" # launchdarklyofficial.launchdarkly-beta
-fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662150115/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662150115.vsix" # launchdarklyofficial.launchdarkly-beta
+src.manual = "2022.9.1662152828" # launchdarklyofficial.launchdarkly-beta
+fetch.url = "https://open-vsx.org/api/launchdarklyofficial/launchdarkly-beta/2022.9.1662152828/file/launchdarklyofficial.launchdarkly-beta-2022.9.1662152828.vsix" # launchdarklyofficial.launchdarkly-beta
 passthru = { publisher = "launchdarklyofficial", name = "launchdarkly-beta", description = "Manage LaunchDarkly feature flags directly from within your code", license = "" }
 
 [engn2219-anu-engn2219-2022-s1-vscode]
@@ -7306,7 +7306,7 @@ passthru = { publisher = "caponetto", name = "vscode-diff-viewer", description =
 
 [grammarcraft-epsilon-eag-light-theme]
 src.manual = "2.1.1" # grammarcraft.epsilon-eag-light-theme
-fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag-light-theme/2.1.1/file/grammarcraft.epsilon-eag-light-theme-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
+fetch.url = "https://open-vsx.org/api/grammarcraft/epsilon-eag/2.1.1/file/grammarcraft.epsilon-eag-2.1.1.vsix" # grammarcraft.epsilon-eag-light-theme
 passthru = { publisher = "grammarcraft", name = "epsilon-eag-light-theme", description = "Light Theme for Extended Affix Grammars (based on Light+)", license = "EPL-2.0" }
 
 [grammarcraft-epsilon-eag-dark-theme]
@@ -8905,8 +8905,8 @@ fetch.url = "https://open-vsx.org/api/svsool/markdown-memo/0.3.19/file/svsool.ma
 passthru = { publisher = "svsool", name = "markdown-memo", description = "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode", license = "MIT" }
 
 [d-biehl-robotcode]
-src.manual = "0.13.5" # d-biehl.robotcode
-fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.5/file/d-biehl.robotcode-0.13.5.vsix" # d-biehl.robotcode
+src.manual = "0.13.6" # d-biehl.robotcode
+fetch.url = "https://open-vsx.org/api/d-biehl/robotcode/0.13.6/file/d-biehl.robotcode-0.13.6.vsix" # d-biehl.robotcode
 passthru = { publisher = "d-biehl", name = "robotcode", description = "RobotFramework support for Visual Studio Code", license = "Apache-2.0" }
 
 [spoorthi-cosmy-wasmy]
@@ -9080,8 +9080,8 @@ fetch.url = "https://open-vsx.org/api/IBM/zopeneditor/2.1.1/file/IBM.zopeneditor
 passthru = { publisher = "IBM", name = "zopeneditor", description = "Provides COBOL, PL/I, HLASM, and REXX language servers, as well as tools for IBM Z development.", license = "" }
 
 [CodeStream-codestream]
-src.manual = "13.7.0" # CodeStream.codestream
-fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.7.0/file/CodeStream.codestream-13.7.0.vsix" # CodeStream.codestream
+src.manual = "13.7.1" # CodeStream.codestream
+fetch.url = "https://open-vsx.org/api/CodeStream/codestream/13.7.1/file/CodeStream.codestream-13.7.1.vsix" # CodeStream.codestream
 passthru = { publisher = "CodeStream", name = "codestream", description = "GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching. Integrates with New Relic observability, Bitbucket, Slack, MS Teams, Jira, Trello and more.", license = "UNLICENSED" }
 
 [jeanp413-open-remote-ssh]
@@ -10237,4 +10237,10 @@ src.manual = "1.1.5" # slevesque.shader
 fetch.url = "https://open-vsx.org/api/slevesque/shader/1.1.5/file/slevesque.shader-1.1.5.vsix" # slevesque.shader
 passthru = { publisher = "slevesque", name = "shader", description = "Syntax highlighter for shader language (hlsl, glsl, cg) ", license = "LICENSE.md" }
 
+
+
+[devMikeUA-mikrotik-routeros-script]
+src.manual = "2022.9.2" # devMikeUA.mikrotik-routeros-script
+fetch.url = "https://open-vsx.org/api/devMikeUA/mikrotik-routeros-script/2022.9.2/file/devMikeUA.mikrotik-routeros-script-2022.9.2.vsix" # devMikeUA.mikrotik-routeros-script
+passthru = { publisher = "devMikeUA", name = "mikrotik-routeros-script", description = "Provides snippets, syntax highlighting, bracket matching for Mikrotik RouterOS script.", license = "MIT" }
 
